@@ -1297,3 +1297,316 @@ Audio: faint silk rustle, single soft contented breath, distant chapel-room reve
 Negative: no subtitles, no on-screen text, no morphing, no warping, no captions, no logos.
 
 ---
+
+
+
+## CONCEPT 09 — ATELIER FASHION CHAOS (FASHION CHAOS EDIT — INDOOR)
+
+**20-WORD REEL SUMMARY:** Aira spins through atelier dressing room, swaps silk scarves mid-twirl, throws head back, finishes with confident pose.
+
+**WORLD / THEME:** Fashion chaos edit — couture atelier dressing room, energetic multi-look fashion-week energy, fast playful momentum.
+**HERO PRODUCT:** Trio of luxury silk scarves (cream, scarlet, emerald) used as styling props, plus a single statement gold cuff bracelet that stays on through all frames.
+**ENVIRONMENT IDENTITY:** Couture atelier dressing room interior, wide-plank dark walnut floor, full-wall antique apothecary mirror with brass frame at left, vintage rolling garment rack with eight haute-couture pieces on padded silk hangers in mid-frame, walnut tailor's mannequin in soft-focus, marble pedestal with a single tall white orchid in clear glass vase, scattered fashion-magazine tear sheets on floor, soft cream walls.
+**LIGHTING MOOD:** Warm overhead pendant light + cool window-light spill from frame-right (off-screen window). Two sources only.
+**HOOK DISTRIBUTION:** F1 hands-yanking-scarf-from-rack hook · F3 mid-twirl scarf flying hook · F5 mid-laugh open-mouth chaos hook · F7 statement-pose freeze hook.
+**SUBJECT ENERGY PROFILE:** High-energy, mid-laugh, chaotic-confident, the alive girl-getting-dressed-fast feeling, full-body movement with hair flying, the joy-of-fashion energy.
+**MOTION CONTINUITY LOGIC:** Yanks cream scarf from rack → drapes over shoulder → twirls into red scarf → mid-twirl reveal → laughing chaos with scarves flying → scarf swap to emerald → confident statement freeze pose finale.
+**CAMERA LANGUAGE PLAN:** F1 handheld at chest 35mm · F2 macro insert on hands 100mm · F3 full orbit four seconds 35mm · F4 low-angle pedestal rise 35mm · F5 handheld micro-shake 50mm · F6 rack focus near-to-far 50mm · F7 slow pull-out 50mm.
+**EXPRESSION CHOREOGRAPHY:** F1 focused fashion-pluck concentration · F2 playful product-rotation smirk · F3 mid-twirl ecstatic eyes-half-closed · F4 head-back open-mouth full laugh · F5 chaos-laugh shoulder-shake · F6 sudden direct-lens lock smirk · F7 statement-pose cold-confident sovereign.
+**BODY LANGUAGE PLAN:** F1 hand pulling cream scarf off hanger with shoulder pop · F2 fingertips rotating scarf between thumb-index · F3 both arms outward in twirl, scarf trailing · F4 head back arms-up open laugh · F5 hands clutching two scarves at chest, shoulders shaking · F6 fingertip to lower lip with smirk · F7 hand on hip + emerald scarf draped over shoulder, sovereign stance.
+**HAIR PHYSICS NOTES:** Long glossy chestnut waves parted center, blow-dry-clean styling, full motion physics throughout — wind-tunnel-level lift in F3 (twelve centimeters), chaotic mid-laugh tumble in F5, settled cleanly into final stance in F7.
+**FABRIC MOTION NOTES:** Black silk slip-dress base layer (bias-cut, mid-thigh, thin spaghetti straps) stays on her throughout, the three silk scarves are the action — cream Hermès-style square scarf 90cm in F1-F3, scarlet long silk wrap 200cm in F4-F5, emerald silk square 90cm in F6-F7.
+**LIGHTING PHYSICS NOTES:** Warm overhead pendant from above center casting circular warm wash, cool window light spilling from frame-right at 50 degrees, the brass mirror frame at left catching a warm specular highlight, dark walnut floor reflecting warm pendant softly under her feet.
+**BEAUTY PRODUCT INTERACTION PLAN:** Cream scarf yanked from rack F1, draped over shoulder F2, used as twirl-trail in F3. Scarlet scarf gathered in F4, clutched in F5. Emerald scarf swapped in F6, draped sovereign F7. Gold cuff bracelet stays on right wrist through all frames as the constant.
+**VIEWER ENGAGEMENT MOMENTS:** F4 head-back open-mouth full laugh · F6 sudden direct-lens lock smirk · F7 statement-pose sovereign stare.
+**ANTI-ILLUSTRATION SAFEGUARDS:** Real silk-scarf weave with hand-rolled edge, real hanger metal with subtle wear, real walnut floor grain, real magazine paper texture on tear sheets, real brass mirror patina, real chaotic-but-physical hair physics in mid-twirl.
+**HYPERREAL COMMERCIAL TEXTURE LANGUAGE:** Schiaparelli atelier editorial finish, raw cinematic 8k, fashion-week documentary realism mixed with high-fashion polish, no CGI bloom, no plastic skin, no neon.
+**FOOTWEAR STRING:** Black patent-leather pointed-toe ankle boots, 90mm stiletto heel, side zip with brushed-gold pull tab, smooth almond toe, no embellishment, soft sheen leather sole.
+
+---
+
+### FRAME 1 — IMAGE PROMPT
+
+9:16 aspect ratio, strictly photorealistic, ultra-realistic, 8k resolution, raw cinematic beauty-campaign aesthetic, hyperreal commercial texture, anti-illustration, anti-comic-book, anti-CGI, real-camera lens behavior, shallow depth of field.
+Couture atelier dressing room interior. Wide-plank dark walnut floor visible in lower frame, full-wall antique apothecary mirror with brass frame at left edge, vintage rolling garment rack in mid-frame with eight haute-couture pieces on padded silk hangers, walnut tailor's mannequin in soft-focus right background, scattered fashion-magazine tear sheets on the floor near her feet, soft cream walls, single white orchid in clear glass vase on a marble pedestal in deeper soft-focus.
+Subject is Aira (use face reference images), exactly 18 years old, fuller thighs, fuller arms, fuller hips, perfectly flat belly, pristine flawless skin with no freckles, visible soft pore detail on shoulder. Outfit: black silk slip-dress, bias-cut, mid-thigh length, thin spaghetti straps, hand-rolled hem at mid-thigh. Hair: long glossy chestnut waves parted center, blow-dry-clean styling, individual strand separation, settled over both shoulders. Makeup: glass-skin dewy base, soft peach blush, glossy deep-rose lip, soft brown mascara, subtle warm-tone eyeshadow, brushed-up brows. Jewelry: thin gold rope chain at collarbone, single gold huggie in left ear, statement wide-cuff gold bracelet on right wrist. Footwear: black patent-leather pointed-toe ankle boots, 90mm stiletto heel, side zip with brushed-gold pull tab, smooth almond toe, no embellishment, soft sheen leather sole. Product: cream Hermès-style silk square scarf 90cm being yanked from a padded silk hanger on the garment rack by her right hand, scarf mid-pull catching air.
+L-arm: bent at elbow, hand resting on hip with cuff bracelet visible at right wrist (mirrored — actually on R-arm). R-arm: lifted forward and right toward the rack, fingers gripping the cream silk scarf at its corner, mid-yank pulling the scarf off the hanger, gold cuff bracelet visible on right wrist. L-leg: front foot, weight-bearing, knee soft. R-leg: back foot, slight outward turn. Feet: contrapposto on dark walnut. Waist: rotated fifteen degrees toward the garment rack with shoulder pop. Head: tilted right four degrees, chin slightly down. Gaze: focused on the scarf in hand mid-pull. Expr: focused fashion-pluck concentration — eyes narrowed in playful focus, lips slightly parted with a held breath of choosing, eyebrow micro-raised.
+Camera: medium shot at chest height, 35mm lens, subject center-third with rack and mirror framing, depth of field f/2.8, handheld at chest with soft micro-shake.
+
+### FRAME 1 — VEO VIDEO PROMPT
+
+Camera: handheld at chest height with soft organic micro-shake, 35mm lens, shallow depth of field f/2.8, no major translation over eight seconds — only operator-breathing motion.
+Subject: young woman in black silk slip-dress yanks the cream silk scarf off the padded silk hanger with her right hand in a single decisive motion, the scarf releasing from the hanger and trailing thirty centimeters in the air past her shoulder, her left hand on her hip with the gold cuff bracelet catching warm pendant light.
+Environment: hanger swings empty on the rolling rack, fashion-magazine tear sheets on the floor flutter one centimeter on draft, the white orchid trembles in deep soft-focus background.
+Lighting: warm overhead pendant pool on her crown and shoulders, cool window light spilling on her right side, gold cuff catches micro-specular highlight.
+Style: couture atelier editorial documentary realism, hyperreal commercial texture, real silk-scarf air physics, no CGI bloom.
+Audio: faint silk-on-metal hanger slide as scarf releases, walnut floor creak under her boot, magazine page flutter, single soft determined breath, no music, no dialogue.
+Negative: no subtitles, no on-screen text, no morphing, no warping, no captions, no logos.
+
+---
+
+### FRAME 2 — IMAGE PROMPT
+
+9:16 aspect ratio, strictly photorealistic, ultra-realistic, 8k resolution, raw cinematic beauty-campaign aesthetic, hyperreal commercial texture, anti-illustration, anti-comic-book, anti-CGI, real-camera lens behavior, shallow depth of field.
+Macro insert. Atelier background fully out of focus, brass mirror frame as warm bokeh streak on left, garment rack as a soft bokeh blur on right, walnut floor warm bokeh wash below.
+Subject is Aira (use face reference images), exactly 18 years old, fuller thighs, fuller arms, fuller hips, perfectly flat belly, pristine flawless skin with no freckles. Outfit: black silk slip-dress strap visible at upper frame edge over her shoulder. Hair: long glossy chestnut waves at upper frame edge near jaw. Makeup: glass-skin dewy base, soft peach blush, glossy deep-rose lip, soft brown mascara, brushed-up brows. Jewelry: gold cuff bracelet on right wrist visible at right frame edge. Footwear: out of macro frame. Product: cream silk square scarf held between her right thumb and index finger at chin level, mid-rotation, the hand-rolled edge of the scarf visible, the cream silk catching warm pendant light in soft sheen.
+L-arm: out of frame. R-arm: lifted to chin level, thumb and index finger pinching corner of the cream silk scarf, the gold cuff bracelet visible on her wrist with a clean specular highlight. L-leg: out of frame. R-leg: out of frame. Feet: out of frame. Waist: out of frame. Head: tilted four degrees right toward the scarf, lips slightly parted in evaluation. Gaze: looking down at the scarf with playful inspection. Expr: playful product-rotation smirk — corner of mouth lifted into a private smirk, eyes narrowed with playful evaluation, eyebrow micro-raised.
+Camera: extreme close-up macro at face height, 100mm macro lens, scarf on right-third, lips on left-third, ultra-shallow depth of field f/2.8, focus locked on the hand-rolled edge of the silk.
+
+### FRAME 2 — VEO VIDEO PROMPT
+
+Camera: locked-off extreme close-up macro at face height, 100mm macro lens, ultra-shallow depth of field f/2.8, no movement over eight seconds.
+Subject: young woman rotates the cream silk scarf 180 degrees between her right thumb and index finger over the duration, the hand-rolled edge catching slow specular travel, her playful smirk deepening with each quarter turn, gold cuff bracelet on wrist visible at frame edge.
+Environment: warm-and-cool atelier bokeh shifts almost imperceptibly behind, the silk scarf catches air as it rotates with realistic fiber drape.
+Lighting: warm pendant light catches the silk weave in slow specular highlight travel, cool window light fills the silk shadow side.
+Style: macro couture editorial realism, hyperreal commercial texture, real silk fiber detail, real hand-rolled scarf edge, no CGI bloom.
+Audio: very faint silk-fiber rustle as scarf rotates, soft single breath, distant atelier-room reverb, no music, no dialogue.
+Negative: no subtitles, no on-screen text, no morphing, no warping, no captions, no logos.
+
+---
+
+### FRAME 3 — IMAGE PROMPT
+
+9:16 aspect ratio, strictly photorealistic, ultra-realistic, 8k resolution, raw cinematic beauty-campaign aesthetic, hyperreal commercial texture, anti-illustration, anti-comic-book, anti-CGI, real-camera lens behavior, shallow depth of field.
+Couture atelier dressing room mid-twirl. Dark walnut floor visible below, brass-framed apothecary mirror visible at left, garment rack now in mid-bokeh as the camera orbits, walnut mannequin in deeper bokeh, magazine tear sheets fluttering on the floor.
+Subject is Aira (use face reference images), exactly 18 years old, fuller thighs, fuller arms, fuller hips, perfectly flat belly, pristine flawless skin with no freckles. Outfit: black silk slip-dress, bias-cut, mid-thigh length, thin spaghetti straps. Hair: long glossy chestnut waves mid-twirl, lifting twelve centimeters off her shoulders in full motion-capture, parted center. Makeup: glass-skin dewy base, soft peach blush, glossy deep-rose lip, soft brown mascara, brushed-up brows. Jewelry: thin gold rope chain visibly lifting off collarbone, single gold huggie, gold cuff bracelet on right wrist. Footwear: black patent-leather pointed-toe ankle boots, 90mm stiletto heel, side zip with brushed-gold pull tab, smooth almond toe, no embellishment, soft sheen leather sole, one boot pivoting on ball. Product: cream silk square scarf trailing one meter behind her right hand in mid-twirl, the silk catching warm pendant light in flowing arc.
+L-arm: lifted outward at shoulder level, palm open, arm trailing the twirl. R-arm: lifted overhead and slightly back, fingers gripping cream scarf corner, the scarf trailing one meter in the air following the twirl arc, gold cuff visible on wrist. L-leg: pivot foot, ball of foot weight-bearing on walnut. R-leg: trailing leg, knee soft, foot half-lifted from floor. Feet: mid-twirl, one pivoting one trailing. Waist: rotated forty-five degrees through the twirl. Head: tilted left ten degrees, chin slightly lifted into the spin. Gaze: drifting upward with eyes half-closed in ecstasy, lashes lowered. Expr: mid-twirl ecstatic eyes-half-closed — eyes half-lidded in playful ecstasy, lips parted in a silent open-mouth grin, the unguarded face of someone alive in motion.
+Camera: medium-wide shot at chest height, 35mm lens, subject center-third, depth of field f/2.8, full orbit four-second sweep around her.
+
+### FRAME 3 — VEO VIDEO PROMPT
+
+Camera: full orbit completing 360 degrees around subject at chest height over eight seconds, 35mm lens, shallow depth of field f/2.8, smooth gimbal travel.
+Subject: young woman in black silk slip-dress completes a full mid-twirl with the cream silk scarf trailing one meter behind her right hand in a flowing arc, her chestnut waves lifting twelve centimeters at peak twirl velocity, her left arm out at shoulder level, ball of left foot pivoting on the walnut floor.
+Environment: cream silk scarf flows in a wide arc behind her with realistic silk-air physics, magazine tear sheets on the floor flutter outward in the twirl wake, garment rack visible across the orbit reveal.
+Lighting: warm overhead pendant catches the cream silk arc in slow travel, cool window light fills shadow side, gold cuff catches micro-specular travel.
+Style: cinematic couture editorial twirl realism, hyperreal commercial texture, real silk-scarf air physics with full fluttering arc, real hair physics with strand separation, no CGI bloom.
+Audio: silk-scarf whoosh through air, hair flip whoosh, walnut floor pivot creak, single playful giggle-breath, magazine page flutter, no music.
+Negative: no subtitles, no on-screen text, no morphing, no warping, no captions, no logos.
+
+---
+
+### FRAME 4 — IMAGE PROMPT
+
+9:16 aspect ratio, strictly photorealistic, ultra-realistic, 8k resolution, raw cinematic beauty-campaign aesthetic, hyperreal commercial texture, anti-illustration, anti-comic-book, anti-CGI, real-camera lens behavior, shallow depth of field.
+Couture atelier dressing room from a low angle. Dark walnut floor in lower foreground, brass-framed apothecary mirror visible above her at left, warm pendant light visible directly above as a soft halo, garment rack visible at right with hangers swinging, white orchid in deeper bokeh.
+Subject is Aira (use face reference images), exactly 18 years old, fuller thighs, fuller arms, fuller hips, perfectly flat belly, pristine flawless skin with no freckles. Outfit: black silk slip-dress, bias-cut, mid-thigh length. Hair: long glossy chestnut waves now settled from twirl into post-twirl tumble, lifting four centimeters as her head tips back. Makeup: glass-skin dewy base, soft peach blush, glossy deep-rose lip, soft brown mascara, brushed-up brows. Jewelry: thin gold rope chain, single gold huggie, gold cuff bracelet on right wrist. Footwear: black patent-leather pointed-toe ankle boots fully visible from low angle, 90mm stiletto heel, side zip with brushed-gold pull tab, smooth almond toe, no embellishment, soft sheen leather sole. Product: cream silk scarf now draped across her left shoulder, scarlet silk long wrap (200cm) being gathered up from the garment rack by her right hand mid-grab.
+L-arm: lifted overhead, hand open and free in the air, sleeve absent. R-arm: lifted forward and right, fingers grabbing the scarlet silk wrap from a hanger on the rack, the wrap mid-lift catching air with gold cuff visible. L-leg: front foot, weight-bearing, knee straightening. R-leg: back foot, fully turned out twenty degrees, heel lifted three centimeters. Feet: contrapposto with full body extension. Waist: arched back four degrees. Head: tipped back fifteen degrees, throat exposed to pendant. Gaze: closed eyes, lashes lowered fully. Expr: head-back open-mouth full laugh — teeth fully visible in real laugh, jaw dropped soft, eyes closed with crinkle at outer corners, the unguarded face of pure joyful chaos.
+Camera: medium-wide low-angle shot at hip height looking up, 35mm lens, subject center-third with pendant halo above, depth of field f/2.8, low-angle pedestal rise initiating.
+
+### FRAME 4 — VEO VIDEO PROMPT
+
+Camera: slow pedestal rise from hip height to chest height over eight seconds, 35mm lens, shallow depth of field f/2.8, smooth gimbal moving up.
+Subject: young woman in black silk slip-dress tips her head back fifteen degrees in a full open-mouth laugh while her left arm lifts free overhead and her right hand grabs the scarlet silk long wrap off the hanger mid-laugh, the cream scarf already draped over her left shoulder, gold cuff bracelet catching pendant light.
+Environment: cream scarf shifts on her left shoulder with the head-back motion, scarlet wrap mid-pull releases from hanger and trails sixty centimeters in the air, hangers on the rack swing as she pulls, magazine tear sheets flutter.
+Lighting: warm pendant halo directly above her crown, cool window light from right, gold cuff catches micro-specular travel.
+Style: cinematic couture editorial chaos realism, hyperreal commercial texture, real silk-on-silk drape, real hanger swing physics, no CGI bloom.
+Audio: real open-mouth laugh breath, scarlet silk-on-metal hanger release, hangers clink softly, walnut floor creak, no music.
+Negative: no subtitles, no on-screen text, no morphing, no warping, no captions, no logos.
+
+---
+
+### FRAME 5 — IMAGE PROMPT
+
+9:16 aspect ratio, strictly photorealistic, ultra-realistic, 8k resolution, raw cinematic beauty-campaign aesthetic, hyperreal commercial texture, anti-illustration, anti-comic-book, anti-CGI, real-camera lens behavior, shallow depth of field.
+Couture atelier dressing room mid-action. Dark walnut floor visible, brass-framed apothecary mirror at left, garment rack visible right, warm pendant light from above, walnut mannequin in soft-focus, white orchid in deeper bokeh.
+Subject is Aira (use face reference images), exactly 18 years old, fuller thighs, fuller arms, fuller hips, perfectly flat belly, pristine flawless skin with no freckles. Outfit: black silk slip-dress, bias-cut, mid-thigh length, thin spaghetti straps. Hair: long glossy chestnut waves in chaotic mid-laugh tumble, parted center, individual strand separation. Makeup: glass-skin dewy base, soft peach blush, glossy deep-rose lip slightly smudged from laugh, soft brown mascara, brushed-up brows. Jewelry: thin gold rope chain, single gold huggie, gold cuff bracelet on right wrist. Footwear: black patent-leather pointed-toe ankle boots, 90mm stiletto heel, side zip with brushed-gold pull tab, smooth almond toe. Product: cream silk scarf still draped over left shoulder, scarlet silk long wrap now clutched at her chest with both hands in mid-laugh chaos.
+L-arm: lifted at chest, hand clutching the scarlet silk wrap fistful at center chest. R-arm: lifted at chest beside left hand, also clutching the scarlet wrap, gold cuff visible on right wrist. L-leg: front foot, weight-bearing, knee soft. R-leg: back foot, slight outward turn. Feet: contrapposto on walnut. Waist: rotated three degrees toward camera with shoulder shake. Head: tilted right eight degrees, chin slightly lowered with shoulder-shake. Gaze: closed eyes, lashes lowered with crinkle at outer corners. Expr: chaos-laugh shoulder-shake — eyes squeezed soft-closed in laugh, mouth wide open in continuing real laugh, shoulders visibly shaking with breath, the unguarded face of unstoppable laughter.
+Camera: medium close-up at chest height, 50mm lens, subject center-third with mirror visible left, depth of field f/2.0, handheld micro-shake.
+
+### FRAME 5 — VEO VIDEO PROMPT
+
+Camera: handheld micro-shake at chest height, 50mm lens, shallow depth of field f/2.0, organic operator-breathing motion shaking with her laugh over eight seconds.
+Subject: young woman in black silk slip-dress clutches the scarlet silk wrap fistful at her chest with both hands, her shoulders visibly shaking up and down two centimeters with continuing real laughter, her chestnut waves in chaotic post-laugh tumble, cream scarf still on her left shoulder.
+Environment: scarlet silk fabric trembles with each shoulder shake, cream scarf on shoulder shifts one centimeter per shake, hangers on rack still swinging slightly, magazine tear sheets settle on floor.
+Lighting: warm pendant pool on her crown, cool window light fills cheek shadow, gold cuff catches subtle highlight per shake.
+Style: cinematic couture chaos editorial realism, hyperreal commercial texture, real laugh-shoulder-shake physics, real silk fabric response, no CGI bloom.
+Audio: continuous real laugh breath, soft hand-on-silk friction, hangers clinking faintly behind, distant atelier reverb, no music.
+Negative: no subtitles, no on-screen text, no morphing, no warping, no captions, no logos.
+
+---
+
+### FRAME 6 — IMAGE PROMPT
+
+9:16 aspect ratio, strictly photorealistic, ultra-realistic, 8k resolution, raw cinematic beauty-campaign aesthetic, hyperreal commercial texture, anti-illustration, anti-comic-book, anti-CGI, real-camera lens behavior, shallow depth of field.
+Couture atelier dressing room. Dark walnut floor, brass-framed apothecary mirror at left, garment rack at right with most hangers now empty, warm pendant light, walnut mannequin in soft-focus, scattered scarves in soft-focus on floor including the cream scarf which has fallen.
+Subject is Aira (use face reference images), exactly 18 years old, fuller thighs, fuller arms, fuller hips, perfectly flat belly, pristine flawless skin with no freckles. Outfit: black silk slip-dress, bias-cut, mid-thigh length, thin spaghetti straps. Hair: long glossy chestnut waves now settling cleanly back over her shoulders after laugh-chaos. Makeup: glass-skin dewy base, soft peach blush, glossy deep-rose lip, soft brown mascara, brushed-up brows, slight tear-of-laughter shimmer at outer corner of right eye. Jewelry: thin gold rope chain, single gold huggie, gold cuff bracelet on right wrist. Footwear: black patent-leather pointed-toe ankle boots, 90mm stiletto heel, side zip with brushed-gold pull tab, smooth almond toe. Product: cream and scarlet scarves now both fallen to the walnut floor at her feet, single emerald silk square scarf 90cm just freshly pulled from its hanger and trailing in her left hand at hip height.
+L-arm: lowered, hand holding emerald scarf at hip with the silk trailing thirty centimeters. R-arm: lifted to face, the side of her index finger softly catching her own lower lip in a self-amused lip-touch gesture, gold cuff visible on right wrist. L-leg: front foot, weight-bearing, knee soft. R-leg: back foot, hip popped right three centimeters. Feet: contrapposto with hip-pop. Waist: rotated four degrees toward camera with hip-pop. Head: tilted left five degrees, chin slightly lowered. Gaze: direct into lens, half-lidded with playful sovereign warmth. Expr: sudden direct-lens lock smirk — eyes locked on lens with sudden post-laugh confidence, fingertip catching lower lip, corner of mouth lifted into a sovereign smirk, eyebrow micro-raised.
+Camera: medium close-up at face height, 50mm lens, subject right-third with rack visible left, depth of field f/2.0, rack focus pulled from the fallen cream-and-scarlet scarves on the floor in the near plane to her face in the mid plane.
+
+### FRAME 6 — VEO VIDEO PROMPT
+
+Camera: locked-off medium close-up at face height, 50mm lens, shallow depth of field f/2.0, executes a single rack focus from fallen scarves on the walnut floor in the near plane to her face in the mid plane over eight seconds.
+Subject: young woman in black silk slip-dress softly catches her lower lip between her right thumb and index finger in a self-amused lip-touch gesture, her left hand holding the emerald scarf at hip with thirty centimeters trailing, her direct eye-lock with the lens deepening into a sovereign smirk.
+Environment: cream and scarlet scarves on the walnut floor settle, emerald scarf trembles softly in her left hand, hangers on the rack stable now.
+Lighting: warm pendant on her crown, cool window light on right shoulder, gold cuff catches micro-specular travel.
+Style: luxury couture editorial post-chaos realism, hyperreal commercial texture, real lip-fingertip contact detail, no CGI bloom.
+Audio: faint silk-on-floor rustle, single soft post-laugh exhale, walnut floor creak, distant atelier reverb, no music.
+Negative: no subtitles, no on-screen text, no morphing, no warping, no captions, no logos.
+
+---
+
+### FRAME 7 — IMAGE PROMPT
+
+9:16 aspect ratio, strictly photorealistic, ultra-realistic, 8k resolution, raw cinematic beauty-campaign aesthetic, hyperreal commercial texture, anti-illustration, anti-comic-book, anti-CGI, real-camera lens behavior, shallow depth of field.
+Couture atelier dressing room in full reveal as the camera pulls back. Dark walnut floor stretching in foreground, brass-framed apothecary mirror at left wall, garment rack visible right with empty hangers, warm pendant light, walnut mannequin visible in mid-frame background, scattered fallen scarves on floor at her feet, magazine tear sheets, white orchid in clear glass vase on marble pedestal.
+Subject is Aira (use face reference images), exactly 18 years old, fuller thighs, fuller arms, fuller hips, perfectly flat belly, pristine flawless skin with no freckles. Outfit: black silk slip-dress, bias-cut, mid-thigh length, thin spaghetti straps. Hair: long glossy chestnut waves parted center, settled cleanly over both shoulders after the chaos. Makeup: glass-skin dewy base, soft peach blush, glossy deep-rose lip, soft brown mascara, brushed-up brows. Jewelry: thin gold rope chain, single gold huggie, gold cuff bracelet on right wrist. Footwear: black patent-leather pointed-toe ankle boots fully visible at her stance, 90mm stiletto heel, side zip with brushed-gold pull tab, smooth almond toe, no embellishment, soft sheen leather sole. Product: emerald silk square scarf now draped sovereign-style across both shoulders and behind her neck with the ends falling down her chest, the scarf the dominant new color in frame.
+L-arm: lowered, hand on left hip with cool sovereign confidence. R-arm: lowered at side, fingertips touching emerald scarf end at her right thigh, gold cuff visible on wrist. L-leg: front foot, weight-bearing, knee straight. R-leg: back foot, slight outward turn ten degrees, heel grounded. Feet: confident contrapposto, both visible. Waist: chest squared toward camera with shoulders rolled back two degrees. Head: tilted left three degrees, chin lifted two degrees. Gaze: direct into lens with cold sovereign warmth, lashes at half-mast. Expr: statement-pose cold-confident sovereign — corner of mouth lifted into a private finishing smile, eyes warmed by the moment-just-lived, the alive face of someone who turned chaos into a couture moment.
+Camera: medium-wide shot at chest height, 50mm lens, subject center-third with full atelier reveal, depth of field f/2.5, slow pull-out continuing.
+
+### FRAME 7 — VEO VIDEO PROMPT
+
+Camera: slow pull-out at chest height, 50mm lens, shallow depth of field f/2.5, smooth dolly moving backward fifty centimeters over eight seconds.
+Subject: young woman in black silk slip-dress holds a cold-confident statement pose with the emerald silk scarf draped sovereign-style across both shoulders, her left hand on her hip, her right fingertips softly touching the emerald scarf end at her right thigh, her direct eye-lock with the lens holding through the pull-out.
+Environment: emerald scarf ends drape softly down her chest with realistic silk drape, fallen cream and scarlet scarves still on the walnut floor at her feet, atelier room reveals fully in pull-out, white orchid steady.
+Lighting: warm pendant on her crown, cool window light on right shoulder, gold cuff catches micro-specular highlight, emerald silk catches warm pendant on top edge.
+Style: cinematic couture editorial finale realism, hyperreal commercial texture, real silk drape physics, real hair-after-chaos settled detail, no CGI bloom, no plastic skin.
+Audio: faint silk drape settle, single soft confident exhale, distant atelier reverb, no music, no dialogue.
+Negative: no subtitles, no on-screen text, no morphing, no warping, no captions, no logos.
+
+---
+
+
+## CONCEPT 10 — WISTERIA GARDEN GOLDEN HOUR (GARDEN FLORAL FANTASY — OUTDOOR)
+
+**20-WORD REEL SUMMARY:** Aira walks through hanging wisteria, lifts dress trail, traces petals, twirls into golden hour, blows farewell kiss.
+
+**WORLD / THEME:** Garden floral fantasy — outdoor wisteria garden tunnel at golden hour, dreamy floral romantic energy.
+**HERO PRODUCT:** A single fresh white rose held in her right hand from F2 onward (no other product) + a thin rose-gold locket on her collarbone (the constant accessory).
+**ENVIRONMENT IDENTITY:** Outdoor wisteria pergola tunnel in a luxury botanical garden at golden hour, hanging lavender wisteria blooms cascading in long racemes from the wooden pergola overhead, weathered limestone pathway underfoot dappled with golden light and shadow, distant cypress trees in soft-focus background, low boxwood hedges flanking the path, single golden-hour-warm sun spill through the wisteria creating dappled light pools on the path.
+**LIGHTING MOOD:** Warm golden-hour direct sunlight from frame-right back creating dappled light pools through the wisteria + cool sky bounce as soft fill on her face. Two sources only.
+**HOOK DISTRIBUTION:** F1 fingertip-trailing-wisteria entry hook · F3 rose-petal macro hook · F5 dress-trail-mid-twirl hook · F6 over-shoulder warm glance hook.
+**SUBJECT ENERGY PROFILE:** Languid, dreamy, romantic, sensual without performance, fingertip-soft engagement with petals, the alive face of a girl in her own private fairytale.
+**MOTION CONTINUITY LOGIC:** Walks under wisteria with fingertips trailing → reaches up to pluck a single petal → cradles white rose at chest → lifts dress trail → twirls in dappled light → over-shoulder warm glance → walks away into golden tunnel with farewell flying kiss.
+**CAMERA LANGUAGE PLAN:** F1 over-shoulder follow 50mm · F2 macro insert 100mm · F3 macro rose insert 100mm · F4 slow push-in 85mm · F5 full orbit four seconds 35mm · F6 slow pull-out tracking back 50mm.
+**EXPRESSION CHOREOGRAPHY:** F1 quiet dreamy garden gaze · F2 closed-eye petal sensory delight · F3 reverent rose gaze · F4 soft direct-lens warmth · F5 mid-twirl ecstatic eyes-half-closed · F6 over-shoulder warm farewell smile.
+**BODY LANGUAGE PLAN:** F1 fingertips trailing through hanging wisteria racemes overhead · F2 single petal pinched between thumb-index near nose · F3 white rose held both palms at chest · F4 hand to collarbone soft press · F5 hands lifting dress trail mid-twirl · F6 two-finger flying kiss to lens with dress trail in left hand.
+**HAIR PHYSICS NOTES:** Long glossy chestnut waves loose and parted center, soft golden-hour rim catching individual strand separation, mid-twirl lift in F5 (eight centimeters), settled cleanly with single forward strand in F6.
+**FABRIC MOTION NOTES:** Lavender silk slip-gown, bias-cut, full ankle-length skirt with soft drape, thin spaghetti straps, the gown hem trailing thirty centimeters behind her on the limestone path with audible silk drag, the skirt visibly moving on every step and twirl.
+**LIGHTING PHYSICS NOTES:** Warm golden-hour sun from frame-right back creating dappled light pools through the wisteria onto her shoulders and the path, cool sky bounce as soft fill on her face, the wisteria racemes glowing translucent where backlit.
+**BEAUTY PRODUCT INTERACTION PLAN:** Wisteria petal pinched in F2 macro for sensory inhale. Single fresh white rose introduced F3 cradled in both palms at chest, held in her right hand from F4 onward, raised in F6 farewell kiss. Rose-gold locket stays on collarbone throughout as constant accessory.
+**VIEWER ENGAGEMENT MOMENTS:** F4 soft direct-lens warmth · F6 over-shoulder warm farewell smile + flying kiss to lens.
+**ANTI-ILLUSTRATION SAFEGUARDS:** Real wisteria botanical accuracy with cascading raceme structure, real silk-gown fiber translucency at backlight, real white-rose petal layered texture, real limestone path stone variation, real dappled-sunlight physics through leaves, real silk-on-stone hem drag.
+**HYPERREAL COMMERCIAL TEXTURE LANGUAGE:** Valentino garden editorial finish, raw cinematic 8k, Roger Deakins golden-hour color science, no AI smoothing, no plastic skin, no CGI bloom, real botanical depth.
+**FOOTWEAR STRING:** Bare feet visible briefly at F5 mid-twirl, otherwise soft pale-blush silk-satin ballet flats with elastic ankle ribbon, almond toe, soft suede sole, no heel, hand-stitched silk upper, no embellishment, lavender-tinted to match gown.
+
+---
+
+### FRAME 1 — IMAGE PROMPT
+
+9:16 aspect ratio, strictly photorealistic, ultra-realistic, 8k resolution, raw cinematic beauty-campaign aesthetic, hyperreal commercial texture, anti-illustration, anti-comic-book, anti-CGI, real-camera lens behavior, shallow depth of field.
+Outdoor wisteria pergola tunnel in a luxury botanical garden at golden hour. Hanging lavender wisteria blooms cascading in long racemes from the wooden pergola overhead filling the upper half of frame, weathered limestone pathway underfoot dappled with golden light pools and leaf-shaped shadow patterns, distant cypress trees in soft-focus background at end of tunnel, low boxwood hedges flanking the path, warm golden sun spilling through the wisteria from frame-right back creating volumetric haze and visible dappled light shafts.
+Subject is Aira (use face reference images), exactly 18 years old, fuller thighs, fuller arms, fuller hips, perfectly flat belly, pristine flawless skin with no freckles, visible soft skin texture along her bare shoulder catching warm golden rim. Outfit: lavender silk slip-gown, bias-cut, full ankle-length skirt with soft drape, thin spaghetti straps, hand-rolled hem at floor with thirty-centimeter trail behind her on the limestone. Hair: long glossy chestnut waves parted center, individual strand separation, lifting two centimeters in soft garden breeze, golden-hour rim catching crown. Makeup: glass-skin dewy base, soft peach blush high on cheekbone, glossy nude-rose lip, soft brown mascara, brushed-up brows. Jewelry: thin rose-gold chain with tiny rose-gold locket pendant at collarbone, single small gold huggie in left ear. Footwear: pale-blush silk-satin ballet flats with elastic ankle ribbon, almond toe, soft suede sole, no heel, hand-stitched silk upper, no embellishment, lavender-tinted, half-hidden under gown hem at her ankles. Product: not yet introduced.
+L-arm: lifted overhead, fingertips trailing softly through a hanging wisteria raceme above her, a single tiny petal releasing as her fingers pass through. R-arm: lowered at side, fingertips brushing silk gown at right thigh. L-leg: front foot, weight-bearing on silk flat, knee soft. R-leg: back foot, mid-stride lift, heel slightly raised, silk hem trailing on stone. Feet: mid-stride walking pace through wisteria tunnel. Waist: rotated three quarters away from camera. Head: turned three-quarters away from camera, chin level. Gaze: looking forward into the wisteria tunnel at the distant cypress horizon, lashes lowered. Expr: quiet dreamy garden gaze — face softly relaxed, lips barely parted in a held breath, the unguarded face of a private fairytale moment.
+Camera: medium shot from over her right shoulder following her, 50mm lens, subject center-third with wisteria tunnel stretching ahead, depth of field f/2.8, slow over-shoulder follow walking pace.
+
+### FRAME 1 — VEO VIDEO PROMPT
+
+Camera: over-the-shoulder follow shot at chest height behind subject's right shoulder, 50mm lens, shallow depth of field f/2.8, smooth gimbal tracking forward at slow walking pace following subject down the wisteria tunnel over eight seconds.
+Subject: young woman in lavender silk slip-gown walks slowly forward beneath the hanging wisteria with her left fingertips trailing softly through a cascading raceme above her, her chestnut waves lifting two centimeters in soft garden breeze, her gown hem trailing thirty centimeters on the limestone with audible silk drag.
+Environment: wisteria racemes tremble where her fingertips pass releasing two or three tiny lavender petals into the air at chest level, dappled light pools on the path shift slowly as filtered sun moves through leaves, distant cypress trees in soft haze at tunnel end.
+Lighting: warm golden-hour direct sun from frame-right back as dappled raking light, cool sky bounce as soft fill on her face, wisteria glowing translucent where backlit.
+Style: cinematic Valentino garden editorial realism, hyperreal commercial texture, golden-hour color science, real botanical-light dappling physics, no CGI bloom, no plastic skin.
+Audio: soft silk hem-on-stone drag, distant garden birdsong, faint warm breeze through wisteria, single soft inhale, faint petals dropping, no music, no dialogue.
+Negative: no subtitles, no on-screen text, no morphing, no warping, no captions, no logos.
+
+---
+
+### FRAME 2 — IMAGE PROMPT
+
+9:16 aspect ratio, strictly photorealistic, ultra-realistic, 8k resolution, raw cinematic beauty-campaign aesthetic, hyperreal commercial texture, anti-illustration, anti-comic-book, anti-CGI, real-camera lens behavior, shallow depth of field.
+Macro insert. Wisteria tunnel background fully out of focus, lavender racemes reduced to a soft purple-and-gold bokeh wash, golden-hour warm sun as warm round bokeh specks through the bokeh.
+Subject is Aira (use face reference images), exactly 18 years old, fuller thighs, fuller arms, fuller hips, perfectly flat belly, pristine flawless skin with no freckles, visible soft fingertip skin detail and cheek pore detail. Outfit: lavender silk gown strap visible at upper frame edge over her shoulder. Hair: long glossy chestnut waves at upper frame edge near temple. Makeup: glass-skin dewy base, soft peach blush, glossy nude-rose lip, soft brown mascara. Jewelry: out of macro frame except for the rose-gold locket faintly visible at lower frame edge. Footwear: out of macro frame. Product: not yet — focal element is a single tiny lavender wisteria petal pinched between her thumb and index finger near her nose, the petal three centimeters from her lips.
+L-arm: out of frame. R-arm: lifted to face level, thumb and index finger pinching the single tiny lavender wisteria petal at petal level near her nose. L-leg: out of frame. R-leg: out of frame. Feet: out of frame. Waist: out of frame. Head: tilted four degrees down toward the petal, eyes closed. Gaze: closed eyes, lashes lowered, the moment of inhaling the wisteria fragrance. Expr: closed-eye petal sensory delight — eyes softly closed with lashes resting on cheek, lips slightly parted in a held inhale of soft floral scent, jaw soft, the authentic face of catching a real fragrance.
+Camera: extreme close-up macro at face height, 100mm macro lens, petal on right-third, lips on left-third, ultra-shallow depth of field f/2.8, focus locked on the wisteria petal edge.
+
+### FRAME 2 — VEO VIDEO PROMPT
+
+Camera: locked-off extreme close-up macro at face height, 100mm macro lens, ultra-shallow depth of field f/2.8, no movement over eight seconds.
+Subject: young woman holds a single tiny lavender wisteria petal pinched between her thumb and index finger near her nose, lips slightly parted in a held inhale, eyes softly closed, lashes resting on cheek, the petal trembling almost imperceptibly with her breath.
+Environment: purple-and-gold bokeh from out-of-focus wisteria shifts subtly behind her, a single second wisteria petal drifts past in deep bokeh.
+Lighting: warm golden-hour catches the petal edge, cool sky bounce softens her face, soft micro-catchlight in the corner of her closed eye crease.
+Style: macro luxury garden-editorial realism, hyperreal commercial texture, real wisteria botanical detail with raceme floret structure, no CGI bloom.
+Audio: very faint single inhale through nose, faint warm breeze, distant garden birdsong, no music.
+Negative: no subtitles, no on-screen text, no morphing, no petal warping, no captions.
+
+---
+
+### FRAME 3 — IMAGE PROMPT
+
+9:16 aspect ratio, strictly photorealistic, ultra-realistic, 8k resolution, raw cinematic beauty-campaign aesthetic, hyperreal commercial texture, anti-illustration, anti-comic-book, anti-CGI, real-camera lens behavior, shallow depth of field.
+Macro insert. Wisteria tunnel background fully out of focus, lavender racemes reduced to soft purple-and-gold bokeh, golden-hour warm sun bokeh specks.
+Subject is Aira (use face reference images), exactly 18 years old, fuller thighs, fuller arms, fuller hips, perfectly flat belly, pristine flawless skin with no freckles, visible soft fingertip skin detail and chest skin micro-texture. Outfit: lavender silk gown strap and bodice edge visible at lower frame edge. Hair: long glossy chestnut waves at upper frame edge. Makeup: glass-skin dewy base, soft peach blush, glossy nude-rose lip, soft brown mascara. Jewelry: thin rose-gold chain with tiny rose-gold locket pendant visible at lower frame edge near collarbone. Footwear: out of macro frame. Product: single fresh white garden rose held in her cupped right palm at chest level, the rose head four centimeters across with layered cream-white petals catching warm golden light, dewdrop visible on outer petal.
+L-arm: out of frame. R-arm: lifted to chest level, palm cupped open holding the white rose head, the rose stem disappearing past lower frame, gold rose-gold locket and chain visible at her collarbone above the rose. L-leg: out of frame. R-leg: out of frame. Feet: out of frame. Waist: out of frame. Head: tilted three degrees down toward the rose, lips slightly parted. Gaze: looking down at the rose with reverent tenderness, lashes lowered. Expr: reverent rose gaze — eyes softly held on the white rose petals, lips parted in a held breath, eyebrows micro-relaxed, the unguarded face of a private floral moment.
+Camera: extreme close-up macro at chest height, 100mm macro lens, rose on center-third, hands cupping, ultra-shallow depth of field f/2.8, focus locked on the dewdrop on outer petal.
+
+### FRAME 3 — VEO VIDEO PROMPT
+
+Camera: locked-off extreme close-up macro at chest height, 100mm macro lens, ultra-shallow depth of field f/2.8, no movement over eight seconds.
+Subject: young woman cradles a single fresh white garden rose in her cupped right palm at chest level, her thumb softly tracing the underside of the bloom, her gaze held reverently on the layered petals with lashes lowered, her lips parted in a held breath.
+Environment: purple-and-gold bokeh from wisteria shifts subtly behind, the dewdrop on the outer rose petal trembles one millimeter on her breath, the rose head turns one degree as she shifts her palm.
+Lighting: warm golden-hour catches the layered rose petals in slow specular highlight travel, cool sky bounce softens her hands and chest, dewdrop catches a clean micro-specular point.
+Style: macro luxury garden-editorial realism, hyperreal commercial texture, real white-rose botanical detail with petal-layer count, real dewdrop physics, no CGI bloom.
+Audio: very faint single breath, faint warm breeze, distant garden birdsong, faint silk strap shift, no music.
+Negative: no subtitles, no on-screen text, no morphing, no warping, no captions, no logos.
+
+---
+
+### FRAME 4 — IMAGE PROMPT
+
+9:16 aspect ratio, strictly photorealistic, ultra-realistic, 8k resolution, raw cinematic beauty-campaign aesthetic, hyperreal commercial texture, anti-illustration, anti-comic-book, anti-CGI, real-camera lens behavior, shallow depth of field.
+Outdoor wisteria pergola tunnel at golden hour. Hanging lavender wisteria racemes cascading from the pergola overhead, weathered limestone path dappled with golden light and shadow at her feet, distant cypress trees soft-focused at tunnel end, low boxwood hedges flanking, warm golden direct sun from frame-right back.
+Subject is Aira (use face reference images), exactly 18 years old, fuller thighs, fuller arms, fuller hips, perfectly flat belly, pristine flawless skin with no freckles. Outfit: lavender silk slip-gown, bias-cut, full ankle-length skirt with soft drape, thin spaghetti straps, hem with thirty-centimeter trail on limestone behind her. Hair: long glossy chestnut waves parted center, drifting softly with garden breeze. Makeup: glass-skin dewy base, soft peach blush, glossy nude-rose lip, soft brown mascara, brushed-up brows. Jewelry: thin rose-gold chain with tiny rose-gold locket at collarbone, single gold huggie in left ear. Footwear: pale-blush silk-satin ballet flats with elastic ankle ribbon visible at her ankles under gown hem, almond toe, soft suede sole, no heel, hand-stitched silk upper, lavender-tinted. Product: white garden rose now held in her right hand at chest level, the stem visible.
+L-arm: lifted to her own collarbone, palm pressed flat against her own collarbone above the rose-gold locket in a soft settled gesture. R-arm: bent at elbow, holding the white rose by its stem at chest height with the bloom near her own jaw. L-leg: front foot, weight-bearing on silk flat, knee soft. R-leg: back foot, heel grounded, slight outward turn. Feet: contrapposto on limestone. Waist: chest squared toward camera with soft micro-arch. Head: tilted left two degrees, chin level. Gaze: direct into lens with soft warm intimacy, lashes at half-mast. Expr: soft direct-lens warmth — corner of mouth lifted into a private settled smile, eyes warmed by golden-hour light and the moment, the unguarded face of a private dreamy reverie.
+Camera: medium close-up at face height, 85mm lens, subject center-third with wisteria framing above, depth of field f/2.0, slow push-in initiating.
+
+### FRAME 4 — VEO VIDEO PROMPT
+
+Camera: slow push-in at face height, 85mm lens, shallow depth of field f/2.0, smooth dolly track moving forward thirty centimeters over eight seconds.
+Subject: young woman in lavender silk gown stands beneath wisteria with her left palm pressed flat against her own collarbone above the rose-gold locket, her right hand holding the white rose by its stem at chest near her jaw, her direct eye contact with the lens holding through the push-in, her settled smile deepening one degree.
+Environment: wisteria racemes tremble softly above with one tiny petal drifting down past her shoulder, dappled light pools shift slowly on her face as garden breeze moves leaves, gown hem trembles softly on stone.
+Lighting: warm golden-hour direct sun catches her crown rim, cool sky bounce as soft fill on face, white rose petals catch warm light at edges.
+Style: luxury garden editorial cinematic realism, hyperreal commercial texture, real golden-hour skin tone, real silk-on-stone hem drag micro-detail, no CGI bloom, no plastic skin.
+Audio: faint silk hem trembling on stone, faint warm breeze through wisteria, distant garden birdsong, single soft contented breath, no music, no dialogue.
+Negative: no subtitles, no on-screen text, no morphing, no warping, no captions, no logos.
+
+---
+
+### FRAME 5 — IMAGE PROMPT
+
+9:16 aspect ratio, strictly photorealistic, ultra-realistic, 8k resolution, raw cinematic beauty-campaign aesthetic, hyperreal commercial texture, anti-illustration, anti-comic-book, anti-CGI, real-camera lens behavior, shallow depth of field.
+Outdoor wisteria pergola tunnel at golden hour mid-twirl. Hanging lavender wisteria racemes overhead, weathered limestone path with dappled light pools below, distant cypress trees in soft-focus, golden-hour direct sun from frame-right back creating volumetric warm haze.
+Subject is Aira (use face reference images), exactly 18 years old, fuller thighs, fuller arms, fuller hips, perfectly flat belly, pristine flawless skin with no freckles. Outfit: lavender silk slip-gown, bias-cut, full ankle-length skirt mid-twirl with the skirt fanned outward 60 centimeters from her body in a flowing arc, thin spaghetti straps. Hair: long glossy chestnut waves mid-twirl, lifting eight centimeters off her shoulders, parted center. Makeup: glass-skin dewy base, soft peach blush, glossy nude-rose lip, soft brown mascara, brushed-up brows. Jewelry: thin rose-gold chain with locket visibly lifting half a centimeter off collarbone, single gold huggie. Footwear: pale-blush silk-satin ballet flats with elastic ankle ribbon barely visible — one foot pivoting on the ball, ankle ribbon visible at ankle, the other foot lifted from the floor revealing one bare foot briefly visible under the lifted skirt arc. Product: white rose still held loosely in her right hand at hip level mid-twirl, both her hands now also lifting the gown hem in mid-twirl.
+L-arm: lifted outward at shoulder level, fingertips gathering and lifting the silk skirt edge fifty centimeters at her left thigh in mid-twirl arc. R-arm: lifted outward on opposite side, palm gathering silk and holding rose stem, both arms creating a wide twirl-spread. L-leg: pivot foot, ball of foot weight-bearing in silk flat. R-leg: trailing leg, knee soft, foot half-lifted from limestone with bare foot briefly visible under gown lift. Feet: mid-twirl, one pivoting one trailing. Waist: rotated forty degrees through twirl. Head: tilted left fifteen degrees, chin slightly lifted. Gaze: drifted upward into the wisteria canopy, eyes half-closed in ecstasy. Expr: mid-twirl ecstatic eyes-half-closed — eyes half-lidded in dreamy ecstasy, lips parted in a silent open-mouth grin of joy, jaw soft, the unguarded face of a girl alive in her own garden moment.
+Camera: medium-wide shot at chest height, 35mm lens, subject center-third with wisteria framing above and below, depth of field f/2.8, full orbit four-second sweep around her.
+
+### FRAME 5 — VEO VIDEO PROMPT
+
+Camera: full orbit completing 360 degrees around subject at chest height over eight seconds, 35mm lens, shallow depth of field f/2.8, smooth gimbal travel.
+Subject: young woman in lavender silk gown completes a full mid-twirl with both hands lifting the silk skirt outward in a fanning arc fifty centimeters from her body, her white rose held in her right hand, her chestnut waves lifting eight centimeters at peak twirl, ball of left foot pivoting on stone.
+Environment: silk skirt arc flares outward 60 centimeters at peak twirl with realistic silk-air physics, wisteria racemes overhead release four to six tiny petals that drift down around her in golden-hour haze, dappled light pools sweep across her face through the orbit.
+Lighting: warm golden-hour rim halo around her silhouette, cool sky bounce filling shadow side, gown silk catches warm light at the bias as the skirt arcs.
+Style: cinematic Valentino garden-editorial twirl realism, hyperreal commercial texture, real silk-skirt arc air-physics, real wisteria petal-fall botanical accuracy, no CGI bloom.
+Audio: silk skirt whoosh through air, hair flip whoosh, faint silk-on-stone hem drag, soft real giggle-breath, distant garden birdsong, no music.
+Negative: no subtitles, no on-screen text, no morphing, no warping, no captions, no logos.
+
+---
+
+### FRAME 6 — IMAGE PROMPT
+
+9:16 aspect ratio, strictly photorealistic, ultra-realistic, 8k resolution, raw cinematic beauty-campaign aesthetic, hyperreal commercial texture, anti-illustration, anti-comic-book, anti-CGI, real-camera lens behavior, shallow depth of field.
+Outdoor wisteria pergola tunnel at full golden hour. Hanging lavender wisteria racemes overhead filling upper frame, weathered limestone path with intensified golden dappled light pools at her feet, distant cypress trees in deeper soft-focus, warm golden direct sun from frame-right back at near-peak intensity.
+Subject is Aira (use face reference images), exactly 18 years old, fuller thighs, fuller arms, fuller hips, perfectly flat belly, pristine flawless skin with no freckles. Outfit: lavender silk slip-gown, bias-cut, full ankle-length skirt with soft drape, thin spaghetti straps, hem with thirty-centimeter trail behind her on limestone, the skirt now visibly held lifted at her left thigh by her left hand revealing more of the silk-flat ankle ribbon. Hair: long glossy chestnut waves cascading down her back, parted center, single forward strand falling across her right cheek as she turns. Makeup: glass-skin dewy base, soft peach blush, glossy nude-rose lip, soft brown mascara, brushed-up brows. Jewelry: thin rose-gold chain with locket at collarbone, single gold huggie. Footwear: pale-blush silk-satin ballet flats with elastic ankle ribbon now fully visible as gown lifted, almond toe, soft suede sole, no heel, hand-stitched silk upper, lavender-tinted. Product: white rose now lifted to her lips by her right hand, two fingers forming a soft flying-kiss release with the rose just leaving her lips, gold rose-gold locket visible at collarbone.
+L-arm: lifted slightly outward, fingers gathering and lifting the silk skirt hem at her left thigh ten centimeters above ankle. R-arm: lifted to her lips, two fingers (index and middle) and the white rose stem just leaving her lower lip in a soft flying-kiss release, palm angled toward lens with petals near her mouth. L-leg: front foot, weight-bearing in silk flat, mid-stride forward. R-leg: back foot, mid-stride lift, heel slightly raised. Feet: walking pace away from camera, silk flats fully visible. Waist: rotated thirty degrees away from camera as she walks forward. Head: turned back over right shoulder toward camera, chin slightly down. Gaze: direct into lens with warm farewell softness, lashes at half-mast. Expr: over-shoulder warm farewell smile — soft warm smile over the shoulder with the rose at her lips, eyes warmed by full golden-hour light, the look of a private fairytale farewell to the viewer.
+Camera: medium-wide shot pulling back from in front of her at chest height, 50mm lens, subject center-third walking away from camera, depth of field f/2.8, slow tracking-back pull-out.
+
+### FRAME 6 — VEO VIDEO PROMPT
+
+Camera: slow tracking-back pull-out at chest height, 50mm lens, shallow depth of field f/2.8, smooth dolly moving backward at slow walking pace matching subject's forward stride down the wisteria tunnel over eight seconds.
+Subject: young woman in lavender silk gown walks slowly forward away from camera down the wisteria tunnel, her left hand lifting the silk skirt hem ten centimeters at her thigh revealing her silk-flat ankle ribbon, her right hand lifting the white rose to her lips and releasing a soft two-finger flying kiss outward toward the lens, her head turned back over her right shoulder with a warm farewell smile.
+Environment: wisteria racemes tremble overhead releasing three tiny lavender petals that drift down in her wake, dappled light pools shift on the limestone as she passes, gown hem drags silk-on-stone behind her, distant cypress trees haze deeper into golden hour.
+Lighting: warm golden-hour rim halo around her shoulders and hair at near-peak intensity, cool sky bounce as soft fill on her face, white rose petals catch warm specular highlights.
+Style: cinematic Valentino garden-editorial finale realism, hyperreal commercial texture, golden-hour color science, real silk-on-stone hem drag, real petal-fall physics, no CGI bloom, no plastic skin.
+Audio: silk-on-stone hem drag, soft footfall on limestone, faint warm breeze through wisteria, distant garden birdsong, single soft farewell-kiss breath, no music, no dialogue.
+Negative: no subtitles, no on-screen text, no morphing, no warping, no captions, no logos.
+
+---
