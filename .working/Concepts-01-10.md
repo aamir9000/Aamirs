@@ -943,3 +943,357 @@ Audio: heel-strike on travertine, trolley wheel rolling, terminal ambient hum, d
 Negative: no subtitles, no on-screen text, no morphing, no warping, no captions, no logos.
 
 ---
+
+
+
+
+## CONCEPT 07 — ROOFTOP NIGHT CHAMPAGNE (ROOFTOP NIGHT — OUTDOOR LUXURY)
+
+**20-WORD REEL SUMMARY:** Aira lifts champagne flute on rooftop at dusk, city lights blur behind, hair flips, laughs into the wind.
+
+**WORLD / THEME:** Rooftop night — outdoor luxury, golden-hour-to-tungsten-night transition, city skyline.
+**HERO PRODUCT:** Crystal champagne flute with shallow gold rim, pale-amber champagne inside catching practical tungsten city light, single thin gold ring on her index finger framing the flute.
+**ENVIRONMENT IDENTITY:** Open rooftop terrace of a luxury hotel, polished travertine floor, low-profile glass railing on three sides, distant city skyline at twilight with practical tungsten window-glow bokeh, fire-pit bowl in soft-focus background, single white linen napkin draped over a teak side table with a champagne ice bucket beside it.
+**LIGHTING MOOD:** Cool fading dusk gradient sky overhead + warm practical tungsten city-light bokeh from skyline + low fire-pit warm bounce on her ankles. Two dominant sources — sky and city — with fire-pit as supporting.
+**HOOK DISTRIBUTION:** F1 backlit-skyline silhouette hook · F3 champagne-flute lift macro hook · F5 head-back-into-wind laugh hook · F7 final glance-back warm seal.
+**SUBJECT ENERGY PROFILE:** Confident, slightly tipsy-warm, sensual without performance, wind-aware, micro-shoulder-roll energy, the alive girl-on-her-own-night feeling.
+**MOTION CONTINUITY LOGIC:** Skyline silhouette stride → flute reach from ice bucket → flute lifted to lips → eyes-closed sip → head-back wind-laugh → hair flip toward camera → final glance-back.
+**CAMERA LANGUAGE PLAN:** F1 wide silhouette dolly-in 35mm · F2 over-shoulder reaching for flute 50mm · F3 macro champagne-flute insert 100mm · F4 slow push-in 85mm · F5 low-angle pedestal rise 35mm · F6 handheld micro-shake 50mm · F7 slow tracking-back pull-out 50mm.
+**EXPRESSION CHOREOGRAPHY:** F1 quiet confident skyline gaze · F2 anticipation lifted brow at flute · F3 reverent product gaze · F4 closed-eye sip warmth · F5 head-back wind-laugh open mouth · F6 hair-flip sovereign smirk · F7 over-shoulder warm seal.
+**BODY LANGUAGE PLAN:** F1 single hand brushing hair off shoulder · F2 hand reaching into ice bucket and pinching flute stem · F3 flute lifted between thumb-index at chin · F4 flute at lips with closed-eye sip · F5 head-back arms-out into wind · F6 hair flip back with shoulder roll · F7 single hand on glass railing, glance-back over shoulder.
+**HAIR PHYSICS NOTES:** Long glossy chestnut waves parted center, blow-dry-clean styling, individual strand separation, full wind interaction lifting six to ten centimeters at peak gusts in F5, settled cleanly at F7.
+**FABRIC MOTION NOTES:** Black silk slip-dress, bias-cut, mid-thigh length, thin spaghetti straps, hand-rolled hem trembling on every wind shift, the silk catching tungsten light at the bias on every move, a thin black silk shawl held loosely off her left shoulder visible drift.
+**LIGHTING PHYSICS NOTES:** Cool dusk sky from upper frame as ambient fill, warm practical tungsten city bokeh from frame-right skyline, fire-pit warm bounce on her ankles from frame-left, real practical light sources only — no neon, no VFX.
+**BEAUTY PRODUCT INTERACTION PLAN:** Champagne flute introduced F2 reaching from ice bucket on teak table, lifted to chin in F3 macro, sipped F4 closed-eye, lowered slightly in F5 during laugh, held loosely in F6, set down on the railing edge in F7.
+**VIEWER ENGAGEMENT MOMENTS:** F4 closed-eye sip warmth · F5 head-back open-mouth laugh · F7 final over-shoulder warm seal direct to lens.
+**ANTI-ILLUSTRATION SAFEGUARDS:** Real practical tungsten city-light bokeh (not neon, not VFX), real silk fiber translucency at backlight, real champagne effervescence inside the flute, real fire-pit warm flicker on ankles, real wind-driven hair physics with strand separation.
+**HYPERREAL COMMERCIAL TEXTURE LANGUAGE:** Saint Laurent rooftop editorial finish, raw cinematic 8k, Roger Deakins golden-hour-to-night color science, no neon aesthetic, no AI smoothing, no plastic skin, no CGI bloom.
+**FOOTWEAR STRING:** Black satin pointed-toe stiletto sandals, 100mm needle heel, thin ankle wrap with single gold pin closure, black silk-wrapped heel column, almond toe with thin sole, no embellishment.
+
+---
+
+### FRAME 1 — IMAGE PROMPT
+
+9:16 aspect ratio, strictly photorealistic, ultra-realistic, 8k resolution, raw cinematic beauty-campaign aesthetic, hyperreal commercial texture, anti-illustration, anti-comic-book, anti-CGI, real-camera lens behavior, shallow depth of field.
+Open rooftop terrace of a luxury hotel at dusk-to-night transition. Polished travertine floor in lower foreground catching warm tungsten reflections, low-profile glass railing on right edge of frame, distant city skyline at twilight occupying the right two-thirds of frame with practical tungsten window-glow bokeh from thousands of building lights, fire-pit bowl glowing warm in soft-focus background-left, teak side table with white linen napkin and silver champagne ice bucket visible at lower-right with the bottle nestled in ice.
+Subject is Aira (use face reference images), exactly 18 years old, fuller thighs, fuller arms, fuller hips, perfectly flat belly, pristine flawless skin with no freckles, visible soft skin texture along her bare collarbone. Outfit: black silk slip-dress, bias-cut, mid-thigh length, thin spaghetti straps, hand-rolled hem at mid-thigh, thin black silk shawl draped loosely off her left shoulder. Hair: long glossy chestnut waves parted center, blow-dry-clean styling, individual strand separation, lifting two centimeters in the rooftop wind. Makeup: glass-skin dewy base, soft peach blush high on cheekbone, glossy deep-rose lip, soft brown mascara, subtle warm-tone eyeshadow, brushed-up brows. Jewelry: thin gold rope chain at collarbone, single small gold huggie in left ear, single thin gold ring on right index finger. Footwear: black satin pointed-toe stiletto sandals, 100mm needle heel, thin ankle wrap with single gold pin closure, black silk-wrapped heel column, almond toe with thin sole, no embellishment.
+L-arm: lowered, hand resting against silk hem at her left thigh, the shawl trailing softly behind her wrist. R-arm: lifted to right shoulder, fingertips brushing a hair strand off her shoulder blade. L-leg: front foot, weight-bearing, knee soft. R-leg: back foot, half-step turned out fifteen degrees, heel grounded. Feet: contrapposto on travertine. Waist: rotated three quarters away from camera, body squared toward the skyline. Head: turned three-quarters away from camera, chin lifted slightly toward city. Gaze: looking out over the skyline at horizon, lashes lowered. Expr: quiet confident skyline gaze — face softly composed, lips barely parted in a held breath, the unguarded face of someone owning the moment alone.
+Camera: medium-wide shot at chest height from behind subject's right shoulder, 35mm lens, subject at left-third with skyline filling the right two-thirds, depth of field f/2.8 with sharp subject and soft skyline bokeh, slow dolly-in initiating from behind her.
+
+### FRAME 1 — VEO VIDEO PROMPT
+
+Camera: slow dolly-in from behind subject's right shoulder at chest height, 35mm lens, shallow depth of field f/2.8, smooth gimbal moving forward thirty centimeters over eight seconds.
+Subject: young woman in black silk slip-dress stands at rooftop railing edge looking out over city skyline, her right hand softly brushing a chestnut hair strand off her shoulder, her chest rising with a quiet held breath, her body squared toward the city.
+Environment: silk shawl trails one centimeter behind her left shoulder on a slow rooftop breeze, distant city tungsten lights twinkle in the bokeh, fire-pit warm flicker visible at frame-left.
+Lighting: cool fading dusk sky from above as ambient, warm practical tungsten city bokeh from skyline, low fire-pit warm bounce on her ankles.
+Style: cinematic Saint Laurent rooftop editorial realism, hyperreal commercial texture, real practical-light-only behavior, no neon aesthetic, no CGI bloom.
+Audio: distant city ambient hum, faint wind brush across rooftop, faint fire-pit crackle, single soft inhale, no music, no dialogue.
+Negative: no subtitles, no on-screen text, no morphing, no warping, no captions, no logos, no neon glow.
+
+---
+
+### FRAME 2 — IMAGE PROMPT
+
+9:16 aspect ratio, strictly photorealistic, ultra-realistic, 8k resolution, raw cinematic beauty-campaign aesthetic, hyperreal commercial texture, anti-illustration, anti-comic-book, anti-CGI, real-camera lens behavior, shallow depth of field.
+Rooftop terrace from over-shoulder angle. Polished travertine floor visible in lower foreground, teak side table with white linen napkin and silver champagne ice bucket dominating the right of frame at her hip, distant city skyline tungsten bokeh in deeper background-right, fire-pit warm glow at frame-left back, low-profile glass railing visible behind her.
+Subject is Aira (use face reference images), exactly 18 years old, fuller thighs, fuller arms, fuller hips, perfectly flat belly, pristine flawless skin with no freckles. Outfit: black silk slip-dress, bias-cut, mid-thigh length, thin spaghetti straps, thin black silk shawl off left shoulder. Hair: long glossy chestnut waves parted center, cascading over right shoulder visible in over-shoulder angle. Makeup: glass-skin dewy base, soft peach blush, glossy deep-rose lip, soft brown mascara, brushed-up brows. Jewelry: thin gold rope chain, single gold huggie in left ear, thin gold ring on right index finger. Footwear: black satin pointed-toe stiletto sandals, 100mm needle heel, thin ankle wrap with single gold pin closure, black silk-wrapped heel column, almond toe with thin sole, no embellishment. Product: crystal champagne flute with shallow gold rim, pale-amber champagne inside, currently being lifted from the silver ice bucket by her right hand pinching the stem.
+L-arm: lowered, hand resting on silk hem at left thigh, shawl trailing. R-arm: lifted forward and down toward the ice bucket at her hip, fingertips pinching the gold-rimmed flute stem mid-lift. L-leg: standing, weight-bearing. R-leg: standing beside left, slight outward turn. Feet: hip-width apart on travertine. Waist: rotated thirty degrees toward the side table. Head: tilted right four degrees toward the bucket, eyes flicked down to the flute. Gaze: looking down at the flute mid-lift with anticipation. Expr: anticipation lifted brow at flute — eyebrow micro-raised in private anticipation, lips slightly parted in held breath, corner of mouth lifting half a millimeter.
+Camera: medium shot from over Aira's left shoulder, 50mm lens, subject left-third with ice bucket and skyline at right-third, depth of field f/2.8, locked-off composition.
+
+### FRAME 2 — VEO VIDEO PROMPT
+
+Camera: locked-off over-the-shoulder medium shot at chest height, 50mm lens, shallow depth of field f/2.8, no movement over eight seconds.
+Subject: young woman in black silk slip-dress lifts the gold-rimmed crystal champagne flute slowly out of the silver ice bucket by pinching the stem with her right thumb and index finger, the flute rising six centimeters with droplets sliding off the stem, her anticipation expression deepening.
+Environment: silver ice bucket reflects warm tungsten skyline bokeh on its surface, white linen napkin trembles softly in rooftop breeze, fire-pit warm flicker steady at frame-left.
+Lighting: cool dusk sky ambient, warm practical tungsten city bokeh, fire-pit warm bounce on her ankles.
+Style: luxury rooftop editorial realism, hyperreal commercial texture, real ice-bucket condensation droplet physics, no CGI bloom, no neon.
+Audio: faint clink of stem against ice, distant city hum, faint wind brush, fire-pit crackle, no music.
+Negative: no subtitles, no on-screen text, no morphing, no warping, no captions, no logos.
+
+---
+
+### FRAME 3 — IMAGE PROMPT
+
+9:16 aspect ratio, strictly photorealistic, ultra-realistic, 8k resolution, raw cinematic beauty-campaign aesthetic, hyperreal commercial texture, anti-illustration, anti-comic-book, anti-CGI, real-camera lens behavior, shallow depth of field.
+Macro insert. Rooftop background fully out of focus, city tungsten skyline bokeh as warm round amber specks across the entire bokeh wash, distant fire-pit warm glow as a single soft warm spot in the bokeh.
+Subject is Aira (use face reference images), exactly 18 years old, fuller thighs, fuller arms, fuller hips, perfectly flat belly, pristine flawless skin with no freckles, visible soft skin micro-texture on fingertip and lips. Outfit: black silk slip-dress strap visible at upper frame edge over her shoulder. Hair: long glossy chestnut waves at upper frame edge near jaw, drifting softly with wind. Makeup: glass-skin dewy base, soft peach blush, glossy deep-rose lip, soft brown mascara, brushed-up brows. Jewelry: thin gold ring on right index finger framing the flute stem. Footwear: out of macro frame. Product: crystal champagne flute with shallow gold rim lifted to chin height, pale-amber champagne inside with visible effervescence rising, gold rim catching warm tungsten city specular highlight, the single thin gold ring on her index finger framing the stem grip.
+L-arm: out of frame. R-arm: lifted to chin level, thumb and index finger pinching the gold-rimmed flute stem, the gold ring on her index finger visible against the stem. L-leg: out of frame. R-leg: out of frame. Feet: out of frame. Waist: out of frame. Head: tilted four degrees right toward the flute, lips slightly parted. Gaze: looking down at the champagne effervescence with reverence, lashes lowered. Expr: reverent product gaze — eyes locked softly on the rising bubbles in the flute, lips parted in a held breath of anticipation, eyebrows micro-relaxed.
+Camera: extreme close-up macro at face height, 100mm macro lens, flute on right-third, lips on left-third, ultra-shallow depth of field f/2.8, focus locked on the gold rim of the flute.
+
+### FRAME 3 — VEO VIDEO PROMPT
+
+Camera: locked-off extreme close-up macro at face height, 100mm macro lens, ultra-shallow depth of field f/2.8, no movement over eight seconds.
+Subject: young woman holds gold-rimmed crystal champagne flute at chin level, her thumb softly tracing along the stem, her gaze held reverently down on the rising effervescence inside the pale-amber champagne, her lips parted in a held breath.
+Environment: warm amber tungsten bokeh from city skyline shifts almost imperceptibly behind, champagne bubbles visibly rise inside the flute, gold rim catches a slow specular highlight travel.
+Lighting: warm tungsten city light catches the gold rim and faceted crystal in clean specular highlights, cool dusk sky bounce softens her face.
+Style: macro luxury rooftop editorial realism, hyperreal commercial texture, real champagne effervescence physics, real glass refraction, no CGI bloom, no neon.
+Audio: faint champagne effervescence fizz, distant city hum, faint wind brush, single soft breath, no music.
+Negative: no subtitles, no on-screen text, no morphing, no warping, no captions, no logos.
+
+---
+
+### FRAME 4 — IMAGE PROMPT
+
+9:16 aspect ratio, strictly photorealistic, ultra-realistic, 8k resolution, raw cinematic beauty-campaign aesthetic, hyperreal commercial texture, anti-illustration, anti-comic-book, anti-CGI, real-camera lens behavior, shallow depth of field.
+Rooftop terrace at deepening dusk. Polished travertine floor in lower foreground, low-profile glass railing on right with distant tungsten city skyline bokeh, fire-pit warm glow at left-back, teak side table and ice bucket in soft-focus right-back.
+Subject is Aira (use face reference images), exactly 18 years old, fuller thighs, fuller arms, fuller hips, perfectly flat belly, pristine flawless skin with no freckles. Outfit: black silk slip-dress, bias-cut, thin spaghetti straps, thin black silk shawl off left shoulder. Hair: long glossy chestnut waves parted center, lifting four centimeters in steady rooftop wind. Makeup: glass-skin dewy base, soft peach blush, glossy deep-rose lip with faint champagne moisture, soft brown mascara, brushed-up brows. Jewelry: thin gold rope chain, single gold huggie, thin gold ring on right index finger. Footwear: black satin pointed-toe stiletto sandals, 100mm needle heel, thin ankle wrap with single gold pin closure, black silk-wrapped heel column, almond toe with thin sole, no embellishment. Product: crystal champagne flute lifted to her lips by right hand, gold rim against lower lip, mid-sip.
+L-arm: relaxed at side, hand brushing along silk hem at left thigh, shawl drifting two centimeters behind. R-arm: lifted to face level, fingers wrapped around the flute stem with thumb and three fingers, the gold-rimmed flute at her lips. L-leg: front foot, weight-bearing, knee soft. R-leg: back foot, heel grounded. Feet: contrapposto on travertine. Waist: rotated three degrees toward camera with chest squared. Head: tilted right three degrees, chin slightly lifted. Gaze: closed eyes, lashes lowered. Expr: closed-eye sip warmth — eyes softly closed, lips at the gold rim of the flute mid-sip, jaw soft, the unguarded face of warmth-arrival.
+Camera: medium close-up at face height, 85mm lens, subject center-third with skyline bokeh framing right, depth of field f/2.0, slow push-in continuing.
+
+### FRAME 4 — VEO VIDEO PROMPT
+
+Camera: slow push-in at face height, 85mm lens, shallow depth of field f/2.0, smooth dolly track moving forward twenty-five centimeters over eight seconds.
+Subject: young woman in black silk slip-dress lifts the gold-rimmed crystal champagne flute to her lips and takes a slow soft sip across the duration with her eyes softly closed, her closed-eye warmth holding through the full sip, her chest rising with a contented breath.
+Environment: silk shawl drifts two centimeters behind her left shoulder on a steady rooftop breeze, distant city tungsten lights twinkle in the bokeh, fire-pit warm flicker continues, champagne effervescence rises inside the tilting flute.
+Lighting: cool dusk sky ambient, warm tungsten city bokeh, fire-pit warm bounce on her ankles, gold rim catches micro-specular travel.
+Style: luxury rooftop editorial cinematic realism, hyperreal commercial texture, real champagne effervescence inside flute as it tilts, no CGI bloom, no neon.
+Audio: soft single sip-swallow, faint champagne fizz, distant city hum, faint wind brush, fire-pit crackle, no music, no dialogue.
+Negative: no subtitles, no on-screen text, no morphing, no warping, no captions, no logos.
+
+---
+
+### FRAME 5 — IMAGE PROMPT
+
+9:16 aspect ratio, strictly photorealistic, ultra-realistic, 8k resolution, raw cinematic beauty-campaign aesthetic, hyperreal commercial texture, anti-illustration, anti-comic-book, anti-CGI, real-camera lens behavior, shallow depth of field.
+Rooftop terrace shot from a low angle. Polished travertine floor filling lower-third, low-profile glass railing visible mid-frame, distant city skyline tungsten bokeh rising above the railing in the upper-mid frame, dusk sky now nearly full night with a thin band of cobalt at the horizon, fire-pit warm glow visible at frame-left.
+Subject is Aira (use face reference images), exactly 18 years old, fuller thighs, fuller arms, fuller hips, perfectly flat belly, pristine flawless skin with no freckles. Outfit: black silk slip-dress, bias-cut, thin spaghetti straps, thin black silk shawl visibly trailing behind her in wind. Hair: long glossy chestnut waves parted center, mid-toss, lifting eight centimeters off her shoulders as her head tips back into wind. Makeup: glass-skin dewy base, soft peach blush, glossy deep-rose lip, soft brown mascara, brushed-up brows. Jewelry: thin gold rope chain visibly lifting off collarbone, single gold huggie, thin gold ring on right index finger. Footwear: black satin pointed-toe stiletto sandals, 100mm needle heel, thin ankle wrap with single gold pin closure, black silk-wrapped heel column, almond toe with thin sole, no embellishment. Product: crystal champagne flute held loosely in right hand at hip level, tilted at angle.
+L-arm: lifted outward at shoulder level, palm open to wind, the silk shawl trailing twenty centimeters behind. R-arm: lowered at hip, fingertips loosely holding the flute stem at thigh height. L-leg: front foot, weight-bearing, knee soft. R-leg: back foot, heel slightly lifted in arch-back motion. Feet: contrapposto on travertine. Waist: arched back three degrees. Head: tipped back fifteen degrees, throat exposed to night sky. Gaze: closed eyes, lashes lowered. Expr: head-back wind-laugh open mouth — lips parted in a real open-mouth laugh, teeth visible, eyes closed with crinkle at outer corners, jaw soft, the unguarded face of full joy.
+Camera: medium-wide low-angle shot at hip height, 35mm lens, subject center-third with skyline rising above, depth of field f/2.8, low-angle pedestal rise initiating.
+
+### FRAME 5 — VEO VIDEO PROMPT
+
+Camera: slow pedestal rise from hip height to chest height over eight seconds, 35mm lens, shallow depth of field f/2.8, smooth gimbal moving up.
+Subject: young woman in black silk slip-dress tips her head back fifteen degrees with her left arm lifted outward at shoulder level into the wind, lips parted in a real open-mouth laugh, her chestnut waves lifting eight centimeters in the rooftop wind, her champagne flute held loosely at hip in her right hand.
+Environment: silk shawl trails twenty centimeters behind her on a stronger rooftop wind gust, distant city tungsten lights twinkle in deeper bokeh as dusk drops to night, fire-pit flicker visible.
+Lighting: cobalt night sky ambient, warm tungsten city bokeh, fire-pit warm bounce on ankles, gold ring on her index finger catches a flute-side micro-highlight.
+Style: cinematic rooftop editorial realism, hyperreal commercial texture, real wind-driven hair physics with strand separation, no CGI bloom, no neon.
+Audio: real open-mouth laugh breath, stronger wind gust through hair, distant city hum, fire-pit crackle, faint silk shawl flutter, no music.
+Negative: no subtitles, no on-screen text, no morphing, no warping, no captions, no logos.
+
+---
+
+### FRAME 6 — IMAGE PROMPT
+
+9:16 aspect ratio, strictly photorealistic, ultra-realistic, 8k resolution, raw cinematic beauty-campaign aesthetic, hyperreal commercial texture, anti-illustration, anti-comic-book, anti-CGI, real-camera lens behavior, shallow depth of field.
+Rooftop terrace at full night. Polished travertine floor visible, low-profile glass railing on right with distant city skyline tungsten bokeh now at full night intensity, fire-pit warm glow at frame-left back, teak side table and ice bucket in deeper soft-focus.
+Subject is Aira (use face reference images), exactly 18 years old, fuller thighs, fuller arms, fuller hips, perfectly flat belly, pristine flawless skin with no freckles. Outfit: black silk slip-dress, bias-cut, thin spaghetti straps, thin black silk shawl now half-falling off left shoulder. Hair: long glossy chestnut waves mid-flip toward camera, lifting six centimeters with hair-flip motion, parted center. Makeup: glass-skin dewy base, soft peach blush, glossy deep-rose lip, soft brown mascara, brushed-up brows. Jewelry: thin gold rope chain, single gold huggie, thin gold ring on right index finger. Footwear: black satin pointed-toe stiletto sandals, 100mm needle heel, thin ankle wrap with single gold pin closure, black silk-wrapped heel column, almond toe with thin sole, no embellishment. Product: crystal champagne flute held loosely in right hand at hip level.
+L-arm: lifted at shoulder level, fingers in mid-hair-flip motion lifting chestnut strands back over shoulder. R-arm: lowered at hip holding flute. L-leg: front foot, weight-bearing, knee soft. R-leg: back foot, heel grounded with slight outward turn. Feet: contrapposto on travertine. Waist: rotated four degrees toward camera with shoulder roll. Head: tilted left five degrees as hair flips back, chin slightly lowered. Gaze: direct into lens with sovereign warmth. Expr: hair-flip sovereign smirk — corner of mouth lifted in a knowing smirk, eyes warmed by night light and laughter, eyebrow on the lifted side raised half a millimeter, the alive face of post-laugh confidence.
+Camera: medium shot at chest height, 50mm lens, subject center-third with railing and skyline framing right, depth of field f/2.0, handheld micro-shake.
+
+### FRAME 6 — VEO VIDEO PROMPT
+
+Camera: subtle handheld micro-shake at chest height, 50mm lens, shallow depth of field f/2.0, organic operator-breathing motion over eight seconds.
+Subject: young woman in black silk slip-dress flips her chestnut hair back over her shoulder with her left hand and turns her head toward camera, her direct eye contact with the lens locking with a sovereign smirk, her right hand still holding the champagne flute at hip.
+Environment: silk shawl half-falls another centimeter off her left shoulder, distant city tungsten lights twinkle, fire-pit flicker continues, her hair settles in stages with the flip.
+Lighting: cobalt night sky ambient, warm tungsten city bokeh, fire-pit warm bounce on ankles.
+Style: luxury rooftop editorial cinematic realism, hyperreal commercial texture, real hair flip physics with strand separation, no CGI bloom, no neon.
+Audio: hair flip whoosh, distant city hum, fire-pit crackle, faint silk rustle, single soft breath, no music.
+Negative: no subtitles, no on-screen text, no morphing, no warping, no captions, no logos.
+
+---
+
+### FRAME 7 — IMAGE PROMPT
+
+9:16 aspect ratio, strictly photorealistic, ultra-realistic, 8k resolution, raw cinematic beauty-campaign aesthetic, hyperreal commercial texture, anti-illustration, anti-comic-book, anti-CGI, real-camera lens behavior, shallow depth of field.
+Rooftop terrace in full reveal as the camera pulls back. Polished travertine floor stretching in lower foreground, low-profile glass railing visible on right with distant city skyline tungsten bokeh, fire-pit warm glow at frame-left back, teak side table and ice bucket visible right-back, dusk sky now full cobalt-black night with city lights as the only practical source.
+Subject is Aira (use face reference images), exactly 18 years old, fuller thighs, fuller arms, fuller hips, perfectly flat belly, pristine flawless skin with no freckles. Outfit: black silk slip-dress, bias-cut, thin spaghetti straps, thin black silk shawl now resettled draped across both shoulders. Hair: long glossy chestnut waves parted center, settled cleanly over shoulders. Makeup: glass-skin dewy base, soft peach blush, glossy deep-rose lip, soft brown mascara, brushed-up brows. Jewelry: thin gold rope chain, single gold huggie, thin gold ring on right index finger. Footwear: black satin pointed-toe stiletto sandals, 100mm needle heel, thin ankle wrap with single gold pin closure, black silk-wrapped heel column, almond toe with thin sole, no embellishment. Product: crystal champagne flute now placed back on the glass railing edge, lower frame, gold rim catching tungsten light.
+L-arm: lifted, hand resting softly on the glass railing edge beside the placed flute. R-arm: lowered at side, hand brushing silk hem at right thigh. L-leg: front foot, weight-bearing, knee soft. R-leg: back foot, heel grounded with slight outward turn. Feet: contrapposto on travertine. Waist: rotated forty degrees back over right shoulder. Head: turned back over right shoulder toward camera, chin slightly down. Gaze: direct into lens with warm farewell softness, lashes at half-mast. Expr: over-shoulder warm seal — soft warm smile over the shoulder, eyes warmed by the night and the moment-just-lived, the look of a private goodnight to the viewer.
+Camera: medium-wide shot pulling back at chest height, 50mm lens, subject right-third with full rooftop reveal, depth of field f/2.8, slow tracking-back pull-out.
+
+### FRAME 7 — VEO VIDEO PROMPT
+
+Camera: slow tracking-back pull-out at chest height, 50mm lens, shallow depth of field f/2.8, smooth dolly moving backward two meters over eight seconds.
+Subject: young woman in black silk slip-dress places the gold-rimmed champagne flute on the glass railing edge with her left hand then turns her head back over her right shoulder toward camera with a soft warm farewell smile, her direct eye contact with the lens holding through the pull-out.
+Environment: silk shawl settles cleanly across both shoulders as the wind softens, distant city tungsten lights twinkle, fire-pit warm flicker continues, the rooftop reveals fully in the pull-out.
+Lighting: cobalt night sky ambient, warm tungsten city bokeh as the dominant light source, fire-pit warm bounce on travertine.
+Style: cinematic rooftop editorial finale realism, hyperreal commercial texture, real practical-tungsten-night color science, no CGI bloom, no neon.
+Audio: faint flute clink as it touches glass railing, distant city hum, faint wind brush, fire-pit crackle, single soft breath, no music.
+Negative: no subtitles, no on-screen text, no morphing, no warping, no captions, no logos.
+
+---
+
+
+## CONCEPT 08 — BRIDAL VEIL CHAPEL (BRIDAL GLAM — INDOOR LUXURY)
+
+**20-WORD REEL SUMMARY:** Aira lifts bridal veil, traces pearl earring, soft tear catches light, breathes deep, settled emotional smile finale.
+
+**WORLD / THEME:** Bridal glam — chapel-style bridal suite, pre-ceremony emotional moment, soft sacred indoor light.
+**HERO PRODUCT:** Single teardrop pearl earring + sheer cathedral-length silk-tulle veil with hand-rolled edge, paired with a small bouquet of fresh white peonies and gypsophila on a marble side table.
+**ENVIRONMENT IDENTITY:** Chapel-adjacent bridal preparation suite, vaulted plaster ceiling with soft cream walls, full-length antique gold-leaf framed mirror at left, antique walnut vanity with marble top in mid-frame, single tall arched window on right with soft white linen sheer curtain, small white peony bouquet in a clear glass vase, cream velvet upholstered chaise visible in soft-focus.
+**LIGHTING MOOD:** Soft sacred white window light from the tall arched window on frame-right + warm gold leaf-mirror frame bounce as subtle warm fill. Two sources only.
+**HOOK DISTRIBUTION:** F1 veil-falling-into-place hook · F3 pearl earring macro insert hook · F4 single-tear catching light hook · F6 bouquet press to chest hook · F8 final settled-emotional smile hook.
+**SUBJECT ENERGY PROFILE:** Emotional, sacred, breathing, half-laugh-half-tear energy, the alive face of a real bride pre-ceremony, soft micro-tremors and held breaths.
+**MOTION CONTINUITY LOGIC:** Veil settling onto her crown → fingertips smoothing veil edge → pearl earring lifted to ear → single tear catching light → soft self-laugh wiping tear → bouquet pressed to chest → looking up to mirror → final settled emotional smile.
+**CAMERA LANGUAGE PLAN:** F1 wide veil-fall reveal 35mm · F2 over-shoulder smoothing veil 50mm · F3 macro pearl earring insert 100mm · F4 macro tear-catch insert 100mm · F5 slow push-in 85mm · F6 medium close-up rack focus 50mm · F7 mirror reflection static 50mm · F8 slow push-in 85mm.
+**EXPRESSION CHOREOGRAPHY:** F1 quiet emotional reverence · F2 focused veil concentration · F3 reverent pearl gaze · F4 single-tear unguarded vulnerability · F5 self-laugh soft emotional release · F6 closed-eye bouquet inhale · F7 mirror eye-lock soft recognition · F8 settled emotional smile final.
+**BODY LANGUAGE PLAN:** F1 both hands lifted to crown adjusting veil · F2 fingertips tracing veil edge along jaw · F3 single hand at right ear placing pearl · F4 fingertip catching tear under right eye · F5 hand to lips wiping with playful self-laugh · F6 both hands cradling peony bouquet at chest · F7 single hand on collarbone in mirror · F8 settled hand at jaw soft smile.
+**HAIR PHYSICS NOTES:** Long glossy chestnut waves swept up into a low chignon at the nape of her neck, soft tendrils framing her face on both sides, individual strand separation, micro-baby-hairs visible at hairline, flat-pinned with the veil.
+**FABRIC MOTION NOTES:** Strapless ivory silk wedding gown with bias-cut bodice and full A-line skirt to floor, soft drape, the cathedral-length silk-tulle veil flows from her chignon two meters behind her with hand-rolled edge visible, train pooling at her bare ankles.
+**LIGHTING PHYSICS NOTES:** Soft white morning window light from tall arched window at frame-right at 65 degrees as dominant key, warm gold-leaf mirror frame bounce as subtle warm fill on her camera-side jaw, the cathedral-length tulle veil glowing translucent where backlit by window.
+**BEAUTY PRODUCT INTERACTION PLAN:** Veil settled in F1, smoothed in F2. Pearl earring revealed F3 macro and placed in ear. Tear catches light in F4 macro. Peony bouquet introduced F5, cradled F6, lifted to nose. Mirror eye-lock F7. Settled smile F8.
+**VIEWER ENGAGEMENT MOMENTS:** F4 single-tear vulnerability · F7 mirror eye-lock soft recognition · F8 settled emotional smile final.
+**ANTI-ILLUSTRATION SAFEGUARDS:** Real silk-tulle weave at backlight translucency, real teardrop pearl iridescence with surface micro-imperfection, real single-tear surface-tension physics on cheek, real peony botanical detail with petal edge variation, real hand-rolled veil edge.
+**HYPERREAL COMMERCIAL TEXTURE LANGUAGE:** Vera Wang bridal editorial finish, raw cinematic 8k, sacred soft-window-light color science, no AI smoothing, no plastic skin, no CGI bloom, real emotional skin texture.
+**FOOTWEAR STRING:** Ivory silk-satin pointed-toe pumps, 75mm covered heel, hand-stitched silk upper, silk-wrapped heel column, single small pearl detail at the throat of the shoe, almond toe, soft suede sole, visible only when the gown hem lifts in F8.
+
+---
+
+### FRAME 1 — IMAGE PROMPT
+
+9:16 aspect ratio, strictly photorealistic, ultra-realistic, 8k resolution, raw cinematic beauty-campaign aesthetic, hyperreal commercial texture, anti-illustration, anti-comic-book, anti-CGI, real-camera lens behavior, shallow depth of field.
+Chapel-adjacent bridal preparation suite. Vaulted plaster ceiling with soft cream walls visible in upper frame, antique walnut vanity with marble top in lower mid-frame, full-length antique gold-leaf framed mirror visible at left edge of frame, single tall arched window on right with soft white linen sheer curtain spilling sacred white morning light, small white peony bouquet in a clear glass vase on the marble vanity surface, cream velvet upholstered chaise visible in deep soft-focus background.
+Subject is Aira (use face reference images), exactly 18 years old, fuller thighs, fuller arms, fuller hips, perfectly flat belly, pristine flawless skin with no freckles, visible morning soft pore detail on cheek, dewy emotional skin tone. Outfit: strapless ivory silk wedding gown with bias-cut bodice and full A-line skirt to floor, soft drape. Hair: long glossy chestnut waves swept up into a low chignon at nape of neck, soft tendrils framing both sides of her face, individual strand separation, micro-baby-hairs at hairline. Makeup: glass-skin dewy base, soft peach blush high on cheekbone, soft natural-rose lip, soft brown mascara, subtle warm-tone eyeshadow, brushed-up brows. Jewelry: thin gold chain at collarbone, the right teardrop pearl earring not yet placed (visible on the marble vanity in foreground), single gold huggie in left ear. Footwear: ivory silk-satin pointed-toe pumps, 75mm covered heel, hand-stitched silk upper, silk-wrapped heel column, single small pearl detail at throat, almond toe, soft suede sole — covered by gown hem at her feet. Product: cathedral-length silk-tulle veil falling from her chignon two meters behind her with hand-rolled edge, mid-settle as it cascades down her back into place.
+L-arm: lifted overhead, fingertips at her chignon adjusting the veil comb settling. R-arm: lifted overhead in mirrored position, fingertips also at chignon settling the veil. L-leg: standing, weight-bearing under gown. R-leg: standing beside left, hidden under gown. Feet: hip-width apart under gown. Waist: chest squared toward the gold-leaf mirror at left. Head: tilted four degrees up, chin lifted, looking toward the mirror. Gaze: looking softly into the mirror with reverent emotion, lashes lowered. Expr: quiet emotional reverence — eyes softly held with held breath, lips parted in a held inhale, the unguarded face of a sacred private moment.
+Camera: medium-wide shot at chest height, 35mm lens, subject center-third with mirror at left and window light at right, depth of field f/2.8, locked-off composition.
+
+### FRAME 1 — VEO VIDEO PROMPT
+
+Camera: locked-off medium-wide shot at chest height, 35mm lens, shallow depth of field f/2.8, no movement over eight seconds.
+Subject: young woman in strapless ivory silk wedding gown stands at antique vanity with both hands lifted overhead at her chignon adjusting the veil, the cathedral-length silk-tulle veil settling cleanly down her back over the eight seconds, her gaze softly held in the gold-leaf mirror with quiet emotional reverence.
+Environment: silk-tulle veil drifts softly into final position behind her two meters length, white peony bouquet petals tremble half a millimeter on draft, sheer linen curtain at window drifts inward two centimeters in soft morning breeze.
+Lighting: soft sacred white window light from frame-right, warm gold-leaf mirror frame bounce as subtle warm fill on her camera-side jaw.
+Style: luxury Vera Wang bridal editorial cinematic realism, hyperreal commercial texture, real silk-tulle translucency at backlight, sacred soft-window color science, no CGI bloom, no plastic skin.
+Audio: faint silk-tulle rustle, soft single inhale, distant chapel-room reverb, faint birdsong outside window very faint, no music, no dialogue.
+Negative: no subtitles, no on-screen text, no morphing, no warping, no captions, no logos.
+
+---
+
+### FRAME 2 — IMAGE PROMPT
+
+9:16 aspect ratio, strictly photorealistic, ultra-realistic, 8k resolution, raw cinematic beauty-campaign aesthetic, hyperreal commercial texture, anti-illustration, anti-comic-book, anti-CGI, real-camera lens behavior, shallow depth of field.
+Bridal preparation suite from over-the-shoulder angle. Aira's silhouette in foreground left-third, her reflection in the gold-leaf framed mirror at center-third, antique walnut vanity with marble top in lower frame, white peony bouquet in glass vase visible on the marble surface, single tall arched window with sheer linen curtain on frame-right, cream velvet chaise in deeper soft-focus.
+Subject is Aira (use face reference images), exactly 18 years old, fuller thighs, fuller arms, fuller hips, perfectly flat belly, pristine flawless skin with no freckles. Outfit: strapless ivory silk wedding gown with bias-cut bodice. Hair: long glossy chestnut waves in low chignon at nape, soft tendrils framing both sides of face, the rest of her hair visible cascading the chignon over her right shoulder partially in the over-shoulder angle. Makeup: glass-skin dewy base, soft peach blush, soft natural-rose lip, soft brown mascara, brushed-up brows. Jewelry: thin gold chain at collarbone, single gold huggie in left ear, right ear still bare (pearl not yet placed). Footwear: ivory silk-satin pointed-toe pumps, covered heel, hand-stitched silk upper, silk-wrapped heel column, single small pearl detail at throat, almond toe, soft suede sole — under gown hem. Product: cathedral-length silk-tulle veil flowing from chignon down her back, the hand-rolled edge currently being smoothed by her right fingertips along its drape past her left jaw.
+L-arm: lowered, hand resting on the marble vanity surface beside the white peony bouquet. R-arm: lifted across her body, fingertips tracing softly along the silk-tulle veil edge as it falls past her left jaw, the hand-rolled edge visible. L-leg: standing, weight-bearing under gown. R-leg: standing beside left under gown. Feet: hip-width apart under gown. Waist: rotated eight degrees toward the mirror. Head: tilted right four degrees, looking down at her own veil edge along her jaw. Gaze: looking down at the veil edge with focused tenderness. Expr: focused veil concentration — eyes softly narrowed in private inspection, lips slightly parted with held breath, eyebrows micro-relaxed in concentrated tenderness.
+Camera: medium shot from over Aira's left shoulder, 50mm lens, subject left-third with mirror reflection at center-third, depth of field f/2.8, locked-off composition.
+
+### FRAME 2 — VEO VIDEO PROMPT
+
+Camera: locked-off over-the-shoulder medium shot at chest height, 50mm lens, shallow depth of field f/2.8, no movement over eight seconds.
+Subject: young woman in ivory silk wedding gown traces her right fingertips slowly along the hand-rolled edge of the silk-tulle veil as it falls past her left jaw, her gaze focused on the veil edge with private tenderness, her left hand resting on the marble vanity beside the peony bouquet.
+Environment: silk-tulle veil edge trembles softly under her fingertip pressure, peony petals shift one millimeter on draft, sheer linen curtain at window drifts inward two centimeters.
+Lighting: soft sacred white window light from frame-right, warm gold-leaf mirror frame bounce on her camera-side jaw, veil edge glows translucent where backlit.
+Style: luxury bridal editorial cinematic realism, hyperreal commercial texture, real silk-tulle weave detail under fingertip, no CGI bloom, no plastic skin.
+Audio: faint silk-tulle rustle under fingertips, soft single breath, distant chapel-room reverb, faint birdsong, no music.
+Negative: no subtitles, no on-screen text, no morphing, no warping, no captions, no logos.
+
+---
+
+### FRAME 3 — IMAGE PROMPT
+
+9:16 aspect ratio, strictly photorealistic, ultra-realistic, 8k resolution, raw cinematic beauty-campaign aesthetic, hyperreal commercial texture, anti-illustration, anti-comic-book, anti-CGI, real-camera lens behavior, shallow depth of field.
+Macro insert. Bridal suite background fully out of focus, soft sacred window light reduced to a soft white-and-gold bokeh wash, gold-leaf mirror frame as a soft warm bokeh streak at left edge.
+Subject is Aira (use face reference images), exactly 18 years old, fuller thighs, fuller arms, fuller hips, perfectly flat belly, pristine flawless skin with no freckles, visible soft pore detail on right earlobe and cheek, dewy emotional skin texture. Outfit: ivory silk gown bodice edge visible at lower frame edge. Hair: chignon and tendrils visible at upper frame edge near right ear. Makeup: glass-skin dewy base, soft peach blush, soft natural-rose lip, soft brown mascara, brushed-up brows. Jewelry: out of macro frame except for the focal earring. Footwear: out of macro frame. Product: single teardrop pearl earring with brushed-gold pin held three centimeters from her right earlobe by her right thumb and index finger, the pearl iridescent in window light catching warm-cool refraction, the right earlobe visible with the small piercing hole ready.
+L-arm: out of frame. R-arm: lifted to right ear, thumb and index finger pinching the brushed-gold pin of the teardrop pearl earring three centimeters from her earlobe. L-leg: out of frame. R-leg: out of frame. Feet: out of frame. Waist: out of frame. Head: tilted three degrees right exposing the right ear, eyes looking softly down at the earring. Gaze: looking down at the pearl with reverence. Expr: reverent pearl gaze — eyes softly held on the pearl, lips parted in a held breath, eyebrows micro-relaxed, the unguarded face of an emotional pre-ceremony moment.
+Camera: extreme close-up macro at face height, 100mm macro lens, pearl on right-third, ear on left-third, ultra-shallow depth of field f/2.8, focus locked on the pearl iridescence.
+
+### FRAME 3 — VEO VIDEO PROMPT
+
+Camera: locked-off extreme close-up macro at face height, 100mm macro lens, ultra-shallow depth of field f/2.8, no movement over eight seconds.
+Subject: young woman holds the teardrop pearl earring three centimeters from her right earlobe and slowly guides it the final three centimeters into the piercing across the duration, the gold pin sliding through with realistic precision, her reverent gaze on the pearl unbroken.
+Environment: white-and-gold bokeh shifts almost imperceptibly behind, soft window light catches the pearl iridescence in slow specular travel.
+Lighting: soft sacred window light catches the pearl as warm-cool refraction, gold pin catches micro-specular highlight, her ear lobe softly fills with reflected window light.
+Style: luxury macro bridal-editorial realism, hyperreal commercial texture, real pearl iridescence with surface micro-imperfection, real gold-pin metal behavior, no CGI bloom.
+Audio: very faint pin click as it seats, soft single breath, distant chapel-room reverb, faint birdsong, no music, no dialogue.
+Negative: no subtitles, no on-screen text, no morphing, no warping, no captions, no logos.
+
+---
+
+### FRAME 4 — IMAGE PROMPT
+
+9:16 aspect ratio, strictly photorealistic, ultra-realistic, 8k resolution, raw cinematic beauty-campaign aesthetic, hyperreal commercial texture, anti-illustration, anti-comic-book, anti-CGI, real-camera lens behavior, shallow depth of field.
+Macro insert. Bridal suite background fully out of focus, soft sacred window light reduced to a soft white-and-gold bokeh wash.
+Subject is Aira (use face reference images), exactly 18 years old, fuller thighs, fuller arms, fuller hips, perfectly flat belly, pristine flawless skin with no freckles, visible soft skin micro-texture on cheek and lower lash line, dewy emotional skin tone. Outfit: ivory silk gown bodice edge visible at lower frame edge. Hair: chignon tendrils visible at upper frame edge framing her right cheek. Makeup: glass-skin dewy base, soft peach blush, soft natural-rose lip, soft brown mascara, brushed-up brows, single fresh tear visible mid-fall on her right cheekbone catching window light as a clear bead. Jewelry: teardrop pearl earring now placed in right ear, gold pin visible. Footwear: out of macro frame. Product: out of macro frame.
+L-arm: out of frame. R-arm: lifted to face, the side of her index finger softly catching the falling tear under her right eye, the tear bead visible just before her finger meets it. L-leg: out of frame. R-leg: out of frame. Feet: out of frame. Waist: out of frame. Head: tilted four degrees right with chin slightly down, eyes lifted to lens. Gaze: direct into lens through the tear-catching moment, lashes wet, eyebrows softly raised in vulnerable gentleness. Expr: single-tear unguarded vulnerability — single fresh tear caught on her right cheekbone, lips parted in a soft held breath, eyes wide and direct on lens with vulnerable warmth, eyebrows softly raised — the unguarded face of a real emotional moment.
+Camera: extreme close-up macro at face height, 100mm macro lens, tear bead on right-third, eye on left-third, ultra-shallow depth of field f/2.8, focus locked on the suspended tear bead.
+
+### FRAME 4 — VEO VIDEO PROMPT
+
+Camera: locked-off extreme close-up macro at face height, 100mm macro lens, ultra-shallow depth of field f/2.8, no movement over eight seconds.
+Subject: young woman lets a single fresh tear release from her right eye and slide three millimeters down her cheekbone over the first three seconds, her right index finger then rising the final five seconds to softly catch the tear with the side of her finger, her direct eye contact with the lens unbroken with vulnerable warmth.
+Environment: white-and-gold bokeh holds steady behind, soft window light catches the tear bead as a clear iridescent specular highlight.
+Lighting: soft sacred window light catches the tear bead as the brightest specular point in frame, soft fill on her cheek skin tone.
+Style: macro bridal editorial vulnerability realism, hyperreal commercial texture, real tear surface-tension physics, real wet-lash detail, no CGI bloom, no plastic skin.
+Audio: very faint single inhale-shudder, distant chapel-room reverb, faint birdsong, no music, no dialogue.
+Negative: no subtitles, no on-screen text, no morphing, no warping, no captions, no logos.
+
+---
+
+### FRAME 5 — IMAGE PROMPT
+
+9:16 aspect ratio, strictly photorealistic, ultra-realistic, 8k resolution, raw cinematic beauty-campaign aesthetic, hyperreal commercial texture, anti-illustration, anti-comic-book, anti-CGI, real-camera lens behavior, shallow depth of field.
+Bridal preparation suite. Vaulted plaster ceiling and cream walls in soft-focus, gold-leaf framed mirror visible at left, antique walnut vanity with marble top in lower frame, white peony bouquet in clear glass vase, single tall arched window with sheer linen curtain at frame-right, cream velvet chaise in deep soft-focus.
+Subject is Aira (use face reference images), exactly 18 years old, fuller thighs, fuller arms, fuller hips, perfectly flat belly, pristine flawless skin with no freckles. Outfit: strapless ivory silk wedding gown with bias-cut bodice, full A-line skirt. Hair: low chignon at nape with soft tendrils. Makeup: glass-skin dewy base, soft peach blush, soft natural-rose lip, soft brown mascara, brushed-up brows, faint shimmer trace of tear-track on right cheekbone now nearly dry. Jewelry: thin gold chain, teardrop pearl earring in right ear, single gold huggie in left ear. Footwear: ivory silk-satin pointed-toe pumps under gown hem. Product: cathedral-length silk-tulle veil flowing behind her, peony bouquet still on vanity.
+L-arm: lifted to lips, the side of her index finger softly pressed against her lips in a wiping-tear-with-self-laugh gesture. R-arm: lowered, hand resting on the marble vanity beside the peony bouquet. L-leg: standing under gown. R-leg: standing beside left under gown. Feet: hip-width apart under gown. Waist: chest squared toward camera with soft micro-rotation. Head: tilted right three degrees, chin slightly lifted with shoulders dropping a centimeter in a held-laugh release. Gaze: closed eyes, lashes still slightly wet, the soft-laughing-through-emotion moment. Expr: self-laugh soft emotional release — eyes softly closed with crinkle at outer corners, lips parted in a soft warm laugh-into-fingertip, the unguarded face of someone laughing at her own tears.
+Camera: medium close-up at face height, 85mm lens, subject center-third with mirror and vanity framing, depth of field f/2.0, slow push-in initiating.
+
+### FRAME 5 — VEO VIDEO PROMPT
+
+Camera: slow push-in at face height, 85mm lens, shallow depth of field f/2.0, smooth dolly track moving forward twenty-five centimeters over eight seconds.
+Subject: young woman in ivory wedding gown lifts her left index finger softly to her lips in a wiping-tear-with-self-laugh gesture, her shoulders dropping a centimeter as a soft warm laugh releases through her fingertip, her eyes softly closing with held emotion.
+Environment: silk-tulle veil trembles softly behind her on faint draft, peony petals shift one millimeter, sheer linen curtain at window drifts inward two centimeters.
+Lighting: soft sacred window light from frame-right, warm gold-leaf mirror frame bounce on her camera-side jaw.
+Style: luxury bridal editorial cinematic realism, hyperreal commercial texture, real wet-eye lash micro-detail, no CGI bloom, no plastic skin.
+Audio: soft warm laugh-breath, faint silk rustle, distant chapel-room reverb, faint birdsong, no music, no dialogue.
+Negative: no subtitles, no on-screen text, no morphing, no warping, no captions, no logos.
+
+---
+
+### FRAME 6 — IMAGE PROMPT
+
+9:16 aspect ratio, strictly photorealistic, ultra-realistic, 8k resolution, raw cinematic beauty-campaign aesthetic, hyperreal commercial texture, anti-illustration, anti-comic-book, anti-CGI, real-camera lens behavior, shallow depth of field.
+Bridal preparation suite. Cream walls and vaulted plaster ceiling in soft-focus, gold-leaf mirror visible at left, antique walnut vanity with marble top in lower frame, single tall arched window with sheer linen curtain at frame-right, cream velvet chaise in deeper bokeh.
+Subject is Aira (use face reference images), exactly 18 years old, fuller thighs, fuller arms, fuller hips, perfectly flat belly, pristine flawless skin with no freckles. Outfit: strapless ivory silk wedding gown with bias-cut bodice. Hair: low chignon at nape with soft tendrils. Makeup: glass-skin dewy base, soft peach blush, soft natural-rose lip, soft brown mascara, brushed-up brows. Jewelry: thin gold chain, teardrop pearl earring in right ear, single gold huggie in left ear. Footwear: ivory silk-satin pumps under gown hem. Product: small white peony bouquet (six fresh peonies + sprigs of gypsophila) lifted from the vanity and now cradled at her chest with both hands, the peonies gathered with a hand-tied ivory silk ribbon.
+L-arm: lifted to chest, palm cradling underside of bouquet base, ribbon visible. R-arm: lifted to chest, palm wrapped around the bouquet stems above the ribbon. L-leg: standing under gown. R-leg: standing beside left under gown. Feet: hip-width apart under gown. Waist: chest squared toward camera with soft micro-arch. Head: tilted four degrees down, chin lowered toward bouquet, eyes closed. Gaze: closed eyes, lashes lowered. Expr: closed-eye bouquet inhale — eyes softly closed, lips parted in a held inhale of fresh peony fragrance, jaw soft, the unguarded face of receiving the moment.
+Camera: medium close-up at chest height, 50mm lens, subject center-third with bouquet at center, depth of field f/2.0, rack focus pulled from bouquet in foreground to her face in mid plane.
+
+### FRAME 6 — VEO VIDEO PROMPT
+
+Camera: locked-off medium close-up at chest height, 50mm lens, shallow depth of field f/2.0, executes a single rack focus from the peony bouquet in the near plane to her face in the mid plane over eight seconds.
+Subject: young woman in ivory wedding gown cradles the white peony bouquet at her chest with both hands, lowers her chin toward the peonies and takes a slow soft inhale of fragrance with her eyes closed, her closed-eye bouquet inhale holding through the duration.
+Environment: peony petals tremble softly with her breath, single gypsophila sprig releases one tiny floret that drifts down two centimeters, silk-tulle veil trembles behind her, sheer linen curtain at window drifts inward.
+Lighting: soft sacred window light from frame-right catches peony petals in soft warm fill, warm gold-leaf mirror bounce on her camera-side jaw.
+Style: luxury bridal editorial cinematic realism, hyperreal commercial texture, real peony botanical detail, real silk-ribbon fiber, no CGI bloom, no plastic skin.
+Audio: very faint soft inhale through nose, faint peony-leaf rustle, distant chapel-room reverb, faint birdsong, no music.
+Negative: no subtitles, no on-screen text, no morphing, no warping, no captions, no logos.
+
+---
+
+### FRAME 7 — IMAGE PROMPT
+
+9:16 aspect ratio, strictly photorealistic, ultra-realistic, 8k resolution, raw cinematic beauty-campaign aesthetic, hyperreal commercial texture, anti-illustration, anti-comic-book, anti-CGI, real-camera lens behavior, shallow depth of field.
+Bridal preparation suite framed inside the gold-leaf mirror. The full-length antique gold-leaf framed mirror dominates the frame with Aira's reflection at center, antique walnut vanity edge visible in lower frame, single tall arched window with sheer linen curtain visible behind her in the reflection, cream velvet chaise reflected in deeper bokeh.
+Subject is Aira (use face reference images), exactly 18 years old, fuller thighs, fuller arms, fuller hips, perfectly flat belly, pristine flawless skin with no freckles, captured here in mirror reflection. Outfit: strapless ivory silk wedding gown with bias-cut bodice and full A-line skirt. Hair: low chignon at nape with soft tendrils. Makeup: glass-skin dewy base, soft peach blush, soft natural-rose lip, soft brown mascara, brushed-up brows. Jewelry: thin gold chain, teardrop pearl earring in right ear, single gold huggie in left ear. Footwear: ivory silk-satin pumps under gown hem. Product: white peony bouquet held in right hand at thigh level, cathedral-length silk-tulle veil flowing behind.
+L-arm: lifted (mirrored), palm pressed flat on her own collarbone in a soft self-recognition gesture. R-arm: lowered (mirrored), holding the peony bouquet at thigh level. L-leg: standing under gown (mirrored). R-leg: standing beside left under gown (mirrored). Feet: hip-width apart under gown (mirrored). Waist: chest squared toward the mirror. Head: tilted left three degrees, chin level. Gaze: direct into the mirror lens with soft emotional recognition, lashes at half-mast. Expr: mirror eye-lock soft recognition — eyes softly held on her own reflection (the lens) with the look of a bride seeing herself, corner of mouth lifted in a private settled smile, the unguarded face of self-recognition.
+Camera: medium-wide shot framed inside the gold-leaf mirror at chest height, 50mm lens, subject reflection on center-third, depth of field f/2.0, locked-off mirror reflection composition.
+
+### FRAME 7 — VEO VIDEO PROMPT
+
+Camera: locked-off medium-wide shot framed inside the gold-leaf mirror at chest height, 50mm lens, shallow depth of field f/2.0, no movement over eight seconds.
+Subject: young woman in ivory wedding gown stands before the gold-leaf mirror with her left palm pressed flat against her own collarbone, her direct eye contact with her own reflection holding through the eight seconds, her settled emotional smile deepening one degree, her chest visibly rising with a held breath.
+Environment: silk-tulle veil trembles softly behind her, sheer linen curtain at window drifts inward two centimeters, peony bouquet stems shift one millimeter at her thigh.
+Lighting: soft sacred window light from behind her in mirror reflection, warm gold-leaf mirror frame bounce on her camera-side jaw, soft halo glow around her crown from window backlight.
+Style: luxury bridal editorial mirror-reflection cinematic realism, hyperreal commercial texture, real silk-tulle backlight translucency, no CGI bloom, no plastic skin.
+Audio: single contented breath, faint silk rustle, distant chapel-room reverb, faint birdsong, no music, no dialogue.
+Negative: no subtitles, no on-screen text, no morphing, no warping, no captions, no logos.
+
+---
+
+### FRAME 8 — IMAGE PROMPT
+
+9:16 aspect ratio, strictly photorealistic, ultra-realistic, 8k resolution, raw cinematic beauty-campaign aesthetic, hyperreal commercial texture, anti-illustration, anti-comic-book, anti-CGI, real-camera lens behavior, shallow depth of field.
+Bridal preparation suite. Vaulted plaster ceiling and cream walls in soft-focus, gold-leaf framed mirror in deeper bokeh-left, antique walnut vanity with marble top in lower frame, single tall arched window with sheer linen curtain at frame-right, cream velvet chaise in deeper bokeh.
+Subject is Aira (use face reference images), exactly 18 years old, fuller thighs, fuller arms, fuller hips, perfectly flat belly, pristine flawless skin with no freckles. Outfit: strapless ivory silk wedding gown with bias-cut bodice, full A-line skirt to floor with hem now lifted ten centimeters at her right thigh by her right hand revealing her ivory silk-satin pump. Hair: low chignon at nape with soft tendrils. Makeup: glass-skin dewy base, soft peach blush, soft natural-rose lip, soft brown mascara, brushed-up brows. Jewelry: thin gold chain, teardrop pearl earring in right ear, single gold huggie in left ear. Footwear: ivory silk-satin pointed-toe pumps now visible — 75mm covered heel, hand-stitched silk upper, silk-wrapped heel column, single small pearl detail at the throat of the shoe, almond toe, soft suede sole. Product: white peony bouquet held in left hand at hip, cathedral-length silk-tulle veil settled cleanly behind her.
+L-arm: lowered, hand holding peony bouquet at left hip. R-arm: lifted slightly, fingers gathering and lifting the gown hem at her right thigh ten centimeters above the floor exposing her silk-satin pump. L-leg: standing weight-bearing, gown hem covering. R-leg: standing beside left, the silk-satin pump now visible as the hem lifts. Feet: hip-width apart under gown, right pump visible. Waist: chest squared toward camera with soft micro-rotation. Head: tilted left two degrees, chin level. Gaze: direct into lens with soft emotional warm intimacy, lashes at half-mast. Expr: settled emotional smile final — corner of mouth lifted into a private settled emotional smile, eyes warmed by sacred light, the unguarded final face of a bride who has lived through the moment.
+Camera: medium-wide shot at chest height, 85mm lens, subject center-third with the suite revealing in soft-focus, depth of field f/2.0, slow push-in continuing.
+
+### FRAME 8 — VEO VIDEO PROMPT
+
+Camera: slow push-in at chest height, 85mm lens, shallow depth of field f/2.0, smooth dolly track moving forward thirty centimeters over eight seconds.
+Subject: young woman in ivory wedding gown lifts the silk hem at her right thigh ten centimeters with her right hand revealing her silk-satin pump, her left hand holding the peony bouquet at hip, her settled emotional smile holding direct eye contact with the lens through the push-in.
+Environment: silk-tulle veil settles cleanly behind her, peony petals tremble softly, sheer linen curtain at window drifts inward two centimeters, single rose petal already fallen earlier rests on the marble vanity.
+Lighting: soft sacred window light from frame-right at near-peak, warm gold-leaf mirror frame bounce in deeper background as soft warm fill, the cathedral-length veil glowing translucent where backlit by window.
+Style: luxury Vera Wang bridal editorial finale realism, hyperreal commercial texture, real silk-satin pump fabric detail, real hand-stitched silk upper, no CGI bloom, no plastic skin.
+Audio: faint silk rustle, single soft contented breath, distant chapel-room reverb, faint birdsong, no music, no dialogue.
+Negative: no subtitles, no on-screen text, no morphing, no warping, no captions, no logos.
+
+---
