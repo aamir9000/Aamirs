@@ -1241,3 +1241,879 @@ Audio: single quiet exhale, faint candle-flame whisper, distant night air.
 Negative: no subtitles, no on-screen text, no morphing, no warping, no captions, no logos.
 
 ---
+
+
+## CONCEPT 05 — BRIDAL PREP FIRST LIGHT (Dawn Dressing Room Ritual)
+
+20-WORD REEL SUMMARY: Aira walks the bridal prep ritual at first light, building a luminous bridal glow with a single-tear vulnerability beat.
+
+WORLD / THEME: Bridal-prep dressing room at dawn, full-length mirror, ivory silk-draped chair, lily-of-the-valley bouquet on a side table, the hush before the ceremony.
+
+RITUAL STAGE MAP: Frame 1 bare-faced opening, Frame 2 skincare prep, Frame 3 base application, Frame 4 blush placement, Frame 5 eye look, Frame 6 lip product, Frame 7 jewelry placement, Frame 8 finished-look reveal.
+
+HERO PRODUCT: Heavy hand-blown crystal facial-mist bottle with a brushed-platinum collar, faintly opalescent water viscosity, fine atomizer cone. Supporting product: a slim brushed-platinum lipstick tube in a soft bridal-rose tone with a satin-finish bullet.
+
+FINISHED LOOK SIGNATURE: Luminous bridal glow with soft groomed brow, dewy cheek, satin bridal-rose lip, and a single pearl-drop earring catching dawn light.
+
+ENVIRONMENT IDENTITY: Dressing room with a tall arched casement window at frame-right draped in ivory silk panels, full-length antique-bronze mirror leaning against a pale ivory plaster wall at frame-left, ivory silk-draped wooden chair at lower frame edge, a small marble side table at frame-foreground holding a porcelain dish with a single pearl-drop earring set, an ivory linen napkin, and a low crystal vase of lily-of-the-valley.
+
+LIGHTING MOOD: Cool dawn key from camera-right + warm oak-floor bounce.
+
+HOOK DISTRIBUTION: Frame 1 bare-faced direct eye-contact lock at the leaning mirror. Frame 5 macro insert on a single tear catching dawn light at the lower lash line. Frame 8 settled emotional smile final direct to lens at finished bridal face.
+
+SUBJECT ENERGY PROFILE: Quiet first-light reverence into focused mid-ritual concentration into single-tear emotional release into bridal-glow sovereign warmth.
+
+MOTION CONTINUITY LOGIC: Bare-faced mirror gaze → mist released across face → fingertip cream pressed at temple → cream blush warmed at cheek → soft brown lid wash with a fingertip → single-tear release at lash line → lipstick bullet pressed to lower lip → pearl-drop earring fastened at earlobe → finished bridal smile to lens.
+
+CAMERA LANGUAGE PLAN: F1 mirror-reflection static 50mm. F2 slow push-in 85mm. F3 macro insert 100mm. F4 side-profile 45-degree 50mm. F5 macro insert 100mm. F6 slow rack-focus far-to-near 85mm. F7 over-shoulder vanity follow 35mm. F8 slow pull-out 50mm.
+
+EXPRESSION CHOREOGRAPHY: F1 quiet emotional reverence. F2 closed-eye mist bliss. F3 cream-spreading focused concentration. F4 closed-eye sensory delight. F5 single-tear unguarded vulnerability. F6 lipstick-bullet lower-lip lock. F7 earring-clasp head-tilt focus. F8 settled emotional smile final.
+
+BODY LANGUAGE PLAN: F1 left fingertips touching the lower edge of the leaning mirror. F2 facial-mist atomizer pump released two centimetres above the face. F3 cream warmed between palms before application. F4 cream blush warmed at cheek apple with two-finger swirl. F5 single-tear caught at the lower lash line by the right ring fingertip. F6 lower lip pulled slightly down by left index finger before lipstick. F7 earring back fastened with both hands behind the right earlobe. F8 single chestnut strand tucked behind the right ear and released.
+
+HAIR PHYSICS NOTES: Hair is shoulder-length dark chestnut, dry, soft individual strand separation, half-up bridal twist beginning to take shape from F4 onward, one peak lift of one centimetre at the crown in F8.
+
+FABRIC MOTION NOTES: Ivory bias-cut silk slip robe with hand-rolled hem, knotted at the waist with a self-tie sash, two thin ivory-silk straps at the shoulders. Sash trembles once in F2 from the mist puff and again in F8 as the subject turns slightly toward the lens.
+
+LIGHTING PHYSICS NOTES: Cool dawn light enters from camera-right through the silk-draped casement window and falls in a soft luminous wash across the right cheek and clavicle. Warm oak-floor bounce from below lifts under-jaw shadow and warms the underside of the crystal mist bottle and lipstick tube. Skin reads cool-bare in F1 and reaches luminous bridal peak in F8.
+
+BEAUTY PRODUCT INTERACTION PLAN: F1 no product, hands resting on the marble side table. F2 hand-blown crystal facial-mist bottle in the right hand, atomizer pumped two centimetres above the face, mist plume falling. F3 frosted-glass cream jar open on the side table, fingertip-warmed cream pressed at temple and cheekbone. F4 oxblood ceramic cream-blush pot uncapped in the left hand, two-finger swirl across the right cheek apple. F5 satin-finish soft-brown lid wash already in place from previous fingertip work; no product in hand, both hands free for the single-tear catch. F6 slim brushed-platinum lipstick tube in the right hand, satin bridal-rose bullet pressed to lower lip. F7 single pearl-drop earring lifted from the porcelain dish and fastened with both hands behind the right earlobe. F8 all products arrayed on the marble side table in a finished still-life.
+
+VIEWER ENGAGEMENT MOMENTS: F1 direct-eye mirror lock. F5 single-tear unguarded vulnerability beat direct to lens. F8 settled emotional smile final direct to lens.
+
+ANTI-ILLUSTRATION SAFEGUARDS: Visible pore micro-detail at jawline, eyelash fiber separation in F5, real water-droplet cone fall-out from the atomizer in F2, real cream-spread micro-streaking on cheekbone in F3, real specular highlight on brushed-platinum hardware, real silk weave on the slip robe with hand-rolled hem.
+
+HYPERREAL COMMERCIAL TEXTURE LANGUAGE: Roger Deakins dawn cool-key with warm wood bounce, raw cinematic 8k, no CGI bloom, no plastic skin.
+
+FOOTWEAR STRING: Ivory silk-satin closed-toe pointed-toe pumps with a four-centimetre tonal heel, soft suede sole, single hand-rolled silk-satin bow at the back of the heel cup, soles resting on warm oak parquet.
+
+---
+
+### FRAME 1 — IMAGE PROMPT
+
+9:16 aspect ratio, strictly photorealistic, ultra-realistic, 8k resolution, raw cinematic beauty-campaign aesthetic, hyperreal commercial texture, anti-illustration, anti-comic-book, anti-CGI, real-camera lens behavior, shallow depth of field.
+
+SPATIAL ANCHOR: subject positioned in center-third of frame standing in front of the full-length antique-bronze leaning mirror, body angled toward camera, both shoulders square to the mirror, dominant cool dawn light entering from camera-right through the ivory silk-draped casement window, secondary warm oak-floor bounce from below, marble side table at frame-foreground center holding the crystal mist bottle at frame-left and a porcelain dish with a single pearl-drop earring at frame-right, a low crystal vase of lily-of-the-valley at far frame-right of the side table, ivory silk-draped wooden chair at lower frame-left edge. Camera frames the mirror reflection and the real subject simultaneously, both bodies are visible. Composition is locked. Frame is NOT mirrored. Dressing room with pale ivory plaster wall in deep background, faint dawn haze suspended in the air, warm oak parquet underfoot.
+
+Subject is Aira (use face reference images), exactly 18 years old, fuller thighs, fuller arms, fuller hips, perfectly flat belly, pristine flawless skin with no freckles, bare-faced unguarded skin with a faint warm cheek warmth from the dawn key. Outfit ivory bias-cut silk slip robe with hand-rolled hem, knotted at the waist with a self-tie sash, two thin ivory-silk straps at the shoulders. Hair shoulder-length dark chestnut, dry, soft individual strand separation, ends resting on the clavicle. Makeup none, brows in their natural shape, lashes bare, lips natural rose-pink. Jewelry none. Footwear ivory silk-satin closed-toe pointed-toe pumps with a four-centimetre tonal heel, soft suede sole, single hand-rolled silk-satin bow at the back of the heel cup, soles resting on warm oak parquet. Product none in hand.
+
+L-arm: lifted, left fingertips touching the lower edge of the antique-bronze mirror frame.
+R-arm: relaxed at side, right hand resting at the marble side table edge.
+L-leg: weight-bearing, hip stacked over heel.
+R-leg: relaxed, knee softly bent.
+Feet: both flat on warm oak parquet inside the pumps.
+Waist: square to mirror.
+Head: tilted three degrees toward camera-right, chin slightly down.
+Gaze: locked into her own reflected eyes in the leaning mirror, reading as direct eye-contact to the lens.
+Expr: quiet emotional reverence, lips softly parted with one millimetre of separation, brows neutral and lifted at the inner corners.
+
+Medium close-up, front position with mirror reflection in frame, 50mm lens, center-third Rule of Thirds alignment, f/2.5, mirror-reflection static locked-off.
+
+---
+
+### FRAME 1 — VEO VIDEO PROMPT
+
+Camera & Lens: locked-off mirror-reflection static, eye-level with the antique-bronze leaning mirror, 50mm lens, shallow depth of field, eight-second hold with no camera move.
+Subject: young woman standing in front of the leaning mirror, lifting the left fingertips slowly to touch the lower edge of the mirror frame, head tilting three degrees toward camera-right at slow speed.
+Action & Physics: chestnut ends settle by two millimetres at the clavicle as the head tilts, the silk slip-robe sash trembles once at the waist knot, lips part one millimetre on a soft inhale.
+Environment: the ivory silk window panel at frame-right drifts a single centimetre on a slow dawn breath of air.
+Lighting: dominant cool dawn key from camera-right, secondary warm oak-floor bounce from below.
+Style: hyperreal commercial texture, Roger Deakins dawn cool-key referencing, no CGI bloom, no plastic skin.
+Audio: faint distant church bell, soft single inhale, quiet oak-parquet foot-shift.
+Negative: no subtitles, no on-screen text, no morphing, no warping, no captions, no logos.
+
+---
+
+### FRAME 2 — IMAGE PROMPT
+
+9:16 aspect ratio, strictly photorealistic, ultra-realistic, 8k resolution, raw cinematic beauty-campaign aesthetic, hyperreal commercial texture, anti-illustration, anti-comic-book, anti-CGI, real-camera lens behavior, shallow depth of field.
+
+SPATIAL ANCHOR: subject positioned in center-third of frame, body angled toward camera with chin lifted upward, hand-blown crystal facial-mist bottle held in the right hand at center-frame approximately twenty centimetres above the face, dominant cool dawn light from camera-right, secondary warm oak-floor bounce, leaning mirror in soft-focus background, marble side table at frame-foreground with porcelain dish and lily-of-the-valley vase. Camera frames the real subject from chest up. Composition is locked. Frame is NOT mirrored. Dressing room with pale ivory plaster wall in deep background, faint dawn haze suspended in the air.
+
+Subject is Aira (use face reference images), exactly 18 years old, fuller thighs, fuller arms, fuller hips, perfectly flat belly, pristine flawless skin with no freckles, mid-ritual flush beginning at the cheek and clavicle from the cool mist contact. Outfit ivory bias-cut silk slip robe with hand-rolled hem, knotted at the waist with a self-tie sash, two thin ivory-silk straps. Hair dry, ends resting on the clavicle. Makeup none yet. Jewelry none. Footwear ivory silk-satin closed-toe pointed-toe pumps with a four-centimetre tonal heel, soft suede sole, single hand-rolled silk-satin bow at the back of the heel cup, soles resting on warm oak parquet. Product hand-blown crystal facial-mist bottle with brushed-platinum collar in the right hand, atomizer pump just released, fine mist plume falling in a soft cone across the upper face and clavicle.
+
+L-arm: relaxed, left hand resting at the marble side table edge.
+R-arm: lifted high, right hand pinching the crystal mist bottle between thumb and index finger, atomizer nozzle pointed downward at the face.
+L-leg: weight-bearing.
+R-leg: relaxed, knee softly bent.
+Feet: both flat on warm oak parquet inside the pumps.
+Waist: square to camera.
+Head: tilted three degrees back, chin lifted upward to receive the mist.
+Gaze: closed, lashes resting on cheek.
+Expr: closed-eye mist bliss, mouth softly closed with one upward corner pull, brows neutral and lifted at the inner corners.
+
+Medium close-up, front position, 85mm lens, center-third Rule of Thirds alignment, f/2.0, slow push-in.
+
+---
+
+### FRAME 2 — VEO VIDEO PROMPT
+
+Camera & Lens: slow push-in from chest distance to medium close-up, eye-level, 85mm lens, shallow depth of field, eight-second smooth dolly forward of fifteen centimetres.
+Subject: young woman lifting the right hand high above the face and pressing the crystal mist atomizer once, head tilted back with chin upward, eyes closed at slow speed.
+Action & Physics: a fine cool mist plume releases in a soft downward cone and falls slowly across the upper face and clavicle settling as fine droplets along the cheekbone, chestnut ends settle two millimetres at the clavicle, the silk slip-robe sash trembles once at the waist knot.
+Environment: the ivory silk window panel at frame-right drifts a single centimetre on a slow dawn breath of air.
+Lighting: dominant cool dawn key from camera-right catching the mist plume in volumetric specular, secondary warm oak-floor bounce from below.
+Style: hyperreal commercial texture, Roger Deakins dawn cool-key referencing, no CGI bloom, no plastic skin.
+Audio: soft atomizer hiss, single quiet inhale, faint distant church bell.
+Negative: no subtitles, no on-screen text, no morphing, no warping, no captions, no logos.
+
+---
+
+### FRAME 3 — IMAGE PROMPT
+
+9:16 aspect ratio, strictly photorealistic, ultra-realistic, 8k resolution, raw cinematic beauty-campaign aesthetic, hyperreal commercial texture, anti-illustration, anti-comic-book, anti-CGI, real-camera lens behavior, shallow depth of field.
+
+SPATIAL ANCHOR: subject positioned in center-third of frame, the right cheek and temple occupy the macro insert, body out of frame below clavicle, dominant cool dawn light from camera-right, secondary warm oak-floor bounce, frosted-glass cream jar implied at lower frame-left edge by a single specular highlight. Camera frames a macro insert on the right cheek and temple. Camera-side orientation is locked. Frame is NOT mirrored. Dressing room implied at lower frame edge by warm oak specular.
+
+Subject is Aira (use face reference images), exactly 18 years old, fuller thighs, fuller arms, fuller hips, perfectly flat belly, pristine flawless skin with no freckles, mid-ritual sheen across the visible cheek with fine mist droplets still beading along the cheekbone. Outfit ivory bias-cut silk slip robe with hand-rolled hem. Hair dry, ends resting on the clavicle. Makeup base mid-application, a translucent dewy wash beginning at the cheek apple, no eye yet, no lip. Jewelry none. Footwear ivory silk-satin closed-toe pointed-toe pumps with a four-centimetre tonal heel, soft suede sole, single hand-rolled silk-satin bow at the back of the heel cup, soles resting on warm oak parquet. Product fingertip-warmed cream visible as a faint glossy film on the right ring fingertip pressed gently at the right temple with a hairline cream micro-streak running toward the cheekbone.
+
+L-arm: out of frame, hand resting at the marble side table edge.
+R-arm: lifted, right ring fingertip pressed gently at the right temple with a hairline cream micro-streak.
+L-leg: out of frame.
+R-leg: out of frame.
+Feet: out of frame.
+Waist: out of frame.
+Head: tilted four degrees toward camera-left, chin slightly lifted.
+Gaze: lowered to the cheek line in concentration.
+Expr: cream-spreading focused concentration, lips softly closed with one millimetre of upward corner lift, brows drawn one millimetre inward at the inner corners.
+
+Macro insert, 45-degree position from camera-right, 100mm macro lens, center-third Rule of Thirds alignment, f/2.8, macro insert with handheld micro-shake.
+
+---
+
+### FRAME 3 — VEO VIDEO PROMPT
+
+Camera & Lens: macro insert at temple height, 100mm macro lens, shallow depth of field, eight-second hold with the gentlest handheld micro-shake.
+Subject: young woman drawing the right ring fingertip slowly from temple toward cheek apple at slow speed, head tilting four degrees toward camera-left.
+Action & Physics: a hairline cream micro-streak blooms along the temple-to-cheek line and absorbs into the skin within three seconds leaving a luminous specular sheen, fine mist droplets at the cheekbone tremble and absorb, a single fine chestnut strand drifts across the cheek and settles.
+Environment: the ivory silk window panel at frame-right drifts a single centimetre on a slow dawn breath of air.
+Lighting: dominant cool dawn key from camera-right, secondary warm oak-floor bounce from below.
+Style: hyperreal commercial texture, Roger Deakins dawn cool-key referencing, no CGI bloom, no plastic skin.
+Audio: soft fingertip-on-skin whisper, gentle exhale, faint distant church bell.
+Negative: no subtitles, no on-screen text, no morphing, no warping, no captions, no logos.
+
+---
+
+### FRAME 4 — IMAGE PROMPT
+
+9:16 aspect ratio, strictly photorealistic, ultra-realistic, 8k resolution, raw cinematic beauty-campaign aesthetic, hyperreal commercial texture, anti-illustration, anti-comic-book, anti-CGI, real-camera lens behavior, shallow depth of field.
+
+SPATIAL ANCHOR: subject positioned in left-third of frame standing at the marble side table, body in three-quarter side-profile to camera-right with left shoulder closer to camera, dominant cool dawn light from camera-right hitting the visible cheek apple in profile, secondary warm oak-floor bounce, oxblood ceramic cream-blush pot uncapped in the left hand at chest height, marble side table at frame-foreground with porcelain dish at frame-left of side table and lily-of-the-valley vase at frame-right of side table, leaning mirror in soft-focus background at frame-right. Camera frames the real subject in three-quarter profile; the mirror is decorative background. Camera-side orientation is locked. Frame is NOT mirrored. Dressing room with pale ivory plaster wall in deep background.
+
+Subject is Aira (use face reference images), exactly 18 years old, fuller thighs, fuller arms, fuller hips, perfectly flat belly, pristine flawless skin with no freckles, mid-ritual luminous sheen across the visible cheek, base finished, blush mid-application. Outfit ivory bias-cut silk slip robe with hand-rolled hem, knotted at the waist with a self-tie sash, two thin ivory-silk straps. Hair dry, half-up bridal twist beginning to take shape with the lower length still loose at the clavicle. Makeup base done, blush mid-application, no eye yet, no lip. Jewelry none. Footwear ivory silk-satin closed-toe pointed-toe pumps with a four-centimetre tonal heel, soft suede sole, single hand-rolled silk-satin bow at the back of the heel cup, soles resting on warm oak parquet. Product oxblood ceramic cream-blush pot uncapped in the left hand at chest height, two-finger swirl by right index and middle fingertips across the visible cheek apple.
+
+L-arm: lifted, left hand cradling the cream-blush pot at chest height.
+R-arm: lifted, right index and middle fingertips swirling cream blush across the visible cheek apple.
+L-leg: weight-bearing.
+R-leg: relaxed, knee softly bent.
+Feet: both flat on warm oak parquet inside the pumps.
+Waist: angled three-quarters camera-right.
+Head: tilted three degrees toward camera-right, eyes closed.
+Gaze: closed, lashes resting on cheek.
+Expr: closed-eye sensory delight, mouth held in a soft closed smile with one upward corner pull, lashes fanned and catching the cool dawn key.
+
+Medium close-up, side-profile 45-degree from camera-left, 50mm lens, left-third Rule of Thirds alignment, f/2.5, side-profile dolly with one-degree pedestal rise.
+
+---
+
+### FRAME 4 — VEO VIDEO PROMPT
+
+Camera & Lens: side-profile dolly from camera-left with one-degree pedestal rise, 50mm lens, shallow depth of field, eight-second smooth move covering ten centimetres of lateral travel and two centimetres of rise.
+Subject: young woman swirling cream blush onto the visible cheek apple in three slow circles with right index and middle fingertips at slow speed, head tilting three degrees toward camera-right with eyes closed.
+Action & Physics: a luminous warm rose flush blooms at the cheek apple under the swirling fingertips, the silk slip-robe sash trembles once at the waist knot, a single chestnut strand drifts across the cheek and settles.
+Environment: the ivory silk window panel at frame-right drifts a single centimetre on a slow dawn breath of air.
+Lighting: dominant cool dawn key from camera-right wrapping the visible cheek, secondary warm oak-floor bounce from below.
+Style: hyperreal commercial texture, Roger Deakins dawn cool-key referencing, no CGI bloom, no plastic skin.
+Audio: soft fingertip-on-skin swirl, calm breath, faint distant church bell.
+Negative: no subtitles, no on-screen text, no morphing, no warping, no captions, no logos.
+
+---
+
+### FRAME 5 — IMAGE PROMPT
+
+9:16 aspect ratio, strictly photorealistic, ultra-realistic, 8k resolution, raw cinematic beauty-campaign aesthetic, hyperreal commercial texture, anti-illustration, anti-comic-book, anti-CGI, real-camera lens behavior, shallow depth of field.
+
+SPATIAL ANCHOR: subject positioned in center-third of frame, the right eye and lower-lash line occupy the macro insert, body out of frame below the eye line, dominant cool dawn light from camera-right, secondary warm oak-floor bounce faint at the lower frame edge, the right ring fingertip lifted to the lower lash line. Camera frames a macro insert on the right eye and lower lash line. Composition is locked. Frame is NOT mirrored. Dressing room implied at lower frame edge by faint warm oak specular.
+
+Subject is Aira (use face reference images), exactly 18 years old, fuller thighs, fuller arms, fuller hips, perfectly flat belly, pristine flawless skin with no freckles, mid-ritual luminous sheen across the visible eye area, soft-brown lid wash already in place, lashes lightly coated. Outfit ivory bias-cut silk slip robe with hand-rolled hem. Hair dry, half-up bridal twist taking shape. Makeup base done, blush done, eye soft-brown lid wash done with a single coat of mascara, no lip yet. Jewelry none. Footwear ivory silk-satin closed-toe pointed-toe pumps with a four-centimetre tonal heel, soft suede sole, single hand-rolled silk-satin bow at the back of the heel cup, soles resting on warm oak parquet. Product no product in hand; a single tear has just formed at the lower lash line of the right eye, the right ring fingertip lifted toward the lash line to catch it before it falls.
+
+L-arm: out of frame, hand resting at the marble side table edge.
+R-arm: lifted, right ring fingertip held one millimetre below the lower lash line of the right eye, about to catch the single tear.
+L-leg: out of frame.
+R-leg: out of frame.
+Feet: out of frame.
+Waist: out of frame.
+Head: square to camera, chin slightly lifted.
+Gaze: lifted slightly, the right eye open with a single tear visible at the lower lash line catching the cool dawn key in a clean specular bead.
+Expr: single-tear unguarded vulnerability, lips softly closed with one millimetre of upward corner lift, brows drawn one millimetre inward at the inner corners, lashes faintly damp.
+
+Macro insert, front position, 100mm macro lens, center-third Rule of Thirds alignment, f/2.8, macro insert locked-off.
+
+---
+
+### FRAME 5 — VEO VIDEO PROMPT
+
+Camera & Lens: locked-off macro insert at eye height, 100mm macro lens, shallow depth of field, eight-second hold with no camera move.
+Subject: young woman holding the right ring fingertip one millimetre below the lower lash line of the right eye, the single tear trembling at the lash line for two seconds before the fingertip lifts and catches it at slow speed.
+Action & Physics: a single luminous tear swells at the lower lash line, trembles for two full seconds, and is caught by the lifted ring fingertip without falling onto the cheek; the lashes fan and settle, lower-lid skin minutely flexes.
+Environment: the ivory silk window panel at frame-right drifts a single centimetre on a slow dawn breath of air.
+Lighting: dominant cool dawn key from camera-right catching the tear in a clean specular bead, secondary warm oak-floor bounce from below faint at the lower lash line.
+Style: hyperreal commercial texture, Roger Deakins dawn cool-key referencing, no CGI bloom, no plastic skin.
+Audio: single quiet inhale held one second longer than usual, faint distant church bell.
+Negative: no subtitles, no on-screen text, no morphing, no warping, no captions, no logos.
+
+---
+
+### FRAME 6 — IMAGE PROMPT
+
+9:16 aspect ratio, strictly photorealistic, ultra-realistic, 8k resolution, raw cinematic beauty-campaign aesthetic, hyperreal commercial texture, anti-illustration, anti-comic-book, anti-CGI, real-camera lens behavior, shallow depth of field.
+
+SPATIAL ANCHOR: subject positioned in center-third of frame standing at the leaning mirror, body angled toward camera, both shoulders square to the leaning mirror, dominant cool dawn light from camera-right, secondary warm oak-floor bounce, lipstick tube held at center-frame in the right hand at lip height, marble side table at frame-foreground with porcelain dish at frame-right and lily-of-the-valley vase at far frame-right, leaning mirror in soft-focus background. Camera frames the real subject from chest up; the mirror is in soft-focus background. Composition is locked. Frame is NOT mirrored. Dressing room with pale ivory plaster wall in deep background.
+
+Subject is Aira (use face reference images), exactly 18 years old, fuller thighs, fuller arms, fuller hips, perfectly flat belly, pristine flawless skin with no freckles, finished base, blush, and eye visible, lip mid-application, lashes still faintly damp from the single-tear beat. Outfit ivory bias-cut silk slip robe with hand-rolled hem, knotted at the waist with a self-tie sash, two thin ivory-silk straps. Hair dry, half-up bridal twist taking shape with lower length still loose at the clavicle. Makeup base done, blush done, eye done, lip mid-application. Jewelry none. Footwear ivory silk-satin closed-toe pointed-toe pumps with a four-centimetre tonal heel, soft suede sole, single hand-rolled silk-satin bow at the back of the heel cup, soles resting on warm oak parquet. Product slim brushed-platinum lipstick tube in the right hand, satin bridal-rose bullet pressed gently to the centre of the lower lip with the left index fingertip pulling the lower lip one millimetre downward.
+
+L-arm: lifted, left index fingertip resting at the centre of the lower lip with a one-millimetre downward pull.
+R-arm: lifted, lipstick tube pinched between thumb and middle finger, bullet pressed to lower lip.
+L-leg: weight-bearing.
+R-leg: relaxed, knee softly bent.
+Feet: both flat on warm oak parquet inside the pumps.
+Waist: square to camera.
+Head: square to camera, chin slightly lifted.
+Gaze: lowered to the lower lip in concentration.
+Expr: lipstick-bullet lower-lip lock, mouth held in a soft relaxed O, eyes downcast with lashes faintly damp.
+
+Medium close-up, front position, 85mm lens, center-third Rule of Thirds alignment, f/2.0, slow rack-focus far-to-near from leaning mirror reflection to lipstick bullet.
+
+---
+
+### FRAME 6 — VEO VIDEO PROMPT
+
+Camera & Lens: slow rack-focus far-to-near from leaning mirror reflection to lipstick bullet, eye-level, 85mm lens, shallow depth of field, eight-second smooth focus pull.
+Subject: young woman pressing a satin bridal-rose lipstick bullet to the lower lip and drawing the bullet from lip-centre outward to the right corner at slow speed, left index fingertip steadying the lower lip with a one-millimetre downward pull.
+Action & Physics: a soft satin bridal-rose pigment trail follows the bullet across the lower lip, the lip surface flexes minutely, the silk slip-robe sash trembles once at the waist knot, focus shifts cleanly from background mirror reflection to foreground bullet over the eight seconds.
+Environment: the ivory silk window panel at frame-right drifts a single centimetre on a slow dawn breath of air.
+Lighting: dominant cool dawn key from camera-right, secondary warm oak-floor bounce from below.
+Style: hyperreal commercial texture, Roger Deakins dawn cool-key referencing, no CGI bloom, no plastic skin.
+Audio: soft lipstick-on-lip whisper, single quiet exhale, faint distant church bell.
+Negative: no subtitles, no on-screen text, no morphing, no warping, no captions, no logos.
+
+---
+
+### FRAME 7 — IMAGE PROMPT
+
+9:16 aspect ratio, strictly photorealistic, ultra-realistic, 8k resolution, raw cinematic beauty-campaign aesthetic, hyperreal commercial texture, anti-illustration, anti-comic-book, anti-CGI, real-camera lens behavior, shallow depth of field.
+
+SPATIAL ANCHOR: subject positioned in right-third of frame standing at the leaning mirror, body in three-quarter angle to camera-left with right shoulder closer to camera, both hands lifted to behind the right earlobe, dominant cool dawn light from camera-right, secondary warm oak-floor bounce, leaning mirror visible in soft-focus background at frame-left, marble side table at frame-foreground with porcelain dish now empty at frame-right of side table, lily-of-the-valley vase at far frame-right. Camera frames the real subject from chest up over the right shoulder. Composition is locked. Frame is NOT mirrored. Dressing room with pale ivory plaster wall in deep background.
+
+Subject is Aira (use face reference images), exactly 18 years old, fuller thighs, fuller arms, fuller hips, perfectly flat belly, pristine flawless skin with no freckles, finished base, blush, eye, and lip visible, jewelry mid-application. Outfit ivory bias-cut silk slip robe with hand-rolled hem, knotted at the waist with a self-tie sash, two thin ivory-silk straps. Hair dry, half-up bridal twist now finished. Makeup all stages done. Jewelry single pearl-drop earring with a brushed-platinum hook lifted from the porcelain dish, mid-fastening at the right earlobe. Footwear ivory silk-satin closed-toe pointed-toe pumps with a four-centimetre tonal heel, soft suede sole, single hand-rolled silk-satin bow at the back of the heel cup, soles resting on warm oak parquet. Product no product in hand; both hands occupied with the earring.
+
+L-arm: lifted, left hand fingertips holding the earring back behind the right earlobe.
+R-arm: lifted, right hand fingertips guiding the pearl drop and hook front-side at the right earlobe.
+L-leg: weight-bearing.
+R-leg: relaxed, knee softly bent.
+Feet: both flat on warm oak parquet inside the pumps.
+Waist: angled three-quarters camera-left.
+Head: tilted four degrees toward camera-left, chin slightly lifted to expose the right earlobe.
+Gaze: lowered toward the right earlobe in concentration.
+Expr: earring-clasp head-tilt focus, mouth softly closed with one upward corner lift, lashes catching the cool dawn key.
+
+Medium close-up, over-shoulder vanity follow position, 35mm lens, right-third Rule of Thirds alignment, f/2.8, over-shoulder vanity follow.
+
+---
+
+### FRAME 7 — VEO VIDEO PROMPT
+
+Camera & Lens: over-shoulder vanity follow at chest height, 35mm lens, shallow depth of field, eight-second slow lateral track from camera-left to camera-right behind the subject's left shoulder.
+Subject: young woman fastening the pearl-drop earring back behind the right earlobe with both hands at slow speed, head tilting four degrees toward camera-left.
+Action & Physics: the pearl drop swings two millimetres at the earlobe and settles, the brushed-platinum hook clicks softly into place, chestnut strands at the half-up twist hold their shape, the silk slip-robe sash trembles once at the waist knot.
+Environment: the ivory silk window panel at frame-right drifts a single centimetre on a slow dawn breath of air.
+Lighting: dominant cool dawn key from camera-right catching the pearl in a clean specular bead, secondary warm oak-floor bounce from below.
+Style: hyperreal commercial texture, Roger Deakins dawn cool-key referencing, no CGI bloom, no plastic skin.
+Audio: soft earring-hook click, calm exhale, faint distant church bell.
+Negative: no subtitles, no on-screen text, no morphing, no warping, no captions, no logos.
+
+---
+
+### FRAME 8 — IMAGE PROMPT
+
+9:16 aspect ratio, strictly photorealistic, ultra-realistic, 8k resolution, raw cinematic beauty-campaign aesthetic, hyperreal commercial texture, anti-illustration, anti-comic-book, anti-CGI, real-camera lens behavior, shallow depth of field.
+
+SPATIAL ANCHOR: subject positioned in center-third of frame standing in front of the leaning mirror, body angled toward camera, both shoulders square to camera, dominant cool dawn light from camera-right, secondary warm oak-floor bounce, leaning mirror in soft-focus background centred behind subject, marble side table at frame-foreground with all products arrayed in a finished still-life — crystal mist bottle at frame-left, cream jar center, cream-blush pot, lipstick tube, and porcelain dish now empty at frame-right, lily-of-the-valley vase at far frame-right. Camera frames the real subject from waist up directly with the mirror in deep soft-focus background. Spatial layout is fixed. Frame is NOT mirrored. Dressing room with pale ivory plaster wall in deep background, ivory silk-draped wooden chair at lower frame-left edge.
+
+Subject is Aira (use face reference images), exactly 18 years old, fuller thighs, fuller arms, fuller hips, perfectly flat belly, pristine flawless skin with no freckles, finished-look soft glow at full legibility — luminous bridal glow with soft groomed brow, dewy cheek, satin bridal-rose lip, single pearl-drop earring catching dawn light. Outfit ivory bias-cut silk slip robe with hand-rolled hem, knotted at the waist with a self-tie sash, two thin ivory-silk straps. Hair dry, half-up bridal twist finished, one peak lift of one centimetre at the crown, lower length still loose at the clavicle. Makeup finished. Jewelry single pearl-drop earring with a brushed-platinum hook at the right earlobe. Footwear ivory silk-satin closed-toe pointed-toe pumps with a four-centimetre tonal heel, soft suede sole, single hand-rolled silk-satin bow at the back of the heel cup, soles resting on warm oak parquet. Product all products arrayed on the marble side table in a finished still-life.
+
+L-arm: lifted, left fingertips tucking a single chestnut strand behind the right ear and releasing.
+R-arm: relaxed, right hand resting palm-down at the marble side table edge.
+L-leg: weight-bearing.
+R-leg: relaxed, knee softly bent.
+Feet: both flat on warm oak parquet inside the pumps.
+Waist: square to camera.
+Head: tilted three degrees toward camera-right, chin slightly down.
+Gaze: locked direct to the lens, soft and unhurried.
+Expr: settled emotional smile final, mouth held in a closed soft smile with both upward corner lifts even, lashes fanned and catching the cool dawn key, the pearl-drop earring catching a single specular bead at the right earlobe.
+
+Medium close-up, front position, 50mm lens, center-third Rule of Thirds alignment, f/2.5, slow pull-out.
+
+---
+
+### FRAME 8 — VEO VIDEO PROMPT
+
+Camera & Lens: slow pull-out from medium close-up to medium-wide, eye-level, 50mm lens, shallow depth of field, eight-second smooth dolly back of twenty centimetres.
+Subject: young woman tucking a single chestnut strand behind the right ear and releasing it at slow speed, head tilting three degrees toward camera-right, gaze locked direct to the lens.
+Action & Physics: the tucked strand settles by two millimetres at the temple, the pearl-drop earring swings one millimetre at the earlobe and settles, the silk slip-robe sash trembles once at the waist knot, the closed soft smile holds for the full eight seconds with no change.
+Environment: the ivory silk window panel at frame-right drifts a single centimetre on a slow dawn breath of air.
+Lighting: dominant cool dawn key from camera-right, secondary warm oak-floor bounce from below now warming the brushed-platinum hardware in the still-life.
+Style: hyperreal commercial texture, Roger Deakins dawn cool-key referencing, no CGI bloom, no plastic skin.
+Audio: single quiet exhale, faint distant church bell, soft oak-parquet foot-shift.
+Negative: no subtitles, no on-screen text, no morphing, no warping, no captions, no logos.
+
+---
+
+
+## CONCEPT 06 — HOTEL BATHROOM BRASS (Travertine Suite Cold Editorial)
+
+20-WORD REEL SUMMARY: Aira walks a tight cold-editorial ritual at a hotel-suite travertine bathroom and lands on a porcelain editorial finish.
+
+WORLD / THEME: Hotel-suite travertine bathroom with brass fixtures, late-morning city haze, cool fluorescent overhead, the polished hush of a luxury suite.
+
+RITUAL STAGE MAP: Frame 1 bare-faced opening, Frame 2 base application, Frame 3 brow grooming, Frame 4 eye look, Frame 5 lip product, Frame 6 finished-look reveal.
+
+HERO PRODUCT: A bevelled clear-glass tinted-base bottle with a fluted brushed-brass collar, satin medium-coverage viscosity, a single droplet beading at the inverted-tip dropper. Supporting product: a lacquered black lipstick tube with a fluted brushed-brass collar in a clean cool-rose tone with a satin matte bullet.
+
+FINISHED LOOK SIGNATURE: Cold porcelain editorial finish with sculpted brow, soft graphite lid wash, cool-rose matte lip.
+
+ENVIRONMENT IDENTITY: Hotel-suite bathroom with a long travertine counter at frame-foreground, a frameless rectangular wall mirror flush with the back wall, two parallel brushed-brass wall sconces flanking the mirror, a shallow brushed-brass tray of products at frame-left of counter, a single black orchid stem in a cool-grey ceramic vase at frame-right, a white waffle hand-towel folded at far frame-right, polished travertine floor underfoot.
+
+LIGHTING MOOD: Cool fluorescent hotel-bathroom key + warm corridor spill.
+
+HOOK DISTRIBUTION: Frame 1 bare-faced direct-eye mirror lock with sculpted hotel composure. Frame 4 macro insert on a single graphite fingertip lifted toward the lid. Frame 6 head-tilt knowing smirk direct to lens at finished face.
+
+SUBJECT ENERGY PROFILE: Cool late-morning composure into focused mid-ritual precision into porcelain-editorial sovereign cool.
+
+MOTION CONTINUITY LOGIC: Bare-faced mirror gaze → tinted-base droplet caught on fingertip and pressed into cheek → spoolie brushed up through both brows → graphite fingertip pressed to upper lid → matte lipstick bullet pressed to lower lip → finished knowing smirk to lens.
+
+CAMERA LANGUAGE PLAN: F1 mirror-reflection static 50mm. F2 over-shoulder vanity follow 35mm. F3 macro insert 100mm. F4 macro insert 100mm. F5 slow push-in 85mm. F6 mirror-reflection slow push-in 85mm.
+
+EXPRESSION CHOREOGRAPHY: F1 quiet confident skyline gaze. F2 head-tilt approving check. F3 brow-pencil concentration with eyes-up gaze. F4 focused application concentration. F5 lipstick-bullet lower-lip lock. F6 head-tilt knowing smirk.
+
+BODY LANGUAGE PLAN: F1 hair tucked behind left ear during gaze. F2 tinted-base inverted dropper squeezed once with droplet caught on fingertip. F3 brow brushed upward with spoolie variant for both brows in sequence. F4 fingertip pressed into graphite-grey cream-shadow pan and lifted to the upper lid. F5 lower lip pulled slightly down by index finger before lipstick. F6 single chestnut lock pushed off the right shoulder with the back of the hand.
+
+HAIR PHYSICS NOTES: Hair is shoulder-length dark chestnut, dry, sleek center-part, soft individual strand separation, no peak lift; one chestnut lock rests on the right shoulder in F1–F5 and is pushed off in F6.
+
+FABRIC MOTION NOTES: A clean black silk-poplin button-down shirt with hand-stitched placket, sleeves rolled twice to mid-forearm, top two buttons unbuttoned. Shirt placket trembles once at the chest line in F2 and again in F6 from the lock push-off.
+
+LIGHTING PHYSICS NOTES: Cool fluorescent overhead key from above and slightly camera-right falls in a clean even wash across the face and shoulders, sculpting cheekbone and jawline. Warm corridor spill enters from camera-left at frame-edge through the open suite door, warming the underside of the brushed-brass sconces and the travertine counter edge. Skin reads cool-bare in F1 and reaches porcelain editorial peak in F6.
+
+BEAUTY PRODUCT INTERACTION PLAN: F1 no product, hands resting on the travertine counter. F2 bevelled clear-glass tinted-base bottle in the left hand, inverted-tip dropper held above the right ring fingertip, droplet falling onto fingertip then pressed into the right cheek apple. F3 slim brushed-brass spoolie in the right hand, brushed up through the right brow then transferred to the left brow. F4 a low square cream-shadow pan in graphite grey with a brushed-brass case open in the left hand at chest height, right ring fingertip pressed into the pan, lifted toward the right upper lid. F5 lacquered black lipstick tube uncapped in the right hand, satin matte cool-rose bullet pressed to lower lip. F6 all products arrayed on the brushed-brass tray in a finished still-life.
+
+VIEWER ENGAGEMENT MOMENTS: F1 direct-eye mirror lock. F4 graphite fingertip macro anticipation. F6 knowing smirk direct to lens.
+
+ANTI-ILLUSTRATION SAFEGUARDS: Visible pore micro-detail at jawline, eyelash fiber separation in F4, real droplet meniscus at the inverted-tip dropper in F2, real graphite-pigment pickup on the fingertip in F4, real specular highlight on brushed-brass hardware, real silk-poplin weave with hand-stitched placket.
+
+HYPERREAL COMMERCIAL TEXTURE LANGUAGE: Mert and Marcus cool fluorescent editorial reference, raw cinematic 8k, no CGI bloom, no plastic skin.
+
+FOOTWEAR STRING: Black patent-leather pointed-toe slingback flats with a slim ankle strap, leather sole with single contrast stitching at the welt, polished mirror-finish toe cap, soles resting on polished travertine floor.
+
+---
+
+### FRAME 1 — IMAGE PROMPT
+
+9:16 aspect ratio, strictly photorealistic, ultra-realistic, 8k resolution, raw cinematic beauty-campaign aesthetic, hyperreal commercial texture, anti-illustration, anti-comic-book, anti-CGI, real-camera lens behavior, shallow depth of field.
+
+SPATIAL ANCHOR: subject positioned in center-third of frame standing at the long travertine counter, body angled toward camera, both shoulders square to the frameless rectangular wall mirror, dominant cool fluorescent overhead key from above and slightly camera-right, secondary warm corridor spill from camera-left at frame-edge through an open suite door, brushed-brass tray of products at frame-left of counter, cool-grey ceramic vase with single black orchid stem at frame-right of counter, two parallel brushed-brass wall sconces flanking the mirror behind. Camera frames the mirror reflection and the real subject simultaneously, both bodies are visible. Composition is locked. Frame is NOT mirrored. Hotel-suite travertine bathroom with travertine counter at frame-foreground, polished travertine floor underfoot, white waffle hand-towel folded at far frame-right of counter, faint city haze visible through a soft-focus background window beyond the open suite door.
+
+Subject is Aira (use face reference images), exactly 18 years old, fuller thighs, fuller arms, fuller hips, perfectly flat belly, pristine flawless skin with no freckles, bare-faced unguarded skin with cool fluorescent specular sculpting the cheekbone and jawline. Outfit black silk-poplin button-down shirt with hand-stitched placket, sleeves rolled twice to mid-forearm, top two buttons unbuttoned. Hair shoulder-length dark chestnut, dry, sleek center-part, individual strand separation visible, one chestnut lock resting on the right shoulder. Makeup none, brows in their natural shape, lashes bare, lips natural rose-pink. Jewelry none. Footwear black patent-leather pointed-toe slingback flats with a slim ankle strap, leather sole with single contrast stitching at the welt, polished mirror-finish toe cap, soles resting on polished travertine floor. Product none in hand.
+
+L-arm: lifted, left fingertips tucking a single strand behind the left ear.
+R-arm: relaxed, right hand resting palm-down on the travertine counter edge.
+L-leg: weight-bearing, hip stacked over heel.
+R-leg: relaxed, knee softly bent.
+Feet: both flat on polished travertine floor inside the slingback flats.
+Waist: square to mirror.
+Head: tilted two degrees toward camera-left, chin slightly lifted.
+Gaze: locked into her own reflected eyes in the wall mirror, reading as direct eye-contact to the lens, calm and confident.
+Expr: quiet confident skyline gaze, mouth held in a soft closed line with one half-millimetre of upward corner pull, brows neutral.
+
+Medium close-up, front position with mirror reflection in frame, 50mm lens, center-third Rule of Thirds alignment, f/2.5, mirror-reflection static locked-off.
+
+---
+
+### FRAME 1 — VEO VIDEO PROMPT
+
+Camera & Lens: locked-off mirror-reflection static, eye-level with the frameless rectangular wall mirror, 50mm lens, shallow depth of field, eight-second hold with no camera move.
+Subject: young woman standing at the travertine counter, tucking a single chestnut strand behind the left ear with the left fingertips at slow speed, head tilting two degrees toward camera-left.
+Action & Physics: the tucked strand settles by two millimetres against the temple, the silk-poplin shirt placket trembles once at the chest line, the chestnut lock on the right shoulder remains in place, lips part one millimetre on a soft inhale.
+Environment: faint city haze visible through the soft-focus background window beyond the open suite door drifts slowly upward.
+Lighting: dominant cool fluorescent overhead key from above and slightly camera-right, secondary warm corridor spill from camera-left at frame-edge.
+Style: hyperreal commercial texture, Mert and Marcus cool fluorescent editorial referencing, no CGI bloom, no plastic skin.
+Audio: faint hotel-corridor air handler hum, soft single inhale, distant elevator chime.
+Negative: no subtitles, no on-screen text, no morphing, no warping, no captions, no logos.
+
+---
+
+### FRAME 2 — IMAGE PROMPT
+
+9:16 aspect ratio, strictly photorealistic, ultra-realistic, 8k resolution, raw cinematic beauty-campaign aesthetic, hyperreal commercial texture, anti-illustration, anti-comic-book, anti-CGI, real-camera lens behavior, shallow depth of field.
+
+SPATIAL ANCHOR: subject positioned in right-third of frame standing at the travertine counter, body in three-quarter angle to camera-left with right shoulder closer to camera, dominant cool fluorescent overhead key from above and slightly camera-right, secondary warm corridor spill from camera-left at frame-edge, bevelled clear-glass tinted-base bottle held in the left hand at chest height, frameless wall mirror in soft-focus background camera-left, brushed-brass tray of products at frame-foreground center, cool-grey ceramic vase at frame-right. Camera frames the real subject from chest up over the right shoulder. Composition is locked. Frame is NOT mirrored. Hotel-suite travertine bathroom with polished travertine floor underfoot.
+
+Subject is Aira (use face reference images), exactly 18 years old, fuller thighs, fuller arms, fuller hips, perfectly flat belly, pristine flawless skin with no freckles, mid-ritual cool sheen across both cheekbones, base mid-application — a satin medium-coverage wash beginning across the right cheek apple. Outfit black silk-poplin button-down shirt with hand-stitched placket, sleeves rolled twice to mid-forearm, top two buttons unbuttoned. Hair sleek center-part, one chestnut lock still resting on the right shoulder. Makeup base mid-application, no eye yet, no lip. Jewelry none. Footwear black patent-leather pointed-toe slingback flats with a slim ankle strap, leather sole with single contrast stitching at the welt, polished mirror-finish toe cap, soles resting on polished travertine floor. Product bevelled clear-glass tinted-base bottle with fluted brushed-brass collar in the left hand, inverted-tip dropper just used, the right ring fingertip carrying a single satin tinted-base droplet now pressing into the right cheek apple.
+
+L-arm: lifted, left hand cradling the tinted-base bottle at chest height.
+R-arm: lifted, right ring fingertip pressing the satin tinted-base droplet into the right cheek apple.
+L-leg: weight-bearing.
+R-leg: relaxed, knee softly bent.
+Feet: both flat on polished travertine floor inside the slingback flats.
+Waist: angled three-quarters camera-left.
+Head: tilted four degrees toward camera-right, chin level.
+Gaze: directed at the mirror reflection ahead, calm and approving.
+Expr: head-tilt approving check, soft upward pull at both mouth corners, lashes catching the cool fluorescent key.
+
+Medium close-up, over-shoulder vanity follow position, 35mm lens, right-third Rule of Thirds alignment, f/2.8, over-shoulder vanity follow.
+
+---
+
+### FRAME 2 — VEO VIDEO PROMPT
+
+Camera & Lens: over-shoulder vanity follow at chest height, 35mm lens, shallow depth of field, eight-second slow lateral track from camera-right to camera-left behind the subject's right shoulder.
+Subject: young woman pressing a satin tinted-base droplet from the right ring fingertip into the right cheek apple in three slow press-and-release pats, right wrist lifting one centimetre between each pat at slow speed.
+Action & Physics: the satin tinted-base droplet blooms and absorbs into the cheek with each press leaving a porcelain specular finish, the silk-poplin shirt placket trembles once at the chest line, the chestnut lock on the right shoulder remains in place.
+Environment: faint city haze visible through the soft-focus background window beyond the open suite door drifts slowly upward.
+Lighting: dominant cool fluorescent overhead key from above and slightly camera-right, secondary warm corridor spill from camera-left at frame-edge.
+Style: hyperreal commercial texture, Mert and Marcus cool fluorescent editorial referencing, no CGI bloom, no plastic skin.
+Audio: soft fingertip-on-skin pat, calm inhale, faint hotel-corridor air handler hum.
+Negative: no subtitles, no on-screen text, no morphing, no warping, no captions, no logos.
+
+---
+
+### FRAME 3 — IMAGE PROMPT
+
+9:16 aspect ratio, strictly photorealistic, ultra-realistic, 8k resolution, raw cinematic beauty-campaign aesthetic, hyperreal commercial texture, anti-illustration, anti-comic-book, anti-CGI, real-camera lens behavior, shallow depth of field.
+
+SPATIAL ANCHOR: subject positioned in center-third of frame, both brows occupy the macro insert, body out of frame below the brow line, dominant cool fluorescent overhead key from above and slightly camera-right, secondary warm corridor spill from camera-left at frame-edge, slim brushed-brass spoolie held in the right hand at brow height. Camera frames a macro insert across both brows. Camera-side orientation is locked. Frame is NOT mirrored. Hotel-suite travertine bathroom implied at lower frame edge by a single warm travertine specular.
+
+Subject is Aira (use face reference images), exactly 18 years old, fuller thighs, fuller arms, fuller hips, perfectly flat belly, pristine flawless skin with no freckles, mid-ritual porcelain sheen across the temple and forehead, base finished, brows mid-grooming. Outfit black silk-poplin button-down shirt with hand-stitched placket. Hair sleek center-part. Makeup base done, brow mid-application, no eye yet, no lip. Jewelry none. Footwear black patent-leather pointed-toe slingback flats with a slim ankle strap, leather sole with single contrast stitching at the welt, polished mirror-finish toe cap, soles resting on polished travertine floor. Product slim brushed-brass spoolie in the right hand, spoolie head brushing upward through the right brow with visible individual fiber separation, the left brow already brushed and held in place by minutely lifted brow muscles.
+
+L-arm: out of frame, hand resting on the travertine counter.
+R-arm: lifted, spoolie pinched between right thumb and index finger, spoolie head brushing upward through the right brow.
+L-leg: out of frame.
+R-leg: out of frame.
+Feet: out of frame.
+Waist: out of frame.
+Head: square to camera, chin slightly lifted.
+Gaze: lifted, eyes-up gaze toward the mirror reflection above the macro insert.
+Expr: brow-pencil concentration with eyes-up gaze, lips softly closed in concentration, both brow muscles minutely lifted.
+
+Macro insert, front position, 100mm macro lens, center-third Rule of Thirds alignment, f/2.8, macro insert locked-off.
+
+---
+
+### FRAME 3 — VEO VIDEO PROMPT
+
+Camera & Lens: locked-off macro insert at brow height, 100mm macro lens, shallow depth of field, eight-second hold with no camera move.
+Subject: young woman brushing a slim brushed-brass spoolie upward through the right brow in three slow strokes and then transferring the spoolie to brush across the left brow at slow speed.
+Action & Physics: individual brow hairs lift and resettle with each pass on both brows, a single brow hair on the right stands upright for one full second before settling, the spoolie fibres fan and recover.
+Environment: faint city haze visible through the soft-focus background window beyond the open suite door drifts slowly upward.
+Lighting: dominant cool fluorescent overhead key from above and slightly camera-right, secondary warm corridor spill from camera-left at frame-edge.
+Style: hyperreal commercial texture, Mert and Marcus cool fluorescent editorial referencing, no CGI bloom, no plastic skin.
+Audio: soft spoolie-fiber whisper, focused exhale, faint hotel-corridor air handler hum.
+Negative: no subtitles, no on-screen text, no morphing, no warping, no captions, no logos.
+
+---
+
+### FRAME 4 — IMAGE PROMPT
+
+9:16 aspect ratio, strictly photorealistic, ultra-realistic, 8k resolution, raw cinematic beauty-campaign aesthetic, hyperreal commercial texture, anti-illustration, anti-comic-book, anti-CGI, real-camera lens behavior, shallow depth of field.
+
+SPATIAL ANCHOR: subject positioned in center-third of frame, the right thumb and ring fingertip and the open square graphite-grey cream-shadow pan occupy the macro insert, body out of frame except the right hand and the open pan in the left hand, dominant cool fluorescent overhead key from above and slightly camera-right, secondary warm corridor spill from camera-left faint at the hand edge. Camera frames a macro insert on the right ring fingertip lifted from the graphite pan with visible pigment pickup forming on the fingertip pad. Composition is locked. Frame is NOT mirrored. Hotel-suite travertine bathroom implied at lower frame edge by warm travertine specular.
+
+Subject is Aira (use face reference images), exactly 18 years old, fuller thighs, fuller arms, fuller hips, perfectly flat belly, pristine flawless skin with no freckles, porcelain sheen implied at the visible right thumb skin. Outfit black silk-poplin button-down shirt with hand-stitched placket. Hair sleek center-part. Makeup base done, brows finished, eye mid-application about to begin, no lip yet. Jewelry none. Footwear black patent-leather pointed-toe slingback flats with a slim ankle strap, leather sole with single contrast stitching at the welt, polished mirror-finish toe cap, soles resting on polished travertine floor. Product low square cream-shadow pan in graphite grey with a brushed-brass case open in the left hand visible at frame-left of macro insert, right ring fingertip lifted from the pan with visible graphite-grey pigment pickup on the fingertip pad.
+
+L-arm: out of frame, hand cradling the open pan case.
+R-arm: lifted, right ring fingertip held above the graphite pan with visible pigment pickup.
+L-leg: out of frame.
+R-leg: out of frame.
+Feet: out of frame.
+Waist: out of frame.
+Head: out of frame.
+Gaze: out of frame.
+Expr: focused application concentration, the visible right hand muscles minutely tensed, pigment pickup rising as a soft graphite film on the fingertip pad.
+
+Macro insert, 45-degree position from camera-right, 100mm macro lens, center-third Rule of Thirds alignment, f/2.8, macro insert locked-off.
+
+---
+
+### FRAME 4 — VEO VIDEO PROMPT
+
+Camera & Lens: locked-off macro insert at hand height, 100mm macro lens, shallow depth of field, eight-second hold with no camera move.
+Subject: young woman pressing the right ring fingertip into the graphite-grey cream-shadow pan and lifting it back up at slow speed.
+Action & Physics: a soft graphite-grey pigment pickup rises on the fingertip pad over two seconds, the pan surface shows a single minute fingertip dent, cool fluorescent specular trembles minutely across the brushed-brass case edge.
+Environment: faint city haze visible through the soft-focus background window beyond the open suite door drifts slowly upward.
+Lighting: dominant cool fluorescent overhead key from above and slightly camera-right, secondary warm corridor spill from camera-left at frame-edge faint at the hand edge.
+Style: hyperreal commercial texture, Mert and Marcus cool fluorescent editorial referencing, no CGI bloom, no plastic skin.
+Audio: soft fingertip-into-pan press, focused exhale, faint hotel-corridor air handler hum.
+Negative: no subtitles, no on-screen text, no morphing, no warping, no captions, no logos.
+
+---
+
+### FRAME 5 — IMAGE PROMPT
+
+9:16 aspect ratio, strictly photorealistic, ultra-realistic, 8k resolution, raw cinematic beauty-campaign aesthetic, hyperreal commercial texture, anti-illustration, anti-comic-book, anti-CGI, real-camera lens behavior, shallow depth of field.
+
+SPATIAL ANCHOR: subject positioned in center-third of frame standing at the travertine counter, body angled toward camera, both shoulders square to the frameless wall mirror, lipstick tube held at center-frame in the right hand at lip height, dominant cool fluorescent overhead key from above and slightly camera-right, secondary warm corridor spill from camera-left at frame-edge, frameless wall mirror in soft-focus background, brushed-brass tray of products at frame-foreground left, cool-grey ceramic vase at frame-right. Camera frames the real subject from chest up; the mirror is in soft-focus background. Composition is locked. Frame is NOT mirrored. Hotel-suite travertine bathroom with polished travertine floor underfoot.
+
+Subject is Aira (use face reference images), exactly 18 years old, fuller thighs, fuller arms, fuller hips, perfectly flat belly, pristine flawless skin with no freckles, finished base, brows, and graphite-grey lid wash visible, lip mid-application. Outfit black silk-poplin button-down shirt with hand-stitched placket. Hair sleek center-part, chestnut lock on the right shoulder still in place. Makeup base done, brows finished, eye finished with a soft graphite lid wash and a single coat of mascara, lip mid-application. Jewelry none. Footwear black patent-leather pointed-toe slingback flats with a slim ankle strap, leather sole with single contrast stitching at the welt, polished mirror-finish toe cap, soles resting on polished travertine floor. Product lacquered black lipstick tube with fluted brushed-brass collar in the right hand, satin matte cool-rose bullet pressed gently to the centre of the lower lip with the left index fingertip pulling the lower lip one millimetre downward.
+
+L-arm: lifted, left index fingertip resting at the centre of the lower lip with a one-millimetre downward pull.
+R-arm: lifted, lipstick tube pinched between thumb and middle finger, bullet pressed to lower lip.
+L-leg: weight-bearing.
+R-leg: relaxed, knee softly bent.
+Feet: both flat on polished travertine floor inside the slingback flats.
+Waist: square to camera.
+Head: square to camera, chin slightly lifted.
+Gaze: lowered to the lower lip in concentration.
+Expr: lipstick-bullet lower-lip lock, mouth held in a soft relaxed O, eyes downcast with lashes fanned and catching the cool fluorescent key.
+
+Medium close-up, front position, 85mm lens, center-third Rule of Thirds alignment, f/2.0, slow push-in.
+
+---
+
+### FRAME 5 — VEO VIDEO PROMPT
+
+Camera & Lens: slow push-in from chest distance to medium close-up, eye-level, 85mm lens, shallow depth of field, eight-second smooth dolly forward of fifteen centimetres.
+Subject: young woman pressing a satin matte cool-rose lipstick bullet to the lower lip and drawing the bullet from lip-centre outward to the right corner at slow speed, left index fingertip steadying the lower lip with a one-millimetre downward pull.
+Action & Physics: a clean cool-rose pigment trail follows the bullet across the lower lip, the lip surface flexes minutely, the silk-poplin shirt placket trembles once at the chest line, the chestnut lock on the right shoulder remains in place.
+Environment: faint city haze visible through the soft-focus background window beyond the open suite door drifts slowly upward.
+Lighting: dominant cool fluorescent overhead key from above and slightly camera-right, secondary warm corridor spill from camera-left at frame-edge.
+Style: hyperreal commercial texture, Mert and Marcus cool fluorescent editorial referencing, no CGI bloom, no plastic skin.
+Audio: soft lipstick-on-lip whisper, single quiet exhale, faint hotel-corridor air handler hum.
+Negative: no subtitles, no on-screen text, no morphing, no warping, no captions, no logos.
+
+---
+
+### FRAME 6 — IMAGE PROMPT
+
+9:16 aspect ratio, strictly photorealistic, ultra-realistic, 8k resolution, raw cinematic beauty-campaign aesthetic, hyperreal commercial texture, anti-illustration, anti-comic-book, anti-CGI, real-camera lens behavior, shallow depth of field.
+
+SPATIAL ANCHOR: subject positioned in center-third of frame standing at the travertine counter, body angled toward camera, both shoulders square to the frameless wall mirror, dominant cool fluorescent overhead key from above and slightly camera-right, secondary warm corridor spill from camera-left at frame-edge, frameless wall mirror in foreground reflection plane, travertine counter at frame-foreground with all products arrayed on the brushed-brass tray in a finished still-life — tinted-base bottle at frame-left, graphite cream-shadow pan center, lipstick tube at frame-right, cool-grey ceramic vase at far frame-right. Camera frames the mirror reflection only; the subject's real body is at named position standing directly in front of the mirror with her back to the camera. Spatial layout is fixed. Frame is NOT mirrored. Hotel-suite travertine bathroom, polished travertine floor underfoot, brushed-brass wall sconces flanking the wall mirror.
+
+Subject is Aira (use face reference images), exactly 18 years old, fuller thighs, fuller arms, fuller hips, perfectly flat belly, pristine flawless skin with no freckles, finished-look soft glow at full legibility — cold porcelain editorial finish with sculpted brow, soft graphite lid wash, cool-rose matte lip. Outfit black silk-poplin button-down shirt with hand-stitched placket, sleeves rolled twice to mid-forearm, top two buttons unbuttoned. Hair sleek center-part, the chestnut lock previously resting on the right shoulder now pushed off the shoulder by the back of the right hand and falling behind the shoulder. Makeup finished. Jewelry none. Footwear black patent-leather pointed-toe slingback flats with a slim ankle strap, leather sole with single contrast stitching at the welt, polished mirror-finish toe cap, soles resting on polished travertine floor. Product all products arrayed on the brushed-brass tray in a finished still-life.
+
+L-arm: relaxed, left hand resting palm-down on the travertine counter edge.
+R-arm: lifted, the back of the right hand just completing the push-off of the chestnut lock from the right shoulder.
+L-leg: weight-bearing.
+R-leg: relaxed, knee softly bent.
+Feet: both flat on polished travertine floor inside the slingback flats.
+Waist: square to mirror.
+Head: tilted four degrees toward camera-right, chin slightly down.
+Gaze: locked into her own reflected eyes, reading as direct eye-contact to the lens, with one mouth corner pulled half a centimetre higher than the other.
+Expr: head-tilt knowing smirk, mouth held in a closed soft smile with one upward corner pulled half a centimetre higher than the other, lashes fanned and catching the cool fluorescent key.
+
+Medium close-up, mirror reflection slow push-in, 85mm lens, center-third Rule of Thirds alignment, f/2.0, mirror-reflection slow push-in.
+
+---
+
+### FRAME 6 — VEO VIDEO PROMPT
+
+Camera & Lens: mirror-reflection slow push-in toward the reflected face, eye-level with the frameless rectangular wall mirror, 85mm lens, shallow depth of field, eight-second smooth dolly forward of twenty centimetres.
+Subject: young woman pushing the chestnut lock off the right shoulder with the back of the right hand at slow speed, head tilting four degrees toward camera-right, one mouth corner sliding into a knowing smirk at the close.
+Action & Physics: the chestnut lock falls behind the right shoulder in a clean half-arc and settles, the silk-poplin shirt placket trembles once at the chest line, the smirk corner holds a half-centimetre higher than the other for the full eight seconds.
+Environment: faint city haze visible through the soft-focus background window beyond the open suite door drifts slowly upward.
+Lighting: dominant cool fluorescent overhead key from above and slightly camera-right, secondary warm corridor spill from camera-left at frame-edge now warming the brushed-brass hardware in the still-life.
+Style: hyperreal commercial texture, Mert and Marcus cool fluorescent editorial referencing, no CGI bloom, no plastic skin.
+Audio: soft hair-on-silk slide, single quiet exhale, distant elevator chime.
+Negative: no subtitles, no on-screen text, no morphing, no warping, no captions, no logos.
+
+---
+
+
+## CONCEPT 07 — GARDEN CABANA LINEN (Outdoor Cabana Mirror Golden Hour)
+
+20-WORD REEL SUMMARY: Aira walks an outdoor cabana ritual in golden hour, building a sun-drenched soft-sunburn cheek and glossy lip finish.
+
+WORLD / THEME: Garden cabana with a freestanding linen-curtained mirror, a stone garden ledge, late-summer golden hour, eucalyptus and jasmine air.
+
+RITUAL STAGE MAP: Frame 1 bare-faced opening, Frame 2 sunscreen layer, Frame 3 base application, Frame 4 blush placement, Frame 5 mascara beat, Frame 6 lip product, Frame 7 finished-look reveal.
+
+HERO PRODUCT: A frosted-glass tube of sheer mineral sunscreen with a soft-touch white pump and a sun-warmed milky cream viscosity, paired with a porcelain dish of olive oil-based cream blush in a soft sunburn-rose tone with a plain white ceramic lid.
+
+FINISHED LOOK SIGNATURE: Sun-drenched soft-sunburn cheek with a glassy clear lip and a sun-kissed lash flick.
+
+ENVIRONMENT IDENTITY: Outdoor garden cabana with a cream-painted wooden frame, a freestanding full-length linen-curtained mirror at frame-center, a stone garden ledge at frame-foreground holding a small olivewood tray of products, a single eucalyptus stem in a slim terracotta vase at frame-right, a soft-focus mid-frame jasmine vine climbing a trellis at frame-left, deep soft-focus background of a sun-warmed garden lawn with one orange-glow horizon line.
+
+LIGHTING MOOD: Warm golden-hour direct sun + cool sky bounce.
+
+HOOK DISTRIBUTION: Frame 1 sunglasses-pull-down direct lens hook at the cabana mirror. Frame 4 macro insert on cream-blush fingertip swirl at cheek apple. Frame 7 hair-flip sovereign smile direct to lens at finished face.
+
+SUBJECT ENERGY PROFILE: Late-summer ease into focused mid-ritual concentration into golden-hour sovereign warmth.
+
+MOTION CONTINUITY LOGIC: Sunglasses pulled down at the cabana mirror → sunscreen pumped onto fingertip and pressed to cheek → palms warmed and pressed to forehead and cheek → cream blush swirled at cheek apple → mascara wand at upper lash root → glossy clear lip oil rolled across both lips → hair-flip sovereign smile to lens.
+
+CAMERA LANGUAGE PLAN: F1 mirror-reflection static 50mm. F2 macro insert 100mm. F3 over-shoulder vanity follow 35mm. F4 macro insert 100mm. F5 slow push-in 85mm. F6 side-profile 45-degree 50mm. F7 mirror-reflection slow push-in 85mm.
+
+EXPRESSION CHOREOGRAPHY: F1 sunglasses-pull-down direct lens. F2 closed-eye sip warmth variant for sunscreen pat. F3 closed-eye sensory delight. F4 closed-eye morning stretch breath variant for cream-blush swirl. F5 mascara-wand mouth-open focus beat. F6 lipstick-bullet lower-lip lock variant for clear lip-oil wand. F7 hair-flip sovereign smile.
+
+BODY LANGUAGE PLAN: F1 sunglasses pulled down the bridge of the nose with the right index fingertip. F2 sunscreen pump pressed once and pat-pressed to right cheek. F3 cream warmed between palms before application. F4 cream blush warmed at cheek apple with two-finger swirl. F5 mouth opened in small O during mascara application. F6 lower lip pulled slightly down by index finger before lip oil. F7 hair flipped from front to back over the right shoulder with the right hand.
+
+HAIR PHYSICS NOTES: Hair is shoulder-length dark chestnut, dry, sun-warmed soft individual strand separation, one peak lift of three centimetres at the crown in F7 from the hair flip; sun-warmed warm specular running the length of the chestnut strands throughout.
+
+FABRIC MOTION NOTES: Soft white cotton linen wrap dress with hand-rolled hem and a single self-tie sash at the natural waist, cap-sleeves with hand-stitched hems. The hem trembles two centimetres in F7 from the hair flip motion; otherwise the dress holds calmly across all frames.
+
+LIGHTING PHYSICS NOTES: Warm golden-hour direct sun enters from camera-right at low angle and falls in a long warm wash across the right cheek, clavicle, and the linen wrap dress shoulder. Cool sky bounce from above and camera-left fills the shadow side of the jaw and warms the underside of the sunscreen tube and porcelain blush dish. Skin reads warm-bare in F1 and reaches sun-drenched peak in F7.
+
+BEAUTY PRODUCT INTERACTION PLAN: F1 cat-eye tortoiseshell sunglasses pulled down the bridge of the nose with the right index fingertip; sunglasses are then placed on the olivewood tray for the rest of the ritual. F2 frosted-glass sunscreen tube with soft-touch white pump in the left hand, pressed once with the right index fingertip releasing a sun-warmed milky cream onto the right ring fingertip then pat-pressed to the right cheek. F3 both palms warmed with sunscreen and pressed to the forehead and cheek. F4 porcelain dish of cream blush uncapped, two-finger swirl across the right cheek apple. F5 black-handled mascara tube, wand at upper lash root of right eye. F6 slim glass tube of clear lip oil with a thin doe-foot wand uncapped in the right hand, wand rolled across both lips. F7 sunglasses lifted from olivewood tray and held in the left hand at hip height; all other products arrayed on the tray in a finished still-life.
+
+VIEWER ENGAGEMENT MOMENTS: F1 sunglasses-pull-down direct lens. F4 cream-blush swirl macro anticipation. F7 hair-flip sovereign smile direct to lens.
+
+ANTI-ILLUSTRATION SAFEGUARDS: Visible pore micro-detail at jawline, eyelash fiber separation in F5, real sunscreen cream micro-streaking on cheek in F2, real cream-blush swirl on cheek apple in F4, real specular highlight on tortoiseshell sunglasses bridge, real cotton linen weave with hand-rolled hem.
+
+HYPERREAL COMMERCIAL TEXTURE LANGUAGE: Roger Deakins golden-hour with cool sky bounce, raw cinematic 8k, no CGI bloom, no plastic skin.
+
+FOOTWEAR STRING: Tan suede flat espadrille slides with woven jute soles, hand-rolled tonal piping at the topline, soles resting on warm sun-bleached terracotta paving stones.
+
+---
+
+### FRAME 1 — IMAGE PROMPT
+
+9:16 aspect ratio, strictly photorealistic, ultra-realistic, 8k resolution, raw cinematic beauty-campaign aesthetic, hyperreal commercial texture, anti-illustration, anti-comic-book, anti-CGI, real-camera lens behavior, shallow depth of field.
+
+SPATIAL ANCHOR: subject positioned in center-third of frame standing at the freestanding linen-curtained mirror, body angled toward camera, both shoulders square to the mirror, dominant warm golden-hour direct sun from camera-right at low angle, secondary cool sky bounce from above and camera-left, stone garden ledge at frame-foreground holding the olivewood tray of products with the sunscreen tube at frame-left of tray and the porcelain blush dish at frame-right of tray, slim terracotta vase with single eucalyptus stem at frame-right of ledge, soft-focus jasmine vine on a trellis at far frame-left mid-ground, deep soft-focus garden lawn with orange horizon line in the background. Camera frames the mirror reflection and the real subject simultaneously, both bodies are visible. Composition is locked. Frame is NOT mirrored. Garden cabana with cream-painted wooden frame, freestanding linen-curtained mirror centred mid-frame, warm sun-bleached terracotta paving stones underfoot, faint pollen particulate suspended in the golden-hour light cone.
+
+Subject is Aira (use face reference images), exactly 18 years old, fuller thighs, fuller arms, fuller hips, perfectly flat belly, pristine flawless skin with no freckles, bare-faced unguarded skin with a faint warm cheek warmth from the golden-hour key. Outfit soft white cotton linen wrap dress with hand-rolled hem and a single self-tie sash at the natural waist, cap-sleeves with hand-stitched hems. Hair shoulder-length dark chestnut, dry, sun-warmed soft individual strand separation, ends resting on the clavicle. Makeup none, brows in their natural shape, lashes bare, lips natural rose-pink. Jewelry none. Footwear tan suede flat espadrille slides with woven jute soles, hand-rolled tonal piping at the topline, soles resting on warm sun-bleached terracotta paving stones. Product cat-eye tortoiseshell sunglasses worn on the face and being pulled down the bridge of the nose with the right index fingertip.
+
+L-arm: relaxed, left hand resting at the stone garden ledge edge.
+R-arm: lifted, right index fingertip pressed gently to the bridge of the sunglasses, pulling them down two centimetres to expose the eyes.
+L-leg: weight-bearing, hip stacked over heel.
+R-leg: relaxed, knee softly bent.
+Feet: both flat on warm sun-bleached terracotta paving stones inside the espadrille slides.
+Waist: square to mirror.
+Head: tilted three degrees toward camera-left, chin slightly down.
+Gaze: locked direct to the lens over the lowered sunglasses, calm and confident.
+Expr: sunglasses-pull-down direct lens, mouth held in a soft closed line with one half-millimetre of upward corner pull, brows neutral.
+
+Medium close-up, front position with mirror reflection in frame, 50mm lens, center-third Rule of Thirds alignment, f/2.5, mirror-reflection static locked-off.
+
+---
+
+### FRAME 1 — VEO VIDEO PROMPT
+
+Camera & Lens: locked-off mirror-reflection static, eye-level with the freestanding linen-curtained mirror, 50mm lens, shallow depth of field, eight-second hold with no camera move.
+Subject: young woman standing at the cabana mirror, pulling cat-eye tortoiseshell sunglasses two centimetres down the bridge of the nose with the right index fingertip at slow speed, head tilting three degrees toward camera-left.
+Action & Physics: chestnut ends settle by two millimetres at the clavicle as the head tilts, the linen wrap dress hem holds calmly, sunglasses bridge slides cleanly on the nose, gaze locks direct to the lens over the lowered frames.
+Environment: a single eucalyptus stem in the slim terracotta vase at frame-right trembles half a centimetre on a slow late-summer breath of air.
+Lighting: dominant warm golden-hour direct sun from camera-right at low angle, secondary cool sky bounce from above and camera-left.
+Style: hyperreal commercial texture, Roger Deakins golden-hour referencing, no CGI bloom, no plastic skin.
+Audio: faint distant garden cricket, soft single inhale, gentle leaf rustle.
+Negative: no subtitles, no on-screen text, no morphing, no warping, no captions, no logos.
+
+---
+
+### FRAME 2 — IMAGE PROMPT
+
+9:16 aspect ratio, strictly photorealistic, ultra-realistic, 8k resolution, raw cinematic beauty-campaign aesthetic, hyperreal commercial texture, anti-illustration, anti-comic-book, anti-CGI, real-camera lens behavior, shallow depth of field.
+
+SPATIAL ANCHOR: subject positioned in center-third of frame, the right cheek and lower face occupy the macro insert, body out of frame below the clavicle, dominant warm golden-hour direct sun from camera-right, secondary cool sky bounce from above and camera-left, frosted-glass sunscreen tube held in the left hand visible at frame-left edge of macro insert. Camera frames a macro insert on the right cheek. Camera-side orientation is locked. Frame is NOT mirrored. Garden cabana implied at lower frame edge by warm terracotta specular.
+
+Subject is Aira (use face reference images), exactly 18 years old, fuller thighs, fuller arms, fuller hips, perfectly flat belly, pristine flawless skin with no freckles, mid-ritual sun-warmed sheen across the visible cheek where the sunscreen meets the skin. Outfit soft white cotton linen wrap dress with hand-rolled hem. Hair sun-warmed soft individual strand separation. Makeup base mid-application, sunscreen layer being pat-pressed at the right cheek, no eye yet, no lip; sunglasses no longer on the face, now resting on the olivewood tray. Jewelry none. Footwear tan suede flat espadrille slides with woven jute soles, hand-rolled tonal piping at the topline, soles resting on warm sun-bleached terracotta paving stones. Product frosted-glass sunscreen tube with soft-touch white pump in the left hand at frame-left edge, right ring fingertip carrying a single sun-warmed milky cream droplet pat-pressed into the right cheek with a hairline cream micro-streak.
+
+L-arm: out of frame except for the visible left thumb cradling the sunscreen tube at frame-left edge.
+R-arm: lifted, right ring fingertip pat-pressed to the right cheek with a hairline cream micro-streak.
+L-leg: out of frame.
+R-leg: out of frame.
+Feet: out of frame.
+Waist: out of frame.
+Head: tilted four degrees toward camera-left, chin slightly lifted.
+Gaze: closed, lashes resting on cheek.
+Expr: closed-eye sip warmth variant for sunscreen pat, mouth held in a soft closed smile with one upward corner pull, lashes fanned and catching the warm golden-hour key.
+
+Macro insert, 45-degree position from camera-right, 100mm macro lens, center-third Rule of Thirds alignment, f/2.8, macro insert with handheld micro-shake.
+
+---
+
+### FRAME 2 — VEO VIDEO PROMPT
+
+Camera & Lens: macro insert at cheek height, 100mm macro lens, shallow depth of field, eight-second hold with the gentlest handheld micro-shake.
+Subject: young woman pat-pressing a sun-warmed milky sunscreen droplet from the right ring fingertip into the right cheek in three slow press-and-release pats, right wrist lifting one centimetre between each pat at slow speed.
+Action & Physics: a hairline cream micro-streak blooms on the cheek with each pat and absorbs into the skin within three seconds leaving a sun-warmed satin sheen, a single fine chestnut strand drifts across the cheek and settles, golden-hour warm specular trembles minutely across the cream surface.
+Environment: a single eucalyptus stem in the slim terracotta vase at frame-right trembles half a centimetre on a slow late-summer breath of air.
+Lighting: dominant warm golden-hour direct sun from camera-right at low angle, secondary cool sky bounce from above and camera-left.
+Style: hyperreal commercial texture, Roger Deakins golden-hour referencing, no CGI bloom, no plastic skin.
+Audio: soft fingertip-on-skin pat, calm exhale, faint distant garden cricket.
+Negative: no subtitles, no on-screen text, no morphing, no warping, no captions, no logos.
+
+---
+
+### FRAME 3 — IMAGE PROMPT
+
+9:16 aspect ratio, strictly photorealistic, ultra-realistic, 8k resolution, raw cinematic beauty-campaign aesthetic, hyperreal commercial texture, anti-illustration, anti-comic-book, anti-CGI, real-camera lens behavior, shallow depth of field.
+
+SPATIAL ANCHOR: subject positioned in right-third of frame standing at the freestanding mirror, body in three-quarter angle to camera-left with right shoulder closer to camera, dominant warm golden-hour direct sun from camera-right, secondary cool sky bounce from above and camera-left, freestanding linen-curtained mirror in soft-focus background camera-left, stone garden ledge at frame-foreground with olivewood tray of products at frame-foreground center, slim terracotta vase with single eucalyptus stem at frame-right. Camera frames the real subject from chest up over the right shoulder. Composition is locked. Frame is NOT mirrored. Garden cabana with warm sun-bleached terracotta paving stones underfoot.
+
+Subject is Aira (use face reference images), exactly 18 years old, fuller thighs, fuller arms, fuller hips, perfectly flat belly, pristine flawless skin with no freckles, mid-ritual sun-warmed sheen across both cheekbones, sunscreen layer fully spread, base now reading as a sun-drenched glow. Outfit soft white cotton linen wrap dress with hand-rolled hem. Hair sun-warmed individual strand separation, ends resting on the clavicle. Makeup base done, no blush yet, no eye, no lip. Jewelry none. Footwear tan suede flat espadrille slides with woven jute soles, hand-rolled tonal piping at the topline, soles resting on warm sun-bleached terracotta paving stones. Product both palms freshly warmed with sunscreen and pressed gently to the forehead and right cheek.
+
+L-arm: lifted, left palm pressed gently to the forehead.
+R-arm: lifted, right palm pressed gently to the right cheek.
+L-leg: weight-bearing.
+R-leg: relaxed, knee softly bent.
+Feet: both flat on warm sun-bleached terracotta paving stones inside the espadrille slides.
+Waist: angled three-quarters camera-left.
+Head: tilted four degrees toward camera-right, eyes closed.
+Gaze: closed, lashes resting on cheek.
+Expr: closed-eye sensory delight, mouth softly closed with one upward corner pull, lashes fanned and faintly damp from the sunscreen.
+
+Medium close-up, over-shoulder vanity follow position, 35mm lens, right-third Rule of Thirds alignment, f/2.8, over-shoulder vanity follow.
+
+---
+
+### FRAME 3 — VEO VIDEO PROMPT
+
+Camera & Lens: over-shoulder vanity follow at chest height, 35mm lens, shallow depth of field, eight-second slow lateral track from camera-right to camera-left behind the subject's right shoulder.
+Subject: young woman pressing the left palm to the forehead and the right palm to the right cheek at slow speed, head tilting four degrees toward camera-right with eyes closed.
+Action & Physics: sunscreen sheen settles into the forehead and cheek under both palms leaving a sun-warmed satin finish, chestnut sun-warmed strand sheen catches the golden-hour key, the linen wrap dress hem holds calmly.
+Environment: a single eucalyptus stem in the slim terracotta vase at frame-right trembles half a centimetre on a slow late-summer breath of air.
+Lighting: dominant warm golden-hour direct sun from camera-right at low angle, secondary cool sky bounce from above and camera-left.
+Style: hyperreal commercial texture, Roger Deakins golden-hour referencing, no CGI bloom, no plastic skin.
+Audio: soft palm-on-skin contact, calm exhale, distant garden bird call.
+Negative: no subtitles, no on-screen text, no morphing, no warping, no captions, no logos.
+
+---
+
+### FRAME 4 — IMAGE PROMPT
+
+9:16 aspect ratio, strictly photorealistic, ultra-realistic, 8k resolution, raw cinematic beauty-campaign aesthetic, hyperreal commercial texture, anti-illustration, anti-comic-book, anti-CGI, real-camera lens behavior, shallow depth of field.
+
+SPATIAL ANCHOR: subject positioned in center-third of frame, the right cheek apple and the right index and middle fingertips occupy the macro insert, body out of frame below the cheek line, dominant warm golden-hour direct sun from camera-right, secondary cool sky bounce from above and camera-left, porcelain dish of cream blush implied at lower frame-left edge by a single warm specular. Camera frames a macro insert on the right cheek apple. Composition is locked. Frame is NOT mirrored. Garden cabana implied at lower frame edge by warm terracotta specular.
+
+Subject is Aira (use face reference images), exactly 18 years old, fuller thighs, fuller arms, fuller hips, perfectly flat belly, pristine flawless skin with no freckles, mid-ritual sun-warmed sheen across the visible cheek apple, blush mid-application. Outfit soft white cotton linen wrap dress with hand-rolled hem. Hair sun-warmed individual strand separation. Makeup base done, blush mid-application at cheek apple, no eye yet, no lip. Jewelry none. Footwear tan suede flat espadrille slides with woven jute soles, hand-rolled tonal piping at the topline, soles resting on warm sun-bleached terracotta paving stones. Product right index and middle fingertips swirling soft sunburn-rose cream blush across the right cheek apple in three slow circles, visible warm pigment pickup on both fingertips.
+
+L-arm: out of frame, hand cradling the porcelain blush dish.
+R-arm: lifted, right index and middle fingertips swirling cream blush across the right cheek apple.
+L-leg: out of frame.
+R-leg: out of frame.
+Feet: out of frame.
+Waist: out of frame.
+Head: tilted three degrees toward camera-left, eyes closed.
+Gaze: closed, lashes resting on cheek.
+Expr: closed-eye morning stretch breath variant for cream-blush swirl, mouth held in a soft closed smile with both upward corner pulls even, lashes fanned and catching the warm golden-hour key.
+
+Macro insert, front position, 100mm macro lens, center-third Rule of Thirds alignment, f/2.8, macro insert locked-off.
+
+---
+
+### FRAME 4 — VEO VIDEO PROMPT
+
+Camera & Lens: locked-off macro insert at cheek height, 100mm macro lens, shallow depth of field, eight-second hold with no camera move.
+Subject: young woman swirling cream blush onto the right cheek apple in three slow circles with right index and middle fingertips at slow speed, head tilted three degrees toward camera-left with eyes closed.
+Action & Physics: a soft sunburn-rose flush blooms at the cheek apple under the swirling fingertips, golden-hour warm specular trembles minutely across the cheek surface, a single fine chestnut strand drifts across the cheek and settles.
+Environment: a single eucalyptus stem in the slim terracotta vase at frame-right trembles half a centimetre on a slow late-summer breath of air.
+Lighting: dominant warm golden-hour direct sun from camera-right at low angle, secondary cool sky bounce from above and camera-left.
+Style: hyperreal commercial texture, Roger Deakins golden-hour referencing, no CGI bloom, no plastic skin.
+Audio: soft fingertip-on-skin swirl, calm breath, faint distant garden cricket.
+Negative: no subtitles, no on-screen text, no morphing, no warping, no captions, no logos.
+
+---
+
+### FRAME 5 — IMAGE PROMPT
+
+9:16 aspect ratio, strictly photorealistic, ultra-realistic, 8k resolution, raw cinematic beauty-campaign aesthetic, hyperreal commercial texture, anti-illustration, anti-comic-book, anti-CGI, real-camera lens behavior, shallow depth of field.
+
+SPATIAL ANCHOR: subject positioned in center-third of frame standing at the freestanding mirror, body angled toward camera, both shoulders square to the mirror, mascara tube held at center-frame in the right hand at lash height, dominant warm golden-hour direct sun from camera-right, secondary cool sky bounce from above and camera-left, freestanding linen-curtained mirror in soft-focus background, stone garden ledge at frame-foreground with olivewood tray and porcelain blush dish at frame-foreground center, slim terracotta vase at frame-right. Camera frames the real subject from chest up; the mirror is in soft-focus background. Camera-side orientation is locked. Frame is NOT mirrored. Garden cabana with warm sun-bleached terracotta paving stones underfoot.
+
+Subject is Aira (use face reference images), exactly 18 years old, fuller thighs, fuller arms, fuller hips, perfectly flat belly, pristine flawless skin with no freckles, finished base and blush visible, eye mid-application. Outfit soft white cotton linen wrap dress with hand-rolled hem. Hair sun-warmed individual strand separation. Makeup base done, blush done, eye mid-application — no shadow, only mascara on the upper lashes of the right eye, no lip yet. Jewelry none. Footwear tan suede flat espadrille slides with woven jute soles, hand-rolled tonal piping at the topline, soles resting on warm sun-bleached terracotta paving stones. Product black-handled mascara tube with a brushed-bronze collar, wand head pressed at the upper lash root of the right eye with visible wet product ridge at the wand tip.
+
+L-arm: relaxed, left hand resting at the stone garden ledge edge.
+R-arm: lifted, mascara wand pinched between right thumb and index finger, wand head at upper lash root of right eye.
+L-leg: weight-bearing.
+R-leg: relaxed, knee softly bent.
+Feet: both flat on warm sun-bleached terracotta paving stones inside the espadrille slides.
+Waist: square to camera.
+Head: square to camera, chin slightly lifted.
+Gaze: lifted slightly, eyes-up gaze with the right eye held open under the wand.
+Expr: mascara-wand mouth-open focus beat, mouth held in a soft open O, brows minutely lifted.
+
+Medium close-up, front position, 85mm lens, center-third Rule of Thirds alignment, f/2.0, slow push-in.
+
+---
+
+### FRAME 5 — VEO VIDEO PROMPT
+
+Camera & Lens: slow push-in from chest distance to medium close-up, eye-level, 85mm lens, shallow depth of field, eight-second smooth dolly forward of fifteen centimetres.
+Subject: young woman drawing a mascara wand from upper lash root outward toward the lash tips of the right eye in three slow strokes at slow speed, mouth held in a soft open O.
+Action & Physics: individual upper lashes coat with each stroke and fan into separation, a single fine droplet of mascara product trembles at the wand tip, sun-warmed warm specular catches the wet lash sheen.
+Environment: a single eucalyptus stem in the slim terracotta vase at frame-right trembles half a centimetre on a slow late-summer breath of air.
+Lighting: dominant warm golden-hour direct sun from camera-right at low angle catching the wet lash sheen, secondary cool sky bounce from above and camera-left.
+Style: hyperreal commercial texture, Roger Deakins golden-hour referencing, no CGI bloom, no plastic skin.
+Audio: soft wand-on-lash whisper, single quiet inhale, faint distant garden cricket.
+Negative: no subtitles, no on-screen text, no morphing, no warping, no captions, no logos.
+
+---
+
+### FRAME 6 — IMAGE PROMPT
+
+9:16 aspect ratio, strictly photorealistic, ultra-realistic, 8k resolution, raw cinematic beauty-campaign aesthetic, hyperreal commercial texture, anti-illustration, anti-comic-book, anti-CGI, real-camera lens behavior, shallow depth of field.
+
+SPATIAL ANCHOR: subject positioned in left-third of frame standing at the stone garden ledge, body in three-quarter side-profile to camera-right with left shoulder closer to camera, dominant warm golden-hour direct sun from camera-right hitting the visible cheek apple in profile, secondary cool sky bounce from above and camera-left, slim glass tube of clear lip oil with a thin doe-foot wand uncapped in the right hand at lip height, freestanding linen-curtained mirror in soft-focus background at frame-right, stone garden ledge at frame-foreground with olivewood tray of products at frame-foreground center, terracotta vase at far frame-right. Camera frames the real subject in three-quarter profile; the mirror is decorative background. Camera-side orientation is locked. Frame is NOT mirrored. Garden cabana with warm sun-bleached terracotta paving stones underfoot.
+
+Subject is Aira (use face reference images), exactly 18 years old, fuller thighs, fuller arms, fuller hips, perfectly flat belly, pristine flawless skin with no freckles, sun-drenched glow across the visible cheek, base, blush, and eye finished, lip mid-application. Outfit soft white cotton linen wrap dress with hand-rolled hem. Hair sun-warmed individual strand separation, ends resting on the left shoulder. Makeup base done, blush done, eye done with mascara only, lip mid-application. Jewelry none. Footwear tan suede flat espadrille slides with woven jute soles, hand-rolled tonal piping at the topline, soles resting on warm sun-bleached terracotta paving stones. Product slim glass tube of clear lip oil with a thin doe-foot wand uncapped in the right hand, wand rolled across the lower lip with visible high-shine clear gloss surface tension.
+
+L-arm: lifted, left index fingertip resting at the chin to steady the head.
+R-arm: lifted, lip oil tube pinched between thumb and middle finger, doe-foot wand at lower lip.
+L-leg: weight-bearing.
+R-leg: relaxed, knee softly bent.
+Feet: both flat on warm sun-bleached terracotta paving stones inside the espadrille slides.
+Waist: angled in three-quarter side-profile, left hip toward camera.
+Head: tilted in profile to camera-right, chin slightly lifted.
+Gaze: lowered toward the lower lip in concentration.
+Expr: lipstick-bullet lower-lip lock variant for clear lip-oil wand, mouth held in a soft relaxed O, lashes downcast and fanned with mascara catching the warm golden-hour key.
+
+Medium close-up, side-profile 45-degree from camera-left, 50mm lens, left-third Rule of Thirds alignment, f/2.5, side-profile dolly with one-degree pedestal rise.
+
+---
+
+### FRAME 6 — VEO VIDEO PROMPT
+
+Camera & Lens: side-profile dolly from camera-left with one-degree pedestal rise, 50mm lens, shallow depth of field, eight-second smooth move covering ten centimetres of lateral travel and two centimetres of rise.
+Subject: young woman rolling a thin doe-foot wand of clear lip oil across the lower lip in three slow passes at slow speed, head in profile to camera-right with chin slightly lifted.
+Action & Physics: a high-shine clear lip-oil surface tension follows the wand across the lower lip, the lip surface flexes minutely, golden-hour warm specular catches the gloss surface, a single fine chestnut strand drifts across the visible cheek and settles.
+Environment: a single eucalyptus stem in the slim terracotta vase at frame-right trembles half a centimetre on a slow late-summer breath of air.
+Lighting: dominant warm golden-hour direct sun from camera-right at low angle catching the lip-oil specular, secondary cool sky bounce from above and camera-left.
+Style: hyperreal commercial texture, Roger Deakins golden-hour referencing, no CGI bloom, no plastic skin.
+Audio: soft wand-on-lip whisper, calm breath, faint distant garden cricket.
+Negative: no subtitles, no on-screen text, no morphing, no warping, no captions, no logos.
+
+---
+
+### FRAME 7 — IMAGE PROMPT
+
+9:16 aspect ratio, strictly photorealistic, ultra-realistic, 8k resolution, raw cinematic beauty-campaign aesthetic, hyperreal commercial texture, anti-illustration, anti-comic-book, anti-CGI, real-camera lens behavior, shallow depth of field.
+
+SPATIAL ANCHOR: subject positioned in center-third of frame standing in front of the freestanding linen-curtained mirror, body angled toward camera, both shoulders square to camera, dominant warm golden-hour direct sun from camera-right, secondary cool sky bounce from above and camera-left, freestanding linen-curtained mirror in soft-focus background centred behind subject, stone garden ledge at frame-foreground with all products arrayed on the olivewood tray in a finished still-life — sunscreen tube at frame-left, porcelain blush dish center, mascara tube, lip-oil tube at frame-right, sunglasses lifted from the tray and held in the left hand at hip height. Camera frames the mirror reflection only; the subject's real body is at named position standing directly in front of the mirror with her back to the camera. Spatial layout is fixed. Frame is NOT mirrored. Garden cabana with cream-painted wooden frame, warm sun-bleached terracotta paving stones underfoot, deep soft-focus garden lawn with orange horizon line in the background.
+
+Subject is Aira (use face reference images), exactly 18 years old, fuller thighs, fuller arms, fuller hips, perfectly flat belly, pristine flawless skin with no freckles, finished-look soft glow at full legibility — sun-drenched soft-sunburn cheek with a glassy clear lip and a sun-kissed lash flick. Outfit soft white cotton linen wrap dress with hand-rolled hem and a single self-tie sash at the natural waist, cap-sleeves with hand-stitched hems. Hair sun-warmed individual strand separation, one peak lift of three centimetres at the crown from the hair flip. Makeup finished. Jewelry none. Footwear tan suede flat espadrille slides with woven jute soles, hand-rolled tonal piping at the topline, soles resting on warm sun-bleached terracotta paving stones. Product cat-eye tortoiseshell sunglasses held in the left hand at hip height; all other products arrayed on the olivewood tray in a finished still-life.
+
+L-arm: relaxed, left hand at hip height holding the cat-eye tortoiseshell sunglasses by one temple arm.
+R-arm: lifted, right hand in the moment after a hair flip, fingertips just leaving the right shoulder where the chestnut strands have just been flipped from front to back over the shoulder.
+L-leg: weight-bearing.
+R-leg: relaxed, knee softly bent.
+Feet: both flat on warm sun-bleached terracotta paving stones inside the espadrille slides.
+Waist: square to camera.
+Head: tilted three degrees toward camera-right, chin slightly lifted.
+Gaze: locked into her own reflected eyes in the linen-curtained mirror, reading as direct eye-contact to the lens, with both upward mouth corners even and a sovereign warmth.
+Expr: hair-flip sovereign smile, mouth held in an open soft smile with both upward corner lifts even, lashes fanned and catching the warm golden-hour key.
+
+Medium close-up, mirror reflection slow push-in, 85mm lens, center-third Rule of Thirds alignment, f/2.0, mirror-reflection slow push-in.
+
+---
+
+### FRAME 7 — VEO VIDEO PROMPT
+
+Camera & Lens: mirror-reflection slow push-in toward the reflected face, eye-level with the freestanding linen-curtained mirror, 85mm lens, shallow depth of field, eight-second smooth dolly forward of twenty centimetres.
+Subject: young woman flipping the chestnut hair from front to back over the right shoulder with the right hand at slow speed, head tilting three degrees toward camera-right, mouth opening into a sovereign smile at the close.
+Action & Physics: chestnut strands lift three centimetres at the crown and arc over the right shoulder before settling behind, the linen wrap dress hem trembles two centimetres from the flip motion and settles, the cat-eye sunglasses held at hip height swing one centimetre and settle.
+Environment: a single eucalyptus stem in the slim terracotta vase at frame-right trembles half a centimetre on a slow late-summer breath of air.
+Lighting: dominant warm golden-hour direct sun from camera-right at low angle, secondary cool sky bounce from above and camera-left now warming the olivewood tray and brushed hardware in the still-life.
+Style: hyperreal commercial texture, Roger Deakins golden-hour referencing, no CGI bloom, no plastic skin.
+Audio: soft hair-on-shoulder swish, single quiet exhale into a smile, distant garden bird call.
+Negative: no subtitles, no on-screen text, no morphing, no warping, no captions, no logos.
+
+---
