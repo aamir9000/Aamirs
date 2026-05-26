@@ -2117,3 +2117,295 @@ Audio: soft hair-on-shoulder swish, single quiet exhale into a smile, distant ga
 Negative: no subtitles, no on-screen text, no morphing, no warping, no captions, no logos.
 
 ---
+
+
+## CONCEPT 08 — PENTHOUSE WINDOW CHAMPAGNE (Champagne Hour Dressing Nook)
+
+20-WORD REEL SUMMARY: Aira moves through a champagne-hour ritual at a penthouse window-side dressing nook, ending on a conspiratorial private smile.
+
+WORLD / THEME: Penthouse window-side dressing nook at champagne hour, floor-to-ceiling glass, city skyline behind, warm tungsten city bokeh against cool dusk sky.
+
+RITUAL STAGE MAP: Frame 1 bare-faced opening, Frame 2 skincare prep, Frame 3 base application, Frame 4 blush placement, Frame 5 lip product, Frame 6 jewelry placement, Frame 7 finished-look reveal.
+
+HERO PRODUCT: A heavy crystal-cut atomizer of champagne-toned facial mist with a brushed-champagne-gold collar, a faintly effervescent water viscosity, fine atomizer cone. Supporting product: a flat lacquered-champagne lipstick compact with a built-in mirror and a slim brushed-champagne-gold bullet in a soft champagne-rose tone.
+
+FINISHED LOOK SIGNATURE: Champagne-glow finish with a soft-flushed cheek, satin champagne-rose lip, and a single fine gold ear-cuff catching tungsten bokeh.
+
+ENVIRONMENT IDENTITY: Penthouse dressing nook with a floor-to-ceiling glass window at frame-right looking out over a dusk city skyline of warm tungsten window-light bokeh against a deep cool blue sky, a slim champagne-marble console at frame-foreground, an oval brushed-champagne-gold standing mirror at center-frame, a velvet champagne-toned bench at lower frame edge, a tall narrow crystal vase of single white peony at far frame-left.
+
+LIGHTING MOOD: Cool dusk sky + warm tungsten city bokeh + fire-pit warm bounce.
+
+HOOK DISTRIBUTION: Frame 1 sudden flash-glance over-shoulder direct to lens hook at the standing mirror. Frame 4 macro insert on a single mist droplet falling onto the cheek apple. Frame 7 conspiratorial private smile direct to lens at finished face.
+
+SUBJECT ENERGY PROFILE: Champagne-hour ease into focused mid-ritual concentration into conspiratorial sovereign warmth.
+
+MOTION CONTINUITY LOGIC: Bare-faced flash-glance over-shoulder → mist atomized across face → fingertip cream pressed at cheekbone → cream blush warmed at cheek apple → lipstick bullet pressed to lower lip via compact mirror → fine gold ear-cuff slid onto right ear → conspiratorial private smile to lens.
+
+CAMERA LANGUAGE PLAN: F1 over-shoulder vanity follow 35mm. F2 slow push-in 85mm. F3 macro insert 100mm. F4 macro insert 100mm. F5 slow rack-focus near-to-far 85mm. F6 over-shoulder vanity follow 35mm. F7 mirror-reflection slow push-in 85mm.
+
+EXPRESSION CHOREOGRAPHY: F1 sudden flash-glance over-shoulder. F2 closed-eye mist bliss. F3 cream-spreading focused concentration. F4 closed-eye sensory delight. F5 lipstick-bullet lower-lip lock. F6 earring-clasp head-tilt focus variant for ear-cuff slide. F7 conspiratorial private smile.
+
+BODY LANGUAGE PLAN: F1 sudden flash-glance over the right shoulder back to camera. F2 atomizer pump released two centimetres above the face. F3 cream warmed between palms before application. F4 cream blush warmed at cheek apple with two-finger swirl. F5 lower lip pulled slightly down by left index finger before lipstick. F6 fine gold ear-cuff slid up the helix of the right ear with both hands. F7 finger-to-lip shh-gesture released at the close into a soft private smile.
+
+HAIR PHYSICS NOTES: Hair is shoulder-length dark chestnut, dry, soft individual strand separation, swept slightly off the right shoulder; one peak lift of two centimetres at the crown in F1 from the flash-glance and again in F7 from the smile release.
+
+FABRIC MOTION NOTES: Champagne-gold liquid-satin slip dress with bias-cut hand-rolled hem, two thin straps, soft drape across the bust line. The right strap trembles two millimetres on the flash-glance in F1 and again on the smile release in F7.
+
+LIGHTING PHYSICS NOTES: Cool dusk sky from camera-right through the floor-to-ceiling window falls in a low cool wash across the right shoulder and clavicle. Warm tungsten city bokeh from outside the window catches the back of the chestnut crown and warms the brushed-champagne-gold hardware. A faint fire-pit warm bounce from a distant outdoor terrace below adds a low warm fill to the under-jaw shadow. Skin reads warm-bare in F1 and reaches champagne-glow peak in F7.
+
+BEAUTY PRODUCT INTERACTION PLAN: F1 no product, both hands resting on the champagne-marble console. F2 heavy crystal-cut atomizer of champagne-toned facial mist with brushed-champagne-gold collar in the right hand, atomizer pumped twice two centimetres above the face. F3 frosted-glass cream jar open at frame-left of console, fingertip-warmed cream pressed at the right cheekbone. F4 oxblood-glaze ceramic cream-blush pot uncapped in the left hand, two-finger swirl across the right cheek apple. F5 flat lacquered-champagne lipstick compact open in the left hand showing the built-in mirror, slim brushed-champagne-gold bullet held in the right hand pressed to the lower lip. F6 fine gold ear-cuff lifted from a small porcelain dish on the console and slid up the helix of the right ear with both hands. F7 all products arrayed on the champagne-marble console in a finished still-life.
+
+VIEWER ENGAGEMENT MOMENTS: F1 sudden flash-glance over-shoulder direct to lens. F4 mist-droplet macro anticipation. F7 conspiratorial private smile direct to lens.
+
+ANTI-ILLUSTRATION SAFEGUARDS: Visible pore micro-detail at jawline, eyelash fiber separation in F4, real water-droplet cone fall-out from the atomizer in F2, real cream-spread micro-streaking on cheekbone in F3, real specular highlight on brushed-champagne-gold hardware, real liquid-satin weave with hand-rolled hem.
+
+HYPERREAL COMMERCIAL TEXTURE LANGUAGE: Wong Kar-wai dusk-window editorial reference with warm tungsten city bokeh, raw cinematic 8k, no CGI bloom, no plastic skin.
+
+FOOTWEAR STRING: Champagne metallic-leather slim-strap sandals with a covered almond toe, three-centimetre tonal heel, leather sole, single hand-rolled tonal piping at the topline, soles resting on warm walnut parquet.
+
+---
+
+### FRAME 1 — IMAGE PROMPT
+
+9:16 aspect ratio, strictly photorealistic, ultra-realistic, 8k resolution, raw cinematic beauty-campaign aesthetic, hyperreal commercial texture, anti-illustration, anti-comic-book, anti-CGI, real-camera lens behavior, shallow depth of field.
+
+SPATIAL ANCHOR: subject positioned in left-third of frame standing at the slim champagne-marble console, body in three-quarter angle to camera-right with right shoulder closer to camera, head turning sharply over the right shoulder back toward camera, dominant cool dusk sky from camera-right through the floor-to-ceiling window, secondary warm tungsten city bokeh from camera-right outside the window catching the back of the chestnut crown, oval brushed-champagne-gold standing mirror at center-frame mid-ground, tall narrow crystal vase of single white peony at far frame-left, velvet champagne-toned bench at lower frame edge. Camera frames the real subject from chest up over the right shoulder. Composition is locked. Frame is NOT mirrored. Penthouse dressing nook with floor-to-ceiling window at frame-right, slim champagne-marble console at frame-foreground, warm walnut parquet underfoot, faint champagne-hour particulate visible in the warm tungsten bokeh.
+
+Subject is Aira (use face reference images), exactly 18 years old, fuller thighs, fuller arms, fuller hips, perfectly flat belly, pristine flawless skin with no freckles, bare-faced unguarded skin with a faint warm cheek warmth from the warm tungsten bokeh. Outfit champagne-gold liquid-satin slip dress with bias-cut hand-rolled hem, two thin straps, soft drape across the bust line. Hair shoulder-length dark chestnut, dry, soft individual strand separation, swept slightly off the right shoulder, one peak lift of two centimetres at the crown from the flash-glance turn. Makeup none, brows in their natural shape, lashes bare, lips natural rose-pink. Jewelry none. Footwear champagne metallic-leather slim-strap sandals with a covered almond toe, three-centimetre tonal heel, leather sole, single hand-rolled tonal piping at the topline, soles resting on warm walnut parquet. Product none in hand.
+
+L-arm: relaxed, left hand resting palm-down on the champagne-marble console edge.
+R-arm: relaxed, right hand resting at the right hip.
+L-leg: weight-bearing, hip stacked over heel.
+R-leg: relaxed, knee softly bent and turned slightly toward the console.
+Feet: both flat on warm walnut parquet inside the metallic-leather sandals.
+Waist: angled three-quarters camera-right.
+Head: turning sharply over the right shoulder back toward camera, chin slightly lifted.
+Gaze: locked direct to the lens with a single specular glint of warm tungsten bokeh in each eye.
+Expr: sudden flash-glance over-shoulder, mouth held in an open soft anticipation parted at one millimetre, brows neutral and minutely lifted.
+
+Medium close-up, over-shoulder vanity follow position, 35mm lens, left-third Rule of Thirds alignment, f/2.8, over-shoulder vanity follow.
+
+---
+
+### FRAME 1 — VEO VIDEO PROMPT
+
+Camera & Lens: over-shoulder vanity follow at chest height, 35mm lens, shallow depth of field, eight-second slow lateral track from camera-left to camera-right behind the subject's right shoulder.
+Subject: young woman standing at the champagne-marble console, turning her head sharply over the right shoulder back toward the lens at slow speed, gaze locking direct to camera at the close.
+Action & Physics: chestnut strands lift two centimetres at the crown from the head turn and settle by one millimetre after the lock, the right strap of the liquid-satin slip dress trembles two millimetres at the shoulder, lips part one millimetre on a soft anticipation inhale.
+Environment: warm tungsten city-bokeh lights outside the floor-to-ceiling window twinkle minutely as the dusk sky deepens.
+Lighting: dominant cool dusk sky from camera-right, secondary warm tungsten city bokeh from camera-right outside the window, faint fire-pit warm bounce from below.
+Style: hyperreal commercial texture, Wong Kar-wai dusk-window editorial referencing, no CGI bloom, no plastic skin.
+Audio: faint distant city traffic far below, soft single inhale, distant clink of a single glass.
+Negative: no subtitles, no on-screen text, no morphing, no warping, no captions, no logos.
+
+---
+
+### FRAME 2 — IMAGE PROMPT
+
+9:16 aspect ratio, strictly photorealistic, ultra-realistic, 8k resolution, raw cinematic beauty-campaign aesthetic, hyperreal commercial texture, anti-illustration, anti-comic-book, anti-CGI, real-camera lens behavior, shallow depth of field.
+
+SPATIAL ANCHOR: subject positioned in center-third of frame standing at the champagne-marble console, body angled toward camera with chin lifted upward, heavy crystal-cut atomizer held in the right hand at center-frame approximately fifteen centimetres above the face, dominant cool dusk sky from camera-right through the floor-to-ceiling window, secondary warm tungsten city bokeh from camera-right outside the window, oval standing mirror in soft-focus background, slim champagne-marble console at frame-foreground. Camera frames the real subject from chest up. Composition is locked. Frame is NOT mirrored. Penthouse dressing nook with floor-to-ceiling window at frame-right, warm walnut parquet underfoot.
+
+Subject is Aira (use face reference images), exactly 18 years old, fuller thighs, fuller arms, fuller hips, perfectly flat belly, pristine flawless skin with no freckles, mid-ritual flush beginning at the cheek and clavicle from the cool mist contact. Outfit champagne-gold liquid-satin slip dress with bias-cut hand-rolled hem, two thin straps. Hair dry tousle. Makeup none yet. Jewelry none. Footwear champagne metallic-leather slim-strap sandals with a covered almond toe, three-centimetre tonal heel, leather sole, single hand-rolled tonal piping at the topline, soles resting on warm walnut parquet. Product heavy crystal-cut atomizer of champagne-toned facial mist with brushed-champagne-gold collar in the right hand, atomizer pump just released, fine champagne-toned mist plume falling in a soft cone across the upper face and clavicle.
+
+L-arm: relaxed, left hand resting at the champagne-marble console edge.
+R-arm: lifted high, right hand pinching the crystal atomizer between thumb and index finger, atomizer nozzle pointed downward at the face.
+L-leg: weight-bearing.
+R-leg: relaxed, knee softly bent.
+Feet: both flat on warm walnut parquet inside the metallic-leather sandals.
+Waist: square to camera.
+Head: tilted three degrees back, chin lifted upward to receive the mist.
+Gaze: closed, lashes resting on cheek.
+Expr: closed-eye mist bliss, mouth softly closed with one upward corner pull, brows neutral and lifted at the inner corners.
+
+Medium close-up, front position, 85mm lens, center-third Rule of Thirds alignment, f/2.0, slow push-in.
+
+---
+
+### FRAME 2 — VEO VIDEO PROMPT
+
+Camera & Lens: slow push-in from chest distance to medium close-up, eye-level, 85mm lens, shallow depth of field, eight-second smooth dolly forward of fifteen centimetres.
+Subject: young woman lifting the right hand high above the face and pressing the crystal atomizer twice in two slow presses, head tilted back with chin upward, eyes closed at slow speed.
+Action & Physics: a fine champagne-toned mist plume releases in a soft downward cone with each press and falls slowly across the upper face and clavicle settling as fine droplets along the cheekbone, chestnut ends settle two millimetres at the clavicle, the right strap of the liquid-satin slip dress trembles once.
+Environment: warm tungsten city-bokeh lights outside the window twinkle minutely.
+Lighting: dominant cool dusk sky from camera-right catching the mist plume in volumetric specular, secondary warm tungsten city bokeh from camera-right warming the brushed-champagne-gold collar, faint fire-pit warm bounce from below.
+Style: hyperreal commercial texture, Wong Kar-wai dusk-window editorial referencing, no CGI bloom, no plastic skin.
+Audio: soft atomizer hiss twice, single quiet inhale, distant city traffic.
+Negative: no subtitles, no on-screen text, no morphing, no warping, no captions, no logos.
+
+---
+
+### FRAME 3 — IMAGE PROMPT
+
+9:16 aspect ratio, strictly photorealistic, ultra-realistic, 8k resolution, raw cinematic beauty-campaign aesthetic, hyperreal commercial texture, anti-illustration, anti-comic-book, anti-CGI, real-camera lens behavior, shallow depth of field.
+
+SPATIAL ANCHOR: subject positioned in center-third of frame, the right cheek and cheekbone occupy the macro insert, body out of frame below the clavicle, dominant cool dusk sky from camera-right, secondary warm tungsten city bokeh from camera-right outside the window catching the temple skin in soft warm specular, frosted-glass cream jar implied at lower frame-left edge by a single warm specular. Camera frames a macro insert on the right cheek and cheekbone. Camera-side orientation is locked. Frame is NOT mirrored. Penthouse dressing nook implied at lower frame edge by warm walnut specular.
+
+Subject is Aira (use face reference images), exactly 18 years old, fuller thighs, fuller arms, fuller hips, perfectly flat belly, pristine flawless skin with no freckles, mid-ritual sheen across the visible cheek with fine champagne mist droplets still beading along the cheekbone. Outfit champagne-gold liquid-satin slip dress with bias-cut hand-rolled hem. Hair dry, ends resting on the clavicle. Makeup base mid-application, a translucent champagne-toned dewy wash beginning at the cheek apple, no eye yet, no lip. Jewelry none. Footwear champagne metallic-leather slim-strap sandals with a covered almond toe, three-centimetre tonal heel, leather sole, single hand-rolled tonal piping at the topline, soles resting on warm walnut parquet. Product fingertip-warmed cream visible as a faint glossy film on the right ring fingertip pressed gently at the right cheekbone with a hairline cream micro-streak running toward the temple.
+
+L-arm: out of frame, hand resting at the champagne-marble console edge.
+R-arm: lifted, right ring fingertip pressed gently at the right cheekbone with a hairline cream micro-streak.
+L-leg: out of frame.
+R-leg: out of frame.
+Feet: out of frame.
+Waist: out of frame.
+Head: tilted four degrees toward camera-left, chin slightly lifted.
+Gaze: lowered to the cheek line in concentration.
+Expr: cream-spreading focused concentration, lips softly closed with one millimetre of upward corner lift, brows drawn one millimetre inward at the inner corners.
+
+Macro insert, 45-degree position from camera-right, 100mm macro lens, center-third Rule of Thirds alignment, f/2.8, macro insert with handheld micro-shake.
+
+---
+
+### FRAME 3 — VEO VIDEO PROMPT
+
+Camera & Lens: macro insert at cheek height, 100mm macro lens, shallow depth of field, eight-second hold with the gentlest handheld micro-shake.
+Subject: young woman drawing the right ring fingertip slowly from cheekbone toward temple at slow speed, head tilting four degrees toward camera-left.
+Action & Physics: a hairline cream micro-streak blooms along the cheekbone-to-temple line and absorbs into the skin within three seconds leaving a champagne-toned specular sheen, fine mist droplets at the cheekbone tremble and absorb, a single fine chestnut strand drifts across the cheek and settles.
+Environment: warm tungsten city-bokeh lights outside the window twinkle minutely.
+Lighting: dominant cool dusk sky from camera-right, secondary warm tungsten city bokeh from camera-right warming the underside of the cheekbone, faint fire-pit warm bounce from below.
+Style: hyperreal commercial texture, Wong Kar-wai dusk-window editorial referencing, no CGI bloom, no plastic skin.
+Audio: soft fingertip-on-skin whisper, gentle exhale, distant clink of a single glass.
+Negative: no subtitles, no on-screen text, no morphing, no warping, no captions, no logos.
+
+---
+
+### FRAME 4 — IMAGE PROMPT
+
+9:16 aspect ratio, strictly photorealistic, ultra-realistic, 8k resolution, raw cinematic beauty-campaign aesthetic, hyperreal commercial texture, anti-illustration, anti-comic-book, anti-CGI, real-camera lens behavior, shallow depth of field.
+
+SPATIAL ANCHOR: subject positioned in center-third of frame, the right cheek apple and the right index and middle fingertips occupy the macro insert, body out of frame below the cheek line, dominant cool dusk sky from camera-right, secondary warm tungsten city bokeh from camera-right warming the cheek apex, oxblood-glaze ceramic cream-blush pot implied at lower frame-left edge by a single warm specular. Camera frames a macro insert on the right cheek apple. Composition is locked. Frame is NOT mirrored. Penthouse dressing nook implied at lower frame edge by warm walnut specular.
+
+Subject is Aira (use face reference images), exactly 18 years old, fuller thighs, fuller arms, fuller hips, perfectly flat belly, pristine flawless skin with no freckles, mid-ritual champagne-toned sheen across the visible cheek apple, blush mid-application. Outfit champagne-gold liquid-satin slip dress with bias-cut hand-rolled hem. Hair dry tousle. Makeup base done, blush mid-application at cheek apple, no eye yet, no lip. Jewelry none. Footwear champagne metallic-leather slim-strap sandals with a covered almond toe, three-centimetre tonal heel, leather sole, single hand-rolled tonal piping at the topline, soles resting on warm walnut parquet. Product right index and middle fingertips swirling soft champagne-rose cream blush across the right cheek apple in three slow circles, visible warm pigment pickup on both fingertips.
+
+L-arm: out of frame, hand cradling the cream-blush pot.
+R-arm: lifted, right index and middle fingertips swirling cream blush across the right cheek apple.
+L-leg: out of frame.
+R-leg: out of frame.
+Feet: out of frame.
+Waist: out of frame.
+Head: tilted three degrees toward camera-left, eyes closed.
+Gaze: closed, lashes resting on cheek.
+Expr: closed-eye sensory delight, mouth held in a soft closed smile with both upward corner pulls even, lashes fanned and catching the warm tungsten bokeh.
+
+Macro insert, front position, 100mm macro lens, center-third Rule of Thirds alignment, f/2.8, macro insert locked-off.
+
+---
+
+### FRAME 4 — VEO VIDEO PROMPT
+
+Camera & Lens: locked-off macro insert at cheek height, 100mm macro lens, shallow depth of field, eight-second hold with no camera move.
+Subject: young woman swirling cream blush onto the right cheek apple in three slow circles with right index and middle fingertips at slow speed, head tilted three degrees toward camera-left with eyes closed.
+Action & Physics: a soft champagne-rose flush blooms at the cheek apple under the swirling fingertips, warm tungsten bokeh trembles minutely across the cheek apex, a single fine chestnut strand drifts across the cheek and settles.
+Environment: warm tungsten city-bokeh lights outside the window twinkle minutely.
+Lighting: dominant cool dusk sky from camera-right, secondary warm tungsten city bokeh from camera-right, faint fire-pit warm bounce from below.
+Style: hyperreal commercial texture, Wong Kar-wai dusk-window editorial referencing, no CGI bloom, no plastic skin.
+Audio: soft fingertip-on-skin swirl, calm breath, distant clink of a single glass.
+Negative: no subtitles, no on-screen text, no morphing, no warping, no captions, no logos.
+
+---
+
+### FRAME 5 — IMAGE PROMPT
+
+9:16 aspect ratio, strictly photorealistic, ultra-realistic, 8k resolution, raw cinematic beauty-campaign aesthetic, hyperreal commercial texture, anti-illustration, anti-comic-book, anti-CGI, real-camera lens behavior, shallow depth of field.
+
+SPATIAL ANCHOR: subject positioned in center-third of frame standing at the champagne-marble console, body angled toward camera, both shoulders square to camera, flat lacquered-champagne lipstick compact open in the left hand at chest height showing the built-in mirror facing the subject, slim brushed-champagne-gold lipstick bullet held in the right hand at lip height, dominant cool dusk sky from camera-right, secondary warm tungsten city bokeh from camera-right, oval standing mirror in deep soft-focus background, slim champagne-marble console at frame-foreground. Camera frames the real subject from chest up. Composition is locked. Frame is NOT mirrored. Penthouse dressing nook with floor-to-ceiling window at frame-right, warm walnut parquet underfoot.
+
+Subject is Aira (use face reference images), exactly 18 years old, fuller thighs, fuller arms, fuller hips, perfectly flat belly, pristine flawless skin with no freckles, finished base and blush visible, eye finished with a single coat of champagne-toned satin lid wash and a single coat of mascara, lip mid-application. Outfit champagne-gold liquid-satin slip dress with bias-cut hand-rolled hem. Hair dry tousle. Makeup base done, blush done, eye done, lip mid-application. Jewelry none. Footwear champagne metallic-leather slim-strap sandals with a covered almond toe, three-centimetre tonal heel, leather sole, single hand-rolled tonal piping at the topline, soles resting on warm walnut parquet. Product flat lacquered-champagne lipstick compact open in the left hand showing the built-in mirror, slim brushed-champagne-gold lipstick bullet pinched in the right hand and pressed gently to the centre of the lower lip.
+
+L-arm: lifted, left hand cradling the open lipstick compact at chest height with the built-in mirror facing the subject.
+R-arm: lifted, lipstick bullet pinched between right thumb and middle finger, bullet pressed to lower lip.
+L-leg: weight-bearing.
+R-leg: relaxed, knee softly bent.
+Feet: both flat on warm walnut parquet inside the metallic-leather sandals.
+Waist: square to camera.
+Head: square to camera, chin slightly lifted.
+Gaze: lowered toward the lower lip via the built-in mirror in concentration.
+Expr: lipstick-bullet lower-lip lock, mouth held in a soft relaxed O, eyes downcast with lashes fanned and catching the warm tungsten bokeh.
+
+Medium close-up, front position, 85mm lens, center-third Rule of Thirds alignment, f/2.0, slow rack-focus near-to-far from lipstick bullet to floor-to-ceiling window bokeh.
+
+---
+
+### FRAME 5 — VEO VIDEO PROMPT
+
+Camera & Lens: slow rack-focus near-to-far from lipstick bullet to the floor-to-ceiling window city bokeh, eye-level, 85mm lens, shallow depth of field, eight-second smooth focus pull.
+Subject: young woman pressing a slim champagne-rose lipstick bullet to the lower lip and drawing the bullet from lip-centre outward to the right corner at slow speed, left hand holding the open compact mirror steady at chest height.
+Action & Physics: a soft champagne-rose pigment trail follows the bullet across the lower lip, the lip surface flexes minutely, focus shifts cleanly from foreground bullet to background city bokeh over the eight seconds turning the warm tungsten dots into soft glowing circles.
+Environment: warm tungsten city-bokeh lights outside the window twinkle minutely as the focus pulls past the bullet.
+Lighting: dominant cool dusk sky from camera-right, secondary warm tungsten city bokeh from camera-right, faint fire-pit warm bounce from below.
+Style: hyperreal commercial texture, Wong Kar-wai dusk-window editorial referencing, no CGI bloom, no plastic skin.
+Audio: soft lipstick-on-lip whisper, single quiet exhale, distant city traffic.
+Negative: no subtitles, no on-screen text, no morphing, no warping, no captions, no logos.
+
+---
+
+### FRAME 6 — IMAGE PROMPT
+
+9:16 aspect ratio, strictly photorealistic, ultra-realistic, 8k resolution, raw cinematic beauty-campaign aesthetic, hyperreal commercial texture, anti-illustration, anti-comic-book, anti-CGI, real-camera lens behavior, shallow depth of field.
+
+SPATIAL ANCHOR: subject positioned in right-third of frame standing at the champagne-marble console, body in three-quarter angle to camera-left with right shoulder closer to camera, both hands lifted to the right ear, dominant cool dusk sky from camera-right, secondary warm tungsten city bokeh from camera-right catching the gold ear-cuff hardware, oval standing mirror in soft-focus background at frame-left, slim champagne-marble console at frame-foreground with porcelain dish now empty at frame-right of console. Camera frames the real subject from chest up over the right shoulder. Composition is locked. Frame is NOT mirrored. Penthouse dressing nook with floor-to-ceiling window at frame-right.
+
+Subject is Aira (use face reference images), exactly 18 years old, fuller thighs, fuller arms, fuller hips, perfectly flat belly, pristine flawless skin with no freckles, finished base, blush, eye, and lip visible, jewelry mid-application. Outfit champagne-gold liquid-satin slip dress with bias-cut hand-rolled hem. Hair dry tousle. Makeup all stages done. Jewelry single fine gold ear-cuff lifted from the porcelain dish, mid-sliding up the helix of the right ear by both hands. Footwear champagne metallic-leather slim-strap sandals with a covered almond toe, three-centimetre tonal heel, leather sole, single hand-rolled tonal piping at the topline, soles resting on warm walnut parquet. Product no product in hand; both hands occupied with the ear-cuff.
+
+L-arm: lifted, left hand fingertips pinching the ear-cuff from below at the right ear.
+R-arm: lifted, right hand fingertips guiding the ear-cuff up the helix of the right ear.
+L-leg: weight-bearing.
+R-leg: relaxed, knee softly bent.
+Feet: both flat on warm walnut parquet inside the metallic-leather sandals.
+Waist: angled three-quarters camera-left.
+Head: tilted four degrees toward camera-left, chin slightly lifted to expose the right ear.
+Gaze: lowered toward the right ear in concentration.
+Expr: earring-clasp head-tilt focus variant for ear-cuff slide, mouth softly closed with one upward corner lift, lashes catching the warm tungsten bokeh.
+
+Medium close-up, over-shoulder vanity follow position, 35mm lens, right-third Rule of Thirds alignment, f/2.8, over-shoulder vanity follow.
+
+---
+
+### FRAME 6 — VEO VIDEO PROMPT
+
+Camera & Lens: over-shoulder vanity follow at chest height, 35mm lens, shallow depth of field, eight-second slow lateral track from camera-right to camera-left behind the subject's right shoulder.
+Subject: young woman sliding a fine gold ear-cuff up the helix of the right ear with both hands at slow speed, head tilting four degrees toward camera-left.
+Action & Physics: the gold ear-cuff slides one centimetre up the helix and clicks softly into place, warm tungsten bokeh catches the gold hardware in a single specular bead, chestnut strands at the right shoulder hold their shape, the right strap of the liquid-satin slip dress trembles once.
+Environment: warm tungsten city-bokeh lights outside the window twinkle minutely.
+Lighting: dominant cool dusk sky from camera-right, secondary warm tungsten city bokeh from camera-right catching the gold ear-cuff, faint fire-pit warm bounce from below.
+Style: hyperreal commercial texture, Wong Kar-wai dusk-window editorial referencing, no CGI bloom, no plastic skin.
+Audio: soft ear-cuff click, calm exhale, distant clink of a single glass.
+Negative: no subtitles, no on-screen text, no morphing, no warping, no captions, no logos.
+
+---
+
+### FRAME 7 — IMAGE PROMPT
+
+9:16 aspect ratio, strictly photorealistic, ultra-realistic, 8k resolution, raw cinematic beauty-campaign aesthetic, hyperreal commercial texture, anti-illustration, anti-comic-book, anti-CGI, real-camera lens behavior, shallow depth of field.
+
+SPATIAL ANCHOR: subject positioned in center-third of frame standing in front of the oval brushed-champagne-gold standing mirror, body angled toward camera, both shoulders square to camera, dominant cool dusk sky from camera-right through the floor-to-ceiling window, secondary warm tungsten city bokeh from camera-right outside the window catching the back of the chestnut crown and the fine gold ear-cuff, oval standing mirror in foreground reflection plane, slim champagne-marble console at frame-foreground with all products arrayed in a finished still-life — crystal atomizer at frame-left, cream jar center-foreground, cream-blush pot, lipstick compact closed and lipstick bullet at frame-right, porcelain dish now empty. Camera frames the mirror reflection only; the subject's real body is at named position standing directly in front of the mirror with her back to the camera. Spatial layout is fixed. Frame is NOT mirrored. Penthouse dressing nook with floor-to-ceiling window at frame-right reflected in the standing mirror, velvet champagne-toned bench at lower frame edge.
+
+Subject is Aira (use face reference images), exactly 18 years old, fuller thighs, fuller arms, fuller hips, perfectly flat belly, pristine flawless skin with no freckles, finished-look soft glow at full legibility — champagne-glow finish with a soft-flushed cheek, satin champagne-rose lip, single fine gold ear-cuff catching tungsten bokeh. Outfit champagne-gold liquid-satin slip dress with bias-cut hand-rolled hem, two thin straps, soft drape across the bust line. Hair dry tousle, one peak lift of two centimetres at the crown. Makeup finished. Jewelry single fine gold ear-cuff at the right ear. Footwear champagne metallic-leather slim-strap sandals with a covered almond toe, three-centimetre tonal heel, leather sole, single hand-rolled tonal piping at the topline, soles resting on warm walnut parquet. Product all products arrayed on the champagne-marble console in a finished still-life.
+
+L-arm: lifted, left index fingertip just released from the lips after a soft finger-to-lip shh-gesture into a private smile.
+R-arm: relaxed, right hand resting at the right hip with the fingertips brushing the liquid-satin hem.
+L-leg: weight-bearing.
+R-leg: relaxed, knee softly bent.
+Feet: both flat on warm walnut parquet inside the metallic-leather sandals.
+Waist: square to mirror.
+Head: tilted three degrees toward camera-right, chin slightly down.
+Gaze: locked into her own reflected eyes in the standing mirror, reading as direct eye-contact to the lens, with a single specular glint of warm tungsten bokeh in each eye.
+Expr: conspiratorial private smile, mouth held in a closed soft smile with one upward corner pulled half a centimetre higher than the other and the left index fingertip just released from the lips, lashes fanned and catching the warm tungsten bokeh.
+
+Medium close-up, mirror reflection slow push-in, 85mm lens, center-third Rule of Thirds alignment, f/2.0, mirror-reflection slow push-in.
+
+---
+
+### FRAME 7 — VEO VIDEO PROMPT
+
+Camera & Lens: mirror-reflection slow push-in toward the reflected face, eye-level with the oval brushed-champagne-gold standing mirror, 85mm lens, shallow depth of field, eight-second smooth dolly forward of twenty centimetres.
+Subject: young woman releasing a soft finger-to-lip shh-gesture from the lips into a closed conspiratorial private smile at slow speed, head tilting three degrees toward camera-right, gaze locked direct to the lens via the mirror.
+Action & Physics: the left index fingertip lifts away from the lips by one centimetre and the closed soft smile holds for the full eight seconds with one corner pulled a half-centimetre higher than the other, chestnut tousle settles by two millimetres at the crown, the right strap of the liquid-satin slip dress trembles once, the gold ear-cuff catches a moving specular bead from the warm tungsten bokeh as the camera pushes in.
+Environment: warm tungsten city-bokeh lights outside the window twinkle minutely as the focus pushes past.
+Lighting: dominant cool dusk sky from camera-right, secondary warm tungsten city bokeh from camera-right warming the brushed-champagne-gold hardware in the still-life, faint fire-pit warm bounce from below.
+Style: hyperreal commercial texture, Wong Kar-wai dusk-window editorial referencing, no CGI bloom, no plastic skin.
+Audio: soft fingertip-from-lip release, single quiet exhale into a private smile, distant city traffic.
+Negative: no subtitles, no on-screen text, no morphing, no warping, no captions, no logos.
+
+---
