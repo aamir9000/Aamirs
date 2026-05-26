@@ -837,3 +837,800 @@ Audio: soft kiss release breath, sea breeze, distant church bell, faint cicadas.
 Negative: no subtitles, no on-screen text, no morphing, no warping, no captions, no logos.
 
 ---
+
+
+
+## CONCEPT 04 — MARRAKECH RIAD COURTYARD (TRAVEL / NORTH AFRICA / GARDEN RITUAL)
+
+**20-WORD REEL SUMMARY:** Aira moves through a tiled riad courtyard, trails fingers in fountain water, lifts a tea glass, and laughs.
+
+**WORLD / THEME:** Private riad courtyard in Marrakech medina, late afternoon, mint-tea ritual.
+
+**HERO PRODUCT:** Hand-blown Moroccan tea glass with gold-leaf rim and engraved hand-cut floral pattern. Supporting: a small brass tea pot with long curved spout.
+
+**ENVIRONMENT IDENTITY:** Riad inner courtyard, hand-cut zellige mosaic walls in cobalt and saffron, central marble fountain with rose petals floating, foreground brass tea tray on a low carved cedar table, mid-frame potted citrus tree, soft-focus carved cedar archway deep background, dust motes drifting in shafted sun.
+
+**LIGHTING MOOD:** Warm overhead direct sun shafting through open courtyard roof (camera-front-above, hard, 3000K) + cool stone-and-tile bounce from camera-back (soft, 5500K).
+
+**HOOK DISTRIBUTION:** F1 environmental archway reveal with anticipation lifted brow. F3 fountain-water fingertip macro. F5 tea-glass-to-lip closed-eye warmth. F7 over-shoulder warm seal at archway.
+
+**SUBJECT ENERGY PROFILE:** Slow, sensorial, attentive to texture. Owning the light.
+
+**MOTION CONTINUITY LOGIC:** Steps under cedar archway → trails fingertips along zellige wall → kneels at fountain trailing fingers in water → rises and lifts tea glass at tray → sips with closed eyes → spins half-turn into golden shaft → glance back over shoulder at archway exit.
+
+**CAMERA LANGUAGE PLAN:** F1 low-angle pedestal rise 35mm. F2 dolly right 50mm. F3 macro insert 100mm. F4 half-arc orbit 50mm. F5 rack focus near-to-far 85mm. F6 crane rise 35mm. F7 slow pull-out 50mm.
+
+**EXPRESSION CHOREOGRAPHY:** F1 anticipation lifted brow at product. F2 quiet drifting calm. F3 closed-eye sensory delight. F4 reverent product gaze. F5 closed-eye sip warmth. F6 dreamy half-twirl gaze. F7 over-shoulder warm seal.
+
+**BODY LANGUAGE PLAN:** F1 right palm flat against carved cedar archway frame. F2 left fingertips trailing zellige tile pattern. F3 right fingertips trailing fountain water surface. F4 both hands lifting brass tea pot to glass. F5 right hand cradling tea glass at lip. F6 arms lifted softly outward in half-spin. F7 right hand trailing along fountain rim mid-step.
+
+**HAIR PHYSICS NOTES:** Mid-back length warm caramel waves with sun-bleached ends, individual strand separation. Lift heights: F3 2cm forward fall on the kneel, F6 9cm fan in the half-spin, F7 4cm trailing on the exit step.
+
+**FABRIC MOTION NOTES:** Outfit — saffron-yellow silk-blend kaftan dress with hand-embroidered ivory trim at neckline and cuffs, soft tan suede belt at waist, no scarf. Kaftan hem flutters 4cm in F1 entry, sleeves lift 3cm on F4 pour, full skirt fans 12cm in F6 spin, hem trails 3cm in F7.
+
+**LIGHTING PHYSICS NOTES:** Warm sun shaft cuts a hard golden column through the courtyard catching dust motes. Cool tile bounce wraps the shadow side in soft blue-white. Fountain water throws moving caustics across her cheek in F3.
+
+**BEAUTY PRODUCT INTERACTION PLAN:** F1 tea glass not yet present. F2 tea glass visible in soft focus on tray. F3 glass on tray, fountain contact instead. F4 brass pot lifted, glass receiving golden tea stream. F5 glass at lips full contact. F6 glass left on tray as she spins. F7 glass framed on tray in deep foreground as she exits.
+
+**VIEWER ENGAGEMENT MOMENTS:** F4 reverent gaze at the pour beat. F7 over-shoulder warm seal direct lens.
+
+**ANTI-ILLUSTRATION SAFEGUARDS:** Real zellige glaze irregularity, real fountain water surface tension, real silk-blend weave, real gold-leaf imperfection on glass rim, real dust-mote particulate.
+
+**HYPERREAL COMMERCIAL TEXTURE LANGUAGE:** Bradford Young warm-shadow palette, raw cinematic 8k, Arri Alexa LF skin science, no CGI bloom, no plastic skin.
+
+**FOOTWEAR STRING:** Hand-stitched soft tan leather babouche slippers, almond rounded toe, 0cm flat sole, hand-burnished leather outsole with single visible saddle stitch, embossed traditional medina pattern across the vamp.
+
+---
+
+### FRAME 1 — IMAGE PROMPT
+
+9:16 aspect ratio, strictly photorealistic, ultra-realistic, 8k resolution, raw cinematic beauty-campaign aesthetic, hyperreal commercial texture, anti-illustration, anti-comic-book, anti-CGI, real-camera lens behavior, shallow depth of field.
+
+SPATIAL ANCHOR: subject in right-third of frame, body angled toward camera-left, left shoulder closer to lens, dominant warm sun shaft from camera-front-above, cool tile bounce from camera-back, carved cedar archway frame-right at hand-height, fountain mid-frame background, brass tea tray foreground frame-left. Composition is locked. Frame is NOT mirrored. Riad courtyard entrance. Carved cedar archway on the right with hand-chiseled detail, zellige mosaic wall in cobalt and saffron mid-frame, marble fountain with rose petals deep background, brass tea tray on cedar table foreground frame-left, dust motes drifting in golden shaft.
+
+Subject is Aira, mid-twenties adult woman, confident editorial presence, natural cinematic skin texture with a warm sun-glow on the cheekbone closest to lens. Saffron-yellow silk-blend kaftan dress with hand-embroidered ivory trim, soft tan suede belt at waist. Mid-back caramel waves with sun-bleached ends, settled. Glowing warm-toned base, terracotta blush, warm-spice satin lip, softly defined brow, dewy finish. Small antique gold filigree hoop earrings, two stacked thin gold rings on right index finger. Hand-stitched soft tan leather babouche slippers, almond rounded toe, 0cm flat sole, hand-burnished leather outsole with single visible saddle stitch, embossed traditional medina pattern across the vamp. Product not yet held — right palm flat against carved cedar archway frame.
+
+L-arm: relaxed at side
+R-arm: extended forward, palm flat against carved cedar archway
+L-leg: planted, weight-bearing
+R-leg: half-step forward into courtyard
+Feet: babouches on warm tile, soft shadow beneath
+Waist: square to archway, slight torque toward camera
+Head: tilted up two degrees toward courtyard interior
+Gaze: into courtyard past lens
+Expr: anticipation lifted brow at product, eyebrow raised one notch with lips softly parted
+
+Medium-wide, low-angle from courtyard tile level, 35mm lens, right-third alignment, f/2.5, low-angle pedestal rise.
+
+### FRAME 1 — VEO VIDEO PROMPT
+
+Camera: low-angle pedestal rise 35mm, shallow depth of field, eight-second slow vertical lift from tile height to standing eye-level.
+Subject: young woman, palm pressing carved cedar archway, right hand, forward, slow.
+Action and physics: kaftan hem flutters 4cm at the knee, caramel hair settles 1cm against the jawline, dust motes spiral in the warm sun shaft.
+Environment: rose petal in fountain rotates one quarter-turn in deep background.
+Lighting: warm sun shaft from camera-front-above, cool tile bounce from camera-back.
+Style: hyperreal commercial texture, Bradford Young warm-shadow palette, no CGI bloom, no plastic skin.
+Audio: distant fountain trickle, faint medina call, soft slipper-on-tile.
+Negative: no subtitles, no on-screen text, no morphing, no warping, no captions, no logos.
+
+---
+
+### FRAME 2 — IMAGE PROMPT
+
+9:16 aspect ratio, strictly photorealistic, ultra-realistic, 8k resolution, raw cinematic beauty-campaign aesthetic, hyperreal commercial texture, anti-illustration, anti-comic-book, anti-CGI, real-camera lens behavior, shallow depth of field.
+
+SPATIAL ANCHOR: subject in center-third, body angled three-quarter to camera-right walking past zellige wall, left fingertips trailing along the wall surface, warm sun shaft from camera-front-above, cool tile bounce from camera-back, zellige wall foreground frame-left, fountain mid-frame, brass tray frame-right background. Spatial layout is fixed. Frame is NOT mirrored. Courtyard interior path. Cobalt and saffron zellige wall in foreground frame-left, marble fountain mid-frame, potted citrus tree behind her camera-right, brass tea tray soft-focus deep background frame-right.
+
+Subject is Aira, mid-twenties adult woman, confident editorial presence, natural cinematic skin texture with subtle warmth across the bridge of the nose. Saffron-yellow silk-blend kaftan dress with hand-embroidered ivory trim, soft tan suede belt at waist. Mid-back caramel waves, settled, one strand slipping forward across the cheekbone. Glowing warm-toned base, terracotta blush, warm-spice satin lip, softly defined brow, dewy finish. Small antique gold filigree hoop earrings, two stacked thin gold rings on right index finger. Hand-stitched soft tan leather babouche slippers, almond rounded toe, 0cm flat sole, hand-burnished leather outsole with single visible saddle stitch, embossed traditional medina pattern across the vamp. Product — tea glass visible in soft focus on tray deep background, fingertips on tile is the contact beat.
+
+L-arm: extended back, fingertips trailing zellige tile pattern
+R-arm: relaxed forward, palm open
+L-leg: mid-stride lifted
+R-leg: planted forward
+Feet: babouches on tile, one heel lifted
+Waist: torqued slightly camera-right
+Head: tilted four degrees toward fingertips
+Gaze: drifting along the tile pattern, softly downward
+Expr: quiet drifting calm, lips closed in a soft neutral curve and a slow warm blink
+
+Medium close-up, profile-three-quarter from camera-right, 50mm lens, center-third alignment, f/2.0, dolly right.
+
+### FRAME 2 — VEO VIDEO PROMPT
+
+Camera: dolly right 50mm at chest-height, shallow depth of field, eight-second smooth lateral slide camera-right following her walk.
+Subject: young woman, fingertips trailing zellige tile, left hand, sideways, slow.
+Action and physics: kaftan sleeves drift 2cm trailing the motion, caramel hair lifts 2cm at the temple, fingertips trace 30cm along the tile surface.
+Environment: a single dust mote crosses through the warm shaft.
+Lighting: warm sun shaft from camera-front-above, cool tile bounce from camera-back.
+Style: hyperreal commercial texture, Arri Alexa LF skin science, no CGI bloom, no plastic skin.
+Audio: faint fingertip-on-glaze, distant fountain, soft footstep on warm tile.
+Negative: no subtitles, no on-screen text, no morphing, no warping, no captions, no logos.
+
+---
+
+### FRAME 3 — IMAGE PROMPT
+
+9:16 aspect ratio, strictly photorealistic, ultra-realistic, 8k resolution, raw cinematic beauty-campaign aesthetic, hyperreal commercial texture, anti-illustration, anti-comic-book, anti-CGI, real-camera lens behavior, shallow depth of field.
+
+SPATIAL ANCHOR: subject in left-third of frame, kneeling at fountain edge, right fingertips dipped in water surface, warm sun shaft from camera-front-above, cool tile bounce from camera-back, fountain rim foreground frame-bottom, rose petals floating mid-frame, zellige wall background frame-right. Camera-side orientation is locked. Frame is NOT mirrored. Tight macro on the fountain water. Marble fountain rim in foreground, water surface with floating rose petals and her fingertip dipping breaking surface tension, soft-focus zellige tile background, golden caustic patterns on water.
+
+Subject is Aira, mid-twenties adult woman, confident editorial presence, natural cinematic skin texture with golden caustic light dancing across the cheek. Saffron-yellow silk-blend kaftan dress with hand-embroidered ivory trim, soft tan suede belt at waist. Mid-back caramel waves, falling 2cm forward past collarbone as she kneels. Glowing warm-toned base, terracotta blush, warm-spice satin lip, softly defined brow, dewy finish. Small antique gold filigree hoop earrings, two stacked thin gold rings on right index finger. Hand-stitched soft tan leather babouche slippers, almond rounded toe, 0cm flat sole, hand-burnished leather outsole with single visible saddle stitch, embossed traditional medina pattern across the vamp. Product — tea glass on tray out of frame, fountain water is the contact beat.
+
+L-arm: bent, palm resting on fountain rim
+R-arm: extended forward, fingertips dipping into water surface
+L-leg: kneeling, knee on tile
+R-leg: kneeling, knee on tile
+Feet: babouches tucked beneath, out of frame
+Waist: leaning forward four degrees toward water
+Head: tilted down five degrees toward water
+Gaze: closed eyes, soft sensory focus
+Expr: closed-eye sensory delight, eyelids softly closed and a barely-curved closed-mouth smile
+
+Macro insert, three-quarter angle from camera-right at fountain-rim height, 100mm macro lens, left-third alignment, f/2.8, locked-off macro.
+
+### FRAME 3 — VEO VIDEO PROMPT
+
+Camera: locked-off macro 100mm at fountain-rim height, shallow depth of field, eight-second still-held shot with one micro-rack from fingertip to her face.
+Subject: young woman, dipping fingertips in fountain water, right fingertips, downward, slow.
+Action and physics: water surface tension breaks in concentric ripples, rose petal drifts 2cm camera-right in the disturbance, caramel hair falls 2cm forward across her cheek.
+Environment: caustic light pattern shifts across her chin.
+Lighting: warm sun shaft from camera-front-above, cool tile bounce from camera-back.
+Style: hyperreal commercial texture, Bradford Young warm-shadow palette, no CGI bloom, no plastic skin.
+Audio: soft water surface contact, distant fountain trickle, faint birdsong.
+Negative: no subtitles, no on-screen text, no morphing, no warping, no captions, no logos.
+
+---
+
+### FRAME 4 — IMAGE PROMPT
+
+9:16 aspect ratio, strictly photorealistic, ultra-realistic, 8k resolution, raw cinematic beauty-campaign aesthetic, hyperreal commercial texture, anti-illustration, anti-comic-book, anti-CGI, real-camera lens behavior, shallow depth of field.
+
+SPATIAL ANCHOR: subject in center-third standing at low cedar table, both hands lifting brass tea pot pouring into glass, warm sun shaft from camera-front-above, cool tile bounce from camera-back, brass tray foreground frame-bottom, fountain mid-frame background frame-left, archway deep background frame-right. Composition is locked. Frame is NOT mirrored. Tea ritual at the cedar table. Brass tray with hand-blown tea glass and brass pot in foreground, low cedar table with carved patterns, fountain in soft focus background, dust motes in shaft.
+
+Subject is Aira, mid-twenties adult woman, confident editorial presence, natural cinematic skin texture with a warm specular roll across the cheekbone. Saffron-yellow silk-blend kaftan dress with hand-embroidered ivory trim, soft tan suede belt at waist. Mid-back caramel waves, settled, sleeves lifted 3cm on the pour. Glowing warm-toned base, terracotta blush, warm-spice satin lip, softly defined brow, dewy finish. Small antique gold filigree hoop earrings, two stacked thin gold rings on right index finger. Hand-stitched soft tan leather babouche slippers, almond rounded toe, 0cm flat sole, hand-burnished leather outsole with single visible saddle stitch, embossed traditional medina pattern across the vamp. Product — brass tea pot lifted high in right hand, golden tea stream falling 25cm into hand-blown glass on tray below, gold-leaf rim catching warm light.
+
+L-arm: bent, left hand steadying glass on tray
+R-arm: extended upward, brass pot held high pouring downward
+L-leg: planted
+R-leg: planted, slight forward stance
+Feet: babouches planted on warm tile
+Waist: square to tray, slight forward lean
+Head: tilted down toward the pour
+Gaze: down on tea stream
+Expr: reverent product gaze, eyes soft-focused on the pour and lips relaxed parted in quiet attention
+
+Medium close-up, three-quarter angle from camera-left at chest-height, 50mm lens, center-third alignment, f/2.0, half-arc orbit.
+
+### FRAME 4 — VEO VIDEO PROMPT
+
+Camera: half-arc orbit 50mm at chest-height, shallow depth of field, eight-second smooth orbit from camera-left around to a frontal three-quarter.
+Subject: young woman, pouring tea from brass pot to glass, both hands, downward stream, slow.
+Action and physics: golden tea stream falls 25cm in a thin glass-clear arc, kaftan sleeves drift 3cm with the lift, caramel hair stays settled.
+Environment: rose petal in fountain shifts 1cm in deep background.
+Lighting: warm sun shaft from camera-front-above, cool tile bounce from camera-back.
+Style: hyperreal commercial texture, raw cinematic 8k, Bradford Young palette, no CGI bloom, no plastic skin.
+Audio: tea stream pouring, faint glass resonance, distant fountain.
+Negative: no subtitles, no on-screen text, no morphing, no warping, no captions, no logos.
+
+---
+
+### FRAME 5 — IMAGE PROMPT
+
+9:16 aspect ratio, strictly photorealistic, ultra-realistic, 8k resolution, raw cinematic beauty-campaign aesthetic, hyperreal commercial texture, anti-illustration, anti-comic-book, anti-CGI, real-camera lens behavior, shallow depth of field.
+
+SPATIAL ANCHOR: subject in center-third, body angled directly toward camera, tea glass at lips, warm sun shaft from camera-front-above, cool tile bounce from camera-back, brass tray foreground frame-bottom-left, fountain mid-frame background, zellige wall frame-right. Spatial layout is fixed. Frame is NOT mirrored. Tight macro on the sip. Hand-blown tea glass with gold-leaf rim at her lips, soft-focus saffron kaftan in background, dust motes in warm shaft, faint vapor trail from hot tea.
+
+Subject is Aira, mid-twenties adult woman, confident editorial presence, natural cinematic skin texture with a faint warmth across the upper cheekbone. Saffron-yellow silk-blend kaftan dress with hand-embroidered ivory trim, soft tan suede belt at waist. Mid-back caramel waves, settled, a few strands tucked behind right ear. Glowing warm-toned base, terracotta blush, warm-spice satin lip, softly defined brow, dewy finish. Small antique gold filigree hoop earrings, two stacked thin gold rings on right index finger. Hand-stitched soft tan leather babouche slippers, almond rounded toe, 0cm flat sole, hand-burnished leather outsole with single visible saddle stitch, embossed traditional medina pattern across the vamp. Product — hand-blown tea glass with gold-leaf rim and engraved hand-cut floral pattern, cradled in right hand, rim pressed to lower lip, eyes soft-closed.
+
+L-arm: relaxed near hip
+R-arm: forward, right hand cradling tea glass at lip
+L-leg: planted
+R-leg: planted
+Feet: out of frame
+Waist: leaning forward two degrees
+Head: tilted forward four degrees toward glass
+Gaze: closed eyes
+Expr: closed-eye sip warmth, eyelids softly closed and the corner of the mouth lifted into the gold-leaf rim
+
+Macro insert, frontal angle, 85mm lens, center-third alignment, f/2.5, rack focus near-to-far from glass rim to her eyes.
+
+### FRAME 5 — VEO VIDEO PROMPT
+
+Camera: rack focus 85mm near-to-far, lip-height, shallow depth of field, eight-second held shot with focus pulling from gold rim to her face.
+Subject: young woman, lifting glass to lower lip, right hand, upward then settling, slow.
+Action and physics: vapor ribbon curls 6cm upward from hot tea, gold-leaf rim catches a rolling specular, one caramel strand at the temple lifts a fraction on her exhale.
+Environment: dust motes spiral in the warm sun shaft.
+Lighting: warm sun shaft from camera-front-above, cool tile bounce from camera-back.
+Style: hyperreal commercial texture, Arri Alexa LF skin science, no CGI bloom, no plastic skin.
+Audio: faint glass-on-lip contact, soft sip, distant fountain.
+Negative: no subtitles, no on-screen text, no morphing, no warping, no captions, no logos.
+
+---
+
+### FRAME 6 — IMAGE PROMPT
+
+9:16 aspect ratio, strictly photorealistic, ultra-realistic, 8k resolution, raw cinematic beauty-campaign aesthetic, hyperreal commercial texture, anti-illustration, anti-comic-book, anti-CGI, real-camera lens behavior, shallow depth of field.
+
+SPATIAL ANCHOR: subject in center-third, mid half-spin in golden sun shaft, body torqued camera-right with kaftan skirt fanning, warm sun shaft from camera-front-above, cool tile bounce from camera-back, fountain frame-left background, archway frame-right background, brass tray foreground frame-bottom. Camera-side orientation is locked. Frame is NOT mirrored. Courtyard center. Marble floor with carved geometric inlay foreground, fountain behind her frame-left, archway frame-right, dust motes in golden shaft.
+
+Subject is Aira, mid-twenties adult woman, confident editorial presence, natural cinematic skin texture with golden specular highlight across both cheekbones. Saffron-yellow silk-blend kaftan dress with hand-embroidered ivory trim, soft tan suede belt at waist. Mid-back caramel waves, fanning 9cm in the half-spin. Glowing warm-toned base, terracotta blush, warm-spice satin lip, softly defined brow, dewy finish. Small antique gold filigree hoop earrings, two stacked thin gold rings on right index finger. Hand-stitched soft tan leather babouche slippers, almond rounded toe, 0cm flat sole, hand-burnished leather outsole with single visible saddle stitch, embossed traditional medina pattern across the vamp. Product — tea glass left on tray in deep foreground frame-bottom, both hands free.
+
+L-arm: lifted softly outward at shoulder height
+R-arm: lifted softly outward at shoulder height
+L-leg: planted, pivot foot
+R-leg: stepping around in half-spin
+Feet: babouches on tile, one toe lifted in pivot
+Waist: torqued camera-right in half-spin
+Head: tilted slightly back, eyes soft-open
+Gaze: drifting upward toward sun shaft
+Expr: dreamy half-twirl gaze, eyes softly upward and lips relaxed parted in quiet wonder
+
+Medium-wide, frontal angle eye-level rising, 35mm lens, center-third alignment, f/2.5, crane rise.
+
+### FRAME 6 — VEO VIDEO PROMPT
+
+Camera: crane rise 35mm, shallow depth of field, eight-second smooth vertical lift from chest-height to overhead.
+Subject: young woman, half-spinning in golden sun shaft, body and arms, rotational, medium.
+Action and physics: kaftan skirt fans 12cm outward in a single soft sweep, caramel hair fans 9cm and trails, dust motes spiral in the wake of motion.
+Environment: rose petals in fountain shift in the air movement.
+Lighting: warm sun shaft from camera-front-above, cool tile bounce from camera-back.
+Style: hyperreal commercial texture, raw cinematic 8k, Bradford Young palette, no CGI bloom, no plastic skin.
+Audio: soft fabric sweep, distant fountain trickle, faint birdsong.
+Negative: no subtitles, no on-screen text, no morphing, no warping, no captions, no logos.
+
+---
+
+### FRAME 7 — IMAGE PROMPT
+
+9:16 aspect ratio, strictly photorealistic, ultra-realistic, 8k resolution, raw cinematic beauty-campaign aesthetic, hyperreal commercial texture, anti-illustration, anti-comic-book, anti-CGI, real-camera lens behavior, shallow depth of field.
+
+SPATIAL ANCHOR: subject in center-third at mid-distance walking toward archway, head turned back over right shoulder to lens in farewell, warm sun shaft from camera-front-above, cool tile bounce from camera-back, fountain foreground frame-left with petals, archway deep background frame-right where she's headed, brass tray foreground frame-bottom-left. Composition is locked. Frame is NOT mirrored. Courtyard wide reveal. Marble floor and fountain foreground with rose petals, carved cedar archway deep background frame-right where she'll exit, zellige walls camera-left and camera-right, dust motes in the shaft.
+
+Subject is Aira, mid-twenties adult woman, confident editorial presence, natural cinematic skin texture with warm rim along the cheekbone closest to lens. Saffron-yellow silk-blend kaftan dress with hand-embroidered ivory trim, soft tan suede belt at waist. Mid-back caramel waves, trailing 4cm in walking drift. Glowing warm-toned base, terracotta blush, warm-spice satin lip, softly defined brow, dewy finish. Small antique gold filigree hoop earrings, two stacked thin gold rings on right index finger. Hand-stitched soft tan leather babouche slippers, almond rounded toe, 0cm flat sole, hand-burnished leather outsole with single visible saddle stitch, embossed traditional medina pattern across the vamp. Product — tea glass framed on tray in deep foreground, fingertips of right hand trailing along fountain rim mid-step.
+
+L-arm: relaxed at side
+R-arm: extended back to fountain rim, fingertips trailing along the marble rim
+L-leg: mid-stride lifted toward archway
+R-leg: planted on tile
+Feet: one babouche lifted mid-step, one planted
+Waist: torqued back over right shoulder
+Head: turned back over right shoulder to lens
+Gaze: direct lock to lens, warm farewell
+Expr: over-shoulder warm seal, eyes warm-creased and a closed-mouth smile pressing both cheekbones up
+
+Medium-wide, low-angle from tile level behind her, 50mm lens, center-third alignment, f/2.8, slow pull-out.
+
+### FRAME 7 — VEO VIDEO PROMPT
+
+Camera: slow pull-out 50mm at low tile height, shallow depth of field, eight-second backward tracking pull as she walks toward archway.
+Subject: young woman, walking toward archway while turning head back, head and torso, rotational backward, medium.
+Action and physics: kaftan hem trails 3cm with each step, caramel hair trails 4cm behind the head turn, fingertip on fountain rim releases a faint marble tap.
+Environment: a single rose petal drifts up from the fountain in the foreground.
+Lighting: warm sun shaft from camera-front-above, cool tile bounce from camera-back.
+Style: hyperreal commercial texture, Bradford Young warm-shadow palette, no CGI bloom, no plastic skin.
+Audio: soft slipper-on-tile, distant fountain trickle, faint birdsong, distant medina call.
+Negative: no subtitles, no on-screen text, no morphing, no warping, no captions, no logos.
+
+---
+
+
+
+## CONCEPT 05 — TOKYO MIDNIGHT NEON CROSSWALK (URBAN / NIGHT / FASHION)
+
+**20-WORD REEL SUMMARY:** Aira crosses Shibuya at midnight, pauses, lifts sunglasses, smirks, turns, and disappears into the crowd with confidence.
+
+**WORLD / THEME:** Shibuya scramble crossing, after midnight, light rain. Urban high-fashion energy.
+
+**HERO PRODUCT:** Compact angular black leather mini bag with brushed-silver chain strap, magnetic closure. Supporting: oversized matte-black acetate sunglasses with silver hinge.
+
+**ENVIRONMENT IDENTITY:** Shibuya scramble crosswalk, wet asphalt with white painted lines, billboard buildings rising on all sides with soft-focus illuminated signage in deep background, foreground reflective puddle catching warm signage light, mid-frame painted crosswalk lines, deep background blurred pedestrian silhouettes, fine misting rain.
+
+**LIGHTING MOOD:** Warm rain-wet amber streetlight from overhead utility pole (camera-front-above, hard, 2700K) + cool dusk-into-night sky bounce reflected off wet asphalt (camera-back, soft, 6500K). No neon glow as light source — billboard light is environmental ambience only.
+
+**HOOK DISTRIBUTION:** F1 confident forward stride direct lens hook. F3 sunglasses-pull-down direct lens. F5 hair-flip sovereign smirk. F6 over-shoulder warm glance. F7 sovereign statement-pose finale.
+
+**SUBJECT ENERGY PROFILE:** Cold confident urban sovereignty, rain-wet, unhurried in chaos.
+
+**MOTION CONTINUITY LOGIC:** Steps onto crosswalk forward toward camera → pauses at center stripe → lifts sunglasses to look over rim → drops sunglasses back on → flips hair across → turns over right shoulder → settles into final sovereign pose facing lens as crowd blurs past.
+
+**CAMERA LANGUAGE PLAN:** F1 slow push-in 35mm. F2 handheld micro-shake 50mm. F3 slow push-in 85mm. F4 macro insert 100mm. F5 dolly left 50mm. F6 rack focus near-to-far 85mm. F7 slow pull-out 35mm.
+
+**EXPRESSION CHOREOGRAPHY:** F1 confident forward stride focus. F2 quiet confident skyline gaze. F3 sunglasses-pull-down direct lens. F4 head-tilt knowing smirk. F5 hair-flip sovereign smirk. F6 sudden flash-glance over-shoulder. F7 sovereign statement-pose finale.
+
+**BODY LANGUAGE PLAN:** F1 right hand on bag chain strap at hip. F2 left hand lifted softly to coat collar. F3 right index finger on sunglasses bridge lowering. F4 left fingertips at jawline. F5 right hand sweeping hair across to camera-right. F6 left hand on hip, torso twisting. F7 both hands relaxed at sides, weight on right hip.
+
+**HAIR PHYSICS NOTES:** Long sleek black with razor-cut blunt ends, shine-finish, individual strand separation. Lift heights: F2 2cm in coat lift, F5 8cm on hair-flip, F6 4cm on over-shoulder turn.
+
+**FABRIC MOTION NOTES:** Outfit — matte-black wool tailored long coat double-breasted with sharp shoulder, charcoal cashmere fine-knit turtleneck underneath, slim black tailored trousers, no scarf. Coat hem flutters 3cm in F1, coat collar lifts 2cm in F2, trousers crease at knee in F4, coat back-vent flutters 4cm in F7.
+
+**LIGHTING PHYSICS NOTES:** Warm overhead streetlight lays a hard amber pool on her crown and shoulder closest to camera. Cool sky reflection off wet asphalt fills her shadow side and underjaw with soft cyan-blue. Wet asphalt throws moving warm signage glints across her boots in every frame.
+
+**BEAUTY PRODUCT INTERACTION PLAN:** F1 bag at hip, sunglasses worn. F2 bag at hip, hand drifts to coat collar. F3 bag at hip, sunglasses being pulled down to bridge. F4 bag at hip, sunglasses pushed up onto crown, fingertips at jaw. F5 bag at hip, sunglasses on crown, hair-flip beat. F6 bag at hip, sunglasses pulled back down to bridge. F7 bag visible at hip, sunglasses fully on, both products in hero finale frame.
+
+**VIEWER ENGAGEMENT MOMENTS:** F3 sunglasses-pull-down direct lens lock. F6 over-shoulder warm flash. F7 sovereign statement-pose direct to lens.
+
+**ANTI-ILLUSTRATION SAFEGUARDS:** Real wet-asphalt reflection texture, real rain droplet on lapel, real wool weave on coat, real brushed-silver chain link variation, real sleek hair shine without plastic blur.
+
+**HYPERREAL COMMERCIAL TEXTURE LANGUAGE:** Christopher Doyle Tokyo-night palette warm-cool split, raw cinematic 8k, Arri Alexa Mini LF skin science, no CGI bloom, no plastic skin.
+
+**FOOTWEAR STRING:** Polished black calfskin pointed-toe ankle boots, sharp pointed toe, 7cm sculpted stiletto heel, leather sole with rubber traction insert at the toe, hand-stitched seam running up the back of the heel cup.
+
+---
+
+### FRAME 1 — IMAGE PROMPT
+
+9:16 aspect ratio, strictly photorealistic, ultra-realistic, 8k resolution, raw cinematic beauty-campaign aesthetic, hyperreal commercial texture, anti-illustration, anti-comic-book, anti-CGI, real-camera lens behavior, shallow depth of field.
+
+SPATIAL ANCHOR: subject in center-third walking forward toward camera, body angled directly at lens, dominant warm streetlight from camera-front-above, cool sky reflection off wet asphalt from camera-back, white crosswalk stripes run foreground frame-bottom into background, blurred billboard signage frame-left and frame-right deep background, reflective puddle frame-bottom-right. Composition is locked. Frame is NOT mirrored. Shibuya scramble crossing at midnight in light rain. Wet asphalt with white painted crosswalk lines in foreground, soft-focus illuminated billboard buildings rising on both sides in deep background, blurred pedestrian silhouettes deep background, fine misting rain particulate.
+
+Subject is Aira, mid-twenties adult woman, confident editorial presence, natural cinematic skin texture with two rain droplets at the temple. Matte-black wool tailored long coat double-breasted with sharp shoulder, charcoal cashmere fine-knit turtleneck underneath, slim black tailored trousers. Long sleek black hair with razor-cut blunt ends, shine-finish, settled along jawline. Cold-toned glow base, sculpted contour, true-red satin lip, softly defined brow, dewy finish. Single thin silver chain at throat, two slim silver rings on right hand. Polished black calfskin pointed-toe ankle boots, sharp pointed toe, 7cm sculpted stiletto heel, leather sole with rubber traction insert at the toe, hand-stitched seam running up the back of the heel cup. Product — sunglasses worn, compact angular black leather mini bag at right hip with brushed-silver chain strap.
+
+L-arm: relaxed at side
+R-arm: bent, right hand resting on chain strap of bag at hip
+L-leg: mid-stride lifted forward
+R-leg: planted on wet asphalt
+Feet: one ankle boot mid-step, one planted in puddle reflection
+Waist: square to lens, slight forward lean
+Head: tilted forward two degrees
+Gaze: direct lock to lens through sunglasses
+Expr: confident forward stride focus, jaw set with a closed-mouth half-curve at one lip corner
+
+Medium-wide, frontal angle low chest-height, 35mm lens, center-third alignment, f/2.8, slow push-in.
+
+### FRAME 1 — VEO VIDEO PROMPT
+
+Camera: slow push-in 35mm at chest-height, shallow depth of field, eight-second slow forward push as she walks toward lens.
+Subject: young woman, walking forward toward camera, both feet alternating, forward, medium.
+Action and physics: coat hem flutters 3cm with each step, sleek black hair settles 1cm against the jawline, brushed-silver chain on bag clinks 1mm against bag hardware.
+Environment: misting rain particulate drifts vertically through warm streetlight column.
+Lighting: warm overhead streetlight from camera-front-above, cool sky reflection off wet asphalt from camera-back.
+Style: hyperreal commercial texture, Christopher Doyle Tokyo-night palette, no CGI bloom, no plastic skin.
+Audio: stiletto heel on wet asphalt, distant city hum, faint pedestrian voices.
+Negative: no subtitles, no on-screen text, no morphing, no warping, no captions, no logos.
+
+---
+
+### FRAME 2 — IMAGE PROMPT
+
+9:16 aspect ratio, strictly photorealistic, ultra-realistic, 8k resolution, raw cinematic beauty-campaign aesthetic, hyperreal commercial texture, anti-illustration, anti-comic-book, anti-CGI, real-camera lens behavior, shallow depth of field.
+
+SPATIAL ANCHOR: subject in center-third paused at center stripe of crosswalk, body angled three-quarter to camera-right, left hand lifted softly to coat collar, warm streetlight from camera-front-above, cool sky reflection from camera-back, white crosswalk stripe foreground frame-bottom, billboards deep background. Spatial layout is fixed. Frame is NOT mirrored. Shibuya crossing center. Wet asphalt with white stripe directly under her boots, blurred billboard signage frame-left and frame-right, soft-focus pedestrian silhouettes background.
+
+Subject is Aira, mid-twenties adult woman, confident editorial presence, natural cinematic skin texture with rain droplet rolling down the cheekbone closest to lens. Matte-black wool tailored long coat, charcoal cashmere turtleneck, slim black tailored trousers. Long sleek black, settled with collar-lift breeze, individual strand separation. Cold-toned glow base, sculpted contour, true-red satin lip, softly defined brow, dewy finish. Single thin silver chain at throat, two slim silver rings on right hand. Polished black calfskin pointed-toe ankle boots, sharp pointed toe, 7cm sculpted stiletto heel, leather sole with rubber traction insert at the toe, hand-stitched seam running up the back of the heel cup. Product — bag visible at hip, sunglasses worn.
+
+L-arm: lifted, left hand softly at coat collar adjusting
+R-arm: relaxed at side, right hand near bag chain
+L-leg: planted forward
+R-leg: planted back, weight slightly back
+Feet: both ankle boots planted on wet asphalt
+Waist: torqued slightly camera-right
+Head: tilted four degrees up toward billboards
+Gaze: drifting upward across skyline
+Expr: quiet confident skyline gaze, jaw relaxed and lips closed in a thoughtful neutral curve
+
+Medium close-up, three-quarter angle from camera-right at chest-height, 50mm lens, center-third alignment, f/2.5, handheld micro-shake.
+
+### FRAME 2 — VEO VIDEO PROMPT
+
+Camera: handheld micro-shake 50mm at chest-height, shallow depth of field, eight-second organic operator-breathing handheld with subtle drift.
+Subject: young woman, lifting hand to coat collar, left hand, upward, slow.
+Action and physics: coat collar lifts 2cm at the throat, sleek black hair lifts 2cm at the temple in a faint breeze, two rain droplets roll down the lapel.
+Environment: a distant pedestrian silhouette crosses through deep background.
+Lighting: warm overhead streetlight from camera-front-above, cool sky reflection from camera-back.
+Style: hyperreal commercial texture, Arri Alexa Mini LF skin science, no CGI bloom, no plastic skin.
+Audio: faint coat-fabric rustle, distant city hum, soft drizzle.
+Negative: no subtitles, no on-screen text, no morphing, no warping, no captions, no logos.
+
+---
+
+### FRAME 3 — IMAGE PROMPT
+
+9:16 aspect ratio, strictly photorealistic, ultra-realistic, 8k resolution, raw cinematic beauty-campaign aesthetic, hyperreal commercial texture, anti-illustration, anti-comic-book, anti-CGI, real-camera lens behavior, shallow depth of field.
+
+SPATIAL ANCHOR: subject in center-third, body angled directly toward camera, right index finger lowering sunglasses bridge, warm streetlight from camera-front-above, cool sky reflection from camera-back, crosswalk stripe foreground, billboards deep background. Camera-side orientation is locked. Frame is NOT mirrored. Tight on her face at crossing center. Wet asphalt and white stripe foreground, soft-focus billboard signage deep background, fine misting rain.
+
+Subject is Aira, mid-twenties adult woman, confident editorial presence, natural cinematic skin texture with a single rain droplet on the cheekbone closest to lens. Matte-black wool tailored long coat, charcoal cashmere turtleneck, slim black tailored trousers. Long sleek black, settled. Cold-toned glow base, sculpted contour, true-red satin lip, softly defined brow, dewy finish. Single thin silver chain at throat, two slim silver rings on right hand. Polished black calfskin pointed-toe ankle boots, sharp pointed toe, 7cm sculpted stiletto heel, leather sole with rubber traction insert at the toe, hand-stitched seam running up the back of the heel cup. Product — oversized matte-black acetate sunglasses being pulled down by right index finger to nose-bridge revealing eyes.
+
+L-arm: relaxed at side, hand near bag
+R-arm: lifted, right index finger at sunglasses bridge pulling down
+L-leg: planted
+R-leg: planted
+Feet: ankle boots planted on white stripe
+Waist: square to camera
+Head: tilted forward two degrees
+Gaze: direct lock to lens over the lowered sunglasses rim with cold confidence
+Expr: sunglasses-pull-down direct lens, eyes locked over the rim and a closed-mouth flat line at the lip
+
+Medium close-up, frontal angle eye-level, 85mm lens, center-third alignment, f/2.0, slow push-in.
+
+### FRAME 3 — VEO VIDEO PROMPT
+
+Camera: slow push-in 85mm at eye-level, shallow depth of field, eight-second slow forward push.
+Subject: young woman, lowering sunglasses with right index finger, right hand, downward, slow.
+Action and physics: sunglasses slide 1cm down the nose-bridge, sleek black hair settles 1cm against the jawline, single rain droplet rolls 4mm down the cheekbone.
+Environment: misting rain drifts diagonally through frame.
+Lighting: warm overhead streetlight from camera-front-above, cool sky reflection from camera-back.
+Style: hyperreal commercial texture, Christopher Doyle Tokyo-night palette, no CGI bloom, no plastic skin.
+Audio: faint frame-on-skin acetate click, distant city hum, soft drizzle.
+Negative: no subtitles, no on-screen text, no morphing, no warping, no captions, no logos.
+
+---
+
+### FRAME 4 — IMAGE PROMPT
+
+9:16 aspect ratio, strictly photorealistic, ultra-realistic, 8k resolution, raw cinematic beauty-campaign aesthetic, hyperreal commercial texture, anti-illustration, anti-comic-book, anti-CGI, real-camera lens behavior, shallow depth of field.
+
+SPATIAL ANCHOR: subject in center-third, sunglasses pushed up to crown, left fingertips at jawline, body angled directly to camera, warm streetlight from camera-front-above, cool sky reflection from camera-back, crosswalk foreground, billboards deep background. Composition is locked. Frame is NOT mirrored. Macro on her face. Wet asphalt foreground, soft-focus billboard signage deep background, faint rain particulate.
+
+Subject is Aira, mid-twenties adult woman, confident editorial presence, natural cinematic skin texture with a fresh rain droplet at the temple catching warm specular highlight. Matte-black wool tailored long coat, charcoal cashmere turtleneck, slim black tailored trousers. Long sleek black with razor blunt ends, settled. Cold-toned glow base, sculpted contour, true-red satin lip, softly defined brow, dewy finish. Single thin silver chain at throat, two slim silver rings on right hand. Polished black calfskin pointed-toe ankle boots, sharp pointed toe, 7cm sculpted stiletto heel, leather sole with rubber traction insert at the toe, hand-stitched seam running up the back of the heel cup. Product — sunglasses pushed up to crown of head holding hair back, fingertip-on-jaw is the contact beat.
+
+L-arm: lifted, left fingertips touching jawline
+R-arm: relaxed at side
+L-leg: planted
+R-leg: planted
+Feet: out of frame
+Waist: out of frame
+Head: tilted four degrees toward camera-left
+Gaze: direct lock to lens
+Expr: head-tilt knowing smirk, one corner of the lip raised and the eyebrow opposite lifted a millimeter
+
+Macro insert, frontal angle eye-level, 100mm macro lens, center-third alignment, f/2.0, locked-off macro.
+
+### FRAME 4 — VEO VIDEO PROMPT
+
+Camera: locked-off macro 100mm at eye-level, shallow depth of field, eight-second still-held shot with one micro-rack from droplet to her eyes.
+Subject: young woman, fingertips at jawline with knowing smirk, left fingertips, sideways at jaw, very slow.
+Action and physics: fingertips press 1mm into jaw skin and release, single rain droplet at temple holds, sunglasses on crown stay settled.
+Environment: rain particulate drifts diagonally through background.
+Lighting: warm overhead streetlight from camera-front-above, cool sky reflection from camera-back.
+Style: hyperreal commercial texture, Arri Alexa Mini LF skin science, no CGI bloom, no plastic skin.
+Audio: distant city hum, faint drizzle, soft breath.
+Negative: no subtitles, no on-screen text, no morphing, no warping, no captions, no logos.
+
+---
+
+### FRAME 5 — IMAGE PROMPT
+
+9:16 aspect ratio, strictly photorealistic, ultra-realistic, 8k resolution, raw cinematic beauty-campaign aesthetic, hyperreal commercial texture, anti-illustration, anti-comic-book, anti-CGI, real-camera lens behavior, shallow depth of field.
+
+SPATIAL ANCHOR: subject in center-third, body angled three-quarter to camera-right, right hand sweeping hair across to camera-right, warm streetlight from camera-front-above, cool sky reflection from camera-back, crosswalk stripe foreground, billboards deep background. Spatial layout is fixed. Frame is NOT mirrored. Shibuya crossing same position. Wet asphalt and white stripe foreground, soft-focus billboard signage and pedestrian silhouettes deep background.
+
+Subject is Aira, mid-twenties adult woman, confident editorial presence, natural cinematic skin texture with a clean specular roll across the cheekbone. Matte-black wool tailored long coat, charcoal cashmere turtleneck, slim black tailored trousers. Long sleek black, sweeping 8cm across to camera-right in mid-flip. Cold-toned glow base, sculpted contour, true-red satin lip, softly defined brow, dewy finish. Single thin silver chain at throat, two slim silver rings on right hand. Polished black calfskin pointed-toe ankle boots, sharp pointed toe, 7cm sculpted stiletto heel, leather sole with rubber traction insert at the toe, hand-stitched seam running up the back of the heel cup. Product — sunglasses on crown of head, right hand mid-sweep through hair.
+
+L-arm: relaxed at side
+R-arm: lifted across body, sweeping hair to camera-right
+L-leg: planted
+R-leg: planted, slight pivot
+Feet: ankle boots planted on white stripe
+Waist: torqued camera-right
+Head: tilted toward camera-left, chin slightly down
+Gaze: side-eye to lens with cold confidence
+Expr: hair-flip sovereign smirk, one corner of the lip lifted in cool half-knowing smile
+
+Medium close-up, three-quarter angle from camera-right at chest-height, 50mm lens, center-third alignment, f/2.5, dolly left.
+
+### FRAME 5 — VEO VIDEO PROMPT
+
+Camera: dolly left 50mm at chest-height, shallow depth of field, eight-second smooth lateral slide camera-left.
+Subject: young woman, sweeping hair across to camera-right, right hand and head, sideways, medium.
+Action and physics: sleek black hair fans 8cm in the sweep direction, coat shoulder lifts 2cm, single rain droplet flicks off the hair tip.
+Environment: a single billboard light shifts in deep background.
+Lighting: warm overhead streetlight from camera-front-above, cool sky reflection from camera-back.
+Style: hyperreal commercial texture, Christopher Doyle Tokyo palette, no CGI bloom, no plastic skin.
+Audio: faint hair-sweep, distant city hum, soft drizzle.
+Negative: no subtitles, no on-screen text, no morphing, no warping, no captions, no logos.
+
+---
+
+### FRAME 6 — IMAGE PROMPT
+
+9:16 aspect ratio, strictly photorealistic, ultra-realistic, 8k resolution, raw cinematic beauty-campaign aesthetic, hyperreal commercial texture, anti-illustration, anti-comic-book, anti-CGI, real-camera lens behavior, shallow depth of field.
+
+SPATIAL ANCHOR: subject in left-third, body torqued away camera-right with head turned back over right shoulder to lens, warm streetlight from camera-front-above rims cheekbone, cool sky reflection from camera-back fills back of neck, crosswalk stripe foreground frame-bottom, billboards deep background frame-right. Camera-side orientation is locked. Frame is NOT mirrored. Crossing in motion. Wet asphalt and white stripe foreground, soft-focus blurred pedestrian silhouettes deep background, billboard light glow background.
+
+Subject is Aira, mid-twenties adult woman, confident editorial presence, natural cinematic skin texture with sharp specular highlight on the cheekbone closest to lens. Matte-black wool tailored long coat, charcoal cashmere turtleneck, slim black tailored trousers. Long sleek black, fanning 4cm on the over-shoulder turn. Cold-toned glow base, sculpted contour, true-red satin lip, softly defined brow, dewy finish. Single thin silver chain at throat, two slim silver rings on right hand. Polished black calfskin pointed-toe ankle boots, sharp pointed toe, 7cm sculpted stiletto heel, leather sole with rubber traction insert at the toe, hand-stitched seam running up the back of the heel cup. Product — sunglasses pulled back down to bridge in this beat, bag at hip.
+
+L-arm: bent, left hand on hip
+R-arm: bent, right index finger on sunglasses bridge resettling
+L-leg: planted, weight on left
+R-leg: pivoted, weight back
+Feet: ankle boots planted, one heel angled
+Waist: torqued away from camera-right
+Head: turned back over right shoulder to lens
+Gaze: direct lock to lens with sharp cold flash
+Expr: sudden flash-glance over-shoulder, eyes wide-cool and lips closed in a sharp flat line
+
+Medium close-up, over-shoulder from camera-back-right, 85mm lens, left-third alignment, f/2.0, rack focus near-to-far from coat shoulder to her face.
+
+### FRAME 6 — VEO VIDEO PROMPT
+
+Camera: rack focus 85mm near-to-far, shoulder height, shallow depth of field, eight-second held shot with focus pulling from coat shoulder to her eyes.
+Subject: young woman, turning head over right shoulder with sunglasses-resettle, head and right hand, rotational backward, medium.
+Action and physics: sleek black hair fans 4cm on the rotation, sunglasses settle 1cm down the bridge, coat collar lifts 2cm against the neck.
+Environment: a distant pedestrian silhouette crosses in deep background.
+Lighting: warm streetlight rim from camera-front-above, cool sky reflection from camera-back.
+Style: hyperreal commercial texture, Arri Alexa Mini LF skin science, no CGI bloom, no plastic skin.
+Audio: faint acetate click, distant city hum, stiletto heel on asphalt.
+Negative: no subtitles, no on-screen text, no morphing, no warping, no captions, no logos.
+
+---
+
+### FRAME 7 — IMAGE PROMPT
+
+9:16 aspect ratio, strictly photorealistic, ultra-realistic, 8k resolution, raw cinematic beauty-campaign aesthetic, hyperreal commercial texture, anti-illustration, anti-comic-book, anti-CGI, real-camera lens behavior, shallow depth of field.
+
+SPATIAL ANCHOR: subject in center-third standing in sovereign pose, body angled directly to camera, weight on right hip, warm streetlight from camera-front-above, cool sky reflection from camera-back, crosswalk stripe foreground frame-bottom, blurred pedestrian silhouettes streaming past in deep background, billboards deep background. Composition is locked. Frame is NOT mirrored. Wider Shibuya reveal at finale. Wet asphalt and crosswalk foreground, blurred pedestrians moving past behind her in deep background, billboard signage glow rising on both sides, fine misting rain.
+
+Subject is Aira, mid-twenties adult woman, confident editorial presence, natural cinematic skin texture with golden-amber rim down the cheekbone closest to lens. Matte-black wool tailored long coat, charcoal cashmere turtleneck, slim black tailored trousers. Long sleek black, settled, individual strand separation. Cold-toned glow base, sculpted contour, true-red satin lip, softly defined brow, dewy finish. Single thin silver chain at throat, two slim silver rings on right hand. Polished black calfskin pointed-toe ankle boots, sharp pointed toe, 7cm sculpted stiletto heel, leather sole with rubber traction insert at the toe, hand-stitched seam running up the back of the heel cup. Product — sunglasses fully on, bag visible at right hip with chain catching warm streetlight.
+
+L-arm: relaxed at side
+R-arm: relaxed at side, hand near bag chain
+L-leg: planted, knee straight
+R-leg: planted, weight on right hip
+Feet: ankle boots planted on white stripe
+Waist: hip cocked right in sovereign stance
+Head: tilted up two degrees, chin lifted
+Gaze: direct lock to lens through sunglasses
+Expr: sovereign statement-pose finale, jaw set with a flat closed-mouth line and eyes cold-confident through dark lenses
+
+Medium-wide, frontal angle eye-level, 35mm lens, center-third alignment, f/2.8, slow pull-out.
+
+### FRAME 7 — VEO VIDEO PROMPT
+
+Camera: slow pull-out 35mm at eye-level, shallow depth of field, eight-second smooth backward tracking pull as pedestrians blur past.
+Subject: young woman, settling into sovereign pose with weight on right hip, body still, weight shift, slow.
+Action and physics: coat back-vent flutters 4cm in passing pedestrian air movement, sleek black hair settles 1cm, blurred pedestrian silhouettes stream past behind her at high motion blur.
+Environment: pedestrian crowd flows past behind her at the green-light moment.
+Lighting: warm streetlight from camera-front-above, cool sky reflection from camera-back.
+Style: hyperreal commercial texture, raw cinematic 8k, Christopher Doyle Tokyo-night palette, no CGI bloom, no plastic skin.
+Audio: full Shibuya crossing crowd hum, distant signal chime, soft drizzle.
+Negative: no subtitles, no on-screen text, no morphing, no warping, no captions, no logos.
+
+---
+
+
+
+## CONCEPT 06 — TUSCAN KITCHEN MORNING MONOLOGUE (LIFESTYLE / COOKING / DIRECT-ADDRESS MONOLOGUE)
+
+**20-WORD REEL SUMMARY:** Aira makes pasta in a stone Tuscan kitchen, speaks to camera between gestures, dusts flour, and laughs softly.
+
+**WORLD / THEME:** Tuscan farmhouse kitchen, late morning, fresh pasta-making ritual. Direct-address monologue reel.
+
+**HERO PRODUCT:** Hand-thrown terracotta mixing bowl with cream-glazed interior. Supporting: a worn olive-wood rolling pin with smooth hand-rubbed patina.
+
+**ENVIRONMENT IDENTITY:** Tuscan farmhouse kitchen, hand-hewn travertine countertop dusted with flour, foreground glass jar of olive oil, mid-frame copper pots hanging on a wrought-iron rack, soft-focus arched window deep background showing rolling cypress hills and morning mist, terracotta tile floor, fresh sprig of rosemary in a stoneware pitcher.
+
+**LIGHTING MOOD:** Soft white window key from camera-left arched window (soft, 5500K) + warm marble bounce off travertine countertop (soft, 3200K).
+
+**HOOK DISTRIBUTION:** F1 direct lens lock with flour-on-cheek hook. F3 macro flour-cloud product moment. F5 self-laugh emotional release. F6 settled emotional smile final.
+
+**SUBJECT ENERGY PROFILE:** Warm domestic intimacy, unguarded, spoken truths between hands working dough.
+
+**MOTION CONTINUITY LOGIC:** Wipes flour off cheek with back of wrist while talking to camera → kneads dough at counter → lifts hand and watches flour cloud → glances over shoulder at copper pots while speaking → soft self-laugh at her own line → final settled smile direct to lens.
+
+**CAMERA LANGUAGE PLAN:** F1 slow push-in 50mm. F2 dolly right 50mm. F3 macro insert 100mm. F4 over-the-shoulder follow 35mm. F5 handheld micro-shake 50mm. F6 slow pull-out 50mm.
+
+**EXPRESSION CHOREOGRAPHY:** F1 settled-smile direct camera intimacy. F2 focused application concentration. F3 closed-eye sensory delight. F4 mid-sentence open-mouth talking. F5 self-laugh soft emotional release. F6 settled emotional smile final.
+
+**BODY LANGUAGE PLAN:** F1 right wrist-back wiping flour off cheek. F2 both palms pressing into dough. F3 left hand lifted, fingers spread, watching flour fall. F4 right shoulder turning back over toward copper pots. F5 left hand pressed flat to mouth in self-laugh. F6 both palms resting flat on countertop edge.
+
+**HAIR PHYSICS NOTES:** Shoulder-length sun-kissed honey-blonde with loose natural waves, half-tucked behind right ear with one stray strand at the temple, individual strand separation. Lift heights: F2 2cm in kneading rhythm, F5 3cm on the laugh.
+
+**FABRIC MOTION NOTES:** Outfit — cream linen square-necked apron dress with thin tie at the back of the waist, ivory cotton t-shirt sleeve underneath visible at upper arm, no scarf, no belt. Apron hem flutters 1cm in F4 turn, apron front catches a faint flour dusting across F2-F5, sleeve cuff has flour smudge in F5.
+
+**LIGHTING PHYSICS NOTES:** Soft window light wraps her camera-left side in soft daylight with visible micro-pore detail. Warm marble bounce fills camera-right jaw and the cream interior of terracotta bowl. Flour suspended in air in F3 catches window light as soft-focus particulate halo.
+
+**BEAUTY PRODUCT INTERACTION PLAN:** F1 bowl on countertop in soft focus, no contact yet. F2 bowl with dough, both hands pressing into it. F3 bowl in deep foreground, flour cloud rising from rolling pin, hand-on-flour beat. F4 bowl on countertop, hand pressing rolling pin. F5 bowl on countertop, hand released to mouth. F6 bowl on countertop, both palms flat on edge framing it.
+
+**VIEWER ENGAGEMENT MOMENTS:** F1 direct lens lock with flour smudge on cheek. F4 mid-sentence eye-flick to lens. F6 settled emotional smile direct lens monologue close.
+
+**ANTI-ILLUSTRATION SAFEGUARDS:** Real flour micro-particulate suspension, real travertine surface variation, real terracotta clay texture, real linen weave on apron dress, real dough pliability with finger indentation marks.
+
+**HYPERREAL COMMERCIAL TEXTURE LANGUAGE:** Roger Deakins natural-window palette, raw cinematic 8k, Arri Alexa LF skin science, no CGI bloom, no plastic skin.
+
+**FOOTWEAR STRING:** Soft-finished worn-in caramel suede mules, square open toe, 1cm flat leather sole, hand-burnished leather outsole with one visible repair stitch at the heel, tonal embroidered detail across the vamp.
+
+**AIRA MONOLOGUE LINES (delivered across F1, F4, F5):**
+F1 (line 1, warm, direct to lens): "My grandmother used to say flour on your cheek means dinner will be good."
+F4 (line 2, mid-knead, glancing back): "She wasn't wrong. She was almost never wrong about food."
+F5 (line 3, soft laugh, hand to mouth): "She would have said that about me too — almost never wrong."
+
+---
+
+### FRAME 1 — IMAGE PROMPT
+
+9:16 aspect ratio, strictly photorealistic, ultra-realistic, 8k resolution, raw cinematic beauty-campaign aesthetic, hyperreal commercial texture, anti-illustration, anti-comic-book, anti-CGI, real-camera lens behavior, shallow depth of field.
+
+SPATIAL ANCHOR: subject in center-third of frame, body angled directly to camera, dominant soft window light from camera-left, warm marble bounce from camera-right, travertine countertop runs foreground frame-bottom, terracotta bowl frame-right on counter, copper pots mid-frame frame-right background, arched window deep background frame-left. Composition is locked. Frame is NOT mirrored. Tuscan farmhouse kitchen at late morning. Hand-hewn travertine countertop in foreground dusted with fresh flour, glass olive oil jar foreground frame-left, copper pots on wrought-iron rack mid-frame, soft-focus arched window deep background frame-left showing cypress hills and morning mist, sprig of rosemary in stoneware pitcher.
+
+Subject is Aira, mid-twenties adult woman, confident editorial presence, natural cinematic skin texture with a small dusting of flour on the cheekbone closest to lens. Cream linen square-necked apron dress with thin tie at the back of the waist, ivory cotton t-shirt sleeve visible at upper arm. Shoulder-length sun-kissed honey-blonde with loose waves, half-tucked behind right ear, individual strand separation. Glowing fresh-morning base, peach blush, warm-rose satin lip, softly defined brow, dewy finish. Small thin gold hoops, one slim gold band on left ring finger. Soft-finished worn-in caramel suede mules, square open toe, 1cm flat leather sole, hand-burnished leather outsole with one visible repair stitch at the heel, tonal embroidered detail across the vamp. Product — terracotta bowl on counter in soft focus frame-right, hands not on bowl yet, right wrist-back at cheek wiping flour.
+
+L-arm: relaxed at countertop, palm flat
+R-arm: bent, right wrist-back at cheekbone wiping flour
+L-leg: standing
+R-leg: standing
+Feet: mules planted on terracotta tile, out of frame at this crop
+Waist: square to camera, slight forward lean against counter
+Head: tilted four degrees toward lens
+Gaze: direct lock to lens with warm domestic intimacy
+Expr: settled-smile direct camera intimacy, eyes warm-creased and a closed-mouth half-smile lifting both cheekbones a millimeter
+
+Medium close-up, frontal angle eye-level, 50mm lens, center-third alignment, f/2.0, slow push-in.
+
+### FRAME 1 — VEO VIDEO PROMPT
+
+Camera: slow push-in 50mm at eye-level, shallow depth of field, eight-second slow forward push.
+Subject: young woman, speaking line one to camera while wiping flour, lips and right wrist, forward and sideways at cheek, slow.
+Action and physics: right wrist-back lifts 3cm and brushes the cheekbone, flour dust drifts 2cm and falls, honey-blonde hair settles 1cm.
+Environment: faint flour particulate drifts through window light.
+Lighting: soft window light from camera-left, warm marble bounce from camera-right.
+Style: hyperreal commercial texture, Roger Deakins natural-window palette, no CGI bloom, no plastic skin.
+Audio: ambient kitchen morning, distant rooster, Aira softly speaking the line "My grandmother used to say flour on your cheek means dinner will be good."
+Negative: no subtitles, no on-screen text, no morphing, no warping, no captions, no logos.
+
+---
+
+### FRAME 2 — IMAGE PROMPT
+
+9:16 aspect ratio, strictly photorealistic, ultra-realistic, 8k resolution, raw cinematic beauty-campaign aesthetic, hyperreal commercial texture, anti-illustration, anti-comic-book, anti-CGI, real-camera lens behavior, shallow depth of field.
+
+SPATIAL ANCHOR: subject in left-third of frame, body angled three-quarter toward camera-right, both palms pressing into dough on countertop, soft window light from camera-left, warm marble bounce from camera-right, terracotta bowl frame-right foreground, dough mound center-frame, copper pots mid-frame background. Spatial layout is fixed. Frame is NOT mirrored. Tuscan kitchen counter view. Travertine countertop foreground with flour pattern around dough mound, terracotta bowl frame-right with flour residue inside, copper pots in mid-frame background, soft-focus arched window deep background.
+
+Subject is Aira, mid-twenties adult woman, confident editorial presence, natural cinematic skin texture with flour smudge across one cheekbone holding from F1. Cream linen apron dress, ivory cotton t-shirt sleeve visible at upper arm. Honey-blonde waves, half-tucked, settled. Glowing fresh-morning base, peach blush, warm-rose satin lip, softly defined brow, dewy finish. Small thin gold hoops, one slim gold band on left ring finger. Soft-finished worn-in caramel suede mules, square open toe, 1cm flat leather sole, hand-burnished leather outsole with one visible repair stitch at the heel, tonal embroidered detail across the vamp. Product — both palms pressing flat into dough mound, fingers spread, terracotta bowl frame-right with flour residue.
+
+L-arm: extended forward, left palm pressing into dough
+R-arm: extended forward, right palm pressing into dough
+L-leg: standing, slight forward lean against counter
+R-leg: standing
+Feet: mules out of frame at this crop
+Waist: square to counter, leaning forward six degrees
+Head: tilted down five degrees toward dough
+Gaze: focused on dough surface
+Expr: focused application concentration, brow softly knit and lips closed in a determined neutral curve
+
+Medium-wide, three-quarter angle from camera-right at chest-height, 50mm lens, left-third alignment, f/2.5, dolly right.
+
+### FRAME 2 — VEO VIDEO PROMPT
+
+Camera: dolly right 50mm at chest-height, shallow depth of field, eight-second smooth lateral slide camera-right.
+Subject: young woman, kneading dough with both palms, both hands, downward press and forward push, medium.
+Action and physics: dough surface compresses 1cm under each press, honey-blonde hair lifts 2cm in kneading rhythm, faint flour cloud rises 3cm above the dough.
+Environment: a single flour particulate drifts through window light.
+Lighting: soft window light from camera-left, warm marble bounce from camera-right.
+Style: hyperreal commercial texture, Arri Alexa LF skin science, no CGI bloom, no plastic skin.
+Audio: dough-press soft squelch, distant kitchen sounds, faint birdsong.
+Negative: no subtitles, no on-screen text, no morphing, no warping, no captions, no logos.
+
+---
+
+### FRAME 3 — IMAGE PROMPT
+
+9:16 aspect ratio, strictly photorealistic, ultra-realistic, 8k resolution, raw cinematic beauty-campaign aesthetic, hyperreal commercial texture, anti-illustration, anti-comic-book, anti-CGI, real-camera lens behavior, shallow depth of field.
+
+SPATIAL ANCHOR: subject in center-third, body angled directly toward camera, left hand lifted with fingers spread above counter as flour drifts, soft window light from camera-left, warm marble bounce from camera-right, dough mound foreground frame-bottom, olive-wood rolling pin foreground frame-right, copper pots mid-frame background. Camera-side orientation is locked. Frame is NOT mirrored. Macro on flour-cloud beat. Travertine countertop foreground with flour drift, dough mound and rolling pin in foreground, soft-focus copper pots background, soft-focus arched window deep background, flour particulate suspended in window light.
+
+Subject is Aira, mid-twenties adult woman, confident editorial presence, natural cinematic skin texture with flour smudge holding on cheekbone. Cream linen apron dress, ivory cotton t-shirt sleeve visible at upper arm. Honey-blonde waves, settled. Glowing fresh-morning base, peach blush, warm-rose satin lip, softly defined brow, dewy finish. Small thin gold hoops, one slim gold band on left ring finger. Soft-finished worn-in caramel suede mules, square open toe, 1cm flat leather sole, hand-burnished leather outsole with one visible repair stitch at the heel, tonal embroidered detail across the vamp. Product — left hand lifted above countertop with fingers spread, flour particulate falling and suspended in window light, dough mound and olive-wood rolling pin in foreground.
+
+L-arm: lifted above counter, fingers spread, flour falling between
+R-arm: relaxed at counter, palm down
+L-leg: standing
+R-leg: standing
+Feet: out of frame
+Waist: leaning forward two degrees
+Head: tilted forward two degrees toward hand
+Gaze: closed eyes, soft sensory focus
+Expr: closed-eye sensory delight, eyelids softly closed and lips relaxed parted in quiet focus
+
+Macro insert, frontal angle chest-height, 100mm macro lens, center-third alignment, f/2.8, locked-off macro.
+
+### FRAME 3 — VEO VIDEO PROMPT
+
+Camera: locked-off macro 100mm at chest-height, shallow depth of field, eight-second still-held shot with one micro-rack from flour cloud to her face.
+Subject: young woman, lifting hand and watching flour fall, left hand and eyes, upward then closed, very slow.
+Action and physics: flour particulate suspends and slowly falls 8cm through window-light beam, fingers slowly close 1cm, honey-blonde hair stays settled.
+Environment: soft warm air movement carries flour particulate.
+Lighting: soft window light from camera-left, warm marble bounce from camera-right.
+Style: hyperreal commercial texture, Roger Deakins natural-window palette, no CGI bloom, no plastic skin.
+Audio: faint flour-falling whisper, distant kitchen sounds, soft breath.
+Negative: no subtitles, no on-screen text, no morphing, no warping, no captions, no logos.
+
+---
+
+### FRAME 4 — IMAGE PROMPT
+
+9:16 aspect ratio, strictly photorealistic, ultra-realistic, 8k resolution, raw cinematic beauty-campaign aesthetic, hyperreal commercial texture, anti-illustration, anti-comic-book, anti-CGI, real-camera lens behavior, shallow depth of field.
+
+SPATIAL ANCHOR: subject in right-third of frame, body torqued away camera-left with right shoulder turning back over toward copper pots, head turned back over right shoulder toward lens for mid-sentence eye-flick, soft window light from camera-left, warm marble bounce from camera-right, dough and bowl foreground frame-left, copper pots background frame-left, rolling pin in right hand. Composition is locked. Frame is NOT mirrored. Tuscan kitchen, view from over her left shoulder. Travertine countertop and dough foreground frame-left, copper pots mid-frame frame-left background, soft-focus arched window deep background frame-left, terracotta tile floor partially visible.
+
+Subject is Aira, mid-twenties adult woman, confident editorial presence, natural cinematic skin texture with flour holding on cheekbone, soft window light wrapping the jaw. Cream linen apron dress, ivory cotton t-shirt sleeve visible at upper arm. Honey-blonde waves, settled with one strand falling forward at the temple. Glowing fresh-morning base, peach blush, warm-rose satin lip, softly defined brow, dewy finish. Small thin gold hoops, one slim gold band on left ring finger. Soft-finished worn-in caramel suede mules, square open toe, 1cm flat leather sole, hand-burnished leather outsole with one visible repair stitch at the heel, tonal embroidered detail across the vamp. Product — olive-wood rolling pin in right hand resting on dough, terracotta bowl deeper in foreground.
+
+L-arm: relaxed at counter, palm flat
+R-arm: bent, right hand on rolling pin pressing on dough
+L-leg: standing
+R-leg: standing, slight pivot
+Feet: mules planted, out of frame at this crop
+Waist: torqued back over right shoulder
+Head: turned back over right shoulder toward lens
+Gaze: direct flick to lens mid-sentence
+Expr: mid-sentence open-mouth talking, lips parted mid-line and one cheekbone lifted in warm familiarity
+
+Medium close-up, over-the-shoulder follow from camera-back-left, 35mm lens, right-third alignment, f/2.5, over-the-shoulder follow.
+
+### FRAME 4 — VEO VIDEO PROMPT
+
+Camera: over-the-shoulder follow 35mm at shoulder-height, shallow depth of field, eight-second smooth follow over her left shoulder as she half-turns back to lens.
+Subject: young woman, turning head over right shoulder mid-sentence, head and torso, rotational backward, slow.
+Action and physics: apron hem lifts 1cm on the turn, honey-blonde hair fans 3cm and settles, rolling pin presses 1mm into dough surface.
+Environment: a copper pot shifts a millimeter on its hook in deep background.
+Lighting: soft window light from camera-left, warm marble bounce from camera-right.
+Style: hyperreal commercial texture, Roger Deakins natural-window palette, no CGI bloom, no plastic skin.
+Audio: faint dough-on-wood, distant kitchen sounds, Aira speaking the line "She wasn't wrong. She was almost never wrong about food."
+Negative: no subtitles, no on-screen text, no morphing, no warping, no captions, no logos.
+
+---
+
+### FRAME 5 — IMAGE PROMPT
+
+9:16 aspect ratio, strictly photorealistic, ultra-realistic, 8k resolution, raw cinematic beauty-campaign aesthetic, hyperreal commercial texture, anti-illustration, anti-comic-book, anti-CGI, real-camera lens behavior, shallow depth of field.
+
+SPATIAL ANCHOR: subject in center-third, body angled directly to camera, left hand pressed flat to mouth in self-laugh, soft window light from camera-left, warm marble bounce from camera-right, dough and bowl foreground frame-right, rolling pin foreground frame-bottom, copper pots background. Spatial layout is fixed. Frame is NOT mirrored. Same Tuscan kitchen counter. Travertine countertop foreground with dough and rolling pin, terracotta bowl frame-right foreground, soft-focus copper pots and arched window deep background.
+
+Subject is Aira, mid-twenties adult woman, confident editorial presence, natural cinematic skin texture with a fresh laugh-flush across the cheekbone, flour smudge still holding on opposite cheek. Cream linen apron dress, ivory cotton t-shirt sleeve visible at upper arm with flour smudge. Honey-blonde waves, lifted 3cm at the front in the laugh. Glowing fresh-morning base, peach blush deepened, warm-rose satin lip, softly defined brow, dewy finish. Small thin gold hoops, one slim gold band on left ring finger. Soft-finished worn-in caramel suede mules, square open toe, 1cm flat leather sole, hand-burnished leather outsole with one visible repair stitch at the heel, tonal embroidered detail across the vamp. Product — both products on countertop, hand-to-mouth is the contact beat.
+
+L-arm: bent, left palm pressed flat over mouth in self-laugh
+R-arm: relaxed at counter, palm flat
+L-leg: standing
+R-leg: standing
+Feet: out of frame
+Waist: square to counter, slight torque back
+Head: tilted four degrees toward camera-right with chin tucked
+Gaze: eyes warm-creased toward lens through laugh
+Expr: self-laugh soft emotional release, eyes squeezed soft and one shoulder lifted toward ear in unguarded laugh
+
+Medium close-up, frontal angle eye-level, 50mm lens, center-third alignment, f/2.0, handheld micro-shake.
+
+### FRAME 5 — VEO VIDEO PROMPT
+
+Camera: handheld micro-shake 50mm at eye-level, shallow depth of field, eight-second organic operator-breathing handheld with subtle warm drift.
+Subject: young woman, soft self-laugh with hand to mouth, left hand and head, upward to mouth and tilt sideways, medium.
+Action and physics: honey-blonde hair lifts 3cm at the front and falls in cascade, apron front trembles 1cm in laugh-air, hand presses 1mm into the lip-line.
+Environment: a faint flour particulate drifts through window light.
+Lighting: soft window light from camera-left, warm marble bounce from camera-right.
+Style: hyperreal commercial texture, Arri Alexa LF skin science, no CGI bloom, no plastic skin.
+Audio: warm soft self-laugh, distant kitchen sounds, Aira softly speaking through laugh "She would have said that about me too — almost never wrong."
+Negative: no subtitles, no on-screen text, no morphing, no warping, no captions, no logos.
+
+---
+
+### FRAME 6 — IMAGE PROMPT
+
+9:16 aspect ratio, strictly photorealistic, ultra-realistic, 8k resolution, raw cinematic beauty-campaign aesthetic, hyperreal commercial texture, anti-illustration, anti-comic-book, anti-CGI, real-camera lens behavior, shallow depth of field.
+
+SPATIAL ANCHOR: subject in center-third, body angled directly toward camera, both palms resting flat on countertop edge framing the dough, soft window light from camera-left, warm marble bounce from camera-right, dough mound and bowl foreground frame-bottom centered, rolling pin foreground frame-right, copper pots background frame-right, arched window deep background frame-left. Camera-side orientation is locked. Frame is NOT mirrored. Wider reveal of Tuscan kitchen. Travertine countertop foreground with dough, terracotta bowl, olive-wood rolling pin, glass olive oil jar, copper pots on rack mid-frame background, arched window with cypress hills deep background, soft-focus terracotta floor.
+
+Subject is Aira, mid-twenties adult woman, confident editorial presence, natural cinematic skin texture with flour smudge softening on one cheekbone, soft window light wrapping the cheek. Cream linen apron dress, ivory cotton t-shirt sleeve visible at upper arm with flour smudge. Honey-blonde waves, settled. Glowing fresh-morning base, peach blush, warm-rose satin lip, softly defined brow, dewy finish. Small thin gold hoops, one slim gold band on left ring finger. Soft-finished worn-in caramel suede mules, square open toe, 1cm flat leather sole, hand-burnished leather outsole with one visible repair stitch at the heel, tonal embroidered detail across the vamp. Product — terracotta bowl and dough centered foreground, both palms framing them on counter edge.
+
+L-arm: extended forward, left palm flat on countertop edge
+R-arm: extended forward, right palm flat on countertop edge
+L-leg: standing
+R-leg: standing
+Feet: mules planted on terracotta tile, partially visible at frame-bottom
+Waist: square to counter
+Head: chin lifted three degrees, eyes open to lens
+Gaze: direct lock to lens with quiet warm sovereignty
+Expr: settled emotional smile final, both cheekbones lifted softly with a closed-mouth smile and eyes warm-creased at the corners
+
+Medium-wide, frontal angle eye-level, 50mm lens, center-third alignment, f/2.8, slow pull-out.
+
+### FRAME 6 — VEO VIDEO PROMPT
+
+Camera: slow pull-out 50mm at eye-level, shallow depth of field, eight-second smooth backward tracking pull.
+Subject: young woman, settling palms on counter edge with final warm smile, both hands and head, downward then chin-lift, slow.
+Action and physics: apron front settles, honey-blonde hair drifts 1cm and settles, palms press flat 1mm into countertop edge.
+Environment: a single dust mote crosses the window-light beam in deep background.
+Lighting: soft window light from camera-left, warm marble bounce from camera-right.
+Style: hyperreal commercial texture, raw cinematic 8k, Roger Deakins natural-window palette, no CGI bloom, no plastic skin.
+Audio: ambient Tuscan morning, distant rooster, faint birdsong, soft breath.
+Negative: no subtitles, no on-screen text, no morphing, no warping, no captions, no logos.
+
+---
