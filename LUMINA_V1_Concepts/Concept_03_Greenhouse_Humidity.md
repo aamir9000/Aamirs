@@ -220,3 +220,169 @@ Lighting: soft white window light from camera-left, warm marble bounce from came
 Style: hyperreal commercial beauty texture, Mert and Marcus editorial color separation, no CGI bloom, no plastic skin.
 Audio: ambient greenhouse hush, soft exhale, no music, no dialogue.
 Negative: no subtitles, no on-screen text, no morphing, no warping, no captions, no logos.
+
+
+
+---
+
+## DIRECTOR'S LAYER (V1.1 UPGRADE)
+
+### CONCEPT-LEVEL DIRECTOR'S NOTES
+
+**REGIONAL/CULTURAL ANCHOR:** Kew Gardens Princess of Wales Conservatory in London at 11:18 local in mid-May. The white-painted cast-iron arched ribs are mid-Victorian, the orchid collection is the named tropical room. Outside the glass, English late-spring grey sky, but inside the conservatory the humidity is 87 percent. Cinematographer references the soft-window-into-warm-bounce color memory of Kew's tropical rooms in late spring.
+
+**ENVIRONMENTAL LIFE MARKER:** A single bumblebee visits an orchid bloom in deep-frame-right background at F2, F4, and F6 — its slow figure-eight flight pattern providing continuous-life thread across the reel. The bee never enters mid-frame, only lives in soft-focus deep background.
+
+**COLOR SCIENCE UPGRADE:** Fujifilm Pro 400H humid-room emulation. Highlight roll-off filmic shoulder on the condensation-glass key, no digital clip on the white-iron-rib highlights. ARRI Alexa LogC base with custom soft-cool-window against warm-marble-bounce chroma split. 35mm fine grain at ISO 400. Real lens halation around the soft window key, no digital glow.
+
+**POST-PRODUCTION LANGUAGE:** Grading intent — lift +5 in shadows on the warm bounce side, gamma 0.96, gain +2 on cool window highlights (deliberately gentle, this is a soft-light world). Tiffen Black Pro-Mist 1/2 diffusion equivalent (heavier, the humidity itself is the diffusion). Subtle horizontal cool streak from the condensation glass at f/2.0. Halation bleed around individual condensation droplets and the brass atomizer.
+
+**SILENCE BEAT DESIGNATION:** Frame 4 (macro insert at orchid stem rotation). Energy resets here — no lens contact, no perfume, no body movement. Only the orchid stem rotating between thumb and forefinger, the conservatory held in held breath.
+
+**MIRROR-PRODUCT MOMENT DESIGNATION:** Frame 5 — the brass atomizer is doubled by reflection in TWO surfaces: (1) a single condensation droplet on the foreground orchid leaf functions as a moving lens with the atomizer reflected inside it, and (2) the perfume mist plume itself acts as a soft-focus particulate field that catches a faint reflection of the brass atomizer body. Double mirror-product reflection through humid air.
+
+**THUMBNAIL FRAME DESIGNATION:** Frame 3 (rack focus near-to-far through orchid leaves to direct eye-contact). Face occupies approximately 32 percent of vertical frame at the rack-focus arrival. Eye contact through orchid leaves with humid dew on lashes is the engineered scroll-stop. The frame-within-a-frame composition (orchid leaves frame the face) creates the signature thumbnail.
+
+---
+
+### FRAME-BY-FRAME DIRECTOR'S NOTES
+
+#### FRAME 1 — DIRECTOR'S NOTES
+
+**Timing micro-choreography (8s):** 0:00–0:02 fingertips already on glass condensation. 0:02–0:04 head turn three degrees toward fingertips. 0:04–0:06 condensation droplet releases under fingertip pressure, slides down. 0:06–0:08 droplet reaches sill, fingertip pressure releases.
+
+**Gaze physics:** Entry point — gaze cast warmly toward fingertips on glass at 0.4m. Travel arc — gaze drifts from fingertips to the descending droplet. Hold duration — 4 seconds tracking the droplet. Pupil dilation cue: soft cool catchlight from condensation glass in the inner corner of the eye. Lash blink count: one slow drift-blink at 0:06 (humidity-heavy lash).
+
+**Breath choreography:** Slow humid breath, inhale 0:00–0:04, exhale 0:04–0:08. Chest rises softly under linen at 0:03. Audible soft inhale at 0:01.
+
+**Micro-skin storytelling:** Faint humidity dew along the temple in macro detail. Capillary flush warm on the cheek apple from the warm marble bounce. Single tendril of damp hair clings to the side of the throat from greenhouse humidity.
+
+**Product interaction sound-foley:** Brass atomizer cradled in left palm at hip, no contact sound. The fingertip on glass produces a soft skin-on-cool-glass micro-friction sound at 0:00.
+
+**Wardrobe interior life:** Linen sundress carries one fabric memory crease at the hip from sitting earlier. Right strap has migrated 2mm down the shoulder. Hem catches warm marble bounce along the fine weave with traveling sheen.
+
+**Sound design poetry:** Diegetic anchor — the specific Victorian conservatory water-drip-on-tile rhythm, every 4 seconds from a leaking valve, cathedral-of-plants resonance. Negative-space silence beat at 0:02–0:03 (held quiet between fingertip touch and droplet release). Foley specificity — fingertip sliding on cool condensation glass with skin-on-wet-glass squeak. ASMR marker — single condensation droplet sliding down glass with soft surface-tension whisper.
+
+**Transition DNA into Frame 2:** Audio bridge — the released droplet's tiny tile-tap at 0:08 of F1 becomes the soft footstep on tile at 0:00 of F2. Motion-vector bridge — the descending droplet of F1 carries downward energy into the parting-fern-frond of F2 (down becomes outward).
+
+---
+
+#### FRAME 2 — DIRECTOR'S NOTES
+
+**Timing micro-choreography (8s):** 0:00–0:02 walking forward, fingertips reach forward. 0:02–0:04 fingertips contact fern frond, frond begins to bend. 0:04–0:06 frond yields, mid-stride continues, hair tendrils lift 5cm. 0:06–0:08 frond releases behind, walk continues forward.
+
+**Gaze physics:** Entry point — gaze cast forward into conservatory depth at 2m. Travel arc — gaze drifts past the fern frond to the deeper foliage. Hold duration — 6 seconds forward gaze. Pupil dilation cue: pupils slightly dilated in the soft humid light. Lash blink count: one anticipatory blink at 0:03.
+
+**Breath choreography:** Anticipatory inhale 0:01, peaks 0:04, exhale 0:05–0:08. Chest rises with the forward stride at 0:03. Audible soft anticipatory breath at 0:02.
+
+**Micro-skin storytelling:** Goosebump beat across the bare arm from the cool fern-released humidity at 0:04. Capillary flush deepens on the cheek apples. Single humid droplet released from the fern frond lands on the inner forearm at 0:05.
+
+**Product interaction sound-foley:** Brass atomizer still in left palm at hip, no contact sound.
+
+**Wardrobe interior life:** Linen hem flares minutely with each step, the natural weave catches soft window key with traveling sheen. The bumblebee in deep background visits the first orchid at 0:02 (continuous-life thread).
+
+**Sound design poetry:** Diegetic anchor — the conservatory's specific humid-air ambient, plus the distant water drip continuing. Negative-space silence beat at 0:06–0:07 (after frond release). Foley specificity — fern frond bending under fingertip with the specific dry-leaf flex sound, then releasing with a soft snap-back. ASMR marker — humid droplet release from frond with imperceptible mid-air micro-burst.
+
+**Transition DNA into Frame 3:** Eyeline match — forward gaze of F2 lands on the teak bench position of F3 — the camera arrives where her gaze was pointed. Audio bridge — the leaf rustle tail of F2 becomes the held silence of F3. Motion-vector bridge — the forward walk of F2 arrives at the seated lean of F3.
+
+---
+
+#### FRAME 3 — DIRECTOR'S NOTES (THUMBNAIL FRAME)
+
+**Timing micro-choreography (8s):** 0:00–0:02 elbow plants on teak bench, body settles into lean. 0:02–0:04 head tilts six degrees toward camera, gaze begins lifting. 0:04–0:06 rack focus arrives at eyes, settled smile builds. 0:06–0:08 settled smile holds, single soft blink at 0:07.
+
+**Gaze physics:** Entry point — gaze lifts from teak bench at 0:01 to lens at 0:02. Travel arc — direct lens lock from 0:02 onward, micro-saccade of 1mm at 0:05. Hold duration — 6 seconds locked on lens. Pupil dilation cue: warm marble bounce catches in upper sclera producing soft warm catchlight in inner corner; pupil dilates micro-amount at 0:05 with the smile build. Lash blink count: one slow blink at 0:07 (humidity-weighted lash, 5 frames closed).
+
+**Breath choreography:** Soft inhale at 0:02 with the lean, holds 0:04–0:07. Chest rises under linen at 0:03. Audible single soft inhale at 0:02.
+
+**Micro-skin storytelling:** Visible humidity dew on individual eyelashes — each lash carries a tiny bead. Capillary flush warmly settled across the cheek apples. Single dewy point at the cupid's bow catches warm marble bounce.
+
+**Product interaction sound-foley:** Brass atomizer placed on teak bench at frame-foreground at 0:00 with a soft brass-on-teak micro-thock. Orchid stem now in right hand at chest level — soft stem-in-hand contact, no audible sound.
+
+**Wardrobe interior life:** Linen strap tension shifts subtly with the lean. Right strap migrates 1mm further with the seated lean. Bodice catches soft window key with weave detail visible.
+
+**Sound design poetry:** Diegetic anchor — the conservatory's deep humid hush, water drip continues distant. Negative-space silence beat at 0:04–0:06 (eye-contact lock with held breath). Foley specificity — orchid leaves at foreground drifting in the humid air with imperceptible leaf-micro-friction. ASMR marker — single soft inhale at 0:02 audible at intimate proximity.
+
+**Transition DNA into Frame 4:** Match-cut intent — the orchid stem in F3 cuts to the orchid bloom in F4 at the same lens. Color bridge — warm marble bounce on cheekbone in F3 becomes warm bounce on orchid petal underside in F4. Motion-vector bridge — the held lean of F3 transitions to the bloom-rotation of F4.
+
+---
+
+#### FRAME 4 — DIRECTOR'S NOTES (SILENCE BEAT)
+
+**Timing micro-choreography (8s):** 0:00–0:02 orchid stem at eye-level, single condensation droplet visible on petal edge. 0:02–0:04 thumb and forefinger begin slow rotation clockwise. 0:04–0:06 rotation reaches quarter-turn, droplet trembles. 0:06–0:08 rotation completes, droplet releases and falls.
+
+**Gaze physics:** Entry point — gaze warmly cast at orchid bloom from 0:00. Travel arc — gaze tracks the rotating petal vein. Hold duration — 8 seconds eyes on orchid. Pupil dilation cue: pupils slightly dilated to take in the bloom detail. Lash blink count: zero blinks (the held watch).
+
+**Breath choreography:** Slow reverent breath, inhale 0:00–0:04, hold 0:04–0:08. Chest barely rises. No audible breath, the silence is the point.
+
+**Micro-skin storytelling:** Visible pore micro-detail on cheekbone in soft window key. Humidity dew on individual eyelashes. Single condensation droplet on orchid petal trembles with the rotation, releases and falls past frame at 0:07.
+
+**Product interaction sound-foley:** Orchid stem rotates between thumb and forefinger with a soft stem-twist micro-sound at 0:02–0:06. The stem itself produces no audible noise, only the soft fingertip-on-stem friction.
+
+**Wardrobe interior life:** Linen strap tension steady. Body held still for the rotation, the focus is entirely in the hand and the bloom.
+
+**Sound design poetry:** Diegetic anchor — the conservatory's deep humid hush, water drip continues distant. Negative-space silence beat — the entire frame is silence beat, this is the designated still-water frame. Foley specificity — single condensation droplet on petal trembling and releasing with imperceptible mid-air burst. ASMR marker — the soft stem-twist between fingertips at macro proximity.
+
+**Transition DNA into Frame 5:** Motion-vector bridge — the rotating orchid stem ends at 0:08, the body shifts toward decolletage offer of F5. Audio bridge — silence of F4 breaks with the silk-tassel squeeze of F5. The bumblebee visits a second orchid at 0:04 in deep background (continuous-life thread).
+
+---
+
+#### FRAME 5 — DIRECTOR'S NOTES (MIRROR-PRODUCT MOMENT)
+
+**Timing micro-choreography (8s):** 0:00–0:02 atomizer pressed at decolletage, fingers grip silk tassel. 0:02–0:04 silk tassel squeezed, mist begins releasing. 0:04–0:06 mist plume reaches peak particulate density. 0:06–0:08 mist drifts and dissipates, scent inhalation begins.
+
+**Gaze physics:** Entry point — eyes already closed from 0:00. Travel arc — closed throughout. Pupil dilation cue: not visible. Lash blink count: zero (held closed).
+
+**Breath choreography:** Inhale begins 0:04 as scent registers, peaks 0:06, holds 0:06–0:08. Chest visible rise under linen at 0:06. Audible soft scent inhale at 0:05–0:07.
+
+**Micro-skin storytelling:** Goosebump beat rising along the decolletage from the cool atomizer mist hitting warm humid skin. Visible downy hairs along collarbone lifting in the mist plume. Single perfume mist droplet pools at the suprasternal notch.
+
+**Product interaction sound-foley:** Silk tassel squeeze produces a soft fabric-compression sound at 0:01. Atomizer release begins 0:02 — a soft brass-bulb hiss for 2 seconds. Tassel returns to seated position at 0:04 with a soft fabric release.
+
+**Wardrobe interior life:** Linen shoulder strap migrates 2mm with the head-tilt that exposes the decolletage. Bodice strap tension shifts with the right-arm movement to atomizer.
+
+**Sound design poetry:** Diegetic anchor — the brass atomizer's specific soft-bulb hiss, that exact 2-second controlled release. Negative-space silence beat at 0:00–0:01 before the squeeze. Foley specificity — perfume mist droplets landing on individual collarbone hairs with imperceptible micro-impact. ASMR marker — the scent inhale through softly parted lips at 0:06.
+
+**Mirror-product moment realization:** The brass atomizer is doubled at 0:04–0:06 in TWO surfaces: (1) a single condensation droplet on a foreground orchid leaf at frame-edge functions as a moving lens, and inside it the brass atomizer body is visible in tiny inverted reflection, and (2) the dense perfume mist plume itself catches a faint warm-bounce reflection of the atomizer body in its particulate field. Double mirror-product reflection through humid air.
+
+**Transition DNA into Frame 6:** Audio bridge — atomizer hiss tail bleeds into the soft inhale of F6. Motion-vector bridge — outward mist expansion of F5 becomes the inward orchid-to-nose gesture of F6 (out becomes in). Color bridge — warm key on decolletage in F5 carries to warm key on cheek in F6.
+
+---
+
+#### FRAME 6 — DIRECTOR'S NOTES
+
+**Timing micro-choreography (8s):** 0:00–0:02 orchid stem lifted toward face, eyes begin closing. 0:02–0:04 stem reaches nose-level, eyes fully closed. 0:04–0:06 deep inhale, orchid petal trembles at the breath. 0:06–0:08 inhale holds, micro-smile builds.
+
+**Gaze physics:** Entry point — eyes closing at 0:01. Travel arc — closed throughout from 0:02. Pupil dilation cue: not visible. Lash blink count: held closed.
+
+**Breath choreography:** Deep inhale begins 0:02, peaks 0:05, holds 0:05–0:08. Chest rises high under linen at 0:04. Audible soft deep inhale at 0:04–0:06.
+
+**Micro-skin storytelling:** Capillary flush warm and deepened on cheek apples from the inhale. Humidity dew on lashes settles. Single hair tendril at temple drifts with the inhale breath movement.
+
+**Product interaction sound-foley:** Orchid stem held to nose, no contact sound at this beat. Brass atomizer back in left palm at hip with soft brass-on-skin contact.
+
+**Wardrobe interior life:** Linen hem trembles softly with the half-arc orbit camera motion. Strap tension settles. The bumblebee visits the third orchid at 0:04 in deep background (final continuous-life beat).
+
+**Sound design poetry:** Diegetic anchor — the conservatory's humid hush, water drip continues. Negative-space silence beat at 0:00–0:01 (anticipatory silence before the inhale). Foley specificity — orchid petal trembling at the inhale breath with imperceptible petal-flutter. ASMR marker — the deep scent inhale itself, intimate and reverent.
+
+**Transition DNA into Frame 7:** Eyeline match — closed eyes of F6 reopen in F7 directly to lens. Audio bridge — deep inhale of F6 settles into the soft exhale of F7. Motion-vector bridge — the orchid lifted to nose in F6 transitions to orchid resting on collarbone in F7.
+
+---
+
+#### FRAME 7 — DIRECTOR'S NOTES (PAYOFF SEAL)
+
+**Timing micro-choreography (8s):** 0:00–0:02 orchid lowers from nose to right collarbone, eyes begin opening. 0:02–0:04 orchid settles against collarbone, eyes lock to lens. 0:04–0:06 settled gaze deepens, single dew bead releases from lash. 0:06–0:08 micro-smile at corners builds, gaze holds.
+
+**Gaze physics:** Entry point — eyes open at 0:02 directly to lens. Travel arc — direct lens lock from 0:02 onward. Hold duration — 6 seconds locked on lens. Pupil dilation cue: warm marble bounce catches in inner corner producing soft warm catchlight; pupil dilates micro-amount at 0:05. Lash blink count: zero blinks (the held seal).
+
+**Breath choreography:** Settled exhale 0:00–0:04, soft inhale 0:04–0:08. Chest rises softly. Audible soft exhale at 0:02.
+
+**Micro-skin storytelling:** Skin glowing in dewy humidity finish. Capillary flush warm and settled. Single dew bead on lash holds, releases at 0:05, falls past frame imperceptibly.
+
+**Product interaction sound-foley:** Brass atomizer at hip, soft brass-on-skin contact. Orchid petal at collarbone produces no audible sound, only the soft petal-on-skin contact at 0:03.
+
+**Wardrobe interior life:** Linen strap tension settled, the migrated straps now hold final position. Bodice catches soft window key with weave detail visible in final settled sheen.
+
+**Sound design poetry:** Diegetic anchor — the conservatory's humid hush settles. Negative-space silence beat at 0:04–0:06 (eye-contact lock with held breath). Foley specificity — soft exhale through softly parted lips. ASMR marker — the soft exhale itself, intimate and reverent.
+
+**Transition DNA out:** This is the seal. The reel ends on the held dewy gaze + orchid-at-collarbone composition at 0:08. The bumblebee in deep background completes its figure-eight and exits frame at 0:06, closing the continuous-life thread.

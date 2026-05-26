@@ -1,6 +1,6 @@
 # CONCEPT 02 — MIDNIGHT KITCHEN (INSOMNIA GLOW)
 
-**20-WORD REEL SUMMARY:** Aira drifts into a dim marble kitchen at 3am, opens the fridge, eats cake, applies lip oil, smiles knowingly.
+**20-WORD REEL SUMMARY:** Aira drifts into a marble kitchen at 3am, opens fridge, eats vanilla cake, applies lip oil, smiles knowingly at reflection.
 
 **WORLD / THEME:** Late-night insomnia ritual inside an architect's marble kitchen lit by a single brass pendant. Quiet, intimate, sovereign-after-hours.
 
@@ -212,3 +212,169 @@ Lighting: warm pendant from above-center keys crown and reflected face, soft war
 Style: hyperreal commercial beauty texture, Mert and Marcus editorial color separation, no CGI bloom, no plastic skin.
 Audio: ambient quiet kitchen, soft amused exhale, no music, no dialogue.
 Negative: no subtitles, no on-screen text, no morphing, no warping, no captions, no logos.
+
+
+
+---
+
+## DIRECTOR'S LAYER (V1.1 UPGRADE)
+
+### CONCEPT-LEVEL DIRECTOR'S NOTES
+
+**REGIONAL/CULTURAL ANCHOR:** Manhattan Tribeca loft kitchen at 03:14 local in late October. The kitchen is a renovated cast-iron warehouse conversion — the Carrara marble island is honed not polished, the fluted oak cabinetry is rift-cut white oak in a custom warm-walnut stain. The exterior dark window at deep background looks down onto Franklin Street, the city light spill is faint and far. Cinematographer references the warm-pendant-and-cool-window color memory of late-night Tribeca interiors.
+
+**ENVIRONMENTAL LIFE MARKER:** A single drop of water from the just-closed fridge door seal swells, hangs, and falls from the door's lower lip across the reel. The drop is visible at frame-edge in F2 (forming on the door seal), F4 (mid-fall in deep background blur), and lands silently on the wood floor at F7. Continuous-life thread.
+
+**COLOR SCIENCE UPGRADE:** Kodak Portra 800 night-interior emulation. Highlight roll-off filmic shoulder on the brass pendant pool, no digital clip on the gold cap specular. ARRI Alexa LogC base with custom warm-amber pendant pool against deep-cool window-void chroma split. 35mm fine grain pushed half-stop in shadows. Real lens halation around the warm pendant glow, no digital bloom.
+
+**POST-PRODUCTION LANGUAGE:** Grading intent — lift +8 in shadows on the cool fridge-spill side at F1–F2, gamma 0.94, gain +4 on amber pendant highlights. Tiffen Black Pro-Mist 1/8 diffusion equivalent (lighter than F1 because the kitchen is sharper architecturally). Subtle horizontal warm streak from the pendant filament at f/2.0. Halation bleed around the brass pendant edge and the gold-rimmed plate.
+
+**SILENCE BEAT DESIGNATION:** Frame 6 (rack focus near-to-far during lip oil application). Energy resets here — no laughter, no eye contact, no spoken beat. Only the doe-foot applicator's slow leftward sweep across the lower lip, the entire kitchen held in held breath.
+
+**MIRROR-PRODUCT MOMENT DESIGNATION:** Frame 7 — the lip oil wand is doubled in the dark window's soft warm reflection at deep-center background, AND the marble island catches a soft warm reflection of the wand's brushed-gold cap. Double mirror reflection. The product reflects in two surfaces simultaneously.
+
+**THUMBNAIL FRAME DESIGNATION:** Frame 3 (slow push-in to medium close-up at the island, settled-smile direct camera intimacy). Face occupies approximately 35 percent of vertical frame at the push-in arrival point. The leaning-on-marble-with-direct-eye-contact beat is the engineered scroll-stop. Conspiracy is the emotional hook.
+
+---
+
+### FRAME-BY-FRAME DIRECTOR'S NOTES
+
+#### FRAME 1 — DIRECTOR'S NOTES
+
+**Timing micro-choreography (8s):** 0:00–0:02 hand on fridge door, fridge interior cool spill on profile. 0:02–0:04 head turn three degrees toward fridge interior, gaze drift inside. 0:04–0:06 fingertip pressure releases on door edge. 0:06–0:08 fridge door begins to swing toward closed position, cool light begins to reduce.
+
+**Gaze physics:** Entry point — soft mid-distance into fridge interior at 0.6m. Travel arc — gaze drifts left across fridge contents at 0:03. Hold duration — 3 seconds inside fridge then begins lifting. Pupil dilation cue: pupils wide from the cool spill, then begin to constrict. Lash blink count: one slow drift-blink at 0:05.
+
+**Breath choreography:** Slow night breath, inhale 0:00–0:03, exhale 0:03–0:07, settle 0:07–0:08. Chest barely rises under silk charmeuse. Audible soft single inhale at 0:01.
+
+**Micro-skin storytelling:** Goosebump beat across the bare arm closest to the fridge cool spill, faint and brief. Capillary flush gone — skin reads as honest 3am pale. Single fridge-cooled breath fog visible at the lips at 0:02 in the cool spill direction.
+
+**Product interaction sound-foley:** No product contact at this beat. The lip oil wand sits quietly on marble in the foreground, registered offscreen.
+
+**Wardrobe interior life:** Silk charmeuse slip nightdress carries one fabric memory crease at the right hip from sleeping on that side. Left strap has migrated 4mm down the shoulder, undisturbed. Hem reads as soft slept-in.
+
+**Sound design poetry:** Diegetic anchor — the specific fridge-compressor low hum, that warm refrigerated kitchen drone. Negative-space silence beat at 0:04–0:05 (between fridge gaze and door release). Foley specificity — fridge door rubber seal releasing with a soft suction-break. ASMR marker — barefoot pad on warm wood floor with subtle skin-on-grain micro-friction.
+
+**Transition DNA into Frame 2:** Audio bridge — fridge seal release tail bleeds into the fridge-door-closing soft thud of F2. Motion-vector bridge — the begin-to-close door of F1 completes its arc into the closed position of F2. Color bridge — cool fridge spill reduces from F1 to F2 as door closes, warm pendant pool emerges as dominant.
+
+---
+
+#### FRAME 2 — DIRECTOR'S NOTES
+
+**Timing micro-choreography (8s):** 0:00–0:02 fridge door completes closing thud, cool spill removes. 0:02–0:04 fingertips slide along marble island edge, walk begins. 0:04–0:06 mid-stride, hair tendrils lift approximately 6cm. 0:06–0:08 step continues toward island, hair settles.
+
+**Gaze physics:** Entry point — gaze toward island still-life at 1.5m. Travel arc — gaze tracks along the marble veining toward where the cake plate sits. Hold duration — 5 seconds on the still-life. Pupil dilation cue: pupils slowly constrict as warm pendant pool dominates. Lash blink count: zero blinks (the deliberate watch).
+
+**Breath choreography:** Slow night breath continues, inhale 0:01–0:04, exhale 0:04–0:08. Chest rise visible under charmeuse at 0:03. No audible breath this frame.
+
+**Micro-skin storytelling:** Capillary flush beginning to return on the cheek apple as warm pendant pool keys the face. Wood-floor warmth on bare soles producing faint pink pressure marks. Single hair strand falls across the cheekbone at 0:05.
+
+**Product interaction sound-foley:** Fingertips trail along marble — the specific fingertip-on-honed-marble micro-friction sound, soft and dry. No product contact.
+
+**Wardrobe interior life:** Silk charmeuse hem trembles minutely with each barefoot step, the bias seam catches warm pendant pool with traveling sheen. Right strap of nightdress migrates 1mm further with the walking arc.
+
+**Sound design poetry:** Diegetic anchor — the fridge door soft thud closing at 0:01, then absolute kitchen silence. Negative-space silence beat at 0:02–0:04 (the held silence after the door closes, before the marble fingertip glide). Foley specificity — barefoot heel-roll-to-toe on warm walnut floorboards with grain creak at 0:04. ASMR marker — fingertip sliding along honed marble edge, dry whisper sound.
+
+**Transition DNA into Frame 3:** Motion-vector bridge — the forward walk of F2 arrives at the island lean of F3 with no cut. Audio bridge — barefoot step rhythm of F2 stops at the planted-stance silence of F3. Eyeline match — the gaze toward the still-life in F2 lifts to the lens in F3.
+
+---
+
+#### FRAME 3 — DIRECTOR'S NOTES (THUMBNAIL FRAME)
+
+**Timing micro-choreography (8s):** 0:00–0:02 both palms plant on marble, soft hip pop forms. 0:02–0:04 forward lean begins, hair drifts forward. 0:04–0:06 push-in arrives at face-distance, eyes settle on lens. 0:06–0:08 settled smile builds, single soft blink at 0:07.
+
+**Gaze physics:** Entry point — eyes lift from marble to lens at 0:01. Travel arc — direct lens lock from 0:02 onward, micro-saccade of 1mm at 0:05. Hold duration — 6 seconds locked on lens from 0:02. Pupil dilation cue: warm pendant pool catches in upper sclera producing soft amber catchlight in inner corner; pupil dilates micro-amount at 0:05 with the smile build. Lash blink count: one slow blink at 0:07 (5 frames closed).
+
+**Breath choreography:** Soft inhale begins 0:02 with the lean, holds 0:04–0:07. Chest rises under charmeuse at 0:03. Audible single soft inhale at 0:02.
+
+**Micro-skin storytelling:** Visible pore micro-detail on the cheekbone in the warm pendant pool. Capillary flush warmly returning across the cheek apples from the lean and the smile. Single dewy point at the cupid's bow of the upper lip catches warm specular.
+
+**Product interaction sound-foley:** Lip oil wand on marble in foreground left of frame, glass-on-marble micro-rest sound at 0:00 (residual from being placed). No active contact this beat.
+
+**Wardrobe interior life:** Silk charmeuse strap tension shifts subtly with the forward lean. Right strap migrates 1mm further down the shoulder during the lean. Bodice catches warm pendant pool along the bias seam with traveling sheen.
+
+**Sound design poetry:** Diegetic anchor — the warm pendant lamp's faint electrical hum, that specific 60Hz tungsten resonance. Negative-space silence beat at 0:04–0:06 (the eye-contact lock with held breath). Foley specificity — palms planting on honed marble with soft skin-on-stone whisper. ASMR marker — single soft inhale at 0:02 audible at intimate proximity.
+
+**Transition DNA into Frame 4:** Match-cut intent — the eye in F3 cuts to the cake fork in F4 at the same f-stop, same 85mm-to-100mm shift. Color bridge — warm key on cheekbone in F3 becomes warm key on cake-fork tines in F4. Eyeline match — the lens-direct gaze of F3 redirects to fork-down gaze of F4 with no break.
+
+---
+
+#### FRAME 4 — DIRECTOR'S NOTES
+
+**Timing micro-choreography (8s):** 0:00–0:02 fork lifted toward chest, fingertips at jawline anticipation. 0:02–0:04 fork rises toward lips, eyes begin closing. 0:04–0:06 cake bite at fork tines reaches lower lip, eyes fully closed. 0:06–0:08 lips part softly to receive bite, fork tips touch lip.
+
+**Gaze physics:** Entry point — gaze warmly cast at cake on fork from 0:00. Travel arc — gaze tracks the rising fork. Hold duration — 4 seconds on the fork before eyes close at 0:04. Pupil dilation cue: soft warm catchlight in the fork tine reflected in eye. Lash blink count: zero blinks before 0:04, then held closed.
+
+**Breath choreography:** Anticipatory inhale begins 0:01, peaks 0:04 as eyes close, holds 0:04–0:08. Chest rises under charmeuse at 0:03. Audible soft anticipatory exhale at 0:02.
+
+**Micro-skin storytelling:** Capillary flush warm on cheek apples. Single vanilla-bean seed visible on cake at fork tines at macro proximity. Lower lip surface dewy from the warm pendant pool, slight micro-glisten catches.
+
+**Product interaction sound-foley:** Fork lifted from porcelain plate at 0:00 produces a soft gold-on-porcelain micro-clink. Fork tip approaches lip — no contact sound until F5. Lip oil wand on marble at frame-left foreground, undisturbed.
+
+**Wardrobe interior life:** Silk charmeuse strap tension steady. Single hair strand drifts past jawline at 0:03 during the slow upward arc.
+
+**Sound design poetry:** Diegetic anchor — the warm pendant hum, kitchen still otherwise. Negative-space silence beat at 0:00–0:02 (anticipatory silence before the fork lift). Foley specificity — cake crumb releasing from fork tine and falling with imperceptible micro-bounce. ASMR marker — soft anticipatory exhale through softly parted lips.
+
+**Transition DNA into Frame 5:** Motion-vector bridge — the rising fork of F4 continues into the fork-tip-at-lip of F5 with no cut. Audio bridge — anticipatory exhale of F4 becomes the soft satisfied breath of F5. Color bridge — warm key on cake at F4 carries identically to warm key on lips at F5.
+
+---
+
+#### FRAME 5 — DIRECTOR'S NOTES
+
+**Timing micro-choreography (8s):** 0:00–0:02 fork-tip touches lower lip, soft bite begins. 0:02–0:04 lower lip catches at the corner, lip-bite forms. 0:04–0:06 single cake crumb releases and falls past frame in slow gravity. 0:06–0:08 lip-bite holds, micro-smile builds at corners.
+
+**Gaze physics:** Entry point — eyes already closed from F4 carryover. Travel arc — closed throughout. Pupil dilation cue: not visible. Lash blink count: held closed, single eyelash flutter at 0:04 (3 frames of micro-flutter).
+
+**Breath choreography:** Held breath at 0:00–0:04, soft satisfied exhale begins 0:04, peaks 0:06. Chest barely rises. Audible soft satisfied breath at 0:05.
+
+**Micro-skin storytelling:** Lip oil sheen catches warm specular at 0:03 as lip oil layer mingles with cake fat. Visible pore micro-detail at cheekbone. Lower lip's vermilion border deepens slightly from the bite.
+
+**Product interaction sound-foley:** Fork tip on lip — soft contact sound at 0:01 (gold-on-skin imperceptible). The bite itself is silent except for a soft micro-press of teeth on lower lip at 0:03.
+
+**Wardrobe interior life:** Silk charmeuse strap tension steady, the moment is held entirely in the face.
+
+**Sound design poetry:** Diegetic anchor — kitchen quiet, warm pendant hum. Negative-space silence beat — almost the entire frame is silence beat, only the satisfied exhale at 0:05 breaks it. Foley specificity — cake crumb falling past frame with a perfect imperceptible bounce on marble at 0:05. ASMR marker — the satisfied exhale itself, quiet and intimate.
+
+**Transition DNA into Frame 6:** Audio bridge — satisfied exhale of F5 carries directly into the focused application breath of F6. Eyeline match — closed eyes of F5 will reopen in F6 cast downward at the wand. Motion-vector bridge — the static lip-bite of F5 transitions to the wand-to-lip glide of F6.
+
+---
+
+#### FRAME 6 — DIRECTOR'S NOTES (SILENCE BEAT)
+
+**Timing micro-choreography (8s):** 0:00–0:02 wand uncapped, doe-foot positioned at lower lip. 0:02–0:04 doe-foot glides leftward across lower lip. 0:04–0:06 oil ribbon deposits, lower lip releases forward. 0:06–0:08 wand lifts off lip, soft return path begins.
+
+**Gaze physics:** Entry point — eyes downcast at lip in concentration from 0:00. Travel arc — eyes track the wand's leftward glide. Hold duration — 8 seconds eyes locked on lip. Pupil dilation cue: pupils micro-constrict on the bright glass wand. Lash blink count: zero blinks (the focus).
+
+**Breath choreography:** Slowest breath of the reel. Inhale 0:00–0:04, hold 0:04–0:08. Chest barely rises. No audible breath, the silence is the point.
+
+**Micro-skin storytelling:** Lip surface in macro detail — visible vermilion border, visible lip texture lines, oil ribbon catches warm specular as it deposits. Visible pore micro-detail at cheekbone from cupping support hand.
+
+**Product interaction sound-foley:** Wand cap unscrewed at 0:00 with the specific glass-on-glass cap-thread micro-rotation sound. Doe-foot applicator releases from cap with a soft kiss-sound from the rim at 0:01. Doe-foot at lip glide produces a soft moist applicator-on-lip whisper at 0:02–0:06. Cap rests on marble beside, glass-on-marble micro-contact at 0:00.
+
+**Wardrobe interior life:** Silk charmeuse strap tension steady, body held still for the application. Right strap migrates a final 1mm with the chin-cup support gesture.
+
+**Sound design poetry:** Diegetic anchor — the warm pendant hum, otherwise the entire kitchen holds its breath. Negative-space silence beat — the entire frame is silence beat, this is the designated still-water frame. Foley specificity — doe-foot applicator gliding on dewy lip with perfect intimate moist friction. ASMR marker — that exact applicator-on-lip glide at macro proximity.
+
+**Transition DNA into Frame 7:** Match-cut intent — the lip in F6 cuts to the lip in F7 at the same f-stop. Audio bridge — silence of F6 breaks with the soft amused exhale of F7. Motion-vector bridge — the wand's leftward glide ends, the body begins lifting upward toward the window reflection of F7.
+
+---
+
+#### FRAME 7 — DIRECTOR'S NOTES (PAYOFF SEAL + MIRROR-PRODUCT MOMENT)
+
+**Timing micro-choreography (8s):** 0:00–0:02 wand capped and rests on marble, eyes lift toward window reflection. 0:02–0:04 two fingers approach right eye corner. 0:04–0:06 wink begins, right eyelid micro-closes. 0:06–0:08 wink completes, mouth corner lifts in tongue-in-cheek smile.
+
+**Gaze physics:** Entry point — eyes lift to dark window at 0:01, lock on own reflection at 0:02. Travel arc — direct eye-contact with own reflection in dark window throughout. Hold duration — 6 seconds locked on own reflection. Pupil dilation cue: warm pendant pool catches in left eye sclera (the open eye), pupil dilates micro-amount with the smile. Lash blink count: the wink itself is the only eye motion, right eye held mid-closed for 4 frames.
+
+**Breath choreography:** Soft amused exhale at 0:03, settle 0:05–0:08. Chest barely rises. Audible soft amused exhale at 0:03.
+
+**Micro-skin storytelling:** Capillary flush warm and settled across full face. Lip oil sheen at peak, lower lip catches warm specular. Single dewy point at the cupid's bow holds.
+
+**Product interaction sound-foley:** Wand capped — soft cap-thread micro-rotation sound at 0:00. Wand rests on marble with glass-on-marble micro-contact at 0:01. No further product contact.
+
+**Wardrobe interior life:** Silk charmeuse settled, the migrated straps now hold their final position. Bodice catches warm pendant pool along bias seam in final settled sheen.
+
+**Sound design poetry:** Diegetic anchor — the warm pendant hum and the soft fridge compressor, the kitchen settles. Negative-space silence beat at 0:06–0:07 (between wink and smile). Foley specificity — two fingers' soft skin-on-skin contact at the eye corner with the wink. ASMR marker — the soft amused exhale, intimate and conspiratorial.
+
+**Mirror-product moment realization:** The lip oil wand on the marble island is doubled in TWO surfaces simultaneously at 0:02–0:08: (1) the dark window's soft warm reflection at deep-center background shows the wand silhouetted against the warm pendant glow, and (2) the honed marble island catches a soft warm reflection of the wand's brushed-gold cap on its left flank. Double mirror-product reflection.
+
+**Transition DNA out:** This is the seal. The reel ends on the wink + smile combo at 0:08. The two-surface product reflection holds in the final freeze.

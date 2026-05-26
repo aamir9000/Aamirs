@@ -1,6 +1,6 @@
 # CONCEPT 01 — RAIN RITUAL (CAUGHT IN THE STORM)
 
-**20-WORD REEL SUMMARY:** Aira steps into sudden warm rain on cobblestone, lifts her face skyward, mists perfume, laughs, and seals with eye-contact.
+**20-WORD REEL SUMMARY:** Aira steps into sudden warm summer rain on cobblestone, lifts face skyward, laughs open-mouth, mists perfume, seals with golden flying-kiss.
 
 **WORLD / THEME:** Old European cobblestone alley caught in a sudden warm summer downpour at golden hour. Romantic, weather-broken, sovereign.
 
@@ -212,3 +212,169 @@ Lighting: warm golden-hour key from camera-right rim-lighting hair and fingertip
 Style: hyperreal commercial beauty texture, Roger Deakins golden-hour color science, no CGI bloom, no plastic skin.
 Audio: ambient softening rain, soft kiss release breath, no music, no dialogue.
 Negative: no subtitles, no on-screen text, no morphing, no warping, no captions, no logos.
+
+
+
+---
+
+## DIRECTOR'S LAYER (V1.1 UPGRADE)
+
+### CONCEPT-LEVEL DIRECTOR'S NOTES
+
+**REGIONAL/CULTURAL ANCHOR:** Lisbon Alfama in late June at 19:42 local — the alley between Rua de São Tomé and the cathedral. The cobblestone is hand-cut Portuguese black basalt with white limestone sett borders, the limestone facades carry that specific warm-cream Atlantic patina. Cinematographer references the warm-amber-into-violet evening color memory of this exact district.
+
+**ENVIRONMENTAL LIFE MARKER:** A single soaked plane-tree leaf detaches from a balcony railing at frame-right deep background and falls in slow physics across all 7 frames, reaching the cobblestone at F7 — its descent visible in F2, F4, and F6 in the deep background blur, providing continuous-life thread.
+
+**COLOR SCIENCE UPGRADE:** Kodak Vision3 500T pushed half-stop emulation. Highlight roll-off filmic shoulder, no digital clip on the rain-bottle specular. ARRI Alexa LogC base with custom warm-amber to cool-cyan complementary chroma split. 35mm fine grain at ISO 800. Real lens halation around the warm key, no digital glow.
+
+**POST-PRODUCTION LANGUAGE:** Grading intent — lift +6 in shadows on the cool fill side, gamma 0.92, gain +3 on amber highlights. Tiffen Black Pro-Mist 1/4 diffusion equivalent. Anamorphic horizontal blue streak from the perfume bottle facets at f/2.0. Subtle warm halation bleed around the wet cobblestone specular and the bottle's gold collar.
+
+**SILENCE BEAT DESIGNATION:** Frame 4 (the macro insert at eye-level rotating the bottle). Energy resets here — no laughter, no kiss, no movement of the body, only the bottle and the rain. The reel breathes here before the F5 mist release.
+
+**MIRROR-PRODUCT MOMENT DESIGNATION:** Frame 4 — the perfume bottle is doubled by a single rain droplet running down its faceted face, the droplet acting as a moving lens that compresses and inverts a tiny inverted image of the bottle itself. The product is doubled inside its own water-bead reflection.
+
+**THUMBNAIL FRAME DESIGNATION:** Frame 3 (rack focus far-to-near, eye-contact through wet lashes). Face occupies approximately 38 percent of vertical frame at the rack-focus arrival point. Eye contact is engineered as the scroll-stop. The wet lash + direct gaze + warm key on cheekbone is the engineered thumbnail beat.
+
+---
+
+### FRAME-BY-FRAME DIRECTOR'S NOTES
+
+#### FRAME 1 — DIRECTOR'S NOTES
+
+**Timing micro-choreography (8s):** 0:00–0:02 subject already in frame, first rain droplet lands on cobblestone at frame-foreground. 0:02–0:04 head begins lifting toward sky, fingertips at collarbone press in. 0:04–0:06 chin reaches three-degree lift, second rain wave intensifies. 0:06–0:08 first hair tendril begins clinging to temple, breath inhale completes.
+
+**Gaze physics:** Entry point — soft mid-distance into rain veil at 1.8m. Travel arc — slow upward arc from horizon-line to sky over 4 seconds. Hold duration — 2 seconds at upper arc. Pupil dilation cue: warm key catches in inner corner producing soft amber catchlight. Lash blink count: zero blinks across the 8 seconds.
+
+**Breath choreography:** Slow inhale begins 0:01, peaks at 0:05, hold 0:05–0:07, gentle release begins 0:07. Chest rises visibly under silk crepe at 0:03. Audible soft inhale at 0:05.
+
+**Micro-skin storytelling:** Capillary flush rising along the cheekbone ridge as warm rain hits warm skin. First goosebump beat across the forearm at 0:04 from cool sky bounce. Single rain droplet migrates from temple to jawline across 0:05–0:08.
+
+**Product interaction sound-foley:** Bottle concealed in cupped palm, no contact sound at this beat.
+
+**Wardrobe interior life:** Silk crepe bias seam tension shifts visibly with breath inhale. Trench coat over forearm carries one fabric memory fold from being worn an hour earlier. Right shoulder strap of slip dress has migrated 3mm down the shoulder, never adjusted.
+
+**Sound design poetry:** Diegetic anchor — single warm rain droplet hitting wet cobblestone with that specific hollow-stone resonance. Negative-space silence beat at 0:02–0:03 (held inhale before the rain intensifies). Foley specificity — silk crepe bias seam scrape against ribcage with breath. ASMR marker — soft single rain bead bursting on lower lip surface.
+
+**Transition DNA into Frame 2:** Audio bridge — the held inhale of F1 becomes the open-mouth laugh release of F2. Motion-vector bridge — the upward chin lift of F1 continues into the head-back arc of F2 with no interruption. Color bridge — warm key on collarbone in F1 carries to warm key on throat in F2.
+
+---
+
+#### FRAME 2 — DIRECTOR'S NOTES
+
+**Timing micro-choreography (8s):** 0:00–0:02 head begins arcing back, hair lifts. 0:02–0:04 mouth opens, throat exposed. 0:04–0:06 hair reaches peak 12cm lift, laugh breath audible. 0:06–0:08 hair settles in slow gravity descent, chin starts returning down.
+
+**Gaze physics:** Entry point — closed eyes from 0:00. Travel arc — none, eyes closed throughout. Pupil dilation cue: no eye contact this frame. Lash blink count: zero (eyes held closed). Lashes catch rain bead at 0:05 visible at macro.
+
+**Breath choreography:** Open-mouth laugh exhale begins 0:02, peaks 0:04–0:05, settles 0:06–0:08. Chest rises high at 0:03 then drops at 0:06. Audible soft uninhibited laugh breath through 0:03–0:06.
+
+**Micro-skin storytelling:** Throat pulse visible at the carotid line in the rim light at 0:04. Capillary flush deepens across cheek apples from laugh exertion. Rain droplet trail migrates from chin down throat to collarbone hollow across 0:04–0:08.
+
+**Product interaction sound-foley:** Bottle still concealed at hip, no contact sound at this beat.
+
+**Wardrobe interior life:** Silk crepe bodice tension shifts dramatically with the deep inhale-exhale arc. Trench coat over forearm sways with the head-back motion. Left strap of slip dress migrates 2mm further down with the throat exposure.
+
+**Sound design poetry:** Diegetic anchor — distant church bell strikes the half-hour from the cathedral 200m away. Negative-space silence beat at 0:00–0:01 before the laugh breaks. Foley specificity — wet-hair-on-skin slap as strands settle on the collarbone at 0:07. ASMR marker — soft uninhibited laugh exhale with throat resonance.
+
+**Transition DNA into Frame 3:** Eyeline match — closed eyes of F2 open at the start of F3 directly to lens. Audio bridge — laugh exhale tail bleeds into the held inhale of F3. Color bridge — warm rim light on throat in F2 becomes warm key on cheekbone in F3.
+
+---
+
+#### FRAME 3 — DIRECTOR'S NOTES
+
+**Timing micro-choreography (8s):** 0:00–0:02 fingertips begin brushing wet hair off cheekbone. 0:02–0:04 hair strand sweep completes, eyes open to lens. 0:04–0:06 rack focus arrives at eyes, settled gaze locks. 0:06–0:08 single eyelash blink, gaze deepens.
+
+**Gaze physics:** Entry point — eyes open at 0:02 directly into lens at frame-center. Travel arc — micro-saccade left-right of 2mm at 0:05. Hold duration — 4 seconds locked on lens from 0:04. Pupil dilation cue: warm key catches in upper sclera producing soft amber catchlight in inner corner; pupil micro-dilates at 0:05. Lash blink count: one slow blink at 0:06 (4 frames closed at 24fps).
+
+**Breath choreography:** Held inhale from F2 release continues, soft new inhale begins 0:03, hold 0:05–0:07. Chest rises subtly under silk at 0:04. No audible breath this frame, the silence is the point.
+
+**Micro-skin storytelling:** Wet eyelash beads hold individual surface tension and one releases at 0:06 during the blink. Capillary flush settled, dewy finish across full face. Single droplet pools in the suprasternal notch at the throat.
+
+**Product interaction sound-foley:** Bottle now in right hand at chest level, no movement, no contact sound this beat (silence beat-adjacent).
+
+**Wardrobe interior life:** Silk crepe slip dress hem now darkens at the calf, fabric absorbs water and gains 8% weight, the hem hangs 4mm lower than F1. Trench coat shifts to elbow drape with the hand-up gesture.
+
+**Sound design poetry:** Diegetic anchor — the single rain droplet rolling down the wrought-iron streetlamp post in deep frame-left, audible if you listen. Negative-space silence beat at 0:04–0:06 (eye contact lock with no other sound). Foley specificity — wet hair strand peeling off cheekbone with a soft tacky release. ASMR marker — single eyelash bead releasing with imperceptible micro-tap on the lower lash.
+
+**Transition DNA into Frame 4:** Match-cut intent — the eye in F3 cuts to the bottle facet in F4 at exactly the catchlight position. Color bridge — amber catchlight in inner corner of eye in F3 becomes amber refracted spark in bottle facet in F4. Audio bridge — held silence of F3 carries into the macro silence of F4.
+
+---
+
+#### FRAME 4 — DIRECTOR'S NOTES (SILENCE BEAT + MIRROR-PRODUCT MOMENT)
+
+**Timing micro-choreography (8s):** 0:00–0:02 bottle steady at eye-level, single rain droplet appears at top of bottle face. 0:02–0:04 droplet begins descent down faceted glass. 0:04–0:06 droplet passes the gold collar, momentary doubling of bottle inside the droplet's lens. 0:06–0:08 droplet falls off bottom of bottle, faceted refraction settles.
+
+**Gaze physics:** Entry point — eyes softly downcast at the bottle. Travel arc — pupils track the descending droplet from top to bottom of bottle face. Hold duration — 8 seconds, eyes never leave bottle. Pupil dilation cue: pupils micro-constrict on the bottle's bright facet then dilate on the droplet's dark refraction. Lash blink count: zero blinks (the held watch).
+
+**Breath choreography:** Slowest breath of the entire reel. Inhale 0:00–0:04, hold 0:04–0:08. Chest barely rises. Breath audible only as a soft anticipatory micro-inhale at 0:01. This is the silence beat.
+
+**Micro-skin storytelling:** Visible pore micro-detail on cheekbone in the warm key. Wet eyelash fiber separation at maximum visibility. Single droplet on bottle reflects the pupil itself.
+
+**Product interaction sound-foley:** Bottle rotation produces a faint glass-on-skin micro-friction sound at 0:02. No cap movement (sealed). The silence around the product is louder than any sound.
+
+**Wardrobe interior life:** Silk crepe strap tension steady. Hem now visibly darker, fabric carries the rain weight.
+
+**Sound design poetry:** Diegetic anchor — distant car tire on wet cobblestone two streets away, soft and far. Negative-space silence beat — the entire frame is silence beat, this is the designated still-water frame. Foley specificity — single rain droplet running down faceted crystal glass with the specific high-pitched water-on-glass sibilance. ASMR marker — that exact droplet-on-crystal sound at macro proximity.
+
+**Mirror-product moment realization:** The descending rain droplet at 0:04–0:06 functions as a moving lens. Inside the droplet, a tiny inverted image of the bottle itself is visible — the product doubled inside its own water reflection. This is the engineered mirror-product beat.
+
+**Transition DNA into Frame 5:** Match-cut intent — the bottle in F4 cuts to the bottle pressed at neck in F5 at the same f-stop and same lens. Motion-vector bridge — the droplet's downward fall in F4 continues into the perfume mist's outward expansion in F5 (down becomes out). Audio bridge — silence of F4 breaks with the atomizer hiss of F5.
+
+---
+
+#### FRAME 5 — DIRECTOR'S NOTES
+
+**Timing micro-choreography (8s):** 0:00–0:02 atomizer pressed at neck, finger compresses cap. 0:02–0:04 mist released in slow conical expansion. 0:04–0:06 mist reaches peak particulate density, mingles with rain. 0:06–0:08 mist drifts and dissipates, scent inhalation breath begins.
+
+**Gaze physics:** Entry point — eyes already closed from 0:00. Travel arc — none, closed throughout. Pupil dilation cue: not visible. Lash blink count: zero (held closed). Lashes catch one mist droplet at 0:06 visible at macro.
+
+**Breath choreography:** Inhale begins 0:04 as scent registers, peaks 0:06, holds 0:06–0:08. Chest visible rise under silk at 0:06. Audible soft scent inhale at 0:05–0:07.
+
+**Micro-skin storytelling:** Goosebump beat rising along the side of the neck from the cool atomizer mist hitting warm skin. Visible downy hairs along jawline lifting in the mist plume. Single perfume mist droplet pools at the base of the throat.
+
+**Product interaction sound-foley:** Atomizer cap finger-compress at 0:01 produces a soft mechanical click. The atomizer hiss begins 0:02 — a fine high-pitched controlled hiss for 2 seconds. Cap returns to seated position at 0:04 with a soft micro-snap.
+
+**Wardrobe interior life:** Silk crepe shoulder strap migrates 2mm with the head-tilt that exposes the neck. Trench coat now draped over forearm, releases one fabric memory fold from the earlier hold.
+
+**Sound design poetry:** Diegetic anchor — the atomizer hiss itself, that exact 2-second controlled release. Negative-space silence beat at 0:00–0:01 before the cap clicks. Foley specificity — perfume mist droplets landing on individual jawline hairs with imperceptible micro-impact. ASMR marker — the scent inhale breath through softly parted lips.
+
+**Transition DNA into Frame 6:** Audio bridge — atomizer hiss tail bleeds into the half-twirl fabric swish of F6. Motion-vector bridge — outward mist expansion in F5 becomes outward fabric flare in F6. Color bridge — warm rim light on neck in F5 carries to warm rim light on shoulder line in F6.
+
+---
+
+#### FRAME 6 — DIRECTOR'S NOTES
+
+**Timing micro-choreography (8s):** 0:00–0:02 body begins half-twirl pivot, hair starts lifting. 0:02–0:04 hem flares outward in centrifugal arc. 0:04–0:06 head drops toward shoulder, soft laugh. 0:06–0:08 twirl completes, hair settles.
+
+**Gaze physics:** Entry point — gaze cast warmly down toward shoulder at 0:00. Travel arc — gaze follows the shoulder drop in slow arc. Pupil dilation cue: warm key in inner eye corner during shoulder direction. Lash blink count: one soft blink at 0:05 timed with the laugh beat.
+
+**Breath choreography:** Soft laugh exhale begins 0:03, peaks 0:05, settles 0:07. Chest rises with mid-twirl arc. Audible single laugh breath at 0:04.
+
+**Micro-skin storytelling:** Capillary flush bright on the cheek apple from the twirl-laugh combination. Single rain droplet flies off hair tip at 0:03 from centrifugal motion, trails in slow arc. Wet hair contact with shoulder at 0:07 leaves a damp mark on the silk crepe shoulder.
+
+**Product interaction sound-foley:** Bottle returned to cupped palm at hip, no contact sound at this beat.
+
+**Wardrobe interior life:** Silk crepe slip dress hem flares outward in centrifugal physics, the bias seam tension peaks at 0:04. Trench coat sways on shoulder with the twirl arc, fabric memory of the shoulder drape sets in.
+
+**Sound design poetry:** Diegetic anchor — the soft cobblestone heel-pivot scrape under the slingback pump at 0:02. Negative-space silence beat at 0:06–0:07 (between laugh and settle). Foley specificity — silk crepe centrifugal flare with bias seam stretch sound. ASMR marker — single laugh breath into shoulder fabric.
+
+**Transition DNA into Frame 7:** Eyeline match — closing-eye laugh of F6 reopens to lens-direct in F7. Audio bridge — laugh tail of F6 becomes silent kiss release of F7. Color bridge — warm rim on shoulder in F6 becomes warm rim on hair in F7.
+
+---
+
+#### FRAME 7 — DIRECTOR'S NOTES (PAYOFF SEAL)
+
+**Timing micro-choreography (8s):** 0:00–0:02 lips press softly together, fingertips approach lips. 0:02–0:04 fingertips touch lips, soft kiss made. 0:04–0:06 fingertips lift away from lips, two-finger arc begins toward lens. 0:06–0:08 fingertips reach apex of arc toward lens, eyes closed.
+
+**Gaze physics:** Entry point — eyes softly closed at 0:00. Travel arc — closed throughout, kiss release is felt not seen. Pupil dilation cue: not visible. Lash blink count: zero (held closed in kiss release).
+
+**Breath choreography:** Soft kiss release breath at 0:03. Slow exhale 0:04–0:08. Chest settles. Audible soft kiss release at 0:03.
+
+**Micro-skin storytelling:** Lip surface dewy from rain and lip oil mingling. Capillary flush at peak warmth across full face. Single rain droplet falls past frame at 0:05 from the brow.
+
+**Product interaction sound-foley:** Bottle held at hip, capped, sealed. No contact sound this beat.
+
+**Wardrobe interior life:** Silk crepe slip dress now fully rain-darkened from hem to mid-thigh, fabric weight visibly heavier. Trench coat draped over shoulder, settles into final fabric memory of the entire reel.
+
+**Sound design poetry:** Diegetic anchor — the warm rain softening to a gentle drizzle, the storm settling. Negative-space silence beat at 0:04–0:05 between kiss and arc. Foley specificity — soft fingertip-to-lip contact with the dewy-lip release sound. ASMR marker — the kiss release breath itself, intimate and deliberate.
+
+**Transition DNA out:** This is the seal. The reel ends on the held two-finger arc at 0:08. The next concept's F1 will pick up via audio bridge of softening rain becoming the next world's anchor sound.

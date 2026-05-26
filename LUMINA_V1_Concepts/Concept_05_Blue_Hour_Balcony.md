@@ -1,6 +1,6 @@
 # CONCEPT 05 — BLUE HOUR BALCONY (THE IN-BETWEEN)
 
-**20-WORD REEL SUMMARY:** Aira steps onto a blue-hour balcony, sips espresso, lifts perfume to neck, watches city lights ignite, smiles to lens.
+**20-WORD REEL SUMMARY:** Aira steps onto blue-hour balcony, sips espresso, lifts perfume to neck, watches city lights ignite, smiles knowingly to lens finale.
 
 **WORLD / THEME:** Top-floor city balcony at the cobalt blue hour — that twelve-minute window when sky deepens to indigo and tungsten city lights ignite below. Contemplative, sovereign, in-between.
 
@@ -214,3 +214,169 @@ Lighting: cool dusk sky ambient from overhead and camera-left, warm tungsten cit
 Style: hyperreal commercial beauty texture, Mert and Marcus editorial color separation, no CGI bloom, no plastic skin.
 Audio: ambient city hum, soft contented exhale, gentle dusk breeze, no music, no dialogue.
 Negative: no subtitles, no on-screen text, no morphing, no warping, no captions, no logos.
+
+
+
+---
+
+## DIRECTOR'S LAYER (V1.1 UPGRADE)
+
+### CONCEPT-LEVEL DIRECTOR'S NOTES
+
+**REGIONAL/CULTURAL ANCHOR:** Manhattan SoHo penthouse balcony at 19:48 local in early November (the cobalt-hour window when the city's tungsten-window ignition density peaks). The blackened-steel railing is custom forged, the brushed-bronze side table is mid-century original, the concrete balcony floor is hand-troweled honed. Cinematographer references the cobalt-sky-into-tungsten-window-bokeh color memory of SoHo at the 12-minute blue hour window in November.
+
+**ENVIRONMENTAL LIFE MARKER:** A single helicopter passes silently in deep background frame-right at F2, F4, and F6 — its red navigation light blinking in slow rhythm provides a continuous-life thread that does not break the cinematic spell (it stays in deep bokeh and never sounds). The blinking creates a subliminal tempo across the reel.
+
+**COLOR SCIENCE UPGRADE:** Kodak Portra 800 dusk-balcony emulation. Highlight roll-off filmic shoulder on the tungsten window points, no digital clip on the brushed-bronze cap specular. ARRI Alexa LogC base with custom cobalt-sky against warm-tungsten chroma split. 35mm fine grain pushed quarter-stop in shadows. Real lens halation around individual tungsten window points, no digital glow.
+
+**POST-PRODUCTION LANGUAGE:** Grading intent — lift +7 in shadows on the cobalt sky side, gamma 0.94, gain +6 on tungsten highlights (the warm-cool split is the entire concept). Tiffen Black Pro-Mist 1/4 diffusion equivalent. Subtle horizontal warm streak from the brightest tungsten window cluster at f/2.0. Halation bleed around individual tungsten city windows reading as physically faithful atmospheric haze.
+
+**SILENCE BEAT DESIGNATION:** Frame 4 (macro insert at perfume cap pulled with thumb and forefinger). Energy resets here — no espresso, no skyline, no body movement. Only the magnetic gold-bronze cap lifting off the bottle in slow vertical arc, the dusk balcony held in held breath.
+
+**MIRROR-PRODUCT MOMENT DESIGNATION:** Frame 7 — the brushed-bronze perfume bottle and porcelain espresso cup are doubled by reflection in TWO surfaces: (1) the slim blackened-steel railing's polished top edge catches a soft warm reflection of both products, and (2) a single cobalt-sky catchlight in the subject's eyes contains the tiny warm city-skyline as inverted reflection — products + city compressed into eye-as-mirror. Triple-surface mirror-product reflection.
+
+**THUMBNAIL FRAME DESIGNATION:** Frame 6 (crane rise during over-shoulder skyline gaze at city-light ignition). Face occupies approximately 25 percent of vertical frame (offered profile), but the engineered scroll-stop is the FULL CITY IGNITION REVEAL behind her with her in profile — the contrast hook is the architectural visual, the awe is the emotional hook. Thumbnail-tested rule: high-contrast cool-warm split + recognizable Manhattan skyline + profile beauty.
+
+---
+
+### FRAME-BY-FRAME DIRECTOR'S NOTES
+
+#### FRAME 1 — DIRECTOR'S NOTES
+
+**Timing micro-choreography (8s):** 0:00–0:02 hands resting on steel railing, gaze cast far into skyline. 0:02–0:04 head turn three degrees toward skyline, slow inhale. 0:04–0:06 chin softly raises, dusk breeze catches hair. 0:06–0:08 fingertip pressure on steel releases.
+
+**Gaze physics:** Entry point — gaze cast into deep skyline at infinity-focus. Travel arc — gaze drifts across the city horizon at 0:02. Hold duration — 6 seconds on far horizon. Pupil dilation cue: pupils slightly dilated in the cool dusk ambient, micro-constrict on warm tungsten point. Lash blink count: one slow contemplative blink at 0:05.
+
+**Breath choreography:** Slow contemplative inhale begins 0:00, peaks 0:04, exhale 0:04–0:08. Chest rises softly under silk charmeuse at 0:03. Audible slow inhale at 0:01.
+
+**Micro-skin storytelling:** Goosebump beat across the bare arms from cool dusk breeze. Capillary flush gone — skin reads as honest cool dusk pale. Single dusk-cool breath fog visible at the lips at 0:03 in the cobalt ambient.
+
+**Product interaction sound-foley:** Perfume bottle and espresso cup resting on brushed-bronze side table at frame-right (offscreen at this beat), no contact sound.
+
+**Wardrobe interior life:** Silk-charmeuse robe-style midi dress carries one fabric memory crease at the hip from being worn an hour earlier indoors. Self-tie sash at the waist drifts gently in dusk breeze at 0:04. Right strap reading natural draped position.
+
+**Sound design poetry:** Diegetic anchor — the specific Manhattan distant traffic hum at twelve-stories-up, plus a faint distant siren reading as far-off urban texture. Negative-space silence beat at 0:02–0:03 (the contemplative held quiet before the head turn). Foley specificity — silk-charmeuse hem against calf with soft fabric-on-skin micro-friction in dusk breeze. ASMR marker — slow contemplative inhale through softly parted lips at 0:01.
+
+**Transition DNA into Frame 2:** Audio bridge — held inhale of F1 becomes the soft hair-gather rustle of F2. Motion-vector bridge — the slow head turn of F1 continues into the full pivot of F2 with no interruption. Color bridge — cobalt sky on shoulder in F1 carries to cobalt sky on shoulder in F2.
+
+---
+
+#### FRAME 2 — DIRECTOR'S NOTES
+
+**Timing micro-choreography (8s):** 0:00–0:02 mid-pivot turn begins, hair starts lifting. 0:02–0:04 right hand reaches back to gather hair at nape. 0:04–0:06 hair lifts approximately 8cm at peak motion. 0:06–0:08 pivot completes, hair settles in slow gravity descent.
+
+**Gaze physics:** Entry point — gaze cast warmly toward side table where products rest at 0:01. Travel arc — gaze drifts from skyline to side table during pivot. Hold duration — 4 seconds on side table from 0:04. Pupil dilation cue: pupil micro-dilates with the conspiratorial smile build. Lash blink count: zero blinks (the deliberate watch).
+
+**Breath choreography:** Soft inhale at 0:02 with the pivot, holds 0:04–0:07. Chest rises under silk charmeuse at 0:03. Audible single soft inhale at 0:02.
+
+**Micro-skin storytelling:** Capillary flush returning on cheek apple as warm tungsten city bokeh begins keying the jawline from below. Single hair strand sweeps across the right cheekbone at 0:05. Visible downy hairs on nape lift with the hair-gather gesture.
+
+**Product interaction sound-foley:** Perfume bottle and espresso cup still on side table, no contact sound. The helicopter passes silently in deep background frame-right at 0:02 (continuous-life thread, no audio).
+
+**Wardrobe interior life:** Silk-charmeuse robe hem flares minutely with the pivot. The bias of the charmeuse catches both cool sky and warm tungsten with traveling chromatic sheen. Self-tie sash sways at the hip with the pivot arc.
+
+**Sound design poetry:** Diegetic anchor — Manhattan distant traffic hum continues, a faint distant siren remains far-off. Negative-space silence beat at 0:06–0:07 (the held silence after hair-gather). Foley specificity — fingertips gathering thick hair at the nape with the specific dry-hair-strand-on-strand whisper. ASMR marker — soft hair-gather rustle audible at intimate proximity.
+
+**Transition DNA into Frame 3:** Eyeline match — gaze toward side table in F2 lands on the espresso cup position in F3 — the camera arrives where her gaze pointed. Audio bridge — hair-gather rustle tail of F2 stops in the held silence of F3 before the cup lift.
+
+---
+
+#### FRAME 3 — DIRECTOR'S NOTES
+
+**Timing micro-choreography (8s):** 0:00–0:02 espresso cup lifted from saucer in right hand, saucer cradled in left palm. 0:02–0:04 cup rises toward lips, eyes begin closing. 0:04–0:06 cup at lower lip, soft sip with eyes closed. 0:06–0:08 eyelashes lift toward lens, gaze settles on camera.
+
+**Gaze physics:** Entry point — eyes downcast at cup at 0:00, closed at 0:03. Travel arc — closed during sip, then lift to lens at 0:06. Hold duration — 2 seconds locked on lens from 0:06. Pupil dilation cue: pupils dilate as eyes open to lens, warm tungsten catchlight in inner corner. Lash blink count: zero blinks during the watch from 0:06.
+
+**Breath choreography:** Slow espresso inhale 0:02, sip exhale at 0:04, settled breath 0:05–0:08. Chest barely rises (the body holds). Audible soft single sip at 0:04, gentle exhale at 0:05.
+
+**Micro-skin storytelling:** Capillary flush warm and returning across cheek apples from the espresso warmth. Single fine espresso steam wisp lifts past cheekbone at 0:03. Lower lip catches faint dewy sheen from the espresso contact.
+
+**Product interaction sound-foley:** Espresso cup lifted from saucer at 0:00 with the specific porcelain-on-porcelain micro-clink (gold rim brushing saucer rim). Cup at lower lip at 0:03 — soft porcelain-on-lip contact, no sound. Sip itself is silent except for a soft single-sip exhale at 0:04.
+
+**Wardrobe interior life:** Silk-charmeuse strap tension shifts subtly with the cup lift. Right strap migrates 1mm with the right-arm raise. The bias of the charmeuse catches warm tungsten city bokeh along the chest area with traveling sheen.
+
+**Sound design poetry:** Diegetic anchor — the espresso cup's specific porcelain ring frequency, plus distant Manhattan ambient. Negative-space silence beat at 0:06–0:07 (eyelash lift to lens with held breath). Foley specificity — espresso crema surface trembling against porcelain rim with imperceptible micro-wave sound. ASMR marker — soft single sip at 0:04, intimate and warm.
+
+**Transition DNA into Frame 4:** Match-cut intent — the cup at lip in F3 cuts to the bottle in F4 at the same f-stop. Color bridge — warm tungsten on cup gold rim in F3 becomes warm tungsten on brushed-bronze cap in F4. Motion-vector bridge — the cup descent (post-sip) of F3 transitions to the bottle ascent of F4.
+
+---
+
+#### FRAME 4 — DIRECTOR'S NOTES (SILENCE BEAT)
+
+**Timing micro-choreography (8s):** 0:00–0:02 bottle held at chest level, magnetic cap registered. 0:02–0:04 thumb and forefinger pinch the cap at the top edge. 0:04–0:06 cap lifts in slow vertical arc, magnetic resistance releases. 0:06–0:08 cap separates from bottle with soft micro-snap.
+
+**Gaze physics:** Entry point — gaze warmly cast at the bottle and cap from 0:00. Travel arc — gaze tracks the rising cap. Hold duration — 8 seconds eyes on bottle and cap. Pupil dilation cue: pupils micro-dilate with the anticipation. Lash blink count: zero blinks (the held anticipation).
+
+**Breath choreography:** Slow anticipatory breath. Inhale 0:00–0:04, hold 0:04–0:08. Chest barely rises. Audible soft inhale at 0:01.
+
+**Micro-skin storytelling:** Visible pore micro-detail on cheekbone in cobalt sky ambient. Single hair strand drifts past temple at 0:03. Lower lip catches faint dewy sheen from the espresso aftermath.
+
+**Product interaction sound-foley:** Magnetic cap lift produces a soft mechanical magnetic-release micro-snap at 0:05 — that specific magnetic separation sound. Faceted clear-glass shoulder catches warm tungsten with traveling specular at 0:04.
+
+**Wardrobe interior life:** Silk-charmeuse strap tension steady. Self-tie sash at hip drifts gently in dusk breeze. The helicopter passes silently in deep background at 0:04 (continuous-life thread).
+
+**Sound design poetry:** Diegetic anchor — Manhattan distant traffic hum, the dusk breeze in deep background. Negative-space silence beat — the entire frame is silence beat, this is the designated still-water frame. Foley specificity — magnetic cap release with the specific micro-snap of magnetic separation. ASMR marker — that exact magnetic micro-snap at macro proximity.
+
+**Transition DNA into Frame 5:** Match-cut intent — the bottle in F4 cuts to the bottle pressed at neck in F5 at the same lens. Audio bridge — magnetic micro-snap of F4 becomes the atomizer hiss of F5. Motion-vector bridge — the cap-lifting upward arc of F4 transitions to the bottle-pressing arc of F5.
+
+---
+
+#### FRAME 5 — DIRECTOR'S NOTES
+
+**Timing micro-choreography (8s):** 0:00–0:02 atomizer pressed at right side of neck, finger compresses trigger ring. 0:02–0:04 mist released in slow conical expansion. 0:04–0:06 mist reaches peak particulate density, mingles with dusk haze. 0:06–0:08 mist drifts and dissipates, scent inhalation breath begins.
+
+**Gaze physics:** Entry point — eyes already closed from 0:00. Travel arc — closed throughout. Pupil dilation cue: not visible. Lash blink count: zero (held closed).
+
+**Breath choreography:** Inhale begins 0:04 as scent registers, peaks 0:06, holds 0:06–0:08. Chest visible rise under charmeuse at 0:06. Audible soft scent inhale at 0:05–0:07.
+
+**Micro-skin storytelling:** Goosebump beat rising along the side of the neck from cool atomizer mist. Visible downy hairs along jawline lifting in the mist plume. Single perfume mist droplet pools at the suprasternal notch.
+
+**Product interaction sound-foley:** Atomizer trigger ring compress at 0:01 produces a soft mechanical click. Atomizer hiss begins 0:02 — a fine high-pitched controlled hiss for 2 seconds. Magnetic cap held in opposite hand at frame-edge produces no contact sound.
+
+**Wardrobe interior life:** Silk-charmeuse strap migrates 2mm with the head-tilt that exposes the neck. V-neck reads exposed at the chest in this orientation.
+
+**Sound design poetry:** Diegetic anchor — the atomizer's specific 2-second controlled hiss, that exact release. Negative-space silence beat at 0:00–0:01 before the trigger ring click. Foley specificity — perfume mist droplets landing on individual jawline hairs with imperceptible micro-impact. ASMR marker — soft scent inhale through softly parted lips at 0:06.
+
+**Transition DNA into Frame 6:** Audio bridge — atomizer hiss tail bleeds into the dusk breeze of F6. Motion-vector bridge — outward mist expansion of F5 becomes outward shoulder-turn of F6. Color bridge — warm tungsten rim on neck in F5 carries to warm tungsten rim on shoulder in F6.
+
+---
+
+#### FRAME 6 — DIRECTOR'S NOTES (THUMBNAIL FRAME)
+
+**Timing micro-choreography (8s):** 0:00–0:02 body begins three-quarter turn, face rotates over right shoulder. 0:02–0:04 hair sweeps over right shoulder, gaze travels across skyline. 0:04–0:06 city windows ignite in slow sequence in deep background. 0:06–0:08 awe inhale, gaze deepens on full ignition.
+
+**Gaze physics:** Entry point — gaze cast over right shoulder toward skyline at 0:01. Travel arc — gaze sweeps across the entire skyline, tracking individual window ignitions. Hold duration — 6 seconds on skyline. Pupil dilation cue: pupils dilate as warm tungsten ignition density peaks at 0:05; warm catchlights in inner corner. Lash blink count: zero blinks (the held awe).
+
+**Breath choreography:** Anticipation inhale begins 0:02, awe inhale peaks 0:05, hold 0:05–0:08. Chest rises under charmeuse at 0:05. Audible gentle awe inhale at 0:05.
+
+**Micro-skin storytelling:** Capillary flush warm and deepened with awe. Visible downy hairs on the right shoulder catching warm tungsten rim. Single hair strand sweeps over the right shoulder in slow physics arc at 0:03.
+
+**Product interaction sound-foley:** Perfume bottle in right hand at hip with magnetic cap re-secured at 0:00 with a soft magnetic snap. Espresso cup back on saucer on side table at 0:01 with porcelain-on-porcelain micro-clink.
+
+**Wardrobe interior life:** Silk-charmeuse self-tie sash drifts at the hip in dusk breeze with a more pronounced sway. Hair sweep over shoulder lands on the silk with imperceptible contact. The helicopter passes silently in deep background at 0:04 (continuous-life thread).
+
+**Sound design poetry:** Diegetic anchor — the city's distant traffic hum reaches a soft peak as ignition density rises, then settles. Negative-space silence beat at 0:00–0:01 (the held silence before the over-shoulder turn). Foley specificity — silk-charmeuse self-tie sash with the specific bias-cut fabric flutter in dusk breeze. ASMR marker — gentle awe inhale at 0:05, intimate and reverent.
+
+**Transition DNA into Frame 7:** Eyeline match — the over-shoulder gaze of F6 transitions to the lens-direct gaze of F7 with the body completing its rotation back. Audio bridge — awe inhale tail of F6 becomes the contented exhale of F7. Motion-vector bridge — the over-shoulder turn of F6 reverses into the lean-back of F7.
+
+---
+
+#### FRAME 7 — DIRECTOR'S NOTES (PAYOFF SEAL + MIRROR-PRODUCT MOMENT)
+
+**Timing micro-choreography (8s):** 0:00–0:02 body leans back into railing, hands settle on steel behind. 0:02–0:04 head tilts softly toward camera, gaze locks on lens. 0:04–0:06 settled smile builds, single soft blink at 0:05. 0:06–0:08 settled gaze deepens, single hair strand drifts past cheekbone.
+
+**Gaze physics:** Entry point — gaze locks on lens at 0:02. Travel arc — direct lens lock from 0:02 onward, micro-saccade of 1mm at 0:05. Hold duration — 6 seconds locked on lens. Pupil dilation cue: warm tungsten city bokeh halo behind subject reflects into upper sclera producing soft warm catchlight in inner corner; pupil dilates micro-amount with the smile. Lash blink count: one slow blink at 0:05 (4 frames closed).
+
+**Breath choreography:** Settled contented exhale 0:00–0:04, soft inhale 0:04–0:08. Chest rises softly. Audible soft contented exhale at 0:03.
+
+**Micro-skin storytelling:** Skin glowing in dewy mixed dusk-cool and tungsten-warm light. Capillary flush warm and settled across cheek apples. Single dewy point at the cupid's bow catches warm tungsten halo.
+
+**Product interaction sound-foley:** Perfume bottle returned to brushed-bronze side table at 0:00 with a soft brass-on-bronze micro-thock. Hands on steel railing behind produce a soft skin-on-cool-steel contact at 0:01. No further contact.
+
+**Wardrobe interior life:** Silk-charmeuse self-tie sash settled, the migrated straps now hold final position. Bodice catches mixed cool-warm light along the bias seam in final settled chromatic sheen.
+
+**Sound design poetry:** Diegetic anchor — the city's settled distant hum, dusk breeze gentle. Negative-space silence beat at 0:04–0:06 (eye-contact lock with held breath). Foley specificity — silk-charmeuse against steel railing with imperceptible fabric-on-metal contact. ASMR marker — soft contented exhale at 0:03, intimate and sovereign.
+
+**Mirror-product moment realization:** The brushed-bronze perfume bottle and porcelain espresso cup are doubled in TRIPLE surfaces simultaneously at 0:04–0:08: (1) the slim blackened-steel railing's polished top edge catches a soft warm reflection of both products on the side table, (2) a single cobalt-sky catchlight in the subject's eyes contains the tiny warm city-skyline as inverted reflection — the products + the city compressed into eye-as-mirror, and (3) the brushed-bronze side table itself catches a faint reflection of the bottle's faceted shoulder. Triple-surface mirror-product reflection.
+
+**Transition DNA out:** This is the seal. The reel ends on the held settled-smile + tungsten-city-halo composition at 0:08. The helicopter completes its final pass and exits frame at 0:06, closing the continuous-life thread.

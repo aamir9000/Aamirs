@@ -1,6 +1,6 @@
 # CONCEPT 06 — FILM NOIR DETECTIVE (SMOKE & SHADOW)
 
-**20-WORD REEL SUMMARY:** Aira examines a perfume bottle in a noir office under venetian-blind shadows, sips bourbon, lifts brow, locks lens.
+**20-WORD REEL SUMMARY:** Aira examines a perfume bottle in a noir office under venetian-blind shadows, sips bourbon slowly, lifts brow, locks lens knowingly.
 
 **WORLD / THEME:** 1940s noir detective office at late afternoon, venetian-blind shadows striping every surface, hardwood and brass and worn leather. Sovereign, low-key, mystery-coded.
 
@@ -214,3 +214,169 @@ Lighting: warm pendant pool from green-glass banker's lamp at frame-left foregro
 Style: hyperreal commercial beauty texture, Mert and Marcus editorial color separation, no CGI bloom, no plastic skin.
 Audio: ambient room hush, soft sovereign exhale, faint distant city, no music, no dialogue.
 Negative: no subtitles, no on-screen text, no morphing, no warping, no captions, no logos.
+
+
+
+---
+
+## DIRECTOR'S LAYER (V1.1 UPGRADE)
+
+### CONCEPT-LEVEL DIRECTOR'S NOTES
+
+**REGIONAL/CULTURAL ANCHOR:** Los Angeles Bunker Hill private detective office at 16:42 local on a late October afternoon — the magic-hour 1947 noir window. The walnut paneling is American black walnut with original 1940s tung-oil finish, the casement window with venetian blinds faces west catching the cool late-afternoon Pacific sky. The ashtray is brass with a hand-engraved Bunker Hill skyline. Cinematographer references the warm-pendant-pool-into-cool-window-stripe color memory of 1947 LA noir interiors.
+
+**ENVIRONMENTAL LIFE MARKER:** The pipe-tobacco smoke curl at frame-left foreground is a continuous-life thread across all 7 frames, behaving as a slow living serpent — its turbulence pattern responds to the subject's breath and motion. In F2 it bends with her hand-drum, in F4 it stretches with her bottle-lift, in F6 it ripples with her cup-lift, in F7 it settles to a thin vertical column with her stillness.
+
+**COLOR SCIENCE UPGRADE:** Kodak Tri-X 400 push-stop emulation rendered in color. Highlight roll-off filmic shoulder on the warm pendant pool, no digital clip on the bevelled-glass facets. ARRI Alexa LogC base with custom warm-pendant-pool against cool-venetian-stripe chroma split. 35mm fine grain with deliberate elevation in shadows for noir grain texture. Real lens halation around the green-glass banker's lamp shade and the bourbon's amber.
+
+**POST-PRODUCTION LANGUAGE:** Grading intent — lift +3 in shadows on the cool stripe side (deliberately keep the stripes deep), gamma 0.88 (low key), gain +5 on warm pendant highlights. Tiffen Black Pro-Mist 1 diffusion equivalent (heavy noir softness on highlights). Subtle horizontal warm streak from the green-glass lamp at f/2.0. Halation bleed around the lamp shade edge and the bourbon ice cube. Deliberate noir color separation — magenta lift in deep shadows, cyan lift in highlight rolls.
+
+**SILENCE BEAT DESIGNATION:** Frame 4 (macro insert at perfume bottle pinch-grip lifted into pendant pool). Energy resets here — no fingertip drum, no smoke curl disruption, no eye contact. Only the bevelled-glass bottle entering the warm pool, the entire office held in suspended silence.
+
+**MIRROR-PRODUCT MOMENT DESIGNATION:** Frame 5 — the bevelled-glass perfume bottle is doubled by reflection in TRIPLE surfaces: (1) the cut-crystal lowball glass refracts the bottle through its faceted body distorting the bottle into traveling chromatic sparks, (2) the polished walnut desk surface catches a soft warm reflection of the bottle's gold collar, and (3) the single ice cube inside the lowball acts as a clear lens with the bottle visible through it inverted. Triple-surface mirror-product reflection through cut-crystal optics.
+
+**THUMBNAIL FRAME DESIGNATION:** Frame 7 (slow pull-out at sovereign statement-pose finale). Face occupies approximately 30 percent of vertical frame, but the engineered scroll-stop is the FULL NOIR COMPOSITION — venetian-blind shadow stripes across her lapel + warm pendant pool on her face + sovereign chin-up statement-pose + crystal lowball and bevelled bottle visible on desk in foreground. The complete noir mise-en-scène is the engineered thumbnail. Thumbnail-tested rule: high-contrast warm-cool split + classic noir lighting geometry + sovereign female protagonist seated in club chair.
+
+---
+
+### FRAME-BY-FRAME DIRECTOR'S NOTES
+
+#### FRAME 1 — DIRECTOR'S NOTES
+
+**Timing micro-choreography (8s):** 0:00–0:02 elbow planted on desk, perfume bottle at chin, gaze locked on bottle. 0:02–0:04 slow head turn three degrees toward bottle as if seeing new detail. 0:04–0:06 thumb pressure on bottle adjusts grip imperceptibly. 0:06–0:08 fingertips at jaw release pressure subtly, breath inhale.
+
+**Gaze physics:** Entry point — gaze locked at the bottle's etched gold collar at 0:00. Travel arc — gaze travels along the bottle's facets at 0:03. Hold duration — 8 seconds eyes on bottle. Pupil dilation cue: pupils micro-constrict on the warm pendant pool, then dilate as gaze deepens into the bottle's deep burgundy-rose liquid. Lash blink count: zero blinks (the deliberate watch).
+
+**Breath choreography:** Slow noir breath, inhale 0:00–0:04, exhale 0:04–0:08. Chest barely rises under wool blazer (the body holds). Audible soft inhale at 0:01.
+
+**Micro-skin storytelling:** Capillary flush settled — skin reads as composed noir cool. Visible pore micro-detail on the cheekbone where warm pendant pool keys. Venetian-blind shadow stripes fall across the left cheekbone in physically faithful geometry.
+
+**Product interaction sound-foley:** Perfume bottle in right hand at chin level, no movement, no contact sound. Pipe-tobacco smoke curl at frame-left foreground rises in slow turbulent arcs continuously.
+
+**Wardrobe interior life:** Navy wool blazer carries one fabric memory fold at the right elbow from leaning earlier. Ivory silk camisole at the V catches cool window stripes with traveling cool sheen. Right shoulder pad of blazer reads natural draped position.
+
+**Sound design poetry:** Diegetic anchor — the green-glass banker's lamp's specific 60Hz tungsten filament hum, plus the distant LA street traffic 12 stories below. Negative-space silence beat at 0:04–0:06 (the held investigation moment). Foley specificity — pipe-tobacco smoke curl in slow turbulent arcs with imperceptible micro-air-displacement. ASMR marker — slow noir inhale through softly parted lips at 0:01.
+
+**Transition DNA into Frame 2:** Audio bridge — held inhale of F1 becomes the soft fingertip drum of F2. Motion-vector bridge — the static held bottle of F1 transitions to the rotating bottle of F2. Color bridge — warm pendant pool on right cheek in F1 carries to warm pendant pool on right cheek in F2.
+
+---
+
+#### FRAME 2 — DIRECTOR'S NOTES
+
+**Timing micro-choreography (8s):** 0:00–0:02 right hand begins rotating bottle between thumb and forefinger. 0:02–0:04 left hand begins drumming desk in slow four-finger sequence. 0:04–0:06 hair tendril lifts approximately 4cm at temple from movement. 0:06–0:08 brow lifts in curious anticipation, drum continues.
+
+**Gaze physics:** Entry point — gaze tracking the rotating bottle at 0:00. Travel arc — gaze stays on bottle throughout, micro-saccades following the rotation. Hold duration — 8 seconds eyes on bottle. Pupil dilation cue: pupils dilate as etched gold collar catches warm pendant pool with traveling specular. Lash blink count: zero blinks (the held watch).
+
+**Breath choreography:** Slow noir breath continues, inhale 0:01–0:04, exhale 0:04–0:08. Chest barely rises. No audible breath this frame.
+
+**Micro-skin storytelling:** Capillary flush warm and settled. Single hair tendril at right temple drifts with the head movement at 0:05. Pipe-tobacco smoke curl bends in air disturbance from the hand drum at 0:03.
+
+**Product interaction sound-foley:** Perfume bottle rotation produces a soft glass-on-skin micro-friction sound at 0:01. Left fingertips drum walnut desk in slow sequence at 0:02–0:08 with the specific dry-wood-on-fingertip rhythm — four fingers tap-tap-tap-tap with 0.4 second intervals.
+
+**Wardrobe interior life:** Navy wool blazer right sleeve shifts subtly with the rotating wrist. Charcoal-pinstripe trouser pleat at the crossed knee catches the warm pendant pool with traveling sheen. Crossed leg in foot-swing creates a subtle pendulum motion.
+
+**Sound design poetry:** Diegetic anchor — the green-glass lamp 60Hz hum continues, plus distant LA street traffic. Negative-space silence beat at 0:00–0:01 (before the drum begins). Foley specificity — fingertip drum on walnut desk with the specific dry-walnut-grain percussion sound, four taps in slow rhythm. ASMR marker — that exact fingertip drum at intimate proximity, the noir signature sound.
+
+**Transition DNA into Frame 3:** Motion-vector bridge — the rotating bottle ends, lift-to-chest gesture begins. Audio bridge — fingertip drum tail of F2 stops in the held silence of F3. Color bridge — warm pendant pool on bottle in F2 carries to warm pendant pool on bottle in F3.
+
+---
+
+#### FRAME 3 — DIRECTOR'S NOTES
+
+**Timing micro-choreography (8s):** 0:00–0:02 perfume bottle held at chest level offered toward camera. 0:02–0:04 slow forward lean begins, eyes lift to lens. 0:04–0:06 rack focus arrives at eyes through smoke curl. 0:06–0:08 settled noir gaze holds, single soft blink at 0:07.
+
+**Gaze physics:** Entry point — gaze lifts from bottle to lens at 0:02 through the pipe-tobacco smoke curl. Travel arc — direct lens lock from 0:02 onward through the smoke veil. Hold duration — 6 seconds locked on lens. Pupil dilation cue: warm pendant pool catches in inner corner producing soft warm catchlight; pupil dilates micro-amount at 0:05 with the noir-confidence build. Lash blink count: one slow noir blink at 0:07 (4 frames closed).
+
+**Breath choreography:** Soft noir inhale at 0:02 with the lean, holds 0:04–0:07. Chest rises under wool blazer at 0:03. Audible single soft inhale at 0:02.
+
+**Micro-skin storytelling:** Visible pore micro-detail on cheekbone in warm pendant pool. Venetian-blind shadow stripes across the left side of face in physically faithful geometry. Single dewy point at the cupid's bow catches warm specular.
+
+**Product interaction sound-foley:** Pipe-tobacco smoke curl rises in slow turbulent arcs at frame-left foreground continuously. Bottle held steady at chest, no contact sound this beat.
+
+**Wardrobe interior life:** Navy wool blazer lapel catches warm pendant pool with faint sheen at the peak lapel. Ivory silk camisole at the V catches cool window stripes with cool sheen. The combination of warm wool + cool silk creates the chromatic split that the noir frame requires.
+
+**Sound design poetry:** Diegetic anchor — green-glass lamp 60Hz hum, distant LA traffic, faint distant siren far-off. Negative-space silence beat at 0:04–0:06 (eye-contact lock through smoke veil with held breath). Foley specificity — pipe-tobacco smoke curl drifting through venetian-blind shadow stripes with imperceptible micro-air-disturbance. ASMR marker — single soft inhale at 0:02 audible through the noir hush.
+
+**Transition DNA into Frame 4:** Match-cut intent — the eye in F3 cuts to the bottle in F4 at the same 85mm-to-100mm shift. Color bridge — warm pendant pool on cheekbone in F3 becomes warm pendant pool on bottle facets in F4. Eyeline match — the lens-direct gaze of F3 redirects to bottle-up gaze of F4.
+
+---
+
+#### FRAME 4 — DIRECTOR'S NOTES (SILENCE BEAT)
+
+**Timing micro-choreography (8s):** 0:00–0:02 bottle held in pinch-grip at etched gold collar, chest level. 0:02–0:04 bottle begins lifting toward warm pendant pool. 0:04–0:06 bottle enters pool, deep burgundy-rose liquid catches warm key. 0:06–0:08 bottle held in pool, bevelled facets refract warm key into traveling specular.
+
+**Gaze physics:** Entry point — gaze warmly cast at the rising bottle from 0:00. Travel arc — gaze tracks the upward arc. Hold duration — 8 seconds eyes on bottle. Pupil dilation cue: pupils micro-dilate as deep burgundy-rose liquid catches warm key. Lash blink count: zero blinks (the held investigation).
+
+**Breath choreography:** Slowest breath of the reel. Inhale 0:00–0:04, hold 0:04–0:08. Chest barely rises. No audible breath, the silence is the point.
+
+**Micro-skin storytelling:** Visible pore micro-detail on cheekbone. Single hair strand drifts past temple at 0:03. Lower lip in soft natural color, classic-red lipstick reading as matte against skin.
+
+**Product interaction sound-foley:** Bottle lift produces a soft glass-on-skin micro-friction sound at 0:02. Bevelled-glass facets refract warm pendant key with traveling specular at 0:04–0:08. Pipe-tobacco smoke curl bends with the bottle lift at 0:03.
+
+**Wardrobe interior life:** Navy wool blazer right sleeve shifts subtly with the bottle lift. The body is held still around the gesture, the focus is entirely on the bottle entering the warm pool.
+
+**Sound design poetry:** Diegetic anchor — green-glass lamp 60Hz hum continues, distant LA traffic. Negative-space silence beat — the entire frame is silence beat, this is the designated still-water frame. Foley specificity — bevelled-glass facets refracting warm pendant pool with imperceptible chromatic-shift sound. ASMR marker — the soft glass-on-skin lift at macro proximity.
+
+**Transition DNA into Frame 5:** Match-cut intent — the bottle in F4 cuts to the bottle on desk beside crystal in F5 at the same lens. Audio bridge — silence of F4 carries into the silence of F5 (both silence-adjacent). Motion-vector bridge — the bottle's upward lift in F4 reverses into the bottle's set-down in F5.
+
+---
+
+#### FRAME 5 — DIRECTOR'S NOTES (MIRROR-PRODUCT MOMENT)
+
+**Timing micro-choreography (8s):** 0:00–0:02 bottle set down on walnut desk beside crystal lowball, fingertips reach toward crystal curve. 0:02–0:04 head tilts asymmetrically right, knowing-smirk builds. 0:04–0:06 fingertips contact crystal lower curve, ice cube melt-droplet runs. 0:06–0:08 smirk holds, gaze locks on lens through cut-crystal refraction.
+
+**Gaze physics:** Entry point — gaze cast at crystal lowball at 0:01, lifts to lens at 0:03 through the cut-crystal refraction. Travel arc — direct lens lock from 0:03 onward through the crystal facets. Hold duration — 5 seconds locked on lens through the refraction. Pupil dilation cue: warm pendant pool catches in inner corner; pupils dilate micro-amount with the smirk build. Lash blink count: zero blinks (the held smirk).
+
+**Breath choreography:** Soft amused noir exhale at 0:03, settles 0:05–0:08. Chest barely rises. Audible soft amused exhale at 0:03.
+
+**Micro-skin storytelling:** Capillary flush warm on cheek apple from the smirk. Visible pore micro-detail on cheekbone partially refracted through the cut-crystal lowball facet at frame-center. Lip texture lines visible at the lower lip corner in the asymmetric smirk.
+
+**Product interaction sound-foley:** Bottle set down on walnut desk at 0:00 produces a soft glass-on-walnut micro-thock with the specific cut-glass-on-hardwood ring. Single ice cube melt-droplet runs down the crystal face at 0:04 with imperceptible water-on-crystal micro-trail. Faint ice cube clink inside crystal at 0:05.
+
+**Wardrobe interior life:** Navy wool blazer settled, lapel catches warm pendant pool. Ivory silk camisole at the V catches cool window stripes. Right shoulder pad reads natural.
+
+**Sound design poetry:** Diegetic anchor — green-glass lamp 60Hz hum, distant LA traffic, the specific bottle-set-down ring. Negative-space silence beat at 0:01–0:02 (between bottle set-down and head tilt). Foley specificity — cut-crystal facets refracting warm pendant pool with imperceptible chromatic-shift sound at macro proximity. ASMR marker — soft amused exhale at 0:03, sovereign and conspiratorial.
+
+**Mirror-product moment realization:** The bevelled-glass perfume bottle is doubled in TRIPLE surfaces simultaneously at 0:04–0:08: (1) the cut-crystal lowball glass at frame-center foreground refracts the bottle through its faceted body distorting the bottle into traveling chromatic sparks across the subject's refracted face, (2) the polished walnut desk surface at frame-foreground catches a soft warm reflection of the bottle's etched gold collar, and (3) the single large clear ice cube inside the lowball acts as a clear lens with the bottle visible through it inverted in tiny scale. Triple-surface mirror-product reflection through cut-crystal optics.
+
+**Transition DNA into Frame 6:** Audio bridge — soft amused exhale of F5 carries into the closed-eye sip warmth of F6. Motion-vector bridge — the fingertips reaching for crystal in F5 transition to crystal lifted to lip in F6. Color bridge — warm pendant pool on crystal in F5 carries to warm pendant pool on crystal in F6.
+
+---
+
+#### FRAME 6 — DIRECTOR'S NOTES
+
+**Timing micro-choreography (8s):** 0:00–0:02 crystal lowball lifted from desk, thumb and two fingers at lower curve. 0:02–0:04 cup rises toward lower lip, eyes begin closing. 0:04–0:06 cup at lower lip, soft sip with eyes closed. 0:06–0:08 cup held at lip, ice cube settles inside.
+
+**Gaze physics:** Entry point — eyes downcast at cup at 0:00, closed at 0:03. Travel arc — closed during sip. Hold duration — 5 seconds eyes closed. Pupil dilation cue: not visible. Lash blink count: held closed.
+
+**Breath choreography:** Slow noir sip breath, inhale 0:01–0:03, sip exhale at 0:04, settled breath 0:05–0:08. Chest barely rises. Audible soft single sip at 0:04.
+
+**Micro-skin storytelling:** Capillary flush warm and slightly deepened on cheek apple from the bourbon warmth. Lower lip catches faint warm bourbon-sheen at 0:05. Single hair tendril at temple drifts with the head tilt down.
+
+**Product interaction sound-foley:** Crystal lowball lifted from walnut desk at 0:00 with the specific cut-crystal-on-walnut micro-clink. Ice cube shifts inside lowball at 0:04 with a soft single ice-clink. Crystal at lip at 0:03 — soft cut-crystal-on-lip contact. Bourbon surface trembles minutely against rim at 0:05. Pipe-tobacco smoke curl ripples with the cup-lift at 0:02.
+
+**Wardrobe interior life:** Navy wool blazer right sleeve shifts subtly with the cup lift. The crossed leg foot-swing pendulum motion settles to stillness with the focus on the sip.
+
+**Sound design poetry:** Diegetic anchor — green-glass lamp 60Hz hum, distant LA traffic, the specific ice clink. Negative-space silence beat at 0:06–0:07 (post-sip held silence). Foley specificity — single ice cube melt-droplet trail running down crystal face with imperceptible water-on-crystal whisper. ASMR marker — soft single sip at 0:04, sovereign and warm.
+
+**Transition DNA into Frame 7:** Eyeline match — closed eyes of F6 reopen in F7 directly to lens. Audio bridge — single ice clink of F6 settles into the sovereign exhale of F7. Motion-vector bridge — the cup-at-lip of F6 returns to desk in F7.
+
+---
+
+#### FRAME 7 — DIRECTOR'S NOTES (PAYOFF SEAL + THUMBNAIL FRAME)
+
+**Timing micro-choreography (8s):** 0:00–0:02 cup returned to desk, body settles back into oxblood leather chair. 0:02–0:04 hand at lapel thumb-tucks behind, sovereign cross-leg seat completes. 0:04–0:06 head lifts, chin slightly raised, gaze locks on lens. 0:06–0:08 sovereign statement-pose holds, single soft blink at 0:07.
+
+**Gaze physics:** Entry point — gaze lifts to lens at 0:04. Travel arc — direct lens lock from 0:04 onward, sovereign and warm. Hold duration — 4 seconds locked on lens. Pupil dilation cue: warm pendant pool catches in inner corner producing soft warm catchlight; pupil dilates micro-amount with the calm authority of the pose. Lash blink count: one slow noir blink at 0:07 (4 frames closed).
+
+**Breath choreography:** Sovereign exhale 0:00–0:04, soft inhale 0:04–0:08. Chest rises softly. Audible soft sovereign exhale at 0:03.
+
+**Micro-skin storytelling:** Skin glowing in the warm pendant pool with venetian-blind shadow stripes across the left side. Capillary flush warm and settled. Single dewy point at the cupid's bow holds.
+
+**Product interaction sound-foley:** Crystal lowball returned to walnut desk at 0:00 with cut-crystal-on-walnut micro-clink. Hand at lapel produces a soft skin-on-wool contact at 0:02. Pipe-tobacco smoke curl settles to a thin vertical column at 0:04 (continuous-life thread closes).
+
+**Wardrobe interior life:** Navy wool blazer settled into the chair-back, lapel held by thumb-tuck. Ivory silk camisole at the V catches cool window stripes in final settled chromatic split. The crossed-leg cross-legged seat is the sovereign noir pose.
+
+**Sound design poetry:** Diegetic anchor — green-glass lamp 60Hz hum settles, distant LA traffic continues, faint distant siren far-off. Negative-space silence beat at 0:04–0:06 (eye-contact lock with held sovereign breath). Foley specificity — soft skin-on-wool contact at the lapel with the specific fine-wool fabric whisper. ASMR marker — soft sovereign exhale at 0:03, intimate and authoritative.
+
+**Transition DNA out:** This is the seal. The reel ends on the held sovereign statement-pose + venetian-blind-stripe-and-warm-pool composition at 0:08. The pipe-tobacco smoke curl settles to a thin vertical column closing the continuous-life thread.

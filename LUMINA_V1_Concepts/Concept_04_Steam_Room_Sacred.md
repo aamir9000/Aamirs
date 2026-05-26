@@ -1,6 +1,6 @@
 # CONCEPT 04 — STEAM ROOM SACRED (HAMMAM RITUAL)
 
-**20-WORD REEL SUMMARY:** Aira drifts through a marble hammam wrapped in linen, oils her collarbones, breathes deep, settles in steam reverence.
+**20-WORD REEL SUMMARY:** Aira drifts through a marble hammam wrapped in linen, oils her warm collarbones, breathes deep, settles in steam reverence finale.
 
 **WORLD / THEME:** Moroccan-style marble hammam at midday with a central gold-leafed dome, dense rising steam, sacred ritual atmosphere. Sensory, hushed, sovereign.
 
@@ -213,3 +213,169 @@ Lighting: dome oculus light from directly above-center keys crown and shoulders,
 Style: hyperreal commercial beauty texture, Mert and Marcus editorial color separation, no CGI bloom, no plastic skin.
 Audio: ambient hammam hush, soft serene exhale, faint water-drip from brass basin, no music, no dialogue.
 Negative: no subtitles, no on-screen text, no morphing, no warping, no captions, no logos.
+
+
+
+---
+
+## DIRECTOR'S LAYER (V1.1 UPGRADE)
+
+### CONCEPT-LEVEL DIRECTOR'S NOTES
+
+**REGIONAL/CULTURAL ANCHOR:** Marrakech medina hammam at 13:42 local in February. The marble is honed Moroccan beige-cream zellige-grade marble, the gold-leafed dome is mid-19th-century with hand-applied 22-karat leaf showing age variation. The brass water basin is hand-hammered Fez brass with patina. Cinematographer references the dome-oculus-into-warm-bounce color memory of the Marrakech hammam tradition.
+
+**ENVIRONMENTAL LIFE MARKER:** The dense steam itself behaves as a slow living thing across the reel — a single column of steam rises through the dome oculus column in a slow ballet pattern, visible in F1, F3, F5, and F7. The steam never repeats its exact shape, providing continuous-life thread through atmospheric particulate.
+
+**COLOR SCIENCE UPGRADE:** Kodak Vision3 250D dome-oculus emulation. Highlight roll-off filmic shoulder on the dome-oculus key, no digital clip on the gold-leaf dome bounce. ARRI Alexa LogC base with custom cool-white-oculus against warm-gold-bounce chroma split. 65mm fine grain at ISO 250 (the heavier large-format grain reads as elevated). Real lens halation around the oculus column, no digital glow.
+
+**POST-PRODUCTION LANGUAGE:** Grading intent — lift +4 in shadows on the warm gold bounce side, gamma 0.93, gain +5 on cool oculus highlights. Tiffen Black Pro-Mist 1 diffusion equivalent (heavy, the steam itself is the diffusion medium). Subtle vertical cool streak from the dome oculus at f/2.0. Halation bleed around the gold-leaf dome interior and the brass dropper cap.
+
+**SILENCE BEAT DESIGNATION:** Frame 4 (macro insert at oil bottle dropper rotation). Energy resets here — no body movement, no breath audible, no oil release. Only the brushed-gold dropper cap rotating between thumb and forefinger, the entire hammam held in held breath.
+
+**MIRROR-PRODUCT MOMENT DESIGNATION:** Frame 5 — the brass dropper and amber-glass body are doubled by reflection in TWO surfaces: (1) the freshly-applied honey-toned oil pool on the right collarbone catches a soft warm reflection of the brass dropper above, and (2) the brass water basin at frame-left mid-ground catches a faint reflection of the amber bottle body in its still-water surface. Double mirror-product reflection through warm reflective surfaces.
+
+**THUMBNAIL FRAME DESIGNATION:** Frame 1 (low-angle pedestal rise beneath dome oculus, face lifted). Face occupies approximately 28 percent of vertical frame at the pedestal-rise apex. Face-lifted-to-oculus-light with reverent expression is the engineered scroll-stop. The dome oculus halo behind the head creates the signature thumbnail composition.
+
+---
+
+### FRAME-BY-FRAME DIRECTOR'S NOTES
+
+#### FRAME 1 — DIRECTOR'S NOTES (THUMBNAIL FRAME)
+
+**Timing micro-choreography (8s):** 0:00–0:02 standing beneath dome oculus, hand at sternum, face beginning to lift. 0:02–0:04 chin reaches three-degree lift, face fully into oculus column. 0:04–0:06 eyes begin opening slowly, oculus light fills face. 0:06–0:08 fingertips at sternum release pressure, slow inhale completes.
+
+**Gaze physics:** Entry point — eyes softly closed at 0:00, opening at 0:04. Travel arc — gaze lifts toward oculus from 0:04 to 0:08. Hold duration — 4 seconds at upper arc. Pupil dilation cue: pupils constrict in the bright oculus column, then dilate as gold bounce fills. Lash blink count: zero blinks during the lift (the held reverence).
+
+**Breath choreography:** Slow reverent inhale begins 0:00, peaks 0:05, holds 0:05–0:07, gentle release begins 0:07. Chest rises visibly under linen wrap at 0:03. Audible soft inhale at 0:04.
+
+**Micro-skin storytelling:** Steam-dew along the collarbone in real surface-tension beads at macro proximity. Capillary flush rising on the cheek apple from heat. Single steam-dew bead migrates from temple to jawline across 0:05–0:08.
+
+**Product interaction sound-foley:** Brass dropper bottle resting on marble plinth at frame-right (offscreen at this beat), no contact sound.
+
+**Wardrobe interior life:** Linen wrap diagonal across body carries one fabric memory fold from being draped in the changing room earlier. Linen catches dome-oculus key with weave detail visible. Hem visibly steam-darkened at the lower edge.
+
+**Sound design poetry:** Diegetic anchor — the specific hammam water-drip-on-marble rhythm from the brass basin, every 3 seconds. Negative-space silence beat at 0:02–0:03 (held inhale before face fully reaches oculus). Foley specificity — fingertip sliding from sternum with skin-on-warm-skin micro-friction. ASMR marker — slow reverent inhale through softly parted lips at 0:04.
+
+**Transition DNA into Frame 2:** Audio bridge — held inhale of F1 becomes the slow exhale of F2. Motion-vector bridge — the upward face-lift of F1 transitions to the forward walk arc of F2. Color bridge — dome oculus key on crown in F1 carries to dome oculus key on crown in F2.
+
+---
+
+#### FRAME 2 — DIRECTOR'S NOTES
+
+**Timing micro-choreography (8s):** 0:00–0:02 walking forward toward bench, fingertips trail plinth edge. 0:02–0:04 head tilts slightly down, eyes close in steam breath. 0:04–0:06 mid-stride, damp tendrils lift 4cm. 0:06–0:08 step continues toward bench, tendrils settle.
+
+**Gaze physics:** Entry point — eyes closed from 0:02. Travel arc — closed throughout. Pupil dilation cue: not visible. Lash blink count: held closed.
+
+**Breath choreography:** Slow steam exhale begins 0:01, peaks 0:04, settles 0:06. Chest rises softly under linen at 0:03. Audible soft steam exhale at 0:02.
+
+**Micro-skin storytelling:** Steam-dew along the throat ridge in real surface-tension beads. Heated marble warmth on bare soles producing visible faint pink pressure marks. Single steam-dew bead releases from temple at 0:05, slides toward jawline.
+
+**Product interaction sound-foley:** Brass dropper bottle visible on marble plinth in mid-ground (still on bench), no contact sound this beat. Fingertip on marble plinth produces a soft skin-on-warm-marble micro-friction sound at 0:02.
+
+**Wardrobe interior life:** Linen wrap hem trembles minutely with each barefoot step. The bias of the linen catches dome-oculus key with traveling sheen. Linen visibly steam-darkening at the lower hem from accumulated humidity.
+
+**Sound design poetry:** Diegetic anchor — the brass water basin's distant water-drip rhythm continues. Negative-space silence beat at 0:06–0:07 (between steps). Foley specificity — barefoot heel-roll-to-toe on heated marble star-pattern floor with the specific warm-stone-on-skin sound. ASMR marker — slow steam exhale audible at intimate proximity.
+
+**Transition DNA into Frame 3:** Eyeline match — closed eyes of F2 reopen in F3 directly toward camera. Audio bridge — soft footstep tail of F2 stops in the held silence of F3. Motion-vector bridge — the forward walk of F2 arrives at the seated lean of F3.
+
+---
+
+#### FRAME 3 — DIRECTOR'S NOTES
+
+**Timing micro-choreography (8s):** 0:00–0:02 palm plants on marble bench, body settles into lean. 0:02–0:04 head tilts six degrees toward camera, eyes lift to lens. 0:04–0:06 rack focus arrives at eyes, soft confidence builds. 0:06–0:08 settled gaze holds, single soft blink at 0:07.
+
+**Gaze physics:** Entry point — eyes lift from marble at 0:01, lock on lens at 0:03. Travel arc — direct lens lock from 0:03 onward. Hold duration — 5 seconds locked on lens. Pupil dilation cue: warm gold-leaf bounce catches in upper sclera producing soft warm catchlight in inner corner; pupil dilates micro-amount at 0:05. Lash blink count: one slow steam-heavy blink at 0:07 (5 frames closed).
+
+**Breath choreography:** Soft steam inhale at 0:02 with the lean, holds 0:04–0:07. Chest rises under linen at 0:03. Audible single soft inhale at 0:02.
+
+**Micro-skin storytelling:** Visible pore micro-detail on cheekbone in dome oculus key. Steam-dew on individual eyelashes — each lash carries a tiny bead. Capillary flush warmly settled across cheek apples.
+
+**Product interaction sound-foley:** Brass dropper bottle rests on marble bench beside elbow at 0:00, no further contact this beat. Steam continues to rise around the bottle.
+
+**Wardrobe interior life:** Linen wrap strap tension shifts subtly with the seated lean. Linen catches dome oculus key with weave detail visible.
+
+**Sound design poetry:** Diegetic anchor — the hammam's deep humid hush, water drip continues. Negative-space silence beat at 0:04–0:06 (eye-contact lock with held breath). Foley specificity — steam particulate drifting between subject and camera with imperceptible micro-air-disturbance sound. ASMR marker — single soft inhale at 0:02 audible at intimate proximity.
+
+**Transition DNA into Frame 4:** Match-cut intent — the eye in F3 cuts to the dropper cap in F4 at the same f-stop. Color bridge — warm gold-leaf bounce on cheekbone in F3 becomes warm bounce on dropper cap in F4. Motion-vector bridge — the held lean of F3 transitions to the bottle-rotation of F4.
+
+---
+
+#### FRAME 4 — DIRECTOR'S NOTES (SILENCE BEAT)
+
+**Timing micro-choreography (8s):** 0:00–0:02 bottle steady at chest level, dropper cap registered. 0:02–0:04 thumb and forefinger begin slow counter-clockwise rotation. 0:04–0:06 cap reaches quarter-turn, brushed gold catches oculus key. 0:06–0:08 rotation completes, single steam-dew bead releases from bottle face.
+
+**Gaze physics:** Entry point — gaze warmly cast at bottle from 0:00. Travel arc — gaze tracks the rotating cap. Hold duration — 8 seconds eyes on bottle. Pupil dilation cue: pupils slightly constrict on the bright brushed-gold cap. Lash blink count: zero blinks (the held watch).
+
+**Breath choreography:** Slowest breath of the reel. Inhale 0:00–0:04, hold 0:04–0:08. Chest barely rises. No audible breath, the silence is the point.
+
+**Micro-skin storytelling:** Visible pore micro-detail on cheekbone. Steam-dew on individual eyelashes at maximum visibility. Single steam-dew bead on bottle face trembles, releases and falls past frame at 0:07.
+
+**Product interaction sound-foley:** Brushed-gold cap rotation produces a soft glass-on-glass cap-thread micro-rotation sound at 0:02–0:06. The cap itself produces no audible click yet (sealed during this rotation).
+
+**Wardrobe interior life:** Linen wrap strap tension steady. Body held still for the rotation.
+
+**Sound design poetry:** Diegetic anchor — the hammam's deep humid hush, water drip continues distant. Negative-space silence beat — the entire frame is silence beat, this is the designated still-water frame. Foley specificity — single steam-dew bead releasing from bottle face with soft surface-tension burst. ASMR marker — the soft cap-thread micro-rotation at macro proximity.
+
+**Transition DNA into Frame 5:** Match-cut intent — the dropper cap in F4 cuts to the dropper above collarbone in F5 at the same lens. Audio bridge — silence of F4 breaks with the soft dropper squeeze of F5. Motion-vector bridge — the rotating cap of F4 ends, the dropper begins descending toward collarbone in F5.
+
+---
+
+#### FRAME 5 — DIRECTOR'S NOTES (MIRROR-PRODUCT MOMENT)
+
+**Timing micro-choreography (8s):** 0:00–0:02 dropper held above right collarbone, finger compresses dropper bulb. 0:02–0:04 single honey-toned oil bead releases, falls in slow gravity. 0:04–0:06 bead reaches collarbone surface, pools with surface tension. 0:06–0:08 oil pool spreads minutely, dropper begins lifting away.
+
+**Gaze physics:** Entry point — eyes already closed from 0:00. Travel arc — closed throughout. Pupil dilation cue: not visible. Lash blink count: zero (held closed).
+
+**Breath choreography:** Held breath at 0:00–0:04, soft scent inhale begins 0:04, peaks 0:06. Chest visible rise under linen at 0:06. Audible soft inhale at 0:05.
+
+**Micro-skin storytelling:** Goosebump beat across the collarbone area as cool oil bead hits warm steam-dewed skin. Visible downy hairs along clavicle catching the bead. Honey-toned oil pool surface tension visible at macro proximity.
+
+**Product interaction sound-foley:** Dropper bulb compression at 0:01 produces a soft rubber-on-glass micro-squeeze sound. The oil bead release at 0:03 is silent (gravity drop). Bead landing on collarbone at 0:05 produces an imperceptible micro-impact audible only at extreme intimate proximity.
+
+**Wardrobe interior life:** Linen wrap strap migrates 2mm with the head-tilt that exposes the collarbone. Linen catches the warm gold bounce in the offered-shoulder area.
+
+**Sound design poetry:** Diegetic anchor — the brass water basin water-drip continues distant. Negative-space silence beat at 0:02–0:04 (the falling bead in slow gravity, held silence). Foley specificity — single honey-toned oil bead landing on warm skin with soft surface-tension micro-burst. ASMR marker — soft anticipatory inhale through softly parted lips at 0:05.
+
+**Mirror-product moment realization:** The brass dropper and amber-glass bottle body are doubled at 0:05–0:08 in TWO surfaces: (1) the freshly-pooled honey-toned oil on the right collarbone catches a soft warm reflection of the brass dropper above (the oil itself becomes a warm-tinted mirror), and (2) the brass water basin at frame-left mid-ground catches a faint amber-bottle reflection in its still-water surface. Double mirror-product reflection.
+
+**Transition DNA into Frame 6:** Audio bridge — soft scent inhale of F5 carries into the closed-eye exhale of F6. Motion-vector bridge — the dropper lift in F5 transitions to the fingertips smoothing oil in F6. Color bridge — warm gold bounce on collarbone oil in F5 carries to warm bounce on collarbone oil in F6.
+
+---
+
+#### FRAME 6 — DIRECTOR'S NOTES
+
+**Timing micro-choreography (8s):** 0:00–0:02 fingertips begin smoothing oil along collarbone in soft sweep. 0:02–0:04 sweep continues toward shoulder, oil glow spreads. 0:04–0:06 fingertips reach shoulder edge, soft exhale begins. 0:06–0:08 fingertip pressure releases, soft exhale completes.
+
+**Gaze physics:** Entry point — eyes closed from 0:00. Travel arc — closed throughout. Pupil dilation cue: not visible. Lash blink count: held closed.
+
+**Breath choreography:** Slow exhale begins 0:03, peaks 0:05, settles 0:08. Chest barely rises (the body is in release). Audible soft exhale at 0:04.
+
+**Micro-skin storytelling:** Capillary flush warm and deepened on the collarbone from the friction. Honey-toned oil sheen catches dome-oculus key with traveling specular as fingertips sweep. Single damp tendril at temple drifts with the head tilt.
+
+**Product interaction sound-foley:** Brass dropper bottle in left palm at hip with soft brass-on-skin contact. Fingertips on oil-coated collarbone produce a soft skin-on-oiled-skin glide sound at 0:02–0:06.
+
+**Wardrobe interior life:** Linen wrap strap tension shifts with the right-arm sweep across the chest. Linen edge brushes against the freshly oiled collarbone, picks up faint oil sheen at the seam.
+
+**Sound design poetry:** Diegetic anchor — the hammam's deep humid hush, water drip continues. Negative-space silence beat at 0:00–0:02 (the held intimacy before the sweep). Foley specificity — fingertips on oiled collarbone with the specific warm-skin-on-oil glide sound. ASMR marker — soft exhale through softly parted lips at 0:04.
+
+**Transition DNA into Frame 7:** Eyeline match — closed eyes of F6 reopen in F7 directly to lens. Audio bridge — soft exhale of F6 settles into the soft contented exhale of F7. Motion-vector bridge — the fingertip sweep ending in F6 transitions to the still-stance of F7.
+
+---
+
+#### FRAME 7 — DIRECTOR'S NOTES (PAYOFF SEAL)
+
+**Timing micro-choreography (8s):** 0:00–0:02 hands settle at thighs, bottle returned to plinth. 0:02–0:04 head tilts six degrees toward camera-left, eyes lift to lens. 0:04–0:06 settled emotional smile builds, gaze deepens. 0:06–0:08 single soft blink at 0:07, smile holds.
+
+**Gaze physics:** Entry point — eyes lift to lens at 0:02. Travel arc — direct lens lock from 0:02 onward. Hold duration — 6 seconds locked on lens. Pupil dilation cue: warm gold-leaf bounce catches in inner corner producing soft warm catchlight; pupil dilates micro-amount at 0:05. Lash blink count: one slow steam-heavy blink at 0:07.
+
+**Breath choreography:** Settled exhale 0:00–0:04, soft serene inhale 0:04–0:08. Chest rises softly. Audible soft serene exhale at 0:03.
+
+**Micro-skin storytelling:** Skin glowing in fresh oil sheen across the right collarbone. Capillary flush warm and settled. Steam-dew on individual eyelashes catches dome oculus key.
+
+**Product interaction sound-foley:** Brass dropper bottle returned to marble plinth at 0:01 with a soft brass-on-marble micro-thock. No further contact.
+
+**Wardrobe interior life:** Linen wrap settled, the migrated straps now hold final position. Linen catches dome oculus key in final settled sheen, hem visibly steam-darkened.
+
+**Sound design poetry:** Diegetic anchor — the brass water basin water-drip rhythm settles, the hammam exhales with her. Negative-space silence beat at 0:04–0:06 (eye-contact lock with held breath). Foley specificity — soft serene exhale through softly parted lips. ASMR marker — the soft serene exhale itself, intimate and reverent.
+
+**Transition DNA out:** This is the seal. The reel ends on the held settled emotional smile + dome-oculus-halo composition at 0:08. The single steam column rises through the oculus a final time, closing the continuous-life thread.
