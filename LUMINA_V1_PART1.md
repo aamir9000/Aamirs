@@ -1634,3 +1634,767 @@ Audio: ambient Tuscan morning, distant rooster, faint birdsong, soft breath.
 Negative: no subtitles, no on-screen text, no morphing, no warping, no captions, no logos.
 
 ---
+
+
+
+## CONCEPT 07 — DOLOMITES SNOW CABIN MORNING (LIFESTYLE / WINTER / CABIN RITUAL)
+
+**20-WORD REEL SUMMARY:** Aira wakes in a Dolomites cabin, wraps in cashmere, opens windows to snow, sips cocoa, smiles outside.
+
+**WORLD / THEME:** Alpine wood cabin in the Italian Dolomites, first snowfall morning, slow ritual.
+
+**HERO PRODUCT:** Hand-thrown matte stoneware cocoa mug with raw clay foot and ivory drip glaze. Supporting: a chunky undyed cream wool throw with hand-tied fringe.
+
+**ENVIRONMENT IDENTITY:** Hand-built larch-wood cabin interior, cast-iron wood stove with low embers in foreground frame-right, frosted double-pane window mid-frame with snow drifting outside, soft-focus snow-covered pine canopy deep background, hand-loomed cream wool throw on a low oak bench, sheepskin underfoot, faint wood-smoke particulate.
+
+**LIGHTING MOOD:** Cool dawn-snow window light from camera-front through frosted glass (soft, 6500K) + warm ember bounce from cast-iron stove camera-right (flickering soft, 2500K).
+
+**HOOK DISTRIBUTION:** F1 closed-eye morning stretch breath direct to lens. F3 hand-on-frosted-glass macro. F5 closed-eye sip warmth. F6 final settled smile to lens at window.
+
+**SUBJECT ENERGY PROFILE:** Slow, warm, pre-coffee soft, unhurried sovereignty of a quiet morning.
+
+**MOTION CONTINUITY LOGIC:** Sits up wrapped in throw → stretches arms overhead with closed-eye breath → walks to window and presses palm to frosted glass → turns to stove and lifts cocoa mug → sips with closed eyes → opens window letting snow drift in and turns to lens with final smile.
+
+**CAMERA LANGUAGE PLAN:** F1 slow push-in 50mm. F2 low-angle pedestal rise 35mm. F3 macro insert 100mm. F4 dolly left 50mm. F5 rack focus near-to-far 85mm. F6 slow pull-out 35mm.
+
+**EXPRESSION CHOREOGRAPHY:** F1 closed-eye morning stretch breath. F2 unguarded morning smile. F3 quiet emotional reverence. F4 reverent product gaze. F5 closed-eye sip warmth. F6 settled emotional smile final.
+
+**BODY LANGUAGE PLAN:** F1 both arms stretched overhead with throw draped at shoulders. F2 right hand pulling throw closer at clavicle as she stands. F3 left palm pressed flat against frosted window glass. F4 right hand lifting cocoa mug from stove ledge. F5 both hands cradling mug at lips. F6 left hand pushing window outward letting snow drift in.
+
+**HAIR PHYSICS NOTES:** Mid-back honey-blonde with sleep-soft natural waves, slightly tousled, individual strand separation. Lift heights: F1 1cm in stretch, F4 2cm trailing the turn, F6 3cm in opening-window air movement.
+
+**FABRIC MOTION NOTES:** Outfit — cream cashmere ribbed long-sleeve henley, slim oatmeal merino wool joggers, undyed cream wool throw draped over both shoulders. Throw fringe trembles 4cm in F1 stretch, henley sleeves push 3cm up the forearm in F4, throw drops from one shoulder 6cm in F6 window-open.
+
+**LIGHTING PHYSICS NOTES:** Cool window light wraps her camera-front side in soft daylight with visible pore micro-detail. Warm ember bounce flickers a 1-stop softer warm fill across the camera-right jaw and the mug ceramic. Frosted glass diffuses background snow into a soft-focus halo.
+
+**BEAUTY PRODUCT INTERACTION PLAN:** F1 mug not yet present, throw is the contact. F2 mug visible in soft focus on stove ledge frame-right, hand on throw. F3 mug on stove ledge, hand on glass. F4 mug lifted in right hand from stove ledge. F5 mug at lips full contact, both palms cradling. F6 mug back on stove ledge in soft focus frame-right, hand on window.
+
+**VIEWER ENGAGEMENT MOMENTS:** F1 unguarded direct lens lock through stretch. F6 settled emotional smile direct to camera at the open window.
+
+**ANTI-ILLUSTRATION SAFEGUARDS:** Real frost crystal pattern on glass, real cashmere ribbed weave variation, real stoneware drip-glaze irregularity, real wool fringe hand-tie irregularity, real cocoa vapor curl.
+
+**HYPERREAL COMMERCIAL TEXTURE LANGUAGE:** Roger Deakins natural-window palette, raw cinematic 8k, Arri Alexa LF skin science, no CGI bloom, no plastic skin.
+
+**FOOTWEAR STRING:** Hand-knit cream wool slipper-socks with leather-suede sole, almond rounded toe, 0cm flat sole, hand-stitched leather suede outsole with single visible saddle stitch, tonal cable-knit pattern across the vamp.
+
+---
+
+### FRAME 1 — IMAGE PROMPT
+
+9:16 aspect ratio, strictly photorealistic, ultra-realistic, 8k resolution, raw cinematic beauty-campaign aesthetic, hyperreal commercial texture, anti-illustration, anti-comic-book, anti-CGI, real-camera lens behavior, shallow depth of field.
+
+SPATIAL ANCHOR: subject in center-third of frame, body angled directly toward camera, both arms stretched overhead with throw draped at shoulders, dominant cool window light from camera-front, warm ember bounce from camera-right, larch-wood bed-bench foreground frame-bottom, frosted window mid-frame frame-left background, cast-iron stove frame-right background. Composition is locked. Frame is NOT mirrored. Dolomites cabin interior at first light. Hand-built larch-wood walls with visible knots, low oak bed-bench in foreground with sheepskin throw beneath her, cast-iron wood stove with low embers frame-right, frosted double-pane window frame-left with snow drifting outside, soft-focus snow-covered pine canopy deep background through window, faint wood-smoke particulate.
+
+Subject is Aira, mid-twenties adult woman, confident editorial presence, natural cinematic skin texture with sleep-warm flush across the cheekbones. Cream cashmere ribbed long-sleeve henley, slim oatmeal merino wool joggers, undyed cream wool throw draped over both shoulders. Mid-back honey-blonde with sleep-soft natural waves, slightly tousled, individual strand separation. Glowing pre-coffee morning base, soft pink cheek flush, neutral nude satin lip, unkempt natural brow, dewy finish. Single thin gold band on left ring finger, small gold sleeper hoops. Hand-knit cream wool slipper-socks with leather-suede sole, almond rounded toe, 0cm flat sole, hand-stitched leather suede outsole with single visible saddle stitch, tonal cable-knit pattern across the vamp. Product not yet held — both arms stretched overhead, throw is the contact.
+
+L-arm: stretched overhead, palm open
+R-arm: stretched overhead, palm open
+L-leg: tucked under right thigh on bench
+R-leg: extended forward on bench
+Feet: slipper-socks tucked beneath, partially visible
+Waist: square to camera, slight back-arch
+Head: tilted back two degrees, eyes closed
+Gaze: closed eyes
+Expr: closed-eye morning stretch breath, eyelids softly closed and lips relaxed parted in a slow morning yawn
+
+Medium close-up, frontal angle eye-level, 50mm lens, center-third alignment, f/2.0, slow push-in.
+
+### FRAME 1 — VEO VIDEO PROMPT
+
+Camera: slow push-in 50mm at eye-level, shallow depth of field, eight-second slow forward push.
+Subject: young woman, stretching arms overhead with closed-eye breath, both arms and chest, upward, slow.
+Action and physics: throw fringe trembles 4cm at the shoulders, honey-blonde hair lifts 1cm in the stretch, cashmere henley sleeves push 1cm up the forearm.
+Environment: faint wood-smoke particulate drifts through the cool window light.
+Lighting: cool dawn-snow window light from camera-front, warm ember bounce from camera-right.
+Style: hyperreal commercial texture, Roger Deakins natural-window palette, no CGI bloom, no plastic skin.
+Audio: soft morning yawn-breath, distant crackling embers, faint snow-on-window tap.
+Negative: no subtitles, no on-screen text, no morphing, no warping, no captions, no logos.
+
+---
+
+### FRAME 2 — IMAGE PROMPT
+
+9:16 aspect ratio, strictly photorealistic, ultra-realistic, 8k resolution, raw cinematic beauty-campaign aesthetic, hyperreal commercial texture, anti-illustration, anti-comic-book, anti-CGI, real-camera lens behavior, shallow depth of field.
+
+SPATIAL ANCHOR: subject in center-third standing now, body angled three-quarter toward camera-left, right hand pulling throw closer at clavicle, cool window light from camera-front, warm ember bounce from camera-right, oak bed-bench foreground frame-bottom, stove with mug visible frame-right background, frosted window frame-left background. Spatial layout is fixed. Frame is NOT mirrored. Cabin interior, view from low angle as she stands. Larch-wood walls with knots visible, sheepskin on bench foreground, cast-iron stove frame-right with low embers and stoneware mug visible on ledge, frosted window with snow falling outside frame-left, soft wood-smoke particulate.
+
+Subject is Aira, mid-twenties adult woman, confident editorial presence, natural cinematic skin texture with sleep-warm cheekbone flush holding. Cream cashmere ribbed long-sleeve henley, slim oatmeal merino wool joggers, undyed cream wool throw pulled close at clavicle. Mid-back honey-blonde, slightly tousled, settled. Glowing pre-coffee morning base, soft pink cheek flush, neutral nude satin lip, unkempt natural brow, dewy finish. Single thin gold band on left ring finger, small gold sleeper hoops. Hand-knit cream wool slipper-socks with leather-suede sole, almond rounded toe, 0cm flat sole, hand-stitched leather suede outsole with single visible saddle stitch, tonal cable-knit pattern across the vamp. Product — stoneware mug visible in soft focus on stove ledge frame-right, hand-on-throw is the contact beat.
+
+L-arm: relaxed at side
+R-arm: bent, right hand at clavicle pulling throw closer
+L-leg: standing
+R-leg: standing, slight forward step
+Feet: slipper-socks planted on sheepskin
+Waist: square to camera-left
+Head: tilted four degrees toward lens
+Gaze: direct lock to lens with warm soft confidence
+Expr: unguarded morning smile, eyes warm-creased and a closed-mouth half-smile lifting both cheekbones a millimeter
+
+Medium-wide, low-angle from sheepskin level, 35mm lens, center-third alignment, f/2.5, low-angle pedestal rise.
+
+### FRAME 2 — VEO VIDEO PROMPT
+
+Camera: low-angle pedestal rise 35mm, shallow depth of field, eight-second slow vertical lift from sheepskin height to standing eye-level.
+Subject: young woman, standing and pulling throw close at clavicle, right hand and torso, upward stand, slow.
+Action and physics: throw fringe sways 3cm at the hem in the stand, honey-blonde hair settles 2cm against the jawline, cashmere ribbed weave compresses at the clavicle.
+Environment: a single ember pop flickers warm light across her cheek.
+Lighting: cool window light from camera-front, warm ember bounce from camera-right.
+Style: hyperreal commercial texture, Arri Alexa LF skin science, no CGI bloom, no plastic skin.
+Audio: faint ember crackle, soft wool-on-wool rustle, distant snow ambience.
+Negative: no subtitles, no on-screen text, no morphing, no warping, no captions, no logos.
+
+---
+
+### FRAME 3 — IMAGE PROMPT
+
+9:16 aspect ratio, strictly photorealistic, ultra-realistic, 8k resolution, raw cinematic beauty-campaign aesthetic, hyperreal commercial texture, anti-illustration, anti-comic-book, anti-CGI, real-camera lens behavior, shallow depth of field.
+
+SPATIAL ANCHOR: subject in left-third of frame, body angled toward camera-right at frosted window, left palm pressed flat against frosted glass, cool window light from camera-front-left, warm ember bounce from camera-right, frosted window foreground frame-left with snow falling outside, larch-wood wall mid-frame, stove with mug deep background frame-right. Camera-side orientation is locked. Frame is NOT mirrored. Tight macro on hand-on-glass beat. Frosted window with frost crystal pattern in foreground, her left palm pressed flat against the glass with palm-warmth fog forming around fingers, soft-focus snow falling outside, soft-focus larch-wood wall background.
+
+Subject is Aira, mid-twenties adult woman, confident editorial presence, natural cinematic skin texture with cool window light wrapping the cheekbone. Cream cashmere ribbed long-sleeve henley, slim oatmeal merino wool joggers, undyed cream wool throw at shoulders. Mid-back honey-blonde, settled, one strand falling forward. Glowing pre-coffee morning base, soft pink cheek flush, neutral nude satin lip, unkempt natural brow, dewy finish. Single thin gold band on left ring finger, small gold sleeper hoops. Hand-knit cream wool slipper-socks with leather-suede sole, almond rounded toe, 0cm flat sole, hand-stitched leather suede outsole with single visible saddle stitch, tonal cable-knit pattern across the vamp. Product — stoneware mug on stove ledge in deep background, hand-on-glass is the contact beat.
+
+L-arm: extended forward, left palm pressed flat against frosted glass
+R-arm: bent, right hand holding throw at shoulder
+L-leg: standing forward
+R-leg: standing back
+Feet: out of frame
+Waist: leaning forward two degrees toward window
+Head: tilted forward four degrees toward window
+Gaze: through window at falling snow with quiet wonder
+Expr: quiet emotional reverence, eyes softly held on the snow and a closed-mouth quiet curve at the lip
+
+Macro insert, three-quarter angle from camera-right, 100mm macro lens, left-third alignment, f/2.8, locked-off macro.
+
+### FRAME 3 — VEO VIDEO PROMPT
+
+Camera: locked-off macro 100mm at chest-height, shallow depth of field, eight-second still-held shot with one micro-rack from frost crystals to her eye.
+Subject: young woman, pressing palm flat to frosted glass, left palm, forward, slow.
+Action and physics: palm-warmth fog spreads 4cm around her fingers on the cold glass, frost crystals soften 1mm in the fog halo, single snowflake passes outside.
+Environment: outside the window snow falls vertically in soft focus.
+Lighting: cool window light from camera-front-left, warm ember bounce from camera-right.
+Style: hyperreal commercial texture, Roger Deakins natural-window palette, no CGI bloom, no plastic skin.
+Audio: faint glass-skin contact, distant snow-on-roof, soft breath.
+Negative: no subtitles, no on-screen text, no morphing, no warping, no captions, no logos.
+
+---
+
+### FRAME 4 — IMAGE PROMPT
+
+9:16 aspect ratio, strictly photorealistic, ultra-realistic, 8k resolution, raw cinematic beauty-campaign aesthetic, hyperreal commercial texture, anti-illustration, anti-comic-book, anti-CGI, real-camera lens behavior, shallow depth of field.
+
+SPATIAL ANCHOR: subject in center-third, body angled three-quarter toward camera-right at the cast-iron stove, right hand lifting cocoa mug from stove ledge, cool window light from camera-front, warm ember bounce from camera-right, cast-iron stove foreground frame-right with low embers, frosted window mid-frame frame-left background, oak bench frame-left foreground. Composition is locked. Frame is NOT mirrored. Cabin interior, view at the stove. Cast-iron wood stove in foreground frame-right with low orange embers visible, stoneware cocoa mug being lifted from ledge, soft-focus larch-wood wall mid-frame, frosted window deep background frame-left, faint wood-smoke particulate.
+
+Subject is Aira, mid-twenties adult woman, confident editorial presence, natural cinematic skin texture with warm ember-flicker on the cheekbone closest to lens. Cream cashmere ribbed long-sleeve henley with sleeves now pushed 3cm up the forearm, slim oatmeal merino wool joggers, undyed cream wool throw at shoulders. Mid-back honey-blonde, trailing 2cm in the turn. Glowing pre-coffee morning base, soft pink cheek flush, neutral nude satin lip, unkempt natural brow, dewy finish. Single thin gold band on left ring finger, small gold sleeper hoops. Hand-knit cream wool slipper-socks with leather-suede sole, almond rounded toe, 0cm flat sole, hand-stitched leather suede outsole with single visible saddle stitch, tonal cable-knit pattern across the vamp. Product — stoneware cocoa mug being lifted in right hand from stove ledge, ivory drip glaze catching warm ember light, faint cocoa vapor curling upward.
+
+L-arm: relaxed at side, hand on throw
+R-arm: extended forward, right hand cradling mug lifting from stove ledge
+L-leg: standing
+R-leg: standing, slight forward stance
+Feet: slipper-socks planted on sheepskin, partially visible
+Waist: torqued slightly camera-right toward stove
+Head: tilted down three degrees toward mug
+Gaze: down on mug surface with reverent attention
+Expr: reverent product gaze, eyes soft-focused on the cocoa and lips relaxed parted in quiet attention
+
+Medium close-up, three-quarter angle from camera-left at chest-height, 50mm lens, center-third alignment, f/2.0, dolly left.
+
+### FRAME 4 — VEO VIDEO PROMPT
+
+Camera: dolly left 50mm at chest-height, shallow depth of field, eight-second smooth lateral slide camera-left around the stove.
+Subject: young woman, lifting cocoa mug from stove ledge, right hand, upward, slow.
+Action and physics: cocoa vapor curls 6cm upward from mug surface, ember light flickers across her cheek, throw fringe trembles 1cm in the lift.
+Environment: a single ember pops in the stove and shifts the warm light.
+Lighting: cool window light from camera-front, warm ember bounce from camera-right.
+Style: hyperreal commercial texture, Arri Alexa LF skin science, no CGI bloom, no plastic skin.
+Audio: faint ceramic-on-iron lift, ember crackle, distant snow ambience.
+Negative: no subtitles, no on-screen text, no morphing, no warping, no captions, no logos.
+
+---
+
+### FRAME 5 — IMAGE PROMPT
+
+9:16 aspect ratio, strictly photorealistic, ultra-realistic, 8k resolution, raw cinematic beauty-campaign aesthetic, hyperreal commercial texture, anti-illustration, anti-comic-book, anti-CGI, real-camera lens behavior, shallow depth of field.
+
+SPATIAL ANCHOR: subject in center-third, body angled directly toward camera, both palms cradling stoneware mug at lips, cool window light from camera-front, warm ember bounce from camera-right, mug centered at lip-height, stove deep background frame-right, frosted window mid-frame frame-left background. Spatial layout is fixed. Frame is NOT mirrored. Tight macro on the cocoa sip. Stoneware mug with ivory drip glaze and raw clay foot at her lips, soft-focus cabin interior background, cocoa vapor curling upward, warm ember-light tinge on the cheekbone closest to camera-right.
+
+Subject is Aira, mid-twenties adult woman, confident editorial presence, natural cinematic skin texture with a faint cocoa-vapor warmth on the upper lip. Cream cashmere ribbed long-sleeve henley, slim oatmeal merino wool joggers, undyed cream wool throw at shoulders. Mid-back honey-blonde, settled, a few strands tucked behind right ear. Glowing pre-coffee morning base, soft pink cheek flush, neutral nude satin lip with the slightest cocoa-trace at the upper lip corner, unkempt natural brow, dewy finish. Single thin gold band on left ring finger, small gold sleeper hoops. Hand-knit cream wool slipper-socks with leather-suede sole, almond rounded toe, 0cm flat sole, hand-stitched leather suede outsole with single visible saddle stitch, tonal cable-knit pattern across the vamp. Product — stoneware mug cradled in both palms, rim pressed to lower lip, eyes soft-closed.
+
+L-arm: forward, left palm cradling left side of mug
+R-arm: forward, right palm cradling right side of mug
+L-leg: standing
+R-leg: standing
+Feet: out of frame
+Waist: leaning forward two degrees
+Head: tilted forward four degrees toward mug
+Gaze: closed eyes
+Expr: closed-eye sip warmth, eyelids softly closed and the corner of the mouth lifted into the stoneware rim
+
+Macro insert, frontal angle, 85mm lens, center-third alignment, f/2.5, rack focus near-to-far from rim to her eyes.
+
+### FRAME 5 — VEO VIDEO PROMPT
+
+Camera: rack focus 85mm near-to-far, lip-height, shallow depth of field, eight-second held shot with focus pulling from mug rim to her face.
+Subject: young woman, lifting mug to lower lip, both hands, upward then settling, slow.
+Action and physics: cocoa vapor curls 8cm upward in a slow vertical ribbon, stoneware ivory drip-glaze catches a rolling warm specular, one honey-blonde strand at the temple lifts a fraction on her exhale.
+Environment: faint wood-smoke particulate drifts through cool window light.
+Lighting: cool window light from camera-front, warm ember bounce from camera-right.
+Style: hyperreal commercial texture, Roger Deakins natural-window palette, no CGI bloom, no plastic skin.
+Audio: faint ceramic-on-lip, soft sip, distant ember crackle.
+Negative: no subtitles, no on-screen text, no morphing, no warping, no captions, no logos.
+
+---
+
+### FRAME 6 — IMAGE PROMPT
+
+9:16 aspect ratio, strictly photorealistic, ultra-realistic, 8k resolution, raw cinematic beauty-campaign aesthetic, hyperreal commercial texture, anti-illustration, anti-comic-book, anti-CGI, real-camera lens behavior, shallow depth of field.
+
+SPATIAL ANCHOR: subject in center-third at the open window, body angled three-quarter toward camera, left hand pushing window outward letting snow drift in, cool window light now spilling unimpeded from camera-front, warm ember bounce from camera-right, open window foreground frame-left with snow drifting in, larch-wood wall mid-frame, stove with mug back on ledge frame-right background. Camera-side orientation is locked. Frame is NOT mirrored. Wider reveal of cabin interior with window now open. Larch-wood walls with visible knots, cast-iron stove frame-right with mug back on ledge, sheepskin underfoot, snow drifting through open window in foreground frame-left, snow-covered pine canopy now visible deep background through window without frost diffusion, soft wood-smoke particulate.
+
+Subject is Aira, mid-twenties adult woman, confident editorial presence, natural cinematic skin texture with cool snow-light wrapping the cheekbone, faint flush warming through. Cream cashmere ribbed long-sleeve henley, slim oatmeal merino wool joggers, undyed cream wool throw with one shoulder dropped 6cm. Mid-back honey-blonde, lifted 3cm in the snow-air movement at the front. Glowing pre-coffee morning base, soft pink cheek flush, neutral nude satin lip, unkempt natural brow, dewy finish. Single thin gold band on left ring finger, small gold sleeper hoops. Hand-knit cream wool slipper-socks with leather-suede sole, almond rounded toe, 0cm flat sole, hand-stitched leather suede outsole with single visible saddle stitch, tonal cable-knit pattern across the vamp. Product — stoneware mug back on stove ledge in soft focus deep background frame-right, hand-on-window is the contact beat.
+
+L-arm: extended forward, left hand pushing window outward
+R-arm: relaxed at side, hand on throw at hip
+L-leg: standing forward
+R-leg: standing back
+Feet: slipper-socks on sheepskin, partially visible at frame-bottom
+Waist: square to lens, slight forward lean
+Head: tilted four degrees toward lens
+Gaze: direct lock to lens with quiet warm sovereignty
+Expr: settled emotional smile final, both cheekbones lifted softly with a closed-mouth smile and eyes warm-creased at the corners
+
+Medium-wide, frontal angle eye-level, 35mm lens, center-third alignment, f/2.8, slow pull-out.
+
+### FRAME 6 — VEO VIDEO PROMPT
+
+Camera: slow pull-out 35mm at eye-level, shallow depth of field, eight-second smooth backward tracking pull.
+Subject: young woman, opening window and turning to lens, left hand and head, forward then sideways to lens, slow.
+Action and physics: snowflakes drift 20cm into the cabin in a soft cone, throw drops 6cm from one shoulder, honey-blonde hair lifts 3cm at the front in the cold air movement.
+Environment: snow drifts steadily through the open window.
+Lighting: cool snow-light from camera-front, warm ember bounce from camera-right.
+Style: hyperreal commercial texture, raw cinematic 8k, Roger Deakins natural-window palette, no CGI bloom, no plastic skin.
+Audio: faint window-hinge creak, soft snow ambience, distant ember crackle.
+Negative: no subtitles, no on-screen text, no morphing, no warping, no captions, no logos.
+
+---
+
+
+
+## CONCEPT 08 — MANHATTAN ROOFTOP SUNSET MONOLOGUE (URBAN / SKYLINE / DIRECT-ADDRESS MONOLOGUE)
+
+**20-WORD REEL SUMMARY:** Aira stands on a Manhattan rooftop at sunset, leans on railing, speaks softly to camera, exhales, smiles knowingly.
+
+**WORLD / THEME:** Private Manhattan rooftop terrace, late golden hour into early dusk. Direct-address monologue.
+
+**HERO PRODUCT:** Hand-blown clear-crystal coupe glass with a finely etched starburst pattern at the foot. Supporting: a slim black silk-lined wool blazer thrown over the railing.
+
+**ENVIRONMENT IDENTITY:** Manhattan rooftop terrace, weathered concrete pavers underfoot, foreground steel-and-glass railing along edge, mid-frame distant skyline of midtown buildings turning amber, soft-focus Hudson River sliver deep background, low concrete planter with single olive tree, hint of warm city haze.
+
+**LIGHTING MOOD:** Setting-sun rim from camera-right behind buildings (low angle, hard, 2400K) + cool periwinkle sky bounce from camera-back-left (soft, 6800K).
+
+**HOOK DISTRIBUTION:** F1 settled-smile direct lens lock at railing. F3 closed-eye exhale release. F4 mid-sentence open-mouth talking direct address. F6 final glance-back warm seal at terrace edge.
+
+**SUBJECT ENERGY PROFILE:** Reflective, self-possessed, end-of-day intimate. Speaking truths to herself and the lens.
+
+**MOTION CONTINUITY LOGIC:** Rests forearms on glass railing facing skyline → glances over right shoulder to lens → closes eyes and exhales releasing the day → turns body toward lens speaking line two → lifts coupe glass to lips for closed-eye sip → final settled glance-back warm seal.
+
+**CAMERA LANGUAGE PLAN:** F1 slow push-in 50mm. F2 rack focus far-to-near 85mm. F3 macro insert 100mm. F4 half-arc orbit 50mm. F5 dolly right 50mm. F6 slow pull-out 35mm.
+
+**EXPRESSION CHOREOGRAPHY:** F1 settled-smile direct camera intimacy. F2 over-shoulder soft smile to lens. F3 closed-eye exhale release. F4 mid-sentence open-mouth talking. F5 closed-eye sip warmth. F6 final glance-back warm seal.
+
+**BODY LANGUAGE PLAN:** F1 both forearms resting on glass railing. F2 right shoulder turning back toward lens, left forearm staying on railing. F3 left palm pressed flat to chest above heart. F4 right hand lifted softly outward in mid-gesture. F5 right hand cradling coupe glass at lips. F6 left hand still on railing as she turns to walk away.
+
+**HAIR PHYSICS NOTES:** Long warm chocolate-brown waves with subtle caramel mid-lengths, individual strand separation. Lift heights: F2 4cm fan on the over-shoulder turn, F4 3cm lift in city breeze, F6 5cm trailing in walk-away.
+
+**FABRIC MOTION NOTES:** Outfit — ivory silk camisole tucked into high-waisted slate-grey wide-leg trousers, slim black silk-lined wool blazer thrown over the railing (not worn). Camisole hem trembles 1cm in city breeze, trousers crease at the knee in F4, blazer collar lifts 2cm on railing where it hangs.
+
+**LIGHTING PHYSICS NOTES:** Setting-sun rim lays a warm orange-amber line along her camera-right cheekbone, shoulder, and the railing glass in every frame. Cool periwinkle sky bounce fills her shadow side and the camisole silk with soft blue-violet. Coupe glass refracts a single warm city-light bokeh in F5.
+
+**BEAUTY PRODUCT INTERACTION PLAN:** F1 coupe glass in soft focus on railing ledge frame-right beside her elbow. F2 coupe glass on railing, hand near it but not lifted. F3 coupe glass on railing, hand-on-chest is the contact. F4 coupe glass on railing, gesture in mid-air. F5 coupe glass lifted to lips in right hand, full contact. F6 coupe glass back on railing in deep foreground as she walks.
+
+**VIEWER ENGAGEMENT MOMENTS:** F1 direct lens lock at railing. F2 over-shoulder warm smile direct to lens. F4 mid-sentence eye-flick to lens. F6 final glance-back warm seal direct to lens at monologue close.
+
+**ANTI-ILLUSTRATION SAFEGUARDS:** Real concrete-paver surface variation, real silk camisole drape, real crystal etching pattern on coupe foot, real city-haze atmospheric particulate, real single-strand separation in chocolate hair.
+
+**HYPERREAL COMMERCIAL TEXTURE LANGUAGE:** Harris Savides New York-skyline palette, raw cinematic 8k, Arri Alexa Mini LF skin science, no CGI bloom, no plastic skin.
+
+**FOOTWEAR STRING:** Polished bone-cream calfskin slingback pumps, sharp pointed toe, 8cm sculpted stiletto heel, leather sole with rubber toe-cap insert, hand-stitched seam running up the back of the heel cup with delicate elastic slingback strap.
+
+**AIRA MONOLOGUE LINES (delivered across F1, F4, F6):**
+F1 (line 1, soft, direct to lens): "There's a version of this city only you and the rooftop ever see."
+F4 (line 2, mid-gesture, eye-flick to lens): "Some days I think it's the only honest version we have."
+F6 (line 3, glance-back warm farewell): "And some days, that's the one I keep."
+
+---
+
+### FRAME 1 — IMAGE PROMPT
+
+9:16 aspect ratio, strictly photorealistic, ultra-realistic, 8k resolution, raw cinematic beauty-campaign aesthetic, hyperreal commercial texture, anti-illustration, anti-comic-book, anti-CGI, real-camera lens behavior, shallow depth of field.
+
+SPATIAL ANCHOR: subject in center-third of frame, body angled three-quarter to camera-left at glass railing, both forearms resting on the railing, dominant warm setting-sun rim from camera-right, cool periwinkle sky bounce from camera-back-left, glass railing foreground frame-bottom, distant skyline mid-frame background, olive tree planter frame-left foreground, coupe glass and blazer on railing frame-right beside her elbow. Composition is locked. Frame is NOT mirrored. Manhattan rooftop terrace at late golden hour. Weathered concrete pavers in foreground, steel-and-glass railing running along the cliff edge of the building, distant midtown skyline mid-frame turning amber, soft-focus Hudson River sliver deep background, low concrete planter with single olive tree frame-left foreground, faint warm city haze rising.
+
+Subject is Aira, mid-twenties adult woman, confident editorial presence, natural cinematic skin texture with golden-amber rim along the cheekbone closest to camera-right. Ivory silk camisole tucked into high-waisted slate-grey wide-leg trousers. Long warm chocolate-brown waves with caramel mid-lengths, individual strand separation, settled across left shoulder. Glowing dusk-gold base, peach-mauve blush, warm-rose satin lip, softly defined brow, dewy finish. Thin gold layered necklaces, small gold huggie hoops, one slim gold cuff bracelet on right wrist. Polished bone-cream calfskin slingback pumps, sharp pointed toe, 8cm sculpted stiletto heel, leather sole with rubber toe-cap insert, hand-stitched seam running up the back of the heel cup with delicate elastic slingback strap. Product — hand-blown crystal coupe glass with etched starburst pattern visible in soft focus on railing ledge frame-right beside her elbow.
+
+L-arm: forearm resting flat on glass railing
+R-arm: forearm resting flat on glass railing
+L-leg: planted, weight-bearing
+R-leg: planted, slight back-lean
+Feet: pumps planted on concrete pavers, partially visible
+Waist: square to railing, slight forward lean
+Head: tilted four degrees toward lens
+Gaze: direct lock to lens with reflective intimacy
+Expr: settled-smile direct camera intimacy, eyes softly held on lens and a closed-mouth half-smile lifting both cheekbones a millimeter
+
+Medium close-up, three-quarter angle from camera-left at chest-height, 50mm lens, center-third alignment, f/2.0, slow push-in.
+
+### FRAME 1 — VEO VIDEO PROMPT
+
+Camera: slow push-in 50mm at chest-height, shallow depth of field, eight-second slow forward push.
+Subject: young woman, speaking line one to camera at railing, lips, forward to lens, slow.
+Action and physics: chocolate-brown hair lifts 2cm at the temple in city breeze, camisole hem trembles 1cm at the waist, faint warm city haze drifts behind her.
+Environment: distant building lights flicker on one by one as dusk approaches.
+Lighting: warm setting-sun rim from camera-right, cool periwinkle sky bounce from camera-back-left.
+Style: hyperreal commercial texture, Harris Savides New York-skyline palette, no CGI bloom, no plastic skin.
+Audio: distant city traffic hum, faint horn, Aira softly speaking the line "There's a version of this city only you and the rooftop ever see."
+Negative: no subtitles, no on-screen text, no morphing, no warping, no captions, no logos.
+
+---
+
+### FRAME 2 — IMAGE PROMPT
+
+9:16 aspect ratio, strictly photorealistic, ultra-realistic, 8k resolution, raw cinematic beauty-campaign aesthetic, hyperreal commercial texture, anti-illustration, anti-comic-book, anti-CGI, real-camera lens behavior, shallow depth of field.
+
+SPATIAL ANCHOR: subject in left-third, body torqued away camera-right with head turned back over right shoulder to lens, left forearm staying on glass railing, warm setting-sun from camera-right rims the cheekbone closer to lens, cool periwinkle sky bounce from camera-back-left fills back of neck, railing foreground frame-bottom, skyline deep background frame-right, coupe glass on railing frame-right foreground. Spatial layout is fixed. Frame is NOT mirrored. Rooftop terrace, view from behind-left. Glass railing in foreground, distant midtown skyline turning amber background, olive tree planter frame-left, blazer thrown over railing frame-right, coupe glass on railing.
+
+Subject is Aira, mid-twenties adult woman, confident editorial presence, natural cinematic skin texture with a clean warm specular highlight on the cheekbone closest to lens. Ivory silk camisole, high-waisted slate-grey wide-leg trousers. Long chocolate-brown waves with caramel mid-lengths, fanning 4cm on the over-shoulder turn. Glowing dusk-gold base, peach-mauve blush, warm-rose satin lip, softly defined brow, dewy finish. Thin gold layered necklaces, small gold huggie hoops, one slim gold cuff bracelet on right wrist. Polished bone-cream calfskin slingback pumps, sharp pointed toe, 8cm sculpted stiletto heel, leather sole with rubber toe-cap insert, hand-stitched seam running up the back of the heel cup with delicate elastic slingback strap. Product — coupe glass on railing frame-right foreground with etched starburst foot catching warm sun, blazer thrown over railing.
+
+L-arm: forearm staying flat on glass railing
+R-arm: relaxed at side
+L-leg: planted, weight-bearing
+R-leg: pivoted slightly back
+Feet: pumps planted on concrete pavers, one heel angled
+Waist: torqued away from camera-right
+Head: turned back over right shoulder to lens
+Gaze: direct lock to lens with warm soft confidence
+Expr: over-shoulder soft smile to lens, one cheekbone lifted with a half-closed-mouth warm smile
+
+Medium close-up, over-shoulder from camera-back-left, 85mm lens, left-third alignment, f/2.0, rack focus far-to-near from skyline to her face.
+
+### FRAME 2 — VEO VIDEO PROMPT
+
+Camera: rack focus 85mm far-to-near, shoulder height, shallow depth of field, eight-second held shot with focus pulling from skyline to her eyes.
+Subject: young woman, turning head over right shoulder to lens, head and torso, rotational backward, medium.
+Action and physics: chocolate-brown hair fans 4cm on the rotation and settles, blazer on railing lifts 1cm at the lapel in city breeze, camisole strap stays settled.
+Environment: distant building lights twinkle one in deep background.
+Lighting: warm sun rim from camera-right, cool periwinkle sky bounce from camera-back-left.
+Style: hyperreal commercial texture, Arri Alexa Mini LF skin science, no CGI bloom, no plastic skin.
+Audio: faint hair rustle, distant traffic, soft city breeze.
+Negative: no subtitles, no on-screen text, no morphing, no warping, no captions, no logos.
+
+---
+
+### FRAME 3 — IMAGE PROMPT
+
+9:16 aspect ratio, strictly photorealistic, ultra-realistic, 8k resolution, raw cinematic beauty-campaign aesthetic, hyperreal commercial texture, anti-illustration, anti-comic-book, anti-CGI, real-camera lens behavior, shallow depth of field.
+
+SPATIAL ANCHOR: subject in center-third, body angled directly toward camera, left palm pressed flat to chest above heart, warm setting-sun rim from camera-right, cool periwinkle sky bounce from camera-back-left, glass railing foreground frame-bottom, skyline deep background, coupe glass on railing frame-right foreground. Camera-side orientation is locked. Frame is NOT mirrored. Tight intimate macro on her face. Soft-focus glass railing in foreground, soft-focus distant skyline background, faint warm city haze, single specular along the cheekbone.
+
+Subject is Aira, mid-twenties adult woman, confident editorial presence, natural cinematic skin texture with a faint mist of breath on the upper lip exhale. Ivory silk camisole, high-waisted slate-grey wide-leg trousers. Long chocolate-brown waves, settled. Glowing dusk-gold base, peach-mauve blush, warm-rose satin lip, softly defined brow, dewy finish. Thin gold layered necklaces, small gold huggie hoops, one slim gold cuff bracelet on right wrist. Polished bone-cream calfskin slingback pumps, sharp pointed toe, 8cm sculpted stiletto heel, leather sole with rubber toe-cap insert, hand-stitched seam running up the back of the heel cup with delicate elastic slingback strap. Product — coupe glass on railing in soft focus frame-right, hand-on-chest is the contact beat.
+
+L-arm: bent, left palm pressed flat to chest above heart
+R-arm: relaxed at side
+L-leg: planted
+R-leg: planted
+Feet: out of frame
+Waist: square to camera
+Head: chin slightly lifted, eyes closed
+Gaze: closed eyes
+Expr: closed-eye exhale release, eyelids softly closed with a slow visible exhale at the lips
+
+Macro insert, frontal angle eye-level, 100mm macro lens, center-third alignment, f/2.0, locked-off macro.
+
+### FRAME 3 — VEO VIDEO PROMPT
+
+Camera: locked-off macro 100mm at eye-level, shallow depth of field, eight-second still-held shot with one micro-rack from breath-mist to her lips.
+Subject: young woman, exhaling with closed eyes and palm at chest, chest and lips, outward exhale, very slow.
+Action and physics: chest rises 2cm and falls, faint mist of breath visible at the lips, chocolate-brown hair stays settled.
+Environment: warm city haze drifts subtly behind her.
+Lighting: warm sun rim from camera-right, cool periwinkle sky bounce from camera-back-left.
+Style: hyperreal commercial texture, Harris Savides New York-skyline palette, no CGI bloom, no plastic skin.
+Audio: distant traffic, single soft long exhale, faint city breeze.
+Negative: no subtitles, no on-screen text, no morphing, no warping, no captions, no logos.
+
+---
+
+### FRAME 4 — IMAGE PROMPT
+
+9:16 aspect ratio, strictly photorealistic, ultra-realistic, 8k resolution, raw cinematic beauty-campaign aesthetic, hyperreal commercial texture, anti-illustration, anti-comic-book, anti-CGI, real-camera lens behavior, shallow depth of field.
+
+SPATIAL ANCHOR: subject in center-third, body now angled directly toward camera away from railing, right hand lifted softly outward in mid-gesture, warm setting-sun rim from camera-right, cool periwinkle sky bounce from camera-back-left, glass railing now behind her in foreground frame-bottom, skyline deep background frame-left, coupe glass on railing frame-right background. Composition is locked. Frame is NOT mirrored. Rooftop terrace, body now turned to camera. Concrete pavers foreground, glass railing behind her, distant skyline now turning deeper amber-purple background, olive tree planter frame-left, blazer on railing frame-right.
+
+Subject is Aira, mid-twenties adult woman, confident editorial presence, natural cinematic skin texture with warm dusk glow on both cheekbones. Ivory silk camisole, high-waisted slate-grey wide-leg trousers. Long chocolate-brown waves, lifted 3cm at the front in the city breeze, settled. Glowing dusk-gold base, peach-mauve blush, warm-rose satin lip, softly defined brow, dewy finish. Thin gold layered necklaces, small gold huggie hoops, one slim gold cuff bracelet on right wrist. Polished bone-cream calfskin slingback pumps, sharp pointed toe, 8cm sculpted stiletto heel, leather sole with rubber toe-cap insert, hand-stitched seam running up the back of the heel cup with delicate elastic slingback strap. Product — coupe glass on railing in deep background frame-right, gesture-in-air is the contact beat.
+
+L-arm: relaxed at side
+R-arm: lifted softly outward at chest height in mid-gesture, palm open
+L-leg: planted, weight-bearing
+R-leg: planted, slight forward stance
+Feet: pumps planted on pavers, partially visible
+Waist: square to camera
+Head: tilted forward two degrees
+Gaze: direct lock to lens mid-sentence
+Expr: mid-sentence open-mouth talking, lips parted mid-line and one cheekbone lifted in warm conviction
+
+Medium close-up, three-quarter angle from camera-left at chest-height, 50mm lens, center-third alignment, f/2.5, half-arc orbit.
+
+### FRAME 4 — VEO VIDEO PROMPT
+
+Camera: half-arc orbit 50mm at chest-height, shallow depth of field, eight-second smooth orbit from camera-left around to a frontal three-quarter.
+Subject: young woman, speaking line two with right hand in mid-gesture, right hand and lips, forward and outward, slow.
+Action and physics: right hand opens and closes 2cm in shaped speech, chocolate-brown hair lifts 3cm at the front and falls, camisole strap stays settled.
+Environment: distant skyline deepens one stop in color as the sun sets a fraction.
+Lighting: warm sun rim from camera-right, cool periwinkle sky bounce from camera-back-left.
+Style: hyperreal commercial texture, Harris Savides New York-skyline palette, no CGI bloom, no plastic skin.
+Audio: distant traffic, faint city breeze, Aira speaking the line "Some days I think it's the only honest version we have."
+Negative: no subtitles, no on-screen text, no morphing, no warping, no captions, no logos.
+
+---
+
+### FRAME 5 — IMAGE PROMPT
+
+9:16 aspect ratio, strictly photorealistic, ultra-realistic, 8k resolution, raw cinematic beauty-campaign aesthetic, hyperreal commercial texture, anti-illustration, anti-comic-book, anti-CGI, real-camera lens behavior, shallow depth of field.
+
+SPATIAL ANCHOR: subject in center-third, body angled three-quarter toward camera-right at railing again, right hand cradling crystal coupe glass at lips, warm setting-sun rim from camera-right, cool periwinkle sky bounce from camera-back-left, glass railing foreground frame-bottom, coupe rim at her lips center-frame, skyline deep background, blazer on railing frame-left foreground. Spatial layout is fixed. Frame is NOT mirrored. Tight on the coupe-sip beat. Hand-blown crystal coupe glass with finely etched starburst pattern visible at the foot, soft-focus skyline background, single warm city-light bokeh refracted through the crystal, faint dusk haze.
+
+Subject is Aira, mid-twenties adult woman, confident editorial presence, natural cinematic skin texture with a crystal-refracted warm bokeh dancing across the cheekbone. Ivory silk camisole, high-waisted slate-grey wide-leg trousers. Long chocolate-brown waves, settled, a few strands tucked behind right ear. Glowing dusk-gold base, peach-mauve blush, warm-rose satin lip, softly defined brow, dewy finish. Thin gold layered necklaces, small gold huggie hoops, one slim gold cuff bracelet on right wrist. Polished bone-cream calfskin slingback pumps, sharp pointed toe, 8cm sculpted stiletto heel, leather sole with rubber toe-cap insert, hand-stitched seam running up the back of the heel cup with delicate elastic slingback strap. Product — crystal coupe glass cradled in right hand at lips, etched starburst foot catching warm city light, eyes soft-closed.
+
+L-arm: forearm resting on glass railing
+R-arm: forward, right hand cradling coupe glass at lower lip
+L-leg: planted
+R-leg: planted, slight back-lean
+Feet: out of frame
+Waist: leaning forward two degrees
+Head: tilted forward four degrees toward glass
+Gaze: closed eyes
+Expr: closed-eye sip warmth, eyelids softly closed and the corner of the mouth lifted into the crystal rim
+
+Medium close-up, three-quarter angle from camera-left at chest-height, 50mm lens, center-third alignment, f/2.5, dolly right.
+
+### FRAME 5 — VEO VIDEO PROMPT
+
+Camera: dolly right 50mm at chest-height, shallow depth of field, eight-second smooth lateral slide camera-right around the railing.
+Subject: young woman, lifting coupe glass to lower lip, right hand, upward then settling, slow.
+Action and physics: liquid in coupe glass swirls 1cm with the lift, etched starburst foot catches a rolling warm city-light specular, one chocolate-brown strand at the temple lifts a fraction.
+Environment: a single distant building light flickers on in deep background.
+Lighting: warm sun rim from camera-right, cool periwinkle sky bounce from camera-back-left.
+Style: hyperreal commercial texture, Arri Alexa Mini LF skin science, no CGI bloom, no plastic skin.
+Audio: faint crystal-on-lip, soft sip, distant traffic.
+Negative: no subtitles, no on-screen text, no morphing, no warping, no captions, no logos.
+
+---
+
+### FRAME 6 — IMAGE PROMPT
+
+9:16 aspect ratio, strictly photorealistic, ultra-realistic, 8k resolution, raw cinematic beauty-campaign aesthetic, hyperreal commercial texture, anti-illustration, anti-comic-book, anti-CGI, real-camera lens behavior, shallow depth of field.
+
+SPATIAL ANCHOR: subject in center-third at mid-distance, body angled away from camera walking toward terrace edge stairs, head turned back over right shoulder to lens in farewell, warm setting-sun rim from camera-right rakes the concrete pavers, cool periwinkle sky bounce from camera-back-left fills the back wall, coupe glass left on railing foreground frame-right, skyline deep background, olive tree planter frame-left foreground. Camera-side orientation is locked. Frame is NOT mirrored. Wider rooftop reveal at dusk peak. Concrete pavers foreground with hard rim of warm sun along each crack, glass railing behind her with coupe glass and blazer still draped, distant skyline now in soft-focus deep amber-purple, olive tree silhouette frame-left, faint warm city haze.
+
+Subject is Aira, mid-twenties adult woman, confident editorial presence, natural cinematic skin texture with golden-amber rim across the cheekbone closest to lens. Ivory silk camisole, high-waisted slate-grey wide-leg trousers. Long chocolate-brown waves, trailing 5cm in walking drift. Glowing dusk-gold base, peach-mauve blush, warm-rose satin lip, softly defined brow, dewy finish. Thin gold layered necklaces, small gold huggie hoops, one slim gold cuff bracelet on right wrist. Polished bone-cream calfskin slingback pumps, sharp pointed toe, 8cm sculpted stiletto heel, leather sole with rubber toe-cap insert, hand-stitched seam running up the back of the heel cup with delicate elastic slingback strap. Product — coupe glass left on railing in deep foreground frame-right, blazer still on railing.
+
+L-arm: bent, left hand lifted in soft farewell wave at shoulder height
+R-arm: relaxed at side
+L-leg: mid-stride lifted
+R-leg: planted on concrete paver
+Feet: one pump mid-step lifted, one planted on paver
+Waist: torqued back over right shoulder
+Head: turned back over right shoulder to lens
+Gaze: direct lock to lens, warm farewell
+Expr: final glance-back warm seal, eyes warm-creased and a closed-mouth smile pressing both cheekbones up
+
+Medium-wide, low-angle from concrete level behind her, 35mm lens, center-third alignment, f/2.8, slow pull-out.
+
+### FRAME 6 — VEO VIDEO PROMPT
+
+Camera: slow pull-out 35mm at low concrete height, shallow depth of field, eight-second backward tracking pull as she walks toward terrace edge.
+Subject: young woman, walking away while turning head back to camera, head and torso, rotational backward, medium.
+Action and physics: trousers crease 2cm with each step, chocolate-brown hair trails 5cm behind the head turn, raised hand opens fingers in soft farewell.
+Environment: setting-sun lowers a fraction in deep background as one more building light flickers on.
+Lighting: warm sun rim from camera-right, cool periwinkle sky bounce from camera-back-left.
+Style: hyperreal commercial texture, raw cinematic 8k, Harris Savides New York-skyline palette, no CGI bloom, no plastic skin.
+Audio: distant traffic hum, single distant horn, Aira softly speaking the line "And some days, that's the one I keep."
+Negative: no subtitles, no on-screen text, no morphing, no warping, no captions, no logos.
+
+---
+
+
+
+## CONCEPT 09 — AMALFI SAILBOAT AFTERNOON (TRAVEL / SEA / ADVENTURE)
+
+**20-WORD REEL SUMMARY:** Aira sails the Amalfi coast on a wooden ketch, trails fingers in sea, laughs in spray, waves goodbye.
+
+**WORLD / THEME:** Vintage hand-built wooden ketch under sail, Amalfi coastline cliffs in deep background, mid-afternoon sun on Tyrrhenian Sea.
+
+**HERO PRODUCT:** Hand-rolled brimmed sun hat in natural straw with grosgrain ivory band. Supporting: a folded vintage map of the Amalfi coast in cream-aged paper.
+
+**ENVIRONMENT IDENTITY:** Vintage wooden ketch deck with hand-oiled teak planks, foreground brass cleat with coiled hemp rope, mid-frame canvas mainsail catching afternoon sun, soft-focus Amalfi cliffs with terraced lemon groves deep background, Tyrrhenian Sea spray rising in fine particulate, single weathered wooden helm visible mid-frame.
+
+**LIGHTING MOOD:** Warm afternoon Mediterranean sun (camera-front-right, 45-degree angle, 3000K, hard) + cool sea-water bounce from camera-back-left (soft, 6500K).
+
+**HOOK DISTRIBUTION:** F1 hat-pull-down direct lens hook. F3 fingertips-trailing-sea macro. F5 head-back wind-laugh peak. F6 hair-flip sovereign smirk. F7 final glance-back warm seal at the helm.
+
+**SUBJECT ENERGY PROFILE:** Sun-warmed, salt-air sovereign, playful, free.
+
+**MOTION CONTINUITY LOGIC:** Holds straw hat brim direct to lens at bow → unfolds vintage map on teak deck → leans over starboard rail trailing fingertips in sea → returns to deck holding hat to chest as wind rises → throws head back in wind-laugh open-mouth → flips hair across in sovereign smirk → final glance-back warm seal at the helm with sun-flare beside her.
+
+**CAMERA LANGUAGE PLAN:** F1 slow push-in 85mm. F2 high-angle pedestal drop 50mm. F3 macro insert 100mm. F4 dolly left 50mm. F5 low-angle pedestal rise 50mm. F6 half-arc orbit 35mm. F7 slow pull-out 35mm.
+
+**EXPRESSION CHOREOGRAPHY:** F1 sunglasses-pull-down direct lens (here: hat-brim-pull-down direct lens). F2 reverent product gaze. F3 closed-eye sensory delight. F4 quiet drifting calm. F5 head-back wind-laugh open mouth. F6 hair-flip sovereign smirk. F7 over-shoulder warm seal.
+
+**BODY LANGUAGE PLAN:** F1 right hand pulling hat brim down at the eye-line. F2 both hands flattening map on teak deck. F3 right fingertips trailing in sea over starboard rail. F4 right hand pressing hat to chest holding it from wind. F5 head thrown back, both arms lifted outward at shoulder height. F6 right hand sweeping hair across to camera-right. F7 left hand resting on weathered wooden helm.
+
+**HAIR PHYSICS NOTES:** Long warm caramel-blonde with sea-salt waves, individual strand separation, slight visible salt-stiffness. Lift heights: F3 4cm forward fall on the lean, F5 14cm at peak laugh, F6 9cm on hair-flip, F7 5cm trailing in walk-toward-helm.
+
+**FABRIC MOTION NOTES:** Outfit — ivory linen oversized button-down shirt knotted at waist, slim natural-cream linen trousers rolled at the ankle, no scarf, no belt. Shirt hem flutters 5cm in F1 entry, sleeves whip 6cm in F5 wind, shirt back-vent flutters 4cm in F7 walk.
+
+**LIGHTING PHYSICS NOTES:** Warm sun lays a clean rim along the camera-right cheekbone, hat brim, and teak deck in every frame. Cool sea-water bounce fills the underjaw and the linen shirt with soft cyan-blue. Sea-spray particulate suspends in the warm sun beam in F3 and F5.
+
+**BEAUTY PRODUCT INTERACTION PLAN:** F1 hat in hand at brim, pulled down to eye-line. F2 hat resting beside her on teak deck, map in both hands. F3 hat on deck, fingertips in sea is the contact. F4 hat pressed to chest in right hand against wind. F5 hat lifted in right hand high overhead in laugh. F6 hat back on head, hair-flip beat. F7 hat on head with one hand on brim as she stands at helm.
+
+**VIEWER ENGAGEMENT MOMENTS:** F1 hat-pull-down direct lens. F5 head-back wind-laugh peak open-mouth (eyes momentarily lock to lens before closing). F7 final glance-back warm seal direct to lens.
+
+**ANTI-ILLUSTRATION SAFEGUARDS:** Real teak grain detail, real straw hat weave variation, real sea-spray micro-droplet suspension, real linen weave on shirt, real salt-stiffness in hair tips.
+
+**HYPERREAL COMMERCIAL TEXTURE LANGUAGE:** Roger Deakins golden-hour fidelity, raw cinematic 8k, Arri Alexa LF skin science, Mediterranean color palette warm-cool split, no CGI bloom, no plastic skin.
+
+**FOOTWEAR STRING:** Soft-finished caramel suede deck-shoe loafers, rounded almond toe, 1cm flat rubber sole, hand-stitched leather welt with white contrast stitching, two-eyelet rawhide lacing detail across the vamp.
+
+---
+
+### FRAME 1 — IMAGE PROMPT
+
+9:16 aspect ratio, strictly photorealistic, ultra-realistic, 8k resolution, raw cinematic beauty-campaign aesthetic, hyperreal commercial texture, anti-illustration, anti-comic-book, anti-CGI, real-camera lens behavior, shallow depth of field.
+
+SPATIAL ANCHOR: subject in center-third of frame, body angled directly toward camera at the bow, right hand pulling straw hat brim down to eye-line, dominant warm afternoon sun from camera-front-right, cool sea-water bounce from camera-back-left, teak deck planks foreground frame-bottom, brass cleat with coiled hemp rope frame-left foreground, canvas mainsail mid-frame background frame-right, Amalfi cliffs deep background. Composition is locked. Frame is NOT mirrored. Vintage wooden ketch at sail. Hand-oiled teak deck planks in foreground with subtle salt-stain pattern, brass cleat with coiled hemp rope frame-left foreground, canvas mainsail catching warm afternoon sun mid-frame frame-right, soft-focus Amalfi cliffs with terraced lemon groves deep background, Tyrrhenian Sea spray rising fine in negative space.
+
+Subject is Aira, mid-twenties adult woman, confident editorial presence, natural cinematic skin texture with sun-kissed cheekbone glow. Ivory linen oversized button-down shirt knotted at waist, slim natural-cream linen trousers rolled at the ankle. Long warm caramel-blonde with sea-salt waves, individual strand separation, settled across right shoulder. Glowing sun-warmed base, peach-bronze blush, warm coral satin lip, softly defined brow with golden tone, dewy finish. Thin gold layered necklaces, small gold hoops, one slim gold cuff bracelet on right wrist. Soft-finished caramel suede deck-shoe loafers, rounded almond toe, 1cm flat rubber sole, hand-stitched leather welt with white contrast stitching, two-eyelet rawhide lacing detail across the vamp. Product — hand-rolled brimmed straw sun hat with grosgrain ivory band, right hand pulling hat brim down to eye-line revealing eyes beneath.
+
+L-arm: relaxed at side
+R-arm: lifted, right fingers gripping hat brim pulling it down to eye-line
+L-leg: planted, weight-bearing on teak
+R-leg: planted, slight forward stance
+Feet: deck loafers planted on teak planks
+Waist: square to camera, slight forward lean
+Head: tilted forward two degrees
+Gaze: direct lock to lens beneath the lowered hat brim
+Expr: head-tilt knowing smirk, eyes locked beneath the brim and a closed-mouth knowing curve at the lip corner
+
+Medium close-up, frontal angle eye-level, 85mm lens, center-third alignment, f/2.0, slow push-in.
+
+### FRAME 1 — VEO VIDEO PROMPT
+
+Camera: slow push-in 85mm at eye-level, shallow depth of field, eight-second slow forward push.
+Subject: young woman, pulling straw hat brim down to eye-line, right hand, downward at brim, slow.
+Action and physics: linen shirt hem flutters 5cm in sea breeze, caramel-blonde hair lifts 2cm at the temple, hat brim shifts 1cm down past the eyebrow.
+Environment: canvas mainsail breathes 3cm in the wind in mid-frame.
+Lighting: warm afternoon sun from camera-front-right, cool sea-water bounce from camera-back-left.
+Style: hyperreal commercial texture, Roger Deakins golden-hour fidelity, no CGI bloom, no plastic skin.
+Audio: distant gull cries, soft hull-water lap, faint canvas flutter.
+Negative: no subtitles, no on-screen text, no morphing, no warping, no captions, no logos.
+
+---
+
+### FRAME 2 — IMAGE PROMPT
+
+9:16 aspect ratio, strictly photorealistic, ultra-realistic, 8k resolution, raw cinematic beauty-campaign aesthetic, hyperreal commercial texture, anti-illustration, anti-comic-book, anti-CGI, real-camera lens behavior, shallow depth of field.
+
+SPATIAL ANCHOR: subject in center-third sitting cross-legged on teak deck, body angled directly down toward map between her hands, both hands flattening vintage map, hat resting on deck beside her right thigh, warm afternoon sun from camera-front-right, cool sea-water bounce from camera-back-left, map foreground frame-bottom centered, teak planks frame-left and frame-right, mainsail mid-frame background. Spatial layout is fixed. Frame is NOT mirrored. High-angle view of the map moment. Vintage cream-aged map of Amalfi coast spread across teak deck in foreground with hand-drawn ink coastlines visible, brass cleat frame-left foreground, hat beside her right thigh frame-right foreground, mainsail soft-focus background.
+
+Subject is Aira, mid-twenties adult woman, confident editorial presence, natural cinematic skin texture with sun-warmed flush across cheekbones. Ivory linen oversized button-down shirt knotted at waist, slim natural-cream linen trousers rolled at the ankle. Long warm caramel-blonde with sea-salt waves, falling forward 4cm past collarbone as she leans down. Glowing sun-warmed base, peach-bronze blush, warm coral satin lip, softly defined brow, dewy finish. Thin gold layered necklaces, small gold hoops, one slim gold cuff bracelet on right wrist. Soft-finished caramel suede deck-shoe loafers, rounded almond toe, 1cm flat rubber sole, hand-stitched leather welt with white contrast stitching, two-eyelet rawhide lacing detail across the vamp. Product — straw hat resting on deck beside her right thigh, both hands flattening the vintage map.
+
+L-arm: extended forward, left palm flattening map left edge
+R-arm: extended forward, right palm flattening map right edge
+L-leg: crossed under right thigh on deck
+R-leg: crossed over left thigh on deck
+Feet: deck loafers tucked beneath, partially visible
+Waist: leaning forward six degrees over map
+Head: tilted down five degrees toward map
+Gaze: down on map ink lines with reverent attention
+Expr: reverent product gaze, eyes soft-focused on the map and a slight upward curve forming at one lip corner
+
+Medium-wide, high-angle from camera-front-above at 50-degree tilt, 50mm lens, center-third alignment, f/2.5, high-angle pedestal drop.
+
+### FRAME 2 — VEO VIDEO PROMPT
+
+Camera: high-angle pedestal drop 50mm, shallow depth of field, eight-second slow vertical descent from chest-height to over-the-map.
+Subject: young woman, flattening vintage map on teak deck, both hands, downward press, slow.
+Action and physics: cream-aged map edges curl 2mm in sea breeze, caramel-blonde hair falls 4cm forward past collarbone, single sea-spray droplet lands on the map corner.
+Environment: canvas mainsail above breathes once in the wind.
+Lighting: warm afternoon sun from camera-front-right, cool sea-water bounce from camera-back-left.
+Style: hyperreal commercial texture, Arri Alexa LF skin science, no CGI bloom, no plastic skin.
+Audio: faint paper-on-teak rustle, distant gulls, soft hull lap.
+Negative: no subtitles, no on-screen text, no morphing, no warping, no captions, no logos.
+
+---
+
+### FRAME 3 — IMAGE PROMPT
+
+9:16 aspect ratio, strictly photorealistic, ultra-realistic, 8k resolution, raw cinematic beauty-campaign aesthetic, hyperreal commercial texture, anti-illustration, anti-comic-book, anti-CGI, real-camera lens behavior, shallow depth of field.
+
+SPATIAL ANCHOR: subject in left-third leaning over starboard rail, body angled toward camera-right, right fingertips trailing in sea water, warm afternoon sun from camera-front-right, cool sea-water bounce from camera-back-left, sea surface foreground frame-bottom-right with fingertip wake, wooden hull rail mid-frame, teak deck frame-left, sea-spray particulate suspended. Camera-side orientation is locked. Frame is NOT mirrored. Tight macro on fingertips-in-sea beat. Tyrrhenian Sea surface in foreground with her fingertip drawing a 30cm wake line, soft-focus wooden hull rail mid-frame, salt-spray particulate visible suspended in warm sun, Amalfi cliffs in deep background soft-focus.
+
+Subject is Aira, mid-twenties adult woman, confident editorial presence, natural cinematic skin texture with cool sea-bounce light wrapping the camera-back-left jaw. Ivory linen oversized button-down shirt knotted at waist, slim natural-cream linen trousers rolled at the ankle. Long warm caramel-blonde, falling forward past collarbone as she leans. Glowing sun-warmed base, peach-bronze blush, warm coral satin lip, softly defined brow, dewy finish. Thin gold layered necklaces, small gold hoops, one slim gold cuff bracelet on right wrist. Soft-finished caramel suede deck-shoe loafers, rounded almond toe, 1cm flat rubber sole, hand-stitched leather welt with white contrast stitching, two-eyelet rawhide lacing detail across the vamp. Product — hat resting on deck out of frame, fingertips-in-sea is the contact beat.
+
+L-arm: bent, left palm gripping wooden hull rail
+R-arm: extended downward, right fingertips trailing in sea surface
+L-leg: planted, weight-bearing
+R-leg: planted, slight back-lean
+Feet: deck loafers planted on teak, out of frame
+Waist: leaning forward six degrees over the rail
+Head: tilted down ten degrees toward sea surface
+Gaze: closed eyes, soft sensory focus on the cool water
+Expr: closed-eye sensory delight, eyelids softly closed and a barely-curved closed-mouth smile
+
+Macro insert, three-quarter angle from camera-right at rail-height, 100mm macro lens, left-third alignment, f/2.8, locked-off macro.
+
+### FRAME 3 — VEO VIDEO PROMPT
+
+Camera: locked-off macro 100mm at rail-height, shallow depth of field, eight-second still-held shot with one micro-rack from fingertip wake to her face.
+Subject: young woman, trailing right fingertips in sea water, right fingertips, downward and trailing forward, slow.
+Action and physics: fingertip wake draws a 30cm trailing line through the sea surface, caramel-blonde hair falls 4cm forward, fine sea-spray particulate suspends 6cm above the water.
+Environment: hull cuts forward through sea at constant speed.
+Lighting: warm afternoon sun from camera-front-right, cool sea-water bounce from camera-back-left.
+Style: hyperreal commercial texture, Roger Deakins golden-hour fidelity, no CGI bloom, no plastic skin.
+Audio: soft hull-water rush, faint sea-spray hiss, distant gulls.
+Negative: no subtitles, no on-screen text, no morphing, no warping, no captions, no logos.
+
+---
+
+### FRAME 4 — IMAGE PROMPT
+
+9:16 aspect ratio, strictly photorealistic, ultra-realistic, 8k resolution, raw cinematic beauty-campaign aesthetic, hyperreal commercial texture, anti-illustration, anti-comic-book, anti-CGI, real-camera lens behavior, shallow depth of field.
+
+SPATIAL ANCHOR: subject in center-third standing on deck again, body angled three-quarter to camera-left, right hand pressing hat to chest holding it against the rising wind, warm afternoon sun from camera-front-right, cool sea-water bounce from camera-back-left, teak deck foreground, mainsail mid-frame background frame-right, Amalfi cliffs deep background, brass cleat frame-left foreground. Composition is locked. Frame is NOT mirrored. Deck view, wind rising. Hand-oiled teak planks foreground, brass cleat with coiled hemp rope frame-left foreground, canvas mainsail visibly more curved with stronger wind frame-right background, soft-focus Amalfi cliffs deep background, sea-spray particulate suspended in negative space.
+
+Subject is Aira, mid-twenties adult woman, confident editorial presence, natural cinematic skin texture with windswept warm flush across cheekbones. Ivory linen oversized button-down shirt knotted at waist, slim natural-cream linen trousers rolled at the ankle. Long warm caramel-blonde, lifted 6cm at the temple in the rising wind. Glowing sun-warmed base, peach-bronze blush, warm coral satin lip, softly defined brow, dewy finish. Thin gold layered necklaces, small gold hoops, one slim gold cuff bracelet on right wrist. Soft-finished caramel suede deck-shoe loafers, rounded almond toe, 1cm flat rubber sole, hand-stitched leather welt with white contrast stitching, two-eyelet rawhide lacing detail across the vamp. Product — straw sun hat held flat against her chest in right hand to keep it from blowing away.
+
+L-arm: relaxed at side
+R-arm: bent, right hand pressing hat flat to chest
+L-leg: planted, weight-bearing
+R-leg: planted, slight back-lean
+Feet: deck loafers planted on teak
+Waist: square to camera-left, slight back-arch in wind
+Head: tilted four degrees toward camera, eyes drifting on horizon
+Gaze: drifting on Amalfi horizon line, softly downward
+Expr: quiet drifting calm, lips closed in a soft neutral curve and a slow warm blink
+
+Medium close-up, three-quarter angle from camera-left at chest-height, 50mm lens, center-third alignment, f/2.5, dolly left.
+
+### FRAME 4 — VEO VIDEO PROMPT
+
+Camera: dolly left 50mm at chest-height, shallow depth of field, eight-second smooth lateral slide camera-left.
+Subject: young woman, pressing hat to chest against wind, right hand, inward to chest, slow.
+Action and physics: caramel-blonde hair lifts 6cm at the temple in rising sea-wind, linen shirt sleeves whip 4cm trailing camera-back, canvas mainsail above breathes 6cm in stronger wind.
+Environment: a single sea-spray droplet hits her cheekbone closest to camera-right.
+Lighting: warm afternoon sun from camera-front-right, cool sea-water bounce from camera-back-left.
+Style: hyperreal commercial texture, raw cinematic 8k, Mediterranean palette, no CGI bloom, no plastic skin.
+Audio: faint canvas flutter, sea-spray hiss, distant gulls.
+Negative: no subtitles, no on-screen text, no morphing, no warping, no captions, no logos.
+
+---
+
+### FRAME 5 — IMAGE PROMPT
+
+9:16 aspect ratio, strictly photorealistic, ultra-realistic, 8k resolution, raw cinematic beauty-campaign aesthetic, hyperreal commercial texture, anti-illustration, anti-comic-book, anti-CGI, real-camera lens behavior, shallow depth of field.
+
+SPATIAL ANCHOR: subject in center-third, head thrown back in wind-laugh, both arms lifted outward at shoulder height with hat held in right hand high overhead, warm afternoon sun from camera-front-right, cool sea-water bounce from camera-back-left, teak deck foreground frame-bottom, mainsail mid-frame background, Amalfi cliffs deep background. Spatial layout is fixed. Frame is NOT mirrored. Low-angle view at peak laugh. Hand-oiled teak planks foreground, brass cleat frame-left foreground, full canvas mainsail mid-frame frame-right billowing in wind, soft-focus Amalfi cliffs deep background, sea-spray particulate visible.
+
+Subject is Aira, mid-twenties adult woman, confident editorial presence, natural cinematic skin texture with sun-warmed laugh-flush across both cheekbones. Ivory linen oversized button-down shirt knotted at waist, slim natural-cream linen trousers rolled at the ankle. Long warm caramel-blonde, lifted 14cm at peak laugh, fanning camera-back-left in the wind. Glowing sun-warmed base, peach-bronze blush deepened, warm coral satin lip, softly defined brow, dewy finish. Thin gold layered necklaces, small gold hoops, one slim gold cuff bracelet on right wrist. Soft-finished caramel suede deck-shoe loafers, rounded almond toe, 1cm flat rubber sole, hand-stitched leather welt with white contrast stitching, two-eyelet rawhide lacing detail across the vamp. Product — straw sun hat held high overhead in right hand, brim flexing in the wind.
+
+L-arm: lifted outward at shoulder height, palm open
+R-arm: lifted high overhead, right hand gripping hat brim
+L-leg: planted, weight-bearing
+R-leg: planted, slight back-lean
+Feet: deck loafers planted on teak
+Waist: torqued slightly back in laugh
+Head: thrown back, chin lifted to sky
+Gaze: closed eyes mid-laugh, eyes flick open momentarily to lens then close
+Expr: head-back wind-laugh open mouth, mouth fully open in an unguarded laugh and eyes squeezed warm
+
+Low-angle, 45-degree from camera-front-low at deck-level, 50mm lens, center-third alignment, f/2.0, low-angle pedestal rise.
+
+### FRAME 5 — VEO VIDEO PROMPT
+
+Camera: low-angle pedestal rise 50mm, shallow depth of field, eight-second smooth vertical lift from deck-height to chest-height.
+Subject: young woman, throwing head back in wind-laugh with hat held overhead, head and both arms, backward and upward, medium.
+Action and physics: caramel-blonde hair lifts 14cm at peak and fans camera-back-left in cascade, linen shirt sleeves whip 6cm trailing the wind, hat brim flexes 3cm in her grip.
+Environment: full mainsail above billows 8cm with strong wind catch.
+Lighting: warm afternoon sun from camera-front-right, cool sea-water bounce from camera-back-left.
+Style: hyperreal commercial texture, Roger Deakins golden-hour fidelity, Mediterranean palette, no CGI bloom, no plastic skin.
+Audio: warm full sea-wind laugh, canvas snap, distant gulls.
+Negative: no subtitles, no on-screen text, no morphing, no warping, no captions, no logos.
+
+---
+
+### FRAME 6 — IMAGE PROMPT
+
+9:16 aspect ratio, strictly photorealistic, ultra-realistic, 8k resolution, raw cinematic beauty-campaign aesthetic, hyperreal commercial texture, anti-illustration, anti-comic-book, anti-CGI, real-camera lens behavior, shallow depth of field.
+
+SPATIAL ANCHOR: subject in center-third, body angled three-quarter to camera-right, right hand sweeping hair across to camera-right with hat now back on her head, warm afternoon sun from camera-front-right rims the sweeping hair, cool sea-water bounce from camera-back-left, teak deck foreground, weathered wooden helm mid-frame frame-right, mainsail background, Amalfi cliffs deep background. Camera-side orientation is locked. Frame is NOT mirrored. Deck mid-section, hair-flip beat. Hand-oiled teak planks foreground, weathered wooden ship's helm visible mid-frame frame-right, brass cleat frame-left foreground, mainsail soft-focus background, sea-spray particulate.
+
+Subject is Aira, mid-twenties adult woman, confident editorial presence, natural cinematic skin texture with windswept laugh-flush holding. Ivory linen oversized button-down shirt knotted at waist, slim natural-cream linen trousers rolled at the ankle. Long warm caramel-blonde, sweeping 9cm across to camera-right in mid-flip. Glowing sun-warmed base, peach-bronze blush, warm coral satin lip, softly defined brow, dewy finish. Thin gold layered necklaces, small gold hoops, one slim gold cuff bracelet on right wrist. Soft-finished caramel suede deck-shoe loafers, rounded almond toe, 1cm flat rubber sole, hand-stitched leather welt with white contrast stitching, two-eyelet rawhide lacing detail across the vamp. Product — straw sun hat back on her head, right hand mid-sweep through hair under the brim.
+
+L-arm: relaxed at side
+R-arm: lifted across body, sweeping hair to camera-right under hat brim
+L-leg: planted
+R-leg: planted, slight pivot
+Feet: deck loafers planted on teak
+Waist: torqued slightly camera-right
+Head: tilted toward camera-left, chin slightly down
+Gaze: side-eye toward lens
+Expr: hair-flip sovereign smirk, one corner of the lip lifted in a half-knowing smile and one eyebrow a fraction higher
+
+Medium close-up, three-quarter angle from camera-right at chest-height, 35mm lens, center-third alignment, f/2.5, half-arc orbit.
+
+### FRAME 6 — VEO VIDEO PROMPT
+
+Camera: half-arc orbit 35mm at chest-height, shallow depth of field, eight-second smooth orbit from camera-right around to a frontal three-quarter.
+Subject: young woman, sweeping hair across to camera-right, right hand and head, sideways, medium.
+Action and physics: caramel-blonde hair fans 9cm in the sweep direction beneath the hat brim, linen shirt sleeve flutters 3cm camera-right, hat brim tilts 1cm camera-right with the head.
+Environment: a single sea-spray droplet drifts past frame-left.
+Lighting: warm afternoon sun from camera-front-right, cool sea-water bounce from camera-back-left.
+Style: hyperreal commercial texture, Arri Alexa LF skin science, no CGI bloom, no plastic skin.
+Audio: faint hair-sweep, canvas flutter, distant gulls.
+Negative: no subtitles, no on-screen text, no morphing, no warping, no captions, no logos.
+
+---
+
+### FRAME 7 — IMAGE PROMPT
+
+9:16 aspect ratio, strictly photorealistic, ultra-realistic, 8k resolution, raw cinematic beauty-campaign aesthetic, hyperreal commercial texture, anti-illustration, anti-comic-book, anti-CGI, real-camera lens behavior, shallow depth of field.
+
+SPATIAL ANCHOR: subject in center-third at the weathered wooden helm, body angled three-quarter away from camera with head turned back over right shoulder to lens, left hand resting on weathered wooden helm spokes, right hand on hat brim, warm afternoon sun from camera-front-right with sun-flare beside her, cool sea-water bounce from camera-back-left, teak deck foreground, helm mid-frame frame-left, mainsail mid-frame frame-right background, Amalfi cliffs deep background. Composition is locked. Frame is NOT mirrored. Wide reveal at the helm. Hand-oiled teak planks foreground, weathered wooden ship's helm with eight spokes visible frame-left mid-frame, full mainsail catching wind frame-right background, soft-focus Amalfi cliffs with terraced lemon groves deep background, single warm sun-flare beside her camera-right.
+
+Subject is Aira, mid-twenties adult woman, confident editorial presence, natural cinematic skin texture with golden-amber rim across the cheekbone closest to lens. Ivory linen oversized button-down shirt knotted at waist, slim natural-cream linen trousers rolled at the ankle. Long warm caramel-blonde, trailing 5cm in walk-toward-helm wind. Glowing sun-warmed base, peach-bronze blush, warm coral satin lip, softly defined brow, dewy finish. Thin gold layered necklaces, small gold hoops, one slim gold cuff bracelet on right wrist. Soft-finished caramel suede deck-shoe loafers, rounded almond toe, 1cm flat rubber sole, hand-stitched leather welt with white contrast stitching, two-eyelet rawhide lacing detail across the vamp. Product — straw sun hat on her head, right hand on brim, weathered helm in left hand grip.
+
+L-arm: extended forward, left hand gripping weathered wooden helm spoke
+R-arm: bent, right hand on hat brim
+L-leg: planted, weight-bearing
+R-leg: planted, slight back-lean at helm
+Feet: deck loafers planted on teak
+Waist: torqued back over right shoulder
+Head: turned back over right shoulder to lens
+Gaze: direct lock to lens, warm farewell with confident eye-creased smile
+Expr: over-shoulder warm seal, eyes warm-creased and a closed-mouth smile pressing both cheekbones up
+
+Medium-wide, low-angle from teak level behind her, 35mm lens, center-third alignment, f/2.8, slow pull-out.
+
+### FRAME 7 — VEO VIDEO PROMPT
+
+Camera: slow pull-out 35mm at low teak height, shallow depth of field, eight-second backward tracking pull as she stands at the helm.
+Subject: young woman, holding helm and turning head back to lens, head and torso, rotational backward, medium.
+Action and physics: caramel-blonde hair trails 5cm behind the head turn, linen shirt back-vent flutters 4cm in wind, hat brim flexes 2cm in the wind catch, helm spoke grain visibly catches warm sun-rim.
+Environment: full mainsail above catches wind and full hull cuts forward through sea, single sun-flare beside her.
+Lighting: warm afternoon sun from camera-front-right with sun-flare, cool sea-water bounce from camera-back-left.
+Style: hyperreal commercial texture, raw cinematic 8k, Roger Deakins golden-hour fidelity, Mediterranean palette, no CGI bloom, no plastic skin.
+Audio: full canvas snap, sea-water rush at hull, distant gulls, warm wind ambience.
+Negative: no subtitles, no on-screen text, no morphing, no warping, no captions, no logos.
+
+---
