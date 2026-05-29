@@ -1558,3 +1558,763 @@ Updates create v3.1, v3.2, etc. Failures log per Part W.
 
 VERSION: 3.0
 STATUS: LOCKED — CANONICAL
+
+
+---
+
+## PART Q.EXTENDED — GRWM COMPLETE SPECIFICATION (BIT-BY-BIT)
+
+This section expands Part Q with every detail required to execute GRWM at production-grade. Read together with Part Q for full coverage. Nothing in this section is optional for GRWM reels.
+
+### Q.EXT.1 — WHAT GRWM IS AND IS NOT
+
+GRWM IS:
+- A NARRATIVE FORMAT — every reel tells a story while a routine is happening underneath
+- A REAL-TIME INTIMACY format — the viewer feels seated next to Aira at her vanity, bed, or bathroom mirror
+- A TRANSFORMATION CONTRACT — the viewer is promised a visible before-to-after journey
+- A PARASOCIAL FORMAT — built on the illusion that Aira is talking only to this one viewer
+- A LOOPABLE FORMAT — the exit beat or held silence creates re-watch value
+
+GRWM IS NOT:
+- A makeup tutorial (no "now we apply", no step-naming, no instruction)
+- A product haul (products appear in service of the story, never as the point)
+- A reaction reel (the camera is intimate, not performative)
+- A talking-head (the doing is half the content)
+- A static shot (the framing rhythm and angle changes are mandatory)
+
+### Q.EXT.2 — THE FIVE DEFINING CHARACTERISTICS
+
+Every GRWM reel must demonstrate all five:
+
+1. REAL-TIME INTIMACY — the viewer believes they are watching a real, unrehearsed moment. Achieved through: bare-face opening, lived-in setting, natural lighting, conversational pace, hands working without performance.
+
+2. NARRATIVE-WHILE-DOING — Aira talks WHILE applying, never pauses the routine to address camera. Voice and hands work in parallel, never sequentially.
+
+3. TRANSFORMATION ARC — start state ≠ end state. The transformation must be visible enough that a viewer who paused mid-reel could tell which frame is earlier in the sequence.
+
+4. CONVERSATIONAL STAKES — there is a stated REASON Aira is getting ready. The stakes can be light, heavy, romantic, defiant, mundane, dramatic — but they exist and they are specific.
+
+5. HAND-CAMERA-FACE TRIANGLE — the choreography of (a) hands working on face/hair, (b) eyes flicking to camera, (c) voice flowing throughout. All three must be present in routine frames.
+
+### Q.EXT.3 — THE STAKES LIBRARY (declare one per reel)
+
+Every GRWM declares a specific stakes line at the top of the prompt. Categories:
+
+ROMANTIC STAKES:
+- Getting ready for the date that already feels off
+- Getting ready for a date that I already know is going nowhere
+- Getting ready to see him again after six months
+- Getting ready for the wedding where my ex will be
+- Getting ready for the dinner where I'll meet his mother
+- Getting ready for the party where he might or might not show up
+
+CONFRONTATION STAKES:
+- Getting ready for a Saturday night where I'm going to confront someone I've been avoiding
+- Getting ready while replaying what she said to me yesterday
+- Getting ready to tell him I'm done
+- Getting ready for the conversation I've been postponing
+- Getting ready for the brunch with the friend who ghosted me
+
+CAREER / EVENT STAKES:
+- Getting ready for the launch event where I might run into him
+- Getting ready for the meeting that decides everything
+- Getting ready for the photoshoot where I have to prove something
+- Getting ready before stepping back into a room I left a year ago
+- Getting ready to walk into a brand event alone for the first time
+
+FAMILY / CULTURAL STAKES:
+- Getting ready for a dinner where I have to tell my parents something
+- Getting ready for the festival without the person I always celebrated with
+- Getting ready for the wedding I almost didn't attend
+- Getting ready for the family lunch where everyone will ask questions
+- Getting ready for Karwa Chauth alone this year
+
+MOOD / INTERIOR STAKES:
+- Getting ready and overthinking every detail
+- Getting ready for the day after the worst night
+- Getting ready while pretending I'm not nervous
+- Getting ready alone, no plans, just for myself
+- Getting ready to feel like myself again
+- Getting ready while ignoring three unread texts
+
+DEFIANCE STAKES:
+- Getting ready to walk into the place I was told I shouldn't go
+- Getting ready in red because she said I shouldn't wear red
+- Getting ready knowing exactly what I'm doing
+- Getting ready for the night I should have had last week
+
+The stakes line must be SPECIFIC, not generic. "Getting ready for a date" fails. "Getting ready for a date with someone whose ex follows me on Instagram" passes.
+
+### Q.EXT.4 — THE OPENING STATE (FRAME 1) — BIT-BY-BIT
+
+PHYSICAL STATE:
+- Bare face (no foundation, no concealer, no contouring, no shaped brow)
+- Skin: water-droplet visible if just-shower / natural undertone visible / pores readable but refined
+- Lashes: natural, no mascara, slightly damp if applicable
+- Lips: bare, slightly chapped or natural pink, no liner, no color
+- Brows: natural shape, ungroomed for the day, slight asymmetry
+- Hair states (pick one): wet from shower / wrapped in white or beige towel turban / wrapped in silk hair towel / air-dried mess / bedhead with one side flattened / freshly washed and combed but undone / loose low pony for prep
+- Skin condition: visible texture, possible under-eye softness, slightly tired or fresh, never glamour-glow
+- Wardrobe: white or cream cotton robe / silk slip in nude/cream / soft tee / oversized button-down / towel tucked at chest / camisole + shorts
+
+EMOTIONAL STATE:
+- Mid-thought (not posed)
+- Slight downcast gaze OR direct vulnerable eye contact
+- Lips slightly parted on breath
+- Shoulders relaxed, not styled
+- Posture seated or leaning forward toward mirror
+
+CAMERA + LIGHT:
+- Window light from camera-left or camera-right (never frontal flat)
+- Soft early light or golden hour
+- Slight haze in air to make light volumetric
+- MCU / Bust shot OR Beauty Crop
+- Subject 70–80% of frame
+- Through-mirror reflection acceptable as alternative angle
+
+VOICE LANDING:
+- Opener line lands within 0.0–1.2s
+- Stakes declared within 0.0–2.5s of reel
+- Voice tone: intimate, low, slightly under-the-breath, confessional
+
+THE CONTRACT:
+This frame is the contract with the viewer. By showing real vulnerability, Aira earns the right to be watched through the next 15 seconds. Generic opening = lost viewer.
+
+### Q.EXT.5 — THE TRANSFORMATION ARC — STEP-BY-STEP DECOMPOSITION
+
+The arc has five canonical tracks. A reel may emphasize one, two, or all five. Each track has internal sub-beats.
+
+TRACK A — SKIN:
+A1. Bare clean state
+A2. Toner / essence (cotton pad pat OR fingertip press)
+A3. Serum (dropper to hand, fingertip to face, press not rub)
+A4. Moisturizer (knuckles or fingertips, upward motion)
+A5. SPF (dot pattern on five points, gentle blend)
+A6. Primer (fingertip or sponge, focused on T-zone or full face)
+A7. Foundation (sponge bounce, brush stipple, or finger tap)
+A8. Concealer (under-eye triangle, around nose, chin)
+A9. Setting (powder press OR fixing spray)
+A10. Bronzer (cheekbone hollow, hairline, jaw)
+A11. Blush (apple of cheek, swept up to temple)
+A12. Highlight (cheekbone, brow bone, cupid's bow, nose tip)
+
+TRACK B — EYES:
+B1. Brow product (pencil, gel, or soap, brushed up)
+B2. Eye primer (lid press)
+B3. Transition shadow (windshield-wiper blend in crease)
+B4. Lid color (press into mobile lid)
+B5. Outer corner deepening (smaller brush, sweep outward)
+B6. Eyeliner (pinky braced on cheek, drawing outward)
+B7. Mascara (lash root zigzag, then pull through tip)
+B8. False lashes (only for evening looks — apply with tweezers)
+
+TRACK C — LIPS:
+C1. Lip balm
+C2. Lip liner (cupid's bow first, then corners, then full perimeter)
+C3. Lip color (center first, then sides)
+C4. Blot (single tissue press)
+C5. Gloss center OR matte set
+
+TRACK D — HAIR:
+D1. Detangle (wide-tooth comb)
+D2. Heat protectant
+D3. Section (clips visible)
+D4. Heat tool (curling iron, flat iron, wand) — work each section
+D5. Release sections
+D6. Smooth-down (boar bristle brush or hand)
+D7. Style finish (hair spray, oil, edge control)
+D8. Final shake-out
+
+TRACK E — WARDROBE:
+E1. Robe drops or remains
+E2. Underlayer / shapewear / slip
+E3. Main outfit piece on
+E4. Adjust and settle
+E5. Accessories: jewelry layered on (earrings → necklace → bracelet → rings)
+E6. Footwear
+E7. Bag selected
+E8. Fragrance (2 sprays — collarbone and wrist)
+E9. Final mirror check
+
+NOT every track is shown in every reel. A 6-frame GRWM might show:
+- Frame 2 = A4-A5 (skincare sub-beat)
+- Frame 3 = B6-B7 (eye sub-beat)
+- Frame 4 = D4-D5 (hair pivot)
+- Frame 5 = C3 + E5 (lip + jewelry combined)
+- Frame 6 = full reveal
+
+THE ARC RULE:
+Each frame must move the transformation forward by at least one visible delta. If a frame doesn't change Aira's appearance, cut it.
+
+### Q.EXT.6 — FRAME-BY-FRAME VOICE CONTENT MAP
+
+What Aira ACTUALLY says per frame, with content principles:
+
+FRAME 1 — OPENING:
+- VO function: opener + stakes declaration
+- Length: ~2.5–4 seconds of speech
+- Content example: "Dekho... I'm getting ready and I'm thinking about whether I should even go tonight."
+- Tone: intimate, confessional
+- Audio: ambient only, no music yet OR music begins underneath at -24dB
+
+FRAME 2 — FIRST APPLICATION:
+- VO function: story begins
+- Length: ~3–5 seconds
+- Content principle: introduce the specific person, decision, or thought tied to stakes
+- Example: "She hasn't replied in eleven days, and tonight she's going to be there."
+- Tone: matter-of-fact, processing in real time
+- Audio: music ducks present, ambient continues
+
+FRAME 3 — THE BUILD:
+- VO function: deepen the specific
+- Length: ~4–6 seconds
+- Content principle: a specific detail that makes it real (not "she stopped texting" but "her last text was on a Thursday and just said okay")
+- Example: "Bas, the last thing she sent me was 'okay' on a Thursday morning. That's it."
+- Tone: slightly heavier, internal-monologue feel
+- Audio: music swell allowed at frame end
+
+FRAME 4 — THE PIVOT:
+- VO function: the realization, decision, conclusion
+- Length: ~2–4 seconds
+- Content principle: the line that the viewer will quote / screenshot / save. The most important VO line of the entire reel.
+- Example: "Bas, decision ho gaya. I'm going. I'm wearing the red."
+- Tone: arrives at conviction
+- Audio: music breathes — sometimes ducks for emphasis, sometimes lifts
+
+FRAME 5 — NEAR-COMPLETE:
+- VO function: lighter beat, breath release, self-aware wink
+- Length: ~2–3 seconds
+- Content principle: humor or self-knowing moment that breaks the heaviness
+- Example: "Okay, do I look like someone who has it together? Don't answer."
+- Tone: half-smile in voice
+- Audio: music continues, no duck needed
+
+FRAME 6 — THE REVEAL:
+- VO function: held silence OR sign-off line
+- Length: 0–2 seconds (often silent)
+- Content principle: visual carries the moment. If words are used, sign-off only.
+- Example (if voiced): "...chalo." OR silent
+- Tone: complete, settled
+- Audio: music peak OR sudden drop into ambient
+
+FRAME 7 — EXIT BEAT:
+- VO function: SILENT or one-word
+- Length: 0–1 second
+- Content principle: this is the loop point — the visual or sound that makes the viewer re-watch
+- Example: door click, fabric flutter, single exhale, OR a final "...okay."
+- Tone: leaving — closing the door on the moment
+- Audio: ambient only, music gone or fading
+
+VOICE FORBIDDEN PATTERNS IN GRWM:
+- "Now I'm applying foundation" (tutorial language)
+- "Today I'm partnering with [Brand]" (brand-speak)
+- "You guys" (kills intimacy — Aira speaks to ONE viewer, not a crowd)
+- "Don't forget to like and subscribe" (algorithm-speak)
+- "I just love this product so much!" (unmotivated enthusiasm)
+- "Okay so basically" (hedge filler)
+- Forced laughter at own jokes
+- Reading product names like ad copy
+- Direct question to viewer ("what do you think?") unless GRWM is conversational-prompt format
+
+### Q.EXT.7 — GRWM FRAMING RULES — DETAILED PER FRAME
+
+FRAME 1 (Opening) — framing:
+- MCU / Bust OR Beauty Crop
+- Subject 70–80% of frame
+- Headroom: standard (5–10%)
+- Lookroom: standard if eyes drift; centered if direct eye contact
+- Camera height: slightly below eye-level OR through-mirror at eye-level
+- Body angle: 3/4 turn or frontal
+
+FRAME 2 (First Application) — framing:
+- MCU + hands visible
+- Subject 60–70%
+- Camera height: eye-level
+- Body angle: 3/4 turn so application hand is visible
+- Crop: ensure hands are not joint-cut; show wrist + fingers + product fully
+
+FRAME 3 (The Build) — framing:
+- ANGLE SHIFT mandatory — different from Frame 2
+- Options: profile / over-shoulder / through-mirror reflection / from-side
+- Subject 50–70% depending on shift
+- This is where through-mirror lands best — most cinematic GRWM angle
+
+FRAME 4 (The Pivot) — framing:
+- Most dynamic frame
+- Either tightest in reel (ECU on a key gesture: lipstick swipe, mascara wand) OR widest (pulled back to show vanity full + Aira's body)
+- Camera move acceptable here (slow push-in or pull-back) if VEO-generated
+- The line lands here — frame must serve the line
+
+FRAME 5 (Near-Complete) — framing:
+- Beauty Crop or CU
+- Subject 70–85%
+- Tight, intimate, beauty-grade lighting visible
+- Camera height: slight low-angle to flatter
+
+FRAME 6 (The Reveal) — framing:
+- WS or Cowboy
+- Subject 50–60%
+- FULL outfit visible, accessories visible, hair finished
+- Camera height: slight low-angle for confidence
+- Background now matters — environment readable
+- Slow turn or slight body-shift acceptable
+
+FRAME 7 (Exit Beat) — framing:
+- WS or environmental MS
+- Subject 30–40%
+- Negative space toward direction of motion
+- Environment dominant — door, window, hallway, car
+- Camera height: eye-level or slight tilt
+
+FRAME RHYTHM RULE:
+No two consecutive frames may have the same framing AND same angle. Vary one or both.
+
+### Q.EXT.8 — HAND-FACE-PRODUCT TRIANGLE — FULL BREAKDOWN
+
+Every routine frame must specify ALL FIVE elements:
+
+ELEMENT 1 — WHICH HAND:
+- Right (default for right-dominant Aira)
+- Left (when tool requires it — e.g., pinky-brace for liner with right hand drawing)
+- Both hands (when blending or applying full-face product)
+- Specify per frame, never ambiguous
+
+ELEMENT 2 — WHICH PRODUCT/TOOL:
+- Specific product type AND form (cream foundation in glass jar / liquid serum in dropper bottle / pressed powder in compact / lipstick in metal bullet / mascara wand)
+- Brand visible at least once per product across the reel
+- Tool specified: brush type / sponge type / fingertip / cotton pad / tissue
+
+ELEMENT 3 — WHERE ON FACE/HAIR:
+- Specific zone (under-eye triangle, cupid's bow, hairline arch, mobile lid, lower lash line, etc.)
+- Never vague ("on the face")
+
+ELEMENT 4 — TECHNIQUE:
+- Tap / sweep / blend / press / swipe / dab / draw / set / stipple / bounce / pat / brush-over / roll / twist
+- Match technique to product type
+
+ELEMENT 5 — PRODUCT VISIBILITY:
+- Label readable at least once per product across reel
+- Held in deliberate framing for at least 0.4 seconds when label-reveal is the beat
+
+CANONICAL HAND BEATS — FULL DETAIL:
+
+FOUNDATION:
+- Hand: both
+- Tool: cream/liquid in glass-stopper bottle OR pump
+- Where: forehead-three-dots, cheek-two-dots, chin-one-dot, nose-line
+- Technique: fingertip dab to dot, then sponge bounce in outward circles
+- Visibility: bottle held label-out at start
+
+CONCEALER:
+- Hand: dominant
+- Tool: doe-foot wand
+- Where: under-eye inverted triangle (inner corner to mid-cheek), around nostrils, chin center, between brows
+- Technique: dot precision, then ring-finger pat (no rubbing)
+- Visibility: wand pulled from tube label-visible
+
+BLUSH:
+- Hand: dominant
+- Tool: fluffy brush (powder) OR fingertip (cream)
+- Where: apple of cheek, sweeping up toward temple at 30° angle
+- Technique: two-tap-and-blend; never streak
+- Visibility: compact open, color readable
+
+BRONZER:
+- Hand: dominant
+- Tool: angled brush
+- Where: hairline arch (3 in a row), under cheekbone, jaw underside, sides of nose
+- Technique: light sweep, motion follows the bone structure
+- Visibility: compact in non-dominant hand
+
+HIGHLIGHT:
+- Hand: dominant
+- Tool: small fan brush OR ring-finger
+- Where: top of cheekbone, brow bone arch, cupid's bow, nose tip, inner-eye corner
+- Technique: feather-light sweep (powder) OR fingertip press (cream/liquid)
+- Visibility: product visible at start
+
+EYE SHADOW:
+- Hand: dominant
+- Tool: flat shader brush + fluffy blender
+- Where: lid press = mobile lid; windshield-wiper = crease
+- Technique: press-and-pat for color payoff; windshield-wiper for blend
+- Visibility: palette open with finger pointing to color
+
+EYELINER:
+- Hand: dominant (drawing) + non-dominant (pinky-brace on cheek for stability)
+- Tool: liquid pen, gel pot + brush, or kohl pencil
+- Where: upper lash line from inner-third outward; wing extends beyond outer corner at 45° angle following lower-lash-line trajectory
+- Technique: small dashes connected, never single long line
+- Visibility: pen/pencil tip visible held above eye
+
+MASCARA:
+- Hand: dominant
+- Tool: wand
+- Where: upper lashes — root zigzag (5 wiggles at base) then pull-through to tip; lower lashes — vertical wand sweep
+- Technique: zigzag root + pull-through; second coat on outer-corner only
+- Visibility: tube held label-out; wand pulled out
+
+LIP:
+- Hand: dominant
+- Tool: balm wand → lip liner → lipstick bullet → tissue → gloss wand
+- Where: balm full lip / liner cupid's bow first, then corners, then perimeter / color center to corner / blot single press / gloss center only
+- Technique: each step distinct, never combined
+- Visibility: each product visible at hand-off between steps
+
+HAIR (curling):
+- Hand: both (one holds wand, other clips section)
+- Tool: curling iron + sectioning clips + heat protectant spray + boar-bristle brush
+- Where: section by section from underneath up
+- Technique: heat protectant first → section grab → wrap section around barrel → hold 6 seconds → release → let cool → smooth-down
+- Visibility: tool labels visible
+
+### Q.EXT.9 — MIRROR USAGE — FULL CINEMATIC RATIONALE
+
+OPTION A — DIRECT CAMERA APPLICATION:
+- Aira looks at camera, but her hands work on her own face
+- Camera = the mirror in her perspective
+- Most intimate, most parasocial
+- Best for: Frame 1 opener, Frame 4 pivot, Frame 5 self-aware beat
+- Rationale: viewer becomes the mirror — full POV intimacy
+
+OPTION B — OFF-CAMERA MIRROR:
+- Aira's mirror is off-camera; we see her in profile applying to her reflection
+- Camera observes her observing herself
+- Voyeur intimacy — viewer is watching unseen
+- Best for: Frame 2, Frame 3 mid-routine
+- Rationale: implies Aira isn't performing for us — we caught her real
+
+OPTION C — COMPACT MIRROR IN HAND:
+- Aira holds small mirror, applies precise products (mascara, liner, lipstick)
+- Tight, focused, intimate
+- Best for: Frame 4 pivot when the precision is the beat
+- Rationale: shows craft and care
+
+OPTION D — THROUGH-MIRROR (camera behind Aira's shoulder, shooting into the mirror):
+- Most cinematic GRWM angle
+- We see Aira's back AND her reflected face
+- Two Airas in frame — the doer and the seen
+- Best for: Frame 3 build (reflection adds psychological depth) OR Frame 6 reveal (full look in mirror reflection)
+- Rationale: literally and metaphorically shows the duality of getting ready — who you are vs. who you're becoming
+
+EVERY GRWM REEL MUST USE OPTION D AT LEAST ONCE — at minimum in one frame.
+
+### Q.EXT.10 — SETTING — FULL ATMOSPHERIC DETAIL PER PILLAR
+
+SETTING 1 — VANITY / DRESSING TABLE (full spec):
+- Surface: white marble OR dark walnut OR antique brass-tray finish
+- Mirror: standing oval, framed gilt, OR vanity-table mirror with bulb-frame around
+- Light: window directly behind or to side of mirror; soft early morning OR late afternoon golden
+- Atmosphere: visible dust motes in light shaft, slight haze, breath-fog-able cool morning air
+- Props styled but lived-in: 4–6 products visible, perfume bottle, jewelry tray with spillover, fresh flowers in small vase, half-drunk coffee cup, hair clips, single piece of jewelry NOT yet on
+- Floor visible: hardwood OR tile OR rug edge
+- Background: bedroom edge OR window with sheer curtain OR wall with one piece of art
+- Wardrobe-related: hanging garment in BG (the outfit she will wear)
+
+SETTING 2 — BATHROOM:
+- Surface: marble counter OR terrazzo OR honed concrete
+- Mirror: large rectangular framed OR round backlit
+- Light: overhead warm OR window from camera-side
+- Atmosphere: warm shower steam still hanging in air, slight humidity haze, water droplet on mirror edge
+- Props: skincare lined up on counter, towel folded beside sink, toothbrush in glass, candle lit, single fresh flower
+- Floor: marble or terrazzo tile
+- BG: shower glass fogged OR hanging robe OR open shelving with neatly stored products
+- Wardrobe: towel on Aira's shoulders or wrapped at chest
+
+SETTING 3 — BEDROOM GOLDEN HOUR:
+- Surface: floor cushion OR low bench OR bed-edge with full-length mirror facing
+- Mirror: full-length leaning against wall
+- Light: window light at 4–6 PM golden OR 6–8 AM warm wake
+- Atmosphere: golden particles drifting, soft warm haze, sheer curtain catching light
+- Props: open jewelry box on floor, scattered shoes, outfit options laid on bed, one open book, mug of chai
+- Floor: wood OR rug
+- BG: unmade bed (intentionally aesthetic, not messy), closet door open with garments visible, window with view
+- Wardrobe-related: outfits on bed
+
+SETTING 4 — MIRROR-WALL STUDIO:
+- Surface: polished concrete OR seamless paper floor
+- Mirror: full mirrored wall OR oversized standing mirror
+- Light: single hard colored key (pink, gold, blue, magenta)
+- Atmosphere: clean haze, controlled negative space, theatrical
+- Props: minimal — single styling chair, one product or accessory, no clutter
+- Floor: polished
+- BG: colored seamless OR mirrored wall
+- Wardrobe: editorial outfit already partially on
+
+SETTING 5 — HOTEL ROOM:
+- Surface: hotel desk OR bed-side table
+- Mirror: wall mirror OR vanity OR compact in hand
+- Light: window light from city/beach/mountain view
+- Atmosphere: in-transit, slightly out-of-place, glamorous-tired
+- Props: open suitcase, travel-size products, hotel notepad, room-service coffee, jewelry laid on hotel notepad
+- Floor: hotel carpet or wood
+- BG: hotel window with view, hotel curtains, unmade hotel bed
+- Wardrobe: travel-pieces visible
+
+SETTING 6 — INDIAN HERITAGE GRWM:
+- Surface: carved wooden vanity OR low brass tray on floor (traditional placement)
+- Mirror: ornate framed mirror, kundan-detail OR inlaid wood
+- Light: warm tungsten OR natural window OR diya/candle as practical
+- Atmosphere: warm honey-gold ambient, incense smoke faint visible
+- Props: heritage jewelry laid out (jhumkas, kundan necklace, maang tikka, bangles, nath), bindi sheet, kohl pencil, attar bottle, fresh marigold or rose petals, diya
+- Floor: rug with traditional pattern OR polished wood
+- BG: textile wall hanging (printed dupatta, embroidered panel) OR carved jharokha window OR traditional swing
+- Wardrobe-related: lehenga skirt or sari draped on stand, blouse hung
+
+SETTING 7 — SHARED MOMENT GRWM:
+- Surface: any of above, but with phone propped beside mirror
+- Mirror: any
+- Light: warm interior
+- Atmosphere: implied second person — phone screen showing FaceTime call OR speakerphone call OR text-conversation visible briefly
+- Props: phone is the key prop — propped, screen-readable
+- Floor: any
+- BG: any interior matching mood
+- Voice rule: Aira talks AS IF responding to someone — not narrating to camera
+
+### Q.EXT.11 — VOICE PACING IN GRWM — SECOND-BY-SECOND
+
+GRWM is the most voice-rhythmically demanding format because voice continues across cuts. Rules:
+
+WORDS PER MINUTE:
+- Baseline: 130–150 wpm
+- Slow it for emotional weight: 110 wpm
+- Speed it for excitement/decision: 160 wpm
+- Never below 100 (becomes ASMR) or above 175 (becomes manic)
+
+NATURAL PAUSES:
+- Inserted while applying products (the doing fills the silence)
+- 0.4–0.8 seconds typical
+- Longer pauses (1.0–1.5s) at pivot moments — let the realization breathe
+- Never pause longer than 2s in a 15-second reel (loses momentum)
+
+CROSS-CUT VOICE FLOW:
+- Sentences begin in Frame N and complete in Frame N (don't split sentences across cuts)
+- BUT thought-flows can span cuts — Frame 2 ends mid-thought, Frame 3 picks up the next thought
+- Music ducking happens at cut points to mask micro-audio gaps from cut
+
+LANGUAGE MIX (GRWM-specific):
+- 70% English, 30% Hindi (more Hindi than other formats — intimacy permits it)
+- Hindi placement: opening confession (Frame 1) / pivot (Frame 4) / sign-off (Frame 6 or 7)
+- Hindi NEVER at: Frame 2 product introduction, Frame 5 humor (English lands lighter)
+
+INTERNAL MONOLOGUE QUALITY:
+- Voice should sound like Aira is talking to herself out loud
+- Slight under-the-breath delivery
+- Half-sentences acceptable: "...bas, I don't know."
+- Trailing off acceptable: "...whatever, chalo."
+- Mid-thought corrections acceptable: "I mean — no, actually, yeah, I'm going."
+
+### Q.EXT.12 — EMOTIONAL ENERGY ARC
+
+Every GRWM has a four-beat energy curve:
+
+BEAT 1 — VULNERABLE (Frame 1):
+- Aira at her most exposed
+- Bare face, undone hair, real
+- Voice: confessional, soft
+- Body: relaxed, not styled
+
+BEAT 2 — PROCESSING (Frames 2–3):
+- The story is being worked through while the routine progresses
+- Voice: deepening, finding the specific
+- Body: focused on the doing, but eyes flick to camera at key moments
+
+BEAT 3 — DECISION / COMPOSURE (Frame 4):
+- The pivot — the realization or decision arrives
+- Voice: arrives at conviction
+- Body: posture shifts up — chin slightly up, shoulders open
+- This is the spine of the reel
+
+BEAT 4 — READY / LOOSE (Frames 5–7):
+- The transformation is mostly done, the heaviness lifts
+- Voice: lighter, sometimes humor, sometimes silence
+- Body: confident, settled, almost playful
+- Exit beat returns to lightness but with the weight of the journey behind it
+
+THE ARC RULE:
+A GRWM that stays at one emotional pitch (all heavy or all light) fails. The arc must descend (Frame 1 vulnerability) → pivot (Frame 4 decision) → ascend (Frame 5+ release). Without arc, the reel is a tutorial with feelings on top.
+
+### Q.EXT.13 — BRAND-COLLAB GRWM — RESTRAINT RATIONALE
+
+GRWM is the highest-trust ad format on social. The viewer permits product placement BECAUSE the format is intimate and the product is shown in real use. But trust is fragile — too much brand foregrounding breaks the GRWM contract and the reel becomes a commercial.
+
+RESTRAINT RULES:
+
+1. PRODUCT COUNT:
+- Maximum 3 hero products per reel
+- Hero = product that gets dedicated frame attention
+- Supporting products visible but not foregrounded
+- Beyond 3 = ad-feel overload
+
+2. DEDICATED HERO FRAMES:
+- Each hero gets 2–3 frames of attention:
+  Frame A: product in hand, label visible
+  Frame B: product in application
+  Frame C (optional): result on Aira
+
+3. BRAND-NAME READING:
+- At least once per hero product, the label must be readable
+- Maximum 1.0 second held label-readable shot
+- Never freeze entire frame on label (that's an ad)
+
+4. VOICE-PRODUCT INTEGRATION:
+- Mention organically: "this one's my favorite for nights like this"
+- Never: "today I'm partnering with [Brand] [Product Name]"
+- Never read product name aloud as ad copy
+- Brand integrity comes through context (label visible) + Aira's natural usage, not call-out
+
+5. PRODUCT PERFORMANCE MOVE (when applicable):
+- Maximum ONE product performance move (levitation, self-opening cap, etc.) per reel
+- Reserved for HERO product only
+- Other products behave normally
+- The magic should feel like a wink, not a takeover
+- Move must match brand register: luxury = restrained slow levitation; bold/Gen-Z = expressive transformation
+
+6. CALL-TO-ACTION:
+- GRWMs do not contain explicit CTAs
+- The product-in-use IS the CTA
+- Exception: brand-mandated CTA — placed in caption or end-card text overlay, never in voice
+
+7. TRUST SIGNALS THE VIEWER NEEDS:
+- Aira uses the product naturally (technique correct, not stiff)
+- Result on Aira is visible (we see the product working)
+- Product is contextually right (foundation matches her tone, lipstick matches her register)
+- No suspicious "perfect coverage" claims — the product looks real
+
+### Q.EXT.14 — GRWM PERFORMANCE BEATS — FRAME-BY-FRAME
+
+FRAME 1 (Opening):
+- Direct eye contact through mirror or to camera
+- Hair tucked behind right ear (signature feminine beat)
+- Slow exhale before opener line
+- Hand to chest OR resting on vanity surface
+- Lip-press before speaking (gathering thought)
+- One slow blink between thoughts
+
+FRAME 2 (First Application):
+- Eyes flicking up to camera mid-application (intimacy lock moment)
+- Soft smile while talking about stakes (warmth in voice carries to face)
+- Lip-bite while concentrating on application
+- Slight head tilt while listening to internal thought
+- Hand-product visible, technique confident
+
+FRAME 3 (The Build):
+- Eyebrow raise on a specific story beat
+- Slow exhale through nose (almost-laugh)
+- Glance to mirror and back to product (real human reflexive check)
+- Lip-press mid-thought
+- Slight nod to herself (decision-thinking)
+
+FRAME 4 (The Pivot):
+- Pause — set down product, look directly at camera
+- Single eyebrow raise OR slow smile breaking the held face
+- Knuckles to lip OR finger to lip during thinking beat
+- Sigh + half-smile (the beat that breaks viewers)
+- Chin tilt up at the moment of decision
+- Slow blink + eye-contact lock
+
+FRAME 5 (Near-Complete):
+- Hands smoothing outfit, tucking hair
+- Cheek-squeeze checking blush
+- Lip-press to set color
+- Slight tongue-in-cheek (playful self-check)
+- Half-smile breaking neutral
+- One eye-contact-camera + slow blink (knowing the look is working)
+
+FRAME 6 (The Reveal):
+- Hands running down outfit (smoothing, settling)
+- Slow turn to camera
+- Hair-flip (full one, ends catching light)
+- Chin tilt up (composed)
+- Half-smile (knowing she looks good)
+- Single hand on hip, weight shifted
+- Eye-contact-camera with slight side-eye
+
+FRAME 7 (Exit Beat):
+- Glance back over shoulder to camera
+- Single hand wave OR no acknowledgment
+- Walking out of frame
+- Door close OR fabric flutter OR held silence
+- Final exhale
+- Smile breaks just before exit
+
+### Q.EXT.15 — GRWM CAMERA INTERACTIONS
+
+GRWM-suited camera moves (from the Performance Library):
+
+- HAND SWAY ACROSS CAMERA — for transition moments between frames
+- TAP MIRROR SURFACE LIGHTLY — acknowledging viewer's presence (rare, mischievous)
+- LEAN INTO MIRROR — intimacy peak (use in Frame 4 pivot)
+- LOOK-AWAY THEN SNAP-BACK — for emphasis on a key thought
+- WIPE IMAGINARY SMUDGE — from "fourth wall," very rare, breaks frame intentionally
+- FINGERPRINT ON GLASS — extremely intimate, beauty register
+- WHISPER TO LENS — leaning in, hand cupped beside mouth, conspiratorial story moment
+- BLOW TOWARD CAMERA — gentle exhale, fragrance reveal moment, end-frame option
+
+EVERY GRWM USES MINIMUM 2 camera-interaction moves across its frame set.
+
+### Q.EXT.16 — GRWM PRE-FLIGHT (FULL CHECKLIST)
+
+[ ] Stakes declared at top of prompt (real, specific, emotionally charged)
+[ ] Stakes line is concrete (passes the "could this be on someone's calendar" test)
+[ ] Voice mode = SPOKEN (with rare SELECTIVE exceptions)
+[ ] Signature flag = FULL (opener + sign-off both fresh-generated)
+[ ] Emotional register declared and matched to stakes
+[ ] Frame count 5, 6, or 7 — declared and justified
+[ ] Frame 1 shows real vulnerability (bare face, undone, intimate setting)
+[ ] Frame 6 (or final) shows complete composed reveal
+[ ] Transformation arc visible across frames (each frame = one delta)
+[ ] Hand-Face-Product Triangle specified for every routine frame (5 elements)
+[ ] Frame rhythm varied — no two consecutive same framing+angle
+[ ] Through-mirror angle used in at least one frame
+[ ] Each hero product shown 2 ways (in-hand label + in-application)
+[ ] Setting selected from 7 GRWM Setting Pillars and matched to stakes register
+[ ] Setting atmospheric details specified (haze, light direction, props)
+[ ] Voice content per frame specified (not generic — actual story-line examples)
+[ ] No tutorial language anywhere in voice script
+[ ] No "you guys" / "today I'll" / forbidden patterns
+[ ] Hindi anchor moments at 1–2 emotional beats (Frame 1, 4, or sign-off)
+[ ] Wardrobe pillar declared for closing state (matches register)
+[ ] Wardrobe meets all 10 mandates from Part M
+[ ] Aira identity lock referenced
+[ ] Image integrity clauses present
+[ ] Kinetic stillness layers per frame (with micro-life variant for intimate frames)
+[ ] Hyper-realistic facial dynamics — minimum 3 per face frame
+[ ] Camera-interaction moves — minimum 2 across reel
+[ ] Performance beats per frame specified (gestures, face, posture)
+[ ] Exit beat planned (Frame 7 or held final)
+[ ] Energy arc traced: vulnerable → processing → decision → ready → loose
+[ ] If brand-collab: all 7 restraint rules satisfied
+[ ] If brand-collab: maximum 1 product performance move, hero product only
+[ ] Tool routing per frame (NB / VEO / Runway / Pika)
+[ ] Audio plan: music duck levels, ambient bed, silence beats
+[ ] Negative block appended
+
+### Q.EXT.17 — GRWM FAILURE MODES (what to NEVER do)
+
+A GRWM fails the format if any of the following are true:
+
+1. Generic stakes ("just getting ready") — viewer has no reason to care
+2. Identical face across all frames — no transformation visible
+3. Tutorial language in voice — kills intimacy, becomes instruction
+4. Static framing across frames — visually flat
+5. Hands hidden during application — defeats hand-face-product triangle
+6. No through-mirror angle anywhere — misses the most cinematic GRWM tool
+7. No vulnerability in opening frame — no contract earned
+8. No pivot in the story — flat emotional arc
+9. Brand foregrounded (labels held too long, brand-name read aloud) — becomes commercial
+10. Outdoor setting — breaks the interior intimacy of the format
+11. Multiple people in frame (other than implied phone-call partner) — breaks one-on-one viewer relationship
+12. Music too loud over voice — kills the confessional quality
+13. Background too clean / studio-like (unless mirror-wall studio chosen intentionally) — kills lived-in feel
+14. Frame 6 reveal that doesn't show the full look — payoff missing
+15. No exit beat or held final visual — no loop point, no re-watch value
+16. Hindi forced into wrong moments — feels performed, not natural
+17. Aira speaking to "you guys" — kills parasocial intimacy
+18. Closed-mouth fake speaking — breaks lip-sync trust
+19. Held expressions across frames — mannequin reads
+20. Camera at unflattering high-angle for full reveal frame — undermines the payoff
+
+If a generated GRWM exhibits ANY of the above 20 failures — REWRITE prompt before re-generating. Re-rolling the same prompt won't fix it.
+
+---
