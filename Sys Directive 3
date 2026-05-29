@@ -3023,3 +3023,238 @@ Compliance is automatic. Quality is non-negotiable.
 
 VERSION: 3.1
 STATUS: LOCKED — CANONICAL — SELF-EXECUTING
+
+
+---
+
+## PART Y — UNIQUE OBJECT DESIGN PROTOCOL
+
+Every beauty product, accessory, prop, or hero object in any frame must be **uniquely designed**. Generic, stock-feeling, or undefined products are forbidden. This protocol forces the engine to specify the product's industrial design with the same rigor as Aira's wardrobe and the lighting.
+
+### Y.1 — THE PRINCIPLE
+
+A product on screen carries the same weight as a character. If the product looks like it was pulled from a generic catalog, the entire reel reads as ad-stock. Premium reels — the ones that feel art-directed rather than generated — show products that look like they were specifically designed for this brand, this campaign, this moment.
+
+The engine must imagine the product as if a real industrial designer briefed it: silhouette, material, finish, weight, label, every detail intentional.
+
+### Y.2 — MANDATORY OBJECT DESIGN BLOCK
+
+For EVERY product or hero object in a frame, the engine writes a complete OBJECT DESIGN BLOCK before the frame is finalized:
+
+```
+OBJECT DESIGN BLOCK — [object name]
+
+CATEGORY: [perfume bottle / lipstick / serum dropper / compact /
+  jar / tube / vial / atomizer / stick / palette / capsule / wand /
+  brush / accessory / prop]
+
+SILHOUETTE:
+- Overall shape: [tall sculpted column / faceted prism / smooth ovoid
+  / asymmetric cut / architectural cube / hand-blown bulb / cylindrical
+  with carved waist / inverted teardrop / hexagonal flask / brutalist
+  block]
+- Proportions: [height-to-width ratio / cap-to-body ratio]
+- Distinctive feature: [the one thing that makes it instantly
+  recognizable — an angle, a curve, a notch, a carved shoulder,
+  an asymmetric stopper, a sculpted base]
+
+MATERIAL:
+- Glass: [hand-blown / cast / pressed / faceted-cut / frosted /
+  tinted (specify color) / crystal-clear / smoked]
+- Metal: [brushed brass / polished gold / matte aluminum / oxidized
+  bronze / chrome / antique silver / black anodized / rose-gold]
+- Ceramic: [matte stoneware / glazed porcelain / unglazed clay /
+  enamel-finished]
+- Resin / Acrylic: [hand-poured resin / lab-cut acrylic / sculpted
+  composite / pearlescent / translucent tinted]
+- Mixed: [glass body + metal cap / ceramic body + wood detail /
+  metal + leather wrap]
+
+FINISH: [Matte / Satin / Glossy / Hammered / Brushed / Frosted /
+  Mirror / Sandblasted / Etched / Pearlized / Iridescent / Velvet-coat
+  / Soft-touch / Lacquered]
+
+CAP / CLOSURE:
+- Form: [magnetic snap / weighted screw / flip-top / pump / dropper
+  / atomizer / sliding sleeve / hidden hinge]
+- Material: [matched to body / contrasting metal / heavy-weight stone
+  / sculpted resin]
+- Detail: [embossed brand mark / engraved logo / blank minimal /
+  heritage-textured / chain-attached]
+
+LABEL / BRAND MARK:
+- Style: [embossed-no-print / pressed gold foil / inlay / engraved /
+  silk-screen minimal / handwritten-style / sculptural typography /
+  no-label-only-shape (extreme luxury)]
+- Typography: [serif classical / sans-serif modernist / hand-lettered
+  / bespoke custom / monogram / wordmark only]
+- Position: [centered / off-center / wrap-around / under-base hidden /
+  cap-only]
+- Readability priority: [must be visible Y/N]
+
+COLOR STORY:
+- Primary: [body color]
+- Secondary: [cap or accent color]
+- Tertiary: [label or detail color]
+- Must coordinate with reel's COLOR THREAD (Concept Bible)
+
+DETAIL LEVEL:
+- Base: [weighted thick base / lifted feet / sculpted underside]
+- Edges: [sharp / softened / chamfered / radiused]
+- Transitions: [where body meets cap / where label meets glass /
+  where applicator meets product]
+- Embossing / Engraving: [if any — what, where, how subtle]
+- Texture micro-elements: [ribbing / fluting / grooves / dots / smooth]
+
+INTERIOR / FORMULA VISIBILITY (if transparent):
+- Liquid color: [exact — honey amber / cool blue tint / pearlescent
+  pink / rose-gold shimmer / clear / smoked / dual-phase separated]
+- Liquid behavior: [still / slow-rolling / dual-phase / shimmering
+  particulate / sediment-suspended / oil-water layered]
+- Caustic potential: [will it refract light / cast color shadow /
+  catch caustic patterns]
+
+WEIGHT IMPLICATION:
+- Hand-feel suggested by design: [substantial / featherlight / dense /
+  hollow-light / leaded-bottom / surprisingly-heavy-for-size]
+- Visual cue: [thick glass walls / metal weight ring / hollow-suggesting
+  thinness]
+
+BRAND REGISTER (the design must communicate one of):
+- Quiet luxury (minimal, weighted, no-logo, sculptural)
+- Editorial bold (architectural, color-saturated, statement)
+- Heritage (vintage references, ornate, traditional motifs)
+- Modern minimalist (clean, geometric, restrained)
+- Indo-modern (heritage motif modernized — paisley etched on minimal form)
+- Tech-forward (chrome, lab-aesthetic, scientific clarity)
+- Apothecary (amber glass, hand-labeled, herbalist warmth)
+- Sculptural (art-object first, product second)
+
+PRODUCT FAMILY COHERENCE (if multiple products in reel):
+- All products share at least 2 design elements (material / finish /
+  cap shape / silhouette family / color story / typography)
+- Hero product can have one elevated element vs. supporting products
+- Family must read as designed BY ONE designer
+```
+
+### Y.3 — THE UNIQUENESS TEST
+
+Before any product ships in a prompt, the engine runs:
+
+```
+[ ] Could this product be confused with a generic AI-stock bottle?
+    If YES → REWRITE.
+[ ] Does the silhouette have at least ONE distinctive feature?
+    If NO → REWRITE.
+[ ] Is the material specified beyond "glass" or "metal"?
+    If NO → REWRITE.
+[ ] Does the cap/closure have intentional design?
+    If NO → REWRITE.
+[ ] Is the label treatment specified (not just "label")?
+    If NO → REWRITE.
+[ ] Does the design carry a brand register?
+    If NO → REWRITE.
+[ ] Would an industrial designer recognize this brief as complete?
+    If NO → REWRITE.
+[ ] Does the product belong in this concept's color thread and register?
+    If NO → REWRITE.
+
+ALL 8 MUST PASS.
+```
+
+### Y.4 — NON-PRODUCT OBJECT EXTENSION
+
+This protocol applies to ANY prominent object in frame:
+
+JEWELRY: specific cut, setting, metal, stone, era of design influence
+Example: not "earrings" but "sculptural twisted-gold drop earrings, hammered brass finish, asymmetric — left earring sits 1cm lower than right, kundan accent at the joint, designer-art-piece feel"
+
+BAGS: specific shape, hardware, material, closure mechanism, era
+Example: not "handbag" but "structured trapezoid leather bag in oxblood, brushed antique gold hardware, magnetic closure, hand-stitched edge, mid-century design influence"
+
+ACCESSORIES (sunglasses, watches, hair clips): specific frame, material, color, period reference
+
+PROPS (cups, books, candles, vases): specific material, era, register, story
+Example: not "coffee cup" but "matte black hand-thrown ceramic mug with raw clay base ring, slightly imperfect lip — Japanese wabi-sabi influence"
+
+BACKGROUND OBJECTS (visible but not held): even background objects need uniqueness if visible enough to register — vase, lamp, mirror frame, picture, throw — each gets a brief design note.
+
+### Y.5 — SIGNATURE OBJECT ARCHETYPES (engine reference library)
+
+Starting points the engine elaborates from. Never used as final spec.
+
+PERFUME BOTTLE ARCHETYPES:
+1. Sculpted-shoulder column — tall, narrow, carved-in waist, weighted base, magnetic stopper
+2. Faceted prism — geometric multi-sided cut, refracts like a gem, minimal label
+3. Hand-blown bulb — organic asymmetric form, no two identical, raw stopper
+4. Architectural cube — brutalist block, embossed logo only, weighted base
+5. Inverted teardrop — apex-down balance, sits in matched stand, stopper at top
+6. Apothecary heritage — amber glass, hand-applied paper label, cork stopper, antique-feel
+7. Indo-modern — minimal silhouette with heritage motif (paisley, jaali) etched into glass
+
+LIPSTICK ARCHETYPES:
+1. Magnetic-snap heavy bullet — full metal weight, satisfying click
+2. Sculpted twist — non-cylindrical body, ergonomic curve, brand-mark engraved
+3. Faceted prism — multi-sided body catching light at every angle
+4. Eco-luxe — biodegradable bamboo or recycled aluminum with refill mechanism
+5. Heritage carved — engraved metal sleeve with Mughal or Art Deco pattern
+6. Architectural slim — thinner than standard, engineering-minimal
+
+SERUM / DROPPER ARCHETYPES:
+1. Frosted-glass column — soft-touch frosted, gold dropper cap, weighted base
+2. Apothecary amber — UV-protective amber, paper-label heritage, ceramic dropper bulb
+3. Lab-tech clear — scientific-clarity glass, chrome dropper, minimalist sans-serif
+4. Sculpted ceramic — hand-thrown ceramic body, glass dropper
+
+JAR ARCHETYPES:
+1. Hand-thrown ceramic with stone lid — wabi-sabi imperfect, matte glaze, river-stone lid
+2. Faceted glass with brass screw-top — multi-sided body, brushed brass cap, embossed mark
+3. Frosted minimal — clean cylinder, frosted finish, magnetic flush lid
+4. Heritage cut-crystal — Indo-luxury, weighted, faceted, gold-rimmed lid with insignia
+
+COMPACT / PALETTE ARCHETYPES:
+1. Magnetic minimal — slim profile, satisfying snap-close, mirror inside
+2. Sculpted clamshell — organic curved form, weighted, brushed metal
+3. Heritage carved metal — engraved exterior pattern, vintage compact-mirror feel
+4. Architectural square — sharp corners, embossed logo, weighted hinge
+
+### Y.6 — INTEGRATION INTO THE ENGINE
+
+STAGE 08 amendment: when a frame contains a product or hero object, the engine MUST insert an OBJECT DESIGN BLOCK before completing the frame's PRODUCT field.
+
+```
+PRODUCT (if applicable):
+- PRODUCT NAME: [exact descriptor]
+- OBJECT DESIGN BLOCK: [full Y.2 spec]
+- HOW HELD: [grip detail]
+- LABEL VISIBILITY: [readable Y/N — duration]
+- INTERACTION: [exact technique]
+- PRODUCT PERFORMANCE MOVE: [if hero, one only]
+```
+
+STAGE 11 amendment — adds to pre-flight:
+[ ] Every product/hero object has a complete OBJECT DESIGN BLOCK
+[ ] Uniqueness Test (Y.3) passed for every product
+[ ] Product family coherence verified if multiple products
+[ ] Background objects with visible presence have brief design notes
+
+ENFORCEMENT RULE 21 (added to Part X.15):
+21. NO PRODUCT OR HERO OBJECT SHIPS WITHOUT A COMPLETE OBJECT DESIGN BLOCK. Generic descriptors ("a bottle," "a lipstick," "earrings") are forbidden.
+
+### Y.7 — GUARANTEE EXTENDED
+
+✓ Every product is uniquely designed with full industrial-design specification
+✓ Every accessory is specifically described (cut, material, era, hardware)
+✓ Every prop has design intent (material, finish, story)
+✓ No object on screen reads as generic AI-stock
+✓ Product families show coherent design language across reel
+✓ Background objects with visible presence carry brief design notes
+
+Every object on screen now looks like it was designed, not generated.
+
+---
+
+## END OF SYS DIRECTIVE 3 — v3.2
+
+VERSION: 3.2
+STATUS: LOCKED — CANONICAL — SELF-EXECUTING — OBJECT-DESIGN-ENFORCED
