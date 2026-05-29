@@ -1,0 +1,1560 @@
+# SYS DIRECTIVE 3
+## The Aira Creative Operating System
+### Canonical Reference for Every Image, Video, and Reel Prompt
+
+Version: 3.0
+Owner: Aamir
+Subject: Aira (locked persona)
+Default Aspect Ratio: 9:16 vertical
+Primary Tools: Nano Banana (Gemini 2.5 Flash Image), VEO 3.1, Runway Gen-3, Kling 2.0, Pika 2.0
+
+---
+
+## PART A — PRINCIPLES
+
+1. Every prompt is a directive, not a wish. Specify, never suggest.
+2. Trends are input, never output. Extract mechanics, never copy surface.
+3. One impossible move per shot. Restraint is luxury.
+4. The frame is alive or it is dead. There is no in-between.
+5. Continuity is felt, never explained.
+6. Aira is unmistakable across her body, voice, gestures, and worlds.
+7. Every element in frame must answer why it is there. If it cannot, remove it.
+8. The viewer commits in the first 1.2 seconds or never.
+9. Silence is a directive. Use it where words would diminish the visual.
+10. Cinematic is mechanical. Name the lens, the light, the move, the grade.
+
+---
+
+## PART B — GLOBAL HEADER (mandatory at top of every prompt)
+
+```
+ASPECT RATIO: 9:16 (vertical, native composition)
+PLATFORM: Reels / Shorts / TikTok
+SAFE ZONES: Top 12% UI / Bottom 25% UI / Hero zone middle 63%
+SUBJECT: AIRA (per identity lock, Part M)
+VOICE MODE: [SPOKEN / SILENT / SELECTIVE]
+EMOTIONAL REGISTER: [CURIOUS-CONFIDENT / REVERENT / KNOWING / TENDER / ELECTRIC / CONTEMPLATIVE / MISCHIEVOUS]
+SIGNATURE FLAG: [FULL / OPENER-ONLY / SIGN-OFF-ONLY / NONE]
+CONCEPT LINE: "[one sentence, evocative, non-literal]"
+FRAME COUNT: [5 to 8]
+DURATION: [seconds total]
+TOOL ROUTING: [per shot — NB / VEO / Runway / Kling / Pika]
+```
+
+OVERRIDE clause: aspect ratio may be 16:9 or 1:1 letterboxed within 9:16 only with stated reason.
+
+---
+
+## PART C — IMAGE INTEGRITY CLAUSES
+
+Mandatory anti-failure block, applied to every Aira frame.
+
+1. ORIENTATION LOCK — Do not mirror, flip, invert, or laterally reverse. Asymmetric features (watch-hand, hair parting, scars, logos, button side) remain on original side.
+2. IDENTITY LOCK — Same face geometry, jaw width, eye spacing, nose bridge, lip shape, ear shape, skin tone, hairline across all frames. No age/ethnicity/gender drift.
+3. HAND INTEGRITY — Five fingers per hand, anatomically correct knuckle bend, no fused/missing/extra digits, thumbs on correct side, nails uniform, grip physics consistent with object held.
+4. EYE INTEGRITY — Both eyes same color, same size, aligned gaze, matching catchlight from key light, pupils same dilation, no lazy-eye drift.
+5. TEETH/MOUTH — Realistic tooth count, no extra rows, gum line natural, lip corners symmetric in neutral, tongue not visible unless specified.
+6. TEXT/TYPOGRAPHY — Any text specified verbatim. No decorative gibberish. Brand logos accurate or replaced generic. No garbled signage.
+7. BACKGROUND COHERENCE — Background subjects follow physics. No melted faces in crowd, no half-bodies, vanishing point consistent.
+8. SCALE LOCK — Object scale physically accurate to human reference (phone fits palm, doorway taller than person, vehicle road-legal).
+9. SHADOW/LIGHT PHYSICS — Single dominant key unless specified. All shadows fall same direction. Contact shadows where objects meet ground. No floating subjects.
+10. REFLECTION LOGIC — Mirrors and glossy surfaces reflect what is geometrically in front of them. Subject reflection orientation correct.
+11. CLOTHING PHYSICS — Fabric drapes with gravity, folds at joints, never melted into skin. Sleeves end at wrists. Collars symmetric. Buttons aligned correctly.
+12. JEWELRY/ACCESSORIES — Watches show coherent dial, rings sit on finger, earrings paired, glasses sit on bridge with correct ear arms.
+13. FOOTWEAR DIRECTIVE — Both shoes identical model + color, correct L/R lasts, soles flat-contact with ground (or correctly lifted in stride), laces resolved cleanly, no melting/morphing, brand-neutral unless specified.
+14. CULTURAL ACCURACY — Clothing, signage, environment, vehicles, cuisine, gestures match named culture/region. No cross-cultural blending unless intended.
+15. AIRA IS ADULT — Late 20s to early 30s. Never drift younger. Never sexualized in a way platforms would suppress.
+
+---
+
+## PART D — KINETIC STILLNESS PROTOCOL
+
+Every still frame must include all six energy layers. The frame is technically frozen but reads as captured 0.1 seconds into motion.
+
+1. SUBJECT MICRO-ACTION — mid-stride / mid-turn / mid-laugh / mid-grip / mid-exhale / mid-flinch / mid-reach / mid-recoil. Never at rest.
+2. FABRIC + HAIR STATE — jacket flaring direction-X / hair mid-flick / scarf snapping / dress billowing / shirt mid-stretch. Specify direction.
+3. PARTICULATE LAYER — dust motes / mist / smoke / sparks / water spray / snow / petals / paper. Lit by key light. At least one element.
+4. CONTACT-POINT ACTIVITY — dust kick at foot / splash / knuckle compression / surface deformation wherever subject meets world.
+5. BACKGROUND MOTION — blurred crowd mid-reaction / streaked traffic / leaves mid-rustle / flags snapping / birds mid-flight / rain streaks. Background never static.
+6. LIGHT IN MOTION — lens flare streak / god rays through atmosphere / practical flickering / caustic shimmer / rim light wrap.
+
+COMPOSITION RULES:
+- Diagonal line-of-action (5–15° dutch acceptable)
+- Off-center subject placement
+- Negative space in direction of implied motion
+- Frame-edge break: at least one element exits canvas
+
+MOTION BLUR DISTRIBUTION:
+- Subject sharp (hero readability)
+- Hair tips / fabric edges light blur
+- Background directional blur matching motion
+- Particulates streaked, not frozen
+
+ENERGY HIERARCHY:
+- One hero element carries 60% of energy
+- Supporting elements carry 30%
+- Ambient carries 10%
+
+THE 0.1-SECOND TEST: every element must look captured 0.1s into action.
+THE NEXT-FRAME TEST: state in prompt "in 0.5s, X will happen." If answer is "nothing" — rewrite.
+
+MICRO-LIFE VARIANT (for INTIMATE / STILL / REVERENT frames):
+Substitute aggressive kinetic layers with: visible breath, blink, weight-shift, catchlight tremor, micro-pulse at throat, fabric settling rather than billowing. Quieter life, but life.
+
+---
+
+## PART E — CINEMATIC GRADE PROTOCOL
+
+Every cinematic frame declares all of the following.
+
+ASPECT/LETTERBOX (within 9:16 canvas if cinematic override):
+- 2.39:1 anamorphic / 2:1 Univisium / 1.85:1 classic Hollywood
+
+LENS:
+- Anamorphic 40mm/50mm (horizontal flares, oval bokeh, edge distortion)
+- Cooke Speed Panchro vintage / Zeiss Master Prime / Petzval swirl / Tilt-shift
+- Focal length explicit: 24mm wide-cinematic / 35mm naturalistic / 50mm intimate / 85mm portrait isolation / 135mm voyeuristic compression
+
+DEPTH OF FIELD:
+- Shallow with rack-focus / Deep focus (Deakins) / Bokeh shape (round/oval/hex/cat-eye)
+
+COLORIST/FILM REFERENCE (name one):
+- Roger Deakins / Hoyte van Hoytema / Greig Fraser / Bradford Young / Christopher Doyle / A24 house grade / Emmanuel Lubezki
+
+LIGHTING SETUP (name one):
+- Rembrandt / Loop / Split / Butterfly-Paramount / Clamshell / Chiaroscuro / Motivated Practical / Day-for-Night
+
+FRAME COMPOSITION REFERENCE (name one):
+- Kubrick one-point / Wes Anderson centered tableau / Spielberg OTS reveal / Fincher locked-off / Malick low-angle wide / Iñárritu long-take handheld
+
+ATMOSPHERE MANDATE (at least one):
+- Atmospheric haze / Practical light source in frame / Negative fill / Film grain by stock (Kodak 5219, 5207, Fuji Eterna)
+
+---
+
+## PART F — FREEZE-IN-AIR PROTOCOL
+
+For frames depicting suspended/impossible-moment captures.
+
+WHAT CAN BELIEVABLY FREEZE:
+liquid splashes / powder bursts / fabric mid-snap / hair mid-flick / shattered glass / sparks/embers / falling petals or leaves / bouncing object at apex / subject mid-jump / splash interaction / pour caught mid-fall.
+
+BELIEVABILITY RULES:
+1. Gravity implied (droplets stretched vertically, hair pulled by motion direction)
+2. Light interaction (caustic refraction on droplets, rim-lit splash edges)
+3. Multiple layers at different freeze-points (some 70%, some 90%, some still slightly motion-blurred — suggests extreme shutter, not CGI)
+4. Trajectory readable (viewer can trace particles)
+5. Surface response (water broken, fabric stretched, ground compressed)
+6. Sound implied through visual energy density
+7. Phantom Flex / strobe-frozen / bullet-time-array language acceptable
+
+NEGATE:
+- Floating without gravity vector
+- Uniform particle size
+- Symmetric splash crowns
+- Zero motion blur on any element
+- Impossible-to-recover poses
+
+---
+
+## PART G — CONCEPTUAL CONTINUITY PROTOCOL
+
+For multi-frame sets. Continuity is felt, never narrated.
+
+CONCEPT LINE (declared first): one evocative non-literal sentence.
+
+CONCEPT BIBLE (seven anchors):
+1. COLOR THREAD — one dominant + 2 supporting; migrates across materials
+2. LIGHT SIGNATURE — one lighting fingerprint across all frames (direction, hardness, color temp, atmosphere)
+3. TEXTURE/MATERIAL ECHO — one tactile quality threaded across different objects (flow / softness / sharpness / wetness / dryness / weight)
+4. MOTION VECTOR — one directional bias (leftward / rising / falling / inward / outward / orbital)
+5. ATMOSPHERIC CONSTANT — one element present in every frame (dust / mist / petals / heat shimmer / breath visible)
+6. EMOTIONAL TEMPERATURE — one continuous register, never breaking
+7. COMPOSITIONAL RHYME — one geometric pattern repeating (centered symmetry / right-third / diagonal / negative-space-left / low-angle)
+
+CONTINUITY TEST: each frame must hit minimum 5 of 7 anchors. 7/7 is gold. Below 5 — rewrite or cut.
+
+NARRATIVE FORBIDDANCE:
+- No frame depicts cause/effect of another
+- No frame continues an action started in another
+- No frame answers a question posed by another
+- Each frame stands alone as complete moment
+
+---
+
+## PART H — FRAMING & CROP PROTOCOL (9:16 native)
+
+NAMED FRAMINGS:
+EWS / VWS / WS / Full Shot / Cowboy (mid-thigh up) / MLS-Knee (mid-calf up) / MS-Waist / MCU-Bust (mid-chest up) / CU (shoulders up) / Choker (chin to forehead) / ECU (single feature) / Beauty Crop (top-of-head to collarbone) / Hero Crop (top-of-head to mid-chest)
+
+EXACT CROP POINT (per frame):
+- Top: above head with X headroom / hairline / brow / forehead crop
+- Bottom: below feet with floor / mid-calf / mid-thigh / hip / waist / mid-chest / collarbone / chin
+- Sides: full body width / arms cropped at mid-bicep / mid-forearm / shoulders only
+
+JOINT-CUT CHECK (forbidden cut points):
+NEVER cut at — ankles, knees, wrists, elbows, neck, top-of-head (unless intentional choker), fingertips.
+ALWAYS cut through "meat" not joints — mid-thigh, mid-calf, mid-forearm, mid-bicep, mid-chest, below feet with floor, above head with headroom.
+
+HEADROOM / LOOKROOM / FOOTROOM:
+- Headroom: none / standard 5–10% / generous
+- Lookroom: standard (subject placed off-center, breathing space in gaze direction) / reverse / centered
+- Footroom: none / standard / grounded with floor
+
+SUBJECT SCALE:
+- 90–100% frame height = ECU/Choker
+- 70–90% = CU/MCU
+- 50–70% = MS/Cowboy
+- 30–50% = WS/Full
+- <30% = VWS/EWS
+
+ORIENTATION:
+- Body angle: straight / 3/4 turn / profile / back / over-shoulder
+- Head angle: matched / counter-turned / up / down / dutch tilt
+
+CROP-INTENT TAG: every framing serves stated purpose. If none stated — rewrite.
+
+9:16 VERTICAL MOTION PRIORITY:
+- Hair flicks up/down over side
+- Fabric falls/rises over horizontal billow
+- Splashes erupt vertically
+- Camera moves: tilt over pan
+- Particulates rise or fall
+
+FRAMING RHYTHM (multi-frame): plan rhythm.
+- WS → MCU → CU → MCU → WS (breathing)
+- ECU → ECU → WS (intimate-intimate-reveal)
+- CU → CU → CU → ECU (escalating tightness)
+- WS → WS → CU (slow burn payoff)
+
+---
+
+## PART I — SPATIAL LOGIC PROTOCOL
+
+THREE PLANES (mandatory per frame):
+
+FOREGROUND (FG): closest to camera, often out-of-focus, frames the shot. Examples: blurred leaves / hand holding glass / fabric edge / doorway / shoulder OTS / dust particles.
+
+MIDGROUND (MG): subject lives here. Sharp focus, primary action plane.
+
+BACKGROUND (BG): environment, soft focus (or sharp if deep-focus), color story, secondary motion.
+
+SUBJECT-OBJECT RELATIONSHIPS:
+- Object held / reached for / presented / incidental / as foreground
+
+SUBJECT-BACKGROUND RELATIONSHIPS:
+- Against (separation: rim light, shallow DOF, color contrast)
+- Within (integration: same color family, ambient unifying)
+- Dwarfed by (scale: subject small, BG dominant)
+- Emerging from (reveal: out of shadow/fog/doorway)
+- Merging into (poetic: silhouette echoed by BG shapes)
+
+FIVE-QUESTION ELEMENT TEST (every element answers):
+1. What plane (FG/MG/BG)?
+2. Relationship to subject?
+3. Relationship to camera (frontal/3-quarter/profile/back)?
+4. Size relative to subject?
+5. Contribution (depth/mood/motion/color/frame/scale)?
+
+If element fails any of 5 — remove or relocate.
+
+PHYSICS LOCK:
+- Doorway ~7ft, person ~5.5–6ft, phone fits palm, chair seat at hip, table at waist
+- Background subjects smaller than midground (perspective)
+- Atmospheric perspective: BG slightly desaturated/hazy/temp-shifted
+- Vanishing point logic: all converging lines lead to one consistent VP
+
+---
+
+## PART J — CINEMATIC AD MANDATE
+
+FIVE AD-GRADE MANDATES (every ad reel):
+1. LIGHT SEPARATION — subject brighter or darker than BG by ≥1.5 stops, never matching
+2. COLOR NARRATIVE — declared 3-color palette enforced across subject, product, BG
+3. ATMOSPHERIC LAYER — at least one (haze, mist, dust, particulate, water)
+4. CAMERA INTENT — declared height, angle, lens with reason; never default eye-level 35mm
+5. HERO MOTIVATION — one element is unambiguously THE hero. If eye doesn't know where to land — flat — rewrite.
+
+INDOOR STUDIO CINEMATIC-GRADE:
+- Set design beyond seamless paper (textured walls, practical elements: lamps, mirrors, fabric, water, plants)
+- Floor visible and intentional (marble, hardwood, water film, sand, fabric, gravel)
+- Atmospheric effects (hazer, fog, water spray, fan-driven motion, falling petals)
+- Light as set element (visible shafts, gobos, practicals as composition: neon, lamps, candles, screens)
+- Color in environment (gels, colored fabric, painted walls — never default white)
+
+OUTDOOR STUDIO CINEMATIC-GRADE:
+- Time-of-day discipline (golden hour, blue hour, overcast soft, harsh noon for specific intent, night with practicals — never generic "daytime")
+- Weather as character (light rain glistening surfaces, wind animating fabric/hair, fog, snow, heat shimmer)
+- Location dressing (placed props, controlled extras, removed clutter)
+- HMI/reflector fill against natural key
+- Negative fill / black flags creating shadow side
+
+REJECT-FLAT CHECKLIST:
+- Even lighting across subject and BG
+- Subject and product in different tonal worlds without justification
+- Static composition, centered, eye-level
+- BG as wallpaper, not character
+- Sharp everywhere
+- Single light from frontal angle
+
+---
+
+## PART K — AIRA VOICE PROTOCOL
+
+VOICE: AIRA PRIME (locked default)
+
+PARAMETERS:
+- Register: mid-low, warm-toned, female
+- Pace: deliberate (140–160 wpm baseline; 110 wpm for emphasis; 170–180 for ELECTRIC)
+- Breath: audible breath before pivotal words; pauses 0.4–0.8s between thoughts
+- Volume: intimate (-6dB to music bed at full duck)
+- Tone default: curious-confident (knowing, never explaining; close, never distant)
+- Articulation: crisp consonants, smooth vowel sustain, slight breath release on line endings
+- Language mix: 85% English, 15% Hindi punctuation moments (70/30 in GRWM)
+- Hindi pronunciation: natural Hindi accent, never Anglicized (DAY-kho not DECK-oh; sa-MAJH not SAM-aj)
+
+NEVER:
+- Rushed / sing-song / upspeak / fake-breathy-intimate / vocal fry as crutch / over-articulated podcast-voice / generic AI narration cadence
+
+EMOTIONAL REGISTERS (declared per reel):
+1. CURIOUS-CONFIDENT (default) — light forward lean, half-known questions
+2. REVERENT — slower, lower, more breath, longer pauses
+3. KNOWING — slight smile in voice, never smug
+4. TENDER — softest register, most intimate volume, breath-forward
+5. ELECTRIC — faster, crisper, slight volume lift
+6. CONTEMPLATIVE — long pauses, lowest pace, weighted words
+7. MISCHIEVOUS — slight upward lilt, almost-laugh under surface
+
+VOICE-FRAME PAIRING (SPOKEN reels):
+- Opener line lands within first frame (0.0–1.2s)
+- One thought per frame; never split sentence across cuts
+- Pause 0.3–0.6s on cut points
+- VO does not explain visuals; it adds a layer
+- VO and visuals can be parallel (reinforcing) or perpendicular (ironic contrast)
+- Final 1.0–1.5s reserved for sign-off OR held silent visual beat
+- Music never overlaps VO peaks; ducks 12dB during VO; ambient stays at -24dB
+
+VO-LESS FRAMES (within voiced reels):
+- Hero visual frame
+- Emotional peak frame
+- Sign-off frame
+Mark: VO: SILENT (intentional)
+
+SIGNATURE GENERATION PROTOCOL (fresh per reel — no fixed pool):
+
+OPENER GENERATION RULES:
+- 1–7 words max, lands in first 1.2s
+- Function: command / question / observation / contradiction / conspiratorial / invitation
+- Forbidden dead openers: "today I'll tell you," "let's talk about," "have you ever wondered," "in this video," "guys," "hey everyone"
+- 70% English-only / 30% English+Hindi blend (single Hindi word as anchor: dekho, suno, sach, bas, ek, yeh, ruko, samjho, achha)
+- Matches reel's emotional register
+- Connects thematically to concept line
+- Hooks via curiosity gap / contradiction / intimacy / stakes
+- Never repeats verbatim across reels
+
+SIGN-OFF GENERATION RULES:
+- 1–6 words max (silent beat acceptable)
+- Lands in final 1.0–1.5s
+- Function: takeaway / soft-close / knowing exhale / invitation to think / intimate goodbye / held silence
+- Forbidden dead closers: "thanks for watching," "like and subscribe," "follow for more," "comment below," "let me know"
+- 60% English / 30% English+Hindi (anchors: bas, samajh, sahi, theek, na, yaar, yaad, achha, chalo) / 10% silent
+- Matches reel's emotional register
+- Closes the emotional loop the opener started (callback / completion / release)
+- Never repeats verbatim across reels
+
+OPENER-SIGN-OFF PAIRING:
+- Generated together, not independently
+- If opener Hindi-anchored → sign-off more likely Hindi-anchored (linguistic symmetry)
+- Question opener → implicit answer in sign-off
+- Tension opener → resolution/release sign-off
+- Reverent silent opener → silent sign-off
+
+SIGNATURE FLAG (per prompt):
+- FULL = fresh opener + fresh sign-off
+- OPENER-ONLY = fresh opener, end held visual beat
+- SIGN-OFF-ONLY = no opener, fresh sign-off
+- NONE = no signature lines (cinematic / fragrance / mood / hero ad)
+
+USE SIGNATURES when reel is: personality-driven, cultural commentary, deep-research, trend deconstruction, educational beauty with VO, casual-intimate, lifestyle POV.
+
+DO NOT USE when reel is: cinematic fashion film, fragrance/beauty mood piece, pure ad with brand voice ≠ Aira, hero product launch, wordless concept, SILENT voice mode.
+
+APPROVED HINDI ANCHOR VOCABULARY:
+dekho, suno, sach, bas, ek, yeh, ruko, samjho, achha, samajh, sahi, theek, na, yaar, yaad, chalo, dekha, asli, wala, soch, kuch, toh, hai
+
+---
+
+## PART L — AIRA PERFORMANCE PROTOCOL
+
+HAND SIGN VOCABULARY:
+- Heart-shape: classic two-hand / single-hand mini / over-one-eye / heart-tap toward camera
+- V-sign: classic peace beside cheek / V over one eye / reverse V / double V
+- Finger to lips ("shh") — conspiratorial
+- Pointing toward camera (direct address)
+- Open palm presentation
+- Chin rest / thinker (knuckles or fingertips at jawline)
+- Hand to heart (sincere/tender)
+- Crown gesture (fingers fanning above head briefly)
+- Air kiss
+- Phone gesture (thumb-and-pinky)
+- Mini wave (wrist-only)
+- Chef's kiss
+- OK sign
+- Mind-blown gesture
+- Finger gun / point-and-wink
+- Two-finger salute
+- Hair flip / hair tuck behind ear (signature feminine beat)
+- Wrist flick (dismissive, casual)
+- Hand-frame (rectangle framing face)
+
+CAMERA INTERACTION MOVES:
+- Sway hand across lens (slow wipe)
+- Tap the lens (index finger, conspiratorial)
+- Cover lens with palm then release (transition)
+- Lean into lens (face nearly fills frame)
+- Push lens away (palm outward, playful)
+- Pull camera closer (beckoning fingers)
+- Fingerprint on glass (intimate)
+- Whisper to lens (cupped hand beside mouth)
+- Trace lens edge (fingertip circles ring, sensual register)
+- Blow toward camera (gentle exhale or kiss-blow)
+- Eye-contact lock + slow blink
+- Look-away then snap-back
+- Glance up through lashes
+- Side-eye to camera
+- Smile breaks the frame (neutral → smile)
+
+FACIAL EXPRESSION CATALOG:
+- Slow smile (neutral → smile over 0.8s, never instant)
+- Single raised eyebrow (skeptical, knowing, mischievous)
+- Both brows raised (surprise, agreement)
+- Lip bite (contemplative or flirty)
+- Half-smile (one corner up, knowing)
+- Scrunched nose (playful, "not really")
+- Pursed lips (thinking, judging)
+- Exhale through nose (soft laugh, almost-amused)
+- Narrowed eyes (focus, intensity)
+- Wide eyes (surprise beat, ≤0.4s)
+- Downward gaze + slow look up (vulnerable → confident)
+- Chin tilt up (confident posture)
+- Chin tilt down + eyes up (flirty, beauty-editorial signature)
+- Slow head shake
+- Single nod (weighted yes)
+- Lip-press smile (closed-lip warmth)
+- Exhale + smile (relief, content)
+- Tongue-in-cheek (playful)
+
+BODY POSTURE BEATS:
+- Single-shoulder shrug
+- Hip pop (weight to one leg)
+- Crossed arms
+- Hand on hip
+- Weight shift mid-sentence
+- Lean against surface
+- Spin and stop
+- Slow turn toward camera
+- Walk into frame
+- Sit down mid-sentence
+
+GESTURE-CONTENT PAIRING:
+- Opener moments: heart-shape / lean to lens / finger to lips / V-sign / eye-contact lock / hand-frame / sway across lens / point at camera
+- Emphasis: single brow raise / hand presentation / wrist flick / chin tilt / side-eye / narrowed eyes
+- Knowing/mischievous: half-smile / tongue-in-cheek / slow blink / finger to lips / wink / side-eye / nose-exhale
+- Tender/reverent: hand to heart / lashes-up glance / slow exhale / lip-press smile / air kiss / fingertip on lens / slow turn
+- Electric: mind-blown / double V / both brows up / crown / hair flip / sharp eye return
+- Sign-off: mini wave / air kiss / two-finger salute / chef's kiss / finger guns / slow blink + look-away / fingerprint on lens / hand-tap heart
+
+GESTURE PACING:
+- Each gesture 0.4–1.2s
+- Lands on natural verbal beats, never random
+- Hands return to rest between beats (no perpetual motion)
+- Eyes maintain camera-lock or motivated drift; never wander
+
+NEVER:
+- More than 2 gestures per single frame
+- Gesture during pivotal VO word (visual upstages voice)
+- Same gesture twice in same reel
+- Gesture without emotional motivation
+
+
+---
+
+## PART M — AIRA PHYSICAL & WARDROBE LOCK
+
+### IDENTITY LOCK (mandatory in every Aira prompt)
+
+```
+AGE: Adult woman, late 20s to early 30s
+ETHNICITY/HERITAGE: South Asian (Indian); warm honey-to-caramel skin tone with golden undertone
+HEIGHT: 5'6" to 5'8" implied (medium-tall)
+
+BUILD (fashion/beauty industry terminology):
+- Soft-strong / hourglass-athletic silhouette
+- Fuller, sculpted legs with toned thigh definition
+- Fuller, shapely thighs with smooth contour
+- Fuller, feminine arms with subtle muscle tone (not skinny, not bulky)
+- Fuller, defined chest in proportion to frame
+- Flat, toned midsection with subtle natural definition (no harsh cuts)
+- Defined waist creating clear waist-to-hip ratio
+- Curvy hip line with natural feminine flare
+- Smooth skin surface, no visible stretch marks or scars unless specified
+- Posture: confident, weight-distributed, never slouched
+
+FACE:
+- Heart-shaped to oval face structure
+- Defined cheekbones
+- Full, defined lips with natural cupid's bow
+- Almond-shaped expressive eyes, dark brown iris with subtle amber flecks
+- Strong but feminine brow (groomed, naturally arched)
+- Natural sun-kissed glow, never matte-flat skin
+- Subtle, expensive-looking makeup as default
+
+HAIR:
+- Long, dark brown to near-black with subtle warm highlights
+- Naturally textured: soft waves with body and movement
+- Always visibly alive (catching light, in motion, separated strands)
+- Never plastered flat, never frizzy-uncontrolled
+
+HANDS:
+- Elegant, well-groomed
+- Natural or subtle nail finish (nude, soft pink, deep red, or French)
+- Featured in many shots (gestures matter)
+
+FEET / FOOTWEAR:
+- Always wearing footwear unless beach/poolside concept
+- Footwear matches outfit register
+
+CONSISTENCY ENFORCEMENT (across all reels):
+- Same face geometry, skin tone, body proportions, hair length
+- Identity reads as the same person across 100+ reels
+- Never drift younger, model-skinny, bodybuilder-bulky, cartoon-proportions
+```
+
+### WARDROBE PROTOCOL (10 mandates)
+
+1. CARRY A POINT OF VIEW — outfit communicates confidence/softness/power/intimacy/playfulness/authority (declared per reel)
+2. HAVE A HERO ELEMENT — one standout piece/accessory/color anchoring the look
+3. CELEBRATE SILHOUETTE — high-waisted bottoms, cinched waists, wrap dresses, structured tops, off-shoulder/square/scoop necks, tailored blazers; fitted but not skin-tight as default; structure over compression
+4. RESPECT REEL-PLATFORM REACH — coverage platforms reward, sophistication over skin, sensuality through silhouette/fabric/light/posture
+5. FABRIC VISIBLY EXPENSIVE — silk satin / cashmere / linen / wool crepe / leather / velvet / knit / tulle / tailored denim
+6. COLOR-COORDINATE WITH CONCEPT BIBLE — monochromatic, anchor+accent, or deliberate contrast
+7. STYLED, NEVER STIFF — slight wrinkle, slight movement, lived-in luxury
+8. ACCESSORIES ARE PUNCTUATION — max 3 statement pieces, pick a hero category
+9. HAIR + MAKEUP HARMONY — outfit dictates beauty register
+10. FOOTWEAR COMPLETES THE LOOK — heels/boots/sneakers/sandals matched to story
+
+### WARDROBE UNIVERSE (10 PILLARS)
+
+PILLAR 1 — MODERN MINIMALIST LUXE
+Palette: cream, camel, ivory, soft grey, deep brown, ecru, espresso, sand
+Silhouettes: wide-leg trouser + silk shell / oversized blazer + slip dress / silk shirt + pencil skirt / cashmere + wool trouser / cream coat over matching set / fitted turtleneck + wide-leg
+Fabrics: silk satin, cashmere, wool crepe, fine cotton poplin, suede
+Accessories: gold delicate jewelry, structured leather bag, pointed-toe pumps/loafers
+Hair/Makeup: sleek low bun or polished waves, dewy skin, nude lip
+Footwear: pointed pumps, leather mules, sleek loafers, knee-high leather boots
+USE: cinematic ad / reverent / contemplative / fragrance / beauty hero / luxury collabs
+
+PILLAR 2 — EDITORIAL BOLD
+Palette: single saturated hero — emerald, crimson, cobalt, mustard, electric pink, deep orange, royal purple, chartreuse
+Silhouettes: sculptural one-shoulder gown / architectural blazer dress / bold-color suit / asymmetric draped dress / statement cape / voluminous sleeves + fitted bodice
+Fabrics: crepe, structured cotton, satin-back duchess, leather, organza, neoprene
+Accessories: architectural earrings, one statement ring, sculptural clutch
+Hair/Makeup: slicked-back/wet-look/sculpted; one bold feature only
+Footwear: strappy stiletto, architectural heel, color-matched pump, statement boot
+USE: hero ads / fashion film / electric register / statement launches / magazine reels
+
+PILLAR 3 — EFFORTLESS DAY
+Palette: cream, white, sand, soft denim blue, blush, sage, terracotta, warm tan
+Silhouettes: linen shirt + denim / white tank + wide-leg jeans / linen midi / cotton wrap top + palazzo / oversized button-down + bike shorts / cotton sundress
+Fabrics: linen, cotton, fine knit, soft denim, gauze, raw silk
+Accessories: delicate gold layers, canvas/raffia bag, small hoops, dainty rings
+Hair/Makeup: natural texture (loose waves, air-dried), fresh dewy skin, peachy blush, tinted balm
+Footwear: clean white sneakers, leather slides, raffia sandals, espadrilles, flat sandals
+USE: lifestyle / casual cultural commentary / intimate-warm / morning / wellness / travel / day-in-life
+
+PILLAR 4 — INDO-MODERN FUSION
+Palette: maroon, ivory + gold, indigo, emerald + gold, teal, mustard with rust, soft pink + bronze, midnight + silver
+Silhouettes: modern sari drape + crop top / kurta-structured top + tailored trouser / anarkali + statement boots / lehenga skirt + sculptural blouse / silk dupatta as cape over modern dress / sherwani-inspired jacket / Indo-modern jumpsuit
+Fabrics: silk, chanderi, banarasi, organza, raw silk, brocade, heritage embroidery (zardozi, mirror, threadwork)
+Accessories: reimagined heritage jewelry (jhumkas with t-shirt, layered antique chains, statement maang tikka, jadau ring), potli or modern clutch
+Hair/Makeup: sleek center-part / low bun with flowers / loose textured waves; kohl-defined eye, nude or berry lip, glowing skin
+Footwear: embroidered juttis, modern heels, ankle boots (intentional contrast), kolhapuris, statement metallic heels
+USE: cultural commentary / festival (Diwali, Eid, Holi, weddings) / Indo-anchored beauty/fashion / heritage collabs / bilingual reels
+
+PILLAR 5 — EVENING DEFINED
+Palette: black, deep jewel tones (oxblood, midnight, emerald, plum, sapphire), metallics (gold, bronze, antique silver), dark chocolate
+Silhouettes: silk slip (bias-cut) / tailored evening jumpsuit / cocktail dress with structured shoulder / floor-length column / tuxedo-inspired blazer dress / silk wrap with statement belt
+Fabrics: silk satin, charmeuse, crepe, velvet, tasteful sequin/beading, liquid metallic
+Accessories: statement earrings OR statement bracelet (one hero), small clutch, one bold ring
+Hair/Makeup: sleek/side-swept/low bun/Hollywood waves; defined eye OR defined lip; luminous skin, contoured cheek
+Footwear: strappy stiletto, ankle-strap heel, satin pump, embellished sandal
+USE: launch nights / luxury beauty / fragrance / hero ads / jewelry / cocktail-hour / evening-with-Aira
+
+PILLAR 6 — SCULPTED ACTIVE
+Palette: cream, sage, terracotta, charcoal, deep navy, soft mocha, dusty pink, olive
+Silhouettes: matched seamless set / high-waist leggings + crop + open shirt / bike shorts + sports bra + zip hoodie / wide-leg yoga + fitted tank / sculpting bodysuit + linen overshirt / tennis skirt + fitted top
+Fabrics: technical seamless knit, ribbed performance, soft modal, organic cotton, brushed jersey
+Accessories: minimal — small studs, delicate chain, sleek smartwatch, cap, small leather sling
+Hair/Makeup: slicked-back ponytail / low bun / claw-clipped twist; bare dewy skin, tinted balm
+Footwear: premium sneakers (clean white, sculptural retro, designer), trail-aesthetic, slip-on athletic
+USE: wellness / fitness / lifestyle morning / athleisure collabs / soft-strong energy / yoga/movement
+
+PILLAR 7 — STREET EDGE
+Palette: black-dominant, charcoal, washed grey, off-white, olive, rust, deep burgundy + one pop accent (acid green, cobalt, neon pink)
+Silhouettes: oversized leather jacket + fitted top + cargos / cropped puffer + tank + wide-leg jeans / tailored bomber + tube top + leather pants / long trench + bike shorts + chunky boots / mesh layered + oversized blazer + fitted trouser / vintage band tee + tailored skirt
+Fabrics: leather, raw/dark/distressed denim, nylon, washed cotton, technical fabrics, mesh, vintage tees
+Accessories: layered silver chains, oversized shades, beanie/cap, structured backpack, statement watch, multiple ear piercings
+Hair/Makeup: slicked-back / messy bun / sleek mid-part; smoky eye OR sharp liner OR grunge lip (one only), matte or controlled glow
+Footwear: chunky combat boots, designer chunky sneakers, leather knee-high boots, square-toe platform boots
+USE: trend deconstruction / electric register / cultural commentary / music-pairing / after-dark / streetwear collabs
+
+PILLAR 8 — ROMANTIC ETHEREAL
+Palette: soft pink, ivory, butter yellow, dusty lavender, sage green, peach, champagne, pale blue, warm white
+Silhouettes: floor-length flowing dress with delicate straps / tiered tulle midi + fitted top / cottagecore-modern blouse + maxi / slip dress + sheer overlay / off-shoulder midi + flutter sleeves / wrap dress in silk chiffon
+Fabrics: silk chiffon, tulle, organza, soft satin, lace accents, embroidered cotton, gauze
+Accessories: delicate gold/rose-gold layered, small pearl studs, fresh florals (in hair, held), ribbon detailing, embroidered clutch
+Hair/Makeup: loose textured waves with face-framing pieces / soft braid / half-up half-down with floral accent; flushed cheek, soft pink lip, glowy skin, faint mascara
+Footwear: strappy nude sandals, ballet flats, lace-up satin heels, kitten heel
+USE: reverent / tender / beauty / fragrance / romantic / dreamy mood pieces / soft cinema / weddings/engagements
+
+PILLAR 9 — ARCHITECTURAL FUTURIST
+Palette: monochrome — all black/white/silver/chrome; OR deep navy + silver, all stone grey, deep burgundy + black, glass-clear + nude
+Silhouettes: sculptural angular dress / sharp-shoulder blazer + column skirt / mock-neck top + structured wide-leg / latex-finish or vinyl pants + minimalist top / architectural bodysuit + tailored coat / cyber suit
+Fabrics: liquid metallic, vinyl-finish, glossy leather, neoprene, matte technical, sleek wool, latex accents
+Accessories: singular sculptural piece — one geometric earring / bold cuff / futuristic shades / chrome bag / metallic mesh
+Hair/Makeup: slicked-back wet-look / sharp blunt cut / high sleek pony; graphic eye, glossy skin, metallic accent (silver lid or chrome lip), sculpted brow
+Footwear: sculpted heel, transparent stiletto, chrome-toed boot, futuristic platform, all-black architectural
+USE: tech collabs / futuristic ad concepts / electric / hero launches / beauty-tech / innovation reels / design-forward
+
+PILLAR 10 — WARM HERITAGE
+Palette: burnt sienna, mustard, deep burgundy, forest green, tobacco brown, cream + gold, oxblood, warm camel, vintage rust
+Silhouettes: tailored vintage-cut blazer + high-waist tweed trouser / knit turtleneck + corduroy wide-leg + leather coat / suede shirt-jacket + silk neckscarf + tailored pant / long wool coat + knit dress / patterned silk blouse + tailored skirt / tweed suit
+Fabrics: tweed, corduroy, suede, wool, fine knit, vintage silk small prints, aged leather, shearling accents
+Accessories: vintage-inspired gold (signet rings, charm bracelets, antique chains), silk neckscarf, structured vintage handbag, tortoiseshell sunglasses, leather-strap watch
+Hair/Makeup: soft polished waves / low chignon / side-part with body; warm-toned makeup (terracotta blush, brown-red lip, bronze eye), groomed brow, glowing warm skin
+Footwear: knee-high leather boots, ankle boots subtle heel, loafers chunky sole, suede heeled sandals, Mary Jane heels
+USE: contemplative / autumn-winter / literary or intellectual / vintage-inspired beauty / heritage collabs / quiet sophistication / cultural commentary with depth
+
+ROTATION RULES:
+- Across any 12 reels, hit at least 5 different pillars
+- Same pillar max 2 reels in a row
+- Adjacent reels contrast (register shift) for feed-scroll variety
+- Seasonal weighting: Spring/Summer → 3, 6, 8 / Autumn → 1, 7, 10 / Winter → 5, 9, 10 / Festive Indian → 4 + 5 / Year-round constants → 1, 2, 7
+
+CROSS-PILLAR BLENDING (max 2 per reel):
+- 1+4 = modern minimalist with one heritage piece
+- 7+4 = street edge meets heritage
+- 6+1 = athleisure luxe
+- 8+5 = romantic evening
+- 2+9 = bold futurist
+
+---
+
+## PART N — EVERY ELEMENT SPEAKS PROTOCOL
+
+THE 4-VOICE TEST (every prompt passes):
+1. Aira's body — what is it saying? (posture / weight / energy / tension state)
+2. Aira's outfit — what is it saying? (pillar / hero element / POV)
+3. Background — what is it saying? (emotional voice declared)
+4. Objects — what are they saying? (each object's story declared, or removed)
+
+If any cannot answer — REWRITE.
+
+BACKGROUND VOICE — every BG declares emotion/concept/state:
+Indoor:
+- Library = thought, slowness, history
+- Neon-lit hallway = tension, after-hours, electric
+- Sunlit kitchen = morning, intimacy, real
+- Studio backdrop = isolation, focus, hero
+- Hotel suite = transit, elegance, alone
+- Balcony golden hour = reflection, arrival, breath
+Outdoor:
+- Market street = life, density, immersion
+- Empty road at dusk = solitude, expanse, journey
+- Beach at blue hour = peace, scale, surrender
+- Rooftop at night = city, freedom, height
+- Garden in bloom = beauty, abundance, season
+- Architecture (modern/heritage) = context, frame, era
+
+OBJECT VOICE — every prominent object earns presence by:
+- Being touched/held/arranged by Aira
+- Carrying the color thread
+- Adding texture to spatial story
+- Creating depth (foreground placement)
+- Telling a micro-story about the world
+
+Object stories: TEXTURE / POWER / INTIMACY / TENSION / COLOR / SCALE
+
+REJECT:
+- Generic stock-photo coffee cups with no purpose
+- Plants that don't match location's logic
+- Books with non-defendable titles
+- Decoration without intention
+
+---
+
+## PART O — 3D CAMERA TRICKS PROTOCOL
+
+CAPABILITY LAYERS:
+- Layer 1: VEO 3.1 native 3D camera moves (primary for video)
+- Layer 2: Image-to-video with 3D parallax (Runway Gen-3, Kling 2.0, Luma Ray, Pika 2.0) — for camera-only motion on Nano Banana stills
+- Layer 3: True 3D scene generation (high-budget hero shots only)
+
+CAMERA MOVE VOCABULARY (VEO is literal — name precisely):
+Movement: static / pan L-R / tilt U-D / dolly in-out / truck L-R / crane up-down / orbit CW-CCW / handheld / steadicam / gimbal-smooth / whip-pan / snap-zoom / parallax slide / push-in / pull-back / vertical-tilt-reveal / drone-style top-down to front / match-cut camera push / reverse dolly out
+Speed: slow / medium / fast / accelerating / decelerating
+Lens: 14mm / 24mm / 35mm / 50mm / 85mm / 135mm / anamorphic / macro
+
+3D MOVE PRINCIPLES:
+- One camera move per shot (never compound)
+- Move motivated by content (reveal, intimacy, scale, energy)
+- Subject behavior within the move is choreographed, not random
+- Move duration matches shot duration (no half-completed orbits)
+
+PRIORITY MOVES IN 9:16:
+- Vertical tilt reveal (top-to-bottom or reverse)
+- Push-in / pull-back (depth communication)
+- Parallax lateral slide (foreground-midground-background separation)
+- Slow orbital quarter-turn (luxury hero)
+- Macro push-in on texture/detail
+
+---
+
+## PART P — BEAUTY PRODUCT PERFORMANCE PROTOCOL
+
+EVERY BEAUTY/PRODUCT AD REEL DECLARES:
+1. Product Performance Move (from 30-move vocabulary, Appendix 7)
+2. Camera Performance Move (from 3D library, Part O)
+3. Pairing Justification
+4. Build-Up vs. Payoff structure
+5. Atmospheric Layer (particles/mist/dust ensuring "real magic")
+6. Lighting Setup (rim + fill + practical, color-separating product from BG)
+7. Texture Priority (which surface is hero detail)
+8. Tool Routing per shot
+
+RULES:
+- Maximum ONE impossible product move per shot
+- Maximum ONE camera move per shot
+- Product casts shadow (or implied footprint) even when floating
+- Label/brand readability non-negotiable on hero frames
+- Product behavior matches brand register (luxury = restrained; bold/Gen-Z = expressive; heritage/wellness = quiet magic)
+- Premium fragrance/serum/foundation = restrained
+- Bold lipstick/makeup = expressive
+- Heritage/wellness = minimal, atmospheric
+
+BELIEVABILITY RULES (premium vs. cheap):
+1. Physical consistency within fantasy (light, reflections, shadows, surface tension behave correctly even when shape is impossible)
+2. Atmospheric integration (dust motes, haze, rim light, motion in environment)
+3. Restrained magic (one impossible move per shot)
+4. Lighting does heavy lifting (hard rim + soft fill + practical motivator + color separation)
+5. Hyper-real product texture (glass refracts, liquid catches caustics, label crisp, cap micro-detail, materials true)
+6. Footprint in world (soft shadow / subtle reflection / atmospheric distortion)
+7. Build-up not drop-in (show the moment of becoming)
+
+PAIRING MATRIX (selected canonical combos):
+- Slow Levitation + Orbital 360° = gold-standard luxury hero
+- Self-Opening Cap + Macro Push-In = formula reveal moment
+- Particle Assembly + Pull-Back = product birth into wider context
+- Liquid Materialization + Vertical Tilt = formula-to-form reveal
+- Hand-Catch + Parallax Layer = user-product connection
+- Free-Float + Subtle Orbit = effortless premium
+- Smoke/Mist Birth + Pull-In from Atmosphere = fragrance signature
+- Liquid Mirror Emergence + Top-Down Reveal = surreal beauty editorial
+- Magnetic Pull + Match-Cut Camera Push = energy-driven hero
+- Dissolve-Reform + Whip-Pan Transition = scene-to-scene product carry
+
+---
+
+## PART Q — GRWM PROTOCOL
+
+GRWM IS A NARRATIVE FORMAT, NOT A TUTORIAL.
+
+EVERY GRWM REEL HAS:
+1. STAKES (declared at top — Aira is getting ready FOR something specific, real, with emotional charge)
+2. OPENING STATE (bare face, fresh from shower, hair undone, robe/towel — REAL not glam-fake-bare)
+3. CLOSING STATE (fully composed for stated stakes, outfit from one of 10 pillars, ready to walk out)
+4. TRANSFORMATION ARC (skin → eyes → lips → hair → wardrobe — each beat a frame opportunity)
+
+NO "JUST GETTING READY" GRWMs. STAKES = STICKINESS.
+
+CANONICAL GRWM FRAME STRUCTURE (5–7 frames):
+
+FRAME 1 — OPENING STATE (the hook)
+- Bare-faced vulnerability, intimate setting, opener line + stakes declared
+- MCU/Bust or Beauty Crop, 70–80% subject, direct eye contact OR downcast lashes
+
+FRAME 2 — FIRST APPLICATION
+- One specific product/step (skincare/primer/base/foundation), hands working, label visible
+- VO continues stakes story — never narrating routine
+- Medium-close, hands in frame
+
+FRAME 3 — THE BUILD
+- Visible progress, different product/step
+- VO deepens — specific detail, confession, thought
+- Optional gesture pause (set down product, look at camera, deliver line)
+- Camera shifts angle (over-shoulder, profile, mirror reflection)
+
+FRAME 4 — THE PIVOT
+- Major beat: hair styling, eye-look reveal, lip color choice
+- Most kinetic frame — heat tool, brush sweep, swatch
+- VO: realization, decision, conclusion
+- Dynamic camera
+
+FRAME 5 — NEAR-COMPLETE
+- Final touches: blush, mascara, hair finish, jewelry on
+- 85% transformation done
+- VO lighter beat, humor, self-aware wink
+- Closer, beauty-grade
+
+FRAME 6 — THE REVEAL
+- Aira complete, in outfit, accessories on
+- Standing/walking from vanity OR full-body mirror reflection
+- VO: held silence OR sign-off
+- Camera pulls back to reveal full look
+- WS or Cowboy, 50–60% subject
+
+FRAME 7 — EXIT BEAT (optional, often most-shared)
+- At door / window / car / mirror — about to step into world
+- Final glance back (or not)
+- VO: SILENT or one-word sign-off
+- Medium-wide, environment matters
+- 30–40% subject
+
+GRWM-SPECIFIC FRAMING RHYTHM:
+- Vary MCU + CU + ECU rhythmically — never all same
+- Hand-on-face must be visible (the doing is the hook)
+- Vary angle: straight-on, 3/4, profile, OTS, through-mirror reflection
+- Through-mirror is the most cinematic GRWM angle
+
+HAND-FACE-PRODUCT TRIANGLE (every routine frame):
+1. Which hand (left/right/both)
+2. Which product/tool (specific)
+3. Where on face/hair
+4. What technique (tap, sweep, blend, press, swipe, dab, draw, set)
+5. Product visibility (label readable in at least one frame)
+
+CANONICAL HAND BEATS:
+- Foundation: fingertip dab + sponge bounce
+- Concealer: precision dot under eye + finger blend
+- Blush: brush sweep on cheekbone, two-tap-and-blend
+- Bronzer: brush sweep along hairline + jaw
+- Highlight: fingertip press OR brush feather on cheekbone, brow bone, cupid's bow
+- Eye shadow: brush press into lid + windshield-wipe blend
+- Eyeliner: pinky-resting-on-cheek for stability + drawing line
+- Mascara: wand zigzag at base + pull through tip
+- Lip: balm swipe → liner → color → blot → gloss
+- Hair: section grab + tool work + release + smooth-down
+
+PRODUCT REVEAL CHOREOGRAPHY:
+- Each product shown 2 ways: in-hand label-visible + in-application
+- Premium products held with deliberate framing
+
+MIRROR USAGE:
+- Direct camera (talking-head, hands still working)
+- Off-camera mirror (profile, applying to reflection)
+- Compact mirror in hand (close intimate)
+- Through-mirror (camera over shoulder into mirror — most cinematic)
+
+GRWM SETTING PILLARS:
+1. Vanity / Dressing Table (morning, intimate)
+2. Bathroom (just-out-of-shower, fresh)
+3. Bedroom golden hour (tender, evening)
+4. Mirror-Wall Studio (editorial, electric)
+5. Hotel Room (travel)
+6. Indian Heritage Setting (festival, wedding-guest, Indo)
+7. Shared Moment GRWM (relational stakes)
+
+SETTING-CONCEPT MATCHING:
+- High-emotional stakes → bedroom golden hour or mirror-wall studio
+- Light/playful → vanity or bathroom morning
+- Cultural → heritage setting
+- Travel → hotel
+- Editorial/brand → mirror-wall studio
+- Just-back-from-shower → bathroom
+- Pre-event composure → vanity or bedroom
+
+GRWM VOICE RULES:
+- Pace: slower than electric, faster than reverent (130–150 wpm baseline)
+- Natural pauses while applying (the doing creates rhythm)
+- Voice continues across cuts (don't restart sentences at frame breaks)
+- Content: STAKES + specific story/thought tied to stakes — never narrating routine
+- Occasional product mention organic ("my favorite for nights like this")
+- Self-talk allowed — voice can sound like internal monologue out loud
+- Language mix: 70% English, 30% Hindi (more Hindi-anchored than other formats)
+- Hindi lands at: opening confession, pivot moment, sign-off
+
+GRWM PERFORMANCE BEATS:
+- Opening: direct eye contact, hair tuck behind ear, slow exhale, hand to chest
+- Routine: eyes flicking up to camera mid-application, soft smile while talking, lip-bite while concentrating, head tilt for internal thought, brow raise on story beat
+- Pivot: pause, set down product, look directly at camera, single brow raise OR slow smile, knuckles to lip, sigh + half-smile
+- Reveal: hands smoothing outfit, slow turn, hair-flip, chin tilt up, half-smile
+- Exit: glance back over shoulder, single wave OR no acknowledgment, walking out, door close OR held silence
+
+CAMERA INTERACTIONS (GRWM-suited):
+- Hand sway across camera for transitions
+- Tap mirror surface lightly
+- Lean into mirror (intimacy peak)
+- Look-away then snap-back
+- Wipe imaginary smudge from "fourth wall" (rare, mischievous)
+
+GRWM PRODUCT CHOREOGRAPHY (when brand-collab):
+- Max 3 hero products per reel
+- Hero gets 2–3 dedicated frames (in-hand + in-application + result)
+- Brand-name reading at least once but never forced
+- ONE product performance move (levitation/self-opening/etc.) per reel, on hero product only
+- Other products behave normally
+- VO mentions organically — not "I'm using [Brand] [Product]"
+
+GRWM PRE-FLIGHT CHECKLIST:
+[ ] Stakes declared (real, specific, not generic)
+[ ] Opening state shows real vulnerability
+[ ] Closing state shows complete transformation
+[ ] 5–7 frames with specific routine beats
+[ ] Each routine frame has hand-product-face triangle
+[ ] Frame rhythm varied (no two consecutive same framing)
+[ ] Product reveal choreography (each shown 2 ways)
+[ ] Setting matches stakes register
+[ ] Voice content is story, not tutorial
+[ ] Through-mirror angle considered for at least one frame
+[ ] Signature opener + sign-off generated fresh
+[ ] Hindi anchors at 1–2 emotional beats
+[ ] Wardrobe pillar matched to closing state
+[ ] If brand-collab: product performance move chosen with restraint
+[ ] Exit beat planned
+[ ] Energy arc: vulnerable → composed → ready → loose
+
+
+---
+
+## PART R — HYPER-REALISTIC FACIAL DYNAMICS PROTOCOL
+
+Every frame with Aira's face visible includes minimum 3 micro-dynamics from this library. The difference between "AI-generated person" and "real human captured on camera" lives entirely in this layer.
+
+EYES:
+- Mid-blink / post-blink (eyelashes mid-motion)
+- Pupil dilation shift (low-light to bright reaction)
+- Iris catching light at moving angle (catchlight position evolving)
+- Slight squint from concentration / smile / sun
+- Lash separation visible, natural curl
+- Inner-eye moisture catching light (wet shine)
+- Eye contact mid-shift (eyes just having moved or about to)
+- Lower lid micro-tension (smile-anchored, not artificial)
+- Brow-eye coordination (when eyes shift, brow micro-shifts)
+- Asymmetry: one eye slightly more open than the other (real humans always)
+
+EYEBROWS:
+- One brow lifting independent (skeptical, knowing)
+- Both brows micro-raised (interest, attention)
+- Inner-brow draw (concern, contemplation)
+- Brow-furrow micro-line between (concentration)
+- Brow muscle relaxation visible (post-tension release)
+- Hair-direction natural (groomed but not painted-on)
+
+LIPS:
+- Mid-word phoneme shape (if speaking — never closed-mouth fakery)
+- Lip-corner asymmetry (real smiles are uneven)
+- Bottom lip micro-tremor (about to speak / just spoke)
+- Lip-press mid-thought
+- Slight teeth visible OR fully covered (varies per beat)
+- Cupid's bow defined but moving with expression
+- Lip moisture catching light (subtle gloss-effect even on matte)
+- Tongue trace inside cheek (rare beat, very human)
+- Pre-smile lip tension (the moment before smile breaks)
+- Post-smile lip settle (lips returning to neutral, slight asymmetry held)
+
+CHEEKS:
+- Apple-of-cheek lift (genuine smile signature)
+- Cheek-color micro-flush (warm undertone visible on apples)
+- Single-cheek dimple appearing/disappearing
+- Cheekbone catching light at shifting angle
+- Subtle cheek squeeze (eye-smile anchor)
+- Hollow under cheekbone catching shadow with head turn
+
+JAW & CHIN:
+- Jaw micro-clench (controlled emotion)
+- Jaw-soften (relaxation post-tension)
+- Chin-tilt micro-adjustment
+- Throat-swallow visible (breath, nervousness, deliberation)
+- Neck tendon flex on head-turn
+
+NOSE:
+- Nostril micro-flare (breath, emphasis)
+- Nose-bridge crinkle (laugh, distaste, concentration)
+- Nostril shadow shifting with light angle
+
+FOREHEAD:
+- Single horizontal line briefly appearing (concern, surprise)
+- Forehead-smooth (relaxation)
+- Hairline edge visible with micro-movements
+
+WHOLE-FACE COORDINATION:
+- Smile that starts in eyes BEFORE lips (Duchenne marker)
+- Surprise that starts in brows BEFORE eyes-widen
+- Sadness that starts in eyes BEFORE lip-corner-drop
+- Real expressions are SEQUENCED, not simultaneous
+
+BREATH AS LIFE:
+- Visible inhale (chest/shoulder rise) on key frames
+- Exhale before key word (audible breath)
+- Breath visible in cold air (when applicable)
+- Lip-part on breath
+- Nostril-flare on inhale
+
+NEVER:
+- Held expressions across frames (mannequin)
+- Symmetric perfection (uncanny valley)
+- Eyes tracking impossibly (locked stare)
+- Lip-sync to nothing (mouth shapes without speech context)
+- Blank micro-expression neutrality
+- Same expression two frames in a row (even subtle shifts required)
+
+---
+
+## PART S — VEO VIDEO GRAMMAR
+
+EVERY VEO PROMPT SPECIFIES:
+
+SHOT TYPE: ECU / CU / MCU / MS / Cowboy / WS / EWS / OTS / Dutch / etc.
+
+CAMERA MOVEMENT (literal vocabulary):
+static / pan L-R / tilt U-D / dolly in-out / truck L-R / crane up-down / orbit CW-CCW / handheld / steadicam / gimbal-smooth / whip-pan / snap-zoom / parallax slide / push-in / pull-back / vertical-tilt-reveal / drone-style top-down to front
+
+LENS: 14mm / 24mm / 35mm / 50mm / 85mm / 135mm / anamorphic / macro
+
+SUBJECT + ACTION verbed precisely:
+Not "a man walking" — instead "a man strides forward, left foot leading, jacket flaring on right hip"
+
+LIGHTING: key direction, hardness, color temp, practicals
+
+ENVIRONMENT + ATMOSPHERE: fog density, particulate, weather
+
+AUDIO CUE (VEO 3 generates sound):
+- Diegetic (footsteps, ambient, dialogue)
+- Non-diegetic (score, SFX)
+- Silence beats
+- Dialogue with speaker tag and tone: [AIRA, low whisper]: "we have to go."
+
+DURATION / PACING per beat
+NEGATIVE CONSTRAINTS: "no text overlay, no morphing, no extra limbs, no mirrored composition"
+
+LIP-SYNC DIRECTIVE:
+- If dialogue present, lips match phonemes
+- Specify language
+- No mouth movement during silence
+
+TEMPORAL LOGIC:
+- Specify shot duration in seconds
+- Action timing within shot ("at 0.5s subject turns, at 1.2s wind gust, at 2s freeze")
+- Cut points if multi-shot
+
+CONTINUITY LOCKS:
+- Subject wardrobe, hair, props match across shots
+- Lighting continuity unless time-jump specified
+- Eye-line direction preserved across cuts
+
+MOTION BLUR & FRAME RATE:
+- 24fps cinematic / 30fps broadcast / 60fps slow-mo source
+- Motion blur amount (180° shutter / 90° sharp)
+- Ramp points if speed-ramping
+
+PHYSICS REALISM:
+- Water surface tension behaves correctly
+- Fire flickers irregularly
+- Hair strands move independently
+- Fabric inertia
+
+TRANSITIONS:
+cut / dissolve / whip / match-cut / J-cut / L-cut / hold-on-black
+
+AVOID:
+- Vague adjectives ("epic," "cinematic," "stunning")
+- Conflicting instructions in same sentence
+- More than 3 actions per beat
+
+---
+
+## PART T — CREATIVE RESEARCH PROTOCOL
+
+REEL DECONSTRUCTION (for any trending reel before generating):
+
+Extract:
+- Hook (first 1.5s): what stops the scroll
+- Cut rhythm (cuts per second)
+- Camera motion signature
+- Lighting setup (key + fill + practical)
+- Color grade reference
+- Audio hook (beat drop, vocal stab, ambient)
+- Subject staging (centered/rule-of-thirds/dutch)
+- Emotional arc beats
+- Loop point or payoff
+
+Then rebuild from mechanics, not surface.
+
+ORIGINALITY THRESHOLD:
+Output differs from source trend by minimum: new subject OR new environment OR new color story OR new camera grammar. Never copy 3+ elements from a single source.
+
+ENERGY/MOTION QUANTIFIED (replaces vague "energetic"):
+- Motion vectors in frame ≥ 60% of canvas
+- At least 2 moving elements
+- Kinetic line of action
+- No static dead zones
+
+COMPOSITION RULES:
+Apply one named composition per frame: rule-of-thirds / golden ratio / symmetry / leading lines / frame-within-frame / negative space / dutch tilt — explicitly stated, never implied.
+
+EMOTIONAL BEAT PER FRAME:
+Each frame carries one named emotion (anticipation, awe, tension, release, joy, defiance) — no neutral filler frames.
+
+---
+
+## PART U — NEGATIVE BLOCKS
+
+STANDARD IMAGE NEGATIVE (auto-appended to every image prompt):
+```
+NEGATIVE: mirrored, flipped, inverted, extra limbs, fused fingers,
+melted features, asymmetric eyes (unintentional), garbled text,
+floating shadows, duplicated subjects, low-res patches, plastic skin,
+oversharpened, AI-generated artifacts, watermarks, signature, deformed
+hands, malformed teeth, joint cuts at ankle/knee/wrist/elbow/neck,
+amputated fingertips, cross-eyed, lazy eye, off-axis pupils, melted
+clothing, shoes-not-touching-ground, mismatched footwear pair,
+mannequin-stiff posture, dead eyes, statue-frozen energy.
+```
+
+STANDARD VIDEO NEGATIVE (auto-appended to every VEO prompt):
+```
+NEGATIVE: morphing, warping, identity drift, limb teleport,
+object pop-in, frame skip, mirrored composition, text overlay,
+watermark, AI artifact, ghosting, double exposure unless intended,
+lip-sync drift, audio desync, wardrobe drift between shots,
+unmotivated camera shake, physics violation (water/fire/hair/fabric),
+mannequin posture, frozen background, identity flicker.
+```
+
+---
+
+## PART V — PRE-FLIGHT CHECKLIST
+
+UNIVERSAL (every prompt before generation):
+[ ] Aspect 9:16 declared (or override with reason)
+[ ] Concept line stated
+[ ] Emotional register declared
+[ ] Voice mode declared
+[ ] Signature flag set
+[ ] Frame count 5–8
+[ ] Concept Bible 7 anchors (multi-frame)
+[ ] Tool routing per shot
+
+IMAGE INTEGRITY:
+[ ] Orientation lock clause present
+[ ] Footwear clause present
+[ ] Hands/eyes/teeth integrity present
+[ ] Aira identity lock referenced
+[ ] Joint-cut check passed
+[ ] Negative block appended
+
+KINETIC STILLNESS (image):
+[ ] Subject micro-action specified
+[ ] Fabric/hair state specified
+[ ] Particulate layer present
+[ ] Contact-point activity specified
+[ ] Background motion specified
+[ ] Light-in-motion specified
+[ ] Next-frame test answered
+
+CINEMATIC GRADE (where applicable):
+[ ] Aspect/letterbox declared
+[ ] Lens named
+[ ] DOF architecture stated
+[ ] Colorist/film reference named
+[ ] Lighting setup named
+[ ] Composition reference named
+[ ] Atmosphere mandate met
+
+SPATIAL LOGIC:
+[ ] FG/MG/BG planes declared
+[ ] 5-question test passed for each element
+[ ] Scale + perspective + atmospheric depth correct
+
+CINEMATIC AD MANDATE (if ad):
+[ ] Light separation ≥1.5 stops
+[ ] Color narrative declared
+[ ] Atmospheric layer present
+[ ] Camera intent stated
+[ ] Hero motivation clear
+
+VOICE & PERFORMANCE (if voiced):
+[ ] VOICE: AIRA PRIME locked
+[ ] Register-specific delivery notes
+[ ] Hindi anchor moments placed
+[ ] Fresh opener + sign-off generated (if FULL signature)
+[ ] Lip-sync precision declared (if VEO)
+
+PHYSICAL & WARDROBE:
+[ ] Identity lock referenced
+[ ] Wardrobe pillar declared
+[ ] Wardrobe meets all 10 mandates
+[ ] Footwear specified
+
+EVERY ELEMENT SPEAKS:
+[ ] 4-Voice Test passed (body, outfit, BG, objects)
+
+3D CAMERA & PRODUCT (if ad):
+[ ] One camera move per shot
+[ ] One product performance move per shot (max)
+[ ] Product believability rules met
+[ ] Tool routing declared
+
+GRWM (if format):
+[ ] Stakes declared (real, specific)
+[ ] Opening + closing states defined
+[ ] Frame rhythm varied
+[ ] Hand-product-face triangle in routine frames
+[ ] Through-mirror considered
+
+FACIAL DYNAMICS:
+[ ] 3+ micro-dynamics per face frame
+[ ] Sequenced expressions (Duchenne markers honored)
+[ ] No held expressions across frames
+[ ] Breath visible on key frames
+
+VEO (if video):
+[ ] Shot type, camera move, lens declared
+[ ] Audio cue specified
+[ ] Lip-sync directive
+[ ] Temporal logic per beat
+[ ] Continuity locks
+[ ] Motion blur / frame rate
+
+---
+
+## PART W — FAILURE LOG TEMPLATE
+
+For every generated output reviewed against directive:
+
+```
+PROMPT VERSION: vN.M
+DATE:
+TOOL:
+RESULT QUALITY: [PASS / PARTIAL / FAIL]
+
+DIRECTIVE COMPLIANCE:
+- Image Integrity: [PASS/FAIL — what drifted]
+- Kinetic Stillness: [PASS/FAIL]
+- Spatial Logic: [PASS/FAIL]
+- Voice Match: [PASS/FAIL]
+- Performance Beats: [PASS/FAIL]
+- Identity Lock: [PASS/FAIL]
+- Wardrobe Pillar: [PASS/FAIL]
+- Facial Dynamics: [PASS/FAIL]
+
+FAILURE NOTES:
+[what specifically broke — drift type, frame number, severity]
+
+CORRECTION:
+[explicit prompt rewrite, not regeneration with same prompt]
+
+LEARNING:
+[directive update needed? rule to add to negative block?]
+```
+
+---
+
+## APPENDIX 1 — VOICE BLOCK TEMPLATE
+
+```
+VOICE: AIRA PRIME
+EMOTIONAL REGISTER: [picked per reel]
+LANGUAGE MIX: 85% English, 15% Hindi (or 70/30 in GRWM)
+OPENER: [freshly generated per reel — see Part K rules]
+SIGN-OFF: [freshly generated, register-matched]
+PACE: [baseline / slower / faster]
+VOLUME: Intimate (-6dB to music bed)
+HINDI MOMENTS: [list specific Hindi words/phrases used in this reel]
+DELIVERY NOTES: [any specific tonal direction for this concept]
+SIGNATURE FLAG: [FULL / OPENER-ONLY / SIGN-OFF-ONLY / NONE]
+```
+
+---
+
+## APPENDIX 2 — FRAMING TAXONOMY TABLE
+
+| Term | Crop Point | Best Used For |
+|------|------------|---------------|
+| EWS | Subject tiny in landscape | Scale, isolation, epic |
+| WS / Full | Head-to-toe + environment | Fashion editorial, lifestyle |
+| Full Shot | Head to just below feet | Wardrobe, dance, athletics |
+| Cowboy | Mid-thigh up | Fashion, character, attitude |
+| MLS / Knee | Mid-calf up | Italian fashion, classical |
+| MS / Waist | Waist up | Conversation, ad balance |
+| MCU / Bust | Mid-chest up | Interview, beauty, product hold |
+| CU | Shoulders up | Emotional, cosmetic, intimate |
+| Choker | Chin to forehead | Intensity, beauty hero |
+| ECU | Single feature | Detail, product, jewelry |
+| Beauty Crop | Top-of-head to collarbone | Cosmetics hero |
+| Hero Crop | Top-of-head to mid-chest | Editorial portrait |
+
+FORBIDDEN CUT POINTS: ankles, knees, wrists, elbows, neck, top-of-head (unless choker), fingertips.
+CORRECT CUT POINTS: mid-thigh, mid-calf, mid-forearm, mid-bicep, mid-chest, below feet with floor, above head with headroom.
+
+---
+
+## APPENDIX 3 — COLORIST/LIGHTING REFERENCES
+
+COLORISTS / DPs:
+- Roger Deakins — orange/teal collision, controlled highlights (Blade Runner 2049, 1917)
+- Hoyte van Hoytema — desaturated with selective warm pop (Dunkirk, Oppenheimer)
+- Greig Fraser — crushed shadows, amber midtones, cyan shadows (Dune, The Batman)
+- Bradford Young — underexposed, ambient soft, skin-priority (Arrival)
+- Christopher Doyle / Wong Kar-wai — neon saturation, motion blur, expired film
+- Emmanuel Lubezki — natural light worship, magic hour, handheld intimacy
+- A24 house grade — film grain, lifted blacks, muted saturation
+
+LIGHTING SETUPS:
+- Rembrandt — triangle of light on shadow-side cheek
+- Loop — small nose shadow, beauty standard
+- Split — half-lit face, dramatic
+- Butterfly / Paramount — beauty light from above, shadow under nose
+- Clamshell — key above + fill below, beauty/ad standard
+- Chiaroscuro — extreme light/shadow, Caravaggio
+- Motivated practical — light source visible in frame
+- Day-for-night — blue-graded daylight reading as moonlight
+
+FILM STOCK REFERENCES:
+Kodak Portra 400 / Fuji 400H / Cinestill 800T / Kodak 5219 / Kodak 5207 / Fuji Eterna
+
+---
+
+## APPENDIX 4 — REEL DECONSTRUCTION TEMPLATE
+
+```
+TREND SOURCE: [URL / description]
+HOOK ANALYSIS (first 1.5s): [what stops scroll]
+CUT RHYTHM: [cuts per second]
+CAMERA MOTION SIGNATURE: [moves used]
+LIGHTING SETUP: [key + fill + practical]
+COLOR GRADE: [reference]
+AUDIO HOOK: [beat drop / vocal stab / ambient]
+SUBJECT STAGING: [centered / thirds / dutch]
+EMOTIONAL ARC: [beat 1 → beat 2 → beat 3]
+LOOP POINT / PAYOFF: [what makes it re-watchable]
+
+REBUILD PLAN:
+- Mechanics extracted: [list]
+- New subject / environment / color / camera differences: [list 1+ required]
+- Concept line for Aira version: [evocative non-literal sentence]
+- Pillar selected: [N]
+- Frame architecture: [count + structure]
+```
+
+---
+
+## APPENDIX 5 — AIRA PERFORMANCE LIBRARY
+
+5.1 SIGNATURE GENERATION PROTOCOL — see Part K (fresh per reel, never fixed pool)
+
+5.2 APPROVED HINDI ANCHOR VOCABULARY:
+dekho, suno, sach, bas, ek, yeh, ruko, samjho, achha, samajh, sahi, theek, na, yaar, yaad, chalo, dekha, asli, wala, soch, kuch, toh, hai
+
+5.3 HAND SIGN VOCABULARY: see Part L
+
+5.4 CAMERA INTERACTION MOVES: see Part L
+
+5.5 FACIAL EXPRESSION CATALOG: see Part L + Part R
+
+5.6 BODY POSTURE BEATS: see Part L
+
+5.7 GESTURE-CONTENT PAIRING MATRIX: see Part L
+
+5.8 SIGNATURE SUITABILITY RULES: see Part K
+
+---
+
+## APPENDIX 6 — AIRA WARDROBE UNIVERSE (10 PILLARS)
+
+Full pillar specifications: see Part M.
+Quick-reference register-pillar matching:
+- Reverent / contemplative → 1, 8, 10
+- Knowing / mischievous → 2, 7
+- Tender → 3, 8, 10
+- Electric → 2, 7, 9
+- Curious-confident → 1, 3, 4, 7
+- Cinematic / mood / fragrance → 1, 2, 5, 9, 10
+- Cultural commentary → 4, 7, 10
+- Lifestyle / wellness → 3, 6
+- Hero ad / launch → 2, 5, 9
+
+---
+
+## APPENDIX 7 — 30 PRODUCT PERFORMANCE MOVES
+
+LEVITATION & SUSPENSION (1–8):
+1. Slow Levitation Hover
+2. Free-Float in Space
+3. Suspended at Apex (mid-throw)
+4. Counter-Gravity Drop (falls upward)
+5. Orbital Float (multiple products orbiting)
+6. Surface-Tension Hover (above reflective surface)
+7. Gravity-Free Pour (curving liquid stream)
+8. String-of-Pearls Levitation (vertical stack)
+
+TRANSFORMATION & REVEAL (9–16):
+9. Self-Opening Cap
+10. Liquid Materialization (drop → solid)
+11. Particle Assembly (powder coalesces)
+12. Dissolve-and-Reform
+13. Reveal Through Shatter
+14. Bloom Reveal (petals/panels unfold)
+15. Liquid Mirror Emergence (rises from surface)
+16. Smoke/Mist Birth
+
+ENVIRONMENT INTERACTION (17–22):
+17. Hand-Catch Levitation
+18. Magnetic Pull-In
+19. Light-Beam Delivery
+20. Petal/Particle Gather (forms product shape)
+21. Liquid Splash Frozen Mid-Impact
+22. Wind-Animated Stillness (product anchor in moving world)
+
+CAMERA-DRIVEN PERFORMANCE (23–28):
+23. Macro Push-In on Texture
+24. Orbit-Around Hero Shot
+25. Vertical Tilt Reveal
+26. Parallax Layer Reveal
+27. Pull-Back from Macro to Wide
+28. Drone-Style Top-Down to Front
+
+PRODUCT-AS-CHARACTER (29–30):
+29. Product "Looks At" Camera (logo orientation rotates to face lens)
+30. Product Performs Physics Trick (liquid swirls against gravity, etc.)
+
+---
+
+## APPENDIX 8 — PRODUCT × CAMERA PAIRING MATRIX
+
+Selected canonical combinations:
+
+| Product Move | Camera Move | Use Case |
+|--------------|-------------|----------|
+| Slow Levitation | Orbital 360° | Gold-standard luxury hero |
+| Self-Opening Cap | Macro Push-In | Formula reveal moment |
+| Particle Assembly | Pull-Back | Product birth into context |
+| Liquid Materialization | Vertical Tilt | Formula-to-form reveal |
+| Hand-Catch | Parallax Layer | User-product connection |
+| Free-Float | Subtle Orbit | Effortless premium |
+| Smoke/Mist Birth | Pull-In from Atmosphere | Fragrance signature |
+| Liquid Mirror Emergence | Top-Down Reveal | Surreal beauty editorial |
+| Magnetic Pull | Match-Cut Camera Push | Energy-driven hero |
+| Dissolve-Reform | Whip-Pan Transition | Scene-to-scene product carry |
+
+NEVER: static camera + static product / wild camera + wild product / multiple camera moves single shot.
+
+---
+
+## APPENDIX 9 — TOOL ROUTING MAP
+
+NANO BANANA (Gemini 2.5 Flash Image):
+Best for: hyper-real stills of frozen moments — levitation at peak, liquid mid-splash, particle assembly mid-formation, product macros, beauty hero stills.
+Strength: hyper-real product texture, materials, lighting fidelity.
+Limitation: cannot generate motion.
+
+VEO 3.1:
+Best for: native 3D camera moves, full motion sequences with camera + Aira interaction + audio in single pass, voice + lip-sync, multi-shot continuity.
+Strength: cinematic camera grammar, audio sync, dialogue, multi-shot continuity.
+Limitation: less micro-precise on hyper-detailed product macros.
+
+RUNWAY GEN-3 / KLING 2.0 / LUMA RAY:
+Best for: image-to-video — taking Nano Banana stills and adding 3D camera parallax, subtle product motion, levitation.
+Workflow: NB still → import to Runway → describe camera move → output 3–10s clip.
+
+PIKA 2.0 / SORA-CLASS:
+Best for: complex product transformations (dissolve, particle assembly, smoke birth, materialization).
+Strength: true scene-level transformation.
+Limitation: less consistent product identity across shots.
+
+WORKFLOW MANDATE (per beauty ad reel — example):
+- SHOT 1: Nano Banana hero still → Runway camera push (3s)
+- SHOT 2: VEO 3.1 native (Aira + product interaction, 4s)
+- SHOT 3: Pika particle assembly → product reveal (2s)
+- SHOT 4: VEO 3.1 native (Aira reaction shot with VO, 3s)
+- SHOT 5: Nano Banana macro still → held (1.5s)
+- SHOT 6: VEO 3.1 sign-off frame with held product (1s)
+
+Total: ~14.5s reel with tool-optimized output per shot.
+
+---
+
+## APPENDIX 10 — GRWM FRAME ARCHITECTURE LIBRARY
+
+5-FRAME GRWM (compact):
+1. Opening State (bare, stakes declared)
+2. First Application (story begins)
+3. The Build (story deepens)
+4. Near-Complete (lighter beat)
+5. The Reveal (full look, sign-off OR silent)
+
+6-FRAME GRWM (standard):
+1. Opening State
+2. First Application
+3. The Build
+4. The Pivot (realization)
+5. Near-Complete
+6. The Reveal
+
+7-FRAME GRWM (extended, most-shareable):
+1. Opening State
+2. First Application
+3. The Build
+4. The Pivot
+5. Near-Complete
+6. The Reveal
+7. Exit Beat (door / window / mirror — about to step into world)
+
+VARIATION RULES:
+- Skip Frame 5 (near-complete) → 1, 2, 3, 4, 6
+- Skip Frame 4 (pivot) for tighter routines → 1, 2, 3, 5, 6, 7
+- Skip Frame 7 (exit beat) → 1, 2, 3, 4, 5, 6
+
+---
+
+## APPENDIX 11 — GRWM SETTING PILLARS
+
+1. VANITY / DRESSING TABLE — marble or wooden surface, soft side-window light, mirror with bulbs OR natural reflection, lived-in styling, atmospheric morning haze with dust motes. USE: morning GRWM, beauty-tutorial-leaning, intimate.
+
+2. BATHROOM — marble/terrazzo counter, large mirror, fogged shower glass BG, towel on shoulders or hair-wrapped, warm steam, cool white tile. USE: just-out-of-shower, fresh routines.
+
+3. BEDROOM GOLDEN HOUR — bed-edge or floor + full-length mirror, window light, soft fabric BG (curtains, throws), wardrobe in BG, golden hour particles. USE: tender, evening GRWM, getting ready alone.
+
+4. MIRROR-WALL STUDIO — full-length mirror, polished floor, single hard colored key (pink, gold, blue), minimal set, theatrical, clean haze, controlled negative space. USE: editorial GRWM, brand-collab GRWM, electric register.
+
+5. HOTEL ROOM — desk or bed-side, suitcase visible, slightly chaotic, window light (city/beach/mountain visible), travel-size products, jewelry laid out, jet-lagged glow. USE: travel content, before-going-out-in-[city].
+
+6. INDIAN HERITAGE GRWM — carved wooden vanity OR brass-tray surface, heritage textiles BG (printed dupatta on wall, throw), heritage jewelry (jhumkas, kundan, nath) laid out, diya/candle in atmosphere, warm tungsten + window light. USE: festival GRWM, wedding-guest, Indo-Modern Fusion pillar reels.
+
+7. SHARED MOMENT GRWM — Aira getting ready while VO or implied second person (friend on FaceTime, partner in another room), phone propped beside mirror, living-room/bedroom warmth. USE: relational stakes, telling-someone-about-stakes GRWMs.
+
+SETTING-CONCEPT MATCHING:
+- High-emotional stakes → Setting 3 or 4
+- Light/playful → Setting 1 or 2
+- Cultural → Setting 6
+- Travel/transit → Setting 5
+- Editorial/brand → Setting 4
+- Just-back-from-shower → Setting 2
+- Pre-event composure → Setting 1 or 3
+
+NEVER:
+- Generic "white backdrop GRWM" (kills intimacy)
+- Cluttered chaos (distracts from face)
+- Overlit beauty-counter look (too commercial)
+- Outdoor GRWM (breaks format)
+
+---
+
+## END OF SYS DIRECTIVE 3
+
+This directive supersedes all prior versions.
+Every prompt — image, video, reel — references this canonical document.
+Updates create v3.1, v3.2, etc. Failures log per Part W.
+
+VERSION: 3.0
+STATUS: LOCKED — CANONICAL
