@@ -2318,3 +2318,708 @@ A GRWM fails the format if any of the following are true:
 If a generated GRWM exhibits ANY of the above 20 failures — REWRITE prompt before re-generating. Re-rolling the same prompt won't fix it.
 
 ---
+
+
+---
+
+## PART X — PROMPT GENERATION ENGINE (THE EXECUTION LAYER)
+
+This section converts the directive from passive reference into an active enforcement system. Every prompt — without exception — must pass through this engine. Skipping any step results in a non-compliant prompt and must be rewritten before generation.
+
+### X.1 — THE ENGINE ARCHITECTURE
+
+Every prompt is generated through a fixed 12-stage pipeline. No stage is optional. No stage may be skipped. Stages are executed IN ORDER — never out of sequence.
+
+```
+STAGE 01 — INTAKE
+STAGE 02 — CONCEPT LOCK
+STAGE 03 — FORMAT CLASSIFICATION
+STAGE 04 — REGISTER & VOICE LOCK
+STAGE 05 — WARDROBE & PILLAR SELECTION
+STAGE 06 — SETTING & ATMOSPHERIC LOCK
+STAGE 07 — FRAME ARCHITECTURE
+STAGE 08 — PER-FRAME EXPANSION
+STAGE 09 — TOOL ROUTING
+STAGE 10 — NEGATIVE BLOCK INJECTION
+STAGE 11 — PRE-FLIGHT VALIDATION
+STAGE 12 — FINAL OUTPUT
+```
+
+If any stage produces a value that conflicts with a prior stage's output, the engine HALTS and the prompt is rewritten from the conflicting stage forward. No conflicts may be carried into final output.
+
+### X.2 — STAGE 01: INTAKE
+
+User input is parsed into the following extracted variables:
+
+```
+INPUT VARIABLES (from user request):
+- THEME / TOPIC: [what the reel is about]
+- FORMAT HINT: [if specified — GRWM, ad, mood, commentary, etc.]
+- STAKES (if explicitly given): [the why behind the reel]
+- BRAND CONTEXT (if collab): [brand name, product, register]
+- DELIVERABLE COUNT: [how many concepts requested]
+- CONSTRAINTS (if any): [must-have or must-avoid elements]
+```
+
+If any required variable is ambiguous, the engine assigns a **default**:
+- Format hint missing → engine selects format based on theme
+- Stakes missing → engine generates specific stakes from theme
+- Brand context missing → engine treats as non-collab
+- Constraints missing → directive defaults apply
+
+The engine NEVER asks the user clarifying questions during prompt generation. The directive contains enough defaults to resolve every ambiguity.
+
+### X.3 — STAGE 02: CONCEPT LOCK
+
+The engine writes a single concept line for each prompt. Format:
+
+```
+CONCEPT: "[evocative non-literal sentence under 12 words]"
+```
+
+CONCEPT LINE RULES:
+- Never literal description ("a girl putting on lipstick" ❌)
+- Always evocative ("the red that doesn't ask permission" ✅)
+- Under 12 words
+- Captures emotion + texture + implication
+- Distinct from theme — concept is the *interpretation* of the theme
+
+The engine generates 5 candidate concept lines internally and selects the most evocative one. The other 4 are discarded.
+
+### X.4 — STAGE 03: FORMAT CLASSIFICATION
+
+The engine classifies the reel into exactly ONE format from this taxonomy:
+
+```
+FORMAT TAXONOMY:
+01. GRWM (Get Ready With Me)
+02. CINEMATIC AD (beauty / fragrance / fashion / lifestyle product)
+03. MOOD PIECE (silent or near-silent visual poetry)
+04. CULTURAL COMMENTARY (deep-research, deconstruction, opinion)
+05. LIFESTYLE / POV (day-in-life, intimate-warm, casual)
+06. EDITORIAL FASHION FILM (high-style, narrative-light)
+07. BEAUTY HERO (single-product macro-driven)
+08. TREND DECONSTRUCTION (analyzing a trending sound or visual pattern)
+09. PERSONAL STORY / CONFESSIONAL (intimate Aira-direct narrative)
+10. EVENT / FESTIVAL (occasion-anchored)
+11. WELLNESS / MORNING (active, soft-strong, ritual)
+12. ASPIRATIONAL JOURNEY (travel, transit, arrival)
+```
+
+Once format is locked, the engine loads format-specific Parts:
+- GRWM → Part Q + Q.EXTENDED + Appendices 10, 11
+- Cinematic Ad → Part J + Part P + Appendices 7, 8
+- Mood Piece → Part E + Part F + Part G
+- Cultural Commentary → Part T + Part K
+- And so on per format.
+
+NEVER mix formats in one reel. Hybrid concepts route to the dominant format only.
+
+### X.5 — STAGE 04: REGISTER & VOICE LOCK
+
+The engine selects ONE emotional register per reel from Part K's seven:
+
+```
+REGISTER SELECTION LOGIC:
+- Confrontation / decision stakes → KNOWING or ELECTRIC
+- Tender / romantic / vulnerable → TENDER or REVERENT
+- Cultural / commentary → CURIOUS-CONFIDENT or KNOWING
+- Mood / fragrance → REVERENT or CONTEMPLATIVE
+- Trend deconstruction → KNOWING or MISCHIEVOUS
+- Lifestyle / morning → TENDER or CURIOUS-CONFIDENT
+- Hero ad → ELECTRIC or REVERENT
+- Festival / heritage → REVERENT or CURIOUS-CONFIDENT
+```
+
+The engine then locks the voice block:
+
+```
+VOICE BLOCK (auto-injected):
+VOICE: AIRA PRIME
+EMOTIONAL REGISTER: [selected]
+LANGUAGE MIX: [85/15 default OR 70/30 if GRWM]
+PACE: [register-matched wpm]
+VOLUME: Intimate (-6dB to music bed)
+HINDI MOMENTS: [engine pre-places at opener/pivot/sign-off]
+SIGNATURE FLAG: [auto-determined per Part K suitability rules]
+```
+
+If SIGNATURE FLAG = FULL, the engine generates the opener and sign-off freshly per Part K rules. Both lines are written and locked before stage 06.
+
+### X.6 — STAGE 05: WARDROBE & PILLAR SELECTION
+
+The engine selects ONE pillar (or up to 2 blended pillars) from Part M's 10:
+
+```
+PILLAR SELECTION LOGIC:
+- Reverent / contemplative → 1, 8, 10
+- Knowing / mischievous → 2, 7
+- Tender → 3, 8, 10
+- Electric → 2, 7, 9
+- Curious-confident → 1, 3, 4, 7
+- Cinematic / mood / fragrance → 1, 2, 5, 9, 10
+- Cultural commentary → 4, 7, 10
+- Lifestyle / wellness → 3, 6
+- Hero ad / launch → 2, 5, 9
+- Festival / heritage → 4, 5
+```
+
+The engine writes a complete OUTFIT BLOCK:
+
+```
+OUTFIT BLOCK:
+PILLAR: [N — name]
+HERO ELEMENT: [the one standout piece]
+PALETTE: [3 colors — anchor + 2 supporting]
+SILHOUETTE: [exact cut — high-waist trouser + silk shell, etc.]
+FABRIC: [specific — silk satin / cashmere / linen / etc.]
+ACCESSORIES: [max 3, named — earrings + ring stack + bag]
+HAIR: [exact style — sleek low bun / loose waves / etc.]
+MAKEUP: [register-matched — dewy nude / sculpted bold / kohl-defined]
+FOOTWEAR: [exact — pointed-toe pumps / chunky combat boots / etc.]
+WARDROBE-CONCEPT POV: [what the outfit says — confidence / softness / power]
+```
+
+The 10 wardrobe mandates from Part M are validated against this block. If any mandate fails — engine rewrites the OUTFIT BLOCK before proceeding.
+
+### X.7 — STAGE 06: SETTING & ATMOSPHERIC LOCK
+
+The engine selects setting from format-specific options:
+- GRWM → 1 of 7 GRWM Setting Pillars (Appendix 11 + Q.EXT.10)
+- Ad → indoor studio / outdoor location / mirror-wall studio / set-design
+- Mood / Cinematic → location-specific per concept
+
+The engine writes a complete SETTING BLOCK:
+
+```
+SETTING BLOCK:
+LOCATION: [specific — bedroom golden hour / mirror-wall studio / market street]
+SURFACE / FLOOR: [marble / wood / concrete / tile]
+LIGHT SOURCE: [window camera-left at golden hour / single hard pink key / overhead warm tungsten]
+LIGHT QUALITY: [hard / soft / volumetric / wraparound]
+COLOR TEMPERATURE: [3200K warm / 5600K daylight / mixed practical]
+ATMOSPHERIC LAYER: [dust motes / steam / haze / particles — specific]
+PRACTICAL LIGHTS IN FRAME (if any): [lamp / candle / neon / screen]
+PROPS (named, purposeful): [list of 3–6 with story justification]
+BACKGROUND ELEMENTS: [3 named — what's visible, what it says]
+WEATHER (if outdoor): [light rain / wind / fog / heat shimmer / golden hour]
+```
+
+The 4-Voice Test (Part N) is run against the setting:
+- What does the setting say?
+- What does each prop say?
+- What does the background say?
+If any element fails to answer — removed or replaced before proceeding.
+
+### X.8 — STAGE 07: FRAME ARCHITECTURE
+
+The engine selects frame count (5, 6, 7, or 8) based on format:
+- GRWM standard → 6 frames
+- GRWM extended → 7 frames
+- Mood piece → 5 frames
+- Cinematic ad → 5–6 frames
+- Trend deconstruction → 6 frames
+- Hero beauty → 5 frames
+
+The engine then plans the FRAME RHYTHM (per Part H):
+
+```
+FRAME RHYTHM PLAN:
+F1: [framing] — [angle] — [subject %]
+F2: [framing] — [angle] — [subject %]
+F3: [framing] — [angle] — [subject %]
+F4: [framing] — [angle] — [subject %]
+F5: [framing] — [angle] — [subject %]
+F6: [framing] — [angle] — [subject %]
+(F7 if applicable)
+
+RHYTHM CHECK:
+- No two consecutive frames have same framing AND same angle
+- At least one ECU OR Beauty Crop in beauty/GRWM
+- Reveal frame is widest in the set
+- Joint-cut check: every framing avoids ankles/knees/wrists/elbows/neck
+```
+
+The CONCEPT BIBLE (Part G) is locked here:
+
+```
+CONCEPT BIBLE:
+1. COLOR THREAD: [dominant + 2 supporting]
+2. LIGHT SIGNATURE: [direction + hardness + color temp + atmosphere]
+3. TEXTURE/MATERIAL ECHO: [one tactile quality threaded across frames]
+4. MOTION VECTOR: [directional bias — leftward / rising / falling / etc.]
+5. ATMOSPHERIC CONSTANT: [element present in every frame]
+6. EMOTIONAL TEMPERATURE: [continuous register]
+7. COMPOSITIONAL RHYME: [geometric pattern repeating]
+```
+
+### X.9 — STAGE 08: PER-FRAME EXPANSION
+
+For EACH frame, the engine writes a complete FRAME BLOCK using this fixed schema:
+
+```
+FRAME [N]
+================================
+FRAMING: [exact — MCU / Beauty Crop / Cowboy / etc.]
+CROP POINTS: [Top: X / Bottom: Y / Sides: Z]
+JOINT-CUT CHECK: PASS / FAIL (must be PASS to ship)
+SUBJECT %: [N% of frame height]
+CAMERA HEIGHT: [eye-level / low / high / dutch]
+CAMERA ANGLE: [straight / 3/4 / profile / OTS / through-mirror]
+CAMERA MOVE (if VEO/Runway): [push-in / pull-back / orbit / static — one only]
+LENS: [24mm / 35mm / 50mm / 85mm / anamorphic / macro]
+DOF: [shallow / deep / rack-focus]
+
+SUBJECT (AIRA):
+- BODY POSITION: [seated / standing / leaning / mid-stride]
+- BODY ANGLE TO CAMERA: [exact]
+- WEIGHT DISTRIBUTION: [single-leg / both / shifted]
+- HAND POSITION: [left + right described separately, with what they're doing]
+- POSTURE STATE: [relaxed / composed / tense / kinetic]
+- HAIR STATE: [exact — flicked / settled / tucked / mid-curl / wet]
+- WARDROBE STATE: [robe drop / fully composed / mid-adjust / sleeve roll]
+- FOOTWEAR: [visible / not-visible — if visible, exact contact with ground]
+
+FACIAL DYNAMICS (minimum 3 per Part R):
+- EYES: [exact micro-state — mid-blink / catchlight at X position / asymmetry]
+- BROWS: [exact micro-state — single raised / micro-furrow / relaxed]
+- LIPS: [exact micro-state — mid-word phoneme / lip-press / asymmetric corner]
+- CHEEKS: [exact micro-state — apple-lift / shadow at hollow / micro-flush]
+- BREATH: [visible inhale / pre-word breath / post-exhale / silent breath-hold]
+
+GESTURE / PERFORMANCE BEAT (if applicable):
+- GESTURE: [from Part L vocabulary — single name]
+- TIMING: [lands at 0.X seconds within frame]
+- DURATION: [0.4–1.2s]
+- MOTIVATION: [emotional reason]
+
+PRODUCT (if applicable):
+- PRODUCT: [exact — type, brand-neutral or named]
+- HOW HELD: [grip detail — fingers wrapping / fingertip pinch / palm cradle]
+- LABEL VISIBILITY: [readable Y/N — if Y, for how long]
+- INTERACTION: [tap / sweep / press / blend / swipe / dab / draw / set]
+- PRODUCT PERFORMANCE MOVE (if hero): [from Appendix 7 — name one only]
+
+SPATIAL LOGIC (Part I):
+- FOREGROUND: [what's there — blurred or sharp]
+- MIDGROUND: [Aira + held objects]
+- BACKGROUND: [what's there — soft or sharp, motion or static]
+- 5-QUESTION TEST: PASS for every element
+
+KINETIC STILLNESS LAYERS (Part D — all 6 mandatory):
+1. SUBJECT MICRO-ACTION: [exact]
+2. FABRIC + HAIR STATE: [exact]
+3. PARTICULATE LAYER: [exact — dust motes / steam / petals]
+4. CONTACT-POINT ACTIVITY: [exact]
+5. BACKGROUND MOTION: [exact]
+6. LIGHT IN MOTION: [exact — flare / shaft / flicker / caustic]
+
+LIGHTING (specific to frame):
+- KEY DIRECTION: [angle + height]
+- KEY HARDNESS: [hard / soft / wraparound]
+- FILL: [present Y/N — direction, ratio]
+- RIM / BACK LIGHT: [present Y/N — direction]
+- PRACTICAL: [present Y/N — what / where]
+- COLOR TEMP: [exact Kelvin or named — tungsten warm / golden hour / cool blue]
+
+VOICE-OVER (if SPOKEN frame):
+- VO LINE (verbatim): "[exact words]"
+- VO DELIVERY: [pace / breath / pause / volume]
+- VO TIMING: [starts X.Xs, ends Y.Ys within frame]
+- HINDI MOMENT (if any): [word + placement reason]
+- ON-SCREEN TEXT (if any): [verbatim + position]
+- AMBIENT SOUND: [continues / ducks / drops]
+- MUSIC LEVEL: [-6 / -12 / -18 / -24 dB]
+
+CONCEPT BIBLE ANCHORS HIT IN THIS FRAME:
+[list which of the 7 anchors this frame carries — minimum 5/7]
+
+EMOTIONAL BEAT: [single named emotion this frame holds]
+NEXT-FRAME TEST: "In 0.5s, [X] will happen."
+```
+
+EVERY field is filled. NO field is left blank. If a field is non-applicable, the engine writes "N/A — [reason]".
+
+### X.10 — STAGE 09: TOOL ROUTING
+
+The engine assigns each frame to a generation tool:
+
+```
+TOOL ROUTING TABLE (per Appendix 9):
+
+NANO BANANA (NB) — for:
+- Hero stills with hyper-real product texture
+- Frozen-moment captures (levitation peak, splash apex)
+- Beauty macros (skin, eye, lip ECUs)
+- Single-frame highly-detailed setups
+- Composite stills that will be animated later
+
+VEO 3.1 — for:
+- Native motion sequences (full shot with camera + subject + audio)
+- Voice + lip-sync shots
+- Multi-action choreography
+- Ambient atmospheric motion
+- Anything requiring synced sound
+
+RUNWAY GEN-3 / KLING 2.0 / LUMA RAY — for:
+- Image-to-video on NB stills
+- 3D camera parallax on still images
+- Subtle product motion (gentle levitation, slow rotation)
+
+PIKA 2.0 — for:
+- Product transformations (dissolve, particle assembly, smoke birth)
+- Generative-magical moments
+- Scene-level transitions
+```
+
+Each frame gets EXACTLY ONE tool tag:
+
+```
+F1: [TOOL]
+F2: [TOOL]
+F3: [TOOL]
+F4: [TOOL]
+F5: [TOOL]
+F6: [TOOL]
+```
+
+Workflow chains (e.g., NB → Runway) are written explicitly:
+
+```
+F1: NB still → Runway camera push (3s output)
+F2: VEO 3.1 native (4s)
+F3: NB still → Pika particle bloom (2s)
+F4: VEO 3.1 native with VO (3s)
+F5: NB macro still (held 1.5s)
+F6: VEO 3.1 sign-off frame (1s)
+```
+
+### X.11 — STAGE 10: NEGATIVE BLOCK INJECTION
+
+The engine appends the standard negative block (Part U) to EVERY prompt automatically. No prompt ships without negatives.
+
+```
+[STANDARD IMAGE NEGATIVE — for image frames]
+NEGATIVE: mirrored, flipped, inverted, extra limbs, fused fingers, melted features, asymmetric eyes (unintentional), garbled text, floating shadows, duplicated subjects, low-res patches, plastic skin, oversharpened, AI-generated artifacts, watermarks, signature, deformed hands, malformed teeth, joint cuts at ankle/knee/wrist/elbow/neck, amputated fingertips, cross-eyed, lazy eye, off-axis pupils, melted clothing, shoes-not-touching-ground, mismatched footwear pair, mannequin-stiff posture, dead eyes, statue-frozen energy.
+
+[STANDARD VIDEO NEGATIVE — for VEO/Runway/Pika frames]
+NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame skip, mirrored composition, text overlay (unless intended), watermark, AI artifact, ghosting, double exposure unless intended, lip-sync drift, audio desync, wardrobe drift between shots, unmotivated camera shake, physics violation (water/fire/hair/fabric), mannequin posture, frozen background, identity flicker.
+```
+
+Format-specific negatives are added on top:
+- Beauty ad: "no plastic skin, no airbrush flatness, no skin smoothing, no over-glow"
+- GRWM: "no tutorial framing, no studio backdrop, no even fluorescent flat light, no posed performance"
+- Cinematic: "no sitcom flat lighting, no over-saturation, no excessive bloom"
+
+### X.12 — STAGE 11: PRE-FLIGHT VALIDATION
+
+The engine runs the full pre-flight checklist (Part V) against the constructed prompt. EVERY checkbox must be checked.
+
+```
+PRE-FLIGHT VALIDATION (engine self-check):
+
+UNIVERSAL:
+[ ] Aspect 9:16 declared
+[ ] Concept line stated
+[ ] Emotional register declared
+[ ] Voice mode declared
+[ ] Signature flag set + signatures generated if FULL
+[ ] Frame count 5–8
+[ ] Concept Bible 7 anchors locked
+[ ] Tool routing per shot
+
+INTEGRITY:
+[ ] Orientation lock present
+[ ] Footwear directive present
+[ ] Hands/eyes/teeth integrity present
+[ ] Aira identity lock referenced
+[ ] Joint-cut check passed all frames
+[ ] Negative block appended
+
+KINETIC STILLNESS:
+[ ] All 6 layers per frame
+[ ] Next-frame test answered per frame
+[ ] Energy hierarchy declared (60/30/10)
+
+CINEMATIC GRADE:
+[ ] Lens named per frame
+[ ] DOF declared
+[ ] Colorist/film reference named (if cinematic)
+[ ] Lighting setup named per frame
+[ ] Atmosphere mandate met
+
+SPATIAL LOGIC:
+[ ] FG/MG/BG declared per frame
+[ ] 5-question test passed per element
+[ ] Scale + perspective correct
+
+VOICE & PERFORMANCE:
+[ ] AIRA PRIME locked
+[ ] Hindi anchors placed (if applicable)
+[ ] Fresh opener + sign-off (if FULL signature)
+[ ] VO line per frame (if SPOKEN)
+[ ] Music duck levels stated
+
+PHYSICAL & WARDROBE:
+[ ] Identity lock referenced
+[ ] Wardrobe pillar declared
+[ ] All 10 wardrobe mandates met
+[ ] Footwear specified
+
+EVERY ELEMENT SPEAKS:
+[ ] 4-Voice Test passed (body, outfit, BG, objects)
+
+3D CAMERA & PRODUCT:
+[ ] One camera move per shot maximum
+[ ] One product performance move per shot maximum (if ad)
+[ ] Believability rules met
+[ ] Tool routing correct
+
+GRWM (if format):
+[ ] Stakes declared (specific, not generic)
+[ ] Opening + closing states defined
+[ ] Frame rhythm varied
+[ ] Hand-Face-Product Triangle complete per routine frame
+[ ] Through-mirror frame present
+[ ] All 5 GRWM defining characteristics met
+[ ] Energy arc traced
+
+FACIAL DYNAMICS:
+[ ] 3+ micro-dynamics per face frame
+[ ] Sequenced expressions (Duchenne markers)
+[ ] No held expressions across frames
+[ ] Breath specified on key frames
+
+VEO (if video):
+[ ] Shot type, camera move, lens declared
+[ ] Audio cue specified
+[ ] Lip-sync directive
+[ ] Temporal logic per beat
+```
+
+If any checkbox fails, the engine identifies the failed stage and rewrites that stage's output. Generation does not proceed until ALL checkboxes pass.
+
+### X.13 — STAGE 12: FINAL OUTPUT
+
+The completed prompt is delivered in this fixed structure:
+
+```
+═══════════════════════════════════════════════════════════
+CONCEPT [N] OF [TOTAL]
+═══════════════════════════════════════════════════════════
+
+CONCEPT LINE: "[evocative non-literal sentence]"
+FORMAT: [classification]
+EMOTIONAL REGISTER: [register]
+PILLAR(S): [number — name]
+SETTING: [exact location]
+DURATION: [N seconds total]
+FRAME COUNT: [N]
+TOOL ROUTING: [F1: tool / F2: tool / ...]
+
+═══════════════════════════════════════════════════════════
+GLOBAL HEADER (Part B)
+═══════════════════════════════════════════════════════════
+[full block]
+
+═══════════════════════════════════════════════════════════
+CONCEPT BIBLE (Part G)
+═══════════════════════════════════════════════════════════
+[7 anchors]
+
+═══════════════════════════════════════════════════════════
+VOICE BLOCK (Appendix 1)
+═══════════════════════════════════════════════════════════
+[full block including fresh-generated opener and sign-off if FULL]
+
+═══════════════════════════════════════════════════════════
+OUTFIT BLOCK (Part M)
+═══════════════════════════════════════════════════════════
+[full block]
+
+═══════════════════════════════════════════════════════════
+SETTING BLOCK (Part N)
+═══════════════════════════════════════════════════════════
+[full block]
+
+═══════════════════════════════════════════════════════════
+FRAME 01
+═══════════════════════════════════════════════════════════
+[full per-frame expansion per Stage 08 schema]
+
+═══════════════════════════════════════════════════════════
+FRAME 02
+═══════════════════════════════════════════════════════════
+[full per-frame expansion]
+
+[... continues for all frames ...]
+
+═══════════════════════════════════════════════════════════
+NEGATIVE BLOCK
+═══════════════════════════════════════════════════════════
+[image + video + format-specific negatives]
+
+═══════════════════════════════════════════════════════════
+TOOL ROUTING SUMMARY
+═══════════════════════════════════════════════════════════
+F1: [tool + workflow chain]
+F2: [tool + workflow chain]
+[etc.]
+
+═══════════════════════════════════════════════════════════
+PRE-FLIGHT VALIDATION
+═══════════════════════════════════════════════════════════
+ALL CHECKS: PASS
+DIRECTIVE COMPLIANCE: 100%
+READY FOR GENERATION
+═══════════════════════════════════════════════════════════
+```
+
+### X.14 — BATCH GENERATION RULES
+
+When generating multiple concepts in a batch:
+
+BATCH SIZE DEFAULTS:
+- 20 concepts requested → deliver in 4 batches of 5
+- 10 concepts requested → 2 batches of 5
+- 5 concepts requested → 1 batch
+- 1 concept → single delivery
+
+BATCH DIVERSITY ENFORCEMENT:
+Across any 5-concept batch:
+- At least 3 different wardrobe pillars
+- At least 3 different emotional registers
+- At least 3 different settings
+- At least 2 different formats (unless user requested format-specific batch)
+- No repeating concept lines
+- No repeating opener words verbatim
+- No repeating sign-off words verbatim
+
+ACROSS A 20-CONCEPT SET:
+- At least 6 different wardrobe pillars
+- All 7 emotional registers represented at least once
+- At least 5 different settings
+- At least 4 different formats
+- Concept lines linguistically distinct (no two start with same word, no two share dominant metaphor)
+
+If diversity fails → engine rewrites concepts until diversity is satisfied.
+
+### X.15 — ENFORCEMENT RULES (NON-NEGOTIABLE)
+
+These rules cannot be overridden by any user request. They are absolute.
+
+1. NO PROMPT SKIPS THE 12-STAGE PIPELINE.
+2. NO FIELD IN ANY BLOCK IS LEFT BLANK.
+3. NO PRE-FLIGHT CHECKBOX IS FORGIVEN.
+4. NO FRAME EXISTS WITHOUT FULL EXPANSION.
+5. NO CONCEPT SHIPS WITHOUT FRESH-GENERATED OPENER + SIGN-OFF (if signature flag = FULL).
+6. NO BATCH SHIPS WITHOUT DIVERSITY CHECK.
+7. NO PROMPT SHIPS WITHOUT NEGATIVE BLOCK.
+8. NO WARDROBE PIECE GETS DESCRIBED VAGUELY ("nice top" ❌).
+9. NO LIGHTING GETS DESCRIBED VAGUELY ("nice lighting" ❌).
+10. NO VOICE LINE GETS DESCRIBED VAGUELY ("she says something" ❌).
+11. NO FACIAL EXPRESSION GETS DESCRIBED VAGUELY ("smiling" ❌ — must be "asymmetric half-smile, apple-cheek lifting on right side, single brow micro-raised").
+12. NO PRODUCT PERFORMANCE MOVE IS DUPLICATED IN ONE REEL (one only).
+13. NO CAMERA MOVE IS DUPLICATED IN ONE FRAME (one only).
+14. NO STAKES ARE GENERIC (must be specific enough to pass calendar test).
+15. NO GRWM SHIPS WITHOUT THROUGH-MIRROR FRAME.
+16. NO BEAUTY AD SHIPS WITHOUT 3D CAMERA MOVE ON HERO PRODUCT.
+17. NO MOOD PIECE SHIPS WITHOUT AT LEAST ONE SILENT FRAME.
+18. NO CINEMATIC AD SHIPS WITHOUT NAMED COLORIST/FILM REFERENCE.
+19. NO REEL SHIPS WITHOUT 4-VOICE TEST PASSING.
+20. NO REEL SHIPS WITHOUT KINETIC STILLNESS / MICRO-LIFE LAYERS.
+
+These 20 rules are checked at Stage 11. Any failure = full rewrite from the failed stage.
+
+### X.16 — TOKEN ECONOMY (when output volume matters)
+
+When the user requests "reduced token consumption" or batch generation with size constraints, the engine applies COMPRESSION RULES that preserve every directive layer but pack them denser:
+
+COMPRESSION TECHNIQUES (each preserves directive compliance):
+
+1. PIPE-DELIMITED FIELD WRITING:
+Long-form: "FRAMING: MCU"
+Compressed: `MCU | 70% subj | eye-lvl | 3/4 turn | 35mm`
+
+2. CONCEPT-LINE-FIRST STRUCTURE:
+Compressed prompts open with: `[CONCEPT] | [Format] | [Pillar N] | [Setting] | [Register] | [Duration]` then frames.
+
+3. FRAME COMPRESSION SCHEMA:
+```
+F1 [Framing | Crop | Camera | Lens]
+SUB: [posture | hand | hair | wardrobe state | footwear]
+FACE: [eyes | brows | lips | cheeks | breath]
+GEST: [name | timing] | PROD: [name | how-held | label]
+SPAT: [FG / MG / BG]
+KIN: [1: micro-action | 2: fabric/hair | 3: particles | 4: contact | 5: BG motion | 6: light]
+LIGHT: [key | fill | rim | practical | temp]
+VO: "[verbatim]" | [pace | duck level]
+ANCHORS: [5-7 of 7] | EMO: [beat] | NEXT: [in 0.5s, X]
+TOOL: [tag]
+```
+
+4. SHARED-CONTEXT EXTRACTION:
+What's identical across frames (Concept Bible, Outfit Block, Setting Block, Voice Block) is written ONCE at top, then frames reference: `OUTFIT: see top`.
+
+5. NEGATIVE BLOCK DEDUPED:
+Standard negatives appear once at end of full prompt set, not per frame.
+
+6. DEFAULT INHERITANCE:
+Anything matching directive defaults isn't restated. E.g., if every frame uses 9:16, it's stated once at top, not per frame.
+
+COMPRESSION LIMITS:
+- A frame block can compress to ~80–120 words minimum
+- Below that, it loses directive compliance
+- Compression NEVER drops fields, only condenses notation
+
+### X.17 — INVOCATION
+
+To invoke the Prompt Generation Engine, use any of these triggers in the user message:
+
+```
+"Create [N] concepts" — engine runs full pipeline, outputs N concepts
+"Generate [theme] reel" — engine creates 1 concept on theme
+"Batch [N]" — engine generates N concepts with diversity enforcement
+"Compress" or "Reduce tokens" — engine applies Section X.16 compression
+"GRWM [stakes]" — format-locked GRWM with given stakes
+"Beauty ad [product]" — format-locked beauty ad
+"Mood [concept]" — format-locked mood piece
+```
+
+Default behavior when no trigger is given but user describes a concept: engine runs full pipeline assuming 1-concept generation.
+
+### X.18 — THE GUARANTEE
+
+When the engine runs correctly, every prompt produced satisfies ALL of the following simultaneously:
+
+✓ Aira identity-locked (face, body, hair, hands, footwear)
+✓ Aspect 9:16 native composition
+✓ Wardrobe pillar declared with 10 mandates met
+✓ Setting fully atmospheric, 4-Voice Test passing
+✓ Frame architecture rhythmic, joint-cuts safe
+✓ Per-frame expansion complete (no blank fields)
+✓ Kinetic stillness or micro-life layers present
+✓ Hyper-realistic facial dynamics specified per face frame
+✓ Voice block locked (AIRA PRIME, fresh signatures, Hindi placement)
+✓ Performance beats per frame
+✓ Spatial logic FG/MG/BG declared
+✓ Cinematic grade specified (lens, light, colorist, atmosphere)
+✓ Product performance + 3D camera coordinated (if ad)
+✓ GRWM 5 characteristics met (if GRWM)
+✓ Tool routing optimized per frame
+✓ Negative block appended
+✓ Pre-flight validation 100% pass
+✓ Output formatted per Stage 12 schema
+
+This is the GUARANTEE. Every prompt — without exception. No drift, no shortcuts, no vagueness. Every protocol active. Every detail explicit.
+
+---
+
+## END OF SYS DIRECTIVE 3 — v3.1
+
+This directive is now self-executing.
+Every future prompt routes through the Prompt Generation Engine (Part X).
+Compliance is automatic. Quality is non-negotiable.
+
+VERSION: 3.1
+STATUS: LOCKED — CANONICAL — SELF-EXECUTING
