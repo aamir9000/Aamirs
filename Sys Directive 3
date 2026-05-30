@@ -6309,17 +6309,9 @@ v3.8 — Consolidation pass + 6 new protocol parts (AC Audio, AD Text, AE Cover,
 
 ---
 
-## SYS DIRECTIVE 3 — END OF DOCUMENT
+## CHECKPOINT 3.8 — CONSOLIDATION + AC/AD/AE/AF/AG/AH PROTOCOLS + ENGINE INTEGRATION PATCHES
 
-VERSION: 3.8
-STATUS: LOCKED — CANONICAL — SELF-EXECUTING — LOOPHOLE-FREE — CONSOLIDATED — COMPLETE
-
-Every prompt — image, video, reel — references this canonical document.
-This is the only end marker. All prior "END OF" markers are checkpoints, not endings.
-
-Updates: any future change creates v3.9, v4.0, etc., logged in VERSION HISTORY above.
-
-
+(Continued — final canonical end marker at bottom of document at v3.9)
 
 ---
 
