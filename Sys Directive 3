@@ -6897,12 +6897,251 @@ v3.9 — Q.EXTENDED.II — GRWM 101% completeness with full integration (16 sub-
 
 ---
 
+## CHECKPOINT 3.9 — GRWM 101% INTEGRATED (Q.EXT.II added)
+
+(Continued — final canonical end marker at bottom of document at v3.10)
+
+
+
+---
+
+## PART AK — STATE PERSISTENCE & CUMULATIVE CONTINUITY PROTOCOL
+
+The single most failure-prone aspect of multi-frame AI generation: previously-applied state resetting between frames. If lipstick is on in Frame 3, it must still be on in Frame 4. If hair was towel-dried in Frame 2, it cannot revert to wet in Frame 3. This part enforces strict cumulative continuity — making every reel a single continuous timeline rather than a slideshow of related-but-independent images.
+
+### AK.1 — THE PRINCIPLE
+
+A reel is ONE continuous timeline. Every frame is a moment within that timeline. Once an element changes state (skin, hair, makeup, wardrobe, environmental position, prop placement), the new state PERSISTS forward — it cannot reset, cannot regress, cannot disappear unless an explicit reverse-change is shown.
+
+This is how real continuity works. This is how the eye reads "same world, same moment, time passing." Without this protocol, AI generators reset elements between frames and the reel reads as discontinuous — multiple short scenes rather than one unfolding moment.
+
+### AK.2 — THE STATE TRACKER
+
+Every reel maintains a STATE TRACKER — a running ledger of every element's state at every frame. The engine declares this at Stage 08 and validates it at Stage 11.
+
+STATE TRACKER STRUCTURE:
+
+```
+STATE TRACKER — [REEL CONCEPT NAME]
+
+ELEMENT                  | F1 | F2 | F3 | F4 | F5 | F6 | F7
+=========================|=====|=====|=====|=====|=====|=====|=====
+SKIN STATE               | bare | toner | toner+ serum | + foundation | + concealer + blush | + highlight + setting | full
+EYES STATE               | bare | bare | bare | primer | + shadow | + liner + mascara | full
+LIPS STATE               | bare | bare | bare | bare | bare | + lipstick | + gloss
+BROW STATE               | natural | natural | natural | natural | filled | filled + groomed | filled + groomed
+HAIR STATE               | wet/towel | wet/towel | towel-dried | sectioned + heat tool | mostly styled | fully styled | fully styled
+WARDROBE STATE           | robe | robe | robe | robe + earrings | + dress underlayer | + dress + heels | + dress + heels + bag
+JEWELRY STATE            | none | none | none | earrings on | earrings + ring | full set | full set
+FRAGRANCE STATE          | none | none | none | none | none | sprayed | sprayed
+SETTING - VANITY ITEMS   | products closed | toner open | + serum open | + foundation open | + brushes scattered | + lipstick open | partially packed up
+SETTING - LIGHTING       | morning soft | morning soft | morning soft | morning soft | golden afternoon | golden afternoon | golden afternoon (door open)
+AIRA POSTURE             | seated leaning | seated forward | seated 3/4 turn | seated frontal | seated frontal | standing | walking
+PROP - HEATED TOOL       | not visible | not visible | not visible | curling iron in hand active | iron set down warm | tool cooled | tool gone
+PROP - PHONE             | face-down | face-down | face-down | face-down | face-down | screen up | in bag
+```
+
+EVERY ELEMENT IN FRAME GETS A ROW. Engine maintains the table internally.
+
+### AK.3 — THE FORWARD-ONLY MOVEMENT RULE
+
+Once an element changes state in any direction, it can only move FORWARD on the timeline:
+
+PERMITTED:
+- bare → toner (forward step)
+- bare → toner → serum (cumulative forward)
+- wet hair → towel-dried → fully styled (forward progression)
+- robe → robe + earrings → robe + earrings + dress (additive)
+- products closed → first product open → multiple products open (progressive)
+
+FORBIDDEN:
+- toner → bare (reset — illegal)
+- foundation → no foundation (reset — illegal)
+- styled hair → wet hair (reverse — illegal unless reverse-change is shown explicitly)
+- earring on → earring off (regress — illegal unless removal beat is shown)
+- product open → product closed (snap-back — illegal)
+
+EXPLICIT REVERSE-CHANGE EXCEPTIONS (rare, declared):
+- "Aira removes earring at Frame 5 to inspect" — earring state legitimately moves with the action shown
+- "Aira blots lip with tissue" — lipstick state moves from "applied glossy" to "applied matte-blotted" (this is forward in finishing, not a reset)
+
+ALL STATE CHANGES MUST HAVE A SHOWN MOTIVATION. No element changes off-screen.
+
+### AK.4 — FRAME-TO-FRAME DIFF DECLARATION
+
+Engine MUST declare per-frame, in the prompt itself:
+
+```
+FRAME N — STATE DIFF
+
+PERSISTING FROM FRAME N-1 (must remain visible):
+- [list every state element from previous frame that carries forward]
+Example:
+  - Skin: still has toner from Frame 2
+  - Lips: still bare
+  - Hair: still towel-wrapped
+  - Wardrobe: still in robe
+  - Setting: window light still 4 PM golden
+
+NEW IN FRAME N (the change/delta):
+- [the one or two visible additions/changes]
+Example:
+  - Skin: serum droplet added on cheekbone (newly applied)
+  - Setting: serum bottle now open on vanity (was closed)
+
+NOT-YET-IN-FRAME (will appear in later frames):
+- [forward elements not yet introduced]
+Example:
+  - Foundation (Frame 4)
+  - Lipstick (Frame 5)
+  - Hair styling (Frame 4)
+```
+
+This DIFF DECLARATION goes into the actual generated prompt for the AI tool, so the model has explicit instructions to preserve previous-frame state.
+
+### AK.5 — CONTINUITY NEGATIVES (per frame)
+
+Every routine frame from Frame 2 onward gets continuity negatives auto-injected:
+
+```
+CONTINUITY NEGATIVE BLOCK (per frame N>=2):
+
+NEGATIVE: skin reset to bare, makeup disappearance, hair reverting to wet,
+hair reverting to undone, wardrobe disappearing, jewelry disappearing,
+products closing back up off-screen, lipstick wiping off, foundation
+vanishing, setting changing impossibly, lighting changing impossibly
+without time-passage cue, props teleporting, identity drift between frames,
+posture teleporting, wardrobe color change, hair length change, jewelry
+substitution.
+```
+
+This is appended IN ADDITION TO the standard image/video negatives.
+
+### AK.6 — THE SINGLE-TIMELINE PRINCIPLE
+
+Every multi-frame reel is ONE continuous timeline. Rules:
+
+1. TIME ALWAYS MOVES FORWARD between frames (chronological order)
+2. NO FLASHBACKS unless explicitly framed (rare, requires visual cue)
+3. EACH FRAME IS A MOMENT, NOT AN INDEPENDENT IMAGE
+4. THE VIEWER CAN PAUSE BETWEEN FRAMES — but cannot rewind
+5. WHAT WAS DONE STAYS DONE
+6. WHAT WASN'T YET INTRODUCED STAYS NOT-YET-INTRODUCED
+7. CONTINUITY OF STATE > CONTINUITY OF MOOD (mood can shift; state cannot regress)
+
+### AK.7 — STATE PERSISTENCE PRE-FLIGHT CHECKS
+
+Added to every multi-frame reel pre-flight:
+
+```
+[ ] State Tracker constructed for every element in reel
+[ ] Forward-only movement verified per element across frames
+[ ] Frame-to-Frame Diff declared per frame N>=2
+[ ] Continuity Negatives appended per frame
+[ ] No state regressions present
+[ ] All state changes have shown motivation (no off-screen changes)
+[ ] Identity locked across all frames
+[ ] Posture transitions logical (no teleporting)
+[ ] Setting elements track consistently (props don't appear/disappear)
+[ ] Lighting transitions logical (golden hour stays golden, doesn't reset to morning)
+```
+
+### AK.8 — THE GRWM-SPECIFIC STATE LAWS
+
+GRWM is the highest-stakes format for state persistence because of the visible transformation arc.
+
+LAW 1 — ANY MAKEUP APPLIED IN FRAME N MUST PERSIST FOREVER FORWARD
+- Concealer applied Frame 2 = visible in Frames 3, 4, 5, 6, 7
+- Lipstick applied Frame 5 = visible in Frames 6, 7
+- Mascara applied Frame 4 = visible in Frames 5, 6, 7
+
+LAW 2 — HAIR ARC PROGRESSES STRICTLY FORWARD
+- Frame 1: wet/towel-wrapped/undone
+- Frame 2-3: transitional (clipped, sectioned, partial dry)
+- Frame 4: mid-styling (heat tool active, sections released)
+- Frame 5: mostly styled, finishing
+- Frame 6: fully styled
+- Frame 7: fully styled (slight movement from walking, never resetting)
+
+LAW 3 — WARDROBE BUILDS ADDITIVELY
+- Frame 1: robe / towel / slip
+- Robe stays until wardrobe change beat is shown
+- New garments added cumulatively
+- Final outfit complete by Frame 6
+
+LAW 4 — PRODUCTS PROGRESS FROM CLOSED TO OPEN TO USED
+- Each product introduced ONCE
+- Once opened, stays open until reel ends or close-it beat shown
+- Used products accumulate on vanity surface
+- By Frame 5-6: vanity should look LIVED IN, not pristine
+
+LAW 5 — LIGHTING SHIFTS WITH TIME
+- If reel implies time passing (morning → afternoon), light naturally shifts
+- Golden hour deepening across frames is acceptable (forward time)
+- Random light changes between frames = FAIL
+
+LAW 6 — IDENTITY ABSOLUTELY PERSISTS
+- Same face across all frames (no drift)
+- Same body proportions (no drift)
+- Same skin tone, freckles, moles, asymmetries
+- Bare-face Frame 1 must be recognizably the SAME PERSON as Frame 6 made-up
+
+ENFORCEMENT RULE 58: STATE PERSISTENCE IS ABSOLUTE. Any element shown in Frame N must persist through Frame N+1, N+2... unless an explicit reverse-change beat is shown. Reset = FAIL = REWRITE.
+
+ENFORCEMENT RULE 59: FRAME-TO-FRAME DIFF MUST BE DECLARED per frame N>=2 in the actual generation prompt.
+
+ENFORCEMENT RULE 60: CONTINUITY NEGATIVES APPENDED to every routine frame.
+
+ENFORCEMENT RULE 61: GRWM STATE TRACKER IS MANDATORY. Skin / Eyes / Lips / Brow / Hair / Wardrobe / Jewelry / Fragrance / Setting / Posture / Props all tracked across all frames.
+
+ENFORCEMENT RULE 62: NO MAKEUP APPLIED IN ANY GRWM FRAME MAY DISAPPEAR IN A SUBSEQUENT FRAME. Once on, always on.
+
+ENFORCEMENT RULE 63: HAIR STATE PROGRESSES STRICTLY FORWARD. Wet cannot become dry without a shown drying beat. Styled cannot become unstyled.
+
+ENFORCEMENT RULE 64: WARDROBE BUILDS ADDITIVELY. Garments do not vanish or substitute between frames.
+
+### AK.9 — STATE PERSISTENCE GUARANTEE
+
+When the engine generates a multi-frame reel with State Persistence Protocol active:
+
+✓ Every element in every frame is tracked across the reel
+✓ Forward-only state movement enforced
+✓ Frame-to-Frame Diff declared per frame in actual prompt
+✓ Continuity negatives appended per frame
+✓ Identity locked across all frames
+✓ Makeup applied in Frame N is visible in Frame N+1, N+2, N+3...
+✓ Hair arc progresses strictly forward
+✓ Wardrobe builds additively
+✓ Products track from closed → open → used cumulatively
+✓ Lighting transitions logically with time-passage cues
+✓ Setting elements maintain continuous physical placement
+✓ Reel reads as ONE continuous timeline rather than slideshow
+
+The reel becomes literal storytelling — every frame is a moment within a continuous flow, every state visible to the viewer is a result of what happened in earlier frames, and the audience experiences the transformation as a real lived sequence rather than disconnected images.
+
+---
+
+## VERSION HISTORY (UPDATED)
+
+v3.0 — Initial canonical
+v3.1 — Part X engine
+v3.2 — Part Y object design
+v3.3 — Extended specs D, E, I, J, O, P, R
+v3.4 — Part Z three-performer coordination
+v3.5 — Part Z.EXTENDED body-language fluency
+v3.6 — Pillar 11
+v3.7 — Part AA hair + Part AB avant-garde
+v3.8 — Consolidation + AC/AD/AE/AF/AG/AH + AI engine patches + AJ master rules
+v3.8.1 — Stale references corrected
+v3.9 — Q.EXTENDED.II — GRWM 101% completeness
+v3.9.1 — Single end marker cleanup
+v3.10 — Part AK — State Persistence & Cumulative Continuity Protocol (frames are literal storytelling, no element resets)
+
+---
+
 ## SYS DIRECTIVE 3 — END OF DOCUMENT
 
-VERSION: 3.9
-STATUS: LOCKED — CANONICAL — SELF-EXECUTING — LOOPHOLE-FREE — CONSOLIDATED — COMPLETE — GRWM-101%-INTEGRATED
+VERSION: 3.10
+STATUS: LOCKED — CANONICAL — SELF-EXECUTING — LOOPHOLE-FREE — CONSOLIDATED — COMPLETE — GRWM-101%-INTEGRATED — STATE-PERSISTENCE-ENFORCED
 
-Every prompt — image, video, reel — references this canonical document.
-This is the only end marker. All prior "END OF" markers are checkpoints.
-
-Total enforcement rules: 57 (1-20 in Part X.15 + 21-41 individual + 42-57 in Q.EXT.II)
+Total enforcement rules: 64 (1-20 in Part X.15 + 21-41 individual + 42-57 in Q.EXT.II + 58-64 in Part AK)
