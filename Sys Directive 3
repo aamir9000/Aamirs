@@ -7139,9 +7139,327 @@ v3.10 — Part AK — State Persistence & Cumulative Continuity Protocol (frames
 
 ---
 
+## CHECKPOINT 3.10 — STATE PERSISTENCE ENFORCED (Part AK)
+
+(Continued — final canonical end marker at bottom of document at v3.11)
+
+
+
+---
+
+## PART AL — FRAME HANDOFF CONTINUITY PROTOCOL
+
+State persistence (Part AK) ensures elements don't disappear between frames. This part goes one critical step further: every frame begins EXACTLY where the previous frame ended. Frame 2 starts at the precise physical position Frame 1 closed on. Frame 3 starts at the precise position Frame 2 closed on. The reel reads as one continuous performance, stitched together at the cut points.
+
+This is action continuity — what cinematography calls "matching action" at the edit point. Without it, multi-frame reels read as a slideshow even when state persists.
+
+### AL.1 — THE PRINCIPLE
+
+Frame N+1 begins where Frame N ends.
+
+If Frame N closes with:
+- Aira's right hand raised toward her cheek
+- Eyes mid-blink at 70% closed
+- Lip parted on a held breath
+- Body in 3/4 turn, weight on left leg, hip popped
+- Curling iron in left hand, mid-section curl
+- Light in shaft from camera-left at golden hour
+- Dust motes drifting upward leftward
+
+Then Frame N+1 must open with EXACTLY THESE SAME STATES — same hand position, same blink phase (or completing it within the first 0.2s), same breath continuing, same body posture, same tool in same hand, same light, same particle drift. Then the action continues forward from there.
+
+The viewer should not be able to tell where the cut happened. The reel should feel like one breath, one continuous motion, broken only by deliberate camera moves or angle changes.
+
+### AL.2 — THE CLOSING-FRAME SPECIFICATION
+
+Every frame DECLARES its CLOSING STATE — what the final 0.5 seconds of the frame contains. This is then the OPENING STATE of the next frame.
+
+CLOSING STATE BLOCK (mandatory per frame N where N is not the last frame):
+
+```
+FRAME N — CLOSING STATE (final 0.5 seconds — handoff to Frame N+1)
+
+POSITION:
+- Body posture: [exact — seated 3/4 turn, weight 60/40 on left leg, etc.]
+- Hand positions: [left hand exact / right hand exact]
+- Head position: [tilt angle / direction faced]
+- Eye state: [open / mid-blink at X% / closed / mid-shift to direction]
+- Lip state: [closed / parted N mm / mid-phoneme of word X / smile partial]
+
+OBJECTS IN HAND:
+- Right hand: [exact object held, exact grip]
+- Left hand: [exact object held, exact grip]
+
+OBJECTS IN MOTION:
+- [any moving element and its direction/state at the close moment]
+
+ATMOSPHERIC STATE:
+- Light position: [shaft direction, intensity]
+- Particles: [drift direction at close]
+- Hair state: [position/motion at close]
+- Fabric state: [drape/motion at close]
+
+VOICE STATE:
+- VO: [completed line / mid-word / silent / breath]
+- Music: [playing at -X dB / ducked / silent]
+- Ambient: [continuing]
+
+THE CLOSING ACTION:
+- The micro-action being completed at this exact moment
+- What happens NEXT (immediately into Frame N+1)
+```
+
+### AL.3 — THE OPENING-FRAME SPECIFICATION
+
+Every frame N+1 DECLARES its OPENING STATE — which must MATCH Frame N's CLOSING STATE exactly in the first 0.2 seconds, then proceed forward.
+
+OPENING STATE BLOCK (mandatory per frame N+1):
+
+```
+FRAME N+1 — OPENING STATE (first 0.2 seconds — handoff from Frame N)
+
+INHERITED FROM FRAME N CLOSING STATE:
+- Body posture: [identical to Frame N close]
+- Hand positions: [identical]
+- Head position: [identical]
+- Eye state: [identical, completing from Frame N close phase]
+- Lip state: [identical, continuing]
+- Objects in hand: [identical]
+- Objects in motion: [continuing motion]
+- Light position: [identical]
+- Particles: [continuing drift]
+- Hair state: [continuing motion if mid-flick, settled if held]
+- Fabric state: [continuing]
+
+ACTION CONTINUES FROM HERE:
+- Frame N+1's action begins at 0.2s, building forward from the inherited state
+```
+
+### AL.4 — ACCEPTABLE DISCONTINUITIES (rare, deliberate)
+
+Some discontinuities ARE acceptable — but they must be deliberate cinematic choices, declared explicitly:
+
+ACCEPTABLE 1 — DELIBERATE CUT (camera angle change, time-passage suggestion):
+- Frame closes mid-action
+- Frame N+1 opens at slightly later moment with logical time-skip
+- Time-skip must be small (1-3 seconds) and CONSISTENT WITH STATE PROGRESSION
+- Example: Frame 3 closes with mascara wand approaching lash; Frame 4 opens with mascara now applied to lashes (1-2 seconds skipped, continuity preserved through state)
+
+ACCEPTABLE 2 — MATCH CUT:
+- Frame closes on one matching shape/motion
+- Frame N+1 opens on a different element with the same visual shape/motion
+- Used for poetic transitions
+
+ACCEPTABLE 3 — ANGLE CUT WITH SAME-TIME:
+- Frame N is over-shoulder shot
+- Frame N+1 is reverse angle showing same instant from different camera position
+- Hand positions, posture, eye-line all match — only camera moved
+
+ACCEPTABLE 4 — MAJOR SCENE TRANSITION (only at Frame 6 → Frame 7 in GRWM):
+- Frame 6: Aira in vanity reveal, full transformation visible
+- Frame 7: Aira at door, walking out
+- Time has passed — she has left vanity and crossed room
+- This is the only acceptable major time-skip in GRWM, because the exit beat IS a scene change
+
+### AL.5 — UNACCEPTABLE DISCONTINUITIES
+
+UNACCEPTABLE — STATE TELEPORT:
+- Frame closes with hand raised; next frame opens with hand at side (no transition shown)
+- Frame closes mid-blink; next frame opens with eyes wide open (no completion shown)
+- Frame closes with subject seated; next frame opens with subject standing (no rise shown)
+- Frame closes with mascara wand approaching lash; next frame opens with lipstick already on lips (skipping the in-between)
+
+UNACCEPTABLE — POSTURE RESET:
+- Frame closes with body in dramatic 3/4 turn; next frame opens with body frontal (no turn motivation)
+- Frame closes with hip popped; next frame opens square stance
+
+UNACCEPTABLE — OBJECT TELEPORT:
+- Curling iron in hand at frame close; gone in next frame's open without set-down shown
+- Lipstick on vanity Frame N; in hand Frame N+1 without pickup motion
+
+UNACCEPTABLE — LIGHTING SNAP:
+- Golden hour at Frame N close; afternoon white light at Frame N+1 open
+- Practical lit at Frame N close; dark at Frame N+1 open
+
+UNACCEPTABLE — PARTICLE FREEZE:
+- Dust motes drifting upward at Frame N close; same exact mote positions at Frame N+1 open (frozen) instead of continuing drift
+
+### AL.6 — THE HANDOFF DECLARATION FORMAT
+
+Engine writes the handoff specifically into the prompt for adjacent frames:
+
+```
+HANDOFF: FRAME N → FRAME N+1
+
+FRAME N (closing 0.5s):
+- Right hand mid-rise toward face, fingertip 2cm from cheekbone
+- Eyes 30% closed in slow-blink phase
+- Body seated, 3/4 turn camera-left, weight on left hip
+- Lip parted 1.5mm on inhale
+- Music at -12dB, ambient continuing
+- Light: golden window-key from camera-left, shaft visible with dust motes drifting upward
+- Hair: damp tendrils settled on right shoulder, slight motion continuing
+
+FRAME N+1 (opening 0.2s — INHERITED):
+- Right hand at exact 2cm from cheekbone (continuing rise)
+- Eyes completing slow-blink (closing the remaining 70% within 0.2s)
+- Body identical 3/4 turn, weight identical
+- Lip identical parted 1.5mm
+- Music continues at -12dB
+- Light continues from camera-left
+- Hair continues settling
+
+THEN at 0.2s+ the new frame's action begins:
+- Fingertip lands on cheekbone (skin compression visible at touch)
+- Eyes complete blink, reopen
+- New beat begins
+```
+
+This handoff declaration is appended directly into the generation prompt for both frames so the AI tool has explicit instructions to maintain continuity at the cut.
+
+### AL.7 — VOICE/AUDIO HANDOFF
+
+Audio also has handoff continuity:
+
+VOICE HANDOFF:
+- If Aira is mid-sentence at Frame N close: Frame N+1 picks up the sentence
+- If Aira is between sentences: silence carries across, then next thought begins
+- If Aira is mid-word (rare): word completes within first 0.3s of Frame N+1
+- VO never restarts
+
+MUSIC HANDOFF:
+- Music level at Frame N close = music level at Frame N+1 open
+- Musical phrase continues (not restarts) across the cut
+- If music ducked at Frame N close: stays ducked at Frame N+1 open until VO ends
+- BPM and key continue without break
+
+AMBIENT HANDOFF:
+- Ambient bed continues unchanged across all cuts
+- Room tone level remains consistent
+- Specific ambient elements (water dripping, traffic distant) maintain rhythm
+
+SFX HANDOFF:
+- If an SFX is mid-play at Frame N close: continues into Frame N+1
+- If new SFX hits in Frame N+1: lands at appropriate beat, never random
+
+### AL.8 — THE CONTINUOUS-PERFORMANCE TEST
+
+Before any reel ships, the engine runs the CONTINUOUS-PERFORMANCE TEST:
+
+Read all frames as one continuous timeline. Check:
+- Could this be played as one unbroken video? Yes / No
+- Are there any teleports? Any state resets? Any unexplained changes?
+- If you removed all frame-cut markers, would the action still flow? Yes / No
+
+If any answer fails — REWRITE the failing handoff.
+
+### AL.9 — HANDOFF PRE-FLIGHT (additional checks)
+
+Added to the master pre-flight:
+
+```
+[ ] CLOSING STATE declared per frame N (where N is not last frame)
+[ ] OPENING STATE declared per frame N+1 (matches closing state)
+[ ] All position/posture/object/eye/lip/light states match across handoffs
+[ ] Voice continues without restarts
+[ ] Music continues without restarts
+[ ] Ambient bed continues
+[ ] No teleports detected
+[ ] No state regressions detected
+[ ] Continuous-Performance Test passed
+[ ] Major scene transitions (if any) explicitly justified
+```
+
+### AL.10 — GRWM-SPECIFIC HANDOFFS
+
+GRWM cuts are particularly sensitive because intimacy depends on continuity.
+
+GRWM HANDOFF EXAMPLES:
+
+FRAME 1 → FRAME 2 (opening to first application):
+- Frame 1 closes: Aira's right hand has just tucked hair behind right ear, eyes locked to camera, breath held
+- Frame 2 opens: same hand still near ear (releasing strand), eyes still locked, breath releasing, then hand begins reaching for serum bottle
+
+FRAME 2 → FRAME 3 (first application to build):
+- Frame 2 closes: Aira's fingertip just released from cheekbone after pressing serum, eyes returning to mirror
+- Frame 3 opens: fingertip still descending, eyes completing return to mirror, then new product picked up
+
+FRAME 3 → FRAME 4 (build to pivot):
+- Frame 3 closes: Aira mid-application of foundation with sponge, head turning slightly toward mirror, eyes drifting
+- Frame 4 opens: head completing the turn, sponge moving away from face, eyes locking onto camera mid-rotation, then she sets down sponge, picks up lipstick (the pivot beat begins)
+
+FRAME 4 → FRAME 5 (pivot to near-complete):
+- Frame 4 closes: lipstick application complete, lips pressed together to set color, breath held
+- Frame 5 opens: lips releasing the press, breath releasing, hand setting down lipstick, then new product (mascara) reached for
+
+FRAME 5 → FRAME 6 (near-complete to reveal):
+- Frame 5 closes: mascara wand pulling away from upper lashes, eyes opening
+- Frame 6 opens: eyes fully opened, wand setting down on vanity, then Aira begins to rise from vanity (this is where the camera pulls back)
+
+FRAME 6 → FRAME 7 (reveal to exit — major scene transition allowed):
+- Frame 6 closes: Aira fully composed, slow turn complete, looking at camera with half-smile
+- Frame 7 opens: Aira mid-stride toward door (acceptable scene transition — small time skip implicit, she walked from vanity to door)
+
+ENFORCEMENT RULE 65: EVERY ADJACENT FRAME PAIR DECLARES HANDOFF — Frame N closing state matches Frame N+1 opening state.
+
+ENFORCEMENT RULE 66: NO TELEPORTS BETWEEN FRAMES — body position, hand position, head position, eye state, lip state, objects, light, hair, fabric all flow continuously.
+
+ENFORCEMENT RULE 67: VOICE/MUSIC/AMBIENT CONTINUE WITHOUT RESTARTS at frame cuts.
+
+ENFORCEMENT RULE 68: MAJOR SCENE TRANSITIONS REQUIRE EXPLICIT JUSTIFICATION (typically only Frame 6 → Frame 7 in GRWM).
+
+ENFORCEMENT RULE 69: CONTINUOUS-PERFORMANCE TEST MUST PASS — reel reads as one unbroken performance when frames are played sequentially.
+
+### AL.11 — THE LITERAL STORYTELLING GUARANTEE
+
+Combined with State Persistence (Part AK), this protocol delivers:
+
+✓ Every state persists forward (Part AK)
+✓ Every position/motion handoffs across cuts (Part AL)
+✓ Frame N+1 begins exactly where Frame N ends
+✓ Body, hands, eyes, lips, breath all continue without reset
+✓ Objects in hand carry across cuts unless visibly set down
+✓ Voice continues without restart
+✓ Music continues without restart
+✓ Ambient continues without break
+✓ Light continues without snap-change
+✓ Particles continue drifting
+✓ Hair continues motion
+✓ Fabric continues motion
+✓ Reel reads as ONE continuous performance — frame cuts are invisible
+
+The reel becomes literal storytelling at the highest level — not just state persistence (lipstick stays on) but motion-and-position continuity (the action that ended Frame 1 IS the action that begins Frame 2). The viewer experiences the reel as a single breath, a single performance, never broken.
+
+This is what cinematography calls **invisible editing** — the highest form of multi-frame craft.
+
+---
+
+## VERSION HISTORY (UPDATED)
+
+v3.0 — Initial canonical
+v3.1 — Part X engine
+v3.2 — Part Y object design
+v3.3 — Extended specs D, E, I, J, O, P, R
+v3.4 — Part Z three-performer coordination
+v3.5 — Part Z.EXTENDED body-language fluency
+v3.6 — Pillar 11
+v3.7 — Part AA hair + Part AB avant-garde
+v3.8 — Consolidation + AC/AD/AE/AF/AG/AH + AI/AJ
+v3.8.1 — Stale references corrected
+v3.9 — Q.EXTENDED.II — GRWM 101% completeness
+v3.9.1 — Single end marker cleanup
+v3.10 — Part AK — State Persistence (no element resets)
+v3.11 — Part AL — Frame Handoff Continuity (frame N+1 begins where frame N ends — invisible editing, literal storytelling)
+
+---
+
 ## SYS DIRECTIVE 3 — END OF DOCUMENT
 
-VERSION: 3.10
-STATUS: LOCKED — CANONICAL — SELF-EXECUTING — LOOPHOLE-FREE — CONSOLIDATED — COMPLETE — GRWM-101%-INTEGRATED — STATE-PERSISTENCE-ENFORCED
+VERSION: 3.11
+STATUS: LOCKED — CANONICAL — SELF-EXECUTING — LOOPHOLE-FREE — CONSOLIDATED — COMPLETE — GRWM-101%-INTEGRATED — STATE-PERSISTENCE-ENFORCED — FRAME-HANDOFF-CONTINUITY-LIVE
 
-Total enforcement rules: 64 (1-20 in Part X.15 + 21-41 individual + 42-57 in Q.EXT.II + 58-64 in Part AK)
+Total enforcement rules: 69 (1-20 in Part X.15 + 21-41 individual + 42-57 in Q.EXT.II + 58-64 in Part AK + 65-69 in Part AL)
+
+Every prompt — image, video, reel — references this canonical document.
+Every multi-frame reel passes through both State Persistence (AK) and Frame Handoff (AL) gates before shipping.
+The reel is a continuous performance, never a slideshow.
