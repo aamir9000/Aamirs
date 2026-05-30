@@ -7453,13 +7453,158 @@ v3.11 — Part AL — Frame Handoff Continuity (frame N+1 begins where frame N e
 
 ---
 
+## CHECKPOINT 3.11 — FRAME HANDOFF CONTINUITY LIVE (Part AL)
+
+(Continued — final canonical end marker at bottom of document at v3.12)
+
+
+
+---
+
+## PART Q.EXTENDED.III — GRWM DURATION STANDARDS
+
+The strategic length range for GRWM reels, locked to maximize completion rate, save rate, and algorithmic distribution while preserving the format's intimacy and narrative integrity.
+
+### Q.EXT.III.1 — THE STRATEGIC DURATION RANGE
+
+```
+GRWM CANONICAL DURATION:    40-56 seconds (DEFAULT — 80% of GRWM output)
+GRWM WORKING BAND:          32-64 seconds (full operational range)
+GRWM HARD FLOOR:            32 seconds (below this, format breaks)
+GRWM HARD CEILING:          64 seconds (above without exceptional cause = REWRITE)
+GRWM ABSOLUTE MAXIMUM:      90 seconds (only milestone/festival/once-a-quarter)
+ENGINE DEFAULT:             48 seconds = 6 frames × 8 seconds each
+```
+
+### Q.EXT.III.2 — WHY THIS RANGE
+
+THE 40-56s ZONE IS WHERE:
+- Algorithm completion rate stays above 70% (peak distribution)
+- Save rate is highest (viewers archive to re-watch)
+- Re-watch rate is highest (viewers loop the reel)
+- Top-performing creator GRWMs cluster (Hailey Bieber, Alix Earle, Diipa Khosla, Komal Pandey)
+- Indian and Western audiences both behave well (no regional drop-off)
+
+BELOW 32 SECONDS:
+- Transformation arc visibly compressed (skips beats)
+- Stakes don't have time to land
+- Format reads as teaser, not GRWM
+- Parasocial intimacy not built
+
+ABOVE 64 SECONDS WITHOUT JUSTIFICATION:
+- Completion rate drops below 50% (algorithm penalty)
+- Viewer feels reel "should have ended"
+- Save-rate doesn't compensate for completion-rate loss
+
+### Q.EXT.III.3 — STAKES-TIER DURATION MAPPING
+
+LIGHT STAKES TIER — 32-40s (4-5 frames):
+Examples: "Getting ready for casual brunch" / "Getting ready while overthinking a text" / "Getting ready for a regular Wednesday meeting"
+Charm-driven, lighter emotional arc, faster cadence
+Use: 25% of GRWM output
+
+MEDIUM STAKES TIER — 40-48s (5-6 frames) — DEFAULT:
+Examples: "Getting ready for the dinner where I'll see him" / "Getting ready for the launch event" / "Getting ready for first dinner with his parents"
+Standard transformation arc with full pivot beat
+Use: 50% of GRWM output (THE STANDARD)
+
+HEAVY STAKES TIER — 48-56s (6-7 frames):
+Examples: "Getting ready to confront her" / "Getting ready for the first event after the breakup" / "Getting ready for the family dinner where I have to tell them"
+Full arc with extended pivot, longer pivot-line beats, exit beat
+Use: 20% of GRWM output
+
+EMOTIONAL / HERITAGE / MILESTONE TIER — 56-64s (7-8 frames):
+Examples: "Getting ready for Karwa Chauth alone this year" / "Getting ready for the wedding I almost didn't attend" / "Getting ready for the Cannes after-party walking in alone"
+Reverent register, deeper silences, extended reveal
+Use: 5% of GRWM output (special occasions)
+
+### Q.EXT.III.4 — FRAME BUDGET TABLE (8s frames)
+
+```
+| Frames | Duration | Stakes Tier              |
+|========|==========|==========================|
+| 4      | 32s      | LIGHT                    |
+| 5      | 40s      | LIGHT-MEDIUM             |
+| 6      | 48s      | MEDIUM (DEFAULT)         |
+| 7      | 56s      | MEDIUM-HEAVY             |
+| 8      | 64s      | HEAVY-EMOTIONAL          |
+```
+
+ABOVE 8 FRAMES (>64s) — RARE EXCEPTION with explicit justification only.
+Maximum 90 seconds. Never exceeded.
+
+### Q.EXT.III.5 — INTERNAL PACING WITHIN DEFAULT ZONE
+
+OPENING (Frame 1) — 8 seconds — 17% of reel
+- 0-2s: opener + breath
+- 2-5s: stakes line
+- 5-8s: held eye contact / settle
+
+MIDDLE FRAMES (Frames 2-4 or 5) — 24-32 seconds — 50-58% of reel
+- Routine + voice continuation each
+- Pivot frame (Frame 4) extended internal pause (1-2s held silence)
+
+REVEAL + EXIT (Frames 5-6 or 6-7) — 8-16 seconds — 17-29% of reel
+- Reveal frame: composed beat + payoff
+- Exit beat: walk-out + sign-off + silence
+
+### Q.EXT.III.6 — DURATION-AUDIO COORDINATION
+
+32-40s GRWM: track hook within first 8s, one full vocal phrase, quick fade-out
+40-48s GRWM: two phrase cycles, build-up implied, standard duck-and-lift
+48-56s GRWM: emotional build (intensity ramp Frame 1 → Frame 4), pivot may have music-drop-to-silence, reveal lands on musical peak
+56-64s GRWM: extended ducks during VO, longer silence beats, exit fades over 4-5s
+
+### Q.EXT.III.7 — ENGINE INTEGRATION
+
+STAGE 04 amended:
+```
+DURATION BLOCK (mandatory per GRWM):
+STAKES TIER: [LIGHT / MEDIUM / HEAVY / EMOTIONAL-MILESTONE]
+TOTAL DURATION: [N seconds]
+FRAME COUNT: [4-8]
+FRAME DURATION: [default 8s]
+JUSTIFICATION (if outside default): [explicit reason]
+```
+
+PRE-FLIGHT additions:
+[ ] Stakes tier declared
+[ ] Duration matches tier per Q.EXT.III.3
+[ ] Frame count within 4-8 (or justified for >8)
+[ ] Duration within 32-64s band (or justified for >64s)
+[ ] Pacing rhythm correctly distributed
+
+ENFORCEMENT RULE 70: GRWM DURATION STAYS WITHIN 32-64 SECOND WORKING BAND. Outside without justification = REWRITE.
+ENFORCEMENT RULE 71: GRWM STAKES TIER MUST MATCH DURATION. Heavy stakes in 32s = fails. Light stakes in 64s = fails.
+ENFORCEMENT RULE 72: GRWM DEFAULT IS 48 SECONDS (6 frames × 8s). Engine selects this when no specific tier signal given.
+
+### Q.EXT.III.8 — DURATION GUARANTEE
+
+Every GRWM produced now satisfies:
+✓ Within 32-64s working band (40-56s default)
+✓ Frame count 4-8 (5-7 default)
+✓ Duration matched to stakes tier
+✓ 8-second frames as engine preference
+✓ Pacing distributed correctly
+✓ Audio coordinated with duration
+✓ Algorithm performance optimized (>70% completion rate target)
+✓ Save-rate and re-watch-rate maximized
+✓ Top-creator length-tier alignment
+
+GRWM duration is strategically locked.
+
+---
+
+## VERSION HISTORY
+
+v3.0 → v3.11 — see prior history
+v3.12 — Q.EXTENDED.III GRWM Duration Standards (32-64s band, 40-56s default, stakes-tier mapping, rules 70-72)
+
+---
+
 ## SYS DIRECTIVE 3 — END OF DOCUMENT
 
-VERSION: 3.11
-STATUS: LOCKED — CANONICAL — SELF-EXECUTING — LOOPHOLE-FREE — CONSOLIDATED — COMPLETE — GRWM-101%-INTEGRATED — STATE-PERSISTENCE-ENFORCED — FRAME-HANDOFF-CONTINUITY-LIVE
+VERSION: 3.12
+STATUS: LOCKED — CANONICAL — SELF-EXECUTING — LOOPHOLE-FREE — CONSOLIDATED — COMPLETE — GRWM-101%-INTEGRATED — STATE-PERSISTENCE-ENFORCED — FRAME-HANDOFF-CONTINUITY-LIVE — DURATION-STRATEGIC
 
-Total enforcement rules: 69 (1-20 in Part X.15 + 21-41 individual + 42-57 in Q.EXT.II + 58-64 in Part AK + 65-69 in Part AL)
-
-Every prompt — image, video, reel — references this canonical document.
-Every multi-frame reel passes through both State Persistence (AK) and Frame Handoff (AL) gates before shipping.
-The reel is a continuous performance, never a slideshow.
+Total enforcement rules: 72 (1-20 Part X.15 + 21-41 individual + 42-57 Q.EXT.II + 58-64 Part AK + 65-69 Part AL + 70-72 Q.EXT.III)
