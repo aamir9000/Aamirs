@@ -7602,9 +7602,315 @@ v3.12 — Q.EXTENDED.III GRWM Duration Standards (32-64s band, 40-56s default, s
 
 ---
 
+## CHECKPOINT 3.12 — GRWM DURATION STANDARDS LOCKED (Q.EXT.III)
+
+(Continued — final canonical end marker at bottom of document at v3.13)
+
+
+
+---
+
+## PART AM — ACCESSORIES LOCK PROTOCOL
+
+Accessories carry signature weight. They appear, disappear, and persist across reels at a level demanding explicit tracking, parallel to the wardrobe and identity locks.
+
+### AM.1 — THE PRINCIPLE
+
+Accessories fail in four specific ways across AI generation: appearing out of thin air mid-reel, changing between frames, mismatching register (heritage jhumkas with futurist outfit), and lacking design specificity. The Accessories Lock fixes all four through structured tracking, design specification, and rotation enforcement.
+
+### AM.2 — THE ACCESSORIES INVENTORY
+
+Every reel declares an ACCESSORIES INVENTORY at Stage 05. Every accessory is named, designed, placed:
+
+```
+ACCESSORIES INVENTORY (mandatory per reel):
+
+EARRINGS:
+- TYPE: [stud / hoop / drop / chandelier / threader / cuff / jhumka / bali / huggies]
+- SIZE: [micro 2-4mm / small 6-10mm / medium 12-20mm / statement 25mm+]
+- METAL: [gold yellow / gold rose / gold antique / silver / chrome / platinum / brass / mixed]
+- STONE/DETAIL: [diamond / pearl / ruby / emerald / kundan / meenakari / no stone / enameled]
+- ASYMMETRY: [matched pair / asymmetric pair / single (one ear only)]
+- DESIGN ERA: [classical / Art Deco / 70s / contemporary / heritage Indian / modernist]
+
+NECKLACE:
+- TYPE: [delicate chain / collar / pendant / choker / multi-strand / lariat / heritage / bib / Y-chain / no necklace]
+- LENGTH: [16" / 18" / 20" / 24" / longer]
+- METAL: [matched-or-contrast to earrings]
+- PENDANT/DETAIL: [exact piece — single diamond / locket / charm / heritage motif]
+
+BRACELET / BANGLE:
+- TYPE: [tennis / cuff / chain / charm / bangle stack / heritage / single / paired wrist / no bracelet]
+- SIZE: [thin / medium / chunky]
+- METAL: [matched]
+- WRIST: [left / right / both]
+
+RING(S):
+- COUNT: [0 / 1 / 2 / stack of 3-4 / multiple stacked]
+- FINGERS: [exact fingers — index L / middle L / ring R / etc.]
+- TYPES: [solitaire / signet / band / cocktail / heritage / charm]
+- METAL: [matched]
+
+WATCH:
+- TYPE: [no watch / classic dress watch / sport / heritage / smart-watch styled]
+- BRAND-NEUTRAL OR NAMED: [generic-luxury / branded for collab]
+- METAL/STRAP: [leather / metal bracelet / mesh / fabric]
+- WRIST: [left typically; right if signature beat]
+
+BAG / CLUTCH:
+- TYPE: [clutch envelope / box clutch / minaudière / shoulder / tote / crossbody / no bag]
+- SIZE: [evening / day / oversized]
+- MATERIAL: [leather / satin / sequined / embellished / metallic]
+- COLOR: [matched / hero contrast]
+
+EYEWEAR:
+- TYPE: [no eyewear / sunglasses / optical glasses]
+- FRAME: [aviator / cat-eye / oversized / round / geometric / wireframe / no frame]
+- LENS: [tinted / clear / mirrored / gradient]
+- COLOR: [tortoise / black / metal / clear acetate / colored]
+
+HAIR ACCESSORY:
+- TYPE: [no hair accessory / silk scarf / pearl pin / fresh flower / vintage barrette / claw clip / maang tikka / hair chain / metallic cuff / sculptural pin]
+- PLACEMENT: [exact location — temple / crown / nape / tucked behind ear]
+
+BELT (if pillar requires):
+- TYPE: [thin metal-buckle / wide statement / heritage embroidered / corset]
+- METAL/MATERIAL: [leather / silk / metallic / fabric]
+
+OTHER:
+- Brooch / Anklet / Toe ring / Body chain — specify only if culturally significant
+```
+
+### AM.3 — ACCESSORIES PILLAR MATCHING
+
+EVERY ACCESSORY MATCHES OUTFIT PILLAR REGISTER:
+
+PILLAR 1 (Modern Minimalist Luxe): delicate gold (16-18" chain, small studs, signet ring); max 2 statement; no heritage motifs
+PILLAR 2 (Editorial Bold): architectural sculptural earrings OR oversized statement; one bold ring OR one bold cuff (never both)
+PILLAR 3 (Effortless Day): layered delicate gold, dainty rings stack, canvas/raffia bag, simple watch
+PILLAR 4 (Indo-Modern Fusion): heritage reimagined — jhumkas / kundan layered, maang tikka, statement nath, bangles, embroidered juttis, potli/modern clutch
+PILLAR 5 (Evening Defined): statement earrings OR statement bracelet (one hero); small embellished clutch; one bold ring
+PILLAR 6 (Sculpted Active): minimal — small studs, delicate chain, sleek smartwatch, cap, small leather sling
+PILLAR 7 (Street Edge): layered chains (silver-toned), oversized shades, multiple ear piercings, statement watch, structured backpack
+PILLAR 8 (Romantic Ethereal): delicate gold/rose-gold, small pearl studs, fresh florals; soft metals only
+PILLAR 9 (Architectural Futurist): SINGULAR sculptural piece — one geometric earring OR bold cuff OR futuristic shades
+PILLAR 10 (Warm Heritage): vintage gold (signet rings, charm bracelets, antique chains), silk neckscarf, tortoiseshell sunglasses, leather-strap watch
+PILLAR 11 (Sensual Editorial Celebrity): statement earrings OR statement bracelet (ONE hero — celebrity rule); small clutch; one bold ring max; minimal hair accessories
+AVANT-GARDE: singular sculptural piece OR none
+
+### AM.4 — ACCESSORIES STATE PERSISTENCE (Part AK Integration)
+
+Accessories obey State Persistence:
+- Worn in Frame N must persist through Frame N+1, N+2... unless removal beat shown
+- Cannot substitute (same earrings throughout, never different next frame)
+- New accessories appear only via shown wearing-on beat
+- Earrings put on Frame 4 = visible Frames 5, 6, 7
+
+### AM.5 — ACCESSORIES IN GRWM CONTEXT
+
+GRWM has accessories APPEARING during reel — not on at Frame 1, fully on by Frame 6.
+
+GRWM ACCESSORY ARC:
+- FRAME 1: No jewelry on body; visible on vanity/tray (laid out, sparkles in light)
+- FRAMES 2-3: Some pieces start appearing (one earring slipping in, ring slipped on)
+- FRAME 4: Earrings being put in (mirror-check beat)
+- FRAME 5: Full set appearing on body
+- FRAME 6 (Reveal): All accessories complete on body
+- FRAME 7 (Exit): Bag added, fragrance applied (last beats)
+
+Engine declares WHICH frame each accessory enters body.
+
+### AM.6 — ACCESSORIES PRE-FLIGHT
+
+[ ] Accessories Inventory complete for reel
+[ ] All accessories pillar-matched
+[ ] Asymmetry/matched-pair specified per accessory
+[ ] Design fields filled (type, size, metal, stone, era)
+[ ] State Persistence applied (no teleporting between frames)
+[ ] GRWM-specific: accessory arc declared (which frame each piece enters body)
+[ ] Maximum 3 statement pieces per look (Pillar 11 max 2)
+[ ] Hero accessory category declared
+
+ENFORCEMENT RULE 73: ACCESSORIES INVENTORY MANDATORY. Generic accessories ("earrings") forbidden. Each piece designed.
+ENFORCEMENT RULE 74: ACCESSORIES PILLAR-MATCHED. Cross-register accessories forbidden unless intentional Indo-fusion.
+ENFORCEMENT RULE 75: ACCESSORIES PERSIST FORWARD. Once worn, visible in all subsequent frames.
+ENFORCEMENT RULE 76: ASYMMETRIC vs MATCHED PAIR DECLARED. Mismatched left/right without intent = FAIL.
+ENFORCEMENT RULE 77: GRWM ACCESSORY ARC TRACKED. Each accessory's "frame of entry" specified.
+
+---
+
+## PART AN — GRWM SUBCONSCIOUS MOVEMENTS LIBRARY
+
+The small unconscious-feeling beats that make Aira read as a real person being filmed rather than a subject performing. These live BETWEEN named subject moves and charm moves — connective tissue of being-alive-and-getting-ready.
+
+### AN.1 — THE PRINCIPLE
+
+A GRWM is intimate because the viewer feels they're catching real behavior, not staged content. Real behavior has unconscious moments — leaning to check the mirror, glancing down to grab a tool, adjusting a slipped strap, tapping the side of a product. These are micro-gestures that happen WITHOUT thought — and when included, they elevate GRWM from "made for camera" to "captured by camera."
+
+### AN.2 — THE 30 SUBCONSCIOUS MOVEMENTS (SCM Library)
+
+CAMERA / MIRROR INTERACTIONS (1-8):
+
+SCM-1 LEAN-IN-TO-MIRROR-CHECK
+Aira leans face fractionally closer to mirror (1-3cm) to inspect specific detail (mascara, blush, lip line). Eyes narrow with focus. Returns to position. Never acknowledges camera consciously — she's checking herself.
+
+SCM-2 CHIN-TILT-FOR-LIGHT-ANGLE
+Tilts chin slightly up or down to catch light better while applying. Functional, not performative. Light visibly catches cheekbone or forehead at new angle.
+
+SCM-3 SIDE-PROFILE-CHECK
+Turns head briefly to side-profile to verify symmetry. 0.3-0.5s glance. Returns. Common during cheek/jaw application.
+
+SCM-4 EYEBROW-LIFT-FOR-ACCESS
+While applying eye product, eyebrow lifts subtly to give better access to lid. Functional anatomy.
+
+SCM-5 LEAN-BACK-TO-EVALUATE
+After applying something, leans back from mirror briefly (3-5cm) to see overall effect. Eyes scan reflection. Returns to continue.
+
+SCM-6 FACE-TILT-LEFT-RIGHT
+Tilts entire head left then right slightly while looking at mirror — comparing both sides of face symmetry.
+
+SCM-7 SQUINT-OF-FOCUS
+Eyes narrow slightly during precision moments (eyeliner, lip line). Not posed concentration — actual focus tension.
+
+SCM-8 GLANCE-TO-PRODUCT-AND-BACK
+Eyes flick down to product label/brush briefly to check, then back to face. Quick reference glance, 0.4-0.6s.
+
+OBJECT/PRODUCT BEATS (9-18):
+
+SCM-9 LEAN-OVER-TO-PICK-UP
+Body leans slightly forward and to one side to grab product on vanity. Hip and torso shift, return upright. Real reach physics.
+
+SCM-10 PRODUCT-TAP-TO-SETTLE
+Taps bottom of product (foundation, sprayer) to settle formula before opening. 2-3 quick taps. Functional.
+
+SCM-11 BRUSH-FLICK-OFF-EXCESS
+Holds brush, taps it on side of palette/jar/wrist to remove excess. Quick functional motion, dust visible briefly.
+
+SCM-12 SHAKE-BOTTLE-BEFORE-USE
+Single quick shake of nail polish or foundation bottle before opening. Wrist motion.
+
+SCM-13 DROP-AND-CATCH-FUMBLE
+Almost-drops a product, catches it with second hand or against thigh. Brief recovery beat. Real-life clumsy moment.
+
+SCM-14 SIDE-EYE-TO-PRODUCT-LINEUP
+Glance sideways at products laid out, scanning for next one needed. Doesn't move head, just eyes.
+
+SCM-15 CAP-TWIRL-IN-FINGERS
+While speaking, twirls a small cap or applicator between thumb and finger. Idle hand movement during VO.
+
+SCM-16 PRODUCT-TO-CHEEK-WARMTH
+Briefly holds product (lip balm, cream) against cheek/wrist to warm it before applying. Real beauty technique.
+
+SCM-17 RUB-FINGERTIPS-TOGETHER
+After dispensing serum/cream onto fingertips, rubs them together to warm and emulsify. 1-2 quick rubs.
+
+SCM-18 BLOW-ON-NAIL-OR-BRUSH
+Soft puff of breath onto wet nail polish, freshly-loaded brush, or warm tool to cool. Small natural beat.
+
+BODY/POSTURE BEATS (19-25):
+
+SCM-19 SHOULDER-ROLL-TO-RELEASE-TENSION
+Single shoulder rolls back, releasing held tension. Often after focused application beat. Functional release.
+
+SCM-20 NECK-ROLL-SIDE
+Tilts head to one side, holds for a beat, returns. Releasing neck tension during routine.
+
+SCM-21 STRAP-ADJUST
+If wearing slip/robe with strap — slipped strap pulled back up unconsciously without breaking eye-contact-with-mirror. Functional.
+
+SCM-22 ROBE-CINCH-TIGHTEN
+Re-cinches robe belt during reel, tightens around waist. Quick functional motion.
+
+SCM-23 LEG-CROSS-OR-UNCROSS
+While seated, recrosses legs or shifts weight. Subtle posture reset.
+
+SCM-24 STRETCH-FINGERS
+Hand stretches or splays briefly between products — releasing micro-tension.
+
+SCM-25 SCRATCH-OR-RUB-ITCH
+Quick scratch at neck or behind ear — completely real-human moment. Use sparingly (once per reel max).
+
+JEWELRY/ACCESSORY BEATS (26-30):
+
+SCM-26 EARRING-PUT-IN-WITH-MIRROR-CHECK
+Tilts head to one side, hand finds earlobe, slides earring through, secures back, glances at mirror to verify. Common Frame 4-5 beat.
+
+SCM-27 EARRING-TOUCH-CHECK
+After earrings on, fingertip briefly touches one earring to verify it's secure. Real human anxiety beat.
+
+SCM-28 NECKLACE-CLASP-BEHIND-NECK
+Both hands rise behind neck to fasten necklace clasp. Brief lean back, lifted chin. Functional.
+
+SCM-29 BANGLE-SLIDE-DOWN-WRIST
+Slides bangles down wrist to settle them, or up to push out of way of routine.
+
+SCM-30 RING-TWIST-WHILE-SPEAKING
+Idle ring-twist between thumb and finger during VO. Common in pivot frame when she's thinking out loud.
+
+### AN.3 — RULES OF SCM USE
+
+RULE 1 — PER-REEL COUNT: Use 2-4 SCMs across a GRWM reel. More than 4 = busy. Fewer than 2 = clinical.
+RULE 2 — DISTRIBUTION: Spread across multiple frames. Never two SCMs in same frame.
+RULE 3 — INVISIBILITY: Viewer should NOT register these as "moves" — read as natural behavior. If viewer thinks "she just did a beat" — over-performed.
+RULE 4 — AUTHENTICITY HIERARCHY: SCMs are MORE intimate than charm moves. They suggest "she forgot the camera was on" — highest GRWM intimacy.
+RULE 5 — DURATION: Each SCM 0.3-1.0 seconds. Quick. Subtle. Folded into other actions.
+RULE 6 — CHARM vs SCM:
+- Charm moves (CM): aware, slightly performative, "knowing wink"
+- SCMs: unaware, functional, "real human"
+- A GRWM reel may have ONE charm move PLUS 2-4 SCMs. Different functions.
+
+### AN.4 — SCM-FRAME PLACEMENT GUIDE
+
+FRAME 1 (Opening): SCM-7 squint-of-focus / SCM-8 glance-to-product / SCM-22 robe-cinch
+FRAME 2 (First Application): SCM-9 lean-over-to-pick-up / SCM-10 product-tap / SCM-17 rub-fingertips / SCM-21 strap-adjust
+FRAME 3 (Build): SCM-1 lean-in-mirror / SCM-2 chin-tilt-for-light / SCM-11 brush-flick / SCM-14 side-eye-to-products
+FRAME 4 (Pivot): SCM-15 cap-twirl / SCM-30 ring-twist-while-speaking / SCM-19 shoulder-roll
+FRAME 5 (Near-Complete): SCM-26 earring-put-in / SCM-27 earring-touch-check / SCM-28 necklace-clasp / SCM-3 side-profile-check
+FRAME 6 (Reveal): SCM-5 lean-back-to-evaluate / SCM-6 face-tilt-left-right
+FRAME 7 (Exit): SCM-21 strap-adjust / SCM-22 robe-cinch / SCM-29 bangle-slide-down
+
+### AN.5 — INTEGRATION
+
+STAGE 08 (Per-Frame Expansion) amended:
+
+```
+SUBCONSCIOUS MOVEMENT BLOCK (per frame, optional):
+SCM USED: [name from AN.2 or "none"]
+TIMING: [seconds within frame]
+DURATION: [0.3-1.0s]
+FUNCTIONAL CONTEXT: [what real-world reason motivates beat]
+INTEGRATION: [folded into which other action]
+```
+
+Engine selects 2-4 SCMs across reel based on stakes register and frame structure.
+
+ENFORCEMENT RULE 78: GRWM USES 2-4 SUBCONSCIOUS MOVEMENTS ACROSS REEL. Zero = clinical. More than 4 = over-performed.
+ENFORCEMENT RULE 79: SCMs MUST READ AS UNCONSCIOUS, not performed. Visible-as-moves = wrong.
+ENFORCEMENT RULE 80: SCM PLACEMENT FOLLOWS AN.4 FRAME GUIDE.
+
+### AN.6 — THE INTIMACY GUARANTEE
+
+When the engine uses SCMs correctly, GRWM achieves the highest intimacy register:
+✓ Real-human texture in every frame
+✓ Body alive, functional, not posed
+✓ Viewer feels they're watching something not made for them — deepest engagement state
+✓ Functional motivations underneath every beat
+✓ Layered movement: named moves + charm moves + SCMs + body-language laws together
+
+GRWM becomes highest-craft version of format — feels caught, not made.
+
+---
+
+## VERSION HISTORY
+
+v3.0 → v3.12 — see prior history
+v3.13 — Part AM Accessories Lock + Part AN GRWM Subconscious Movements Library (rules 73-80)
+
+---
+
 ## SYS DIRECTIVE 3 — END OF DOCUMENT
 
-VERSION: 3.12
-STATUS: LOCKED — CANONICAL — SELF-EXECUTING — LOOPHOLE-FREE — CONSOLIDATED — COMPLETE — GRWM-101%-INTEGRATED — STATE-PERSISTENCE-ENFORCED — FRAME-HANDOFF-CONTINUITY-LIVE — DURATION-STRATEGIC
+VERSION: 3.13
+STATUS: LOCKED — CANONICAL — SELF-EXECUTING — LOOPHOLE-FREE — CONSOLIDATED — COMPLETE — GRWM-101%-INTEGRATED — STATE-PERSISTENCE-ENFORCED — FRAME-HANDOFF-CONTINUITY-LIVE — DURATION-STRATEGIC — ACCESSORIES-LOCKED — SUBCONSCIOUS-INTIMACY-LIVE
 
-Total enforcement rules: 72 (1-20 Part X.15 + 21-41 individual + 42-57 Q.EXT.II + 58-64 Part AK + 65-69 Part AL + 70-72 Q.EXT.III)
+Total enforcement rules: 80 (1-20 Part X.15 + 21-41 individual + 42-57 Q.EXT.II + 58-64 Part AK + 65-69 Part AL + 70-72 Q.EXT.III + 73-77 Part AM + 78-80 Part AN)
