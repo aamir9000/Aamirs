@@ -6318,3 +6318,599 @@ Every prompt — image, video, reel — references this canonical document.
 This is the only end marker. All prior "END OF" markers are checkpoints, not endings.
 
 Updates: any future change creates v3.9, v4.0, etc., logged in VERSION HISTORY above.
+
+
+
+---
+
+## PART Q.EXTENDED.II — GRWM 101% COMPLETENESS & FULL INTEGRATION
+
+This part closes every gap in GRWM by integrating it with all post-v3.4 protocol additions: Hair (Part AA), Makeup (Part AH), Audio (Part AC), Color Grade (Part AG), Cover Frame (Part AE), Three-Performer Coordination (Part Z), Body-Language Fluency (Part Z.EXT), Object Design (Part Y), Hyper-Realistic Facial Dynamics (Part R.EXT). After this part, GRWM is fully production-complete with no remaining loopholes.
+
+### Q.EXT.II.1 — GRWM × HAIR PROTOCOL (Part AA Integration)
+
+GRWM hair has a unique trajectory: it CHANGES across the reel as part of the transformation arc. This is unlike any other format.
+
+GRWM HAIR ARC (mandatory per GRWM reel):
+
+FRAME 1 (Opening State) — UNDONE HAIR STATES (pick one):
+- Wet from shower (towel-just-removed)
+- Air-dried mess (overnight bedhead-styled)
+- Towel-wrapped turban (white or cream, classic)
+- Silk-towel hair wrap (heritage / luxury indoor)
+- Damp from face-wash (slightly water-droplet)
+- Loose low pony for prep (held back during skincare)
+- Bedhead second-day (slept on, slightly flat one side)
+- Wrapped in silk scarf at temples (heritage prep)
+
+FRAMES 2-3 (Skincare/Base) — TRANSITIONAL HAIR STATES:
+- Pulled back into claw-clip (working hands-free)
+- Tucked behind both ears
+- Center-parted and held back
+- Half-clipped half-loose (one side worked already)
+
+FRAME 4 (Pivot — when hair styling happens):
+- MID-WORK HAIR STATE (hot tool / brush / clip in hand):
+  * Sectioned with visible clips
+  * Mid-curl on barrel
+  * Mid-flat-iron stroke
+  * Mid-blow-dry with brush
+  * Mid-twist into final form
+
+FRAMES 5-6 (Near-Complete / Reveal) — FINAL HAIR CONCEPT:
+- Hair concept (HC-N) from Part AA library
+- ROTATION RULE applies — not used in last 10 reels
+- Pillar-matched to closing-state outfit pillar
+
+FRAME 7 (Exit Beat):
+- Hair settled, possibly hair-flip or hair-tuck signature beat
+
+GRWM HAIR PRE-FLIGHT (added):
+[ ] Hair Arc declared (opening state → transitional → mid-work → final concept)
+[ ] Final hair concept (HC-N) selected per Part AA
+[ ] Final hair concept matches closing-state pillar (per AA.4 matching)
+[ ] Hair concept passes 10-reel rotation check
+[ ] Mid-work hair state in Frame 4 specifies tool + technique
+[ ] Hair behavior coordinated with Part Z subject performance moves
+
+ENFORCEMENT RULE 42: GRWM REQUIRES FULL HAIR ARC (opening undone → mid-work → final concept). Static hair across all frames = FAIL. Same hair in Frame 1 as Frame 6 = FAIL.
+
+### Q.EXT.II.2 — GRWM × MAKEUP PROTOCOL (Part AH Integration)
+
+GRWM makeup also follows an arc — bare to complete — across frames.
+
+GRWM MAKEUP ARC (mandatory per GRWM reel):
+
+FRAME 1 (Opening State) — BARE-FACE STATE:
+- Truly bare: no foundation, no concealer, no shaped brow, no mascara
+- Real skin texture visible (pores readable, refined)
+- Natural lash (no curl, no mascara)
+- Bare lip (slight chap or natural pink, no liner, no color)
+- Brow groomed but unfilled (natural shape, slight asymmetry)
+- Skin condition: visible texture, possible under-eye softness, slight tired-fresh look
+- NEVER glam-fake-bare (no contouring disguised as no-makeup)
+
+FRAMES 2-3 (Skincare / Base) — BUILDING:
+- Skincare visible on skin (toner sheen, serum droplet absorbing, moisturizer slight gloss)
+- Then primer / SPF (slight sheen)
+- Then foundation in early stages (partial coverage visible)
+- Concealer dots visible at this point
+
+FRAMES 3-5 (Build through Pivot) — PROGRESSION:
+- Each frame shows visible delta in makeup completion
+- Eyes done before lips (or vice versa, declare order)
+- Cheek color appears
+- Defined brow appears
+- Mascara appears
+- Highlight appears
+
+FRAMES 5-6 (Near-Complete / Reveal) — FINAL MAKEUP LOOK:
+- Makeup look (ML-N) from Part AH library
+- ROTATION RULE applies — not used in last 10 reels
+- Pillar-matched to closing-state outfit pillar
+
+FRAME 7 (Exit Beat):
+- Makeup fully set, possibly fragrance application visible (atomizer to neck)
+
+GRWM MAKEUP PRE-FLIGHT (added):
+[ ] Makeup Arc declared (bare → building → progression → final look)
+[ ] Final makeup look (ML-N) selected per Part AH
+[ ] Makeup look matches closing-state pillar (per AH.2 matching)
+[ ] Makeup look passes 10-reel rotation check
+[ ] Bare-face state in Frame 1 is REAL bare, not glam-fake-bare
+[ ] Each frame shows visible makeup progression delta
+
+ENFORCEMENT RULE 43: GRWM REQUIRES TRUE BARE-FACE FRAME 1. No foundation, no contour, no mascara, no shaped brow. Glam-fake-bare = FAIL.
+
+ENFORCEMENT RULE 44: GRWM REQUIRES VISIBLE MAKEUP DELTA per progression frame. Frame 3 must show visibly more makeup than Frame 2.
+
+### Q.EXT.II.3 — GRWM × IDENTITY LOCK (Bare-Face Frame 1 Specifics)
+
+When Aira's face is bare in Frame 1, identity drift risk increases (no makeup means no shape-anchors). Lock these:
+
+BARE-FACE IDENTITY ANCHORS:
+- Same face geometry as makeup-on frames (jaw, eye spacing, nose bridge, lip shape, ear shape)
+- Same skin tone (warm honey-to-caramel, golden undertone)
+- Same hairline (no drift)
+- Same brow shape (natural, ungroomed-yet)
+- Same lip shape (defined cupid's bow, full)
+- Eyes: same color, same size, same shape (almond, dark brown iris with amber flecks)
+- Skin texture: real pores, slight under-eye softness, no blur
+- Slight natural flush at apple-of-cheek (warm undertone visible)
+
+BARE-FACE ANTI-DRIFT NEGATIVES:
+"NEGATIVE: identity drift, different person, age drift younger, age drift older, plastic skin, doll-face, generic-bare-skin, oversmoothed, photoshopped, AI-bare, glam-fake-bare, contoured-as-bare"
+
+ENFORCEMENT RULE 45: BARE-FACE FRAME 1 USES STRICTEST IDENTITY LOCK. Must read as the same Aira from any other reel — just bare. Identity must be lockable across thousands of reels even when bare-faced.
+
+### Q.EXT.II.4 — GRWM × THREE-PERFORMER COORDINATION (Part Z Integration)
+
+GRWM has all three performers in every frame — but the energy hierarchy is GRWM-specific.
+
+GRWM ENERGY HIERARCHY DEFAULT (subject = HERO):
+- SUBJECT 60% (HERO): Aira's body / face / story / hands
+- PRODUCT 30% (SUPPORT): the products being applied
+- BACKDROP 10% (AMBIENT): the setting (vanity / bathroom / bedroom)
+
+This is the inverted hierarchy from beauty hero ads (where product is HERO). In GRWM, Aira is always hero — even in brand-collab reels.
+
+GRWM SUBJECT MOVES PER FRAME (from Part Z.2):
+
+FRAME 1 (Opening): S-7 Mirror Approach OR S-4 Down-Up-Eye-Contact OR S-8 Seated Descent OR S-10 Still-At-Window
+FRAME 2 (First Application): S-5 Hand-Meet-Face OR S-21 Apply-With-Eyes-Closed OR S-20 Product-Present
+FRAME 3 (Build): S-12 Reveal-Eye-Open OR S-15 Contemplative-Drift OR S-11 Duchenne Bloom (small) OR S-22 Camera-Interaction (lens-tap)
+FRAME 4 (Pivot): S-14 Knowing Half-Smile OR S-17 Slow-Blink-Lock OR S-18 Lip-Press-Release OR S-26 Breath-Visible
+FRAME 5 (Near-Complete): S-13 Suspended Laugh OR S-29 Fabric-Adjust OR S-27 Hair-Tuck-Behind-Ear OR S-28 Jewelry-Touch
+FRAME 6 (Reveal): S-1 Slow-Reveal Turn OR S-9 Rise-From-Seated OR S-24 Turn-And-Settle
+FRAME 7 (Exit Beat): S-6 Walk-Into-Frame (in reverse — walk-OUT-of-frame) OR S-30 Stillness-With-Micro-Life
+
+GRWM PRODUCT MOVES PER FRAME:
+- Frame 2-5 may include product performance moves (P-9 Self-Opening Cap, P-17 Hand-Catch Levitation, P-1 Slow Levitation Hover, etc.)
+- Maximum ONE product performance move per reel (per existing rules)
+- Reserved for HERO product (only one of the 3 max products gets the magical beat)
+
+GRWM BACKDROP MOVES PER FRAME (from Part Z.3):
+- B-1 God-Ray Sweep (all GRWM settings — light shaft from window)
+- B-19 Steam-Rise (bathroom GRWM specifically)
+- B-9 Sun-Shift-Patch (bedroom golden hour)
+- B-27 Particle Concentration (any setting with key light)
+- B-11 Curtain-Wind-Catch (bedroom / heritage settings)
+- B-3 Caustic Dance (water glass on vanity)
+- Backdrop always at 10% AMBIENT energy in GRWM
+
+GRWM CHARM MOVE PLACEMENT:
+- Maximum 1 charm move per GRWM reel
+- Placed at Frame 4 (pivot) or Frame 5 (near-complete)
+- Ideal charm moves for GRWM: CM-11 Hair-Piece-Hold, CM-19 Chin-On-Fist, CM-20 Temple-Rub, CM-23 Collar-Slip, CM-24 Ring-Twist, CM-25 Cup-Cradle, CM-28 Soft-Hand-Frame
+
+ENFORCEMENT RULE 46: GRWM ENERGY HIERARCHY IS SUBJECT-HERO. Aira is always 60%. Product 30% max. Backdrop 10%. Inverting this for GRWM = format failure.
+
+ENFORCEMENT RULE 47: GRWM SUBJECT MOVES MUST BE FROM PART Z.2 OR APPROVED FOR GRWM (per Q.EXT.II.4 mapping). Random posing without named move = FAIL.
+
+### Q.EXT.II.5 — GRWM × BODY-LANGUAGE FLUENCY (Part Z.EXT Integration)
+
+The 4 Body-Language Laws (Part Z.EXT.4) apply to EVERY GRWM frame:
+
+LAW 1 — DEFAULT AIRA STANCE: Even when seated at vanity, weight distribution, hip position, shoulder drop apply. When seated: weight slightly to one hip, opposite shoulder dropped, spine S-curved (forward lean toward mirror common in GRWM), arms with elbow bend.
+
+LAW 2 — IMPLIED MOTION: Every GRWM frame answers "what was she doing 0.3 seconds before."
+- Frame 1: "She was looking down at her hand / she just exhaled / she just sat down at the vanity"
+- Frame 2: "She just opened the bottle / she just dipped fingertip into product"
+- Frame 3: "She just released the brush from skin / she just blinked"
+- Frame 4: "She just spoke the pivot line / she just lowered her hand"
+- Frame 5: "She just blotted lips / she just touched cheek for blush check"
+- Frame 6: "She just stood up from vanity / she just adjusted strap"
+
+LAW 3 — SMOOTH FLOW: All joints loose. Knees bent (3-7°). Elbows bent (5-30°). Wrists soft. Fingers in natural curve. No stiff product-grip.
+
+LAW 4 — BODY OUTPACES FACE: Hands have already started moving toward face / product, head still arriving, eyes still landing, expression still forming.
+
+ENFORCEMENT RULE 48: GRWM FRAMES OBEY ALL 4 BODY-LANGUAGE LAWS. Mannequin posture in any GRWM frame = FAIL.
+
+### Q.EXT.II.6 — GRWM × HYPER-REALISTIC FACIAL DYNAMICS (Part R.EXT Integration)
+
+GRWM is the most face-revealing format. Facial dynamics standards are the strictest here.
+
+GRWM FACIAL DYNAMICS PER FRAME (mandatory minimum):
+
+FRAME 1 (Bare face, intimate):
+- Asymmetry: minimum 3 (eye openness, brow height, lip-corner pre-tension)
+- Eyes: mid-blink OR catchlight at 10/2 o'clock OR slow-blink-recovery
+- Lips: parted 1.5mm on inhale OR pre-smile tension
+- Breath: visible chest rise / nostril micro-flare
+- Skin: subsurface scattering visible (light penetrating ear, nose tip)
+
+FRAMES 2-5 (Application):
+- Eye state shifts per frame (closed during application / open during result-check / mid-blink during beat)
+- Cheek apple-lift varies (pre-smile, mid-smile, post-smile)
+- Lip state changes (pressed during concentration, parted during speech, mid-phoneme during VO)
+- Brow micro-movements per frame (concentration furrow during application, relaxed post-completion)
+
+FRAME 6 (Reveal):
+- Confident expression with all sequencing intact (Duchenne smile from eyes-first OR knowing-half-smile asymmetric)
+- Catchlight in iris from key light
+- Glossy lower lip catching light at 10/2 position
+
+FRAME 7 (Exit):
+- Held expression OR fade-to-neutral (with breath still visible)
+
+ENFORCEMENT RULE 49: GRWM FACIAL DYNAMICS MUST INCLUDE ALL OF: minimum 3 asymmetries per face frame / Duchenne sequencing on smile beats / breath visible in at least 4 of 6 frames / catchlight position declared per frame.
+
+### Q.EXT.II.7 — GRWM × OBJECT DESIGN (Part Y Integration)
+
+Every product Aira touches in GRWM gets a complete OBJECT DESIGN BLOCK (per Part Y).
+
+For brand-collab GRWM:
+- Maximum 3 hero products
+- Each gets full Object Design Block specification
+- Brand register matches GRWM intimacy (apothecary-warm, modern-minimalist, heritage-luxe)
+- AVOID architectural-futurist register in GRWM (clashes with intimacy)
+- AVOID extreme avant-garde packaging in GRWM (breaks lived-in feel)
+
+For non-collab GRWM:
+- Hero product can still be uniquely designed
+- Or generic-brand-neutral acceptable (her own products, no specific brand emphasis)
+- If brand-neutral: Object Design Block still specifies silhouette/material/finish to ensure uniqueness
+
+ENFORCEMENT RULE 50: GRWM HERO PRODUCTS REQUIRE OBJECT DESIGN BLOCK. No generic "a bottle" or "a tube" in GRWM either.
+
+### Q.EXT.II.8 — GRWM × AUDIO PROTOCOL (Part AC Integration)
+
+GRWM audio is distinct from other formats. Key rules:
+
+MUSIC SELECTION FOR GRWM:
+- Slower tempo than other formats (90-115 BPM typical)
+- Low-key, intimate, non-distracting
+- Genre matched to GRWM register: lo-fi indie / soft electronic / acoustic / minimalist piano / R&B-slow / trending-audio-but-mellow
+- NEVER big-drop EDM / aggressive bass / hyper-pop in GRWM (kills intimacy)
+- Music plays at -12dB during VO frames, -6dB during VO-LESS frames (e.g., Frame 6 reveal)
+- Music can build subtly through reel — same track, slight intensity ramp from Frame 1 to Frame 4 pivot
+
+AMBIENT BED FOR GRWM (always present at -24 to -30dB):
+- Indoor settings: room tone, faint AC hum, distant traffic, water-running (bathroom)
+- Vanity: subtle metal-on-marble (jewelry shifting), product-against-surface tap
+- Bathroom: water dripping, distant fan, steam-hiss
+- Bedroom: window-air, fabric-rustle, distant city or birds
+
+SFX FOR GRWM:
+- Cap unscrew (P-9 product move pairs with this SFX)
+- Brush stroke on skin (subtle)
+- Pump click (foundation, serum)
+- Atomizer hiss (perfume)
+- Tissue rustle (blotting)
+- Heel click on tile (Frame 7 exit on hard floor)
+- Door click (Frame 7 exit)
+- Single breath-catch (intimate moments)
+- Hair clip snap-close (Frame 4 pivot if styling)
+
+SILENCE BEATS IN GRWM:
+- Hero visual frame — Frame 6 reveal often has 0.5s silence as music holds breath
+- Pivot frame — Frame 4 sometimes has music ducked to silence for the line landing
+- Exit beat — Frame 7 may end on silence + ambient only
+
+ENFORCEMENT RULE 51: GRWM AUDIO BLOCK SPECIFIES: music genre / BPM / duck levels / ambient bed type / SFX per frame / silence frames declared.
+
+### Q.EXT.II.9 — GRWM × COVER FRAME (Part AE Integration)
+
+GRWM cover frame rules:
+
+GRWM COVER FRAME SOURCE:
+- USUALLY Frame 1 (vulnerability + intimacy = strongest hook for GRWM)
+- OR Frame 4 pivot (most-quoted moment, expression peak)
+- NEVER Frame 6 reveal (spoils the payoff)
+- NEVER Frame 7 exit (no hook value)
+
+GRWM COVER FRAME REQUIREMENTS:
+- Aira's face dominant (60-80% of frame)
+- Vulnerability or pivot moment
+- Eye contact OR purposeful off-axis gaze
+- Expression strong (knowing / pre-smile / mid-thought)
+- Setting visible enough to register (vanity / bedroom / bathroom)
+- Optional text overlay: stakes line in 3-5 words
+
+GRWM COVER FRAME TEXT OVERLAY (when used):
+- Stakes line snippet ("getting ready to confront her" / "the night I should have had last week")
+- Question that hooks ("would you go alone?")
+- Bilingual hook ("dekho... I'm going anyway")
+- Placement: upper-third within hero zone
+- Font: register-matched (Helvetica Light for clean / Italic Serif for editorial / hand-set for tender)
+
+ENFORCEMENT RULE 52: GRWM COVER FRAME IS FRAME 1 OR FRAME 4. Never reveal-frame, never exit-frame. Spoils format.
+
+### Q.EXT.II.10 — GRWM × COLOR GRADE (Part AG Integration)
+
+GRWM color grade is intimate and unified across frames.
+
+GRWM COLOR GRADE PRESET:
+- Warm-toned overall (skin-priority warm-shift)
+- Slight golden-hour warm in midtones
+- Lifted blacks (intimate, never crushed)
+- Skin protection on (no over-saturation of subject)
+- Slight grain (Kodak Portra 400 reference) — never digital-clean
+- Atmospheric haze rendered with slight bloom in highlights (golden-hour or window-light glow)
+- Setting accent color (vanity wood / bathroom marble / bedroom curtain) slightly desaturated to keep skin priority
+
+CROSS-FRAME COLOR CONSISTENCY:
+- Same grade across all GRWM frames
+- Slight intensity build (Frame 1 slightly cooler-vulnerable, Frame 6 slightly warmer-confident)
+- Never color-grade-shift mid-reel (breaks continuity)
+
+ENFORCEMENT RULE 53: GRWM COLOR GRADE IS UNIFIED across all frames. Skin-priority warm-shift mandatory. Crushed shadows = FAIL (kills intimacy).
+
+### Q.EXT.II.11 — GRWM × PILLAR 11 (Sensual Editorial Celebrity Use)
+
+Standard GRWM uses Pillars 1, 3, 4, 5, 8, 10 for closing state (intimate / lifestyle / heritage / evening / romantic / heritage).
+
+PILLAR 11 IN GRWM — SPECIFIC USE CASES:
+- "Getting ready for a red carpet event" GRWM
+- "Getting ready for the Cannes-after-party I'm going alone to" GRWM
+- "Getting ready for the hero brand-event premiere" GRWM
+- "Getting ready for the cover-shoot" GRWM (meta-cover-shoot content)
+
+When Pillar 11 used in GRWM:
+- Closing-state outfit reveals are MORE DRAMATIC (Frame 6 reveal carries extra weight)
+- Stakes must justify the elevation
+- Body-language amplification (Pillar 11 rules) activates only at Frame 6 reveal — not during routine frames
+- During routine frames, Aira is still in robe / slip / prep clothing
+- Reveal frame transformation feels MORE earned because the elevation is dramatic
+
+ENFORCEMENT RULE 54: PILLAR 11 IN GRWM REQUIRES STAKES JUSTIFICATION. "Getting ready for a regular evening" with Pillar 11 outfit = mismatch. Stakes must support the elevation.
+
+### Q.EXT.II.12 — GRWM × AVANT-GARDE (Part AB Integration — EXCLUSION RULE)
+
+GRWM NEVER uses Avant-Garde Override (Part AB). The format requires intimacy and lived-in realness; sculptural one-off fashion-as-art clothing breaks this.
+
+EXCEPTION — META-GRWM: A reel where the concept IS "Aira getting ready in avant-garde for an editorial photoshoot" — but this is rare and must be flagged explicitly.
+
+ENFORCEMENT RULE 55: GRWM FORBIDS AVANT-GARDE OVERRIDE except for meta-photoshoot concepts. Default GRWM uses Pillars 1-11 only.
+
+### Q.EXT.II.13 — GRWM HINDI PLACEMENT (Specific Locations)
+
+Per voice rules, GRWM uses 70% English / 30% Hindi (more Hindi-anchored than other formats due to intimacy).
+
+EXACT HINDI PLACEMENTS (declared per GRWM reel):
+
+PLACEMENT 1 — OPENING CONFESSION (Frame 1):
+- Hindi anchor in opener line
+- Examples: "Dekho... I'm going anyway." / "Suno, ek baat batati hoon." / "Bas, this is happening."
+
+PLACEMENT 2 — PIVOT REALIZATION (Frame 4):
+- Hindi anchor in pivot/decision line
+- Examples: "Bas, decision ho gaya." / "Asli baat yeh hai..." / "Soch lo, samajh gaye?"
+
+PLACEMENT 3 — SIGN-OFF (Frame 6 or 7):
+- Hindi closer
+- Examples: "Chalo." / "Theek hai." / "Yeh tha asli moment." / "Bas yahi."
+
+ENFORCEMENT RULE 56: GRWM HINDI USAGE LANDS AT 3 EXACT PLACEMENTS (opening confession / pivot realization / sign-off). Random Hindi sprinkling = FAIL. No Hindi at any of the 3 = format failure (intimacy register weakened).
+
+### Q.EXT.II.14 — GRWM SELECTIVE VOICE MODE
+
+When GRWM uses SELECTIVE voice mode (some frames silent, some VO):
+
+USE CASE: When the visual itself is doing all the talking — dramatic transformation reveal, peak emotional moment, post-pivot release.
+
+CHOREOGRAPHY:
+- Frames 1-3: VO present (story building)
+- Frame 4 (pivot): VO present (pivot line lands)
+- Frame 5: VO drops, only ambient + music (tension release through silence)
+- Frame 6 (reveal): VO returns OR remains silent (depends on register)
+- Frame 7: silent (visual seals it)
+
+ENFORCEMENT RULE 57: GRWM SELECTIVE VOICE MODE DECLARES WHICH FRAMES ARE VO-LESS. Random silence = FAIL.
+
+### Q.EXT.II.15 — GRWM 101% PRE-FLIGHT CHECKLIST (FULL UPDATED)
+
+Replaces Q.EXT.16 — this is the COMPLETE, FULL pre-flight for GRWM:
+
+```
+GRWM 101% PRE-FLIGHT — every check mandatory:
+
+CONCEPT & STAKES:
+[ ] Stakes declared at top (real, specific, emotionally charged)
+[ ] Stakes line passes "could this be on someone's calendar" test
+[ ] Concept line evocative non-literal sentence
+[ ] Emotional register declared and matched to stakes
+
+VOICE:
+[ ] Voice mode = SPOKEN OR SELECTIVE (declared explicitly)
+[ ] If SELECTIVE: which frames are VO-LESS declared per frame
+[ ] Signature flag = FULL (opener + sign-off both fresh-generated)
+[ ] AIRA PRIME voice locked
+[ ] Hindi placement at 3 exact locations (opening confession / pivot / sign-off)
+[ ] Music duck levels per frame (-12dB during VO, -6dB during VO-less)
+[ ] Ambient bed declared (room tone / water / window-air)
+[ ] SFX per frame (cap unscrew, brush stroke, fabric rustle, exit door click)
+[ ] Silence frames declared (if SELECTIVE)
+
+WARDROBE (CLOSING STATE):
+[ ] Pillar declared (1-11)
+[ ] If Pillar 11: stakes justify elevation
+[ ] Avant-garde override NOT used (or meta-photoshoot exception flagged)
+[ ] Wardrobe meets all 10 mandates from Part M
+[ ] Hero element declared
+[ ] Fabric specified
+[ ] Accessories max 3
+[ ] Footwear matched to outfit register
+
+HAIR ARC:
+[ ] Frame 1 undone state declared (wet / towel-wrapped / bedhead / etc.)
+[ ] Frames 2-3 transitional state declared (claw-clipped / pulled-back / sectioned)
+[ ] Frame 4 mid-work state if styling beat (curling iron / flat iron / brush)
+[ ] Frame 5-6 final hair concept (HC-N from Part AA)
+[ ] Hair concept passes 10-reel rotation
+[ ] Hair concept matches closing pillar (per AA.4)
+[ ] Frame 7 hair behavior (settled / hair-flip / hair-tuck)
+
+MAKEUP ARC:
+[ ] Frame 1 TRUE bare-face (no foundation, no contour, no mascara, no shaped brow)
+[ ] Bare-face identity lock applied (Part Q.EXT.II.3 anchors)
+[ ] Frames 2-3 building (skincare visible / primer / base partial)
+[ ] Frames 3-5 progression (each frame shows visible delta)
+[ ] Frame 5-6 final makeup look (ML-N from Part AH)
+[ ] Makeup look passes 10-reel rotation
+[ ] Makeup look matches closing pillar (per AH.2)
+[ ] Application order declared (eyes-first or lips-first per reel)
+
+FRAME ARCHITECTURE:
+[ ] Frame count 5, 6, or 7 — declared and justified
+[ ] Frame 1 shows real vulnerability (bare face, undone, intimate setting)
+[ ] Frame 6 (or final) shows complete composed reveal
+[ ] Transformation arc visible across frames (each frame = one delta)
+[ ] Frame rhythm varied — no two consecutive same framing+angle
+[ ] Through-mirror angle used in at least one frame
+
+THREE-PERFORMER COORDINATION (per frame):
+[ ] Subject move (S-N from Part Z.2) declared per frame
+[ ] Subject is HERO 60% (GRWM rule)
+[ ] Product moves declared per frame (when product in frame)
+[ ] Backdrop move (B-N from Part Z.3) declared per frame at AMBIENT 10%
+[ ] Coordination rationale stated
+
+SUBJECT BODY-LANGUAGE (per frame):
+[ ] Default Aira Stance applied
+[ ] All 4 body-language laws met
+[ ] Implied motion declared per frame ("she just X 0.3 seconds ago")
+[ ] Body-outpaces-face sequencing declared
+[ ] No mannequin posture
+[ ] Charm move (max 1 per reel) placed at Frame 4 or 5 if used
+
+HAND-FACE-PRODUCT TRIANGLE (per routine frame):
+[ ] Which hand (left/right/both)
+[ ] Which product/tool (specific)
+[ ] Where on face/hair (precise zone)
+[ ] What technique (tap/sweep/blend/press/etc.)
+[ ] Product visibility (label readable Y/N)
+
+PRODUCT (per hero product):
+[ ] Object Design Block complete (Part Y) for each hero product
+[ ] Maximum 3 hero products
+[ ] Each product shown 2 ways (in-hand label + in-application)
+[ ] If product performance move used: max 1 per reel, hero product only
+[ ] Brand-collab restraint rules met (if applicable)
+
+FACIAL DYNAMICS (per face frame):
+[ ] Minimum 3 asymmetries declared
+[ ] Duchenne sequencing on smile beats (eyes-first → cheeks → lips)
+[ ] Breath visible in at least 4 of 6 frames
+[ ] Catchlight position declared per frame (10 o'clock or 2 o'clock)
+[ ] Skin texture preserved (pores, subsurface scattering)
+[ ] Bare-face Frame 1: identity drift negatives appended
+
+SETTING:
+[ ] Setting selected from 7 GRWM Setting Pillars (Appendix 11)
+[ ] Setting matched to stakes register
+[ ] Atmospheric details specified (haze density, light direction, dust motes)
+[ ] Props declared (each prop with story justification)
+[ ] Background voice declared (what setting "says")
+
+LIGHTING (per frame):
+[ ] Key direction + hardness + color temp
+[ ] Fill ratio
+[ ] Rim/back light if present
+[ ] Practicals if present
+[ ] Atmospheric layer rendered
+
+KINETIC STILLNESS (per frame, with Micro-Life variant for intimate beats):
+[ ] All 6 layers (or 5 + breath substitute for stillness frames)
+[ ] Energy hierarchy 60/30/10 with Subject as HERO
+
+COLOR GRADE:
+[ ] Unified GRWM grade (warm-shift skin-priority / lifted blacks / Portra grain)
+[ ] No mid-reel grade shifts
+
+ON-SCREEN TEXT (if used):
+[ ] Text in safe zone (middle 63%)
+[ ] Stakes-snippet or bilingual hook
+[ ] Font register-matched
+[ ] Animation declared
+
+COVER FRAME:
+[ ] Source = Frame 1 OR Frame 4 (never reveal/exit)
+[ ] Cover frame specifications complete (Part AE)
+[ ] Optional text overlay if appropriate
+[ ] Tool routing for cover frame declared
+
+VEO/TOOL ROUTING:
+[ ] Tool per frame (NB / VEO / Runway / Pika)
+[ ] Lip-sync directive (if VEO + spoken)
+[ ] Temporal logic per frame
+
+NEGATIVES:
+[ ] Standard image negatives appended
+[ ] GRWM-specific negatives appended ("no tutorial framing, no studio backdrop, no posed performance, no glam-fake-bare, no identity drift on bare-face frame")
+[ ] Bare-face anti-drift negatives on Frame 1
+
+ENERGY ARC:
+[ ] Vulnerable (Frame 1) → Processing (Frames 2-3) → Decision (Frame 4) → Ready (Frame 5) → Loose (Frame 6-7)
+[ ] Arc visibly traced through expression / posture / voice tone
+
+FORBIDDEN PATTERNS:
+[ ] No tutorial language
+[ ] No "you guys" / "today I'll"
+[ ] No brand-speak
+[ ] No reading product names like ad copy
+[ ] No forced laughter
+[ ] No avant-garde override (unless meta-photoshoot)
+
+ENGINE INTEGRATION:
+[ ] Stage 05 (Voice / Audio / Wardrobe / Hair / Makeup blocks) all present
+[ ] Stage 08 (per-frame expansion all 16 sub-blocks) per frame
+[ ] Stage 11 (all 57 enforcement rules checked)
+[ ] Stage 12 (final output structure complete)
+```
+
+If ANY checkbox fails — REWRITE from failed stage forward. NO GRWM SHIPS WITH ANY CHECKBOX UNCHECKED.
+
+### Q.EXT.II.16 — GRWM 101% GUARANTEE
+
+When the engine generates a GRWM concept following Q.EXT.II:
+
+✓ Stakes are real, specific, emotionally charged
+✓ Aira's identity is locked even at bare-face Frame 1
+✓ Hair arc visible across frames (undone → mid-work → final concept)
+✓ Makeup arc visible across frames (true bare → building → final look)
+✓ All three performers coordinated with Subject as HERO
+✓ All 4 body-language laws applied per frame
+✓ Hand-face-product triangle complete per routine frame
+✓ Through-mirror frame present
+✓ Hindi at exact 3 placements (opening / pivot / sign-off)
+✓ Cover frame is Frame 1 or Frame 4
+✓ Audio block: music, ambient, SFX, silence per frame
+✓ Color grade unified across reel
+✓ Object Design Block for every hero product
+✓ Charm move placed at Frame 4 or 5 (if used)
+✓ Facial dynamics: 3+ asymmetries / Duchenne sequencing / breath / catchlights
+✓ All 57 enforcement rules pass
+✓ Format never breaks intimacy (no avant-garde, no tutorial language, no brand-speak)
+✓ Energy arc traced (vulnerable → processing → decision → ready → loose)
+
+GRWM IS NOW 101% PRODUCTION-COMPLETE.
+
+---
+
+## VERSION HISTORY (UPDATED)
+
+v3.0 — Initial canonical
+v3.1 — Part X (engine) — self-executing
+v3.2 — Part Y (object design)
+v3.3 — Extended specs D, E, I, J, O, P, R
+v3.4 — Part Z (three-performer coordination)
+v3.5 — Part Z.EXTENDED (charm + dance + body-language laws)
+v3.6 — Pillar 11 (sensual editorial celebrity)
+v3.7 — Part AA (hair) + Part AB (avant-garde)
+v3.8 — Consolidation + AC/AD/AE/AF/AG/AH + AI integration patches + AJ master rules + TOC
+v3.8.1 — Stale "10 pillars" references corrected to 11
+v3.9 — Q.EXTENDED.II — GRWM 101% completeness with full integration (16 sub-sections, 16 new enforcement rules 42-57)
+
+---
+
+## SYS DIRECTIVE 3 — END OF DOCUMENT
+
+VERSION: 3.9
+STATUS: LOCKED — CANONICAL — SELF-EXECUTING — LOOPHOLE-FREE — CONSOLIDATED — COMPLETE — GRWM-101%-INTEGRATED
+
+Every prompt — image, video, reel — references this canonical document.
+This is the only end marker. All prior "END OF" markers are checkpoints.
+
+Total enforcement rules: 57 (1-20 in Part X.15 + 21-41 individual + 42-57 in Q.EXT.II)
