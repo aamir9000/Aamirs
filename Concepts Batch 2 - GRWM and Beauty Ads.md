@@ -1876,7 +1876,7 @@ NEGATIVE: mirrored, flipped, inverted, extra limbs, fused fingers, melted featur
 
 ### Frame 3 — Transformation (Product on Skin)
 
-ASPECT RATIO: 9:16 vertical. SUBJECT: AIRA — [full identity lock as above]. PRODUCT: Foundation bottle set on marble surface (no longer hovering — grounded now that it has been used). Right fingertip pressing foundation into left cheekbone with gentle pat-pat motion, product blending into skin creating visible luminous-skin-transition.
+ASPECT RATIO: 9:16 vertical. SUBJECT: AIRA — Adult woman late 20s-early 30s, South Asian (Indian), warm honey-to-caramel skin tone with golden undertone, 5'6"-5'8", soft-strong hourglass-athletic silhouette, fuller sculpted legs with toned thigh definition, fuller shapely thighs, fuller feminine arms with subtle muscle tone, fuller defined chest in proportion, flat toned midsection, defined waist clear waist-to-hip ratio, curvy hip line with natural feminine flare, heart-shaped to oval face, defined cheekbones, full defined lips with natural cupid's bow, almond-shaped expressive eyes dark brown iris with subtle amber flecks, strong but feminine groomed naturally arched brow, natural sun-kissed glow, long dark brown to near-black hair with subtle warm highlights naturally textured soft waves with body and movement, elegant well-groomed hands. PRODUCT: Foundation bottle set on marble surface (no longer hovering — grounded now that it has been used). Right fingertip pressing foundation into left cheekbone with gentle pat-pat motion, product blending into skin creating visible luminous-skin-transition.
 
 WARDROBE/HAIR STATE: Unchanged. White shirt, column hair.
 
@@ -1912,7 +1912,7 @@ NEGATIVE: [standard negative block as above], product texture incorrect, skin ap
 
 ### Frame 4 — Reveal (Complete Glow)
 
-ASPECT RATIO: 9:16 vertical. SUBJECT: AIRA — [full identity lock as above]. PRODUCT: Foundation bottle on marble surface in foreground, morning light now streaming through it creating dramatic warm caustics on marble (the product as light-sculpture in resting state).
+ASPECT RATIO: 9:16 vertical. SUBJECT: AIRA — Adult woman late 20s-early 30s, South Asian (Indian), warm honey-to-caramel skin tone with golden undertone, 5'6"-5'8", soft-strong hourglass-athletic silhouette, fuller sculpted legs with toned thigh definition, fuller shapely thighs, fuller feminine arms with subtle muscle tone, fuller defined chest in proportion, flat toned midsection, defined waist clear waist-to-hip ratio, curvy hip line with natural feminine flare, heart-shaped to oval face, defined cheekbones, full defined lips with natural cupid's bow, almond-shaped expressive eyes dark brown iris with subtle amber flecks, strong but feminine groomed naturally arched brow, natural sun-kissed glow, long dark brown to near-black hair with subtle warm highlights naturally textured soft waves with body and movement, elegant well-groomed hands. PRODUCT: Foundation bottle on marble surface in foreground, morning light now streaming through it creating dramatic warm caustics on marble (the product as light-sculpture in resting state).
 
 WARDROBE/HAIR STATE: White shirt off-shoulder, column hair catching full dawn-gold now with dimensional highlight along straight lengths.
 
@@ -1963,13 +1963,13 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 SHOT TYPE: ECU macro on product-pour. CAMERA MOVEMENT: Static macro-lock (product and drop as sole subjects in near-static frame). LENS: 100mm macro. SUBJECT ACTION: Pump depressed by finger, single drop emerging and falling in slow-motion toward waiting fingertip. At 0.0-1.0s pump depression visible, 1.0-2.0s drop forms at nozzle, 2.0-3.0s drop detaches and falls (caught in detail showing honey-golden liquid catching dawn-light mid-air). LIGHTING: Dawn light through product glass creating internal glow, drop catching light as individual tiny lens mid-fall. AUDIO: Ambient: pump-mechanism soft click at 0.5s, the near-silent sound of a single drop falling (micro-splash as it hits fingertip at 3.0s). Duration: 3 seconds. Frame rate: 24fps (drop-fall at real-time, not slow-motion — maintaining realism). Motion blur: drop-fall creating 2-frame natural blur trail. Temporal: 0.0-1.0s pump, 1.0-2.0s drop-forming, 2.0-3.0s drop-fall to fingertip.
 
-NEGATIVE: [standard video negative], product-pour physics unrealistic, drop disappearing or multiplying.
+NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame skip, mirrored composition, text overlay, watermark, AI artifact, ghosting, double exposure unless intended, lip-sync drift, audio desync, wardrobe drift between shots, unmotivated camera shake, physics violation (water/fire/hair/fabric), mannequin posture, frozen background, identity flicker, product-pour physics unrealistic, drop disappearing or multiplying.
 
 ### Frame 3 — Video (Blending)
 
 SHOT TYPE: ECU face with application. CAMERA MOVEMENT: Slow push-in (from CU to ECU on cheekbone over 3 seconds, closing on the skin-transformation). LENS: 85mm. SUBJECT ACTION: Fingertip pat-pat-pat applying foundation to cheekbone in rhythmic gentle taps. Visible product blending and spreading across skin surface. Luminous-finish emerging where product is blended. Eyes half-closed in pleasure. The tactile beauty-ASMR moment. LIGHTING: Dawn warmth now on face, foundation creating visible light-catching-luminosity where blended. AUDIO: Ambient: fingertip-on-skin soft pats (3 per second rhythm, soft thuds), slight breath of pleasure from Aira (single exhale). Duration: 3 seconds. Frame rate: 24fps. Motion blur: fingertip-pat motion with slight blur between contacts. Temporal: continuous pat-pat-pat application over 3 seconds with visible skin-transformation-in-progress.
 
-NEGATIVE: [standard video negative], skin transformation unrealistic, overly-quick product blending.
+NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame skip, mirrored composition, text overlay, watermark, AI artifact, ghosting, double exposure unless intended, lip-sync drift, audio desync, wardrobe drift between shots, unmotivated camera shake, physics violation (water/fire/hair/fabric), mannequin posture, frozen background, identity flicker, skin transformation unrealistic, overly-quick product blending.
 
 ### Frame 4 — Video (Reveal)
 
@@ -2052,51 +2052,169 @@ NEGATIVE: mirrored, flipped, inverted, extra limbs, fused fingers, melted featur
 
 ### Frame 2 — Emergence (Product Rising)
 
-ASPECT RATIO: 9:16 vertical. SUBJECT: AIRA — [full identity lock]. PRODUCT: Perfume bottle NOW EMERGING from water — risen to 50% visibility above surface. Water cascading down the geometric faceted midnight-blue glass surfaces, individual water-streams following the facet-edges and dripping from vertices. Chrome crescent stopper fully above water, catching overhead moon-spot with bright silver-reflection. Facets below water still visible through refraction (distorted geometry beneath surface). Water surface tension broken with concentric ripple-rings radiating from emergence-point across basin surface. Blue-violet light refractions from facets beginning to cast onto water surface and basin rim.
+ASPECT RATIO: 9:16 vertical. SUBJECT: AIRA — Adult woman late 20s-early 30s, South Asian (Indian), warm honey-to-caramel skin tone with golden undertone, 5'6"-5'8", soft-strong hourglass-athletic silhouette, fuller sculpted legs with toned thigh definition, fuller shapely thighs, fuller feminine arms with subtle muscle tone, fuller defined chest in proportion, flat toned midsection, defined waist clear waist-to-hip ratio, curvy hip line with natural feminine flare, heart-shaped to oval face, defined cheekbones, full defined lips with natural cupid's bow, almond-shaped expressive eyes dark brown iris with subtle amber flecks, strong but feminine groomed naturally arched brow, natural sun-kissed glow, long dark brown to near-black hair with subtle warm highlights naturally textured soft waves with body and movement, elegant well-groomed hands. PRODUCT: Perfume bottle NOW EMERGING from water — risen to 50% visibility above surface. Water cascading down the geometric faceted midnight-blue glass surfaces, individual water-streams following the facet-edges and dripping from vertices. Chrome crescent stopper fully above water, catching overhead moon-spot with bright silver-reflection. Facets below water still visible through refraction (distorted geometry beneath surface). Water surface tension broken with concentric ripple-rings radiating from emergence-point across basin surface. Blue-violet light refractions from facets beginning to cast onto water surface and basin rim.
 
 All other elements (wardrobe, hair, makeup, posture) unchanged from Frame 1 except: Aira's right hand has moved CLOSER — now 3cm above the bottle's crescent stopper, nearly touching (the magnetic approach). Her expression shifts from watching-the-water to watching-the-emerged-product with intensified fascination (eyes wider, lips slightly more parted, the intake-breath of seeing it break surface).
 
-KINETIC STILLNESS layers adjusted for: water actively cascading down product facets (kinetic water on still glass), concentric ripples actively expanding outward on basin surface (wave-motion radiating), product at the apex of its rise (hovering at 50% emergence, neither rising nor falling — frozen at peak).
+FACIAL MICRO-DYNAMICS: Eyes — widened from Frame 1 state, locked on the emerging product with intensified fascination, pupils dilated in low-light, catchlight from overhead moon-spot at 12 o'clock in both irises, slight moisture at inner corners from held-breath intensity. Brows — both slightly raised (wonder escalating), left brow fractionally higher. Lips — more parted than Frame 1 (the intake-breath of seeing it break surface), lower lip dropped, upper lip slightly lifted showing edge of teeth, the involuntary facial response to witnessing something impossible. Cheeks — wet-look skin catching new blue-violet caustic projections from product facets, silver inner-corner highlight intensified. Jaw — dropped slightly from parted-lip wonder. Breath — held mid-inhale, chest expanded, shoulders frozen, total body-stillness of witnessing.
 
-LIGHTING adjusted for: product facets now catching and refracting the overhead moon-spot, creating new blue-violet caustic-projections on water surface and basin rim and Aira's hovering hand (the product CREATES light-patterns as it emerges).
+KINETIC STILLNESS — Six Layers:
+1. Subject micro-action: Right hand hovering 3cm above crescent stopper, fingers spread in magnetic-approach gesture, fingertips with micro-tremor from proximity-desire, the almost-touch frozen
+2. Fabric/hair state: Black silk robe unchanged, wet-look hair unchanged, static and contained (no breeze in this void space), single hair strand catching blue-violet refraction as a bright accent line
+3. Particulate layer: Water droplets cascading down product facets as kinetic particles (15-20 individual streams/drops visible, each catching overhead moon-spot as tiny bright points), fog at floor level stirred by water-ripple energy radiating outward from basin
+4. Contact-point activity: Basin rim receiving concentric ripple-waves (water lapping at edges from emergence-displacement), fog at floor level pushed outward by ripple-air-displacement, Aira's bare feet on cold floor unchanged
+5. Background motion: Concentric ripples actively expanding outward on basin water surface (wave-motion radiating concentrically from product-emergence center), fog pushed at edges by the energy, void space beyond unchanged
+6. Light in motion: Product facets now catching and refracting the overhead moon-spot, creating NEW blue-violet caustic projections actively forming on water surface, basin rim, and Aira's hovering hand (the product CREATES light-patterns as it emerges, caustics dancing and shifting as water cascades off the moving-glass-surfaces)
 
-FRAMING: Tighter than Frame 1 — MCU on product-and-Aira's-face composition. Product at center-frame emerging from water, Aira's face in upper portion looking down at it, her hand between product and her face. Camera at water-surface-level (dramatic low-angle showing emergence).
+SPATIAL LOGIC:
+- FOREGROUND: Water surface with concentric ripples radiating outward, product at 50% emergence breaking through, water-cascade-streams as kinetic foreground texture. Lower 35% of frame.
+- MIDGROUND: Product emerging as hero centerpiece, Aira's hovering hand approaching, the tension-gap between hand and product.
+- BACKGROUND: Aira's face and upper body above the emergence-drama, expression visible, void-dark space beyond with floor-fog, overhead moon-spot source implied above frame.
 
-All other specifications (lens, aperture, composition reference, atmosphere, color grade, negative) as Frame 1 with the addition of: water-physics must be realistic (cascading following gravity, surface-tension ripples expanding at correct speed), product emergence must appear gravitationally impossible but visually convincing (as if rising by its own will).
+LIGHTING:
+- Key: Single overhead hard moon-spot (cool white, narrow beam) hitting product directly as it emerges, creating maximum refraction through wet geometric facets
+- Fill: Blue-violet caustic projections from product facets acting as secondary colored fill on Aira's hand and face from below (product-generated light)
+- Rim: Overhead moon-spot edge creating thin silver rim on Aira's wet-look hair and shoulders
+- Practical: Product itself as self-illuminating element through refraction (not emitting light but redirecting the overhead beam into colored patterns)
+- Light separation: Product 2.5 stops brighter than surroundings (wet glass refracting maximum light), caustic patterns 1 stop above ambient on surfaces they touch
+
+FRAMING: Tighter than Frame 1 — MCU on product-and-Aira's-face composition. Product at center-frame emerging from water, Aira's face in upper portion looking down at it, her hand between product and her face. Camera at water-surface-level (dramatic low-angle showing emergence). Subject 60% of frame.
+
+LENS: 85mm. APERTURE: f/2.0 — product emergence razor-sharp, Aira's face sharp at same plane, water-surface-level angle creating dramatic perspective, background void dissolved. Bokeh shape: hexagonal, blue-tinted from environment.
+
+COMPOSITION REFERENCE: Greig Fraser subaquatic perspective (Dune underwater feeling), A24 restrained supernatural, the impossible rendered with documentary conviction.
+
+ATMOSPHERE: Midnight void gallery, impossible event witnessed with reverent stillness, the ceremony of emergence as sacred beauty-ritual, cold air with product-heat (wet glass catching warm-feeling light despite cool environment), profound silence weight. Zero grain (hyperreal pristine).
+
+COLOR GRADE: Peak blue-silver desaturation continuing from Frame 1 — near-monochrome midnight palette, cool-dominant, silver ONLY on product chrome and wet-skin-highlights, blue-violet from caustic refractions as the only color-introduction (product bringing its own color-language into the void). Crushed deep-blue-black shadows, silver-white highlights contained to product and skin-sheen.
+
+NEGATIVE: mirrored, flipped, inverted, extra limbs, fused fingers, melted features, asymmetric eyes (unintentional), garbled text, floating shadows, duplicated subjects, low-res patches, plastic skin, oversharpened, AI-generated artifacts, watermarks, signature, deformed hands, malformed teeth, joint cuts at ankle/knee/wrist/elbow/neck, amputated fingertips, cross-eyed, lazy eye, off-axis pupils, melted clothing, shoes-not-touching-ground, mismatched footwear pair, mannequin-stiff posture, dead eyes, statue-frozen energy, water-physics unrealistic, product emergence jerky, fog above waist-level.
 
 ### Frame 3 — Full Reveal (Product Ascended)
 
-ASPECT RATIO: 9:16 vertical. SUBJECT: AIRA — [full identity lock]. PRODUCT: Fully emerged and hovering 5cm above water surface. All water has cascaded off (facets now dry and catching light with full intensity). Geometric midnight-blue glass refracting overhead moonlight into elaborate blue-violet spectrum patterns on all surfaces below and around it. Chrome crescent stopper reflecting the overhead spot as a bright star-point. The product at its most powerful and sculptural — fully revealed.
+ASPECT RATIO: 9:16 vertical. SUBJECT: AIRA — Adult woman late 20s-early 30s, South Asian (Indian), warm honey-to-caramel skin tone with golden undertone, 5'6"-5'8", soft-strong hourglass-athletic silhouette, fuller sculpted legs with toned thigh definition, fuller shapely thighs, fuller feminine arms with subtle muscle tone, fuller defined chest in proportion, flat toned midsection, defined waist clear waist-to-hip ratio, curvy hip line with natural feminine flare, heart-shaped to oval face, defined cheekbones, full defined lips with natural cupid's bow, almond-shaped expressive eyes dark brown iris with subtle amber flecks, strong but feminine groomed naturally arched brow, natural sun-kissed glow, long dark brown to near-black hair with subtle warm highlights naturally textured soft waves with body and movement, elegant well-groomed hands. PRODUCT: Fully emerged and hovering 5cm above water surface. All water has cascaded off (facets now dry and catching light with full intensity). Geometric midnight-blue glass refracting overhead moonlight into elaborate blue-violet spectrum patterns on all surfaces below and around it. Chrome crescent stopper reflecting the overhead spot as a bright star-point. The product at its most powerful and sculptural — fully revealed.
 
 Aira's right hand now at the product's height but still not touching — 2cm away. Fingertips parallel to bottle body creating energy-field-tension between skin and glass. Her expression: full contemplative wonder, the "moon on glass" mood fully embodied. Eyes level with product. Silver inner-corner highlight echoing the chrome crescent. Wet-look skin catching ALL the blue-violet refractions from the product's facets — her face is painted in the product's light-language.
 
-FRAMING: MCU balanced — product and face at same height sharing frame-center, both sharp, the product's light-patterns visible ON her skin (connection between product and person literal through light).
+FACIAL MICRO-DYNAMICS: Eyes — level with product, locked on it with full contemplative wonder, the "moon on glass" mood fully embodied in her gaze, pupils wide in low-light receiving the blue-violet refractions, catchlight showing both overhead moon-spot AND product-refracted-secondary as dual points. Brows — relaxed and open, slight lift expressing quiet awe. Lips — barely parted, soft exhale-breath, the smallest knowing smile forming at corners as wonder becomes recognition. Cheeks — wet-look skin catching ALL the blue-violet refractions from the product's facets (her face is painted in the product's light-language), silver inner-corner highlight echoing the chrome crescent. Jaw — soft, face tilted 3 degrees toward product (magnetic pull). Breath — slow deep exhale of wonder-becoming-desire.
 
-LIGHTING: Overhead moon-spot plus now the PRODUCT as secondary light-source (refracting overhead beam into violet-blue patterns that illuminate surfaces around it). Two-source-effect: primary overhead + product-refracted-secondary.
+KINETIC STILLNESS — Six Layers:
+1. Subject micro-action: Right hand at product height, 2cm away, fingertips parallel to bottle body creating energy-field-tension between skin and glass, micro-tremor of almost-touching, the suspended-contact-moment
+2. Fabric/hair state: Black silk robe static, wet-look hair catching blue-violet caustic light as colored streaks along the styled surface, one strand near face illuminated violet from product-refraction
+3. Particulate layer: Floor-fog now settled and still (water-displacement energy from Frame 2 dissipated), the air between hand and product completely clear (void, emphasizing the tension-gap), 3-4 micro-droplets of residual water still on basin rim catching overhead spot
+4. Contact-point activity: Fingertips 2cm from glass creating visible tension-gap (the almost-touch as hero detail), product hovering stable above still-settling water surface, Aira's bare feet grounding on cold floor
+5. Background motion: Water surface settling to stillness after Frame 2 emergence (final micro-ripples fading at basin edges), fog at floor level now still, the void space beyond in total dark stillness
+6. Light in motion: Product as secondary light-source (refracting overhead beam into elaborate blue-violet spectrum patterns on ALL surrounding surfaces simultaneously), caustic patterns dancing subtly on water surface, basin rim, Aira's face and hand, floor-fog (the product painting its environment with color-light)
+
+SPATIAL LOGIC:
+- FOREGROUND: Still water surface (now calm) with blue-violet caustic patterns playing across it, basin rim visible, lower 20% of frame.
+- MIDGROUND: Product hovering as primary hero AND Aira's face at same height sharing frame-center (dual-hero plane), both sharp, the 2cm tension-gap between her fingertips and bottle as the narrative detail.
+- BACKGROUND: Void dark space, floor-fog catching faint caustic blue-violet reflections, overhead moon-spot implied above frame.
+
+FRAMING: MCU balanced — product and face at same height sharing frame-center, both sharp, the product's light-patterns visible ON her skin (connection between product and person literal through light). Camera at product-height (risen from water-level in Frame 2). Subject 60% of frame.
+
+LIGHTING:
+- Key: Single overhead hard moon-spot (cool white) hitting product directly creating maximum refraction through dry geometric facets
+- Fill: Product-refracted caustic light acting as colored fill (blue-violet) on Aira's face, hand, and nearby surfaces (product as self-illuminating secondary source)
+- Rim: Overhead moon-spot edge on hair and shoulders, silver-thin, separating from void
+- Practical: Product itself as visible light-performer (the faceted glass refracting overhead beam into spectrum)
+- Light separation: Product and face both in key-light, 2+ stops above void background, caustic patterns at 1 stop above ambient on surfaces they touch
+
+LENS: 85mm portrait compression. APERTURE: f/2.0 — product and face both sharp (same focal plane, side by side), void background dissolved to pure dark, the 2cm tension-gap readable. Bokeh: deep blue-black void.
+
+COMPOSITION REFERENCE: Greig Fraser contemplative beauty (The Batman product-as-sculpture quality), A24 restrained wonder, Kubrick symmetry within the balanced dual-hero framing.
+
+ATMOSPHERE: Midnight void gallery at peak ceremony moment, the product ascended and fully revealed, profound stillness of the tableau-moment, cold air rendered blue-silver, the weight of beauty-as-sacred-object fully realized. Zero grain (hyperreal pristine).
+
+COLOR GRADE: Blue-violet peak — maximum caustic-color-introduction from product (the only chromatic element in the near-monochrome void), silver-white on chrome stopper and wet-skin highlights, deep blue-black everywhere else, the product's light-language as sole color-source. Near-monochrome with controlled blue-violet as color accent.
+
+NEGATIVE: mirrored, flipped, inverted, extra limbs, fused fingers, melted features, asymmetric eyes (unintentional), garbled text, floating shadows, duplicated subjects, low-res patches, plastic skin, oversharpened, AI-generated artifacts, watermarks, signature, deformed hands, malformed teeth, joint cuts at ankle/knee/wrist/elbow/neck, amputated fingertips, cross-eyed, lazy eye, off-axis pupils, melted clothing, shoes-not-touching-ground, mismatched footwear pair, mannequin-stiff posture, dead eyes, statue-frozen energy, product not hovering stable, caustic patterns absent.
 
 ### Frame 4 — Connection (Perfume Applied)
 
-ASPECT RATIO: 9:16 vertical. SUBJECT: AIRA — [full identity lock]. PRODUCT: Now held in right hand (she finally made contact — took it from its hover). Pressed against her left wrist in the classic perfume-application-pose. A single spray visible as ultra-fine mist between nozzle and wrist (the crescent-stopper removed revealing spray mechanism). Mist catching overhead spotlight with prismatic quality.
+ASPECT RATIO: 9:16 vertical. SUBJECT: AIRA — Adult woman late 20s-early 30s, South Asian (Indian), warm honey-to-caramel skin tone with golden undertone, 5'6"-5'8", soft-strong hourglass-athletic silhouette, fuller sculpted legs with toned thigh definition, fuller shapely thighs, fuller feminine arms with subtle muscle tone, fuller defined chest in proportion, flat toned midsection, defined waist clear waist-to-hip ratio, curvy hip line with natural feminine flare, heart-shaped to oval face, defined cheekbones, full defined lips with natural cupid's bow, almond-shaped expressive eyes dark brown iris with subtle amber flecks, strong but feminine groomed naturally arched brow, natural sun-kissed glow, long dark brown to near-black hair with subtle warm highlights naturally textured soft waves with body and movement, elegant well-groomed hands. PRODUCT: Now held in right hand (she finally made contact — took it from its hover). Pressed against her left wrist in the classic perfume-application-pose. A single spray visible as ultra-fine mist between nozzle and wrist (the crescent-stopper removed revealing spray mechanism). Mist catching overhead spotlight with prismatic quality.
 
 MAKEUP/SKIN: Wet-look unchanged, but the blue-violet light-refractions from the bottle now closer to her face and more intimate (held at wrist, patterns falling on inner arm and jaw from close proximity).
 
 HAND POSITIONS: Right hand holding bottle at left wrist, pressing spray. Left wrist presented upward, inner arm exposed (pulse-point targeting). The classic intimate fragrance-application gesture.
 
-FACIAL MICRO-DYNAMICS: Eyes — closed (the sensory-moment of smelling fragrance, the private enjoyment), lashes creating crescents on cheeks, the expression of pure olfactory pleasure. Slight head-tilt toward wrist (leaning into the scent). Lips pressed together in pleasure-smile.
+FACIAL MICRO-DYNAMICS: Eyes — closed (the sensory-moment of smelling fragrance, the private enjoyment), lashes creating crescents on upper cheeks casting micro-shadows, lids smooth with wet-look finish catching overhead spot as dual crescents, the expression of pure olfactory pleasure, REM-like micro-movement beneath closed lids. Brows — relaxed and soft, slight draw together at center (concentration on scent). Lips — pressed together in pleasure-smile, corners lifted symmetrically for once (genuine pleasure transcending habitual asymmetry), wet-look-lip-sheen catching silver highlight. Cheeks — wet-look skin with blue-violet caustics from close-held bottle falling on jaw and inner-arm, slight flush beneath the product-finish. Jaw — soft, head tilted 8 degrees toward wrist (leaning into the scent), neck exposed and elongated. Breath — deep inhale through nose visible as nostril-flare, chest expanding, the breath-of-fragrance-arriving.
 
-FRAMING: ECU — face and wrist-application intimate. Spray mist visible between bottle and skin.
+BODY POSTURE: Standing at basin edge, weight shifted back (stepped away from basin approach), arms drawn in toward center (application pose), left wrist presented upward at chin height exposing pulse-point, right hand holding bottle against wrist, head tilted toward the application point. Intimate, self-contained, private.
+
+KINETIC STILLNESS — Six Layers:
+1. Subject micro-action: Spray mechanism mid-press (finger on nozzle at full depression), ultra-fine mist cloud suspended in air between nozzle and wrist (caught mid-dispersion, not yet settled on skin), head tilting toward wrist to smell
+2. Fabric/hair state: Black silk robe unchanged, wet-look hair catching prismatic mist-refraction near the spray-cloud creating tiny rainbow-edge on nearest strands
+3. Particulate layer: Ultra-fine perfume mist as primary particulate — 50+ micro-droplets suspended in overhead moon-spot beam between bottle and wrist, each catching light as individual prismatic point, creating visible scent-made-tangible
+4. Contact-point activity: Right finger pressing spray mechanism (tactile engagement), bottle pressed against left inner-wrist (glass-on-skin contact, cool bottle on warm pulse-point), mist landing on skin surface beginning to settle
+5. Background motion: Void space still and dark, basin behind with product no longer in it (taken from hover), floor-fog at absolute stillness (the private application moment demands environmental stillness)
+6. Light in motion: Overhead moon-spot catching spray-mist creating prismatic effect (micro-rainbow in the mist cloud), blue-violet caustics from held bottle now projecting onto inner arm and jaw at close range (intimate colored light), the mist itself as light-catching kinetic element
+
+SPATIAL LOGIC:
+- FOREGROUND: Spray mist cloud visible in air between bottle and wrist, prismatic and luminous, occupying the intimate gap as hero detail.
+- MIDGROUND: Aira's face (eyes closed) and hands (holding bottle at wrist) as primary intimate subject plane, sharp focus.
+- BACKGROUND: Void-dark space, basin visible behind her with settled still water, floor-fog at ground level, the environment retreated to darkness for the private moment.
+
+FRAMING: ECU — face and wrist-application intimate. Spray mist visible between bottle and skin. Top of head to collarbone. Subject 85% of frame. Camera height at chin level (intimate, close). The private moment of application as beauty-ritual climax.
+
+LIGHTING:
+- Key: Overhead moon-spot catching spray-mist directly (the mist in the beam creates visible prismatic quality, making scent visible as light)
+- Fill: Product bottle blue-violet refraction creating colored fill on inner arm and jaw (close-range caustic as intimate light)
+- Rim: Overhead spot on hair and shoulder, silver-thin
+- Practical: Spray-mist itself acting as light-catching practical element (prismatic performance in beam)
+- Light separation: Face and application-zone 2 stops above void background, mist-cloud luminous in beam
+
+LENS: 100mm macro-portrait. APERTURE: f/1.8 — face and wrist-application razor-sharp, spray-mist slightly ethereal at edges of focus, background dissolved to pure black. Bokeh: none visible (background too dark).
+
+COMPOSITION REFERENCE: Greig Fraser intimate-ritual (Batman quiet moments), the private-act-of-beauty-application as cinematic subject, Wong Kar-wai In the Mood for Love private-moment framing.
+
+ATMOSPHERE: The most private moment of the concept — eyes closed, scent arriving, the sensory experience of fragrance as intimate self-ceremony, midnight void containing only this small act of beauty, profound silence except the spray-hiss. Zero grain.
+
+COLOR GRADE: Silver-blue-violet intimate — near-monochrome with close-range caustic color on skin (blue-violet from held bottle), prismatic rainbow-edge in spray-mist as the most colorful element, silver highlights on wet-skin and chrome bottle elements. Deep void-black everywhere else. The palette at its most intimate and contained.
+
+NEGATIVE: mirrored, flipped, inverted, extra limbs, fused fingers, melted features, asymmetric eyes (unintentional), garbled text, floating shadows, duplicated subjects, low-res patches, plastic skin, oversharpened, AI-generated artifacts, watermarks, signature, deformed hands, malformed teeth, joint cuts at ankle/knee/wrist/elbow/neck, amputated fingertips, cross-eyed, lazy eye, off-axis pupils, melted clothing, shoes-not-touching-ground, mismatched footwear pair, mannequin-stiff posture, dead eyes, statue-frozen energy, spray-mist too heavy, wrist-application-angle wrong.
 
 ### Frame 5 — Aftermath (Contemplative Hold)
 
-ASPECT RATIO: 9:16 vertical. SUBJECT: AIRA — [full identity lock]. PRODUCT: Set beside the obsidian basin on the floor, standing upright, crescent-stopper replaced. At rest in its final position, facets still catching and refracting moon-spot into blue-violet patterns on the wet basin rim and floor-fog around it. The product as sculpture-at-rest.
+ASPECT RATIO: 9:16 vertical. SUBJECT: AIRA — Adult woman late 20s-early 30s, South Asian (Indian), warm honey-to-caramel skin tone with golden undertone, 5'6"-5'8", soft-strong hourglass-athletic silhouette, fuller sculpted legs with toned thigh definition, fuller shapely thighs, fuller feminine arms with subtle muscle tone, fuller defined chest in proportion, flat toned midsection, defined waist clear waist-to-hip ratio, curvy hip line with natural feminine flare, heart-shaped to oval face, defined cheekbones, full defined lips with natural cupid's bow, almond-shaped expressive eyes dark brown iris with subtle amber flecks, strong but feminine groomed naturally arched brow, natural sun-kissed glow, long dark brown to near-black hair with subtle warm highlights naturally textured soft waves with body and movement, elegant well-groomed hands. PRODUCT: Set beside the obsidian basin on the floor, standing upright, crescent-stopper replaced. At rest in its final position, facets still catching and refracting moon-spot into blue-violet patterns on the wet basin rim and floor-fog around it. The product as sculpture-at-rest.
 
 Aira: Stepped back from basin, now in full-body visibility. One arm crossed over chest holding opposite bicep (the self-embrace pose of someone in a contemplative after-moment). Head slightly tilted down, eyes looking at the product from distance. The separation after intimacy. The mood fully realized.
 
-FRAMING: Wide — full body + product + basin + fog + void. The complete scene as final tableau. Camera pulling back to reveal the midnight-meditation-space in full. The relationship between person and product established across space.
+FACIAL MICRO-DYNAMICS: Eyes — open now, gazing at product from distance with contemplative post-intimacy softness, slightly heavy-lidded (fragrance-afterglow relaxation), dark brown irises catching minimal light from distance, the look of someone savoring an experience just completed. Brows — fully relaxed, natural arch, no tension. Lips — closed in subtle post-experience satisfaction smile, corners barely lifted, lips pressed together holding the private moment inside. Cheeks — wet-look skin still catching distant blue-violet caustic from product on floor (fainter now with distance). Jaw — soft and dropped, face tilted 5 degrees down toward product (still connected to it across space). Breath — slow post-ritual exhale, the breathing of someone who just completed something sacred, shoulders settling.
 
-LIGHTING: Overhead moon-spot containing both Aira and product-at-basin within its circle, fog rolling at edges, the completed ceremony-space visible. Blue-violet refractions from product creating final light-patterns in the fog at floor level.
+BODY POSTURE: Standing full-body visible, stepped back 1.5m from basin. One arm (left) crossed over chest holding right bicep (self-embrace, containment). Right arm held by left hand at upper arm. Head tilted slightly down and left. Weight on left leg, slight hip tilt. Spine straight but shoulders rounded inward from the self-embrace. Bare feet on cold floor, toes visible. The posture of contemplative aftermath.
 
-COLOR GRADE: Peak blue-silver desaturation. Near-monochrome completed. The most visually extreme of all concepts — A24 meets Greig Fraser at maximum artistic-expression. Silver ONLY on product chrome and skin wet-highlights. Everything else crushed to deep blue-black.
+KINETIC STILLNESS — Six Layers:
+1. Subject micro-action: Self-embrace hold with left hand pressing into right bicep (slight compression visible), weight settling from recent step-backward (micro-shift arriving at stillness), head completing its downward tilt toward product
+2. Fabric/hair state: Black silk robe draped, catching the overhead moon-spot with liquid-sheen highlights at shoulder and hip, wet-look hair falling naturally (the styling now secondary to the emotional state)
+3. Particulate layer: Floor-fog rolling at edges of moon-spot circle, 15+ fog particles catching blue-violet light from product refractions at floor level, creating colored ground-haze around the basin and product
+4. Contact-point activity: Left hand pressing into right bicep flesh (self-holding compression), bare feet grounding on cold floor (toe-spread for stability), product resting on floor beside basin (glass-on-floor contact point with micro-shadow)
+5. Background motion: Floor-fog rolling slowly at edges of the overhead moon-spot circle (moving from center outward), product caustic patterns slowly shifting on wet basin rim and fog (subtle movement from micro-vibrations in building), void space beyond in complete stillness
+6. Light in motion: Product caustic patterns playing on floor-fog creating moving blue-violet light-art at ground level, overhead moon-spot stable but catching fog-drift creating slight beam-visibility-fluctuation, the ceremony-space light at its most settled and contemplative
+
+SPATIAL LOGIC:
+- FOREGROUND: Floor-fog at bottom of frame with blue-violet caustic patterns playing across it, product bottle standing beside basin as sculptural object, lower 30% of frame.
+- MIDGROUND: Aira standing in self-embrace as primary emotional subject, full-body visible, sharp focus.
+- BACKGROUND: Void-dark gallery space, edges of the overhead moon-spot circle visible as defined boundary between lit-ceremony-space and infinite dark beyond.
+
+FRAMING: Wide — full body + product + basin + fog + void. The complete scene as final tableau. Camera pulling back to reveal the midnight-meditation-space in full. The relationship between person and product established across space. Subject 45% of frame. Camera at eye-level. The wide-as-emotional-statement (distance = contemplation).
+
+LIGHTING:
+- Key: Overhead moon-spot (cool white, hard circle) containing both Aira and product-at-basin within its illumination boundary
+- Fill: Fog-scattered light from moon-spot creating soft general fill within the circle at -2.5 stops
+- Rim: Moon-spot edge creating bright rim on Aira's hair and shoulders from above (separation from void)
+- Practical: Product as ongoing light-performer (caustic blue-violet patterns on fog and basin from refracted moon-spot)
+- Light separation: Subjects within moon-spot circle 2+ stops above void-dark edges, creating defined ceremony-space boundary
+
+LENS: 35mm wide. APERTURE: f/2.8 — full scene sharp from Aira to product to basin (extended depth for the tableau), fog edges dissolving at periphery. The wide as visual-poem final statement.
+
+COMPOSITION REFERENCE: Greig Fraser wide-environmental-portrait (Dune ceremony spaces), A24 still-tableau (final frame energy), the relationship-across-space composition of Kubrick's 2001 ending.
+
+ATMOSPHERE: Midnight void gallery at complete rest, the ceremony finished, the relationship between person and product fully articulated through space and light, profound contemplative silence, the weight of beauty-as-spiritual-experience settling, cold and still. Zero grain (hyperreal).
+
+COLOR GRADE: Peak blue-silver desaturation. Near-monochrome completed. The most visually extreme of all concepts — A24 meets Greig Fraser at maximum artistic-expression. Silver ONLY on product chrome and skin wet-highlights. Everything else crushed to deep blue-black. Final-frame-as-art-statement grade.
+
+NEGATIVE: mirrored, flipped, inverted, extra limbs, fused fingers, melted features, asymmetric eyes (unintentional), garbled text, floating shadows, duplicated subjects, low-res patches, plastic skin, oversharpened, AI-generated artifacts, watermarks, signature, deformed hands, malformed teeth, joint cuts at ankle/knee/wrist/elbow/neck, amputated fingertips, cross-eyed, lazy eye, off-axis pupils, melted clothing, shoes-not-touching-ground, mismatched footwear pair, mannequin-stiff posture, dead eyes, statue-frozen energy, fog above waist-level, product knocked over, ceremony-mood broken.
 
 ## VIDEO PROMPTS
 
@@ -2104,31 +2222,31 @@ COLOR GRADE: Peak blue-silver desaturation. Near-monochrome completed. The most 
 
 SHOT TYPE: Full-body establishing. CAMERA MOVEMENT: Vertical tilt downward from Aira's face to water surface over 5 seconds (starting at her contemplative face, tilting slowly down her body to the basin, arriving at water surface where first ripple appears). LENS: 50mm. SUBJECT ACTION: Standing still at basin, right hand hovering. Only action: the micro-ripple beginning on water at 4.0s (first sign of emergence beneath). Eyes tracking downward with camera tilt. LIGHTING: Single overhead moon-spot, cool-white, hard-edged circle. AUDIO: Ambient-only (zero music): near-silence (gallery-void quiet), very slight water-surface-tension-creak as first ripple forms (nearly subliminal, ASMR-quality), distant foghorn-like low-frequency drone barely audible (atmospheric), fog-drift creating no sound. Duration: 5 seconds. Frame rate: 24fps. Motion blur: minimal (near-static). Temporal: 0.0-4.0s camera tilt down, 4.0-5.0s arrival at water surface with first ripple visible.
 
-NEGATIVE: [standard video negative], water surface not mirror-still before ripple, fog above waist, light-source visible in frame, any sound above whisper-level.
+NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame skip, mirrored composition, text overlay, watermark, AI artifact, ghosting, double exposure unless intended, lip-sync drift, audio desync, wardrobe drift between shots, unmotivated camera shake, physics violation (water/fire/hair/fabric), mannequin posture, frozen background, identity flicker, water surface not mirror-still before ripple, fog above waist, light-source visible in frame, any sound above whisper-level.
 
 ### Frame 2 — Video (Emergence)
 
 SHOT TYPE: Low-angle at water-surface-level. CAMERA MOVEMENT: Slow vertical tilt upward following product as it rises from water (tracking the emergence, camera tilting up as bottle rises). LENS: 85mm. SUBJECT ACTION: Product rising from water in slow deliberate emergence (speed: 2cm/s). Water cascading down facets in multiple streams following geometric edges. Concentric ripples expanding. Aira's hovering hand visible above, approaching. At 4.5s product reaches apex and stops. LIGHTING: Moon-spot overhead, product creating increasing blue-violet refraction patterns as more surface-area emerges into light. AUDIO: Ambient: water-cascade-sound (gentle small-waterfall quality from water leaving product facets), the specific sound of surface-tension-breaking (a subtle pop/release), droplets returning to basin (tiny individual plip sounds), slight atmospheric breath. Duration: 5 seconds. Frame rate: 24fps. Motion blur: water-cascade with natural motion-blur, product rising smooth.
 
-NEGATIVE: [standard video negative], product rising too fast or jerky, water-physics incorrect, splashing (should be elegant cascade not splash).
+NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame skip, mirrored composition, text overlay, watermark, AI artifact, ghosting, double exposure unless intended, lip-sync drift, audio desync, wardrobe drift between shots, unmotivated camera shake, physics violation (water/fire/hair/fabric), mannequin posture, frozen background, identity flicker, product rising too fast or jerky, water-physics incorrect, splashing (should be elegant cascade not splash).
 
 ### Frame 3 — Video (Full Reveal)
 
 SHOT TYPE: MCU balanced product-and-face. CAMERA MOVEMENT: Slow pull-back (from product-tight to MCU showing both product and Aira's face in frame, revealing the light-patterns on her skin, 3cm over 5s). LENS: 85mm. SUBJECT ACTION: Product hovering fully emerged, Aira's hand 2cm away creating tension-gap. At 2.0s the blue-violet refractions from product visibly dance across her facial features (the light-pattern-on-skin hero moment). At 3.5s slight head-tilt toward product (drawn to it magnetically). Held through 5.0s in contemplative hover. LIGHTING: Moon-spot plus product-refracted secondary creating blue-violet pattern-light on skin and surfaces. AUDIO: Ambient: very slight crystal-resonance tone from the glass bottle (as if the bottle produces a tone from the light passing through it — synesthetic sound-design), water settling in basin (last drips), distant atmospheric drone continuing. Duration: 5 seconds. Frame rate: 24fps. Motion blur: minimal (near-static contemplation).
 
-NEGATIVE: [standard video negative], product shaking, light-patterns static (should subtly move/dance), mood breaking with sudden movement.
+NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame skip, mirrored composition, text overlay, watermark, AI artifact, ghosting, double exposure unless intended, lip-sync drift, audio desync, wardrobe drift between shots, unmotivated camera shake, physics violation (water/fire/hair/fabric), mannequin posture, frozen background, identity flicker, product shaking, light-patterns static (should subtly move/dance), mood breaking with sudden movement.
 
 ### Frame 4 — Video (Application)
 
 SHOT TYPE: ECU face and wrist. CAMERA MOVEMENT: Static locked (intimate stillness for the private application moment). LENS: 100mm. SUBJECT ACTION: At 0.0s she takes the bottle (first physical contact — visible in her hand). At 1.0s removes crescent stopper (gentle pull, chrome catching light). At 2.0s presses against left inner wrist and sprays. At 2.5s fine mist visible in overhead spotlight (prismatic micro-particles). At 3.0-4.0s raises wrist toward face (the smelling). At 4.0-5.0s eyes close in pleasure, slight inhale, the olfactory-moment. LIGHTING: Moon-spot catching spray-mist creating visible prismatic quality in the air between bottle and wrist. AUDIO: Ambient: stopper-removal gentle glass-on-chrome sound at 1.0s, spray mechanism soft hiss at 2.0s, mist-settling silence, Aira's inhale audible at 4.0s (intimate-close ASMR), single heartbeat sound barely audible at 4.5s (the fragrance-takes-effect). Duration: 5 seconds. Frame rate: 24fps. Motion blur: spray-mist with slight diffusion.
 
-NEGATIVE: [standard video negative], spray-mist too heavy (should be ultra-fine), stopper-removal clumsy, eye-close not motivated by pleasure.
+NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame skip, mirrored composition, text overlay, watermark, AI artifact, ghosting, double exposure unless intended, lip-sync drift, audio desync, wardrobe drift between shots, unmotivated camera shake, physics violation (water/fire/hair/fabric), mannequin posture, frozen background, identity flicker, spray-mist too heavy (should be ultra-fine), stopper-removal clumsy, eye-close not motivated by pleasure.
 
 ### Frame 5 — Video (Aftermath Tableau)
 
 SHOT TYPE: Wide establishing final tableau. CAMERA MOVEMENT: Slow pull-back (from MCU to full-body-and-context over 5 seconds, revealing the completed ceremony-space as final image, expanding to show fog, void, moon-circle, basin, product, person — the full midnight-meditation tableau). LENS: 35mm (widening with pull-back). SUBJECT ACTION: Aira stepped back from basin, self-embrace pose (arm across chest). Product on floor beside basin. At 0.0-3.0s camera pulls back revealing increasing context. At 3.0s she opens eyes (having been closed in fragrance-afterglow). At 4.0s slight drop of chin and soft-exhale (settling). At 4.5-5.0s final held tableau — the completed scene as art-installation-moment. LIGHTING: Full overhead moon-spot containing everything, fog at edges catching circle-boundary-glow, blue-violet refractions from resting-product creating light-patterns in floor-fog. AUDIO: Ambient: settling silence, fog-drift creating no sound, the drone fading to true silence by 4.0s, final 1 second of complete silence (the most powerful sound-design choice — total void quiet as the image holds). Duration: 5 seconds. Frame rate: 24fps. Motion blur: pull-back creating slight spatial widening effect.
 
-NEGATIVE: [standard video negative], tableau feeling incomplete, fog above waist, product knocked over or unstable, mood-break.
+NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame skip, mirrored composition, text overlay, watermark, AI artifact, ghosting, double exposure unless intended, lip-sync drift, audio desync, wardrobe drift between shots, unmotivated camera shake, physics violation (water/fire/hair/fabric), mannequin posture, frozen background, identity flicker, tableau feeling incomplete, fog above waist, product knocked over or unstable, mood-break.
 
 ---
 
@@ -2205,17 +2323,49 @@ NEGATIVE: mirrored, flipped, inverted, extra limbs, fused fingers, melted featur
 
 ### Frame 2 — Bloom Reveal (Opening)
 
-ASPECT RATIO: 9:16 vertical. SUBJECT: AIRA — [full identity lock]. PRODUCT: Palette MID-OPEN — captured at 90-degree angle (half-open, lid rising like a wing), interior NOW VISIBLE: gold-leaf interior hinge catching north-light with full metallic glow, 9 pans in warm-to-cool gradient becoming visible (champagne catching most light at the opened-edge, darker shades in shadow at the still-partially-hidden far-edge). Each pan's geometric pressed-texture visible at the opened angle. Compact-mirror inside lid reflecting the north-light downward onto the pans (creating secondary illumination on the pigments). Magnetic closure released — the precise moment after the snap-open (satisfying mechanical precision implied).
+ASPECT RATIO: 9:16 vertical. SUBJECT: AIRA — Adult woman late 20s-early 30s, South Asian (Indian), warm honey-to-caramel skin tone with golden undertone, 5'6"-5'8", soft-strong hourglass-athletic silhouette, fuller sculpted legs with toned thigh definition, fuller shapely thighs, fuller feminine arms with subtle muscle tone, fuller defined chest in proportion, flat toned midsection, defined waist clear waist-to-hip ratio, curvy hip line with natural feminine flare, heart-shaped to oval face, defined cheekbones, full defined lips with natural cupid's bow, almond-shaped expressive eyes dark brown iris with subtle amber flecks, strong but feminine groomed naturally arched brow, natural sun-kissed glow, long dark brown to near-black hair with subtle warm highlights naturally textured soft waves with body and movement, elegant well-groomed hands. PRODUCT: Palette MID-OPEN — captured at 90-degree angle (half-open, lid rising like a wing), interior NOW VISIBLE: gold-leaf interior hinge catching north-light with full metallic glow, 9 pans in warm-to-cool gradient becoming visible (champagne catching most light at the opened-edge, darker shades in shadow at the still-partially-hidden far-edge). Each pan's geometric pressed-texture visible at the opened angle. Compact-mirror inside lid reflecting the north-light downward onto the pans (creating secondary illumination on the pigments). Magnetic closure released — the precise moment after the snap-open (satisfying mechanical precision implied).
 
 HAND POSITIONS: Both hands opening the palette — right hand at lid-edge lifting upward, left hand stabilizing the base on bench surface, the mechanical-opening gesture caught mid-bloom. Fingertips at ceramic edges showing the deliberate controlled opening speed.
 
 FACIAL MICRO-DYNAMICS: Eyes now directed at the interior being revealed (watching the pans appear as lid rises), slight widening with the pleasure of revealing something beautiful, gold shimmer on her own lids echoing the champagne pan being revealed, knowing-smile deepening.
 
-FRAMING: Macro on product with hands — tight on the opening action showing interior detail as hero. Camera at product-surface-level. Aira's face in upper-frame watching.
+BODY POSTURE: Seated at wooden workbench, leaned forward in attentive engagement with the opening, spine curved toward product, weight on forearms resting on bench edge. Morning artisan posture — the maker engaging with material.
+
+KINETIC STILLNESS — Six Layers:
+1. Subject micro-action: Right hand mid-lift of lid (caught at 90-degree angle), fingers at ceramic edge creating precise upward motion, the mechanical-bloom captured at half-extension
+2. Fabric/hair state: Linen apron over cream blouse unchanged, hair tucked behind ears, one strand near right temple catching north-light as a warm accent line
+3. Particulate layer: North-facing window dust motes visible in light beam crossing above the workbench (12-15 particles catching cool daylight), one mote passing directly through the revealed gold-leaf hinge glow
+4. Contact-point activity: Right fingertips pressing into ceramic lid-edge (slight finger-pad compression visible), left palm flat on bench stabilizing palette base (knuckle-pressure visible), palette base resting on bench wood with slight shadow
+5. Background motion: Atelier beyond — slight dust-drift in north-light beam, plant on windowsill with micro-leaf-movement from building airflow, the creative workspace alive but calm
+6. Light in motion: North-facing window light consistent and cool-neutral, BUT the gold-leaf interior hinge catching and bouncing a warm golden reflection upward onto palette lid interior (gold-leaf performing as reflector, sending warm accent-light toward Aira's face from below)
+
+SPATIAL LOGIC:
+- FOREGROUND: Palette mid-open as hero product, ceramic texture and gold-leaf catching light. Lower-center 50% of frame.
+- MIDGROUND: Aira's hands working the opening mechanism, fingers on ceramic edges as connecting gesture.
+- BACKGROUND: Aira's face in upper-frame watching the reveal with knowing pleasure, atelier space beyond (wooden shelves, north-window, creative tools), soft warm focus.
+
+FRAMING: Macro on product with hands — tight on the opening action showing interior detail as hero. Camera at product-surface-level. Aira's face in upper-frame watching. Subject (product) 55% of frame.
+
+LIGHTING:
+- Key: North-facing window cool daylight (5500K, soft and even, color-accurate) from camera-right illuminating palette interior and ceramic surface
+- Fill: Bench surface wood-bounce providing slight warm underside fill at -2 stops
+- Rim: North-light edge on Aira's hand creating definition against dark palette ceramic
+- Practical: Gold-leaf interior hinge acting as warm reflector (bouncing window-light as warm accent upward)
+- Light separation: Palette interior (gold-leaf and pans) 1.5 stops brighter than surrounding bench (product commanding attention)
+
+LENS: 85mm macro-capable. APERTURE: f/2.8 — palette opening sharp with extended depth showing both base and lid detail, hands slightly soft, face in background softer. Bokeh: warm, circular, from bench items.
+
+COMPOSITION REFERENCE: Product-hero macro (luxury beauty advertising standard), frame-within-frame (palette lid as opening frame revealing interior), still-life-meets-action energy of Vermeer domestic-illumination paintings.
+
+ATMOSPHERE: Artisan atelier morning calm, the precise mechanical pleasure of well-designed product-interaction, dust-motes-in-north-light creating workshop-intimate atmosphere, the reveal-moment of opening something beautiful. Subtle grain (warm analog quality).
+
+COLOR GRADE: Warm daylight with artisan-matte quality — wood tones warm and rich, ceramic matte-black as warm-neutral anchor, gold-leaf interior as warmest accent (the reveal-reward), first pan colors becoming visible in accurate north-light, skin warm-prioritized. Slight film grain throughout.
+
+NEGATIVE: mirrored, flipped, inverted, extra limbs, fused fingers, melted features, asymmetric eyes (unintentional), garbled text, floating shadows, duplicated subjects, low-res patches, plastic skin, oversharpened, AI-generated artifacts, watermarks, signature, deformed hands, malformed teeth, joint cuts at ankle/knee/wrist/elbow/neck, amputated fingertips, cross-eyed, lazy eye, off-axis pupils, melted clothing, shoes-not-touching-ground, mismatched footwear pair, mannequin-stiff posture, dead eyes, statue-frozen energy., palette texture not visible, gold-leaf not catching light, opening-angle physically impossible.
 
 ### Frame 3 — Full Open (Pan Detail)
 
-ASPECT RATIO: 9:16 vertical. SUBJECT: AIRA — [full identity lock]. PRODUCT: Palette FULLY OPEN at 180 degrees flat on bench surface. All 9 pans visible in their warm-to-cool gradient (champagne, rose-gold, burnt sienna, terracotta, plum, deep olive, navy, charcoal, matte black). Each pan's geometric pressed-texture pattern visible (tiny triangular tessellation impressed into the powder surface). Gold-leaf interior hinge now flat and visible as a decorative spine. Compact-mirror in lid reflecting the atelier ceiling and north-light. Colors rich and true in the north-window color-accurate light.
+ASPECT RATIO: 9:16 vertical. SUBJECT: AIRA — Adult woman late 20s-early 30s, South Asian (Indian), warm honey-to-caramel skin tone with golden undertone, 5'6"-5'8", soft-strong hourglass-athletic silhouette, fuller sculpted legs with toned thigh definition, fuller shapely thighs, fuller feminine arms with subtle muscle tone, fuller defined chest in proportion, flat toned midsection, defined waist clear waist-to-hip ratio, curvy hip line with natural feminine flare, heart-shaped to oval face, defined cheekbones, full defined lips with natural cupid's bow, almond-shaped expressive eyes dark brown iris with subtle amber flecks, strong but feminine groomed naturally arched brow, natural sun-kissed glow, long dark brown to near-black hair with subtle warm highlights naturally textured soft waves with body and movement, elegant well-groomed hands. PRODUCT: Palette FULLY OPEN at 180 degrees flat on bench surface. All 9 pans visible in their warm-to-cool gradient (champagne, rose-gold, burnt sienna, terracotta, plum, deep olive, navy, charcoal, matte black). Each pan's geometric pressed-texture pattern visible (tiny triangular tessellation impressed into the powder surface). Gold-leaf interior hinge now flat and visible as a decorative spine. Compact-mirror in lid reflecting the atelier ceiling and north-light. Colors rich and true in the north-window color-accurate light.
 
 HAND POSITIONS: Right hand hovering above pans with index finger pointing downward — about to touch a specific pan (the selection moment), hovering over the "burnt sienna" pan. Left hand at edge of palette stabilizing.
 
@@ -2223,11 +2373,43 @@ FACIAL MICRO-DYNAMICS: Knowing-smile fully formed, eyes scanning across the 9 pa
 
 FRAMING: MACRO on open palette — pans filling lower 60% of frame in razor-sharp detail showing texture, color, gradient. Aira's face in upper 40% slightly softer, hand between (connecting person to product).
 
+BODY POSTURE: Leaned forward over open palette, head tilted to see the pans fully, right arm raised with hand hovering above in selection-gesture, left hand at palette edge.
+
+KINETIC STILLNESS — Six Layers:
+1. Subject micro-action: Right index finger hovering 1cm above burnt-sienna pan (the selection-moment frozen), fingertip casting micro-shadow on pan surface, the about-to-touch
+2. Fabric/hair state: Linen apron unchanged, one strand of hair fallen forward past ear near temple catching north-light, slight sway from forward lean
+3. Particulate layer: North-light dust-motes continuing (10-12 visible), one settling toward palette surface (approaching the open pans from above, as if drawn to the color)
+4. Contact-point activity: Left fingers pressing at palette ceramic edge (stabilizing grip), palette base flat on wooden bench surface (weighted contact), right hovering finger creating heat-shadow on pan surface below
+5. Background motion: Atelier alive with contained motion — plant leaves micro-sway, distant street-sound implied, dust-beam drift
+6. Light in motion: North-light playing across the 9 pans — each geometric pressed-texture catching light differently (the triangular tessellation creating varied shadow-play across the gradient from champagne-bright to matte-black-absorbing), compact-mirror in lid reflecting ceiling-light downward as secondary illumination on pans
+
+SPATIAL LOGIC:
+- FOREGROUND: Open palette HERO — 9 pans filling lower 60% of frame, geometric pressed textures visible, gold-leaf hinge as decorative spine between base and lid.
+- MIDGROUND: Aira's hovering hand (right index pointing at burnt-sienna, selection gesture) and left stabilizing hand.
+- BACKGROUND: Aira's face in upper 40% slightly softer, looking down with knowing appreciation, atelier environment beyond.
+
+FRAMING: MACRO on open palette — pans filling lower 60% of frame in razor-sharp detail showing texture, color, gradient. Aira's face in upper 40% slightly softer, hand between (connecting person to product). Camera angle: 45 degrees above palette (showing pan-detail while including face).
+
 LENS: 100mm true macro. APERTURE: f/4 for extended depth on flat palette (all 9 pans sharp).
+
+LIGHTING:
+- Key: North-facing window cool-neutral daylight providing color-accurate illumination on pans (critical: colors must read TRUE under this balanced light)
+- Fill: Compact-mirror in lid reflecting north-light downward onto pans as secondary illumination (product-built-in-lighting-design)
+- Rim: North-light edge on Aira's hovering hand, defining finger against dark pan below
+- Practical: Gold-leaf spine catching and distributing warm-accent light between pans
+- Light separation: Pans in full north-light brightness, surrounding frame -1 stop
+
+COMPOSITION REFERENCE: Beauty product macro-photography elevated to cinematic (still-life tradition), Vermeer attention-to-surface-quality, the palette-as-landscape composition (viewing 9 pans as terrain).
+
+ATMOSPHERE: Artisan precision, the contemplative joy of color-selection, north-light-worship of accurate hue rendering, dust-mote-calm workshop energy. Subtle warm grain.
+
+COLOR GRADE: North-light accuracy — all 9 pan colors rendering TRUE (champagne reads warm-gold, rose-gold reads pink-metallic, burnt sienna reads warm-earth, terracotta warm-orange, plum reads cool-purple, deep olive reads green-earth, navy reads blue-dark, charcoal reads neutral-dark, matte black reads true-absorbing-black). Skin warm against cool-neutral environment. Wood-bench warmth underneath.
+
+NEGATIVE: mirrored, flipped, inverted, extra limbs, fused fingers, melted features, asymmetric eyes (unintentional), garbled text, floating shadows, duplicated subjects, low-res patches, plastic skin, oversharpened, AI-generated artifacts, watermarks, signature, deformed hands, malformed teeth, joint cuts at ankle/knee/wrist/elbow/neck, amputated fingertips, cross-eyed, lazy eye, off-axis pupils, melted clothing, shoes-not-touching-ground, mismatched footwear pair, mannequin-stiff posture, dead eyes, statue-frozen energy., pan colors inaccurate, geometric texture not visible, gold-leaf not catching light.
 
 ### Frame 4 — Application (Demonstration)
 
-ASPECT RATIO: 9:16 vertical. SUBJECT: AIRA — [full identity lock]. PRODUCT: Open palette on bench surface with visible use — finger-swatch marks in champagne and burnt sienna pans (showing that she has dipped into them). A flat shader brush resting in the palette.
+ASPECT RATIO: 9:16 vertical. SUBJECT: AIRA — Adult woman late 20s-early 30s, South Asian (Indian), warm honey-to-caramel skin tone with golden undertone, 5'6"-5'8", soft-strong hourglass-athletic silhouette, fuller sculpted legs with toned thigh definition, fuller shapely thighs, fuller feminine arms with subtle muscle tone, fuller defined chest in proportion, flat toned midsection, defined waist clear waist-to-hip ratio, curvy hip line with natural feminine flare, heart-shaped to oval face, defined cheekbones, full defined lips with natural cupid's bow, almond-shaped expressive eyes dark brown iris with subtle amber flecks, strong but feminine groomed naturally arched brow, natural sun-kissed glow, long dark brown to near-black hair with subtle warm highlights naturally textured soft waves with body and movement, elegant well-groomed hands. PRODUCT: Open palette on bench surface with visible use — finger-swatch marks in champagne and burnt sienna pans (showing that she has dipped into them). A flat shader brush resting in the palette.
 
 MAKEUP ADDITION: Bronze shade (burnt sienna from palette) being applied to outer crease — brush in right hand mid-blend at right eye. The palette-to-face connection visible (she demonstrates the product on herself).
 
@@ -2235,11 +2417,45 @@ HAND POSITIONS: Right hand with shader brush at right eye blending. Left hand at
 
 VOICE: This is the SPOKEN frame — "Nine stories. One palette." delivered with knowing conviction while applying, direct to camera at 2.0s.
 
-FRAMING: Split — palette in sharp foreground bottom-frame, Aira applying in sharp midground, the visual connection between product and result.
+FACIAL MICRO-DYNAMICS: Eyes — right eye slightly closed for brush-access to crease (lid relaxed for application), left eye open and flicking to camera at 2.0s for the VO delivery moment (the tutorial-host multitasking between application and instruction), catchlight at 3 o'clock from north-window. Brows — right brow relaxed for lid-access below it, left brow slightly raised in conversational knowing-expression during VO. Lips — forming "Nine stories. One palette." with confident clear articulation, slight knowing-smile at corners between words, speaking while working (the casual-confident-multitask energy). Cheeks — gold shimmer from prior champagne-pan-application visible on both lids, bronze application in progress on right crease. Jaw — mobile for speech, relaxed, chin steadied by left hand. Breath — conversational breathing rhythm, easy.
+
+BODY POSTURE: Seated at bench, spine straight with slight forward lean, right arm raised to own eye (application pose), left hand at chin stabilizing, head tilted back 5 degrees for eye-access. Tutorial-demonstration posture.
+
+KINETIC STILLNESS — Six Layers:
+1. Subject micro-action: Shader brush mid-blend in right eye crease (bristles spreading pigment, caught at 50% of windshield-wiper stroke), left hand at chin with pinky-brace steadying
+2. Fabric/hair state: Linen apron and cream blouse unchanged, sleeve pushed back on right arm for application access, hair tucked but one piece at right temple
+3. Particulate layer: Micro-particles of bronze eyeshadow powder visible near application zone in north-light beam (3-4 tiny warm-toned motes floating between brush and face)
+4. Contact-point activity: Brush bristles pressing into crease skin (visible compression at contact), pinky braced on chin bone (stabilizing pressure-point), palette base on bench with brush-handle resting in pan (slight weight-tilt)
+5. Background motion: Atelier space calm, palette on bench with visible use-marks in pans as evidence of prior action, dust-beam drift continuing
+6. Light in motion: North-light on face showing the bronze application in real-time (the product performing visibly on skin in accurate color-light), brush creating micro-shadow-play on lid during stroke
+
+SPATIAL LOGIC:
+- FOREGROUND: Open palette on bench with finger-swatch marks in champagne and burnt-sienna pans, shader brush resting. Lower 25% of frame, slightly soft.
+- MIDGROUND: Aira applying bronze to eye crease (split-focus hero plane), sharp, the tutorial-demonstration-action.
+- BACKGROUND: Atelier workbench and north-window beyond, soft warm.
+
+FRAMING: Split — palette in sharp foreground bottom-frame, Aira applying in sharp midground, the visual connection between product and result. Camera at bench-height showing both planes. Subject 60% of frame.
+
+LIGHTING:
+- Key: North-window cool daylight on face (application in accurate color-light, showing product-truth-on-skin)
+- Fill: Bench-surface wood-bounce at -2 stops, warming underside slightly
+- Rim: North-light edge on right arm and brush hand creating definition
+- Practical: None
+- Light separation: Face in full north-light for color-accuracy demonstration, palette at same brightness (dual-hero equal lighting)
+
+LENS: 85mm. APERTURE: f/2.8 — dual-plane sharp (palette foreground and face midground both in acceptable focus through careful distance-matching), background atelier soft.
+
+COMPOSITION REFERENCE: Beauty-tutorial-elevated (the demonstration frame as cinematic), split-focus product-to-result visual-essay, Erwin Olaf precise domestic-beauty compositions.
+
+ATMOSPHERE: Artisan-workshop tutorial energy, the knowing confidence of demonstrating a product, north-light-calm, bronze-powder-in-air as the application-kinetic-moment. Warm grain.
+
+COLOR GRADE: Bronze (burnt-sienna) now entering the facial color-story from palette (the product-to-face-color-thread visible), warm earth-tone on warm skin, north-light maintaining accuracy. Wood-bench warm tones as frame. Gold on eyelids from champagne-pan prior application remaining visible.
+
+NEGATIVE: mirrored, flipped, inverted, extra limbs, fused fingers, melted features, asymmetric eyes (unintentional), garbled text, floating shadows, duplicated subjects, low-res patches, plastic skin, oversharpened, AI-generated artifacts, watermarks, signature, deformed hands, malformed teeth, joint cuts at ankle/knee/wrist/elbow/neck, amputated fingertips, cross-eyed, lazy eye, off-axis pupils, melted clothing, shoes-not-touching-ground, mismatched footwear pair, mannequin-stiff posture, dead eyes, statue-frozen energy., product-to-face color connection unclear, application unrealistic.
 
 ### Frame 5 — Multiple Shades (Full Face Result)
 
-ASPECT RATIO: 9:16 vertical. SUBJECT: AIRA — [full identity lock]. PRODUCT: Open palette with multiple swatch-marks (3-4 colors used), brushes resting in it, the palette-as-working-tool state.
+ASPECT RATIO: 9:16 vertical. SUBJECT: AIRA — Adult woman late 20s-early 30s, South Asian (Indian), warm honey-to-caramel skin tone with golden undertone, 5'6"-5'8", soft-strong hourglass-athletic silhouette, fuller sculpted legs with toned thigh definition, fuller shapely thighs, fuller feminine arms with subtle muscle tone, fuller defined chest in proportion, flat toned midsection, defined waist clear waist-to-hip ratio, curvy hip line with natural feminine flare, heart-shaped to oval face, defined cheekbones, full defined lips with natural cupid's bow, almond-shaped expressive eyes dark brown iris with subtle amber flecks, strong but feminine groomed naturally arched brow, natural sun-kissed glow, long dark brown to near-black hair with subtle warm highlights naturally textured soft waves with body and movement, elegant well-groomed hands. PRODUCT: Open palette with multiple swatch-marks (3-4 colors used), brushes resting in it, the palette-as-working-tool state.
 
 MAKEUP STATE EVOLVED: Now showing MORE palette shades on face — rose-gold at inner corner (new addition), plum at outer-V (new addition from cool-side), original champagne and bronze remaining. The full demonstration of range from one palette (warm AND cool used together).
 
@@ -2247,15 +2463,83 @@ HAND POSITIONS: Both hands lowered, fingers interlaced resting on bench. The app
 
 FACIAL MICRO-DYNAMICS: Direct camera-gaze with full knowing confidence. The "nine stories" manifested on one face. Slight head-tilt. Full knowing-register smile at 60%.
 
-FRAMING: Beauty portrait CU with palette visible in lower-foreground. The face-as-result with product-as-source both in frame.
+BODY POSTURE: Seated at bench, posture opened and confident (no longer leaning forward in application-work), spine straight, shoulders back, hands interlaced resting on bench surface. The posture of completion-and-presentation.
+
+KINETIC STILLNESS — Six Layers:
+1. Subject micro-action: Slight head-tilt rightward at 5 degrees (the "look at this" confidence-angle), knowing-smile at 60% forming with right corner lifting first, eyes holding direct camera-gaze
+2. Fabric/hair state: Linen apron and blouse unchanged, hair settled behind ears with warm highlights catching north-light, the composed-after-work state
+3. Particulate layer: North-light dust-beam continuing (ambient atmospheric), 10-12 motes in background beam creating workshop-life. No product-particles near face (application complete, settled)
+4. Contact-point activity: Interlaced fingers resting on bench wood (gentle self-assured rest), palette visible on bench beside hands with use-evidence in pans (3-4 swatch marks), brushes at rest
+5. Background motion: Atelier calm — creative workspace at peaceful-productive state, slight window-light drift as cloud passes
+6. Light in motion: North-light consistent and color-accurate on completed face, showing all four palette-shades performing simultaneously on skin (rose-gold inner corner, champagne lid, bronze crease, plum outer-V all catching light differently based on their finish — shimmer vs matte reading distinctly)
+
+SPATIAL LOGIC:
+- FOREGROUND: Palette on bench with use-marks visible (3-4 colors swatched), brushes resting in it, slight soft-focus. Product-as-source visible in lower 20%.
+- MIDGROUND: Aira's face as beauty-portrait-result, sharp focus, the "nine stories on one face" as hero.
+- BACKGROUND: Atelier workbench and north-window, soft warm focus.
+
+FRAMING: Beauty portrait CU with palette visible in lower-foreground. The face-as-result with product-as-source both in frame. Top of head to collarbone. Subject 75% of frame. Camera at eye-level. Direct address.
+
+LIGHTING:
+- Key: North-window cool daylight showing all applied shades in color-accurate light (critical: rose-gold, champagne, bronze, and plum all reading true on warm skin)
+- Fill: Ambient bench-bounce at -1.5 stops, soft warm
+- Rim: North-light edge on right side of face and shoulder, thin definition line
+- Practical: None
+- Light separation: Face 1 stop brighter than surrounding environment (beauty-portrait priority)
+
+LENS: 85mm portrait. APERTURE: f/2.0 — face razor-sharp showing all palette-shade-results in detail, palette foreground soft but recognizable, background dissolved. Warm bokeh circles from workshop items.
+
+COMPOSITION REFERENCE: Beauty portrait final-result (advertising convention elevated to cinema), Erwin Olaf knowing-gaze-compositions, the face-as-palette-canvas concept realized.
+
+ATMOSPHERE: Confident completion energy, north-light-calm artisan space, the satisfaction of demonstrated-mastery, warm workshop intimacy. Warm grain.
+
+COLOR GRADE: Warm palette-shades on warm skin as the color-story climax — rose-gold reading pink-metallic at inner corner, champagne as soft-gold on lid center, burnt-sienna as warm-bronze in crease, plum as cool-purple at outer-V. The warm-to-cool range demonstrated on one face. North-light accuracy maintained. Skin priority warm-honey.
+
+NEGATIVE: mirrored, flipped, inverted, extra limbs, fused fingers, melted features, asymmetric eyes (unintentional), garbled text, floating shadows, duplicated subjects, low-res patches, plastic skin, oversharpened, AI-generated artifacts, watermarks, signature, deformed hands, malformed teeth, joint cuts at ankle/knee/wrist/elbow/neck, amputated fingertips, cross-eyed, lazy eye, off-axis pupils, melted clothing, shoes-not-touching-ground, mismatched footwear pair, mannequin-stiff posture, dead eyes, statue-frozen energy., applied shades not matching palette pans, color-accuracy compromised.
 
 ### Frame 6 — Final Tableau (Product Rest)
 
-ASPECT RATIO: 9:16 vertical. SUBJECT: AIRA — [full identity lock]. PRODUCT: Palette now CLOSED again — returned to its sculptural-object-state on the workbench. Magnetic closure secured (the satisfying-snap implied by the closed-state). The product as beautiful-object-at-rest, with slight finger-marks on the matte-black exterior (showing it has been handled and loved — not precious-untouched but used-and-cherished).
+ASPECT RATIO: 9:16 vertical. SUBJECT: AIRA — Adult woman late 20s-early 30s, South Asian (Indian), warm honey-to-caramel skin tone with golden undertone, 5'6"-5'8", soft-strong hourglass-athletic silhouette, fuller sculpted legs with toned thigh definition, fuller shapely thighs, fuller feminine arms with subtle muscle tone, fuller defined chest in proportion, flat toned midsection, defined waist clear waist-to-hip ratio, curvy hip line with natural feminine flare, heart-shaped to oval face, defined cheekbones, full defined lips with natural cupid's bow, almond-shaped expressive eyes dark brown iris with subtle amber flecks, strong but feminine groomed naturally arched brow, natural sun-kissed glow, long dark brown to near-black hair with subtle warm highlights naturally textured soft waves with body and movement, elegant well-groomed hands. PRODUCT: Palette now CLOSED again — returned to its sculptural-object-state on the workbench. Magnetic closure secured (the satisfying-snap implied by the closed-state). The product as beautiful-object-at-rest, with slight finger-marks on the matte-black exterior (showing it has been handled and loved — not precious-untouched but used-and-cherished).
 
 Aira: Leaned back from bench now (no longer hovering over product), one hand at her own cheekbone touching the bronze there (the self-appreciation of results), looking at camera with full knowing-final-expression. The maker-and-wearer satisfied.
 
-FRAMING: Wide enough to show atelier context — workbench, product closed, Aira satisfied, north-light, artisan space. The complete scene as final product-hero-in-context.
+HAND POSITIONS: Right hand at own right cheekbone, fingertips touching the bronze-highlight there (self-appreciation-of-results gesture, fingertips on finished work), left hand resting on bench near the closed palette.
+
+FACIAL MICRO-DYNAMICS: Eyes — direct camera-gaze with full knowing-final-expression, heavy-lidded with satisfaction, all four palette shades visible on eyes catching residual north-light, catchlight at 3 o'clock from window. Brows — relaxed and satisfied, natural arch, slight left-brow-lift (knowing). Lips — closed in full knowing smile at 70%, right corner leading (signature asymmetry), the "maker-and-wearer satisfied" expression, nude lip catching minimal light. Cheeks — right cheekbone under her own fingertips showing bronze-glow (she is feeling her own results), left cheekbone matching. Jaw — confident and soft, chin level. Breath — easy satisfied exhale, the breath of completion.
+
+BODY POSTURE: Leaned back from bench, spine against chair back, shoulders open and relaxed, right arm raised to own face in self-touch, left arm resting on bench. Confident and completed. The artisan at rest after making.
+
+KINETIC STILLNESS — Six Layers:
+1. Subject micro-action: Right fingertips pressing into own cheekbone (feeling the bronze-result, self-appreciation tactile moment), slight weight-settling into chair-lean
+2. Fabric/hair state: Linen apron loosened, blouse relaxed at shoulders, hair settled and warm-lit, the end-of-work state
+3. Particulate layer: North-light dust-beam now catching more particles as afternoon progresses (15-18 motes visible in beam crossing frame), settled workshop atmosphere
+4. Contact-point activity: Right fingertips on own cheekbone skin (self-touch, bronze-product-beneath-fingers), closed palette resting on bench (ceramic-on-wood weighted contact), back against chair (spine support)
+5. Background motion: Atelier space with slow dust-drift, north-light beam shifting subtly as afternoon progresses, plant-leaf micro-sway, the workshop in its living-calm state
+6. Light in motion: North-light beam with visible motes as primary atmospheric element, palette's matte-black ceramic absorbing light while the finger-marks on exterior subtly catch reflections (the used-object-quality), subtle light-shift as afternoon deepens
+
+SPATIAL LOGIC:
+- FOREGROUND: Closed palette on bench as sculptural-object-hero, finger-marks visible on matte-black ceramic showing use-and-love. Bench surface with tools. Lower 25%.
+- MIDGROUND: Aira leaned back, hand at cheekbone, knowing expression, the satisfied-maker as primary emotional subject.
+- BACKGROUND: Full atelier context visible — wooden shelves, north-window with light beam, creative tools, plants, the artisan-life-space in full. Soft focus, warm.
+
+FRAMING: Wide enough to show atelier context — workbench, product closed, Aira satisfied, north-light, artisan space. The complete scene as final product-hero-in-context. Subject 50% of frame. Camera at eye-level, slightly pulled back for context.
+
+LIGHTING:
+- Key: North-window daylight providing even illumination across the full scene (atelier establishing light)
+- Fill: Wall and surface bounces creating ambient fill at -1 stop
+- Rim: North-light edge on Aira's right side and the palette on bench (connecting them with same light-quality)
+- Practical: None visible
+- Light separation: Subject face and palette equally lit (dual-hero final frame), 1 stop above background walls
+
+LENS: 50mm naturalistic. APERTURE: f/2.8 — scene readable with Aira and palette both sharp, background atelier contextual but softer. Warm circular bokeh from items on shelves.
+
+COMPOSITION REFERENCE: Vermeer domestic-illumination (the satisfied artisan in their workshop), Erwin Olaf final-frame tableau-quality, product-at-rest-as-sculpture still-life tradition.
+
+ATMOSPHERE: Artisan satisfaction, the warm quiet after creation, north-light-dust-beam as visual poetry, the palette returned to object-state after performing its nine-story-promise, warm analog workshop energy. Subtle grain.
+
+COLOR GRADE: Warm daylight completion — warm wood-tones dominant, ceramic matte-black grounding, bronze on Aira's skin as persistent color-thread from palette, north-light accuracy for final product-beauty, comfortable warmth throughout. Slight contrast-lift for final-frame definition.
+
+NEGATIVE: mirrored, flipped, inverted, extra limbs, fused fingers, melted features, asymmetric eyes (unintentional), garbled text, floating shadows, duplicated subjects, low-res patches, plastic skin, oversharpened, AI-generated artifacts, watermarks, signature, deformed hands, malformed teeth, joint cuts at ankle/knee/wrist/elbow/neck, amputated fingertips, cross-eyed, lazy eye, off-axis pupils, melted clothing, shoes-not-touching-ground, mismatched footwear pair, mannequin-stiff posture, dead eyes, statue-frozen energy., palette surface texture not visible, atelier context unclear, finger-marks not visible on ceramic.
 
 ## VIDEO PROMPTS
 
@@ -2263,37 +2547,37 @@ FRAMING: Wide enough to show atelier context — workbench, product closed, Aira
 
 SHOT TYPE: Macro on product + reveal of Aira above. CAMERA MOVEMENT: Slow tilt up from product-on-bench to Aira's knowing face (from extreme macro on ceramic surface to MCU on face, 4 seconds). LENS: 85mm. SUBJECT ACTION: At 0.0-2.0s product fills frame (closed, ceramic texture hero). At 2.0-4.0s camera tilts up revealing Aira's knowing expression above, right hand resting on palette. She looks at camera at 3.0s with the knowing-tease expression. LIGHTING: North-facing window cool daylight, dust in beam, gold-leaf catching warmth. AUDIO: Ambient-only: distant street sound (muffled traffic through thick workshop walls), slight wood-creak (old building), dust-drift silence. Duration: 4 seconds. Frame rate: 24fps. Temporal: 0.0-2.0s product macro, 2.0-4.0s tilt to face.
 
-NEGATIVE: [standard video negative], ceramic texture not visible, tilt too fast.
+NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame skip, mirrored composition, text overlay, watermark, AI artifact, ghosting, double exposure unless intended, lip-sync drift, audio desync, wardrobe drift between shots, unmotivated camera shake, physics violation (water/fire/hair/fabric), mannequin posture, frozen background, identity flicker, ceramic texture not visible, tilt too fast.
 
 ### Frame 2 — Video (Bloom Open)
 
 SHOT TYPE: Macro on opening action. CAMERA MOVEMENT: Static macro-lock with slight push-in (1cm approaching product as it opens). LENS: 100mm. SUBJECT ACTION: Palette opening in real-time — her hands lifting the lid from 0 to 180 degrees over 4 seconds. Slow, deliberate, mechanical-precision. At 1.0s magnetic-release click audible. At 2.0s interior gold-leaf and first pans visible. At 3.0s full-open begins. At 3.5-4.0s palette settles flat. LIGHTING: North-light on pans — color-accurate illumination showing true pigment colors. AUDIO: Ambient: magnetic-release CLICK at 1.0s (satisfying, decisive, ASMR), hinge-movement slight mechanical sound (ceramic-on-gold-leaf), palette-settling-flat slight ceramic-on-wood TAP at 3.5s, north-light-dust silence. Duration: 4 seconds. Frame rate: 24fps. Motion blur: minimal (slow deliberate opening). The ASMR of the mechanism IS the audio-content.
 
-NEGATIVE: [standard video negative], opening jerky, magnetic click absent, pans not color-accurate.
+NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame skip, mirrored composition, text overlay, watermark, AI artifact, ghosting, double exposure unless intended, lip-sync drift, audio desync, wardrobe drift between shots, unmotivated camera shake, physics violation (water/fire/hair/fabric), mannequin posture, frozen background, identity flicker, opening jerky, magnetic click absent, pans not color-accurate.
 
 ### Frame 3 — Video (Pan Detail Orbit)
 
 SHOT TYPE: Macro orbit on open palette. CAMERA MOVEMENT: Quarter-turn orbit around open palette (from direct-overhead to 45-degree-angle over 4 seconds, showing dimensionality of pressed-texture-patterns catching light differently as angle changes). LENS: 100mm macro. SUBJECT ACTION: Open palette on bench (no hand-movement — product-hero static). Camera orbiting reveals different facets of the 9 pans, north-light playing across textures differently at each angle. At 3.0s Aira's hovering finger enters frame from above. LIGHTING: North-light direction shifting relative to product as camera orbits (revealing different facets/textures). AUDIO: Ambient: near-silence, slight finger-approaching-product brush-of-air at 3.0s. Duration: 4 seconds. Frame rate: 24fps.
 
-NEGATIVE: [standard video negative], orbit shaky, all-pans-same-appearance (orbit should reveal texture-differences at angles).
+NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame skip, mirrored composition, text overlay, watermark, AI artifact, ghosting, double exposure unless intended, lip-sync drift, audio desync, wardrobe drift between shots, unmotivated camera shake, physics violation (water/fire/hair/fabric), mannequin posture, frozen background, identity flicker, orbit shaky, all-pans-same-appearance (orbit should reveal texture-differences at angles).
 
 ### Frame 4 — Video (Application + VO)
 
 SHOT TYPE: Split MCU (product in lower + face in upper). CAMERA MOVEMENT: Static balanced (split-frame holding both product-source and face-result). LENS: 85mm. SUBJECT ACTION: At 0.0-1.0s finger dips into burnt-sienna pan. At 1.0-2.5s brush applies color to eye crease. At 2.0s VO delivered: "Nine stories. One palette." while applying (multitask-knowing-energy). At 3.0-4.0s brush pulls back, eyes open to camera showing the result. LIGHTING: North-light on face showing product-application in color-accurate light. AUDIO: Music: single warm guitar note plucked at 0.0s and sustaining/fading (the ONLY musical element in this concept), ambient workshop sounds. VO [AIRA, knowing register, 100 wpm slow and deliberate]: "Nine stories. One palette." — delivery: "Nine" emphasized (the number-as-abundance), "stories" as the concept (each shade is a narrative), period-pause 0.4s, "One" emphasized, "palette" landing with satisfied finality. Duration: 4 seconds. Frame rate: 24fps. Lip-sync: English, clear articulation while brush is away from face (VO timed between application-strokes).
 
-NEGATIVE: [standard video negative], VO timing conflicting with brush-near-face, product connection unclear.
+NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame skip, mirrored composition, text overlay, watermark, AI artifact, ghosting, double exposure unless intended, lip-sync drift, audio desync, wardrobe drift between shots, unmotivated camera shake, physics violation (water/fire/hair/fabric), mannequin posture, frozen background, identity flicker, VO timing conflicting with brush-near-face, product connection unclear.
 
 ### Frame 5 — Video (Full Result)
 
 SHOT TYPE: Beauty CU portrait. CAMERA MOVEMENT: Very slow push-in (2mm over 4 seconds, approaching the completed face). LENS: 85mm. SUBJECT ACTION: Face fully showing multiple palette-shades applied. At 0.0-2.0s held beauty-portrait with completed look. At 2.0-3.0s slight head-tilt showing how shades catch north-light differently at angles. At 3.0-4.0s direct-camera-gaze with knowing smile. LIGHTING: North-light on completed makeup showing color-truth of the palette-shades on warm skin. AUDIO: Ambient: slight exhale (satisfaction), guitar note from Frame 4 still barely sustaining at -30dB, workshop quiet. Duration: 4 seconds. Frame rate: 24fps.
 
-NEGATIVE: [standard video negative], makeup application visible (should be seamlessly completed), colors not matching palette pans.
+NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame skip, mirrored composition, text overlay, watermark, AI artifact, ghosting, double exposure unless intended, lip-sync drift, audio desync, wardrobe drift between shots, unmotivated camera shake, physics violation (water/fire/hair/fabric), mannequin posture, frozen background, identity flicker, makeup application visible (should be seamlessly completed), colors not matching palette pans.
 
 ### Frame 6 — Video (Final Close)
 
 SHOT TYPE: Wide atelier context. CAMERA MOVEMENT: Slow pull-back (from MCU to wide over 4 seconds, revealing full workshop context as final tableau). LENS: 50mm widening to 35mm feel. SUBJECT ACTION: At 0.0-1.5s Aira's hands close the palette (the magnetic SNAP audible). At 1.5-2.5s she pushes it gently toward camera on the bench surface (offering-gesture). At 2.5-4.0s camera pulls back revealing atelier context, her knowing expression, the completed scene. Palette resting centered on bench in final position. LIGHTING: Full north-light atelier, dust-beam visible crossing frame, artisan warmth. AUDIO: Ambient: magnetic-snap CLICK (satisfying closure echoing Frame 2 opening), palette-sliding-on-wood slight friction-sound, pull-back revealing room-ambience (more spacious sound-profile), slight bird outside window at 3.5s (nature-context). Duration: 4 seconds. Frame rate: 24fps.
 
-NEGATIVE: [standard video negative], snap not audible, atelier-context unclear in wide, product not centered.
+NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame skip, mirrored composition, text overlay, watermark, AI artifact, ghosting, double exposure unless intended, lip-sync drift, audio desync, wardrobe drift between shots, unmotivated camera shake, physics violation (water/fire/hair/fabric), mannequin posture, frozen background, identity flicker, snap not audible, atelier-context unclear in wide, product not centered.
 
 ---
 
@@ -2370,7 +2654,7 @@ NEGATIVE: mirrored, flipped, inverted, extra limbs, fused fingers, melted featur
 
 ### Frame 2 — Gravity-Free Pour (Product Move)
 
-ASPECT RATIO: 9:16 vertical. SUBJECT: AIRA — [full identity lock]. PRODUCT MOVE: The single impossible moment — golden-champagne drop has exited the dropper tube and instead of falling straight down, CURVES in a gentle arc mid-air (as if guided by invisible force) before landing on Aira's presented fingertip. The drop caught mid-arc — visible as a perfect golden sphere suspended in air at the apex of its curve, catching morning light and appearing to glow internally from the shimmer-particles inside it. The ONE impossible-moment that defines this product-move. Restrained, singular, poetic.
+ASPECT RATIO: 9:16 vertical. SUBJECT: AIRA — Adult woman late 20s-early 30s, South Asian (Indian), warm honey-to-caramel skin tone with golden undertone, 5'6"-5'8", soft-strong hourglass-athletic silhouette, fuller sculpted legs with toned thigh definition, fuller shapely thighs, fuller feminine arms with subtle muscle tone, fuller defined chest in proportion, flat toned midsection, defined waist clear waist-to-hip ratio, curvy hip line with natural feminine flare, heart-shaped to oval face, defined cheekbones, full defined lips with natural cupid's bow, almond-shaped expressive eyes dark brown iris with subtle amber flecks, strong but feminine groomed naturally arched brow, natural sun-kissed glow, long dark brown to near-black hair with subtle warm highlights naturally textured soft waves with body and movement, elegant well-groomed hands. PRODUCT MOVE: The single impossible moment — golden-champagne drop has exited the dropper tube and instead of falling straight down, CURVES in a gentle arc mid-air (as if guided by invisible force) before landing on Aira's presented fingertip. The drop caught mid-arc — visible as a perfect golden sphere suspended in air at the apex of its curve, catching morning light and appearing to glow internally from the shimmer-particles inside it. The ONE impossible-moment that defines this product-move. Restrained, singular, poetic.
 
 HAND POSITIONS: Right hand still holding dropper (slightly above and to the left), the drop having just exited. Left hand positioned below and to the right, index fingertip presented upward as the landing-target. The drop mid-arc between the two — the spatial relationship showing the impossible curve-path clearly.
 
@@ -2378,11 +2662,43 @@ FACIAL MICRO-DYNAMICS: Eyes — tracking the drop's arc with subtle wonder (not 
 
 FRAMING: ECU on the drop-in-arc — the drop itself as the HERO of this frame. Hands visible (source-dropper and destination-fingertip), face slightly softer in background but present. The impossible-moment as visual centerpiece.
 
-LENS: 100mm macro. APERTURE: f/2.0 — drop razor-sharp (even individual shimmer-particles inside it visible as tiny glint-points), hands slightly softer, face as context.
+BODY POSTURE: Seated on balcony chair, leaned forward slightly, both arms extended (right holding dropper above-left, left presenting fingertip below-right), creating the spatial frame for the drop's arc to cross. Eyes tracking downward-right following the drop's trajectory.
+
+KINETIC STILLNESS — Six Layers:
+1. Subject micro-action: Eyes tracking the golden sphere mid-arc (gaze following its impossible curve), right hand steady post-squeeze (dropper in holding-position), left index fingertip presented and waiting (the destination steady)
+2. Fabric/hair state: Grey cashmere cardigan catching cool morning light with fuzzy-edge-halo, air-dried hair with morning breeze lifting one strand at temple (dawn balcony breeze), natural movement in undone texture
+3. Particulate layer: The golden-champagne DROP itself as the primary particle-hero (a single perfect sphere mid-arc with shimmer-particles visible inside it as glint-points catching 7AM light), plus 6-8 morning-mist-moisture particles in cool air around the drop's path
+4. Contact-point activity: Right thumb and index pressing ceramic dropper-bulb (pressure visible on finger pads), left index fingertip extended and steady (skin ready to receive), the arc-gap between dropper-exit-point and fingertip-destination as active tension space
+5. Background motion: Dawn balcony railing with dew-drop slowly descending (gravity reference making the impossible-arc more striking), foggy city below with slight fog-drift, cool morning air movement implied
+6. Light in motion: 7AM cool-warm light catching the golden sphere mid-air (the drop appears to glow internally from shimmer-particles refracting the first warm-edge of sunrise), amber bottle glass in right hand still glowing warm, the drop carrying bottled-warmth through cool morning air
+
+SPATIAL LOGIC:
+- FOREGROUND: The golden drop mid-arc as absolute HERO (center-frame, sharp, luminous, the impossible-moment). Shimmer particles inside visible.
+- MIDGROUND: Aira's hands visible (right above-left with dropper source, left below-right with fingertip destination), creating the spatial framework for the arc.
+- BACKGROUND: Aira's face slightly soft, tracking drop with wonder-expression, dawn balcony and morning sky as cool-toned atmospheric context.
+
+FRAMING: ECU on the drop-in-arc — the drop itself as the HERO of this frame. Hands visible (source-dropper and destination-fingertip), face slightly softer in background but present. The impossible-moment as visual centerpiece. Camera at drop-height.
+
+LENS: 100mm macro. APERTURE: f/2.0 — drop razor-sharp (even individual shimmer-particles inside it visible as tiny glint-points), hands slightly softer, face as context. Bokeh: cool morning-blue tinted, circular.
+
+LIGHTING:
+- Key: 7AM cool-warm dawn light from horizon-left, the first warm-edge-ray hitting the golden drop directly (making it glow against cool environment)
+- Fill: Cool sky-ambient from above at -1 stop, wrapping soft
+- Rim: Warm horizon-ray creating golden edge on right side of hands and dropper
+- Practical: Amber glass bottle in hand glowing warm (internal liquid catching warm-edge-ray)
+- Light separation: Golden drop 2+ stops brighter than surrounding air (it carries and concentrates light, appearing self-luminous)
+
+COMPOSITION REFERENCE: Lubezki natural-light-impossibility (the impossible rendered within naturalistic light), macro-beauty-science-fiction, the single-moment-of-wonder elevated to cinematic hero.
+
+ATMOSPHERE: Dawn balcony fresh cool air with the single impossible-warm-element (the golden drop defying gravity in cold morning), the tender-wonder of sharing something magical in intimate tutorial format, morning mist and dew as atmospheric context. Clean minimal grain.
+
+COLOR GRADE: Cool-dominant environment (blue-toned morning air, grey cashmere, cool sky) with warm ONLY in the golden drop and amber bottle (the product-as-warm-element in cool world — the visual promise of what the highlighter does: brings warmth). Maximum cool-warm contrast concentrated in the hero-element.
+
+NEGATIVE: mirrored, flipped, inverted, extra limbs, fused fingers, melted features, asymmetric eyes (unintentional), garbled text, floating shadows, duplicated subjects, low-res patches, plastic skin, oversharpened, AI-generated artifacts, watermarks, signature, deformed hands, malformed teeth, joint cuts at ankle/knee/wrist/elbow/neck, amputated fingertips, cross-eyed, lazy eye, off-axis pupils, melted clothing, shoes-not-touching-ground, mismatched footwear pair, mannequin-stiff posture, dead eyes, statue-frozen energy, drop-arc too dramatic or subtle, multiple drops, drop physics jarringly unrealistic.
 
 ### Frame 3 — Application (Cheekbone Touch)
 
-ASPECT RATIO: 9:16 vertical. SUBJECT: AIRA — [full identity lock]. PRODUCT: Drop now on fingertip. Fingertip pressing into LEFT cheekbone with the golden-champagne liquid (application moment). Visible at point-of-contact: golden product on skin creating immediate visible glow-effect at the touch-point, blending outward from center with the warmth of her skin activating the shimmer.
+ASPECT RATIO: 9:16 vertical. SUBJECT: AIRA — Adult woman late 20s-early 30s, South Asian (Indian), warm honey-to-caramel skin tone with golden undertone, 5'6"-5'8", soft-strong hourglass-athletic silhouette, fuller sculpted legs with toned thigh definition, fuller shapely thighs, fuller feminine arms with subtle muscle tone, fuller defined chest in proportion, flat toned midsection, defined waist clear waist-to-hip ratio, curvy hip line with natural feminine flare, heart-shaped to oval face, defined cheekbones, full defined lips with natural cupid's bow, almond-shaped expressive eyes dark brown iris with subtle amber flecks, strong but feminine groomed naturally arched brow, natural sun-kissed glow, long dark brown to near-black hair with subtle warm highlights naturally textured soft waves with body and movement, elegant well-groomed hands. PRODUCT: Drop now on fingertip. Fingertip pressing into LEFT cheekbone with the golden-champagne liquid (application moment). Visible at point-of-contact: golden product on skin creating immediate visible glow-effect at the touch-point, blending outward from center with the warmth of her skin activating the shimmer.
 
 HAND POSITIONS: Right hand at left cheekbone, index fingertip pressing golden product into skin in slow circular motion (visible product on finger AND on skin at contact-point). Left hand holding bottle in lap or at chest (secondary, soft focus).
 
@@ -2390,21 +2706,85 @@ MAKEUP STATE CHANGING: Left cheekbone now showing visible highlighter at applica
 
 FACIAL MICRO-DYNAMICS: Eyes — slightly closed in the sensory pleasure of application (the feel of product on skin, fingertip warmth blending), tutorial-intimacy of the shared-sensory-moment. Lips forming the tutorial-words ("One drop here..."). Cheeks — LEFT cheekbone showing the product-glow-formation-in-progress (the hero-detail), RIGHT cheekbone bare for comparison.
 
-FRAMING: ECU on cheekbone application — extreme close on skin-level showing texture and product interaction. The macro-beauty-tutorial-moment.
+BODY POSTURE: Seated, head tilted slightly right to present left cheekbone for application, right arm raised with fingertip pressing into cheek, left hand holding bottle at chest (secondary). Eyes slightly closed in sensory pleasure.
+
+KINETIC STILLNESS — Six Layers:
+1. Subject micro-action: Right index fingertip pressing into left cheekbone in slow circular motion (mid-circle at 7 o'clock position), golden product visible spreading outward from contact-point, skin compressing under fingertip pressure
+2. Fabric/hair state: Cashmere cardigan unchanged, hair near left cheek pushed back for application access, one strand caught between fingertip and cheekbone (trapped during application)
+3. Particulate layer: Morning mist continuing (6-8 particles), golden shimmer-particles from product visible at macro scale on skin surface (individual glint-points where product has been pressed into skin), the product performing visibly
+4. Contact-point activity: Fingertip pressing into cheekbone creating visible skin-depression at center of golden circle (application-pressure hero-detail), product spreading from center outward in concentric warmth-bloom on skin
+5. Background motion: Dawn balcony morning continuing, dew on railing, city clearing from fog below, morning birds implied (audio), cool air on exposed skin
+6. Light in motion: 7AM morning light now hitting cheekbone directly — the highlighter APPLICATION catching and amplifying this light in real-time (product-performance-visible: before-application-skin vs after showing dramatic light-catch difference), individual shimmer-particles creating micro-sparkle-dance on skin surface
+
+SPATIAL LOGIC:
+- FOREGROUND: Aira's cheekbone at extreme macro — skin texture, pore detail, the golden-champagne highlighter radiating from fingertip-contact-point as hero. Left cheekbone fills center-frame.
+- MIDGROUND: Fingertip creating the application-circle, visible product on finger and skin.
+- BACKGROUND: Rest of face soft (eyes closed in pleasure, lips forming tutorial-words), balcony context dissolved to cool-morning bokeh.
+
+FRAMING: ECU on cheekbone application — extreme close on skin-level showing texture and product interaction. The macro-beauty-tutorial-moment. Camera 15cm from cheekbone. Subject (cheekbone detail) 80% of frame.
+
+LIGHTING:
+- Key: 7AM dawn light hitting left cheekbone directly (the application-zone receiving maximum illumination for product-performance visibility)
+- Fill: Cool ambient from above at -1.5 stops
+- Rim: None at this macro distance
+- Practical: Shimmer-particles on skin acting as micro-reflectors (the product performing AS light-element)
+- Light separation: Application-zone on cheekbone 1 stop brighter than surrounding skin (the product-effect as light-difference)
+
+LENS: 100mm macro (true skin-level). APERTURE: f/2.0 — cheekbone-application-zone razor-sharp showing individual shimmer-particles, surrounding face areas dissolving to soft. Minimal bokeh visible (background too close and soft).
+
+COMPOSITION REFERENCE: Macro beauty tutorial (skin-level product-demonstration), the application-moment-as-cinematic-event, medical-precision meets beauty-art in extreme-closeness.
+
+ATMOSPHERE: Intimate tutorial ASMR energy, the sensory-pleasure of application shared at extreme-closeness, dawn-light on skin at macro scale revealing the beauty of both skin-texture and product-interaction, warm-on-cool shimmer-dance. Clean minimal grain.
+
+COLOR GRADE: Warm golden-champagne shimmer on warm-honey skin as the color-center (the product performing ON the subject's skin-tone), cool morning light as environmental context on non-highlighted skin areas, creating maximum before/after contrast. Right cheekbone (bare) reading cooler than left cheekbone (highlighted, warm-golden).
+
+NEGATIVE: mirrored, flipped, inverted, extra limbs, fused fingers, melted features, asymmetric eyes (unintentional), garbled text, floating shadows, duplicated subjects, low-res patches, plastic skin, oversharpened, AI-generated artifacts, watermarks, signature, deformed hands, malformed teeth, joint cuts at ankle/knee/wrist/elbow/neck, amputated fingertips, cross-eyed, lazy eye, off-axis pupils, melted clothing, shoes-not-touching-ground, mismatched footwear pair, mannequin-stiff posture, dead eyes, statue-frozen energy, product-application unrealistic, shimmer-particles not visible at macro, skin-texture artificial.
 
 ### Frame 4 — Blend (Warmth Activation)
 
-ASPECT RATIO: 9:16 vertical. SUBJECT: AIRA — [full identity lock]. APPLICATION PROGRESS: Both cheekbones now showing golden-champagne highlighter fully blended. Product activated by skin-warmth (the "blend with warmth" instruction visible as the shimmer has melted-into-skin creating a lit-from-within quality rather than sitting-on-top). The before/after visible: bare forehead vs. glowing cheekbones.
+ASPECT RATIO: 9:16 vertical. SUBJECT: AIRA — Adult woman late 20s-early 30s, South Asian (Indian), warm honey-to-caramel skin tone with golden undertone, 5'6"-5'8", soft-strong hourglass-athletic silhouette, fuller sculpted legs with toned thigh definition, fuller shapely thighs, fuller feminine arms with subtle muscle tone, fuller defined chest in proportion, flat toned midsection, defined waist clear waist-to-hip ratio, curvy hip line with natural feminine flare, heart-shaped to oval face, defined cheekbones, full defined lips with natural cupid's bow, almond-shaped expressive eyes dark brown iris with subtle amber flecks, strong but feminine groomed naturally arched brow, natural sun-kissed glow, long dark brown to near-black hair with subtle warm highlights naturally textured soft waves with body and movement, elegant well-groomed hands. APPLICATION PROGRESS: Both cheekbones now showing golden-champagne highlighter fully blended. Product activated by skin-warmth (the "blend with warmth" instruction visible as the shimmer has melted-into-skin creating a lit-from-within quality rather than sitting-on-top). The before/after visible: bare forehead vs. glowing cheekbones.
 
 HAND POSITIONS: Hands lowering after application (complete), right hand dropping from face, fingers with residual shimmer catching morning light on the fingertips.
 
 FACIAL MICRO-DYNAMICS: Eyes opening (from Frame 3 pleasure-close), looking at camera with the satisfied-sharing expression of a tutorial-host showing results, slight knowing-smile (the "see? told you" energy). Lips forming "bas, dekhlo" (enough, see for yourself). Cheekbones GLOWING with product catching the now-warmer morning light (dawn has progressed through the tutorial — warm light increasing as the warmth of the product has increased).
 
-FRAMING: Beauty CU showing full face with completed cheekbone-glow. Camera pulling back slightly from Frame 3 macro to show full effect.
+BODY POSTURE: Seated, posture opening up (no longer leaning forward for application), spine straight, hands lowering after completing both cheekbones, confident-ease settling.
+
+KINETIC STILLNESS — Six Layers:
+1. Subject micro-action: Right hand lowering from face (final frame of descent), fingers with residual golden shimmer catching morning light on fingertips (product visible on her working-hand), eyes opening from pleasure-close to camera-address
+2. Fabric/hair state: Cashmere cardigan settling from arm-movement, air-dried hair catching now-warmer morning breeze (dawn progressing), one strand lifting at crown from wind
+3. Particulate layer: Morning mist clearing as sun warms (fewer particles, 4-5 remaining), the atmosphere shifting from cool-misty to warm-clear, paralleling the product's warming effect on skin
+4. Contact-point activity: Right hand fingers with shimmer residue catching light (product-on-fingers as evidence-of-application), both cheekbones now glowing equally (dual contact-result), cardigan fabric on shoulders
+5. Background motion: Dawn progressing — city below emerging from fog (clearing as warmth arrives), warm-edge-light growing from horizon, morning becoming established
+6. Light in motion: 7AM transitioning toward 7:15AM — warm component growing stronger, cheekbone-highlighter catching and AMPLIFYING this increasing warmth (the product and dawn working together, the highlighter literally making the face glow more as light increases), golden shimmer on fingertips creating moving light-points as hand lowers
+
+SPATIAL LOGIC:
+- FOREGROUND: Aira's hands lowering with shimmer-residue on fingers, slightly soft in near-frame zone.
+- MIDGROUND: Aira's full face as beauty-result-hero, both cheekbones glowing with completed application, sharp focus.
+- BACKGROUND: Dawn balcony railing, dew, emerging city view, morning sky transitioning warm, soft atmospheric depth.
+
+FRAMING: Beauty CU showing full face with completed cheekbone-glow. Camera pulling back slightly from Frame 3 macro to show full effect. Top of head to collarbone. Subject 70% of frame. Camera at eye-level for direct tutorial-result presentation.
+
+LIGHTING:
+- Key: 7AM dawn light growing warmer (warm component increasing as dawn progresses), hitting both cheekbones and activating the blended highlighter fully
+- Fill: Cool sky-ambient from above at -1 stop (but diminishing as warm arrives)
+- Rim: Growing warm horizon-ray creating golden rim on left side of face and hair
+- Practical: Amber bottle on railing (secondary) catching growing warmth as visual echo of cheekbone-glow
+- Light separation: Face with highlighted cheekbones reading 1.5 stops brighter than environment (the product amplifying available light)
+
+LENS: 85mm portrait. APERTURE: f/2.0 — face razor-sharp showing both highlighted cheekbones in full detail, background balcony dissolved to cool-warm morning bokeh. Circular warm-tinted bokeh from growing dawn.
+
+COMPOSITION REFERENCE: Beauty result-reveal (the tutorial payoff frame), Lubezki natural-light-worship with the light itself as narrative-partner, skin-priority beauty-portrait.
+
+ATMOSPHERE: Dawn tutorial completion, warm light arriving as product-warmth arrives (environmental metaphor for product-effect), the satisfied sharing-moment of a tutorial revealing its result, morning comfort and gentle confidence. Minimal grain.
+
+COLOR GRADE: Warm arriving — the cool-dominant environment of Frames 1-3 now transitioning to warm as dawn progresses AND product warms the face. Both cheekbones reading golden-warm (highlighted) against slightly-cooler surrounding skin. The visual demonstration of the product's promise: warmth, glow, light-amplification. Skin-priority grade with cheekbone-highlight as the warmest element.
+
+NEGATIVE: mirrored, flipped, inverted, extra limbs, fused fingers, melted features, asymmetric eyes (unintentional), garbled text, floating shadows, duplicated subjects, low-res patches, plastic skin, oversharpened, AI-generated artifacts, watermarks, signature, deformed hands, malformed teeth, joint cuts at ankle/knee/wrist/elbow/neck, amputated fingertips, cross-eyed, lazy eye, off-axis pupils, melted clothing, shoes-not-touching-ground, mismatched footwear pair, mannequin-stiff posture, dead eyes, statue-frozen energy, highlight-effect not visible, warm-transition not reading.
 
 ### Frame 5 — Result (Full Glow Reveal)
 
-ASPECT RATIO: 9:16 vertical. SUBJECT: AIRA — [full identity lock]. PRODUCT: Bottle placed on balcony railing beside her, catching full now-warm morning light through amber glass creating golden glow-halo around it. At rest, beautiful, the product as object-in-morning-light-sculpture.
+ASPECT RATIO: 9:16 vertical. SUBJECT: AIRA — Adult woman late 20s-early 30s, South Asian (Indian), warm honey-to-caramel skin tone with golden undertone, 5'6"-5'8", soft-strong hourglass-athletic silhouette, fuller sculpted legs with toned thigh definition, fuller shapely thighs, fuller feminine arms with subtle muscle tone, fuller defined chest in proportion, flat toned midsection, defined waist clear waist-to-hip ratio, curvy hip line with natural feminine flare, heart-shaped to oval face, defined cheekbones, full defined lips with natural cupid's bow, almond-shaped expressive eyes dark brown iris with subtle amber flecks, strong but feminine groomed naturally arched brow, natural sun-kissed glow, long dark brown to near-black hair with subtle warm highlights naturally textured soft waves with body and movement, elegant well-groomed hands. PRODUCT: Bottle placed on balcony railing beside her, catching full now-warm morning light through amber glass creating golden glow-halo around it. At rest, beautiful, the product as object-in-morning-light-sculpture.
 
 MAKEUP STATE FINAL: Cheekbones glowing with golden-champagne highlighter fully integrated into skin. The "bare-glow" with one strategic addition that transforms the entire face. Morning light now warmer — the highlight catching and AMPLIFYING the growing warmth (the product and the dawn working together).
 
@@ -2412,7 +2792,39 @@ HAND POSITIONS: Both hands wrapped around a warm mug (chai or coffee — morning
 
 FACIAL MICRO-DYNAMICS: Eyes — direct soft gaze to camera, no longer teaching but just present, the after-glow-calm of a completed ritual. Slight soft smile. The tender-register at rest. Cheekbones catching morning light and HOLDING it (the product's promise visible in the natural-morning-context). Completely at peace.
 
-FRAMING: MCU portrait with product visible on railing (connection maintained), morning light warm on face, city-below-in-morning-clearing as context.
+BODY POSTURE: Seated in balcony chair, fully relaxed, both hands wrapped around warm mug at collarbone height (morning-ritual-grounding), shoulders open, head straight with 3-degree right tilt (tender-at-peace). The no-longer-teaching, just-being posture.
+
+KINETIC STILLNESS — Six Layers:
+1. Subject micro-action: Mug warmth creating steam-wisp rising between hands and chin (visual warmth echo of cheekbone-glow), slight settling-breath visible as shoulders drop 2mm
+2. Fabric/hair state: Cashmere cardigan wrapped comfortably, air-dried hair catching full warm morning light now (dawn arrived fully), natural texture with warm highlights visible
+3. Particulate layer: Morning now clearing — minimal mist (2-3 particles only), steam from mug as new warm particulate element (5-6 steam wisps rising past face catching golden 7:30AM light)
+4. Contact-point activity: Both palms wrapped around warm ceramic mug (heat transfer visible as cozy grip), mug weight in cupped hands, product bottle resting on metal railing beside her (glass-on-metal contact with morning dew around base)
+5. Background motion: City below now visible emerging from cleared morning fog, warm morning light on distant buildings, birds crossing middle-distance, the morning-world-waking-up as parallel to her glow-awakened state
+6. Light in motion: Full 7:30AM warm-golden morning light now dominant (the cool-warm transition COMPLETED through the tutorial), highlighted cheekbones catching maximum warm-light and AMPLIFYING it (the product at peak performance in its ideal-light-conditions), amber bottle on railing creating warm glow-halo in full sunlight
+
+SPATIAL LOGIC:
+- FOREGROUND: Amber bottle on balcony railing as product-in-context-hero, catching full morning light with golden glow-halo. Right side of frame, slightly soft.
+- MIDGROUND: Aira with mug as tender-at-peace beauty portrait, face with completed highlight as the living-result of the tutorial. Sharp focus.
+- BACKGROUND: Dawn balcony overlooking city clearing from morning fog, warm sky, the morning-world-context showing product-in-real-life setting. Soft atmospheric depth.
+
+FRAMING: MCU portrait with product visible on railing (connection maintained), morning light warm on face, city-below-in-morning-clearing as context. Subject 65% of frame. Camera at eye-level. Breathing space camera-left (toward the morning view).
+
+LIGHTING:
+- Key: Full 7:30AM warm morning light (3500K, soft and enveloping) hitting face at 45 degrees from camera-left, maximum warmth
+- Fill: Sky-ambient now warm at -1 stop (the cool fill from earlier frames now warmed with dawn completion)
+- Rim: Strong warm-golden rim on left side of hair and shoulder from full sunrise angle, defining against sky
+- Practical: Amber bottle on railing as visible warm-glowing element, mug steam catching key-light
+- Light separation: Face with highlighted cheekbones 1 stop brighter than environment (product amplifying full morning sun)
+
+LENS: 85mm portrait. APERTURE: f/2.0 — face and product on railing both readable (similar focal distance), background city-and-sky dissolved to warm morning bokeh. Golden-warm tinted bokeh circles.
+
+COMPOSITION REFERENCE: Lubezki final-frame-light-worship (The Tree of Life morning light), the beauty-portrait-in-natural-light as emotional resolution, skin-and-product-and-dawn unified in one frame.
+
+ATMOSPHERE: Full morning arrival, the tender calm of ritual-complete and morning-existing, warmth everywhere (in the light, in the mug, in the cheekbones), the tutorial-as-gentle-transformation complete and the subject at peace with her glow, dewy-fresh morning energy. Minimal grain (clean beauty final).
+
+COLOR GRADE: Full warm arrival — the grade itself completing the cool-to-warm transition of the entire concept (Frame 1 cool-dominant > Frame 5 warm-dominant). Golden-champagne on cheekbones as warmest element, amber bottle glowing warm, morning sky golden, skin warm-honey-priority. The product's color-promise fully realized in the natural-light-context. Lubezki warm-wash final.
+
+NEGATIVE: mirrored, flipped, inverted, extra limbs, fused fingers, melted features, asymmetric eyes (unintentional), garbled text, floating shadows, duplicated subjects, low-res patches, plastic skin, oversharpened, AI-generated artifacts, watermarks, signature, deformed hands, malformed teeth, joint cuts at ankle/knee/wrist/elbow/neck, amputated fingertips, cross-eyed, lazy eye, off-axis pupils, melted clothing, shoes-not-touching-ground, mismatched footwear pair, mannequin-stiff posture, dead eyes, statue-frozen energy, product not visible in final frame, morning-mood broken, highlight-effect lost.
 
 ## VIDEO PROMPTS
 
@@ -2420,31 +2832,31 @@ FRAMING: MCU portrait with product visible on railing (connection maintained), m
 
 SHOT TYPE: MCU tutorial direct-address. CAMERA MOVEMENT: Static intimate (tutorial-lock, slight breathing drift only). LENS: 85mm. SUBJECT ACTION: Aira holding bottle to camera, presenting it. At 0.0-1.0s shows bottle (label toward camera). At 1.0s unscrews dropper cap with ceramic bulb. At 2.0s squeezes bulb once drawing liquid up into glass tube (visible golden liquid entering tube). At 3.0-4.0s holds loaded dropper beside her cheek showing the golden liquid in tube against her bare skin (before-application framing). LIGHTING: 7AM cool-warm dawn balcony, amber glass catching warm. AUDIO: Music: single sustained ambient pad very low (-30dB, warm, barely present), ambient (cap-unscrew sound at 1.0s, dropper-squeeze-and-draw-up sound at 2.0s, morning birds, dew-drip from railing), VO [AIRA, intimate tender tutorial voice, 90 wpm whisper-close, ASMR-quality]: "One drop here..." — delivery: said at 3.0s as she positions dropper beside cheek, whisper-intimate, "One" emphasized gently, "drop" with slight breathy quality, "here" with fingertip-to-cheek gesture (pointing where it will go), trailing with ellipsis-energy (more instructions coming). Duration: 4 seconds. Frame rate: 24fps. Lip-sync: English whisper-articulation.
 
-NEGATIVE: [standard video negative], tutorial-framing unclear, product label not visible in presentation.
+NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame skip, mirrored composition, text overlay, watermark, AI artifact, ghosting, double exposure unless intended, lip-sync drift, audio desync, wardrobe drift between shots, unmotivated camera shake, physics violation (water/fire/hair/fabric), mannequin posture, frozen background, identity flicker, tutorial-framing unclear, product label not visible in presentation.
 
 ### Frame 2 — Video (Gravity-Free Pour)
 
 SHOT TYPE: ECU macro on drop-and-finger. CAMERA MOVEMENT: Static macro-lock (the impossible moment demands complete camera stillness for the magic to be credible). LENS: 100mm. SUBJECT ACTION: At 0.0-1.0s dropper squeezes releasing a single drop. At 1.0-2.5s the drop exits tube and CURVES in gentle arc mid-air (the impossible moment — slow enough to see, 1.5 seconds of defied-gravity). At 2.5-3.5s drop lands on presented fingertip (gentle, no splash — absorbed by skin-warmth on contact). At 3.5-4.0s held on fingertip showing golden-shimmer-sphere now on skin. LIGHTING: Cool morning air with drop catching warm-horizon-light as it arcs (the drop appears to carry warmth through cold air). AUDIO: Ambient: near-silence for the magical moment (creating reverence around the impossible), slight windchime-like tone at 1.0s as drop exits (synesthetic sound-for-light quality, barely audible), drop-landing-on-skin micro-sound at 2.5s (soft wet contact), return to morning-ambient. Duration: 4 seconds. Frame rate: 24fps (real-time — not slow-motion, making the impossible moment more striking). Motion blur: drop-in-arc creating slight golden trail (speed-trail effect but gentle).
 
-NEGATIVE: [standard video negative], drop-arc too dramatic or too subtle (must be gentle but clearly curving), drop physics jarringly unrealistic (must feel almost-natural with ONE impossible element), multiple drops (must be singular).
+NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame skip, mirrored composition, text overlay, watermark, AI artifact, ghosting, double exposure unless intended, lip-sync drift, audio desync, wardrobe drift between shots, unmotivated camera shake, physics violation (water/fire/hair/fabric), mannequin posture, frozen background, identity flicker, drop-arc too dramatic or too subtle (must be gentle but clearly curving), drop physics jarringly unrealistic (must feel almost-natural with ONE impossible element), multiple drops (must be singular).
 
 ### Frame 3 — Video (Application)
 
 SHOT TYPE: ECU on cheekbone application. CAMERA MOVEMENT: Slow push-in (approaching skin-level over 4 seconds, arriving at extreme-macro on cheekbone showing individual shimmer-particles at contact). LENS: 85mm to 100mm (push-in approaching macro territory). SUBJECT ACTION: At 0.0-1.0s fingertip approaches cheekbone with golden-drop-loaded. At 1.0s contact (finger touches skin — the golden product meets warm skin surface). At 1.0-3.0s gentle circular blend-motion with visible product spreading outward from center (the bloom-of-glow-on-skin in real-time). At 3.0-4.0s camera arrives at skin-level macro showing individual shimmer-particles catching 7AM light (the micro-beauty visible at macro scale). LIGHTING: 7AM light on skin showing product-interaction in real-time (the shimmer activating). AUDIO: Ambient: fingertip-on-skin soft circular sounds (ASMR-quality, intimate), slight breath from Aira, VO [AIRA, whisper continuing, 85 wpm extremely slow and sensory]: "...blend with warmth..." — delivery: whispered at 1.5s as blending begins, "blend" said simultaneously with the circular motion (action matching word), "with warmth" trailing softly (the instruction AND the feeling). Duration: 4 seconds. Frame rate: 24fps. Lip-sync: whispered, lips barely moving (ASMR-style minimal articulation).
 
-NEGATIVE: [standard video negative], product application unrealistic, shimmer-particles not visible at macro, blending too fast.
+NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame skip, mirrored composition, text overlay, watermark, AI artifact, ghosting, double exposure unless intended, lip-sync drift, audio desync, wardrobe drift between shots, unmotivated camera shake, physics violation (water/fire/hair/fabric), mannequin posture, frozen background, identity flicker, product application unrealistic, shimmer-particles not visible at macro, blending too fast.
 
 ### Frame 4 — Video (Result Reveal)
 
 SHOT TYPE: Beauty CU pull-back. CAMERA MOVEMENT: Slow pull-back from ECU to CU over 4 seconds (revealing full face from skin-macro to portrait showing both highlighted cheekbones). LENS: 85mm. SUBJECT ACTION: At 0.0-2.0s pull-back from Frame 3 macro reveals full face with both cheekbones now glowing. At 2.0s eyes open to camera (from sensory-pleasure close). At 2.5s the tender satisfied smile. At 3.0s delivers final tutorial-line. At 3.5-4.0s slight head-tilt catching morning light differently across the highlighted cheekbones (demonstrating the light-responsive quality). LIGHTING: Morning now warmer (dawn progressing through tutorial), highlight on cheekbones catching and amplifying the growing warmth. AUDIO: Ambient: morning fully present (birds, distant city, warmth in the air), VO [AIRA, satisfied tender finish, 80 wpm]: "...bas, dekhlo." — delivery: Hindi punctuation, "bas" (enough) with gentle period-energy (the tutorial-complete signal), slight pause, "dekhlo" (just look / see for yourself) with soft invitation, the words of someone who has shown you the magic and is now letting you observe the results. Duration: 4 seconds. Frame rate: 24fps. Lip-sync: Hindi "bas" (short, lips together then apart), "dekhlo" (tongue and open).
 
-NEGATIVE: [standard video negative], highlight-effect not visible in pull-back, eyes-open timing off.
+NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame skip, mirrored composition, text overlay, watermark, AI artifact, ghosting, double exposure unless intended, lip-sync drift, audio desync, wardrobe drift between shots, unmotivated camera shake, physics violation (water/fire/hair/fabric), mannequin posture, frozen background, identity flicker, highlight-effect not visible in pull-back, eyes-open timing off.
 
 ### Frame 5 — Video (Morning Glow)
 
 SHOT TYPE: MCU portrait in morning light. CAMERA MOVEMENT: Static gentle (locked with micro-drift, the held-final-portrait). LENS: 85mm. SUBJECT ACTION: Tutorial complete — Aira with warm mug in hands, existing in the morning with her glow. At 0.0-2.0s she takes a sip from mug (morning-ritual-completing-action, grounding-in-real-life). At 2.0-3.0s lowers mug, looks at camera with full tender soft gaze — the after-tutorial-calm. At 3.0-4.0s held portrait with morning-light-and-highlighted-cheekbones as final image, product bottle visible on railing catching light beside her. The person-and-product-in-morning-light as final association. LIGHTING: Full 7:30AM warm-morning-light now dominant (the concept has transitioned from cool-7AM to warm-7:30AM through the tutorial), highlighted cheekbones in maximum catch-and-amplify mode. AUDIO: Ambient: full morning soundscape (birds chorus at warm-dawn-peak, distant city waking, slight breeze, mug-sip sound at 0.5s), no VO (silence as conclusion — the tutorial is over, the morning continues), possible single soft piano note at 3.0s sustaining to end (warm, single, resolving). Duration: 4 seconds. Frame rate: 24fps.
 
-NEGATIVE: [standard video negative], product not visible in final frame (must maintain product-presence), morning-mood broken.
+NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame skip, mirrored composition, text overlay, watermark, AI artifact, ghosting, double exposure unless intended, lip-sync drift, audio desync, wardrobe drift between shots, unmotivated camera shake, physics violation (water/fire/hair/fabric), mannequin posture, frozen background, identity flicker, product not visible in final frame (must maintain product-presence), morning-mood broken.
 
 ---
 
@@ -2521,15 +2933,49 @@ NEGATIVE: mirrored, flipped, inverted, extra limbs, fused fingers, melted featur
 
 ### Frame 2 — Product Complete (Bottle Formed)
 
-ASPECT RATIO: 9:16 vertical. SUBJECT: AIRA — [full identity lock]. PRODUCT: Lip oil bottle FULLY FORMED — the liquid materialization complete, bottle now solid rose-tinted glass standing on marble counter, sculpted twist non-cylindrical form with ergonomic curve visible, brand-mark engraved at base in gold catching light, sheer berry-rose liquid inside with light-catching particles visible through rose glass. The product at rest, having just completed its formation (a final micro-droplet of rose-liquid arriving at the bottle surface and absorbing in — the last-arriving-particle showing the materialization JUST completed).
+ASPECT RATIO: 9:16 vertical. SUBJECT: AIRA — Adult woman late 20s-early 30s, South Asian (Indian), warm honey-to-caramel skin tone with golden undertone, 5'6"-5'8", soft-strong hourglass-athletic silhouette, fuller sculpted legs with toned thigh definition, fuller shapely thighs, fuller feminine arms with subtle muscle tone, fuller defined chest in proportion, flat toned midsection, defined waist clear waist-to-hip ratio, curvy hip line with natural feminine flare, heart-shaped to oval face, defined cheekbones, full defined lips with natural cupid's bow, almond-shaped expressive eyes dark brown iris with subtle amber flecks, strong but feminine groomed naturally arched brow, natural sun-kissed glow, long dark brown to near-black hair with subtle warm highlights naturally textured soft waves with body and movement, elegant well-groomed hands. PRODUCT: Lip oil bottle FULLY FORMED — the liquid materialization complete, bottle now solid rose-tinted glass standing on marble counter, sculpted twist non-cylindrical form with ergonomic curve visible, brand-mark engraved at base in gold catching light, sheer berry-rose liquid inside with light-catching particles visible through rose glass. The product at rest, having just completed its formation (a final micro-droplet of rose-liquid arriving at the bottle surface and absorbing in — the last-arriving-particle showing the materialization JUST completed).
 
 Aira now reaching to pick up the completed bottle — right hand approaching with fingers open in the picking-up gesture. Expression shifted from wonder (Frame 1) to desire/intention (she wants to use it NOW). The fascination becoming action.
 
-All environment, lighting, and atmosphere continuing from Frame 1 with slight steam-reduction (bathroom beginning to clear after shower).
+FACIAL MICRO-DYNAMICS: Eyes — shifted from wonder (Frame 1) to desire/intention, slightly narrowed with purpose, gaze locked on the completed bottle, the decision to reach forming visibly in the expression (she wants to use it NOW). Brows — slight draw together in intent. Lips — still natural post-shower-pink, parted slightly in anticipation of what they are about to receive, the bare-canvas-before-art state. Cheeks — post-shower flush continuing. Jaw — slightly forward (intent, approach-energy). Breath — quickened inhale of desire-and-decision.
+
+BODY POSTURE: Standing at marble counter, right hand now reaching forward toward bottle (mid-approach, fingers open in the picking-up gesture), slight forward lean of torso (desire-lean toward the formed product), left hand still on counter surface. The fascination becoming action.
+
+KINETIC STILLNESS — Six Layers:
+1. Subject micro-action: Right hand mid-approach toward completed bottle (fingers open, reaching, caught at 60% of the reach), a final micro-droplet of rose-liquid arriving at bottle surface and absorbing in (the last formation-particle, simultaneously with her reach)
+2. Fabric/hair state: White towel unchanged, damp hair with one piece stuck to right shoulder (damp-adhesion), another piece hanging forward past left collarbone (intimate undone state)
+3. Particulate layer: Steam reducing from Frame 1 (bathroom clearing), 12-15 steam particles still visible but thinning, the last rose-liquid-micro-droplet traveling toward bottle surface as a kinetic rose-colored particle in air
+4. Contact-point activity: Left palm flat on wet marble counter (moisture contact, condensation), right fingers approaching bottle (not yet touching — the gap between intent and contact), bare feet on warm bathroom floor
+5. Background motion: Steam dissipating slowly (clearing post-shower humidity), water droplets on mirror beginning to descend more slowly (condensation drying), the bathroom settling from shower-state to calm-state
+6. Light in motion: Backlit mirror continuing broad soft rim-light, wet marble surface still creating caustic reflections on ceiling (but fewer as counter dries), rose-glass bottle now catching and refracting backlight through its rose-tinted body (creating soft pink-caustics on nearby marble surface — product performing its color-light-play)
+
+SPATIAL LOGIC:
+- FOREGROUND: Marble counter with completed rose-glass bottle as hero object (standing, formed, luminous), final droplet arriving at surface. Counter wet-surface. Lower 35%.
+- MIDGROUND: Aira's reaching hand and upper body, the approach-gesture as narrative action, sharp focus.
+- BACKGROUND: Round backlit mirror with diminishing steam, bathroom beyond with shower-door condensation clearing, warm-neutral ambient.
+
+LIGHTING:
+- Key: Large round backlit mirror from behind providing broad soft rear-illumination (continuing from Frame 1, 4000K warm-neutral)
+- Fill: Bathroom ambient from reflective wet surfaces at -1 stop (diminishing slightly as steam clears)
+- Rim: Mirror-backlight creating warm rim on shoulders and damp hair
+- Practical: Rose-glass bottle catching and refracting backlight (creating pink-tinted caustic play on marble surface nearby — the product as light-performer)
+- Light separation: Bottle and reaching-hand zone 1.5 stops brighter than background (approaching the product-light)
+
+FRAMING: MCU with product-hero on counter and Aira above. Camera at counter-height continuing from Frame 1 but slightly tighter (the relationship narrowing as she approaches). Subject 60% of frame. The bottle as achieved-object and the hand as approaching-desire.
+
+LENS: 85mm. APERTURE: f/2.0 — bottle and reaching hand sharp (same plane), face above slightly softer (product-priority at this moment), background dissolved to warm soft bokeh with mirror-glow. Warm-tinted bokeh.
+
+COMPOSITION REFERENCE: Bradford Young ambient-soft (Arrival wonder transitioning to intent), the product-as-completed-object as still-life-hero, beauty-science-fiction resolved to beauty-reality.
+
+ATMOSPHERE: Post-shower bathroom with steam clearing, the impossible-made-real settled on the counter, the desire to use what has just formed, intimate bathroom warmth with slight humidity remaining, the transition from witnessing to possessing. Minimal grain (clean polished).
+
+COLOR GRADE: Cool bathroom tiles with warm skin-priority continuing, rose-pink now SOLID in the formed bottle (vs. liquid-in-motion of Frame 1), steam-diffusion diminishing (clearer image), wet-surface highlights controlled. Pink-rose as the chromatic-accent now concentrated in product rather than distributed in air.
+
+NEGATIVE: mirrored, flipped, inverted, extra limbs, fused fingers, melted features, asymmetric eyes (unintentional), garbled text, floating shadows, duplicated subjects, low-res patches, plastic skin, oversharpened, AI-generated artifacts, watermarks, signature, deformed hands, malformed teeth, joint cuts at ankle/knee/wrist/elbow/neck, amputated fingertips, cross-eyed, lazy eye, off-axis pupils, melted clothing, shoes-not-touching-ground, mismatched footwear pair, mannequin-stiff posture, dead eyes, statue-frozen energy, product-formation not appearing complete, steam increasing instead of clearing, towel falling.
 
 ### Frame 3 — Application (The "Ruk" Moment)
 
-ASPECT RATIO: 9:16 vertical. SUBJECT: AIRA — [full identity lock]. PRODUCT: Lip oil bottle open, cap-with-doe-foot-applicator pulled out. Doe-foot loaded with berry-rose oil visible on the applicator-tip (sheer pink-red liquid with shimmer). The applicator approaching her lower lip — caught at the moment JUST BEFORE contact (2mm away). The anticipation-moment. The "ruk" (wait/stop) whisper.
+ASPECT RATIO: 9:16 vertical. SUBJECT: AIRA — Adult woman late 20s-early 30s, South Asian (Indian), warm honey-to-caramel skin tone with golden undertone, 5'6"-5'8", soft-strong hourglass-athletic silhouette, fuller sculpted legs with toned thigh definition, fuller shapely thighs, fuller feminine arms with subtle muscle tone, fuller defined chest in proportion, flat toned midsection, defined waist clear waist-to-hip ratio, curvy hip line with natural feminine flare, heart-shaped to oval face, defined cheekbones, full defined lips with natural cupid's bow, almond-shaped expressive eyes dark brown iris with subtle amber flecks, strong but feminine groomed naturally arched brow, natural sun-kissed glow, long dark brown to near-black hair with subtle warm highlights naturally textured soft waves with body and movement, elegant well-groomed hands. PRODUCT: Lip oil bottle open, cap-with-doe-foot-applicator pulled out. Doe-foot loaded with berry-rose oil visible on the applicator-tip (sheer pink-red liquid with shimmer). The applicator approaching her lower lip — caught at the moment JUST BEFORE contact (2mm away). The anticipation-moment. The "ruk" (wait/stop) whisper.
 
 WARDROBE/HAIR: White towel, damp hair, unchanged. Same intimate post-shower state.
 
@@ -2543,17 +2989,83 @@ FRAMING: ECU on lips — extreme close showing lip-texture, applicator approachi
 
 VOICE: "...ruk" whispered at this frame — the single word. The command to self (and to viewer): wait, look, see this moment.
 
+BODY POSTURE: Standing at counter, both arms elevated to mouth-height, head tilted back 5 degrees for applicator access to lower lip, eyes cast downward checking in mirror. Intimate application-stance.
+
+KINETIC STILLNESS — Six Layers:
+1. Subject micro-action: Doe-foot applicator frozen 2mm from lower lip (the ultimate pause — "ruk"), loaded with berry-rose oil catching bathroom-light as wet-bright-point, the anticipation-gap as hero detail
+2. Fabric/hair state: White towel unchanged, damp hair hanging forward framing face on both sides (intimate undone frame), one piece near lower lip area creating soft foreground texture
+3. Particulate layer: Minimal steam (bathroom mostly cleared), slight humidity-haze remaining around mirror backlight, 3-4 moisture particles catching light near face (intimate-scale atmosphere)
+4. Contact-point activity: Right hand gripping bottle-base (stable hold), left hand holding cap-with-applicator at lip-level (precise positioning), the 2mm GAP between doe-foot-sponge and lower-lip-skin as the critical non-contact tension-point
+5. Background motion: Bathroom settled, round backlit mirror stable, minimal environmental movement (the world holding its breath with the "ruk" command)
+6. Light in motion: Backlit mirror rim-light catching the loaded doe-foot-applicator creating a wet-bright-point of berry-rose color (the product-on-applicator as light-catching element), bathroom caustics from wet surfaces still playing subtle patterns on ceiling, lip-surface catching reflected light showing natural-pink-texture (the before-state in full detail before transformation)
+
+SPATIAL LOGIC:
+- FOREGROUND: The 2mm gap — doe-foot applicator loaded with berry-rose oil approaching lower lip, both surfaces visible at macro scale. The tension-gap as hero negative-space.
+- MIDGROUND: Aira's face filling frame from nose-tip to chin, lips as hero-canvas, eyes cast down, the anticipation-expression.
+- BACKGROUND: Soft bathroom — mirror-backlight glow, steam wisps, warm ambient. Dissolved.
+
+FRAMING: ECU on lips — extreme close showing lip-texture, applicator approaching, the 2mm gap as hero-detail. Aira's face fills frame from nose-tip to chin. The macro-lip-moment. Camera at lip-level. Subject (lips) 70% of frame.
+
+LIGHTING:
+- Key: Backlit mirror from behind creating rim-light on lip-edges (defining lip-shape dramatically at macro)
+- Fill: Bathroom ambient reflected from wet surfaces providing even soft fill on lip surface (showing natural texture)
+- Rim: Mirror-backlight wrapping around chin and nose-tip
+- Practical: Berry-rose oil on doe-foot catching light as a luminous pink-wet point (the product advertising itself before application)
+- Light separation: Lip zone evenly lit for maximum texture-visibility, applicator-tip 1 stop brighter (product glow)
+
+LENS: 100mm macro. APERTURE: f/2.0 — lips and applicator-tip razor-sharp at macro (skin texture, individual shimmer-particles in oil visible, natural lip-line detail), surrounding face areas dissolving to intimate soft. No bokeh visible (too close).
+
+COMPOSITION REFERENCE: Wong Kar-wai extreme-close-intimacy (In the Mood for Love lip-proximity), the macro-beauty-moment as cinematic-event, the "almost" as more powerful than the "contact."
+
+ATMOSPHERE: The held-breath-moment of beauty application, the "ruk" (wait/stop) command embodied visually, intimate bathroom privacy, the anticipation more powerful than the act, warm wet light at macro scale. Zero grain (hyperreal macro clarity).
+
+COLOR GRADE: Natural-pink lip-skin as baseline (the before-state in full color-truth), berry-rose oil on applicator as the approaching chromatic-transformation (rich pink-red with shimmer visible at macro), cool bathroom ambient as neutral stage, warm skin-tone-priority on the lip-skin. The grade holding back — the color-transformation has not happened yet (it comes in Frame 4).
+
+NEGATIVE: mirrored, flipped, inverted, extra limbs, fused fingers, melted features, asymmetric eyes (unintentional), garbled text, floating shadows, duplicated subjects, low-res patches, plastic skin, oversharpened, AI-generated artifacts, watermarks, signature, deformed hands, malformed teeth, joint cuts at ankle/knee/wrist/elbow/neck, amputated fingertips, cross-eyed, lazy eye, off-axis pupils, melted clothing, shoes-not-touching-ground, mismatched footwear pair, mannequin-stiff posture, dead eyes, statue-frozen energy, applicator touching lip prematurely, berry-rose color already on lips, doe-foot-dripping.
+
 ### Frame 4 — Contact (Oil on Lips)
 
-ASPECT RATIO: 9:16 vertical. SUBJECT: AIRA — [full identity lock]. PRODUCT: Doe-foot applicator now IN CONTACT with lower lip, actively applying berry-rose oil across lip surface. Visible: wet-glossy berry-rose color depositing from applicator-sponge onto lower lip (left-to-right stroke), transforming natural-pink to berry-rose-shimmer. Upper lip still bare (will be next). The product-performance-moment visible as COLOR-CHANGE on skin.
+ASPECT RATIO: 9:16 vertical. SUBJECT: AIRA — Adult woman late 20s-early 30s, South Asian (Indian), warm honey-to-caramel skin tone with golden undertone, 5'6"-5'8", soft-strong hourglass-athletic silhouette, fuller sculpted legs with toned thigh definition, fuller shapely thighs, fuller feminine arms with subtle muscle tone, fuller defined chest in proportion, flat toned midsection, defined waist clear waist-to-hip ratio, curvy hip line with natural feminine flare, heart-shaped to oval face, defined cheekbones, full defined lips with natural cupid's bow, almond-shaped expressive eyes dark brown iris with subtle amber flecks, strong but feminine groomed naturally arched brow, natural sun-kissed glow, long dark brown to near-black hair with subtle warm highlights naturally textured soft waves with body and movement, elegant well-groomed hands. PRODUCT: Doe-foot applicator now IN CONTACT with lower lip, actively applying berry-rose oil across lip surface. Visible: wet-glossy berry-rose color depositing from applicator-sponge onto lower lip (left-to-right stroke), transforming natural-pink to berry-rose-shimmer. Upper lip still bare (will be next). The product-performance-moment visible as COLOR-CHANGE on skin.
 
 MAKEUP STATE CHANGING: Lower lip now 70% covered with berry-rose lip oil (left side complete showing glossy berry-rose shimmer, right side still being applied, center catching light with wet-gleam). Upper lip still natural-pink. The asymmetric mid-application state showing before-and-after simultaneously on one face.
 
-FRAMING: ECU continuing from Frame 3 — extreme macro on lips showing product-on-skin color-transformation-in-progress. The glossy wet-surface of applied lip oil catching and reflecting bathroom-light.
+BODY POSTURE: Same intimate application stance, arms elevated, head tilted back for lip access, slight forward lean toward mirror for precision. Eyes downcast at compact/mirror checking the application in progress.
+
+KINETIC STILLNESS — Six Layers:
+1. Subject micro-action: Doe-foot sponge mid-stroke on lower lip (caught at center of left-to-right application sweep), berry-rose oil depositing in real-time (visible color-boundary between applied-left and bare-right on lower lip)
+2. Fabric/hair state: White towel and damp hair unchanged, one hair piece nearest to mouth area pushed aside (tucked during application for access), intimate undone state
+3. Particulate layer: Minimal atmospheric (bathroom cleared), but product-micro-particles visible — individual shimmer-points in the oil catching light on the already-applied lip section (the product performing at macro scale)
+4. Contact-point activity: Doe-foot sponge IN FULL CONTACT with lower lip (compression of sponge against lip-flesh visible, product transferring at contact-boundary), right hand stable on bottle-base, left hand precise on applicator-cap
+5. Background motion: Bathroom ambient still, mirror-backlight stable, environment in full service of the intimate application moment (no distracting movement)
+6. Light in motion: Applied berry-rose section of lower lip NOW catching bathroom-light differently than bare section — the glossy wet-surface creating sharp bright highlights where oil sits (the product-as-light-changer performing in real-time), backlit mirror rim-light defining the color-boundary edge between applied and unapplied
+
+SPATIAL LOGIC:
+- FOREGROUND: ECU lip-surface — the color-transformation-boundary as hero detail (left side: glossy berry-rose shimmer; right side: natural-pink bare). The product-performing-on-skin.
+- MIDGROUND: Applicator sponge in contact with lip, hands holding.
+- BACKGROUND: Rest of face very soft (above nose only barely implied), bathroom dissolved completely at this macro scale.
+
+FRAMING: ECU continuing from Frame 3 — extreme macro on lips showing product-on-skin color-transformation-in-progress. The glossy wet-surface of applied lip oil catching and reflecting bathroom-light. Same macro scale, same lip-level camera position. The "contact" frame vs. the "anticipation" frame.
+
+LIGHTING:
+- Key: Backlit mirror rim-light creating dramatic edge-definition on lip contour (cupid's bow, lower lip curve)
+- Fill: Bathroom ambient soft on lip surface showing color-truth of the berry-rose oil
+- Rim: Mirror-backlight wrapping to create bright edge on chin below lip
+- Practical: Applied berry-rose oil section acting as reflective surface (catching bathroom-light as sharp highlight-points, the product performing AS light-element on skin)
+- Light separation: Applied section 0.5 stops brighter than bare section (due to glossy-surface-reflection), creating visible before/after light-difference
+
+LENS: 100mm macro. APERTURE: f/2.0 — lip surface razor-sharp showing individual shimmer-particles in applied oil, pore-texture on bare-section, the transformation-boundary in full detail. Surrounding face dissolved.
+
+COMPOSITION REFERENCE: Macro beauty-product-performance (the product doing what it promises, visible at extreme close), Wong Kar-wai intimate lip-proximity continued, the transformation-in-progress as visual narrative.
+
+ATMOSPHERE: Intimate application-mid-stroke, the sensory pleasure of product-meeting-skin at macro, warm bathroom privacy, the beauty-film at its most product-focused moment (demonstrating performance). Hyperreal macro clarity. Zero grain.
+
+COLOR GRADE: Berry-rose NOW dominant on applied-section (the color-transformation active in frame), natural-pink on bare-section as contrast-reference, the grade showing the product's color-promise being fulfilled in real-time. Warm skin-priority on surrounding areas, bathroom-cool as neutral stage. Shimmer-particles catching as micro-warm-bright-points.
+
+NEGATIVE: mirrored, flipped, inverted, extra limbs, fused fingers, melted features, asymmetric eyes (unintentional), garbled text, floating shadows, duplicated subjects, low-res patches, plastic skin, oversharpened, AI-generated artifacts, watermarks, signature, deformed hands, malformed teeth, joint cuts at ankle/knee/wrist/elbow/neck, amputated fingertips, cross-eyed, lazy eye, off-axis pupils, melted clothing, shoes-not-touching-ground, mismatched footwear pair, mannequin-stiff posture, dead eyes, statue-frozen energy, color-transformation not visible, application appearing unnatural, oil-dripping.
 
 ### Frame 5 — Complete (Both Lips, Full Glossy)
 
-ASPECT RATIO: 9:16 vertical. SUBJECT: AIRA — [full identity lock]. PRODUCT: Lip oil bottle closed, held loosely in right hand at collarbone height (she is admiring herself, product as secondary-now, lips as primary-hero).
+ASPECT RATIO: 9:16 vertical. SUBJECT: AIRA — Adult woman late 20s-early 30s, South Asian (Indian), warm honey-to-caramel skin tone with golden undertone, 5'6"-5'8", soft-strong hourglass-athletic silhouette, fuller sculpted legs with toned thigh definition, fuller shapely thighs, fuller feminine arms with subtle muscle tone, fuller defined chest in proportion, flat toned midsection, defined waist clear waist-to-hip ratio, curvy hip line with natural feminine flare, heart-shaped to oval face, defined cheekbones, full defined lips with natural cupid's bow, almond-shaped expressive eyes dark brown iris with subtle amber flecks, strong but feminine groomed naturally arched brow, natural sun-kissed glow, long dark brown to near-black hair with subtle warm highlights naturally textured soft waves with body and movement, elegant well-groomed hands. PRODUCT: Lip oil bottle closed, held loosely in right hand at collarbone height (she is admiring herself, product as secondary-now, lips as primary-hero).
 
 MAKEUP STATE COMPLETE: Both lips fully coated with berry-rose lip oil — full glossy high-shine berry-rose color. The transformation from bare-post-shower-pink to berry-rose-editorial-gloss COMPLETE. Light-catching particles in the oil creating visible sparkle-points on lip surface. The PRODUCT-RESULT as hero.
 
@@ -2561,11 +3073,43 @@ HAND POSITIONS: Right hand holding closed bottle loosely at collarbone, left han
 
 FACIAL MICRO-DYNAMICS: Eyes — looking at own reflection in round backlit mirror (the self-admiration-moment), slight narrowing from pleasure-smile, knowing-register fully engaged (she KNOWS this color is perfect). Brows — one slightly raised (the knowing "mhmm" expression). Lips — FULL BERRY-ROSE GLOSSY — slightly parted in confident half-smile (showing the color-on-lip as hero-beauty-moment), product catching light with multiple bright-spots of shimmer, the wet-gleam of fresh-oil-application visible as high-shine. Cheeks — post-shower glow. Jaw — soft, confident, slight forward-thrust (presenting the lip-result in mirror).
 
-FRAMING: Beauty CU — pull back from ECU to show full face in round mirror with berry-rose lips as THE hero feature drawing the eye.
+BODY POSTURE: Standing slightly back from counter now (application complete), right hand holding closed bottle loosely at collarbone (relaxed possession, not working-grip), left hand at own jawline (self-appreciation touch). Spine straight, shoulders open, confident-at-ease.
+
+KINETIC STILLNESS — Six Layers:
+1. Subject micro-action: Left fingertips gliding along jawline in self-appreciation gesture (mid-slide, appreciating the completed result), eyes checking mirror-reflection with knowing narrowing
+2. Fabric/hair state: White towel and damp hair unchanged, hair framing the now-transformed face (the same intimate undone state but the FACE has changed with berry-rose lips commanding attention)
+3. Particulate layer: Minimal bathroom atmosphere (nearly clear now), 2-3 residual steam wisps near mirror backlight catching warm glow, the cleared-air-clarity showing the lip-result in full definition
+4. Contact-point activity: Right hand loosely gripping closed bottle at collarbone (relaxed possession, product-and-person unified), left fingertips on jawline (self-touch-appreciation), berry-rose lips slightly pressed together in knowing-smile (lip-surface-contact creating product-visible interaction)
+5. Background motion: Bathroom fully settled, round backlit mirror stable and clear, water droplets on mirror now mostly evaporated (time has passed through the tutorial), environment at rest
+6. Light in motion: Backlit mirror catching the FULL BERRY-ROSE GLOSSY lip surface — multiple bright reflection-points where the oil creates high-shine catches (the lip as light-performer, multiple sparkle-points from shimmer-particles), the most dynamic light-play now ON the completed lips rather than in the environment
+
+SPATIAL LOGIC:
+- FOREGROUND: Closed bottle in right hand at collarbone as product-in-hand context. Slightly soft.
+- MIDGROUND: Aira's face as beauty-portrait-result, berry-rose lips as THE hero feature commanding center-frame attention. Sharp focus.
+- BACKGROUND: Round backlit mirror providing soft warm glow-frame, bathroom in soft ambient. Warm dissolved bokeh.
+
+FRAMING: Beauty CU — pull back from ECU to show full face in round mirror with berry-rose lips as THE hero feature drawing the eye. Top of head to collarbone. Subject 75% of frame. Camera at eye-level. The result-reveal beauty-portrait.
+
+LIGHTING:
+- Key: Backlit mirror providing broad soft rim-and-fill (wrapping warm light around face)
+- Fill: Bathroom ambient at -1 stop from key, soft and even
+- Rim: Mirror-backlight wrapping on hair-edges and shoulders
+- Practical: Berry-rose glossy lips as visible light-performing element (multiple high-shine-points from the oil catching every available light source)
+- Light separation: Face 1 stop brighter than bathroom background (beauty-portrait priority), lips with multiple bright sparkle-points reading even brighter at those catch-points
+
+LENS: 85mm portrait. APERTURE: f/2.0 — face razor-sharp with berry-rose lips in full detail (shimmer-points visible), bottle at collarbone slightly soft, background bathroom dissolved to warm glow-bokeh. Warm bokeh from mirror-backlight.
+
+COMPOSITION REFERENCE: Beauty-portrait result-reveal (the payoff frame), Bradford Young skin-luminosity-priority, the product-result-as-hero composition with subject as both canvas and presenter.
+
+ATMOSPHERE: Post-application satisfaction, intimate bathroom, the knowing-confidence of having just transformed a feature with one perfect product, warm and settled, editorial-beauty-film at its most self-assured moment. Minimal grain.
+
+COLOR GRADE: Berry-rose NOW as the dominant warm-chromatic-element in the frame (the lips commanding all color-attention), cool bathroom environment retreating further, warm skin-priority on face surrounding the lips, glossy-highlight-points on lip surface reading as the brightest warm-points in frame. The product's color has become THE color of the image.
+
+NEGATIVE: mirrored, flipped, inverted, extra limbs, fused fingers, melted features, asymmetric eyes (unintentional), garbled text, floating shadows, duplicated subjects, low-res patches, plastic skin, oversharpened, AI-generated artifacts, watermarks, signature, deformed hands, malformed teeth, joint cuts at ankle/knee/wrist/elbow/neck, amputated fingertips, cross-eyed, lazy eye, off-axis pupils, melted clothing, shoes-not-touching-ground, mismatched footwear pair, mannequin-stiff posture, dead eyes, statue-frozen energy, berry-rose color inconsistent, lip-application appearing unnatural, product-result not reading as hero.
 
 ### Frame 6 — Editorial Hold (Final Image)
 
-ASPECT RATIO: 9:16 vertical. SUBJECT: AIRA — [full identity lock]. PRODUCT: Lip oil bottle on marble counter in lower foreground, rose-tinted glass with berry-rose liquid visible, elegant slim silhouette, catching reflected light from wet surfaces. At rest, beautiful-as-object. Brand-mark gold-engraving visible.
+ASPECT RATIO: 9:16 vertical. SUBJECT: AIRA — Adult woman late 20s-early 30s, South Asian (Indian), warm honey-to-caramel skin tone with golden undertone, 5'6"-5'8", soft-strong hourglass-athletic silhouette, fuller sculpted legs with toned thigh definition, fuller shapely thighs, fuller feminine arms with subtle muscle tone, fuller defined chest in proportion, flat toned midsection, defined waist clear waist-to-hip ratio, curvy hip line with natural feminine flare, heart-shaped to oval face, defined cheekbones, full defined lips with natural cupid's bow, almond-shaped expressive eyes dark brown iris with subtle amber flecks, strong but feminine groomed naturally arched brow, natural sun-kissed glow, long dark brown to near-black hair with subtle warm highlights naturally textured soft waves with body and movement, elegant well-groomed hands. PRODUCT: Lip oil bottle on marble counter in lower foreground, rose-tinted glass with berry-rose liquid visible, elegant slim silhouette, catching reflected light from wet surfaces. At rest, beautiful-as-object. Brand-mark gold-engraving visible.
 
 FULL FINAL STATE: White towel, damp hair, bare-glow skin with BERRY-ROSE GLOSSY LIPS as the single transformative element. The editorial-beauty-film final image: minimal context (post-shower), maximal impact (one product, complete transformation of focal-feature).
 
@@ -2573,7 +3117,39 @@ HAND POSITIONS: One hand at own lip — index finger barely touching lower lip e
 
 FACIAL MICRO-DYNAMICS: Eyes — direct camera gaze (final-address). The knowing-look fully formed. Dark amber-flecked eyes with berry-rose lips creating the color-harmony of the final image. Slight knowing smile (lip color creating visible warmth-shift in the entire expression). The "I know" face.
 
-FRAMING: MCU beauty portrait final — product in foreground on counter (connection to result maintained), Aira's face with berry-rose lips in midground (the result), steamy bathroom in background (the context). The complete editorial-film final-frame.
+BODY POSTURE: Standing at counter, one hand (left) at own lip with index finger barely touching lower lip edge (post-application check-gesture), right hand at side relaxed. Head straight with 3-degree tilt, direct camera-address final stance. Confident, settled, complete.
+
+KINETIC STILLNESS — Six Layers:
+1. Subject micro-action: Left index fingertip barely touching lower lip edge (the check-gesture, confirming texture and color, the gentlest possible contact), the knowing-gaze forming in eyes simultaneously
+2. Fabric/hair state: White towel and damp hair at their most settled state (no longer fresh-shower-wet, approaching naturally-dried), hair pieces framing face at both sides naturally, towel secure
+3. Particulate layer: Bathroom nearly clear (last wisps of moisture-haze at mirror backlight edges only), 2-3 final steam particles, the clarity showing the RESULT in maximum definition
+4. Contact-point activity: Left fingertip barely touching lower lip (feeling the berry-rose oil texture, the smoothness, the product-presence confirmed through touch), product bottle resting on marble counter in foreground (glass-on-marble stable contact, rose-tinted glass catching reflected light from wet surfaces)
+5. Background motion: Bathroom fully at rest, mirror clear, the environment in complete service-stillness for the final beauty-portrait, steam essentially gone
+6. Light in motion: Berry-rose lips and rose-glass bottle as dual light-performing elements — lips catching bathroom-light as multiple glossy-shimmer-points, bottle catching reflected-wet-surface-light through rose-tinted glass. The two berry-rose-colored elements (lips and bottle) creating a color-harmony THROUGH their shared light-play
+
+SPATIAL LOGIC:
+- FOREGROUND: Lip oil bottle on marble counter, rose-tinted glass with berry-rose liquid visible, elegant slim silhouette, catching reflected light. Brand-mark gold-engraving visible. Lower 20%.
+- MIDGROUND: Aira's face with berry-rose lips as primary beauty-portrait-result, finger at lip in check-gesture. Sharp focus.
+- BACKGROUND: Wet-light bathroom — round backlit mirror as warm glow source, marble and tile surfaces with residual wet-light-reflections, intimate post-shower space. Soft atmospheric.
+
+FRAMING: MCU beauty portrait final — product in foreground on counter (connection to result maintained), Aira's face with berry-rose lips in midground (the result), steamy bathroom in background (the context). The complete editorial-film final-frame. Subject 65% of frame. Camera at eye-level. Direct address.
+
+LIGHTING:
+- Key: Backlit mirror providing broad soft rear-illumination continuing (the consistent light-source of this concept)
+- Fill: Bathroom ambient from reflective surfaces at -1 stop
+- Rim: Mirror-backlight on hair and shoulders
+- Practical: Rose-glass bottle on counter and berry-rose lips both acting as visible warm-chromatic light-elements (product-and-result unified through shared color-light)
+- Light separation: Face and product both in key-zone, 1 stop above background (dual-hero final frame with equal priority)
+
+LENS: 85mm portrait. APERTURE: f/2.2 — face and product on counter both readable (slightly extended DOF for the connection), background dissolved to warm bathroom-glow bokeh. Warm-tinted bokeh.
+
+COMPOSITION REFERENCE: Editorial beauty-film final-frame (fashion-film convention), the product-at-rest and result-on-face as unified closing image, Bradford Young ambient-soft skin-worship, Wong Kar-wai intimate knowing-gaze.
+
+ATMOSPHERE: Editorial-complete, intimate post-shower bathroom as personal beauty-studio, the knowing-confidence of the final look, warm and wet and private and powerful, the single-product-transformation as minimal-maximal beauty statement. Zero grain (polished final).
+
+COLOR GRADE: Berry-rose as dual anchor (on lips AND in bottle — the color-thread connecting product to result), cool bathroom tiles as neutral stage, warm skin-priority, wet-surface highlights controlled and elegant, slight steam-diffusion at edges creating soft-focus-vignette quality. The final grade: minimal-maximal (very little color, but what IS there is THE statement). Bradford Young reference.
+
+NEGATIVE: mirrored, flipped, inverted, extra limbs, fused fingers, melted features, asymmetric eyes (unintentional), garbled text, floating shadows, duplicated subjects, low-res patches, plastic skin, oversharpened, AI-generated artifacts, watermarks, signature, deformed hands, malformed teeth, joint cuts at ankle/knee/wrist/elbow/neck, amputated fingertips, cross-eyed, lazy eye, off-axis pupils, melted clothing, shoes-not-touching-ground, mismatched footwear pair, mannequin-stiff posture, dead eyes, statue-frozen energy, berry-rose color inconsistent between lips and bottle, product not visible in final frame, editorial-mood broken.
 
 ## VIDEO PROMPTS
 
@@ -2581,31 +3157,31 @@ FRAMING: MCU beauty portrait final — product in foreground on counter (connect
 
 SHOT TYPE: MCU split product-hero-and-face. CAMERA MOVEMENT: Parallax lateral slide right-to-left (5cm over 5 seconds, revealing depth between materializing-product-on-counter and Aira behind it, creating dimensional-depth-reveal). LENS: 85mm. SUBJECT ACTION: At 0.0s single rose-drop appears floating above counter. At 0.5-3.0s additional liquid-streams materialize and converge toward it from multiple directions (the gathering, the forming). At 3.0-4.5s bottle-shape solidifying from bottom-up (liquid becoming glass in visible crystallization). At 4.5-5.0s final droplet arrives and bottle is COMPLETE, standing solid on marble. Throughout: Aira watches with fascinated-still expression behind the counter. LIGHTING: Backlit mirror soft from behind, wet-surface caustics playing on ceiling, steam catching light, rose-liquid creating moving pink-caustics during formation. ENVIRONMENT + ATMOSPHERE: Wet-light bathroom, steam, marble counter, round backlit mirror, humidity-haze, post-shower intimacy. AUDIO: No music. Ambient-only: bathroom acoustics (slight echo-quality on all sounds), water-dripping intermittent (2 drips during frame), steam-hiss very soft, the liquid-converging creating a subtle chime-like tone as streams approach (synesthetic sound-design — liquid-in-motion creates gentle tonal quality, rising in pitch as more gathers), final bottle-solidification with quiet glass-crystallization sound (a soft ping). Duration: 5 seconds. Frame rate: 24fps. Motion blur: liquid-streams with slight motion-trail, subject-static. Temporal: 0.0-0.5s first drop appears, 0.5-3.0s gathering streams, 3.0-4.5s solidification, 4.5-5.0s complete.
 
-NEGATIVE: [standard video negative], materialization chaotic or violent (must be elegant and gentle), streams arriving too fast or too many simultaneously, bottle-shape incorrect upon completion, sound-design harsh.
+NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame skip, mirrored composition, text overlay, watermark, AI artifact, ghosting, double exposure unless intended, lip-sync drift, audio desync, wardrobe drift between shots, unmotivated camera shake, physics violation (water/fire/hair/fabric), mannequin posture, frozen background, identity flicker, materialization chaotic or violent (must be elegant and gentle), streams arriving too fast or too many simultaneously, bottle-shape incorrect upon completion, sound-design harsh.
 
 ### Frame 2 — Video (Product Admiration)
 
 SHOT TYPE: MCU closer (product and face). CAMERA MOVEMENT: Slow push-in toward product (2cm over 5 seconds, approaching the completed bottle on counter). LENS: 85mm. SUBJECT ACTION: At 0.0-2.0s Aira's hands reach forward and pick up the completed bottle (first physical contact). At 2.0-3.5s she holds it at face-height, turning it slowly to see the rose-glass catch light from different angles. At 3.5-5.0s she twists the cap (opening sound), pulls out doe-foot applicator — berry-rose oil glistening on the applicator-tip visible. Her eyes track from bottle to applicator to her own lips in mirror (the intention forming). LIGHTING: Bathroom backlit-mirror, product glass catching light from all angles as she turns it, berry-rose oil on applicator catching as a tiny wet-bright-point. AUDIO: Ambient: bathroom echo, water-drip continuing, bottle-pickup with wet-counter-suction-release at 0.5s, bottle-turn with slight glass-on-fingertip micro-sounds, cap-twist at 3.5s (mechanical precision sound), doe-foot-withdrawal creating slight wet-suction sound (ASMR). Duration: 5 seconds. Frame rate: 24fps.
 
-NEGATIVE: [standard video negative], product-handling clumsy, cap-opening mechanics wrong, applicator-dripping excessively.
+NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame skip, mirrored composition, text overlay, watermark, AI artifact, ghosting, double exposure unless intended, lip-sync drift, audio desync, wardrobe drift between shots, unmotivated camera shake, physics violation (water/fire/hair/fabric), mannequin posture, frozen background, identity flicker, product-handling clumsy, cap-opening mechanics wrong, applicator-dripping excessively.
 
 ### Frame 3 — Video (Application + "Ruk")
 
 SHOT TYPE: ECU macro on lips. CAMERA MOVEMENT: Static locked (absolute stillness for the intimate application moment). LENS: 100mm macro. SUBJECT ACTION: At 0.0-1.5s applicator approaches lower lip (slow deliberate approach). At 1.5s the whispered "...ruk" (the pause-before-contact). At 2.0s contact (applicator touches lower lip). At 2.0-4.0s slow left-to-right application stroke across lower lip (visible color-deposit in real-time, natural pink transforming to berry-rose glossy). At 4.0-5.0s pulls applicator away, lower lip with complete berry-rose-shimmer-oil, slight lip-press together (distribution-gesture). LIGHTING: Backlit-mirror behind creating rim-light on lip-edges (defining shape), caustic-water-reflections creating moving light-patterns on chin and under-lip area. AUDIO: Near-silence (ASMR-intimate): VO [AIRA, single whispered word]: "...ruk" at 1.5s — whispered in Hindi, meaning "wait/stop/hold," delivered with the intimate authority of someone commanding themselves and the viewer to PAUSE and observe the moment. After: applicator-on-lip wet-slide sound (2.0-4.0s, soft and satisfying), lip-press together micro-sound at 4.5s, breath-exhale at 5.0s. Duration: 5 seconds. Frame rate: 24fps. Lip-sync: "ruk" with minimal movement (whispered, lips barely forming "r" before the applicator-arrival makes lip-movement impossible).
 
-NEGATIVE: [standard video negative], application too fast, color-change not visible in real-time, "ruk" delivery harsh rather than whispered.
+NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame skip, mirrored composition, text overlay, watermark, AI artifact, ghosting, double exposure unless intended, lip-sync drift, audio desync, wardrobe drift between shots, unmotivated camera shake, physics violation (water/fire/hair/fabric), mannequin posture, frozen background, identity flicker, application too fast, color-change not visible in real-time, "ruk" delivery harsh rather than whispered.
 
 ### Frame 4 — Video (Upper Lip Completion)
 
 SHOT TYPE: ECU continuing. CAMERA MOVEMENT: Slight pull-back (from extreme-macro to CU over 5 seconds, widening to include nose and chin showing the color-IN-CONTEXT of face). LENS: 85mm. SUBJECT ACTION: At 0.0-2.5s upper lip application (doe-foot gliding along upper lip contour, following cupid's bow, precise). At 2.5-3.5s applicator removed, both lips now fully berry-rose-glossy. At 3.5-4.0s lips press together once (blending top-and-bottom for even distribution). At 4.0-5.0s lips part slightly revealing the full color-result as camera pulls back showing the berry-rose-glow against bare-skin-face (the one-product-transformation-visible). LIGHTING: Bathroom light on now-glossy-lip-surface creating multiple highlight-points (the wet-gleam of lip oil). AUDIO: Ambient: applicator-on-lip sounds continuing (soft, ASMR), lip-press-together sound (soft pop at 3.5s), breath-exhale at 4.5s. Duration: 5 seconds. Frame rate: 24fps.
 
-NEGATIVE: [standard video negative], lips-together-press unnatural, color inconsistent between lips.
+NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame skip, mirrored composition, text overlay, watermark, AI artifact, ghosting, double exposure unless intended, lip-sync drift, audio desync, wardrobe drift between shots, unmotivated camera shake, physics violation (water/fire/hair/fabric), mannequin posture, frozen background, identity flicker, lips-together-press unnatural, color inconsistent between lips.
 
 ### Frame 5 — Video (Mirror Admiration)
 
 SHOT TYPE: MCU over-shoulder into round backlit mirror (seeing her reflection with completed berry-rose lips). CAMERA MOVEMENT: Static with micro-drift (the intimate post-application-mirror-check). LENS: 85mm. SUBJECT ACTION: At 0.0-2.0s she looks at herself in round mirror — the knowing-check (does it look as good as it feels). At 2.0s the slow smile arriving (it does). At 2.5-3.5s slight head-tilt left then right in mirror (checking from angles, seeing how light catches the gloss differently). At 3.5-5.0s direct confident mirror-gaze with full knowing-smile. Product bottle visible held loosely in one hand near collarbone. LIGHTING: Backlit-mirror creating soft glow around her reflection, berry-rose lips catching mirror-light as brightest-feature-in-reflection. AUDIO: Ambient: bathroom settling (steam reducing, drips slowing), slight pleased exhale-through-nose at 2.0s (the satisfaction sound), mirror-light-hum barely audible, steam-condense-drip on glass. Duration: 5 seconds. Frame rate: 24fps.
 
-NEGATIVE: [standard video negative], mirror-angle inconsistent, knowing-smile not arriving naturally, product not visible.
+NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame skip, mirrored composition, text overlay, watermark, AI artifact, ghosting, double exposure unless intended, lip-sync drift, audio desync, wardrobe drift between shots, unmotivated camera shake, physics violation (water/fire/hair/fabric), mannequin posture, frozen background, identity flicker, mirror-angle inconsistent, knowing-smile not arriving naturally, product not visible.
 
 ### Frame 6 — Video (Editorial Final)
 

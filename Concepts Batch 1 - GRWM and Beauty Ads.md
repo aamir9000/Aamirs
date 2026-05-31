@@ -1457,6 +1457,8 @@ LENS: 50mm. f/2.2.
 
 ATMOSPHERE: Tender afternoon, the ritual of becoming, golden and intimate. Portra 400.
 
+COMPOSITION REFERENCE: Bradford Young intimate skin-priority approach, golden ratio placement with subject at natural focal intersection.
+
 COLOR GRADE: Golden-warm, luminous skin base now adding glow-surface to color story, honey-amber.
 
 NEGATIVE: mirrored, flipped, inverted, extra limbs, fused fingers, melted features, asymmetric eyes (unintentional), garbled text, floating shadows, duplicated subjects, low-res patches, plastic skin, oversharpened, AI-generated artifacts, watermarks, signature, deformed hands, malformed teeth, joint cuts at ankle/knee/wrist/elbow/neck, amputated fingertips, cross-eyed, lazy eye, off-axis pupils, melted clothing, shoes-not-touching-ground, mismatched footwear pair, mannequin-stiff posture, dead eyes, statue-frozen energy.
@@ -1545,6 +1547,8 @@ LENS: 35mm. f/2.8. Full body sharp, background soft golden.
 
 ATMOSPHERE: Tender power achieved, golden light celebration, the private triumph before the public one. Kodak 5207 peak warmth.
 
+COMPOSITION REFERENCE: Bradford Young intimate skin-priority approach, golden ratio placement with subject at natural focal intersection.
+
 COLOR GRADE: Black + gold + luminous skin, the maximum contrast of dark silk against golden skin and light, glossy lip catching every ray, concentrated amber-gold, rich and editorial.
 
 NEGATIVE: mirrored, flipped, inverted, extra limbs, fused fingers, melted features, asymmetric eyes (unintentional), garbled text, floating shadows, duplicated subjects, low-res patches, plastic skin, oversharpened, AI-generated artifacts, watermarks, signature, deformed hands, malformed teeth, joint cuts at ankle/knee/wrist/elbow/neck, amputated fingertips, cross-eyed, lazy eye, off-axis pupils, melted clothing, shoes-not-touching-ground, mismatched footwear pair, mannequin-stiff posture, dead eyes, statue-frozen energy.
@@ -1572,6 +1576,8 @@ FRAMING: Full Shot — head to below feet with floor. 50% subject. Slightly belo
 LENS: 35mm. f/2.8.
 
 ATMOSPHERE: The complete tender-power moment, ready to step into the professional world that awaits, the golden light as her private blessing before the camera crew's lights replace it. Final and certain. Kodak 5207.
+
+COMPOSITION REFERENCE: Bradford Young intimate skin-priority approach, golden ratio placement with subject at natural focal intersection.
 
 COLOR GRADE: Black silk absorbing against golden ambient, skin luminous between, glossy lip as focal point of reflected light, concentrated warm amber, shadows deep and rich. The golden-hour-ending grade of significance.
 
@@ -1702,7 +1708,11 @@ FRAMING: Product-priority composition — bottle at center-frame with Aira above
 
 LENS: 85mm. f/2.0. Product razor-sharp, Aira slightly soft (hero priority clear).
 
-COLOR GRADE: Peak amber-golden, product formula glowing from transmitted light, warm luxurious.
+COMPOSITION REFERENCE: Orbital product-hero (luxury beauty convention), Kubrick centrality of the floating object, Deakins single-source controlled drama.
+
+ATMOSPHERE: Sacred luxury at peak, the product hovering at full independence, golden warmth concentrated and reverent, the weight of beauty as impossible-made-real, controlled warmth. Kodak Portra 400.
+
+COLOR GRADE: Peak amber-golden, product formula glowing from transmitted light, warm luxurious. Portra 400 grain.
 
 NEGATIVE: mirrored, flipped, inverted, extra limbs, fused fingers, melted features, asymmetric eyes (unintentional), garbled text, floating shadows, duplicated subjects, low-res patches, plastic skin, oversharpened, AI-generated artifacts, watermarks, signature, deformed hands, malformed teeth, joint cuts at ankle/knee/wrist/elbow/neck, amputated fingertips, cross-eyed, lazy eye, off-axis pupils, melted clothing, shoes-not-touching-ground, mismatched footwear pair, mannequin-stiff posture, dead eyes, statue-frozen energy.
 
@@ -1725,6 +1735,10 @@ LIGHTING: Key: Golden shaft on drop creating maximum refraction/glow (the drop i
 FRAMING: ECU composition priority on drop zone — collarbone to chin, hands holding bottle and pipette. Product-application as hero moment. 85% within this zone.
 
 LENS: Macro-capable 100mm equivalent. f/2.0. Drop razor-sharp, hands sharp, face above soft.
+
+COMPOSITION REFERENCE: ECU precision drop-moment (medical-meets-luxury macro), Bradford Young intimate-light concentration on the smallest detail, Deakins backlit-hero.
+
+ATMOSPHERE: The suspended anticipation of product-meeting-skin, golden warmth concentrated on the smallest hero-detail (the drop), intimate luxury ritual, Kodak Portra 400 grain at macro.
 
 COLOR GRADE: Amber-golden peak — the drop carrying the entire color story in its tiny form, golden skin as receiving surface, warm caustic glow from drop.
 
@@ -1843,6 +1857,10 @@ FRAMING: MS — head to hip. Subject 55%. Eye level. 3/4 body with bottle at rig
 
 LENS: 50mm. f/2.0. Both Aira and bottle in acceptable focus, background soft.
 
+COMPOSITION REFERENCE: Bradford Young atmospheric intimacy, progressive push-in (Lubezki immersive), fragrance-as-visible-element cinematic tradition.
+
+ATMOSPHERE: Golden-hour intimate bedroom, fragrance as visible phenomenon, warm haze creating dreamlike intimacy, the contemplative weight of scent made tangible, slight halation on highlights.
+
 COLOR GRADE: Warm amber, smoked-glass tones, golden halation on highlights, lifted shadows warm, overall Kodak Portra warmth with subtle halation bloom.
 
 NEGATIVE: mirrored, flipped, inverted, extra limbs, fused fingers, melted features, asymmetric eyes (unintentional), garbled text, floating shadows, duplicated subjects, low-res patches, plastic skin, oversharpened, AI-generated artifacts, watermarks, signature, deformed hands, malformed teeth, joint cuts at ankle/knee/wrist/elbow/neck, amputated fingertips, cross-eyed, lazy eye, off-axis pupils, melted clothing, shoes-not-touching-ground, mismatched footwear pair, mannequin-stiff posture, dead eyes, statue-frozen energy.
@@ -1866,6 +1884,10 @@ LIGHTING: Key: Golden from right, now filtering through mist (mist modifying the
 FRAMING: MCU — head to chest. Subject 65%. Push-in from Frame 1 (progressive intimacy). Mist filling lower frame. More intimate.
 
 LENS: 50mm. f/2.0.
+
+COMPOSITION REFERENCE: Bradford Young atmospheric intimacy, progressive push-in (Lubezki immersive), fragrance-as-visible-element cinematic tradition.
+
+ATMOSPHERE: Golden-hour intimate bedroom, fragrance as visible phenomenon, warm haze creating dreamlike intimacy, the contemplative weight of scent made tangible, slight halation on highlights.
 
 COLOR GRADE: Amber-warm intensifying, mist adding golden-haze quality, halation bloom on light-through-mist, soft and dreamlike warmth.
 
@@ -1891,6 +1913,10 @@ FRAMING: CU — chin to mid-forearm showing both wrist and approaching face. 75%
 
 LENS: 85mm. f/1.8.
 
+COMPOSITION REFERENCE: Bradford Young atmospheric intimacy, progressive push-in (Lubezki immersive), fragrance-as-visible-element cinematic tradition.
+
+ATMOSPHERE: Golden-hour intimate bedroom, fragrance as visible phenomenon, warm haze creating dreamlike intimacy, the contemplative weight of scent made tangible, slight halation on highlights.
+
 COLOR GRADE: Amber-warm, wrist-application catching maximum light, intimate and luxurious.
 
 NEGATIVE: mirrored, flipped, inverted, extra limbs, fused fingers, melted features, asymmetric eyes (unintentional), garbled text, floating shadows, duplicated subjects, low-res patches, plastic skin, oversharpened, AI-generated artifacts, watermarks, signature, deformed hands, malformed teeth, joint cuts at ankle/knee/wrist/elbow/neck, amputated fingertips, cross-eyed, lazy eye, off-axis pupils, melted clothing, shoes-not-touching-ground, mismatched footwear pair, mannequin-stiff posture, dead eyes, statue-frozen energy.
@@ -1915,6 +1941,10 @@ FRAMING: ECU — forehead to collarbone. 90% subject. Direct frontal. The peak i
 
 LENS: 85mm. f/1.8.
 
+COMPOSITION REFERENCE: Bradford Young atmospheric intimacy, progressive push-in (Lubezki immersive), fragrance-as-visible-element cinematic tradition.
+
+ATMOSPHERE: Golden-hour intimate bedroom, fragrance as visible phenomenon, warm haze creating dreamlike intimacy, the contemplative weight of scent made tangible, slight halation on highlights.
+
 COLOR GRADE: Deep amber warmth, collarbone glow peak, halation on highlights maximum, intimate and close.
 
 NEGATIVE: mirrored, flipped, inverted, extra limbs, fused fingers, melted features, asymmetric eyes (unintentional), garbled text, floating shadows, duplicated subjects, low-res patches, plastic skin, oversharpened, AI-generated artifacts, watermarks, signature, deformed hands, malformed teeth, joint cuts at ankle/knee/wrist/elbow/neck, amputated fingertips, cross-eyed, lazy eye, off-axis pupils, melted clothing, shoes-not-touching-ground, mismatched footwear pair, mannequin-stiff posture, dead eyes, statue-frozen energy.
@@ -1938,6 +1968,10 @@ LIGHTING: Final golden, halation-heavy, skin-priority. The product is now IN the
 FRAMING: Beauty Crop — head to collarbone. 80% subject. The return to wider (from ECU peak) suggesting release and completion.
 
 LENS: 85mm. f/1.8.
+
+COMPOSITION REFERENCE: Bradford Young atmospheric intimacy, progressive push-in (Lubezki immersive), fragrance-as-visible-element cinematic tradition.
+
+ATMOSPHERE: Golden-hour intimate bedroom, fragrance as visible phenomenon, warm haze creating dreamlike intimacy, the contemplative weight of scent made tangible, slight halation on highlights.
 
 COLOR GRADE: Warm amber with maximum halation bloom on highlights, lifted and dreamy, soft golden resolution.
 
@@ -2062,6 +2096,10 @@ FRAMING: CU — chin to forehead showing liner work. 82% subject.
 
 LENS: 85mm. f/1.8.
 
+COMPOSITION REFERENCE: High-contrast editorial beauty (Fincher precision, Kubrick symmetry), product-performance-as-hero framing.
+
+ATMOSPHERE: High-contrast editorial studio, magenta-and-shadow drama, the controlled power of beauty product-as-weapon, confident and sharp energy, clean fashion-film quality.
+
 COLOR GRADE: Magenta + emerging crimson from liner. High contrast editorial.
 
 NEGATIVE: mirrored, flipped, inverted, extra limbs, fused fingers, melted features, asymmetric eyes (unintentional), garbled text, floating shadows, duplicated subjects, low-res patches, plastic skin, oversharpened, AI-generated artifacts, watermarks, signature, deformed hands, malformed teeth, joint cuts at ankle/knee/wrist/elbow/neck, amputated fingertips, cross-eyed, lazy eye, off-axis pupils, melted clothing, shoes-not-touching-ground, mismatched footwear pair, mannequin-stiff posture, dead eyes, statue-frozen energy.
@@ -2086,6 +2124,10 @@ FRAMING: ECU — lips and lipstick only. Macro-adjacent. The hero stroke filling
 
 LENS: 100mm macro. f/2.0.
 
+COMPOSITION REFERENCE: High-contrast editorial beauty (Fincher precision, Kubrick symmetry), product-performance-as-hero framing.
+
+ATMOSPHERE: High-contrast editorial studio, magenta-and-shadow drama, the controlled power of beauty product-as-weapon, confident and sharp energy, clean fashion-film quality.
+
 COLOR GRADE: CRIMSON explosion into palette — the product color taking over the frame. Magenta key making crimson read maximum saturation. The color payoff beginning.
 
 NEGATIVE: mirrored, flipped, inverted, extra limbs, fused fingers, melted features, asymmetric eyes (unintentional), garbled text, floating shadows, duplicated subjects, low-res patches, plastic skin, oversharpened, AI-generated artifacts, watermarks, signature, deformed hands, malformed teeth, joint cuts at ankle/knee/wrist/elbow/neck, amputated fingertips, cross-eyed, lazy eye, off-axis pupils, melted clothing, shoes-not-touching-ground, mismatched footwear pair, mannequin-stiff posture, dead eyes, statue-frozen energy.
@@ -2109,6 +2151,10 @@ LIGHTING: Magenta on full crimson lip — the interplay of the two reds/pinks cr
 FRAMING: CU — forehead to below chin. 85% subject. Frontal. Direct. The complete lip reveal.
 
 LENS: 85mm. f/1.8.
+
+COMPOSITION REFERENCE: High-contrast editorial beauty (Fincher precision, Kubrick symmetry), product-performance-as-hero framing.
+
+ATMOSPHERE: High-contrast editorial studio, magenta-and-shadow drama, the controlled power of beauty product-as-weapon, confident and sharp energy, clean fashion-film quality.
 
 COLOR GRADE: Crimson at full saturation, magenta rim, high contrast peak. The color payoff fully landed.
 
@@ -2136,6 +2182,10 @@ FRAMING: Beauty Crop — head to collarbone. 80% subject. Product beside face. T
 
 LENS: 85mm. f/2.0.
 
+COMPOSITION REFERENCE: High-contrast editorial beauty (Fincher precision, Kubrick symmetry), product-performance-as-hero framing.
+
+ATMOSPHERE: High-contrast editorial studio, magenta-and-shadow drama, the controlled power of beauty product-as-weapon, confident and sharp energy, clean fashion-film quality.
+
 COLOR GRADE: Crimson + rose-gold + magenta in full interplay, high contrast, editorial.
 
 NEGATIVE: mirrored, flipped, inverted, extra limbs, fused fingers, melted features, asymmetric eyes (unintentional), garbled text, floating shadows, duplicated subjects, low-res patches, plastic skin, oversharpened, AI-generated artifacts, watermarks, signature, deformed hands, malformed teeth, joint cuts at ankle/knee/wrist/elbow/neck, amputated fingertips, cross-eyed, lazy eye, off-axis pupils, melted clothing, shoes-not-touching-ground, mismatched footwear pair, mannequin-stiff posture, dead eyes, statue-frozen energy.
@@ -2159,6 +2209,10 @@ LIGHTING: Magenta on parted lips — the key finding the gap between lips and cr
 FRAMING: Choker — chin to forehead. 92% subject. The tightest possible frame for maximum lip impact.
 
 LENS: 85mm. f/1.8.
+
+COMPOSITION REFERENCE: High-contrast editorial beauty (Fincher precision, Kubrick symmetry), product-performance-as-hero framing.
+
+ATMOSPHERE: High-contrast editorial studio, magenta-and-shadow drama, the controlled power of beauty product-as-weapon, confident and sharp energy, clean fashion-film quality.
 
 COLOR GRADE: Crimson lip peak, magenta light in lip-gap, high contrast, crushed blacks around, chrome highlights on hair. The final launch-impact grade.
 
@@ -2289,6 +2343,10 @@ FRAMING: MCU — product in foreground at 40% of frame (hero texture display), A
 
 LENS: 50mm. f/2.0. Product in foreground sharp (formula detail visible), face slightly softer.
 
+COMPOSITION REFERENCE: Lubezki natural-light-worship, sensory-beauty-tutorial elevated to cinematic, ECU skin-macro intimacy.
+
+ATMOSPHERE: Dawn balcony fresh morning, cool-to-warm transition, intimate tutorial energy, natural light worship, the gentle sharing of beauty ritual, minimal grain.
+
 COLOR GRADE: Peach formula introducing warm accent against cool dawn blue, skin warming, natural daylight grade with Portra warmth on skin.
 
 NEGATIVE: mirrored, flipped, inverted, extra limbs, fused fingers, melted features, asymmetric eyes (unintentional), garbled text, floating shadows, duplicated subjects, low-res patches, plastic skin, oversharpened, AI-generated artifacts, watermarks, signature, deformed hands, malformed teeth, joint cuts at ankle/knee/wrist/elbow/neck, amputated fingertips, cross-eyed, lazy eye, off-axis pupils, melted clothing, shoes-not-touching-ground, mismatched footwear pair, mannequin-stiff posture, dead eyes, statue-frozen energy.
@@ -2323,6 +2381,10 @@ FRAMING: Beauty ECU — forehead to chin, hands visible. 85% subject. Tight for 
 
 LENS: 85mm. f/1.8. Face sharp, compact mirror in foreground slightly soft, background dissolved.
 
+COMPOSITION REFERENCE: Lubezki natural-light-worship, sensory-beauty-tutorial elevated to cinematic, ECU skin-macro intimacy.
+
+ATMOSPHERE: Dawn balcony fresh morning, cool-to-warm transition, intimate tutorial energy, natural light worship, the gentle sharing of beauty ritual, minimal grain.
+
 COLOR GRADE: Warming — peach blush now visible on skin harmonizing with warming dawn light (the product and the morning arriving together). Skin-priority warmth. Portra grain.
 
 NEGATIVE: mirrored, flipped, inverted, extra limbs, fused fingers, melted features, asymmetric eyes (unintentional), garbled text, floating shadows, duplicated subjects, low-res patches, plastic skin, oversharpened, AI-generated artifacts, watermarks, signature, deformed hands, malformed teeth, joint cuts at ankle/knee/wrist/elbow/neck, amputated fingertips, cross-eyed, lazy eye, off-axis pupils, melted clothing, shoes-not-touching-ground, mismatched footwear pair, mannequin-stiff posture, dead eyes, statue-frozen energy.
@@ -2346,6 +2408,10 @@ LIGHTING: Direct morning sun from right (now golden-warm 4500K), hitting the blu
 FRAMING: Beauty CU — forehead to collarbone. 80% subject. Direct frontal eye-contact. The instructional-payoff frame.
 
 LENS: 85mm. f/1.8.
+
+COMPOSITION REFERENCE: Lubezki natural-light-worship, sensory-beauty-tutorial elevated to cinematic, ECU skin-macro intimacy.
+
+ATMOSPHERE: Dawn balcony fresh morning, cool-to-warm transition, intimate tutorial energy, natural light worship, the gentle sharing of beauty ritual, minimal grain.
 
 COLOR GRADE: Warm morning arriving — peach blush on skin glowing in natural warm light, the grade warm-shifting as the morning progresses (cool dawn to warm morning), skin radiant. Portra 400 warmth.
 
@@ -2380,6 +2446,10 @@ LIGHTING: Full morning sun direct from right (4500K warm natural), creating the 
 FRAMING: MCU — head to chest with compact visible in foreground. 65% subject. Morning composition. The result-and-product together in natural morning.
 
 LENS: 50mm. f/2.2.
+
+COMPOSITION REFERENCE: Lubezki natural-light-worship, sensory-beauty-tutorial elevated to cinematic, ECU skin-macro intimacy.
+
+ATMOSPHERE: Dawn balcony fresh morning, cool-to-warm transition, intimate tutorial energy, natural light worship, the gentle sharing of beauty ritual, minimal grain.
 
 COLOR GRADE: Full warm morning — peach blush harmonizing completely with warm-natural morning light (product designed to look like this light), skin priority warmth, overall fresh bright warm morning grade. Portra 400 at maximum morning beauty.
 
@@ -2504,6 +2574,10 @@ FRAMING: Product + Reaction — product at center-lower sharp (hero), Aira's rea
 
 LENS: 50mm. f/2.0. Product sharp. Aira slightly softer (soft focus on reaction maintaining hero priority on product).
 
+COMPOSITION REFERENCE: Kubrick gallery-precision meets Bradford Young skin-priority, editorial minimalism, negative-space-as-statement.
+
+ATMOSPHERE: Minimalist gallery-editorial space, cool precise light, the reverence of beauty-as-art, negative space as luxury, quiet controlled elegance, zero grain.
+
 COLOR GRADE: High-key white continuing BUT now with golden-warm accent introduced by product formula (the first real warmth in the cool palette). Chrome + brass + golden-shimmer as the only colors in a near-monochrome world.
 
 NEGATIVE: mirrored, flipped, inverted, extra limbs, fused fingers, melted features, asymmetric eyes (unintentional), garbled text, floating shadows, duplicated subjects, low-res patches, plastic skin, oversharpened, AI-generated artifacts, watermarks, signature, deformed hands, malformed teeth, joint cuts at ankle/knee/wrist/elbow/neck, amputated fingertips, cross-eyed, lazy eye, off-axis pupils, melted clothing, shoes-not-touching-ground, mismatched footwear pair, mannequin-stiff posture, dead eyes, statue-frozen energy.
@@ -2527,6 +2601,10 @@ LIGHTING: RAKING overhead light at 85 degrees from horizontal — maximizing eve
 FRAMING: ECU/Macro — product formula surface filling 60% of frame, Aira's approaching fingertips and soft-focus face above.
 
 LENS: 100mm macro. f/2.8. Formula surface razor-sharp (individual shimmer particles visible). Aira above very soft.
+
+COMPOSITION REFERENCE: Kubrick gallery-precision meets Bradford Young skin-priority, editorial minimalism, negative-space-as-statement.
+
+ATMOSPHERE: Minimalist gallery-editorial space, cool precise light, the reverence of beauty-as-art, negative space as luxury, quiet controlled elegance, zero grain.
 
 COLOR GRADE: Golden-champagne powder warmth as dominant (the warm zone in an otherwise cool/silver world), micro-shimmer creating hundreds of warm-bright point-sources. High-key maintained on edges.
 
@@ -2579,6 +2657,10 @@ LIGHTING: Overhead skylight at maximum benefit for highlighting — catching EVE
 FRAMING: Beauty Crop to MS — head to hip (showing compact in hand too). 60% subject. Slightly below eye level (looking UP at highlighted facial planes from optimal angle).
 
 LENS: 50mm. f/2.2.
+
+COMPOSITION REFERENCE: Kubrick gallery-precision meets Bradford Young skin-priority, editorial minimalism, negative-space-as-statement.
+
+ATMOSPHERE: Minimalist gallery-editorial space, cool precise light, the reverence of beauty-as-art, negative space as luxury, quiet controlled elegance, zero grain.
 
 COLOR GRADE: High-key white + chrome silver + golden-champagne highlights creating the three-tone metallic editorial palette at its peak. Controlled, restrained, precious.
 
