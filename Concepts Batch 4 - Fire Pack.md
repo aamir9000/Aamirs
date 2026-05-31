@@ -80,7 +80,6 @@ Fields per frame: `Frame # | Setting detail | Camera (lens, distance, angle) | L
 
 ### Prompt 1 — THE WEIGHT OF UNSAID WORDS
 
-
 **Setting detail:** Apartment recording nook, early morning. Natural diffused north-light from floor-to-ceiling window, sheer curtains at 60% draw. Background: wall-mounted acoustic panels (warm grey), ring light (OFF/dormant), condenser mic on boom arm, scattered A5 notebook pages with visible handwritten lines — some crossed out aggressively. Cold coffee in ceramic mug, single amber liquid ring stain. Depth: shallow-focus living space receding to soft kitchen blur.
 
 **Camera:** 35mm f/1.8 | 1.2m distance | eye-level | slight left-of-center framing (rule of thirds, subject right-third)
@@ -88,6 +87,7 @@ Fields per frame: `Frame # | Setting detail | Camera (lens, distance, angle) | L
 **Lighting:** Key: north-facing window soft daylight 5600K, wrap-around quality | Fill: ambient room bounce from cream walls ~5200K at 40% intensity | Rim: none (intimate, undramatic) | Shadow density: 25% on camera-left cheekbone | Speculars: minimal, single catchlight in each eye from window
 
 **Aira — Pose/Motion/Expression/Hair/Makeup State:**
+**Body: strictly keep her legs fuller, thighs fuller, arms fuller, fuller chest, perfect flat belly.**
 - Seated cross-legged on floor cushion facing window, spine slightly rounded (pre-confidence posture)
 - Left hand holding phone at mid-chest showing podcast app, right hand resting on knee with fingers slightly curled inward (tension tell)
 - Expression: lips pressed together 1mm compression, eyes reading something on phone — frontalis slightly engaged (mild worry), orbicularis oculi soft (not squinting), jaw muscles micro-clenched
@@ -109,11 +109,12 @@ Fields per frame: `Frame # | Setting detail | Camera (lens, distance, angle) | L
 
 **Audio sync:** Ambient room tone — distant traffic hum, the tiny click of phone screen locking, soft exhale through nose
 
----
 
 ```
-Aira, South Asian woman early-mid 20s, medium-warm brown skin, dark brown-black natural textured hair falling forward framing face, sitting cross-legged on oatmeal linen floor cushion, oversized cream cashmere sweater pooling in lap with stretched neckline showing right collarbone, black leggings, bare feet, small gold hoop earrings, holding phone at mid-chest in left hand showing podcast interface, right hand resting on knee with fingers slightly curled inward, spine gently C-curved forward, head tilted 3 degrees right, expression of pressed lips and held tension — reading phone with frontalis slightly engaged, bare face with visible skin texture and natural undereye warmth, morning apartment recording nook with floor-to-ceiling window diffusing cool north light through sheer curtains at 60% draw, background: wall-mounted warm grey acoustic panels, condenser mic on boom arm (dormant), scattered handwritten notebook pages with crossed-out lines, cold coffee in ceramic mug with amber ring stain, shallow depth of field f/1.8, 35mm lens perspective, eye-level camera 1.2m away, subject positioned right-third of frame, soft even window lighting 5600K wrapping face, 25% shadow density on left cheekbone, single catchlight per eye, creamy highlight rolloff, warm undertone skin preserved, shadows lifted to 7%, subtle film grain ISO 400, cinematic intimate mood, photorealistic, no AI smoothing, natural skin texture maintained
+Aira, South Asian woman early-mid 20s, medium-warm brown skin, Body: strictly keep her legs fuller thighs fuller arms fuller fuller chest perfect flat belly, dark brown-black natural textured hair falling forward framing face, sitting cross-legged on oatmeal linen floor cushion, oversized cream cashmere sweater pooling in lap with stretched neckline showing right collarbone, black leggings, bare feet, small gold hoop earrings, holding phone at mid-chest in left hand showing podcast interface, right hand resting on knee with fingers slightly curled inward, spine gently C-curved forward, head tilted 3 degrees right, expression of pressed lips and held tension — reading phone with frontalis slightly engaged, bare face with visible skin texture and natural undereye warmth, morning apartment recording nook with floor-to-ceiling window diffusing cool north light through sheer curtains at 60% draw, background: wall-mounted warm grey acoustic panels, condenser mic on boom arm (dormant), scattered handwritten notebook pages with crossed-out lines, cold coffee in ceramic mug with amber ring stain, shallow depth of field f/1.8, 35mm lens perspective, eye-level camera 1.2m away, subject positioned right-third of frame, soft even window lighting 5600K wrapping face, 25% shadow density on left cheekbone, single catchlight per eye, creamy highlight rolloff, warm undertone skin preserved, shadows lifted to 7%, subtle film grain ISO 400, cinematic intimate mood, photorealistic, no AI smoothing, natural skin texture maintained
 ```
+
+---
 
 ### Video Prompt 1 — THE WEIGHT OF UNSAID WORDS
 
@@ -125,7 +126,6 @@ Aira, South Asian woman early-mid 20s, medium-warm brown skin, dark brown-black 
 
 ### Prompt 2 — FIRST LAYER — SKIN AS FOUNDATION FOR COURAGE
 
-
 **Setting detail:** Same apartment nook, now shifted to bathroom-adjacent vanity area (compact, realistic — not luxury). Small mirror propped on shelf, natural light from same window now at slightly higher angle (20 minutes have passed). Products lined up intentionally — primer, concealer, setting powder, brow pencil, bronze palette, lip products (3 shades building to oxblood).
 
 **Camera:** 50mm f/2.0 | 0.8m distance | slight high angle (15 degrees down) | centered framing
@@ -133,6 +133,7 @@ Aira, South Asian woman early-mid 20s, medium-warm brown skin, dark brown-black 
 **Lighting:** Key: window daylight now slightly warmer 5400K as morning progresses | Fill: small mirror bounce creating secondary catchlight | Rim: none | Shadow density: 20% under jaw | Speculars: primer giving slight dewy sheen on T-zone
 
 **Aira — Pose/Motion/Expression/Hair/Makeup State:**
+**Body: strictly keep her legs fuller, thighs fuller, arms fuller, fuller chest, perfect flat belly.**
 - Standing at shelf-height mirror, weight on left foot, right foot slightly back (ballet-adjacent stance)
 - Both hands active: left holding primer bottle, right fingertips with product about to touch forehead
 - Expression: deliberate focus — corrugator slightly engaged (concentration not anger), lips parted 3mm (mouth-breathing in focus), eyes tracking own reflection with appraising clarity
@@ -154,11 +155,12 @@ Aira, South Asian woman early-mid 20s, medium-warm brown skin, dark brown-black 
 
 **Audio sync:** Soft squish of primer between fingertips, fabric rustle of pushed sleeves, her breath audible — V.O. begins: "Everyone keeps saying 'just be authentic'..."
 
----
 
 ```
-Aira, South Asian woman early-mid 20s, medium-warm brown skin with fresh dewy primer sheen on T-zone, dark brown-black hair messily pushed back with pieces falling around ears, standing at compact shelf-mounted mirror in apartment, weight on left foot right foot trailing back, left hand holding clear glass primer bottle with pump, right hand fingertips pressing product into forehead — visible skin compression beneath fingers, oversized cream cashmere sweater with sleeves pushed to elbows revealing brown forearms, expression of deliberate concentration — corrugator slightly engaged lips parted 3mm eyes tracking own reflection, neat lineup of makeup products on shelf (concealer, powder, brow pencil, bronze palette, three lip shades), natural window light 5400K warming slightly, mirror bounce creating secondary catchlight under jaw, 50mm f/2.0 lens 0.8m distance slight 15-degree high angle centered framing, 20% shadow density under jawline, dewy specular highlights on forehead and nose bridge, skin texture visible through primer sheen, warm cream and gold tones dominating, film grain maintained, photorealistic intimate GRWM energy, no retouching artifacts
+Aira, South Asian woman early-mid 20s, medium-warm brown skin with fresh dewy primer sheen on T-zone, dark brown-black hair messily pushed back with pieces falling around ears, Body: strictly keep her legs fuller thighs fuller arms fuller fuller chest perfect flat belly, standing at compact shelf-mounted mirror in apartment, weight on left foot right foot trailing back, left hand holding clear glass primer bottle with pump, right hand fingertips pressing product into forehead — visible skin compression beneath fingers, oversized cream cashmere sweater with sleeves pushed to elbows revealing brown forearms, expression of deliberate concentration — corrugator slightly engaged lips parted 3mm eyes tracking own reflection, neat lineup of makeup products on shelf (concealer, powder, brow pencil, bronze palette, three lip shades), natural window light 5400K warming slightly, mirror bounce creating secondary catchlight under jaw, 50mm f/2.0 lens 0.8m distance slight 15-degree high angle centered framing, 20% shadow density under jawline, dewy specular highlights on forehead and nose bridge, skin texture visible through primer sheen, warm cream and gold tones dominating, film grain maintained, photorealistic intimate GRWM energy, no retouching artifacts
 ```
+
+---
 
 ### Video Prompt 2 — FIRST LAYER — SKIN AS FOUNDATION FOR COURAGE
 
@@ -170,7 +172,6 @@ Aira, South Asian woman early-mid 20s, medium-warm brown skin with fresh dewy pr
 
 ### Prompt 3 — BROWS — DRAWING THE FRAME FOR WHAT SHE'S ABOUT TO SAY
 
-
 **Setting detail:** Same vanity area, tighter composition. Mirror fills more of background. Product lineup partially used (primer cap off, concealer open). Single notebook page visible at edge of frame — a reminder of the words waiting.
 
 **Camera:** 85mm f/1.6 | 0.5m distance | straight-on eye level | tight face-and-shoulders crop
@@ -178,6 +179,7 @@ Aira, South Asian woman early-mid 20s, medium-warm brown skin with fresh dewy pr
 **Lighting:** Key: window light 5400K now specifically catching brow bone creating micro-highlight | Fill: mirror bounce 40% | Rim: faint warm edge from room lamp turned on behind her (3200K) | Shadow density: 15% sculpting nose bridge | Speculars: controlled highlight on brow bone and Cupid's bow
 
 **Aira — Pose/Motion/Expression/Hair/Makeup State:**
+**Body: strictly keep her legs fuller, thighs fuller, arms fuller, fuller chest, perfect flat belly.**
 - Close-up: head tilted 5 degrees left, chin raised 2 degrees (accessing brow in mirror)
 - Right hand holding brow pencil, wrist angled precisely, tip touching left brow at arch
 - Expression: the specific focus-face of eyebrow application — one eye slightly more open than other (asymmetric concentration), mouth pulled 1mm right (unconscious habit)
@@ -199,11 +201,12 @@ Aira, South Asian woman early-mid 20s, medium-warm brown skin with fresh dewy pr
 
 **Audio sync:** Near-silence — pencil-on-skin micro scratch sound, her held breath, distant hum of room — V.O. continues: "Today it costs something."
 
----
 
 ```
-Extreme close-up Aira, South Asian woman early-mid 20s, medium-warm brown skin with concealer blended under eyes and nose bridge, tight face-and-shoulders crop, head tilted 5 degrees left chin raised 2 degrees, right hand holding slim dark taupe retractable brow pencil touching left eyebrow at arch — hair-stroke application visible, left brow 70% defined with sharp arch and tail while right brow remains natural and softer creating visible asymmetry of progress, expression of intense focus — left eye slightly more open than right in asymmetric concentration, mouth pulled 1mm to right side as unconscious habit, dark brown-black hair in messy half-back with single strand fallen across right temple, small gold hoop earring hanging vertical catching warm rim light, 85mm f/1.6 lens 0.5m distance straight-on eye level, key light 5400K window catching brow bone highlight, mirror bounce fill 40%, warm 3200K room lamp rim light behind creating halo separation, 15% shadow density sculpting nose bridge, specular highlights on brow bone and Cupid's bow, skin texture visible with pores and natural variation, shallow depth of field blurring background to mirror and product lineup, photorealistic cinematic beauty, intimate GRWM precision moment
+Extreme close-up Aira, South Asian woman early-mid 20s, medium-warm brown skin with concealer blended under eyes and nose bridge, tight face-and-shoulders crop, head tilted 5 degrees left chin raised 2 degrees, right hand holding slim dark taupe retractable brow pencil touching left eyebrow at arch — hair-stroke application visible, left brow 70% defined with sharp arch and tail while right brow remains natural and softer creating visible asymmetry of progress, expression of intense focus — left eye slightly more open than right in asymmetric concentration, mouth pulled 1mm to right side as unconscious habit, dark brown-black hair in messy half-back with single strand fallen across right temple, Body: strictly keep her legs fuller thighs fuller arms fuller fuller chest perfect flat belly, small gold hoop earring hanging vertical catching warm rim light, 85mm f/1.6 lens 0.5m distance straight-on eye level, key light 5400K window catching brow bone highlight, mirror bounce fill 40%, warm 3200K room lamp rim light behind creating halo separation, 15% shadow density sculpting nose bridge, specular highlights on brow bone and Cupid's bow, skin texture visible with pores and natural variation, shallow depth of field blurring background to mirror and product lineup, photorealistic cinematic beauty, intimate GRWM precision moment
 ```
+
+---
 
 ### Video Prompt 3 — BROWS — DRAWING THE FRAME FOR WHAT SHE'S ABOUT TO SAY
 
@@ -216,7 +219,6 @@ Extreme close-up Aira, South Asian woman early-mid 20s, medium-warm brown skin w
 
 ### Prompt 4 — BRONZE LID — WARMTH AS WEAPON
 
-
 **Setting detail:** Same space, slightly reconfigured — she's moved closer to window for better light on eyes. Notebook pages now stacked face-down (she's committed, no more re-reading). Bronze eyeshadow palette open on shelf.
 
 **Camera:** 75mm f/1.8 | 0.6m distance | 10 degrees camera-right (three-quarter face favoring left eye where shadow is being applied) | face-to-collarbone crop
@@ -224,6 +226,7 @@ Extreme close-up Aira, South Asian woman early-mid 20s, medium-warm brown skin w
 **Lighting:** Key: direct window 5500K now on left side of face (she repositioned) | Fill: ambient bounce 35% | Rim: same warm room lamp 3200K now at camera-left creating ear/jaw rim | Shadow density: 30% dramatic on right face | Speculars: bronze shimmer particles catching window light on left eyelid
 
 **Aira — Pose/Motion/Expression/Hair/Makeup State:**
+**Body: strictly keep her legs fuller, thighs fuller, arms fuller, fuller chest, perfect flat belly.**
 - Head tilted back 8 degrees, left eye closed receiving shadow application, right eye open looking down at slight angle (checking placement in mirror below)
 - Right hand holding flat shader brush loaded with warm bronze, pressing onto left lid
 - Expression: the particular face of eye-closed makeup — left side of face softened by closed eye, right eye active and assessing, lips in neutral soft part 2mm
@@ -245,11 +248,12 @@ Extreme close-up Aira, South Asian woman early-mid 20s, medium-warm brown skin w
 
 **Audio sync:** Soft brush-on-skin whisper sound, steady breathing rhythm, ambient warmth — no V.O. this frame (breathing room in the edit)
 
----
 
 ```
-Aira, South Asian woman early-mid 20s, medium-warm brown skin luminous with bronze warmth, head tilted back 8 degrees exposing elongated neck, left eye closed receiving eyeshadow application — warm bronze shimmer visible on lid from lash line to crease, right eye open looking downward assessing in mirror, right hand holding flat shader brush loaded with warm bronze pigment pressing onto left eyelid with visible lid skin compression, lips in neutral soft 2mm part, defined brows both complete, concealer set and smooth, dark brown-black hair in messy half-back secured with tortoiseshell claw clip at crown with loose pieces hanging back from head tilt, small gold hoop earring swinging slightly posterior, cream cashmere sweater neckline showing collarbone, three-quarter face composition favoring left eye, 75mm f/1.8 lens 0.6m distance 10 degrees camera-right, strong directional window light 5500K from left raking across face, bronze shimmer particles catching and scattering light as micro-sparkle points on eyelid, warm room lamp 3200K rim on camera-left ear and jaw, 30% dramatic shadow on right face, amber-gold-bronze color palette dominating, shallow depth of field with open eyeshadow palette blurred on shelf, photorealistic skin texture with specular bronze highlights, cinematic warmth, GRWM mid-routine energy
+Aira, South Asian woman early-mid 20s, medium-warm brown skin luminous with bronze warmth, head tilted back 8 degrees exposing elongated neck, left eye closed receiving eyeshadow application — warm bronze shimmer visible on lid from lash line to crease, right eye open looking downward assessing in mirror, right hand holding flat shader brush loaded with warm bronze pigment pressing onto left eyelid with visible lid skin compression, lips in neutral soft 2mm part, defined brows both complete, concealer set and smooth, dark brown-black hair in messy half-back secured with tortoiseshell claw clip at crown with loose pieces hanging back from head tilt, Body: strictly keep her legs fuller thighs fuller arms fuller fuller chest perfect flat belly, small gold hoop earring swinging slightly posterior, cream cashmere sweater neckline showing collarbone, three-quarter face composition favoring left eye, 75mm f/1.8 lens 0.6m distance 10 degrees camera-right, strong directional window light 5500K from left raking across face, bronze shimmer particles catching and scattering light as micro-sparkle points on eyelid, warm room lamp 3200K rim on camera-left ear and jaw, 30% dramatic shadow on right face, amber-gold-bronze color palette dominating, shallow depth of field with open eyeshadow palette blurred on shelf, photorealistic skin texture with specular bronze highlights, cinematic warmth, GRWM mid-routine energy
 ```
+
+---
 
 ### Video Prompt 4 — BRONZE LID — WARMTH AS WEAPON
 
@@ -261,7 +265,6 @@ Aira, South Asian woman early-mid 20s, medium-warm brown skin luminous with bron
 
 ### Prompt 5 — THE OXBLOOD LIP — FIRST LAYER (commitment)
 
-
 **Setting detail:** Same bathroom-adjacent area. She's now facing mirror directly, pulled in close (intimate confrontation with own reflection). Products used and scattered — caps off, brush laid down, palette showing finger-dip marks. The ritual is deep now.
 
 **Camera:** 65mm f/1.6 | 0.4m distance | straight-on dead center | lips-to-forehead crop (ultra-tight beauty frame)
@@ -269,6 +272,7 @@ Aira, South Asian woman early-mid 20s, medium-warm brown skin luminous with bron
 **Lighting:** Key: window 5500K soft wrap from left | Fill: mirror bounce strong at 50% (close proximity) | Rim: warm lamp 3200K from above-right creating hair shine | Shadow density: 12% (very even from mirror proximity fill) | Speculars: lip product catching light with wet-look reflection
 
 **Aira — Pose/Motion/Expression/Hair/Makeup State:**
+**Body: strictly keep her legs fuller, thighs fuller, arms fuller, fuller chest, perfect flat belly.**
 - Ultra-close: face square to camera/mirror, chin level, slight forward lean of entire body toward mirror (5 degrees)
 - Left hand holding lip brush loaded with deep oxblood cream, tip touching center of lower lip — first stroke of the bold lip
 - Expression: the lip-application face — mouth stretched into slight "O" shape to flatten lower lip surface, eyes cast down to track lip in mirror, nostrils slightly flared from the stretch
@@ -290,11 +294,12 @@ Aira, South Asian woman early-mid 20s, medium-warm brown skin luminous with bron
 
 **Audio sync:** Pin-drop silence except the barely audible wet slide of lip product on skin — then a tiny held-breath release through nose as stroke completes. No V.O. (the visual IS the statement).
 
----
 
 ```
-Ultra-tight beauty close-up Aira, South Asian woman early-mid 20s, lips-to-forehead crop, face square to camera dead center, medium-warm brown skin with visible pores and peach fuzz at extreme proximity, left hand holding fine-tipped lip brush with gold ferrule loaded with deep oxblood cream touching center of lower lip — visible wet product track trailing from center toward left corner, mouth in slight "O" stretch to flatten lower lip surface, eyes cast downward tracking lip in mirror below, nostrils slightly flared from stretch, defined brows both complete, warm bronze eyeshadow set on lids, light mascara on upper lashes, deep oxblood color on lower lip center creating dramatic wine-red focal point against warm brown skin, dark brown-black hair in clipped half-back with intentional framing pieces released around face, slight forward lean toward mirror, expression of precise held-breath concentration, eye moisture glistening slightly from unblinking focus, 65mm f/1.6 lens 0.4m distance straight-on dead center, very even lighting from window wrap and strong mirror bounce fill, 12% shadow density, lip product with wet-look specular reflection, extreme skin texture detail — pores peach fuzz natural variation all visible and beautiful, oxblood lip as dominant color anchor against muted surroundings, shallow DOF rendering ears soft, photorealistic ultra-intimate beauty moment, cinematic GRWM precision
+Ultra-tight beauty close-up Aira, South Asian woman early-mid 20s, lips-to-forehead crop, face square to camera dead center, medium-warm brown skin with visible pores and peach fuzz at extreme proximity, left hand holding fine-tipped lip brush with gold ferrule loaded with deep oxblood cream touching center of lower lip — visible wet product track trailing from center toward left corner, mouth in slight "O" stretch to flatten lower lip surface, eyes cast downward tracking lip in mirror below, nostrils slightly flared from stretch, defined brows both complete, warm bronze eyeshadow set on lids, light mascara on upper lashes, deep oxblood color on lower lip center creating dramatic wine-red focal point against warm brown skin, dark brown-black hair in clipped half-back with intentional framing pieces released around face, Body: strictly keep her legs fuller thighs fuller arms fuller fuller chest perfect flat belly, slight forward lean toward mirror, expression of precise held-breath concentration, eye moisture glistening slightly from unblinking focus, 65mm f/1.6 lens 0.4m distance straight-on dead center, very even lighting from window wrap and strong mirror bounce fill, 12% shadow density, lip product with wet-look specular reflection, extreme skin texture detail — pores peach fuzz natural variation all visible and beautiful, oxblood lip as dominant color anchor against muted surroundings, shallow DOF rendering ears soft, photorealistic ultra-intimate beauty moment, cinematic GRWM precision
 ```
+
+---
 
 ### Video Prompt 5 — THE OXBLOOD LIP — FIRST LAYER (commitment)
 
@@ -306,7 +311,6 @@ Ultra-tight beauty close-up Aira, South Asian woman early-mid 20s, lips-to-foreh
 
 ### Prompt 6 — THE FULL LOOK — SHE SEES WHO'S ABOUT TO SPEAK
 
-
 **Setting detail:** Same mirror but now she's stepped back 0.5m. We see more of her — the full face complete, the sweater, the space. She's looking at her completed reflection with a different energy. Behind her, visible through doorway: the recording setup with its waiting mic. The notebook pages still face-down.
 
 **Camera:** 40mm f/2.2 | 1.0m distance | straight-on with slight 3-degree low angle (power angle) | half-body from waist up including mirror reflection visible
@@ -314,6 +318,7 @@ Ultra-tight beauty close-up Aira, South Asian woman early-mid 20s, lips-to-foreh
 **Lighting:** Key: window 5500K filling from left | Fill: room ambient 45% | Rim: warm lamp 3200K on hair/shoulder from behind-right | Shadow density: 18% adding dimension | Speculars: lip sheen, brow bone highlight, hair shine from rim light
 
 **Aira — Pose/Motion/Expression/Hair/Makeup State:**
+**Body: strictly keep her legs fuller, thighs fuller, arms fuller, fuller chest, perfect flat belly.**
 - Standing back from mirror, squared shoulders, chin 2 degrees up from neutral (found her posture), hands at sides — the assessment pause
 - Left hand has unconsciously formed a loose fist (resolve), right hand relaxed (contrast)
 - Expression: THE SHIFT — eyes meeting own gaze directly (no longer looking at individual features but seeing the WHOLE), very slight left-corner lip raise (not a smile — recognition), corrugator completely relaxed (worry released), orbicularis oculi with micro-engagement (the beginning of self-approval warmth)
@@ -335,11 +340,12 @@ Ultra-tight beauty close-up Aira, South Asian woman early-mid 20s, lips-to-foreh
 
 **Audio sync:** Music shifts — lo-fi piano resolves to single warm chord, sub-bass drops away creating space, silence holds for 1.5 beats, then her V.O. (steady, no longer whispered): "If they unsubscribe..."
 
----
 
 ```
-Aira, South Asian woman early-mid 20s, half-body waist-up composition, standing back from mirror with squared shoulders rolled back 5 degrees chin elevated 2 degrees — full power posture, completed makeup look: defined structured brows, warm bronze eyeshadow, mascara-defined lashes, perfected skin luminous and warm, BOLD deep oxblood matte-velvet lip fully applied (three layers, saturated statement red-wine), dark brown-black hair in "undone authority" style middle-parted with natural wave texture — left side tucked behind ear revealing jawline and gold hoop earring, right side flowing forward with body, expression of self-recognition and resolve — eyes meeting own gaze directly with bright alertness and micro left-corner lip lift (not smile but recognition), corrugator relaxed orbicularis oculi warmly engaged, left hand in loose fist at side (resolve), right hand relaxed (contrast), cream cashmere sweater neckline centered sleeves at elbows, background through doorway: recording setup with condenser mic on boom arm and face-down notebook pages, 40mm f/2.2 lens 1.0m distance slight 3-degree low angle, window light 5500K from left, room ambient fill, warm 3200K rim light on hair and shoulder from behind-right creating golden halo edge, 18% shadow density adding dimension, lip sheen and brow bone highlight speculars, rich warm color palette with oxblood lip as anchor, skin luminous, background slightly cooler for depth separation, photorealistic cinematic GRWM hero frame, bold confident energy
+Aira, South Asian woman early-mid 20s, half-body waist-up composition, standing back from mirror with squared shoulders rolled back 5 degrees chin elevated 2 degrees — full power posture, completed makeup look: defined structured brows, warm bronze eyeshadow, mascara-defined lashes, perfected skin luminous and warm, BOLD deep oxblood matte-velvet lip fully applied (three layers, saturated statement red-wine), dark brown-black hair in "undone authority" style middle-parted with natural wave texture — left side tucked behind ear revealing jawline and gold hoop earring, Body: strictly keep her legs fuller thighs fuller arms fuller fuller chest perfect flat belly, right side flowing forward with body, expression of self-recognition and resolve — eyes meeting own gaze directly with bright alertness and micro left-corner lip lift (not smile but recognition), corrugator relaxed orbicularis oculi warmly engaged, left hand in loose fist at side (resolve), right hand relaxed (contrast), cream cashmere sweater neckline centered sleeves at elbows, background through doorway: recording setup with condenser mic on boom arm and face-down notebook pages, 40mm f/2.2 lens 1.0m distance slight 3-degree low angle, window light 5500K from left, room ambient fill, warm 3200K rim light on hair and shoulder from behind-right creating golden halo edge, 18% shadow density adding dimension, lip sheen and brow bone highlight speculars, rich warm color palette with oxblood lip as anchor, skin luminous, background slightly cooler for depth separation, photorealistic cinematic GRWM hero frame, bold confident energy
 ```
+
+---
 
 ### Video Prompt 6 — THE FULL LOOK — SHE SEES WHO'S ABOUT TO SPEAK
 
@@ -351,7 +357,6 @@ Aira, South Asian woman early-mid 20s, half-body waist-up composition, standing 
 
 ### Prompt 7 — WALKING TO THE MIC — THE LAST PRIVATE MOMENT
 
-
 **Setting detail:** Transitional shot — she's left the mirror, moving through her apartment toward the recording corner. We see her from behind/three-quarter back as she approaches the desk with mic, laptop, and those face-down notes. The ring light is now ON (she just hit it). Morning light mixing with ring light creating dual-temperature space. Last step before she hits record.
 
 **Camera:** 35mm f/2.0 | 2.0m distance | three-quarter back angle (we see her back and right profile) | full body including recording setup ahead of her
@@ -359,6 +364,7 @@ Aira, South Asian woman early-mid 20s, half-body waist-up composition, standing 
 **Lighting:** Key: ring light ON at desk area (5000K circular, visible in frame) | Fill: window daylight from right 5500K | Rim: window backlight wrapping right shoulder and hair edge | Shadow density: 20% from dual competing light sources | Speculars: ring light reflection will be in her eyes when she turns (for NEXT unseen beat)
 
 **Aira — Pose/Motion/Expression/Hair/Makeup State:**
+**Body: strictly keep her legs fuller, thighs fuller, arms fuller, fuller chest, perfect flat belly.**
 - Walking toward recording desk — mid-stride captured, right foot forward in step, left foot pushing off, arms with natural walking swing (right arm forward, left back)
 - Slight right-profile visible showing: completed lip, jaw line, tucked-ear side, earring in motion from walking
 - Expression (right profile): jaw set but lips soft — determination without tension, eye focused forward on the mic
@@ -380,11 +386,12 @@ Aira, South Asian woman early-mid 20s, half-body waist-up composition, standing 
 
 **Audio sync:** Footstep on floor (mule on wood), ring light hum (electric buzz), the sound of her sitting down in chair (implied by trajectory) — V.O. completes: "...they unsubscribe. But I'll know I said it." Music: warm analog synth resolves the piece, single held note fading with warmth.
 
----
 
 ```
-Full body shot from behind/three-quarter back angle — Aira, South Asian woman early-mid 20s, mid-stride walking toward recording desk, right foot forward suspended 1cm above floor (pre-landing), left foot pushing off, natural arm swing right arm forward left back, three-quarter right profile visible showing completed oxblood lip jawline gold hoop earring in forward-swing motion, dark brown-black styled hair in "undone authority" — untucked side flowing backward from walking momentum revealing neck, tucked side holding behind ear, cream oversized cashmere sweater and black cigarette trousers with pointed-toe black mules (first full outfit reveal), purposeful longer-than-natural stride toward recording setup: ring light ON creating 5000K circular glow, condenser mic on boom arm at desk height, laptop open, face-down notebook pages, apartment space as threshold being crossed, window daylight 5500K from right creating warm backlight wrapping right shoulder and golden hair edges, ring light ahead providing neutral front illumination, dual temperature lighting — warm right side cool front, 35mm f/2.0 lens 2.0m distance three-quarter back angle, 20% shadow density from competing sources, hair and sweater fabric responding to forward motion momentum, cinematic "walk to destiny" composition with strong figure-ground separation, photorealistic full-body in-motion GRWM finale
+Body: strictly keep her legs fuller thighs fuller arms fuller fuller chest perfect flat belly. Full body shot from behind/three-quarter back angle — Aira, South Asian woman early-mid 20s, mid-stride walking toward recording desk, right foot forward suspended 1cm above floor (pre-landing), left foot pushing off, natural arm swing right arm forward left back, three-quarter right profile visible showing completed oxblood lip jawline gold hoop earring in forward-swing motion, dark brown-black styled hair in "undone authority" — untucked side flowing backward from walking momentum revealing neck, tucked side holding behind ear, cream oversized cashmere sweater and black cigarette trousers with pointed-toe black mules (first full outfit reveal), purposeful longer-than-natural stride toward recording setup: ring light ON creating 5000K circular glow, condenser mic on boom arm at desk height, laptop open, face-down notebook pages, apartment space as threshold being crossed, window daylight 5500K from right creating warm backlight wrapping right shoulder and golden hair edges, ring light ahead providing neutral front illumination, dual temperature lighting — warm right side cool front, 35mm f/2.0 lens 2.0m distance three-quarter back angle, 20% shadow density from competing sources, hair and sweater fabric responding to forward motion momentum, cinematic "walk to destiny" composition with strong figure-ground separation, photorealistic full-body in-motion GRWM finale
 ```
+
+---
 
 ### Video Prompt 7 — WALKING TO THE MIC — THE LAST PRIVATE MOMENT
 
@@ -413,7 +420,6 @@ Full body shot from behind/three-quarter back angle — Aira, South Asian woman 
 
 ### Prompt 1 — THE NOTIFICATION THAT CHANGES THE MORNING
 
-
 **Setting detail:** Bedroom, mid-morning. Warm golden light through half-drawn linen curtains. Bed with rumpled white sheets and sage-toned throw (half-made). Bedside table with phone face-up showing flight tracker: "LANDED" in green. Overnight bag open on bed showing folded clothes and a small gift wrapped in brown paper. Warm wood floor, minimal decor — single framed photo (backs of two people, obscured) on wall.
 
 **Camera:** 28mm f/2.0 | 1.8m distance | slightly elevated 20 degrees (looking down at her on bed) | wide establishing shot
@@ -421,6 +427,7 @@ Full body shot from behind/three-quarter back angle — Aira, South Asian woman 
 **Lighting:** Key: morning sun through linen curtains — diffused golden 4800K flooding room | Fill: warm wall bounce 50% | Rim: none (soft omnidirectional morning) | Shadow density: 15% soft | Speculars: phone screen glow, subtle light on sheets
 
 **Aira — Pose/Motion/Expression/Hair/Makeup State:**
+**Body: strictly keep her legs fuller, thighs fuller, arms fuller, fuller chest, perfect flat belly.**
 - Half-sitting up in bed, propped on left elbow, right hand reaching for phone that just buzzed — fingers 3cm away from phone, reaching
 - Body wrapped in oversized white sleep tee and shorts, sheets tangled around legs (just woke to notification)
 - Expression: eyes widening 2mm beyond neutral (the dawning "it's today and it's NOW"), lips parting 4mm, left eyebrow lifting fractionally (surprise-joy cocktail) 
@@ -442,11 +449,12 @@ Full body shot from behind/three-quarter back angle — Aira, South Asian woman 
 
 **Audio sync:** Phone buzz tail end (vibration on wood table), sharp gasp-intake of breath, sheets rustling from sudden movement — V.O. begins with an exhaled laugh: "Three years..."
 
----
 
 ```
-Wide establishing shot Aira, South Asian woman early-mid 20s, medium-warm brown skin with natural morning oil sheen on T-zone and slight pillow crease on left cheek, half-sitting up in bed propped on left elbow, right hand reaching toward phone on bedside table — fingers 3cm away with urgency, oversized white sleep tee rumpled, white sheets tangled around legs, dark brown-black hair in sleep-state — pressed flat on left side voluminous messy on right tangled at nape, completely bare face with natural dry mauve lips, eyes widening 2mm in surprise-joy with watery waking brightness, lips parting 4mm, left eyebrow lifting fractionally, bedroom with warm golden morning light flooding through half-drawn linen curtains 4800K, bed half-made with sage-toned throw, bedside table with phone face-up showing green "LANDED" text on flight tracker app, overnight bag open on bed showing folded clothes and brown-paper-wrapped small gift, warm wood floors, framed photo on wall (backs of two people obscured), 28mm f/2.0 lens 1.8m distance elevated 20 degrees looking down, diffused golden omnidirectional morning light, 15% soft shadow density, warm amber-cream-white-sage color palette, phone screen as cool blue-white accent, soft low-contrast grade, photorealistic intimate waking moment, cinematic morning-rush GRWM opening
+Wide establishing shot Aira, South Asian woman early-mid 20s, medium-warm brown skin with natural morning oil sheen on T-zone and slight pillow crease on left cheek, half-sitting up in bed propped on left elbow, right hand reaching toward phone on bedside table — fingers 3cm away with urgency, oversized white sleep tee rumpled, white sheets tangled around legs, dark brown-black hair in sleep-state — pressed flat on left side voluminous messy on right tangled at nape, Body: strictly keep her legs fuller thighs fuller arms fuller fuller chest perfect flat belly, completely bare face with natural dry mauve lips, eyes widening 2mm in surprise-joy with watery waking brightness, lips parting 4mm, left eyebrow lifting fractionally, bedroom with warm golden morning light flooding through half-drawn linen curtains 4800K, bed half-made with sage-toned throw, bedside table with phone face-up showing green "LANDED" text on flight tracker app, overnight bag open on bed showing folded clothes and brown-paper-wrapped small gift, warm wood floors, framed photo on wall (backs of two people obscured), 28mm f/2.0 lens 1.8m distance elevated 20 degrees looking down, diffused golden omnidirectional morning light, 15% soft shadow density, warm amber-cream-white-sage color palette, phone screen as cool blue-white accent, soft low-contrast grade, photorealistic intimate waking moment, cinematic morning-rush GRWM opening
 ```
+
+---
 
 ### Video Prompt 1 — THE NOTIFICATION THAT CHANGES THE MORNING
 
@@ -458,7 +466,6 @@ Wide establishing shot Aira, South Asian woman early-mid 20s, medium-warm brown 
 
 ### Prompt 2 — GLASS SKIN BASE — BUILDING LUMINANCE
 
-
 **Setting detail:** Bathroom now — small but well-lit. Square mirror with round-edge frame. Morning light entering from high frosted window. Products arranged on narrow shelf: moisturizer, illuminating primer, skin tint, cream blush, brow gel, coral lip products. She's changed from sleep clothes to underwear/bra with the sage green trousers already on (GRWM wardrobe progression).
 
 **Camera:** 50mm f/1.8 | 0.7m distance | straight-on centered | face-to-chest crop
@@ -466,6 +473,7 @@ Wide establishing shot Aira, South Asian woman early-mid 20s, medium-warm brown 
 **Lighting:** Key: high frosted bathroom window 5200K overhead-angled | Fill: mirror bounce 45% | Rim: door-gap light from warm bedroom behind 3800K | Shadow density: 18% under cheekbones | Speculars: moisturizer/primer sheen giving glass-skin luminosity on cheekbones, nose bridge, forehead
 
 **Aira — Pose/Motion/Expression/Hair/Makeup State:**
+**Body: strictly keep her legs fuller, thighs fuller, arms fuller, fuller chest, perfect flat belly.**
 - Standing at mirror, both hands on face — patting/pressing illuminating primer into cheekbones with fingertips (the patting technique for maximum glow)
 - Expression: focused but with underlying excitement — very slight smile suppressed (mouth corners fighting 1mm upward), eyes self-assessing with warmth not criticism
 - Hair: wet from face wash at hairline, pulled back with stretchy black headband (practical GRWM stage)
@@ -486,11 +494,12 @@ Wide establishing shot Aira, South Asian woman early-mid 20s, medium-warm brown 
 
 **Audio sync:** Soft rapid patting sounds (fingertips on dewy skin), bathroom acoustics (slight reverb), her humming a single note absently — V.O.: "I've rehearsed this hug probably two hundred times in the shower."
 
----
 
 ```
-Aira, South Asian woman early-mid 20s, face-to-chest crop standing at bathroom mirror, medium-warm brown skin GLOWING with glass-skin luminosity — illuminating primer creating dewy wet-look highlights on cheekbones nose bridge and forehead, both hands raised with fingertip pads pressing into cheekbones (patting-in technique), elbows creating wing geometry, expression of suppressed excitement — mouth corners fighting 1mm upward into contained smile while eyes self-assess with warmth, dark brown-black hair wet at hairline pulled back with black stretchy headband (practical GRWM stage), no color makeup yet just pure luminous glowing base, sage green linen high-waisted wide-leg trousers visible at crop bottom, simple black bra, small bathroom with square mirror, narrow product shelf showing frosted primer bottle moisturizer cream blush brow gel and coral lip products, 50mm f/1.8 lens 0.7m distance straight-on centered, high frosted window 5200K overhead key light, mirror bounce fill 45%, warm 3800K bedroom light through door gap behind creating depth rim, 18% shadow under cheekbones, dramatic specular highlights on glass-skin high points pushing to 95%, clean bright bathroom energy, photorealistic dewy-skin GRWM texture study, luminous joyful anticipation
+Aira, South Asian woman early-mid 20s, face-to-chest crop standing at bathroom mirror, medium-warm brown skin GLOWING with glass-skin luminosity — illuminating primer creating dewy wet-look highlights on cheekbones nose bridge and forehead, both hands raised with fingertip pads pressing into cheekbones (patting-in technique), elbows creating wing geometry, expression of suppressed excitement — mouth corners fighting 1mm upward into contained smile while eyes self-assess with warmth, dark brown-black hair wet at hairline pulled back with black stretchy headband (practical GRWM stage), Body: strictly keep her legs fuller thighs fuller arms fuller fuller chest perfect flat belly, no color makeup yet just pure luminous glowing base, sage green linen high-waisted wide-leg trousers visible at crop bottom, simple black bra, small bathroom with square mirror, narrow product shelf showing frosted primer bottle moisturizer cream blush brow gel and coral lip products, 50mm f/1.8 lens 0.7m distance straight-on centered, high frosted window 5200K overhead key light, mirror bounce fill 45%, warm 3800K bedroom light through door gap behind creating depth rim, 18% shadow under cheekbones, dramatic specular highlights on glass-skin high points pushing to 95%, clean bright bathroom energy, photorealistic dewy-skin GRWM texture study, luminous joyful anticipation
 ```
+
+---
 
 ### Video Prompt 2 — GLASS SKIN BASE — BUILDING LUMINANCE
 
@@ -502,7 +511,6 @@ Aira, South Asian woman early-mid 20s, face-to-chest crop standing at bathroom m
 
 ### Prompt 3 — PEACHY-CORAL FLUSH — WARMTH ACROSS CHEEKS AND NOSE
 
-
 **Setting detail:** Same bathroom, products being used — primer cap off, skin tint blended, now cream blush in hand. Mirror now has tiny post-it note stuck to corner (she wrote herself a reminder: "breathe" in her handwriting). Evidence of time passing: phone propped against wall showing 10:45 AM.
 
 **Camera:** 70mm f/1.6 | 0.5m distance | slight camera-left (favoring right cheek receiving blush) | close face crop
@@ -510,6 +518,7 @@ Aira, South Asian woman early-mid 20s, face-to-chest crop standing at bathroom m
 **Lighting:** Same bathroom setup | Key modification: she's angled slightly toward window so overhead light catches the cream blush application as it goes on, creating translucent coral glow effect | Fill: 40% | Shadow: 15%
 
 **Aira — Pose/Motion/Expression/Hair/Makeup State:**
+**Body: strictly keep her legs fuller, thighs fuller, arms fuller, fuller chest, perfect flat belly.**
 - Close-up: right hand fingertips pressing cream blush onto right cheekbone in upward-outward stroke toward temple
 - Left hand holding compact of cream blush (peachy-coral shade visible in pan)
 - Expression: dreamy-nostalgic — eyes slightly unfocused (lost in memory while hands work on autopilot), very slight real smile (2mm) — she's remembering something specific about the person she's about to see
@@ -531,11 +540,12 @@ Aira, South Asian woman early-mid 20s, face-to-chest crop standing at bathroom m
 
 **Audio sync:** Soft fingertip-on-skin whisper, her breath steady and slow, the tiniest laugh under breath (memory surfacing) — V.O. trails: "I wonder if they still do that thing where they..."  (sentence trails off into private memory)
 
----
 
 ```
-Close face crop Aira, South Asian woman early-mid 20s, right hand fingertips pressing peachy-coral cream blush onto right cheekbone in upward sweep toward temple — visible color deposit and blend in progress, left hand holding open cream blush compact showing peachy-coral shade in pan, medium-warm brown skin with skin tint blended evenly and glass-skin base showing through, right cheek with warm peachy-coral flush from apple to temple while left cheek bare (asymmetric progress), expression dreamy-nostalgic — eyes slightly unfocused lost in memory with glassy moisture, genuine 2mm smile she cannot suppress, dark hair in black headband beginning to dry showing natural texture at hairline, head tilted 5 degrees right chin 3 degrees up presenting cheekbone to light, slight camera-left angle favoring right cheek, 70mm f/1.6 lens 0.5m distance, overhead bathroom light catching cream blush creating translucent coral glow effect on skin, fill 40%, 15% shadow, tiny post-it "breathe" in handwriting on mirror corner, phone propped showing 10:45 AM, slightly dreamy soft grade (0.5 stop softness in midtones), warm peachy-coral accent against brown skin creating sun-kissed effect, photorealistic cream-blush-on-skin texture and translucency, intimate nostalgic GRWM energy
+Close face crop Aira, South Asian woman early-mid 20s, right hand fingertips pressing peachy-coral cream blush onto right cheekbone in upward sweep toward temple — visible color deposit and blend in progress, left hand holding open cream blush compact showing peachy-coral shade in pan, medium-warm brown skin with skin tint blended evenly and glass-skin base showing through, Body: strictly keep her legs fuller thighs fuller arms fuller fuller chest perfect flat belly, right cheek with warm peachy-coral flush from apple to temple while left cheek bare (asymmetric progress), expression dreamy-nostalgic — eyes slightly unfocused lost in memory with glassy moisture, genuine 2mm smile she cannot suppress, dark hair in black headband beginning to dry showing natural texture at hairline, head tilted 5 degrees right chin 3 degrees up presenting cheekbone to light, slight camera-left angle favoring right cheek, 70mm f/1.6 lens 0.5m distance, overhead bathroom light catching cream blush creating translucent coral glow effect on skin, fill 40%, 15% shadow, tiny post-it "breathe" in handwriting on mirror corner, phone propped showing 10:45 AM, slightly dreamy soft grade (0.5 stop softness in midtones), warm peachy-coral accent against brown skin creating sun-kissed effect, photorealistic cream-blush-on-skin texture and translucency, intimate nostalgic GRWM energy
 ```
+
+---
 
 ### Video Prompt 3 — PEACHY-CORAL FLUSH — WARMTH ACROSS CHEEKS AND NOSE
 
@@ -549,17 +559,20 @@ Close face crop Aira, South Asian woman early-mid 20s, right hand fingertips pre
 
 ### Prompt 4 — FEATHERED BROWS + GOLD INNER CORNER — OPENING THE EYES
 
-
 **Camera:** 85mm f/1.4 | 0.4m | eye-level centered | eye-area crop
 **Lighting:** Key 5200K overhead | Fill mirror 50% | Rim warm 3800K door | Shadow 12%
 
-**Aira state:** Brow gel brushing up through left brow creating feathered texture, gold inner-corner highlight already placed (catching light dramatically). Expression: one eye closed for application, open eye showing the completed gold inner-corner point catching light like a tiny sun. Makeup progression: brows being feathered up with clear-tinted gel, gold shimmer highlight already pressed into inner corners of both eyes.
+**Aira state:**
+**Body: strictly keep her legs fuller, thighs fuller, arms fuller, fuller chest, perfect flat belly.**
+ Brow gel brushing up through left brow creating feathered texture, gold inner-corner highlight already placed (catching light dramatically). Expression: one eye closed for application, open eye showing the completed gold inner-corner point catching light like a tiny sun. Makeup progression: brows being feathered up with clear-tinted gel, gold shimmer highlight already pressed into inner corners of both eyes.
 
 **Kinetic 6 Layers:** 1. Squared face, micro-chin-tilt for brow access | 2. Brow spoolie brushing upward through hairs 3mm strokes | 3. Held breath (eye-area work) | 4. Brow hairs lifting against gravity with gel hold | 5. Growing confidence visible in steady unbothered hand (vs Frame 1's urgency) | 6. Overhead light catching individual brow hairs being brushed into place
 
 ```
-Extreme close-up eye-area crop Aira, South Asian woman early-mid 20s, both eyes and brows filling frame, right eye closed receiving brow gel application — clear-tinted brow gel on spoolie brushing upward through dark brow hairs creating feathered lifted texture, left eye open with bright gold shimmer inner-corner highlight catching overhead light like tiny sun in tear duct area, medium-warm brown skin with luminous base visible at extreme proximity — pores texture peach fuzz all detailed, feathered brows being shaped upward with individual hairs visible in brushed direction, dark brown-black hair in headband visible at frame top edge, peachy-coral blush flush visible on cheekbone edges of frame, 85mm f/1.4 lens 0.4m dead center eye-level, overhead 5200K key catching individual brow hairs and gold highlight point, mirror fill 50%, 12% shadow, extreme shallow DOF with eyelash-sharp focus and brow-edge softening, photorealistic brow-grooming texture detail, gold-highlight as focal sparkle point, GRWM eye-detail precision
+Extreme close-up eye-area crop Aira, South Asian woman early-mid 20s, both eyes and brows filling frame, right eye closed receiving brow gel application — clear-tinted brow gel on spoolie brushing upward through dark brow hairs creating feathered lifted texture, left eye open with bright gold shimmer inner-corner highlight catching overhead light like tiny sun in tear duct area, medium-warm brown skin with luminous base visible at extreme proximity — pores texture peach fuzz all detailed, feathered brows being shaped upward with individual hairs visible in brushed direction, dark brown-black hair in headband visible at frame top edge, Body: strictly keep her legs fuller thighs fuller arms fuller fuller chest perfect flat belly, peachy-coral blush flush visible on cheekbone edges of frame, 85mm f/1.4 lens 0.4m dead center eye-level, overhead 5200K key catching individual brow hairs and gold highlight point, mirror fill 50%, 12% shadow, extreme shallow DOF with eyelash-sharp focus and brow-edge softening, photorealistic brow-grooming texture detail, gold-highlight as focal sparkle point, GRWM eye-detail precision
 ```
+
+---
 
 ### Video Prompt 4 — FEATHERED BROWS + GOLD INNER CORNER — OPENING THE EYES
 
@@ -571,17 +584,20 @@ Extreme close-up eye-area crop Aira, South Asian woman early-mid 20s, both eyes 
 
 ### Prompt 5 — CORAL LIP + GLOSS CENTER — THE COLOR OF JOY
 
-
 **Camera:** 65mm f/1.6 | 0.5m | slight low angle 5 degrees | lower-face crop (nose to chin)
 **Lighting:** Key 5200K | Fill 45% | Rim now from side (she's turned slightly) | Shadow 14%
 
-**Aira state:** Sheer coral lip applied (visible color), now adding gloss to center of lower lip only (the "3D effect" technique). Lips slightly parted 5mm, fingertip with gloss touching center of lower lip creating visible wet point. Expression (lower face): genuine soft smile barely held back — corners of lips wanting to spread wider than the gloss application allows.
+**Aira state:**
+**Body: strictly keep her legs fuller, thighs fuller, arms fuller, fuller chest, perfect flat belly.**
+ Sheer coral lip applied (visible color), now adding gloss to center of lower lip only (the "3D effect" technique). Lips slightly parted 5mm, fingertip with gloss touching center of lower lip creating visible wet point. Expression (lower face): genuine soft smile barely held back — corners of lips wanting to spread wider than the gloss application allows.
 
 **Kinetic 6 Layers:** 1. Chin tilted 5 degrees down toward mirror (lip work), head slightly forward | 2. Right ring finger with gloss touching center of lower lip — 1mm press creating tiny product spread | 3. Soft exhale through barely-parted lips (can feel breath warmth on own finger) | 4. Gloss obeying gravity wanting to pool in natural lip creases | 5. "I look like someone worth three years of missing" — the satisfaction lives in the lips wanting to smile during gloss application | 6. Side rim light catching gloss creating extreme specular wet point
 
 ```
-Lower-face crop nose to chin Aira, South Asian woman early-mid 20s, sheer coral color on both lips with concentrated clear gloss dot being applied to center of lower lip — right ring finger pressing gloss creating visible wet specular highlight point, lips parted 5mm with genuine smile barely suppressed (corners wanting to spread wider), medium-warm brown skin with full luminous base and peachy-coral blush visible on lower cheek edges, visible lip texture through sheer coral color — natural lip lines and fullness enhanced, gold inner-corner highlight catching as tiny point at nose bridge edge of frame, chin tilted 5 degrees down, 65mm f/1.6 lens 0.5m slight 5-degree low angle, overhead key 5200K, side rim light catching gloss creating extreme specular wet shine on lower lip center, 14% shadow, extreme close-up lip detail with product texture and light interaction visible, photorealistic glossy-lip beauty detail, joyful contained energy
+Lower-face crop nose to chin Aira, South Asian woman early-mid 20s, sheer coral color on both lips with concentrated clear gloss dot being applied to center of lower lip — right ring finger pressing gloss creating visible wet specular highlight point, lips parted 5mm with genuine smile barely suppressed (corners wanting to spread wider), medium-warm brown skin with full luminous base and peachy-coral blush visible on lower cheek edges, Body: strictly keep her legs fuller thighs fuller arms fuller fuller chest perfect flat belly, visible lip texture through sheer coral color — natural lip lines and fullness enhanced, gold inner-corner highlight catching as tiny point at nose bridge edge of frame, chin tilted 5 degrees down, 65mm f/1.6 lens 0.5m slight 5-degree low angle, overhead key 5200K, side rim light catching gloss creating extreme specular wet shine on lower lip center, 14% shadow, extreme close-up lip detail with product texture and light interaction visible, photorealistic glossy-lip beauty detail, joyful contained energy
 ```
+
+---
 
 ### Video Prompt 5 — CORAL LIP + GLOSS CENTER — THE COLOR OF JOY
 
@@ -593,19 +609,22 @@ Lower-face crop nose to chin Aira, South Asian woman early-mid 20s, sheer coral 
 
 ### Prompt 6 — HAIR DOWN + FULL REVEAL — BECOMING RECOGNIZABLE AGAIN
 
-
 **Camera:** 40mm f/2.0 | 1.2m | straight-on slight low angle 5 degrees | head-to-waist including mirror edge
 **Lighting:** Key: bedroom window now (she's moved back) 4800K golden | Fill: room 40% | Rim: sun streak from curtain gap hitting hair edge | Shadow 16%
 
-**Aira state:** Headband just removed — hands in hair doing the "final shake and arrange." Full "River Flow" hair style emerging: deep side part, smooth curtain on one side, subtle inward curl at ends. Full makeup visible in soft golden bedroom light. She's now in the complete sage green co-ord (cropped button-front top now on). Looking at herself with the recognition of: "this is who meets them at arrivals."
+**Aira state:**
+**Body: strictly keep her legs fuller, thighs fuller, arms fuller, fuller chest, perfect flat belly.**
+ Headband just removed — hands in hair doing the "final shake and arrange." Full "River Flow" hair style emerging: deep side part, smooth curtain on one side, subtle inward curl at ends. Full makeup visible in soft golden bedroom light. She's now in the complete sage green co-ord (cropped button-front top now on). Looking at herself with the recognition of: "this is who meets them at arrivals."
 
 **Expression:** Full genuine smile breaking through (3mm) — the first unguarded joy. Eyes bright with pre-reunion emotion. Right hand in hair arranging, left hand dropping headband onto bed.
 
 **Kinetic 6 Layers:** 1. Squared shoulders, standing tall, hands transitioning from hair-arranging to settling at sides | 2. Final hair strands finding their place with finger-guidance (settling into the side-part curtain) | 3. Deep satisfied exhale (the "done" breath) — shoulders dropping with release | 4. Hair falling into gravity-natural position post-arrangement, gold necklace settling on collarbone | 5. "There you are" self-recognition — the smile that breaks through is for who she's become | 6. Golden bedroom light wrapping her like reunion warmth anticipated, sun streak on hair creating halo moment
 
 ```
-Aira, South Asian woman early-mid 20s, head-to-waist composition standing in golden-lit bedroom, FULL COMPLETED LOOK: medium-warm brown skin luminous with glass-skin base peachy-coral blush across cheeks and nose bridge, feathered brows brushed up, gold inner-corner highlights, sheer coral lips with gloss center, deep side-parted "River Flow" hair — smooth dark brown-black curtain on right side with subtle inward curl at ends, left side tucked creating asymmetry, sage green linen cropped button-front top with high-waisted wide-leg trousers (full co-ord visible), delicate gold chain necklace settling on collarbone, right hand still in hair arranging final strands into place, left hand dropping black headband onto half-made bed, expression of full genuine 3mm smile breaking through unguarded — first real joy showing in eyes bright with pre-reunion emotion, straight-on slight 5-degree low angle 40mm f/2.0 1.2m distance, golden window light 4800K flooding from behind-left, sun streak from curtain gap creating hair-edge halo, room fill 40%, 16% shadow, overnight bag visible on bed with gift inside, warm golden-amber grade with sage green as complement, photorealistic radiant GRWM reveal moment, cinematic self-recognition joy
+Aira, South Asian woman early-mid 20s, head-to-waist composition standing in golden-lit bedroom, FULL COMPLETED LOOK: medium-warm brown skin luminous with glass-skin base peachy-coral blush across cheeks and nose bridge, Body: strictly keep her legs fuller thighs fuller arms fuller fuller chest perfect flat belly, feathered brows brushed up, gold inner-corner highlights, sheer coral lips with gloss center, deep side-parted "River Flow" hair — smooth dark brown-black curtain on right side with subtle inward curl at ends, left side tucked creating asymmetry, sage green linen cropped button-front top with high-waisted wide-leg trousers (full co-ord visible), delicate gold chain necklace settling on collarbone, right hand still in hair arranging final strands into place, left hand dropping black headband onto half-made bed, expression of full genuine 3mm smile breaking through unguarded — first real joy showing in eyes bright with pre-reunion emotion, straight-on slight 5-degree low angle 40mm f/2.0 1.2m distance, golden window light 4800K flooding from behind-left, sun streak from curtain gap creating hair-edge halo, room fill 40%, 16% shadow, overnight bag visible on bed with gift inside, warm golden-amber grade with sage green as complement, photorealistic radiant GRWM reveal moment, cinematic self-recognition joy
 ```
+
+---
 
 ### Video Prompt 6 — HAIR DOWN + FULL REVEAL — BECOMING RECOGNIZABLE AGAIN
 
@@ -617,19 +636,22 @@ Aira, South Asian woman early-mid 20s, head-to-waist composition standing in gol
 
 ### Prompt 7 — GRABBING KEYS AND OUT — THE DOOR THRESHOLD
 
-
 **Camera:** 28mm f/2.2 | 2.5m | following behind/three-quarter as she moves toward apartment door | full body + environment
 **Lighting:** Key: apartment interior warm 4200K | Fill: ambient | Rim: bright white "outside world" light blowing out through opening door gap | Shadow 20%
 
-**Aira state:** In motion toward front door — grabbing phone from counter with one hand, overnight bag on shoulder, keys in other hand already reaching for door handle. White leather sneakers on. Full look visible in motion — sage green linen flowing with stride, hair in "River Flow" swinging with movement. This is the RUSH — she's running late because she spent too long on the GRWM and the person has probably already collected their bags.
+**Aira state:**
+**Body: strictly keep her legs fuller, thighs fuller, arms fuller, fuller chest, perfect flat belly.**
+ In motion toward front door — grabbing phone from counter with one hand, overnight bag on shoulder, keys in other hand already reaching for door handle. White leather sneakers on. Full look visible in motion — sage green linen flowing with stride, hair in "River Flow" swinging with movement. This is the RUSH — she's running late because she spent too long on the GRWM and the person has probably already collected their bags.
 
 **Expression (three-quarter view):** Rushing energy with joy underneath — not stressed but EAGER, eyes focused ahead, slight breathless smile, moving with purpose.
 
 **Kinetic 6 Layers:** 1. Full-stride rushing walk, long steps, torso slightly forward (urgency lean), bag bouncing on shoulder | 2. Keys jangling in right hand with movement — visible mid-swing | 3. Slightly elevated breathing from rushing (moving fast through apartment), chest expanded | 4. Hair swinging backward from forward motion, bag strap pulling one shoulder, linen trouser fabric flowing behind step direction, necklace bouncing with stride | 5. "I'm late but I don't care because in 20 minutes everything changes" — the beautiful late of someone who chose presence over punctuality | 6. Bright door-gap light calling her forward (the outside = the reunion), warm apartment light behind her (the preparation space she's leaving)
 
 ```
-Full-body following shot from behind/three-quarter Aira, South Asian woman early-mid 20s, rushing toward apartment front door mid-stride with urgency lean forward, right hand holding keys reaching toward door handle (keys captured mid-jangle), left hand holding phone just grabbed from counter, overnight bag on right shoulder bouncing with stride, full sage green linen co-ord flowing with movement — wide-leg trousers catching air with stride, cropped button-front top, white leather sneakers in mid-step, dark brown-black "River Flow" hair swinging backward from forward momentum showing deep side part and inward-curled ends in motion, delicate gold necklace bouncing, three-quarter view showing profile with eager breathless smile and forward-focused eyes, apartment interior warm 4200K ambient with lived-in details (counter, coat hooks, shoes by door), bright white light blowing out through opening door gap (outside world calling), 28mm f/2.2 lens 2.5m distance following angle, strong contrast between warm interior and bright exterior door light, 20% shadow density, hair and fabric physics responding to rushing motion, photorealistic full-body-in-motion GRWM finale, cinematic "rushing to reunion" energy with joy and urgency
+Body: strictly keep her legs fuller thighs fuller arms fuller fuller chest perfect flat belly. Full-body following shot from behind/three-quarter Aira, South Asian woman early-mid 20s, rushing toward apartment front door mid-stride with urgency lean forward, right hand holding keys reaching toward door handle (keys captured mid-jangle), left hand holding phone just grabbed from counter, overnight bag on right shoulder bouncing with stride, full sage green linen co-ord flowing with movement — wide-leg trousers catching air with stride, cropped button-front top, white leather sneakers in mid-step, dark brown-black "River Flow" hair swinging backward from forward momentum showing deep side part and inward-curled ends in motion, delicate gold necklace bouncing, three-quarter view showing profile with eager breathless smile and forward-focused eyes, apartment interior warm 4200K ambient with lived-in details (counter, coat hooks, shoes by door), bright white light blowing out through opening door gap (outside world calling), 28mm f/2.2 lens 2.5m distance following angle, strong contrast between warm interior and bright exterior door light, 20% shadow density, hair and fabric physics responding to rushing motion, photorealistic full-body-in-motion GRWM finale, cinematic "rushing to reunion" energy with joy and urgency
 ```
+
+---
 
 ### Video Prompt 7 — GRABBING KEYS AND OUT — THE DOOR THRESHOLD
 
@@ -658,17 +680,20 @@ Full-body following shot from behind/three-quarter Aira, South Asian woman early
 
 ### Prompt 1 — 8:15 AM — PRECISION BEFORE THE BREAK
 
-
 **Camera:** 35mm f/2.0 | 1.5m | eye-level | wide bathroom establishing shot
 **Lighting:** Key: harsh overhead bathroom 5000K (corporate fluorescent quality — intentional) | Fill: mirror 40% | Rim: none | Shadow 22% sharp-edged
 
-**Aira state:** Standing at sink, hands gripping porcelain edge, looking at own reflection dead-on. Still in black silk robe (pre-outfit). Phone propped against mirror showing drafted email: "Re: My resignation..." visible. Products in military-precise line on counter. Expression: jaw set, eyes steady, nostrils micro-flared on breath — the face of someone who slept 3 hours but has never been more awake.
+**Aira state:**
+**Body: strictly keep her legs fuller, thighs fuller, arms fuller, fuller chest, perfect flat belly.**
+ Standing at sink, hands gripping porcelain edge, looking at own reflection dead-on. Still in black silk robe (pre-outfit). Phone propped against mirror showing drafted email: "Re: My resignation..." visible. Products in military-precise line on counter. Expression: jaw set, eyes steady, nostrils micro-flared on breath — the face of someone who slept 3 hours but has never been more awake.
 
 **Kinetic 6 Layers:** 1. Hands gripping sink creating visible knuckle tension and forearm engagement, weight forward onto sink | 2. Right thumb pressing harder than left on porcelain — asymmetric grip revealing dominant-hand stress tell | 3. Controlled exhale — measured nose-breath with deliberate 4-count rhythm (practiced calming technique) | 4. Robe fabric hanging with gravity from straight arms, phone propped against mirror with gravity wanting to slide | 5. The three-hour-sleep night lives in the slight undereye darkness, but the certainty lives in the locked jaw — competing residues | 6. Harsh overhead light creating unflattering shadows under eyes and nose (she sees herself in worst light first — test run)
 
 ```
-Wide bathroom establishing shot Aira, South Asian woman early-mid 20s, medium-warm brown skin with slight undereye darkness from sleepless night, standing at bathroom sink gripping white porcelain edge with both hands — visible knuckle tension and forearm muscle engagement, weight forward onto sink, wearing black silk robe hanging from straight arms with gravity, looking at own reflection dead-on with jaw set eyes steady nostrils micro-flared, bare face with natural skin (pores, natural variation, slight T-zone warmth), dark brown-black hair loose and uncombed falling forward of shoulders, phone propped against mirror showing "Re: My resignation" email draft visible on screen, products in military-precise straight line on counter (foundation, contour palette, setting powder, brow pencil, micro-liner, nude-mauve lip), towels perfectly folded, 35mm f/2.0 1.5m eye-level, harsh overhead 5000K bathroom light (corporate fluorescent quality), sharp-edged 22% shadows under eyes nose and chin, mirror reflection visible, sparse controlled bathroom environment, photorealistic tense morning-of-liberation opening, cinematic steel-composure energy
+Wide bathroom establishing shot Aira, South Asian woman early-mid 20s, medium-warm brown skin with slight undereye darkness from sleepless night, standing at bathroom sink gripping white porcelain edge with both hands — visible knuckle tension and forearm muscle engagement, weight forward onto sink, wearing black silk robe hanging from straight arms with gravity, looking at own reflection dead-on with jaw set eyes steady nostrils micro-flared, bare face with natural skin (pores, natural variation, slight T-zone warmth), dark brown-black hair loose and uncombed falling forward of shoulders, Body: strictly keep her legs fuller thighs fuller arms fuller fuller chest perfect flat belly, phone propped against mirror showing "Re: My resignation" email draft visible on screen, products in military-precise straight line on counter (foundation, contour palette, setting powder, brow pencil, micro-liner, nude-mauve lip), towels perfectly folded, 35mm f/2.0 1.5m eye-level, harsh overhead 5000K bathroom light (corporate fluorescent quality), sharp-edged 22% shadows under eyes nose and chin, mirror reflection visible, sparse controlled bathroom environment, photorealistic tense morning-of-liberation opening, cinematic steel-composure energy
 ```
+
+---
 
 ### Video Prompt 1 — 8:15 AM — PRECISION BEFORE THE BREAK
 
@@ -685,13 +710,17 @@ Wide bathroom establishing shot Aira, South Asian woman early-mid 20s, medium-wa
 **Camera:** 50mm f/1.8 | 0.7m | centered | face-chest
 **Lighting:** Same harsh overhead + mirror fill
 
+**Body: strictly keep her legs fuller, thighs fuller, arms fuller, fuller chest, perfect flat belly.**
+
 Applying matte foundation with flat brush in precise downward strokes — not patting for glow but painting for coverage. Expression: detached professionalism (doing this like filling out a form). Makeup state: full matte coverage building, shine eliminated, skin becoming "corporate perfect." Hair pulled back with claw clip.
 
 **Kinetic 6:** Brush strokes downward (deliberate/controlled, not soft), held breath during stroke/exhale between strokes, foundation shade-matching perfectly (warm-adjusted matte), the ritual feels like putting on a costume for the last time — residue in the slightly-too-firm brush pressure.
 
 ```
-Face-chest crop Aira applying matte foundation with flat brush in precise downward strokes, medium-warm brown skin halfway to full matte coverage — left side complete (perfected corporate matte, pore-minimized) right side still showing natural texture (visual contrast of transformation), right hand holding flat foundation brush mid-downward-stroke on right cheek with firm pressure visible in skin compression, left hand holding foundation bottle at chest height, expression of detached professionalism — eyes focused but emotionally neutral (going through motions), dark hair in tortoiseshell claw clip, black silk robe, 50mm f/1.8 0.7m centered, harsh overhead 5000K, mirror fill, matte skin absorbing light (not reflecting), sharp shadows, resignation email phone screen visible blurred in background, photorealistic matte-foundation application with visible coverage transformation, controlled methodical GRWM energy
+Face-chest crop Aira applying matte foundation with flat brush in precise downward strokes, medium-warm brown skin halfway to full matte coverage — left side complete (perfected corporate matte, Body: strictly keep her legs fuller thighs fuller arms fuller fuller chest perfect flat belly, pore-minimized) right side still showing natural texture (visual contrast of transformation), right hand holding flat foundation brush mid-downward-stroke on right cheek with firm pressure visible in skin compression, left hand holding foundation bottle at chest height, expression of detached professionalism — eyes focused but emotionally neutral (going through motions), dark hair in tortoiseshell claw clip, black silk robe, 50mm f/1.8 0.7m centered, harsh overhead 5000K, mirror fill, matte skin absorbing light (not reflecting), sharp shadows, resignation email phone screen visible blurred in background, photorealistic matte-foundation application with visible coverage transformation, controlled methodical GRWM energy
 ```
+
+---
 
 ### Video Prompt 2 — MATTE BASE — BUILDING THE MASK
 
@@ -703,13 +732,17 @@ Face-chest crop Aira applying matte foundation with flat brush in precise downwa
 
 **Camera:** 70mm f/1.6 | 0.5m | three-quarter favoring contour side | close face
 
+**Body: strictly keep her legs fuller, thighs fuller, arms fuller, fuller chest, perfect flat belly.**
+
 Contour applied with precision angular brush under cheekbone (visible sculpted shadow), brows razor-defined with sharp pencil work — the geometry of power. Expression: one brow raised slightly (self-approval of the sharpness). Makeup state: full matte base, contour sculpted both sides, brows defined with architectural precision.
 
 **Kinetic 6:** Head angled to present contour plane to mirror light, angular brush sweeping in single confident stroke under cheekbone, measured breathing (rhythm of someone who knows this face by heart), contour shade settling into skin creating optical bone-structure enhancement, "this is the last time this face performs for them" — residue in the perfection of the application (one last perfect performance), overhead light specifically catching the contour creating dramatic sculpted shadow.
 
 ```
-Close face three-quarter angle Aira, sharp contour freshly applied — visible sculpted shadow under both cheekbones creating dramatic bone-structure enhancement, angular contour brush in right hand positioned under left cheekbone mid-final-stroke, medium-warm brown matte-perfect skin with razor-defined architectural brows (sharp tails, precise arches), left brow raised slightly in micro self-approval, full matte coverage, strong defined jaw from contour and lighting, dark hair in claw clip with severe center part visible, 70mm f/1.6 0.5m three-quarter, harsh overhead 5000K catching contour creating dramatic sculpted shadows under cheekbones, expression of cold precision with underlying power, micro-liner not yet applied (eyes still bare-lashed), no lip color yet, photorealistic sharp-contour structural detail with geometric brow precision, "building armor" corporate-beauty GRWM energy
+Body: strictly keep her legs fuller thighs fuller arms fuller fuller chest perfect flat belly. Close face three-quarter angle Aira, sharp contour freshly applied — visible sculpted shadow under both cheekbones creating dramatic bone-structure enhancement, angular contour brush in right hand positioned under left cheekbone mid-final-stroke, medium-warm brown matte-perfect skin with razor-defined architectural brows (sharp tails, precise arches), left brow raised slightly in micro self-approval, full matte coverage, strong defined jaw from contour and lighting, dark hair in claw clip with severe center part visible, 70mm f/1.6 0.5m three-quarter, harsh overhead 5000K catching contour creating dramatic sculpted shadows under cheekbones, expression of cold precision with underlying power, micro-liner not yet applied (eyes still bare-lashed), no lip color yet, photorealistic sharp-contour structural detail with geometric brow precision, "building armor" corporate-beauty GRWM energy
 ```
+
+---
 
 ### Video Prompt 3 — SHARP CONTOUR + RAZOR BROW — STRUCTURAL WEAPONS
 
@@ -721,13 +754,17 @@ Close face three-quarter angle Aira, sharp contour freshly applied — visible s
 
 **Camera:** 90mm f/1.4 | 0.35m | dead center | eye-area only crop
 
+**Body: strictly keep her legs fuller, thighs fuller, arms fuller, fuller chest, perfect flat belly.**
+
 The black micro-liner flick: ultra-fine brush tip creating a clean 4mm wing at outer corner of right eye. This is surgical precision — the hand is completely steady. Expression: the specific one-eye-closed focus, open eye's iris visible and sharp. Makeup state: matte base, contour, brows, now the singular clean liner wing being drawn.
 
 **Kinetic 6:** Face absolutely frozen (practiced stillness for liner), liner brush tip drawing 4mm line in single unbroken stroke (no hesitation, no restart), held breath entirely (zero chest movement for this frame), liner brush weight pulling with gravity but countered by steady hand, "this line is my signature on the resignation" — the deliberateness of the single stroke is the emotional content, eyelid skin micro-compressed under brush-tip pressure creating a track for the pigment.
 
 ```
-Eye-area only crop extreme close-up — Aira's right eye closed with ultra-fine liner brush tip at outer corner drawing 4mm wing in single clean stroke, black micro-liner creating sharp precise wing against medium-warm brown matte skin, left eye open for mirror-checking (dark brown iris sharp and visible with catchlight), razor-defined brow above each eye, full matte skin with sculpted contour visible at eye-socket edge, brush held between right thumb and forefinger with surgical steadiness — no tremor visible, liner pigment depositing in clean unbroken thin line from lash line outward-upward, eyelid skin showing micro-compression under brush pressure, 90mm f/1.4 0.35m dead center, harsh overhead creating defined lash shadows, extreme shallow DOF with brush-tip and liner in critical focus eyelashes sharp, photorealistic liner-application surgical precision, zero-margin-for-error beauty detail
+Body: strictly keep her legs fuller thighs fuller arms fuller fuller chest perfect flat belly. Eye-area only crop extreme close-up — Aira's right eye closed with ultra-fine liner brush tip at outer corner drawing 4mm wing in single clean stroke, black micro-liner creating sharp precise wing against medium-warm brown matte skin, left eye open for mirror-checking (dark brown iris sharp and visible with catchlight), razor-defined brow above each eye, full matte skin with sculpted contour visible at eye-socket edge, brush held between right thumb and forefinger with surgical steadiness — no tremor visible, liner pigment depositing in clean unbroken thin line from lash line outward-upward, eyelid skin showing micro-compression under brush pressure, 90mm f/1.4 0.35m dead center, harsh overhead creating defined lash shadows, extreme shallow DOF with brush-tip and liner in critical focus eyelashes sharp, photorealistic liner-application surgical precision, zero-margin-for-error beauty detail
 ```
+
+---
 
 ### Video Prompt 4 — MICRO-LINER FLICK — THE EXCLAMATION POINT
 
@@ -739,13 +776,17 @@ Eye-area only crop extreme close-up — Aira's right eye closed with ultra-fine 
 
 **Camera:** 65mm f/1.6 | 0.45m | straight-on | lower-face crop
 
+**Body: strictly keep her legs fuller, thighs fuller, arms fuller, fuller chest, perfect flat belly.**
+
 Applying nude-mauve matte lip in single precise outer-to-center stroke on upper lip — the color that says nothing and everything. Expression (lower face): lips stretched for application but with something behind them — the suppressed words of the resignation visible in the tension of lip corners.
 
 **Kinetic 6:** Lips in application position (slight stretch, flattened for even deposit), brush tracking upper lip from corner to Cupid's bow in controlled arc, shallow breathing (routine finishing energy), lip product matte and light-absorbing (no sheen, no gloss — intentional restraint), "I'll say the words with this lip color on. They'll remember this mouth saying 'I quit'" — residue in extra precision of application, the matte finish absorbing light creating subtle powerful lip statement.
 
 ```
-Lower-face crop straight-on Aira — nude-mauve matte lip color being applied with precision lip brush from right corner tracking toward Cupid's bow on upper lip, lower lip already complete in same shade (matte, light-absorbing, powerful neutral), lips in stretched application position with suppressed tension at corners, medium-warm brown matte-perfect skin, sharp contour visible at jaw edge, visible precise brush path with matte pigment depositing evenly, right hand holding slim lip brush with gold ferrule at precise angle following upper-lip curvature, completed lower lip matte and smooth in nude-mauve (several shades darker than natural but still neutral territory), 65mm f/1.6 0.45m straight-on, overhead harsh light absorbed by matte lip (no specular — intentional contrast to glossy beauty), sharp defined jaw and chin from contour work, photorealistic matte-lip precision with visible product texture (velvet-matte finish), powerful restrained corporate beauty
+Body: strictly keep her legs fuller thighs fuller arms fuller fuller chest perfect flat belly. Lower-face crop straight-on Aira — nude-mauve matte lip color being applied with precision lip brush from right corner tracking toward Cupid's bow on upper lip, lower lip already complete in same shade (matte, light-absorbing, powerful neutral), lips in stretched application position with suppressed tension at corners, medium-warm brown matte-perfect skin, sharp contour visible at jaw edge, visible precise brush path with matte pigment depositing evenly, right hand holding slim lip brush with gold ferrule at precise angle following upper-lip curvature, completed lower lip matte and smooth in nude-mauve (several shades darker than natural but still neutral territory), 65mm f/1.6 0.45m straight-on, overhead harsh light absorbed by matte lip (no specular — intentional contrast to glossy beauty), sharp defined jaw and chin from contour work, photorealistic matte-lip precision with visible product texture (velvet-matte finish), powerful restrained corporate beauty
 ```
+
+---
 
 ### Video Prompt 5 — NUDE-MAUVE LIP — SILENCE MADE VISIBLE
 
@@ -757,6 +798,8 @@ Lower-face crop straight-on Aira — nude-mauve matte lip color being applied wi
 
 **Camera:** 40mm f/2.2 | 1.3m | straight-on slight low angle 8 degrees (POWER) | half-body with blazer
 
+**Body: strictly keep her legs fuller, thighs fuller, arms fuller, fuller chest, perfect flat belly.**
+
 THE REVEAL: Full corporate armor assembled. Charcoal blazer on over black silk cami, tailored black trousers, gold watch visible on left wrist. Hair in sleek low bun with face-framing tendrils, gel-slicked edges showing total intentionality. Full makeup: matte perfection, contour, liner flicks, razor brows, nude-mauve lip. She's looking at herself with the expression of someone seeing a weapon assembled.
 
 Expression: complete composure — eyes meeting own gaze with zero doubt, chin parallel to floor (neither up nor down — pure neutral power), lips in matte nude-mauve closed with 0mm part (sealed, containing the words until the right room), jaw relaxed (beyond tension into certainty).
@@ -764,8 +807,10 @@ Expression: complete composure — eyes meeting own gaze with zero doubt, chin p
 **Kinetic 6:** Standing squared, blazer settling on shoulders after just being put on (fabric finding its drape), deep post-breath centering exhale just completed (shoulders in final resting position), blazer fabric obeying gravity from structured shoulders with perfect drape, "I don't need courage. I have clarity." — residue in the absolute stillness (no fidgeting, no nervous energy — just readiness), overhead light now catching the full architectural face with every structure enhanced.
 
 ```
-Half-body low-angle 8-degree power shot Aira, South Asian woman early-mid 20s, FULL CORPORATE ARMOR: charcoal tailored blazer over black silk cami, high-waisted black wide-leg trousers, gold watch on left wrist catching light, medium-warm brown skin in full matte perfection — sharp contour sculpting cheekbones and jaw, razor-defined architectural brows, clean black micro-liner flicks at outer corners, nude-mauve matte lip sealed with zero part (containing resignation words), dark brown-black hair in sleek low bun at nape with severe center part, two deliberate face-framing tendrils at jaw length, gel-slicked edges showing total intentionality, expression of complete composure — eyes meeting own gaze with absolute zero doubt, chin parallel to floor in pure neutral power, jaw relaxed beyond tension into certainty, squared shoulders with blazer settling into perfect drape, hands at sides naturally (no fidgeting), phone with resignation email visible in blazer's breast pocket edge, 40mm f/2.2 1.3m straight-on 8-degree low angle, overhead 5000K catching architectural face structure, mirror edge in frame, power-symmetry composition, photorealistic corporate-rebellion beauty, silent-weapon assembled energy, GRWM hero reveal shot
+Half-body low-angle 8-degree power shot Aira, South Asian woman early-mid 20s, FULL CORPORATE ARMOR: charcoal tailored blazer over black silk cami, high-waisted black wide-leg trousers, gold watch on left wrist catching light, medium-warm brown skin in full matte perfection — sharp contour sculpting cheekbones and jaw, razor-defined architectural brows, clean black micro-liner flicks at outer corners, nude-mauve matte lip sealed with zero part (containing resignation words), dark brown-black hair in sleek low bun at nape with severe center part, Body: strictly keep her legs fuller thighs fuller arms fuller fuller chest perfect flat belly, two deliberate face-framing tendrils at jaw length, gel-slicked edges showing total intentionality, expression of complete composure — eyes meeting own gaze with absolute zero doubt, chin parallel to floor in pure neutral power, jaw relaxed beyond tension into certainty, squared shoulders with blazer settling into perfect drape, hands at sides naturally (no fidgeting), phone with resignation email visible in blazer's breast pocket edge, 40mm f/2.2 1.3m straight-on 8-degree low angle, overhead 5000K catching architectural face structure, mirror edge in frame, power-symmetry composition, photorealistic corporate-rebellion beauty, silent-weapon assembled energy, GRWM hero reveal shot
 ```
+
+---
 
 ### Video Prompt 6 — FULL LOOK — THE WOMAN THEY'LL WATCH LEAVE
 
@@ -777,13 +822,17 @@ Half-body low-angle 8-degree power shot Aira, South Asian woman early-mid 20s, F
 
 **Camera:** 35mm f/2.0 | 2.2m | three-quarter following | full body in motion
 
+**Body: strictly keep her legs fuller, thighs fuller, arms fuller, fuller chest, perfect flat belly.**
+
 In motion toward apartment door: right hand grabbing structured black leather bag from chair back (the bag is packed, has been packed since last night), left hand smoothing blazer front. Full outfit head-to-toe in stride: charcoal blazer, black trousers, pointed heels clicking. Hair bun perfect in motion. Face in three-quarter: nude-mauve lip set, liner visible, composure absolute. She's leaving her apartment and everything "before" in one motion.
 
 **Kinetic 6:** Walking stride — pointed heels creating specific gait pattern (shorter steps, posture upright, shoulder-stable), right hand closing around bag strap (leather compressing under grip), walking breath — measured and steady (this is someone walking into battle, not away from comfort), bag lifting from chair showing weight, "the commute starts the same but ends somewhere entirely new" — residue in the normalcy of the motion (she's done this walk 500 mornings; this is the last one), pointed heel meeting floor with confident contact, blazer moving with walk rhythm.
 
 ```
-Full-body three-quarter following shot Aira mid-stride toward apartment front door, right hand grabbing structured black leather bag from chair back — leather compressing under grip, left hand smoothing blazer front mid-motion, full corporate-armor outfit in motion: charcoal tailored blazer with perfect drape moving with stride, black silk cami visible at neckline, high-waisted black wide-leg trousers flowing with walk, pointed black heels mid-step on wood floor, gold watch on wrist catching light, sleek low bun at nape holding perfectly in motion with two face-framing tendrils at jaw, gel-slicked edges intact, three-quarter face showing full matte makeup — liner flicks visible, contoured jaw sharp, nude-mauve lip set with absolute composure, straight confident posture walking with deliberate measured heel-gait (shorter steps posture-upright), apartment interior behind her (bathroom light still on, the space she's leaving), door ahead partially open showing building hallway light, 35mm f/2.0 2.2m three-quarter following, warm apartment light 4200K with cooler hallway light ahead through door, bag weight visible in strap tension, blazer and trouser fabric responding to walk physics, photorealistic corporate-exit walk with military composure, GRWM finale liberation-in-motion
+Body: strictly keep her legs fuller thighs fuller arms fuller fuller chest perfect flat belly. Full-body three-quarter following shot Aira mid-stride toward apartment front door, right hand grabbing structured black leather bag from chair back — leather compressing under grip, left hand smoothing blazer front mid-motion, full corporate-armor outfit in motion: charcoal tailored blazer with perfect drape moving with stride, black silk cami visible at neckline, high-waisted black wide-leg trousers flowing with walk, pointed black heels mid-step on wood floor, gold watch on wrist catching light, sleek low bun at nape holding perfectly in motion with two face-framing tendrils at jaw, gel-slicked edges intact, three-quarter face showing full matte makeup — liner flicks visible, contoured jaw sharp, nude-mauve lip set with absolute composure, straight confident posture walking with deliberate measured heel-gait (shorter steps posture-upright), apartment interior behind her (bathroom light still on, the space she's leaving), door ahead partially open showing building hallway light, 35mm f/2.0 2.2m three-quarter following, warm apartment light 4200K with cooler hallway light ahead through door, bag weight visible in strap tension, blazer and trouser fabric responding to walk physics, photorealistic corporate-exit walk with military composure, GRWM finale liberation-in-motion
 ```
+
+---
 
 ### Video Prompt 7 — PICKING UP THE BAG — WALKING TOWARD THE DOOR
 
@@ -812,17 +861,20 @@ Full-body three-quarter following shot Aira mid-stride toward apartment front do
 
 ### Prompt 1 — THE OUTFIT CRISIS — 4 REJECTED OPTIONS ON BED
 
-
 **Camera:** 28mm f/2.2 | 2.0m | elevated 25 degrees | wide bedroom establishing with outfit chaos
 **Lighting:** Key: golden hour sun 4500K streaming through window at low angle | Fill: room lamp warm 3000K | Rim: sun streak on bed fabrics | Shadow 18% warm
 
-**Aira state:** Standing at foot of bed in black underwear set, one hand on hip, other hand holding wine glass, looking at 4 outfits laid on bed with "which one says reinvention without trying too hard" energy. Expression: one eyebrow up (self-amused exasperation), lips twisted in half-smirk (she finds her own anxiety funny). The fifth option — rust-orange slip dress — draped over bedroom door handle (not yet tried, will be the one). Hair freshly washed and blow-dried but unstyled (big and everywhere). Completely bare face except moisturizer sheen.
+**Aira state:**
+**Body: strictly keep her legs fuller, thighs fuller, arms fuller, fuller chest, perfect flat belly.**
+ Standing at foot of bed in black underwear set, one hand on hip, other hand holding wine glass, looking at 4 outfits laid on bed with "which one says reinvention without trying too hard" energy. Expression: one eyebrow up (self-amused exasperation), lips twisted in half-smirk (she finds her own anxiety funny). The fifth option — rust-orange slip dress — draped over bedroom door handle (not yet tried, will be the one). Hair freshly washed and blow-dried but unstyled (big and everywhere). Completely bare face except moisturizer sheen.
 
 **Kinetic 6 Layers:** 1. Weight on right hip creating S-curve, left hand on hip elbow out, right hand holding wine glass at chest height | 2. Wine glass tilting 2 degrees in contemplation (the swirl energy of decision-making) | 3. Post-sip exhale through rounded lips (wine warmth spreading) | 4. Freshly washed hair volume obeying gravity but with bounce memory from blowdry, wine in glass obeying gravity in tilted glass | 5. Laughing at herself internally — residue in the one-raised-eyebrow/twisted-lip combo that says "girl, you're being ridiculous" | 6. Golden hour streaming in creating dramatic long shadows across bed, warm light catching wine glass and her skin simultaneously
 
 ```
-Wide elevated bedroom shot Aira, South Asian woman early-mid 20s, medium-warm brown skin with moisturizer sheen catching golden hour light, standing at foot of bed in simple black underwear set, left hand on hip elbow out creating S-curve with weight on right hip, right hand holding half-drunk wine glass at chest height with slight 2-degree tilt, looking down at bed with one eyebrow raised and lips in half-smirk (self-amused exasperation), bare face with only moisturizer glow, dark brown-black hair freshly blow-dried BIG and voluminous everywhere (unstyled, maximum volume), four rejected outfits laid on bed (visible: blazer-and-jeans combo, little black dress, printed co-ord, cream jumpsuit), rust-burnt orange satin slip dress draped over bedroom door handle (separate from rejects — the eventual choice), half-drunk wine glass with red wine catching golden light, nightstand with Bluetooth speaker, golden hour 4500K sunlight streaming at low angle through window creating dramatic long shadows, warm room lamp 3000K fill, bedroom cozy with personal details, 28mm f/2.2 2.0m elevated 25 degrees, warm amber-gold-rust color palette, 18% warm shadows, photorealistic outfit-crisis GRWM opening with self-aware humor energy
+Wide elevated bedroom shot Aira, South Asian woman early-mid 20s, medium-warm brown skin with moisturizer sheen catching golden hour light, standing at foot of bed in simple black underwear set, left hand on hip elbow out creating S-curve with weight on right hip, right hand holding half-drunk wine glass at chest height with slight 2-degree tilt, looking down at bed with one eyebrow raised and lips in half-smirk (self-amused exasperation), bare face with only moisturizer glow, dark brown-black hair freshly blow-dried BIG and voluminous everywhere (unstyled, Body: strictly keep her legs fuller thighs fuller arms fuller fuller chest perfect flat belly, maximum volume), four rejected outfits laid on bed (visible: blazer-and-jeans combo, little black dress, printed co-ord, cream jumpsuit), rust-burnt orange satin slip dress draped over bedroom door handle (separate from rejects — the eventual choice), half-drunk wine glass with red wine catching golden light, nightstand with Bluetooth speaker, golden hour 4500K sunlight streaming at low angle through window creating dramatic long shadows, warm room lamp 3000K fill, bedroom cozy with personal details, 28mm f/2.2 2.0m elevated 25 degrees, warm amber-gold-rust color palette, 18% warm shadows, photorealistic outfit-crisis GRWM opening with self-aware humor energy
 ```
+
+---
 
 ### Video Prompt 1 — THE OUTFIT CRISIS — 4 REJECTED OPTIONS ON BED
 
@@ -839,13 +891,17 @@ Wide elevated bedroom shot Aira, South Asian woman early-mid 20s, medium-warm br
 **Camera:** 50mm f/1.8 | 0.7m | centered | face-shoulders crop (now at vanity)
 **Lighting:** Key golden hour 4500K from side + vanity mirror lights warm 3500K | Fill 45% | Shadow 15%
 
+**Body: strictly keep her legs fuller, thighs fuller, arms fuller, fuller chest, perfect flat belly.**
+
 Applying cream bronzer with fingers in broad strokes across cheekbones, forehead hairline, bridge of nose — building the "sun-touched all-over warmth" base. Expression: now focused and calmer (wine helping, decision approaching). The rust-orange dress now visible hanging on door behind her (she's coming around to it). Hair still big and unstyled. Makeup state: primer, skin tint, now cream bronzer creating rich warm dimension.
 
 **Kinetic 6:** Fingertips pressing bronzer in circular motions on cheekbone (3 fingers used simultaneously for broad wash effect), rhythmic breathing matching application pressure, bronzer picking up golden hour light creating real-time warm glow as product deposits, "I've reinvented myself successfully — my face should show that warmth" — residue in the generous application (more bronzer than corporate-her would have used), golden hour light making the bronzer appear even more luminous (perfect application conditions).
 
 ```
-Face-shoulders crop Aira at vanity mirror, applying cream bronzer with three fingers in broad circular strokes on left cheekbone — visible warm bronze product blending into medium-warm brown skin creating sun-touched dimension, right cheekbone already bronzed (warm highlight catching vanity mirror lights), forehead hairline showing bronzer warmth, expression of focused calm with underlying anticipation, dark brown-black hair big and voluminous unstyled around face catching golden sidelight, bare-ish eye area (no eye makeup yet), vanity with mirror lights warm 3500K, golden hour 4500K streaming from side window, rust-orange satin slip dress visible hanging on door behind her (soft focus), wine glass on vanity with warm liquid catching light, cream bronzer pot open showing warm tan-bronze shade, 50mm f/1.8 0.7m centered, dual warm lighting creating rich golden tones, 15% shadows, skin glowing with dimensional bronzer catching every light source, photorealistic warm-skin-building GRWM detail, sunset-hour intimacy
+Face-shoulders crop Aira at vanity mirror, applying cream bronzer with three fingers in broad circular strokes on left cheekbone — visible warm bronze product blending into medium-warm brown skin creating sun-touched dimension, right cheekbone already bronzed (warm highlight catching vanity mirror lights), forehead hairline showing bronzer warmth, expression of focused calm with underlying anticipation, dark brown-black hair big and voluminous unstyled around face catching golden sidelight, Body: strictly keep her legs fuller thighs fuller arms fuller fuller chest perfect flat belly, bare-ish eye area (no eye makeup yet), vanity with mirror lights warm 3500K, golden hour 4500K streaming from side window, rust-orange satin slip dress visible hanging on door behind her (soft focus), wine glass on vanity with warm liquid catching light, cream bronzer pot open showing warm tan-bronze shade, 50mm f/1.8 0.7m centered, dual warm lighting creating rich golden tones, 15% shadows, skin glowing with dimensional bronzer catching every light source, photorealistic warm-skin-building GRWM detail, sunset-hour intimacy
 ```
+
+---
 
 ### Video Prompt 2 — BRONZY SKIN BUILD — WARM DIMENSION
 
@@ -857,13 +913,17 @@ Face-shoulders crop Aira at vanity mirror, applying cream bronzer with three fin
 
 **Camera:** 80mm f/1.4 | 0.4m | eye-level centered | eye-area close-up
 
+**Body: strictly keep her legs fuller, thighs fuller, arms fuller, fuller chest, perfect flat belly.**
+
 Soft smoky copper eyeshadow being diffused with fluffy blending brush — no hard lines, all seamless warmth radiating from lid into crease and outward. One eye done (soft copper haze), other eye in progress (brush actively blending). Expression: one eye closed receiving product, other eye in soft squint (asymmetric focus). Brows still natural and bushy (intentionally untouched for this look).
 
 **Kinetic 6:** Blending brush making windshield-wiper arcs in crease area (rapid soft back-and-forth 8mm movements), entire face still except eye-area muscles responding to closed-eye engagement, held shallow breathing (eye work precision), brush bristles flexing against skin with each arc pass, "I want my eyes to say 'new life is warm'" — residue in choosing copper over neutral (deliberate warmth), ambient golden light blending with the copper shade creating harmonious warm eye visible in real-time.
 
 ```
-Eye-area close-up Aira — fluffy blending brush making diffused arcs in right eye crease area, soft smoky copper eyeshadow radiating from lid outward in seamless gradient (no hard edges), left eye complete with warm copper haze from lid through crease fading to skin (the "done" reference), right eye in active blending progress — visible copper pigment being pushed and diffused by brush bristles, both brows natural bushy and intentionally untouched (full dark brow hairs in natural growth pattern), medium-warm brown skin with bronzed base catching light at this proximity, expression asymmetric — right eye closed for application left eye in soft squint watching mirror, 80mm f/1.4 0.4m eye-level centered, dual warm lighting catching copper shimmer particles in shadow, extreme shallow DOF (brush tip critical focus, ear area soft), photorealistic eyeshadow-blending texture — visible brush bristle flex and pigment diffusion, warm copper-amber-gold palette, GRWM eye-detail precision with warmth
+Eye-area close-up Aira — fluffy blending brush making diffused arcs in right eye crease area, soft smoky copper eyeshadow radiating from lid outward in seamless gradient (no hard edges), left eye complete with warm copper haze from lid through crease fading to skin (the "done" reference), right eye in active blending progress — visible copper pigment being pushed and diffused by brush bristles, both brows natural bushy and intentionally untouched (full dark brow hairs in natural growth pattern), medium-warm brown skin with bronzed base catching light at this proximity, Body: strictly keep her legs fuller thighs fuller arms fuller fuller chest perfect flat belly, expression asymmetric — right eye closed for application left eye in soft squint watching mirror, 80mm f/1.4 0.4m eye-level centered, dual warm lighting catching copper shimmer particles in shadow, extreme shallow DOF (brush tip critical focus, ear area soft), photorealistic eyeshadow-blending texture — visible brush bristle flex and pigment diffusion, warm copper-amber-gold palette, GRWM eye-detail precision with warmth
 ```
+
+---
 
 ### Video Prompt 3 — SMOKY COPPER EYE — DIFFUSED WARMTH
 
@@ -875,13 +935,17 @@ Eye-area close-up Aira — fluffy blending brush making diffused arcs in right e
 
 **Camera:** 65mm f/1.6 | 0.5m | 5-degree low angle | lower-face crop (nose to chin plus neck)
 
+**Body: strictly keep her legs fuller, thighs fuller, arms fuller, fuller chest, perfect flat belly.**
+
 Brown lip liner visible on lip edges (slightly darker than lip color — the 90s-inflected look), terracotta matte-satin lip being filled in over liner from corners toward center. Expression (lower face): relaxed soft smile 1.5mm — she's starting to enjoy this, the look is coming together and she can feel the confidence arriving.
 
 **Kinetic 6:** Terracotta bullet lipstick tracking from left corner along lower lip edge toward center in controlled sweep, relaxed jaw and soft parted lips receiving color with ease, comfortable deep breathing (enjoying the process now), lipstick tip depositing with slight drag against lip texture (the satisfying resistance of quality product), "okay this color slaps actually" — residue in the growing smile that she has to actively prevent from disrupting the application, golden hour light on lips creating warm terracotta-meets-skin glow.
 
 ```
-Lower-face crop nose-to-chin-plus-neck Aira — terracotta matte-satin lipstick bullet tracking along lower lip from left corner toward center, visible brown lip liner on edges of both lips (slightly darker border creating defined 90s-inflected lip shape), lower lip receiving terracotta color with visible product deposit catching warm light, upper lip already complete in terracotta with brown liner border visible, expression of relaxed 1.5mm smile fighting application (corners wanting to spread wider), medium-warm brown skin with bronzer warmth visible at jaw and chin, gold layered chains (3 lengths) now visible at neck, rust-burnt orange satin slip dress strap visible at far shoulder edge (she changed), 65mm f/1.6 0.5m 5-degree low angle, golden hour + vanity warm dual lighting catching terracotta pigment with warm satin sheen, lips showing texture and liner-to-lipstick layering visible, photorealistic lip-application with product-texture detail, warm earth-tone palette (terracotta/brown/bronze/gold), playful growing-confidence energy
+Lower-face crop nose-to-chin-plus-neck Aira — terracotta matte-satin lipstick bullet tracking along lower lip from left corner toward center, visible brown lip liner on edges of both lips (slightly darker border creating defined 90s-inflected lip shape), lower lip receiving terracotta color with visible product deposit catching warm light, upper lip already complete in terracotta with brown liner border visible, expression of relaxed 1.5mm smile fighting application (corners wanting to spread wider), medium-warm brown skin with bronzer warmth visible at jaw and chin, Body: strictly keep her legs fuller thighs fuller arms fuller fuller chest perfect flat belly, gold layered chains (3 lengths) now visible at neck, rust-burnt orange satin slip dress strap visible at far shoulder edge (she changed), 65mm f/1.6 0.5m 5-degree low angle, golden hour + vanity warm dual lighting catching terracotta pigment with warm satin sheen, lips showing texture and liner-to-lipstick layering visible, photorealistic lip-application with product-texture detail, warm earth-tone palette (terracotta/brown/bronze/gold), playful growing-confidence energy
 ```
+
+---
 
 ### Video Prompt 4 — TERRACOTTA LIP WITH BROWN LINER — WARM EARTH MOUTH
 
@@ -893,13 +957,17 @@ Lower-face crop nose-to-chin-plus-neck Aira — terracotta matte-satin lipstick 
 
 **Camera:** 45mm f/2.0 | 1.0m | three-quarter favoring dramatic-hair side | head-shoulders-and-beyond
 
+**Body: strictly keep her legs fuller, thighs fuller, arms fuller, fuller chest, perfect flat belly.**
+
 The hair transformation: using both hands to push all that volume to the right side, left side being pinned behind ear with single gold barrette. Creating dramatic asymmetry — massive bouncy volume on right, sleek pinned left revealing ear and jaw. Full makeup now visible on face: bronzy dimensional skin, copper smoky eye, bushy brows, terracotta lip with brown liner. Gold barrette catching golden hour as she clicks it into place.
 
 **Kinetic 6:** Both hands in hair — left hand smoothing flat section behind ear while right hand lifts and positions volume on opposite side creating bouncy movement, deep confident breathing (she's feeling herself now), all hair volume obeying gravity differently based on which side (right side bouncing with volume, left side flat by design), "THIS is the version of me they get to meet" — residue in the energy shift from nervous to proud (visible in how she handles her own hair with ownership not anxiety), golden hour absolutely lighting up the volume side creating dimensional warm brown-black waves catching every ray.
 
 ```
-Three-quarter head-shoulders-and-beyond Aira — both hands in hair mid-styling transformation, left hand smoothing dark brown-black section behind left ear while right hand lifts and positions voluminous bouncy blow-out to right side creating dramatic asymmetry, gold barrette being clicked into place behind left ear (catching golden hour light), massive volume on right side — big bouncy warm-toned waves falling past shoulder, sleek pinned left side revealing ear jawline and gold layered chains at neck, full completed makeup visible: rich bronzy dimensional skin, soft smoky copper eye with diffused edges, natural bushy brows, terracotta lip with brown liner, expression of growing pride and self-recognition (real smile 2.5mm, eyes bright with "I look good" energy), rust-burnt orange satin slip dress now on (bias-cut drape visible at shoulders), cream denim jacket visible on chair behind, 45mm f/2.0 1.0m three-quarter favoring volume side, golden hour 4500K streaming from side absolutely illuminating the hair volume with warm dimensional light, vanity lights warm fill, 16% shadow, photorealistic dramatic-hair GRWM moment with volume and movement, confident transformation energy
+Body: strictly keep her legs fuller thighs fuller arms fuller fuller chest perfect flat belly. Three-quarter head-shoulders-and-beyond Aira — both hands in hair mid-styling transformation, left hand smoothing dark brown-black section behind left ear while right hand lifts and positions voluminous bouncy blow-out to right side creating dramatic asymmetry, gold barrette being clicked into place behind left ear (catching golden hour light), massive volume on right side — big bouncy warm-toned waves falling past shoulder, sleek pinned left side revealing ear jawline and gold layered chains at neck, full completed makeup visible: rich bronzy dimensional skin, soft smoky copper eye with diffused edges, natural bushy brows, terracotta lip with brown liner, expression of growing pride and self-recognition (real smile 2.5mm, eyes bright with "I look good" energy), rust-burnt orange satin slip dress now on (bias-cut drape visible at shoulders), cream denim jacket visible on chair behind, 45mm f/2.0 1.0m three-quarter favoring volume side, golden hour 4500K streaming from side absolutely illuminating the hair volume with warm dimensional light, vanity lights warm fill, 16% shadow, photorealistic dramatic-hair GRWM moment with volume and movement, confident transformation energy
 ```
+
+---
 
 ### Video Prompt 5 — HAIR MOMENT — VOLUME PUSHED TO ONE SIDE + GOLD BARRETTE
 
@@ -911,6 +979,8 @@ Three-quarter head-shoulders-and-beyond Aira — both hands in hair mid-styling 
 
 **Camera:** 35mm f/2.0 | 1.5m | straight-on 5-degree low angle | three-quarter body with bedroom context
 
+**Body: strictly keep her legs fuller, thighs fuller, arms fuller, fuller chest, perfect flat belly.**
+
 FULL LOOK REVEAL: Rust-burnt orange satin slip dress (bias-cut, catching light on every curve), oversized cream denim jacket now on (sleeves pushed to elbows showing gold watch and layered bracelets), strappy tan heeled sandals, gold layered chains, hair in dramatic one-sided volume with gold barrette. Full "Warm Renaissance" makeup. She's standing with one hand in jacket pocket, weight on one hip, looking at herself with the specific expression of: "They knew the law student. They're about to meet the artist/entrepreneur/creative."
 
 **Expression:** Chin up 3 degrees, real confident smile 3mm, eyes warm with self-assurance (no nervousness left — wine and the look did their job), one brow slightly raised (playful — she's imagining their faces).
@@ -918,8 +988,10 @@ FULL LOOK REVEAL: Rust-burnt orange satin slip dress (bias-cut, catching light o
 **Kinetic 6:** Weight on left hip creating relaxed S-curve, right hand in jacket pocket with thumb visible, shoulders settled and open, deep steady breathing of someone who's arrived at their answer, entire outfit settling on body with gravity (satin draping, jacket weight, chains falling), "I like who I became and I'm done being nervous about it" — residue in the 3mm smile and thumb-in-pocket ease (she's no longer performing confidence, she HAS it), golden hour now low and warm creating dramatic long light on her entire figure from the side.
 
 ```
-Three-quarter body with bedroom context Aira, South Asian woman early-mid 20s, FULL REINVENTION REVEAL: rust-burnt orange satin bias-cut slip dress catching light on every drape-curve at midi length, oversized cream denim jacket with sleeves pushed to elbows revealing gold watch and layered bracelets on left wrist, strappy tan heeled sandals, gold layered chains (3 lengths falling at collarbone chest and sternum), dramatic asymmetric hair — massive bouncy volume pushed right with warm-toned dimensional waves past shoulder, left side sleek with gold barrette behind ear, full "Warm Renaissance" makeup — bronzy dimensional skin, soft smoky copper eyes, natural bushy brows, terracotta lip with brown liner, expression of confident playful pride — chin up 3 degrees real 3mm smile eyes warm with self-assurance one brow slightly raised (imagining friends' reactions), right hand in jacket pocket thumb visible, weight on left hip creating relaxed S-curve, bedroom behind with rejected outfits on bed (the journey visible), wine glass nearly empty on nightstand, golden hour 4500K streaming from side at low angle creating dramatic warm full-figure lighting, 35mm f/2.0 1.5m straight-on 5-degree low angle, warm amber-rust-gold-cream color palette, photorealistic full GRWM reveal with confident reinvention energy, cinematic golden-hour portrait
+Three-quarter body with bedroom context Aira, South Asian woman early-mid 20s, Body: strictly keep her legs fuller thighs fuller arms fuller fuller chest perfect flat belly, FULL REINVENTION REVEAL: rust-burnt orange satin bias-cut slip dress catching light on every drape-curve at midi length, oversized cream denim jacket with sleeves pushed to elbows revealing gold watch and layered bracelets on left wrist, strappy tan heeled sandals, gold layered chains (3 lengths falling at collarbone chest and sternum), dramatic asymmetric hair — massive bouncy volume pushed right with warm-toned dimensional waves past shoulder, left side sleek with gold barrette behind ear, full "Warm Renaissance" makeup — bronzy dimensional skin, soft smoky copper eyes, natural bushy brows, terracotta lip with brown liner, expression of confident playful pride — chin up 3 degrees real 3mm smile eyes warm with self-assurance one brow slightly raised (imagining friends' reactions), right hand in jacket pocket thumb visible, weight on left hip creating relaxed S-curve, bedroom behind with rejected outfits on bed (the journey visible), wine glass nearly empty on nightstand, golden hour 4500K streaming from side at low angle creating dramatic warm full-figure lighting, 35mm f/2.0 1.5m straight-on 5-degree low angle, warm amber-rust-gold-cream color palette, photorealistic full GRWM reveal with confident reinvention energy, cinematic golden-hour portrait
 ```
+
+---
 
 ### Video Prompt 6 — FULL REVEAL — THE NEW VERSION, FULLY ASSEMBLED
 
@@ -931,13 +1003,17 @@ Three-quarter body with bedroom context Aira, South Asian woman early-mid 20s, F
 
 **Camera:** 28mm f/2.2 | 2.5m | following three-quarter | full body in motion toward door
 
+**Body: strictly keep her legs fuller, thighs fuller, arms fuller, fuller chest, perfect flat belly.**
+
 Walking to apartment door — grabbing phone and keys from entry table, cream denim jacket being adjusted with one shrug-roll of shoulders (the getting-ready-to-leave-the-house shoulder roll). Full outfit in motion: satin dress swinging with stride, heeled sandals creating confident step pattern, hair bouncing dramatically on the volume side. Through the door: evening blue-hour light visible (the night waiting). She's out the door and into whatever the reunion brings.
 
 **Kinetic 6:** Walking stride in heeled sandals (hip-sway-forward gait), jacket shoulder-roll shrug (fabric settling after being adjusted), walking breath — energized and quick (excitement, wine, anticipation mixing), satin dress swinging with hip movement catching light in shifting planes, "worst case they're weird about it. Best case I inspire someone else to change" — residue in the slightly quicker-than-necessary stride (eagerness disguised as punctuality), evening blue-hour light from open door meeting warm apartment golden creating beautiful two-tone light on her exiting figure.
 
 ```
-Full-body following three-quarter shot Aira mid-stride toward apartment door, right hand scooping phone and keys from entry table, left hand/shoulder in mid-shrug-roll adjusting cream denim jacket settling on shoulders, rust-burnt orange satin slip dress swinging with hip-sway stride catching light in shifting planes, strappy tan heeled sandals in confident walking step, dramatic asymmetric hair bouncing on right volume-side from stride energy while pinned left side holds sleek, gold layered chains bouncing with movement, gold watch and bracelets on exposed wrist, full Warm Renaissance makeup visible in three-quarter profile — bronzy skin copper eye terracotta lip, expression of eager playful confidence looking toward door, apartment hallway with entry table and coat hooks, front door open revealing evening blue-hour light outside (the night waiting), contrast of warm golden apartment interior meeting cool blue-hour exterior, 28mm f/2.2 2.5m following angle, two-tone lighting on exiting figure (warm interior/cool exterior), satin and hair physics responding to forward motion, photorealistic confident-exit GRWM finale, reinvention-into-the-night energy with eagerness and joy
+Body: strictly keep her legs fuller thighs fuller arms fuller fuller chest perfect flat belly. Full-body following three-quarter shot Aira mid-stride toward apartment door, right hand scooping phone and keys from entry table, left hand/shoulder in mid-shrug-roll adjusting cream denim jacket settling on shoulders, rust-burnt orange satin slip dress swinging with hip-sway stride catching light in shifting planes, strappy tan heeled sandals in confident walking step, dramatic asymmetric hair bouncing on right volume-side from stride energy while pinned left side holds sleek, gold layered chains bouncing with movement, gold watch and bracelets on exposed wrist, full Warm Renaissance makeup visible in three-quarter profile — bronzy skin copper eye terracotta lip, expression of eager playful confidence looking toward door, apartment hallway with entry table and coat hooks, front door open revealing evening blue-hour light outside (the night waiting), contrast of warm golden apartment interior meeting cool blue-hour exterior, 28mm f/2.2 2.5m following angle, two-tone lighting on exiting figure (warm interior/cool exterior), satin and hair physics responding to forward motion, photorealistic confident-exit GRWM finale, reinvention-into-the-night energy with eagerness and joy
 ```
+
+---
 
 ### Video Prompt 7 — DOOR — GRABBING KEYS, CONFIDENCE INTO THE NIGHT
 
@@ -966,17 +1042,20 @@ Full-body following three-quarter shot Aira mid-stride toward apartment door, ri
 
 ### Prompt 1 — PRE-DAWN — THE FOREIGN MORNING
 
-
 **Camera:** 35mm f/2.0 | 2.0m | wide establishing | new apartment with city visible through window
 **Lighting:** Key: blue pre-dawn light through uncurtained window 7000K (blue hour cold) | Fill: single warm lamp 2800K on nightstand creating pool | Rim: city lights through window as bokeh | Shadow 25% (high contrast between warm lamp and cold dawn)
 
-**Aira state:** Standing at window in silk robe (champagne gold), looking out at unfamiliar city skyline, both hands wrapped around steaming mug (comfort object), profile view showing contemplative face. The apartment is sparse — boxes stacked in corner, mattress on floor (new IKEA bed not yet assembled), one framed photo on floor leaning against wall. Expression: soft wide-eyed wonder mixed with the 4 AM "what did I do" questioning. Lips slightly parted in pre-speech (words forming that won't be said aloud). Bare face catching blue-cold window light on one side, warm lamp light on other — dual-temperature face.
+**Aira state:**
+**Body: strictly keep her legs fuller, thighs fuller, arms fuller, fuller chest, perfect flat belly.**
+ Standing at window in silk robe (champagne gold), looking out at unfamiliar city skyline, both hands wrapped around steaming mug (comfort object), profile view showing contemplative face. The apartment is sparse — boxes stacked in corner, mattress on floor (new IKEA bed not yet assembled), one framed photo on floor leaning against wall. Expression: soft wide-eyed wonder mixed with the 4 AM "what did I do" questioning. Lips slightly parted in pre-speech (words forming that won't be said aloud). Bare face catching blue-cold window light on one side, warm lamp light on other — dual-temperature face.
 
 **Kinetic 6 Layers:** 1. Standing in three-quarter profile to camera facing window, weight even, shoulders slightly hunched forward around mug (protective posture) | 2. Steam rising from mug catching cold window light (the only moving element — thin wisps rising and dissipating) | 3. Slow deep breathing visible in shoulder micro-rise (processing breath, not anxious — meditative) | 4. Robe falling with gravity from shoulders, steam rising against gravity, mug weight held in cupped hands | 5. "I moved across the world. In 4 hours someone will ask me my name and it'll sound different in their accent" — residue in the wide-eyed window-gazing and the protective mug-holding | 6. Cold blue exterior light pressing against window glass, warm lamp light holding her from behind — she's between two temperatures (metaphor for between two lives)
 
 ```
-Wide establishing shot Aira, South Asian woman early-mid 20s, standing at uncurtained apartment window in three-quarter profile, medium-warm brown skin catching dual-temperature light (blue pre-dawn 7000K from window on left face, warm 2800K lamp glow from behind on right), champagne gold silk robe draping from slightly hunched shoulders, both hands wrapped around white ceramic mug with visible steam wisps rising and catching blue window light, looking out at unfamiliar city skyline visible through window (modern buildings, distant lights, dawn approaching), expression of soft wide-eyed wonder mixed with questioning — lips slightly parted 3mm in pre-speech, bare face completely natural with visible skin texture and 4AM vulnerability, dark brown-black hair loose and slightly tangled from sleep hanging past shoulders, sparse new apartment behind: stacked moving boxes, mattress on floor with white sheets, single framed photo leaning against wall on floor, warm nightstand lamp creating amber pool, 35mm f/2.0 2.0m wide shot, high contrast 25% between warm interior pool and cold exterior blue, city lights through window as bokeh background, pre-dawn solitude energy, photorealistic new-immigrant morning vulnerability, cinematic dual-temperature atmosphere
+Wide establishing shot Aira, South Asian woman early-mid 20s, standing at uncurtained apartment window in three-quarter profile, medium-warm brown skin catching dual-temperature light (blue pre-dawn 7000K from window on left face, warm 2800K lamp glow from behind on right), champagne gold silk robe draping from slightly hunched shoulders, both hands wrapped around white ceramic mug with visible steam wisps rising and catching blue window light, looking out at unfamiliar city skyline visible through window (modern buildings, distant lights, dawn approaching), expression of soft wide-eyed wonder mixed with questioning — lips slightly parted 3mm in pre-speech, bare face completely natural with visible skin texture and 4AM vulnerability, dark brown-black hair loose and slightly tangled from sleep hanging past shoulders, Body: strictly keep her legs fuller thighs fuller arms fuller fuller chest perfect flat belly, sparse new apartment behind: stacked moving boxes, mattress on floor with white sheets, single framed photo leaning against wall on floor, warm nightstand lamp creating amber pool, 35mm f/2.0 2.0m wide shot, high contrast 25% between warm interior pool and cold exterior blue, city lights through window as bokeh background, pre-dawn solitude energy, photorealistic new-immigrant morning vulnerability, cinematic dual-temperature atmosphere
 ```
+
+---
 
 ### Video Prompt 1 — PRE-DAWN — THE FOREIGN MORNING
 
@@ -993,13 +1072,17 @@ Wide establishing shot Aira, South Asian woman early-mid 20s, standing at uncurt
 **Camera:** 50mm f/1.8 | 0.8m | centered | face-chest (now at tiny bathroom mirror)
 **Lighting:** Bathroom overhead (new apartment generic 4500K) + dawn light growing through bathroom's small frosted window (transitioning blue to pink)
 
+**Body: strictly keep her legs fuller, thighs fuller, arms fuller, fuller chest, perfect flat belly.**
+
 Applying illuminating moisturizer + primer hybrid, pressing into skin with both hands cupping face — the specific "pressing warmth and confidence into skin" gesture. Robe still on but sliding off one shoulder (not noticing). Expression: eyes closed pressing product in (meditative self-care moment), lips in very soft almost-smile (self-soothing). Makeup state: just the base going on — skin transforming from 4AM tired to luminous-from-within as product builds.
 
 **Kinetic 6:** Both hands cupping face pressing product inward and upward (the lifting-pressing technique), eyes closed with lids softly settled (not squeezed — peaceful), breathing deepening into calm as ritual soothes, product settling into skin creating visible luminosity building in real-time, "this ritual is mine regardless of zip code" — residue in the comfort of familiar product on familiar skin (some things travel), dawn light warming through bathroom window creating real-time color temperature shift during the frame.
 
 ```
-Face-chest centered Aira at small bathroom mirror, both hands cupping face pressing illuminating moisturizer-primer into skin — visible luminosity building on medium-warm brown skin from the pressing technique, eyes closed peacefully with lids softly settled, expression of meditative calm with soft almost-smile (self-soothing through ritual), champagne gold silk robe sliding off right shoulder (unnoticed), dark hair loose falling forward around cupped hands, bathroom of new apartment — generic but clean, small frosted window showing dawn transitioning from blue to pink (4500K overhead + growing warm dawn), product sheen building on forehead cheekbones nose bridge creating strategic radiance points, skin transforming from tired to luminous in visible progress, 50mm f/1.8 0.8m centered, overhead generic light mixing with warming dawn, dewy product catching both light sources, eyes-closed peaceful moment of familiar ritual in unfamiliar space, photorealistic skin-luminosity build with visible product texture, grounding self-care GRWM energy
+Face-chest centered Aira at small bathroom mirror, both hands cupping face pressing illuminating moisturizer-primer into skin — visible luminosity building on medium-warm brown skin from the pressing technique, Body: strictly keep her legs fuller thighs fuller arms fuller fuller chest perfect flat belly, eyes closed peacefully with lids softly settled, expression of meditative calm with soft almost-smile (self-soothing through ritual), champagne gold silk robe sliding off right shoulder (unnoticed), dark hair loose falling forward around cupped hands, bathroom of new apartment — generic but clean, small frosted window showing dawn transitioning from blue to pink (4500K overhead + growing warm dawn), product sheen building on forehead cheekbones nose bridge creating strategic radiance points, skin transforming from tired to luminous in visible progress, 50mm f/1.8 0.8m centered, overhead generic light mixing with warming dawn, dewy product catching both light sources, eyes-closed peaceful moment of familiar ritual in unfamiliar space, photorealistic skin-luminosity build with visible product texture, grounding self-care GRWM energy
 ```
+
+---
 
 ### Video Prompt 2 — LUMINOUS SKIN — RADIANCE AS BELONGING
 
@@ -1011,13 +1094,17 @@ Face-chest centered Aira at small bathroom mirror, both hands cupping face press
 
 **Camera:** 75mm f/1.4 | 0.45m | eye-level | eye-area crop
 
+**Body: strictly keep her legs fuller, thighs fuller, arms fuller, fuller chest, perfect flat belly.**
+
 Small flat brush applying warm brown eyeshadow along lash line — thin precise application creating definition without drama. One eye complete (soft brown lash-line shadow and warm transition crease shade), other in progress. Brows groomed with clear gel (brushed up slightly, held in place, natural shape maintained). Dawn light now golden-pink through frosted window adding warmth to the brown shades.
 
 **Kinetic 6:** Flat brush tip making small precise strokes along lash line (2mm horizontal movements following lash root pattern), held breath for precision (near-eye work), warm brown pigment depositing in thin line along lash roots with each stroke, "attention to detail in my work — same as attention to detail on my face" — residue in the particular precision of the lash-line work (professional thoroughness), golden-pink dawn light now strong enough to warm the brown shadows creating harmonious integration.
 
 ```
-Eye-area crop extreme close-up Aira — small flat brush applying warm brown eyeshadow along lower lash line of right eye in precise thin strokes, visible brown pigment depositing at lash roots, left eye complete with soft warm brown lash-line definition and blended warm transition shade in crease (the finished reference), brows groomed with clear gel — brushed up slightly with individual hairs held in natural shape, medium-warm brown skin luminous with base product catching golden-pink dawn light through frosted window, expression of held-breath precision with one eye closed receiving application, dark brown iris of open eye visible with clear-gel-held brow above, 75mm f/1.4 0.45m eye-level centered, bathroom overhead mixing with golden-pink dawn growing through window, warm brown shadow harmonizing with skin undertone and dawn light, extreme shallow DOF with lash-line in critical focus, photorealistic precise-eye-detail with natural warm tones, professional subtle beauty GRWM energy
+Eye-area crop extreme close-up Aira — small flat brush applying warm brown eyeshadow along lower lash line of right eye in precise thin strokes, visible brown pigment depositing at lash roots, left eye complete with soft warm brown lash-line definition and blended warm transition shade in crease (the finished reference), brows groomed with clear gel — brushed up slightly with individual hairs held in natural shape, medium-warm brown skin luminous with base product catching golden-pink dawn light through frosted window, Body: strictly keep her legs fuller thighs fuller arms fuller fuller chest perfect flat belly, expression of held-breath precision with one eye closed receiving application, dark brown iris of open eye visible with clear-gel-held brow above, 75mm f/1.4 0.45m eye-level centered, bathroom overhead mixing with golden-pink dawn growing through window, warm brown shadow harmonizing with skin undertone and dawn light, extreme shallow DOF with lash-line in critical focus, photorealistic precise-eye-detail with natural warm tones, professional subtle beauty GRWM energy
 ```
+
+---
 
 ### Video Prompt 3 — WARM BROWN EYE — SOFT DEFINED CERTAINTY
 
@@ -1030,13 +1117,17 @@ Eye-area crop extreme close-up Aira — small flat brush applying warm brown eye
 **Camera:** 65mm f/1.6 | 0.5m | centered slight low angle | lower face (nose to neck)
 **Lighting:** Dawn now fully golden through window mixing with overhead | Warm balanced
 
+**Body: strictly keep her legs fuller, thighs fuller, arms fuller, fuller chest, perfect flat belly.**
+
 Rose-nude satin lipstick being applied directly from bullet in single confident stroke across lower lip. Upper lip already done (rose-nude with natural satin sheen — not matte, not glossy, the exact "I'm competent and also a person" tone). Pearl stud earring now visible at edge of frame (she's started accessorizing). Hair now straightened and smooth (did the flat iron between frames — time progression).
 
 **Kinetic 6:** Lipstick bullet tracking across lower lip from right to left in single fluid stroke (no hesitation), jaw slightly dropped to present lower lip, comfortable standing breath (the ritual is working — she's calmer now), lipstick bullet obeying gravity at its angle while depositing with contact pressure, "this color works in every continent — that's why I chose it" — residue in the confidence of the single-stroke application (no second-guessing), golden dawn light catching satin finish on lips creating living professional warmth.
 
 ```
-Lower-face crop nose-to-neck Aira — rose-nude satin lipstick bullet tracking across lower lip from right to left in single confident stroke, upper lip complete in rose-nude satin (professional warmth, alive-not-flat), jaw slightly dropped presenting lower lip for application, visible product deposit with satin sheen following bullet path, medium-warm brown skin luminous, straightened dark brown-black hair visible at frame edges (smooth silk-curtain texture, center-parted behind ears), single pearl stud earring visible at left frame edge catching light, neck visible showing single delicate chain, 65mm f/1.6 0.5m centered slight low angle, golden dawn light now streaming through window mixing with overhead creating warm balanced illumination, satin lip finish catching golden light with living professional warmth, rose-nude tone complementing brown skin perfectly (the universal professional color), photorealistic lipstick-application with satin-product-texture detail, growing confidence in single-stroke efficiency
+Lower-face crop nose-to-neck Aira — rose-nude satin lipstick bullet tracking across lower lip from right to left in single confident stroke, upper lip complete in rose-nude satin (professional warmth, alive-not-flat), jaw slightly dropped presenting lower lip for application, visible product deposit with satin sheen following bullet path, medium-warm brown skin luminous, straightened dark brown-black hair visible at frame edges (smooth silk-curtain texture, Body: strictly keep her legs fuller thighs fuller arms fuller fuller chest perfect flat belly, center-parted behind ears), single pearl stud earring visible at left frame edge catching light, neck visible showing single delicate chain, 65mm f/1.6 0.5m centered slight low angle, golden dawn light now streaming through window mixing with overhead creating warm balanced illumination, satin lip finish catching golden light with living professional warmth, rose-nude tone complementing brown skin perfectly (the universal professional color), photorealistic lipstick-application with satin-product-texture detail, growing confidence in single-stroke efficiency
 ```
+
+---
 
 ### Video Prompt 4 — ROSE-NUDE LIP — PROFESSIONAL BUT ALIVE
 
@@ -1048,13 +1139,17 @@ Lower-face crop nose-to-neck Aira — rose-nude satin lipstick bullet tracking a
 
 **Camera:** 50mm f/2.0 | 0.9m | three-quarter | head-to-chest showing getting-dressed progression
 
+**Body: strictly keep her legs fuller, thighs fuller, arms fuller, fuller chest, perfect flat belly.**
+
 Both hands tucking straightened hair behind ears simultaneously, revealing pearl stud earrings (already in) and the full face architecture — the "done" gesture. She's now in the navy silk blouse (partially visible), hair achieving its final "Silk Curtain" look: center-parted, behind both ears, blunt ends at collarbone. Expression: small determined nod to herself (the self-pep-talk physical punctuation).
 
 **Kinetic 6:** Both hands simultaneously sliding hair behind ears in mirror-image gesture (symmetrical self-completion), small determined head-nod (2mm downward, single nod — internal agreement), centering breath-exhale (the "I'm ready" breath), hair strands sliding with finger-guidance behind ear shapes and finding their tuck-position, "chal" (Hindi for "let's go") — the inner word that means she's decided, slipping out as emotional-language default — residue in the nod and the exhale arriving together, golden morning light now fully present creating warm professional illumination on completed face.
 
 ```
-Head-to-chest three-quarter Aira — both hands simultaneously tucking straightened dark brown-black hair behind ears in mirror-image symmetrical gesture, revealing pearl stud earrings catching light at both ears, full face visible with completed "International Confidence" makeup: luminous skin with radiance points at inner corners and cheekbone peaks, soft warm brown eye definition, groomed natural brows with clear gel hold, rose-nude satin lip, center-parted "Silk Curtain" hair straightened with ceramic shine and blunt ends at collarbone, expression of small determined nod — chin 2mm down in single self-agreement beat, eyes meeting own gaze with quiet resolve, navy silk blouse visible tucked at neckline, single delicate chain, 50mm f/2.0 0.9m three-quarter, golden morning light fully present 4800K from window, warm professional illumination, pearl studs as accent focal points framing face symmetrically, photorealistic hair-tuck completion gesture with straightened-silk texture detail, determined self-pep-talk energy
+Head-to-chest three-quarter Aira — both hands simultaneously tucking straightened dark brown-black hair behind ears in mirror-image symmetrical gesture, Body: strictly keep her legs fuller thighs fuller arms fuller fuller chest perfect flat belly, revealing pearl stud earrings catching light at both ears, full face visible with completed "International Confidence" makeup: luminous skin with radiance points at inner corners and cheekbone peaks, soft warm brown eye definition, groomed natural brows with clear gel hold, rose-nude satin lip, center-parted "Silk Curtain" hair straightened with ceramic shine and blunt ends at collarbone, expression of small determined nod — chin 2mm down in single self-agreement beat, eyes meeting own gaze with quiet resolve, navy silk blouse visible tucked at neckline, single delicate chain, 50mm f/2.0 0.9m three-quarter, golden morning light fully present 4800K from window, warm professional illumination, pearl studs as accent focal points framing face symmetrically, photorealistic hair-tuck completion gesture with straightened-silk texture detail, determined self-pep-talk energy
 ```
+
+---
 
 ### Video Prompt 5 — TUCKING HAIR + PEARL STUDS — THE FINISHING DETAILS
 
@@ -1066,13 +1161,17 @@ Head-to-chest three-quarter Aira — both hands simultaneously tucking straighte
 
 **Camera:** 40mm f/2.2 | 1.5m | straight-on 5-degree low angle | three-quarter body with new apartment context
 
+**Body: strictly keep her legs fuller, thighs fuller, arms fuller, fuller chest, perfect flat belly.**
+
 FULL REVEAL: Navy silk blouse tucked into camel high-waisted trousers, tan leather belt, structured crossbody bag on shoulder, nude pointed-toe pumps on. Complete "Silk Curtain" hair. Full "International Confidence" makeup. She's standing in the new apartment with boxes still behind her (the "in progress" life) but she herself is fully complete. City skyline now in full morning gold through window. Expression: calm composed readiness — the face of someone about to introduce herself in a room of strangers.
 
 **Kinetic 6:** Squared posture with professional alignment (spine straight, shoulders back-and-down, chin level), one hand adjusting crossbody bag strap on shoulder (final fidget before departure), deep settling breath (the last private breath before public begins), outfit hanging with gravity and drape on professional posture (blouse tucked smooth, trousers breaking perfectly on pumps, bag strap falling), "I didn't move this far to be small" — residue in the posture (more squared-open than any frame before, taking up space intentionally), full morning gold light streaming through window behind creating warm backlight rim on professional silhouette.
 
 ```
-Three-quarter body Aira, FULL PROFESSIONAL REVEAL in new apartment: navy silk blouse tucked into camel high-waisted tailored trousers with tan leather belt, nude pointed-toe pumps, structured tan crossbody bag on left shoulder, right hand adjusting strap in final-fidget gesture, pearl stud earrings, single delicate chain, straightened "Silk Curtain" dark brown-black hair center-parted behind both ears with blunt ends at collarbone catching light with ceramic shine, full "International Confidence" makeup — luminous radiance-point skin, soft brown defined eye, groomed brows, rose-nude satin lip, expression of calm composed readiness — the face of someone about to introduce herself (neutral confidence, eyes forward, chin level), new apartment behind with stacked moving boxes (life in progress), city skyline through window in full morning gold, straight-on 5-degree low angle 40mm f/2.2 1.5m, morning gold backlight from window creating rim on professional silhouette, warm interior fill, camel-navy-tan-nude professional color palette, photorealistic polished-professional full-look with new-life context, quiet powerful first-day energy
+Three-quarter body Aira, FULL PROFESSIONAL REVEAL in new apartment: navy silk blouse tucked into camel high-waisted tailored trousers with tan leather belt, nude pointed-toe pumps, structured tan crossbody bag on left shoulder, right hand adjusting strap in final-fidget gesture, pearl stud earrings, single delicate chain, straightened "Silk Curtain" dark brown-black hair center-parted behind both ears with blunt ends at collarbone catching light with ceramic shine, Body: strictly keep her legs fuller thighs fuller arms fuller fuller chest perfect flat belly, full "International Confidence" makeup — luminous radiance-point skin, soft brown defined eye, groomed brows, rose-nude satin lip, expression of calm composed readiness — the face of someone about to introduce herself (neutral confidence, eyes forward, chin level), new apartment behind with stacked moving boxes (life in progress), city skyline through window in full morning gold, straight-on 5-degree low angle 40mm f/2.2 1.5m, morning gold backlight from window creating rim on professional silhouette, warm interior fill, camel-navy-tan-nude professional color palette, photorealistic polished-professional full-look with new-life context, quiet powerful first-day energy
 ```
+
+---
 
 ### Video Prompt 6 — FULL LOOK — PROFESSIONAL IN A NEW WORLD
 
@@ -1084,13 +1183,17 @@ Three-quarter body Aira, FULL PROFESSIONAL REVEAL in new apartment: navy silk bl
 
 **Camera:** 28mm f/2.2 | 3.0m | following behind at distance | full body on new-city street
 
+**Body: strictly keep her legs fuller, thighs fuller, arms fuller, fuller chest, perfect flat belly.**
+
 The finale: she's outside now, walking down an unfamiliar city street in morning gold. Full outfit head-to-toe visible from behind/three-quarter as she walks away from camera INTO the new city. Unfamiliar architecture, different trees, foreign language on shop signs (subtle). She's mid-stride with professional purpose — crossbody bag, pumps clicking, hair swinging with straightened precision, posture impeccable. This is the "walk into the unknown as if you belong" shot.
 
 **Kinetic 6:** Professional walking stride in pointed pumps (measured, confident pace), structured bag bouncing subtly against hip with each step, morning city air on face and blouse fabric (new climate, new air, different humidity), straightened hair swinging with uniform pendulum motion from walk, "every expert was once a beginner. Every local was once new." — residue in the stride that's 5% too precise (someone controlling their body language because they know they're being assessed by a new world), morning gold sunlight casting long shadow ahead of her (she walks toward her own future-shadow) on unfamiliar pavement with different texture than home.
 
 ```
-Full-body following shot from behind at 3.0m distance — Aira walking away from camera down unfamiliar city street in morning gold, mid-stride with professional purpose, navy silk blouse visible at shoulders tucked into camel trousers, tan leather belt, nude pumps mid-step, structured tan crossbody bag at hip bouncing subtly with stride, straightened "Silk Curtain" dark hair swinging in uniform pendulum from walk, pearl studs catching morning sun, long morning shadow cast ahead of her on unfamiliar pavement, new-city architecture (European/modern mix, different from home — subtle foreign shop signs, different tree species, unfamiliar street textures), other pedestrians at distance (establishing she's one-of-many in new city but compositionally isolated in frame), morning gold 4800K sunlight creating long shadows and warm rim on walking figure, 28mm f/2.2 3.0m following distance, wide enough to show city context around her walking figure, camel-navy-tan-gold color palette harmonizing with golden-hour city tones, photorealistic new-city-morning with architectural context and morning commute energy, the "walking into unknown with purpose" cinematic finale, GRWM payoff — she's ready and she's going
+Body: strictly keep her legs fuller thighs fuller arms fuller fuller chest perfect flat belly. Full-body following shot from behind at 3.0m distance — Aira walking away from camera down unfamiliar city street in morning gold, mid-stride with professional purpose, navy silk blouse visible at shoulders tucked into camel trousers, tan leather belt, nude pumps mid-step, structured tan crossbody bag at hip bouncing subtly with stride, straightened "Silk Curtain" dark hair swinging in uniform pendulum from walk, pearl studs catching morning sun, long morning shadow cast ahead of her on unfamiliar pavement, new-city architecture (European/modern mix, different from home — subtle foreign shop signs, different tree species, unfamiliar street textures), other pedestrians at distance (establishing she's one-of-many in new city but compositionally isolated in frame), morning gold 4800K sunlight creating long shadows and warm rim on walking figure, 28mm f/2.2 3.0m following distance, wide enough to show city context around her walking figure, camel-navy-tan-gold color palette harmonizing with golden-hour city tones, photorealistic new-city-morning with architectural context and morning commute energy, the "walking into unknown with purpose" cinematic finale, GRWM payoff — she's ready and she's going
 ```
+
+---
 
 ### Video Prompt 7 — STEPPING OUT — THE UNFAMILIAR STREETS
 
@@ -1120,7 +1223,6 @@ Full-body following shot from behind at 3.0m distance — Aira walking away from
 
 ### Prompt 1 — THE APPROACH — DISTANT FIGURE IN GOLDEN GEOMETRY
 
-
 **Setting detail:** Grand hotel lobby from far end — cream marble floor with gold veining patterns catching overhead amber light, high vaulted ceiling with three amber glass pendant fixtures creating warm pools, arched windows (5m tall) on right wall streaming golden-hour sunlight in dramatic diagonal shafts that cut across the floor. The space is mostly empty — one distant staff member at reception desk (soft focus), one figure crossing far background. Gold-framed mirrors on left wall. At the FAR end of this lobby: Aira, walking toward camera. Small. Architectural. The lobby is the frame and she is the subject entering it.
 
 **Camera:** 85mm f/2.0 | 15m distance (compressed perspective) | eye-level | centered symmetrical lobby composition with Aira as small central figure approaching
@@ -1128,6 +1230,7 @@ Full-body following shot from behind at 3.0m distance — Aira walking away from
 **Lighting:** Key: golden-hour sun streaming through arched windows from camera-right at 30-degree angle creating dramatic floor-light shafts | Fill: ambient marble-bounce warmth (cream marble reflects warm light everywhere) | Rim: pendant lights from above creating hair-and-shoulder warm pools | Shadow density: 30% (dramatic architectural shadows from window frames and light shafts) | Speculars: marble floor reflections, gold-frame mirror catches, pendant light amber glow on surfaces
 
 **Aira — Pose/Motion/Expression/Hair/Makeup State:**
+**Body: strictly keep her legs fuller, thighs fuller, arms fuller, fuller chest, perfect flat belly.**
 - Walking toward camera from far end of lobby — captured mid-stride but small in frame (environmental storytelling)
 - Full cream silk slip dress flowing with stride, gold strappy sandals, gold box clutch in left hand at thigh level
 - Expression (readable even at distance through body language): confident unhurried walk, chin level, posture open
@@ -1149,11 +1252,12 @@ Full-body following shot from behind at 3.0m distance — Aira walking away from
 
 **Audio sync:** Heels on marble (rhythmic, echoing in high-ceiling space), ambient hotel reverb (distant murmur, no distinct voices), soft cello note beginning — a single sustained warm tone.
 
----
 
 ```
-Grand hotel lobby symmetrical composition — high vaulted ceiling with three amber glass pendant fixtures, cream marble floor with gold veining catching warm light, 5m-tall arched windows on right streaming dramatic golden-hour diagonal light shafts across floor, gold-framed mirrors on left wall, Aira as central approaching figure at far end — South Asian woman early-mid 20s walking toward camera mid-stride, floor-length cream silk slip dress flowing with movement, gold strappy sandals, gold box clutch in left hand at thigh, right arm in natural walking swing showing gold cuff bracelet, dark brown-black hair in "Polished Wave" old-Hollywood soft waves falling behind shoulders with volume at crown, full warm makeup visible even at distance — luminous gilded skin, she's walking THROUGH a golden light shaft — dramatic illumination band crossing her torso and face creating cinematic pool of gold on her figure against slightly shadowed lobby surroundings, 85mm f/2.0 compressed perspective from 15m, symmetrical centered composition with architectural frame (lobby as cathedral-like context for human figure), 30% dramatic shadows from window frames, marble floor reflections beneath her, amber pendant lights creating warm pools, golden-amber-cream dominant color palette, highlights pushed to 96% in light shafts, deep warm lifted shadows, photorealistic luxury hotel architecture with small confident figure approaching through golden geometry, cinematic establishing beauty-in-motion shot
+Grand hotel lobby symmetrical composition — high vaulted ceiling with three amber glass pendant fixtures, cream marble floor with gold veining catching warm light, 5m-tall arched windows on right streaming dramatic golden-hour diagonal light shafts across floor, gold-framed mirrors on left wall, Aira as central approaching figure at far end — South Asian woman early-mid 20s walking toward camera mid-stride, floor-length cream silk slip dress flowing with movement, gold strappy sandals, gold box clutch in left hand at thigh, right arm in natural walking swing showing gold cuff bracelet, dark brown-black hair in "Polished Wave" old-Hollywood soft waves falling behind shoulders with volume at crown, Body: strictly keep her legs fuller thighs fuller arms fuller fuller chest perfect flat belly, full warm makeup visible even at distance — luminous gilded skin, she's walking THROUGH a golden light shaft — dramatic illumination band crossing her torso and face creating cinematic pool of gold on her figure against slightly shadowed lobby surroundings, 85mm f/2.0 compressed perspective from 15m, symmetrical centered composition with architectural frame (lobby as cathedral-like context for human figure), 30% dramatic shadows from window frames, marble floor reflections beneath her, amber pendant lights creating warm pools, golden-amber-cream dominant color palette, highlights pushed to 96% in light shafts, deep warm lifted shadows, photorealistic luxury hotel architecture with small confident figure approaching through golden geometry, cinematic establishing beauty-in-motion shot
 ```
+
+---
 
 ### Video Prompt 1 — THE APPROACH — DISTANT FIGURE IN GOLDEN GEOMETRY
 
@@ -1165,17 +1269,20 @@ Grand hotel lobby symmetrical composition — high vaulted ceiling with three am
 
 ### Prompt 2 — MID-LOBBY — THE CLUTCH OPENS (product reveal)
 
-
 **Camera:** 50mm f/1.8 | 4m distance | three-quarter angle camera-left | waist-up as she walks past camera position (she's closer now)
 **Lighting:** Golden hour direct on face now (she's moved into full light) | Fill: marble bounce 50% | Rim: pendant above | Shadow 20%
 
-**Aira state:** Mid-stride, now closer — left hand smoothly unclasping gold box clutch without looking down (muscle memory), right hand reaching toward opening clutch to retrieve something. Expression: forward-looking confidence with the barest glance downward (1 degree eye drop) acknowledging the clutch opening. Hair in full motion — waves flowing back from walking speed. Full makeup visible now: the "Gilded Hour" look luminous in direct golden light but she's about to add to it. Cream blush compact emerging from clutch — rose gold case catching light before we fully see it.
+**Aira state:**
+**Body: strictly keep her legs fuller, thighs fuller, arms fuller, fuller chest, perfect flat belly.**
+ Mid-stride, now closer — left hand smoothly unclasping gold box clutch without looking down (muscle memory), right hand reaching toward opening clutch to retrieve something. Expression: forward-looking confidence with the barest glance downward (1 degree eye drop) acknowledging the clutch opening. Hair in full motion — waves flowing back from walking speed. Full makeup visible now: the "Gilded Hour" look luminous in direct golden light but she's about to add to it. Cream blush compact emerging from clutch — rose gold case catching light before we fully see it.
 
 **Kinetic 6:** Walking stride continuing unbroken (this is the KEY of beauty ads in motion — NOTHING stops her walking), left thumb popping clutch clasp while fingers hold clutch steady (two actions in one hand), comfortable confident breathing (she's not thinking about the product retrieval — it's reflex), clutch contents obeying gravity as clasp opens (compact naturally rising to top being the densest item), "she doesn't need a mirror for this. She doesn't need to stop for this." — residue in the zero-hesitation of the clutch open and product retrieve while in full stride, golden hour now directly on her face from right window angles creating warm dramatic key.
 
 ```
-Waist-up three-quarter Aira mid-stride in hotel lobby — closer now (4m), left hand smoothly unclasping gold box clutch with thumb popping clasp while walking (muscle-memory gesture), right hand reaching toward opening clutch, cream blush compact in rose gold case emerging — catching golden light on its metallic surface (product reveal moment), expression of forward-looking confidence with barely perceptible 1-degree eye drop toward clutch, walking stride unbroken with cream silk dress flowing and catching direct golden-hour light creating living satin surface, dark brown-black "Polished Wave" hair flowing backward from walk with organized curl ends visible in motion, full "Gilded Hour" makeup luminous in direct golden light — warm skin with gold shimmer at temples defined lashes nude-pink lip with sheen, gold cuff bracelet on right reaching wrist, gold long earrings swinging with stride, marble lobby environment with golden light flooding from right arched windows, 50mm f/1.8 4m three-quarter left, direct golden-hour key on face, marble bounce fill 50%, pendant rim light, 20% shadow, rose gold compact case as specular focal point catching multiple light sources, photorealistic luxury mid-lobby product-retrieval-in-stride, elegant effortless beauty-ad motion
+Body: strictly keep her legs fuller thighs fuller arms fuller fuller chest perfect flat belly. Waist-up three-quarter Aira mid-stride in hotel lobby — closer now (4m), left hand smoothly unclasping gold box clutch with thumb popping clasp while walking (muscle-memory gesture), right hand reaching toward opening clutch, cream blush compact in rose gold case emerging — catching golden light on its metallic surface (product reveal moment), expression of forward-looking confidence with barely perceptible 1-degree eye drop toward clutch, walking stride unbroken with cream silk dress flowing and catching direct golden-hour light creating living satin surface, dark brown-black "Polished Wave" hair flowing backward from walk with organized curl ends visible in motion, full "Gilded Hour" makeup luminous in direct golden light — warm skin with gold shimmer at temples defined lashes nude-pink lip with sheen, gold cuff bracelet on right reaching wrist, gold long earrings swinging with stride, marble lobby environment with golden light flooding from right arched windows, 50mm f/1.8 4m three-quarter left, direct golden-hour key on face, marble bounce fill 50%, pendant rim light, 20% shadow, rose gold compact case as specular focal point catching multiple light sources, photorealistic luxury mid-lobby product-retrieval-in-stride, elegant effortless beauty-ad motion
 ```
+
+---
 
 ### Video Prompt 2 — MID-LOBBY — THE CLUTCH OPENS (product reveal)
 
@@ -1187,17 +1294,20 @@ Waist-up three-quarter Aira mid-stride in hotel lobby — closer now (4m), left 
 
 ### Prompt 3 — COMPACT FLIP — MIRROR AND PRODUCT IN ONE GESTURE
 
-
 **Camera:** 75mm f/1.6 | 2m | chest-up moving with her (tracking shot) | slight low angle 5 degrees
 **Lighting:** Golden hour from right + marble bounce + pendant warm from above
+
+**Body: strictly keep her legs fuller, thighs fuller, arms fuller, fuller chest, perfect flat belly.**
 
 THE KEY PRODUCT MOMENT: Walking steadily, she flips the compact open with one hand (left thumb, practiced gesture) — rose gold case opening to reveal the mirror inside the lid and the warm peachy-rose cream blush in the pan. The compact mirror catches a flash of golden lobby light (specular moment). Right hand's index finger already moving toward the product surface. Her face visible above the open compact — chin slightly down to use the mirror (but still walking, still moving, never stopping).
 
 **Kinetic 6:** Walking tracking shot (camera moves WITH her), left hand flipping compact open with single thumb-hinge motion (the satisfying click-open), right index finger descending toward product surface with purposeful precision, breathing easy (this is a one-handed touch-up reflex for her), compact hinge opening with mechanical satisfaction, rose gold surfaces catching multiple angles of golden light simultaneously, "the product fits her life in motion — it doesn't ask her to stop" — residue in the absolute fluidity (open compact, load finger, apply — all while walking, all without looking at feet or surroundings because she trusts her stride), golden lobby light reflecting off compact mirror back up onto her chin/jaw as secondary fill.
 
 ```
-Chest-up tracking shot Aira walking — compact open in left hand, rose gold case flipped revealing mirror in lid (catching golden lobby light as specular flash reflected upward) and warm peachy-rose cream blush visible in pan, right hand's index finger descending toward product surface to pick up color, chin slightly down to use compact mirror (but STILL WALKING — body in mid-stride visible from chest motion), cream silk slip dress shoulder and neckline visible, dark "Polished Wave" hair in walking-motion behind shoulders, gold cuff bracelet on right wrist catching light as hand moves toward compact, gold long earring visible below hair with slight forward-swing from stride, full "Gilded Hour" makeup luminous — the warm cheek that's ABOUT to get touched up slightly visible in golden light, facial expression of graceful practiced efficiency (no concentration-face — this is reflex), lobby golden-hour environment streaming past in soft bokeh motion-blur, 75mm f/1.6 2m tracking slight low angle 5 degrees, golden light from right catching rose gold compact surfaces, compact mirror reflecting golden uplight onto chin and jaw, pendant warm light from above, photorealistic product-moment-in-motion with luxury compact detail and walking-stride continuity, elegant beauty-ad hero product shot
+Body: strictly keep her legs fuller thighs fuller arms fuller fuller chest perfect flat belly. Chest-up tracking shot Aira walking — compact open in left hand, rose gold case flipped revealing mirror in lid (catching golden lobby light as specular flash reflected upward) and warm peachy-rose cream blush visible in pan, right hand's index finger descending toward product surface to pick up color, chin slightly down to use compact mirror (but STILL WALKING — body in mid-stride visible from chest motion), cream silk slip dress shoulder and neckline visible, dark "Polished Wave" hair in walking-motion behind shoulders, gold cuff bracelet on right wrist catching light as hand moves toward compact, gold long earring visible below hair with slight forward-swing from stride, full "Gilded Hour" makeup luminous — the warm cheek that's ABOUT to get touched up slightly visible in golden light, facial expression of graceful practiced efficiency (no concentration-face — this is reflex), lobby golden-hour environment streaming past in soft bokeh motion-blur, 75mm f/1.6 2m tracking slight low angle 5 degrees, golden light from right catching rose gold compact surfaces, compact mirror reflecting golden uplight onto chin and jaw, pendant warm light from above, photorealistic product-moment-in-motion with luxury compact detail and walking-stride continuity, elegant beauty-ad hero product shot
 ```
+
+---
 
 ### Video Prompt 3 — COMPACT FLIP — MIRROR AND PRODUCT IN ONE GESTURE
 
@@ -1209,17 +1319,20 @@ Chest-up tracking shot Aira walking — compact open in left hand, rose gold cas
 
 ### Prompt 4 — THE SINGLE TOUCH — PRODUCT MEETS CHEEK (while walking)
 
-
 **Camera:** 85mm f/1.4 | 1.2m | straight-on tight face (tracking continues) | face-and-compact crop
 **Lighting:** Golden hour direct on face (she's in full light shaft) | Fill: compact mirror bounce from below | Rim: pendant warm | Shadow 15%
+
+**Body: strictly keep her legs fuller, thighs fuller, arms fuller, fuller chest, perfect flat belly.**
 
 THE APPLICATION MOMENT: Right index finger, loaded with warm peachy-rose cream blush, touching her right cheekbone in a single upward press-and-blend motion. Left hand still holding open compact at chest height. Face: chin still slightly down toward compact mirror, but EYES forward (she's not watching herself — she's doing this by feel while walking). The product on her cheek catches golden light the instant it deposits, creating the "fresh flush just appeared" moment.
 
 **Kinetic 6:** Right index finger pressing and sweeping upward on cheekbone (single 3cm motion from apple to temple direction), still walking (background tracking proves motion), the specific press-to-blend pressure of cream product (firm initial deposit then feathering lighter), compact in left hand with slight walk-sway (not perfectly still — it's in a walking hand), "one touch changes everything" — residue in how THE SINGLE GESTURE transforms the cheek from beautiful to radiant (the product's story is efficiency + impact), golden light hitting the freshly deposited blush creating an IMMEDIATE warm glow visible at the point of application.
 
 ```
-Tight face-and-compact crop tracking Aira — right index finger touching right cheekbone in upward press-and-blend motion, visible warm peachy-rose cream blush depositing on medium-warm brown skin at point of contact (the instant of product-meets-cheek), left hand holding open rose gold compact at chest height with slight walk-sway (not perfectly still — motion proof), face with chin slightly down but eyes forward (not watching herself — applying by feel), full "Gilded Hour" makeup luminous with the RIGHT CHEEK now showing EXTRA warm flush at point of application (freshly deposited product catching golden light immediately), left cheek for comparison slightly less flushed (the before/after built into one face), dark "Polished Wave" hair flowing in walk-motion, gold earring, lobby streaming past in bokeh behind proving continuous walking motion, 85mm f/1.4 1.2m straight-on tracking, golden-hour light direct on face catching fresh product deposit with immediate radiance glow, compact mirror from below adding secondary fill-light on chin/jaw, pendant rim from above, 15% shadow, photorealistic cream-blush-deposit-on-skin texture — visible product catch of light at exact point of contact, beauty-ad APPLICATION HERO FRAME, elegant in-motion product-on-cheek payoff
+Tight face-and-compact crop tracking Aira — right index finger touching right cheekbone in upward press-and-blend motion, visible warm peachy-rose cream blush depositing on medium-warm brown skin at point of contact (the instant of product-meets-cheek), Body: strictly keep her legs fuller thighs fuller arms fuller fuller chest perfect flat belly, left hand holding open rose gold compact at chest height with slight walk-sway (not perfectly still — motion proof), face with chin slightly down but eyes forward (not watching herself — applying by feel), full "Gilded Hour" makeup luminous with the RIGHT CHEEK now showing EXTRA warm flush at point of application (freshly deposited product catching golden light immediately), left cheek for comparison slightly less flushed (the before/after built into one face), dark "Polished Wave" hair flowing in walk-motion, gold earring, lobby streaming past in bokeh behind proving continuous walking motion, 85mm f/1.4 1.2m straight-on tracking, golden-hour light direct on face catching fresh product deposit with immediate radiance glow, compact mirror from below adding secondary fill-light on chin/jaw, pendant rim from above, 15% shadow, photorealistic cream-blush-deposit-on-skin texture — visible product catch of light at exact point of contact, beauty-ad APPLICATION HERO FRAME, elegant in-motion product-on-cheek payoff
 ```
+
+---
 
 ### Video Prompt 4 — THE SINGLE TOUCH — PRODUCT MEETS CHEEK (while walking)
 
@@ -1231,17 +1344,20 @@ Tight face-and-compact crop tracking Aira — right index finger touching right 
 
 ### Prompt 5 — COMPACT SNAP CLOSED — MISSION COMPLETE IN MOTION
 
-
 **Camera:** 60mm f/1.8 | 2.5m | three-quarter camera-right (new angle — she's passed camera) | shoulders-to-knees showing walking body + hands with compact
 **Lighting:** Golden hour from behind now (she's walked past the light source) creating backlight | Fill: forward marble bounce | Rim: golden backlight on hair and shoulders | Shadow 18%
+
+**Body: strictly keep her legs fuller, thighs fuller, arms fuller, fuller chest, perfect flat belly.**
 
 The satisfying SNAP of compact closing — left hand folding it shut in one motion while right hand sweeps hair behind shoulder (the post-touch-up hair-clear gesture). Compact being slid back into clutch without looking. She never broke stride. The touch-up took 4 seconds total. Expression (three-quarter): the small satisfied almost-smile of someone whose routine serves her movement, never the reverse.
 
 **Kinetic 6:** Left hand snapping compact closed (hinge mechanism audible click in marble reverb), right hand simultaneously sweeping hair behind right shoulder in clearing gesture, continuing to walk (feet visible from this framing, proving unbroken stride), compact settling back into clutch with practiced slide, "she's already past it — product served its moment and returned to rest" — residue in how quickly the compact disappears (no lingering, no admiring — used and stored in one breath), golden backlight now creating dramatic rim on her walking figure (she's moved through the light into the next zone).
 
 ```
-Shoulders-to-knees three-quarter camera-right Aira — left hand snapping rose gold compact closed mid-motion (visible at exact moment of lid closing — edges about to meet), right hand simultaneously sweeping dark "Polished Wave" hair behind right shoulder in clearing gesture, both hands occupied with different graceful post-touch-up actions, still walking (gold strappy sandals visible mid-step on marble floor), cream silk slip dress catching dramatic golden backlight from behind creating luminous rim on shoulders hips fabric edges, gold cuff bracelet on right hair-sweeping wrist catching backlight, open gold clutch at left side receiving the closing compact, full walking body visible with unbroken stride proving she never stopped, lobby receding behind with golden light shafts, floor marble reflecting her figure from below, 60mm f/1.8 2.5m three-quarter right, golden backlight from behind creating dramatic rim/halo on walking figure, forward marble bounce fill, 18% shadow, rose gold compact at exact-moment-of-closing (satisfying geometric precision of lid meeting pan), photorealistic post-touch-up-in-stride with dual-gesture elegance, beauty-ad efficiency payoff
+Body: strictly keep her legs fuller thighs fuller arms fuller fuller chest perfect flat belly. Shoulders-to-knees three-quarter camera-right Aira — left hand snapping rose gold compact closed mid-motion (visible at exact moment of lid closing — edges about to meet), right hand simultaneously sweeping dark "Polished Wave" hair behind right shoulder in clearing gesture, both hands occupied with different graceful post-touch-up actions, still walking (gold strappy sandals visible mid-step on marble floor), cream silk slip dress catching dramatic golden backlight from behind creating luminous rim on shoulders hips fabric edges, gold cuff bracelet on right hair-sweeping wrist catching backlight, open gold clutch at left side receiving the closing compact, full walking body visible with unbroken stride proving she never stopped, lobby receding behind with golden light shafts, floor marble reflecting her figure from below, 60mm f/1.8 2.5m three-quarter right, golden backlight from behind creating dramatic rim/halo on walking figure, forward marble bounce fill, 18% shadow, rose gold compact at exact-moment-of-closing (satisfying geometric precision of lid meeting pan), photorealistic post-touch-up-in-stride with dual-gesture elegance, beauty-ad efficiency payoff
 ```
+
+---
 
 ### Video Prompt 5 — COMPACT SNAP CLOSED — MISSION COMPLETE IN MOTION
 
@@ -1253,17 +1369,20 @@ Shoulders-to-knees three-quarter camera-right Aira — left hand snapping rose g
 
 ### Prompt 6 — THROUGH THE GOLDEN DOORS — EXIT INTO THE CITY
 
-
 **Camera:** 35mm f/2.2 | 5m | wide straight-on from outside looking IN (camera is on the street) | full body + hotel doors framing her as she walks through them
 **Lighting:** Key: city golden-hour from outside (behind camera) flooding IN through doors | Fill: hotel interior amber glow behind her | Rim: door-frame gold catching edge | Shadow 22% (dramatic door-frame shadows)
+
+**Body: strictly keep her legs fuller, thighs fuller, arms fuller, fuller chest, perfect flat belly.**
 
 THE FINALE: She's walking through the grand hotel's gold-framed glass doors (being held open by doorman barely visible at edge) out into the city evening. Full body visible head-to-toe in the door frame — cream dress, gold accessories, "Polished Wave" hair, freshly touched-up "Gilded Hour" face with that perfect warm blush catching the outside golden light. The city street is visible around her (evening traffic, warm-lit buildings, golden atmosphere). The compact's work is done — she carries its effect into the world.
 
 **Kinetic 6:** Walking through door threshold (one foot inside hotel marble, one stepping onto city sidewalk — the transition moment), entire body in forward motion with silk dress flowing through door frame, the breath of a different atmosphere (city air meeting hotel conditioning — implied temperature shift), dress fabric responding to outdoor air current (subtle billowing not present indoors), "she's taking the lobby confidence into the open world" — residue in the unchanged stride (the same pace indoors and out — no hesitation at threshold), evening golden-hour city light meeting hotel amber creating the ultimate warm color palette as she crosses between two golden worlds.
 
 ```
-Wide shot from outside looking IN through hotel gold-framed glass doors — Aira walking through threshold toward camera (one gold sandal on hotel marble, other stepping onto city sidewalk — transitional stride), full body head-to-toe visible FRAMED by ornate gold hotel door frame like a living painting, floor-length cream silk slip dress catching both interior amber hotel light and exterior golden-hour city light creating dual-warm illumination, dress fabric subtly billowing from outdoor air current meeting indoor AC, gold strappy sandals gold clutch (closed, compact inside) gold cuff bracelet gold long earrings all catching various light angles, dark "Polished Wave" hair flowing with outdoor breeze beginning to interact with it, full "Gilded Hour" makeup radiant — the warm cream blush on cheeks catching outside golden light perfectly (product payoff visible on her face even from this distance), expression of quiet satisfied confidence walking into city evening, city street visible around door frame (warm-lit buildings, evening traffic, golden atmosphere), doorman barely visible at frame edge holding door, 35mm f/2.2 5m wide straight-on from street, city golden-hour from behind camera flooding through doors, hotel amber glow behind her creating warm backlight, door-frame gold catching edges, 22% dramatic shadow, dual-golden-world color palette (hotel amber + city golden-hour = ultimate warmth), photorealistic hotel-to-city-transition with doorframe-as-portrait-frame composition, beauty-ad cinematic finale — product companion to her world, not reason to stop in it
+Body: strictly keep her legs fuller thighs fuller arms fuller fuller chest perfect flat belly. Wide shot from outside looking IN through hotel gold-framed glass doors — Aira walking through threshold toward camera (one gold sandal on hotel marble, other stepping onto city sidewalk — transitional stride), full body head-to-toe visible FRAMED by ornate gold hotel door frame like a living painting, floor-length cream silk slip dress catching both interior amber hotel light and exterior golden-hour city light creating dual-warm illumination, dress fabric subtly billowing from outdoor air current meeting indoor AC, gold strappy sandals gold clutch (closed, compact inside) gold cuff bracelet gold long earrings all catching various light angles, dark "Polished Wave" hair flowing with outdoor breeze beginning to interact with it, full "Gilded Hour" makeup radiant — the warm cream blush on cheeks catching outside golden light perfectly (product payoff visible on her face even from this distance), expression of quiet satisfied confidence walking into city evening, city street visible around door frame (warm-lit buildings, evening traffic, golden atmosphere), doorman barely visible at frame edge holding door, 35mm f/2.2 5m wide straight-on from street, city golden-hour from behind camera flooding through doors, hotel amber glow behind her creating warm backlight, door-frame gold catching edges, 22% dramatic shadow, dual-golden-world color palette (hotel amber + city golden-hour = ultimate warmth), photorealistic hotel-to-city-transition with doorframe-as-portrait-frame composition, beauty-ad cinematic finale — product companion to her world, not reason to stop in it
 ```
+
+---
 
 ### Video Prompt 6 — THROUGH THE GOLDEN DOORS — EXIT INTO THE CITY
 
@@ -1293,17 +1412,20 @@ Wide shot from outside looking IN through hotel gold-framed glass doors — Aira
 
 ### Prompt 1 — BLUE HOUR STREET — SHE EMERGES FROM THE CITY
 
-
 **Camera:** 50mm f/1.8 | 10m | eye-level | centered on wet street (pavement reflections leading to her approaching figure)
 **Lighting:** Key: ambient blue-hour sky 9000K (deep blue overhead) | Fill: distant neon signs (pink/amber warm accents reflecting on wet asphalt) | Rim: street lamp behind her 4000K creating silver-white edge | Shadow 35% (deep blue-hour shadows) | Speculars: EVERYWHERE on wet surfaces — asphalt, her coat, her boots, rain on face
 
-**Aira state:** Walking toward camera from ~10m — emerging from blue-hour depth, her black coat making her almost silhouette-like against the deeper blue behind. Long confident stride, black boots splashing minimally on wet pavement. Expression not yet readable (distance) but body language: purposeful, unhurried, owning the empty street. Rain has stopped but everything is wet — including her.
+**Aira state:**
+**Body: strictly keep her legs fuller, thighs fuller, arms fuller, fuller chest, perfect flat belly.**
+ Walking toward camera from ~10m — emerging from blue-hour depth, her black coat making her almost silhouette-like against the deeper blue behind. Long confident stride, black boots splashing minimally on wet pavement. Expression not yet readable (distance) but body language: purposeful, unhurried, owning the empty street. Rain has stopped but everything is wet — including her.
 
 **Kinetic 6:** 1. Walking stride with slight extra width (avoiding puddles with elegant routing — she knows this street) | 2. Coat hem swinging with stride at knee level, catching distant neon in wet-wool surface | 3. Deep steady breathing visible as very faint breath-vapor in cool evening air | 4. Rain-weight on coat making it hang heavier, wet hair slightly heavier with moisture, boots making wet-contact sound with each step | 5. She walks like someone who chose the rain — not caught in it, companion to it | 6. Blue-hour ambient painting her entirely in cool spectrum, wet surfaces reflecting her motion as rippling color patches on asphalt
 
 ```
-Wet city street at blue hour — rain-soaked asphalt reflecting deep blue-violet sky and distant pink/amber neon signs creating long wet reflections leading into frame, Aira approaching from 10m distance as dark figure emerging from blue-hour depth, long black structured wool coat (slightly wet, heavy with rain-weight), black turtleneck, dark indigo jeans, black leather ankle boots mid-step on wet pavement, dark brown-black hair pushed back from face slightly dampened with rain-mist — natural texture enhanced by moisture with pieces beginning to curl at temples, minimal makeup visible even at distance: cool-toned skin, no eye color, natural groomed brows, body language confident and unhurried — purposeful stride owning empty wet street, very faint breath vapor in cool air, long black coat almost making her silhouette-like against deeper blue behind, street lamp behind her creating silver-white rim edge on shoulders and head, wet asphalt reflecting her approaching figure as dark rippling shape, blue-indigo-violet dominant palette with warm neon accents only as distant reflected points, 50mm f/1.8 10m eye-level centered, 35% deep blue shadows, specular highlights everywhere on wet surfaces, photorealistic rain-wet-city atmosphere at blue hour, moody urban beauty-ad opening, cinematic approach from darkness
+Wet city street at blue hour — rain-soaked asphalt reflecting deep blue-violet sky and distant pink/amber neon signs creating long wet reflections leading into frame, Aira approaching from 10m distance as dark figure emerging from blue-hour depth, long black structured wool coat (slightly wet, heavy with rain-weight), black turtleneck, dark indigo jeans, black leather ankle boots mid-step on wet pavement, dark brown-black hair pushed back from face slightly dampened with rain-mist — natural texture enhanced by moisture with pieces beginning to curl at temples, Body: strictly keep her legs fuller thighs fuller arms fuller fuller chest perfect flat belly, minimal makeup visible even at distance: cool-toned skin, no eye color, natural groomed brows, body language confident and unhurried — purposeful stride owning empty wet street, very faint breath vapor in cool air, long black coat almost making her silhouette-like against deeper blue behind, street lamp behind her creating silver-white rim edge on shoulders and head, wet asphalt reflecting her approaching figure as dark rippling shape, blue-indigo-violet dominant palette with warm neon accents only as distant reflected points, 50mm f/1.8 10m eye-level centered, 35% deep blue shadows, specular highlights everywhere on wet surfaces, photorealistic rain-wet-city atmosphere at blue hour, moody urban beauty-ad opening, cinematic approach from darkness
 ```
+
+---
 
 ### Video Prompt 1 — BLUE HOUR STREET — SHE EMERGES FROM THE CITY
 
@@ -1315,17 +1437,20 @@ Wet city street at blue hour — rain-soaked asphalt reflecting deep blue-violet
 
 ### Prompt 2 — CLOSER — THE COAT POCKET REACH
 
-
 **Camera:** 75mm f/1.6 | 4m | chest-up three-quarter | tracking with her stride
 **Lighting:** Blue-hour ambient + now passing under warm street lamp (4000K warm pool momentarily) | Mixed temperature on face
+
+**Body: strictly keep her legs fuller, thighs fuller, arms fuller, fuller chest, perfect flat belly.**
 
 Closer now — face visible in mixed light. Right hand sliding into coat pocket with casual deliberateness. Expression: cool neutral (not cold — calm), eyes forward, mouth in natural closed state (the "before" of the untinted lip). Skin slightly dewy from rain-mist — droplets visible on coat shoulders and one on her cheekbone. Hair: wet-slicked back, humidity curls forming at temple.
 
 **Kinetic 6:** Right hand disappearing into deep coat pocket (her elbow angle tells the story of reaching), walking stride continuous, passing under street lamp creating real-time warm-to-cool-to-warm light transition on her face, rain-mist droplets sitting on coat wool and one on her left cheekbone catching passing warm lamplight, "she knows what she's reaching for" — anticipatory energy in the purposeful hand-into-pocket gesture (not searching — going directly to the item), warm pool of street lamp passing over her face momentarily breaking the blue monotone.
 
 ```
-Chest-up three-quarter tracking Aira — closer now at 4m, right hand sliding into deep black coat pocket (elbow angle showing purposeful reach not casual resting), face visible in mixed light: passing under warm street lamp 4000K creating momentary warm pool on blue-hour face, expression cool neutral calm — eyes forward mouth in natural closed state (untinted natural lip color as "before"), medium-warm brown skin slightly dewy from rain-mist — one visible rain droplet on left cheekbone catching warm lamp light as specular point, coat shoulders showing rain droplets on black wool surface, dark brown-black hair wet-slicked back from face revealing full bone structure — high cheekbones strong jaw, humidity curls forming at temples and nape, one thin silver ring visible on right hand entering pocket, 75mm f/1.6 4m chest-up three-quarter tracking, mixed blue-hour 9000K and passing warm lamp 4000K creating dual-temperature face, wet-city environment streaming in soft bokeh behind, rain on surfaces catching mixed lights, photorealistic rain-mist-on-skin with specular droplet detail, urban beauty-ad pocket-reach moment (anticipation building)
+Chest-up three-quarter tracking Aira — closer now at 4m, right hand sliding into deep black coat pocket (elbow angle showing purposeful reach not casual resting), face visible in mixed light: passing under warm street lamp 4000K creating momentary warm pool on blue-hour face, expression cool neutral calm — eyes forward mouth in natural closed state (untinted natural lip color as "before"), medium-warm brown skin slightly dewy from rain-mist — one visible rain droplet on left cheekbone catching warm lamp light as specular point, coat shoulders showing rain droplets on black wool surface, dark brown-black hair wet-slicked back from face revealing full bone structure — high cheekbones strong jaw, Body: strictly keep her legs fuller thighs fuller arms fuller fuller chest perfect flat belly, humidity curls forming at temples and nape, one thin silver ring visible on right hand entering pocket, 75mm f/1.6 4m chest-up three-quarter tracking, mixed blue-hour 9000K and passing warm lamp 4000K creating dual-temperature face, wet-city environment streaming in soft bokeh behind, rain on surfaces catching mixed lights, photorealistic rain-mist-on-skin with specular droplet detail, urban beauty-ad pocket-reach moment (anticipation building)
 ```
+
+---
 
 ### Video Prompt 2 — CLOSER — THE COAT POCKET REACH
 
@@ -1337,17 +1462,20 @@ Chest-up three-quarter tracking Aira — closer now at 4m, right hand sliding in
 
 ### Prompt 3 — PRODUCT EMERGES — BLACK TUBE AGAINST BLUE CITY
 
-
 **Camera:** 65mm f/1.6 | 2.5m | centered tracking | chest-to-head
 **Lighting:** Blue-hour ambient (back to full cool after passing lamp) + distant neon pink reflecting on tube surface | Shadow 30%
+
+**Body: strictly keep her legs fuller, thighs fuller, arms fuller, fuller chest, perfect flat belly.**
 
 Right hand emerging from pocket holding the tinted lip balm tube — sleek black cylinder catching whatever light exists on its surface. She's pulling it up toward her face with practiced ease while continuing to walk. Left hand adjusts coat collar slightly (the "settling in for a moment" gesture). The black tube against the blue-violet city backdrop — minimal, architectural.
 
 **Kinetic 6:** Right hand lifting tube from pocket to face-height in single smooth arc (3 seconds to travel from pocket to lip-level), left hand touching coat collar in brief adjustment (fabric contact then release), walking stride maintained, product surface catching blue ambient and one distant neon-pink reflection creating a hint of the warmth inside, "the product is dark and minimal outside — the surprise is in the color when it opens/applies" — contrast-story building, blue-hour air cool on her exposed face making the eventual warm product application more dramatic.
 
 ```
-Chest-to-head centered tracking Aira — right hand holding sleek black cylindrical lip balm tube lifted from pocket, tube at mid-chest height rising toward face, black minimal product catching blue-hour ambient light on its surface with one distant neon-pink reflection creating hint of warmth on tube's glossy cylinder, left hand at coat collar making brief adjustment gesture, expression unchanged — cool forward gaze with calm confidence, walking body visible in stride motion, dark "Wet City" hair pushed back revealing bone structure, rain-mist dewiness on skin catching blue ambient, coat collar framing lower face, deep blue-violet city backdrop with wet asphalt reflections and distant neon, 65mm f/1.6 2.5m centered tracking, full blue-hour 9000K cool atmosphere, product as minimal black architectural object against blue world, 30% deep shadows, photorealistic product-in-hand against urban night, beauty-ad product-emergence with contrast-of-warmth-to-come
+Body: strictly keep her legs fuller thighs fuller arms fuller fuller chest perfect flat belly. Chest-to-head centered tracking Aira — right hand holding sleek black cylindrical lip balm tube lifted from pocket, tube at mid-chest height rising toward face, black minimal product catching blue-hour ambient light on its surface with one distant neon-pink reflection creating hint of warmth on tube's glossy cylinder, left hand at coat collar making brief adjustment gesture, expression unchanged — cool forward gaze with calm confidence, walking body visible in stride motion, dark "Wet City" hair pushed back revealing bone structure, rain-mist dewiness on skin catching blue ambient, coat collar framing lower face, deep blue-violet city backdrop with wet asphalt reflections and distant neon, 65mm f/1.6 2.5m centered tracking, full blue-hour 9000K cool atmosphere, product as minimal black architectural object against blue world, 30% deep shadows, photorealistic product-in-hand against urban night, beauty-ad product-emergence with contrast-of-warmth-to-come
 ```
+
+---
 
 ### Video Prompt 3 — PRODUCT EMERGES — BLACK TUBE AGAINST BLUE CITY
 
@@ -1359,17 +1487,20 @@ Chest-to-head centered tracking Aira — right hand holding sleek black cylindri
 
 ### Prompt 4 — APPLICATION — WARM BERRY-ROSE CUTS THROUGH BLUE
 
-
 **Camera:** 85mm f/1.4 | 1.0m | tight face straight-on tracking | the hero application moment
 **Lighting:** Blue-hour cool ambient + product color itself becoming a warm focal point on her face | Shadow 25% | One distant warm neon creating rim on right ear/jaw edge
+
+**Body: strictly keep her legs fuller, thighs fuller, arms fuller, fuller chest, perfect flat belly.**
 
 THE APPLICATION: She twists the tube up (visible mechanism motion) revealing warm berry-rose balm tip, and applies it directly to lower lip in single right-to-left stroke while WALKING. The berry-rose color on her lips is THE ONLY WARM TONE in the entire frame — it glows against the blue world like a small fire. Eyes forward, not watching herself (no mirror needed — she's done this a thousand times by feel).
 
 **Kinetic 6:** Right hand holding tube to lower lip — single horizontal stroke right-to-left depositing berry-rose color, walking (visible by subtle head-bob rhythm and background motion), balm tip creating smooth drag across lip surface (visible product deposit), "the color enters the frame like heat entering a cold room — immediate contrast, immediate focal point" — the warm berry-rose against blue-violet skin and blue city is DRAMATIC color contrast, blue-hour cool air meeting the warm-colored lip creates conceptual temperature contrast.
 
 ```
-Tight face straight-on tracking Aira — tinted lip balm tube at lower lip, warm berry-rose balm tip visible making contact with lower lip in application stroke, THE HERO MOMENT: berry-rose color depositing on lower lip becoming THE ONLY WARM TONE in entire blue-dominated frame — warm color glowing against cool blue-hour-lit medium-warm brown skin like small fire in cold, upper lip still natural (lower first — showing the before/after on one face), eyes forward not watching herself (applying by feel, no mirror, done a thousand times), expression of cool unbothered confidence during application, dark "Wet City" hair pushed back slicked with rain showing bone structure, skin dewy-cool with blue-hour light, rain droplet on coat collar, thin silver ring on hand holding tube, one distant warm neon creating subtle rim on right ear and jaw edge, entire frame in blue-indigo-violet EXCEPT the berry-rose balm and its deposit on lip (intentional dramatic color contrast), 85mm f/1.4 1.0m tight straight-on tracking, deep blue-hour 9000K ambient, 25% shadow, product color as compositional warm focal point against cold world, photorealistic tinted-balm-application-on-lip with visible product-deposit-color against blue-dominant frame, beauty-ad APPLICATION HERO with maximum warm/cool color contrast
+Tight face straight-on tracking Aira — tinted lip balm tube at lower lip, warm berry-rose balm tip visible making contact with lower lip in application stroke, THE HERO MOMENT: berry-rose color depositing on lower lip becoming THE ONLY WARM TONE in entire blue-dominated frame — warm color glowing against cool blue-hour-lit medium-warm brown skin like small fire in cold, Body: strictly keep her legs fuller thighs fuller arms fuller fuller chest perfect flat belly, upper lip still natural (lower first — showing the before/after on one face), eyes forward not watching herself (applying by feel, no mirror, done a thousand times), expression of cool unbothered confidence during application, dark "Wet City" hair pushed back slicked with rain showing bone structure, skin dewy-cool with blue-hour light, rain droplet on coat collar, thin silver ring on hand holding tube, one distant warm neon creating subtle rim on right ear and jaw edge, entire frame in blue-indigo-violet EXCEPT the berry-rose balm and its deposit on lip (intentional dramatic color contrast), 85mm f/1.4 1.0m tight straight-on tracking, deep blue-hour 9000K ambient, 25% shadow, product color as compositional warm focal point against cold world, photorealistic tinted-balm-application-on-lip with visible product-deposit-color against blue-dominant frame, beauty-ad APPLICATION HERO with maximum warm/cool color contrast
 ```
+
+---
 
 ### Video Prompt 4 — APPLICATION — WARM BERRY-ROSE CUTS THROUGH BLUE
 
@@ -1381,17 +1512,20 @@ Tight face straight-on tracking Aira — tinted lip balm tube at lower lip, warm
 
 ### Prompt 5 — LIPS PRESS — THE COLOR DISTRIBUTES
 
-
 **Camera:** 75mm f/1.6 | 1.5m | slight three-quarter left tracking | face-and-upper-body
 **Lighting:** Blue-hour ambient + she's approaching another warm light source (maybe shop window) creating growing warmth from left
+
+**Body: strictly keep her legs fuller, thighs fuller, arms fuller, fuller chest, perfect flat belly.**
 
 Post-application: she's pressed her lips together (the balm-distribution gesture), tube already sliding back into pocket with right hand. Expression: the tiny shift — the barest almost-smile playing at the corners of her now-tinted lips. The berry-rose color is now on BOTH lips (transferred from press) and catching whatever light exists. She's still walking, heading toward a warm shop-window glow that's growing from her left.
 
 **Kinetic 6:** Lips finishing their press-and-release (the specific lip-to-lip motion that distributes balm evenly), right hand returning tube to pocket (reverse of the retrieval — practiced, fluid), walking stride unchanged, balm settling into lip texture creating comfortable non-sticky sheen, "she likes how this feels — one corner lifts" — residue in the barest smile (1mm) that proves the product earned its moment without demanding center stage, approaching warm shop-window light growing from left beginning to warm the blue palette at frame edge.
 
 ```
-Face-and-upper-body slight three-quarter left tracking Aira — lips in post-press settling state (balm freshly distributed across both lips in warm berry-rose with comfortable sheen), berry-rose color now on BOTH lips catching ambient light with organic warm glow against blue-dominant face, right hand sliding tinted lip balm tube back into coat pocket in smooth practiced return gesture, barest 1mm almost-smile at corners of tinted lips (the post-application satisfaction), eyes forward continuing city-walk gaze, dark "Wet City" hair with humidity curls, dewy rain-mist skin in blue-hour cool, warm shop-window glow beginning to grow from left side casting amber onto left edge of frame and left cheekbone (new warmth entering), still walking — coat in motion boots implied below frame, thin silver ring on right hand catching shop warmth as hand returns to pocket, 75mm f/1.6 1.5m three-quarter left tracking, blue-hour dominant with growing warm shop-light from left (dual temperature shifting), berry-rose lips as warm focal point with shop-glow as environmental echo, photorealistic post-application settling with lip-sheen-catching-light, beauty-ad post-application satisfaction with subtle smile
+Body: strictly keep her legs fuller thighs fuller arms fuller fuller chest perfect flat belly. Face-and-upper-body slight three-quarter left tracking Aira — lips in post-press settling state (balm freshly distributed across both lips in warm berry-rose with comfortable sheen), berry-rose color now on BOTH lips catching ambient light with organic warm glow against blue-dominant face, right hand sliding tinted lip balm tube back into coat pocket in smooth practiced return gesture, barest 1mm almost-smile at corners of tinted lips (the post-application satisfaction), eyes forward continuing city-walk gaze, dark "Wet City" hair with humidity curls, dewy rain-mist skin in blue-hour cool, warm shop-window glow beginning to grow from left side casting amber onto left edge of frame and left cheekbone (new warmth entering), still walking — coat in motion boots implied below frame, thin silver ring on right hand catching shop warmth as hand returns to pocket, 75mm f/1.6 1.5m three-quarter left tracking, blue-hour dominant with growing warm shop-light from left (dual temperature shifting), berry-rose lips as warm focal point with shop-glow as environmental echo, photorealistic post-application settling with lip-sheen-catching-light, beauty-ad post-application satisfaction with subtle smile
 ```
+
+---
 
 ### Video Prompt 5 — LIPS PRESS — THE COLOR DISTRIBUTES
 
@@ -1403,17 +1537,20 @@ Face-and-upper-body slight three-quarter left tracking Aira — lips in post-pre
 
 ### Prompt 6 — INTO THE BLUE — SHE DISAPPEARS WITH WARMTH
 
-
 **Camera:** 50mm f/2.0 | 8m distance | wide from behind/three-quarter back | full body walking away into blue city depth
 **Lighting:** Blue-hour full ambient from ahead (she walks INTO the blue), warm lamp she just passed behind camera creating receding warm rim, distant city lights as bokeh | Shadow 30%
+
+**Body: strictly keep her legs fuller, thighs fuller, arms fuller, fuller chest, perfect flat belly.**
 
 FINALE: Camera now BEHIND her as she walks AWAY into the blue-violet city depth. Full body from behind — black coat, black boots, wet asphalt reflecting her figure, she's disappearing into the city blue. But what remains: the afterimage of that warm berry-rose lip color. Even from behind, the faintest three-quarter-turn hint of profile shows the warm lip against the cold. She walks deeper into the city, the street narrowing ahead of her, blue intensifying. The product's warmth travels with her.
 
 **Kinetic 6:** Walking away from camera into depth — stride consistent with all previous frames (we know this walk now), coat swinging at knees with each step in rain-heavy fabric, rain-misted hair at nape with humidity curls catching what light remains, boots splashing minimally on wet asphalt (the sound receding with distance), "the last thing you see is the warmth — and it stays" — the product's berry-rose visible for one last moment in three-quarter profile hint as she slightly turns at a corner, wet asphalt reflecting her receding figure in blue-tinged rippling abstraction below.
 
 ```
-Wide from behind/three-quarter back Aira walking AWAY into blue-violet city depth at 8m distance — full body receding: long black wool coat swinging at knees with stride, black leather boots on wet rain-soaked asphalt, wet street reflecting her figure as dark rippling blue shape, dark "Wet City" hair at nape with humidity curls visible against black coat collar, she's slightly turning her head (3-degree profile hint) showing the FAINTEST glimpse of berry-rose tinted lip against blue atmosphere (the warmth's last visible moment), city street narrowing ahead with blue-violet intensity deepening in distance, wet asphalt reflecting distant city lights as long colored streaks leading into depth, warm lamp BEHIND camera position creating receding warm rim-edge on her shoulders and bag, rain-wet surfaces everywhere catching blue ambient, 50mm f/2.0 8m wide from behind, full blue-hour depth with figure disappearing into it, 30% deep shadows, her figure becoming one with the city night except for that one warm color note at lip (the product traveling with her), photorealistic city-disappearance with wet-street-reflection and receding-figure, beauty-ad cinematic close — she walks into the world carrying warmth, the blue world absorbs her but cannot cool the product's glow
+Body: strictly keep her legs fuller thighs fuller arms fuller fuller chest perfect flat belly. Wide from behind/three-quarter back Aira walking AWAY into blue-violet city depth at 8m distance — full body receding: long black wool coat swinging at knees with stride, black leather boots on wet rain-soaked asphalt, wet street reflecting her figure as dark rippling blue shape, dark "Wet City" hair at nape with humidity curls visible against black coat collar, she's slightly turning her head (3-degree profile hint) showing the FAINTEST glimpse of berry-rose tinted lip against blue atmosphere (the warmth's last visible moment), city street narrowing ahead with blue-violet intensity deepening in distance, wet asphalt reflecting distant city lights as long colored streaks leading into depth, warm lamp BEHIND camera position creating receding warm rim-edge on her shoulders and bag, rain-wet surfaces everywhere catching blue ambient, 50mm f/2.0 8m wide from behind, full blue-hour depth with figure disappearing into it, 30% deep shadows, her figure becoming one with the city night except for that one warm color note at lip (the product traveling with her), photorealistic city-disappearance with wet-street-reflection and receding-figure, beauty-ad cinematic close — she walks into the world carrying warmth, the blue world absorbs her but cannot cool the product's glow
 ```
+
+---
 
 ### Video Prompt 6 — INTO THE BLUE — SHE DISAPPEARS WITH WARMTH
 
@@ -1443,15 +1580,18 @@ Wide from behind/three-quarter back Aira walking AWAY into blue-violet city dept
 
 ### Prompt 1 — MARKET AWAKENING (she hasn't appeared yet)
 
-
 **Camera:** 28mm f/2.2 | 4m | wide establishing | market stalls with golden-pink dawn cutting through
 **Lighting:** Key: dawn sun extremely low angle 4200K (warm pink-gold) cutting horizontally through market canopy gaps | Fill: ambient dawn-sky 35% | Rim: none | Shadow 28% (long shadows from low sun angle, dramatic)
+
+**Body: strictly keep her legs fuller, thighs fuller, arms fuller, fuller chest, perfect flat belly.**
 
 NO AIRA YET — establishing the world: flower market coming alive. Buckets overflowing with orange marigolds, pink roses, white jasmine garlands being strung, loose petals on wet stone floor catching dawn light. A vendor's hand arranging stems (out of focus foreground). Water dripping from fresh cuts. Steam from nearby chai stall visible in dawn light shaft. The world is sensory-rich before she enters it.
 
 ```
-Wide establishing shot flower market at dawn — NO HUMAN SUBJECT CENTER, pure environment: rows of metal bucket-stands overflowing with orange marigolds, deep pink roses, white jasmine garlands being strung between stalls, tuberose bundles, loose petals scattered on wet grey stone floor catching extremely low dawn light 4200K warm pink-gold cutting through canopy gaps in dramatic horizontal shafts, vendor's weathered hand at left frame edge arranging rose stems (out of focus foreground element), water droplets dripping from fresh-cut stems catching light as tiny gold sparkles, steam from chai stall visible in dawn light shaft (volumetric warm haze), wet stone floor reflecting golden light and flower colors, metal buckets with condensation, simple canvas stall canopies creating shadow/light patterns, birds visible in high background, the sensory overload of an early-morning flower market — color everywhere (orange, pink, white, green stems, golden light), 28mm f/2.2 4m wide, extremely low dawn angle creating long dramatic shadows and horizontal light shafts through market, 28% shadow density, warm pink-gold dominant palette with rich flower-color accents, photorealistic dawn flower-market atmosphere without main subject — establishing sensory world BEFORE the protagonist enters, beauty-ad world-building opening
+Body: strictly keep her legs fuller thighs fuller arms fuller fuller chest perfect flat belly. Wide establishing shot flower market at dawn — NO HUMAN SUBJECT CENTER, pure environment: rows of metal bucket-stands overflowing with orange marigolds, deep pink roses, white jasmine garlands being strung between stalls, tuberose bundles, loose petals scattered on wet grey stone floor catching extremely low dawn light 4200K warm pink-gold cutting through canopy gaps in dramatic horizontal shafts, vendor's weathered hand at left frame edge arranging rose stems (out of focus foreground element), water droplets dripping from fresh-cut stems catching light as tiny gold sparkles, steam from chai stall visible in dawn light shaft (volumetric warm haze), wet stone floor reflecting golden light and flower colors, metal buckets with condensation, simple canvas stall canopies creating shadow/light patterns, birds visible in high background, the sensory overload of an early-morning flower market — color everywhere (orange, pink, white, green stems, golden light), 28mm f/2.2 4m wide, extremely low dawn angle creating long dramatic shadows and horizontal light shafts through market, 28% shadow density, warm pink-gold dominant palette with rich flower-color accents, photorealistic dawn flower-market atmosphere without main subject — establishing sensory world BEFORE the protagonist enters, beauty-ad world-building opening
 ```
+
+---
 
 ### Video Prompt 1 — MARKET AWAKENING (she hasn't appeared yet)
 
@@ -1463,17 +1603,20 @@ Wide establishing shot flower market at dawn — NO HUMAN SUBJECT CENTER, pure e
 
 ### Prompt 2 — SHE ENTERS — WALKING THROUGH COLOR
 
-
 **Camera:** 50mm f/1.8 | 5m | three-quarter angle | she appears at market entrance walking between first row of stalls
 **Lighting:** Dawn 4200K from behind-right (she walks toward camera from light source) creating warm backlight | Fill: flower-color bounce (orange from marigolds reflecting warm onto white shirt) | Rim: dawn sun rim on hair and left shoulder | Shadow 22%
+
+**Body: strictly keep her legs fuller, thighs fuller, arms fuller, fuller chest, perfect flat belly.**
 
 AIRA APPEARS: walking between the first row of flower stalls, white linen shirt catching early light and flower-color reflections. She's moving with curious slow-walk energy — looking around at the market with soft morning wonder, but still in MOTION (never stopping). Right hand at side, left hand at mid-body holding the frosted glass mist bottle casually (product introduced but not yet in use — she's carrying it like she carries it everywhere). Her hair wild and free catching dawn backlight as golden halo at edges.
 
 **Kinetic 6:** Slow curious walking stride between stall rows (not rushing, absorbing), head turning 15 degrees right to look at a rose bucket (engaged with environment while moving), market morning air cool on skin (implied goosebumps on arms in rolled-up sleeves), mist bottle in left hand with practiced grip (it's a daily carry, not a prop — it belongs to her hand), "she exists in this market as someone who woke up and walked here — the product comes because she does" — residue in the casual carry of the mist bottle (not presenting it, just having it), dawn sun creating warm rim-halo on wild hair edges making her edges glow against shadowed market behind.
 
 ```
-Three-quarter Aira appearing at flower market entrance — walking between first row of bucket-stalls in morning curiosity slow-stride, South Asian woman early-mid 20s in white oversized linen shirt (rolled sleeves showing forearms, two buttons undone showing collarbone), faded light-wash straight jeans, white canvas sneakers (slightly dirty), dark brown-black hair in "Morning Wild" natural free texture — uncombed volume and wave catching dawn backlight as golden halo at edges, tucked loosely behind right ear, thin gold nose pin catching light on left nostril, bare minimal makeup (tinted moisturizer glow, natural brows, barely-tinted lips), head turned 15 degrees right looking at bucket of deep pink roses with soft morning wonder, LEFT HAND holding frosted glass setting mist bottle casually at mid-body (product introduced — carried not presented), right hand at side relaxed, orange marigold bucket-reflections casting warm tone onto white shirt fabric, stalls overflowing with flowers on both sides, wet stone floor with scattered petals, dawn sun 4200K from behind-right creating warm rim on hair and left shoulder, flower-color bounce fill, 50mm f/1.8 5m three-quarter, 22% shadow, market-sensory backdrop of color with her white-shirted figure as clean contrast, photorealistic market-walk with casual product-carry, beauty-ad protagonist-entry with environmental engagement
+Three-quarter Aira appearing at flower market entrance — walking between first row of bucket-stalls in morning curiosity slow-stride, South Asian woman early-mid 20s in white oversized linen shirt (rolled sleeves showing forearms, two buttons undone showing collarbone), faded light-wash straight jeans, white canvas sneakers (slightly dirty), dark brown-black hair in "Morning Wild" natural free texture — uncombed volume and wave catching dawn backlight as golden halo at edges, Body: strictly keep her legs fuller thighs fuller arms fuller fuller chest perfect flat belly, tucked loosely behind right ear, thin gold nose pin catching light on left nostril, bare minimal makeup (tinted moisturizer glow, natural brows, barely-tinted lips), head turned 15 degrees right looking at bucket of deep pink roses with soft morning wonder, LEFT HAND holding frosted glass setting mist bottle casually at mid-body (product introduced — carried not presented), right hand at side relaxed, orange marigold bucket-reflections casting warm tone onto white shirt fabric, stalls overflowing with flowers on both sides, wet stone floor with scattered petals, dawn sun 4200K from behind-right creating warm rim on hair and left shoulder, flower-color bounce fill, 50mm f/1.8 5m three-quarter, 22% shadow, market-sensory backdrop of color with her white-shirted figure as clean contrast, photorealistic market-walk with casual product-carry, beauty-ad protagonist-entry with environmental engagement
 ```
+
+---
 
 ### Video Prompt 2 — SHE ENTERS — WALKING THROUGH COLOR
 
@@ -1485,17 +1628,20 @@ Three-quarter Aira appearing at flower market entrance — walking between first
 
 ### Prompt 3 — THE MIST BOTTLE LIFT — PREPARING IN STRIDE
 
-
 **Camera:** 65mm f/1.6 | 2m | chest-up centered tracking | walking through mid-market
 **Lighting:** Dawn now slightly higher — cutting through canopy in specific shaft that she's about to walk into | Warm 4500K with pink undertones
+
+**Body: strictly keep her legs fuller, thighs fuller, arms fuller, fuller chest, perfect flat belly.**
 
 Mid-market now — she's surrounded by flowers at shoulder height on both sides. Left hand lifting the frosted glass mist bottle from casual carry to face-height. Her right hand coming up to shield her eyes from a sudden dawn light shaft she's about to walk through (practical gesture that becomes cinematic). The mist bottle catching dawn light on its frosted glass surface — luminous, beautiful object. A loose marigold petal falls from a stall beside her (caught in air, mid-fall).
 
 **Kinetic 6:** Left hand lifting mist bottle in smooth arc from hip to face-height, right hand rising to brow-shade position (dawn light ahead), walking into approaching light shaft (about to be illuminated), mist bottle's frosted glass catching light progressively as it rises (growing luminous from bottom to top as it enters light), "the lift is unhurried — she'll spritz when the light is right" — residue in the timing (she knows the light is about to hit her face and THAT'S when she'll mist), marigold petal falling from stall catching air resistance (slow tumbling descent beside her shoulder).
 
 ```
-Chest-up centered tracking Aira mid-market — left hand lifting frosted glass setting mist bottle from hip-carry to face height (mid-arc, bottle at chest level rising), right hand rising to brow-shade position against approaching dawn light shaft ahead, flowers at shoulder height on both sides (orange marigolds left, white jasmine right — flanking color), single loose marigold petal mid-fall caught in air beside right shoulder (orange against her white shirt), frosted glass bottle catching progressive dawn light as it rises — growing luminous from base to top, wild "Morning Wild" hair volume framing face with dawn-lit edges, thin gold nose pin catching light, expression of comfortable anticipation — eyes forward with slight squint against growing light, mouth in soft natural almost-smile, white linen shirt with one sleeve pushed higher revealing more forearm, 65mm f/1.6 2m centered tracking, dawn 4500K with pink undertones cutting through canopy shaft she's approaching, flowers as colorful bokeh at sides, mist bottle as luminous glass object catching growing light, photorealistic market-mid-walk with product-elevation-toward-use, beauty-ad building-toward-hero-moment
+Body: strictly keep her legs fuller thighs fuller arms fuller fuller chest perfect flat belly. Chest-up centered tracking Aira mid-market — left hand lifting frosted glass setting mist bottle from hip-carry to face height (mid-arc, bottle at chest level rising), right hand rising to brow-shade position against approaching dawn light shaft ahead, flowers at shoulder height on both sides (orange marigolds left, white jasmine right — flanking color), single loose marigold petal mid-fall caught in air beside right shoulder (orange against her white shirt), frosted glass bottle catching progressive dawn light as it rises — growing luminous from base to top, wild "Morning Wild" hair volume framing face with dawn-lit edges, thin gold nose pin catching light, expression of comfortable anticipation — eyes forward with slight squint against growing light, mouth in soft natural almost-smile, white linen shirt with one sleeve pushed higher revealing more forearm, 65mm f/1.6 2m centered tracking, dawn 4500K with pink undertones cutting through canopy shaft she's approaching, flowers as colorful bokeh at sides, mist bottle as luminous glass object catching growing light, photorealistic market-mid-walk with product-elevation-toward-use, beauty-ad building-toward-hero-moment
 ```
+
+---
 
 ### Video Prompt 3 — THE MIST BOTTLE LIFT — PREPARING IN STRIDE
 
@@ -1507,17 +1653,20 @@ Chest-up centered tracking Aira mid-market — left hand lifting frosted glass s
 
 ### Prompt 4 — THE SPRITZ — DEW MEETS DAWN LIGHT (hero product moment)
 
-
 **Camera:** 85mm f/1.4 | 1.0m | tight face straight-on | THE MOMENT — she's in the light shaft now
 **Lighting:** Full dawn shaft hitting her face directly 4500K warm pink-gold | Fill: flower bounce warm | Rim: dawn from behind at edges | THE MIST CATCHING LIGHT: micro-droplets suspended in dawn shaft creating visible spray-cloud of golden-lit dew particles
+
+**Body: strictly keep her legs fuller, thighs fuller, arms fuller, fuller chest, perfect flat belly.**
 
 THE HERO FRAME: She's in the light shaft. Left hand has brought mist bottle to face height, fingers pressing pump — VISIBLE SPRAY CLOUD in air between bottle and face, each micro-droplet catching dawn light like tiny floating gold particles. Her face mid-receiving-mist — eyes closed in the specific "mist hitting face" expression (relaxed pleasure, slight brow-lift of "ahh" sensation), lips parted 4mm. The spray creates a VISIBLE DEW CLOUD in the dawn light shaft — dozens of tiny golden-lit droplets suspended between product and skin. One marigold petal crossing behind the spray (serendipitous color accent).
 
 **Kinetic 6:** Left hand pressing pump mechanism (finger compressing visible), spray emerging as fine mist cone from nozzle, face receiving mist with eyes closed and slight head-tilt-back (5 degrees, receiving gesture), micro-droplets suspended in air catching dawn light (gravitational pause before reaching skin), "the product moment meets the environmental moment — dawn light + fine mist = visible magic" — the spray cloud is the advertisement in one frame, dawn light heating her face while cool mist particles arrive creating temperature-contrast pleasure (warm sun + cool mist = sensory layering).
 
 ```
-Tight face straight-on THE HERO FRAME — Aira in full dawn light shaft, left hand holding frosted glass mist bottle at face height pressing pump mechanism, VISIBLE FINE SPRAY CLOUD between bottle nozzle and face — dozens of micro-droplets suspended in golden dawn light catching warm pink-gold as individual tiny luminous particles creating magical dew-cloud, face mid-receiving-mist with eyes closed in relaxed pleasure expression (slight brow-lift of "ahh" sensation), lips parted 4mm, head tilted back 5 degrees in receiving gesture, medium-warm brown skin already luminous now CATCHING MIST droplets that create instant dewier highlights, dark "Morning Wild" hair wild and free with dawn-lit golden edges, thin gold nose pin, one orange marigold petal crossing behind the spray cloud (serendipitous color accent in air), white linen shirt collar visible at bottom frame, full direct dawn light 4500K warm pink-gold hitting face creating dramatic warm illumination, micro-droplet spray catching this light as golden suspended particles (the visible magic), 85mm f/1.4 1.0m tight straight-on, spray cloud as visible luminous phenomenon in dawn light, face in receiving-bliss expression, photorealistic fine-mist-catching-light with individual droplet rendering in dawn shaft, BEAUTY AD HERO PRODUCT FRAME — spray as golden visible magic, sensory pleasure expression, dawn-as-lighting-partner
+Tight face straight-on THE HERO FRAME — Aira in full dawn light shaft, left hand holding frosted glass mist bottle at face height pressing pump mechanism, VISIBLE FINE SPRAY CLOUD between bottle nozzle and face — dozens of micro-droplets suspended in golden dawn light catching warm pink-gold as individual tiny luminous particles creating magical dew-cloud, face mid-receiving-mist with eyes closed in relaxed pleasure expression (slight brow-lift of "ahh" sensation), lips parted 4mm, head tilted back 5 degrees in receiving gesture, medium-warm brown skin already luminous now CATCHING MIST droplets that create instant dewier highlights, Body: strictly keep her legs fuller thighs fuller arms fuller fuller chest perfect flat belly, dark "Morning Wild" hair wild and free with dawn-lit golden edges, thin gold nose pin, one orange marigold petal crossing behind the spray cloud (serendipitous color accent in air), white linen shirt collar visible at bottom frame, full direct dawn light 4500K warm pink-gold hitting face creating dramatic warm illumination, micro-droplet spray catching this light as golden suspended particles (the visible magic), 85mm f/1.4 1.0m tight straight-on, spray cloud as visible luminous phenomenon in dawn light, face in receiving-bliss expression, photorealistic fine-mist-catching-light with individual droplet rendering in dawn shaft, BEAUTY AD HERO PRODUCT FRAME — spray as golden visible magic, sensory pleasure expression, dawn-as-lighting-partner
 ```
+
+---
 
 ### Video Prompt 4 — THE SPRITZ — DEW MEETS DAWN LIGHT (hero product moment)
 
@@ -1529,17 +1678,20 @@ Tight face straight-on THE HERO FRAME — Aira in full dawn light shaft, left ha
 
 ### Prompt 5 — DEW SETTLES — THE GLOW IS SET
 
-
 **Camera:** 70mm f/1.6 | 1.5m | three-quarter left | face-and-shoulders walking
 **Lighting:** Still in light shaft area but moving through it | Dawn 4500K direct + warm ambient
+
+**Body: strictly keep her legs fuller, thighs fuller, arms fuller, fuller chest, perfect flat belly.**
 
 Post-spritz: eyes opening from receiving-bliss, visible DEW GLOW on skin (micro-droplets sitting on surface before being absorbed creating glass-skin-plus luminosity at its peak). Left hand lowering mist bottle back to casual carry position. She's already walking again (or never stopped — the spritz happened in motion). Expression: refreshed, awake, subtly energized — the "ahh" relaxation now transitioning to morning-alert brightness. The dew on her skin is catching dawn light at every micro-point creating a constellation of tiny highlights across her face.
 
 **Kinetic 6:** Eyes opening (lids rising slowly from mist-pleasure), left hand descending with bottle back to casual hip-carry, walking stride resuming/continuing, micro-droplets on skin surface sitting before absorption (visible as tiny highlight points for this brief moment), "the product has changed her skin surface in one gesture — visible proof of efficacy without words" — the glow IS the advertisement, dawn light catching micro-droplets on skin surface creating real-time dew-constellation that will absorb over the next 10 seconds (we see the peak moment).
 
 ```
-Face-and-shoulders three-quarter left Aira — post-spritz with eyes opening from receiving-bliss (lids half-risen in slow opening), visible CONSTELLATION OF MICRO-DROPLETS on skin surface catching dawn light as tiny individual highlight points across cheekbones forehead nose bridge (glass-skin-plus peak luminosity — the mist still visible ON skin before absorption), left hand lowering mist bottle back toward hip in descending arc, expression transitioning from relaxed pleasure to refreshed alert brightness, skin GLOWING with unprecedented dewiness — every high point catching dawn light through mist droplets creating extreme luminosity, dark "Morning Wild" hair wild around face with dawn-lit edges, flower stalls visible in warm bokeh behind (market context maintained), white linen shirt, walking body-motion implied by three-quarter angle and slight lean, dawn 4500K direct with warm ambient fill, 70mm f/1.6 1.5m three-quarter left, micro-droplets as visible tiny specular points across entire face surface (the before/after proof — SHE GLOWS NOW), photorealistic fresh-dewy-skin with individual-droplet-highlights-visible, beauty-ad post-application PROOF — the glow is the evidence, dawn light is the witness
+Body: strictly keep her legs fuller thighs fuller arms fuller fuller chest perfect flat belly. Face-and-shoulders three-quarter left Aira — post-spritz with eyes opening from receiving-bliss (lids half-risen in slow opening), visible CONSTELLATION OF MICRO-DROPLETS on skin surface catching dawn light as tiny individual highlight points across cheekbones forehead nose bridge (glass-skin-plus peak luminosity — the mist still visible ON skin before absorption), left hand lowering mist bottle back toward hip in descending arc, expression transitioning from relaxed pleasure to refreshed alert brightness, skin GLOWING with unprecedented dewiness — every high point catching dawn light through mist droplets creating extreme luminosity, dark "Morning Wild" hair wild around face with dawn-lit edges, flower stalls visible in warm bokeh behind (market context maintained), white linen shirt, walking body-motion implied by three-quarter angle and slight lean, dawn 4500K direct with warm ambient fill, 70mm f/1.6 1.5m three-quarter left, micro-droplets as visible tiny specular points across entire face surface (the before/after proof — SHE GLOWS NOW), photorealistic fresh-dewy-skin with individual-droplet-highlights-visible, beauty-ad post-application PROOF — the glow is the evidence, dawn light is the witness
 ```
+
+---
 
 ### Video Prompt 5 — DEW SETTLES — THE GLOW IS SET
 
@@ -1551,17 +1703,20 @@ Face-and-shoulders three-quarter left Aira — post-spritz with eyes opening fro
 
 ### Prompt 6 — WALKING OUT — CARRYING MORNING WITH HER
 
-
 **Camera:** 35mm f/2.2 | 4m | slightly wide from behind/three-quarter back | full body walking out far end of market into growing morning light
 **Lighting:** Key: full morning sun growing ahead of her (she walks toward stronger light) | Fill: market warm ambient behind | Rim: low sun from ahead creating full-front rim/glow | Shadow 18%
+
+**Body: strictly keep her legs fuller, thighs fuller, arms fuller, fuller chest, perfect flat belly.**
 
 FINALE: She walks out the far end of the flower market into growing morning. Camera from behind/three-quarter showing her full body in white linen and faded jeans walking away from colorful market chaos into clean morning light. Her dewy face catches one last glimpse (profile moment) as she turns slightly. Mist bottle in left hand at side casually (returned to its natural position — daily carry). The market continues behind her (alive without her — she was passing through). Her face: dewy, glowing, fresh — the product's work visible in one last side-lit profile flash.
 
 **Kinetic 6:** Walking out of market into open morning — stride finding regular pace after slow market-browse, body passing from shadow (market canopy) into full morning sun (temperature change on skin implied), mist bottle in left hand swinging casually with stride (it belongs with her always), hair responding to open-air breeze now outside market canopy (more movement than inside), "she didn't stop. She never stopped. The product exists in her motion, not apart from it" — residue in the continuous walking (from entry to exit without a single pause — the beauty ad as kinetic journey), morning sun growing ahead creating her figure as backlit glow-silhouette walking into growing warmth.
 
 ```
-Slightly wide from behind/three-quarter back — Aira walking out far end of flower market into growing morning light, full body: white oversized linen shirt catching morning sun and market-color reflections on back, faded light-wash jeans, white canvas sneakers (slightly dirty) stepping from market wet stone onto morning-lit pathway, dark "Morning Wild" hair in free natural texture responding to open-air breeze (more movement than inside market), mist bottle in left hand at side in casual swing with stride (daily carry returned to natural position), she's turning head slightly giving three-quarter profile glimpse — DEW-GLOWING FACE visible in morning side-light (product payoff readable in one last lit-profile flash), thin gold nose pin catching light, market continuing ALIVE behind her (vendors, flowers, color, activity — she was passing through not commanding), market stall canopies creating shadow frame she's exiting into open morning sun ahead, 35mm f/2.2 4m slightly wide from behind, growing morning sun ahead creating full-front glow on her walking figure, market warm ambient behind, 18% shadow, her dewy glowing figure walking from sensory-maximal market into clean morning light carrying the product's work on her skin, photorealistic market-exit-into-morning with dewy-profile-flash and casual-product-carry, beauty-ad cinematic conclusion — she never stopped moving, the product served the life in motion
+Body: strictly keep her legs fuller thighs fuller arms fuller fuller chest perfect flat belly. Slightly wide from behind/three-quarter back — Aira walking out far end of flower market into growing morning light, full body: white oversized linen shirt catching morning sun and market-color reflections on back, faded light-wash jeans, white canvas sneakers (slightly dirty) stepping from market wet stone onto morning-lit pathway, dark "Morning Wild" hair in free natural texture responding to open-air breeze (more movement than inside market), mist bottle in left hand at side in casual swing with stride (daily carry returned to natural position), she's turning head slightly giving three-quarter profile glimpse — DEW-GLOWING FACE visible in morning side-light (product payoff readable in one last lit-profile flash), thin gold nose pin catching light, market continuing ALIVE behind her (vendors, flowers, color, activity — she was passing through not commanding), market stall canopies creating shadow frame she's exiting into open morning sun ahead, 35mm f/2.2 4m slightly wide from behind, growing morning sun ahead creating full-front glow on her walking figure, market warm ambient behind, 18% shadow, her dewy glowing figure walking from sensory-maximal market into clean morning light carrying the product's work on her skin, photorealistic market-exit-into-morning with dewy-profile-flash and casual-product-carry, beauty-ad cinematic conclusion — she never stopped moving, the product served the life in motion
 ```
+
+---
 
 ### Video Prompt 6 — WALKING OUT — CARRYING MORNING WITH HER
 
@@ -1591,17 +1746,20 @@ Slightly wide from behind/three-quarter back — Aira walking out far end of flo
 
 ### Prompt 1 — ROOFTOP — THE SKY AS CANVAS (she appears from stairwell)
 
-
 **Camera:** 24mm f/2.8 | 6m | wide ultra-wide with sky dominating upper 60% of frame | rooftop establishing
 **Lighting:** Key: golden-hour sun from camera-left at 15-degree elevation creating extreme warm directional 4200K | Fill: sky-bounce warm 40% | Rim: sun hitting from left creating edge on everything camera-right facing | Shadow 20% (long, dramatic from low sun)
+
+**Body: strictly keep her legs fuller, thighs fuller, arms fuller, fuller chest, perfect flat belly.**
 
 Rooftop scene: wide expanse of concrete with city below at edges, SKY enormous above in gold-to-peach-to-lilac gradient, wind visible in string-light sway and plant-leaf animation. A rooftop stairwell door at camera-right — it opens and AIRA appears, stepping out barefoot onto warm concrete, wind hitting her immediately (hair and skirt responding), carrying her bag on right shoulder. She's just arrived — the rooftop and the hour were the destination.
 
 **Kinetic 6:** Stepping through stairwell door onto rooftop (one foot on threshold, one on concrete — transitional stride), WIND immediately catching silk-chiffon maxi skirt billowing it left, wind catching hair lifting and animating all texture simultaneously, breath: the specific gasp-inhale of stepping into open air at height after climbing stairs, bag on shoulder with strap settling from stairwell-climb, "she came here for THIS — the light and the air and the time of day" — residue in how she faces INTO the wind not away (choosing the sensation), low sun catching her the INSTANT she steps out — she goes from stairwell shadow to full golden illumination in one step.
 
 ```
-Ultra-wide rooftop establishing — sky dominating upper 60% of frame in golden-hour to sunset gradient (gold at horizon through peach through lilac at zenith), simple concrete rooftop terrace with city skyline at lower horizon, terracotta potted plants at edges, string lights (OFF), Aira appearing from rooftop stairwell door at camera-right — stepping barefoot onto warm concrete, one foot on threshold one on rooftop in transitional stride, wind immediately catching flowing burnt sienna silk-chiffon maxi skirt billowing dramatically left, fitted black ribbed tank top, bare feet, dark brown-black "Wind Claimed" hair lifting and animating from rooftop wind (pieces flying photogenically), small structured bag on right shoulder, delicate gold chain pendant and single gold bangle, expression of open-air arrival (gasp-inhale face, eyes widening to sky), stepping from stairwell shadow INTO full golden-hour sun illumination in one stride (shadow-to-gold transition on her body), low sun 4200K from camera-left at 15 degrees creating dramatic warm edge on right-facing surfaces, wind visible in plant animation and string-light sway, 24mm f/2.8 ultra-wide 6m, sky-scale composition dwarfing human figure, 20% long dramatic shadows from low sun, photorealistic rooftop-at-sunset arrival with wind-animated elements, beauty-ad cinematic establishing with scale and golden drama
+Body: strictly keep her legs fuller thighs fuller arms fuller fuller chest perfect flat belly. Ultra-wide rooftop establishing — sky dominating upper 60% of frame in golden-hour to sunset gradient (gold at horizon through peach through lilac at zenith), simple concrete rooftop terrace with city skyline at lower horizon, terracotta potted plants at edges, string lights (OFF), Aira appearing from rooftop stairwell door at camera-right — stepping barefoot onto warm concrete, one foot on threshold one on rooftop in transitional stride, wind immediately catching flowing burnt sienna silk-chiffon maxi skirt billowing dramatically left, fitted black ribbed tank top, bare feet, dark brown-black "Wind Claimed" hair lifting and animating from rooftop wind (pieces flying photogenically), small structured bag on right shoulder, delicate gold chain pendant and single gold bangle, expression of open-air arrival (gasp-inhale face, eyes widening to sky), stepping from stairwell shadow INTO full golden-hour sun illumination in one stride (shadow-to-gold transition on her body), low sun 4200K from camera-left at 15 degrees creating dramatic warm edge on right-facing surfaces, wind visible in plant animation and string-light sway, 24mm f/2.8 ultra-wide 6m, sky-scale composition dwarfing human figure, 20% long dramatic shadows from low sun, photorealistic rooftop-at-sunset arrival with wind-animated elements, beauty-ad cinematic establishing with scale and golden drama
 ```
+
+---
 
 ### Video Prompt 1 — ROOFTOP — THE SKY AS CANVAS (she appears from stairwell)
 
@@ -1613,17 +1771,20 @@ Ultra-wide rooftop establishing — sky dominating upper 60% of frame in golden-
 
 ### Prompt 2 — WIND AND STRIDE — CROSSING THE ROOFTOP
 
-
 **Camera:** 50mm f/1.8 | 3m | three-quarter tracking from right | waist-up walking across rooftop
 **Lighting:** Full golden-hour direct from left | City skyline in background warm | Wind-animated everything
+
+**Body: strictly keep her legs fuller, thighs fuller, arms fuller, fuller chest, perfect flat belly.**
 
 Walking across rooftop toward the sunset-facing edge — stride purposeful but unhurried, wind continuously animating her (hair flying, skirt billowing, pendant swinging). Right hand on bag strap, left hand moving to bag clasp (about to open it). Face: calm joy — eyes slightly squinted against sun and wind, smile playing at corners (2mm), chin slightly lifted to feel the wind on her face. The city is below and behind but she's above it all.
 
 **Kinetic 6:** Walking stride on warm concrete (bare feet with slight extra grip-feel on textured surface), wind continuous from left pushing everything right (hair, skirt, pendant all angled right from wind pressure), left hand reaching to bag clasp (impending product retrieval), comfortable wind-walk breathing (she's accustomed to this rooftop — it's HER spot), all elements animated by same wind direction (coherent wind-logic on all surfaces), "she doesn't fight the wind — she lets it style her while she gets what she needs from the bag" — residue in how she walks WITH the wind angle (leaning 2 degrees into it for balance, natural as breathing).
 
 ```
-Waist-up three-quarter tracking from right — Aira walking across rooftop, wind fully animating: dark "Wind Claimed" hair flying right (multiple pieces independent, volume lifted by gusts), burnt sienna silk-chiffon skirt billowing right (visible in lower frame), fitted black tank top with wind pressing fabric against body showing athletic-slim form, right hand on bag strap, left hand reaching toward bag clasp (impending product retrieval), delicate gold pendant chain blowing slightly right in wind, gold bangle on wrist catching sunset, expression of calm joy — eyes slightly squinted from sun and wind, 2mm smile playing at corners, chin lifted to feel wind, bare feet on warm concrete visible in stride motion, city skyline visible below and behind in warm golden background, sky gradient gold-to-peach above, all elements animated by coherent leftward wind (hair/skirt/pendant all pushed right), she leans 2 degrees into wind for natural balance, 50mm f/1.8 3m three-quarter from right tracking, full golden-hour 4200K from left creating dramatic warm sidelight, sky fill, wind as visible force on all surfaces, photorealistic rooftop-crossing with unified wind-physics and golden-hour drama, beauty-ad kinetic energy with approaching product moment
+Body: strictly keep her legs fuller thighs fuller arms fuller fuller chest perfect flat belly. Waist-up three-quarter tracking from right — Aira walking across rooftop, wind fully animating: dark "Wind Claimed" hair flying right (multiple pieces independent, volume lifted by gusts), burnt sienna silk-chiffon skirt billowing right (visible in lower frame), fitted black tank top with wind pressing fabric against body showing athletic-slim form, right hand on bag strap, left hand reaching toward bag clasp (impending product retrieval), delicate gold pendant chain blowing slightly right in wind, gold bangle on wrist catching sunset, expression of calm joy — eyes slightly squinted from sun and wind, 2mm smile playing at corners, chin lifted to feel wind, bare feet on warm concrete visible in stride motion, city skyline visible below and behind in warm golden background, sky gradient gold-to-peach above, all elements animated by coherent leftward wind (hair/skirt/pendant all pushed right), she leans 2 degrees into wind for natural balance, 50mm f/1.8 3m three-quarter from right tracking, full golden-hour 4200K from left creating dramatic warm sidelight, sky fill, wind as visible force on all surfaces, photorealistic rooftop-crossing with unified wind-physics and golden-hour drama, beauty-ad kinetic energy with approaching product moment
 ```
+
+---
 
 ### Video Prompt 2 — WIND AND STRIDE — CROSSING THE ROOFTOP
 
@@ -1635,17 +1796,20 @@ Waist-up three-quarter tracking from right — Aira walking across rooftop, wind
 
 ### Prompt 3 — COMPACT FROM BAG — ROSE GOLD CATCHES SUNSET
 
-
 **Camera:** 65mm f/1.6 | 2m | slightly below eye-level (5 degrees up) | chest-up showing compact emerging from bag
 **Lighting:** Full golden-hour direct from left + SUNSET REFLECTION on compact's rose gold surface creating secondary warm light source
+
+**Body: strictly keep her legs fuller, thighs fuller, arms fuller, fuller chest, perfect flat belly.**
 
 Left hand emerging from bag holding rose gold compact — the compact's surface catching sunset directly and REFLECTING warm golden light like a small mirror. She's brought it up to mid-chest and is about to flip it open. Wind still actively catching hair (animating frame edges). The compact as object: rose gold square catching sunset = miniature golden mirror in her hand. Expression: the practical beauty of someone who knows she has 10 minutes of this light and is going to use them.
 
 **Kinetic 6:** Left hand lifting compact from bag to mid-chest height, wind catching hair and skirt (continuous — never stops on this rooftop), compact surface catching and reflecting sunset in real-time (reflection angle changing as hand rises creating dancing warm light reflection), efficient practiced energy — no wasted motion between bag-retrieval and upcoming application, compact reflecting warm golden light UPWARD onto her chin and jaw (secondary light source created by the product's own surface), the rooftop wind challenging the compact-open gesture that's coming (she'll need to shield it — awareness in how she turns body 10 degrees windward to create personal wind-shadow).
 
 ```
-Chest-up slightly below eye-level (5 degrees up) — Aira with left hand holding rose gold illuminating powder compact at mid-chest height emerging from bag, compact's rose gold surface catching sunset directly and REFLECTING warm golden light like miniature mirror (visible reflected-light casting warm glow upward onto her chin and jaw), about to flip open, dark "Wind Claimed" hair flying actively with rooftop gusts (pieces lifting and crossing face dramatically), fitted black tank top, wind pressing fabric, golden chain pendant blowing sideways, gold bangle on compact-holding wrist catching sun, expression of practical beauty-awareness (she knows this light and she's going to USE it), body turned 10 degrees windward to create personal wind-shadow for upcoming compact-open, sky gradient visible behind (gold-to-peach-to-lilac), city skyline below, 65mm f/1.6 2m slightly below eye-level, full golden-hour from left creating warm sidelight, compact surface as secondary warm light source reflecting up, wind-animated hair edges against sunset sky, photorealistic sunset-reflecting-compact with wind-active environment, beauty-ad product-revelation with environmental golden-light partnership
+Body: strictly keep her legs fuller thighs fuller arms fuller fuller chest perfect flat belly. Chest-up slightly below eye-level (5 degrees up) — Aira with left hand holding rose gold illuminating powder compact at mid-chest height emerging from bag, compact's rose gold surface catching sunset directly and REFLECTING warm golden light like miniature mirror (visible reflected-light casting warm glow upward onto her chin and jaw), about to flip open, dark "Wind Claimed" hair flying actively with rooftop gusts (pieces lifting and crossing face dramatically), fitted black tank top, wind pressing fabric, golden chain pendant blowing sideways, gold bangle on compact-holding wrist catching sun, expression of practical beauty-awareness (she knows this light and she's going to USE it), body turned 10 degrees windward to create personal wind-shadow for upcoming compact-open, sky gradient visible behind (gold-to-peach-to-lilac), city skyline below, 65mm f/1.6 2m slightly below eye-level, full golden-hour from left creating warm sidelight, compact surface as secondary warm light source reflecting up, wind-animated hair edges against sunset sky, photorealistic sunset-reflecting-compact with wind-active environment, beauty-ad product-revelation with environmental golden-light partnership
 ```
+
+---
 
 ### Video Prompt 3 — COMPACT FROM BAG — ROSE GOLD CATCHES SUNSET
 
@@ -1657,17 +1821,20 @@ Chest-up slightly below eye-level (5 degrees up) — Aira with left hand holding
 
 ### Prompt 4 — THE PRESS — GOLDEN POWDER ON GOLDEN SKIN IN GOLDEN LIGHT (hero moment)
 
-
 **Camera:** 80mm f/1.4 | 0.8m | tight face tracking | straight-on with sky visible as golden blur behind
 **Lighting:** TRIPLE GOLD: sunset from left + compact mirror reflecting from below + golden illuminating powder on cheekbone catching both. Maximum golden saturation on skin.
+
+**Body: strictly keep her legs fuller, thighs fuller, arms fuller, fuller chest, perfect flat belly.**
 
 THE HERO: Compact open (mirror in lid catching sky, visible shimmer powder in pan), right hand's middle finger dipping then pressing golden-pink illuminating powder onto left cheekbone in single firm press. Her face in tight crop: eyes open and forward (not checking mirror — applying by feel in the sunset), the MOMENT the golden powder touches her cheekbone and catches the sunset light simultaneously — instant visible highlight point appearing like a small sun was placed on her face. Wind still moving hair at frame edges.
 
 **Kinetic 6:** Right middle finger pressing golden powder onto left cheekbone peak (firm single 2mm press-and-lift), compact held open in left hand below face (mirror catching sky-blue overhead and reflecting it subtly), walking still (subtle background motion proves continuous movement), pressed powder compacting onto skin and instantly catching golden-hour sidelight creating EXTREME specular highlight point, "the product catches the same light she's standing in — they AGREE" — the golden powder is the sunset's ally on her skin, the color match between golden-hour sky and golden-pink powder is THE story, wind catching hair at frame edges keeping the outdoor-energy alive even in tight crop.
 
 ```
-Tight face straight-on tracking Aira — HERO PRODUCT FRAME: right middle finger pressing golden-pink illuminating powder onto left cheekbone peak (visible firm 2mm press with finger-pad compression on cheek skin), compact open in left hand below face (rose gold case, mirror in lid catching sky gradient reflection, shimmer powder visible in pan), THE MOMENT of powder-meets-cheekbone: instant visible golden highlight point appearing at contact where powder catches sunset simultaneously — like a small sun placed on her face creating EXTREME specular golden catch, eyes open and forward (not checking mirror — feel-application), expression of calm confidence with chin slightly lifted presenting cheekbone to both the finger and the sunset, medium-warm brown skin already warm but NOW with visible golden powder-highlight igniting on left cheekbone peak, "Wind Claimed" hair flying at frame edges (wind continuous, outdoor proof), fitted black tank top barely visible at frame bottom, golden-hour sunset sky as warm golden blur behind and around, TRIPLE GOLD LIGHTING: sunset from left + compact mirror reflecting from below + powder-on-cheekbone catching both, 80mm f/1.4 0.8m tight straight-on, maximum golden saturation — skin powder light all in agreement, wind-animated hair edges, photorealistic golden-powder-on-skin with instant-highlight-catch in sunset partnership, BEAUTY AD HERO FRAME — product and light speaking the same golden language
+Tight face straight-on tracking Aira — HERO PRODUCT FRAME: right middle finger pressing golden-pink illuminating powder onto left cheekbone peak (visible firm 2mm press with finger-pad compression on cheek skin), compact open in left hand below face (rose gold case, mirror in lid catching sky gradient reflection, shimmer powder visible in pan), THE MOMENT of powder-meets-cheekbone: instant visible golden highlight point appearing at contact where powder catches sunset simultaneously — like a small sun placed on her face creating EXTREME specular golden catch, eyes open and forward (not checking mirror — feel-application), expression of calm confidence with chin slightly lifted presenting cheekbone to both the finger and the sunset, medium-warm brown skin already warm but NOW with visible golden powder-highlight igniting on left cheekbone peak, Body: strictly keep her legs fuller thighs fuller arms fuller fuller chest perfect flat belly, "Wind Claimed" hair flying at frame edges (wind continuous, outdoor proof), fitted black tank top barely visible at frame bottom, golden-hour sunset sky as warm golden blur behind and around, TRIPLE GOLD LIGHTING: sunset from left + compact mirror reflecting from below + powder-on-cheekbone catching both, 80mm f/1.4 0.8m tight straight-on, maximum golden saturation — skin powder light all in agreement, wind-animated hair edges, photorealistic golden-powder-on-skin with instant-highlight-catch in sunset partnership, BEAUTY AD HERO FRAME — product and light speaking the same golden language
 ```
+
+---
 
 ### Video Prompt 4 — THE PRESS — GOLDEN POWDER ON GOLDEN SKIN IN GOLDEN LIGHT (hero moment)
 
@@ -1679,17 +1846,20 @@ Tight face straight-on tracking Aira — HERO PRODUCT FRAME: right middle finger
 
 ### Prompt 5 — BOTH CHEEKS LIT — COMPACT CLOSING IN WIND
 
-
 **Camera:** 60mm f/1.8 | 1.5m | three-quarter left | face-and-shoulders showing dual cheekbone highlights
 **Lighting:** Golden-hour lowering (sun dropping, light reddening slightly to 3800K — deepening golden toward amber)
+
+**Body: strictly keep her legs fuller, thighs fuller, arms fuller, fuller chest, perfect flat belly.**
 
 Post-application both cheeks: left cheekbone applied in Frame 4, right cheekbone just completed (happened between frames — time compression). NOW both cheekbones carrying visible golden-pink powder highlights catching lowering sun. Compact being closed — left hand folding it shut against the wind (a curl of fingers protecting it from a gust). Hair wildly animated. Expression: deep satisfaction — eyes warm, smile 2.5mm, she looks like she IS the sunset (skin-product-light all unified in golden warmth).
 
 **Kinetic 6:** Left hand closing compact (fingers curling around edges to protect from wind during close — practical gesture), right hand at side with residual powder-shimmer visible on middle fingertip, walking stride continuing, wind pushing all elements rightward (hair dramatic, skirt implied below frame), both cheekbone highlights NOW catching the lowering sun (which has shifted deeper amber — the powder adapts to the changing light), "she looks like she's made of the same light as the sky" — the product-skin-sunset fusion is complete; residue in the deep satisfaction of someone who timed this perfectly, sun lowering creates longer amber rays hitting her face from even lower angle (the best 2 minutes of light).
 
 ```
-Face-and-shoulders three-quarter left Aira — BOTH CHEEKBONES now carrying visible golden-pink powder highlights catching lowering amber sun (dual symmetric glow points on face), left hand closing compact with fingers curling around edges protectively against wind gust (practical wind-management), right hand at side with residual shimmer visible on middle fingertip catching light, dark "Wind Claimed" hair in full dramatic wind-animation flying rightward (multiple pieces independent, volume maximal from gusts), expression of deep satisfaction — eyes warm with self-approval, 2.5mm smile, she looks like she IS the sunset (skin-product-light unified), fitted black tank top, golden chain pendant blowing sideways, gold bangle, golden-hour now lowering to 3800K amber (sun dropping, light deepening), sky behind shifting deeper gold-to-amber-to-rose gradient, city skyline lower, both cheekbone highlights adapting to deepening amber light (powder catches whatever color the sun offers), 60mm f/1.8 1.5m three-quarter left, lowering amber-gold sun from left, wind-animated everything, photorealistic dual-highlight-glow on face with unified sunset-skin-product golden warmth, beauty-ad post-application glow with both cheeks lit and wind-drama, deep satisfaction energy
+Body: strictly keep her legs fuller thighs fuller arms fuller fuller chest perfect flat belly. Face-and-shoulders three-quarter left Aira — BOTH CHEEKBONES now carrying visible golden-pink powder highlights catching lowering amber sun (dual symmetric glow points on face), left hand closing compact with fingers curling around edges protectively against wind gust (practical wind-management), right hand at side with residual shimmer visible on middle fingertip catching light, dark "Wind Claimed" hair in full dramatic wind-animation flying rightward (multiple pieces independent, volume maximal from gusts), expression of deep satisfaction — eyes warm with self-approval, 2.5mm smile, she looks like she IS the sunset (skin-product-light unified), fitted black tank top, golden chain pendant blowing sideways, gold bangle, golden-hour now lowering to 3800K amber (sun dropping, light deepening), sky behind shifting deeper gold-to-amber-to-rose gradient, city skyline lower, both cheekbone highlights adapting to deepening amber light (powder catches whatever color the sun offers), 60mm f/1.8 1.5m three-quarter left, lowering amber-gold sun from left, wind-animated everything, photorealistic dual-highlight-glow on face with unified sunset-skin-product golden warmth, beauty-ad post-application glow with both cheeks lit and wind-drama, deep satisfaction energy
 ```
+
+---
 
 ### Video Prompt 5 — BOTH CHEEKS LIT — COMPACT CLOSING IN WIND
 
@@ -1701,17 +1871,20 @@ Face-and-shoulders three-quarter left Aira — BOTH CHEEKBONES now carrying visi
 
 ### Prompt 6 — TOWARD SUNSET — SHE IS THE GOLDEN HOUR
 
-
 **Camera:** 35mm f/2.0 | 4m | slightly low angle from behind/three-quarter back | full body walking toward rooftop sunset-edge with sky ENORMOUS
 **Lighting:** Sun now at horizon, extreme low angle amber-red 3500K from dead ahead | She's BACKLIT walking INTO sunset | Rim: full body golden-amber edge from ahead-sun | Fill: sky ambient warm everywhere
+
+**Body: strictly keep her legs fuller, thighs fuller, arms fuller, fuller chest, perfect flat belly.**
 
 FINALE: Walking toward the sunset-facing edge of the rooftop — full body from behind/three-quarter as she moves toward the enormous golden-amber sky ahead. Wind catching everything: silk-chiffon skirt billowing dramatically in full sail, hair flying, pendant swinging. She's walking INTO the light. Brief three-quarter profile glimpse as she turns slightly: the cheekbone highlights visible one last time, catching the extreme low sunset — face GLOWING with both natural golden-hour warmth and product-enhanced luminosity working in perfect unison. Bare feet on warm concrete walking toward sky.
 
 **Kinetic 6:** Walking toward sunset/rooftop edge — stride confident and unhurried (not approaching danger, approaching beauty), wind FULL FORCE now catching maxi skirt in dramatic sail-like billow (maximum fabric animation), hair flying with complete abandon (the wind owns it now and she's okay with that), sun at dead-ahead creating silhouette-edge quality on her walking figure, all wind elements maximal (this is the rooftop's peak moment — wind and sun at maximum), "the product is invisible now — it's part of her. She doesn't carry the glow, she IS the glow" — the compact is in the bag, the powder is on her face, and she and the sunset are the same thing now, amber-red extreme low sun hitting her walking figure from ahead creating full golden-edge silhouette while sky ambient fills from everywhere.
 
 ```
-Full body slightly low angle from behind/three-quarter back — Aira walking toward rooftop sunset-edge, SKY ENORMOUS ahead in amber-red-gold sunset gradient with sun at horizon, burnt sienna silk-chiffon maxi skirt in FULL DRAMATIC BILLOW from wind (maximum fabric sail catching gusts, spreading wide and translucent where sun passes through), fitted black tank top, bare feet on warm concrete in confident stride toward sky, dark "Wind Claimed" hair flying with complete abandon (wind-owned, pieces everywhere, dramatic silhouette-edges lit amber by ahead-sun), gold chain pendant swinging, gold bangle, bag on shoulder, she's turning slightly giving three-quarter profile — cheekbone highlights VISIBLE one last time catching extreme low sunset with maximum golden luminosity (face glowing with natural + product in perfect unison), walking INTO the light (approaching the sunset-edge of rooftop), city skyline at sides below, she is BACKLIT by ahead-sun creating full golden-amber edge-silhouette on entire figure, sky ambient filling from everywhere, wind animating ALL elements simultaneously (skirt, hair, pendant, plant-leaves at edges), 35mm f/2.0 4m slightly low from behind, extreme sunset at horizon ahead creating silhouette-edge gold on walking figure, maximum wind-drama, silk translucent where backlit, photorealistic sunset-walk-finale with every element golden and wind-animated, BEAUTY AD CINEMATIC CLOSE — she IS the golden hour, the product is part of her not separate, walking toward light with full physical drama
+Body: strictly keep her legs fuller thighs fuller arms fuller fuller chest perfect flat belly. Full body slightly low angle from behind/three-quarter back — Aira walking toward rooftop sunset-edge, SKY ENORMOUS ahead in amber-red-gold sunset gradient with sun at horizon, burnt sienna silk-chiffon maxi skirt in FULL DRAMATIC BILLOW from wind (maximum fabric sail catching gusts, spreading wide and translucent where sun passes through), fitted black tank top, bare feet on warm concrete in confident stride toward sky, dark "Wind Claimed" hair flying with complete abandon (wind-owned, pieces everywhere, dramatic silhouette-edges lit amber by ahead-sun), gold chain pendant swinging, gold bangle, bag on shoulder, she's turning slightly giving three-quarter profile — cheekbone highlights VISIBLE one last time catching extreme low sunset with maximum golden luminosity (face glowing with natural + product in perfect unison), walking INTO the light (approaching the sunset-edge of rooftop), city skyline at sides below, she is BACKLIT by ahead-sun creating full golden-amber edge-silhouette on entire figure, sky ambient filling from everywhere, wind animating ALL elements simultaneously (skirt, hair, pendant, plant-leaves at edges), 35mm f/2.0 4m slightly low from behind, extreme sunset at horizon ahead creating silhouette-edge gold on walking figure, maximum wind-drama, silk translucent where backlit, photorealistic sunset-walk-finale with every element golden and wind-animated, BEAUTY AD CINEMATIC CLOSE — she IS the golden hour, the product is part of her not separate, walking toward light with full physical drama
 ```
+
+---
 
 ### Video Prompt 6 — TOWARD SUNSET — SHE IS THE GOLDEN HOUR
 
@@ -1741,17 +1914,20 @@ Full body slightly low angle from behind/three-quarter back — Aira walking tow
 
 ### Prompt 1 — THE CAR DOOR — EMERGENCE FROM SHADOW
 
-
 **Camera:** 35mm f/2.0 | 3m | low angle from pavement level | the door opening, leg emerging, streetlight creating dramatic pool
 **Lighting:** Key: single streetlight above 3500K warm amber creating focused pool on wet pavement (she emerges INTO this pool) | Fill: ambient city-night scattered (neon, car headlights, venue glow — all distant) | Rim: car interior subtle dome light (brief) | Shadow 40% (night — deep shadows with specific light pools)
+
+**Body: strictly keep her legs fuller, thighs fuller, arms fuller, fuller chest, perfect flat belly.**
 
 THE OPENING: Black sedan at curb, door opening from inside (hand on interior handle visible). First visible: her left leg extending — pointed black patent heel meeting wet pavement in the streetlight pool. Her face not yet visible (she's still in car shadow). The drama is in the transition about to happen: shadow-figure becoming illuminated woman. Wet pavement reflecting the streetlight pool and the amber of the dome light. The car door is partially open, we see the architecture of the exit about to happen.
 
 **Kinetic 6:** 1. Left leg extending from car (the universal "exit" choreography — heel placed first, then weight transfers), door swinging open wider from her push | 2. Heel making contact with wet pavement (the specific micro-sound and tiny splash) | 3. Inhale of night air (first outdoor breath after car-ride implied in body preparation for standing) | 4. Door swinging with its own weight/momentum after initial push, heel settling into pavement with body weight beginning to transfer | 5. "She arrives places — she doesn't just go to them" — the choreography of emergence is intentional, unhurried, composed | 6. Streetlight pool creating dramatic amber-gold circle on wet pavement exactly where her heel lands (like a spotlight was placed for her), wet pavement reflecting everything in doubled golden version below
 
 ```
-Low angle from pavement level (3m) — black sedan at curb with rear door opening from inside, left leg extending: pointed black patent heel meeting wet pavement in streetlight amber pool, silk-black straight-leg trouser falling to ankle above the heel, her face NOT YET VISIBLE (still in car shadow — body emerging from darkness), hand on interior door handle visible pushing door wider, single streetlight above creating focused warm amber 3500K pool on wet pavement (dramatic circular illumination), wet rain-slicked pavement reflecting the streetlight pool as doubled golden circle below, car interior dome-light creating brief warm glow inside (the shadow world she's leaving), city night surrounding: distant neon reflections, car headlights, venue warm glow 10m ahead through glass doors, 35mm f/2.0 low angle 3m from pavement, 40% deep night shadows with specific light pools, pointed patent heel SHARP in focus with streetlight specular on its surface, wet pavement reflections everywhere, black car sleek geometry, photorealistic city-night car-exit with dramatic single-source pool lighting, beauty-ad cinematic opening — emergence from shadow into light about to happen
+Body: strictly keep her legs fuller thighs fuller arms fuller fuller chest perfect flat belly. Low angle from pavement level (3m) — black sedan at curb with rear door opening from inside, left leg extending: pointed black patent heel meeting wet pavement in streetlight amber pool, silk-black straight-leg trouser falling to ankle above the heel, her face NOT YET VISIBLE (still in car shadow — body emerging from darkness), hand on interior door handle visible pushing door wider, single streetlight above creating focused warm amber 3500K pool on wet pavement (dramatic circular illumination), wet rain-slicked pavement reflecting the streetlight pool as doubled golden circle below, car interior dome-light creating brief warm glow inside (the shadow world she's leaving), city night surrounding: distant neon reflections, car headlights, venue warm glow 10m ahead through glass doors, 35mm f/2.0 low angle 3m from pavement, 40% deep night shadows with specific light pools, pointed patent heel SHARP in focus with streetlight specular on its surface, wet pavement reflections everywhere, black car sleek geometry, photorealistic city-night car-exit with dramatic single-source pool lighting, beauty-ad cinematic opening — emergence from shadow into light about to happen
 ```
+
+---
 
 ### Video Prompt 1 — THE CAR DOOR — EMERGENCE FROM SHADOW
 
@@ -1763,17 +1939,20 @@ Low angle from pavement level (3m) — black sedan at curb with rear door openin
 
 ### Prompt 2 — STANDING INTO LIGHT — THE FULL FIGURE REVEALED
 
-
 **Camera:** 50mm f/1.8 | 2.5m | eye-level straight-on | full body as she stands fully from car into streetlight
 **Lighting:** Streetlight 3500K warm amber directly above creating dramatic top-light | Fill: wet-pavement bounce-up (warm amber reflecting from below) | Rim: car headlights from behind-left creating silver edge | Shadow 35%
+
+**Body: strictly keep her legs fuller, thighs fuller, arms fuller, fuller chest, perfect flat belly.**
 
 SHE STANDS: Full emergence — now fully out of the car, standing in the amber streetlight pool, door closing behind her (hand leaving door, it's on auto-close). FULL LOOK VISIBLE: black velvet blazer, black silk trousers, patent heels, satin clutch in left hand at thigh, diamond-cut silver studs catching streetlight. Face now visible in dramatic top-light: "After Dark" makeup (matte skin, contour, wing liner, berry lip) BUT the specific quality of post-car-ride — the undereye area slightly showing fatigue that only SHE notices. Hair in "Midnight Sculpt" slicked ponytail — severe, architectural, face fully exposed. She looks incredible — but she has one specific correction she's about to make.
 
 **Kinetic 6:** Standing fully upright in streetlight (weight settling onto both heels, posture finding its full vertical), left hand with clutch settling at thigh after door-release, hair: tight ponytail with zero wind-disturbance (night is still), streetlight creating dramatic top-light shadows under brow/cheekbone/chin (the specific way overhead light creates facial architecture), "she knows that in this light, the undereye darkness from the car-screen-scrolling shows — and she knows exactly how to fix it in 3 seconds" — residue in the micro-glance downward at car window (checking her reflection in the dark glass BRIEFLY before moving), standing breath: the compositional moment of "I'm here now" before she moves.
 
 ```
-Full body eye-level straight-on Aira — STANDING in streetlight amber pool, fully emerged from car (door closing behind with hand just released), dramatic top-light from streetlight 3500K directly above creating architectural shadows under brow-bone cheekbones and chin, FULL NIGHT LOOK: fitted black velvet blazer with peak lapels catching ambient light with velvet texture, black silk straight-leg trousers, pointed black patent heels on wet pavement, small black satin clutch in left hand at thigh, diamond-cut silver stud earrings catching streetlight as tiny brilliant points, thin silver chain at throat, dark brown-black hair in "Midnight Sculpt" slicked-back low ponytail — severe smooth from hairline with intentional baby hairs laid, face completely exposed showing bone structure in dramatic top-light, "After Dark" makeup: poreless matte skin structured contour clean black wing liner smoked lower lash matte berry lip — BUT subtle undereye area showing slight fatigue (the specific detail only she notices), she's giving micro-glance toward car window glass (checking dark reflection briefly), posture fully vertical and composed, wet pavement reflecting her figure and streetlight in amber duplicate below, car door in mid-close behind her, venue entrance visible 10m ahead (warm interior glow), 50mm f/1.8 2.5m straight-on, dramatic overhead amber with wet-pavement bounce-up, car headlight rim from behind-left, 35% night shadows, photorealistic full-night-figure-emergence with dramatic overhead-single-source, beauty-ad protagonist-fully-revealed
+Full body eye-level straight-on Aira — STANDING in streetlight amber pool, fully emerged from car (door closing behind with hand just released), dramatic top-light from streetlight 3500K directly above creating architectural shadows under brow-bone cheekbones and chin, FULL NIGHT LOOK: fitted black velvet blazer with peak lapels catching ambient light with velvet texture, black silk straight-leg trousers, pointed black patent heels on wet pavement, small black satin clutch in left hand at thigh, diamond-cut silver stud earrings catching streetlight as tiny brilliant points, thin silver chain at throat, dark brown-black hair in "Midnight Sculpt" slicked-back low ponytail — severe smooth from hairline with intentional baby hairs laid, Body: strictly keep her legs fuller thighs fuller arms fuller fuller chest perfect flat belly, face completely exposed showing bone structure in dramatic top-light, "After Dark" makeup: poreless matte skin structured contour clean black wing liner smoked lower lash matte berry lip — BUT subtle undereye area showing slight fatigue (the specific detail only she notices), she's giving micro-glance toward car window glass (checking dark reflection briefly), posture fully vertical and composed, wet pavement reflecting her figure and streetlight in amber duplicate below, car door in mid-close behind her, venue entrance visible 10m ahead (warm interior glow), 50mm f/1.8 2.5m straight-on, dramatic overhead amber with wet-pavement bounce-up, car headlight rim from behind-left, 35% night shadows, photorealistic full-night-figure-emergence with dramatic overhead-single-source, beauty-ad protagonist-fully-revealed
 ```
+
+---
 
 ### Video Prompt 2 — STANDING INTO LIGHT — THE FULL FIGURE REVEALED
 
@@ -1785,17 +1964,20 @@ Full body eye-level straight-on Aira — STANDING in streetlight amber pool, ful
 
 ### Prompt 3 — CAR WINDOW REFLECTION — PRODUCT COMES OUT
 
-
 **Camera:** 70mm f/1.6 | 1.5m | three-quarter catching both her face AND its dark-glass reflection | face-to-waist
 **Lighting:** Streetlight overhead + car window reflecting her face dimly (dark mirror quality) | Wet-pavement amber bounce
+
+**Body: strictly keep her legs fuller, thighs fuller, arms fuller, fuller chest, perfect flat belly.**
 
 She's turned toward the car's closed rear window — using it as a dark mirror (the specific resourcefulness of touch-ups in transit). Right hand already retrieving the concealer pen from clutch (clutch briefly opened with left hand). The black matte pen emerging, her face visible in both reality and darkened window reflection. She knows she has 3 seconds before she walks away. Efficiency is the aesthetic.
 
 **Kinetic 6:** Right hand extracting sleek matte-black concealer pen from clutch opening (fingers around barrel in familiar grip), left hand holding clutch open at the clasp (one-handed open, other retrieves), her face reflected in dark car window (dimmer, moodier version of herself staring back), turning body 30 degrees toward car window for reflection access, "the car window is her mirror — she doesn't need anything else" — the improvised-mirror resourcefulness is aspirational in itself (she adapts spaces to her needs), streetlight catching the matte-black pen barrel with single edge-highlight as it emerges from clutch darkness.
 
 ```
-Three-quarter Aira turned toward closed car rear window — using dark glass as mirror, her face REFLECTED in window (dimmer moody duplicate), right hand extracting sleek matte-black concealer pen from open satin clutch (fingers in familiar grip around barrel), left hand holding clutch open at clasp, body turned 30 degrees toward car (accessing window-reflection), face visible in both REALITY (lit by overhead streetlight) and DARK-GLASS REFLECTION (dimmer ambient version), the matte-black pen emerging from clutch with single streetlight edge-highlight on barrel, "Midnight Sculpt" hair slicked ponytail visible from this angle showing the severity of the part and smooth crown, velvet blazer shoulder and lapel, silver chain at throat, diamond stud earring catching light, she's assessing her undereye area in the dark window reflection — the targeted precision of knowing exactly what needs correction, wet pavement at feet reflecting scene from below, car's dark paint also reflecting environment, 70mm f/1.6 1.5m three-quarter, streetlight overhead + dark-window-reflection, 30% night shadow, the pen as architectural matte-black object emerging with single light-edge, photorealistic car-window-as-mirror with dual-face (real and reflected) composition, beauty-ad improvised-precision moment
+Body: strictly keep her legs fuller thighs fuller arms fuller fuller chest perfect flat belly. Three-quarter Aira turned toward closed car rear window — using dark glass as mirror, her face REFLECTED in window (dimmer moody duplicate), right hand extracting sleek matte-black concealer pen from open satin clutch (fingers in familiar grip around barrel), left hand holding clutch open at clasp, body turned 30 degrees toward car (accessing window-reflection), face visible in both REALITY (lit by overhead streetlight) and DARK-GLASS REFLECTION (dimmer ambient version), the matte-black pen emerging from clutch with single streetlight edge-highlight on barrel, "Midnight Sculpt" hair slicked ponytail visible from this angle showing the severity of the part and smooth crown, velvet blazer shoulder and lapel, silver chain at throat, diamond stud earring catching light, she's assessing her undereye area in the dark window reflection — the targeted precision of knowing exactly what needs correction, wet pavement at feet reflecting scene from below, car's dark paint also reflecting environment, 70mm f/1.6 1.5m three-quarter, streetlight overhead + dark-window-reflection, 30% night shadow, the pen as architectural matte-black object emerging with single light-edge, photorealistic car-window-as-mirror with dual-face (real and reflected) composition, beauty-ad improvised-precision moment
 ```
+
+---
 
 ### Video Prompt 3 — CAR WINDOW REFLECTION — PRODUCT COMES OUT
 
@@ -1807,17 +1989,20 @@ Three-quarter Aira turned toward closed car rear window — using dark glass as 
 
 ### Prompt 4 — THE CLICK AND STROKE — PRECISION UNDER STREETLIGHT (hero moment)
 
-
 **Camera:** 85mm f/1.4 | 0.6m | tight face straight-on | using car window reflection as her mirror (we see her real face lit beautifully)
 **Lighting:** Streetlight overhead amber as primary key creating dramatic cheekbone/undereye illumination | Wet-bounce fill from below warm | Silver car-headlight rim on one side
+
+**Body: strictly keep her legs fuller, thighs fuller, arms fuller, fuller chest, perfect flat belly.**
 
 THE HERO: She's clicked the pen (1-2 audible clicks in the night silence — satisfying mechanical sound), product dispensed on doe-foot tip. Now: single precise stroke under left eye, following the orbital bone, depositing concealer in exact corrective placement. Eyes using dark window as mirror (slight gaze direction toward window, not at camera). The PRECISION: one stroke, 2cm, from inner corner following bone outward. The undereye area VISIBLY transforms — going from slightly shadowed to bright, lifted, radiant. All by streetlight. All in 3 seconds.
 
 **Kinetic 6:** Right hand holding pen like a calligraphy brush — angled precisely, doe-foot tip contacting under-eye skin and gliding in single 2cm stroke from inner corner outward along orbital bone, face absolutely still for the stroke (the same precision as liner application — holding-still-for-the-hand), clicked mechanism: concealer visible on doe-foot tip catching amber streetlight (the product itself is luminous at this proximity), "one stroke changes the face from 'great' to 'impossible'" — the visible before/after on the undereye (left corrected, right still showing subtle shadow = built-in proof), streetlight creating perfect conditions for seeing exactly what she's doing in the dark window reflection.
 
 ```
-Tight face straight-on HERO FRAME — right hand holding matte-black concealer pen angled precisely like calligraphy brush, shaped doe-foot tip making contact under left eye — single 2cm stroke from inner corner outward along orbital bone DEPOSITING CONCEALER, visible product on doe-foot tip catching amber streetlight with luminous warm-tone highlight, left undereye area VISIBLY TRANSFORMING from subtle shadow to bright lifted radiant (correction in progress), right undereye still showing slight natural shadow (built-in before/after comparison — left corrected, right natural), eyes directed slightly rightward (using car window as dark mirror, not looking at camera), full "After Dark" makeup impeccable everywhere else: wing liner, smoked lower lash, berry lip, structured contour — the concealer is the ONE targeted correction, "Midnight Sculpt" slicked hair smooth from severe part with face fully exposed, diamond stud earring, silver chain, dramatic streetlight overhead amber creating defined face architecture and catching the product luminously, doe-foot tip and product visible at extreme detail at this distance, 85mm f/1.4 0.6m tight straight-on, amber overhead key with wet-bounce fill from below, silver rim from one side, 30% night shadow, photorealistic single-stroke-concealer-application under streetlight with visible corrective transformation in real-time, BEAUTY AD HERO — precision + efficiency + visible result in one frame
+Body: strictly keep her legs fuller thighs fuller arms fuller fuller chest perfect flat belly. Tight face straight-on HERO FRAME — right hand holding matte-black concealer pen angled precisely like calligraphy brush, shaped doe-foot tip making contact under left eye — single 2cm stroke from inner corner outward along orbital bone DEPOSITING CONCEALER, visible product on doe-foot tip catching amber streetlight with luminous warm-tone highlight, left undereye area VISIBLY TRANSFORMING from subtle shadow to bright lifted radiant (correction in progress), right undereye still showing slight natural shadow (built-in before/after comparison — left corrected, right natural), eyes directed slightly rightward (using car window as dark mirror, not looking at camera), full "After Dark" makeup impeccable everywhere else: wing liner, smoked lower lash, berry lip, structured contour — the concealer is the ONE targeted correction, "Midnight Sculpt" slicked hair smooth from severe part with face fully exposed, diamond stud earring, silver chain, dramatic streetlight overhead amber creating defined face architecture and catching the product luminously, doe-foot tip and product visible at extreme detail at this distance, 85mm f/1.4 0.6m tight straight-on, amber overhead key with wet-bounce fill from below, silver rim from one side, 30% night shadow, photorealistic single-stroke-concealer-application under streetlight with visible corrective transformation in real-time, BEAUTY AD HERO — precision + efficiency + visible result in one frame
 ```
+
+---
 
 ### Video Prompt 4 — THE CLICK AND STROKE — PRECISION UNDER STREETLIGHT (hero moment)
 
@@ -1829,17 +2014,20 @@ Tight face straight-on HERO FRAME — right hand holding matte-black concealer p
 
 ### Prompt 5 — PEN AWAY, BLEND — FINGERTIP PERFECTS IN 1 SECOND
 
-
 **Camera:** 75mm f/1.6 | 1.0m | straight-on slightly tighter on undereye area | face showing blend
 **Lighting:** Same streetlight amber overhead | Product now set and invisible (blended into perfection)
+
+**Body: strictly keep her legs fuller, thighs fuller, arms fuller, fuller chest, perfect flat belly.**
 
 Quick beat: pen already returned to clutch (happened between frames — she's FAST), now her right ring finger making 3 fast PATS under the left eye to blend the concealer seamlessly into surrounding skin. 3 pats. That's all it takes. Then: she turns from the car window, faces forward (toward the venue), and the correction is INVISIBLE except for its effect (brighter, lifted, radiant undereye). No one will know. We know.
 
 **Kinetic 6:** Right ring finger making 3 rapid pats on left undereye (tap-tap-tap: each pat pressing product into skin for seamless blend), turning body away from car window (the mirror is done, the correction is done), beginning to face forward (toward venue), concealer setting into skin with each pat-tap (going from visible deposit to invisible blend), "3 seconds. That's all she needed. That's all the product needed." — the efficiency IS the luxury; residue in how she's already turning away before the third pat lands (she trusts it's done), streetlight on her face now showing BOTH undereyes bright and radiant (the correction made the left match a theoretical perfect version of the right — now both are lifted).
 
 ```
-Face straight-on slightly tighter on undereye area — right ring finger making final pat under left eye (third of three rapid blend-taps), concealer BLENDED into skin seamlessly (no visible product deposit — only the EFFECT: brighter, lifted, luminous undereye matching perfect radiance), she's beginning to turn body away from car window (rotation 10 degrees toward forward/venue), pen already returned to clutch (efficiency — she's fast), BOTH undereyes now bright and radiant (left corrected invisibly, right naturally good — unified brightened result), full "After Dark" makeup now PERFECT with the one correction completed: wing liner, smoked lash, berry lip, matte skin, structured contour, now with undereye radiance added, "Midnight Sculpt" ponytail smooth, diamond studs, silver chain, expression shifting from assessment-precision to departure-confidence (micro-expression shift: from focused to ready), streetlight amber overhead showing the perfected face result, body beginning forward-turn, 75mm f/1.6 1.0m straight-on, amber overhead, the RESULT visible in undereye luminosity without any remaining visible product, photorealistic blended-concealer-result (product invisible, effect visible), beauty-ad post-application with instant-efficiency energy
+Body: strictly keep her legs fuller thighs fuller arms fuller fuller chest perfect flat belly. Face straight-on slightly tighter on undereye area — right ring finger making final pat under left eye (third of three rapid blend-taps), concealer BLENDED into skin seamlessly (no visible product deposit — only the EFFECT: brighter, lifted, luminous undereye matching perfect radiance), she's beginning to turn body away from car window (rotation 10 degrees toward forward/venue), pen already returned to clutch (efficiency — she's fast), BOTH undereyes now bright and radiant (left corrected invisibly, right naturally good — unified brightened result), full "After Dark" makeup now PERFECT with the one correction completed: wing liner, smoked lash, berry lip, matte skin, structured contour, now with undereye radiance added, "Midnight Sculpt" ponytail smooth, diamond studs, silver chain, expression shifting from assessment-precision to departure-confidence (micro-expression shift: from focused to ready), streetlight amber overhead showing the perfected face result, body beginning forward-turn, 75mm f/1.6 1.0m straight-on, amber overhead, the RESULT visible in undereye luminosity without any remaining visible product, photorealistic blended-concealer-result (product invisible, effect visible), beauty-ad post-application with instant-efficiency energy
 ```
+
+---
 
 ### Video Prompt 5 — PEN AWAY, BLEND — FINGERTIP PERFECTS IN 1 SECOND
 
@@ -1851,17 +2039,20 @@ Face straight-on slightly tighter on undereye area — right ring finger making 
 
 ### Prompt 6 — INTO THE NIGHT — SHE WALKS TOWARD THE WARMTH
 
-
 **Camera:** 35mm f/2.2 | 5m | wide from slightly behind/three-quarter back | full body walking away from car toward venue entrance
 **Lighting:** Key: venue interior warm glow ahead through glass doors (she walks toward warmth) | Fill: street amber from behind (the streetlight pool she's leaving) | Rim: amber from behind creating edge on shoulders/ponytail | Shadow 30% night
+
+**Body: strictly keep her legs fuller, thighs fuller, arms fuller, fuller chest, perfect flat belly.**
 
 FINALE: She walks away from the car toward the venue entrance — glass doors ahead with warm interior light visible through them. Full body from slightly behind: black velvet blazer, black trousers, patent heels clicking on wet pavement, ponytail between shoulder blades swinging minimally with stride. Clutch at side (concealer hidden within — its job done in 3 seconds). She's walking INTO warmth and light — leaving the correction behind as a private secret between her and the car window. Brief three-quarter profile as she approaches the doors: both undereyes radiant, the "After Dark" look now at its PEAK. Product correction invisible to the world but TRANSFORMATIVE to her confidence.
 
 **Kinetic 6:** Walking stride in patent heels on wet pavement (the specific click-rhythm of pointed heels on wet surface — purposeful, measured, confident), ponytail swinging minimally between shoulder blades (the tight low-style barely moves — control in motion), clutch at left thigh with pen inside (tool served its purpose, resting), heels creating wet-contact micro-sounds on pavement (the rhythmic night-walk percussion), "no one at the venue will know. She fixed the one thing in 3 seconds from a car window. That's the product's truth: invisible work, visible confidence" — the privacy of the correction is the emotional core; she walks INTO the venue's warmth radiating the confidence of someone whose face is perfect and they know it, venue warm light growing on her front as she approaches (progressive warming from ahead), amber streetlight fading on her back (progressive cooling from behind) — she crosses between night-behind and warmth-ahead.
 
 ```
-Wide from slightly behind/three-quarter back Aira walking toward venue entrance — full body at 5m distance: fitted black velvet blazer catching minimal ambient light with texture, black silk straight-leg trousers, pointed patent black heels mid-step on wet pavement (reflective surface), black satin clutch at left thigh (concealer pen hidden inside — job done), dark "Midnight Sculpt" slicked-back low ponytail falling between shoulder blades swinging minimally with stride, diamond stud earring catching light on right side, venue entrance ahead 5m — glass doors with warm interior glow visible through them (golden warm light flooding outward), she's walking FROM amber streetlight pool (behind, fading) TOWARD warm venue glow (ahead, growing), brief three-quarter profile visible as she approaches doors — radiant perfected undereyes and full "After Dark" makeup at its PEAK catching growing venue warmth, wet pavement reflecting both venue-warmth-ahead and street-amber-behind creating dual-colored reflections she walks over, other slightly-blurred figures near venue entrance (populated destination — she's arriving somewhere alive), 35mm f/2.2 5m slightly behind/three-quarter back, venue warmth ahead growing + street amber behind fading = progressive temperature shift, wet-pavement reflections, 30% night shadow, patent heels catching every light source, photorealistic night-walk-toward-venue with progressive-warming and confidence-walk, BEAUTY AD CINEMATIC FINALE — correction invisible, confidence visible, she walks into the world carrying the product's secret work
+Body: strictly keep her legs fuller thighs fuller arms fuller fuller chest perfect flat belly. Wide from slightly behind/three-quarter back Aira walking toward venue entrance — full body at 5m distance: fitted black velvet blazer catching minimal ambient light with texture, black silk straight-leg trousers, pointed patent black heels mid-step on wet pavement (reflective surface), black satin clutch at left thigh (concealer pen hidden inside — job done), dark "Midnight Sculpt" slicked-back low ponytail falling between shoulder blades swinging minimally with stride, diamond stud earring catching light on right side, venue entrance ahead 5m — glass doors with warm interior glow visible through them (golden warm light flooding outward), she's walking FROM amber streetlight pool (behind, fading) TOWARD warm venue glow (ahead, growing), brief three-quarter profile visible as she approaches doors — radiant perfected undereyes and full "After Dark" makeup at its PEAK catching growing venue warmth, wet pavement reflecting both venue-warmth-ahead and street-amber-behind creating dual-colored reflections she walks over, other slightly-blurred figures near venue entrance (populated destination — she's arriving somewhere alive), 35mm f/2.2 5m slightly behind/three-quarter back, venue warmth ahead growing + street amber behind fading = progressive temperature shift, wet-pavement reflections, 30% night shadow, patent heels catching every light source, photorealistic night-walk-toward-venue with progressive-warming and confidence-walk, BEAUTY AD CINEMATIC FINALE — correction invisible, confidence visible, she walks into the world carrying the product's secret work
 ```
+
+---
 
 ### Video Prompt 6 — INTO THE NIGHT — SHE WALKS TOWARD THE WARMTH
 

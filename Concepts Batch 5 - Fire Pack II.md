@@ -37,13 +37,13 @@ NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic ski
 ### Prompt 1 — THE BRIEFING
 
 
-#### SCENE ARCHITECTURE
+SCENE ARCHITECTURE:
 - LOCATION: Mirror-Wall Studio — three angled mirrors, polished concrete floor, black lacquer makeup station against left wall, two 42" LED screens mounted high on right wall showing muted news broadcasts with scrolling chyrons
 - TIME OF DAY: Late afternoon, 4:45 PM — exterior light blocked, entirely artificial environment
 - ATMOSPHERE: Cool, sterile, zero humidity; air conditioning hum creating slight pressure feeling; faint ozone scent from electronics
 - SOUND WORLD: Low electrical hum of screens, soft 808 sub-bass pulse beginning at 0.5s (62 BPM), muted news anchor voice barely audible from screens, her controlled breathing
 
-#### CAMERA
+CAMERA:
 - LENS: 50mm f/1.4 Sigma Art — clinical sharpness with creamy bokeh transition
 - DISTANCE: 1.8m from subject center mass
 - HEIGHT: Eye-level (5'7" from floor, matching her seated eye height)
@@ -51,7 +51,7 @@ NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic ski
 - MOVEMENT: Static hold for 6s, then 2s micro-push forward (imperceptible 3cm total travel)
 - APERTURE: f/2.0 — subject sharp from nose-tip to ear, background mirrors in soft focus
 
-#### LIGHTING
+LIGHTING:
 - KEY: LED panel (Aputure 600d) at 45-degrees camera-left, 5600K daylight balanced, medium-hard with 1/4 grid, 80% intensity creating defined cheekbone shadow
 - FILL: Bounce card camera-right at 2:1 ratio (2 stops under key), neutral white 5200K
 - RIM: LED strip along mirror frame behind-left at 6500K cool white, thin razor edge on left shoulder and ear, 30% intensity
@@ -59,8 +59,10 @@ NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic ski
 - ATMOSPHERE IN LIGHT: No haze — clean clinical air, light cuts sharp without scatter
 - SHADOW BEHAVIOR: 40% density on camera-right cheek, hard-medium edge from grid, falls toward jaw at 35-degree angle downward
 
-#### SUBJECT — AIRA
+SUBJECT — AIRA:
 **Identity Lock:** Adult woman late 20s-early 30s, South Asian (Indian), warm honey-to-caramel skin tone with golden undertone, 5'6"-5'8", soft-strong hourglass-athletic silhouette, fuller sculpted legs with toned thigh definition, fuller shapely thighs, fuller feminine arms with subtle muscle tone, fuller defined chest in proportion, flat toned midsection, defined waist clear waist-to-hip ratio, curvy hip line with natural feminine flare, heart-shaped to oval face, defined cheekbones, full defined lips with natural cupid's bow, almond-shaped expressive eyes dark brown iris with subtle amber flecks, strong but feminine groomed naturally arched brow, natural sun-kissed glow, long dark brown to near-black hair with subtle warm highlights naturally textured soft waves with body and movement, elegant well-groomed hands.
+
+**Body: strictly keep her legs fuller, thighs fuller, arms fuller, fuller chest, perfect flat belly.**
 
 **Body Position:**
 - Weight distribution: 60% right hip / 40% left — seated on makeup chair, leaning slightly right
@@ -101,24 +103,25 @@ NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic ski
 **Wardrobe State:**
 - Black silk robe (untied, open) over nude seamless undergarments, bare left foot, right foot in single nude stiletto (trying on shoes for the look), crimson suit hanging on rack visible in mirror reflection behind her — still on hanger, pressed and waiting
 
-#### SPATIAL LOGIC
+SPATIAL LOGIC:
 - FOREGROUND: Edge of makeup counter entering frame from left — chrome brush holders and scattered press clippings (partially readable headlines), soft focus, 15% of frame, grounds the space
 - MIDGROUND: Aira seated center-right of frame, tack-sharp, occupying 60% of vertical frame height, chair visible as industrial chrome-and-leather form
 - BACKGROUND: Triple mirror creating infinite reflections — crimson suit on rack visible in leftmost mirror reflection, news screens in rightmost mirror, all at f/2.0 soft focus creating depth layers receding, 25% of frame
 
-#### COLOR GRADE
+COLOR GRADE:
 - HIGHLIGHTS: Cool-neutral rolloff with micro-blue shift from screen reflections, smooth creamy transition, no clipping
 - MIDTONES: Skin-priority warmth — golden undertone preserved against cool environment, mild desaturation in non-skin areas by 10%, controlled neutrality
 - SHADOWS: Deep charcoal with blue-black undertone (not pure black), lifted to 6%, rich without crushing detail
 - REFERENCE: Bradford Young (Arrival) meets Darius Khondji — clinical-beautiful tension
 - OVERALL FEEL: Controlled dread — beautiful but the stakes are visible in every shadow
 
-#### PRODUCT (if applicable)
+PRODUCT:
 - N/A for Frame 1 — all products on counter visible but untouched
 
-#### NEGATIVE BLOCK
+NEGATIVE:
 NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic skin, uncanny valley, over-retouched poreless skin, HDR artifacts, oversaturated neon, AI face-smoothing, stock photo energy, influencer poses, duck lips, peace signs, performative expressions, text/watermarks/logos unless specified, multiple people unless specified. NO smiling. NO tears. NO vulnerability in posture. NO slumped spine. NO warm cozy lighting. NO comfort. Frame-specific: NO visible makeup on face yet, NO hair styled yet, NO suit on body yet.
 
+---
 
 ### Video Prompt 1 — THE BRIEFING
 
@@ -148,13 +151,13 @@ NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic ski
 ### Prompt 2 — THE ARMOR BEGINS
 
 
-#### SCENE ARCHITECTURE
+SCENE ARCHITECTURE:
 - LOCATION: Same Mirror-Wall Studio — now viewed from 30-degree angle showing two of three mirrors, makeup station fully visible with products arranged left-to-right in application order
 - TIME OF DAY: Same late afternoon — artificial only, no change
 - ATMOSPHERE: Same sterile cool air; primer's slight chemical-sweet scent now present; tension thickening
 - SOUND WORLD: 808 pulse now at 68 BPM (slightly faster), soft brush-on-skin sounds, primer bottle click, controlled breathing through nose
 
-#### CAMERA
+CAMERA:
 - LENS: 85mm f/1.4 — portrait compression, isolating, intimate-but-distanced
 - DISTANCE: 1.2m from face
 - HEIGHT: 5cm above eye level (subtle authority angle — she's being looked down upon by the world but building UP)
@@ -162,7 +165,7 @@ NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic ski
 - MOVEMENT: Static hold for 4s, then slow pan right (2cm/s) following her hand movement from primer to foundation
 - APERTURE: f/1.8 — face razor-sharp, hands in acceptable focus, background fully dissolved
 
-#### LIGHTING
+LIGHTING:
 - KEY: Same LED panel now at 50-degree angle (she turned slightly), 5600K, medium-hard, 85% intensity — sculpting one half of face dramatically
 - FILL: Reduced to 3:1 ratio — more dramatic than Frame 1, shadow side more present
 - RIM: Mirror LED strip now catching her hair at crown — thin white line separating her from BG
@@ -170,8 +173,10 @@ NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic ski
 - ATMOSPHERE IN LIGHT: Zero haze maintained — clinical precision
 - SHADOW BEHAVIOR: 50% density now on camera-right face (increased drama from Frame 1), sharp-medium edge, jaw shadow falling onto neck at 40-degree angle
 
-#### SUBJECT — AIRA
+SUBJECT — AIRA:
 **Identity Lock:** Adult woman late 20s-early 30s, South Asian (Indian), warm honey-to-caramel skin tone with golden undertone, 5'6"-5'8", soft-strong hourglass-athletic silhouette, fuller sculpted legs with toned thigh definition, fuller shapely thighs, fuller feminine arms with subtle muscle tone, fuller defined chest in proportion, flat toned midsection, defined waist clear waist-to-hip ratio, curvy hip line with natural feminine flare, heart-shaped to oval face, defined cheekbones, full defined lips with natural cupid's bow, almond-shaped expressive eyes dark brown iris with subtle amber flecks, strong but feminine groomed naturally arched brow, natural sun-kissed glow, long dark brown to near-black hair with subtle warm highlights naturally textured soft waves with body and movement, elegant well-groomed hands.
+
+**Body: strictly keep her legs fuller, thighs fuller, arms fuller, fuller chest, perfect flat belly.**
 
 **Body Position:**
 - Weight distribution: 50/50 centered — she's straightened in the chair, squared up
@@ -212,21 +217,22 @@ NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic ski
 **Wardrobe State:**
 - Same black silk robe (now tied loosely at waist — she stood to get second shoe, re-sat and tied), both nude stilettos on, robe falling open at chest revealing nude camisole beneath, crimson suit still on rack in mirror reflection
 
-#### SPATIAL LOGIC
+SPATIAL LOGIC:
 - FOREGROUND: Chrome edge of makeup station at bottom-left frame corner, two product bottles visible (primer used, foundation next) — soft focus, 10% of frame
 - MIDGROUND: Aira occupying center frame, tack-sharp face and working hand, left hand and hair in acceptable focus zone — 65% of frame
 - BACKGROUND: Mirror showing her profile reflection (reversed angle) — reveals side-view of application, soft-dissolved but recognizable, news screen glow visible as blue haze in far mirror — 25% of frame
 
-#### COLOR GRADE
+COLOR GRADE:
 - HIGHLIGHTS: Neutral-warm on skin speculars (primer adding sheen), cool on chrome/metal surfaces, smooth rolloff maintained
 - MIDTONES: Warming slightly from Frame 1 — her skin pulling the grade toward warmth as it becomes the priority subject, environment remaining cool
 - SHADOWS: Same charcoal blue-black, 6% lift, slightly denser on camera-right cheek (intentional drama)
 - REFERENCE: Same Bradford Young palette — surgical sterility with buried warmth
 - OVERALL FEEL: Preparation as ritual — each stroke is a choice, not vanity but strategy
 
-#### NEGATIVE BLOCK
+NEGATIVE:
 NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic skin, uncanny valley, over-retouched poreless skin, HDR artifacts, oversaturated neon, AI face-smoothing, stock photo energy, influencer poses. NO full-face makeup yet (only primer stage). NO hair styled yet (only gathered loosely). NO suit on body. NO smiling. NO performing for camera. NO warm lighting (must stay clinical). NO messy/chaotic application (she is precise, deliberate).
 
+---
 
 ### Video Prompt 2 — THE ARMOR BEGINS
 
@@ -256,13 +262,13 @@ NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic ski
 ### Prompt 3 — THE MASK BUILDS
 
 
-#### SCENE ARCHITECTURE
+SCENE ARCHITECTURE:
 - LOCATION: Same Mirror-Wall Studio — camera now positioned to capture her from waist-up with center mirror directly behind showing full back-of-head reflection
 - TIME OF DAY: Same — artificial, timeless, pressure-cooker environment
 - ATMOSPHERE: Foundation's faint powder scent layering over primer; air unchanged; room feels smaller as she builds armor
 - SOUND WORLD: Beauty sponge bouncing (rhythmic damp thuds), music building with added hi-hat pattern, breathing more audible (controlled power breaths)
 
-#### CAMERA
+CAMERA:
 - LENS: 70mm f/2.0 — slight compression, flattering but honest
 - DISTANCE: 0.9m from face (closer now — intimacy increasing as stakes build)
 - HEIGHT: Exact eye-level (equals her seated position at 5'2" from floor)
@@ -270,7 +276,7 @@ NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic ski
 - MOVEMENT: 0.5cm/s micro-drift leftward (barely perceptible, following her sponge-hand motion), holds final 2s
 - APERTURE: f/2.0 — face and both hands sharp (both in working plane), shoulders transitioning to soft, background dissolved
 
-#### LIGHTING
+LIGHTING:
 - KEY: Maintained 5600K at 50 degrees, raised 15 degrees (now lighting from slightly above), harder modifier (grid + no diffusion), creating stronger cheekbone sculpt
 - FILL: Maintained 3:1 ratio, neutral bounce
 - RIM: Added second rim — now both mirror LED strips catching her (left shoulder + right crown), creating separation envelope
@@ -278,8 +284,10 @@ NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic ski
 - ATMOSPHERE IN LIGHT: Micro-particles of pressed powder now catching key light (she opened compact) — 4-5 visible motes in light beam
 - SHADOW BEHAVIOR: 55% density camera-right, nose shadow crisp on cheek (harder light), under-eye shadow used for contour emphasis
 
-#### SUBJECT — AIRA
+SUBJECT — AIRA:
 **Identity Lock:** Adult woman late 20s-early 30s, South Asian (Indian), warm honey-to-caramel skin tone with golden undertone, 5'6"-5'8", soft-strong hourglass-athletic silhouette, fuller sculpted legs with toned thigh definition, fuller shapely thighs, fuller feminine arms with subtle muscle tone, fuller defined chest in proportion, flat toned midsection, defined waist clear waist-to-hip ratio, curvy hip line with natural feminine flare, heart-shaped to oval face, defined cheekbones, full defined lips with natural cupid's bow, almond-shaped expressive eyes dark brown iris with subtle amber flecks, strong but feminine groomed naturally arched brow, natural sun-kissed glow, long dark brown to near-black hair with subtle warm highlights naturally textured soft waves with body and movement, elegant well-groomed hands.
+
+**Body: strictly keep her legs fuller, thighs fuller, arms fuller, fuller chest, perfect flat belly.**
 
 **Body Position:**
 - Weight distribution: 55% left (leaning into mirror for precision), 45% right
@@ -320,21 +328,22 @@ NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic ski
 **Wardrobe State:**
 - Same black silk robe tied at waist, both stilettos on, robe open at chest showing nude camisole, sleeves pushed to elbows now (working mode — she pushed them up for arm freedom), wrists visible
 
-#### SPATIAL LOGIC
+SPATIAL LOGIC:
 - FOREGROUND: Foundation bottle and open concealer palette on counter at bottom of frame — products showing used state (caps off, finger marks in product), soft focus, 12% of frame
 - MIDGROUND: Aira filling center frame — sponge and face in critical focus zone, hands creating triangular composition around face, 70% of frame
 - BACKGROUND: Center mirror reflection (her back-of-head, revealing nape of neck and hair fall, reversed angle giving viewers second perspective simultaneously), news screens soft-blurred but blue glow visible — 18% of frame
 
-#### COLOR GRADE
+COLOR GRADE:
 - HIGHLIGHTS: Warm-neutral on skin (foundation adding matte quality reducing speculars), cool on sponge and tools, powder motes reading as warm-white points
 - MIDTONES: Skin now foundation-matte — slightly different color response than bare skin (more uniform warmth, less variation), environment still cool contrast
 - SHADOWS: Maintained charcoal blue-black at 6% lift, contouring shadows on face reading as warm-brown (product-created shadow vs. lighting shadow creating interesting dual-shadow read)
 - REFERENCE: Same Bradford Young, adding Sam Levy (Lady Bird) for the intimate precision-work beauty
 - OVERALL FEEL: Ritual precision — she's building a face that can withstand anything, each bounce of the sponge is a layer of defense
 
-#### NEGATIVE BLOCK
+NEGATIVE:
 NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic skin, uncanny valley, over-retouched poreless skin, HDR artifacts, oversaturated neon, AI face-smoothing, stock photo energy. NO completed eye makeup yet. NO lip color yet. NO brow product yet. NO hair styled (only gathered behind). NO suit on body. NO smiling. NO looking at camera. NO finished-face appearance (must be mid-process, partially done, asymmetric completion visible).
 
+---
 
 ### Video Prompt 3 — THE MASK BUILDS
 
@@ -364,13 +373,13 @@ NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic ski
 ### Prompt 4 — THE EYES IGNITE
 
 
-#### SCENE ARCHITECTURE
+SCENE ARCHITECTURE:
 - LOCATION: Same Mirror-Wall Studio — camera angle tightened to extreme close-up territory, mirrors visible only as light-source edges
 - TIME OF DAY: Same artificial environment — timeless intensity
 - ATMOSPHERE: Eyeshadow pigment faintly in the air near her face (she just tapped excess off brush), intimacy maximized
 - SOUND WORLD: Soft brush-on-lid sweeps (feathery texture sounds), music now with added low cello drone, her breath audible between words
 
-#### CAMERA
+CAMERA:
 - LENS: 100mm f/2.0 macro capability — extreme facial detail, pore-level resolution, flattened perspective
 - DISTANCE: 55cm from face (extreme intimacy — viewer is inside her personal space)
 - HEIGHT: 3cm below eye level (micro under-angle, empowering, her gaze falls slightly downward to camera)
@@ -378,7 +387,7 @@ NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic ski
 - MOVEMENT: Static for 6s, then 2s gentle rack focus from right eye to left eye (following her brush movement across lids)
 - APERTURE: f/2.2 — both eyes in focus plane (same depth), nose and lips transitioning to soft, ears and beyond fully dissolved
 
-#### LIGHTING
+LIGHTING:
 - KEY: Same 5600K, narrowed further with barn doors to light only face (rest falling to shadow), 90% intensity on face
 - FILL: Reduced to 4:1 ratio — dramatic for the smoke eye work, shadow side mysterious
 - RIM: Single strip at crown creating hair-separation halo, thin and precise
@@ -386,8 +395,10 @@ NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic ski
 - ATMOSPHERE IN LIGHT: 2-3 pigment particles floating between lens and face, catching key light as micro golden-brown dots
 - SHADOW BEHAVIOR: 60% density on less-lit side, nose shadow dramatic and cinematic, under-eye contour deepened by angle
 
-#### SUBJECT — AIRA
+SUBJECT — AIRA:
 **Identity Lock:** Adult woman late 20s-early 30s, South Asian (Indian), warm honey-to-caramel skin tone with golden undertone, 5'6"-5'8", soft-strong hourglass-athletic silhouette, fuller sculpted legs with toned thigh definition, fuller shapely thighs, fuller feminine arms with subtle muscle tone, fuller defined chest in proportion, flat toned midsection, defined waist clear waist-to-hip ratio, curvy hip line with natural feminine flare, heart-shaped to oval face, defined cheekbones, full defined lips with natural cupid's bow, almond-shaped expressive eyes dark brown iris with subtle amber flecks, strong but feminine groomed naturally arched brow, natural sun-kissed glow, long dark brown to near-black hair with subtle warm highlights naturally textured soft waves with body and movement, elegant well-groomed hands.
+
+**Body: strictly keep her legs fuller, thighs fuller, arms fuller, fuller chest, perfect flat belly.**
 
 **Body Position:**
 - Weight distribution: 50/50 (centered, squared for precision work)
@@ -428,21 +439,22 @@ NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic ski
 **Wardrobe State:**
 - Not visible in frame (extreme close-up) — implied same robe situation, irrelevant to viewer at this distance
 
-#### SPATIAL LOGIC
+SPATIAL LOGIC:
 - FOREGROUND: Brush and hand occupying near-camera plane (right-side of frame) — in focus, detailed enough to see individual brush hairs and knuckle texture, 20% of frame
 - MIDGROUND: Her face filling frame — eyes as primary subject, nose+lips as secondary, critical sharpness maintained on eye-plane, 70% of frame
 - BACKGROUND: Dissolved to abstract — warm dark with horizontal light-lines (mirror LEDs) and shifting blue (TV), creating color-field backdrop, 10% of frame
 
-#### COLOR GRADE
+COLOR GRADE:
 - HIGHLIGHTS: Warm-cream on skin, cool on brush metal ferrule, amber on pigment particles catching light
 - MIDTONES: Heavy skin warmth priority — foundation tone as color anchor, blacks of eye shadow reading true-black not blue-shifted
 - SHADOWS: Rich black with warm brown undertone (not cold), lifted to 5% to preserve detail in eye shadow darkest points
 - REFERENCE: Emmanuel Lubezki close-up work (Birdman) — raw intimate proximity with cinematic light logic
 - OVERALL FEEL: Sacred concentration — she is building weapons-grade eyes, each stroke deliberate as a calligrapher
 
-#### NEGATIVE BLOCK
+NEGATIVE:
 NO: deformed hands, extra fingers, asymmetric eyes (in shape — asymmetric makeup progress is correct), melted features, plastic skin, uncanny valley, over-retouched poreless skin, HDR artifacts, oversaturated neon, AI face-smoothing. NO completed smoky eye yet (must be IN PROGRESS, asymmetric completion). NO lip product yet. NO blush yet. NO false lashes yet. NO tears (moisture only, controlled). NO smiling. NO performative expression. NO both eyes open simultaneously (one must be closed for application). NO mascara yet.
 
+---
 
 ### Video Prompt 4 — THE EYES IGNITE
 
@@ -472,13 +484,13 @@ NO: deformed hands, extra fingers, asymmetric eyes (in shape — asymmetric make
 ### Prompt 5 — THE LIP WEAPON
 
 
-#### SCENE ARCHITECTURE
+SCENE ARCHITECTURE:
 - LOCATION: Same Mirror-Wall Studio — camera pulled back to medium shot, she's now standing at the station (transitioned from sitting), full torso visible, center mirror reflecting her face back
 - TIME OF DAY: Same — but news screens have shifted to LIVE graphic (the interview is approaching)
 - ATMOSPHERE: Lipstick's waxy-floral scent, energy elevated, room charged with her growing electricity
 - SOUND WORLD: Music building significantly, lipstick bullet twisting up (mechanical click), her steady breath, distant phone vibrating on counter (ignored)
 
-#### CAMERA
+CAMERA:
 - LENS: 50mm f/1.4 — return to opening lens but everything has changed since Frame 1
 - DISTANCE: 1.4m from subject
 - HEIGHT: Eye level (she's standing now, camera at 5'7" — matched to her height)
@@ -486,7 +498,7 @@ NO: deformed hands, extra fingers, asymmetric eyes (in shape — asymmetric make
 - MOVEMENT: Very slow push-in (4cm over 8s — approaching her as she approaches readiness)
 - APERTURE: f/1.8 — face critical sharp, hands and lipstick in acceptable focus, mirror reflection soft but readable
 
-#### LIGHTING
+LIGHTING:
 - KEY: Same source now reading differently (she's standing, new angle) — 5600K wrapping from camera-left at 40 degrees, creating sculpted dimension
 - FILL: 2.5:1 ratio — slightly filled up from Frame 4 (she's transitioning from preparation darkness to presentation readiness)
 - RIM: Both mirror strips catching her — double rim (left shoulder, right hair) creating power-silhouette framing
@@ -494,8 +506,10 @@ NO: deformed hands, extra fingers, asymmetric eyes (in shape — asymmetric make
 - ATMOSPHERE IN LIGHT: Clean — powder settled, air clear for lip application (no particles wanted near wet lip product)
 - SHADOW BEHAVIOR: 45% density camera-right, softer edges than Frame 4 (she's moving into her power, less shadow), jaw shadow elegant not dramatic
 
-#### SUBJECT — AIRA
+SUBJECT — AIRA:
 **Identity Lock:** Adult woman late 20s-early 30s, South Asian (Indian), warm honey-to-caramel skin tone with golden undertone, 5'6"-5'8", soft-strong hourglass-athletic silhouette, fuller sculpted legs with toned thigh definition, fuller shapely thighs, fuller feminine arms with subtle muscle tone, fuller defined chest in proportion, flat toned midsection, defined waist clear waist-to-hip ratio, curvy hip line with natural feminine flare, heart-shaped to oval face, defined cheekbones, full defined lips with natural cupid's bow, almond-shaped expressive eyes dark brown iris with subtle amber flecks, strong but feminine groomed naturally arched brow, natural sun-kissed glow, long dark brown to near-black hair with subtle warm highlights naturally textured soft waves with body and movement, elegant well-groomed hands.
+
+**Body: strictly keep her legs fuller, thighs fuller, arms fuller, fuller chest, perfect flat belly.**
 
 **Body Position:**
 - Weight distribution: 60% right leg (hip cocked right — power stance emerging), 40% left
@@ -536,21 +550,22 @@ NO: deformed hands, extra fingers, asymmetric eyes (in shape — asymmetric make
 **Wardrobe State:**
 - Still in black silk robe (tied, sleeves at elbows), both stilettos, pearl stud earrings now visible (put in after hair was pulled back), crimson suit hanging on portable hook directly beside her (1 foot away — next step after face completes), visible as vertical crimson presence in frame edge
 
-#### SPATIAL LOGIC
+SPATIAL LOGIC:
 - FOREGROUND: Crimson suit on hook at far-left frame edge, entering as vertical color slash, very soft focus but unmistakable in hue — foreshadowing final form, 8% of frame
 - MIDGROUND: Aira standing, medium shot (waist to above head), lipstick and approaching hand as critical detail elements, mirror reflection visible past her right shoulder — 75% of frame
 - BACKGROUND: Three mirrors with LEDs, news screens with red LIVE graphics, dissolved but providing color-coded narrative information (red = imminent), 17% of frame
 
-#### COLOR GRADE
+COLOR GRADE:
 - HIGHLIGHTS: Warm cream on skin with gel-sheen on hair reading cooler (blue-specular on wet-look product), crimson lipstick bullet reading TRUE crimson (not orange, not berry — pure red)
 - MIDTONES: Skin warmth as anchor, increasing warmth in overall grade (building toward crimson final frames), environment warming from clinical-cool of earlier frames
 - SHADOWS: Rich warm-black (shifted from blue-black of Frames 1-3), lifted 5%, shadows now embracing her form rather than threatening — she owns the dark
 - REFERENCE: Paolo Sorrentino's The Great Beauty — glamour meeting dread meeting confidence
 - OVERALL FEEL: The weapon is being loaded — crimson approaching lip is a bullet being chambered
 
-#### NEGATIVE BLOCK
+NEGATIVE:
 NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic skin, uncanny valley, over-retouched poreless skin, HDR artifacts, oversaturated neon, AI face-smoothing, stock photo energy. NO completed lip (bullet approaching, not yet applied). NO suit on body yet. NO smiling (this is focus, not joy). NO looking at camera (mirror gaze only). NO lipstick smudge or imperfection in liner. NO hair loose (must be in wet-look pony). NO weak posture (she's standing in power).
 
+---
 
 ### Video Prompt 5 — THE LIP WEAPON
 
@@ -580,13 +595,13 @@ NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic ski
 ### Prompt 6 — THE WALK-OUT
 
 
-#### SCENE ARCHITECTURE
+SCENE ARCHITECTURE:
 - LOCATION: Same Mirror-Wall Studio — but now she's moving AWAY from station toward door (camera-right), full-length view, all three mirrors capturing her from different angles as she passes them
 - TIME OF DAY: Same — but the screens now show LIVE IN 5 MINUTES (urgency made visual)
 - ATMOSPHERE: Perfume cloud (she sprayed walking) trailing behind her, charged triumphant energy, air displacement from purposeful stride
 - SOUND WORLD: Stiletto strikes on concrete (sharp, rhythmic, powerful), music at full intensity, suit fabric movement, door handle mechanism
 
-#### CAMERA
+CAMERA:
 - LENS: 35mm f/1.8 — wide enough to capture full stride and environment, cinematic scope
 - DISTANCE: 2.5m from subject (pulled back for full-body power shot)
 - HEIGHT: Low angle — 1m from floor (shooting upward — she towers, dominates frame)
@@ -594,7 +609,7 @@ NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic ski
 - MOVEMENT: Dolly tracking with her stride at matching speed (she stays center-frame while world moves behind her), 8s continuous
 - APERTURE: f/2.2 — full body in focus from stiletto to crown, background in cinematic soft (mirrors and screens as color information only)
 
-#### LIGHTING
+LIGHTING:
 - KEY: 5600K hitting her at 60-degree angle from camera-left (she's walked past it, catching edge quality), creating long dramatic shadow extending right
 - FILL: Ambient only — 5:1 ratio (minimal fill — she's in her own light now, dramatic high-contrast)
 - RIM: All three mirror LED strips catching different body parts as she passes — cycling rim effect (shoulders, then waist, then legs as she crosses)
@@ -602,8 +617,10 @@ NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic ski
 - ATMOSPHERE IN LIGHT: Perfume mist visible as faint golden cloud behind her (backlit by mirror LEDs), trailing 30cm behind her shoulders
 - SHADOW BEHAVIOR: Full dramatic shadow extending to her right on concrete floor, 70% density, hard edge (final hard-light configuration), walking shadow creating movement on floor
 
-#### SUBJECT — AIRA
+SUBJECT — AIRA:
 **Identity Lock:** Adult woman late 20s-early 30s, South Asian (Indian), warm honey-to-caramel skin tone with golden undertone, 5'6"-5'8", soft-strong hourglass-athletic silhouette, fuller sculpted legs with toned thigh definition, fuller shapely thighs, fuller feminine arms with subtle muscle tone, fuller defined chest in proportion, flat toned midsection, defined waist clear waist-to-hip ratio, curvy hip line with natural feminine flare, heart-shaped to oval face, defined cheekbones, full defined lips with natural cupid's bow, almond-shaped expressive eyes dark brown iris with subtle amber flecks, strong but feminine groomed naturally arched brow, natural sun-kissed glow, long dark brown to near-black hair with subtle warm highlights naturally textured soft waves with body and movement, elegant well-groomed hands.
+
+**Body: strictly keep her legs fuller, thighs fuller, arms fuller, fuller chest, perfect flat belly.**
 
 **Body Position:**
 - Weight distribution: 70% left leg (mid-stride, left leg is grounded phase), 30% right (swing phase, pushing off)
@@ -644,21 +661,22 @@ NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic ski
 **Wardrobe State:**
 - CRIMSON POWER SUIT NOW ON: Double-breasted structured blazer (peak lapel, nipped waist, creating hourglass emphasis), tapered ankle-length trousers (high-waisted, creaseless, tailored), nude pointed stilettos with crimson soles (visible in stride), blazer worn OPEN over deep-V nude silk camisole (matching earlier layer, now styled intentionally), pearl stud earrings, black patent clutch in left hand. Robe GONE (removed between frames, draped over chair visible in BG mirror). She is fully ASSEMBLED.
 
-#### SPATIAL LOGIC
+SPATIAL LOGIC:
 - FOREGROUND: Edge of makeup station she's walked past — scattered products, used tissues, removed robe draped on chair, narrative of the ritual left behind, soft focus, 10% of frame
 - MIDGROUND: Aira in full stride — full body head-to-toe visible, low angle making her fill vertical frame, suit creating powerful crimson vertical, clutch as detail, 65% of frame
 - BACKGROUND: Three mirrors creating triple-exposure of her motion (different angles), TV screens with red graphics, exit door with warm light at seam — the future she's walking toward, 25% of frame
 
-#### COLOR GRADE
+COLOR GRADE:
 - HIGHLIGHTS: Warm-gold on skin, pure-white on gel-hair speculars, TRUE crimson on suit (saturated but not neon, fabric-accurate), platinum on clutch hardware
 - MIDTONES: WARM NOW — the clinical cool of earlier frames has given way to warm power (she's transformed the space with her presence), skin reading rich warm bronze, crimson suit as mid-tone anchor
 - SHADOWS: Warm black with brown-red undertone (influenced by suit reflection), lifted 5%, dramatic floor-shadow creating compositional element
 - REFERENCE: Tom Ford/Nocturnal Animals — power glamour with dread underneath, crimson as declaration
 - OVERALL FEEL: Ignition complete — she's the most dangerous thing in any room she's about to enter, and she knows it
 
-#### NEGATIVE BLOCK
+NEGATIVE:
 NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic skin, uncanny valley, over-retouched poreless skin, HDR artifacts, oversaturated neon, AI face-smoothing, stock photo energy. NO incomplete makeup (ALL done). NO robe (suit ON). NO hair down (wet-look pony only). NO weak posture or small stride. NO looking back. NO hesitation in walk. NO smiling broadly (only knowing micro-smirk). NO vulnerability in body language. NO stumbling or awkward gait. NO wrinkled suit. NO smudged lip.
 
+---
 
 ### Video Prompt 6 — THE WALK-OUT
 
@@ -708,13 +726,13 @@ NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic ski
 ### Prompt 1 — THE DISCOVERY
 
 
-#### SCENE ARCHITECTURE
+SCENE ARCHITECTURE:
 - LOCATION: Bedroom — warm, lived-in, curated chaos. Fairy lights strung in lazy zigzag across headboard (warm 2700K, 40 bulbs), full-length mirror on closet door (left side of room), vanity desk against window wall with round Hollywood mirror (12 warm bulbs), bed partially visible with 4 outfit options laid out (rejected options for the party), sheer curtains (ivory) at 60% draw letting golden hour through
 - TIME OF DAY: 6:15 PM — golden hour filtering through west-facing window, amber-warm natural light mixing with fairy light warmth, long shadows with golden edges
 - ATMOSPHERE: Warm, slightly humid (she just showered — mirror has faint steam at edges), vanilla candle burning on vanity (flame visible), intimate cozy bedroom energy
 - SOUND WORLD: Soft lo-fi beat entering at 2s, phone notification sounds (multiple rapid — the group chat discovery), her suppressed laugh (almost-giggle caught in throat), candle flame flicker, distant neighborhood sounds through window
 
-#### CAMERA
+CAMERA:
 - LENS: 35mm f/1.6 — warm, contextual, showing room as character
 - DISTANCE: 2.0m from subject
 - HEIGHT: Eye level (she's sitting cross-legged on bed — camera at bed-height, 0.7m from floor)
@@ -722,7 +740,7 @@ NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic ski
 - MOVEMENT: Static for 5s, then gentle 1.5cm drift toward her face as her expression changes (discovering the group chat)
 - APERTURE: f/2.0 — subject sharp, fairy lights behind rendered as warm bokeh orbs, outfit options on bed in acceptable soft focus
 
-#### LIGHTING
+LIGHTING:
 - KEY: Golden hour window light at camera-left (west window), 3200K natural amber, soft and warm wrapping her face, medium-soft intensity creating honeyed skin
 - FILL: Fairy lights providing ambient fill from headboard behind-right (2700K, very soft, omnidirectional), ratio 2:1
 - RIM: Golden hour catching hair from behind-left creating amber rim/halo on crown and left shoulder
@@ -730,8 +748,10 @@ NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic ski
 - ATMOSPHERE IN LIGHT: Faint steam residue from shower catching golden light rays (volumetric beams through sheer curtains), candle flame creating micro-flicker on nearby surfaces
 - SHADOW BEHAVIOR: 20% density (very soft, golden hour fills), warm amber-toned shadows with zero harshness, gentle direction from camera-left window
 
-#### SUBJECT — AIRA
+SUBJECT — AIRA:
 **Identity Lock:** Adult woman late 20s-early 30s, South Asian (Indian), warm honey-to-caramel skin tone with golden undertone, 5'6"-5'8", soft-strong hourglass-athletic silhouette, fuller sculpted legs with toned thigh definition, fuller shapely thighs, fuller feminine arms with subtle muscle tone, fuller defined chest in proportion, flat toned midsection, defined waist clear waist-to-hip ratio, curvy hip line with natural feminine flare, heart-shaped to oval face, defined cheekbones, full defined lips with natural cupid's bow, almond-shaped expressive eyes dark brown iris with subtle amber flecks, strong but feminine groomed naturally arched brow, natural sun-kissed glow, long dark brown to near-black hair with subtle warm highlights naturally textured soft waves with body and movement, elegant well-groomed hands.
+
+**Body: strictly keep her legs fuller, thighs fuller, arms fuller, fuller chest, perfect flat belly.**
 
 **Body Position:**
 - Weight distribution: 65% right sit-bone (leaning right toward phone), 35% left, cross-legged on bed
@@ -772,21 +792,22 @@ NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic ski
 **Wardrobe State:**
 - Oversized vintage band t-shirt (faded, soft cotton, reaching mid-thigh) over brief underwear (not visible), bare legs crossed on bed, bare feet with dusty rose pedicure, hair in post-shower natural state, no jewelry, no accessories — pure pre-getting-ready state
 
-#### SPATIAL LOGIC
+SPATIAL LOGIC:
 - FOREGROUND: Edge of bed with laid-out outfit options — dusty rose tulle skirt visible as color splash at bottom-right of frame (teasing the final look), soft focus, 12% of frame
 - MIDGROUND: Aira on bed, cross-legged, fairy-light halo behind, golden hour rim, phone as focal anchor near her face, 65% of frame
 - BACKGROUND: Window with sheer curtains and golden hour pouring through (volumetric), vanity mirror (dark — Hollywood bulbs off), bedroom door ajar revealing warm hallway light, 23% of frame
 
-#### COLOR GRADE
+COLOR GRADE:
 - HIGHLIGHTS: Warm golden with amber shift (golden hour dominance), fairy lights as secondary warm points, skin speculars reading honey
 - MIDTONES: Rich warm skin priority — post-shower glow enhanced by golden light, environment all in amber-warm family, soft saturation (not pushed, natural)
 - SHADOWS: Warm brown (no blue or cool in entire frame), lifted to 8% (airy, light, nothing dark about this moment), gentle
 - REFERENCE: Autumn de Wilde (Emma) — warm, playful, saturated-warm romanticism with narrative clarity
 - OVERALL FEEL: Golden mischief — the happiest secret in the warmest light, about to become the most beautiful "casual" look of all time
 
-#### NEGATIVE BLOCK
+NEGATIVE:
 NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic skin, uncanny valley, over-retouched poreless skin, HDR artifacts, oversaturated neon, AI face-smoothing, stock photo energy. NO makeup on face. NO styled hair. NO party outfit on. NO sad or anxious expression (this is PURE DELIGHT suppressed). NO looking at camera (looking at phone). NO cold lighting (must be warm throughout). NO clean/minimalist bedroom (lived-in warmth required). NO visible underwear/inappropriate exposure (tee covers appropriately).
 
+---
 
 ### Video Prompt 1 — THE DISCOVERY
 
@@ -816,13 +837,13 @@ NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic ski
 ### Prompt 2 — THE SCHEME BEGINS
 
 
-#### SCENE ARCHITECTURE
+SCENE ARCHITECTURE:
 - LOCATION: Same bedroom — now at vanity desk, Hollywood mirror ON (12 warm bulbs at 3000K creating even face-lighting), window now behind her (golden hour as backlight), fairy lights visible in Hollywood mirror reflection, skincare and makeup products arranged on vanity surface
 - TIME OF DAY: 6:20 PM — golden hour slightly progressed, amber deepening
 - ATMOSPHERE: Warm with vanilla candle continuing, moisturizer scent (fresh, clean), conspiratorial energy
 - SOUND WORLD: Lo-fi beat now established, Hollywood mirror bulbs humming faintly (warm electrical hum), moisturizer pump sound, her whispered scheming voice
 
-#### CAMERA
+CAMERA:
 - LENS: 50mm f/1.4 — portrait-close, vanity setup
 - DISTANCE: 1.0m from face
 - HEIGHT: Eye level (seated at vanity — camera at 1.1m from floor)
@@ -830,7 +851,7 @@ NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic ski
 - MOVEMENT: Static (mirror POV holds steady — we're watching her watch herself)
 - APERTURE: f/1.8 — reflection face sharp, Hollywood bulbs creating circular bokeh in periphery of mirror, back-of-head in soft focus
 
-#### LIGHTING
+LIGHTING:
 - KEY: Hollywood mirror 12-bulb ring at 3000K — flat, even, beautiful vanity lighting wrapping her face from all angles (the point of vanity mirrors), minimal shadow, glamorous warmth
 - FILL: Golden hour window behind her contributing warm ambient fill at 1.5:1 ratio to Hollywood key
 - RIM: Golden hour from behind creating halo on hair crown and shoulder tops (visible in mirror reflection as warm glow)
@@ -838,8 +859,10 @@ NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic ski
 - ATMOSPHERE IN LIGHT: Moisturizer on face catching every one of the 12 Hollywood bulbs as individual micro-speculars — face reading as wet-glow constellation
 - SHADOW BEHAVIOR: 15% density only (Hollywood mirror eliminates most shadows), subtle under-chin shadow, nose shadow nearly eliminated by wrap-around source
 
-#### SUBJECT — AIRA
+SUBJECT — AIRA:
 **Identity Lock:** Adult woman late 20s-early 30s, South Asian (Indian), warm honey-to-caramel skin tone with golden undertone, 5'6"-5'8", soft-strong hourglass-athletic silhouette, fuller sculpted legs with toned thigh definition, fuller shapely thighs, fuller feminine arms with subtle muscle tone, fuller defined chest in proportion, flat toned midsection, defined waist clear waist-to-hip ratio, curvy hip line with natural feminine flare, heart-shaped to oval face, defined cheekbones, full defined lips with natural cupid's bow, almond-shaped expressive eyes dark brown iris with subtle amber flecks, strong but feminine groomed naturally arched brow, natural sun-kissed glow, long dark brown to near-black hair with subtle warm highlights naturally textured soft waves with body and movement, elegant well-groomed hands.
+
+**Body: strictly keep her legs fuller, thighs fuller, arms fuller, fuller chest, perfect flat belly.**
 
 **Body Position:**
 - Weight distribution: 55% left (leaning forward into mirror slightly — she's close to her reflection, conspiratorial distance)
@@ -880,21 +903,22 @@ NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic ski
 **Wardrobe State:**
 - Same oversized band tee, bare legs on vanity stool, bare feet, no jewelry, hair natural and drying — unchanged from Frame 1 except she's moved locations (bed to vanity)
 
-#### SPATIAL LOGIC
+SPATIAL LOGIC:
 - FOREGROUND: Back of her head (soft focus — hair texture visible, center-part visible from behind), shoulders in soft-tee texture, 20% of frame — unusual POV creates intimacy
 - MIDGROUND: Her face IN THE MIRROR — sharp focus, Hollywood bulbs framing her reflection, vanity surface visible in reflection below her face with products, 65% of frame
 - BACKGROUND (in mirror): Bedroom behind her reflected — fairy lights, bed with outfits, window with golden hour, creating depth WITHIN the mirror, 15% of frame
 
-#### COLOR GRADE
+COLOR GRADE:
 - HIGHLIGHTS: Warm golden-white (Hollywood bulbs + golden hour combined), skin speculars reading pure warm, moisturizer dot reading neutral-white (product color accurate)
 - MIDTONES: Deep warm amber — entire frame bathed in 3000K warmth, skin reading as richest golden-honey, everything soft and romantic in tone
 - SHADOWS: Minimal depth (flat vanity lighting), what exists is warm brown, lifted to 10% (airy, no darkness in this moment)
 - REFERENCE: Greta Gerwig's Barbie (vanity scenes) — warm, playful, deliberately beautiful in an aware way
 - OVERALL FEEL: Delicious secrecy — she's about to game everyone into thinking she naturally looks this good, and the preparation is the pleasure
 
-#### NEGATIVE BLOCK
+NEGATIVE:
 NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic skin, uncanny valley, over-retouched poreless skin, HDR artifacts, oversaturated neon, AI face-smoothing, stock photo energy. NO actual makeup on face yet (skincare only). NO styled hair (drying naturally). NO cold/clinical lighting (warm ONLY). NO serious expression (must be playful/mischievous throughout). NO looking at camera directly (looking at own reflection in mirror). NO full smile (smirk/suppressed — she's scheming, not performing).
 
+---
 
 ### Video Prompt 2 — THE SCHEME BEGINS
 
@@ -924,13 +948,13 @@ NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic ski
 ### Prompt 3 — THE "EFFORTLESS" SKIN
 
 
-#### SCENE ARCHITECTURE
+SCENE ARCHITECTURE:
 - LOCATION: Same vanity position — products now in use (caps off, some product visible on fingers), mirror showing her face mid-application, bedroom warm and golden behind
 - TIME OF DAY: 6:28 PM — golden hour deepening, amber becoming copper, light more horizontal and dramatic
 - ATMOSPHERE: Cream blush has subtle rose scent, room cozy, she's in flow-state of application, playful energy maintained
 - SOUND WORLD: Finger-on-skin patting (bouncy, rhythmic), pizzicato strings stronger, she's humming along with the lo-fi beat (tune vibrating in throat, not full voice)
 
-#### CAMERA
+CAMERA:
 - LENS: 85mm f/1.4 — tight portrait, face filling frame, creamy compression
 - DISTANCE: 70cm from face
 - HEIGHT: 3cm above eye level (slight down-look — she's looking up into mirror, camera matches mirror angle)
@@ -938,7 +962,7 @@ NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic ski
 - MOVEMENT: Micro-pull out (reverse push — 2cm over 8s, creating subtle reveal of more face as product covers more skin)
 - APERTURE: f/1.6 — eyes to mouth in critical focus, ears transitioning, Hollywood bulbs as massive warm bokeh circles framing her
 
-#### LIGHTING
+LIGHTING:
 - KEY: Hollywood mirror maintained (12 bulbs, 3000K, wrap-around flat beauty)
 - FILL: Golden hour now at 1.8:1 from behind (deepened amber, more dramatic contribution)
 - RIM: Golden hour backlight on crown creating amber halo (stronger now — lower sun angle = more horizontal light)
@@ -946,8 +970,10 @@ NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic ski
 - ATMOSPHERE IN LIGHT: Cream blush on cheek catching all 12 Hollywood bulbs individually (constellation of warm speculars on cheek apple — the "glow" building in real-time)
 - SHADOW BEHAVIOR: 15% density maintained (flat vanity light), nose shadow only visible as suggestion, under-chin shadow softened by Hollywood's wrap quality
 
-#### SUBJECT — AIRA
+SUBJECT — AIRA:
 **Identity Lock:** Adult woman late 20s-early 30s, South Asian (Indian), warm honey-to-caramel skin tone with golden undertone, 5'6"-5'8", soft-strong hourglass-athletic silhouette, fuller sculpted legs with toned thigh definition, fuller shapely thighs, fuller feminine arms with subtle muscle tone, fuller defined chest in proportion, flat toned midsection, defined waist clear waist-to-hip ratio, curvy hip line with natural feminine flare, heart-shaped to oval face, defined cheekbones, full defined lips with natural cupid's bow, almond-shaped expressive eyes dark brown iris with subtle amber flecks, strong but feminine groomed naturally arched brow, natural sun-kissed glow, long dark brown to near-black hair with subtle warm highlights naturally textured soft waves with body and movement, elegant well-groomed hands.
+
+**Body: strictly keep her legs fuller, thighs fuller, arms fuller, fuller chest, perfect flat belly.**
 
 **Body Position:**
 - Weight distribution: Centered 50/50 on stool
@@ -988,21 +1014,22 @@ NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic ski
 **Wardrobe State:**
 - Same oversized band tee, same bare situation below, hair clipped up (working state), no jewelry — unchanged wardrobe-wise
 
-#### SPATIAL LOGIC
+SPATIAL LOGIC:
 - FOREGROUND: Blurred Hollywood bulbs at frame edges (top and sides) creating warm circular bokeh border effect — framing her face in orbs of light, 15% of frame
 - MIDGROUND: Her face filling center-to-right of frame, negative space on left (looking room toward mirror), hands as secondary elements, 75% of frame
 - BACKGROUND: Mirror edge visible at frame-left with reflected fairy lights creating depth star-field effect, warm amber dissolved, 10% of frame
 
-#### COLOR GRADE
+COLOR GRADE:
 - HIGHLIGHTS: Pure warm white from Hollywood bulbs, peachy-rose on blush-cheek speculars (product color visible in highlights), golden on hair
 - MIDTONES: Deeply warm amber — frame is warmer than ever (golden hour + Hollywood + her building glow), skin reading rich honey-gold, blush reading true peachy-rose against warm skin
 - SHADOWS: Minimal and warm brown, lifted to 10%, essentially no true shadows in this frame (flat vanity light design)
 - REFERENCE: Sofia Coppola (Marie Antoinette getting-ready scenes) — warm, feminine, beautiful process as pleasure
 - OVERALL FEEL: The glow is building — she's creating sunrise on her own face, one tap at a time, and enjoying every second
 
-#### NEGATIVE BLOCK
+NEGATIVE:
 NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic skin, uncanny valley, over-retouched poreless skin, HDR artifacts, oversaturated neon, AI face-smoothing. NO full foundation coverage (skin texture must be visible, real). NO heavy makeup appearance (this is minimal "glow" approach). NO cold light in frame. NO serious expression. NO looking at camera. NO symmetrically completed blush yet (one cheek done, one not — process visible). NO visible lip product.
 
+---
 
 ### Video Prompt 3 — THE "EFFORTLESS" SKIN
 
@@ -1032,13 +1059,13 @@ NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic ski
 ### Prompt 4 — THE SHIMMER TOUCH
 
 
-#### SCENE ARCHITECTURE
+SCENE ARCHITECTURE:
 - LOCATION: Same vanity — products scattered in artistic used-chaos (lids off, fingerprints in cream products, tissues with product kisses), mirror showing her now with developing beauty
 - TIME OF DAY: 6:35 PM — golden hour at deepest amber (sun nearly at horizon, light richest), room bathed in copper-gold
 - ATMOSPHERE: Cream eyeshadow's subtle metallic scent (rose-gold pigment), warmth intensified by closing golden hour, excitement building (party getting closer)
 - SOUND WORLD: Finger-on-lid sweeping (smooth, gentle), music building with added warm pad synth, she's speaking in conspiratorial tone, distant sound of her phone ringing (she lets it go to voicemail — it's Priya)
 
-#### CAMERA
+CAMERA:
 - LENS: 100mm f/2.0 — macro-close on eye zone, extreme detail
 - DISTANCE: 50cm from face (eye-detail territory)
 - HEIGHT: Exact eye-level (aligned to capture lid surface and reflection simultaneously)
@@ -1046,7 +1073,7 @@ NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic ski
 - MOVEMENT: Static lock for full 8s (precision matching subject stillness during eye application)
 - APERTURE: f/2.2 — eye zone critical-sharp (both eyes, bridge, brow bone), lips going soft, ears fully dissolved
 
-#### LIGHTING
+LIGHTING:
 - KEY: Hollywood mirror (unchanged, consistent, reliable)
 - FILL: Golden hour now deep amber (copper-gold) from behind at 2:1
 - RIM: Deep amber rim on hair crown and ear tops — richest warm backlight of entire concept
@@ -1054,8 +1081,10 @@ NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic ski
 - ATMOSPHERE IN LIGHT: Rose-gold shimmer particles from cream shadow visible on fingertip catching all 12 bulbs as finger approaches lid (product glitter visible as golden dust on skin)
 - SHADOW BEHAVIOR: 15% maintained (vanity flat), micro-shadows in lid crease visible (anatomy of eye zone under close inspection), lash shadows on cheek
 
-#### SUBJECT — AIRA
+SUBJECT — AIRA:
 **Identity Lock:** Adult woman late 20s-early 30s, South Asian (Indian), warm honey-to-caramel skin tone with golden undertone, 5'6"-5'8", soft-strong hourglass-athletic silhouette, fuller sculpted legs with toned thigh definition, fuller shapely thighs, fuller feminine arms with subtle muscle tone, fuller defined chest in proportion, flat toned midsection, defined waist clear waist-to-hip ratio, curvy hip line with natural feminine flare, heart-shaped to oval face, defined cheekbones, full defined lips with natural cupid's bow, almond-shaped expressive eyes dark brown iris with subtle amber flecks, strong but feminine groomed naturally arched brow, natural sun-kissed glow, long dark brown to near-black hair with subtle warm highlights naturally textured soft waves with body and movement, elegant well-groomed hands.
+
+**Body: strictly keep her legs fuller, thighs fuller, arms fuller, fuller chest, perfect flat belly.**
 
 **Body Position:**
 - Weight distribution: Forward-lean dominant (60% forward on stool, close to mirror)
@@ -1096,21 +1125,22 @@ NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic ski
 **Wardrobe State:**
 - Same band tee, hair partially styled (lower clip, sides free), bare feet, no jewelry — getting closer to transition point but still in comfort-wear
 
-#### SPATIAL LOGIC
+SPATIAL LOGIC:
 - FOREGROUND: Her approaching left finger with loaded rose-gold product — critically sharp, metallic shimmer visible at individual-particle level, 15% of frame entering from upper-left
 - MIDGROUND: Eye zone as hero — both eyes (one closed, one open), brow bone architecture, bridge, cheekbone edges with blush glow, 70% of frame
 - BACKGROUND: Dissolved warm glow — Hollywood bulbs as massive amber circles, suggestion of bedroom warmth beyond, 15% of frame
 
-#### COLOR GRADE
+COLOR GRADE:
 - HIGHLIGHTS: ROSE-GOLD DOMINANT — the product color now influencing the highlight palette (metallic warm pink-gold on eyelid, cheekbone catch, fingertip), warm white from Hollywood
 - MIDTONES: Deepest warm amber of the concept so far (golden hour at maximum richness), skin reading honey-bronze, blush reading perfectly integrated into warm palette
 - SHADOWS: Warm brown lifted to 8% (the lightest, airiest shadows — nothing heavy or dark in this concept), eye crease creating natural shadow (anatomy, not mood)
 - REFERENCE: Emmanuel Lubezki golden-hour work (Tree of Life) — natural warm light worshipped, skin as landscape
 - OVERALL FEEL: Golden-hour goddess build — she IS the sunset, the makeup just agrees with what the light already knows
 
-#### NEGATIVE BLOCK
+NEGATIVE:
 NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic skin, uncanny valley, over-retouched poreless skin, HDR artifacts, oversaturated neon, AI face-smoothing. NO heavy dramatic eye makeup (this is a WASH of shimmer, not a full shadow look). NO dark/smoky anything. NO false lashes. NO heavy liner. NO cold tones anywhere in frame. NO serious expression. NO fully completed eye (one eye done, one in progress — process visible). NO powder/matte finish on skin (must remain dewy throughout).
 
+---
 
 ### Video Prompt 4 — THE SHIMMER TOUCH
 
@@ -1140,13 +1170,13 @@ NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic ski
 ### Prompt 5 — THE REHEARSAL
 
 
-#### SCENE ARCHITECTURE
+SCENE ARCHITECTURE:
 - LOCATION: Same bedroom — now at full-length mirror on closet door, she's standing in final outfit, practicing her "surprised" face in the mirror while holding lip gloss
 - TIME OF DAY: 7:15 PM — golden hour has transitioned to blue-hour beginning, window showing deep blue-pink sky gradient, fairy lights now dominant light source alongside Hollywood mirror (still on from vanity behind her)
 - ATMOSPHERE: Perfume freshly sprayed (floral-vanilla cloud), outfit fabric (tulle rustling gently), excitement palpable, slight nervous energy (will they believe the surprise reaction?)
 - SOUND WORLD: Music building (orchestral warmth entering), tulle skirt rustling with practice-pose movement, lip gloss applicator click, her practicing "surprised" sounds ("oh my GOD" rehearsed three times)
 
-#### CAMERA
+CAMERA:
 - LENS: 35mm f/1.8 — wide enough for full body in full-length mirror, storytelling width
 - DISTANCE: 2.2m from subject (she's at full-length mirror, camera behind her)
 - HEIGHT: Chest height 1.3m (natural viewing of full-length mirror interaction)
@@ -1154,7 +1184,7 @@ NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic ski
 - MOVEMENT: Very slow arc right (3cm over 8s) — gradually revealing more of her reflection as she steps back to see herself fully
 - APERTURE: f/2.0 — her figure in mirror sharp, real-body edge in focus, bedroom behind dissolved warm
 
-#### LIGHTING
+LIGHTING:
 - KEY: Hollywood mirror from behind-right (3000K, warm, acting as key from distance now), combined with fairy lights creating warm omnidirectional ambient
 - FILL: Blue-hour window light from left (transitioning 4000-5000K — cooler, creating dimension against warm key, ratio 2.5:1)
 - RIM: Fairy lights on headboard creating scattered warm points behind her silhouette (not single rim — constellation rim)
@@ -1162,8 +1192,10 @@ NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic ski
 - ATMOSPHERE IN LIGHT: Perfume cloud visible in fairy-light backlight (golden mist settling around her shoulders), tulle fabric with internal luminosity (catching fairy-light warmth and seeming to glow from within)
 - SHADOW BEHAVIOR: 25% density now (blue hour adding cooler shadows), long gentle shadow extending right on floor from blue-hour window direction, warm-cool shadow mix (fairy light warm vs window cool)
 
-#### SUBJECT — AIRA
+SUBJECT — AIRA:
 **Identity Lock:** Adult woman late 20s-early 30s, South Asian (Indian), warm honey-to-caramel skin tone with golden undertone, 5'6"-5'8", soft-strong hourglass-athletic silhouette, fuller sculpted legs with toned thigh definition, fuller shapely thighs, fuller feminine arms with subtle muscle tone, fuller defined chest in proportion, flat toned midsection, defined waist clear waist-to-hip ratio, curvy hip line with natural feminine flare, heart-shaped to oval face, defined cheekbones, full defined lips with natural cupid's bow, almond-shaped expressive eyes dark brown iris with subtle amber flecks, strong but feminine groomed naturally arched brow, natural sun-kissed glow, long dark brown to near-black hair with subtle warm highlights naturally textured soft waves with body and movement, elegant well-groomed hands.
+
+**Body: strictly keep her legs fuller, thighs fuller, arms fuller, fuller chest, perfect flat belly.**
 
 **Body Position:**
 - Weight distribution: 60% left leg (modeling pose — assessing herself), 40% right (relaxed back leg)
@@ -1204,21 +1236,22 @@ NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic ski
 **Wardrobe State:**
 - FINAL OUTFIT ON: Dusty rose tulle midi skirt (layers of soft tulle, reaching mid-calf, catching light as translucent layered pink, swaying with every movement, romantic volume), ivory silk wrap blouse (draped at chest, tied at waist — creating defined waist-to-hip line, subtle sheen, elegant-casual), strappy rose-gold heeled sandals (delicate ankle straps catching light, 3-inch block heel), small gold hoop earrings (15mm, simple, catching fairy-lights), thin gold chain bracelet on right wrist (single, delicate). TOTAL: Romantic Ethereal Pillar 8 realized — the girl who looks like she grabbed the first pretty thing and happened to look like a Renaissance painting.
 
-#### SPATIAL LOGIC
+SPATIAL LOGIC:
 - FOREGROUND: Her physical body from behind — right shoulder, arm, hip (real, not reflection), tulle skirt edge with texture visible, 25% of frame
 - MIDGROUND: FULL-LENGTH MIRROR — her complete reflection from head to toe (the REVEAL of completed look), sharp focus, full outfit visible for first time, 60% of frame
 - BACKGROUND: Bedroom reflected in mirror — bed, fairy lights, window with blue-hour sky, vanity with Hollywood lights still on, the narrative environment, soft but readable, 15% of frame
 
-#### COLOR GRADE
+COLOR GRADE:
 - HIGHLIGHTS: Warm pink-gold (tulle + rose-gold accessories + shimmer products all in same highlight family), fairy-light warm points as small accent highlights
 - MIDTONES: Warm rose-gold moving toward romantic warmth (the dusty rose of the outfit influencing the entire frame), skin reading warm honey against pink fabric (beautiful complementary)
 - SHADOWS: Cool blue-pink from blue hour mixing with warm tones (complex romantic shadow palette), lifted to 7%, shadows feeling dreamy not dark
 - REFERENCE: Autumn de Wilde + Joe Wright (Pride & Prejudice ball scenes) — romantic realism with warm editorial twist
 - OVERALL FEEL: The full reveal is perfect — she looks effortless, radiant, and completely like someone who did NOT spend an hour creating this. Mission accomplished. Now she just needs to sell the "surprise."
 
-#### NEGATIVE BLOCK
+NEGATIVE:
 NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic skin, uncanny valley, over-retouched poreless skin, HDR artifacts, oversaturated neon, AI face-smoothing. NO heavy/dramatic makeup appearance (must read as "glowing and minimal" even though 6+ products used). NO messy application visible (everything blended, seamless). NO cold-only lighting (warm must dominate). NO fully serious expression (this is playful throughout). NO fake-looking "surprise" face held too long (she's rehearsing, it should look PRACTICED and slightly awkward on purpose — that's the comedy).
 
+---
 
 ### Video Prompt 5 — THE REHEARSAL
 
@@ -1248,13 +1281,13 @@ NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic ski
 ### Prompt 6 — THE "SURPRISE"
 
 
-#### SCENE ARCHITECTURE
+SCENE ARCHITECTURE:
 - LOCATION: Top of staircase (her apartment/home) — looking down toward front door area where warm light pools, fairy lights from bedroom still visible behind her, hallway walls with framed photos, the transition from private prep-space to public performance
 - TIME OF DAY: 7:30 PM — blue hour outside (visible through hallway window), interior warm lighting from below (the party space), transitional lighting creating cinematic potential
 - ATMOSPHERE: Other perfume layers from guests below (suggested by warm air rising), sounds of gathered people barely audible, her last private moment before the performance of "surprise"
 - SOUND WORLD: Full orchestral swell (warm strings, major key resolution), distant party murmur from below (muffled laughing, someone saying "shh she's coming"), her heels on hardwood landing (single decisive step), then the MOMENT — silence, then "SURPRISE!" (muffled from below as she descends)
 
-#### CAMERA
+CAMERA:
 - LENS: 35mm f/1.8 — cinematic width for the descent, movement, full-body grace
 - DISTANCE: 3m (pulled back for full staircase composition, her figure as central vertical against horizontal stair lines)
 - HEIGHT: Her eye level from staircase top (camera at landing level — she's elevated, powerful, radiant, about to descend into joy)
@@ -1262,7 +1295,7 @@ NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic ski
 - MOVEMENT: Preceding dolly — camera moves backward DOWN the stairs at her pace, maintaining distance as she descends (she fills frame consistently while world moves)
 - APERTURE: f/2.2 — full body sharp, staircase railing and walls transitioning, bottom pool of light in soft focus (the future she's walking into)
 
-#### LIGHTING
+LIGHTING:
 - KEY: Warm light from below (party space at bottom of stairs — 3000K, rising, wrap-lighting her from under-angle creating ethereal UP-light as she descends)
 - FILL: Fairy-light spill from bedroom behind at 2:1 ratio (warm, familiar, the world she's leaving)
 - RIM: Hallway window blue-hour light creating cool rim on one side (separation from warm environment, cinematic contrast)
@@ -1270,8 +1303,10 @@ NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic ski
 - ATMOSPHERE IN LIGHT: The warm light from below creates visible light-shaft up the staircase (volumetric from door gap at bottom), her tulle skirt entering this light catches it and GLOWS from within
 - SHADOW BEHAVIOR: Complex multi-source — gentle shadow behind her from below-light (cast upward on wall), cool rim creating separation shadow on warm side, overall 30% density, cinematic and romantic
 
-#### SUBJECT — AIRA
+SUBJECT — AIRA:
 **Identity Lock:** Adult woman late 20s-early 30s, South Asian (Indian), warm honey-to-caramel skin tone with golden undertone, 5'6"-5'8", soft-strong hourglass-athletic silhouette, fuller sculpted legs with toned thigh definition, fuller shapely thighs, fuller feminine arms with subtle muscle tone, fuller defined chest in proportion, flat toned midsection, defined waist clear waist-to-hip ratio, curvy hip line with natural feminine flare, heart-shaped to oval face, defined cheekbones, full defined lips with natural cupid's bow, almond-shaped expressive eyes dark brown iris with subtle amber flecks, strong but feminine groomed naturally arched brow, natural sun-kissed glow, long dark brown to near-black hair with subtle warm highlights naturally textured soft waves with body and movement, elegant well-groomed hands.
+
+**Body: strictly keep her legs fuller, thighs fuller, arms fuller, fuller chest, perfect flat belly.**
 
 **Body Position:**
 - Weight distribution: 65% left leg (front foot on step below), 35% right (back foot on upper step — mid-descent)
@@ -1312,21 +1347,22 @@ NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic ski
 **Wardrobe State:**
 - FINAL OUTFIT in full glory: Dusty rose tulle midi at maximum beauty (descending stairs = layers separating and catching light individually, volume in motion, ethereal floating quality, translucent at edges showing layers), ivory silk wrap blouse catching ascending light as liquid-shine, rose-gold sandal straps catching staircase lighting with each step, gold hoops swinging with descent motion, bracelet catching light on railing-hand wrist, clutch swinging from left wrist chain. She is fully assembled and in MOTION through the space. The look says: "casual birthday dinner? let me just throw something on." The reality: 75 minutes of strategic effortlessness.
 
-#### SPATIAL LOGIC
+SPATIAL LOGIC:
 - FOREGROUND: Staircase railing running bottom-left to upper-right of frame (leading line — directing eye to her), wooden texture visible, dark polished, 10% of frame
 - MIDGROUND: AIRA in full descent — complete figure, tulle in motion, hair flowing, face performing, light catching everything, she IS the frame's purpose, 70% of frame
 - BACKGROUND: Upper — bedroom door with fairy lights glowing (her prep-world, warm, twinkling farewell), Lower — light pool and suggestion of gathered figures (not visible but warm light and sound implying presence), staircase wall with framed photos (personal, narrative), 20% of frame
 
-#### COLOR GRADE
+COLOR GRADE:
 - HIGHLIGHTS: Warm gold from below (ascending light), blue-cool from rim (complementary contrast), rose-gold on accessories and tulle-sheer edges, everything WARM-dominant
 - MIDTONES: Rich warm amber anchored by skin, tulle reading dusty-rose-to-warm-pink (warm light shifting its base tone toward gold), silk reading champagne, overall WARMEST frame of concept (she's descending into warmth literally and emotionally)
 - SHADOWS: Blue-cool shadows from rim-side (blue-hour influence), warm shadows from other directions, complex romantic palette, lifted to 6% (maintaining detail and airiness)
 - REFERENCE: Wong Kar-Wai staircase scenes meets Joe Wright (Atonement entrance) — cinematic descent, romantic light, emotional precision
 - OVERALL FEEL: This is the entrance they'll remember — she's moving through light like a romantic painting coming to life, knowing full well she constructed every detail of this "effortless" moment, and the viewer knows too, and that shared conspiracy IS the joy
 
-#### NEGATIVE BLOCK
+NEGATIVE:
 NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic skin, uncanny valley, over-retouched poreless skin, HDR artifacts, oversaturated neon, AI face-smoothing, stock photo energy. NO heavy/dramatic makeup appearance (still reads "effortless glow"). NO messy/unkempt anything (she's polished head to toe). NO cold/harsh lighting (warm dominates). NO ugly crying or dramatic tears (moisture only, controlled). NO stiff/awkward descent (graceful, trained, natural). NO looking at camera (looking down toward light source/party). NO revealing the party guests (implied, not shown — she IS the subject always). NO losing the mischievous undertone (even in genuine emotion, the corner of her lip knows she gamed this beautifully).
 
+---
 
 ### Video Prompt 6 — THE "SURPRISE"
 
@@ -1375,13 +1411,13 @@ NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic ski
 ### Prompt 1 — THE GREY MORNING
 
 
-#### SCENE ARCHITECTURE
+SCENE ARCHITECTURE:
 - LOCATION: Bathroom — white Carrara marble counter with grey veining, large frameless rectangular mirror (120cm x 80cm), clinical fluorescent tube above mirror (5000K, flat, harsh — simulating courtroom lighting intentionally), single frosted window (right wall) letting in grey overcast morning light, navy suit hanging on brushed-nickel hook on back of closed door, products lined up on counter in perfect equidistant row (primer, foundation, concealer, powder, brow pencil, neutral palette, thin liner, nude lip pencil, lip balm — that's all), single child's crayon drawing (a sun, a stick figure with long hair, a smaller stick figure — "mummy and me") held by round magnet on upper-right corner of mirror, white subway tile walls, chrome fixtures, no decorative elements beyond the drawing
 - TIME OF DAY: 6:45 AM — grey overcast morning, no direct sunlight, diffused flat light through frosted window, institutional feeling
 - ATMOSPHERE: Cool, tile-echo quality to air, faint bathroom cleanser scent (she cleaned everything last night — control behavior), the silence of a house that used to have more noise in it, weight of the day sitting in the room like humidity
 - SOUND WORLD: Near-silence — distant kitchen clock ticking (audible through wall), water dripping once from faucet (slow, metronomic), her breathing (controlled but audible in the quiet), then piano note at 3s (single, sustained)
 
-#### CAMERA
+CAMERA:
 - LENS: 40mm f/2.0 — clinical, neutral, neither intimate nor distant, documentary-feeling
 - DISTANCE: 1.5m from subject
 - HEIGHT: Exact eye level (she's standing — camera at 5'7")
@@ -1389,7 +1425,7 @@ NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic ski
 - MOVEMENT: Completely static for full 8s (stillness matching her stillness — the frame itself is controlled)
 - APERTURE: f/2.8 — subject sharp, products on counter in acceptable focus, door/suit in transition zone, window in soft
 
-#### LIGHTING
+LIGHTING:
 - KEY: Fluorescent tube above mirror — 5000K flat, clinical, even (the light she chose because it mimics courtroom overheads — she's preparing under battle conditions)
 - FILL: Grey morning window light from right at 2:1 ratio — cool, flat, adding dimension but no warmth
 - RIM: None (no glamour here — rim light is beauty, this is utility)
@@ -1397,8 +1433,10 @@ NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic ski
 - ATMOSPHERE IN LIGHT: Flat, even, clinical — no volumetric effects, no haze, no beauty (this is anti-GRWM lighting, confrontational in its honesty, every imperfection visible — which is the point, she needs to see what the judge will see)
 - SHADOW BEHAVIOR: 20% density, flat (overhead fluorescent creates under-eye and under-nose shadows — the exact shadows courtroom overhead panels will create), chin shadow, shadow under lower lip — she's lighting-matching for the hearing
 
-#### SUBJECT — AIRA
+SUBJECT — AIRA:
 **Identity Lock:** Adult woman late 20s-early 30s, South Asian (Indian), warm honey-to-caramel skin tone with golden undertone, 5'6"-5'8", soft-strong hourglass-athletic silhouette, fuller sculpted legs with toned thigh definition, fuller shapely thighs, fuller feminine arms with subtle muscle tone, fuller defined chest in proportion, flat toned midsection, defined waist clear waist-to-hip ratio, curvy hip line with natural feminine flare, heart-shaped to oval face, defined cheekbones, full defined lips with natural cupid's bow, almond-shaped expressive eyes dark brown iris with subtle amber flecks, strong but feminine groomed naturally arched brow, natural sun-kissed glow, long dark brown to near-black hair with subtle warm highlights naturally textured soft waves with body and movement, elegant well-groomed hands.
+
+**Body: strictly keep her legs fuller, thighs fuller, arms fuller, fuller chest, perfect flat belly.**
 
 **Body Position:**
 - Weight distribution: 50/50 even (grounded, stable, symmetric — she's planting herself)
@@ -1439,21 +1477,22 @@ NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic ski
 **Wardrobe State:**
 - White waffle-weave towel robe (hotel quality, thick, tied at waist), bare feet on tile, no accessories, no jewelry (she removed her wedding ring — it's in a drawer, visible in mirror reflection on counter edge if looked for), hair wet and down. She is stripped to absolute zero before building.
 
-#### SPATIAL LOGIC
+SPATIAL LOGIC:
 - FOREGROUND: Counter edge with lineup of products (military-precise row) and her hands flat on marble — in acceptable focus, establishing the tools and the grounding, 15% of frame
 - MIDGROUND: AIRA reflected in mirror — face as primary subject, white robe shoulders, wet hair framing, fluorescent light above her in-frame (visible as horizontal bar), 65% of frame
 - BACKGROUND: Bathroom wall behind her — white subway tile, door with navy suit hanging (strong color anchor against all-white environment, foreshadowing), frosted window with grey light, child's drawing on mirror (small but PRESENT — upper right, the heart of the frame), 20% of frame
 
-#### COLOR GRADE
+COLOR GRADE:
 - HIGHLIGHTS: Cool neutral-white (fluorescent), no warmth in highlights (deliberate — this isn't warm), grey-blue from window
 - MIDTONES: Muted, desaturated by 15% from true color — the world is grey before she begins, skin reading cooler than warm (clinical light suppressing her golden undertone), only the child's drawing crayon colors reading as saturated (yellow sun, brown stick figures — life and color in one small square)
 - SHADOWS: Cool grey-blue, lifted to 8% (maintaining detail, preventing drama — this is not dramatic shadow, it's clinical truth), under-eye shadow matter-of-fact not cinematic
 - REFERENCE: Pawel Pawlikowski (Ida) — stark, composed, beautiful in restraint, every frame a deliberate composition of control, grey/white/navy palette
 - OVERALL FEEL: The weight of composure — she is about to build a face that says "I have it together" while the only color in her world is a crayon drawing from the person she's fighting for
 
-#### NEGATIVE BLOCK
+NEGATIVE:
 NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic skin, uncanny valley, over-retouched poreless skin, HDR artifacts, oversaturated neon, AI face-smoothing, stock photo energy. NO makeup on face. NO styled hair. NO warm lighting (must be COLD clinical). NO smiling. NO crying (moisture yes, tears NO — she won't allow it). NO messy/chaotic bathroom (everything controlled, ordered). NO colorful elements beyond the child's drawing (strict white/grey/navy palette). NO vulnerability in posture (spine STRAIGHT even at emotional cost). NO looking away from mirror (direct confrontation with self is the point).
 
+---
 
 ### Video Prompt 1 — THE GREY MORNING
 
@@ -1483,13 +1522,13 @@ NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic ski
 ### Prompt 2 — THE METHODICAL BASE
 
 
-#### SCENE ARCHITECTURE
+SCENE ARCHITECTURE:
 - LOCATION: Same bathroom — towel now draped over shower door, she's positioned directly under fluorescent, products moved (primer cap off, foundation next in queue)
 - TIME OF DAY: 6:50 AM — grey morning unchanged, flat
 - ATMOSPHERE: Primer's silicone-smooth scent, clinical precision in the air, deep focus atmosphere
 - SOUND WORLD: Foundation pump (mechanical), beauty sponge on skin (rhythmic damp bouncing), piano continuing (single note resolving to chord — two notes now), clock ticking
 
-#### CAMERA
+CAMERA:
 - LENS: 85mm f/1.8 — portrait-close, clinical intimacy
 - DISTANCE: 80cm from face
 - HEIGHT: 2cm above eye level (the courtroom angle — judge looks slightly down)
@@ -1497,7 +1536,7 @@ NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic ski
 - MOVEMENT: Static hold — no movement (matching her internal control philosophy)
 - APERTURE: f/2.0 — face sharp, hands and products in acceptable zone, background dissolved
 
-#### LIGHTING
+LIGHTING:
 - KEY: Same fluorescent 5000K from above — unchanged (she won't change the lighting throughout — it's the simulation condition)
 - FILL: Grey window 2:1 maintained
 - RIM: None maintained (no glamour)
@@ -1505,8 +1544,10 @@ NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic ski
 - ATMOSPHERE IN LIGHT: Flat, honest, clinical — foundation going on under lights designed to show imperfection (she is armoring AGAINST this light)
 - SHADOW BEHAVIOR: Same 20% from above — under-eye, under-nose, under-lip shadows consistent (she watches these shadows fill and soften as foundation covers)
 
-#### SUBJECT — AIRA
+SUBJECT — AIRA:
 **Identity Lock:** Adult woman late 20s-early 30s, South Asian (Indian), warm honey-to-caramel skin tone with golden undertone, 5'6"-5'8", soft-strong hourglass-athletic silhouette, fuller sculpted legs with toned thigh definition, fuller shapely thighs, fuller feminine arms with subtle muscle tone, fuller defined chest in proportion, flat toned midsection, defined waist clear waist-to-hip ratio, curvy hip line with natural feminine flare, heart-shaped to oval face, defined cheekbones, full defined lips with natural cupid's bow, almond-shaped expressive eyes dark brown iris with subtle amber flecks, strong but feminine groomed naturally arched brow, natural sun-kissed glow, long dark brown to near-black hair with subtle warm highlights naturally textured soft waves with body and movement, elegant well-groomed hands.
+
+**Body: strictly keep her legs fuller, thighs fuller, arms fuller, fuller chest, perfect flat belly.**
 
 **Body Position:**
 - Weight distribution: 55% right (slight lean toward mirror — precision distance)
@@ -1547,21 +1588,22 @@ NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic ski
 **Wardrobe State:**
 - Same white towel robe, hair clipped back functionally, bare feet — pure utility state
 
-#### SPATIAL LOGIC
+SPATIAL LOGIC:
 - FOREGROUND: Products on counter — foundation bottle and sponge rest-spot visible at bottom of frame, lined up precisely, 10% of frame
 - MIDGROUND: Her face in tight portrait — sponge and working hand as active elements, face transitioning from bare to base, 78% of frame
 - BACKGROUND: Dissolved — white tile suggestion, child's drawing barely visible as small color-spot in upper corner of mirror, 12% of frame
 
-#### COLOR GRADE
+COLOR GRADE:
 - HIGHLIGHTS: Same cool fluorescent white, grey-neutral skin speculars (matte primer reducing shine)
 - MIDTONES: Slightly less muted than Frame 1 (concealer adding brightness is the first "warm" element — product bringing warmth back to her face), overall still clinical cool
 - SHADOWS: Same grey-blue, 8% lift, under-eye shadow REDUCING as concealer covers (visible progress — the darkness she's fighting)
 - REFERENCE: Same Pawlikowski palette — restraint, precision, grey beauty
 - OVERALL FEEL: Methodical repair — she is painting composure onto her face one precise bounce at a time, and each bounce is a choice to appear unshaken
 
-#### NEGATIVE BLOCK
+NEGATIVE:
 NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic skin, uncanny valley. NO warm light. NO smiling. NO crying. NO completed base (must be IN PROCESS, one-side-done visible). NO dramatic expression. NO looking away from task. NO music louder than whisper. NO color in environment beyond child's drawing.
 
+---
 
 ### Video Prompt 2 — THE METHODICAL BASE
 
@@ -1591,13 +1633,13 @@ NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic ski
 ### Prompt 3 — THE INVISIBLE ARMOR
 
 
-#### SCENE ARCHITECTURE
+SCENE ARCHITECTURE:
 - LOCATION: Same bathroom — unchanged, clinical, controlled
 - TIME OF DAY: 7:00 AM — morning advancing, grey light 5% brighter (imperceptible but true)
 - ATMOSPHERE: Foundation's familiar texture-scent, she's in deep focus trance, mechanical precision
 - SOUND WORLD: Brow pencil on skin (scratching, precise strokes), piano evolving (three-note progression now), clock constant
 
-#### CAMERA
+CAMERA:
 - LENS: 70mm f/2.0 — balanced between intimate and observational
 - DISTANCE: 90cm from face
 - HEIGHT: Eye level exact (returning to straight-on — she's rebuilt to level now)
@@ -1605,7 +1647,7 @@ NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic ski
 - MOVEMENT: 1cm pull back over 8s (barely perceptible — revealing more of her transformation progress)
 - APERTURE: f/2.2 — face and both hands sharp, counter products in soft focus
 
-#### LIGHTING
+LIGHTING:
 - KEY: Same fluorescent 5000K (unwavering — this light does not forgive)
 - FILL: Grey window 2:1
 - RIM: None
@@ -1613,8 +1655,10 @@ NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic ski
 - ATMOSPHERE IN LIGHT: Foundation now creating more uniform surface — light response changing as skin goes from textured-bare to matte-smooth (visible difference in how fluorescent interacts with made-up vs bare skin)
 - SHADOW BEHAVIOR: Same 20% but shadows SOFTENED by foundation coverage (under-eye less pronounced now, contour more even — the armor working)
 
-#### SUBJECT — AIRA
+SUBJECT — AIRA:
 **Identity Lock:** Adult woman late 20s-early 30s, South Asian (Indian), warm honey-to-caramel skin tone with golden undertone, 5'6"-5'8", soft-strong hourglass-athletic silhouette, fuller sculpted legs with toned thigh definition, fuller shapely thighs, fuller feminine arms with subtle muscle tone, fuller defined chest in proportion, flat toned midsection, defined waist clear waist-to-hip ratio, curvy hip line with natural feminine flare, heart-shaped to oval face, defined cheekbones, full defined lips with natural cupid's bow, almond-shaped expressive eyes dark brown iris with subtle amber flecks, strong but feminine groomed naturally arched brow, natural sun-kissed glow, long dark brown to near-black hair with subtle warm highlights naturally textured soft waves with body and movement, elegant well-groomed hands.
+
+**Body: strictly keep her legs fuller, thighs fuller, arms fuller, fuller chest, perfect flat belly.**
 
 **Body Position:**
 - Weight distribution: 50/50 returned to center (precision complete, squared up)
@@ -1655,21 +1699,22 @@ NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic ski
 **Wardrobe State:**
 - Same towel robe, functional clip, bare feet — unchanged utility state
 
-#### SPATIAL LOGIC
+SPATIAL LOGIC:
 - FOREGROUND: Counter edge with depleted product line (primer moved aside, foundation used, concealer used — sequence visible), brow pencil cap and setting powder compact visible, 12% of frame
 - MIDGROUND: Her face — now half-transformed (base done, one brow done, other in progress), the asymmetry of process as visual interest, hands at brow-level creating upper-frame activity, 73% of frame  
 - BACKGROUND: Same dissolved white tile, child's drawing in mirror corner (constant presence — the why of all this preparation), door with navy suit (patient), 15% of frame
 
-#### COLOR GRADE
+COLOR GRADE:
 - HIGHLIGHTS: Same clinical cool — but now her skin has LESS highlight variation (foundation creating matte uniformity — fewer speculars, more controlled surface), brow pencil strokes reading as dark lines
 - MIDTONES: Skin now reading slightly warmer than environment (foundation's warm-neutral tone vs cool fluorescent — she's brought warmth ONTO her face that the room won't provide), still overall clinical
 - SHADOWS: Reduced on face (foundation filling shadows), maintained in environment (unchanged cool), the contrast between controlled-face and harsh-environment becoming the visual theme
 - REFERENCE: Same Pawlikowski with touches of Celine Sciamma (Portrait of a Lady on Fire) — the act of composing/painting as devotion
 - OVERALL FEEL: Precision as devotion — each brow stroke is a letter written to the judge that says "this woman has her life in order"
 
-#### NEGATIVE BLOCK
+NEGATIVE:
 NO: deformed hands, extra fingers, asymmetric eyes (in shape), melted features, plastic skin, uncanny valley. NO warm lighting. NO smiling. NO crying. NO tears. NO breaking composure beyond the voice near-slip. NO dramatic makeup (this is INVISIBLE — the point is looking like she doesn't need it). NO color on eyes or lips yet. NO styled hair. NO completion (brows asymmetric — one done, one in progress).
 
+---
 
 ### Video Prompt 3 — THE INVISIBLE ARMOR
 
@@ -1700,13 +1745,13 @@ NO: deformed hands, extra fingers, asymmetric eyes (in shape), melted features, 
 ### Prompt 4 — THE CRACK
 
 
-#### SCENE ARCHITECTURE
+SCENE ARCHITECTURE:
 - LOCATION: Same bathroom — unchanged, clinical, but now her eyes flick to the child's drawing on mirror, breaking the mechanical rhythm
 - TIME OF DAY: 7:10 AM — grey morning continuing
 - ATMOSPHERE: Same sterile air, but emotional weight suddenly heavier — she looked at the drawing
 - SOUND WORLD: Piano stops abruptly at 2.5s (silence as she looks at drawing), her breathing becomes audible (slightly unsteady), then single cello note resolves the silence at 5.0s
 
-#### CAMERA
+CAMERA:
 - LENS: 50mm f/1.4 — returning to Frame 1 lens (the circle is completing)
 - DISTANCE: 1.2m from face (medium-close)
 - HEIGHT: Eye level
@@ -1714,7 +1759,7 @@ NO: deformed hands, extra fingers, asymmetric eyes (in shape), melted features, 
 - MOVEMENT: Static for 3s, then imperceptible 2cm drift toward drawing corner (following her gaze direction)
 - APERTURE: f/1.8 — face sharp, drawing at mirror edge in transition focus (readable but not tack-sharp — it's in her peripheral, in her emotional space)
 
-#### LIGHTING
+LIGHTING:
 - KEY: Same fluorescent 5000K — unchanged (the world hasn't changed, she's the one cracking)
 - FILL: Grey window 2:1
 - RIM: None
@@ -1722,8 +1767,10 @@ NO: deformed hands, extra fingers, asymmetric eyes (in shape), melted features, 
 - ATMOSPHERE IN LIGHT: Unchanged — the clinical light is now cruel in its flatness (it shows the micro-tremor at her chin, it shows the moisture building)
 - SHADOW BEHAVIOR: Same 20% — but now the under-eye shadow reads differently (emotional not tired — same shadow, new meaning for the viewer)
 
-#### SUBJECT — AIRA
+SUBJECT — AIRA:
 **Identity Lock:** Adult woman late 20s-early 30s, South Asian (Indian), warm honey-to-caramel skin tone with golden undertone, 5'6"'-5'8", soft-strong hourglass-athletic silhouette, fuller sculpted legs with toned thigh definition, fuller shapely thighs, fuller feminine arms with subtle muscle tone, fuller defined chest in proportion, flat toned midsection, defined waist clear waist-to-hip ratio, curvy hip line with natural feminine flare, heart-shaped to oval face, defined cheekbones, full defined lips with natural cupid's bow, almond-shaped expressive eyes dark brown iris with subtle amber flecks, strong but feminine groomed naturally arched brow, natural sun-kissed glow, long dark brown to near-black hair with subtle warm highlights naturally textured soft waves with body and movement, elegant well-groomed hands.
+
+**Body: strictly keep her legs fuller, thighs fuller, arms fuller, fuller chest, perfect flat belly.**
 
 **Body Position:**
 - Weight distribution: 50/50 maintained (she WILL NOT shift — if she shifts she crumbles)
@@ -1764,21 +1811,22 @@ NO: deformed hands, extra fingers, asymmetric eyes (in shape), melted features, 
 **Wardrobe State:**
 - Same towel robe, same clip, same bare feet curling into tile — nothing has changed in the external, everything has changed in the internal
 
-#### SPATIAL LOGIC
+SPATIAL LOGIC:
 - FOREGROUND: Her frozen right hand suspended above counter — hovering, reaching for nothing now, existing as visual representation of interrupted momentum, sharp focus, 10% of frame
 - MIDGROUND: Her face in moment of near-break — every micro-expression visible, the war between composure and collapse playing out in muscle and skin, 65% of frame
 - BACKGROUND: Drawing on mirror now in frame composition (right side, transition focus — readable, a child's sun and two stick figures, the word MUMMY visible in unsteady letters), navy suit still waiting, 25% of frame
 
-#### COLOR GRADE
+COLOR GRADE:
 - HIGHLIGHTS: Same clinical cool — unchanged (the world is indifferent to her pain)
 - MIDTONES: Skin reading 5% warmer than previous frames (the flush breaking through — emotion bringing blood to the surface), the only warmth in the frame besides the crayon drawing
 - SHADOWS: Same cool grey — but now reading as WEIGHT rather than clinical truth (same data, different emotional read because viewer context has shifted)
 - REFERENCE: Same Pawlikowski but now channeling Celine Sciamma's grief work (Portrait/Petite Maman) — restraint making emotion MORE powerful
 - OVERALL FEEL: The almost-break — the most powerful moment is not the tears but the FIGHTING of them, the composure NEARLY failing is more devastating than composure lost
 
-#### NEGATIVE BLOCK
+NEGATIVE:
 NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic skin, uncanny valley. NO full tears falling (moisture at lid ONLY — held, not shed). NO ugly-crying. NO dramatic collapse. NO body crumbling. NO looking at camera. NO warmth in lighting (the clinical cruelty must remain). NO music swell (restraint). NO resolution of emotion (she stops it, she does not process it — that is for later, not now). This is about CONTROL winning over chaos by the thinnest margin.
 
+---
 
 ### Video Prompt 4 — THE CRACK
 
@@ -1808,13 +1856,13 @@ NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic ski
 ### Prompt 5 — THE REBUILD
 
 
-#### SCENE ARCHITECTURE
+SCENE ARCHITECTURE:
 - LOCATION: Same bathroom — she is back in control, liner being applied with surgical precision, the drawing still visible in peripheral but she is NOT looking at it
 - TIME OF DAY: 7:15 AM — morning advancing
 - ATMOSPHERE: Back to clinical focus, but the air feels different (the viewer knows what just happened — same room, heavier gravity)
 - SOUND WORLD: Liner brush on lid (precise, wet-on-skin), piano returns (same phrase but now resolving upward — minor to major shift beginning), her breathing normalized (controlled, intentional)
 
-#### CAMERA
+CAMERA:
 - LENS: 100mm f/2.0 macro — extreme close on eye zone (same as Frame 4 of Concept 1 — the precision frame)
 - DISTANCE: 50cm from face
 - HEIGHT: Eye level exact
@@ -1822,7 +1870,7 @@ NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic ski
 - MOVEMENT: Static lock for full 8s (stillness = control)
 - APERTURE: f/2.2 — eye zone razor-sharp
 
-#### LIGHTING
+LIGHTING:
 - KEY: Same fluorescent (she never changed it — commitment to simulation conditions)
 - FILL: Same grey window
 - RIM: None (still no glamour — this is not a beauty frame, it is a discipline frame)
@@ -1830,8 +1878,10 @@ NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic ski
 - ATMOSPHERE IN LIGHT: Flat clinical — liner going on under worst-case lighting (if it looks precise here, it will survive courtroom overheads)
 - SHADOW BEHAVIOR: Same 20% — she has accepted these shadows and armored against them
 
-#### SUBJECT — AIRA
+SUBJECT — AIRA:
 **Identity Lock:** Adult woman late 20s-early 30s, South Asian (Indian), warm honey-to-caramel skin tone with golden undertone, 5\'6"-5\'8", soft-strong hourglass-athletic silhouette, fuller sculpted legs with toned thigh definition, fuller shapely thighs, fuller feminine arms with subtle muscle tone, fuller defined chest in proportion, flat toned midsection, defined waist clear waist-to-hip ratio, curvy hip line with natural feminine flare, heart-shaped to oval face, defined cheekbones, full defined lips with natural cupid\'s bow, almond-shaped expressive eyes dark brown iris with subtle amber flecks, strong but feminine groomed naturally arched brow, natural sun-kissed glow, long dark brown to near-black hair with subtle warm highlights naturally textured soft waves with body and movement, elegant well-groomed hands.
+
+**Body: strictly keep her legs fuller, thighs fuller, arms fuller, fuller chest, perfect flat belly.**
 
 **Body Position:**
 - Weight distribution: 50/50 (re-centered after the break)
@@ -1872,21 +1922,22 @@ NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic ski
 **Wardrobe State:**
 - Same towel robe, clip, bare feet — unchanged (the transformation is face-only until Frame 6)
 
-#### SPATIAL LOGIC
+SPATIAL LOGIC:
 - FOREGROUND: Liner brush and hand at eye level — entering frame from right, sharp focus, detailed enough to see individual brush-hair convergence at tip and wet gel on bristles, 15% of frame
 - MIDGROUND: Eye zone filling frame — both eyes (one open, one closed with new liner), bridge, brows RESTORED to symmetry, 72% of frame
 - BACKGROUND: Dissolved — same as previous frames but now the drawing is NOT visible (camera angle excludes it — she has EXCLUDED it from her frame), only dissolved white tile and fluorescent glow, 13% of frame
 
-#### COLOR GRADE
+COLOR GRADE:
 - HIGHLIGHTS: Same clinical cool — but the liner creates new pure-black element (deepest value in frame, anchoring the eye zone with graphic precision)
 - MIDTONES: Same clinical warmth-vs-cool tension, skin reading composed, liner reading graphic-editorial (the only element with design-intentionality)
 - SHADOWS: Same cool grey lifted — the liner shadow different (product-black vs. light-shadow — two different types of dark in frame, both controlled)
 - REFERENCE: Pawlikowski maintained, adding Steve McQueen precision (Hunger — the discipline scenes)
 - OVERALL FEEL: Rebuilt fortress — she is stronger for having nearly broken, the precision of this liner after the tremor of Frame 4 is the loudest statement of will in the concept
 
-#### NEGATIVE BLOCK
+NEGATIVE:
 NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic skin, uncanny valley. NO trembling hands (she OVERCAME that). NO remaining tears or moisture (cleared). NO emotional expression (composure RESTORED). NO dramatic liner (thin and precise only). NO warm lighting. NO music louder than whisper. NO reference to the crack (it happened, it passed, she won).
 
+---
 
 ### Video Prompt 5 — THE REBUILD
 
@@ -1916,13 +1967,13 @@ NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic ski
 ### Prompt 6 — THE EXIT
 
 
-#### SCENE ARCHITECTURE
+SCENE ARCHITECTURE:
 - LOCATION: Same bathroom — but she is now at the door, turning back for one final mirror check, fully dressed, fully armored, hand on door handle, the drawing visible behind her in the mirror (she can see it in the reflection as she turns)
 - TIME OF DAY: 7:35 AM — morning slightly brighter (grey with first hints of lighter cloud — time has progressed)
 - ATMOSPHERE: Perfume applied (subtle, professional, jasmine-and-sandalwood — "responsible" fragrance), suit fabric scent (dry cleaned, professional), the moment before stepping into the day, gathering
 - SOUND WORLD: Piano resolving to final chord (major, open, steady — acceptance), suit fabric sound (crisp), heels on tile (single step toward door), door handle mechanism (chrome lever turning — the threshold)
 
-#### CAMERA
+CAMERA:
 - LENS: 35mm f/1.8 — wide for full-body final reveal and environmental context
 - DISTANCE: 2.5m from subject
 - HEIGHT: Low angle 1.2m (slight power-up — she has BECOME powerful through the ritual, now the camera reflects it)
@@ -1930,7 +1981,7 @@ NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic ski
 - MOVEMENT: Static hold for 6s, then 2s micro-push in (approaching — the camera is drawn to her now, she commands the frame, opposite of Frame 1 where she was still, the frame now moves toward HER)
 - APERTURE: f/2.5 — full body sharp from toe to crown, bathroom environment readable behind her, mirror showing her face in reflection
 
-#### LIGHTING
+LIGHTING:
 - KEY: Same fluorescent — unchanged to the end (she never asked the light to be kind)
 - FILL: Grey window now slightly brighter (morning progressing — the first mercy of the day, indirect brightness increasing)
 - RIM: The bathroom door gap creating a thin vertical of warm hallway light at her right edge (the world beyond this room is WARMER — she\'s about to step into it)
@@ -1938,8 +1989,10 @@ NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic ski
 - ATMOSPHERE IN LIGHT: The warm door-gap light creating a literal AND metaphorical threshold — she is between clinical-cold preparation and the warm reality of the day. She is ready to cross.
 - SHADOW BEHAVIOR: Same 20% fluorescent shadows — but she now OWNS them (these shadows are what the courtroom will see, and she has armored against every one)
 
-#### SUBJECT — AIRA
+SUBJECT — AIRA:
 **Identity Lock:** Adult woman late 20s-early 30s, South Asian (Indian), warm honey-to-caramel skin tone with golden undertone, 5\'6"-5\'8", soft-strong hourglass-athletic silhouette, fuller sculpted legs with toned thigh definition, fuller shapely thighs, fuller feminine arms with subtle muscle tone, fuller defined chest in proportion, flat toned midsection, defined waist clear waist-to-hip ratio, curvy hip line with natural feminine flare, heart-shaped to oval face, defined cheekbones, full defined lips with natural cupid\'s bow, almond-shaped expressive eyes dark brown iris with subtle amber flecks, strong but feminine groomed naturally arched brow, natural sun-kissed glow, long dark brown to near-black hair with subtle warm highlights naturally textured soft waves with body and movement, elegant well-groomed hands.
+
+**Body: strictly keep her legs fuller, thighs fuller, arms fuller, fuller chest, perfect flat belly.**
 
 **Body Position:**
 - Weight distribution: 60% right (turned toward door, weight shifting to exit), 40% left
@@ -1980,21 +2033,22 @@ NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic ski
 **Wardrobe State:**
 - NAVY SUIT COMPLETE: Single-button structured blazer (tailored to body — nipped waist showing defined waist-to-hip line without being sexy, peaked lapel for authority, sleeves at exact wrist-bone for proportion), tapered trousers (high-waisted, creaseless, ankle-length showing pump-shoe), ivory silk shell beneath (round neck, tucked, visible 3cm at blazer opening — the only softness in the silhouette). Nude pointed pumps (2-inch block heel — stable, practical, will not click aggressively but will carry her with posture). Simple pearl studs (the only jewelry — not her wedding set, not anything personal, just: composed). Structured bag on counter she\'ll pick up as she exits (navy leather, document-sized — contains folder with everything). TOTAL: Pillar 1 Modern Minimalist Luxe executed as ARMOR not fashion.
 
-#### SPATIAL LOGIC
+SPATIAL LOGIC:
 - FOREGROUND: Bathroom counter passing out of frame at left — products lined up (all USED, all capped, all DONE — the sequence complete), child\'s drawing on mirror visible at extreme left edge, 10% of frame
 - MIDGROUND: AIRA at door — full figure in navy suit, hand on handle, body in exit-transition (facing door but head turned back toward mirror/viewer), the navy vertical against white tile creating striking graphic composition, 65% of frame
 - BACKGROUND: Mirror reflecting her departure (full-body back-view — you see her from two angles simultaneously: front via camera, back via reflection), hallway warm light through door gap creating vertical golden line at frame-right, 25% of frame
 
-#### COLOR GRADE
+COLOR GRADE:
 - HIGHLIGHTS: Same clinical — but the navy suit ABSORBS light differently (deep fabric eating fluorescent rather than reflecting — she\'s a dark monolith in a white room), warm hallway glow as single WARM highlight source at door (the future, the warmth)
 - MIDTONES: Navy suit reading true-navy (deep, rich, authoritative), skin reading composed-warm against cool environment, ivory shell as single bright element at neckline
 - SHADOWS: Navy shadows near-black (suit creating its own shadow world within the fabric), environmental shadows same cool-grey, the CONTRAST between her dark-suit-figure and white-room is maximum (she stands OUT — she will stand out in the courtroom too, and that\'s the point: memorable, composed, unforgettable)
 - REFERENCE: Pawlikowski final shots + Steve McQueen (12 Years ending) — dignity in departure, beauty of composure, power of simply STANDING when you could fall
 - OVERALL FEEL: The exit is the statement — 48 seconds of building a woman who can walk into her hardest day and look like it costs her nothing. And only the viewer (and that crayon sun) knows what it actually costs.
 
-#### NEGATIVE BLOCK
+NEGATIVE:
 NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic skin, uncanny valley. NO warm cozy ending (this is not comfort — it is courage). NO smiling (this is not happy — it is READY). NO tears at exit (she already fought that battle and WON). NO weak posture. NO hesitation at door (committed, decisive). NO dramatic gesture (restraint to the final second). NO looking at child\'s drawing one more time (she CAN\'T — if she looks at the sun she\'ll melt again, and she has CHOSEN not to melt today). NO soft lighting at exit (only the door-gap warm as hint of outside world). NO music louder than present (restraint in score matching restraint in performance — the SILENCE is the power).
 
+---
 
 ### Video Prompt 6 — THE EXIT
 
@@ -2043,13 +2097,13 @@ NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic ski
 ### Prompt 1 — THE OVERTHINKING
 
 
-#### SCENE ARCHITECTURE
+SCENE ARCHITECTURE:
 - LOCATION: Bedroom — simple white-walled space with warm wood floor, full-length mirror leaning against wall, bed with white linen duvet rumpled, 6 outfit options spread across bed (she tried them all), phone face-up on pillow showing text conversation (last message: "Can't wait for today" with heart), small vanity area (just a shelf with mirror, not a full setup — minimal products), window (west-facing) pouring late-afternoon golden light in dramatic warm beams
 - TIME OF DAY: 5:30 PM — golden hour beginning, warm amber light flooding room from west window, long shadows, warm wood floor catching light
 - ATMOSPHERE: Warm, slightly anxious, alive with possibility — she's been getting ready and undressing for an hour (outfit chaos on bed), the energy of potential-love making the air electric, her perfume from earlier lingering
 - SOUND WORLD: Acoustic guitar entering at 1.5s (gentle, fingerpicked, warm), her nervous exhale-laugh, phone notification at 3.0s (she checks — it's him confirming time, her face softens), distant street sounds through open window (life continuing normally while hers might change)
 
-#### CAMERA
+CAMERA:
 - LENS: 35mm f/1.6 — contextual, showing the room's story (outfit chaos, golden light, her)
 - DISTANCE: 2.0m from subject
 - HEIGHT: Eye level (she's standing in front of full-length mirror — camera at 5'7")
@@ -2057,7 +2111,7 @@ NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic ski
 - MOVEMENT: Slow drift right (2cm over 8s — orbiting toward her, curious, matching viewer curiosity)
 - APERTURE: f/2.0 — subject sharp, outfit chaos on bed in soft-readable focus, golden light beams visible as volumetric warmth
 
-#### LIGHTING
+LIGHTING:
 - KEY: Golden hour window light from camera-right (west window) — 2800K deep amber, medium-soft (no clouds), wrapping her in warm gold, creating long shadow extending left
 - FILL: Ambient room bounce from white walls at 2:1 ratio (warm-shifted from golden key), gentle and natural
 - RIM: Golden hour backlight component catching her hair on right side (amber-gold rim on loose waves — the natural-beauty light)
@@ -2065,8 +2119,10 @@ NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic ski
 - ATMOSPHERE IN LIGHT: Golden hour beams visible through window as volumetric warm (dust motes floating in beams — lazy, romantic, dreamlike), the room bathed in amber making everything warm and forgiving
 - SHADOW BEHAVIOR: 25% density, warm golden-brown tones (no cool shadows — everything in warm family), long directional from camera-right window
 
-#### SUBJECT — AIRA
+SUBJECT — AIRA:
 **Identity Lock:** Adult woman late 20s-early 30s, South Asian (Indian), warm honey-to-caramel skin tone with golden undertone, 5'6"-5'8", soft-strong hourglass-athletic silhouette, fuller sculpted legs with toned thigh definition, fuller shapely thighs, fuller feminine arms with subtle muscle tone, fuller defined chest in proportion, flat toned midsection, defined waist clear waist-to-hip ratio, curvy hip line with natural feminine flare, heart-shaped to oval face, defined cheekbones, full defined lips with natural cupid's bow, almond-shaped expressive eyes dark brown iris with subtle amber flecks, strong but feminine groomed naturally arched brow, natural sun-kissed glow, long dark brown to near-black hair with subtle warm highlights naturally textured soft waves with body and movement, elegant well-groomed hands.
+
+**Body: strictly keep her legs fuller, thighs fuller, arms fuller, fuller chest, perfect flat belly.**
 
 **Body Position:**
 - Weight distribution: 65% left leg (hip-pop left — informal, at-home stance, comfortable), 35% right
@@ -2107,21 +2163,22 @@ NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic ski
 **Wardrobe State:**
 - White linen button-down (slightly oversized, front tucked loosely into jeans, back untucked — the "effortless" tuck she spent 5 minutes perfecting), sleeves rolled to mid-forearm (showing elegant forearms and wrists), top two buttons open (revealing collarbone area, gold pendant visible against skin). High-waisted light-wash straight-leg denim (fitted at waist, relaxed through leg — flattering, comfortable, her). Bare feet still (sneakers by door — she'll put them on last). Gold pendant necklace (small disc with a letter — his initial, she won't tell viewers why she chose it today but we know). Simple gold rings on right hand (her everyday jewelry — comfort items). Hair in final state. THIS is the outfit — the one she went back to after trying five others.
 
-#### SPATIAL LOGIC
+SPATIAL LOGIC:
 - FOREGROUND: Mirror edge at left of frame (leading eye to her reflection), outfit-covered bed visible at frame bottom-right (story context — she already chose), phone on pillow catching light, 15% of frame
 - MIDGROUND: AIRA standing — full figure in chosen outfit, natural light painting her warm, self-hug posture reading as tender vulnerability, 60% of frame
 - BACKGROUND: Window with golden hour pouring through (the world she's about to enter — golden, warm, full of possibility), white wall catching warm light, bedroom door (the exit she'll take), 25% of frame
 
-#### COLOR GRADE
+COLOR GRADE:
 - HIGHLIGHTS: Deep warm amber-gold (golden hour dominant), skin speculars reading honeyed, linen shirt catching light as warm cream-gold
 - MIDTONES: Rich warm throughout — skin reading as warmest possible (golden light + golden undertone = GLOWING), denim reading soft warm blue-grey (golden light shifting its cool), everything in amber family
 - SHADOWS: Warm brown-gold, lifted to 9% (airy, light, nothing heavy — this is about possibility not weight), gentle and soft
 - REFERENCE: Richard Linklater (Before Sunrise/Sunset golden-hour work) — romantic naturalism, warm light as emotional language, the beauty of real moments
 - OVERALL FEEL: Tender golden hope — she's standing in the light of possibility, nervous and beautiful and about to walk toward someone who might matter, wearing the face she was born with because that's the bravest thing she can do today
 
-#### NEGATIVE BLOCK
+NEGATIVE:
 NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic skin, uncanny valley, over-retouched poreless skin, HDR artifacts, oversaturated neon, AI face-smoothing. NO makeup on face (bare — golden hour is her only friend). NO dramatic lighting (natural only). NO performing for camera (intimate, real, vulnerable). NO confident posture (she's nervous — must read). NO sad expression (this is EXCITEMENT tinged with nervousness, not melancholy). NO messy hair (it's natural and beautiful as-is). NO looking at camera (looking at mirror/reflection/phone). NO cold light anywhere (warm golden throughout).
 
+---
 
 ### Video Prompt 1 — THE OVERTHINKING
 
@@ -2151,13 +2208,13 @@ NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic ski
 ### Prompt 2 — THE MINIMAL
 
 
-#### SCENE ARCHITECTURE
+SCENE ARCHITECTURE:
 - LOCATION: Same bedroom, small vanity shelf with round mirror (30cm diameter), minimal products (tinted moisturizer, concealer, cream blush pot, clear brow gel, tinted lip balm — only 5), golden hour now lighting her from side as she faces mirror on wall
 - TIME OF DAY: 5:35 PM — golden hour intensifying
 - ATMOSPHERE: Warm, settled (she's made her decision — minimal), the room glowing with possibility
 - SOUND WORLD: Tinted moisturizer being blended with fingers (wet spreading sound), guitar continuing (adding harmonics), her humming softly (nervous energy into sound)
 
-#### CAMERA
+CAMERA:
 - LENS: 50mm f/1.4 — intimate portrait, her face primary
 - DISTANCE: 80cm from face
 - HEIGHT: Eye level (she's standing at shelf mirror)
@@ -2165,7 +2222,7 @@ NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic ski
 - MOVEMENT: Static hold
 - APERTURE: f/1.8 — face and hands sharp, background golden-warm dissolution
 
-#### LIGHTING
+LIGHTING:
 - KEY: Golden hour from camera-right at 75-degree angle (strong sidelight creating half-lit/half-shadow face — beautiful, dramatic, natural), 2800K deep amber
 - FILL: White wall bounce from left at 3:1 ratio (natural reflection providing gentle fill on shadow side)
 - RIM: Golden backlight component catching hair at crown (amber halo — natural beauty)
@@ -2173,8 +2230,10 @@ NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic ski
 - ATMOSPHERE IN LIGHT: The golden side-light creating a SPLIT on her face — one side in warm gold, one side in gentle shadow, both beautiful (she's between two states: anxious and hopeful, shadow and light, the metaphor is literal)
 - SHADOW BEHAVIOR: 35% density on camera-left face (stronger shadow than earlier frames of other concepts — but it's WARM, golden-brown, beautiful — not unflattering, cinematic)
 
-#### SUBJECT — AIRA
+SUBJECT — AIRA:
 **Identity Lock:** [Full lock maintained — same as all frames]
+
+**Body: strictly keep her legs fuller, thighs fuller, arms fuller, fuller chest, perfect flat belly.**
 
 **Body Position:**
 - Weight distribution: 55% right (leaning into mirror for application)
@@ -2215,21 +2274,22 @@ NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic ski
 **Wardrobe State:**
 - Same outfit as Frame 1 (she already dressed — this GRWM is face only), sleeves still rolled, pendant visible
 
-#### SPATIAL LOGIC
+SPATIAL LOGIC:
 - FOREGROUND: Product lineup at counter level (only 5 items — visually minimal compared to other concepts' product armies), soft focus, 10% of frame
 - MIDGROUND: Her face in golden sidelight — half lit warmly, half in gentle shadow, hand at face, intimate and tender, 78% of frame
 - BACKGROUND: Dissolved warm — golden bedroom, suggestion of window light source, volumetric warmth, 12% of frame
 
-#### COLOR GRADE
+COLOR GRADE:
 - HIGHLIGHTS: Deep amber-gold (richest warm highlights — golden hour at peak), skin speculars reading liquid-gold
 - MIDTONES: Everything warm-shifted — skin as rich warm amber, hair as bronze, linen as cream-gold
 - SHADOWS: Warm brown only, lifted to 8%, gentle and embracing (shadows here are COMFORT not drama)
 - REFERENCE: Linklater golden-hour + Barry Jenkins (Moonlight skin work) — light as love-language, skin celebrated in warm spectrum
 - OVERALL FEEL: Kindness to self — she's being gentle with her own face the way she hopes he'll look at it
 
-#### NEGATIVE BLOCK
+NEGATIVE:
 NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic skin, uncanny valley. NO heavy coverage (sheer tint ONLY — real skin visible). NO cold light. NO serious/sad expression. NO performing. NO confidence (she's building it, not there yet). NO full face done (asymmetric progress required).
 
+---
 
 ### Video Prompt 2 — THE MINIMAL
 
@@ -2259,13 +2319,13 @@ NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic ski
 ### Prompt 3 — THE BLUSH
 
 
-#### SCENE ARCHITECTURE
+SCENE ARCHITECTURE:
 - LOCATION: Same vanity position, cream blush pot open on shelf, golden hour reaching deepest amber through window
 - TIME OF DAY: 5:40 PM — golden hour deepening to copper
 - ATMOSPHERE: Warm, calmer (she's found her rhythm), cream blush's rose scent, settling energy
 - SOUND WORLD: Finger tapping cream blush on cheeks (gentle, rhythmic), guitar building warmth, her breath steady now
 
-#### CAMERA
+CAMERA:
 - LENS: 85mm f/1.4 — close portrait
 - DISTANCE: 70cm from face
 - HEIGHT: Eye level
@@ -2273,7 +2333,7 @@ NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic ski
 - MOVEMENT: Static
 - APERTURE: f/1.8 — face sharp, golden bokeh around
 
-#### LIGHTING
+LIGHTING:
 - KEY: Golden hour now from camera-left (shifted perspective), 2800K, wrapping
 - FILL: Wall bounce at 2.5:1
 - RIM: Amber halo on left hair side
@@ -2281,8 +2341,10 @@ NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic ski
 - ATMOSPHERE IN LIGHT: Cream blush on cheeks catching golden light creating a warm-from-within glow effect indistinguishable from natural flush
 - SHADOW BEHAVIOR: 30% warm shadow camera-right, soft edges, beautiful
 
-#### SUBJECT — AIRA
+SUBJECT — AIRA:
 **Identity Lock:** Adult woman late 20s-early 30s, South Asian (Indian), warm honey-to-caramel skin tone with golden undertone, 5'6"-5'8", soft-strong hourglass-athletic silhouette, fuller sculpted legs with toned thigh definition, fuller shapely thighs, fuller feminine arms with subtle muscle tone, fuller defined chest in proportion, flat toned midsection, defined waist clear waist-to-hip ratio, curvy hip line with natural feminine flare, heart-shaped to oval face, defined cheekbones, full defined lips with natural cupid's bow, almond-shaped expressive eyes dark brown iris with subtle amber flecks, strong but feminine groomed naturally arched brow, natural sun-kissed glow, long dark brown to near-black hair with subtle warm highlights naturally textured soft waves with body and movement, elegant well-groomed hands.
+
+**Body: strictly keep her legs fuller, thighs fuller, arms fuller, fuller chest, perfect flat belly.**
 
 **Body Position:**
 - Weight distribution: 50/50 centered
@@ -2323,21 +2385,22 @@ NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic ski
 **Wardrobe State:**
 - Same outfit, same pendant catching light, same rolled sleeves — consistent throughout
 
-#### SPATIAL LOGIC
+SPATIAL LOGIC:
 - FOREGROUND: Blurred cream blush pot on shelf at frame edge (open, finger-mark in product), 8% of frame
 - MIDGROUND: Her face in golden light — happy, glowing, the blush making her look kissed by warmth, 80% of frame
 - BACKGROUND: Golden dissolved warmth — bedroom amber glow, romantic possibility, 12% of frame
 
-#### COLOR GRADE
+COLOR GRADE:
 - HIGHLIGHTS: Deep warm amber-gold, cream blush speculars reading as warm-pink-gold
 - MIDTONES: Richest warm — skin at maximum honey-gold, blush integrating seamlessly into warm palette
 - SHADOWS: Warm brown, 8% lift, gentle
 - REFERENCE: Same Linklater + Jenkins palette — warm naturalism as beauty language
 - OVERALL FEEL: She's beginning to believe she might be beautiful enough — the blush isn't making her pretty, it's making her BELIEVE she already was
 
-#### NEGATIVE BLOCK
+NEGATIVE:
 NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic skin, uncanny valley. NO visible heavy product (must look like REAL skin with natural flush). NO cold light. NO anxiety in expression (she's past it). NO dramatic makeup. NO styled hair (natural throughout).
 
+---
 
 ### Video Prompt 3 — THE BLUSH
 
@@ -2367,13 +2430,13 @@ NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic ski
 ### Prompt 4 — THE FINISHING
 
 
-#### SCENE ARCHITECTURE
+SCENE ARCHITECTURE:
 - LOCATION: Same — she's now doing brow gel AND tinted lip balm in quick succession (this frame covers both because her routine is SO minimal she's nearly done already)
 - TIME OF DAY: 5:42 PM — golden hour maintained
 - ATMOSPHERE: Excited energy returning as completion nears (she's about to be DONE and then there's nothing between her and him but distance)
 - SOUND WORLD: Brow gel wand sweep, lip balm glide, guitar at crescendo building, she laughs once (nervous return — it's almost time)
 
-#### CAMERA
+CAMERA:
 - LENS: 70mm f/2.0 — balanced, capturing face and upper body for the "I'm almost done" energy
 - DISTANCE: 1.0m from face
 - HEIGHT: Eye level
@@ -2381,7 +2444,7 @@ NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic ski
 - MOVEMENT: Gentle 2cm push-in over 8s (approaching as she completes — viewer drawn closer as she becomes more confident)
 - APERTURE: f/2.0 — face and hands sharp
 
-#### LIGHTING
+LIGHTING:
 - KEY: Golden hour maintained from camera-right at 60 degrees, copper-amber (deepest)
 - FILL: Wall bounce 2.5:1 warm
 - RIM: Amber hair halo (strongest now — sun lowest)
@@ -2389,8 +2452,10 @@ NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic ski
 - ATMOSPHERE IN LIGHT: Her face now with tinted moisturizer + blush GLOWING in golden light — she looks luminous (the light and minimal product conspiring to make her supernatural)
 - SHADOW BEHAVIOR: 30% warm, soft, gentle — embracing not dramatic
 
-#### SUBJECT — AIRA
+SUBJECT — AIRA:
 **Identity Lock:** Adult woman late 20s-early 30s, South Asian (Indian), warm honey-to-caramel skin tone with golden undertone, 5'6"-5'8", soft-strong hourglass-athletic silhouette, fuller sculpted legs with toned thigh definition, fuller shapely thighs, fuller feminine arms with subtle muscle tone, fuller defined chest in proportion, flat toned midsection, defined waist clear waist-to-hip ratio, curvy hip line with natural feminine flare, heart-shaped to oval face, defined cheekbones, full defined lips with natural cupid's bow, almond-shaped expressive eyes dark brown iris with subtle amber flecks, strong but feminine groomed naturally arched brow, natural sun-kissed glow, long dark brown to near-black hair with subtle warm highlights naturally textured soft waves with body and movement, elegant well-groomed hands.
+
+**Body: strictly keep her legs fuller, thighs fuller, arms fuller, fuller chest, perfect flat belly.**
 
 **Body Position:**
 - Weight distribution: 55% left (slight lean toward mirror for lip application)
@@ -2431,21 +2496,22 @@ NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic ski
 **Wardrobe State:**
 - Same outfit, phone now in left hand (wasn't visible before — she grabbed it when it buzzed), pendant, rings catching light
 
-#### SPATIAL LOGIC
+SPATIAL LOGIC:
 - FOREGROUND: Phone in left hand with glowing screen at lower-left frame (readable glow but text angled away from camera — private), 8% of frame
 - MIDGROUND: Her face completing final product application — lip balm nearly done, face glowing with all products working, golden light wrapping, 77% of frame
 - BACKGROUND: Same golden dissolved warmth, window, bedroom, romantic light, 15% of frame
 
-#### COLOR GRADE
+COLOR GRADE:
 - HIGHLIGHTS: Deepest amber-copper-gold (golden hour at maximum depth), new lip sheen catching as pink-gold specular point
 - MIDTONES: Maximum warmth — the entire world is golden and she is the warmest thing in it, lip balm adding rose-pink element to previously neutral palette
 - SHADOWS: Same warm brown, lifted, gentle, embracing
 - REFERENCE: Same Linklater palette at its most romantic — the light of "Before Sunset" final scene
 - OVERALL FEEL: Nearly ready — she's about to step into reality with the most honest face she can offer, and the golden light agrees it's more than enough
 
-#### NEGATIVE BLOCK
+NEGATIVE:
 NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic skin, uncanny valley. NO heavy lip product (tinted BALM only — subtle). NO finished/polished look (she should look "barely done" even though she's technically complete now). NO cold light. NO anxiety (this is excitement). NO revealing his full message (private). NO confidence yet (still building).
 
+---
 
 ### Video Prompt 4 — THE FINISHING
 
@@ -2475,13 +2541,13 @@ NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic ski
 ### Prompt 5 — THE QUESTION
 
 
-#### SCENE ARCHITECTURE
+SCENE ARCHITECTURE:
 - LOCATION: Full-length mirror (moved back from vanity to the leaning mirror), she's standing full-body in front of it, golden hour at maximum beauty
 - TIME OF DAY: 5:45 PM — peak golden, last warmest light of the day
 - ATMOSPHERE: Still, quiet, the world holding its breath while she decides she's ready
 - SOUND WORLD: Guitar drops to single sustained note (held, breathing, open), her exhale audible, the weight of self-assessment in silence
 
-#### CAMERA
+CAMERA:
 - LENS: 50mm f/1.4 — portrait with environment context
 - DISTANCE: 1.5m (medium shot showing face and upper body — the question is in her face)
 - HEIGHT: Eye level
@@ -2489,7 +2555,7 @@ NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic ski
 - MOVEMENT: Static for 6s then barely-there push-in (1.5cm — closing distance as she accepts herself)
 - APERTURE: f/1.8 — face sharp, body in focus, background warm dissolution
 
-#### LIGHTING
+LIGHTING:
 - KEY: Golden hour at most beautiful angle — wrapping her face from camera-left at 50 degrees, deepest copper-amber
 - FILL: White wall 2:1 warm
 - RIM: Full amber halo on hair crown (sun nearly at horizon = most horizontal = most dramatic rim)
@@ -2497,8 +2563,10 @@ NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic ski
 - ATMOSPHERE IN LIGHT: She is GLOWING — the combination of minimal-perfect makeup + golden hour + the flush of excitement creates a woman who looks lit from inside. The light loves her because SHE is warm.
 - SHADOW BEHAVIOR: 30% warm, soft, gentle depth without drama
 
-#### SUBJECT — AIRA
+SUBJECT — AIRA:
 **Identity Lock:** Adult woman late 20s-early 30s, South Asian (Indian), warm honey-to-caramel skin tone with golden undertone, 5'6"-5'8", soft-strong hourglass-athletic silhouette, fuller sculpted legs with toned thigh definition, fuller shapely thighs, fuller feminine arms with subtle muscle tone, fuller defined chest in proportion, flat toned midsection, defined waist clear waist-to-hip ratio, curvy hip line with natural feminine flare, heart-shaped to oval face, defined cheekbones, full defined lips with natural cupid's bow, almond-shaped expressive eyes dark brown iris with subtle amber flecks, strong but feminine groomed naturally arched brow, natural sun-kissed glow, long dark brown to near-black hair with subtle warm highlights naturally textured soft waves with body and movement, elegant well-groomed hands.
+
+**Body: strictly keep her legs fuller, thighs fuller, arms fuller, fuller chest, perfect flat belly.**
 
 **Body Position:**
 - Weight distribution: 50/50 (grounded, still, present)
@@ -2539,21 +2607,22 @@ NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic ski
 **Wardrobe State:**
 - Complete outfit minus shoes — white linen, denim, pendant, rings. Bare feet for last time (shoes by door). She looks like someone you'd want to meet for coffee. Effortless. Real. Warm.
 
-#### SPATIAL LOGIC
+SPATIAL LOGIC:
 - FOREGROUND: Air between her and mirror — clear, golden-lit, dust motes floating in this space (the distance between her and her reflection is the distance between doubt and belief), 10% of frame
 - MIDGROUND: AIRA — standing, still, golden, looking at herself with growing acceptance, 75% of frame
 - BACKGROUND: The warm bedroom dissolved behind her — bed with cast-off outfits (the journey visible), window with setting sun, the world waiting, 15% of frame
 
-#### COLOR GRADE
+COLOR GRADE:
 - HIGHLIGHTS: Maximum amber-copper-gold (the very last warm light before blue hour begins), her face as warmest element in frame
 - MIDTONES: Rich warm — everything golden, everything kind, the grade itself feeling like a warm embrace
 - SHADOWS: Lifted to 10% (lightest possible — no darkness in this moment of acceptance), warm brown only
 - REFERENCE: Terrence Malick + Linklater — natural light worshipped, the human face as landscape worthy of attention, the beauty of ordinary moments made sacred by attention
 - OVERALL FEEL: The answer is yes — she is looking at herself with the same tenderness she hopes to receive, and in that tenderness, she finds she was always enough
 
-#### NEGATIVE BLOCK
+NEGATIVE:
 NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic skin, uncanny valley. NO dramatic makeup (barely-there, natural, REAL). NO performing for mirror (genuinely SEEING herself, not posing). NO full confidence yet (hope, not certainty — the vulnerability of "enough" being a question not a statement). NO cold light. NO anxiety (this is tender, not nervous). NO tears (too much — this is subtler). NO breaking eye contact with reflection (she's committed to seeing herself).
 
+---
 
 ### Video Prompt 5 — THE QUESTION
 
@@ -2583,13 +2652,13 @@ NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic ski
 ### Prompt 6 — THE DEPARTURE
 
 
-#### SCENE ARCHITECTURE
+SCENE ARCHITECTURE:
 - LOCATION: Apartment front door — simple, narrow hallway, mirror on wall by door (a quick-check mirror), keys on hook, her sneakers now on, the threshold between preparation and reality
 - TIME OF DAY: 5:50 PM — golden hour transitioning (last amber through hallway window), she's stepping into the actual world now
 - ATMOSPHERE: The electric anticipation of departure — perfume trail behind her (she sprayed walking through hallway), keys in hand (jingling — the sound of going), the compressed energy of "this is it"
 - SOUND WORLD: Guitar resolving to final chord (warm, open, major — HOPE as harmony), sneaker on floor (soft rubber-on-wood — different from all the heel-sounds in other concepts), keys jingling, door handle turning, the WORLD on the other side (traffic, life, possibility)
 
-#### CAMERA
+CAMERA:
 - LENS: 35mm f/1.8 — cinematic width for the departure shot
 - DISTANCE: 2.0m
 - HEIGHT: Eye level (she's in sneakers — the camera is at HER height, comfortable, equal, unpretentious)
@@ -2597,7 +2666,7 @@ NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic ski
 - MOVEMENT: Slow dolly forward with her motion (she takes steps toward door — camera follows, matching pace — we're going WITH her)
 - APERTURE: f/2.2 — full figure sharp, hallway behind in narrative-readable soft focus
 
-#### LIGHTING
+LIGHTING:
 - KEY: Last golden hour beam through hallway window at end of corridor (behind her — amber backlight creating warm halo as she walks TOWARD the door/camera)
 - FILL: Ambient hallway at 2:1 (neutral walls bouncing warm key)
 - RIM: Full amber rim from hallway window behind (she's backlit beautifully — the light of her private world illuminating her as she leaves it)
@@ -2605,8 +2674,10 @@ NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic ski
 - ATMOSPHERE IN LIGHT: Perfume trail visible in amber backlight (golden mist in her wake — she's leaving beauty behind her), the doorway creating a threshold of light-change (inside: warm gold, outside: real daylight — the transition from preparation fantasy to lived reality)
 - SHADOW BEHAVIOR: Shadow extending forward toward door (she's backlit — her shadow reaches the exit before she does), 30% density, warm
 
-#### SUBJECT — AIRA
+SUBJECT — AIRA:
 **Identity Lock:** Adult woman late 20s-early 30s, South Asian (Indian), warm honey-to-caramel skin tone with golden undertone, 5'6"-5'8", soft-strong hourglass-athletic silhouette, fuller sculpted legs with toned thigh definition, fuller shapely thighs, fuller feminine arms with subtle muscle tone, fuller defined chest in proportion, flat toned midsection, defined waist clear waist-to-hip ratio, curvy hip line with natural feminine flare, heart-shaped to oval face, defined cheekbones, full defined lips with natural cupid's bow, almond-shaped expressive eyes dark brown iris with subtle amber flecks, strong but feminine groomed naturally arched brow, natural sun-kissed glow, long dark brown to near-black hair with subtle warm highlights naturally textured soft waves with body and movement, elegant well-groomed hands.
+
+**Body: strictly keep her legs fuller, thighs fuller, arms fuller, fuller chest, perfect flat belly.**
 
 **Body Position:**
 - Weight distribution: 55% right leg (mid-stride toward door)
@@ -2647,21 +2718,22 @@ NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic ski
 **Wardrobe State:**
 - COMPLETE FINAL: White linen button-down (front-tucked, back-free, sleeves rolled), light-wash straight denim, WHITE SNEAKERS (comfort, casualness, zero performance — she is going to meet him as HERSELF not as a concept), tan crossbody bag (small — just phone, keys, lip balm for re-application, cash), gold pendant with his initial against skin, simple rings. TOTAL: the outfit of someone who wants to be recognized in person as the same person from the photos and the voice notes and the 2AM texts. Authentic.
 
-#### SPATIAL LOGIC
+SPATIAL LOGIC:
 - FOREGROUND: Door (the threshold) — handle visible, peephole showing grey outdoor light, the boundary between preparation and reality, 10% of frame
 - MIDGROUND: AIRA mid-stride — full figure, white sneakers grounding her, natural hair bouncing, linen billowing, face in quiet smile, reaching toward door (toward him, toward possibility, toward the brave unknown), 70% of frame
 - BACKGROUND: Hallway extending behind her — golden light, bedroom doorway visible with fairy lights, the preparation world she's leaving, perfume cloud still settling in her wake, 20% of frame
 
-#### COLOR GRADE
+COLOR GRADE:
 - HIGHLIGHTS: Maximum amber-gold (the last warm light loving her as she leaves its embrace), hair catching it, skin catching it, she's taking the golden with her even as she walks toward grey reality
 - MIDTONES: Warm amber-bronze — skin reading as pure warmth, linen as gold-cream, denim as warm grey-blue, everything touched by golden farewell
 - SHADOWS: Warm brown, lifted to 9%, soft and gentle (the kindest shadows — matching the kindness she found for herself in Frame 5)
 - REFERENCE: Linklater final shots (Before Sunrise ending) — the walk toward possibility, the open ending, the held-breath of "what comes next?", beautiful in its uncertainty
 - OVERALL FEEL: She is walking toward love wearing her own face. That is the bravest concept in this batch. No crimson armor, no crystal compact, no editorial mask — just her. Tinted moisturizer and hope and the knowledge that whoever she meets today will see the REAL her. And the real her, in golden light, walking forward, is beautiful.
 
-#### NEGATIVE BLOCK
+NEGATIVE:
 NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic skin, uncanny valley. NO heavy makeup (minimal throughout). NO glamorous exit (sneakers, not heels — REAL). NO dramatic lighting shift (golden to grey is the transition — not dramatic, honest). NO tears. NO hesitation at door (she committed in Frame 5 — now she's just GOING). NO looking back (forward ONLY — toward him, toward life). NO false confidence (quiet bravery, not boldness — the distinction matters). NO music after chord resolves (reality doesn't have a soundtrack — the ambient IS the ending).
 
+---
 
 ### Video Prompt 6 — THE DEPARTURE
 
@@ -2710,13 +2782,13 @@ NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic ski
 ### Prompt 1 — THE ENVELOPE
 
 
-#### SCENE ARCHITECTURE
+SCENE ARCHITECTURE:
 - LOCATION: Hotel suite — luxury but not ostentatious (warm contemporary, dark wood and cream fabrics), floor-to-ceiling windows spanning full wall behind (city skyline visible — twilight transitioning to night, buildings beginning to light), large circular vanity mirror on desk (60cm diameter, surrounded by adjustable LED ring at 5000K — professional-grade), the INVITATION visible on desk surface (cream envelope, gold embossed lettering, her name visible in elegant script, category name visible beneath), gown on custom dress form (black, floor-length, beaded shoulders catching light), champagne coupe on desk with amber liquid at 30% (one sip taken — the ring mark where it sat), scattered professional-grade makeup products (MAC, NARS, Charlotte Tilbury — the big names, high-end), fresh white roses in crystal vase on desk corner
 - TIME OF DAY: 6:45 PM — twilight, sky transitioning from deep blue to night, city lights emerging one by one in window view, artificial suite lighting dominant
 - ATMOSPHERE: Weight of significance — the air feels like before a thunderstorm (charged, pressurized), freshly steamed gown scent mixing with rose arrangement and faint champagne bubbles, the silence of a suite that costs more than a month's rent, significance in every surface
 - SOUND WORLD: Solo violin entering at 1.5s (single sustained note — a tuning-up, a beginning), city muffled through thick glass, champagne bubbles (microscopic popping in the coupe), her breath (she's been standing here looking at the invitation for 30 seconds before we arrived)
 
-#### CAMERA
+CAMERA:
 - LENS: 35mm f/1.8 — establishing the world, the stakes, the woman in her context
 - DISTANCE: 2.5m from subject
 - HEIGHT: Eye level (she's standing at the window — camera at 5'7")
@@ -2724,7 +2796,7 @@ NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic ski
 - MOVEMENT: Slow 3cm push-in over 8s (approaching her significance — viewer drawn into her moment)
 - APERTURE: f/2.2 — she's sharp, desk with invitation in acceptable focus (readable), city through window in cinematic soft focus (the world waiting)
 
-#### LIGHTING
+LIGHTING:
 - KEY: Suite overhead (recessed, 4000K neutral-warm) providing base ambient, supplemented by ring light on desk (5000K, currently on LOW at 30% — she hasn't started using it yet, just ambient contributor)
 - FILL: City twilight through window (cool blue-purple, 7000K equivalent ambient), creating cool fill on her face from behind-right
 - RIM: City light creating cool blue-purple rim on her right side and hair (the city illuminating her before she illuminates it)
@@ -2732,8 +2804,10 @@ NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic ski
 - ATMOSPHERE IN LIGHT: Twilight-to-night transition creating dynamic light through window (sky darkening 3% over frame duration), city lights increasing, the suite feeling like a ship above the world — isolated, elevated, significant
 - SHADOW BEHAVIOR: 30% density, complex multi-source (overhead creating standard down-shadows + city-light creating cool side-fill reducing them), shadows reading sophisticated not dramatic
 
-#### SUBJECT — AIRA
+SUBJECT — AIRA:
 **Identity Lock:** Adult woman late 20s-early 30s, South Asian (Indian), warm honey-to-caramel skin tone with golden undertone, 5'6"-5'8", soft-strong hourglass-athletic silhouette, fuller sculpted legs with toned thigh definition, fuller shapely thighs, fuller feminine arms with subtle muscle tone, fuller defined chest in proportion, flat toned midsection, defined waist clear waist-to-hip ratio, curvy hip line with natural feminine flare, heart-shaped to oval face, defined cheekbones, full defined lips with natural cupid's bow, almond-shaped expressive eyes dark brown iris with subtle amber flecks, strong but feminine groomed naturally arched brow, natural sun-kissed glow, long dark brown to near-black hair with subtle warm highlights naturally textured soft waves with body and movement, elegant well-groomed hands.
+
+**Body: strictly keep her legs fuller, thighs fuller, arms fuller, fuller chest, perfect flat belly.**
 
 **Body Position:**
 - Weight distribution: 55% right (angled toward window, drawn to the view of the city she's about to face)
@@ -2774,21 +2848,22 @@ NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic ski
 **Wardrobe State:**
 - Cream silk dressing robe (hotel-provided, ankle-length, sash-tied, subtle monogram on chest pocket), bare feet on plush carpet, no accessories (earrings still in box, necklace not needed — the gown is statement enough), hair down and blown-out. The gown on the dress form behind her is the POTENTIAL — she hasn't become it yet.
 
-#### SPATIAL LOGIC
+SPATIAL LOGIC:
 - FOREGROUND: Vanity desk with invitation (readable — her name and BEST DIRECTOR or equivalent visible in gold script), products arranged professionally, champagne coupe, ring light base — establishing narrative context, soft-to-acceptable focus, 20% of frame
 - MIDGROUND: AIRA at window — figure in cream silk against city twilight, contemplative profile, champagne in hand, the isolation of private significance, 50% of frame
 - BACKGROUND: Floor-to-ceiling window showing CITY SKYLINE at twilight-to-night (buildings with emerging lights, sky gradient, the WORLD she's about to enter — not a mirror tonight but a STAGE), gown on dress form silhouetted against window (the future-self hanging ready), 30% of frame
 
-#### COLOR GRADE
+COLOR GRADE:
 - HIGHLIGHTS: Neutral-warm from overhead + cool from city twilight (complex highlight palette — warm on her, cool on glass/city), champagne gold as accent highlight, city lights as scattered colored points
 - MIDTONES: Split-tone frame — warm on skin/interior vs cool on window/city (the inside-outside dichotomy, private-public, preparation-performance), her warm skin bridging the two
 - SHADOWS: Rich deep blue-black (night approaching, shadows deepening with it), lifted to 5% (maintaining detail in the dark areas that will dominate tonight), cool-toned shadows from city light
 - REFERENCE: Wong Kar-Wai (In the Mood for Love) meets Tom Ford (A Single Man opening) — the solitary figure in luxury contemplating significance, beauty as weight, time as pressure
 - OVERALL FEEL: The night before the night begins — she's standing at the threshold of her own mythology, and the city doesn't know yet what it's about to see
 
-#### NEGATIVE BLOCK
+NEGATIVE:
 NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic skin, uncanny valley, over-retouched poreless skin, HDR artifacts, oversaturated neon, AI face-smoothing. NO makeup on face yet. NO styled hair (blown out only). NO gown on (robe). NO artificial warmth in lighting (honest suite light + cool city). NO smiling (this is reverence and awe, not joy yet — joy will come later). NO performing (she's alone, she's PRIVATE, this is the real her before the camera). NO revealing which specific award (implication only). NO weakness in posture (she's overwhelmed but not weak — there's a difference).
 
+---
 
 ### Video Prompt 1 — THE ENVELOPE
 
@@ -2820,6 +2895,8 @@ NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic ski
 
 [Frame structure follows exact template — Concept 5 Frame 2: Foundation + concealer application under professional ring light, 5000K even illumination, seated at vanity with city night building behind, the base being laid for editorial glamour. Full identity lock. Camera: 85mm f/1.4, 70cm, eye level. Lighting: Ring light as key 5000K, city through window as cool ambient fill 3:1, no rim. Subject applying full-coverage matte foundation with damp beauty sponge, building flawless editorial base. Expression: focused determination, the craftsman at work. Makeup state: primer complete, foundation being applied (half-face done showing transformation). Voice-over: "Full coverage tonight. Not because I need it. Because under those lights, on that carpet, with those cameras... the face needs to be a surface. A screen. Something they project onto. And I decide what it says."]
 
+**Body: strictly keep her legs fuller, thighs fuller, arms fuller, fuller chest, perfect flat belly.**
+
 
 ### Video Prompt 2 — THE CANVAS
 
@@ -2831,6 +2908,8 @@ NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic ski
 
 
 [Frame structure follows exact template — Concept 5 Frame 3: Contour + highlight + brow sculpting. The face being sculpted into editorial three-dimensionality. Camera: 100mm macro, 50cm, eye level. Extreme detail of contour brush on cheekbone hollows, highlight placement at peaks. Full identity lock, full kinetic stillness layers. Makeup state building: foundation complete, contour being carved with precision taupe cream, highlight placed at cheekbone peaks and nose bridge (cool-toned for camera flash optimization). Expression: meditative precision. Voice-over: "Contour for architecture. The cameras flatten everything. So I put the dimension back before they take it. Cheekbones that say 'I built this face like I built my career — deliberately.'"]
+
+**Body: strictly keep her legs fuller, thighs fuller, arms fuller, fuller chest, perfect flat belly.**
 
 
 ### Video Prompt 3 — THE ARCHITECTURE
@@ -2844,6 +2923,8 @@ NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic ski
 
 [Frame structure follows exact template — Concept 5 Frame 4: Full dramatic eye application — black smoky wing with inner corner gold. Camera: 100mm, 55cm. Both eyes visible, left eye being worked on (wing being extended), right eye complete showing final result. False lashes being applied (strips, dramatic but elegant). Full identity lock. Kinetic stillness: lash-glue application precision, wing-brush at outer corner. Makeup state: base and contour complete, smoky eye in progress (matte black wing extending beyond outer corner, transition-blended charcoal in crease, gold shimmer at inner corner creating light-catching dimension). Voice-over: "The eyes. Not smoky for mystery. Smoky for 'I've been through things and they made me sharper.' The gold at the inner corner is for the girl I was before any of this. She gets to shine tonight too."]
 
+**Body: strictly keep her legs fuller, thighs fuller, arms fuller, fuller chest, perfect flat belly.**
+
 
 ### Video Prompt 4 — THE EYES OF ARRIVAL
 
@@ -2856,6 +2937,8 @@ NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic ski
 
 [Frame structure follows exact template — Concept 5 Frame 5: Crimson lip application — the signature color returning. Camera: 70mm, 90cm, medium-close. Standing now (she stood to approach the window-reflection — using city lights as background for her own assessment). Ring light still illuminating from behind. Full identity lock. Applying crimson matte lip with precision brush (not bullet — brush for editorial control), building from liner map to full coverage. Expression: the SHIFT — somewhere during this lip application, she sees the woman she's becoming and recognition arrives. The imposter syndrome flickers then dies. Voice-over: "The lip. Again. Always the lip. Red like a thesis statement. Red like 'I'm not apologizing for taking up space.' Red like my mother's Sunday sari."]
 
+**Body: strictly keep her legs fuller, thighs fuller, arms fuller, fuller chest, perfect flat belly.**
+
 
 ### Video Prompt 5 — THE CRIMSON RETURN
 
@@ -2865,6 +2948,8 @@ NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic ski
 
 ### Prompt 6 — THE ARRIVAL
 
+
+**Body: strictly keep her legs fuller, thighs fuller, arms fuller, fuller chest, perfect flat belly.**
 
 [Frame structure follows exact template — Concept 5 Frame 6: FULL REVEAL — she is in the gown, hair in complete Old Hollywood waves (deep side-part, sculpted S-waves, glossy), face complete (ML-14 full editorial), statement diamond cascade earrings catching every light in the room. Camera: 35mm at 3m, low angle (power shot), full body visible. She is walking toward suite door, gown moving with her stride, thigh-slit revealing left leg in strappy black stiletto, the city behind her through window now fully DARK with lights (the night is hers). The gown catches light at beaded shoulders. She pauses at the door, turns to look back at the room one final time (seeing: the empty robe on chair, the used products, the invitation still on desk, the champagne still at one-sip — the before-woman who stood at that window), then turns forward and exits. Voice-over: "Win or lose — I walked in looking like this. And that... that's already the answer." Music: FULL ORCHESTRAL CLIMAX — brass, strings, piano, the whole symphony that was built instrument by instrument reaches its peak as she reaches the door. She opens it. Hallway light floods. She steps through. Awards ceremony awaits.]
 
@@ -2893,13 +2978,13 @@ NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic ski
 ### Prompt 1 — THE CITY WALKS WITH HER
 
 
-#### SCENE ARCHITECTURE
+SCENE ARCHITECTURE:
 - LOCATION: Mumbai side street during golden hour — painted buildings in warm pastels (ochre, terracotta, faded pink), auto-rickshaw parked at left, pedestrians moving in both directions behind her (3-4 blurred figures), overhead wires creating geometric lines, small shop fronts with illuminated signs (Hindi text), a white vintage Ambassador car parked at curb ahead of her (its side mirror will be her application point), fruit vendor's cart with stacked oranges catching golden light to the right
 - TIME OF DAY: 6:10 PM — deep golden hour, Mumbai warmth, amber light hitting buildings and creating long dramatic shadows down the street
 - ATMOSPHERE: Warm, alive, Mumbai evening energy (honking, chatter, life), petrol and jasmine and street food mixing in hot air, golden light making everything cinematic, slight haze from traffic and heat giving volumetric quality to light
 - SOUND WORLD: Mumbai street ambience (auto-rickshaw puttering, distant horns, vendor calls, footsteps, bicycle bell), transitioning to stylized version (sounds begin to slow and separate as she walks, becoming rhythmic — the city syncing to her stride)
 
-#### CAMERA
+CAMERA:
 - LENS: 40mm f/1.8 — wide enough for environmental context but still subject-isolated by DOF
 - DISTANCE: 3m ahead of her (she's walking TOWARD camera — approaching power)
 - HEIGHT: Chest height (1.3m — slightly below eye level, looking UP at her as she approaches — she commands the street)
@@ -2907,7 +2992,7 @@ NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic ski
 - MOVEMENT: Dolly BACKWARD at her walking speed (she stays center-frame, constant size, world moves behind her — she is the fixed point)
 - APERTURE: f/2.0 — she's sharp head-to-toe, street behind dissolving to cinematic bokeh (colored lights from shops, warm blurs of pedestrians, geometric building lines)
 
-#### LIGHTING
+LIGHTING:
 - KEY: Golden hour at full Mumbai intensity from camera-left (sun low, warm, AGGRESSIVE amber — 2500K, strong directional), hitting left side of her face, left arm, left body in warm sculpted light
 - FILL: Ambient Mumbai scatter (warm buildings bouncing golden light back) at 2.5:1 ratio — the fill is ALSO warm (unlike studio — real environment wrap)
 - RIM: Sun catching her from behind-left as she walks (glancing backlight component on left hair, shoulder — amber rim that flames when she passes through direct beams)
@@ -2915,8 +3000,10 @@ NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic ski
 - ATMOSPHERE IN LIGHT: VOLUMETRIC — Mumbai golden-hour with traffic haze creating visible light shafts between buildings, golden beams crossing the street at roofline level, her walking THROUGH one of these beams at 3.0s (brief golden-flood moment as she crosses a light shaft between buildings)
 - SHADOW BEHAVIOR: 35% density, warm golden-brown, long directional from camera-left, her shadow extending far to her right along pavement (dramatic, cinematic length from low sun angle)
 
-#### SUBJECT — AIRA
+SUBJECT — AIRA:
 **Identity Lock:** Adult woman late 20s-early 30s, South Asian (Indian), warm honey-to-caramel skin tone with golden undertone, 5'6"-5'8", soft-strong hourglass-athletic silhouette, fuller sculpted legs with toned thigh definition, fuller shapely thighs, fuller feminine arms with subtle muscle tone, fuller defined chest in proportion, flat toned midsection, defined waist clear waist-to-hip ratio, curvy hip line with natural feminine flare, heart-shaped to oval face, defined cheekbones, full defined lips with natural cupid's bow, almond-shaped expressive eyes dark brown iris with subtle amber flecks, strong but feminine groomed naturally arched brow, natural sun-kissed glow, long dark brown to near-black hair with subtle warm highlights naturally textured soft waves with body and movement, elegant well-groomed hands.
+
+**Body: strictly keep her legs fuller, thighs fuller, arms fuller, fuller chest, perfect flat belly.**
 
 **Body Position:**
 - Weight distribution: Mid-stride — 65% front right leg (grounding phase), 35% back left (push-off completing)
@@ -2957,21 +3044,22 @@ NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic ski
 **Wardrobe State:**
 - Fitted dark green silk slip dress (mid-thigh, spaghetti straps, bias-cut draping her curves), black pointed kitten heels, gold layered chain necklaces (3 varying lengths — one at throat, one at collarbone, one between breasts), small gold hoops catching golden light, black crossbody bag at hip. SHE'S ALREADY DRESSED FOR THE EVENING — this is her walking TO something, applying the final product IN TRANSIT. That's the concept: beauty that keeps up with her life, not the other way around.
 
-#### SPATIAL LOGIC
+SPATIAL LOGIC:
 - FOREGROUND: Nothing (she IS the foreground, approaching camera, no barrier between viewer and her approach)
 - MIDGROUND: AIRA mid-stride, filling center frame, mascara tube casually in hand, approaching the parked Ambassador car (which appears at frame-right edge — her destination approaching as she approaches camera), 65% of frame
 - BACKGROUND: MUMBAI — the full alive city as her backdrop: warm buildings, golden light, moving people, signage in Hindi, the visual density of Indian urban life as cinematic texture, all in warm golden bokeh, 35% of frame
 
-#### COLOR GRADE
+COLOR GRADE:
 - HIGHLIGHTS: RICH amber-gold (Mumbai golden hour — more saturated than indoor concepts, OUTDOOR WARM at maximum), car chrome catching as pure white-gold speculars, her necklaces as scattered gold points
 - MIDTONES: Deep warm — skin reading as richest possible (golden light + golden undertone at outdoor intensity), silk dress reading as deep emerald-gold (warm light shifting its base), buildings as warm ochre-terracotta
 - SHADOWS: Warm chocolate-brown, lifted to 6% (maintaining detail in shadows where Mumbai life happens), long dramatic cast-shadows as compositional elements
 - REFERENCE: Mira Nair (Monsoon Wedding) color palette meets Deakins' golden-hour work (Skyfall Shanghai scenes) — Mumbai warmth made cinematic, the city as character
 - OVERALL FEEL: She owns this city — the mascara in her hand is not a product she needs, it's a finishing touch she CHOOSES, and even the city's golden light couldn't outshine her already
 
-#### NEGATIVE BLOCK
+NEGATIVE:
 NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic skin, uncanny valley, over-retouched poreless skin, HDR artifacts, oversaturated neon, AI face-smoothing. NO mascara applied yet (she's WALKING with it — application comes at Frame 2-3). NO stopping or posing on street (she is IN MOTION always in beauty ads). NO studio lighting (this is REAL Mumbai golden hour). NO empty/sterile streets (the city must be ALIVE around her). NO other people looking at her yet (she hasn't done anything attention-worthy YET — that comes at Frame 4). NO Western city (this is specifically MUMBAI — Indian architecture, Hindi signage, rickshaws, Ambassador cars). NO rushed walking (confident, owned, PACE not speed). NO product prominence (it's casually in her hand, not presented — organic integration).
 
+---
 
 ### Video Prompt 1 — THE CITY WALKS WITH HER
 
@@ -3001,13 +3089,13 @@ NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic ski
 ### Prompt 2 — THE MIRROR FOUND
 
 
-#### SCENE ARCHITECTURE
+SCENE ARCHITECTURE:
 - LOCATION: Same Mumbai street — now focused on the white Ambassador car's driver-side mirror area. She's positioned at the car door, leaning 10 degrees toward the side mirror, the street continuing behind her with life and motion. The car's white paint reflects golden hour, creating a bounce surface
 - TIME OF DAY: Same golden hour — light hitting the mirror creating a golden spotlight on her face (reflected sunlight)
 - ATMOSPHERE: Same warm Mumbai air, but she's created a pocket of stillness beside this parked car while the city flows
 - SOUND WORLD: Tabla rhythm now established (matching the moment's precision), mascara cap clicking off, city flowing in background
 
-#### CAMERA
+CAMERA:
 - LENS: 85mm f/1.4 — tight on her face and the car mirror, isolating this precise moment
 - DISTANCE: 1.0m from face (close — we're watching the APPLICATION with intimate detail)
 - HEIGHT: Eye level
@@ -3015,7 +3103,7 @@ NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic ski
 - MOVEMENT: Static lock for precision (matching her momentary stillness during application)
 - APERTURE: f/1.6 — her face and mirror reflection both sharp (same focal plane), Mumbai street behind dissolved to warm golden bokeh with moving colored shapes
 
-#### LIGHTING
+LIGHTING:
 - KEY: Car mirror REFLECTING golden hour directly onto her face (the side mirror acting as a natural reflector-bounce — genius found-lighting), warm concentrated golden from mirror-angle
 - FILL: Ambient Mumbai warm at 2:1 (the city itself fills shadows)
 - RIM: Direct golden hour on her left side (sun still present from scene-left), creating dramatic rim-edge
@@ -3023,8 +3111,10 @@ NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic ski
 - ATMOSPHERE IN LIGHT: The car mirror as found-reflector creating a spotlight quality on her face (concentrated golden beam from mirror-bounce — she instinctively found the best light on the street, as all beautiful women do)
 - SHADOW BEHAVIOR: 25% (the mirror-bounce filling shadows more than before), warm, soft from bounced quality
 
-#### SUBJECT — AIRA
+SUBJECT — AIRA:
 **Identity Lock:** [Full lock maintained]
+
+**Body: strictly keep her legs fuller, thighs fuller, arms fuller, fuller chest, perfect flat belly.**
 
 **Body Position:**
 - Weight distribution: 65% left leg (leaning right toward mirror), 35% right
@@ -3065,21 +3155,22 @@ NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic ski
 **Wardrobe State:**
 - Same — silk dress, kitten heels, necklaces, crossbody bag shifted to back-hip (moved out of way for car-lean position)
 
-#### SPATIAL LOGIC
+SPATIAL LOGIC:
 - FOREGROUND: Car mirror visible at frame-left showing her face in reflection (small, convex, distorted-beautiful — a second version of her), 15% of frame
 - MIDGROUND: AIRA in three-quarter profile — face lit by mirror-bounce golden, wand at eye, the elegance of application in an unusual location, 60% of frame
 - BACKGROUND: Mumbai in motion — warm golden bokeh with moving shapes (people, vehicles, life), the city as living backdrop that makes her stillness MORE beautiful by contrast, 25% of frame
 
-#### COLOR GRADE
+COLOR GRADE:
 - HIGHLIGHTS: Concentrated amber-gold on face (mirror-bounce effect — warmer and more focused than general ambient), car chrome as white-gold points
 - MIDTONES: Deep warm throughout — Mumbai amber dominance, her dark green dress reading as warm emerald, skin at maximum golden richness
 - SHADOWS: Warm brown, lifted, the shadow-side of her face reading as warm terracotta (warm-on-warm environment)
 - REFERENCE: Same Mira Nair meets Deakins palette — Mumbai-specific warmth
 - OVERALL FEEL: Found beauty — she makes any surface her vanity, any mirror her moment, the city is her dressing room and the mascara is the only thing between her current state and traffic-stopping
 
-#### NEGATIVE BLOCK
+NEGATIVE:
 NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic skin, uncanny valley. NO mascara on lashes yet (approaching only — Frame 3 is the application). NO leaning ON the car (near it, not touching). NO performing for street audience. NO empty street. NO studio light. NO static pose (even in momentary stillness she is ALIVE with micro-motion). NO product held prominently to camera (organic, lived-with position always).
 
+---
 
 ### Video Prompt 2 — THE MIRROR FOUND
 
@@ -3109,6 +3200,8 @@ NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic ski
 
 [Frame structure follows exact template — Concept 6 Frame 3: Active mascara application completing. Camera: 100mm macro, 45cm from face, extreme close-up of eye zone showing the BEFORE/AFTER split (left eye coated — dramatic black defined separated fanned lashes, right eye bare — natural, lighter, less defined). The difference is the product story. She's now applying to right eye (final strokes). The car mirror still visible as small reflection. Voice-over (SINGLE LINE — the only spoken words in the whole concept): \"One coat. That's all it takes to stop traffic.\" Delivered with absolute certainty, low register, Hindi-English, the confidence of a woman who knows exactly what she's doing. Product: wand visible in extreme detail — the architectural curve, the micro-bristles separating lashes, the formula coating root-to-tip in one smooth upward pull. Full identity lock, full kinetic stillness, full facial dynamics showing application precision. Mumbai still moving in dissolved background.]
 
+**Body: strictly keep her legs fuller, thighs fuller, arms fuller, fuller chest, perfect flat belly.**
+
 
 ### Video Prompt 3 — THE APPLICATION
 
@@ -3118,6 +3211,8 @@ NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic ski
 
 ### Prompt 4 — THE BLINK
 
+
+**Body: strictly keep her legs fuller, thighs fuller, arms fuller, fuller chest, perfect flat belly.**
 
 [Frame structure follows exact template — Concept 6 Frame 4: THE KEY MOMENT — she pulls back from the mirror, both eyes now fully mascara'd (dramatic, lengthened, volumized, separated — TRANSFORMED lashes catching golden light as individual defined fans), and she BLINKS. One deliberate slow blink. Not coy. Not flirtatious. CERTAIN. The blink of a woman confirming her own power. Camera captures the blink in near-slow-motion quality (real-time but FELT as slow by the composition). In the background — a pedestrian pauses mid-stride (the first "traffic stop"). Then she turns from the car mirror toward camera direction. Expression: the micro-smirk that follows self-confirmation. The lashes are now doing their architectural work — creating shadow-play on her cheekbone (lash shadow visible in golden side-light), catching light at their tips like individual fiber-optic strands, framing her amber-flecked dark eyes as the STATEMENT they are. Music HITS at the blink — bass drop + tabla accent. The product's architecture (hexagonal tube) visible in her hand one final time before she drops it into her bag. The statement is made.]
 
@@ -3130,6 +3225,8 @@ NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic ski
 
 ### Prompt 5 — THE WALK-AWAY
 
+
+**Body: strictly keep her legs fuller, thighs fuller, arms fuller, fuller chest, perfect flat belly.**
 
 [Frame structure follows exact template — Concept 6 Frame 5: She's walking away from the car INTO the golden hour light — camera now BEHIND her or at 3/4 angle, she walks into a full golden-hour beam that catches her from the front (backlit from camera's POV — silhouette with golden edge fire on all contours). She doesn't look back. The street has subtly PAUSED — 2-3 pedestrians turned to look (not staring, just... caught), an auto-rickshaw driver momentarily distracted. She's walking into the light like she's walking into her own legend. Hair bouncing in full golden motion, silk dress catching every beam, kitten heels on pavement (click-click-click fading), the mascara tube now in her bag (product integrated into life, not held out). Music resolves to warm ambient. The city resumes. But for 5 seconds, she was the only thing anyone could see. And that — one coat of mascara later — is the whole ad. PRODUCT SHOT EMBEDDED: as she walks away, the mascara tube is briefly visible in her crossbody bag's open top (hexagonal black-gold architecture catching a final golden beam — the last product acknowledgment, ORGANIC, not forced). Frame ends with her figure receding into Mumbai golden light — beautiful, confident, in motion, unstoppable.]
 
@@ -3158,13 +3255,13 @@ NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic ski
 ### Prompt 1 — THE DISTANCE
 
 
-#### SCENE ARCHITECTURE
+SCENE ARCHITECTURE:
 - LOCATION: Luxury hotel corridor — 30m of receding perspective, art-deco carpet runner (emerald geometric with gold borders), cream walls with brass wall-sconces every 3m creating rhythmic warm light pools alternating with shadow, crown molding, tall ceiling (4m height — grand proportions), at far end: double brass doors with warm light bleeding from beneath (the destination — a gala, a dinner, a room full of people who are about to know she's coming)
 - TIME OF DAY: Evening — no windows in corridor (interior space), entirely artificial elegant lighting, timeless hotel luxury
 - ATMOSPHERE: Climate-controlled perfection, the smell of fresh flowers from lobby arrangements mixing with expensive carpet, the SILENCE of a well-built corridor (sound-dampening), the anticipation of approach
 - SOUND WORLD: Sub-bass drone (building, felt not heard — 30Hz), her heels on carpet (muffled — luxury dampening the clicks to soft thuds), ambient corridor reverb (the acoustic of long enclosed spaces), brass door vibration (the event on the other side — bass frequencies leaking through)
 
-#### CAMERA
+CAMERA:
 - LENS: 85mm f/1.4 — compressed corridor perspective, making the long space feel infinite, isolating her in depth
 - DISTANCE: 20m from subject (she is FAR — a figure emerging from depth, approaching, growing)
 - HEIGHT: Chest height 1.3m (slightly below eye level — as she approaches she GROWS upward in frame)
@@ -3172,7 +3269,7 @@ NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic ski
 - MOVEMENT: Static lock (she approaches — the camera WAITS for her, like everyone she's approaching waits for her)
 - APERTURE: f/1.8 — she's sharp even at distance (85mm compression helps), corridor receding to warm amber-green bokeh (sconces + carpet creating emerald-gold depth dissolution)
 
-#### LIGHTING
+LIGHTING:
 - KEY: Wall sconces creating rhythmic pools of warm light (3000K, every 3m) — she walks THROUGH them sequentially (lit-shadow-lit-shadow pattern as she approaches)
 - FILL: Ambient corridor warmth from carpet and wall bounce at 3:1 ratio
 - RIM: Sconce behind her at current position creating backlight halo (changes as she passes each sconce)
@@ -3180,8 +3277,10 @@ NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic ski
 - ATMOSPHERE IN LIGHT: Sconce pools creating cinema-like pools of warmth she walks through — each pool illuminating her briefly then releasing to shadow then next pool (rhythmic light-exposure matching her stride)
 - SHADOW BEHAVIOR: Alternating 60% (between sconces) and 20% (within pools) — creating staccato light-dark pattern on her as she approaches, dramatic and rhythmic
 
-#### SUBJECT — AIRA
+SUBJECT — AIRA:
 **Identity Lock:** [Full lock maintained]
+
+**Body: strictly keep her legs fuller, thighs fuller, arms fuller, fuller chest, perfect flat belly.**
 
 **Body Position:**
 - Weight distribution: Mid-stride (continuous walking — she doesn't stop in this concept until Frame 5)
@@ -3212,21 +3311,22 @@ NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic ski
 **Wardrobe State:**
 - Floor-length deep emerald satin gown (matching the flacon, matching the carpet — deliberate color story), high slit on left (leg visible with each stride), thin gold chain at waist as belt, gold strappy stilettos, small emerald silk clutch in right hand. Statement gold geometric earrings (art-deco — echoing flacon design). She IS the product's world brought to life.
 
-#### SPATIAL LOGIC
+SPATIAL LOGIC:
 - FOREGROUND: Corridor wall edge entering frame at far-left (establishing the architectural lines converging to her), 5% of frame
 - MIDGROUND: Empty carpet approaching (the distance she'll close), 25% of frame
 - BACKGROUND: AIRA at 20m — figure against the lit brass doors at corridor end, walking toward us, filling approximately 30% of vertical frame height (small but PRESENT, APPROACHING, growing with each step), corridor perspective making her the focal point of all converging lines, 70% of frame (she IS the background AND the subject because the subject is approaching from the background — that's the concept's spatial genius)
 
-#### COLOR GRADE
+COLOR GRADE:
 - HIGHLIGHTS: Warm gold from sconces, emerald fabric-flash in light-pools, brass door-glow at far end
 - MIDTONES: Deep warm amber-gold corridor, emerald-green as accent (carpet, her gown — creating color story matching product)
 - SHADOWS: Rich deep green-black between sconces (the emerald carpet absorbing and re-radiating green into shadows), lifted to 4% only (darker than other concepts — evening, interior, DRAMATIC)
 - REFERENCE: Wong Kar-Wai corridor shots (In the Mood for Love) + Tom Ford (symmetry, luxury, approach)
 - OVERALL FEEL: Inevitability — she is approaching, nothing can stop it, the corridor itself is built for her approach, every architectural line says "she comes"
 
-#### NEGATIVE BLOCK
+NEGATIVE:
 NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic skin, uncanny valley. NO perfume applied yet (that's Frame 2-3). NO stopping (continuous approach throughout concept). NO other people in corridor (she's alone — the isolation is the power). NO hurrying (deliberate, owned pace). NO casual posture (evening-event body language throughout). NO product visible yet (inside clutch).
 
+---
 
 ### Video Prompt 1 — THE DISTANCE
 
@@ -3254,6 +3354,8 @@ NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic ski
 ### Prompt 2 — THE SPRAY
 
 
+**Body: strictly keep her legs fuller, thighs fuller, arms fuller, fuller chest, perfect flat belly.**
+
 [Concept 7 Frame 2: She's now 8m away, flacon in LEFT hand (emerald glass visible, catching sconce-light as facets create emerald-gold refractions), RIGHT arm extending with atomizer at 45 degrees from body (spraying trajectory), she SPRAYS without slowing her stride — one long press of the atomizer creating a visible mist arc in the sconce-light (golden-amber liquid becoming mist, visible for 0.5s in the warm light shaft). The mist TRAILS behind her as she walks through it and past it. The corridor behind her now contains her scent (visible as brief golden shimmer). She's at 6m from camera now. The spray was a single confident gesture — not aimed at neck or wrist but AT THE AIR IN FRONT OF HER which she then walks through (French method — the mist becomes part of the air she occupies). Camera: same static at 85mm, she's growing in frame (now 45% of vertical height). The flacon catches sconce-light as art-deco facets create prismatic emerald refractions on cream walls. Music building — bass now joined by cello.]
 
 
@@ -3265,6 +3367,8 @@ NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic ski
 
 ### Prompt 3 — THE WAKE
 
+
+**Body: strictly keep her legs fuller, thighs fuller, arms fuller, fuller chest, perfect flat belly.**
 
 [Concept 7 Frame 3: She's now 4m from camera — FILLING FRAME (70% vertical height), her face NOW VISIBLE in detail. The perfume mist trail is visible BEHIND her as golden atmospheric shimmer in the previous sconce-pool (she's walked past it — it REMAINS where she was, marking her passage like a wake). She's still walking. Face now visible: full evening editorial makeup, dark smoky eye, berry lip, highlighted cheekbones catching rhythmic sconce-light. Her expression: the micro-smirk of certainty (she knows the people behind those doors are about to smell her before seeing her). The flacon now being returned to clutch (single handed — she doesn't break stride for ANYTHING). The geometric gold stopper catching final light before it disappears into clutch. The single line of voice-over (only spoken words in concept): "I arrive in rooms three seconds before my body does." Whispered. Delivered mid-stride. Hindi cadence on 'arrive.' The certainty of someone who has tested this. Music: bass + cello + now corridor reverb enhancing every sound into cathedral-acoustic.]
 
@@ -3280,6 +3384,8 @@ NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic ski
 
 [Concept 7 Frame 4: She's 1.5m from camera now — extreme close-up territory of her upper body and face, the brass doors NOW VISIBLE just behind her shoulders (she's THERE, she's at the destination, and we can see the full detail of her face). The perfume wake visible ALL ALONG the corridor behind her (multiple sconce-pools with faint golden shimmer where mist settled — her presence marked in space). At this distance: her face in full detail. Full identity lock, full facial dynamics — eyes confident and forward-locked, berry lip catching brass-door light as deep purple-wine specular, smoky eye dramatic with inner corner gold catching sconce-light, every highlight and contour visible. She's not looking at camera — she's looking at the doors (past camera, through it — her gaze has destination). The gold earrings catching light in final approach. Final stride before she reaches the handles. Body: in the last two steps before stopping — stride shortening, body decelerating with grace (the landing), right hand releasing clutch's hold to reach for brass door handle. Music at peak — full bass + cello + sub-drone creating pressure that demands release (the doors about to open).]
 
+**Body: strictly keep her legs fuller, thighs fuller, arms fuller, fuller chest, perfect flat belly.**
+
 
 ### Video Prompt 4 — THE ARRIVAL
 
@@ -3289,6 +3395,8 @@ NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic ski
 
 ### Prompt 5 — THE DOORS OPEN
 
+
+**Body: strictly keep her legs fuller, thighs fuller, arms fuller, fuller chest, perfect flat belly.**
 
 [Concept 7 Frame 5: Camera has now SWUNG to her side (90-degree cut) — showing her IN PROFILE as the brass doors begin to open from the INSIDE (someone inside the event opens them — they sensed her, smelled her, KNEW she was there before the doors moved). Warm golden event-light floods through the widening gap (interior gala warm light — 2700K blast compared to corridor's 3000K pools). She is silhouetted briefly against this flood of warm light, then steps INTO it. Her fragrance trail fills the corridor behind her (visible golden atmosphere). The people inside turning (implied by the LIGHT direction — upward from below suggesting faces turning up from tables). She crosses the threshold. The product story complete: she sprayed while walking, the fragrance arrived before her, the doors opened because her presence was already inside. The flacon: one final product-embedded shot — her clutch slightly open on her hip as she steps through, emerald glass with gold stopper visible in the clutch opening, catching the event's warm light one final time (no one sees it, no one knows what made her magnetic, that's the power — the secret is between her and the viewer). Music: resolves to warm silence + event ambient (glasses clinking, murmured conversation, the SOUND of the world she just entered). END.]
 
@@ -3317,7 +3425,7 @@ NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic ski
 ### Prompt 1 — THE RIDE
 
 
-[Full structured frame: Aira cycling toward camera on vintage cream bicycle, autumn leaves swirling in her wake, dappled golden morning light through orange canopy above. She's wearing: camel wool coat (open, flowing behind like cape), cream turtleneck, high-waisted brown corduroy trousers, white sneakers on pedals, hair down in natural waves catching wind. Camera: 50mm at 2m, low angle (heroic cyclist shot), moving with her on parallel track. Lighting: Dappled golden morning through autumn canopy creating moving pattern of warm light and leaf-shadow on her. Expression: pure joy — wind in hair, freedom, a woman in motion who owns her morning. The blush stick visible clipped to her coat collar (pen-clip design — product integration organic, accessible). Kinetic stillness: full cycling biomechanics (legs pedaling, arms steering, body in seated-balance), coat billowing, leaves swirling around wheels, hair streaming, dappled light moving across her as canopy shifts overhead. No voice-over — pure movement and music (guitar matching pedal rhythm). Color grade: Autumn warmth — amber, copper, gold, orange, her warm skin complementing the seasonal palette perfectly.]
+[Full structured frame: Aira cycling toward camera on vintage cream bicycle, autumn leaves swirling in her wake, dappled golden morning light through orange canopy above. **Body: strictly keep her legs fuller, thighs fuller, arms fuller, fuller chest, perfect flat belly.** She's wearing: camel wool coat (open, flowing behind like cape), cream turtleneck, high-waisted brown corduroy trousers, white sneakers on pedals, hair down in natural waves catching wind. Camera: 50mm at 2m, low angle (heroic cyclist shot), moving with her on parallel track. Lighting: Dappled golden morning through autumn canopy creating moving pattern of warm light and leaf-shadow on her. Expression: pure joy — wind in hair, freedom, a woman in motion who owns her morning. The blush stick visible clipped to her coat collar (pen-clip design — product integration organic, accessible). Kinetic stillness: full cycling biomechanics (legs pedaling, arms steering, body in seated-balance), coat billowing, leaves swirling around wheels, hair streaming, dappled light moving across her as canopy shifts overhead. No voice-over — pure movement and music (guitar matching pedal rhythm). Color grade: Autumn warmth — amber, copper, gold, orange, her warm skin complementing the seasonal palette perfectly.]
 
 
 ### Video Prompt 1 — THE RIDE
@@ -3328,6 +3436,8 @@ NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic ski
 
 ### Prompt 2 — THE RED LIGHT
 
+
+**Body: strictly keep her legs fuller, thighs fuller, arms fuller, fuller chest, perfect flat belly.**
 
 [Full structured frame: She approaches intersection, sees red light, begins deceleration (bicycle slowing, her body shifting to stop-position). She plants one foot on ground (left sneaker on pavement, right foot on pedal — classic cyclist red-light stance), bicycle leaned slightly left. As she stops, her right hand IMMEDIATELY goes to the blush stick clipped at her collar — unclips it with practiced single-handed ease (the muscle memory of a daily ritual). Camera: 35mm at 2.5m, eye level, showing her at the red light with intersection context (other cyclists visible in bokeh, autumn street behind). The red traffic light visible in frame (the constraint that creates the opportunity). She's already twisting up the product (one-handed twist — the mechanical design allowing one-handed operation while other hand steadies handlebar). Expression: not annoyed at the red (this IS her moment — she sees red lights as application windows, not interruptions). The formula rising from tube: warm peach-rose cream, visible. Music: tempo slowing with her deceleration, settling to held note at full stop.]
 
@@ -3343,6 +3453,8 @@ NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic ski
 
 [Full structured frame: She applies the cream blush stick DIRECTLY to her right cheek — bold, fast, three swipe-strokes from apple upward toward temple (the stick formula designed for direct face application — no brushes, no mirrors, no hesitation). Camera: 85mm at 80cm, close on face (application detail), shallow DOF blurring autumn background into golden-orange abstract. The product going on: visible warm peach-rose cream depositing on her skin in confident stripes, she then uses fingertips of same hand for a quick 2-second blend (tapping outward — practiced, efficient, done in red-light timing). Her other hand on handlebar (she never dismounted, never left the moment). Expression: playful concentration shifting to satisfied assessment — she FEELS the color land and knows it's right without checking. The single voice-over line: "Red lights are just free blush time." Delivered with playful certainty, casual, like sharing a life hack with a friend. Her bare cheeks (pre-application) to blush-applied creates the product proof — warmth added in 4 seconds flat. The mechanical twist-down of the product (she's done, re-capping while still straddling bicycle). Left cheek next — she swipes twice (faster — she's running out of red light), blends with 3 taps. Full identity lock throughout, full facial dynamics, autumn light catching the new blush as warm-on-warm harmony.]
 
+**Body: strictly keep her legs fuller, thighs fuller, arms fuller, fuller chest, perfect flat belly.**
+
 
 ### Video Prompt 3 — THE APPLICATION
 
@@ -3352,6 +3464,8 @@ NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic ski
 
 ### Prompt 4 — THE GREEN
 
+
+**Body: strictly keep her legs fuller, thighs fuller, arms fuller, fuller chest, perfect flat belly.**
 
 [Full structured frame: The light changes to GREEN — visible in frame edge. She doesn't hesitate. Product re-clipped to collar in one motion (the clip design proving itself — she never fumbles, never needs a bag), both hands on handlebar, foot lifts from pavement, pedal engages, and she's MOVING again. Camera: 50mm at 2m, tracking with her as she launches from the stop. The transition from standing to cycling is fluid (no awkward restart — she's athletic, practiced, the bicycle an extension of her body). The BLUSH now visible on both cheeks — warm peach-rose catching autumn morning light, making her face MATCH the autumn palette around her (golden leaves, warm canopy, warm skin, warm blush — she IS autumn). Her expression as she cycles away: satisfaction, the grin of someone who used 8 seconds of imposed stillness to add beauty and lost zero momentum in her life. Music: tempo rising back to cycling rhythm (guitar + tambourine returning), matching her pedal cadence. Leaves swirl in her wake. Other cyclists at the intersection looking — was she just applying makeup on a bicycle? The effortless confidence of it.]
 
@@ -3364,6 +3478,8 @@ NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic ski
 
 ### Prompt 5 — THE WARM VANISH
 
+
+**Body: strictly keep her legs fuller, thighs fuller, arms fuller, fuller chest, perfect flat belly.**
 
 [Full structured frame: She cycles AWAY from camera now — receding into the autumn tunnel of golden trees, coat billowing behind like a warm-colored cape, leaves swirling in her wheel-wake, the product clipped to her collar CATCHING a final beam of dappled morning light (emerald blush stick as small gold point at her collar — the last product acknowledgment). She's cycling into warmth itself — the autumn canopy creating a golden tunnel she disappears into. Her warm cheeks (glowing from blush application) visible for 1s in three-quarter profile as she half-turns (a glance over shoulder — not at camera, at the morning, at the red light she conquered, at life) before facing forward and cycling into the golden distance. Final frame: her figure small against the golden tunnel, coat streaming, leaves dancing, a woman who never stopped living to look beautiful — she did both simultaneously. Music resolving to warm open chord. The blush stick story complete: clipped to collar, applied at red light, back on collar, back in motion. Color that keeps up.]
 
@@ -3394,6 +3510,8 @@ NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic ski
 
 [Full structured frame: Aira at the TOP of the grand staircase — full figure in floor-length midnight blue velvet gown with dramatic cape-back attachment (the cape creating a 2m trailing fabric moment on the staircase behind her). She stands at the apex before descending, the chandelier DIRECTLY overhead creating a crown of refracted light around her head (rainbow micro-points from crystal prisms landing on her hair, shoulders, gown). Camera: 35mm at 4m, low angle from staircase MID-POINT looking UP at her (she is above everything — sovereign). The compact visible in her RIGHT hand at her side (crystal lid catching chandelier — throwing prismatic flecks into the air around it). She hasn't opened it yet — she's surveying the room below (the guests, the space she's about to descend into). Expression: quiet command — no smile, no tension, just the settled certainty of someone who knows every eye is about to be on her and has CHOSEN to let them look. Full identity lock. Her makeup already incredible (pre-setting) — deep smoky eye, nude lip, sculpted face. But she knows: without setting powder, the chandelier heat and the hours ahead will compromise everything. So she'll set it IN the descent. Because why waste time standing still? Lighting: chandelier as key (warm white with rainbow refractions, multi-point), staircase sconces as fill, architectural gold surfaces bouncing warm ambient. Color grade: warm gold + midnight blue + crystal white (luxury palette).]
 
+**Body: strictly keep her legs fuller, thighs fuller, arms fuller, fuller chest, perfect flat belly.**
+
 
 ### Video Prompt 1 — THE TOP
 
@@ -3403,6 +3521,8 @@ NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic ski
 
 ### Prompt 2 — THE DESCENT BEGINS
 
+
+**Body: strictly keep her legs fuller, thighs fuller, arms fuller, fuller chest, perfect flat belly.**
 
 [Full structured frame: She has taken her first three steps DOWN — body in elegant staircase-descent posture (one hand trailing along marble banister, weight shifting stair-to-stair with practiced grace). The compact is being OPENED — her right hand (non-banister hand) clicking open the magnetic closure (satisfying snap-sound), crystal lid separating from rose-gold base, revealing the pressed translucent powder within. The compact IMMEDIATELY begins working with the chandelier: the crystal lid refracts overhead light into DOZENS of tiny rainbow prisms that scatter across her face, her gown, the marble banister beside her (the product's physical design creating beauty BEFORE the product itself is even used). Camera: 70mm at 2m, tracking with her descent (camera on parallel track descending at her speed — she stays center-frame while background moves upward). Her velvet gown's cape flowing behind and ABOVE her on the stairs (fabric lagging — creating a liquid-blue fabric river following her down). She picks up the compact's included brush (a small retractable kabuki brush stored in the base — magnetic attachment releasing with gentle pull). Expression: focused grace — she's descending, opening, preparing, all simultaneously, all without pause or fumble (the muscle memory of self-possession). Music: harp arpeggios descending (notes falling with her steps, matching rhythm). Full kinetic stillness: staircase descent biomechanics, velvet cape with fabric-cascade behavior (each stair she descends releases more fabric behind — it FLOWS like liquid following gravity), compact crystal creating scattered light-play, brush emerging from base with micro-bristle splay.]
 
@@ -3416,6 +3536,8 @@ NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic ski
 ### Prompt 3 — THE POWDER IN LIGHT
 
 
+**Body: strictly keep her legs fuller, thighs fuller, arms fuller, fuller chest, perfect flat belly.**
+
 [THE KEY FRAME — Full structured format: She is MID-STAIRCASE (step 10 of 20), descending through the THICKEST of the chandelier's light cone (she's now directly beneath its maximum output). The brush is LOADED with translucent powder and she sweeps it across her face — forehead, nose, cheeks, chin — in broad confident strokes WITHOUT stopping her descent. Each brush-stroke RELEASES powder particles into the air, and HERE IS THE MAGIC: the chandelier light catches each individual settling particle as a GOLDEN MOTE (the powder is ultra-fine light-catching formula — each particle a microscopic reflector). So as she powders while descending, she creates a VISIBLE CLOUD of golden luminous particles around her head and shoulders — catching chandelier light — making it look like she's descending through stardust, through gold dust, through light itself. Camera: 85mm at 1.2m (close now — face and particle-cloud detail visible), slow-motion quality (real time but COMPOSED to feel slow through precise movement), the particles visible as 30-50 golden points suspended in air around her face (each one a micro-sun lit by the chandelier above). Her face: mid-application, eyes confident and downward-directed (watching where she steps — practical grace), powder giving her skin the FINISH (transforming dewy-to-matte-luminous in real time — the product's function visible as surface-change), brush in right hand mid-sweep, compact base in left (held between fingers like a precious thing — crystal lid open throwing refracted rainbows ONTO her face alongside the natural chandelier light). Voice-over (single whispered line): "Dust that catches light instead of settling in shadow. Like me." Delivered with absolute regal certainty, descending through her own golden cloud, speaking like someone describing their nature not their product. Music: PEAK — harp + strings + brass entering (the full score arriving as she arrives through her golden cloud). The guests below visible in deep background bokeh (turned faces, watching — she is the most beautiful thing descending, wrapped in her own luminous atmosphere). Product story: the powder doesn't just SET — it CATCHES LIGHT. It's not about matte; it's about controlled luminosity. Each particle visible as proof.]
 
 
@@ -3428,6 +3550,8 @@ NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic ski
 ### Prompt 4 — THE COMPACT CLOSES
 
 
+**Body: strictly keep her legs fuller, thighs fuller, arms fuller, fuller chest, perfect flat belly.**
+
 [Full structured frame: She is now at step 16 (nearing the bottom), compact closing with satisfying MAGNETIC SNAP (sound design emphasizes this — the satisfaction of quality engineering). The powder cloud is now BEHIND and ABOVE her (she descended through it, it remains in the air above, marking her path like fairy-dust contrail on the staircase — visible in chandelier light as a golden suspended path showing where she was). She is now SET — face matte-luminous, the setting powder doing its job (no shine, no movement, locked for hours). The compact returns to her left hand (closed, crystal lid outward — it looks like a JEWEL she's carrying, not a cosmetic, the design fulfilling its jewelry-object promise). Her right hand joins left on banister for final steps (both hands now free — product DONE, integrated back into her evening). Expression: arrived — the sovereign confidence of someone who powdered while descending a staircase surrounded by golden light and didn't miss a step. The velvet cape now FULLY trailing behind (maximum dramatic fabric-flow — 8+ stairs of midnight blue velvet cascading). Camera pulling back slightly (widening to capture her in architectural context — she BELONGS in this space, the building was designed for people like her to descend through). Guests at base now recognizable as turned figures in formal attire (not individually featured — they're the AUDIENCE, she's the performer). Music: sustaining the peak, riding through her completion to the landing.]
 
 
@@ -3439,6 +3563,8 @@ NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic ski
 
 ### Prompt 5 — THE ARRIVAL
 
+
+**Body: strictly keep her legs fuller, thighs fuller, arms fuller, fuller chest, perfect flat belly.**
 
 [Full structured frame: She reaches the BOTTOM — last step onto the black-and-white marble floor. The transition from staircase to flat ground (a tiny biomechanical shift — the body adjusting from descent to flat-walking, visible as subtle knee-engagement change). She is now AMONG THEM — no longer above, no longer descending, but ARRIVED. And she is impeccable: skin set by the powder, luminous in every light she passes through, the compact (crystal-jewel design) visible as she tucks it into a concealed gown pocket or hands it to a waiting attendant (luxury — she has someone who takes her things, she simply ENTERS). The powder cloud above her on the staircase is still faintly visible — 30+ golden motes slowly settling in the chandelier light (her mark on the space — she left beauty in the air behind her). Camera: wide shot (35mm at 3.5m), capturing her at base with the full staircase visible behind (the STAIRCASE itself now marked by her passage — the golden settling particles at mid-point, the trailing cape, the scattered prismatic light from the compact that caught in the chandelier crystal above). She takes her first stride into the room (walking now — flat-ground confidence, the gait different from staircase descent: freer, more powerful, AMONG rather than above). Expression: micro-smile (the satisfaction of having transformed descent into performance, utility into beauty, powder into gold-dust). Music: resolving to warm sustained chord + gala ambient (glasses, murmur, the world she's entered). END — she walks INTO the event, compact story complete: hexagonal crystal compact used mid-descent through chandelier light, powder particles caught as golden luminous cloud, face SET and RADIANT, the product elevated from utility to spectacle.]
 
@@ -3467,7 +3593,7 @@ NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic ski
 ### Prompt 1 — THE ASCENT BEGINS
 
 
-[Full structured frame: The elevator has just started moving (she entered 2 seconds ago — alone). Camera INSIDE the elevator with her — tight space creating intimacy. She's standing in center of the glass box, city night visible through all three glass walls (buildings, lights, the urban night-world), the city beginning to move DOWNWARD as the elevator ascends (she's going UP — the world is falling away beneath her, she's rising). Camera: 35mm at 1.5m (the entire elevator visible — small space, her filling it with presence). She's checking her phone briefly (a message — the event is waiting, they're asking where she is), then pocketing it (decision: the phone is done, the face is not). Her hand goes to her small metallic clutch. Expression: the private face of an elevator — not performing for anyone, the face between faces (the one she wears when she's truly alone and about to not be). The glass shows her REFLECTION superimposed on the city lights — ghost-Aira overlaid on moving buildings (the visual poetry of glass elevators at night — you exist as both solid person AND transparent overlay). Lighting: soft warm strip-light above (minimal, barely lighting her — just enough), city lights through glass creating moving colored light-play on her face and body (blue, amber, white, red — building lights sweeping as she passes floors), the overall reading DARK with light accents (nighttime, urban, electric). Product: not visible yet (in clutch). Hair: down with light waves, catching city-light colors as they sweep. Wardrobe: black structured mini-dress (modern, architectural seaming, above-knee), black over-knee boots (street-to-event versatility), statement silver cuff bracelet, small metallic silver clutch. Music: elevator hum (low frequency mechanical drone) + electronic pulse matching ascending speed + first piano note (C4 — the first floor marker).]
+[Full structured frame: The elevator has just started moving (she entered 2 seconds ago — alone). Camera INSIDE the elevator with her — tight space creating intimacy. She's standing in center of the glass box, city night visible through all three glass walls (buildings, lights, the urban night-world), the city beginning to move DOWNWARD as the elevator ascends (she's going UP — the world is falling away beneath her, she's rising). Camera: 35mm at 1.5m (the entire elevator visible — small space, her filling it with presence). She's checking her phone briefly (a message — the event is waiting, they're asking where she is), then pocketing it (decision: the phone is done, the face is not). Her hand goes to her small metallic clutch. Expression: the private face of an elevator — not performing for anyone, the face between faces (the one she wears when she's truly alone and about to not be). The glass shows her REFLECTION superimposed on the city lights — ghost-Aira overlaid on moving buildings (the visual poetry of glass elevators at night — you exist as both solid person AND transparent overlay). **Body: strictly keep her legs fuller, thighs fuller, arms fuller, fuller chest, perfect flat belly.** Lighting: soft warm strip-light above (minimal, barely lighting her — just enough), city lights through glass creating moving colored light-play on her face and body (blue, amber, white, red — building lights sweeping as she passes floors), the overall reading DARK with light accents (nighttime, urban, electric). Product: not visible yet (in clutch). Hair: down with light waves, catching city-light colors as they sweep. Wardrobe: black structured mini-dress (modern, architectural seaming, above-knee), black over-knee boots (street-to-event versatility), statement silver cuff bracelet, small metallic silver clutch. Music: elevator hum (low frequency mechanical drone) + electronic pulse matching ascending speed + first piano note (C4 — the first floor marker).]
 
 
 ### Video Prompt 1 — THE ASCENT BEGINS
@@ -3481,6 +3607,8 @@ NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic ski
 
 [Full structured frame: She's turned to face the GLASS WALL (using it as mirror — her reflection visible against the city night). The elevator is now moving at full speed (city lights becoming vertical streaks through glass). She's extracted the lip gloss tube from clutch — the CLEAR GLASS TUBE visible in her hand, catching what little light exists in the elevator (chrome cap, transparent body revealing the molten-rose formula inside — liquid-gold-pink visible through clear packaging, the product as design object). She holds it up — examining it against the city lights (or examining herself in the glass reflection — the ambiguity is beautiful). Camera: 50mm at 0.8m, focused on her reflection IN the glass (so we see: her face reflected + city lights behind the reflection moving = layered depth). The city lights stream past in vertical blurs (ascension speed), creating a moving abstract light-painting behind her reflected face. She uncaps the gloss (chrome cap with precision click). The doe-foot applicator emerges (loaded with molten-rose formula — visible as a glistening rose-gold bead on the tip). Expression: intimate focus — this is a PRIVATE moment (elevator solitude is one of the few truly private spaces in modern life), she's looking at herself the way she looks at herself when no one is watching (softer, kinder, more intimate than any mirror-moment witnessed by others). Full identity lock. Facial dynamics: eyes soft, assessing, the relationship between a woman and her reflection when the world is literally falling away behind them.]
 
+**Body: strictly keep her legs fuller, thighs fuller, arms fuller, fuller chest, perfect flat belly.**
+
 
 ### Video Prompt 2 — THE GLASS MIRROR
 
@@ -3490,6 +3618,8 @@ NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic ski
 
 ### Prompt 3 — THE APPLICATION
 
+
+**Body: strictly keep her legs fuller, thighs fuller, arms fuller, fuller chest, perfect flat belly.**
 
 [THE KEY FRAME — Full structured format: She applies the lip gloss watching her REFLECTION in the glass elevator wall. Camera angle: now close (85mm at 60cm), her face visible BOTH directly (sharp, near) and as reflection in glass (softer, layered with city lights streaming behind). The doe-foot glides across her lower lip first (center to right corner, smooth), then upper lip (precision — following the cupid's bow she was born with), the formula going on as LIQUID LIGHT (molten-rose catching the streaming city-light from behind the glass — each city light that passes creates a brief highlight-flash on the wet gloss surface). Her lips transform from matte/satin (whatever she had before) to LIQUID SHINE in real-time. The product's clear packaging is visible in her hand — matching the elevator's glass aesthetic (transparency as design language — you can SEE what you're applying, nothing hidden, nothing opaque). Expression: the focus-face of application (slight mouth-pull for lip stretching, eyes locked on own lips in reflection), then the SHIFT: she finishes the last stroke, presses lips together (the universal gloss-set gesture — pressing to distribute evenly), and then SEES HERSELF with gloss complete. The reaction: micro-smile forming. Her lips now REFLECTING every city light that passes as individual moving points of light (the gloss surface acting as a mirror — catching blue, amber, white, gold from passing buildings). Voice-over (single intimate whispered line): "Between floors. That's where you become whoever's about to walk in." Said to her reflection in the glass — the intimacy of speaking to yourself. Music: piano ascending (now on the fifth note — floor 5, matching ascent), electronic pulse building, the sound of approach. The elevator slowing (she's near the destination floor — building deceleration visible as city-light-streaks slowing from blurred to defined).]
 
@@ -3505,6 +3635,8 @@ NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic ski
 
 [Full structured frame: The elevator has ARRIVED — motion stopped, city lights now STILL through glass (she's on the event floor — the city visible as panoramic night skyline, buildings defined not blurred, lights as distinct points not streaks). The DING of arrival (elevator chime). She caps the gloss (chrome click — satisfying, final), drops it into clutch (product GONE — integrated back into her life, not held for camera). Turns from glass wall toward the elevator DOORS (which are about to open). Camera: 35mm at 1.5m, now capturing her full figure facing the doors (back to glass-wall city — the panorama behind her as setting/context). The doors have the thinnest vertical line of warm light at the seam (the event-floor light bleeding through — what's waiting). Her expression: the SHIFT from private to public. In the glass reflection behind her (visible to camera because she's turned away from it): we see the back of her head and, simultaneously, her FACE reflected in the metallic elevator door (multiple reflections creating a Rorschach of preparation — she exists in every surface here). Her lips CATCHING every light source as individual moving points (the gloss performing its function — catching, reflecting, amplifying every photon). Full identity lock. She straightens her posture (the micro-adjustment between private-body and public-body — 3mm of shoulder-pull-back, 2mm of chin-lift — the tiny changes that turn a person in a box into a person making an ENTRANCE). Music: piano on the FINAL ascending note (highest — she's arrived at the top), electronic pulse at peak, about to resolve into event-music. The doors beginning to part (the first 2cm of gap — warm light widening between them, event-sound beginning to leak through: music, voices, the future).]
 
+**Body: strictly keep her legs fuller, thighs fuller, arms fuller, fuller chest, perfect flat belly.**
+
 
 ### Video Prompt 4 — THE DOORS ABOUT TO OPEN
 
@@ -3514,6 +3646,8 @@ NO: deformed hands, extra fingers, asymmetric eyes, melted features, plastic ski
 
 ### Prompt 5 — THE DOORS OPEN
 
+
+**Body: strictly keep her legs fuller, thighs fuller, arms fuller, fuller chest, perfect flat belly.**
 
 [Full structured frame: DOORS FULLY OPEN — warm event light FLOODS the elevator (3000K warm gala light replacing the cool city-light ambient of the ascent). She steps OUT (one stride, decisive, the transition from private to public in a single step). Camera is now OUTSIDE the elevator looking IN (we watch her walk TOWARD us out of the glass box). As she steps through: her lips catch the warm event-light for the first time (the gloss EXPLODES with warm reflection — molten-rose catching warm gala light is DIFFERENT from catching cool city light, warmer, richer, rose-gold at maximum beauty). The glass elevator behind her shows the city panorama (now her BACKDROP — the world she rose above to be here). The event is SUGGESTED but not shown: warm light, the edge of a dressed table, the blur of turned heads (she arrives, they notice — the gloss isn't why, but the gloss is the FINISHING DETAIL that makes the complete picture devastating). Product embedded final shot: the clear glass tube visible briefly in her clutch as she adjusts its closure (transparent against chrome — catching warm event-light as a final rose-gold glow inside the clear packaging, product design at its most beautiful in this light, then disappearing into clutch forever). Her expression stepping out: the PUBLIC FACE activated — confidence, certainty, the slight-smile of someone who knows she used the elevator ride to become better, and now she's here. She IS whoever walks in. And whoever walks in is wearing molten-rose shine between lips that catch every light in the room. Music: piano sustaining its highest note, resolving into warm major chord as event ambient takes over (gala music, conversation hum, glasses — the world she's entered). The elevator doors begin to close behind her (the private box of her preparation SEALING SHUT — that moment is over, recorded by no one except the viewer, existing between floors forever). END.]
 
