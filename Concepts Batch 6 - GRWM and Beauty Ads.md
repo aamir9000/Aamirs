@@ -2182,7 +2182,7 @@ AUDIO: Music drops to -12dB at door entry (she removes one AirPod implied). At 6
 
 DURATION: 8 seconds.
 
-FRAME RATE + MOTION BLUR: 24fps. Her entry motion natural. The look-back at 6.5s snaps to stillness for sign-off delivery clarity.
+FRAME RATE + MOTION BLUR: 24fps with 180-degree shutter. Her entry motion natural. The look-back at 6.5s snaps to stillness for sign-off delivery clarity.
 
 LIP-SYNC DIRECTIVE: At 6.5s — "Let's go. PR today." Lip shapes: L-EH-ts / g-OH / pause / P-ee-AHR / t-oo-D-AY. Delivered with wide mouth, visible teeth on "Let's" and "PR" — the energized athlete's face. Ends with signature smirk — left corner up.
 
@@ -2469,7 +2469,7 @@ AUDIO: Music: SILENT. Pure ambient: dawn garden soundscape at -8dB — birds beg
 
 DURATION: 6 seconds (2 x 3s frames).
 
-FRAME RATE + MOTION BLUR: 48fps conformed to 24fps (half-speed for ethereal quality). Mist spray captured in slow-motion showing individual droplet trajectories.
+FRAME RATE + MOTION BLUR: 48fps conformed to 24fps (half-speed for ethereal quality). Motion blur: 180-degree shutter. Mist spray captured in slow-motion showing individual droplet trajectories.
 
 LIP-SYNC DIRECTIVE: No dialogue. At 5.5s — lips parting in the gasp-of-refreshment as mist hits face (the "ahh" of cool mist on warm skin, silent).
 
@@ -2493,7 +2493,7 @@ AUDIO: Music: ambient tones entering at -18dB (a single sustained warm chord —
 
 DURATION: 6 seconds (2 x 3s frames).
 
-FRAME RATE + MOTION BLUR: 48fps conformed to 24fps — maintaining the ethereal half-speed. The pull-back smooth and dreamlike.
+FRAME RATE + MOTION BLUR: 48fps conformed to 24fps with 180-degree shutter — maintaining the ethereal half-speed. The pull-back smooth and dreamlike.
 
 LIP-SYNC DIRECTIVE: No dialogue. Eyes-opening captured in slow motion at 9.5s. Smile forming at 11.0s — slow and genuine.
 
@@ -2517,7 +2517,7 @@ AUDIO: Ambient chord sustained at -16dB (warm, fading). Garden birds full chorus
 
 DURATION: 3 seconds.
 
-FRAME RATE + MOTION BLUR: 24fps for the final frame — real-time stillness. The one normal-speed moment anchoring the dreamlike preceding frames.
+FRAME RATE + MOTION BLUR: 24fps with 180-degree shutter for the final frame — real-time stillness. The one normal-speed moment anchoring the dreamlike preceding frames.
 
 LIP-SYNC DIRECTIVE: No dialogue. Closed gentle smile held. Eyes meeting camera with serene reverence.
 
@@ -2874,6 +2874,8 @@ Frames 5-6: NIGHT bottle caught with left hand, pump depressed in blue zone, sil
 
 Each frame maintains all 16 sections with AIRA identity lock, following the same formatting as Frames 1-2 above: full wardrobe/hair/makeup state tracking, hand positions, facial micro-dynamics with asymmetries, body posture, 6 kinetic layers, spatial logic (FG/MG/BG), lighting (key/fill/rim/practical/separation), framing, lens, composition reference, atmosphere, color grade, and full negative block.
 
+NEGATIVE: mirrored, flipped, inverted, extra limbs, fused fingers, melted features, asymmetric eyes (unintentional), garbled text, floating shadows, duplicated subjects, low-res patches, plastic skin, oversharpened, AI-generated artifacts, watermarks, signature, deformed hands, malformed teeth, joint cuts at ankle/knee/wrist/elbow/neck, amputated fingertips, cross-eyed, lazy eye, off-axis pupils, melted clothing, shoes-not-touching-ground, mismatched footwear pair, mannequin-stiff posture, dead eyes, statue-frozen energy.
+
 ---
 
 ## VIDEO PROMPTS
@@ -3004,6 +3006,9 @@ NEGATIVE: mirrored, flipped, inverted, extra limbs, fused fingers, melted featur
 ### Frame 3-4 — Application Sequence: Arch Built Stroke by Stroke
 
 Frames 3-4 follow identical structure to Frames 1-2 above with all 16 sections. Frame 3 captures the micro-brush mid-stroke at the brow arch — individual product fibers being deposited, the transformation from sparse to sculpted beginning. Frame 4 shows the completed right brow (sculpted arch) beside the still-bare left brow (dramatic before/after on one face). Hand positions, kinetic layers, spatial logic, lighting, lens, composition all follow the same template.
+
+NEGATIVE: mirrored, flipped, inverted, extra limbs, fused fingers, melted features, asymmetric eyes (unintentional), garbled text, floating shadows, duplicated subjects, low-res patches, plastic skin, oversharpened, AI-generated artifacts, watermarks, signature, deformed hands, malformed teeth, joint cuts at ankle/knee/wrist/elbow/neck, amputated fingertips, cross-eyed, lazy eye, off-axis pupils, melted clothing, shoes-not-touching-ground, mismatched footwear pair, mannequin-stiff posture, dead eyes, statue-frozen energy.
+
 
 ### Frame 5 — Pull-Back: Both Brows Done, Knowing Smile, "Samajh Gayi?"
 
@@ -3172,17 +3177,28 @@ NEGATIVE: mirrored, flipped, inverted, extra limbs, fused fingers, melted featur
 
 Frame 3 captures the pause mid-application — she's waiting for the first coat to set. Face visible now: ML-17 Berry Sultry (plum lip matching lacquer, defined eye). HC-8 Deep-Side-Part Cascade over left shoulder. All 16 sections including full AIRA identity lock, kinetic layers, lighting, framing, lens per template. The whispered "...patience" delivered as her eyes meet camera in KNOWING register.
 
+NEGATIVE: mirrored, flipped, inverted, extra limbs, fused fingers, melted features, asymmetric eyes (unintentional), garbled text, floating shadows, duplicated subjects, low-res patches, plastic skin, oversharpened, AI-generated artifacts, watermarks, signature, deformed hands, malformed teeth, joint cuts at ankle/knee/wrist/elbow/neck, amputated fingertips, cross-eyed, lazy eye, off-axis pupils, melted clothing, shoes-not-touching-ground, mismatched footwear pair, mannequin-stiff posture, dead eyes, statue-frozen energy.
+
+
 ### Frame 4 — Vertical Tilt: From Completed Nails Up to Face
 
 Frame 4 is the tilt-reveal — camera starts at hands (all nails painted, glossy, midnight-plum perfection) and tilts vertically up the body: plum velvet blazer-dress, across chest, up neck, to face. All 16 sections per template. The visual connection: lacquer color matches lip color matches blazer color — the monochrome plum-midnight palette unified.
+
+NEGATIVE: mirrored, flipped, inverted, extra limbs, fused fingers, melted features, asymmetric eyes (unintentional), garbled text, floating shadows, duplicated subjects, low-res patches, plastic skin, oversharpened, AI-generated artifacts, watermarks, signature, deformed hands, malformed teeth, joint cuts at ankle/knee/wrist/elbow/neck, amputated fingertips, cross-eyed, lazy eye, off-axis pupils, melted clothing, shoes-not-touching-ground, mismatched footwear pair, mannequin-stiff posture, dead eyes, statue-frozen energy.
+
 
 ### Frame 5 — Face Portrait: Berry Sultry Complete, Nails at Face
 
 Frame 5 captures her face with one hand raised beside it — freshly painted nails displayed beside the Berry Sultry makeup. The plum of nails, lips, and blazer creating a tonal-trio. KNOWING register, amber pendant lit. All 16 sections per template.
 
+NEGATIVE: mirrored, flipped, inverted, extra limbs, fused fingers, melted features, asymmetric eyes (unintentional), garbled text, floating shadows, duplicated subjects, low-res patches, plastic skin, oversharpened, AI-generated artifacts, watermarks, signature, deformed hands, malformed teeth, joint cuts at ankle/knee/wrist/elbow/neck, amputated fingertips, cross-eyed, lazy eye, off-axis pupils, melted clothing, shoes-not-touching-ground, mismatched footwear pair, mannequin-stiff posture, dead eyes, statue-frozen energy.
+
+
 ### Frame 6 — Finale: Parallax Pull-Back, Full Setting, Bottle Returned to Bar
 
 Frame 6 is the pull-back finale — full jazz bar revealed, her in velvet booth, lacquer bottle returned to bar beside untouched crystal glass. She picks up the glass for the first time (the lacquer is dry — patience rewarded). All 16 sections including full negative block. The KNOWING look to camera as she sips — the editorial complete.
+
+NEGATIVE: mirrored, flipped, inverted, extra limbs, fused fingers, melted features, asymmetric eyes (unintentional), garbled text, floating shadows, duplicated subjects, low-res patches, plastic skin, oversharpened, AI-generated artifacts, watermarks, signature, deformed hands, malformed teeth, joint cuts at ankle/knee/wrist/elbow/neck, amputated fingertips, cross-eyed, lazy eye, off-axis pupils, melted clothing, shoes-not-touching-ground, mismatched footwear pair, mannequin-stiff posture, dead eyes, statue-frozen energy.
 
 ---
 
