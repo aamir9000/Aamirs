@@ -1139,7 +1139,7 @@ WARDROBE STATE (Frame 6): Complete architectural look — structured mock-neck t
 
 HAIR STATE (Frame 6): HC-15 Top Knot perfect. No change. Severe, controlled, powerful.
 
-MAKEUP STATE (Frame 6 — cumulative): Complete ML-13. Graphic wings sharp. Matte skin flawless. Gloss catching light. Brows defined. Everything intact. Zero touch-up needed. Bulletproof.
+MAKEUP STATE (Frame 6 — cumulative): Complete ML-13. PERSISTING FROM PREVIOUS: flawless matte base, defined brows, sharp geometric liner wings on both eyes (matching 45-degree architectural angles), separated mascara lashes, clear gloss on lips (wet shine). No blush, no contour (deliberate minimalism). Graphic wings sharp. Matte skin flawless. Gloss catching light. Brows defined. Bulletproof.
 
 HAND POSITIONS: Right hand holding phone at waist level (screen dimly showing gallery address/map — she's about to leave, checking location), casual competent grip with thumb on screen. Left hand hanging at side in confident rest, fingers slightly curled, silver earring pendant just barely touching left jawline from slight head-angle.
 
@@ -1829,7 +1829,7 @@ WARDROBE STATE (Frame 5): NOW IN JUMPSUIT — deep midnight navy tailored jumpsu
 
 HAIR STATE (Frame 5): HC-14 Side-Sweep Cascade complete — all hair to right shoulder, left ear exposed with earring, glossy.
 
-MAKEUP STATE (Frame 5 — cumulative): Complete ML-12 Smoky Eye Editorial with nude glossy lip freshly applied. Full editorial look.
+MAKEUP STATE (Frame 5 — cumulative): PERSISTING FROM PREVIOUS: full base (foundation, concealer, powder set), defined brows, charcoal-brown smoky eye complete on both eyes with editorial intensity, black waterline tight-line, volumized mascara, sculpted contour at cheekbones and jawline. NEW THIS FRAME: Nude glossy lip freshly applied (shimmer gloss over natural lip tone). Complete ML-12 Smoky Eye Editorial achieved. Full editorial look.
 
 HAND POSITIONS: Right hand holding lip gloss wand completing lower-lip swipe, wrist showing gold cuff. Left hand at jumpsuit zipper pull in self-check.
 
@@ -1878,7 +1878,7 @@ WARDROBE STATE (Frame 6): Complete look — midnight navy jumpsuit, gold zipper,
 
 HAIR STATE (Frame 6): HC-14 Side-Sweep Cascade perfect. Hair right shoulder, left ear exposed with earring.
 
-MAKEUP STATE (Frame 6 — cumulative): Complete ML-12. Smoky eyes, contour, nude glossy lip. Farewell-ready.
+MAKEUP STATE (Frame 6 — cumulative): PERSISTING FROM PREVIOUS: full base (foundation, concealer, powder), defined brows, charcoal-brown smoky eyes with editorial smudge and intensity, black waterline tight-line, volumized mascara, sculpted contour, nude glossy lip intact. Complete ML-12. Farewell-ready.
 
 HAND POSITIONS: Right hand holding apartment keys dangling between index and middle finger at hip. Left hand holding black clutch at side. Objects of departure.
 
@@ -2577,7 +2577,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 # CONCEPT 28 — BEAUTY AD (Product Launch)
 
-**Product:** SETTING SPRAY — frosted glass cylinder, chrome atomizer nozzle with click, matte-black base band with geometric embossed logo, fine mist visible, crystal-clear liquid, Bauhaus-meets-apothecary design
+**Product:** SETTING SPRAY — frosted glass cylinder with weighted base, chrome atomizer nozzle with satisfying click mechanism, matte-black base band with geometric embossed logo, fine micro-mist visible when sprayed, crystal-clear liquid formula, Bauhaus-meets-apothecary design language, tall slim silhouette, subtle refraction through frosted glass creating soft-focus light diffusion, minimal serif type on glass body
 **Mood Archetype:** MA-4 "warmth of held breath in cold air"
 **Sub-type:** Product Launch
 **Duration:** 24 seconds total
