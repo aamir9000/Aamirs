@@ -81,6 +81,21 @@ Quick check per section: does it name the real scene/props of THIS frame, descri
 
 ---
 
+## RESUME & PROCESSED-FILE DETECTION (do this first in a fresh session)
+To know what is done vs remaining, follow these steps exactly:
+1. Ensure the repo `aamir9000/Aamirs` is cloned and branch `aira-prompts-enhanced` is checked out.
+2. Build the MASTER list of source concept files from the zip (correct UTF-8 names):
+   `python3 -c "import zipfile;[print(n) for n in zipfile.ZipFile('CONCEPTS.zip').namelist() if n.endswith('.txt')]"`
+   Skip the known duplicate `Aira — 20 More Full Reel Concepts · Set 3 …256.txt` (it equals `20 More Full Reel Concepts Set 3.txt`). That leaves 20 unique files.
+3. List the OUTPUT folder `CONCEPTS/` — every filename present there is DONE/processed.
+4. REMAINING = (master list, minus duplicate) − (files in `CONCEPTS/`). Process the next remaining file.
+5. Because output filenames are saved EXACTLY as the zip entry names, this set-difference reliably identifies processed vs unprocessed.
+
+## FILENAME RULE (critical for detection)
+- Output filename MUST equal the zip entry name byte-for-byte (these contain UTF-8 `·` middot, `—` em-dash, `–` en-dash).
+- Extract source files with Python `zipfile` (preserves UTF-8), NOT the terminal `unzip` command — `unzip` here mangles names into mojibake (e.g. `·` becomes `┬╖`), which breaks the done-vs-remaining diff.
+- If a working copy already has mojibake names, rename the OUTPUT to match the zip entry exactly before committing.
+
 ## PER-FILE WORKFLOW
 1. Work from the original in `concepts_dl/CONCEPTS/`.
 2. Strip asterisks (verify only `*` changed; line count unchanged).
@@ -132,7 +147,7 @@ Do not push a file until every one of these returns clean.
 - Filenames contain unicode (`·`, `—`, `–`) which can show as mojibake in some terminals — always handle as UTF-8 and quote paths.
 
 ## STATUS
-- DONE & pushed (exact original filenames in CONCEPTS/): `20 Beauty Ad Reels · Mind-Blowing Choreograpgy.txt` (20 concepts, 129 image prompts).
+- DONE & pushed (exact original filenames in CONCEPTS/): `20 Beauty Ad Reels · Mind-Blowing Choreograpgy.txt` (20 concepts, 129 image prompts) [saved with exact UTF-8 zip filename].
 - TODO: every other file in the source folder (~1,600 image prompts total).
 - `Concept 100` and `Concept 170` were processed earlier but the branch was reset — redo them under this directive.
 
