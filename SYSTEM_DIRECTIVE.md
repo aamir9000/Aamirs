@@ -112,7 +112,7 @@ Quick check per section: does it name the real scene/props of THIS frame, descri
 - Filenames contain unicode (`·`, `—`, `–`) which can show as mojibake in some terminals — always handle as UTF-8 and quote paths.
 
 ## STATUS
-- DONE & pushed: `aira_set4.txt` (20 concepts, 117 image prompts).
+- DONE & pushed (exact original filenames in CONCEPTS/): `20 Beauty Ad Reels · Mind-Blowing Choreograpgy.txt` (20 concepts, 129 image prompts).
 - TODO: every other file in the source folder (~1,600 image prompts total).
 - `Concept 100` and `Concept 170` were processed earlier but the branch was reset — redo them under this directive.
 
