@@ -106,6 +106,26 @@ Quick check per section: does it name the real scene/props of THIS frame, descri
 
 ---
 
+## CORRECTNESS & NO CROSS-CONCEPT LEAKAGE (mandatory)
+Every authored `SUBJECT FRAMING & POSITION:` section must be factually consistent with its OWN frame and must never borrow anything from another concept. Specifically:
+- It must reference ONLY that concept's own scene, props, wardrobe, transform/impossible-move, dance vocabulary and mood. No element, prop, dance term, palette or transform from any other concept may appear.
+- The stated headroom percentage must exactly match the frame's `FRAMING:` line.
+- The negative-space side (camera-left vs camera-right) must match the frame.
+- The shot size (medium-close / medium / medium-wide / near-full / full-length) must match the frame.
+- SPOKEN vs SILENT must be honoured: only SPOKEN reels may mention "the spoken beat / as the line lands"; SILENT reels must say the beat is held on expression, not a line. (In this set, silent reels are explicitly marked SILENT in the master plan/voice column.)
+- Body turn, crop, placement and facing must match the frame's posture and choreography.
+
+## POST-AUTHORING AUDIT (run on every file, fix every hit, leave zero)
+After authoring, programmatically verify and FIX until all are zero:
+1. section count == image-prompt count; each placed exactly FRAMING -> section -> LENS; none in video prompts; no back-to-back; all unique; all end with the exact ORIENTATION LOCK clause.
+2. headroom % of each section == its frame's FRAMING %.
+3. negative-space side matches the frame (no camera-left/right contradiction).
+4. shot size matches the frame.
+5. spoken/silent wording matches the reel's voice setting.
+6. no cross-concept leakage: scan each section for other concepts' signature words/props/transforms and remove any that don't belong (allowing for harmless substrings like "flowing"/"winding").
+7. 0 asterisks; 0 internal codes; every subject-introduction line normalised.
+Do not push a file until every one of these returns clean.
+
 ## FORMAT NOTES
 - **Format A (markdown, most files):** `**SECTION:**` labels and `## Frame X of Y — IMAGE PROMPT` headers; thousands of asterisks; negatives written inline.
 - **Format B (plain text — `aira_set4.txt`, `aira_set5.txt`):** `--- FRAME X · SIZE · ANGLE ---` headers, plain `SECTION:` labels, `NEGATIVE: STD-NEG-IMG`; no asterisks.
