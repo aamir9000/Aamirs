@@ -150,7 +150,8 @@ Do not push a file until every one of these returns clean.
 - DONE & pushed (exact original filenames in CONCEPTS/): `20 Beauty Ad Reels · Mind-Blowing Choreograpgy.txt` (20 concepts, 129 image prompts) [saved with exact UTF-8 zip filename].
 - DONE & pushed: `20 Cinematic Reels New Set.txt` (20 concepts, 123 image prompts).
 - DONE & pushed: `20 Full Reel Concepts Set 4 (Concepts 51.txt` (concepts 51–70, 122 image prompts).
-- TODO: the remaining 17 source files.
+- DONE & pushed: `20 Full Reel Concepts Set 5 (Concepts 71.txt` (concepts 71-79 incl. truncated C79 frame 1, 51 image prompts).
+- TODO: the remaining 16 source files (incl. the Set 5 continuation files that hold the rest of C79+).
 - `Concept 100` and `Concept 170` were processed earlier but the branch was reset — redo them under this directive.
 
 ## CONFIRMED DECISIONS
