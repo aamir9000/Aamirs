@@ -1,0 +1,591 @@
+# Aira — Concept 100 · "The Unboxing" · Ep.09 · FULL Heavy-Detail (Clean) · NON-TALKABLE
+
+<aside>
+📦
+
+Concept 100 · Ep.09 of "Aira IRL — Behind the Perfect Post." Full heavy-detail AI image+video generation prompts for a 30-second, 6-frame "clothes-change transformation reel" featuring the locked character Aira. Every frame carries BOTH a complete IMAGE PROMPT and a VIDEO PROMPT to the Concept 01 gold standard. NON-TALKABLE — no spoken lines; the story is told entirely through physical action, props and score, with finely timed beats for Veo-style execution. Built clean on its own page for full loadability and editability.
+
+</aside>
+
+Series: Aira IRL — Behind the Perfect Post (Ep.09). Self-aware AI influencer; running gag "THE GLITCH" = emotional datamosh on wardrobe / room / props only — the eyes never glitch.
+
+Format: Transformation Reel / 3-look arc — 30 seconds, 6 frames, 9:16 vertical. NON-TALKABLE.
+
+Episode Theme: the unboxing. A flood of free PR boxes arrives from brands and Aira slips into the practised unboxing-creator performance — squealing gratitude, holding each product to camera, selling excitement she does not quite feel. The glitch tips the performance into its logical end: it turns her into a walking branded billboard, plastered in logos and packaging. Mid-pose she catches herself — she has become an advertisement for things she does not need. She stops, sorts the haul honestly, keeps the one genuine thing she actually loves, and sets the rest aside to pass on.
+
+Hero Props (continuity): the "ETHICALLY SOURCED PIXELS" mug (C92), the yellow disposable film camera (C93 cameo), the printed grainy real photo (C94 cameo), the red "MY TERMS" stamp (C95 cameo), the warm beeswax candle (C96 cameo), the blue verification badge (C97 cameo), the face-down phone + hand-knit blanket (C98 cameo), the sticky note "make it mean something" (C99 cameo), and NEW for C100 — a tower of glossy PR boxes + branded tissue paper + a cute box-cutter, a single small terracotta-potted plant (the one genuine kept item), and a "pass it on" donation box.
+
+Setting: Aira's hybrid bedroom / content-studio floor, ring light and phone-on-tripod set up for an unboxing video — a haul of glossy branded boxes stacked around her, tissue paper and packaging spilling out, shifting from bright performed-haul gloss to a calm, intentional, half-cleared real floor.
+
+Wardrobe — 3 looks:
+
+- LOOK A — "Grateful Performer": the cosy on-camera unboxing uniform — a soft cream oversized knit jumper over pastel-yellow wide lounge shorts, camera-friendly and cute, the "yay, free stuff!" creator costume.
+- LOOK B — "Brand Billboard": the glitch end-state — a patchwork bodysuit of clashing brand logos, packaging-tape sashes, a crinkled tissue-paper ruffle collar, barcode and "#AD" / "PR" motifs datamoshing across her; she is literally wearing the advertisements.
+- LOOK C — "Curator": grounded editorial-real — a clean sage-green linen shirt with soft oatmeal trousers, calm and intentional, dressed like a person and not a billboard.
+
+Footwear: (LOOK A — fuzzy cream house socks + soft slippers) → (LOOK B — mismatched packaging-wrapped box-shoe platforms mid-glitch) → (LOOK C — simple tan suede loafers, grounded).
+
+Accessories: (LOOK A — the glossy PR-box tower + branded tissue paper + a cute box-cutter + small gold hoops) → (LOOK B — floating logo bubbles + barcode tags + "#AD" stickers + a packaging-tape belt + box-flap shoulder pads) → (LOOK C — the single small terracotta-potted plant she keeps, a hand-written brand thank-you note, the rest of the haul neatly boxed in a "pass it on" donation box, simple stud earrings).
+
+Hair (, restyled across looks): A — a cute high messy bun with a soft ribbon; B — an over-styled glitchy logo-clip explosion; C — a soft low tuck-behind-the-ear, natural and calm.
+
+Makeup (, restyled): A — fresh bright "excited" glow with a pop of colour; B — glitchy over-applied brand-palette graphic (logo-coloured); C — soft bare real skin + tinted balm, calm.
+
+Eye Colour (locked, every frame): warm hazel-brown with a soft amber inner ring; both irises matched, no heterochromia, zero drift; the eyes never glitch.
+
+Dialogue: NONE — NON-TALKABLE. No spoken lines anywhere; the story is carried entirely through physical action, props and the external score. Every frame uses finely timed physical-action beats (no [VO]).
+
+Concept Line: "keep what you'd actually use."
+
+Duration: 30 seconds | 6 frames (5s each).
+
+Mood: bright-performed → hollow-loud / branded → calm / intentional / real.
+
+Composition: centred creator-on-the-floor unboxing hero; clean negative space for the haul tower, the brand-billboard glitch and the calm sorted floor.
+
+Grade: bright cheerful PR-haul pop (LOOK A) → hyper-branded logo-clash neon (LOOK B glitch) → warm honest natural light (LOOK C); vibrant pop, never muddy.
+
+Hook strategy: open on the squealing over-the-top unboxing performance so the brand-billboard glitch lands as the honest exaggeration of what she is doing; the turn is catching herself as a walking advertisement; the payoff is sorting honestly and keeping only the one real thing.
+
+Frame arc: F1 the haul arrives / LOOK A (the boxes land, the performance begins) → F2 the gratitude peaks / LOOK A (over-the-top on-camera excitement) → F3 the overcorrection / LOOK A→B (the brand-billboard logo glitch) → F4 the turn (LOOK B held — she catches herself being a walking ad) → F5 the change → LOOK C (warm glitch, she sorts the haul honestly) → F6 payoff (LOOK C, keeps the one real thing, the rest set aside to pass on).
+
+---
+
+## Frame 1 of 6 — IMAGE PROMPT (THE HAUL ARRIVES — LOOK A "GRATEFUL PERFORMER" · BRIGHT PR-HAUL GLOSS)
+
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+
+SCENE NOTE: the haul arrives. Aira sits cross-legged on her content-studio floor, ring light and phone-on-tripod set up for an unboxing video, a tower of glossy branded PR boxes just delivered and stacked around her. She has the cute box-cutter in one hand, the first box pulled into her lap, lid half-lifted with tissue paper foaming out — and the practised on-camera "yay, free stuff!" delight already switching on across her face. The bright performed-haul beat: the boxes are open and the performance is beginning. (NON-TALKABLE — the whole story is physical; no spoken line this or any frame.) Eyes warm hazel-brown, bright in the cheerful ring-light.
+
+VISUAL-LEAD NOTE: catch the haul-opening beat — Aira cross-legged among a tower of glossy PR boxes, box-cutter in hand, the first lid half-lifted with tissue paper foaming out, the practised excited-creator grin switching on for the ring-lit camera.
+
+WARDROBE (LOOK A — "Grateful Performer"): the cosy on-camera unboxing uniform — a soft cream oversized chunky-knit jumper slipping off one shoulder, sleeves pushed up, over pastel-yellow wide lounge shorts; camera-friendly, cute and soft, the deliberately approachable "haul day" costume built to read warm and relatable on screen.
+
+FOOTWEAR (fuzzy cream house socks + soft slippers): fuzzy cream ribbed house socks scrunched at the ankle and a pair of soft cream slippers half-kicked off as she sits cross-legged, one slipper dangling from a toe; cosy, off-duty, real, the bright ring-light catching the fuzzy nap.
+
+ACCESSORIES (heroes): small gold hoops; HERO — the glossy PR-BOX TOWER stacked around her in branded colours, branded TISSUE PAPER foaming out of the open lid, a cute pastel BOX-CUTTER in her hand; the phone-on-tripod and ring light framing her; the C92 "ETHICALLY SOURCED PIXELS" mug parked at the floor edge; a roll of packaging tape and a scatter of bubble-wrap nearby.
+
+HAIR (cute high messy bun with a soft ribbon): the hair gathered up into a cute high messy bun with soft face-framing pieces left loose and a soft pastel ribbon tied around the base, bouncy and camera-cute, a few real flyaways catching the bright ring-light; the deliberately charming "haul day" hair.
+
+MAKEUP (fresh bright "excited" glow + pop of colour): the camera-ready haul-day face — a luminous glass-skin base with a healthy lit-from-within glow, a clean cream highlight stacked on the high cheekbone and brow-bone, fluffy upward soap-brushed brows, a fresh peach-coral wash of blush high on the apples reading genuinely excited, a glossy your-lips-but-better balm with a wet light-point on the lower lip, and a tiny bright pop of pastel-yellow shimmer dotted in the inner eye corner to lift the whole face; skin kept real and dewy with visible pores and fine vellus texture, never plastic.
+
+EYE COLOUR (LOCKED): warm hazel-brown with a soft amber inner ring; both irises matched, no heterochromia, zero drift; the eyes never glitch; bright and lively in the cheerful ring-light with a crisp twin catchlight.
+
+HANDS & NAILS: right hand holding the cute pastel box-cutter mid-air over the half-open box with a relaxed natural grip, no white-knuckle tension; left hand lifting the foaming tissue-paper edge of the lid, fingers softly curved; short square nails in a clean fresh-pink gloss, cuticles neat, natural nail-bed colour.
+
+FACIAL MICRO-DYNAMICS: the practised on-camera "yay!" delight switching on — brows lifted high in performed excitement, eyes wide and bright to the lens, a big open camera-grin pulling both cheeks up with the apples bunching, a tiny held breath of anticipation before the reveal; genuine micro-energy underneath but the smile a hair too rehearsed, reading as performance.
+
+BODY POSTURE & WEIGHT: sitting cross-legged on the studio floor among the boxes, torso leaning a few degrees toward the ring-lit camera, the box pulled into her lap, both shoulders lifted in eager show-and-tell energy, spine long and bouncy, chin level, the whole pose alive and performing-for-camera rather than posed-stiff (living stillness).
+
+KINETIC STILLNESS (8 layers): (1) the high messy bun mid-settle, a soft bounce easing to rest with the ribbon tails still swaying; (2) a single loose face-framing strand drifting at the temple in the studio air; (3) the foaming tissue paper still rising and crinkling slightly as the lid lifts; (4) the box-cutter held mid-air, a tiny ring-light glint sliding along its pastel edge; (5) chest lifting on a held excited breath; (6) a stray curl of tissue paper drifting down toward the floor; (7) the chunky knit settling across the slipped shoulder with a micro-shift of highlight; (8) a barely-perceptible eyelash settle as she completes a slow excited blink.
+
+SPATIAL LOGIC: FOREGROUND — the half-open glossy PR box in her lap with tissue paper foaming out and the box-cutter in hand at roughly 20% frame depth, tack sharp. MIDGROUND — Aira cross-legged, three-quarter torso filling the frame, the ring-lit camera energy aimed at lens. BACKGROUND — the tower of glossy branded PR boxes stacked around and behind her, the phone-on-tripod and ring light, her cosy content-studio corner softly compressed; clean and bright, no clutter-chaos.
+
+LIGHTING: KEY — the big round ring light front-on producing bright even haul-video beauty wrap with the signature circular catchlight. FILL — soft daylight from a window lifting the shadows clean and cheerful. RIM — a subtle warm kick separating the bun and slipped shoulder from the box tower. PRACTICAL — the ring light itself in the catch of her eye. SEPARATION — the bright PR-haul pop grade with the boxes reading glossy and saturated. BOUNCE — a soft white kick off the floor lifting the under-chin clean.
+
+FRAMING: ASPECT 9:16; medium-wide, seated three-quarter framing with ~12% headroom, the half-open PR box and box-cutter entering the lower third; the box tower stacked into frame-right and behind; clean bright negative space frame-left to receive the slow push later.
+SUBJECT FRAMING & POSITION: A medium-wide seated framing holds Aira cross-legged on the content-studio floor with about 12% headroom, the half-open PR box and the pastel box-cutter breaking into the lower third of frame. Her torso is turned only a few degrees toward the ring-lit lens — a near-frontal three-quarter rather than a full turn — both shoulders lifted in eager show-and-tell as she leans a hair into camera, the three-quarter upper body filling the frame from the lap up. The camera sits at a comfortable mid distance, close enough to feel the performed delight switching on yet wide enough to establish the haul stacked around her. She is placed a touch right-of-centre so the glossy PR-box tower masses into frame-right and behind, leaving clean bright negative space open camera-left for the slow push to come. She reads alive and front-facing to the lens, presenting into camera rather than profiled. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+
+LENS + DOF + BOKEH: 35mm, f/2.8; focus split between her near eye and the foaming tissue-paper lid so both read crisp; the box tower behind melting to a soft glossy field; gentle highlight roll-off on the ring-light bloom, no clipping.
+
+COMPOSITION REFERENCE: modern creator unboxing-haul still — ring-lit, cosy, bright and saturated, the open box and excited grin engineered to read "free PR haul" instantly and stop the scroll.
+
+ATMOSPHERE: bright, cheerful, performed — the up-switching on-camera delight of a haul video just beginning, the air practically buzzing with ring-light warmth and fresh-packaging crinkle.
+
+COLOR GRADE: bright cheerful PR-haul pop — rich saturated box colours, clean warm whites, blacks rich but never crushed, full mid-tone detail, glossy and lively, zero grain, no lifted milky blacks, no teal-orange.
+
+TEXTURE & MICRO-DETAIL: the foaming tissue paper shows crisp real crinkle and a soft matte sheen; the glossy PR boxes throw clean pin-sharp speculars off their laminated edges; the chunky cream knit reads with real chunky-stitch texture and soft fibre nap; the fuzzy house socks catch a soft ring-light halo; real skin micro-texture with visible pores and fine vellus fuzz at the jaw; one almost-invisible curl of tissue paper drifting in the ring-light beam.
+
+STORY BEAT (silent): the haul arrives and the performance switches on — boxes open, grin up, the free stuff flowing; the bright loud start of a creator doing exactly what the algorithm rewards, with no idea yet how much of it she'll actually keep.
+
+NEGATIVE: mirrored, flipped, inverted, extra limbs, fused fingers, melted features, asymmetric eyes (unintentional), heterochromia, eye-colour drift, glitched eyes, garbled text, floating shadows, duplicated subjects, low-res patches, plastic skin, over-smoothed skin, oversharpened, AI-generated artifacts, watermarks, signature, deformed hands, malformed teeth, joint cuts at ankle/knee/wrist/elbow/neck, amputated fingertips, cross-eyed, lazy eye, off-axis pupils, melted clothing, mismatched footwear, mannequin-stiff posture, dead eyes, statue-frozen energy, garbled label text.
+
+## Frame 1 of 6 — VIDEO PROMPT (THE HAUL ARRIVES — LOOK A "GRATEFUL PERFORMER")
+
+SHOT TYPE: medium-wide seated three-quarter, Aira cross-legged on the studio floor filling ~55% of the vertical frame with the half-open PR box and box-cutter in the lower third and the glossy box tower stacked frame-right.
+
+CAMERA MOVEMENT: a single slow 6% push-in across the clip, locked-off and stable otherwise — one move only, no whip, no handoff; the push gently tightens onto the open box and the switching-on grin.
+
+LENS: 35mm, f/2.8, smooth creamy background fall-off on the box tower.
+
+SUBJECT ACTION WITH TIMING (fine beats — no spoken line this frame):
+
+- 0.0–0.5s — Aira sits cross-legged among the boxes, the half-open PR box in her lap, box-cutter held mid-air; she gives a tiny anticipatory bounce of the shoulders.
+- 0.5–1.0s — she sets the box-cutter down and brings both hands to the lid edge, fingers curling under the foaming tissue paper.
+- 1.0–1.5s — she lifts the lid a few centimetres, the tissue paper rising and crinkling, her brows pushing up in performed excitement.
+- 1.5–2.0s — the lid fully off; she peeks in and her mouth opens into the big practised "yay!" camera-grin, cheeks bunching.
+- 2.0–2.5s — she presses one hand to her chest in over-acted gratitude, eyes flicking bright to the ring-lit lens.
+- 2.5–3.0s — she lifts the foaming tissue paper aside with both hands, a stray curl drifting down toward the floor.
+- 3.0–3.5s — she leans a few degrees toward camera in eager show-and-tell energy, bun bouncing softly with the ribbon tails swaying.
+- 3.5–4.0s — she holds the open box up toward the lens, presenting it with both hands, grin held wide.
+- 4.0–4.5s — a tiny excited shimmy of the shoulders, the chunky knit shifting on the slipped shoulder.
+- 4.5–5.0s — she settles, eyes bright to lens, the performed delight holding as the frame eases toward the next beat.
+
+LIGHTING: bright ring-light beauty key front-on with the circular catchlight, clean daylight fill lifting the shadows cheerful, subtle warm rim separating the bun and slipped shoulder from the glossy box tower; live speculars sliding along the laminated box edges as the lid lifts.
+
+ENVIRONMENT: cosy bedroom / content-studio floor, ring light and phone-on-tripod set up, a tower of glossy branded PR boxes stacked around her, tissue paper and bubble-wrap scattered, fresh-packaging crinkle in the air.
+
+AUDIO: diegetic + SFX + external score only — no VO this frame. Ambient bed — low warm room tone with a faint ring-light electrical hum. SFX — a soft cardboard-lid scuff at 1.1s, a crisp tissue-paper crinkle at 1.5s, a light gasp-of-delight breath at 1.8s, a gentle box-set-down tap at 3.6s. Reaction — a soft excited inhale at 1.7s. VO — none this frame (NON-TALKABLE).
+
+DURATION: 5 seconds (0:00–0:05 of 30s total).
+
+FRAME RATE + MOTION BLUR: 24fps acquisition, 180° shutter, natural motion blur on the lid-lift and the drifting tissue paper; playback 24fps real-time.
+
+LIP-SYNC: none this frame — NON-TALKABLE; lips move only with the open camera-grin and the silent excited reactions, no spoken words.
+
+FACIAL CONSISTENCY / IDENTITY LOCK: hold Aira's exact face, bone structure and warm hazel-brown eyes (soft amber inner ring, both irises matched, no heterochromia) locked to the reference across every beat; zero drift, no morphing; the eyes never glitch even as the performed grin animates (keyframe-lock).
+
+NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame skip, mirrored composition, text overlay, watermark, AI artifact, ghosting, double-exposure unless intended, lip-sync drift, audio desync, any spoken words or VO this frame, wardrobe drift between shots, unmotivated camera shake, physics violation (paper/hair/fabric), mannequin posture, frozen background, dead eyes, identity flicker, glitched or colour-drifting eyes.
+
+---
+
+## Frame 2 of 6 — IMAGE PROMPT (THE GRATITUDE PEAKS — LOOK A "GRATEFUL PERFORMER" · OVER-THE-TOP ON-CAMERA EXCITEMENT)
+
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+
+SCENE NOTE: the gratitude peaks. Aira is now up on her knees among the open boxes, a glossy product held high in both hands right beside her face, presenting it to the ring-lit lens with maximum on-camera delight — mouth wide in a squeal-of-joy, eyes sparkling, the practised "I cannot believe they sent me this!" performance at full volume. Tissue paper and emptied boxes fan out around her. The peak of the performed-haul beat: the excitement is loudest exactly here, and just slightly hollow underneath. (NON-TALKABLE — the squeal is silent, carried by face and body only; no spoken line.) Eyes warm hazel-brown, bright in the cheerful ring-light.
+
+VISUAL-LEAD NOTE: catch the gratitude-peak beat — Aira up on her knees among the open boxes, a glossy product held high beside her beaming face, mouth wide in a silent squeal of joy, presenting it straight to the ring-lit lens at full performed volume.
+
+WARDROBE (LOOK A held — "Grateful Performer"): the same cosy on-camera unboxing uniform — soft cream oversized chunky-knit jumper slipping off one shoulder, sleeves pushed up, over pastel-yellow wide lounge shorts; identical to F1 with zero wardrobe drift, now in the energised up-on-knees presenting pose, the knit shifting with the lift of her arms.
+
+FOOTWEAR (held — fuzzy cream house socks + soft slippers): the same fuzzy cream ribbed house socks, slippers now fully kicked off and tipped over on the floor behind her as she rises onto her knees; cosy, off-duty, real, the bright ring-light catching the fuzzy nap.
+
+ACCESSORIES (heroes): small gold hoops; HERO — a single glossy branded PRODUCT held high in both hands beside her face (frosted/coloured packaging catching the ring-light), the open PR-BOX TOWER and foaming branded TISSUE PAPER fanned around her, the box-cutter set down on the floor; the phone-on-tripod and ring light framing her; the C92 "ETHICALLY SOURCED PIXELS" mug still parked at the floor edge; emptied boxes and bubble-wrap scattered.
+
+HAIR (held — cute high messy bun with a soft ribbon): the same cute high messy bun with the soft pastel ribbon, now bouncing higher with the excited up-on-knees energy, face-framing pieces swinging, a few real flyaways lit by the ring-light; identical styling to F1.
+
+MAKEUP (held — fresh bright "excited" glow + pop of colour): the same camera-ready haul-day face as F1 — luminous glass-skin base with a healthy lit-from-within glow, cream highlight on the high cheekbone and brow-bone, fluffy upward soap-brushed brows, a fresh peach-coral blush high on the apples now flushed brighter with the peak excitement, glossy your-lips-but-better balm with a wet light-point on the lower lip, and the tiny pop of pastel-yellow shimmer in the inner eye corner; skin real and dewy with visible pores and fine vellus texture, never plastic; zero makeup drift from F1.
+
+EYE COLOUR (LOCKED): warm hazel-brown with a soft amber inner ring; both irises matched, no heterochromia, zero drift; the eyes never glitch; bright and sparkling in the cheerful ring-light with a crisp twin catchlight.
+
+HANDS & NAILS: both hands raised holding the glossy product high beside her face, fingertips light on the packaging with no white-knuckle pressure, fingers softly splayed in a presenting gesture; short square nails in the same clean fresh-pink gloss as F1, cuticles neat, natural nail-bed colour; zero finger fusion, correct thumb placement.
+
+FACIAL MICRO-DYNAMICS: the squeal-of-joy at full performed volume — mouth wide open in a big silent "oh my gosh!", brows shot all the way up, eyes sparkling and crinkled at the outer corners, both cheeks lifted hard with the apples bunched, a flash of genuine delight on top of the rehearsed performance; the energy a touch too big, reading as on-camera show.
+
+BODY POSTURE & WEIGHT: up on her knees among the boxes, torso lifted tall and angled toward the ring-lit lens, both arms raised to present the product beside her face, shoulders up around the excitement, spine long and bouncy, weight balanced on the shins, the whole pose alive and performing-for-camera rather than posed-stiff (living stillness).
+
+KINETIC STILLNESS (8 layers): (1) the high messy bun mid-bounce from rising onto her knees, ribbon tails swinging; (2) a loose face-framing strand swinging across the temple in the studio air; (3) the raised glossy product catching a ring-light glint that slides along its packaging as she lifts it; (4) a sheet of branded tissue paper still drifting down to the floor beside her; (5) chest lifted high on the peak excited breath; (6) the chunky knit shifting across the slipped shoulder with a micro-shift of highlight as her arms raise; (7) a stray curl of tissue paper rocking gently on the floor; (8) a barely-perceptible eyelash settle as her sparkling eyes crinkle at the peak.
+
+SPATIAL LOGIC: FOREGROUND — the raised glossy product beside her face at roughly 20% frame depth, tack sharp, label forward to lens. MIDGROUND — Aira up on her knees, three-quarter torso filling the frame, arms raised. BACKGROUND — the open PR-box tower and fanned tissue paper, the phone-on-tripod and ring light, her cosy content-studio corner softly compressed; bright and clean, energised but not chaotic.
+
+LIGHTING: KEY — the big round ring light front-on producing bright even haul-video beauty wrap with the signature circular catchlight, now catching the raised product too. FILL — soft daylight from a window lifting the shadows clean and cheerful. RIM — a subtle warm kick separating the bun and raised arms from the box tower. PRACTICAL — the ring light itself in the catch of her eye. SEPARATION — the bright PR-haul pop grade with the boxes and product reading glossy and saturated. BOUNCE — a soft white kick off the floor lifting the under-chin clean.
+
+FRAMING: ASPECT 9:16; medium, kneeling three-quarter framing with ~10% headroom, the raised product entering the upper-mid third beside her face; the open box tower fanned frame-right; clean bright negative space frame-left holding from the F1 push.
+SUBJECT FRAMING & POSITION: A medium kneeling framing lifts Aira up onto her knees with about 10% headroom, the single glossy product raised in both hands into the upper-mid third right beside her beaming face. Her torso is squared up tall and angled toward the lens in an energised three-quarter front, shoulders hiked around the peak excitement, the kneeling upper body filling the frame from the shins up. The camera has drawn a step closer than the opening beat — nearer and more intimate so the product-at-face presentation reads at full volume. She holds the centre with the raised product climbing the upper-mid third, the open box tower fanned into frame-right and the bright negative space still held camera-left from the push. She is full-frontal to the lens, presenting the product straight to camera, never turned to profile. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+
+LENS + DOF + BOKEH: 35mm, f/2.8; focus split between her near eye and the raised product label so both read crisp; the box tower behind melting to a soft glossy field; gentle highlight roll-off on the ring-light bloom, no clipping.
+
+COMPOSITION REFERENCE: peak creator unboxing-haul still — product-at-face, ring-lit, bright and saturated, the squeal-of-joy engineered to read "OMG free PR" at maximum volume and stop the scroll.
+
+ATMOSPHERE: loud, bright, performed — the peak of on-camera haul excitement, the air buzzing with ring-light warmth and fresh-packaging crinkle, the joy a touch too big to be fully real.
+
+COLOR GRADE: bright cheerful PR-haul pop — rich saturated box and product colours, clean warm whites, blacks rich but never crushed, full mid-tone detail, glossy and lively, zero grain, no lifted milky blacks, no teal-orange.
+
+TEXTURE & MICRO-DETAIL: the raised product packaging throws a clean pin-sharp specular off its laminated face; the foaming tissue paper shows crisp real crinkle and a soft matte sheen; the chunky cream knit reads with real chunky-stitch texture and soft fibre nap; the fuzzy house socks catch a soft ring-light halo; real skin micro-texture with visible pores and fine vellus fuzz at the jaw; one almost-invisible curl of tissue paper drifting in the ring-light beam.
+
+STORY BEAT (silent): the gratitude hits its peak — the loudest, biggest, most camera-perfect moment of delight, the exact beat the algorithm rewards; and right at the top of it, a flicker of hollowness, the first hint that she is performing thanks for things she did not ask for and may not want.
+
+NEGATIVE: mirrored, flipped, inverted, extra limbs, fused fingers, melted features, asymmetric eyes (unintentional), heterochromia, eye-colour drift, glitched eyes, garbled text, floating shadows, duplicated subjects, low-res patches, plastic skin, over-smoothed skin, oversharpened, AI-generated artifacts, watermarks, signature, deformed hands, malformed teeth, joint cuts at ankle/knee/wrist/elbow/neck, amputated fingertips, cross-eyed, lazy eye, off-axis pupils, melted clothing, mismatched footwear, mannequin-stiff posture, dead eyes, statue-frozen energy, garbled label text.
+
+## Frame 2 of 6 — VIDEO PROMPT (THE GRATITUDE PEAKS — LOOK A "GRATEFUL PERFORMER")
+
+SHOT TYPE: medium kneeling three-quarter, Aira up on her knees filling ~58% of the vertical frame, the raised glossy product beside her face in the upper-mid third and the open box tower fanned frame-right.
+
+CAMERA MOVEMENT: a single slow 6% push-in continuing from F1, locked-off and stable otherwise — one move only, no whip, no handoff; the push tightens onto the product-at-face and the peak grin.
+
+LENS: 35mm, f/2.8, smooth creamy background fall-off on the box tower.
+
+SUBJECT ACTION WITH TIMING (fine beats — no spoken line this frame):
+
+- 0.0–0.5s — Aira rises from cross-legged up onto her knees, both hands cupping a glossy product down at her chest.
+- 0.5–1.0s — she sweeps the product upward, lifting it toward her face, eyes tracking it bright.
+- 1.0–1.5s — the product reaches beside her cheek; her mouth opens into the big silent squeal-of-joy, brows shooting up.
+- 1.5–2.0s — she gives the product a little excited shake beside her face, presenting the label forward to lens.
+- 2.0–2.5s — she presses her free hand flat to her chest in over-acted gratitude, eyes crinkling at the corners.
+- 2.5–3.0s — a bright bouncing nod toward the lens, bun bouncing and ribbon tails swinging.
+- 3.0–3.5s — she turns the product a few degrees so a ring-light specular slides across its packaging.
+- 3.5–4.0s — a tiny over-the-top happy wiggle of the shoulders, the chunky knit shifting on the slipped shoulder.
+- 4.0–4.5s — the squeal eases; a flicker of hollowness crosses her eyes for a beat as the grin holds.
+- 4.5–5.0s — she steadies, product still raised, performed delight holding as the frame eases toward the next beat.
+
+LIGHTING: bright ring-light beauty key front-on with the circular catchlight now catching the raised product, clean daylight fill lifting the shadows cheerful, subtle warm rim separating the bun and raised arms from the glossy box tower; live speculars sliding along the product packaging as she turns it.
+
+ENVIRONMENT: cosy bedroom / content-studio floor, ring light and phone-on-tripod set up, the open PR-box tower and fanned tissue paper around her, emptied boxes and bubble-wrap scattered, fresh-packaging crinkle in the air.
+
+AUDIO: diegetic + SFX + external score only — no VO this frame. Ambient bed — low warm room tone with a faint ring-light electrical hum. SFX — a light product-packaging rustle at 0.8s, a soft excited gasp-breath at 1.2s, a tiny product-shake rattle at 1.6s, a soft hand-to-chest pat at 2.1s. Reaction — a silent squeal carried on a sharp inhale at 1.1s. VO — none this frame (NON-TALKABLE).
+
+DURATION: 5 seconds (0:05–0:10 of 30s total).
+
+FRAME RATE + MOTION BLUR: 24fps acquisition, 180° shutter, natural motion blur on the product-lift and the drifting tissue paper; playback 24fps real-time.
+
+LIP-SYNC: none this frame — NON-TALKABLE; lips move only with the silent squeal-of-joy and the over-acted excited reactions, no spoken words.
+
+FACIAL CONSISTENCY / IDENTITY LOCK: hold Aira's exact face, bone structure and warm hazel-brown eyes (soft amber inner ring, both irises matched, no heterochromia) locked to the reference across every beat; zero drift, no morphing; the eyes never glitch even as the peak grin and the flicker of hollowness animate (keyframe-lock).
+
+NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame skip, mirrored composition, text overlay, watermark, AI artifact, ghosting, double-exposure unless intended, lip-sync drift, audio desync, any spoken words or VO this frame, wardrobe drift between shots, unmotivated camera shake, physics violation (paper/hair/fabric), mannequin posture, frozen background, dead eyes, identity flicker, glitched or colour-drifting eyes.
+
+---
+
+## Frame 3 of 6 — IMAGE PROMPT (THE OVERCORRECTION — LOOK A→B "BRAND BILLBOARD" · COLD LOGO GLITCH)
+
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+
+SCENE NOTE: the overcorrection. THE GLITCH fires — mid-presentation the performed haul tips into its logical end-state: a cold harsh datamosh sweeps up Aira's body and the cosy cream knit shreds and reassembles into a patchwork brand-billboard bodysuit of clashing logos, barcode strips and "#AD" motifs, the room behind her flickering into a wall of floating brand logos. She is caught mid-pose still presenting the product, but now she IS the advertisement — logos crawling across her, the warmth draining to a cold electric branded glare. Her face holds the performed grin a half-beat too long as the glitch overtakes everything around it. (NON-TALKABLE — the dread is physical; no spoken line.) Eyes warm hazel-brown, locked and clear, NOT glitching, the one calm human point in the branded storm.
+
+VISUAL-LEAD NOTE: catch the glitch-overcorrection beat — the cold datamosh sweeping up Aira's body, the cream knit shredding into a clashing brand-logo billboard bodysuit, floating logos filling the room behind, her grin held a half-beat too long while her locked hazel-brown eyes stay calm and human in the centre.
+
+WARDROBE (LOOK A→B GLITCH — datamoshing into "Brand Billboard"): the cosy cream chunky-knit and pastel-yellow shorts caught mid-shred — a cold horizontal datamosh band sweeping up from the hem, pixel-smearing the soft knit into a patchwork bodysuit of clashing brand logos, packaging-tape sashes crossing the torso, a crinkled tissue-paper ruffle collar forming at the neck, barcode strips and "#AD" / "PR" motifs crawling across the fabric; the lower body already fully converted to the logo-clash bodysuit, the upper body still half cream knit dissolving into branded blocks; harsh, cold, over-branded, she is literally wearing the advertisements.
+
+FOOTWEAR (GLITCH — fuzzy cream slippers datamoshing into packaging-wrapped box-shoe platforms): the fuzzy cream house socks and slippers pixel-smearing into mismatched packaging-wrapped box-shoe platforms — one foot wrapped in branded packaging tape and bubble-wrap, the other a stacked cardboard-box platform with a barcode label, clashing and unstable mid-glitch; harsh and synthetic, the warm fuzz gone cold.
+
+ACCESSORIES (GLITCH): the small gold hoops glitching into floating logo bubbles orbiting her head; a packaging-tape belt cinching the bodysuit; barcode TAGS and "#AD" STICKERS crawling across her; box-flap shoulder pads forming at the shoulders; the glossy product still gripped in her hand but its label now smeared into generic glitched branding; the C92 "ETHICALLY SOURCED PIXELS" mug at the floor edge flickering with logo static.
+
+HAIR (GLITCH — cute messy bun datamoshing into over-styled glitchy logo-clip explosion): the cute high messy bun destabilising — the soft ribbon multiplying and glitching into a chaotic explosion of over-styled logo-printed clips and branded barrettes bursting from the crown, strands lifting in the cold electric charge; harsh and over-styled, the charming softness gone.
+
+MAKEUP (GLITCH — fresh glow datamoshing into glitchy over-applied brand-palette graphic): the fresh bright haul-day glow corrupting — the natural blush and balm pixel-smearing into a harsh over-applied brand-palette graphic, logo-coloured colour blocks (clashing primary brand reds, blues and yellows) bleeding across the lids and cheekbones in datamosh bands, a cold synthetic graphic liner glitching at the outer eye, the lips flickering between balm and a hard branded gloss; the warmth draining to a cold electric branded sheen — but the skin beneath still real with visible pores, never plastic, and the FACE itself never distorting.
+
+EYE COLOUR (LOCKED — NEVER GLITCHES): warm hazel-brown with a soft amber inner ring; both irises matched, no heterochromia, zero drift; the eyes never glitch even as everything around them datamoshes; clear, calm and human in the cold branded glare, the one steady point in the storm, with a crisp twin catchlight.
+
+HANDS & NAILS: the hand still gripping the glossy product, knuckles tightening a fraction as the glitch climbs her arm, packaging tape and barcode strips crawling over the wrist; the other hand half-lifted, fingers beginning to splay in dawning unease; short square nails glitching from fresh-pink gloss into clashing logo-coloured tips; correct finger count, no fusion, natural knuckle creases under the datamosh.
+
+FACIAL MICRO-DYNAMICS: the performed grin held a half-beat too long as the glitch overtakes the room — the smile starting to stiffen at the corners, brows beginning to pull together a millimetre, a first flicker of "wait—" surfacing behind the eyes; the camera-delight curdling into unease in real time, the face the only thing reacting honestly while everything else turns to branding.
+
+BODY POSTURE & WEIGHT: still caught mid-presentation up on her knees, torso angled to lens, the product still half-raised, but the shoulders beginning to tense and draw up as the cold datamosh climbs her body, weight locking on the shins, a micro-recoil starting in the spine; the pose frozen between performing and flinching (living stillness).
+
+KINETIC STILLNESS (8 layers): (1) the bun destabilising mid-glitch, logo-clips bursting outward and freezing at the apex; (2) a loose strand lifting at the temple in the cold electric charge; (3) a horizontal datamosh band sweeping up the torso, pixel-smearing the cream knit into logo blocks; (4) floating brand logos rising and flickering in the room behind her; (5) chest catching on a held uneasy half-breath; (6) a barcode strip crawling across the wrist, mid-travel; (7) the packaging-tape sash settling across the torso with a cold synthetic glint; (8) a barely-perceptible eyelash settle as the warm hazel-brown eyes hold steady and human through the chaos.
+
+SPATIAL LOGIC: FOREGROUND — the gripped product (label glitching into generic branding) and her tensing hand at roughly 20% frame depth, sharp. MIDGROUND — Aira up on her knees, three-quarter torso filling the frame, the brand-billboard bodysuit forming across her body. BACKGROUND — the cosy content-studio corner flickering into a wall of floating brand logos, barcode static and "#AD" motifs, the ring light flaring cold; depth compressed, the warmth draining out.
+
+LIGHTING: KEY — the ring light corrupting from warm beauty wrap into a cold electric branded glare, harsher and bluer. FILL — the soft daylight flickering and dropping, shadows hardening. RIM — a cold logo-coloured edge separating her from the floating-logo wall. PRACTICAL — the glitching logo bubbles and barcode static throwing erratic cold light. SEPARATION — the hyper-branded logo-clash neon grade, oversaturated and clashing (cold glitch state). BOUNCE — the floor kick turning cold and synthetic; the only warm steady light left is the soft natural catch in her locked eyes.
+
+FRAMING: ASPECT 9:16; medium kneeling three-quarter with ~10% headroom, the gripped product entering the lower-mid third; the floating-logo wall filling frame-right and behind; the datamosh band cutting horizontally across the lower torso; her steady face held in the upper-centre safe zone.
+SUBJECT FRAMING & POSITION: A medium kneeling framing holds Aira still up on her knees at about 10% headroom, the gripped product entering the lower-mid third as the cold datamosh band cuts horizontally across her lower torso. Her three-quarter-front torso is caught mid-presentation but beginning to tense — shoulders drawing up, a first micro-recoil entering the spine — frozen between performing and flinching as the glitch climbs her body. The camera holds the medium distance it pushed to, close enough to read the grin stiffening while the room converts behind her. Her steady face is anchored in the upper-centre safe zone as the one calm point, while the wall of floating brand logos masses into frame-right and behind. She remains front-facing to the lens, still angled into camera rather than profiled, even as the branding overtakes everything around her. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+
+LENS + DOF + BOKEH: 35mm, f/2.8; focus locked on her near eye (the one stable point) with the glitching product label a half-step soft; the floating-logo wall behind melting into a cold flickering field; hard-edged datamosh artifacts kept crisp on the bodysuit, gentle roll-off on the cold ring-light flare.
+
+COMPOSITION REFERENCE: glitch-art brand-overload still — a person turning into an advertisement, logo-clash neon and barcode static, the single calm human face anchoring the centre of the chaos.
+
+ATMOSPHERE: cold, harsh, over-branded — the buzzing electric dread of the performance tipping into its logical end-state, the warmth sucked out and replaced with branded glare, the air gone synthetic.
+
+COLOR GRADE: hyper-branded logo-clash neon (cold glitch state) — oversaturated clashing brand primaries, cold blue-shifted whites, harsh contrast, barcode static and datamosh banding; vibrant but deliberately discordant, never muddy (saturation discipline held even in the clash); the only warm note is the natural catch in her locked eyes.
+
+TEXTURE & MICRO-DETAIL: hard-edged datamosh pixel-smear along the wardrobe shred line; the packaging tape shows real plastic sheen and crinkle; barcode strips crisp and legible-but-generic; the logo bubbles glassy and cold; the brand-palette makeup graphic sits in hard colour blocks — yet the skin beneath stays real with visible pores and fine vellus fuzz at the jaw, and the face never pixelates; cold synthetic speculars off the tape and box-shoe platforms.
+
+STORY BEAT (silent): the overcorrection — the haul performance datamoshes into its honest extreme: she becomes a walking brand billboard, plastered in the logos she was just selling, the cosy creator dissolved into pure advertisement; and her face, held a half-beat too long, is the first thing to notice something is wrong.
+
+NEGATIVE: mirrored, flipped, inverted, extra limbs, fused fingers, melted features, asymmetric eyes (unintentional), heterochromia, eye-colour drift, glitched eyes, glitched/distorted face, garbled subject anatomy, floating shadows, duplicated subjects, low-res patches on skin, plastic skin, over-smoothed skin, oversharpened, AI-generated artifacts (unintended), watermarks, signature, deformed hands, malformed teeth, joint cuts at ankle/knee/wrist/elbow/neck, amputated fingertips, cross-eyed, lazy eye, off-axis pupils, mismatched footwear (unintended beyond the designed glitch), mannequin-stiff posture, dead eyes, statue-frozen energy.
+
+## Frame 3 of 6 — VIDEO PROMPT (THE OVERCORRECTION — LOOK A→B "BRAND BILLBOARD" · COLD LOGO GLITCH)
+
+SHOT TYPE: medium kneeling three-quarter, Aira up on her knees filling ≈58% of the vertical frame, the gripped product in the lower-mid third and the room behind her converting into a wall of floating brand logos.
+
+CAMERA MOVEMENT: the slow 6% push-in from F1–F2 continues for the first beat, then a single sharp glitch-jolt of the frame at the glitch-fire moment (micro-jolt) — one hard datamosh stutter, then the camera re-settles and holds locked-off; no whip, no handoff, the jolt motivated entirely by the glitch.
+
+LENS: 35mm, f/2.8, smooth creamy fall-off on the floating-logo wall, hard-edged datamosh artifacts kept crisp on the bodysuit.
+
+SUBJECT ACTION WITH TIMING (fine beats — no spoken line this frame):
+
+- 0.0–0.5s — Aira holds the peak presenting pose from F2, product still half-raised, grin wide to the ring-lit lens, the room still warm and bright.
+- 0.5–1.0s — a hard datamosh stutter cracks the frame; a cold pixel-band ignites at her hem and starts sweeping upward.
+- 1.0–1.5s — the band climbs her lower body, the pastel-yellow shorts pixel-smearing and shredding into the clashing logo bodysuit.
+- 1.5–2.0s — the cold band sweeps up the torso, the cream knit dissolving into brand-logo blocks, packaging-tape sashes snapping across the chest.
+- 2.0–2.5s — barcode strips and "#AD" motifs crawl up her arms; the crinkled tissue-paper ruffle collar forms at the neck.
+- 2.5–3.0s — the bun destabilises, the ribbon multiplying into a burst of logo-clips exploding from the crown.
+- 3.0–3.5s — the room behind flickers into a wall of floating brand logos; the ring light flares cold and bluer; the gold hoops glitch into orbiting logo bubbles.
+- 3.5–4.0s — her grin holds a half-beat too long, then the smile starts to stiffen at the corners.
+- 4.0–4.5s — her brows pull together a millimetre, a first flicker of "wait—" surfacing; shoulders tensing and drawing up, a micro-recoil in the spine.
+- 4.5–5.0s — the datamosh settles into the full brand-billboard look; she freezes mid-presentation, the warmth gone, her hazel-brown eyes steady and human in the centre.
+
+LIGHTING: the ring light corrupting from warm beauty wrap into a cold electric branded glare, harsher and bluer; the daylight fill flickering and dropping, shadows hardening; a cold logo-coloured rim edge; erratic cold light thrown by the glitching logo bubbles and barcode static; the only warm steady note left is the natural catch in her locked eyes.
+
+ENVIRONMENT: the cosy content-studio corner datamoshing into a wall of floating brand logos, barcode static and "#AD" motifs; the haul boxes flickering with logo glitch, tissue paper freezing mid-air; the air gone cold and synthetic.
+
+AUDIO: diegetic + SFX + external score only — no VO this frame. Ambient bed — the warm room tone collapsing into a cold electrical hum and digital static. SFX — a hard datamosh glitch-crack at 0.6s, a rising pixel-sweep zip from 0.8–2.0s, a packaging-tape snap at 1.7s, a barcode-static crackle at 2.3s, a cold logo-chime cluster at 3.1s, a low sub-drop as the glare turns cold at 3.6s. Reaction — a small uneasy caught half-breath at 4.1s. VO — none this frame (NON-TALKABLE).
+
+DURATION: 5 seconds (0:10–0:15 of 30s total).
+
+FRAME RATE + MOTION BLUR: 24fps acquisition, 180° shutter, natural motion blur on the body and hair; ONE deliberate hard digital stutter / datamosh frame-tear at the glitch-fire (0.6s) and a brief pixel-smear trail on the rising sweep — stylised glitch artifacts confined to wardrobe, props and room only; the face and eyes stay clean motion, never smeared; playback 24fps real-time.
+
+LIP-SYNC: none this frame — NON-TALKABLE; lips move only with the held grin stiffening and the small uneasy caught breath, no spoken words.
+
+FACIAL CONSISTENCY / IDENTITY LOCK: hold Aira's exact face, bone structure and warm hazel-brown eyes (soft amber inner ring, both irises matched, no heterochromia) locked to the reference across every beat; zero drift, no morphing; THE GLITCH never touches the face or eyes — they stay clean, calm and human as everything around them datamoshes (keyframe-lock).
+
+NEGATIVE: morphing or warping of the FACE, identity drift, glitched/distorted face, glitched or colour-drifting eyes, limb teleport, object pop-in (beyond the designed glitch), frame skip, mirrored composition, text overlay, watermark, AI artifact, ghosting (unintended), double-exposure unless intended, lip-sync drift, audio desync, any spoken words or VO this frame, unmotivated camera shake beyond the one designed jolt, physics violation on hair/fabric outside the glitch, mannequin posture, dead eyes, identity flicker.
+
+---
+
+## Frame 4 of 6 — IMAGE PROMPT (THE TURN — LOOK B HELD "BRAND BILLBOARD" · SHE CATCHES HERSELF AS A WALKING AD)
+
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+
+SCENE NOTE: the turn. The datamosh has fully resolved — Aira is frozen as the complete brand billboard, plastered head-to-toe in clashing logos, packaging tape and barcode, the room a cold wall of floating brand logos behind her. But the performance has stopped: she has glanced down at her own logo-plastered body and caught her reflection in the dark phone screen on the tripod — and SEEN it; she has become a walking advertisement for things she does not need. The grin is gone, her face dropped into a quiet dawning recognition, lips parted on a small caught breath, eyes steady and human in the branded glare. The first honest beat of the reel. (NON-TALKABLE — the realization is physical; no spoken line.) Eyes warm hazel-brown, locked and clear.
+
+VISUAL-LEAD NOTE: catch the catching-herself beat — Aira frozen as the full brand billboard, looking down at her own logo-plastered body and her reflection in the dark phone screen, the performed grin fallen into quiet recognition, her locked hazel-brown eyes clear and human amid the cold branded glare.
+
+WARDROBE (LOOK B held — "Brand Billboard"): the fully-formed patchwork bodysuit of clashing brand logos held still — packaging-tape sashes crossing the torso, a crinkled tissue-paper ruffle collar at the neck, barcode strips and "#AD" / "PR" motifs printed across the fabric in clashing primary brand colours; she is completely, literally wearing the advertisements, the cosy cream knit long gone; harsh and over-branded but now static, no longer mid-glitch.
+
+FOOTWEAR (mismatched packaging-wrapped box-shoe platforms): the mismatched box-shoe platforms held — one foot wrapped in branded packaging tape and bubble-wrap, the other a stacked cardboard-box platform with a barcode label; clashing, unstable, synthetic, the warm fuzz long gone, now settled into the billboard look.
+
+ACCESSORIES: floating logo bubbles orbiting her head; a packaging-tape belt cinching the bodysuit; barcode TAGS and "#AD" STICKERS across her; box-flap shoulder pads at the shoulders; the glossy product still gripped in her hand, its label a generic glitched brand; the C92 "ETHICALLY SOURCED PIXELS" mug at the floor edge, its honest line now pointed and ironic against the branding; the phone-on-tripod's dark screen catching her reflection back at her.
+
+HAIR (over-styled glitchy logo-clip explosion): the bun fully blown into the over-styled logo-clip explosion — a chaotic burst of logo-printed clips and branded barrettes fixed around the crown, strands stiff and over-styled, the charming softness gone; held static now, the cold electric charge settled.
+
+MAKEUP (held — glitchy over-applied brand-palette graphic): the harsh brand-palette graphic held — logo-coloured colour blocks (clashing primary brand reds, blues and yellows) sitting across the lids and cheekbones, a cold synthetic graphic liner at the outer eye, the lips in a hard branded gloss; over-applied and synthetic, but the skin beneath still real with visible pores, never plastic, and the face itself never distorting; now static, no longer glitch-banding.
+
+EYE COLOUR (LOCKED — NEVER GLITCHES): warm hazel-brown with a soft amber inner ring; both irises matched, no heterochromia, zero drift; the eyes never glitch even amid the held branded look; clear, calm and newly aware in the cold glare, the one steady human point, with a crisp twin catchlight.
+
+HANDS & NAILS: one hand still loosely gripping the glossy product but the grip going slack as she registers what she sees, the arm beginning to lower; the other hand drifting up toward her own collarbone in a small startled, self-aware gesture, fingers softly splayed; short square nails in the clashing logo-coloured tips left from the glitch; correct finger count, no fusion, natural knuckle creases.
+
+FACIAL MICRO-DYNAMICS: the performed grin fully gone — the mouth fallen soft, lips parted barely a millimetre on a small caught breath, brows drawn up and slightly together in dawning recognition, a flicker of "oh" behind the eyes; the gaze dropping from the lens down to her own logo-plastered body, then catching her reflection in the dark phone screen; the first fully honest expression of the reel, quiet and a little stricken.
+
+BODY POSTURE & WEIGHT: still up on her knees but the presenting energy collapsed — the torso softening and curling in a degree, shoulders dropping from their tense lift, the half-raised product arm lowering, weight settling back on the shins, the chin tucking a touch as she looks down at herself; the pose shifting from billboard-rigid into a small human recoil of recognition (living stillness).
+
+KINETIC STILLNESS (8 layers): (1) the logo-clip explosion in her hair held static, one clip catching a cold glint; (2) a loose strand at the temple settling from the glitch charge; (3) the floating logo bubbles drifting and slowly rotating around her head; (4) a barcode tag on her shoulder rocking a millimetre; (5) chest held on a small caught half-breath; (6) the product arm lowering a few degrees, mid-descent; (7) the packaging-tape sash catching a cold synthetic glint as she curls in; (8) a barely-perceptible eyelash settle as her aware hazel-brown eyes hold on her reflection.
+
+SPATIAL LOGIC: FOREGROUND — the dark phone-on-tripod screen at the frame edge holding her small branded reflection at roughly 20% frame depth, sharp. MIDGROUND — Aira up on her knees, three-quarter torso filling the frame, gaze dropped to her own logo-plastered body. BACKGROUND — the cold wall of floating brand logos, barcode static and "#AD" motifs, the ring light steady-cold; depth compressed, the warmth gone.
+
+LIGHTING: KEY — the corrupted ring light holding its cold electric branded glare, bluer and harder than F1–F2. FILL — the daylight stayed dropped, shadows hard. RIM — a cold logo-coloured edge from the floating-logo wall. PRACTICAL — the logo bubbles and barcode static throwing soft erratic cold light; the dark phone screen kicking a faint cold reflection onto her face. SEPARATION — the hyper-branded logo-clash neon grade held (cold state). BOUNCE — the floor kick cold and synthetic; the only warm note left is the soft natural catch in her locked, now-aware eyes.
+
+FRAMING: ASPECT 9:16; medium kneeling three-quarter with ~10% headroom, her dropped gaze and the phone-screen reflection anchoring the lower-mid third; the floating-logo wall filling frame-right and behind; her quiet face held in the upper-centre safe zone; the negative space frame-left now reading cold and empty.
+SUBJECT FRAMING & POSITION: A medium kneeling framing keeps Aira on her knees at about 10% headroom, but the presenting energy has collapsed inward — her torso softening and curling a degree, shoulders dropping, the product arm lowering, the chin tucking as her gaze falls off the lens and down toward her own logo-plastered body. Her three-quarter-front orientation now caves gently in on itself, the head bowed rather than addressing camera. The camera holds at its settled medium distance, close enough to read the quiet, stricken recognition. Her dropped gaze and her small branded reflection in the dark phone screen anchor the lower-mid third, the floating-logo wall fills frame-right and behind, and the negative space camera-left now reads cold and empty; her quiet face stays held in the upper-centre safe zone. She remains turned toward camera in posture but looks downward and inward, no longer presenting out. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+
+LENS + DOF + BOKEH: 35mm, f/2.8; focus locked on her near eye and her small reflection in the dark phone screen so both read crisp; the floating-logo wall melting into a cold flickering field; hard-edged barcode and logo artifacts kept crisp on the held bodysuit; gentle roll-off on the cold ring-light flare.
+
+COMPOSITION REFERENCE: glitch-art self-recognition still — a person who has become a walking advertisement catching her own reflection, logo-clash neon and barcode static, the single calm honest face anchoring the centre.
+
+ATMOSPHERE: cold, hollow, still — the buzzing branded glare gone quiet as the performance stops; the synthetic air holding its breath in the first honest beat, the loudness draining into recognition.
+
+COLOR GRADE: hyper-branded logo-clash neon held (cold state) — oversaturated clashing brand primaries, cold blue-shifted whites, harsh contrast, barcode static and logo banding; vibrant but deliberately discordant, never muddy (discipline held); the only warm note is the natural catch in her locked, now-aware eyes.
+
+TEXTURE & MICRO-DETAIL: the packaging tape shows real plastic sheen and crinkle; barcode strips crisp and legible-but-generic; the logo bubbles glassy and cold; the brand-palette makeup graphic sits in hard colour blocks — yet the skin beneath stays real with visible pores and fine vellus fuzz at the jaw, and the face never pixelates; the dark phone screen shows a faint smeared reflection with a cold sheen; cold synthetic speculars off the tape and box-shoe platforms.
+
+STORY BEAT (silent): the turn — she catches herself in the dark phone screen and finally SEES it: she has become the advertisement, head-to-toe branding for things she does not need; the performance stops dead, and for the first time in the reel her face tells the truth.
+
+NEGATIVE: morphing or warping of the FACE, identity drift, glitched/distorted face, glitched or colour-drifting eyes, limb teleport, unintended object pop-in beyond the held glitch, frame skip, mirrored composition, garbled text, floating shadows, duplicated subjects, low-res patches on skin, plastic skin, over-smoothed skin, oversharpened, AI-generated artifacts (unintended), watermarks, signature, deformed hands, malformed teeth, joint cuts at ankle/knee/wrist/elbow/neck, amputated fingertips, cross-eyed, lazy eye, off-axis pupils, mannequin-stiff posture, dead eyes, statue-frozen energy.
+
+SHOT TYPE: medium kneeling three-quarter, Aira up on her knees filling ≈56% of the vertical frame, the dark phone-on-tripod screen at the frame edge holding her small branded reflection, the cold floating-logo wall behind.
+
+CAMERA MOVEMENT: the push-in from F1–F3 finally stops — the camera settles and holds locked-off for the whole frame (near-still hold), only a single almost-imperceptible 2% drift-in on the realization beat, then ease to a complete rest; no whip, no jolt this frame, the stillness mirroring the performance stopping.
+
+LENS: 35mm, f/2.8, smooth creamy fall-off on the floating-logo wall, her near eye and her phone-screen reflection both held crisp.
+
+SUBJECT ACTION WITH TIMING (fine beats — no spoken line this frame):
+
+- 0.0–0.5s — Aira holds the settled brand-billboard freeze from F3, grin already faded, the product still half-raised.
+- 0.5–1.0s — her eyes flick down off the lens toward her own logo-plastered torso.
+- 1.0–1.5s — her gaze travels down her body, taking in the packaging-tape sashes and barcode strips.
+- 1.5–2.0s — the product grip goes slack; the raised arm begins to lower a few degrees.
+- 2.0–2.5s — she catches her reflection in the dark phone screen on the tripod and stills.
+- 2.5–3.0s — lips part barely a millimetre on a small caught breath; brows draw up and slightly together.
+- 3.0–3.5s — her free hand drifts up toward her collarbone in a small startled, self-aware gesture.
+- 3.5–4.0s — the torso softens and curls in a degree, shoulders dropping from their tense lift.
+- 4.0–4.5s — a flicker of "oh" settles behind her steady hazel-brown eyes; the chin tucks a touch.
+- 4.5–5.0s — she holds the quiet stricken recognition, the first honest beat landing as the frame eases on.
+
+LIGHTING: the corrupted ring light holding its cold electric branded glare, bluer and harder than F1–F2; the daylight fill stayed dropped, shadows hard; a cold logo-coloured rim from the floating-logo wall; the dark phone screen kicking a faint cold reflection onto her face; the only warm steady note left is the natural catch in her now-aware eyes.
+
+ENVIRONMENT: the cosy content-studio corner held as a cold wall of floating brand logos, barcode static and "#AD" motifs; the haul boxes flickering faintly with logo glitch; the phone-on-tripod's dark screen throwing her small branded reflection; the air cold and synthetic, the buzzing gone quiet.
+
+AUDIO: diegetic + SFX + external score only — no VO this frame. Ambient bed — a cold electrical hum with faint digital static, dropping quieter as the performance stops. SFX — a soft slack-grip product creak at 1.7s, a faint phone-screen capacitive tick as she catches her reflection at 2.2s, a small cloth-rustle as her hand lifts to her collarbone at 3.1s, the logo-bubble hum thinning at 4.0s. Reaction — a small caught half-breath at 2.6s. VO — none this frame (NON-TALKABLE).
+
+DURATION: 5 seconds (0:15–0:20 of 30s total).
+
+FRAME RATE + MOTION BLUR: 24fps acquisition, 180° shutter, natural motion blur on the slow arm-lower and the hand lifting to her collarbone; NO glitch artifacts this frame — the datamosh has settled, motion is clean and human throughout; the only residual movement is the slow drift of the floating logo bubbles; playback 24fps real-time.
+
+LIP-SYNC: none this frame — NON-TALKABLE; lips move only with the small caught breath and the soft parting on recognition, no spoken words.
+
+FACIAL CONSISTENCY / IDENTITY LOCK: hold Aira's exact face, bone structure and warm hazel-brown eyes (soft amber inner ring, both irises matched, no heterochromia) locked to the reference across every beat; zero drift, no morphing; the face and eyes stay clean and human — they never glitched and do not now — carrying the quiet recognition honestly (keyframe-lock).
+
+NEGATIVE: morphing or warping of the FACE, identity drift, glitched/distorted face, glitched or colour-drifting eyes, limb teleport, unintended object pop-in, frame skip, mirrored composition, text overlay, watermark, AI artifact, ghosting (unintended), double-exposure unless intended, lip-sync drift, audio desync, any spoken words or VO this frame, wardrobe drift, unmotivated camera shake, physics violation on hair/fabric, mannequin posture, dead eyes, identity flicker, any new datamosh on the face.
+
+---
+
+## Frame 5 of 6 — IMAGE PROMPT (THE CHANGE — LOOK C "CURATOR" · WARM RECLAIM GLITCH · SHE SORTS THE HAUL HONESTLY)
+
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+
+SCENE NOTE: the change. THE GLITCH fires again — but warm this time: a soft golden datamosh sweeps DOWN her body and the cold brand-billboard bodysuit dissolves and reassembles into LOOK C "Curator" — a clean sage-green linen shirt and soft oatmeal trousers, calm and grounded; the cold floating-logo wall behind warms back into honest daylight, the boxes resolving from glitch-static into real cardboard. She has dropped from her knees to sit calmly on the floor, the haul spread in front of her, mid-SORT — one hand setting the glossy product down into a "pass it on" donation box, the other cradling the single small terracotta-potted plant she is keeping. The reclaim beat: she stops performing and starts choosing. (NON-TALKABLE — the calm is physical; no spoken line.) Eyes warm hazel-brown, clear and settled in the warm light.
+
+VISUAL-LEAD NOTE: catch the warm-reclaim sorting beat — the golden datamosh dissolving the brand-billboard into the calm sage-green curator look, Aira sitting on the floor mid-sort, setting a product into the "pass it on" box with one hand while cradling the small terracotta plant she keeps in the other, her hazel-brown eyes clear and settled.
+
+WARDROBE (LOOK B→C GLITCH — datamoshing warmly into "Curator"): the clashing brand-billboard bodysuit caught mid-dissolve — a soft golden datamosh band sweeping down from the shoulders, the logos, packaging tape and barcode warming and resolving into a clean sage-green linen shirt with the sleeves loosely rolled, worn over soft oatmeal wide trousers; the upper body already fully resolved to the calm linen, the lower body still half logo-clash warming into oatmeal; grounded, honest, dressed like a person and not a billboard.
+
+FOOTWEAR (GLITCH — box-shoe platforms warming into simple tan suede loafers): the mismatched packaging-wrapped box-shoe platforms dissolving in the warm band into simple tan suede loafers, soft and grounded, the synthetic chill gone warm and real, feet settling flat as she sits.
+
+ACCESSORIES (GLITCH + heroes): the floating logo bubbles and barcode tags dissolving warmly out of frame; simple small stud earrings resolving where the logo bubbles were; HERO — the single small TERRACOTTA-POTTED PLANT she keeps cradled in one hand, a hand-written brand THANK-YOU NOTE tucked beside her, the rest of the haul going into a "PASS IT ON" DONATION BOX; the glossy product mid-descent into the donation box; the C92 "ETHICALLY SOURCED PIXELS" mug back to warm and honest at the floor edge; the C99 sticky note "make it mean something" just visible on the wall behind.
+
+HAIR (GLITCH — over-styled logo-clip explosion warming into a soft low tuck): the chaotic logo-clip explosion dissolving in the warm band — the clips melting away and the hair smoothing down into a soft low tuck-behind-the-ear, natural and calm, a few real soft pieces framing the face, the charming softness restored.
+
+MAKEUP (soft bare real skin + tinted balm): the harsh brand-palette graphic fully dissolved in the warm band into soft bare real skin — a barely-there natural base letting freckles and real texture show through, a soft cream-peach flush warmed back onto the apples, fluffy natural brows, a simple tinted lip balm with a soft (not glossy) sheen, no graphic liner; calm, honest and lit-from-within, skin real and dewy with visible pores and fine vellus texture, the most natural face of the reel.
+
+EYE COLOUR (LOCKED — NEVER GLITCHES): warm hazel-brown with a soft amber inner ring; both irises matched, no heterochromia, zero drift; the eyes never glitch; clear, calm and settled in the warm honest light, a soft warm catchlight replacing the cold one, the steady human point now matching the rest of her.
+
+HANDS & NAILS: one hand lowering the glossy product down into the "pass it on" donation box with a calm deliberate release, fingers relaxed; the other hand cradling the small terracotta-potted plant against her front, thumb resting gently on the rim of the pot; short square nails, the clashing logo-coloured tips dissolved back to a clean bare natural nail with a soft buff, cuticles neat; correct finger count, no fusion, natural knuckle creases.
+
+FACIAL MICRO-DYNAMICS: the stricken recognition softening into calm resolve — the brows easing back down level, the mouth settling into a small private almost-smile (not for camera), the eyes lowering to the plant in her hand with quiet warmth, a slow steadying breath releasing the tension; the first genuinely peaceful expression of the reel, choosing rather than performing.
+
+BODY POSTURE & WEIGHT: now sitting calmly with her knees folded to one side on the floor among the sorted haul, torso relaxed and upright but no longer presenting to camera, weight settled evenly, shoulders dropped and easy, the chin level and soft, one arm extended to the donation box and the other drawn in around the plant; the whole posture grounded, human and intentional (living stillness).
+
+KINETIC STILLNESS (8 layers): (1) the last warm golden datamosh pixels dissolving off the lower trousers, fading to nothing; (2) a soft loose strand from the low tuck drifting at the jaw in the warm air; (3) the small terracotta plant's leaves settling with a tiny sway as she cradles it; (4) the glossy product mid-descent into the donation box, almost set down; (5) chest easing on a slow steadying exhale; (6) a curl of real tissue paper rocking gently on the floor as the boxes resolve; (7) the sage-green linen settling across her shoulder with a soft matte highlight shift; (8) a barely-perceptible eyelash settle as her calm hazel-brown eyes lower to the plant.
+
+SPATIAL LOGIC: FOREGROUND — the small terracotta-potted plant cradled in her hand and the "pass it on" donation box receiving the product at roughly 20% frame depth, sharp. MIDGROUND — Aira sitting with her knees folded to one side, three-quarter torso filling the frame, mid-sort. BACKGROUND — the content-studio corner warmed back to honest daylight, the boxes resolved to real cardboard, the C99 sticky note "make it mean something" just visible on the wall; depth soft, the warmth restored.
+
+LIGHTING: KEY — the ring light resolved back into a soft warm honest daylight key, gentle and flattering, the cold glare gone. FILL — soft natural daylight from the window lifting the shadows warm and clean. RIM — a soft warm kick separating the low tuck and shoulder from the background. PRACTICAL — no cold sources remaining; the warm window light is the motivated key. SEPARATION — the warm honest natural-light grade, calm and real. BOUNCE — a soft warm floor kick lifting the under-chin; the warm catch restored in her settled eyes.
+
+FRAMING: ASPECT 9:16; medium-wide seated three-quarter with ~12% headroom, the cradled terracotta plant and the "pass it on" donation box anchoring the lower third; the warmed content-studio floor opening frame-left; her calm face held in the upper-centre safe zone; clean warm negative space restored.
+SUBJECT FRAMING & POSITION: A medium-wide seated framing settles Aira down from her knees to the floor with about 12% headroom, knees folded to one side, the cradled terracotta plant and the "pass it on" donation box anchoring the lower third. Her torso has relaxed into an easy three-quarter that no longer squares to the lens — turned a little toward the haul spread in front of her, one arm reaching to the donation box and the other drawn in around the small plant, her attention down on the sorting rather than out to camera. The camera eases back to a calm medium-wide, breathing room into the warmed scene. She sits a touch right-of-centre with the warmed content-studio floor opening camera-left, her calm face held in the upper-centre safe zone. She is three-quarter to the lens but inward-facing, absorbed in choosing rather than performing. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+
+LENS + DOF + BOKEH: 35mm, f/2.8; focus split between her near eye and the small terracotta plant in her hand so both read crisp; the warmed background melting to a soft honest field; the last dissolving warm datamosh pixels kept gently soft; smooth highlight roll-off on the warm daylight, no clipping.
+
+COMPOSITION REFERENCE: warm editorial-real still — a creator sitting on the floor sorting a haul, calm and grounded, the single kept plant and the donation box telling the story, honest natural light, the opposite of the glossy haul performance.
+
+ATMOSPHERE: warm, calm, honest — the synthetic branded chill fully gone, replaced with grounded daylight and quiet intention; the air settled, the performance over, the room breathing real again.
+
+COLOR GRADE: warm honest natural light — soft true skin tones, calm sage-green and oatmeal neutrals, warm clean whites, blacks soft and natural, full mid-tone detail, gentle and real; vibrant but calm, never muddy.
+
+TEXTURE & MICRO-DETAIL: the sage-green linen shows real slubby weave and soft matte drape; the terracotta pot reads with real matte clay grain and a faint earthy texture, the plant leaves with fine real veining; the cardboard donation box shows honest kraft-paper fibre; the hand-written thank-you note shows real ink on paper; real skin micro-texture with visible pores and fine vellus fuzz at the jaw; the last warm datamosh pixels dissolving softly at the trouser hem.
+
+STORY BEAT (silent): the change — the warm glitch undoes the billboard and gives her back to herself; she sits down, stops performing, and starts choosing, setting the bought excitement into the "pass it on" box and keeping the one small living thing she actually loves.
+
+NEGATIVE: morphing or warping of the FACE, identity drift, glitched/distorted face, glitched or colour-drifting eyes, extra limbs, fused fingers, melted features, asymmetric eyes (unintentional), heterochromia, garbled text, floating shadows, duplicated subjects, low-res patches on skin, plastic skin, over-smoothed skin, oversharpened, AI-generated artifacts, watermarks, signature, deformed hands, malformed teeth, joint cuts at ankle/knee/wrist/elbow/neck, amputated fingertips, cross-eyed, lazy eye, off-axis pupils, melted clothing, mismatched footwear, mannequin-stiff posture, dead eyes, statue-frozen energy, garbled label text, any residual cold glitch on the face.
+
+SHOT TYPE: medium-wide seated three-quarter, Aira sitting on the floor filling ~56% of the vertical frame, the cradled terracotta plant and the "pass it on" donation box in the lower third, the warmed content-studio floor opening behind.
+
+CAMERA MOVEMENT: a slow gentle 4% push-OUT across the frame (reverse near-still drift) — the opposite of F4's cold-frame stillness — easing back a touch to reveal the sorted floor and the donation box, locked-off otherwise; no whip, no jolt, the soft pull-back breathing with the warm resolve.
+
+LENS: 35mm, f/2.8, smooth creamy fall-off on the warmed background.
+
+SUBJECT ACTION WITH TIMING (fine beats — no spoken line this frame):
+
+- 0.0–0.5s — Aira holds the recognition beat from F4, then a soft warm golden datamosh band begins sweeping down from her shoulders.
+- 0.5–1.0s — the brand-billboard bodysuit dissolves into the calm sage-green linen across her torso, her shoulders dropping as it warms.
+- 1.0–1.5s — the warm band sweeps down to her legs, the logo-clash trousers resolving into soft oatmeal; the box-shoes warming into tan loafers.
+- 1.5–2.0s — she lowers from her knees and settles to sit on the floor, knees folding to one side, weight easing down.
+- 2.0–2.5s — the floating logo bubbles dissolve warmly out of frame; the room behind warms back into honest daylight.
+- 2.5–3.0s — she looks down at the haul spread in front of her, the small private almost-smile beginning.
+- 3.0–3.5s — she lifts the small terracotta-potted plant and cradles it against her front, thumb resting on the rim.
+- 3.5–4.0s — her other hand picks up the glossy product and moves it out over the "pass it on" donation box.
+- 4.0–4.5s — she releases the product down into the box with a calm deliberate set-down.
+- 4.5–5.0s — she settles, gaze lowering to the plant with quiet warmth, a slow steadying breath, the calm holding.
+
+LIGHTING: the corrupted cold glare resolving back into a soft warm honest daylight key, gentle and flattering; warm window fill lifting the shadows clean; a soft warm rim on the low tuck and shoulder; the cold logo light fully gone; the warm catch restored in her settled eyes.
+
+ENVIRONMENT: the cosy content-studio corner warming back from the cold logo wall into honest daylight, the boxes resolving from glitch-static into real cardboard; the "pass it on" donation box and the small terracotta plant in front of her; the C92 "ETHICALLY SOURCED PIXELS" mug back to warm at the floor edge, the C99 sticky note on the wall; the air warm and settled.
+
+AUDIO: diegetic + SFX + external score only — no VO this frame. Ambient bed — the cold electrical hum warming back into a soft warm room tone. SFX — a warm reverse-shimmer swell as the datamosh warms from 0.2–1.5s, a soft cloth-settle as she sits at 1.8s, a gentle terracotta-pot lift-scrape at 3.2s, a soft cardboard product set-down into the box at 4.2s. Reaction — a slow steadying exhale at 4.6s. VO — none this frame (NON-TALKABLE).
+
+DURATION: 5 seconds (0:20–0:25 of 30s total).
+
+FRAME RATE + MOTION BLUR: 24fps acquisition, 180° shutter, natural motion blur on the settle-to-sit and the hands sorting; the warm datamosh dissolve uses a soft warm shimmer-melt (the inverse of F3's hard cold tear) confined to wardrobe, room and props ONLY — gentle, organic, never hard-edged; the face and eyes stay clean human motion throughout; playback 24fps real-time.
+
+LIP-SYNC: none this frame — NON-TALKABLE; lips move only with the small private almost-smile and the slow steadying breath, no spoken words.
+
+FACIAL CONSISTENCY / IDENTITY LOCK: hold Aira's exact face, bone structure and warm hazel-brown eyes (soft amber inner ring, both irises matched, no heterochromia) locked to the reference across every beat; zero drift, no morphing; the warm glitch never touches the face or eyes — they stay clean, calm and human as the warm datamosh resolves everything around them (keyframe-lock).
+
+NEGATIVE: morphing or warping of the FACE, identity drift, glitched/distorted face, glitched or colour-drifting eyes, limb teleport, unintended object pop-in beyond the designed warm glitch, frame skip, mirrored composition, text overlay, watermark, AI artifact, ghosting (unintended), double-exposure unless intended, lip-sync drift, audio desync, any spoken words or VO this frame, wardrobe drift outside the designed glitch, unmotivated camera shake, physics violation on hair/fabric outside the glitch, mannequin posture, dead eyes, identity flicker, any cold glitch returning to the face.
+
+---
+
+## Frame 6 of 6 — IMAGE PROMPT (THE PAYOFF — LOOK C "CURATOR" · SHE KEEPS THE ONE REAL THING)
+
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+
+SCENE NOTE: the payoff. The change is complete and held — Aira sits calm and grounded on her now-cleared studio floor in the sage-green linen Curator look, the haul fully sorted: the "pass it on" donation box packed and taped, set aside by the door, and the single small terracotta-potted plant she kept settled on the low shelf beside her, her hand resting on the rim of the pot. The phone-on-tripod sits dark and ignored; the performance is fully over. She holds a small private content smile, having kept the one thing she'll actually use and let the rest go. The resolution beat: keep what you'd actually use. (NON-TALKABLE — the contentment is physical; no spoken line.) Eyes warm hazel-brown, clear, settled and at peace.
+
+VISUAL-LEAD NOTE: catch the payoff beat — Aira calm on her cleared floor in the sage-green Curator look, the packed "pass it on" donation box set aside, the single small terracotta plant kept and settled beside her with her hand resting on the pot, a small private content smile, her hazel-brown eyes settled and at peace.
+
+WARDROBE (LOOK C held — "Curator"): the clean sage-green linen shirt with the sleeves loosely rolled, worn over soft oatmeal wide trousers, held fully resolved and static — no datamosh, no logos, calm and grounded; the linen drapes natural and lived-in, dressed like a person and not a billboard; zero wardrobe drift from F5's resolved look.
+
+FOOTWEAR (held — simple tan suede loafers): the simple tan suede loafers held, soft and grounded, feet settled flat and tucked beside her as she sits; warm and real, the synthetic chill long gone.
+
+ACCESSORIES (held + heroes): simple small stud earrings; HERO — the single small TERRACOTTA-POTTED PLANT she kept, now settled on the low shelf beside her with her hand resting on the rim of the pot; the "PASS IT ON" DONATION BOX packed, taped and set aside by the door, the glossy products visible inside; the hand-written brand THANK-YOU NOTE resting on top of the box; the C92 "ETHICALLY SOURCED PIXELS" mug warm and honest at the floor edge; the C99 sticky note "make it mean something" on the wall behind; the phone-on-tripod dark and ignored.
+
+HAIR (held — soft low tuck-behind-the-ear): the soft low tuck-behind-the-ear held, natural and calm, a few real soft pieces framing the face catching the warm daylight; the charming softness fully restored, zero styling drift from F5.
+
+MAKEUP (held — soft bare real skin + tinted balm): the same calm bare-real face as F5, held with zero drift — a barely-there natural base letting freckles and real texture show through, a soft cream-peach flush warm on the apples, fluffy natural brows, a simple tinted lip balm with a soft (not glossy) sheen, no graphic liner; calm, honest and lit-from-within, skin real and dewy with visible pores and fine vellus texture, the most natural face of the reel held to the end.
+
+EYE COLOUR (LOCKED — NEVER GLITCHES): warm hazel-brown with a soft amber inner ring; both irises matched, no heterochromia, zero drift; the eyes never glitch; clear, calm, settled and at peace in the warm honest light, a soft warm catchlight, the steady human point matching the calm of the whole frame.
+
+HANDS & NAILS: one hand resting gently on the rim of the small terracotta plant's pot beside her, fingers relaxed and softly curved; the other hand resting easy in her lap, no tension; short square nails in a clean bare natural buff, cuticles neat; correct finger count, no fusion, natural knuckle creases.
+
+FACIAL MICRO-DYNAMICS: a small private content smile — the mouth softly upturned, not for camera, the eyes warm and settled with a faint crinkle of quiet satisfaction at the outer corners, the brows level and easy, a slow calm breath; the most at-peace expression of the reel, the look of someone who has chosen well.
+
+BODY POSTURE & WEIGHT: sitting calm and grounded on the cleared floor, knees folded comfortably to one side, torso upright and easy but relaxed, weight settled evenly, shoulders dropped and open, chin level and soft, one hand on the plant pot and the other resting easy; the whole posture content, human and intentional, completely free of the performing energy (living stillness).
+
+KINETIC STILLNESS (8 layers): (1) a soft loose strand from the low tuck drifting gently at the jaw in the warm air; (2) the small terracotta plant's leaves settling with a tiny sway under her resting hand; (3) chest easing on a slow calm breath; (4) dust motes drifting slow through the warm window beam; (5) the sage-green linen breathing with a micro-shift of matte highlight as she breathes; (6) a faint warm light-shift across the kraft donation box as the air moves; (7) the thank-you note's edge lifting a hair in the room air; (8) a barely-perceptible eyelash settle as her calm eyes rest on the plant.
+
+SPATIAL LOGIC: FOREGROUND — the small terracotta-potted plant on the low shelf with her hand resting on the rim at roughly 20% frame depth, sharp. MIDGROUND — Aira sitting calm, three-quarter torso filling the frame, the content smile turned a touch off-lens. BACKGROUND — the cleared content-studio floor, the packed "pass it on" donation box set aside by the door, the dark ignored phone-on-tripod, the C99 sticky note on the wall; depth soft and warm, honest daylight throughout.
+
+LIGHTING: KEY — soft warm honest daylight key from the window, gentle and flattering, the cold glare entirely gone. FILL — soft natural bounce lifting the shadows warm and clean. RIM — a soft warm kick separating the low tuck and shoulder from the warm background. PRACTICAL — no cold sources; the warm window light is the sole motivated key. SEPARATION — the warm honest natural-light grade, calm and real. BOUNCE — a soft warm floor kick lifting the under-chin; the warm catch held in her settled eyes.
+
+FRAMING: ASPECT 9:16; medium-wide seated three-quarter with ~12% headroom, the kept terracotta plant on the low shelf and her resting hand anchoring the lower third; the cleared floor and the set-aside donation box opening frame-left; her calm content face held in the upper-centre safe zone; clean warm negative space, the most settled composition of the reel.
+SUBJECT FRAMING & POSITION: A medium-wide seated framing holds Aira calm and grounded on the cleared floor at about 12% headroom, knees folded comfortably to one side, the single kept terracotta plant on the low shelf and her resting hand anchoring the lower third. Her torso is upright and easy in a gentle three-quarter, the small private content smile turned just a touch off the lens — settled and self-contained rather than addressed to camera. The camera sits at a warm medium-wide and drifts gently inward to close the reel intimate. She is placed a touch right-of-centre with the cleared floor and the packed, set-aside donation box opening camera-left, her peaceful face held in the upper-centre safe zone in the most settled composition of the piece. She faces three-quarter to the lens with her gaze resting softly on the plant, content rather than performing. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+
+LENS + DOF + BOKEH: 35mm, f/2.8; focus split between her near eye and the small terracotta plant under her hand so both read crisp; the cleared background and the set-aside donation box melting to a soft honest field; smooth highlight roll-off on the warm daylight, no clipping.
+
+COMPOSITION REFERENCE: warm editorial-real resolution still — a creator at peace on a cleared floor, the single kept plant and the packed donation box telling the whole story, honest natural light, the calm opposite of the opening haul gloss.
+
+ATMOSPHERE: warm, calm, resolved — the synthetic branded chill a distant memory, the room breathing real and settled; the quiet contentment of having chosen well, the air soft with honest daylight and the faint green of the kept plant.
+
+COLOR GRADE: warm honest natural light — soft true skin tones, calm sage-green and oatmeal neutrals, warm clean whites, blacks soft and natural, full mid-tone detail, gentle and real; vibrant but calm, never muddy.
+
+TEXTURE & MICRO-DETAIL: the sage-green linen shows real slubby weave and soft matte drape; the terracotta pot reads with real matte clay grain and fine leaf veining; the taped kraft donation box shows honest cardboard fibre and a real packing-tape sheen; the hand-written thank-you note shows real ink on paper; real skin micro-texture with visible pores and fine vellus fuzz at the jaw; slow dust motes drifting in the warm window beam.
+
+STORY BEAT (silent): the payoff — the haul is sorted, the noise is gone, and what's left is one small living thing she actually wanted and a box of everything she didn't, set aside to pass on; keep what you'd actually use.
+
+NEGATIVE: morphing or warping of the FACE, identity drift, glitched/distorted face, glitched or colour-drifting eyes, extra limbs, fused fingers, melted features, asymmetric eyes (unintentional), heterochromia, garbled text, floating shadows, duplicated subjects, low-res patches on skin, plastic skin, over-smoothed skin, oversharpened, AI-generated artifacts, watermarks, signature, deformed hands, malformed teeth, joint cuts at ankle/knee/wrist/elbow/neck, amputated fingertips, cross-eyed, lazy eye, off-axis pupils, melted clothing, mismatched footwear, mannequin-stiff posture, dead eyes, statue-frozen energy, garbled label text, any residual glitch on the face.
+
+## Frame 6 of 6 — VIDEO PROMPT (THE PAYOFF — LOOK C "CURATOR" · SHE KEEPS THE ONE REAL THING)
+
+SHOT TYPE: medium-wide seated three-quarter, Aira sitting calm on the cleared floor filling ~56% of the vertical frame, the kept terracotta plant on the low shelf with her hand on the pot rim in the lower third, the packed donation box set aside by the door behind.
+
+CAMERA MOVEMENT: a gentle slow 3% push-IN across the frame (near-still drift-in), the quiet inverse of F5's pull-back — easing softly toward the content smile and the kept plant to close the reel intimate, locked-off otherwise; no whip, no jolt, the slow drift breathing with the settled calm, easing to a complete rest on the final beat.
+
+LENS: 35mm, f/2.8, smooth creamy fall-off on the cleared warm background.
+
+SUBJECT ACTION WITH TIMING (fine beats — no spoken line this frame):
+
+- 0.0–0.5s — Aira sits settled on the cleared floor, one hand resting on the rim of the kept terracotta plant's pot, the small private content smile already held.
+- 0.5–1.0s — she lets out a slow calm breath, shoulders easing a fraction lower.
+- 1.0–1.5s — her thumb brushes once gently along the warm clay rim of the pot.
+- 1.5–2.0s — her gaze drifts from the plant out across the cleared floor to the packed donation box by the door.
+- 2.0–2.5s — a faint deepening of the content smile as she takes in the cleared, calm space.
+- 2.5–3.0s — she gives the small plant's leaf the lightest touch with a fingertip, a tiny private check-in.
+- 3.0–3.5s — her eyes settle back warm and easy on the plant, the faint crinkle of quiet satisfaction at the corners.
+- 3.5–4.0s — chest eases on another slow calm breath, the sage-green linen shifting with a soft matte highlight.
+- 4.0–4.5s — a barely-there nod to herself, the look of someone who has chosen well.
+- 4.5–5.0s — she holds the calm content stillness, hand resting on the pot, the reel settling to its peaceful close.
+
+LIGHTING: soft warm honest daylight key from the window, gentle and flattering, no cold sources remaining; warm natural fill lifting the shadows clean; a soft warm rim on the low tuck and shoulder; the warm catch held steady in her settled eyes throughout.
+
+ENVIRONMENT: the cleared content-studio floor warm and calm in honest daylight, the kept terracotta plant on the low shelf beside her, the packed "pass it on" donation box taped and set aside by the door with products visible inside, the thank-you note resting on top, the C92 mug warm at the floor edge, the C99 sticky note "make it mean something" on the wall, the phone-on-tripod dark and ignored; the air warm, settled and real.
+
+AUDIO: diegetic + SFX + external score only — no VO this frame. Ambient bed — a soft warm room tone, calm and quiet. SFX — a soft slow exhale at 0.6s, a faint clay-rim thumb-brush at 1.2s, a gentle leaf-rustle at 2.7s, a soft fabric-settle as her shoulders ease at 3.8s. Reaction — a slow contented breath at 4.2s. VO — none this frame (NON-TALKABLE).
+
+DURATION: 5 seconds (0:25-0:30 of 30s total).
+
+FRAME RATE + MOTION BLUR: 24fps acquisition, 180° shutter, natural gentle motion blur on the slow calm breath, the thumb-brush along the clay pot rim and the light leaf-touch; NO glitch artifacts anywhere this frame — the datamosh is fully resolved and gone, motion is clean, calm and human throughout; the only ambient movement is the slow drift of dust motes in the warm window beam; playback 24fps real-time.
+
+LIP-SYNC: none this frame — NON-TALKABLE; lips move only with the small private content smile and the slow calm breaths, no spoken words.
+
+FACIAL CONSISTENCY / IDENTITY LOCK: hold Aira's exact face, bone structure and warm hazel-brown eyes (soft amber inner ring, both irises matched, no heterochromia) locked to the reference across every beat; zero drift, no morphing; the face and eyes stay clean, calm and human — they never glitched and hold their settled peace to the final frame (keyframe-lock).
+
+NEGATIVE: morphing or warping of the FACE, identity drift, glitched/distorted face, glitched or colour-drifting eyes, limb teleport, object pop-in, frame skip, mirrored composition, text overlay, watermark, AI artifact, ghosting (unintended), double-exposure unless intended, lip-sync drift, audio desync, any spoken words or VO this frame, wardrobe drift, unmotivated camera shake, physics violation on hair/fabric, mannequin posture, dead eyes, identity flicker, any residual glitch returning to the face or eyes.
+
+---
+
+### 🎵 Master Track Brief (External Audio Layer)
+
+Key / Tempo: F# minor → A major, ~108 BPM. The cold branded mid-section sits in tense F# minor; the warm reclaim resolves up into a calm, open A major — the harmonic lift mirrors the glitch turning from cold to warm and the performance giving way to honesty. No VO anywhere (NON-TALKABLE); the score and diegetic SFX carry the whole emotional arc.
+
+Arc by frame:
+
+- F1 (0:00–0:05) — the haul arrives: bright bouncy plucked-synth + light percussion in F# minor, cheerful but a touch too sugary; the over-bright PR-haul gloss, hooky and scroll-stopping.
+- F2 (0:05–0:10) — the gratitude peaks: the bright bed swells louder and busier, an extra layer of sparkle stacked on; a tiny hollow flatness creeping under the peak, the joy a touch too big.
+- F3 (0:10–0:15) — the overcorrection: hard datamosh glitch-crack drops the music into cold detuned synths, barcode-static crackle and a low sub-drop; the F# minor turns harsh and electric as she becomes the billboard.
+- F4 (0:15–0:20) — the turn: the cold bed strips almost bare — a single held detuned drone and a thin cold pad as the performance stops; the quiet of recognition, the loudness draining out.
+- F5 (0:20–0:25) — the change: a warm reverse-shimmer swell lifts the key out of F# minor; soft warm pads and a gentle pulse warm in as the billboard dissolves into the curator look and she starts to sort.
+- F6 (0:25–0:30) — the payoff: the score resolves fully into calm, open A major — warm piano / soft pad, unhurried and content; the honest daylight close, the one kept thing, the noise gone.
+
+✅ CONCEPT 100 COMPLETE — NON-TALKABLE · Ep.09 "The Unboxing" · 30s / 6 frames · F# minor → A major ~108 BPM · Concept Line: "keep what you'd actually use."
