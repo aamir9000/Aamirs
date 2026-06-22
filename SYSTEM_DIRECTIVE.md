@@ -153,7 +153,8 @@ Do not push a file until every one of these returns clean.
 - DONE & pushed: `20 Full Reel Concepts Set 5 (Concepts 71.txt` (concepts 71-79 incl. truncated C79 frame 1, 51 image prompts).
 - DONE & pushed: `20 Full Reel Concepts Set 5 (cont 2).txt` (concepts 81-82, 13 image prompts).
 - DONE & pushed: `20 Full Reel Concepts · Set 5 (cont.txt` (concepts 79-80, 13 image prompts; completes truncated C79).
-- TODO: the remaining 14 source files.
+- DONE & pushed: `20 Magical Action Reels Heavy-Detail.txt` (20 action concepts, 151 image prompts; inline-label format, section inserted inline before LENS+DOF+BOKEH).
+- TODO: the remaining 13 source files.
 - `Concept 100` and `Concept 170` were processed earlier but the branch was reset — redo them under this directive.
 
 ## CONFIRMED DECISIONS
