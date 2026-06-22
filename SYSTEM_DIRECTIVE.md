@@ -149,7 +149,8 @@ Do not push a file until every one of these returns clean.
 ## STATUS
 - DONE & pushed (exact original filenames in CONCEPTS/): `20 Beauty Ad Reels · Mind-Blowing Choreograpgy.txt` (20 concepts, 129 image prompts) [saved with exact UTF-8 zip filename].
 - DONE & pushed: `20 Cinematic Reels New Set.txt` (20 concepts, 123 image prompts).
-- TODO: the remaining 18 source files.
+- DONE & pushed: `20 Full Reel Concepts Set 4 (Concepts 51.txt` (concepts 51–70, 122 image prompts).
+- TODO: the remaining 17 source files.
 - `Concept 100` and `Concept 170` were processed earlier but the branch was reset — redo them under this directive.
 
 ## CONFIRMED DECISIONS
