@@ -3460,3 +3460,632 @@ CUT LOGIC: ANGLE-CUT / LOOP back to CLIP 1; the next pass re-triggers the city d
 - Loop: a clean ~26s loop matching the visual loop point.
 
 ---
+
+# PILLAR C — THE RECURRING OBJECT (MINI-SERIES)
+*Feeling: curiosity, builds a following. One recurring object does one impossible thing and ends on a hook — same object every episode, new magic each time.*
+
+# CONCEPT C-1 — THE LOCKET OPENS
+
+Title: Recurring-Object Hero — a vintage locket that releases a miniature living world.
+Category / Format: Magical-realism series reel (twilight rooftop garden) · SILENT (diegetic + score only) · CLIP-CHAIN, ANGLE-CUT edit · SINGLE-MAGIC (the locket opens a living world; seeded in CLIP 1, recalled in CLIP 5; ends on a series-hook).
+Story Idea: On a twilight rooftop garden, Aira opens a vintage gold locket — and from inside spills a miniature living world: glowing butterflies, a pocket aurora, a microscopic garden that expands into the air around her. She closes it and the magic streams back inside, leaving a knowing look to camera — what's inside changes every time.
+Setting: a lush twilight rooftop garden — jasmine on wrought-iron trellises, terracotta pots overflowing with deep-purple and magenta bougainvillea, a string of warm Edison bulbs, a stone balustrade, a glowing twilight city skyline, a violet-to-peach gradient sky.
+Wardrobe: a flowing dusty-lavender silk maxi dress with a deep V-neckline and thin straps, soft gathered waist, the skirt catching a rooftop breeze; modest, elegant.
+Footwear: delicate gold strappy flat sandals with thin ankle wraps — constant.
+Eyewear: none.
+Accessories: a vintage gold oval locket on a long fine chain at the sternum (THE recurring object), thin gold rings, small gold ear-studs, soft mauve glossy nails.
+Hair: loose romantic side-swept waves, all over one shoulder, deep amber-honey tone, ends brushing the waist — constant.
+Makeup: soft twilight glow — luminous skin, soft rose lip, warm bronze-and-gold lid, real pores.
+Hero Movement / Impossible Move: the locket opens and releases a miniature living world (butterflies, aurora, garden) that expands into the air, then is recalled when closed.
+Transformation Trigger (signature, consistent): OPENING THE LOCKET CLASP — the thumb-flick of the clasp releases the world; closing the locket recalls it. Same trigger (open/close) governs the magic; this is the series' signature object-action.
+Mood: CURIOSITY / WONDER — delicate, magical, intimate; ends on a hook.
+Grade: VIVID twilight — saturated lavender dress + magenta bougainvillea + warm amber Edison bulbs + golden butterfly-glow + green-gold aurora + violet-peach sky; rich blacks, full mid-tone.
+Duration: ~26 seconds · 6 clips (angle-cut chain).
+Voice: SILENT — diegetic rooftop + an ethereal music-box-and-orchestra score.
+Identity safety: AIRA adult; wardrobe modest; mood wondrous and elegant, never sexualized.
+State chain (angle-cut): CLIP 1 wide front [opens clasp → ★ butterflies emerge] → CUT → CLIP 2 close-up [open locket glowing, butterflies rising] → CUT → CLIP 3 medium [swarm expands, butterfly lands, aurora forms] → CUT → CLIP 4 back/OTS wide [full magical world around her] → CUT → CLIP 5 profile [closes locket, magic streams back] → CUT → CLIP 6 wide front [locket closed at sternum, knowing hook = CLIP 1, loop].
+
+---
+
+## CLIP 1 of 6 — WIDE · FRONT-FAVOURING THREE-QUARTER · EYE-LEVEL (rooftop; ★ opening the clasp releases butterflies)
+
+### START IMAGE (keyframe — locket closed, about to open)
+ANGLE & SHOT SIZE: eye-level WIDE; Aira full body in the twilight rooftop garden, one hand at the locket on her sternum, thumb poised at the clasp.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: the flowing dusty-lavender silk maxi dress, deep V-neckline, thin straps, soft gathered waist, the skirt lifting a little in the breeze.
+FOOTWEAR: delicate gold strappy flat sandals, thin ankle wraps, relaxed stance.
+EYEWEAR: none.
+ACCESSORIES: the vintage gold oval locket on its long fine chain at the sternum, thin gold rings, small gold ear-studs, soft mauve glossy nails.
+HAIR: loose romantic side-swept waves all over the left shoulder, deep amber-honey, ends at the waist, a strand drifting in the breeze.
+MAKEUP: soft twilight glow — luminous skin, soft rose lip, warm bronze-and-gold lid, real pores.
+HANDS & NAILS: her right-hand fingertips resting on the locket, thumb at the clasp about to open it; the left hand soft at her side; soft mauve glossy nails.
+FACIAL MICRO-DYNAMICS: curious anticipation — eyes drifting down to the locket, brow lifting softly, lips parting in a gentle "what will it be this time" expression, a breath of excitement.
+BODY POSTURE & WEIGHT: a relaxed contrapposto, weight on one hip, head tilted softly, one hand at the collarbone, spine long, breathing.
+KINETIC STILLNESS (8 layers): (1) jasmine and bougainvillea stirring in the breeze; (2) Edison bulbs swaying gently; (3) an amber-honey strand drifting; (4) the silk skirt lifting; (5) chest rising on an anticipatory breath; (6) a faint gold glint at the locket clasp; (7) the violet-peach sky deepening; (8) a slow eyelash settle.
+SPATIAL LOGIC: FOREGROUND — the locket at her sternum, sharp. MIDGROUND — Aira in the garden. BACKGROUND — the trellises, bougainvillea, Edison bulbs, twilight skyline.
+LIGHTING: KEY — warm Edison-bulb practicals. FILL — cool twilight ambient. RIM — a soft golden horizon edge on her waves and shoulder. PRACTICAL — Edison bulbs, the city skyline glow. SEPARATION — the glowing sky behind a warmly-lit figure. BOUNCE — warm bulb-light under the chin.
+LENS + DOF + BOKEH: 35mm, f/4, deep; the garden legible, Edison bulbs and bougainvillea melting to warm bokeh.
+COMPOSITION: vertical 9:16, Aira on the left-third, the rooftop garden filling centre-right, the skyline receding, the locket the small central focal point.
+SUBJECT FRAMING & POSITION: Aira reads as a complete full-length figure in the garden, framed head-to-sandals, her torso in a gentle three-quarter so her face is near-front while her hand rests at the locket. The camera holds a wide establishing distance at eye level; she anchors the left-third with the garden opening to centre-right. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: a romantic twilight rooftop, the hush of anticipation before the locket opens.
+COLOUR GRADE: VIVID twilight — saturated lavender dress, magenta bougainvillea, warm amber bulbs, violet-peach sky; rich, romantic, full mid-tone.
+TEXTURE & MICRO-DETAIL: silk-dress sheen, the locket's engraved gold, jasmine-petal detail, amber-honey wave strands, Edison-filament glow, mauve nail gloss.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
+
+### ANIMATION (this clip, ~5s — ★ opening the clasp releases the butterflies)
+SHOT TYPE & ANGLE: eye-level wide, front-favouring three-quarter; subject ~45% left-third.
+CAMERA MOVEMENT (CHOREOGRAPHY): a slow push-in toward her and the locket — one continuous shot.
+LENS: 35mm, f/4, deep.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–1.5s — she breathes in, eyes lowering to the locket, curious.
+- 1.5–2.5s — ★ TRIGGER: her thumb flicks the clasp — a tiny gold glint as it releases.
+- 2.5–5.0s — golden light seeps from the opening locket and the first glowing butterflies emerge, rising in a slow spiral; her lips part in a soft "oh" of wonder.
+FLUIDITY & WEIGHT NOTES: the clasp-flick is precise; the wonder blooms on her face; all motion eases.
+FABRIC/HAIR/PROP PHYSICS: the locket clasp springs with a micro-bounce; the silk and waves sway in the breeze; the butterflies emerge near-weightless with individual wing-beat cadence, spiralling up with slight air-resistance.
+FOOTWORK & BODY FLOW: a relaxed contrapposto, a faint sway as she opens the locket.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE RELEASE at 1.5–4.0s — triggered by the clasp opening, a golden glow seeps out and a burst of thumbnail-sized glowing golden butterflies emerges, rising in a slow spiral between the locket and her face; the living world beginning to spill out.
+LIGHTING-IN-MOTION: a warm golden glow blooms from the locket, under-lighting her chin and jaw; each butterfly adds a point of warm light.
+DIEGETIC AUDIO: a rooftop breeze; distant city hum far below; jasmine rustle; the tiny clasp click (sharp, metallic, satisfying); Edison-bulb buzz; her anticipatory inhale; a soft magical chime as the butterflies emerge.
+MASTER TRACK: a delicate celeste/music-box motif (the "locket theme" — 4 recurring notes) alone, with a warm cello entering on the release.
+END STATE / STATE-MATCH LOCK (heavy detail — CLIP 2's START IMAGE must reproduce 100%, new angle only): at clip end the locket is open and glowing, the first glowing golden butterflies rising in a spiral between it and her face, golden under-light on her chin; the twilight garden, Edison bulbs and bougainvillea behind; Aira in lavender silk, amber-honey waves, wonder dawning. CLIP 2 must open in this EXACT state (same open glowing locket, same rising butterflies, same garden, same wardrobe) — only the camera angle changes.
+CUT LOGIC: hard ANGLE-CUT to CLIP 2 (close-up on face + locket). No motion-match; WORLD STATE matches 100%.
+
+---
+
+## CLIP 2 of 6 — CLOSE-UP (face + locket) · FRONT · EYE-LEVEL (opens butterflies-rising = CLIP 1 end; wonder blooms)
+
+### START IMAGE (keyframe — open glowing locket, reproduces CLIP 1's END STATE, new angle)
+ANGLE & SHOT SIZE: eye-level CLOSE-UP, face, shoulders and the open locket at the sternum, butterflies rising between them.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: the lavender silk straps and V-neckline, the locket chain taut on the collarbone — identical state.
+FOOTWEAR: out of frame.
+EYEWEAR: none.
+ACCESSORIES: the open locket revealing a tiny blazing miniature world, glowing golden butterflies emerging; gold studs catching glow; mauve nails holding the locket open.
+HAIR: amber-honey waves over the left shoulder, catching the golden locket-glow.
+MAKEUP: soft twilight glow, lit warm-gold from below.
+HANDS & NAILS: both hands cupping the open locket, thumbs holding the halves apart, the chain slightly taut; soft mauve nails.
+FACIAL MICRO-DYNAMICS: wonder blooming — eyes widening with genuine awe as the glow hits her face, brow lifting, parted lips curving into a slow delighted smile, pupils reflecting the golden light. Eyes lead (widening first), mouth follows (the smile a beat later), then a slow savouring blink.
+BODY POSTURE & WEIGHT: head tipped slightly down toward the locket then lifting, shoulders relaxed, breathing.
+KINETIC STILLNESS (8 layers): (1) glowing butterflies spiralling up between locket and face; (2) the locket's interior world shimmering; (3) an amber-honey strand drifting; (4) the chain taut and faintly swaying; (5) chest rising; (6) golden under-light flickering on her jaw; (7) tiny butterfly-light points drifting; (8) a slow savouring blink.
+SPATIAL LOGIC: FOREGROUND — the open glowing locket lower-frame, sharp. MIDGROUND — her face. BACKGROUND — warm rooftop bokeh (Edison bulbs, bougainvillea).
+LIGHTING: KEY — the locket's interior golden glow under-lighting her face. FILL — warm Edison ambient. RIM — cool twilight edge. PRACTICAL — the locket-world, butterfly-light, Edison bulbs. SEPARATION — warm bokeh behind the face. BOUNCE — golden under the chin.
+LENS + DOF + BOKEH: 85mm, f/2.0; her eyes and the butterflies sharp, the rooftop melting to warm bokeh, tiny golden bokeh from the butterfly-light.
+COMPOSITION: vertical 9:16, her face upper two-thirds, the open glowing locket lower-centre, butterflies rising between — the reveal moment.
+SUBJECT FRAMING & POSITION: Aira is framed in a close-up, face and shoulders with the open locket at the lower frame, front to lens, both hands cupping it. She sits dead-centre, the rising butterflies between locket and face, warm bokeh behind. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: fresh, intimate wonder — she never tires of this.
+COLOUR GRADE: VIVID — warm gold locket-glow + lavender + amber hair + violet bokeh; magical, full mid-tone. (Matches CLIP 1 END STATE.)
+TEXTURE & MICRO-DETAIL: the locket's engraved gold and tiny shimmering interior, butterfly wing-detail, real pores in the warm glow, lash separation, amber-honey strands.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
+
+### ANIMATION (this clip, ~4s — wonder blooms as butterflies rise)
+SHOT TYPE & ANGLE: eye-level close-up; face ~70% with the locket lower.
+CAMERA MOVEMENT (CHOREOGRAPHY): a static intimate hold, letting the magic emerge — one continuous shot.
+LENS: 85mm, f/2.0, shallow.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–1.5s — she holds the locket fully open, thumbs pressing the halves apart, watching.
+- 1.5–2.8s — the glow hits her face: eyes widen, pupils dilate.
+- 2.8–4.0s — the slow delighted smile arrives; a savouring blink, a gentle gasp-exhale through parted lips.
+FLUIDITY & WEIGHT NOTES: eyes lead, mouth follows, the blink punctuates; her thumbs hold the locket with perfect pressure; all motion eases.
+FABRIC/HAIR/PROP PHYSICS: butterflies emerge with believable near-weightless mass and individual wing-beats, spiralling upward past her face with slight air-drift; the chain tension is real; they don't touch her hands.
+FOOTWORK & BODY FLOW: a held, intimate stillness, head lifting with the wonder.
+MID-CLIP TRANSFORMATION (timed): the magic continues — more butterflies emerge and spiral; the locket's interior world brightening (seeded in CLIP 1, blooming here).
+LIGHTING-IN-MOTION: the golden glow intensifies as the locket opens fully; her under-chin and jaw illuminate progressively.
+DIEGETIC AUDIO: the locket hinge opening (a delicate creak); a soft magical chime as butterflies emerge (musical, like tiny glass bells); barely-audible papery wing-flutters; her gasp; the breeze.
+MASTER TRACK: the celeste motif joined by a warm cello and soft harp; tiny bell accents for the butterflies.
+END STATE / STATE-MATCH LOCK (heavy detail — CLIP 3's START IMAGE must reproduce 100%, new angle only): at clip end the locket is fully open and glowing, a growing spiral of glowing butterflies rising and beginning to spread; Aira's face lit golden with delight, lavender silk, amber-honey waves. CLIP 3 must open in this EXACT state (same open locket, same expanding butterfly swarm, same wardrobe) — only the angle changes.
+CUT LOGIC: hard ANGLE-CUT to CLIP 3 (medium, three-quarter). No motion-match; WORLD STATE matches 100%.
+
+---
+
+## CLIP 3 of 6 — MEDIUM · THREE-QUARTER · SLIGHT LOW ANGLE (opens swarm = CLIP 2 end; ★ swarm expands, butterfly lands, aurora forms)
+
+### START IMAGE (keyframe — expanding swarm, reproduces CLIP 2's END STATE, new angle)
+ANGLE & SHOT SIZE: slight low-angle MEDIUM, waist-up, three-quarter, the butterfly swarm filling the air around her, the open locket glowing at her chest.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: the lavender silk bodice and straps, gathered waist — identical state.
+FOOTWEAR: out of frame.
+EYEWEAR: none.
+ACCESSORIES: the open locket glowing, butterflies circling her, gold studs reflecting the swarm-light, mauve nails.
+HAIR: amber-honey waves dancing with the butterfly-light, individual strands illuminated.
+MAKEUP: soft twilight glow, lit by the swarm.
+HANDS & NAILS: she lifts one hand (the locket hanging free on its chain) and a single butterfly alights on her extended fingertip — perfect weightless contact; mauve nails.
+FACIAL MICRO-DYNAMICS: pure delight — eyes bright and alive tracking individual butterflies, the smile fully present (warm, open, genuine), cheeks lifted, breath visible in the cool twilight.
+BODY POSTURE & WEIGHT: a gentle three-quarter, one hand extended for the butterfly, shoulders relaxed, breathing.
+KINETIC STILLNESS (8 layers): (1) the swarm expanding in a beautiful spiral; (2) butterflies landing on jasmine and trellises; (3) a green-gold aurora beginning to form above the swarm; (4) the silk shifting; (5) chest rising; (6) the butterfly settling on her fingertip; (7) tiny moving golden shadows on the garden; (8) a slow tender blink.
+SPATIAL LOGIC: FOREGROUND — her extended hand with the alighting butterfly, sharp. MIDGROUND — Aira. BACKGROUND — the expanding swarm and forming aurora over the garden.
+LIGHTING: KEY — the butterfly swarm as a distributed moving warm key (dozens of tiny points). FILL — twilight ambient. RIM — golden swarm-edge on her waves. PRACTICAL — butterflies, Edison bulbs, the forming aurora. SEPARATION — the bright swarm behind her. BOUNCE — golden swarm-light under the chin.
+LENS + DOF + BOKEH: 50mm, f/2.8; her and the fingertip-butterfly sharp, the swarm and aurora melting to golden-and-teal bokeh.
+COMPOSITION: vertical 9:16, Aira centre-right, the expanding swarm filling left in a spiral, the aurora forming above.
+SUBJECT FRAMING & POSITION: Aira is framed waist-up in a three-quarter, slightly low angle, one hand extended for the alighting butterfly, the swarm around her. Her torso angles gently across frame. The camera holds a medium distance, slightly low; she rides centre-right with the swarm spiralling to frame-left. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: a living wonder expanding around her, tender and luminous.
+COLOUR GRADE: VIVID — golden butterfly-glow + lavender + violet sky + magenta bougainvillea + amber hair + emerging green-gold aurora; alive with saturated warm light. (Matches CLIP 2 END STATE.)
+TEXTURE & MICRO-DETAIL: butterfly wing-detail and tiny legs on her fingertip, aurora shimmer, silk sheen, jasmine with landed butterflies, amber-honey strands.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
+
+### ANIMATION (this clip, ~4s — ★ swarm expands, butterfly lands, aurora forms)
+SHOT TYPE & ANGLE: slight low-angle medium, three-quarter; subject ~50% centre-right.
+CAMERA MOVEMENT (CHOREOGRAPHY): a slow crane-up while tracking, following the swarm's expansion — one continuous shot.
+LENS: 50mm, f/2.8, shallow.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–1.5s — she releases the locket to hang free and lifts her right hand, extending one finger.
+- 1.5–2.8s — a butterfly alights on her fingertip; she holds perfectly still for it.
+- 2.8–4.0s — she watches it with tender focus as the swarm expands and a green-gold aurora blooms above.
+FLUIDITY & WEIGHT NOTES: the hand-lift leads; she stills for the landing; the breath holds then releases; all motion eases.
+FABRIC/HAIR/PROP PHYSICS: each butterfly has independent flight physics (wing-beat, drift, hover, land); the landing butterfly's near-zero weight with tiny leg-contact on skin; the aurora pulses with slow plasma drift; her hair lifts faintly in the swarm's updraft.
+FOOTWORK & BODY FLOW: a gentle stillness, weight settled.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE EXPANSION at 0.0–4.0s — the swarm expands into the garden (butterflies landing on jasmine, circling Edison bulbs), one settling on her fingertip, and a secondary magic — a green-gold pocket aurora — forms above the swarm; the living world growing.
+LIGHTING-IN-MOTION: the aurora adds a cool green-gold wash from above, mixing with the warm butterflies — dual-tone magical light.
+DIEGETIC AUDIO: dozens of butterfly wings (a soft collective rustle); the aurora's quiet electrical hum; one butterfly's landing (a tiny "tap"); Edison buzz; distant city; her held breath then gentle exhale.
+MASTER TRACK: full swell — celeste, cello, harp and a breathy pad; the magic at its most expansive.
+END STATE / STATE-MATCH LOCK (heavy detail — CLIP 4's START IMAGE must reproduce 100%, new angle only): at clip end the garden is alive with the swarm and a green-gold aurora arcing overhead, a microscopic garden glowing on the balustrade; a butterfly on her shoulder/finger; the locket hangs glowing; Aira in lavender silk, amber-honey waves, tender delight. CLIP 4 must open in this EXACT magical world (same swarm, same aurora, same glowing garden, same wardrobe) — only the angle changes.
+CUT LOGIC: hard ANGLE-CUT to CLIP 4 (back/over-shoulder wide). No motion-match; WORLD STATE matches 100%.
+
+---
+
+## CLIP 4 of 6 — FULL BODY · BACK / OVER-THE-SHOULDER · EYE-LEVEL (opens magical world = CLIP 3 end; full scope)
+
+### START IMAGE (keyframe — full magical world, reproduces CLIP 3's END STATE, new angle)
+ANGLE & SHOT SIZE: eye-level WIDE, full body from behind/over-the-shoulder, showing the full expanded magical world — swarm, aurora, glowing micro-garden — around her.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: the lavender silk dress from behind, the open V-back, skirt flowing, catching butterfly-and-aurora glow — identical state.
+FOOTWEAR: gold strappy sandals, ankle wraps catching golden light.
+EYEWEAR: none.
+ACCESSORIES: the locket chain at the nape, gold studs at the jaw-line glimpse, mauve nails.
+HAIR: amber-honey waves down the back, catching butterfly-gold and aurora-green from above.
+MAKEUP: soft glow, dual-lit gold and green.
+HANDS & NAILS: both arms opening slightly — receiving, not reaching; a butterfly perched on her shoulder; mauve nails.
+FACIAL MICRO-DYNAMICS: (from behind — head tilted up toward the aurora, posture open and at peace; a glimpse of serene profile).
+BODY POSTURE & WEIGHT: arms slightly open, head tilted up, the still centre of a living wonder, breathing.
+KINETIC STILLNESS (8 layers): (1) butterflies illuminating every surface; (2) the aurora arcing overhead like a personal northern lights; (3) tiny glowing flowers growing on the balustrade; (4) the silk skirt drifting; (5) chest rising; (6) the city skyline twinkling beneath the aurora; (7) Edison bulbs pulsing in rhythm; (8) the shoulder-butterfly's wings slowly opening/closing.
+SPATIAL LOGIC: FOREGROUND — her back and shoulder with the perched butterfly, soft. MIDGROUND — Aira. BACKGROUND — the full magical garden: swarm, aurora, micro-garden, glowing skyline.
+LIGHTING: KEY — full magical illumination — butterfly-gold from all directions + aurora green-gold from above. FILL — twilight ambient. RIM — golden-and-green edge on her silhouette. PRACTICAL — butterflies, aurora, Edison bulbs, micro-garden glow. SEPARATION — the luminous world around the figure. BOUNCE — golden uplight.
+LENS + DOF + BOKEH: 35mm wide, f/3.5; the full scope legible, the magic in golden-and-teal bokeh.
+COMPOSITION: vertical 9:16, her back centre-left, the magical garden radiating outward from her, the aurora arcing above, the city below.
+SUBJECT FRAMING & POSITION: Aira reads as a complete full-length figure from behind/over-the-shoulder, framed head-to-sandals, arms slightly open, head tilted up. The camera holds a wide distance at eye level behind her; she anchors centre-left with the magical world radiating around. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: the full living wonder she released — epic yet intimate, she its calm centre.
+COLOUR GRADE: MAXIMUM VIVID — gold + lavender + green-aurora + magenta bougainvillea + violet sky + amber city; every colour alive and saturated. (Matches CLIP 3 END STATE.)
+TEXTURE & MICRO-DETAIL: butterfly-light on every surface, aurora plasma detail, tiny growing flowers, silk-back sheen, amber-honey strands, the shoulder-butterfly.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
+
+### ANIMATION (this clip, ~4s — full magical scope; she receives it)
+SHOT TYPE & ANGLE: eye-level wide, back/over-the-shoulder; subject ~45% centre-left.
+CAMERA MOVEMENT (CHOREOGRAPHY): a slow pull-back widening to show the full scope — one continuous shot.
+LENS: 35mm, f/3.5, wide.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–1.5s — she opens her arms slightly and tilts her head up toward the aurora.
+- 1.5–2.8s — she holds — the still centre — as a butterfly perches on her shoulder.
+- 2.8–4.0s — a visible inhale lifts her whole back; the aurora pulses brighter in answer.
+FLUIDITY & WEIGHT NOTES: the arm-opening is relaxed and receiving (not forced); the head-tilt leads; all motion eases.
+FABRIC/HAIR/PROP PHYSICS: aurora plasma drifts with slow electromagnetic physics; butterflies orbit with centripetal lean; tiny flowers bloom with organic time-lapse; the silk and waves respond to the faint updraft.
+FOOTWORK & BODY FLOW: a grounded, open stance, weight settled.
+MID-CLIP TRANSFORMATION (timed): the magic at full bloom — the micro-garden blooms a new flower, the aurora swells, more butterflies orbit (the released world at its peak; seeded earlier).
+LIGHTING-IN-MOTION: the aurora's pulse brightens and dims in a slow rhythm; butterflies cast moving shadows on the stone.
+DIEGETIC AUDIO: the aurora's deep quiet hum (sub-bass); the butterfly collective rustle; tiny garden-growth crackle; city far below; the rooftop breeze; Edison buzz in rhythm; her awed breathing.
+MASTER TRACK: the fullest orchestral-and-celeste swell — the emotional peak of the released world.
+END STATE / STATE-MATCH LOCK (heavy detail — CLIP 5's START IMAGE must reproduce 100%, new angle only): at clip end the magical world is at full bloom — swarm, aurora, micro-garden, glowing skyline; Aira open-armed and serene, lavender silk, amber-honey waves. CLIP 5 must open in this EXACT state (same full magic) then begin the recall as she closes the locket — same wardrobe, only the angle changes.
+CUT LOGIC: hard ANGLE-CUT to CLIP 5 (profile, medium close-up). No motion-match; WORLD STATE matches 100%.
+
+---
+
+## CLIP 5 of 6 — MEDIUM CLOSE-UP · FULL PROFILE · SLIGHT LOW ANGLE (opens full magic = CLIP 4 end; ★ closing the locket recalls the world)
+
+### START IMAGE (keyframe — magic streaming back, reproduces CLIP 4's END STATE, new angle)
+ANGLE & SHOT SIZE: slight low-angle MEDIUM CLOSE-UP, clean full side-profile, as she gently closes the locket and the butterflies stream back in.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: the lavender silk strap and neckline in profile, the locket at the sternum — identical state.
+FOOTWEAR: out of frame.
+EYEWEAR: none.
+ACCESSORIES: gold stud earring in sharp focus, the locket glowing, mauve nails on the locket halves as she begins to close it.
+HAIR: amber-honey waves in side silhouette, backlit by the aurora, glowing at the edges.
+MAKEUP: soft glow, profile-lit.
+HANDS & NAILS: her fingertips on both halves of the locket, gently pressing them together, butterflies streaming into the narrowing gap; mauve nails.
+FACIAL MICRO-DYNAMICS: bittersweet contentment — a soft gentle smile of saying goodbye to something beautiful but knowing it'll return; eyes downcast toward the locket, lashes lowered, a slow breath drawing the magic back.
+BODY POSTURE & WEIGHT: upright profile, hands at the locket, weight centred, breathing.
+KINETIC STILLNESS (8 layers): (1) butterflies streaming back in a reverse spiral toward the locket; (2) the aurora fading smoothly; (3) an amber-honey strand drifting; (4) the silk shifting; (5) chest rising on a drawing-in breath; (6) the micro-garden dimming; (7) Edison bulbs returning to dominance; (8) a slow eyelash settle.
+SPATIAL LOGIC: FOREGROUND — soft returning-butterfly trails. MIDGROUND — her profile and the locket. BACKGROUND — the magic receding, Edison-bulb garden reasserting.
+LIGHTING: KEY — the returning butterflies' moving golden trails on her profile. FILL — fading aurora green. RIM — a warm remnant glow backlighting her profile. PRACTICAL — the locket, returning butterflies, Edison bulbs. SEPARATION — the bright returning stream behind. BOUNCE — golden under the jaw, dimming.
+LENS + DOF + BOKEH: 85mm, f/2.0; her profile and the locket sharp, the returning stream soft, the final click sharp on the locket.
+COMPOSITION: vertical 9:16, her profile right, the returning stream of butterflies pouring back toward the locket left — leading lines of magic converging on her heart.
+SUBJECT FRAMING & POSITION: Aira is shown in clean full profile from the chest up, framed medium-close, gently closing the locket as the butterflies stream in. Her torso is square in profile. The camera sits a touch low at intimate distance; she rides slightly left so the returning stream pours through the right negative space. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: a tender goodbye — peaceful, not sad; the magic returning home.
+COLOUR GRADE: VIVID but elegiac — golden trails + lavender + fading green-aurora + warm amber profile-light. (Matches CLIP 4 END STATE, dimming.)
+TEXTURE & MICRO-DETAIL: returning-butterfly trails, the locket's engraved gold, fine lash detail, gold-earring gleam, amber-honey strands.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
+
+### ANIMATION (this clip, ~4s — ★ closing the locket recalls the world)
+SHOT TYPE & ANGLE: slight low-angle medium close-up profile; subject ~55% left-of-centre.
+CAMERA MOVEMENT (CHOREOGRAPHY): a static hold, the convergence playing — one continuous shot.
+LENS: 85mm, f/2.0, shallow.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–1.5s — she slowly starts closing the locket, fingertips pressing the halves together.
+- 1.5–2.8s — ★ TRIGGER: all butterflies stream back in a beautiful reverse spiral, threading into the narrowing gap; the aurora fades.
+- 2.8–4.0s — the locket closes with a final soft click; a slow blink of satisfaction, a tender goodbye smile.
+FLUIDITY & WEIGHT NOTES: the close is gentle and deliberate; she times it to catch the last butterfly; all motion eases.
+FABRIC/HAIR/PROP PHYSICS: butterflies compress and accelerate toward the locket with correct convergence physics (beautiful, like water to a drain); the aurora dims realistically; the locket clasp has real hinge resistance.
+FOOTWORK & BODY FLOW: an upright, intimate stillness.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE RECALL at 1.5–3.0s — triggered by closing the locket, the entire released world streams back: butterflies spiral in, the aurora fades, the micro-garden dims, threading into the locket as it clicks shut — the magic recalled.
+LIGHTING-IN-MOTION: the golden glow fades as butterflies return; her profile returns to Edison-and-twilight light by the end.
+DIEGETIC AUDIO: the reverse-stream whoosh (soft, musical, descending); each butterfly re-entering (tiny glass-bell notes); the aurora hum fading; the final locket CLICK (satisfying, decisive, gold-on-gold); Edison buzz returning; a soft sigh of contentment.
+MASTER TRACK: the celeste "locket theme" returns gently as the magic recalls — the motif closing the episode.
+END STATE / STATE-MATCH LOCK (heavy detail — CLIP 6's START IMAGE must reproduce 100%, then loop): at clip end the locket is closed at her sternum (faintly warm-glowing), the garden returned to normal twilight beauty (no magic), Edison bulbs and bougainvillea; Aira in lavender silk, amber-honey waves, a tender knowing calm. CLIP 6 must open in this EXACT post-magic state (closed locket, normal twilight garden, same wardrobe) — only the angle changes, returning to the CLIP-1 wide.
+CUT LOGIC: hard ANGLE-CUT to CLIP 6 (wide front). No motion-match; state matches, returning to CLIP 1.
+
+---
+
+## CLIP 6 of 6 — WIDE · FRONT-FAVOURING THREE-QUARTER · EYE-LEVEL (closed locket, the hook; reset → loop to CLIP 1)
+
+### START IMAGE (keyframe — post-magic twilight garden, reproduces CLIP 1's opening)
+ANGLE & SHOT SIZE: eye-level WIDE; Aira full body in the now-quiet twilight rooftop garden, the closed locket at her sternum, hand rising back toward it — the opening restored, ready to open again.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: the dusty-lavender silk maxi dress, deep V-neckline, thin straps — matched to CLIP 1.
+FOOTWEAR: gold strappy flat sandals, ankle wraps — matched.
+EYEWEAR: none.
+ACCESSORIES: the closed gold locket (faintly warm-glowing) on its chain, thin gold rings, gold studs, mauve nails — matched.
+HAIR: loose romantic side-swept amber-honey waves over the left shoulder — matched to CLIP 1.
+MAKEUP: soft twilight glow — matched.
+HANDS & NAILS: one hand rising toward the closed locket, thumb near the clasp; the other soft at her side; mauve nails.
+FACIAL MICRO-DYNAMICS: peaceful private satisfaction shifting to curious anticipation — a calm knowing smile to the lens (the hook: "what's inside next time?"), then eyes lowering to the locket — easing toward the CLIP-1 opening face.
+BODY POSTURE & WEIGHT: a relaxed contrapposto, head tilted softly, hand at the collarbone — mirror of CLIP 1.
+KINETIC STILLNESS (8 layers): (1) jasmine and bougainvillea stirring; (2) Edison bulbs swaying; (3) an amber-honey strand drifting; (4) the silk skirt lifting; (5) chest rising; (6) the locket giving one last faint warm pulse then settling dark; (7) the violet-peach sky; (8) a slow eyelash settle — matched to CLIP 1.
+SPATIAL LOGIC: FOREGROUND — the closed locket. MIDGROUND — Aira in the garden. BACKGROUND — trellises, bougainvillea, Edison bulbs, skyline — matched to CLIP 1.
+LIGHTING: KEY — warm Edison practicals. FILL — cool twilight ambient. RIM — golden horizon edge on her waves. PRACTICAL — Edison bulbs, skyline glow. SEPARATION — glowing sky behind. BOUNCE — warm bulb-light under the chin — matched to CLIP 1.
+LENS + DOF + BOKEH: 35mm, f/4 — matched to CLIP 1.
+COMPOSITION: vertical 9:16, Aira on the left-third, the garden filling centre-right, the locket the central focal point — identical to CLIP 1 so the reel loops.
+SUBJECT FRAMING & POSITION: Aira reads as a complete full-length figure in the garden, framed head-to-sandals, torso in the same gentle three-quarter, face near-front and calm, hand rising to the locket. The camera holds the identical wide establishing distance at eye level; she anchors the left-third with the garden opening to centre-right — exactly rhyming with CLIP 1 so the loop is seamless. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: a romantic twilight rooftop at rest — the secret tucked away, ready to be opened again.
+COLOUR GRADE: VIVID twilight — lavender dress, magenta bougainvillea, warm amber bulbs, violet-peach sky — matched to CLIP 1.
+TEXTURE & MICRO-DETAIL: silk sheen, engraved-gold locket, jasmine petals, amber-honey strands, Edison-filament glow, mauve nails — matched.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
+
+### ANIMATION (this clip, ~4s — the hook; loop close)
+SHOT TYPE & ANGLE: eye-level wide, front-favouring three-quarter; subject ~45% left-third — matched to CLIP 1.
+CAMERA MOVEMENT (CHOREOGRAPHY): a gentle settle to the exact CLIP-1 establishing framing.
+LENS: 35mm, f/4 — matched.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–1.5s — she lowers her hand from the closed locket and looks up at the lens with the knowing hook-smile.
+- 1.5–2.6s — the locket gives one last faint warm pulse (a heartbeat) then goes dark; she glances away — the hook.
+- 2.6–4.0s — her hand rises back toward the locket, eyes lowering — settling into the exact CLIP-1 opening pose.
+FLUIDITY & WEIGHT NOTES: the knowing look is conspiratorial; the hand-rise returns to the opening; everything eases to rest.
+FABRIC/HAIR/PROP PHYSICS: the locket-pulse is a single bioluminescent-style flash and fade; the silk and waves settle to the opening drape.
+FOOTWORK & BODY FLOW: a relaxed contrapposto returning to the CLIP-1 stance.
+MID-CLIP TRANSFORMATION (timed): the magic is fully recalled and tucked away; the next loop re-triggers the living world when she next opens the clasp (the start of CLIP 1).
+LIGHTING-IN-MOTION: the last locket-pulse flashes warm on her chin then fades; Edison steady.
+LENS / OPTICAL: focus settles to the deep opening look.
+DIEGETIC AUDIO: the locket's last pulse (a soft warm "thum" like a heartbeat); Edison buzz; the breeze; city below; her quiet satisfied exhale; a single distant nightbird — back to the CLIP-1 bed.
+MASTER TRACK: the bare celeste "locket theme" closes the episode, looping cleanly to the opening.
+END STATE / STATE-MATCH LOCK: clip ends in the EXACT post-magic twilight-garden state and wide angle of CLIP 1's START IMAGE — closed locket, garden, wardrobe and anticipatory expression matched, so the reel loops seamlessly.
+CUT LOGIC: ANGLE-CUT / LOOP back to CLIP 1; the next pass re-triggers the living world when she opens the clasp.
+
+### ☆ EXTERNAL AUDIO — BLOCK 1: BACKGROUND SOUND DESIGN / AMBIENCE BED — C-1
+*The layered foley + ambience to lay UNDER the reel, separate from the in-clip diegetic audio — timed to the clips.*
+- Base bed (all clips): a soft twilight rooftop room-tone; a gentle breeze; jasmine rustle; a distant city hum far below; faint Edison-bulb buzz; a single nightbird far off.
+- Trigger stamp (open/close): a tiny metallic clasp click on the open (CLIP 1) and a decisive gold-on-gold click on the close (CLIP 5).
+- CLIP 1–2 (release): a soft magical chime as butterflies emerge; barely-audible papery wing-flutters.
+- CLIP 3 (expand/aurora): dozens of butterfly wings (a soft collective rustle); the aurora's quiet electrical hum; a tiny landing "tap".
+- CLIP 4 (full world): the aurora's deep sub-bass hum; a tiny garden-growth crackle; Edison buzz pulsing in rhythm.
+- CLIP 5 (recall): a soft descending reverse-stream whoosh; tiny glass-bell re-entry notes; the final gold click.
+- CLIP 6 (hook): a soft warm locket-pulse "thum"; the breeze; a nightbird — back to the CLIP-1 bed.
+- Mix note: keep the magical foley delicate and high so it sits above the score; loops cleanly at ~26s.
+
+### ☆ EXTERNAL AUDIO — BLOCK 2: BACKGROUND MUSIC / SCORE TRACK — C-1 (lay under the sound bed)
+- Genre / vibe: ethereal cinematic wonder — delicate, curious, magical but grown-up (a music-box melody given an orchestra).
+- Tempo / key: ~72 BPM, E major, gentle and unhurried.
+- Core elements: a delicate celeste/music-box motif (the "locket theme" — 4 recurring notes, the series' sonic brand); a warm cello; soft finger-picked harp; a breathy pad that swells with the magic; tiny bell accents for the butterflies.
+- Arc: celeste motif alone on CLIP 1 (curiosity) → harp + cello enter as the locket opens (CLIP 2) → full swell with pad as the swarm/aurora expands (CLIPs 3–4) → the motif returns gently as the magic recalls (CLIP 5) → bare motif on the hook/loop (CLIP 6).
+- Texture note: the 4-note celeste motif MUST be distinctive and memorable — the recurring "locket" sonic brand across the whole series.
+- Loop: a clean ~26s loop matching the visual loop point.
+
+---
+
+# CONCEPT C-2 — THE VINTAGE KEY
+
+Title: Recurring-Object Hero — a skeleton key that turns in mid-air and opens a portal to another world.
+Category / Format: Magical-realism series reel (moody industrial loft at night) · SILENT (diegetic + score only) · CLIP-CHAIN, ANGLE-CUT edit · SINGLE-MAGIC (the key opens a portal; seeded in CLIP 1, sealed in CLIP 4–5; ends on a series-hook — the key fits everywhere).
+Story Idea: In a dark industrial loft, Aira raises an ornate skeleton key and turns it in mid-air (no door) — and a portal of living light cracks open onto a sun-drenched Mediterranean coast, warm wind blasting through. She savours the other world, then turns the key back and the air heals, sealing it; she pockets the key with a knowing look — it fits everywhere and nowhere.
+Setting: a vast industrial loft at night — exposed steel beams, tall steel-frame windows over a rain-streaked dark city, polished concrete, a single bare Edison bulb, raw brick, sparse furniture; moody and minimal. Beyond the portal: a vivid sun-drenched Mediterranean coastal village.
+Wardrobe: a fitted black ribbed turtleneck tucked into high-waist wide-leg dark-olive cargo trousers, a wide brown leather belt with an aged brass buckle; modest, sharp.
+Footwear: chunky black leather combat boots with brass buckles — constant.
+Eyewear: none.
+Accessories: an ornate vintage brass skeleton key (THE recurring object), a single thick silver thumb-ring, small silver hoops, deep espresso glossy nails.
+Hair: a sleek centre-part low ponytail, razor-straight ink-black, past the waist, tied with a thin brown leather cord — constant.
+Makeup: clean matte-luminous skin, soft neutral lip, subtle defined eye, real pores; retinted by portal-light.
+Hero Movement / Impossible Move: the key turns in mid-air and cracks open a blazing portal to a Mediterranean world; turning it back seals the air.
+Transformation Trigger (signature, consistent): TURNING THE KEY in mid-air — a firm wrist-turn opens the portal; the reverse-turn seals it. Same trigger (turn/reverse-turn) governs the magic; the key is the series' signature object.
+Mood: INTRIGUE / POWER — dark-into-warm, cinematic, controlled.
+Grade: VIVID contrast — moody warm-Edison-gold + cool rain-blue loft, BLAZING golden + turquoise-and-white Mediterranean through the portal; rich blacks, glossy speculars, full mid-tone.
+Duration: ~26 seconds · 6 clips (angle-cut chain).
+Voice: SILENT — diegetic loft/portal + a dark-to-warm cinematic score.
+Identity safety: AIRA adult; wardrobe modest; mood powerful and elegant, never sexualized.
+State chain (angle-cut): CLIP 1 wide [loft, raises key → ★ turns → portal CRACKS open] → CUT → CLIP 2 medium [portal blazing, wind blasts] → CUT → CLIP 3 over-shoulder [full Mediterranean portal, holds the door open] → CUT → CLIP 4 close-up [★ turns key back, portal narrows] → CUT → CLIP 5 medium [portal SEALS, key to fist] → CUT → CLIP 6 wide [key at side, knowing hook = CLIP 1, loop].
+
+---
+
+## CLIP 1 of 6 — WIDE · THREE-QUARTER · EYE-LEVEL (loft; ★ turning the key cracks open the portal)
+
+### START IMAGE (keyframe — dark loft, key at side)
+ANGLE & SHOT SIZE: eye-level WIDE; Aira full body in the dark industrial loft, the key held loosely at her side, the single Edison bulb pooling warm light.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: the fitted black ribbed turtleneck tucked into high-waist wide-leg dark-olive cargo trousers, a wide brown leather belt with an aged brass buckle.
+FOOTWEAR: chunky black leather combat boots with brass buckles, worn-in.
+EYEWEAR: none.
+ACCESSORIES: the ornate vintage brass skeleton key held between right thumb and forefinger at her side, a thick silver thumb-ring, small silver hoops, espresso glossy nails.
+HAIR: a sleek centre-part low ponytail, razor-straight ink-black past the waist, tied with a thin brown leather cord.
+MAKEUP: clean matte-luminous skin, soft neutral lip, subtle defined eye, real pores.
+HANDS & NAILS: the key held loosely between right thumb and forefinger at her side; the left hand relaxed; espresso glossy almond nails, the silver thumb-ring prominent.
+FACIAL MICRO-DYNAMICS: focused intention — eyes level and slightly narrowed, brow set with quiet determination, lips pressed in a thin decisive line, jaw set; she knows what the key does.
+BODY POSTURE & WEIGHT: a grounded three-quarter stance, weight settled, one hand at her side holding the key, spine long, alive.
+KINETIC STILLNESS (8 layers): (1) the bare Edison bulb swaying faintly on its cord; (2) rain streaking the tall steel windows; (3) a ponytail strand drifting; (4) the turtleneck shifting with breath; (5) chest rising on a slow inhale; (6) a warm glint on the brass key; (7) a faint draft moving dust in the bulb-pool; (8) a slow eyelash settle.
+SPATIAL LOGIC: FOREGROUND — the key in her hand, sharp. MIDGROUND — Aira in the bulb-pool. BACKGROUND — the vast dark loft, steel windows, rain-city beyond.
+LIGHTING: KEY — the single bare Edison bulb (a harsh warm pool, sharp shadows). FILL — cool blue rain-light from the windows. RIM — a warm bulb-edge on her shoulder and ponytail. PRACTICAL — the Edison bulb, the rain-city glow. SEPARATION — the cool windows behind the warm figure. BOUNCE — minimal; deep shadow.
+LENS + DOF + BOKEH: 35mm, f/4, deep; the loft legible, the empty air centre-left where the portal will appear.
+COMPOSITION: vertical 9:16, Aira on the right-third in the bulb-pool, the dark loft receding left, the empty portal-space centre-left.
+SUBJECT FRAMING & POSITION: Aira reads as a complete full-length figure in the bulb-pool, framed head-to-boots, her torso in a three-quarter facing slightly left so her face is near-front while one hand holds the key at her side. The camera holds a wide establishing distance at eye level; she anchors the right-third with the dark loft opening to frame-left. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: moody minimal tension, the hush before she turns the key.
+COLOUR GRADE: VIVID-moody — warm Edison gold in the pool + cool blue rain-light + deep olive trousers + the aged brass key as a warm accent; rich blacks, glossy where light touches.
+TEXTURE & MICRO-DETAIL: ribbed-knit texture, aged-brass key engraving, concrete grain, rain-streaked glass, the ponytail's razor sheen, silver thumb-ring, espresso nail gloss.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
+
+### ANIMATION (this clip, ~5s — ★ turning the key cracks open the portal)
+SHOT TYPE & ANGLE: eye-level wide, three-quarter; subject ~45% right-third.
+CAMERA MOVEMENT (CHOREOGRAPHY): a slow push-in toward her and the empty portal-air — one continuous shot.
+LENS: 35mm, f/4, deep.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–1.5s — she breathes in, shoulders lifting, then raises the key into the air in front of her — a slow deliberate lift.
+- 1.5–2.5s — ★ TRIGGER: she turns the key in the air (a firm wrist-rotation, as if in an invisible lock).
+- 2.5–5.0s — the air CRACKS — a vertical seam of golden light splits open from the key-teeth and begins to widen, warm wind beginning to blow.
+FLUIDITY & WEIGHT NOTES: the key has real brass weight (she lifts with arm-effort); the wrist-turn meets believable invisible-lock resistance; all motion eases.
+FABRIC/HAIR/PROP PHYSICS: the key catches the Edison light as it rises; the crack opens with material-tearing light-physics; the first warm wind presses her ponytail and turtleneck.
+FOOTWORK & BODY FLOW: a grounded stance, weight braced as she turns the key.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE CRACK at 1.5–4.0s — triggered by the key-turn, a vertical seam of blazing golden light splits the dark air from the key-teeth outward, widening into a portal; through the widening crack, a sliver of sun-drenched Mediterranean coast appears (turquoise sea, white buildings, bougainvillea); warm wind blasts through into the cold loft.
+LIGHTING-IN-MOTION: the dark loft is invaded by a blazing warm golden portal-light from the crack, flooding her face and the concrete.
+DIEGETIC AUDIO: rain on the windows; a distant thunder-roll; the vast concrete room-tone; Edison buzz; the key's metal warming (a faint tonal hum); then the AIR CRACK (a visceral, deep, resonant tearing sound) and a warm wind-whoosh.
+MASTER TRACK: a deep sustained drone + rain-texture; sharp metallic percussive hits on the key-turn.
+END STATE / STATE-MATCH LOCK (heavy detail — CLIP 2's START IMAGE must reproduce 100%, new angle only): at clip end a blazing golden crack splits the loft air, a sliver of Mediterranean coast visible through it, warm wind blasting in, the dark loft half-lit gold; Aira braced with the key turned, black turtleneck, ink-black ponytail blowing. CLIP 2 must open in this EXACT state (same golden crack, same Mediterranean sliver, same wind, same wardrobe) — only the camera angle changes.
+CUT LOGIC: hard ANGLE-CUT to CLIP 2 (medium, front). No motion-match; WORLD STATE matches 100%.
+
+---
+
+## CLIP 2 of 6 — MEDIUM · FRONT · SLIGHT LOW ANGLE (opens cracked portal = CLIP 1 end; portal blazes, wind blasts)
+
+### START IMAGE (keyframe — portal cracked open, reproduces CLIP 1's END STATE, new angle)
+ANGLE & SHOT SIZE: slight low-angle MEDIUM, waist-up, front; the key held out at arm's length, the blazing golden crack splitting the air directly beyond it.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: the black turtleneck, the brass belt-buckle at the lower frame — identical state.
+FOOTWEAR: out of frame.
+EYEWEAR: none.
+ACCESSORIES: the silver thumb-ring prominent on the key-hand, silver hoops, espresso nails gripping the turned key.
+HAIR: the ink-black ponytail blowing back in the portal-wind, leather cord taut.
+MAKEUP: clean, lit blazing gold from the portal.
+HANDS & NAILS: the key turned 90° in the air, her grip firm, wrist rotated, teeth aligned with the crack; espresso nails.
+FACIAL MICRO-DYNAMICS: exhilaration (not fear) — eyes wide and lit by the portal-blast, brow up, lips parted, chin lifted against the light and wind, hair streaming back.
+BODY POSTURE & WEIGHT: braced, arm extended to the key, weight forward against the wind, shoulders square, alive.
+KINETIC STILLNESS (8 layers): (1) the golden crack widening; (2) warm wind streaming her ponytail back; (3) a bougainvillea petal tumbling in from the other world; (4) the turtleneck pressed by the wind; (5) chest rising; (6) salt-mist drifting through the crack; (7) the Edison bulb swaying harder in the draft; (8) a wind-squint blink.
+SPATIAL LOGIC: FOREGROUND — the key and the crack, sharp. MIDGROUND — her face and braced body. BACKGROUND — the dark loft on one side, the blazing Mediterranean sliver on the other.
+LIGHTING: KEY — the blazing portal-light from straight ahead, flooding her face. FILL — cool loft rain-light behind. RIM — a hot golden edge. PRACTICAL — the portal, Edison bulb. SEPARATION — blazing portal vs dark loft. BOUNCE — warm gold on her chest.
+LENS + DOF + BOKEH: 50mm, f/2.8, slight low; her face and the crack sharp, a natural light-bloom/flare across the lens.
+COMPOSITION: vertical 9:16, her at centre, the key at the exact midpoint, the golden crack splitting the air beyond — key as the fulcrum.
+SUBJECT FRAMING & POSITION: Aira is framed waist-up, front, slightly low, the key extended at arm's length to the cracking portal. Her torso squares to the crack, braced against the wind. The camera holds a medium distance, slightly low; she rides centre with the portal directly beyond the key. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: the visceral thrill of cracking a door between worlds.
+COLOUR GRADE: BLAZING VIVID — golden portal-light + turquoise-and-white Mediterranean sliver + her dark outfit as contrast; extreme light-vs-dark drama. (Matches CLIP 1 END STATE.)
+TEXTURE & MICRO-DETAIL: the crack's light-tearing edges, salt-mist particles, a tumbling petal, wind-streamed ponytail strands, brass-key engraving, turtleneck weave.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
+
+### ANIMATION (this clip, ~4s — portal blazes open, wind blasts through)
+SHOT TYPE & ANGLE: slight low-angle medium, front; subject ~55% centre.
+CAMERA MOVEMENT (CHOREOGRAPHY): a static low hold — the portal does the work — one continuous shot.
+LENS: 50mm, f/2.8, slight low.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–1.5s — she holds the turned key as the crack blasts wider.
+- 1.5–2.8s — warm wind blasts through, streaming her hair back; a bougainvillea petal and salt-mist tumble in.
+- 2.8–4.0s — her exhilaration settles into a fierce grin against the wind.
+FLUIDITY & WEIGHT NOTES: the key stays locked in her firm grip; the wind has correct directional force (hair, turtleneck press back); all motion eases except the blast.
+FABRIC/HAIR/PROP PHYSICS: the crack widens with light-tearing physics; the wind-blast streams her ponytail straight back and presses the turtleneck; the petal tumbles with real air-resistance; the Edison bulb sways in the draft.
+FOOTWORK & BODY FLOW: braced, weight forward against the wind.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE BLAST at 0.0–3.0s — the golden crack widens to a 2-foot portal, warm Mediterranean wind blasting through carrying a petal and salt-mist; the other world's light flooding the loft.
+LIGHTING-IN-MOTION: the golden blast ramps from crack-thin to flooding; her whole face and chest progressively illuminated; a natural lens-bloom.
+DIEGETIC AUDIO: the AIR CRACK resonating; the warm wind-whoosh; ocean sounds (waves, gulls) leaking from the other world; a petal passing the mic; her gasp against the wind.
+MASTER TRACK: full warm Mediterranean music (acoustic guitar + hand-drum + bouzouki) BLASTS in simultaneously with the portal — like a door opening on a sunny party.
+END STATE / STATE-MATCH LOCK (heavy detail — CLIP 3's START IMAGE must reproduce 100%, new angle only): at clip end the portal is a wide blazing window onto the Mediterranean, warm wind and music pouring through, the dark loft half-flooded gold; Aira braced with the key, ponytail streaming, fierce grin. CLIP 3 must open in this EXACT state (same wide portal, same Mediterranean, same wind, same wardrobe) — only the angle changes.
+CUT LOGIC: hard ANGLE-CUT to CLIP 3 (over-the-shoulder). No motion-match; WORLD STATE matches 100%.
+
+---
+
+## CLIP 3 of 6 — THREE-QUARTER BODY · OVER-THE-SHOULDER / BACK · EYE-LEVEL (opens wide portal = CLIP 2 end; full Mediterranean, holds the door open)
+
+### START IMAGE (keyframe — full portal, reproduces CLIP 2's END STATE, new angle)
+ANGLE & SHOT SIZE: eye-level THREE-QUARTER BODY (knees-up) from behind/over her right shoulder, looking past her into the full Mediterranean portal-world.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: the turtleneck and olive cargo trousers from behind, belt visible — identical state.
+FOOTWEAR: combat boots planted wide against the wind.
+EYEWEAR: none.
+ACCESSORIES: silver hoops at the jaw-line, the key still extended toward the open portal, silver thumb-ring, espresso nails.
+HAIR: the ink-black ponytail blowing sideways in the portal-wind, leather cord taut.
+MAKEUP: clean, dual-lit warm Mediterranean / cool loft.
+HANDS & NAILS: the key held firm at arm's length, still turned, holding the door open; espresso nails.
+FACIAL MICRO-DYNAMICS: (profile glimpsed past her shoulder) a fierce satisfied half-grin against the warm wind, eyes steady on the other world, hair streaming.
+BODY POSTURE & WEIGHT: braced from behind, weight forward, shoulders square to the portal, spine long, alive.
+KINETIC STILLNESS (8 layers): (1) the Mediterranean village alive (waves, a sailing boat, swaying bougainvillea); (2) petals and salt-mist drifting into the loft; (3) the ponytail streaming; (4) the cargo trousers pressed by the wind; (5) chest rising; (6) the portal-edge crackling with contained energy; (7) turbulence-shimmer at the world-boundary; (8) a slow blink.
+SPATIAL LOGIC: FOREGROUND — her shoulder and the key, soft. MIDGROUND — the open portal. BACKGROUND — the full sun-drenched Mediterranean coastal village.
+LIGHTING: KEY — blazing Mediterranean sun pouring through the portal. FILL — cool dark loft behind her. RIM — a hot golden edge on her back and ponytail. PRACTICAL — the portal-world sun, Edison bulb. SEPARATION — blazing portal vs dark loft. BOUNCE — warm gold on her back.
+LENS + DOF + BOKEH: 40mm, f/2.8; her shoulder soft foreground, the portal-world sharp, sea and village in warm bokeh.
+COMPOSITION: vertical 9:16, over-the-shoulder — her shoulder/ponytail anchoring lower-left, the blazing Mediterranean portal filling centre-right.
+SUBJECT FRAMING & POSITION: Aira is seen from behind/over her right shoulder, framed knees-up so her dark back and streaming ponytail fill the soft near-foreground while the open portal-world blazes beyond. Her torso faces away into the portal, holding the key. The camera is close behind at eye level; she anchors lower-left, the portal opens centre-right. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: two worlds colliding in one frame — dark loft framing a blazing escape.
+COLOUR GRADE: MAXIMUM CONTRAST — the portal in full saturated Mediterranean colour (turquoise, white, hot-pink, terracotta) vs the dark loft (cool blue, shadow, Edison-warm). (Matches CLIP 2 END STATE.)
+TEXTURE & MICRO-DETAIL: the portal-world's white-washed walls and terracotta roofs, drifting petals, salt-mist, ponytail strands, portal-edge crackle, boundary turbulence.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
+
+### ANIMATION (this clip, ~4s — full portal world; she begins the reverse-turn)
+SHOT TYPE & ANGLE: eye-level three-quarter body over-the-shoulder; her back ~45% lower-left, portal centre-right.
+CAMERA MOVEMENT (CHOREOGRAPHY): a gentle arc around her right shoulder, widening the portal view — one continuous shot.
+LENS: 40mm, f/2.8, shallow.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–1.5s — she leans slightly into the warm wind, savouring the other world.
+- 1.5–2.8s — the Mediterranean is fully alive — waves crash, a boat sails, bougainvillea sways; petals drift into the loft.
+- 2.8–4.0s — she begins turning the key BACK — closing time — a breath of reluctance.
+FLUIDITY & WEIGHT NOTES: she savours, then the reverse-turn begins against resistance; all motion eases.
+FABRIC/HAIR/PROP PHYSICS: two weather systems collide at the portal-edge (warm vs cool air, visible turbulence-shimmer); her hair and clothes respond to the warm directional wind; the portal-edges crackle with contained energy.
+FOOTWORK & BODY FLOW: braced, weight forward, then a subtle shift as the reverse-turn begins.
+MID-CLIP TRANSFORMATION (timed): the portal holds at full bloom (seeded earlier); at 2.8s the reverse-turn begins, the Mediterranean light just starting to narrow.
+LIGHTING-IN-MOTION: the Mediterranean light begins to narrow as the key turns back; shadows creep in from the portal-edges.
+DIEGETIC AUDIO: full Mediterranean soundscape (waves, gulls, distant village life, warm wind); the portal-edge crackle; her clothes flapping; the key beginning to GROAN as it turns back.
+MASTER TRACK: the full Mediterranean music at its brightest, beginning to fade as the portal narrows.
+END STATE / STATE-MATCH LOCK (heavy detail — CLIP 4's START IMAGE must reproduce 100%, new angle only): at clip end the portal is full and blazing but the reverse-turn has begun (light just starting to narrow); Aira braced, key turning back, ponytail streaming, turtleneck. CLIP 4 must open in this EXACT state (same near-full portal, beginning to narrow, same wardrobe) — only the angle changes (to the close-up).
+CUT LOGIC: hard ANGLE-CUT to CLIP 4 (close-up on face + key). No motion-match; WORLD STATE matches 100%.
+
+---
+
+## CLIP 4 of 6 — CLOSE-UP (face + key) · THREE-QUARTER · EYE-LEVEL (opens narrowing portal = CLIP 3 end; ★ reverse-turn narrows it)
+
+### START IMAGE (keyframe — portal narrowing, reproduces CLIP 3's END STATE, new angle)
+ANGLE & SHOT SIZE: eye-level CLOSE-UP, face and the key-hand, three-quarter, the narrowing portal-light fading to her left.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: the black turtleneck at the throat — identical state.
+FOOTWEAR: out of frame.
+EYEWEAR: none.
+ACCESSORIES: the silver thumb-ring sharp on the key-hand, silver hoops, espresso nails — the key mid-reverse-turn.
+HAIR: the ponytail settling as the wind dies, strands falling back into place, leather cord.
+MAKEUP: clean, transitional warm-to-cool light.
+HANDS & NAILS: her thumb and forefinger rotating the key back to neutral, the teeth returning to vertical — precise, final; espresso nails.
+FACIAL MICRO-DYNAMICS: a complex closing expression — quiet power with private tenderness; eyes watching the last sliver of the other world with soft focus, lashes lowered halfway, lips pressed in a gentle firm line (resolved, not sad); a single slow blink as the light fades.
+BODY POSTURE & WEIGHT: drawing the key back toward herself, shoulders settling as the wind dies, breathing.
+KINETIC STILLNESS (8 layers): (1) the portal-seam narrowing to a thin golden line; (2) the wind dying, the ponytail settling; (3) a last petal drifting down; (4) the turtleneck relaxing; (5) chest rising; (6) the Edison bulb steadying; (7) the warm light draining left-to-right; (8) a slow resolved blink.
+SPATIAL LOGIC: FOREGROUND — her face and the key, sharp. MIDGROUND — the dying portal-slit. BACKGROUND — the dark loft reasserting.
+LIGHTING: KEY — the fading portal-light as a diminishing warm key. FILL — cool loft rain-blue returning. RIM — a warm remnant edge. PRACTICAL — the narrowing portal, Edison bulb. SEPARATION — fading warm vs returning dark. BOUNCE — warm gold draining from her face.
+LENS + DOF + BOKEH: 85mm, f/2.0; her face and key-hand sharp, the dying portal soft, the final seal-flash sharp on the key.
+COMPOSITION: vertical 9:16, her face and key-hand centre-right, the dying portal-slit left, light draining left-to-right.
+SUBJECT FRAMING & POSITION: Aira is framed in a close-up, face and key-hand, three-quarter toward camera, drawing the key back as the portal narrows. She sits centre-right, the dying portal-slit to frame-left. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: the controlled, tender closing of a door between worlds.
+COLOUR GRADE: TRANSITIONAL VIVID — the blazing gold fading, cool rain-blue returning, the warm-cool split in dramatic tension on her face. (Matches CLIP 3 END STATE, narrowing.)
+TEXTURE & MICRO-DETAIL: the narrowing seam's light-edge, settling ponytail strands, a last drifting petal, brass-key engraving, real skin texture in the dual light.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
+
+### ANIMATION (this clip, ~4s — ★ reverse-turn narrows the portal)
+SHOT TYPE & ANGLE: eye-level close-up; face ~70% centre-right with the key-hand.
+CAMERA MOVEMENT (CHOREOGRAPHY): an imperceptible push-in — one continuous shot.
+LENS: 85mm, f/2.0, shallow.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–1.5s — the wrist completes the reverse-turn, the key returning to neutral.
+- 1.5–2.8s — ★ TRIGGER: the portal-seam narrows to a hair-thin line as the key straightens.
+- 2.8–4.0s — she draws the key back toward herself, a slow resolved blink as the light drains.
+FLUIDITY & WEIGHT NOTES: the reverse-turn is precise and final; the key draws back deliberately; all motion eases.
+FABRIC/HAIR/PROP PHYSICS: the seam narrows with light-healing physics; the wind dies and the ponytail settles; a last petal drifts down.
+FOOTWORK & BODY FLOW: shoulders settling as the wind dies.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE NARROWING at 1.5–3.5s — triggered by the reverse-turn, the portal-seam narrows from a wide window to a hair-thin golden line; the Mediterranean visible only as a thin slice now; the dark loft reasserting.
+LIGHTING-IN-MOTION: the fading portal-light as a diminishing warm key; shadow returning from the right; the warm-cool split shifting cooler.
+DIEGETIC AUDIO: the Mediterranean soundscape muffling as the seam narrows; the key GROANING as it turns back; a tonal descending hum; rain reasserting; her steady breath.
+MASTER TRACK: the Mediterranean music fades as the portal narrows; the dark drone reasserting.
+END STATE / STATE-MATCH LOCK (heavy detail — CLIP 5's START IMAGE must reproduce 100%, new angle only): at clip end the portal is a hair-thin golden seam about to seal, the loft nearly dark again, the key drawn back to neutral; Aira resolved, turtleneck, ponytail settled. CLIP 5 must open in this EXACT state (same thin seam, same near-dark loft, same wardrobe) — only the angle changes; the seal happens within CLIP 5.
+CUT LOGIC: hard ANGLE-CUT to CLIP 5 (medium, three-quarter). No motion-match; WORLD STATE matches 100%.
+
+---
+
+## CLIP 5 of 6 — MEDIUM · THREE-QUARTER · SLIGHT LOW ANGLE (opens thin-seam = CLIP 4 end; ★ portal SEALS, key to fist)
+
+### START IMAGE (keyframe — seam about to seal, reproduces CLIP 4's END STATE, new angle)
+ANGLE & SHOT SIZE: slight low-angle MEDIUM, waist-up, three-quarter, the hair-thin golden seam about to vanish, the dark loft around her.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: the black turtleneck and olive cargo trousers, brass belt — identical state.
+FOOTWEAR: out of frame (waist-up).
+EYEWEAR: none.
+ACCESSORIES: the silver thumb-ring, hoops, espresso nails — the key drawing into her palm.
+HAIR: the ink-black ponytail settled to rest over one shoulder, leather cord, sleek.
+MAKEUP: clean, returning to Edison-and-rain light.
+HANDS & NAILS: she draws the key back into her palm and closes her fingers around it (a fist forming around the warm brass); espresso nails.
+FACIAL MICRO-DYNAMICS: quiet power satisfaction — eyes on the sealing seam then forward, a slow knowing half-smile, brow easing, a satisfied exhale.
+BODY POSTURE & WEIGHT: a grounded three-quarter, weight settled, the key drawn to her chest, breathing.
+KINETIC STILLNESS (8 layers): (1) the seam flashing brilliant white then sealing; (2) the air healing without a trace; (3) the ponytail at rest; (4) the turtleneck settling; (5) chest rising on a satisfied breath; (6) the Edison bulb steadying; (7) rain reasserting on the windows; (8) a slow satisfied blink.
+SPATIAL LOGIC: FOREGROUND — the key drawing to her fist, sharp. MIDGROUND — Aira. BACKGROUND — the dark loft, sealed and quiet.
+LIGHTING: KEY — the last seal-flash, then the warm Edison bulb returning as primary. FILL — cool rain-blue. RIM — warm Edison edge. PRACTICAL — Edison bulb, rain-city. SEPARATION — warm figure vs dark loft. BOUNCE — minimal, deep shadow.
+LENS + DOF + BOKEH: 50mm, f/2.8, slight low; her and the fist sharp, the seal-flash blooming then fading, the loft dark bokeh.
+COMPOSITION: vertical 9:16, Aira centre, the sealed air where the portal was, the key drawn to her chest.
+SUBJECT FRAMING & POSITION: Aira is framed waist-up in a three-quarter, slightly low, drawing the key into her fist as the seam seals. Her torso angles toward where the portal was. The camera holds a medium distance, slightly low; she rides centre with the sealed dark loft around. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: the calm after the door closes — power held quietly.
+COLOUR GRADE: VIVID-moody — the seal-flash bright, then warm Edison gold + cool rain-blue + deep olive; rich blacks. (Matches CLIP 4 END STATE, sealing.)
+TEXTURE & MICRO-DETAIL: the seal-flash bloom, the air healing seamlessly, the brass key warm in her fist, turtleneck weave, ponytail sheen, espresso nails.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
+
+### ANIMATION (this clip, ~4s — ★ portal SEALS; key to fist)
+SHOT TYPE & ANGLE: slight low-angle medium, three-quarter; subject ~55% centre.
+CAMERA MOVEMENT (CHOREOGRAPHY): a static hold, the seal playing — one continuous shot.
+LENS: 50mm, f/2.8, slight low.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–1.5s — she draws the key back toward herself, away from the sealing air.
+- 1.5–2.5s — ★ TRIGGER: the seam narrows to a hair, flashes brilliant white, then SEALS — the air heals without a trace.
+- 2.5–4.0s — she closes her fingers around the warm key, a satisfied exhale and knowing half-smile.
+FLUIDITY & WEIGHT NOTES: the draw-back is deliberate; the fist forms finger-by-finger (pinky first); all motion eases except the seal-flash.
+FABRIC/HAIR/PROP PHYSICS: the seam closes with material-healing physics (like skin closing); the final flash is a contained burst; the air stills instantly once sealed; the ponytail settles to rest; the key warm in her palm.
+FOOTWORK & BODY FLOW: a grounded settle, the key drawn to her chest.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE SEAL at 1.5–2.5s — triggered by the key reaching neutral and drawing back, the portal-seam flashes white and seals, the loft air healing without a trace; the magic closed.
+LIGHTING-IN-MOTION: the golden light vanishes in the seal-flash; the Edison bulb reasserts as the only warm source; her face transitions from portal-lit to Edison-lit.
+DIEGETIC AUDIO: the portal narrowing (a tonal descending hum); the seal FLASH (a deep resonant "THOOM" felt in the chest); instant silence after; then rain, Edison buzz and room-tone return; her satisfied exhale.
+MASTER TRACK: the seal "THOOM" kills the music for one beat of silence; then the dark drone returns.
+END STATE / STATE-MATCH LOCK (heavy detail — CLIP 6's START IMAGE must reproduce 100%, then loop): at clip end the loft is dark and quiet, the portal sealed without a trace, the key enclosed in her fist; Aira calm-powerful, turtleneck, ponytail at rest. CLIP 6 must open in this EXACT post-seal state (dark loft, key in hand, same wardrobe) — only the angle changes, returning to the CLIP-1 wide.
+CUT LOGIC: hard ANGLE-CUT to CLIP 6 (wide). No motion-match; state matches, returning to CLIP 1.
+
+---
+
+## CLIP 6 of 6 — WIDE · THREE-QUARTER · EYE-LEVEL (key at side, the hook; reset → loop to CLIP 1)
+
+### START IMAGE (keyframe — dark loft, key at side, reproduces CLIP 1's opening)
+ANGLE & SHOT SIZE: eye-level WIDE; Aira full body back in the bulb-pool, the key held loosely at her side, the dark loft sealed and quiet — the opening restored, ready to turn the key again.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: the black ribbed turtleneck, olive cargo trousers, brown belt with brass buckle — matched to CLIP 1.
+FOOTWEAR: chunky black combat boots — matched.
+EYEWEAR: none.
+ACCESSORIES: the brass skeleton key held between thumb and forefinger at her side, silver thumb-ring, silver hoops, espresso nails — matched.
+HAIR: the sleek centre-part low ponytail, ink-black, leather cord — matched to CLIP 1.
+MAKEUP: clean matte-luminous — matched.
+HANDS & NAILS: the key held loosely at her side (just opened her fist from CLIP 5), the other hand relaxed; espresso nails.
+FACIAL MICRO-DYNAMICS: a knowing half-smile and a raised brow to the lens (the hook: "where to next time?"), then easing back to the focused intention of CLIP 1.
+BODY POSTURE & WEIGHT: a grounded three-quarter, weight settled, key at her side — mirror of CLIP 1.
+KINETIC STILLNESS (8 layers): (1) the Edison bulb swaying faintly; (2) rain streaking the windows; (3) a ponytail strand drifting; (4) the turtleneck shifting; (5) chest rising; (6) a warm glint on the brass key; (7) drifting dust in the bulb-pool; (8) a slow eyelash settle — matched to CLIP 1.
+SPATIAL LOGIC: FOREGROUND — the key in her hand. MIDGROUND — Aira in the bulb-pool. BACKGROUND — the dark loft, steel windows, rain-city — matched to CLIP 1.
+LIGHTING: KEY — the bare Edison bulb pool. FILL — cool rain-blue. RIM — warm bulb-edge. PRACTICAL — Edison bulb, rain-city. SEPARATION — cool windows behind the warm figure. BOUNCE — minimal, deep shadow — matched to CLIP 1.
+LENS + DOF + BOKEH: 35mm, f/4 — matched to CLIP 1.
+COMPOSITION: vertical 9:16, Aira on the right-third in the bulb-pool, the dark loft receding left, the portal-space centre-left — identical to CLIP 1 so the reel loops.
+SUBJECT FRAMING & POSITION: Aira reads as a complete full-length figure in the bulb-pool, framed head-to-boots, torso in the same three-quarter facing slightly left, face near-front, key at her side. The camera holds the identical wide establishing distance at eye level; she anchors the right-third with the dark loft opening to frame-left — exactly rhyming with CLIP 1 so the loop is seamless. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: moody minimal calm — the key pocketed-power, ready to open another world.
+COLOUR GRADE: VIVID-moody — warm Edison gold + cool rain-blue + deep olive + brass key — matched to CLIP 1.
+TEXTURE & MICRO-DETAIL: ribbed knit, aged-brass engraving, concrete grain, rain-streaked glass, ponytail sheen, silver ring, espresso nails — matched.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
+
+### ANIMATION (this clip, ~4s — the hook; loop close)
+SHOT TYPE & ANGLE: eye-level wide, three-quarter; subject ~45% right-third — matched to CLIP 1.
+CAMERA MOVEMENT (CHOREOGRAPHY): a gentle settle to the exact CLIP-1 establishing framing.
+LENS: 35mm, f/4 — matched.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–1.5s — she opens her fist, showing the key on her palm, and gives the lens a knowing half-smile and raised brow (the hook).
+- 1.5–2.6s — she lowers the key to her side, eyes leveling, the focused intention returning.
+- 2.6–4.0s — she settles into the exact CLIP-1 opening stance, key held loosely at her side.
+FLUIDITY & WEIGHT NOTES: the fist-open is deliberate; the hook-look is conspiratorial; everything returns to the opening.
+FABRIC/HAIR/PROP PHYSICS: the key sits with correct brass weight on her palm then in the loose grip; the ponytail settles; the turtleneck at rest.
+FOOTWORK & BODY FLOW: a grounded three-quarter returning to the CLIP-1 stance.
+MID-CLIP TRANSFORMATION (timed): the magic is sealed and the key pocketed-power; the next loop re-triggers the portal when she next turns the key (the start of CLIP 1).
+LIGHTING-IN-MOTION: Edison bulb steady — matched to CLIP 1.
+LENS / OPTICAL: focus settles to the deep opening look.
+DIEGETIC AUDIO: a soft fist-open skin-flex; the key's faint residual warmth (a near-inaudible tonal hum); rain; Edison buzz; a distant thunder; her steady breath — back to the CLIP-1 bed.
+MASTER TRACK: the dark drone settles to the opening texture, looping cleanly.
+END STATE / STATE-MATCH LOCK: clip ends in the EXACT bulb-pool/key-at-side state and wide angle of CLIP 1's START IMAGE — dark loft, wardrobe and focused expression matched, so the reel loops seamlessly.
+CUT LOGIC: ANGLE-CUT / LOOP back to CLIP 1; the next pass re-triggers the portal when she turns the key.
+
+### ☆ EXTERNAL AUDIO — BLOCK 1: BACKGROUND SOUND DESIGN / AMBIENCE BED — C-2
+*The layered foley + ambience to lay UNDER the reel, separate from the in-clip diegetic audio — timed to the clips.*
+- Base bed (loft clips): rain on the steel windows; a vast hollow concrete room-tone; a faint Edison-bulb buzz; a distant thunder-roll.
+- Trigger stamp (key-turn): a sharp metallic key-turn click on the open (CLIP 1) and a groaning reverse-turn on the close (CLIP 4).
+- CLIP 1 (crack): the visceral AIR-CRACK tearing sound; a key-warming tonal hum.
+- CLIP 2–3 (portal open): a warm wind-whoosh; a full Mediterranean soundscape leaking in — waves, gulls, distant village life; a petal passing the mic; portal-edge crackle.
+- CLIP 4 (narrowing): the Mediterranean muffling; the key groaning; a descending tonal hum.
+- CLIP 5 (seal): the deep resonant seal "THOOM" + one beat of total silence; then rain returning.
+- CLIP 6 (hook): the key's faint residual warmth-hum; rain; thunder — back to the CLIP-1 bed.
+- Mix note: the contrast between the dark rainy loft bed and the blazing Mediterranean blast IS the hook — winter-to-summer in one cut; loops cleanly at ~26s.
+
+### ☆ EXTERNAL AUDIO — BLOCK 2: BACKGROUND MUSIC / SCORE TRACK — C-2 (lay under the sound bed)
+- Genre / vibe: dark cinematic tension into explosive warmth — a building thriller-score that BURSTS into warm Mediterranean brightness at the portal, then contracts.
+- Tempo / key: starts ~70 BPM A minor (tense), explodes to ~100 BPM D major (portal-world), contracts back to 70 BPM A minor (close).
+- Core elements: a deep sustained drone + rain-texture for the loft; sharp metallic percussive hits for the key-turn; a full warm acoustic-guitar + hand-drum + bouzouki explosion for the Mediterranean blast; then the drone reasserts.
+- Arc: drone + rain (CLIP 1) → metallic hits on the key-turn → FULL Mediterranean music BLASTS in with the portal (CLIPs 2–3, like a door onto a party) → fades as the portal narrows (CLIP 4) → the seal "THOOM" kills all music for one beat → the drone returns and settles to the opening (CLIPs 5–6).
+- Texture note: the dark-drone vs Mediterranean-blast contrast is the emotional hook — stepping from winter into summer in one frame.
+- Loop: a clean ~26s loop matching the visual loop point.
+
+---
