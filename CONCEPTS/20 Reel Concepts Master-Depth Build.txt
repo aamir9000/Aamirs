@@ -235,7 +235,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ### Frame 3 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the locked START keyframe of the steel-to-silk dissolve — face fully recognizable, still the cool steel look, the gunmetal surface just beginning to shimmer and soften at the edges. Lock this START so Frame 4's sweep interpolates cleanly to the full silk END (Frame 5).
 
 EYE COLOUR: warm dark-brown irises with faint amber flecks, a crisp twin catchlight, gaze lifting to lens with rising calm, locked to reference.
 
@@ -310,7 +310,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ### Frame 4 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the one impossible move — the steel-to-silk dissolve sweep. LOCK the START (Frame 3, face clear, cool steel, surface rippling) and the END (Frame 5, fully champagne silk, warm after-look). Mid-sweep the face stays clear and recognizable, softly framed (never buried) by the dissolving wave; interpolate strictly between the locked keyframes — do NOT invent a new face, new hands or new bone structure beneath the dissolve. Warm and serene, true cloth-and-metal physics, painterly not chaotic.
 
 EYE COLOUR: warm dark-brown irises with faint amber flecks, luminous with serene awe, a crisp twin catchlight, locked to reference (eye colour holds through the transform).
 
@@ -385,7 +385,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ### Frame 5 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the locked END keyframe of the steel-to-silk dissolve; it must resolve continuously out of the START keyframe in Frame 3 — same face, same hands, same camera distance, the steel now settled into flowing champagne silk. Do NOT invent a new face, new hands or new bone structure; this is the same Aira, serene and radiant, never replaced. Frame 3 (START) and Frame 5 (END) are the two anchors of the single transform.
 
 EYE COLOUR: warm dark-brown irises with faint amber flecks, a crisp twin catchlight, gaze soft and direct, locked to reference (unchanged through the transform).
 
@@ -535,7 +535,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ### Frame 7 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. LOOP NOTE: this is the perfect-loop close — it must resolve back to match Frame 1's framing, camera distance and hand-at-hip presentation so the reel loops seamlessly with no visible seam, look mismatch or pose jump; carry a faint warm glow forward but return the overall composition to the Frame 1 hook so the last frame hands off invisibly to the first.
 
 EYE COLOUR: warm dark-brown irises with faint amber flecks, a crisp twin catchlight, gaze easing back to the composed Frame-1 look, locked to reference.
 
@@ -804,7 +804,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ### Frame 3 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the locked START keyframe of the hero city-to-city wrap — she stands in New York, face/hair/pose fully recognizable and identical, the warm steel-amber street just beginning to ripple at its edges as the wrap loads. Lock this START so Frame 4’s sweep interpolates cleanly to the Frame 5 END; the locked element is HER — interpolate the city and wardrobe around her, never her face.
 
 EYE COLOUR: warm dark-brown irises with faint amber flecks, a crisp twin catchlight from the golden hour, gaze direct to lens with rising assurance, locked to reference.
 
@@ -879,7 +879,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ### Frame 4 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the one impossible move — the hero city-to-city match-cut wrap (New York → Mumbai). LOCK the START (Frame 3, New York, face clear, street rippling) and the END (Frame 5, Mumbai→London settled). Mid-sweep her face, hair and pose stay clear, identical and recognizable while the city and wardrobe wrap around her; interpolate strictly between the locked keyframes — do NOT invent a new face, new hands or new bone structure. Worldly and exhilarating, true cloth-and-light physics, painterly not chaotic.
 
 EYE COLOUR: warm dark-brown irises with faint amber flecks, luminous with worldly joy, a crisp twin catchlight, locked to reference (eye colour holds through the wrap).
 
@@ -954,7 +954,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ### Frame 5 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the locked END keyframe of the hero wrap; it must resolve continuously out of the START keyframe in Frame 3 — same face, same hands, same camera distance — the city now settled into LONDON (wrapped on from Mumbai). Do NOT invent a new face, new hands or new bone structure; this is the same Aira, assured and radiant, never replaced. Frame 3 (START) and Frame 5 (END) are the two anchors of the single hero wrap.
 
 EYE COLOUR: warm dark-brown irises with faint amber flecks, a crisp twin catchlight, gaze soft and direct, locked to reference (unchanged through the wrap).
 
@@ -1104,7 +1104,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ### Frame 7 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. LOOP NOTE: this is the perfect-loop close — the city wraps one final time from Dubai back to PARIS and must resolve to match Frame 1’s framing, camera distance, wardrobe (ivory coat) and hand-in-pocket presentation so the reel loops seamlessly with no visible seam, look mismatch or pose jump; carry a faint warm glow forward but return the overall composition to the Frame 1 hook so the last frame hands off invisibly to the first.
 
 EYE COLOUR: warm dark-brown irises with faint amber flecks, a crisp twin catchlight, gaze easing back to the composed Frame-1 look, locked to reference.
 
@@ -1373,7 +1373,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ### Frame 3 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the locked START keyframe of the drape-unwind — face fully recognizable, still the warm saree look, the pallu and pleats just beginning to lift and spiral at the edges. Lock this START so Frame 4’s spiral sweep interpolates cleanly to the full streetwear END (Frame 5); the locked element is HER — interpolate the drape and wardrobe around her, never her face.
 
 EYE COLOUR: warm dark-brown irises with faint amber flecks, a crisp twin catchlight, gaze lifting to lens with rising spirit, locked to reference.
 
@@ -1448,7 +1448,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ### Frame 4 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the one impossible move — the drape-unwind to streetwear. LOCK the START (Frame 3, face clear, warm saree, pallu rippling) and the END (Frame 5, fully streetwear, cool after-look). Mid-sweep the face stays clear and recognizable, softly framed (never buried) by the spiralling drape; interpolate strictly between the locked keyframes — do NOT invent a new face, new hands or new bone structure beneath the unwind. Spirited and confident, true cloth physics, painterly not chaotic.
 
 EYE COLOUR: warm dark-brown irises with faint amber flecks, luminous with spirited joy, a crisp twin catchlight, locked to reference (eye colour holds through the transform).
 
@@ -1523,7 +1523,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ### Frame 5 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the locked END keyframe of the drape-unwind; it must resolve continuously out of the START keyframe in Frame 3 — same face, same hands, same camera distance, the saree now settled into modern streetwear. Do NOT invent a new face, new hands or new bone structure; this is the same Aira, spirited and cool, never replaced. Frame 3 (START) and Frame 5 (END) are the two anchors of the single transform.
 
 EYE COLOUR: warm dark-brown irises with faint amber flecks, a crisp twin catchlight, gaze soft and direct, locked to reference (unchanged through the transform).
 
@@ -1673,7 +1673,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ### Frame 7 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. LOOP NOTE: this is the perfect-loop close — the streetwear eases back to match Frame 1’s framing, camera distance, saree presentation and hand-at-pallu pose so the reel loops seamlessly with no visible seam, look mismatch or pose jump; carry a faint cool glow forward but return the overall composition to the Frame 1 hook so the last frame hands off invisibly to the first.
 
 EYE COLOUR: warm dark-brown irises with faint amber flecks, a crisp twin catchlight, gaze easing back to the composed Frame-1 look, locked to reference.
 
@@ -1942,7 +1942,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ### Frame 3 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the locked START keyframe of the four-season sweep — face fully recognizable, still the full spring look (blossom tree, cardigan, white sneakers), the light and leaf edges just beginning to turn. Lock this START so Frame 4’s sweep interpolates cleanly to the full winter END (Frame 5); the locked element is HER — interpolate the seasons and layers around her, never her face.
 
 EYE COLOUR: warm dark-brown irises with faint amber flecks, a crisp twin catchlight, gaze lifting to lens with rising wonder, locked to reference.
 
@@ -2017,7 +2017,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ### Frame 4 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the one impossible move — the four-season sweep. LOCK the START (Frame 3, face clear, full spring) and the END (Frame 5, full winter). Mid-sweep the face stays clear and recognizable, softly framed (never buried) by the turning seasons; interpolate strictly between the locked keyframes — do NOT invent a new face, new hands or new bone structure beneath the sweep. Serene and wondrous, true natural physics, painterly not chaotic.
 
 EYE COLOUR: warm dark-brown irises with faint amber flecks, luminous with serene wonder, a crisp twin catchlight, locked to reference (eye colour holds through the sweep).
 
@@ -2092,7 +2092,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ### Frame 5 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the locked END keyframe of the four-season sweep; it must resolve continuously out of the START keyframe in Frame 3 — same face, same hands, same camera distance, the spring now settled into full winter. Do NOT invent a new face, new hands or new bone structure; this is the same Aira, serene and warm, never replaced. Frame 3 (START) and Frame 5 (END) are the two anchors of the single transform.
 
 EYE COLOUR: warm dark-brown irises with faint amber flecks, a crisp twin catchlight, gaze soft and direct, locked to reference (unchanged through the sweep).
 
@@ -2242,7 +2242,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ### Frame 7 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. LOOP NOTE: this is the perfect-loop close — the winter look eases back to match Frame 1’s framing, camera distance, spring presentation and hand-at-braid pose so the reel loops seamlessly with no visible seam, look mismatch or pose jump; carry a faint cool glow forward but return the overall composition to the Frame 1 spring hook so the last frame hands off invisibly to the first.
 
 EYE COLOUR: warm dark-brown irises with faint amber flecks, a crisp twin catchlight, gaze easing back to the composed Frame-1 look, locked to reference.
 
@@ -2511,7 +2511,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ### Frame 3 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the locked START keyframe of the finger-snap change — face fully recognizable, still the full Look A (black tailored set, gold cuff, black boots), the fingers tensed at the snap-point and the air just beginning to charge. Lock this START so Frame 4’s snap-pulse interpolates cleanly to the full Look B END (Frame 5); the locked element is HER — interpolate the wardrobe and backdrop around her, never her face.
 
 EYE COLOUR: warm dark-brown irises with faint amber flecks, a crisp twin catchlight, gaze lifting to lens with rising spark, locked to reference.
 
@@ -2586,7 +2586,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ### Frame 4 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the one impossible move — the finger-snap wardrobe change. LOCK the START (Frame 3, face clear, full Look A, fingers at snap-point) and the END (Frame 5, full Look B). On the crisp snap a clean editorial light-pulse rings out and flips the look along a single wavefront; mid-pulse the face stays clear and recognizable, softly lit (never buried) by the pulse; interpolate strictly between the locked keyframes — do NOT invent a new face, new hands or new bone structure beneath the change. Sharp and confident, true cloth physics, crisp not chaotic.
 
 EYE COLOUR: warm dark-brown irises with faint amber flecks, luminous with playful spark, a crisp twin catchlight, locked to reference (eye colour holds through the change).
 
@@ -2661,7 +2661,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ### Frame 5 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the locked END keyframe of the finger-snap change; it must resolve continuously out of the START keyframe in Frame 3 — same face, same hands, same camera distance, Look A now flipped into Look B. Do NOT invent a new face, new hands or new bone structure; this is the same Aira, sharp and assured, never replaced. Frame 3 (START) and Frame 5 (END) are the two anchors of the single transform.
 
 EYE COLOUR: warm dark-brown irises with faint amber flecks, a crisp twin catchlight, gaze soft and direct, locked to reference (unchanged through the change).
 
@@ -2811,7 +2811,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ### Frame 7 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. LOOP NOTE: this is the perfect-loop close — the white look eases back to match Frame 1’s framing, camera distance, Look-A presentation and poised-snap-hand pose so the reel loops seamlessly with no visible seam, look mismatch or pose jump; carry a faint bright glow forward but return the overall composition to the Frame 1 hook so the last frame hands off invisibly to the first.
 
 EYE COLOUR: warm dark-brown irises with faint amber flecks, a crisp twin catchlight, gaze easing back to the composed Frame-1 look, locked to reference.
 
@@ -3080,7 +3080,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ### Frame 3 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the locked START keyframe of the bloom burst — face fully recognizable, the night-flowers still closed dark buds, she mists the fragrance and the air just begins to charge. Lock this START so Frame 4’s bloom-wave interpolates cleanly to the full-bloom END (Frame 5); the locked element is HER — bloom the garden around her, never alter her face.
 
 EYE COLOUR: warm dark-brown irises with faint amber flecks, a soft moon-catchlight, gaze lifting to lens with rising warmth, locked to reference.
 
@@ -3155,7 +3155,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ### Frame 4 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the one impossible move — the night-flower bloom burst. LOCK the START (Frame 3, face clear, buds closed, mist releasing) and the END (Frame 5, full bloom). On the fragrance wave the dark buds bloom open along a single travelling wavefront; mid-bloom the face stays clear and softly lit (never buried) by the pale bloom-glow; interpolate strictly between the locked keyframes — do NOT invent a new face, new hands or new bone structure beneath the bloom. Ethereal and luminous, true petal physics, soft not chaotic.
 
 EYE COLOUR: warm dark-brown irises with faint amber flecks, luminous with wonder, a soft moon-catchlight, locked to reference (eye colour holds through the bloom).
 
@@ -3230,7 +3230,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ### Frame 5 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the locked END keyframe of the bloom; it must resolve continuously out of the START keyframe in Frame 3 — same face, same hands, same camera distance, the closed buds now fully bloomed. Do NOT invent a new face, new hands or new bone structure; this is the same Aira, radiant and serene, never replaced. Frame 3 (START) and Frame 5 (END) are the two anchors of the single transform.
 
 EYE COLOUR: warm dark-brown irises with faint amber flecks, a soft moon-catchlight, gaze soft and direct, locked to reference (unchanged through the bloom).
 
@@ -3380,7 +3380,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ### Frame 7 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. LOOP NOTE: this is the perfect-loop close — the bloomed garden eases back to match Frame 1’s framing, camera distance, closed-bud presentation and cradled-flacon pose so the reel loops seamlessly with no visible seam, look mismatch or pose jump; carry a faint pale bloom-glow forward but return the overall composition to the Frame 1 hook so the last frame hands off invisibly to the first.
 
 EYE COLOUR: warm dark-brown irises with faint amber flecks, a soft moon-catchlight, gaze easing back to the composed Frame-1 serenity, locked to reference.
 
@@ -3649,7 +3649,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ### Frame 3 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the locked START keyframe of the gold-dust wrap — face fully recognizable, the light still plain golden-hour sun, she mists the fragrance and the air just begins to charge. Lock this START so Frame 4’s gold-dust wrap interpolates cleanly to the full-wrap END (Frame 5); the locked element is HER — gild the light and air around her, never alter her face.
 
 EYE COLOUR: warm dark-brown irises with faint amber flecks, a warm golden catchlight, gaze lifting to lens with rising warmth, locked to reference.
 
@@ -3724,7 +3724,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ### Frame 4 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the one impossible move — the sunlight-to-gold-dust wrap. LOCK the START (Frame 3, face clear, plain light, mist releasing) and the END (Frame 5, full gold-dust wrap). On the fragrance wave the low sunbeams turn to fine gold dust that wraps around her in a single travelling spiral; mid-wrap the face stays clear and warmly lit (never buried) by the gold-dust glow; interpolate strictly between the locked keyframes — do NOT invent a new face, new hands or new bone structure beneath the wrap. Ethereal and luminous, true particle physics, soft not chaotic.
 
 EYE COLOUR: warm dark-brown irises with faint amber flecks, luminous with wonder, a warm golden catchlight, locked to reference (eye colour holds through the wrap).
 
@@ -3799,7 +3799,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ### Frame 5 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the locked END keyframe of the wrap; it must resolve continuously out of the START keyframe in Frame 3 — same face, same hands, same camera distance, the plain light now fully gilded to gold dust. Do NOT invent a new face, new hands or new bone structure; this is the same Aira, radiant and serene, never replaced. Frame 3 (START) and Frame 5 (END) are the two anchors of the single transform.
 
 EYE COLOUR: warm dark-brown irises with faint amber flecks, a warm golden catchlight, gaze soft and direct, locked to reference (unchanged through the wrap).
 
@@ -3949,7 +3949,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ### Frame 7 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. LOOP NOTE: this is the perfect-loop close — the gilded air eases back to match Frame 1’s framing, camera distance, plain-light presentation and cradled-flacon pose so the reel loops seamlessly with no visible seam, look mismatch or pose jump; carry a faint gold-dust glow forward but return the overall composition to the Frame 1 hook so the last frame hands off invisibly to the first.
 
 EYE COLOUR: warm dark-brown irises with faint amber flecks, a warm golden catchlight, gaze easing back to the composed Frame-1 serenity, locked to reference.
 
@@ -4218,7 +4218,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ### Frame 3 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the locked START keyframe of the ink bloom — face fully recognizable, the world still all ivory, she draws a slow breath and the colour just begins to pool. Lock this START so Frame 4’s colour-bloom interpolates cleanly to the full colour-riot END (Frame 5); the locked element is HER — flood the world around her, never alter her face.
 
 EYE COLOUR: warm dark-brown irises with faint amber flecks, a crisp twin catchlight, gaze lifting to lens with rising spark, locked to reference.
 
@@ -4293,7 +4293,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ### Frame 4 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the one impossible move — the ivory-to-colour ink bloom. LOCK the START (Frame 3, face clear, all ivory, colour pooling) and the END (Frame 5, full colour-riot). On the breath a saturated colour blooms through the ivory like ink in water along a single wavefront; mid-bloom the face stays clear and cleanly lit (never buried) by the colour; interpolate strictly between the locked keyframes — do NOT invent a new face, new hands or new bone structure beneath the bloom. Bold and alive, true ink-diffusion physics, painterly not chaotic.
 
 EYE COLOUR: warm dark-brown irises with faint amber flecks, luminous with playful spark, a crisp twin catchlight, locked to reference (eye colour holds through the bloom).
 
@@ -4368,7 +4368,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ### Frame 5 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the locked END keyframe of the ink bloom; it must resolve continuously out of the START keyframe in Frame 3 — same face, same hands, same camera distance, the ivory now fully bloomed to the colour-riot. Do NOT invent a new face, new hands or new bone structure; this is the same Aira, bold and alive, never replaced. Frame 3 (START) and Frame 5 (END) are the two anchors of the single transform.
 
 EYE COLOUR: warm dark-brown irises with faint amber flecks, a crisp twin catchlight, gaze soft and direct, locked to reference (unchanged through the bloom).
 
@@ -4518,7 +4518,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ### Frame 7 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. LOOP NOTE: this is the perfect-loop close — the colour-riot eases back to match Frame 1’s framing, camera distance, all-ivory presentation and resting-hand-at-sternum pose so the reel loops seamlessly with no visible seam, look mismatch or pose jump; carry a faint colour glow forward but return the overall composition to the Frame 1 hook so the last frame hands off invisibly to the first.
 
 EYE COLOUR: warm dark-brown irises with faint amber flecks, a crisp twin catchlight, gaze easing back to the composed Frame-1 look, locked to reference.
 
@@ -4787,7 +4787,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ### Frame 3 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the locked START keyframe of the chrome pour — face fully recognizable, the set still matte, the liquid chrome cresting above ready to pour. Lock this START so Frame 4’s chrome-wrap interpolates cleanly to the fully-set chrome END (Frame 5); the locked element is HER — wrap the chrome around her, never alter her face.
 
 EYE COLOUR: warm dark-brown irises with faint amber flecks, a crisp cool catchlight, gaze lifting to lens with rising spark, locked to reference.
 
@@ -4862,7 +4862,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ### Frame 4 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the one impossible move — the chrome-pour body wrap. LOCK the START (Frame 3, face clear, matte set, chrome cresting) and the END (Frame 5, chrome wrap fully set). On the beat liquid chrome pours from above and wraps around her in a single travelling spiral; mid-wrap the face stays clear and cleanly lit (never buried) by the chrome; interpolate strictly between the locked keyframes — do NOT invent a new face, new hands or new bone structure beneath the chrome. Strong and fluid, true liquid-metal physics, sculptural not chaotic.
 
 EYE COLOUR: warm dark-brown irises with faint amber flecks, luminous with cool spark, a crisp cool catchlight, locked to reference (eye colour holds through the wrap).
 
@@ -4937,7 +4937,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ### Frame 5 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the locked END keyframe of the chrome pour; it must resolve continuously out of the START keyframe in Frame 3 — same face, same hands, same camera distance, the matte set now fully wrapped to the sculptural chrome. Do NOT invent a new face, new hands or new bone structure; this is the same Aira, strong and fluid, never replaced. Frame 3 (START) and Frame 5 (END) are the two anchors of the single transform.
 
 EYE COLOUR: warm dark-brown irises with faint amber flecks, a crisp cool catchlight, gaze soft and direct, locked to reference (unchanged through the wrap).
 
@@ -5087,7 +5087,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ### Frame 7 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. LOOP NOTE: this is the perfect-loop close — the chrome wrap eases back to match Frame 1’s framing, camera distance, matte presentation and resting-hand-at-collarbone pose so the reel loops seamlessly with no visible seam, look mismatch or pose jump; carry a faint chrome glow forward but return the overall composition to the Frame 1 hook so the last frame hands off invisibly to the first.
 
 EYE COLOUR: warm dark-brown irises with faint amber flecks, a crisp cool catchlight, gaze easing back to the composed Frame-1 look, locked to reference.
 
@@ -5356,7 +5356,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ### Frame 3 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the locked START keyframe of the petal burst — face fully recognizable, the world still folded paper, the flower beginning to unfold in her hand. Lock this START so Frame 4’s petal-burst interpolates cleanly to the fully-bloomed petal END (Frame 5); the locked element is HER — bloom the petals around her, never alter her face.
 
 EYE COLOUR: warm dark-brown irises with faint amber flecks, a soft warm catchlight, gaze lifting to lens with rising warmth, locked to reference.
 
@@ -5431,7 +5431,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ### Frame 4 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the one impossible move — the paper-fold to petal burst. LOCK the START (Frame 3, face clear, folded paper, flower unfolding) and the END (Frame 5, petal burst fully bloomed). On the breath the folded paper bursts into soft real petals that wrap her in a single travelling arc; mid-burst the face stays clear and cleanly lit (never buried) by the petals; interpolate strictly between the locked keyframes — do NOT invent a new face, new hands or new bone structure beneath the petals. Soft and alive, true petal-flutter physics, romantic not chaotic.
 
 EYE COLOUR: warm dark-brown irises with faint amber flecks, luminous with soft warm spark, a soft warm catchlight, locked to reference (eye colour holds through the burst).
 
@@ -5506,7 +5506,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ### Frame 5 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the locked END keyframe of the petal burst; it must resolve continuously out of the START keyframe in Frame 3 — same face, same hands, same camera distance, the paper now fully bloomed to the petal wrap. Do NOT invent a new face, new hands or new bone structure; this is the same Aira, soft and alive, never replaced. Frame 3 (START) and Frame 5 (END) are the two anchors of the single transform.
 
 EYE COLOUR: warm dark-brown irises with faint amber flecks, a soft warm catchlight, gaze soft and direct, locked to reference (unchanged through the burst).
 
@@ -5656,7 +5656,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ### Frame 7 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. LOOP NOTE: this is the perfect-loop close — the petal wrap eases back to match Frame 1’s framing, camera distance, paper-craft presentation and resting-hand-near-flower pose so the reel loops seamlessly with no visible seam, look mismatch or pose jump; carry a faint petal glow forward but return the overall composition to the Frame 1 hook so the last frame hands off invisibly to the first.
 
 EYE COLOUR: warm dark-brown irises with faint amber flecks, a soft warm catchlight, gaze easing back to the composed Frame-1 look, locked to reference.
 
@@ -5925,7 +5925,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ### Frame 3 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the locked START keyframe of the speed-wrap — face fully recognizable, still the morning loungewear, the ready-look just beginning to wrap in. Lock this START so Frame 4’s speed-wrap interpolates cleanly to the fully-ready day-look END (Frame 5); the locked element is HER — wrap the look around her, never alter her face.
 
 EYE COLOUR: warm dark-brown irises with faint amber flecks, a bright warm catchlight, gaze lifting to lens with rising spark, locked to reference.
 
@@ -6000,7 +6000,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ### Frame 4 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the one impossible move — the GRWM speed-getting-ready wrap. LOCK the START (Frame 3, face clear, morning loungewear) and the END (Frame 5, ready day look). On the beat a single travelling speed-ramp wraps her from the loungewear to the day look; mid-wrap the face stays clear and cleanly lit (never buried) by the wrap; interpolate strictly between the locked keyframes — do NOT invent a new face, new hands or new bone structure beneath the wrap. Fresh and ready, true cloth-and-light physics, smooth not chaotic.
 
 EYE COLOUR: warm dark-brown irises with faint amber flecks, luminous with fresh spark, a bright warm catchlight, locked to reference (eye colour holds through the wrap).
 
@@ -6075,7 +6075,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ### Frame 5 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the locked END keyframe of the speed-wrap; it must resolve continuously out of the START keyframe in Frame 3 — same face, same hands, same camera distance, the loungewear now fully wrapped to the ready day look. Do NOT invent a new face, new hands or new bone structure; this is the same Aira, fresh and ready, never replaced. Frame 3 (START) and Frame 5 (END) are the two anchors of the single transform.
 
 EYE COLOUR: warm dark-brown irises with faint amber flecks, a bright warm catchlight, gaze soft and direct, locked to reference (unchanged through the wrap).
 
@@ -6225,7 +6225,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ### Frame 7 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. LOOP NOTE: this is the perfect-loop close — the day look eases back to match Frame 1’s framing, camera distance, morning presentation and mug-at-chest pose so the reel loops seamlessly with no visible seam, look mismatch or pose jump; carry a faint day glow forward but return the overall composition to the Frame 1 hook so the last frame hands off invisibly to the first.
 
 EYE COLOUR: warm dark-brown irises with faint amber flecks, a bright warm catchlight, gaze easing back to the composed Frame-1 look, locked to reference.
 
@@ -6494,7 +6494,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ### Frame 3 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the locked START keyframe of the fairy-light bloom — face fully recognizable, still the getting-ready set, the fairy lights cresting above ready to wrap. Lock this START so Frame 4’s fairy-light wrap interpolates cleanly to the fully-set festive END (Frame 5); the locked element is HER — wrap the lights around her, never alter her face.
 
 EYE COLOUR: warm dark-brown irises with faint amber flecks, a warm festive catchlight, gaze lifting to lens with rising spark, locked to reference.
 
@@ -6569,7 +6569,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ### Frame 4 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the one impossible move — the fairy-light bloom wrap. LOCK the START (Frame 3, face clear, getting-ready set, lights cresting) and the END (Frame 5, festive look set). On the beat warm fairy lights bloom and wrap around her in a single travelling spiral; mid-wrap the face stays clear and cleanly lit (never buried) by the lights; interpolate strictly between the locked keyframes — do NOT invent a new face, new hands or new bone structure beneath the lights. Warm and radiant, true string-light physics, festive not chaotic.
 
 EYE COLOUR: warm dark-brown irises with faint amber flecks, luminous with warm festive spark, a warm festive catchlight, locked to reference (eye colour holds through the wrap).
 
@@ -6644,7 +6644,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ### Frame 5 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the locked END keyframe of the fairy-light bloom; it must resolve continuously out of the START keyframe in Frame 3 — same face, same hands, same camera distance, the getting-ready set now fully wrapped to the festive look. Do NOT invent a new face, new hands or new bone structure; this is the same Aira, warm and radiant, never replaced. Frame 3 (START) and Frame 5 (END) are the two anchors of the single transform.
 
 EYE COLOUR: warm dark-brown irises with faint amber flecks, a warm festive catchlight, gaze soft and direct, locked to reference (unchanged through the wrap).
 
@@ -6794,7 +6794,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ### Frame 7 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. LOOP NOTE: this is the perfect-loop close — the festive look eases back to match Frame 1’s framing, camera distance, getting-ready presentation and hand-near-garland pose so the reel loops seamlessly with no visible seam, look mismatch or pose jump; carry a faint festive glow forward but return the overall composition to the Frame 1 hook so the last frame hands off invisibly to the first.
 
 EYE COLOUR: warm dark-brown irises with faint amber flecks, a warm festive catchlight, gaze easing back to the composed Frame-1 look, locked to reference.
 
@@ -7063,7 +7063,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ### Frame 3 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the locked START keyframe of the sunrise sweep — face fully recognizable, still the loungewear, the sunrise light cresting ready to sweep. Lock this START so Frame 4’s sweep interpolates cleanly to the fully-active morning END (Frame 5); the locked element is HER — sweep the light and look around her, never alter her face.
 
 EYE COLOUR: warm dark-brown irises with faint amber flecks, a catchlight warming from cool to gold, gaze lifting to lens with rising spark, locked to reference.
 
@@ -7138,7 +7138,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ### Frame 4 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the one impossible move — the sunrise sweep across the room. LOCK the START (Frame 3, face clear, loungewear, sunrise cresting) and the END (Frame 5, active morning look). On the beat a single travelling sunrise-light sweep rolls across the room and wraps her from the loungewear to the active look; mid-sweep the face stays clear and cleanly lit (never buried) by the light; interpolate strictly between the locked keyframes — do NOT invent a new face, new hands or new bone structure beneath the sweep. Calm and alive, true cloth-and-light physics, smooth not chaotic.
 
 EYE COLOUR: warm dark-brown irises with faint amber flecks, luminous with fresh spark, a warm sunrise catchlight, locked to reference (eye colour holds through the sweep).
 
@@ -7213,7 +7213,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ### Frame 5 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the locked END keyframe of the sunrise sweep; it must resolve continuously out of the START keyframe in Frame 3 — same face, same hands, same camera distance, the loungewear now fully swept to the active morning look. Do NOT invent a new face, new hands or new bone structure; this is the same Aira, fresh and alive, never replaced. Frame 3 (START) and Frame 5 (END) are the two anchors of the single transform.
 
 EYE COLOUR: warm dark-brown irises with faint amber flecks, a warm sunrise catchlight, gaze soft and direct, locked to reference (unchanged through the sweep).
 
@@ -7363,7 +7363,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ### Frame 7 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. LOOP NOTE: this is the perfect-loop close — the active look eases back to match Frame 1’s framing, camera distance, sleepy pre-dawn presentation and glass-at-chest pose so the reel loops seamlessly with no visible seam, look mismatch or pose jump; carry a faint sunrise glow forward but return the overall composition to the Frame 1 hook so the last frame hands off invisibly to the first.
 
 EYE COLOUR: warm dark-brown irises with faint amber flecks, a catchlight easing from sunrise back toward cool pre-dawn, gaze easing back to the composed Frame-1 look, locked to reference.
 
@@ -7632,7 +7632,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ### Frame 3 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the locked START keyframe of the glass bloom — face fully recognizable, still the spa look, the dewy glow cresting ready to wave over her skin. Lock this START so Frame 4’s glass bloom interpolates cleanly to the fully-luminous glass-skin END (Frame 5); the locked element is HER — wave the glow and look around her, never alter her face.
 
 EYE COLOUR: warm dark-brown irises with faint amber flecks, a catchlight cresting clean and luminous, gaze lifting to lens with soft spark, locked to reference.
 
@@ -7707,7 +7707,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ### Frame 4 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the one impossible move — the serum-glow glass bloom. LOCK the START (Frame 3, face clear, spa look, glow cresting) and the END (Frame 5, luminous glass-skin finish). On the beat a single travelling dewy glass-glow wave rolls over her skin and wraps the luminous finish; mid-bloom the face stays clear and cleanly lit (never buried) by the glow; interpolate strictly between the locked keyframes — do NOT invent a new face, new hands or new bone structure beneath the glow, and keep real skin texture (no plastic over-smoothing). Soft and luminous, true skin-and-light physics, smooth not chaotic.
 
 EYE COLOUR: warm dark-brown irises with faint amber flecks, luminous with clean spark, a clean luminous catchlight, locked to reference (eye colour holds through the bloom).
 
@@ -7782,7 +7782,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ### Frame 5 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the locked END keyframe of the glass bloom; it must resolve continuously out of the START keyframe in Frame 3 — same face, same hands, same camera distance, the dewy skin now fully bloomed to the luminous glass-skin finish. Do NOT invent a new face, new hands or new bone structure, and keep real skin texture (no plastic); this is the same Aira, soft and luminous, never replaced. Frame 3 (START) and Frame 5 (END) are the two anchors of the single transform.
 
 EYE COLOUR: warm dark-brown irises with faint amber flecks, a clean luminous catchlight, gaze soft and direct, locked to reference (unchanged through the bloom).
 
@@ -7932,7 +7932,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ### Frame 7 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. LOOP NOTE: this is the perfect-loop close — the glass-skin look eases back to match Frame 1’s framing, camera distance, soft spa presentation and serum-at-collarbone pose so the reel loops seamlessly with no visible seam, look mismatch or pose jump; carry a faint luminous glow forward but return the overall composition to the Frame 1 hook so the last frame hands off invisibly to the first.
 
 EYE COLOUR: warm dark-brown irises with faint amber flecks, a clean soft catchlight, gaze easing back to the composed Frame-1 look, locked to reference.
 
@@ -8201,7 +8201,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ### Frame 3 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the locked START keyframe of the ink draw — face fully recognizable, still the clean base, the ink-stroke cresting ready to draw across the frame. Lock this START so Frame 4’s ink draw interpolates cleanly to the fully-bold winged-liner END (Frame 5); the locked element is HER — draw the ink and look around her, never alter her face.
 
 EYE COLOUR: warm dark-brown irises with faint amber flecks, a catchlight crisping graphic, gaze lifting to lens with cool spark, locked to reference.
 
@@ -8276,7 +8276,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ### Frame 4 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the one impossible move — the winged-liner ink draw. LOCK the START (Frame 3, face clear, clean base, ink cresting) and the END (Frame 5, bold winged-liner look). On the beat a single travelling ink-stroke draws across the frame, drawing her crisp winged liner and wrapping the bold editorial look; mid-draw the face stays clear and cleanly lit (never buried) by the ink; interpolate strictly between the locked keyframes — do NOT invent a new face, new hands or new bone structure beneath the ink. Sharp and graphic, true ink-and-cloth physics, smooth not chaotic.
 
 EYE COLOUR: warm dark-brown irises with faint amber flecks, luminous with cool spark, a crisp graphic catchlight, locked to reference (eye colour holds through the draw).
 
@@ -8351,7 +8351,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ### Frame 5 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the locked END keyframe of the ink draw; it must resolve continuously out of the START keyframe in Frame 3 — same face, same hands, same camera distance, the clean base now fully drawn to the bold winged-liner look. Do NOT invent a new face, new hands or new bone structure; this is the same Aira, sharp and graphic, never replaced. Frame 3 (START) and Frame 5 (END) are the two anchors of the single transform.
 
 EYE COLOUR: warm dark-brown irises with faint amber flecks, a crisp graphic catchlight, gaze sharp and direct, locked to reference (unchanged through the draw).
 
@@ -8501,7 +8501,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ### Frame 7 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. LOOP NOTE: this is the perfect-loop close — the bold look eases back to match Frame 1’s framing, camera distance, clean pre-glam presentation and hand-near-collarbone pose so the reel loops seamlessly with no visible seam, look mismatch or pose jump; carry a faint graphic glow forward but return the overall composition to the Frame 1 hook so the last frame hands off invisibly to the first.
 
 EYE COLOUR: warm dark-brown irises with faint amber flecks, a crisp graphic catchlight easing back toward the clean Frame-1 catchlight, gaze easing back to the composed Frame-1 look, locked to reference.
 
@@ -8770,7 +8770,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ### Frame 3 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the locked START keyframe of the rain-ripple — face fully recognizable, still the soft day look, the rain-ripple cresting ready to roll across the frame. Lock this START so Frame 4’s ripple interpolates cleanly to the fully-cozy cardigan END (Frame 5); the locked element is HER — roll the ripple and look around her, never alter her face.
 
 EYE COLOUR: warm dark-brown irises with faint amber flecks, a catchlight warming soft, gaze easing to lens with dreamy warmth, locked to reference.
 
@@ -8845,7 +8845,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ### Frame 4 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the one impossible move — the rain-on-window ripple. LOCK the START (Frame 3, face clear, soft day look, ripple cresting) and the END (Frame 5, cozy cardigan look). On the beat a single travelling rain-ripple rolls across the window and the frame, wrapping the cozy layered look; mid-roll the face stays clear and cleanly lit (never buried) by the ripple; interpolate strictly between the locked keyframes — do NOT invent a new face, new hands or new bone structure beneath the ripple. Warm and dreamy, true rain-and-cloth physics, smooth not chaotic.
 
 EYE COLOUR: warm dark-brown irises with faint amber flecks, luminous with dreamy warmth, a warm soft catchlight, locked to reference (eye colour holds through the roll).
 
@@ -8920,7 +8920,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ### Frame 5 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the locked END keyframe of the rain-ripple; it must resolve continuously out of the START keyframe in Frame 3 — same face, same hands, same camera distance, the soft day look now fully wrapped to the cozy cardigan look. Do NOT invent a new face, new hands or new bone structure; this is the same Aira, warm and dreamy, never replaced. Frame 3 (START) and Frame 5 (END) are the two anchors of the single transform.
 
 EYE COLOUR: warm dark-brown irises with faint amber flecks, a warm soft catchlight, gaze soft and direct, locked to reference (unchanged through the roll).
 
@@ -9070,7 +9070,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ### Frame 7 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. LOOP NOTE: this is the perfect-loop close — the cozy look eases back to match Frame 1’s framing, camera distance, soft day presentation and hand-cradling-cup pose so the reel loops seamlessly with no visible seam, look mismatch or pose jump; carry a faint warm glow forward but return the overall composition to the Frame 1 hook so the last frame hands off invisibly to the first.
 
 EYE COLOUR: warm dark-brown irises with faint amber flecks, a warm soft catchlight easing back toward the clean Frame-1 catchlight, gaze easing back to the composed Frame-1 look, locked to reference.
 
@@ -9339,7 +9339,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ### Frame 3 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the locked START keyframe of the wind-and-light wave — face fully recognizable, still the breezy day look, the wave cresting ready to sweep across the frame. Lock this START so Frame 4’s wave interpolates cleanly to the fully-golden coastal END (Frame 5); the locked element is HER — sweep the wave and look around her, never alter her face.
 
 EYE COLOUR: warm dark-brown irises with faint amber flecks, a catchlight warming golden, gaze easing to lens with dreamy warmth, locked to reference.
 
@@ -9414,7 +9414,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ### Frame 4 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the one impossible move — the wind-and-light coastal wrap. LOCK the START (Frame 3, face clear, breezy day look, wave cresting) and the END (Frame 5, golden coastal look). On the beat a single travelling wind-and-light wave sweeps across the frame, wrapping the golden-hour coastal look; mid-sweep the face stays clear and cleanly lit (never buried) by the wave; interpolate strictly between the locked keyframes — do NOT invent a new face, new hands or new bone structure beneath the wave. Golden and dreamy, true wind-and-cloth physics, smooth not chaotic.
 
 EYE COLOUR: warm dark-brown irises with faint amber flecks, luminous with dreamy warmth, a warm golden catchlight, locked to reference (eye colour holds through the sweep).
 
@@ -9489,7 +9489,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ### Frame 5 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the locked END keyframe of the wind-and-light wave; it must resolve continuously out of the START keyframe in Frame 3 — same face, same hands, same camera distance, the breezy day look now fully wrapped to the golden coastal look. Do NOT invent a new face, new hands or new bone structure; this is the same Aira, golden and dreamy, never replaced. Frame 3 (START) and Frame 5 (END) are the two anchors of the single transform.
 
 EYE COLOUR: warm dark-brown irises with faint amber flecks, a warm golden catchlight, gaze soft and direct, locked to reference (unchanged through the sweep).
 
@@ -9639,7 +9639,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ### Frame 7 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. LOOP NOTE: this is the perfect-loop close — the golden look eases back to match Frame 1’s framing, camera distance, breezy day presentation and hand-on-car-door pose so the reel loops seamlessly with no visible seam, look mismatch or pose jump; carry a faint golden glow forward but return the overall composition to the Frame 1 hook so the last frame hands off invisibly to the first.
 
 EYE COLOUR: warm dark-brown irises with faint amber flecks, a warm golden catchlight easing back toward the clean Frame-1 catchlight, gaze easing back to the composed Frame-1 look, locked to reference.
 
@@ -9908,7 +9908,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ### Frame 3 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the locked START keyframe of the page-flutter — face fully recognizable, still the soft day look, the flutter cresting ready to sweep across the frame. Lock this START so Frame 4’s flutter interpolates cleanly to the fully-refined blazer END (Frame 5); the locked element is HER — sweep the pages and look around her, never alter her face.
 
 EYE COLOUR: warm dark-brown irises with faint amber flecks, a catchlight warming soft, gaze easing to lens with dreamy warmth, locked to reference.
 
@@ -9983,7 +9983,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ### Frame 4 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the one impossible move — the page-flutter to glow. LOCK the START (Frame 3, face clear, soft day look, flutter cresting) and the END (Frame 5, refined warm look). On the beat a single travelling page-flutter sweeps across the frame, pages fluttering up and wrapping the refined warm look with a warm glow; mid-sweep the face stays clear and cleanly lit (never buried) by the flutter; interpolate strictly between the locked keyframes — do NOT invent a new face, new hands or new bone structure beneath the flutter. Warm and refined, true paper-and-cloth physics, smooth not chaotic.
 
 EYE COLOUR: warm dark-brown irises with faint amber flecks, luminous with dreamy warmth, a warm reading-lamp catchlight, locked to reference (eye colour holds through the sweep).
 
@@ -10058,7 +10058,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ### Frame 5 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the locked END keyframe of the page-flutter; it must resolve continuously out of the START keyframe in Frame 3 — same face, same hands, same camera distance, the soft day look now fully wrapped to the refined warm look. Do NOT invent a new face, new hands or new bone structure; this is the same Aira, warm and refined, never replaced. Frame 3 (START) and Frame 5 (END) are the two anchors of the single transform.
 
 EYE COLOUR: warm dark-brown irises with faint amber flecks, a warm reading-lamp catchlight, gaze soft and direct, locked to reference (unchanged through the sweep).
 
@@ -10208,7 +10208,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ### Frame 7 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. LOOP NOTE: this is the perfect-loop close — the refined look eases back to match Frame 1’s framing, camera distance, soft day presentation and hand-holding-book pose so the reel loops seamlessly with no visible seam, look mismatch or pose jump; carry a faint warm glow forward but return the overall composition to the Frame 1 hook so the last frame hands off invisibly to the first.
 
 EYE COLOUR: warm dark-brown irises with faint amber flecks, a warm reading-lamp catchlight easing back toward the clean Frame-1 catchlight, gaze easing back to the composed Frame-1 look, locked to reference.
 
@@ -10477,7 +10477,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ### Frame 3 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the locked START keyframe of the flour-dust bloom — face fully recognizable, still the sleepy morning look, the bloom cresting ready to sweep across the frame. Lock this START so Frame 4’s bloom interpolates cleanly to the fully-homey cardigan END (Frame 5); the locked element is HER — sweep the dust and look around her, never alter her face.
 
 EYE COLOUR: warm dark-brown irises with faint amber flecks, a catchlight warming soft, gaze easing to lens with dreamy warmth, locked to reference.
 
@@ -10552,7 +10552,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ### Frame 4 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the one impossible move — the flour-dust morning bloom. LOCK the START (Frame 3, face clear, sleepy morning look, bloom cresting) and the END (Frame 5, warm homey look). On the beat a single travelling flour-dust bloom sweeps across the frame, soft dust blooming up and wrapping the warm homey look with a honey glow; mid-sweep the face stays clear and cleanly lit (never buried) by the bloom; interpolate strictly between the locked keyframes — do NOT invent a new face, new hands or new bone structure beneath the bloom. Warm and homey, true dust-and-cloth physics, smooth not chaotic.
 
 EYE COLOUR: warm dark-brown irises with faint amber flecks, luminous with dreamy warmth, a warm morning-window catchlight, locked to reference (eye colour holds through the sweep).
 
@@ -10627,7 +10627,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ### Frame 5 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the locked END keyframe of the flour-dust bloom; it must resolve continuously out of the START keyframe in Frame 3 — same face, same hands, same camera distance, the sleepy morning look now fully wrapped to the warm homey look. Do NOT invent a new face, new hands or new bone structure; this is the same Aira, warm and homey, never replaced. Frame 3 (START) and Frame 5 (END) are the two anchors of the single transform.
 
 EYE COLOUR: warm dark-brown irises with faint amber flecks, a warm morning-window catchlight, gaze soft and direct, locked to reference (unchanged through the sweep).
 
@@ -10777,7 +10777,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ### Frame 7 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. LOOP NOTE: this is the perfect-loop close — the homey look eases back to match Frame 1’s framing, camera distance, sleepy morning presentation and hand-on-bowl pose so the reel loops seamlessly with no visible seam, look mismatch or pose jump; carry a faint warm glow forward but return the overall composition to the Frame 1 hook so the last frame hands off invisibly to the first.
 
 EYE COLOUR: warm dark-brown irises with faint amber flecks, a warm morning-window catchlight easing back toward the clean Frame-1 catchlight, gaze easing back to the composed Frame-1 look, locked to reference.
 
@@ -11046,7 +11046,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ### Frame 3 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the locked START keyframe of the sparkler-and-confetti wave — face fully recognizable, still the chic evening look, the wave cresting ready to sweep across the frame. Lock this START so Frame 4’s wave interpolates cleanly to the fully-glam gown END (Frame 5); the locked element is HER — sweep the sparks and look around her, never alter her face.
 
 EYE COLOUR: warm dark-brown irises with faint amber flecks, a catchlight warming sparkling, gaze easing to lens with dreamy warmth, locked to reference.
 
@@ -11121,7 +11121,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ### Frame 4 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the one impossible move — the sparkler-to-confetti burst. LOCK the START (Frame 3, face clear, chic evening look, wave cresting) and the END (Frame 5, glamorous NYE look). On the beat a single travelling sparkler-and-confetti wave sweeps across the frame, sparkler-light and soft confetti blooming up and wrapping the glamorous NYE look with a sparkling glow; mid-sweep the face stays clear and cleanly lit (never buried) by the wave; interpolate strictly between the locked keyframes — do NOT invent a new face, new hands or new bone structure beneath the wave. Sparkling and celebratory, true spark-and-cloth physics, smooth not chaotic.
 
 EYE COLOUR: warm dark-brown irises with faint amber flecks, luminous with dreamy warmth, a sparkling string-light catchlight, locked to reference (eye colour holds through the sweep).
 
@@ -11196,7 +11196,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ### Frame 5 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the locked END keyframe of the sparkler-and-confetti wave; it must resolve continuously out of the START keyframe in Frame 3 — same face, same hands, same camera distance, the chic evening look now fully wrapped to the glamorous NYE look. Do NOT invent a new face, new hands or new bone structure; this is the same Aira, sparkling and celebratory, never replaced. Frame 3 (START) and Frame 5 (END) are the two anchors of the single transform.
 
 EYE COLOUR: warm dark-brown irises with faint amber flecks, a sparkling string-light catchlight, gaze soft and direct, locked to reference (unchanged through the sweep).
 
@@ -11346,7 +11346,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ### Frame 7 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. LOOP NOTE: this is the perfect-loop close — the glam look eases back to match Frame 1’s framing, camera distance, chic evening presentation and hand-on-railing pose so the reel loops seamlessly with no visible seam, look mismatch or pose jump; carry a faint sparkling glow forward but return the overall composition to the Frame 1 hook so the last frame hands off invisibly to the first.
 
 EYE COLOUR: warm dark-brown irises with faint amber flecks, a sparkling string-light catchlight easing back toward the clean Frame-1 catchlight, gaze easing back to the composed Frame-1 look, locked to reference.
 

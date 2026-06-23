@@ -194,7 +194,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ## Frame 3 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the locked START keyframe of the gold-leaf gilding sweep transform — face fully recognizable, still the opulent gilded-glow look, the gold-leaf flakes now gathering and suspending in the warm air around her, the first flakes just kissing her cheekbone and shoulder. Lock this START so Frame 4's sweep interpolates cleanly to the full gilded END (Frame 5).
 
 WARDROBE: the deep-burgundy velvet gown, continuity-locked, the brocade beginning to catch gathering gold-flake glints, fully modest and pristine, zero snags.
 
@@ -255,7 +255,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ## Frame 4 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the one impossible move — the gold-leaf gilding sweep. LOCK the START (Frame 3, face clear, opulent gilded-glow, flakes gathering) and the END (Frame 5 open, fully gilded radiant after-look). Mid-sweep the face stays clear and recognizable, softly framed (never buried) by the sweeping gold leaf; interpolate strictly between the locked keyframes — do NOT invent a new face, new hands or new bone structure beneath the gold leaf. Opulent and warm, true beaten-gold foil physics, painterly not chaotic.
 
 WARDROBE (refined): the burgundy velvet gown catching the gilding at its richest as the sweep crosses — brocade flaring with travelling gold glints, fully modest, never revealing.
 
@@ -665,7 +665,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ## Frame 3 of 6 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the locked START keyframe of the plankton glow bloom transform — face fully recognizable, still the bioluminescent-glow look, the plankton now gathering and suspending in the dark water around her, the first motes just kindling at her cheekbone and shoulder. Lock this START so Frame 4's bloom interpolates cleanly to the full glowing END (Frame 5).
 
 WARDROBE: the deep-teal-to-midnight iridescent gown, continuity-locked, the sheer layers beginning to catch gathering plankton glow, fully modest and pristine, zero snags.
 
@@ -726,7 +726,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ## Frame 4 of 6 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the one impossible move — the plankton glow bloom. LOCK the START (Frame 3, face clear, bioluminescent-glow, plankton gathering) and the END (Frame 5 open, fully glowing radiant after-look). Mid-bloom the face stays clear and recognizable, softly framed (never buried) by the blooming plankton; interpolate strictly between the locked keyframes — do NOT invent a new face, new hands or new bone structure beneath the plankton glow. Mysterious and cool, true bioluminescent particle physics, dreamy not chaotic.
 
 WARDROBE (refined): the deep-teal iridescent gown lifting to its most ethereal underwater float as the bloom alights — sheer layers drifting fully weightless, fully modest, never revealing.
 
@@ -1075,7 +1075,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ## Frame 3 of 6 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the locked START keyframe of the time-lapse blossom bloom transform — face fully recognizable, still the fresh dewy-glow look, the blossom buds now swelling and gathering on the branches around her, the first petals just unfurling at her shoulder. Lock this START so Frame 4's bloom interpolates cleanly to the full-blossom END (Frame 5).
 
 WARDROBE: the blush-pink wrap dress, continuity-locked, the light fabric beginning to catch gathering petal-glints, fully modest and pristine, zero snags.
 
@@ -1136,7 +1136,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ## Frame 4 of 6 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the one impossible move — the time-lapse blossom bloom. LOCK the START (Frame 3, face clear, fresh dewy-glow, buds swelling) and the END (Frame 5 open, full-blossom radiant after-look). Mid-bloom the face stays clear and recognizable, softly framed (never buried) by the bursting blossoms; interpolate strictly between the locked keyframes — do NOT invent a new face, new hands or new bone structure beneath the blossom bloom. Fresh and bright, true botanical time-lapse physics, joyful not chaotic.
 
 WARDROBE (refined): the blush-pink wrap dress catching the bloom at its freshest as the blossoms burst — light fabric flaring with drifting petal-glints, fully modest, never revealing.
 
@@ -1485,7 +1485,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ## Frame 3 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the locked START keyframe of the constellation line-draw transform — face fully recognizable, still the celestial-glow look, the glowing stars now gathering and suspending in the dark around her, the first silver light-lines just beginning to reach between them near her shoulder. Lock this START so Frame 4's line-draw interpolates cleanly to the full-constellation END (Frame 5).
 
 WARDROBE: the deep-indigo star-flecked gown, continuity-locked, the silver embroidery beginning to catch gathering star-glow, fully modest and pristine, zero snags.
 
@@ -1546,7 +1546,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ## Frame 4 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the one impossible move — the constellation line-draw. LOCK the START (Frame 3, face clear, celestial-glow, stars gathering) and the END (Frame 5 open, full-constellation radiant after-look). Mid-draw the face stays clear and recognizable, softly framed (never buried) by the drawing silver light-lines; interpolate strictly between the locked keyframes — do NOT invent a new face, new hands or new bone structure beneath the constellation light. Mystic and cool, true light-line physics, dreamy not chaotic.
 
 WARDROBE (refined): the deep-indigo star-flecked gown lifting to its most ethereal float as the constellation draws — silver embroidery flaring with travelling light-line glints, fully modest, never revealing.
 
@@ -1956,7 +1956,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ## Frame 3 of 6 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the locked START keyframe of the honey-drip & amber-glaze transform — face fully recognizable, still the warm golden-glow look, slow golden honey ribbons now gathering and drifting in the air around her, the first warm amber-glaze of light beginning to gild her shoulder. Lock this START so Frame 4's glaze interpolates cleanly to the full honey-gilded END (Frame 5).
 
 WARDROBE: the warm honey-gold satin wrap dress, continuity-locked, the satin beginning to catch gathering golden glaze-light, fully modest and pristine, zero snags.
 
@@ -2017,7 +2017,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ## Frame 4 of 6 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the one impossible move — the honey-drip & amber-glaze. LOCK the START (Frame 3, face clear, warm golden-glow, ribbons gathering) and the END (Frame 5 open, full honey-gilded radiant after-look). Mid-glaze the face stays clear and recognizable, softly gilded (never buried or encased) by the warm amber light and drifting honey ribbons; interpolate strictly between the locked keyframes — do NOT invent a new face, new hands or new bone structure beneath the honey-amber. Warm and glossy, true viscous-honey and warm-light physics, indulgent not chaotic.
 
 WARDROBE (refined): the warm honey-gold satin wrap dress catching the glaze at its richest as the amber-light sweeps — satin flaring with travelling golden glints, fully modest, never revealing.
 
@@ -2366,7 +2366,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ## Frame 3 of 6 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the locked START keyframe of the rain-on-skin & ripple transform — face fully recognizable, still the fresh dewy rain-glow look, the soft sheet of rain now gathering and sweeping closer, the first dewy ripples blooming on the wet surfaces and air around her. Lock this START so Frame 4's bloom interpolates cleanly to the full rain-kissed END (Frame 5).
 
 WARDROBE: the cool slate-teal satin wrap dress, continuity-locked, the satin beginning to catch the gathering rain-sheen, fully modest and pristine, zero snags.
 
@@ -2427,7 +2427,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ## Frame 4 of 6 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the one impossible move — the rain-on-skin & ripple bloom. LOCK the START (Frame 3, face clear, fresh rain-glow, rain gathering) and the END (Frame 5 open, full rain-kissed radiant after-look). Mid-bloom the face stays clear and recognizable, softly rain-kissed (never buried or washed away) by the sweeping rain and blooming ripples; interpolate strictly between the locked keyframes — do NOT invent a new face, new hands or new bone structure beneath the rain-ripple. Cool and glassy, true rain and water-ripple physics, refreshing not chaotic.
 
 WARDROBE (refined): the cool slate-teal satin wrap dress catching the rain at its freshest as the sheet sweeps — satin glistening with travelling cool beads, fully modest, never revealing or clingy-sheer.
 
@@ -2776,7 +2776,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ## Frame 3 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the locked START keyframe of the feather-plume burst transform — face fully recognizable, still the regal couture look, soft white feather-plumes now gathering and drifting in the air around her, the first soft cloud beginning to form at her shoulder. Lock this START so Frame 4's burst interpolates cleanly to the full feather-framed END (Frame 5).
 
 WARDROBE: the ivory-and-champagne couture gown, continuity-locked, the luxe fabric beginning to catch gathering feather-light, the feather-trim cuff easing, fully modest and pristine, zero snags.
 
@@ -2837,7 +2837,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ## Frame 4 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the one impossible move — the feather-plume burst. LOCK the START (Frame 3, face clear, regal couture, feathers gathering) and the END (Frame 5 open, full feather-framed radiant after-look). Mid-burst the face stays clear and recognizable, softly framed (never buried or hidden) by the drifting feather-plumes; interpolate strictly between the locked keyframes — do NOT invent a new face, new hands or new bone structure beneath the feather-plume. Regal and soft, true feather-drift physics, opulent not chaotic.
 
 WARDROBE (refined): the ivory-and-champagne couture gown catching the burst at its richest as the feather-cloud blooms — fabric flaring with travelling pearl glints, the feather-trim cuff lifting, fully modest, never revealing.
 
@@ -3247,7 +3247,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ## Frame 3 of 6 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the locked START keyframe of the soap-film iridescent bloom transform — face fully recognizable, still the whimsical iridescent look, soft iridescent soap-bubbles now gathering and drifting in the air around her, the first thin oil-slick film beginning to stretch at her shoulder. Lock this START so Frame 4's bloom interpolates cleanly to the full iridescent-framed END (Frame 5).
 
 WARDROBE: the pearlescent iridescent satin top, continuity-locked, the holographic sheen beginning to catch gathering rainbow light, fully modest and pristine, zero snags.
 
@@ -3308,7 +3308,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ## Frame 4 of 6 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the one impossible move — the soap-film iridescent bloom. LOCK the START (Frame 3, face clear, whimsical iridescent, bubbles gathering) and the END (Frame 5 open, full iridescent-framed radiant after-look). Mid-bloom the face stays clear and recognizable, softly framed (never buried or hidden) by the blooming oil-slick film and drifting bubbles; interpolate strictly between the locked keyframes — do NOT invent a new face, new hands or new bone structure beneath the soap-film. Whimsical and bright, true soap-film physics, magical not chaotic.
 
 WARDROBE (refined): the pearlescent iridescent satin top catching the bloom at its richest as the oil-slick film stretches — fabric flaring with travelling rainbow glints, fully modest, never revealing.
 
@@ -3657,7 +3657,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ## Frame 3 of 6 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the locked START keyframe of the kaleidoscope fractal split transform — face fully recognizable and SINGLE, still the graphic op-art look, the op-art backdrop and light now gathering into mirrored facets that begin to rotate around her. Only the surrounding pattern and light fracture into the kaleidoscope; her one face, one head and one body never multiply, mirror or split. Lock this START so Frame 4's split interpolates cleanly to the full facet-framed END (Frame 5).
 
 WARDROBE: the bold black-and-white op-art geometric top, continuity-locked, the crisp graphic edges beginning to catch gathering facet-light, the electric pop trim crisp, fully modest and pristine, zero snags.
 
@@ -3718,7 +3718,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ## Frame 4 of 6 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the one impossible move — the kaleidoscope fractal split. LOCK the START (Frame 3, single face clear, graphic op-art, facets gathering) and the END (Frame 5 open, full facet-framed radiant after-look). Mid-split ONLY the surrounding op-art backdrop and light fracture and mirror into a slow-spinning kaleidoscope of facets around her; her one face, one head and one body stay clear, single and recognizable, softly framed (never multiplied, never buried) by the spinning facets; interpolate strictly between the locked keyframes — do NOT invent a new face, do NOT duplicate or mirror her face, do NOT invent new hands or new bone structure beneath the kaleidoscope-fractal. Playful and hypnotic, crisp graphic physics, mesmerizing not chaotic.
 
 WARDROBE (refined): the bold black-and-white op-art top catching the split at its crispest as the facets spin — fabric flaring with travelling clean highlights and one electric pop glint, fully modest, never revealing.
 
@@ -4067,7 +4067,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ## Frame 3 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the locked START keyframe of the neon light-trail wrap transform — face fully recognizable and SINGLE, still the electric neon look, the first long-exposure neon light-trails now drawing and gathering into luminous ribbons that begin to curl around her. The trails wrap the air around her; her one face, one head and one body are never traced over, duplicated or replaced. Lock this START so Frame 4's wrap interpolates cleanly to the full trail-wrapped END (Frame 5).
 
 WARDROBE: the sleek liquid-black top with neon-edge piping, continuity-locked, the reflective surface beginning to catch gathering trail-light, the high neckline pristine, fully modest, zero snags.
 
@@ -4128,7 +4128,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ## Frame 4 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the one impossible move — the neon light-trail wrap. LOCK the START (Frame 3, single face clear, electric neon, trails gathering) and the END (Frame 5 open, full trail-wrapped radiant after-look). Mid-wrap the long-exposure neon light-trails wrap in luminous ribbons around her in slow electric arcs; her one face, one head and one body stay clear, single and recognizable, softly framed (never traced over, never buried) by the wrapping trails; interpolate strictly between the locked keyframes — do NOT invent a new face, do NOT duplicate her face, do NOT invent new hands or new bone structure beneath the neon-light-trails. Electric and confident, real long-exposure light physics, mesmerizing not chaotic.
 
 WARDROBE (refined): the sleek liquid-black top catching the wrap at its brightest as the ribbons curl — fabric flaring with travelling neon glints, fully modest, never revealing.
 
@@ -4538,7 +4538,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ## Frame 3 of 6 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the locked START keyframe of the coral-growth bloom transform — face fully recognizable and SINGLE, still the dreamy aquatic look, the first soft corals and sea-flora now sprouting and gathering into a slow blooming arc that begins to curl around her. The corals grow in the air around her; her one face, one head and one body are never overgrown, traced over, duplicated or replaced. Lock this START so Frame 4's bloom interpolates cleanly to the full coral-framed END (Frame 5).
 
 WARDROBE: the pearlescent aqua-teal scaled top, continuity-locked, the iridescent surface beginning to catch the gathering coral-light, the modest neckline pristine, fully modest, zero snags.
 
@@ -4599,7 +4599,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ## Frame 4 of 6 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the one impossible move — the coral-growth bloom. LOCK the START (Frame 3, single face clear, dreamy aquatic, corals gathering) and the END (Frame 5 open, full coral-framed radiant after-look). Mid-bloom the soft corals and sea-flora grow and bloom in dreamy slow arcs around her; her one face, one head and one body stay clear, single and recognizable, softly framed (never overgrown, never buried) by the blooming corals; interpolate strictly between the locked keyframes — do NOT invent a new face, do NOT duplicate her face, do NOT invent new hands or new bone structure beneath the coral-bloom. Dreamy and ethereal, real soft-growth physics, mesmerizing not chaotic.
 
 WARDROBE (refined): the pearlescent aqua-teal scaled top catching the bloom at its softest peak as the corals curl — fabric flaring with travelling pearl glints, fully modest, never revealing.
 
@@ -4948,7 +4948,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ## Frame 3 of 6 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the locked START keyframe of the molten-glass form & cool transform — face fully recognizable and SINGLE, still the warm molten look, the first molten-glass threads now flowing and gathering into a glowing sculptural arc that begins to curl beside her. The glass forms in the air beside her; her one face, one head and one body are never glassed-over, traced over, duplicated or replaced. Lock this START so Frame 4's form interpolates cleanly to the cooled clear-glass END (Frame 5).
 
 WARDROBE: the sculptural bronze-satin top, continuity-locked, the satin beginning to catch the gathering molten-light, the high neckline pristine, fully modest, zero snags.
 
@@ -5009,7 +5009,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ## Frame 4 of 6 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the one impossible move — the molten-glass form & cool. LOCK the START (Frame 3, single face clear, warm molten, glass gathering) and the END (Frame 5 open, cooled clear-glass artwork radiant after-look). Mid-form the glowing molten glass flows and sculpts then begins to cool into a clear glass artwork in slow arcs beside her; her one face, one head and one body stay clear, single and recognizable, softly framed (never glassed-over, never buried) by the forming glass; interpolate strictly between the locked keyframes — do NOT invent a new face, do NOT duplicate her face, do NOT invent new hands or new bone structure beneath the molten-glass. Artisanal and assured, real molten-glass physics, mesmerizing not chaotic.
 
 WARDROBE (refined): the sculptural bronze-satin top catching the form at its glowing peak as the glass curls — fabric flaring with travelling molten glints, fully modest, never revealing.
 
@@ -5358,7 +5358,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ## Frame 3 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the locked START keyframe of the lightning arc crackle transform — face fully recognizable and SINGLE, still the electric storm look, the first electric-white sparks now crackling and gathering into charged arcs that begin to leap around her. The arcs crackle in the air around her; her one face, one head and one body are never struck-over, traced over, duplicated or replaced. Lock this START so Frame 4's arc-crackle interpolates cleanly to the full arc-wrapped END (Frame 5).
 
 WARDROBE: the structured storm-gray power top, continuity-locked, the surface beginning to catch the gathering arc-light, the high neckline pristine, fully modest, zero snags.
 
@@ -5419,7 +5419,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ## Frame 4 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the one impossible move — the lightning arc crackle. LOCK the START (Frame 3, single face clear, electric storm, arcs gathering) and the END (Frame 5 open, full arc-wrapped radiant after-look). Mid-crackle electric-white lightning arcs leap and strike in powerful slow arcs around her; her one face, one head and one body stay clear, single and recognizable, softly framed (never struck-over, never buried) by the crackling arcs; interpolate strictly between the locked keyframes — do NOT invent a new face, do NOT duplicate her face, do NOT invent new hands or new bone structure beneath the lightning-arcs. Powerful and commanding, real electric-arc physics, mesmerizing not chaotic.
 
 WARDROBE (refined): the structured storm-gray power top catching the crackle at its brightest as the arcs leap — fabric flaring with travelling steel glints, fully modest, never revealing.
 
@@ -5829,7 +5829,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ## Frame 3 of 6 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the locked START keyframe of the mirror-ball light-shard scatter transform — face fully recognizable and SINGLE, still the '70s disco look, the mirror-ball now spinning up and the first golden light-shards gathering into a glittering swirl that begins to drift around her. The shards scatter in the air around her; her one face, one head and one body are never shard-covered, traced over, duplicated or replaced. Lock this START so Frame 4's scatter interpolates cleanly to the full shard-swept END (Frame 5).
 
 WARDROBE: the '70s gold-sequined mock-neck long-sleeve top, continuity-locked, the sequins beginning to catch the gathering shard-light, the modest neckline pristine, fully modest, zero snags.
 
@@ -5890,7 +5890,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ## Frame 4 of 6 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the one impossible move — the mirror-ball light-shard scatter. LOCK the START (Frame 3, single face clear, '70s disco, shards gathering) and the END (Frame 5 open, full shard-swept radiant after-look). Mid-scatter a swirl of golden light-shards leaps and scatters in slow glittering arcs around her; her one face, one head and one body stay clear, single and recognizable, softly framed (never shard-covered, never buried) by the scattering shards; interpolate strictly between the locked keyframes — do NOT invent a new face, do NOT duplicate her face, do NOT invent new hands or new bone structure beneath the light-shards. Groovy and joyful, real reflected-light physics, mesmerizing not chaotic.
 
 WARDROBE (refined): the '70s gold-sequined top catching the scatter at its glittering peak as the shards arc — sequins flaring with travelling gold glints, fully modest, never revealing.
 
@@ -6239,7 +6239,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ## Frame 3 of 6 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the locked START keyframe of the bubblegum stretch & pop transform — face fully recognizable and SINGLE, still the bubblegum sweet look, a translucent bubblegum-pink bubble now inflating and stretching into a glossy rounded form that begins to swell beside her. The bubble forms in the air beside her; her one face, one head and one body are never bubble-covered, traced over, duplicated or replaced. Lock this START so Frame 4's pop interpolates cleanly to the glossy shimmer-burst END (Frame 5).
 
 WARDROBE: the glossy bubblegum-pink mock-neck long-sleeve top, continuity-locked, the sheen beginning to catch the inflating bubble-light, the modest neckline pristine, fully modest, zero snags.
 
@@ -6300,7 +6300,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ## Frame 4 of 6 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the one impossible move — the bubblegum stretch & pop. LOCK the START (Frame 3, single face clear, bubblegum sweet, bubble inflating) and the END (Frame 5 open, glossy shimmer-burst radiant after-look). Mid-pop the stretched bubble bursts into a glossy pink shimmer-burst that scatters in slow sweet arcs around her; her one face, one head and one body stay clear, single and recognizable, softly framed (never bubble-covered, never buried) by the bursting shimmer; interpolate strictly between the locked keyframes — do NOT invent a new face, do NOT duplicate her face, do NOT invent new hands or new bone structure beneath the bubblegum-burst. Playful and sweet, real bubble-burst physics, mesmerizing not chaotic.
 
 WARDROBE (refined): the glossy bubblegum-pink top catching the burst at its glossiest peak as the shimmer scatters — the sheen flaring with travelling soft-pink highlights, fully modest, never revealing.
 
@@ -6649,7 +6649,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ## Frame 3 of 6 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the locked START keyframe of the eclipse-shadow light sweep transform — face fully recognizable, SINGLE and clearly lit, still the lunar-mystic look, the eclipse orb now dimming toward totality and a soft lunar shadow beginning to gather and arc at the frame edge before it sweeps. The shadow gathers in the air around her; her one face, one head and one body stay lit, never shadow-swallowed, traced over, duplicated or replaced. Lock this START so Frame 4's sweep interpolates cleanly to the silver-moonlit END (Frame 5).
 
 WARDROBE: the midnight-blue velvet mock-neck long-sleeve top with silver star-thread embroidery, continuity-locked, the silver threads beginning to catch the gathering corona-light, the modest neckline pristine, fully modest, zero snags.
 
@@ -6710,7 +6710,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ## Frame 4 of 6 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the one impossible move — the eclipse-shadow light sweep. LOCK the START (Frame 3, single lit face clear, lunar-mystic, shadow gathering) and the END (Frame 5 open, silver-moonlit radiant after-look). Mid-sweep a soft lunar-eclipse shadow sweeps across the scene and a silver corona of moonlight sweeps back behind it, washing serene silver-blue light in slow arcs around her; her one face, one head and one body stay clear, lit, single and recognizable, softly framed (never shadow-swallowed, never buried) by the sweeping light; interpolate strictly between the locked keyframes — do NOT invent a new face, do NOT duplicate her face, do NOT invent new hands or new bone structure beneath the eclipse-shadow. Serene and mystic, real eclipse-light physics, mesmerizing not chaotic.
 
 WARDROBE (refined): the midnight-blue velvet top catching the sweep at its luminous peak as the corona washes — the silver threads flaring with travelling moonlit glints, fully modest, never revealing.
 
@@ -7059,7 +7059,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ## Frame 3 of 6 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the locked START keyframe of the galaxy paint-pour swirl transform — face fully recognizable and SINGLE, still the fluid-art look, glossy galaxy-toned paint ribbons now pouring and beginning to gather into a marbled swirl that drifts around her. The ribbons pour and curl in the air around her; her one face, one head and one body are never paint-covered, traced over, duplicated or replaced. Lock this START so Frame 4's swirl interpolates cleanly to the full paint-wrapped END (Frame 5).
 
 WARDROBE: the iridescent deep-teal mock-neck long-sleeve top, continuity-locked, the iridescence beginning to catch the gathering paint-light, the modest neckline pristine, fully modest, zero snags.
 
@@ -7120,7 +7120,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ## Frame 4 of 6 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the one impossible move — the galaxy paint-pour swirl. LOCK the START (Frame 3, single face clear, fluid-art, ribbons gathering) and the END (Frame 5 open, paint-wrapped radiant after-look). Mid-swirl glossy galaxy-toned paint ribbons pour and swirl in slow marbled arcs around her; her one face, one head and one body stay clear, single and recognizable, softly framed (never paint-covered, never buried) by the swirling ribbons; interpolate strictly between the locked keyframes — do NOT invent a new face, do NOT duplicate her face, do NOT invent new hands or new bone structure beneath the paint-swirl. Mesmerizing and glossy, real fluid physics, hypnotic not chaotic.
 
 WARDROBE (refined): the iridescent deep-teal top catching the swirl at its glossiest peak as the ribbons arc — the iridescence flaring teal-to-purple with travelling jewel glints, fully modest, never revealing.
 
@@ -7469,7 +7469,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ## Frame 3 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the locked START keyframe of the firefly swarm gather transform — face fully recognizable and SINGLE, still the tender nostalgic look, warm golden fireflies now drifting in and beginning to gather into a glowing swarm around her. The fireflies drift and gather in the air around her; her one face, one head and one body are never firefly-covered, traced over, duplicated or replaced. Lock this START so Frame 4's swarm interpolates cleanly to the soft firefly-halo END (Frame 5).
 
 WARDROBE: the soft buttercream chunky-knit mock-neck top, continuity-locked, the cozy knit beginning to catch the gathering firefly-glow, the modest neckline pristine, fully modest, zero snags.
 
@@ -7530,7 +7530,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ## Frame 4 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the one impossible move — the firefly swarm gather. LOCK the START (Frame 3, single face clear, tender nostalgic, fireflies gathering) and the END (Frame 5 open, firefly-halo radiant after-look). Mid-swarm warm golden fireflies swirl in slow tender luminous arcs around her; her one face, one head and one body stay clear, single and recognizable, softly framed (never firefly-covered, never buried) by the swarming light; interpolate strictly between the locked keyframes — do NOT invent a new face, do NOT duplicate her face, do NOT invent new hands or new bone structure beneath the firefly-swarm. Tender and luminous, real firefly physics, dreamy not chaotic.
 
 WARDROBE (refined): the buttercream knit catching the swarm at its warmest peak as the fireflies arc — the cozy weave flaring with travelling golden glints, fully modest, never revealing.
 
@@ -7940,7 +7940,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ## Frame 3 of 6 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the locked START keyframe of the snow-globe swirl flurry transform — face fully recognizable and SINGLE, still the magical cozy winter look, glittering snowflakes now lifting and beginning to gather into a swirling flurry around her as the scene readies to shake like a snow-globe. The snow lifts and gathers in the air around her; her one face, one head and one body are never snow-covered, traced over, duplicated or replaced. Lock this START so Frame 4's flurry interpolates cleanly to the soft snow-halo END (Frame 5).
 
 WARDROBE: the cream-and-silver fair-isle knit turtleneck, continuity-locked, the cozy knit beginning to catch the gathering snow-light, the modest turtleneck pristine, fully modest, zero snags.
 
@@ -8001,7 +8001,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ## Frame 4 of 6 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the one impossible move — the snow-globe swirl flurry. LOCK the START (Frame 3, single face clear, magical cozy winter, snow gathering) and the END (Frame 5 open, snow-halo radiant after-look). Mid-flurry a swirling cloud of glittering snow lifts and spirals in slow magical arcs around her as the scene shakes like a snow-globe; her one face, one head and one body stay clear, single and recognizable, softly framed (never snow-covered, never buried) by the swirling snow; interpolate strictly between the locked keyframes — do NOT invent a new face, do NOT duplicate her face, do NOT invent new hands or new bone structure beneath the snow-flurry. Magical and cozy, real snow physics, dreamy not chaotic.
 
 WARDROBE (refined): the fair-isle knit catching the flurry at its sparkliest peak as the snow arcs — the cozy weave flaring with travelling silver glints, fully modest, never revealing.
 
@@ -8350,7 +8350,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ## Frame 3 of 8 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the locked START keyframe of the phoenix-ember feather rise transform — face fully recognizable and SINGLE, still the triumphant rebirth look, glowing embers now gathering and beginning to rise into the first phoenix-feather wing forms around her as the rise readies to unfurl. The embers gather and rise in the air around her; her one face, one head and one body are never ember-covered, traced over, duplicated or replaced. Lock this START so Frame 4's rise interpolates cleanly to the soft ember-halo END (Frame 5).
 
 WARDROBE: the sculptural molten-bronze high-neck gown, continuity-locked, the draped bodice beginning to catch the gathering ember-light, the modest high neck pristine, fully modest, zero snags.
 
@@ -8411,7 +8411,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ## Frame 4 of 8 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the one impossible move — the phoenix-ember feather rise. LOCK the START (Frame 3, single face clear, triumphant rebirth, embers gathering) and the END (Frame 5 open, ember-halo radiant after-look). Mid-rise great glowing phoenix-feather wing forms lift and unfurl in slow triumphant arcs around her as the embers stream upward; her one face, one head and one body stay clear, single and recognizable, softly framed (never ember-covered, never buried) by the rising feather-wings; interpolate strictly between the locked keyframes — do NOT invent a new face, do NOT duplicate her face, do NOT invent new hands or new bone structure beneath the ember-feathers. Triumphant and cinematic, real ember physics, dramatic not chaotic.
 
 WARDROBE (refined): the bronze gown catching the rise at its most radiant as the feather-wings unfurl — the draped bodice flaring with travelling gold glints, fully modest, never revealing.
 

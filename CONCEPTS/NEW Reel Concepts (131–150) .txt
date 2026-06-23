@@ -179,7 +179,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ## Frame 2 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: locked START keyframe of the nebula-breath — face fully recognizable, the mouthpiece at her lips, the gather just beginning to swell into a clear orb as the first violet-teal swirl ignites inside it. Lock this START so Frame 3 interpolates cleanly to the fully-formed nebula-orb.
 
 SCENE NOTE: the breath begins. Aira blows a slow, controlled breath down the blowpipe and the dark gather swells into a glowing glass orb; deep inside it, a miniature nebula ignites and begins to swirl — her exhale becoming a galaxy. Her eyes are lit from within by the new violet glow, wonder and concentration held together.
 
@@ -262,7 +262,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ## Frame 3 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: locked END keyframe of the nebula-breath — the orb fully formed and the miniature galaxy swirling steadily inside it, held aloft on the pipe beside her face; identity unbroken, this is the shaping beat.
 
 SCENE NOTE: she shapes the galaxy. The orb hangs glowing at the pipe's tip and Aira works it gently with a wooden block and a slow turn, coaxing the swirling nebula into a clean spiral; her face is calm and lit violet, the maker absorbed in her tiny universe.
 
@@ -345,7 +345,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ## Frame 4 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: locked hold — the finished galaxy-orb lifted near her face, softly defocused so it haloes without competing; face clear and lifted to lens, this is the talkable beat.
 
 SCENE NOTE: she speaks to her creation. Aira lifts the finished orb on its pipe to just beside her cheek, the spiral galaxy glowing against her face, and turns to camera to speak the line — calm, awed, a maker acknowledging what her breath has made.
 
@@ -804,7 +804,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ## Frame 2 of 6 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: locked START keyframe of the orbit-pour — face fully recognizable, the tea streaming from the spout and beginning to curve away from the cup into the first loose loop instead of falling. Lock this START so Frame 3 interpolates cleanly to the full liquid orbit-ring.
 
 SCENE NOTE: the pour curves. Aira tips the teapot and the amber tea streams out — but instead of dropping into the cup it bends sideways and begins to loop, the first arc of a liquid orbit forming around the rim. Her eyes lift a fraction in quiet wonder, the maker watching her tea defy the fall.
 
@@ -887,7 +887,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ## Frame 3 of 6 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: locked END keyframe of the orbit-pour — the tea now arranged into a full slow liquid ribbon-ring orbiting the cup, face clear and serene above it. This is the hero beat.
 
 SCENE NOTE: the liquid ring holds. The pour has resolved into a complete orbiting ribbon-ring of glowing amber tea circling the porcelain cup like a planet's ring; Aira has set the pot down and watches her creation turn, calm and quietly amazed, the maker of a small ringed world on her own table.
 
@@ -1346,7 +1346,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ## Frame 2 of 8 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: locked START keyframe of the heartbeat-bloom — face fully recognizable, a soft cyan ring of light just beginning to bloom outward from her chest through the nearest jellyfish. Lock this START so Frame 3 interpolates cleanly to the full rhythmic pulsing.
 
 SCENE NOTE: the first heartbeat lights the deep. From the centre of Aira's chest a soft ring of cyan light blooms outward and passes through the nearest jellyfish, lighting each one as it touches it; her hand rises to her sternum as if feeling her own pulse, wonder dawning on her face.
 
@@ -1429,7 +1429,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ## Frame 3 of 8 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: locked END keyframe of the heartbeat-bloom establishing — rhythmic cyan rings now pulsing steadily outward through the school in time with her heart; face clear and serene. This is the rhythm beat.
 
 SCENE NOTE: the deep beats with her. Steady cyan rings now pulse outward from Aira's chest in a slow heartbeat rhythm, each one travelling through the drifting school so the whole near nave breathes with light; she stands serene at the centre, the conductor of a living pulse.
 
@@ -1512,7 +1512,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ## Frame 4 of 8 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: locked hold — the pulsing school softly defocused behind her so it haloes without competing; face clear and lifted to lens, this is the first talkable beat.
 
 SCENE NOTE: she speaks to the deep. Aira turns to camera, the heartbeat-rings still pulsing softly through the haloing school behind her, and speaks the first line — calm, reverent, a quiet truth about being the only light this far down.
 
@@ -1763,7 +1763,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ## Frame 7 of 8 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: locked hold — the small jellyfish drifting back up to rejoin the alight school behind her, softly defocused; face clear and lifted to lens, this is the second talkable beat.
 
 SCENE NOTE: she lets it go with a vow. As the small jellyfish drifts back up to the glowing school, Aira watches it rise, then turns to camera and speaks the second line — a quiet promise to keep her heart beating for all of them, the whole nave softly pulsing behind her.
 
@@ -2056,7 +2056,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ## Frame 2 of 6 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: locked START keyframe of the aurora-weave — face fully recognizable, she reaches up and draws a ribbon of aurora down from the sky toward the loom as a glowing thread. Lock this START so Frame 3 interpolates cleanly to the woven cloth.
 
 SCENE NOTE: she catches the light. Aira reaches one hand up to the rippling aurora and draws a ribbon of it down like a living thread, guiding it toward the loom; wonder warming her absorbed focus as the green-violet light bends to follow her hand.
 
@@ -2139,7 +2139,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ## Frame 3 of 6 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: locked END keyframe of the aurora-weave — the loom now holding a growing length of glowing aurora-cloth, the woven fabric shimmering green-violet; face clear and serene above it. This is the hero beat.
 
 SCENE NOTE: the aurora becomes cloth. On the loom a length of glowing fabric has formed from the woven aurora-thread, shimmering slow green-violet like a captured strip of the sky; Aira draws the shuttle through, serene and absorbed, the maker of woven light.
 
@@ -2598,7 +2598,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ## Frame 2 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: locked START keyframe of the comet-ignite — face fully recognizable, she has stamped the letter and breathed on it and it is just beginning to kindle into a small comet, gold light blooming from the seal. Lock this START so Frame 3 interpolates cleanly to the comet in flight.
 
 SCENE NOTE: the letter ignites. Aira presses the brass stamp to the letter and breathes softly on the wax seal; the paper kindles, gold light blooming from the seal outward as the letter begins to ignite into a small comet, wonder warming her focus.
 
@@ -2681,7 +2681,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ## Frame 3 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: locked END keyframe of the comet-ignite — the letter now a small bright comet with a glowing gold tail lifting off toward the galaxy-arch; face clear and delighted watching it rise. This is the hero beat.
 
 SCENE NOTE: the comet takes flight. The letter has become a small bright comet trailing a glowing gold tail, rising from her open hands toward the great galaxy-arch to deliver itself; Aira watches it lift off, delighted and warm, the postmaster sending light into the night.
 
@@ -2764,7 +2764,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ## Frame 4 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: locked hold — the comet now a distant glowing point softly defocused in the arch behind her; face clear and lifted to lens, this is the talkable beat.
 
 SCENE NOTE: she speaks to camera. With the comet now a distant glowing point climbing the galaxy-arch behind her, Aira turns to camera and speaks the line — warm and confiding, a gentle truth that every letter finds its star eventually.
 
@@ -3223,7 +3223,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ## Frame 2 of 6 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: locked START keyframe of the crystal-growth — face fully recognizable, the first small crystals just beginning to bloom and branch outward from the seed in her palm as she hums. Lock this START so Frame 3 interpolates cleanly to the chamber-wide growth.
 
 SCENE NOTE: the crystal blooms from her hum. As Aira holds a low sustained hum, the seed-crystal in her palm begins to bloom — fine geometric crystal points growing and branching outward from it in time with her tone; wonder warming her absorbed focus.
 
@@ -3306,7 +3306,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ## Frame 3 of 6 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: locked END keyframe of the crystal-growth — crystals now blooming across the whole chamber walls in resonance with her hum; face clear and serene at the centre. This is the hero beat.
 
 SCENE NOTE: the chamber blooms. Aira's sustained hum now grows crystal across the whole geode — luminous formations rising and branching from every wall in resonance with her tone, the chamber blooming into a cathedral of light around her; she stands serene at the centre, the maker of singing stone.
 
@@ -3765,7 +3765,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ## Frame 2 of 6 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: locked START keyframe of the lantern-light — face fully recognizable, she has whispered into the lantern and it is just beginning to light itself, warm gold blooming up through the paper. Lock this START so Frame 3 interpolates cleanly to the rising lantern.
 
 SCENE NOTE: the lantern lights itself. Aira whispers her wish into the paper lantern and it kindles from within — warm gold blooming up through the paper as it lights itself on her breath; tender hope warming her focus.
 
@@ -3848,7 +3848,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ## Frame 3 of 6 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: locked END keyframe of the release — the lit lantern now risen just above her open hands, the words of the wish drifting out of it as glowing golden script gathering into a small constellation; face clear and hopeful watching it rise. This is the hero beat.
 
 SCENE NOTE: the wish rises. Aira opens her hands and the lit lantern lifts free, rising into the dusk — and the words of her wish drift out of it as glowing golden script, curling upward to gather into a small constellation; she watches it go, hopeful and warm, sending her wish to the sky.
 
@@ -3931,7 +3931,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ## Frame 4 of 6 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: locked hold — the lantern now a distant warm point with its small constellation softly defocused above and behind her; face clear and lifted to lens, this is the talkable beat.
 
 SCENE NOTE: she speaks to camera. With her lantern now a distant warm point and its wish-constellation glowing soft above, Aira turns to camera and speaks the line — warm and confiding, a gentle truth that every wish just needs a light to carry it.
 
@@ -4307,7 +4307,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ## Frame 2 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: locked START keyframe of the weave — face fully recognizable, she has drawn a thread of sunlight and the first shimmering cloth is just beginning to form between her hands. Lock this START so Frame 3 interpolates cleanly to the billowing sail-cloth.
 
 SCENE NOTE: the light becomes cloth. Aira draws a thread of captured sunlight from the spindle and begins to weave — the first shimmering solar-sail cloth forming between her hands, threads crossing into a luminous weave; quiet wonder warming her craft.
 
@@ -4390,7 +4390,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ## Frame 3 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: locked END keyframe of the weave — a shimmering solar-sail cloth now formed and billowing up from her hands, catching light; face clear and warm watching it unfurl. This is the hero beat.
 
 SCENE NOTE: the sail-cloth billows. The woven cloth lifts and billows up from Aira's hands into a shimmering solar sail, catching the warm light and the cool starfield as it unfurls; she watches it rise, warm and proud, the sailmaker raising light into form.
 
@@ -4932,7 +4932,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ## Frame 2 of 6 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: locked START keyframe of the star-rise — face fully recognizable, she has touched the pool and the first reflected stars are just beginning to lift free of the water as real points of light. Lock this START so Frame 3 interpolates cleanly to the floating constellation.
 
 SCENE NOTE: the stars rise from the water. Aira touches her fingertips to the moon-pool and the reflected stars begin to lift free — the first points of light rising up off the surface as real floating stars, trailing faint ripples of light; wonder warming her reverent focus.
 
@@ -5015,7 +5015,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ## Frame 3 of 6 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: locked END keyframe of the star-rise — a three-dimensional constellation of floating stars now risen and hovering above the pool; face clear and awed at its centre. This is the hero beat.
 
 SCENE NOTE: the constellation rises. The risen stars now hover above the moon-pool as a full three-dimensional constellation of floating light, turning slow around Aira as she stands at the rim; she gazes up into it, awed and serene, the sky-reader holding the heavens in the air.
 
@@ -5098,7 +5098,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ## Frame 4 of 6 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: locked hold — the constellation now turning soft and defocused above and behind her; face clear and lifted to lens, this is the talkable beat.
 
 SCENE NOTE: she speaks to camera. With the floating constellation turning soft above her, Aira turns to camera and speaks the line — warm and confiding, a gentle truth that even the sky will rise to meet a steady hand.
 
@@ -5474,7 +5474,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ## Frame 2 of 8 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: locked START keyframe of the shaping — face fully recognizable, she has gathered the swirling sand and the first holographic mirage-shape (a shimmering palm frond) is just beginning to form above her hands. Lock this START so Frame 3 interpolates cleanly to the full oasis.
 
 SCENE NOTE: the sand takes shape. Aira gathers the swirling sand into her hands and the first mirage forms — a shimmering holographic palm frond rising out of the suspended grains, glittering like a sand-mirage; wonder warming her absorbed focus.
 
@@ -5557,7 +5557,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ## Frame 3 of 8 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: locked END keyframe of the shaping — a full shimmering holographic oasis (palms, a pool, soft greenery) now materialized above and around her out of the sand; face clear and awed at its centre. This is the hero beat.
 
 SCENE NOTE: the oasis materializes. The gathered sand blooms into a full shimmering holographic oasis — palms, a glinting pool, soft greenery — materializing out of the suspended grains around Aira on the dune; she gazes into it, warm and awed, the sand-shaper raising an oasis from the storm.
 
@@ -6182,7 +6182,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ## Frame 2 of 6 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: locked START keyframe of the bloom — face fully recognizable, she has lifted the lodestone and the first iron flower is just beginning to rise and open out of the bed. Lock this START so Frame 3 interpolates cleanly to the full iron blooms.
 
 SCENE NOTE: the iron opens. Aira lifts the lodestone toward the nearest bed and the first iron flower rises — filings streaming up into a slim metal stem that opens into a dark blooming petal-head, leaning toward her; tender wonder warming her focus.
 
@@ -6265,7 +6265,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ## Frame 3 of 6 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: locked END keyframe of the bloom — a cluster of iron flowers now risen and opened, all turning slowly toward her; face clear and tender at their centre. This is the hero beat.
 
 SCENE NOTE: the iron-garden turns to her. A cluster of dark iron flowers now rises around Aira, all opened and turning slowly toward her like blooms following the sun; she stands among them, tender and quietly powerful, the gardener whose iron answers her call.
 
@@ -6348,7 +6348,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ## Frame 4 of 6 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: locked hold — the iron blooms now turning soft and defocused around her; face clear and lifted to lens, this is the talkable beat.
 
 SCENE NOTE: she speaks to camera. With the iron flowers turned softly toward her, Aira turns to camera and speaks the line — warm and confiding, a gentle truth that even the hardest things will bloom if you call them gently.
 
@@ -6724,7 +6724,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ## Frame 2 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: locked START keyframe of the frost — face fully recognizable, she has breathed on the glass and frost-flowers are just beginning to bloom across the nearest pane. Lock this START so Frame 3 interpolates cleanly to the full frost-bloom.
 
 SCENE NOTE: the frost blooms. Aira breathes softly on the glass and frost-flowers bloom across the pane — fine crystalline petals spreading and branching where her breath touches; quiet wonder warming her absorbed focus.
 
@@ -6807,7 +6807,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ## Frame 3 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: locked END keyframe of the frost — the nearest panes and plants now fully frost-bloomed in fine crystal; face clear and wondering at its centre. This is the hero beat.
 
 SCENE NOTE: winter in full bloom. The panes and the potted plants around Aira have frost-bloomed completely — crystalline flowers covering the glass and silvering the leaves in fine frost; she stands among it, cool and awed, the keeper who breathed a winter into bloom.
 
@@ -7349,7 +7349,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ## Frame 2 of 6 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: locked START keyframe of the choir — face fully recognizable, she has hummed and her voice is just beginning to lift from the stone as a single ribbon of light flowing down the canyon. Lock this START so Frame 3 interpolates cleanly to the full light-choir.
 
 SCENE NOTE: the voice becomes light. Aira hums into the stone and her voice lifts away as a single glowing ribbon of light that flows down the curving canyon — luminous and warm, threading along the sandstone; quiet wonder warms her reverent focus.
 
@@ -7432,7 +7432,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ## Frame 3 of 6 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: locked END keyframe of the choir — multiple glowing light-ribbons now returned as echoes, weaving and harmonizing around her; face clear and uplifted at the centre. This is the hero beat.
 
 SCENE NOTE: the echoes return. The canyon sends her voice back — several glowing ribbons of light return as echoes and weave around Aira, harmonizing into a choir of light braiding through the air; she stands among them, warm and uplifted, the singer whose canyon answers her in light.
 
@@ -7515,7 +7515,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ## Frame 4 of 6 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: locked hold — the light-ribbons now weaving soft and defocused around her; face clear and lifted to lens, this is the talkable beat.
 
 SCENE NOTE: she speaks to camera. With the choir of light weaving softly around her, Aira turns to camera and speaks the line — warm and reverent, a gentle truth that every word given to the canyon comes back as song.
 
@@ -7899,7 +7899,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ## Frame 2 of 6 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: locked START keyframe of the ignition — face fully recognizable, she has opened her hand and the falling drops are just beginning to ignite into glowing phosphor as they land. Lock this START so Frame 3 interpolates cleanly to the full glowing-rain bloom.
 
 SCENE NOTE: the rain ignites. Aira opens her hand to the rain and each falling drop ignites into glowing phosphor light as it lands — small luminous sparks blooming in her palm and on the rooftop around her; quiet wonder warms her absorbed focus.
 
@@ -7990,7 +7990,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ## Frame 3 of 6 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: locked END keyframe of the ignition — the rain now blooming into luminous rings and tiny light-flowers all around her; face clear and wondering at the centre. This is the hero beat.
 
 SCENE NOTE: the rain blooms in light. The rain around Aira now ignites fully — every drop blooming into a luminous ring or a tiny light-flower, a soft field of glowing rain rising around her; she stands among it, cool and awed, the keeper whose rain blooms into light.
 
@@ -8489,7 +8489,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ## Frame 2 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: locked START keyframe of the unfolding — face fully recognizable, she has opened her hands and the small paper star is just beginning to glow and unfold into the first violet-and-gold spiral arms in mid-air. Lock this START so Frame 3 interpolates cleanly to the full hanging galaxy.
 
 SCENE NOTE: the paper opens into stars. Aira opens her hands and releases the small origami star; it lifts a few centimetres, kindles with light, and begins to unfold — its creases blooming into the first glowing spiral arms of a real galaxy. Quiet wonder warms her absorbed focus.
 
@@ -8580,7 +8580,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ## Frame 3 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: locked END keyframe of the unfolding — the galaxy now fully formed, a glowing spiral risen just above her open hands and turning slowly; face clear and wondering below it. This is the hero beat.
 
 SCENE NOTE: the galaxy rises. The unfolded paper has become a complete glowing spiral galaxy, risen to hover just above Aira's open hands, turning slow in the dark dome; she gazes up at it, cool and awed, the maker whose fold became a cosmos.
 
@@ -8671,7 +8671,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ## Frame 4 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: locked hold — the galaxy lifted near her cheek, softly defocused so it haloes without competing; face clear and lifted to lens, this is the talkable beat.
 
 SCENE NOTE: she speaks to her creation. Aira raises one hand and the galaxy drifts down to hover just beside her cheek, its spiral glowing against her face, and she turns to camera to speak the line — tender, awed, a maker acknowledging the cosmos she folded.
 
@@ -9170,7 +9170,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ## Frame 2 of 8 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: locked START keyframe of the rise — face fully recognizable, the rod-tip just touching the mercury and the first concentric rings spreading outward as the surface begins to lift behind her. Lock this START so the later frames interpolate cleanly to the full standing wave.
 
 SCENE NOTE: the touch and the first ripple. Aira touches the silver rod to the mirror-mercury and concentric rings spread outward across the dunes; behind her the surface begins to stir and lift in answer. Quiet command settles into her cool focus.
 
@@ -9261,7 +9261,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ## Frame 3 of 8 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: locked mid keyframe of the rise — the mercury behind her gathered into a tall rising column-wall, climbing but not yet at full height; face clear and composed. Lock this so Frame 4 interpolates cleanly to the full standing wave.
 
 SCENE NOTE: the mercury climbs. Behind Aira the mirror-mercury gathers and climbs into a tall rising wall of liquid silver, its face already reflecting her and the twilight sky in a wavering mirror; she lifts the rod slowly and the wall rises with it, cool and commanding.
 
@@ -9352,7 +9352,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ## Frame 4 of 8 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: locked END keyframe of the rise — the full towering standing wave of mirror-mercury risen behind her, holding upright and reflecting her and the twilight sky; face clear and composed at the centre. This is the hero beat.
 
 SCENE NOTE: the standing mirror-wave. The mercury has risen into a towering standing wave behind Aira — a vast vertical mirror holding her reflection and the whole twilight sky, curved at its crest like a frozen breaker; she stands before it, cool and monumental, the keeper of a sea stood on end.
 
@@ -9942,7 +9942,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ## Frame 2 of 6 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: locked START keyframe of the spark-to-firefly transform — face fully recognizable, the hammer just landed and a fan of struck sparks hanging in the air, the nearest sparks just beginning to brighten and sprout the first faint firefly-glimmer. Lock this START so Frame 3 interpolates cleanly to the full firefly swarm.
 
 SCENE NOTE: the strike, and the sparks linger. Aira's hammer lands on the glowing anvil and a fan of bright sparks leaps up — but instead of dying they hang in the air and begin to brighten into the first faint golden fireflies. Quiet wonder warms her focused face.
 
@@ -10033,7 +10033,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ## Frame 3 of 6 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: locked END keyframe of the spark-to-firefly transform — a full swarm of golden fireflies risen and swirling around her; face clear and wondering at the centre. This is the hero beat.
 
 SCENE NOTE: the swarm rises. The struck sparks have all become a swarm of living golden fireflies that swirl up and around Aira in a slow warm spiral, lighting the dark forge; she stands among them, warm and awed, the smith whose sparks became a living constellation.
 
@@ -10124,7 +10124,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ## Frame 4 of 6 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: locked hold — the fireflies gathered into a soft glowing halo near her face, softly defocused so they aura without competing; face clear and lifted to lens, this is the talkable beat.
 
 SCENE NOTE: she speaks to her sparks. The firefly swarm drifts in close around Aira's shoulders and face in a warm living halo, and she turns to camera to speak the line — tender, warm, a smith who gives her dying sparks a life.
 
@@ -10217,7 +10217,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ## Frame 5 of 6 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: locked keyframe of the settling — the firefly swarm gathering and settling into a glowing bracelet of light around her wrist and a fine glowing collar at her throat; face clear and tender.
 
 SCENE NOTE: the sparks find somewhere to land. The fireflies swirl down and settle along Aira's lifted wrist and throat, knitting themselves into a glowing bracelet and a fine collar of living light — her dying sparks given a home as jewelry; she watches, tender and quietly amazed.
 
@@ -10532,7 +10532,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ## Frame 2 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: locked START keyframe of the bloom — face fully recognizable, the watering can tipped and a fall of bright dew descending onto the cloud-edge, the first cloud-bud just beginning to swell and open at the rail. Lock this START so later frames interpolate cleanly to the full cloud-garden.
 
 SCENE NOTE: the pour, and the first bud. Aira tips the brass watering can over the parapet and a fall of bright dawn-lit dew descends onto the cloud-edge; where it lands the first cloud-bud swells and begins to open into a soft cloud-flower. Quiet delight warms her tending face.
 
@@ -10623,7 +10623,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ## Frame 3 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: locked mid keyframe of the bloom — a row of cloud-flowers opening along the parapet rail, climbing but not yet the full garden; face clear and tender. Lock this so Frame 4 interpolates cleanly to the full cloud-garden.
 
 SCENE NOTE: the rail blooms. Along the parapet a row of soft cloud-flowers opens one after another where the dew has run, climbing the rail in a gentle wave of dawn-lit blossoms; Aira trails the watering can slowly along the rail and the flowers open in its wake, tender and serene.
 
@@ -10714,7 +10714,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ## Frame 4 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: locked END keyframe of the bloom — a full garden of cloud-flowers blossomed along the rail and out over the cloud-sea, face clear and serene at the centre. This is the hero beat.
 
 SCENE NOTE: the cloud-garden. The parapet and the cloud-sea before it have blossomed into a full floating garden of dawn-lit cloud-flowers — soft blooms drifting along the rail and out across the clouds; Aira stands among them, warm and serene, the gardener of a sky in bloom.
 
@@ -11213,7 +11213,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ## Frame 2 of 6 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: locked START keyframe of the prism transform — face fully recognizable, the prism raised into the rain-curtain and the first ribbon of prismatic rainbow light splitting out and arcing away. Lock this START so Frame 3 interpolates cleanly to the full light-ribbon display.
 
 SCENE NOTE: she raises the prism, and the rain splits. Aira lifts the crystal prism into the falling rain-curtain and the first ribbon of prismatic rainbow light splits out, arcing away across the wet platform. Quiet wonder warms her composed focus.
 
@@ -11304,7 +11304,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ## Frame 3 of 6 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: locked END keyframe of the prism transform — ribbons of prismatic rainbow light arcing across the whole platform around her, face clear and luminous at the centre. This is the hero beat.
 
 SCENE NOTE: the platform fills with rainbows. The split rain has become many ribbons of prismatic light arcing across the whole platform around Aira — rainbows curving over the wet floor, the tiled walls, the rain-curtain; she stands among them, cool and luminous, the conductor of an underground rainbow.
 
@@ -11395,7 +11395,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ## Frame 4 of 6 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: locked hold — the ribbons gathered into a soft arcing halo near her face, softly defocused so they aura without competing; face clear and lifted to lens, this is the talkable beat.
 
 SCENE NOTE: she speaks under the rainbows. The rainbow ribbons drift in close around Aira's shoulders and face in a soft arcing halo, and she turns to camera to speak the line — cool, warm-hearted, a quiet hope that even underground the rain remembers light.
 
@@ -11488,7 +11488,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ## Frame 5 of 6 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: locked keyframe of the conducting — she sweeps her free hand and the ribbons follow, painting the wet floor in arcs of rainbow; face clear and delighted.
 
 SCENE NOTE: she conducts the rainbows. Aira sweeps her free hand low across the platform and the ribbons of light follow her gesture, bending down to paint the wet floor in sweeping arcs of rainbow that ripple in the reflections. Cool delight warms her composed focus.
 
@@ -11803,7 +11803,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ## Frame 2 of 8 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: locked START keyframe of the stardust transform — face fully recognizable, the wand just touching the pool and the first swirl of stardust spreading through the dark water. Lock this START so later frames interpolate cleanly to the full galaxy-pools.
 
 SCENE NOTE: the touch, and the stardust. Aira dips the driftwood wand into the dark tide-pool and the first swirl of stardust blooms through the water, tiny points of light spiralling out from the wand-tip. Quiet wonder warms her serene focus.
 
@@ -11894,7 +11894,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ## Frame 3 of 8 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: locked mid keyframe of the transform — the touched pool now holding a full miniature swirling galaxy, deep and dimensional; face clear and wondering. Lock this so Frame 4 interpolates cleanly to the whole shore of galaxy-pools.
 
 SCENE NOTE: a galaxy in the pool. The stardust has gathered into a full miniature galaxy swirling in the tide-pool — a spiral of cool light and violet depth held in the dark water like a window to the cosmos; Aira leans over it, cool and wondering, the keeper of a galaxy in a pool.
 
@@ -11985,7 +11985,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ## Frame 4 of 8 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: locked END keyframe of the shore transform — the whole shore of tide-pools lit into a field of galaxy-mirrors around her, face clear and serene at the centre. This is the hero beat.
 
 SCENE NOTE: the shore of galaxies. Every tide-pool across the dark shore has lit into its own swirling galaxy — a field of cosmic mirrors scattered over the rock, each a window to the stars, doubling the sky above; Aira rises among them, cool and serene, the keeper of a shore of galaxies.
 

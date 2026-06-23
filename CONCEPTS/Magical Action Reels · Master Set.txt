@@ -257,7 +257,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ### Frame 3 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the locked START keyframe of the light-warp move — face fully recognizable, cabin and tunnel intact, the neon strips just beginning to elongate into the first light-streaks at the frame edges. Lock this START so Frame 4's warp interpolates cleanly to the full-warp peak and resolves at the Frame 5 END.
 
 WARDROBE: the matte-black jacket pressed back into the seat by launch g-force, collar taut, fully modest, pristine.
 
@@ -336,7 +336,7 @@ NEGATIVE: morphing, warping (unintended), identity drift, limb teleport, object 
 
 ### Frame 4 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the one impossible move — the full light-warp. LOCK the START (Frame 3, face clear, first streaks) and the END (Frame 5, warp resolved, car mid-tunnel). Mid-warp the world becomes streaking ribbons of neon light around a still-clear, recognizable Aira at the wheel; interpolate strictly between the locked keyframes — do NOT invent a new face, hands, or car inside the warp. Kinetic and beautiful, real light physics, not chaotic noise.
 
 WARDROBE (refined): the matte jacket catching travelling ribbons of light across the shoulders mid-warp, fully modest, never revealing.
 
@@ -415,7 +415,7 @@ NEGATIVE: morphing, warping (unintended), identity drift, limb teleport, object 
 
 ### Frame 5 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the locked END keyframe of the light-warp; it must resolve continuously out of the START (Frame 3) — same face, same hands, same car, the ribbons now settled back into clean neon strips as the car sprints mid-tunnel. Do NOT invent a new face or car; this is the same Aira, exhilarated and in control. Frames 3 (START) and 5 (END) are the two anchors of the single transform.
 
 WARDROBE: the matte jacket settled clean, collar relaxing, one cyan rim returning to the shoulder, fully modest, pristine.
 
@@ -573,7 +573,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ### Frame 7 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. LOOP NOTE: this is the perfect-loop close — it must resolve back to match Frame 1's framing, camera distance and driver-at-door presentation so the reel loops seamlessly with no visible seam or pose jump; carry the exhilarated calm forward but return the overall composition to the Frame 1 tunnel-mouth hook so the last frame hands off invisibly to the first.
 
 WARDROBE: the matte-black jacket reading clean as the framing returns to the tunnel mouth, collar settled, one magenta rim along the shoulder seam, modest, pristine — matched to Frame 1.
 
@@ -852,7 +852,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ### Frame 3 of 6 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the locked START keyframe of the galaxy-smoke move — face fully recognizable, the car in a full committed drift, dense tire-smoke billowing off the rear arches, the smoke just beginning to glint with the first embers and starlight at its edges. Lock this START so Frame 4's cosmic bloom interpolates cleanly to the galaxy peak and resolves at the Frame 5 END.
 
 WARDROBE: the charcoal bomber pressed by lateral g, collar taut, fully modest, pristine.
 
@@ -931,7 +931,7 @@ NEGATIVE: morphing, warping (unintended), identity drift, limb teleport, object 
 
 ### Frame 4 of 6 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the one impossible move — the tire-smoke becomes a swirling galaxy of ember-dust. LOCK the START (Frame 3, face clear, smoke billowing) and the END (Frame 5, galaxy settling, car straightening). Mid-bloom the smoke is a spiralling nebula of embers, stardust and violet-magenta cloud around a still-clear, recognizable Aira at the wheel; interpolate strictly between the locked keyframes — do NOT invent a new face, hands, or car inside the galaxy. Beautiful cosmic physics, painterly not chaotic noise.
 
 WARDROBE (refined): the charcoal bomber catching travelling starlight across the shoulders mid-bloom, fully modest, never revealing.
 
@@ -1010,7 +1010,7 @@ NEGATIVE: morphing, warping (unintended), identity drift, limb teleport, object 
 
 ### Frame 5 of 6 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the locked END keyframe of the galaxy-smoke; it must resolve continuously out of the START (Frame 3) — same face, same hands, same car, the nebula now settled back into ordinary thinning smoke as the car straightens out of the drift. Do NOT invent a new face or car; this is the same Aira, exhilarated and in control. Frames 3 (START) and 5 (END) are the two anchors of the single transform.
 
 WARDROBE: the charcoal bomber settled clean, collar relaxing, a warm sun-rim returning to the shoulder, fully modest, pristine.
 
@@ -1089,7 +1089,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ### Frame 6 of 6 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. LOOP NOTE: this is the perfect-loop close — it must resolve back to match Frame 1's framing, camera distance and driver-at-door presentation so the reel loops seamlessly with no visible seam or pose jump; carry the exhilarated calm forward but return the overall composition to the Frame 1 dockyard hook so the last frame hands off invisibly to the first.
 
 WARDROBE: the charcoal bomber reading clean as the framing returns to the dockyard, collar settled, one warm sun-rim along the shoulder, modest, pristine — matched to Frame 1.
 
@@ -1368,7 +1368,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ### Frame 3 of 6 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the locked START keyframe of the time-rewind move — face fully recognizable, the car at the apex of the flat 180, dew and grit and scrub-spray flung outward, a faint glassy ripple just beginning to bloom from the car. Lock this START so Frame 4's rewind interpolates cleanly to the full rewind peak and resolves at the Frame 5 END.
 
 WARDROBE: the slate rally jacket pressed by rotational g, collar taut, fully modest, pristine.
 
@@ -1447,7 +1447,7 @@ NEGATIVE: morphing, warping (unintended), identity drift, limb teleport, object 
 
 ### Frame 4 of 6 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the one impossible move — the time-rewind ripple. LOCK the START (Frame 3, face clear, apex) and the END (Frame 5, ripple resolved, car pointed back). Mid-rewind a glassy chrome-prism shockwave radiates outward and the world inside it reverses — flung dew un-flings and re-beads, pine-needles un-fall, the scrub-spray retracts — while Aira stays forward, present and recognizable; interpolate strictly between the locked keyframes — do NOT invent a new face, hands, or car inside the rewind. Beautiful, glassy time-reversal physics, painterly not chaotic.
 
 WARDROBE (refined): the slate jacket catching the travelling prism-edge across the shoulders mid-rewind, fully modest, never revealing.
 
@@ -1526,7 +1526,7 @@ NEGATIVE: morphing, warping (unintended), identity drift, limb teleport, object 
 
 ### Frame 5 of 6 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the locked END keyframe of the time-rewind; it must resolve continuously out of the START (Frame 3) — same face, same hands, same car, the glassy ripple now collapsed and time re-synced as the car settles pointed back the way it came. Do NOT invent a new face or car; this is the same Aira, poised and in control. Frames 3 (START) and 5 (END) are the two anchors of the single transform.
 
 WARDROBE: the slate jacket settled clean, collar relaxing, a cool dawn rim returning to the shoulder, fully modest, pristine.
 
@@ -1605,7 +1605,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ### Frame 6 of 6 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. LOOP NOTE: this is the perfect-loop close — it must resolve back to match Frame 1's framing, camera distance and driver-at-door presentation so the reel loops seamlessly with no visible seam or pose jump; carry the poised calm forward but return the overall composition to the Frame 1 hairpin hook so the last frame hands off invisibly to the first.
 
 WARDROBE: the slate rally jacket reading clean as the framing returns to the hairpin, collar settled, one cool dawn rim along the shoulder, modest, pristine — matched to Frame 1.
 
@@ -1813,7 +1813,7 @@ NEGATIVE: No speaking, no logos, no stutter-cut, no warped limbs.
 
 ### Frame 2 of 6 — IMAGE PROMPT (START KEYFRAME — the freeze ignites)
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: This is the instant time stops — a faint pearl-white shock-ring blooms outward from her chest, and at its edge every crew member and every flying object is caught mid-motion.
 
 WARDROBE: Race suit as Frame 1, now mid-stride; collar and sleeve fabric caught taut.
 
@@ -1985,7 +1985,7 @@ NEGATIVE: No speaking, no logos, no floaty walk, no warped limbs.
 
 ### Frame 4 of 6 — IMAGE PROMPT (PEAK — FPV through the frozen lug-nuts)
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: Peak of the impossible move — Aira threads between a constellation of frozen lug-nuts and a suspended fuel-arc, the only living thing in a hanging galaxy of stopped debris.
 
 WARDROBE: Race suit, body angled and ducking, fabric live and dynamic.
 
@@ -2159,7 +2159,7 @@ NEGATIVE: No Aira lip-sync, no real logos, no extra fingers, no warped crew.
 
 ### Frame 6 of 6 — IMAGE PROMPT (END KEYFRAME + LOOP NOTE)
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: Time snaps back — the pearl ring collapses inward to her fist, and in the same instant the whole crew, the wheel-guns, the lug-nuts and fuel-haze ROAR back into full live motion around her. LOOP NOTE: Final framing mirrors Frame 1's hero composition (Aira lower-third, drone elevation, floodlit garage depth) so the reel can seamlessly loop.
 
 WARDROBE: Race suit, gloved fist clenched, fully composed; fabric live, crew motion live around her.
 
@@ -2464,7 +2464,7 @@ NEGATIVE: No speaking, no logos, no frame skip, no warped limbs.
 
 ### Frame 3 of 7 — IMAGE PROMPT (START KEYFRAME — the vault apex, gravity begins to turn)
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: This is the locked START of the gravity-turn — Aira at the apex of the gap-vault, fully airborne and recognizable, the horizon still level, but a faint pearl-blue gravity-shimmer just beginning to bloom around her and the world's tilt just starting to rotate. Lock this START so Frame 4–5 interpolate the 90° turn cleanly and resolve at the Frame 6 END.
 
 WARDROBE: Free-running suit stretched in full extension across the gap, fully modest.
 
@@ -2551,7 +2551,7 @@ NEGATIVE: No speaking, no logos, no inventing a new face, no warped architecture
 
 ### Frame 4 of 7 — IMAGE PROMPT (the gravity rotates — world turning 90°)
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: Mid-transform between the START (Frame 3) and the PEAK (Frame 5) — the world is rotating: the far glass wall is becoming her floor, the horizon is ~45° through its 90° turn, the pearl-blue gravity-shimmer at full bloom around her. Interpolate strictly between the locked keyframes; do NOT invent a new face/body — same Aira, reorienting her landing to the wall.
 
 WARDROBE: Suit fully modest, fabric reorienting with the new gravity, settling "down" toward the glass wall.
 
@@ -2636,7 +2636,7 @@ NEGATIVE: No speaking, no logos, no inventing a new face, no warped architecture
 
 ### Frame 5 of 7 — IMAGE PROMPT (PEAK — full wall-run across the sky)
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: PEAK of the impossible move — gravity is fully rotated 90°; the tower's vertical glass wall is now her floor and Aira is sprinting up the side of the building, running across the sky, the real ground now a wall to frame-side. Same Aira, fully recognizable, total control.
 
 WARDROBE: Free-running suit in full sprint on the glass, fully modest, fabric streaming with the new-down.
 
@@ -2723,7 +2723,7 @@ NEGATIVE: No speaking, no logos, no inventing a new face, no warped architecture
 
 ### Frame 6 of 7 — IMAGE PROMPT (END KEYFRAME — gravity restores, clean roof landing)
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: This is the locked END of the gravity-turn; it resolves continuously out of the START (Frame 3) — same face, same body, the world rotating the final degrees back so the far ROOF is the floor again, and Aira lands cleanly on it in a controlled crouch as the pearl shimmer dissipates. Frames 3 (START) and 6 (END) anchor the single transform.
 
 WARDROBE: Free-running suit settling from the run into the landing crouch, fully modest.
 
@@ -2810,7 +2810,7 @@ NEGATIVE: No speaking, no logos, no warped architecture, no melting limbs.
 
 ### Frame 7 of 7 — IMAGE PROMPT (LOOP NOTE)
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. LOOP NOTE: Perfect-loop close — it resolves back to match Frame 1's framing, camera distance and "runner-at-the-edge" presentation so the reel loops seamlessly; carry the triumphant calm forward but return the composition to the Frame 1 rooftop-edge hook so the last frame hands off invisibly to the first.
 
 WARDROBE: Free-running suit reading clean as the framing returns to the edge, modest — matched to Frame 1.
 
@@ -3111,7 +3111,7 @@ NEGATIVE: No speaking, no logos, no frame skip, no warped limbs.
 
 ### Frame 3 of 6 — IMAGE PROMPT (START KEYFRAME — first strike, first neon-ink trail)
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: This is the locked START of the ink-trail move — Aira firing her first strike (a straight punch), fully recognizable, and from her fist a single blazing neon-ink brush-stroke just begins to draw itself in the air along the strike path. Lock this START so Frames 4–5 accumulate the trails cleanly into the calligraphy and resolve at the Frame 6 END.
 
 WARDROBE: Gi snapped taut with the strike, sleeve cracking forward, fully modest.
 
@@ -3198,7 +3198,7 @@ NEGATIVE: No speaking, no logos, no inventing a new face, no warped limbs, no fr
 
 ### Frame 4 of 6 — IMAGE PROMPT (PEAK — full combo painting the air)
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: PEAK of the impossible move — Aira unleashes a full combo (punch, elbow, spinning kick) and the air fills with accumulating neon-ink trails: blazing brush-strokes and luminous arcs weaving around her, the strokes from Frame 3 still hanging and joined by new ones. Same Aira, fully recognizable, total control inside the painted air. Interpolate strictly toward the calligraphy completion; do NOT invent a new face/body.
 
 WARDROBE: Gi whirling with the spinning kick, fully modest, fabric streaming through the ink-light.
 
@@ -3285,7 +3285,7 @@ NEGATIVE: No speaking, no logos/readable text, no inventing a new face, no warpe
 
 ### Frame 5 of 6 — IMAGE PROMPT (the glyph completes — VO lands here)
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: The accumulated ink-trails resolve into a single perfect glowing calligraphy glyph (an abstract luminous symbol, NOT real-world readable script) hanging in the air beside her as she holds a composed final stance. Same Aira; the glyph is the payoff of all prior strokes.
 
 WARDROBE: Gi settling from the combo into a composed low stance, fully modest.
 
@@ -3372,7 +3372,7 @@ NEGATIVE: No Aira lip-sync, no real logos/readable text, no extra fingers, no wa
 
 ### Frame 6 of 6 — IMAGE PROMPT (END KEYFRAME + LOOP NOTE)
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: The glyph and all remaining ink-trails dissolve into drifting light-motes that scatter into the dark, the air emptying back to the still dojo as Aira settles back into her opening ready-stance. LOOP NOTE: Final framing mirrors Frame 1's hero composition (Aira lower-third, drone elevation, moon-shaft, wet-floor reflection) so the reel can seamlessly loop.
 
 WARDROBE: Matte-black gi settled clean back into the ready-stance, fully modest — matched to Frame 1.
 
@@ -3673,7 +3673,7 @@ NEGATIVE: No speaking, no logos/plates, no frame skip, no warped limbs, ghosting
 
 ### Frame 3 of 6 — IMAGE PROMPT (START KEYFRAME — the first car begins dissolving)
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: This is the locked START of the dissolve move — Aira committed into the split, fully recognizable, and the first car directly ahead just begins to dissolve from its trailing edge into a stream of glowing blue-white light-particles that part around her. Lock this START so Frames 4–5 escalate the dissolve cleanly to the full-lane peak and resolve (cars reforming behind) at the Frame 5 END.
 
 WARDROBE: The armored suit pressed by the acceleration, collar taut, fully modest, pristine.
 
@@ -3760,7 +3760,7 @@ NEGATIVE: No speaking, no logos/plates, no inventing a new face, no warped limbs
 
 ### Frame 4 of 6 — IMAGE PROMPT (PEAK — the whole lane streaming into particles)
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: This is the PEAK of the impossible move — the entire lane ahead dissolves into streaming rivers of blue-white light-particles parting around her like a curtain as she splits through at full speed, the cars behind already reforming. Same Aira, fully recognizable, calm and exact inside the streaming light. Interpolate strictly between the START (Frame 3) and END (Frame 5); do NOT invent a new face, hands, or bike inside the dissolve.
 
 WARDROBE (refined): The armored suit catching travelling particle-light across the shoulders mid-peak, fully modest, never revealing.
 
@@ -3847,7 +3847,7 @@ NEGATIVE: No speaking, no logos/plates, no inventing a new face inside the disso
 
 ### Frame 5 of 6 — IMAGE PROMPT (END KEYFRAME — emerge to open road · VO lands here)
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: This is the locked END keyframe of the dissolve; it must resolve continuously out of the START (Frame 3) — same face, same hands, same bike, the lane ahead now clear open road, the last particles settling and the traffic fully reformed solid behind her. Do NOT invent a new face or bike; this is the same Aira, exhilarated and in control. Frames 3 (START) and 5 (END) are the two anchors of the single transform.
 
 WARDROBE: The armored suit settled clean, collar relaxing, a cool blue rim returning to the shoulder, fully modest, pristine.
 
@@ -3932,7 +3932,7 @@ NEGATIVE: No Aira lip-sync, no real logos/plates, no extra fingers, no warped an
 
 ### Frame 6 of 6 — IMAGE PROMPT (LOOP NOTE)
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. LOOP NOTE: This is the perfect-loop close — it must resolve back to match Frame 1's framing, camera distance and rider-at-the-head-of-the-grid presentation so the reel loops seamlessly with no visible seam or pose jump; carry the exhilarated calm forward but return the overall composition to the Frame 1 corridor hook so the last frame hands off invisibly to the first.
 
 WARDROBE: The armored suit reading clean as the framing returns to the corridor, collar settled, one cool blue rim along the shoulder armor, modest, pristine — matched to Frame 1.
 
@@ -4231,7 +4231,7 @@ NEGATIVE: No speaking, no logos, no frame skip, no warped limbs, ghosting, physi
 
 ### Frame 3 of 7 — IMAGE PROMPT (START KEYFRAME — membranes catch air, first phoenix-light kindles)
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: This is the locked START of the phoenix-light move — Aira in full flight-spread, fully recognizable, and her wingsuit membranes just beginning to kindle into living amber-gold phoenix-fire at their trailing edges, the first glowing plumes igniting along the wing-line. Lock this START so Frames 4–6 escalate the blaze cleanly to the phoenix peak and resolve (wings settle back to membrane) at the Frame 6 END.
 
 WARDROBE: The wingsuit at full flight-tension, membranes taut, fully modest, sealed, the trailing edges beginning to glow amber.
 
@@ -4318,7 +4318,7 @@ NEGATIVE: No speaking, no logos, no inventing a new face, no warped limbs, no fr
 
 ### Frame 4 of 7 — IMAGE PROMPT (PEAK — full blazing phoenix-wings soaring)
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: This is the PEAK of the impossible move — the wingsuit is now full blazing wings of phoenix-light, vast sweeping arcs of living amber-gold fire and feather-light spanning wide as she soars, trailing glowing plumes across the dawn. Same Aira, fully recognizable, serene and exact inside the blaze. Interpolate strictly between the START (Frame 3) and END (Frame 6); do NOT invent a new face, body, or suit inside the fire.
 
 WARDROBE (refined): The wingsuit core fully modest and sealed at her body, the membranes now blazing phoenix-wings extending from her arms and legs, never revealing.
 
@@ -4405,7 +4405,7 @@ NEGATIVE: No speaking, no logos, no inventing a new face inside the fire, no war
 
 ### Frame 5 of 7 — IMAGE PROMPT (the canyon bank — wings trailing fire)
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: Still inside the single phoenix transform — the wings remain blazing phoenix-fire as she banks hard through a canyon carved in the cloud-sea, the fire-plumes trailing a long glowing arc behind her. Same Aira; interpolate toward the Frame 6 settle; do NOT invent a new face or suit.
 
 WARDROBE: The wingsuit core modest and sealed, the phoenix-wings banked and sweeping through the cloud-canyon, never revealing.
 
@@ -4492,7 +4492,7 @@ NEGATIVE: No speaking, no logos, no inventing a new face, no warped limbs, no st
 
 ### Frame 6 of 7 — IMAGE PROMPT (END KEYFRAME — wings settle, she flares · VO lands here)
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: This is the locked END keyframe of the phoenix transform; it must resolve continuously out of the START (Frame 3) — same face, same body, same suit, the blazing phoenix-wings now settled back into ordinary amber wingsuit-membrane as she flares into a triumphant level glide, the last fire-plumes fading into drifting embers. Do NOT invent a new face or suit; this is the same Aira, exhilarated and in control. Frames 3 (START) and 6 (END) are the two anchors of the single transform.
 
 WARDROBE: The wingsuit settled clean to ordinary amber membrane, fully modest, sealed, the fire resolved.
 
@@ -4577,7 +4577,7 @@ NEGATIVE: No Aira lip-sync, no real logos, no extra fingers, no warped anatomy, 
 
 ### Frame 7 of 7 — IMAGE PROMPT (LOOP NOTE)
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. LOOP NOTE: This is the perfect-loop close — it must resolve back to match Frame 1's framing, camera distance and flyer-at-the-edge presentation so the reel loops seamlessly with no visible seam or pose jump; carry the exhilarated calm forward but return the overall composition to the Frame 1 peak-edge hook so the last frame hands off invisibly to the first.
 
 WARDROBE: The wingsuit reading clean as the framing returns to the peak, collar settled, one warm gold sun-rim along the shoulder, modest, sealed — matched to Frame 1.
 
@@ -4876,7 +4876,7 @@ NEGATIVE: No speaking, no logos, no frame skip, no warped limbs, ghosting, physi
 
 ### Frame 3 of 6 — IMAGE PROMPT (START KEYFRAME — the bow-wave of sand begins to part and wall up)
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: This is the locked START of the sand-parting move — Aira charging the dune, fully recognizable behind the visor, and the bow-wave of sand ahead just beginning to part down the middle and rise into the first two curling walls of liquid-gold sand on either side. Lock this START so Frames 4–5 escalate the parting cleanly to the full towering walls and resolve (walls collapse behind) at the Frame 5 END.
 
 WARDROBE: The rally suit pressed by the climb, collar taut, fully modest, pristine.
 
@@ -4963,7 +4963,7 @@ NEGATIVE: No speaking, no logos, no inventing a new face, no warped limbs, no fr
 
 ### Frame 4 of 6 — IMAGE PROMPT (PEAK — full towering sand-walls parted around her)
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: This is the PEAK of the impossible move — two colossal curling walls of liquid-gold sand tower on either side like a parted sea, backlit and translucent, as she drives the buggy through the corridor between them. Same Aira, fully recognizable, fierce and exact in the canyon of sand. Interpolate strictly between the START (Frame 3) and END (Frame 5); do NOT invent a new face, hands, or buggy inside the sand-walls.
 
 WARDROBE (refined): The rally suit fully modest and sealed, catching travelling backlit-gold light across the shoulders mid-peak, never revealing.
 
@@ -5050,7 +5050,7 @@ NEGATIVE: No speaking, no logos, no inventing a new face inside the sand, no war
 
 ### Frame 5 of 6 — IMAGE PROMPT (END KEYFRAME — walls collapse, she crests onto open flat · VO lands here)
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: This is the locked END keyframe of the sand-parting; it must resolve continuously out of the START (Frame 3) — same face, same hands, same buggy, the towering walls now collapsing back into ordinary cascading sand behind her as she crests onto an open flat. Do NOT invent a new face or buggy; this is the same Aira, exhilarated and in control. Frames 3 (START) and 5 (END) are the two anchors of the single transform.
 
 WARDROBE: The rally suit settled clean, collar relaxing, a warm sun-rim returning to the shoulder, fully modest, pristine.
 
@@ -5135,7 +5135,7 @@ NEGATIVE: No Aira lip-sync, no real logos, no extra fingers, no warped anatomy, 
 
 ### Frame 6 of 6 — IMAGE PROMPT (LOOP NOTE)
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. LOOP NOTE: This is the perfect-loop close — it must resolve back to match Frame 1's framing, camera distance and driver-at-the-crest presentation so the reel loops seamlessly with no visible seam or pose jump; carry the exhilarated calm forward but return the overall composition to the Frame 1 dune-crest hook so the last frame hands off invisibly to the first.
 
 WARDROBE: The rally suit reading clean as the framing returns to the crest, collar settled, one warm sun-rim along the shoulder, modest, pristine — matched to Frame 1.
 
@@ -5434,7 +5434,7 @@ NEGATIVE: No speaking, no logos, no frame skip, no warped limbs, ghosting, physi
 
 ### Frame 3 of 6 — IMAGE PROMPT (START KEYFRAME — the sea below begins turning to liquid mercury)
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: This is the locked START of the mercury-mirror move — Aira mid-dive in full graceful extension, fully recognizable, and the ocean surface directly below her just beginning to smooth and turn from turquoise water into a glassy liquid-mercury sheen, the first chrome-silver mirror-plane spreading outward beneath her. Lock this START so Frames 4–5 escalate the mirror cleanly to the full chrome-sea peak and resolve (pierce → ripple back to water) at the Frame 5 END.
 
 WARDROBE: The dive suit at full streamline, fully modest, sealed, the silver seam beginning to glow with the rising mercury-light.
 
@@ -5521,7 +5521,7 @@ NEGATIVE: No speaking, no logos, no inventing a new face, no warped limbs, no fr
 
 ### Frame 4 of 6 — IMAGE PROMPT (PEAK — full liquid-mercury mirror, her reflection rising to meet her)
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: This is the PEAK of the impossible move — the sea is now a flawless liquid-mercury mirror, a perfect chrome-silver plane reflecting her falling body and the burning coral sky in perfect symmetry as her reflection rises to meet her. Same Aira (and her exact mirrored reflection), fully recognizable, serene and exact. Interpolate strictly between the START (Frame 3) and END (Frame 5); do NOT invent a new face, body, or suit in either the diver or the reflection.
 
 WARDROBE (refined): The dive suit fully modest and sealed, mirrored perfectly in the mercury below, the silver seam blazing chrome.
 
@@ -5608,7 +5608,7 @@ NEGATIVE: No speaking, no logos, no inventing a new face in diver or reflection,
 
 ### Frame 5 of 6 — IMAGE PROMPT (END KEYFRAME — she pierces the mercury, it ripples back to water)
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: This is the locked END keyframe of the mercury transform; it must resolve continuously out of the START (Frame 3) — same face, same body, same suit, the liquid-mercury mirror now bursting back into ordinary turquoise water as she pierces the surface in a clean dive-entry, a crown of silver-to-clear droplets flying up around the entry-point. Do NOT invent a new face or suit; this is the same Aira, exhilarated and in perfect control. Frames 3 (START) and 5 (END) are the two anchors of the single transform.
 
 WARDROBE: The dive suit piercing the water clean, fully modest, sealed, the silver seam settling as the mercury resolves.
 
@@ -5693,7 +5693,7 @@ NEGATIVE: No speaking, no logos, no inventing a new face, no warped anatomy, no 
 
 ### Frame 6 of 6 — IMAGE PROMPT (LOOP NOTE)
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. LOOP NOTE: This is the perfect-loop close — it must resolve back to match Frame 1's framing, camera distance and diver-at-the-edge presentation so the reel loops seamlessly with no visible seam or pose jump; as the camera rises from the sea back up the cliff, Aira is once again poised at the lip exactly as in Frame 1, carrying the serene calm forward but returning the overall composition to the Frame 1 cliff-edge hook so the last frame hands off invisibly to the first.
 
 WARDROBE: The dive suit reading clean and dry as the framing returns to the cliff, collar settled, one warm gold sun-rim along the shoulder, modest, sealed — matched to Frame 1.
 
@@ -5992,7 +5992,7 @@ NEGATIVE: No speaking, no logos, no frame skip, no warped limbs, ghosting, physi
 
 ### Frame 3 of 7 — IMAGE PROMPT (START KEYFRAME — the first time-echo clones begin spawning behind her)
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: This is the locked START of the time-echo move — Aira at full speed on the hoverbike, fully recognizable behind the visor, and the first one or two translucent cyan time-echo clones of herself-and-bike just beginning to spawn and fan out a moment behind her, soft after-images of the instant before (each an exact copy of Aira, never a different face). Lock this START so Frames 4–5 escalate cleanly to the full echo-chain and resolve (collapse back to one) at the Frame 5 END.
 
 WARDROBE: The techwear suit pressed by the speed, cyan piping flaring, fully modest, sealed (mirrored in the echo-clones).
 
@@ -6079,7 +6079,7 @@ NEGATIVE: No speaking, no logos, no inventing a new face (echoes are exact Aira)
 
 ### Frame 4 of 7 — IMAGE PROMPT (PEAK — a full streaming chain of time-echo clones)
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: This is the PEAK of the impossible move — a full streaming chain of translucent cyan time-echo clones of Aira-and-bike fans out behind her in a comet's-tail of moment-delayed ghost-riders, each a soft glowing after-image of the instant before, every single echo an EXACT copy of Aira (never a different face or body). The solid Aira leads, fully recognizable, cool and exact. Interpolate strictly between the START (Frame 3) and END (Frame 5); do NOT invent a new face, hands, or bike in the lead rider or any echo.
 
 WARDROBE (refined): The techwear suit fully modest and sealed on the lead rider, each echo a translucent cyan copy, never revealing.
 
@@ -6166,7 +6166,7 @@ NEGATIVE: No speaking, no logos, no inventing a new face in lead or echoes, no w
 
 ### Frame 5 of 7 — IMAGE PROMPT (END KEYFRAME — the echoes collapse back into the single rider)
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: This is the locked END keyframe of the time-echo transform; it must resolve continuously out of the START (Frame 3) — same face, same hands, same bike, the streaming chain of echo-clones now snapping forward and collapsing back into the single solid Aira as she settles into a smooth cruise, the last cyan phosphor-trails fading. Do NOT invent a new face or bike; this is the same Aira, exhilarated and in control. Frames 3 (START) and 5 (END) are the two anchors of the single transform.
 
 WARDROBE: The techwear suit settled clean, cyan piping easing, fully modest, sealed, the echoes resolved.
 
@@ -6336,7 +6336,7 @@ NEGATIVE: No Aira lip-sync, no real logos, no extra fingers, no warped anatomy, 
 
 ### Frame 7 of 7 — IMAGE PROMPT (LOOP NOTE)
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. LOOP NOTE: This is the perfect-loop close — it must resolve back to match Frame 1's framing, camera distance and rider-at-the-ledge presentation so the reel loops seamlessly with no visible seam or pose jump; carry the cool calm forward but return the overall composition to the Frame 1 skyway-ledge hook so the last frame hands off invisibly to the first.
 
 WARDROBE: The techwear suit reading clean as the framing returns to the ledge, collar settled, one cool magenta rim along the shoulder, modest, sealed — matched to Frame 1.
 
@@ -6635,7 +6635,7 @@ NEGATIVE: No speaking, no logos, no frame skip, no warped limbs, ghosting, physi
 
 ### Frame 3 of 6 — IMAGE PROMPT (START KEYFRAME — the first lasers begin bending away as she enters)
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: This is the locked START of the laser-bend move — Aira entering the grid in a full athletic sprint-slide, fully recognizable, and the first crimson-cyan laser beams nearest her body just beginning to bend and curve away from her limbs in graceful arcs, peeling open the first gap in the grid. Lock this START so Frames 4–5 escalate the bend cleanly to the full curved laser-tunnel and resolve (snap back straight) at the Frame 5 END.
 
 WARDROBE: The tactical suit pressed by the speed, gunmetal seams catching laser-light, fully modest, sealed.
 
@@ -6722,7 +6722,7 @@ NEGATIVE: No speaking, no logos, no inventing a new face, no warped limbs, no fr
 
 ### Frame 4 of 6 — IMAGE PROMPT (PEAK — the full grid bent into a tunnel around her)
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: This is the PEAK of the impossible move — the entire laser grid has bent into a flowing tunnel of curved crimson-cyan light around her sprinting body, every beam arcing gracefully away from her limbs like reeds parting in a current, opening a clean glowing corridor through the cage. Same Aira, fully recognizable, cool and exact at the heart of the bent grid. Interpolate strictly between the START (Frame 3) and END (Frame 5); do NOT invent a new face, hands, or body inside the laser-tunnel.
 
 WARDROBE (refined): The tactical suit fully modest and sealed, catching the curved laser-glow across the shoulders mid-peak, never revealing.
 
@@ -6809,7 +6809,7 @@ NEGATIVE: No speaking, no logos, no inventing a new face inside the tunnel, no w
 
 ### Frame 5 of 6 — IMAGE PROMPT (END KEYFRAME — the lasers snap back straight as she clears · VO lands here)
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: This is the locked END keyframe of the laser-bend; it must resolve continuously out of the START (Frame 3) — same face, same hands, same suit, the curved laser-tunnel now snapping back into a perfectly straight grid behind her as she clears the last beam and lands poised at the glowing vault door, untouched. Do NOT invent a new face or suit; this is the same Aira, exhilarated and in control. Frames 3 (START) and 5 (END) are the two anchors of the single transform.
 
 WARDROBE: The tactical suit settled clean, gunmetal seams easing, fully modest, sealed, the grid resolved straight behind.
 
@@ -6894,7 +6894,7 @@ NEGATIVE: No Aira lip-sync, no real logos, no extra fingers, no warped anatomy, 
 
 ### Frame 6 of 6 — IMAGE PROMPT (LOOP NOTE)
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. LOOP NOTE: This is the perfect-loop close — it must resolve back to match Frame 1's framing, camera distance and infiltrator-at-the-threshold presentation so the reel loops seamlessly with no visible seam or pose jump; carry the cool calm forward but return the overall composition to the Frame 1 corridor-threshold hook so the last frame hands off invisibly to the first.
 
 WARDROBE: The tactical suit reading clean as the framing returns to the threshold, collar settled, one cool crimson laser-rim along the shoulder, modest, sealed — matched to Frame 1.
 
@@ -7193,7 +7193,7 @@ NEGATIVE: No speaking, no logos, no frame skip, no warped limbs, ghosting, physi
 
 ### Frame 3 of 7 — IMAGE PROMPT (START KEYFRAME — the tower begins rotating, the world tilting)
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: This is the locked START of the gravity-flip move — Aira at full climbing speed, fully recognizable, and the entire skyscraper just beginning to rotate from vertical toward horizontal around her, the world tilting maybe 25–35° so the wall starts to read as a slope and her climb starts becoming a run, gravity reorienting with the tower. Lock this START so Frames 4–5 escalate the rotation cleanly to full horizontal and resolve (rotate back to vertical) at the Frame 5 END.
 
 WARDROBE: The parkour suit pressed by the speed, amber seams catching the tilting light, fully modest, sealed.
 
@@ -7280,7 +7280,7 @@ NEGATIVE: No speaking, no logos, no inventing a new face, no warped limbs, no fr
 
 ### Frame 4 of 7 — IMAGE PROMPT (PEAK — full horizontal, she sprints flat along the tower)
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: This is the PEAK of the impossible move — the skyscraper has fully rotated to horizontal, so the once-vertical glass face is now a flat runway and Aira sprints weightlessly along it toward the open golden sky, gravity fully reoriented, her stride smooth and powerful where moments ago she clung to a cliff. Same Aira, fully recognizable, serene and exact. Interpolate strictly between the START (Frame 3) and END (Frame 5); do NOT invent a new face, hands, or body in the run.
 
 WARDROBE (refined): The parkour suit fully modest and sealed, catching the golden sky-light across the shoulders mid-peak, never revealing.
 
@@ -7367,7 +7367,7 @@ NEGATIVE: No speaking, no logos, no inventing a new face in the run, no warped l
 
 ### Frame 5 of 7 — IMAGE PROMPT (END KEYFRAME — the tower rotates back to vertical as she catches a hold)
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: This is the locked END keyframe of the gravity-flip; it must resolve continuously out of the START (Frame 3) — same face, same hands, same suit, the horizontal runway now rotating back to a vertical glass face as she catches a high mullion-hold and settles, gravity returning to normal with her perfectly placed. Do NOT invent a new face or suit; this is the same Aira, exhilarated and in control. Frames 3 (START) and 5 (END) are the two anchors of the single transform.
 
 WARDROBE: The parkour suit settled clean, amber seams easing, fully modest, sealed, the world resolved vertical.
 
@@ -7537,7 +7537,7 @@ NEGATIVE: No speaking, no logos, no extra fingers, no warped anatomy, audio desy
 
 ### Frame 7 of 7 — IMAGE PROMPT (LOOP NOTE)
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. LOOP NOTE: This is the perfect-loop close — it must resolve back to match Frame 1's framing, camera distance and climber-on-the-glass-face presentation so the reel loops seamlessly with no visible seam or pose jump; carry the serene calm forward but return the overall composition to the Frame 1 glass-face hook so the last frame hands off invisibly to the first.
 
 WARDROBE: The parkour suit reading clean as the framing returns to the glass face, collar settled, one warm dusk-rim along the shoulder, modest, sealed — matched to Frame 1.
 
@@ -7836,7 +7836,7 @@ NEGATIVE: No speaking, no logos, no frame skip, no warped limbs, ghosting, physi
 
 ### Frame 3 of 6 — IMAGE PROMPT (START KEYFRAME — the rain begins freezing and suspending mid-air)
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: This is the locked START of the rain-freeze move — Aira mid-stride in the downpour, fully recognizable, and the falling rain nearest her just beginning to freeze and suspend mid-air, the first droplets stopping dead and hanging motionless as glittering neon-lit beads around her. Lock this START so Frames 4–5 escalate cleanly to the full frozen rain-field and resolve (rain resumes) at the Frame 5 END.
 
 WARDROBE: The long-coat caught mid-stride, droplets frozen on the wet fabric, fully modest, sealed.
 
@@ -7923,7 +7923,7 @@ NEGATIVE: No speaking, no logos, no inventing a new face, no warped limbs, no fr
 
 ### Frame 4 of 6 — IMAGE PROMPT (PEAK — the full frozen rain-field, she walks through)
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: This is the PEAK of the impossible move — the entire alley is filled with frozen rain, millions of droplets hanging perfectly motionless in mid-air as glittering neon-lit beads, and Aira walks calmly straight through the suspended storm, the droplets parting in a clean corridor around her body where she passes. Same Aira, fully recognizable, cool and exact at the heart of the frozen rain. Interpolate strictly between the START (Frame 3) and END (Frame 5); do NOT invent a new face, hands, or body in the walk.
 
 WARDROBE (refined): The long-coat fully modest and sealed, suspended droplets glittering across the shoulders mid-peak, never revealing.
 
@@ -8010,7 +8010,7 @@ NEGATIVE: No speaking, no logos, no inventing a new face in the walk, no warped 
 
 ### Frame 5 of 6 — IMAGE PROMPT (END KEYFRAME — the rain resumes crashing down behind her · VO lands here)
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: This is the locked END keyframe of the rain-freeze; it must resolve continuously out of the START (Frame 3) — same face, same hands, same coat, the frozen rain-field now releasing as time resumes and the rain crashes back down behind her while she stands or walks out the far end of the alley, calm and untouched. Do NOT invent a new face or coat; this is the same Aira, exhilarated and in control. Frames 3 (START) and 5 (END) are the two anchors of the single transform.
 
 WARDROBE: The long-coat settled clean, the wet sheen easing, fully modest, sealed, the rain resuming behind.
 
@@ -8095,7 +8095,7 @@ NEGATIVE: No Aira lip-sync, no real logos, no extra fingers, no warped anatomy, 
 
 ### Frame 6 of 6 — IMAGE PROMPT (LOOP NOTE)
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. LOOP NOTE: This is the perfect-loop close — it must resolve back to match Frame 1's framing, camera distance and figure-at-the-alley-mouth presentation so the reel loops seamlessly with no visible seam or pose jump; carry the cool calm forward but return the overall composition to the Frame 1 alley-mouth hook so the last frame hands off invisibly to the first.
 
 WARDROBE: The long-coat reading clean as the framing returns to the alley mouth, belted, one cool magenta neon-rim along the shoulder, modest, sealed — matched to Frame 1.
 
@@ -8394,7 +8394,7 @@ NEGATIVE: No speaking, no logos, no frame skip, no warped limbs, ghosting, physi
 
 ### Frame 3 of 6 — IMAGE PROMPT (START KEYFRAME — the first cut leaves the first glowing calligraphy-stroke)
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: This is the locked START of the calligraphy move — Aira mid-cut in the flowing kata, fully recognizable, and the blade-trail from her first cut just beginning to become a glowing brushstroke of ink-light, the first luminous calligraphy-stroke forming and hanging in the air along the blade's arc. Lock this START so Frames 4–5 escalate cleanly to the full blooming calligraphy and resolve (dissolve to embers) at the Frame 5 END.
 
 WARDROBE: The gi caught mid-cut, the hakama and sleeves flaring with the motion, fully modest, bound.
 
@@ -8481,7 +8481,7 @@ NEGATIVE: No speaking, no logos, no inventing a new face, no warped limbs, no fr
 
 ### Frame 4 of 6 — IMAGE PROMPT (PEAK — the full calligraphy blooms around her)
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: This is the PEAK of the impossible move — her flowing kata has written a full bloom of glowing ink-light calligraphy in the air around her, elegant luminous brushstrokes and abstract glowing characters arcing and orbiting where her blade has passed, a living poem of light surrounding the serene figure at its center. Same Aira, fully recognizable, calm and exact at the heart of the calligraphy. Interpolate strictly between the START (Frame 3) and END (Frame 5); do NOT invent a new face, hands, or body in the form.
 
 WARDROBE (refined): The gi fully modest and bound, the glowing calligraphy reflecting warm across the shoulders mid-peak, never revealing.
 
@@ -8568,7 +8568,7 @@ NEGATIVE: No speaking, no logos, no inventing a new face in the form, no warped 
 
 ### Frame 5 of 6 — IMAGE PROMPT (END KEYFRAME — the calligraphy dissolves as she settles · VO lands here)
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: This is the locked END keyframe of the calligraphy; it must resolve continuously out of the START (Frame 3) — same face, same hands, same blade, the glowing calligraphy now dissolving into drifting gold embers as she settles into a still, balanced final stance, blade poised, the last strokes fading. Do NOT invent a new face or blade; this is the same Aira, serene and in control. Frames 3 (START) and 5 (END) are the two anchors of the single transform.
 
 WARDROBE: The gi settled clean, the hakama and sleeves easing, fully modest, bound, the calligraphy resolved to embers.
 
@@ -8653,7 +8653,7 @@ NEGATIVE: No Aira lip-sync, no real logos, no extra fingers, no warped anatomy, 
 
 ### Frame 6 of 6 — IMAGE PROMPT (LOOP NOTE)
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. LOOP NOTE: This is the perfect-loop close — it must resolve back to match Frame 1's framing, camera distance and opening-stance presentation so the reel loops seamlessly with no visible seam or pose jump; carry the serene calm forward but return the overall composition to the Frame 1 opening-stance hook so the last frame hands off invisibly to the first.
 
 WARDROBE: The gi reading clean as the framing returns to the opening stance, obi wrapped, one cool moonlight-rim along the shoulder, modest, bound — matched to Frame 1.
 
@@ -8952,7 +8952,7 @@ NEGATIVE: No speaking, no logos, no frame skip, no warped limbs, ghosting, physi
 
 ### Frame 3 of 7 — IMAGE PROMPT (START KEYFRAME — the first carve ignites the first bioluminescent bloom)
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: This is the locked START of the bioluminescent-bloom move — Aira mid-carve in a committed lean, fully recognizable, and the canyon wall and asphalt along her lean-line just beginning to bloom bioluminescent, the first glowing veins and flowers of cyan-teal light igniting across the rock where her wheels and lean pass. Lock this START so Frames 4–5 escalate cleanly to the full glowing canyon and resolve (bloom fades behind) at the Frame 5 END.
 
 WARDROBE: The racing suit pressed in the lean, armored and sealed, fully modest, teal piping glowing in the first bloom-light.
 
@@ -9039,7 +9039,7 @@ NEGATIVE: No speaking, no logos, no inventing a new face, no warped limbs, no fr
 
 ### Frame 4 of 7 — IMAGE PROMPT (PEAK — the full canyon glowing as she carves the deep lean)
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: This is the PEAK of the impossible move — the entire canyon is alive with bioluminescent light, glowing cyan-teal-magenta veins, flowers and rivers of luminance spreading across the towering walls and the asphalt where Aira carves the deep lean, the whole gorge a blooming reef of light around the fierce serene rider at its heart. Same Aira, fully recognizable, knee-down and exact. Interpolate strictly between the START (Frame 3) and END (Frame 5); do NOT invent a new face, hands, or bike in the carve.
 
 WARDROBE (refined): The racing suit fully modest and sealed, the bloom-light glowing across the shoulders and teal piping mid-peak, never revealing.
 
@@ -9126,7 +9126,7 @@ NEGATIVE: No speaking, no logos, no inventing a new face in the carve, no warped
 
 ### Frame 5 of 7 — IMAGE PROMPT (END KEYFRAME — the bloom spreads and fades behind as she exits the turn)
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: This is the locked END keyframe of the bloom; it must resolve continuously out of the START (Frame 3) — same face, same hands, same bike, the glowing bioluminescent bloom now spreading and softly fading into the rock behind her as she rises out of the lean and exits the turn onto the straight, the canyon settling back toward dusk. Do NOT invent a new face or bike; this is the same Aira, exhilarated and in control. Frames 3 (START) and 5 (END) are the two anchors of the single transform.
 
 WARDROBE: The racing suit settled as she rises from the lean, armored and sealed, fully modest, the last bloom-light easing on the teal piping.
 
@@ -9296,7 +9296,7 @@ NEGATIVE: No speaking, no logos, no warped anatomy, ghosting, audio desync, iden
 
 ### Frame 7 of 7 — IMAGE PROMPT (LOOP NOTE)
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. LOOP NOTE: This is the perfect-loop close — it must resolve back to match Frame 1's framing, camera distance and rider-beside-the-bike presentation so the reel loops seamlessly with no visible seam or pose jump; carry the serene calm forward but return the overall composition to the Frame 1 canyon-mouth hook so the last frame hands off invisibly to the first.
 
 WARDROBE: The racing suit reading clean as the framing returns to the canyon mouth, sealed, one cool dusk-rim along the shoulder, modest — matched to Frame 1.
 
@@ -9595,7 +9595,7 @@ NEGATIVE: No speaking, no logos, no frame skip, no warped limbs, ghosting, physi
 
 ### Frame 3 of 7 — IMAGE PROMPT (START KEYFRAME — she begins to scatter into the first birds)
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: This is the locked START of the flock move — Aira mid-glide, fully recognizable, her trailing edges just beginning to dissolve into the first glowing gold-white light-birds, the first few birds lifting and peeling away from her wings and silhouette while her face and core stay whole and clear. Lock this START so Frames 4–5 escalate cleanly to the full wheeling flock and resolve (reform into Aira) at the Frame 5 END.
 
 WARDROBE: The wingsuit pressed in the glide, sealed and armored, fully modest, gold piping glowing as the first birds peel away.
 
@@ -9682,7 +9682,7 @@ NEGATIVE: No speaking, no logos, no inventing a new face, no warped limbs, no fr
 
 ### Frame 4 of 7 — IMAGE PROMPT (PEAK — the full flock wheels across the sky)
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: This is the PEAK of the impossible move — she has fully scattered into a wheeling flock of glowing gold-white light-birds banking and sweeping across the golden sky, hundreds of luminous birds turning as one murmuration over the cloud-sea, the flock holding the faint suggestion of her gliding silhouette at its heart. A single hero-bird at the flock's leading point reads clearly. Interpolate strictly between the START (Frame 3) and END (Frame 5); the flock must carry Aira's identity so it can reform — do NOT invent a new face when she reforms.
 
 WARDROBE (refined): (N/A at full flock — she is the flock; the reform in Frame 5 returns the fully modest sealed wingsuit, never revealing.)
 
@@ -9769,7 +9769,7 @@ NEGATIVE: No speaking, no logos, no inventing a new face at reform, no warped li
 
 ### Frame 5 of 7 — IMAGE PROMPT (END KEYFRAME — the flock sweeps back and reforms into Aira)
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: This is the locked END keyframe of the flock; it must resolve continuously out of the START (Frame 3) — the SAME Aira, same face, same wingsuit, the wheeling flock of light-birds now sweeping back together and reforming seamlessly into Aira gliding whole and exhilarated, the last few birds folding back into her trailing edges. Do NOT invent a new face or suit; the flock carried her identity and returns it exactly. Frames 3 (START) and 5 (END) are the two anchors of the single transform.
 
 WARDROBE: The wingsuit reformed clean and sealed, the wings taut in the glide, fully modest, the last bird-light easing on the gold piping.
 
@@ -9939,7 +9939,7 @@ NEGATIVE: No Aira lip-sync, no real logos, no extra fingers, no warped anatomy, 
 
 ### Frame 7 of 7 — IMAGE PROMPT (LOOP NOTE)
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. LOOP NOTE: This is the perfect-loop close — it must resolve back to match Frame 1's framing, camera distance and flyer-at-the-cliff-edge presentation so the reel loops seamlessly with no visible seam or pose jump; carry the serene calm forward but return the overall composition to the Frame 1 cliff-edge hook so the last frame hands off invisibly to the first.
 
 WARDROBE: The wingsuit reading clean as the framing returns to the cliff-edge, sealed, one warm dawn-rim along the shoulder, modest — matched to Frame 1.
 
@@ -10238,7 +10238,7 @@ NEGATIVE: No speaking, no logos, no frame skip, no warped limbs, ghosting, physi
 
 ### Frame 3 of 6 — IMAGE PROMPT (START KEYFRAME — the drift begins spinning the sand up into the first vortex)
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: This is the locked START of the sand-vortex move — Aira mid-drift in a committed slide, fully recognizable, and the sprayed sand of her drift-arc just beginning to spin up into the first column of a sand-vortex, the first gold-lit spiral of sand rising off the rear and twisting upward. Lock this START so Frames 4–5 escalate cleanly to the full towering vortex and resolve (collapse behind) at the Frame 5 END.
 
 WARDROBE: The rally suit pressed by lateral g, sealed and harnessed, fully modest, gold piping glowing in the rising vortex-light.
 
@@ -10325,7 +10325,7 @@ NEGATIVE: No speaking, no logos, no inventing a new face, no warped limbs, no fr
 
 ### Frame 4 of 6 — IMAGE PROMPT (PEAK — the full towering sand-vortex as she carves around it)
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: This is the PEAK of the impossible move — a colossal gold-lit sand-vortex towers into the huge sky, a tornado of sun-shot sand and light spun up by her drift, and Aira carves the buggy around and through the base of the vortex she has summoned, the storm wheeling around her at its calm fierce heart. Same Aira, fully recognizable, on opposite-lock and exact. Interpolate strictly between the START (Frame 3) and END (Frame 5); do NOT invent a new face, hands, or buggy in the carve.
 
 WARDROBE (refined): The rally suit fully modest and sealed, the vortex-light glowing across the shoulders and gold piping mid-peak, never revealing.
 
@@ -10412,7 +10412,7 @@ NEGATIVE: No speaking, no logos, no inventing a new face in the carve, no warped
 
 ### Frame 5 of 6 — IMAGE PROMPT (END KEYFRAME — the vortex collapses behind as she rides out · VO lands here)
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: This is the locked END keyframe of the vortex; it must resolve continuously out of the START (Frame 3) — same face, same hands, same buggy, the towering sand-vortex now collapsing and softly raining back to drifting dust behind her as she straightens the buggy and rides out clean across the open sand. Do NOT invent a new face or buggy; this is the same Aira, exhilarated and in control. Frames 3 (START) and 5 (END) are the two anchors of the single transform.
 
 WARDROBE: The rally suit settled as she straightens out, sealed and harnessed, fully modest, the last vortex-light easing on the gold piping.
 
@@ -10497,7 +10497,7 @@ NEGATIVE: No Aira lip-sync, no real logos, no extra fingers, no warped anatomy, 
 
 ### Frame 6 of 6 — IMAGE PROMPT (LOOP NOTE)
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. LOOP NOTE: This is the perfect-loop close — it must resolve back to match Frame 1's framing, camera distance and driver-beside-the-buggy presentation so the reel loops seamlessly with no visible seam or pose jump; carry the fierce calm forward but return the overall composition to the Frame 1 desert-edge hook so the last frame hands off invisibly to the first.
 
 WARDROBE: The rally suit reading clean as the framing returns to the desert's edge, sealed, one warm sun-rim along the shoulder, modest — matched to Frame 1.
 
@@ -10796,7 +10796,7 @@ NEGATIVE: No speaking, no logos, no frame skip, no warped limbs, ghosting, physi
 
 ### Frame 3 of 6 — IMAGE PROMPT (START KEYFRAME — the light-trails begin wrapping as she launches)
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: This is the locked START of the mag-lev move — Aira at the launch off the rooftop edge into the chasm-gap, fully recognizable, and glowing magenta-cyan-gold neon light-trails just beginning to spiral and wrap around her body as gravity starts to release, the first ribbons of light curling around her limbs and torso. Lock this START so Frames 4–5 escalate cleanly to the full weightless mag-lev glide and resolve (light unspools, lands) at the Frame 5 END.
 
 WARDROBE: The tech-runner suit pressed in the launch, sealed and harnessed, fully modest, the accent-lines igniting with the wrapping light.
 
@@ -10883,7 +10883,7 @@ NEGATIVE: No speaking, no logos, no inventing a new face, no warped limbs, no fr
 
 ### Frame 4 of 6 — IMAGE PROMPT (PEAK — the full mag-lev weightless glide across the gap wrapped in neon)
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: This is the PEAK of the impossible move — fully mag-lev: Aira glides weightless across the chasm-gap, her body wrapped in a glowing ribbon of magenta-cyan-gold neon light, gravity fully released, suspended mid-air over the glittering chasm of streets far below, serene and in control at the heart of the light-wrap. Same Aira, fully recognizable, modest and exact. Interpolate strictly between the START (Frame 3) and END (Frame 5); do NOT invent a new face, body, or suit in the glide.
 
 WARDROBE (refined): The tech-runner suit fully modest and sealed, the light-wrap glowing around her body and accent-lines mid-peak, never revealing.
 
@@ -10970,7 +10970,7 @@ NEGATIVE: No speaking, no logos, no inventing a new face in the glide, no warped
 
 ### Frame 5 of 6 — IMAGE PROMPT (END KEYFRAME — the light unspools and she lands in a run on the far rooftop · VO lands here)
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: This is the locked END keyframe of the mag-lev; it must resolve continuously out of the START (Frame 3) — same face, same body, same suit, the glowing neon light-wrap now unspooling from her body as gravity returns and she lands in a clean controlled run on the far rooftop. Do NOT invent a new face or suit; this is the same Aira, exhilarated and in control. Frames 3 (START) and 5 (END) are the two anchors of the single transform.
 
 WARDROBE: The tech-runner suit settled as she lands, sealed and harnessed, fully modest, the last light-wrap easing on the accent-lines.
 
@@ -11055,7 +11055,7 @@ NEGATIVE: No Aira lip-sync, no real logos, no extra fingers, no warped anatomy, 
 
 ### Frame 6 of 6 — IMAGE PROMPT (LOOP NOTE)
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. LOOP NOTE: This is the perfect-loop close — it must resolve back to match Frame 1's framing, camera distance and runner-at-the-parapet presentation so the reel loops seamlessly with no visible seam or pose jump; carry the fierce calm forward but return the overall composition to the Frame 1 rooftop-edge hook so the last frame hands off invisibly to the first.
 
 WARDROBE: The tech-runner suit reading clean as the framing returns to the parapet, sealed, one cool magenta rim along the shoulder, modest — matched to Frame 1.
 
@@ -11439,7 +11439,7 @@ NEGATIVE: No speaking, no logos, no frame skip, no warped limbs, ghosting, physi
 
 ### Frame 4 of 8 — IMAGE PROMPT (START KEYFRAME — the car lifts off and breaks free of gravity)
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: This is the locked START of the orbital-break move — Aira at the wheel as the hypercar just lifts off the salt-flat and breaks free of gravity, fully recognizable, the nose tilting skyward, the salt falling away below, the first thrust-glow blooming under the car as it begins to climb. Lock this START so Frames 5–7 escalate cleanly to the orbital climb, the starlight-break PEAK (Frame 6), and the reform (Frame 7).
 
 WARDROBE: The racing suit pressed in the climb, sealed and harnessed, fully modest, cyan piping glowing in the thrust-light.
 
@@ -11526,7 +11526,7 @@ NEGATIVE: No speaking, no logos, no inventing a new face, no warped limbs, no fr
 
 ### Frame 5 of 8 — IMAGE PROMPT (orbital climb through atmosphere into space)
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: This is the mid-ascent of the orbital-break move — the hypercar climbs through the upper atmosphere into the black of space, Aira fully recognizable at the wheel, the blue-green curve of Earth opening below, the star-field deepening. This frame interpolates between the START (Frame 4 lift-off) and the PEAK (Frame 6 starlight-break); keep her face/core locked, escalate only the altitude and cosmic scale.
 
 WARDROBE: The racing suit in the climb, sealed and harnessed, fully modest, cyan piping glowing in the thinning atmospheric light.
 
@@ -11613,7 +11613,7 @@ NEGATIVE: No speaking, no logos, no inventing a new face, no warped limbs, no st
 
 ### Frame 6 of 8 — IMAGE PROMPT (PEAK — she and the car break apart into a streaming constellation of starlight)
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: This is the PEAK of the impossible move — at the apex over the curve of Earth, Aira and the hypercar break apart into a streaming constellation of starlight, a galaxy of gold-white-cyan light scattering and wheeling across space in the unmistakable silhouette/gesture of Aira mid-soar, her recognizable form still readable in the constellation of light even as it scatters. This is the magical apex; the form must read as Aira-made-of-starlight, NOT a random particle cloud. Interpolate strictly between the START (Frame 4) / climb (Frame 5) and the END (Frame 7 reform); do NOT invent a new face — the reform in Frame 7 must return the exact same Aira.
 
 WARDROBE: The racing suit reading as it scatters into starlight across the shoulders and limbs, the silhouette fully modest even as light, cyan piping becoming streams of cyan starlight.
 
@@ -11700,7 +11700,7 @@ NEGATIVE: No speaking, no logos, no formless particle-mush, no inventing a new f
 
 ### Frame 7 of 8 — IMAGE PROMPT (END KEYFRAME — the starlight reforms into Aira soaring among the stars · VO lands here)
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: This is the locked END keyframe of the orbital-break; it must resolve continuously out of the START (Frame 4) and PEAK (Frame 6) — the scattered starlight sweeps back and reforms into the EXACT same Aira, now soaring whole and weightless among the stars over the curve of Earth, helmet off, hair free, face fully recognizable and serene. Do NOT invent a new face; this is the same Aira, transcendent and in control. Frames 4 (START) / 6 (PEAK) / 7 (END) are the anchors of the single transform.
 
 WARDROBE: The racing suit fully reformed and settled as she soars, sealed and modest, the last starlight easing on the cyan piping, helmet now off and tucked at her side.
 
@@ -11785,7 +11785,7 @@ NEGATIVE: No Aira lip-sync, no real logos, no extra fingers, no warped anatomy, 
 
 ### Frame 8 of 8 — IMAGE PROMPT (LOOP NOTE)
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. LOOP NOTE: This is the perfect-loop close — it must resolve back to match Frame 1's framing, camera distance and driver-beside-the-car presentation so the reel loops seamlessly with no visible seam or pose jump; carry the transcendent calm forward but return the overall composition to the Frame 1 salt-flat hook so the last frame hands off invisibly to the first. (A poetic resolve: the soaring starlight settles back to the salt-flat where it began.)
 
 WARDROBE: The racing suit reading clean as the framing returns to the salt-flat, sealed, one cool moonlit rim along the shoulder, modest — matched to Frame 1.
 
