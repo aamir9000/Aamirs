@@ -1619,3 +1619,201 @@ A clean quiet bright studio as the constant — a soft neutral room-tone. THROUG
 Delicate, ethereal, luminous. KEY/TEMPO: A major, ~70 BPM. THE SPINE (constant): a glass-harmonica/glockenspiel and harp motif with soft high strings, present throughout. BUILD: the bells brighten as she crystallises; a shimmering swell reaches its peak on the CLIP 2 crystal arm-arc (the hero beat); the sparkle decays as she clarifies, drawing back to one glassy note landing exactly where the reel began — a seamless infinite loop. Fragile, prismatic, breath-holding.
 
 ═══════════════════════════════════════════════════════════════════════════════
+
+
+# CONCEPT B-4 — SHE TURNS INTO LIQUID CHROME
+
+Transforms Into: liquid mercury/chrome — she becomes a flowing mirror-metal figure that reflects the room, holds, then the chrome flows off and re-forms solid Aira.
+Feeling: futuristic cool / sleek power — high-fashion, sci-fi, mesmerising.
+★ HOOK (first ~1s): a macro of a chrome ripple flowing across the back of her hand, the studio reflected and warped in it — then it spreads.
+Setting: a clean minimalist concrete-and-light studio, cool grey, one soft gradient backdrop, a hard kicker for chrome speculars.
+Trigger (signature): A CHROME RIPPLE STARTING AT HER HAND / A SLOW HEAD-TILT — the tilt and the first ripple begin the spread; the chrome flowing off completes the reverse.
+Voice: SILENT — diegetic metal + score only.
+Duration: ~14s · 3 clips (angle-cut, single-magic morph, loops to CLIP 1).
+
+## CLIP 1 of 3 — MACRO→MEDIUM CLOSE-UP · THREE-QUARTER · EYE-LEVEL (human Aira → chrome BEGINS flowing mid-clip)
+
+### START IMAGE (keyframe)
+ANGLE & SHOT SIZE: opens as a MACRO on the back of her hand with a chrome ripple, composed as an eye-level MEDIUM CLOSE-UP (chest-up), three-quarter, Aira cool and composed.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: a sleek liquid-silver metallic column gown with a high neck and long sleeves (modest, architectural), the fabric already mirror-sheened, poised to chrome.
+FOOTWEAR: out of frame (chest-up).
+EYEWEAR: none.
+ACCESSORIES: a single sleek chrome ear-cuff, minimal and cool.
+HAIR: a wet-look sleek-back sharp chrome-toned bob, platinum-silver, glossy.
+MAKEUP: cool futuristic — a silver highlight, a chrome-grey lid, a glossy nude-chrome lip, real pores under crisp light.
+HANDS & NAILS: one hand raised slightly, the chrome ripple flowing across the back of it reflecting the studio; chrome mirror nails.
+FACIAL MICRO-DYNAMICS: cool composure — a slight knowing head-tilt, a level direct gaze just off-lens, lips closed in a sleek calm, a slow blink, crisp cool catchlights.
+BODY POSTURE & WEIGHT: a poised editorial stance, weight elegant, shoulders squared and cool, head tilted a few degrees, breathing slow.
+KINETIC STILLNESS (8 layers): (1) the chrome ripple flowing over the hand; (2) the soft gradient backdrop holding still; (3) a crisp specular sliding on the ear-cuff; (4) the metallic gown catching the kicker; (5) chest rising slowly; (6) the bob's wet-look sheen; (7) the first chrome-line glinting up the wrist; (8) a slow cool blink.
+SPATIAL LOGIC: FOREGROUND — the chrome-rippling hand, tack-sharp. MIDGROUND — Aira three-quarter. BACKGROUND — a clean minimalist concrete studio, soft gradient.
+LIGHTING: KEY — a clean soft key. FILL — cool grey ambient. RIM — a hard kicker firing crisp chrome speculars on hair and shoulder. PRACTICAL — studio light reflected in the chrome. SEPARATION — her cool form against the gradient. BOUNCE — a cool silver kick.
+LENS + DOF + BOKEH: opens 100mm macro on the hand (reflections sharp), resolving to 85mm f/2.0; clean studio soft behind, crisp specular bokeh.
+COMPOSITION: vertical 9:16, Aira right-of-centre, the chrome-rippling hand the focal accent lower-left, clean cool negative space.
+SUBJECT FRAMING & POSITION: Aira reads from the chest up, framed medium-close and editorial, her torso at a three-quarter turn so the chrome-rippling hand sits toward the lens low-left, her face cool and tilted just off-lens. The camera is near at clean eye level, opening on the macro hand before settling on her composed face; she anchors right-of-centre so the clean studio opens to frame-left, the body poised and sleek. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: clean, cool, futuristic — the sleek instant before metal flows.
+COLOUR GRADE: VIVID cool silver-chrome with crisp speculars on a controlled cool-grey — bold reflective pops, clean mid-tone, never muddy.
+TEXTURE & MICRO-DETAIL: liquid-chrome mirror reflectivity and ripple, skin pores under crisp light, the metallic gown sheen, ear-cuff specular, mirror nails.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features (except the intended morph), asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, matte fake metal, crushed blacks, garish oversaturation, flat light.
+
+### ANIMATION (this clip, ~5s — human establishing; ★ chrome BEGINS flowing mid-clip, clip ENDS mid-morph)
+SHOT TYPE & ANGLE: macro-into-eye-level medium close-up, three-quarter; subject ~55% right-of-centre.
+CAMERA MOVEMENT (CHOREOGRAPHY): a slow pull-back from the hand-macro into the medium close-up, then a gentle continuing push — one continuous shot.
+LENS: 100mm macro easing to 85mm, f/2.0.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–1.8s — she holds a cool composed stillness, a chrome ripple shimmering across the back of her hand.
+- 1.8–3.0s — ★ TRIGGER: she tilts her head a few degrees; the ripple spreads and the chrome begins to take.
+- 3.0–4.5s — ★ MID-CLIP TRANSFORMATION BEGINS: liquid mirror-metal flows up her arm and across the shoulder, reflecting and warping the studio.
+- 4.5–5.0s — the chrome reaches her jaw; she is now half-flesh, half-chrome, cool and composed.
+FLUIDITY & WEIGHT NOTES: all eases — the head-tilt slow, the chrome flowing smoothly like mercury, the reflections sliding; her cool poise against the metal is the power.
+FABRIC/HAIR/PROP PHYSICS: liquid-metal/mercury simulation — perfect mirror reflectivity, flowing surface tension, accurate warped environment-reflections, slow undulating ripples; the metallic gown flows seamlessly into chrome; no matte fake-metal.
+FOOTWORK & BODY FLOW: a poised editorial stillness; only the head-tilt and the flowing chrome move.
+MID-CLIP TRANSFORMATION (timed): ★ CHROME ONSET at 3.0–4.5s — triggered by the head-tilt and the first ripple, flowing from the hand up the arm to the jaw, contained as an onset within this clip; clip ends half-chrome.
+LIGHTING-IN-MOTION: as she chromes, the kicker fires hard speculars sliding over the new mirror-metal, the studio reflected and warped in her.
+DIEGETIC AUDIO: a metallic shimmer and a smooth liquid-metal tone as the chrome flows.
+MASTER TRACK: a cool minimal synth pulse with a glassy arpeggio, a shimmering swell beginning at 3.0s.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 2 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the silver gown half-chromed from the shoulders and arm up into flowing mirror-metal, the lower gown still metallic fabric.
+  • FOOTWEAR: out of frame.
+  • EYEWEAR: none.
+  • ACCESSORIES: the chrome ear-cuff now seamless with the mirror-metal, throwing a hard specular.
+  • HAIR: the platinum bob chroming into a flowing wet-mirror sweep.
+  • MAKEUP: the cool glam lit by sliding speculars, skin becoming mirror-chrome where transformed.
+  • HANDS & NAILS: the raised hand fully liquid chrome reflecting the studio, mirror nails part of it.
+  • FACIAL MICRO-DYNAMICS: cool composure, head tilted, level gaze just off-lens, lips sleek, a slow blink — calm amid the chrome.
+  • BODY POSTURE & WEIGHT: poised and editorial, the body opening to a fuller three-quarter as the chrome climbs, breathing.
+  • KINETIC STILLNESS (8 layers): (1) the chrome line flowing up; (2) the kicker firing speculars; (3) the hair chroming; (4) the gown flowing to mirror; (5) chest rising; (6) studio reflections warping in her; (7) speculars sliding; (8) a slow blink.
+  • SPATIAL LOGIC: FOREGROUND — the chrome hand reflecting the studio. MIDGROUND — her half-chrome figure. BACKGROUND — clean minimalist concrete studio, soft gradient.
+  • LIGHTING: KEY — clean soft key. FILL — cool grey ambient. RIM — hard kicker speculars. PRACTICAL — studio reflected in chrome. SEPARATION — sleek half-chrome form against gradient. BOUNCE — cool silver.
+  • ATMOSPHERE: futuristic cool taking hold, sleek and composed.
+  • COLOUR GRADE: VIVID cool silver-chrome with crisp speculars on cool-grey, bold reflective pops.
+  • TEXTURE & MICRO-DETAIL: mirror reflectivity, liquid ripple, warped reflections, skin pores where flesh, sliding speculars.
+CUT LOGIC: hard ANGLE-CUT to CLIP 2 (full body, 3/4). No frame-match needed — the angle change is the edit. State carried forward: she is half-chrome, mirror-metal flowing upward, cool.
+
+---
+
+## CLIP 2 of 3 — FULL BODY · THREE-QUARTER · SLIGHT LOW ANGLE (★ full LIQUID-CHROME FIGURE, the hero beat)
+
+### START IMAGE (keyframe)
+ANGLE & SHOT SIZE: slight low-angle FULL BODY, three-quarter; Aira now a complete LIQUID-CHROME FIGURE — a flowing mirror-metal human form reflecting the studio in warped chrome.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: fully transformed — the gown is now part of the seamless liquid chrome, the column-shape held in flowing mirror-metal that warps the studio's reflection.
+FOOTWEAR: implied — chrome feet on the concrete, a soft mirror-reflection beneath.
+EYEWEAR: none.
+ACCESSORIES: the ear-cuff now a seamless bright chrome detail within the mirror form.
+HAIR: a sweep of flowing wet-mirror chrome where the bob was, catching hard speculars.
+MAKEUP: implied — the features modelled in the reflective surface, sleek and abstracted.
+HANDS & NAILS: hands of liquid chrome, fingers articulated in mirror-metal, reflecting the studio in miniature.
+FACIAL MICRO-DYNAMICS: her cool composure is read in the smoothest mirror-planes of the chrome-face, the surface rippling slowly like breath.
+BODY POSTURE & WEIGHT: a sleek editorial contrapposto in chrome — weight on one hip, one mirror-arm drifting, the form undulating slowly while keeping its human shape.
+KINETIC STILLNESS (8 layers): (1) slow ripples moving over the mirror surface; (2) the warped studio-reflection shifting across her; (3) hard speculars sliding over the chrome; (4) the chrome-reflection on the concrete; (5) a slow undulation like breath; (6) the ear-cuff specular; (7) a travelling highlight down the form; (8) the figure subtly alive.
+SPATIAL LOGIC: FOREGROUND — a sharp chrome highlight. MIDGROUND — the chrome-figure, the hero. BACKGROUND — clean minimalist concrete studio, soft gradient backdrop.
+LIGHTING: KEY — clean soft key. FILL — cool grey ambient. RIM — a hard kicker firing crisp speculars sliding over the chrome. PRACTICAL — the studio reflected and warped in her. SEPARATION — the gleaming chrome figure against the gradient. BOUNCE — cool silver from the floor.
+LENS + DOF + BOKEH: 35mm, f/2.8, slight low; the figure sharp, reflections and speculars as soft bokeh.
+COMPOSITION: vertical 9:16, the chrome-figure centred and rising from the low angle, the gradient framing, the warped reflection the focal wonder.
+SUBJECT FRAMING & POSITION: Aira fills the frame head-to-chrome-feet as a complete liquid-chrome figure, her torso at a sleek three-quarter so the mirror silhouette shows both the abstracted face and the flowing curve of the back. The camera sits low and mid-distance, tilting up so she rises sculptural against the gradient, her chrome reflection grounding the lower frame; she holds dead-centre, sleek and reflective. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: transcendent, cool, sci-fi — a being made of living mirror.
+COLOUR GRADE: VIVID chrome-silver with crisp speculars on cool-grey — luminous mirror-metal, clean mid-tone, the reflective sheen the bold anchor.
+TEXTURE & MICRO-DETAIL: mirror surface, ripple distortion, warped studio-reflections, hard speculars, the floor-reflection.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, garbled text, floating shadows, duplicated subjects, matte fake metal, oversharpened, watermarks, crushed blacks, garish oversaturation, flat light, dead eyes.
+
+### ANIMATION (this clip, ~5s — the magical hero beat; ★ reform BEGINS at the end)
+SHOT TYPE & ANGLE: slight low-angle full body, three-quarter; subject ~70% centre.
+CAMERA MOVEMENT (CHOREOGRAPHY): a slow reverent orbit a few degrees around her, low and rising — one continuous shot.
+LENS: 35mm, f/2.8, slight low.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–2.0s — the chrome-figure holds her shape and undulates, slow ripples and the warped studio-reflection sliding over the mirror.
+- 2.0–3.0s — one chrome arm drifts up in a slow graceful arc, a hard specular streaking along the polished surface — the sleek hero beat.
+- 3.0–4.0s — she settles, the reflections sliding gently like a deep breath.
+- 4.0–5.0s — ★ REFORM BEGINS: the chrome begins to flow off and downward, flesh re-emerging from the top.
+FLUIDITY & WEIGHT NOTES: cool grace — the arm-arc eases, the undulation is slow and continuous, the off-flow runs like mercury draining; nothing snaps.
+FABRIC/HAIR/PROP PHYSICS: liquid-metal/mercury simulation — perfect reflectivity, surface tension, accurate warped reflections tracking the orbit, slow ripples; the off-flow reveals skin beneath with believable surface-flow.
+FOOTWORK & BODY FLOW: chrome feet grounded with a mirror-reflection, the body holding a sleek sway as it undulates.
+MID-CLIP TRANSFORMATION (timed): ★ the hero HOLD (0.0–4.0s) then REFORM ONSET (4.0–5.0s) — the chrome begins flowing off to reveal flesh, contained as an onset in this clip.
+LIGHTING-IN-MOTION: as the orbit moves, the kicker sends travelling speculars across the chrome and the warped reflection sweeps over her.
+DIEGETIC AUDIO: a deep liquid-metal hum, a smooth flowing tone, beginning the off-flow.
+MASTER TRACK: the synth pulse and arpeggio reach a shimmering swell on the arm-arc peak, then begin drawing back as the reform starts.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 3 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the chrome flowing off from the feet up — solid metallic-silver gown returning on the lower body, the upper body still mirror-chrome.
+  • FOOTWEAR: out of frame.
+  • EYEWEAR: none.
+  • ACCESSORIES: the chrome ear-cuff resolving back to a solid cuff as the chrome flows off.
+  • HAIR: the wet-mirror sweep flowing back into the sleek platinum bob from the crown down.
+  • MAKEUP: the cool glam resolving onto re-formed skin, silver highlight settling.
+  • HANDS & NAILS: the raised hand flowing from chrome back to skin, mirror nails returning, the last chrome at the fingertips.
+  • FACIAL MICRO-DYNAMICS: cool composure, head tilted, level gaze just off-lens, lips sleek, a slow blink as flesh returns.
+  • BODY POSTURE & WEIGHT: settling toward the poised editorial stance, the off-flowing chrome revealing her, breathing.
+  • KINETIC STILLNESS (8 layers): (1) the off-flow line descending; (2) the floor-reflection settling; (3) the hair un-chroming; (4) the gown returning to fabric; (5) chest rising; (6) ear-cuff re-resolving; (7) last speculars sliding; (8) a slow blink.
+  • SPATIAL LOGIC: FOREGROUND — the un-chroming hand. MIDGROUND — her half-resolved figure. BACKGROUND — clean concrete studio, gradient.
+  • LIGHTING: KEY — clean soft key. FILL — cool grey ambient. RIM — fading kicker speculars. PRACTICAL — studio reflected in fading chrome. SEPARATION — her form against gradient. BOUNCE — cool silver.
+  • ATMOSPHERE: the sleek spell resolving, cool and composed.
+  • COLOUR GRADE: VIVID cool silver-chrome with crisp speculars on cool-grey, bold reflective pops.
+  • TEXTURE & MICRO-DETAIL: off-flowing chrome, re-emerging skin pores, gown returning to fabric, warped reflections fading, last speculars.
+CUT LOGIC: hard ANGLE-CUT to CLIP 3 (medium close-up, three-quarter). No frame-match needed. State carried forward: she is un-chroming from the feet up, nearly flesh, last chrome at the hand.
+
+---
+
+## CLIP 3 of 3 — MEDIUM CLOSE-UP · THREE-QUARTER · EYE-LEVEL (chrome flows off → solid Aira; LOOP to CLIP 1)
+
+### START IMAGE (keyframe)
+ANGLE & SHOT SIZE: eye-level MEDIUM CLOSE-UP, three-quarter; the chrome flowing off to reveal human Aira, a last chrome ripple leaving the back of her hand.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: the sleek liquid-silver metallic column gown re-formed and intact, high neck and long sleeves, mirror-sheened.
+FOOTWEAR: out of frame.
+EYEWEAR: none.
+ACCESSORIES: a single sleek chrome ear-cuff, solid and gleaming again.
+HAIR: the wet-look sleek-back platinum-silver bob restored, glossy.
+MAKEUP: cool futuristic — silver highlight, chrome-grey lid, glossy nude-chrome lip, real pores.
+HANDS & NAILS: one hand raised slightly, a last chrome ripple leaving the back of it — matching CLIP 1 — chrome mirror nails.
+FACIAL MICRO-DYNAMICS: cool composure — a slight knowing head-tilt, a level gaze just off-lens, lips sleek and calm, a slow blink — exactly the look that opened CLIP 1.
+BODY POSTURE & WEIGHT: a poised editorial stance, weight elegant, shoulders squared and cool, head tilted a few degrees, breathing.
+KINETIC STILLNESS (8 layers): (1) the last chrome ripple leaving the hand; (2) the soft gradient backdrop still; (3) a crisp specular on the ear-cuff; (4) the metallic gown catching the kicker; (5) chest easing on an exhale; (6) the bob's wet-look sheen; (7) a final chrome-line glinting off the wrist; (8) a slow cool blink.
+SPATIAL LOGIC: FOREGROUND — the hand and last chrome ripple, sharp. MIDGROUND — Aira three-quarter. BACKGROUND — clean minimalist concrete studio, soft gradient.
+LIGHTING: KEY — clean soft key. FILL — cool grey ambient. RIM — hard kicker speculars on hair and shoulder. PRACTICAL — studio reflected in the gown. SEPARATION — her cool form against the gradient. BOUNCE — cool silver kick.
+LENS + DOF + BOKEH: 85mm, f/2.0; her sharp, the last chrome crisp, clean studio soft behind — matched toward CLIP 1's resolve.
+COMPOSITION: vertical 9:16, Aira right-of-centre, the hand the focal accent lower-left, clean cool negative space — rhyming with CLIP 1.
+SUBJECT FRAMING & POSITION: Aira reads from the chest up, framed medium-close and editorial, her torso at a three-quarter turn so the hand sits toward the lens low-left as the last chrome flows off, her face cool and tilted just off-lens. The camera holds near distance at clean eye level, she anchors right-of-centre so the clean studio opens to frame-left — composed to match CLIP 1's opening so the loop is seamless. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: clean, cool resolution — the sleek calm exactly as it began.
+COLOUR GRADE: VIVID cool silver-chrome with crisp speculars on cool-grey, bold reflective pops — matched to CLIP 1.
+TEXTURE & MICRO-DETAIL: liquid-chrome reflectivity fading, skin pores under crisp light, metallic gown sheen, ear-cuff specular, mirror nails.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, matte fake metal, crushed blacks, garish oversaturation, flat light.
+
+### ANIMATION (this clip, ~4s — reform completes; LOOP back to CLIP 1)
+SHOT TYPE & ANGLE: eye-level medium close-up, three-quarter; subject ~55% right-of-centre.
+CAMERA MOVEMENT (CHOREOGRAPHY): a slow settle easing toward CLIP 1's exact framing — one continuous shot.
+LENS: 85mm, f/2.0.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–2.0s — ★ REFORM COMPLETES: the chrome flows off her, flesh, hair and gown re-emerging from the feet up, the raised hand last.
+- 2.0–3.0s — fully restored, she holds her cool poise, a last chrome ripple leaving the back of her hand.
+- 3.0–4.0s — she holds the exact composed head-tilt that opened CLIP 1, a fresh ripple about to start — seamless loop point.
+FLUIDITY & WEIGHT NOTES: the reform runs like mercury draining off, eased and continuous; she arrives in the opening pose with no snap, breath leading the settle.
+FABRIC/HAIR/PROP PHYSICS: off-flow simulation — chrome flowing off and revealing skin/fabric with believable surface-tension, hair un-chroming, the gown returning to metallic fabric; a new ripple forms on the hand.
+FOOTWORK & BODY FLOW: weight roots into the poised editorial stance, a faint cool settle.
+MID-CLIP TRANSFORMATION (timed): ★ REFORM COMPLETION at 0.0–2.0s — the chrome fully flows off into base Aira, resolving the single-magic morph.
+LIGHTING-IN-MOTION: the sliding speculars settle to the clean key of CLIP 1.
+DIEGETIC AUDIO: the liquid-metal tone resolving into a single metallic tick, then the clean studio quiet.
+MASTER TRACK: the synth pulse draws back to one cool synth note landing exactly where CLIP 1 began — seamless loop.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 1 (LOOP back to opening) — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the sleek liquid-silver metallic column gown intact, high neck, long sleeves, mirror-sheened.
+  • FOOTWEAR: out of frame.
+  • EYEWEAR: none.
+  • ACCESSORIES: a single sleek chrome ear-cuff.
+  • HAIR: a wet-look sleek-back sharp platinum-silver bob, glossy.
+  • MAKEUP: silver highlight, chrome-grey lid, glossy nude-chrome lip, real pores.
+  • HANDS & NAILS: one hand raised slightly, a chrome ripple flowing across the back of it, chrome mirror nails.
+  • FACIAL MICRO-DYNAMICS: cool composure, a slight knowing head-tilt, a level gaze just off-lens, lips sleek, a slow blink.
+  • BODY POSTURE & WEIGHT: poised editorial stance, weight elegant, shoulders squared and cool, head tilted a few degrees.
+  • KINETIC STILLNESS (8 layers): (1) the chrome ripple flowing over the hand; (2) the gradient backdrop still; (3) a specular on the ear-cuff; (4) the gown catching the kicker; (5) a slow inhale; (6) the bob's wet-look sheen; (7) the first chrome-line up the wrist; (8) a slow cool blink.
+  • SPATIAL LOGIC: FOREGROUND — chrome-rippling hand. MIDGROUND — Aira three-quarter. BACKGROUND — clean minimalist concrete studio, soft gradient.
+  • LIGHTING: KEY — clean soft key. FILL — cool grey ambient. RIM — hard kicker speculars. PRACTICAL — studio reflected in chrome. SEPARATION — cool form against gradient. BOUNCE — cool silver.
+  • ATMOSPHERE: clean, cool, futuristic — the sleek instant before metal flows, exactly as it began.
+  • COLOUR GRADE: VIVID cool silver-chrome with crisp speculars on cool-grey, bold reflective pops.
+  • TEXTURE & MICRO-DETAIL: liquid-chrome reflectivity and ripple, skin pores, metallic gown sheen, ear-cuff specular, mirror nails.
+CUT LOGIC: seamless ANGLE-CUT / LOOP back to CLIP 1 — the chrome ripples over her hand and she liquefies again, forever.
+
+☆ EXTERNAL AUDIO — BLOCK 1: BACKGROUND SOUND DESIGN / AMBIENCE BED
+A clean minimalist studio room-tone as the constant — a soft cool hum. THROUGH-LINE: a metallic shimmer + liquid-tone (the chrome trigger), recurring at the loop. Layers: a flowing-mercury wash as the chrome spreads (CLIP 1 end); a deep liquid-metal hum with a smooth flowing tone while she is the chrome-figure (CLIP 2); the tone resolving to one metallic tick and the clean quiet as the chrome flows off (CLIP 3). Cross-fade beat to beat; the cool hum at the end equals the start.
+☆ EXTERNAL AUDIO — BLOCK 2: BACKGROUND MUSIC / SCORE TRACK
+Futuristic, sleek, high-fashion. KEY/TEMPO: F# minor, ~90 BPM. THE SPINE (constant): a cool minimal synth pulse with a deep sub-bass, present throughout. BUILD: a glassy synth arpeggio enters as she chromes; a shimmering synth swell reaches its peak on the CLIP 2 chrome arm-arc (the hero beat); the swell decays as the chrome flows off, drawing back to one cool synth note landing exactly where the reel began — a seamless infinite loop. Modern, sci-fi, runway-cool.
+
+═══════════════════════════════════════════════════════════════════════════════
