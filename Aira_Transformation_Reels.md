@@ -230,3 +230,201 @@ A near-silent dark stone chamber as the constant. THROUGH-LINE: one crystalline 
 Ambient, weightless, hypnotic. KEY/TEMPO: A minor, ~58 BPM, rubato. THE SPINE (constant): a soft single piano note that "drips" in time with the water-drop, present from first frame to last. BUILD: a slow evolving synth pad enters as she liquefies; a warm string bloom swells to its peak on the CLIP 2 arm-arc (the magical hero beat); the strings draw back as she reforms, decaying to the lone piano note landing exactly where the reel began — a seamless infinite loop. Serene, cinematic, "I could watch this forever."
 
 ═══════════════════════════════════════════════════════════════════════════════
+
+
+# CONCEPT A-2 — SHE TURNS INTO FIRE & EMBERS
+
+Transforms Into: living flame and floating embers — she ignites and dissolves upward into a swarm of glowing embers and flame-licks, holds as a fire-figure, then the embers rain back and reassemble her.
+Feeling: fierce elegance / quiet power — dramatic, hypnotic, a little dangerous, utterly composed.
+★ HOOK (first ~1s): a macro on a single glowing ember drifting up past her cool, unbothered eye — then the tips of her hair catch light like a wick.
+Setting: a pitch-black void with a low warm floor-glow; she is the only light source, embers already drifting through the dark.
+Trigger (signature): A SLOW EXHALE / FINGER-SNAP — the breath (or the snap) ignites the embers from her fingertips and hair; a second exhale at the end lets them cool and fall.
+Voice: SILENT — diegetic fire + score only.
+Duration: ~14s · 3 clips (angle-cut, single-magic morph, loops to CLIP 1).
+
+## CLIP 1 of 3 — CLOSE-UP · FRONT · EYE-LEVEL (human Aira → ignition BEGINS mid-clip)
+
+### START IMAGE (keyframe)
+ANGLE & SHOT SIZE: eye-level CLOSE-UP, front (face and shoulders), a single ember drifting past her cheek in the dark.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: a structured deep-crimson-and-gold gown with a high modest neckline and sculptural shoulders, the fabric's edges catching light like banked coals, gold embroidery glinting.
+FOOTWEAR: out of frame (close-up).
+EYEWEAR: none.
+ACCESSORIES: thin gold ear-climbers tracing the ear, a single slim gold cuff just visible at the collar.
+HAIR: a sleek, high, dramatic jet-black ponytail pulled tight at the crown, the very tips beginning to glow faint amber like a wick about to take.
+MAKEUP: bold and warm — a bronzed smoky eye, sharp defined brow, a glossy oxblood lip, gold-flecked high-point highlight catching the ember-glow, real pores.
+HANDS & NAILS: one hand just rising into the lower frame, fingers poised to snap, deep-red glossy nails; a faint heat-shimmer at the fingertips.
+FACIAL MICRO-DYNAMICS: dead-calm power — chin level, eyes cutting straight to the lens with cool authority, lips closed in the faintest knowing smirk, one slow blink, warm ember-catchlights flickering in the iris.
+BODY POSTURE & WEIGHT: shoulders squared and relaxed-low, head perfectly level, a poised stillness that reads as control, breathing slow.
+KINETIC STILLNESS (8 layers): (1) the lone ember drifting up past the cheek; (2) heat-shimmer warping the black behind her; (3) the ponytail-tips pulsing faint amber; (4) a thread of smoke curling off a hair-tip; (5) chest rising slowly; (6) the gold embroidery glinting as light shifts; (7) a second ember winking into life near her shoulder; (8) a slow blink.
+SPATIAL LOGIC: FOREGROUND — the drifting ember and her poised hand, sharp. MIDGROUND — her face and shoulders. BACKGROUND — pure black void with a faint low warm floor-glow.
+LIGHTING: KEY — a warm under-glow plus the single ember's light raking up her face. FILL — minimal, deep warm shadow. RIM — a faint gold edge on the ponytail and one shoulder. PRACTICAL — the ember itself, the floor-glow. SEPARATION — her warm-lit face against the black. BOUNCE — a soft amber kick under the chin.
+LENS + DOF + BOKEH: 85mm, f/2.0; her eyes tack-sharp, the drifting ember a soft glowing bokeh accent, the dark melting to nothing.
+COMPOSITION: vertical 9:16, her face in the upper-centre, the ember on the upper-third, vast black negative space, the poised hand entering low.
+SUBJECT FRAMING & POSITION: Aira reads from the shoulders up, framed in an intimate close-up with her torso squared full-front and her face level and direct to the lens, eyes delivering cool command straight down the barrel. The camera is near and personal at clean eye level, letting the single ember float on the upper-third while her face anchors dead-centre against the black; the poised snapping hand rises just into the lower frame, promising the trigger. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: smouldering, controlled, a held match — power before the spark.
+COLOUR GRADE: VIVID orange-gold-crimson on pure black, glowing speculars, rich uncrushed blacks — the warm glow the saturated anchor, never muddy.
+TEXTURE & MICRO-DETAIL: the ember's glowing grain and spark-trail, smoke wisp, skin pores under warm light, gold embroidery glint, the oxblood lip's gloss, faint heat-shimmer.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features (except the intended morph), asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light, dull/cartoon flame.
+
+### ANIMATION (this clip, ~5s — human establishing; ★ ignition BEGINS mid-clip, clip ENDS mid-morph)
+SHOT TYPE & ANGLE: eye-level close-up, front; subject ~60% centre.
+CAMERA MOVEMENT (CHOREOGRAPHY): a slow, almost-imperceptible push toward her eyes, then holding as the ignition starts — one continuous shot.
+LENS: 85mm, f/2.0, eyes sharp.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–1.8s — she holds the lens with cool authority, the ember drifting past; one slow blink.
+- 1.8–3.0s — ★ TRIGGER: she exhales slowly through parted lips (or snaps the poised fingers) — the breath fans the wick-tips of her ponytail into glowing amber.
+- 3.0–4.5s — ★ MID-CLIP TRANSFORMATION BEGINS: embers bloom from her fingertips and hair, glowing lines of fire tracing up her form, the gown's coal-edges igniting.
+- 4.5–5.0s — the ignition reaches her jaw and shoulders; she is now half-flesh, half-fire, expression unchanged and unbothered.
+FLUIDITY & WEIGHT NOTES: every beat eases — the blink luxurious, the exhale slow, the ignition climbing like a living wick; her stillness against the fire is the power.
+FABRIC/HAIR/PROP PHYSICS: embers rise on real convection with flicker and fade; individual sparks trail and wink out; smoke wisps drift; the gown's edges char-glow then dissolve to flame; heat-shimmer warps the air; light from the growing fire correctly relights her face.
+FOOTWORK & BODY FLOW: minimal — a poised, grounded stillness; only the rising hand and the slow exhale move.
+MID-CLIP TRANSFORMATION (timed): ★ IGNITION ONSET at 3.0–4.5s — triggered by the exhale/snap, climbing from fingertips and hair to jaw and shoulders, fully contained as an onset within this clip; clip ends half-fire.
+LIGHTING-IN-MOTION: as she ignites, the key shifts from a single ember to a growing flame-glow, deepening the warm rim and flickering shadows up the black.
+DIEGETIC AUDIO: the soft hiss of the exhale, a low whoosh as the embers catch, a delicate building crackle.
+MASTER TRACK: a deep cinematic drone with a slow heartbeat-drum entering at the exhale, a single haunting cello note beginning at 3.0s.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 2 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the crimson-and-gold gown half-dissolved into flame from the shoulders and arms up, coal-edges glowing, the lower gown still structured fabric.
+  • FOOTWEAR: out of frame / hidden in the dark.
+  • EYEWEAR: none.
+  • ACCESSORIES: the gold ear-climbers and cuff glowing molten-hot, still reading as solid points within the fire.
+  • HAIR: the jet-black ponytail now a streaming wick of amber flame at the tips, smoke trailing.
+  • MAKEUP: bronzed smoky eye and oxblood lip lit hot, gold highlight blazing, real skin where still flesh.
+  • HANDS & NAILS: the snapping hand igniting into ember-and-flame, deep-red nails glowing at the tips.
+  • FACIAL MICRO-DYNAMICS: cool and unbothered, chin level, faint smirk, eyes lit by the fire, a slow calm blink — composure amid ignition.
+  • BODY POSTURE & WEIGHT: squared, poised, low-shouldered, the body opening to a gentle three-quarter as the fire climbs, breathing.
+  • KINETIC STILLNESS (8 layers): (1) the ignition line climbing; (2) heat-shimmer roiling the black; (3) the flame-wick ponytail streaming; (4) coal-edges of the gown glowing; (5) chest rising; (6) ear-climbers molten-glinting; (7) embers streaming up; (8) a slow blink.
+  • SPATIAL LOGIC: FOREGROUND — the igniting hand, embers. MIDGROUND — her half-fire figure. BACKGROUND — black void, low floor-glow, heat-shimmer.
+  • LIGHTING: KEY — growing flame-glow from her own fire. FILL — warm shadow. RIM — gold flame-edge. PRACTICAL — her fire, embers, floor-glow. SEPARATION — luminous half-fire form against black. BOUNCE — amber under the jaw.
+  • ATMOSPHERE: smouldering power taking hold, dramatic and composed.
+  • COLOUR GRADE: VIVID blazing orange-gold-crimson on black, glowing speculars, rich blacks.
+  • TEXTURE & MICRO-DETAIL: flame-licks, ember field, smoke wisps, heat-shimmer, molten gold accents, glowing skin where still flesh.
+CUT LOGIC: hard ANGLE-CUT to CLIP 2 (full body, 3/4). No frame-match needed — the angle change is the edit. State carried forward: she is half-fire, igniting upward, calm.
+
+---
+
+## CLIP 2 of 3 — FULL BODY · THREE-QUARTER · SLIGHT LOW ANGLE (★ full FIRE-FIGURE, the hero beat)
+
+### START IMAGE (keyframe)
+ANGLE & SHOT SIZE: slight low-angle FULL BODY, three-quarter; Aira now a complete FIRE-FIGURE — a human-shaped form of living flame and suspended embers.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: fully transformed — the crimson-and-gold gown is now woven of flame, its silhouette and gold-embroidery edges glowing molten within the fire, the hem trailing into rising embers.
+FOOTWEAR: hidden — her fire-feet trail into ember and smoke at the floor-glow.
+EYEWEAR: none.
+ACCESSORIES: the gold ear-climbers and cuff persist as molten-bright solid points within the flame — the only hard glints in the fire.
+HAIR: the ponytail streams upward as a banner of amber-white flame, sparks peeling off the tip.
+MAKEUP: implied in the fire — the smoky eye and oxblood lip suggested in the hottest cores of the flame-face.
+HANDS & NAILS: hands of flame and ember, fingers articulated in fire, the deep-red nail-tips glowing as bright sparks.
+FACIAL MICRO-DYNAMICS: her cool composure is read in the steadiest core of the flame-face — level "gaze", a faint smirk in the heat-shapes, the fire breathing as it roils.
+BODY POSTURE & WEIGHT: an elegant contrapposto held in fire — weight implied on one hip, one flaming arm drifting up, the whole figure roiling slowly while keeping its human shape.
+KINETIC STILLNESS (8 layers): (1) flame-licks rolling up the body; (2) heat-shimmer warping the dark; (3) the flame-wick ponytail streaming; (4) embers streaming up off the shoulders; (5) a slow roil like breath; (6) molten ear-climbers glinting; (7) sparks peeling and winking out; (8) smoke threading off the crown.
+SPATIAL LOGIC: FOREGROUND — embers and sparks rising, sharp. MIDGROUND — the fire-figure, the hero. BACKGROUND — black void with heat-shimmer and a low warm floor-glow.
+LIGHTING: KEY — she IS the light, casting flickering warm glow outward into the dark. FILL — her own fire-bounce. RIM — a bright gold flame-edge defining her silhouette. PRACTICAL — her flame and the ember field. SEPARATION — luminous fire-figure against pure black. BOUNCE — warm pooled glow at her feet.
+LENS + DOF + BOKEH: 35mm, f/2.8, slight low; the figure sharp, rising embers as glowing bokeh, heat-shimmer softening the edges.
+COMPOSITION: vertical 9:16, the fire-figure centred and towering from the low angle, embers filling the upper frame, black space framing.
+SUBJECT FRAMING & POSITION: Aira fills the frame head-to-trailing-feet as a complete fire-figure, her torso at a graceful three-quarter so the flame-silhouette shows both the suggested face and the burning curve of the back. The camera sits low and mid-distance, tilting up so she rises heroic against the black, her ember-trailing base anchoring the lower-centre while the flame-wick streams from the crown; she holds dead-centre with embers fanning to both sides. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: blazing, transcendent, dangerous beauty — a being made of living fire.
+COLOUR GRADE: VIVID blazing orange-gold-crimson with white-hot cores on black — luminous, rich blacks, the fire the saturated anchor.
+TEXTURE & MICRO-DETAIL: flame-lick detail, ember field, spark trails, heat-shimmer, molten-gold accents, smoke threads.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, garbled text, floating shadows, duplicated subjects, plastic look, oversharpened, watermarks, dull/cartoon flame, crushed blacks, garish oversaturation, flat light.
+
+### ANIMATION (this clip, ~5s — the magical hero beat; ★ reform BEGINS at the end)
+SHOT TYPE & ANGLE: slight low-angle full body, three-quarter; subject ~70% centre.
+CAMERA MOVEMENT (CHOREOGRAPHY): a slow reverent orbit a few degrees around her, low and rising — one continuous shot.
+LENS: 35mm, f/2.8, slight low.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–2.0s — the fire-figure holds her human shape and roils, flame-licks rolling upward, embers streaming.
+- 2.0–3.0s — one flaming arm drifts up in a slow graceful arc, a shower of sparks peeling off the fingertips — the hypnotic hero beat.
+- 3.0–4.0s — she settles, the fire rising and falling like a deep breath, glow pulsing on the black.
+- 4.0–5.0s — ★ REFORM BEGINS: the flames gutter and cool from the top, embers beginning to rain downward to gather.
+FLUIDITY & WEIGHT NOTES: fierce grace — the arm-arc eases, the roil is slow and continuous, the cooling gathers like a fire banking down; nothing snaps.
+FABRIC/HAIR/PROP PHYSICS: full fire/ember particle simulation — convection rise, flicker and fade, individual spark trails, smoke threading, heat-shimmer tracking the orbit; the gold accents stay solid and weighted within.
+FOOTWORK & BODY FLOW: the figure's base trails into ember and smoke at the floor, the whole body roiling like fire that remembers a human form.
+MID-CLIP TRANSFORMATION (timed): ★ the hero HOLD (0.0–4.0s) then REFORM ONSET (4.0–5.0s) — the flames cool and embers begin to fall to reassemble, contained as an onset in this clip.
+LIGHTING-IN-MOTION: as the orbit moves, her fire-glow sweeps new flickering shadows across the black; the cooling dims the key toward ember-red.
+DIEGETIC AUDIO: a low roaring flame-body, steady crackle, the shower of sparks ticking, then the soft collapsing hiss as the fire cools.
+MASTER TRACK: the drone and heartbeat-drum reach a brass/choir swell at the arm-arc peak, then draw back as the reform begins.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 3 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the crimson-and-gold gown re-forming from the feet up — solid structured fabric returning on the lower body, the upper body still cooling fire and falling embers.
+  • FOOTWEAR: out of frame / hidden in the dark.
+  • EYEWEAR: none.
+  • ACCESSORIES: the gold ear-climbers and cuff cooling from molten back to solid gold.
+  • HAIR: the flame-wick ponytail condensing back into sleek jet-black from the crown down, tips still amber-glowing.
+  • MAKEUP: the bronzed smoky eye and oxblood lip resolving onto re-formed skin, gold highlight cooling to a glint.
+  • HANDS & NAILS: hands re-solidifying to skin from ember, deep-red nails returning, the last sparks at the fingertips.
+  • FACIAL MICRO-DYNAMICS: cool and composed, chin level, faint smirk returning, eyes lit by the fading fire, a slow blink as features resolve.
+  • BODY POSTURE & WEIGHT: settling upright and squared, the cooling fire pulling her into her poised stance, breathing.
+  • KINETIC STILLNESS (8 layers): (1) the reform line descending; (2) heat-shimmer fading; (3) hair condensing; (4) gown re-forming; (5) chest rising; (6) ear-climbers re-glinting; (7) last embers falling; (8) a slow blink.
+  • SPATIAL LOGIC: FOREGROUND — the re-forming hand, last embers. MIDGROUND — her half-resolved figure. BACKGROUND — black void, low floor-glow, fading shimmer.
+  • LIGHTING: KEY — fading flame-glow. FILL — warm shadow. RIM — cooling gold edge. PRACTICAL — dying fire, last embers, floor-glow. SEPARATION — her form against black. BOUNCE — amber under the jaw.
+  • ATMOSPHERE: the fire banking down, power resolving, composed.
+  • COLOUR GRADE: VIVID orange-gold-crimson cooling on black, rich blacks, glowing speculars.
+  • TEXTURE & MICRO-DETAIL: re-solidifying skin pores, condensing hair, gown fabric reappearing, last sparks, fading shimmer.
+CUT LOGIC: hard ANGLE-CUT to CLIP 3 (medium, front). No frame-match needed. State carried forward: she is re-forming from the feet up, nearly solid, embers settling.
+
+---
+
+## CLIP 3 of 3 — MEDIUM · FRONT · EYE-LEVEL (embers reassemble → solid Aira; LOOP to CLIP 1)
+
+### START IMAGE (keyframe)
+ANGLE & SHOT SIZE: eye-level MEDIUM, front (face and upper chest); the embers raining down and reassembling into human Aira, the last sparks at her fingertips.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: the deep-crimson-and-gold gown re-formed and intact, high modest neckline and sculptural shoulders restored, gold embroidery glinting.
+FOOTWEAR: out of frame.
+EYEWEAR: none.
+ACCESSORIES: thin gold ear-climbers and the slim cuff, solid and glinting again.
+HAIR: the sleek high jet-black ponytail restored, the very tips still pulsing a faint dying amber — matching CLIP 1.
+MAKEUP: bronzed smoky eye, sharp brow, glossy oxblood lip, gold-flecked highlight, real pores.
+HANDS & NAILS: the hand rising into the lower frame again, fingers poised, deep-red glossy nails, a final spark at the fingertip.
+FACIAL MICRO-DYNAMICS: dead-calm power — chin level, eyes cutting to the lens, the faint knowing smirk, one slow blink, warm ember-catchlights — exactly the look that opened CLIP 1.
+BODY POSTURE & WEIGHT: shoulders squared and low, head level, the poised controlled stillness returning, breathing slow.
+KINETIC STILLNESS (8 layers): (1) a last ember drifting up past the cheek; (2) heat-shimmer settling; (3) the ponytail-tips' amber fading; (4) a final smoke-thread curling off a hair-tip; (5) chest easing on an exhale; (6) gold embroidery glinting; (7) the floor-glow steadying; (8) a slow blink.
+SPATIAL LOGIC: FOREGROUND — the poised hand and last spark, sharp. MIDGROUND — Aira restored. BACKGROUND — pure black void with a faint low warm floor-glow.
+LIGHTING: KEY — warm under-glow with a last ember's light. FILL — deep warm shadow. RIM — faint gold edge on the ponytail and shoulder. PRACTICAL — the last ember, floor-glow. SEPARATION — her warm-lit face against black. BOUNCE — soft amber under the chin.
+LENS + DOF + BOKEH: 85mm easing toward the close framing, f/2.0; her eyes sharp, the last ember a soft glowing bokeh — matched toward CLIP 1's resolve.
+COMPOSITION: vertical 9:16, her face upper-centre, the last ember on the upper-third, vast black negative space, the poised hand low — rhyming with CLIP 1.
+SUBJECT FRAMING & POSITION: Aira reads from the upper chest up, framed medium and resolving toward the intimate close-up that began the reel, torso squared full-front, face level and direct to the lens as the embers finish gathering her. The camera holds clean eye level at near-to-mid distance, the last ember floating on the upper-third while her face anchors dead-centre against the black; the poised hand rises into the lower frame — composed to match CLIP 1's opening so the loop is seamless. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: smouldering resolution — the power banked back to a held match, exactly as it began.
+COLOUR GRADE: VIVID orange-gold-crimson on pure black, glowing speculars, rich blacks — matched to CLIP 1.
+TEXTURE & MICRO-DETAIL: the last ember's grain, settling smoke, skin pores under warm light, gold glint, oxblood-lip gloss, fading shimmer.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light, dull/cartoon flame.
+
+### ANIMATION (this clip, ~4s — reform completes; LOOP back to CLIP 1)
+SHOT TYPE & ANGLE: eye-level medium easing to close-up, front; subject ~60% centre.
+CAMERA MOVEMENT (CHOREOGRAPHY): a slow settle/push easing toward CLIP 1's exact framing — one continuous shot.
+LENS: 85mm, f/2.0.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–2.0s — ★ REFORM COMPLETES: the raining embers gather and solidify into Aira, features, hair and gown resolving from the feet up, the raised hand last.
+- 2.0–3.0s — fully restored, she levels her cool gaze to the lens, the faint smirk returning.
+- 3.0–4.0s — she holds the exact poised stance and expression that opened CLIP 1, a last ember drifting past her cheek — seamless loop point.
+FLUIDITY & WEIGHT NOTES: the reform gathers like a fire settling to coals, eased and continuous; she arrives in the opening pose with no snap, breath leading the settle.
+FABRIC/HAIR/PROP PHYSICS: ember re-gather — sparks climbing and solidifying into skin and fabric with believable cooling, hair condensing, gown-weave knitting back; the last ember rises with real convection.
+FOOTWORK & BODY FLOW: weight roots into the poised, grounded stillness, a faint spinal settle.
+MID-CLIP TRANSFORMATION (timed): ★ REFORM COMPLETION at 0.0–2.0s — the embers fully reassemble into base Aira, resolving the single-magic morph.
+LIGHTING-IN-MOTION: the flame-glow fades to a single ember's light, the key steadying to the exact warmth of CLIP 1.
+DIEGETIC AUDIO: the collapsing hiss resolving into a soft ember-pop and the quiet of the dark — the trigger-state restored.
+MASTER TRACK: the drone and drum draw back to a single haunting cello note landing exactly where CLIP 1 began — seamless loop.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 1 (LOOP back to opening) — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the crimson-and-gold gown intact, high modest neckline, sculptural shoulders, gold embroidery.
+  • FOOTWEAR: out of frame.
+  • EYEWEAR: none.
+  • ACCESSORIES: thin gold ear-climbers, slim gold cuff.
+  • HAIR: sleek high jet-black ponytail, tips a faint amber glow.
+  • MAKEUP: bronzed smoky eye, sharp brow, glossy oxblood lip, gold highlight, real pores.
+  • HANDS & NAILS: one hand rising into the lower frame, fingers poised to snap, deep-red glossy nails.
+  • FACIAL MICRO-DYNAMICS: dead-calm, chin level, eyes cutting to lens, faint knowing smirk, a slow blink, ember-catchlights.
+  • BODY POSTURE & WEIGHT: shoulders squared and low, head level, poised controlled stillness, breathing slow.
+  • KINETIC STILLNESS (8 layers): (1) a lone ember drifting past the cheek; (2) heat-shimmer on the black; (3) ponytail-tips pulsing amber; (4) a smoke-thread off a hair-tip; (5) a slow inhale; (6) gold embroidery glinting; (7) a second ember winking near the shoulder; (8) a slow blink.
+  • SPATIAL LOGIC: FOREGROUND — drifting ember and poised hand. MIDGROUND — her face and shoulders. BACKGROUND — black void, low warm floor-glow.
+  • LIGHTING: KEY — warm under-glow plus a single ember. FILL — deep warm shadow. RIM — faint gold on ponytail. PRACTICAL — the ember, floor-glow. SEPARATION — warm face on black. BOUNCE — amber under the chin.
+  • ATMOSPHERE: smouldering, controlled, a held match — exactly as it began.
+  • COLOUR GRADE: VIVID orange-gold-crimson on pure black, glowing speculars, rich blacks.
+  • TEXTURE & MICRO-DETAIL: ember grain and spark-trail, smoke wisp, skin pores, gold glint, oxblood-lip gloss, heat-shimmer.
+CUT LOGIC: seamless ANGLE-CUT / LOOP back to CLIP 1 — she exhales and ignites again, forever.
+
+☆ EXTERNAL AUDIO — BLOCK 1: BACKGROUND SOUND DESIGN / AMBIENCE BED
+A pitch-black void with a faint warm room-tone as the constant. THROUGH-LINE: the soft hiss of her slow exhale (the trigger), recurring at the loop. Layers: an ignite-whoosh and building crackle as she catches (CLIP 1 end); a low roaring flame-body with steady crackle and ticking spark-showers while she is the fire-figure (CLIP 2); a collapsing cooling hiss with falling-ember ticks resolving to a single ember-pop and quiet (CLIP 3). Cross-fade beat to beat; the dark quiet at the end equals the quiet at the start.
+☆ EXTERNAL AUDIO — BLOCK 2: BACKGROUND MUSIC / SCORE TRACK
+Dark, powerful, elegant. KEY/TEMPO: D minor, ~70 BPM. THE SPINE (constant): a slow tribal heartbeat-drum and a deep cinematic drone, present throughout. BUILD: a single haunting cello line enters at the exhale; a brass-and-choir swell rises to its peak on the CLIP 2 flaming arm-arc (the hero beat); the swell decays as she reforms, drawing back to the lone cello note and one heartbeat-drum hit landing exactly where the reel began — a seamless infinite loop. Fierce, sacred, controlled.
+
+═══════════════════════════════════════════════════════════════════════════════
