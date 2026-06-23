@@ -1022,3 +1022,204 @@ A dead-quiet dark room as the constant — a faint low room-tone, the subtlest a
 Dark, sultry, noir. KEY/TEMPO: a slow noir feel, ~64 BPM. THE SPINE (constant): a soft noir double-bass and brushed snare, present throughout. BUILD: a smoky muted-trumpet (or low Rhodes) motif enters as she unravels; a reverberant swell reaches its peak on the CLIP 2 smoke arm-arc (the hero beat); the swell decays as she re-condenses, drawing back to one soft bass note landing exactly where the reel began — a seamless infinite loop. Mysterious, elegant, cinematic.
 
 ═══════════════════════════════════════════════════════════════════════════════
+
+
+# CATEGORY B — CELESTIAL / FANTASY
+
+
+# CONCEPT B-1 — SHE TURNS INTO STARDUST & A GALAXY
+
+Transforms Into: living stardust — her skin becomes a starfield and her body opens into a swirling galaxy, holds, then the stars draw in and re-form solid Aira.
+Feeling: cosmic awe / wonder — vast, dreamy, transcendent, goosebump-level.
+★ HOOK (first ~1s): an extreme macro on her iris as a tiny star ignites deep inside it — then constellations begin to spread across her cheek.
+Setting: a pitch-black void; she is lit only by the stars emerging within her, deep-space dark all around.
+Trigger (signature): A STAR IGNITING IN HER EYE AS SHE LOOKS UP — the ignition and upward gaze begin the spread; the last star fading in her iris re-forms her.
+Voice: SILENT — diegetic cosmic shimmer + score only.
+Duration: ~14s · 3 clips (angle-cut, single-magic morph, loops to CLIP 1).
+
+## CLIP 1 of 3 — EXTREME CLOSE-UP · FRONT · EYE-LEVEL (human Aira → starfield BEGINS spreading mid-clip)
+
+### START IMAGE (keyframe)
+ANGLE & SHOT SIZE: eye-level EXTREME CLOSE-UP on her face, front; the eyes lifting in quiet awe, a single star igniting in the iris.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: a deep midnight-blue velvet gown flecked with subtle silver (modest, high neck), reading at the edge of frame, poised to become a night sky.
+FOOTWEAR: out of frame (extreme close-up).
+EYEWEAR: none.
+ACCESSORIES: tiny diamond studs glinting like stars, a fine silver chain just visible at the throat-edge.
+HAIR: long sleek dark waves, blue-black, with a faint cosmic shimmer, framing the face.
+MAKEUP: luminous deep-space glam — a subtle navy-violet smoky eye, a silver inner-corner, glossy plum lip, a starlight highlight on the high points, real pores.
+HANDS & NAILS: out of frame (face only).
+FACIAL MICRO-DYNAMICS: quiet awe — eyes lifting upward and widening softly, lips parting on a held breath, brows rising gently, a slow wondering blink, a single bright star-point igniting deep in the iris.
+BODY POSTURE & WEIGHT: implied stillness — the head tilting up a few degrees, the neck long, a held-breath calm, breathing soft.
+KINETIC STILLNESS (8 layers): (1) the star igniting and twinkling in the iris; (2) the faint cosmic shimmer in the hair; (3) a held breath about to release; (4) the diamond studs glinting; (5) the lashes settling from a half-blink; (6) a second faint star winking on the cheekbone; (7) the velvet's silver flecks catching light; (8) a slow wondering blink.
+SPATIAL LOGIC: FOREGROUND — the eye and igniting star, tack-sharp. MIDGROUND — her face filling the frame. BACKGROUND — pure black void beyond the face.
+LIGHTING: KEY — near-black, lit by the emerging starlight on her skin. FILL — the faintest cool ambient. RIM — a soft violet edge on the cheek and hair. PRACTICAL — the star in her eye, sparks on her skin. SEPARATION — her starlit face against the black. BOUNCE — a cool starlight kick.
+LENS + DOF + BOKEH: 100mm, f/2.0; the iris and igniting star tack-sharp, the face falling to soft focus at the edges, black falloff.
+COMPOSITION: vertical 9:16, her face filling the frame, the eyes on the upper-third, the igniting star the focal point, black framing.
+SUBJECT FRAMING & POSITION: Aira's face fills the frame in an intimate extreme close-up, squared near-front with the chin lifting a few degrees so her gaze rises past the lens in awe, the igniting star sitting sharp on the iris at the upper-third. The camera is right against her at clean eye level, holding the eyes as the hero of the opening; she anchors dead-centre with black breathing at the edges, the face open and front-facing. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: hushed, sacred, infinite — the instant before a universe opens.
+COLOUR GRADE: VIVID midnight-blue, violet and silver on pure black, glowing star-points — saturated jewel-tones, rich uncrushed blacks, never muddy.
+TEXTURE & MICRO-DETAIL: iris fibre-detail and the star-bloom, skin pores under starlight, the velvet's silver flecks, diamond-stud sparkle, lash detail.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features (except the intended morph), asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, dead eyes, statue-stiff posture, muddy navy, crushed blacks, garish oversaturation, flat light.
+
+### ANIMATION (this clip, ~5s — human establishing; ★ starfield BEGINS spreading mid-clip, clip ENDS mid-morph)
+SHOT TYPE & ANGLE: eye-level extreme close-up, front; subject face ~90% of frame.
+CAMERA MOVEMENT (CHOREOGRAPHY): an almost-imperceptible slow push into the eye, then holding as the starfield spreads — one continuous shot.
+LENS: 100mm, f/2.0, iris sharp.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–1.8s — she holds a held-breath calm, eyes lowered, then begins to lift her gaze.
+- 1.8–3.0s — ★ TRIGGER: a star ignites deep in her iris as her eyes lift fully in awe; her lips part on the held breath.
+- 3.0–4.5s — ★ MID-CLIP TRANSFORMATION BEGINS: constellations bloom out from the iris across her cheeks and skin, glowing star-points multiplying.
+- 4.5–5.0s — the starfield covers her face; she is now half-Aira, half-cosmos, gazing up in wonder.
+FLUIDITY & WEIGHT NOTES: all eases — the gaze lifts slow, the star ignites soft, the constellations spread like frost blooming; her awe against the cosmos is the grace.
+FABRIC/HAIR/PROP PHYSICS: particle starfield with twinkle and bloom; the velvet begins dissolving into deep-space at the edges; star-points have believable light-bloom and parallax depth.
+FOOTWORK & BODY FLOW: minimal — only the lifting gaze, the parting lips and the spreading stars move; a held, reverent stillness.
+MID-CLIP TRANSFORMATION (timed): ★ STARFIELD ONSET at 3.0–4.5s — triggered by the star igniting and the upward gaze, spreading from the iris across the face, contained as an onset within this clip; clip ends face-starfielded.
+LIGHTING-IN-MOTION: as stars bloom across her, her skin self-lights with cool starlight, the violet rim deepening.
+DIEGETIC AUDIO: a single high crystalline chime (the star igniting), then a wash of twinkling shimmer as the constellations spread.
+MASTER TRACK: a slow ethereal pad with soft female "ah" choir, a glassy bell-tone entering at 3.0s.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 2 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the midnight-velvet gown half-dissolved into deep-space from the shoulders up, silver flecks becoming stars, the lower gown still velvet.
+  • FOOTWEAR: out of frame.
+  • EYEWEAR: none.
+  • ACCESSORIES: the diamond studs and fine chain reading as bright star-points within the spreading cosmos.
+  • HAIR: blue-black waves shimmering with cosmic light, the ends beginning to dissolve into star-trails.
+  • MAKEUP: the navy-violet smoky eye and plum lip lit by starlight, skin becoming a starfield.
+  • HANDS & NAILS: out of frame / becoming cosmos.
+  • FACIAL MICRO-DYNAMICS: quiet awe, eyes lifted and wide, lips parted, a slow wondering blink — calm amid the cosmos.
+  • BODY POSTURE & WEIGHT: head tilted up, neck long, the body opening from the face-frame toward a fuller view as the cosmos spreads, breathing.
+  • KINETIC STILLNESS (8 layers): (1) constellations spreading; (2) star-points twinkling; (3) hair dissolving to star-trails; (4) velvet becoming deep-space; (5) chest rising; (6) diamond-studs as stars; (7) a nebula-tint blooming; (8) a slow blink.
+  • SPATIAL LOGIC: FOREGROUND — the starlit face. MIDGROUND — her half-cosmos figure forming. BACKGROUND — pure black deep-space void.
+  • LIGHTING: KEY — self-lit starlight on the skin. FILL — faint cool ambient. RIM — soft violet edge. PRACTICAL — her own stars. SEPARATION — starlit form against black. BOUNCE — cool starlight.
+  • ATMOSPHERE: a universe opening within her, vast and sacred.
+  • COLOUR GRADE: VIVID midnight-blue, violet and silver on black, glowing star-points, rich blacks.
+  • TEXTURE & MICRO-DETAIL: star-bloom and twinkle, skin becoming starfield, velvet-to-deep-space, nebula-tint, parallax depth.
+CUT LOGIC: hard ANGLE-CUT to CLIP 2 (full body, 3/4). No frame-match needed — the angle change is the edit. State carried forward: she is half-cosmos, starfield spreading, gazing up.
+
+---
+
+## CLIP 2 of 3 — FULL BODY · THREE-QUARTER · SLIGHT LOW ANGLE (★ full GALAXY-FIGURE, the hero beat)
+
+### START IMAGE (keyframe)
+ANGLE & SHOT SIZE: slight low-angle FULL BODY, three-quarter; Aira now a complete GALAXY-FIGURE — a human silhouette filled with a swirling spiral galaxy.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: fully transformed — the velvet gown is now part of the deep-space within her, nebulae and star-clusters swirling where fabric was, the silhouette a window onto a cosmos.
+FOOTWEAR: implied — her star-feet dissolve into a faint nebula-mist at the base.
+EYEWEAR: none.
+ACCESSORIES: the diamond studs and chain persist as a few extra-bright stars among the cosmos — the only hard glints.
+HAIR: the waves suggested by trailing star-streams and a soft nebula flowing from the head.
+MAKEUP: implied — a luminous concentration of stars where the face would be, brightest at the suggested features.
+HANDS & NAILS: hand-shapes formed of star-clusters, one "arm" lifted, a bright star where the ring would be.
+FACIAL MICRO-DYNAMICS: her serene awe is read in the densest, brightest cluster of stars at the face, the whole galaxy rotating slowly like a held breath.
+BODY POSTURE & WEIGHT: an open, lifted stance held in cosmos — one arm raised, the silhouette buoyant and vast, the internal galaxy slowly turning while keeping her human shape.
+KINETIC STILLNESS (8 layers): (1) the spiral galaxy slowly rotating inside her; (2) nebula gas drifting in violets and pinks; (3) trailing star-streams from the head; (4) star-clusters twinkling across the form; (5) a slow pulse like breath; (6) the bright accessory-stars glinting; (7) a shooting star crossing within her; (8) the silhouette gently breathing.
+SPATIAL LOGIC: FOREGROUND — a few drifting stars close, sharp. MIDGROUND — the galaxy-figure, the hero. BACKGROUND — pure black deep-space void.
+LIGHTING: KEY — self-lit by her internal cosmos, casting a soft cool bloom outward. FILL — none, deep space. RIM — a faint violet edge defining the cosmic silhouette. PRACTICAL — her own stars and nebulae. SEPARATION — the luminous galaxy-figure against pure black. BOUNCE — cool cosmic glow.
+LENS + DOF + BOKEH: 35mm, f/2.8, slight low; the figure sharp, drifting stars as soft bokeh, depth-parallax inside the form.
+COMPOSITION: vertical 9:16, the galaxy-figure centred and towering from the low angle, black space framing, the internal spiral the focal wonder.
+SUBJECT FRAMING & POSITION: Aira fills the frame head-to-misting-feet as a complete galaxy-figure, her torso at a graceful three-quarter so the cosmic silhouette shows both the suggested face and the swirling depth of the back. The camera sits low and mid-distance, tilting up so she rises vast against the black, her nebula-base anchoring the lower-centre; she holds dead-centre with star-streams fanning to both sides. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: transcendent, infinite, sacred — a being who contains a universe.
+COLOUR GRADE: VIVID deep-space blues, violets, pinks and silver on black — luminous nebulae, rich blacks, the cosmic palette the saturated anchor.
+TEXTURE & MICRO-DETAIL: nebula gas, star-clusters, a shooting-star trail, the hard accessory-glints, parallax depth.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, garbled text, floating shadows, duplicated subjects, plastic look, oversharpened, watermarks, muddy navy, crushed blacks, garish oversaturation, flat light.
+
+### ANIMATION (this clip, ~5s — the magical hero beat; ★ reform BEGINS at the end)
+SHOT TYPE & ANGLE: slight low-angle full body, three-quarter; subject ~70% centre.
+CAMERA MOVEMENT (CHOREOGRAPHY): a slow reverent orbit a few degrees around her, low and rising — one continuous shot.
+LENS: 35mm, f/2.8, slight low.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–2.0s — the galaxy-figure holds her shape, the internal spiral rotating slowly, nebulae drifting, stars twinkling.
+- 2.0–3.0s — the raised "arm" sweeps a slow graceful arc, a trail of stars and a shooting star streaming off it — the hypnotic hero beat.
+- 3.0–4.0s — she settles, the whole cosmos pulsing gently like a deep breath.
+- 4.0–5.0s — ★ REFORM BEGINS: the stars begin to draw inward toward a central point, the galaxy gathering to re-form her solid body.
+FLUIDITY & WEIGHT NOTES: vast, weightless grace — the arm-arc eases, the rotation is slow and continuous, the in-draw gathers like a galaxy collapsing gently; nothing snaps.
+FABRIC/HAIR/PROP PHYSICS: particle starfield + volumetric nebula simulation — galactic rotation, drifting gas, parallax depth, star-twinkle; the accessory-stars stay solid and weighted within.
+FOOTWORK & BODY FLOW: the figure's base mists into nebula at the floor, the whole body turning like a slow cosmos that remembers a human form.
+MID-CLIP TRANSFORMATION (timed): ★ the hero HOLD (0.0–4.0s) then REFORM ONSET (4.0–5.0s) — the stars begin drawing in to re-form, contained as an onset in this clip.
+LIGHTING-IN-MOTION: as the orbit moves, the internal cosmos casts shifting cool bloom; the in-draw concentrates the light toward her core.
+DIEGETIC AUDIO: a deep vast cosmic drone with delicate twinkles, beginning to draw inward.
+MASTER TRACK: the ethereal pad and choir reach a grand string-and-choir swell on the arm-arc peak, then begin drawing back as the reform starts.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 3 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the midnight-velvet gown re-forming from the feet up — solid velvet returning on the lower body, the upper body still gathering cosmos.
+  • FOOTWEAR: out of frame.
+  • EYEWEAR: none.
+  • ACCESSORIES: the diamond studs and chain becoming hard points again as the form gathers.
+  • HAIR: the star-streams condensing back into blue-black waves from the shoulders down.
+  • MAKEUP: the navy-violet smoky eye and plum lip resolving onto re-formed skin, starlight highlight settling.
+  • HANDS & NAILS: hands re-solidifying from star-clusters to skin, the last stars at the fingertips.
+  • FACIAL MICRO-DYNAMICS: serene awe, eyes still lifted, lips parted, a slow blink as features resolve from the starfield.
+  • BODY POSTURE & WEIGHT: settling toward the head-up held-breath stance, the gathering stars pulling her into form, breathing.
+  • KINETIC STILLNESS (8 layers): (1) the reform in-draw concentrating; (2) nebulae fading; (3) hair condensing; (4) velvet re-forming; (5) chest rising; (6) accessory-stars re-glinting; (7) last stars settling; (8) a slow blink.
+  • SPATIAL LOGIC: FOREGROUND — the re-forming starlit face. MIDGROUND — her half-resolved figure. BACKGROUND — pure black deep-space void.
+  • LIGHTING: KEY — self-lit starlight concentrating. FILL — faint cool ambient. RIM — soft violet edge. PRACTICAL — her fading stars. SEPARATION — starlit form against black. BOUNCE — cool starlight.
+  • ATMOSPHERE: the universe gently collapsing back into her, sacred and calm.
+  • COLOUR GRADE: VIVID midnight-blue, violet and silver on black, glowing star-points, rich blacks.
+  • TEXTURE & MICRO-DETAIL: re-forming skin from starfield, condensing star-trails, velvet reappearing, fading nebula, parallax depth.
+CUT LOGIC: hard ANGLE-CUT to CLIP 3 (extreme close-up, front). No frame-match needed. State carried forward: she is re-forming from the feet up, nearly solid, last stars drawing in.
+
+---
+
+## CLIP 3 of 3 — EXTREME CLOSE-UP · FRONT · EYE-LEVEL (stars draw in → solid Aira; LOOP to CLIP 1)
+
+### START IMAGE (keyframe)
+ANGLE & SHOT SIZE: eye-level EXTREME CLOSE-UP on her face, front; the starfield drawing back into solid skin, a last star fading in her iris.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: the deep midnight-blue velvet gown re-formed and intact, silver flecks settled, modest high neck, reading at the frame edge.
+FOOTWEAR: out of frame.
+EYEWEAR: none.
+ACCESSORIES: tiny diamond studs and the fine silver chain, solid and glinting again.
+HAIR: long sleek blue-black waves restored, the faint cosmic shimmer settling, framing the face.
+MAKEUP: luminous deep-space glam — navy-violet smoky eye, silver inner-corner, glossy plum lip, starlight highlight, real pores.
+HANDS & NAILS: out of frame.
+FACIAL MICRO-DYNAMICS: quiet awe — eyes lifted, lips parted on a held breath, brows softly raised, a slow wondering blink, a last star fading deep in the iris — exactly the look that opened CLIP 1.
+BODY POSTURE & WEIGHT: head tilted up a few degrees, neck long, a held-breath calm, breathing soft.
+KINETIC STILLNESS (8 layers): (1) the last star fading and twinkling in the iris; (2) the cosmic shimmer settling in the hair; (3) a held breath; (4) the diamond studs glinting; (5) lashes settling; (6) a faint final star winking out on the cheek; (7) the velvet's silver flecks catching light; (8) a slow wondering blink.
+SPATIAL LOGIC: FOREGROUND — the eye and fading star, sharp. MIDGROUND — her face filling the frame. BACKGROUND — pure black void.
+LIGHTING: KEY — near-black, lit by the last starlight on her skin. FILL — the faintest cool ambient. RIM — a soft violet edge on the cheek and hair. PRACTICAL — the fading star in her eye. SEPARATION — her starlit face against black. BOUNCE — a cool starlight kick.
+LENS + DOF + BOKEH: 100mm, f/2.0; the iris and fading star sharp, the face soft at the edges, black falloff — matched toward CLIP 1's resolve.
+COMPOSITION: vertical 9:16, her face filling the frame, the eyes on the upper-third, the fading star the focal point, black framing — rhyming with CLIP 1.
+SUBJECT FRAMING & POSITION: Aira's face fills the frame in an intimate extreme close-up, squared near-front with the chin lifted a few degrees so her gaze rises past the lens in awe as the stars finish drawing in, the last star sharp on the iris at the upper-third. The camera is right against her at clean eye level, holding the eyes; she anchors dead-centre with black breathing at the edges — composed to match CLIP 1's opening so the loop is seamless. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: hushed, sacred, infinite resolution — the awe exactly as it began.
+COLOUR GRADE: VIVID midnight-blue, violet and silver on pure black, glowing star-points, rich blacks — matched to CLIP 1.
+TEXTURE & MICRO-DETAIL: iris fibre-detail and fading star, skin pores under starlight, velvet silver-flecks, diamond-stud sparkle, lash detail.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, dead eyes, statue-stiff posture, muddy navy, crushed blacks, garish oversaturation, flat light.
+
+### ANIMATION (this clip, ~4s — reform completes; LOOP back to CLIP 1)
+SHOT TYPE & ANGLE: eye-level extreme close-up, front; subject face ~90% of frame.
+CAMERA MOVEMENT (CHOREOGRAPHY): a slow settle easing toward CLIP 1's exact framing — one continuous shot.
+LENS: 100mm, f/2.0, iris sharp.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–2.0s — ★ REFORM COMPLETES: the drawing-in stars condense into Aira's skin, features and velvet resolving, the face last to settle from the starfield.
+- 2.0–3.0s — fully restored, she holds her awed upward gaze, a last star fading deep in her iris.
+- 3.0–4.0s — she holds the exact held-breath awe that opened CLIP 1, the star winking down to a point — seamless loop point.
+FLUIDITY & WEIGHT NOTES: the reform gathers like a galaxy collapsing softly into her, eased and continuous; she arrives in the opening look with no snap, breath leading the settle.
+FABRIC/HAIR/PROP PHYSICS: star re-gather — star-points condensing into skin and velvet with believable bloom, hair condensing, the last star fading with a soft light-decay.
+FOOTWORK & BODY FLOW: the head settles into the few-degree upward tilt, a held reverent stillness.
+MID-CLIP TRANSFORMATION (timed): ★ REFORM COMPLETION at 0.0–2.0s — the starfield fully re-forms into base Aira, resolving the single-magic morph.
+LIGHTING-IN-MOTION: the self-lit starlight fades to a single star's glow in the eye, the key steadying to the exact near-black of CLIP 1.
+DIEGETIC AUDIO: the twinkling shimmer resolving into a single high crystalline chime, then deep-space silence.
+MASTER TRACK: the pad and choir draw back to a single glassy bell-tone landing exactly where CLIP 1 began — seamless loop.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 1 (LOOP back to opening) — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the deep midnight-blue velvet gown intact, subtle silver flecks, modest high neck.
+  • FOOTWEAR: out of frame.
+  • EYEWEAR: none.
+  • ACCESSORIES: tiny diamond studs, fine silver chain.
+  • HAIR: long sleek blue-black waves with a faint cosmic shimmer, framing the face.
+  • MAKEUP: navy-violet smoky eye, silver inner-corner, glossy plum lip, starlight highlight, real pores.
+  • HANDS & NAILS: out of frame.
+  • FACIAL MICRO-DYNAMICS: quiet awe, eyes lifting and widening, lips parting on a held breath, brows rising, a slow wondering blink, a star igniting in the iris.
+  • BODY POSTURE & WEIGHT: head tilting up a few degrees, neck long, a held-breath calm, breathing soft.
+  • KINETIC STILLNESS (8 layers): (1) the star igniting/twinkling in the iris; (2) cosmic shimmer in the hair; (3) a held breath; (4) diamond studs glinting; (5) lashes settling; (6) a second faint star on the cheek; (7) velvet silver-flecks catching light; (8) a slow wondering blink.
+  • SPATIAL LOGIC: FOREGROUND — the eye and igniting star. MIDGROUND — her face filling the frame. BACKGROUND — pure black void.
+  • LIGHTING: KEY — near-black, starlight on the skin. FILL — faint cool ambient. RIM — soft violet edge. PRACTICAL — the star in her eye. SEPARATION — starlit face against black. BOUNCE — cool starlight.
+  • ATMOSPHERE: hushed, sacred, infinite — the instant before a universe opens, exactly as it began.
+  • COLOUR GRADE: VIVID midnight-blue, violet and silver on pure black, glowing star-points, rich blacks.
+  • TEXTURE & MICRO-DETAIL: iris fibre and star-bloom, skin pores under starlight, velvet silver-flecks, diamond sparkle, lash detail.
+CUT LOGIC: seamless ANGLE-CUT / LOOP back to CLIP 1 — the star ignites and the cosmos blooms again, forever.
+
+☆ EXTERNAL AUDIO — BLOCK 1: BACKGROUND SOUND DESIGN / AMBIENCE BED
+Deep-space silence as the constant — a vast, pressureless quiet. THROUGH-LINE: a single high crystalline chime (the star igniting), recurring at the loop. Layers: a wash of twinkling shimmer as the constellations spread (CLIP 1 end); a vast low cosmic drone with delicate twinkles while she is the galaxy (CLIP 2); the twinkles drawing inward resolving to one chime and silence (CLIP 3). Cross-fade beat to beat; the silence at the end equals the start.
+☆ EXTERNAL AUDIO — BLOCK 2: BACKGROUND MUSIC / SCORE TRACK
+Celestial, ambient, transcendent. KEY/TEMPO: E minor, ~58 BPM. THE SPINE (constant): a slow ethereal pad with soft female "ah" choir and sparse glassy bell-tones, present throughout. BUILD: the choir swells as the cosmos spreads; a grand string-and-choir apex hits on the CLIP 2 arm-arc (the hero beat); the swell decays as she reforms, drawing back to one glassy bell landing exactly where the reel began — a seamless infinite loop. Vast, sacred, goosebump-level.
+
+═══════════════════════════════════════════════════════════════════════════════
