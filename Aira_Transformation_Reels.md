@@ -824,3 +824,201 @@ A humid greenhouse hush as the constant — faint dripping, distant birds, a sof
 Tender, romantic, warm. KEY/TEMPO: G major, ~72 BPM. THE SPINE (constant): soft fingerpicked guitar/harp with a delicate music-box motif, present throughout. BUILD: the motif warms as she blooms; a gentle swell reaches its peak on the CLIP 2 arm-arc (the hero beat); the swell decays as she reforms, drawing back to one soft plucked note landing exactly where the reel began — a seamless infinite loop. Tender, blossoming, a little bittersweet.
 
 ═══════════════════════════════════════════════════════════════════════════════
+
+
+# CONCEPT A-5 — SHE TURNS INTO SMOKE & MIST
+
+Transforms Into: drifting smoke and luminous mist — she unravels into a swirling vapour caught in a light-shaft, holds as a smoke-figure, then condenses back into solid Aira.
+Feeling: mysterious elegance / dreamlike — moody, hypnotic, sensual-but-modest, noir.
+★ HOOK (first ~1s): a tendril of smoke curls off her shoulder up into a hard light-shaft — then her edges start to blur into vapour.
+Setting: a moody dark room with a single hard light-shaft cutting through low haze, smoke already drifting across the floor.
+Trigger (signature): A SLOW HEAD-TURN / EXHALE INTO THE SHAFT — the turn and breath begin the unravelling; a second slow turn at the end re-condenses her.
+Voice: SILENT — diegetic air + score only.
+Duration: ~14s · 3 clips (angle-cut, single-magic morph, loops to CLIP 1).
+
+## CLIP 1 of 3 — MEDIUM · PROFILE · EYE-LEVEL (human Aira → unravelling BEGINS mid-clip)
+
+### START IMAGE (keyframe)
+ANGLE & SHOT SIZE: eye-level MEDIUM (chest-up), full profile, Aira side-on in the light-shaft, beginning to turn her head toward it.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: a smoky charcoal-grey draped gown with long sleeves and a soft chiffon train that already moves like vapour (modest, high neck), edges feathering into the haze.
+FOOTWEAR: out of frame (chest-up).
+EYEWEAR: none.
+ACCESSORIES: a single sleek silver choker, a thin silver ear-line.
+HAIR: a sleek low chignon, jet-black, a few fine wisps escaping at the nape like rising smoke.
+MAKEUP: smoky monochrome — a soft grey smoked eye, sharp subtle liner, a muted mauve lip, luminous porcelain skin, real pores.
+HANDS & NAILS: one hand drifting up toward the shaft, fingers elegant and parted; smoke-grey nails.
+FACIAL MICRO-DYNAMICS: poised mystery — eyes half-lidded turning toward the light, lips parted in a slow exhale, a faint enigmatic stillness, one slow blink, a cool catchlight.
+BODY POSTURE & WEIGHT: a tall poised profile, weight settled, chin lifting slightly toward the shaft, shoulders relaxed and elegant, breathing slow.
+KINETIC STILLNESS (8 layers): (1) a tendril of smoke curling off the shoulder into the shaft; (2) low haze drifting across the floor; (3) escaped nape-wisps stirring; (4) the chiffon train feathering into vapour at the hem; (5) chest rising on the exhale; (6) god-rays flickering in the haze; (7) a second wisp lifting from the sleeve; (8) a slow blink.
+SPATIAL LOGIC: FOREGROUND — the rising smoke-tendril and her parted hand, sharp. MIDGROUND — her profile. BACKGROUND — a deep dark room dissolving into the cool light-shaft and haze.
+LIGHTING: KEY — one hard side light-shaft cutting through the haze onto her profile. FILL — deep cool shadow, minimal. RIM — a crisp silver edge tracing the profile and chignon. PRACTICAL — the shaft itself, god-rays. SEPARATION — her lit profile against the black. BOUNCE — a faint cool kick under the jaw.
+LENS + DOF + BOKEH: 50mm, f/2.0, god-rays visible; her profile sharp, the haze and smoke as soft volumetric bokeh.
+COMPOSITION: vertical 9:16, her profile right-of-centre facing the shaft to frame-left, smoke and the diagonal shaft framing, dark negative space.
+SUBJECT FRAMING & POSITION: Aira reads from the chest up in clean full profile, framed medium with her torso side-on and her face turning toward the hard shaft to frame-left, the rising smoke-tendril leading the eye up off her shoulder. The camera holds intimate-to-mid distance at eye level; she sits right-of-centre so the light-shaft and haze open to frame-left, the body poised and still as the vapour begins to lift. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: hushed, noir, dreamlike — a held breath in a shaft of light.
+COLOUR GRADE: VIVID-but-moody monochrome — charcoal and silver with a cool blue shaft, rich uncrushed blacks; saturated in its blues and silvers (the one deliberately near-monochrome concept, never muddy).
+TEXTURE & MICRO-DETAIL: smoke-curl density, chiffon drift, porcelain-skin pores under the cool light, silver-choker glint, god-ray volumetrics.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features (except the intended morph), asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, muddy grey, crushed blacks, flat light.
+
+### ANIMATION (this clip, ~5s — human establishing; ★ unravelling BEGINS mid-clip, clip ENDS mid-morph)
+SHOT TYPE & ANGLE: eye-level medium, full profile; subject ~55% right-of-centre.
+CAMERA MOVEMENT (CHOREOGRAPHY): a slow drift in toward her profile, then holding as the unravelling starts — one continuous shot.
+LENS: 50mm, f/2.0, god-rays.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–1.8s — she holds the poised profile, a tendril of smoke curling off her shoulder.
+- 1.8–3.0s — ★ TRIGGER: she turns her head slowly toward the shaft and exhales into the light; the breath becomes visible vapour.
+- 3.0–4.5s — ★ MID-CLIP TRANSFORMATION BEGINS: her edges and the chiffon train unravel into curling smoke that drifts up into the shaft.
+- 4.5–5.0s — the unravelling reaches her shoulder and jaw; she is now half-Aira, half-vapour, serene.
+FLUIDITY & WEIGHT NOTES: all eases — the head-turn slow, the exhale languid, the unravelling curling like smoke off a wick; her poise against the dissolve is the elegance.
+FABRIC/HAIR/PROP PHYSICS: volumetric smoke/fluid simulation — turbulent curls, density gradients, god-rays slicing through the vapour; the chiffon train blends seamlessly into the smoke; escaped wisps lift with the rising air.
+FOOTWORK & BODY FLOW: a poised, grounded profile; only the head-turn, the lifting hand and the rising vapour move.
+MID-CLIP TRANSFORMATION (timed): ★ UNRAVELLING ONSET at 3.0–4.5s — triggered by the head-turn and exhale, drifting from the edges and train up into the shaft, contained as an onset within this clip; clip ends half-vapour.
+LIGHTING-IN-MOTION: as she unravels, the shaft catches the new smoke, god-rays intensifying and shifting through the rising vapour.
+DIEGETIC AUDIO: a slow soft exhale, a faint airy whoosh as the edges dissolve, a low hiss.
+MASTER TRACK: a slow noir double-bass and brushed snare with a smoky muted-trumpet motif, a reverberant swell beginning at 3.0s.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 2 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the charcoal draped gown half-unravelled into curling smoke from the shoulders and train up, the lower body still chiffon fabric.
+  • FOOTWEAR: out of frame / lost in floor-haze.
+  • EYEWEAR: none.
+  • ACCESSORIES: the silver choker and ear-line still reading as solid points within the vapour.
+  • HAIR: the jet-black chignon, the nape-wisps now streaming into smoke.
+  • MAKEUP: smoky grey eye and muted mauve lip lit cool, porcelain skin where still solid.
+  • HANDS & NAILS: the lifted hand dissolving into curling smoke at the fingertips, smoke-grey nails.
+  • FACIAL MICRO-DYNAMICS: poised mystery, half-lidded eyes toward the shaft, lips parted mid-exhale, a slow blink — calm amid the dissolve.
+  • BODY POSTURE & WEIGHT: tall and poised, the body opening from profile toward a three-quarter as the vapour lifts, breathing.
+  • KINETIC STILLNESS (8 layers): (1) the unravelling curling up; (2) god-rays through the vapour; (3) nape-wisps streaming; (4) the train feathering to smoke; (5) chest rising; (6) the choker glinting; (7) smoke drifting up the shaft; (8) a slow blink.
+  • SPATIAL LOGIC: FOREGROUND — the dissolving hand, smoke. MIDGROUND — her half-vapour figure. BACKGROUND — dark room, the cool shaft, haze.
+  • LIGHTING: KEY — hard side light-shaft. FILL — deep cool shadow. RIM — silver edge on the profile. PRACTICAL — the shaft, god-rays. SEPARATION — lit half-vapour form against black. BOUNCE — cool under the jaw.
+  • ATMOSPHERE: noir mystery deepening as she dissolves, hushed and dreamlike.
+  • COLOUR GRADE: VIVID-but-moody charcoal-silver-blue, rich blacks, saturated cool tones.
+  • TEXTURE & MICRO-DETAIL: turbulent smoke density, chiffon dissolving to vapour, porcelain pores where solid, silver glint, god-rays.
+CUT LOGIC: hard ANGLE-CUT to CLIP 2 (full body, 3/4). No frame-match needed — the angle change is the edit. State carried forward: she is half-smoke, unravelling upward, poised.
+
+---
+
+## CLIP 2 of 3 — FULL BODY · THREE-QUARTER · SLIGHT LOW ANGLE (★ full SMOKE-FIGURE, the hero beat)
+
+### START IMAGE (keyframe)
+ANGLE & SHOT SIZE: slight low-angle FULL BODY, three-quarter; Aira now a complete SMOKE-FIGURE — a human-shaped swirl of luminous vapour caught in the light-shaft.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: fully transformed — the charcoal gown and train are now part of the rolling smoke, the silhouette held in dense luminous vapour feathering at every edge.
+FOOTWEAR: implied — her smoke-feet dissolve into the floor-haze.
+EYEWEAR: none.
+ACCESSORIES: the silver choker persists as a single solid glint at the suggested throat — the only hard point in the vapour.
+HAIR: the chignon suggested by a denser knot of smoke at the crown, fine wisps streaming off it.
+MAKEUP: implied — a cool luminous sheen where the face would be, the vapour densest at the suggested features.
+HANDS & NAILS: hand-shapes formed of curling smoke, one "arm" lifted, the form feathering at the fingertips.
+FACIAL MICRO-DYNAMICS: her enigmatic calm is read in the steadiest core of the smoke-face, the whole figure roiling slowly like breath.
+BODY POSTURE & WEIGHT: an elegant contrapposto held in vapour — weight implied on one hip, one smoke-arm drifting up, the figure undulating slowly while keeping its human shape.
+KINETIC STILLNESS (8 layers): (1) turbulent curls rolling through the body; (2) god-rays slicing the vapour; (3) the streaming crown-wisps; (4) the form feathering and re-forming at the edges; (5) a slow roil like breath; (6) the silver choker glinting; (7) smoke drifting wide off the shoulders; (8) the figure gently breathing.
+SPATIAL LOGIC: FOREGROUND — curling smoke close, soft. MIDGROUND — the smoke-figure, the hero. BACKGROUND — dark room with the blazing shaft and floor-haze.
+LIGHTING: KEY — the hard shaft blazing through the vapour, volumetric. FILL — deep cool shadow. RIM — a luminous silver edge defining the smoke-silhouette. PRACTICAL — the shaft, god-rays everywhere. SEPARATION — the luminous vapour-figure against pure black. BOUNCE — cool pooled light in the floor-haze.
+LENS + DOF + BOKEH: 35mm, f/2.8, slight low; the figure sharp where dense, edges melting into volumetric bokeh and god-rays.
+COMPOSITION: vertical 9:16, the smoke-figure centred and rising from the low angle, the diagonal shaft a spine of light, dark space framing.
+SUBJECT FRAMING & POSITION: Aira fills the frame head-to-dissolving-feet as a complete smoke-figure, her torso at a graceful three-quarter so the vapour-silhouette shows both the suggested face and the rolling curve of the back. The camera sits low and mid-distance, tilting up so she rises against the black, her haze-base anchoring the lower-centre while the shaft spears through the crown; she holds dead-centre with smoke fanning to both sides. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: transcendent, sultry, dreamlike — a being made of light and smoke.
+COLOUR GRADE: VIVID-but-moody charcoal-silver with a cool-blue shaft on black — luminous vapour, rich blacks, the blue-silver the saturated anchor.
+TEXTURE & MICRO-DETAIL: turbulent smoke curls, density gradients, god-ray volumetrics, the hard silver glint, feathered edges.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, garbled text, floating shadows, duplicated subjects, plastic look, oversharpened, watermarks, muddy grey, crushed blacks, flat light.
+
+### ANIMATION (this clip, ~5s — the magical hero beat; ★ reform BEGINS at the end)
+SHOT TYPE & ANGLE: slight low-angle full body, three-quarter; subject ~70% centre.
+CAMERA MOVEMENT (CHOREOGRAPHY): a slow reverent orbit a few degrees around her, low and rising — one continuous shot.
+LENS: 35mm, f/2.8, slight low.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–2.0s — the smoke-figure holds her human shape and roils, turbulent curls rolling slowly through the silhouette.
+- 2.0–3.0s — one smoke-arm drifts up in a slow graceful arc, a ribbon of vapour trailing off it through the shaft — the hypnotic hero beat.
+- 3.0–4.0s — she settles, the form rising and falling like a deep breath, god-rays shifting.
+- 4.0–5.0s — ★ REFORM BEGINS: the vapour begins to draw inward and downward to re-condense toward her solid form.
+FLUIDITY & WEIGHT NOTES: sultry grace — the arm-arc eases, the roil is slow and continuous, the in-draw gathers like smoke pulled by a slow breath; nothing snaps.
+FABRIC/HAIR/PROP PHYSICS: volumetric smoke simulation — turbulent cohesion holding the human shape, density gradients, god-rays tracking the orbit; the silver choker stays solid and weighted within.
+FOOTWORK & BODY FLOW: the figure's base dissolves into the floor-haze, the whole body undulating like smoke that remembers a human form.
+MID-CLIP TRANSFORMATION (timed): ★ the hero HOLD (0.0–4.0s) then REFORM ONSET (4.0–5.0s) — the vapour begins drawing in to re-condense, contained as an onset in this clip.
+LIGHTING-IN-MOTION: as the orbit moves, the shaft's god-rays sweep new volumetric beams through the vapour and a cool glow travels the figure.
+DIEGETIC AUDIO: a low airy drone, a soft hiss, the whisper of moving air, beginning to draw inward.
+MASTER TRACK: the noir bass and muted-trumpet reach a reverberant swell on the arm-arc peak, then begin drawing back as the reform starts.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 3 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the charcoal draped gown re-condensing from the feet up — solid chiffon returning on the lower body, the upper body still gathering smoke.
+  • FOOTWEAR: out of frame / lost in floor-haze.
+  • EYEWEAR: none.
+  • ACCESSORIES: the silver choker and ear-line becoming hard points again as the form condenses.
+  • HAIR: the crown-smoke condensing back into the sleek jet-black chignon, nape-wisps settling.
+  • MAKEUP: the smoky grey eye and muted mauve lip resolving onto re-formed porcelain skin.
+  • HANDS & NAILS: hands re-condensing to skin with smoke-grey nails, the last vapour at the fingertips.
+  • FACIAL MICRO-DYNAMICS: poised mystery, half-lidded eyes, lips parted, a slow blink as features resolve.
+  • BODY POSTURE & WEIGHT: settling back toward the tall poised profile, the gathering vapour pulling her upright, breathing.
+  • KINETIC STILLNESS (8 layers): (1) the reform in-draw descending; (2) god-rays fading; (3) wisps condensing; (4) the train re-forming; (5) chest rising; (6) the choker re-glinting; (7) last smoke settling; (8) a slow blink.
+  • SPATIAL LOGIC: FOREGROUND — the re-condensing hand. MIDGROUND — her half-resolved figure. BACKGROUND — dark room, the cool shaft, floor-haze.
+  • LIGHTING: KEY — hard side light-shaft. FILL — deep cool shadow. RIM — silver edge on the profile. PRACTICAL — the shaft, fading god-rays. SEPARATION — her form against black. BOUNCE — cool under the jaw.
+  • ATMOSPHERE: the noir spell resolving, hushed and dreamlike.
+  • COLOUR GRADE: VIVID-but-moody charcoal-silver-blue, rich blacks, saturated cool tones.
+  • TEXTURE & MICRO-DETAIL: re-condensing porcelain pores, settling smoke, chiffon reappearing, silver glint, fading god-rays.
+CUT LOGIC: hard ANGLE-CUT to CLIP 3 (medium, profile). No frame-match needed. State carried forward: she is re-condensing from the feet up, nearly solid, last vapour settling.
+
+---
+
+## CLIP 3 of 3 — MEDIUM · PROFILE · EYE-LEVEL (smoke condenses → solid Aira; LOOP to CLIP 1)
+
+### START IMAGE (keyframe)
+ANGLE & SHOT SIZE: eye-level MEDIUM (chest-up), full profile; the vapour drawing in and condensing into human Aira, a last tendril curling off her shoulder.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: the smoky charcoal-grey draped gown re-formed and intact, long sleeves and chiffon train restored, modest high neck.
+FOOTWEAR: out of frame.
+EYEWEAR: none.
+ACCESSORIES: the sleek silver choker and thin silver ear-line, solid and glinting again.
+HAIR: the sleek low jet-black chignon restored, fine wisps escaping at the nape.
+MAKEUP: smoky monochrome — soft grey smoked eye, subtle liner, muted mauve lip, luminous porcelain skin, real pores.
+HANDS & NAILS: one hand drifting up toward the shaft, fingers elegant and parted — matching CLIP 1 — smoke-grey nails.
+FACIAL MICRO-DYNAMICS: poised mystery — eyes half-lidded toward the light, lips parted mid-exhale, a faint enigmatic stillness, a slow blink — exactly the look that opened CLIP 1.
+BODY POSTURE & WEIGHT: a tall poised profile, weight settled, chin lifted toward the shaft, shoulders relaxed, breathing.
+KINETIC STILLNESS (8 layers): (1) a last smoke-tendril curling off the shoulder; (2) low haze drifting; (3) nape-wisps stirring; (4) the chiffon train feathering at the hem; (5) chest easing on an exhale; (6) god-rays flickering; (7) a wisp lifting from the sleeve; (8) a slow blink.
+SPATIAL LOGIC: FOREGROUND — the rising smoke-tendril and parted hand, sharp. MIDGROUND — her profile. BACKGROUND — dark room dissolving into the cool shaft and haze.
+LIGHTING: KEY — one hard side light-shaft on her profile. FILL — deep cool shadow. RIM — crisp silver edge on the profile and chignon. PRACTICAL — the shaft, god-rays. SEPARATION — her lit profile against black. BOUNCE — faint cool under the jaw.
+LENS + DOF + BOKEH: 50mm, f/2.0, god-rays; her profile sharp, smoke and haze as soft volumetric bokeh — matched toward CLIP 1's resolve.
+COMPOSITION: vertical 9:16, her profile right-of-centre facing the shaft to frame-left, smoke and the diagonal shaft framing, dark negative space — rhyming with CLIP 1.
+SUBJECT FRAMING & POSITION: Aira reads from the chest up in clean full profile, framed medium with her torso side-on and her face toward the hard shaft to frame-left as the vapour finishes condensing her, the rising smoke-tendril leading the eye up off her shoulder. The camera holds intimate-to-mid distance at eye level; she sits right-of-centre so the shaft and haze open to frame-left — composed to match CLIP 1's opening so the loop is seamless. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: noir dreamlike resolution — the hush exactly as it began.
+COLOUR GRADE: VIVID-but-moody charcoal-silver with a cool-blue shaft, rich blacks, saturated cool tones — matched to CLIP 1.
+TEXTURE & MICRO-DETAIL: smoke-curl density, chiffon drift, porcelain pores, silver-choker glint, god-ray volumetrics.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, muddy grey, crushed blacks, flat light.
+
+### ANIMATION (this clip, ~4s — reform completes; LOOP back to CLIP 1)
+SHOT TYPE & ANGLE: eye-level medium, full profile; subject ~55% right-of-centre.
+CAMERA MOVEMENT (CHOREOGRAPHY): a slow settle easing toward CLIP 1's exact framing — one continuous shot.
+LENS: 50mm, f/2.0, god-rays.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–2.0s — ★ REFORM COMPLETES: the in-drawing vapour condenses into Aira, features, hair and gown resolving from the feet up, the lifted hand last.
+- 2.0–3.0s — fully restored, she holds her profile toward the shaft, a last tendril curling off her shoulder.
+- 3.0–4.0s — she holds the exact poised profile and half-lidded calm that opened CLIP 1, mid-exhale — seamless loop point.
+FLUIDITY & WEIGHT NOTES: the reform gathers like smoke pulled home, eased and continuous; she arrives in the opening pose with no snap, breath leading the settle.
+FABRIC/HAIR/PROP PHYSICS: smoke re-condense — vapour drawing into skin and chiffon with believable density, hair condensing, the train re-forming; the last tendril rises with real turbulence.
+FOOTWORK & BODY FLOW: weight roots into the tall poised profile, a faint spinal settle.
+MID-CLIP TRANSFORMATION (timed): ★ REFORM COMPLETION at 0.0–2.0s — the vapour fully re-condenses into base Aira, resolving the single-magic morph.
+LIGHTING-IN-MOTION: god-rays settle as she solidifies; the hard shaft steadies to the exact key of CLIP 1.
+DIEGETIC AUDIO: the airy whoosh resolving into a soft slow exhale, then the hush of the dark room.
+MASTER TRACK: the noir bass and trumpet draw back to a single soft bass note landing exactly where CLIP 1 began — seamless loop.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 1 (LOOP back to opening) — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the smoky charcoal-grey draped gown intact, long sleeves, chiffon train, modest high neck.
+  • FOOTWEAR: out of frame.
+  • EYEWEAR: none.
+  • ACCESSORIES: sleek silver choker, thin silver ear-line.
+  • HAIR: sleek low jet-black chignon, fine wisps escaping at the nape.
+  • MAKEUP: soft grey smoked eye, subtle liner, muted mauve lip, luminous porcelain skin, real pores.
+  • HANDS & NAILS: one hand drifting up toward the shaft, fingers elegant and parted, smoke-grey nails.
+  • FACIAL MICRO-DYNAMICS: poised mystery, half-lidded eyes toward the light, lips parted in a slow exhale, a faint enigmatic stillness, a slow blink.
+  • BODY POSTURE & WEIGHT: tall poised profile, weight settled, chin lifting toward the shaft, shoulders relaxed.
+  • KINETIC STILLNESS (8 layers): (1) a tendril curling off the shoulder into the shaft; (2) low haze drifting; (3) nape-wisps stirring; (4) the train feathering to vapour; (5) a slow exhale; (6) god-rays flickering; (7) a wisp from the sleeve; (8) a slow blink.
+  • SPATIAL LOGIC: FOREGROUND — rising smoke-tendril and parted hand. MIDGROUND — her profile. BACKGROUND — dark room, the cool shaft, haze.
+  • LIGHTING: KEY — hard side light-shaft. FILL — deep cool shadow. RIM — silver edge on the profile. PRACTICAL — the shaft, god-rays. SEPARATION — lit profile against black. BOUNCE — cool under the jaw.
+  • ATMOSPHERE: hushed, noir, dreamlike — a held breath in a shaft of light, exactly as it began.
+  • COLOUR GRADE: VIVID-but-moody charcoal-silver-blue, rich blacks, saturated cool tones.
+  • TEXTURE & MICRO-DETAIL: smoke-curl density, chiffon drift, porcelain pores, silver glint, god-ray volumetrics.
+CUT LOGIC: seamless ANGLE-CUT / LOOP back to CLIP 1 — she turns and exhales and unravels again, forever.
+
+☆ EXTERNAL AUDIO — BLOCK 1: BACKGROUND SOUND DESIGN / AMBIENCE BED
+A dead-quiet dark room as the constant — a faint low room-tone, the subtlest air-movement. THROUGH-LINE: a slow soft exhale (the trigger), recurring at the loop. Layers: an airy whoosh and soft hiss as she unravels (CLIP 1 end); a low airy drone and the whisper of moving air while she is the smoke-figure (CLIP 2); the air drawing inward resolving to a slow exhale and the room's hush (CLIP 3). Cross-fade beat to beat; the quiet at the end equals the start.
+☆ EXTERNAL AUDIO — BLOCK 2: BACKGROUND MUSIC / SCORE TRACK
+Dark, sultry, noir. KEY/TEMPO: a slow noir feel, ~64 BPM. THE SPINE (constant): a soft noir double-bass and brushed snare, present throughout. BUILD: a smoky muted-trumpet (or low Rhodes) motif enters as she unravels; a reverberant swell reaches its peak on the CLIP 2 smoke arm-arc (the hero beat); the swell decays as she re-condenses, drawing back to one soft bass note landing exactly where the reel began — a seamless infinite loop. Mysterious, elegant, cinematic.
+
+═══════════════════════════════════════════════════════════════════════════════
