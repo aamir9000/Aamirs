@@ -4089,3 +4089,801 @@ CUT LOGIC: ANGLE-CUT / LOOP back to CLIP 1; the next pass re-triggers the portal
 - Loop: a clean ~26s loop matching the visual loop point.
 
 ---
+
+# CONCEPT C-3 — THE MIRROR SHOWS TOMORROW
+
+Title: Recurring-Object Hero — an antique hand-mirror that shows tomorrow instead of her reflection.
+Category / Format: Boudoir-noir series reel (candlelit boudoir at night) · SPOKEN (one knowing English line, natural Indian accent) · CLIP-CHAIN, ANGLE-CUT edit · SINGLE-MAGIC (the mirror shows a scene from tomorrow; seeded on the look, fades on the reveal; ends on a hook — she already knows what happens next).
+Story Idea: In a candlelit boudoir, Aira lifts an ornate antique hand-mirror to her face — but instead of her reflection it shows a vivid scene from TOMORROW (her in a different outfit, a sunlit market, doing something surprising). She watches, smirks, shows it to camera, and the image fades back to her normal reflection. She already knows what happens next.
+Setting: a romantic candlelit boudoir at night — a deep-emerald velvet chaise, heavy brocade curtains, a tall gilded floor-mirror, dozens of ivory candles on brass candelabras, dried dark roses, a Persian rug; opulent, flame-lit, moody.
+Wardrobe: a burgundy velvet slip dress, thin straps, bias-cut, mid-calf, with a sheer black mesh robe open over it; modest, elegant.
+Footwear: black satin pointed-toe kitten-heel mules — constant.
+Eyewear: none.
+Accessories: an ornate antique gilded oval hand-mirror (THE recurring object), a thin velvet choker with a tiny ruby pendant, deep-wine glossy nails, small gold drop earrings.
+Hair: a high sleek topknot with a single thick strand wrapped around the base, no flyaways, sculpted — constant.
+Makeup: sultry candlelit glow — luminous skin, deep-berry lip, soft smoky bronze lid, real pores.
+Hero Movement / Impossible Move: the hand-mirror shows a scene from tomorrow instead of her reflection, then fades back to normal.
+Transformation Trigger (signature, consistent): LIFTING / LOOKING INTO THE MIRROR — raising the hand-mirror to her gaze summons the tomorrow-vision; lowering it lets the vision fade. Same trigger (the look) governs the magic; the mirror is the series' signature object.
+Mood: MYSTERY / KNOWING — intimate, dark-romantic, sensual but never overt; ends on a hook.
+Grade: VIVID boudoir — saturated burgundy + emerald + gold gilt + ivory candle-gold + wine nails; the bright tomorrow-vision a contrasting daylight pop inside the mirror; rich blacks, full mid-tone.
+Duration: ~22 seconds · 5 clips (angle-cut chain).
+Voice: SPOKEN — one knowing line as the vision fades; otherwise diegetic + score.
+Identity safety: AIRA adult; wardrobe modest; mood mysterious and elegant, never sexualized.
+State chain (angle-cut): CLIP 1 three-quarter seated [lifts mirror → ★ shows TOMORROW] → CUT → CLIP 2 extreme macro [the mirror-surface tomorrow-scene plays] → CUT → CLIP 3 close-up [knowing smirk, shows it to lens, ★ SPOKEN, vision FADES] → CUT → CLIP 4 medium [lowers mirror, hook look] → CUT → CLIP 5 three-quarter seated [reset = CLIP 1, loop].
+
+---
+
+## CLIP 1 of 5 — THREE-QUARTER BODY · FRONT · EYE-LEVEL (boudoir; ★ lifting the mirror shows tomorrow)
+
+### START IMAGE (keyframe — mirror in lap, about to lift)
+ANGLE & SHOT SIZE: eye-level THREE-QUARTER BODY (knees-up), seated at the edge of a chaise, the gilded hand-mirror resting face-up in her lap, candlelight all around.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: the burgundy velvet bias-cut slip dress, thin straps, mid-calf, the sheer black mesh robe open over it.
+FOOTWEAR: black satin pointed-toe kitten-heel mules.
+EYEWEAR: none.
+ACCESSORIES: the ornate gilded antique hand-mirror in her right hand resting in her lap, a thin velvet choker with a tiny ruby pendant, deep-wine glossy nails, small gold drop earrings.
+HAIR: a high sleek topknot with a thick strand wrapped around the base, no flyaways, sculpted.
+MAKEUP: sultry candlelit glow — luminous skin, deep-berry lip, soft smoky bronze lid, real pores.
+HANDS & NAILS: her right hand holding the gilded handle, the left resting beside it, about to lift the mirror; deep-wine glossy nails.
+FACIAL MICRO-DYNAMICS: contemplative curiosity — eyes lowered to the mirror, brow in soft thought, lips with a faint interested curve, chin tilted down, about to look.
+BODY POSTURE & WEIGHT: a graceful seated lean at the chaise edge, weight settled, the mirror in her lap, spine elegant, breathing.
+KINETIC STILLNESS (8 layers): (1) dozens of candle flames dancing; (2) deep shadows shifting on the brocade; (3) a wrapped-strand edge catching candlelight; (4) the mesh robe shifting; (5) chest rising; (6) the gilded mirror catching one flame; (7) dried-rose petals still; (8) a slow eyelash settle.
+SPATIAL LOGIC: FOREGROUND — the hand-mirror in her lap, sharp. MIDGROUND — Aira on the chaise. BACKGROUND — the candlelit boudoir, gilded floor-mirror, brocade, candelabras.
+LIGHTING: KEY — warm flickering candlelight from multiple points. FILL — deep dancing shadow. RIM — a flame-edge on the topknot and shoulder. PRACTICAL — dozens of ivory candles, the gilded floor-mirror reflecting flames. SEPARATION — warm figure against deep shadow. BOUNCE — warm candle-gold under the chin.
+LENS + DOF + BOKEH: 40mm, f/2.8; Aira and the mirror sharp, the candles melting to golden bokeh orbs.
+COMPOSITION: vertical 9:16, Aira centre on the chaise, the hand-mirror in her lap the focal pull, candles framing.
+SUBJECT FRAMING & POSITION: Aira reads from the knees up seated at the chaise edge, framed three-quarter so her face is near-front while her body angles gracefully, the mirror in her lap. The camera holds a medium three-quarter distance at seated eye level; she anchors centre with candelabras framing. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: opulent candlelit mystery, the hush before she looks into tomorrow.
+COLOUR GRADE: VIVID boudoir — saturated burgundy + emerald velvet + gold gilt + ivory candle-gold + wine nails; rich, dark, full mid-tone.
+TEXTURE & MICRO-DETAIL: crushed-velvet nap, sheer-mesh weave, gilded-mirror engraving, candle-flame detail, the topknot's sculpted sheen, ruby-pendant glint, wine nail gloss.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
+
+### ANIMATION (this clip, ~5s — ★ lifting the mirror shows tomorrow)
+SHOT TYPE & ANGLE: eye-level three-quarter body; subject ~50% centre.
+CAMERA MOVEMENT (CHOREOGRAPHY): a slow push-in toward her and the mirror — one continuous shot.
+LENS: 40mm, f/2.8, shallow.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–1.5s — she breathes, eyes on the mirror in her lap, curious.
+- 1.5–2.5s — ★ TRIGGER: she lifts the mirror from her lap and angles it toward her face/the lens to look.
+- 2.5–5.0s — instead of her reflection, the mirror's surface fills with a vivid sunlit TOMORROW-scene; her expression shifts to intrigued surprise.
+FLUIDITY & WEIGHT NOTES: the mirror lifts with real gilded-metal weight through the wrist; the surprise blooms on her face; all motion eases.
+FABRIC/HAIR/PROP PHYSICS: candle flames respond to her arm's micro-air-current as the mirror tilts; the velvet shifts; the mirror catches a candle and throws a small light-sweep on the ceiling.
+FOOTWORK & BODY FLOW: a graceful seated lift, weight settled.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE VISION at 2.5–4.5s — triggered by lifting the mirror to look, the surface does not reflect her but instead shows a living scene from TOMORROW: a sun-drenched morning market, a tomorrow-version of Aira (white linen, a straw hat) laughing and reaching for a peach, the market bustling around her — a bright daylight window inside the dark boudoir.
+LIGHTING-IN-MOTION: the mirror-scene's internal sunlight casts a faint warm-bright bounce up onto her chin amid the candle-gold.
+DIEGETIC AUDIO: candle-wax drip; the soft mirror-lift (a weighted metallic sound); her inhale; then the tomorrow-scene's own muffled sound (distant market chatter, laughter, a guitar) layering under the boudoir candle-crackle.
+MASTER TRACK: a solo cello plays the languid "mirror theme"; a bright acoustic motif (the tomorrow-theme) enters softly inside the vision.
+END STATE / STATE-MATCH LOCK (heavy detail — CLIP 2's START IMAGE must reproduce 100%, new angle only): at clip end the hand-mirror shows the vivid sunlit tomorrow-market scene, her intrigued face above it, the candlelit boudoir around; burgundy slip, sculpted topknot. CLIP 2 must open in this EXACT state (same tomorrow-scene in the mirror, same boudoir, same wardrobe) — only the camera angle changes (to the macro on the mirror).
+CUT LOGIC: hard ANGLE-CUT to CLIP 2 (extreme macro on the mirror surface). No motion-match; WORLD STATE matches 100%.
+
+---
+
+## CLIP 2 of 5 — EXTREME CLOSE-UP / MACRO (mirror surface + chin) · OVERHEAD-ANGLED · (opens tomorrow-vision = CLIP 1 end; the scene plays)
+
+### START IMAGE (keyframe — tomorrow-scene in the mirror, reproduces CLIP 1's END STATE, new angle)
+ANGLE & SHOT SIZE: angled-down EXTREME CLOSE-UP / MACRO on the gilded mirror surface (filling ~80% of frame) with her real chin and lower lip at the top of frame.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: out of frame except a burgundy strap at the shoulder edge.
+FOOTWEAR: out of frame.
+EYEWEAR: none.
+ACCESSORIES: the gilded mirror frame filling the edges, the ruby choker at the chin, wine nails gripping the handle at frame-bottom.
+HAIR: only the topknot crown-edge at the very top of frame.
+MAKEUP: berry lip glimpsed at the chin.
+HANDS & NAILS: wine-nailed fingers holding the mirror perfectly steady at the frame bottom.
+FACIAL MICRO-DYNAMICS: (only her chin and lower lip visible at frame-top) — lips parted in surprise, a sharp inhale visible in the jaw.
+BODY POSTURE & WEIGHT: implied steady seated hold (hands/mirror only).
+KINETIC STILLNESS (8 layers): (1) the tomorrow-market alive inside the mirror (tomorrow-Aira laughing, reaching for a peach); (2) market bustle and sunlight dancing within; (3) a candle reflection on the gilded frame; (4) the wine nails steady on the handle; (5) her chin micro-moving with the inhale; (6) the gilded engraving catching flame; (7) tomorrow-hair moving in a tomorrow-breeze inside the mirror; (8) a slow blink at the chin.
+SPATIAL LOGIC: FOREGROUND — the mirror surface, razor-sharp. MIDGROUND — her chin at frame-top. BACKGROUND — the gilded frame, candle-gold beyond.
+LIGHTING: KEY — the mirror-scene's internal sunlight (bright, daylight). FILL — warm boudoir candle-gold at the frame edges. RIM — none. PRACTICAL — the mirror-world sun, the candles. SEPARATION — bright tomorrow-scene vs dark candlelit edges. BOUNCE — bright bounce up onto her chin.
+LENS + DOF + BOKEH: 90mm macro, f/2.8, razor-shallow; the mirror surface pin-sharp, the gilded frame soft.
+COMPOSITION: vertical 9:16, the oval mirror as a portal-frame within the camera-frame — tomorrow visible inside, tonight at the edges.
+SUBJECT FRAMING & POSITION: an extreme macro on the mirror surface and her chin, shot angled-down into the mirror, the gilded frame at the edges. Her chin enters from frame-top; the tomorrow-scene dominates. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: a bright window into tomorrow held in a dark candlelit hand.
+COLOUR GRADE: VIVID CONTRAST — the tomorrow-scene bright and saturated (warm market golds, vivid fruit, white linen) against the dark candlelit boudoir edges. (Matches CLIP 1 END STATE.)
+TEXTURE & MICRO-DETAIL: the mirror's glassy surface, the tomorrow-scene's micro-detail (peach fuzz, market textures), gilded-frame engraving, candle reflection, wine-nail gloss.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
+
+### ANIMATION (this clip, ~4s — the tomorrow-scene plays inside the mirror)
+SHOT TYPE & ANGLE: angled-down extreme macro on the mirror; surface ~80% of frame.
+CAMERA MOVEMENT (CHOREOGRAPHY): a static macro hold — one continuous shot.
+LENS: 90mm macro, f/2.8, razor-shallow.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–1.5s — she holds the mirror steady, her real chin at frame-top.
+- 1.5–2.6s — INSIDE the mirror: tomorrow-Aira laughs, reaches for a peach, the market bustles, sunlight dances — a living 2-second window into a future moment.
+- 2.6–4.0s — her real lips curl into a slow smile of recognition above.
+FLUIDITY & WEIGHT NOTES: the mirror stays locked-steady (no shake); the tomorrow-scene moves with its own life; her recognition-smile eases in.
+FABRIC/HAIR/PROP PHYSICS: the mirror-scene obeys its own physics (market motion, tomorrow-hair in a tomorrow-breeze, fabric movement) — a self-contained world; the real boudoir stays candlelit and still.
+FOOTWORK & BODY FLOW: a steady seated hold (hands only in frame).
+MID-CLIP TRANSFORMATION (timed): the vision plays (seeded in CLIP 1) — the tomorrow-scene fully alive inside the mirror, a living photograph of the next day.
+LIGHTING-IN-MOTION: the mirror-scene's internal sunlight flickers warm on her real chin as the market light dances.
+DIEGETIC AUDIO: the tomorrow-scene's own muffled sound (market chatter, laughter, a guitar); the present boudoir muffled (candle-crackle, breath); two soundscapes layered.
+MASTER TRACK: the bright acoustic tomorrow-theme rises inside the vision, contrasting the cello "mirror theme".
+END STATE / STATE-MATCH LOCK (heavy detail — CLIP 3's START IMAGE must reproduce 100%, new angle only): at clip end the mirror still shows the alive tomorrow-market, her recognition-smile above; the candlelit boudoir around; burgundy slip, sculpted topknot. CLIP 3 must open in this EXACT state (same tomorrow-scene in the mirror, same boudoir, same wardrobe) — only the angle changes (to the close-up beside her face).
+CUT LOGIC: hard ANGLE-CUT to CLIP 3 (close-up, face + mirror beside). No motion-match; WORLD STATE matches 100%.
+
+---
+
+## CLIP 3 of 5 — CLOSE-UP (face + mirror beside) · FRONT · EYE-LEVEL (opens vision = CLIP 2 end; ★ SPOKEN, vision FADES)
+
+### START IMAGE (keyframe — vision fading, reproduces CLIP 2's END STATE, new angle)
+ANGLE & SHOT SIZE: eye-level CLOSE-UP, face and shoulders with the hand-mirror held beside her face (showing the fading tomorrow-image), candlelit boudoir bokeh behind.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: the burgundy velvet strap and the sheer mesh robe at the shoulder — identical state.
+FOOTWEAR: out of frame.
+EYEWEAR: none.
+ACCESSORIES: the ruby choker sharp, the hand-mirror beside her face (vision fading to her reflection), wine nails on the handle, gold drop earrings.
+HAIR: the sleek topknot, sculpted, catching candle-glow.
+MAKEUP: sultry candlelit glow, berry lip.
+HANDS & NAILS: she holds the mirror beside her face, turning it toward the lens (showing it off); wine nails.
+FACIAL MICRO-DYNAMICS: knowing intrigue — a slow smile of someone who has seen the future and likes it; eyes bright with private knowledge, lids slightly narrowed (conspiratorial), brow in a playful micro-lift, lips curved in a closed-mouth smirk.
+BODY POSTURE & WEIGHT: a relaxed seated lean toward the lens, the mirror raised beside her face, breathing.
+KINETIC STILLNESS (8 layers): (1) the tomorrow-image dissolving in the mirror to her reflection; (2) candle flames dancing; (3) a wrapped-strand edge glinting; (4) the mesh robe shifting; (5) chest rising; (6) the gilded frame catching flame; (7) deep shadows shifting on the brocade; (8) a slow knowing blink.
+SPATIAL LOGIC: FOREGROUND — soft candle-gold bokeh. MIDGROUND — her face and the mirror beside it, sharp. BACKGROUND — the candlelit boudoir melting to golden bokeh.
+LIGHTING: KEY — warm candle key on her face. FILL — the fading mirror-glow on her near cheek. RIM — a flame-edge on the topknot. PRACTICAL — candles, the gilded floor-mirror. SEPARATION — golden bokeh behind the face. BOUNCE — warm candle-gold under the jaw.
+LENS + DOF + BOKEH: 85mm, f/2.0; her face and the mirror surface sharp, the boudoir melting to golden bokeh.
+COMPOSITION: vertical 9:16, her face right, the mirror beside it left — real and vision side by side.
+SUBJECT FRAMING & POSITION: Aira is framed in a close-up, face and shoulders, front to lens, the hand-mirror held beside her face. She sits right-of-centre with the mirror to frame-left, candlelit boudoir behind. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: a knowing, intimate secret — she's not telling.
+COLOUR GRADE: VIVID boudoir — warm skin, burgundy, gold gilt, fading mirror-brightness; rich. (Matches CLIP 2 END STATE, fading.)
+TEXTURE & MICRO-DETAIL: the dissolving mirror-image (watercolour-fade), candle-flame detail, real pores in candlelight, sculpted topknot strands, ruby-pendant glint.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
+
+### ANIMATION (this clip, ~5s — ★ SPOKEN; the vision FADES to her reflection)
+SHOT TYPE & ANGLE: eye-level close-up; face ~70% right-of-centre with the mirror left.
+CAMERA MOVEMENT (CHOREOGRAPHY): a static intimate hold — one continuous shot.
+LENS: 85mm, f/2.0, shallow.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–1.5s — she turns the mirror toward the lens (showing the fading tomorrow-image), the conspiratorial smile arriving.
+- 1.5–2.8s — ★ SPOKEN BEAT, as the line lands, low and knowing — "...I already know how tomorrow goes." — a playful brow-raise at the lens.
+- 2.8–5.0s — the tomorrow-image dissolves to her normal reflection; the smirk deepens — "you'll see."
+FLUIDITY & WEIGHT NOTES: the mirror-turn is a deliberate wrist-roll (showing it off); the line lands on the smirk; the vision dissolves like watercolour washing away; all motion eases.
+FABRIC/HAIR/PROP PHYSICS: the tomorrow-scene fades organically (colours draining, image washing away) with her reflection materializing beneath; the candle flames dance.
+FOOTWORK & BODY FLOW: a relaxed seated lean toward the lens.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE FADE at 1.5–4.0s — triggered by lowering the mirror from the look, the tomorrow-scene dissolves (watercolour-reverse) back to her normal candlelit reflection; the vision recalled.
+LIGHTING-IN-MOTION: the mirror's internal daylight-glow fades; candlelight reasserts as the only source.
+DIEGETIC AUDIO: the tomorrow-soundscape fading (market sounds dissolving); the mirror returning to silent glass (a soft tonal descend); candle-crackle returning to prominence; her low spoken line; a soft "hmm" of satisfaction.
+MASTER TRACK: the bright tomorrow-theme dissolves; the cello "mirror theme" returns alone.
+END STATE / STATE-MATCH LOCK (heavy detail — CLIP 4's START IMAGE must reproduce 100%, new angle only): at clip end the mirror shows only her normal reflection, the smirk settled; the candlelit boudoir around; burgundy slip, sculpted topknot. CLIP 4 must open in this EXACT state (mirror normal, same boudoir, same wardrobe/smirk) — only the angle changes.
+CUT LOGIC: hard ANGLE-CUT to CLIP 4 (medium, three-quarter). No motion-match; WORLD STATE matches 100%.
+
+---
+
+## CLIP 4 of 5 — MEDIUM · THREE-QUARTER · EYE-LEVEL (opens mirror-normal = CLIP 3 end; lowers mirror, hook look)
+
+### START IMAGE (keyframe — mirror normal, reproduces CLIP 3's END STATE, new angle)
+ANGLE & SHOT SIZE: eye-level MEDIUM, waist-up, three-quarter, lowering the mirror toward her lap, the candlelit boudoir around her.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: the burgundy velvet slip dress and sheer mesh robe, velvet catching candlelight — identical state.
+FOOTWEAR: out of frame.
+EYEWEAR: none.
+ACCESSORIES: the ruby choker, wine nails, the hand-mirror lowering toward her lap, gold drop earrings.
+HAIR: the sleek topknot in three-quarter, sculpted.
+MAKEUP: sultry candlelit glow, berry lip.
+HANDS & NAILS: she lowers the mirror with one hand, the other resting on the chaise arm; wine nails.
+FACIAL MICRO-DYNAMICS: satisfied private knowledge — eyes meeting the lens directly, the smirk settled into a calm knowing smile, one brow barely raised, completely self-possessed (the hook).
+BODY POSTURE & WEIGHT: a relaxed seated lean-back into the chaise, weight settling, breathing.
+KINETIC STILLNESS (8 layers): (1) candle flames dancing; (2) the mirror lowering, catching one last candle-glint; (3) a wrapped-strand edge glinting; (4) the mesh robe shifting; (5) chest rising; (6) deep shadows on the brocade; (7) dried roses still; (8) a slow knowing blink.
+SPATIAL LOGIC: FOREGROUND — the lowering mirror, soft. MIDGROUND — Aira leaning back. BACKGROUND — the candlelit boudoir, chaise, candelabras.
+LIGHTING: KEY — warm candlelight key. FILL — dancing shadow. RIM — flame-edge on the topknot. PRACTICAL — candles, gilded floor-mirror. SEPARATION — warm figure against shadow. BOUNCE — candle-gold under the jaw.
+LENS + DOF + BOKEH: 50mm, f/2.8; Aira sharp, the boudoir melting to golden bokeh.
+COMPOSITION: vertical 9:16, Aira centre-left leaning back, the mirror lowering, candles framing, the knowing expression the focal pull.
+SUBJECT FRAMING & POSITION: Aira is framed waist-up in a three-quarter, leaning back into the chaise as she lowers the mirror, candlelit boudoir around. The camera holds a medium distance at seated eye level; she rides centre-left. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: satisfied mystery — she knows something you don't.
+COLOUR GRADE: VIVID boudoir — burgundy, emerald, gold gilt, candle-gold; rich, full mid-tone. (Matches CLIP 3 END STATE.)
+TEXTURE & MICRO-DETAIL: crushed-velvet nap, sheer-mesh weave, gilded-mirror gleam, candle-flame, sculpted topknot, ruby-pendant glint.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
+
+### ANIMATION (this clip, ~4s — lowers mirror, the hook look)
+SHOT TYPE & ANGLE: eye-level medium, three-quarter; subject ~50% centre-left.
+CAMERA MOVEMENT (CHOREOGRAPHY): a gentle dolly-back — one continuous shot.
+LENS: 50mm, f/2.8, shallow.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–1.5s — she lowers the mirror toward her lap.
+- 1.5–2.8s — she leans back into the chaise with a satisfied settle, eyes on the lens — the knowing hook-smile.
+- 2.8–4.0s — a slow satisfied blink, eyes reopening steady on the lens — the hook.
+FLUIDITY & WEIGHT NOTES: the mirror lowers with correct weight; the lean-back has real cushion-compress; all motion eases.
+FABRIC/HAIR/PROP PHYSICS: the mirror settles face-up on her thigh with a soft metal-on-velvet contact; the mesh robe drapes with gravity; candles dance.
+FOOTWORK & BODY FLOW: a relaxed seated settle into the chaise.
+MID-CLIP TRANSFORMATION (timed): NONE — the vision is recalled; this is the hook beat (makes the viewer wonder what she saw).
+LIGHTING-IN-MOTION: candles steady to their resting dance.
+DIEGETIC AUDIO: the mirror settling (soft metal-on-velvet); her satisfied exhale; candle-crackle; fabric rustle; a settling quiet.
+MASTER TRACK: the cello "mirror theme" settles, intimate and knowing.
+END STATE / STATE-MATCH LOCK (heavy detail — CLIP 5's START IMAGE must reproduce 100%, then loop): at clip end the mirror is face-up in her lap (normal reflection), Aira leaned back with the knowing hook-smile; the candlelit boudoir around; burgundy slip, sculpted topknot. CLIP 5 must open in this EXACT state then reset to the CLIP-1 contemplative-lift — same boudoir, same wardrobe.
+CUT LOGIC: hard ANGLE-CUT to CLIP 5 (three-quarter seated). No motion-match; state resets to CLIP 1.
+
+---
+
+## CLIP 5 of 5 — THREE-QUARTER BODY · FRONT · EYE-LEVEL (reset → loop to CLIP 1)
+
+### START IMAGE (keyframe — reproduces CLIP 1's opening)
+ANGLE & SHOT SIZE: eye-level THREE-QUARTER BODY (knees-up), seated at the chaise edge, the hand-mirror resting face-up in her lap again — the opening restored, ready to lift and look.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: the burgundy velvet slip dress, sheer mesh robe — matched to CLIP 1.
+FOOTWEAR: black satin kitten-heel mules — matched.
+EYEWEAR: none.
+ACCESSORIES: the gilded hand-mirror in her lap (normal reflection), ruby choker, wine nails, gold drop earrings — matched.
+HAIR: the high sleek topknot with wrapped strand — matched to CLIP 1.
+MAKEUP: sultry candlelit glow — matched.
+HANDS & NAILS: her right hand on the mirror handle, the left resting beside it — matched to CLIP 1.
+FACIAL MICRO-DYNAMICS: contemplative curiosity returning — eyes lowering to the mirror, brow in soft thought — the exact opening face.
+BODY POSTURE & WEIGHT: a graceful seated lean at the chaise edge, mirror in lap — mirror of CLIP 1.
+KINETIC STILLNESS (8 layers): (1) candle flames dancing; (2) shadows shifting; (3) a wrapped-strand edge glinting; (4) the mesh robe shifting; (5) chest rising; (6) the mirror catching a flame; (7) dried roses still; (8) a slow eyelash settle — matched to CLIP 1.
+SPATIAL LOGIC: FOREGROUND — the hand-mirror in her lap. MIDGROUND — Aira on the chaise. BACKGROUND — the candlelit boudoir — matched to CLIP 1.
+LIGHTING: KEY — warm flickering candlelight. FILL — dancing shadow. RIM — flame-edge on the topknot. PRACTICAL — candles, gilded floor-mirror. SEPARATION — warm figure vs shadow. BOUNCE — candle-gold under the chin — matched to CLIP 1.
+LENS + DOF + BOKEH: 40mm, f/2.8 — matched to CLIP 1.
+COMPOSITION: vertical 9:16, Aira centre on the chaise, the hand-mirror in her lap the focal pull — identical to CLIP 1 so the reel loops.
+SUBJECT FRAMING & POSITION: Aira reads from the knees up seated at the chaise edge, framed three-quarter, face near-front, the mirror in her lap. The camera holds the identical medium three-quarter distance at seated eye level; she anchors centre with candelabras framing — exactly rhyming with CLIP 1 so the loop is seamless. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: opulent candlelit mystery resuming — ready to look into tomorrow again.
+COLOUR GRADE: VIVID boudoir — burgundy, emerald, gold gilt, candle-gold, wine nails — matched to CLIP 1.
+TEXTURE & MICRO-DETAIL: crushed-velvet nap, mesh weave, gilded engraving, candle-flame, topknot sheen, ruby glint, wine nails — matched.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
+
+### ANIMATION (this clip, ~4s — reset; loop close)
+SHOT TYPE & ANGLE: eye-level three-quarter body; subject ~50% centre — matched to CLIP 1.
+CAMERA MOVEMENT (CHOREOGRAPHY): a gentle settle to the exact CLIP-1 establishing framing.
+LENS: 40mm, f/2.8 — matched.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–1.5s — she resettles at the chaise edge, the knowing smile fading to contemplation.
+- 1.5–2.8s — her gaze lowers to the mirror in her lap, her hand on the handle.
+- 2.8–4.0s — the contemplative-curious expression returns — the exact CLIP-1 opening pose, ready to lift the mirror again.
+FLUIDITY & WEIGHT NOTES: the resettle eases into the opening; everything returns to rest.
+FABRIC/HAIR/PROP PHYSICS: the velvet and mesh settle to the opening drape; the mirror rests face-up; candles dance.
+FOOTWORK & BODY FLOW: a graceful seated settle, the CLIP-1 lean.
+MID-CLIP TRANSFORMATION (timed): the vision is tucked away; the next loop re-triggers the tomorrow-vision when she next lifts the mirror to look (the start of CLIP 1).
+LIGHTING-IN-MOTION: candles at the opening dance — matched to CLIP 1.
+DIEGETIC AUDIO: candle-crackle; velvet settle; the mirror at rest; her quiet breath — back to the CLIP-1 bed.
+MASTER TRACK: the cello "mirror theme" resolves to the opening, looping cleanly.
+END STATE / STATE-MATCH LOCK: clip ends in the EXACT mirror-in-lap state and three-quarter angle of CLIP 1's START IMAGE — boudoir, wardrobe and contemplative expression matched, so the reel loops seamlessly.
+CUT LOGIC: ANGLE-CUT / LOOP back to CLIP 1; the next pass re-triggers the tomorrow-vision when she lifts the mirror.
+
+### ☆ EXTERNAL AUDIO — BLOCK 1: BACKGROUND SOUND DESIGN / AMBIENCE BED — C-3
+*The layered foley + ambience to lay UNDER the reel, separate from the in-clip diegetic audio — timed to the clips.*
+- Base bed (boudoir clips): a soft candlelit room-tone; dozens of candle-flames crackling; a faint settling-house creak; deep intimate quiet.
+- Trigger stamp (the look): a soft weighted mirror-lift on the look (CLIP 1) and a soft mirror-settle on the lower (CLIP 4).
+- CLIP 1–2 (vision): the tomorrow-scene's own muffled sound layering in — distant market chatter, laughter, a guitar, warm daylight bustle.
+- CLIP 3 (fade/spoken): the tomorrow-soundscape dissolving; the mirror returning to silent glass (a soft tonal descend); her low spoken line in a candle-crackle hush.
+- CLIP 4 (hook): the mirror settling (soft metal-on-velvet); a satisfied exhale.
+- CLIP 5 (reset): candle-crackle; velvet settle — back to the CLIP-1 bed.
+- Mix note: the two soundscapes (dark boudoir vs bright tomorrow-market) layer during the vision, then the bright one dissolves; loops cleanly at ~22s.
+
+### ☆ EXTERNAL AUDIO — BLOCK 2: BACKGROUND MUSIC / SCORE TRACK — C-3 (lay under the sound bed)
+- Genre / vibe: intimate dark-romantic mystery — a boudoir-noir score; candlelit, knowing, sensual but never overt.
+- Tempo / key: ~65 BPM, D minor, slow and deliberate.
+- Core elements: a solo cello playing the languid "mirror theme"; soft finger-picked classical guitar; a low sustained pad; candle-crackle texture woven in; a brief bright acoustic motif (the "tomorrow-theme") that plays ONLY during the mirror-vision and disappears when it fades.
+- Arc: cello solo (CLIP 1) → the tomorrow-theme bursts in bright during the vision (CLIP 2, contrasting) → fades as the vision dissolves (CLIP 3) → cello + guitar settle on the hook (CLIP 4) → solo cello on the loop (CLIP 5).
+- Texture note: the tomorrow-theme must sound like a DIFFERENT genre (light, bright, acoustic morning music) — the contrast between dark boudoir and bright tomorrow is the whole magic.
+- Loop: a clean ~22s loop matching the visual loop point.
+
+---
+
+# CONCEPT C-4 — THE MUSIC BOX DANCES
+
+Title: Recurring-Object Hero — a music box whose ballerina steps off and dances life-size.
+Category / Format: Tender magical-realism series reel (dreamy golden-hour bedroom) · SILENT (diegetic + score only) · CLIP-CHAIN, ANGLE-CUT edit · SINGLE-MAGIC (the figurine comes to life and dances; seeded on the wind, recalled at the end; tender, series-building).
+Story Idea: Aira winds an antique music box; its tiny porcelain ballerina glows, steps off the mechanism, grows to life-size, and dances one perfect pirouette beside her — then shrinks back into the box. She only dances when Aira winds her up.
+Setting: a dreamy bedroom at golden hour — a soft white linen bed, gauzy curtains glowing amber, a vintage vanity, soft fairy-lights, a vase of pale-pink peonies; warm and glowing.
+Wardrobe: a soft cream cashmere off-shoulder sweater, one shoulder exposed, over soft cream lounge trousers; modest, warm.
+Footwear: barefoot on pale wood, a thin gold anklet — constant.
+Eyewear: none.
+Accessories: the antique music box (rosewood with mother-of-pearl inlay, brass winding key) — THE recurring object; small pearl studs, a thin pearl bracelet, soft pink glossy nails, a pearl hair-clip.
+Hair: soft cascading ringlet curls, honey-gold, shoulder-length, a single pearl clip holding one side back — constant.
+Makeup: soft golden-hour glow — luminous skin, soft rose lip, warm peach lid, real pores.
+Hero Movement / Impossible Move: the music box's ballerina steps off, grows life-size, dances a pirouette, then shrinks back into the box.
+Transformation Trigger (signature, consistent): WINDING THE BRASS KEY — three slow turns of the music-box key wakes the figurine and brings her to life; the box closing returns her. Same trigger (the wind) governs the magic; the music box is the series' signature object.
+Mood: WONDER / TENDERNESS — beautiful, gentle, slightly melancholic warmth.
+Grade: VIVID golden-hour — saturated warm gold + cream + pale-pink peonies + honey curls + mother-of-pearl iridescence; soft but vivid, glowing, full mid-tone.
+Duration: ~22 seconds · 5 clips (angle-cut chain).
+Voice: SILENT — diegetic bedroom + a delicate music-box-and-string score.
+Identity safety: AIRA adult; wardrobe modest; mood tender and elegant, never sexualized.
+State chain (angle-cut): CLIP 1 medium [winds key → ★ box opens, figurine glows] → CUT → CLIP 2 extreme macro [figurine awakens, steps off, grows] → CUT → CLIP 3 full body [life-size dancer pirouettes beside her] → CUT → CLIP 4 close-up [tender face, dancer shrinks back] → CUT → CLIP 5 medium [box closed, figurine reset = CLIP 1, loop].
+
+---
+
+## CLIP 1 of 5 — MEDIUM · THREE-QUARTER FRONT · EYE-LEVEL (bedroom; ★ winding the key wakes the figurine)
+
+### START IMAGE (keyframe — music box closed, about to wind)
+ANGLE & SHOT SIZE: eye-level MEDIUM, waist-up, three-quarter, seated by a side-table with the antique music box, reaching for the brass winding key.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: the soft cream cashmere off-shoulder sweater, one shoulder exposed, over cream lounge trousers; warm and relaxed.
+FOOTWEAR: out of frame (barefoot, gold anklet implied).
+EYEWEAR: none.
+ACCESSORIES: the antique music box (rosewood, mother-of-pearl inlay, brass key) on the side-table; small pearl studs, a thin pearl bracelet, soft pink glossy nails, a pearl hair-clip.
+HAIR: soft cascading honey-gold ringlet curls, shoulder-length, the pearl clip holding the left side.
+MAKEUP: soft golden-hour glow — luminous skin, soft rose lip, warm peach lid, real pores.
+HANDS & NAILS: her right hand reaching for the brass winding key on the box's side, fingertips approaching; the left resting near the box; soft pink glossy nails.
+FACIAL MICRO-DYNAMICS: tender anticipation — eyes soft on the music box, brow relaxed, a gentle private smile of affection, lips softly together; she loves this object.
+BODY POSTURE & WEIGHT: a relaxed seated lean toward the side-table, weight settled, shoulders soft, breathing.
+KINETIC STILLNESS (8 layers): (1) gauzy curtains glowing and breathing with the golden-hour breeze; (2) soft fairy-lights twinkling; (3) a honey-gold ringlet drifting; (4) the cashmere shifting at the bare shoulder; (5) chest rising; (6) pale-pink peonies stirring; (7) a warm dust-mote drifting in the golden light; (8) a slow eyelash settle.
+SPATIAL LOGIC: FOREGROUND — the music box on the side-table, sharp. MIDGROUND — Aira seated. BACKGROUND — the dreamy golden-hour bedroom, gauzy curtains, peonies, fairy-lights.
+LIGHTING: KEY — warm golden-hour sun through gauzy curtains (soft diffused). FILL — warm ambient bounce. RIM — a soft gold edge on the curls and bare shoulder. PRACTICAL — fairy-lights. SEPARATION — glowing curtains behind a warmly-lit figure. BOUNCE — warm gold under the chin.
+LENS + DOF + BOKEH: 50mm, f/2.8; Aira and the box sharp, the fairy-lights melting to warm bokeh orbs.
+COMPOSITION: vertical 9:16, Aira left-third seated, the music box centre-right on the table the focal action-point, glowing curtains behind.
+SUBJECT FRAMING & POSITION: Aira reads waist-up in a three-quarter front lean toward the side-table, framed so her face is near-front while she reaches for the key, the box the focal point. The camera holds a medium distance at seated eye level; she anchors left-third with the box centre-right. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: a dreamy golden-hour bedroom, the tender hush before the box opens.
+COLOUR GRADE: VIVID golden-hour — saturated warm gold + cream + pale-pink peonies + honey curls + mother-of-pearl; soft but vivid, glowing.
+TEXTURE & MICRO-DETAIL: cashmere knit, rosewood grain, mother-of-pearl iridescence, brass-key gleam, honey-gold ringlet detail, pearl-clip sheen, pink nail gloss.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
+
+### ANIMATION (this clip, ~4s — ★ winding the key wakes the figurine)
+SHOT TYPE & ANGLE: eye-level medium, three-quarter front; subject ~50% left-third.
+CAMERA MOVEMENT (CHOREOGRAPHY): a slow static-to-push-in toward the box — one continuous shot.
+LENS: 50mm, f/2.8, shallow.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–1.5s — she reaches for the brass winding key, the affectionate smile present.
+- 1.5–2.5s — ★ TRIGGER: she winds the key — three slow deliberate turns.
+- 2.5–4.0s — a soft musical mechanism engages; the lid lifts on its own; the tiny porcelain ballerina begins to GLOW; her anticipation brightens.
+FLUIDITY & WEIGHT NOTES: the wind has mechanical spring-resistance (she pushes against it); the lid rises with hinge-weight; all motion eases.
+FABRIC/HAIR/PROP PHYSICS: the brass key turns against a believable spring; the lid rises slow and weighted; curls sway with her reach; the figurine's glow blooms warm.
+FOOTWORK & BODY FLOW: a relaxed seated lean toward the box.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE WAKE at 1.5–3.5s — triggered by the three winds, the lid lifts and the tiny porcelain ballerina in her pink tutu begins to glow warm-gold, beginning to stir to life; the magic seeded.
+LIGHTING-IN-MOTION: golden-hour steady; a tiny brass-key glint as it turns; the figurine's emerging glow lighting the box interior.
+DIEGETIC AUDIO: the winding mechanism (a satisfying ratchet-click-click-click); the lid rising (a soft aged-hinge creak); the first delicate notes of a music-box melody; her soft breath.
+MASTER TRACK: a solo music-box motif (the actual tune — 8 memorable notes, the series theme) begins.
+END STATE / STATE-MATCH LOCK (heavy detail — CLIP 2's START IMAGE must reproduce 100%, new angle only): at clip end the music box is open, the tiny ballerina glowing warm-gold and beginning to stir; the dreamy golden-hour bedroom around; cream sweater, honey curls. CLIP 2 must open in this EXACT state (same open box, same glowing figurine, same bedroom, same wardrobe) — only the camera angle changes (to the macro on the figurine).
+CUT LOGIC: hard ANGLE-CUT to CLIP 2 (extreme macro on the figurine). No motion-match; WORLD STATE matches 100%.
+
+---
+
+## CLIP 2 of 5 — EXTREME CLOSE-UP / MACRO (the figurine) · OVERHEAD-ANGLED · (opens glowing figurine = CLIP 1 end; ★ steps off, grows)
+
+### START IMAGE (keyframe — figurine glowing, reproduces CLIP 1's END STATE, macro)
+ANGLE & SHOT SIZE: overhead-angled EXTREME CLOSE-UP / MACRO on the open music-box interior and the glowing tiny ballerina, Aira's pink-nailed fingertips at the frame edge.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: a cream cashmere cuff at the wrist edge.
+FOOTWEAR: out of frame.
+EYEWEAR: none.
+ACCESSORIES: pink nails on the box edge, the pearl bracelet; the figurine — a tiny porcelain ballerina in a pink tutu, glowing warm-gold.
+HAIR: only a curl-end blurred at the frame edge.
+MAKEUP: out of frame.
+HANDS & NAILS: her fingertips resting on the box edge (not touching the figurine — giving it space to awaken); pink nails.
+FACIAL MICRO-DYNAMICS: out of frame — the hands convey reverence (still, not grasping).
+BODY POSTURE & WEIGHT: implied reverent stillness (hands only).
+KINETIC STILLNESS (8 layers): (1) the figurine glowing brighter, beginning to move; (2) its tiny arm lifting; (3) the mother-of-pearl interior shimmering; (4) golden-hour light flooding the box; (5) the fingertips still; (6) the brass mechanism ticking; (7) a warm glow-bloom around the figurine; (8) a tiny porcelain head-turn.
+SPATIAL LOGIC: FOREGROUND — the glowing figurine, razor-sharp. MIDGROUND — the box mechanism. BACKGROUND — the rosewood interior, golden-hour glow.
+LIGHTING: KEY — the figurine's own emerging warm-gold glow. FILL — golden-hour ambient flooding in. RIM — a glow-edge on the tiny tutu. PRACTICAL — the figurine's glow, fairy-lights beyond. SEPARATION — the glowing figurine against the dark rosewood. BOUNCE — warm glow on the mechanism.
+LENS + DOF + BOKEH: 90mm macro, f/2.8, razor-shallow; the figurine pin-sharp through its transformation, the box edges soft.
+COMPOSITION: vertical 9:16, the glowing figurine centre, the intricate mechanism around her, Aira's fingertips framing.
+SUBJECT FRAMING & POSITION: an extreme macro on the box interior and the figurine, shot overhead-angled, Aira's fingertips at the edge. The figurine dominates; the hands frame. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: a tiny miracle awakening in a golden box.
+COLOUR GRADE: VIVID — the tiny pink tutu vivid against warm-gold glow, mother-of-pearl iridescence, warm rosewood. (Matches CLIP 1 END STATE.)
+TEXTURE & MICRO-DETAIL: porcelain-figurine detail (tiny painted features, tutu tulle), mother-of-pearl shimmer, brass-mechanism teeth, rosewood grain, golden glow-bloom.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
+
+### ANIMATION (this clip, ~4s — ★ the figurine steps off and grows)
+SHOT TYPE & ANGLE: overhead-angled extreme macro on the figurine; figurine ~60% of frame.
+CAMERA MOVEMENT (CHOREOGRAPHY): a static macro hold — one continuous shot.
+LENS: 90mm macro, f/2.8, razor-shallow.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–1.5s — her fingertips hold still, reverent, as the figurine glows brighter.
+- 1.5–2.8s — the figurine MOVES — a tiny arm lifts, the head turns, the painted eyes seem to open; it steps OFF the pedestal, rising and beginning to grow.
+- 2.8–4.0s — the figurine lifts from the mechanism in a warm glow-bloom, the magic beginning.
+FLUIDITY & WEIGHT NOTES: the figurine's movements start porcelain-stiff then become fluid as it grows; the glow envelops it as it lifts; the hands stay reverently still.
+FABRIC/HAIR/PROP PHYSICS: the tiny foot leaves the pedestal with a porcelain "click" (the last contact); the tutu tulle stirs as it moves; the glow-bloom expands; the mechanism ticks.
+FOOTWORK & BODY FLOW: hands only — reverent stillness.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE STEP-OFF at 1.5–3.5s — triggered by the wind-magic (from CLIP 1), the figurine awakens, steps off its pedestal, and begins to grow/lift in a warm glow-bloom; the dancer coming to life.
+LIGHTING-IN-MOTION: the figurine's glow intensifies as it lifts — lighting the box interior like a tiny sun.
+DIEGETIC AUDIO: the music-box melody (delicate, tinkling, the main motif); a tiny porcelain "click" as the foot leaves; a soft magical chime-swell as it grows; the mechanism ticking.
+MASTER TRACK: the music-box motif joined by a soft entering string-quartet.
+END STATE / STATE-MATCH LOCK (heavy detail — CLIP 3's START IMAGE must reproduce 100%, new angle only): at clip end the figurine has stepped off and is lifting/growing in a warm glow; the golden-hour bedroom around (the dancer about to be life-size in CLIP 3); cream sweater, honey curls. CLIP 3 must open in this EXACT magic-in-progress state (figurine growing toward life-size, same bedroom, same wardrobe) — only the angle changes (to the full-body two-shot).
+CUT LOGIC: hard ANGLE-CUT to CLIP 3 (full body, two-shot). No motion-match; WORLD STATE matches 100%.
+
+---
+
+## CLIP 3 of 5 — FULL BODY · SIDE / TWO-SHOT · EYE-LEVEL (opens growing-dancer = CLIP 2 end; ★ life-size pirouette beside her)
+
+### START IMAGE (keyframe — life-size dancer, reproduces CLIP 2's END STATE, new angle)
+ANGLE & SHOT SIZE: eye-level FULL BODY two-shot, Aira and the now LIFE-SIZE glowing ballerina both in frame, side-on, the golden-hour bedroom around.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: the cream off-shoulder sweater and cream lounge trousers, barefoot — identical state.
+FOOTWEAR: barefoot on pale wood, gold anklet.
+EYEWEAR: none.
+ACCESSORIES: pearl studs, pearl bracelet, pink nails, pearl clip; the music box on the table behind.
+HAIR: honey-gold ringlet curls, pearl clip, lit by the dancer's glow.
+MAKEUP: soft golden-hour glow, lit warm.
+HANDS & NAILS: her hands clasped softly at her chest (a reverent watching pose), not interfering; pink nails.
+FACIAL MICRO-DYNAMICS: open-hearted wonder — eyes wide and soft, mouth slightly open in a gentle "oh", brow lifted, childlike tender amazement.
+BODY POSTURE & WEIGHT: standing back to give the dancer room, hands clasped, weight settled, breathing.
+KINETIC STILLNESS (8 layers): (1) the life-size dancer mid-pirouette, tutu flaring; (2) golden glow-particles drifting from her; (3) Aira's curls drifting; (4) the cashmere shifting; (5) chest rising; (6) gauzy curtains glowing; (7) peonies stirring; (8) a slow delighted blink.
+SPATIAL LOGIC: FOREGROUND — pale wood floor. MIDGROUND — Aira (left) and the dancer (right) in a two-shot. BACKGROUND — the golden-hour bedroom, gauzy curtains glowing.
+LIGHTING: KEY — golden-hour from the curtains + the dancer's own warm glow (double-source). FILL — warm ambient bounce. RIM — gold edges on both figures. PRACTICAL — fairy-lights, the dancer's glow. SEPARATION — glowing curtains behind both figures. BOUNCE — warm gold underlight.
+LENS + DOF + BOKEH: 35mm, f/3.5; both figures sharp, the bedroom soft, glow-particles as warm bokeh.
+COMPOSITION: vertical 9:16, Aira left-centre watching, the dancer right-centre mid-pirouette, the gauzy curtains a luminous stage-backdrop.
+SUBJECT FRAMING & POSITION: a full-body two-shot, side-on — Aira on the left watching, the life-size glowing dancer on the right mid-pirouette, both head-to-feet with pale floor beneath. The camera holds a wide-medium distance at eye level; Aira anchors left-centre, the dancer right-centre. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: tender amazement watching beauty come alive.
+COLOUR GRADE: VIVID golden-hour — warm gold glow + pink tutu + cream outfit + honey curls + pale peonies; dreamy, saturated, soft-power. (Matches CLIP 2 END STATE.)
+TEXTURE & MICRO-DETAIL: the dancer's translucent tutu and faintly-porcelain skin (the magic origin), glow-particles, cashmere knit, honey-gold ringlets, pale-wood grain.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
+
+### ANIMATION (this clip, ~5s — ★ life-size pirouette beside her)
+SHOT TYPE & ANGLE: eye-level full body two-shot; both figures ~70% of frame.
+CAMERA MOVEMENT (CHOREOGRAPHY): a slow arc left-to-right, circling the dancer's pirouette — one continuous shot.
+LENS: 35mm, f/3.5.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–1.5s — Aira watches, hands clasped; the dancer rises to pointe.
+- 1.5–3.5s — ★ the life-size dancer performs ONE perfect pirouette — arms to fifth, spinning once with exquisite grace, the tutu flaring — then settling to a soft finish.
+- 3.5–5.0s — Aira mirrors a small unconscious sway, a slow emotional blink, a tender smile.
+FLUIDITY & WEIGHT NOTES: the pirouette obeys perfect ballet physics — centre of gravity, spotting, tutu momentum, pointe-balance; Aira doesn't touch the dancer (the space between them is the respect); all motion eases.
+FABRIC/HAIR/PROP PHYSICS: the tutu flares with centrifugal momentum; the glow-particles drift outward with the spin; the floor doesn't creak (the dancer is still partly magic); Aira's curls and cashmere shift with her sway.
+FOOTWORK & BODY FLOW: the dancer's flawless pointe-work; Aira's small empathetic sway.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE PIROUETTE at 1.5–3.5s — the life-size dancer performs one perfect spin beside Aira, the magic at its full graceful bloom (the figurine fully alive and dancing).
+LIGHTING-IN-MOTION: the dancer's glow flares slightly at the peak of the spin, then settles.
+DIEGETIC AUDIO: the music-box melody at full beautiful volume (as if the room is the box); the soft swish of the tutu; the pointe-shoe touching down (a whisper-tap); Aira's held breath then gentle exhale; a faint glow-particle sparkle.
+MASTER TRACK: the full string-quartet plus a solo flute joins at the pirouette — the emotional peak.
+END STATE / STATE-MATCH LOCK (heavy detail — CLIP 4's START IMAGE must reproduce 100%, new angle only): at clip end the dancer finishes the pirouette and begins to shrink/return; Aira watches with a tender smile; the golden-hour bedroom around; cream sweater, honey curls. CLIP 4 must open in this EXACT state (dancer beginning to shrink, same bedroom, same wardrobe) — only the angle changes (to the close-up on Aira).
+CUT LOGIC: hard ANGLE-CUT to CLIP 4 (close-up on Aira's face). No motion-match; WORLD STATE matches 100%.
+
+---
+
+## CLIP 4 of 5 — CLOSE-UP (Aira) · FRONT · SLIGHT LOW ANGLE (opens dancer-shrinking = CLIP 3 end; tender goodbye)
+
+### START IMAGE (keyframe — dancer returning, reproduces CLIP 3's END STATE, new angle)
+ANGLE & SHOT SIZE: slight low-angle CLOSE-UP, Aira's face and shoulders, the shrinking glowing dancer a soft glow-shape to frame-left.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: the cream off-shoulder sweater at the bare shoulder — identical state.
+FOOTWEAR: out of frame.
+EYEWEAR: none.
+ACCESSORIES: pearl studs catching the glow, soft pink nails at her clasped hands below frame, pearl clip.
+HAIR: honey-gold ringlets framing the face, pearl clip, golden glow on every strand.
+MAKEUP: soft golden-hour glow, lit warm.
+HANDS & NAILS: her clasped hands loosening, one extending toward the shrinking dancer in a soft open-palm farewell; pink nails.
+FACIAL MICRO-DYNAMICS: bittersweet tenderness — eyes soft and slightly glistening (moved, not crying), lashes lowered halfway, the smile warm but fading to a gentle lip-press; a slow savouring blink — watching beauty return to its box.
+BODY POSTURE & WEIGHT: a gentle forward inclination, hand extending in farewell, breathing.
+KINETIC STILLNESS (8 layers): (1) the dancer shrinking and floating back in the bokeh; (2) the golden glow contracting; (3) a ringlet drifting; (4) the cashmere shifting at the shoulder; (5) chest rising; (6) fairy-lights twinkling; (7) glow-particles fading; (8) a slow emotional blink.
+SPATIAL LOGIC: FOREGROUND — soft golden bokeh. MIDGROUND — Aira's face, sharp. BACKGROUND — the shrinking dancer floating back to the box.
+LIGHTING: KEY — the fading dancer-glow as a warm diminishing key. FILL — golden-hour ambient. RIM — a soft gold edge on the curls. PRACTICAL — fairy-lights, the dancer's glow. SEPARATION — warm bokeh behind the face. BOUNCE — warm gold under the chin.
+LENS + DOF + BOKEH: 85mm, f/2.0; her face sharp, the shrinking dancer soft, glow as warm bokeh.
+COMPOSITION: vertical 9:16, her face right, the fading golden dancer-shape left, the tenderness the focal pull.
+SUBJECT FRAMING & POSITION: Aira is framed in a slightly low close-up, face and shoulders, front to lens, one hand extending in farewell. She sits right-of-centre with the shrinking dancer to frame-left. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: a tender goodbye — gratitude and gentle farewell.
+COLOUR GRADE: VIVID golden-hour — warm skin glowing, gold everywhere, pearl accents, pink echoes; tender and saturated. (Matches CLIP 3 END STATE, dimming.)
+TEXTURE & MICRO-DETAIL: glistening-eye detail, honey-gold ringlets, fading glow-particles, cashmere knit, pearl-stud gleam.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
+
+### ANIMATION (this clip, ~4s — tender goodbye as the dancer shrinks back)
+SHOT TYPE & ANGLE: slight low-angle close-up; face ~70% right-of-centre.
+CAMERA MOVEMENT (CHOREOGRAPHY): a static intimate hold — one continuous shot.
+LENS: 85mm, f/2.0, shallow.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–1.5s — she extends an open palm toward the shrinking dancer, a soft farewell.
+- 1.5–2.8s — she watches the dancer shrink and float back into the box — the slow goodbye blink.
+- 2.8–4.0s — eyes reopen softer, a gentle grateful smile.
+FLUIDITY & WEIGHT NOTES: the open-palm gesture is relaxed (offering, not grabbing); the goodbye blink is slow; all motion eases.
+FABRIC/HAIR/PROP PHYSICS: the dancer shrinks smoothly (a zoom-out applied to her), float-back on a gentle arc, settling on the pedestal with a tiny porcelain tap; the glow contracts; the lid begins to lower.
+FOOTWORK & BODY FLOW: a gentle forward inclination, hand extending then easing.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE RETURN at 1.5–3.5s — the dancer shrinks (glowing, graceful), floats back into the open music box, and settles onto the pedestal as the lid begins to lower; the magic recalled.
+LIGHTING-IN-MOTION: the golden glow contracts with the dancer, dimming; golden-hour ambient reasserts.
+DIEGETIC AUDIO: the music-box melody slowing (winding down); the soft shrinking (a gentle descending tone); the porcelain tap as she settles; the lid lowering (a soft creak); the mechanism stopping.
+MASTER TRACK: the strings thin to a solo cello/harp for the goodbye; the music-box motif slowing.
+END STATE / STATE-MATCH LOCK (heavy detail — CLIP 5's START IMAGE must reproduce 100%, then loop): at clip end the dancer has returned to the box and the lid is lowering; Aira gives a grateful tender smile; the golden-hour bedroom around; cream sweater, honey curls. CLIP 5 must open in this EXACT state then reset to the CLIP-1 wind-up — same bedroom, same wardrobe.
+CUT LOGIC: hard ANGLE-CUT to CLIP 5 (medium). No motion-match; state resets to CLIP 1.
+
+---
+
+## CLIP 5 of 5 — MEDIUM · THREE-QUARTER FRONT · EYE-LEVEL (box closed; reset → loop to CLIP 1)
+
+### START IMAGE (keyframe — reproduces CLIP 1's opening)
+ANGLE & SHOT SIZE: eye-level MEDIUM, waist-up, three-quarter, seated by the side-table, the music box closed again, her hand returning toward the brass key — the opening restored.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: the cream cashmere off-shoulder sweater, cream lounge trousers — matched to CLIP 1.
+FOOTWEAR: out of frame (barefoot, gold anklet).
+EYEWEAR: none.
+ACCESSORIES: the closed music box on the side-table, pearl studs, pearl bracelet, pink nails, pearl clip — matched.
+HAIR: soft honey-gold ringlet curls, pearl clip — matched to CLIP 1.
+MAKEUP: soft golden-hour glow — matched.
+HANDS & NAILS: her right hand returning toward the winding key, the left near the box — matched to CLIP 1.
+FACIAL MICRO-DYNAMICS: tender anticipation returning — eyes soft on the box, the gentle affectionate smile — the exact opening face.
+BODY POSTURE & WEIGHT: a relaxed seated lean toward the side-table — mirror of CLIP 1.
+KINETIC STILLNESS (8 layers): (1) gauzy curtains glowing and breathing; (2) fairy-lights twinkling; (3) a ringlet drifting; (4) the cashmere shifting; (5) chest rising; (6) peonies stirring; (7) a dust-mote in the golden light; (8) a slow eyelash settle — matched to CLIP 1.
+SPATIAL LOGIC: FOREGROUND — the closed music box. MIDGROUND — Aira seated. BACKGROUND — the dreamy golden-hour bedroom — matched to CLIP 1.
+LIGHTING: KEY — warm golden-hour through gauzy curtains. FILL — warm bounce. RIM — gold edge on curls and shoulder. PRACTICAL — fairy-lights. SEPARATION — glowing curtains behind. BOUNCE — warm gold under the chin — matched to CLIP 1.
+LENS + DOF + BOKEH: 50mm, f/2.8 — matched to CLIP 1.
+COMPOSITION: vertical 9:16, Aira left-third seated, the closed box centre-right — identical to CLIP 1 so the reel loops.
+SUBJECT FRAMING & POSITION: Aira reads waist-up in a three-quarter front lean toward the side-table, face near-front, hand returning to the key, the closed box the focal point. The camera holds the identical medium distance at seated eye level; she anchors left-third with the box centre-right — exactly rhyming with CLIP 1 so the loop is seamless. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: the dreamy golden-hour bedroom at rest — ready to wind the box again.
+COLOUR GRADE: VIVID golden-hour — warm gold, cream, pale-pink peonies, honey curls — matched to CLIP 1.
+TEXTURE & MICRO-DETAIL: cashmere knit, rosewood grain, mother-of-pearl, brass-key gleam, ringlet detail, pearl-clip sheen, pink nails — matched.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
+
+### ANIMATION (this clip, ~4s — reset; loop close)
+SHOT TYPE & ANGLE: eye-level medium, three-quarter front; subject ~50% left-third — matched to CLIP 1.
+CAMERA MOVEMENT (CHOREOGRAPHY): a gentle settle to the exact CLIP-1 establishing framing.
+LENS: 50mm, f/2.8 — matched.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–1.5s — the box lid finishes lowering and clicks shut; she settles back, the grateful smile softening to affection.
+- 1.5–2.8s — her hand drifts back toward the winding key.
+- 2.8–4.0s — tender anticipation returns — the exact CLIP-1 opening pose, ready to wind again.
+FLUIDITY & WEIGHT NOTES: the lid clicks shut with a soft hinge-settle; the hand returns to the key; everything eases to rest.
+FABRIC/HAIR/PROP PHYSICS: the box closes with a soft click; curls and cashmere settle to the opening drape; curtains breathe.
+FOOTWORK & BODY FLOW: a relaxed seated settle, the CLIP-1 lean.
+MID-CLIP TRANSFORMATION (timed): the figurine is back on its pedestal, the box closed; the next loop re-triggers the dancer when she next winds the key (the start of CLIP 1).
+LIGHTING-IN-MOTION: golden-hour steady — matched to CLIP 1.
+DIEGETIC AUDIO: the lid clicking shut; the mechanism stopping; golden-hour room-tone; curtain rustle; her content breath — back to the CLIP-1 bed.
+MASTER TRACK: the solo music-box motif closes, looping cleanly to the opening.
+END STATE / STATE-MATCH LOCK: clip ends in the EXACT closed-box state and three-quarter angle of CLIP 1's START IMAGE — bedroom, wardrobe and tender-anticipation expression matched, so the reel loops seamlessly.
+CUT LOGIC: ANGLE-CUT / LOOP back to CLIP 1; the next pass re-triggers the dancer when she winds the key.
+
+### ☆ EXTERNAL AUDIO — BLOCK 1: BACKGROUND SOUND DESIGN / AMBIENCE BED — C-4
+*The layered foley + ambience to lay UNDER the reel, separate from the in-clip diegetic audio — timed to the clips.*
+- Base bed (all clips): a soft golden-hour bedroom room-tone; a gentle warm breeze in the gauzy curtains; a faint fairy-light electrical twinkle; a distant birdsong.
+- Trigger stamp (the wind): a satisfying ratchet-click-click-click on the wind-up (CLIP 1) and a soft lid-click on the close (CLIP 5).
+- CLIP 1–2 (wake/step-off): a delicate music-box melody beginning; an aged-hinge lid-creak; a tiny porcelain "click" as the foot leaves; a soft magical chime-swell.
+- CLIP 3 (pirouette): the music-box melody at full volume; the soft tutu-swish; a whisper-tap pointe-shoe; a glow-particle sparkle.
+- CLIP 4 (goodbye): the melody slowing/winding down; a gentle descending shrink-tone; a porcelain settle-tap; the lid lowering.
+- CLIP 5 (reset): the lid clicking shut; the mechanism stopping — back to the CLIP-1 bed.
+- Mix note: the music-box melody IS the signature sonic brand — identical each loop, 8 memorable notes; keep delicate; loops cleanly at ~22s.
+
+### ☆ EXTERNAL AUDIO — BLOCK 2: BACKGROUND MUSIC / SCORE TRACK — C-4 (lay under the sound bed)
+- Genre / vibe: a delicate, emotional orchestral miniature — a Studio-Ghibli-score moment; tender, beautiful, slightly melancholic warmth.
+- Tempo / key: ~60 BPM, G major, gentle waltz-time (3/4).
+- Core elements: a solo music-box motif (the actual prop tune — 8 memorable notes, the series theme); a building warm string-quartet; a solo flute joining at the pirouette; a soft harp for the goodbye; returns to solo music-box.
+- Arc: music-box solo (CLIP 1, winding) → strings enter as the figurine grows (CLIP 2) → full quartet + flute at the pirouette (CLIP 3, the emotional peak) → strings thin to solo cello/harp at the goodbye (CLIP 4) → music-box solo returns on the loop (CLIP 5).
+- Texture note: the 8-note music-box motif MUST be identical each loop — the sonic signature of this recurring object.
+- Loop: a clean ~22s loop matching the visual loop point.
+
+---
+
+# CONCEPT C-5 — THE SNOW GLOBE SHAKES ITSELF
+
+Title: Recurring-Object Hero — an antique snow globe that shakes itself and snows into the real room.
+Category / Format: Cosy magical-realism series reel (mountain cabin at evening) · SILENT (diegetic + score only) · CLIP-CHAIN, ANGLE-CUT edit · SINGLE-MAGIC (the globe self-animates and snow escapes into the room; settles back; cosy, series-building hook — "it starts on its own when the time is right").
+Story Idea: In a cosy cabin, the moment Aira finally settles with her cocoa, a large antique snow globe on the shelf shakes ITSELF — the alpine scene inside comes alive, and real snow drifts out through the glass to fill the room. She bathes in the indoor snowfall, then it settles and the globe stills.
+Setting: a cosy mountain cabin at evening — dark wood walls, a crackling stone fireplace, thick knit throws on a leather armchair, tall bookshelves, frosted windows showing a snowy night, warm lighting; the antique snow globe (brass-based, a tiny alpine village inside) prominent on a high shelf.
+Wardrobe: an oversized oatmeal cable-knit sweater dress reaching mid-thigh, a thin brown leather belt; modest, cosy.
+Footwear: thick cream wool socks (no shoes) on dark wood — constant.
+Eyewear: none.
+Accessories: the antique snow globe (THE recurring object), small gold stud earrings, a simple gold band ring, warm nude glossy nails, a white cocoa mug, a thin gold thread in the braid.
+Hair: a thick loose fishtail braid draped over one shoulder, dark espresso-brown, ends tied with a thin gold thread — constant.
+Makeup: warm cosy glow — luminous skin, soft warm lip, real pores, a faint cold-flush at the cheeks when the snow comes.
+Hero Movement / Impossible Move: the snow globe shakes itself, its scene comes alive, and real snow drifts out through the glass into the cabin, then settles.
+Transformation Trigger (signature, consistent): HER SETTLING INTO COSY STILLNESS — the moment Aira finally relaxes and sips her cocoa, the globe responds and shakes itself ("it starts on its own when the time is right"); when she sips again at the end, the snow settles. The object self-animates in answer to her calm — the series' signature beat.
+Mood: COSY MAGIC / CURIOSITY — hygge-meets-Narnia, warm and wondrous.
+Grade: VIVID cosy — saturated warm amber firelight + oatmeal + dark wood + cool blue frosted-window + the globe's tiny internal glow + white snow; cosy but vivid, full mid-tone.
+Duration: ~22 seconds · 5 clips (angle-cut chain).
+Voice: SILENT — diegetic cabin + a cosy winter-shimmer score.
+Identity safety: AIRA adult; wardrobe modest; mood cosy and elegant, never sexualized.
+State chain (angle-cut): CLIP 1 wide [sips cocoa, settles → ★ globe SHAKES itself] → CUT → CLIP 2 over-shoulder [snow phases out of the globe into the room] → CUT → CLIP 3 full-body hero [indoor snowfall, she bathes in it] → CUT → CLIP 4 close-up profile [catches a flake, snow thinning] → CUT → CLIP 5 wide [globe still, room reset, cocoa = CLIP 1, loop].
+
+---
+
+## CLIP 1 of 5 — WIDE · THREE-QUARTER FRONT · EYE-LEVEL (cabin; ★ her settling shakes the globe itself)
+
+### START IMAGE (keyframe — cosy cabin, globe still)
+ANGLE & SHOT SIZE: eye-level WIDE; Aira full body standing mid-cabin with a cocoa mug, the antique snow globe on a high shelf behind her upper-left, fireplace glowing.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: the oversized oatmeal cable-knit sweater dress, mid-thigh, a thin brown leather belt at the waist; chunky and cosy.
+FOOTWEAR: thick cream wool socks on dark wood, padding softly.
+EYEWEAR: none.
+ACCESSORIES: small gold studs, a simple gold band ring, warm nude glossy nails, a white cocoa mug in both hands; the snow globe (brass-based, tiny alpine village) on the high shelf.
+HAIR: a thick loose fishtail braid over the right shoulder, dark espresso-brown, a thin gold thread at the end.
+MAKEUP: warm cosy glow — luminous skin, soft warm lip, real pores.
+HANDS & NAILS: both hands wrapping the cocoa mug (a heat-seeking grip), steam rising; warm nude glossy nails.
+FACIAL MICRO-DYNAMICS: cosy contentment — eyes soft and unfocused (daydreaming), a gentle warm smile behind the mug she's about to sip, brow relaxed, completely at peace.
+BODY POSTURE & WEIGHT: a relaxed mid-room stand, weight settled, shoulders soft, cradling the mug, breathing.
+KINETIC STILLNESS (8 layers): (1) the fireplace flames crackling and dancing; (2) cocoa steam rising in slow curls; (3) a loose braid-wisp drifting; (4) the cable-knit shifting; (5) chest rising; (6) frost feathering at the window edges; (7) a knit throw settling on the armchair; (8) a slow content blink.
+SPATIAL LOGIC: FOREGROUND — Aira with the cocoa mug, sharp. MIDGROUND — the cosy cabin room. BACKGROUND — the snow globe on the high shelf (upper-left), the frosted snowy window.
+LIGHTING: KEY — warm fireplace amber (flickering). FILL — soft lamp warmth. RIM — cool blue frosted-window light on her braid and shoulder. PRACTICAL — fireplace, a shelf-lamp spotlighting the globe, the globe's tiny internal glow. SEPARATION — warm figure against the cool window. BOUNCE — warm amber under the chin.
+LENS + DOF + BOKEH: 35mm, f/4, deep; the cosy cabin legible, the globe catching its shelf-spotlight.
+COMPOSITION: vertical 9:16, Aira right-third with the cocoa, the snow globe upper-left on the shelf (the eye travels to it), the fireplace filling centre behind.
+SUBJECT FRAMING & POSITION: Aira reads as a complete full-length figure mid-cabin, framed head-to-socks, her torso in a gentle three-quarter so her face is near-front while she cradles the cocoa, the globe visible on the shelf behind. The camera holds a wide establishing distance at eye level; she anchors the right-third with the globe upper-left. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: deep cosy cabin warmth, the hush of a snowy evening — the calm before the globe wakes.
+COLOUR GRADE: VIVID cosy — saturated warm amber + oatmeal + dark wood + cool blue frosted-window + the globe's tiny glow; cosy but vivid, full mid-tone.
+TEXTURE & MICRO-DETAIL: chunky cable-knit, dark-wood grain, brass-globe base, frost-feathering on glass, espresso braid with gold thread, cocoa steam, nude nail gloss.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
+
+### ANIMATION (this clip, ~4s — ★ her settling shakes the globe itself)
+SHOT TYPE & ANGLE: eye-level wide, three-quarter front; subject ~45% right-third.
+CAMERA MOVEMENT (CHOREOGRAPHY): a slow static-to-push-in hold — one continuous shot.
+LENS: 35mm, f/4, deep.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–1.5s — she lifts the mug for a slow sip, eyes closing in cosy contentment.
+- 1.5–2.5s — ★ TRIGGER: she lowers the mug and settles fully into stillness — and on her calm, the snow globe on the shelf begins to VIBRATE and SHAKE itself.
+- 2.5–4.0s — snow swirls inside the globe; its tiny village lights ignite; she opens her eyes to the sound, intrigued.
+FLUIDITY & WEIGHT NOTES: the sip is savouring; the globe self-shakes (no hand touches it); her turn toward it is gentle; all motion eases.
+FABRIC/HAIR/PROP PHYSICS: the globe vibrates with correct heavy-brass-on-shelf wobble; the internal snow swirls with realistic water-globe physics; the braid sways as she turns; cocoa steam curls.
+FOOTWORK & BODY FLOW: a relaxed mid-room settle, then a gentle turn toward the shelf.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE SELF-SHAKE at 1.5–3.0s — triggered by her settling into cosy stillness, the globe vibrates and shakes itself, the internal snow swirling and the tiny village lights igniting; the object self-animating "when the time is right".
+LIGHTING-IN-MOTION: warm fireplace steady; the globe's internal village-lights igniting as warm pinpoints on the shelf.
+DIEGETIC AUDIO: the fireplace crackle; a cocoa sip; the globe's rattle-vibrate (a soft brass-on-wood); the internal snow-swirl (a muffled whoosh); her surprised "hmm?"; the tiny lights igniting (a soft chime).
+MASTER TRACK: a soft solo-piano "globe theme" (6 cosy notes) + fireplace-crackle texture; a celeste shimmer entering on the self-shake.
+END STATE / STATE-MATCH LOCK (heavy detail — CLIP 2's START IMAGE must reproduce 100%, new angle only): at clip end the globe is actively shaking itself on the shelf, snow swirling inside, tiny village-lights blazing; the cosy cabin around; oatmeal sweater, espresso braid. CLIP 2 must open in this EXACT state (same shaking globe, same swirling snow, same cabin, same wardrobe) — only the camera angle changes.
+CUT LOGIC: hard ANGLE-CUT to CLIP 2 (over-the-shoulder at the shelf). No motion-match; WORLD STATE matches 100%.
+
+---
+
+## CLIP 2 of 5 — MEDIUM · OVER-THE-SHOULDER · EYE-LEVEL (opens shaking-globe = CLIP 1 end; ★ snow phases out into the room)
+
+### START IMAGE (keyframe — globe shaking, reproduces CLIP 1's END STATE, new angle)
+ANGLE & SHOT SIZE: eye-level MEDIUM over-the-shoulder from behind her right shoulder, the actively-shaking glowing globe sharp on the shelf beyond.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: the oatmeal cable-knit dress from behind, belt at the back — identical state.
+FOOTWEAR: out of frame.
+EYEWEAR: none.
+ACCESSORIES: gold studs at the jaw-line; the snow globe shaking on the shelf, snow swirling, village-lights blazing; nude nails.
+HAIR: the fishtail braid from behind, gold thread, catching firelight.
+MAKEUP: warm cosy glow.
+HANDS & NAILS: the cocoa mug lowered in one hand; the other beginning to reach toward the shelf; nude nails.
+FACIAL MICRO-DYNAMICS: (cheek-profile glimpsed) soft wonder, lips parted, eyes on the globe and the first escaping flakes.
+BODY POSTURE & WEIGHT: a gentle forward lean toward the shelf, weight settling onto the front foot, breathing.
+KINETIC STILLNESS (8 layers): (1) the globe shaking, snow swirling violently inside; (2) the tiny village alive (lights, chimney-smoke, swaying trees); (3) the first snowflakes PHASING THROUGH the glass into the room; (4) the braid swaying; (5) chest rising; (6) firelight dancing on the dark wood; (7) the village-light casting warm spots on the shelf; (8) a slow wondering blink.
+SPATIAL LOGIC: FOREGROUND — her shoulder and braid, soft. MIDGROUND — the shaking glowing globe, sharp. BACKGROUND — the cosy cabin, frosted window.
+LIGHTING: KEY — the globe's internal village-lights (warm) + firelight. FILL — warm cabin ambient. RIM — cool window-light on the braid. PRACTICAL — the globe, fireplace, shelf-lamp. SEPARATION — the bright glowing globe against the dark shelf. BOUNCE — warm firelight on her back.
+LENS + DOF + BOKEH: 50mm, f/2.8; her shoulder soft foreground, the shaking globe and escaping flakes sharp, the cabin in warm bokeh.
+COMPOSITION: vertical 9:16, over-the-shoulder — her shoulder/braid anchoring lower-left, the blazing shaking globe centre-right, snowflakes beginning to fill the air between.
+SUBJECT FRAMING & POSITION: Aira is seen from behind/over her right shoulder, framed waist-up so her back and braid fill the soft near-foreground while the shaking glowing globe sits sharp on the shelf beyond. Her torso leans toward the shelf. The camera is close behind at eye level; she anchors lower-left, the globe centre-right. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: cosy wonder as the globe's magic begins to spill into the real room.
+COLOUR GRADE: VIVID cosy — warm village-glow + amber firelight + escaping white snow + cool blue window; the cold-into-warm contrast vivid. (Matches CLIP 1 END STATE.)
+TEXTURE & MICRO-DETAIL: the globe's swirling snow and tiny alive village, phasing snowflakes with crystal structure, the braid's gold thread, dark-wood grain, firelight dance.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
+
+### ANIMATION (this clip, ~4s — ★ snow phases out of the globe into the room)
+SHOT TYPE & ANGLE: eye-level medium over-the-shoulder; her back ~45% lower-left, globe centre-right.
+CAMERA MOVEMENT (CHOREOGRAPHY): a gentle arc around her shoulder, revealing the escaping snow — one continuous shot.
+LENS: 50mm, f/2.8, shallow.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–1.5s — she steps closer to the shelf, reaching up.
+- 1.5–2.8s — snowflakes phase THROUGH the globe's glass in increasing numbers, drifting into the real room; her hand passes through them — feeling them.
+- 2.8–4.0s — a delighted gasp-laugh as real flakes land on her palm.
+FLUIDITY & WEIGHT NOTES: the reach is gentle; the flakes phase through glass like ghosts (no break) then obey normal gravity in the room; all motion eases.
+FABRIC/HAIR/PROP PHYSICS: snowflakes phase through the glass seamlessly, then drift with real snow-physics in the room; her hand touching them creates tiny melts; the globe's internal snow still swirls; the braid sways.
+FOOTWORK & BODY FLOW: a step toward the shelf, weight forward.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE ESCAPE at 1.5–3.5s — triggered by the self-shaking globe, real crystalline snowflakes phase out through the glass into the cabin in increasing numbers, drifting and catching firelight; the magic spilling into the room.
+LIGHTING-IN-MOTION: each escaping snowflake catches firelight individually — tiny golden glints filling the air.
+DIEGETIC AUDIO: the muffled globe-swirl; snowflakes entering the room (a soft crystalline tinkling); the fireplace crackle; a faint icy-breeze sound; her delighted gasp-laugh.
+MASTER TRACK: the solo piano gains a celeste/glockenspiel snowfall-shimmer.
+END STATE / STATE-MATCH LOCK (heavy detail — CLIP 3's START IMAGE must reproduce 100%, new angle only): at clip end snow is drifting freely into the cabin from the globe, catching firelight, the globe blazing on the shelf; the cosy cabin around; oatmeal sweater, espresso braid. CLIP 3 must open in this EXACT state (same indoor snowfall beginning, same globe, same cabin, same wardrobe) — only the angle changes (to the full-body hero).
+CUT LOGIC: hard ANGLE-CUT to CLIP 3 (full-body hero). No motion-match; WORLD STATE matches 100%.
+
+---
+
+## CLIP 3 of 5 — FULL BODY · FRONT · LOW-ANGLE HERO (opens indoor-snow = CLIP 2 end; ★ she bathes in the indoor snowfall)
+
+### START IMAGE (keyframe — indoor snowfall, reproduces CLIP 2's END STATE, new angle)
+ANGLE & SHOT SIZE: low-angle HERO, FULL BODY, the cabin room filled with gently drifting snow, Aira bathing in it.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: the oatmeal cable-knit sweater dress, belt, with a fine snow-dusting on the shoulders — identical state.
+FOOTWEAR: cream wool socks on dark wood, a thin snow-dusting on the floor around her feet.
+EYEWEAR: none.
+ACCESSORIES: gold studs with tiny snow-crystals caught, the gold ring, nude nails — snow decorating her like nature's jewelry.
+HAIR: the fishtail braid with snowflakes caught in it, espresso-brown against white, gold thread.
+MAKEUP: warm cosy glow with a faint cold-flush at the cheeks.
+HANDS & NAILS: arms slightly open, palms up, catching snowflakes; nude nails.
+FACIAL MICRO-DYNAMICS: joyful surrender — eyes closed, face tilted up into the snowfall, a broad warm smile, snowflakes landing on her lashes and cheeks; pure bliss.
+BODY POSTURE & WEIGHT: a grounded heroic stance, arms slightly open, face up, weight even, spine long, breathing.
+KINETIC STILLNESS (8 layers): (1) a full indoor snowfall drifting softly through the room; (2) the fireplace still crackling (fire and snow coexisting); (3) the globe blazing on the shelf; (4) snow dusting every surface; (5) chest rising on a blissful breath; (6) snow landing on her palms and braid; (7) the frosted window glowing cool behind; (8) a snowflake melting on a lash.
+SPATIAL LOGIC: FOREGROUND — drifting snowflakes nearest lens. MIDGROUND — Aira bathing in the snow. BACKGROUND — the cabin filled with snow, fireplace, glowing globe.
+LIGHTING: KEY — the globe's glow + fireplace amber + each snowflake as a tiny golden light-point = a room full of floating warm stars. FILL — warm cabin ambient. RIM — cool window-light edge. PRACTICAL — fireplace, globe, snow-glints. SEPARATION — bright snow-canopy above the figure. BOUNCE — warm firelight uplight.
+LENS + DOF + BOKEH: 28mm low and wide for grandeur, f/3.2; Aira sharp, the snowfall a canopy of golden bokeh-stars above.
+COMPOSITION: vertical 9:16, Aira centre bathing in snow, fireplace behind, the glowing globe above-left — she IS inside a snow globe now.
+SUBJECT FRAMING & POSITION: Aira reads as a complete full-length figure from a low angle, arms open, face up, framed head-to-socks with a dusting of snow on the floor. The camera is mid-distance and low for grandeur; she anchors centre with the snowfall filling the frame around her. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: cosy magic at its peak — being inside a living snow globe.
+COLOUR GRADE: VIVID cosy magic — warm amber + white snow + oatmeal + golden flake-glints; like standing inside a glowing snow globe. (Matches CLIP 2 END STATE.)
+TEXTURE & MICRO-DETAIL: individual snowflakes with crystal structure, snow-dusting on the cable-knit and braid, cold-flush skin, firelight-glints on flakes, dark-wood floor with snow.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
+
+### ANIMATION (this clip, ~5s — ★ she bathes in the indoor snowfall)
+SHOT TYPE & ANGLE: low-angle hero, full body; subject ~60% centre.
+CAMERA MOVEMENT (CHOREOGRAPHY): a slow crane-down to the low hero angle, holding — one continuous shot.
+LENS: 28mm, f/3.2, low and wide.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–1.5s — she opens her arms and tilts her face up into the snowfall.
+- 1.5–3.5s — a slow quarter-turn on the spot, eyes closed, bathing in it, snow landing on her.
+- 3.5–5.0s — a joyful laugh-exhale, catching a flake on her tongue.
+FLUIDITY & WEIGHT NOTES: the arm-opening is a surrender; the spin is slow and blissful; all motion eases.
+FABRIC/HAIR/PROP PHYSICS: snow obeys correct drift-speed and accumulation; her spin creates a micro-vortex swirling nearby flakes; the fire's heat creates a snow-free bubble directly above it (realistic convection); the braid lifts with the spin; snow lands on her with tiny-weight contact.
+FOOTWORK & BODY FLOW: a grounded slow spin, socks on the snow-dusted floor.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE SNOWFALL at 0.0–4.0s — the indoor snowfall at full intensity, filling the room, dusting every surface, the fire coexisting, the globe pulsing — the magic at its cosy peak.
+LIGHTING-IN-MOTION: the low angle makes the snowfall read as a canopy of golden stars above her.
+DIEGETIC AUDIO: the full indoor snowfall (a soft crystalline ambient, like gentle static); the fireplace crackling; the globe humming; her joyful laugh; the tiny patter of snow accumulating; a wind-chime quality to the flakes.
+MASTER TRACK: full warm strings + glockenspiel shimmer — the cosy emotional peak.
+END STATE / STATE-MATCH LOCK (heavy detail — CLIP 4's START IMAGE must reproduce 100%, new angle only): at clip end the room is full of drifting snow at its peak, Aira mid-bliss with snow on her lashes and braid; the globe blazing; cosy cabin around; oatmeal sweater. CLIP 4 must open in this EXACT state (same snowfall, same wardrobe) then the snow begins to thin within CLIP 4.
+CUT LOGIC: hard ANGLE-CUT to CLIP 4 (close-up profile). No motion-match; WORLD STATE matches 100%.
+
+---
+
+## CLIP 4 of 5 — CLOSE-UP · FULL PROFILE · EYE-LEVEL (opens peak-snow = CLIP 3 end; catches a flake, snow thins)
+
+### START IMAGE (keyframe — snow thinning, reproduces CLIP 3's END STATE, new angle)
+ANGLE & SHOT SIZE: eye-level CLOSE-UP, face in profile, the snowfall thinning on the right as it begins to recede.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: the oatmeal sweater shoulder dusted white — identical state.
+FOOTWEAR: out of frame.
+EYEWEAR: none.
+ACCESSORIES: a gold stud visible, snowflakes on lashes and brow like natural jewelry, gold thread in the braid.
+HAIR: the fishtail braid and loose wisps dusted with snow-crystals, gold thread.
+MAKEUP: warm cosy glow with a cold-flush, snow-crystals on the lashes.
+HANDS & NAILS: one hand rising to catch a final falling flake, fingertips extended; nude nails.
+FACIAL MICRO-DYNAMICS: gentle contentment fading to peace — eyes open now (having been closed in bliss), watching the last flakes with soft focus, lashes holding tiny crystals, the smile softening to a private tender curve; a slow exhale visible as a warm breath-cloud in the cooling air.
+BODY POSTURE & WEIGHT: an upright profile, hand rising to a flake, weight centred, breathing.
+KINETIC STILLNESS (8 layers): (1) the snowfall slowing, fewer flakes; (2) the globe's light dimming on the shelf; (3) a snow-dusted braid-wisp; (4) the sweater shoulder dusted; (5) chest rising on a breath-cloud; (6) firelight reasserting warm; (7) the last flakes drifting; (8) a slow peaceful blink.
+SPATIAL LOGIC: FOREGROUND — a falling flake near her fingertip, sharp. MIDGROUND — her profile. BACKGROUND — the thinning snow and warm cabin in soft bokeh.
+LIGHTING: KEY — warm firelight reasserting on her profile as the snow thins. FILL — cool window-light. RIM — a warm fire-edge on the braid. PRACTICAL — fireplace, dimming globe. SEPARATION — warm profile against the cooling room. BOUNCE — warm firelight under the jaw.
+LENS + DOF + BOKEH: 85mm, f/2.0; her profile and the last flake sharp, the clearing room soft.
+COMPOSITION: vertical 9:16, her profile left, the thinning snow right — the magic receding.
+SUBJECT FRAMING & POSITION: Aira is shown in a profile close-up, face filling the frame, one hand rising to a final flake. She sits left-of-centre with the thinning snow to frame-right. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: a tender contentment as the snow gently recedes — "that was enough".
+COLOUR GRADE: VIVID cosy — warm skin with snow-crystals, the thinning snow against warm bokeh, the cold-flush. (Matches CLIP 3 END STATE, thinning.)
+TEXTURE & MICRO-DETAIL: snow-crystals on lashes and brow, breath-cloud vapour, snow-dusted braid, cold-flush skin, firelight on the profile.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
+
+### ANIMATION (this clip, ~4s — catches a flake, snow thins)
+SHOT TYPE & ANGLE: eye-level close-up profile; face ~70% left-of-centre.
+CAMERA MOVEMENT (CHOREOGRAPHY): a static intimate hold — one continuous shot.
+LENS: 85mm, f/2.0, shallow.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–1.5s — she watches the snow thin, hand rising, a warm breath-cloud.
+- 1.5–2.8s — one last flake lands on her fingertip; she closes her hand around it softly (it melts inside her fist).
+- 2.8–4.0s — a satisfied blink and gentle smile as the room clears.
+FLUIDITY & WEIGHT NOTES: the last flakes fall extra-slowly (time-stretch feel); the hand-close is gentle; all motion eases.
+FABRIC/HAIR/PROP PHYSICS: the last flake lands with weightless contact then melts in her fist; the vanishing snow on surfaces dissolves impossibly fast (surfaces dry); her breath-cloud is real.
+FOOTWORK & BODY FLOW: an upright, gentle stillness.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE SETTLE at 1.5–3.5s — the snowfall slows to a stop, the last flakes drift, the globe's light dims, and the accumulated snow on surfaces fades (melting impossibly fast); the magic gently receding.
+LIGHTING-IN-MOTION: the globe's glow dims to its resting state; firelight reasserts as primary.
+DIEGETIC AUDIO: the snowfall fading to silence; the last flake landing (a tiny "tink"); the fire reasserting; the globe settling (a soft brass-settle); her satisfied exhale.
+MASTER TRACK: the strings thin to solo piano + a last celeste shimmer.
+END STATE / STATE-MATCH LOCK (heavy detail — CLIP 5's START IMAGE must reproduce 100%, then loop): at clip end the snow has stopped, the room clearing, the globe dimming to rest; Aira peaceful with a gentle smile; cosy cabin around; oatmeal sweater, espresso braid. CLIP 5 must open in this EXACT state then reset to the CLIP-1 cocoa-cradle — same cabin, same wardrobe (snow gone).
+CUT LOGIC: hard ANGLE-CUT to CLIP 5 (wide). No motion-match; state resets to CLIP 1.
+
+---
+
+## CLIP 5 of 5 — WIDE · THREE-QUARTER FRONT · EYE-LEVEL (globe still; reset → loop to CLIP 1)
+
+### START IMAGE (keyframe — reproduces CLIP 1's opening)
+ANGLE & SHOT SIZE: eye-level WIDE; Aira full body mid-cabin cradling the cocoa mug, the snow globe still and dark on the shelf — the cabin at rest, the opening restored.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: the oatmeal cable-knit sweater dress, brown belt — matched to CLIP 1 (snow gone).
+FOOTWEAR: cream wool socks — matched.
+EYEWEAR: none.
+ACCESSORIES: the still-and-dark snow globe on the shelf, gold studs, gold ring, nude nails, the white cocoa mug, gold thread in the braid — matched.
+HAIR: a thick loose fishtail braid over the right shoulder, espresso-brown, gold thread — matched to CLIP 1.
+MAKEUP: warm cosy glow — matched.
+HANDS & NAILS: both hands cradling the cocoa mug (heat-seeking grip), steam rising — matched to CLIP 1.
+FACIAL MICRO-DYNAMICS: cosy contentment returning — eyes soft and unfocused (daydream), the gentle warm smile — the exact opening face.
+BODY POSTURE & WEIGHT: a relaxed mid-room stand, weight settled, cradling the mug — mirror of CLIP 1.
+KINETIC STILLNESS (8 layers): (1) fireplace flames crackling; (2) cocoa steam rising; (3) a braid-wisp drifting; (4) the cable-knit shifting; (5) chest rising; (6) frost at the window edges; (7) a knit throw on the armchair; (8) a slow content blink — matched to CLIP 1.
+SPATIAL LOGIC: FOREGROUND — Aira with the cocoa mug. MIDGROUND — the cosy cabin. BACKGROUND — the still globe on the shelf, frosted window — matched to CLIP 1.
+LIGHTING: KEY — warm fireplace amber. FILL — soft lamp warmth. RIM — cool window-light on the braid. PRACTICAL — fireplace, shelf-lamp, the globe (now dark). SEPARATION — warm figure against the cool window. BOUNCE — warm amber under the chin — matched to CLIP 1.
+LENS + DOF + BOKEH: 35mm, f/4 — matched to CLIP 1.
+COMPOSITION: vertical 9:16, Aira right-third with the cocoa, the still globe upper-left, the fireplace centre — identical to CLIP 1 so the reel loops.
+SUBJECT FRAMING & POSITION: Aira reads as a complete full-length figure mid-cabin, framed head-to-socks, torso in the same gentle three-quarter, face near-front, cradling the cocoa, the globe on the shelf behind. The camera holds the identical wide establishing distance at eye level; she anchors the right-third with the globe upper-left — exactly rhyming with CLIP 1 so the loop is seamless. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: deep cosy cabin warmth at rest — ready for the globe to wake again.
+COLOUR GRADE: VIVID cosy — warm amber, oatmeal, dark wood, cool blue window, the globe's faint resting glow — matched to CLIP 1.
+TEXTURE & MICRO-DETAIL: cable-knit, dark-wood grain, brass-globe base, frost-feathering, espresso braid with gold thread, cocoa steam, nude nails — matched.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
+
+### ANIMATION (this clip, ~4s — reset; loop close)
+SHOT TYPE & ANGLE: eye-level wide, three-quarter front; subject ~45% right-third — matched to CLIP 1.
+CAMERA MOVEMENT (CHOREOGRAPHY): a gentle settle to the exact CLIP-1 establishing framing.
+LENS: 35mm, f/4 — matched.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–1.5s — the cabin clears fully; she lifts the cocoa for another slow sip, the globe still and dark.
+- 1.5–2.8s — she lowers the mug and settles into the opening daydream stillness.
+- 2.8–4.0s — the cosy content smile returns — the exact CLIP-1 opening pose, ready for the globe to wake again.
+FLUIDITY & WEIGHT NOTES: the sip is savouring; the settle eases into the opening; everything returns to rest.
+FABRIC/HAIR/PROP PHYSICS: mug weight, braid drape, cocoa steam — all matched to CLIP 1; the globe still and dark.
+FOOTWORK & BODY FLOW: a relaxed mid-room settle, the CLIP-1 stand.
+MID-CLIP TRANSFORMATION (timed): the cabin RESETS, the globe still and dark; the next loop re-triggers the self-shake when she next settles into cosy stillness (the start of CLIP 1).
+LIGHTING-IN-MOTION: fireplace steady — matched to CLIP 1.
+DIEGETIC AUDIO: fireplace crackle; wind outside; cocoa steam; her content breath — back to the CLIP-1 bed.
+MASTER TRACK: the solo-piano "globe theme" + fire-crackle settles, looping cleanly.
+END STATE / STATE-MATCH LOCK: clip ends in the EXACT cocoa-cradle state and wide angle of CLIP 1's START IMAGE — still globe, cabin, wardrobe and content expression matched, so the reel loops seamlessly.
+CUT LOGIC: ANGLE-CUT / LOOP back to CLIP 1; the next pass re-triggers the globe's self-shake when she settles.
+
+### ☆ EXTERNAL AUDIO — BLOCK 1: BACKGROUND SOUND DESIGN / AMBIENCE BED — C-5
+*The layered foley + ambience to lay UNDER the reel, separate from the in-clip diegetic audio — timed to the clips.*
+- Base bed (all clips): a deep cosy cabin room-tone; a crackling fireplace throughout; a faint wind outside the frosted windows.
+- Trigger stamp (self-shake): a soft brass-on-wood globe rattle-vibrate on the self-shake (CLIP 1) and a soft brass-settle on the close (CLIP 5).
+- CLIP 1–2 (shake/escape): a muffled internal snow-swirl whoosh; tiny village-light ignition chimes; snowflakes entering the room (a soft crystalline tinkling); a faint icy breeze.
+- CLIP 3 (snowfall): the full indoor snowfall (a soft crystalline ambient, like gentle static); the fire crackling through it; the globe humming; a happy laugh.
+- CLIP 4 (settle): the snowfall fading to silence; a tiny last-flake "tink"; the globe brass-settle.
+- CLIP 5 (reset): fire crackle; cocoa steam; a content breath — back to the CLIP-1 bed.
+- Mix note: the snowfall ambient is the signature texture — soft, crystalline, cosy; loops cleanly at ~22s.
+
+### ☆ EXTERNAL AUDIO — BLOCK 2: BACKGROUND MUSIC / SCORE TRACK — C-5 (lay under the sound bed)
+- Genre / vibe: cosy cinematic warmth with a magical shimmer — a winter-evening score; hygge-meets-Narnia.
+- Tempo / key: ~68 BPM, Eb major, gentle and enveloping.
+- Core elements: a soft solo-piano motif (the "globe theme" — 6 cosy notes); warm low strings; a celeste/glockenspiel shimmer for the snowfall; subtle sleigh-bell texture (not cheesy); a crackling-fire texture woven in.
+- Arc: solo piano + fire-crackle (CLIP 1) → a low rumble + celeste entering on the self-shake (CLIP 2) → full strings + glockenspiel shimmer at the indoor-snowfall hero (CLIP 3, the peak) → thins to solo piano + celeste as the snow recedes (CLIP 4) → solo piano + fire on the loop (CLIP 5).
+- Texture note: the celeste/glockenspiel IS the snow — it enters with the flakes and leaves with them; the piano is the cabin.
+- Loop: a clean ~22s loop matching the visual loop point.
+
+---
