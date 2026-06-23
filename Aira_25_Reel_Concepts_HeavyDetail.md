@@ -6215,3 +6215,535 @@ CUT LOGIC: ANGLE-CUT / LOOP back to CLIP 1; the next pass re-triggers the warmth
 - Loop: a clean ~22s loop matching the visual loop point.
 
 ---
+
+# CONCEPT E-2 — ONE STAIRCASE, EVERY ERA
+
+Title: Place-Transforms Hero — one grand staircase morphing through design eras as she descends.
+Category / Format: Surreal-elegant transformation reel (a grand staircase) · SILENT (diegetic + score only) · CLIP-CHAIN, ANGLE-CUT edit · MULTI-CHANGE state-chain (each flight she descends flips the era; the clip ENDS in the new era and the next clip OPENS in it from a new angle — 100% world-state match across every cut).
+Story Idea: Aira descends one grand staircase, and with each flight the architecture morphs through design eras — 1920s Art Deco → 1960s Mid-Century → 1980s Memphis → Modern Minimalist — while she stays the timeless constant in a black silk slip; the staircase loops back to Deco.
+Setting: a grand staircase whose architecture, railings, walls and light fully transform era to era; only the steps' geometry and her path stay constant.
+Wardrobe: a classic black silk slip dress (bias-cut, ankle-length, thin straps) — timeless across all eras.
+Footwear: black satin pointed-toe ankle-strap heels — constant.
+Eyewear: none.
+Accessories: an art-deco diamond hair-clip, a long single-strand pearl rope necklace, a slim black (unlit) cigarette holder held as a period prop, deep-red glossy nails.
+Hair: a sleek finger-wave bob (1920s-inspired), jet-black, sculpted glossy, chin-length, one side pinned with the art-deco diamond clip — constant.
+Makeup: classic editorial — luminous skin, defined brow, deep-red lip, soft smoky lid, real pores; retinted by each era's light.
+Hero Movement / Impossible Move: the staircase morphs through design eras with each flight she descends; the world changes, she stays timeless.
+Transformation Trigger (signature, consistent): EACH FLIGHT / LANDING SHE STEPS ONTO — descending onto each new flight triggers the next era-morph, completing within that clip; the next clip opens in the new era from a new angle. Same trigger (the descent) every clip.
+Mood: AWE / TIME-TRAVEL ELEGANCE — cinematic, composed, glamorous.
+Grade: VIVID per era — deep-emerald-and-gold Deco, warm teak-and-primary Mid-Century, hot-pink-and-teal Memphis, white-and-black Modern; her black slip + red lip + red nails the constant anchor; rich blacks, full mid-tone.
+Duration: ~26 seconds · 5 clips (angle-cut state-chain).
+Voice: SILENT — diegetic + an era-morphing score (same melody, each era's production).
+Identity safety: AIRA adult; wardrobe modest; mood elegant and timeless, never sexualized.
+State chain (angle-cut): CLIP 1 wide [ART DECO → step → ends MID-CENTURY] → CUT → CLIP 2 profile [opens MID-CENTURY → step → ends MEMPHIS] → CUT → CLIP 3 close-up [opens MEMPHIS → step → ends MODERN] → CUT → CLIP 4 full-body low [opens MODERN → step → ends ART DECO] → CUT → CLIP 5 wide [opens ART DECO = CLIP 1, loop].
+
+---
+
+## CLIP 1 of 5 — WIDE · THREE-QUARTER (descending toward camera) · SLIGHT LOW ANGLE (opens ART DECO, ★ morphs to MID-CENTURY)
+
+### START IMAGE (keyframe — ART DECO)
+ANGLE & SHOT SIZE: slight low-angle WIDE (from the foot of the stairs looking up); Aira full body descending, the grand staircase in full Art Deco.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: the classic black silk slip dress, bias-cut, ankle-length, thin straps, the hem pooling and flowing with each step.
+FOOTWEAR: black satin pointed-toe ankle-strap heels, one foot placed on a lower step.
+EYEWEAR: none.
+ACCESSORIES: the art-deco diamond hair-clip, a long pearl rope necklace, a slim black cigarette holder held with period poise, deep-red glossy nails.
+HAIR: a sleek finger-wave bob, jet-black, sculpted glossy, chin-length, the diamond clip on the right.
+MAKEUP: classic editorial — luminous skin, defined brow, deep-red lip, soft smoky lid, real pores.
+HANDS & NAILS: one hand gliding along the brass railing (fingertips trailing), the other holding the cigarette holder at a relaxed period angle; deep-red glossy nails.
+FACIAL MICRO-DYNAMICS: composed elegance — chin lifted slightly, eyes steady and slightly down the stairs (navigating with grace), a subtle closed-lip Mona-Lisa smile, brow arched with quiet authority.
+BODY POSTURE & WEIGHT: a graceful descending pose, weight rolling onto the lower foot, hips in a soft counter-tilt, spine long, alive.
+KINETIC STILLNESS (8 layers): (1) a massive art-deco chandelier's crystal tiers swaying; (2) geometric brass-railing shadows shifting; (3) the bob's jaw-curl catching light; (4) the silk hem pooling and flowing; (5) chest rising; (6) mirrored-wall reflections doubling; (7) a sunburst-motif glint on the brass; (8) a slow composed blink.
+SPATIAL LOGIC: FOREGROUND — the black-marble steps with gold inlay. MIDGROUND — Aira descending. BACKGROUND — the geometric Deco staircase converging up, the chandelier crowning.
+LIGHTING: KEY — warm golden chandelier from above. FILL — brass reflections. RIM — a gold edge on the bob and shoulder. PRACTICAL — the deco chandelier, mirrored-wall glints. SEPARATION — the gold-lit figure against the emerald-lacquer walls. BOUNCE — warm gold under the chin.
+LENS + DOF + BOKEH: 35mm, f/4, slight low; the full Deco spectacle legible, the chandelier as gold bokeh.
+COMPOSITION: vertical 9:16, Aira centre descending, the geometric staircase converging behind/above, the chandelier crowning the frame.
+SUBJECT FRAMING & POSITION: Aira reads as a complete full-length figure mid-descent, framed head-to-heels from a slightly low angle that lets the staircase tower, her torso in a graceful three-quarter facing down-and-toward camera. The camera holds a wide establishing distance, slightly low; she anchors centre with the Deco staircase around. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: Gatsby opulence, the glamour of a grand descent.
+COLOUR GRADE: VIVID Art Deco — deep emerald lacquer + gold + black-marble + crystal-white + her red lip/nails as the warm pop; glossy, rich blacks.
+TEXTURE & MICRO-DETAIL: black-marble-with-gold-inlay steps, brass sunburst railings, mirrored-wall etching, crystal chandelier tiers, silk-bias drape, the bob's glossy finger-waves, red nail gloss.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
+
+### ANIMATION (this clip, ~5s — opens ART DECO; ★ morphs to MID-CENTURY mid-clip, ends mid-century)
+SHOT TYPE & ANGLE: slight low-angle wide; subject ~45% centre, descending.
+CAMERA MOVEMENT (CHOREOGRAPHY): a slow dolly-back descending with her (camera moves down as she descends) — one continuous shot.
+LENS: 35mm, f/4, slight low.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–2.0s — she descends through the Art Deco staircase, fingertips trailing the brass railing, elegant.
+- 2.0–4.0s — ★ TRIGGER: she steps onto the next flight; the era begins to morph around her.
+- 4.0–5.0s — she descends on, unchanged, as the staircase resolves fully into MID-CENTURY MODERN by the final frame.
+FLUIDITY & WEIGHT NOTES: the descent is slow, deliberate, elegant; she is the timeless constant; all motion eases.
+FABRIC/HAIR/PROP PHYSICS: the silk-bias hem pools and flows with each step; the bob holds; the chandelier crystals sway and throw light; her fingertips feel the railing-material change as the era morphs (brass → teak).
+FOOTWORK & BODY FLOW: graceful placed steps, heel-to-step, weight rolling down.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ ERA-MORPH DECO→MID-CENTURY at 2.0–4.5s, triggered by stepping onto the new flight. The brass geometric railings smooth into clean teak wood; the black-marble-and-gold steps become warm terrazzo; the emerald-lacquer walls transition to white with bold color-block art; the deco chandelier simplifies into a Sputnik pendant. Clean mid-century lines replace ornate geometry; the warm golden light cools to a brighter, even mid-century light.
+LIGHTING-IN-MOTION: warm Deco gold transitions to a cooler, brighter, more even mid-century light.
+DIEGETIC AUDIO: her heels on marble (sharp, echoing); the chandelier crystals tinkling; the brass railing singing under her fingertips; a faint jazz piano echoing (Deco) cross-fading into a bossa-nova as the era morphs.
+MASTER TRACK: the same 4-bar melody played in 1920s jazz (piano + upright bass + brushed drums), cross-fading to a 1960s bossa version on the morph.
+END STATE / STATE-MATCH LOCK (heavy detail — CLIP 2's START IMAGE must reproduce 100%, new angle only): at clip end the staircase is FULL MID-CENTURY — clean teak railings, warm terrazzo steps, white walls with bold color-block art, a Sputnik pendant, brighter even light; Aira mid-descent, black silk slip, finger-wave bob, composed. CLIP 2 must open in this EXACT mid-century world (same teak, terrazzo, color-block art, Sputnik light, same wardrobe) — only the camera angle changes.
+CUT LOGIC: hard ANGLE-CUT to CLIP 2 (profile). No motion-match; WORLD STATE matches 100%.
+
+---
+
+## CLIP 2 of 5 — MEDIUM · FULL PROFILE (descending) · EYE-LEVEL (opens MID-CENTURY = CLIP 1 end; ★ morphs to MEMPHIS)
+
+### START IMAGE (keyframe — MID-CENTURY, reproduces CLIP 1's END STATE, new angle)
+ANGLE & SHOT SIZE: eye-level MEDIUM, waist-up, full side-profile, descending; the staircase in full mid-century modern.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: the black silk slip in profile — identical state (timeless).
+FOOTWEAR: black satin heels in profile, mid-step.
+EYEWEAR: none.
+ACCESSORIES: diamond clip, pearl rope, cigarette holder, red nails — all unchanged.
+HAIR: the finger-wave bob in profile — unchanged, timeless.
+MAKEUP: classic editorial, retinted by the cooler mid-century light.
+HANDS & NAILS: one hand trailing the teak railing (the railing has changed material under her fingertips); red nails.
+FACIAL MICRO-DYNAMICS: unchanged composed elegance — the same Mona-Lisa smile in profile, eyes down the stairs, poised.
+BODY POSTURE & WEIGHT: a graceful descending profile, weight rolling down, spine long, alive.
+KINETIC STILLNESS (8 layers): (1) the Sputnik pendant's arms catching light; (2) terrazzo-speckle underfoot; (3) the bob's jaw-curl; (4) the silk hem flowing; (5) chest rising; (6) the color-block art on the white wall; (7) teak-grain warmth on the railing; (8) a slow blink in profile.
+SPATIAL LOGIC: FOREGROUND — terrazzo steps. MIDGROUND — Aira in profile. BACKGROUND — the clean mid-century staircase, color-block art, Sputnik pendant.
+LIGHTING: KEY — a cooler, brighter, even mid-century light. FILL — clean bounce. RIM — a soft edge on the bob. PRACTICAL — the Sputnik pendant. SEPARATION — the figure against white walls. BOUNCE — clean warm-neutral under the jaw.
+LENS + DOF + BOKEH: 50mm, f/2.8; her profile sharp, the mid-century staircase clean behind.
+COMPOSITION: vertical 9:16, profile facing down-frame (direction of descent), the teak railing a leading line, the color-block art behind.
+SUBJECT FRAMING & POSITION: Aira is shown in clean full profile from the waist up, descending, framed medium. Her torso square in profile, mid-step. The camera tracks alongside at her descent-pace, mid-distance, eye level; she rides slightly back so her path opens down-frame. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: clean optimistic mid-century cool.
+COLOUR GRADE: VIVID Mid-Century — warm teak + warm white + bold primary-color art + terrazzo-speckle + her black slip and red lip. (Matches CLIP 1 END STATE.)
+TEXTURE & MICRO-DETAIL: teak grain, terrazzo speckle, color-block art, the Sputnik pendant, silk drape, glossy bob, red nails.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
+
+### ANIMATION (this clip, ~5s — opens MID-CENTURY; ★ morphs to MEMPHIS, ends Memphis)
+SHOT TYPE & ANGLE: eye-level medium profile; subject ~55% mid-frame, descending.
+CAMERA MOVEMENT (CHOREOGRAPHY): a tracking move alongside her descent — one continuous shot.
+LENS: 50mm, f/2.8, shallow.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–2.0s — she descends the mid-century flight, fingertips trailing teak, composed.
+- 2.0–4.0s — ★ TRIGGER: she steps onto the next flight; the era morphs around her.
+- 4.0–5.0s — she descends on, unchanged, as the staircase resolves fully into 1980s MEMPHIS by the final frame.
+FLUIDITY & WEIGHT NOTES: even elegant descent; she's the constant; all motion eases.
+FABRIC/HAIR/PROP PHYSICS: silk flows; the bob holds; the railing morphs material under her fingers (teak → tubular steel); the morph spreads from where she steps.
+FOOTWORK & BODY FLOW: graceful placed steps, weight rolling.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ ERA-MORPH MID-CENTURY→MEMPHIS at 2.0–4.5s, triggered by the step. The teak railing becomes bold tubular steel in hot-pink and teal; the white walls become geometric confetti-patterns (triangles, squiggles, dots) in primary colors; the stair carpet becomes a bold zigzag; a neon sign glows; the even light becomes bold flat Memphis-era lighting with neon accents.
+LIGHTING-IN-MOTION: clean mid-century light becomes bold flat bright Memphis colour with neon flicker.
+DIEGETIC AUDIO: her heels on terrazzo then carpet (muffling); the bossa fading into a faint synth-pop beat; the neon buzz; the railing-material change.
+MASTER TRACK: the same melody cross-fading from bossa to a 1980s synth-pop version (synth-lead + drum machine + slap bass).
+END STATE / STATE-MATCH LOCK (heavy detail — CLIP 3's START IMAGE must reproduce 100%, new angle only): at clip end the staircase is FULL MEMPHIS — hot-pink-and-teal tubular steel railings, confetti-pattern walls, a zigzag carpet, a glowing neon sign, bold flat lighting; Aira mid-descent, black slip the calm centre, finger-wave bob. CLIP 3 must open in this EXACT Memphis world (same tubular steel, confetti walls, zigzag, neon, same wardrobe) — only the angle changes.
+CUT LOGIC: hard ANGLE-CUT to CLIP 3 (close-up). No motion-match; WORLD STATE matches 100%.
+
+---
+
+## CLIP 3 of 5 — CLOSE-UP (face + railing hand) · THREE-QUARTER · EYE-LEVEL (opens MEMPHIS = CLIP 2 end; ★ morphs to MODERN MINIMALIST)
+
+### START IMAGE (keyframe — MEMPHIS, reproduces CLIP 2's END STATE, new angle)
+ANGLE & SHOT SIZE: eye-level CLOSE-UP, face and her hand on the railing, three-quarter, the Memphis chaos blazing behind.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: the black silk slip at the shoulder — identical state (the calm centre amid the chaos).
+FOOTWEAR: out of frame.
+EYEWEAR: none.
+ACCESSORIES: diamond clip, pearl rope, red nails on the NOW-MEMPHIS tubular railing (hot-pink and teal).
+HAIR: the finger-wave bob — unchanged, contrasting the Memphis noise.
+MAKEUP: classic editorial, neon-lit.
+HANDS & NAILS: her red-nailed hand wrapping the tubular steel railing — the red fitting the Memphis world as if she was always here; red nails.
+FACIAL MICRO-DYNAMICS: unchanged — the same composed Mona-Lisa half-smile; she is the quiet in the storm; one slow blink amid the visual chaos.
+BODY POSTURE & WEIGHT: a still, self-possessed descending pause, shoulders level, breathing.
+KINETIC STILLNESS (8 layers): (1) Memphis patterns pulsing with energy; (2) a neon sign flickering; (3) the bob's jaw-curl; (4) the silk at the shoulder; (5) chest rising; (6) confetti-pattern walls; (7) tubular-steel highlights; (8) a calm slow blink.
+SPATIAL LOGIC: FOREGROUND — soft. MIDGROUND — her calm face and the railing-hand, sharp. BACKGROUND — the Memphis explosion (confetti walls, neon, zigzag).
+LIGHTING: KEY — bold flat Memphis colour (hot-pink/teal/yellow). FILL — even and bright. RIM — a neon edge on the bob. PRACTICAL — neon sign, bold Memphis lighting. SEPARATION — her calm dark figure against the chaos. BOUNCE — neon on the jaw.
+LENS + DOF + BOKEH: 85mm, f/2.0; her calm face sharp, the Memphis chaos soft but vivid behind.
+COMPOSITION: vertical 9:16, her calm face centre, the Memphis explosion behind — the contrast IS the frame.
+SUBJECT FRAMING & POSITION: Aira is framed in a close-up, face and the railing-hand, three-quarter, the Memphis world behind. She sits centre, hand on the tubular railing. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: the quiet in the storm — classic calm amid maximal noise.
+COLOUR GRADE: MAXIMUM Memphis — hot-pink + teal + yellow + neon + confetti-patterns; her black slip and red lip the calm centre. (Matches CLIP 2 END STATE.)
+TEXTURE & MICRO-DETAIL: tubular-steel finish, confetti-pattern detail, neon glow, glossy bob, real pores under the bold light, red nail gloss.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
+
+### ANIMATION (this clip, ~5s — opens MEMPHIS; ★ morphs to MODERN MINIMALIST, ends modern)
+SHOT TYPE & ANGLE: eye-level close-up; face ~70% centre.
+CAMERA MOVEMENT (CHOREOGRAPHY): a static-to-imperceptible-push-in — one continuous shot.
+LENS: 85mm, f/2.0, shallow.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–2.0s — she descends through the Memphis world at the same elegant pace, hand on the tubular railing, calm.
+- 2.0–4.0s — ★ TRIGGER: she steps onto the next flight; the era morphs around her.
+- 4.0–5.0s — she descends on, unchanged, as the staircase resolves into MODERN MINIMALIST by the final frame.
+FLUIDITY & WEIGHT NOTES: she stays the calm centre; the morph happens around her; all motion eases.
+FABRIC/HAIR/PROP PHYSICS: her grip on the tubular steel has cylindrical contact; the silk stays BLACK (grounding) as the world morphs; the confetti vanishes, surfaces simplifying.
+FOOTWORK & BODY FLOW: graceful placed steps.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ ERA-MORPH MEMPHIS→MODERN at 2.0–4.5s, triggered by the step. The tubular steel becomes a thin black metal railing; the confetti walls become pure white; the zigzag carpet becomes clean white concrete steps; the neon vanishes; a single perfect flower in a vase appears at the landing; the bold flat light becomes one large diffused gallery panel — pure calm.
+LIGHTING-IN-MOTION: bold Memphis colour becomes clean bright even gallery-light, shadowless.
+DIEGETIC AUDIO: the synth-pop fading; her heels on carpet then clean concrete; the neon buzz cutting out; a minimal silence settling.
+MASTER TRACK: the same melody cross-fading from synth-pop to a stripped solo-piano + silence (modern minimal).
+END STATE / STATE-MATCH LOCK (heavy detail — CLIP 4's START IMAGE must reproduce 100%, new angle only): at clip end the staircase is FULL MODERN MINIMALIST — white concrete steps, a thin black metal railing, pure white walls, a single flower at the landing, clean diffused light; Aira mid-descent, black slip now the most "of the moment" thing, finger-wave bob. CLIP 4 must open in this EXACT modern world (same white concrete, thin railing, single flower, gallery light, same wardrobe) — only the angle changes.
+CUT LOGIC: hard ANGLE-CUT to CLIP 4 (full-body low). No motion-match; WORLD STATE matches 100%.
+
+---
+
+## CLIP 4 of 5 — FULL BODY · FRONT · LOW ANGLE (opens MODERN = CLIP 3 end; ★ morphs back to ART DECO at the foot)
+
+### START IMAGE (keyframe — MODERN MINIMALIST, reproduces CLIP 3's END STATE, new angle)
+ANGLE & SHOT SIZE: low-angle FULL BODY (from the foot looking up); Aira reaching the bottom of the clean modern minimalist staircase.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: the black silk slip, full-length, the hem pooling on the white concrete — identical state.
+FOOTWEAR: black satin heels on the final clean concrete steps.
+EYEWEAR: none.
+ACCESSORIES: diamond clip, pearl rope, cigarette holder, red nails — all unchanged.
+HAIR: the finger-wave bob — unchanged.
+MAKEUP: classic editorial, clean gallery-lit.
+HANDS & NAILS: fingertips trailing the thin black metal railing; red nails.
+FACIAL MICRO-DYNAMICS: composed elegance with the tiniest knowing brow-raise (she knows it's cycling back); the Mona-Lisa smile.
+BODY POSTURE & WEIGHT: reaching the foot, weight settling, spine long, alive.
+KINETIC STILLNESS (8 layers): (1) the single perfect flower at the landing; (2) the clean diffused panel-light steady; (3) the bob's jaw-curl; (4) the silk hem pooling; (5) chest rising; (6) the thin black railing; (7) a faint Deco brass-glint beginning at the frame edge; (8) a slow composed blink.
+SPATIAL LOGIC: FOREGROUND — the clean white concrete steps. MIDGROUND — Aira at the foot. BACKGROUND — the minimal white staircase, the single flower, a hint of returning Deco.
+LIGHTING: KEY — clean bright diffused gallery-panel. FILL — even. RIM — soft. PRACTICAL — the panel, a returning warm Deco glint at the edge. SEPARATION — her dark figure against pure white. BOUNCE — clean neutral.
+LENS + DOF + BOKEH: 28mm low and wide for grandeur, f/3.2; Aira sharp, the minimal staircase clean, a returning Deco warmth at the edges.
+COMPOSITION: vertical 9:16, Aira centre at the foot, the minimal staircase rising, the single flower, returning Deco warmth at the frame edge.
+SUBJECT FRAMING & POSITION: Aira reads as a complete full-length figure at the foot of the stairs from a low angle, framed head-to-heels, torso near-front. The camera is mid-distance and low for grandeur; she anchors centre with the minimal staircase rising and Deco returning at the edges. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: pure modern calm, the cycle about to turn back.
+COLOUR GRADE: VIVID-minimal — white + black + her skin + the single flower (vivid) + returning Deco gold at the edges; the restraint a statement. (Matches CLIP 3 END STATE.)
+TEXTURE & MICRO-DETAIL: white-concrete grain, thin black metal railing, the single flower, silk drape, glossy bob, red nails, a returning brass-glint.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
+
+### ANIMATION (this clip, ~5s — opens MODERN; ★ morphs back to ART DECO at the foot)
+SHOT TYPE & ANGLE: low-angle full body; subject ~60% centre.
+CAMERA MOVEMENT (CHOREOGRAPHY): a slow rise-and-settle at the foot — one continuous shot.
+LENS: 28mm, f/3.2, low and wide.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–2.0s — she reaches the bottom of the modern stairs, fingertips trailing the thin railing.
+- 2.0–4.0s — ★ TRIGGER: she pauses at the foot; the era morphs back toward Art Deco around her.
+- 4.0–5.0s — the staircase resolves fully back into ART DECO; a tiny knowing brow-raise — she knows it cycles.
+FLUIDITY & WEIGHT NOTES: the pause is composed; the morph-back is smooth; all motion eases.
+FABRIC/HAIR/PROP PHYSICS: the thin black railing morphs back to brass sunburst; white concrete to black-marble-and-gold; the panel-light to the Deco chandelier; the silk hem pools.
+FOOTWORK & BODY FLOW: a composed settle at the foot.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ ERA-MORPH MODERN→ART DECO at 2.0–4.5s — the minimal staircase morphs back to full Art Deco (brass sunburst railings, black-marble-and-gold steps, emerald-lacquer walls, the crystal chandelier, warm gold light); the cycle completing back to the opening era.
+LIGHTING-IN-MOTION: clean gallery-light warms back to the golden Deco chandelier.
+DIEGETIC AUDIO: her heels on concrete then marble; the minimal silence cross-fading back into the jazz piano; the chandelier crystals re-tinkling.
+MASTER TRACK: the same melody cross-fading from solo piano back to the 1920s jazz version.
+END STATE / STATE-MATCH LOCK (heavy detail — CLIP 5's START IMAGE must reproduce 100%, and it equals CLIP 1's opening): at clip end the staircase is FULL ART DECO again (brass, marble-gold, emerald, chandelier, warm light); Aira composed at the foot, black slip, finger-wave bob. CLIP 5 must open in this EXACT Deco world — identical to CLIP 1's opening — so the reel loops.
+CUT LOGIC: hard ANGLE-CUT to CLIP 5 (wide, top of stairs). No motion-match; WORLD STATE matches CLIP 1 100%.
+
+---
+
+## CLIP 5 of 5 — WIDE · THREE-QUARTER (descending) · SLIGHT LOW ANGLE (opens ART DECO = CLIP 1; loop close)
+
+### START IMAGE (keyframe — ART DECO, reproduces CLIP 1's opening)
+ANGLE & SHOT SIZE: slight low-angle WIDE; Aira full body at the top of the grand staircase, the Art Deco staircase in full glory — the opening restored.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: the classic black silk slip dress — matched to CLIP 1.
+FOOTWEAR: black satin ankle-strap heels — matched.
+EYEWEAR: none.
+ACCESSORIES: art-deco diamond clip, pearl rope, cigarette holder, red nails — matched.
+HAIR: the sleek finger-wave bob, diamond clip — matched to CLIP 1.
+MAKEUP: classic editorial — matched.
+HANDS & NAILS: one hand on the brass railing, the cigarette holder at a period angle — matched to CLIP 1.
+FACIAL MICRO-DYNAMICS: composed elegance, the Mona-Lisa smile — the exact opening face.
+BODY POSTURE & WEIGHT: a graceful descending pose at the top — mirror of CLIP 1.
+KINETIC STILLNESS (8 layers): (1) the deco chandelier swaying; (2) geometric brass shadows; (3) the bob's jaw-curl; (4) the silk hem pooling; (5) chest rising; (6) mirrored-wall reflections; (7) a sunburst-brass glint; (8) a composed blink — matched to CLIP 1.
+SPATIAL LOGIC: FOREGROUND — black-marble-gold steps. MIDGROUND — Aira at the top. BACKGROUND — the Deco staircase, chandelier — matched to CLIP 1.
+LIGHTING: KEY — warm golden chandelier. FILL — brass reflections. RIM — gold on the bob. PRACTICAL — chandelier, mirrored-wall glints. SEPARATION — gold figure against emerald walls. BOUNCE — warm gold under the chin — matched to CLIP 1.
+LENS + DOF + BOKEH: 35mm, f/4, slight low — matched to CLIP 1.
+COMPOSITION: vertical 9:16, Aira centre at the top, the geometric staircase converging, the chandelier crowning — identical to CLIP 1 so the reel loops.
+SUBJECT FRAMING & POSITION: Aira reads as a complete full-length figure at the top of the stairs, framed head-to-heels from a slightly low angle, torso in the graceful three-quarter. The camera holds the identical wide establishing distance, slightly low; she anchors centre with the Deco staircase around — exactly rhyming with CLIP 1 so the loop is seamless. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: Gatsby opulence restored — ready for the grand descent again.
+COLOUR GRADE: VIVID Art Deco — emerald, gold, black-marble, crystal, red lip/nails — matched to CLIP 1.
+TEXTURE & MICRO-DETAIL: marble-gold steps, brass sunburst railings, mirrored etching, crystal chandelier, silk drape, glossy finger-waves, red nails — matched.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
+
+### ANIMATION (this clip, ~4s — reset; loop close)
+SHOT TYPE & ANGLE: slight low-angle wide; subject ~45% centre — matched to CLIP 1.
+CAMERA MOVEMENT (CHOREOGRAPHY): the camera returns to the opening low-angle descending framing and settles.
+LENS: 35mm, f/4 — matched.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–2.0s — she stands at the top of the restored Deco staircase, fingertips on the brass railing.
+- 2.0–3.5s — she begins the first elegant descending step — the opening descent resetting.
+- 3.5–4.0s — settles into the exact CLIP-1 descending pose and Mona-Lisa smile.
+FLUIDITY & WEIGHT NOTES: the descent matches CLIP 1's pace; everything returns to the opening.
+FABRIC/HAIR/PROP PHYSICS: silk pools, the bob holds, the chandelier crystals tinkle — matched to CLIP 1.
+FOOTWORK & BODY FLOW: a graceful first descending step.
+MID-CLIP TRANSFORMATION (timed): the staircase is full Deco; the next loop re-triggers the era-morphs as she descends the first flight (the start of CLIP 1).
+LIGHTING-IN-MOTION: golden chandelier — matched to CLIP 1.
+DIEGETIC AUDIO: her heels on marble; the chandelier tinkling; the jazz piano echoing — back to the CLIP-1 bed.
+MASTER TRACK: the 1920s jazz version of the melody, looping cleanly to the opening.
+END STATE / STATE-MATCH LOCK: clip ends in the EXACT Art Deco top-of-stairs state and wide angle of CLIP 1's START IMAGE — era, wardrobe and composed expression matched, so the reel loops seamlessly.
+CUT LOGIC: ANGLE-CUT / LOOP back to CLIP 1; the next pass re-triggers the era-morphs as she descends.
+
+### ☆ EXTERNAL AUDIO — BLOCK 1: BACKGROUND SOUND DESIGN / AMBIENCE BED — E-2
+*The layered foley + per-era ambience to lay UNDER the reel, separate from the in-clip diegetic audio — timed to the clips and cross-fading on each step-trigger.*
+- Base bed (all clips): her heels echoing on the stairs (the resonance changes per era's material — marble, terrazzo, carpet, concrete); a faint room-reverb that shifts era to era.
+- CLIP 1 (Deco→Mid-century): a chandelier-crystal tinkle and brass-railing sing cross-fading into a clean mid-century quiet.
+- CLIP 2 (Mid-century→Memphis): the clean quiet cross-fading into a neon buzz and a livelier room.
+- CLIP 3 (Memphis→Modern): the neon buzz cutting out into a minimal gallery silence.
+- CLIP 4 (Modern→Deco): the minimal silence warming back into the chandelier tinkle and brass sing.
+- CLIP 5 (reset): the Deco ambience — back to the CLIP-1 bed.
+- Mix note: the heel-resonance and room-reverb genre-shift with each era; loops cleanly at ~26s.
+
+### ☆ EXTERNAL AUDIO — BLOCK 2: BACKGROUND MUSIC / SCORE TRACK — E-2 (lay under the sound bed)
+- Genre / vibe: an era-morphing soundtrack — the SAME 4-bar melody played in each era's authentic production style.
+- Tempo / key: ~90 BPM throughout; key shifts — Deco Bb minor (dark jazz), Mid-Century C major (bossa), Memphis D major (synth-pop), Modern Eb (ambient minimal).
+- Core elements — the same melody, different production: Deco — jazz piano + upright bass + brushed drums; Mid-Century — bossa guitar + light percussion + flute; Memphis — synth-lead + drum machine + slap bass; Modern — solo piano + silence.
+- Arc: jazz (CLIP 1) → cross-fade to bossa (CLIP 2) → cross-fade to synth-pop (CLIP 3) → cross-fade to solo piano (CLIP 4) → cross-fade back to jazz (CLIP 5 loop).
+- Texture note: the melody must be RECOGNISABLE across all four era-versions — same notes, totally different production; that's the hook.
+- Loop: a clean ~26s loop matching the visual loop point.
+
+---
+
+# CONCEPT E-3 — ONE BRIDGE, DAY TO NIGHT
+
+Title: Place-Transforms Hero — one bridge cycling through every hour of the day as she walks.
+Category / Format: Cinematic transformation reel (a long pedestrian bridge) · SILENT (diegetic + score only) · CLIP-CHAIN, ANGLE-CUT edit · MULTI-CHANGE state-chain (each lamppost she passes advances the time of day; the clip ENDS in the new hour, the next clip OPENS in it from a new angle — 100% world-state match).
+Story Idea: Aira walks across one elegant bridge, and with each lamppost she passes the sky cycles dawn → golden hour → sunset → night with stars → back to dawn; she stays the silver constant while every hour passes around her.
+Setting: an elegant modern cable-stayed pedestrian bridge over water, with a run of lamp-posts; the sky and light fully transform through the day while the bridge architecture stays constant.
+Wardrobe: a flowing silver-grey silk midi-dress with long sleeves, the fabric catching and reflecting whatever light surrounds her; modest, elegant.
+Footwear: minimal silver flat strappy sandals — constant.
+Eyewear: none.
+Accessories: a thin silver chain with a crescent-moon pendant, small diamond studs, a silver cuff bracelet, soft silver-lavender glossy nails.
+Hair: a voluminous blown-out curtain of platinum-silver hair, centre part, waist-length, metallic sheen — constant.
+Makeup: luminous cool glow — glassy skin, soft rose-nude lip, subtle silver-lavender lid, real pores; retinted by each hour's light.
+Hero Movement / Impossible Move: the bridge's sky and light cycle through every hour of the day as she walks; the world's time changes, she stays constant.
+Transformation Trigger (signature, consistent): EACH LAMP-POST SHE PASSES — crossing each lamppost advances the time of day, completing within that clip; the next clip opens in the new hour from a new angle. Same trigger (passing a lamppost) every clip.
+Mood: AWE / CINEMATIC BEAUTY — serene, time-lapse grandeur.
+Grade: VIVID per hour — peach-lavender dawn, blazing golden hour, fiery sunset, indigo starlit night; her silver dress reflecting each (silver→gold→rose-gold→moonlit); rich blacks, full mid-tone.
+Duration: ~26 seconds · 5 clips (angle-cut state-chain).
+Voice: SILENT — diegetic bridge/water + a continuous time-lapse orchestral score.
+Identity safety: AIRA adult; wardrobe modest; mood serene and elegant, never sexualized.
+State chain (angle-cut): CLIP 1 wide [DAWN → lamppost → ends GOLDEN HOUR] → CUT → CLIP 2 profile [opens GOLDEN HOUR → lamppost → ends SUNSET] → CUT → CLIP 3 close-up [opens SUNSET → lamppost → ends NIGHT] → CUT → CLIP 4 full-body [opens NIGHT → lamppost → ends DAWN] → CUT → CLIP 5 wide [opens DAWN = CLIP 1, loop].
+
+---
+
+## CLIP 1 of 5 — WIDE · FRONT (walking toward camera) · EYE-LEVEL (opens DAWN, ★ passes lamppost → GOLDEN HOUR)
+
+### START IMAGE (keyframe — DAWN)
+ANGLE & SHOT SIZE: eye-level WIDE; Aira full body walking toward camera across the bridge, the run of lamp-posts and cables receding, a soft dawn sky.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: the flowing silver-grey silk midi-dress, long sleeves, catching the peach dawn-light, the skirt drifting in a bridge-breeze.
+FOOTWEAR: minimal silver flat strappy sandals, mid-stride.
+EYEWEAR: none.
+ACCESSORIES: a thin silver crescent-moon chain, small diamond studs, a silver cuff, soft silver-lavender glossy nails.
+HAIR: a voluminous platinum-silver curtain, centre part, waist-length, metallic sheen catching the first dawn light.
+MAKEUP: luminous cool glow — glassy skin, soft rose-nude lip, subtle silver-lavender lid, real pores.
+HANDS & NAILS: one hand lightly touching the cable-railing, the other relaxed; silver-lavender glossy nails.
+FACIAL MICRO-DYNAMICS: serene calm — soft eyes ahead to the lens, a gentle closed-lip smile, brow relaxed, at peace with the early hour.
+BODY POSTURE & WEIGHT: a tall easy walking posture, weight rolling heel-to-toe, hips in natural counter-rotation, spine long, alive.
+KINETIC STILLNESS (8 layers): (1) the dawn sky a soft peach-lavender gradient; (2) water below reflecting the pastel sky; (3) the platinum curtain catching dawn; (4) the silk skirt drifting; (5) chest rising; (6) the bridge cables humming faintly; (7) a gull crossing far off; (8) a slow serene blink.
+SPATIAL LOGIC: FOREGROUND — the bridge walkway leading in. MIDGROUND — Aira walking. BACKGROUND — the cable-stayed bridge receding, the dawn sky and water.
+LIGHTING: KEY — soft dawn-light (diffused, low-angle, peach-pink). FILL — cool pre-sunrise ambient. RIM — a soft horizon-glow on her curtain. PRACTICAL — the dawn horizon, faint lamp-posts not yet lit. SEPARATION — her silver form against the pastel sky. BOUNCE — soft dawn on her skin.
+LENS + DOF + BOKEH: 35mm, f/4, deep; the bridge and dawn sky legible, water melting soft.
+COMPOSITION: vertical 9:16, Aira centre walking toward camera, the lamp-post run a strong leading line, the dawn sky dominating above.
+SUBJECT FRAMING & POSITION: Aira reads as a complete full-length figure mid-stride, framed head-to-sandals with the walkway leading in beneath her, her body squared near-front as she walks toward the lens. The camera holds a mid-far establishing distance at eye level; she anchors centre with the lamp-posts and dawn sky around. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: a fresh dawn over still water, the world quiet and new.
+COLOUR GRADE: VIVID dawn — saturated peach + lavender + soft gold + pale blue + her silver dress catching pink; pastel but vivid, full mid-tone.
+TEXTURE & MICRO-DETAIL: silk sheen catching dawn, the platinum curtain's metallic strands, cable-stay detail, water-reflection ripples, diamond-stud glint, silver-lavender nails.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
+
+### ANIMATION (this clip, ~5s — opens DAWN; ★ passes lamppost → GOLDEN HOUR, ends golden hour)
+SHOT TYPE & ANGLE: eye-level wide, front; subject ~45% centre, walking toward lens.
+CAMERA MOVEMENT (CHOREOGRAPHY): a slow dolly-back at her walking pace (she stays framed as the bridge flows past) — one continuous shot.
+LENS: 35mm, f/4, deep.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–2.0s — Aira walks toward camera through soft DAWN light, the platinum curtain catching it.
+- 2.0–3.5s — ★ TRIGGER: she passes a lamp-post; the sky begins to brighten and warm.
+- 3.5–5.0s — she walks on, unchanged, as the sky resolves fully into GOLDEN HOUR by the final frame.
+FLUIDITY & WEIGHT NOTES: the walk is even and weighted; she's the silver constant; all motion eases.
+FABRIC/HAIR/PROP PHYSICS: the silk drifts and reflects the warming light; the curtain sways with the walk; the cable-stays hum; water ripples below.
+FOOTWORK & BODY FLOW: a steady walking cadence, weight rolling.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ TIME-CHANGE DAWN→GOLDEN HOUR at 2.0–4.5s, triggered by passing the lamppost. The peach-lavender dawn warms and strengthens into a blazing golden hour: the sky deepens warm-gold, the water below turns liquid gold, long shadows stretch across the bridge, her silver dress reads as molten gold.
+LIGHTING-IN-MOTION: soft dawn warms and intensifies to a directional golden-hour blaze; shadows lengthen.
+DIEGETIC AUDIO: early-morning city far off; her footsteps on the walkway; the cable-stays humming in the wind; water below; birds waking, then a fuller golden-hour chorus.
+MASTER TRACK: a constant melodic motif (her), with the orchestration warming from dawn strings+flute to a fuller golden-hour string-swell.
+END STATE / STATE-MATCH LOCK (heavy detail — CLIP 2's START IMAGE must reproduce 100%, new angle only): at clip end the bridge is in full GOLDEN HOUR — a warm-gold sky, liquid-gold water, long shadows, her silver dress molten-gold; Aira mid-stride, platinum curtain, serene. CLIP 2 must open in this EXACT golden-hour world (same gold sky, gold water, long shadows, same wardrobe) — only the camera angle changes.
+CUT LOGIC: hard ANGLE-CUT to CLIP 2 (profile). No motion-match; WORLD STATE matches 100%.
+
+---
+
+## CLIP 2 of 5 — MEDIUM · FULL PROFILE (walking) · EYE-LEVEL (opens GOLDEN HOUR = CLIP 1 end; ★ passes lamppost → SUNSET)
+
+### START IMAGE (keyframe — GOLDEN HOUR, reproduces CLIP 1's END STATE, new angle)
+ANGLE & SHOT SIZE: eye-level MEDIUM, waist-up, full side-profile, traveling with her; the bridge in blazing golden hour.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: the silver-grey silk dress in profile, reading molten-gold in this light — identical state.
+FOOTWEAR: silver sandals catching golden light.
+EYEWEAR: none.
+ACCESSORIES: silver jewelry now reading warm-gold, the crescent pendant catching a flare, silver-lavender nails.
+HAIR: the platinum curtain in profile, BLAZING in golden hour — every strand lit molten silver-gold.
+MAKEUP: luminous, warm-gold lit.
+HANDS & NAILS: fingertips trailing the railing; silver-lavender nails.
+FACIAL MICRO-DYNAMICS: unchanged serene — the same gentle profile smile, eyes ahead, unbothered by the beauty.
+BODY POSTURE & WEIGHT: a tall walking profile, weight rolling, spine long, alive.
+KINETIC STILLNESS (8 layers): (1) the golden-hour sky blazing; (2) liquid-gold water below; (3) the platinum curtain catching dramatic side-light; (4) the silk drifting; (5) chest rising; (6) long shadows stretching; (7) the silver cuff throwing a gold flare; (8) a slow blink with golden lashes.
+SPATIAL LOGIC: FOREGROUND — the gold-lit walkway. MIDGROUND — Aira in profile. BACKGROUND — the golden bridge, gold water, warm sky.
+LIGHTING: KEY — full golden-hour blaze (warm, directional, dramatic shadows). FILL — gold water-bounce. RIM — a molten edge on the curtain. PRACTICAL — the low sun, lamp-posts. SEPARATION — her gold-lit form against the warm sky. BOUNCE — gold under the jaw.
+LENS + DOF + BOKEH: 50mm, f/2.8, traveling; her profile sharp, the golden world melting to warm bokeh.
+COMPOSITION: vertical 9:16, her gold-lit profile centre, the golden world behind — she IS the light.
+SUBJECT FRAMING & POSITION: Aira is framed waist-up in a walking profile, traveling, the golden-hour bridge behind. The camera tracks alongside at her pace, mid-distance, eye level; she rides centre. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: the most beautiful light of the day, warm and luminous.
+COLOUR GRADE: MAXIMUM GOLDEN — warm amber + liquid gold + her silver-reading-as-gold + the saturated sky. (Matches CLIP 1 END STATE.)
+TEXTURE & MICRO-DETAIL: silk catching dramatic gold side-light, platinum strands molten, cable-stay shadows, water-gold ripples, the cuff flare.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
+
+### ANIMATION (this clip, ~5s — opens GOLDEN HOUR; ★ passes lamppost → SUNSET, ends sunset)
+SHOT TYPE & ANGLE: eye-level medium profile; subject ~55% centre, walking.
+CAMERA MOVEMENT (CHOREOGRAPHY): a tracking move alongside her walk — one continuous shot.
+LENS: 50mm, f/2.8, shallow.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–2.0s — she walks through the golden hour, the light painting her.
+- 2.0–3.5s — ★ TRIGGER: she passes the next lamp-post; the sky deepens toward sunset.
+- 3.5–5.0s — she walks on, unchanged, as the sky resolves into a fiery SUNSET by the final frame.
+FLUIDITY & WEIGHT NOTES: even profile walk; the constant; all motion eases.
+FABRIC/HAIR/PROP PHYSICS: golden-hour shadows lengthen in real time; the curtain catches increasingly dramatic side-light; the cables throw long geometric shadows; silk drifts.
+FOOTWORK & BODY FLOW: a steady walking cadence.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ TIME-CHANGE GOLDEN HOUR→SUNSET at 2.0–4.5s, triggered by the lamppost. The sky deepens from gold to a fiery layered sunset (orange, magenta, purple, gold), the sun a blazing disc at the horizon past the cables; her silver dress reads rose-gold.
+LIGHTING-IN-MOTION: golden intensifying into deep sunset oranges and magentas; the light lower and more dramatic.
+DIEGETIC AUDIO: her footsteps; the cables humming; a golden-hour bird-chorus; a soft sunset wind; a distant starling murmuration.
+MASTER TRACK: the orchestration warms and deepens from golden-hour strings to a fuller, richer sunset swell (brass entering).
+END STATE / STATE-MATCH LOCK (heavy detail — CLIP 3's START IMAGE must reproduce 100%, new angle only): at clip end the bridge is in full SUNSET — a fiery layered sky, the sun at the horizon, her silver dress rose-gold; Aira mid-stride, platinum curtain. CLIP 3 must open in this EXACT sunset world (same fiery sky, sun-disc, rose-gold dress) — only the angle changes.
+CUT LOGIC: hard ANGLE-CUT to CLIP 3 (close-up). No motion-match; WORLD STATE matches 100%.
+
+---
+
+## CLIP 3 of 5 — CLOSE-UP · FRONT · SLIGHT LOW ANGLE (opens SUNSET = CLIP 2 end; ★ passes lamppost → NIGHT)
+
+### START IMAGE (keyframe — SUNSET, reproduces CLIP 2's END STATE, new angle)
+ANGLE & SHOT SIZE: slight low-angle CLOSE-UP, face and shoulders; the fiery sunset blazing beside her.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: the silver dress collar reflecting sunset fire — identical state.
+FOOTWEAR: out of frame.
+EYEWEAR: none.
+ACCESSORIES: diamond studs catching orange fire, the crescent pendant lit amber, silver-lavender nails.
+HAIR: the platinum curtain catching deep orange-and-magenta sunset — reading rose-gold.
+MAKEUP: luminous, sunset-fire lit.
+HANDS & NAILS: out of frame mostly; silver-lavender nails.
+FACIAL MICRO-DYNAMICS: unchanged gentle calm — the sun is setting spectacularly and she wears the same soft smile; not awed, at home, as if this happens for her every day; one slow blink.
+BODY POSTURE & WEIGHT: walking, face catching the fire, breathing.
+KINETIC STILLNESS (8 layers): (1) the layered sunset sky behind; (2) the sun-disc at the horizon past the cables; (3) the curtain lifting in an evening thermal; (4) the silk collar reflecting fire; (5) chest rising; (6) water mirroring the sunset; (7) the first blues appearing at the top of frame; (8) a slow blink.
+SPATIAL LOGIC: FOREGROUND — soft. MIDGROUND — her face, sharp. BACKGROUND — the fiery sunset, the bridge cables.
+LIGHTING: KEY — sunset fire (intense warm-directional from the setting sun); her face half-lit amber, half cool shadow. FILL — cool-blue dusk creeping. RIM — a fire-edge on the curtain. PRACTICAL — the setting sun, lamp-posts. SEPARATION — her face against the blazing sky. BOUNCE — amber under the jaw.
+LENS + DOF + BOKEH: 85mm, f/2.0, slight low; her face sharp, the sunset melting to fire-bokeh.
+COMPOSITION: vertical 9:16, her face left, the blazing sunset filling right — she shares the frame with the spectacle.
+SUBJECT FRAMING & POSITION: Aira is framed in a slightly low close-up, face and shoulders, the sunset beside her. She sits left-of-centre with the sunset to frame-right. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: cinematic sunset peak, dramatic and warm.
+COLOUR GRADE: SUNSET MAXIMUM — orange + magenta + purple + gold + her silver-as-rose-gold. (Matches CLIP 2 END STATE.)
+TEXTURE & MICRO-DETAIL: sunset-fire on the skin, platinum strands rose-gold, real pores in the warm light, lash detail, the silk collar fire-reflection.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
+
+### ANIMATION (this clip, ~5s — opens SUNSET; ★ passes lamppost → NIGHT, ends starlit night)
+SHOT TYPE & ANGLE: slight low-angle close-up; face ~70% left-of-centre.
+CAMERA MOVEMENT (CHOREOGRAPHY): a static-to-slow-track holding her face — one continuous shot.
+LENS: 85mm, f/2.0, slight low.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–2.0s — she walks through, face catching the sunset fire.
+- 2.0–3.5s — ★ TRIGGER: she passes a lamp-post (which now lights warm against the deepening sky); the sun sets and the sky deepens.
+- 3.5–5.0s — the sky resolves into a full starlit NIGHT by the final frame.
+FLUIDITY & WEIGHT NOTES: unchanged calm; the constant; all motion eases.
+FABRIC/HAIR/PROP PHYSICS: the sun descends with correct speed; colours shift on her face in real time; the lamp-post lights warm; the curtain lifts in the evening thermal.
+FOOTWORK & BODY FLOW: a steady walking cadence.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ TIME-CHANGE SUNSET→NIGHT at 2.0–4.5s, triggered by the lamppost. The sun sets fully; the sky deepens to indigo-black filled with stars and the Milky Way; the bridge lamp-posts glow warm; the water mirrors stars and lamp-light; her silver dress reads moonlit-silver again.
+LIGHTING-IN-MOTION: warm sunset draining; cool blue-silver moonlight + warm lamp-post practicals taking over (dual-temperature).
+DIEGETIC AUDIO: the sunset wind; the last birdsong fading; the lamp-posts buzzing on; crickets from the riverbank; a distant ship-horn.
+MASTER TRACK: the rich sunset swell strips to an intimate solo cello + ambient pad for the night.
+END STATE / STATE-MATCH LOCK (heavy detail — CLIP 4's START IMAGE must reproduce 100%, new angle only): at clip end the bridge is in full NIGHT — an indigo Milky-Way sky, warm lamp-posts glowing, star-mirrored water, her silver dress moonlit; Aira walking, platinum curtain. CLIP 4 must open in this EXACT night world (same galaxy, lamp-glow, star-water, moonlit dress) — only the angle changes.
+CUT LOGIC: hard ANGLE-CUT to CLIP 4 (full body). No motion-match; WORLD STATE matches 100%.
+
+---
+
+## CLIP 4 of 5 — FULL BODY · FRONT (walking) · EYE-LEVEL (opens NIGHT = CLIP 3 end; ★ passes lamppost → DAWN returns)
+
+### START IMAGE (keyframe — NIGHT, reproduces CLIP 3's END STATE, new angle)
+ANGLE & SHOT SIZE: eye-level FULL BODY; Aira walking the night bridge under the stars, lamp-posts glowing.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: the silver-grey silk dress reflecting city-lights and stars — reading mercury-liquid, a starfield itself; identical state.
+FOOTWEAR: silver sandals catching lamp-light.
+EYEWEAR: none.
+ACCESSORIES: diamond studs as stars, the crescent pendant = the moon, the silver cuff reflecting lights, silver-lavender nails.
+HAIR: the platinum curtain glowing moonlit — pure silver luminous in the blue-black night.
+MAKEUP: luminous, cool moonlit + warm lamp-glow.
+HANDS & NAILS: one hand on the cable-railing; silver-lavender nails.
+FACIAL MICRO-DYNAMICS: unchanged serene — the same gentle smile, stars above and city below, she walks between them; one slow blink.
+BODY POSTURE & WEIGHT: a tall walking posture, weight rolling, spine long, alive.
+KINETIC STILLNESS (8 layers): (1) the Milky Way arcing above; (2) warm lamp-posts as sentinels; (3) the platinum curtain glowing moonlit; (4) the silk catching star-and-lamp light; (5) chest rising; (6) the city skyline glowing beyond; (7) star-and-light reflections on the water; (8) a slow blink.
+SPATIAL LOGIC: FOREGROUND — the walkway leading in. MIDGROUND — Aira walking. BACKGROUND — the night bridge, lamp-posts, the Milky Way, glowing city.
+LIGHTING: KEY — cool blue-silver moonlight. FILL — warm lamp-post practicals (dual-temperature). RIM — moonlight-silver on the curtain. PRACTICAL — lamp-posts, stars, city. SEPARATION — her luminous form between warm lamps and cool stars. BOUNCE — alternating warm/cool as she passes lamps.
+LENS + DOF + BOKEH: 35mm, f/4, deep; stars, bridge and city legible.
+COMPOSITION: vertical 9:16, Aira centre walking under the stars, lamp-posts as warm sentinels, the Milky Way arcing above.
+SUBJECT FRAMING & POSITION: Aira reads as a complete full-length figure mid-stride, framed head-to-sandals, body squared near-front, walking under the stars. The camera holds a mid-far establishing distance at eye level; she anchors centre with the night bridge around. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: serene night grandeur — walking beneath the universe.
+COLOUR GRADE: VIVID night — deep indigo + star-white + warm city-amber + her silver as the connector. (Matches CLIP 3 END STATE.)
+TEXTURE & MICRO-DETAIL: the platinum curtain glowing, silver-silk star-reflections, cable-stay detail, lamp-post glow, water reflections, diamond-stud sparkle.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
+
+### ANIMATION (this clip, ~5s — opens NIGHT; ★ passes lamppost → DAWN returns)
+SHOT TYPE & ANGLE: eye-level full body, front; subject ~45% centre, walking.
+CAMERA MOVEMENT (CHOREOGRAPHY): a slow dolly-back at her pace under the stars — one continuous shot.
+LENS: 35mm, f/4, deep.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–2.0s — she walks the night bridge, lamp-light washing over her as she passes each post.
+- 2.0–3.5s — ★ TRIGGER: she passes the final lamp-post; the horizon begins to lighten.
+- 3.5–5.0s — she walks on, unchanged, as the sky resolves back into DAWN by the final frame.
+FLUIDITY & WEIGHT NOTES: even walk; the constant; the rhythmic lamp-wash as she passes posts; all motion eases.
+FABRIC/HAIR/PROP PHYSICS: her silver dress and curtain catch each lamp-post as she passes (a rhythmic lighting pulse); the stars hold correct constellations; city reflections ripple on the water.
+FOOTWORK & BODY FLOW: a steady walking cadence.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ TIME-CHANGE NIGHT→DAWN at 2.0–4.5s, triggered by the lamppost. The indigo night-sky lightens at the horizon and resolves back into the soft peach-lavender dawn; the stars fade; the lamp-posts dim; the water returns to pastel — the cycle completing back to the opening hour.
+LIGHTING-IN-MOTION: cool night lightening to soft peach dawn; the lamp-posts dimming.
+DIEGETIC AUDIO: the night city quieter; her footsteps echoing in the night air; a distant ship-horn; crickets fading; the first dawn birdsong returning.
+MASTER TRACK: the intimate night cello blooms back into the dawn strings+flute — the cycle closing.
+END STATE / STATE-MATCH LOCK (heavy detail — CLIP 5's START IMAGE must reproduce 100%, and it equals CLIP 1's opening): at clip end the bridge is in full DAWN again (peach-lavender sky, pastel water, dimmed lamps); Aira walking, platinum curtain, serene. CLIP 5 must open in this EXACT dawn world — identical to CLIP 1's opening — so the reel loops.
+CUT LOGIC: hard ANGLE-CUT to CLIP 5 (wide). No motion-match; WORLD STATE matches CLIP 1 100%.
+
+---
+
+## CLIP 5 of 5 — WIDE · FRONT (walking) · EYE-LEVEL (opens DAWN = CLIP 1; loop close)
+
+### START IMAGE (keyframe — DAWN, reproduces CLIP 1's opening)
+ANGLE & SHOT SIZE: eye-level WIDE; Aira full body walking toward camera across the bridge, the soft dawn sky — the opening restored.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: the flowing silver-grey silk midi-dress catching peach dawn — matched to CLIP 1.
+FOOTWEAR: minimal silver sandals — matched.
+EYEWEAR: none.
+ACCESSORIES: the crescent-moon chain, diamond studs, silver cuff, silver-lavender nails — matched.
+HAIR: the voluminous platinum-silver curtain, centre part — matched to CLIP 1.
+MAKEUP: luminous cool glow — matched.
+HANDS & NAILS: one hand on the cable-railing — matched to CLIP 1.
+FACIAL MICRO-DYNAMICS: serene calm, gentle smile — the exact opening face.
+BODY POSTURE & WEIGHT: a tall easy walking posture — mirror of CLIP 1.
+KINETIC STILLNESS (8 layers): (1) the peach-lavender dawn; (2) pastel water-reflections; (3) the platinum curtain catching dawn; (4) the silk drifting; (5) chest rising; (6) the cables humming; (7) a gull far off; (8) a serene blink — matched to CLIP 1.
+SPATIAL LOGIC: FOREGROUND — the walkway leading in. MIDGROUND — Aira walking. BACKGROUND — the bridge, dawn sky, water — matched to CLIP 1.
+LIGHTING: KEY — soft dawn-light. FILL — cool ambient. RIM — horizon-glow on the curtain. PRACTICAL — the dawn horizon, dim lamp-posts. SEPARATION — silver form against pastel sky. BOUNCE — soft dawn — matched to CLIP 1.
+LENS + DOF + BOKEH: 35mm, f/4, deep — matched to CLIP 1.
+COMPOSITION: vertical 9:16, Aira centre walking, the lamp-post run a leading line, the dawn sky above — identical to CLIP 1 so the reel loops.
+SUBJECT FRAMING & POSITION: Aira reads as a complete full-length figure mid-stride, framed head-to-sandals, body squared near-front. The camera holds the identical mid-far establishing distance at eye level; she anchors centre — exactly rhyming with CLIP 1 so the loop is seamless. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: fresh dawn restored — the day ready to cycle again.
+COLOUR GRADE: VIVID dawn — peach, lavender, soft gold, pale blue, silver-catching-pink — matched to CLIP 1.
+TEXTURE & MICRO-DETAIL: silk dawn-sheen, platinum strands, cable-stays, water-ripples, diamond glint, silver-lavender nails — matched.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
+
+### ANIMATION (this clip, ~4s — reset; loop close)
+SHOT TYPE & ANGLE: eye-level wide, front; subject ~45% centre, walking — matched to CLIP 1.
+CAMERA MOVEMENT (CHOREOGRAPHY): a slow dolly-back at her pace, settling to the exact CLIP-1 framing.
+LENS: 35mm, f/4 — matched.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–2.0s — she walks toward camera through the restored DAWN.
+- 2.0–3.5s — she approaches the first lamp-post again (the trigger primed for the next loop).
+- 3.5–4.0s — she settles into the exact CLIP-1 stride and serene smile.
+FLUIDITY & WEIGHT NOTES: the walk matches CLIP 1's pace; everything returns to the opening.
+FABRIC/HAIR/PROP PHYSICS: silk drifts, the curtain sways, cables hum, water ripples — matched to CLIP 1.
+FOOTWORK & BODY FLOW: a steady walking cadence.
+MID-CLIP TRANSFORMATION (timed): the day RESETS to dawn; the next loop re-triggers golden-hour as she passes the first lamppost (the start of CLIP 1).
+LIGHTING-IN-MOTION: soft dawn — matched to CLIP 1.
+DIEGETIC AUDIO: dawn city; footsteps; cables humming; water; waking birds — back to the CLIP-1 bed.
+MASTER TRACK: the dawn strings+flute version of the motif, looping cleanly.
+END STATE / STATE-MATCH LOCK: clip ends in the EXACT dawn-bridge state and wide angle of CLIP 1's START IMAGE — hour, wardrobe and serene expression matched, so the reel loops seamlessly.
+CUT LOGIC: ANGLE-CUT / LOOP back to CLIP 1; the next pass re-triggers the time-of-day cycle as she passes the lamp-posts.
+
+### ☆ EXTERNAL AUDIO — BLOCK 1: BACKGROUND SOUND DESIGN / AMBIENCE BED — E-3
+*The layered foley + per-hour ambience to lay UNDER the reel, separate from the in-clip diegetic audio — timed to the clips and cross-fading on each lamppost-trigger.*
+- Base bed (all clips): her footsteps on the bridge walkway; the cable-stays humming in the wind; water lapping below; a faint distant city.
+- CLIP 1 (dawn→golden): waking birdsong building into a fuller golden-hour chorus.
+- CLIP 2 (golden→sunset): the chorus + a soft sunset wind + a distant starling murmuration.
+- CLIP 3 (sunset→night): the last birdsong fading; lamp-posts buzzing on; crickets; a distant ship-horn.
+- CLIP 4 (night→dawn): the quiet night city; footsteps echoing; crickets fading; the first dawn birdsong returning.
+- CLIP 5 (reset): dawn birdsong + breeze — back to the CLIP-1 bed.
+- Mix note: each cross-fade lands on the lamppost-trigger (~2.0–4.5s of each clip); seamless; loops cleanly at ~26s.
+
+### ☆ EXTERNAL AUDIO — BLOCK 2: BACKGROUND MUSIC / SCORE TRACK — E-3 (lay under the sound bed)
+- Genre / vibe: a cinematic time-lapse score — one continuous build through time-of-day moods, a Hans-Zimmer slow-burn.
+- Tempo / key: builds — 70 → 90 → 100 → back to 70 BPM. Key: F major (dawn), peaks Bb major (sunset), deepens D minor (night), returns F major (dawn).
+- Core elements: dawn — solo piano + soft strings; golden hour — full strings swelling; sunset — strings + brass + a building percussive pulse; night — stripped solo cello + ambient pad + distant piano; dawn return — solo piano. A constant melodic motif (her) rides unchanged through all.
+- Arc: gentle piano (CLIP 1 dawn) → strings building (CLIP 2 golden) → full orchestral peak at sunset (CLIP 3) → stripped intimate cello at night (CLIP 4) → return to solo piano (CLIP 5 dawn loop).
+- Texture note: the dawn-to-sunset build should feel INEVITABLE (a sunrise from space, accelerated); the night drop a release, not a collapse.
+- Loop: a clean ~26s loop matching the visual loop point.
+
+---
