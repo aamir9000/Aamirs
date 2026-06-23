@@ -626,3 +626,201 @@ A warm sunlit meadow as the constant — soft breeze, layered birdsong, distant 
 Whimsical, warm, magical. KEY/TEMPO: C major, ~80 BPM. THE SPINE (constant): a light plucked harp/celeste motif with soft strings, present throughout. BUILD: the motif brightens as she scatters; a glittering glockenspiel swell reaches its peak on the CLIP 2 arm-arc (the hero beat); the sparkle draws back as she reforms, decaying to one soft harp note landing exactly where the reel began — a seamless infinite loop. Gentle, joyful, fairytale-light.
 
 ═══════════════════════════════════════════════════════════════════════════════
+
+
+# CONCEPT A-4 — SHE TURNS INTO FLOWERS & PETALS
+
+Transforms Into: a bloom of living flowers and petals — her body blossoms into a standing floral arrangement, holds, then the petals scatter and re-gather into solid Aira.
+Feeling: romantic beauty / rebirth — lush, feminine, tender, alive.
+★ HOOK (first ~1s): a macro on a single tight bud at her collarbone — it trembles, then bursts open into a vivid flower.
+Setting: a soft-focus greenhouse with diffused milky light, lush green foliage, floating pollen-motes, dewed leaves.
+Trigger (signature): THE COLLARBONE BUD BLOOMING — the first flower opening starts the spread; a flower closing back to a bud at the end reverses it.
+Voice: SILENT — diegetic greenhouse + score only.
+Duration: ~14s · 3 clips (angle-cut, single-magic morph, loops to CLIP 1).
+
+## CLIP 1 of 3 — MACRO→CLOSE-UP · THREE-QUARTER · EYE-LEVEL (human Aira → bloom-spread BEGINS mid-clip)
+
+### START IMAGE (keyframe)
+ANGLE & SHOT SIZE: opens as a MACRO on a tight bud at her collarbone, composed as an eye-level CLOSE-UP (face and upper chest), three-quarter, Aira's gaze lowered to the bud.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: an embroidered sage-green corseted midi with 3D floral appliqué climbing the bodice (modest, structured), the appliqué poised to "come alive".
+FOOTWEAR: out of frame (close-up).
+EYEWEAR: none.
+ACCESSORIES: a delicate floral gold ear-cuff, a fine gold chain, a small leaf-form ring.
+HAIR: a soft braided updo, warm chestnut, with small real flowers woven in, a few face-framing tendrils loose.
+MAKEUP: fresh and rosy — dewy glassy skin, a soft petal-pink flush, glossy natural lip, a dab of highlighter on the cheekbones, real pores.
+HANDS & NAILS: one hand drifting up near the collarbone bud, fingertips soft and open; clean blush-glazed nails.
+FACIAL MICRO-DYNAMICS: serene wonder — eyes lowered to the bud, lips just parted in a soft anticipatory smile, brows lifted gently, a slow tender blink, dewy catchlights.
+BODY POSTURE & WEIGHT: torso turned three-quarter, shoulders soft and open, head inclined down toward the blooming bud, breathing slow.
+KINETIC STILLNESS (8 layers): (1) the bud swelling, about to burst; (2) pollen-motes drifting in the diffused light; (3) loose tendrils stirring; (4) the floral appliqué subtly shifting as if breathing; (5) chest rising softly; (6) a dewdrop trembling on a nearby leaf; (7) green foliage swaying behind; (8) a slow tender blink.
+SPATIAL LOGIC: FOREGROUND — the collarbone bud and her soft hand, tack-sharp. MIDGROUND — Aira three-quarter. BACKGROUND — lush diffused greenhouse melting to soft green bokeh.
+LIGHTING: KEY — soft diffused milky greenhouse daylight. FILL — gentle green bounce from the foliage. RIM — a delicate bright edge on the hair and shoulder. PRACTICAL — sun through the glass canopy. SEPARATION — her warm-lit form against the soft green. BOUNCE — a fresh green kick under the jaw.
+LENS + DOF + BOKEH: opens 100mm macro on the bud (petal-detail sharp), resolving to 85mm f/2.2; foliage melting to creamy emerald bokeh.
+COMPOSITION: vertical 9:16, Aira upper-right, the collarbone bud the focal accent lower-centre, soft green negative space framing.
+SUBJECT FRAMING & POSITION: Aira reads from the face to the upper chest, framed in an intimate close-up with her torso at a three-quarter turn so the collarbone and its blooming bud sit clearly toward the lens, her face inclined down and in with tender focus. The camera is near at clean eye level, opening on the macro bud before settling on her serene face; she anchors upper-right so the soft greenhouse opens to frame-left, the body curved gently around the little bloom. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: dewy, hushed, tender — the held breath of a garden about to bloom.
+COLOUR GRADE: VIVID emerald and blush/peach/coral florals on soft green, rich and fresh, full mid-tone — saturated, glowing, never muddy.
+TEXTURE & MICRO-DETAIL: bud and petal-velvet detail, skin dew and pores, sage-corset embroidery, woven flowers, pollen-motes, leaf-dew.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features (except the intended morph), asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, muddy greens, garish oversaturation, flat light.
+
+### ANIMATION (this clip, ~5s — human establishing; ★ bloom-spread BEGINS mid-clip, clip ENDS mid-morph)
+SHOT TYPE & ANGLE: macro-into-eye-level close-up, three-quarter; subject ~55% upper-right.
+CAMERA MOVEMENT (CHOREOGRAPHY): a slow pull-back from the bud-macro into the close-up, then a gentle continuing push — one continuous shot.
+LENS: 100mm macro easing to 85mm, f/2.2.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–1.8s — she gazes down at the bud at her collarbone with tender anticipation; loose tendrils stir.
+- 1.8–3.0s — ★ TRIGGER: the bud trembles and bursts open into a vivid flower; her smile softens with wonder.
+- 3.0–4.5s — ★ MID-CLIP TRANSFORMATION BEGINS: blooms spread from the collarbone up her neck and across her shoulder, the appliqué coming alive into real flowers.
+- 4.5–5.0s — the bloom reaches her jaw and shoulder; she is now half-Aira, half-flowering, serene.
+FLUIDITY & WEIGHT NOTES: all eases — the bud-burst gentle, the spread climbing like time-lapse growth, petals unfurling slow; her tenderness against the bloom is the grace.
+FABRIC/HAIR/PROP PHYSICS: time-lapse bloom growth — buds swelling, petals unfurling with believable curl, vines creeping with phototropic motion; the corset appliqué morphs seamlessly into living blooms; pollen-motes drift on air-currents; a dewdrop rolls off a new petal.
+FOOTWORK & BODY FLOW: weight easy and grounded, a soft spinal incline toward the blooming collarbone.
+MID-CLIP TRANSFORMATION (timed): ★ BLOOM-SPREAD ONSET at 3.0–4.5s — triggered by the collarbone bud bursting, climbing from collarbone to jaw and shoulder, contained as an onset within this clip; clip ends half-bloomed.
+LIGHTING-IN-MOTION: as blooms spread, the diffused light warms a touch and dapples through the growing florals onto her skin.
+DIEGETIC AUDIO: a soft organic blooming-creak and tiny petal-rustle, delicate chimes, the hush of the greenhouse.
+MASTER TRACK: soft fingerpicked guitar/harp with a delicate music-box motif, a gentle bloom-swell beginning at 3.0s.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 2 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the sage-green corset half-overtaken by living blooms from the collarbone and shoulder up, the lower bodice still embroidered fabric.
+  • FOOTWEAR: out of frame.
+  • EYEWEAR: none.
+  • ACCESSORIES: the floral gold ear-cuff, chain and leaf-ring still present among the spreading blooms.
+  • HAIR: chestnut braided updo, the woven flowers multiplying and opening, tendrils stirring.
+  • MAKEUP: dewy rosy flush, glossy lip, highlighter glow, petal-soft.
+  • HANDS & NAILS: the hand near the collarbone beginning to sprout small blooms at the fingertips, blush-glazed nails.
+  • FACIAL MICRO-DYNAMICS: serene wonder, soft smile, eyes warm, a slow tender blink — calm amid the bloom.
+  • BODY POSTURE & WEIGHT: open and soft, the body turning to a fuller three-quarter as blooms climb, breathing.
+  • KINETIC STILLNESS (8 layers): (1) the bloom-spread climbing; (2) pollen-motes drifting; (3) tendrils stirring; (4) appliqué turning to real petals; (5) chest rising; (6) leaf-dew trembling; (7) blooms opening up the shoulder; (8) a tender blink.
+  • SPATIAL LOGIC: FOREGROUND — the blooming collarbone and hand. MIDGROUND — her half-floral figure. BACKGROUND — soft green greenhouse bokeh.
+  • LIGHTING: KEY — diffused milky daylight. FILL — green foliage bounce. RIM — delicate edge on the hair. PRACTICAL — sun through glass. SEPARATION — warm form against soft green. BOUNCE — green under the jaw.
+  • ATMOSPHERE: tender rebirth blooming, dewy and alive.
+  • COLOUR GRADE: VIVID emerald and blush/peach/coral on soft green, rich, fresh, full mid-tone.
+  • TEXTURE & MICRO-DETAIL: petal-velvet, bud detail, skin dew, embroidery turning to bloom, pollen-motes, leaf-dew.
+CUT LOGIC: hard ANGLE-CUT to CLIP 2 (full body, wide). No frame-match needed — the angle change is the edit. State carried forward: she is half-flowering, blooms climbing, serene.
+
+---
+
+## CLIP 2 of 3 — FULL BODY · WIDE · EYE-LEVEL (★ full FLOWER-FIGURE, the hero beat)
+
+### START IMAGE (keyframe)
+ANGLE & SHOT SIZE: eye-level WIDE, full body; Aira now a FLOWER-FIGURE — a human-shaped living arrangement of vivid blossoms, petals and leaves.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: fully transformed — the sage-corset and skirt are now woven of living flowers and foliage, the silhouette held in dense coral-blush-peach blooms with green leaf-accents.
+FOOTWEAR: implied — the lowest blooms and roots feather into the greenhouse floor.
+EYEWEAR: none.
+ACCESSORIES: the floral gold ear-cuff, chain and leaf-ring persist as small solid glints nested among the blooms.
+HAIR: the updo suggested by a crown of denser flowers and trailing vine-tendrils, chestnut-tinted leaves within.
+MAKEUP: implied — a dewy luminous sheen where the face would be, the bloom-cluster softest and brightest at the suggested features.
+HANDS & NAILS: hand-shapes formed of clustered petals, one "arm" lifted, the leaf-ring glinting in the cluster.
+FACIAL MICRO-DYNAMICS: her serene smile is read in the gentlest cluster of petals at the face, the whole figure trembling softly like breath.
+BODY POSTURE & WEIGHT: a soft, open stance held in flowers — weight gentle, one arm lifted, the floral form swaying slowly while keeping its human shape.
+KINETIC STILLNESS (8 layers): (1) petals trembling across the body; (2) pollen-motes floating; (3) trailing vine-tendrils stirring; (4) a few loose petals drifting down; (5) a slow sway like breath; (6) gold accessory-glints nested in blooms; (7) a bee visiting a flower; (8) the figure gently breathing.
+SPATIAL LOGIC: FOREGROUND — drifting petals and a sharp bloom. MIDGROUND — the flower-figure, the hero. BACKGROUND — lush diffused greenhouse melting to soft green bokeh.
+LIGHTING: KEY — soft diffused milky daylight with a sun-shaft highlighting the petals. FILL — green foliage bounce. RIM — a bright edge gilding the bloom-silhouette. PRACTICAL — sun through the glass canopy. SEPARATION — the vivid florals against the soft green. BOUNCE — fresh green from below.
+LENS + DOF + BOKEH: 35mm, f/2.8; the figure sharp, drifting petals and foliage as soft emerald bokeh.
+COMPOSITION: vertical 9:16, the flower-figure centred, blooms and foliage framing, soft green depth.
+SUBJECT FRAMING & POSITION: Aira fills the frame head-to-rooted-feet as a complete flower-figure, her silhouette soft and open with one "arm" lifted, the blooms holding a clear human shape against the greenhouse. The camera sits mid-distance at clean eye level, the wide framing showing the whole floral form and the air soft with drifting petals; she anchors dead-centre with foliage fanning to both sides and a sun-shaft gilding her. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: lush, transcendent, tender wonder — a being made of living blooms.
+COLOUR GRADE: VIVID coral-blush-peach florals on emerald — saturated, fresh, glowing, deep-enough green, never washed.
+TEXTURE & MICRO-DETAIL: dense petal-velvet, leaf-vein and dew, pollen-motes, drifting petals, gold accessory-glints, a bee's fuzz.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, garbled text, floating shadows, duplicated subjects, plastic look, oversharpened, watermarks, muddy greens, crushed blacks, garish oversaturation, flat light.
+
+### ANIMATION (this clip, ~5s — the magical hero beat; ★ reform BEGINS at the end)
+SHOT TYPE & ANGLE: eye-level wide, full body; subject ~50% centre.
+CAMERA MOVEMENT (CHOREOGRAPHY): a slow reverent orbit a few degrees around her — one continuous shot.
+LENS: 35mm, f/2.8.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–2.0s — the flower-figure holds her shape and trembles, petals shivering in slow waves, a few drifting down.
+- 2.0–3.0s — the lifted "arm" sweeps in a slow graceful arc, a shower of petals lifting off it — the hypnotic hero beat.
+- 3.0–4.0s — she settles, the whole figure swaying gently like a deep breath, sun-shaft gilding the blooms.
+- 4.0–5.0s — ★ REFORM BEGINS: petals begin to scatter and lift, the figure starting to gather back toward her solid form.
+FLUIDITY & WEIGHT NOTES: lush grace — the arm-arc eases, the tremble flows petal-to-petal, the scatter lifts like petals on a breeze; nothing snaps.
+FABRIC/HAIR/PROP PHYSICS: petal-fall with believable air-drift, vine-tendrils stirring with phototropic life, blooms opening and closing; the gold accents stay solid and weighted within; pollen-motes on air-currents.
+FOOTWORK & BODY FLOW: the figure's base stays rooted to the floor, the whole body swaying like flowers that remember a human form.
+MID-CLIP TRANSFORMATION (timed): ★ the hero HOLD (0.0–4.0s) then REFORM ONSET (4.0–5.0s) — petals begin scattering to re-gather, contained as an onset in this clip.
+LIGHTING-IN-MOTION: as the orbit moves, the sun-shaft sweeps new dapples across the blooms and a soft glow travels the floral form.
+DIEGETIC AUDIO: a soft petal-rustle and breeze, a gentle organic creak, the greenhouse hush.
+MASTER TRACK: the guitar/harp motif blooms to a delicate music-box peak on the arm-arc, then begins drawing back as the reform starts.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 3 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the sage-green corset re-forming from the feet up — solid embroidered fabric returning on the lower body, the upper body still gathering blooms.
+  • FOOTWEAR: out of frame.
+  • EYEWEAR: none.
+  • ACCESSORIES: the floral gold ear-cuff, chain and leaf-ring becoming hard points again as the form gathers.
+  • HAIR: the flower-crown condensing back into the chestnut braided updo, woven flowers settling.
+  • MAKEUP: dewy rosy flush and glossy lip resolving onto re-formed skin, highlighter settling.
+  • HANDS & NAILS: hands re-solidifying to skin with blush-glazed nails, the last petals at the fingertips.
+  • FACIAL MICRO-DYNAMICS: serene, soft smile, eyes lowering toward the collarbone, a tender blink as features resolve.
+  • BODY POSTURE & WEIGHT: settling into the soft open stance, the scattering petals pulling her down to standing, breathing.
+  • KINETIC STILLNESS (8 layers): (1) the reform-scatter gathering; (2) pollen-motes settling; (3) hair condensing; (4) corset re-forming; (5) chest rising; (6) gold glints re-appearing; (7) last petals settling; (8) a tender blink.
+  • SPATIAL LOGIC: FOREGROUND — the re-forming hand and collarbone. MIDGROUND — her half-resolved figure. BACKGROUND — soft green greenhouse bokeh.
+  • LIGHTING: KEY — diffused milky daylight. FILL — green bounce. RIM — delicate edge on the hair. PRACTICAL — sun through glass. SEPARATION — warm form against soft green. BOUNCE — green under the jaw.
+  • ATMOSPHERE: the bloom gently resolving, dewy and tender.
+  • COLOUR GRADE: VIVID emerald and blush/peach/coral on soft green, rich, fresh, full mid-tone.
+  • TEXTURE & MICRO-DETAIL: re-solidifying skin dew, condensing petals, embroidery reappearing, last petals, pollen-motes.
+CUT LOGIC: hard ANGLE-CUT to CLIP 3 (close-up, three-quarter). No frame-match needed. State carried forward: she is re-forming from the feet up, nearly solid, petals settling.
+
+---
+
+## CLIP 3 of 3 — CLOSE-UP · THREE-QUARTER · EYE-LEVEL (petals re-gather → solid Aira; LOOP to CLIP 1)
+
+### START IMAGE (keyframe)
+ANGLE & SHOT SIZE: eye-level CLOSE-UP, three-quarter; the petals swirling back and re-forming into human Aira, a single bloom closing to a bud at her collarbone.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: the embroidered sage-green corseted midi re-formed and intact, the 3D floral appliqué settled back onto the bodice.
+FOOTWEAR: out of frame.
+EYEWEAR: none.
+ACCESSORIES: the floral gold ear-cuff, fine chain and leaf-ring, solid and glinting again.
+HAIR: the soft chestnut braided updo restored, small real flowers woven in, face-framing tendrils loose.
+MAKEUP: fresh rosy — dewy glassy skin, petal-pink flush, glossy lip, cheekbone highlight, real pores.
+HANDS & NAILS: one hand drifting up near the collarbone, fingertips soft and open — matching CLIP 1 — blush-glazed nails.
+FACIAL MICRO-DYNAMICS: serene wonder — eyes lowered to the closing bud, lips just parted in a soft smile, brows lifted, a slow tender blink — exactly the look that opened CLIP 1.
+BODY POSTURE & WEIGHT: torso three-quarter, shoulders soft and open, head inclined down toward the collarbone, breathing.
+KINETIC STILLNESS (8 layers): (1) the bloom closing back to a tight bud; (2) pollen-motes drifting; (3) loose tendrils stirring; (4) the appliqué settling still; (5) chest easing on an exhale; (6) a dewdrop on a nearby leaf; (7) green foliage swaying; (8) a slow tender blink.
+SPATIAL LOGIC: FOREGROUND — the collarbone bud and her soft hand, sharp. MIDGROUND — Aira restored. BACKGROUND — lush diffused greenhouse green bokeh.
+LIGHTING: KEY — soft diffused milky daylight. FILL — gentle green bounce. RIM — delicate bright edge on the hair and shoulder. PRACTICAL — sun through the glass canopy. SEPARATION — warm form against soft green. BOUNCE — fresh green under the jaw.
+LENS + DOF + BOKEH: 85mm, f/2.2; her sharp, the bud crisp, foliage melting to creamy emerald bokeh — matched toward CLIP 1's resolve.
+COMPOSITION: vertical 9:16, Aira upper-right, the collarbone bud the focal accent lower-centre, soft green negative space — rhyming with CLIP 1.
+SUBJECT FRAMING & POSITION: Aira reads from the face to the upper chest, framed in an intimate close-up with her torso at a three-quarter turn so the collarbone and its closing bud sit toward the lens, her face inclined down and in with tender focus as the petals finish gathering her. The camera holds clean eye level at near distance, she anchors upper-right so the greenhouse opens to frame-left — composed to match CLIP 1's opening so the loop is seamless. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: dewy tender resolution — the garden hush exactly as it began.
+COLOUR GRADE: VIVID emerald and blush/peach/coral on soft green, rich, fresh, full mid-tone — matched to CLIP 1.
+TEXTURE & MICRO-DETAIL: bud and petal-velvet, skin dew and pores, corset embroidery, woven flowers, pollen-motes, leaf-dew.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, muddy greens, garish oversaturation, flat light.
+
+### ANIMATION (this clip, ~4s — reform completes; LOOP back to CLIP 1)
+SHOT TYPE & ANGLE: eye-level close-up, three-quarter; subject ~55% upper-right.
+CAMERA MOVEMENT (CHOREOGRAPHY): a slow settle easing toward CLIP 1's exact framing — one continuous shot.
+LENS: 85mm, f/2.2.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–2.0s — ★ REFORM COMPLETES: the swirling petals gather and solidify into Aira, features, hair and corset resolving from the feet up, the collarbone bloom last.
+- 2.0–3.0s — fully restored, she lowers her tender gaze to the bloom closing back into a tight bud at her collarbone.
+- 3.0–4.0s — she holds the exact serene stance and soft smile that opened CLIP 1, the bud poised to burst again — seamless loop point.
+FLUIDITY & WEIGHT NOTES: the reform gathers like petals settling, eased and continuous; she arrives in the opening pose with no snap, breath leading the settle.
+FABRIC/HAIR/PROP PHYSICS: petal re-gather — petals folding into skin and fabric with believable cohesion, vines retracting, the corset embroidery knitting back, the collarbone flower closing to a bud with reverse-bloom physics.
+FOOTWORK & BODY FLOW: weight roots soft and grounded, a gentle spinal incline toward the collarbone.
+MID-CLIP TRANSFORMATION (timed): ★ REFORM COMPLETION at 0.0–2.0s — the petals fully reassemble into base Aira, resolving the single-magic morph.
+LIGHTING-IN-MOTION: the dapples settle as she solidifies; the diffused key steadies to the exact softness of CLIP 1.
+DIEGETIC AUDIO: the petal-rustle resolving into a soft single chime as the bud closes, then the greenhouse hush.
+MASTER TRACK: the music-box motif draws back to one soft plucked note landing exactly where CLIP 1 began — seamless loop.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 1 (LOOP back to opening) — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the embroidered sage-green corseted midi intact, 3D floral appliqué on the bodice.
+  • FOOTWEAR: out of frame.
+  • EYEWEAR: none.
+  • ACCESSORIES: floral gold ear-cuff, fine gold chain, small leaf-form ring.
+  • HAIR: soft chestnut braided updo, small flowers woven in, face-framing tendrils loose.
+  • MAKEUP: dewy glassy skin, petal-pink flush, glossy natural lip, cheekbone highlight, real pores.
+  • HANDS & NAILS: one hand drifting up near the collarbone bud, fingertips soft and open, blush-glazed nails.
+  • FACIAL MICRO-DYNAMICS: serene wonder, eyes lowered to the bud, lips parted in a soft anticipatory smile, brows lifted, a slow tender blink.
+  • BODY POSTURE & WEIGHT: torso three-quarter, shoulders soft and open, head inclined down toward the bud, breathing slow.
+  • KINETIC STILLNESS (8 layers): (1) the bud swelling to burst; (2) pollen-motes drifting; (3) loose tendrils stirring; (4) the appliqué subtly shifting; (5) a slow inhale; (6) leaf-dew trembling; (7) green foliage swaying; (8) a tender blink.
+  • SPATIAL LOGIC: FOREGROUND — collarbone bud and soft hand. MIDGROUND — Aira three-quarter. BACKGROUND — lush diffused greenhouse green bokeh.
+  • LIGHTING: KEY — diffused milky daylight. FILL — green foliage bounce. RIM — delicate edge on the hair. PRACTICAL — sun through glass. SEPARATION — warm form against soft green. BOUNCE — green under the jaw.
+  • ATMOSPHERE: dewy, hushed, tender — a garden about to bloom, exactly as it began.
+  • COLOUR GRADE: VIVID emerald and blush/peach/coral on soft green, rich, fresh, full mid-tone.
+  • TEXTURE & MICRO-DETAIL: bud and petal-velvet, skin dew and pores, corset embroidery, woven flowers, pollen-motes, leaf-dew.
+CUT LOGIC: seamless ANGLE-CUT / LOOP back to CLIP 1 — the bud bursts open and she blooms again, forever.
+
+☆ EXTERNAL AUDIO — BLOCK 1: BACKGROUND SOUND DESIGN / AMBIENCE BED
+A humid greenhouse hush as the constant — faint dripping, distant birds, a soft breeze, a gentle bee. THROUGH-LINE: a soft organic blooming-creak with tiny chimes (the trigger), recurring at the loop. Layers: the bud-burst creak and petal-rustle as blooms spread (CLIP 1 end); a gentle continuous petal-rustle and breeze while she is the flower-figure (CLIP 2); the rustle drawing together and resolving to one soft chime as the bud closes, then the greenhouse hush (CLIP 3). Cross-fade beat to beat; the hush at the end equals the start.
+☆ EXTERNAL AUDIO — BLOCK 2: BACKGROUND MUSIC / SCORE TRACK
+Tender, romantic, warm. KEY/TEMPO: G major, ~72 BPM. THE SPINE (constant): soft fingerpicked guitar/harp with a delicate music-box motif, present throughout. BUILD: the motif warms as she blooms; a gentle swell reaches its peak on the CLIP 2 arm-arc (the hero beat); the swell decays as she reforms, drawing back to one soft plucked note landing exactly where the reel began — a seamless infinite loop. Tender, blossoming, a little bittersweet.
+
+═══════════════════════════════════════════════════════════════════════════════
