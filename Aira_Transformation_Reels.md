@@ -1421,3 +1421,201 @@ A hushed grand marble gallery as the constant — a vast soft room-tone, the fai
 Regal, opulent, baroque-cinematic. KEY/TEMPO: C major, ~66 BPM. THE SPINE (constant): a slow baroque-tinged string and harpsichord motif with deep cello, present throughout. BUILD: the strings rise as she gilds; a grand orchestral swell hits its peak on the CLIP 2 gold arm-arc (the hero beat); the swell decays as the gold recedes, drawing back to one harpsichord note landing exactly where the reel began — a seamless infinite loop. Luxurious, powerful, museum-grand.
 
 ═══════════════════════════════════════════════════════════════════════════════
+
+
+# CONCEPT B-3 — SHE TURNS INTO GLASS & CRYSTAL
+
+Transforms Into: translucent faceted crystal — her flesh turns to clear glass, light splitting into rainbows through her, holds as a crystalline figure, then clarifies back into solid Aira.
+Feeling: fragile beauty / ethereal prism — delicate, luminous, prismatic, breath-holding.
+★ HOOK (first ~1s): a macro on her hand as it turns clear and a rainbow refraction splits across it — then crystal spreads.
+Setting: a bright white-and-glass studio with one hard light source for dispersion, clean and minimal, faint rainbow caustics on the floor.
+Trigger (signature): HARD LIGHT HITTING HER HAND — the beam striking her skin (or her touching a crystal prism) starts the faceting; the crystal clarifying back completes the reverse.
+Voice: SILENT — diegetic glass tones + score only.
+Duration: ~14s · 3 clips (angle-cut, single-magic morph, loops to CLIP 1).
+
+## CLIP 1 of 3 — MACRO→CLOSE-UP · THREE-QUARTER · EYE-LEVEL (human Aira → crystal BEGINS spreading mid-clip)
+
+### START IMAGE (keyframe)
+ANGLE & SHOT SIZE: opens as a MACRO on her raised hand catching a hard light-beam, composed as an eye-level CLOSE-UP (face and hand), three-quarter, Aira gazing at her own hand in wonder.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: a structured pale-iridescent crystal-organza gown (modest, high neck), the fabric catching faint rainbows, poised to crystallise.
+FOOTWEAR: out of frame (close-up).
+EYEWEAR: none.
+ACCESSORIES: crystal drop earrings, a clear-stone ring on the raised hand, a fine silver chain.
+HAIR: a sleek glassy low ponytail, icy platinum, a prism-shimmer along its length.
+MAKEUP: luminous iridescent — a pearl highlight, a soft prism-shimmer lid, a glossy clear-pink lip, real pores catching the bright key.
+HANDS & NAILS: one hand raised before her face, fingers spread to the light, a rainbow splitting across the palm; clear glass-glaze nails.
+FACIAL MICRO-DYNAMICS: delicate wonder — eyes on her own hand, lips parted in a soft awed breath, brows lifted, a slow marvelling blink, bright clean catchlights.
+BODY POSTURE & WEIGHT: a soft poised stance, torso three-quarter, the raised hand drawing the gaze, shoulders open, breathing light.
+KINETIC STILLNESS (8 layers): (1) the rainbow splitting and shifting on the palm; (2) faint caustics dancing on the white floor; (3) the platinum ponytail's prism-shimmer; (4) the organza catching tiny rainbows; (5) chest rising softly; (6) a clear earring throwing a spectrum; (7) the first facet glinting on a fingertip; (8) a slow marvelling blink.
+SPATIAL LOGIC: FOREGROUND — the raised hand and splitting rainbow, tack-sharp. MIDGROUND — her face, three-quarter. BACKGROUND — a clean bright white-and-glass studio.
+LIGHTING: KEY — one hard bright key creating dispersion/rainbows. FILL — clean white bounce. RIM — a prism-edge on the ponytail and shoulder. PRACTICAL — the hard beam, rainbow caustics. SEPARATION — her form against the clean white. BOUNCE — bright white kick.
+LENS + DOF + BOKEH: opens 100mm macro on the hand (refraction sharp), resolving to 85mm f/2.2; bright studio soft behind, rainbow flares as bokeh.
+COMPOSITION: vertical 9:16, Aira right-of-centre, the raised hand and rainbow the focal accent upper-left, clean white negative space.
+SUBJECT FRAMING & POSITION: Aira reads from the face to the raised hand, framed in an intimate close-up with her torso at a three-quarter turn and her hand lifted to the light upper-left, her face turned toward it in soft wonder. The camera is near at clean eye level, opening on the macro hand before settling on her marvelling face; she anchors right-of-centre so the bright studio opens to frame-left, the body soft and open to the light. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: clean, bright, delicate — the breath-held instant before glass blooms.
+COLOUR GRADE: VIVID iridescent rainbow on clean bright white — prismatic spectral pops, crisp whites, full mid-tone, never washed.
+TEXTURE & MICRO-DETAIL: glass refraction and rainbow dispersion, skin pores under bright light, organza shimmer, crystal-earring spectra, glass-glaze nails.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features (except the intended morph), asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, dull/opaque glass, muddy colour, flat light.
+
+### ANIMATION (this clip, ~5s — human establishing; ★ crystallisation BEGINS mid-clip, clip ENDS mid-morph)
+SHOT TYPE & ANGLE: macro-into-eye-level close-up, three-quarter; subject ~55% right-of-centre.
+CAMERA MOVEMENT (CHOREOGRAPHY): a slow pull-back from the hand-macro into the close-up, then a gentle continuing push — one continuous shot.
+LENS: 100mm macro easing to 85mm, f/2.2.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–1.8s — she lifts her hand into the light, a rainbow splitting across the palm; she gazes at it in wonder.
+- 1.8–3.0s — ★ TRIGGER: the hard beam strikes her hand fully; the skin begins to clarify to glass.
+- 3.0–4.5s — ★ MID-CLIP TRANSFORMATION BEGINS: crystal spreads up the arm and across the shoulder, faceting, rainbows splitting through her.
+- 4.5–5.0s — the crystal reaches her jaw; she is now half-flesh, half-glass, gazing in delicate wonder.
+FLUIDITY & WEIGHT NOTES: all eases — the hand lifts slow, the clarifying blooms gently, the faceting climbs like frost on glass; her wonder against the prism is the grace.
+FABRIC/HAIR/PROP PHYSICS: refraction/caustics + faceting simulation — accurate glass refraction, rainbow dispersion, internal facets and slight fractures catching light, caustics thrown on the floor; the organza fuses into clear crystal; no opaque-plastic look.
+FOOTWORK & BODY FLOW: a soft, grounded poise; only the raised hand, the gaze and the spreading crystal move.
+MID-CLIP TRANSFORMATION (timed): ★ CRYSTALLISATION ONSET at 3.0–4.5s — triggered by the beam striking her hand, spreading up the arm to the jaw, contained as an onset within this clip; clip ends half-crystal.
+LIGHTING-IN-MOTION: as she crystallises, the hard beam refracts through her, throwing live rainbow caustics that crawl across the white floor.
+DIEGETIC AUDIO: a high glassy ring as the hand clarifies, then delicate crystalline tinkles as the crystal spreads.
+MASTER TRACK: a delicate glass-harmonica/glockenspiel and harp motif, a shimmering swell beginning at 3.0s.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 2 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the crystal-organza gown half-crystallised from the shoulders and arm up into clear faceted glass, the lower gown still iridescent organza.
+  • FOOTWEAR: out of frame.
+  • EYEWEAR: none.
+  • ACCESSORIES: the crystal earrings and clear-stone ring now seamless with the faceting, throwing spectra.
+  • HAIR: the platinum ponytail clarifying into spun-glass strands, prism-shimmer intensifying.
+  • MAKEUP: the iridescent glam lit prismatic, skin becoming clear glass where transformed.
+  • HANDS & NAILS: the raised hand fully clear faceted crystal, rainbows splitting through it, glass-glaze nails part of it.
+  • FACIAL MICRO-DYNAMICS: delicate wonder, eyes on her hand, lips parted, a slow marvelling blink — awe amid the crystal.
+  • BODY POSTURE & WEIGHT: soft and open, the body turning to a fuller three-quarter as crystal climbs, breathing light.
+  • KINETIC STILLNESS (8 layers): (1) the faceting spreading; (2) rainbow caustics on the floor; (3) the ponytail clarifying to glass; (4) the organza crystallising; (5) chest rising; (6) earrings throwing spectra; (7) internal facets glinting; (8) a marvelling blink.
+  • SPATIAL LOGIC: FOREGROUND — the crystal hand splitting rainbows. MIDGROUND — her half-glass figure. BACKGROUND — clean bright white-and-glass studio.
+  • LIGHTING: KEY — hard bright key for dispersion. FILL — clean white bounce. RIM — prism-edge. PRACTICAL — the beam, rainbow caustics. SEPARATION — her form against white. BOUNCE — bright white.
+  • ATMOSPHERE: fragile prismatic wonder taking hold, clean and luminous.
+  • COLOUR GRADE: VIVID iridescent rainbow on clean white, prismatic, crisp whites.
+  • TEXTURE & MICRO-DETAIL: glass refraction, facet edges, rainbow dispersion, skin pores where flesh, organza-to-crystal, caustics.
+CUT LOGIC: hard ANGLE-CUT to CLIP 2 (full body, front). No frame-match needed — the angle change is the edit. State carried forward: she is half-crystal, faceting upward, in wonder.
+
+---
+
+## CLIP 2 of 3 — FULL BODY · FRONT · EYE-LEVEL (★ full CRYSTAL FIGURE, the hero beat)
+
+### START IMAGE (keyframe)
+ANGLE & SHOT SIZE: eye-level FULL BODY, front; Aira now a complete CRYSTAL FIGURE — clear faceted glass in her form, light splitting into rainbows through her.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: fully transformed — the organza gown is now clear faceted crystal fused with her form, the drape rendered in glass planes refracting spectra.
+FOOTWEAR: implied — clear crystal feet on the white floor, casting bright rainbow caustics beneath.
+EYEWEAR: none.
+ACCESSORIES: the crystal earrings and ring are now seamless bright facets within the glass form.
+HAIR: the ponytail a fall of spun-glass strands, each catching and bending light.
+MAKEUP: implied in the facets — a luminous clarity where the face would be, the features modelled in clear glass.
+HANDS & NAILS: hands of clear faceted crystal, fingers articulated, rainbows splitting through them.
+FACIAL MICRO-DYNAMICS: her delicate serenity is read in the clearest planes of the glass-face, the form gently breathing as the refractions shift.
+BODY POSTURE & WEIGHT: a soft, open stance held in crystal — weight light, one arm lifted, the glass form subtly shifting its refractions as if breathing, keeping her human shape.
+KINETIC STILLNESS (8 layers): (1) rainbows sweeping through the body as light shifts; (2) bright caustics fanning across the white floor; (3) the spun-glass ponytail bending light; (4) internal facets and slight fractures glinting; (5) a slow shift like breath; (6) earring-facets throwing spectra; (7) a clean specular travelling the form; (8) the figure gently breathing.
+SPATIAL LOGIC: FOREGROUND — a sharp crystal facet throwing a rainbow. MIDGROUND — the crystal figure, the hero. BACKGROUND — clean bright white-and-glass studio with rainbow caustics.
+LIGHTING: KEY — the hard beam blazing through her, throwing rainbow caustics everywhere. FILL — clean white bounce. RIM — a prismatic edge defining the glass silhouette. PRACTICAL — the beam, caustics on every surface. SEPARATION — the luminous crystal figure against bright white. BOUNCE — white-and-rainbow from the floor.
+LENS + DOF + BOKEH: 35mm, f/2.8; the figure sharp, caustics and rainbow flares as soft bokeh.
+COMPOSITION: vertical 9:16, the crystal figure centred, rainbow caustics fanning around her, clean white framing.
+SUBJECT FRAMING & POSITION: Aira fills the frame head-to-crystal-feet as a complete crystal figure, squared near-front so the faceted form shows the clear modelled face and the prismatic planes of the body. The camera sits mid-distance at clean eye level, the front view letting light blaze straight through her into rainbows; she anchors dead-centre with caustics fanning to both sides on the white floor. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: transcendent, fragile, luminous — a being made of living light and glass.
+COLOUR GRADE: VIVID prismatic rainbow on clean bright white — spectral pops, crisp whites, the rainbow the saturated anchor.
+TEXTURE & MICRO-DETAIL: facet planes, internal refraction and fractures, rainbow dispersion, bright caustics, spun-glass hair.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, garbled text, floating shadows, duplicated subjects, plastic/opaque look, oversharpened, watermarks, dull glass, muddy colour, flat light.
+
+### ANIMATION (this clip, ~5s — the magical hero beat; ★ reform BEGINS at the end)
+SHOT TYPE & ANGLE: eye-level full body, front; subject ~60% centre.
+CAMERA MOVEMENT (CHOREOGRAPHY): a slow reverent orbit a few degrees around her — one continuous shot.
+LENS: 35mm, f/2.8.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–2.0s — the crystal figure holds her shape, rainbows sweeping through the glass as the light angle shifts, caustics dancing.
+- 2.0–3.0s — one crystal arm lifts in a slow graceful arc, a fan of rainbows splitting off the fingertips — the prismatic hero beat.
+- 3.0–4.0s — she settles, the whole form glinting and refracting gently like a deep breath.
+- 4.0–5.0s — ★ REFORM BEGINS: the crystal begins to clarify back toward skin, the facets softening to flesh from the top.
+FLUIDITY & WEIGHT NOTES: delicate grace — the arm-arc eases, the refractions sweep slow, the clarifying flows gently; nothing snaps.
+FABRIC/HAIR/PROP PHYSICS: refraction/caustics + faceting simulation — accurate dispersion shifting with the orbit, internal facets and fractures, caustics tracking the move; the form's refractions read as living glass; clarify-onset softens facets to skin.
+FOOTWORK & BODY FLOW: crystal feet grounded with bright caustics, the body holding a soft sway as it breathes light.
+MID-CLIP TRANSFORMATION (timed): ★ the hero HOLD (0.0–4.0s) then REFORM ONSET (4.0–5.0s) — the crystal begins clarifying to flesh, contained as an onset in this clip.
+LIGHTING-IN-MOTION: as the orbit moves, the beam sends sweeping rainbows through her and the floor-caustics fan and shift.
+DIEGETIC AUDIO: a sustained singing-glass tone, delicate tinkles, beginning to soften.
+MASTER TRACK: the glass-harmonica and harp reach a shimmering swell on the arm-arc peak, then begin drawing back as the reform starts.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 3 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the crystal clarifying from the feet up — solid iridescent organza returning on the lower body, the upper body still faceted glass.
+  • FOOTWEAR: out of frame.
+  • EYEWEAR: none.
+  • ACCESSORIES: the crystal earrings and clear-stone ring resolving back to solid jewellery as facets soften.
+  • HAIR: the spun-glass strands clarifying back to the platinum ponytail from the crown down.
+  • MAKEUP: the iridescent glam resolving onto re-formed skin, pearl highlight settling.
+  • HANDS & NAILS: hands clarifying from crystal to skin, glass-glaze nails returning, the last rainbow on the fingertips.
+  • FACIAL MICRO-DYNAMICS: delicate wonder, eyes toward her hand, lips parted, a slow blink as flesh returns.
+  • BODY POSTURE & WEIGHT: settling toward the soft poised stance, the clarifying glass revealing her, breathing light.
+  • KINETIC STILLNESS (8 layers): (1) the clarify line descending; (2) caustics fading; (3) the ponytail un-glassing; (4) organza returning; (5) chest rising; (6) earrings re-resolving; (7) last facets glinting; (8) a marvelling blink.
+  • SPATIAL LOGIC: FOREGROUND — the clarifying hand. MIDGROUND — her half-resolved figure. BACKGROUND — clean bright white-and-glass studio.
+  • LIGHTING: KEY — hard bright key. FILL — clean white bounce. RIM — fading prism-edge. PRACTICAL — the beam, fading caustics. SEPARATION — her form against white. BOUNCE — bright white.
+  • ATMOSPHERE: the prismatic spell resolving, clean and delicate.
+  • COLOUR GRADE: VIVID iridescent rainbow on clean white, prismatic, crisp whites.
+  • TEXTURE & MICRO-DETAIL: clarifying facets, re-emerging skin pores, organza returning, fading caustics, last rainbows.
+CUT LOGIC: hard ANGLE-CUT to CLIP 3 (close-up, three-quarter). No frame-match needed. State carried forward: she is clarifying from the feet up, nearly flesh, a last rainbow on the hand.
+
+---
+
+## CLIP 3 of 3 — CLOSE-UP · THREE-QUARTER · EYE-LEVEL (crystal clarifies → solid Aira; LOOP to CLIP 1)
+
+### START IMAGE (keyframe)
+ANGLE & SHOT SIZE: eye-level CLOSE-UP, three-quarter; the crystal clarifying into human Aira, a last rainbow fading off her raised hand.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: the structured pale-iridescent crystal-organza gown re-formed and intact, catching faint rainbows, modest high neck.
+FOOTWEAR: out of frame.
+EYEWEAR: none.
+ACCESSORIES: crystal drop earrings, the clear-stone ring on the raised hand, a fine silver chain — solid and sparkling again.
+HAIR: the sleek glassy low platinum ponytail restored, a prism-shimmer along it.
+MAKEUP: luminous iridescent — pearl highlight, prism-shimmer lid, glossy clear-pink lip, real pores.
+HANDS & NAILS: one hand raised before her face, fingers spread to the light, a last rainbow fading across the palm — matching CLIP 1 — glass-glaze nails.
+FACIAL MICRO-DYNAMICS: delicate wonder — eyes on her own hand, lips parted in a soft awed breath, brows lifted, a slow marvelling blink — exactly the look that opened CLIP 1.
+BODY POSTURE & WEIGHT: a soft poised stance, torso three-quarter, the raised hand drawing the gaze, shoulders open, breathing light.
+KINETIC STILLNESS (8 layers): (1) the last rainbow fading on the palm; (2) faint caustics settling on the white floor; (3) the ponytail's prism-shimmer; (4) the organza catching tiny rainbows; (5) chest easing on an exhale; (6) a clear earring throwing a last spectrum; (7) a final facet glint fading on a fingertip; (8) a slow marvelling blink.
+SPATIAL LOGIC: FOREGROUND — the raised hand and fading rainbow, sharp. MIDGROUND — her face, three-quarter. BACKGROUND — clean bright white-and-glass studio.
+LIGHTING: KEY — one hard bright key. FILL — clean white bounce. RIM — prism-edge on the ponytail and shoulder. PRACTICAL — the beam, settling caustics. SEPARATION — her form against clean white. BOUNCE — bright white kick.
+LENS + DOF + BOKEH: 85mm, f/2.2; her sharp, the fading rainbow crisp, bright studio soft behind — matched toward CLIP 1's resolve.
+COMPOSITION: vertical 9:16, Aira right-of-centre, the raised hand and rainbow the focal accent upper-left, clean white negative space — rhyming with CLIP 1.
+SUBJECT FRAMING & POSITION: Aira reads from the face to the raised hand, framed in an intimate close-up with her torso at a three-quarter turn and her hand lifted to the light upper-left as the crystal finishes clarifying, her face turned toward it in soft wonder. The camera holds near distance at clean eye level, she anchors right-of-centre so the bright studio opens to frame-left — composed to match CLIP 1's opening so the loop is seamless. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: clean, delicate resolution — the breath-held calm exactly as it began.
+COLOUR GRADE: VIVID iridescent rainbow on clean bright white, prismatic, crisp whites — matched to CLIP 1.
+TEXTURE & MICRO-DETAIL: glass refraction fading, skin pores under bright light, organza shimmer, crystal-earring spectra, glass-glaze nails.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, dull/opaque glass, muddy colour, flat light.
+
+### ANIMATION (this clip, ~4s — reform completes; LOOP back to CLIP 1)
+SHOT TYPE & ANGLE: eye-level close-up, three-quarter; subject ~55% right-of-centre.
+CAMERA MOVEMENT (CHOREOGRAPHY): a slow settle easing toward CLIP 1's exact framing — one continuous shot.
+LENS: 85mm, f/2.2.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–2.0s — ★ REFORM COMPLETES: the crystal clarifies to flesh, features, hair and organza resolving from the feet up, the raised hand last.
+- 2.0–3.0s — fully restored, she gazes at her hand as a last rainbow fades across the palm.
+- 3.0–4.0s — she holds the exact delicate wonder that opened CLIP 1, the light about to split again — seamless loop point.
+FLUIDITY & WEIGHT NOTES: the reform flows like glass softening to skin, eased and continuous; she arrives in the opening look with no snap, breath leading the settle.
+FABRIC/HAIR/PROP PHYSICS: clarify simulation — facets softening to skin and organza with believable light-decay, the ponytail un-glassing, rainbows fading; the light begins to split on her palm again.
+FOOTWORK & BODY FLOW: weight roots into the soft poised stance, a gentle settle.
+MID-CLIP TRANSFORMATION (timed): ★ REFORM COMPLETION at 0.0–2.0s — the crystal fully clarifies into base Aira, resolving the single-magic morph.
+LIGHTING-IN-MOTION: the rainbow caustics settle and fade; the hard key steadies to the exact bright of CLIP 1.
+DIEGETIC AUDIO: the singing-glass tone resolving into a single high glassy ring, then the clean studio quiet.
+MASTER TRACK: the glass-harmonica draws back to one glassy note landing exactly where CLIP 1 began — seamless loop.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 1 (LOOP back to opening) — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the structured pale-iridescent crystal-organza gown intact, modest high neck, catching faint rainbows.
+  • FOOTWEAR: out of frame.
+  • EYEWEAR: none.
+  • ACCESSORIES: crystal drop earrings, clear-stone ring on the raised hand, fine silver chain.
+  • HAIR: a sleek glassy low platinum ponytail with a prism-shimmer.
+  • MAKEUP: pearl highlight, prism-shimmer lid, glossy clear-pink lip, real pores.
+  • HANDS & NAILS: one hand raised before her face, fingers spread to the light, a rainbow splitting across the palm, glass-glaze nails.
+  • FACIAL MICRO-DYNAMICS: delicate wonder, eyes on her hand, lips parted in a soft awed breath, brows lifted, a slow marvelling blink.
+  • BODY POSTURE & WEIGHT: soft poised stance, torso three-quarter, the raised hand drawing the gaze, shoulders open, breathing light.
+  • KINETIC STILLNESS (8 layers): (1) the rainbow splitting on the palm; (2) faint caustics on the white floor; (3) the ponytail's prism-shimmer; (4) the organza catching rainbows; (5) a slow inhale; (6) an earring throwing a spectrum; (7) the first facet on a fingertip; (8) a marvelling blink.
+  • SPATIAL LOGIC: FOREGROUND — raised hand and splitting rainbow. MIDGROUND — her face, three-quarter. BACKGROUND — clean bright white-and-glass studio.
+  • LIGHTING: KEY — one hard bright key for dispersion. FILL — clean white bounce. RIM — prism-edge on the ponytail. PRACTICAL — the beam, rainbow caustics. SEPARATION — her form against white. BOUNCE — bright white kick.
+  • ATMOSPHERE: clean, bright, delicate — the instant before glass blooms, exactly as it began.
+  • COLOUR GRADE: VIVID iridescent rainbow on clean bright white, prismatic, crisp whites.
+  • TEXTURE & MICRO-DETAIL: glass refraction and dispersion, skin pores, organza shimmer, crystal-earring spectra, glass-glaze nails.
+CUT LOGIC: seamless ANGLE-CUT / LOOP back to CLIP 1 — the light strikes her hand and she crystallises again, forever.
+
+☆ EXTERNAL AUDIO — BLOCK 1: BACKGROUND SOUND DESIGN / AMBIENCE BED
+A clean quiet bright studio as the constant — a soft neutral room-tone. THROUGH-LINE: a high glassy ring (the light-touch trigger), recurring at the loop. Layers: delicate crystalline tinkles as the crystal spreads (CLIP 1 end); a sustained singing-glass tone (like a wet finger on crystal) while she is the crystal-figure (CLIP 2); the tone resolving to one ring and the clean quiet as she clarifies (CLIP 3). Cross-fade beat to beat; the quiet at the end equals the start.
+☆ EXTERNAL AUDIO — BLOCK 2: BACKGROUND MUSIC / SCORE TRACK
+Delicate, ethereal, luminous. KEY/TEMPO: A major, ~70 BPM. THE SPINE (constant): a glass-harmonica/glockenspiel and harp motif with soft high strings, present throughout. BUILD: the bells brighten as she crystallises; a shimmering swell reaches its peak on the CLIP 2 crystal arm-arc (the hero beat); the sparkle decays as she clarifies, drawing back to one glassy note landing exactly where the reel began — a seamless infinite loop. Fragile, prismatic, breath-holding.
+
+═══════════════════════════════════════════════════════════════════════════════
