@@ -32,6 +32,7 @@ This reel is generated as a CHAIN OF SINGLE-ANGLE ANIMATED CLIPS, edited togethe
 - The NEXT clip CUTS TO A DIFFERENT ANGLE (front → over-shoulder → profile → low → overhead → three-quarter…). That angle change IS the edit point — it reads as an intentional angle-cut, the way films cut between coverage.
 - Because every cut lands on a NEW ANGLE, there is NO need for matched start/end keyframes, no pixel-matching, no seam-lock. The state simply CARRIES FORWARD: whatever the world looked like at the end of the previous clip, the next clip opens in that same state from a new angle.
 - START IMAGE (keyframe) per clip = the heavy-detail still the clip begins on, from that clip's angle, in the story's current state. The ANIMATION text describes the motion and the exact mid-clip transformation, ending in the new state. CUT LOGIC names the next angle.
+- STATE HANDOFF (precision lock — read carefully): at the END of every clip's ANIMATION there is a `↪ STATE HANDOFF` sheet that reproduces, field by field, the EXACT opening frame of the NEXT clip — wardrobe, footwear, eyewear, accessories, hair, makeup, hands/nails, facial expression, body posture, the 8 kinetic-stillness layers, spatial logic (foreground/midground/background + objects), lighting (key/fill/rim/practical/separation/bounce + colour temperature), atmosphere (weather/time), colour grade, and texture. This guarantees the resolved END of a clip ("the first frame's second half") is IDENTICAL in every detail to the OPENING of the next clip ("the second frame's first half") — the ONLY permitted difference is the camera angle. The final clip's handoff loops back to CLIP 1's opening frame. (The handoff is copied directly from the next clip's START IMAGE so the two can never drift apart.)
 - Multi-change concepts (seasons, eras, weather, day→night, world-per-floor): EACH clip carries one change in its middle. Single-magic concepts (coffee, locket, music box): the hero transformation happens mid-clip in ONE designated clip; the other clips are different angles of the before/after state.
 - TRANSFORMATION TRIGGER (motivated cause): every change is triggered by a deliberate, repeatable action Aira performs — a footstep, passing a window/lamppost/corner, a button-press, a song-skip — so the magic reads as CAUSED BY HER, never random. Each concept keeps ONE consistent signature trigger (stated in its header) repeated for every change within that concept; the trigger differs from concept to concept. The transformation begins ON the trigger action and resolves into the new state by the clip's end.
 - The final clip cuts back to the opening angle/state so the whole reel loops.
@@ -177,6 +178,23 @@ MID-CLIP TRANSFORMATION (timed): NONE in this clip — pure living establishing 
 LIGHTING-IN-MOTION: the sun-rim strengthens slightly as a thin cloud clears outside, lifting the ponytail highlight.
 DIEGETIC AUDIO: distant muffled city hum, soft room tone, a faint ceramic settle, the low curl of steam, one slow breath, a single morning bird.
 MASTER TRACK: a low warm ambient swell — Rhodes pads, a single shimmering pluck.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 2 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the ivory silk shirt-dress in profile, sleeve rolled at the forearm, gold belt catching a glint, neckline draping soft.
+  • FOOTWEAR: out of frame (medium crop); weight even on both bare feet implied.
+  • EYEWEAR: none.
+  • ACCESSORIES: gold hoop framed clean against the bright window, slim watch on the pouring wrist, stacked rings on the carafe hand, glossy nude nails.
+  • HAIR: the ponytail in full side silhouette, sleek crown, the loose strand grazing the cheekbone, back-lit to a glowing edge.
+  • MAKEUP: profile dewy glow — glassy cheek, peach lip with a wet point, golden lid shimmer.
+  • HANDS & NAILS: carafe tilted in the right hand at a believable pour angle, left hand steadying the cup below; glossy nude nails, wrists relaxed.
+  • FACIAL MICRO-DYNAMICS: eyes tracking the pour-point with serene focus, a faint contented micro-smile, lips just parted, brow smooth.
+  • BODY POSTURE & WEIGHT: upright and graceful, weight centred, the pouring arm raised at a natural angle, shoulders level, breathing.
+  • KINETIC STILLNESS (8 layers): (1) the first coffee stream beginning to fall NORMALLY; (2) steam rising; (3) the loose strand drifting; (4) silk sleeve shifting; (5) chest in a soft breath; (6) a sun-glint on the carafe rim; (7) the belt glint flickering; (8) a slow half-blink settling.
+  • SPATIAL LOGIC: FOREGROUND — the cup and the falling stream, sharp. MIDGROUND — Aira in profile. BACKGROUND — the luminous blown-out skyline beyond the glass, soft.
+  • LIGHTING: KEY — strong contre-jour sun along her profile from behind the glass. FILL — gentle marble bounce on the near cheek. RIM — gold edge on nose, lips, lash, ponytail. PRACTICAL — under-cabinet strip. SEPARATION — bright window vs shaded near-side. BOUNCE — warm kick under the jaw.
+  • ATMOSPHERE: the quiet thrill of the impossible about to begin, warm and weightless.
+  • COLOUR GRADE: VIVID — golden contre-jour rim against rich mid-tone skin, the dark coffee a saturated contrast, a cool sky sliver for balance, glossy speculars.
+  • TEXTURE & MICRO-DETAIL: the coffee's liquid sheen and surface-tension beading, silk weave at the sleeve, fine lash detail in the rim, brass rim micro-scratches, a steam coil.
+
 CUT LOGIC: hard ANGLE-CUT to CLIP 2 (profile, slight low). No frame-match needed — the angle change is the edit. State carried forward: she now holds the carafe, ready to pour.
 
 ---
@@ -222,6 +240,23 @@ MID-CLIP TRANSFORMATION (timed): ★ HERO MOVE at 3.5–5.0s — the gravity rev
 LIGHTING-IN-MOTION: as the ribbon climbs it catches the contre-jour sun, glowing amber at its edges; a faint warm bounce grows on her cheek.
 DIEGETIC AUDIO: a normal coffee pour (0.0–3.5s) that, at the reversal, bends into a gently reversed-timbre rising pour; a carafe-tilt creak, a tiny liquid-bead tick, continuous room tone.
 MASTER TRACK: a soft shimmer-swell rises exactly on the 3.5s reversal — the magic's musical sting.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 3 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the ivory silk collar and open neckline, one shoulder softly dropped, the gold chain-belt glinting at the lower frame.
+  • FOOTWEAR: out of frame.
+  • EYEWEAR: none.
+  • ACCESSORIES: gold hoops, stacked rings on the carafe hand entering lower frame, slim watch, glossy nude nails.
+  • HAIR: the glossy ponytail crown and loose face-framing strand, baby-hairs catching light, flyaway-free.
+  • MAKEUP: dewy glow at close range — glassy skin with real pores, soft peach lip with a wet point, warm golden lid, golden cheekbone highlight.
+  • HANDS & NAILS: the near hand holds the cup steady at the lower frame, thumb along its rim; glossy nude nails, knuckles soft.
+  • FACIAL MICRO-DYNAMICS: lids relaxed at three-quarter, eyes softly tracking the floating ribbon without surprise, brow smooth, the corner-smile alive, lips barely parted — fluid and breathing.
+  • BODY POSTURE & WEIGHT: a relaxed three-quarter turn toward camera, shoulders easy, a faint chin-lift to follow the loop, alive with breath.
+  • KINETIC STILLNESS (8 layers): (1) the coffee loop cycling behind/above; (2) a slow eyelash settle; (3) the loose strand drifting; (4) silk shifting at the collar; (5) chest rising softly; (6) a catch-light brightening in the eye; (7) a faint ribbon-glow on her cheek; (8) the ponytail micro-swaying.
+  • SPATIAL LOGIC: FOREGROUND — the cup and near hand, soft. MIDGROUND — her face, sharp. BACKGROUND — the cycling coffee loop and skyline bokeh, creamy.
+  • LIGHTING: KEY — soft beauty key from window-left. FILL — warm marble bounce. RIM — gold edge on ponytail and shoulder. PRACTICAL — under-cabinet strip. SEPARATION — bright bokeh behind the face. BOUNCE — warm ribbon-glow kick on the cheek.
+  • ATMOSPHERE: intimate wonder worn as calm, warm and weightless.
+  • COLOUR GRADE: VIVID — glowing warm skin, the dark coffee a rich contrast, saturated gold bokeh, peach and ivory, glossy speculars.
+  • TEXTURE & MICRO-DETAIL: real pores and peach-fuzz in the rim, lip-gloss micro-speculars, individual lash separation, fine ponytail strands, condensation on the cup.
+
 CUT LOGIC: hard ANGLE-CUT to CLIP 3 (three-quarter front, medium close-up). No frame-match needed. State carried forward: the upward coffee loop now exists and keeps cycling — every later clip shows it already looping.
 
 ---
@@ -266,6 +301,23 @@ MID-CLIP TRANSFORMATION (timed): NONE — the loop already exists (it was create
 LIGHTING-IN-MOTION: catch-lights brighten as the push-in lands; the ribbon-glow throws a faint warm bounce travelling across her cheek.
 DIEGETIC AUDIO: the soft reversed-pour hum continues, a delicate liquid-thread shimmer, her quiet breath, intimate room tone.
 MASTER TRACK: the shimmer-swell blooms gently — the warmest of the pad.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 4 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the ivory silk shoulders and neckline as soft radiating folds from above, the gold belt a thin bright line at the waist.
+  • FOOTWEAR: bare feet small at the bottom of frame on the warm oak.
+  • EYEWEAR: none.
+  • ACCESSORIES: gold hoops, stacked rings and glossy nails framing the carafe and cup from above, slim watch.
+  • HAIR: the ponytail spirals out behind her crown in a clean graphic line from the top-down view, the razor part crisp.
+  • MAKEUP: the upturned face lit warm — glassy skin, peach lip, golden lid, bright clean catch-lights.
+  • HANDS & NAILS: carafe in one hand, cup in the other, held at the exact distance that sustains the loop between them; glossy nude nails, relaxed wrists.
+  • FACIAL MICRO-DYNAMICS: looking up into the lens, serene and direct, a slow soft smile, eyes calm and bright, utterly unbothered.
+  • BODY POSTURE & WEIGHT: standing tall, face tipped up, the loop encircling the lower frame, weight centred, breathing.
+  • KINETIC STILLNESS (8 layers): (1) the loop cycling and faintly spiralling; (2) steam threading up through the centre; (3) the ponytail fanning and shifting; (4) silk folds breathing; (5) chest rising; (6) a catch-light sliding in the eye; (7) the orange flower a vivid burst in the corner; (8) a slow half-blink.
+  • SPATIAL LOGIC: FOREGROUND — the looping liquid ring nearest lens, sharp. MIDGROUND — her upturned face. BACKGROUND — the oak floor and marble as a graphic backdrop.
+  • LIGHTING: KEY — soft top ambient plus window glow raking the marble. FILL — warm bounce up onto her face. RIM — a bright edge along the ponytail. PRACTICAL — under-cabinet strip. SEPARATION — warm face against cooler floor. BOUNCE — ribbon-glow under the chin.
+  • ATMOSPHERE: serene wonder from above, the calm eye of the impossible.
+  • COLOUR GRADE: VIVID — warm oak, creamy marble, the saturated orange flower, the dark glossy coffee loop, warm skin; rich and graphic, full mid-tone.
+  • TEXTURE & MICRO-DETAIL: oak grain, marble veining, the loop's beaded surface tension, fine ponytail strands fanned on the floor, real skin texture on the upturned face.
+
 CUT LOGIC: hard ANGLE-CUT to CLIP 4 (overhead top-down). No frame-match needed. State carried: loop still cycling.
 
 ---
@@ -310,6 +362,23 @@ MID-CLIP TRANSFORMATION (timed): NONE — different-angle beat of the existing l
 LIGHTING-IN-MOTION: as the camera spins, the window glow sweeps across her upturned face like a slow rotating key.
 DIEGETIC AUDIO: the reversed-pour loop hum steadies into a soft musical tone, a gentle airy whoosh of the rotation, quiet breath, room tone.
 MASTER TRACK: the pad turns slowly hypnotic, a circular motif rising.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 5 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the ivory silk shirt-dress flowing from the low view, hem catching a soft draft, gold belt glinting, one shoulder dropped.
+  • FOOTWEAR: bare feet planted, ankle chain visible, the low angle elongating the stance.
+  • EYEWEAR: none.
+  • ACCESSORIES: gold hoops, stacked rings, slim watch, glossy nude nails — all catching warm light.
+  • HAIR: the ponytail towering in the low angle, glossy and sculptural against the bright glass.
+  • MAKEUP: dewy glow lit from below — glassy skin, peach lip, golden lid, luminous.
+  • HANDS & NAILS: she has released the cup — it hovers mid-air on the loop — while her hand opens palm-up, effortless; the other holds the carafe; glossy nude nails.
+  • FACIAL MICRO-DYNAMICS: confident calm, chin level, eyes soft on the lens, the knowing corner-smile at its fullest — quietly powerful, breathing.
+  • BODY POSTURE & WEIGHT: a heroic grounded stance, weight even, shoulders open, the loop floating at chest height beside her, spine long and alive.
+  • KINETIC STILLNESS (8 layers): (1) the hovering cup gently bobbing on the loop; (2) the silk hem fluttering in the draft; (3) the ponytail swaying; (4) the cloud-sea drifting beyond the glass; (5) chest rising; (6) sun-flare blooming at the glass edge; (7) the open-palm fingers micro-settling; (8) a slow assured blink.
+  • SPATIAL LOGIC: FOREGROUND — the floating cup and loop at chest height, sharp. MIDGROUND — Aira commanding centre. BACKGROUND — the blazing sunrise skyline and cloud-sea towering behind the glass.
+  • LIGHTING: KEY — dramatic backlit sun halo from behind the glass. FILL — warm uplight bounce off the marble onto her face and the loop's underside. RIM — strong gold edge down her whole silhouette. PRACTICAL — under-cabinet strip. SEPARATION — blazing sky behind the figure. BOUNCE — warm kick under the chin.
+  • ATMOSPHERE: quiet soft-power triumph, warm and weightless.
+  • COLOUR GRADE: VIVID — maximum golden-hour saturation, glowing rim, deep contrast, the orange flower accent low in frame, glossy speculars.
+  • TEXTURE & MICRO-DETAIL: silk hem flutter detail, fine flyaways in the rim, the loop's beaded liquid surface, peach-fuzz in the uplight, brass and gold micro-speculars.
+
 CUT LOGIC: hard ANGLE-CUT to CLIP 5 (low-angle hero). No frame-match needed. State carried: loop cycling, she still holds carafe and cup.
 
 ---
@@ -354,6 +423,23 @@ MID-CLIP TRANSFORMATION (timed): NONE — a confident different-angle beat of th
 LIGHTING-IN-MOTION: the sun-flare swells as the camera lands low, the rim intensifying around her whole silhouette.
 DIEGETIC AUDIO: a swelling warm tone as the cup releases, the soft musical hum of the loop, a gentle draft whoosh through silk, calm breath.
 MASTER TRACK: the score reaches its warmest, fullest swell — the emotional peak.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 6 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the ivory silk shirt-dress, sleeves pushed, one shoulder dropped, gold chain belt — matched to CLIP 1.
+  • FOOTWEAR: barefoot, ankle chain, the same relaxed stance as CLIP 1.
+  • EYEWEAR: none.
+  • ACCESSORIES: gold hoops, two stacked rings, slim watch, gold belt.
+  • HAIR: the glossy high ponytail, razor part, loose strand — matched to CLIP 1.
+  • MAKEUP: dewy sunrise glow.
+  • HANDS & NAILS: carafe in hand, the cup just retaken from the loop, both nearing their CLIP-1 rest positions; glossy nude nails.
+  • FACIAL MICRO-DYNAMICS: the serene closed-lip half-smile returning, lids relaxing to three-quarter — easing back to the opening resting face.
+  • BODY POSTURE & WEIGHT: weight rolling back onto one hip, soft counter-tilt returning, far shoulder dropping — flowing toward the CLIP-1 stance.
+  • KINETIC STILLNESS (8 layers): (1) the loop beginning to unwind; (2) steam normalising off the cup; (3) the loose strand drifting; (4) cloud-sea breathing past the glass; (5) chest in a soft breath; (6) sun-glint on the brass tap; (7) flower shadow swaying; (8) a slow half-blink.
+  • SPATIAL LOGIC: FOREGROUND — carafe and cup returning to the island. MIDGROUND — Aira at the island. BACKGROUND — sunrise skyline and cloud-sea.
+  • LIGHTING: KEY — low warm sunrise sun from camera-left. FILL — marble bounce. RIM — gold edge on ponytail and shoulder. PRACTICAL — under-cabinet strip. SEPARATION — bright sky. BOUNCE — warm marble under the chin — matched to CLIP 1.
+  • ATMOSPHERE: serene golden-hour calm — the morning resetting, ready to begin again.
+  • COLOUR GRADE: VIVID golden-amber sunrise, saturated orange flower, cool cloud-sea, ivory silk, glossy speculars — matched to CLIP 1.
+  • TEXTURE & MICRO-DETAIL: silk weave, marble veining, brass micro-scratches, peach-fuzz in the rim, gold hoop refractions, a single rising steam coil.
+
 CUT LOGIC: hard ANGLE-CUT to CLIP 6 (wide front — back to the opening angle). No frame-match needed. State carried: she will re-take the cup and let the loop unwind to reset.
 
 ---
@@ -398,6 +484,23 @@ MID-CLIP TRANSFORMATION (timed): the magic UNWINDS at 1.4–2.6s — the loop di
 LIGHTING-IN-MOTION: the sunrise glow steadies to the exact opening level.
 DIEGETIC AUDIO: a soft ceramic settle of cup on saucer, a faint coffee-surface ripple, one slow breath, the distant city hum returning to the CLIP-1 bed.
 MASTER TRACK: the score eases back to the airy opening texture.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 1 (LOOP back to opening) — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the tailored ivory silk shirt-dress, sleeves pushed to the forearm, one shoulder softly dropped, the thin gold chain belt catching a travelling sun-glint, hem grazing mid-thigh, pristine and sun-warmed.
+  • FOOTWEAR: barefoot on warm oak, weight settled, a single thin gold ankle chain catching a small specular, toes relaxed.
+  • EYEWEAR: none.
+  • ACCESSORIES: small gold hoop earrings, two stacked thin rings on the resting hand, a slim gold watch, the gold chain belt.
+  • HAIR: sleek ultra-glossy high ponytail, razor-sharp centre part, one loose face-framing strand drifting, baby-hairs laid, colour locked.
+  • MAKEUP: dewy sunrise glow — glassy skin, soft peach lip with a wet light-point, warm golden lid, golden cheekbone highlight, real pores.
+  • HANDS & NAILS: right-hand fingertips resting on the cool marble, left hand loose at her side fingers softly curved; short almond nails in glossy nude, cuticles neat.
+  • FACIAL MICRO-DYNAMICS: a serene closed-lip half-smile in the corners of the mouth, lids relaxed at three-quarter, a crisp twin catchlight from the low sun, the faint squint of contentment, breathing.
+  • BODY POSTURE & WEIGHT: relaxed weight on one hip, a soft 3° counter-tilt, far shoulder dropped, spine long and alive, the carafe-side hand poised near the island — living stillness.
+  • KINETIC STILLNESS (8 layers): (1) silk hem drifting slow; (2) steam curling lazily off the cup; (3) the loose baby-hair drifting at the temple; (4) the cloud-sea breathing past the glass; (5) chest rising on a soft inhale; (6) a sun-glint sliding along the brass tap; (7) the flower's shadow swaying on the marble; (8) a slow eyelash settle completing a half-blink.
+  • SPATIAL LOGIC: FOREGROUND — carafe and cup on the island, tack sharp. MIDGROUND — Aira at the island edge. BACKGROUND — sunrise skyline and cloud-sea melting soft beyond the glass.
+  • LIGHTING: KEY — low warm sunrise sun raking from camera-left through the glass. FILL — soft bounce off the white marble. RIM — bright sun edge along ponytail and dropped shoulder. PRACTICAL — warm under-cabinet strip. SEPARATION — bright sky behind a softly shaded figure. BOUNCE — warm marble kick under the chin.
+  • ATMOSPHERE: serene golden-hour luxe, warm light over a cool cloud-sea, the hush of a private morning.
+  • COLOUR GRADE: VIVID golden-amber sunrise, the bird-of-paradise a saturated orange pop, cool blue cloud-sea for contrast, clean ivory silk, glossy speculars, soft uncrushed shadow, full mid-tone, zero grain.
+  • TEXTURE & MICRO-DETAIL: crisp silk weave with sun-warmed sheen, marble veining sharp, brass micro-scratches, peach-fuzz along the jaw in the rim, tiny refractions in the gold hoops, a single rising steam coil.
+
 CUT LOGIC: ANGLE-CUT / LOOP — this clip ends on the CLIP-1 angle and state, so the reel loops seamlessly back to CLIP 1. Because CLIP 1 also opens on this same wide front angle, the loop reads as one more intentional angle-beat, not a jump.
 
 ### ☆ EXTERNAL AUDIO — BLOCK 1: BACKGROUND SOUND DESIGN / AMBIENCE BED — A-1
@@ -492,6 +595,23 @@ LIGHTING-IN-MOTION: warm interior key is invaded by an aqua glow washing in from
 DIEGETIC AUDIO: elevator hum and a mechanical rise; the musical DING; a pneumatic door-slide; then a muffled deep-ocean ambience leaking in — a whale low-call, bubbling, soft current.
 MASTER TRACK: a sleek deep-house pulse, minimal, a shimmering arp entering exactly on the ding.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 2's START IMAGE must reproduce this 100%, new angle only): at clip end the doors are fully open onto the BIOLUMINESCENT CORAL CITY — electric-teal and magenta glowing corals, god-rays in deep teal water, drifting neon fish, a distant whale, the invisible water-wall shimmering at the threshold; aqua caustics ripple across the elevator's steel walls and Aira's cobalt suit; she stands in a relaxed lean, sunglasses on her crown, calm. CLIP 2 must open in this EXACT reef-world reveal (same corals, same caustics on the walls, same fish, same wardrobe/light) — only the camera angle changes.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 2 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the cobalt blazer from behind, shoulder seams sharp, ivory camisole strap at the nape, wide-leg trousers — identical wardrobe state.
+  • FOOTWEAR: glossy black heels, ankles uncrossing as she shifts to face the reef.
+  • EYEWEAR: tortoise sunglasses still on the crown.
+  • ACCESSORIES: gold ear-cuff catching the aqua glow at the jaw, handbag on the elbow, red nails, gold watch.
+  • HAIR: the glossy blunt bob from behind, deep part, jaw-curl, lit by aqua caustics.
+  • MAKEUP: polished editorial, retinted cool teal by the reef glow.
+  • HANDS & NAILS: one hand on the handrail, the other relaxed; deep-red glossy nails.
+  • FACIAL MICRO-DYNAMICS: glimpsed in partial profile — calm, eyes on the reef, lips softly closed, an unimpressed daily-commute serenity.
+  • BODY POSTURE & WEIGHT: a relaxed stand facing the doors, weight even, shoulders square to the reveal, breathing.
+  • KINETIC STILLNESS (8 layers): (1) god-rays sweeping the teal water beyond the doors; (2) aqua caustics rippling across the steel walls and her cobalt back; (3) neon fish drifting past the threshold; (4) the bob shifting as she settles; (5) chest rising; (6) the invisible water-wall shimmering at the door-line; (7) handbag micro-swinging; (8) a slow blink in partial profile.
+  • SPATIAL LOGIC: FOREGROUND — her shoulder and bob, soft. MIDGROUND — the open doors. BACKGROUND — the bioluminescent coral city in teal water, sharp.
+  • LIGHTING: KEY — aqua reef-glow washing in from the doors. FILL — warm recessed interior light behind her. RIM — cool teal edge on the bob and shoulder. PRACTICAL — floor-number display, reef bioluminescence. SEPARATION — bright reef behind her shaded back. BOUNCE — teal kick on the steel.
+  • ATMOSPHERE: deep-sea wonder leaking into a steel box, cool and luminous.
+  • COLOUR GRADE: VIVID — electric teal and magenta reef, glowing coral, her cobalt suit deepened by the aqua wash, deep-red nails as a warm spark; rich blacks. (Matches CLIP 1 END STATE.)
+  • TEXTURE & MICRO-DETAIL: caustic light patterns on brushed steel, coral micro-texture, fish scales catching light, the bob's shine, water-wall shimmer.
+
 CUT LOGIC: hard ANGLE-CUT to CLIP 2 (over-the-shoulder from behind). No motion-match; WORLD STATE matches the END STATE above 100%.
 
 ---
@@ -537,6 +657,23 @@ LIGHTING-IN-MOTION: cool teal reef-glow is wiped by the doors and replaced with 
 DIEGETIC AUDIO: the deep-ocean ambience cut by the door-slide; the DING; then a soft rushing petal-wind, distant canyon birdsong, a delicate paper-petal flutter near the mic.
 MASTER TRACK: the deep-house pulse adds a soft petal-bell shimmer layer on the swap.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 3's START IMAGE must reproduce 100%, new angle only): at clip end the doors are open onto the CHERRY-BLOSSOM CANYON — colossal bloom-clad canyon walls, a sideways blizzard of pink-white petals through the doorway, soft sun shafts, a winding river below; warm pink-gold dappled light fills the steel cabin, petals drifting inside; Aira stands calm, sunglasses on crown, cobalt suit warmed by the pink light. CLIP 3 must open in this EXACT blossom-world (same canyon, same petal-storm, same warm light, same drifted petals inside, same wardrobe) — only the angle changes.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 3 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the cobalt blazer in profile, lapel sharp, camisole at the neckline, trousers breaking at the heel — identical state.
+  • FOOTWEAR: glossy black heels in profile, weight even.
+  • EYEWEAR: tortoise sunglasses on the crown, a petal caught near them.
+  • ACCESSORIES: gold ear-cuff lit warm pink, handbag on the elbow, red nails, gold watch.
+  • HAIR: the blunt bob in side silhouette, deep part, jaw-curl, a few petals caught in it, warm-lit.
+  • MAKEUP: polished editorial, retinted warm blush by the blossom light.
+  • HANDS & NAILS: one hand lifting, palm up, as a petal drifts toward it; deep-red glossy nails.
+  • FACIAL MICRO-DYNAMICS: serene profile, eyes half-closed against the imagined breeze, a faint contented smile, a slow blink — pleasantly indifferent.
+  • BODY POSTURE & WEIGHT: upright profile, weight centred, one hand rising, spine long, breathing.
+  • KINETIC STILLNESS (8 layers): (1) petals storming sideways through the doorway; (2) warm dappled sun-shafts crawling on the cabin floor; (3) the bob and caught petals stirring; (4) a single petal drifting to her palm; (5) chest rising; (6) the river glinting far below beyond the doors; (7) handbag swaying; (8) a slow eyelash settle.
+  • SPATIAL LOGIC: FOREGROUND — her raised palm and the drifting petal, sharp. MIDGROUND — Aira in profile. BACKGROUND — the bloom-clad canyon and petal-storm beyond the doors.
+  • LIGHTING: KEY — warm pink-gold blossom light from the open doors. FILL — soft recessed interior warmth. RIM — pink-gold edge on the profile and bob. PRACTICAL — floor display. SEPARATION — bright canyon behind the shaded near-side. BOUNCE — warm floor kick under the jaw.
+  • ATMOSPHERE: a dream of spring blowing through a steel box, warm and weightless.
+  • COLOUR GRADE: VIVID — saturated blush-pink and warm gold, the canyon bloom, her cobalt suit warmed, deep-red nails; dreamy, full mid-tone. (Matches CLIP 2 END STATE.)
+  • TEXTURE & MICRO-DETAIL: petal veining and translucency, warm dappled light on steel, the bob's shine with caught petals, fine lash detail, river glint.
+
 CUT LOGIC: hard ANGLE-CUT to CLIP 3 (full profile, slight low). No motion-match; WORLD STATE matches the END STATE 100%.
 
 ---
@@ -582,6 +719,23 @@ LIGHTING-IN-MOTION: warm pink blossom light is wiped and replaced with electric 
 DIEGETIC AUDIO: petal-wind cut by the door-slide; the DING; then a wall of cyberpunk city ambience — distant synth horns, rain hiss, a flying-car whoosh.
 MASTER TRACK: the house pulse adds neon synth-stabs on the swap.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 4's START IMAGE must reproduce 100%, new angle only): at clip end the doors are open onto the NEON MEGACITY — towering holograms, streaming flying cars, magenta-cyan rain-slick streets, reflective puddles; electric neon floods the steel cabin, magenta and cyan dancing on the walls and her cobalt suit; Aira stands cool, chin lifted, sunglasses still on crown. CLIP 4 must open in this EXACT neon-world (same holograms, same neon flicker on the walls, same rain, same wardrobe) — only the angle changes.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 4 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the cobalt blazer collar and ivory camisole at the neckline, lit electric by the neon.
+  • FOOTWEAR: out of frame.
+  • EYEWEAR: she draws the tortoise sunglasses DOWN onto her eyes — neon reflected in the lenses.
+  • ACCESSORIES: gold ear-cuff glinting magenta, red nails on the sunglasses frame, gold watch.
+  • HAIR: the glossy blunt bob, deep part, jaw-curl, every strand catching magenta-cyan neon.
+  • MAKEUP: polished editorial, retinted electric magenta-cyan, catch-lights dancing in the eyes (before the shades).
+  • HANDS & NAILS: one hand lowering the sunglasses down the bridge of the nose with precise control; deep-red glossy nails.
+  • FACIAL MICRO-DYNAMICS: cool and unbothered, a slow knowing corner-smile, chin level — too cool to care, neon flickering on her skin.
+  • BODY POSTURE & WEIGHT: a relaxed three-quarter turn toward camera, shoulders easy, breathing.
+  • KINETIC STILLNESS (8 layers): (1) holograms morphing beyond the doors; (2) flying-car light-streaks crossing the doorway; (3) the bob catching shifting neon; (4) rain falling in glowing sheets outside; (5) chest rising; (6) neon catch-lights sliding across the sunglass lenses; (7) puddle reflections rippling; (8) a slow blink behind the lowering shades.
+  • SPATIAL LOGIC: FOREGROUND — the sunglasses and her hand, sharp. MIDGROUND — her face. BACKGROUND — the neon megacity in glowing magenta-cyan bokeh.
+  • LIGHTING: KEY — magenta neon from one side, cyan from the other. FILL — warm recessed interior. RIM — electric edge on the bob. PRACTICAL — holograms, flying cars, floor display. SEPARATION — bright neon behind the face. BOUNCE — neon kick on the jaw.
+  • ATMOSPHERE: rain-slick cyberpunk cool, electric and glamorous.
+  • COLOUR GRADE: VIVID — saturated electric magenta and cyan, neon-green signage, her cobalt suit electrified, deep-red nails; maximum night-neon, rich blacks. (Matches CLIP 3 END STATE.)
+  • TEXTURE & MICRO-DETAIL: neon reflections on the sunglass lenses, rain-streak detail beyond the doors, the bob's shine, skin micro-texture before the shades, wet puddle speculars.
+
 CUT LOGIC: hard ANGLE-CUT to CLIP 4 (three-quarter front, medium close-up). No motion-match; WORLD STATE matches 100%.
 
 ---
@@ -627,6 +781,23 @@ LIGHTING-IN-MOTION: electric neon is wiped and replaced with blazing warm golden
 DIEGETIC AUDIO: city ambience cut by the door-slide; the DING; then a warm desert wind howl, fine hissing sand, a deep cinematic sub-rumble.
 MASTER TRACK: the house pulse adds a warm desert wind-pad on the swap.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 5's START IMAGE must reproduce 100%, new angle only): at clip end the doors are open onto the GOLDEN DESERT SUNSET — endless amber dunes, a huge soft low sun, drifting sand-veils, long cobalt shadows; warm amber light floods the steel cabin, the sun blazing in her sunglass lenses; Aira stands cool, bob lifting in the warm wind, cobalt suit warmed gold. CLIP 5 must open in this EXACT desert-world (same dunes, same low sun, same sand-veils, same amber light, same wardrobe) — only the angle changes.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 5 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the cobalt blazer and wide-leg trousers catching the warm gust, hem rippling, from the low view — identical state.
+  • FOOTWEAR: glossy black heels planted, the low angle elongating her.
+  • EYEWEAR: tortoise sunglasses on the eyes, the blazing sun mirrored in the lenses.
+  • ACCESSORIES: gold ear-cuff blazing, handbag held loose, red nails, gold watch.
+  • HAIR: the blunt bob lifting in the desert wind, glossy, sun-rimmed.
+  • MAKEUP: polished editorial, lit blazing gold.
+  • HANDS & NAILS: one hand letting a sand-veil stream over the open palm without closing it — effortless; deep-red nails.
+  • FACIAL MICRO-DYNAMICS: quietly powerful, chin level, the knowing corner-smile at its fullest behind the shades — unbothered royalty.
+  • BODY POSTURE & WEIGHT: a grounded heroic stance, weight even, shoulders open, hem and bob in the wind, spine long.
+  • KINETIC STILLNESS (8 layers): (1) sand-veils sweeping through the doorway; (2) the low sun pulsing; (3) the bob lifting in the gust; (4) hem rippling; (5) chest rising; (6) sand streaming over her open palm; (7) dune-crests smoking with blown sand; (8) a slow assured blink behind the shades.
+  • SPATIAL LOGIC: FOREGROUND — her open palm with streaming sand, sharp. MIDGROUND — Aira heroic. BACKGROUND — the colossal dunes and low sun beyond the doors.
+  • LIGHTING: KEY — blazing backlit desert sun from the doorway. FILL — warm recessed interior. RIM — strong gold edge down her silhouette. PRACTICAL — floor display, the sun. SEPARATION — blazing sky behind the figure. BOUNCE — warm sand-light kick under the chin.
+  • ATMOSPHERE: epic golden-hour grandeur pouring into a steel box, warm and vast.
+  • COLOUR GRADE: VIVID — maximum golden-hour amber, cobalt dune-shadows, her cobalt suit warmed, deep-red nails; glowing rim, deep contrast. (Matches CLIP 4 END STATE.)
+  • TEXTURE & MICRO-DETAIL: fine streaming sand grains, hem-flutter detail, the bob's wind-lift, sun-flare bloom, sand mirrored in the shades.
+
 CUT LOGIC: hard ANGLE-CUT to CLIP 5 (low-angle hero). No motion-match; WORLD STATE matches 100%.
 
 ---
@@ -672,6 +843,23 @@ LIGHTING-IN-MOTION: blazing gold is wiped and replaced with calm neutral dayligh
 DIEGETIC AUDIO: desert wind cut by the door-slide; the DING; then a calm quiet lobby tone — soft footsteps elsewhere, a gentle ambience.
 MASTER TRACK: the layered world-textures strip back to the minimal opening house-pulse.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 6's START IMAGE must reproduce 100%, new angle only): at clip end the doors are open onto a calm neutral lobby; the cabin is back to warm-neutral recessed light, mirrors and steel as in CLIP 1; Aira leans, sunglasses pushed back up on her crown, calm half-smile, cobalt suit neutral-lit. CLIP 6 must open in this EXACT reset interior state (same neutral light, same lean, same wardrobe) — only the angle changes (back to the wide CLIP-1 angle).
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 6 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the structured cobalt blazer, ivory camisole, wide-leg trousers, hand near the trouser pocket — matched to CLIP 1.
+  • FOOTWEAR: glossy black pointed heels, ankles crossing back into the lean — matched.
+  • EYEWEAR: tortoise sunglasses pushed up on the crown — matched to CLIP 1.
+  • ACCESSORIES: gold ear-cuff, slim black handbag on the elbow, gold watch, deep-red nails — matched.
+  • HAIR: voluminous glossy blunt bob, deep side part, jaw-curl, strand at the cheekbone — matched to CLIP 1.
+  • MAKEUP: polished editorial, neutral-lit — matched.
+  • HANDS & NAILS: one hand returning to the trouser pocket, the other to the handrail; deep-red glossy nails.
+  • FACIAL MICRO-DYNAMICS: the serene patient half-smile returning, lids three-quarter, eyes drifting back to the floor display — the exact opening resting face.
+  • BODY POSTURE & WEIGHT: relaxed shoulder-lean, ankles crossing, weight on the leaning hip — mirror of CLIP 1.
+  • KINETIC STILLNESS (8 layers): (1) the floor-number display ticking; (2) recessed light on the steel; (3) the bob settling; (4) handbag micro-swinging; (5) chest rising; (6) her mirror reflection breathing; (7) a faint cabin sway; (8) a slow eyelash settle — matched to CLIP 1.
+  • SPATIAL LOGIC: FOREGROUND — handrail and crossed ankles. MIDGROUND — Aira leaning. BACKGROUND — the doors sliding shut to a thin bright seam — matched to CLIP 1.
+  • LIGHTING: KEY — warm recessed ceiling light. FILL — steel/mirror bounce. RIM — cool door-seam edge. PRACTICAL — floor display. SEPARATION — bright seam behind the figure. BOUNCE — warm steel under the chin — matched to CLIP 1.
+  • ATMOSPHERE: the quiet hum of the commute resuming — ready to begin again.
+  • COLOUR GRADE: VIVID — saturated cobalt against warm steel, deep-red nails, cool seam sliver — matched to CLIP 1.
+  • TEXTURE & MICRO-DETAIL: brushed-steel grain, mirror reflections, blazer weave, the bob's shine, nail gloss, display pixel-glow — matched.
+
 CUT LOGIC: hard ANGLE-CUT to CLIP 6 (wide, the opening angle). No motion-match; state matches 100%.
 
 ---
@@ -717,6 +905,23 @@ LIGHTING-IN-MOTION: warm recessed light steadies to the exact CLIP-1 level as th
 DIEGETIC AUDIO: a soft door-slide shut, a mechanical settle, the elevator hum returning to the CLIP-1 bed, one slow breath.
 MASTER TRACK: the score eases to the minimal opening house-pulse, looping cleanly.
 END STATE / STATE-MATCH LOCK: clip ends in the EXACT interior state and wide angle of CLIP 1's START IMAGE — lean, light, wardrobe, expression all matched, so the reel loops seamlessly.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 1 (LOOP back to opening) — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the structured cobalt-blue blazer sharp at the shoulders over the ivory silk camisole, high-waist wide-leg trousers breaking cleanly over the heels, one hand in a trouser pocket.
+  • FOOTWEAR: glossy black pointed-toe heels, thin ankle strap, ankles crossed in a relaxed lean.
+  • EYEWEAR: oversized tortoise sunglasses pushed up on the crown of the bob.
+  • ACCESSORIES: gold ear-cuff catching a warm recessed glint, slim black handbag hanging from the crooked elbow, slim gold watch, deep-red nails.
+  • HAIR: voluminous glossy blunt bob, deep side part, inward jaw-curl, mirror-shine, a single strand grazing the cheekbone.
+  • MAKEUP: polished editorial — luminous skin, defined brow, soft mauve lip, subtle smoky neutral lid, real pores.
+  • HANDS & NAILS: one hand in the trouser pocket, the other resting on the steel handrail, deep-red glossy almond nails, cuticles neat.
+  • FACIAL MICRO-DYNAMICS: serene patient boredom — lids three-quarter, a faint knowing half-smile, eyes drifting to the floor-number display, the look of someone who has seen every floor.
+  • BODY POSTURE & WEIGHT: a relaxed shoulder-lean against the mirror wall, ankles crossed, weight on the leaning hip, spine long and alive, breathing.
+  • KINETIC STILLNESS (8 layers): (1) the floor-number digits ticking upward with a soft glow; (2) recessed light shimmering on the brushed steel; (3) the bob's jaw-curl drifting as she settles; (4) the handbag micro-swinging on the elbow; (5) chest rising on a slow breath; (6) her reflection breathing in the mirrored wall; (7) a faint cabin sway; (8) a slow eyelash settle.
+  • SPATIAL LOGIC: FOREGROUND — the handrail and her crossed ankles, sharp. MIDGROUND — Aira against the mirror wall. BACKGROUND — the closed brushed-steel doors with a thin bright seam of light.
+  • LIGHTING: KEY — warm recessed ceiling light from above. FILL — soft bounce off the brushed steel and mirrors. RIM — a cool edge from the door-seam light. PRACTICAL — the glowing floor-number display. SEPARATION — bright door-seam behind the figure. BOUNCE — warm steel kick under the chin.
+  • ATMOSPHERE: the quiet hum of a private commute, the calm before a reveal.
+  • COLOUR GRADE: VIVID — saturated cobalt suit as the colour anchor against warm brushed steel, deep-red nails, a cool door-seam sliver; glossy, rich blacks, full mid-tone.
+  • TEXTURE & MICRO-DETAIL: brushed-steel grain, mirror reflections, blazer wool weave, the bob's high shine, deep-red nail gloss, the display's pixel glow.
+
 CUT LOGIC: ANGLE-CUT / LOOP back to CLIP 1; the next pass re-triggers the world-reveals as the doors next open.
 
 ### ☆ EXTERNAL AUDIO — BLOCK 1: BACKGROUND SOUND DESIGN / AMBIENCE BED — A-2
@@ -812,6 +1017,23 @@ LIGHTING-IN-MOTION: the rising rain catches the amber bulb-light and streetlamp,
 DIEGETIC AUDIO: normal rain patter and puddle-splashes (0.0–1.5s); the soft umbrella whump-click; then the patter bends into a gentle reversed-shimmer rising-rain wash; distant café murmur, a far church bell, her quiet breath.
 MASTER TRACK: an intimate piano enters; a soft glassy shimmer-swell rises exactly on the umbrella-click reversal.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 2's START IMAGE must reproduce 100%, new angle only): at clip end the alley is in full UPWARD-RAIN — drops rising everywhere from cobbles, puddles, hem and dome into the violet-blue dusk, glowing amber as they climb; puddles still and mirror-like; wet sheen on every surface; bistro bulbs and shop windows glowing warm; Aira mid-stroll under the open clear dome, emerald trench, wet waves, secret smile. CLIP 2 must open in this EXACT upward-rain alley (same rising drops, same stilled puddles, same warm lights, same wardrobe) — only the camera angle changes.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 2 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the emerald trench from behind, belt-knot at the small of the back, collar up; turtleneck at the nape — identical state.
+  • FOOTWEAR: oxblood ankle boots stepping over a stilled, mirror-like puddle.
+  • EYEWEAR: none.
+  • ACCESSORIES: gold drop earring glinting at the jaw; the clear dome umbrella arcing above; thin gold chain; plum nails on the handle.
+  • HAIR: long wet-look waves down her back, glossy, catching streetlamp rim.
+  • MAKEUP: dewy blue-hour glow, retinted warm-amber from the alley lights.
+  • HANDS & NAILS: right hand on the gold handle giving a slow idle spin; left hand relaxed; deep-plum nails.
+  • FACIAL MICRO-DYNAMICS: glimpsed in partial profile — serene, eyes ahead and faintly up toward the rising rain, lips softly closed, content.
+  • BODY POSTURE & WEIGHT: an unhurried stroll seen from behind, weight rolling forward, shoulders easy, spine long, breathing.
+  • KINETIC STILLNESS (8 layers): (1) rain rising everywhere into the dusk; (2) amber bulb-light glinting on the wet cobbles; (3) the waves swaying down her back; (4) trench hem swinging; (5) chest rising; (6) a spiral of drops lifting from her last footstep; (7) bistro bulbs swaying; (8) a slow blink in partial profile.
+  • SPATIAL LOGIC: FOREGROUND — her shoulder and the umbrella dome, soft. MIDGROUND — the alley ahead. BACKGROUND — the glowing alley stretching to the misty spire, rising rain threading the frame.
+  • LIGHTING: KEY — warm amber shop-window and bulb light ahead. FILL — cool violet dusk above. RIM — a streetlamp edge down her back and hair. PRACTICAL — bistro bulbs, shop windows, wet reflections. SEPARATION — bright alley ahead behind her shaded back. BOUNCE — amber cobble-light up onto the trench.
+  • ATMOSPHERE: a tender dreamlike stroll through inverted rain, warm-and-cool romance.
+  • COLOUR GRADE: VIVID — glowing amber alley, emerald trench, cool violet dusk, oxblood boots; rich and deep. (Matches CLIP 1 END STATE.)
+  • TEXTURE & MICRO-DETAIL: wet trench sheen from behind, cobblestone water-film, rising rain-streaks, damp wave clumping, gold-handle gleam.
+
 CUT LOGIC: hard ANGLE-CUT to CLIP 2 (over-the-shoulder from behind). No motion-match; WORLD STATE matches 100%.
 
 ---
@@ -857,6 +1079,23 @@ LIGHTING-IN-MOTION: warm bulb-light dapples her back as she passes beneath the s
 DIEGETIC AUDIO: the reversed-rain shimmer wash; wet boot-steps on cobbles; a soft umbrella-fabric whir on the spin; distant café murmur; a church-bell tail.
 MASTER TRACK: bass and brushed drums enter under the piano — the dreamy groove settling in.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 3's START IMAGE must reproduce 100%, new angle only): at clip end the alley holds full UPWARD-RAIN — rising glowing drops, stilled mirror-puddles, warm amber bulbs and windows, misty spire; Aira mid-stroll under the open dome, emerald trench, wet waves, content. CLIP 3 must open in this EXACT state (same rising rain, same lights, same wardrobe) — only the angle changes.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 3 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the emerald trench collar up in profile, turtleneck at the throat — identical state.
+  • FOOTWEAR: out of frame.
+  • EYEWEAR: none.
+  • ACCESSORIES: gold drop earring lit by lamp-glow, the dome tipping back off her head, thin gold chain, plum nails on the handle.
+  • HAIR: wet-look waves in side silhouette, glossy, a damp strand on the cheek, lamp-rimmed.
+  • MAKEUP: dewy glow, warm-lit on the upturned face.
+  • HANDS & NAILS: the right hand rolling the umbrella back off the head with a controlled wrist; deep-plum nails.
+  • FACIAL MICRO-DYNAMICS: lashes lifting as she looks up, lips parting in a soft serene wonder (the one beat she lets a little awe show), a slow savouring blink.
+  • BODY POSTURE & WEIGHT: upright profile, chin lifting, weight centred, the umbrella tipping back, spine long, breathing.
+  • KINETIC STILLNESS (8 layers): (1) a curtain of rain rising straight past her face into the sky; (2) warm lamp-glow on the upturned cheek; (3) the damp strand lifting in a faint updraft; (4) the dome tipping back; (5) chest rising; (6) backlit rising drops glinting like sparks; (7) bistro bulbs glowing soft behind; (8) a slow eyelash settle.
+  • SPATIAL LOGIC: FOREGROUND — the rising rain-curtain nearest lens, sharp. MIDGROUND — her profile. BACKGROUND — soft-focus amber bulbs and the misty spire.
+  • LIGHTING: KEY — warm window-lamp light on her face from the alley. FILL — cool violet dusk. RIM — cool lamp edge along the profile. PRACTICAL — bulbs, windows. SEPARATION — the bright rising-rain veil behind the profile. BOUNCE — warm amber under the jaw.
+  • ATMOSPHERE: a held breath of wonder in inverted rain, intimate and dreamlike.
+  • COLOUR GRADE: VIVID — warm-lit skin against cool violet, emerald accent, golden bokeh, backlit silver-amber rain; tender, full mid-tone. (Matches CLIP 2 END STATE.)
+  • TEXTURE & MICRO-DETAIL: rising rain-bead detail, fine lash separation, damp strand on the cheek, gold earring gleam, soft skin texture in the warm light.
+
 CUT LOGIC: hard ANGLE-CUT to CLIP 3 (full profile, slight low). No motion-match; WORLD STATE matches 100%.
 
 ---
@@ -902,6 +1141,23 @@ LIGHTING-IN-MOTION: warm window-light glows on her upturned face; backlit rising
 DIEGETIC AUDIO: the reversed-rain shimmer swells softly; a delicate rising-water whoosh; distant café warmth; her quiet wondering breath.
 MASTER TRACK: a glassy shimmer-swell blooms on the look-up — the tender emotional peak entering.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 4's START IMAGE must reproduce 100%, new angle only): at clip end the alley holds full UPWARD-RAIN; Aira's face is lifted, umbrella tipped back, wet waves and emerald trench unchanged, the rising rain glittering past her, warm bulbs glowing. CLIP 4 must open in this EXACT state (same rising rain, same lights, same wardrobe, umbrella tipped) — only the angle changes.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 4 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the emerald trench collar up, gold chain at the throat, turtleneck — identical state.
+  • FOOTWEAR: out of frame.
+  • EYEWEAR: none.
+  • ACCESSORIES: gold drop earrings, the clear dome arcing back overhead, plum nails on the handle, thin gold chain.
+  • HAIR: wet-look waves framing the face, centre part, glossy, lamp-lit.
+  • MAKEUP: dewy blue-hour glow, twin warm catch-lights.
+  • HANDS & NAILS: the right hand righting the umbrella back over the shoulder with a smooth wrist-roll; deep-plum nails.
+  • FACIAL MICRO-DYNAMICS: the wonder settling into her signature serene corner-smile, eyes soft on the lens, brow smooth, fluid and breathing.
+  • BODY POSTURE & WEIGHT: a relaxed three-quarter turn toward camera, shoulders easy, a faint settled head-tilt, breathing.
+  • KINETIC STILLNESS (8 layers): (1) rising drops as soft sparkle behind; (2) a slow eyelash settle; (3) a damp wave drifting; (4) trench collar shifting with breath; (5) chest rising; (6) a catch-light brightening in the eye; (7) amber bokeh shimmering; (8) the umbrella righting overhead.
+  • SPATIAL LOGIC: FOREGROUND — soft rising-rain sparkle. MIDGROUND — her face, sharp. BACKGROUND — the amber bistro-bulb alley and misty spire in warm bokeh.
+  • LIGHTING: KEY — soft warm window-lamp key from alley-left. FILL — cool violet dusk. RIM — cool edge on the wet waves. PRACTICAL — bulbs, windows. SEPARATION — warm bokeh behind the face. BOUNCE — amber under the jaw.
+  • ATMOSPHERE: the wonder folding back into calm, warm and dreamlike.
+  • COLOUR GRADE: VIVID — glowing warm skin, emerald accent, amber-and-violet bokeh, backlit silver rain; punchy, full mid-tone. (Matches CLIP 3 END STATE.)
+  • TEXTURE & MICRO-DETAIL: real pores and peach-fuzz in the rim, lip-gloss micro-speculars, lash separation, damp wave detail, rising-rain beads.
+
 CUT LOGIC: hard ANGLE-CUT to CLIP 4 (three-quarter front, medium close-up). No motion-match; WORLD STATE matches 100%.
 
 ---
@@ -947,6 +1203,23 @@ LIGHTING-IN-MOTION: catch-lights brighten as the push-in lands; warm bokeh shimm
 DIEGETIC AUDIO: the reversed-rain shimmer steadies; an umbrella-fabric settle; distant café murmur; her calm breath.
 MASTER TRACK: the dreamy groove holds warm and full under the shimmer.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 5's START IMAGE must reproduce 100%, new angle only): at clip end the alley holds full UPWARD-RAIN; Aira is calm and settled, umbrella righted overhead, emerald trench and wet waves unchanged, warm bulbs glowing, rising rain glittering. CLIP 5 must open in this EXACT state (same rising rain, same lights, same wardrobe) — only the angle changes.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 5 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the emerald trench flaring slightly at the hem from the low view, belt cinched, collar commanding — identical state.
+  • FOOTWEAR: oxblood ankle boots planted on the glowing wet cobbles, the low angle elongating her.
+  • EYEWEAR: none.
+  • ACCESSORIES: gold drop earrings and chain catching lamplight, the clear dome with gold handle held like a staff, plum nails.
+  • HAIR: wet-look waves lifting faintly in the updraft, glossy, lamp-rimmed.
+  • MAKEUP: dewy glow lit from below, luminous.
+  • HANDS & NAILS: she plants the closed-tilt umbrella tip lightly to the cobbles like a staff; deep-plum nails on the gold handle.
+  • FACIAL MICRO-DYNAMICS: quietly triumphant calm, chin level, the knowing corner-smile at its fullest, eyes soft and sure.
+  • BODY POSTURE & WEIGHT: a grounded heroic stance, weight even, shoulders open, the umbrella planted, spine long, breathing.
+  • KINETIC STILLNESS (8 layers): (1) rain streaming upward all around her; (2) a ring of drops lifting from where the umbrella tip touches; (3) the waves lifting in the updraft; (4) trench hem flaring; (5) chest rising; (6) a streetlamp flaring behind her head like a halo; (7) bistro bulbs as warm constellations; (8) a slow assured blink.
+  • SPATIAL LOGIC: FOREGROUND — the planted umbrella tip and its rising ring of drops, sharp. MIDGROUND — Aira heroic. BACKGROUND — the towering old-town facades and glowing spire, the whole alley's rain climbing skyward.
+  • LIGHTING: KEY — a streetlamp backlight halo behind her head. FILL — warm amber bulb-bounce. RIM — gold edge down her silhouette. PRACTICAL — bulbs, windows, lamp. SEPARATION — bright lamp-halo behind the figure. BOUNCE — amber wet-cobble uplight on her face.
+  • ATMOSPHERE: quiet soft-power triumph in inverted rain, warm and radiant.
+  • COLOUR GRADE: VIVID — maximum cinematic saturation, emerald + amber halo + cool violet + oxblood; glowing rim, deep contrast. (Matches CLIP 4 END STATE.)
+  • TEXTURE & MICRO-DETAIL: rising rain-streak detail, hem-flare, wave wind-lift, lamp-flare bloom, wet-cobble speculars, gold-handle gleam.
+
 CUT LOGIC: hard ANGLE-CUT to CLIP 5 (low-angle hero). No motion-match; WORLD STATE matches 100%.
 
 ---
@@ -992,6 +1265,23 @@ LIGHTING-IN-MOTION: the lamp-flare swells as the camera lands low, the rim inten
 DIEGETIC AUDIO: a warm swelling tone; the umbrella-tip tap and a puddle-ripple that whooshes upward; the reversed-rain wash peaking; a low cinematic sub; a distant bell.
 MASTER TRACK: the dreamy groove reaches its fullest warm swell — the emotional peak.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 6's START IMAGE must reproduce 100%, new angle only): at clip end the alley holds full UPWARD-RAIN at its most radiant; Aira stands heroic, umbrella planted, emerald trench and wet waves unchanged, lamp-halo glowing, rising rain everywhere. CLIP 6 must open in this state then RESET — same wardrobe and lights, returning to the wide doorway angle of CLIP 1.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 6 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the belted emerald trench, collar up, black turtleneck, hem at the knee — matched to CLIP 1.
+  • FOOTWEAR: glossy oxblood ankle boots at the doorstep, reflected in a puddle — matched.
+  • EYEWEAR: none.
+  • ACCESSORIES: the clear dome umbrella with gold handle, raised; gold drop earrings; thin gold chain; deep-plum nails — matched.
+  • HAIR: long sleek wet-look waves, centre part, one side tucked — matched to CLIP 1.
+  • MAKEUP: dewy blue-hour glow — matched.
+  • HANDS & NAILS: right hand on the gold handle (about to close the umbrella), left hand near the doorframe; deep-plum nails.
+  • FACIAL MICRO-DYNAMICS: the calm content secret smile returning, lids relaxed — the exact opening resting face.
+  • BODY POSTURE & WEIGHT: stepping back toward the doorway, weight settling, torso in the opening three-quarter — mirror of CLIP 1.
+  • KINETIC STILLNESS (8 layers): (1) rising rain about to normalise; (2) puddle reflections; (3) wet waves shifting; (4) trench hem swaying; (5) chest rising; (6) bistro bulbs swaying; (7) warm window-light flickering; (8) a slow eyelash settle — matched to CLIP 1.
+  • SPATIAL LOGIC: FOREGROUND — wet cobbles and a glowing puddle. MIDGROUND — Aira at the doorway. BACKGROUND — the amber alley to the misty spire — matched to CLIP 1.
+  • LIGHTING: KEY — warm amber doorway/window light. FILL — cool violet dusk. RIM — streetlamp edge on waves/shoulder. PRACTICAL — bulbs, windows, wet reflections. SEPARATION — warm doorway behind her. BOUNCE — amber puddle-light up onto the trench — matched to CLIP 1.
+  • ATMOSPHERE: the rainy blue-hour romance resetting — ready to begin again.
+  • COLOUR GRADE: VIVID — emerald trench, warm amber lights, cool violet dusk, oxblood boots — matched to CLIP 1.
+  • TEXTURE & MICRO-DETAIL: wet trench sheen, cobblestone water-film, rain-streak detail, damp wave clumping, gold-handle speculars, plum nail gloss — matched.
+
 CUT LOGIC: hard ANGLE-CUT to CLIP 6 (wide front, the opening doorway angle). No motion-match; state matches, then resets.
 
 ---
@@ -1037,6 +1327,23 @@ LIGHTING-IN-MOTION: the warm amber doorway glow steadies to the exact CLIP-1 lev
 DIEGETIC AUDIO: a soft umbrella whump-click; the reversed-rain shimmer bending back into normal rain patter and puddle-splashes; distant café murmur; one slow breath.
 MASTER TRACK: the dreamy groove eases back to the intimate opening piano, looping cleanly.
 END STATE / STATE-MATCH LOCK: clip ends in the EXACT doorway state, normal-falling rain, and wide angle of CLIP 1's START IMAGE — positions, light, wardrobe and expression matched, so the reel loops seamlessly.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 1 (LOOP back to opening) — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the belted emerald trench, collar up, over the black turtleneck, hem at the knee, catching wet amber sheen; pristine.
+  • FOOTWEAR: glossy oxblood ankle boots, one foot stepping down onto the cobbles, reflected in a puddle.
+  • EYEWEAR: none.
+  • ACCESSORIES: the clear dome umbrella with gold handle, half-raised in her right hand; small gold drop earrings; thin gold chain; deep-plum glossy nails on the handle.
+  • HAIR: long sleek wet-look waves, centre part, glossy, one side tucked behind the ear, faintly damp.
+  • MAKEUP: dewy blue-hour glow — luminous skin, soft berry lip with a wet point, bronze-plum lid, real pores.
+  • HANDS & NAILS: right hand gripping the gold umbrella handle, left hand lightly at the doorframe; deep-plum glossy almond nails, cuticles neat.
+  • FACIAL MICRO-DYNAMICS: calm and content, lids relaxed, a soft secret smile in the corners, eyes taking in the rainy alley, a slow blink.
+  • BODY POSTURE & WEIGHT: mid-step, weight transferring onto the front boot, torso in a gentle three-quarter, shoulders easy, spine long, breathing.
+  • KINETIC STILLNESS (8 layers): (1) rain falling NORMALLY in glowing amber streaks; (2) puddle reflections rippling with each drop; (3) wet hair-waves shifting; (4) trench hem swaying with the step; (5) chest rising on a breath; (6) bistro bulbs swaying on their strings; (7) warm window-light flickering; (8) a slow eyelash settle.
+  • SPATIAL LOGIC: FOREGROUND — wet cobbles and a glowing puddle, sharp. MIDGROUND — Aira in the doorway light. BACKGROUND — the amber-lit alley receding to the misty cathedral spire.
+  • LIGHTING: KEY — warm amber doorway and shop-window light. FILL — cool violet-blue dusk ambient. RIM — a streetlamp edge on her waves and shoulder. PRACTICAL — bistro bulbs, shop windows, the wet-ground reflections. SEPARATION — warm doorway behind her against the cool alley. BOUNCE — amber puddle-light up onto the trench.
+  • ATMOSPHERE: a warm-and-cool rainy blue-hour romance, the hush before the magic.
+  • COLOUR GRADE: VIVID — saturated emerald trench, warm amber lights, cool violet-blue dusk, oxblood boots; glossy wet speculars, rich blacks, full mid-tone.
+  • TEXTURE & MICRO-DETAIL: wet trench sheen, cobblestone grain under a water-film, rain-streak detail, damp hair-wave clumping, gold-handle micro-speculars, plum nail gloss.
+
 CUT LOGIC: ANGLE-CUT / LOOP back to CLIP 1; the next pass re-triggers the rain-reversal as she re-opens the umbrella.
 
 ### ☆ EXTERNAL AUDIO — BLOCK 1: BACKGROUND SOUND DESIGN / AMBIENCE BED — A-3
@@ -1132,6 +1439,23 @@ LIGHTING-IN-MOTION: neutral midday key warms and lowers to blazing golden-hour a
 DIEGETIC AUDIO: a faint AC hum and soft alpine room-tone; a subtle brass-knob detent click; a soft musical whoosh-swell tied to the sky transition; distant muffled wind beyond the glass.
 MASTER TRACK: a wide warm synth pad; a glassy bell-motif "turns" with the dimmer; a riser-swell on the sky change.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 2's START IMAGE must reproduce 100%, new angle only): at clip end the loft is in full SUNSET — outside the arched window, a saturated golden-pink sky over rose-glowing peaks and a fire-mirrored glacial lake, long shadows; inside, warm gold raking light, lengthened shadows on the concrete, the rust gown deepened, the monstera backlit. Aira stands in contrapposto at the dimmer, hand on the knob, calm. CLIP 2 must open in this EXACT sunset world (same rose sky, same fire-lake, same warm raking light, same shadows, same wardrobe) — only the camera angle changes.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 2 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the rust-and-oatmeal knit gown from the back, the bare shoulder-blade catching warm gold, sculptural folds — identical state.
+  • FOOTWEAR: barefoot, gold toe-ring, weight settled.
+  • EYEWEAR: none.
+  • ACCESSORIES: gold cuff catching the warm light on the raised forearm, geometric earring at the jaw, terracotta nails on the knob.
+  • HAIR: the sleek low bun from behind, razor part, glassy, rimmed warm-gold.
+  • MAKEUP: luminous, retinted warm rose-gold by the sunset.
+  • HANDS & NAILS: fingers on the brass knob beginning another quarter-turn; terracotta nails.
+  • FACIAL MICRO-DYNAMICS: glimpsed in partial profile — calm satisfaction, a slow blink, the faint knowing smile, like dimming a lamp.
+  • BODY POSTURE & WEIGHT: relaxed contrapposto seen from behind, one arm raised, shoulders level, breathing.
+  • KINETIC STILLNESS (8 layers): (1) the rose-gold sunset glowing beyond the window; (2) long warm shadows on the concrete; (3) a bun flyaway lifting; (4) the gown folds breathing warm; (5) chest rising; (6) the fire-mirrored lake glinting; (7) monstera backlit and drifting; (8) a slow blink in partial profile.
+  • SPATIAL LOGIC: FOREGROUND — her shoulder and the dimmer hand, soft. MIDGROUND — Aira at the wall. BACKGROUND — the blazing sunset valley through the arch, sharp.
+  • LIGHTING: KEY — warm rose-gold sunset flooding from the window. FILL — warm concrete bounce. RIM — gold edge on the bun and bare shoulder. PRACTICAL — none. SEPARATION — blazing sky behind her shaded back. BOUNCE — warm gold under the jaw.
+  • ATMOSPHERE: golden-hour grandeur in a concrete cathedral, warm and sovereign.
+  • COLOUR GRADE: VIVID — blazing rose-gold sky, fire-lake, the rust gown warmed, the green monstera backlit; rich, full mid-tone. (Matches CLIP 1 END STATE.)
+  • TEXTURE & MICRO-DETAIL: knit-gown nap from behind, gold-lit bun strands, concrete grain in long shadow, brass-knob gleam, monstera rim-light.
+
 CUT LOGIC: hard ANGLE-CUT to CLIP 2 (over-the-shoulder). No motion-match; WORLD STATE matches 100%.
 
 ---
@@ -1177,6 +1501,23 @@ LIGHTING-IN-MOTION: warm gold key cools to silver-blue moonlight; shadows soften
 DIEGETIC AUDIO: alpine room-tone; the brass detent click; a soft cosmic shimmer-swell tied to nightfall; a faint high night-wind beyond the glass.
 MASTER TRACK: the pad turns cool and spacious; a riser-swell layers a starfield shimmer on the night change.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 3's START IMAGE must reproduce 100%, new angle only): at clip end the loft is in full STARLIT NIGHT — outside, a Milky Way arcing over silver moonlit peaks and a star-mirrored glacial lake; inside, cool soft moon-blue light, no warm shadow, the rust gown deep and cool, the monstera silvered. Aira stands at the dimmer, hand on the knob, calm. CLIP 3 must open in this EXACT night world (same galaxy, same moon-blue light, same silver peaks, same wardrobe) — only the angle changes.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 3 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the gown neckline and bare shoulder in profile, cool-lit — identical state.
+  • FOOTWEAR: out of frame.
+  • EYEWEAR: none.
+  • ACCESSORIES: geometric gold earring lit starlight-blue, gold cuff glinting, terracotta nails on the knob.
+  • HAIR: the sleek bun in side silhouette, razor part, glassy, silver-rimmed.
+  • MAKEUP: luminous, retinted cool silver-blue by the night.
+  • HANDS & NAILS: fingers easing the brass knob another notch with delicate control; terracotta nails.
+  • FACIAL MICRO-DYNAMICS: serene, eyes drifting up to the stars, lips softly parted in quiet satisfaction, a slow blink.
+  • BODY POSTURE & WEIGHT: upright profile, chin lifting to the galaxy, weight centred, spine long, breathing.
+  • KINETIC STILLNESS (8 layers): (1) the Milky Way arcing beyond the window; (2) stars twinkling; (3) a bun flyaway lifting; (4) the gown folds cool and still; (5) chest rising; (6) the star-mirrored lake glinting; (7) a faint aurora-hint flickering on the horizon; (8) a slow eyelash settle.
+  • SPATIAL LOGIC: FOREGROUND — soft cool concrete edge. MIDGROUND — her profile. BACKGROUND — the galaxy-strewn night and silver peaks through the arch.
+  • LIGHTING: KEY — cool blue moonlight on her profile. FILL — soft warm interior glow from a single low lamp. RIM — starlight-silver edge on the bun. PRACTICAL — the low lamp, the stars. SEPARATION — the bright Milky Way behind the profile. BOUNCE — cool blue under the jaw.
+  • ATMOSPHERE: cosmic stillness in a concrete cathedral, serene and vast.
+  • COLOUR GRADE: VIVID — deep saturated indigo-and-violet night, teal aurora-hint, the rust gown a warm accent; rich, not muddy, full mid-tone. (Matches CLIP 2 END STATE.)
+  • TEXTURE & MICRO-DETAIL: starfield grain, fine lash detail, glassy bun strands, gold-earring gleam, cool skin texture, aurora shimmer on the horizon.
+
 CUT LOGIC: hard ANGLE-CUT to CLIP 3 (full profile, slight low). No motion-match; WORLD STATE matches 100%.
 
 ---
@@ -1222,6 +1563,23 @@ LIGHTING-IN-MOTION: cool moon-blue gains a drifting green-gold aurora wash; her 
 DIEGETIC AUDIO: night room-tone; the brass detent click; a faint high aurora tone (a soft electrical shimmer); distant night wind.
 MASTER TRACK: the pad gains a slow shimmering aurora-motif; a cool riser layers in.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 4's START IMAGE must reproduce 100%, new angle only): at clip end the loft is in full AURORA NIGHT — green-gold aurora curtains rippling over the starfield and silver peaks, mirrored in the lake; inside, a drifting green-gold-and-moon-blue dual wash across the concrete and gown. Aira stands in profile, calm awe, hand on the knob. CLIP 4 must open in this EXACT aurora world (same curtains, same dual wash, same stars, same wardrobe) — only the angle changes.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 4 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the gown bodice and bare shoulder, dual-lit teal-and-blue, soft folds — identical state.
+  • FOOTWEAR: out of frame.
+  • EYEWEAR: none.
+  • ACCESSORIES: geometric earrings, gold cuff, terracotta nails resting on the dimmer plate.
+  • HAIR: the sleek bun, razor part, aurora-glassy sheen.
+  • MAKEUP: luminous, dual-lit green-gold and moon-blue, twin starlit catch-lights.
+  • HANDS & NAILS: fingertips resting flat on the brass dimmer plate, claiming it; terracotta nails.
+  • FACIAL MICRO-DYNAMICS: the knowing corner-smile at its most confident, eyes direct and soft on the lens — "yeah, I did that"; a slow assured blink.
+  • BODY POSTURE & WEIGHT: a relaxed three-quarter turn toward camera, shoulders easy, chin level, breathing.
+  • KINETIC STILLNESS (8 layers): (1) aurora curtains rippling behind; (2) stars twinkling; (3) a bun flyaway drifting; (4) the gown breathing; (5) chest rising; (6) aurora-glow tinting her cheek; (7) the lake shimmering beyond; (8) a slow eyelash settle.
+  • SPATIAL LOGIC: FOREGROUND — soft aurora-lit edge. MIDGROUND — her face, sharp. BACKGROUND — the Milky Way and aurora over silver peaks in soft bokeh.
+  • LIGHTING: KEY — cool moon key, beauty-soft. FILL — warm low-lamp fill. RIM — aurora green-gold edge on the bun. PRACTICAL — low lamp, stars, aurora. SEPARATION — bright aurora behind the face. BOUNCE — teal-blue under the jaw.
+  • ATMOSPHERE: sovereign calm under her own private aurora, intimate and powerful.
+  • COLOUR GRADE: VIVID — luminous skin against deep indigo, teal-gold aurora glow, rust accent; punchy night palette, full mid-tone. (Matches CLIP 3 END STATE.)
+  • TEXTURE & MICRO-DETAIL: real pores in the cool light, lash separation, glassy bun strands, aurora-tint on the skin, gold-earring gleam.
+
 CUT LOGIC: hard ANGLE-CUT to CLIP 4 (three-quarter front, medium close-up). No motion-match; WORLD STATE matches 100%.
 
 ---
@@ -1267,6 +1625,23 @@ LIGHTING-IN-MOTION: catch-lights brighten as the push-in lands; aurora glow tint
 DIEGETIC AUDIO: a faint aurora hum; her calm breath; intimate room-tone.
 MASTER TRACK: the score holds its cool shimmering aurora-motif, steady and full.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 5's START IMAGE must reproduce 100%, new angle only): at clip end the loft holds full AURORA NIGHT; Aira is calm and confident, hand flat on the dimmer plate, gown and bun unchanged, aurora rippling. CLIP 5 must open in this EXACT state (same aurora, same dual wash, same wardrobe) — only the angle changes.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 5 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the gown flowing from the low view, sculptural folds, bare shoulder regal — identical state.
+  • FOOTWEAR: barefoot, gold toe-ring, planted, the low angle elongating her.
+  • EYEWEAR: none.
+  • ACCESSORIES: gold cuff and earrings catching moon-and-aurora glow, terracotta nails on the brass.
+  • HAIR: the sculptural bun towering in the low angle, glassy, starlit-rimmed.
+  • MAKEUP: luminous, dual-lit, regal.
+  • HANDS & NAILS: one hand giving the dimmer a final confident press; terracotta nails.
+  • FACIAL MICRO-DYNAMICS: quietly sovereign calm, chin level, the knowing corner-smile at its fullest, eyes sure; a slow assured blink.
+  • BODY POSTURE & WEIGHT: a grounded heroic stance, weight even, shoulders open, spine long, the cosmos rising behind, breathing.
+  • KINETIC STILLNESS (8 layers): (1) aurora curtains rippling overhead; (2) the Milky Way arcing; (3) a bun flyaway lifting; (4) gown hem stirring; (5) chest rising; (6) a light-pulse poised at the dimmer; (7) star-mirrored lake glinting; (8) a slow assured blink.
+  • SPATIAL LOGIC: FOREGROUND — the dimmer and her pressing hand, sharp. MIDGROUND — Aira heroic. BACKGROUND — the colossal arched window full of aurora, galaxy and silver peaks.
+  • LIGHTING: KEY — cool moon backlight halo. FILL — warm low-lamp rim. RIM — aurora green-gold edge down her silhouette. PRACTICAL — lamp, stars, aurora. SEPARATION — bright aurora behind the figure. BOUNCE — teal-blue uplight on her face.
+  • ATMOSPHERE: throne-room grandeur under her own aurora, sovereign and vast.
+  • COLOUR GRADE: VIVID — maximum night saturation, indigo + teal aurora + warm rust + gold glints; glowing rim, deep contrast. (Matches CLIP 4 END STATE.)
+  • TEXTURE & MICRO-DETAIL: gown-hem stir, glassy bun strands, aurora plasma detail, brass-knob gleam, star grain, skin texture in dual light.
+
 CUT LOGIC: hard ANGLE-CUT to CLIP 5 (low-angle hero). No motion-match; WORLD STATE matches 100%.
 
 ---
@@ -1312,6 +1687,23 @@ LIGHTING-IN-MOTION: the pulse momentarily lifts ambient light, then settles to d
 DIEGETIC AUDIO: a faint aurora hum; a soft synth-pulse on the press; a low cinematic sub; distant wind.
 MASTER TRACK: the score reaches its fullest cosmic wash — the emotional peak — on the press.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 6's START IMAGE must reproduce 100%, then RESET): at clip end the loft holds full AURORA NIGHT at its richest; Aira stands heroic, hand on the dimmer, gown and bun unchanged. CLIP 6 must open in this state then RESET — same wardrobe, returning to the wide CLIP-1 angle as she turns the dimmer back to midday.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 6 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the draped oatmeal-and-rust knit gown, bare shoulder, sculptural folds — matched to CLIP 1.
+  • FOOTWEAR: barefoot, gold toe-ring — matched.
+  • EYEWEAR: none.
+  • ACCESSORIES: gold cuff, geometric earrings, terracotta nails — matched.
+  • HAIR: sculptural sleek low bun, razor part — matched to CLIP 1.
+  • MAKEUP: luminous, about to return to neutral midday light — matched.
+  • HANDS & NAILS: terracotta-nailed fingertips on the brass knob (turning it back), the other hand soft at her side.
+  • FACIAL MICRO-DYNAMICS: the serene knowing smile returning, lids relaxed — the exact opening resting face.
+  • BODY POSTURE & WEIGHT: relaxed contrapposto, weight on one hip, one arm to the dimmer — mirror of CLIP 1.
+  • KINETIC STILLNESS (8 layers): (1) aurora about to fade; (2) light about to warm to midday; (3) a bun flyaway; (4) gown folds breathing; (5) chest rising; (6) lake glint; (7) monstera drifting; (8) a slow eyelash settle — matched to CLIP 1.
+  • SPATIAL LOGIC: FOREGROUND — the brass dimmer and her hand. MIDGROUND — Aira beside it. BACKGROUND — the arched window and valley — matched to CLIP 1.
+  • LIGHTING: KEY — about to return to bright neutral midday. FILL — concrete bounce. RIM — soft edge on bun/shoulder. PRACTICAL — none. SEPARATION — bright valley behind the figure. BOUNCE — warm concrete under the chin — resolving to CLIP 1.
+  • ATMOSPHERE: cool concrete calm returning to bright mountain midday — ready to begin again.
+  • COLOUR GRADE: VIVID — returning to saturated turquoise-and-rust midday, vivid green monstera, warm concrete — matched to CLIP 1.
+  • TEXTURE & MICRO-DETAIL: knit-gown texture, concrete grain, brass-knob micro-scratches, glassy bun, terracotta nails, monstera veining — matched.
+
 CUT LOGIC: hard ANGLE-CUT to CLIP 6 (wide, the opening angle). No motion-match; state matches, then resets.
 
 ---
@@ -1357,6 +1749,23 @@ LIGHTING-IN-MOTION: the cosmos drains and the room returns to bright neutral mid
 DIEGETIC AUDIO: a soft return-whoosh through the sky-states; the brass detent click; the alpine room-tone and AC hum returning to the CLIP-1 bed.
 MASTER TRACK: the cosmic wash strips back to the airy opening pad and bell-motif, looping cleanly.
 END STATE / STATE-MATCH LOCK: clip ends in the EXACT midday loft state and wide angle of CLIP 1's START IMAGE — light, sky, wardrobe and expression matched, so the reel loops seamlessly.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 1 (LOOP back to opening) — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the draped oatmeal-and-rust knit gown, one shoulder bare, sculptural folds pooling at the floor, lit bright and neutral.
+  • FOOTWEAR: barefoot on polished concrete, gold toe-ring catching a small glint.
+  • EYEWEAR: none.
+  • ACCESSORIES: bold sculptural gold cuff on the raised forearm, geometric gold earrings, terracotta glossy nails.
+  • HAIR: sculptural sleek low bun, razor middle part, glassy polish, fully off the face.
+  • MAKEUP: luminous skin, soft terracotta lip, warm bronze lid, real pores.
+  • HANDS & NAILS: terracotta-nailed fingertips resting on the brass dimmer knob, poised to turn; the other hand soft at her side.
+  • FACIAL MICRO-DYNAMICS: serene authority — lids relaxed, a faint knowing smile, eyes calm on the window like she owns the sky, a slow blink.
+  • BODY POSTURE & WEIGHT: a relaxed contrapposto, weight on one hip, one arm raised to the dimmer, shoulders level, spine long, breathing.
+  • KINETIC STILLNESS (8 layers): (1) bright midday light steady across the concrete; (2) monstera leaves drifting in an AC breeze; (3) a loose flyaway at the bun lifting; (4) the gown's heavy knit folds breathing; (5) chest rising on a slow breath; (6) a glacial-lake glint through the window; (7) a dust-mote drifting in the window light; (8) a slow eyelash settle.
+  • SPATIAL LOGIC: FOREGROUND — the brass dimmer and her hand, sharp. MIDGROUND — Aira beside it. BACKGROUND — the colossal arched window and the bright midday alpine valley.
+  • LIGHTING: KEY — bright neutral-cool midday daylight flooding the arch. FILL — warm bounce off the concrete. RIM — a soft edge on the bun and bare shoulder. PRACTICAL — none. SEPARATION — bright valley behind the figure. BOUNCE — warm concrete kick under the chin.
+  • ATMOSPHERE: cool concrete calm under bright mountain light, the hush before she commands the sky.
+  • COLOUR GRADE: VIVID — saturated turquoise glacial lake, the rust gown, the vivid green monstera against warm concrete; clean bright light, rich blacks, full mid-tone.
+  • TEXTURE & MICRO-DETAIL: chunky knit-gown texture, raw concrete grain, brass-knob micro-scratches, the bun's glassy sheen, terracotta nail gloss, monstera leaf veining.
+
 CUT LOGIC: ANGLE-CUT / LOOP back to CLIP 1; the next pass re-triggers midday→sunset on the first turn.
 
 ### ☆ EXTERNAL AUDIO — BLOCK 1: BACKGROUND SOUND DESIGN / AMBIENCE BED — A-4
@@ -1453,6 +1862,23 @@ LIGHTING-IN-MOTION: floating glass jars catch and throw little sun-glints as the
 DIEGETIC AUDIO: a soft paper-bag set-down and crinkle; gentle ocean waves and gulls; a light sea breeze; a soft airy whoosh as the first items lift; one easy breath.
 MASTER TRACK: an easy nylon-string bossa guitar; light vibraphone twinkles enter as the groceries take flight.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 2's START IMAGE must reproduce 100%, new angle only): at clip end the groceries are AIRBORNE — lemons, milk bottle, jam jars and a baguette gliding in graceful arcs toward the oak cabinets and brass shelves, glass catching sun-glints; the bright coastal kitchen, citrus bowl, hydrangeas and ocean window all sunlit; Aira leans with arms folded, buttercup dress, braid crown, easy smile. CLIP 2 must open in this EXACT state (same floating items mid-arc, same sunlit kitchen, same wardrobe/pose) — only the camera angle changes.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 2 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the buttercup linen dress from behind, sash bow at the back, soft folds — identical state.
+  • FOOTWEAR: tan sandals, gold anklet, one heel relaxed.
+  • EYEWEAR: none.
+  • ACCESSORIES: gold studs glinting at the jaw, bangle stack on the folded arm, fine necklace, coral nails.
+  • HAIR: the braided halo crown from behind, glossy wrap, tendrils at the nape.
+  • MAKEUP: fresh dewy glow, sunlit.
+  • HANDS & NAILS: arms still folded — pointedly not helping; coral nails.
+  • FACIAL MICRO-DYNAMICS: glimpsed in partial profile — serene amusement, a slow blink, the easy smile, totally untroubled.
+  • BODY POSTURE & WEIGHT: a relaxed lean seen from behind, arms folded, weight on one hip, breathing.
+  • KINETIC STILLNESS (8 layers): (1) lemons, jars and a bottle gliding in graceful arcs; (2) sea-sparkle on the ceiling; (3) a tendril drifting at the nape; (4) the linen folds breathing; (5) chest rising; (6) a jar catching a sun-glint mid-air; (7) hydrangeas stirring; (8) a slow blink in partial profile.
+  • SPATIAL LOGIC: FOREGROUND — her shoulder and folded arms, soft. MIDGROUND — the floating-grocery ballet. BACKGROUND — the oak cabinets, brass shelves and ocean window.
+  • LIGHTING: KEY — bright window daylight ahead. FILL — warm travertine bounce. RIM — soft edge on the braid crown. PRACTICAL — none. SEPARATION — bright kitchen ahead behind her shaded back. BOUNCE — warm travertine kick.
+  • ATMOSPHERE: breezy sunlit wonder, effortless and warm.
+  • COLOUR GRADE: VIVID — vivid floating citrus and colourful jars against warm oak and turquoise sea; bright and saturated. (Matches CLIP 1 END STATE.)
+  • TEXTURE & MICRO-DETAIL: linen nap from behind, glass-jar speculars mid-air, brass-shelf gleam, braid-crown sheen, citrus rind, sea-sparkle.
+
 CUT LOGIC: hard ANGLE-CUT to CLIP 2 (over-the-shoulder). No motion-match; WORLD STATE matches 100%.
 
 ---
@@ -1498,6 +1924,23 @@ LIGHTING-IN-MOTION: floating glass jars throw little sun-glints as they cross th
 DIEGETIC AUDIO: soft airy whooshes per floating item; gentle glass-on-wood taps as they land; ocean waves; a light breeze; her quiet breath.
 MASTER TRACK: brushed bossa drums and a round upright bass enter under the guitar; vibraphone twinkles per item.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 3's START IMAGE must reproduce 100%, new angle only): at clip end the ballet continues — several items now shelved, a few still orbiting; the sunlit kitchen, citrus bowl, hydrangeas and ocean window unchanged; Aira leans, arms folded, buttercup dress, braid crown, amused. CLIP 3 must open in this EXACT state (same orbiting items, same sunlit kitchen, same wardrobe/pose) — only the angle changes.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 3 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the buttercup linen dress folds and sash radiating from above — identical state.
+  • FOOTWEAR: tan sandals small at the frame edge on travertine.
+  • EYEWEAR: none.
+  • ACCESSORIES: gold studs, bangle stack, fine necklace, coral nails framing the scene from above.
+  • HAIR: the braided halo crown reads as a perfect glossy ring from the top-down view.
+  • MAKEUP: fresh dewy glow, lit by warm bounce.
+  • HANDS & NAILS: arms still loosely folded across her front, coral nails visible — she conducts nothing.
+  • FACIAL MICRO-DYNAMICS: looking up into the lens, serene and content, a slow soft smile, eyes bright and easy, a slow blink.
+  • BODY POSTURE & WEIGHT: standing tall, face tipped up, the groceries orbiting in a graceful ring around the lower frame, weight centred, breathing.
+  • KINETIC STILLNESS (8 layers): (1) the groceries orbiting in a slow ring; (2) sea-sparkle on the travertine; (3) a tendril drifting; (4) the linen folds breathing; (5) chest rising; (6) a last item peeling off toward a cabinet; (7) the citrus bowl a bold orange burst in the corner; (8) a slow eyelash settle.
+  • SPATIAL LOGIC: FOREGROUND — the orbiting ring of groceries nearest lens, sharp. MIDGROUND — her upturned face. BACKGROUND — the travertine and oak floor as a graphic backdrop.
+  • LIGHTING: KEY — bright top ambient plus window glow raking the travertine. FILL — warm bounce up onto her face. RIM — a soft edge on the braid crown. PRACTICAL — none. SEPARATION — warm face against cooler floor. BOUNCE — citrus-and-travertine kick under the chin.
+  • ATMOSPHERE: serene sunlit wonder from above, the calm eye of the ballet.
+  • COLOUR GRADE: VIVID — travertine cream, warm oak, vivid citrus, hydrangea blue, buttercup dress; graphic and saturated. (Matches CLIP 2 END STATE.)
+  • TEXTURE & MICRO-DETAIL: travertine grain, glass-jar speculars, the braid-ring sheen, citrus rind, real skin texture on the upturned face.
+
 CUT LOGIC: hard ANGLE-CUT to CLIP 3 (overhead top-down). No motion-match; WORLD STATE matches 100%.
 
 ---
@@ -1543,6 +1986,23 @@ LIGHTING-IN-MOTION: as the camera spins, window glow sweeps across her upturned 
 DIEGETIC AUDIO: a gentle musical orbit-hum; soft per-item whooshes and landing taps; ocean ambience; her quiet breath.
 MASTER TRACK: the bossa groove turns gently circular, vibraphone twinkles orbiting.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 4's START IMAGE must reproduce 100%, new angle only): at clip end most groceries are shelved with a few still orbiting, including a floating cherry near head-height; the sunlit kitchen unchanged; Aira stands calm, arms loosening, braid crown, buttercup dress. CLIP 4 must open in this EXACT state (same few orbiting items incl. the cherry, same sunlit kitchen, same wardrobe) — only the angle changes.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 4 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the linen dress neckline, sash, fine gold necklace — identical state.
+  • FOOTWEAR: out of frame.
+  • EYEWEAR: none.
+  • ACCESSORIES: gold studs, bangle stack, coral nails on the cherry stem.
+  • HAIR: braided crown and loose tendrils, glossy, sunlit.
+  • MAKEUP: fresh dewy glow, coral lip, twin sun catch-lights.
+  • HANDS & NAILS: coral-nailed fingers pinching the cherry stem with delicate control, plucking it from its float-path; the other hand relaxed.
+  • FACIAL MICRO-DYNAMICS: playful contentment — lids relaxed, eyes flicking from the cherry to the lens, lips parting in a soft anticipatory smile, fluid and breathing.
+  • BODY POSTURE & WEIGHT: a relaxed three-quarter turn toward camera, one arm raised to the cherry, shoulders easy, breathing.
+  • KINETIC STILLNESS (8 layers): (1) soft floating items still orbiting behind; (2) a slow eyelash settle; (3) a tendril drifting; (4) the linen shifting at the neckline; (5) chest rising; (6) the cherry gloss catching a highlight; (7) sea-sparkle behind; (8) a catch-light brightening in the eye.
+  • SPATIAL LOGIC: FOREGROUND — the cherry and her pinching fingers, sharp. MIDGROUND — her face. BACKGROUND — the kitchen and ocean window melting to warm bokeh, floating items as soft shapes.
+  • LIGHTING: KEY — soft beauty key from window-left. FILL — warm travertine bounce. RIM — a soft edge on the braid. PRACTICAL — none. SEPARATION — bright bokeh behind the face. BOUNCE — warm kick on the jaw.
+  • ATMOSPHERE: playful sunlit delight, light and warm.
+  • COLOUR GRADE: VIVID — glowing warm skin, buttercup and coral accents, turquoise bokeh, the cherry a saturated red pop; fresh and punchy. (Matches CLIP 3 END STATE.)
+  • TEXTURE & MICRO-DETAIL: real pores and peach-fuzz in the rim, lip-gloss micro-speculars, lash separation, cherry-skin gloss, fine braid strands.
+
 CUT LOGIC: hard ANGLE-CUT to CLIP 4 (three-quarter front, medium close-up). No motion-match; WORLD STATE matches 100%.
 
 ---
@@ -1588,6 +2048,23 @@ LIGHTING-IN-MOTION: catch-lights brighten as the push-in lands; the cherry gloss
 DIEGETIC AUDIO: a tiny pluck; soft orbit whooshes behind; ocean ambience; her playful breath.
 MASTER TRACK: the bossa groove holds light and sunlit, a vibraphone sparkle on the pluck.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 5's START IMAGE must reproduce 100%, new angle only): at clip end the ballet is nearly done — the last item or two settling, the empty paper bag beginning to fold itself; the sunlit kitchen unchanged; Aira holds the cherry near her lips, buttercup dress, braid crown, playful. CLIP 5 must open in this EXACT state (same near-finished ballet, same folding bag, same wardrobe) — only the angle changes.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 5 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the buttercup linen dress flowing in the sea breeze, sash fluttering, from the low view — identical state.
+  • FOOTWEAR: tan sandals planted, gold anklet, the low angle elongating her.
+  • EYEWEAR: none.
+  • ACCESSORIES: gold studs, bangle stack, coral nails — all catching warm light.
+  • HAIR: the braided halo crown catching the sun like a gold ring, tendrils lifting in the breeze.
+  • MAKEUP: fresh dewy glow, luminous.
+  • HANDS & NAILS: she lifts one hand, palm up, and the empty paper bag folds itself flat and settles onto her open palm — effortless; coral nails.
+  • FACIAL MICRO-DYNAMICS: breezy triumphant calm, chin level, an easy confident smile, eyes soft on the lens; a slow blink.
+  • BODY POSTURE & WEIGHT: a grounded heroic stance, weight even, shoulders open, one palm raised, spine long, breathing.
+  • KINETIC STILLNESS (8 layers): (1) the last jar settling on a shelf; (2) the empty bag creasing and folding mid-air toward her palm; (3) the braid crown sun-glinting; (4) the sash fluttering; (5) chest rising; (6) sea-sun flaring at the window edge; (7) hydrangeas stirring; (8) a slow assured blink.
+  • SPATIAL LOGIC: FOREGROUND — her open palm and the folding bag, sharp. MIDGROUND — Aira heroic. BACKGROUND — the colossal ocean window blazing turquoise, the now-stocked brass shelves.
+  • LIGHTING: KEY — bright backlit sea-sun halo from the window. FILL — warm travertine bounce. RIM — gold edge down her silhouette. PRACTICAL — none. SEPARATION — blazing ocean behind the figure. BOUNCE — warm travertine uplight on her face.
+  • ATMOSPHERE: breezy sunlit triumph, effortless and warm.
+  • COLOUR GRADE: VIVID — maximum fresh saturation, turquoise + buttercup + citrus + gold flare; glowing rim, clean shadows. (Matches CLIP 4 END STATE.)
+  • TEXTURE & MICRO-DETAIL: paper-bag fold-crease detail, sash-flutter, braid-crown sun-glint, sea-sun flare bloom, skin texture in the uplight.
+
 CUT LOGIC: hard ANGLE-CUT to CLIP 5 (low-angle hero). No motion-match; WORLD STATE matches 100%.
 
 ---
@@ -1633,6 +2110,23 @@ LIGHTING-IN-MOTION: the sea-sun flare swells as the camera lands low, the rim in
 DIEGETIC AUDIO: a warm swelling tone; the soft paper fold-crinkle; a final gentle jar-tap; ocean waves and gulls; her calm breath.
 MASTER TRACK: the bossa groove reaches its fullest sunlit swell — the breezy emotional peak.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 6's START IMAGE must reproduce 100%, then RESET): at clip end the kitchen is fully tidy and stocked, the folded bag resting on her palm, the sunlit kitchen and ocean unchanged; Aira stands heroic, buttercup dress, braid crown. CLIP 6 must open in this state then RESET — same wardrobe, returning to the wide CLIP-1 angle with a freshly-full bag on the island.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 6 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the buttercup-yellow linen wrap dress, three-quarter sleeves, sash tie — matched to CLIP 1.
+  • FOOTWEAR: tan leather sandals, gold anklet — matched.
+  • EYEWEAR: none.
+  • ACCESSORIES: gold studs, bangle stack, fine necklace, coral nails — matched.
+  • HAIR: glossy braided halo crown, loose tendrils — matched to CLIP 1.
+  • MAKEUP: fresh dewy glow — matched.
+  • HANDS & NAILS: both coral-nailed hands just settling the full bag onto the marble, about to release — matching the CLIP-1 beat.
+  • FACIAL MICRO-DYNAMICS: the light content smile, lids relaxed — the exact opening resting face.
+  • BODY POSTURE & WEIGHT: a relaxed lean toward the island, weight on one hip — mirror of CLIP 1.
+  • KINETIC STILLNESS (8 layers): (1) the full bag settling; (2) sea-sparkle on the ceiling; (3) a tendril drifting; (4) the linen hem swaying; (5) chest rising; (6) a citrus catching light; (7) hydrangeas stirring; (8) a slow eyelash settle — matched to CLIP 1.
+  • SPATIAL LOGIC: FOREGROUND — the full paper bag on the island. MIDGROUND — Aira at the island edge. BACKGROUND — the turquoise ocean and cliffs through the window — matched to CLIP 1.
+  • LIGHTING: KEY — bright seaside daylight. FILL — warm travertine bounce. RIM — soft braid-crown edge. PRACTICAL — none. SEPARATION — bright ocean behind the figure. BOUNCE — warm travertine under the chin — matched to CLIP 1.
+  • ATMOSPHERE: breezy sunlit coastal calm — ready to begin again.
+  • COLOUR GRADE: VIVID — turquoise ocean, buttercup dress, vivid citrus, hydrangea blue — matched to CLIP 1.
+  • TEXTURE & MICRO-DETAIL: linen weave, paper-bag crinkle, travertine grain, brass gleam, braid sheen, coral nails, citrus rind — matched.
+
 CUT LOGIC: hard ANGLE-CUT to CLIP 6 (wide, the opening angle). No motion-match; state matches, then resets.
 
 ---
@@ -1678,6 +2172,23 @@ LIGHTING-IN-MOTION: sea light steadies to the exact CLIP-1 level.
 DIEGETIC AUDIO: a soft paper-bag set-down and crinkle; ocean waves and gulls; a light breeze; one easy breath — returning to the CLIP-1 bed.
 MASTER TRACK: the bossa groove eases back to the easy opening guitar, looping cleanly.
 END STATE / STATE-MATCH LOCK: clip ends in the EXACT opening state and wide angle of CLIP 1's START IMAGE — full bag, light, wardrobe and expression matched, so the reel loops seamlessly.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 1 (LOOP back to opening) — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the buttercup-yellow linen wrap dress, three-quarter sleeves, sash tied at the waist, hem catching a sea breeze; pristine, sun-warmed.
+  • FOOTWEAR: flat tan leather sandals, thin ankle tie, gold anklet, one heel relaxed.
+  • EYEWEAR: none.
+  • ACCESSORIES: small gold studs, thin gold bangle stack on the wrist, fine gold necklace, coral glossy nails.
+  • HAIR: glossy braided halo crown, soft face-framing tendrils loose, a tendril lifting in the breeze.
+  • MAKEUP: fresh dewy glow — luminous skin, coral lip with a wet point, soft peach lid, real pores.
+  • HANDS & NAILS: both coral-nailed hands settling the paper bag onto the marble, fingers spread, about to release; cuticles neat.
+  • FACIAL MICRO-DYNAMICS: light and content — lids relaxed, an easy soft smile, eyes on the bag like she already knows what happens next, a slow blink.
+  • BODY POSTURE & WEIGHT: a relaxed lean toward the island, weight on one hip, shoulders easy, spine long, breathing.
+  • KINETIC STILLNESS (8 layers): (1) the paper bag settling, a top fold relaxing; (2) sea-sparkle reflecting on the ceiling from the window; (3) a loose tendril drifting; (4) the linen hem swaying in the breeze; (5) chest rising on a breath; (6) a citrus in the bowl catching light; (7) hydrangea petals stirring; (8) a slow eyelash settle.
+  • SPATIAL LOGIC: FOREGROUND — the paper bag on the island, sharp. MIDGROUND — Aira at the island edge. BACKGROUND — the turquoise ocean and white cliffs through the colossal window.
+  • LIGHTING: KEY — bright airy seaside daylight from the window. FILL — warm bounce off the travertine. RIM — a soft edge on the braid crown and shoulder. PRACTICAL — none. SEPARATION — bright ocean behind the figure. BOUNCE — warm travertine kick under the chin.
+  • ATMOSPHERE: breezy sunlit coastal calm, the easy hush before the ballet.
+  • COLOUR GRADE: VIVID — saturated turquoise ocean, buttercup dress, vivid citrus orange, hydrangea blue; fresh, bright, glossy, clean shadows.
+  • TEXTURE & MICRO-DETAIL: crisp linen weave, brown-paper-bag crinkle, travertine grain, brass-shelf gleam, braid-crown sheen, coral nail gloss, citrus rind texture.
+
 CUT LOGIC: ANGLE-CUT / LOOP back to CLIP 1; the next pass re-triggers the grocery ballet when she folds her arms.
 
 ### ☆ EXTERNAL AUDIO — BLOCK 1: BACKGROUND SOUND DESIGN / AMBIENCE BED — A-5
@@ -1776,6 +2287,23 @@ LIGHTING-IN-MOTION: flat grey, dimming a touch further as she slumps — no warm
 DIEGETIC AUDIO: the tail of a quiet yawn-sigh; a slide scuffing on wood; a weak lamp buzz; rain tapping the window; a heavy breath.
 MASTER TRACK: a muted lone piano with vinyl crackle — grey and minimal.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 2's START IMAGE must reproduce 100%, new angle only): at clip end the apartment is fully GREY and sulking — desaturated emerald sofa, dulled rust armchair, drooping browning peonies, dim lamp, rain-streaked grey window; Aira slumped, grey cardigan off one shoulder, messy bun, deadpan-tired. CLIP 2 must open in this EXACT grey state (same desaturation, same drooping props, same dim lamp, same wardrobe) — only the camera angle changes.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 2 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the grey cardigan from behind, the dropped shoulder revealing the white tank strap — identical state.
+  • FOOTWEAR: out of frame.
+  • EYEWEAR: none.
+  • ACCESSORIES: gold necklace clasp at the nape, a diamond stud glinting dull, sage scrunchie, bare nails on the reaching hand.
+  • HAIR: the messy bun from behind, scrunchie visible, loose strands at the nape catching grey light.
+  • MAKEUP: bare fresh real, grey-lit.
+  • HANDS & NAILS: her hand reaching for a white mug on the counter, fingers spreading; the other thumb poised over the espresso button; bare natural-pink nails.
+  • FACIAL MICRO-DYNAMICS: glimpsed in cheek-profile — flat annoyance, lips pressed, eyes half-open, the machine not helping her mood.
+  • BODY POSTURE & WEIGHT: a tired forward lean to the counter, weight on the forearms, shoulders dropped, breathing.
+  • KINETIC STILLNESS (8 layers): (1) the dead espresso machine unlit, no indicator glow; (2) a wilting herb pot browning a leaf; (3) a loose strand at the nape; (4) the cardigan shifting; (5) chest rising tiredly; (6) rain streaking the grey window above the sink; (7) the dull lamp flickering in the next room; (8) a slow heavy blink in profile.
+  • SPATIAL LOGIC: FOREGROUND — her shoulder and reaching hand, soft. MIDGROUND — the dead espresso machine, sharp. BACKGROUND — the grey kitchen and rain-streaked window in dull bokeh.
+  • LIGHTING: KEY — flat grey window light. FILL — none. RIM — a weak dull edge on the bun. PRACTICAL — the espresso machine unlit (no glow). SEPARATION — low. BOUNCE — minimal.
+  • ATMOSPHERE: grey kitchen defeat, the small betrayal of a dead coffee machine.
+  • COLOUR GRADE: DESATURATED GREY — dulled brass, browning herb, grey marble; only her skin faintly warm. (Matches CLIP 1 END STATE.)
+  • TEXTURE & MICRO-DETAIL: dull-brass micro-scratches, browning herb-leaf, cashmere pilling, grey marble grain, rain on glass.
+
 CUT LOGIC: hard ANGLE-CUT to CLIP 2 (over-the-shoulder at the kitchen counter). No motion-match; WORLD STATE matches 100%.
 
 ---
@@ -1821,6 +2349,23 @@ LIGHTING-IN-MOTION: flat grey dimming a hair further as her mood drops; no machi
 DIEGETIC AUDIO: a mug-scrape on marble; the button press — a weak click then silence; a faint electrical failure-buzz; rain intensifying; a frustrated exhale.
 MASTER TRACK: the muted piano holds, a low sub-drone of grey under it.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 3's START IMAGE must reproduce 100%, new angle only): at clip end the kitchen is at peak GREY sulk — dead unlit machine, wilted herb, dim lamp, rain; Aira leaning, frustrated, grey cardigan off one shoulder, messy bun. CLIP 3 must open in this EXACT grey state (same desaturation, same dead machine implied, same wardrobe/mood) — only the angle changes.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 3 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the cardigan neckline and white tank, the dropped shoulder visible — identical state.
+  • FOOTWEAR: out of frame.
+  • EYEWEAR: none.
+  • ACCESSORIES: dainty gold necklace at the collarbone, diamond studs catching what little light exists, sage scrunchie, bare nails.
+  • HAIR: the messy bun top, loose strands framing the face, scrunchie at the crown.
+  • MAKEUP: bare fresh real, grey-lit, every honest pore visible.
+  • HANDS & NAILS: one hand holding the empty mug loosely at the bottom of frame, a finger tapping its side; bare natural-pink nails.
+  • FACIAL MICRO-DYNAMICS: deadpan frustration — lids half-closed, one brow barely arched in a "really?" look, lips pressed flat with the tiniest downward corner-pull, jaw set, a faint nostril-flare on an exhale.
+  • BODY POSTURE & WEIGHT: a tired front-facing slump, shoulders low, head heavy, breathing.
+  • KINETIC STILLNESS (8 layers): (1) the grey room formless behind; (2) drooping peonies as a blurred sad shape; (3) a loose strand drifting; (4) the cardigan shifting at the shoulder; (5) chest rising; (6) the finger tapping the mug; (7) the dull lamp dimming behind; (8) a slow heavy blink.
+  • SPATIAL LOGIC: FOREGROUND — the mug rim and tapping finger, soft. MIDGROUND — her face, sharp. BACKGROUND — the grey room as formless dull bokeh.
+  • LIGHTING: KEY — flat grey window light from behind the lens. FILL — almost none. RIM — none. PRACTICAL — none. SEPARATION — low. BOUNCE — minimal; her skin the only warmth.
+  • ATMOSPHERE: the universal deadpan-Monday face, intimate and relatable.
+  • COLOUR GRADE: DESATURATED GREY — her skin the only warmth, the background formless grey. (Matches CLIP 2 END STATE.)
+  • TEXTURE & MICRO-DETAIL: real pores, faint under-eye softness, fine bun flyaways, the mug-rim gloss, honest skin texture.
+
 CUT LOGIC: hard ANGLE-CUT to CLIP 3 (close-up to lens). No motion-match; WORLD STATE matches 100%.
 
 ---
@@ -1866,6 +2411,23 @@ LIGHTING-IN-MOTION: flat grey, but a hint of warmth creeping at the frame edge o
 DIEGETIC AUDIO: the finger-tap on the mug; her dry spoken line (close, intimate, natural Indian accent); the decisive mug-clink; rain; an expectant beat of quiet.
 MASTER TRACK: the muted piano pauses on the line, a single held note of anticipation under it.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 4's START IMAGE must reproduce 100%, new angle only): at clip end the room is still GREY but a faint warmth flickers at the frame edge; Aira has just decided — a spark in the eyes, mouth-corner lifting, mug set down; grey cardigan, messy bun. CLIP 4 must open in this EXACT pre-bloom state (still grey, faint edge-warmth, her decided expression, same wardrobe) — only the angle changes.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 4 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the grey cardigan being pulled up onto the shoulder and cinched with its own tie-belt, tank straightened — still loungewear but now owned.
+  • FOOTWEAR: cream shearling slides, both feet planted with new purpose.
+  • EYEWEAR: none.
+  • ACCESSORIES: gold necklace, diamond studs, sage scrunchie (being tightened), bare nails.
+  • HAIR: the messy bun, a hand reaching up to tighten the scrunchie with one practiced twist.
+  • MAKEUP: bare fresh real, catching new warm light.
+  • HANDS & NAILS: one hand tightening the scrunchie at the crown, the other tugging the cardigan straight; bare natural-pink nails.
+  • FACIAL MICRO-DYNAMICS: the shift — lids opening wider, eyes brightening, the flat mouth softening into the beginnings of a real smile, brow relaxing — "okay, I've got this."
+  • BODY POSTURE & WEIGHT: squaring up — shoulders drawing back, spine lengthening, weight even, alive.
+  • KINETIC STILLNESS (8 layers): (1) colour beginning to flood back from one side; (2) the peonies lifting; (3) a loose strand being tucked; (4) the cardigan settling as it cinches; (5) chest rising on a deliberate breath; (6) the lamp brightening a notch; (7) the monstera leaves perking; (8) a brightening catch-light in the eye.
+  • SPATIAL LOGIC: FOREGROUND — her hands at the bun and cardigan, sharp. MIDGROUND — Aira squaring up. BACKGROUND — the room blooming, half-grey/half-vivid mid-sweep.
+  • LIGHTING: KEY — warm gold light entering from the window as the clouds part, mixing with the remaining grey. FILL — warm bounce returning. RIM — a warming edge on the bun. PRACTICAL — the lamp igniting warm. SEPARATION — rising. BOUNCE — warm gold returning under the chin.
+  • ATMOSPHERE: the turn — grey lifting to warmth, the room waking with her.
+  • COLOUR GRADE: SPLIT — desaturated grey on the right giving way to VIVID emerald, rust and magenta flooding from the left; the colour follows her mood.
+  • TEXTURE & MICRO-DETAIL: cashmere knit cinching, scrunchie velvet nap, skin warming in the new light, peony petals opening, monstera veining.
+
 CUT LOGIC: hard ANGLE-CUT to CLIP 4 (three-quarter, knees-up). No motion-match; WORLD STATE matches 100%.
 
 ---
@@ -1911,6 +2473,23 @@ LIGHTING-IN-MOTION: grey flat light replaced by warm directional gold; rich shad
 DIEGETIC AUDIO: a satisfying deep breath in; a soft musical swell as the room responds; flowers lifting with a tiny rustle; the lamp click-on; rain stopping; a warm room-tone replacing the grey.
 MASTER TRACK: a transition riser swells; warm strings and a felt-kick enter with a satisfying bass-drop at the bloom.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 5's START IMAGE must reproduce 100%, new angle only): at clip end the apartment is in full VIVID bloom — rich emerald sofa, glowing rust armchair, open magenta peonies, warm brass lamps, tall vivid monstera, gold-flooded window; Aira stands squared and smiling, grey cardigan cinched, messy bun tightened. CLIP 5 must open in this EXACT vivid state (same saturated room, same gold light, same wardrobe/posture) — only the angle changes.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 5 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the same grey cardigan and tank/shorts — identical clothes, transformed by her posture, cinched and owned.
+  • FOOTWEAR: cream shearling slides planted wide, grounded.
+  • EYEWEAR: none.
+  • ACCESSORIES: gold necklace, diamond studs catching warm light, sage scrunchie, bare nails.
+  • HAIR: the messy bun now reading deliberately chic, scrunchie secure.
+  • MAKEUP: bare fresh real, glowing in warm light.
+  • HANDS & NAILS: hands relaxed and open at her sides — she does nothing; the room did the work; bare nails.
+  • FACIAL MICRO-DYNAMICS: quiet triumph — eyes bright and steady on the lens, lids relaxed-open, a warm settled "yeah" smile, brow smooth, calm ownership.
+  • BODY POSTURE & WEIGHT: a grounded heroic stance, weight even, shoulders back, chin level, spine long, breathing.
+  • KINETIC STILLNESS (8 layers): (1) the last grey corner flushing with colour; (2) dust-motes drifting in the new sunbeam; (3) a loose strand settling; (4) the cardigan hem stirring; (5) chest rising on a satisfied breath; (6) a peony opening fully; (7) the lamp at full warm glow; (8) a slow satisfied blink.
+  • SPATIAL LOGIC: FOREGROUND — a corner of the emerald sofa, sharp. MIDGROUND — Aira commanding centre. BACKGROUND — the blooming maximalist room radiating from her, gold window.
+  • LIGHTING: KEY — warm rich directional gold from the now-clear window. FILL — warm bounce off the vivid furniture. RIM — gold edge down her silhouette. PRACTICAL — glowing brass lamps. SEPARATION — bright gold window behind the figure. BOUNCE — warm gold under the chin.
+  • ATMOSPHERE: earned warmth and quiet triumph — the room happy because she is.
+  • COLOUR GRADE: VIVID — every jewel tone at full saturation: emerald, rust, magenta peonies, green monstera, warm brass-gold; rich blacks, full mid-tone — the payoff. (Matches CLIP 4 END STATE.)
+  • TEXTURE & MICRO-DETAIL: cashmere knit, velvet sofa nap, peony petals, brass lamp glow, dust-motes in the beam, warm skin texture.
+
 CUT LOGIC: hard ANGLE-CUT to CLIP 5 (low-angle hero). No motion-match; WORLD STATE matches 100%.
 
 ---
@@ -1956,6 +2535,23 @@ LIGHTING-IN-MOTION: full golden key, rich directional shadows, the room at its w
 DIEGETIC AUDIO: her satisfied exhale; a last flower-rustle; a warm alive room-tone; birdsong replacing rain; a golden settling quiet.
 MASTER TRACK: the warm strings and bass reach their fullest, most satisfying swell — the emotional peak.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 6's START IMAGE must reproduce 100%, then RESET): at clip end the room is at full vivid bloom; Aira stands triumphant-calm, grey cardigan cinched, bun tightened. CLIP 6 must open in this vivid state then begin RESETTING toward the grey doorway of CLIP 1 — same wardrobe, the colour draining back as the loop closes.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 6 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the grey cardigan cinched, white tank — identical state.
+  • FOOTWEAR: cream shearling slides.
+  • EYEWEAR: none.
+  • ACCESSORIES: gold necklace, a diamond stud catching warm light, sage scrunchie, bare nails on the machine.
+  • HAIR: the chic messy bun, scrunchie, loose strands.
+  • MAKEUP: bare fresh real, warm-lit.
+  • HANDS & NAILS: her thumb pressing the espresso button — which now responds instantly with a warm indicator glow; bare natural-pink nails.
+  • FACIAL MICRO-DYNAMICS: a soft pleased smirk in profile — eyes on the machine, one mouth-corner up, a "there you are" look.
+  • BODY POSTURE & WEIGHT: an easy upright lean to the counter, weight relaxed, shoulders open, breathing.
+  • KINETIC STILLNESS (8 layers): (1) the espresso machine glowing green/working; (2) a lush herb pot now vivid; (3) a loose strand drifting; (4) the cardigan shifting; (5) chest rising; (6) warm marble glinting; (7) the gold window behind; (8) a slow content blink.
+  • SPATIAL LOGIC: FOREGROUND — the glowing machine and her hand, sharp. MIDGROUND — Aira in profile. BACKGROUND — the warm vivid kitchen, gold window.
+  • LIGHTING: KEY — warm gold window light. FILL — warm bounce. RIM — gold edge on the bun. PRACTICAL — the espresso machine's green indicator glow. SEPARATION — bright window behind. BOUNCE — warm marble under the jaw.
+  • ATMOSPHERE: warm contented reward, the morning rescued.
+  • COLOUR GRADE: VIVID — warm marble, lush green herb, glowing brass, warm skin. (Matches CLIP 5 END STATE, before the reset-drain.)
+  • TEXTURE & MICRO-DETAIL: brass-machine gleam, espresso crema forming, lush herb leaves, cashmere knit, warm skin.
+
 CUT LOGIC: hard ANGLE-CUT to CLIP 6 (medium→wide, kitchen then doorway). No motion-match; state matches, then resets.
 
 ---
@@ -2001,6 +2597,23 @@ LIGHTING-IN-MOTION: warm gold drains to flat grey, matching the CLIP-1 opening.
 DIEGETIC AUDIO: the espresso button click (satisfying this time); a warm machine hiss and rich pour; her small contented sip; then the warm room-tone fading, rain returning, the dull lamp buzz — back to the CLIP-1 bed.
 MASTER TRACK: the warm strings decay back to the muted lone piano and vinyl crackle, looping cleanly.
 END STATE / STATE-MATCH LOCK: clip ends in the EXACT grey doorway state and wide angle of CLIP 1's START IMAGE — slump, grey room, wardrobe and tired expression matched, so the reel loops seamlessly.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 1 (LOOP back to opening) — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the oversized grey cashmere cardigan sliding off one shoulder over the white ribbed tank and charcoal silk shorts; soft, rumpled, real.
+  • FOOTWEAR: chunky cream shearling slides, one foot half-in, a bare heel showing, shuffling.
+  • EYEWEAR: none.
+  • ACCESSORIES: dainty gold sleep-necklace, tiny diamond studs, sage-green velvet scrunchie in the bun, bare natural-pink nails.
+  • HAIR: a messy high bun, loose strands falling around the face, the sage scrunchie barely holding.
+  • MAKEUP: bare, fresh, real — luminous no-makeup skin, soft natural lip, real pores, faint sleep-softness.
+  • HANDS & NAILS: one hand gripping the doorframe at shoulder height in a relaxed lean, the other loose; bare natural-pink nails.
+  • FACIAL MICRO-DYNAMICS: mid-yawn — eyes scrunched, brow creased, mouth wide in an honest yawn, raw and unguarded — the "I'm not ready" face.
+  • BODY POSTURE & WEIGHT: a slouched lean into the doorframe, weight sagging to one hip, shoulders dropped, spine soft — pure Monday slump.
+  • KINETIC STILLNESS (8 layers): (1) colour visibly draining from the sofa and walls toward grey; (2) magenta peonies drooping in their vase; (3) a loose strand drifting at the temple; (4) the cardigan sliding further off the shoulder; (5) chest rising on a tired inhale; (6) the rainy window streaking grey; (7) a brass lamp flickering weakly; (8) a slow heavy eyelash settle.
+  • SPATIAL LOGIC: FOREGROUND — the doorframe edge and her leaning hand, sharp. MIDGROUND — Aira slumped in the doorway. BACKGROUND — the maximalist room draining grey, the rainy window.
+  • LIGHTING: KEY — flat overcast grey light from the rainy window. FILL — almost none. RIM — a weak dull edge. PRACTICAL — a single dull lamp barely trying. SEPARATION — low; the grey room swallows contrast. BOUNCE — minimal.
+  • ATMOSPHERE: grey rainy-Monday heaviness, the colour and life sapped from the room.
+  • COLOUR GRADE: deliberately DESATURATED GREY (the one allowed muted beat) — flat greys, dull brass, browning peonies; only her skin reads faintly warm. (This sets up the bloom contrast.)
+  • TEXTURE & MICRO-DETAIL: soft cashmere pilling, real sleep-softened skin, dull-brass lamp grain, drooping-petal detail, rain-streaked glass.
+
 CUT LOGIC: ANGLE-CUT / LOOP back to CLIP 1; the next pass re-drains the room as she slumps and re-blooms it when she squares up.
 
 ### ☆ EXTERNAL AUDIO — BLOCK 1: BACKGROUND SOUND DESIGN / AMBIENCE BED — B-1
@@ -2096,6 +2709,23 @@ LIGHTING-IN-MOTION: the daylight halo narrows as the door closes behind her; the
 DIEGETIC AUDIO: the heavy door push (a whoosh and brass click); her heel striking wood — sharp, decisive; café ambience (murmur, clink, soft music) that dips in volume for a beat as she enters.
 MASTER TRACK: a deep sub-bass pulse enters on the threshold-cross; a crisp finger-snap on the off-beats matching her heels.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 2's START IMAGE must reproduce 100%, new angle only): at clip end the café's nearest objects have turned toward her — chairs pivoted, pendants canted her way, eucalyptus leaning, a cup's handle rotated; the door has closed; warm interior light pools along her path; Aira mid-stride, sunglasses on head, ivory blazer, glass-shine hair. CLIP 2 must open in this EXACT state (same turned objects, same pooled light, same wardrobe) — only the camera angle changes.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 2 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the ivory blazer in profile, shoulder seam sharp, black turtleneck at the throat, charcoal trouser-leg mid-stride — identical state.
+  • FOOTWEAR: patent stilettos in profile, one heel just lifting for the next step.
+  • EYEWEAR: cat-eye sunglasses being lowered from the head by one hand.
+  • ACCESSORIES: gold chain at the neck, micro-bag swinging, espresso nails on the glasses, gold studs.
+  • HAIR: the jet-black curtain hair in side silhouette, swinging with the stride, glass-shine catching each pendant.
+  • MAKEUP: polished editorial, warm-lit.
+  • HANDS & NAILS: one hand lowering the sunglasses with precise finger-on-frame motion; the micro-bag swinging from the forearm; espresso-brown nails.
+  • FACIAL MICRO-DYNAMICS: a slow knowing corner-smile appearing in profile, eyes ahead and slightly downcast (not acknowledging the room's reaction), unbothered grace.
+  • BODY POSTURE & WEIGHT: a confident mid-stride, weight rolling heel-to-toe, hips in natural counter-rotation, shoulders square, alive.
+  • KINETIC STILLNESS (8 layers): (1) tables and chairs pivoted 10–15° toward her; (2) all pendant lights canted her direction; (3) the curtain hair swinging; (4) eucalyptus leaning dramatically; (5) chest rising; (6) a paused mid-pour drip at the bar; (7) the micro-bag swaying; (8) a slow blink in profile.
+  • SPATIAL LOGIC: FOREGROUND — a turned chair, soft. MIDGROUND — Aira striding in profile. BACKGROUND — the café's objects all oriented toward her, creating motion-lines.
+  • LIGHTING: KEY — warm pendants now angled toward her, a brighter corridor of light along her path. FILL — warm oak bounce. RIM — a warm edge on the hair. PRACTICAL — canted pendants, espresso bar. SEPARATION — bright pooled path behind her. BOUNCE — warm oak under the jaw.
+  • ATMOSPHERE: a magnetic runway-walk through a room that leans toward her.
+  • COLOUR GRADE: VIVID warm café — the light-corridor glowing along her path, oak, brass-gold, ivory, espresso. (Matches CLIP 1 END STATE.)
+  • TEXTURE & MICRO-DETAIL: blazer weave, sunglass-hinge detail, the hair's glass-shine, pendant-glow on oak, paused espresso-drip.
+
 CUT LOGIC: hard ANGLE-CUT to CLIP 2 (three-quarter walking profile). No motion-match; WORLD STATE matches 100%.
 
 ---
@@ -2141,6 +2771,23 @@ LIGHTING-IN-MOTION: the light-corridor intensifies along her path; warmth pools.
 DIEGETIC AUDIO: rhythmic confident heel-clicks (the main beat); the subtle creak/scrape of turning chairs; a soft chime from swinging pendants; café murmur hushed; the sunglasses hinge-click.
 MASTER TRACK: a warm muted-trumpet motif (short, cool) enters over the bass-and-snap.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 3's START IMAGE must reproduce 100%, new angle only): at clip end the whole café is oriented toward her — all chairs, pendants, flowers, a paused barista; the warm light pooled on her; sunglasses now pocketed; Aira mid-stride, ivory blazer, glass-shine hair, knowing corner-smile. CLIP 3 must open in this EXACT state (same fully-turned room, same pooled light, same wardrobe, shades pocketed) — only the angle changes.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 3 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the ivory blazer collar and black turtleneck at the throat; the gold chain resting on the collarbone — identical state.
+  • FOOTWEAR: out of frame.
+  • EYEWEAR: pocketed (peeking from the breast pocket).
+  • ACCESSORIES: the gold chain prominent, espresso nails at the frame edge, gold studs.
+  • HAIR: jet-black curtain framing both sides of the face, centre part crisp, strands catching warm pendant-glow.
+  • MAKEUP: polished editorial, twin golden catch-lights.
+  • HANDS & NAILS: one hand resting at the collarbone near the chain, fingertips barely touching the gold; espresso-brown nails.
+  • FACIAL MICRO-DYNAMICS: magnetic quiet confidence — eyes steady and direct, lids relaxed-open (the perfect middle), brow smooth with the faintest power-lift; lips pressed softly into a restrained knowing almost-smile that says "I know"; jaw relaxed.
+  • BODY POSTURE & WEIGHT: a still, self-possessed stand, shoulders level, head high, breathing.
+  • KINETIC STILLNESS (8 layers): (1) the turned objects finishing their orientation in the bokeh; (2) the hair settling from the walk; (3) the chain resting without swing; (4) a slow eyelash settle; (5) chest on one slow breath; (6) pendant-glow pooling on her face; (7) a catch-light steady in the eye; (8) a barely-there fingertip touch at the chain.
+  • SPATIAL LOGIC: FOREGROUND — soft warm bokeh shapes (turned pendants). MIDGROUND — her face, pin-sharp. BACKGROUND — the oriented café melting to golden bokeh.
+  • LIGHTING: KEY — directional warm key from the turned pendants pooled on her face. FILL — soft warm bounce. RIM — a warm edge on the hair. PRACTICAL — canted pendants. SEPARATION — golden bokeh behind the face. BOUNCE — warm under the jaw.
+  • ATMOSPHERE: magnetic stillness — the brightest, most magnetic point in the room.
+  • COLOUR GRADE: VIVID — warm saturated skin against soft golden bokeh, the gold chain bright; rich. (Matches CLIP 2 END STATE.)
+  • TEXTURE & MICRO-DETAIL: real pores, individual lash separation, the chain's gold links, the hair's glass-shine, lip-gloss micro-speculars.
+
 CUT LOGIC: hard ANGLE-CUT to CLIP 3 (close-up to lens). No motion-match; WORLD STATE matches 100%.
 
 ---
@@ -2186,6 +2833,23 @@ LIGHTING-IN-MOTION: the pooled warm light on her face holds steady — she is th
 DIEGETIC AUDIO: near-silence — the café murmur fully hushed; just her slow even breath; the faintest gold-chain settle; a single soft low heartbeat-thud for drama; then café sounds beginning to return.
 MASTER TRACK: near-silence — only a sub-bass heartbeat under the held moment.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 4's START IMAGE must reproduce 100%, new angle only): at clip end the whole café is fully oriented toward her and still; warm light pooled on her; Aira self-possessed, ivory blazer, glass-shine hair, knowing almost-smile. CLIP 4 must open in this EXACT fully-turned state (same oriented objects, same pooled light, same wardrobe) — only the angle changes; the snap-back happens within CLIP 4.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 4 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the full ivory blazer, black turtleneck bodysuit, charcoal trousers visible in the sit — identical state.
+  • FOOTWEAR: patent stilettos crossing at the ankle as she takes the seat.
+  • EYEWEAR: pocketed.
+  • ACCESSORIES: gold chain, micro-bag being set on the table, espresso nails, gold studs.
+  • HAIR: jet-black curtain settling as she sits, ends pooling on her shoulders.
+  • MAKEUP: polished editorial.
+  • HANDS & NAILS: one hand placing the micro-bag on the marble table, the other smoothing the blazer as she sits; espresso-brown nails.
+  • FACIAL MICRO-DYNAMICS: a small private self-satisfied corner-smile — she knows exactly what just happened and it amuses her; eyes soft, lids easy.
+  • BODY POSTURE & WEIGHT: lowering into the booth with controlled grace, weight transferring onto the seat, spine elegant, breathing.
+  • KINETIC STILLNESS (8 layers): (1) all turned objects poised to snap back; (2) the micro-bag settling on the table; (3) the hair settling; (4) the blazer smoothing; (5) chest rising; (6) a pendant about to swing to centre; (7) the eucalyptus about to right itself; (8) a slow blink.
+  • SPATIAL LOGIC: FOREGROUND — the booth table and micro-bag, sharp. MIDGROUND — Aira sitting. BACKGROUND — the still-oriented café about to snap back.
+  • LIGHTING: KEY — warm pendant light still pooled on her. FILL — warm oak bounce. RIM — warm edge on the hair. PRACTICAL — pendants, espresso bar. SEPARATION — warm café behind. BOUNCE — warm oak under the chin.
+  • ATMOSPHERE: the spell about to break — a held breath before the snap.
+  • COLOUR GRADE: VIVID warm café — rich oak, brass-gold, brick, ivory, espresso. (Matches CLIP 3 END STATE.)
+  • TEXTURE & MICRO-DETAIL: tufted-leather booth, marble table veining, blazer weave, micro-bag leather grain, the hair's glass-shine.
+
 CUT LOGIC: hard ANGLE-CUT to CLIP 4 (full-body low angle at the booth). No motion-match; WORLD STATE matches 100%.
 
 ---
@@ -2231,6 +2895,23 @@ LIGHTING-IN-MOTION: the concentrated light-corridor disperses back to even ambie
 DIEGETIC AUDIO: the collective SNAP — a harmonic of chair-scrapes, swing-chimes and flower-rustles all at once like a chord; the bag-thud; café ambience rushing back to full volume; her quiet amused exhale.
 MASTER TRACK: the snap-back gets a single satisfying percussive hit; the bass-and-snap groove resumes warm.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 5's START IMAGE must reproduce 100%, new angle only): at clip end the café is fully NEUTRAL again — chairs/pendants/flowers all at rest, ambient warm light even; Aira settled in the booth, ankles crossed, bag on the table, ivory blazer, glass-shine hair, private smile. CLIP 5 must open in this EXACT neutral-café/seated state (same neutral objects, same even light, same wardrobe/pose) — only the angle changes.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 5 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the ivory blazer relaxed at the shoulders, black turtleneck, gold chain prominent — identical state.
+  • FOOTWEAR: out of frame.
+  • EYEWEAR: pocketed.
+  • ACCESSORIES: gold chain, espresso nails wrapping the cup, micro-bag on the table, gold studs.
+  • HAIR: the curtain hair settled, framing her jaw, centre part.
+  • MAKEUP: polished editorial, warm intimate light.
+  • HANDS & NAILS: both hands wrapping a small espresso cup at the lower frame — a warm heat-seeking grip, thumbs overlapping; espresso-brown nails.
+  • FACIAL MICRO-DYNAMICS: pure contentment — an easy smile, eyes soft and warm on the lens, brow relaxed, lips in a gentle satisfied curve as she lifts the cup.
+  • BODY POSTURE & WEIGHT: a relaxed seated lean, shoulders easy, breathing.
+  • KINETIC STILLNESS (8 layers): (1) steam curling from the espresso; (2) crema on the surface; (3) the hair settled and still; (4) the blazer breathing; (5) chest rising; (6) the café back to normal bustle behind; (7) a soft pendant glow above the booth; (8) a slow content blink.
+  • SPATIAL LOGIC: FOREGROUND — the espresso cup, sharp. MIDGROUND — Aira in the booth. BACKGROUND — the warm normal café bustle in soft bokeh.
+  • LIGHTING: KEY — warm directional pendant key above her. FILL — soft warm bounce. RIM — a warm edge on the hair. PRACTICAL — booth pendant, café lights. SEPARATION — warm bokeh behind. BOUNCE — warm under the jaw.
+  • ATMOSPHERE: warm contented arrival, the room serving her quietly.
+  • COLOUR GRADE: VIVID warm café — espresso browns, ivory, gold, warm brick. (Matches CLIP 4 END STATE.)
+  • TEXTURE & MICRO-DETAIL: espresso crema, steam wisp, ceramic gloss, blazer weave, the hair's glass-shine, gold-chain links.
+
 CUT LOGIC: hard ANGLE-CUT to CLIP 5 (medium, seated). No motion-match; WORLD STATE matches 100%.
 
 ---
@@ -2276,6 +2957,23 @@ LIGHTING-IN-MOTION: warm and steady; the cup's steam catches a backlight wisp.
 DIEGETIC AUDIO: the cup lift (ceramic-on-saucer scrape); a tiny espresso-surface wobble; her small quiet sip; a contented exhale; full café ambience restored — clinks, murmur, soft music.
 MASTER TRACK: the warm sax/trumpet motif settles into contentment over the bass.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 6's START IMAGE must reproduce 100%, then RESET): at clip end Aira sits content in the neutral café, espresso in hand, ivory blazer, glass-shine hair. CLIP 6 must open by RESETTING to the café-entrance — she rises and returns to the door, the café neutral, restoring the CLIP-1 opening.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 6 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the ivory blazer, black turtleneck bodysuit, charcoal trousers, gold-buckle belt — matched to CLIP 1.
+  • FOOTWEAR: patent stilettos mid-stride — matched.
+  • EYEWEAR: cat-eye sunglasses pushed back up on the head — matched to CLIP 1.
+  • ACCESSORIES: gold chain, micro-bag on the forearm, espresso nails, gold studs — matched.
+  • HAIR: long jet-black curtain hair, centre part, glass-shine, swinging forward — matched to CLIP 1.
+  • MAKEUP: polished editorial — matched.
+  • HANDS & NAILS: right hand on the brass door handle, pushing through; espresso-brown nails.
+  • FACIAL MICRO-DYNAMICS: cool arrived confidence, chin level, lips power-calm — the exact opening face.
+  • BODY POSTURE & WEIGHT: a forward stride mid-step, weight transferring, shoulders square — mirror of CLIP 1.
+  • KINETIC STILLNESS (8 layers): (1) the glass door swinging; (2) daylight slashing in; (3) the curtain hair swinging; (4) the micro-bag swaying; (5) chest rising; (6) the nearest chair neutral (not yet turned); (7) pendants centred; (8) a slow blink — matched to CLIP 1.
+  • SPATIAL LOGIC: FOREGROUND — neutral café tables and chairs. MIDGROUND — the door and Aira entering. BACKGROUND — the marble bar and brick — matched to CLIP 1.
+  • LIGHTING: KEY — warm brass-pendant interior. FILL — oak/brick bounce. RIM — daylight slash from the door. PRACTICAL — pendants, espresso bar. SEPARATION — bright door-light behind her. BOUNCE — warm oak under the chin — matched to CLIP 1.
+  • ATMOSPHERE: the charged hush of the entrance resuming — ready to begin again.
+  • COLOUR GRADE: VIVID warm café — oak, brass-gold, brick, ivory pop, espresso — matched to CLIP 1.
+  • TEXTURE & MICRO-DETAIL: blazer weave, patent gloss, brass-handle scratches, the hair's glass-shine, gold-chain links, marble veining — matched.
+
 CUT LOGIC: hard ANGLE-CUT to CLIP 6 (wide front at the door). No motion-match; state resets to CLIP 1.
 
 ---
@@ -2321,6 +3019,23 @@ LIGHTING-IN-MOTION: the daylight slash returns as the door opens — matched to 
 DIEGETIC AUDIO: the heavy door push (whoosh and brass click); a heel-strike; café murmur at normal volume; daylight entering — back to the CLIP-1 bed.
 MASTER TRACK: the score strips to the opening sub-bass pulse, looping cleanly.
 END STATE / STATE-MATCH LOCK: clip ends in the EXACT door-entrance state and wide angle of CLIP 1's START IMAGE — neutral café, wardrobe and confident expression matched, so the reel loops seamlessly.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 1 (LOOP back to opening) — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the sharply-cut ivory blazer over the black silk turtleneck bodysuit, high-waist charcoal trousers, thin black belt with a gold buckle; crisp, commanding.
+  • FOOTWEAR: pointed black patent stilettos, mid-stride, catching a floor reflection.
+  • EYEWEAR: black cat-eye sunglasses pushed up on the head.
+  • ACCESSORIES: chunky gold chain necklace, structured black micro-bag on the forearm, espresso-brown glossy nails, gold studs.
+  • HAIR: long straight jet-black curtain hair, centre part, glass-shine, swaying with the forward stride.
+  • MAKEUP: polished editorial — luminous skin, defined brow, soft berry lip, subtle smoky neutral lid, real pores.
+  • HANDS & NAILS: right hand gripping the heavy brass door handle, knuckles defined; the micro-bag hanging from the left forearm; espresso-brown glossy almond nails.
+  • FACIAL MICRO-DYNAMICS: cool arrived confidence — chin level, eyes steady (behind the slightly tinted opening), lips in a relaxed closed-mouth power-calm, jaw soft but set; not smiling — letting the room notice.
+  • BODY POSTURE & WEIGHT: a forward stride mid-step, weight transferring onto the lead foot, shoulders square, spine tall, alive.
+  • KINETIC STILLNESS (8 layers): (1) the heavy glass door swinging on its closer; (2) daylight slashing in from the opening door; (3) the curtain hair swinging with the stride; (4) the micro-bag swaying; (5) chest rising on a breath; (6) the nearest chair just beginning to pivot toward her; (7) a pendant light beginning to cant her way; (8) a slow blink.
+  • SPATIAL LOGIC: FOREGROUND — café tables and chairs, sharp. MIDGROUND — the door and Aira entering. BACKGROUND — the long marble espresso bar and brick wall.
+  • LIGHTING: KEY — warm brass-pendant interior light. FILL — soft bounce off oak and brick. RIM — a daylight slash from the opening door haloing her. PRACTICAL — brass pendant lights, the espresso bar. SEPARATION — bright door-light behind her. BOUNCE — warm oak kick under the chin.
+  • ATMOSPHERE: the charged hush of an entrance, the room about to notice her.
+  • COLOUR GRADE: VIVID warm café — rich oak, warm brass-gold, exposed brick, the ivory blazer a bright pop, espresso accents; rich blacks, glossy speculars.
+  • TEXTURE & MICRO-DETAIL: blazer wool weave, patent-stiletto gloss, brass-handle micro-scratches, the curtain hair's glass-shine, gold-chain links, marble bar veining.
+
 CUT LOGIC: ANGLE-CUT / LOOP back to CLIP 1; the next pass re-triggers the room turning toward her as she crosses the threshold.
 
 ### ☆ EXTERNAL AUDIO — BLOCK 1: BACKGROUND SOUND DESIGN / AMBIENCE BED — B-2
@@ -2416,6 +3131,23 @@ LIGHTING-IN-MOTION: bright neutral daylight morphs to a moody amber single-spot 
 DIEGETIC AUDIO: a simmering pot; a faint ending track; the phone tap; a beat of silence; then smooth jazz fills the space — upright bass, brushed snares, a warm muted trumpet.
 MASTER TRACK: (this concept IS about music) — the jazz section: upright bass, brushed drums, muted-trumpet solo, warm Rhodes.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 2's START IMAGE must reproduce 100%, new angle only): at clip end the kitchen is a full JAZZ CLUB — midnight-blue surfaces, smoky shadow shelves, an amber-lamp window, drifting haze, a warm amber spot, brass-instrument shadows; Aira mid-sway with the wooden spoon, burnt-orange top glowing amber, braids. CLIP 2 must open in this EXACT jazz-club world (same midnight-blue, same haze, same amber spot, same wardrobe) — only the camera angle changes.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 2 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the burnt-orange knit top in profile glowing deep amber, cream pants, apron — identical state (transformed only by light).
+  • FOOTWEAR: white slip-ons in a warm amber pool.
+  • EYEWEAR: none.
+  • ACCESSORIES: gold hoops catching amber, woven bracelet, berry nails on the spoon.
+  • HAIR: the low braids in side silhouette, amber side-lit, ribbons.
+  • MAKEUP: fresh glow, retinted smoky amber.
+  • HANDS & NAILS: the wooden spoon stirring the pot in a slow lazy circle, the other hand resting on the hip; berry nails.
+  • FACIAL MICRO-DYNAMICS: smoky calm — lids heavy, a slow sultry corner-smile, chin slightly down, feeling the jazz.
+  • BODY POSTURE & WEIGHT: a relaxed profile stir, hip cocked, shoulders swaying gently, breathing.
+  • KINETIC STILLNESS (8 layers): (1) atmospheric haze billowing in beams; (2) the amber spot narrowing; (3) braids swaying with the shoulder-sway; (4) steam off the pot; (5) chest rising; (6) brass-instrument shadows shifting; (7) the apron tie drifting; (8) a slow heavy blink.
+  • SPATIAL LOGIC: FOREGROUND — the pot and rising steam, soft. MIDGROUND — Aira in profile stirring. BACKGROUND — the smoky jazz-club kitchen in deep midnight-blue shadow.
+  • LIGHTING: KEY — a moody amber spot from one side. FILL — deep shadow. RIM — a warm edge on the profile and braid. PRACTICAL — the amber-lamp window, the stove-spot. SEPARATION — the warm spot vs midnight-blue shadow. BOUNCE — warm amber under the jaw.
+  • ATMOSPHERE: smoky late-night jazz warmth, drowsy and cool.
+  • COLOUR GRADE: VIVID — deep saturated amber + midnight-blue + warm shadow; rich, not muddy. (Matches CLIP 1 END STATE.)
+  • TEXTURE & MICRO-DETAIL: haze beams, knit-top amber sheen, wooden-spoon grain, steam, glossy braids, brass-shadow suggestion.
+
 CUT LOGIC: hard ANGLE-CUT to CLIP 2 (three-quarter profile, stirring). No motion-match; WORLD STATE matches 100%.
 
 ---
@@ -2461,6 +3193,23 @@ LIGHTING-IN-MOTION: moody amber morphs to bright flat candy-coloured high-key (p
 DIEGETIC AUDIO: the jazz fading; the tap; a beat of silence; then a bright pop beat drops — synths, claps, a catchy vocal hook; a delighted gasp.
 MASTER TRACK: the pop section — bright synth chords, a clap-snap beat, a vocal-chop hook, bubbly bass.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 3's START IMAGE must reproduce 100%, new angle only): at clip end the kitchen is full POP CANDY — candy-pink walls, electric-cyan accents, glossy surfaces, drifting confetti, disco-dots, bright high-key; Aira mid head-bob, burnt-orange top now vivid coral in the light, braids bouncing. CLIP 3 must open in this EXACT pop world (same pink/cyan, same confetti, same bright light, same wardrobe) — only the angle changes.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 3 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the burnt-orange top neckline, now lit vivid near-coral, apron strap — identical state.
+  • FOOTWEAR: out of frame.
+  • EYEWEAR: none.
+  • ACCESSORIES: gold hoops reflecting pink, woven bracelet catching cyan, berry nails on the phone, ribbons.
+  • HAIR: the low braids framing the face, bouncing, lit pink-and-cyan.
+  • MAKEUP: fresh glow, retinted candy-bright.
+  • HANDS & NAILS: her thumb on the phone screen, bright and glossy under her nail; berry nails.
+  • FACIAL MICRO-DYNAMICS: playful pop-energy — eyes wide, brows lifted, a big genuine grin showing teeth, cheeks lifted, a head-bob to the beat.
+  • BODY POSTURE & WEIGHT: a bouncy front-facing bob, shoulders loose, alive.
+  • KINETIC STILLNESS (8 layers): (1) confetti-dots drifting; (2) disco-dots scattering across her; (3) braids bouncing; (4) the apron shifting; (5) chest rising on a laugh-breath; (6) candy walls glowing behind; (7) a cyan glint in the hoop; (8) a quick delighted blink.
+  • SPATIAL LOGIC: FOREGROUND — soft confetti-dots. MIDGROUND — her grinning face, sharp. BACKGROUND — the pop-candy kitchen in bright bokeh.
+  • LIGHTING: KEY — bright flat candy-colour key (pink/cyan). FILL — even and high. RIM — a cyan edge on the braids. PRACTICAL — sunny window-animation, disco scatter. SEPARATION — bright candy behind the face. BOUNCE — pink kick on the jaw.
+  • ATMOSPHERE: pure candy-bright fun, infectious energy.
+  • COLOUR GRADE: MAXIMUM POP — saturated pink, cyan, coral, berry, confetti-rainbow; candy-bright, electric. (Matches CLIP 2 END STATE.)
+  • TEXTURE & MICRO-DETAIL: confetti paper, disco-scatter on skin, glossy braids, real pores under bright light, phone-screen gloss.
+
 CUT LOGIC: hard ANGLE-CUT to CLIP 3 (close-up). No motion-match; WORLD STATE matches 100%.
 
 ---
@@ -2506,6 +3255,23 @@ LIGHTING-IN-MOTION: bright candy high-key morphs to warm golden chandelier light
 DIEGETIC AUDIO: the pop fading; the tap; a beat; then a classical orchestral swell — strings, harp, a french-horn motif; a chandelier tinkle; a palace-reverb on the room tone.
 MASTER TRACK: the classical section — full strings, harp arpeggios, french horn, a grand piano.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 4's START IMAGE must reproduce 100%, new angle only): at clip end the kitchen is a gilded CLASSICAL PALACE — white-and-gold marble, carved gilt shelves, a crystal chandelier, an arched garden window, warm golden light, prismatic scatter; Aira composed and regal, burnt-orange top reading rich, braids formal. CLIP 4 must open in this EXACT palace world (same marble/gold, same chandelier, same golden light, same wardrobe) — only the angle changes.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 4 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the burnt-orange knit top reading regal in golden light, cream pants, apron now like formal linen — identical state.
+  • FOOTWEAR: out of frame.
+  • EYEWEAR: none.
+  • ACCESSORIES: gold hoops reading as small court earrings, woven bracelet, berry nails on the spoon-sceptre.
+  • HAIR: the low braids formal, gold-lit, ribbons like court accents.
+  • MAKEUP: fresh glow, gilded.
+  • HANDS & NAILS: she holds the wooden spoon upright like a sceptre, pinky lifted, wrist elegant; berry nails.
+  • FACIAL MICRO-DYNAMICS: regal calm — chin lifted, lids half-lowered with composed grace, a dignified close-lipped smile, brow smooth — suddenly royalty, with a flicker of self-aware amusement.
+  • BODY POSTURE & WEIGHT: spine straight, shoulders back, weight even, regal poise, breathing.
+  • KINETIC STILLNESS (8 layers): (1) chandelier crystals swaying, throwing prismatic dots; (2) golden light pooling on marble; (3) braids formal and still; (4) the apron-linen drifting; (5) chest rising; (6) the arched garden window glowing; (7) a prismatic scatter on her cheek; (8) a slow dignified blink.
+  • SPATIAL LOGIC: FOREGROUND — the spoon-sceptre, sharp. MIDGROUND — Aira regal. BACKGROUND — the gilded palace kitchen, chandelier, garden window.
+  • LIGHTING: KEY — warm golden chandelier light from above. FILL — multiple soft gilt-bounces. RIM — a gold edge on the braids. PRACTICAL — chandelier, garden window. SEPARATION — bright garden window behind. BOUNCE — gold under the chin.
+  • ATMOSPHERE: opulent palace pomp, grand and faintly absurd.
+  • COLOUR GRADE: VIVID — saturated gold + cream + marble-white + berry + deep garden-green; opulent. (Matches CLIP 3 END STATE.)
+  • TEXTURE & MICRO-DETAIL: marble veining, gilt carving, crystal-prism scatter, wooden-spoon grain, glossy formal braids, gold-lit skin.
+
 CUT LOGIC: hard ANGLE-CUT to CLIP 4 (medium, regal). No motion-match; WORLD STATE matches 100%.
 
 ---
@@ -2551,6 +3317,23 @@ LIGHTING-IN-MOTION: golden chandelier light steady; prismatic crystal-scatter da
 DIEGETIC AUDIO: the classical swell (strings, harp, french horn); the chandelier tinkle; her dry spoken aside (close, natural Indian accent); a palace-reverb room tone.
 MASTER TRACK: the classical section at its grandest under the spoken line, which sits in a small orchestral lull.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 5's START IMAGE must reproduce 100%, new angle only): at clip end the palace holds full and gilded; Aira regal with the spoon-sceptre, self-amusement breaking through, burnt-orange top, formal braids. CLIP 5 must open in this EXACT palace state (same gilt/marble, same chandelier, same wardrobe/pose) — only the angle changes; the revert happens within CLIP 5.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 5 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the burnt-orange top and cream pants returning to their normal reading as the gold light fades — identical state.
+  • FOOTWEAR: white slip-ons, one foot turned out from the laugh.
+  • EYEWEAR: none.
+  • ACCESSORIES: gold hoops, woven bracelet, berry nails reading normal again as gilt fades.
+  • HAIR: the braids swinging with the laugh, ribbons loose.
+  • MAKEUP: fresh glow, transitioning back to neutral.
+  • HANDS & NAILS: she lowers the spoon-sceptre, clutching it to her chest as she laughs; berry nails.
+  • FACIAL MICRO-DYNAMICS: a genuine unstoppable laugh — mouth open, eyes crinkled, cheeks high, nose scrunched, one hand to her chest; the regal mask melting into authentic joy (fluid, not a cut).
+  • BODY POSTURE & WEIGHT: bent slightly forward in the laugh, shoulders shaking, weight easy, alive.
+  • KINETIC STILLNESS (8 layers): (1) the palace dissolving — chandelier shrinking to a pendant; (2) marble fading to subway tile; (3) braids swinging with the laugh; (4) gilt peeling back to oak shelves; (5) chest heaving with the laugh; (6) the garden window shrinking to normal; (7) the apron settling; (8) a crinkle-eyed blink.
+  • SPATIAL LOGIC: FOREGROUND — the spoon clutched to her chest, soft. MIDGROUND — Aira laughing. BACKGROUND — the reverting kitchen, palace melting to modern.
+  • LIGHTING: KEY — fading gold returning to warm afternoon daylight. FILL — soft bounce. RIM — a softening edge on the braids. PRACTICAL — fading chandelier to under-cabinet strips. SEPARATION — transitioning. BOUNCE — warm.
+  • ATMOSPHERE: warm authentic joy breaking the spell.
+  • COLOUR GRADE: transitioning — gold draining, warm-neutral returning, her burnt-orange top the steady anchor throughout.
+  • TEXTURE & MICRO-DETAIL: laugh-crinkle skin detail, glossy swinging braids, the spoon grain, gilt-peeling-to-oak, tile reappearing.
+
 CUT LOGIC: hard ANGLE-CUT to CLIP 5 (three-quarter, knees-up). No motion-match; WORLD STATE matches 100%.
 
 ---
@@ -2596,6 +3379,23 @@ LIGHTING-IN-MOTION: gold drains; warm afternoon daylight returns; the kitchen cl
 DIEGETIC AUDIO: the classical fading; her genuine warm laugh (musical, authentic); the spoon clatter; the pot bubbling normally; the normal kitchen ambience returning; a final happy sigh.
 MASTER TRACK: the classical thins; a brief warm resolve as the music returns toward the neutral ambient.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 6's START IMAGE must reproduce 100%, then loop): at clip end the kitchen is back to its clean modern neutral state — subway tile, oak shelves, simmering pot, window, warm afternoon daylight; Aira straightening from the laugh, burnt-orange top, braids, warm grin softening. CLIP 6 must open in this EXACT neutral kitchen (same tile/oak/pot, same daylight, same wardrobe) — only the angle changes, matching CLIP 1.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 6 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: burnt-orange ribbed knit top, cream wide-leg pants, linen apron — matched to CLIP 1.
+  • FOOTWEAR: white canvas slip-ons — matched.
+  • EYEWEAR: none.
+  • ACCESSORIES: thin gold hoops, woven bracelet, berry nails, wooden spoon — matched.
+  • HAIR: two low pigtail braids, black silk ribbons — matched to CLIP 1.
+  • MAKEUP: fresh natural glow — matched.
+  • HANDS & NAILS: right thumb hovering over the phone to skip, left holding the spoon; berry nails.
+  • FACIAL MICRO-DYNAMICS: easy concentration, a "not this song" brow-furrow softening from the grin — the exact opening face.
+  • BODY POSTURE & WEIGHT: a relaxed lean toward the island, weight on one hip — mirror of CLIP 1.
+  • KINETIC STILLNESS (8 layers): (1) the pot simmering; (2) bright neutral daylight; (3) a braid swaying; (4) herbs stirring; (5) chest rising; (6) the phone glowing; (7) the spoon resting; (8) a slow blink — matched to CLIP 1.
+  • SPATIAL LOGIC: FOREGROUND — the phone and her thumb. MIDGROUND — Aira at the island. BACKGROUND — the clean modern kitchen — matched to CLIP 1.
+  • LIGHTING: KEY — warm bright afternoon daylight. FILL — tile bounce. RIM — soft braid edge. PRACTICAL — under-cabinet strips. SEPARATION — bright window. BOUNCE — warm counter under the chin — matched to CLIP 1.
+  • ATMOSPHERE: the bright easy afternoon resuming — ready to skip again.
+  • COLOUR GRADE: VIVID warm-neutral — burnt-orange and berry anchors, clean tile, warm wood — matched to CLIP 1.
+  • TEXTURE & MICRO-DETAIL: ribbed knit, linen weave, tile grout, simmering bubbles, glossy braids, phone glow, berry nails — matched.
+
 CUT LOGIC: hard ANGLE-CUT to CLIP 6 (wide, the opening angle). No motion-match; state matches CLIP 1.
 
 ---
@@ -2641,6 +3441,23 @@ LIGHTING-IN-MOTION: warm afternoon daylight steady — matched to CLIP 1.
 DIEGETIC AUDIO: a fading track; the pot simmer; the spoon set-down; her small "next" breath — back to the CLIP-1 bed.
 MASTER TRACK: the medley resolves to the neutral kitchen ambience, looping cleanly.
 END STATE / STATE-MATCH LOCK: clip ends in the EXACT neutral-kitchen state and wide angle of CLIP 1's START IMAGE — pot, light, wardrobe and concentration matched, so the reel loops seamlessly.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 1 (LOOP back to opening) — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the fitted burnt-orange ribbed knit top, high-waist cream wide-leg linen pants, a small linen apron tied at the waist; fresh and cosy.
+  • FOOTWEAR: simple white canvas slip-ons, relaxed.
+  • EYEWEAR: none.
+  • ACCESSORIES: thin gold hoops, a woven bracelet, berry glossy short nails, a wooden cooking spoon in the non-phone hand.
+  • HAIR: two low pigtail braids, glossy black, thin black silk ribbons, ends at the collarbone, one braid swinging as she reaches.
+  • MAKEUP: fresh natural glow — luminous skin, soft warm lip, real pores.
+  • HANDS & NAILS: her right thumb hovering over the phone screen about to tap skip, the left holding the wooden spoon resting on the counter; berry glossy nails.
+  • FACIAL MICRO-DYNAMICS: easy concentration — eyes on the phone, brow slightly furrowed in a "not this song" way, lips pressed in mild thought.
+  • BODY POSTURE & WEIGHT: a relaxed lean toward the island, weight on one hip, shoulders easy, spine long, breathing.
+  • KINETIC STILLNESS (8 layers): (1) the pot simmering with rising steam; (2) bright neutral daylight steady on the tile; (3) a braid swaying as she reaches; (4) herbs stirring in a window draft; (5) chest rising; (6) the phone screen glowing; (7) the spoon resting on the counter edge; (8) a slow blink.
+  • SPATIAL LOGIC: FOREGROUND — the phone on its stand and her thumb, sharp. MIDGROUND — Aira at the island. BACKGROUND — the clean modern kitchen with simmering pot, oak shelves, window.
+  • LIGHTING: KEY — warm bright afternoon daylight from a window. FILL — soft bounce off white tile. RIM — a soft edge on the braids. PRACTICAL — warm under-cabinet strips. SEPARATION — bright window behind. BOUNCE — warm counter kick under the chin.
+  • ATMOSPHERE: a bright easy afternoon of cooking, the moment before the music transforms everything.
+  • COLOUR GRADE: VIVID warm-neutral — the burnt-orange top and berry nails the saturated anchors, clean bright tile, warm wood; glossy, full mid-tone.
+  • TEXTURE & MICRO-DETAIL: ribbed-knit texture, linen-apron weave, subway-tile grout, simmering-pot bubbles, glossy braids, phone-screen glow, berry nail gloss.
+
 CUT LOGIC: ANGLE-CUT / LOOP back to CLIP 1; the next pass re-triggers the genre-morphs on the first skip.
 
 ### ☆ EXTERNAL AUDIO — BLOCK 1: BACKGROUND SOUND DESIGN / AMBIENCE BED — B-3
@@ -2737,6 +3554,23 @@ LIGHTING-IN-MOTION: the phone glow moves with the slide, dragging a small light-
 DIEGETIC AUDIO: the phone buzz (sharp, insistent); a soft gasp; the velvet slide (a soft shushing friction); candle crackle; rain on glass.
 MASTER TRACK: a quiet plucked acoustic guitar with vinyl-crackle; muted pizzicato strings entering on the slide (comedic tension).
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 2's START IMAGE must reproduce 100%, new angle only): at clip end the phone sits glowing just out of reach across the velvet, a trail-indent in the nap; Aira leaning, indignant-disbelieving, camel sweater, French twist, the cosy room warm around. CLIP 2 must open in this EXACT state (same phone position, same velvet trail, same warm room, same wardrobe/lean) — only the camera angle changes.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 2 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the camel cashmere sweater at the shoulder, cowl neck — identical state.
+  • FOOTWEAR: out of frame.
+  • EYEWEAR: none.
+  • ACCESSORIES: pearl drop earring catching candle-flicker, thin gold bracelet, gold hairpin, nude-pink nails on the dark screen.
+  • HAIR: the French twist and falling pieces, gold hairpin, amber-lit.
+  • MAKEUP: soft evening glow.
+  • HANDS & NAILS: both hands cupping the phone possessively — she caught it — thumb tapping the unresponsive dark screen; nude-pink glossy nails.
+  • FACIAL MICRO-DYNAMICS: triumphant satisfaction crumbling into irritated confusion — first a smug corner-smile at catching it, then the smile dropping as the dead screen registers, brow furrowing, jaw setting.
+  • BODY POSTURE & WEIGHT: leaned in, both hands around the phone, shoulders curling protectively, breathing.
+  • KINETIC STILLNESS (8 layers): (1) the phone screen aggressively dark; (2) the candle flame flickering as if stifling a laugh; (3) a falling hair-piece drifting; (4) the sweater shifting; (5) chest rising; (6) amber lamp glow; (7) rain on the window; (8) a slow exasperated blink.
+  • SPATIAL LOGIC: FOREGROUND — the dark phone and her cupping hands, sharp. MIDGROUND — her face. BACKGROUND — the cosy room in warm bokeh.
+  • LIGHTING: KEY — warm amber lamp. FILL — candle flicker. RIM — cool city-light edge. PRACTICAL — lamp, candle, city window (NO phone glow — it's dead). SEPARATION — warm room behind. BOUNCE — warm amber under the jaw.
+  • ATMOSPHERE: a small absurd betrayal — caught the phone, but it played dead.
+  • COLOUR GRADE: VIVID cosy evening — navy velvet, amber, candle-gold, the dark phone a void. (Matches CLIP 1 END STATE.)
+  • TEXTURE & MICRO-DETAIL: the dark glass screen with faint fingerprints, cashmere knit, pearl-earring gleam, candle flicker, nail gloss.
+
 CUT LOGIC: hard ANGLE-CUT to CLIP 2 (close-up). No motion-match; WORLD STATE matches 100%.
 
 ---
@@ -2782,6 +3616,23 @@ LIGHTING-IN-MOTION: no phone glow (the void); amber lamp steady; candle flickers
 DIEGETIC AUDIO: her thumb-taps on glass (tap, tap, harder tap); an exasperated sigh; the phone making NO sound at all (pointedly silent); candle crackle; rain.
 MASTER TRACK: the pizzicato strings tick up the comedic tension over the guitar.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 3's START IMAGE must reproduce 100%, new angle only): at clip end she holds the dead-black phone, irritated; the cosy room warm around, candle flickering; camel sweater, French twist. CLIP 3 must open in this EXACT state (same dead phone in hand, same warm room, same wardrobe/mood) — only the angle changes; the screen lights but scrambles within CLIP 3.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 3 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the camel sweater in profile, cowl neck draping — identical state.
+  • FOOTWEAR: out of frame.
+  • EYEWEAR: none.
+  • ACCESSORIES: pearl earring, thin gold bracelet on the phone-holding wrist, gold hairpin, nude-pink nails against the bright screen.
+  • HAIR: the French twist in profile, hairpin visible, falling pieces at the jaw.
+  • MAKEUP: soft evening glow, screen-lit on the near cheek.
+  • HANDS & NAILS: she holds the phone up in profile, thumb hovering over a scrambled keyboard; nude-pink glossy nails.
+  • FACIAL MICRO-DYNAMICS: confusion sharpening to "you have GOT to be kidding" — brow knitting, lips parting, eyes scanning the gibberish screen.
+  • BODY POSTURE & WEIGHT: upright profile, the phone raised, weight centred, breathing.
+  • KINETIC STILLNESS (8 layers): (1) the screen glowing with scrambled colourful keys; (2) the candle flame flickering; (3) a falling hair-piece; (4) the sweater shifting; (5) chest rising; (6) the gibberish text-field flickering; (7) amber lamp glow; (8) a slow disbelieving blink.
+  • SPATIAL LOGIC: FOREGROUND — the bright scrambled screen, sharp. MIDGROUND — her profile. BACKGROUND — the cosy room in warm bokeh.
+  • LIGHTING: KEY — the phone-screen glow on her near cheek. FILL — warm amber lamp. RIM — cool city-light on the profile. PRACTICAL — phone screen, lamp, candle, window. SEPARATION — warm room behind the profile. BOUNCE — screen-glow under the jaw.
+  • ATMOSPHERE: escalating absurd comedy, warm and wry.
+  • COLOUR GRADE: VIVID cosy evening — navy, amber, candle-gold, the scrambled screen a colourful glow. (Matches CLIP 2 END STATE.)
+  • TEXTURE & MICRO-DETAIL: the screen's scrambled colourful keys, glass fingerprints, cashmere knit, pearl gleam, falling hair-piece detail.
+
 CUT LOGIC: hard ANGLE-CUT to CLIP 3 (profile). No motion-match; WORLD STATE matches 100%.
 
 ---
@@ -2827,6 +3678,23 @@ LIGHTING-IN-MOTION: the scrambled screen flashes shifting colours across her pro
 DIEGETIC AUDIO: rapid soft screen-taps; a comical quiet scramble-sound (like shuffling cards) each time keys move; a frustrated grunt; a gibberish notification ping; candle crackle.
 MASTER TRACK: the pizzicato gets playful percussive taps matching her dodged-key chase.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 4's START IMAGE must reproduce 100%, new angle only): at clip end the phone shows a scrambled colourful keyboard, her thumb mid-chase; the cosy room warm around; camel sweater, French twist. CLIP 4 must open in this EXACT state (same scrambled screen, same hands, same warm room) — only the angle changes (to the macro screen view).
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 4 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: a camel cashmere cuff at the wrist edge of frame.
+  • FOOTWEAR: out of frame.
+  • EYEWEAR: out of frame.
+  • ACCESSORIES: thin gold bracelet at the wrist, nude-pink glossy nails in sharp focus on the phone.
+  • HAIR: only a falling twist-piece blurred at the frame edge.
+  • MAKEUP: out of frame.
+  • HANDS & NAILS: her thumbs hovering over the scrambled keys, one beginning to press a letter; nude-pink glossy nails, fingerprint detail on the glass.
+  • FACIAL MICRO-DYNAMICS: out of frame — but the thumbs convey frustration: hovering, twitching, unsure where to press.
+  • BODY POSTURE & WEIGHT: implied lean over the phone (hands only).
+  • KINETIC STILLNESS (8 layers): (1) the scrambled keys glowing and shifting; (2) a key sliding away from the descending thumb; (3) the text-field showing gibberish; (4) a faint reflection of the candle on the glass; (5) the bracelet glinting; (6) a fingerprint smudge catching light; (7) a colour-pulse across the keys; (8) a thumb micro-tremor of exasperation.
+  • SPATIAL LOGIC: FOREGROUND — the screen surface, razor-sharp. MIDGROUND — her thumbs. BACKGROUND — the navy velvet cushion beneath in soft bokeh.
+  • LIGHTING: KEY — the phone-screen glow lighting her thumbs from below. FILL — warm amber ambient. RIM — none. PRACTICAL — phone screen, candle reflection. SEPARATION — bright screen vs dark velvet. BOUNCE — screen-colour on the fingertips.
+  • ATMOSPHERE: the comedic peak — a tiny finger-versus-button battle.
+  • COLOUR GRADE: VIVID — the scrambled keys glowing random saturated colours, warm amber surround, navy velvet. (Matches CLIP 3 END STATE.)
+  • TEXTURE & MICRO-DETAIL: glass fingerprint smudges, the keys' colour-glow, nail gloss, velvet nap beneath, candle reflection on the screen.
+
 CUT LOGIC: hard ANGLE-CUT to CLIP 4 (extreme macro on the screen). No motion-match; WORLD STATE matches 100%.
 
 ---
@@ -2872,6 +3740,23 @@ LIGHTING-IN-MOTION: the keys flash colours as they scramble; the glow flickers o
 DIEGETIC AUDIO: rapid soft screen-taps; a tiny card-shuffle scramble per key-move; an off-screen frustrated grunt; a gibberish ping.
 MASTER TRACK: a playful muted-trumpet "wah" enters, teasing the comedy.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 5's START IMAGE must reproduce 100%, new angle only): at clip end the screen is full gibberish, keys dodging, her thumbs trembling with exasperation; the navy cushion and warm room around. CLIP 5 must open by pulling back to the full scene in this state (same scrambled phone, same warm room, same wardrobe) — then she surrenders within CLIP 5.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 5 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the camel cashmere sweater, black silk lounge pants, the throw kicked aside — comfortable defeat.
+  • FOOTWEAR: barefoot, gold toe-ring, feet up on the sofa now.
+  • EYEWEAR: none.
+  • ACCESSORIES: pearl earrings, gold hairpin (twist slightly more undone), thin bracelet, nude-pink nails on the phone.
+  • HAIR: the French twist a touch undone from the frustration, pieces framing the face beautifully.
+  • MAKEUP: soft evening glow.
+  • HANDS & NAILS: one hand holding the phone, about to toss it face-down; the other rising toward her chest; nude-pink nails.
+  • FACIAL MICRO-DYNAMICS: dramatic surrender melting into genuine relief — first eyes closed, brow furrowed, a theatrical pout, chin lifted ("fine"); then the pout cracking into a small real smile (a fluid melt).
+  • BODY POSTURE & WEIGHT: sinking back dramatically into the sofa, weight releasing into the cushions, breathing.
+  • KINETIC STILLNESS (8 layers): (1) the phone poised to land face-down; (2) a warm glow-pulse poised to ripple from where it lands; (3) the candle standing tall and steady; (4) the throw settling; (5) chest rising on a dramatic sigh; (6) the lamp brightening a notch; (7) rain softening on the window; (8) a slow surrendering blink.
+  • SPATIAL LOGIC: FOREGROUND — the throw and her feet, soft. MIDGROUND — Aira sinking back. BACKGROUND — the cosy room about to "exhale," lamp and candle and rain-window.
+  • LIGHTING: KEY — warm amber lamp swelling. FILL — candle-gold. RIM — cool city-light. PRACTICAL — lamp, candle, window. SEPARATION — warm room behind. BOUNCE — warm amber under the chin.
+  • ATMOSPHERE: the warm relief of giving up the bad idea, cosy and earned.
+  • COLOUR GRADE: VIVID cosy evening at its warmest — navy velvet, amber, candle-gold, camel; rich, full mid-tone. (Matches CLIP 4 END STATE, then warms on the relief-pulse.)
+  • TEXTURE & MICRO-DETAIL: velvet nap, cashmere knit, candle-flame, the throw fabric, golden glow-pulse, warm skin.
+
 CUT LOGIC: hard ANGLE-CUT to CLIP 5 (low-angle hero, full scene). No motion-match; WORLD STATE matches 100%.
 
 ---
@@ -2917,6 +3802,23 @@ LIGHTING-IN-MOTION: the glow-pulse swells then settles to a richer steady warmth
 DIEGETIC AUDIO: the phone toss and velvet-thud; her dry spoken surrender line; the glow-pulse as a soft warm musical sigh (a room exhaling); the lamp-brighten hum; rain softening; her nose-laugh; candle crackle settling.
 MASTER TRACK: a warm "wah-wah" trumpet resolve and a pad-swell at the surrender — the emotional payoff.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 6's START IMAGE must reproduce 100%, then RESET): at clip end the room is at its warmest, the phone face-down, Aira sunk back with a private smile, camel sweater, twist undone-chic. CLIP 6 must open by RESETTING to the curled opening pose with the phone face-up and buzzing again — same warm room, same wardrobe.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 6 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the camel cashmere cowl-neck sweater, black silk lounge pants — matched to CLIP 1.
+  • FOOTWEAR: barefoot, toes tucked under the throw, gold toe-ring — matched.
+  • EYEWEAR: none.
+  • ACCESSORIES: gold hairpin, pearl drop earrings, thin gold bracelet, nude-pink nails — matched.
+  • HAIR: the loose tousled French twist, falling pieces, gold hairpin — matched to CLIP 1.
+  • MAKEUP: soft evening glow — matched.
+  • HANDS & NAILS: one hand on her chest (just startled), the other by her side near the phone but not reaching; nude-pink nails.
+  • FACIAL MICRO-DYNAMICS: the "oh no" moment returning — eyes darting to the buzzing phone, brow lifting, the internal debate beginning — the exact opening face.
+  • BODY POSTURE & WEIGHT: curled into the sofa corner, weight settled — mirror of CLIP 1.
+  • KINETIC STILLNESS (8 layers): (1) the phone screen glowing with a new buzz; (2) the candle flickering; (3) a falling hair-piece; (4) the throw shifting; (5) chest rising on a startled breath; (6) rain on the window; (7) amber lamp pulsing; (8) a slow blink — matched to CLIP 1.
+  • SPATIAL LOGIC: FOREGROUND — the glowing buzzing phone. MIDGROUND — Aira curled. BACKGROUND — the cosy room — matched to CLIP 1.
+  • LIGHTING: KEY — warm amber lamp. FILL — candle flicker. RIM — cool city-light. PRACTICAL — lamp, candle, phone glow, window. SEPARATION — warm room behind. BOUNCE — warm amber under the chin — matched to CLIP 1.
+  • ATMOSPHERE: cosy rainy-evening intimacy — the temptation returning.
+  • COLOUR GRADE: VIVID cosy evening — navy velvet, amber, candle-gold, camel — matched to CLIP 1.
+  • TEXTURE & MICRO-DETAIL: velvet nap, cashmere knit, candle-flame, hairpin gleam, phone glow, rain on glass — matched.
+
 CUT LOGIC: hard ANGLE-CUT to CLIP 6 (three-quarter, curled). No motion-match; state resets to CLIP 1.
 
 ---
@@ -2962,6 +3864,23 @@ LIGHTING-IN-MOTION: phone glow returning to the CLIP-1 level.
 DIEGETIC AUDIO: the phone buzz (same insistent tone); a soft gasp; candle crackle; rain on glass — back to the CLIP-1 bed.
 MASTER TRACK: the guitar-and-crackle settles to the opening, looping cleanly.
 END STATE / STATE-MATCH LOCK: clip ends in the EXACT curled opening state and three-quarter angle of CLIP 1's START IMAGE — phone buzzing, warm room, wardrobe and "oh no" expression matched, so the reel loops seamlessly.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 1 (LOOP back to opening) — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the soft oversized camel cashmere sweater, wide cowl neck, over black silk lounge pants; cosy and chic.
+  • FOOTWEAR: barefoot, toes tucked under the throw, a thin gold toe-ring visible.
+  • EYEWEAR: none.
+  • ACCESSORIES: a single gold hairpin in the twist, small pearl drop earrings, a thin gold bracelet, nude-pink glossy nails.
+  • HAIR: a loose tousled French twist, pieces falling around the face, the gold hairpin catching lamplight.
+  • MAKEUP: soft evening glow — luminous skin, warm rose lip, subtle bronze lid, real pores.
+  • HANDS & NAILS: one hand resting on her chest (just startled by the buzz), the other by her side close to the phone but not reaching yet; nude-pink glossy nails.
+  • FACIAL MICRO-DYNAMICS: the "oh no" moment — eyes darting to the phone, brow lifting with surprised alertness, lips pressing, a visible internal debate beginning, half-hopeful/half-resistant.
+  • BODY POSTURE & WEIGHT: curled into the sofa corner, weight settled into the cushions, shoulders soft, breathing.
+  • KINETIC STILLNESS (8 layers): (1) the phone screen glowing with a notification; (2) the candle flame flickering as if reacting; (3) a falling hair-piece drifting at the temple; (4) the throw fabric shifting; (5) chest rising on a startled breath; (6) rain streaking the city-lit window; (7) an amber lamp glow pulsing softly; (8) a slow blink.
+  • SPATIAL LOGIC: FOREGROUND — the glowing phone on the velvet, sharp. MIDGROUND — Aira curled on the sofa. BACKGROUND — the cosy room, bookshelves, rain-window in warm bokeh.
+  • LIGHTING: KEY — warm amber lamp from camera-left. FILL — candle flicker as accent. RIM — cool city-light from the rain-window. PRACTICAL — amber lamp, candle, phone glow, city window. SEPARATION — warm room behind a softly lit figure. BOUNCE — warm amber under the chin.
+  • ATMOSPHERE: cosy rainy-evening intimacy, the tension of a buzzing phone.
+  • COLOUR GRADE: VIVID cosy evening — saturated midnight-navy velvet, warm amber, candle-gold, camel sweater; rich, full mid-tone.
+  • TEXTURE & MICRO-DETAIL: plush velvet nap, soft cashmere knit, candle-flame detail, the hairpin's gold gleam, phone-screen glow, rain on glass.
+
 CUT LOGIC: ANGLE-CUT / LOOP back to CLIP 1; the next pass re-triggers the phone's resistance when she reaches for it.
 
 ### ☆ EXTERNAL AUDIO — BLOCK 1: BACKGROUND SOUND DESIGN / AMBIENCE BED — B-4
@@ -3057,6 +3976,23 @@ LIGHTING-IN-MOTION: grey flat light is invaded by electric-blue neon and warm mi
 DIEGETIC AUDIO: the taxi pulling away (engine, tire on wet road); her boot heel on the curb (decisive); a quiet city evening; then a soft electric hum-sizzle as the neon grows and a gentle chime as the puddle turns gold.
 MASTER TRACK: a deep sub-bass pulse only (grey), with the first synth-string layer entering on the heel-strike transformation.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 2's START IMAGE must reproduce 100%, new angle only): at clip end the nearest block has begun transforming — neon-blue trim on the building, a mirror-gold puddle, a crystallising streetlight; the rest of the street still grey ahead; Aira mid-stride, sunglasses low, black coat, red blouse, blowout. CLIP 2 must open in this EXACT state (same transformed-near/grey-far split, same neon and mirror-puddle, same wardrobe) — only the camera angle changes.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 2 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the black wool coat swinging in profile, the red mandarin-collar blouse visible, cigarette pants mid-stride — identical state.
+  • FOOTWEAR: glossy black ankle boots mid-stride, a heel about to strike a mirror-puddle.
+  • EYEWEAR: slim sunglasses being lowered from the face by one hand.
+  • ACCESSORIES: gold ring catching neon, ear-climbers lit, the clutch under the arm, cherry nails on the glasses.
+  • HAIR: the blowout in profile, bouncing with the stride, curtain bangs catching the new neon.
+  • MAKEUP: polished editorial, neon-and-gold lit.
+  • HANDS & NAILS: one hand lowering the sunglasses with precise control; the clutch held; deep-cherry nails.
+  • FACIAL MICRO-DYNAMICS: walking confidence — a knowing half-smile in profile, eyes forward and slightly down (not looking at the magic — it just happens), unbothered poise.
+  • BODY POSTURE & WEIGHT: a confident mid-stride, weight rolling heel-to-toe, hips with natural sway, shoulders square, alive.
+  • KINETIC STILLNESS (8 layers): (1) neon trim growing along the building edges; (2) a mirror-puddle expanding gold at her feet; (3) the blowout bouncing; (4) the coat hem swinging; (5) chest rising; (6) a streetlight morphing into a crystal chandelier; (7) a passing grey pedestrian flushing with colour as they enter her radius; (8) a slow confident blink.
+  • SPATIAL LOGIC: FOREGROUND — a mirror-puddle, sharp. MIDGROUND — Aira striding in profile. BACKGROUND — the transforming block: neon facades, crystallising lights, colourful pedestrians.
+  • LIGHTING: KEY — electric neon-blue as a cool key on her face. FILL — warm mirror-puddle bounce from below. RIM — neon edge on the blowout. PRACTICAL — growing neon, mirror-puddles, crystallising lights. SEPARATION — bright transforming city behind. BOUNCE — gold puddle-light up onto the coat.
+  • ATMOSPHERE: a magnetic walk through a city blooming into splendour in her wake.
+  • COLOUR GRADE: VIVID — electric neon-blue, mirror-gold, crystal sparkle, deep-red blouse, awakening pedestrian colour; the grey flushing to saturated. (Matches CLIP 1 END STATE.)
+  • TEXTURE & MICRO-DETAIL: neon-tube glow on wet facades, mirror-puddle reflections, the blowout's gloss, crystal-facet sparkle, coat-wool nap.
+
 CUT LOGIC: hard ANGLE-CUT to CLIP 2 (walking profile). No motion-match; WORLD STATE matches 100%.
 
 ---
@@ -3102,6 +4038,23 @@ LIGHTING-IN-MOTION: the neon-and-gold light-corridor intensifies along her path;
 DIEGETIC AUDIO: rhythmic heel-clicks (the main beat); a quiet electric hum-sizzle of growing neon; a golden puddle-ripple chime; city ambience lifting; a soft whoosh as a pedestrian gains colour.
 MASTER TRACK: a snare on the 3 and a building layered synth-string grow with each transformation.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 3's START IMAGE must reproduce 100%, new angle only): at clip end the block is largely transformed — neon facades, mirror-puddles, a crystal-chandelier streetlight, colourful pedestrians; Aira mid-stride, sunglasses now off, black coat, red blouse, blowout. CLIP 3 must open in this EXACT state (same transformed block, same neon/mirror/crystal, same wardrobe, shades off) — only the angle changes.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 3 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the black coat collar and red mandarin-collar blouse at the throat — power framing, identical state.
+  • FOOTWEAR: out of frame.
+  • EYEWEAR: held folded in one hand at the shoulder.
+  • ACCESSORIES: the gold ring prominent, ear-climbers catching multicolour light, cherry nails on the folded glasses.
+  • HAIR: the blowout full and bouncy, curtain bangs perfect, neon-and-gold light painting the glossy strands.
+  • MAKEUP: polished editorial, electric catch-lights in the eyes.
+  • HANDS & NAILS: one hand holding the folded sunglasses at shoulder height, casual and precise; deep-cherry nails.
+  • FACIAL MICRO-DYNAMICS: quiet magnetic power at its peak — eyes dead-on lens, pupils dark and steady, lids at a perfect confident half-mast, brow smooth with the slightest power-lift; lips in a full controlled closed-mouth power-smile that says "I know."
+  • BODY POSTURE & WEIGHT: a still, self-possessed stand, shoulders level, chin up, breathing.
+  • KINETIC STILLNESS (8 layers): (1) neon pulsing in the bokeh; (2) crystals sparkling; (3) mirror-puddle golds rippling; (4) a colourful pedestrian blooming behind; (5) the blowout settling from the walk; (6) chest on one slow breath; (7) multicolour catch-lights rippling in her eyes; (8) a slow sovereign blink.
+  • SPATIAL LOGIC: FOREGROUND — soft neon bokeh shapes. MIDGROUND — her face, pin-sharp. BACKGROUND — the transformed city as a vivid light-painting.
+  • LIGHTING: KEY — multicolour neon-and-gold key. FILL — warm bounce. RIM — electric edge on the blowout. PRACTICAL — neon, crystal lights, mirror-puddles. SEPARATION — bright vivid city behind the face. BOUNCE — neon-gold under the jaw.
+  • ATMOSPHERE: magnetic power at its peak — she is the centre of the splendour she created.
+  • COLOUR GRADE: MAXIMUM — every colour at full neon saturation in the bokeh, her skin warm and vivid, the red blouse a rich anchor. (Matches CLIP 2 END STATE.)
+  • TEXTURE & MICRO-DETAIL: real pores, lash separation, the blowout's gloss, neon catch-lights in the eyes, cherry lip-gloss micro-speculars.
+
 CUT LOGIC: hard ANGLE-CUT to CLIP 3 (close-up). No motion-match; WORLD STATE matches 100%.
 
 ---
@@ -3147,6 +4100,23 @@ LIGHTING-IN-MOTION: multicolour catch-lights ripple in her eyes as the neon puls
 DIEGETIC AUDIO: near-silence — city sounds hushed; her slow even breath; a low bass pulse; a faint crystalline shimmer; then city sounds rushing back.
 MASTER TRACK: full build at the close-up — layered synth-strings under a sub-bass swell, poised before the drop.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 4's START IMAGE must reproduce 100%, new angle only): at clip end the city is fully transformed and pulsing; Aira self-possessed, folded glasses in hand, black coat, red blouse, blowout, power-smile. CLIP 4 must open in this EXACT state (same vivid city, same wardrobe) — only the angle changes (to the back-pose wake shot).
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 4 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the long black coat from behind, belt-knot at the waist, the red blouse collar just visible above — identical state.
+  • FOOTWEAR: glossy black ankle boots walking away, reflected in mirror-puddles.
+  • EYEWEAR: none (folded, pocketed/in clutch).
+  • ACCESSORIES: ear-climbers glinting at the jaw-line, the clutch under the arm, cherry nails.
+  • HAIR: the blowout from behind, full bounce, catching neon and chandelier-light.
+  • MAKEUP: polished editorial, multicolour-lit.
+  • HANDS & NAILS: hands relaxed at her sides, the clutch held; deep-cherry nails.
+  • FACIAL MICRO-DYNAMICS: (from behind — posture speaks: shoulders squared, head high, stride confident; she doesn't look back).
+  • BODY POSTURE & WEIGHT: a confident receding stride, weight rolling, shoulders square, spine tall, alive.
+  • KINETIC STILLNESS (8 layers): (1) every building neon-trimmed and glowing; (2) crystal-chandelier streetlights casting prismatic light; (3) the blowout bouncing; (4) the coat hem swinging; (5) golden footprint-ripples on the wet ground from each step; (6) colourful pedestrians looking around in wonder; (7) mirror-puddles reflecting impossible skies; (8) a confident receding gait.
+  • SPATIAL LOGIC: FOREGROUND — a mirror-puddle with her reflection, sharp. MIDGROUND — Aira walking away. BACKGROUND — the fully luminous transformed block converging into vivid depth.
+  • LIGHTING: KEY — full neon multicolour + crystal-chandelier scatter + mirror-gold uplight — the street now a palace corridor. FILL — warm bounce. RIM — neon edge down her silhouette. PRACTICAL — neon facades, crystal lights, mirror-puddles. SEPARATION — vivid city around the dark figure. BOUNCE — gold uplight on the coat.
+  • ATMOSPHERE: triumphant wake — the city she dressed up glowing behind her as she walks on.
+  • COLOUR GRADE: MAXIMUM VIVID — neon-blue, mirror-gold, crystal sparkle, vivid pedestrian colour, the red blouse collar; rich, full saturation. (Matches CLIP 3 END STATE.)
+  • TEXTURE & MICRO-DETAIL: neon-tube glow, crystal-facet sparkle, golden footprint-ripples, the blowout's gloss, coat-wool nap, wet-ground reflections.
+
 CUT LOGIC: hard ANGLE-CUT to CLIP 4 (back pose, low angle). No motion-match; WORLD STATE matches 100%.
 
 ---
@@ -3192,6 +4162,23 @@ LIGHTING-IN-MOTION: the transformation at full vivid; all neon, crystal and mirr
 DIEGETIC AUDIO: her receding heel-clicks; neon hum at full chorus; crystal-chandelier tinkles; mirror-puddle chimes; pedestrians gasping in wonder; a city now alive.
 MASTER TRACK: the bass-DROP and full orchestral-electronic hit — the cinematic hero moment.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 5's START IMAGE must reproduce 100%, new angle only): at clip end the whole block is fully luminous and transformed, glowing in her wake; Aira walking away, black coat, red blouse, blowout. CLIP 5 must open in this EXACT vivid state (same fully-transformed block, same wardrobe) — only the angle changes (to the glance-back).
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 5 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the black coat shoulder and back, the red mandarin collar visible at the turned neck — identical state.
+  • FOOTWEAR: out of frame.
+  • EYEWEAR: none.
+  • ACCESSORIES: an ear-climber catching light at the turned jaw, the gold ring visible on the hand holding the clutch, cherry nails.
+  • HAIR: the blowout swinging with the glance-back, curtain bangs catching golden chandelier-light.
+  • MAKEUP: polished editorial, warm multicolour-lit.
+  • HANDS & NAILS: the clutch under the arm, one hand free giving a tiny finger-flutter wave; deep-cherry nails.
+  • FACIAL MICRO-DYNAMICS: the glance-back — a small private conspirator's smirk over the shoulder, one eye catching the lens, the other in profile-shadow; playful, knowing, magnetic.
+  • BODY POSTURE & WEIGHT: torso facing away, head turned back over the shoulder, weight mid-step, alive.
+  • KINETIC STILLNESS (8 layers): (1) the vivid city holding at full transformation behind; (2) a chandelier-crystal catching light; (3) the blowout swinging from the head-turn; (4) the coat shifting with the torso rotation; (5) chest rising; (6) a mirror-puddle shimmering; (7) a colourful pedestrian in the distance; (8) a quick playful blink/wink.
+  • SPATIAL LOGIC: FOREGROUND — her turned shoulder, soft. MIDGROUND — her glancing face. BACKGROUND — the vivid transformed city as her creation.
+  • LIGHTING: KEY — warm chandelier-gold and neon on her face as she turns. FILL — warm bounce. RIM — neon edge on the blowout. PRACTICAL — neon, crystal lights, mirror-puddles. SEPARATION — vivid city behind. BOUNCE — gold under the jaw.
+  • ATMOSPHERE: a playful magnetic farewell — "you saw that, right?"
+  • COLOUR GRADE: VIVID — warm chandelier-gold, neon-blue, mirror-gold, the red collar; rich, saturated. (Matches CLIP 4 END STATE.)
+  • TEXTURE & MICRO-DETAIL: the blowout's gloss in the turn, neon-and-gold on the skin, ear-climber gleam, coat-wool nap, crystal sparkle behind.
+
 CUT LOGIC: hard ANGLE-CUT to CLIP 5 (glance-back medium). No motion-match; WORLD STATE matches 100%.
 
 ---
@@ -3237,6 +4224,23 @@ LIGHTING-IN-MOTION: neon and chandelier-gold play across her face as she turns.
 DIEGETIC AUDIO: the head-turn swoosh of hair; a quiet "hmm" of satisfaction; the tiny wave silent; the vivid city hum behind.
 MASTER TRACK: a solo piano motif over the sub-bass — intimate after the drop, for the glance-back.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 6's START IMAGE must reproduce 100%, then RESET): at clip end the vivid city holds, Aira mid glance-away with the smirk, black coat, red blouse, blowout. CLIP 6 must open by RESETTING to the grey taxi-curb arrival — same wardrobe, the city drained back to grey.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 6 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the long structured black wool coat, belted, red mandarin-collar blouse, black cigarette pants — matched to CLIP 1.
+  • FOOTWEAR: glossy black ankle boots, one foot on the curb — matched.
+  • EYEWEAR: slim matte-black sunglasses low on the nose — matched to CLIP 1.
+  • ACCESSORIES: gold ring, ear-climbers, clutch, cherry nails — matched.
+  • HAIR: the bold high-volume blowout, curtain bangs, jet-black, bouncy — matched to CLIP 1.
+  • MAKEUP: polished editorial — matched.
+  • HANDS & NAILS: one hand adjusting the collar, the clutch pinned under the other arm; deep-cherry nails.
+  • FACIAL MICRO-DYNAMICS: cool composure settling into confidence, chin lifting, eyes above the sunglasses — the exact opening face.
+  • BODY POSTURE & WEIGHT: mid-arrival, one foot on the curb, weight rising, shoulders squaring — mirror of CLIP 1.
+  • KINETIC STILLNESS (8 layers): (1) taxi taillights fading red; (2) a dim streetlight buzzing; (3) the blowout bouncing; (4) the coat hem swinging; (5) chest rising; (6) a dull grey puddle; (7) muted pedestrians passing; (8) a slow decisive blink — matched to CLIP 1.
+  • SPATIAL LOGIC: FOREGROUND — the grey curb and a dull puddle. MIDGROUND — Aira arriving. BACKGROUND — the grey concrete street — matched to CLIP 1.
+  • LIGHTING: KEY — flat grey evening ambient. FILL — minimal. RIM — weak streetlight edge. PRACTICAL — dim streetlights, taxi taillights. SEPARATION — low. BOUNCE — minimal; the red blouse the only colour — matched to CLIP 1.
+  • ATMOSPHERE: the drab ordinary street restored — ready to be transformed again.
+  • COLOUR GRADE: DESATURATED GREY — grey concrete, dim lights, dull puddles; only her red blouse and cherry nails saturated — matched to CLIP 1.
+  • TEXTURE & MICRO-DETAIL: wool-coat nap, patent-boot gloss, the blowout's bounce, dull wet-concrete, red-silk weave, cherry nails — matched.
+
 CUT LOGIC: hard ANGLE-CUT to CLIP 6 (wide front, grey curb). No motion-match; state resets to CLIP 1.
 
 ---
@@ -3282,6 +4286,23 @@ LIGHTING-IN-MOTION: vivid city draining to flat grey, matched to CLIP 1.
 DIEGETIC AUDIO: city sounds dimming; the neon fading (a quiet electrical descend); a taxi pulling up; her boot on the curb — back to the CLIP-1 bed.
 MASTER TRACK: the score strips to the opening sub-bass pulse, looping cleanly.
 END STATE / STATE-MATCH LOCK: clip ends in the EXACT grey-curb arrival state and wide angle of CLIP 1's START IMAGE — grey city, wardrobe and confident expression matched, so the reel loops seamlessly.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 1 (LOOP back to opening) — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the long structured black wool coat, belted, over the deep-red silk mandarin-collar blouse, black cigarette pants; sharp.
+  • FOOTWEAR: glossy black pointed-toe ankle boots, one foot on the curb, fresh from the taxi.
+  • EYEWEAR: slim matte-black sunglasses pushed slightly down the nose so her eyes show above.
+  • ACCESSORIES: a bold gold index-finger ring, thin gold ear-climbers, a black structured clutch under the arm, deep-cherry glossy nails.
+  • HAIR: a bold high-volume blowout, jet-black, curtain bangs framing the brow, full bounce.
+  • MAKEUP: polished editorial — luminous skin, defined brow, deep-cherry lip, subtle smoky lid, real pores.
+  • HANDS & NAILS: one hand adjusting the coat collar with precise fingertips, the clutch pinned under the other arm; deep-cherry glossy nails.
+  • FACIAL MICRO-DYNAMICS: cool composure settling into confidence — chin lifting, eyes steady above the sunglasses, lips in a controlled almost-smile, brow smooth — about to own the street.
+  • BODY POSTURE & WEIGHT: mid-arrival, one foot on the curb, weight rising upward, shoulders squaring, spine tall, alive.
+  • KINETIC STILLNESS (8 layers): (1) the taxi taillights fading red behind; (2) a dim streetlight buzzing weakly; (3) the blowout bouncing as she straightens; (4) the coat hem swinging; (5) chest rising; (6) a grey puddle reflecting dull at her boot; (7) muted pedestrians passing in the background; (8) a slow decisive blink.
+  • SPATIAL LOGIC: FOREGROUND — the grey curb and a dull puddle, sharp. MIDGROUND — Aira arriving. BACKGROUND — the grey concrete street receding, dim lights, muted passers-by.
+  • LIGHTING: KEY — flat grey evening ambient. FILL — minimal. RIM — a weak streetlight edge. PRACTICAL — dim streetlights, fading taxi taillights. SEPARATION — low. BOUNCE — minimal; her red blouse the only colour.
+  • ATMOSPHERE: a drab ordinary evening street — neutral, grey, waiting to be transformed.
+  • COLOUR GRADE: deliberately DESATURATED GREY (mood contrast) — grey concrete, dim lights, dull puddles; only her deep-red blouse and cherry nails read saturated (she is the only colour source).
+  • TEXTURE & MICRO-DETAIL: wool-coat nap, patent-boot gloss, the blowout's glossy bounce, dull wet-concrete sheen, red-silk blouse weave, cherry nail gloss.
+
 CUT LOGIC: ANGLE-CUT / LOOP back to CLIP 1; the next pass re-triggers the city dressing up on her first step.
 
 ### ☆ EXTERNAL AUDIO — BLOCK 1: BACKGROUND SOUND DESIGN / AMBIENCE BED — B-5
@@ -3381,6 +4402,23 @@ LIGHTING-IN-MOTION: a warm golden glow blooms from the locket, under-lighting he
 DIEGETIC AUDIO: a rooftop breeze; distant city hum far below; jasmine rustle; the tiny clasp click (sharp, metallic, satisfying); Edison-bulb buzz; her anticipatory inhale; a soft magical chime as the butterflies emerge.
 MASTER TRACK: a delicate celeste/music-box motif (the "locket theme" — 4 recurring notes) alone, with a warm cello entering on the release.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 2's START IMAGE must reproduce 100%, new angle only): at clip end the locket is open and glowing, the first glowing golden butterflies rising in a spiral between it and her face, golden under-light on her chin; the twilight garden, Edison bulbs and bougainvillea behind; Aira in lavender silk, amber-honey waves, wonder dawning. CLIP 2 must open in this EXACT state (same open glowing locket, same rising butterflies, same garden, same wardrobe) — only the camera angle changes.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 2 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the lavender silk straps and V-neckline, the locket chain taut on the collarbone — identical state.
+  • FOOTWEAR: out of frame.
+  • EYEWEAR: none.
+  • ACCESSORIES: the open locket revealing a tiny blazing miniature world, glowing golden butterflies emerging; gold studs catching glow; mauve nails holding the locket open.
+  • HAIR: amber-honey waves over the left shoulder, catching the golden locket-glow.
+  • MAKEUP: soft twilight glow, lit warm-gold from below.
+  • HANDS & NAILS: both hands cupping the open locket, thumbs holding the halves apart, the chain slightly taut; soft mauve nails.
+  • FACIAL MICRO-DYNAMICS: wonder blooming — eyes widening with genuine awe as the glow hits her face, brow lifting, parted lips curving into a slow delighted smile, pupils reflecting the golden light. Eyes lead (widening first), mouth follows (the smile a beat later), then a slow savouring blink.
+  • BODY POSTURE & WEIGHT: head tipped slightly down toward the locket then lifting, shoulders relaxed, breathing.
+  • KINETIC STILLNESS (8 layers): (1) glowing butterflies spiralling up between locket and face; (2) the locket's interior world shimmering; (3) an amber-honey strand drifting; (4) the chain taut and faintly swaying; (5) chest rising; (6) golden under-light flickering on her jaw; (7) tiny butterfly-light points drifting; (8) a slow savouring blink.
+  • SPATIAL LOGIC: FOREGROUND — the open glowing locket lower-frame, sharp. MIDGROUND — her face. BACKGROUND — warm rooftop bokeh (Edison bulbs, bougainvillea).
+  • LIGHTING: KEY — the locket's interior golden glow under-lighting her face. FILL — warm Edison ambient. RIM — cool twilight edge. PRACTICAL — the locket-world, butterfly-light, Edison bulbs. SEPARATION — warm bokeh behind the face. BOUNCE — golden under the chin.
+  • ATMOSPHERE: fresh, intimate wonder — she never tires of this.
+  • COLOUR GRADE: VIVID — warm gold locket-glow + lavender + amber hair + violet bokeh; magical, full mid-tone. (Matches CLIP 1 END STATE.)
+  • TEXTURE & MICRO-DETAIL: the locket's engraved gold and tiny shimmering interior, butterfly wing-detail, real pores in the warm glow, lash separation, amber-honey strands.
+
 CUT LOGIC: hard ANGLE-CUT to CLIP 2 (close-up on face + locket). No motion-match; WORLD STATE matches 100%.
 
 ---
@@ -3426,6 +4464,23 @@ LIGHTING-IN-MOTION: the golden glow intensifies as the locket opens fully; her u
 DIEGETIC AUDIO: the locket hinge opening (a delicate creak); a soft magical chime as butterflies emerge (musical, like tiny glass bells); barely-audible papery wing-flutters; her gasp; the breeze.
 MASTER TRACK: the celeste motif joined by a warm cello and soft harp; tiny bell accents for the butterflies.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 3's START IMAGE must reproduce 100%, new angle only): at clip end the locket is fully open and glowing, a growing spiral of glowing butterflies rising and beginning to spread; Aira's face lit golden with delight, lavender silk, amber-honey waves. CLIP 3 must open in this EXACT state (same open locket, same expanding butterfly swarm, same wardrobe) — only the angle changes.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 3 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the lavender silk bodice and straps, gathered waist — identical state.
+  • FOOTWEAR: out of frame.
+  • EYEWEAR: none.
+  • ACCESSORIES: the open locket glowing, butterflies circling her, gold studs reflecting the swarm-light, mauve nails.
+  • HAIR: amber-honey waves dancing with the butterfly-light, individual strands illuminated.
+  • MAKEUP: soft twilight glow, lit by the swarm.
+  • HANDS & NAILS: she lifts one hand (the locket hanging free on its chain) and a single butterfly alights on her extended fingertip — perfect weightless contact; mauve nails.
+  • FACIAL MICRO-DYNAMICS: pure delight — eyes bright and alive tracking individual butterflies, the smile fully present (warm, open, genuine), cheeks lifted, breath visible in the cool twilight.
+  • BODY POSTURE & WEIGHT: a gentle three-quarter, one hand extended for the butterfly, shoulders relaxed, breathing.
+  • KINETIC STILLNESS (8 layers): (1) the swarm expanding in a beautiful spiral; (2) butterflies landing on jasmine and trellises; (3) a green-gold aurora beginning to form above the swarm; (4) the silk shifting; (5) chest rising; (6) the butterfly settling on her fingertip; (7) tiny moving golden shadows on the garden; (8) a slow tender blink.
+  • SPATIAL LOGIC: FOREGROUND — her extended hand with the alighting butterfly, sharp. MIDGROUND — Aira. BACKGROUND — the expanding swarm and forming aurora over the garden.
+  • LIGHTING: KEY — the butterfly swarm as a distributed moving warm key (dozens of tiny points). FILL — twilight ambient. RIM — golden swarm-edge on her waves. PRACTICAL — butterflies, Edison bulbs, the forming aurora. SEPARATION — the bright swarm behind her. BOUNCE — golden swarm-light under the chin.
+  • ATMOSPHERE: a living wonder expanding around her, tender and luminous.
+  • COLOUR GRADE: VIVID — golden butterfly-glow + lavender + violet sky + magenta bougainvillea + amber hair + emerging green-gold aurora; alive with saturated warm light. (Matches CLIP 2 END STATE.)
+  • TEXTURE & MICRO-DETAIL: butterfly wing-detail and tiny legs on her fingertip, aurora shimmer, silk sheen, jasmine with landed butterflies, amber-honey strands.
+
 CUT LOGIC: hard ANGLE-CUT to CLIP 3 (medium, three-quarter). No motion-match; WORLD STATE matches 100%.
 
 ---
@@ -3471,6 +4526,23 @@ LIGHTING-IN-MOTION: the aurora adds a cool green-gold wash from above, mixing wi
 DIEGETIC AUDIO: dozens of butterfly wings (a soft collective rustle); the aurora's quiet electrical hum; one butterfly's landing (a tiny "tap"); Edison buzz; distant city; her held breath then gentle exhale.
 MASTER TRACK: full swell — celeste, cello, harp and a breathy pad; the magic at its most expansive.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 4's START IMAGE must reproduce 100%, new angle only): at clip end the garden is alive with the swarm and a green-gold aurora arcing overhead, a microscopic garden glowing on the balustrade; a butterfly on her shoulder/finger; the locket hangs glowing; Aira in lavender silk, amber-honey waves, tender delight. CLIP 4 must open in this EXACT magical world (same swarm, same aurora, same glowing garden, same wardrobe) — only the angle changes.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 4 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the lavender silk dress from behind, the open V-back, skirt flowing, catching butterfly-and-aurora glow — identical state.
+  • FOOTWEAR: gold strappy sandals, ankle wraps catching golden light.
+  • EYEWEAR: none.
+  • ACCESSORIES: the locket chain at the nape, gold studs at the jaw-line glimpse, mauve nails.
+  • HAIR: amber-honey waves down the back, catching butterfly-gold and aurora-green from above.
+  • MAKEUP: soft glow, dual-lit gold and green.
+  • HANDS & NAILS: both arms opening slightly — receiving, not reaching; a butterfly perched on her shoulder; mauve nails.
+  • FACIAL MICRO-DYNAMICS: (from behind — head tilted up toward the aurora, posture open and at peace; a glimpse of serene profile).
+  • BODY POSTURE & WEIGHT: arms slightly open, head tilted up, the still centre of a living wonder, breathing.
+  • KINETIC STILLNESS (8 layers): (1) butterflies illuminating every surface; (2) the aurora arcing overhead like a personal northern lights; (3) tiny glowing flowers growing on the balustrade; (4) the silk skirt drifting; (5) chest rising; (6) the city skyline twinkling beneath the aurora; (7) Edison bulbs pulsing in rhythm; (8) the shoulder-butterfly's wings slowly opening/closing.
+  • SPATIAL LOGIC: FOREGROUND — her back and shoulder with the perched butterfly, soft. MIDGROUND — Aira. BACKGROUND — the full magical garden: swarm, aurora, micro-garden, glowing skyline.
+  • LIGHTING: KEY — full magical illumination — butterfly-gold from all directions + aurora green-gold from above. FILL — twilight ambient. RIM — golden-and-green edge on her silhouette. PRACTICAL — butterflies, aurora, Edison bulbs, micro-garden glow. SEPARATION — the luminous world around the figure. BOUNCE — golden uplight.
+  • ATMOSPHERE: the full living wonder she released — epic yet intimate, she its calm centre.
+  • COLOUR GRADE: MAXIMUM VIVID — gold + lavender + green-aurora + magenta bougainvillea + violet sky + amber city; every colour alive and saturated. (Matches CLIP 3 END STATE.)
+  • TEXTURE & MICRO-DETAIL: butterfly-light on every surface, aurora plasma detail, tiny growing flowers, silk-back sheen, amber-honey strands, the shoulder-butterfly.
+
 CUT LOGIC: hard ANGLE-CUT to CLIP 4 (back/over-shoulder wide). No motion-match; WORLD STATE matches 100%.
 
 ---
@@ -3516,6 +4588,23 @@ LIGHTING-IN-MOTION: the aurora's pulse brightens and dims in a slow rhythm; butt
 DIEGETIC AUDIO: the aurora's deep quiet hum (sub-bass); the butterfly collective rustle; tiny garden-growth crackle; city far below; the rooftop breeze; Edison buzz in rhythm; her awed breathing.
 MASTER TRACK: the fullest orchestral-and-celeste swell — the emotional peak of the released world.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 5's START IMAGE must reproduce 100%, new angle only): at clip end the magical world is at full bloom — swarm, aurora, micro-garden, glowing skyline; Aira open-armed and serene, lavender silk, amber-honey waves. CLIP 5 must open in this EXACT state (same full magic) then begin the recall as she closes the locket — same wardrobe, only the angle changes.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 5 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the lavender silk strap and neckline in profile, the locket at the sternum — identical state.
+  • FOOTWEAR: out of frame.
+  • EYEWEAR: none.
+  • ACCESSORIES: gold stud earring in sharp focus, the locket glowing, mauve nails on the locket halves as she begins to close it.
+  • HAIR: amber-honey waves in side silhouette, backlit by the aurora, glowing at the edges.
+  • MAKEUP: soft glow, profile-lit.
+  • HANDS & NAILS: her fingertips on both halves of the locket, gently pressing them together, butterflies streaming into the narrowing gap; mauve nails.
+  • FACIAL MICRO-DYNAMICS: bittersweet contentment — a soft gentle smile of saying goodbye to something beautiful but knowing it'll return; eyes downcast toward the locket, lashes lowered, a slow breath drawing the magic back.
+  • BODY POSTURE & WEIGHT: upright profile, hands at the locket, weight centred, breathing.
+  • KINETIC STILLNESS (8 layers): (1) butterflies streaming back in a reverse spiral toward the locket; (2) the aurora fading smoothly; (3) an amber-honey strand drifting; (4) the silk shifting; (5) chest rising on a drawing-in breath; (6) the micro-garden dimming; (7) Edison bulbs returning to dominance; (8) a slow eyelash settle.
+  • SPATIAL LOGIC: FOREGROUND — soft returning-butterfly trails. MIDGROUND — her profile and the locket. BACKGROUND — the magic receding, Edison-bulb garden reasserting.
+  • LIGHTING: KEY — the returning butterflies' moving golden trails on her profile. FILL — fading aurora green. RIM — a warm remnant glow backlighting her profile. PRACTICAL — the locket, returning butterflies, Edison bulbs. SEPARATION — the bright returning stream behind. BOUNCE — golden under the jaw, dimming.
+  • ATMOSPHERE: a tender goodbye — peaceful, not sad; the magic returning home.
+  • COLOUR GRADE: VIVID but elegiac — golden trails + lavender + fading green-aurora + warm amber profile-light. (Matches CLIP 4 END STATE, dimming.)
+  • TEXTURE & MICRO-DETAIL: returning-butterfly trails, the locket's engraved gold, fine lash detail, gold-earring gleam, amber-honey strands.
+
 CUT LOGIC: hard ANGLE-CUT to CLIP 5 (profile, medium close-up). No motion-match; WORLD STATE matches 100%.
 
 ---
@@ -3561,6 +4650,23 @@ LIGHTING-IN-MOTION: the golden glow fades as butterflies return; her profile ret
 DIEGETIC AUDIO: the reverse-stream whoosh (soft, musical, descending); each butterfly re-entering (tiny glass-bell notes); the aurora hum fading; the final locket CLICK (satisfying, decisive, gold-on-gold); Edison buzz returning; a soft sigh of contentment.
 MASTER TRACK: the celeste "locket theme" returns gently as the magic recalls — the motif closing the episode.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 6's START IMAGE must reproduce 100%, then loop): at clip end the locket is closed at her sternum (faintly warm-glowing), the garden returned to normal twilight beauty (no magic), Edison bulbs and bougainvillea; Aira in lavender silk, amber-honey waves, a tender knowing calm. CLIP 6 must open in this EXACT post-magic state (closed locket, normal twilight garden, same wardrobe) — only the angle changes, returning to the CLIP-1 wide.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 6 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the dusty-lavender silk maxi dress, deep V-neckline, thin straps — matched to CLIP 1.
+  • FOOTWEAR: gold strappy flat sandals, ankle wraps — matched.
+  • EYEWEAR: none.
+  • ACCESSORIES: the closed gold locket (faintly warm-glowing) on its chain, thin gold rings, gold studs, mauve nails — matched.
+  • HAIR: loose romantic side-swept amber-honey waves over the left shoulder — matched to CLIP 1.
+  • MAKEUP: soft twilight glow — matched.
+  • HANDS & NAILS: one hand rising toward the closed locket, thumb near the clasp; the other soft at her side; mauve nails.
+  • FACIAL MICRO-DYNAMICS: peaceful private satisfaction shifting to curious anticipation — a calm knowing smile to the lens (the hook: "what's inside next time?"), then eyes lowering to the locket — easing toward the CLIP-1 opening face.
+  • BODY POSTURE & WEIGHT: a relaxed contrapposto, head tilted softly, hand at the collarbone — mirror of CLIP 1.
+  • KINETIC STILLNESS (8 layers): (1) jasmine and bougainvillea stirring; (2) Edison bulbs swaying; (3) an amber-honey strand drifting; (4) the silk skirt lifting; (5) chest rising; (6) the locket giving one last faint warm pulse then settling dark; (7) the violet-peach sky; (8) a slow eyelash settle — matched to CLIP 1.
+  • SPATIAL LOGIC: FOREGROUND — the closed locket. MIDGROUND — Aira in the garden. BACKGROUND — trellises, bougainvillea, Edison bulbs, skyline — matched to CLIP 1.
+  • LIGHTING: KEY — warm Edison practicals. FILL — cool twilight ambient. RIM — golden horizon edge on her waves. PRACTICAL — Edison bulbs, skyline glow. SEPARATION — glowing sky behind. BOUNCE — warm bulb-light under the chin — matched to CLIP 1.
+  • ATMOSPHERE: a romantic twilight rooftop at rest — the secret tucked away, ready to be opened again.
+  • COLOUR GRADE: VIVID twilight — lavender dress, magenta bougainvillea, warm amber bulbs, violet-peach sky — matched to CLIP 1.
+  • TEXTURE & MICRO-DETAIL: silk sheen, engraved-gold locket, jasmine petals, amber-honey strands, Edison-filament glow, mauve nails — matched.
+
 CUT LOGIC: hard ANGLE-CUT to CLIP 6 (wide front). No motion-match; state matches, returning to CLIP 1.
 
 ---
@@ -3607,6 +4713,23 @@ LENS / OPTICAL: focus settles to the deep opening look.
 DIEGETIC AUDIO: the locket's last pulse (a soft warm "thum" like a heartbeat); Edison buzz; the breeze; city below; her quiet satisfied exhale; a single distant nightbird — back to the CLIP-1 bed.
 MASTER TRACK: the bare celeste "locket theme" closes the episode, looping cleanly to the opening.
 END STATE / STATE-MATCH LOCK: clip ends in the EXACT post-magic twilight-garden state and wide angle of CLIP 1's START IMAGE — closed locket, garden, wardrobe and anticipatory expression matched, so the reel loops seamlessly.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 1 (LOOP back to opening) — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the flowing dusty-lavender silk maxi dress, deep V-neckline, thin straps, soft gathered waist, the skirt lifting a little in the breeze.
+  • FOOTWEAR: delicate gold strappy flat sandals, thin ankle wraps, relaxed stance.
+  • EYEWEAR: none.
+  • ACCESSORIES: the vintage gold oval locket on its long fine chain at the sternum, thin gold rings, small gold ear-studs, soft mauve glossy nails.
+  • HAIR: loose romantic side-swept waves all over the left shoulder, deep amber-honey, ends at the waist, a strand drifting in the breeze.
+  • MAKEUP: soft twilight glow — luminous skin, soft rose lip, warm bronze-and-gold lid, real pores.
+  • HANDS & NAILS: her right-hand fingertips resting on the locket, thumb at the clasp about to open it; the left hand soft at her side; soft mauve glossy nails.
+  • FACIAL MICRO-DYNAMICS: curious anticipation — eyes drifting down to the locket, brow lifting softly, lips parting in a gentle "what will it be this time" expression, a breath of excitement.
+  • BODY POSTURE & WEIGHT: a relaxed contrapposto, weight on one hip, head tilted softly, one hand at the collarbone, spine long, breathing.
+  • KINETIC STILLNESS (8 layers): (1) jasmine and bougainvillea stirring in the breeze; (2) Edison bulbs swaying gently; (3) an amber-honey strand drifting; (4) the silk skirt lifting; (5) chest rising on an anticipatory breath; (6) a faint gold glint at the locket clasp; (7) the violet-peach sky deepening; (8) a slow eyelash settle.
+  • SPATIAL LOGIC: FOREGROUND — the locket at her sternum, sharp. MIDGROUND — Aira in the garden. BACKGROUND — the trellises, bougainvillea, Edison bulbs, twilight skyline.
+  • LIGHTING: KEY — warm Edison-bulb practicals. FILL — cool twilight ambient. RIM — a soft golden horizon edge on her waves and shoulder. PRACTICAL — Edison bulbs, the city skyline glow. SEPARATION — the glowing sky behind a warmly-lit figure. BOUNCE — warm bulb-light under the chin.
+  • ATMOSPHERE: a romantic twilight rooftop, the hush of anticipation before the locket opens.
+  • COLOUR GRADE: VIVID twilight — saturated lavender dress, magenta bougainvillea, warm amber bulbs, violet-peach sky; rich, romantic, full mid-tone.
+  • TEXTURE & MICRO-DETAIL: silk-dress sheen, the locket's engraved gold, jasmine-petal detail, amber-honey wave strands, Edison-filament glow, mauve nail gloss.
+
 CUT LOGIC: ANGLE-CUT / LOOP back to CLIP 1; the next pass re-triggers the living world when she opens the clasp.
 
 ### ☆ EXTERNAL AUDIO — BLOCK 1: BACKGROUND SOUND DESIGN / AMBIENCE BED — C-1
@@ -3702,6 +4825,23 @@ LIGHTING-IN-MOTION: the dark loft is invaded by a blazing warm golden portal-lig
 DIEGETIC AUDIO: rain on the windows; a distant thunder-roll; the vast concrete room-tone; Edison buzz; the key's metal warming (a faint tonal hum); then the AIR CRACK (a visceral, deep, resonant tearing sound) and a warm wind-whoosh.
 MASTER TRACK: a deep sustained drone + rain-texture; sharp metallic percussive hits on the key-turn.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 2's START IMAGE must reproduce 100%, new angle only): at clip end a blazing golden crack splits the loft air, a sliver of Mediterranean coast visible through it, warm wind blasting in, the dark loft half-lit gold; Aira braced with the key turned, black turtleneck, ink-black ponytail blowing. CLIP 2 must open in this EXACT state (same golden crack, same Mediterranean sliver, same wind, same wardrobe) — only the camera angle changes.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 2 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the black turtleneck, the brass belt-buckle at the lower frame — identical state.
+  • FOOTWEAR: out of frame.
+  • EYEWEAR: none.
+  • ACCESSORIES: the silver thumb-ring prominent on the key-hand, silver hoops, espresso nails gripping the turned key.
+  • HAIR: the ink-black ponytail blowing back in the portal-wind, leather cord taut.
+  • MAKEUP: clean, lit blazing gold from the portal.
+  • HANDS & NAILS: the key turned 90° in the air, her grip firm, wrist rotated, teeth aligned with the crack; espresso nails.
+  • FACIAL MICRO-DYNAMICS: exhilaration (not fear) — eyes wide and lit by the portal-blast, brow up, lips parted, chin lifted against the light and wind, hair streaming back.
+  • BODY POSTURE & WEIGHT: braced, arm extended to the key, weight forward against the wind, shoulders square, alive.
+  • KINETIC STILLNESS (8 layers): (1) the golden crack widening; (2) warm wind streaming her ponytail back; (3) a bougainvillea petal tumbling in from the other world; (4) the turtleneck pressed by the wind; (5) chest rising; (6) salt-mist drifting through the crack; (7) the Edison bulb swaying harder in the draft; (8) a wind-squint blink.
+  • SPATIAL LOGIC: FOREGROUND — the key and the crack, sharp. MIDGROUND — her face and braced body. BACKGROUND — the dark loft on one side, the blazing Mediterranean sliver on the other.
+  • LIGHTING: KEY — the blazing portal-light from straight ahead, flooding her face. FILL — cool loft rain-light behind. RIM — a hot golden edge. PRACTICAL — the portal, Edison bulb. SEPARATION — blazing portal vs dark loft. BOUNCE — warm gold on her chest.
+  • ATMOSPHERE: the visceral thrill of cracking a door between worlds.
+  • COLOUR GRADE: BLAZING VIVID — golden portal-light + turquoise-and-white Mediterranean sliver + her dark outfit as contrast; extreme light-vs-dark drama. (Matches CLIP 1 END STATE.)
+  • TEXTURE & MICRO-DETAIL: the crack's light-tearing edges, salt-mist particles, a tumbling petal, wind-streamed ponytail strands, brass-key engraving, turtleneck weave.
+
 CUT LOGIC: hard ANGLE-CUT to CLIP 2 (medium, front). No motion-match; WORLD STATE matches 100%.
 
 ---
@@ -3747,6 +4887,23 @@ LIGHTING-IN-MOTION: the golden blast ramps from crack-thin to flooding; her whol
 DIEGETIC AUDIO: the AIR CRACK resonating; the warm wind-whoosh; ocean sounds (waves, gulls) leaking from the other world; a petal passing the mic; her gasp against the wind.
 MASTER TRACK: full warm Mediterranean music (acoustic guitar + hand-drum + bouzouki) BLASTS in simultaneously with the portal — like a door opening on a sunny party.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 3's START IMAGE must reproduce 100%, new angle only): at clip end the portal is a wide blazing window onto the Mediterranean, warm wind and music pouring through, the dark loft half-flooded gold; Aira braced with the key, ponytail streaming, fierce grin. CLIP 3 must open in this EXACT state (same wide portal, same Mediterranean, same wind, same wardrobe) — only the angle changes.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 3 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the turtleneck and olive cargo trousers from behind, belt visible — identical state.
+  • FOOTWEAR: combat boots planted wide against the wind.
+  • EYEWEAR: none.
+  • ACCESSORIES: silver hoops at the jaw-line, the key still extended toward the open portal, silver thumb-ring, espresso nails.
+  • HAIR: the ink-black ponytail blowing sideways in the portal-wind, leather cord taut.
+  • MAKEUP: clean, dual-lit warm Mediterranean / cool loft.
+  • HANDS & NAILS: the key held firm at arm's length, still turned, holding the door open; espresso nails.
+  • FACIAL MICRO-DYNAMICS: (profile glimpsed past her shoulder) a fierce satisfied half-grin against the warm wind, eyes steady on the other world, hair streaming.
+  • BODY POSTURE & WEIGHT: braced from behind, weight forward, shoulders square to the portal, spine long, alive.
+  • KINETIC STILLNESS (8 layers): (1) the Mediterranean village alive (waves, a sailing boat, swaying bougainvillea); (2) petals and salt-mist drifting into the loft; (3) the ponytail streaming; (4) the cargo trousers pressed by the wind; (5) chest rising; (6) the portal-edge crackling with contained energy; (7) turbulence-shimmer at the world-boundary; (8) a slow blink.
+  • SPATIAL LOGIC: FOREGROUND — her shoulder and the key, soft. MIDGROUND — the open portal. BACKGROUND — the full sun-drenched Mediterranean coastal village.
+  • LIGHTING: KEY — blazing Mediterranean sun pouring through the portal. FILL — cool dark loft behind her. RIM — a hot golden edge on her back and ponytail. PRACTICAL — the portal-world sun, Edison bulb. SEPARATION — blazing portal vs dark loft. BOUNCE — warm gold on her back.
+  • ATMOSPHERE: two worlds colliding in one frame — dark loft framing a blazing escape.
+  • COLOUR GRADE: MAXIMUM CONTRAST — the portal in full saturated Mediterranean colour (turquoise, white, hot-pink, terracotta) vs the dark loft (cool blue, shadow, Edison-warm). (Matches CLIP 2 END STATE.)
+  • TEXTURE & MICRO-DETAIL: the portal-world's white-washed walls and terracotta roofs, drifting petals, salt-mist, ponytail strands, portal-edge crackle, boundary turbulence.
+
 CUT LOGIC: hard ANGLE-CUT to CLIP 3 (over-the-shoulder). No motion-match; WORLD STATE matches 100%.
 
 ---
@@ -3792,6 +4949,23 @@ LIGHTING-IN-MOTION: the Mediterranean light begins to narrow as the key turns ba
 DIEGETIC AUDIO: full Mediterranean soundscape (waves, gulls, distant village life, warm wind); the portal-edge crackle; her clothes flapping; the key beginning to GROAN as it turns back.
 MASTER TRACK: the full Mediterranean music at its brightest, beginning to fade as the portal narrows.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 4's START IMAGE must reproduce 100%, new angle only): at clip end the portal is full and blazing but the reverse-turn has begun (light just starting to narrow); Aira braced, key turning back, ponytail streaming, turtleneck. CLIP 4 must open in this EXACT state (same near-full portal, beginning to narrow, same wardrobe) — only the angle changes (to the close-up).
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 4 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the black turtleneck at the throat — identical state.
+  • FOOTWEAR: out of frame.
+  • EYEWEAR: none.
+  • ACCESSORIES: the silver thumb-ring sharp on the key-hand, silver hoops, espresso nails — the key mid-reverse-turn.
+  • HAIR: the ponytail settling as the wind dies, strands falling back into place, leather cord.
+  • MAKEUP: clean, transitional warm-to-cool light.
+  • HANDS & NAILS: her thumb and forefinger rotating the key back to neutral, the teeth returning to vertical — precise, final; espresso nails.
+  • FACIAL MICRO-DYNAMICS: a complex closing expression — quiet power with private tenderness; eyes watching the last sliver of the other world with soft focus, lashes lowered halfway, lips pressed in a gentle firm line (resolved, not sad); a single slow blink as the light fades.
+  • BODY POSTURE & WEIGHT: drawing the key back toward herself, shoulders settling as the wind dies, breathing.
+  • KINETIC STILLNESS (8 layers): (1) the portal-seam narrowing to a thin golden line; (2) the wind dying, the ponytail settling; (3) a last petal drifting down; (4) the turtleneck relaxing; (5) chest rising; (6) the Edison bulb steadying; (7) the warm light draining left-to-right; (8) a slow resolved blink.
+  • SPATIAL LOGIC: FOREGROUND — her face and the key, sharp. MIDGROUND — the dying portal-slit. BACKGROUND — the dark loft reasserting.
+  • LIGHTING: KEY — the fading portal-light as a diminishing warm key. FILL — cool loft rain-blue returning. RIM — a warm remnant edge. PRACTICAL — the narrowing portal, Edison bulb. SEPARATION — fading warm vs returning dark. BOUNCE — warm gold draining from her face.
+  • ATMOSPHERE: the controlled, tender closing of a door between worlds.
+  • COLOUR GRADE: TRANSITIONAL VIVID — the blazing gold fading, cool rain-blue returning, the warm-cool split in dramatic tension on her face. (Matches CLIP 3 END STATE, narrowing.)
+  • TEXTURE & MICRO-DETAIL: the narrowing seam's light-edge, settling ponytail strands, a last drifting petal, brass-key engraving, real skin texture in the dual light.
+
 CUT LOGIC: hard ANGLE-CUT to CLIP 4 (close-up on face + key). No motion-match; WORLD STATE matches 100%.
 
 ---
@@ -3837,6 +5011,23 @@ LIGHTING-IN-MOTION: the fading portal-light as a diminishing warm key; shadow re
 DIEGETIC AUDIO: the Mediterranean soundscape muffling as the seam narrows; the key GROANING as it turns back; a tonal descending hum; rain reasserting; her steady breath.
 MASTER TRACK: the Mediterranean music fades as the portal narrows; the dark drone reasserting.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 5's START IMAGE must reproduce 100%, new angle only): at clip end the portal is a hair-thin golden seam about to seal, the loft nearly dark again, the key drawn back to neutral; Aira resolved, turtleneck, ponytail settled. CLIP 5 must open in this EXACT state (same thin seam, same near-dark loft, same wardrobe) — only the angle changes; the seal happens within CLIP 5.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 5 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the black turtleneck and olive cargo trousers, brass belt — identical state.
+  • FOOTWEAR: out of frame (waist-up).
+  • EYEWEAR: none.
+  • ACCESSORIES: the silver thumb-ring, hoops, espresso nails — the key drawing into her palm.
+  • HAIR: the ink-black ponytail settled to rest over one shoulder, leather cord, sleek.
+  • MAKEUP: clean, returning to Edison-and-rain light.
+  • HANDS & NAILS: she draws the key back into her palm and closes her fingers around it (a fist forming around the warm brass); espresso nails.
+  • FACIAL MICRO-DYNAMICS: quiet power satisfaction — eyes on the sealing seam then forward, a slow knowing half-smile, brow easing, a satisfied exhale.
+  • BODY POSTURE & WEIGHT: a grounded three-quarter, weight settled, the key drawn to her chest, breathing.
+  • KINETIC STILLNESS (8 layers): (1) the seam flashing brilliant white then sealing; (2) the air healing without a trace; (3) the ponytail at rest; (4) the turtleneck settling; (5) chest rising on a satisfied breath; (6) the Edison bulb steadying; (7) rain reasserting on the windows; (8) a slow satisfied blink.
+  • SPATIAL LOGIC: FOREGROUND — the key drawing to her fist, sharp. MIDGROUND — Aira. BACKGROUND — the dark loft, sealed and quiet.
+  • LIGHTING: KEY — the last seal-flash, then the warm Edison bulb returning as primary. FILL — cool rain-blue. RIM — warm Edison edge. PRACTICAL — Edison bulb, rain-city. SEPARATION — warm figure vs dark loft. BOUNCE — minimal, deep shadow.
+  • ATMOSPHERE: the calm after the door closes — power held quietly.
+  • COLOUR GRADE: VIVID-moody — the seal-flash bright, then warm Edison gold + cool rain-blue + deep olive; rich blacks. (Matches CLIP 4 END STATE, sealing.)
+  • TEXTURE & MICRO-DETAIL: the seal-flash bloom, the air healing seamlessly, the brass key warm in her fist, turtleneck weave, ponytail sheen, espresso nails.
+
 CUT LOGIC: hard ANGLE-CUT to CLIP 5 (medium, three-quarter). No motion-match; WORLD STATE matches 100%.
 
 ---
@@ -3882,6 +5073,23 @@ LIGHTING-IN-MOTION: the golden light vanishes in the seal-flash; the Edison bulb
 DIEGETIC AUDIO: the portal narrowing (a tonal descending hum); the seal FLASH (a deep resonant "THOOM" felt in the chest); instant silence after; then rain, Edison buzz and room-tone return; her satisfied exhale.
 MASTER TRACK: the seal "THOOM" kills the music for one beat of silence; then the dark drone returns.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 6's START IMAGE must reproduce 100%, then loop): at clip end the loft is dark and quiet, the portal sealed without a trace, the key enclosed in her fist; Aira calm-powerful, turtleneck, ponytail at rest. CLIP 6 must open in this EXACT post-seal state (dark loft, key in hand, same wardrobe) — only the angle changes, returning to the CLIP-1 wide.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 6 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the black ribbed turtleneck, olive cargo trousers, brown belt with brass buckle — matched to CLIP 1.
+  • FOOTWEAR: chunky black combat boots — matched.
+  • EYEWEAR: none.
+  • ACCESSORIES: the brass skeleton key held between thumb and forefinger at her side, silver thumb-ring, silver hoops, espresso nails — matched.
+  • HAIR: the sleek centre-part low ponytail, ink-black, leather cord — matched to CLIP 1.
+  • MAKEUP: clean matte-luminous — matched.
+  • HANDS & NAILS: the key held loosely at her side (just opened her fist from CLIP 5), the other hand relaxed; espresso nails.
+  • FACIAL MICRO-DYNAMICS: a knowing half-smile and a raised brow to the lens (the hook: "where to next time?"), then easing back to the focused intention of CLIP 1.
+  • BODY POSTURE & WEIGHT: a grounded three-quarter, weight settled, key at her side — mirror of CLIP 1.
+  • KINETIC STILLNESS (8 layers): (1) the Edison bulb swaying faintly; (2) rain streaking the windows; (3) a ponytail strand drifting; (4) the turtleneck shifting; (5) chest rising; (6) a warm glint on the brass key; (7) drifting dust in the bulb-pool; (8) a slow eyelash settle — matched to CLIP 1.
+  • SPATIAL LOGIC: FOREGROUND — the key in her hand. MIDGROUND — Aira in the bulb-pool. BACKGROUND — the dark loft, steel windows, rain-city — matched to CLIP 1.
+  • LIGHTING: KEY — the bare Edison bulb pool. FILL — cool rain-blue. RIM — warm bulb-edge. PRACTICAL — Edison bulb, rain-city. SEPARATION — cool windows behind the warm figure. BOUNCE — minimal, deep shadow — matched to CLIP 1.
+  • ATMOSPHERE: moody minimal calm — the key pocketed-power, ready to open another world.
+  • COLOUR GRADE: VIVID-moody — warm Edison gold + cool rain-blue + deep olive + brass key — matched to CLIP 1.
+  • TEXTURE & MICRO-DETAIL: ribbed knit, aged-brass engraving, concrete grain, rain-streaked glass, ponytail sheen, silver ring, espresso nails — matched.
+
 CUT LOGIC: hard ANGLE-CUT to CLIP 6 (wide). No motion-match; state matches, returning to CLIP 1.
 
 ---
@@ -3928,6 +5136,23 @@ LENS / OPTICAL: focus settles to the deep opening look.
 DIEGETIC AUDIO: a soft fist-open skin-flex; the key's faint residual warmth (a near-inaudible tonal hum); rain; Edison buzz; a distant thunder; her steady breath — back to the CLIP-1 bed.
 MASTER TRACK: the dark drone settles to the opening texture, looping cleanly.
 END STATE / STATE-MATCH LOCK: clip ends in the EXACT bulb-pool/key-at-side state and wide angle of CLIP 1's START IMAGE — dark loft, wardrobe and focused expression matched, so the reel loops seamlessly.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 1 (LOOP back to opening) — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the fitted black ribbed turtleneck tucked into high-waist wide-leg dark-olive cargo trousers, a wide brown leather belt with an aged brass buckle.
+  • FOOTWEAR: chunky black leather combat boots with brass buckles, worn-in.
+  • EYEWEAR: none.
+  • ACCESSORIES: the ornate vintage brass skeleton key held between right thumb and forefinger at her side, a thick silver thumb-ring, small silver hoops, espresso glossy nails.
+  • HAIR: a sleek centre-part low ponytail, razor-straight ink-black past the waist, tied with a thin brown leather cord.
+  • MAKEUP: clean matte-luminous skin, soft neutral lip, subtle defined eye, real pores.
+  • HANDS & NAILS: the key held loosely between right thumb and forefinger at her side; the left hand relaxed; espresso glossy almond nails, the silver thumb-ring prominent.
+  • FACIAL MICRO-DYNAMICS: focused intention — eyes level and slightly narrowed, brow set with quiet determination, lips pressed in a thin decisive line, jaw set; she knows what the key does.
+  • BODY POSTURE & WEIGHT: a grounded three-quarter stance, weight settled, one hand at her side holding the key, spine long, alive.
+  • KINETIC STILLNESS (8 layers): (1) the bare Edison bulb swaying faintly on its cord; (2) rain streaking the tall steel windows; (3) a ponytail strand drifting; (4) the turtleneck shifting with breath; (5) chest rising on a slow inhale; (6) a warm glint on the brass key; (7) a faint draft moving dust in the bulb-pool; (8) a slow eyelash settle.
+  • SPATIAL LOGIC: FOREGROUND — the key in her hand, sharp. MIDGROUND — Aira in the bulb-pool. BACKGROUND — the vast dark loft, steel windows, rain-city beyond.
+  • LIGHTING: KEY — the single bare Edison bulb (a harsh warm pool, sharp shadows). FILL — cool blue rain-light from the windows. RIM — a warm bulb-edge on her shoulder and ponytail. PRACTICAL — the Edison bulb, the rain-city glow. SEPARATION — the cool windows behind the warm figure. BOUNCE — minimal; deep shadow.
+  • ATMOSPHERE: moody minimal tension, the hush before she turns the key.
+  • COLOUR GRADE: VIVID-moody — warm Edison gold in the pool + cool blue rain-light + deep olive trousers + the aged brass key as a warm accent; rich blacks, glossy where light touches.
+  • TEXTURE & MICRO-DETAIL: ribbed-knit texture, aged-brass key engraving, concrete grain, rain-streaked glass, the ponytail's razor sheen, silver thumb-ring, espresso nail gloss.
+
 CUT LOGIC: ANGLE-CUT / LOOP back to CLIP 1; the next pass re-triggers the portal when she turns the key.
 
 ### ☆ EXTERNAL AUDIO — BLOCK 1: BACKGROUND SOUND DESIGN / AMBIENCE BED — C-2
@@ -4023,6 +5248,23 @@ LIGHTING-IN-MOTION: the mirror-scene's internal sunlight casts a faint warm-brig
 DIEGETIC AUDIO: candle-wax drip; the soft mirror-lift (a weighted metallic sound); her inhale; then the tomorrow-scene's own muffled sound (distant market chatter, laughter, a guitar) layering under the boudoir candle-crackle.
 MASTER TRACK: a solo cello plays the languid "mirror theme"; a bright acoustic motif (the tomorrow-theme) enters softly inside the vision.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 2's START IMAGE must reproduce 100%, new angle only): at clip end the hand-mirror shows the vivid sunlit tomorrow-market scene, her intrigued face above it, the candlelit boudoir around; burgundy slip, sculpted topknot. CLIP 2 must open in this EXACT state (same tomorrow-scene in the mirror, same boudoir, same wardrobe) — only the camera angle changes (to the macro on the mirror).
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 2 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: out of frame except a burgundy strap at the shoulder edge.
+  • FOOTWEAR: out of frame.
+  • EYEWEAR: none.
+  • ACCESSORIES: the gilded mirror frame filling the edges, the ruby choker at the chin, wine nails gripping the handle at frame-bottom.
+  • HAIR: only the topknot crown-edge at the very top of frame.
+  • MAKEUP: berry lip glimpsed at the chin.
+  • HANDS & NAILS: wine-nailed fingers holding the mirror perfectly steady at the frame bottom.
+  • FACIAL MICRO-DYNAMICS: (only her chin and lower lip visible at frame-top) — lips parted in surprise, a sharp inhale visible in the jaw.
+  • BODY POSTURE & WEIGHT: implied steady seated hold (hands/mirror only).
+  • KINETIC STILLNESS (8 layers): (1) the tomorrow-market alive inside the mirror (tomorrow-Aira laughing, reaching for a peach); (2) market bustle and sunlight dancing within; (3) a candle reflection on the gilded frame; (4) the wine nails steady on the handle; (5) her chin micro-moving with the inhale; (6) the gilded engraving catching flame; (7) tomorrow-hair moving in a tomorrow-breeze inside the mirror; (8) a slow blink at the chin.
+  • SPATIAL LOGIC: FOREGROUND — the mirror surface, razor-sharp. MIDGROUND — her chin at frame-top. BACKGROUND — the gilded frame, candle-gold beyond.
+  • LIGHTING: KEY — the mirror-scene's internal sunlight (bright, daylight). FILL — warm boudoir candle-gold at the frame edges. RIM — none. PRACTICAL — the mirror-world sun, the candles. SEPARATION — bright tomorrow-scene vs dark candlelit edges. BOUNCE — bright bounce up onto her chin.
+  • ATMOSPHERE: a bright window into tomorrow held in a dark candlelit hand.
+  • COLOUR GRADE: VIVID CONTRAST — the tomorrow-scene bright and saturated (warm market golds, vivid fruit, white linen) against the dark candlelit boudoir edges. (Matches CLIP 1 END STATE.)
+  • TEXTURE & MICRO-DETAIL: the mirror's glassy surface, the tomorrow-scene's micro-detail (peach fuzz, market textures), gilded-frame engraving, candle reflection, wine-nail gloss.
+
 CUT LOGIC: hard ANGLE-CUT to CLIP 2 (extreme macro on the mirror surface). No motion-match; WORLD STATE matches 100%.
 
 ---
@@ -4068,6 +5310,23 @@ LIGHTING-IN-MOTION: the mirror-scene's internal sunlight flickers warm on her re
 DIEGETIC AUDIO: the tomorrow-scene's own muffled sound (market chatter, laughter, a guitar); the present boudoir muffled (candle-crackle, breath); two soundscapes layered.
 MASTER TRACK: the bright acoustic tomorrow-theme rises inside the vision, contrasting the cello "mirror theme".
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 3's START IMAGE must reproduce 100%, new angle only): at clip end the mirror still shows the alive tomorrow-market, her recognition-smile above; the candlelit boudoir around; burgundy slip, sculpted topknot. CLIP 3 must open in this EXACT state (same tomorrow-scene in the mirror, same boudoir, same wardrobe) — only the angle changes (to the close-up beside her face).
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 3 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the burgundy velvet strap and the sheer mesh robe at the shoulder — identical state.
+  • FOOTWEAR: out of frame.
+  • EYEWEAR: none.
+  • ACCESSORIES: the ruby choker sharp, the hand-mirror beside her face (vision fading to her reflection), wine nails on the handle, gold drop earrings.
+  • HAIR: the sleek topknot, sculpted, catching candle-glow.
+  • MAKEUP: sultry candlelit glow, berry lip.
+  • HANDS & NAILS: she holds the mirror beside her face, turning it toward the lens (showing it off); wine nails.
+  • FACIAL MICRO-DYNAMICS: knowing intrigue — a slow smile of someone who has seen the future and likes it; eyes bright with private knowledge, lids slightly narrowed (conspiratorial), brow in a playful micro-lift, lips curved in a closed-mouth smirk.
+  • BODY POSTURE & WEIGHT: a relaxed seated lean toward the lens, the mirror raised beside her face, breathing.
+  • KINETIC STILLNESS (8 layers): (1) the tomorrow-image dissolving in the mirror to her reflection; (2) candle flames dancing; (3) a wrapped-strand edge glinting; (4) the mesh robe shifting; (5) chest rising; (6) the gilded frame catching flame; (7) deep shadows shifting on the brocade; (8) a slow knowing blink.
+  • SPATIAL LOGIC: FOREGROUND — soft candle-gold bokeh. MIDGROUND — her face and the mirror beside it, sharp. BACKGROUND — the candlelit boudoir melting to golden bokeh.
+  • LIGHTING: KEY — warm candle key on her face. FILL — the fading mirror-glow on her near cheek. RIM — a flame-edge on the topknot. PRACTICAL — candles, the gilded floor-mirror. SEPARATION — golden bokeh behind the face. BOUNCE — warm candle-gold under the jaw.
+  • ATMOSPHERE: a knowing, intimate secret — she's not telling.
+  • COLOUR GRADE: VIVID boudoir — warm skin, burgundy, gold gilt, fading mirror-brightness; rich. (Matches CLIP 2 END STATE, fading.)
+  • TEXTURE & MICRO-DETAIL: the dissolving mirror-image (watercolour-fade), candle-flame detail, real pores in candlelight, sculpted topknot strands, ruby-pendant glint.
+
 CUT LOGIC: hard ANGLE-CUT to CLIP 3 (close-up, face + mirror beside). No motion-match; WORLD STATE matches 100%.
 
 ---
@@ -4113,6 +5372,23 @@ LIGHTING-IN-MOTION: the mirror's internal daylight-glow fades; candlelight reass
 DIEGETIC AUDIO: the tomorrow-soundscape fading (market sounds dissolving); the mirror returning to silent glass (a soft tonal descend); candle-crackle returning to prominence; her low spoken line; a soft "hmm" of satisfaction.
 MASTER TRACK: the bright tomorrow-theme dissolves; the cello "mirror theme" returns alone.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 4's START IMAGE must reproduce 100%, new angle only): at clip end the mirror shows only her normal reflection, the smirk settled; the candlelit boudoir around; burgundy slip, sculpted topknot. CLIP 4 must open in this EXACT state (mirror normal, same boudoir, same wardrobe/smirk) — only the angle changes.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 4 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the burgundy velvet slip dress and sheer mesh robe, velvet catching candlelight — identical state.
+  • FOOTWEAR: out of frame.
+  • EYEWEAR: none.
+  • ACCESSORIES: the ruby choker, wine nails, the hand-mirror lowering toward her lap, gold drop earrings.
+  • HAIR: the sleek topknot in three-quarter, sculpted.
+  • MAKEUP: sultry candlelit glow, berry lip.
+  • HANDS & NAILS: she lowers the mirror with one hand, the other resting on the chaise arm; wine nails.
+  • FACIAL MICRO-DYNAMICS: satisfied private knowledge — eyes meeting the lens directly, the smirk settled into a calm knowing smile, one brow barely raised, completely self-possessed (the hook).
+  • BODY POSTURE & WEIGHT: a relaxed seated lean-back into the chaise, weight settling, breathing.
+  • KINETIC STILLNESS (8 layers): (1) candle flames dancing; (2) the mirror lowering, catching one last candle-glint; (3) a wrapped-strand edge glinting; (4) the mesh robe shifting; (5) chest rising; (6) deep shadows on the brocade; (7) dried roses still; (8) a slow knowing blink.
+  • SPATIAL LOGIC: FOREGROUND — the lowering mirror, soft. MIDGROUND — Aira leaning back. BACKGROUND — the candlelit boudoir, chaise, candelabras.
+  • LIGHTING: KEY — warm candlelight key. FILL — dancing shadow. RIM — flame-edge on the topknot. PRACTICAL — candles, gilded floor-mirror. SEPARATION — warm figure against shadow. BOUNCE — candle-gold under the jaw.
+  • ATMOSPHERE: satisfied mystery — she knows something you don't.
+  • COLOUR GRADE: VIVID boudoir — burgundy, emerald, gold gilt, candle-gold; rich, full mid-tone. (Matches CLIP 3 END STATE.)
+  • TEXTURE & MICRO-DETAIL: crushed-velvet nap, sheer-mesh weave, gilded-mirror gleam, candle-flame, sculpted topknot, ruby-pendant glint.
+
 CUT LOGIC: hard ANGLE-CUT to CLIP 4 (medium, three-quarter). No motion-match; WORLD STATE matches 100%.
 
 ---
@@ -4158,6 +5434,23 @@ LIGHTING-IN-MOTION: candles steady to their resting dance.
 DIEGETIC AUDIO: the mirror settling (soft metal-on-velvet); her satisfied exhale; candle-crackle; fabric rustle; a settling quiet.
 MASTER TRACK: the cello "mirror theme" settles, intimate and knowing.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 5's START IMAGE must reproduce 100%, then loop): at clip end the mirror is face-up in her lap (normal reflection), Aira leaned back with the knowing hook-smile; the candlelit boudoir around; burgundy slip, sculpted topknot. CLIP 5 must open in this EXACT state then reset to the CLIP-1 contemplative-lift — same boudoir, same wardrobe.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 5 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the burgundy velvet slip dress, sheer mesh robe — matched to CLIP 1.
+  • FOOTWEAR: black satin kitten-heel mules — matched.
+  • EYEWEAR: none.
+  • ACCESSORIES: the gilded hand-mirror in her lap (normal reflection), ruby choker, wine nails, gold drop earrings — matched.
+  • HAIR: the high sleek topknot with wrapped strand — matched to CLIP 1.
+  • MAKEUP: sultry candlelit glow — matched.
+  • HANDS & NAILS: her right hand on the mirror handle, the left resting beside it — matched to CLIP 1.
+  • FACIAL MICRO-DYNAMICS: contemplative curiosity returning — eyes lowering to the mirror, brow in soft thought — the exact opening face.
+  • BODY POSTURE & WEIGHT: a graceful seated lean at the chaise edge, mirror in lap — mirror of CLIP 1.
+  • KINETIC STILLNESS (8 layers): (1) candle flames dancing; (2) shadows shifting; (3) a wrapped-strand edge glinting; (4) the mesh robe shifting; (5) chest rising; (6) the mirror catching a flame; (7) dried roses still; (8) a slow eyelash settle — matched to CLIP 1.
+  • SPATIAL LOGIC: FOREGROUND — the hand-mirror in her lap. MIDGROUND — Aira on the chaise. BACKGROUND — the candlelit boudoir — matched to CLIP 1.
+  • LIGHTING: KEY — warm flickering candlelight. FILL — dancing shadow. RIM — flame-edge on the topknot. PRACTICAL — candles, gilded floor-mirror. SEPARATION — warm figure vs shadow. BOUNCE — candle-gold under the chin — matched to CLIP 1.
+  • ATMOSPHERE: opulent candlelit mystery resuming — ready to look into tomorrow again.
+  • COLOUR GRADE: VIVID boudoir — burgundy, emerald, gold gilt, candle-gold, wine nails — matched to CLIP 1.
+  • TEXTURE & MICRO-DETAIL: crushed-velvet nap, mesh weave, gilded engraving, candle-flame, topknot sheen, ruby glint, wine nails — matched.
+
 CUT LOGIC: hard ANGLE-CUT to CLIP 5 (three-quarter seated). No motion-match; state resets to CLIP 1.
 
 ---
@@ -4203,6 +5496,23 @@ LIGHTING-IN-MOTION: candles at the opening dance — matched to CLIP 1.
 DIEGETIC AUDIO: candle-crackle; velvet settle; the mirror at rest; her quiet breath — back to the CLIP-1 bed.
 MASTER TRACK: the cello "mirror theme" resolves to the opening, looping cleanly.
 END STATE / STATE-MATCH LOCK: clip ends in the EXACT mirror-in-lap state and three-quarter angle of CLIP 1's START IMAGE — boudoir, wardrobe and contemplative expression matched, so the reel loops seamlessly.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 1 (LOOP back to opening) — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the burgundy velvet bias-cut slip dress, thin straps, mid-calf, the sheer black mesh robe open over it.
+  • FOOTWEAR: black satin pointed-toe kitten-heel mules.
+  • EYEWEAR: none.
+  • ACCESSORIES: the ornate gilded antique hand-mirror in her right hand resting in her lap, a thin velvet choker with a tiny ruby pendant, deep-wine glossy nails, small gold drop earrings.
+  • HAIR: a high sleek topknot with a thick strand wrapped around the base, no flyaways, sculpted.
+  • MAKEUP: sultry candlelit glow — luminous skin, deep-berry lip, soft smoky bronze lid, real pores.
+  • HANDS & NAILS: her right hand holding the gilded handle, the left resting beside it, about to lift the mirror; deep-wine glossy nails.
+  • FACIAL MICRO-DYNAMICS: contemplative curiosity — eyes lowered to the mirror, brow in soft thought, lips with a faint interested curve, chin tilted down, about to look.
+  • BODY POSTURE & WEIGHT: a graceful seated lean at the chaise edge, weight settled, the mirror in her lap, spine elegant, breathing.
+  • KINETIC STILLNESS (8 layers): (1) dozens of candle flames dancing; (2) deep shadows shifting on the brocade; (3) a wrapped-strand edge catching candlelight; (4) the mesh robe shifting; (5) chest rising; (6) the gilded mirror catching one flame; (7) dried-rose petals still; (8) a slow eyelash settle.
+  • SPATIAL LOGIC: FOREGROUND — the hand-mirror in her lap, sharp. MIDGROUND — Aira on the chaise. BACKGROUND — the candlelit boudoir, gilded floor-mirror, brocade, candelabras.
+  • LIGHTING: KEY — warm flickering candlelight from multiple points. FILL — deep dancing shadow. RIM — a flame-edge on the topknot and shoulder. PRACTICAL — dozens of ivory candles, the gilded floor-mirror reflecting flames. SEPARATION — warm figure against deep shadow. BOUNCE — warm candle-gold under the chin.
+  • ATMOSPHERE: opulent candlelit mystery, the hush before she looks into tomorrow.
+  • COLOUR GRADE: VIVID boudoir — saturated burgundy + emerald velvet + gold gilt + ivory candle-gold + wine nails; rich, dark, full mid-tone.
+  • TEXTURE & MICRO-DETAIL: crushed-velvet nap, sheer-mesh weave, gilded-mirror engraving, candle-flame detail, the topknot's sculpted sheen, ruby-pendant glint, wine nail gloss.
+
 CUT LOGIC: ANGLE-CUT / LOOP back to CLIP 1; the next pass re-triggers the tomorrow-vision when she lifts the mirror.
 
 ### ☆ EXTERNAL AUDIO — BLOCK 1: BACKGROUND SOUND DESIGN / AMBIENCE BED — C-3
@@ -4297,6 +5607,23 @@ LIGHTING-IN-MOTION: golden-hour steady; a tiny brass-key glint as it turns; the 
 DIEGETIC AUDIO: the winding mechanism (a satisfying ratchet-click-click-click); the lid rising (a soft aged-hinge creak); the first delicate notes of a music-box melody; her soft breath.
 MASTER TRACK: a solo music-box motif (the actual tune — 8 memorable notes, the series theme) begins.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 2's START IMAGE must reproduce 100%, new angle only): at clip end the music box is open, the tiny ballerina glowing warm-gold and beginning to stir; the dreamy golden-hour bedroom around; cream sweater, honey curls. CLIP 2 must open in this EXACT state (same open box, same glowing figurine, same bedroom, same wardrobe) — only the camera angle changes (to the macro on the figurine).
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 2 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: a cream cashmere cuff at the wrist edge.
+  • FOOTWEAR: out of frame.
+  • EYEWEAR: none.
+  • ACCESSORIES: pink nails on the box edge, the pearl bracelet; the figurine — a tiny porcelain ballerina in a pink tutu, glowing warm-gold.
+  • HAIR: only a curl-end blurred at the frame edge.
+  • MAKEUP: out of frame.
+  • HANDS & NAILS: her fingertips resting on the box edge (not touching the figurine — giving it space to awaken); pink nails.
+  • FACIAL MICRO-DYNAMICS: out of frame — the hands convey reverence (still, not grasping).
+  • BODY POSTURE & WEIGHT: implied reverent stillness (hands only).
+  • KINETIC STILLNESS (8 layers): (1) the figurine glowing brighter, beginning to move; (2) its tiny arm lifting; (3) the mother-of-pearl interior shimmering; (4) golden-hour light flooding the box; (5) the fingertips still; (6) the brass mechanism ticking; (7) a warm glow-bloom around the figurine; (8) a tiny porcelain head-turn.
+  • SPATIAL LOGIC: FOREGROUND — the glowing figurine, razor-sharp. MIDGROUND — the box mechanism. BACKGROUND — the rosewood interior, golden-hour glow.
+  • LIGHTING: KEY — the figurine's own emerging warm-gold glow. FILL — golden-hour ambient flooding in. RIM — a glow-edge on the tiny tutu. PRACTICAL — the figurine's glow, fairy-lights beyond. SEPARATION — the glowing figurine against the dark rosewood. BOUNCE — warm glow on the mechanism.
+  • ATMOSPHERE: a tiny miracle awakening in a golden box.
+  • COLOUR GRADE: VIVID — the tiny pink tutu vivid against warm-gold glow, mother-of-pearl iridescence, warm rosewood. (Matches CLIP 1 END STATE.)
+  • TEXTURE & MICRO-DETAIL: porcelain-figurine detail (tiny painted features, tutu tulle), mother-of-pearl shimmer, brass-mechanism teeth, rosewood grain, golden glow-bloom.
+
 CUT LOGIC: hard ANGLE-CUT to CLIP 2 (extreme macro on the figurine). No motion-match; WORLD STATE matches 100%.
 
 ---
@@ -4342,6 +5669,23 @@ LIGHTING-IN-MOTION: the figurine's glow intensifies as it lifts — lighting the
 DIEGETIC AUDIO: the music-box melody (delicate, tinkling, the main motif); a tiny porcelain "click" as the foot leaves; a soft magical chime-swell as it grows; the mechanism ticking.
 MASTER TRACK: the music-box motif joined by a soft entering string-quartet.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 3's START IMAGE must reproduce 100%, new angle only): at clip end the figurine has stepped off and is lifting/growing in a warm glow; the golden-hour bedroom around (the dancer about to be life-size in CLIP 3); cream sweater, honey curls. CLIP 3 must open in this EXACT magic-in-progress state (figurine growing toward life-size, same bedroom, same wardrobe) — only the angle changes (to the full-body two-shot).
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 3 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the cream off-shoulder sweater and cream lounge trousers, barefoot — identical state.
+  • FOOTWEAR: barefoot on pale wood, gold anklet.
+  • EYEWEAR: none.
+  • ACCESSORIES: pearl studs, pearl bracelet, pink nails, pearl clip; the music box on the table behind.
+  • HAIR: honey-gold ringlet curls, pearl clip, lit by the dancer's glow.
+  • MAKEUP: soft golden-hour glow, lit warm.
+  • HANDS & NAILS: her hands clasped softly at her chest (a reverent watching pose), not interfering; pink nails.
+  • FACIAL MICRO-DYNAMICS: open-hearted wonder — eyes wide and soft, mouth slightly open in a gentle "oh", brow lifted, childlike tender amazement.
+  • BODY POSTURE & WEIGHT: standing back to give the dancer room, hands clasped, weight settled, breathing.
+  • KINETIC STILLNESS (8 layers): (1) the life-size dancer mid-pirouette, tutu flaring; (2) golden glow-particles drifting from her; (3) Aira's curls drifting; (4) the cashmere shifting; (5) chest rising; (6) gauzy curtains glowing; (7) peonies stirring; (8) a slow delighted blink.
+  • SPATIAL LOGIC: FOREGROUND — pale wood floor. MIDGROUND — Aira (left) and the dancer (right) in a two-shot. BACKGROUND — the golden-hour bedroom, gauzy curtains glowing.
+  • LIGHTING: KEY — golden-hour from the curtains + the dancer's own warm glow (double-source). FILL — warm ambient bounce. RIM — gold edges on both figures. PRACTICAL — fairy-lights, the dancer's glow. SEPARATION — glowing curtains behind both figures. BOUNCE — warm gold underlight.
+  • ATMOSPHERE: tender amazement watching beauty come alive.
+  • COLOUR GRADE: VIVID golden-hour — warm gold glow + pink tutu + cream outfit + honey curls + pale peonies; dreamy, saturated, soft-power. (Matches CLIP 2 END STATE.)
+  • TEXTURE & MICRO-DETAIL: the dancer's translucent tutu and faintly-porcelain skin (the magic origin), glow-particles, cashmere knit, honey-gold ringlets, pale-wood grain.
+
 CUT LOGIC: hard ANGLE-CUT to CLIP 3 (full body, two-shot). No motion-match; WORLD STATE matches 100%.
 
 ---
@@ -4387,6 +5731,23 @@ LIGHTING-IN-MOTION: the dancer's glow flares slightly at the peak of the spin, t
 DIEGETIC AUDIO: the music-box melody at full beautiful volume (as if the room is the box); the soft swish of the tutu; the pointe-shoe touching down (a whisper-tap); Aira's held breath then gentle exhale; a faint glow-particle sparkle.
 MASTER TRACK: the full string-quartet plus a solo flute joins at the pirouette — the emotional peak.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 4's START IMAGE must reproduce 100%, new angle only): at clip end the dancer finishes the pirouette and begins to shrink/return; Aira watches with a tender smile; the golden-hour bedroom around; cream sweater, honey curls. CLIP 4 must open in this EXACT state (dancer beginning to shrink, same bedroom, same wardrobe) — only the angle changes (to the close-up on Aira).
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 4 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the cream off-shoulder sweater at the bare shoulder — identical state.
+  • FOOTWEAR: out of frame.
+  • EYEWEAR: none.
+  • ACCESSORIES: pearl studs catching the glow, soft pink nails at her clasped hands below frame, pearl clip.
+  • HAIR: honey-gold ringlets framing the face, pearl clip, golden glow on every strand.
+  • MAKEUP: soft golden-hour glow, lit warm.
+  • HANDS & NAILS: her clasped hands loosening, one extending toward the shrinking dancer in a soft open-palm farewell; pink nails.
+  • FACIAL MICRO-DYNAMICS: bittersweet tenderness — eyes soft and slightly glistening (moved, not crying), lashes lowered halfway, the smile warm but fading to a gentle lip-press; a slow savouring blink — watching beauty return to its box.
+  • BODY POSTURE & WEIGHT: a gentle forward inclination, hand extending in farewell, breathing.
+  • KINETIC STILLNESS (8 layers): (1) the dancer shrinking and floating back in the bokeh; (2) the golden glow contracting; (3) a ringlet drifting; (4) the cashmere shifting at the shoulder; (5) chest rising; (6) fairy-lights twinkling; (7) glow-particles fading; (8) a slow emotional blink.
+  • SPATIAL LOGIC: FOREGROUND — soft golden bokeh. MIDGROUND — Aira's face, sharp. BACKGROUND — the shrinking dancer floating back to the box.
+  • LIGHTING: KEY — the fading dancer-glow as a warm diminishing key. FILL — golden-hour ambient. RIM — a soft gold edge on the curls. PRACTICAL — fairy-lights, the dancer's glow. SEPARATION — warm bokeh behind the face. BOUNCE — warm gold under the chin.
+  • ATMOSPHERE: a tender goodbye — gratitude and gentle farewell.
+  • COLOUR GRADE: VIVID golden-hour — warm skin glowing, gold everywhere, pearl accents, pink echoes; tender and saturated. (Matches CLIP 3 END STATE, dimming.)
+  • TEXTURE & MICRO-DETAIL: glistening-eye detail, honey-gold ringlets, fading glow-particles, cashmere knit, pearl-stud gleam.
+
 CUT LOGIC: hard ANGLE-CUT to CLIP 4 (close-up on Aira's face). No motion-match; WORLD STATE matches 100%.
 
 ---
@@ -4432,6 +5793,23 @@ LIGHTING-IN-MOTION: the golden glow contracts with the dancer, dimming; golden-h
 DIEGETIC AUDIO: the music-box melody slowing (winding down); the soft shrinking (a gentle descending tone); the porcelain tap as she settles; the lid lowering (a soft creak); the mechanism stopping.
 MASTER TRACK: the strings thin to a solo cello/harp for the goodbye; the music-box motif slowing.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 5's START IMAGE must reproduce 100%, then loop): at clip end the dancer has returned to the box and the lid is lowering; Aira gives a grateful tender smile; the golden-hour bedroom around; cream sweater, honey curls. CLIP 5 must open in this EXACT state then reset to the CLIP-1 wind-up — same bedroom, same wardrobe.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 5 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the cream cashmere off-shoulder sweater, cream lounge trousers — matched to CLIP 1.
+  • FOOTWEAR: out of frame (barefoot, gold anklet).
+  • EYEWEAR: none.
+  • ACCESSORIES: the closed music box on the side-table, pearl studs, pearl bracelet, pink nails, pearl clip — matched.
+  • HAIR: soft honey-gold ringlet curls, pearl clip — matched to CLIP 1.
+  • MAKEUP: soft golden-hour glow — matched.
+  • HANDS & NAILS: her right hand returning toward the winding key, the left near the box — matched to CLIP 1.
+  • FACIAL MICRO-DYNAMICS: tender anticipation returning — eyes soft on the box, the gentle affectionate smile — the exact opening face.
+  • BODY POSTURE & WEIGHT: a relaxed seated lean toward the side-table — mirror of CLIP 1.
+  • KINETIC STILLNESS (8 layers): (1) gauzy curtains glowing and breathing; (2) fairy-lights twinkling; (3) a ringlet drifting; (4) the cashmere shifting; (5) chest rising; (6) peonies stirring; (7) a dust-mote in the golden light; (8) a slow eyelash settle — matched to CLIP 1.
+  • SPATIAL LOGIC: FOREGROUND — the closed music box. MIDGROUND — Aira seated. BACKGROUND — the dreamy golden-hour bedroom — matched to CLIP 1.
+  • LIGHTING: KEY — warm golden-hour through gauzy curtains. FILL — warm bounce. RIM — gold edge on curls and shoulder. PRACTICAL — fairy-lights. SEPARATION — glowing curtains behind. BOUNCE — warm gold under the chin — matched to CLIP 1.
+  • ATMOSPHERE: the dreamy golden-hour bedroom at rest — ready to wind the box again.
+  • COLOUR GRADE: VIVID golden-hour — warm gold, cream, pale-pink peonies, honey curls — matched to CLIP 1.
+  • TEXTURE & MICRO-DETAIL: cashmere knit, rosewood grain, mother-of-pearl, brass-key gleam, ringlet detail, pearl-clip sheen, pink nails — matched.
+
 CUT LOGIC: hard ANGLE-CUT to CLIP 5 (medium). No motion-match; state resets to CLIP 1.
 
 ---
@@ -4477,6 +5855,23 @@ LIGHTING-IN-MOTION: golden-hour steady — matched to CLIP 1.
 DIEGETIC AUDIO: the lid clicking shut; the mechanism stopping; golden-hour room-tone; curtain rustle; her content breath — back to the CLIP-1 bed.
 MASTER TRACK: the solo music-box motif closes, looping cleanly to the opening.
 END STATE / STATE-MATCH LOCK: clip ends in the EXACT closed-box state and three-quarter angle of CLIP 1's START IMAGE — bedroom, wardrobe and tender-anticipation expression matched, so the reel loops seamlessly.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 1 (LOOP back to opening) — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the soft cream cashmere off-shoulder sweater, one shoulder exposed, over cream lounge trousers; warm and relaxed.
+  • FOOTWEAR: out of frame (barefoot, gold anklet implied).
+  • EYEWEAR: none.
+  • ACCESSORIES: the antique music box (rosewood, mother-of-pearl inlay, brass key) on the side-table; small pearl studs, a thin pearl bracelet, soft pink glossy nails, a pearl hair-clip.
+  • HAIR: soft cascading honey-gold ringlet curls, shoulder-length, the pearl clip holding the left side.
+  • MAKEUP: soft golden-hour glow — luminous skin, soft rose lip, warm peach lid, real pores.
+  • HANDS & NAILS: her right hand reaching for the brass winding key on the box's side, fingertips approaching; the left resting near the box; soft pink glossy nails.
+  • FACIAL MICRO-DYNAMICS: tender anticipation — eyes soft on the music box, brow relaxed, a gentle private smile of affection, lips softly together; she loves this object.
+  • BODY POSTURE & WEIGHT: a relaxed seated lean toward the side-table, weight settled, shoulders soft, breathing.
+  • KINETIC STILLNESS (8 layers): (1) gauzy curtains glowing and breathing with the golden-hour breeze; (2) soft fairy-lights twinkling; (3) a honey-gold ringlet drifting; (4) the cashmere shifting at the bare shoulder; (5) chest rising; (6) pale-pink peonies stirring; (7) a warm dust-mote drifting in the golden light; (8) a slow eyelash settle.
+  • SPATIAL LOGIC: FOREGROUND — the music box on the side-table, sharp. MIDGROUND — Aira seated. BACKGROUND — the dreamy golden-hour bedroom, gauzy curtains, peonies, fairy-lights.
+  • LIGHTING: KEY — warm golden-hour sun through gauzy curtains (soft diffused). FILL — warm ambient bounce. RIM — a soft gold edge on the curls and bare shoulder. PRACTICAL — fairy-lights. SEPARATION — glowing curtains behind a warmly-lit figure. BOUNCE — warm gold under the chin.
+  • ATMOSPHERE: a dreamy golden-hour bedroom, the tender hush before the box opens.
+  • COLOUR GRADE: VIVID golden-hour — saturated warm gold + cream + pale-pink peonies + honey curls + mother-of-pearl; soft but vivid, glowing.
+  • TEXTURE & MICRO-DETAIL: cashmere knit, rosewood grain, mother-of-pearl iridescence, brass-key gleam, honey-gold ringlet detail, pearl-clip sheen, pink nail gloss.
+
 CUT LOGIC: ANGLE-CUT / LOOP back to CLIP 1; the next pass re-triggers the dancer when she winds the key.
 
 ### ☆ EXTERNAL AUDIO — BLOCK 1: BACKGROUND SOUND DESIGN / AMBIENCE BED — C-4
@@ -4571,6 +5966,23 @@ LIGHTING-IN-MOTION: warm fireplace steady; the globe's internal village-lights i
 DIEGETIC AUDIO: the fireplace crackle; a cocoa sip; the globe's rattle-vibrate (a soft brass-on-wood); the internal snow-swirl (a muffled whoosh); her surprised "hmm?"; the tiny lights igniting (a soft chime).
 MASTER TRACK: a soft solo-piano "globe theme" (6 cosy notes) + fireplace-crackle texture; a celeste shimmer entering on the self-shake.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 2's START IMAGE must reproduce 100%, new angle only): at clip end the globe is actively shaking itself on the shelf, snow swirling inside, tiny village-lights blazing; the cosy cabin around; oatmeal sweater, espresso braid. CLIP 2 must open in this EXACT state (same shaking globe, same swirling snow, same cabin, same wardrobe) — only the camera angle changes.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 2 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the oatmeal cable-knit dress from behind, belt at the back — identical state.
+  • FOOTWEAR: out of frame.
+  • EYEWEAR: none.
+  • ACCESSORIES: gold studs at the jaw-line; the snow globe shaking on the shelf, snow swirling, village-lights blazing; nude nails.
+  • HAIR: the fishtail braid from behind, gold thread, catching firelight.
+  • MAKEUP: warm cosy glow.
+  • HANDS & NAILS: the cocoa mug lowered in one hand; the other beginning to reach toward the shelf; nude nails.
+  • FACIAL MICRO-DYNAMICS: (cheek-profile glimpsed) soft wonder, lips parted, eyes on the globe and the first escaping flakes.
+  • BODY POSTURE & WEIGHT: a gentle forward lean toward the shelf, weight settling onto the front foot, breathing.
+  • KINETIC STILLNESS (8 layers): (1) the globe shaking, snow swirling violently inside; (2) the tiny village alive (lights, chimney-smoke, swaying trees); (3) the first snowflakes PHASING THROUGH the glass into the room; (4) the braid swaying; (5) chest rising; (6) firelight dancing on the dark wood; (7) the village-light casting warm spots on the shelf; (8) a slow wondering blink.
+  • SPATIAL LOGIC: FOREGROUND — her shoulder and braid, soft. MIDGROUND — the shaking glowing globe, sharp. BACKGROUND — the cosy cabin, frosted window.
+  • LIGHTING: KEY — the globe's internal village-lights (warm) + firelight. FILL — warm cabin ambient. RIM — cool window-light on the braid. PRACTICAL — the globe, fireplace, shelf-lamp. SEPARATION — the bright glowing globe against the dark shelf. BOUNCE — warm firelight on her back.
+  • ATMOSPHERE: cosy wonder as the globe's magic begins to spill into the real room.
+  • COLOUR GRADE: VIVID cosy — warm village-glow + amber firelight + escaping white snow + cool blue window; the cold-into-warm contrast vivid. (Matches CLIP 1 END STATE.)
+  • TEXTURE & MICRO-DETAIL: the globe's swirling snow and tiny alive village, phasing snowflakes with crystal structure, the braid's gold thread, dark-wood grain, firelight dance.
+
 CUT LOGIC: hard ANGLE-CUT to CLIP 2 (over-the-shoulder at the shelf). No motion-match; WORLD STATE matches 100%.
 
 ---
@@ -4616,6 +6028,23 @@ LIGHTING-IN-MOTION: each escaping snowflake catches firelight individually — t
 DIEGETIC AUDIO: the muffled globe-swirl; snowflakes entering the room (a soft crystalline tinkling); the fireplace crackle; a faint icy-breeze sound; her delighted gasp-laugh.
 MASTER TRACK: the solo piano gains a celeste/glockenspiel snowfall-shimmer.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 3's START IMAGE must reproduce 100%, new angle only): at clip end snow is drifting freely into the cabin from the globe, catching firelight, the globe blazing on the shelf; the cosy cabin around; oatmeal sweater, espresso braid. CLIP 3 must open in this EXACT state (same indoor snowfall beginning, same globe, same cabin, same wardrobe) — only the angle changes (to the full-body hero).
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 3 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the oatmeal cable-knit sweater dress, belt, with a fine snow-dusting on the shoulders — identical state.
+  • FOOTWEAR: cream wool socks on dark wood, a thin snow-dusting on the floor around her feet.
+  • EYEWEAR: none.
+  • ACCESSORIES: gold studs with tiny snow-crystals caught, the gold ring, nude nails — snow decorating her like nature's jewelry.
+  • HAIR: the fishtail braid with snowflakes caught in it, espresso-brown against white, gold thread.
+  • MAKEUP: warm cosy glow with a faint cold-flush at the cheeks.
+  • HANDS & NAILS: arms slightly open, palms up, catching snowflakes; nude nails.
+  • FACIAL MICRO-DYNAMICS: joyful surrender — eyes closed, face tilted up into the snowfall, a broad warm smile, snowflakes landing on her lashes and cheeks; pure bliss.
+  • BODY POSTURE & WEIGHT: a grounded heroic stance, arms slightly open, face up, weight even, spine long, breathing.
+  • KINETIC STILLNESS (8 layers): (1) a full indoor snowfall drifting softly through the room; (2) the fireplace still crackling (fire and snow coexisting); (3) the globe blazing on the shelf; (4) snow dusting every surface; (5) chest rising on a blissful breath; (6) snow landing on her palms and braid; (7) the frosted window glowing cool behind; (8) a snowflake melting on a lash.
+  • SPATIAL LOGIC: FOREGROUND — drifting snowflakes nearest lens. MIDGROUND — Aira bathing in the snow. BACKGROUND — the cabin filled with snow, fireplace, glowing globe.
+  • LIGHTING: KEY — the globe's glow + fireplace amber + each snowflake as a tiny golden light-point = a room full of floating warm stars. FILL — warm cabin ambient. RIM — cool window-light edge. PRACTICAL — fireplace, globe, snow-glints. SEPARATION — bright snow-canopy above the figure. BOUNCE — warm firelight uplight.
+  • ATMOSPHERE: cosy magic at its peak — being inside a living snow globe.
+  • COLOUR GRADE: VIVID cosy magic — warm amber + white snow + oatmeal + golden flake-glints; like standing inside a glowing snow globe. (Matches CLIP 2 END STATE.)
+  • TEXTURE & MICRO-DETAIL: individual snowflakes with crystal structure, snow-dusting on the cable-knit and braid, cold-flush skin, firelight-glints on flakes, dark-wood floor with snow.
+
 CUT LOGIC: hard ANGLE-CUT to CLIP 3 (full-body hero). No motion-match; WORLD STATE matches 100%.
 
 ---
@@ -4661,6 +6090,23 @@ LIGHTING-IN-MOTION: the low angle makes the snowfall read as a canopy of golden 
 DIEGETIC AUDIO: the full indoor snowfall (a soft crystalline ambient, like gentle static); the fireplace crackling; the globe humming; her joyful laugh; the tiny patter of snow accumulating; a wind-chime quality to the flakes.
 MASTER TRACK: full warm strings + glockenspiel shimmer — the cosy emotional peak.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 4's START IMAGE must reproduce 100%, new angle only): at clip end the room is full of drifting snow at its peak, Aira mid-bliss with snow on her lashes and braid; the globe blazing; cosy cabin around; oatmeal sweater. CLIP 4 must open in this EXACT state (same snowfall, same wardrobe) then the snow begins to thin within CLIP 4.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 4 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the oatmeal sweater shoulder dusted white — identical state.
+  • FOOTWEAR: out of frame.
+  • EYEWEAR: none.
+  • ACCESSORIES: a gold stud visible, snowflakes on lashes and brow like natural jewelry, gold thread in the braid.
+  • HAIR: the fishtail braid and loose wisps dusted with snow-crystals, gold thread.
+  • MAKEUP: warm cosy glow with a cold-flush, snow-crystals on the lashes.
+  • HANDS & NAILS: one hand rising to catch a final falling flake, fingertips extended; nude nails.
+  • FACIAL MICRO-DYNAMICS: gentle contentment fading to peace — eyes open now (having been closed in bliss), watching the last flakes with soft focus, lashes holding tiny crystals, the smile softening to a private tender curve; a slow exhale visible as a warm breath-cloud in the cooling air.
+  • BODY POSTURE & WEIGHT: an upright profile, hand rising to a flake, weight centred, breathing.
+  • KINETIC STILLNESS (8 layers): (1) the snowfall slowing, fewer flakes; (2) the globe's light dimming on the shelf; (3) a snow-dusted braid-wisp; (4) the sweater shoulder dusted; (5) chest rising on a breath-cloud; (6) firelight reasserting warm; (7) the last flakes drifting; (8) a slow peaceful blink.
+  • SPATIAL LOGIC: FOREGROUND — a falling flake near her fingertip, sharp. MIDGROUND — her profile. BACKGROUND — the thinning snow and warm cabin in soft bokeh.
+  • LIGHTING: KEY — warm firelight reasserting on her profile as the snow thins. FILL — cool window-light. RIM — a warm fire-edge on the braid. PRACTICAL — fireplace, dimming globe. SEPARATION — warm profile against the cooling room. BOUNCE — warm firelight under the jaw.
+  • ATMOSPHERE: a tender contentment as the snow gently recedes — "that was enough".
+  • COLOUR GRADE: VIVID cosy — warm skin with snow-crystals, the thinning snow against warm bokeh, the cold-flush. (Matches CLIP 3 END STATE, thinning.)
+  • TEXTURE & MICRO-DETAIL: snow-crystals on lashes and brow, breath-cloud vapour, snow-dusted braid, cold-flush skin, firelight on the profile.
+
 CUT LOGIC: hard ANGLE-CUT to CLIP 4 (close-up profile). No motion-match; WORLD STATE matches 100%.
 
 ---
@@ -4706,6 +6152,23 @@ LIGHTING-IN-MOTION: the globe's glow dims to its resting state; firelight reasse
 DIEGETIC AUDIO: the snowfall fading to silence; the last flake landing (a tiny "tink"); the fire reasserting; the globe settling (a soft brass-settle); her satisfied exhale.
 MASTER TRACK: the strings thin to solo piano + a last celeste shimmer.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 5's START IMAGE must reproduce 100%, then loop): at clip end the snow has stopped, the room clearing, the globe dimming to rest; Aira peaceful with a gentle smile; cosy cabin around; oatmeal sweater, espresso braid. CLIP 5 must open in this EXACT state then reset to the CLIP-1 cocoa-cradle — same cabin, same wardrobe (snow gone).
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 5 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the oatmeal cable-knit sweater dress, brown belt — matched to CLIP 1 (snow gone).
+  • FOOTWEAR: cream wool socks — matched.
+  • EYEWEAR: none.
+  • ACCESSORIES: the still-and-dark snow globe on the shelf, gold studs, gold ring, nude nails, the white cocoa mug, gold thread in the braid — matched.
+  • HAIR: a thick loose fishtail braid over the right shoulder, espresso-brown, gold thread — matched to CLIP 1.
+  • MAKEUP: warm cosy glow — matched.
+  • HANDS & NAILS: both hands cradling the cocoa mug (heat-seeking grip), steam rising — matched to CLIP 1.
+  • FACIAL MICRO-DYNAMICS: cosy contentment returning — eyes soft and unfocused (daydream), the gentle warm smile — the exact opening face.
+  • BODY POSTURE & WEIGHT: a relaxed mid-room stand, weight settled, cradling the mug — mirror of CLIP 1.
+  • KINETIC STILLNESS (8 layers): (1) fireplace flames crackling; (2) cocoa steam rising; (3) a braid-wisp drifting; (4) the cable-knit shifting; (5) chest rising; (6) frost at the window edges; (7) a knit throw on the armchair; (8) a slow content blink — matched to CLIP 1.
+  • SPATIAL LOGIC: FOREGROUND — Aira with the cocoa mug. MIDGROUND — the cosy cabin. BACKGROUND — the still globe on the shelf, frosted window — matched to CLIP 1.
+  • LIGHTING: KEY — warm fireplace amber. FILL — soft lamp warmth. RIM — cool window-light on the braid. PRACTICAL — fireplace, shelf-lamp, the globe (now dark). SEPARATION — warm figure against the cool window. BOUNCE — warm amber under the chin — matched to CLIP 1.
+  • ATMOSPHERE: deep cosy cabin warmth at rest — ready for the globe to wake again.
+  • COLOUR GRADE: VIVID cosy — warm amber, oatmeal, dark wood, cool blue window, the globe's faint resting glow — matched to CLIP 1.
+  • TEXTURE & MICRO-DETAIL: cable-knit, dark-wood grain, brass-globe base, frost-feathering, espresso braid with gold thread, cocoa steam, nude nails — matched.
+
 CUT LOGIC: hard ANGLE-CUT to CLIP 5 (wide). No motion-match; state resets to CLIP 1.
 
 ---
@@ -4751,6 +6214,23 @@ LIGHTING-IN-MOTION: fireplace steady — matched to CLIP 1.
 DIEGETIC AUDIO: fireplace crackle; wind outside; cocoa steam; her content breath — back to the CLIP-1 bed.
 MASTER TRACK: the solo-piano "globe theme" + fire-crackle settles, looping cleanly.
 END STATE / STATE-MATCH LOCK: clip ends in the EXACT cocoa-cradle state and wide angle of CLIP 1's START IMAGE — still globe, cabin, wardrobe and content expression matched, so the reel loops seamlessly.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 1 (LOOP back to opening) — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the oversized oatmeal cable-knit sweater dress, mid-thigh, a thin brown leather belt at the waist; chunky and cosy.
+  • FOOTWEAR: thick cream wool socks on dark wood, padding softly.
+  • EYEWEAR: none.
+  • ACCESSORIES: small gold studs, a simple gold band ring, warm nude glossy nails, a white cocoa mug in both hands; the snow globe (brass-based, tiny alpine village) on the high shelf.
+  • HAIR: a thick loose fishtail braid over the right shoulder, dark espresso-brown, a thin gold thread at the end.
+  • MAKEUP: warm cosy glow — luminous skin, soft warm lip, real pores.
+  • HANDS & NAILS: both hands wrapping the cocoa mug (a heat-seeking grip), steam rising; warm nude glossy nails.
+  • FACIAL MICRO-DYNAMICS: cosy contentment — eyes soft and unfocused (daydreaming), a gentle warm smile behind the mug she's about to sip, brow relaxed, completely at peace.
+  • BODY POSTURE & WEIGHT: a relaxed mid-room stand, weight settled, shoulders soft, cradling the mug, breathing.
+  • KINETIC STILLNESS (8 layers): (1) the fireplace flames crackling and dancing; (2) cocoa steam rising in slow curls; (3) a loose braid-wisp drifting; (4) the cable-knit shifting; (5) chest rising; (6) frost feathering at the window edges; (7) a knit throw settling on the armchair; (8) a slow content blink.
+  • SPATIAL LOGIC: FOREGROUND — Aira with the cocoa mug, sharp. MIDGROUND — the cosy cabin room. BACKGROUND — the snow globe on the high shelf (upper-left), the frosted snowy window.
+  • LIGHTING: KEY — warm fireplace amber (flickering). FILL — soft lamp warmth. RIM — cool blue frosted-window light on her braid and shoulder. PRACTICAL — fireplace, a shelf-lamp spotlighting the globe, the globe's tiny internal glow. SEPARATION — warm figure against the cool window. BOUNCE — warm amber under the chin.
+  • ATMOSPHERE: deep cosy cabin warmth, the hush of a snowy evening — the calm before the globe wakes.
+  • COLOUR GRADE: VIVID cosy — saturated warm amber + oatmeal + dark wood + cool blue frosted-window + the globe's tiny glow; cosy but vivid, full mid-tone.
+  • TEXTURE & MICRO-DETAIL: chunky cable-knit, dark-wood grain, brass-globe base, frost-feathering on glass, espresso braid with gold thread, cocoa steam, nude nail gloss.
+
 CUT LOGIC: ANGLE-CUT / LOOP back to CLIP 1; the next pass re-triggers the globe's self-shake when she settles.
 
 ### ☆ EXTERNAL AUDIO — BLOCK 1: BACKGROUND SOUND DESIGN / AMBIENCE BED — C-5
@@ -4848,6 +6328,23 @@ LIGHTING-IN-MOTION: harsh and hot, steady — about to be disrupted.
 DIEGETIC AUDIO: LOUD cicadas; a hot breeze; ice clinking in the glass; distant sea; her heat-breath; condensation dripping onto hot tile (a tiny sizzle-hiss).
 MASTER TRACK: a lazy summer guitar-loop (clean, muted) + a warm sub-bass pad + cicada-texture.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 2's START IMAGE must reproduce 100%, new angle only): at clip end she holds the sweating glass, about to sip, the blazing hot terrace around (heat-shimmer, bougainvillea, sea); white linen, caramel ponytail, heat-glow. CLIP 2 must open in this EXACT hot state (same blazing terrace, same glass at her lips, same wardrobe) — only the camera angle changes (to the close-up).
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 2 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the white linen collar at the throat — identical state.
+  • FOOTWEAR: out of frame.
+  • EYEWEAR: sunglasses on the head.
+  • ACCESSORIES: gold bangles on the glass-hand catching light, peach nails on the wet glass, small gold hoops.
+  • HAIR: the messy caramel ponytail, wispy pieces, heat-glow on the strands.
+  • MAKEUP: fresh sun-glow with a heat-sheen.
+  • HANDS & NAILS: both hands bringing the sweating glass to her lower lip, the rim making real contact; peach nails.
+  • FACIAL MICRO-DYNAMICS: the pre-sip — eyes closing in anticipation, lashes lowering, brow smoothing, lips parting to meet the rim; a held breath, the face of someone about to feel the best thing in the world.
+  • BODY POSTURE & WEIGHT: leaned slightly back, the glass raised, breathing.
+  • KINETIC STILLNESS (8 layers): (1) heat-shimmer in the bokeh; (2) a condensation droplet on the glass; (3) wispy ponytail pieces; (4) the linen collar shifting; (5) chest rising; (6) the first icy drop at her lip; (7) sea-sparkle behind; (8) lashes settling.
+  • SPATIAL LOGIC: FOREGROUND — the glass at her lips, sharp. MIDGROUND — her face. BACKGROUND — the hot terrace bougainvillea-and-sea bokeh.
+  • LIGHTING: KEY — harsh sun from above; the glass casting a cool blue-shadow on her chin. FILL — warm wall-bounce. RIM — hot sun-edge on the ponytail. PRACTICAL — sun, sea-sparkle. SEPARATION — bright bokeh behind the face. BOUNCE — warm under the jaw (about to flip cool).
+  • ATMOSPHERE: the held-breath instant before visceral relief.
+  • COLOUR GRADE: blazing VIVID summer about to INVERT — hot gold skin + icy glass, the moment before the cool-blue chill-wave. (Matches CLIP 1 END STATE.)
+  • TEXTURE & MICRO-DETAIL: glass condensation, the icy rim, real pores with a heat-sheen, lash detail, wispy strands.
+
 CUT LOGIC: hard ANGLE-CUT to CLIP 2 (close-up, face + glass). No motion-match; WORLD STATE matches 100%.
 
 ---
@@ -4893,6 +6390,23 @@ LIGHTING-IN-MOTION: the chill-wave carries a brief cool-blue light-shift washing
 DIEGETIC AUDIO: the sip (a cold gulp); THE CHILL — a deep satisfying bass-drop "WHOOOMPH" (chest-felt) + a crystalline frost-crackle spreading rapidly + a sharp cold breath-exhale; cicadas cutting to silence for one beat.
 MASTER TRACK: the lazy guitar strips to sub-bass anticipation, then a MASSIVE satisfying bass-DROP + a crystalline reverse-cymbal + a frozen beat of silence on the chill.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 3's START IMAGE must reproduce 100%, new angle only): at clip end a blue-white chill has bloomed — the glass frosted, her breath fogging, the nearest surfaces frosting; her face in dawning ecstasy; the terrace beginning to frost; white linen, caramel ponytail. CLIP 3 must open in this EXACT chill-bloom state (same frost, same cool-blue shift, same wardrobe) — only the angle changes (to the full-body hero).
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 3 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the white linen and terracotta pants with a faint frost-sheen over the fabric — identical state.
+  • FOOTWEAR: brown slide sandals on now-frosted terracotta tiles, frost-crystals around her feet.
+  • EYEWEAR: sunglasses on the head with a frost-edge.
+  • ACCESSORIES: frosted gold bangles, peach nails on the frosted glass, gold hoops with tiny snow-crystals.
+  • HAIR: the messy ponytail with tiny frost crystals caught, caramel against white.
+  • MAKEUP: fresh sun-glow now cool-lit, a cold-flush at the cheeks.
+  • HANDS & NAILS: the frosted glass held slightly raised (a toast to herself), her wet-cold fingers leaving clear prints; peach nails.
+  • FACIAL MICRO-DYNAMICS: pure cold-water ECSTASY — head tilted back, eyes closed, mouth in a slow satisfied "ahhh", every feature relaxed in complete relief — the universal "that hit" face.
+  • BODY POSTURE & WEIGHT: standing tall, head back, the glass raised, weight even, spine long, breathing.
+  • KINETIC STILLNESS (8 layers): (1) the whole terrace frosted white and crystalline; (2) steam rising where frost meets hot surfaces; (3) frost-crystals in the ponytail; (4) the linen frost-sheen; (5) chest rising on a relief-breath; (6) the bougainvillea ice-edged; (7) the sea still turquoise beyond (the frost only reaches so far); (8) a blissful slow micro-movement.
+  • SPATIAL LOGIC: FOREGROUND — frosted tiles. MIDGROUND — Aira in ecstasy. BACKGROUND — the frosted terrace, the unfrosted turquoise sea on the horizon.
+  • LIGHTING: KEY — the light briefly shifted to cool-blue (the sun filtered through the chill-wave). FILL — frost-refracted prismatic sparkle. RIM — a cool edge down her silhouette. PRACTICAL — frost-sparkle, the dimmed sun. SEPARATION — her warm skin against the cool-white frost. BOUNCE — cool frost-light up onto her face.
+  • ATMOSPHERE: a winter moment frozen into summer — visceral relief made a world.
+  • COLOUR GRADE: INVERTED VIVID — cool blue-white frost over the hot terracotta/pink/turquoise, a startling contrast; her warm skin-tone the only warm element. (Matches CLIP 2 END STATE.)
+  • TEXTURE & MICRO-DETAIL: dendritic frost-crystals, frost-sheen on linen, ice-edged bougainvillea, frost in the ponytail, steam where frost meets hot tile, prismatic sparkle.
+
 CUT LOGIC: hard ANGLE-CUT to CLIP 3 (full-body hero). No motion-match; WORLD STATE matches 100%.
 
 ---
@@ -4938,6 +6452,23 @@ LIGHTING-IN-MOTION: cool-blue shifting back to hot gold as the frost melts — t
 DIEGETIC AUDIO: the frost crackling as it melts (a cascade of tiny ice-breaks); steam hissing off hot tiles; dripping water; cicadas rushing back; her satisfied "ahhh"; the summer reclaiming.
 MASTER TRACK: the bass-drop tail; the lazy summer guitar returning warm as the frost melts.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 4's START IMAGE must reproduce 100%, new angle only): at clip end the frost is mostly melted, steam rising, the terrace warming back to hot; Aira lowering her head with a satisfied grin; white linen, caramel ponytail. CLIP 4 must open in this EXACT melting-back state (heat returning, last steam, same wardrobe) — only the angle changes (to the profile).
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 4 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the white linen top in profile (frost-sheen gone), terracotta pants — identical state.
+  • FOOTWEAR: out of frame.
+  • EYEWEAR: round sunglasses now lowered onto her eyes (a casual satisfied move).
+  • ACCESSORIES: dry gold bangles, gold hoops, peach nails on the glass set down on the table.
+  • HAIR: the messy ponytail in profile, caramel, sun-warm again.
+  • MAKEUP: fresh sun-glow, heat-sheen returning.
+  • HANDS & NAILS: she sets the glass back on the table with a decisive satisfied tap; peach nails.
+  • FACIAL MICRO-DYNAMICS: smug satisfied calm — a slow private smirk in profile, eyes hidden behind the lowered sunglasses, chin level, shoulders dropped in pure post-relief relaxation — "that was everything".
+  • BODY POSTURE & WEIGHT: an easy upright profile, weight settled, setting the glass down, breathing.
+  • KINETIC STILLNESS (8 layers): (1) heat-shimmer fully returned above the tiles; (2) the glass condensation beginning again; (3) wispy ponytail pieces in the hot breeze; (4) the linen shifting; (5) chest rising on a satisfied breath; (6) bougainvillea swaying (unfrosted); (7) the sea sparkling; (8) a slow content blink behind the shades.
+  • SPATIAL LOGIC: FOREGROUND — the glass being set down, sharp. MIDGROUND — her profile. BACKGROUND — the hot terrace, bougainvillea, sea.
+  • LIGHTING: KEY — harsh hot midday sun back to full. FILL — warm wall-bounce. RIM — hot sun-edge on the ponytail. PRACTICAL — sun, sea-sparkle. SEPARATION — bright sea behind the profile. BOUNCE — warm tile-light under the jaw.
+  • ATMOSPHERE: smug post-relief contentment — the heat reclaimed, the relief savoured.
+  • COLOUR GRADE: VIVID summer fully returned — terracotta, pink, turquoise, white, gold. (Matches CLIP 3 END STATE, heat back.)
+  • TEXTURE & MICRO-DETAIL: glass condensation re-forming, linen weave, wispy ponytail strands, heat-shimmer, peach nail gloss.
+
 CUT LOGIC: hard ANGLE-CUT to CLIP 4 (medium profile). No motion-match; WORLD STATE matches 100%.
 
 ---
@@ -4983,6 +6514,23 @@ LIGHTING-IN-MOTION: hot sun at full intensity — matched to the opening.
 DIEGETIC AUDIO: sunglasses sliding (a soft click); the glass-tap; the lean-back (railing creak); cicadas at full volume; hot breeze; her long satisfied exhale.
 MASTER TRACK: the lazy summer guitar warm and full again.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 5's START IMAGE must reproduce 100%, then loop): at clip end the terrace is fully hot again, Aira smug-calm with shades on, the glass set down; white linen, caramel ponytail. CLIP 5 must open in this EXACT hot state then reset to the CLIP-1 reach — same terrace, same wardrobe (shades back up).
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 5 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the white linen tied button-up, terracotta linen pants — matched to CLIP 1.
+  • FOOTWEAR: brown slide sandals, one ankle crossed — matched.
+  • EYEWEAR: round tortoise sunglasses pushed back up on the head — matched to CLIP 1.
+  • ACCESSORIES: gold bangles, gold hoops, peach nails; the re-sweating glass on the table — matched.
+  • HAIR: the high messy caramel-brown ponytail, wispy pieces — matched to CLIP 1.
+  • MAKEUP: fresh sun-glow with a heat-sheen — matched.
+  • HANDS & NAILS: her right hand reaching for the sweating glass, the left on the warm railing — matched to CLIP 1.
+  • FACIAL MICRO-DYNAMICS: heat-squint softening into thirst — the exact opening face.
+  • BODY POSTURE & WEIGHT: a relaxed railing-lean, weight on one hip, ankle crossed, reaching — mirror of CLIP 1.
+  • KINETIC STILLNESS (8 layers): (1) heat-shimmer above the tiles; (2) the glass sweating; (3) wispy pieces in the breeze; (4) the linen swaying; (5) chest rising; (6) bougainvillea swaying; (7) the sea sparkling; (8) a heat-squint blink — matched to CLIP 1.
+  • SPATIAL LOGIC: FOREGROUND — the sweating glass. MIDGROUND — Aira at the railing. BACKGROUND — the white terrace, bougainvillea, sea — matched to CLIP 1.
+  • LIGHTING: KEY — harsh overhead midday sun. FILL — warm wall-bounce. RIM — hot sun-edge on the ponytail. PRACTICAL — sun, sea-sparkle. SEPARATION — bright sea behind. BOUNCE — warm tile-light under the chin — matched to CLIP 1.
+  • ATMOSPHERE: blazing midday heat resuming — ready for the first sip again.
+  • COLOUR GRADE: VIVID summer — white, terracotta, hot-pink, turquoise, caramel — matched to CLIP 1.
+  • TEXTURE & MICRO-DETAIL: linen weave, glass condensation, heat-shimmer, terracotta grain, wispy strands, peach nails, sea-sparkle — matched.
+
 CUT LOGIC: hard ANGLE-CUT to CLIP 5 (full body). No motion-match; state resets to CLIP 1.
 
 ---
@@ -5028,6 +6576,23 @@ LIGHTING-IN-MOTION: harsh hot sun — matched to CLIP 1.
 DIEGETIC AUDIO: cicadas; hot breeze; glass condensation dripping; heat — back to the CLIP-1 bed.
 MASTER TRACK: the lazy summer guitar-loop resolves to the opening, looping cleanly.
 END STATE / STATE-MATCH LOCK: clip ends in the EXACT hot-terrace reach state and full-body angle of CLIP 1's START IMAGE — heat, wardrobe and thirsty expression matched, so the reel loops seamlessly.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 1 (LOOP back to opening) — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: a white linen cropped button-up tied at the waist over a simple top, high-waist terracotta linen wide-leg pants; breezy, sun-warmed.
+  • FOOTWEAR: brown leather flat slide sandals, one ankle crossed, relaxed.
+  • EYEWEAR: round tortoise-shell sunglasses pushed up on the head.
+  • ACCESSORIES: a stack of thin gold bangles, small gold hoops, soft peach glossy nails; the tall sweating glass of ice water on the table.
+  • HAIR: a high messy textured ponytail, sun-bleached caramel-brown, wispy face-framing pieces lifting in a hot breeze.
+  • MAKEUP: fresh sun-glow — luminous dewy skin with a faint heat-sheen, soft warm lip, real pores.
+  • HANDS & NAILS: her right hand reaching for the sweating glass, fingers spreading toward the cold condensation; the left resting on the warm railing; soft peach glossy nails.
+  • FACIAL MICRO-DYNAMICS: heat-discomfort softening into thirst — eyes slightly squinted against the glare, a faint glow-sheen on the skin, lips parted for a breath, brow relaxed but warm; about to reach relief.
+  • BODY POSTURE & WEIGHT: a relaxed lean on the railing, weight on one hip, one ankle crossed, reaching, spine long, alive.
+  • KINETIC STILLNESS (8 layers): (1) heat-shimmer waving above the terracotta tiles; (2) the glass sweating, a droplet sliding down; (3) wispy ponytail pieces lifting in the hot breeze; (4) the linen shirt-tails swaying; (5) chest rising on a warm breath; (6) hot-pink bougainvillea swaying; (7) the turquoise sea sparkling beyond; (8) a slow heat-squint blink.
+  • SPATIAL LOGIC: FOREGROUND — the sweating glass on the table, sharp. MIDGROUND — Aira at the railing. BACKGROUND — the white-washed terrace, bougainvillea, turquoise sea.
+  • LIGHTING: KEY — harsh direct overhead midday sun (strong top-key, short sharp shadows). FILL — warm bounce off white walls. RIM — a hot sun-edge on the ponytail. PRACTICAL — the blazing sun, sea-sparkle. SEPARATION — bright sea behind the figure. BOUNCE — warm tile-light under the chin.
+  • ATMOSPHERE: blazing Mediterranean midday heat, the parched moment before relief.
+  • COLOUR GRADE: VIVID summer — saturated white + terracotta + hot-pink bougainvillea + turquoise sea + caramel hair; blazing, glossy, full mid-tone.
+  • TEXTURE & MICRO-DETAIL: linen weave, glass condensation droplets, heat-shimmer distortion, terracotta-tile grain, wispy ponytail strands, peach nail gloss, sea-sparkle.
+
 CUT LOGIC: ANGLE-CUT / LOOP back to CLIP 1; the next pass re-triggers the chill-wave on the sip.
 
 ### ☆ EXTERNAL AUDIO — BLOCK 1: BACKGROUND SOUND DESIGN / AMBIENCE BED — D-1
@@ -5121,6 +6686,23 @@ LIGHTING-IN-MOTION: flat white, unchanged — building anticipation through inac
 DIEGETIC AUDIO: near-silence — white-room tone; the soft headphone placement (cushion compress, headband click); her breath; a FAINT distant beat beginning (muffled).
 MASTER TRACK: a single distant synth-note (the track's first hint), building.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 2's START IMAGE must reproduce 100%, new angle only): at clip end the headphones are on, her eyes closing in readiness, the white void still around, a faint beat teasing; black tank, space buns. CLIP 2 must open in this EXACT state (same white void, headphones on, same wardrobe) — only the angle changes (to the close-up); the drop hits within CLIP 2.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 2 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the black ribbed tank strap at the shoulder — identical state.
+  • FOOTWEAR: out of frame.
+  • EYEWEAR: none.
+  • ACCESSORIES: the black over-ear headphones ON covering her ears, the lightning-bolt pendant at the throat, black matte nails, silver rings.
+  • HAIR: space buns framing the headphones, tendrils catching the FIRST pulse of colour.
+  • MAKEUP: clean cool glow, the first electric-blue pulse on her face.
+  • HANDS & NAILS: her hands gripping the headphone cups, pressing them tighter to her ears (the "turn it UP" gesture); black matte nails.
+  • FACIAL MICRO-DYNAMICS: THE DROP HITS — eyes snap open wide, pupils dilating, brow shooting up on a sharp inhale; then the eyes narrow into fierce recognition and a slow wild grin breaks open (teeth showing, cheeks high) — the "this is MY song" face, transforming from waiting to TAKEN in one fluid melt.
+  • BODY POSTURE & WEIGHT: a head beginning a slow nod to the beat, shoulders loosening, alive.
+  • KINETIC STILLNESS (8 layers): (1) the grid-wall pulsing electric-blue, bars rising like an equalizer; (2) soundwave-rings beginning to pulse from the headphone cups; (3) tendrils catching colour; (4) the tank shifting; (5) chest on a sharp inhale; (6) catch-lights igniting in the eyes; (7) the first colour washing her face; (8) the head-nod beginning.
+  • SPATIAL LOGIC: FOREGROUND — soft. MIDGROUND — her face and headphones, sharp. BACKGROUND — the grid-wall igniting into an equalizer.
+  • LIGHTING: KEY — the first colour-pulse (electric blue) washing from the grid-wall. FILL — fading white. RIM — a colour-edge igniting on the buns. PRACTICAL — the equalizer-grid, soundwave-rings. SEPARATION — the igniting colour behind the face. BOUNCE — electric-blue on the jaw.
+  • ATMOSPHERE: the explosive instant your song hits and your body takes over.
+  • COLOUR GRADE: the FIRST colour entering the white void — electric blue pulsing, vivid against the clinical white, her skin catching the blue. (Inverts CLIP 1's flat white.)
+  • TEXTURE & MICRO-DETAIL: the equalizer bars, soundwave-ring light, glossy buns, real pores under the electric light, headphone matte-finish.
+
 CUT LOGIC: hard ANGLE-CUT to CLIP 2 (close-up). No motion-match; WORLD STATE matches 100%.
 
 ---
@@ -5165,6 +6747,23 @@ LIGHTING-IN-MOTION: colour EXPLODES from the grid — blue, then magenta, then g
 DIEGETIC AUDIO: THE BEAT DROPS (HARD — a heavy chest-hitting bass-kick, punchy); the soundwave-rings each a tonal "whoosh"; the equalizer bars a subtle crackle; her sharp inhale then a "YES" exhale.
 MASTER TRACK: this IS the song — a custom electronic build (Flume-meets-Disclosure) that DROPS hard here — full sub-bass, punchy kick, euphoric synth-lead, layered vocal chops.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 3's START IMAGE must reproduce 100%, new angle only): at clip end colour has exploded — the grid a full equalizer, soundwave-rings pulsing from her, her wild grin and head-nod; the room ignited. CLIP 3 must open in this EXACT state (same equalizer, same soundwaves, same colour, same wardrobe) — only the angle changes (to the full-body hero).
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 3 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the black tank and cargo jeans, the jacket now held in one hand swinging; fabric rippling with each bass-hit as if in slow-motion wind.
+  • FOOTWEAR: chunky white platform sneakers planted wide, a slight bounce in the knees with the rhythm.
+  • EYEWEAR: none.
+  • ACCESSORIES: headphones on, soundwave-rings pulsing continuously, the chain swinging, black matte nails.
+  • HAIR: space buns — tendrils floating/swaying with the beat as if underwater.
+  • MAKEUP: clean glow, electric multi-colour pulsing on her skin.
+  • HANDS & NAILS: one hand gripping a headphone cup, the other swinging the jacket in a slow arc; black matte nails.
+  • FACIAL MICRO-DYNAMICS: PURE EUPHORIA — eyes closed, head back, a wide free grin, completely lost in the music, every feature relaxed into abandon — the "no one's watching" face.
+  • BODY POSTURE & WEIGHT: a slight bounce-stance (knees soft, weight shifting with the beat), jacket swinging — pure vibe.
+  • KINETIC STILLNESS (8 layers): (1) the grid-wall a massive multi-colour equalizer (blue, magenta, gold, electric-green); (2) the floor pulsing colour on each beat; (3) soundwave-rings radiating from her in all directions; (4) tendrils floating with the bass; (5) the jacket swinging; (6) chest rising on a "WOO"; (7) the ceiling strobing; (8) a beat-synced shoulder-roll.
+  • SPATIAL LOGIC: FOREGROUND — pulsing floor-colour. MIDGROUND — Aira dancing. BACKGROUND — the massive equalizer-wall, strobing ceiling.
+  • LIGHTING: KEY — full multi-colour concert lighting, each beat a new colour blast. FILL — colour-bounce. RIM — neon edges on the buns and jacket. PRACTICAL — equalizer, soundwave-rings, floor-pulses, ceiling-strobe. SEPARATION — her silhouette against the equalizer. BOUNCE — colour-pulses underlight.
+  • ATMOSPHERE: peak euphoria — the body-takeover, lost in the song.
+  • COLOUR GRADE: ABSOLUTE MAXIMUM — every colour at full neon saturation, pulsing with the beat; the former white void now the most vivid frame in the set. (Matches CLIP 2 END STATE.)
+  • TEXTURE & MICRO-DETAIL: equalizer-bar detail, soundwave-ring light, bass-rippled fabric, glossy buns, neon catch-lights, floor-pulse glow.
+
 CUT LOGIC: hard ANGLE-CUT to CLIP 3 (full-body hero). No motion-match; WORLD STATE matches 100%.
 
 ---
@@ -5209,6 +6808,23 @@ LIGHTING-IN-MOTION: multi-colour pulses at full intensity, each beat a new colou
 DIEGETIC AUDIO: the FULL beat at maximum (bass-heavy, driving, euphoric); soundwave-ring whooshes in rhythm; bass-synced fabric-impacts; a joyful "WOO".
 MASTER TRACK: the song rides at full energy — the euphoric peak.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 4's START IMAGE must reproduce 100%, new angle only): at clip end the equalizer-room is at full euphoric intensity, Aira mid-dance lost in it; black tank, space buns. CLIP 4 must open in this EXACT state then the song begins to fade within CLIP 4 — same wardrobe, only the angle changes (to the profile).
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 4 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the black tank and jacket (back on the shoulders now), settling — identical state.
+  • FOOTWEAR: out of frame.
+  • EYEWEAR: none.
+  • ACCESSORIES: the headphones being slid off one ear (half-on); the chain settling; black matte nails.
+  • HAIR: space buns in profile, tendrils settling as the music fades.
+  • MAKEUP: clean glow, the last colour-pulses fading.
+  • HANDS & NAILS: one hand sliding a headphone cup off one ear (the "returning to reality" gesture); black matte nails.
+  • FACIAL MICRO-DYNAMICS: the comedown — a slow satisfied exhale, eyes opening heavy and pleased, the grin softening to a dreamy half-smile, lashes lowered; the "that was everything" afterglow.
+  • BODY POSTURE & WEIGHT: an easy upright profile, weight settling, breathing.
+  • KINETIC STILLNESS (8 layers): (1) the equalizer lowering to flat; (2) colour draining toward white; (3) tendrils settling; (4) the jacket resettling; (5) chest on a long exhale; (6) soundwaves dissipating; (7) the floor-pulse fading; (8) a slow heavy blink.
+  • SPATIAL LOGIC: FOREGROUND — soft. MIDGROUND — her profile, sharp. BACKGROUND — the dying colour-room draining to white.
+  • LIGHTING: KEY — colour fading back to flat white studio light. FILL — uniform returning. RIM — a last colour-edge on the buns. PRACTICAL — the dying equalizer, fading soundwaves. SEPARATION — fading colour behind the profile. BOUNCE — neutral returning.
+  • ATMOSPHERE: the dreamy comedown after the song — afterglow.
+  • COLOUR GRADE: TRANSITIONAL — vivid fading to white; the last pulses dying; clinical flatness returning. (Matches CLIP 3 END STATE, fading.)
+  • TEXTURE & MICRO-DETAIL: the headphone seal-release, glossy buns, real pores as the colour fades, jacket-leather grain, the dying equalizer.
+
 CUT LOGIC: hard ANGLE-CUT to CLIP 4 (medium profile). No motion-match; WORLD STATE matches 100%.
 
 ---
@@ -5253,6 +6869,23 @@ LIGHTING-IN-MOTION: flat white reasserting fully.
 DIEGETIC AUDIO: the beat fading (quieter, more muffled as the cup lifts); the headphone-seal pop; flat room-tone returning; her long exhale; silence settling.
 MASTER TRACK: the song filters/sweeps down and out, decaying to a single held note.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 5's START IMAGE must reproduce 100%, then loop): at clip end the room is draining to white, Aira in dreamy afterglow, a cup off one ear; black tank, space buns. CLIP 5 must open in the EXACT flat-white state then reset to the CLIP-1 headphone-lift — same studio, same wardrobe.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 5 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the black ribbed tank, white cargo jeans, jacket slung — matched to CLIP 1.
+  • FOOTWEAR: chunky white platform sneakers — matched.
+  • EYEWEAR: none.
+  • ACCESSORIES: headphones around the neck (off ears), lightning pendant, black matte nails, silver rings — matched.
+  • HAIR: space buns, tendrils — matched to CLIP 1.
+  • MAKEUP: clean cool glow — matched.
+  • HANDS & NAILS: her right hand lifting the headphones from her neck, the left at her side — matched to CLIP 1.
+  • FACIAL MICRO-DYNAMICS: anticipatory focus, lip-bite, brow set — the exact opening face (choosing the next song).
+  • BODY POSTURE & WEIGHT: a relaxed standing contrapposto, jacket slung — mirror of CLIP 1.
+  • KINETIC STILLNESS (8 layers): (1) the white void still; (2) the grey grid-wall static; (3) a tendril drifting; (4) the slung jacket shifting; (5) chest rising; (6) a clinical light-hum; (7) headphone cups catching a highlight; (8) a focused blink — matched to CLIP 1.
+  • SPATIAL LOGIC: FOREGROUND — Aira and headphones. MIDGROUND — the empty floor. BACKGROUND — the grid-wall, white void — matched to CLIP 1.
+  • LIGHTING: KEY — flat even white studio lighting. FILL — uniform. RIM — none. PRACTICAL — none. SEPARATION — minimal; her dark outfit. BOUNCE — even white — matched to CLIP 1.
+  • ATMOSPHERE: clinical anticipatory emptiness resuming — ready for the next drop.
+  • COLOUR GRADE: deliberately FLAT — white, grey, black only — matched to CLIP 1.
+  • TEXTURE & MICRO-DETAIL: ribbed tank, cargo stitching, leather grain, matte headphones, glossy buns, pendant, matte nails — matched.
+
 CUT LOGIC: hard ANGLE-CUT to CLIP 5 (three-quarter). No motion-match; state resets to CLIP 1.
 
 ---
@@ -5297,6 +6930,23 @@ LIGHTING-IN-MOTION: flat white — matched to CLIP 1.
 DIEGETIC AUDIO: silence; the faint distant beat beginning again (muffled, teasing); her anticipatory breath — back to the CLIP-1 bed.
 MASTER TRACK: the single distant synth-note returns, looping cleanly into the next build.
 END STATE / STATE-MATCH LOCK: clip ends in the EXACT flat-white headphone-lift state and three-quarter angle of CLIP 1's START IMAGE — white void, wardrobe and focused expression matched, so the reel loops seamlessly.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 1 (LOOP back to opening) — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: a fitted black ribbed tank-top, oversized low-slung white cargo jeans with black stitching, a cropped black leather jacket slung over one shoulder; cool, modest.
+  • FOOTWEAR: chunky white platform sneakers with black accents.
+  • EYEWEAR: none.
+  • ACCESSORIES: oversized black over-ear headphones around her neck, a chain necklace with a lightning-bolt pendant, black matte nails, two thin silver rings.
+  • HAIR: space buns (two high symmetrical buns), sleek glossy black, two thin face-framing tendrils.
+  • MAKEUP: clean cool glow — luminous skin, soft neutral lip, subtle defined eye, real pores.
+  • HANDS & NAILS: her right hand lifting the headphones from her neck toward her ears, fingers hooked under the headband; the left at her side; black matte nails.
+  • FACIAL MICRO-DYNAMICS: anticipatory focus — eyes slightly narrowed in concentration, one lip lightly bitten, brow set; choosing the song, the moment before the moment.
+  • BODY POSTURE & WEIGHT: a relaxed standing contrapposto, jacket slung, weight on one hip, spine long, alive.
+  • KINETIC STILLNESS (8 layers): (1) the white void utterly still; (2) the faint grey grid-wall static behind; (3) a face-framing tendril drifting; (4) the slung jacket shifting; (5) chest rising on a ready breath; (6) a faint clinical light-hum; (7) the headphone cups catching a soft highlight; (8) a slow focused blink.
+  • SPATIAL LOGIC: FOREGROUND — Aira and the headphones, sharp. MIDGROUND — the empty white floor. BACKGROUND — the faint grey grid-wall, blank white void.
+  • LIGHTING: KEY — flat even white studio lighting (bright, clinical, no shadow). FILL — uniform. RIM — none. PRACTICAL — none (deliberately bland). SEPARATION — minimal; the white swallows contrast except her dark outfit. BOUNCE — even white.
+  • ATMOSPHERE: clinical anticipatory emptiness — the held breath before the drop.
+  • COLOUR GRADE: deliberately FLAT — white, grey, black only (her outfit the only dark element); no colour, setting up the explosion.
+  • TEXTURE & MICRO-DETAIL: ribbed-tank texture, cargo-denim stitching, leather-jacket grain, the headphones' matte finish, glossy space buns, lightning pendant, matte nails.
+
 CUT LOGIC: ANGLE-CUT / LOOP back to CLIP 1; the next pass re-triggers the equalizer-explosion on the drop.
 
 ### ☆ EXTERNAL AUDIO — BLOCK 1: BACKGROUND SOUND DESIGN / AMBIENCE BED — D-2
@@ -5391,6 +7041,23 @@ LIGHTING-IN-MOTION: the amber particulates glow with their own warm light, addin
 DIEGETIC AUDIO: pre-storm tension (distant thunder, leaves flipping, electric air); the first fat drop hitting pavement (a decisive "SPLAT"); the pavement HISS of heat releasing; the golden cloud rising (a soft warm whoosh); her sharp delighted inhale.
 MASTER TRACK: sparse placed piano notes + distant thunder; a deep sub-bass beginning to bloom on the first drop.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 2's START IMAGE must reproduce 100%, new angle only): at clip end golden petrichor-clouds are rising and swirling around her, the storm beginning, her face in dawning delight; white sundress, chocolate waves. CLIP 2 must open in this EXACT state (same golden petrichor, same beginning rain, same wardrobe) — only the angle changes (to the close-up).
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 2 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the white sundress straps, wet-spotting beginning — identical state.
+  • FOOTWEAR: out of frame.
+  • EYEWEAR: none.
+  • ACCESSORIES: the gold chain catching a drop, gold hoops, natural nails.
+  • HAIR: chocolate waves beginning to darken with the first wet drops, one strand clinging to her cheek.
+  • MAKEUP: fresh bare glow, lit golden by the petrichor.
+  • HANDS & NAILS: out of frame mostly; a hand may rise near her collarbone; natural nails.
+  • FACIAL MICRO-DYNAMICS: the DEEP INHALE — the full-body sensory takeover. Eyes closed tight (savouring), nostrils wide, chest expanding, lips parted in a soft "O" of pleasure, brow smooth and open. Then: eyes open slowly and BRIGHT — lit from within, dilated, as if the scent filled her; a slow sensory complete smile.
+  • BODY POSTURE & WEIGHT: head tilted slightly back, chest expanding on the inhale, breathing.
+  • KINETIC STILLNESS (8 layers): (1) golden petrichor-clouds swirling around her head like a halo; (2) the clouds drawn toward her inhale; (3) a wet strand on the cheek; (4) the dress straps wet-spotting; (5) chest expanding on the inhale; (6) a raindrop on her lower lip; (7) the clouds glowing brighter near her mouth/nose; (8) lashes settling.
+  • SPATIAL LOGIC: FOREGROUND — soft golden petrichor near lens. MIDGROUND — her face, sharp. BACKGROUND — the swirling golden halo, increasing rain.
+  • LIGHTING: KEY — the golden petrichor-glow as a warm ambient. FILL — the storm's amber-grey. RIM — golden petrichor backlighting her hair. PRACTICAL — the glowing clouds, the sun-shaft. SEPARATION — the golden halo behind her face. BOUNCE — warm petrichor-glow on the skin (and from within as it enters).
+  • ATMOSPHERE: the deep sensory inhale — "I missed this".
+  • COLOUR GRADE: VIVID — golden petrichor-glow against storm-purple sky, the warmth of the smell against the cool rain. (Matches CLIP 1 END STATE.)
+  • TEXTURE & MICRO-DETAIL: golden particulate detail, a raindrop on the lip, real pores in the golden glow, wet-strand on the cheek, lash detail.
+
 CUT LOGIC: hard ANGLE-CUT to CLIP 2 (close-up). No motion-match; WORLD STATE matches 100%.
 
 ---
@@ -5436,6 +7103,23 @@ LIGHTING-IN-MOTION: the golden glow intensifies as the particles concentrate at 
 DIEGETIC AUDIO: the deep inhale (cinematic, resonant); the golden particles' soft warm harmonic hum as they swirl; raindrops increasing (patter building); the pavement hiss; a soft bass note as the glow enters her.
 MASTER TRACK: the sub-bass BLOOM + a warm analog pad swelling with the inhale-glow.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 3's START IMAGE must reproduce 100%, new angle only): at clip end she has breathed the petrichor in, her silhouette faintly glowing gold from within, the rain increasing, her sensory smile blooming; white sundress, wet chocolate waves. CLIP 3 must open in this EXACT state (same inner-glow, same increasing rain, same wardrobe) — only the angle changes (to the full-body hero).
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 3 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the white sundress now rain-soaked and clinging (still modest), faintly glowing golden from within.
+  • FOOTWEAR: barefoot on the wet pavement, rain-splashes around her feet, golden light reflecting in forming puddles.
+  • EYEWEAR: none.
+  • ACCESSORIES: the gold chain dark-wet, hoops with rain-drops, natural nails; the sandals still in hand, forgotten.
+  • HAIR: waves now wet and heavy, clinging to her shoulders, darkened by rain but glowing faintly gold from the petrichor inside.
+  • MAKEUP: fresh bare glow, rain on her face, lit gold from within.
+  • HANDS & NAILS: arms slightly out, palms up catching rain; natural nails.
+  • FACIAL MICRO-DYNAMICS: transcendent relief — face up in the rain, eyes closed, the broadest most genuine smile, rain running down her face, every muscle released; the "standing in the rain and loving it" face.
+  • BODY POSTURE & WEIGHT: a grounded heroic stance, arms slightly out, face up, weight even, spine long, breathing.
+  • KINETIC STILLNESS (8 layers): (1) the full storm pouring, the city disappearing in grey sheets; (2) golden petrichor still rising from every raindrop-impact around her; (3) her internal golden glow pulsing gently (heartbeat); (4) the wet dress clinging; (5) chest rising; (6) lightning flickering in the far clouds; (7) puddles forming and rippling with golden reflections; (8) rain streaming down her face.
+  • SPATIAL LOGIC: FOREGROUND — rain falling toward the lens. MIDGROUND — Aira glowing in the storm. BACKGROUND — the grey storm, the city dissolving, golden petrichor rising everywhere.
+  • LIGHTING: KEY — dramatic storm-light (dark purple sky) + the golden petrichor-glow from below (all the rising clouds) + her internal golden glow = she's the light-source in the storm. FILL — cool storm-grey. RIM — golden-gold edge on her wet silhouette. PRACTICAL — petrichor-glow, lightning, puddle-reflections. SEPARATION — her glowing form against the grey storm. BOUNCE — golden uplight.
+  • ATMOSPHERE: transcendent rain-relief — a lantern of scent in the storm.
+  • COLOUR GRADE: MAXIMUM VIVID — dark storm-purple + golden petrichor-amber + her white-and-gold glowing form; she's a lantern in the rain. (Matches CLIP 2 END STATE.)
+  • TEXTURE & MICRO-DETAIL: heavy rain-streaks, golden petrichor rising from impacts, her internal glow pulse, wet-clinging fabric with surface tension, rain on her skin, forming puddles.
+
 CUT LOGIC: hard ANGLE-CUT to CLIP 3 (full-body hero). No motion-match; WORLD STATE matches 100%.
 
 ---
@@ -5481,6 +7165,23 @@ LIGHTING-IN-MOTION: her golden inner-glow brightest here; golden petrichor risin
 DIEGETIC AUDIO: FULL STORM — heavy immersive rain-impact; distant thunder rolling; golden clouds rising (a warm sub-bass humming chorus); her joyful exhale-laugh; the pavement hiss at maximum; rain on her skin (a close intimate patter).
 MASTER TRACK: full immersive rain-texture + the warm pad + the sub-bass bloom at its fullest — the emotional peak.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 4's START IMAGE must reproduce 100%, new angle only): at clip end she stands transcendent in the full storm, glowing gold from within, golden petrichor rising; white wet dress, wet chocolate waves. CLIP 4 must open in this EXACT state then the storm begins to pass within CLIP 4 — same wardrobe, only the angle changes (to the profile).
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 4 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the wet white sundress in profile — identical state.
+  • FOOTWEAR: out of frame.
+  • EYEWEAR: none.
+  • ACCESSORIES: the wet gold chain, a hoop with a raindrop hanging, natural nails.
+  • HAIR: wet chocolate waves in profile, heavy and dark, rain-dripping.
+  • MAKEUP: fresh bare glow, rain on the skin, the inner-glow fading.
+  • HANDS & NAILS: she lifts the sandals in her hand slightly — remembering them, real-world returning; natural nails.
+  • FACIAL MICRO-DYNAMICS: post-experience peace — eyes open in profile looking at the clearing sky, a slow exhale (last warm breath-vapour), the smile settled to a gentle complete calm; the "I got what I needed" face.
+  • BODY POSTURE & WEIGHT: an upright profile, weight centred, lifting the sandals, breathing.
+  • KINETIC STILLNESS (8 layers): (1) rain thinning to drips; (2) golden clouds fading to nothing; (3) wet waves dripping; (4) the dress dripping; (5) chest on a settling breath; (6) a cloud-break showing blue; (7) the pavement steaming normally (cooling); (8) her inner-glow dimming out.
+  • SPATIAL LOGIC: FOREGROUND — soft drips. MIDGROUND — her profile, sharp. BACKGROUND — the clearing storm, fresh post-rain light.
+  • LIGHTING: KEY — storm-light brightening as clouds part; fresh post-storm light beginning. FILL — cool clearing. RIM — a fresh light-edge on the wet hair. PRACTICAL — the cloud-break, fading petrichor. SEPARATION — her profile against the clearing sky. BOUNCE — fresh light under the jaw.
+  • ATMOSPHERE: post-storm peace — the sensation fulfilled, the calm after.
+  • COLOUR GRADE: TRANSITIONAL — storm fading, fresh cleaner cooler light arriving, the golden dimming, her white dress brightening. (Matches CLIP 3 END STATE, clearing.)
+  • TEXTURE & MICRO-DETAIL: wet-wave detail, breath-vapour, dripping dress, fresh post-rain light, cooling-pavement steam.
+
 CUT LOGIC: hard ANGLE-CUT to CLIP 4 (medium profile). No motion-match; WORLD STATE matches 100%.
 
 ---
@@ -5526,6 +7227,23 @@ LIGHTING-IN-MOTION: golden fading; fresh post-storm light (cleaner, cooler) arri
 DIEGETIC AUDIO: rain thinning to drips; the last golden hum fading; birds beginning after the storm; a fresh breeze; her exhale; dripping from awnings.
 MASTER TRACK: the rain-texture thins; the pad fades; the placed piano notes return.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 5's START IMAGE must reproduce 100%, then loop): at clip end the storm has passed, fresh light, her gentle calm; wet white dress, chocolate waves. CLIP 5 must open by RESETTING to the pre-storm sensing — same sidewalk (drying/hot again), same wardrobe (drying), another storm gathering.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 5 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the white cotton sundress — matched to CLIP 1 (drying).
+  • FOOTWEAR: barefoot, sandals in hand — matched.
+  • EYEWEAR: none.
+  • ACCESSORIES: thin gold chain, gold hoops, natural nails, sandals dangling — matched.
+  • HAIR: long chocolate waves, middle part, drying, mid-back — matched to CLIP 1.
+  • MAKEUP: fresh bare glow — matched.
+  • HANDS & NAILS: sandals dangling from two fingers, the left palm open at her side — matched to CLIP 1.
+  • FACIAL MICRO-DYNAMICS: sensory anticipation returning — eyes closing, face up, nostrils flaring — the exact opening face (another storm coming).
+  • BODY POSTURE & WEIGHT: a relaxed open stance, head up, palm open — mirror of CLIP 1.
+  • KINETIC STILLNESS (8 layers): (1) new storm-clouds darkening; (2) heat-shimmer returning off the pavement; (3) waves lifting in a new pre-storm gust; (4) the dress hem fluttering; (5) chest rising on a sensing breath; (6) tree-leaves flipping; (7) the amber light-shaft returning; (8) a sensing eyelash settle — matched to CLIP 1.
+  • SPATIAL LOGIC: FOREGROUND — the hot pavement. MIDGROUND — Aira sensing. BACKGROUND — the gathering storm-sky — matched to CLIP 1.
+  • LIGHTING: KEY — amber-grey pre-storm light returning, the sun-shaft. FILL — electric ambient. RIM — amber edge on the hair. PRACTICAL — the sun-shaft, distant city. SEPARATION — bright dress against the darkening world. BOUNCE — warm pavement-heat — matched to CLIP 1.
+  • ATMOSPHERE: the charged pre-storm hush resuming — another storm gathering.
+  • COLOUR GRADE: dramatic storm-VIVID — dark-purple clouds, amber sun-shaft, hot pavement, white dress, green leaves — matched to CLIP 1.
+  • TEXTURE & MICRO-DETAIL: cotton weave, heat-shimmer, asphalt grain, wave texture, leaf-flip, gold-chain glint, natural nails — matched.
+
 CUT LOGIC: hard ANGLE-CUT to CLIP 5 (full body). No motion-match; state resets to CLIP 1.
 
 ---
@@ -5571,6 +7289,23 @@ LIGHTING-IN-MOTION: amber-grey storm-light returning — matched to CLIP 1.
 DIEGETIC AUDIO: cicadas returning; distant thunder growing; the electric air; the pavement heating — back to the CLIP-1 bed.
 MASTER TRACK: the sparse placed piano + distant thunder returns, looping cleanly.
 END STATE / STATE-MATCH LOCK: clip ends in the EXACT pre-storm sensing state and full-body angle of CLIP 1's START IMAGE — gathering storm, wardrobe and sensing expression matched, so the reel loops seamlessly.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 1 (LOOP back to opening) — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: a simple white cotton sundress, thin straps, just above the knee, breezy in the pre-storm wind.
+  • FOOTWEAR: barefoot on hot dark asphalt, the tan leather sandals hooked on two fingers of her right hand.
+  • EYEWEAR: none.
+  • ACCESSORIES: a single thin gold chain, tiny gold hoop earrings, natural glossy nails; the sandals dangling.
+  • HAIR: long loose natural waves, dark chocolate-brown, middle part, air-dried, mid-back, lifting in the pre-storm gust.
+  • MAKEUP: fresh bare glow — luminous skin, soft natural lip, real pores.
+  • HANDS & NAILS: the sandals dangling from two fingers of the right hand; the left hand slightly open at her side, palm up, waiting for the first drop; natural glossy nails.
+  • FACIAL MICRO-DYNAMICS: sensory anticipation — eyes closed, face tilted up, nostrils slightly flared (smelling the coming rain), lips parted, brow relaxed into openness; the "it's about to rain" face.
+  • BODY POSTURE & WEIGHT: a relaxed open stance, head up, weight even, one palm open, spine long, alive.
+  • KINETIC STILLNESS (8 layers): (1) dramatic storm-clouds rolling overhead; (2) heat-shimmer waving off the hot pavement; (3) waves of hair lifting in the pre-storm wind; (4) the sundress hem fluttering; (5) chest rising on a deep sensing breath; (6) tree-leaves flipping silver in the gust; (7) the amber light-shaft breaking through one cloud-gap; (8) a slow sensing eyelash settle.
+  • SPATIAL LOGIC: FOREGROUND — the hot dark pavement, sharp. MIDGROUND — Aira sensing. BACKGROUND — the dramatic storm-sky, receding buildings, the flipping tree.
+  • LIGHTING: KEY — dramatic pre-storm amber-grey light, a single sun-shaft through a cloud-gap. FILL — electric ambient. RIM — a faint amber edge on the hair. PRACTICAL — the sun-shaft, distant city. SEPARATION — the bright white dress against the darkening world. BOUNCE — warm pavement-heat up onto her.
+  • ATMOSPHERE: the electric charged hush before a summer storm breaks.
+  • COLOUR GRADE: dramatic storm-VIVID — saturated dark-purple clouds + amber sun-shaft + hot dark pavement + white dress + green flipping leaves; electric tension, full mid-tone.
+  • TEXTURE & MICRO-DETAIL: crisp cotton weave, heat-shimmer distortion, asphalt grain, air-dried wave texture, the silver leaf-flip, gold-chain glint, natural nail gloss.
+
 CUT LOGIC: ANGLE-CUT / LOOP back to CLIP 1; the next pass re-triggers the petrichor on the first drop.
 
 ### ☆ EXTERNAL AUDIO — BLOCK 1: BACKGROUND SOUND DESIGN / AMBIENCE BED — D-3
@@ -5665,6 +7400,23 @@ LIGHTING-IN-MOTION: the lamp-glow softens, the frame edges dim, a subtle cool-bl
 DIEGETIC AUDIO: near-silence — only her breath (slow, deepening); a faint distant wind-tone (sleep approaching); the room losing its sounds (a clock-tick fading out); ASMR-intimate proximity to her breathing.
 MASTER TRACK: an intimate solo piano + a warm held pad (like breathing).
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 2's START IMAGE must reproduce 100%, new angle only): at clip end her eyes are barely open, the bedroom edges dissolving into soft cloud-forms, a cool-blue dreamspace creeping in; white camisole, black hair haloed. CLIP 2 must open in this EXACT dissolving state (same blur, same creeping dreamspace, same wardrobe) — only the angle changes (to the bedside medium).
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 2 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the white camisole, one strap sliding off the shoulder (she's not adjusting it — gone) — identical state.
+  • FOOTWEAR: out of frame.
+  • EYEWEAR: none.
+  • ACCESSORIES: the thin chain lifting slightly off her chest (gravity loosening), bare nails.
+  • HAIR: black hair beginning to FLOAT upward off the pillow — individual strands lifting as gravity weakens.
+  • MAKEUP: bare real fresh, lit by dream-luminescence.
+  • HANDS & NAILS: one hand floating slightly off the dissolving surface, fingers relaxed; bare nails.
+  • FACIAL MICRO-DYNAMICS: sleep has WON — eyes fully closed now, every feature perfectly slack, lips barely parted, breath visible as a soft cloud in the cooling air; not a "care" expression — a "no longer there" peace.
+  • BODY POSTURE & WEIGHT: lying, beginning to lift off the dissolving bed in the sleeping pose, weightless, breathing slow.
+  • KINETIC STILLNESS (8 layers): (1) the bedroom 50% dissolved — walls fading to cloud-forms, the ceiling gone, a starfield appearing; (2) lavender clouds forming where furniture was; (3) hair strands lifting; (4) the camisole drifting weightless; (5) chest rising slow; (6) the chain floating off her chest; (7) the duvet lifting/floating; (8) a slack peaceful stillness.
+  • SPATIAL LOGIC: FOREGROUND — the last solid bed-edge. MIDGROUND — Aira beginning to float. BACKGROUND — the dissolving room becoming cloud-and-star dreamspace.
+  • LIGHTING: KEY — sourceless dreamspace luminescence (soft, even). FILL — fading warm lamp. RIM — a soft cloud-glow edge. PRACTICAL — the emerging starfield, fading lamp. SEPARATION — her form against the soft clouds. BOUNCE — soft lavender on her skin.
+  • ATMOSPHERE: the dissolution of reality at the threshold of sleep, tender and weightless.
+  • COLOUR GRADE: dreamspace palette emerging — soft lavender clouds, warm-white stars, her black hair and white camisole as the remaining contrast; ethereal, not harsh. (Matches CLIP 1 END STATE.)
+  • TEXTURE & MICRO-DETAIL: zero-gravity hair-strands, drifting camisole fabric, the floating chain, soft cloud-forms, breath-vapour.
+
 CUT LOGIC: hard ANGLE-CUT to CLIP 2 (medium, bedside). No motion-match; WORLD STATE matches 100%.
 
 ---
@@ -5710,6 +7462,23 @@ LIGHTING-IN-MOTION: sourceless dreamspace luminescence (soft, even from all dire
 DIEGETIC AUDIO: absolute hush — only her deep slow breathing; a soft distant cosmic hum; the chain lifting off skin (barely audible); the sound of space (vast, quiet, enveloping).
 MASTER TRACK: the piano fades, the pad grows vast, a sub-bass entering as the dreamspace opens.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 3's START IMAGE must reproduce 100%, new angle only): at clip end the bed is gone, she floats in a vast cloud-and-star dreamspace, hair streaming, asleep; white camisole. CLIP 3 must open in this EXACT dreamspace-float (same clouds, same stars, same zero-g pose, same wardrobe) — only the angle changes (to the full-body float).
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 3 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the white camisole and white sleep shorts (now visible in full body), fabric floating free of her body; modest.
+  • FOOTWEAR: bare feet, toes pointed naturally in the float, relaxed.
+  • EYEWEAR: none.
+  • ACCESSORIES: the thin chain floating in a gentle arc above her collarbone, bare nails, bare feet.
+  • HAIR: black hair streaming and spread in zero-gravity like an ink-painting in water — the most visually striking element.
+  • MAKEUP: bare real fresh, nebula-tinted (soft pink/blue).
+  • HANDS & NAILS: one arm drifting, the other relaxed; a sleep-hand near her face; bare nails.
+  • FACIAL MICRO-DYNAMICS: absolute peace — face completely slack, eyes closed, breathing barely visible, the ultimate rest; mouth slightly open, one cheek faintly compressed by the ghost-memory of the pillow; deeply human, real sleep.
+  • BODY POSTURE & WEIGHT: a natural sleep-position suspended (slightly fetal, one arm drifting, knees slightly drawn), weightless, breathing slow.
+  • KINETIC STILLNESS (8 layers): (1) soft lavender clouds drifting below and around; (2) a gentle starfield above; (3) hair drifting like ink in water; (4) the camisole and shorts fabric floating free; (5) chest rising barely; (6) distant nebula-colour washes pulsing (soft pink, blue); (7) the chain orbiting slowly; (8) a tiny unconscious sleep-finger-twitch.
+  • SPATIAL LOGIC: FOREGROUND — soft drifting clouds. MIDGROUND — her floating form, the only solid thing. BACKGROUND — the infinite dreamspace, starfield, nebula.
+  • LIGHTING: KEY — sourceless ambient from the clouds themselves. FILL — starlight. RIM — nebula-colour casting soft tints on her skin. PRACTICAL — clouds, stars, nebula. SEPARATION — her form against the soft void. BOUNCE — soft lavender-and-nebula on her skin.
+  • ATMOSPHERE: absolute peace — real, deep, weightless sleep.
+  • COLOUR GRADE: dreamy but VIVID where it counts — lavender clouds + pink/blue nebula hints + white camisole + her black hair spreading dramatic; ethereal maximum, soft. (Matches CLIP 2 END STATE.)
+  • TEXTURE & MICRO-DETAIL: ink-in-water hair-spread, weightless fabric, the orbiting chain, volumetric cloud-drift, real slack-sleep skin.
+
 CUT LOGIC: hard ANGLE-CUT to CLIP 3 (full-body float). No motion-match; WORLD STATE matches 100%.
 
 ---
@@ -5755,6 +7524,23 @@ LIGHTING-IN-MOTION: the orbit causes the nebula-tints to shift across her skin (
 DIEGETIC AUDIO: near-silence with depth — a vast cosmic ambience (like the inside of a shell, but infinite); her breath (slow, intimate, the only human sound); a faint high tone (the sound of stars).
 MASTER TRACK: pure sub-bass + cosmic shimmer + breath in infinite reverb — the void.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 4's START IMAGE must reproduce 100%, new angle only): at clip end she floats in deep peaceful sleep in the dreamspace; white camisole, black hair spread. CLIP 4 must open by RESETTING toward the return — she settles back onto the reforming bed; same wardrobe, the room re-forming.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 4 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the white camisole strap back on the shoulder — identical state.
+  • FOOTWEAR: out of frame.
+  • EYEWEAR: none.
+  • ACCESSORIES: the chain settling back to her skin, bare nails.
+  • HAIR: black hair settling back onto the pillow from the float, re-forming the halo.
+  • MAKEUP: bare real fresh, warm lamp returning.
+  • HANDS & NAILS: her fingers curling slightly on the pillow — grasping at the fading dream; bare nails.
+  • FACIAL MICRO-DYNAMICS: the FLUTTER — eyelids fighting to open, a tiny twitch, almost waking; the edge from the other side, coming back but not wanting to.
+  • BODY POSTURE & WEIGHT: settling back onto the solid bed, head re-settling into the pillow, breathing.
+  • KINETIC STILLNESS (8 layers): (1) the room re-forming (nightstand materializing, lamp returning, walls solidifying from cloud); (2) the lamp-glow returning warm; (3) hair settling onto the pillow; (4) the duvet re-settling over her; (5) chest rising; (6) the starfield fading from the ceiling; (7) the dream-luminescence giving way to lamp-amber; (8) an eyelid-flutter.
+  • SPATIAL LOGIC: FOREGROUND — her face on the pillow, sharp. MIDGROUND — the white linen. BACKGROUND — the bedroom re-forming at the edges.
+  • LIGHTING: KEY — the warm bedside-lamp returning from one side. FILL — dim. RIM — none. PRACTICAL — the re-materializing lamp, nightstand. SEPARATION — soft, warming back. BOUNCE — warm amber on her cheek.
+  • ATMOSPHERE: the gentle return from the dream-void — coming back, half-reluctant.
+  • COLOUR GRADE: TRANSITIONAL — dreamspace lavender fading, warm amber lamp returning. (Matches CLIP 3 END STATE, returning.)
+  • TEXTURE & MICRO-DETAIL: hair re-settling on linen, the re-forming nightstand, the duvet draping, real sleep-soft skin, an eyelid-flutter.
+
 CUT LOGIC: hard ANGLE-CUT to CLIP 4 (close-up overhead, returning). No motion-match; state begins the return.
 
 ---
@@ -5800,6 +7586,23 @@ LIGHTING-IN-MOTION: lamp-glow at full return; dream-luminescence gone.
 DIEGETIC AUDIO: the vast cosmic sound fading; room sounds returning (clock-tick, ambient hum); the duvet settling (a fabric whisper); her slightly louder breath as she approaches waking.
 MASTER TRACK: the sub recedes, the intimate piano notes returning.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 5's START IMAGE must reproduce 100%, then loop): at clip end the room is solid again, lamp warm, she's near-waking with a flutter; white camisole, black hair haloed. CLIP 5 must open in the EXACT solid-bedroom state then reset to the CLIP-1 heavy-eyed sink — same room, same wardrobe.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 5 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the white cotton sleep-camisole — matched to CLIP 1.
+  • FOOTWEAR: out of frame.
+  • EYEWEAR: none.
+  • ACCESSORIES: the thin chain at the throat, bare nails, white linen pillow and duvet — matched.
+  • HAIR: loose soft natural black hair in a halo on the white pillow — matched to CLIP 1.
+  • MAKEUP: bare real fresh — matched.
+  • HANDS & NAILS: one hand beside her face on the pillow, fingers curled loosely — matched to CLIP 1.
+  • FACIAL MICRO-DYNAMICS: the edge of sleep returning — eyelids heavy, three-quarter closed, a slow blink beginning — the exact opening face.
+  • BODY POSTURE & WEIGHT: lying on the pillow, head settled into the linen, relaxed — mirror of CLIP 1.
+  • KINETIC STILLNESS (8 layers): (1) the bedroom solid; (2) the lamp-glow warm; (3) a face-framing piece drifting; (4) the duvet rising/falling with her breath; (5) chest rising slow; (6) the pillow texture sharp; (7) a clock-tick faint; (8) a heavy eyelash settle — matched to CLIP 1.
+  • SPATIAL LOGIC: FOREGROUND — her face on the pillow. MIDGROUND — the white linen. BACKGROUND — the solid bedroom edges (lamp, nightstand) — matched to CLIP 1.
+  • LIGHTING: KEY — soft warm bedside-lamp glow. FILL — dim. RIM — none. PRACTICAL — the lamp, the book on the nightstand. SEPARATION — soft, sleepy. BOUNCE — warm amber on her cheek — matched to CLIP 1.
+  • ATMOSPHERE: the intimate hush of the edge of sleep — about to drift again.
+  • COLOUR GRADE: soft warm bedside-amber — white linen, warm skin, lamp-amber, black hair — matched to CLIP 1.
+  • TEXTURE & MICRO-DETAIL: linen weave, sleep-soft skin, hair-strands on the pillow, the duvet fold, the thin chain — matched.
+
 CUT LOGIC: hard ANGLE-CUT to CLIP 5 (close-up overhead). No motion-match; state resets to CLIP 1.
 
 ---
@@ -5845,6 +7648,23 @@ LIGHTING-IN-MOTION: warm lamp — matched to CLIP 1.
 DIEGETIC AUDIO: the clock-tick; the lamp; her slowing breath — back to the CLIP-1 bed.
 MASTER TRACK: the intimate piano + pad settles, looping cleanly into the next sleep-approach.
 END STATE / STATE-MATCH LOCK: clip ends in the EXACT heavy-eyed face-on-pillow state and overhead angle of CLIP 1's START IMAGE — solid room, wardrobe and edge-of-sleep expression matched, so the reel loops seamlessly.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 1 (LOOP back to opening) — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: a soft white cotton sleep-camisole, thin straps, one visible at the shoulder.
+  • FOOTWEAR: out of frame (lying down).
+  • EYEWEAR: none.
+  • ACCESSORIES: a single thin chain barely visible at the throat, bare natural-pink nails; white linen pillow and duvet.
+  • HAIR: loose soft natural black hair spread on the white pillow in a soft halo, face-framing pieces falling across the brow and cheek.
+  • MAKEUP: bare real fresh — luminous no-makeup skin, soft natural lip, real pores.
+  • HANDS & NAILS: one hand resting beside her face on the pillow, fingers curled loosely; bare natural-pink nails.
+  • FACIAL MICRO-DYNAMICS: the edge of sleep — eyelids HEAVY (three-quarter closed, fighting to stay open), a slow blink taking longer and longer, brow completely smooth and released, lips barely parted, jaw soft and slack; the face between waking and sleeping.
+  • BODY POSTURE & WEIGHT: lying on the pillow, head settled into the linen, completely relaxed, breathing slow.
+  • KINETIC STILLNESS (8 layers): (1) the bedroom edges beginning to blur and soften; (2) the lamp-glow softening; (3) a face-framing piece drifting; (4) the duvet rising/falling with her breath; (5) chest rising slow; (6) the pillow texture beginning to blur; (7) a faint cool-blue creeping at the frame edge; (8) a long heavy eyelash settle.
+  • SPATIAL LOGIC: FOREGROUND — her face on the pillow, sharp. MIDGROUND — the white linen. BACKGROUND — the bedroom edges (lamp, nightstand) barely suggested, softening.
+  • LIGHTING: KEY — a soft warm bedside-lamp glow from one side. FILL — very dim. RIM — none. PRACTICAL — the lamp, a corner of a book on the nightstand. SEPARATION — soft; intimate and sleepy. BOUNCE — warm amber on her cheek.
+  • ATMOSPHERE: the intimate hush of the edge of sleep.
+  • COLOUR GRADE: soft warm bedside-amber (the one concept where soft low-key serves) — white linen, warm skin, the lamp's amber, her black hair; calm, intimate, about to dissolve.
+  • TEXTURE & MICRO-DETAIL: white-linen weave, real sleep-softened skin, individual hair-strands on the pillow, the duvet's soft fold, the thin chain.
+
 CUT LOGIC: ANGLE-CUT / LOOP back to CLIP 1; the next pass re-triggers the dissolve as she drifts to sleep.
 
 ### ☆ EXTERNAL AUDIO — BLOCK 1: BACKGROUND SOUND DESIGN / AMBIENCE BED — D-4
@@ -5939,6 +7759,23 @@ LIGHTING-IN-MOTION: the warmth-wave transforms the light — cold blue-grey to w
 DIEGETIC AUDIO: the door CLICK (decisive, satisfying, final); the warmth-wave (a soft deep "whooom" like a room exhaling + a gentle amber-toned hum); the couch-puff (a tiny fabric exhale); golden motes entering (a quiet sparkle-shimmer); her own long deep exhale.
 MASTER TRACK: silence + city-sounds, then a warm bass-note + a soft fingerpicked guitar entering on the click.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 2's START IMAGE must reproduce 100%, new angle only): at clip end the apartment is WARM — amber light, plush puffed couch, golden motes drifting, soft surfaces; Aira sagged against the door in relief, coat still on, bag sliding; ponytail. CLIP 2 must open in this EXACT warm state (same amber light, same motes, same plush room, same wardrobe) — only the angle changes (to the de-armoring profile).
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 2 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the charcoal coat being shrugged off one shoulder (mid-removal), the black turtleneck beneath emerging — identical state, de-armoring.
+  • FOOTWEAR: a boot being kicked off (one mid-air, one still on) — out of frame mostly.
+  • EYEWEAR: none.
+  • ACCESSORIES: the bag already dropped (on the floor behind), the watch on the hair-pulling wrist, the house-pendant now visible as the coat opens, natural nails.
+  • HAIR: the ponytail being PULLED OUT — her hand reaching back, pulling the tie, hair beginning to fall free.
+  • MAKEUP: soft end-of-day glow, warm-lit.
+  • HANDS & NAILS: one hand shrugging the coat off, the other pulling the hair-tie; natural nails.
+  • FACIAL MICRO-DYNAMICS: the DE-ARMORING — eyes closing in slow relief as the coat slides, lips releasing from their pressed-all-day line into a soft open exhale, brow smoothing from its held furrow, jaw unclenching; the transformation from "professional" to "just me".
+  • BODY POSTURE & WEIGHT: mid-undress, shoulders releasing, weight easy, breathing out.
+  • KINETIC STILLNESS (8 layers): (1) golden motes drifting in the warm amber; (2) the plush couch inviting behind; (3) the ponytail falling free; (4) the coat sliding off the shoulder; (5) chest releasing a long exhale; (6) a candle somehow lit on the coffee-table (the warmth-wave lit it); (7) the city-window now warm-toned; (8) a slow relieved blink.
+  • SPATIAL LOGIC: FOREGROUND — the shedding coat. MIDGROUND — Aira in profile. BACKGROUND — the warm plush living room, golden motes, candle.
+  • LIGHTING: KEY — full warm amber from multiple sources (the wave "turned on" the warm light). FILL — candle-gold. RIM — a warm edge on the falling hair. PRACTICAL — warm lamps, the lit candle, the warm window. SEPARATION — the warm room behind the profile. BOUNCE — amber under the jaw.
+  • ATMOSPHERE: the warm relief of shedding the day, cosy and earned.
+  • COLOUR GRADE: VIVID warm — amber, gold, plush navy/rust, candle-gold, golden motes; the apartment a hug now. (Matches CLIP 1 END STATE.)
+  • TEXTURE & MICRO-DETAIL: wool-coat slide, the released hair-cascade, golden motes, candle-flame, warm-lit skin, the house-pendant.
+
 CUT LOGIC: hard ANGLE-CUT to CLIP 2 (profile, de-armoring). No motion-match; WORLD STATE matches 100%.
 
 ---
@@ -5984,6 +7821,23 @@ LIGHTING-IN-MOTION: warm and steady; golden motes puff from the landing coat.
 DIEGETIC AUDIO: the coat sliding (fabric whoosh); the hair-tie snap-release; the boot thud on wood (satisfying); her long "ahhhh" exhale; the golden sparkle-shimmer.
 MASTER TRACK: the guitar + a warm bass grow; brushed drums hinting.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 3's START IMAGE must reproduce 100%, new angle only): at clip end she's shed her armour (coat on the floor, hair down), the warm plush room around, about to fall into the couch; black turtleneck, hair down. CLIP 3 must open in this EXACT state (same warm room, hair-down, shed armour, same wardrobe) — only the angle changes (to the couch-fall hero).
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 3 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: beneath the shed coat — the fitted black turtleneck and black jeans, the only layer now.
+  • FOOTWEAR: bare feet (boots abandoned), one sock half-off, toes curling.
+  • EYEWEAR: none.
+  • ACCESSORIES: the house-pendant necklace visible, the watch, one sock half-off, natural nails.
+  • HAIR: hair now fully DOWN and free, medium brown, mid-air during the fall-back, streaming upward for one gravity-defying frame.
+  • MAKEUP: soft end-of-day glow, warm-lit.
+  • HANDS & NAILS: arms slightly out, releasing, trusting the couch; natural nails.
+  • FACIAL MICRO-DYNAMICS: COMPLETE ABANDON — eyes closed, mouth open in a release-laugh ("ha!"), brow UP (the thrill of the fall), chin lifting, every feature wide-open and FREE; the face of someone who has stopped holding anything up.
+  • BODY POSTURE & WEIGHT: mid-fall backward, back arched, arms slightly out, hair streaming up — caught in the air above the couch.
+  • KINETIC STILLNESS (8 layers): (1) the plush couch directly behind, ready to catch her; (2) golden motes swirling in the air disturbed by her fall; (3) hair streaming up mid-fall; (4) the half-off sock dangling; (5) chest open on the release-laugh; (6) the candle flame bowing from the air-displacement; (7) cushions about to receive her; (8) a throw sliding toward her.
+  • SPATIAL LOGIC: FOREGROUND — the throw and her feet. MIDGROUND — Aira mid-fall. BACKGROUND — the warm apartment, plush couch, candle, golden motes.
+  • LIGHTING: KEY — full amber warmth. FILL — candle-gold. RIM — a warm edge on the streaming hair. PRACTICAL — warm lamps, the guttering candle, golden motes. SEPARATION — the warm room around the falling figure. BOUNCE — amber underlight.
+  • ATMOSPHERE: the joyful collapse into home — total release.
+  • COLOUR GRADE: VIVID warm at its richest — amber, gold, plush navy/rust, candle-gold, golden motes; a golden sanctuary. (Matches CLIP 2 END STATE.)
+  • TEXTURE & MICRO-DETAIL: streaming hair mid-fall, the half-off sock, plush couch fabric, golden motes, the candle bowing, warm skin.
+
 CUT LOGIC: hard ANGLE-CUT to CLIP 3 (full-body hero). No motion-match; WORLD STATE matches 100%.
 
 ---
@@ -6029,6 +7883,23 @@ LIGHTING-IN-MOTION: golden motes swirl in the air-disturbance, creating moving l
 DIEGETIC AUDIO: the FALL (a whoosh of air); the LANDING (a deep satisfying "FWUMP" of couch-cushion impact — the most satisfying sound in the set); the mote-burst (sparkle-whoosh); the candle guttering; her release-laugh then the satisfied "ahhhh"; the throw sliding.
 MASTER TRACK: the full warm arrangement (guitar + bass + brushed drums + a wordless "ooh" pad) at its warmest swell — the emotional payoff.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 4's START IMAGE must reproduce 100%, new angle only): at clip end she's sunk into the couch, the room at its warmest, golden motes settling, a throw over her; black turtleneck, hair down. CLIP 4 must open in this EXACT state (same sunk-in pose, same warm room, same wardrobe) — only the angle changes (to the close-up).
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 4 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the black turtleneck collar at the frame edge — identical state.
+  • FOOTWEAR: out of frame.
+  • EYEWEAR: none.
+  • ACCESSORIES: the house-pendant at the throat, golden motes above her face, warm amber light, natural nails.
+  • HAIR: medium-brown hair fanned out on the cushion beneath her, free and spread.
+  • MAKEUP: soft end-of-day glow, warm-lit.
+  • HANDS & NAILS: one hand resting on her own chest (self-soothing, home-gesture), the other hanging off the couch edge (total release); natural nails.
+  • FACIAL MICRO-DYNAMICS: COMPLETE PEACE — eyes closed, every feature completely relaxed, a smile with no effort in it (just there because the body is happy), lips barely curved, brow smooth as glass, breathing slowed to deep comfort-breaths; "I'm exactly where I'm supposed to be".
+  • BODY POSTURE & WEIGHT: sunk deep into the cushions, head nestled, weight fully released, breathing deep.
+  • KINETIC STILLNESS (8 layers): (1) golden motes drifting lazily above her face; (2) some motes settling on the cushion beside her; (3) hair fanned on the cushion; (4) the throw rising/falling with her breath; (5) chest rising deep and slow; (6) the candle flame steady and calm; (7) the warm window-glow behind; (8) a slow contented blink-then-rest.
+  • SPATIAL LOGIC: FOREGROUND — plush cushion texture and golden motes. MIDGROUND — her face, sharp. BACKGROUND — the warm room in soft bokeh.
+  • LIGHTING: KEY — warm amber from all angles. FILL — candle-gold. RIM — a soft warm edge on the hair. PRACTICAL — warm lamps, candle, golden motes. SEPARATION — warm bokeh behind. BOUNCE — amber on her cheek.
+  • ATMOSPHERE: complete sanctuary — home, peace, arrival.
+  • COLOUR GRADE: VIVID warm — warm skin, amber light, golden motes; maximum sanctuary warmth. (Matches CLIP 3 END STATE.)
+  • TEXTURE & MICRO-DETAIL: plush-cushion nap, golden motes, fanned hair, the throw fabric, real relaxed-skin texture, candle-glow.
+
 CUT LOGIC: hard ANGLE-CUT to CLIP 4 (close-up). No motion-match; WORLD STATE matches 100%.
 
 ---
@@ -6074,6 +7945,23 @@ LIGHTING-IN-MOTION: warm and steady; motes create tiny floating highlights.
 DIEGETIC AUDIO: her deep slow breathing (ASMR-intimate); the quiet "mmm"; the golden-mote shimmer (barely there); the candle's steady crackle; the deep silence of home.
 MASTER TRACK: the arrangement strips to guitar + the wordless "ooh" pad — warm and intimate.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 5's START IMAGE must reproduce 100%, then loop): at clip end she's at complete peace sunk into the couch, the warm room around; black turtleneck, hair down. CLIP 5 must open by RESETTING toward the door — she rises (implied), the warmth drains as she opens the door to leave; same wardrobe (coat back on).
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 5 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the charcoal wool coat back on, the bag slung over one shoulder — matched to CLIP 1.
+  • FOOTWEAR: black pointed-toe ankle boots — matched.
+  • EYEWEAR: none.
+  • ACCESSORIES: the structured bag, the watch, the house-pendant (under the coat), natural nails — matched.
+  • HAIR: a slightly disheveled low ponytail, medium brown — matched to CLIP 1.
+  • MAKEUP: soft end-of-day glow — matched.
+  • HANDS & NAILS: her hand on the brass doorknob — matched to CLIP 1.
+  • FACIAL MICRO-DYNAMICS: (from behind — posture rising back to held/rigid, the body re-armoring for outside).
+  • BODY POSTURE & WEIGHT: facing the door, one hand on the knob, shoulders rising back to held — mirror of CLIP 1.
+  • KINETIC STILLNESS (8 layers): (1) cold blue-grey light returning across the furniture; (2) the couch rigidifying; (3) escaped ponytail strands; (4) the coat hanging heavy; (5) chest held; (6) sharp furniture-edges returning; (7) cold window-light; (8) a posture-stiffening — matched to CLIP 1.
+  • SPATIAL LOGIC: FOREGROUND — the cold rigid room around. MIDGROUND — Aira at the door. BACKGROUND — the door, the re-cooling apartment — matched to CLIP 1.
+  • LIGHTING: KEY — cold blue-grey returning. FILL — minimal. RIM — weak cold edge. PRACTICAL — cold window-light, the warmth draining. SEPARATION — low. BOUNCE — minimal — matched to CLIP 1.
+  • ATMOSPHERE: leaving again — the warmth draining, the cold returning, the cycle resetting.
+  • COLOUR GRADE: draining to COLD — blue-grey, charcoal, steel — matched to CLIP 1.
+  • TEXTURE & MICRO-DETAIL: wool-coat nap, the brass knob, the rigidifying couch, sharp edges, escaped strands, cold window-light — matched.
+
 CUT LOGIC: hard ANGLE-CUT to CLIP 5 (back pose at the door). No motion-match; state resets to CLIP 1.
 
 ---
@@ -6119,6 +8007,23 @@ LIGHTING-IN-MOTION: warm amber draining to cold blue-grey, matched to CLIP 1.
 DIEGETIC AUDIO: the warmth-hum fading; cold silence returning; city sounds through the opening door; her hand on the brass — back to the CLIP-1 bed.
 MASTER TRACK: the warm arrangement decays to silence + city-sounds, looping cleanly.
 END STATE / STATE-MATCH LOCK: clip ends in the EXACT cold-door back-pose state and full-body angle of CLIP 1's START IMAGE — cold apartment, wardrobe and held posture matched, so the reel loops seamlessly.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 1 (LOOP back to opening) — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: a charcoal wool coat still on, a structured black bag slung over one shoulder, slightly rumpled from the day.
+  • FOOTWEAR: black pointed-toe ankle boots, one heel slightly lifted as if mid-exhale, a faint day-scuff.
+  • EYEWEAR: none.
+  • ACCESSORIES: the structured black leather bag on one shoulder, a simple watch at the wrist, a thin house-pendant necklace (hidden under the coat), natural nails.
+  • HAIR: a slightly disheveled low ponytail, medium brown, a few escaped strands at the nape.
+  • MAKEUP: soft end-of-day glow — luminous skin with a hint of day-wear, soft lip, real pores.
+  • HANDS & NAILS: her right hand still on the brass doorknob (the last connection to "outside"), the left letting the bag begin to slide; natural nails.
+  • FACIAL MICRO-DYNAMICS: (from behind — posture is the expression: shoulders DROPPING from their held-up-all-day position, the head tipping forward, weight releasing back against the door; relief in the body).
+  • BODY POSTURE & WEIGHT: facing the closed door, one hand on the knob, weight sagging back slightly — the "I made it" lean.
+  • KINETIC STILLNESS (8 layers): (1) cold blue-grey light flat across rigid furniture; (2) a grey couch looking hard; (3) escaped ponytail strands at the nape; (4) the coat hanging heavy; (5) chest beginning to release a held breath; (6) sharp geometric furniture-edges; (7) uncovered windows with cold city-evening light; (8) a slow shoulder-drop.
+  • SPATIAL LOGIC: FOREGROUND — the cold rigid living room (behind the camera's POV, around her). MIDGROUND — Aira at the door. BACKGROUND — the door, the cold apartment.
+  • LIGHTING: KEY — cold blue-grey ambient from uncovered windows. FILL — minimal, clinical. RIM — a weak cold edge. PRACTICAL — cold city-evening window-light, no warm sources yet. SEPARATION — low; the cold light flattens. BOUNCE — minimal.
+  • ATMOSPHERE: the cold lonely "apartment before you arrive" — rigid, empty, waiting.
+  • COLOUR GRADE: deliberately COLD — blue-grey, charcoal, steel; her charcoal coat blending into the cold; no warmth anywhere (sets up the warmth-flood).
+  • TEXTURE & MICRO-DETAIL: wool-coat nap, the brass doorknob, the hard grey couch, sharp furniture-edges, escaped ponytail strands, cold window-light.
+
 CUT LOGIC: ANGLE-CUT / LOOP back to CLIP 1; the next pass re-triggers the warmth-wave when she next closes the door.
 
 ### ☆ EXTERNAL AUDIO — BLOCK 1: BACKGROUND SOUND DESIGN / AMBIENCE BED — D-5
@@ -6216,6 +8121,23 @@ LIGHTING-IN-MOTION: cool spring key warms and strengthens to harsh summer gold a
 DIEGETIC AUDIO: spring birdsong and a soft breeze (0.0–3.0s) cross-fading into summer's denser insect-hum, cicada shimmer and a warmer wind (by 6.0s); her even footsteps throughout; a faint leafy rustle as the canopy thickens.
 MASTER TRACK: a continuous score; spring strings-and-flute warming into a fuller, brighter summer string swell across the transition.
 END STATE / STATE-MATCH LOCK (heavy detail — this is what CLIP 2's START IMAGE must reproduce 100%, changing only the angle): at clip end the hallway is FULL SUMMER — outside every window, deep-green full-canopy trees over a wheat-gold meadow under a hot cloudless blue sky; golden pollen-motes and occasional seed-fluff drift on the air, a couple having blown inside; the interior light is blazing warm wheat-gold with short, sharp, high-contrast dappled shadows on the pale wood floor; the walls read warm honey; the curtains lift in a warm breeze. Aira is mid-stride, centre, camel coat and auburn braid unchanged, lit warm-gold, calm half-smile. CLIP 2 must open in this EXACT summer world (same canopy, same gold light, same motes, same floor dapple, same wardrobe state) — only the camera angle changes.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 2 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the camel wool coat from behind, belt-knot at the small of the back, hem swinging; white tee collar just visible at the nape — identical wardrobe state to CLIP 1.
+  • FOOTWEAR: clean white sneakers, one heel lifting mid-stride away from camera.
+  • EYEWEAR: none.
+  • ACCESSORIES: gold hoop catching warm gold light at the jaw-line in partial profile, signet ring on the swinging hand, thin gold chain.
+  • HAIR: the auburn side-braid down her back from this angle, gold clasp at the tip, lit warm-gold along its length, soft flyaways.
+  • MAKEUP: clean luminous skin, rose lip, warm-neutral eye — now lit blazing wheat-gold (summer), matching CLIP 1's end light.
+  • HANDS & NAILS: hands relaxed at her sides, one mid-swing; natural nails, soft sheen.
+  • FACIAL MICRO-DYNAMICS: glimpsed in partial profile past the cheek — calm, eyes forward down the bright hallway, lips softly closed, serene.
+  • BODY POSTURE & WEIGHT: tall walking posture seen from behind, weight rolling forward, shoulders level, the back long and alive, braid swaying.
+  • KINETIC STILLNESS (8 layers): (1) deep-green summer canopy stirring outside every window; (2) blazing gold dappled light, short and sharp, crawling on the pale floor; (3) the braid swaying down her back; (4) coat hem swinging; (5) golden pollen-motes drifting on the air, a couple indoors; (6) a curtain lifting in a warm breeze; (7) chest rising on a breath; (8) a seed-fluff tuft tumbling slow past her shoulder.
+  • SPATIAL LOGIC: FOREGROUND — her shoulder and braid, soft. MIDGROUND — the hallway ahead. BACKGROUND — the wheat-gold meadow and hot blue sky beyond the windows, summer full.
+  • LIGHTING: KEY — blazing warm wheat-gold summer sun from the right-hand windows. FILL — warm honey bounce off the retinted walls. RIM — gold edge down the braid and shoulders. PRACTICAL — none. SEPARATION — bright gold windows behind her shaded back. BOUNCE — warm floor kick.
+  • ATMOSPHERE: high summer heat-shimmer beyond the glass, warm air, drowsy gold.
+  • COLOUR GRADE: VIVID summer — wheat-gold, deep canopy green, hot blue sky, honey walls, the camel coat blending warm; glossy gold light, full mid-tone. (Exactly matches CLIP 1's END STATE grade.)
+  • TEXTURE & MICRO-DETAIL: wool nap from behind, individual gold-lit braid strands, pollen-motes catching light, seed-fluff veining, warm wood grain.
+
 CUT LOGIC: hard ANGLE-CUT to CLIP 2 (over-the-shoulder from behind). No motion-match needed — the angle change is the edit — but the WORLD STATE must match the END STATE above 100%.
 
 ---
@@ -6261,6 +8183,23 @@ LIGHTING-IN-MOTION: high gold summer key lowers and warms to molten golden-hour 
 DIEGETIC AUDIO: summer cicada-hum and warm wind (0.0–3.0s) cross-fading into autumn's drier rustling-leaf wind, crows in the distance, and leaves scraping the floor (by 6.0s); her even footsteps throughout.
 MASTER TRACK: the summer string swell warms and deepens into a richer autumn cello-and-acoustic colour across the transition — continuous, never cut.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 3's START IMAGE must reproduce this 100%, new angle only): at clip end the hallway is FULL AUTUMN — outside every window, molten orange-scarlet-amber canopies dropping leaves over russet stubble, a low amber late-afternoon sky with long shadows; leaves spiral past the glass and a scatter of fallen leaves lies on the pale wood floor near an open window; the interior light is low raking golden-hour amber casting long dramatic dappled shadows; walls read burnt-amber; the curtain flutters cooler. Aira is mid-stride (now to be re-framed), camel coat and auburn braid unchanged, lit warm amber, serene. CLIP 3 must open in this EXACT autumn world (same fire-canopy, same low amber light, same fallen leaves on the floor, same long shadows, same wardrobe) — only the camera angle changes.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 3 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the camel wool coat in profile, belt tied, hem mid-swing; white tee at the collar; dark jeans — identical wardrobe state.
+  • FOOTWEAR: white sneakers in profile, one mid-stride over scattered leaves.
+  • EYEWEAR: none.
+  • ACCESSORIES: gold hoop clean in profile against an amber window, signet ring, thin gold chain.
+  • HAIR: the auburn side-braid in side silhouette over the left shoulder, gold clasp, lit deep amber, a loose strand at the cheek.
+  • MAKEUP: clean skin, rose lip, warm eye — lit low raking amber (autumn), matching CLIP 2's end light.
+  • HANDS & NAILS: near hand relaxed mid-swing, far hand grazing a window-ledge; natural nails.
+  • FACIAL MICRO-DYNAMICS: serene profile, eyes forward and level, a faint contented half-smile, a slow blink — unbothered as the world cools.
+  • BODY POSTURE & WEIGHT: upright profile walking posture, weight rolling heel-to-toe, hips in soft counter-rotation, spine long.
+  • KINETIC STILLNESS (8 layers): (1) fire-coloured leaves spiralling past the windows; (2) long amber dappled shadows crawling on the floor; (3) the braid swaying in profile; (4) coat hem swinging; (5) fallen leaves stirring on the pale wood; (6) a curtain in a cool flutter; (7) chest rising on a breath; (8) a single leaf tumbling past her face.
+  • SPATIAL LOGIC: FOREGROUND — fallen leaves on the floor, sharp. MIDGROUND — Aira in profile. BACKGROUND — molten autumn canopies and a low amber sky beyond the windows.
+  • LIGHTING: KEY — low raking golden-hour amber from the right-hand windows. FILL — warm burnt-amber wall bounce. RIM — deep amber edge along the profile and braid. PRACTICAL — none. SEPARATION — glowing amber windows behind the shaded near-side. BOUNCE — warm floor kick under the jaw.
+  • ATMOSPHERE: deep autumn, crisp cooling air, the melancholy-warm glow of the year turning.
+  • COLOUR GRADE: VIVID autumn — molten orange-scarlet-amber, russet, burnt-amber walls, low gold light, the camel coat warm-blending; rich, full mid-tone. (Exactly matches CLIP 2's END STATE.)
+  • TEXTURE & MICRO-DETAIL: wool nap, leaf veining and curl, long shadow edges, fine braid strands, wood grain with scattered leaves.
+
 CUT LOGIC: hard ANGLE-CUT to CLIP 3 (full profile, slight low). No motion-match needed; WORLD STATE must match the END STATE above 100%.
 
 ---
@@ -6306,6 +8245,23 @@ LIGHTING-IN-MOTION: warm amber key cools to silver-blue; shadows soften and flat
 DIEGETIC AUDIO: autumn's dry leaf-wind and distant crows (0.0–3.0s) cross-fading into winter's hushed muffled stillness, a thin high wind and the soft hiss of falling snow (by 6.0s); her even footsteps, crisper on the cold floor.
 MASTER TRACK: the autumn cello-and-acoustic colour thins and crystallises into a sparse winter solo-piano-and-glass-synth across the transition — continuous.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 4's START IMAGE must reproduce this 100%, new angle only): at clip end the hallway is FULL WINTER — outside every window, bare black snow-dusted branches over a white meadow under a silver-grey overcast with snow falling steadily; frost creeps up the window-panes; inside, the light is cool silver-blue, soft and even, no warm shadow; the walls read pale slate; the floor's fallen leaves are veiled in faint frost-shimmer; her breath fogs gently. Aira is mid-stride (to be re-framed), camel coat and auburn braid unchanged, lit cool silver-blue, calm. CLIP 4 must open in this EXACT winter world (same bare snow-branches, same silver light, same frosted panes, same frosted floor, same wardrobe) — only the camera angle changes.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 4 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the camel wool coat from the low view, belt tied, hem with a faint snow-dust on the shoulders; white tee; dark jeans — identical wardrobe state.
+  • FOOTWEAR: white sneakers planted on the faintly frosted floor, the low angle elongating the stance.
+  • EYEWEAR: none.
+  • ACCESSORIES: gold hoops with tiny frost-glints, signet ring, thin gold chain.
+  • HAIR: the auburn side-braid over the left shoulder, gold clasp, a few snowflakes caught in it, cool-lit.
+  • MAKEUP: clean skin, rose lip, soft eye — lit cool silver-blue (winter), matching CLIP 3's end light, a cold-flush at the cheeks.
+  • HANDS & NAILS: one hand lifted, palm up, catching a falling snowflake; the other relaxed at her side; natural nails.
+  • FACIAL MICRO-DYNAMICS: serene near-front gaze just off-lens, a calm closed-lip smile, a slow blink, breath fogging softly — unbothered by the cold.
+  • BODY POSTURE & WEIGHT: a grounded heroic stance, weight even, shoulders open, spine long, the winter world rising behind.
+  • KINETIC STILLNESS (8 layers): (1) snow falling steadily past every window; (2) cool silver light soft on the floor; (3) the braid swaying, a snowflake settling on it; (4) coat hem stirring in a cold draft; (5) her breath fogging on each exhale; (6) frost creeping at the pane-edges; (7) a snowflake melting on her upturned palm; (8) a slow eyelash settle.
+  • SPATIAL LOGIC: FOREGROUND — her upturned palm and a falling snowflake, sharp. MIDGROUND — Aira heroic. BACKGROUND — bare black snow-branches and a silver sky beyond the windows.
+  • LIGHTING: KEY — soft cool silver-blue winter light from the windows. FILL — pale slate wall bounce. RIM — a cool silver edge down the braid and shoulder. PRACTICAL — none. SEPARATION — bright snow-windows behind the figure. BOUNCE — cool floor kick.
+  • ATMOSPHERE: deep still winter, hushed and crystalline, breath on the cold air.
+  • COLOUR GRADE: VIVID winter — crystalline silver-blue and white, bare-black branches, pale slate walls, the camel coat the lone warm anchor; clean cold light, full mid-tone. (Exactly matches CLIP 3's END STATE.)
+  • TEXTURE & MICRO-DETAIL: wool nap with snow-dust, individual snowflakes with crystal structure, frost feathering on panes, fine braid strands, cold-flush skin texture.
+
 CUT LOGIC: hard ANGLE-CUT to CLIP 4 (low-angle hero, near-front). No motion-match; WORLD STATE matches the END STATE above 100%.
 
 ---
@@ -6351,6 +8307,23 @@ LIGHTING-IN-MOTION: cool silver key warms to fresh spring daylight; soft pink da
 DIEGETIC AUDIO: winter's hushed wind and snow-hiss (0.0–3.0s) cross-fading into spring's returning birdsong, a soft warm breeze and dripping melt (by 6.0s); her even footsteps resuming.
 MASTER TRACK: the sparse winter piano-and-glass blooms back into spring strings-and-flute across the transition — continuous, closing the musical year.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 5's START IMAGE must reproduce this 100%, and it equals CLIP 1's opening world): at clip end the hallway is FULL SPRING — outside every window, cherry-blossom pink canopies over a fresh green flowering meadow under a soft clear blue sky with gentle sun; blossom petals drift past the glass and a couple have blown inside; inside, the light is fresh warm spring daylight with soft pink dappling on clean pale wood; the walls are pale wood-cream; panes are clear; her breath no longer fogs. Aira is mid-stride, camel coat and auburn braid unchanged, lit fresh-spring, calm half-smile. CLIP 5 must open in this EXACT spring world — which is identical to CLIP 1's opening — so the reel loops.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 5 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the camel wool coat, belt tied, mid-calf, swinging with the stride; white tee; dark-wash jeans — matched to CLIP 1.
+  • FOOTWEAR: clean white sneakers, mid-stride, soft contact with pale wood.
+  • EYEWEAR: none.
+  • ACCESSORIES: gold hoops, gold signet ring, thin gold chain — matched.
+  • HAIR: the thick low auburn side-braid over the left shoulder, gold clasp, soft flyaways — matched to CLIP 1.
+  • MAKEUP: clean luminous skin, soft rose lip, warm-neutral eye — lit cool-fresh spring, matched to CLIP 1.
+  • HANDS & NAILS: hands relaxed, one lightly swinging, the other near the coat pocket; natural nails.
+  • FACIAL MICRO-DYNAMICS: calm forward gaze to lens, the gentle closed-lip half-smile, a slow blink — the exact opening resting face.
+  • BODY POSTURE & WEIGHT: tall easy walking posture, weight rolling heel-to-toe, hips in natural counter-rotation — matched to CLIP 1.
+  • KINETIC STILLNESS (8 layers): (1) cherry-blossom petals drifting past the windows; (2) soft pink dappled light crawling on the floor; (3) the braid swaying; (4) coat hem swinging; (5) chest rising on a breath; (6) a petal spiralling near her shoulder; (7) a curtain breathing at an open window; (8) a slow eyelash settle — all matched to CLIP 1.
+  • SPATIAL LOGIC: FOREGROUND — pale wood floor leading in. MIDGROUND — Aira walking. BACKGROUND — the windowed hallway receding to a bright blossom-world end — matched to CLIP 1.
+  • LIGHTING: KEY — soft warm spring daylight from the right windows. FILL — pale wall bounce. RIM — fresh cool edge on the braid and shoulder. PRACTICAL — none. SEPARATION — bright windows behind a softly lit figure. BOUNCE — warm floor kick — matched to CLIP 1.
+  • ATMOSPHERE: fresh spring morning restored — the year come full circle.
+  • COLOUR GRADE: VIVID spring — saturated cherry-blossom pink, fresh green, pale warm wood, the camel coat warm anchor — matched to CLIP 1.
+  • TEXTURE & MICRO-DETAIL: wool nap, translucent petal veining, pale wood grain, fine braid strands, peach-fuzz in the rim — matched.
+
 CUT LOGIC: hard ANGLE-CUT to CLIP 5 (wide front — the opening angle). No motion-match; WORLD STATE matches the END STATE above 100% (and equals CLIP 1).
 
 ---
@@ -6396,6 +8369,23 @@ LIGHTING-IN-MOTION: fresh spring key steady, matched to CLIP 1's opening level.
 DIEGETIC AUDIO: spring birdsong, a soft breeze, even footsteps — returning to the CLIP-1 bed.
 MASTER TRACK: the four-season score resolves back to its opening spring strings-and-flute, looping cleanly.
 END STATE / STATE-MATCH LOCK: clip ends in the EXACT spring world and wide-front angle of CLIP 1's START IMAGE — positions, light, petals, floor dapple, wardrobe and expression all matched, so the reel loops seamlessly.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 1 (LOOP back to opening) — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the camel wool coat, belt tied, mid-calf, swinging gently with the stride; white tee at the open collar; dark-wash jeans; pristine, seasonless.
+  • FOOTWEAR: clean white leather low-top sneakers, one mid-stride, sole flexing, a soft contact with the pale wood.
+  • EYEWEAR: none.
+  • ACCESSORIES: small gold hoops, gold signet ring on the right hand, thin gold chain at the collar.
+  • HAIR: the thick low auburn side-braid over the left shoulder, gold clasp at the tip, a few soft flyaways lifting with the walk.
+  • MAKEUP: clean luminous skin, soft rose lip, warm-neutral eye, real pores; lit cool-fresh by spring light.
+  • HANDS & NAILS: hands relaxed, one lightly swinging, the other grazing near the coat pocket; short natural nails, soft sheen.
+  • FACIAL MICRO-DYNAMICS: calm forward gaze to lens, a gentle closed-lip half-smile, brow relaxed, a slow blink — unhurried, present.
+  • BODY POSTURE & WEIGHT: tall easy walking posture, weight rolling heel-to-toe, hips in natural counter-rotation, shoulders level, breathing.
+  • KINETIC STILLNESS (8 layers): (1) cherry-blossom petals drifting past the windows outside; (2) soft pink dappled light crawling on the pale floor; (3) the braid swaying with the stride; (4) coat hem swinging; (5) chest rising on a soft breath; (6) a petal that has blown inside spiralling near her shoulder; (7) a curtain breathing at an open window; (8) a slow eyelash settle.
+  • SPATIAL LOGIC: FOREGROUND — pale wood floor leading in, sharp. MIDGROUND — Aira walking. BACKGROUND — the windowed hallway receding to a soft bright end, blossom-world outside.
+  • LIGHTING: KEY — soft warm spring daylight from the right-hand windows. FILL — gentle bounce off the pale walls. RIM — a fresh cool edge along the braid and shoulder. PRACTICAL — none. SEPARATION — bright windows behind a softly lit figure. BOUNCE — warm floor kick under the chin.
+  • ATMOSPHERE: fresh spring morning, petals on the air, the hush of new growth.
+  • COLOUR GRADE: VIVID spring — saturated cherry-blossom pink outside, fresh green hints, pale warm wood, the camel coat a grounding warm anchor; glossy clean light, full mid-tone.
+  • TEXTURE & MICRO-DETAIL: wool coat nap, blossom petals with translucent veining, pale wood grain, fine braid strands, peach-fuzz in the rim light.
+
 CUT LOGIC: ANGLE-CUT / LOOP back to CLIP 1. The reel loops; the next pass re-triggers the spring→summer change as she crosses the first window.
 
 ### ☆ EXTERNAL AUDIO — BLOCK 1: BACKGROUND SOUND DESIGN / AMBIENCE BED — E-1
@@ -6490,6 +8480,23 @@ LIGHTING-IN-MOTION: warm Deco gold transitions to a cooler, brighter, more even 
 DIEGETIC AUDIO: her heels on marble (sharp, echoing); the chandelier crystals tinkling; the brass railing singing under her fingertips; a faint jazz piano echoing (Deco) cross-fading into a bossa-nova as the era morphs.
 MASTER TRACK: the same 4-bar melody played in 1920s jazz (piano + upright bass + brushed drums), cross-fading to a 1960s bossa version on the morph.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 2's START IMAGE must reproduce 100%, new angle only): at clip end the staircase is FULL MID-CENTURY — clean teak railings, warm terrazzo steps, white walls with bold color-block art, a Sputnik pendant, brighter even light; Aira mid-descent, black silk slip, finger-wave bob, composed. CLIP 2 must open in this EXACT mid-century world (same teak, terrazzo, color-block art, Sputnik light, same wardrobe) — only the camera angle changes.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 2 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the black silk slip in profile — identical state (timeless).
+  • FOOTWEAR: black satin heels in profile, mid-step.
+  • EYEWEAR: none.
+  • ACCESSORIES: diamond clip, pearl rope, cigarette holder, red nails — all unchanged.
+  • HAIR: the finger-wave bob in profile — unchanged, timeless.
+  • MAKEUP: classic editorial, retinted by the cooler mid-century light.
+  • HANDS & NAILS: one hand trailing the teak railing (the railing has changed material under her fingertips); red nails.
+  • FACIAL MICRO-DYNAMICS: unchanged composed elegance — the same Mona-Lisa smile in profile, eyes down the stairs, poised.
+  • BODY POSTURE & WEIGHT: a graceful descending profile, weight rolling down, spine long, alive.
+  • KINETIC STILLNESS (8 layers): (1) the Sputnik pendant's arms catching light; (2) terrazzo-speckle underfoot; (3) the bob's jaw-curl; (4) the silk hem flowing; (5) chest rising; (6) the color-block art on the white wall; (7) teak-grain warmth on the railing; (8) a slow blink in profile.
+  • SPATIAL LOGIC: FOREGROUND — terrazzo steps. MIDGROUND — Aira in profile. BACKGROUND — the clean mid-century staircase, color-block art, Sputnik pendant.
+  • LIGHTING: KEY — a cooler, brighter, even mid-century light. FILL — clean bounce. RIM — a soft edge on the bob. PRACTICAL — the Sputnik pendant. SEPARATION — the figure against white walls. BOUNCE — clean warm-neutral under the jaw.
+  • ATMOSPHERE: clean optimistic mid-century cool.
+  • COLOUR GRADE: VIVID Mid-Century — warm teak + warm white + bold primary-color art + terrazzo-speckle + her black slip and red lip. (Matches CLIP 1 END STATE.)
+  • TEXTURE & MICRO-DETAIL: teak grain, terrazzo speckle, color-block art, the Sputnik pendant, silk drape, glossy bob, red nails.
+
 CUT LOGIC: hard ANGLE-CUT to CLIP 2 (profile). No motion-match; WORLD STATE matches 100%.
 
 ---
@@ -6535,6 +8542,23 @@ LIGHTING-IN-MOTION: clean mid-century light becomes bold flat bright Memphis col
 DIEGETIC AUDIO: her heels on terrazzo then carpet (muffling); the bossa fading into a faint synth-pop beat; the neon buzz; the railing-material change.
 MASTER TRACK: the same melody cross-fading from bossa to a 1980s synth-pop version (synth-lead + drum machine + slap bass).
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 3's START IMAGE must reproduce 100%, new angle only): at clip end the staircase is FULL MEMPHIS — hot-pink-and-teal tubular steel railings, confetti-pattern walls, a zigzag carpet, a glowing neon sign, bold flat lighting; Aira mid-descent, black slip the calm centre, finger-wave bob. CLIP 3 must open in this EXACT Memphis world (same tubular steel, confetti walls, zigzag, neon, same wardrobe) — only the angle changes.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 3 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the black silk slip at the shoulder — identical state (the calm centre amid the chaos).
+  • FOOTWEAR: out of frame.
+  • EYEWEAR: none.
+  • ACCESSORIES: diamond clip, pearl rope, red nails on the NOW-MEMPHIS tubular railing (hot-pink and teal).
+  • HAIR: the finger-wave bob — unchanged, contrasting the Memphis noise.
+  • MAKEUP: classic editorial, neon-lit.
+  • HANDS & NAILS: her red-nailed hand wrapping the tubular steel railing — the red fitting the Memphis world as if she was always here; red nails.
+  • FACIAL MICRO-DYNAMICS: unchanged — the same composed Mona-Lisa half-smile; she is the quiet in the storm; one slow blink amid the visual chaos.
+  • BODY POSTURE & WEIGHT: a still, self-possessed descending pause, shoulders level, breathing.
+  • KINETIC STILLNESS (8 layers): (1) Memphis patterns pulsing with energy; (2) a neon sign flickering; (3) the bob's jaw-curl; (4) the silk at the shoulder; (5) chest rising; (6) confetti-pattern walls; (7) tubular-steel highlights; (8) a calm slow blink.
+  • SPATIAL LOGIC: FOREGROUND — soft. MIDGROUND — her calm face and the railing-hand, sharp. BACKGROUND — the Memphis explosion (confetti walls, neon, zigzag).
+  • LIGHTING: KEY — bold flat Memphis colour (hot-pink/teal/yellow). FILL — even and bright. RIM — a neon edge on the bob. PRACTICAL — neon sign, bold Memphis lighting. SEPARATION — her calm dark figure against the chaos. BOUNCE — neon on the jaw.
+  • ATMOSPHERE: the quiet in the storm — classic calm amid maximal noise.
+  • COLOUR GRADE: MAXIMUM Memphis — hot-pink + teal + yellow + neon + confetti-patterns; her black slip and red lip the calm centre. (Matches CLIP 2 END STATE.)
+  • TEXTURE & MICRO-DETAIL: tubular-steel finish, confetti-pattern detail, neon glow, glossy bob, real pores under the bold light, red nail gloss.
+
 CUT LOGIC: hard ANGLE-CUT to CLIP 3 (close-up). No motion-match; WORLD STATE matches 100%.
 
 ---
@@ -6580,6 +8604,23 @@ LIGHTING-IN-MOTION: bold Memphis colour becomes clean bright even gallery-light,
 DIEGETIC AUDIO: the synth-pop fading; her heels on carpet then clean concrete; the neon buzz cutting out; a minimal silence settling.
 MASTER TRACK: the same melody cross-fading from synth-pop to a stripped solo-piano + silence (modern minimal).
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 4's START IMAGE must reproduce 100%, new angle only): at clip end the staircase is FULL MODERN MINIMALIST — white concrete steps, a thin black metal railing, pure white walls, a single flower at the landing, clean diffused light; Aira mid-descent, black slip now the most "of the moment" thing, finger-wave bob. CLIP 4 must open in this EXACT modern world (same white concrete, thin railing, single flower, gallery light, same wardrobe) — only the angle changes.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 4 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the black silk slip, full-length, the hem pooling on the white concrete — identical state.
+  • FOOTWEAR: black satin heels on the final clean concrete steps.
+  • EYEWEAR: none.
+  • ACCESSORIES: diamond clip, pearl rope, cigarette holder, red nails — all unchanged.
+  • HAIR: the finger-wave bob — unchanged.
+  • MAKEUP: classic editorial, clean gallery-lit.
+  • HANDS & NAILS: fingertips trailing the thin black metal railing; red nails.
+  • FACIAL MICRO-DYNAMICS: composed elegance with the tiniest knowing brow-raise (she knows it's cycling back); the Mona-Lisa smile.
+  • BODY POSTURE & WEIGHT: reaching the foot, weight settling, spine long, alive.
+  • KINETIC STILLNESS (8 layers): (1) the single perfect flower at the landing; (2) the clean diffused panel-light steady; (3) the bob's jaw-curl; (4) the silk hem pooling; (5) chest rising; (6) the thin black railing; (7) a faint Deco brass-glint beginning at the frame edge; (8) a slow composed blink.
+  • SPATIAL LOGIC: FOREGROUND — the clean white concrete steps. MIDGROUND — Aira at the foot. BACKGROUND — the minimal white staircase, the single flower, a hint of returning Deco.
+  • LIGHTING: KEY — clean bright diffused gallery-panel. FILL — even. RIM — soft. PRACTICAL — the panel, a returning warm Deco glint at the edge. SEPARATION — her dark figure against pure white. BOUNCE — clean neutral.
+  • ATMOSPHERE: pure modern calm, the cycle about to turn back.
+  • COLOUR GRADE: VIVID-minimal — white + black + her skin + the single flower (vivid) + returning Deco gold at the edges; the restraint a statement. (Matches CLIP 3 END STATE.)
+  • TEXTURE & MICRO-DETAIL: white-concrete grain, thin black metal railing, the single flower, silk drape, glossy bob, red nails, a returning brass-glint.
+
 CUT LOGIC: hard ANGLE-CUT to CLIP 4 (full-body low). No motion-match; WORLD STATE matches 100%.
 
 ---
@@ -6625,6 +8666,23 @@ LIGHTING-IN-MOTION: clean gallery-light warms back to the golden Deco chandelier
 DIEGETIC AUDIO: her heels on concrete then marble; the minimal silence cross-fading back into the jazz piano; the chandelier crystals re-tinkling.
 MASTER TRACK: the same melody cross-fading from solo piano back to the 1920s jazz version.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 5's START IMAGE must reproduce 100%, and it equals CLIP 1's opening): at clip end the staircase is FULL ART DECO again (brass, marble-gold, emerald, chandelier, warm light); Aira composed at the foot, black slip, finger-wave bob. CLIP 5 must open in this EXACT Deco world — identical to CLIP 1's opening — so the reel loops.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 5 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the classic black silk slip dress — matched to CLIP 1.
+  • FOOTWEAR: black satin ankle-strap heels — matched.
+  • EYEWEAR: none.
+  • ACCESSORIES: art-deco diamond clip, pearl rope, cigarette holder, red nails — matched.
+  • HAIR: the sleek finger-wave bob, diamond clip — matched to CLIP 1.
+  • MAKEUP: classic editorial — matched.
+  • HANDS & NAILS: one hand on the brass railing, the cigarette holder at a period angle — matched to CLIP 1.
+  • FACIAL MICRO-DYNAMICS: composed elegance, the Mona-Lisa smile — the exact opening face.
+  • BODY POSTURE & WEIGHT: a graceful descending pose at the top — mirror of CLIP 1.
+  • KINETIC STILLNESS (8 layers): (1) the deco chandelier swaying; (2) geometric brass shadows; (3) the bob's jaw-curl; (4) the silk hem pooling; (5) chest rising; (6) mirrored-wall reflections; (7) a sunburst-brass glint; (8) a composed blink — matched to CLIP 1.
+  • SPATIAL LOGIC: FOREGROUND — black-marble-gold steps. MIDGROUND — Aira at the top. BACKGROUND — the Deco staircase, chandelier — matched to CLIP 1.
+  • LIGHTING: KEY — warm golden chandelier. FILL — brass reflections. RIM — gold on the bob. PRACTICAL — chandelier, mirrored-wall glints. SEPARATION — gold figure against emerald walls. BOUNCE — warm gold under the chin — matched to CLIP 1.
+  • ATMOSPHERE: Gatsby opulence restored — ready for the grand descent again.
+  • COLOUR GRADE: VIVID Art Deco — emerald, gold, black-marble, crystal, red lip/nails — matched to CLIP 1.
+  • TEXTURE & MICRO-DETAIL: marble-gold steps, brass sunburst railings, mirrored etching, crystal chandelier, silk drape, glossy finger-waves, red nails — matched.
+
 CUT LOGIC: hard ANGLE-CUT to CLIP 5 (wide, top of stairs). No motion-match; WORLD STATE matches CLIP 1 100%.
 
 ---
@@ -6670,6 +8728,23 @@ LIGHTING-IN-MOTION: golden chandelier — matched to CLIP 1.
 DIEGETIC AUDIO: her heels on marble; the chandelier tinkling; the jazz piano echoing — back to the CLIP-1 bed.
 MASTER TRACK: the 1920s jazz version of the melody, looping cleanly to the opening.
 END STATE / STATE-MATCH LOCK: clip ends in the EXACT Art Deco top-of-stairs state and wide angle of CLIP 1's START IMAGE — era, wardrobe and composed expression matched, so the reel loops seamlessly.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 1 (LOOP back to opening) — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the classic black silk slip dress, bias-cut, ankle-length, thin straps, the hem pooling and flowing with each step.
+  • FOOTWEAR: black satin pointed-toe ankle-strap heels, one foot placed on a lower step.
+  • EYEWEAR: none.
+  • ACCESSORIES: the art-deco diamond hair-clip, a long pearl rope necklace, a slim black cigarette holder held with period poise, deep-red glossy nails.
+  • HAIR: a sleek finger-wave bob, jet-black, sculpted glossy, chin-length, the diamond clip on the right.
+  • MAKEUP: classic editorial — luminous skin, defined brow, deep-red lip, soft smoky lid, real pores.
+  • HANDS & NAILS: one hand gliding along the brass railing (fingertips trailing), the other holding the cigarette holder at a relaxed period angle; deep-red glossy nails.
+  • FACIAL MICRO-DYNAMICS: composed elegance — chin lifted slightly, eyes steady and slightly down the stairs (navigating with grace), a subtle closed-lip Mona-Lisa smile, brow arched with quiet authority.
+  • BODY POSTURE & WEIGHT: a graceful descending pose, weight rolling onto the lower foot, hips in a soft counter-tilt, spine long, alive.
+  • KINETIC STILLNESS (8 layers): (1) a massive art-deco chandelier's crystal tiers swaying; (2) geometric brass-railing shadows shifting; (3) the bob's jaw-curl catching light; (4) the silk hem pooling and flowing; (5) chest rising; (6) mirrored-wall reflections doubling; (7) a sunburst-motif glint on the brass; (8) a slow composed blink.
+  • SPATIAL LOGIC: FOREGROUND — the black-marble steps with gold inlay. MIDGROUND — Aira descending. BACKGROUND — the geometric Deco staircase converging up, the chandelier crowning.
+  • LIGHTING: KEY — warm golden chandelier from above. FILL — brass reflections. RIM — a gold edge on the bob and shoulder. PRACTICAL — the deco chandelier, mirrored-wall glints. SEPARATION — the gold-lit figure against the emerald-lacquer walls. BOUNCE — warm gold under the chin.
+  • ATMOSPHERE: Gatsby opulence, the glamour of a grand descent.
+  • COLOUR GRADE: VIVID Art Deco — deep emerald lacquer + gold + black-marble + crystal-white + her red lip/nails as the warm pop; glossy, rich blacks.
+  • TEXTURE & MICRO-DETAIL: black-marble-with-gold-inlay steps, brass sunburst railings, mirrored-wall etching, crystal chandelier tiers, silk-bias drape, the bob's glossy finger-waves, red nail gloss.
+
 CUT LOGIC: ANGLE-CUT / LOOP back to CLIP 1; the next pass re-triggers the era-morphs as she descends.
 
 ### ☆ EXTERNAL AUDIO — BLOCK 1: BACKGROUND SOUND DESIGN / AMBIENCE BED — E-2
@@ -6764,6 +8839,23 @@ LIGHTING-IN-MOTION: soft dawn warms and intensifies to a directional golden-hour
 DIEGETIC AUDIO: early-morning city far off; her footsteps on the walkway; the cable-stays humming in the wind; water below; birds waking, then a fuller golden-hour chorus.
 MASTER TRACK: a constant melodic motif (her), with the orchestration warming from dawn strings+flute to a fuller golden-hour string-swell.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 2's START IMAGE must reproduce 100%, new angle only): at clip end the bridge is in full GOLDEN HOUR — a warm-gold sky, liquid-gold water, long shadows, her silver dress molten-gold; Aira mid-stride, platinum curtain, serene. CLIP 2 must open in this EXACT golden-hour world (same gold sky, gold water, long shadows, same wardrobe) — only the camera angle changes.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 2 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the silver-grey silk dress in profile, reading molten-gold in this light — identical state.
+  • FOOTWEAR: silver sandals catching golden light.
+  • EYEWEAR: none.
+  • ACCESSORIES: silver jewelry now reading warm-gold, the crescent pendant catching a flare, silver-lavender nails.
+  • HAIR: the platinum curtain in profile, BLAZING in golden hour — every strand lit molten silver-gold.
+  • MAKEUP: luminous, warm-gold lit.
+  • HANDS & NAILS: fingertips trailing the railing; silver-lavender nails.
+  • FACIAL MICRO-DYNAMICS: unchanged serene — the same gentle profile smile, eyes ahead, unbothered by the beauty.
+  • BODY POSTURE & WEIGHT: a tall walking profile, weight rolling, spine long, alive.
+  • KINETIC STILLNESS (8 layers): (1) the golden-hour sky blazing; (2) liquid-gold water below; (3) the platinum curtain catching dramatic side-light; (4) the silk drifting; (5) chest rising; (6) long shadows stretching; (7) the silver cuff throwing a gold flare; (8) a slow blink with golden lashes.
+  • SPATIAL LOGIC: FOREGROUND — the gold-lit walkway. MIDGROUND — Aira in profile. BACKGROUND — the golden bridge, gold water, warm sky.
+  • LIGHTING: KEY — full golden-hour blaze (warm, directional, dramatic shadows). FILL — gold water-bounce. RIM — a molten edge on the curtain. PRACTICAL — the low sun, lamp-posts. SEPARATION — her gold-lit form against the warm sky. BOUNCE — gold under the jaw.
+  • ATMOSPHERE: the most beautiful light of the day, warm and luminous.
+  • COLOUR GRADE: MAXIMUM GOLDEN — warm amber + liquid gold + her silver-reading-as-gold + the saturated sky. (Matches CLIP 1 END STATE.)
+  • TEXTURE & MICRO-DETAIL: silk catching dramatic gold side-light, platinum strands molten, cable-stay shadows, water-gold ripples, the cuff flare.
+
 CUT LOGIC: hard ANGLE-CUT to CLIP 2 (profile). No motion-match; WORLD STATE matches 100%.
 
 ---
@@ -6809,6 +8901,23 @@ LIGHTING-IN-MOTION: golden intensifying into deep sunset oranges and magentas; t
 DIEGETIC AUDIO: her footsteps; the cables humming; a golden-hour bird-chorus; a soft sunset wind; a distant starling murmuration.
 MASTER TRACK: the orchestration warms and deepens from golden-hour strings to a fuller, richer sunset swell (brass entering).
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 3's START IMAGE must reproduce 100%, new angle only): at clip end the bridge is in full SUNSET — a fiery layered sky, the sun at the horizon, her silver dress rose-gold; Aira mid-stride, platinum curtain. CLIP 3 must open in this EXACT sunset world (same fiery sky, sun-disc, rose-gold dress) — only the angle changes.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 3 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the silver dress collar reflecting sunset fire — identical state.
+  • FOOTWEAR: out of frame.
+  • EYEWEAR: none.
+  • ACCESSORIES: diamond studs catching orange fire, the crescent pendant lit amber, silver-lavender nails.
+  • HAIR: the platinum curtain catching deep orange-and-magenta sunset — reading rose-gold.
+  • MAKEUP: luminous, sunset-fire lit.
+  • HANDS & NAILS: out of frame mostly; silver-lavender nails.
+  • FACIAL MICRO-DYNAMICS: unchanged gentle calm — the sun is setting spectacularly and she wears the same soft smile; not awed, at home, as if this happens for her every day; one slow blink.
+  • BODY POSTURE & WEIGHT: walking, face catching the fire, breathing.
+  • KINETIC STILLNESS (8 layers): (1) the layered sunset sky behind; (2) the sun-disc at the horizon past the cables; (3) the curtain lifting in an evening thermal; (4) the silk collar reflecting fire; (5) chest rising; (6) water mirroring the sunset; (7) the first blues appearing at the top of frame; (8) a slow blink.
+  • SPATIAL LOGIC: FOREGROUND — soft. MIDGROUND — her face, sharp. BACKGROUND — the fiery sunset, the bridge cables.
+  • LIGHTING: KEY — sunset fire (intense warm-directional from the setting sun); her face half-lit amber, half cool shadow. FILL — cool-blue dusk creeping. RIM — a fire-edge on the curtain. PRACTICAL — the setting sun, lamp-posts. SEPARATION — her face against the blazing sky. BOUNCE — amber under the jaw.
+  • ATMOSPHERE: cinematic sunset peak, dramatic and warm.
+  • COLOUR GRADE: SUNSET MAXIMUM — orange + magenta + purple + gold + her silver-as-rose-gold. (Matches CLIP 2 END STATE.)
+  • TEXTURE & MICRO-DETAIL: sunset-fire on the skin, platinum strands rose-gold, real pores in the warm light, lash detail, the silk collar fire-reflection.
+
 CUT LOGIC: hard ANGLE-CUT to CLIP 3 (close-up). No motion-match; WORLD STATE matches 100%.
 
 ---
@@ -6854,6 +8963,23 @@ LIGHTING-IN-MOTION: warm sunset draining; cool blue-silver moonlight + warm lamp
 DIEGETIC AUDIO: the sunset wind; the last birdsong fading; the lamp-posts buzzing on; crickets from the riverbank; a distant ship-horn.
 MASTER TRACK: the rich sunset swell strips to an intimate solo cello + ambient pad for the night.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 4's START IMAGE must reproduce 100%, new angle only): at clip end the bridge is in full NIGHT — an indigo Milky-Way sky, warm lamp-posts glowing, star-mirrored water, her silver dress moonlit; Aira walking, platinum curtain. CLIP 4 must open in this EXACT night world (same galaxy, lamp-glow, star-water, moonlit dress) — only the angle changes.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 4 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the silver-grey silk dress reflecting city-lights and stars — reading mercury-liquid, a starfield itself; identical state.
+  • FOOTWEAR: silver sandals catching lamp-light.
+  • EYEWEAR: none.
+  • ACCESSORIES: diamond studs as stars, the crescent pendant = the moon, the silver cuff reflecting lights, silver-lavender nails.
+  • HAIR: the platinum curtain glowing moonlit — pure silver luminous in the blue-black night.
+  • MAKEUP: luminous, cool moonlit + warm lamp-glow.
+  • HANDS & NAILS: one hand on the cable-railing; silver-lavender nails.
+  • FACIAL MICRO-DYNAMICS: unchanged serene — the same gentle smile, stars above and city below, she walks between them; one slow blink.
+  • BODY POSTURE & WEIGHT: a tall walking posture, weight rolling, spine long, alive.
+  • KINETIC STILLNESS (8 layers): (1) the Milky Way arcing above; (2) warm lamp-posts as sentinels; (3) the platinum curtain glowing moonlit; (4) the silk catching star-and-lamp light; (5) chest rising; (6) the city skyline glowing beyond; (7) star-and-light reflections on the water; (8) a slow blink.
+  • SPATIAL LOGIC: FOREGROUND — the walkway leading in. MIDGROUND — Aira walking. BACKGROUND — the night bridge, lamp-posts, the Milky Way, glowing city.
+  • LIGHTING: KEY — cool blue-silver moonlight. FILL — warm lamp-post practicals (dual-temperature). RIM — moonlight-silver on the curtain. PRACTICAL — lamp-posts, stars, city. SEPARATION — her luminous form between warm lamps and cool stars. BOUNCE — alternating warm/cool as she passes lamps.
+  • ATMOSPHERE: serene night grandeur — walking beneath the universe.
+  • COLOUR GRADE: VIVID night — deep indigo + star-white + warm city-amber + her silver as the connector. (Matches CLIP 3 END STATE.)
+  • TEXTURE & MICRO-DETAIL: the platinum curtain glowing, silver-silk star-reflections, cable-stay detail, lamp-post glow, water reflections, diamond-stud sparkle.
+
 CUT LOGIC: hard ANGLE-CUT to CLIP 4 (full body). No motion-match; WORLD STATE matches 100%.
 
 ---
@@ -6899,6 +9025,23 @@ LIGHTING-IN-MOTION: cool night lightening to soft peach dawn; the lamp-posts dim
 DIEGETIC AUDIO: the night city quieter; her footsteps echoing in the night air; a distant ship-horn; crickets fading; the first dawn birdsong returning.
 MASTER TRACK: the intimate night cello blooms back into the dawn strings+flute — the cycle closing.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 5's START IMAGE must reproduce 100%, and it equals CLIP 1's opening): at clip end the bridge is in full DAWN again (peach-lavender sky, pastel water, dimmed lamps); Aira walking, platinum curtain, serene. CLIP 5 must open in this EXACT dawn world — identical to CLIP 1's opening — so the reel loops.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 5 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the flowing silver-grey silk midi-dress catching peach dawn — matched to CLIP 1.
+  • FOOTWEAR: minimal silver sandals — matched.
+  • EYEWEAR: none.
+  • ACCESSORIES: the crescent-moon chain, diamond studs, silver cuff, silver-lavender nails — matched.
+  • HAIR: the voluminous platinum-silver curtain, centre part — matched to CLIP 1.
+  • MAKEUP: luminous cool glow — matched.
+  • HANDS & NAILS: one hand on the cable-railing — matched to CLIP 1.
+  • FACIAL MICRO-DYNAMICS: serene calm, gentle smile — the exact opening face.
+  • BODY POSTURE & WEIGHT: a tall easy walking posture — mirror of CLIP 1.
+  • KINETIC STILLNESS (8 layers): (1) the peach-lavender dawn; (2) pastel water-reflections; (3) the platinum curtain catching dawn; (4) the silk drifting; (5) chest rising; (6) the cables humming; (7) a gull far off; (8) a serene blink — matched to CLIP 1.
+  • SPATIAL LOGIC: FOREGROUND — the walkway leading in. MIDGROUND — Aira walking. BACKGROUND — the bridge, dawn sky, water — matched to CLIP 1.
+  • LIGHTING: KEY — soft dawn-light. FILL — cool ambient. RIM — horizon-glow on the curtain. PRACTICAL — the dawn horizon, dim lamp-posts. SEPARATION — silver form against pastel sky. BOUNCE — soft dawn — matched to CLIP 1.
+  • ATMOSPHERE: fresh dawn restored — the day ready to cycle again.
+  • COLOUR GRADE: VIVID dawn — peach, lavender, soft gold, pale blue, silver-catching-pink — matched to CLIP 1.
+  • TEXTURE & MICRO-DETAIL: silk dawn-sheen, platinum strands, cable-stays, water-ripples, diamond glint, silver-lavender nails — matched.
+
 CUT LOGIC: hard ANGLE-CUT to CLIP 5 (wide). No motion-match; WORLD STATE matches CLIP 1 100%.
 
 ---
@@ -6944,6 +9087,23 @@ LIGHTING-IN-MOTION: soft dawn — matched to CLIP 1.
 DIEGETIC AUDIO: dawn city; footsteps; cables humming; water; waking birds — back to the CLIP-1 bed.
 MASTER TRACK: the dawn strings+flute version of the motif, looping cleanly.
 END STATE / STATE-MATCH LOCK: clip ends in the EXACT dawn-bridge state and wide angle of CLIP 1's START IMAGE — hour, wardrobe and serene expression matched, so the reel loops seamlessly.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 1 (LOOP back to opening) — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the flowing silver-grey silk midi-dress, long sleeves, catching the peach dawn-light, the skirt drifting in a bridge-breeze.
+  • FOOTWEAR: minimal silver flat strappy sandals, mid-stride.
+  • EYEWEAR: none.
+  • ACCESSORIES: a thin silver crescent-moon chain, small diamond studs, a silver cuff, soft silver-lavender glossy nails.
+  • HAIR: a voluminous platinum-silver curtain, centre part, waist-length, metallic sheen catching the first dawn light.
+  • MAKEUP: luminous cool glow — glassy skin, soft rose-nude lip, subtle silver-lavender lid, real pores.
+  • HANDS & NAILS: one hand lightly touching the cable-railing, the other relaxed; silver-lavender glossy nails.
+  • FACIAL MICRO-DYNAMICS: serene calm — soft eyes ahead to the lens, a gentle closed-lip smile, brow relaxed, at peace with the early hour.
+  • BODY POSTURE & WEIGHT: a tall easy walking posture, weight rolling heel-to-toe, hips in natural counter-rotation, spine long, alive.
+  • KINETIC STILLNESS (8 layers): (1) the dawn sky a soft peach-lavender gradient; (2) water below reflecting the pastel sky; (3) the platinum curtain catching dawn; (4) the silk skirt drifting; (5) chest rising; (6) the bridge cables humming faintly; (7) a gull crossing far off; (8) a slow serene blink.
+  • SPATIAL LOGIC: FOREGROUND — the bridge walkway leading in. MIDGROUND — Aira walking. BACKGROUND — the cable-stayed bridge receding, the dawn sky and water.
+  • LIGHTING: KEY — soft dawn-light (diffused, low-angle, peach-pink). FILL — cool pre-sunrise ambient. RIM — a soft horizon-glow on her curtain. PRACTICAL — the dawn horizon, faint lamp-posts not yet lit. SEPARATION — her silver form against the pastel sky. BOUNCE — soft dawn on her skin.
+  • ATMOSPHERE: a fresh dawn over still water, the world quiet and new.
+  • COLOUR GRADE: VIVID dawn — saturated peach + lavender + soft gold + pale blue + her silver dress catching pink; pastel but vivid, full mid-tone.
+  • TEXTURE & MICRO-DETAIL: silk sheen catching dawn, the platinum curtain's metallic strands, cable-stay detail, water-reflection ripples, diamond-stud glint, silver-lavender nails.
+
 CUT LOGIC: ANGLE-CUT / LOOP back to CLIP 1; the next pass re-triggers the time-of-day cycle as she passes the lamp-posts.
 
 ### ☆ EXTERNAL AUDIO — BLOCK 1: BACKGROUND SOUND DESIGN / AMBIENCE BED — E-3
@@ -7038,6 +9198,23 @@ LIGHTING-IN-MOTION: harsh sun softens to diffused, sourceless, luminous fog-ligh
 DIEGETIC AUDIO: full summer city (cars, chatter, fountain, birds); her loafers on dry pavement (sharp clicks); then sounds muffling as fog enters; a foghorn-distant hush.
 MASTER TRACK: a constant cool bass-line + snare (her pace, never changes); the TEXTURE on top shifts from clean dry sunshine-synths toward muffled, reverbed, filtered fog-textures.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 2's START IMAGE must reproduce 100%, new angle only): at clip end the boulevard is in THICK FOG — streetlamp halos, ghost-shape buildings, muffled and soft, she the sharpest thing; white blazer, gold-threaded ponytail, sunglasses still on. CLIP 2 must open in this EXACT fog-world (same thick fog, same halos, same wardrobe) — only the camera angle changes.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 2 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the white linen blazer and black outfit in profile — identical state (unchanged, still no weather-adaptation).
+  • FOOTWEAR: black patent loafers on wet-looking pavement.
+  • EYEWEAR: slim gold sunglasses still ON (absurd in fog — the point).
+  • ACCESSORIES: gold chains glinting through the fog, gold watch beaded with moisture, micro-bag, black nails.
+  • HAIR: the box-braid ponytail with tiny moisture-beads on the gold thread.
+  • MAKEUP: polished editorial, soft fog-diffused.
+  • HANDS & NAILS: one hand relaxed, micro-bag on the forearm; black nails (moisture-beaded).
+  • FACIAL MICRO-DYNAMICS: unchanged — the same self-assured smile behind the shades; wearing sunglasses in fog, not a care; one slow blink.
+  • BODY POSTURE & WEIGHT: a confident walking profile, weight rolling, spine tall, alive.
+  • KINETIC STILLNESS (8 layers): (1) thick fog enveloping the boulevard; (2) streetlamp halos glowing; (3) the braids with moisture-beads; (4) the blazer with a fog-sheen; (5) chest rising; (6) buildings as ghost-shapes; (7) moisture beading on the chains; (8) a slow unconcerned blink.
+  • SPATIAL LOGIC: FOREGROUND — wet-soft pavement. MIDGROUND — Aira in profile (the sharpest thing). BACKGROUND — the fog, streetlamp halos, ghost buildings.
+  • LIGHTING: KEY — diffused sourceless fog-light. FILL — luminous fog. RIM — a faint halo-edge on the ponytail. PRACTICAL — streetlamp halos. SEPARATION — her crisp form against the soft fog. BOUNCE — soft fog-glow.
+  • ATMOSPHERE: muffled cinematic fog — she cuts through it visually.
+  • COLOUR GRADE: VIVID-but-muted-by-fog — grey-white atmosphere, but HER whites and blacks crisp and her gold and berry lip vivid (cutting through). (Matches CLIP 1 END STATE.)
+  • TEXTURE & MICRO-DETAIL: fog density-gradient, moisture-beads on gold and blazer, the braids' gold thread, halo-glow, patent-loafer wet-sheen.
+
 CUT LOGIC: hard ANGLE-CUT to CLIP 2 (profile). No motion-match; WORLD STATE matches 100%.
 
 ---
@@ -7083,6 +9260,23 @@ LIGHTING-IN-MOTION: flat fog-light darkening to storm-light with occasional ligh
 DIEGETIC AUDIO: muffled fog cross-fading into the first raindrops, then a heavy downpour; others shouting and running; puddle-splashes; her steady unchanged loafer-steps.
 MASTER TRACK: the constant bass-and-snare unchanged; the texture shifts from muffled fog to distorted, compressed, heavy rain-textures.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 3's START IMAGE must reproduce 100%, new angle only): at clip end the boulevard is in FULL DOWNPOUR — sheets of rain, rivers underfoot, others fleeing, she still walking; white blazer wet-translucent (still modest), gold-threaded ponytail wet, sunglasses streaming. CLIP 3 must open in this EXACT rain-world (same downpour, same fleeing others, same wet wardrobe) — only the angle changes.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 3 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the white blazer collar now soaked, slightly translucent-wet (still modest), the black crop beneath — identical state.
+  • FOOTWEAR: out of frame.
+  • EYEWEAR: slim gold sunglasses STILL ON, rain streaming over the lenses (absurd, unbothered, iconic).
+  • ACCESSORIES: wet gold chains, rain-drops on the gold watch, black nails.
+  • HAIR: the box-braid ponytail now WET — slick, heavy, the gold thread vivid against the wet black.
+  • MAKEUP: polished editorial, rain-streamed.
+  • HANDS & NAILS: out of frame mostly; black nails.
+  • FACIAL MICRO-DYNAMICS: THE SAME UNBOTHERED SMILE behind the WET sunglasses — rain streaming down her face, dripping from her jaw, running over the lenses, and she's smiling the exact same smile as in the sunshine; genuinely unbothered; one calm blink (water runs over the closed lids).
+  • BODY POSTURE & WEIGHT: walking through the downpour at the same pace, breathing.
+  • KINETIC STILLNESS (8 layers): (1) sheets of rain pouring; (2) others fleeing in the background; (3) the wet braids slick and heavy; (4) the soaked blazer clinging; (5) chest rising; (6) lightning flashing; (7) rain streaming over the sunglasses; (8) a calm blink under the water.
+  • SPATIAL LOGIC: FOREGROUND — rain filling the frame. MIDGROUND — her wet face, sharp. BACKGROUND — the downpour, others fleeing, the rivered street.
+  • LIGHTING: KEY — dark storm-light with lightning-flash backlighting the rain; a passing car-headlight catching her face. FILL — cool storm-grey. RIM — a wet edge on the braids. PRACTICAL — lightning, car-lights, streetlamps. SEPARATION — her glowing-wet form against the dark storm. BOUNCE — cool storm-light.
+  • ATMOSPHERE: the absurd-cool contrast — everyone flees, she strolls.
+  • COLOUR GRADE: storm-VIVID — dark grey sky + rain-silver + her white blazer transparent-wet + gold vivid against the dark; she GLOWS in the rain. (Matches CLIP 2 END STATE.)
+  • TEXTURE & MICRO-DETAIL: rain-streams on the skin, rivulets from the jaw, wet-braid slick, gold thread vivid, rain on the sunglass lenses.
+
 CUT LOGIC: hard ANGLE-CUT to CLIP 3 (close-up). No motion-match; WORLD STATE matches 100%.
 
 ---
@@ -7128,6 +9322,23 @@ LIGHTING-IN-MOTION: dark storm-light brightening to flat luminous snow-light (th
 DIEGETIC AUDIO: heavy rain cross-fading into snow-silence (the most beautiful absence of sound); the soft whisper of falling flakes; her muffled footsteps in snow; a distant plow.
 MASTER TRACK: the constant bass-and-snare unchanged; the texture shifts from heavy distorted rain to stripped, quiet, spacious snow-textures.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 4's START IMAGE must reproduce 100%, new angle only): at clip end the boulevard is in FULL SNOW — thick falling snow, white drifts, snow-laden trees, no other people, lamp-posts snow-crowned; her white blazer snow-dusted (and the rain mysteriously gone/dry), sunglasses snow-edged. CLIP 4 must open in this EXACT snow-world (same blizzard, same drifts, same wardrobe) — only the angle changes.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 4 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the white blazer now snow-dusted on the shoulders, the black crop beneath; the white reads crisp against the white snow by its tailoring and the black crop — identical garment state.
+  • FOOTWEAR: black patent loafers leaving clean prints in fresh snow, snow-flecked.
+  • EYEWEAR: slim gold sunglasses STILL ON — in a blizzard, the joke fully landed.
+  • ACCESSORIES: gold chains, gold watch, black nails, all snow-flecked.
+  • HAIR: the box-braid high ponytail, no longer wet — snow settling on the braids, the gold thread vivid against the white flecks, the ponytail swinging with her stride.
+  • MAKEUP: polished editorial, snow-cool.
+  • HANDS & NAILS: hands relaxed at her sides, one near the mini-bag; black nails with snow-flecks.
+  • FACIAL MICRO-DYNAMICS: seen 3/4 from behind — the cheek catches the same serene smile in profile-edge; one slow blink as a flake lands on a lash.
+  • BODY POSTURE & WEIGHT: a confident walking-away stride, weight rolling heel-to-toe, ponytail and hips in rhythm, spine tall.
+  • KINETIC STILLNESS (8 layers): (1) thick snow falling in the foreground; (2) white drifts banked along the street; (3) snow-laden trees; (4) the swinging snow-dusted ponytail; (5) the blazer shifting with her stride; (6) snow-crowned lamp-posts; (7) clean loafer-prints filling slowly with new flakes; (8) breath-fog at her mouth.
+  • SPATIAL LOGIC: FOREGROUND — falling snow and her clean fresh footprints. MIDGROUND — Aira walking away (the sharp focal point). BACKGROUND — the white wonderland boulevard, snow-laden trees, empty of all others.
+  • LIGHTING: KEY — flat luminous snow-light (the snow bouncing light everywhere). FILL — soft white snow-glow. RIM — a cool bright edge on the ponytail and shoulders. PRACTICAL — snow-crowned lamp-posts glowing. SEPARATION — her dark crop and snow-dusted form against the pure white. BOUNCE — total white bounce from the snow.
+  • ATMOSPHERE: serene winter-wonderland solitude — the whole world hers, snow-quiet.
+  • COLOUR GRADE: snow-VIVID — pure luminous white + her crisp white blazer + black crop + vivid gold thread and chains + black loafers; high-key but RICH, not washed. (Matches CLIP 3 END STATE.)
+  • TEXTURE & MICRO-DETAIL: individual falling flakes, crystalline drift-texture, snow on the braids, breath-fog, clean loafer-prints, snow settling on gold.
+
 CUT LOGIC: hard ANGLE-CUT to CLIP 4 (full body low). No motion-match; WORLD STATE matches 100%.
 
 ---
@@ -7172,6 +9383,23 @@ LIGHTING-IN-MOTION: flat white snow-light warming into golden directional sun, l
 DIEGETIC AUDIO: snow-silence cross-fading into dripping melt, then birdsong, café chatter, traffic — the bright living city returning; her unchanged loafer-steps.
 MASTER TRACK: the constant bass-and-snare unchanged; the texture blooms from quiet spacious snow back into the bright full sunshine-mix (closing the loop).
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 5's START IMAGE must reproduce 100%, new angle only): at clip end the boulevard is in FULL SUNSHINE — blue sky, golden light, dry warm pavement, café tables and people back, trees green — IDENTICAL to CLIP 1's sunshine world; her white blazer dry and crisp, ponytail dry, sunglasses on (now sensible). CLIP 5 must open in this EXACT sunshine-world — only the angle changes (and it equals CLIP 1, closing the loop).
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 5 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the white blazer crisp and dry, the black crop beneath — identical to CLIP 1.
+  • FOOTWEAR: black patent loafers, dry, catching sun-glint.
+  • EYEWEAR: slim gold sunglasses on — finally, the weather agrees with them.
+  • ACCESSORIES: gold chains catching sun, gold watch, black nails.
+  • HAIR: the box-braid high ponytail, dry, the gold thread glinting in the sun, swinging with her approach.
+  • MAKEUP: polished editorial, sun-warm.
+  • HANDS & NAILS: hands relaxed, one near the mini-bag; black nails.
+  • FACIAL MICRO-DYNAMICS: the same serene self-assured smile she has worn through every weather — unchanged, the whole point of the piece; one easy blink in the sun.
+  • BODY POSTURE & WEIGHT: a confident approaching stride, weight rolling, ponytail and hips in rhythm, spine tall and easy.
+  • KINETIC STILLNESS (8 layers): (1) warm sun-shafts and dust-motes; (2) café tables and people back in the background; (3) green sunlit trees; (4) the swinging ponytail; (5) the blazer shifting with her stride; (6) traffic moving far behind; (7) gold glinting; (8) an easy sunny blink.
+  • SPATIAL LOGIC: FOREGROUND — warm dry pavement. MIDGROUND — Aira approaching (the focal point). BACKGROUND — the living sunlit boulevard, cafés, people, trees — exactly CLIP 1.
+  • LIGHTING: KEY — golden directional sun. FILL — warm sky-bounce. RIM — a bright sun-edge on the ponytail and shoulders. PRACTICAL — sunlit shop-signs, café umbrellas. SEPARATION — her crisp form against the bright depth. BOUNCE — warm pavement-bounce.
+  • ATMOSPHERE: bright, alive, resolved — the city restored, she unchanged, the joke complete.
+  • COLOUR GRADE: sunshine-VIVID — blue sky + golden light + green trees + her crisp white/black + vivid gold; rich, warm, saturated. (Matches CLIP 4 END STATE AND CLIP 1's opening — the loop.)
+  • TEXTURE & MICRO-DETAIL: sun-flare, dust-motes, dry warm pavement-grain, the gold thread glint, café-life detail in the depth.
+
 CUT LOGIC: hard ANGLE-CUT to CLIP 5 (wide establishing = CLIP 1). No motion-match; WORLD STATE matches 100%.
 
 ---
@@ -7215,6 +9443,23 @@ LIGHTING-IN-MOTION: steady warm golden sun, sun-flare flickering as she walks th
 DIEGETIC AUDIO: the full bright living boulevard — birdsong, café chatter, traffic, her steady loafer-steps.
 MASTER TRACK: the constant bass-and-snare in its full bright sunshine-mix — landing exactly where CLIP 1 began.
 END STATE / STATE-MATCH LOCK (heavy detail — loops to CLIP 1): the final frame equals CLIP 1's opening frame — same sunshine boulevard, same framing, same wardrobe, same smile. CLIP 1 reopens from here seamlessly.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 1 (LOOP back to opening) — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the crisp white oversized linen blazer over a fitted black crop-top, high-waist black wide-leg trousers, a thin black belt with a gold buckle; sharp.
+  • FOOTWEAR: black patent pointed-toe loafers, glossy, mid-stride.
+  • EYEWEAR: slim gold rectangular sunglasses on.
+  • ACCESSORIES: layered thin gold chains, gold hoops, a gold watch, a black structured micro-bag, black glossy almond nails.
+  • HAIR: long box braids in a high thick ponytail, jet-black with gold thread through select braids, mid-back, swaying with the stride.
+  • MAKEUP: polished editorial — luminous skin, defined brow, soft berry lip, real pores.
+  • HANDS & NAILS: one hand relaxed at her side, the micro-bag on the other forearm; black glossy almond nails.
+  • FACIAL MICRO-DYNAMICS: cool unbothered confidence — eyes hidden behind the gold sunglasses, a self-assured closed-lip smile, chin level, shoulders back; the "I own this" walk.
+  • BODY POSTURE & WEIGHT: a confident walking stride, weight rolling heel-to-toe, hips with natural sway, spine tall, alive.
+  • KINETIC STILLNESS (8 layers): (1) a harsh blue sky, not a cloud; (2) sharp black shadows on the pavement; (3) the braided ponytail swaying; (4) the linen blazer shifting with the stride; (5) chest rising; (6) shop awnings fully open; (7) a sparkling water-fountain; (8) a slow blink behind the shades.
+  • SPATIAL LOGIC: FOREGROUND — the sunny pavement leading in. MIDGROUND — Aira walking. BACKGROUND — the bright boulevard, blue sky, trees, fountain.
+  • LIGHTING: KEY — harsh direct overhead sun (strong top-key, short sharp shadows). FILL — warm bounce off pavement. RIM — a hot sun-edge on the ponytail. PRACTICAL — the blazing sun, fountain sparkle. SEPARATION — her crisp white blazer against the blue. BOUNCE — warm pavement under the chin.
+  • ATMOSPHERE: a bright confident summer-day stroll, sharp and glamorous.
+  • COLOUR GRADE: VIVID sunshine — saturated blue sky + green trees + her crisp white blazer + black accents + gold catching full sun; blazing, full mid-tone.
+  • TEXTURE & MICRO-DETAIL: linen-blazer weave, patent-loafer gloss, box-braid texture with gold thread, sharp shadow geometry, gold-chain links, berry lip, black nails.
+
 CUT LOGIC: seamless ANGLE-CUT / loop back to CLIP 1. WORLD STATE matches 100%. The reel loops forever: she walks, the weather cycles around her, she never changes.
 
 ---
@@ -7313,6 +9558,23 @@ LIGHTING-IN-MOTION: cool dawn warming a notch as the sprout rises — the light 
 DIEGETIC AUDIO: a soft footfall on soil, then the faint organic crackle of the seed and the tiny creak of growing stem, a first birdsong, breeze through new grass.
 MASTER TRACK: a single low cello-drone and a soft heartbeat-pulse establishing — the seed of the score.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 2's START IMAGE must reproduce 100%, new angle only): at clip end a knee-high SAPLING stands at the centre with first delicate leaves; the beds carry a first thin green; light warmed a notch; Aira standing tall beside it, watching, smiling. CLIP 2 must open in this EXACT sapling-world (same sapling, same first-green beds, same light) — only the angle changes.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 2 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the sage-and-moss silk slip dress, the earth-toned wrap off one shoulder, braided waist cord — identical state.
+  • FOOTWEAR: bare feet, the back foot lifting to take the next step.
+  • EYEWEAR: none — luminous profile gaze toward the sapling.
+  • ACCESSORIES: gold leaf earrings (one catching light in profile), the vine bracelet, leaf ring.
+  • HAIR: the loose chestnut waves with woven wildflowers, profile-lit, drifting in the breeze.
+  • MAKEUP: dewy sun-kissed, soft flush, glossy lip, real pores.
+  • HANDS & NAILS: one hand reaching gently toward the sapling's leaves, fingertips near a new leaf; soft natural nails; vine bracelet on the reaching wrist.
+  • FACIAL MICRO-DYNAMICS: tender wonder in profile — a soft open-lipped smile, eye warm and bright on the little tree, a gentle exhale; one slow blink.
+  • BODY POSTURE & WEIGHT: weight on the front foot, torso turned slightly toward the sapling, the back foot lifting, dress trailing behind.
+  • KINETIC STILLNESS (8 layers): (1) the knee-high sapling with first leaves trembling; (2) the first thin green grasses in the beds; (3) the chestnut waves drifting; (4) the silk dress rippling; (5) chest rising; (6) a butterfly arriving in the warming light; (7) dew on a new leaf; (8) a slow blink.
+  • SPATIAL LOGIC: FOREGROUND — the path and the sapling. MIDGROUND — Aira in profile (sharp). BACKGROUND — the clearing taking its first green, the stone wall, the brightening sky.
+  • LIGHTING: KEY — soft warming morning side-light. FILL — gentle sky-fill. RIM — a bright edge along her profile and the waves. PRACTICAL — the climbing sun. SEPARATION — her warm form against the soft green depth. BOUNCE — warm earth-bounce.
+  • ATMOSPHERE: tender early-morning growth — life waking.
+  • COLOUR GRADE: morning-VIVID — tender green sapling + warm soil + first-green beds + her sage/moss dress + chestnut + gold; saturated, fresh, warming. (Matches CLIP 1 END STATE.)
+  • TEXTURE & MICRO-DETAIL: new-leaf veining and dew, sapling-bark fuzz, silk weave, woven petals, profile flyaway hairs, butterfly-wing scales.
+
 CUT LOGIC: hard ANGLE-CUT to CLIP 2 (profile). No motion-match; WORLD STATE matches 100%.
 
 ---
@@ -7357,6 +9619,23 @@ LIGHTING-IN-MOTION: soft morning warming to bright spring sun dappling through t
 DIEGETIC AUDIO: a footfall on soil, the woody creak and rush of fast growth, a swelling burst of birdsong and bees, breeze through blossom, the first petals ticking down.
 MASTER TRACK: the cello-drone joined by warm rising strings and a light plucked motif — the score blooming with the tree.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 3's START IMAGE must reproduce 100%, new angle only): at clip end a full FLOWERING TREE stands in pink-and-white blossom, beds full of spring wildflowers, bees and butterflies, bright spring light, petals drifting; Aira beside it gazing up, smiling, petals in her hair. CLIP 3 must open in this EXACT flowering-spring world (same blossom tree, same wildflowers, same petal-fall, same light) — only the angle changes.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 3 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the sage-and-moss silk slip dress, earth-toned wrap off one shoulder, braided cord — identical state, a few petals caught on the fabric.
+  • FOOTWEAR: bare feet planted on blossom-strewn grass, one foot beginning to lift.
+  • EYEWEAR: none — luminous upward gaze into the canopy.
+  • ACCESSORIES: gold leaf earrings, vine bracelet, leaf ring; a petal resting on one shoulder.
+  • HAIR: loose chestnut waves with woven wildflowers, now also dusted with drifting blossom petals, lifting in the breeze.
+  • MAKEUP: dewy sun-kissed, soft flush, glossy lip, real pores; sun dappling her face through the blossom.
+  • HANDS & NAILS: both hands lifting slightly open at her sides, palms catching falling petals; soft natural nails; vine bracelet bright.
+  • FACIAL MICRO-DYNAMICS: radiant awe — head tilted up, lips parted in a full soft smile, eyes shining and wide tracking the falling petals, brows lifted; a slow wondering blink as a petal grazes her lashes.
+  • BODY POSTURE & WEIGHT: weight rolling onto the front foot, torso open and lifted toward the canopy, the dress and wrap flowing, the back foot lifting for the next step.
+  • KINETIC STILLNESS (8 layers): (1) the vast blossom canopy overhead; (2) thousands of petals drifting down; (3) the chestnut waves and woven flowers lifting; (4) the silk dress rippling; (5) chest rising in awe; (6) bees working the blossom; (7) dappled blossom-light freckling her skin; (8) a slow wondering blink.
+  • SPATIAL LOGIC: FOREGROUND — drifting petals and her upturned face. MIDGROUND — Aira beneath the tree (sharp). BACKGROUND — the towering blossom canopy and bright spring sky breaking through.
+  • LIGHTING: KEY — bright spring sun shafting down through the blossom (dappled top-key). FILL — soft pink blossom-bounce. RIM — a bright halo on her waves from the backlit canopy. PRACTICAL — sun through blossom. SEPARATION — her warm form against the bright canopy. BOUNCE — warm petal-pink bounce on the face.
+  • ATMOSPHERE: peak spring rapture — overwhelming gentle beauty.
+  • COLOUR GRADE: spring-VIVID — explosive pink-and-white blossom + bright blue sky + emerald new grass + her sage/moss dress + chestnut + gold; lush, saturated, glowing. (Matches CLIP 2 END STATE.)
+  • TEXTURE & MICRO-DETAIL: individual petals with translucent veining, blossom-cluster density, bark texture up the trunk, silk weave, dappled skin-light, bee fuzz.
+
 CUT LOGIC: hard ANGLE-CUT to CLIP 3 (low hero angle). No motion-match; WORLD STATE matches 100%.
 
 ---
@@ -7401,6 +9680,23 @@ LIGHTING-IN-MOTION: bright dappled spring deepening into rich shaded high-summer
 DIEGETIC AUDIO: a footfall, the great groaning creak of a tree swelling centuries, a rush of leaves, deep summer cicada-drone and birdsong, wind in a heavy canopy.
 MASTER TRACK: the strings swell to a full warm orchestral high, a deep resonant low end entering — the score at the height of life, lush and grand.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 4's START IMAGE must reproduce 100%, new angle only): at clip end a vast ANCIENT OAK stands — gigantic gnarled furrowed trunk, immense deep-emerald summer canopy, heaved roots, a lush mature summer garden around it, rich gold-green light; Aira small beneath it, gaze lowered, serene. CLIP 4 must open in this EXACT ancient-summer world (same giant oak, same canopy, same mature garden, same light) — only the angle changes.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 4 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the sage-and-moss silk slip dress and earth-toned wrap seen from behind, off one shoulder, braided cord at the waist — identical state.
+  • FOOTWEAR: bare feet on the mature summer path, one foot beginning to lift for the next step.
+  • EYEWEAR: none — she faces away, gazing at the great oak.
+  • ACCESSORIES: the gold leaf earring glinting at her turned jaw, vine bracelet on the hand at her side, leaf ring.
+  • HAIR: loose chestnut waves with woven wildflowers seen from behind, cascading down her back, lifting in the warm summer wind.
+  • MAKEUP: dewy (the cheek-edge visible), soft flush, glossy lip; warm summer light on her skin.
+  • HANDS & NAILS: one hand at her side relaxed, the other drifting up slightly toward the oak; soft natural nails; vine bracelet visible.
+  • FACIAL MICRO-DYNAMICS: seen 3/4 from behind — the visible cheek and eye-edge carry a serene, slightly wistful awe at the giant; a soft profile half-smile; one slow blink.
+  • BODY POSTURE & WEIGHT: standing tall facing the oak, weight rolling onto the front foot, shoulders relaxed and open, dress trailing, the back foot lifting.
+  • KINETIC STILLNESS (8 layers): (1) the immense gnarled trunk ahead; (2) the heavy emerald canopy shifting; (3) her chestnut waves cascading and lifting; (4) the silk dress rippling at her back; (5) shoulders rising with a breath; (6) summer light shafting through leaves; (7) a leaf spiralling down; (8) a slow blink at the turned cheek.
+  • SPATIAL LOGIC: FOREGROUND — her shoulder, waves and back (soft-sharp). MIDGROUND — the path leading to the trunk. BACKGROUND — the vast ancient oak and deep summer garden filling the view.
+  • LIGHTING: KEY — rich warm summer light from ahead, rimming her shoulders and hair. FILL — green canopy-bounce. RIM — a strong warm edge all down her backlit waves and shoulder. PRACTICAL — sun through the heavy canopy. SEPARATION — her rim-lit silhouette against the deep-green oak. BOUNCE — warm path-bounce.
+  • ATMOSPHERE: reverent stillness before the turn — the height of life, about to age.
+  • COLOUR GRADE: high-summer-VIVID — deep emerald canopy + warm gold light + rich brown bark + her sage/moss dress + chestnut + gold; lush and saturated. (Matches CLIP 3 END STATE.)
+  • TEXTURE & MICRO-DETAIL: deep bark-furrow detail on the trunk, individual backlit waves, silk weave at her back, leaf-vein detail, dust-motes in the summer shafts.
+
 CUT LOGIC: hard ANGLE-CUT to CLIP 4 (over-the-shoulder). No motion-match; WORLD STATE matches 100%.
 
 ---
@@ -7445,6 +9741,23 @@ LIGHTING-IN-MOTION: rich summer gold cooling through fiery autumn light into a h
 DIEGETIC AUDIO: a footfall, the dry rush and rattle of falling autumn leaves, a long creaking groan and earth-shaking crash as the trunk falls, then winter wind and a deep settling silence, a single soft seed-drop.
 MASTER TRACK: the grand strings unravel to a lone mournful cello and the soft heartbeat-pulse returning — the score decaying back toward its single opening note.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 5's START IMAGE must reproduce 100%, new angle only): at clip end the plot is BARE EARTH again — the fallen tree decayed away/reclaimed, beds bare and misty, hushed cold light lifting toward dawn, and a single dark SEED resting in fresh soil — IDENTICAL to CLIP 1's opening world; Aira standing serene beside it. CLIP 5 must open in this EXACT bare-earth-and-seed world — only the angle changes (and it equals CLIP 1, closing the loop).
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 5 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the flowing sage-and-moss silk slip dress, earth-toned wrap off one shoulder, braided waist cord — identical to CLIP 1.
+  • FOOTWEAR: bare feet on cool dark soil, settled, one foot poised to begin the next step (restarting the cycle).
+  • EYEWEAR: none — open luminous gaze down at the seed.
+  • ACCESSORIES: gold leaf earrings, vine bracelet, leaf signet ring.
+  • HAIR: long loose chestnut waves with tiny wildflowers and leaves woven through, lifting softly in the dawn breeze.
+  • MAKEUP: dewy sun-kissed, soft flush, glossy natural lip, real pores.
+  • HANDS & NAILS: one hand drifting open at her side; soft natural nails; vine bracelet catching the dawn.
+  • FACIAL MICRO-DYNAMICS: serene knowing wonder — a gentle half-smile, warm eyes on the seed, brows softly lifted — the same look she opened with, now carrying everything she has seen; a slow blink.
+  • BODY POSTURE & WEIGHT: standing tall and settled, weight centring, the foot poised to step again, dress and wrap trailing.
+  • KINETIC STILLNESS (8 layers): (1) fresh-tilled soil; (2) thin dawn mist over bare ground; (3) the chestnut waves and woven flowers drifting; (4) the silk dress rippling; (5) chest rising; (6) the single seed catching a dewdrop; (7) distant bare branches; (8) a slow reverent blink.
+  • SPATIAL LOGIC: FOREGROUND — the soft path and the seed. MIDGROUND — Aira (the focal point). BACKGROUND — the bare misty clearing, empty beds, stone wall, dawn sky — exactly CLIP 1.
+  • LIGHTING: KEY — soft low golden dawn raking the soil. FILL — cool misty sky-fill. RIM — a warm dawn-edge on her waves and shoulder. PRACTICAL — the rising sun glow. SEPARATION — her warm form against the cool ground. BOUNCE — soft warm earth-bounce.
+  • ATMOSPHERE: hushed dawn potential, again — the cycle ready to begin anew.
+  • COLOUR GRADE: dawn-VIVID — rich dark-brown soil + cool silver mist + warm golden dawn + her sage/moss dress + chestnut + gold; saturated earth-tones. (Matches CLIP 4 END STATE AND CLIP 1's opening — the loop.)
+  • TEXTURE & MICRO-DETAIL: soil-grain and clods, the seed's husk and dewdrop, silk weave, woven petals, flyaway hairs, dawn-mist gradient.
+
 CUT LOGIC: hard ANGLE-CUT to CLIP 5 (wide = CLIP 1). No motion-match; WORLD STATE matches 100%.
 
 ---
@@ -7488,6 +9801,23 @@ LIGHTING-IN-MOTION: steady soft golden dawn, mist drifting low.
 DIEGETIC AUDIO: the hushed dawn clearing — a first faint birdsong, breeze over bare soil, the quiet anticipatory stillness; her soft settling breath.
 MASTER TRACK: the lone low cello-drone and soft heartbeat-pulse — landing exactly where CLIP 1 began.
 END STATE / STATE-MATCH LOCK (heavy detail — loops to CLIP 1): the final frame equals CLIP 1's opening frame — same bare misty clearing, same single seed, same framing, same wardrobe, same poised step. CLIP 1 reopens from here seamlessly — and her foot will land, and a whole life will begin again.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 1 (LOOP back to opening) — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the flowing floor-length sage-and-moss silk slip dress with the embroidered climbing-vine motif, the earth-toned knit wrap loose off one shoulder, gathered with the braided-leather waist cord.
+  • FOOTWEAR: bare feet on cool dark soil, one foot raised mid-step about to land.
+  • EYEWEAR: none — open luminous gaze down at the seed.
+  • ACCESSORIES: gold leaf drop earrings, the vine-form gold bracelet, the small leaf signet ring.
+  • HAIR: long loose chestnut waves with tiny wildflowers and small leaves woven through like a living crown, lifting softly in the breeze.
+  • MAKEUP: dewy sun-kissed, soft flush, glossy natural lip, real pores.
+  • HANDS & NAILS: one hand drifting open at her side, fingers relaxed; soft natural nails; the vine bracelet catching light.
+  • FACIAL MICRO-DYNAMICS: serene wonder — lips just parted, a gentle anticipatory half-smile, eyes soft and warm fixed on the seed, brows lifted in quiet reverence; a slow blink.
+  • BODY POSTURE & WEIGHT: weight shifting onto the front foot mid-step, spine long, the wrap and dress trailing, body opening toward the seed.
+  • KINETIC STILLNESS (8 layers): (1) fresh-tilled soil with crumbling clods; (2) a thin morning mist low over the bare ground; (3) the chestnut waves and woven flowers drifting; (4) the silk dress rippling in the breeze; (5) chest rising in a slow breath; (6) a single seed catching a dewdrop; (7) distant bare branches of an empty garden; (8) a slow reverent blink.
+  • SPATIAL LOGIC: FOREGROUND — the soft earthen path and her bare foot. MIDGROUND — Aira mid-step (the focal point). BACKGROUND — the bare misty clearing, empty beds, a low stone wall, dawn sky.
+  • LIGHTING: KEY — soft low golden dawn-light raking across the soil. FILL — cool misty sky-fill. RIM — a warm dawn-edge on her waves and shoulder. PRACTICAL — the rising sun glow. SEPARATION — her warm form against the cool misty ground. BOUNCE — soft earth-bounce, warm under the chin.
+  • ATMOSPHERE: hushed dawn potential — the held breath before life begins.
+  • COLOUR GRADE: dawn-VIVID — rich dark-brown soil + cool silver mist + warm golden dawn + her sage/moss dress + chestnut hair + gold; saturated earth-tones, the deliberately-quiet beat set up for the bloom to come.
+  • TEXTURE & MICRO-DETAIL: soil-grain and crumbling clods, the seed's husk-texture and dewdrop, silk weave, woven petals, fine flyaway hairs, dawn-mist gradient.
+
 CUT LOGIC: seamless ANGLE-CUT / loop back to CLIP 1. WORLD STATE matches 100%. The reel loops forever: she steps, a tree lives and dies a whole life, a new seed drops, she steps again.
 
 ---
