@@ -378,275 +378,6 @@ CUT LOGIC: ANGLE-CUT / LOOP — this clip ends on the CLIP-1 angle and state, so
 
 ---
 
-# PILLAR E — TRANSFORMATION OF PLACE, NOT FACE
-*Feeling: awe. She walks through one continuous space and the WORLD transforms around her — she stays the constant. Built as a STATE-CHAIN: each clip ends in a new state, the next clip opens in that exact state from a new angle.*
-
-# CONCEPT E-1 — ONE HALLWAY, EVERY SEASON
-
-Title: Place-Transforms Hero — one hallway, four seasons cycling as she walks.
-Category / Format: Surreal-elegant transformation reel (long window-lined hallway) · SILENT (diegetic + score only) · CLIP-CHAIN, ANGLE-CUT edit · MULTI-CHANGE (each clip carries one season transition; the clip ENDS in the new season and the next clip OPENS in it from a new angle — 100% world-state match across every cut).
-Story Idea: Aira walks the length of one long, elegant window-lined hallway. Outside the windows the world cycles spring → summer → autumn → winter → spring. Each transition completes WITHIN a clip; the next clip opens already in the new season from a fresh angle. She never changes — same calm, same coat, same braid — while four seasons pass around her.
-Setting: a long elegant interior hallway with a run of tall arched windows down the right wall, pale wood floor, soft wainscoting; outside the windows, a parkland that changes season by season. The hallway's own surfaces subtly retint with each season (light temperature, dappled colour) but its architecture stays constant — only the world outside and the light fully transform.
-Wardrobe: a timeless fitted camel wool coat (mid-calf, belt tied) over a white crew-neck tee and straight dark-wash jeans — deliberately seasonless, the same in every clip.
-Footwear: clean white leather low-top sneakers, the same throughout, mid-stride.
-Eyewear: none.
-Accessories: small gold hoop earrings, a simple gold signet ring, a thin gold chain — minimal and constant; she IS the still point.
-Hair: a single thick low side-braid, dark auburn, draped over the left shoulder, tied with a thin gold clasp at the end — constant.
-Makeup: clean luminous skin, soft rose lip, subtle warm-neutral eye, real pores — constant, retinted only by each season's light.
-Hero Movement / Impossible Move: the seasons transform OUTSIDE the windows and in the hallway light, one transition per clip, completing within each clip; she walks through unchanged.
-Transformation Trigger (signature, consistent): each time Aira PASSES A TALL WINDOW and crosses its shaft of light, that window's light washes the next season down the hallway. One window passed = one season change. The transition begins exactly as she enters the window's light-shaft and resolves into the new season by the clip's end. Same trigger every clip.
-Mood: AWE, serene, time-passing beauty.
-Grade: VIVID per season — saturated cherry-blossom pink (spring), blazing wheat-gold (summer), molten orange-red (autumn), crystalline blue-white (winter); rich blacks, full mid-tone, zero murk; her camel coat the warm constant anchor across all.
-Duration: ~30 seconds · 5 clips (angle-cut state-chain).
-Voice: SILENT — diegetic seasonal ambience + a continuous four-season score.
-Identity safety: AIRA adult; wardrobe modest; mood is wondrous and elegant, never sexualized.
-State chain (angle-cut): CLIP 1 wide front [SPRING→ends SUMMER] → CUT → CLIP 2 over-shoulder [opens SUMMER→ends AUTUMN] → CUT → CLIP 3 profile [opens AUTUMN→ends WINTER] → CUT → CLIP 4 low-angle [opens WINTER→ends SPRING] → CUT → CLIP 5 wide front [opens SPRING = CLIP 1, loop].
-
----
-
-## CLIP 1 of 5 — WIDE · FRONT (walking toward camera) · EYE-LEVEL (opens SPRING, ★ transforms to SUMMER, ends in SUMMER)
-
-### START IMAGE (keyframe — SPRING)
-ANGLE & SHOT SIZE: eye-level WIDE; Aira full body, mid-stride, walking toward camera down the centre of the hallway, the run of tall windows receding on the right.
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
-WARDROBE: the camel wool coat, belt tied, mid-calf, swinging gently with the stride; white tee at the open collar; dark-wash jeans; pristine, seasonless.
-FOOTWEAR: clean white leather low-top sneakers, one mid-stride, sole flexing, a soft contact with the pale wood.
-EYEWEAR: none.
-ACCESSORIES: small gold hoops, gold signet ring on the right hand, thin gold chain at the collar.
-HAIR: the thick low auburn side-braid over the left shoulder, gold clasp at the tip, a few soft flyaways lifting with the walk.
-MAKEUP: clean luminous skin, soft rose lip, warm-neutral eye, real pores; lit cool-fresh by spring light.
-HANDS & NAILS: hands relaxed, one lightly swinging, the other grazing near the coat pocket; short natural nails, soft sheen.
-FACIAL MICRO-DYNAMICS: calm forward gaze to lens, a gentle closed-lip half-smile, brow relaxed, a slow blink — unhurried, present.
-BODY POSTURE & WEIGHT: tall easy walking posture, weight rolling heel-to-toe, hips in natural counter-rotation, shoulders level, breathing.
-KINETIC STILLNESS (8 layers): (1) cherry-blossom petals drifting past the windows outside; (2) soft pink dappled light crawling on the pale floor; (3) the braid swaying with the stride; (4) coat hem swinging; (5) chest rising on a soft breath; (6) a petal that has blown inside spiralling near her shoulder; (7) a curtain breathing at an open window; (8) a slow eyelash settle.
-SPATIAL LOGIC: FOREGROUND — pale wood floor leading in, sharp. MIDGROUND — Aira walking. BACKGROUND — the windowed hallway receding to a soft bright end, blossom-world outside.
-LIGHTING: KEY — soft warm spring daylight from the right-hand windows. FILL — gentle bounce off the pale walls. RIM — a fresh cool edge along the braid and shoulder. PRACTICAL — none. SEPARATION — bright windows behind a softly lit figure. BOUNCE — warm floor kick under the chin.
-LENS + DOF + BOKEH: 35mm, f/4, deep enough to read the hallway; blossoms outside melting to soft pink bokeh.
-COMPOSITION: vertical 9:16, Aira centred and walking in, the window-run a strong leading line down the right, blossom light dappling the floor.
-SUBJECT FRAMING & POSITION: Aira reads as a complete full-length figure, mid-stride, framed head-to-sneakers with floor leading in beneath her, her body squared near-front to camera as she walks toward the lens down the centre of the hallway. The camera holds a mid-far establishing distance at clean eye level, she sits dead-centre on the vertical, and the tall windows recede along frame-right with the blossom-world glowing through them — an open, advancing front view. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
-ATMOSPHERE: fresh spring morning, petals on the air, the hush of new growth.
-COLOUR GRADE: VIVID spring — saturated cherry-blossom pink outside, fresh green hints, pale warm wood, the camel coat a grounding warm anchor; glossy clean light, full mid-tone.
-TEXTURE & MICRO-DETAIL: wool coat nap, blossom petals with translucent veining, pale wood grain, fine braid strands, peach-fuzz in the rim light.
-NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
-
-### ANIMATION (this clip, ~6s — ★ SPRING transforms to SUMMER mid-to-late; clip ENDS fully in summer)
-SHOT TYPE & ANGLE: eye-level wide, front; subject ~45% centre, walking toward lens.
-CAMERA MOVEMENT (CHOREOGRAPHY): a slow dolly-back at her walking pace, keeping her framed centre as the hallway flows past — one continuous shot.
-LENS: 35mm, f/4, deep, soft window fall-off.
-SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.0s — Aira walks toward camera through SPRING light, blossom petals drifting outside, braid and hem swaying; calm gaze to lens.
-- 2.0–4.0s — she continues unbroken; her hand lifts to lightly trail the air as a petal passes — she does not react to what begins next.
-- 4.0–6.0s — she keeps walking, unchanged, as the world resolves fully into SUMMER around her by the final frame.
-FLUIDITY & WEIGHT NOTES: the walk is even and weighted, heel-to-toe; the braid leads and follows the torso rotation; nothing about HER changes — the constancy is the point; all motion eases.
-FABRIC/HAIR/PROP PHYSICS: coat hem swings with real wool weight and delay; braid pendulum-sways; petals (spring) then pollen-motes and drifting seed-fluff (summer) obey correct light-mass air-drift; curtains breathe at the open windows.
-FOOTWORK & BODY FLOW: steady walking cadence, soles flexing, weight rolling — a metronome of calm.
-MID-CLIP TRANSFORMATION (timed — heavy detail): ★ SEASON CHANGE SPRING→SUMMER at 3.0–5.0s, completing by 6.0s. The change sweeps the WORLD, not her: outside the windows, cherry blossoms finish falling and the bare-pink branches thicken into full deep-green summer canopy; the drifting petals give way to golden pollen-motes and seed-fluff; beyond the trees a wheat-gold meadow and a hot blue sky resolve. INSIDE, the light transitions in real time — the cool fresh pink daylight warms and intensifies into blazing wheat-gold summer sun, the dappling on the floor shifting from pink-soft to gold-hard with sharper shadows; the hallway's pale walls retint warm honey. The transition travels along the hallway from the far end toward camera like a wave of light and growth, reaching her by ~5.0s.
-LIGHTING-IN-MOTION: cool spring key warms and strengthens to harsh summer gold across the clip; shadows shorten and sharpen; rim on the braid shifts from cool-pink to warm-gold.
-DIEGETIC AUDIO: spring birdsong and a soft breeze (0.0–3.0s) cross-fading into summer's denser insect-hum, cicada shimmer and a warmer wind (by 6.0s); her even footsteps throughout; a faint leafy rustle as the canopy thickens.
-MASTER TRACK: a continuous score; spring strings-and-flute warming into a fuller, brighter summer string swell across the transition.
-END STATE / STATE-MATCH LOCK (heavy detail — this is what CLIP 2's START IMAGE must reproduce 100%, changing only the angle): at clip end the hallway is FULL SUMMER — outside every window, deep-green full-canopy trees over a wheat-gold meadow under a hot cloudless blue sky; golden pollen-motes and occasional seed-fluff drift on the air, a couple having blown inside; the interior light is blazing warm wheat-gold with short, sharp, high-contrast dappled shadows on the pale wood floor; the walls read warm honey; the curtains lift in a warm breeze. Aira is mid-stride, centre, camel coat and auburn braid unchanged, lit warm-gold, calm half-smile. CLIP 2 must open in this EXACT summer world (same canopy, same gold light, same motes, same floor dapple, same wardrobe state) — only the camera angle changes.
-CUT LOGIC: hard ANGLE-CUT to CLIP 2 (over-the-shoulder from behind). No motion-match needed — the angle change is the edit — but the WORLD STATE must match the END STATE above 100%.
-
----
-
-## CLIP 2 of 5 — MEDIUM-FULL · OVER-THE-SHOULDER (from behind) · EYE-LEVEL (opens SUMMER = CLIP 1 end, ★ transforms to AUTUMN, ends in AUTUMN)
-
-### START IMAGE (keyframe — SUMMER, reproduces CLIP 1's END STATE exactly, new angle)
-ANGLE & SHOT SIZE: eye-level MEDIUM-FULL over-the-shoulder from behind her left shoulder, looking down the hallway ahead of her as she walks away from camera into the summer light.
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
-WARDROBE: the camel wool coat from behind, belt-knot at the small of the back, hem swinging; white tee collar just visible at the nape — identical wardrobe state to CLIP 1.
-FOOTWEAR: clean white sneakers, one heel lifting mid-stride away from camera.
-EYEWEAR: none.
-ACCESSORIES: gold hoop catching warm gold light at the jaw-line in partial profile, signet ring on the swinging hand, thin gold chain.
-HAIR: the auburn side-braid down her back from this angle, gold clasp at the tip, lit warm-gold along its length, soft flyaways.
-MAKEUP: clean luminous skin, rose lip, warm-neutral eye — now lit blazing wheat-gold (summer), matching CLIP 1's end light.
-HANDS & NAILS: hands relaxed at her sides, one mid-swing; natural nails, soft sheen.
-FACIAL MICRO-DYNAMICS: glimpsed in partial profile past the cheek — calm, eyes forward down the bright hallway, lips softly closed, serene.
-BODY POSTURE & WEIGHT: tall walking posture seen from behind, weight rolling forward, shoulders level, the back long and alive, braid swaying.
-KINETIC STILLNESS (8 layers): (1) deep-green summer canopy stirring outside every window; (2) blazing gold dappled light, short and sharp, crawling on the pale floor; (3) the braid swaying down her back; (4) coat hem swinging; (5) golden pollen-motes drifting on the air, a couple indoors; (6) a curtain lifting in a warm breeze; (7) chest rising on a breath; (8) a seed-fluff tuft tumbling slow past her shoulder.
-SPATIAL LOGIC: FOREGROUND — her shoulder and braid, soft. MIDGROUND — the hallway ahead. BACKGROUND — the wheat-gold meadow and hot blue sky beyond the windows, summer full.
-LIGHTING: KEY — blazing warm wheat-gold summer sun from the right-hand windows. FILL — warm honey bounce off the retinted walls. RIM — gold edge down the braid and shoulders. PRACTICAL — none. SEPARATION — bright gold windows behind her shaded back. BOUNCE — warm floor kick.
-LENS + DOF + BOKEH: 50mm, f/2.8; her shoulder soft foreground, the bright hallway and meadow melting to warm gold bokeh ahead.
-COMPOSITION: vertical 9:16, over-the-shoulder — her shoulder/braid anchoring lower-left, the windowed hallway opening down frame-right into summer glow.
-SUBJECT FRAMING & POSITION: Aira is seen from behind over her left shoulder, framed from roughly mid-thigh up so her back and braid fill the soft near-foreground while the summer-lit hallway opens ahead. Her torso faces away down the corridor, walking into the light, head a touch lowered in calm — a true over-the-shoulder view. The camera sits close behind at eye level, she anchors lower-left, and the gold windows recede along frame-right. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
-ATMOSPHERE: high summer heat-shimmer beyond the glass, warm air, drowsy gold.
-COLOUR GRADE: VIVID summer — wheat-gold, deep canopy green, hot blue sky, honey walls, the camel coat blending warm; glossy gold light, full mid-tone. (Exactly matches CLIP 1's END STATE grade.)
-TEXTURE & MICRO-DETAIL: wool nap from behind, individual gold-lit braid strands, pollen-motes catching light, seed-fluff veining, warm wood grain.
-NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
-
-### ANIMATION (this clip, ~6s — opens SUMMER, ★ transforms to AUTUMN, ends fully in AUTUMN)
-SHOT TYPE & ANGLE: eye-level medium-full over-the-shoulder; her back ~45% lower-left, hallway opening right.
-CAMERA MOVEMENT (CHOREOGRAPHY): a slow follow-dolly behind her at her walking pace, gimbal-smooth, holding the over-the-shoulder as she walks deeper — one continuous shot.
-LENS: 50mm, f/2.8, shallow, hallway ahead soft.
-SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.0s — she walks away into the SUMMER hallway, braid swaying, pollen-motes drifting, calm.
-- 2.0–4.0s — she walks on unbroken, one hand grazing a window-ledge as she passes — unreacting to the change beginning around her.
-- 4.0–6.0s — she continues as the world resolves fully into AUTUMN by the final frame.
-FLUIDITY & WEIGHT NOTES: even weighted walk away from lens, braid leading and trailing the spine's micro-rotation; she remains the unchanging constant; all motion eases.
-FABRIC/HAIR/PROP PHYSICS: coat hem swings with wool weight; braid sways down the back; summer pollen-motes give way to spiralling falling leaves obeying turbulent autumn-wind air-drift; a window curtain shifts from a warm summer lift to a cooler crisp flutter.
-FOOTWORK & BODY FLOW: steady receding cadence, soles flexing, weight rolling forward.
-MID-CLIP TRANSFORMATION (timed — heavy detail): ★ SEASON CHANGE SUMMER→AUTUMN at 3.0–5.0s, completing by 6.0s. The world transforms, not her: outside the windows the deep-green canopy ignites into molten orange, scarlet and amber; leaves begin spiralling down in increasing drifts, some blowing in through an open window to scatter on the floor; the wheat-gold meadow fades to russet stubble; the hot blue sky deepens to a lower, amber-gold late-afternoon sky with long shadows. INSIDE, the light cools and lowers in real time — blazing overhead gold becomes a raking low amber, the floor dapple lengthening into long dramatic golden-hour shadows; the honey walls deepen to a richer burnt-amber. The change sweeps from the far end of the hallway toward her like a wave of colour igniting the trees, reaching her by ~5.0s.
-LIGHTING-IN-MOTION: high gold summer key lowers and warms to molten golden-hour amber; shadows lengthen and richen; rim on the braid shifts from bright gold to deep amber.
-DIEGETIC AUDIO: summer cicada-hum and warm wind (0.0–3.0s) cross-fading into autumn's drier rustling-leaf wind, crows in the distance, and leaves scraping the floor (by 6.0s); her even footsteps throughout.
-MASTER TRACK: the summer string swell warms and deepens into a richer autumn cello-and-acoustic colour across the transition — continuous, never cut.
-END STATE / STATE-MATCH LOCK (heavy detail — CLIP 3's START IMAGE must reproduce this 100%, new angle only): at clip end the hallway is FULL AUTUMN — outside every window, molten orange-scarlet-amber canopies dropping leaves over russet stubble, a low amber late-afternoon sky with long shadows; leaves spiral past the glass and a scatter of fallen leaves lies on the pale wood floor near an open window; the interior light is low raking golden-hour amber casting long dramatic dappled shadows; walls read burnt-amber; the curtain flutters cooler. Aira is mid-stride (now to be re-framed), camel coat and auburn braid unchanged, lit warm amber, serene. CLIP 3 must open in this EXACT autumn world (same fire-canopy, same low amber light, same fallen leaves on the floor, same long shadows, same wardrobe) — only the camera angle changes.
-CUT LOGIC: hard ANGLE-CUT to CLIP 3 (full profile, slight low). No motion-match needed; WORLD STATE must match the END STATE above 100%.
-
----
-
-## CLIP 3 of 5 — MEDIUM · FULL PROFILE · SLIGHT LOW ANGLE (opens AUTUMN = CLIP 2 end, ★ transforms to WINTER, ends in WINTER)
-
-### START IMAGE (keyframe — AUTUMN, reproduces CLIP 2's END STATE exactly, new angle)
-ANGLE & SHOT SIZE: slight low-angle MEDIUM, clean full side-profile, walking left-to-right through the autumn hallway, fallen leaves on the floor.
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
-WARDROBE: the camel wool coat in profile, belt tied, hem mid-swing; white tee at the collar; dark jeans — identical wardrobe state.
-FOOTWEAR: white sneakers in profile, one mid-stride over scattered leaves.
-EYEWEAR: none.
-ACCESSORIES: gold hoop clean in profile against an amber window, signet ring, thin gold chain.
-HAIR: the auburn side-braid in side silhouette over the left shoulder, gold clasp, lit deep amber, a loose strand at the cheek.
-MAKEUP: clean skin, rose lip, warm eye — lit low raking amber (autumn), matching CLIP 2's end light.
-HANDS & NAILS: near hand relaxed mid-swing, far hand grazing a window-ledge; natural nails.
-FACIAL MICRO-DYNAMICS: serene profile, eyes forward and level, a faint contented half-smile, a slow blink — unbothered as the world cools.
-BODY POSTURE & WEIGHT: upright profile walking posture, weight rolling heel-to-toe, hips in soft counter-rotation, spine long.
-KINETIC STILLNESS (8 layers): (1) fire-coloured leaves spiralling past the windows; (2) long amber dappled shadows crawling on the floor; (3) the braid swaying in profile; (4) coat hem swinging; (5) fallen leaves stirring on the pale wood; (6) a curtain in a cool flutter; (7) chest rising on a breath; (8) a single leaf tumbling past her face.
-SPATIAL LOGIC: FOREGROUND — fallen leaves on the floor, sharp. MIDGROUND — Aira in profile. BACKGROUND — molten autumn canopies and a low amber sky beyond the windows.
-LIGHTING: KEY — low raking golden-hour amber from the right-hand windows. FILL — warm burnt-amber wall bounce. RIM — deep amber edge along the profile and braid. PRACTICAL — none. SEPARATION — glowing amber windows behind the shaded near-side. BOUNCE — warm floor kick under the jaw.
-LENS + DOF + BOKEH: 50mm, f/2.8; focus on her profile, autumn canopies melting to molten bokeh.
-COMPOSITION: vertical 9:16, profile facing frame-right (her direction of travel), the window-run and fire-canopy as a leading band, leaves scattered foreground.
-SUBJECT FRAMING & POSITION: Aira is shown in a clean full profile from roughly the waist up, framed medium, walking frame-right through the autumn hallway with fallen leaves below. Her torso is square in profile, mid-stride, calm. The camera sits a touch low at mid-distance, she rides slightly left so her path opens to frame-right, and the amber windows run along behind her. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
-ATMOSPHERE: deep autumn, crisp cooling air, the melancholy-warm glow of the year turning.
-COLOUR GRADE: VIVID autumn — molten orange-scarlet-amber, russet, burnt-amber walls, low gold light, the camel coat warm-blending; rich, full mid-tone. (Exactly matches CLIP 2's END STATE.)
-TEXTURE & MICRO-DETAIL: wool nap, leaf veining and curl, long shadow edges, fine braid strands, wood grain with scattered leaves.
-NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
-
-### ANIMATION (this clip, ~6s — opens AUTUMN, ★ transforms to WINTER, ends fully in WINTER)
-SHOT TYPE & ANGLE: slight low-angle profile, medium; subject ~55% left-of-centre, walking right.
-CAMERA MOVEMENT (CHOREOGRAPHY): a slow lateral tracking move keeping pace with her profile as she walks right — one continuous shot.
-LENS: 50mm, f/2.8, shallow.
-SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.0s — she walks frame-right through AUTUMN, leaves spiralling, breath faintly visible as the air cools.
-- 2.0–4.0s — she walks on unbroken, the loose strand lifting in a colder gust — unreacting to the change beginning.
-- 4.0–6.0s — she continues as the world resolves fully into WINTER by the final frame.
-FLUIDITY & WEIGHT NOTES: even profile walk, braid swaying with the spine; she is the constant; all motion eases.
-FABRIC/HAIR/PROP PHYSICS: coat hem swings with wool weight; braid sways; falling autumn leaves give way to drifting snowflakes obeying slow cold air-drift; the fallen leaves on the floor get dusted then covered by a thin advancing frost/snow; her breath becomes visible vapour as the air cools.
-FOOTWORK & BODY FLOW: steady cadence, soles flexing over leaves then over a faint frost-dust.
-MID-CLIP TRANSFORMATION (timed — heavy detail): ★ SEASON CHANGE AUTUMN→WINTER at 3.0–5.0s, completing by 6.0s. The world transforms, not her: outside the windows the fire-canopies shed their last leaves and the branches go bare and black, then dust with snow; the russet meadow whitens under settling snow; the low amber sky pales to a silver-grey winter overcast and snow begins to fall in earnest. INSIDE, the light cools and flattens in real time — low warm amber becomes cool silver-blue, the long warm shadows dissolving into soft even cold light; the burnt-amber walls cool to a pale slate; a thin frost creeps across the bottom of the window-panes; the fallen leaves on the floor are veiled by a faint indoor frost-shimmer. The change sweeps down the hallway toward her like a cold front, reaching her by ~5.0s; her breath fogs.
-LIGHTING-IN-MOTION: warm amber key cools to silver-blue; shadows soften and flatten; rim on the braid shifts from amber to cool silver.
-DIEGETIC AUDIO: autumn's dry leaf-wind and distant crows (0.0–3.0s) cross-fading into winter's hushed muffled stillness, a thin high wind and the soft hiss of falling snow (by 6.0s); her even footsteps, crisper on the cold floor.
-MASTER TRACK: the autumn cello-and-acoustic colour thins and crystallises into a sparse winter solo-piano-and-glass-synth across the transition — continuous.
-END STATE / STATE-MATCH LOCK (heavy detail — CLIP 4's START IMAGE must reproduce this 100%, new angle only): at clip end the hallway is FULL WINTER — outside every window, bare black snow-dusted branches over a white meadow under a silver-grey overcast with snow falling steadily; frost creeps up the window-panes; inside, the light is cool silver-blue, soft and even, no warm shadow; the walls read pale slate; the floor's fallen leaves are veiled in faint frost-shimmer; her breath fogs gently. Aira is mid-stride (to be re-framed), camel coat and auburn braid unchanged, lit cool silver-blue, calm. CLIP 4 must open in this EXACT winter world (same bare snow-branches, same silver light, same frosted panes, same frosted floor, same wardrobe) — only the camera angle changes.
-CUT LOGIC: hard ANGLE-CUT to CLIP 4 (low-angle hero, near-front). No motion-match; WORLD STATE matches the END STATE above 100%.
-
----
-
-## CLIP 4 of 5 — MEDIUM-FULL · NEAR-FRONT · LOW-ANGLE HERO (opens WINTER = CLIP 3 end, ★ transforms to SPRING, ends in SPRING)
-
-### START IMAGE (keyframe — WINTER, reproduces CLIP 3's END STATE exactly, new angle)
-ANGLE & SHOT SIZE: low-angle HERO, medium-full, knees-up, near-front; she pauses mid-hallway, the winter world towering through the windows behind.
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
-WARDROBE: the camel wool coat from the low view, belt tied, hem with a faint snow-dust on the shoulders; white tee; dark jeans — identical wardrobe state.
-FOOTWEAR: white sneakers planted on the faintly frosted floor, the low angle elongating the stance.
-EYEWEAR: none.
-ACCESSORIES: gold hoops with tiny frost-glints, signet ring, thin gold chain.
-HAIR: the auburn side-braid over the left shoulder, gold clasp, a few snowflakes caught in it, cool-lit.
-MAKEUP: clean skin, rose lip, soft eye — lit cool silver-blue (winter), matching CLIP 3's end light, a cold-flush at the cheeks.
-HANDS & NAILS: one hand lifted, palm up, catching a falling snowflake; the other relaxed at her side; natural nails.
-FACIAL MICRO-DYNAMICS: serene near-front gaze just off-lens, a calm closed-lip smile, a slow blink, breath fogging softly — unbothered by the cold.
-BODY POSTURE & WEIGHT: a grounded heroic stance, weight even, shoulders open, spine long, the winter world rising behind.
-KINETIC STILLNESS (8 layers): (1) snow falling steadily past every window; (2) cool silver light soft on the floor; (3) the braid swaying, a snowflake settling on it; (4) coat hem stirring in a cold draft; (5) her breath fogging on each exhale; (6) frost creeping at the pane-edges; (7) a snowflake melting on her upturned palm; (8) a slow eyelash settle.
-SPATIAL LOGIC: FOREGROUND — her upturned palm and a falling snowflake, sharp. MIDGROUND — Aira heroic. BACKGROUND — bare black snow-branches and a silver sky beyond the windows.
-LIGHTING: KEY — soft cool silver-blue winter light from the windows. FILL — pale slate wall bounce. RIM — a cool silver edge down the braid and shoulder. PRACTICAL — none. SEPARATION — bright snow-windows behind the figure. BOUNCE — cool floor kick.
-LENS + DOF + BOKEH: 28mm low and wide for grandeur, f/3.2; focus on Aira, snow melting to soft white bokeh, the hallway towering.
-COMPOSITION: vertical 9:16, Aira commanding centre from the low angle, the window-run rising on the right, falling snow filling the air.
-SUBJECT FRAMING & POSITION: Aira reads from the knees up in a low-angle hero framing, the camera looking up so she stands tall against the winter windows, near-front with one palm lifted to the snow. Her body is squared mostly to camera, grounded and open, head tilted a touch up. The camera is mid-distance and low for grandeur; she holds centre with the snow-world rising behind and the window-run along frame-right. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
-ATMOSPHERE: deep still winter, hushed and crystalline, breath on the cold air.
-COLOUR GRADE: VIVID winter — crystalline silver-blue and white, bare-black branches, pale slate walls, the camel coat the lone warm anchor; clean cold light, full mid-tone. (Exactly matches CLIP 3's END STATE.)
-TEXTURE & MICRO-DETAIL: wool nap with snow-dust, individual snowflakes with crystal structure, frost feathering on panes, fine braid strands, cold-flush skin texture.
-NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
-
-### ANIMATION (this clip, ~6s — opens WINTER, ★ transforms to SPRING, ends fully in SPRING)
-SHOT TYPE & ANGLE: low-angle hero, medium-full, near-front; subject ~60% centre.
-CAMERA MOVEMENT (CHOREOGRAPHY): a slow rise-and-push from the low angle, settling, then easing as she resumes her walk — one continuous shot.
-LENS: 28mm, f/3.2, low and wide.
-SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.0s — she stands in WINTER, palm catching snow, breath fogging, calm.
-- 2.0–4.0s — she lowers her palm and takes the first step to resume walking — unreacting to the thaw beginning.
-- 4.0–6.0s — she walks on as the world resolves fully into SPRING by the final frame.
-FLUIDITY & WEIGHT NOTES: the palm lowers with eased weight; the resumed step rolls heel-to-toe; she remains the constant; all motion eases.
-FABRIC/HAIR/PROP PHYSICS: coat hem stirs then swings as she walks; braid sways, its caught snowflake melting to a droplet that falls; falling snow gives way to drifting cherry-blossom petals obeying light air-drift; frost on the panes melts to clear glass with running droplets.
-FOOTWORK & BODY FLOW: from a grounded stance into a steady resumed cadence.
-MID-CLIP TRANSFORMATION (timed — heavy detail): ★ SEASON CHANGE WINTER→SPRING at 3.0–5.0s, completing by 6.0s. The world transforms, not her: outside the windows the bare black branches bud green and burst into cherry-blossom pink; the white meadow greens and flowers; the silver-grey overcast warms and clears to a soft fresh blue with gentle sun; snow stops and petals drift instead. INSIDE, the light warms in real time — cool silver-blue becomes fresh warm spring daylight, soft pink dappling returning to the floor; the pale slate walls warm back to pale wood-cream; the frost melts from the panes; the floor's frost-shimmer gives way to a clean pale wood with a drifted petal or two. The thaw sweeps down the hallway toward her like a warm front, reaching her by ~5.0s; her breath stops fogging.
-LIGHTING-IN-MOTION: cool silver key warms to fresh spring daylight; soft pink dapple returns; rim on the braid shifts from cool silver back to fresh cool-warm.
-DIEGETIC AUDIO: winter's hushed wind and snow-hiss (0.0–3.0s) cross-fading into spring's returning birdsong, a soft warm breeze and dripping melt (by 6.0s); her even footsteps resuming.
-MASTER TRACK: the sparse winter piano-and-glass blooms back into spring strings-and-flute across the transition — continuous, closing the musical year.
-END STATE / STATE-MATCH LOCK (heavy detail — CLIP 5's START IMAGE must reproduce this 100%, and it equals CLIP 1's opening world): at clip end the hallway is FULL SPRING — outside every window, cherry-blossom pink canopies over a fresh green flowering meadow under a soft clear blue sky with gentle sun; blossom petals drift past the glass and a couple have blown inside; inside, the light is fresh warm spring daylight with soft pink dappling on clean pale wood; the walls are pale wood-cream; panes are clear; her breath no longer fogs. Aira is mid-stride, camel coat and auburn braid unchanged, lit fresh-spring, calm half-smile. CLIP 5 must open in this EXACT spring world — which is identical to CLIP 1's opening — so the reel loops.
-CUT LOGIC: hard ANGLE-CUT to CLIP 5 (wide front — the opening angle). No motion-match; WORLD STATE matches the END STATE above 100% (and equals CLIP 1).
-
----
-
-## CLIP 5 of 5 — WIDE · FRONT (walking toward camera) · EYE-LEVEL (opens SPRING = CLIP 1; loop close)
-
-### START IMAGE (keyframe — SPRING, reproduces CLIP 4's END STATE = CLIP 1's opening, the loop angle)
-ANGLE & SHOT SIZE: eye-level WIDE; Aira full body, mid-stride, walking toward camera down the centre of the hallway — the identical opening angle, the spring world restored.
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
-WARDROBE: the camel wool coat, belt tied, mid-calf, swinging with the stride; white tee; dark-wash jeans — matched to CLIP 1.
-FOOTWEAR: clean white sneakers, mid-stride, soft contact with pale wood.
-EYEWEAR: none.
-ACCESSORIES: gold hoops, gold signet ring, thin gold chain — matched.
-HAIR: the thick low auburn side-braid over the left shoulder, gold clasp, soft flyaways — matched to CLIP 1.
-MAKEUP: clean luminous skin, soft rose lip, warm-neutral eye — lit cool-fresh spring, matched to CLIP 1.
-HANDS & NAILS: hands relaxed, one lightly swinging, the other near the coat pocket; natural nails.
-FACIAL MICRO-DYNAMICS: calm forward gaze to lens, the gentle closed-lip half-smile, a slow blink — the exact opening resting face.
-BODY POSTURE & WEIGHT: tall easy walking posture, weight rolling heel-to-toe, hips in natural counter-rotation — matched to CLIP 1.
-KINETIC STILLNESS (8 layers): (1) cherry-blossom petals drifting past the windows; (2) soft pink dappled light crawling on the floor; (3) the braid swaying; (4) coat hem swinging; (5) chest rising on a breath; (6) a petal spiralling near her shoulder; (7) a curtain breathing at an open window; (8) a slow eyelash settle — all matched to CLIP 1.
-SPATIAL LOGIC: FOREGROUND — pale wood floor leading in. MIDGROUND — Aira walking. BACKGROUND — the windowed hallway receding to a bright blossom-world end — matched to CLIP 1.
-LIGHTING: KEY — soft warm spring daylight from the right windows. FILL — pale wall bounce. RIM — fresh cool edge on the braid and shoulder. PRACTICAL — none. SEPARATION — bright windows behind a softly lit figure. BOUNCE — warm floor kick — matched to CLIP 1.
-LENS + DOF + BOKEH: 35mm, f/4, deep; blossoms melting to soft pink bokeh — matched to CLIP 1.
-COMPOSITION: vertical 9:16, Aira centred and walking in, the window-run a leading line down the right, blossom dapple on the floor — identical to CLIP 1 so the reel loops.
-SUBJECT FRAMING & POSITION: Aira reads as a complete full-length figure, mid-stride, framed head-to-sneakers with floor leading in, body squared near-front as she walks toward the lens down the hallway centre. The camera holds the identical mid-far establishing distance at clean eye level, she sits dead-centre, and the tall windows recede along frame-right with the blossom-world glowing through — exactly rhyming with CLIP 1 so the loop is seamless on the angle. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
-ATMOSPHERE: fresh spring morning restored — the year come full circle.
-COLOUR GRADE: VIVID spring — saturated cherry-blossom pink, fresh green, pale warm wood, the camel coat warm anchor — matched to CLIP 1.
-TEXTURE & MICRO-DETAIL: wool nap, translucent petal veining, pale wood grain, fine braid strands, peach-fuzz in the rim — matched.
-NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
-
-### ANIMATION (this clip, ~6s — SPRING restored; loop close, no new transformation)
-SHOT TYPE & ANGLE: eye-level wide, front; subject ~45% centre, walking toward lens — matched to CLIP 1.
-CAMERA MOVEMENT (CHOREOGRAPHY): a slow dolly-back at her walking pace, settling to the exact CLIP-1 establishing framing.
-LENS: 35mm, f/4, deep — matched.
-SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.0s — Aira walks toward camera through restored SPRING light, petals drifting, braid and hem swaying, calm gaze to lens.
-- 2.0–4.0s — she continues unbroken, approaching the first tall window again (the signature trigger primed for the next loop).
-- 4.0–6.0s — she settles into the exact opening stride and half-smile, the framing matched to CLIP 1 for a seamless loop.
-FLUIDITY & WEIGHT NOTES: even weighted walk, braid leading and following the torso; the constant, unchanged; all motion eases to the opening rhythm.
-FABRIC/HAIR/PROP PHYSICS: coat hem swings with wool weight; braid pendulum-sways; petals obey light air-drift; curtains breathe — matched to CLIP 1.
-FOOTWORK & BODY FLOW: steady walking cadence returning to the opening metronome.
-MID-CLIP TRANSFORMATION (timed): NONE — this is the loop-close in restored spring; the next season change would re-trigger as she passes the first window again at the top of the loop (i.e., the start of CLIP 1).
-LIGHTING-IN-MOTION: fresh spring key steady, matched to CLIP 1's opening level.
-DIEGETIC AUDIO: spring birdsong, a soft breeze, even footsteps — returning to the CLIP-1 bed.
-MASTER TRACK: the four-season score resolves back to its opening spring strings-and-flute, looping cleanly.
-END STATE / STATE-MATCH LOCK: clip ends in the EXACT spring world and wide-front angle of CLIP 1's START IMAGE — positions, light, petals, floor dapple, wardrobe and expression all matched, so the reel loops seamlessly.
-CUT LOGIC: ANGLE-CUT / LOOP back to CLIP 1. The reel loops; the next pass re-triggers the spring→summer change as she crosses the first window.
-
-### ☆ EXTERNAL AUDIO — BLOCK 1: BACKGROUND SOUND DESIGN / AMBIENCE BED — E-1
-*The layered foley + per-season ambience to lay UNDER the reel, separate from the in-clip diegetic audio — timed to the clips and cross-fading on each window-trigger.*
-- Base bed (all clips): a soft interior hallway room-tone; faint even footsteps on pale wood throughout; a curtain breathing at an open window.
-- CLIP 1 (spring→summer): spring birdsong + soft breeze cross-fading into summer's denser insect-hum, cicada shimmer and a warmer wind; a leafy rustle as the canopy thickens.
-- CLIP 2 (summer→autumn): cicada-hum + warm wind cross-fading into a dry rustling-leaf wind, distant crows, leaves scraping the floor.
-- CLIP 3 (autumn→winter): dry leaf-wind + crows cross-fading into a hushed muffled stillness, a thin high wind, the soft hiss of falling snow; footsteps turn crisp.
-- CLIP 4 (winter→spring): snow-hiss + thin wind cross-fading into returning birdsong, a soft warm breeze and dripping melt.
-- CLIP 5 (spring restored): spring birdsong + breeze returning to the CLIP-1 level for the loop.
-- Mix note: each cross-fade lands in sync with the window-trigger (~3.0–5.0s of each clip); seamless, never an abrupt cut. Loops cleanly at ~30s.
-
-### ☆ EXTERNAL AUDIO — BLOCK 2: BACKGROUND MUSIC / SCORE TRACK — E-1 (lay under the sound bed)
-- Genre / vibe: a continuous four-season orchestral journey — one unbroken piece that morphs colour with each season, like Vivaldi reimagined as a film score; she is the steady melodic centre, the seasons are the orchestration around it.
-- Tempo / key: ~88 BPM throughout; key colour shifts — Spring D major (bright), Summer A major (blazing/full), Autumn E minor (rich), Winter C minor (crystalline), resolving back to D major.
-- Core elements: a constant 8-note "Aira walk" melodic motif that NEVER changes (her constancy); the orchestration around it transforms each clip — Spring: strings + flute; Summer: full brass + warm strings; Autumn: solo cello + acoustic guitar; Winter: solo piano + glass-synth; back to Spring strings + flute.
-- Arc: the motif rides unchanged while each window-trigger cross-fades the orchestration to the next season's palette in sync with the visual transition (~3.0–5.0s of each clip); fullest at the summer brass; sparest at the winter piano; resolves to the spring opening on the loop.
-- Texture note: the cross-fades must be SEAMLESS (instruments morph, never cut) so the score reads as one continuous evolving piece — the sonic equivalent of one hallway changing around a constant walker.
-- Loop: a clean ~30s loop; the spring resolution rejoins the spring opening with no seam.
-
----
-
 # CONCEPT A-2 — EVERY FLOOR'S A DIFFERENT WORLD
 
 Title: Everyday Magic Hero — a mirrored elevator whose doors open onto impossible worlds.
@@ -6216,6 +5947,275 @@ CUT LOGIC: ANGLE-CUT / LOOP back to CLIP 1; the next pass re-triggers the warmth
 
 ---
 
+# PILLAR E — TRANSFORMATION OF PLACE, NOT FACE
+*Feeling: awe. She walks through one continuous space and the WORLD transforms around her — she stays the constant. Built as a STATE-CHAIN: each clip ends in a new state, the next clip opens in that exact state from a new angle.*
+
+# CONCEPT E-1 — ONE HALLWAY, EVERY SEASON
+
+Title: Place-Transforms Hero — one hallway, four seasons cycling as she walks.
+Category / Format: Surreal-elegant transformation reel (long window-lined hallway) · SILENT (diegetic + score only) · CLIP-CHAIN, ANGLE-CUT edit · MULTI-CHANGE (each clip carries one season transition; the clip ENDS in the new season and the next clip OPENS in it from a new angle — 100% world-state match across every cut).
+Story Idea: Aira walks the length of one long, elegant window-lined hallway. Outside the windows the world cycles spring → summer → autumn → winter → spring. Each transition completes WITHIN a clip; the next clip opens already in the new season from a fresh angle. She never changes — same calm, same coat, same braid — while four seasons pass around her.
+Setting: a long elegant interior hallway with a run of tall arched windows down the right wall, pale wood floor, soft wainscoting; outside the windows, a parkland that changes season by season. The hallway's own surfaces subtly retint with each season (light temperature, dappled colour) but its architecture stays constant — only the world outside and the light fully transform.
+Wardrobe: a timeless fitted camel wool coat (mid-calf, belt tied) over a white crew-neck tee and straight dark-wash jeans — deliberately seasonless, the same in every clip.
+Footwear: clean white leather low-top sneakers, the same throughout, mid-stride.
+Eyewear: none.
+Accessories: small gold hoop earrings, a simple gold signet ring, a thin gold chain — minimal and constant; she IS the still point.
+Hair: a single thick low side-braid, dark auburn, draped over the left shoulder, tied with a thin gold clasp at the end — constant.
+Makeup: clean luminous skin, soft rose lip, subtle warm-neutral eye, real pores — constant, retinted only by each season's light.
+Hero Movement / Impossible Move: the seasons transform OUTSIDE the windows and in the hallway light, one transition per clip, completing within each clip; she walks through unchanged.
+Transformation Trigger (signature, consistent): each time Aira PASSES A TALL WINDOW and crosses its shaft of light, that window's light washes the next season down the hallway. One window passed = one season change. The transition begins exactly as she enters the window's light-shaft and resolves into the new season by the clip's end. Same trigger every clip.
+Mood: AWE, serene, time-passing beauty.
+Grade: VIVID per season — saturated cherry-blossom pink (spring), blazing wheat-gold (summer), molten orange-red (autumn), crystalline blue-white (winter); rich blacks, full mid-tone, zero murk; her camel coat the warm constant anchor across all.
+Duration: ~30 seconds · 5 clips (angle-cut state-chain).
+Voice: SILENT — diegetic seasonal ambience + a continuous four-season score.
+Identity safety: AIRA adult; wardrobe modest; mood is wondrous and elegant, never sexualized.
+State chain (angle-cut): CLIP 1 wide front [SPRING→ends SUMMER] → CUT → CLIP 2 over-shoulder [opens SUMMER→ends AUTUMN] → CUT → CLIP 3 profile [opens AUTUMN→ends WINTER] → CUT → CLIP 4 low-angle [opens WINTER→ends SPRING] → CUT → CLIP 5 wide front [opens SPRING = CLIP 1, loop].
+
+---
+
+## CLIP 1 of 5 — WIDE · FRONT (walking toward camera) · EYE-LEVEL (opens SPRING, ★ transforms to SUMMER, ends in SUMMER)
+
+### START IMAGE (keyframe — SPRING)
+ANGLE & SHOT SIZE: eye-level WIDE; Aira full body, mid-stride, walking toward camera down the centre of the hallway, the run of tall windows receding on the right.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: the camel wool coat, belt tied, mid-calf, swinging gently with the stride; white tee at the open collar; dark-wash jeans; pristine, seasonless.
+FOOTWEAR: clean white leather low-top sneakers, one mid-stride, sole flexing, a soft contact with the pale wood.
+EYEWEAR: none.
+ACCESSORIES: small gold hoops, gold signet ring on the right hand, thin gold chain at the collar.
+HAIR: the thick low auburn side-braid over the left shoulder, gold clasp at the tip, a few soft flyaways lifting with the walk.
+MAKEUP: clean luminous skin, soft rose lip, warm-neutral eye, real pores; lit cool-fresh by spring light.
+HANDS & NAILS: hands relaxed, one lightly swinging, the other grazing near the coat pocket; short natural nails, soft sheen.
+FACIAL MICRO-DYNAMICS: calm forward gaze to lens, a gentle closed-lip half-smile, brow relaxed, a slow blink — unhurried, present.
+BODY POSTURE & WEIGHT: tall easy walking posture, weight rolling heel-to-toe, hips in natural counter-rotation, shoulders level, breathing.
+KINETIC STILLNESS (8 layers): (1) cherry-blossom petals drifting past the windows outside; (2) soft pink dappled light crawling on the pale floor; (3) the braid swaying with the stride; (4) coat hem swinging; (5) chest rising on a soft breath; (6) a petal that has blown inside spiralling near her shoulder; (7) a curtain breathing at an open window; (8) a slow eyelash settle.
+SPATIAL LOGIC: FOREGROUND — pale wood floor leading in, sharp. MIDGROUND — Aira walking. BACKGROUND — the windowed hallway receding to a soft bright end, blossom-world outside.
+LIGHTING: KEY — soft warm spring daylight from the right-hand windows. FILL — gentle bounce off the pale walls. RIM — a fresh cool edge along the braid and shoulder. PRACTICAL — none. SEPARATION — bright windows behind a softly lit figure. BOUNCE — warm floor kick under the chin.
+LENS + DOF + BOKEH: 35mm, f/4, deep enough to read the hallway; blossoms outside melting to soft pink bokeh.
+COMPOSITION: vertical 9:16, Aira centred and walking in, the window-run a strong leading line down the right, blossom light dappling the floor.
+SUBJECT FRAMING & POSITION: Aira reads as a complete full-length figure, mid-stride, framed head-to-sneakers with floor leading in beneath her, her body squared near-front to camera as she walks toward the lens down the centre of the hallway. The camera holds a mid-far establishing distance at clean eye level, she sits dead-centre on the vertical, and the tall windows recede along frame-right with the blossom-world glowing through them — an open, advancing front view. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: fresh spring morning, petals on the air, the hush of new growth.
+COLOUR GRADE: VIVID spring — saturated cherry-blossom pink outside, fresh green hints, pale warm wood, the camel coat a grounding warm anchor; glossy clean light, full mid-tone.
+TEXTURE & MICRO-DETAIL: wool coat nap, blossom petals with translucent veining, pale wood grain, fine braid strands, peach-fuzz in the rim light.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
+
+### ANIMATION (this clip, ~6s — ★ SPRING transforms to SUMMER mid-to-late; clip ENDS fully in summer)
+SHOT TYPE & ANGLE: eye-level wide, front; subject ~45% centre, walking toward lens.
+CAMERA MOVEMENT (CHOREOGRAPHY): a slow dolly-back at her walking pace, keeping her framed centre as the hallway flows past — one continuous shot.
+LENS: 35mm, f/4, deep, soft window fall-off.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–2.0s — Aira walks toward camera through SPRING light, blossom petals drifting outside, braid and hem swaying; calm gaze to lens.
+- 2.0–4.0s — she continues unbroken; her hand lifts to lightly trail the air as a petal passes — she does not react to what begins next.
+- 4.0–6.0s — she keeps walking, unchanged, as the world resolves fully into SUMMER around her by the final frame.
+FLUIDITY & WEIGHT NOTES: the walk is even and weighted, heel-to-toe; the braid leads and follows the torso rotation; nothing about HER changes — the constancy is the point; all motion eases.
+FABRIC/HAIR/PROP PHYSICS: coat hem swings with real wool weight and delay; braid pendulum-sways; petals (spring) then pollen-motes and drifting seed-fluff (summer) obey correct light-mass air-drift; curtains breathe at the open windows.
+FOOTWORK & BODY FLOW: steady walking cadence, soles flexing, weight rolling — a metronome of calm.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ SEASON CHANGE SPRING→SUMMER at 3.0–5.0s, completing by 6.0s. The change sweeps the WORLD, not her: outside the windows, cherry blossoms finish falling and the bare-pink branches thicken into full deep-green summer canopy; the drifting petals give way to golden pollen-motes and seed-fluff; beyond the trees a wheat-gold meadow and a hot blue sky resolve. INSIDE, the light transitions in real time — the cool fresh pink daylight warms and intensifies into blazing wheat-gold summer sun, the dappling on the floor shifting from pink-soft to gold-hard with sharper shadows; the hallway's pale walls retint warm honey. The transition travels along the hallway from the far end toward camera like a wave of light and growth, reaching her by ~5.0s.
+LIGHTING-IN-MOTION: cool spring key warms and strengthens to harsh summer gold across the clip; shadows shorten and sharpen; rim on the braid shifts from cool-pink to warm-gold.
+DIEGETIC AUDIO: spring birdsong and a soft breeze (0.0–3.0s) cross-fading into summer's denser insect-hum, cicada shimmer and a warmer wind (by 6.0s); her even footsteps throughout; a faint leafy rustle as the canopy thickens.
+MASTER TRACK: a continuous score; spring strings-and-flute warming into a fuller, brighter summer string swell across the transition.
+END STATE / STATE-MATCH LOCK (heavy detail — this is what CLIP 2's START IMAGE must reproduce 100%, changing only the angle): at clip end the hallway is FULL SUMMER — outside every window, deep-green full-canopy trees over a wheat-gold meadow under a hot cloudless blue sky; golden pollen-motes and occasional seed-fluff drift on the air, a couple having blown inside; the interior light is blazing warm wheat-gold with short, sharp, high-contrast dappled shadows on the pale wood floor; the walls read warm honey; the curtains lift in a warm breeze. Aira is mid-stride, centre, camel coat and auburn braid unchanged, lit warm-gold, calm half-smile. CLIP 2 must open in this EXACT summer world (same canopy, same gold light, same motes, same floor dapple, same wardrobe state) — only the camera angle changes.
+CUT LOGIC: hard ANGLE-CUT to CLIP 2 (over-the-shoulder from behind). No motion-match needed — the angle change is the edit — but the WORLD STATE must match the END STATE above 100%.
+
+---
+
+## CLIP 2 of 5 — MEDIUM-FULL · OVER-THE-SHOULDER (from behind) · EYE-LEVEL (opens SUMMER = CLIP 1 end, ★ transforms to AUTUMN, ends in AUTUMN)
+
+### START IMAGE (keyframe — SUMMER, reproduces CLIP 1's END STATE exactly, new angle)
+ANGLE & SHOT SIZE: eye-level MEDIUM-FULL over-the-shoulder from behind her left shoulder, looking down the hallway ahead of her as she walks away from camera into the summer light.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: the camel wool coat from behind, belt-knot at the small of the back, hem swinging; white tee collar just visible at the nape — identical wardrobe state to CLIP 1.
+FOOTWEAR: clean white sneakers, one heel lifting mid-stride away from camera.
+EYEWEAR: none.
+ACCESSORIES: gold hoop catching warm gold light at the jaw-line in partial profile, signet ring on the swinging hand, thin gold chain.
+HAIR: the auburn side-braid down her back from this angle, gold clasp at the tip, lit warm-gold along its length, soft flyaways.
+MAKEUP: clean luminous skin, rose lip, warm-neutral eye — now lit blazing wheat-gold (summer), matching CLIP 1's end light.
+HANDS & NAILS: hands relaxed at her sides, one mid-swing; natural nails, soft sheen.
+FACIAL MICRO-DYNAMICS: glimpsed in partial profile past the cheek — calm, eyes forward down the bright hallway, lips softly closed, serene.
+BODY POSTURE & WEIGHT: tall walking posture seen from behind, weight rolling forward, shoulders level, the back long and alive, braid swaying.
+KINETIC STILLNESS (8 layers): (1) deep-green summer canopy stirring outside every window; (2) blazing gold dappled light, short and sharp, crawling on the pale floor; (3) the braid swaying down her back; (4) coat hem swinging; (5) golden pollen-motes drifting on the air, a couple indoors; (6) a curtain lifting in a warm breeze; (7) chest rising on a breath; (8) a seed-fluff tuft tumbling slow past her shoulder.
+SPATIAL LOGIC: FOREGROUND — her shoulder and braid, soft. MIDGROUND — the hallway ahead. BACKGROUND — the wheat-gold meadow and hot blue sky beyond the windows, summer full.
+LIGHTING: KEY — blazing warm wheat-gold summer sun from the right-hand windows. FILL — warm honey bounce off the retinted walls. RIM — gold edge down the braid and shoulders. PRACTICAL — none. SEPARATION — bright gold windows behind her shaded back. BOUNCE — warm floor kick.
+LENS + DOF + BOKEH: 50mm, f/2.8; her shoulder soft foreground, the bright hallway and meadow melting to warm gold bokeh ahead.
+COMPOSITION: vertical 9:16, over-the-shoulder — her shoulder/braid anchoring lower-left, the windowed hallway opening down frame-right into summer glow.
+SUBJECT FRAMING & POSITION: Aira is seen from behind over her left shoulder, framed from roughly mid-thigh up so her back and braid fill the soft near-foreground while the summer-lit hallway opens ahead. Her torso faces away down the corridor, walking into the light, head a touch lowered in calm — a true over-the-shoulder view. The camera sits close behind at eye level, she anchors lower-left, and the gold windows recede along frame-right. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: high summer heat-shimmer beyond the glass, warm air, drowsy gold.
+COLOUR GRADE: VIVID summer — wheat-gold, deep canopy green, hot blue sky, honey walls, the camel coat blending warm; glossy gold light, full mid-tone. (Exactly matches CLIP 1's END STATE grade.)
+TEXTURE & MICRO-DETAIL: wool nap from behind, individual gold-lit braid strands, pollen-motes catching light, seed-fluff veining, warm wood grain.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
+
+### ANIMATION (this clip, ~6s — opens SUMMER, ★ transforms to AUTUMN, ends fully in AUTUMN)
+SHOT TYPE & ANGLE: eye-level medium-full over-the-shoulder; her back ~45% lower-left, hallway opening right.
+CAMERA MOVEMENT (CHOREOGRAPHY): a slow follow-dolly behind her at her walking pace, gimbal-smooth, holding the over-the-shoulder as she walks deeper — one continuous shot.
+LENS: 50mm, f/2.8, shallow, hallway ahead soft.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–2.0s — she walks away into the SUMMER hallway, braid swaying, pollen-motes drifting, calm.
+- 2.0–4.0s — she walks on unbroken, one hand grazing a window-ledge as she passes — unreacting to the change beginning around her.
+- 4.0–6.0s — she continues as the world resolves fully into AUTUMN by the final frame.
+FLUIDITY & WEIGHT NOTES: even weighted walk away from lens, braid leading and trailing the spine's micro-rotation; she remains the unchanging constant; all motion eases.
+FABRIC/HAIR/PROP PHYSICS: coat hem swings with wool weight; braid sways down the back; summer pollen-motes give way to spiralling falling leaves obeying turbulent autumn-wind air-drift; a window curtain shifts from a warm summer lift to a cooler crisp flutter.
+FOOTWORK & BODY FLOW: steady receding cadence, soles flexing, weight rolling forward.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ SEASON CHANGE SUMMER→AUTUMN at 3.0–5.0s, completing by 6.0s. The world transforms, not her: outside the windows the deep-green canopy ignites into molten orange, scarlet and amber; leaves begin spiralling down in increasing drifts, some blowing in through an open window to scatter on the floor; the wheat-gold meadow fades to russet stubble; the hot blue sky deepens to a lower, amber-gold late-afternoon sky with long shadows. INSIDE, the light cools and lowers in real time — blazing overhead gold becomes a raking low amber, the floor dapple lengthening into long dramatic golden-hour shadows; the honey walls deepen to a richer burnt-amber. The change sweeps from the far end of the hallway toward her like a wave of colour igniting the trees, reaching her by ~5.0s.
+LIGHTING-IN-MOTION: high gold summer key lowers and warms to molten golden-hour amber; shadows lengthen and richen; rim on the braid shifts from bright gold to deep amber.
+DIEGETIC AUDIO: summer cicada-hum and warm wind (0.0–3.0s) cross-fading into autumn's drier rustling-leaf wind, crows in the distance, and leaves scraping the floor (by 6.0s); her even footsteps throughout.
+MASTER TRACK: the summer string swell warms and deepens into a richer autumn cello-and-acoustic colour across the transition — continuous, never cut.
+END STATE / STATE-MATCH LOCK (heavy detail — CLIP 3's START IMAGE must reproduce this 100%, new angle only): at clip end the hallway is FULL AUTUMN — outside every window, molten orange-scarlet-amber canopies dropping leaves over russet stubble, a low amber late-afternoon sky with long shadows; leaves spiral past the glass and a scatter of fallen leaves lies on the pale wood floor near an open window; the interior light is low raking golden-hour amber casting long dramatic dappled shadows; walls read burnt-amber; the curtain flutters cooler. Aira is mid-stride (now to be re-framed), camel coat and auburn braid unchanged, lit warm amber, serene. CLIP 3 must open in this EXACT autumn world (same fire-canopy, same low amber light, same fallen leaves on the floor, same long shadows, same wardrobe) — only the camera angle changes.
+CUT LOGIC: hard ANGLE-CUT to CLIP 3 (full profile, slight low). No motion-match needed; WORLD STATE must match the END STATE above 100%.
+
+---
+
+## CLIP 3 of 5 — MEDIUM · FULL PROFILE · SLIGHT LOW ANGLE (opens AUTUMN = CLIP 2 end, ★ transforms to WINTER, ends in WINTER)
+
+### START IMAGE (keyframe — AUTUMN, reproduces CLIP 2's END STATE exactly, new angle)
+ANGLE & SHOT SIZE: slight low-angle MEDIUM, clean full side-profile, walking left-to-right through the autumn hallway, fallen leaves on the floor.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: the camel wool coat in profile, belt tied, hem mid-swing; white tee at the collar; dark jeans — identical wardrobe state.
+FOOTWEAR: white sneakers in profile, one mid-stride over scattered leaves.
+EYEWEAR: none.
+ACCESSORIES: gold hoop clean in profile against an amber window, signet ring, thin gold chain.
+HAIR: the auburn side-braid in side silhouette over the left shoulder, gold clasp, lit deep amber, a loose strand at the cheek.
+MAKEUP: clean skin, rose lip, warm eye — lit low raking amber (autumn), matching CLIP 2's end light.
+HANDS & NAILS: near hand relaxed mid-swing, far hand grazing a window-ledge; natural nails.
+FACIAL MICRO-DYNAMICS: serene profile, eyes forward and level, a faint contented half-smile, a slow blink — unbothered as the world cools.
+BODY POSTURE & WEIGHT: upright profile walking posture, weight rolling heel-to-toe, hips in soft counter-rotation, spine long.
+KINETIC STILLNESS (8 layers): (1) fire-coloured leaves spiralling past the windows; (2) long amber dappled shadows crawling on the floor; (3) the braid swaying in profile; (4) coat hem swinging; (5) fallen leaves stirring on the pale wood; (6) a curtain in a cool flutter; (7) chest rising on a breath; (8) a single leaf tumbling past her face.
+SPATIAL LOGIC: FOREGROUND — fallen leaves on the floor, sharp. MIDGROUND — Aira in profile. BACKGROUND — molten autumn canopies and a low amber sky beyond the windows.
+LIGHTING: KEY — low raking golden-hour amber from the right-hand windows. FILL — warm burnt-amber wall bounce. RIM — deep amber edge along the profile and braid. PRACTICAL — none. SEPARATION — glowing amber windows behind the shaded near-side. BOUNCE — warm floor kick under the jaw.
+LENS + DOF + BOKEH: 50mm, f/2.8; focus on her profile, autumn canopies melting to molten bokeh.
+COMPOSITION: vertical 9:16, profile facing frame-right (her direction of travel), the window-run and fire-canopy as a leading band, leaves scattered foreground.
+SUBJECT FRAMING & POSITION: Aira is shown in a clean full profile from roughly the waist up, framed medium, walking frame-right through the autumn hallway with fallen leaves below. Her torso is square in profile, mid-stride, calm. The camera sits a touch low at mid-distance, she rides slightly left so her path opens to frame-right, and the amber windows run along behind her. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: deep autumn, crisp cooling air, the melancholy-warm glow of the year turning.
+COLOUR GRADE: VIVID autumn — molten orange-scarlet-amber, russet, burnt-amber walls, low gold light, the camel coat warm-blending; rich, full mid-tone. (Exactly matches CLIP 2's END STATE.)
+TEXTURE & MICRO-DETAIL: wool nap, leaf veining and curl, long shadow edges, fine braid strands, wood grain with scattered leaves.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
+
+### ANIMATION (this clip, ~6s — opens AUTUMN, ★ transforms to WINTER, ends fully in WINTER)
+SHOT TYPE & ANGLE: slight low-angle profile, medium; subject ~55% left-of-centre, walking right.
+CAMERA MOVEMENT (CHOREOGRAPHY): a slow lateral tracking move keeping pace with her profile as she walks right — one continuous shot.
+LENS: 50mm, f/2.8, shallow.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–2.0s — she walks frame-right through AUTUMN, leaves spiralling, breath faintly visible as the air cools.
+- 2.0–4.0s — she walks on unbroken, the loose strand lifting in a colder gust — unreacting to the change beginning.
+- 4.0–6.0s — she continues as the world resolves fully into WINTER by the final frame.
+FLUIDITY & WEIGHT NOTES: even profile walk, braid swaying with the spine; she is the constant; all motion eases.
+FABRIC/HAIR/PROP PHYSICS: coat hem swings with wool weight; braid sways; falling autumn leaves give way to drifting snowflakes obeying slow cold air-drift; the fallen leaves on the floor get dusted then covered by a thin advancing frost/snow; her breath becomes visible vapour as the air cools.
+FOOTWORK & BODY FLOW: steady cadence, soles flexing over leaves then over a faint frost-dust.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ SEASON CHANGE AUTUMN→WINTER at 3.0–5.0s, completing by 6.0s. The world transforms, not her: outside the windows the fire-canopies shed their last leaves and the branches go bare and black, then dust with snow; the russet meadow whitens under settling snow; the low amber sky pales to a silver-grey winter overcast and snow begins to fall in earnest. INSIDE, the light cools and flattens in real time — low warm amber becomes cool silver-blue, the long warm shadows dissolving into soft even cold light; the burnt-amber walls cool to a pale slate; a thin frost creeps across the bottom of the window-panes; the fallen leaves on the floor are veiled by a faint indoor frost-shimmer. The change sweeps down the hallway toward her like a cold front, reaching her by ~5.0s; her breath fogs.
+LIGHTING-IN-MOTION: warm amber key cools to silver-blue; shadows soften and flatten; rim on the braid shifts from amber to cool silver.
+DIEGETIC AUDIO: autumn's dry leaf-wind and distant crows (0.0–3.0s) cross-fading into winter's hushed muffled stillness, a thin high wind and the soft hiss of falling snow (by 6.0s); her even footsteps, crisper on the cold floor.
+MASTER TRACK: the autumn cello-and-acoustic colour thins and crystallises into a sparse winter solo-piano-and-glass-synth across the transition — continuous.
+END STATE / STATE-MATCH LOCK (heavy detail — CLIP 4's START IMAGE must reproduce this 100%, new angle only): at clip end the hallway is FULL WINTER — outside every window, bare black snow-dusted branches over a white meadow under a silver-grey overcast with snow falling steadily; frost creeps up the window-panes; inside, the light is cool silver-blue, soft and even, no warm shadow; the walls read pale slate; the floor's fallen leaves are veiled in faint frost-shimmer; her breath fogs gently. Aira is mid-stride (to be re-framed), camel coat and auburn braid unchanged, lit cool silver-blue, calm. CLIP 4 must open in this EXACT winter world (same bare snow-branches, same silver light, same frosted panes, same frosted floor, same wardrobe) — only the camera angle changes.
+CUT LOGIC: hard ANGLE-CUT to CLIP 4 (low-angle hero, near-front). No motion-match; WORLD STATE matches the END STATE above 100%.
+
+---
+
+## CLIP 4 of 5 — MEDIUM-FULL · NEAR-FRONT · LOW-ANGLE HERO (opens WINTER = CLIP 3 end, ★ transforms to SPRING, ends in SPRING)
+
+### START IMAGE (keyframe — WINTER, reproduces CLIP 3's END STATE exactly, new angle)
+ANGLE & SHOT SIZE: low-angle HERO, medium-full, knees-up, near-front; she pauses mid-hallway, the winter world towering through the windows behind.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: the camel wool coat from the low view, belt tied, hem with a faint snow-dust on the shoulders; white tee; dark jeans — identical wardrobe state.
+FOOTWEAR: white sneakers planted on the faintly frosted floor, the low angle elongating the stance.
+EYEWEAR: none.
+ACCESSORIES: gold hoops with tiny frost-glints, signet ring, thin gold chain.
+HAIR: the auburn side-braid over the left shoulder, gold clasp, a few snowflakes caught in it, cool-lit.
+MAKEUP: clean skin, rose lip, soft eye — lit cool silver-blue (winter), matching CLIP 3's end light, a cold-flush at the cheeks.
+HANDS & NAILS: one hand lifted, palm up, catching a falling snowflake; the other relaxed at her side; natural nails.
+FACIAL MICRO-DYNAMICS: serene near-front gaze just off-lens, a calm closed-lip smile, a slow blink, breath fogging softly — unbothered by the cold.
+BODY POSTURE & WEIGHT: a grounded heroic stance, weight even, shoulders open, spine long, the winter world rising behind.
+KINETIC STILLNESS (8 layers): (1) snow falling steadily past every window; (2) cool silver light soft on the floor; (3) the braid swaying, a snowflake settling on it; (4) coat hem stirring in a cold draft; (5) her breath fogging on each exhale; (6) frost creeping at the pane-edges; (7) a snowflake melting on her upturned palm; (8) a slow eyelash settle.
+SPATIAL LOGIC: FOREGROUND — her upturned palm and a falling snowflake, sharp. MIDGROUND — Aira heroic. BACKGROUND — bare black snow-branches and a silver sky beyond the windows.
+LIGHTING: KEY — soft cool silver-blue winter light from the windows. FILL — pale slate wall bounce. RIM — a cool silver edge down the braid and shoulder. PRACTICAL — none. SEPARATION — bright snow-windows behind the figure. BOUNCE — cool floor kick.
+LENS + DOF + BOKEH: 28mm low and wide for grandeur, f/3.2; focus on Aira, snow melting to soft white bokeh, the hallway towering.
+COMPOSITION: vertical 9:16, Aira commanding centre from the low angle, the window-run rising on the right, falling snow filling the air.
+SUBJECT FRAMING & POSITION: Aira reads from the knees up in a low-angle hero framing, the camera looking up so she stands tall against the winter windows, near-front with one palm lifted to the snow. Her body is squared mostly to camera, grounded and open, head tilted a touch up. The camera is mid-distance and low for grandeur; she holds centre with the snow-world rising behind and the window-run along frame-right. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: deep still winter, hushed and crystalline, breath on the cold air.
+COLOUR GRADE: VIVID winter — crystalline silver-blue and white, bare-black branches, pale slate walls, the camel coat the lone warm anchor; clean cold light, full mid-tone. (Exactly matches CLIP 3's END STATE.)
+TEXTURE & MICRO-DETAIL: wool nap with snow-dust, individual snowflakes with crystal structure, frost feathering on panes, fine braid strands, cold-flush skin texture.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
+
+### ANIMATION (this clip, ~6s — opens WINTER, ★ transforms to SPRING, ends fully in SPRING)
+SHOT TYPE & ANGLE: low-angle hero, medium-full, near-front; subject ~60% centre.
+CAMERA MOVEMENT (CHOREOGRAPHY): a slow rise-and-push from the low angle, settling, then easing as she resumes her walk — one continuous shot.
+LENS: 28mm, f/3.2, low and wide.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–2.0s — she stands in WINTER, palm catching snow, breath fogging, calm.
+- 2.0–4.0s — she lowers her palm and takes the first step to resume walking — unreacting to the thaw beginning.
+- 4.0–6.0s — she walks on as the world resolves fully into SPRING by the final frame.
+FLUIDITY & WEIGHT NOTES: the palm lowers with eased weight; the resumed step rolls heel-to-toe; she remains the constant; all motion eases.
+FABRIC/HAIR/PROP PHYSICS: coat hem stirs then swings as she walks; braid sways, its caught snowflake melting to a droplet that falls; falling snow gives way to drifting cherry-blossom petals obeying light air-drift; frost on the panes melts to clear glass with running droplets.
+FOOTWORK & BODY FLOW: from a grounded stance into a steady resumed cadence.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ SEASON CHANGE WINTER→SPRING at 3.0–5.0s, completing by 6.0s. The world transforms, not her: outside the windows the bare black branches bud green and burst into cherry-blossom pink; the white meadow greens and flowers; the silver-grey overcast warms and clears to a soft fresh blue with gentle sun; snow stops and petals drift instead. INSIDE, the light warms in real time — cool silver-blue becomes fresh warm spring daylight, soft pink dappling returning to the floor; the pale slate walls warm back to pale wood-cream; the frost melts from the panes; the floor's frost-shimmer gives way to a clean pale wood with a drifted petal or two. The thaw sweeps down the hallway toward her like a warm front, reaching her by ~5.0s; her breath stops fogging.
+LIGHTING-IN-MOTION: cool silver key warms to fresh spring daylight; soft pink dapple returns; rim on the braid shifts from cool silver back to fresh cool-warm.
+DIEGETIC AUDIO: winter's hushed wind and snow-hiss (0.0–3.0s) cross-fading into spring's returning birdsong, a soft warm breeze and dripping melt (by 6.0s); her even footsteps resuming.
+MASTER TRACK: the sparse winter piano-and-glass blooms back into spring strings-and-flute across the transition — continuous, closing the musical year.
+END STATE / STATE-MATCH LOCK (heavy detail — CLIP 5's START IMAGE must reproduce this 100%, and it equals CLIP 1's opening world): at clip end the hallway is FULL SPRING — outside every window, cherry-blossom pink canopies over a fresh green flowering meadow under a soft clear blue sky with gentle sun; blossom petals drift past the glass and a couple have blown inside; inside, the light is fresh warm spring daylight with soft pink dappling on clean pale wood; the walls are pale wood-cream; panes are clear; her breath no longer fogs. Aira is mid-stride, camel coat and auburn braid unchanged, lit fresh-spring, calm half-smile. CLIP 5 must open in this EXACT spring world — which is identical to CLIP 1's opening — so the reel loops.
+CUT LOGIC: hard ANGLE-CUT to CLIP 5 (wide front — the opening angle). No motion-match; WORLD STATE matches the END STATE above 100% (and equals CLIP 1).
+
+---
+
+## CLIP 5 of 5 — WIDE · FRONT (walking toward camera) · EYE-LEVEL (opens SPRING = CLIP 1; loop close)
+
+### START IMAGE (keyframe — SPRING, reproduces CLIP 4's END STATE = CLIP 1's opening, the loop angle)
+ANGLE & SHOT SIZE: eye-level WIDE; Aira full body, mid-stride, walking toward camera down the centre of the hallway — the identical opening angle, the spring world restored.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: the camel wool coat, belt tied, mid-calf, swinging with the stride; white tee; dark-wash jeans — matched to CLIP 1.
+FOOTWEAR: clean white sneakers, mid-stride, soft contact with pale wood.
+EYEWEAR: none.
+ACCESSORIES: gold hoops, gold signet ring, thin gold chain — matched.
+HAIR: the thick low auburn side-braid over the left shoulder, gold clasp, soft flyaways — matched to CLIP 1.
+MAKEUP: clean luminous skin, soft rose lip, warm-neutral eye — lit cool-fresh spring, matched to CLIP 1.
+HANDS & NAILS: hands relaxed, one lightly swinging, the other near the coat pocket; natural nails.
+FACIAL MICRO-DYNAMICS: calm forward gaze to lens, the gentle closed-lip half-smile, a slow blink — the exact opening resting face.
+BODY POSTURE & WEIGHT: tall easy walking posture, weight rolling heel-to-toe, hips in natural counter-rotation — matched to CLIP 1.
+KINETIC STILLNESS (8 layers): (1) cherry-blossom petals drifting past the windows; (2) soft pink dappled light crawling on the floor; (3) the braid swaying; (4) coat hem swinging; (5) chest rising on a breath; (6) a petal spiralling near her shoulder; (7) a curtain breathing at an open window; (8) a slow eyelash settle — all matched to CLIP 1.
+SPATIAL LOGIC: FOREGROUND — pale wood floor leading in. MIDGROUND — Aira walking. BACKGROUND — the windowed hallway receding to a bright blossom-world end — matched to CLIP 1.
+LIGHTING: KEY — soft warm spring daylight from the right windows. FILL — pale wall bounce. RIM — fresh cool edge on the braid and shoulder. PRACTICAL — none. SEPARATION — bright windows behind a softly lit figure. BOUNCE — warm floor kick — matched to CLIP 1.
+LENS + DOF + BOKEH: 35mm, f/4, deep; blossoms melting to soft pink bokeh — matched to CLIP 1.
+COMPOSITION: vertical 9:16, Aira centred and walking in, the window-run a leading line down the right, blossom dapple on the floor — identical to CLIP 1 so the reel loops.
+SUBJECT FRAMING & POSITION: Aira reads as a complete full-length figure, mid-stride, framed head-to-sneakers with floor leading in, body squared near-front as she walks toward the lens down the hallway centre. The camera holds the identical mid-far establishing distance at clean eye level, she sits dead-centre, and the tall windows recede along frame-right with the blossom-world glowing through — exactly rhyming with CLIP 1 so the loop is seamless on the angle. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: fresh spring morning restored — the year come full circle.
+COLOUR GRADE: VIVID spring — saturated cherry-blossom pink, fresh green, pale warm wood, the camel coat warm anchor — matched to CLIP 1.
+TEXTURE & MICRO-DETAIL: wool nap, translucent petal veining, pale wood grain, fine braid strands, peach-fuzz in the rim — matched.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
+
+### ANIMATION (this clip, ~6s — SPRING restored; loop close, no new transformation)
+SHOT TYPE & ANGLE: eye-level wide, front; subject ~45% centre, walking toward lens — matched to CLIP 1.
+CAMERA MOVEMENT (CHOREOGRAPHY): a slow dolly-back at her walking pace, settling to the exact CLIP-1 establishing framing.
+LENS: 35mm, f/4, deep — matched.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–2.0s — Aira walks toward camera through restored SPRING light, petals drifting, braid and hem swaying, calm gaze to lens.
+- 2.0–4.0s — she continues unbroken, approaching the first tall window again (the signature trigger primed for the next loop).
+- 4.0–6.0s — she settles into the exact opening stride and half-smile, the framing matched to CLIP 1 for a seamless loop.
+FLUIDITY & WEIGHT NOTES: even weighted walk, braid leading and following the torso; the constant, unchanged; all motion eases to the opening rhythm.
+FABRIC/HAIR/PROP PHYSICS: coat hem swings with wool weight; braid pendulum-sways; petals obey light air-drift; curtains breathe — matched to CLIP 1.
+FOOTWORK & BODY FLOW: steady walking cadence returning to the opening metronome.
+MID-CLIP TRANSFORMATION (timed): NONE — this is the loop-close in restored spring; the next season change would re-trigger as she passes the first window again at the top of the loop (i.e., the start of CLIP 1).
+LIGHTING-IN-MOTION: fresh spring key steady, matched to CLIP 1's opening level.
+DIEGETIC AUDIO: spring birdsong, a soft breeze, even footsteps — returning to the CLIP-1 bed.
+MASTER TRACK: the four-season score resolves back to its opening spring strings-and-flute, looping cleanly.
+END STATE / STATE-MATCH LOCK: clip ends in the EXACT spring world and wide-front angle of CLIP 1's START IMAGE — positions, light, petals, floor dapple, wardrobe and expression all matched, so the reel loops seamlessly.
+CUT LOGIC: ANGLE-CUT / LOOP back to CLIP 1. The reel loops; the next pass re-triggers the spring→summer change as she crosses the first window.
+
+### ☆ EXTERNAL AUDIO — BLOCK 1: BACKGROUND SOUND DESIGN / AMBIENCE BED — E-1
+*The layered foley + per-season ambience to lay UNDER the reel, separate from the in-clip diegetic audio — timed to the clips and cross-fading on each window-trigger.*
+- Base bed (all clips): a soft interior hallway room-tone; faint even footsteps on pale wood throughout; a curtain breathing at an open window.
+- CLIP 1 (spring→summer): spring birdsong + soft breeze cross-fading into summer's denser insect-hum, cicada shimmer and a warmer wind; a leafy rustle as the canopy thickens.
+- CLIP 2 (summer→autumn): cicada-hum + warm wind cross-fading into a dry rustling-leaf wind, distant crows, leaves scraping the floor.
+- CLIP 3 (autumn→winter): dry leaf-wind + crows cross-fading into a hushed muffled stillness, a thin high wind, the soft hiss of falling snow; footsteps turn crisp.
+- CLIP 4 (winter→spring): snow-hiss + thin wind cross-fading into returning birdsong, a soft warm breeze and dripping melt.
+- CLIP 5 (spring restored): spring birdsong + breeze returning to the CLIP-1 level for the loop.
+- Mix note: each cross-fade lands in sync with the window-trigger (~3.0–5.0s of each clip); seamless, never an abrupt cut. Loops cleanly at ~30s.
+
+### ☆ EXTERNAL AUDIO — BLOCK 2: BACKGROUND MUSIC / SCORE TRACK — E-1 (lay under the sound bed)
+- Genre / vibe: a continuous four-season orchestral journey — one unbroken piece that morphs colour with each season, like Vivaldi reimagined as a film score; she is the steady melodic centre, the seasons are the orchestration around it.
+- Tempo / key: ~88 BPM throughout; key colour shifts — Spring D major (bright), Summer A major (blazing/full), Autumn E minor (rich), Winter C minor (crystalline), resolving back to D major.
+- Core elements: a constant 8-note "Aira walk" melodic motif that NEVER changes (her constancy); the orchestration around it transforms each clip — Spring: strings + flute; Summer: full brass + warm strings; Autumn: solo cello + acoustic guitar; Winter: solo piano + glass-synth; back to Spring strings + flute.
+- Arc: the motif rides unchanged while each window-trigger cross-fades the orchestration to the next season's palette in sync with the visual transition (~3.0–5.0s of each clip); fullest at the summer brass; sparest at the winter piano; resolves to the spring opening on the loop.
+- Texture note: the cross-fades must be SEAMLESS (instruments morph, never cut) so the score reads as one continuous evolving piece — the sonic equivalent of one hallway changing around a constant walker.
+- Loop: a clean ~30s loop; the spring resolution rejoins the spring opening with no seam.
+
+---
+
 # CONCEPT E-2 — ONE STAIRCASE, EVERY ERA
 
 Title: Place-Transforms Hero — one grand staircase morphing through design eras as she descends.
@@ -7015,3 +7015,272 @@ CUT LOGIC: seamless ANGLE-CUT / loop back to CLIP 1. WORLD STATE matches 100%. T
 - MIX NOTE: keep the footstep-resonance from Block 1 sitting just above the snare so the ear hears WALK + BEAT as one locked pulse through every weather change.
 
 ═══════════════════════════════════════════════════════════════════════════════
+
+# CONCEPT E-5 — ONE GARDEN, SEED TO ANCIENT TREE
+
+Title: Place-Transforms Hero — one garden where time accelerates a century with every step she takes, a single tree living its whole life around her.
+Category / Format: Surreal-awe transformation reel (a garden / one tree) · SILENT (diegetic + score only) · CLIP-CHAIN, ANGLE-CUT edit · MULTI-CHANGE state-chain (each footfall on the path ages the garden ~a century; the clip ENDS in the new age, the next clip OPENS in it from a new angle — 100% world-state match).
+Story Idea: Aira walks a slow path through a garden, and with every footfall time leaps forward a century — a bare seed sprouts to a sapling, blooms into a mature flowering tree, swells into a vast ancient oak, then ages, sheds, and falls to decay, dropping a single new seed into bare earth — which is exactly where she began. Life, in full, looped. She is the calm constant that time orbits.
+Setting: a quiet garden clearing with one central tree-spot and a soft earthen path; the land stays the same plot, only TIME (the tree's age, the season, the light, the surrounding flora) transforms with each step.
+Wardrobe: a flowing floor-length sage-and-moss silk slip dress with a subtle embroidered climbing-vine motif, a soft earth-toned knit wrap loose off one shoulder (fully modest), gathered at the waist with a thin braided-leather cord.
+Footwear: bare feet on the earth, or delicate flat leather toe-thong sandals — natural, grounded, soft footfalls on soil.
+Eyewear: none — open, luminous, natural gaze (this is an awe piece, eyes are the emotion).
+Accessories: delicate gold leaf-shaped drop earrings, a thin vine-form gold bracelet that wraps the wrist, one small leaf signet ring; understated and organic.
+Hair: long loose earthy waves, deep chestnut-brown, with tiny real wildflowers and small green leaves woven through like a living crown — soft, natural, moving with the breeze (the unique hairstyle for this concept).
+Makeup: dewy, sun-kissed, barely-there — luminous fresh skin, a soft flush, glossy natural lip, real pores; lit warm and golden.
+Hero Movement / Impossible Move: time itself accelerates around her — one tree lives its entire life (seed→sapling→bloom→ancient→decay→new seed) in five steps, while she walks calm and unhurried through all of it.
+Transformation Trigger (signature, consistent): EACH FOOTFALL ON THE PATH — every time her foot touches the earth, time leaps ~a century and the garden ages to its next stage; completing within that clip; the next clip opens in the new age from a new angle. Same trigger (the footfall) every clip.
+Mood: AWE / REVERENCE / WONDER — "I watched a whole life pass and it was beautiful"; serene, tender, vast.
+Grade: VIVID per age — rich brown spring soil and tender green sprout, an explosion of pink-and-white spring blossom, deep emerald high-summer canopy, blazing amber-and-crimson autumn, then a hushed silver-bare decay — her sage/moss dress, gold, and chestnut hair the warm constant; rich earth-tones, full saturation, never washed.
+Duration: ~27 seconds · 5 clips (angle-cut state-chain).
+Voice: SILENT — diegetic garden/seasonal ambience + an organic cyclical score that grows and decays with the tree.
+Identity safety: AIRA adult; wardrobe modest and flowing; mood serene, tender, reverent, never sexualized.
+State chain (angle-cut): CLIP 1 wide [BARE EARTH + SEED → footfall → ends SAPLING] → CUT → CLIP 2 profile [opens SAPLING → footfall → ends FLOWERING TREE] → CUT → CLIP 3 low hero [opens FLOWERING TREE → footfall → ends ANCIENT OAK] → CUT → CLIP 4 over-the-shoulder [opens ANCIENT OAK → footfall → ends DECAY + new SEED] → CUT → CLIP 5 wide [opens BARE EARTH + SEED = CLIP 1, loop].
+
+---
+## CLIP 1 of 5 — WIDE · 3/4 FRONT · EYE-LEVEL (opens BARE EARTH + SEED, ★ footfall → SAPLING)
+
+### START IMAGE (keyframe — BARE EARTH, a single seed)
+ANGLE & SHOT SIZE: eye-level WIDE establishing; Aira full-body stepping onto a soft earthen path in a bare garden clearing, one dark seed resting in fresh-tilled soil at the centre.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: the flowing floor-length sage-and-moss silk slip dress with the embroidered climbing-vine motif, the earth-toned knit wrap loose off one shoulder, gathered with the braided-leather waist cord.
+FOOTWEAR: bare feet on cool dark soil, one foot raised mid-step about to land.
+EYEWEAR: none — open luminous gaze down at the seed.
+ACCESSORIES: gold leaf drop earrings, the vine-form gold bracelet, the small leaf signet ring.
+HAIR: long loose chestnut waves with tiny wildflowers and small leaves woven through like a living crown, lifting softly in the breeze.
+MAKEUP: dewy sun-kissed, soft flush, glossy natural lip, real pores.
+HANDS & NAILS: one hand drifting open at her side, fingers relaxed; soft natural nails; the vine bracelet catching light.
+FACIAL MICRO-DYNAMICS: serene wonder — lips just parted, a gentle anticipatory half-smile, eyes soft and warm fixed on the seed, brows lifted in quiet reverence; a slow blink.
+BODY POSTURE & WEIGHT: weight shifting onto the front foot mid-step, spine long, the wrap and dress trailing, body opening toward the seed.
+KINETIC STILLNESS (8 layers): (1) fresh-tilled soil with crumbling clods; (2) a thin morning mist low over the bare ground; (3) the chestnut waves and woven flowers drifting; (4) the silk dress rippling in the breeze; (5) chest rising in a slow breath; (6) a single seed catching a dewdrop; (7) distant bare branches of an empty garden; (8) a slow reverent blink.
+SPATIAL LOGIC: FOREGROUND — the soft earthen path and her bare foot. MIDGROUND — Aira mid-step (the focal point). BACKGROUND — the bare misty clearing, empty beds, a low stone wall, dawn sky.
+LIGHTING: KEY — soft low golden dawn-light raking across the soil. FILL — cool misty sky-fill. RIM — a warm dawn-edge on her waves and shoulder. PRACTICAL — the rising sun glow. SEPARATION — her warm form against the cool misty ground. BOUNCE — soft earth-bounce, warm under the chin.
+LENS + DOF + BOKEH: 35mm, f/2.8, deep-enough; her sharp, the seed a tiny sharp accent, the misty clearing soft behind.
+COMPOSITION: vertical 9:16, Aira left-of-centre stepping in, the seed lower-centre as the focal anchor, the bare clearing opening behind — emptiness waiting to bloom.
+SUBJECT FRAMING & POSITION: Aira is framed FULL-BODY in a WIDE 3/4-FRONT eye-level shot, stepping onto the path left-of-centre, the seed lower-centre. Mid distance, eye level. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: hushed dawn potential — the held breath before life begins.
+COLOUR GRADE: dawn-VIVID — rich dark-brown soil + cool silver mist + warm golden dawn + her sage/moss dress + chestnut hair + gold; saturated earth-tones, the deliberately-quiet beat set up for the bloom to come.
+TEXTURE & MICRO-DETAIL: soil-grain and crumbling clods, the seed's husk-texture and dewdrop, silk weave, woven petals, fine flyaway hairs, dawn-mist gradient.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
+
+### ANIMATION (this clip, ~5s — opens BARE EARTH; ★ footfall → SAPLING, ends sapling)
+SHOT TYPE & ANGLE: eye-level wide 3/4-front; subject ~45% left-of-centre, the seed lower-centre.
+CAMERA MOVEMENT (CHOREOGRAPHY): a slow push-in toward the seed as she steps — one continuous shot.
+LENS: 35mm, f/2.8.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–2.0s — she lowers her raised foot toward the earth beside the seed, eyes down in wonder, waves and dress drifting.
+- 2.0–3.5s — ★ TRIGGER: her bare foot lands softly on the path — the FOOTFALL leaps time a century; the seed cracks and a tender green sprout pushes up.
+- 3.5–5.0s — time keeps rushing; the sprout unfurls into a knee-high SAPLING with its first delicate leaves by the final frame; she straightens, watching, smiling.
+FLUIDITY & WEIGHT NOTES: her motion is slow, fluid, reverent — a calm contrast to the rushing growth; all motion eases.
+FABRIC/HAIR/PROP PHYSICS: silk dress flows with soft cloth-physics; woven flowers and waves move with secondary-motion; the sprout grows with believable phototropic curl and leaf-unfurl physics; soil crumbles aside as roots push; a dewdrop rolls off a new leaf.
+FOOTWORK & BODY FLOW: a single slow grounded step, weight settling, the body rising tall to watch the growth.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ TIME-LEAP BARE-EARTH→SAPLING at 2.0–4.5s, triggered by the footfall. The seed splits; a sprout spears up and unfurls; the surrounding bare beds flush with the first tiny grasses and weeds; the mist burns off slightly as the light warms; the empty clearing takes its first green.
+LIGHTING-IN-MOTION: cool dawn warming a notch as the sprout rises — the light growing with the life.
+DIEGETIC AUDIO: a soft footfall on soil, then the faint organic crackle of the seed and the tiny creak of growing stem, a first birdsong, breeze through new grass.
+MASTER TRACK: a single low cello-drone and a soft heartbeat-pulse establishing — the seed of the score.
+END STATE / STATE-MATCH LOCK (heavy detail — CLIP 2's START IMAGE must reproduce 100%, new angle only): at clip end a knee-high SAPLING stands at the centre with first delicate leaves; the beds carry a first thin green; light warmed a notch; Aira standing tall beside it, watching, smiling. CLIP 2 must open in this EXACT sapling-world (same sapling, same first-green beds, same light) — only the angle changes.
+CUT LOGIC: hard ANGLE-CUT to CLIP 2 (profile). No motion-match; WORLD STATE matches 100%.
+
+---
+## CLIP 2 of 5 — PROFILE · MEDIUM-FULL · EYE-LEVEL (opens SAPLING = CLIP 1 end; ★ footfall → FLOWERING TREE)
+
+### START IMAGE (keyframe — SAPLING, reproduces CLIP 1's END STATE, new angle)
+ANGLE & SHOT SIZE: eye-level MEDIUM-FULL profile; Aira side-on beside the knee-high sapling, beginning her next step along the path.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: the sage-and-moss silk slip dress, the earth-toned wrap off one shoulder, braided waist cord — identical state.
+FOOTWEAR: bare feet, the back foot lifting to take the next step.
+EYEWEAR: none — luminous profile gaze toward the sapling.
+ACCESSORIES: gold leaf earrings (one catching light in profile), the vine bracelet, leaf ring.
+HAIR: the loose chestnut waves with woven wildflowers, profile-lit, drifting in the breeze.
+MAKEUP: dewy sun-kissed, soft flush, glossy lip, real pores.
+HANDS & NAILS: one hand reaching gently toward the sapling's leaves, fingertips near a new leaf; soft natural nails; vine bracelet on the reaching wrist.
+FACIAL MICRO-DYNAMICS: tender wonder in profile — a soft open-lipped smile, eye warm and bright on the little tree, a gentle exhale; one slow blink.
+BODY POSTURE & WEIGHT: weight on the front foot, torso turned slightly toward the sapling, the back foot lifting, dress trailing behind.
+KINETIC STILLNESS (8 layers): (1) the knee-high sapling with first leaves trembling; (2) the first thin green grasses in the beds; (3) the chestnut waves drifting; (4) the silk dress rippling; (5) chest rising; (6) a butterfly arriving in the warming light; (7) dew on a new leaf; (8) a slow blink.
+SPATIAL LOGIC: FOREGROUND — the path and the sapling. MIDGROUND — Aira in profile (sharp). BACKGROUND — the clearing taking its first green, the stone wall, the brightening sky.
+LIGHTING: KEY — soft warming morning side-light. FILL — gentle sky-fill. RIM — a bright edge along her profile and the waves. PRACTICAL — the climbing sun. SEPARATION — her warm form against the soft green depth. BOUNCE — warm earth-bounce.
+LENS + DOF + BOKEH: 50mm, f/2.5, profile; her and the sapling sharp, the first-green clearing soft behind, a bokeh butterfly.
+COMPOSITION: vertical 9:16, Aira profile right-of-centre, the sapling lower-left, her reaching hand bridging them — life beginning to fill the frame.
+SUBJECT FRAMING & POSITION: Aira is framed MEDIUM-FULL in PROFILE at eye level, right-of-centre, reaching toward the sapling lower-left, mid-step. Mid distance. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: tender early-morning growth — life waking.
+COLOUR GRADE: morning-VIVID — tender green sapling + warm soil + first-green beds + her sage/moss dress + chestnut + gold; saturated, fresh, warming. (Matches CLIP 1 END STATE.)
+TEXTURE & MICRO-DETAIL: new-leaf veining and dew, sapling-bark fuzz, silk weave, woven petals, profile flyaway hairs, butterfly-wing scales.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
+
+### ANIMATION (this clip, ~5.5s — opens SAPLING; ★ footfall → FLOWERING TREE, ends bloom)
+SHOT TYPE & ANGLE: eye-level medium-full profile; subject ~55% right-of-centre.
+CAMERA MOVEMENT (CHOREOGRAPHY): a slow lateral track following her step + a gentle rise as the tree grows — one continuous shot.
+LENS: 50mm, f/2.5.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–2.0s — she finishes reaching toward the sapling, fingertips grazing a leaf, then begins her next step.
+- 2.0–3.5s — ★ TRIGGER: her bare foot lands — the FOOTFALL leaps another century; the sapling surges upward, the trunk thickening.
+- 3.5–5.5s — time rushes; the young tree explodes into a full FLOWERING TREE — a canopy of pink-and-white blossom — by the final frame; she lifts her gaze up into the bloom, smiling, petals beginning to drift.
+FLUIDITY & WEIGHT NOTES: her motion stays slow, fluid, reverent against the rushing growth; all motion eases.
+FABRIC/HAIR/PROP PHYSICS: silk flows; woven flowers and waves move with secondary-motion; the trunk thickens and bark forms with believable growth-physics; branches spread and bud; blossoms pop open in sequence; petals begin to drift with light air-physics.
+FOOTWORK & BODY FLOW: one slow grounded step, the body rising and turning upward to follow the climbing canopy.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ TIME-LEAP SAPLING→FLOWERING-TREE at 2.0–5.0s, triggered by the footfall. The sapling thickens into a young trunk; branches shoot and fork; thousands of buds swell and burst into pink-and-white blossom; the beds around fill with spring wildflowers and tall grass; bees and butterflies arrive; the light warms to full bright spring.
+LIGHTING-IN-MOTION: soft morning warming to bright spring sun dappling through the new canopy, blossom-shadows freckling the ground.
+DIEGETIC AUDIO: a footfall on soil, the woody creak and rush of fast growth, a swelling burst of birdsong and bees, breeze through blossom, the first petals ticking down.
+MASTER TRACK: the cello-drone joined by warm rising strings and a light plucked motif — the score blooming with the tree.
+END STATE / STATE-MATCH LOCK (heavy detail — CLIP 3's START IMAGE must reproduce 100%, new angle only): at clip end a full FLOWERING TREE stands in pink-and-white blossom, beds full of spring wildflowers, bees and butterflies, bright spring light, petals drifting; Aira beside it gazing up, smiling, petals in her hair. CLIP 3 must open in this EXACT flowering-spring world (same blossom tree, same wildflowers, same petal-fall, same light) — only the angle changes.
+CUT LOGIC: hard ANGLE-CUT to CLIP 3 (low hero angle). No motion-match; WORLD STATE matches 100%.
+
+---
+## CLIP 3 of 5 — LOW HERO ANGLE · MEDIUM-WIDE (opens FLOWERING TREE = CLIP 2 end; ★ footfall → ANCIENT OAK)
+
+### START IMAGE (keyframe — FLOWERING TREE, reproduces CLIP 2's END STATE, new angle)
+ANGLE & SHOT SIZE: LOW HERO ANGLE looking up, medium-wide; Aira stands beneath the blossoming canopy, the flowering tree towering above her, petals drifting down.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: the sage-and-moss silk slip dress, earth-toned wrap off one shoulder, braided cord — identical state, a few petals caught on the fabric.
+FOOTWEAR: bare feet planted on blossom-strewn grass, one foot beginning to lift.
+EYEWEAR: none — luminous upward gaze into the canopy.
+ACCESSORIES: gold leaf earrings, vine bracelet, leaf ring; a petal resting on one shoulder.
+HAIR: loose chestnut waves with woven wildflowers, now also dusted with drifting blossom petals, lifting in the breeze.
+MAKEUP: dewy sun-kissed, soft flush, glossy lip, real pores; sun dappling her face through the blossom.
+HANDS & NAILS: both hands lifting slightly open at her sides, palms catching falling petals; soft natural nails; vine bracelet bright.
+FACIAL MICRO-DYNAMICS: radiant awe — head tilted up, lips parted in a full soft smile, eyes shining and wide tracking the falling petals, brows lifted; a slow wondering blink as a petal grazes her lashes.
+BODY POSTURE & WEIGHT: weight rolling onto the front foot, torso open and lifted toward the canopy, the dress and wrap flowing, the back foot lifting for the next step.
+KINETIC STILLNESS (8 layers): (1) the vast blossom canopy overhead; (2) thousands of petals drifting down; (3) the chestnut waves and woven flowers lifting; (4) the silk dress rippling; (5) chest rising in awe; (6) bees working the blossom; (7) dappled blossom-light freckling her skin; (8) a slow wondering blink.
+SPATIAL LOGIC: FOREGROUND — drifting petals and her upturned face. MIDGROUND — Aira beneath the tree (sharp). BACKGROUND — the towering blossom canopy and bright spring sky breaking through.
+LIGHTING: KEY — bright spring sun shafting down through the blossom (dappled top-key). FILL — soft pink blossom-bounce. RIM — a bright halo on her waves from the backlit canopy. PRACTICAL — sun through blossom. SEPARATION — her warm form against the bright canopy. BOUNCE — warm petal-pink bounce on the face.
+LENS + DOF + BOKEH: 28mm low and wide, f/2.8; her sharp, the canopy soaring above, drifting petals as dreamy foreground/background bokeh.
+COMPOSITION: vertical 9:16, the tree filling the upper frame, Aira lower-centre gazing up, petals streaming the full height — she's small beneath the life she summoned.
+SUBJECT FRAMING & POSITION: Aira is framed MEDIUM-WIDE from a LOW HERO ANGLE, lower-centre, gazing up into the towering blossom, mid-step. Near-to-mid distance, camera low. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: peak spring rapture — overwhelming gentle beauty.
+COLOUR GRADE: spring-VIVID — explosive pink-and-white blossom + bright blue sky + emerald new grass + her sage/moss dress + chestnut + gold; lush, saturated, glowing. (Matches CLIP 2 END STATE.)
+TEXTURE & MICRO-DETAIL: individual petals with translucent veining, blossom-cluster density, bark texture up the trunk, silk weave, dappled skin-light, bee fuzz.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
+
+### ANIMATION (this clip, ~5.5s — opens FLOWERING TREE; ★ footfall → ANCIENT OAK, ends ancient)
+SHOT TYPE & ANGLE: low hero angle, medium-wide; subject ~40% lower-centre.
+CAMERA MOVEMENT (CHOREOGRAPHY): a slow craning rise up the trunk as the tree ages and swells — one continuous shot.
+LENS: 28mm, f/2.8, low.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–2.0s — she stands beneath the blossom, palms catching petals, gazing up in awe.
+- 2.0–3.5s — ★ TRIGGER: her bare foot lands — the FOOTFALL leaps another century; the blossom drops all at once, leaves burst out, the trunk begins to swell massively.
+- 3.5–5.5s — time rushes; the tree swells into a vast ANCIENT OAK — gigantic gnarled trunk, immense deep-emerald summer canopy — by the final frame; she lowers her gaze, serene, dwarfed by the giant.
+FLUIDITY & WEIGHT NOTES: her motion stays slow and reverent against the explosive growth; all motion eases.
+FABRIC/HAIR/PROP PHYSICS: silk flows; petals fall en masse with realistic air-drift then settle; the trunk swells with believable bark-cracking growth-physics; branches thicken and gnarl; full summer leaves burst and flutter; the canopy casts deepening shade.
+FOOTWORK & BODY FLOW: one slow grounded step, the body settling and lowering its gaze as the canopy soars beyond frame.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ TIME-LEAP FLOWERING-TREE→ANCIENT-OAK at 2.0–5.0s, triggered by the footfall. All blossom drops; the canopy leafs out deep emerald; the trunk swells from slender to massive and gnarled, bark deeply furrowing; roots heave and grip the earth; the surrounding beds mature into a lush high-summer garden; the light deepens to rich full-summer gold-green.
+LIGHTING-IN-MOTION: bright dappled spring deepening into rich shaded high-summer light, heavy warm shafts through the dense canopy.
+DIEGETIC AUDIO: a footfall, the great groaning creak of a tree swelling centuries, a rush of leaves, deep summer cicada-drone and birdsong, wind in a heavy canopy.
+MASTER TRACK: the strings swell to a full warm orchestral high, a deep resonant low end entering — the score at the height of life, lush and grand.
+END STATE / STATE-MATCH LOCK (heavy detail — CLIP 4's START IMAGE must reproduce 100%, new angle only): at clip end a vast ANCIENT OAK stands — gigantic gnarled furrowed trunk, immense deep-emerald summer canopy, heaved roots, a lush mature summer garden around it, rich gold-green light; Aira small beneath it, gaze lowered, serene. CLIP 4 must open in this EXACT ancient-summer world (same giant oak, same canopy, same mature garden, same light) — only the angle changes.
+CUT LOGIC: hard ANGLE-CUT to CLIP 4 (over-the-shoulder). No motion-match; WORLD STATE matches 100%.
+
+---
+## CLIP 4 of 5 — OVER-THE-SHOULDER · MEDIUM (opens ANCIENT OAK = CLIP 3 end; ★ footfall → DECAY + new SEED)
+
+### START IMAGE (keyframe — ANCIENT OAK, reproduces CLIP 3's END STATE, new angle)
+ANGLE & SHOT SIZE: OVER-THE-SHOULDER from behind Aira, medium; we look past her shoulder and chestnut waves at the vast ancient oak filling the view ahead.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: the sage-and-moss silk slip dress and earth-toned wrap seen from behind, off one shoulder, braided cord at the waist — identical state.
+FOOTWEAR: bare feet on the mature summer path, one foot beginning to lift for the next step.
+EYEWEAR: none — she faces away, gazing at the great oak.
+ACCESSORIES: the gold leaf earring glinting at her turned jaw, vine bracelet on the hand at her side, leaf ring.
+HAIR: loose chestnut waves with woven wildflowers seen from behind, cascading down her back, lifting in the warm summer wind.
+MAKEUP: dewy (the cheek-edge visible), soft flush, glossy lip; warm summer light on her skin.
+HANDS & NAILS: one hand at her side relaxed, the other drifting up slightly toward the oak; soft natural nails; vine bracelet visible.
+FACIAL MICRO-DYNAMICS: seen 3/4 from behind — the visible cheek and eye-edge carry a serene, slightly wistful awe at the giant; a soft profile half-smile; one slow blink.
+BODY POSTURE & WEIGHT: standing tall facing the oak, weight rolling onto the front foot, shoulders relaxed and open, dress trailing, the back foot lifting.
+KINETIC STILLNESS (8 layers): (1) the immense gnarled trunk ahead; (2) the heavy emerald canopy shifting; (3) her chestnut waves cascading and lifting; (4) the silk dress rippling at her back; (5) shoulders rising with a breath; (6) summer light shafting through leaves; (7) a leaf spiralling down; (8) a slow blink at the turned cheek.
+SPATIAL LOGIC: FOREGROUND — her shoulder, waves and back (soft-sharp). MIDGROUND — the path leading to the trunk. BACKGROUND — the vast ancient oak and deep summer garden filling the view.
+LIGHTING: KEY — rich warm summer light from ahead, rimming her shoulders and hair. FILL — green canopy-bounce. RIM — a strong warm edge all down her backlit waves and shoulder. PRACTICAL — sun through the heavy canopy. SEPARATION — her rim-lit silhouette against the deep-green oak. BOUNCE — warm path-bounce.
+LENS + DOF + BOKEH: 50mm, f/2.0, over-the-shoulder; her shoulder/hair soft-foreground, the great oak sharp ahead, leaf-bokeh.
+COMPOSITION: vertical 9:16, her shoulder and waves framing the left/lower foreground, the towering oak filling the right/upper view — we stand where she stands, facing the giant.
+SUBJECT FRAMING & POSITION: Aira is framed in a MEDIUM OVER-THE-SHOULDER (back-pose) shot, her shoulder and hair lower-left foreground, the ancient oak ahead. Near foreground subject, deep background. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: reverent stillness before the turn — the height of life, about to age.
+COLOUR GRADE: high-summer-VIVID — deep emerald canopy + warm gold light + rich brown bark + her sage/moss dress + chestnut + gold; lush and saturated. (Matches CLIP 3 END STATE.)
+TEXTURE & MICRO-DETAIL: deep bark-furrow detail on the trunk, individual backlit waves, silk weave at her back, leaf-vein detail, dust-motes in the summer shafts.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
+
+### ANIMATION (this clip, ~6s — opens ANCIENT OAK; ★ footfall → DECAY + new SEED, ends bare-with-seed)
+SHOT TYPE & ANGLE: over-the-shoulder medium (back-pose); subject ~35% lower-left foreground.
+CAMERA MOVEMENT (CHOREOGRAPHY): a slow push past her shoulder toward the oak as it ages and falls — one continuous shot.
+LENS: 50mm, f/2.0.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–2.0s — she gazes at the ancient oak from behind, waves lifting, hand drifting up toward it.
+- 2.0–3.5s — ★ TRIGGER: her bare foot lands — the FOOTFALL leaps the final century; the canopy flares to amber-and-crimson autumn and the leaves begin to pour off.
+- 3.5–6.0s — time rushes through autumn and winter: leaves strip away, the great trunk greys, hollows, leans and falls to a mossy decaying log — and from the rot a single new SEED drops to bare earth by the final frame; she lowers her hand, serene, the cycle understood.
+FLUIDITY & WEIGHT NOTES: her motion stays slow and tender against the rushing decay; all motion eases.
+FABRIC/HAIR/PROP PHYSICS: silk flows; waves lift and settle; autumn leaves detach and spiral with realistic flutter-fall; the trunk greys, cracks, sheds bark, leans with believable mass-and-collapse physics as it falls; moss and fungi creep over the fallen log; a seed drops and rolls to rest with weight.
+FOOTWORK & BODY FLOW: one slow grounded step, the lifted hand lowering gently as the giant falls — calm acceptance.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ TIME-LEAP ANCIENT-OAK→DECAY at 2.0–5.5s, triggered by the footfall. The emerald canopy flares to blazing amber-crimson autumn; leaves pour off in waves; the garden browns and frosts to bare winter; the great trunk greys, hollows, cracks, leans and falls into a moss-and-fungi-covered decaying log; the surrounding beds die back to bare earth; and one fresh dark SEED drops from the rot onto the bare ground — the exact seed and bare earth of CLIP 1.
+LIGHTING-IN-MOTION: rich summer gold cooling through fiery autumn light into a hushed silver-cold winter, the warmth draining as the tree dies.
+DIEGETIC AUDIO: a footfall, the dry rush and rattle of falling autumn leaves, a long creaking groan and earth-shaking crash as the trunk falls, then winter wind and a deep settling silence, a single soft seed-drop.
+MASTER TRACK: the grand strings unravel to a lone mournful cello and the soft heartbeat-pulse returning — the score decaying back toward its single opening note.
+END STATE / STATE-MATCH LOCK (heavy detail — CLIP 5's START IMAGE must reproduce 100%, new angle only): at clip end the plot is BARE EARTH again — the fallen tree decayed away/reclaimed, beds bare and misty, hushed cold light lifting toward dawn, and a single dark SEED resting in fresh soil — IDENTICAL to CLIP 1's opening world; Aira standing serene beside it. CLIP 5 must open in this EXACT bare-earth-and-seed world — only the angle changes (and it equals CLIP 1, closing the loop).
+CUT LOGIC: hard ANGLE-CUT to CLIP 5 (wide = CLIP 1). No motion-match; WORLD STATE matches 100%.
+
+---
+## CLIP 5 of 5 — WIDE · 3/4 FRONT · EYE-LEVEL (opens BARE EARTH + SEED = CLIP 4 end AND = CLIP 1; loop close)
+
+### START IMAGE (keyframe — BARE EARTH + SEED, reproduces CLIP 4's END STATE = CLIP 1's world, new angle)
+ANGLE & SHOT SIZE: eye-level WIDE establishing; Aira full-body standing on the soft earthen path in the bare misty clearing, one dark seed resting in fresh-tilled soil at the centre — the loop-closing master view, equal to CLIP 1.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: the flowing sage-and-moss silk slip dress, earth-toned wrap off one shoulder, braided waist cord — identical to CLIP 1.
+FOOTWEAR: bare feet on cool dark soil, settled, one foot poised to begin the next step (restarting the cycle).
+EYEWEAR: none — open luminous gaze down at the seed.
+ACCESSORIES: gold leaf earrings, vine bracelet, leaf signet ring.
+HAIR: long loose chestnut waves with tiny wildflowers and leaves woven through, lifting softly in the dawn breeze.
+MAKEUP: dewy sun-kissed, soft flush, glossy natural lip, real pores.
+HANDS & NAILS: one hand drifting open at her side; soft natural nails; vine bracelet catching the dawn.
+FACIAL MICRO-DYNAMICS: serene knowing wonder — a gentle half-smile, warm eyes on the seed, brows softly lifted — the same look she opened with, now carrying everything she has seen; a slow blink.
+BODY POSTURE & WEIGHT: standing tall and settled, weight centring, the foot poised to step again, dress and wrap trailing.
+KINETIC STILLNESS (8 layers): (1) fresh-tilled soil; (2) thin dawn mist over bare ground; (3) the chestnut waves and woven flowers drifting; (4) the silk dress rippling; (5) chest rising; (6) the single seed catching a dewdrop; (7) distant bare branches; (8) a slow reverent blink.
+SPATIAL LOGIC: FOREGROUND — the soft path and the seed. MIDGROUND — Aira (the focal point). BACKGROUND — the bare misty clearing, empty beds, stone wall, dawn sky — exactly CLIP 1.
+LIGHTING: KEY — soft low golden dawn raking the soil. FILL — cool misty sky-fill. RIM — a warm dawn-edge on her waves and shoulder. PRACTICAL — the rising sun glow. SEPARATION — her warm form against the cool ground. BOUNCE — soft warm earth-bounce.
+LENS + DOF + BOKEH: 35mm, f/2.8, deep-enough; her sharp, the seed a tiny sharp accent, the misty clearing soft behind.
+COMPOSITION: vertical 9:16, Aira left-of-centre, the seed lower-centre, the bare clearing opening behind — the exact establishing bookend that equals the opening frame.
+SUBJECT FRAMING & POSITION: Aira is framed FULL-BODY in a WIDE 3/4-FRONT eye-level shot, left-of-centre, the seed lower-centre. Mid distance, eye level — identical to CLIP 1. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: hushed dawn potential, again — the cycle ready to begin anew.
+COLOUR GRADE: dawn-VIVID — rich dark-brown soil + cool silver mist + warm golden dawn + her sage/moss dress + chestnut + gold; saturated earth-tones. (Matches CLIP 4 END STATE AND CLIP 1's opening — the loop.)
+TEXTURE & MICRO-DETAIL: soil-grain and clods, the seed's husk and dewdrop, silk weave, woven petals, flyaway hairs, dawn-mist gradient.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
+
+### ANIMATION (this clip, ~4s — opens BARE EARTH + SEED; loop-close back to CLIP 1)
+SHOT TYPE & ANGLE: eye-level wide 3/4-front; subject ~45% left-of-centre, the seed lower-centre.
+CAMERA MOVEMENT (CHOREOGRAPHY): a slow settle/push toward the seed, resolving into CLIP 1's exact opening framing — one continuous shot.
+LENS: 35mm, f/2.8.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–2.0s — she stands serene over the seed in the bare dawn clearing, waves and dress drifting, taking it in.
+- 2.0–4.0s — she begins to lift her foot to step again — the framing resolving into the EXACT composition that opened CLIP 1, the cycle poised to restart — seamless loop point.
+FLUIDITY & WEIGHT NOTES: slow, fluid, reverent — calm and whole; all motion eases.
+FABRIC/HAIR/PROP PHYSICS: silk flows with soft cloth-physics; woven flowers and waves move with secondary-motion; the seed sits with weight in the soil; a dewdrop trembles on its husk.
+FOOTWORK & BODY FLOW: weight centring then the foot lifting to begin the next step — exactly CLIP 1's opening motion.
+MID-CLIP TRANSFORMATION (timed): none — this is the resolved bare-earth state; the only "change" is the camera settling into CLIP 1's opening framing to close the loop, her raised foot about to land and begin the cycle again.
+LIGHTING-IN-MOTION: steady soft golden dawn, mist drifting low.
+DIEGETIC AUDIO: the hushed dawn clearing — a first faint birdsong, breeze over bare soil, the quiet anticipatory stillness; her soft settling breath.
+MASTER TRACK: the lone low cello-drone and soft heartbeat-pulse — landing exactly where CLIP 1 began.
+END STATE / STATE-MATCH LOCK (heavy detail — loops to CLIP 1): the final frame equals CLIP 1's opening frame — same bare misty clearing, same single seed, same framing, same wardrobe, same poised step. CLIP 1 reopens from here seamlessly — and her foot will land, and a whole life will begin again.
+CUT LOGIC: seamless ANGLE-CUT / loop back to CLIP 1. WORLD STATE matches 100%. The reel loops forever: she steps, a tree lives and dies a whole life, a new seed drops, she steps again.
+
+---
+
+☆ EXTERNAL AUDIO — BLOCK 1: BACKGROUND SOUND DESIGN / AMBIENCE BED
+(Use as the diegetic world-bed under the reel — one continuous organic cycle of a garden living a whole life. The soft FOOTFALL is the trigger-sound that drives each leap.)
+- THROUGH-LINE (the trigger): Aira's slow soft bare-foot footfalls on damp soil — one deliberate footfall per clip — each landing kicking off the time-leap. Low, intimate, weighty, the heartbeat of the piece.
+- BARE EARTH BED (Clip 1 / Clip 5): hushed dawn potential — faint distant birdsong, a low breeze over bare soil, dripping dew, a vast quiet stillness; the soft seed-crack as it sprouts.
+- SAPLING / SPRING BED (Clip 2): waking growth — a swelling burst of layered birdsong, buzzing bees arriving, breeze through fresh grass, the tiny woody creaks of fast growth, the soft tick of the first falling petals.
+- FLOWERING / PEAK-SPRING BED (Clip 3): full rapture — dense birdsong and a chorus of bees, a soft constant rain of petals ticking down, warm breeze swelling the blossom canopy, the woody groan of the swelling trunk.
+- ANCIENT-OAK / SUMMER BED (Clip 4 open): deep high-summer — a thick cicada-drone, wind roaring softly in a heavy canopy, distant birds, the great groaning creak of the giant trunk.
+- DECAY / AUTUMN-WINTER BED (Clip 4 close): the turn — the dry rush and rattle of leaves pouring off, a long creak and an earth-shaking CRASH as the trunk falls, then cold winter wind and a deep settling silence, ending on a single soft seed-drop (which becomes Clip 1's bed).
+- TRANSITIONS: each FOOTFALL is the cut-point; cross-fade the seasonal beds over ~2.5s around each footfall (bare→spring→peak-spring→summer→decay→bare), so the world's sound ages while her slow breath and footfall stay constant and intimate.
+- LOOP: the bare-earth dawn bed at the end seamlessly equals the bare-earth dawn bed at the start.
+
+☆ EXTERNAL AUDIO — BLOCK 2: BACKGROUND MUSIC / SCORE TRACK
+(An organic, cyclical orchestral score that GROWS and DECAYS exactly with the tree — beginning and ending on one lone note, blooming to a full orchestra at peak life. Drop in under Block 1.)
+- KEY / TEMPO / FEEL: D major (warm, reverent), rubato-to-~70 BPM, cinematic and tender — the feeling of awe and the passage of time.
+- THE SPINE (constant heartbeat): a soft low pulse — a felt-piano or muted heartbeat-thud — present from the first note to the last, the "her" of the track that time orbits.
+- SEED / BARE EARTH (Clip 1 / Clip 5): a single lone sustained cello-drone + the soft heartbeat-pulse — minimal, hushed, full of potential. The track begins and ENDS here (seamless loop).
+- SAPLING / SPRING (Clip 2): warm rising strings and a light plucked harp/celeste motif join the cello — the melody sprouting, hopeful and tender.
+- FLOWERING / PEAK-SPRING (Clip 3): the strings open into a warm full theme, woodwinds and a glockenspiel shimmer added, a gentle swell — the music in full bloom.
+- ANCIENT-OAK / SUMMER (Clip 4 open): the score reaches its grand orchestral PEAK — full warm strings, brass-pad underneath, a deep resonant low end — vast, majestic, the height of life.
+- DECAY / AUTUMN-WINTER (Clip 4 close): the orchestra unravels — instruments drop away one by one, a lone mournful solo cello carries a descending line, reverb tails lengthen, until only the cello-drone and heartbeat-pulse remain — decaying precisely back to the opening note.
+- RESOLVE / LOOP (end of Clip 5): the track lands on the exact lone cello-drone + heartbeat it opened with — seamless infinite loop, mirroring the seed.
+- MIX NOTE: keep the heartbeat-pulse and the diegetic FOOTFALL from Block 1 locked together so each footfall feels like the pulse that drives time forward — life beating once per century.
+
+═══════════════════════════════════════════════════════════════════════════════
+
+✦ END OF ALL 25 CONCEPTS — Pillars A–E complete (5 concepts each). ✦
