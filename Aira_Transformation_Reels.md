@@ -273,3 +273,138 @@ ANIMATION (~4s): 0.0–2.5s ★ wings fold into light, glow recedes, Aira restor
 
 ☆ EXTERNAL AUDIO — BLOCK 1 (SOUND DESIGN): an enchanted night glade — soft crickets, a trickling stream, gentle breeze; a delicate chime-sparkle (wisp trigger); a warm magical shimmer + tiny bell-flutters during the fae form; resolve to one chime + crickets at the loop.
 ☆ EXTERNAL AUDIO — BLOCK 2 (MUSIC): whimsical fairytale — a light pizzicato-strings + celeste + harp motif in D major ~84 BPM, a flute melody, a sparkling magical swell at the fairy peak, gentle and joyful, decaying to one celeste note at the loop.
+
+
+# CATEGORY C — STYLE / PERSONA
+
+
+# C-1 — SHE MORPHS THROUGH EVERY ERA (1920s → 2020s)
+TRANSFORMS INTO: her own self styled across the decades — one spin morphs her hair, makeup and wardrobe through 1920s → 1950s → 1970s → 1990s → now, then loops.
+FEELING: glamorous time-travel / fashion fantasy — chic, fun, iconic.
+★ HOOK (first ~1s): a sharp finger-snap and a swirl of light wraps her — she's suddenly in full 1920s flapper glam.
+SETTING: a timeless mirrored art-studio with a rotating light, neutral so the WARDROBE is the star.
+BASE LOOK (the "now" anchor she returns to) — WARDROBE: a sleek modern tailored ivory pantsuit (modest). FOOTWEAR: pointed heels. EYEWEAR: none. ACCESSORIES: minimalist gold. HAIR: a sleek modern blowout, deep brown. MAKEUP: clean modern glam, glossy nude lip. HANDS & NAILS: neutral nails.
+THE MAGIC (trigger + mechanic): TRIGGER is each SPIN she does — every full turn wraps her in a swirl of light that re-styles her entire look into the next era; the era completes as she faces front, then she spins again. NOT an element-morph — a STYLE-morph (hair + makeup + wardrobe + grade change per era). Loops back to "now".
+TRANSFORMATION PHYSICS: a swirl-of-light/fabric-ribbon wipe driven by the spin (motion-blur reveal), each era's wardrobe settling with correct fabric physics; her FACE stays identity-locked Aira throughout — only styling and palette change.
+
+## CLIP 1 — FULL BODY · FRONT (now → spin → 1920s)
+IMAGE: full body, front; modern ivory-suit Aira mid-confident-pose, about to spin. LIGHTING: clean studio key, rotating soft light, crisp rim. LENS: 35mm f/2.8. COMPOSITION: 9:16, Aira centred, neutral backdrop. FRAMING: full body, centred. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert. COLOUR GRADE: VIVID clean modern (the anchor), shifting to a warm sepia-gold 1920s grade by clip end. TEXTURE: suit weave → beaded fringe. NEGATIVE: mirrored, flipped, extra limbs, fused fingers, identity drift (face must stay Aira), garbled text, plastic skin, watermarks, dull colour, flat light.
+ANIMATION (~5s): 0.0–1.5s she snaps and starts a spin. 1.5–4.0s ★ STYLE-MORPH: a swirl of light wraps her; she emerges in full 1920s — finger-wave bob, dark dramatic lip, a beaded fringe flapper gown (modest), sepia-gold grade. 4.0–5.0s she strikes a Deco pose. PHYSICS: spin motion-blur wipe, fringe sway. AUDIO: a snap + shimmer + 1920s jazz sting. CUT: angle-cut to CLIP 2.
+
+## CLIP 2 — MEDIUM-FULL · 3/4 (1950s → 1970s → 1990s rapid-morph)
+IMAGE: medium-full, 3/4; a rapid trio of era-spins. LIGHTING: rotating light, grade shifting per era. LENS: 50mm f/2.5. COMPOSITION: 9:16, Aira centred. FRAMING: medium-full, centred. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert. COLOUR GRADE: VIVID per era — pastel 1950s → warm earthy 1970s → cool grunge 1990s. TEXTURE: era-correct fabrics. NEGATIVE: as above.
+ANIMATION (~6s): 0.0–2.0s ★ spin → 1950s: victory-roll curls, red lip, polka-dot swing dress (modest), pastel grade, a pin-up pose. 2.0–4.0s ★ spin → 1970s: voluminous feathered hair, bronze glam, a flared jumpsuit (modest), warm earthy grade, a disco pose. 4.0–6.0s ★ spin → 1990s: sleek straight hair/clips, brown matte lip, a slip-dress-over-tee (modest), cool grade, a cool slouch. PHYSICS: spin wipes, fabric settle per era. AUDIO: each spin a genre sting (rock'n'roll → disco → 90s beat). CUT: angle-cut to CLIP 3.
+
+## CLIP 3 — FULL BODY · FRONT (→ now, loop)
+IMAGE: full body, front; one last spin returns her to the modern ivory-suit "now" anchor — identical to CLIP 1's opening. LIGHTING: clean modern returning. LENS: 35mm f/2.8. COMPOSITION: 9:16, Aira centred as at start. FRAMING: full body, centred. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert. COLOUR GRADE: VIVID clean modern. TEXTURE: ivory suit. NEGATIVE: as above.
+ANIMATION (~4s): 0.0–2.5s ★ spin → back to modern ivory-suit Aira, the swirl settling. 2.5–4.0s she lands the exact confident pose of CLIP 1 — EXACTLY the opening. LOOP. PHYSICS: spin wipe, suit settle. AUDIO: shimmer resolving to a modern beat-drop, ready to loop. CUT: seamless loop to CLIP 1.
+
+☆ EXTERNAL AUDIO — BLOCK 1 (SOUND DESIGN): a clean studio; a crisp finger-snap + magical fabric-swirl whoosh on every spin; a subtle vinyl-crackle texture that updates per era; resolve at the loop.
+☆ EXTERNAL AUDIO — BLOCK 2 (MUSIC): a single modern beat that RE-SKINS per era — same ~100 BPM groove rendered as 1920s jazz → 1950s rock'n'roll → 1970s disco → 1990s hip-hop → modern pop, snapping on each spin; lands back on modern pop at the loop. The fun is the genre-flip on every turn.
+
+
+# C-2 — SHE TURNS INTO HER NIGHT ALTER-EGO (soft day → bold night, one blink)
+TRANSFORMS INTO: her bold "after-dark" alter-ego — soft natural daytime Aira flips to high-glam night Aira in a single blink/hair-flip.
+FEELING: confident duality / glow-up — sexy-but-modest power, the "wait, she's THAT girl" reveal.
+★ HOOK (first ~1s): soft daytime Aira closes her eyes — and opens them with a bold smoky eye already on.
+SETTING: a chic apartment by a window — warm daylight that flips to moody night with city lights.
+BASE LOOK (DAY) — WARDROBE: a soft cream knit and relaxed trousers (modest), cosy. FOOTWEAR: bare/socks. EYEWEAR: none. ACCESSORIES: tiny studs. HAIR: soft loose natural waves, deep brown, a little undone. MAKEUP: fresh no-makeup glow, balm lip. HANDS & NAILS: bare nails.
+ALTER-EGO LOOK (NIGHT) — WARDROBE: a sleek black tailored blazer-dress (modest, long sleeves). HAIR: glossy voluminous blowout / sleek pony. MAKEUP: bold smoky eye, sharp liner, deep berry-glam lip, sculpted glow. ACCESSORIES: bold gold/silver statement earrings. NAILS: deep red/black.
+THE MAGIC (trigger + mechanic): TRIGGER is a BLINK or a HAIR-FLIP — on the blink/flip, day-Aira instantly becomes night-Aira (full hair + makeup + wardrobe + lighting flip), and the room turns from warm day to moody night. A persona-flip, not an element-morph. Face stays identity-locked Aira.
+TRANSFORMATION PHYSICS: a match-cut on the blink/flip (the eyelids/hair-swing motion masks the change), with hair settling, fabric swap, and the room's light cross-fading day→night; instant but smooth.
+
+## CLIP 1 — CLOSE-UP · FRONT (day Aira → blink)
+IMAGE: close-up, front; soft natural day-Aira in warm window light, a gentle relaxed look, about to close her eyes. LIGHTING: warm soft daylight, gentle. LENS: 85mm f/1.8. COMPOSITION: 9:16, face centred, warm room bokeh. FRAMING: face/shoulders, centred. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert. COLOUR GRADE: VIVID warm soft daytime, shifting cooler by clip end. TEXTURE: bare skin glow, knit. NEGATIVE: mirrored, flipped, extra limbs, fused fingers, identity drift, garbled text, plastic skin, watermarks, dull colour, flat light.
+ANIMATION (~4s): 0.0–2.0s soft day-Aira, calm; she closes her eyes. 2.0–4.0s ★ on the blink — match-cut — she opens her eyes with a BOLD SMOKY EYE and sharp liner already on, expression shifting to cool confidence; light cooling. END mid-transform (face is night, framing tight). PHYSICS: blink match-cut, light cross-fade. AUDIO: a soft beat swell on the eye-open. CUT: angle-cut to CLIP 2.
+
+## CLIP 2 — MEDIUM · 3/4 (hair-flip completes the night look)
+IMAGE: medium, 3/4; she does a hair-flip; the rest of the look completes — glam hair, black blazer-dress, statement earrings, the room now moody night with city lights. LIGHTING: cool moody night key + warm city-bokeh practicals. LENS: 50mm f/2.0. COMPOSITION: 9:16, Aira centred, night city bokeh. FRAMING: medium, centred. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert. COLOUR GRADE: VIVID moody night — cool blues + warm city-light pops. TEXTURE: glossy hair, blazer, earrings. NEGATIVE: as above.
+ANIMATION (~5s): 0.0–2.0s ★ hair-flip — the swing masks the wardrobe/hair completing to full night-glam, room flips to night. 2.0–5.0s she settles into a powerful confident pose, owning it — the "she's THAT girl" peak. PHYSICS: hair-swing mask, fabric swap, light flip. AUDIO: a confident bass-drop. CUT: angle-cut to CLIP 3.
+
+## CLIP 3 — CLOSE-UP · FRONT (night → blink back to day, loop)
+IMAGE: close-up, front; night-Aira closes her eyes and opens them as soft day-Aira again, room warming — identical to CLIP 1's opening. LIGHTING: warm daylight returning. LENS: 85mm f/1.8. COMPOSITION: 9:16, face centred as at start. FRAMING: face/shoulders, centred. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert. COLOUR GRADE: VIVID warm soft daytime. TEXTURE: bare skin, knit. NEGATIVE: as above.
+ANIMATION (~4s): 0.0–2.0s ★ night-Aira blinks — match-cut — opens as soft day-Aira, room warming. 2.0–4.0s soft and calm, about to close her eyes again — EXACTLY CLIP 1's opening. LOOP. PHYSICS: blink match-cut, light cross-fade. AUDIO: beat softening to warm daytime tone. CUT: seamless loop to CLIP 1.
+
+☆ EXTERNAL AUDIO — BLOCK 1 (SOUND DESIGN): a warm quiet apartment by day (soft room-tone, distant birds) that flips to a moody night ambience (faint city hum, distant traffic) on the transformation; a subtle "whoosh" on the blink/flip; resolves back to day at the loop.
+☆ EXTERNAL AUDIO — BLOCK 2 (MUSIC): one track, two energies — a soft warm acoustic/lo-fi by day that DROPS into a confident bass-heavy glam beat on the night-flip (~95 BPM), then eases back to the soft version at the loop. The drop sells the glow-up.
+
+
+# C-3 — SHE TURNS INTO A GODDESS
+TRANSFORMS INTO: a radiant divine goddess — soft mortal Aira ascends into a glowing, gilded, ethereal deity, then returns.
+FEELING: divine awe / ascension — powerful, sacred, breathtaking.
+★ HOOK (first ~1s): a beam of light from above touches her crown — and golden divine markings begin to glow on her skin.
+SETTING: an ancient marble temple with columns, shafts of heavenly light, drifting gold dust.
+BASE LOOK (mortal) — WARDROBE: a simple flowing white Grecian-draped gown (modest, one shoulder draped softly). FOOTWEAR: gold sandals / hidden. EYEWEAR: none. ACCESSORIES: a thin gold armband. HAIR: soft loose waves, dark, half-up. MAKEUP: soft natural glow, rosy lip. HANDS & NAILS: soft nude nails.
+GODDESS LOOK — WARDROBE: the gown becomes radiant white-and-gold with glowing trim; a golden laurel crown / halo; glowing divine markings on skin; a soft aura of light. HAIR: voluminous, ethereal, lifting gently as if underwater, with gold strands. MAKEUP: luminous gilded glam, gold-leaf accents, glowing eyes.
+THE MAGIC (trigger + mechanic): TRIGGER is the heavenly light-beam touching her crown / her arms lifting — divine golden markings ignite on her skin, a halo and laurel crown form in light, the gown gilds and a soft aura blooms, her hair lifts ethereally (an ascension). Holds in divine radiance, then the light recedes and she returns to mortal Aira. Identity-locked face throughout.
+TRANSFORMATION PHYSICS: glowing-marking spread + volumetric god-ray light + gentle "weightless" hair/fabric float (ascension feel) + drifting gold-dust particles + soft halo bloom; gilding sweeps over the gown; no flat overlay — light and gold integrated with the scene.
+
+## CLIP 1 — MEDIUM · FRONT/LOW (mortal Aira → markings ignite)
+IMAGE: medium, slight low angle (reverent); mortal white-gown Aira, gaze lifting to the light-beam, lips parted in awe, arms beginning to lift. LIGHTING: a heavenly shaft from above, warm gold, soft temple fill. LENS: 50mm f/2.0, god-rays. COMPOSITION: 9:16, Aira centred, columns and light-shaft. FRAMING: medium, centred, slightly low. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert. COLOUR GRADE: VIVID white-and-gold, warm divine, rich shadow. TEXTURE: marble, drape, skin, gold dust. NEGATIVE: mirrored, flipped, extra limbs, fused fingers, identity drift, garbled text, plastic skin, watermarks, dull colour, flat light.
+ANIMATION (~5s): 0.0–2.0s the light-beam touches her crown; she lifts her gaze and arms. 2.0–4.5s ★ MORPH: golden divine markings ignite and spread across her skin, a faint halo beginning. END markings glowing, gilding starting. PHYSICS: marking-spread, god-rays, gold dust. AUDIO: a sacred choir swell beginning. CUT: angle-cut to CLIP 2.
+
+## CLIP 2 — FULL BODY · LOW (full goddess, ascending)
+IMAGE: full body, low heroic angle; Aira now a radiant GODDESS — gilded glowing gown, laurel-crown halo, divine markings, hair lifting weightlessly, a soft aura, slightly levitating in the light-shaft. LIGHTING: blazing divine god-rays, golden aura self-light. LENS: 35mm f/2.8 low. COMPOSITION: 9:16, goddess centred, columns soaring, light from above. FRAMING: full body, centred, low. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert. COLOUR GRADE: VIVID radiant white-gold, divine bloom. TEXTURE: glowing trim, gold-leaf skin, floating hair, dust. NEGATIVE: as above.
+ANIMATION (~5s): slow rise/orbit. 0.0–2.5s she hovers in divine radiance, hair and gown floating, aura pulsing — sacred peak. 2.5–5.0s ★ the divine light begins to recede and she lowers. PHYSICS: weightless float then descend, aura-gather. AUDIO: a full choir + strings apex. CUT: angle-cut to CLIP 3.
+
+## CLIP 3 — MEDIUM · FRONT/LOW (light recedes → mortal Aira, loop)
+IMAGE: medium, slight low; the divine light recedes, markings fading, gown returning to simple white — SOLID mortal Aira, identical to CLIP 1's opening, gaze lifting to the beam. LIGHTING: heavenly shaft returning to soft. LENS: 50mm f/2.0. COMPOSITION: 9:16, Aira centred as at start. FRAMING: medium, centred, slightly low. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert. COLOUR GRADE: VIVID white-gold. TEXTURE: marble, drape, settling dust. NEGATIVE: as above.
+ANIMATION (~4s): 0.0–2.5s ★ markings/halo/gilding recede, hair settling, mortal Aira restored. 2.5–4.0s she lifts her gaze and arms to the beam — EXACTLY CLIP 1's opening. LOOP. PHYSICS: recede/settle. AUDIO: choir softening to a single sustained note, ready to loop. CUT: seamless loop to CLIP 1.
+
+☆ EXTERNAL AUDIO — BLOCK 1 (SOUND DESIGN): a vast echoing temple — soft wind through columns, a low sacred hum, distant resonance; a shimmering "light-touch" tone (the beam); a swelling angelic shimmer during ascension; resolve to the temple hum at the loop.
+☆ EXTERNAL AUDIO — BLOCK 2 (MUSIC): epic and sacred — a building orchestral + choral piece in D major, ~60 BPM, soft strings rising to a full choir + brass apex at the goddess peak, then decaying to a single held choral note at the loop. Cinematic, divine, goosebump-level.
+
+
+# C-4 — SHE TURNS INTO A MERMAID
+TRANSFORMS INTO: a mythic mermaid — on contact with water her legs become a shimmering iridescent tail, then she returns to land-form.
+FEELING: mythic enchantment / aquatic fantasy — magical, graceful, vivid.
+★ HOOK (first ~1s): macro on a wave washing over her ankles as the first iridescent scales bloom across her skin.
+SETTING: a sun-dappled turquoise cove / shallow tide-pool at golden-blue hour, gentle waves, wet rocks.
+BASE LOOK (land) — WARDROBE: a draped sea-green-and-pearl wrap over modest swim-appropriate coverage (fully modest, high coverage), wet fabric clinging modestly. FOOTWEAR: barefoot. EYEWEAR: none. ACCESSORIES: pearl-and-shell earrings, a thin coral bracelet. HAIR: long wet flowing waves, deep teal-black with a sea-shimmer. MAKEUP: dewy aquatic glam, iridescent highlight, glossy coral lip, tiny scale-shimmer on the cheekbones. HANDS & NAILS: pearlescent nails.
+THE MAGIC (trigger + mechanic): TRIGGER is the water touching her legs — iridescent scales bloom from the waterline up, her legs fusing into a long shimmering mermaid tail (sea-green/teal/pearl), holds as she reclines gracefully on a wet rock with the tail flowing, then water washes over and her land-form returns. Modest throughout (tail + wrap cover fully). Face identity-locked.
+TRANSFORMATION PHYSICS: scale-bloom spread + fin/tail fluid motion + water-droplet sheeting + caustic sun-dapple on wet skin and scales; the tail moves with believable weight in water; iridescent scale refraction; no rubbery costume look.
+
+## CLIP 1 — MEDIUM-FULL · 3/4 (land Aira → scales bloom on legs)
+IMAGE: medium-full, 3/4; Aira reclines at the tide-line, a wave over her ankles, a serene enchanted gaze out to sea, soft smile; scales beginning to bloom up from the waterline. LIGHTING: warm golden-blue-hour key, sun-dapple, sea-sparkle rim. LENS: 50mm f/2.2. COMPOSITION: 9:16, Aira along a diagonal, the wave/scales the focal accent, turquoise sea behind. FRAMING: medium-full, lower-right along diagonal. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert. COLOUR GRADE: VIVID turquoise/teal/pearl/coral, golden sun, rich. TEXTURE: wet skin, scale iridescence, water sheet, wet rock. NEGATIVE: mirrored, flipped, extra limbs, fused fingers, identity drift, garbled text, plastic skin, watermarks, dull water, flat light, immodest exposure.
+ANIMATION (~5s): 0.0–2.0s a wave washes over her legs. 2.0–4.5s ★ MORPH: iridescent scales bloom from the waterline up the legs. END legs half-scaled, fusing. PHYSICS: scale-bloom, water-sheet. AUDIO: a soft magical shimmer + wave wash. CUT: angle-cut to CLIP 2.
+
+## CLIP 2 — FULL BODY · WIDE (full mermaid on the rock)
+IMAGE: full body, wide; Aira now a full MERMAID — a long shimmering sea-green/teal tail (fully modest) flowing off a wet rock, reclining gracefully, sea-spray and sun-dapple, the cove glowing. LIGHTING: golden-blue hour, sun-sparkle on the wet tail, sea bounce. LENS: 35mm f/2.8. COMPOSITION: 9:16, mermaid along a diagonal, turquoise cove. FRAMING: full body, diagonal. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert. COLOUR GRADE: VIVID turquoise-teal-pearl-coral, golden. TEXTURE: scale iridescence, fin translucency, water droplets. NEGATIVE: as above.
+ANIMATION (~5s): slow orbit. 0.0–2.5s she reclines, the tail flicks gently sending droplets, hair flowing — enchanted peak. 2.5–5.0s ★ a wave begins to wash over the tail to reverse it. PHYSICS: tail-flick fluid motion, droplet spray. AUDIO: gentle waves, a soft ethereal vocal. CUT: angle-cut to CLIP 3.
+
+## CLIP 3 — MEDIUM-FULL · 3/4 (water washes → land Aira, loop)
+IMAGE: medium-full, 3/4; a wave washes over the tail and her land-form returns — SOLID land-Aira, identical to CLIP 1's opening, a wave over her ankles, scales receding. LIGHTING: golden-blue hour returning. LENS: 50mm f/2.2. COMPOSITION: 9:16, Aira along the diagonal as at start. FRAMING: medium-full, lower-right diagonal. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert. COLOUR GRADE: VIVID turquoise-coral-gold. TEXTURE: receding scales, wet skin, water. NEGATIVE: as above.
+ANIMATION (~4s): 0.0–2.5s ★ the wave washes over and the tail reverts to legs (land-form), scales receding. 2.5–4.0s she reclines with a wave over her ankles — EXACTLY CLIP 1's opening. LOOP. PHYSICS: scale-recede, water-sheet. AUDIO: wave wash resolving to a soft shimmer. CUT: seamless loop to CLIP 1.
+
+☆ EXTERNAL AUDIO — BLOCK 1 (SOUND DESIGN): a gentle cove — lapping waves, distant gulls, water dripping off rock; a magical shimmer + wave-wash (the trigger); soft tail-splashes and an ethereal hush during the mermaid form; resolve to lapping waves at the loop.
+☆ EXTERNAL AUDIO — BLOCK 2 (MUSIC): enchanting and aquatic — a flowing harp + soft ethereal female vocal "ooh" in F major ~68 BPM, gentle strings, a magical swell at the mermaid peak, decaying to one harp note + waves at the loop. Mythic and dreamy.
+
+
+# C-5 — SHE TURNS INTO A "K-DRAMA HEROINE" (original archetype — not a real person)
+TRANSFORMS INTO: the soft-glow "K-drama female lead" AESTHETIC — Aira restyled into the dewy, romantic, first-snow K-drama-heroine look. This is a STYLE/MOOD archetype only; it is NOT, and must not resemble, any specific real actress (e.g. the requested real person is intentionally NOT depicted — face stays identity-locked Aira).
+FEELING: soft romance / cinematic K-drama longing — tender, glowing, butterflies.
+★ HOOK (first ~1s): the first snow of winter starts to fall; one flake lands on her lashes — and a soft glow blooms over her as the K-drama styling settles in.
+SETTING: a snowy Seoul-style street at dusk, warm shop-window glow, bokeh fairy-lights, gentle snowfall (the classic K-drama "first snow" scene).
+BASE LOOK (before) — WARDROBE: a plain everyday beige coat (modest). HAIR: simple loose waves, dark brown. MAKEUP: minimal. ACCESSORIES: none. (A deliberately plain "before".)
+K-DRAMA-HEROINE LOOK (after) — WARDROBE: a soft camel wool coat over a cream turtleneck and a pleated midi skirt (modest, cosy-chic), a knit scarf. HAIR: glossy soft-curled "see-through bangs" blowout, rich brown with a warm sheen. MAKEUP: the signature dewy "glass skin" glow, gradient soft-coral lip, straight natural brows, subtle aegyo-sal under-eye highlight, rosy blush — fresh and luminous. ACCESSORIES: small pearl earrings, a delicate ring.
+THE MAGIC (trigger + mechanic): TRIGGER is the first snowflake landing on her lashes — a soft warm glow sweeps over her and the styling transforms into the full K-drama-heroine look (hair, dewy makeup, cosy-chic wardrobe), the street lights blooming romantically. A STYLE-morph (aesthetic + grade), face identity-locked Aira throughout. Resolves back to the plain "before" and loops.
+TRANSFORMATION PHYSICS: a soft warm light-bloom wipe (not an element morph) — hair re-styling with settle, wardrobe swap with cloth physics, makeup "glow" blooming on the skin, snow continuing to fall naturally throughout, bokeh lights intensifying; gentle and dreamy.
+
+## CLIP 1 — CLOSE-UP · 3/4 (plain Aira → first snow → glow begins)
+IMAGE: close-up, 3/4; plain-coat Aira looks up as the first snow falls, a soft surprised smile, a flake on her lashes. LIGHTING: warm dusk shop-glow key, cool snow fill, fairy-light bokeh rim. LENS: 85mm f/1.8, snow + bokeh. COMPOSITION: 9:16, Aira right-of-centre, snow and warm bokeh. FRAMING: face/shoulders, right-of-centre. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert. COLOUR GRADE: VIVID warm-amber + cool-snow K-drama grade (teal-and-orange, soft glow). TEXTURE: snowflakes, skin, coat wool. NEGATIVE: mirrored, flipped, extra limbs, fused fingers, identity drift, resemblance to any real person, garbled text, plastic skin, watermarks, dull colour, flat light.
+ANIMATION (~5s): 0.0–2.0s she looks up; a snowflake lands on her lashes. 2.0–4.5s ★ STYLE-MORPH: a soft warm glow sweeps over her; makeup blooms to dewy glass-skin, hair begins restyling to the soft blowout. END glow building, look half-settled. PHYSICS: glow-bloom wipe, hair settle, falling snow. AUDIO: a tender piano note + soft sparkle. CUT: angle-cut to CLIP 2.
+
+## CLIP 2 — MEDIUM · FRONT (full K-drama heroine in the snow)
+IMAGE: medium, front; Aira now in the full K-drama-heroine look — camel coat, soft blowout, dewy glow, scarf — standing in the gentle snow under warm fairy-lights, a soft tender smile, the romantic "lead" beat. LIGHTING: warm romantic shop-glow + bloomed bokeh, soft snow fill. LENS: 50mm f/1.8. COMPOSITION: 9:16, Aira centred, dreamy snowy bokeh street. FRAMING: medium, centred. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert. COLOUR GRADE: VIVID K-drama teal-and-amber, glowing. TEXTURE: snow, wool coat, glossy hair, glass-skin glow. NEGATIVE: as above.
+ANIMATION (~5s): slow gentle push. 0.0–2.5s she stands in the snow, a soft breath fogging, a tender smile, snow settling on her hair — the romantic peak. 2.5–5.0s ★ the warm glow begins to recede to reverse the styling. PHYSICS: snowfall, breath-fog, glow-recede onset. AUDIO: a swelling soft piano + strings. CUT: angle-cut to CLIP 3.
+
+## CLIP 3 — CLOSE-UP · 3/4 (glow recedes → plain Aira, loop)
+IMAGE: close-up, 3/4; the warm glow recedes and the styling reverts to plain-coat Aira — identical to CLIP 1's opening, looking up as snow falls, a flake on her lashes. LIGHTING: warm dusk glow returning. LENS: 85mm f/1.8. COMPOSITION: 9:16, Aira right-of-centre as at start. FRAMING: face/shoulders, right-of-centre. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert. COLOUR GRADE: VIVID warm-amber + cool-snow. TEXTURE: snow, skin, coat. NEGATIVE: as above.
+ANIMATION (~4s): 0.0–2.5s ★ glow recedes, hair/makeup/wardrobe revert to the plain "before". 2.5–4.0s she looks up, a flake on her lashes — EXACTLY CLIP 1's opening. LOOP. PHYSICS: glow-recede, snowfall. AUDIO: piano softening to one tender note, ready to loop. CUT: seamless loop to CLIP 1.
+
+☆ EXTERNAL AUDIO — BLOCK 1 (SOUND DESIGN): a quiet snowy street — soft muffled city hush, distant footsteps, a faint shop-door chime, the near-silence of falling snow; a delicate sparkle on the snowflake-trigger; a warm hush during the heroine peak; resolve to snow-hush at the loop.
+☆ EXTERNAL AUDIO — BLOCK 2 (MUSIC): a tender K-drama OST feel — soft solo piano + warm strings in C major, ~66 BPM, a gentle swelling romantic melody at the heroine peak (the "first snow" theme), decaying to one piano note at the loop. Warm, longing, butterflies.
+
+═══════════════════════════════════════════════════════════════════════════════
+
+✦ END — 15 TRANSFORMATION REELS · Category A (Elemental/Nature) · B (Celestial/Fantasy) · C (Style/Persona). Each: single-magic morph, loops back to base Aira, 2 external audio blocks. Note: no real-person likenesses — C-5 is an original "K-drama heroine" archetype, not any specific actress. ✦
