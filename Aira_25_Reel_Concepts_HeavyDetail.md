@@ -5417,3 +5417,801 @@ CUT LOGIC: ANGLE-CUT / LOOP back to CLIP 1; the next pass re-triggers the equali
 - Loop: a clean ~22s loop matching the visual loop point.
 
 ---
+
+# CONCEPT D-3 — THE SMELL OF RAIN ON HOT PAVEMENT
+
+Title: Show-the-Feeling Hero — petrichor made visible as golden spirits rising from the pavement.
+Category / Format: Sensory-mood reel (city sidewalk as a summer storm breaks) · SILENT (diegetic + score only) · CLIP-CHAIN, ANGLE-CUT edit · SENSORY-MAGIC (the first raindrop on hot pavement releases visible golden petrichor-clouds that she breathes in and that glow within her).
+Story Idea: On a city sidewalk in the charged moment before a summer storm, the first fat raindrop hits the hot pavement — and the smell becomes visible: golden-amber particulate clouds rise like spirits, swirl around Aira, and as she breathes them in they glow brighter inside her silhouette. She stands in the full rain, lit from within by the scent, then the storm passes.
+Setting: a city sidewalk at the moment a summer storm breaks — dramatic rolling storm-clouds, electric amber-grey light, hot dark pavement with visible heat-shimmer, a tree with leaves flipping in the pre-storm wind, buildings receding.
+Wardrobe: a simple white cotton sundress, thin straps, just above the knee; modest, breezy.
+Footwear: barefoot on hot dark asphalt (tan leather sandals hooked on two fingers) — constant.
+Eyewear: none.
+Accessories: a single thin gold chain, tiny gold hoop earrings, natural glossy nails; the sandals dangling.
+Hair: long loose natural waves, dark chocolate-brown, middle part, air-dried texture, mid-back — constant.
+Makeup: fresh bare glow — luminous skin, soft natural lip, real pores; lit golden by the petrichor.
+Hero Movement / Impossible Move: the first raindrop releases visible golden petrichor-clouds that rise, swirl around her, and glow brighter inside her silhouette as she breathes them in.
+Transformation Trigger (signature, consistent): THE FIRST RAINDROP + HER INHALE — the first fat drop hitting the hot pavement releases the visible petrichor; her deep inhale draws it in and makes it glow within her. Same trigger (the drop and the breath) is the sensory hero-beat.
+Mood: NOSTALGIA / SENSORY LONGING — the universal "it's about to rain" feeling.
+Grade: dramatic storm-VIVID — saturated dark-purple clouds + amber light-shaft + golden petrichor-glow + white dress + green flipping leaves; rich, electric, full mid-tone.
+Duration: ~22 seconds · 5 clips (angle-cut chain).
+Voice: SILENT — diegetic storm + an organic ambient score with a visceral sub-bass bloom.
+Identity safety: AIRA adult; wardrobe modest; mood nostalgic and elegant, never sexualized.
+State chain (angle-cut): CLIP 1 full body [pre-storm sensing, first drop → ★ golden petrichor RISES] → CUT → CLIP 2 close-up [the deep inhale, petrichor swirls into her, glowing] → CUT → CLIP 3 full-body hero [full storm, she glows golden from within] → CUT → CLIP 4 medium profile [storm passing, glow fading, peace] → CUT → CLIP 5 full body [reset, another storm coming = CLIP 1, loop].
+
+---
+
+## CLIP 1 of 5 — FULL BODY · THREE-QUARTER · EYE-LEVEL (pre-storm; ★ first raindrop releases the golden petrichor)
+
+### START IMAGE (keyframe — pre-storm, dry hot pavement)
+ANGLE & SHOT SIZE: eye-level FULL BODY; Aira on a city sidewalk in the charged pre-storm light, head tilted up, sensing the coming rain.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: a simple white cotton sundress, thin straps, just above the knee, breezy in the pre-storm wind.
+FOOTWEAR: barefoot on hot dark asphalt, the tan leather sandals hooked on two fingers of her right hand.
+EYEWEAR: none.
+ACCESSORIES: a single thin gold chain, tiny gold hoop earrings, natural glossy nails; the sandals dangling.
+HAIR: long loose natural waves, dark chocolate-brown, middle part, air-dried, mid-back, lifting in the pre-storm gust.
+MAKEUP: fresh bare glow — luminous skin, soft natural lip, real pores.
+HANDS & NAILS: the sandals dangling from two fingers of the right hand; the left hand slightly open at her side, palm up, waiting for the first drop; natural glossy nails.
+FACIAL MICRO-DYNAMICS: sensory anticipation — eyes closed, face tilted up, nostrils slightly flared (smelling the coming rain), lips parted, brow relaxed into openness; the "it's about to rain" face.
+BODY POSTURE & WEIGHT: a relaxed open stance, head up, weight even, one palm open, spine long, alive.
+KINETIC STILLNESS (8 layers): (1) dramatic storm-clouds rolling overhead; (2) heat-shimmer waving off the hot pavement; (3) waves of hair lifting in the pre-storm wind; (4) the sundress hem fluttering; (5) chest rising on a deep sensing breath; (6) tree-leaves flipping silver in the gust; (7) the amber light-shaft breaking through one cloud-gap; (8) a slow sensing eyelash settle.
+SPATIAL LOGIC: FOREGROUND — the hot dark pavement, sharp. MIDGROUND — Aira sensing. BACKGROUND — the dramatic storm-sky, receding buildings, the flipping tree.
+LIGHTING: KEY — dramatic pre-storm amber-grey light, a single sun-shaft through a cloud-gap. FILL — electric ambient. RIM — a faint amber edge on the hair. PRACTICAL — the sun-shaft, distant city. SEPARATION — the bright white dress against the darkening world. BOUNCE — warm pavement-heat up onto her.
+LENS + DOF + BOKEH: 35mm, f/4, deep; the storm-sky and sidewalk legible, heat-shimmer distorting the air.
+COMPOSITION: vertical 9:16, Aira right-third, the dramatic sky dominating the upper half, the hot pavement the lower, her white dress the only light element.
+SUBJECT FRAMING & POSITION: Aira reads as a complete full-length figure on the sidewalk, framed head-to-bare-feet, her torso in a gentle three-quarter, face tilted up. The camera holds a full-body distance at eye level; she anchors the right-third with the storm-sky above and pavement below. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: the electric charged hush before a summer storm breaks.
+COLOUR GRADE: dramatic storm-VIVID — saturated dark-purple clouds + amber sun-shaft + hot dark pavement + white dress + green flipping leaves; electric tension, full mid-tone.
+TEXTURE & MICRO-DETAIL: crisp cotton weave, heat-shimmer distortion, asphalt grain, air-dried wave texture, the silver leaf-flip, gold-chain glint, natural nail gloss.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
+
+### ANIMATION (this clip, ~4s — ★ the first raindrop releases the golden petrichor)
+SHOT TYPE & ANGLE: eye-level full body, three-quarter; subject ~50% right-third.
+CAMERA MOVEMENT (CHOREOGRAPHY): a slow static-to-push-in — one continuous shot.
+LENS: 35mm, f/4, deep.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–1.5s — face tilted up, eyes closed, breathing deeply, sensing.
+- 1.5–2.5s — ★ TRIGGER: the first fat raindrop lands on her open palm AND on the hot pavement beside her bare foot.
+- 2.5–4.0s — golden-amber petrichor-clouds RISE from the impact point like spirits; her eyes open in delight, a sharp inhale.
+FLUIDITY & WEIGHT NOTES: the sensing-up is open and still; the drop lands with a flinch of delight; all motion eases.
+FABRIC/HAIR/PROP PHYSICS: the raindrop hits with correct splash-physics on hot asphalt; the golden particulates rise with convection (warm air lifting them); her hair lifts in the pre-storm updraft; the pavement hisses.
+FOOTWORK & BODY FLOW: a relaxed open stance, a slight settle as the drop lands.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE PETRICHOR at 1.5–3.5s — triggered by the first drop on hot pavement, golden-amber particulate clouds rise from the impact like ghosts of the earth's heat being released — the smell made visible, beginning to swirl toward her.
+LIGHTING-IN-MOTION: the amber particulates glow with their own warm light, adding a golden key from below.
+DIEGETIC AUDIO: pre-storm tension (distant thunder, leaves flipping, electric air); the first fat drop hitting pavement (a decisive "SPLAT"); the pavement HISS of heat releasing; the golden cloud rising (a soft warm whoosh); her sharp delighted inhale.
+MASTER TRACK: sparse placed piano notes + distant thunder; a deep sub-bass beginning to bloom on the first drop.
+END STATE / STATE-MATCH LOCK (heavy detail — CLIP 2's START IMAGE must reproduce 100%, new angle only): at clip end golden petrichor-clouds are rising and swirling around her, the storm beginning, her face in dawning delight; white sundress, chocolate waves. CLIP 2 must open in this EXACT state (same golden petrichor, same beginning rain, same wardrobe) — only the angle changes (to the close-up).
+CUT LOGIC: hard ANGLE-CUT to CLIP 2 (close-up). No motion-match; WORLD STATE matches 100%.
+
+---
+
+## CLIP 2 of 5 — CLOSE-UP · FRONT · SLIGHT LOW ANGLE (opens petrichor = CLIP 1 end; ★ the deep inhale draws it in, glowing)
+
+### START IMAGE (keyframe — petrichor swirling, reproduces CLIP 1's END STATE, new angle)
+ANGLE & SHOT SIZE: slight low-angle CLOSE-UP, face and shoulders, golden petrichor-clouds swirling around and behind her head like a halo.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: the white sundress straps, wet-spotting beginning — identical state.
+FOOTWEAR: out of frame.
+EYEWEAR: none.
+ACCESSORIES: the gold chain catching a drop, gold hoops, natural nails.
+HAIR: chocolate waves beginning to darken with the first wet drops, one strand clinging to her cheek.
+MAKEUP: fresh bare glow, lit golden by the petrichor.
+HANDS & NAILS: out of frame mostly; a hand may rise near her collarbone; natural nails.
+FACIAL MICRO-DYNAMICS: the DEEP INHALE — the full-body sensory takeover. Eyes closed tight (savouring), nostrils wide, chest expanding, lips parted in a soft "O" of pleasure, brow smooth and open. Then: eyes open slowly and BRIGHT — lit from within, dilated, as if the scent filled her; a slow sensory complete smile.
+BODY POSTURE & WEIGHT: head tilted slightly back, chest expanding on the inhale, breathing.
+KINETIC STILLNESS (8 layers): (1) golden petrichor-clouds swirling around her head like a halo; (2) the clouds drawn toward her inhale; (3) a wet strand on the cheek; (4) the dress straps wet-spotting; (5) chest expanding on the inhale; (6) a raindrop on her lower lip; (7) the clouds glowing brighter near her mouth/nose; (8) lashes settling.
+SPATIAL LOGIC: FOREGROUND — soft golden petrichor near lens. MIDGROUND — her face, sharp. BACKGROUND — the swirling golden halo, increasing rain.
+LIGHTING: KEY — the golden petrichor-glow as a warm ambient. FILL — the storm's amber-grey. RIM — golden petrichor backlighting her hair. PRACTICAL — the glowing clouds, the sun-shaft. SEPARATION — the golden halo behind her face. BOUNCE — warm petrichor-glow on the skin (and from within as it enters).
+LENS + DOF + BOKEH: 85mm, f/2.0; her face pin-sharp, the golden clouds and rain soft, tiny golden bokeh.
+COMPOSITION: vertical 9:16, her face centre, the golden scent-clouds swirling behind like a warm crown.
+SUBJECT FRAMING & POSITION: Aira is framed in a slightly low close-up, face and shoulders, front to lens, head tilted slightly back on the inhale. She sits dead-centre, the golden petrichor swirling behind. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: the deep sensory inhale — "I missed this".
+COLOUR GRADE: VIVID — golden petrichor-glow against storm-purple sky, the warmth of the smell against the cool rain. (Matches CLIP 1 END STATE.)
+TEXTURE & MICRO-DETAIL: golden particulate detail, a raindrop on the lip, real pores in the golden glow, wet-strand on the cheek, lash detail.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
+
+### ANIMATION (this clip, ~5s — ★ the deep inhale draws the petrichor in, glowing within)
+SHOT TYPE & ANGLE: slight low-angle close-up; face ~75% dead-centre.
+CAMERA MOVEMENT (CHOREOGRAPHY): an imperceptible push-in — one continuous shot.
+LENS: 85mm, f/2.0, shallow.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–1.5s — the DEEP inhale: chest expanding, nostrils wide, eyes closed savouring.
+- 1.5–2.8s — the golden petrichor-clouds are drawn toward her inhale, glowing brighter as they near her mouth/nose, some entering her — her skin briefly glowing from within.
+- 2.8–5.0s — eyes open BRIGHT, the full-body sensory smile arriving.
+FLUIDITY & WEIGHT NOTES: the inhale leads (chest, then the glow drawn in); eyes open bright; all motion eases.
+FABRIC/HAIR/PROP PHYSICS: the golden particles are drawn inward with her breath (correct airflow, like smoke to a vent), glowing brighter near heat (her body), entering her nostrils on the inhale; rain increases with correct streak; the lip-drop holds with surface tension.
+FOOTWORK & BODY FLOW: head tilted back, chest expanding.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE INHALE-GLOW at 1.5–3.5s — triggered by her deep breath, the golden petrichor swirls inward and enters her, briefly glowing from within her silhouette (the scent literally filling her); the sensation made visible inside her.
+LIGHTING-IN-MOTION: the golden glow intensifies as the particles concentrate at her face, then dims as they enter her — her skin glowing from within for a beat.
+DIEGETIC AUDIO: the deep inhale (cinematic, resonant); the golden particles' soft warm harmonic hum as they swirl; raindrops increasing (patter building); the pavement hiss; a soft bass note as the glow enters her.
+MASTER TRACK: the sub-bass BLOOM + a warm analog pad swelling with the inhale-glow.
+END STATE / STATE-MATCH LOCK (heavy detail — CLIP 3's START IMAGE must reproduce 100%, new angle only): at clip end she has breathed the petrichor in, her silhouette faintly glowing gold from within, the rain increasing, her sensory smile blooming; white sundress, wet chocolate waves. CLIP 3 must open in this EXACT state (same inner-glow, same increasing rain, same wardrobe) — only the angle changes (to the full-body hero).
+CUT LOGIC: hard ANGLE-CUT to CLIP 3 (full-body hero). No motion-match; WORLD STATE matches 100%.
+
+---
+
+## CLIP 3 of 5 — FULL BODY · FRONT · LOW-ANGLE HERO (opens inner-glow = CLIP 2 end; ★ full storm, she glows golden from within)
+
+### START IMAGE (keyframe — full storm + inner-glow, reproduces CLIP 2's END STATE, new angle)
+ANGLE & SHOT SIZE: low-angle HERO, FULL BODY; the full summer storm pouring, Aira standing in it, her silhouette faintly glowing gold from within (the petrichor she breathed).
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: the white sundress now rain-soaked and clinging (still modest), faintly glowing golden from within.
+FOOTWEAR: barefoot on the wet pavement, rain-splashes around her feet, golden light reflecting in forming puddles.
+EYEWEAR: none.
+ACCESSORIES: the gold chain dark-wet, hoops with rain-drops, natural nails; the sandals still in hand, forgotten.
+HAIR: waves now wet and heavy, clinging to her shoulders, darkened by rain but glowing faintly gold from the petrichor inside.
+MAKEUP: fresh bare glow, rain on her face, lit gold from within.
+HANDS & NAILS: arms slightly out, palms up catching rain; natural nails.
+FACIAL MICRO-DYNAMICS: transcendent relief — face up in the rain, eyes closed, the broadest most genuine smile, rain running down her face, every muscle released; the "standing in the rain and loving it" face.
+BODY POSTURE & WEIGHT: a grounded heroic stance, arms slightly out, face up, weight even, spine long, breathing.
+KINETIC STILLNESS (8 layers): (1) the full storm pouring, the city disappearing in grey sheets; (2) golden petrichor still rising from every raindrop-impact around her; (3) her internal golden glow pulsing gently (heartbeat); (4) the wet dress clinging; (5) chest rising; (6) lightning flickering in the far clouds; (7) puddles forming and rippling with golden reflections; (8) rain streaming down her face.
+SPATIAL LOGIC: FOREGROUND — rain falling toward the lens. MIDGROUND — Aira glowing in the storm. BACKGROUND — the grey storm, the city dissolving, golden petrichor rising everywhere.
+LIGHTING: KEY — dramatic storm-light (dark purple sky) + the golden petrichor-glow from below (all the rising clouds) + her internal golden glow = she's the light-source in the storm. FILL — cool storm-grey. RIM — golden-gold edge on her wet silhouette. PRACTICAL — petrichor-glow, lightning, puddle-reflections. SEPARATION — her glowing form against the grey storm. BOUNCE — golden uplight.
+LENS + DOF + BOKEH: 28mm low and wide for grandeur, f/3.2; rain falling toward the lens as foreground texture, her golden form sharp in the middle distance.
+COMPOSITION: vertical 9:16, Aira centre glowing, golden clouds rising all around from the pavement, rain pouring, storm above — the warm centre of a cold world.
+SUBJECT FRAMING & POSITION: Aira reads as a complete full-length figure from a low angle, arms out, face up, framed head-to-bare-feet with forming puddles. The camera is mid-distance and low for grandeur; she anchors centre with the storm and petrichor around her. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: transcendent rain-relief — a lantern of scent in the storm.
+COLOUR GRADE: MAXIMUM VIVID — dark storm-purple + golden petrichor-amber + her white-and-gold glowing form; she's a lantern in the rain. (Matches CLIP 2 END STATE.)
+TEXTURE & MICRO-DETAIL: heavy rain-streaks, golden petrichor rising from impacts, her internal glow pulse, wet-clinging fabric with surface tension, rain on her skin, forming puddles.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
+
+### ANIMATION (this clip, ~5s — ★ full storm, she glows golden from within)
+SHOT TYPE & ANGLE: low-angle hero, full body; subject ~60% centre.
+CAMERA MOVEMENT (CHOREOGRAPHY): a static low hold — the rain and glow do everything — one continuous shot.
+LENS: 28mm, f/3.2, low and wide.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–1.5s — she opens her arms fully, face up, in the pouring rain.
+- 1.5–3.5s — a slow quarter-turn on the spot, eyes closed, bathing in it, glowing from within.
+- 3.5–5.0s — a joyful exhale-laugh, rain on her face, the transcendent peak.
+FLUIDITY & WEIGHT NOTES: the arms open in surrender; the spin is slow and blissful; the inner-glow pulses with her heartbeat; all motion eases.
+FABRIC/HAIR/PROP PHYSICS: rain has correct heavy-storm density and speed; golden clouds rise with convection from each hot-pavement impact; her internal glow pulses organically; wet hair and fabric cling with surface tension; puddles form and ripple.
+FOOTWORK & BODY FLOW: a grounded slow spin, bare feet splashing in the forming puddle.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE INNER-GLOW PEAK at 0.0–4.0s — the petrichor she breathed glows brightest here within her silhouette while golden clouds keep rising from every impact; she's the warm sun in the cold storm.
+LIGHTING-IN-MOTION: her golden inner-glow brightest here; golden petrichor rising everywhere; lightning flickers far off.
+DIEGETIC AUDIO: FULL STORM — heavy immersive rain-impact; distant thunder rolling; golden clouds rising (a warm sub-bass humming chorus); her joyful exhale-laugh; the pavement hiss at maximum; rain on her skin (a close intimate patter).
+MASTER TRACK: full immersive rain-texture + the warm pad + the sub-bass bloom at its fullest — the emotional peak.
+END STATE / STATE-MATCH LOCK (heavy detail — CLIP 4's START IMAGE must reproduce 100%, new angle only): at clip end she stands transcendent in the full storm, glowing gold from within, golden petrichor rising; white wet dress, wet chocolate waves. CLIP 4 must open in this EXACT state then the storm begins to pass within CLIP 4 — same wardrobe, only the angle changes (to the profile).
+CUT LOGIC: hard ANGLE-CUT to CLIP 4 (medium profile). No motion-match; WORLD STATE matches 100%.
+
+---
+
+## CLIP 4 of 5 — MEDIUM · FULL PROFILE · EYE-LEVEL (opens full-storm = CLIP 3 end; storm passing, glow fading, peace)
+
+### START IMAGE (keyframe — storm passing, reproduces CLIP 3's END STATE, new angle)
+ANGLE & SHOT SIZE: eye-level MEDIUM, waist-up, full side-profile; the storm thinning, golden petrichor fading, her inner-glow dimming, a break in the clouds showing blue.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: the wet white sundress in profile — identical state.
+FOOTWEAR: out of frame.
+EYEWEAR: none.
+ACCESSORIES: the wet gold chain, a hoop with a raindrop hanging, natural nails.
+HAIR: wet chocolate waves in profile, heavy and dark, rain-dripping.
+MAKEUP: fresh bare glow, rain on the skin, the inner-glow fading.
+HANDS & NAILS: she lifts the sandals in her hand slightly — remembering them, real-world returning; natural nails.
+FACIAL MICRO-DYNAMICS: post-experience peace — eyes open in profile looking at the clearing sky, a slow exhale (last warm breath-vapour), the smile settled to a gentle complete calm; the "I got what I needed" face.
+BODY POSTURE & WEIGHT: an upright profile, weight centred, lifting the sandals, breathing.
+KINETIC STILLNESS (8 layers): (1) rain thinning to drips; (2) golden clouds fading to nothing; (3) wet waves dripping; (4) the dress dripping; (5) chest on a settling breath; (6) a cloud-break showing blue; (7) the pavement steaming normally (cooling); (8) her inner-glow dimming out.
+SPATIAL LOGIC: FOREGROUND — soft drips. MIDGROUND — her profile, sharp. BACKGROUND — the clearing storm, fresh post-rain light.
+LIGHTING: KEY — storm-light brightening as clouds part; fresh post-storm light beginning. FILL — cool clearing. RIM — a fresh light-edge on the wet hair. PRACTICAL — the cloud-break, fading petrichor. SEPARATION — her profile against the clearing sky. BOUNCE — fresh light under the jaw.
+LENS + DOF + BOKEH: 50mm, f/2.8; her profile sharp, the clearing sky soft.
+COMPOSITION: vertical 9:16, her profile left, the clearing sky right — the transition.
+SUBJECT FRAMING & POSITION: Aira is shown in a profile medium, waist-up, looking at the clearing sky, lifting her sandals. The camera holds a medium distance at eye level; she rides left with the clearing sky to frame-right. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: post-storm peace — the sensation fulfilled, the calm after.
+COLOUR GRADE: TRANSITIONAL — storm fading, fresh cleaner cooler light arriving, the golden dimming, her white dress brightening. (Matches CLIP 3 END STATE, clearing.)
+TEXTURE & MICRO-DETAIL: wet-wave detail, breath-vapour, dripping dress, fresh post-rain light, cooling-pavement steam.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
+
+### ANIMATION (this clip, ~4s — storm passing, glow fading, peace)
+SHOT TYPE & ANGLE: eye-level medium profile; subject ~55% left-of-centre.
+CAMERA MOVEMENT (CHOREOGRAPHY): a slow lateral track on the profile — one continuous shot.
+LENS: 50mm, f/2.8, shallow.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–1.5s — she opens her eyes to the clearing sky.
+- 1.5–2.8s — a long slow exhale (last visible breath-vapour), the calm settle.
+- 2.8–4.0s — the gentle complete smile — "I got what I needed".
+FLUIDITY & WEIGHT NOTES: the eye-open is gentle; the exhale is long; she lifts the sandals as the real world returns; all motion eases.
+FABRIC/HAIR/PROP PHYSICS: the golden particles disperse and fade naturally; rain transitions to dripping; steam rises normally from cooling pavement; her hair and dress drip.
+FOOTWORK & BODY FLOW: an upright settle, lifting the sandals.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE PASSING at 0.0–3.0s — the golden petrichor fades to nothing, the rain thins to drips, the pavement cools (normal steam), her inner-glow dims out; the sensation gently complete.
+LIGHTING-IN-MOTION: golden fading; fresh post-storm light (cleaner, cooler) arriving.
+DIEGETIC AUDIO: rain thinning to drips; the last golden hum fading; birds beginning after the storm; a fresh breeze; her exhale; dripping from awnings.
+MASTER TRACK: the rain-texture thins; the pad fades; the placed piano notes return.
+END STATE / STATE-MATCH LOCK (heavy detail — CLIP 5's START IMAGE must reproduce 100%, then loop): at clip end the storm has passed, fresh light, her gentle calm; wet white dress, chocolate waves. CLIP 5 must open by RESETTING to the pre-storm sensing — same sidewalk (drying/hot again), same wardrobe (drying), another storm gathering.
+CUT LOGIC: hard ANGLE-CUT to CLIP 5 (full body). No motion-match; state resets to CLIP 1.
+
+---
+
+## CLIP 5 of 5 — FULL BODY · THREE-QUARTER · EYE-LEVEL (reset → loop to CLIP 1)
+
+### START IMAGE (keyframe — reproduces CLIP 1's opening)
+ANGLE & SHOT SIZE: eye-level FULL BODY; Aira on the sidewalk (returned to hot-and-dry, heat-shimmer back, new storm-clouds gathering), head tilting up to sense again — the opening restored.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: the white cotton sundress — matched to CLIP 1 (drying).
+FOOTWEAR: barefoot, sandals in hand — matched.
+EYEWEAR: none.
+ACCESSORIES: thin gold chain, gold hoops, natural nails, sandals dangling — matched.
+HAIR: long chocolate waves, middle part, drying, mid-back — matched to CLIP 1.
+MAKEUP: fresh bare glow — matched.
+HANDS & NAILS: sandals dangling from two fingers, the left palm open at her side — matched to CLIP 1.
+FACIAL MICRO-DYNAMICS: sensory anticipation returning — eyes closing, face up, nostrils flaring — the exact opening face (another storm coming).
+BODY POSTURE & WEIGHT: a relaxed open stance, head up, palm open — mirror of CLIP 1.
+KINETIC STILLNESS (8 layers): (1) new storm-clouds darkening; (2) heat-shimmer returning off the pavement; (3) waves lifting in a new pre-storm gust; (4) the dress hem fluttering; (5) chest rising on a sensing breath; (6) tree-leaves flipping; (7) the amber light-shaft returning; (8) a sensing eyelash settle — matched to CLIP 1.
+SPATIAL LOGIC: FOREGROUND — the hot pavement. MIDGROUND — Aira sensing. BACKGROUND — the gathering storm-sky — matched to CLIP 1.
+LIGHTING: KEY — amber-grey pre-storm light returning, the sun-shaft. FILL — electric ambient. RIM — amber edge on the hair. PRACTICAL — the sun-shaft, distant city. SEPARATION — bright dress against the darkening world. BOUNCE — warm pavement-heat — matched to CLIP 1.
+LENS + DOF + BOKEH: 35mm, f/4, deep — matched to CLIP 1.
+COMPOSITION: vertical 9:16, Aira right-third, the gathering sky above, the hot pavement below — identical to CLIP 1 so the reel loops.
+SUBJECT FRAMING & POSITION: Aira reads as a complete full-length figure on the sidewalk, framed head-to-bare-feet, torso in the same gentle three-quarter, face tilting up to sense. The camera holds the identical full-body distance at eye level; she anchors the right-third — exactly rhyming with CLIP 1 so the loop is seamless. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: the charged pre-storm hush resuming — another storm gathering.
+COLOUR GRADE: dramatic storm-VIVID — dark-purple clouds, amber sun-shaft, hot pavement, white dress, green leaves — matched to CLIP 1.
+TEXTURE & MICRO-DETAIL: cotton weave, heat-shimmer, asphalt grain, wave texture, leaf-flip, gold-chain glint, natural nails — matched.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
+
+### ANIMATION (this clip, ~4s — reset; loop close)
+SHOT TYPE & ANGLE: eye-level full body, three-quarter; subject ~50% right-third — matched to CLIP 1.
+CAMERA MOVEMENT (CHOREOGRAPHY): a gentle settle to the exact CLIP-1 establishing framing.
+LENS: 35mm, f/4 — matched.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–1.5s — the pavement heats and dries, heat-shimmer returning; the calm fading to sensing.
+- 1.5–2.8s — she tilts her face up again, nostrils flaring — she smells the next one coming.
+- 2.8–4.0s — eyes closing, palm opening — the exact CLIP-1 opening pose, waiting for the first drop.
+FLUIDITY & WEIGHT NOTES: the sensing-up matches CLIP 1; everything returns to the charged opening.
+FABRIC/HAIR/PROP PHYSICS: heat-shimmer returns; new storm-clouds darken; the dress dries; hair lifts in the new gust — matched to CLIP 1.
+FOOTWORK & BODY FLOW: a relaxed open stance, sensing.
+MID-CLIP TRANSFORMATION (timed): the storm RESETS (gathering again); the next loop re-triggers the petrichor on the next first-drop (the start of CLIP 1).
+LIGHTING-IN-MOTION: amber-grey storm-light returning — matched to CLIP 1.
+DIEGETIC AUDIO: cicadas returning; distant thunder growing; the electric air; the pavement heating — back to the CLIP-1 bed.
+MASTER TRACK: the sparse placed piano + distant thunder returns, looping cleanly.
+END STATE / STATE-MATCH LOCK: clip ends in the EXACT pre-storm sensing state and full-body angle of CLIP 1's START IMAGE — gathering storm, wardrobe and sensing expression matched, so the reel loops seamlessly.
+CUT LOGIC: ANGLE-CUT / LOOP back to CLIP 1; the next pass re-triggers the petrichor on the first drop.
+
+### ☆ EXTERNAL AUDIO — BLOCK 1: BACKGROUND SOUND DESIGN / AMBIENCE BED — D-3
+*The layered foley + ambience to lay UNDER the reel, separate from the in-clip diegetic audio — timed to the clips.*
+- Base bed: pre-storm tension (distant thunder, leaves flipping, electric air, cicadas) that builds into full immersive rain, then thins to post-storm drips and birdsong.
+- CLIP 1 (first drop): the decisive fat-drop "SPLAT" on hot pavement; the heat-release HISS; the golden cloud rising (a warm whoosh); her sharp inhale.
+- CLIP 2 (inhale): the deep cinematic inhale; the golden particles' warm harmonic hum; rain building; a soft bass note as the glow enters her.
+- CLIP 3 (full storm): heavy immersive rain-impact (surrounding); rolling thunder; the golden clouds' warm sub-bass humming chorus; her joyful exhale-laugh.
+- CLIP 4 (passing): rain thinning to drips; the last golden hum fading; birds beginning; a fresh breeze.
+- CLIP 5 (reset): cicadas; distant thunder growing; pavement heating — back to the CLIP-1 bed.
+- Mix note: the rain texture must be IMMERSIVE and real — like standing in it; the sub-bass bloom should be physically felt; loops cleanly at ~22s.
+
+### ☆ EXTERNAL AUDIO — BLOCK 2: BACKGROUND MUSIC / SCORE TRACK — D-3 (lay under the sound bed)
+- Genre / vibe: organic ambient with a visceral bass-impact — nature's ASMR meets cinematic emotion; petrichor as a genre.
+- Tempo / key: ~75 BPM, A minor (yearning), slow and spacious.
+- Core elements: recorded rain-textures (light to heavy, real); a deep sub-bass "bloom" at the petrichor moment; a warm analog synth-pad swelling with the golden glow; sparse placed piano notes (3–4, like memories); thunder-rumble as percussion.
+- Arc: sparse piano + distant thunder (CLIP 1) → the sub-bass BLOOM + golden pad at the first drop/inhale (CLIPs 1–2) → FULL rain + pad + sub at the hero (CLIP 3, immersive) → rain thinning, pad fading, piano returning (CLIP 4) → sparse piano alone on the loop (CLIP 5).
+- Texture note: the sub-bass bloom should feel physical — a chest sensation; the rain must feel like being inside it.
+- Loop: a clean ~22s loop matching the visual loop point.
+
+---
+
+# CONCEPT D-4 — THE MOMENT BEFORE SLEEP TAKES YOU
+
+Title: Show-the-Feeling Hero — the threshold between waking and sleep, made visible as a dissolving room and a float into dreamspace.
+Category / Format: ASMR sensory-mood reel (bedroom dissolving to cosmic dreamspace) · SILENT (diegetic + score only) · CLIP-CHAIN, ANGLE-CUT edit · SENSORY-MAGIC (as her eyes get heavy, the room dissolves into clouds and a starfield and she floats up; then settles back).
+Story Idea: Aira lies on a pillow fighting heavy eyelids; as sleep takes her, the bedroom dissolves into soft clouds, the ceiling opens to a gentle starfield, gravity loosens, and she floats up into a vast dreamspace — then settles gently back to the bed as she almost wakes. The threshold between wake and sleep made visible.
+Setting: a softly-lit bedroom at night that dissolves into a vast luminous cloud-and-star dreamspace — warm bedside-lamp glow giving way to sourceless dream-luminescence, lavender clouds, a gentle starfield, distant nebula-colour washes.
+Wardrobe: a soft white cotton sleep-camisole, thin straps, with soft white sleep shorts (seen in the float); modest, simple.
+Footwear: barefoot (lying down / floating), toes relaxed — constant.
+Eyewear: none.
+Accessories: a single thin chain barely visible at the throat, bare natural-pink nails, white linen pillow and duvet.
+Hair: loose bedtime hair, soft natural black, spread on the white pillow / floating in zero-gravity, face-framing pieces falling naturally — constant.
+Makeup: bare, real, fresh — luminous no-makeup skin, soft natural lip, real pores.
+Hero Movement / Impossible Move: as her eyes get heavy the room dissolves into clouds and a starfield and she floats up into dreamspace; then settles gently back.
+Transformation Trigger (signature, consistent): HER SINKING TOWARD SLEEP — each long heavy blink loosens reality further; the deeper she sinks, the more the room dissolves and she floats; as she almost wakes, gravity and the room return. Same trigger (the drift to sleep) is the sensory hero-beat.
+Mood: ASMR / HYPNOTIC COMFORT — the threshold of sleep; tender, weightless, the one concept where soft low-key serves the story (vibrant only in the dreamspace nebula-colour).
+Grade: soft warm bedside-amber dissolving into a dreamy lavender-cloud-and-starfield with vivid pink/blue nebula washes; intimate and ethereal, deep but soft.
+Duration: ~22 seconds · 5 clips (angle-cut chain).
+Voice: SILENT — only her breath; an ambient sleep-into-void score.
+Identity safety: AIRA adult; wardrobe modest sleepwear; mood tender and peaceful, never sexualized.
+State chain (angle-cut): CLIP 1 close-up overhead [face on pillow, heavy eyes → ★ room begins DISSOLVING] → CUT → CLIP 2 medium [room 50% dissolved, she begins to FLOAT] → CUT → CLIP 3 full-body [floating in vast dreamspace, hair like ink in water] → CUT → CLIP 4 close-up [returning, settling back, eyes flutter] → CUT → CLIP 5 close-up overhead [back on pillow, heavy eyes = CLIP 1, loop].
+
+---
+
+## CLIP 1 of 5 — CLOSE-UP (face on pillow) · OVERHEAD (looking down) · (bedroom; ★ heavy eyes begin dissolving the room)
+
+### START IMAGE (keyframe — face on pillow, room solid)
+ANGLE & SHOT SIZE: OVERHEAD CLOSE-UP looking straight down at her face resting on a white pillow, hair haloed on the linen.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: a soft white cotton sleep-camisole, thin straps, one visible at the shoulder.
+FOOTWEAR: out of frame (lying down).
+EYEWEAR: none.
+ACCESSORIES: a single thin chain barely visible at the throat, bare natural-pink nails; white linen pillow and duvet.
+HAIR: loose soft natural black hair spread on the white pillow in a soft halo, face-framing pieces falling across the brow and cheek.
+MAKEUP: bare real fresh — luminous no-makeup skin, soft natural lip, real pores.
+HANDS & NAILS: one hand resting beside her face on the pillow, fingers curled loosely; bare natural-pink nails.
+FACIAL MICRO-DYNAMICS: the edge of sleep — eyelids HEAVY (three-quarter closed, fighting to stay open), a slow blink taking longer and longer, brow completely smooth and released, lips barely parted, jaw soft and slack; the face between waking and sleeping.
+BODY POSTURE & WEIGHT: lying on the pillow, head settled into the linen, completely relaxed, breathing slow.
+KINETIC STILLNESS (8 layers): (1) the bedroom edges beginning to blur and soften; (2) the lamp-glow softening; (3) a face-framing piece drifting; (4) the duvet rising/falling with her breath; (5) chest rising slow; (6) the pillow texture beginning to blur; (7) a faint cool-blue creeping at the frame edge; (8) a long heavy eyelash settle.
+SPATIAL LOGIC: FOREGROUND — her face on the pillow, sharp. MIDGROUND — the white linen. BACKGROUND — the bedroom edges (lamp, nightstand) barely suggested, softening.
+LIGHTING: KEY — a soft warm bedside-lamp glow from one side. FILL — very dim. RIM — none. PRACTICAL — the lamp, a corner of a book on the nightstand. SEPARATION — soft; intimate and sleepy. BOUNCE — warm amber on her cheek.
+LENS + DOF + BOKEH: 85mm overhead, f/2.0, shallow; her face sharp, the bedroom edges blurring (dreamy).
+COMPOSITION: vertical 9:16, her face dead-centre on the white pillow, hair radiating, eyes looking up at the lens.
+SUBJECT FRAMING & POSITION: an overhead close-up of her face on the pillow, shot straight down, hair haloed on the linen, her body running along the vertical of the frame. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: the intimate hush of the edge of sleep.
+COLOUR GRADE: soft warm bedside-amber (the one concept where soft low-key serves) — white linen, warm skin, the lamp's amber, her black hair; calm, intimate, about to dissolve.
+TEXTURE & MICRO-DETAIL: white-linen weave, real sleep-softened skin, individual hair-strands on the pillow, the duvet's soft fold, the thin chain.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
+
+### ANIMATION (this clip, ~4s — ★ heavy eyes begin dissolving the room)
+SHOT TYPE & ANGLE: overhead close-up; face ~70% dead-centre.
+CAMERA MOVEMENT (CHOREOGRAPHY): an imperceptible slow zoom-in — intimacy building — one continuous shot.
+LENS: 85mm overhead, f/2.0, shallow.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–1.5s — a slow long blink (almost closes, fights open).
+- 1.5–2.5s — ★ TRIGGER: another blink, even longer — the eyes barely make it back open — and the bedroom edges begin to DISSOLVE and blur.
+- 2.5–4.0s — her fingers relax further on the pillow; the room softens toward formless warmth.
+FLUIDITY & WEIGHT NOTES: the blinks take longer each time (losing the fight, beautifully); the dissolution is organic (watercolour bleeding); all motion eases, heavy and slow.
+FABRIC/HAIR/PROP PHYSICS: objects don't disappear sharply — they soften and fade; the pillow texture blurs; her fingers uncurl from a loose hold to open; reality unwinding gently.
+FOOTWORK & BODY FLOW: lying still, only the breath and the heavy blinks.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE DISSOLVE BEGINS at 1.5–3.0s — triggered by the heavy blink, the bedroom edges blur and dissolve like watercolour bleeding; the nightstand losing form, the lamp-glow softening into formless warm light, a cool-blue dreamspace creeping in at the edges.
+LIGHTING-IN-MOTION: the lamp-glow softens, the frame edges dim, a subtle cool-blue (moonlight/dreamspace) creeping in.
+DIEGETIC AUDIO: near-silence — only her breath (slow, deepening); a faint distant wind-tone (sleep approaching); the room losing its sounds (a clock-tick fading out); ASMR-intimate proximity to her breathing.
+MASTER TRACK: an intimate solo piano + a warm held pad (like breathing).
+END STATE / STATE-MATCH LOCK (heavy detail — CLIP 2's START IMAGE must reproduce 100%, new angle only): at clip end her eyes are barely open, the bedroom edges dissolving into soft cloud-forms, a cool-blue dreamspace creeping in; white camisole, black hair haloed. CLIP 2 must open in this EXACT dissolving state (same blur, same creeping dreamspace, same wardrobe) — only the angle changes (to the bedside medium).
+CUT LOGIC: hard ANGLE-CUT to CLIP 2 (medium, bedside). No motion-match; WORLD STATE matches 100%.
+
+---
+
+## CLIP 2 of 5 — MEDIUM · FRONT (camera at bed-height) · EYE-LEVEL (opens dissolving = CLIP 1 end; ★ room dissolves, she begins to float)
+
+### START IMAGE (keyframe — room 50% dissolved, reproduces CLIP 1's END STATE, new angle)
+ANGLE & SHOT SIZE: bed-height eye-level MEDIUM (waist-up), beside her, as the room dissolves and her body begins to lift off the bed.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: the white camisole, one strap sliding off the shoulder (she's not adjusting it — gone) — identical state.
+FOOTWEAR: out of frame.
+EYEWEAR: none.
+ACCESSORIES: the thin chain lifting slightly off her chest (gravity loosening), bare nails.
+HAIR: black hair beginning to FLOAT upward off the pillow — individual strands lifting as gravity weakens.
+MAKEUP: bare real fresh, lit by dream-luminescence.
+HANDS & NAILS: one hand floating slightly off the dissolving surface, fingers relaxed; bare nails.
+FACIAL MICRO-DYNAMICS: sleep has WON — eyes fully closed now, every feature perfectly slack, lips barely parted, breath visible as a soft cloud in the cooling air; not a "care" expression — a "no longer there" peace.
+BODY POSTURE & WEIGHT: lying, beginning to lift off the dissolving bed in the sleeping pose, weightless, breathing slow.
+KINETIC STILLNESS (8 layers): (1) the bedroom 50% dissolved — walls fading to cloud-forms, the ceiling gone, a starfield appearing; (2) lavender clouds forming where furniture was; (3) hair strands lifting; (4) the camisole drifting weightless; (5) chest rising slow; (6) the chain floating off her chest; (7) the duvet lifting/floating; (8) a slack peaceful stillness.
+SPATIAL LOGIC: FOREGROUND — the last solid bed-edge. MIDGROUND — Aira beginning to float. BACKGROUND — the dissolving room becoming cloud-and-star dreamspace.
+LIGHTING: KEY — sourceless dreamspace luminescence (soft, even). FILL — fading warm lamp. RIM — a soft cloud-glow edge. PRACTICAL — the emerging starfield, fading lamp. SEPARATION — her form against the soft clouds. BOUNCE — soft lavender on her skin.
+LENS + DOF + BOKEH: 50mm, f/2.0; her face/form sharp, the dissolving room soft and dreamy.
+COMPOSITION: vertical 9:16, her floating form centre, the dissolving room around her, clouds and stars replacing architecture.
+SUBJECT FRAMING & POSITION: Aira is framed waist-up from bed-height beside her, lying then lifting in the sleeping pose, the room dissolving around her. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: the dissolution of reality at the threshold of sleep, tender and weightless.
+COLOUR GRADE: dreamspace palette emerging — soft lavender clouds, warm-white stars, her black hair and white camisole as the remaining contrast; ethereal, not harsh. (Matches CLIP 1 END STATE.)
+TEXTURE & MICRO-DETAIL: zero-gravity hair-strands, drifting camisole fabric, the floating chain, soft cloud-forms, breath-vapour.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
+
+### ANIMATION (this clip, ~4s — ★ room dissolves, she begins to float)
+SHOT TYPE & ANGLE: bed-height eye-level medium; subject ~55% centre.
+CAMERA MOVEMENT (CHOREOGRAPHY): a very slow rise (the camera lifts with her as she begins to float) — one continuous shot.
+LENS: 50mm, f/2.0, shallow.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–1.5s — her body begins to lift off the dissolving bed, imperceptible at first.
+- 1.5–2.8s — she's floating, still in the sleeping pose, hair streaming upward.
+- 2.8–4.0s — the bed dissolves entirely into cloud; she floats in the gentle space.
+FLUIDITY & WEIGHT NOTES: the float is GENTLE — not sudden, the slowness of a bubble rising; the hair floats with zero-gravity physics (strands separating); all motion eases.
+FABRIC/HAIR/PROP PHYSICS: she rises with bubble-slowness; hair floats with zero-g (individual strands); the camisole fabric drifts weightless; the chain floats with correct metal-mass (rises slower than fabric); the pillow dissolves and her head tips back as support vanishes.
+FOOTWORK & BODY FLOW: completely asleep — no conscious motion, only the gentle float.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE FLOAT at 0.0–4.0s — triggered by sinking deeper into sleep, the bed dissolves entirely into cloud, the room becomes a vast gentle cloud-and-star space, and she floats up into it, hair and camisole drifting in zero-gravity.
+LIGHTING-IN-MOTION: sourceless dreamspace luminescence (soft, even from all directions); starlight as tiny points; the warm lamp gone.
+DIEGETIC AUDIO: absolute hush — only her deep slow breathing; a soft distant cosmic hum; the chain lifting off skin (barely audible); the sound of space (vast, quiet, enveloping).
+MASTER TRACK: the piano fades, the pad grows vast, a sub-bass entering as the dreamspace opens.
+END STATE / STATE-MATCH LOCK (heavy detail — CLIP 3's START IMAGE must reproduce 100%, new angle only): at clip end the bed is gone, she floats in a vast cloud-and-star dreamspace, hair streaming, asleep; white camisole. CLIP 3 must open in this EXACT dreamspace-float (same clouds, same stars, same zero-g pose, same wardrobe) — only the angle changes (to the full-body float).
+CUT LOGIC: hard ANGLE-CUT to CLIP 3 (full-body float). No motion-match; WORLD STATE matches 100%.
+
+---
+
+## CLIP 3 of 5 — FULL BODY · ZERO-GRAVITY FLOAT · (opens dreamspace = CLIP 2 end; ★ floating in the vast dreamspace)
+
+### START IMAGE (keyframe — dreamspace float, reproduces CLIP 2's END STATE, new angle)
+ANGLE & SHOT SIZE: eye-level (no up/down in dreamspace) FULL BODY; Aira floating in a vast luminous cloud-and-star dreamspace, hair spread like ink in water.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: the white camisole and white sleep shorts (now visible in full body), fabric floating free of her body; modest.
+FOOTWEAR: bare feet, toes pointed naturally in the float, relaxed.
+EYEWEAR: none.
+ACCESSORIES: the thin chain floating in a gentle arc above her collarbone, bare nails, bare feet.
+HAIR: black hair streaming and spread in zero-gravity like an ink-painting in water — the most visually striking element.
+MAKEUP: bare real fresh, nebula-tinted (soft pink/blue).
+HANDS & NAILS: one arm drifting, the other relaxed; a sleep-hand near her face; bare nails.
+FACIAL MICRO-DYNAMICS: absolute peace — face completely slack, eyes closed, breathing barely visible, the ultimate rest; mouth slightly open, one cheek faintly compressed by the ghost-memory of the pillow; deeply human, real sleep.
+BODY POSTURE & WEIGHT: a natural sleep-position suspended (slightly fetal, one arm drifting, knees slightly drawn), weightless, breathing slow.
+KINETIC STILLNESS (8 layers): (1) soft lavender clouds drifting below and around; (2) a gentle starfield above; (3) hair drifting like ink in water; (4) the camisole and shorts fabric floating free; (5) chest rising barely; (6) distant nebula-colour washes pulsing (soft pink, blue); (7) the chain orbiting slowly; (8) a tiny unconscious sleep-finger-twitch.
+SPATIAL LOGIC: FOREGROUND — soft drifting clouds. MIDGROUND — her floating form, the only solid thing. BACKGROUND — the infinite dreamspace, starfield, nebula.
+LIGHTING: KEY — sourceless ambient from the clouds themselves. FILL — starlight. RIM — nebula-colour casting soft tints on her skin. PRACTICAL — clouds, stars, nebula. SEPARATION — her form against the soft void. BOUNCE — soft lavender-and-nebula on her skin.
+LENS + DOF + BOKEH: 35mm, f/2.8; her floating form sharp, the void formless and soft around her.
+COMPOSITION: vertical 9:16, her floating form dead-centre in the infinite space, hair the most dramatic graphic element (spreading like roots/wings), the void vast and peaceful.
+SUBJECT FRAMING & POSITION: Aira is framed full-body floating, a natural suspended sleep-position, in the vast dreamspace, hair spread dramatically. The camera holds a medium-wide distance at a level orientation; she anchors centre with the void around. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: absolute peace — real, deep, weightless sleep.
+COLOUR GRADE: dreamy but VIVID where it counts — lavender clouds + pink/blue nebula hints + white camisole + her black hair spreading dramatic; ethereal maximum, soft. (Matches CLIP 2 END STATE.)
+TEXTURE & MICRO-DETAIL: ink-in-water hair-spread, weightless fabric, the orbiting chain, volumetric cloud-drift, real slack-sleep skin.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
+
+### ANIMATION (this clip, ~5s — ★ floating in the vast dreamspace)
+SHOT TYPE & ANGLE: eye-level full body float; subject ~50% centre.
+CAMERA MOVEMENT (CHOREOGRAPHY): a very slow circular orbit around her floating form — dreamlike, weightless — one continuous shot.
+LENS: 35mm, f/2.8.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–2.0s — she rotates slowly (a gentle drift, not a spin).
+- 2.0–3.5s — her hand moves to her face in a sleep-adjustment — purely unconscious.
+- 3.5–5.0s — she settles back into the slack float, breathing slow.
+FLUIDITY & WEIGHT NOTES: she drifts with zero-gravity physics (slow rotation, no friction); the sleep-hand-adjust is a real unconscious gesture; the only motion is the breath and the drift.
+FABRIC/HAIR/PROP PHYSICS: her hair moves like underwater (slow, individual strands); the chain orbits with correct orbital mechanics; the clouds have realistic volumetric drift; the camisole drifts weightless.
+FOOTWORK & BODY FLOW: no conscious motion — sleep holds perfectly; bare feet relaxed.
+MID-CLIP TRANSFORMATION (timed): the dreamspace at its fullest (seeded in CLIP 2) — she floats peacefully in the infinite cloud-and-star void, the threshold of sleep fully crossed.
+LIGHTING-IN-MOTION: the orbit causes the nebula-tints to shift across her skin (pink to blue to lavender).
+DIEGETIC AUDIO: near-silence with depth — a vast cosmic ambience (like the inside of a shell, but infinite); her breath (slow, intimate, the only human sound); a faint high tone (the sound of stars).
+MASTER TRACK: pure sub-bass + cosmic shimmer + breath in infinite reverb — the void.
+END STATE / STATE-MATCH LOCK (heavy detail — CLIP 4's START IMAGE must reproduce 100%, new angle only): at clip end she floats in deep peaceful sleep in the dreamspace; white camisole, black hair spread. CLIP 4 must open by RESETTING toward the return — she settles back onto the reforming bed; same wardrobe, the room re-forming.
+CUT LOGIC: hard ANGLE-CUT to CLIP 4 (close-up overhead, returning). No motion-match; state begins the return.
+
+---
+
+## CLIP 4 of 5 — CLOSE-UP (face on pillow) · OVERHEAD · (opens dreamspace = CLIP 3 end; returning, room re-forms, eyes flutter)
+
+### START IMAGE (keyframe — settling back, reproduces CLIP 3's END STATE transitioning)
+ANGLE & SHOT SIZE: OVERHEAD CLOSE-UP looking down at her face settling back onto the white pillow, the room re-forming around her.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: the white camisole strap back on the shoulder — identical state.
+FOOTWEAR: out of frame.
+EYEWEAR: none.
+ACCESSORIES: the chain settling back to her skin, bare nails.
+HAIR: black hair settling back onto the pillow from the float, re-forming the halo.
+MAKEUP: bare real fresh, warm lamp returning.
+HANDS & NAILS: her fingers curling slightly on the pillow — grasping at the fading dream; bare nails.
+FACIAL MICRO-DYNAMICS: the FLUTTER — eyelids fighting to open, a tiny twitch, almost waking; the edge from the other side, coming back but not wanting to.
+BODY POSTURE & WEIGHT: settling back onto the solid bed, head re-settling into the pillow, breathing.
+KINETIC STILLNESS (8 layers): (1) the room re-forming (nightstand materializing, lamp returning, walls solidifying from cloud); (2) the lamp-glow returning warm; (3) hair settling onto the pillow; (4) the duvet re-settling over her; (5) chest rising; (6) the starfield fading from the ceiling; (7) the dream-luminescence giving way to lamp-amber; (8) an eyelid-flutter.
+SPATIAL LOGIC: FOREGROUND — her face on the pillow, sharp. MIDGROUND — the white linen. BACKGROUND — the bedroom re-forming at the edges.
+LIGHTING: KEY — the warm bedside-lamp returning from one side. FILL — dim. RIM — none. PRACTICAL — the re-materializing lamp, nightstand. SEPARATION — soft, warming back. BOUNCE — warm amber on her cheek.
+LENS + DOF + BOKEH: 85mm overhead, f/2.0; her face sharp, the re-forming room sharpening from the dream-blur.
+COMPOSITION: vertical 9:16, her face centre on the pillow, reality re-forming at the edges.
+SUBJECT FRAMING & POSITION: an overhead close-up of her face settling back on the pillow, the room re-forming around her. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: the gentle return from the dream-void — coming back, half-reluctant.
+COLOUR GRADE: TRANSITIONAL — dreamspace lavender fading, warm amber lamp returning. (Matches CLIP 3 END STATE, returning.)
+TEXTURE & MICRO-DETAIL: hair re-settling on linen, the re-forming nightstand, the duvet draping, real sleep-soft skin, an eyelid-flutter.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
+
+### ANIMATION (this clip, ~4s — returning, room re-forms, eyes flutter)
+SHOT TYPE & ANGLE: overhead close-up; face ~70% centre.
+CAMERA MOVEMENT (CHOREOGRAPHY): a static overhead hold — watching her return — one continuous shot.
+LENS: 85mm overhead, f/2.0, shallow.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–1.5s — her body settles back onto the solid bed (a gentle landing).
+- 1.5–2.8s — the room fully re-forms; the lamp solidifies; the duvet settles over her.
+- 2.8–4.0s — eyelids flutter — fighting to open — eyes cracking open, the lamp too bright.
+FLUIDITY & WEIGHT NOTES: the landing is gentle (the last millimetre of gravity returning); the flutter is a real near-waking; all motion eases.
+FABRIC/HAIR/PROP PHYSICS: she descends with the lightness of returning gravity; her hair settles with correct weight; the duvet drapes with real fabric physics; the room re-forms (un-blurs).
+FOOTWORK & BODY FLOW: lying, the gentle settle and flutter.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE RETURN at 0.0–2.5s — triggered by nearly waking, the dreamspace recedes and the room re-forms (cloud→walls, starfield→ceiling, dream-luminescence→lamp-amber); gravity returns and she settles back to the bed.
+LIGHTING-IN-MOTION: lamp-glow at full return; dream-luminescence gone.
+DIEGETIC AUDIO: the vast cosmic sound fading; room sounds returning (clock-tick, ambient hum); the duvet settling (a fabric whisper); her slightly louder breath as she approaches waking.
+MASTER TRACK: the sub recedes, the intimate piano notes returning.
+END STATE / STATE-MATCH LOCK (heavy detail — CLIP 5's START IMAGE must reproduce 100%, then loop): at clip end the room is solid again, lamp warm, she's near-waking with a flutter; white camisole, black hair haloed. CLIP 5 must open in the EXACT solid-bedroom state then reset to the CLIP-1 heavy-eyed sink — same room, same wardrobe.
+CUT LOGIC: hard ANGLE-CUT to CLIP 5 (close-up overhead). No motion-match; state resets to CLIP 1.
+
+---
+
+## CLIP 5 of 5 — CLOSE-UP (face on pillow) · OVERHEAD · (reset → loop to CLIP 1)
+
+### START IMAGE (keyframe — reproduces CLIP 1's opening)
+ANGLE & SHOT SIZE: OVERHEAD CLOSE-UP looking down at her face on the white pillow, hair haloed, the bedroom solid — the opening restored, heavy eyes returning.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: the white cotton sleep-camisole — matched to CLIP 1.
+FOOTWEAR: out of frame.
+EYEWEAR: none.
+ACCESSORIES: the thin chain at the throat, bare nails, white linen pillow and duvet — matched.
+HAIR: loose soft natural black hair in a halo on the white pillow — matched to CLIP 1.
+MAKEUP: bare real fresh — matched.
+HANDS & NAILS: one hand beside her face on the pillow, fingers curled loosely — matched to CLIP 1.
+FACIAL MICRO-DYNAMICS: the edge of sleep returning — eyelids heavy, three-quarter closed, a slow blink beginning — the exact opening face.
+BODY POSTURE & WEIGHT: lying on the pillow, head settled into the linen, relaxed — mirror of CLIP 1.
+KINETIC STILLNESS (8 layers): (1) the bedroom solid; (2) the lamp-glow warm; (3) a face-framing piece drifting; (4) the duvet rising/falling with her breath; (5) chest rising slow; (6) the pillow texture sharp; (7) a clock-tick faint; (8) a heavy eyelash settle — matched to CLIP 1.
+SPATIAL LOGIC: FOREGROUND — her face on the pillow. MIDGROUND — the white linen. BACKGROUND — the solid bedroom edges (lamp, nightstand) — matched to CLIP 1.
+LIGHTING: KEY — soft warm bedside-lamp glow. FILL — dim. RIM — none. PRACTICAL — the lamp, the book on the nightstand. SEPARATION — soft, sleepy. BOUNCE — warm amber on her cheek — matched to CLIP 1.
+LENS + DOF + BOKEH: 85mm overhead, f/2.0, shallow — matched to CLIP 1.
+COMPOSITION: vertical 9:16, her face dead-centre on the white pillow, hair radiating — identical to CLIP 1 so the reel loops.
+SUBJECT FRAMING & POSITION: an overhead close-up of her face on the pillow, shot straight down, hair haloed, body along the vertical. The camera holds the identical overhead distance — exactly rhyming with CLIP 1 so the loop is seamless. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: the intimate hush of the edge of sleep — about to drift again.
+COLOUR GRADE: soft warm bedside-amber — white linen, warm skin, lamp-amber, black hair — matched to CLIP 1.
+TEXTURE & MICRO-DETAIL: linen weave, sleep-soft skin, hair-strands on the pillow, the duvet fold, the thin chain — matched.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
+
+### ANIMATION (this clip, ~4s — reset; loop close)
+SHOT TYPE & ANGLE: overhead close-up; face ~70% centre — matched to CLIP 1.
+CAMERA MOVEMENT (CHOREOGRAPHY): a gentle settle to the exact CLIP-1 overhead framing.
+LENS: 85mm overhead, f/2.0 — matched.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–1.5s — the near-waking fades; her eyes grow heavy again.
+- 1.5–2.8s — a slow heavy blink begins (the fight returning).
+- 2.8–4.0s — eyelids three-quarter closed — the exact CLIP-1 opening pose, about to drift again.
+FLUIDITY & WEIGHT NOTES: the heaviness returns; everything eases back to the opening edge-of-sleep.
+FABRIC/HAIR/PROP PHYSICS: the room solid; the lamp warm; her fingers curl on the pillow — matched to CLIP 1.
+FOOTWORK & BODY FLOW: lying still, the heavy blinks.
+MID-CLIP TRANSFORMATION (timed): the room RESETS to solid; the next loop re-triggers the dissolve when she next sinks toward sleep (the start of CLIP 1).
+LIGHTING-IN-MOTION: warm lamp — matched to CLIP 1.
+DIEGETIC AUDIO: the clock-tick; the lamp; her slowing breath — back to the CLIP-1 bed.
+MASTER TRACK: the intimate piano + pad settles, looping cleanly into the next sleep-approach.
+END STATE / STATE-MATCH LOCK: clip ends in the EXACT heavy-eyed face-on-pillow state and overhead angle of CLIP 1's START IMAGE — solid room, wardrobe and edge-of-sleep expression matched, so the reel loops seamlessly.
+CUT LOGIC: ANGLE-CUT / LOOP back to CLIP 1; the next pass re-triggers the dissolve as she drifts to sleep.
+
+### ☆ EXTERNAL AUDIO — BLOCK 1: BACKGROUND SOUND DESIGN / AMBIENCE BED — D-4
+*The layered foley + ambience to lay UNDER the reel, separate from the in-clip diegetic audio — timed to the clips.*
+- Base bed (bedroom clips): a near-silent intimate bedroom room-tone; a faint clock-tick; her slow deepening breath (ASMR-close).
+- CLIP 1 (dissolve begins): the clock-tick fading out; a faint distant wind-tone (sleep approaching); the room losing its sounds.
+- CLIP 2 (float): absolute hush; the chain lifting off skin (barely audible); a soft distant cosmic hum growing.
+- CLIP 3 (dreamspace): a vast cosmic ambience (like inside a shell, infinite); her breath the only human sound; a faint high "sound of stars".
+- CLIP 4 (return): the cosmic sound fading; room sounds returning (clock-tick, ambient hum); the duvet whisper; a slightly louder breath.
+- CLIP 5 (reset): the clock-tick; her slowing breath — back to the CLIP-1 bed.
+- Mix note: the reverb-space must WIDEN from bedroom-intimate to cosmic-infinite, then contract — the listener should feel the room disappear; loops cleanly at ~22s.
+
+### ☆ EXTERNAL AUDIO — BLOCK 2: BACKGROUND MUSIC / SCORE TRACK — D-4 (lay under the sound bed)
+- Genre / vibe: ambient sleep-music crossing into a cinematic void — ASMR meets Interstellar.
+- Tempo / key: no tempo (free/floating), hovering around Eb major (warm, sleepy).
+- Core elements: a single held warm synth-pad (like breathing); very sparse piano (one note every 4–5s); a sub-bass that enters and grows as the dreamspace opens; a vast reverb-space growing from bedroom-intimate to cosmic-infinite; the faintest high-frequency "stars" shimmer.
+- Arc: intimate piano + pad (CLIP 1 bedroom) → piano fading, pad growing vast, sub entering (CLIP 2 dissolution) → pure sub + cosmic shimmer + breath in infinite reverb (CLIP 3 the void) → sub receding, piano returning (CLIP 4 return) → intimate piano + pad settled (CLIP 5 loop).
+- Texture note: the intimate-to-vast transition must feel physical — the reverb widening should make the listener feel the room disappear.
+- Loop: a clean ~22s loop matching the visual loop point.
+
+---
+
+# CONCEPT D-5 — THAT FEELING WHEN YOU FINALLY GET HOME
+
+Title: Show-the-Feeling Hero — the relief of getting home, made visible as a warmth-wave that transforms the room.
+Category / Format: Sensory-mood reel (apartment, cold-blue to warm-amber) · SILENT (diegetic + score only) · CLIP-CHAIN, ANGLE-CUT edit · SENSORY-MAGIC (closing the door radiates a warmth-wave that transforms the cold rigid room into warm soft sanctuary with golden comfort-motes).
+Story Idea: Aira closes her apartment door behind her after a long day — and the instant it clicks, a wave of warmth radiates from the door through the apartment: cold blue light becomes warm amber, rigid furniture softens and "exhales", the air fills with golden motes of comfort. She sheds her armour, falls back into the couch, and the room sighs with her.
+Setting: an apartment that transforms from COLD (blue-grey light, rigid geometric furniture, empty, lonely) to WARM (amber light, plush couch, golden comfort-motes, soft and inviting) on the door-click.
+Wardrobe: a charcoal wool coat (work-day), a structured bag, beneath it a fitted black turtleneck and black jeans; modest, sharp.
+Footwear: black pointed-toe ankle boots (kicked off later), then bare feet with a half-off sock — constant story-prop.
+Eyewear: none.
+Accessories: a structured black leather bag, a simple watch, a thin necklace with a tiny house-shaped pendant, natural nails.
+Hair: a slightly disheveled low ponytail, medium brown — the kind that's been up all day and is about to come down — constant.
+Makeup: soft end-of-day glow — luminous skin (a hint of day-wear), soft lip, real pores.
+Hero Movement / Impossible Move: closing the door radiates a warmth-wave that transforms the cold rigid room into warm soft sanctuary with golden comfort-motes; opening it drains the warmth back.
+Transformation Trigger (signature, consistent): CLOSING THE DOOR — the click of the door shutting radiates the warmth-wave; opening it to leave drains the warmth back to cold. Same trigger (the door) governs both directions.
+Mood: RELIEF / SANCTUARY — the audio-and-visual equivalent of a deep exhale and a hug.
+Grade: starts deliberately COLD blue-grey (rigid, lonely) then floods to VIVID warm — saturated amber, candle-gold, plush navy/rust, golden motes; rich, full mid-tone at the warmth.
+Duration: ~22 seconds · 5 clips (angle-cut chain).
+Voice: SILENT — diegetic apartment + a warm indie-folk score.
+Identity safety: AIRA adult; wardrobe modest; mood warm and relatable, never sexualized.
+State chain (angle-cut): CLIP 1 back pose [closes door → ★ WARMTH-WAVE radiates] → CUT → CLIP 2 profile [de-armoring: coat off, hair down, boots off; room warm] → CUT → CLIP 3 full-body hero [falls back into the couch, room EXHALES relief] → CUT → CLIP 4 close-up [sunk into cushions, peace] → CUT → CLIP 5 back pose [opens door to leave, warmth drains = CLIP 1, loop].
+
+---
+
+## CLIP 1 of 5 — FULL BODY · BACK POSE · EYE-LEVEL (cold apartment; ★ closing the door radiates the warmth-wave)
+
+### START IMAGE (keyframe — cold apartment, door just closing)
+ANGLE & SHOT SIZE: eye-level FULL BODY from behind (camera inside the apartment looking at her back as she faces the just-closed door).
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: a charcoal wool coat still on, a structured black bag slung over one shoulder, slightly rumpled from the day.
+FOOTWEAR: black pointed-toe ankle boots, one heel slightly lifted as if mid-exhale, a faint day-scuff.
+EYEWEAR: none.
+ACCESSORIES: the structured black leather bag on one shoulder, a simple watch at the wrist, a thin house-pendant necklace (hidden under the coat), natural nails.
+HAIR: a slightly disheveled low ponytail, medium brown, a few escaped strands at the nape.
+MAKEUP: soft end-of-day glow — luminous skin with a hint of day-wear, soft lip, real pores.
+HANDS & NAILS: her right hand still on the brass doorknob (the last connection to "outside"), the left letting the bag begin to slide; natural nails.
+FACIAL MICRO-DYNAMICS: (from behind — posture is the expression: shoulders DROPPING from their held-up-all-day position, the head tipping forward, weight releasing back against the door; relief in the body).
+BODY POSTURE & WEIGHT: facing the closed door, one hand on the knob, weight sagging back slightly — the "I made it" lean.
+KINETIC STILLNESS (8 layers): (1) cold blue-grey light flat across rigid furniture; (2) a grey couch looking hard; (3) escaped ponytail strands at the nape; (4) the coat hanging heavy; (5) chest beginning to release a held breath; (6) sharp geometric furniture-edges; (7) uncovered windows with cold city-evening light; (8) a slow shoulder-drop.
+SPATIAL LOGIC: FOREGROUND — the cold rigid living room (behind the camera's POV, around her). MIDGROUND — Aira at the door. BACKGROUND — the door, the cold apartment.
+LIGHTING: KEY — cold blue-grey ambient from uncovered windows. FILL — minimal, clinical. RIM — a weak cold edge. PRACTICAL — cold city-evening window-light, no warm sources yet. SEPARATION — low; the cold light flattens. BOUNCE — minimal.
+LENS + DOF + BOKEH: 35mm, f/4, deep; the cold apartment legible, flat and lonely.
+COMPOSITION: vertical 9:16, her back centre at the door, the cold apartment receding, the brass knob the trigger-point.
+SUBJECT FRAMING & POSITION: Aira reads as a complete full-length figure from behind, facing the closed door, framed head-to-boots, one hand on the knob, shoulders beginning to sag. The camera holds a full-body distance at eye level from inside the apartment; she anchors centre with the cold room around. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: the cold lonely "apartment before you arrive" — rigid, empty, waiting.
+COLOUR GRADE: deliberately COLD — blue-grey, charcoal, steel; her charcoal coat blending into the cold; no warmth anywhere (sets up the warmth-flood).
+TEXTURE & MICRO-DETAIL: wool-coat nap, the brass doorknob, the hard grey couch, sharp furniture-edges, escaped ponytail strands, cold window-light.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, garish oversaturation, flat-blown highlights.
+
+### ANIMATION (this clip, ~4s — ★ closing the door radiates the warmth-wave)
+SHOT TYPE & ANGLE: eye-level full body, back pose; subject ~50% centre.
+CAMERA MOVEMENT (CHOREOGRAPHY): a static hold — letting the relief land — one continuous shot.
+LENS: 35mm, f/4, deep.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–1.5s — she pushes the door fully shut.
+- 1.5–2.5s — ★ TRIGGER: the door CLICKS — her shoulders drop, she sags against the door, head tipping back.
+- 2.5–4.0s — a warmth-wave radiates from the door across the room; cold blue becomes warm amber; furniture softens; golden motes appear.
+FLUIDITY & WEIGHT NOTES: the shoulder-drop is instant relief on the click; the sag has real weight; the warmth-wave travels smoothly; all motion eases.
+FABRIC/HAIR/PROP PHYSICS: the warmth-wave travels at a visible but fast speed (1–2s to fill the room); colour-temperature shifts smoothly on every surface; the couch-cushions puff (a sigh); golden motes drift with Brownian motion; the bag slides off her shoulder with gravity.
+FOOTWORK & BODY FLOW: a back-sag against the door, weight releasing.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE WARMTH-WAVE at 1.5–3.5s — triggered by the door-click, a shimmering amber pulse radiates outward across the floor, up the walls, over every surface: cold blue-grey light becomes warm amber, sharp furniture-edges soften, the rigid couch exhales (cushions puffing), golden comfort-motes appear in the air.
+LIGHTING-IN-MOTION: the warmth-wave transforms the light — cold blue-grey to warm amber sweeping from the door outward, reaching the far wall by 3.5s.
+DIEGETIC AUDIO: the door CLICK (decisive, satisfying, final); the warmth-wave (a soft deep "whooom" like a room exhaling + a gentle amber-toned hum); the couch-puff (a tiny fabric exhale); golden motes entering (a quiet sparkle-shimmer); her own long deep exhale.
+MASTER TRACK: silence + city-sounds, then a warm bass-note + a soft fingerpicked guitar entering on the click.
+END STATE / STATE-MATCH LOCK (heavy detail — CLIP 2's START IMAGE must reproduce 100%, new angle only): at clip end the apartment is WARM — amber light, plush puffed couch, golden motes drifting, soft surfaces; Aira sagged against the door in relief, coat still on, bag sliding; ponytail. CLIP 2 must open in this EXACT warm state (same amber light, same motes, same plush room, same wardrobe) — only the angle changes (to the de-armoring profile).
+CUT LOGIC: hard ANGLE-CUT to CLIP 2 (profile, de-armoring). No motion-match; WORLD STATE matches 100%.
+
+---
+
+## CLIP 2 of 5 — MEDIUM · FULL PROFILE · EYE-LEVEL (opens warm = CLIP 1 end; the de-armoring)
+
+### START IMAGE (keyframe — warm room, reproduces CLIP 1's END STATE, new angle)
+ANGLE & SHOT SIZE: eye-level MEDIUM, waist-up, full side-profile, mid-undress — shedding the day's armour in the warm room.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: the charcoal coat being shrugged off one shoulder (mid-removal), the black turtleneck beneath emerging — identical state, de-armoring.
+FOOTWEAR: a boot being kicked off (one mid-air, one still on) — out of frame mostly.
+EYEWEAR: none.
+ACCESSORIES: the bag already dropped (on the floor behind), the watch on the hair-pulling wrist, the house-pendant now visible as the coat opens, natural nails.
+HAIR: the ponytail being PULLED OUT — her hand reaching back, pulling the tie, hair beginning to fall free.
+MAKEUP: soft end-of-day glow, warm-lit.
+HANDS & NAILS: one hand shrugging the coat off, the other pulling the hair-tie; natural nails.
+FACIAL MICRO-DYNAMICS: the DE-ARMORING — eyes closing in slow relief as the coat slides, lips releasing from their pressed-all-day line into a soft open exhale, brow smoothing from its held furrow, jaw unclenching; the transformation from "professional" to "just me".
+BODY POSTURE & WEIGHT: mid-undress, shoulders releasing, weight easy, breathing out.
+KINETIC STILLNESS (8 layers): (1) golden motes drifting in the warm amber; (2) the plush couch inviting behind; (3) the ponytail falling free; (4) the coat sliding off the shoulder; (5) chest releasing a long exhale; (6) a candle somehow lit on the coffee-table (the warmth-wave lit it); (7) the city-window now warm-toned; (8) a slow relieved blink.
+SPATIAL LOGIC: FOREGROUND — the shedding coat. MIDGROUND — Aira in profile. BACKGROUND — the warm plush living room, golden motes, candle.
+LIGHTING: KEY — full warm amber from multiple sources (the wave "turned on" the warm light). FILL — candle-gold. RIM — a warm edge on the falling hair. PRACTICAL — warm lamps, the lit candle, the warm window. SEPARATION — the warm room behind the profile. BOUNCE — amber under the jaw.
+LENS + DOF + BOKEH: 50mm, f/2.8; her profile sharp, the warm room and motes melting to amber bokeh.
+COMPOSITION: vertical 9:16, her profile right, the warm apartment opening left — she's shedding the outside.
+SUBJECT FRAMING & POSITION: Aira is shown in a profile medium, waist-up, mid-undress (coat shrug, hair-pull). The camera holds a medium distance at eye level; she rides right with the warm room to frame-left. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: the warm relief of shedding the day, cosy and earned.
+COLOUR GRADE: VIVID warm — amber, gold, plush navy/rust, candle-gold, golden motes; the apartment a hug now. (Matches CLIP 1 END STATE.)
+TEXTURE & MICRO-DETAIL: wool-coat slide, the released hair-cascade, golden motes, candle-flame, warm-lit skin, the house-pendant.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
+
+### ANIMATION (this clip, ~4s — the de-armoring)
+SHOT TYPE & ANGLE: eye-level medium profile; subject ~55% right-of-centre.
+CAMERA MOVEMENT (CHOREOGRAPHY): a slow lateral track on the profile — one continuous shot.
+LENS: 50mm, f/2.8, shallow.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–1.5s — the trifecta begins: coat shrug, hair-pull, boot-kick — all at once, fluid, practiced.
+- 1.5–2.8s — hair falls free (a visible cascade), the coat hits the floor, a boot thuds — she's shed the day.
+- 2.8–4.0s — eyes opening soft and heavy — home; the "ahh" face.
+FLUIDITY & WEIGHT NOTES: the shed is fluid and practiced; the hair-cascade releases with tension-physics; the coat falls with wool-weight; all motion eases.
+FABRIC/HAIR/PROP PHYSICS: the coat slides off skin with friction then falls with wool-weight; the hair-tie release has elastic-snap and the hair cascades; the boot-kick has correct leverage; golden motes puff where the coat lands.
+FOOTWORK & BODY FLOW: a boot-kick, weight shifting, the shed.
+MID-CLIP TRANSFORMATION (timed): the room holds full WARM (from CLIP 1); a gentle golden-mote puff where the shed coat lands (the room responding to her release).
+LIGHTING-IN-MOTION: warm and steady; golden motes puff from the landing coat.
+DIEGETIC AUDIO: the coat sliding (fabric whoosh); the hair-tie snap-release; the boot thud on wood (satisfying); her long "ahhhh" exhale; the golden sparkle-shimmer.
+MASTER TRACK: the guitar + a warm bass grow; brushed drums hinting.
+END STATE / STATE-MATCH LOCK (heavy detail — CLIP 3's START IMAGE must reproduce 100%, new angle only): at clip end she's shed her armour (coat on the floor, hair down), the warm plush room around, about to fall into the couch; black turtleneck, hair down. CLIP 3 must open in this EXACT state (same warm room, hair-down, shed armour, same wardrobe) — only the angle changes (to the couch-fall hero).
+CUT LOGIC: hard ANGLE-CUT to CLIP 3 (full-body hero). No motion-match; WORLD STATE matches 100%.
+
+---
+
+## CLIP 3 of 5 — FULL BODY · FRONT · SLIGHT LOW ANGLE (opens shed = CLIP 2 end; ★ falls back into the couch, room EXHALES)
+
+### START IMAGE (keyframe — mid-fall, reproduces CLIP 2's END STATE, new angle)
+ANGLE & SHOT SIZE: slight low-angle (coffee-table level) FULL BODY, mid-fall backward onto the plush couch — the hero-surrender frame.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: beneath the shed coat — the fitted black turtleneck and black jeans, the only layer now.
+FOOTWEAR: bare feet (boots abandoned), one sock half-off, toes curling.
+EYEWEAR: none.
+ACCESSORIES: the house-pendant necklace visible, the watch, one sock half-off, natural nails.
+HAIR: hair now fully DOWN and free, medium brown, mid-air during the fall-back, streaming upward for one gravity-defying frame.
+MAKEUP: soft end-of-day glow, warm-lit.
+HANDS & NAILS: arms slightly out, releasing, trusting the couch; natural nails.
+FACIAL MICRO-DYNAMICS: COMPLETE ABANDON — eyes closed, mouth open in a release-laugh ("ha!"), brow UP (the thrill of the fall), chin lifting, every feature wide-open and FREE; the face of someone who has stopped holding anything up.
+BODY POSTURE & WEIGHT: mid-fall backward, back arched, arms slightly out, hair streaming up — caught in the air above the couch.
+KINETIC STILLNESS (8 layers): (1) the plush couch directly behind, ready to catch her; (2) golden motes swirling in the air disturbed by her fall; (3) hair streaming up mid-fall; (4) the half-off sock dangling; (5) chest open on the release-laugh; (6) the candle flame bowing from the air-displacement; (7) cushions about to receive her; (8) a throw sliding toward her.
+SPATIAL LOGIC: FOREGROUND — the throw and her feet. MIDGROUND — Aira mid-fall. BACKGROUND — the warm apartment, plush couch, candle, golden motes.
+LIGHTING: KEY — full amber warmth. FILL — candle-gold. RIM — a warm edge on the streaming hair. PRACTICAL — warm lamps, the guttering candle, golden motes. SEPARATION — the warm room around the falling figure. BOUNCE — amber underlight.
+LENS + DOF + BOKEH: 28mm low and wide for the hero-surrender, f/3.2; Aira sharp, the warm room glowing, golden motes as bokeh.
+COMPOSITION: vertical 9:16, her falling form centre, arms and hair radiating, the couch waiting below, golden motes swirling — the most dynamic frame.
+SUBJECT FRAMING & POSITION: Aira reads as a complete full-length figure mid-fall-back, framed from a low coffee-table-level angle giving the surrender a heroic sweep, the couch below. The camera is mid-distance and low; she anchors centre with the warm room around. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: the joyful collapse into home — total release.
+COLOUR GRADE: VIVID warm at its richest — amber, gold, plush navy/rust, candle-gold, golden motes; a golden sanctuary. (Matches CLIP 2 END STATE.)
+TEXTURE & MICRO-DETAIL: streaming hair mid-fall, the half-off sock, plush couch fabric, golden motes, the candle bowing, warm skin.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
+
+### ANIMATION (this clip, ~5s — ★ falls back into the couch, room EXHALES relief)
+SHOT TYPE & ANGLE: slight low-angle full body; subject ~60% centre.
+CAMERA MOVEMENT (CHOREOGRAPHY): a static low hold — the fall plays — one continuous shot.
+LENS: 28mm, f/3.2, low and wide.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–1.5s — she tips backward (the decision) — arms opening, back arching.
+- 1.5–2.8s — ★ she LANDS in the couch (a deep plush impact, cushions swallowing her); the room exhales — golden motes WHOOSH outward, the candle bows, a throw slides toward her.
+- 2.8–5.0s — the abandon-laugh becomes a long satisfied "ahhhh" as the couch catches her.
+FLUIDITY & WEIGHT NOTES: the fall has correct gravity-acceleration and body-rotation; the landing has real cushion-compression (springs, foam); all motion eases except the satisfying FWUMP.
+FABRIC/HAIR/PROP PHYSICS: the body meets the couch with a deep sink (cushions compressing, fabric creasing around her); the mote-burst follows air-displacement; the candle gutters from the draft; the throw slides with fabric-on-fabric friction.
+FOOTWORK & BODY FLOW: a full sink-back into the cushions, hair fanning.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE RELIEF at 1.5–2.8s — triggered by the couch-fall, the room exhales: golden motes whoosh out in a burst, the candle bows, the cushions wrap her, a throw slides over — the sanctuary embracing her.
+LIGHTING-IN-MOTION: golden motes swirl in the air-disturbance, creating moving light-patterns; the warmth at its richest.
+DIEGETIC AUDIO: the FALL (a whoosh of air); the LANDING (a deep satisfying "FWUMP" of couch-cushion impact — the most satisfying sound in the set); the mote-burst (sparkle-whoosh); the candle guttering; her release-laugh then the satisfied "ahhhh"; the throw sliding.
+MASTER TRACK: the full warm arrangement (guitar + bass + brushed drums + a wordless "ooh" pad) at its warmest swell — the emotional payoff.
+END STATE / STATE-MATCH LOCK (heavy detail — CLIP 4's START IMAGE must reproduce 100%, new angle only): at clip end she's sunk into the couch, the room at its warmest, golden motes settling, a throw over her; black turtleneck, hair down. CLIP 4 must open in this EXACT state (same sunk-in pose, same warm room, same wardrobe) — only the angle changes (to the close-up).
+CUT LOGIC: hard ANGLE-CUT to CLIP 4 (close-up). No motion-match; WORLD STATE matches 100%.
+
+---
+
+## CLIP 4 of 5 — CLOSE-UP (face in cushions) · FRONT (at couch-height) · EYE-LEVEL (opens sunk-in = CLIP 3 end; complete peace)
+
+### START IMAGE (keyframe — sunk into cushions, reproduces CLIP 3's END STATE, new angle)
+ANGLE & SHOT SIZE: couch-height eye-level CLOSE-UP, her face sunk into the plush cushions, golden motes drifting above.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: the black turtleneck collar at the frame edge — identical state.
+FOOTWEAR: out of frame.
+EYEWEAR: none.
+ACCESSORIES: the house-pendant at the throat, golden motes above her face, warm amber light, natural nails.
+HAIR: medium-brown hair fanned out on the cushion beneath her, free and spread.
+MAKEUP: soft end-of-day glow, warm-lit.
+HANDS & NAILS: one hand resting on her own chest (self-soothing, home-gesture), the other hanging off the couch edge (total release); natural nails.
+FACIAL MICRO-DYNAMICS: COMPLETE PEACE — eyes closed, every feature completely relaxed, a smile with no effort in it (just there because the body is happy), lips barely curved, brow smooth as glass, breathing slowed to deep comfort-breaths; "I'm exactly where I'm supposed to be".
+BODY POSTURE & WEIGHT: sunk deep into the cushions, head nestled, weight fully released, breathing deep.
+KINETIC STILLNESS (8 layers): (1) golden motes drifting lazily above her face; (2) some motes settling on the cushion beside her; (3) hair fanned on the cushion; (4) the throw rising/falling with her breath; (5) chest rising deep and slow; (6) the candle flame steady and calm; (7) the warm window-glow behind; (8) a slow contented blink-then-rest.
+SPATIAL LOGIC: FOREGROUND — plush cushion texture and golden motes. MIDGROUND — her face, sharp. BACKGROUND — the warm room in soft bokeh.
+LIGHTING: KEY — warm amber from all angles. FILL — candle-gold. RIM — a soft warm edge on the hair. PRACTICAL — warm lamps, candle, golden motes. SEPARATION — warm bokeh behind. BOUNCE — amber on her cheek.
+LENS + DOF + BOKEH: 85mm, f/2.0; her face sharp, the cushion and motes melting to warm bokeh.
+COMPOSITION: vertical 9:16, her face centre, cushion cocooning, motes floating above like gold stars — the most intimate frame.
+SUBJECT FRAMING & POSITION: Aira is framed in a couch-height close-up, face sunk into the cushions, front to lens, hair fanned. She sits dead-centre, the cushion cocooning her, motes above. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: complete sanctuary — home, peace, arrival.
+COLOUR GRADE: VIVID warm — warm skin, amber light, golden motes; maximum sanctuary warmth. (Matches CLIP 3 END STATE.)
+TEXTURE & MICRO-DETAIL: plush-cushion nap, golden motes, fanned hair, the throw fabric, real relaxed-skin texture, candle-glow.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
+
+### ANIMATION (this clip, ~4s — complete peace)
+SHOT TYPE & ANGLE: couch-height eye-level close-up; face ~70% centre.
+CAMERA MOVEMENT (CHOREOGRAPHY): an imperceptible push-in — one continuous shot.
+LENS: 85mm, f/2.0, shallow.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–1.5s — she nuzzles slightly into the cushion (unconscious comfort-seeking).
+- 1.5–2.8s — a single slow deep breath and the quietest satisfied "mmm".
+- 2.8–4.0s — the effortless smile settles; deep comfort-breathing.
+FLUIDITY & WEIGHT NOTES: the nuzzle compresses the cushion; the breath is deep; all motion eases.
+FABRIC/HAIR/PROP PHYSICS: motes drift with Brownian motion; her chest rises/falls with deep breathing; the cheek presses into the cushion (correct skin-on-fabric compression); the hand on chest has relaxed weight.
+FOOTWORK & BODY FLOW: sunk-in stillness, only the breath.
+MID-CLIP TRANSFORMATION (timed): the room holds full WARM at rest (the sanctuary); the candle steady, motes drifting — the warmth-magic settled.
+LIGHTING-IN-MOTION: warm and steady; motes create tiny floating highlights.
+DIEGETIC AUDIO: her deep slow breathing (ASMR-intimate); the quiet "mmm"; the golden-mote shimmer (barely there); the candle's steady crackle; the deep silence of home.
+MASTER TRACK: the arrangement strips to guitar + the wordless "ooh" pad — warm and intimate.
+END STATE / STATE-MATCH LOCK (heavy detail — CLIP 5's START IMAGE must reproduce 100%, then loop): at clip end she's at complete peace sunk into the couch, the warm room around; black turtleneck, hair down. CLIP 5 must open by RESETTING toward the door — she rises (implied), the warmth drains as she opens the door to leave; same wardrobe (coat back on).
+CUT LOGIC: hard ANGLE-CUT to CLIP 5 (back pose at the door). No motion-match; state resets to CLIP 1.
+
+---
+
+## CLIP 5 of 5 — FULL BODY · BACK POSE · EYE-LEVEL (reset → loop to CLIP 1)
+
+### START IMAGE (keyframe — reproduces CLIP 1's opening)
+ANGLE & SHOT SIZE: eye-level FULL BODY from behind, facing the door, hand on the knob — about to open it to leave, the warmth draining back to cold; the opening restored.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: the charcoal wool coat back on, the bag slung over one shoulder — matched to CLIP 1.
+FOOTWEAR: black pointed-toe ankle boots — matched.
+EYEWEAR: none.
+ACCESSORIES: the structured bag, the watch, the house-pendant (under the coat), natural nails — matched.
+HAIR: a slightly disheveled low ponytail, medium brown — matched to CLIP 1.
+MAKEUP: soft end-of-day glow — matched.
+HANDS & NAILS: her hand on the brass doorknob — matched to CLIP 1.
+FACIAL MICRO-DYNAMICS: (from behind — posture rising back to held/rigid, the body re-armoring for outside).
+BODY POSTURE & WEIGHT: facing the door, one hand on the knob, shoulders rising back to held — mirror of CLIP 1.
+KINETIC STILLNESS (8 layers): (1) cold blue-grey light returning across the furniture; (2) the couch rigidifying; (3) escaped ponytail strands; (4) the coat hanging heavy; (5) chest held; (6) sharp furniture-edges returning; (7) cold window-light; (8) a posture-stiffening — matched to CLIP 1.
+SPATIAL LOGIC: FOREGROUND — the cold rigid room around. MIDGROUND — Aira at the door. BACKGROUND — the door, the re-cooling apartment — matched to CLIP 1.
+LIGHTING: KEY — cold blue-grey returning. FILL — minimal. RIM — weak cold edge. PRACTICAL — cold window-light, the warmth draining. SEPARATION — low. BOUNCE — minimal — matched to CLIP 1.
+LENS + DOF + BOKEH: 35mm, f/4, deep — matched to CLIP 1.
+COMPOSITION: vertical 9:16, her back centre at the door, the re-cooling apartment, the brass knob the trigger — identical to CLIP 1 so the reel loops.
+SUBJECT FRAMING & POSITION: Aira reads as a complete full-length figure from behind, facing the door, framed head-to-boots, hand on the knob, shoulders rising back to held. The camera holds the identical full-body distance at eye level; she anchors centre — exactly rhyming with CLIP 1 so the loop is seamless. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: leaving again — the warmth draining, the cold returning, the cycle resetting.
+COLOUR GRADE: draining to COLD — blue-grey, charcoal, steel — matched to CLIP 1.
+TEXTURE & MICRO-DETAIL: wool-coat nap, the brass knob, the rigidifying couch, sharp edges, escaped strands, cold window-light — matched.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, garish oversaturation, flat-blown highlights.
+
+### ANIMATION (this clip, ~4s — reset; loop close)
+SHOT TYPE & ANGLE: eye-level full body, back pose; subject ~50% centre — matched to CLIP 1.
+CAMERA MOVEMENT (CHOREOGRAPHY): a static hold matching the CLIP-1 framing.
+LENS: 35mm, f/4 — matched.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–1.5s — she stands (implied risen from the couch), coat back on, and reaches the door, hand on the knob.
+- 1.5–2.8s — ★ as she opens the door to leave, the warmth DRAINS back — amber fading to cold blue, motes vanishing, the couch rigidifying, the candle extinguishing.
+- 2.8–4.0s — her shoulders rise back to held — the exact CLIP-1 opening pose (about to close the door on a new return).
+FLUIDITY & WEIGHT NOTES: the reverse-wave (warmth draining toward the door) matches the opening; the re-armoring is the body tensing; all motion eases.
+FABRIC/HAIR/PROP PHYSICS: the warmth drains outward toward the door (rewind of the wave); the coat hangs heavy; the room re-cools.
+FOOTWORK & BODY FLOW: facing the door, hand on the knob — the CLIP-1 stance.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE DRAIN at 1.5–2.8s — triggered by opening the door, the warmth drains back to cold (the reverse of the warmth-wave); the apartment returns to its cold rigid "waiting" state, restoring CLIP 1.
+LIGHTING-IN-MOTION: warm amber draining to cold blue-grey, matched to CLIP 1.
+DIEGETIC AUDIO: the warmth-hum fading; cold silence returning; city sounds through the opening door; her hand on the brass — back to the CLIP-1 bed.
+MASTER TRACK: the warm arrangement decays to silence + city-sounds, looping cleanly.
+END STATE / STATE-MATCH LOCK: clip ends in the EXACT cold-door back-pose state and full-body angle of CLIP 1's START IMAGE — cold apartment, wardrobe and held posture matched, so the reel loops seamlessly.
+CUT LOGIC: ANGLE-CUT / LOOP back to CLIP 1; the next pass re-triggers the warmth-wave when she next closes the door.
+
+### ☆ EXTERNAL AUDIO — BLOCK 1: BACKGROUND SOUND DESIGN / AMBIENCE BED — D-5
+*The layered foley + ambience to lay UNDER the reel, separate from the in-clip diegetic audio — timed to the clips.*
+- Base bed (cold clips): a quiet cold-apartment room-tone; faint cold city-evening sounds through the windows; a clinical hush.
+- CLIP 1 (★ the door/warmth): the decisive door CLICK; the warmth-wave (a soft deep "whooom" room-exhale + an amber-toned hum); the couch-puff; golden-mote sparkle-shimmer; her long deep exhale.
+- CLIP 2 (de-armoring): the coat sliding (fabric whoosh); the hair-tie snap; a boot thud; her "ahhhh"; the golden shimmer.
+- CLIP 3 (couch-fall): the air-whoosh of the fall; the deep "FWUMP" of the couch-landing (the signature sound); the mote-burst; the candle guttering; her release-laugh then "ahhhh".
+- CLIP 4 (peace): her deep slow breathing (ASMR); a quiet "mmm"; the candle crackle; deep home-silence.
+- CLIP 5 (reset): the warmth-hum fading; cold silence; city sounds through the opening door — back to the CLIP-1 bed.
+- Mix note: the bed itself transforms cold→warm→cold with the visuals; the "FWUMP" and the room-exhale are the signature foley; loops cleanly at ~22s.
+
+### ☆ EXTERNAL AUDIO — BLOCK 2: BACKGROUND MUSIC / SCORE TRACK — D-5 (lay under the sound bed)
+- Genre / vibe: intimate indie-folk warmth with a cinematic swell — the "getting home" anthem; the audio equivalent of a hug.
+- Tempo / key: ~85 BPM, C major (home key, warm, resolved).
+- Core elements: a soft fingerpicked acoustic guitar (the home-theme); a warm bass-note entering with the warmth-wave; gentle brushed drums entering at the fall; a warm wordless vocal "ooh" pad; returns to solo guitar.
+- Arc: silence + city-sounds (CLIP 1 cold) → the warmth-wave gets the bass + guitar entry on the click → guitar + brushed drums grow through the de-armoring (CLIP 2) → FULL arrangement at the couch-fall (CLIP 3, the payoff) → strips to guitar + vocal pad at the peace (CLIP 4) → fades to silence on the loop (CLIP 5).
+- Texture note: the guitar should feel like being wrapped in a blanket — close-mic'd, fingerpicked; the arrangement growing should feel like the apartment warming around you.
+- Loop: a clean ~22s loop matching the visual loop point.
+
+---
