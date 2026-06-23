@@ -1,7 +1,7 @@
 # Aira — 20 Full Reel Concepts · Set 5 (cont.) · Concepts 79–90 · Sys Directive 3 v3.16-VP
 
 > Continuation of Set 5. The original Set 5 page (Concepts 71–78) grew past the editable window, so Concepts 79–90 continue here. Every concept is a fully-silent reel — NO voice-over or spoken line on any frame, top-notch diegetic sound + a separate subtle Master Track Brief only. Vibrant, pop-coloured, mind-blowing visuals throughout. Frame counts vary 6–8 (never the same two concepts in a row), with footwear, accessories and eye-colour sections grouped near wardrobe/hair/makeup.
-> 
+>
 
 ---
 
@@ -9,7 +9,7 @@
 
 Title: Pillar 1 — Futuristic Iridescent Chrome
 
-Format: Commercial Beauty Hero / Product Demo (AX #69)
+Format: Commercial Beauty Hero / Product Demo
 
 Hero Product: "Prism Drops" iridescent liquid highlighter — faceted prism-cut clear-glass bottle, holographic chrome dropper cap, pearlescent rainbow-shifting liquid
 
@@ -17,9 +17,9 @@ Setting: Mirror-prism studio — chrome-mirror panels and hanging cut-glass pris
 
 Wardrobe: sleek liquid-chrome column gown, mirror-finish bodice melting into a fluid floor-length skirt
 
-Footwear: AF #9 — clear lucite prism-heel sandals with a faceted transparent block heel and a mirror-chrome ankle strap
+Footwear: clear lucite prism-heel sandals with a faceted transparent block heel and a mirror-chrome ankle strap
 
-Accessories: AC #9 — faceted prism-drop earrings, a liquid-chrome cuff, and a single holographic mirror-band ring
+Accessories: faceted prism-drop earrings, a liquid-chrome cuff, and a single holographic mirror-band ring
 
 Hair: sleek chrome-glass waves with a holographic sheen, deep side part, lacquered mirror-smooth surface
 
@@ -57,9 +57,9 @@ VISUAL-LEAD NOTE: open on the chrome-mirror hero — a single faceted prism-drop
 
 WARDROBE: sleek liquid-chrome column gown — a mirror-finish bodice with a clean bateau neckline that pools the cool key into liquid silver speculars, melting at the hip into a fluid floor-length skirt that ripples like poured mercury; the chrome surface throws razor-clean reflections of the surrounding rainbow refractions; fabric pristine with zero wrinkles, lint or stray threads.
 
-FOOTWEAR (AF #9): clear lucite prism-heel sandals — a faceted transparent block heel that catches the prism light and fractures it into tiny internal rainbows, a slim mirror-chrome ankle strap throwing a sharp specular line, toe-bed clean and seamless.
+FOOTWEAR: clear lucite prism-heel sandals — a faceted transparent block heel that catches the prism light and fractures it into tiny internal rainbows, a slim mirror-chrome ankle strap throwing a sharp specular line, toe-bed clean and seamless.
 
-ACCESSORIES (AC #9): faceted prism-drop earrings dangling one clean teardrop of cut glass that splits the rim light; a liquid-chrome cuff on the right wrist with a mirror-smooth curve; a single holographic mirror-band ring shifting rainbow as the hand moves.
+ACCESSORIES: faceted prism-drop earrings dangling one clean teardrop of cut glass that splits the rim light; a liquid-chrome cuff on the right wrist with a mirror-smooth curve; a single holographic mirror-band ring shifting rainbow as the hand moves.
 
 HAIR (Chrome-Glass Waves): sleek chrome-glass waves with a deep side part, the surface lacquered to a mirror-smooth holographic sheen so the crown catches the key as a travelling band of iridescent rainbow sheen; soft glass waves falling past the shoulder with zero flyaways and a razor-clean hairline, individual strands still reading as real hair under the gloss.
 
@@ -134,9 +134,9 @@ VISUAL-LEAD NOTE: the hero beat is the oil-slick liquid-foil sheeting over her f
 
 WARDROBE (mid-transform): the liquid-chrome column gown is being overtaken by a downward-pouring sheet of iridescent oil-slick liquid-foil — a mirror-bright film skinned with shifting petrol-rainbow (magenta, cyan, gold, violet) that wraps and swirls around the torso and hip; at the leading edge it is already setting into the new faceted holographic prism gown, a sculptural structured bodice of cut-crystal panels each splitting light into clean internal rainbows, the skirt resolving into faceted prism plates; the surface reads liquid at the swirl and solid-faceted where it has set, with razor-clean edges and zero muddy blending.
 
-FOOTWEAR (AF #9): clear lucite prism-heel sandals unchanged and visible at the hem break, the faceted block heel now catching the brighter transform light and throwing stronger internal rainbows, mirror-chrome ankle strap flashing a sharp specular.
+FOOTWEAR: clear lucite prism-heel sandals unchanged and visible at the hem break, the faceted block heel now catching the brighter transform light and throwing stronger internal rainbows, mirror-chrome ankle strap flashing a sharp specular.
 
-ACCESSORIES (AC #9): faceted prism-drop earrings swinging a few degrees with the swirl motion; the liquid-chrome cuff catching a travelling rainbow band; the holographic mirror-band ring flaring prismatic as the hand lifts into the pour.
+ACCESSORIES: faceted prism-drop earrings swinging a few degrees with the swirl motion; the liquid-chrome cuff catching a travelling rainbow band; the holographic mirror-band ring flaring prismatic as the hand lifts into the pour.
 
 HAIR (Chrome-Glass Waves): chrome-glass waves holding their sleek mirror-smooth set, lifting a few centimetres on the energy of the swirl, the holographic sheen band intensifying as more rainbow light floods the scene; deep side part intact, hairline razor-clean, real strands still legible under the gloss.
 
@@ -210,9 +210,9 @@ VISUAL-LEAD NOTE: the macro product hero — the faceted "Prism Drops" bottle he
 
 WARDROBE: the new faceted holographic prism gown now fully set — a structured cut-crystal bodice of clean angular panels each splitting light into crisp internal rainbows, the surface reading solid faceted glass with razor-clean edges; soft prismatic reflections of the gown bouncing onto the underside of her jaw; fabric pristine, no muddy blending between facets.
 
-FOOTWEAR (AF #9): clear lucite prism-heel sandals out of focus at the lower frame edge, the faceted block heel still throwing soft internal rainbow bokeh.
+FOOTWEAR: clear lucite prism-heel sandals out of focus at the lower frame edge, the faceted block heel still throwing soft internal rainbow bokeh.
 
-ACCESSORIES (AC #9): the holographic mirror-band ring sharp in the macro as it sits beside the bottle, flaring a small prismatic star; prism-drop earring catching a soft rainbow glint at the edge of frame.
+ACCESSORIES: the holographic mirror-band ring sharp in the macro as it sits beside the bottle, flaring a small prismatic star; prism-drop earring catching a soft rainbow glint at the edge of frame.
 
 HAIR (Chrome-Glass Waves): sleek chrome-glass waves softly defocused behind the hero bottle, holographic sheen band reading as a smooth iridescent glow, hairline clean.
 
@@ -285,9 +285,9 @@ VISUAL-LEAD NOTE: the styling-detail beat — a low three-quarter hero that read
 
 WARDROBE: the faceted holographic prism gown in full — the cut-crystal skirt panels falling to the floor in clean angular plates, each splitting the key into crisp internal rainbows, a structured train pooling a foot behind; the bodice panels catching travelling rainbow speculars; surface razor-clean, no muddy facet blending, fabric pristine.
 
-FOOTWEAR (AF #9 — HERO THIS FRAME): clear lucite prism-heel sandals shown crisp at the hem break — a chunky faceted transparent block heel refracting the studio key into a cluster of tiny internal rainbows, a slim mirror-chrome ankle strap throwing one sharp clean specular line, a barely-there lucite toe-strap, the seamless toe-bed reading clean; a soft rainbow caustic cast on the white floor beneath the heel.
+FOOTWEAR (— HERO THIS FRAME): clear lucite prism-heel sandals shown crisp at the hem break — a chunky faceted transparent block heel refracting the studio key into a cluster of tiny internal rainbows, a slim mirror-chrome ankle strap throwing one sharp clean specular line, a barely-there lucite toe-strap, the seamless toe-bed reading clean; a soft rainbow caustic cast on the white floor beneath the heel.
 
-ACCESSORIES (AC #9 — HERO THIS FRAME): the faceted prism-drop earring sharp near the jaw, one clean teardrop of cut glass splitting the rim light into a fan; the liquid-chrome cuff on the right wrist curving a mirror-bright band of reflected rainbow; the holographic mirror-band ring flaring a small prismatic star as the hand rests on the hip.
+ACCESSORIES (— HERO THIS FRAME): the faceted prism-drop earring sharp near the jaw, one clean teardrop of cut glass splitting the rim light into a fan; the liquid-chrome cuff on the right wrist curving a mirror-bright band of reflected rainbow; the holographic mirror-band ring flaring a small prismatic star as the hand rests on the hip.
 
 HAIR (Chrome-Glass Waves): sleek chrome-glass waves swept to one side over the shoulder, mirror-smooth holographic sheen band catching the key, deep side part crisp, hairline clean, real strands legible under the gloss.
 
@@ -360,9 +360,9 @@ VISUAL-LEAD NOTE: the wordless beauty close-up — a tight glowing portrait, gla
 
 WARDROBE: the faceted holographic prism gown reads only at the shoulder line — a clean cut-crystal panel catching a soft rainbow specular, framing the neck; surface pristine, edges razor-clean.
 
-FOOTWEAR (AF #9): out of frame this beat (tight portrait).
+FOOTWEAR: out of frame this beat (tight portrait).
 
-ACCESSORIES (AC #9): the faceted prism-drop earring sharp beside the jaw, splitting the rim light into a delicate rainbow fan that lays a soft coloured glint on the neck.
+ACCESSORIES: the faceted prism-drop earring sharp beside the jaw, splitting the rim light into a delicate rainbow fan that lays a soft coloured glint on the neck.
 
 HAIR (Chrome-Glass Waves): sleek chrome-glass waves framing the face, mirror-smooth holographic sheen band travelling along the crown, deep side part crisp, a few soft waves at the cheek, hairline razor-clean, strands legible under the gloss.
 
@@ -437,9 +437,9 @@ MAGIC NOTE: the hero bottle hovers just above her upturned palm (X.15 rule 16 le
 
 WARDROBE: the faceted holographic prism gown at full power — every cut-crystal panel ignited with travelling rainbow refractions from the burst, the bodice and skirt facets throwing crisp internal spectra, the train catching radial light beams; surface razor-clean, edges sharp, no muddy blending; fabric pristine.
 
-FOOTWEAR (AF #9): clear lucite prism-heel sandals catching the radial burst at the hem, the faceted heels exploding with internal rainbows and casting bright rainbow caustics across the floor.
+FOOTWEAR: clear lucite prism-heel sandals catching the radial burst at the hem, the faceted heels exploding with internal rainbows and casting bright rainbow caustics across the floor.
 
-ACCESSORIES (AC #9): prism-drop earrings blazing full rainbow fans; the liquid-chrome cuff streaked with travelling spectrum bands; the holographic ring firing a bright prismatic star into the burst.
+ACCESSORIES: prism-drop earrings blazing full rainbow fans; the liquid-chrome cuff streaked with travelling spectrum bands; the holographic ring firing a bright prismatic star into the burst.
 
 HAIR (Chrome-Glass Waves): chrome-glass waves lifting on the burst's energy, the holographic sheen band ignited into a travelling rainbow ribbon along the crown, deep side part holding, hairline clean, real strands legible under the blaze of light.
 
@@ -515,9 +515,9 @@ VISUAL-LEAD NOTE: the calm resolve — the supernova collapsing gracefully back 
 
 WARDROBE: the gown resolves back to the sleek liquid-chrome column gown — mirror-finish bodice with the clean bateau neckline pooling cool key into liquid-silver speculars, fluid floor-length skirt rippling like poured mercury, throwing razor-clean reflections of the last drifting refractions; fabric pristine, matching Frame 1 exactly.
 
-FOOTWEAR (AF #9): clear lucite prism-heel sandals settled, the faceted block heel throwing soft internal rainbows, mirror-chrome ankle strap with one clean specular, matching the opening.
+FOOTWEAR: clear lucite prism-heel sandals settled, the faceted block heel throwing soft internal rainbows, mirror-chrome ankle strap with one clean specular, matching the opening.
 
-ACCESSORIES (AC #9): faceted prism-drop earrings at rest splitting a soft rim-light fan; liquid-chrome cuff with a calm mirror band; holographic mirror-band ring with a small prismatic glint — all matching Frame 1.
+ACCESSORIES: faceted prism-drop earrings at rest splitting a soft rim-light fan; liquid-chrome cuff with a calm mirror band; holographic mirror-band ring with a small prismatic glint — all matching Frame 1.
 
 HAIR (Chrome-Glass Waves): sleek chrome-glass waves settled back to the mirror-smooth set, holographic sheen band on the crown, deep side part, razor-clean hairline, matching the opening exactly.
 
@@ -600,7 +600,7 @@ Loop: the final bar of F7 resolves cleanly onto the downbeat of F1 for a perfect
 
 Title: Pillar 2 — Editorial Bold
 
-Format: Commercial Beauty Hero / Product Demo (AX #70)
+Format: Commercial Beauty Hero / Product Demo
 
 Hero Product: "Chroma Pop" colour-shift lip & cheek oil — a sculptural cobalt-blue glass bottle with a marigold enamel cap and a clear oil that blooms to a vivid marigold-coral on contact
 
@@ -608,9 +608,9 @@ Setting: Bold colour-block studio — a hard diagonal of electric cobalt-blue an
 
 Wardrobe: a structured cobalt-blue sculptural column gown with a sharp architectural one-shoulder line (thermochromic: shifts cobalt → marigold)
 
-Footwear: AF #10 — marigold patent platform heels with a clean square toe and a cobalt-blue sole flash
+Footwear: marigold patent platform heels with a clean square toe and a cobalt-blue sole flash
 
-Accessories: AC #10 — oversized cobalt resin hoop earrings, a marigold enamel cuff, and a bold geometric colour-block ring
+Accessories: oversized cobalt resin hoop earrings, a marigold enamel cuff, and a bold geometric colour-block ring
 
 Hair: sleek glass-gloss blunt bob, deep side part, mirror-smooth lacquered finish
 
@@ -648,9 +648,9 @@ VISUAL-LEAD NOTE: open on the bold colour-block hero — Aira centered on the ha
 
 WARDROBE: structured cobalt-blue sculptural column gown — a single sharp architectural shoulder rising in a clean angular sweep, a sculpted bodice in a deep saturated electric cobalt matte-satin that drinks the key into crisp sculptural shadow, the column skirt falling in one clean line to the floor; the surface holds one travelling specular ribbon down the architectural seam; fabric pristine with zero wrinkles, lint or stray threads.
 
-FOOTWEAR (AF #10): marigold patent platform heels just visible at the hem — a high-gloss marigold-yellow patent upper with a clean square toe, a chunky platform sole, and a flash of electric cobalt on the sole edge; one sharp clean specular streak riding the patent shine.
+FOOTWEAR: marigold patent platform heels just visible at the hem — a high-gloss marigold-yellow patent upper with a clean square toe, a chunky platform sole, and a flash of electric cobalt on the sole edge; one sharp clean specular streak riding the patent shine.
 
-ACCESSORIES (AC #10): oversized cobalt resin hoop earrings catching a glossy highlight; a marigold enamel cuff on the right wrist with a smooth lacquered shine; a bold geometric colour-block ring (half cobalt, half marigold) on the left hand.
+ACCESSORIES: oversized cobalt resin hoop earrings catching a glossy highlight; a marigold enamel cuff on the right wrist with a smooth lacquered shine; a bold geometric colour-block ring (half cobalt, half marigold) on the left hand.
 
 HAIR (Glass-Gloss Blunt Bob): a sleek chin-grazing blunt bob with a deep side part, lacquered to a mirror-smooth glass finish so the crown catches the key as a single clean sheen band; razor-clean hairline, zero flyaways, the blunt ends reading sharp and precise, individual strands still legible as real hair under the gloss.
 
@@ -725,9 +725,9 @@ VISUAL-LEAD NOTE: the hero beat is the crisp diagonal colour-shift boundary mid-
 
 WARDROBE (mid-transform): the structured cobalt column gown is being overtaken by a diagonal wave of thermochromic colour-shift — the electric cobalt blooming into vivid marigold-yellow along a clean travelling front, a thin shimmering transition line riding the boundary; behind the wave the silhouette re-sculpts, the single architectural shoulder sharpening and a sculptural peplum forming at the hip; the surface reads matte-satin both sides with one travelling specular ribbon, razor-clean edges, zero muddy blending across the colour front.
 
-FOOTWEAR (AF #10): marigold patent platform heels unchanged at the hem break, now catching the brighter transform light and throwing a stronger mirror streak, the cobalt sole flash flickering as her weight shifts.
+FOOTWEAR: marigold patent platform heels unchanged at the hem break, now catching the brighter transform light and throwing a stronger mirror streak, the cobalt sole flash flickering as her weight shifts.
 
-ACCESSORIES (AC #10): oversized cobalt resin hoop earrings swinging a few degrees with the motion; the marigold enamel cuff catching a travelling highlight; the colour-block ring flaring as the hand lifts into the wave.
+ACCESSORIES: oversized cobalt resin hoop earrings swinging a few degrees with the motion; the marigold enamel cuff catching a travelling highlight; the colour-block ring flaring as the hand lifts into the wave.
 
 HAIR (Glass-Gloss Blunt Bob): the glass bob holding its sleek mirror-smooth set, lifting a couple of centimetres on the energy of the sweep, the sheen band intensifying as warm light floods the scene; deep side part intact, hairline razor-clean, blunt ends sharp, real strands legible under the gloss.
 
@@ -801,9 +801,9 @@ VISUAL-LEAD NOTE: this is the product-hero macro — the cobalt glass bottle dom
 
 WARDROBE: the post-transform marigold-and-cobalt gown reads only as a soft creamy colour-block behind the product — the architectural shoulder a blurred bright shape, the satin sheen legible at the edge of focus, no muddy blending.
 
-FOOTWEAR (AF #10): out of focus at the base of frame — a marigold patent platform heel reading as a warm glossy smear with a cobalt sole-flash glint.
+FOOTWEAR: out of focus at the base of frame — a marigold patent platform heel reading as a warm glossy smear with a cobalt sole-flash glint.
 
-ACCESSORIES (AC #10): the marigold enamel cuff catching one sharp specular near the lifted wrist; cobalt resin hoop softly out of focus; the colour-block ring crisp on the hand holding the bottle.
+ACCESSORIES: the marigold enamel cuff catching one sharp specular near the lifted wrist; cobalt resin hoop softly out of focus; the colour-block ring crisp on the hand holding the bottle.
 
 HAIR (Glass-Gloss Blunt Bob): soft-focus behind the product, the glass sheen reading as a smooth bright band, deep side part just legible.
 
@@ -876,9 +876,9 @@ VISUAL-LEAD NOTE: this is the styling / full-look beat — a low three-quarter a
 
 WARDROBE: the post-transform gown in full — a structured marigold-and-cobalt colour-block column with the sharpened architectural single shoulder and a sculptural peplum at the hip; matte-satin surface holding one clean travelling specular down the seam; razor-clean edges, crisp pressed lines, pristine fabric.
 
-FOOTWEAR (AF #10): the hero footwear moment — marigold patent platform heels with a square toe and a chunky block heel, the patent throwing a crisp mirror streak and a wet light-point across the toe-box, a vivid cobalt sole-flash visible as her weight rolls onto the ball of the foot; clean stitch lines, no scuffs, perfect last.
+FOOTWEAR: the hero footwear moment — marigold patent platform heels with a square toe and a chunky block heel, the patent throwing a crisp mirror streak and a wet light-point across the toe-box, a vivid cobalt sole-flash visible as her weight rolls onto the ball of the foot; clean stitch lines, no scuffs, perfect last.
 
-ACCESSORIES (AC #10): oversized cobalt resin hoop earrings catching the key in a glossy arc; a chunky marigold enamel cuff on the lifted wrist with one sharp specular; a colour-block geometric ring (cobalt + marigold) crisp on the hand; all pieces bold, graphic and pristine.
+ACCESSORIES: oversized cobalt resin hoop earrings catching the key in a glossy arc; a chunky marigold enamel cuff on the lifted wrist with one sharp specular; a colour-block geometric ring (cobalt + marigold) crisp on the hand; all pieces bold, graphic and pristine.
 
 HAIR (Glass-Gloss Blunt Bob): the sleek glass bob holding its mirror set as she angles her head, the sheen band travelling across the crown, deep side part razor-clean, blunt ends sharp, real strands legible under the gloss.
 
@@ -953,9 +953,9 @@ MAGIC DESCRIPTION: Aira lifts the cobalt bottle and a soundless radial colour-pu
 
 WARDROBE: the marigold-and-cobalt colour-block gown lit hard by the passing shockwave rings, the satin flashing brighter as each ring crosses it, the architectural shoulder and peplum rimmed in travelling coloured light; razor-clean edges, pristine, no muddy bleed where rings overlap the fabric.
 
-FOOTWEAR (AF #10): marigold patent platform heels throwing a doubled mirror streak as the rings sweep the gloss floor, cobalt sole-flash flaring on the leading pulse.
+FOOTWEAR: marigold patent platform heels throwing a doubled mirror streak as the rings sweep the gloss floor, cobalt sole-flash flaring on the leading pulse.
 
-ACCESSORIES (AC #10): cobalt resin hoops and marigold enamel cuff catching the shockwave light in bright travelling arcs; the colour-block ring flaring on the raised hand at the pulse origin.
+ACCESSORIES: cobalt resin hoops and marigold enamel cuff catching the shockwave light in bright travelling arcs; the colour-block ring flaring on the raised hand at the pulse origin.
 
 HAIR (Glass-Gloss Blunt Bob): the glass bob lifting on the pulse's energy, the sheen band flashing as each ring passes, deep side part intact, blunt ends sharp, real strands legible.
 
@@ -1031,9 +1031,9 @@ VISUAL-LEAD NOTE: the hero beat is the resolved campaign-hero pose — product a
 
 WARDROBE: the marigold-and-cobalt colour-block gown settled and pristine, the architectural shoulder and peplum at rest, matte-satin holding one clean specular line; razor-clean edges, zero wrinkles, the post-transform colour now the stable opening state for the loop.
 
-FOOTWEAR (AF #10): marigold patent platform heels settled flat, mirror finish with a crisp wet light-point, cobalt sole-flash quiet at rest.
+FOOTWEAR: marigold patent platform heels settled flat, mirror finish with a crisp wet light-point, cobalt sole-flash quiet at rest.
 
-ACCESSORIES (AC #10): cobalt resin hoops hanging still, marigold enamel cuff catching one calm specular, the colour-block ring crisp on the cradling hand.
+ACCESSORIES: cobalt resin hoops hanging still, marigold enamel cuff catching one calm specular, the colour-block ring crisp on the cradling hand.
 
 HAIR (Glass-Gloss Blunt Bob): the glass bob resolved to its mirror-smooth set exactly as Frame 1, deep side part razor-clean, blunt ends sharp, one soft sheen band on the crown, real strands legible.
 

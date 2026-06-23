@@ -8,7 +8,7 @@ Fully-detailed silent reel concepts (no voice — top-notch sound design only). 
 
 Title: Pillar 5 — Verdant Botanical Luxe
 
-Format: Transformation Reveal / Botanical Beauty Hero (AX #7)
+Format: Transformation Reveal / Botanical Beauty Hero
 
 Hero Product: "Flora" dew botanical face-oil — frosted emerald-glass bottle, gold leaf-embossed collar, luminous green-gold oil
 
@@ -16,9 +16,9 @@ Setting: Grand Victorian glass conservatory at golden-green morning light — to
 
 Wardrobe: moss-green silk-velvet column gown → living-vine topiary couture gown
 
-Footwear: AF #1 — barely-there gold-leaf strappy heels, fine vine-wrapped ankle
+Footwear: barely-there gold-leaf strappy heels, fine vine-wrapped ankle
 
-Accessories: AC #1 — a single gold-leaf ear-climber + a fine emerald-drop pendant
+Accessories: a single gold-leaf ear-climber + a fine emerald-drop pendant
 
 Hair: Soft Botanical Updo with loose tendrils
 
@@ -58,9 +58,9 @@ VISUAL-LEAD NOTE (silent reel): the opening sells place and poise on image alone
 
 WARDROBE: (start state) — a moss-green silk-velvet column gown, fully modest high neckline and long sleeve, the velvet pile catching the green-gold daylight as soft directional sheen bands; a clean princess seam, the hem pooling with real weight on mossy stone; fabric pristine, zero lint or stray threads.
 
-FOOTWEAR (AF #1): barely-there gold-leaf strappy heels, a slim 7cm heel, fine leaf-shaped gold straps crossing the foot, one delicate strand vine-wrapping the ankle; soft specular on the metallic leaf, real leather grain, matched to the gown, no mismatched footwear.
+FOOTWEAR: barely-there gold-leaf strappy heels, a slim 7cm heel, fine leaf-shaped gold straps crossing the foot, one delicate strand vine-wrapping the ankle; soft specular on the metallic leaf, real leather grain, matched to the gown, no mismatched footwear.
 
-ACCESSORIES (AC #1): a single slim gold-leaf ear-climber tracing the right ear, and a fine emerald-drop pendant resting at the hollow of the throat; both catching one clean pin-specular, understated and elegant, nothing competing with the hero product.
+ACCESSORIES: a single slim gold-leaf ear-climber tracing the right ear, and a fine emerald-drop pendant resting at the hollow of the throat; both catching one clean pin-specular, understated and elegant, nothing competing with the hero product.
 
 HAIR (Soft Botanical Updo): a soft low botanical updo with a gentle centre part, a few loose face-framing tendrils easing at the temple and nape, a natural soft sheen rather than a hard gloss; real strands with visible flyaway softness, hair colour locked to the reference.
 
@@ -134,9 +134,9 @@ VISUAL-LEAD NOTE (silent reel): this is the showpiece transform — sell it on p
 
 WARDROBE: (transforming) — the moss-velvet column is overtaken in a rising wave by living vines that weave a structured leaf-bodice and a full tiered skirt of overlapping glossy emerald leaves, threaded with swelling buds of vivid fuchsia, marigold, coral and electric-blue; fully modest high neckline preserved throughout; real botanical weight and drape, no floating leaves.
 
-FOOTWEAR (AF #1 transforming): the gold-leaf strappy heels stay, fine new tendrils spiralling up the ankle and lacing into living-vine anklets, tiny leaf-buds opening along the straps; real contact with the mossy stone, no mismatched footwear.
+FOOTWEAR (transforming): the gold-leaf strappy heels stay, fine new tendrils spiralling up the ankle and lacing into living-vine anklets, tiny leaf-buds opening along the straps; real contact with the mossy stone, no mismatched footwear.
 
-ACCESSORIES (AC #1 transforming): the gold-leaf ear-climber sprouts a single living tendril curling along the ear, and the emerald-drop pendant is haloed by a tiny ring of opening leaflets; understated, catching crisp speculars, never competing with the bloom.
+ACCESSORIES (transforming): the gold-leaf ear-climber sprouts a single living tendril curling along the ear, and the emerald-drop pendant is haloed by a tiny ring of opening leaflets; understated, catching crisp speculars, never competing with the bloom.
 
 HAIR (transforming): the soft botanical updo gains fine living tendrils threading through, a few jewel-bright buds nesting at the crown; loose face-framing pieces lifting in the growth-draught; real strands, hair colour locked to the reference.
 
@@ -209,9 +209,9 @@ VISUAL-LEAD NOTE (silent reel): the product beauty beat — the emerald oil meet
 
 WARDROBE: (resolved) — the living-vine topiary couture gown settled: a structured emerald leaf-bodice and tiered leaf-skirt threaded with vivid pop-colour buds, fully modest neckline, real botanical weight and a soft sway.
 
-FOOTWEAR (AF #1): the gold-leaf strappy heels with living-vine anklets, tiny leaf-buds open along the straps, soft specular on the gold; real contact, matched to the gown.
+FOOTWEAR: the gold-leaf strappy heels with living-vine anklets, tiny leaf-buds open along the straps, soft specular on the gold; real contact, matched to the gown.
 
-ACCESSORIES (AC #1): the gold-leaf ear-climber with its curled tendril, the emerald-drop pendant haloed by tiny leaflets; one clean pin-specular each, understated next to the hero glass.
+ACCESSORIES: the gold-leaf ear-climber with its curled tendril, the emerald-drop pendant haloed by tiny leaflets; one clean pin-specular each, understated next to the hero glass.
 
 HAIR : the botanical updo with threaded tendrils and a couple of jewel-bright buds at the crown, a few soft face-framing pieces; real strands, hair colour locked to the reference.
 
@@ -283,9 +283,9 @@ VISUAL-LEAD NOTE (silent reel): the confident hero look — direct-to-lens, lumi
 
 WARDROBE: (resolved) — the living-vine topiary couture gown, structured emerald leaf-bodice and tiered leaf-skirt threaded with vivid fuchsia, marigold, coral and electric-blue buds, fully modest high neckline and long line, catching the green-gold light; form with real botanical weight.
 
-FOOTWEAR (AF #1): the gold-leaf strappy heels with living-vine anklets, leaf-buds open along the straps, soft gold specular; real contact, matched to the gown.
+FOOTWEAR: the gold-leaf strappy heels with living-vine anklets, leaf-buds open along the straps, soft gold specular; real contact, matched to the gown.
 
-ACCESSORIES (AC #1): the gold-leaf ear-climber with curled tendril, emerald-drop pendant haloed by tiny leaflets; one clean pin-specular each, understated.
+ACCESSORIES: the gold-leaf ear-climber with curled tendril, emerald-drop pendant haloed by tiny leaflets; one clean pin-specular each, understated.
 
 HAIR : the soft botanical updo with threaded tendrils and jewel-bright buds at the crown, loose face-framing pieces soft; real strands, hair colour locked to the reference.
 
@@ -359,9 +359,9 @@ MAGIC EFFECT — BLOSSOM-BLOOM BURST (the single impossible move): the hundreds 
 
 WARDROBE: (in full bloom) — the leaf-couture gown now blazing with open vivid pop-colour flowers across bodice and tiered skirt, petals trembling, fully modest neckline and long line; real botanical weight with a soft living sway.
 
-FOOTWEAR (AF #1): the gold-leaf heels with living-vine anklets now flowering with tiny open buds, petals settling at the foot; real contact, matched to the gown.
+FOOTWEAR: the gold-leaf heels with living-vine anklets now flowering with tiny open buds, petals settling at the foot; real contact, matched to the gown.
 
-ACCESSORIES (AC #1): the gold-leaf ear-climber's tendril flowering a single tiny bloom, the emerald-drop pendant haloed by open leaflets; crisp speculars, understated amid the burst.
+ACCESSORIES: the gold-leaf ear-climber's tendril flowering a single tiny bloom, the emerald-drop pendant haloed by open leaflets; crisp speculars, understated amid the burst.
 
 HAIR : the botanical updo crowned with newly open jewel-bright blooms, fine tendrils and petals lifting in the burst-draught; real strands, hair colour locked to the reference.
 
@@ -436,9 +436,9 @@ VISUAL-LEAD NOTE (silent reel): the resolve lands on image — the vivid spectac
 
 WARDROBE: (resolved, settled) — the living-vine topiary couture gown back to a calm green-gold sheen, the open blooms easing to soft buds again for the loop, fully modest neckline and long line; real botanical weight, matching the opening drape.
 
-FOOTWEAR (AF #1): the gold-leaf strappy heels with living-vine anklets, buds easing closed along the straps, soft specular; real contact, matched to the opening.
+FOOTWEAR: the gold-leaf strappy heels with living-vine anklets, buds easing closed along the straps, soft specular; real contact, matched to the opening.
 
-ACCESSORIES (AC #1): the gold-leaf ear-climber and emerald-drop pendant returned to their opening rest, one clean pin-specular each, understated.
+ACCESSORIES: the gold-leaf ear-climber and emerald-drop pendant returned to their opening rest, one clean pin-specular each, understated.
 
 HAIR : the soft botanical updo resolved smooth, the loose face-framing tendril back to its opening rest position for the loop; real strands, hair colour locked to the reference.
 
@@ -522,7 +522,7 @@ Loop: the final phrase lands soft and open on F6 so the track restarts cleanly i
 
 Title: Pillar 7 — Pop Graphic Maximalism
 
-Format: Commercial Beauty Hero / Graphic Product Performance (AX #2)
+Format: Commercial Beauty Hero / Graphic Product Performance
 
 Hero Product: "Prism Pop" multi-use cheek-and-lip tint — glossy clear-acrylic puck compact, candy-bright coral-to-magenta gel, chrome twist-lid
 
@@ -1021,7 +1021,7 @@ Loop: the final phrase lands tight and open on F6 so the track restarts cleanly 
 
 Title: Pillar 9 — Tropical Neon Maximalism
 
-Format: Commercial Beauty Hero / Fragrance Performance (AX #3)
+Format: Commercial Beauty Hero / Fragrance Performance
 
 Hero Product: "Bloom Mist" hair-and-body fragrance — neon-clear faceted bottle, electric-green pump collar, luminous chartreuse-to-pink juice
 
@@ -1520,7 +1520,7 @@ Loop: the final phrase lands soft and open on F6 so the track restarts cleanly i
 
 Title: Pillar 4 — Dreamy Pastel Maximalism
 
-Format: Commercial Beauty Hero / Product Performance (AX #1)
+Format: Commercial Beauty Hero / Product Performance
 
 Hero Product: "Sorbet Glow" pastel highlighter palette — clear-acrylic compact with a swirled rainbow-pastel pressed-powder dome, rose-chrome rim
 
@@ -1528,9 +1528,9 @@ Setting: Pastel chalk-art studio — a giant sugar-paper backdrop covered in viv
 
 Wardrobe: a structured pastel-ombré bodice over a full tiered tulle skirt graduating mint-to-lilac-to-peach, crisp graphic seams
 
-Footwear: AF #4 — pastel-lilac patent slingback pumps with a clear lucite heel, soft pearl buckle, clean unscuffed soles
+Footwear: pastel-lilac patent slingback pumps with a clear lucite heel, soft pearl buckle, clean unscuffed soles
 
-Accessories: AC #4 — oversized pastel-swirl resin hoop earrings, a chunky mint resin cuff, a single peach acrylic ring
+Accessories: oversized pastel-swirl resin hoop earrings, a chunky mint resin cuff, a single peach acrylic ring
 
 Hair : sleek high-shine pastel-dipped low chignon with a glossy finish and a soft lilac-to-peach ombré on the loose face-framing pieces, zero flyaways
 
@@ -1570,9 +1570,9 @@ VISUAL-LEAD NOTE: reveal-first hero establishing beat (BD.1) — the rainbow-pas
 
 WARDROBE: the pastel-ombré bodice sits crisp with structured princess seams in a smooth mint-to-lilac graduation, meeting a full tiered tulle skirt that floats peach-to-lilac; matte-satin bodice panels hold clean graphic edges with zero wrinkles, lint or stray threads, each pastel reading pure and saturated under the key.
 
-FOOTWEAR (AF #4): pastel-lilac patent slingback pumps with a clear lucite heel and a soft pearl buckle, the patent throwing one clean specular ribbon, soles unscuffed.
+FOOTWEAR: pastel-lilac patent slingback pumps with a clear lucite heel and a soft pearl buckle, the patent throwing one clean specular ribbon, soles unscuffed.
 
-ACCESSORIES (AC #4): oversized pastel-swirl resin hoop earrings catching a bright edge-light, a chunky mint resin cuff on the left wrist, a single peach acrylic ring on the right hand.
+ACCESSORIES: oversized pastel-swirl resin hoop earrings catching a bright edge-light, a chunky mint resin cuff on the left wrist, a single peach acrylic ring on the right hand.
 
 HAIR (Pastel-Dipped Chignon): a sleek low chignon lacquered to a glassy finish with a crisp hairline and zero flyaways, a soft lilac-to-peach ombré washing the loose face-framing pieces; one bright sheen band rides the crown, individual strands still reading as real hair under the gloss.
 
@@ -1645,9 +1645,9 @@ VISUAL-LEAD NOTE: the cause-then-effect transform reads purely visually — vivi
 
 WARDROBE (mid-transform): the pastel-ombré gown is 60% formed — sweeping clouds of mint, lilac, peach and sky-blue chalk-dust rush in from frame edges and smudge-settle into the bodice and tiered tulle along the seam lines, edges crisping from soft smudge to clean graphic line, a few dust-veils still mid-air finding their place; surfaces resolving clean and saturated, no chalky-grey muddiness.
 
-FOOTWEAR (AF #4): the pastel-lilac patent slingbacks fully formed and glossy, last chalk-veils settling around the clear heel.
+FOOTWEAR: the pastel-lilac patent slingbacks fully formed and glossy, last chalk-veils settling around the clear heel.
 
-ACCESSORIES (AC #4): pastel-swirl hoops and mint cuff fully materialised, a faint chalk-shimmer still dissolving around them.
+ACCESSORIES: pastel-swirl hoops and mint cuff fully materialised, a faint chalk-shimmer still dissolving around them.
 
 HAIR : pastel-dipped chignon fully locked and unchanged through the transform, hairline crisp, one sheen band riding the crown.
 
@@ -1719,9 +1719,9 @@ VISUAL-LEAD NOTE: hero-product macro showcase — the clear pastel palette carri
 
 WARDROBE: the pastel-ombré gown fully formed and crisp — mint-to-lilac bodice, peach-to-lilac tiered tulle, clean graphic seams, matte-satin pristine and saturated.
 
-FOOTWEAR (AF #4): pastel-lilac patent slingbacks just visible at lower frame edge, one clean specular ribbon on the patent.
+FOOTWEAR: pastel-lilac patent slingbacks just visible at lower frame edge, one clean specular ribbon on the patent.
 
-ACCESSORIES (AC #4): pastel-swirl resin hoops catching edge-light at the jaw, mint resin cuff prominent as the hand presents the palette, peach ring glinting.
+ACCESSORIES: pastel-swirl resin hoops catching edge-light at the jaw, mint resin cuff prominent as the hand presents the palette, peach ring glinting.
 
 HAIR : pastel-dipped chignon crisp and locked, hairline sharp, sheen band steady across the crown.
 
@@ -1790,9 +1790,9 @@ VISUAL-LEAD NOTE: wordless beauty beat — a pure expression-and-light moment ca
 
 WARDROBE: pastel-ombré bodice and tiered tulle crisp and saturated, catching clean key, graphic seams steady; pristine.
 
-FOOTWEAR (AF #4): pastel-lilac patent slingbacks out of frame in this tighter beauty crop.
+FOOTWEAR: pastel-lilac patent slingbacks out of frame in this tighter beauty crop.
 
-ACCESSORIES (AC #4): pastel-swirl hoops framing the jaw with a bright edge-catch, peach ring glinting as a hand rises near the cheek.
+ACCESSORIES: pastel-swirl hoops framing the jaw with a bright edge-catch, peach ring glinting as a hand rises near the cheek.
 
 HAIR : pastel-dipped chignon immaculate, hairline crisp, one travelling sheen band across the crown, soft ombré tendrils at the temple.
 
@@ -1863,9 +1863,9 @@ VISUAL-LEAD NOTE: the magical crest reads instantly in silence — a chalk-paste
 
 WARDROBE: the pastel-ombré gown at full glory, the tiered tulle skirt flaring softly in the bloom-draft, mint-to-lilac-to-peach reading pure and luminous, graphic seams crisp, surfaces catching the rainbow-bloom light.
 
-FOOTWEAR (AF #4): pastel-lilac patent slingbacks catching a rainbow specular sweep along the patent and lucite heel.
+FOOTWEAR: pastel-lilac patent slingbacks catching a rainbow specular sweep along the patent and lucite heel.
 
-ACCESSORIES (AC #4): pastel-swirl resin hoops and mint cuff glinting with rainbow light, peach ring throwing a tiny prism point.
+ACCESSORIES: pastel-swirl resin hoops and mint cuff glinting with rainbow light, peach ring throwing a tiny prism point.
 
 HAIR : pastel-dipped chignon fully locked and crisp through the burst, the sheen band now lit by the rainbow-bloom, soft tendrils lifting in the draft.
 
@@ -1939,9 +1939,9 @@ VISUAL-LEAD NOTE: a calm resolved hero close, the palette presented once more, e
 
 WARDROBE: the pastel-ombré bodice and tiered tulle settled crisp and pristine again, matte-satin holding clean key, graphic seams steady, saturated and luminous.
 
-FOOTWEAR (AF #4): pastel-lilac patent slingbacks settled, one clean specular ribbon on the patent, soles unscuffed.
+FOOTWEAR: pastel-lilac patent slingbacks settled, one clean specular ribbon on the patent, soles unscuffed.
 
-ACCESSORIES (AC #4): pastel-swirl hoops at rest catching a soft edge-light, mint cuff and peach ring glinting calmly.
+ACCESSORIES: pastel-swirl hoops at rest catching a soft edge-light, mint cuff and peach ring glinting calmly.
 
 HAIR : pastel-dipped chignon immaculate and resolved, hairline crisp, the single sheen band riding the crown, one settling tendril at the temple.
 
@@ -2024,7 +2024,7 @@ Loop: the closing music-box phrase resolves gently on F6 and leaves an open, unr
 
 Title: Pillar 8 — Hyper-Glam Pop
 
-Format: Commercial Beauty Hero / Product Performance (AX #1)
+Format: Commercial Beauty Hero / Product Performance
 
 Hero Product: "Citrus Flash" vitamin-C glow drops — faceted citrine-glass dropper bottle, electric-orange cap, glowing amber-gold liquid
 
@@ -2032,9 +2032,9 @@ Setting: Electric citrus-pop studio — suspended glossy citrus slices (orange, 
 
 Wardrobe: a liquid-sequin mini-gown with structured shoulders and a sharp hem, the sequins colour-flipping electric-orange to magenta to lime as light moves
 
-Footwear: AF #5 — electric-orange patent platform heels with a clear PVC counter, pristine unscuffed soles
+Footwear: electric-orange patent platform heels with a clear PVC counter, pristine unscuffed soles
 
-Accessories: AC #5 — oversized lime-green resin hoop earrings, a stack of citrus-toned bangles on the left wrist, a faceted citrine cocktail ring
+Accessories: oversized lime-green resin hoop earrings, a stack of citrus-toned bangles on the left wrist, a faceted citrine cocktail ring
 
 Hair : a sleek high-shine deep-side-part bob with a wet-look finish and an electric-orange tip-flash on the longer side, razor-clean hairline, zero flyaways
 
@@ -2074,9 +2074,9 @@ VISUAL-LEAD NOTE: reveal-first hero establishing beat (BD.1) — the citrine bot
 
 WARDROBE: the liquid-sequin mini-gown sits sharp with structured shoulders and a clean hem, sequins reading as thousands of tiny mirror-discs flipping electric-orange, magenta and lime across the surface; each disc throws a crisp pin-point specular, the gown saturated and luminous with zero dull or muddy patches.
 
-FOOTWEAR (AF #5): electric-orange patent platform heels with a clear PVC counter, the patent throwing one clean specular ribbon, soles unscuffed.
+FOOTWEAR: electric-orange patent platform heels with a clear PVC counter, the patent throwing one clean specular ribbon, soles unscuffed.
 
-ACCESSORIES (AC #5): oversized lime-green resin hoops catching a bright edge-light, a stack of citrus-toned bangles glinting on the left wrist, a faceted citrine cocktail ring throwing a tiny prism point.
+ACCESSORIES: oversized lime-green resin hoops catching a bright edge-light, a stack of citrus-toned bangles glinting on the left wrist, a faceted citrine cocktail ring throwing a tiny prism point.
 
 HAIR (Side-Part Glass Bob): a sleek deep-side-part bob lacquered to a wet-look glass finish with a razor-clean hairline and zero flyaways, an electric-orange tip-flash lighting the longer side; one bright sheen band rides the crown, individual strands still reading as real hair under the gloss.
 
@@ -2149,9 +2149,9 @@ VISUAL-LEAD NOTE: the cause-then-effect transform reads purely visually — a ca
 
 WARDROBE (mid-transform): the sequin gown is 60% formed — cascading streams of electric-orange, magenta and lime sequins pour in from the frame edges and flip-lock onto the bodice and skirt along the seam lines, structured shoulders crisping first, a few sequin-streams still mid-air finding their place; each disc snaps to a clean mirror-flip, surfaces saturated and luminous, no dull or muddy patches.
 
-FOOTWEAR (AF #5): the electric-orange platform heels fully formed and glossy, last sequins flip-settling around the clear PVC counter.
+FOOTWEAR: the electric-orange platform heels fully formed and glossy, last sequins flip-settling around the clear PVC counter.
 
-ACCESSORIES (AC #5): lime hoops and citrus bangles fully materialised, a faint sequin-shimmer still dissolving around them.
+ACCESSORIES: lime hoops and citrus bangles fully materialised, a faint sequin-shimmer still dissolving around them.
 
 HAIR : side-part glass bob fully locked and unchanged through the transform, hairline crisp, orange tip-flash steady.
 
@@ -2223,9 +2223,9 @@ VISUAL-LEAD NOTE: hero-product macro showcase — the citrine dropper bottle car
 
 WARDROBE: the sequin mini-gown fully formed and crisp — structured shoulders, sharp hem, sequins colour-flipping electric-orange to magenta to lime, surfaces saturated and luminous.
 
-FOOTWEAR (AF #5): electric-orange platform heels just visible at lower frame edge, one clean specular ribbon on the patent.
+FOOTWEAR: electric-orange platform heels just visible at lower frame edge, one clean specular ribbon on the patent.
 
-ACCESSORIES (AC #5): lime resin hoops catching edge-light at the jaw, citrus bangle stack prominent as the hand presents the bottle, citrine ring glinting.
+ACCESSORIES: lime resin hoops catching edge-light at the jaw, citrus bangle stack prominent as the hand presents the bottle, citrine ring glinting.
 
 HAIR : side-part glass bob crisp and locked, hairline sharp, orange tip-flash steady, sheen band across the crown.
 
@@ -2294,9 +2294,9 @@ VISUAL-LEAD NOTE: wordless beauty beat — a pure expression-and-light moment ca
 
 WARDROBE: the sequin gown crisp and saturated, catching clean key, structured shoulders steady, colour-flip discs alive with light; pristine.
 
-FOOTWEAR (AF #5): electric-orange platform heels out of frame in this tighter beauty crop.
+FOOTWEAR: electric-orange platform heels out of frame in this tighter beauty crop.
 
-ACCESSORIES (AC #5): lime resin hoops framing the jaw with a bright edge-catch, citrine ring glinting as a hand rises near the cheek.
+ACCESSORIES: lime resin hoops framing the jaw with a bright edge-catch, citrine ring glinting as a hand rises near the cheek.
 
 HAIR : side-part glass bob immaculate, hairline crisp, one travelling sheen band across the crown, orange tip-flash catching light.
 
@@ -2367,9 +2367,9 @@ VISUAL-LEAD NOTE: the magical crest reads instantly in silence — a sequin-supe
 
 WARDROBE: the sequin mini-gown at full glory, the hem flaring in the burst-draft, electric-orange-magenta-lime discs flashing at peak brilliance, structured shoulders crisp, surfaces catching the supernova light.
 
-FOOTWEAR (AF #5): electric-orange platform heels catching a citrus specular sweep along the patent and clear PVC counter.
+FOOTWEAR: electric-orange platform heels catching a citrus specular sweep along the patent and clear PVC counter.
 
-ACCESSORIES (AC #5): lime resin hoops and citrus bangles glinting with starburst light, citrine ring throwing a tiny prism point.
+ACCESSORIES: lime resin hoops and citrus bangles glinting with starburst light, citrine ring throwing a tiny prism point.
 
 HAIR : side-part glass bob fully locked and crisp through the burst, the sheen band now lit by the supernova, orange tip-flash blazing, strands lifting in the draft.
 
@@ -2443,9 +2443,9 @@ VISUAL-LEAD NOTE: a calm resolved hero close, the bottle presented once more, en
 
 WARDROBE: the sequin mini-gown settled crisp and pristine again, structured shoulders holding clean key, colour-flip discs calm and saturated, luminous.
 
-FOOTWEAR (AF #5): electric-orange platform heels settled, one clean specular ribbon on the patent, soles unscuffed.
+FOOTWEAR: electric-orange platform heels settled, one clean specular ribbon on the patent, soles unscuffed.
 
-ACCESSORIES (AC #5): lime hoops at rest catching a soft edge-light, citrus bangles and citrine ring glinting calmly.
+ACCESSORIES: lime hoops at rest catching a soft edge-light, citrus bangles and citrine ring glinting calmly.
 
 HAIR : side-part glass bob immaculate and resolved, hairline crisp, the single sheen band riding the crown, orange tip-flash settled.
 
@@ -2528,7 +2528,7 @@ Loop: the closing arpeggio lands clean on the downbeat of F6 and leaves a bright
 
 Title: Pillar 6 — High-Gloss Futurism
 
-Format: Commercial Beauty Hero / Product Performance (AX #1)
+Format: Commercial Beauty Hero / Product Performance
 
 Hero Product: "Vinyl Shine" liquid lip lacquer — a sleek chrome-capped glass vial of mirror-gloss lacquer, electric-violet liquid
 
@@ -2536,9 +2536,9 @@ Setting: Ultraviolet gloss studio — glossy enamel paint-drip walls in electric
 
 Wardrobe: a high-gloss liquid-vinyl gown that reads wet-painted, an electric-blue-to-ultraviolet ombré with a sculptural peplum and a sharp hem
 
-Footwear: AF #6 — ultraviolet patent knee boots in mirror-gloss with a sculpted heel, pristine unscuffed soles
+Footwear: ultraviolet patent knee boots in mirror-gloss with a sculpted heel, pristine unscuffed soles
 
-Accessories: AC #6 — a chrome-and-fuchsia statement cuff, mirror-disc drop earrings, an electric-blue resin ring
+Accessories: a chrome-and-fuchsia statement cuff, mirror-disc drop earrings, an electric-blue resin ring
 
 Hair : a sleek wet-look sculpted finger-wave with an ultraviolet glaze riding the surface, razor-clean hairline, zero flyaways
 
@@ -2578,9 +2578,9 @@ VISUAL-LEAD NOTE: reveal-first hero establishing beat (BD.1) — the chrome-capp
 
 WARDROBE: the liquid-vinyl gown sits sharp with a sculptural peplum and a clean hem, the surface reading genuinely wet-painted with long mirror-bright highlight ribbons gliding over an electric-blue-to-ultraviolet ombré; the vinyl holds crisp sculptural edges with zero wrinkles, dull patches or stray threads, each jewel tone reading pure and saturated under the key.
 
-FOOTWEAR (AF #6): ultraviolet patent knee boots in mirror-gloss with a sculpted heel, the patent throwing one clean specular ribbon down the shin, soles unscuffed.
+FOOTWEAR: ultraviolet patent knee boots in mirror-gloss with a sculpted heel, the patent throwing one clean specular ribbon down the shin, soles unscuffed.
 
-ACCESSORIES (AC #6): a chrome-and-fuchsia statement cuff throwing a bright mirror flash, mirror-disc drop earrings catching an edge-light, an electric-blue resin ring glinting.
+ACCESSORIES: a chrome-and-fuchsia statement cuff throwing a bright mirror flash, mirror-disc drop earrings catching an edge-light, an electric-blue resin ring glinting.
 
 HAIR (Wet-Look Finger-Wave): a sleek sculpted finger-wave lacquered to a wet-look glass finish with a razor-clean hairline and zero flyaways, an ultraviolet glaze riding the surface ridges; one bright sheen band rides the crown, individual strands still reading as real hair under the gloss.
 
@@ -2653,9 +2653,9 @@ VISUAL-LEAD NOTE: the cause-then-effect transform reads purely visually — ribb
 
 WARDROBE (mid-transform): the vinyl gown is 60% formed — thick glossy ribbons of electric-blue, ultraviolet and fuchsia enamel pour down from above and sheet around the bodice and peplum, the leading edges gloss-setting into sculptural form along the seam lines, a few enamel-sheets still flowing mid-pour finding their shape; surfaces snapping to a true wet-lacquer sheen, saturated and luminous, no dull or muddy patches.
 
-FOOTWEAR (AF #6): the ultraviolet patent knee boots fully formed and mirror-glossy, last enamel-ribbons gloss-setting around the sculpted heel.
+FOOTWEAR: the ultraviolet patent knee boots fully formed and mirror-glossy, last enamel-ribbons gloss-setting around the sculpted heel.
 
-ACCESSORIES (AC #6): chrome cuff and mirror-disc earrings fully materialised, a faint enamel-gloss shimmer still dissolving around them.
+ACCESSORIES: chrome cuff and mirror-disc earrings fully materialised, a faint enamel-gloss shimmer still dissolving around them.
 
 HAIR : wet-look finger-wave fully locked and unchanged through the transform, hairline crisp, ultraviolet glaze steady.
 
@@ -2727,9 +2727,9 @@ VISUAL-LEAD NOTE: hero-product macro showcase — the chrome-capped violet vial 
 
 WARDROBE: the liquid-vinyl gown fully formed and crisp — sculptural peplum, sharp hem, electric-blue-to-ultraviolet ombré with long wet-gloss highlight ribbons, surfaces saturated and luminous.
 
-FOOTWEAR (AF #6): ultraviolet patent knee boots just visible at lower frame edge, one clean specular ribbon down the shin.
+FOOTWEAR: ultraviolet patent knee boots just visible at lower frame edge, one clean specular ribbon down the shin.
 
-ACCESSORIES (AC #6): chrome-and-fuchsia cuff catching a mirror flash as the hand presents the vial, mirror-disc earrings glinting at the jaw, electric-blue resin ring glinting.
+ACCESSORIES: chrome-and-fuchsia cuff catching a mirror flash as the hand presents the vial, mirror-disc earrings glinting at the jaw, electric-blue resin ring glinting.
 
 HAIR : wet-look finger-wave crisp and locked, hairline sharp, ultraviolet glaze steady, sheen band across the crown.
 
@@ -2798,9 +2798,9 @@ VISUAL-LEAD NOTE: wordless beauty beat — a pure expression-and-light moment ca
 
 WARDROBE: the vinyl gown crisp and saturated, catching clean key, sculptural peplum steady, wet-gloss ribbons alive with light; pristine.
 
-FOOTWEAR (AF #6): ultraviolet patent knee boots out of frame in this tighter beauty crop.
+FOOTWEAR: ultraviolet patent knee boots out of frame in this tighter beauty crop.
 
-ACCESSORIES (AC #6): mirror-disc drop earrings framing the jaw with a bright edge-catch, electric-blue resin ring glinting as a hand rises near the cheek.
+ACCESSORIES: mirror-disc drop earrings framing the jaw with a bright edge-catch, electric-blue resin ring glinting as a hand rises near the cheek.
 
 HAIR : wet-look finger-wave immaculate, hairline crisp, one travelling sheen band across the crown, ultraviolet glaze catching light.
 
@@ -2871,9 +2871,9 @@ VISUAL-LEAD NOTE: the magical crest reads instantly in silence — a mirror-glos
 
 WARDROBE: the vinyl gown at full glory, the peplum flaring in the burst-draft, electric-blue-ultraviolet-fuchsia surfaces flashing mirror-bright at peak, sculptural seams crisp, catching the splash-crown light.
 
-FOOTWEAR (AF #6): ultraviolet patent knee boots catching a jewel specular sweep down the shin and sculpted heel.
+FOOTWEAR: ultraviolet patent knee boots catching a jewel specular sweep down the shin and sculpted heel.
 
-ACCESSORIES (AC #6): chrome cuff and mirror-disc earrings flashing with splash light, electric-blue resin ring throwing a tiny prism point.
+ACCESSORIES: chrome cuff and mirror-disc earrings flashing with splash light, electric-blue resin ring throwing a tiny prism point.
 
 HAIR : wet-look finger-wave fully locked and crisp through the burst, the sheen band now lit by the splash-crown, ultraviolet glaze blazing, surface ridges catching the burst light.
 
@@ -2947,9 +2947,9 @@ VISUAL-LEAD NOTE: a calm resolved hero close, the vial presented once more, engi
 
 WARDROBE: the vinyl gown settled crisp and pristine again, sculptural peplum holding clean key, wet-gloss ribbons calm and saturated, luminous.
 
-FOOTWEAR (AF #6): ultraviolet patent knee boots settled, one clean specular ribbon down the shin, soles unscuffed.
+FOOTWEAR: ultraviolet patent knee boots settled, one clean specular ribbon down the shin, soles unscuffed.
 
-ACCESSORIES (AC #6): mirror-disc earrings at rest catching a soft edge-light, chrome cuff and electric-blue ring glinting calmly.
+ACCESSORIES: mirror-disc earrings at rest catching a soft edge-light, chrome cuff and electric-blue ring glinting calmly.
 
 HAIR : wet-look finger-wave immaculate and resolved, hairline crisp, the single sheen band riding the crown, ultraviolet glaze settled.
 
@@ -3032,7 +3032,7 @@ Loop: the closing sub-bass note decays smooth on F6 and leaves a cool open rever
 
 Title: Pillar 3 — Tactile Craft Maximalism
 
-Format: Commercial Beauty Hero / Product Performance (AX #1)
+Format: Commercial Beauty Hero / Product Performance
 
 Hero Product: "Petal Veil" silk setting powder — a round blush-coral compact with an embossed petal lid and a soft-focus pressed-powder dome
 
@@ -3040,9 +3040,9 @@ Setting: Paper-bloom garden studio — a backdrop of giant hand-cut kirigami pap
 
 Wardrobe: a sculptural lace-cut paper gown of intricate kirigami petal layers in a coral-to-fuchsia graduation, a structured bodice and a voluminous petal skirt
 
-Footwear: AF #7 — marigold-yellow satin pumps with a paper-petal ankle detail, pristine clean soles
+Footwear: marigold-yellow satin pumps with a paper-petal ankle detail, pristine clean soles
 
-Accessories: AC #7 — oversized turquoise paper-flower earrings, a coral lacquer cuff, a fuchsia statement ring
+Accessories: oversized turquoise paper-flower earrings, a coral lacquer cuff, a fuchsia statement ring
 
 Hair : a sculpted glossy updo wrapped with a single kirigami paper-petal accent, razor-clean hairline, zero flyaways
 
@@ -3082,9 +3082,9 @@ VISUAL-LEAD NOTE: reveal-first hero establishing beat (BD.1) — the petal compa
 
 WARDROBE: the lace-cut paper gown sits sculptural with a structured bodice of layered kirigami petals graduating coral-to-fuchsia and a voluminous petal skirt, each cut-paper petal reading with crisp scissored edges and a soft matte-paper grain; the layers hold clean dimensional form with zero tears, creases-out-of-place or stray fibres, each colour reading pure and saturated under the key.
 
-FOOTWEAR (AF #7): marigold-yellow satin pumps with a delicate paper-petal ankle detail, the satin catching one soft sheen line, soles unscuffed.
+FOOTWEAR: marigold-yellow satin pumps with a delicate paper-petal ankle detail, the satin catching one soft sheen line, soles unscuffed.
 
-ACCESSORIES (AC #7): oversized turquoise paper-flower earrings catching a soft edge-light, a coral lacquer cuff on the left wrist, a fuchsia statement ring glinting.
+ACCESSORIES: oversized turquoise paper-flower earrings catching a soft edge-light, a coral lacquer cuff on the left wrist, a fuchsia statement ring glinting.
 
 HAIR (Sculpted Petal Updo): a sculpted glossy updo lacquered to a clean sheen with a razor-clean hairline and zero flyaways, a single kirigami paper-petal accent tucked at the crown; one bright sheen band rides the updo, individual strands still reading as real hair under the gloss.
 
@@ -3157,9 +3157,9 @@ VISUAL-LEAD NOTE: the cause-then-effect transform reads purely visually — flat
 
 WARDROBE (mid-transform): the paper gown is 60% formed — flat sheets of coral, marigold, fuchsia and turquoise paper sweep in and self-cut into intricate kirigami lace, folding and popping up into the bodice and petal skirt along the seam lines, a few sheets still mid-fold finding their shape; petals crisping to clean scissored edges, saturated and luminous, no torn or muddy patches.
 
-FOOTWEAR (AF #7): the marigold satin pumps fully formed, last paper-petals folding into the ankle detail.
+FOOTWEAR: the marigold satin pumps fully formed, last paper-petals folding into the ankle detail.
 
-ACCESSORIES (AC #7): turquoise paper-flower earrings and coral cuff fully materialised, a faint paper-fibre shimmer still dissolving around them.
+ACCESSORIES: turquoise paper-flower earrings and coral cuff fully materialised, a faint paper-fibre shimmer still dissolving around them.
 
 HAIR : sculpted petal updo fully locked and unchanged through the transform, hairline crisp, the kirigami crown accent steady.
 
@@ -3231,9 +3231,9 @@ VISUAL-LEAD NOTE: hero-product macro showcase — the embossed petal compact car
 
 WARDROBE: the lace-cut paper gown fully formed and crisp — structured kirigami bodice, voluminous petal skirt, coral-to-fuchsia graduation, surfaces saturated and luminous.
 
-FOOTWEAR (AF #7): marigold satin pumps just visible at lower frame edge, one soft sheen line on the satin.
+FOOTWEAR: marigold satin pumps just visible at lower frame edge, one soft sheen line on the satin.
 
-ACCESSORIES (AC #7): turquoise paper-flower earrings catching edge-light at the jaw, coral lacquer cuff prominent as the hand presents the compact, fuchsia ring glinting.
+ACCESSORIES: turquoise paper-flower earrings catching edge-light at the jaw, coral lacquer cuff prominent as the hand presents the compact, fuchsia ring glinting.
 
 HAIR : sculpted petal updo crisp and locked, hairline sharp, kirigami crown accent steady, sheen band across the updo.
 
@@ -3302,9 +3302,9 @@ VISUAL-LEAD NOTE: wordless beauty beat — a pure expression-and-light moment ca
 
 WARDROBE: the paper gown crisp and saturated, catching clean key, kirigami bodice steady, petal layers alive with light; pristine.
 
-FOOTWEAR (AF #7): marigold satin pumps out of frame in this tighter beauty crop.
+FOOTWEAR: marigold satin pumps out of frame in this tighter beauty crop.
 
-ACCESSORIES (AC #7): turquoise paper-flower earrings framing the jaw with a bright edge-catch, fuchsia ring glinting as a hand rises near the cheek.
+ACCESSORIES: turquoise paper-flower earrings framing the jaw with a bright edge-catch, fuchsia ring glinting as a hand rises near the cheek.
 
 HAIR : sculpted petal updo immaculate, hairline crisp, one travelling sheen band across the updo, kirigami crown accent catching light.
 
@@ -3375,9 +3375,9 @@ VISUAL-LEAD NOTE: the magical crest reads instantly in silence — a fan of vivi
 
 WARDROBE: the paper gown at full glory, the petal skirt flaring in the burst-draft, coral-marigold-fuchsia-turquoise surfaces flashing vivid at peak, kirigami bodice crisp, catching the bloom-burst light.
 
-FOOTWEAR (AF #7): marigold satin pumps catching a soft sheen sweep down the instep, paper-petal ankle detail fluttering.
+FOOTWEAR: marigold satin pumps catching a soft sheen sweep down the instep, paper-petal ankle detail fluttering.
 
-ACCESSORIES (AC #7): turquoise paper-flower earrings and coral cuff flashing with bloom light, fuchsia ring throwing a tiny prism point.
+ACCESSORIES: turquoise paper-flower earrings and coral cuff flashing with bloom light, fuchsia ring throwing a tiny prism point.
 
 HAIR : sculpted petal updo fully locked and crisp through the burst, the sheen band now lit by the bloom-burst, kirigami crown accent steady, surface catching the burst light.
 
@@ -3451,9 +3451,9 @@ VISUAL-LEAD NOTE: a calm resolved hero close, the compact presented once more, e
 
 WARDROBE: the paper gown settled crisp and pristine again, kirigami bodice holding clean key, petal skirt calm and saturated, luminous.
 
-FOOTWEAR (AF #7): marigold satin pumps settled, one soft sheen line on the satin, soles unscuffed.
+FOOTWEAR: marigold satin pumps settled, one soft sheen line on the satin, soles unscuffed.
 
-ACCESSORIES (AC #7): turquoise paper-flower earrings at rest catching a soft edge-light, coral cuff and fuchsia ring glinting calmly.
+ACCESSORIES: turquoise paper-flower earrings at rest catching a soft edge-light, coral cuff and fuchsia ring glinting calmly.
 
 HAIR : sculpted petal updo immaculate and resolved, hairline crisp, the single sheen band riding the updo, kirigami crown accent settled.
 
@@ -3536,7 +3536,7 @@ Loop: the closing ukulele strum rings open on F6 and leaves a warm soft tail so 
 
 Title: Pillar 11 — Surreal Pop Art
 
-Format: Commercial Beauty Hero / Product Performance (AX #1)
+Format: Commercial Beauty Hero / Product Performance
 
 Hero Product: "Bubble Gloss" plumping lip gloss — a rounded bubble-shaped clear vial with a candy-pink dome cap and glossy bubblegum-pink liquid
 
@@ -3544,9 +3544,9 @@ Setting: Candy-chrome balloon studio — a backdrop of giant glossy chrome and c
 
 Wardrobe: a sculptural mylar-foil balloon gown of inflated chrome-and-candy segments, glossy and reflective, a bubble-sculpted bodice and a rounded voluminous skirt
 
-Footwear: AF #8 — chrome bubble-platform heels in mirror-finish with candy-pink soles, pristine
+Footwear: chrome bubble-platform heels in mirror-finish with candy-pink soles, pristine
 
-Accessories: AC #8 — oversized chrome heart-balloon earrings, an electric-cyan inflatable-look cuff, a candy-pink chrome ring
+Accessories: oversized chrome heart-balloon earrings, an electric-cyan inflatable-look cuff, a candy-pink chrome ring
 
 Hair : a sculpted glossy high bubble-bun wrapped with a chrome ribbon, razor-clean hairline, zero flyaways
 
@@ -3586,9 +3586,9 @@ VISUAL-LEAD NOTE: reveal-first hero establishing beat (BD.1) — the bubble-shap
 
 WARDROBE: the mylar-foil balloon gown sits sculptural with a bubble-formed bodice of inflated chrome-and-candy segments and a rounded voluminous skirt, each segment reading with a true glossy mylar sheen and crisp mirror highlight; the inflated forms hold clean rounded volume with zero dents, dull patches or wrinkles, each candy tone reading pure and saturated under the key.
 
-FOOTWEAR (AF #8): chrome bubble-platform heels in mirror-finish throwing a clean specular ribbon, candy-pink soles, unscuffed.
+FOOTWEAR: chrome bubble-platform heels in mirror-finish throwing a clean specular ribbon, candy-pink soles, unscuffed.
 
-ACCESSORIES (AC #8): oversized chrome heart-balloon earrings throwing a bright mirror flash, an electric-cyan inflatable-look cuff, a candy-pink chrome ring glinting.
+ACCESSORIES: oversized chrome heart-balloon earrings throwing a bright mirror flash, an electric-cyan inflatable-look cuff, a candy-pink chrome ring glinting.
 
 HAIR (Chrome-Ribbon Bubble-Bun): a sculpted glossy high bubble-bun lacquered to a wet-look glass finish with a razor-clean hairline and zero flyaways, a chrome ribbon wrapped at the base; one bright sheen band rides the bun, individual strands still reading as real hair under the gloss.
 
@@ -3661,9 +3661,9 @@ VISUAL-LEAD NOTE: the cause-then-effect transform reads purely visually — flat
 
 WARDROBE (mid-transform): the balloon gown is 60% formed — flat sheets of magenta, electric-cyan, lime and tangerine mylar inflate and twist into rounded segments around the bodice and skirt, the leading forms sculpting into clean volume along the seam lines, a few segments still mid-inflate finding their shape; surfaces snapping to a true glossy foil sheen, saturated and luminous, no dented or muddy patches.
 
-FOOTWEAR (AF #8): the chrome bubble-platform heels fully formed and mirror-glossy, last segments inflating around the platform.
+FOOTWEAR: the chrome bubble-platform heels fully formed and mirror-glossy, last segments inflating around the platform.
 
-ACCESSORIES (AC #8): chrome heart earrings and cyan cuff fully materialised, a faint candy-shimmer still dissolving around them.
+ACCESSORIES: chrome heart earrings and cyan cuff fully materialised, a faint candy-shimmer still dissolving around them.
 
 HAIR : chrome-ribbon bubble-bun fully locked and unchanged through the transform, hairline crisp, the chrome ribbon steady.
 
@@ -3735,9 +3735,9 @@ VISUAL-LEAD NOTE: hero-product macro showcase — the bubble-shaped gloss vial c
 
 WARDROBE: the mylar balloon gown fully formed and crisp — bubble-sculpted bodice, rounded voluminous skirt, magenta-cyan-lime-tangerine segments, surfaces glossy and luminous.
 
-FOOTWEAR (AF #8): chrome bubble-platform heels just visible at lower frame edge, one clean specular ribbon, candy-pink soles.
+FOOTWEAR: chrome bubble-platform heels just visible at lower frame edge, one clean specular ribbon, candy-pink soles.
 
-ACCESSORIES (AC #8): chrome heart-balloon earrings catching a mirror flash at the jaw, electric-cyan cuff prominent as the hand presents the vial, candy-pink chrome ring glinting.
+ACCESSORIES: chrome heart-balloon earrings catching a mirror flash at the jaw, electric-cyan cuff prominent as the hand presents the vial, candy-pink chrome ring glinting.
 
 HAIR : chrome-ribbon bubble-bun crisp and locked, hairline sharp, chrome ribbon steady, sheen band across the bun.
 
@@ -3806,9 +3806,9 @@ VISUAL-LEAD NOTE: styling-detail beat — a tight grouped showcase of the footwe
 
 WARDROBE: the lower mylar balloon gown and rounded skirt-segments crisp and glossy, catching clean key, the hem meeting the chrome heels.
 
-FOOTWEAR (AF #8): chrome bubble-platform heels in mirror-finish front and centre — a clean specular ribbon riding the platform, candy-pink soles flashing, sculpted bubble heel pristine.
+FOOTWEAR: chrome bubble-platform heels in mirror-finish front and centre — a clean specular ribbon riding the platform, candy-pink soles flashing, sculpted bubble heel pristine.
 
-ACCESSORIES (AC #8): the chrome heart-balloon earring swings into frame catching a bright mirror flash, the electric-cyan inflatable-look cuff glossy on the wrist, the candy-pink chrome ring throwing a tiny prism point.
+ACCESSORIES: the chrome heart-balloon earring swings into frame catching a bright mirror flash, the electric-cyan inflatable-look cuff glossy on the wrist, the candy-pink chrome ring throwing a tiny prism point.
 
 HAIR : chrome-ribbon bubble-bun crisp at the upper edge of frame, sheen band steady.
 
@@ -3879,9 +3879,9 @@ VISUAL-LEAD NOTE: wordless beauty beat — a pure expression-and-light moment ca
 
 WARDROBE: the mylar balloon gown crisp and glossy, bubble-bodice catching clean key, candy-chrome segments saturated and luminous.
 
-FOOTWEAR (AF #8): chrome bubble-platform heels out of frame in this tighter beauty crop.
+FOOTWEAR: chrome bubble-platform heels out of frame in this tighter beauty crop.
 
-ACCESSORIES (AC #8): oversized chrome heart-balloon earrings framing the jaw with a bright mirror-flash, candy-pink chrome ring glinting as a hand rises near the cheek.
+ACCESSORIES: oversized chrome heart-balloon earrings framing the jaw with a bright mirror-flash, candy-pink chrome ring glinting as a hand rises near the cheek.
 
 HAIR : chrome-ribbon bubble-bun immaculate, hairline crisp, sheen band riding the bun.
 
@@ -3954,9 +3954,9 @@ MAGIC EFFECT — CHROME-BALLOON RELEASE / BALLOON-BURST CONFETTI SUPERNOVA (the 
 
 WARDROBE: the mylar balloon gown blazing in the burst light, bubble-bodice and rounded skirt-segments catching mirror-flashes, candy-chrome segments saturated; fully glossy, real inflated volume with a soft living bounce.
 
-FOOTWEAR (AF #8): the chrome bubble-platform heels catching a bright burst-flash, confetti settling at the foot; mirror-finish, candy-pink soles.
+FOOTWEAR: the chrome bubble-platform heels catching a bright burst-flash, confetti settling at the foot; mirror-finish, candy-pink soles.
 
-ACCESSORIES (AC #8): the chrome heart-balloon earrings throwing multiplied mirror-flashes, the cyan cuff and candy-pink ring flaring with reflected confetti light; crisp speculars amid the burst.
+ACCESSORIES: the chrome heart-balloon earrings throwing multiplied mirror-flashes, the cyan cuff and candy-pink ring flaring with reflected confetti light; crisp speculars amid the burst.
 
 HAIR : chrome-ribbon bubble-bun locked and unchanged, fine strands and the chrome ribbon lifting in the burst-draught; razor-clean hairline.
 
@@ -4029,9 +4029,9 @@ VISUAL-LEAD NOTE: the afterglow beat — the supernova eases to a soft drifting 
 
 WARDROBE: the mylar balloon gown settling from the burst, bubble-bodice and rounded skirt-segments glossy and calm, candy-chrome segments saturated; real inflated volume with a soft settling bounce.
 
-FOOTWEAR (AF #8): chrome bubble-platform heels grounded on the glossy floor, confetti pooling lightly at the foot, mirror-finish, candy-pink soles.
+FOOTWEAR: chrome bubble-platform heels grounded on the glossy floor, confetti pooling lightly at the foot, mirror-finish, candy-pink soles.
 
-ACCESSORIES (AC #8): chrome heart-balloon earrings easing to rest, cyan cuff and candy-pink ring catching calm speculars amid the drifting sparkle.
+ACCESSORIES: chrome heart-balloon earrings easing to rest, cyan cuff and candy-pink ring catching calm speculars amid the drifting sparkle.
 
 HAIR : chrome-ribbon bubble-bun settling, fine strands easing back, hairline crisp, sheen band calm on the bun.
 
@@ -4104,9 +4104,9 @@ VISUAL-LEAD NOTE: the resolve lands on image — the vivid spectacle settling ba
 
 WARDROBE: the mylar balloon gown back to a calm glossy candy-chrome sheen, bubble-bodice and rounded skirt settled to the opening drape, fully modest line; real inflated volume matching F1.
 
-FOOTWEAR (AF #8): chrome bubble-platform heels grounded as in F1, mirror-finish, candy-pink soles, one clean specular ribbon.
+FOOTWEAR: chrome bubble-platform heels grounded as in F1, mirror-finish, candy-pink soles, one clean specular ribbon.
 
-ACCESSORIES (AC #8): chrome heart-balloon earrings, electric-cyan cuff and candy-pink chrome ring returned to their opening rest, one clean mirror-flash each.
+ACCESSORIES: chrome heart-balloon earrings, electric-cyan cuff and candy-pink chrome ring returned to their opening rest, one clean mirror-flash each.
 
 HAIR : chrome-ribbon bubble-bun resolved smooth, the loose strand back to its opening rest position for the loop; hairline crisp.
 
@@ -4189,7 +4189,7 @@ Loop: the closing synth-bass note pops soft and round on F8 and leaves a light c
 
 Title: Pillar 1 — Futuristic Iridescent Chrome
 
-Format: Commercial Beauty Hero / Holographic Product Performance (AX #4)
+Format: Commercial Beauty Hero / Holographic Product Performance
 
 Hero Product: "Prism Drops" iridescent liquid highlighter — a faceted prism-cut clear-glass bottle, holographic chrome dropper cap, pearlescent rainbow-shifting liquid
 
@@ -4197,9 +4197,9 @@ Setting: Mirror-prism studio — chrome-mirror panels and hanging cut-glass pris
 
 Wardrobe: sculptural faceted holographic prism gown of iridescent rainbow-shifting mirror-foil panels over a liquid-chrome bodysuit
 
-Footwear: AF #9 — clear lucite prism-heel sandals with holographic iridescent straps and a chrome platform, clean unscuffed soles
+Footwear: clear lucite prism-heel sandals with holographic iridescent straps and a chrome platform, clean unscuffed soles
 
-Accessories: AC #9 — faceted prism-drop earrings, a liquid-chrome cuff, one holographic iridescent ring
+Accessories: faceted prism-drop earrings, a liquid-chrome cuff, one holographic iridescent ring
 
 Hair: sleek high-shine chrome-glass waves with an iridescent holographic sheen, deep side part, zero flyaways
 
@@ -4239,9 +4239,9 @@ VISUAL-LEAD NOTE: reveal-first hero establishing beat (BD.1) — the faceted pri
 
 WARDROBE: (start state) — a liquid-chrome bodysuit with a fully modest high neckline and long sleeve, its mirror-bright surface catching the prismatic beams as travelling rainbow speculars; over it the first faceted holographic mirror-foil panels sit across the bodice, shifting colour from magenta to cyan to gold with the angle; surfaces pristine, edges crisp, zero wrinkles, lint or stray threads.
 
-FOOTWEAR (AF #9): clear lucite prism-heel sandals, a sculpted faceted heel that scatters tiny rainbows, holographic iridescent straps crossing the foot, a slim chrome platform; soft specular on the lucite, real contact, soles unscuffed, matched to the gown, no mismatched footwear.
+FOOTWEAR: clear lucite prism-heel sandals, a sculpted faceted heel that scatters tiny rainbows, holographic iridescent straps crossing the foot, a slim chrome platform; soft specular on the lucite, real contact, soles unscuffed, matched to the gown, no mismatched footwear.
 
-ACCESSORIES (AC #9): faceted prism-drop earrings catching a pin-sharp spectrum-glint, a liquid-chrome cuff on the left wrist throwing a mirror-bright highlight, one holographic iridescent ring on the right hand; understated, nothing competing with the hero product.
+ACCESSORIES: faceted prism-drop earrings catching a pin-sharp spectrum-glint, a liquid-chrome cuff on the left wrist throwing a mirror-bright highlight, one holographic iridescent ring on the right hand; understated, nothing competing with the hero product.
 
 HAIR (Chrome-Glass Waves): sleek high-shine waves over a deep side part, the surface lacquered to a chrome-glass finish with an iridescent holographic sheen and zero flyaways, a crisp hairline; one bright rainbow sheen band rides the wave crest, individual strands still reading as real hair under the gloss, hair colour locked to the reference.
 

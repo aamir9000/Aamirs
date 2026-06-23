@@ -13,7 +13,7 @@ Set 4 — Concepts 51–70. 20 fresh production-ready reel concepts at maximum C
 
 Title: Pillar 4 — Opulent Jewel-Tone
 
-Format: Cinematic Beauty Transformation (AX #31) — stained-glass light-fracture transform
+Format: Cinematic Beauty Transformation — stained-glass light-fracture transform
 
 Hero Product: "Lumière Sacrée" radiance drops — a faceted jewel-cut glass vial with a stained-glass-tint gradient and a brushed rose-gold collar
 
@@ -447,7 +447,7 @@ MASTER TRACK BRIEF (Gemini Music — paste with the finished 30s reel): Genre �
 
 Title: Pillar 1 — Contemporary Vivid
 
-Format: Commercial Beauty Transformation (AX #12) — liquid-porcelain glaze-set transform
+Format: Commercial Beauty Transformation — liquid-porcelain glaze-set transform
 
 Hero Product: "Porcelain Veil" blurring glow primer — a smooth matte-ceramic pot with a blush-pink lid and a soft pearl finish
 
@@ -881,7 +881,7 @@ MASTER TRACK BRIEF (Gemini Music — paste with the finished 30s porcelain reel)
 
 Title: Pillar 4 — Opulent Maximalist
 
-Format: Cinematic Beauty Transformation (AX #33) — clockwork gear-assembly transform
+Format: Cinematic Beauty Transformation — clockwork gear-assembly transform
 
 Hero Product: "Rouage d'Or" radiance oil — an amber apothecary dropper bottle with a brass collar and a tiny engraved gear motif
 
@@ -1315,7 +1315,7 @@ MASTER TRACK BRIEF (Gemini Music — paste with the finished 30s clockwork reel)
 
 Title: Pillar 7 — Avant-Garde Futurist
 
-Format: High-Fashion Beauty Transformation (AX #19) — ferrofluid magnetic-spike sheet transform
+Format: High-Fashion Beauty Transformation — ferrofluid magnetic-spike sheet transform
 
 Hero Product: "Obsidian Veil" liquid-glass serum — a faceted black-glass bottle with a chrome dropper collar
 
@@ -1749,7 +1749,7 @@ MASTER TRACK BRIEF (Gemini Music — paste with the finished 30s obsidian reel):
 
 Title: Pillar 3 — Heritage Luxe
 
-Format: Cinematic Beauty Transformation (AX #8) — embroidery thread stitch-form transform
+Format: Cinematic Beauty Transformation — embroidery thread stitch-form transform
 
 Hero Product: "Soie" silk lip oil — a slim clear-glass wand tube with a rose-gold cap and a glossy rose-gold oil
 
@@ -2183,7 +2183,7 @@ MASTER TRACK BRIEF (Gemini Music — paste with the finished 30s embroidery reel
 
 Title: Pillar 9 — Surreal Dreamscape
 
-Format: Cinematic Beauty Transformation (AX #8) — crystal-geode growth transform
+Format: Cinematic Beauty Transformation — crystal-geode growth transform
 
 Hero Product: "Quartz Mist" luminous setting essence — a faceted clear-crystal bottle with a silver atomizer cap
 
@@ -2617,7 +2617,7 @@ MASTER TRACK BRIEF (Gemini Music — paste with the finished 30s crystal reel): 
 
 Title: Pillar 8 — Neo-Tokyo Vivid
 
-Format: High-Energy Beauty Transformation (AX #11) — liquid-light neon-tube fill transform
+Format: High-Energy Beauty Transformation — liquid-light neon-tube fill transform
 
 Hero Product: "Neon Gloss" high-shine lip lacquer — a sleek transparent square bottle with a chrome wand and an electric-clear gloss
 
@@ -3051,7 +3051,7 @@ MASTER TRACK BRIEF (Gemini Music — paste with the finished 30s neon reel): Gen
 
 Title: Pillar 6 — Gilded Heritage
 
-Format: Cinematic Beauty Transformation (AX #8) — mosaic tessera-assembly transform
+Format: Cinematic Beauty Transformation — mosaic tessera-assembly transform
 
 Hero Product: "Gilded Balm" illuminating balm — a small round gold-lidded glass pot with a warm jewel-toned balm and fine gold-fleck shimmer
 
@@ -3485,7 +3485,7 @@ MASTER TRACK BRIEF (Gemini Music — paste with the finished 30s mosaic reel): G
 
 Title: Pillar 4 — Sculptural Minimalist
 
-Format: Cinematic Beauty Transformation (AX #8) — liquid-marble sculpt-and-set transform
+Format: Cinematic Beauty Transformation — liquid-marble sculpt-and-set transform
 
 Hero Product: "Marble" pressed highlighter — a round marble-print compact with a fine brush and a soft pearl-champagne powder
 
@@ -3919,7 +3919,7 @@ MASTER TRACK BRIEF (Gemini Music — paste with the finished 30s marble reel): G
 
 Title: Pillar 5 — Romantic Botanical
 
-Format: Cinematic Beauty Transformation (AX #8) — pressed-flower resin set-and-suspend transform
+Format: Cinematic Beauty Transformation — pressed-flower resin set-and-suspend transform
 
 Hero Product: "Petal Tint" liquid blush — a small clear glass bottle with a doe-foot applicator and a soft rosy-coral tint
 
@@ -4353,7 +4353,7 @@ MASTER TRACK BRIEF (Gemini Music — paste with the finished 30s botanical reel)
 
 Title: Pillar 11 — Ethereal Nocturne
 
-Format: Cinematic Beauty Transformation (AX #8) — gossamer spider-silk dew-web spin-and-set transform
+Format: Cinematic Beauty Transformation — gossamer spider-silk dew-web spin-and-set transform
 
 Hero Product: "Moondew" hydrating essence — a frosted-silver glass bottle with a press-pump and a clear pearlescent essence
 
@@ -4787,7 +4787,7 @@ MASTER TRACK BRIEF (Gemini Music — paste with the finished 30s moonlit reel): 
 
 Title: Pillar 10 — Playful Confection
 
-Format: Cinematic Beauty Transformation (AX #8) — molten spun-sugar spin-and-pull set transform
+Format: Cinematic Beauty Transformation — molten spun-sugar spin-and-pull set transform
 
 Hero Product: "Soufflé" soft-focus pressed powder — a pastel-rose compact with a plush puff and a fine cream powder
 
@@ -5221,7 +5221,7 @@ MASTER TRACK BRIEF (Gemini Music — paste with the finished 30s patisserie reel
 
 Title: Pillar 1 — Timeless Couture
 
-Format: Cinematic Beauty Transformation (AX #8) — floating-needle Chantilly lace-knit set transform
+Format: Cinematic Beauty Transformation — floating-needle Chantilly lace-knit set transform
 
 Hero Product: "Veil" lengthening mascara — a slim champagne tube with a fine spoolie wand and a soft black formula
 
@@ -5655,7 +5655,7 @@ MASTER TRACK BRIEF (Gemini Music — paste with the finished 30s lace-atelier re
 
 Title: Pillar 6 — Avant-Garde Sculptural
 
-Format: Cinematic Beauty Transformation (AX #8) — carved-crystal-ice sculpt set transform — fully silent reel
+Format: Cinematic Beauty Transformation — carved-crystal-ice sculpt set transform — fully silent reel
 
 Hero Product: "Glacé" cryo facial roller — a chilled stainless dual-roller with a frosted handle and a faint cold mist clinging to the metal
 
@@ -8443,7 +8443,7 @@ A separate, subtle background music bed for the whole 30s reel — mixed low und
 
 Title: Pillar 4 — Opulent Jewel-Tone (grand finale)
 
-Format: Cinematic Beauty Transformation (AX #31) — crystal-chandelier drop-assembly transform (silent)
+Format: Cinematic Beauty Transformation — crystal-chandelier drop-assembly transform (silent)
 
 Hero Product: "Éclat" crystal-glow drops — a faceted cut-crystal dropper vial shaped like a chandelier droplet, with a warm champagne-pearl liquid and a slim gold collar
 
