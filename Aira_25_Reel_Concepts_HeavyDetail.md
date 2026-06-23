@@ -1895,3 +1895,943 @@ CUT LOGIC: ANGLE-CUT / LOOP back to CLIP 1; the next pass re-triggers the grocer
 - Loop: a clean ~26s loop matching the visual loop point.
 
 ---
+
+# PILLAR B — THE WORLD REACTS TO HER MOOD
+*Feeling: relatable. No mirror, no product — she's just living. The environment is her emotional weather made visible.*
+
+# CONCEPT B-1 — MONDAY MORNING
+
+Title: World-Reacts Hero — a maximalist apartment that sulks and blooms with her mood.
+Category / Format: Relatable lifestyle reel (cosy maximalist apartment) · SPOKEN (one wry English line, natural Indian accent) · CLIP-CHAIN, ANGLE-CUT edit · MOOD-MAGIC (the room's colour and life track her posture/mood: it drains grey when she slumps, floods vivid when she finds her groove).
+Story Idea: Aira shuffles into a grey, sulking maximalist apartment on a Monday — flowers drooping, colour drained, even the espresso machine dead. She hits peak deadpan frustration, makes a decision, tightens her bun, squares her shoulders — and the whole room floods back to vivid saturated life around her.
+Setting: a cosy maximalist apartment — emerald velvet sofa, rust armchair, tall monstera, stacked books, brass lamps, magenta peonies, a rainy window. It physically dims and desaturates when she slumps, then blooms to full saturation when her mood lifts.
+Wardrobe: an oversized soft grey cashmere cardigan sliding off one shoulder, over a white ribbed tank and charcoal silk sleep-shorts; cosy, modest.
+Footwear: chunky cream shearling slides, one foot half-in, a bare heel showing — constant.
+Eyewear: none.
+Accessories: a dainty gold sleep-necklace, tiny diamond stud earrings, bare natural-pink nails, a sage-green velvet scrunchie in the bun.
+Hair: a messy high bun with loose strands falling, the sage-green velvet scrunchie barely holding — constant.
+Makeup: bare, fresh, real — luminous no-makeup skin, soft natural lip, real pores.
+Hero Movement / Impossible Move: the room desaturates and droops when she slumps, then floods to vivid saturated life when she squares her shoulders; the world is her emotional weather.
+Transformation Trigger (signature, consistent): HER POSTURE / DECISION — slumping and yawning drains the room grey; the moment she tightens the scrunchie and squares her shoulders (the "okay, I've got this" decision), the room blooms to full colour. Same mood-trigger governs both directions.
+Mood: RELATABLE — grumpy-grey into earned warmth.
+Grade: starts deliberately DESATURATED GREY (the one allowed muted beat, for the mood contrast) then floods to VIVID — emerald, rust, magenta peonies, warm brass-gold; rich blacks, full mid-tone at the bloom.
+Duration: ~28 seconds · 6 clips (angle-cut chain).
+Voice: SPOKEN — one wry line at the turn; otherwise diegetic + score.
+Identity safety: AIRA adult; wardrobe modest cosy loungewear; mood relatable and warm, never sexualized.
+State chain (angle-cut): CLIP 1 wide [shuffles in, slumps → room SULKS grey] → CUT → CLIP 2 medium OTS [dead espresso machine, dims more] → CUT → CLIP 3 close-up [deadpan to lens, spoken line, decision] → CUT → CLIP 4 three-quarter [tightens bun, squares shoulders → ★ room BLOOMS vivid] → CUT → CLIP 5 low-hero [stands in the blooming room, triumphant calm] → CUT → CLIP 6 medium→wide [working espresso, sips; resets to grey doorway = CLIP 1, loop].
+
+---
+
+## CLIP 1 of 6 — WIDE · FRONT-FAVOURING THREE-QUARTER · EYE-LEVEL (shuffles in; ★ slump drains the room grey)
+
+### START IMAGE (keyframe — room half-normal, draining grey)
+ANGLE & SHOT SIZE: eye-level WIDE; Aira full body in a doorway mid-yawn, the maximalist living room sprawling to frame-right, colour already draining toward grey.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: the oversized grey cashmere cardigan sliding off one shoulder over the white ribbed tank and charcoal silk shorts; soft, rumpled, real.
+FOOTWEAR: chunky cream shearling slides, one foot half-in, a bare heel showing, shuffling.
+EYEWEAR: none.
+ACCESSORIES: dainty gold sleep-necklace, tiny diamond studs, sage-green velvet scrunchie in the bun, bare natural-pink nails.
+HAIR: a messy high bun, loose strands falling around the face, the sage scrunchie barely holding.
+MAKEUP: bare, fresh, real — luminous no-makeup skin, soft natural lip, real pores, faint sleep-softness.
+HANDS & NAILS: one hand gripping the doorframe at shoulder height in a relaxed lean, the other loose; bare natural-pink nails.
+FACIAL MICRO-DYNAMICS: mid-yawn — eyes scrunched, brow creased, mouth wide in an honest yawn, raw and unguarded — the "I'm not ready" face.
+BODY POSTURE & WEIGHT: a slouched lean into the doorframe, weight sagging to one hip, shoulders dropped, spine soft — pure Monday slump.
+KINETIC STILLNESS (8 layers): (1) colour visibly draining from the sofa and walls toward grey; (2) magenta peonies drooping in their vase; (3) a loose strand drifting at the temple; (4) the cardigan sliding further off the shoulder; (5) chest rising on a tired inhale; (6) the rainy window streaking grey; (7) a brass lamp flickering weakly; (8) a slow heavy eyelash settle.
+SPATIAL LOGIC: FOREGROUND — the doorframe edge and her leaning hand, sharp. MIDGROUND — Aira slumped in the doorway. BACKGROUND — the maximalist room draining grey, the rainy window.
+LIGHTING: KEY — flat overcast grey light from the rainy window. FILL — almost none. RIM — a weak dull edge. PRACTICAL — a single dull lamp barely trying. SEPARATION — low; the grey room swallows contrast. BOUNCE — minimal.
+LENS + DOF + BOKEH: 35mm, f/4, deep; the grey room legible, the window a flat grey rectangle.
+COMPOSITION: vertical 9:16, Aira centre-left in the doorway, the draining room sprawling right, furniture leading lines toward the window.
+SUBJECT FRAMING & POSITION: Aira reads as a complete full-length figure slumped in the doorway, framed head-to-slides with the doorframe at her shoulder, her torso in a soft three-quarter slouch so her face is near-front while her body sags into the lean. The camera holds a wide establishing distance at clean eye level; she anchors centre-left and the draining room sprawls to frame-right. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: grey rainy-Monday heaviness, the colour and life sapped from the room.
+COLOUR GRADE: deliberately DESATURATED GREY (the one allowed muted beat) — flat greys, dull brass, browning peonies; only her skin reads faintly warm. (This sets up the bloom contrast.)
+TEXTURE & MICRO-DETAIL: soft cashmere pilling, real sleep-softened skin, dull-brass lamp grain, drooping-petal detail, rain-streaked glass.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, garish oversaturation, flat-blown highlights.
+
+### ANIMATION (this clip, ~5s — shuffles in; ★ slump drains the room grey)
+SHOT TYPE & ANGLE: eye-level wide, front-favouring three-quarter; subject ~45% centre-left.
+CAMERA MOVEMENT (CHOREOGRAPHY): a very slow dolly-in from the wide, gentle and unhurried — one continuous shot.
+LENS: 35mm, f/4, deep.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–1.5s — the yawn completes, jaw closing, eyes opening heavy-lidded.
+- 1.5–3.0s — ★ TRIGGER: she shuffles one step in and slumps against the doorframe — and the room drains further toward grey on her slump.
+- 3.0–5.0s — a flat resigned exhale; she surveys the grey room with a dull "ugh" expression.
+FLUIDITY & WEIGHT NOTES: the shuffle drags with real floor-friction; the slump sags with believable weight; all motion eases, heavy and slow.
+FABRIC/HAIR/PROP PHYSICS: the cardigan drapes and slides off the shoulder with real heavy-knit weight; loose strands drift; the peonies droop with organic stem-bend; the slide scuffs with friction.
+FOOTWORK & BODY FLOW: a dragging shuffle, weight heavy, the bare heel scuffing the slide.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ MOOD-DRAIN at 1.5–3.0s — on her slump, the room's remaining colour visibly recedes like water draining: the emerald sofa greys, the rust armchair dulls, the peonies droop further, the lamp dims a notch — the world sulking with her.
+LIGHTING-IN-MOTION: flat grey, dimming a touch further as she slumps — no warmth entering.
+DIEGETIC AUDIO: the tail of a quiet yawn-sigh; a slide scuffing on wood; a weak lamp buzz; rain tapping the window; a heavy breath.
+MASTER TRACK: a muted lone piano with vinyl crackle — grey and minimal.
+END STATE / STATE-MATCH LOCK (heavy detail — CLIP 2's START IMAGE must reproduce 100%, new angle only): at clip end the apartment is fully GREY and sulking — desaturated emerald sofa, dulled rust armchair, drooping browning peonies, dim lamp, rain-streaked grey window; Aira slumped, grey cardigan off one shoulder, messy bun, deadpan-tired. CLIP 2 must open in this EXACT grey state (same desaturation, same drooping props, same dim lamp, same wardrobe) — only the camera angle changes.
+CUT LOGIC: hard ANGLE-CUT to CLIP 2 (over-the-shoulder at the kitchen counter). No motion-match; WORLD STATE matches 100%.
+
+---
+
+## CLIP 2 of 6 — MEDIUM · OVER-THE-SHOULDER · EYE-LEVEL (opens GREY = CLIP 1 end; dead espresso machine, dims more)
+
+### START IMAGE (keyframe — grey, reproduces CLIP 1's END STATE, new angle)
+ANGLE & SHOT SIZE: eye-level MEDIUM over-the-shoulder from behind her left shoulder at the kitchen counter, the dead brass espresso machine sharp beyond her hand.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: the grey cardigan from behind, the dropped shoulder revealing the white tank strap — identical state.
+FOOTWEAR: out of frame.
+EYEWEAR: none.
+ACCESSORIES: gold necklace clasp at the nape, a diamond stud glinting dull, sage scrunchie, bare nails on the reaching hand.
+HAIR: the messy bun from behind, scrunchie visible, loose strands at the nape catching grey light.
+MAKEUP: bare fresh real, grey-lit.
+HANDS & NAILS: her hand reaching for a white mug on the counter, fingers spreading; the other thumb poised over the espresso button; bare natural-pink nails.
+FACIAL MICRO-DYNAMICS: glimpsed in cheek-profile — flat annoyance, lips pressed, eyes half-open, the machine not helping her mood.
+BODY POSTURE & WEIGHT: a tired forward lean to the counter, weight on the forearms, shoulders dropped, breathing.
+KINETIC STILLNESS (8 layers): (1) the dead espresso machine unlit, no indicator glow; (2) a wilting herb pot browning a leaf; (3) a loose strand at the nape; (4) the cardigan shifting; (5) chest rising tiredly; (6) rain streaking the grey window above the sink; (7) the dull lamp flickering in the next room; (8) a slow heavy blink in profile.
+SPATIAL LOGIC: FOREGROUND — her shoulder and reaching hand, soft. MIDGROUND — the dead espresso machine, sharp. BACKGROUND — the grey kitchen and rain-streaked window in dull bokeh.
+LIGHTING: KEY — flat grey window light. FILL — none. RIM — a weak dull edge on the bun. PRACTICAL — the espresso machine unlit (no glow). SEPARATION — low. BOUNCE — minimal.
+LENS + DOF + BOKEH: 50mm, f/2.8; her shoulder soft foreground, the dead machine sharp, the kitchen dull bokeh.
+COMPOSITION: vertical 9:16, over-the-shoulder — her shoulder anchoring lower-left, the dead espresso machine the focal subject centre-right.
+SUBJECT FRAMING & POSITION: Aira is seen from behind over her left shoulder, framed waist-up so her grey-cardiganed back fills the soft near-foreground while the dead espresso machine sits sharp beyond her reaching hand. Her torso leans toward the counter, head dipped. The camera is close behind at eye level; she anchors lower-left, the machine centre-right. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: grey kitchen defeat, the small betrayal of a dead coffee machine.
+COLOUR GRADE: DESATURATED GREY — dulled brass, browning herb, grey marble; only her skin faintly warm. (Matches CLIP 1 END STATE.)
+TEXTURE & MICRO-DETAIL: dull-brass micro-scratches, browning herb-leaf, cashmere pilling, grey marble grain, rain on glass.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, garish oversaturation, flat-blown highlights.
+
+### ANIMATION (this clip, ~4s — dead machine refuses; room dims more)
+SHOT TYPE & ANGLE: eye-level medium over-the-shoulder; her back ~45% lower-left, machine centre-right.
+CAMERA MOVEMENT (CHOREOGRAPHY): a gentle arc around her left shoulder — one continuous shot.
+LENS: 50mm, f/2.8, shallow.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–1.5s — she picks up the white mug and sets it under the spout.
+- 1.5–2.8s — she presses the espresso button with her thumb — a tiny hopeful brow-lift.
+- 2.8–4.0s — the machine gives a weak flicker and dies; her hope dies — eyes close, lips flatten, a micro-headshake.
+FLUIDITY & WEIGHT NOTES: the mug has believable ceramic weight; the button-press has tactile resistance; the disappointment eases across her face.
+FABRIC/HAIR/PROP PHYSICS: the mug scrapes the counter; the button depresses with a click then nothing; a herb leaf curls a touch more; the room dims a notch on her frustration.
+FOOTWORK & BODY FLOW: weight on the forearms, a tired sag.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ MOOD-DIM at 2.8–4.0s — as her hope dies, the room dims one more notch grey, the lamp guttering, the herb wilting further — the sulk intensifying with her frustration.
+LIGHTING-IN-MOTION: flat grey dimming a hair further as her mood drops; no machine glow.
+DIEGETIC AUDIO: a mug-scrape on marble; the button press — a weak click then silence; a faint electrical failure-buzz; rain intensifying; a frustrated exhale.
+MASTER TRACK: the muted piano holds, a low sub-drone of grey under it.
+END STATE / STATE-MATCH LOCK (heavy detail — CLIP 3's START IMAGE must reproduce 100%, new angle only): at clip end the kitchen is at peak GREY sulk — dead unlit machine, wilted herb, dim lamp, rain; Aira leaning, frustrated, grey cardigan off one shoulder, messy bun. CLIP 3 must open in this EXACT grey state (same desaturation, same dead machine implied, same wardrobe/mood) — only the angle changes.
+CUT LOGIC: hard ANGLE-CUT to CLIP 3 (close-up to lens). No motion-match; WORLD STATE matches 100%.
+
+---
+
+## CLIP 3 of 6 — CLOSE-UP · FRONT · SLIGHT LOW ANGLE (deadpan to lens; ★ SPOKEN line + the decision)
+
+### START IMAGE (keyframe — grey, reproduces CLIP 2's END STATE, new angle)
+ANGLE & SHOT SIZE: slight low-angle CLOSE-UP, face and shoulders filling the frame, front to lens, the grey room in soft bokeh behind.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: the cardigan neckline and white tank, the dropped shoulder visible — identical state.
+FOOTWEAR: out of frame.
+EYEWEAR: none.
+ACCESSORIES: dainty gold necklace at the collarbone, diamond studs catching what little light exists, sage scrunchie, bare nails.
+HAIR: the messy bun top, loose strands framing the face, scrunchie at the crown.
+MAKEUP: bare fresh real, grey-lit, every honest pore visible.
+HANDS & NAILS: one hand holding the empty mug loosely at the bottom of frame, a finger tapping its side; bare natural-pink nails.
+FACIAL MICRO-DYNAMICS: deadpan frustration — lids half-closed, one brow barely arched in a "really?" look, lips pressed flat with the tiniest downward corner-pull, jaw set, a faint nostril-flare on an exhale.
+BODY POSTURE & WEIGHT: a tired front-facing slump, shoulders low, head heavy, breathing.
+KINETIC STILLNESS (8 layers): (1) the grey room formless behind; (2) drooping peonies as a blurred sad shape; (3) a loose strand drifting; (4) the cardigan shifting at the shoulder; (5) chest rising; (6) the finger tapping the mug; (7) the dull lamp dimming behind; (8) a slow heavy blink.
+SPATIAL LOGIC: FOREGROUND — the mug rim and tapping finger, soft. MIDGROUND — her face, sharp. BACKGROUND — the grey room as formless dull bokeh.
+LIGHTING: KEY — flat grey window light from behind the lens. FILL — almost none. RIM — none. PRACTICAL — none. SEPARATION — low. BOUNCE — minimal; her skin the only warmth.
+LENS + DOF + BOKEH: 85mm, f/2.0; her eyes pin-sharp, the grey room melting to formless bokeh.
+COMPOSITION: vertical 9:16, her face filling the frame, eyes on the upper-third, grey emptiness around her.
+SUBJECT FRAMING & POSITION: Aira is framed in a tight close-up, face and shoulders edge-to-edge, front-facing dead-on to the lens from a slightly low angle that catches her tired arch. Her body squares to camera in a slump. She sits dead-centre, the grey room dissolving behind. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: the universal deadpan-Monday face, intimate and relatable.
+COLOUR GRADE: DESATURATED GREY — her skin the only warmth, the background formless grey. (Matches CLIP 2 END STATE.)
+TEXTURE & MICRO-DETAIL: real pores, faint under-eye softness, fine bun flyaways, the mug-rim gloss, honest skin texture.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, garish oversaturation, flat-blown highlights.
+
+### ANIMATION (this clip, ~5s — ★ SPOKEN line; the decision crosses her eyes)
+SHOT TYPE & ANGLE: slight low-angle close-up; face ~80% dead-centre.
+CAMERA MOVEMENT (CHOREOGRAPHY): a very slow push-in from close to intimate, barely perceptible — one continuous shot.
+LENS: 85mm, f/2.0, shallow.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–1.5s — she stares flat at the lens, the one brow arching, finger tapping the mug.
+- 1.5–3.0s — ★ SPOKEN BEAT: as the line lands she deadpans, dry and wry — "...okay. We are NOT doing this today." — lips barely moving, eyes flat.
+- 3.0–5.0s — a flicker of decision crosses her eyes; the corner of her mouth twitches up; she sets the mug down off-frame with a decisive clink.
+FLUIDITY & WEIGHT NOTES: the brow-arch leads; the decision is a small bright shift in the eyes; the mug-set is deliberate; all motion eases.
+FABRIC/HAIR/PROP PHYSICS: the mug sets down with believable ceramic-on-marble contact; loose strands sway with the slight head motion; the cardigan shifts.
+FOOTWORK & BODY FLOW: a subtle straightening beginning at the very end — the turn incoming.
+MID-CLIP TRANSFORMATION (timed): NONE yet — the room stays grey; this is the decision beat that will trigger the bloom in CLIP 4. A faint warmth just barely begins at the very edge of frame on the decision.
+LIGHTING-IN-MOTION: flat grey, but a hint of warmth creeping at the frame edge on the decision.
+DIEGETIC AUDIO: the finger-tap on the mug; her dry spoken line (close, intimate, natural Indian accent); the decisive mug-clink; rain; an expectant beat of quiet.
+MASTER TRACK: the muted piano pauses on the line, a single held note of anticipation under it.
+END STATE / STATE-MATCH LOCK (heavy detail — CLIP 4's START IMAGE must reproduce 100%, new angle only): at clip end the room is still GREY but a faint warmth flickers at the frame edge; Aira has just decided — a spark in the eyes, mouth-corner lifting, mug set down; grey cardigan, messy bun. CLIP 4 must open in this EXACT pre-bloom state (still grey, faint edge-warmth, her decided expression, same wardrobe) — only the angle changes.
+CUT LOGIC: hard ANGLE-CUT to CLIP 4 (three-quarter, knees-up). No motion-match; WORLD STATE matches 100%.
+
+---
+
+## CLIP 4 of 6 — MEDIUM-FULL · THREE-QUARTER FRONT · EYE-LEVEL (opens pre-bloom GREY = CLIP 3 end; ★ squares shoulders → room BLOOMS)
+
+### START IMAGE (keyframe — grey, faint edge-warmth)
+ANGLE & SHOT SIZE: eye-level MEDIUM-FULL, knees-up, three-quarter front; she pulls the cardigan up and reaches for the scrunchie, the room poised to bloom.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: the grey cardigan being pulled up onto the shoulder and cinched with its own tie-belt, tank straightened — still loungewear but now owned.
+FOOTWEAR: cream shearling slides, both feet planted with new purpose.
+EYEWEAR: none.
+ACCESSORIES: gold necklace, diamond studs, sage scrunchie (being tightened), bare nails.
+HAIR: the messy bun, a hand reaching up to tighten the scrunchie with one practiced twist.
+MAKEUP: bare fresh real, catching new warm light.
+HANDS & NAILS: one hand tightening the scrunchie at the crown, the other tugging the cardigan straight; bare natural-pink nails.
+FACIAL MICRO-DYNAMICS: the shift — lids opening wider, eyes brightening, the flat mouth softening into the beginnings of a real smile, brow relaxing — "okay, I've got this."
+BODY POSTURE & WEIGHT: squaring up — shoulders drawing back, spine lengthening, weight even, alive.
+KINETIC STILLNESS (8 layers): (1) colour beginning to flood back from one side; (2) the peonies lifting; (3) a loose strand being tucked; (4) the cardigan settling as it cinches; (5) chest rising on a deliberate breath; (6) the lamp brightening a notch; (7) the monstera leaves perking; (8) a brightening catch-light in the eye.
+SPATIAL LOGIC: FOREGROUND — her hands at the bun and cardigan, sharp. MIDGROUND — Aira squaring up. BACKGROUND — the room blooming, half-grey/half-vivid mid-sweep.
+LIGHTING: KEY — warm gold light entering from the window as the clouds part, mixing with the remaining grey. FILL — warm bounce returning. RIM — a warming edge on the bun. PRACTICAL — the lamp igniting warm. SEPARATION — rising. BOUNCE — warm gold returning under the chin.
+LENS + DOF + BOKEH: 40mm, f/3.5; Aira sharp, the blooming room reading in expanding colour behind.
+COMPOSITION: vertical 9:16, Aira centre-right, the bloom sweeping left-to-right behind her, the half-and-half split visible.
+SUBJECT FRAMING & POSITION: Aira reads from the knees up in a three-quarter front turn, framed so her squaring shoulders and the hands at her bun are the focal beat while the room blooms behind. Her torso rotates toward camera as she straightens. The camera holds a mid medium-full distance at eye level; she anchors centre-right with the bloom sweeping in from frame-left. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: the turn — grey lifting to warmth, the room waking with her.
+COLOUR GRADE: SPLIT — desaturated grey on the right giving way to VIVID emerald, rust and magenta flooding from the left; the colour follows her mood.
+TEXTURE & MICRO-DETAIL: cashmere knit cinching, scrunchie velvet nap, skin warming in the new light, peony petals opening, monstera veining.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, garish oversaturation, flat light.
+
+### ANIMATION (this clip, ~5s — ★ squares shoulders → room BLOOMS to vivid)
+SHOT TYPE & ANGLE: eye-level medium-full, three-quarter front; subject ~55% centre-right.
+CAMERA MOVEMENT (CHOREOGRAPHY): a gentle dolly-back opening the frame to reveal the blooming room — one continuous shot.
+LENS: 40mm, f/3.5.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–1.5s — she pulls the cardigan up and tightens the scrunchie with one practiced twist.
+- 1.5–2.8s — ★ TRIGGER: she squares her shoulders and takes a deliberate breath IN.
+- 2.8–5.0s — on the breath, the room EXPLODES into colour — peonies lift and open, the sofa saturates to rich emerald, the lamp ignites warm, the monstera reaches up, gold sun floods the window; her real smile arrives.
+FLUIDITY & WEIGHT NOTES: the scrunchie-twist has precise finger-hair contact; the square-up draws the spine tall; the bloom blossoms with her inhale; all motion eases.
+FABRIC/HAIR/PROP PHYSICS: the cardigan cinches with real fabric tension; flowers lift with organic stem-flex; leaves uncurl with believable elasticity; light spreads at cloud-clearing speed (fast but not instant).
+FOOTWORK & BODY FLOW: weight grounds and lifts as she squares up.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ MOOD-BLOOM at 1.5–4.5s — triggered by the shoulder-square and breath, the grey floods to VIVID: emerald sofa and rust armchair saturate, magenta peonies open, brass lamp warms gold, monstera perks, the window blazes gold; the world rewards her decision with full colour.
+LIGHTING-IN-MOTION: grey flat light replaced by warm directional gold; rich shadows return.
+DIEGETIC AUDIO: a satisfying deep breath in; a soft musical swell as the room responds; flowers lifting with a tiny rustle; the lamp click-on; rain stopping; a warm room-tone replacing the grey.
+MASTER TRACK: a transition riser swells; warm strings and a felt-kick enter with a satisfying bass-drop at the bloom.
+END STATE / STATE-MATCH LOCK (heavy detail — CLIP 5's START IMAGE must reproduce 100%, new angle only): at clip end the apartment is in full VIVID bloom — rich emerald sofa, glowing rust armchair, open magenta peonies, warm brass lamps, tall vivid monstera, gold-flooded window; Aira stands squared and smiling, grey cardigan cinched, messy bun tightened. CLIP 5 must open in this EXACT vivid state (same saturated room, same gold light, same wardrobe/posture) — only the angle changes.
+CUT LOGIC: hard ANGLE-CUT to CLIP 5 (low-angle hero). No motion-match; WORLD STATE matches 100%.
+
+---
+
+## CLIP 5 of 6 — MEDIUM-FULL · FRONT · LOW-ANGLE HERO (opens VIVID = CLIP 4 end; triumphant calm)
+
+### START IMAGE (keyframe — vivid, reproduces CLIP 4's END STATE, new angle)
+ANGLE & SHOT SIZE: low-angle HERO, medium-full, knees-up, near-front; she stands in the centre of the now-saturated blooming room, calm and in command.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: the same grey cardigan and tank/shorts — identical clothes, transformed by her posture, cinched and owned.
+FOOTWEAR: cream shearling slides planted wide, grounded.
+EYEWEAR: none.
+ACCESSORIES: gold necklace, diamond studs catching warm light, sage scrunchie, bare nails.
+HAIR: the messy bun now reading deliberately chic, scrunchie secure.
+MAKEUP: bare fresh real, glowing in warm light.
+HANDS & NAILS: hands relaxed and open at her sides — she does nothing; the room did the work; bare nails.
+FACIAL MICRO-DYNAMICS: quiet triumph — eyes bright and steady on the lens, lids relaxed-open, a warm settled "yeah" smile, brow smooth, calm ownership.
+BODY POSTURE & WEIGHT: a grounded heroic stance, weight even, shoulders back, chin level, spine long, breathing.
+KINETIC STILLNESS (8 layers): (1) the last grey corner flushing with colour; (2) dust-motes drifting in the new sunbeam; (3) a loose strand settling; (4) the cardigan hem stirring; (5) chest rising on a satisfied breath; (6) a peony opening fully; (7) the lamp at full warm glow; (8) a slow satisfied blink.
+SPATIAL LOGIC: FOREGROUND — a corner of the emerald sofa, sharp. MIDGROUND — Aira commanding centre. BACKGROUND — the blooming maximalist room radiating from her, gold window.
+LIGHTING: KEY — warm rich directional gold from the now-clear window. FILL — warm bounce off the vivid furniture. RIM — gold edge down her silhouette. PRACTICAL — glowing brass lamps. SEPARATION — bright gold window behind the figure. BOUNCE — warm gold under the chin.
+LENS + DOF + BOKEH: 28mm low and wide for grandeur, f/3.2; focus on Aira, the room rich behind, dust-motes catching the sun.
+COMPOSITION: vertical 9:16, Aira dead-centre as the source, the blooming room radiating out, symmetrical furniture framing.
+SUBJECT FRAMING & POSITION: Aira reads from the knees up in a low-angle hero framing, the camera looking up so she stands tall and grounded in the centre of the vivid room, near-front, hands open at her sides. The camera is mid-distance and low for grandeur; she holds dead-centre with the blooming room radiating around her. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: earned warmth and quiet triumph — the room happy because she is.
+COLOUR GRADE: VIVID — every jewel tone at full saturation: emerald, rust, magenta peonies, green monstera, warm brass-gold; rich blacks, full mid-tone — the payoff. (Matches CLIP 4 END STATE.)
+TEXTURE & MICRO-DETAIL: cashmere knit, velvet sofa nap, peony petals, brass lamp glow, dust-motes in the beam, warm skin texture.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, garish oversaturation, flat light.
+
+### ANIMATION (this clip, ~4s — triumphant calm; the last grey flushes to colour)
+SHOT TYPE & ANGLE: low-angle hero, medium-full; subject ~60% centre.
+CAMERA MOVEMENT (CHOREOGRAPHY): a slow crane-down to the low hero angle, holding — one continuous shot.
+LENS: 28mm, f/3.2, low and wide.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–1.2s — she plants her feet, shoulders settling back.
+- 1.2–2.6s — a slow deep exhale — and with it, the last grey corner of the room flushes with colour.
+- 2.6–4.0s — the warm settled smile arrives fully; a slow satisfied blink, breath out — the hero beat.
+FLUIDITY & WEIGHT NOTES: she touches nothing — the room serves her; the exhale leads the final colour-flush; all motion eases.
+FABRIC/HAIR/PROP PHYSICS: dust-motes drift with correct Brownian motion in the sunbeam; a flower opens with organic petal-unfurl; light intensifies naturally.
+FOOTWORK & BODY FLOW: weight grounded and even, a subtle rise through the spine.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ the final colour-flush at 1.2–2.6s — on her exhale the last grey patch saturates, a last peony opens, the lamp brightens one more notch; the bloom completes around her.
+LIGHTING-IN-MOTION: full golden key, rich directional shadows, the room at its warmest — maximum contrast from the grey opening.
+DIEGETIC AUDIO: her satisfied exhale; a last flower-rustle; a warm alive room-tone; birdsong replacing rain; a golden settling quiet.
+MASTER TRACK: the warm strings and bass reach their fullest, most satisfying swell — the emotional peak.
+END STATE / STATE-MATCH LOCK (heavy detail — CLIP 6's START IMAGE must reproduce 100%, then RESET): at clip end the room is at full vivid bloom; Aira stands triumphant-calm, grey cardigan cinched, bun tightened. CLIP 6 must open in this vivid state then begin RESETTING toward the grey doorway of CLIP 1 — same wardrobe, the colour draining back as the loop closes.
+CUT LOGIC: hard ANGLE-CUT to CLIP 6 (medium→wide, kitchen then doorway). No motion-match; state matches, then resets.
+
+---
+
+## CLIP 6 of 6 — MEDIUM → WIDE · PROFILE then FRONT · EYE-LEVEL (working espresso, sip; ★ resets to grey doorway → loop)
+
+### START IMAGE (keyframe — vivid, working espresso, reproduces CLIP 5's END STATE)
+ANGLE & SHOT SIZE: eye-level MEDIUM in profile at the kitchen counter as she presses the now-glowing espresso machine, the vivid warm kitchen around her (this clip will pull back to the wide doorway as it resets).
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: the grey cardigan cinched, white tank — identical state.
+FOOTWEAR: cream shearling slides.
+EYEWEAR: none.
+ACCESSORIES: gold necklace, a diamond stud catching warm light, sage scrunchie, bare nails on the machine.
+HAIR: the chic messy bun, scrunchie, loose strands.
+MAKEUP: bare fresh real, warm-lit.
+HANDS & NAILS: her thumb pressing the espresso button — which now responds instantly with a warm indicator glow; bare natural-pink nails.
+FACIAL MICRO-DYNAMICS: a soft pleased smirk in profile — eyes on the machine, one mouth-corner up, a "there you are" look.
+BODY POSTURE & WEIGHT: an easy upright lean to the counter, weight relaxed, shoulders open, breathing.
+KINETIC STILLNESS (8 layers): (1) the espresso machine glowing green/working; (2) a lush herb pot now vivid; (3) a loose strand drifting; (4) the cardigan shifting; (5) chest rising; (6) warm marble glinting; (7) the gold window behind; (8) a slow content blink.
+SPATIAL LOGIC: FOREGROUND — the glowing machine and her hand, sharp. MIDGROUND — Aira in profile. BACKGROUND — the warm vivid kitchen, gold window.
+LIGHTING: KEY — warm gold window light. FILL — warm bounce. RIM — gold edge on the bun. PRACTICAL — the espresso machine's green indicator glow. SEPARATION — bright window behind. BOUNCE — warm marble under the jaw.
+LENS + DOF + BOKEH: 50mm, f/2.8; the working machine and her profile sharp, warm bokeh behind.
+COMPOSITION: vertical 9:16, her profile left, the alive machine centre-right, the warm kitchen as a reward.
+SUBJECT FRAMING & POSITION: Aira is shown in profile from the waist up at the counter, framed medium, pressing the now-working espresso machine, the vivid kitchen warm behind. Her torso is square in profile. The camera holds a medium distance at eye level; she rides left, the machine centre-right — before the camera pulls wide to reset. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: warm contented reward, the morning rescued.
+COLOUR GRADE: VIVID — warm marble, lush green herb, glowing brass, warm skin. (Matches CLIP 5 END STATE, before the reset-drain.)
+TEXTURE & MICRO-DETAIL: brass-machine gleam, espresso crema forming, lush herb leaves, cashmere knit, warm skin.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, garish oversaturation, flat light.
+
+### ANIMATION (this clip, ~5s — sip; ★ resets to grey doorway; loop close)
+SHOT TYPE & ANGLE: opens eye-level medium profile, then pulls back to the eye-level WIDE doorway of CLIP 1.
+CAMERA MOVEMENT (CHOREOGRAPHY): a slow dolly-back and arc from the counter profile out to the wide doorway composition of CLIP 1 — one continuous shot.
+LENS: 50mm easing to 35mm equivalent framing, f/2.8→f/4.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–1.5s — she presses the button; the machine responds, espresso pouring with crema; she lifts the cup for a slow first sip, eyes closing in contentment.
+- 1.5–3.0s — she lowers the cup; the camera pulls back toward the doorway as she drifts there.
+- 3.0–5.0s — ★ RESET: as she settles back into the doorway slump, the room drains back to grey, peonies droop, lamp dims — returning exactly to CLIP 1.
+FLUIDITY & WEIGHT NOTES: the sip is savouring; the drift to the doorway is easy; the grey-drain mirrors the bloom in reverse; all motion eases.
+FABRIC/HAIR/PROP PHYSICS: espresso flows with correct viscosity and crema; steam rises; the colour drains from surfaces like receding water; the cardigan slides back off the shoulder.
+FOOTWORK & BODY FLOW: an easy walk back to the doorway, weight settling into the opening slump.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ RESET at 3.0–5.0s — as she returns to the doorway slump, the vivid room drains back to grey (the reverse of the bloom), the espresso cup leaving frame, restoring the exact CLIP-1 grey opening.
+LIGHTING-IN-MOTION: warm gold drains to flat grey, matching the CLIP-1 opening.
+DIEGETIC AUDIO: the espresso button click (satisfying this time); a warm machine hiss and rich pour; her small contented sip; then the warm room-tone fading, rain returning, the dull lamp buzz — back to the CLIP-1 bed.
+MASTER TRACK: the warm strings decay back to the muted lone piano and vinyl crackle, looping cleanly.
+END STATE / STATE-MATCH LOCK: clip ends in the EXACT grey doorway state and wide angle of CLIP 1's START IMAGE — slump, grey room, wardrobe and tired expression matched, so the reel loops seamlessly.
+CUT LOGIC: ANGLE-CUT / LOOP back to CLIP 1; the next pass re-drains the room as she slumps and re-blooms it when she squares up.
+
+### ☆ EXTERNAL AUDIO — BLOCK 1: BACKGROUND SOUND DESIGN / AMBIENCE BED — B-1
+*The layered foley + ambience to lay UNDER the reel, separate from the in-clip diegetic audio — timed to the clips.*
+- Base bed (grey clips): rain tapping the window; a weak lamp electrical buzz; a hollow quiet apartment room-tone.
+- CLIP 1 (slump/drain): a yawn-sigh; a slide scuffing wood; a heavy breath.
+- CLIP 2 (dead machine): a mug-scrape; a weak button-click then silence; an electrical failure-buzz; rain intensifying.
+- CLIP 3 (spoken/decision): a finger-tap on the mug; a decisive mug-clink; an expectant quiet.
+- CLIP 4 (★ bloom): a deep breath-in; a soft swell as the room responds; flowers rustling; a lamp click-on; rain STOPPING; birdsong beginning.
+- CLIP 5 (hero): a satisfied exhale; a last flower-rustle; a warm alive room-tone.
+- CLIP 6 (sip/reset): a satisfying button-click; a warm machine hiss and rich pour; a small sip; then warm tone fading, rain returning to the CLIP-1 bed.
+- Mix note: the bed itself transforms grey→warm→grey with the visuals (rain vs birdsong); loops cleanly at ~28s.
+
+### ☆ EXTERNAL AUDIO — BLOCK 2: BACKGROUND MUSIC / SCORE TRACK — B-1 (lay under the sound bed)
+- Genre / vibe: cinematic lo-fi with a dramatic emotional arc — grey and minimal, blooming into rich warmth.
+- Tempo / key: ~80 BPM, starts A minor (grey), modulates to A major (bloom) at the turn.
+- Core elements: muted lone piano + vinyl crackle on the grey clips; building warm strings + a felt-kick at the bloom; a satisfying bass-drop at the hero; strips back to muted piano on the reset.
+- Arc: minimal grey piano (CLIPs 1–3) → a swelling transition riser at the decision/bloom (CLIP 4) → full warm strings + bass at the hero (CLIP 5) → decay back to muted grey piano on the reset (CLIP 6).
+- Texture note: the muted→full transition should feel like a cloud clearing — deeply satisfying, never abrupt; the spoken line in CLIP 3 sits in a music-pause.
+- Loop: a clean ~28s loop matching the visual loop point.
+
+---
+
+# CONCEPT B-2 — SHE WALKED IN
+
+Title: World-Reacts Hero — a café where every object turns to face her.
+Category / Format: Empowerment fashion reel (high-ceilinged artisan café) · SILENT (diegetic + score only) · CLIP-CHAIN, ANGLE-CUT edit · MOOD-MAGIC (the room orients toward her on entry and snaps back to neutral when she sits).
+Story Idea: Aira pushes through a café door and the instant she crosses the threshold every object turns to face her — chairs pivot, pendant lights cant her way, flowers lean, a cup rotates its handle toward her — a magnetic, unhurried entrance. She glides to a corner booth, sits, and the spell breaks: everything snaps back to neutral as if nothing happened.
+Setting: a high-ceilinged artisan café — exposed brick, warm oak tables, brass pendant lights, a long marble espresso bar, eucalyptus sprigs in vases, soft patrons as blurs; warm and textured.
+Wardrobe: a sharply-cut ivory blazer over a fitted black silk turtleneck bodysuit, high-waist charcoal tailored trousers, a thin black leather belt with a gold buckle; modest, commanding.
+Footwear: pointed black patent stilettos with a thin ankle strap — constant.
+Eyewear: black rectangular cat-eye sunglasses (pushed up on the head, lowered then removed across clips).
+Accessories: a chunky gold chain necklace, a structured black leather micro-bag, espresso-brown glossy almond nails, small gold studs.
+Hair: long straight jet-black curtain hair, centre part, glass-shine, ends brushing the elbows — constant.
+Makeup: polished editorial — luminous skin, defined brow, soft berry lip, subtle smoky neutral lid, real pores.
+Hero Movement / Impossible Move: every object in the café turns to face her on entry and snaps back to neutral when she sits; the room reacts to her presence.
+Transformation Trigger (signature, consistent): HER CROSSING THE THRESHOLD — the instant her foot crosses the café doorway the objects begin turning toward her; the instant her weight hits the booth seat they all snap back. Same trigger governs both directions.
+Mood: EMPOWERMENT — cool, magnetic, main-character.
+Grade: VIVID warm café — rich oak, warm brass-gold, exposed brick, ivory blazer pop, espresso accents; rich blacks, glossy speculars, full mid-tone.
+Duration: ~26 seconds · 6 clips (angle-cut chain).
+Voice: SILENT — diegetic café + a slow-burn bass-driven score.
+Identity safety: AIRA adult; wardrobe modest tailoring; mood confident and elegant, never sexualized.
+State chain (angle-cut): CLIP 1 wide front [pushes door, crosses threshold → ★ objects TURN toward her] → CUT → CLIP 2 three-quarter walking profile [strides, everything pivoted, removes shades] → CUT → CLIP 3 close-up [magnetic look, room oriented at her] → CUT → CLIP 4 full-body low [sits → ★ everything SNAPS back] → CUT → CLIP 5 medium [settled, espresso arrives, sips] → CUT → CLIP 6 wide front [pushes door again = CLIP 1, loop].
+
+---
+
+## CLIP 1 of 6 — WIDE · FRONT · EYE-LEVEL (pushes through door; ★ threshold-cross TURNS the room toward her)
+
+### START IMAGE (keyframe — café neutral, doors opening)
+ANGLE & SHOT SIZE: eye-level WIDE shot from inside the café looking toward the glass door; Aira full body mid-stride pushing through, one hand on the brass handle.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: the sharply-cut ivory blazer over the black silk turtleneck bodysuit, high-waist charcoal trousers, thin black belt with a gold buckle; crisp, commanding.
+FOOTWEAR: pointed black patent stilettos, mid-stride, catching a floor reflection.
+EYEWEAR: black cat-eye sunglasses pushed up on the head.
+ACCESSORIES: chunky gold chain necklace, structured black micro-bag on the forearm, espresso-brown glossy nails, gold studs.
+HAIR: long straight jet-black curtain hair, centre part, glass-shine, swaying with the forward stride.
+MAKEUP: polished editorial — luminous skin, defined brow, soft berry lip, subtle smoky neutral lid, real pores.
+HANDS & NAILS: right hand gripping the heavy brass door handle, knuckles defined; the micro-bag hanging from the left forearm; espresso-brown glossy almond nails.
+FACIAL MICRO-DYNAMICS: cool arrived confidence — chin level, eyes steady (behind the slightly tinted opening), lips in a relaxed closed-mouth power-calm, jaw soft but set; not smiling — letting the room notice.
+BODY POSTURE & WEIGHT: a forward stride mid-step, weight transferring onto the lead foot, shoulders square, spine tall, alive.
+KINETIC STILLNESS (8 layers): (1) the heavy glass door swinging on its closer; (2) daylight slashing in from the opening door; (3) the curtain hair swinging with the stride; (4) the micro-bag swaying; (5) chest rising on a breath; (6) the nearest chair just beginning to pivot toward her; (7) a pendant light beginning to cant her way; (8) a slow blink.
+SPATIAL LOGIC: FOREGROUND — café tables and chairs, sharp. MIDGROUND — the door and Aira entering. BACKGROUND — the long marble espresso bar and brick wall.
+LIGHTING: KEY — warm brass-pendant interior light. FILL — soft bounce off oak and brick. RIM — a daylight slash from the opening door haloing her. PRACTICAL — brass pendant lights, the espresso bar. SEPARATION — bright door-light behind her. BOUNCE — warm oak kick under the chin.
+LENS + DOF + BOKEH: 35mm, f/4, deep; the café legible, the door-light flaring soft.
+COMPOSITION: vertical 9:16, Aira dead-centre entering, the door-frame and café converging on her as leading lines, the daylight halo behind.
+SUBJECT FRAMING & POSITION: Aira reads as a complete full-length figure mid-stride entering through the door, framed head-to-stilettos, her body squared near-front to camera as she pushes in. The camera holds a wide establishing distance at eye level from inside the café; she anchors dead-centre with the café fanning out behind her. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: the charged hush of an entrance, the room about to notice her.
+COLOUR GRADE: VIVID warm café — rich oak, warm brass-gold, exposed brick, the ivory blazer a bright pop, espresso accents; rich blacks, glossy speculars.
+TEXTURE & MICRO-DETAIL: blazer wool weave, patent-stiletto gloss, brass-handle micro-scratches, the curtain hair's glass-shine, gold-chain links, marble bar veining.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
+
+### ANIMATION (this clip, ~5s — pushes in; ★ threshold-cross turns the room toward her)
+SHOT TYPE & ANGLE: eye-level wide, front; subject ~40% dead-centre.
+CAMERA MOVEMENT (CHOREOGRAPHY): a static hold as she pushes through, then a slow dolly-back beginning as she steps in — one continuous shot.
+LENS: 35mm, f/4, deep.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–1.5s — she pushes the heavy glass door open, weight forward mid-stride.
+- 1.5–2.5s — ★ TRIGGER: her foot crosses the threshold — her heel clicks the floor.
+- 2.5–5.0s — on the threshold-cross, every nearby object begins to TURN toward her: chairs pivot 5–10°, pendant lights swing her way, eucalyptus leans, a cup rotates its handle toward her; she walks on, unhurried, beginning a slow eye-scan.
+FLUIDITY & WEIGHT NOTES: the door swings with heavy-glass inertia; her hair follows the stride with realistic swing-settle; the object-turns are slow, smooth, magnetic; all motion eases.
+FABRIC/HAIR/PROP PHYSICS: chairs pivot with believable scrape-and-settle; pendant lights swing with correct cable physics; the cup rotates on the table; her blazer holds structure; the curtain hair swings with delay.
+FOOTWORK & BODY FLOW: a decisive heel-strike on the threshold, weight rolling forward into the stride.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE TURN at 1.5–4.5s — triggered by the threshold-cross, the café's objects orient toward her: chairs pivot, pendants cant, flowers lean, a cup's handle rotates her way, a barista pauses mid-pour — a slow magnetic wave spreading from the door inward as she advances.
+LIGHTING-IN-MOTION: the daylight halo narrows as the door closes behind her; the warm interior takes over; the canting pendants begin pooling light along her path.
+DIEGETIC AUDIO: the heavy door push (a whoosh and brass click); her heel striking wood — sharp, decisive; café ambience (murmur, clink, soft music) that dips in volume for a beat as she enters.
+MASTER TRACK: a deep sub-bass pulse enters on the threshold-cross; a crisp finger-snap on the off-beats matching her heels.
+END STATE / STATE-MATCH LOCK (heavy detail — CLIP 2's START IMAGE must reproduce 100%, new angle only): at clip end the café's nearest objects have turned toward her — chairs pivoted, pendants canted her way, eucalyptus leaning, a cup's handle rotated; the door has closed; warm interior light pools along her path; Aira mid-stride, sunglasses on head, ivory blazer, glass-shine hair. CLIP 2 must open in this EXACT state (same turned objects, same pooled light, same wardrobe) — only the camera angle changes.
+CUT LOGIC: hard ANGLE-CUT to CLIP 2 (three-quarter walking profile). No motion-match; WORLD STATE matches 100%.
+
+---
+
+## CLIP 2 of 6 — MEDIUM-FULL · THREE-QUARTER WALKING PROFILE · EYE-LEVEL (opens TURNED = CLIP 1 end; strides, removes shades)
+
+### START IMAGE (keyframe — objects turned, reproduces CLIP 1's END STATE, new angle)
+ANGLE & SHOT SIZE: eye-level MEDIUM-FULL, knees-up, three-quarter walking profile, traveling with her as she strides deeper, everything visibly pivoted toward her.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: the ivory blazer in profile, shoulder seam sharp, black turtleneck at the throat, charcoal trouser-leg mid-stride — identical state.
+FOOTWEAR: patent stilettos in profile, one heel just lifting for the next step.
+EYEWEAR: cat-eye sunglasses being lowered from the head by one hand.
+ACCESSORIES: gold chain at the neck, micro-bag swinging, espresso nails on the glasses, gold studs.
+HAIR: the jet-black curtain hair in side silhouette, swinging with the stride, glass-shine catching each pendant.
+MAKEUP: polished editorial, warm-lit.
+HANDS & NAILS: one hand lowering the sunglasses with precise finger-on-frame motion; the micro-bag swinging from the forearm; espresso-brown nails.
+FACIAL MICRO-DYNAMICS: a slow knowing corner-smile appearing in profile, eyes ahead and slightly downcast (not acknowledging the room's reaction), unbothered grace.
+BODY POSTURE & WEIGHT: a confident mid-stride, weight rolling heel-to-toe, hips in natural counter-rotation, shoulders square, alive.
+KINETIC STILLNESS (8 layers): (1) tables and chairs pivoted 10–15° toward her; (2) all pendant lights canted her direction; (3) the curtain hair swinging; (4) eucalyptus leaning dramatically; (5) chest rising; (6) a paused mid-pour drip at the bar; (7) the micro-bag swaying; (8) a slow blink in profile.
+SPATIAL LOGIC: FOREGROUND — a turned chair, soft. MIDGROUND — Aira striding in profile. BACKGROUND — the café's objects all oriented toward her, creating motion-lines.
+LIGHTING: KEY — warm pendants now angled toward her, a brighter corridor of light along her path. FILL — warm oak bounce. RIM — a warm edge on the hair. PRACTICAL — canted pendants, espresso bar. SEPARATION — bright pooled path behind her. BOUNCE — warm oak under the jaw.
+LENS + DOF + BOKEH: 50mm, f/2.8, traveling; her sharp, the turned objects legible but secondary in warm bokeh.
+COMPOSITION: vertical 9:16, her profile centre, the turned objects creating visual motion-lines all pointing at her.
+SUBJECT FRAMING & POSITION: Aira is framed knees-up in a three-quarter walking profile, traveling left-to-right (or her direction of travel), the canted café behind. Her torso is in a walking three-quarter, mid-stride. The camera dollies alongside at her pace, mid-distance, eye level; she rides centre with the turned room around her. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: a magnetic runway-walk through a room that leans toward her.
+COLOUR GRADE: VIVID warm café — the light-corridor glowing along her path, oak, brass-gold, ivory, espresso. (Matches CLIP 1 END STATE.)
+TEXTURE & MICRO-DETAIL: blazer weave, sunglass-hinge detail, the hair's glass-shine, pendant-glow on oak, paused espresso-drip.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
+
+### ANIMATION (this clip, ~4s — strides; removes shades; objects keep orienting)
+SHOT TYPE & ANGLE: eye-level medium-full three-quarter walking profile; subject ~50% centre.
+CAMERA MOVEMENT (CHOREOGRAPHY): a smooth dolly alongside at her walking pace — one continuous shot.
+LENS: 50mm, f/2.8, shallow.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–1.5s — mid-stride, she removes the sunglasses and folds them one-handed.
+- 1.5–2.8s — she tucks them into the blazer breast pocket with practiced ease, still walking.
+- 2.8–4.0s — eyes shift forward, chin stays level — pure poise — as more objects join the turn.
+FLUIDITY & WEIGHT NOTES: the sunglasses fold with a precise hinge-click; the tuck has exact fabric-depth contact; the hair swings with stride-cadence; all motion eases.
+FABRIC/HAIR/PROP PHYSICS: each object turns at its own rate by mass — light things (flowers, a menu) faster, heavy things (chairs) slower; pendant cables stretch with correct tension; the hair swings with delay.
+FOOTWORK & BODY FLOW: rhythmic confident heel-strikes, weight rolling.
+MID-CLIP TRANSFORMATION (timed): NONE new — the turn continues spreading (seeded in CLIP 1); more distant objects join as she advances.
+LIGHTING-IN-MOTION: the light-corridor intensifies along her path; warmth pools.
+DIEGETIC AUDIO: rhythmic confident heel-clicks (the main beat); the subtle creak/scrape of turning chairs; a soft chime from swinging pendants; café murmur hushed; the sunglasses hinge-click.
+MASTER TRACK: a warm muted-trumpet motif (short, cool) enters over the bass-and-snap.
+END STATE / STATE-MATCH LOCK (heavy detail — CLIP 3's START IMAGE must reproduce 100%, new angle only): at clip end the whole café is oriented toward her — all chairs, pendants, flowers, a paused barista; the warm light pooled on her; sunglasses now pocketed; Aira mid-stride, ivory blazer, glass-shine hair, knowing corner-smile. CLIP 3 must open in this EXACT state (same fully-turned room, same pooled light, same wardrobe, shades pocketed) — only the angle changes.
+CUT LOGIC: hard ANGLE-CUT to CLIP 3 (close-up to lens). No motion-match; WORLD STATE matches 100%.
+
+---
+
+## CLIP 3 of 6 — CLOSE-UP · FRONT · EYE-LEVEL (magnetic look; the room oriented at her)
+
+### START IMAGE (keyframe — turned room, reproduces CLIP 2's END STATE, new angle)
+ANGLE & SHOT SIZE: eye-level CLOSE-UP, face and shoulders, front to lens, the turned café in warm bokeh behind.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: the ivory blazer collar and black turtleneck at the throat; the gold chain resting on the collarbone — identical state.
+FOOTWEAR: out of frame.
+EYEWEAR: pocketed (peeking from the breast pocket).
+ACCESSORIES: the gold chain prominent, espresso nails at the frame edge, gold studs.
+HAIR: jet-black curtain framing both sides of the face, centre part crisp, strands catching warm pendant-glow.
+MAKEUP: polished editorial, twin golden catch-lights.
+HANDS & NAILS: one hand resting at the collarbone near the chain, fingertips barely touching the gold; espresso-brown nails.
+FACIAL MICRO-DYNAMICS: magnetic quiet confidence — eyes steady and direct, lids relaxed-open (the perfect middle), brow smooth with the faintest power-lift; lips pressed softly into a restrained knowing almost-smile that says "I know"; jaw relaxed.
+BODY POSTURE & WEIGHT: a still, self-possessed stand, shoulders level, head high, breathing.
+KINETIC STILLNESS (8 layers): (1) the turned objects finishing their orientation in the bokeh; (2) the hair settling from the walk; (3) the chain resting without swing; (4) a slow eyelash settle; (5) chest on one slow breath; (6) pendant-glow pooling on her face; (7) a catch-light steady in the eye; (8) a barely-there fingertip touch at the chain.
+SPATIAL LOGIC: FOREGROUND — soft warm bokeh shapes (turned pendants). MIDGROUND — her face, pin-sharp. BACKGROUND — the oriented café melting to golden bokeh.
+LIGHTING: KEY — directional warm key from the turned pendants pooled on her face. FILL — soft warm bounce. RIM — a warm edge on the hair. PRACTICAL — canted pendants. SEPARATION — golden bokeh behind the face. BOUNCE — warm under the jaw.
+LENS + DOF + BOKEH: 85mm, f/1.8 ultra-shallow; only her eyes pin-sharp, everything else melting to soft golden bokeh.
+COMPOSITION: vertical 9:16, her face filling the frame, eyes on the upper-third, the world oriented toward her in soft focus.
+SUBJECT FRAMING & POSITION: Aira is framed in an intimate close-up, face and shoulders, front-facing dead-on to the lens, one hand at the collarbone. She sits dead-centre, the oriented café dissolving behind her into golden bokeh. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: magnetic stillness — the brightest, most magnetic point in the room.
+COLOUR GRADE: VIVID — warm saturated skin against soft golden bokeh, the gold chain bright; rich. (Matches CLIP 2 END STATE.)
+TEXTURE & MICRO-DETAIL: real pores, individual lash separation, the chain's gold links, the hair's glass-shine, lip-gloss micro-speculars.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
+
+### ANIMATION (this clip, ~4s — magnetic look; the room settles oriented at her)
+SHOT TYPE & ANGLE: eye-level close-up; face ~80% dead-centre.
+CAMERA MOVEMENT (CHOREOGRAPHY): an imperceptible push-in, building intensity — one continuous shot.
+LENS: 85mm, f/1.8, ultra-shallow.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–1.5s — she holds the lens with absolute stillness, the room settling oriented at her in the bokeh.
+- 1.5–2.8s — a single slow, sovereign blink — deliberate, unhurried.
+- 2.8–4.0s — the eyes return brighter, the knowing almost-smile deepening a millimetre.
+FLUIDITY & WEIGHT NOTES: the stillness is the point; the blink is luxurious; fingertips at the chain barely move; all motion eases.
+FABRIC/HAIR/PROP PHYSICS: the last walking-motion settles from the hair, strands falling into place with silk weight; the chain rests without swing — everything reaching equilibrium pointed at her.
+FOOTWORK & BODY FLOW: a still, grounded stand.
+MID-CLIP TRANSFORMATION (timed): NONE — the turn completes and holds; this is the magnetic apex of the oriented state.
+LIGHTING-IN-MOTION: the pooled warm light on her face holds steady — she is the brightest point in the room.
+DIEGETIC AUDIO: near-silence — the café murmur fully hushed; just her slow even breath; the faintest gold-chain settle; a single soft low heartbeat-thud for drama; then café sounds beginning to return.
+MASTER TRACK: near-silence — only a sub-bass heartbeat under the held moment.
+END STATE / STATE-MATCH LOCK (heavy detail — CLIP 4's START IMAGE must reproduce 100%, new angle only): at clip end the whole café is fully oriented toward her and still; warm light pooled on her; Aira self-possessed, ivory blazer, glass-shine hair, knowing almost-smile. CLIP 4 must open in this EXACT fully-turned state (same oriented objects, same pooled light, same wardrobe) — only the angle changes; the snap-back happens within CLIP 4.
+CUT LOGIC: hard ANGLE-CUT to CLIP 4 (full-body low angle at the booth). No motion-match; WORLD STATE matches 100%.
+
+---
+
+## CLIP 4 of 6 — FULL BODY · THREE-QUARTER · SLIGHT LOW ANGLE (opens TURNED = CLIP 3 end; ★ sitting SNAPS everything back)
+
+### START IMAGE (keyframe — turned room, reproduces CLIP 3's END STATE, new angle)
+ANGLE & SHOT SIZE: slight low-angle FULL BODY, three-quarter, as she arrives at a corner booth and begins to sit, the oriented café behind.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: the full ivory blazer, black turtleneck bodysuit, charcoal trousers visible in the sit — identical state.
+FOOTWEAR: patent stilettos crossing at the ankle as she takes the seat.
+EYEWEAR: pocketed.
+ACCESSORIES: gold chain, micro-bag being set on the table, espresso nails, gold studs.
+HAIR: jet-black curtain settling as she sits, ends pooling on her shoulders.
+MAKEUP: polished editorial.
+HANDS & NAILS: one hand placing the micro-bag on the marble table, the other smoothing the blazer as she sits; espresso-brown nails.
+FACIAL MICRO-DYNAMICS: a small private self-satisfied corner-smile — she knows exactly what just happened and it amuses her; eyes soft, lids easy.
+BODY POSTURE & WEIGHT: lowering into the booth with controlled grace, weight transferring onto the seat, spine elegant, breathing.
+KINETIC STILLNESS (8 layers): (1) all turned objects poised to snap back; (2) the micro-bag settling on the table; (3) the hair settling; (4) the blazer smoothing; (5) chest rising; (6) a pendant about to swing to centre; (7) the eucalyptus about to right itself; (8) a slow blink.
+SPATIAL LOGIC: FOREGROUND — the booth table and micro-bag, sharp. MIDGROUND — Aira sitting. BACKGROUND — the still-oriented café about to snap back.
+LIGHTING: KEY — warm pendant light still pooled on her. FILL — warm oak bounce. RIM — warm edge on the hair. PRACTICAL — pendants, espresso bar. SEPARATION — warm café behind. BOUNCE — warm oak under the chin.
+LENS + DOF + BOKEH: 35mm, f/3.5, slight low; Aira sharp, the café reading behind for the snap-back.
+COMPOSITION: vertical 9:16, Aira left-of-centre lowering into the booth, the café spreading right for the snap-back wave.
+SUBJECT FRAMING & POSITION: Aira reads as a complete full-length figure in a three-quarter pose lowering into the corner booth, framed head-to-stilettos from a slightly low angle. Her torso angles toward the seat as she sits. The camera holds a full-body distance, slightly low, eye-ish level; she anchors left-of-centre with the oriented café spreading right. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: the spell about to break — a held breath before the snap.
+COLOUR GRADE: VIVID warm café — rich oak, brass-gold, brick, ivory, espresso. (Matches CLIP 3 END STATE.)
+TEXTURE & MICRO-DETAIL: tufted-leather booth, marble table veining, blazer weave, micro-bag leather grain, the hair's glass-shine.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
+
+### ANIMATION (this clip, ~4s — ★ sitting SNAPS the room back to neutral)
+SHOT TYPE & ANGLE: slight low-angle full body, three-quarter; subject ~60% left-of-centre.
+CAMERA MOVEMENT (CHOREOGRAPHY): a near-static hold letting the snap-back fill the frame — one continuous shot.
+LENS: 35mm, f/3.5.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–1.5s — she lowers into the booth seat with controlled grace.
+- 1.5–2.5s — ★ TRIGGER: her weight hits the seat — and ALL turned objects SNAP back to neutral simultaneously.
+- 2.5–4.0s — she crosses her ankles, sets the bag, settles to serene self-possession.
+FLUIDITY & WEIGHT NOTES: the sit has correct body-weight transfer and cushion-compress; each snap-back has correct momentum and a tiny overshoot-and-settle; all motion eases except the satisfying collective snap.
+FABRIC/HAIR/PROP PHYSICS: chairs whip to neutral and rock a hair past centre then settle; pendants swing to centre with cable physics; flowers right themselves; the cup rotates handle-away; coffee ripples in cups from the collective motion; the bag meets the table with a leather thud.
+FOOTWORK & BODY FLOW: ankles cross, weight settling into the booth.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE SNAP-BACK at 1.5–2.5s — triggered by her weight hitting the seat, every oriented object snaps to neutral at once: chairs, pendants, flowers, the cup — a satisfying collective return, the spell breaking as if nothing happened.
+LIGHTING-IN-MOTION: the concentrated light-corridor disperses back to even ambient warm as objects return.
+DIEGETIC AUDIO: the collective SNAP — a harmonic of chair-scrapes, swing-chimes and flower-rustles all at once like a chord; the bag-thud; café ambience rushing back to full volume; her quiet amused exhale.
+MASTER TRACK: the snap-back gets a single satisfying percussive hit; the bass-and-snap groove resumes warm.
+END STATE / STATE-MATCH LOCK (heavy detail — CLIP 5's START IMAGE must reproduce 100%, new angle only): at clip end the café is fully NEUTRAL again — chairs/pendants/flowers all at rest, ambient warm light even; Aira settled in the booth, ankles crossed, bag on the table, ivory blazer, glass-shine hair, private smile. CLIP 5 must open in this EXACT neutral-café/seated state (same neutral objects, same even light, same wardrobe/pose) — only the angle changes.
+CUT LOGIC: hard ANGLE-CUT to CLIP 5 (medium, seated). No motion-match; WORLD STATE matches 100%.
+
+---
+
+## CLIP 5 of 6 — MEDIUM · FRONT · EYE-LEVEL (settled in the booth; espresso arrives, sips)
+
+### START IMAGE (keyframe — neutral café, reproduces CLIP 4's END STATE, new angle)
+ANGLE & SHOT SIZE: eye-level MEDIUM, chest-up, front; she's settled in the booth, a fresh espresso before her (brought without ordering — the room already knows).
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: the ivory blazer relaxed at the shoulders, black turtleneck, gold chain prominent — identical state.
+FOOTWEAR: out of frame.
+EYEWEAR: pocketed.
+ACCESSORIES: gold chain, espresso nails wrapping the cup, micro-bag on the table, gold studs.
+HAIR: the curtain hair settled, framing her jaw, centre part.
+MAKEUP: polished editorial, warm intimate light.
+HANDS & NAILS: both hands wrapping a small espresso cup at the lower frame — a warm heat-seeking grip, thumbs overlapping; espresso-brown nails.
+FACIAL MICRO-DYNAMICS: pure contentment — an easy smile, eyes soft and warm on the lens, brow relaxed, lips in a gentle satisfied curve as she lifts the cup.
+BODY POSTURE & WEIGHT: a relaxed seated lean, shoulders easy, breathing.
+KINETIC STILLNESS (8 layers): (1) steam curling from the espresso; (2) crema on the surface; (3) the hair settled and still; (4) the blazer breathing; (5) chest rising; (6) the café back to normal bustle behind; (7) a soft pendant glow above the booth; (8) a slow content blink.
+SPATIAL LOGIC: FOREGROUND — the espresso cup, sharp. MIDGROUND — Aira in the booth. BACKGROUND — the warm normal café bustle in soft bokeh.
+LIGHTING: KEY — warm directional pendant key above her. FILL — soft warm bounce. RIM — a warm edge on the hair. PRACTICAL — booth pendant, café lights. SEPARATION — warm bokeh behind. BOUNCE — warm under the jaw.
+LENS + DOF + BOKEH: 50mm, f/2.8; her face and the cup sharp, the café melting to warm bokeh.
+COMPOSITION: vertical 9:16, Aira centre-right, the espresso cup lower-left, the booth cocooning her.
+SUBJECT FRAMING & POSITION: Aira is framed chest-up, front-facing, settled in the booth lifting the espresso, the warm café behind. Her torso squares comfortably to camera. The camera holds a medium distance at eye level; she rides centre-right with the cup lower-left. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: warm contented arrival, the room serving her quietly.
+COLOUR GRADE: VIVID warm café — espresso browns, ivory, gold, warm brick. (Matches CLIP 4 END STATE.)
+TEXTURE & MICRO-DETAIL: espresso crema, steam wisp, ceramic gloss, blazer weave, the hair's glass-shine, gold-chain links.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
+
+### ANIMATION (this clip, ~4s — espresso sip; no new transformation)
+SHOT TYPE & ANGLE: eye-level medium, front; face ~45% centre-right.
+CAMERA MOVEMENT (CHOREOGRAPHY): a very slow push-in building intimacy — one continuous shot.
+LENS: 50mm, f/2.8, shallow.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–1.5s — she lifts the espresso cup with a warm heat-seeking grip.
+- 1.5–2.8s — she brings it to her lips for a slow first sip, eyes closing.
+- 2.8–4.0s — a slow exhale of pleasure through the nose, the smile persisting behind the cup.
+FLUIDITY & WEIGHT NOTES: the cup lifts with correct ceramic weight; the grip is warmth-seeking, no float; the sip is savouring; all motion eases.
+FABRIC/HAIR/PROP PHYSICS: steam curls from the cup and follows its path then rises; the espresso surface wobbles slightly with the motion; the hair settled to full rest.
+FOOTWORK & BODY FLOW: a relaxed seated ease.
+MID-CLIP TRANSFORMATION (timed): NONE — a contented beat in the neutral café (the magic has settled).
+LIGHTING-IN-MOTION: warm and steady; the cup's steam catches a backlight wisp.
+DIEGETIC AUDIO: the cup lift (ceramic-on-saucer scrape); a tiny espresso-surface wobble; her small quiet sip; a contented exhale; full café ambience restored — clinks, murmur, soft music.
+MASTER TRACK: the warm sax/trumpet motif settles into contentment over the bass.
+END STATE / STATE-MATCH LOCK (heavy detail — CLIP 6's START IMAGE must reproduce 100%, then RESET): at clip end Aira sits content in the neutral café, espresso in hand, ivory blazer, glass-shine hair. CLIP 6 must open by RESETTING to the café-entrance — she rises and returns to the door, the café neutral, restoring the CLIP-1 opening.
+CUT LOGIC: hard ANGLE-CUT to CLIP 6 (wide front at the door). No motion-match; state resets to CLIP 1.
+
+---
+
+## CLIP 6 of 6 — WIDE · FRONT · EYE-LEVEL (back at the door; reset → loop to CLIP 1)
+
+### START IMAGE (keyframe — café neutral, doors opening, reproduces CLIP 1's opening)
+ANGLE & SHOT SIZE: eye-level WIDE from inside the café looking toward the glass door; Aira full body mid-stride pushing through again, hand on the brass handle — the opening angle restored.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: the ivory blazer, black turtleneck bodysuit, charcoal trousers, gold-buckle belt — matched to CLIP 1.
+FOOTWEAR: patent stilettos mid-stride — matched.
+EYEWEAR: cat-eye sunglasses pushed back up on the head — matched to CLIP 1.
+ACCESSORIES: gold chain, micro-bag on the forearm, espresso nails, gold studs — matched.
+HAIR: long jet-black curtain hair, centre part, glass-shine, swinging forward — matched to CLIP 1.
+MAKEUP: polished editorial — matched.
+HANDS & NAILS: right hand on the brass door handle, pushing through; espresso-brown nails.
+FACIAL MICRO-DYNAMICS: cool arrived confidence, chin level, lips power-calm — the exact opening face.
+BODY POSTURE & WEIGHT: a forward stride mid-step, weight transferring, shoulders square — mirror of CLIP 1.
+KINETIC STILLNESS (8 layers): (1) the glass door swinging; (2) daylight slashing in; (3) the curtain hair swinging; (4) the micro-bag swaying; (5) chest rising; (6) the nearest chair neutral (not yet turned); (7) pendants centred; (8) a slow blink — matched to CLIP 1.
+SPATIAL LOGIC: FOREGROUND — neutral café tables and chairs. MIDGROUND — the door and Aira entering. BACKGROUND — the marble bar and brick — matched to CLIP 1.
+LIGHTING: KEY — warm brass-pendant interior. FILL — oak/brick bounce. RIM — daylight slash from the door. PRACTICAL — pendants, espresso bar. SEPARATION — bright door-light behind her. BOUNCE — warm oak under the chin — matched to CLIP 1.
+LENS + DOF + BOKEH: 35mm, f/4 — matched establishing depth to CLIP 1.
+COMPOSITION: vertical 9:16, Aira dead-centre entering, door-frame and café converging, daylight halo behind — identical to CLIP 1 so the reel loops.
+SUBJECT FRAMING & POSITION: Aira reads as a complete full-length figure mid-stride entering through the door, framed head-to-stilettos, body squared near-front as she pushes in. The camera holds the identical wide establishing distance at eye level from inside the café; she anchors dead-centre with the neutral café behind — exactly rhyming with CLIP 1 so the loop is seamless. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: the charged hush of the entrance resuming — ready to begin again.
+COLOUR GRADE: VIVID warm café — oak, brass-gold, brick, ivory pop, espresso — matched to CLIP 1.
+TEXTURE & MICRO-DETAIL: blazer weave, patent gloss, brass-handle scratches, the hair's glass-shine, gold-chain links, marble veining — matched.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
+
+### ANIMATION (this clip, ~4s — pushes through; loop close)
+SHOT TYPE & ANGLE: eye-level wide, front; subject ~40% dead-centre — matched to CLIP 1.
+CAMERA MOVEMENT (CHOREOGRAPHY): the camera holds the static CLIP-1 establishing framing as she pushes through.
+LENS: 35mm, f/4 — matched.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–1.5s — she rises from the booth and crosses back to the door (implied), arriving at the handle.
+- 1.5–2.5s — she pushes the glass door open, weight forward mid-stride.
+- 2.5–4.0s — her foot nears the threshold, the café neutral — exactly matching the CLIP-1 opening pose.
+FLUIDITY & WEIGHT NOTES: door weight, hair swing, heel-strike all matching CLIP 1's physics; everything returns to the opening.
+FABRIC/HAIR/PROP PHYSICS: the door swings with heavy-glass inertia; the hair swings with delay; the café holds neutral (no turning yet).
+FOOTWORK & BODY FLOW: a decisive stride toward the threshold — the CLIP-1 entrance.
+MID-CLIP TRANSFORMATION (timed): the magic RESETS — café fully neutral; the next loop re-triggers the turn as her foot next crosses the threshold (the start of CLIP 1).
+LIGHTING-IN-MOTION: the daylight slash returns as the door opens — matched to CLIP 1.
+DIEGETIC AUDIO: the heavy door push (whoosh and brass click); a heel-strike; café murmur at normal volume; daylight entering — back to the CLIP-1 bed.
+MASTER TRACK: the score strips to the opening sub-bass pulse, looping cleanly.
+END STATE / STATE-MATCH LOCK: clip ends in the EXACT door-entrance state and wide angle of CLIP 1's START IMAGE — neutral café, wardrobe and confident expression matched, so the reel loops seamlessly.
+CUT LOGIC: ANGLE-CUT / LOOP back to CLIP 1; the next pass re-triggers the room turning toward her as she crosses the threshold.
+
+### ☆ EXTERNAL AUDIO — BLOCK 1: BACKGROUND SOUND DESIGN / AMBIENCE BED — B-2
+*The layered foley + ambience to lay UNDER the reel, separate from the in-clip diegetic audio — timed to the clips.*
+- Base bed (all clips): a warm artisan-café ambience — low murmur, cup-clinks, a soft espresso-machine hiss, gentle background music far off.
+- Trigger stamp (entry): a heavy glass-door whoosh + brass click; a sharp decisive heel-strike on the threshold.
+- CLIP 1–2 (the turn): the subtle creak/scrape of pivoting chairs; soft chimes from swinging pendants; a paused espresso-drip; the café murmur DIPPING in volume as she enters.
+- CLIP 3 (magnetic look): near-silence — murmur fully hushed; a single soft low heartbeat-thud.
+- CLIP 4 (snap-back): the satisfying collective SNAP — chair-scrapes, swing-chimes, flower-rustles all at once like a chord; a leather bag-thud; café murmur RUSHING back to full.
+- CLIP 5 (espresso): a ceramic cup-scrape; a tiny surface-wobble; a small sip.
+- CLIP 6 (reset): the door whoosh and heel-strike returning to the CLIP-1 level.
+- Mix note: the murmur's volume is a character — it dips on entry, hushes at the close-up, rushes back on the snap; loops cleanly at ~26s.
+
+### ☆ EXTERNAL AUDIO — BLOCK 2: BACKGROUND MUSIC / SCORE TRACK — B-2 (lay under the sound bed)
+- Genre / vibe: a slow-burn cinematic bass-driven groove — confident, magnetic, minimal. Runway music meets film score.
+- Tempo / key: ~95 BPM, D minor, deep and luxe.
+- Core elements: a deep sub-bass pulse; a crisp finger-snap on the 2 and 4 (matching her heels); a warm muted-trumpet/sax motif (short, cool); a cinematic string swell for the close-up; sparse, leaving room for diegetic.
+- Arc: bass pulse on the threshold-cross (CLIP 1) → snap and motif build through the walk (CLIP 2) → near-silence at the close-up (CLIP 3 — only a sub-bass heartbeat) → a satisfying percussive hit on the snap-back (CLIP 4) → warm sax settles into contentment (CLIP 5) → strips to the opening bass pulse (CLIP 6 loop).
+- Texture note: keep stripped and confident — her walk has its own soundtrack.
+- Loop: a clean ~26s loop matching the visual loop point.
+
+---
+
+# CONCEPT B-3 — THE MUSIC CHANGED
+
+Title: World-Reacts Hero — a kitchen that shape-shifts genre with each song-skip.
+Category / Format: Playful lifestyle reel (modern kitchen that morphs aesthetic) · SPOKEN (one light English aside, natural Indian accent) · CLIP-CHAIN, ANGLE-CUT edit · MULTI-CHANGE (each song-skip morphs the kitchen's entire world to match the genre).
+Story Idea: Aira cooks in a clean modern kitchen, skipping tracks on a propped phone. Each skip morphs the WHOLE kitchen to match the genre — jazz turns it a moody amber club, pop makes it candy-bright with confetti, classical makes it a gilded palace — all around her while she just cooks, until the palace pomp cracks her into a real laugh.
+Setting: a clean bright modern kitchen (white subway tile, oak shelves, simmering pot, terracotta herb pots, a propped phone, a speaker). It morphs aesthetic completely with each genre: jazz-club, pop-candy, classical-palace, then reverts.
+Wardrobe: a fitted burnt-orange ribbed knit top, high-waist cream wide-leg linen pants, a small linen apron tied at the waist; modest, cosy.
+Footwear: simple white canvas slip-ons — constant.
+Eyewear: none.
+Accessories: thin gold hoops, a woven bracelet, warm berry glossy short nails, a wooden cooking spoon.
+Hair: two low pigtail braids, glossy black, tied with thin black silk ribbons, ends at the collarbone — constant.
+Makeup: fresh natural glow — luminous skin, soft warm lip, real pores; retinted by each genre's light.
+Hero Movement / Impossible Move: each song-skip morphs the entire kitchen's aesthetic and light to match the music's genre; the world changes, she just cooks.
+Transformation Trigger (signature, consistent): TAPPING SKIP ON THE PHONE — each thumb-tap on the propped phone triggers the next genre-morph; the change begins on the tap and resolves by the clip's end. Same trigger every clip.
+Mood: PLAYFUL — delight, then a real laugh.
+Grade: VIVID per genre — moody saturated amber-and-midnight-blue (jazz), candy pink-and-cyan (pop), gilded gold-and-marble (classical), warm-neutral (reset); her burnt-orange top the warm constant anchor; rich blacks, full mid-tone.
+Duration: ~28 seconds · 6 clips (angle-cut chain).
+Voice: SPOKEN — one light aside near the break-character beat; otherwise the genre music + diegetic.
+Identity safety: AIRA adult; wardrobe modest; mood playful and warm, never sexualized.
+State chain (angle-cut): CLIP 1 wide [neutral kitchen → skip → JAZZ club] → CUT → CLIP 2 three-quarter profile [opens JAZZ → skip → POP candy] → CUT → CLIP 3 close-up [opens POP → skip → CLASSICAL palace] → CUT → CLIP 4 medium [opens PALACE, regal, spoken aside] → CUT → CLIP 5 three-quarter [breaks into a laugh, kitchen reverts] → CUT → CLIP 6 wide [neutral kitchen, reaches to skip = CLIP 1, loop].
+
+---
+
+## CLIP 1 of 6 — WIDE · THREE-QUARTER FRONT · EYE-LEVEL (neutral kitchen; ★ skip → JAZZ club)
+
+### START IMAGE (keyframe — neutral modern kitchen)
+ANGLE & SHOT SIZE: eye-level WIDE; Aira full body at a kitchen island mid-cooking, a phone propped on a small stand, one hand reaching to skip a track.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: the fitted burnt-orange ribbed knit top, high-waist cream wide-leg linen pants, a small linen apron tied at the waist; fresh and cosy.
+FOOTWEAR: simple white canvas slip-ons, relaxed.
+EYEWEAR: none.
+ACCESSORIES: thin gold hoops, a woven bracelet, berry glossy short nails, a wooden cooking spoon in the non-phone hand.
+HAIR: two low pigtail braids, glossy black, thin black silk ribbons, ends at the collarbone, one braid swinging as she reaches.
+MAKEUP: fresh natural glow — luminous skin, soft warm lip, real pores.
+HANDS & NAILS: her right thumb hovering over the phone screen about to tap skip, the left holding the wooden spoon resting on the counter; berry glossy nails.
+FACIAL MICRO-DYNAMICS: easy concentration — eyes on the phone, brow slightly furrowed in a "not this song" way, lips pressed in mild thought.
+BODY POSTURE & WEIGHT: a relaxed lean toward the island, weight on one hip, shoulders easy, spine long, breathing.
+KINETIC STILLNESS (8 layers): (1) the pot simmering with rising steam; (2) bright neutral daylight steady on the tile; (3) a braid swaying as she reaches; (4) herbs stirring in a window draft; (5) chest rising; (6) the phone screen glowing; (7) the spoon resting on the counter edge; (8) a slow blink.
+SPATIAL LOGIC: FOREGROUND — the phone on its stand and her thumb, sharp. MIDGROUND — Aira at the island. BACKGROUND — the clean modern kitchen with simmering pot, oak shelves, window.
+LIGHTING: KEY — warm bright afternoon daylight from a window. FILL — soft bounce off white tile. RIM — a soft edge on the braids. PRACTICAL — warm under-cabinet strips. SEPARATION — bright window behind. BOUNCE — warm counter kick under the chin.
+LENS + DOF + BOKEH: 35mm, f/4, deep; the kitchen legible, soft window fall-off.
+COMPOSITION: vertical 9:16, Aira on the right-third at the island, the neutral kitchen filling the left two-thirds, the phone the focal action-point at centre.
+SUBJECT FRAMING & POSITION: Aira reads as a complete full-length figure at the island, framed head-to-slip-ons, her torso in a gentle three-quarter toward the island so her face is near-front while she reaches for the phone. The camera holds a wide establishing distance at eye level; she anchors the right-third with the kitchen opening to frame-left. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: a bright easy afternoon of cooking, the moment before the music transforms everything.
+COLOUR GRADE: VIVID warm-neutral — the burnt-orange top and berry nails the saturated anchors, clean bright tile, warm wood; glossy, full mid-tone.
+TEXTURE & MICRO-DETAIL: ribbed-knit texture, linen-apron weave, subway-tile grout, simmering-pot bubbles, glossy braids, phone-screen glow, berry nail gloss.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
+
+### ANIMATION (this clip, ~5s — neutral; ★ skip TRIGGERS morph to JAZZ club)
+SHOT TYPE & ANGLE: eye-level wide, three-quarter front; subject ~40% right-third.
+CAMERA MOVEMENT (CHOREOGRAPHY): a slow push-in toward the phone — one continuous shot.
+LENS: 35mm, f/4, deep.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–1.5s — she leans toward the phone, a mild "not this song" furrow.
+- 1.5–2.5s — ★ TRIGGER: her thumb taps SKIP — decisive.
+- 2.5–5.0s — on the tap, the kitchen morphs into a moody JAZZ CLUB around her; she gives a slow sultry shoulder-sway and a lazy stir, vibing.
+FLUIDITY & WEIGHT NOTES: the tap leads; the shoulder-sway eases in; she settles into the genre, never startled; all motion eases.
+FABRIC/HAIR/PROP PHYSICS: braids sway with the shoulder-sway at correct pendulum delay; the spoon stirs with real liquid resistance; haze drifts with convection as the club forms.
+FOOTWORK & BODY FLOW: an easy weight-sway to the emerging rhythm.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ GENRE-MORPH NEUTRAL→JAZZ at 1.5–4.5s, triggered by the skip. The clean kitchen morphs: white tiles deepen to midnight-blue, shelves dissolve into smoky shadow, the window becomes a glowing amber lamp, atmospheric haze drifts in, the stove-light becomes a warm amber spot, a suggestion of brass instruments hangs in shadow — a jazz-club kitchen. Warm amber spot-light replaces the bright daylight.
+LIGHTING-IN-MOTION: bright neutral daylight morphs to a moody amber single-spot with deep shadows and haze-beams.
+DIEGETIC AUDIO: a simmering pot; a faint ending track; the phone tap; a beat of silence; then smooth jazz fills the space — upright bass, brushed snares, a warm muted trumpet.
+MASTER TRACK: (this concept IS about music) — the jazz section: upright bass, brushed drums, muted-trumpet solo, warm Rhodes.
+END STATE / STATE-MATCH LOCK (heavy detail — CLIP 2's START IMAGE must reproduce 100%, new angle only): at clip end the kitchen is a full JAZZ CLUB — midnight-blue surfaces, smoky shadow shelves, an amber-lamp window, drifting haze, a warm amber spot, brass-instrument shadows; Aira mid-sway with the wooden spoon, burnt-orange top glowing amber, braids. CLIP 2 must open in this EXACT jazz-club world (same midnight-blue, same haze, same amber spot, same wardrobe) — only the camera angle changes.
+CUT LOGIC: hard ANGLE-CUT to CLIP 2 (three-quarter profile, stirring). No motion-match; WORLD STATE matches 100%.
+
+---
+
+## CLIP 2 of 6 — MEDIUM · FULL PROFILE · EYE-LEVEL (opens JAZZ = CLIP 1 end; ★ skip → POP candy)
+
+### START IMAGE (keyframe — jazz club, reproduces CLIP 1's END STATE, new angle)
+ANGLE & SHOT SIZE: eye-level MEDIUM, clean full side-profile, stirring the pot in the moody jazz-club kitchen.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: the burnt-orange knit top in profile glowing deep amber, cream pants, apron — identical state (transformed only by light).
+FOOTWEAR: white slip-ons in a warm amber pool.
+EYEWEAR: none.
+ACCESSORIES: gold hoops catching amber, woven bracelet, berry nails on the spoon.
+HAIR: the low braids in side silhouette, amber side-lit, ribbons.
+MAKEUP: fresh glow, retinted smoky amber.
+HANDS & NAILS: the wooden spoon stirring the pot in a slow lazy circle, the other hand resting on the hip; berry nails.
+FACIAL MICRO-DYNAMICS: smoky calm — lids heavy, a slow sultry corner-smile, chin slightly down, feeling the jazz.
+BODY POSTURE & WEIGHT: a relaxed profile stir, hip cocked, shoulders swaying gently, breathing.
+KINETIC STILLNESS (8 layers): (1) atmospheric haze billowing in beams; (2) the amber spot narrowing; (3) braids swaying with the shoulder-sway; (4) steam off the pot; (5) chest rising; (6) brass-instrument shadows shifting; (7) the apron tie drifting; (8) a slow heavy blink.
+SPATIAL LOGIC: FOREGROUND — the pot and rising steam, soft. MIDGROUND — Aira in profile stirring. BACKGROUND — the smoky jazz-club kitchen in deep midnight-blue shadow.
+LIGHTING: KEY — a moody amber spot from one side. FILL — deep shadow. RIM — a warm edge on the profile and braid. PRACTICAL — the amber-lamp window, the stove-spot. SEPARATION — the warm spot vs midnight-blue shadow. BOUNCE — warm amber under the jaw.
+LENS + DOF + BOKEH: 50mm, f/2.8; her profile sharp, the club haze creating natural diffusion, deep bokeh.
+COMPOSITION: vertical 9:16, profile facing frame-right stirring, the moody club filling the rest, haze-beams as leading lines.
+SUBJECT FRAMING & POSITION: Aira is shown in clean full profile from the waist up, framed medium, stirring the pot in the jazz-club kitchen. Her torso is square in profile, hip cocked. The camera holds a medium distance at eye level; she rides slightly left so the club opens to frame-right. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: smoky late-night jazz warmth, drowsy and cool.
+COLOUR GRADE: VIVID — deep saturated amber + midnight-blue + warm shadow; rich, not muddy. (Matches CLIP 1 END STATE.)
+TEXTURE & MICRO-DETAIL: haze beams, knit-top amber sheen, wooden-spoon grain, steam, glossy braids, brass-shadow suggestion.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
+
+### ANIMATION (this clip, ~5s — opens JAZZ; ★ skip → POP candy, ends in pop)
+SHOT TYPE & ANGLE: eye-level medium profile; subject ~55% left-of-centre.
+CAMERA MOVEMENT (CHOREOGRAPHY): a slow lateral track holding the profile — one continuous shot.
+LENS: 50mm, f/2.8, shallow.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–1.5s — she sways her shoulders to the jazz, a slow lazy stir.
+- 1.5–2.5s — ★ TRIGGER: she reaches and taps SKIP again.
+- 2.5–5.0s — on the tap, the kitchen snaps from moody jazz into bright POP candy; her expression jumps from sultry to playful, a head-bob arriving.
+FLUIDITY & WEIGHT NOTES: the mood-transition is fluid — sultry melting to playful, not a hard cut; the tap leads; all motion eases.
+FABRIC/HAIR/PROP PHYSICS: haze clears and confetti-dots appear with light paper-drift; braids swing with the head-bob; the colour-wash sweeps across surfaces like a light bloom.
+FOOTWORK & BODY FLOW: a weight-shift from sultry sway into a bouncy head-bob.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ GENRE-MORPH JAZZ→POP at 1.5–4.5s, triggered by the skip. The haze clears, midnight-blue flips to candy-pink walls and electric-cyan accents, glossy surfaces, confetti-dots drifting, the window projecting a sunny animation, cookbooks becoming bright geometric shapes, a disco-ball scatter from the light — maximum pop-candy. Bright flat high-key light replaces the moody spot.
+LIGHTING-IN-MOTION: moody amber morphs to bright flat candy-coloured high-key (pink one side, cyan the other), disco-dots scattering.
+DIEGETIC AUDIO: the jazz fading; the tap; a beat of silence; then a bright pop beat drops — synths, claps, a catchy vocal hook; a delighted gasp.
+MASTER TRACK: the pop section — bright synth chords, a clap-snap beat, a vocal-chop hook, bubbly bass.
+END STATE / STATE-MATCH LOCK (heavy detail — CLIP 3's START IMAGE must reproduce 100%, new angle only): at clip end the kitchen is full POP CANDY — candy-pink walls, electric-cyan accents, glossy surfaces, drifting confetti, disco-dots, bright high-key; Aira mid head-bob, burnt-orange top now vivid coral in the light, braids bouncing. CLIP 3 must open in this EXACT pop world (same pink/cyan, same confetti, same bright light, same wardrobe) — only the angle changes.
+CUT LOGIC: hard ANGLE-CUT to CLIP 3 (close-up). No motion-match; WORLD STATE matches 100%.
+
+---
+
+## CLIP 3 of 6 — CLOSE-UP · FRONT · EYE-LEVEL (opens POP = CLIP 2 end; ★ skip → CLASSICAL palace)
+
+### START IMAGE (keyframe — pop candy, reproduces CLIP 2's END STATE, new angle)
+ANGLE & SHOT SIZE: eye-level CLOSE-UP, face and shoulders, front, the pop-candy kitchen bright behind.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: the burnt-orange top neckline, now lit vivid near-coral, apron strap — identical state.
+FOOTWEAR: out of frame.
+EYEWEAR: none.
+ACCESSORIES: gold hoops reflecting pink, woven bracelet catching cyan, berry nails on the phone, ribbons.
+HAIR: the low braids framing the face, bouncing, lit pink-and-cyan.
+MAKEUP: fresh glow, retinted candy-bright.
+HANDS & NAILS: her thumb on the phone screen, bright and glossy under her nail; berry nails.
+FACIAL MICRO-DYNAMICS: playful pop-energy — eyes wide, brows lifted, a big genuine grin showing teeth, cheeks lifted, a head-bob to the beat.
+BODY POSTURE & WEIGHT: a bouncy front-facing bob, shoulders loose, alive.
+KINETIC STILLNESS (8 layers): (1) confetti-dots drifting; (2) disco-dots scattering across her; (3) braids bouncing; (4) the apron shifting; (5) chest rising on a laugh-breath; (6) candy walls glowing behind; (7) a cyan glint in the hoop; (8) a quick delighted blink.
+SPATIAL LOGIC: FOREGROUND — soft confetti-dots. MIDGROUND — her grinning face, sharp. BACKGROUND — the pop-candy kitchen in bright bokeh.
+LIGHTING: KEY — bright flat candy-colour key (pink/cyan). FILL — even and high. RIM — a cyan edge on the braids. PRACTICAL — sunny window-animation, disco scatter. SEPARATION — bright candy behind the face. BOUNCE — pink kick on the jaw.
+LENS + DOF + BOKEH: 85mm, f/2.0; her face sharp, the candy world soft but vivid behind.
+COMPOSITION: vertical 9:16, her face dead-centre, the colour-world wave behind.
+SUBJECT FRAMING & POSITION: Aira is framed in a close-up, face and shoulders, front-facing dead-on, mid head-bob. She sits dead-centre, the pop kitchen bright behind. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: pure candy-bright fun, infectious energy.
+COLOUR GRADE: MAXIMUM POP — saturated pink, cyan, coral, berry, confetti-rainbow; candy-bright, electric. (Matches CLIP 2 END STATE.)
+TEXTURE & MICRO-DETAIL: confetti paper, disco-scatter on skin, glossy braids, real pores under bright light, phone-screen gloss.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
+
+### ANIMATION (this clip, ~5s — opens POP; ★ skip → CLASSICAL palace, ends in palace)
+SHOT TYPE & ANGLE: eye-level close-up; face ~80% dead-centre.
+CAMERA MOVEMENT (CHOREOGRAPHY): a static hold, letting the morph happen around her — one continuous shot.
+LENS: 85mm, f/2.0, shallow.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–1.5s — she head-bobs to the pop beat, grinning.
+- 1.5–2.5s — ★ TRIGGER: her thumb taps SKIP.
+- 2.5–5.0s — on the tap, the kitchen morphs into a gilded CLASSICAL palace; her expression shifts from playful grin to composed regal grace (a fluid melt), spine straightening, chin lifting.
+FLUIDITY & WEIGHT NOTES: the grin melts into regal composure fluidly; the tap leads; all motion eases.
+FABRIC/HAIR/PROP PHYSICS: confetti vanishes; marble veins spread and gold appears; a chandelier's crystals sway and throw prismatic light; braids settle formal; the colour-wash morphs gold.
+FOOTWORK & BODY FLOW: from a bouncy bob into a poised, upright stillness.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ GENRE-MORPH POP→CLASSICAL at 1.5–4.5s, triggered by the skip. The candy kitchen morphs to palace-grand: tiles become white marble with gold veining, shelves become carved gilt, a crystal chandelier replaces the pendant, the window becomes a tall arched palace window onto formal gardens, gold accents everywhere — warm golden chandelier light replaces the bright candy key.
+LIGHTING-IN-MOTION: bright candy high-key morphs to warm golden chandelier light from above, prismatic crystal-scatter dots appearing.
+DIEGETIC AUDIO: the pop fading; the tap; a beat; then a classical orchestral swell — strings, harp, a french-horn motif; a chandelier tinkle; a palace-reverb on the room tone.
+MASTER TRACK: the classical section — full strings, harp arpeggios, french horn, a grand piano.
+END STATE / STATE-MATCH LOCK (heavy detail — CLIP 4's START IMAGE must reproduce 100%, new angle only): at clip end the kitchen is a gilded CLASSICAL PALACE — white-and-gold marble, carved gilt shelves, a crystal chandelier, an arched garden window, warm golden light, prismatic scatter; Aira composed and regal, burnt-orange top reading rich, braids formal. CLIP 4 must open in this EXACT palace world (same marble/gold, same chandelier, same golden light, same wardrobe) — only the angle changes.
+CUT LOGIC: hard ANGLE-CUT to CLIP 4 (medium, regal). No motion-match; WORLD STATE matches 100%.
+
+---
+
+## CLIP 4 of 6 — MEDIUM · THREE-QUARTER FRONT · SLIGHT LOW ANGLE (opens PALACE = CLIP 3 end; regal, ★ SPOKEN aside)
+
+### START IMAGE (keyframe — palace, reproduces CLIP 3's END STATE, new angle)
+ANGLE & SHOT SIZE: slight low-angle MEDIUM, chest-up, three-quarter front; she holds the wooden spoon upright like a sceptre with exaggerated poise, the gilded palace kitchen around her.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: the burnt-orange knit top reading regal in golden light, cream pants, apron now like formal linen — identical state.
+FOOTWEAR: out of frame.
+EYEWEAR: none.
+ACCESSORIES: gold hoops reading as small court earrings, woven bracelet, berry nails on the spoon-sceptre.
+HAIR: the low braids formal, gold-lit, ribbons like court accents.
+MAKEUP: fresh glow, gilded.
+HANDS & NAILS: she holds the wooden spoon upright like a sceptre, pinky lifted, wrist elegant; berry nails.
+FACIAL MICRO-DYNAMICS: regal calm — chin lifted, lids half-lowered with composed grace, a dignified close-lipped smile, brow smooth — suddenly royalty, with a flicker of self-aware amusement.
+BODY POSTURE & WEIGHT: spine straight, shoulders back, weight even, regal poise, breathing.
+KINETIC STILLNESS (8 layers): (1) chandelier crystals swaying, throwing prismatic dots; (2) golden light pooling on marble; (3) braids formal and still; (4) the apron-linen drifting; (5) chest rising; (6) the arched garden window glowing; (7) a prismatic scatter on her cheek; (8) a slow dignified blink.
+SPATIAL LOGIC: FOREGROUND — the spoon-sceptre, sharp. MIDGROUND — Aira regal. BACKGROUND — the gilded palace kitchen, chandelier, garden window.
+LIGHTING: KEY — warm golden chandelier light from above. FILL — multiple soft gilt-bounces. RIM — a gold edge on the braids. PRACTICAL — chandelier, garden window. SEPARATION — bright garden window behind. BOUNCE — gold under the chin.
+LENS + DOF + BOKEH: 50mm, f/2.8; her sharp, the palace gilt melting to warm prismatic bokeh.
+COMPOSITION: vertical 9:16, Aira centre, the palace radiating grandeur, chandelier above as a crown.
+SUBJECT FRAMING & POSITION: Aira is framed chest-up in a three-quarter front, slightly low angle, holding the spoon-sceptre with regal poise. Her torso squares grandly to camera. The camera holds a medium distance, slightly low; she rides centre with the palace around her. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: opulent palace pomp, grand and faintly absurd.
+COLOUR GRADE: VIVID — saturated gold + cream + marble-white + berry + deep garden-green; opulent. (Matches CLIP 3 END STATE.)
+TEXTURE & MICRO-DETAIL: marble veining, gilt carving, crystal-prism scatter, wooden-spoon grain, glossy formal braids, gold-lit skin.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
+
+### ANIMATION (this clip, ~4s — regal poise; ★ SPOKEN aside; no new genre-change)
+SHOT TYPE & ANGLE: slight low-angle medium, three-quarter front; subject ~50% centre.
+CAMERA MOVEMENT (CHOREOGRAPHY): a slow push-in, regal and deliberate — one continuous shot.
+LENS: 50mm, f/2.8, shallow.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–1.5s — she straightens her spine, lifts her chin, raises the spoon-sceptre with exaggerated grace.
+- 1.5–2.8s — ★ SPOKEN BEAT: as the line lands, dry and self-aware — "...this is a bit much, even for me." — a dignified close-lipped smile cracking at the corner.
+- 2.8–4.0s — a regal slow blink, the self-amusement growing under the composure.
+FLUIDITY & WEIGHT NOTES: the sceptre rises with deliberate poise (grip shifts casual→formal, pinky up); the line lands with a flicker of a smile; all motion eases.
+FABRIC/HAIR/PROP PHYSICS: chandelier crystals sway and throw moving prismatic dots; the apron-linen drifts; the braids hold formal.
+FOOTWORK & BODY FLOW: a poised, grounded stillness.
+MID-CLIP TRANSFORMATION (timed): NONE new — the palace holds; this is the regal/spoken beat before the break-character revert in CLIP 5.
+LIGHTING-IN-MOTION: golden chandelier light steady; prismatic crystal-scatter dancing across her and the marble.
+DIEGETIC AUDIO: the classical swell (strings, harp, french horn); the chandelier tinkle; her dry spoken aside (close, natural Indian accent); a palace-reverb room tone.
+MASTER TRACK: the classical section at its grandest under the spoken line, which sits in a small orchestral lull.
+END STATE / STATE-MATCH LOCK (heavy detail — CLIP 5's START IMAGE must reproduce 100%, new angle only): at clip end the palace holds full and gilded; Aira regal with the spoon-sceptre, self-amusement breaking through, burnt-orange top, formal braids. CLIP 5 must open in this EXACT palace state (same gilt/marble, same chandelier, same wardrobe/pose) — only the angle changes; the revert happens within CLIP 5.
+CUT LOGIC: hard ANGLE-CUT to CLIP 5 (three-quarter, knees-up). No motion-match; WORLD STATE matches 100%.
+
+---
+
+## CLIP 5 of 6 — MEDIUM-FULL · THREE-QUARTER · EYE-LEVEL (opens PALACE = CLIP 4 end; ★ breaks into a laugh, kitchen reverts)
+
+### START IMAGE (keyframe — palace, reproduces CLIP 4's END STATE, new angle)
+ANGLE & SHOT SIZE: eye-level MEDIUM-FULL, knees-up, three-quarter; she breaks character into a genuine laugh, the palace beginning to revert to the normal kitchen.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: the burnt-orange top and cream pants returning to their normal reading as the gold light fades — identical state.
+FOOTWEAR: white slip-ons, one foot turned out from the laugh.
+EYEWEAR: none.
+ACCESSORIES: gold hoops, woven bracelet, berry nails reading normal again as gilt fades.
+HAIR: the braids swinging with the laugh, ribbons loose.
+MAKEUP: fresh glow, transitioning back to neutral.
+HANDS & NAILS: she lowers the spoon-sceptre, clutching it to her chest as she laughs; berry nails.
+FACIAL MICRO-DYNAMICS: a genuine unstoppable laugh — mouth open, eyes crinkled, cheeks high, nose scrunched, one hand to her chest; the regal mask melting into authentic joy (fluid, not a cut).
+BODY POSTURE & WEIGHT: bent slightly forward in the laugh, shoulders shaking, weight easy, alive.
+KINETIC STILLNESS (8 layers): (1) the palace dissolving — chandelier shrinking to a pendant; (2) marble fading to subway tile; (3) braids swinging with the laugh; (4) gilt peeling back to oak shelves; (5) chest heaving with the laugh; (6) the garden window shrinking to normal; (7) the apron settling; (8) a crinkle-eyed blink.
+SPATIAL LOGIC: FOREGROUND — the spoon clutched to her chest, soft. MIDGROUND — Aira laughing. BACKGROUND — the reverting kitchen, palace melting to modern.
+LIGHTING: KEY — fading gold returning to warm afternoon daylight. FILL — soft bounce. RIM — a softening edge on the braids. PRACTICAL — fading chandelier to under-cabinet strips. SEPARATION — transitioning. BOUNCE — warm.
+LENS + DOF + BOKEH: 40mm, f/3.5; Aira sharp, the reverting kitchen reading behind.
+COMPOSITION: vertical 9:16, Aira right-of-centre laughing, the dissolving palace left, the real kitchen reasserting.
+SUBJECT FRAMING & POSITION: Aira reads from the knees up in a three-quarter, bent slightly forward in a laugh, the spoon clutched to her chest. The camera holds a medium-full distance at eye level; she rides right-of-centre with the reverting kitchen to frame-left. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: warm authentic joy breaking the spell.
+COLOUR GRADE: transitioning — gold draining, warm-neutral returning, her burnt-orange top the steady anchor throughout.
+TEXTURE & MICRO-DETAIL: laugh-crinkle skin detail, glossy swinging braids, the spoon grain, gilt-peeling-to-oak, tile reappearing.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
+
+### ANIMATION (this clip, ~4s — ★ breaks into a laugh; kitchen reverts to neutral)
+SHOT TYPE & ANGLE: eye-level medium-full, three-quarter; subject ~55% right-of-centre.
+CAMERA MOVEMENT (CHOREOGRAPHY): a gentle dolly-back as the normal kitchen reasserts — one continuous shot.
+LENS: 40mm, f/3.5.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–1.5s — the laugh breaks — she bends forward, hand to chest, spoon clutched.
+- 1.5–2.8s — ★ the kitchen reverts: chandelier shrinks to a pendant, marble fades to tile, gilt peels to oak — in sync with her laugh.
+- 2.8–4.0s — she straightens, wiping an eye, the laugh settling to a warm grin as the kitchen finishes returning to normal.
+FLUIDITY & WEIGHT NOTES: the revert moves at organic speed (not instant), synced to her laugh; all motion eases.
+FABRIC/HAIR/PROP PHYSICS: the chandelier shrinks and the marble fades with believable morph-speed; braids swing with the laugh-bend; the spoon drops to a natural cooking grip.
+FOOTWORK & BODY FLOW: a laugh-bend then a straightening, weight easy.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ GENRE-REVERT PALACE→NEUTRAL at 1.5–3.5s — as she laughs, the palace dissolves back to the normal modern kitchen: chandelier→pendant, marble→subway tile, gilt→oak, garden window→normal window; warm afternoon daylight returns.
+LIGHTING-IN-MOTION: gold drains; warm afternoon daylight returns; the kitchen clarifies.
+DIEGETIC AUDIO: the classical fading; her genuine warm laugh (musical, authentic); the spoon clatter; the pot bubbling normally; the normal kitchen ambience returning; a final happy sigh.
+MASTER TRACK: the classical thins; a brief warm resolve as the music returns toward the neutral ambient.
+END STATE / STATE-MATCH LOCK (heavy detail — CLIP 6's START IMAGE must reproduce 100%, then loop): at clip end the kitchen is back to its clean modern neutral state — subway tile, oak shelves, simmering pot, window, warm afternoon daylight; Aira straightening from the laugh, burnt-orange top, braids, warm grin softening. CLIP 6 must open in this EXACT neutral kitchen (same tile/oak/pot, same daylight, same wardrobe) — only the angle changes, matching CLIP 1.
+CUT LOGIC: hard ANGLE-CUT to CLIP 6 (wide, the opening angle). No motion-match; state matches CLIP 1.
+
+---
+
+## CLIP 6 of 6 — WIDE · THREE-QUARTER FRONT · EYE-LEVEL (neutral kitchen; reaches to skip → loop to CLIP 1)
+
+### START IMAGE (keyframe — neutral kitchen, reproduces CLIP 1's opening)
+ANGLE & SHOT SIZE: eye-level WIDE; Aira full body at the island, hand reaching for the phone to skip again — the opening angle restored.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: burnt-orange ribbed knit top, cream wide-leg pants, linen apron — matched to CLIP 1.
+FOOTWEAR: white canvas slip-ons — matched.
+EYEWEAR: none.
+ACCESSORIES: thin gold hoops, woven bracelet, berry nails, wooden spoon — matched.
+HAIR: two low pigtail braids, black silk ribbons — matched to CLIP 1.
+MAKEUP: fresh natural glow — matched.
+HANDS & NAILS: right thumb hovering over the phone to skip, left holding the spoon; berry nails.
+FACIAL MICRO-DYNAMICS: easy concentration, a "not this song" brow-furrow softening from the grin — the exact opening face.
+BODY POSTURE & WEIGHT: a relaxed lean toward the island, weight on one hip — mirror of CLIP 1.
+KINETIC STILLNESS (8 layers): (1) the pot simmering; (2) bright neutral daylight; (3) a braid swaying; (4) herbs stirring; (5) chest rising; (6) the phone glowing; (7) the spoon resting; (8) a slow blink — matched to CLIP 1.
+SPATIAL LOGIC: FOREGROUND — the phone and her thumb. MIDGROUND — Aira at the island. BACKGROUND — the clean modern kitchen — matched to CLIP 1.
+LIGHTING: KEY — warm bright afternoon daylight. FILL — tile bounce. RIM — soft braid edge. PRACTICAL — under-cabinet strips. SEPARATION — bright window. BOUNCE — warm counter under the chin — matched to CLIP 1.
+LENS + DOF + BOKEH: 35mm, f/4 — matched establishing depth to CLIP 1.
+COMPOSITION: vertical 9:16, Aira on the right-third at the island, the kitchen filling left, the phone the focal point — identical to CLIP 1 so the reel loops.
+SUBJECT FRAMING & POSITION: Aira reads as a complete full-length figure at the island, framed head-to-slip-ons, torso in the same gentle three-quarter toward the island, face near-front, reaching for the phone. The camera holds the identical wide establishing distance at eye level; she anchors the right-third with the kitchen opening to frame-left — exactly rhyming with CLIP 1 so the loop is seamless. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: the bright easy afternoon resuming — ready to skip again.
+COLOUR GRADE: VIVID warm-neutral — burnt-orange and berry anchors, clean tile, warm wood — matched to CLIP 1.
+TEXTURE & MICRO-DETAIL: ribbed knit, linen weave, tile grout, simmering bubbles, glossy braids, phone glow, berry nails — matched.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
+
+### ANIMATION (this clip, ~4s — reaches to skip; loop close)
+SHOT TYPE & ANGLE: eye-level wide, three-quarter front; subject ~40% right-third — matched to CLIP 1.
+CAMERA MOVEMENT (CHOREOGRAPHY): the camera eases to the exact CLIP-1 establishing framing and settles.
+LENS: 35mm, f/4 — matched.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–1.5s — she sets the spoon down and reaches for the phone, the grin softening to concentration.
+- 1.5–2.8s — the "not this song" furrow returns as her thumb hovers over skip.
+- 2.8–4.0s — she leans toward the phone — the exact CLIP-1 opening pose, ready to tap again.
+FLUIDITY & WEIGHT NOTES: the spoon-set has believable weight; the reach matches CLIP 1; everything returns to the opening.
+FABRIC/HAIR/PROP PHYSICS: braids settle; the spoon rests with correct weight; the pot simmers; everything neutral.
+FOOTWORK & BODY FLOW: weight rolls onto the leaning hip — the CLIP-1 stance.
+MID-CLIP TRANSFORMATION (timed): the kitchen RESETS to neutral; the next loop re-triggers the genre-morphs as she next taps skip (the start of CLIP 1).
+LIGHTING-IN-MOTION: warm afternoon daylight steady — matched to CLIP 1.
+DIEGETIC AUDIO: a fading track; the pot simmer; the spoon set-down; her small "next" breath — back to the CLIP-1 bed.
+MASTER TRACK: the medley resolves to the neutral kitchen ambience, looping cleanly.
+END STATE / STATE-MATCH LOCK: clip ends in the EXACT neutral-kitchen state and wide angle of CLIP 1's START IMAGE — pot, light, wardrobe and concentration matched, so the reel loops seamlessly.
+CUT LOGIC: ANGLE-CUT / LOOP back to CLIP 1; the next pass re-triggers the genre-morphs on the first skip.
+
+### ☆ EXTERNAL AUDIO — BLOCK 1: BACKGROUND SOUND DESIGN / AMBIENCE BED — B-3
+*The layered foley + per-genre ambience to lay UNDER the reel, separate from the in-clip diegetic audio — timed to the clips.*
+- Base bed (all clips): a soft kitchen room-tone; a simmering pot with rising-steam fizz; herbs stirring in a draft.
+- Trigger stamp (every skip): a clean phone-screen tap + a tiny beat of silence before the new genre lands.
+- CLIP 1 (→ jazz): a smoky club room-reverb settling in; a faint vinyl warmth.
+- CLIP 2 (→ pop): a bright room-pop; a confetti-shimmer; a disco scatter tick.
+- CLIP 3 (→ classical): a grand palace-reverb; a chandelier tinkle.
+- CLIP 4 (regal/spoken): the palace reverb under the spoken aside.
+- CLIP 5 (laugh/revert): the morph "un-builds" with a soft reverse-shimmer; a spoon clatter; the normal kitchen ambience returning.
+- CLIP 6 (reset): a fading track; pot simmer; back to the CLIP-1 bed.
+- Mix note: the room's reverb/ambience genre-shifts with each skip (club → bright → palace → normal); loops cleanly at ~28s.
+
+### ☆ EXTERNAL AUDIO — BLOCK 2: BACKGROUND MUSIC / SCORE TRACK — B-3 (the music she is playing)
+- Genre / vibe: this concept IS about music, so the music block is a MEDLEY that shifts genre with the kitchen-morph — the actual tracks she skips to.
+- Tempo / key: shifts — jazz (~100 BPM, Bb minor, swing) → pop (~120 BPM, C major, four-on-floor) → classical (~70 BPM, D major, orchestral) → neutral ambient on the loop.
+- Core elements per section: Jazz — upright bass, brushed snares, muted-trumpet solo, warm Rhodes. Pop — bright synth chords, clap-snap beat, vocal-chop hook, bubbly bass. Classical — full strings, harp arpeggios, french horn, grand piano.
+- Arc: ambient kitchen on CLIP 1 → jazz fills the room (CLIP 1 end–2) → brief silence on the skip → pop drops (CLIPs 2 end–3) → brief silence → classical swells (CLIPs 3 end–4) → the laugh breaks it (CLIP 5) → returns to ambient kitchen on the loop (CLIP 6).
+- Texture note: each genre section sounds complete and authentic, never parody — the joke is the environment morphing, not the music being ironic.
+- Loop: a clean ~28s loop matching the visual loop point.
+
+---
