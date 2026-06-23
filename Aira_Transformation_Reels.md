@@ -1223,3 +1223,201 @@ Deep-space silence as the constant — a vast, pressureless quiet. THROUGH-LINE:
 Celestial, ambient, transcendent. KEY/TEMPO: E minor, ~58 BPM. THE SPINE (constant): a slow ethereal pad with soft female "ah" choir and sparse glassy bell-tones, present throughout. BUILD: the choir swells as the cosmos spreads; a grand string-and-choir apex hits on the CLIP 2 arm-arc (the hero beat); the swell decays as she reforms, drawing back to one glassy bell landing exactly where the reel began — a seamless infinite loop. Vast, sacred, goosebump-level.
 
 ═══════════════════════════════════════════════════════════════════════════════
+
+
+# CONCEPT B-2 — SHE TURNS INTO GOLD
+
+Transforms Into: solid living gold — a Midas-tide of molten gold sweeps over her into a radiant golden figure (still alive, still breathing), holds, then the gold recedes back to flesh.
+Feeling: opulent power / regal luxury — rich, statuesque, jaw-dropping.
+★ HOOK (first ~1s): a macro of molten gold sweeping across her collarbone like a rising tide — then it climbs.
+Setting: a dark marble gallery with a single warm spotlight, baroque shadows, a faint gilded reflection on polished stone.
+Trigger (signature): LIQUID GOLD TOUCHING HER SKIN — a drip from above (or her touching a gilded surface) starts the tide; the gold receding completes the reverse.
+Voice: SILENT — diegetic metal + score only.
+Duration: ~14s · 3 clips (angle-cut, single-magic morph, loops to CLIP 1).
+
+## CLIP 1 of 3 — MACRO→MEDIUM CLOSE-UP · THREE-QUARTER · EYE-LEVEL (human Aira → gilding BEGINS mid-clip)
+
+### START IMAGE (keyframe)
+ANGLE & SHOT SIZE: opens as a MACRO on molten gold sweeping her collarbone, composed as an eye-level MEDIUM CLOSE-UP (chest-up), three-quarter, Aira poised and regal.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: a sculptural ivory-and-gold draped gown with one structured shoulder (modest, high neck), the fabric folds catching warm light, poised to gild.
+FOOTWEAR: out of frame (chest-up).
+EYEWEAR: none.
+ACCESSORIES: bold gold statement earrings, a gold cuff at the wrist, all reading warm against the ivory.
+HAIR: a sleek sculptural updo, jet-black, poised to gild into a golden crown.
+MAKEUP: luminous bronze-gold glam — gilded high-point highlight, a soft defined eye, a glossy bronze lip, real pores catching the spotlight.
+HANDS & NAILS: one hand lifting elegantly near the collarbone, fingers poised; gold-chrome nails.
+FACIAL MICRO-DYNAMICS: regal calm — chin lifted, a serene direct gaze just off-lens, lips closed in composed grace, a slow blink, warm spotlight catchlights.
+BODY POSTURE & WEIGHT: a poised, statuesque stance, weight elegant on one hip, shoulders squared and regal, head high, breathing slow.
+KINETIC STILLNESS (8 layers): (1) molten gold sweeping across the collarbone; (2) the warm spotlight pooling on polished marble; (3) a faint glint travelling the gold earrings; (4) the ivory drape settling; (5) chest rising slowly; (6) a baroque shadow shifting; (7) the first gold-line glinting up the neck; (8) a slow regal blink.
+SPATIAL LOGIC: FOREGROUND — the gilding collarbone and poised hand, tack-sharp. MIDGROUND — Aira three-quarter. BACKGROUND — a dark marble gallery dissolving into warm shadow.
+LIGHTING: KEY — a single warm spotlight from above-front. FILL — deep baroque shadow, minimal. RIM — a gold edge along the updo and shoulder. PRACTICAL — the spotlight, faint gilded reflections. SEPARATION — her warm-lit form against the dark gallery. BOUNCE — a warm gold kick under the jaw.
+LENS + DOF + BOKEH: opens 100mm macro on the gold-sweep (reflectivity sharp), resolving to 85mm f/2.0; gallery melting to warm bokeh.
+COMPOSITION: vertical 9:16, Aira upper-right, the gilding collarbone the focal accent lower-centre, warm dark negative space framing.
+SUBJECT FRAMING & POSITION: Aira reads from the chest up, framed medium-close and regal, her torso at a three-quarter turn so the collarbone and the climbing gold sit toward the lens, her face lifted in serene composure just off-lens. The camera is near at clean eye level, opening on the macro gold-sweep before settling on her poised face; she anchors upper-right so the dark gallery opens to frame-left, the body statuesque and elegant. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: hushed, opulent, museum-grand — the instant before a masterpiece gilds.
+COLOUR GRADE: VIVID gold and warm ivory on near-black, glossy speculars, rich uncrushed blacks — the gold the saturated anchor, never muddy.
+TEXTURE & MICRO-DETAIL: liquid-gold reflectivity and viscosity, skin pores under warm light, the ivory drape's folds, gold-earring glint, bronze-lip gloss, marble sheen.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features (except the intended morph), asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, flat dull gold, crushed blacks, garish oversaturation, flat light.
+
+### ANIMATION (this clip, ~5s — human establishing; ★ gilding BEGINS mid-clip, clip ENDS mid-morph)
+SHOT TYPE & ANGLE: macro-into-eye-level medium close-up, three-quarter; subject ~55% upper-right.
+CAMERA MOVEMENT (CHOREOGRAPHY): a slow pull-back from the gold-macro into the medium close-up, then a gentle continuing push — one continuous shot.
+LENS: 100mm macro easing to 85mm, f/2.0.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–1.8s — she holds a regal poised calm; a single drop of molten gold lands and beads on her collarbone.
+- 1.8–3.0s — ★ TRIGGER: the gold touches and begins to spread; she lifts her chin a touch, serene.
+- 3.0–4.5s — ★ MID-CLIP TRANSFORMATION BEGINS: molten gold sweeps up her neck and across the shoulder like a rising tide, gilding and hardening to polished gold.
+- 4.5–5.0s — the gold reaches her jaw; she is now half-flesh, half-gold, composed and regal.
+FLUIDITY & WEIGHT NOTES: all eases — the chin-lift slow, the gold-tide climbing smoothly, the hardening luminous; her regal stillness against the gilding is the power.
+FABRIC/HAIR/PROP PHYSICS: molten-metal flow with correct viscosity and reflectivity sweeping up, hardening into brushed-then-polished gold with accurate speculars and gallery-reflections; the ivory drape gilds fold by fold; no flat-paint look.
+FOOTWORK & BODY FLOW: a poised, grounded statuesque stillness; only the chin-lift and the climbing gold move.
+MID-CLIP TRANSFORMATION (timed): ★ GILDING ONSET at 3.0–4.5s — triggered by the gold touching her skin, climbing from collarbone to jaw, contained as an onset within this clip; clip ends half-gold.
+LIGHTING-IN-MOTION: as she gilds, the spotlight blazes brighter off the new gold, throwing warm reflections into the dark gallery.
+DIEGETIC AUDIO: a bright metallic chime as the gold lands, a flowing-liquid-metal tone as it sweeps up.
+MASTER TRACK: a slow baroque-tinged string and harpsichord motif, a grand swell beginning at 3.0s.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 2 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the ivory-and-gold drape half-gilded from the shoulders and collar up into solid polished gold, the lower gown still ivory fabric with gold thread.
+  • FOOTWEAR: out of frame.
+  • EYEWEAR: none.
+  • ACCESSORIES: the gold earrings and cuff now reading as part of the gilding, molten-bright.
+  • HAIR: the jet-black updo gilding from the crown into a golden sculptural crown.
+  • MAKEUP: the bronze-gold glam lit hot, gilded highlight blazing, skin gold where transformed, flesh above.
+  • HANDS & NAILS: the lifted hand gilding from the wrist into polished gold, gold-chrome nails part of it.
+  • FACIAL MICRO-DYNAMICS: regal calm, chin lifted, serene gaze just off-lens, lips composed, a slow blink — grace amid the gilding.
+  • BODY POSTURE & WEIGHT: poised and statuesque, the body opening to a fuller three-quarter as the gold climbs, breathing.
+  • KINETIC STILLNESS (8 layers): (1) the gilding line climbing; (2) the spotlight blazing off new gold; (3) the gilding crown forming; (4) the drape gilding fold by fold; (5) chest rising; (6) gallery reflections shifting; (7) gold speculars travelling; (8) a slow blink.
+  • SPATIAL LOGIC: FOREGROUND — the gilding collarbone and hand. MIDGROUND — her half-gold figure. BACKGROUND — dark marble gallery, warm shadow.
+  • LIGHTING: KEY — warm spotlight blazing off gold. FILL — deep baroque shadow. RIM — gold edge. PRACTICAL — spotlight, gilded reflections. SEPARATION — gleaming half-gold form against dark. BOUNCE — warm gold under the jaw.
+  • ATMOSPHERE: opulent power taking hold, museum-grand and composed.
+  • COLOUR GRADE: VIVID radiant gold and warm ivory on near-black, glossy speculars, rich blacks.
+  • TEXTURE & MICRO-DETAIL: polished/brushed gold, fold detail gilding, gallery-reflections, skin pores where flesh, molten speculars.
+CUT LOGIC: hard ANGLE-CUT to CLIP 2 (full body, slight low). No frame-match needed — the angle change is the edit. State carried forward: she is half-gold, gilding upward, regal.
+
+---
+
+## CLIP 2 of 3 — FULL BODY · THREE-QUARTER · SLIGHT LOW ANGLE (★ full LIVING-GOLD FIGURE, the hero beat)
+
+### START IMAGE (keyframe)
+ANGLE & SHOT SIZE: slight low-angle (heroic) FULL BODY, three-quarter; Aira now a complete LIVING-GOLD FIGURE — fully gilded polished gold, still breathing, eyes warm and alive within.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: fully transformed — the gown is now sculptural polished gold, every drape-fold rendered in brushed-and-mirror gold, the structured shoulder a gleaming sculptural peak.
+FOOTWEAR: implied — gold feet on the polished marble, a perfect gilded reflection beneath.
+EYEWEAR: none.
+ACCESSORIES: the earrings and cuff now seamless with the gilding — bright sculptural gold detail.
+HAIR: the updo a golden sculptural crown, each strand in brushed gold catching the spotlight.
+MAKEUP: implied in the gold — the eye and lip suggested in the surface modelling, but the EYES remain warm, living, human within the gold.
+HANDS & NAILS: hands of polished gold, fingers articulated and elegant, the cuff gleaming on the wrist.
+FACIAL MICRO-DYNAMICS: a living statue — the gold face holds regal serenity, but her warm eyes blink slowly and a faint breath moves her chest; uncanny, alive, beautiful.
+BODY POSTURE & WEIGHT: a regal contrapposto in gold — weight on one hip, one gold arm drifting, the figure holding glorious museum-stillness while subtly breathing.
+KINETIC STILLNESS (8 layers): (1) the spotlight gliding over the polished gold; (2) the gilded reflection shimmering on the marble; (3) warm living eyes blinking slowly; (4) a faint breath at the chest; (5) gallery reflections travelling the gold; (6) a glint on the sculptural crown; (7) baroque shadow shifting; (8) the figure subtly alive.
+SPATIAL LOGIC: FOREGROUND — a sharp gold detail (the cuff or shoulder). MIDGROUND — the gold-figure, the hero. BACKGROUND — the dark marble gallery, warm shadow, gilded floor-reflection.
+LIGHTING: KEY — the warm spotlight blazing off the gold, dramatic. FILL — deep baroque shadow. RIM — a bright gold edge against the dark. PRACTICAL — spotlight, gilded marble reflections. SEPARATION — the radiant gold figure against near-black. BOUNCE — warm gold pooling on the floor.
+LENS + DOF + BOKEH: 35mm, f/2.8, slight low; the figure sharp, gallery and reflections as soft warm bokeh.
+COMPOSITION: vertical 9:16, the gold-figure centred and towering from the low angle, the gilded floor-reflection grounding her, dark space framing.
+SUBJECT FRAMING & POSITION: Aira fills the frame head-to-gilded-feet as a complete living-gold figure, her torso at a regal three-quarter so the polished silhouette shows both the serene face and the sculptural curve of the back and shoulder. The camera sits low and mid-distance, tilting up so she rises monument-heroic against the black, her gilded reflection anchoring the lower frame; she holds dead-centre, statuesque and radiant. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: transcendent opulence — a living masterpiece of gold.
+COLOUR GRADE: VIVID radiant gold with warm speculars on near-black — luminous, rich blacks, the gold the saturated anchor.
+TEXTURE & MICRO-DETAIL: polished and brushed gold, drape-fold modelling, gallery-reflections, the living warm eyes, the gilded floor-mirror.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, garbled text, floating shadows, duplicated subjects, plastic look, oversharpened, watermarks, flat dull gold, crushed blacks, garish oversaturation, flat light, dead eyes.
+
+### ANIMATION (this clip, ~5s — the magical hero beat; ★ reform BEGINS at the end)
+SHOT TYPE & ANGLE: slight low-angle full body, three-quarter; subject ~70% centre.
+CAMERA MOVEMENT (CHOREOGRAPHY): a slow reverent orbit a few degrees around her, low and rising — one continuous shot.
+LENS: 35mm, f/2.8, slight low.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–2.0s — the gold-figure holds regal museum-stillness, only her warm eyes blinking and a faint breath moving her, the spotlight gliding over the gold.
+- 2.0–3.0s — one gold arm drifts up in a slow graceful arc, light blazing along the polished surface — the opulent hero beat.
+- 3.0–4.0s — she settles, the gilded reflection shimmering beneath, the gold radiant.
+- 4.0–5.0s — ★ REFORM BEGINS: the gold begins to recede like a reverse-tide / flake away from the top, flesh re-emerging.
+FLUIDITY & WEIGHT NOTES: regal grace — the arm-arc eases, the stillness is alive with breath, the recede flows like a tide pulling back; nothing snaps.
+FABRIC/HAIR/PROP PHYSICS: molten-metal + solidified-gold simulation — accurate reflectivity and speculars, the recede as a believable reverse-flow/flake, gallery-reflections tracking the orbit; the living eyes stay warm and human.
+FOOTWORK & BODY FLOW: gold feet grounded on the marble with a perfect reflection, the body holding a statuesque sway as it breathes.
+MID-CLIP TRANSFORMATION (timed): ★ the hero HOLD (0.0–4.0s) then REFORM ONSET (4.0–5.0s) — the gold begins receding to reveal flesh, contained as an onset in this clip.
+LIGHTING-IN-MOTION: as the orbit moves, the spotlight sends travelling speculars across the gold and the gilded floor-reflection shifts.
+DIEGETIC AUDIO: a deep resonant metallic hum, a faint shimmer, beginning the receding tone.
+MASTER TRACK: the baroque strings and harpsichord reach a grand orchestral swell on the arm-arc peak, then begin drawing back as the reform starts.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 3 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the gold receding from the feet up — solid ivory-and-gold drape returning on the lower body, the upper body still polished gold.
+  • FOOTWEAR: out of frame.
+  • EYEWEAR: none.
+  • ACCESSORIES: the gold earrings and cuff resolving back to solid jewellery as the gilding recedes.
+  • HAIR: the golden crown un-gilding back to the jet-black sculptural updo from the crown down.
+  • MAKEUP: the bronze-gold glam resolving onto re-formed skin, gilded highlight cooling to a glint.
+  • HANDS & NAILS: hands un-gilding from gold to skin, gold-chrome nails returning, the last gold at the fingertips.
+  • FACIAL MICRO-DYNAMICS: regal calm, chin lifted, serene gaze just off-lens, lips composed, a slow blink as flesh returns.
+  • BODY POSTURE & WEIGHT: settling back toward the poised statuesque stance, the receding gold revealing her, breathing.
+  • KINETIC STILLNESS (8 layers): (1) the recede line descending; (2) the floor-reflection settling; (3) the crown un-gilding; (4) the drape returning to ivory; (5) chest rising; (6) earrings re-resolving; (7) last gold speculars; (8) a slow blink.
+  • SPATIAL LOGIC: FOREGROUND — the un-gilding collarbone and hand. MIDGROUND — her half-resolved figure. BACKGROUND — dark marble gallery, warm shadow.
+  • LIGHTING: KEY — warm spotlight. FILL — deep baroque shadow. RIM — fading gold edge. PRACTICAL — spotlight, gilded reflections. SEPARATION — her form against dark. BOUNCE — warm gold under the jaw.
+  • ATMOSPHERE: the opulent spell resolving, museum-grand and composed.
+  • COLOUR GRADE: VIVID gold and warm ivory on near-black, glossy speculars, rich blacks.
+  • TEXTURE & MICRO-DETAIL: receding gold, re-emerging skin pores, drape returning to ivory, gallery-reflections, fading speculars.
+CUT LOGIC: hard ANGLE-CUT to CLIP 3 (medium close-up, three-quarter). No frame-match needed. State carried forward: she is un-gilding from the feet up, nearly flesh, last gold at the collar.
+
+---
+
+## CLIP 3 of 3 — MEDIUM CLOSE-UP · THREE-QUARTER · EYE-LEVEL (gold recedes → solid Aira; LOOP to CLIP 1)
+
+### START IMAGE (keyframe)
+ANGLE & SHOT SIZE: eye-level MEDIUM CLOSE-UP, three-quarter; the gold receding like a tide to reveal human Aira, a last sweep of gold leaving her collarbone.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: the sculptural ivory-and-gold draped gown re-formed and intact, the structured shoulder restored.
+FOOTWEAR: out of frame.
+EYEWEAR: none.
+ACCESSORIES: bold gold statement earrings and the gold cuff, solid and glinting again.
+HAIR: the sleek jet-black sculptural updo restored.
+MAKEUP: luminous bronze-gold glam — gilded highlight, soft defined eye, glossy bronze lip, real pores.
+HANDS & NAILS: one hand lifting near the collarbone, fingers poised — matching CLIP 1 — gold-chrome nails.
+FACIAL MICRO-DYNAMICS: regal calm — chin lifted, serene gaze just off-lens, lips composed, a slow blink, warm catchlights — exactly the look that opened CLIP 1.
+BODY POSTURE & WEIGHT: poised and statuesque, weight on one hip, shoulders squared and regal, head high, breathing.
+KINETIC STILLNESS (8 layers): (1) the last gold receding off the collarbone; (2) the warm spotlight on marble; (3) a glint on the gold earrings; (4) the ivory drape settling; (5) chest easing on an exhale; (6) a baroque shadow shifting; (7) a final gold-line glinting down the neck; (8) a slow regal blink.
+SPATIAL LOGIC: FOREGROUND — the un-gilding collarbone and poised hand, sharp. MIDGROUND — Aira restored. BACKGROUND — dark marble gallery, warm shadow.
+LIGHTING: KEY — single warm spotlight from above-front. FILL — deep baroque shadow. RIM — gold edge on the updo and shoulder. PRACTICAL — spotlight, gilded reflections. SEPARATION — warm form against the dark gallery. BOUNCE — warm gold under the jaw.
+LENS + DOF + BOKEH: 85mm, f/2.0; her sharp, the last gold crisp, gallery melting to warm bokeh — matched toward CLIP 1's resolve.
+COMPOSITION: vertical 9:16, Aira upper-right, the un-gilding collarbone the focal accent lower-centre, warm dark negative space — rhyming with CLIP 1.
+SUBJECT FRAMING & POSITION: Aira reads from the chest up, framed medium-close and regal, her torso at a three-quarter turn so the collarbone and the receding gold sit toward the lens, her face lifted in serene composure just off-lens as the gold pulls away. The camera holds near distance at clean eye level, she anchors upper-right so the dark gallery opens to frame-left — composed to match CLIP 1's opening so the loop is seamless. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: opulent resolution — the museum-grand calm exactly as it began.
+COLOUR GRADE: VIVID gold and warm ivory on near-black, glossy speculars, rich blacks — matched to CLIP 1.
+TEXTURE & MICRO-DETAIL: receding-gold reflectivity, skin pores under warm light, ivory drape folds, gold-earring glint, bronze-lip gloss, marble sheen.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, flat dull gold, crushed blacks, garish oversaturation, flat light.
+
+### ANIMATION (this clip, ~4s — reform completes; LOOP back to CLIP 1)
+SHOT TYPE & ANGLE: eye-level medium close-up, three-quarter; subject ~55% upper-right.
+CAMERA MOVEMENT (CHOREOGRAPHY): a slow settle easing toward CLIP 1's exact framing — one continuous shot.
+LENS: 85mm, f/2.0.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–2.0s — ★ REFORM COMPLETES: the gold recedes down and off her, flesh, hair and ivory drape re-emerging from the feet up, the collarbone last.
+- 2.0–3.0s — fully restored, she holds her regal poise, the last gold-line leaving her collarbone.
+- 3.0–4.0s — she holds the exact serene composure that opened CLIP 1, a fresh drop of gold poised above — seamless loop point.
+FLUIDITY & WEIGHT NOTES: the reform flows like a tide pulling back, eased and continuous; she arrives in the opening pose with no snap, breath leading the settle.
+FABRIC/HAIR/PROP PHYSICS: reverse-gild — gold flowing off and revealing skin/fabric with believable surface-flow, hair un-gilding, the drape returning to ivory; the new gold-drop forms with real viscosity above.
+FOOTWORK & BODY FLOW: weight roots into the poised statuesque stance, a faint regal settle.
+MID-CLIP TRANSFORMATION (timed): ★ REFORM COMPLETION at 0.0–2.0s — the gold fully recedes into base Aira, resolving the single-magic morph.
+LIGHTING-IN-MOTION: the blazing gold-speculars settle to the warm spotlight of CLIP 1.
+DIEGETIC AUDIO: the metallic tone resolving into a single bright chime, then the gallery's hush.
+MASTER TRACK: the baroque strings draw back to one harpsichord note landing exactly where CLIP 1 began — seamless loop.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 1 (LOOP back to opening) — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the sculptural ivory-and-gold draped gown intact, one structured shoulder, modest high neck.
+  • FOOTWEAR: out of frame.
+  • EYEWEAR: none.
+  • ACCESSORIES: bold gold statement earrings, a gold cuff at the wrist.
+  • HAIR: a sleek jet-black sculptural updo.
+  • MAKEUP: bronze-gold glam, gilded highlight, soft defined eye, glossy bronze lip, real pores.
+  • HANDS & NAILS: one hand lifting near the collarbone, fingers poised, gold-chrome nails.
+  • FACIAL MICRO-DYNAMICS: regal calm, chin lifted, serene gaze just off-lens, lips composed, a slow blink, warm catchlights.
+  • BODY POSTURE & WEIGHT: poised statuesque stance, weight on one hip, shoulders squared and regal, head high.
+  • KINETIC STILLNESS (8 layers): (1) molten gold sweeping the collarbone; (2) the spotlight on marble; (3) a glint on the earrings; (4) the ivory drape settling; (5) a slow inhale; (6) a baroque shadow shifting; (7) the first gold-line up the neck; (8) a slow regal blink.
+  • SPATIAL LOGIC: FOREGROUND — gilding collarbone and poised hand. MIDGROUND — Aira three-quarter. BACKGROUND — dark marble gallery, warm shadow.
+  • LIGHTING: KEY — warm spotlight from above-front. FILL — deep baroque shadow. RIM — gold edge on the updo. PRACTICAL — spotlight, gilded reflections. SEPARATION — warm form against dark. BOUNCE — warm gold under the jaw.
+  • ATMOSPHERE: hushed, opulent, museum-grand — exactly as it began.
+  • COLOUR GRADE: VIVID gold and warm ivory on near-black, glossy speculars, rich blacks.
+  • TEXTURE & MICRO-DETAIL: liquid-gold reflectivity, skin pores, ivory drape folds, gold-earring glint, bronze-lip gloss, marble sheen.
+CUT LOGIC: seamless ANGLE-CUT / LOOP back to CLIP 1 — the gold touches her collarbone and she gilds again, forever.
+
+☆ EXTERNAL AUDIO — BLOCK 1: BACKGROUND SOUND DESIGN / AMBIENCE BED
+A hushed grand marble gallery as the constant — a vast soft room-tone, the faintest echo. THROUGH-LINE: a bright metallic chime (gold touching skin), recurring at the loop. Layers: a flowing-liquid-metal shimmer as she gilds (CLIP 1 end); a deep resonant gold-hum with a faint shimmer while she is the gold-figure (CLIP 2); the metal tone resolving to one chime and the gallery hush as the gold recedes (CLIP 3). Cross-fade beat to beat; the hush at the end equals the start.
+☆ EXTERNAL AUDIO — BLOCK 2: BACKGROUND MUSIC / SCORE TRACK
+Regal, opulent, baroque-cinematic. KEY/TEMPO: C major, ~66 BPM. THE SPINE (constant): a slow baroque-tinged string and harpsichord motif with deep cello, present throughout. BUILD: the strings rise as she gilds; a grand orchestral swell hits its peak on the CLIP 2 gold arm-arc (the hero beat); the swell decays as the gold recedes, drawing back to one harpsichord note landing exactly where the reel began — a seamless infinite loop. Luxurious, powerful, museum-grand.
+
+═══════════════════════════════════════════════════════════════════════════════
