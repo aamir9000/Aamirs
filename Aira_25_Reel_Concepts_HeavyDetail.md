@@ -6747,3 +6747,271 @@ CUT LOGIC: ANGLE-CUT / LOOP back to CLIP 1; the next pass re-triggers the time-o
 - Loop: a clean ~26s loop matching the visual loop point.
 
 ---
+
+# CONCEPT E-4 — ONE STREET, EVERY WEATHER
+
+Title: Place-Transforms Hero — one street cycling through every weather as she walks, unbothered.
+Category / Format: Surreal-cool transformation reel (a city street) · SILENT (diegetic + score only) · CLIP-CHAIN, ANGLE-CUT edit · MULTI-CHANGE state-chain (each corner she crosses switches the weather; the clip ENDS in the new weather, the next clip OPENS in it from a new angle — 100% world-state match; she stays dry and unbothered through all of it — the joke).
+Story Idea: Aira strolls down one city street and with each block the weather transforms — bright sunshine → fog → pouring rain → thick snow → back to sunshine — while she walks at the exact same confident pace, in the same outfit, never reacting, never adapting (sunglasses on in the snow). The constant amid chaos.
+Setting: a wide city boulevard whose weather and light fully transform block to block; the architecture stays constant, only the weather and sky change.
+Wardrobe: a crisp white oversized linen blazer over a fitted black crop-top, high-waist black wide-leg trousers, a thin black belt with a gold buckle — weather-inappropriate on purpose (worn through everything).
+Footwear: black patent pointed-toe loafers, glossy — constant.
+Eyewear: slim gold rectangular sunglasses (worn through every weather, even snow — the absurd constant).
+Accessories: multiple thin layered gold chains, gold hoop earrings, a gold watch, a black structured micro-bag, black glossy almond nails.
+Hair: long box braids gathered into a high thick ponytail, jet-black with thin gold thread woven through select braids, mid-back — constant.
+Makeup: polished editorial — luminous skin, defined brow, soft berry lip, real pores; retinted by each weather's light.
+Hero Movement / Impossible Move: the street's weather and sky transform block to block as she walks; the weather changes, she stays the unbothered constant.
+Transformation Trigger (signature, consistent): EACH STREET-CORNER SHE CROSSES — crossing each corner switches the weather, completing within that clip; the next clip opens in the new weather from a new angle. Same trigger (the corner) every clip.
+Mood: PRIMAL SATISFACTION / COOL — "I don't check the forecast"; confident, deadpan, glamorous.
+Grade: VIVID per weather — blazing blue-sky sunshine, luminous grey-white fog, dramatic rain-silver, crystalline snow-white; her white blazer + black + gold + berry lip the constant anchor; rich blacks, full mid-tone.
+Duration: ~26 seconds · 5 clips (angle-cut state-chain).
+Voice: SILENT — diegetic street/weather + a cool constant-bassline score whose TEXTURE shifts with the weather.
+Identity safety: AIRA adult; wardrobe modest tailoring; mood confident and elegant, never sexualized.
+State chain (angle-cut): CLIP 1 wide [SUNSHINE → corner → ends FOG] → CUT → CLIP 2 profile [opens FOG → corner → ends RAIN] → CUT → CLIP 3 close-up [opens RAIN → corner → ends SNOW] → CUT → CLIP 4 full-body low [opens SNOW → corner → ends SUNSHINE] → CUT → CLIP 5 wide [opens SUNSHINE = CLIP 1, loop].
+
+---
+
+## CLIP 1 of 5 — WIDE · FRONT (walking toward camera) · EYE-LEVEL (opens SUNSHINE, ★ crosses corner → FOG)
+
+### START IMAGE (keyframe — BRIGHT SUNSHINE)
+ANGLE & SHOT SIZE: eye-level WIDE; Aira full body walking toward camera down a wide boulevard at peak bright sunshine.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: the crisp white oversized linen blazer over a fitted black crop-top, high-waist black wide-leg trousers, a thin black belt with a gold buckle; sharp.
+FOOTWEAR: black patent pointed-toe loafers, glossy, mid-stride.
+EYEWEAR: slim gold rectangular sunglasses on.
+ACCESSORIES: layered thin gold chains, gold hoops, a gold watch, a black structured micro-bag, black glossy almond nails.
+HAIR: long box braids in a high thick ponytail, jet-black with gold thread through select braids, mid-back, swaying with the stride.
+MAKEUP: polished editorial — luminous skin, defined brow, soft berry lip, real pores.
+HANDS & NAILS: one hand relaxed at her side, the micro-bag on the other forearm; black glossy almond nails.
+FACIAL MICRO-DYNAMICS: cool unbothered confidence — eyes hidden behind the gold sunglasses, a self-assured closed-lip smile, chin level, shoulders back; the "I own this" walk.
+BODY POSTURE & WEIGHT: a confident walking stride, weight rolling heel-to-toe, hips with natural sway, spine tall, alive.
+KINETIC STILLNESS (8 layers): (1) a harsh blue sky, not a cloud; (2) sharp black shadows on the pavement; (3) the braided ponytail swaying; (4) the linen blazer shifting with the stride; (5) chest rising; (6) shop awnings fully open; (7) a sparkling water-fountain; (8) a slow blink behind the shades.
+SPATIAL LOGIC: FOREGROUND — the sunny pavement leading in. MIDGROUND — Aira walking. BACKGROUND — the bright boulevard, blue sky, trees, fountain.
+LIGHTING: KEY — harsh direct overhead sun (strong top-key, short sharp shadows). FILL — warm bounce off pavement. RIM — a hot sun-edge on the ponytail. PRACTICAL — the blazing sun, fountain sparkle. SEPARATION — her crisp white blazer against the blue. BOUNCE — warm pavement under the chin.
+LENS + DOF + BOKEH: 35mm, f/4, deep; the sunny boulevard legible, her long sharp shadow cast.
+COMPOSITION: vertical 9:16, Aira centre walking toward camera, the boulevard receding, her sharp shadow on the pavement.
+SUBJECT FRAMING & POSITION: Aira reads as a complete full-length figure mid-stride, framed head-to-loafers, body squared near-front as she walks toward the lens. The camera holds a mid-far establishing distance at eye level; she anchors centre with the sunny boulevard around. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: a bright confident summer-day stroll, sharp and glamorous.
+COLOUR GRADE: VIVID sunshine — saturated blue sky + green trees + her crisp white blazer + black accents + gold catching full sun; blazing, full mid-tone.
+TEXTURE & MICRO-DETAIL: linen-blazer weave, patent-loafer gloss, box-braid texture with gold thread, sharp shadow geometry, gold-chain links, berry lip, black nails.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
+
+### ANIMATION (this clip, ~5s — opens SUNSHINE; ★ crosses corner → FOG, ends fog)
+SHOT TYPE & ANGLE: eye-level wide, front; subject ~45% centre, walking toward lens.
+CAMERA MOVEMENT (CHOREOGRAPHY): a slow dolly-back at her walking pace — one continuous shot.
+LENS: 35mm, f/4, deep.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–2.0s — confident stride through the bright sunshine, ponytail swaying.
+- 2.0–3.5s — ★ TRIGGER: she crosses a street-corner; a gentle fog begins rolling in from the side streets.
+- 3.5–5.0s — she walks on at the same pace, unbothered, as the boulevard resolves fully into thick FOG by the final frame.
+FLUIDITY & WEIGHT NOTES: the stride never changes — the constant; the fog rolls around her; all motion eases.
+FABRIC/HAIR/PROP PHYSICS: the braids sway with correct pendulum and individual-braid mass; sharp shadows soften as fog enters; the fog rolls with ground-hugging density; the blazer shifts.
+FOOTWORK & BODY FLOW: a confident heel-to-toe walk, weight rolling.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ WEATHER-CHANGE SUNSHINE→FOG at 2.0–4.5s, triggered by crossing the corner. The harsh blue sky and sharp shadows dissolve into thick cinematic fog — the boulevard almost vanishing, streetlamps creating halos, buildings as ghost-shapes; the sounds muffle. She stays the sharpest thing in the frame.
+LIGHTING-IN-MOTION: harsh sun softens to diffused, sourceless, luminous fog-light; sharp shadows gone.
+DIEGETIC AUDIO: full summer city (cars, chatter, fountain, birds); her loafers on dry pavement (sharp clicks); then sounds muffling as fog enters; a foghorn-distant hush.
+MASTER TRACK: a constant cool bass-line + snare (her pace, never changes); the TEXTURE on top shifts from clean dry sunshine-synths toward muffled, reverbed, filtered fog-textures.
+END STATE / STATE-MATCH LOCK (heavy detail — CLIP 2's START IMAGE must reproduce 100%, new angle only): at clip end the boulevard is in THICK FOG — streetlamp halos, ghost-shape buildings, muffled and soft, she the sharpest thing; white blazer, gold-threaded ponytail, sunglasses still on. CLIP 2 must open in this EXACT fog-world (same thick fog, same halos, same wardrobe) — only the camera angle changes.
+CUT LOGIC: hard ANGLE-CUT to CLIP 2 (profile). No motion-match; WORLD STATE matches 100%.
+
+---
+
+## CLIP 2 of 5 — MEDIUM-FULL · FULL PROFILE (walking) · EYE-LEVEL (opens FOG = CLIP 1 end; ★ crosses corner → POURING RAIN)
+
+### START IMAGE (keyframe — FOG, reproduces CLIP 1's END STATE, new angle)
+ANGLE & SHOT SIZE: eye-level MEDIUM-FULL, knees-up, full side-profile, traveling with her; the boulevard in thick cinematic fog.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: the white linen blazer and black outfit in profile — identical state (unchanged, still no weather-adaptation).
+FOOTWEAR: black patent loafers on wet-looking pavement.
+EYEWEAR: slim gold sunglasses still ON (absurd in fog — the point).
+ACCESSORIES: gold chains glinting through the fog, gold watch beaded with moisture, micro-bag, black nails.
+HAIR: the box-braid ponytail with tiny moisture-beads on the gold thread.
+MAKEUP: polished editorial, soft fog-diffused.
+HANDS & NAILS: one hand relaxed, micro-bag on the forearm; black nails (moisture-beaded).
+FACIAL MICRO-DYNAMICS: unchanged — the same self-assured smile behind the shades; wearing sunglasses in fog, not a care; one slow blink.
+BODY POSTURE & WEIGHT: a confident walking profile, weight rolling, spine tall, alive.
+KINETIC STILLNESS (8 layers): (1) thick fog enveloping the boulevard; (2) streetlamp halos glowing; (3) the braids with moisture-beads; (4) the blazer with a fog-sheen; (5) chest rising; (6) buildings as ghost-shapes; (7) moisture beading on the chains; (8) a slow unconcerned blink.
+SPATIAL LOGIC: FOREGROUND — wet-soft pavement. MIDGROUND — Aira in profile (the sharpest thing). BACKGROUND — the fog, streetlamp halos, ghost buildings.
+LIGHTING: KEY — diffused sourceless fog-light. FILL — luminous fog. RIM — a faint halo-edge on the ponytail. PRACTICAL — streetlamp halos. SEPARATION — her crisp form against the soft fog. BOUNCE — soft fog-glow.
+LENS + DOF + BOKEH: 50mm, f/2.8, traveling; her sharp, the fog a natural diffusion, halos as soft bokeh.
+COMPOSITION: vertical 9:16, her profile centre emerging from fog, halos punctuating — she's the clarity in the obscurity.
+SUBJECT FRAMING & POSITION: Aira is framed knees-up in a walking profile, traveling, the fog enveloping everything but her. The camera tracks alongside at her pace, mid-distance, eye level; she rides centre. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: muffled cinematic fog — she cuts through it visually.
+COLOUR GRADE: VIVID-but-muted-by-fog — grey-white atmosphere, but HER whites and blacks crisp and her gold and berry lip vivid (cutting through). (Matches CLIP 1 END STATE.)
+TEXTURE & MICRO-DETAIL: fog density-gradient, moisture-beads on gold and blazer, the braids' gold thread, halo-glow, patent-loafer wet-sheen.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
+
+### ANIMATION (this clip, ~5s — opens FOG; ★ crosses corner → POURING RAIN, ends rain)
+SHOT TYPE & ANGLE: eye-level medium-full profile; subject ~55% centre, walking.
+CAMERA MOVEMENT (CHOREOGRAPHY): a tracking move alongside her walk — one continuous shot.
+LENS: 50mm, f/2.8, shallow.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–2.0s — she walks through the fog at the same pace, sunglasses on.
+- 2.0–3.5s — ★ TRIGGER: she crosses the next corner; the fog darkens and the first rain begins.
+- 3.5–5.0s — she walks on, unbothered, as the boulevard resolves into a full POURING RAIN by the final frame.
+FLUIDITY & WEIGHT NOTES: the pace never changes; the fog is irrelevant to her; all motion eases.
+FABRIC/HAIR/PROP PHYSICS: fog has correct density-gradient (thicker near the ground); moisture beads with surface-tension; the transition to rain is organic; one raindrop lands on her sunglasses (she doesn't wipe it).
+FOOTWORK & BODY FLOW: a steady confident walk, loafers on dampening pavement.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ WEATHER-CHANGE FOG→RAIN at 2.0–4.5s, triggered by the corner. The fog darkens with clouds, then opens into a full downpour — sheets of rain, the boulevard turning to rivers, pedestrians running for cover in the background (she's the only one still walking), umbrellas opening around her.
+LIGHTING-IN-MOTION: flat fog-light darkening to storm-light with occasional lightning-flash backlighting the rain.
+DIEGETIC AUDIO: muffled fog cross-fading into the first raindrops, then a heavy downpour; others shouting and running; puddle-splashes; her steady unchanged loafer-steps.
+MASTER TRACK: the constant bass-and-snare unchanged; the texture shifts from muffled fog to distorted, compressed, heavy rain-textures.
+END STATE / STATE-MATCH LOCK (heavy detail — CLIP 3's START IMAGE must reproduce 100%, new angle only): at clip end the boulevard is in FULL DOWNPOUR — sheets of rain, rivers underfoot, others fleeing, she still walking; white blazer wet-translucent (still modest), gold-threaded ponytail wet, sunglasses streaming. CLIP 3 must open in this EXACT rain-world (same downpour, same fleeing others, same wet wardrobe) — only the angle changes.
+CUT LOGIC: hard ANGLE-CUT to CLIP 3 (close-up). No motion-match; WORLD STATE matches 100%.
+
+---
+
+## CLIP 3 of 5 — CLOSE-UP · FRONT · SLIGHT LOW ANGLE (opens RAIN = CLIP 2 end; ★ crosses corner → SNOW)
+
+### START IMAGE (keyframe — POURING RAIN, reproduces CLIP 2's END STATE, new angle)
+ANGLE & SHOT SIZE: slight low-angle CLOSE-UP, face and shoulders, in the full downpour — heroic even in the rain.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: the white blazer collar now soaked, slightly translucent-wet (still modest), the black crop beneath — identical state.
+FOOTWEAR: out of frame.
+EYEWEAR: slim gold sunglasses STILL ON, rain streaming over the lenses (absurd, unbothered, iconic).
+ACCESSORIES: wet gold chains, rain-drops on the gold watch, black nails.
+HAIR: the box-braid ponytail now WET — slick, heavy, the gold thread vivid against the wet black.
+MAKEUP: polished editorial, rain-streamed.
+HANDS & NAILS: out of frame mostly; black nails.
+FACIAL MICRO-DYNAMICS: THE SAME UNBOTHERED SMILE behind the WET sunglasses — rain streaming down her face, dripping from her jaw, running over the lenses, and she's smiling the exact same smile as in the sunshine; genuinely unbothered; one calm blink (water runs over the closed lids).
+BODY POSTURE & WEIGHT: walking through the downpour at the same pace, breathing.
+KINETIC STILLNESS (8 layers): (1) sheets of rain pouring; (2) others fleeing in the background; (3) the wet braids slick and heavy; (4) the soaked blazer clinging; (5) chest rising; (6) lightning flashing; (7) rain streaming over the sunglasses; (8) a calm blink under the water.
+SPATIAL LOGIC: FOREGROUND — rain filling the frame. MIDGROUND — her wet face, sharp. BACKGROUND — the downpour, others fleeing, the rivered street.
+LIGHTING: KEY — dark storm-light with lightning-flash backlighting the rain; a passing car-headlight catching her face. FILL — cool storm-grey. RIM — a wet edge on the braids. PRACTICAL — lightning, car-lights, streetlamps. SEPARATION — her glowing-wet form against the dark storm. BOUNCE — cool storm-light.
+LENS + DOF + BOKEH: 85mm, f/2.0, slight low; her wet face sharp, rain on the lens-edge as texture.
+COMPOSITION: vertical 9:16, her wet face right, the rain filling the frame, others fleeing background-left — she's the only one still out.
+SUBJECT FRAMING & POSITION: Aira is framed in a slightly low close-up, face and shoulders, rain pouring, others fleeing behind. She sits right-of-centre. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: the absurd-cool contrast — everyone flees, she strolls.
+COLOUR GRADE: storm-VIVID — dark grey sky + rain-silver + her white blazer transparent-wet + gold vivid against the dark; she GLOWS in the rain. (Matches CLIP 2 END STATE.)
+TEXTURE & MICRO-DETAIL: rain-streams on the skin, rivulets from the jaw, wet-braid slick, gold thread vivid, rain on the sunglass lenses.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
+
+### ANIMATION (this clip, ~5s — opens RAIN; ★ crosses corner → SNOW, ends snow)
+SHOT TYPE & ANGLE: slight low-angle close-up; face ~70% right-of-centre.
+CAMERA MOVEMENT (CHOREOGRAPHY): a static-to-slow-track holding her face — one continuous shot.
+LENS: 85mm, f/2.0, slight low.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–2.0s — she walks through the downpour at the SAME pace, the same smile, rain streaming over her shades.
+- 2.0–3.5s — ★ TRIGGER: she crosses a corner; the rain thickens and begins to FREEZE (first snowflakes mixing in).
+- 3.5–5.0s — the downpour resolves into thick SNOW by the final frame; she walks on unchanged.
+FLUIDITY & WEIGHT NOTES: UNCHANGED pace and smile — the constant; all motion eases.
+FABRIC/HAIR/PROP PHYSICS: rain has correct heavy-downpour density; rivulets follow water-physics; wet fabric clings; the gold thread stays vivid; rain transitions to crystalline snowflakes with realistic crystal structure.
+FOOTWORK & BODY FLOW: a steady walk through the water then the snow.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ WEATHER-CHANGE RAIN→SNOW at 2.0–4.5s, triggered by the corner. The pouring rain thickens and freezes into thick falling snow; the boulevard whitens, drifts forming, trees heavy with snow, the other people gone (they've fled); lamp-posts crowned with snow. A winter wonderland.
+LIGHTING-IN-MOTION: dark storm-light brightening to flat luminous snow-light (the snow reflecting everything).
+DIEGETIC AUDIO: heavy rain cross-fading into snow-silence (the most beautiful absence of sound); the soft whisper of falling flakes; her muffled footsteps in snow; a distant plow.
+MASTER TRACK: the constant bass-and-snare unchanged; the texture shifts from heavy distorted rain to stripped, quiet, spacious snow-textures.
+END STATE / STATE-MATCH LOCK (heavy detail — CLIP 4's START IMAGE must reproduce 100%, new angle only): at clip end the boulevard is in FULL SNOW — thick falling snow, white drifts, snow-laden trees, no other people, lamp-posts snow-crowned; her white blazer snow-dusted (and the rain mysteriously gone/dry), sunglasses snow-edged. CLIP 4 must open in this EXACT snow-world (same blizzard, same drifts, same wardrobe) — only the angle changes.
+CUT LOGIC: hard ANGLE-CUT to CLIP 4 (full body low). No motion-match; WORLD STATE matches 100%.
+
+---
+## CLIP 4 of 5 — FULL BODY · LOW ANGLE · 3/4 BACK (opens SNOW = CLIP 3 end; ★ crosses corner → SUNSHINE returns)
+
+### START IMAGE (keyframe — FULL SNOW, reproduces CLIP 3's END STATE, new angle)
+ANGLE & SHOT SIZE: low-angle FULL-BODY 3/4-back view — she's walking away from us into the snow-globe boulevard, hero-scaled from below.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: the white blazer now snow-dusted on the shoulders, the black crop beneath; the white reads crisp against the white snow by its tailoring and the black crop — identical garment state.
+FOOTWEAR: black patent loafers leaving clean prints in fresh snow, snow-flecked.
+EYEWEAR: slim gold sunglasses STILL ON — in a blizzard, the joke fully landed.
+ACCESSORIES: gold chains, gold watch, black nails, all snow-flecked.
+HAIR: the box-braid high ponytail, no longer wet — snow settling on the braids, the gold thread vivid against the white flecks, the ponytail swinging with her stride.
+MAKEUP: polished editorial, snow-cool.
+HANDS & NAILS: hands relaxed at her sides, one near the mini-bag; black nails with snow-flecks.
+FACIAL MICRO-DYNAMICS: seen 3/4 from behind — the cheek catches the same serene smile in profile-edge; one slow blink as a flake lands on a lash.
+BODY POSTURE & WEIGHT: a confident walking-away stride, weight rolling heel-to-toe, ponytail and hips in rhythm, spine tall.
+KINETIC STILLNESS (8 layers): (1) thick snow falling in the foreground; (2) white drifts banked along the street; (3) snow-laden trees; (4) the swinging snow-dusted ponytail; (5) the blazer shifting with her stride; (6) snow-crowned lamp-posts; (7) clean loafer-prints filling slowly with new flakes; (8) breath-fog at her mouth.
+SPATIAL LOGIC: FOREGROUND — falling snow and her clean fresh footprints. MIDGROUND — Aira walking away (the sharp focal point). BACKGROUND — the white wonderland boulevard, snow-laden trees, empty of all others.
+LIGHTING: KEY — flat luminous snow-light (the snow bouncing light everywhere). FILL — soft white snow-glow. RIM — a cool bright edge on the ponytail and shoulders. PRACTICAL — snow-crowned lamp-posts glowing. SEPARATION — her dark crop and snow-dusted form against the pure white. BOUNCE — total white bounce from the snow.
+LENS + DOF + BOKEH: 35mm, f/2.8, low and slightly behind; her sharp, the falling snow as soft foreground/background bokeh-flecks.
+COMPOSITION: vertical 9:16, her full body walking away centre-frame, the boulevard receding, snow filling the air — she leads the eye down the white street.
+SUBJECT FRAMING & POSITION: Aira is framed FULL-BODY in a low 3/4-BACK view, walking away from camera into the snow, fresh prints behind her. She rides centre-frame, mid-to-far distance, camera low and trailing. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: serene winter-wonderland solitude — the whole world hers, snow-quiet.
+COLOUR GRADE: snow-VIVID — pure luminous white + her crisp white blazer + black crop + vivid gold thread and chains + black loafers; high-key but RICH, not washed. (Matches CLIP 3 END STATE.)
+TEXTURE & MICRO-DETAIL: individual falling flakes, crystalline drift-texture, snow on the braids, breath-fog, clean loafer-prints, snow settling on gold.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
+
+### ANIMATION (this clip, ~5s — opens SNOW; ★ crosses corner → SUNSHINE, ends sunshine)
+SHOT TYPE & ANGLE: low-angle full-body 3/4-back; subject ~50% centre, walking away.
+CAMERA MOVEMENT (CHOREOGRAPHY): a low trailing dolly following behind her stride — one continuous shot.
+LENS: 35mm, f/2.8, low.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–2.0s — she strides away through the blizzard, ponytail swinging, leaving clean prints, sunglasses on.
+- 2.0–3.5s — ★ TRIGGER: she crosses the next corner; the snow thins, the clouds tear open, the first sun-shafts break through.
+- 3.5–5.0s — the snow melts off the world into full warm SUNSHINE by the final frame; she walks on, sunglasses now finally making sense.
+FLUIDITY & WEIGHT NOTES: the stride never changes pace — the constant against a changing world; all motion eases.
+FABRIC/HAIR/PROP PHYSICS: snow falls with light flutter-drift physics; the ponytail swings with secondary-motion; snow melts off surfaces with believable speed; drips and steam rise as it warms; the blazer dries and lifts as the warm breeze returns.
+FOOTWORK & BODY FLOW: a steady confident walk-away, hips and ponytail in rhythm, loafers crunching snow then tapping dry pavement.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ WEATHER-CHANGE SNOW→SUNSHINE at 2.0–4.5s, triggered by the corner. The blizzard thins; the clouds tear open into blue sky; sun-shafts pour down; the snow melts off the trees, drifts shrinking, the boulevard going from white to warm-gold wet-then-dry; café tables and people reappear; the world returns to the bright sunshine of CLIP 1.
+LIGHTING-IN-MOTION: flat white snow-light warming into golden directional sun, long warm shadows returning.
+DIEGETIC AUDIO: snow-silence cross-fading into dripping melt, then birdsong, café chatter, traffic — the bright living city returning; her unchanged loafer-steps.
+MASTER TRACK: the constant bass-and-snare unchanged; the texture blooms from quiet spacious snow back into the bright full sunshine-mix (closing the loop).
+END STATE / STATE-MATCH LOCK (heavy detail — CLIP 5's START IMAGE must reproduce 100%, new angle only): at clip end the boulevard is in FULL SUNSHINE — blue sky, golden light, dry warm pavement, café tables and people back, trees green — IDENTICAL to CLIP 1's sunshine world; her white blazer dry and crisp, ponytail dry, sunglasses on (now sensible). CLIP 5 must open in this EXACT sunshine-world — only the angle changes (and it equals CLIP 1, closing the loop).
+CUT LOGIC: hard ANGLE-CUT to CLIP 5 (wide establishing = CLIP 1). No motion-match; WORLD STATE matches 100%.
+
+---
+## CLIP 5 of 5 — WIDE ESTABLISHING · EYE LEVEL (opens SUNSHINE = CLIP 4 end AND = CLIP 1; loop close)
+
+### START IMAGE (keyframe — FULL SUNSHINE, reproduces CLIP 4's END STATE = CLIP 1's world, new angle)
+ANGLE & SHOT SIZE: eye-level WIDE ESTABLISHING shot of the full sunlit boulevard, Aira small-but-central walking toward camera — the loop-closing master view.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: the white blazer crisp and dry, the black crop beneath — identical to CLIP 1.
+FOOTWEAR: black patent loafers, dry, catching sun-glint.
+EYEWEAR: slim gold sunglasses on — finally, the weather agrees with them.
+ACCESSORIES: gold chains catching sun, gold watch, black nails.
+HAIR: the box-braid high ponytail, dry, the gold thread glinting in the sun, swinging with her approach.
+MAKEUP: polished editorial, sun-warm.
+HANDS & NAILS: hands relaxed, one near the mini-bag; black nails.
+FACIAL MICRO-DYNAMICS: the same serene self-assured smile she has worn through every weather — unchanged, the whole point of the piece; one easy blink in the sun.
+BODY POSTURE & WEIGHT: a confident approaching stride, weight rolling, ponytail and hips in rhythm, spine tall and easy.
+KINETIC STILLNESS (8 layers): (1) warm sun-shafts and dust-motes; (2) café tables and people back in the background; (3) green sunlit trees; (4) the swinging ponytail; (5) the blazer shifting with her stride; (6) traffic moving far behind; (7) gold glinting; (8) an easy sunny blink.
+SPATIAL LOGIC: FOREGROUND — warm dry pavement. MIDGROUND — Aira approaching (the focal point). BACKGROUND — the living sunlit boulevard, cafés, people, trees — exactly CLIP 1.
+LIGHTING: KEY — golden directional sun. FILL — warm sky-bounce. RIM — a bright sun-edge on the ponytail and shoulders. PRACTICAL — sunlit shop-signs, café umbrellas. SEPARATION — her crisp form against the bright depth. BOUNCE — warm pavement-bounce.
+LENS + DOF + BOKEH: 28mm wide, f/4, deep-enough focus; her sharp, the bright boulevard rendered in warm depth, sun-flare flecks.
+COMPOSITION: vertical 9:16, the boulevard symmetric and receding, Aira centre walking toward camera — the establishing bookend that equals the opening frame.
+SUBJECT FRAMING & POSITION: Aira is framed SMALL-AND-CENTRAL in a WIDE EYE-LEVEL establishing shot, walking toward camera down the sunlit boulevard. She rides dead centre, far-to-mid distance. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: bright, alive, resolved — the city restored, she unchanged, the joke complete.
+COLOUR GRADE: sunshine-VIVID — blue sky + golden light + green trees + her crisp white/black + vivid gold; rich, warm, saturated. (Matches CLIP 4 END STATE AND CLIP 1's opening — the loop.)
+TEXTURE & MICRO-DETAIL: sun-flare, dust-motes, dry warm pavement-grain, the gold thread glint, café-life detail in the depth.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
+
+### ANIMATION (this clip, ~4s — opens SUNSHINE; loop-close back to CLIP 1)
+SHOT TYPE & ANGLE: eye-level wide establishing; subject ~30% centre, approaching.
+CAMERA MOVEMENT (CHOREOGRAPHY): a slow push-in toward her as she approaches — one continuous shot that settles into CLIP 1's framing.
+LENS: 28mm, f/4, deep.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–2.0s — she walks toward camera down the bright boulevard, ponytail swinging, the same smile.
+- 2.0–4.0s — she reaches mid-frame, the push-in resolving into the EXACT framing/size that opened CLIP 1 — seamless loop point.
+FLUIDITY & WEIGHT NOTES: the same unchanged stride and smile she has carried through every weather; all motion eases.
+FABRIC/HAIR/PROP PHYSICS: ponytail swings with secondary-motion; the blazer lifts slightly in the warm breeze; sun-flare flickers naturally as she moves through shafts.
+FOOTWORK & BODY FLOW: a steady confident approach, hips and ponytail in rhythm, loafers tapping dry pavement.
+MID-CLIP TRANSFORMATION (timed): none — this is the resolved sunshine state; the only "change" is the camera settling into CLIP 1's opening framing to close the loop.
+LIGHTING-IN-MOTION: steady warm golden sun, sun-flare flickering as she walks through shafts.
+DIEGETIC AUDIO: the full bright living boulevard — birdsong, café chatter, traffic, her steady loafer-steps.
+MASTER TRACK: the constant bass-and-snare in its full bright sunshine-mix — landing exactly where CLIP 1 began.
+END STATE / STATE-MATCH LOCK (heavy detail — loops to CLIP 1): the final frame equals CLIP 1's opening frame — same sunshine boulevard, same framing, same wardrobe, same smile. CLIP 1 reopens from here seamlessly.
+CUT LOGIC: seamless ANGLE-CUT / loop back to CLIP 1. WORLD STATE matches 100%. The reel loops forever: she walks, the weather cycles around her, she never changes.
+
+---
+
+☆ EXTERNAL AUDIO — BLOCK 1: BACKGROUND SOUND DESIGN / AMBIENCE BED
+(Use as the diegetic world-bed under the reel — one continuous evolving weather-loop. Footstep-resonance is the through-line that never changes.)
+- THROUGH-LINE (constant, never changes): Aira's steady black-loafer footsteps — same pace, same confident heel-toe resonance — audible in EVERY weather as the anchor the ear locks onto. ~Walking cadence ≈ 100 steps/min, matched to the music BPM.
+- SUNSHINE BED (Clip 1 / Clip 5): bright living boulevard — layered birdsong, distant café chatter and clinking cups, light traffic hum, a passing bicycle bell, warm air-tone; her loafers tapping dry pavement crisply.
+- FOG BED (Clip 2): everything muffled and close — low-pass-filtered city, a distant foghorn-like drone, dripping condensation, the hush of reduced sound; her loafers slightly damp-padded but same cadence.
+- RAIN BED (Clip 3): full heavy downpour — sheets of rain on pavement and rooftops, gurgling gutters, puddle-splashes, distant thunder rolls, other people shouting and running (panicked, receding); her loafers splashing in the SAME cadence, utterly steady.
+- SNOW BED (Clip 4): the beautiful near-silence of snowfall — a high airy hush, the faint crystalline whisper of falling flakes, one distant snow-plow, total absence of other voices; her loafers crunching fresh snow in the SAME cadence.
+- TRANSITIONS: cross-fade each weather over ~2.5s at the corner-crossings (sunshine↔fog↔rain↔snow↔sunshine), but KEEP the footstep-resonance bone-dry and constant straight through every cross-fade — the joke in sound: the world changes, her walk does not.
+- LOOP: sunshine bed at the end seamlessly equals the sunshine bed at the start.
+
+☆ EXTERNAL AUDIO — BLOCK 2: BACKGROUND MUSIC / SCORE TRACK
+(A cool, constant groove whose BASS and SNARE never change while the TEXTURE around them re-skins per weather — "she stays the same, the weather changes." Drop in as the music bed under Block 1.)
+- KEY / TEMPO / FEEL: C# minor, ~100 BPM, confident mid-tempo strut — unbothered, effortlessly cool, slightly playful.
+- THE CONSTANT (never changes across all 5 clips): a deep round sub-bass line + a tight dry snare/clap on the backbeat, locked at 100 BPM in sync with her footsteps. This is "her" — it carries unchanged through every weather as the spine of the track.
+- SUNSHINE TEXTURE (Clip 1 / Clip 5): bright plucked guitar/marimba, warm major-leaning chord stabs, hand-claps, an airy whistle hook — full, sunny, alive.
+- FOG TEXTURE (Clip 2): the brights drop away; a low-pass-filtered muffled pad, a lone reverbed Rhodes chord, everything blurred and close — bass and snare unchanged underneath.
+- RAIN TEXTURE (Clip 3): distorted, compressed, heavier — a gritty synth layer, rain-like hi-hat patters, a darker chord — bass and snare punch through unchanged.
+- SNOW TEXTURE (Clip 4): stripped and spacious — a single clean glockenspiel/music-box melody, long reverb tails, lots of air — bass and snare quietly steady underneath.
+- RESOLVE (end of Clip 5): the full sunshine texture blooms back in over the unchanged bass/snare, landing exactly where the track began — seamless loop.
+- MIX NOTE: keep the footstep-resonance from Block 1 sitting just above the snare so the ear hears WALK + BEAT as one locked pulse through every weather change.
+
+═══════════════════════════════════════════════════════════════════════════════
