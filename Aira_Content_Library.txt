@@ -1,0 +1,643 @@
+####################################################################################################
+####################################################################################################
+##
+##   AIRA — CONTENT LIBRARY  (5 CONTENT TYPES × 5 EACH = 25 DELIVERABLES)
+##   Non-frame-chain native formats: standalone stills, carousels, talking scripts, ads, captions.
+##
+##   CATEGORY INDEX (scroll to the banner for each):
+##      [01]  HERO STILLS  —  5 standalone poster-grade single images
+##      [02]  PHOTO CAROUSELS  —  5 cohesive swipeable photo-dump sets
+##      [03]  SPOKEN-CONTENT SCRIPTS  —  5 talking reels (she speaks) - writing + delivery led
+##      [04]  BEAUTY / PRODUCT AD CONCEPTS  —  5 endorsement ad spots across 5 categories
+##      [05]  CAPTION + HOOK PACKS  —  5 text-layer packs (hooks, captions, CTAs, hashtags)
+##
+####################################################################################################
+####################################################################################################
+
+
+
+
+
+
+====================================================================================================
+====================================================================================================
+====    
+====   CATEGORY [01]  ·  HERO STILLS
+====   5 standalone poster-grade single images
+====    
+====================================================================================================
+====================================================================================================
+
+
+# AIRA — 5 HERO STILLS · POSTER-GRADE SINGLE IMAGES (Heavy-Detail)
+
+<aside>
+Five STANDALONE hero images — not a reel, not a chain, no animation, no transformation, no next-frame. Each is ONE image that has to be perfect on its own: a cover, a campaign key-art, an editorial portrait. Every section is engineered to the same heavy standard as the reel keyframes, but each image stands alone. 9:16 vertical (also note a 4:5 crop where useful). VIVID, saturated colour always. Aira stays adult, modest, cinematic, non-sexualized, identity-locked — likeness from reference only, never enumerated.
+</aside>
+
+## Global Spec (applies to all 5 stills)
+- Engine: Nano Banana Pro (or equivalent) · Aspect: 9:16 vertical (4:5 safe-crop noted) · Resolution: max
+- Identity: AIRA — paste character reference / face-lock here. Lock face, bone structure, hair colour and base texture to reference; zero drift. Adult, fully modest, non-sexualized. No physical/ethnic enumeration in prompts.
+- Subject intro line for every prompt: "Aira, [placeholder]" then proceed to sections.
+- Colour law: VIVID and saturated — rich blacks, glossy speculars, full mid-tone, zero murk; at least one bold saturated colour anchor per image.
+- Anti-flip: every image ends on ORIENTATION LOCK — preserve the exact left-to-right composition; do not mirror, flip or invert.
+- Distinctness: all 5 are deliberately different in mood, setting, palette, wardrobe and hairstyle (no two feel alike).
+- Sections per still: Concept & Use · Subject Intro · Angle & Shot Size · Wardrobe · Footwear · Eyewear · Accessories · Hair · Makeup · Hands & Nails · Facial Expression (heavy) · Body Posture & Weight · Spatial Logic · Lighting (Key/Fill/Rim/Practical/Separation/Bounce) · Lens + DOF + Bokeh · Composition · Subject Framing & Position (+ Orientation Lock) · Atmosphere · Colour Grade · Texture & Micro-Detail · Negative · Caption suggestion
+
+---
+
+# STILL 1 — "COVER GIRL" (high-fashion magazine cover)
+
+CONCEPT & USE: a bold studio cover-shot — the kind that would run as a glossy magazine front or a campaign hero. Confident, editorial, graphic, saturated. Feeling: aspirational power.
+SUBJECT INTRO: Aira, [placeholder].
+ANGLE & SHOT SIZE: straight-on eye-level, tight MEDIUM CLOSE-UP (chest-up), face square to camera — a true cover crop with headroom for a masthead.
+WARDROBE: a structured electric-cobalt blazer worn over a high-neck black top, sharp shoulders, one bold gold statement brooch on the lapel — clean, powerful, fully modest.
+FOOTWEAR: out of frame (chest-up).
+EYEWEAR: none — the eyes are the cover.
+ACCESSORIES: oversized matte-gold sculptural hoop earrings, a single thin gold neck-chain over the high collar; the cobalt and gold are the colour story.
+HAIR: a sleek high-shine middle-part bob tucked behind the ears, glassy and architectural, not a strand loose.
+MAKEUP: high-editorial — luminous skin, sharp defined brow, a glossy true-red lip (the second colour anchor), softly contoured cheek, real pores and skin texture under the gloss.
+HANDS & NAILS: one hand raised to graze the jaw, fingers relaxed and elegant; glossy red nails matching the lip.
+FACIAL EXPRESSION (heavy): a cool, direct, closed-lip confidence — chin level, eyes locked dead into the lens with a faint knowing arch in one brow, lips full and just-closed in a near-smirk; micro-detail: catchlights in both eyes, the faintest tension at the mouth corner suggesting she's about to speak, relaxed unfurrowed forehead, alive and present, never blank or doll-like.
+BODY POSTURE & WEIGHT: shoulders squared and slightly dropped (confident, not stiff), spine tall, a subtle counter-tilt of the head — poised and grounded.
+SPATIAL LOGIC: FOREGROUND — her face and raised hand. MIDGROUND — her shoulders/blazer. BACKGROUND — a flat saturated seamless studio sweep.
+LIGHTING: KEY — a large soft beauty-dish slightly above, clean and even on the face. FILL — a soft reflector under the chin lifting shadows. RIM — twin kicker lights edging the hair and shoulders to pop her off the background. PRACTICAL — none. SEPARATION — bright rim vs saturated backdrop. BOUNCE — silver fill for crisp catchlights.
+LENS + DOF + BOKEH: 85mm portrait, f/4 for a sharp cover (everything tack-sharp), no busy bokeh — clean and graphic.
+COMPOSITION: vertical 9:16, face in the upper-centre third, generous headroom for a masthead, negative space camera-left for cover-lines; strong central symmetry.
+SUBJECT FRAMING & POSITION: Aira is framed chest-up, centred and square to camera, eyes on the lens, hand at jaw. Mid-close distance, eye level. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert.
+ATMOSPHERE: clean, bold, expensive — a confident magazine front.
+COLOUR GRADE: VIVID complementary cobalt-and-red on a saturated backdrop (try a punchy marigold-yellow or deep teal sweep) — maximum saturation, rich blacks, glossy highlights, editorial contrast.
+TEXTURE & MICRO-DETAIL: skin pores and vellus fuzz under gloss, blazer wool-weave, brooch metal glint, hair high-shine, lip-gloss speculars, earring matte-gold grain.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, plastic skin, oversharpened, watermarks, deformed hands, dead eyes, washed-out colour, muddy grade, flat light.
+CAPTION SUGGESTION: "Cover energy. No notes." 
+
+---
+# STILL 2 — "GOLDEN HOUR, ROOFTOP" (warm lifestyle portrait)
+
+CONCEPT & USE: a sun-drenched lifestyle hero — relaxed, aspirational, the "living her best life" rooftop-at-sunset shot. Feeling: warm, free, golden.
+SUBJECT INTRO: Aira, [placeholder].
+ANGLE & SHOT SIZE: slightly low three-quarter angle, MEDIUM-FULL (mid-thigh up), she's half-turned toward the setting sun, glancing back over her shoulder toward camera.
+WARDROBE: a flowing burnt-orange satin slip-dress with a relaxed cream linen blazer thrown over the shoulders (modest, elegant), hem and sleeves catching the breeze.
+FOOTWEAR: barely in frame — strappy tan leather heels.
+EYEWEAR: pushed up into the hair, tortoiseshell oversized sunglasses (a styling accent, not worn).
+ACCESSORIES: stacked thin gold bangles, small gold hoops, a delicate layered necklace catching the sun.
+HAIR: long loose beachy waves, deep warm brown with sun-lit caramel ends, tousled by the wind, a few strands across the cheek.
+MAKEUP: sun-kissed glow — bronzed cheek, glossy nude-peach lip, dewy skin, a touch of gold on the lid, freckles showing through, real texture.
+HANDS & NAILS: one hand lifting the blazer collar at the shoulder, the other relaxed; warm nude-glaze nails.
+FACIAL EXPRESSION (heavy): an unguarded warm half-laugh caught mid-moment — lips parted in a real smile showing a hint of teeth, eyes softly crinkled at the corners and lit gold by the low sun, chin turned back over the shoulder, brows relaxed and lifted; micro-detail: genuine eye-smile (not posed), a wind-blown strand she hasn't fixed, sun-flare catchlight, living and joyful.
+BODY POSTURE & WEIGHT: weight on the back foot, hip relaxed, torso angled to the sun and head twisted back to camera — an easy, candid contrapposto.
+SPATIAL LOGIC: FOREGROUND — soft sun-flare and a blurred string-light bokeh. MIDGROUND — Aira against the railing. BACKGROUND — a warm hazy city skyline melting into a peach-gold sunset.
+LIGHTING: KEY — the low golden sun as a warm backlight/rim behind her. FILL — a gold reflector bouncing warm light onto her face. RIM — blazing sun-edge on hair and shoulders (halo). PRACTICAL — café string-lights glowing on as bokeh. SEPARATION — bright hair-rim against the soft skyline. BOUNCE — warm city-glow.
+LENS + DOF + BOKEH: 50mm, f/1.8, shallow — her tack-sharp, the skyline and string-lights melting into round golden bokeh, gentle anamorphic sun-flare.
+COMPOSITION: vertical 9:16, Aira slightly right-of-centre on the rule-of-thirds, the open golden sky filling the upper-left, railing as a leading line.
+SUBJECT FRAMING & POSITION: Aira is framed mid-thigh up, three-quarter back-turned with her face to camera over the shoulder, right-of-centre. Mid distance, slightly low angle. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert.
+ATMOSPHERE: warm, breezy, golden-hour freedom — you can almost feel the heat.
+COLOUR GRADE: VIVID warm — saturated burnt-orange, peach, gold and amber, deep teal sky accent in the upper corner for contrast; glowing, rich, never washed despite the brightness.
+TEXTURE & MICRO-DETAIL: satin sheen and ripple, linen weave, wind-strands, skin freckles and dew, gold-bangle glints, sun-flare bloom, string-light bokeh.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, plastic skin, oversharpened, watermarks, deformed hands, dead eyes, blown-out white sky, washed-out colour, flat light.
+CAPTION SUGGESTION: "Chasing the last light. Caught it."
+
+---
+
+# STILL 3 — "MONSOON WINDOW" (moody, rain, introspective)
+
+CONCEPT & USE: a quiet, cinematic, emotional portrait — Aira at a rain-streaked window, lost in thought. Feeling: introspective, calm, beautiful melancholy. The scroll-stopper that's a mood, not a flex.
+SUBJECT INTRO: Aira, [placeholder].
+ANGLE & SHOT SIZE: eye-level CLOSE-UP through/beside a rain-streaked window, profile-leaning-to-three-quarter, her temple near the glass.
+WARDROBE: an oversized slate-grey ribbed knit sweater, soft and cocooning, one shoulder slipping (modest), sleeves over the hands.
+FOOTWEAR: out of frame.
+EYEWEAR: none.
+ACCESSORIES: minimal — tiny silver stud earrings, a thin silver ring on the hand near the face; nothing loud (the mood is the subject).
+HAIR: soft undone low bun with loose face-framing tendrils, deep espresso-brown, a few strands stuck to the temple near the glass.
+MAKEUP: bare-faced luminous — no-makeup makeup, slightly flushed nose and cheeks (cool air), glossy balm lip, real skin, faint under-eye softness that reads human and tender.
+HANDS & NAILS: one sweater-paw hand resting against the window glass, fingertips touching a rain-rivulet; short clean natural nails.
+FACIAL EXPRESSION (heavy): wistful, faraway calm — lips softly closed with the faintest downward rest, eyes half-lidded and unfocused on the middle distance (watching rain, not camera), brows gently relaxed, a single slow contemplative quality; micro-detail: the glass-light reflected as a cool catchlight, lashes lowered, a breath held — pensive and real, never sad-to-the-point-of-grimace, just quiet.
+BODY POSTURE & WEIGHT: curled slightly inward, shoulder to the window frame, head tilted to rest near the glass — small, soft, self-contained.
+SPATIAL LOGIC: FOREGROUND — rain-rivulets and droplets on the glass (some sharp, some melting). MIDGROUND — Aira's face behind/beside the streaming glass. BACKGROUND — a blurred blue-grey rainy city/garden, warm window-light pooling.
+LIGHTING: KEY — soft cool north-window daylight on her face. FILL — warm interior lamp glow from behind (amber rim contrast). RIM — faint warm edge on hair from the lamp. PRACTICAL — a blurred warm lamp and distant rain-lit street. SEPARATION — her warm-lit face against the cool wet glass. BOUNCE — soft cool window-bounce.
+LENS + DOF + BOKEH: 85mm, f/2.0 — her eyes sharp, the rain on glass rendered as both sharp foreground droplets and melting bokeh, the city behind fully soft.
+COMPOSITION: vertical 9:16, her face right-of-centre, rain-glass filling the left, warm lamp-bokeh upper-left — intimate negative space.
+SUBJECT FRAMING & POSITION: Aira is framed in a close-up, three-quarter-to-profile, right-of-centre, gazing out past the glass. Near distance, eye level. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert.
+ATMOSPHERE: hushed, rainy, tender — the cosy ache of a grey afternoon.
+COLOUR GRADE: VIVID-but-moody — saturated teal-and-blue rain tones cut by a warm amber lamp-glow (warm/cool contrast); rich, cinematic, deep — saturated even in the grey, never flat or murky.
+TEXTURE & MICRO-DETAIL: individual rain rivulets and droplets with refraction, knit-rib texture, sweater-fuzz, the temple-stuck strand, glass condensation, balm-lip sheen, skin texture.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, plastic skin, oversharpened, watermarks, deformed hands, dead eyes, grimace, washed-out grey, muddy flat colour.
+CAPTION SUGGESTION: "Rain days were made for overthinking. I don't mind."
+
+---
+# STILL 4 — "NEON AFTER DARK" (vivid city-night portrait)
+
+CONCEPT & USE: a high-impact night portrait soaked in neon — the bold, electric, after-dark hero. Feeling: cool, magnetic, nightlife main-character. Pure colour punch.
+SUBJECT INTRO: Aira, [placeholder].
+ANGLE & SHOT SIZE: eye-level MEDIUM (waist-up), she's turned three-quarter, looking back toward camera under a neon sign, wet street behind.
+WARDROBE: a glossy black faux-leather trench-coat belted at the waist over a deep-emerald satin top (modest, high-neck), collar popped — sleek, nocturnal, expensive.
+FOOTWEAR: out of frame (waist-up).
+EYEWEAR: none — let the neon catch her eyes.
+ACCESSORIES: small silver ear-cuffs, a chunky silver chain bracelet, a single statement ring; cool-toned metal to read against the neon.
+HAIR: a wet-look slicked-back high ponytail, jet-black with a glassy sheen, sharp and modern, catching magenta and cyan rim-light.
+MAKEUP: bold night-glam — a smoky cool-toned eye, sharp liner, glowing skin with a dewy highlight, a deep berry-plum lip; the neon paints colour across the cheekbones.
+HANDS & NAILS: one hand lifted to the popped collar, the other in the coat pocket; glossy near-black nails.
+FACIAL EXPRESSION (heavy): cool, unbothered allure — chin slightly down, eyes cutting back to the lens from the corners (a confident sidelong look), lips just barely parted in a near-pout that's about to become a smile, brows level; micro-detail: dual magenta/cyan catchlights in the eyes, a glistening lip, total composure — magnetic, not trying, never harsh.
+BODY POSTURE & WEIGHT: shoulders angled away, weight on one hip, torso twisting back so the coat falls in a sharp line — a walking-and-turned-back stance.
+SPATIAL LOGIC: FOREGROUND — out-of-focus neon-bokeh orbs. MIDGROUND — Aira under the signage. BACKGROUND — a rain-wet street with glowing neon signs, reflections streaking the pavement.
+LIGHTING: KEY — a soft frontal source keeping her face readable. FILL — ambient city-glow. RIM — strong magenta rim on one side, cyan rim on the other (the signature dual-neon look). PRACTICAL — overhead neon signs, wet-street reflections, distant headlights. SEPARATION — coloured rims vs dark wet street. BOUNCE — neon spill on the skin.
+LENS + DOF + BOKEH: 35mm, f/1.4 — her sharp, the neon street melting into big round magenta/cyan/gold bokeh, wet reflections streaking.
+COMPOSITION: vertical 9:16, Aira left-of-centre, neon sign glowing upper-right, the wet street and reflections leading in from below.
+SUBJECT FRAMING & POSITION: Aira is framed waist-up, three-quarter turned with a sidelong look back to camera, left-of-centre. Mid distance, eye level. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert.
+ATMOSPHERE: electric, nocturnal, cinematic — Blade-Runner-meets-fashion.
+COLOUR GRADE: VIVID neon — saturated magenta + cyan + a hit of warm gold from a sign, deep inky blacks in the coat and street, glossy reflective speculars; maximum colour pop, no murk.
+TEXTURE & MICRO-DETAIL: wet-look hair sheen, leather gloss, satin highlight, rain-wet pavement reflections, neon-glow on skin, lip glisten, metal ear-cuff glint.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled neon text, plastic skin, oversharpened, watermarks, deformed hands, dead eyes, muddy colour, flat lighting, dull desaturated neon.
+CAPTION SUGGESTION: "The city looks better at midnight. So do I."
+
+---
+
+# STILL 5 — "BOTANICAL" (lush green garden goddess)
+
+CONCEPT & USE: a fresh, organic, editorial-nature hero — Aira amid lush greenery and blooms, dewy and serene. Feeling: alive, natural, goddess-of-spring. The clean palette-cleanser of the set.
+SUBJECT INTRO: Aira, [placeholder].
+ANGLE & SHOT SIZE: slightly high eye-level MEDIUM CLOSE-UP, she's nestled among large green leaves and flowers, face tilted up toward dappled light.
+WARDROBE: a soft sage-green linen wrap-dress with delicate white floral embroidery, fully modest, one shoulder draped, fabric breathing and natural.
+FOOTWEAR: out of frame.
+EYEWEAR: none.
+ACCESSORIES: tiny pearl-and-gold earrings, a delicate vine-like gold bracelet, a single fresh small flower tucked behind the ear.
+HAIR: long loose soft waves, warm chestnut, with a few tiny real flowers and green sprigs woven naturally through — a living, undone garland (not a heavy crown).
+MAKEUP: dewy, fresh, barely-there — glassy skin, soft rosy flush, glossy natural lip, a dab of highlighter on the cheekbones catching the dappled sun, freckles and real pores.
+HANDS & NAILS: one hand gently parting a large leaf near her face, fingertips soft; clean natural nails with a sheer pink glaze.
+FACIAL EXPRESSION (heavy): serene, fresh wonder — a soft genuine closed-lip smile that just reaches the eyes, gaze lifted slightly toward the dappled light with calm contentment, brows relaxed and open, lashes catching light; micro-detail: warm sunlit catchlights, a dewdrop-fresh quality to the skin, lips relaxed and glossy, utterly at peace — radiant, never blank.
+BODY POSTURE & WEIGHT: leaning softly into the foliage, shoulders relaxed and open, head tilted up to the light — easy, organic, unguarded.
+SPATIAL LOGIC: FOREGROUND — large soft-focus green leaves and a blooming flower framing the edges. MIDGROUND — Aira among the greenery (sharp). BACKGROUND — a sun-dappled deep-green garden melting into soft bokeh.
+LIGHTING: KEY — warm dappled sunlight filtering through leaves (soft, shifting freckles of light on her face). FILL — green-bounced soft ambient. RIM — a bright sun-edge catching the hair and a leaf-edge. PRACTICAL — sun through canopy. SEPARATION — her warm-lit face against the deep-green shade. BOUNCE — lush green bounce.
+LENS + DOF + BOKEH: 105mm macro-ish portrait, f/2.2 — her face and the nearest petals sharp, the foliage front and back melting into creamy emerald bokeh.
+COMPOSITION: vertical 9:16, Aira centred and framed by leaves on all edges (a natural vignette), a bloom in the lower foreground, dappled light pooling on her face.
+SUBJECT FRAMING & POSITION: Aira is framed chest-up, centred, nestled in foliage with her face lifted to the light. Near distance, slightly high angle. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert.
+ATMOSPHERE: fresh, alive, dewy spring-morning serenity — you can smell the green.
+COLOUR GRADE: VIVID botanical — saturated emerald and lush greens, soft sage, with pops of white-and-blush floral and warm gold sunlight; rich, fresh, glowing, deep greens not muddy.
+TEXTURE & MICRO-DETAIL: leaf-vein and dew detail, linen weave, woven sprigs, skin dew and freckles, petal softness, dappled-light freckling, pearl-earring sheen.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, plastic skin, oversharpened, watermarks, deformed hands, dead eyes, washed-out greens, muddy colour, flat light.
+CAPTION SUGGESTION: "Touch grass, they said. Best advice ever."
+
+---
+
+✦ END — 5 HERO STILLS (each standalone, no chain). Pair any with a Caption + Hook pack. ✦
+
+
+[ END OF CATEGORY 01 — HERO STILLS ]
+
+
+
+
+
+
+====================================================================================================
+====================================================================================================
+====    
+====   CATEGORY [02]  ·  PHOTO CAROUSELS
+====   5 cohesive swipeable photo-dump sets
+====    
+====================================================================================================
+====================================================================================================
+
+
+# AIRA — 5 PHOTO CAROUSELS · SWIPEABLE SETS (Heavy-Detail)
+
+<aside>
+Five carousel sets — the swipeable "photo-dump" format. Each carousel is a COHESIVE set of 6–8 stills that share one aesthetic (palette, wardrobe thread, hair, location) and tell a VIBE, not a transformation story. Slides relate by mood, not by world-state matching — no chain, no handoff. Each set gives: the cohesive look, a per-slide brief (angle/shot-size, action, key detail, palette note), a cover-slide hook, and a caption. 9:16 or 4:5. VIVID colour always. Aira adult, modest, identity-locked — likeness from reference only ("Aira, [placeholder]").
+</aside>
+
+## Global Spec
+- Identity: AIRA reference-locked, adult, modest, non-sexualized, no physical enumeration. Subject intro per slide: "Aira, [placeholder]".
+- Cohesion law: within a carousel, keep ONE wardrobe thread, ONE hairstyle, ONE location/palette so the set reads as one shoot. Vary only angle, shot-size, action and crop slide-to-slide.
+- Distinctness law: the 5 carousels are deliberately different from each other (and from the Hero Stills) in palette, location, wardrobe and hair.
+- Anti-flip: ORIENTATION LOCK on every slide — preserve the exact left-to-right composition; do not mirror, flip or invert.
+- Colour law: VIVID, saturated, rich blacks, zero murk; one bold colour anchor per set.
+- Detail note: each slide brief is lighter than a full hero still but still specifies angle, shot-size, action, the hero detail, light and palette so each frame is buildable.
+
+---
+
+# CAROUSEL 1 — "A DAY IN PARIS" (7 slides)
+THE LOOK: chic Parisian-girl palette — cream, camel, deep red lip; a tailored camel trench over a white tee and straight blue jeans (modest, classic); soft middle-part loose waves, deep brown; gold hoops, a small structured handbag. Warm overcast-to-golden Paris light.
+COVER HOOK (on slide 1): "24 hours in Paris (a photo diary) 🤍"
+- SLIDE 1 (COVER) — WIDE, full body, eye-level: Aira walking toward camera down a cobbled street, Haussmann buildings receding, trench mid-swing. KEY DETAIL: motion in the coat and hair, candid stride. PALETTE: cream/camel vs warm stone. Text overlay space top.
+- SLIDE 2 — MEDIUM, three-quarter: at a café table, hands around an espresso cup, glancing off-camera with a soft smile, croissant and tiny flowers on the table. KEY DETAIL: steam off the cup, red lip on the white cup rim. PALETTE: warm café tones.
+- SLIDE 3 — CLOSE-UP detail (no face): just her hands holding the espresso and a folded newspaper, gold hoops blurred, rings on fingers. KEY DETAIL: texture story — hands, cup, paper. PALETTE: cream/gold.
+- SLIDE 4 — FULL BODY, low angle: standing on a bridge over the Seine, leaning on the rail, looking out, the river and a far bridge behind. KEY DETAIL: trench and hair in the breeze, leading-line rail. PALETTE: soft blue river vs camel.
+- SLIDE 5 — OVER-THE-SHOULDER from behind: Aira facing the Eiffel Tower in the hazy distance, small in frame, sky dominating. KEY DETAIL: she's small, the city is the star; back-pose. PALETTE: soft sky pastels.
+- SLIDE 6 — MEDIUM CLOSE-UP, profile: biting into a fresh macaron at a patisserie window, eyes closed in delight, a real candid laugh-bite. KEY DETAIL: genuine joy, pastel macarons in the window bokeh. PALETTE: pastel pop.
+- SLIDE 7 (CLOSER) — MEDIUM, golden hour: sitting on stone steps at dusk, knees up, chin on hand, content tired smile, warm street-lamps glowing on. KEY DETAIL: end-of-day warmth, golden rim. PALETTE: golden amber.
+CAPTION: "Paris, you have my whole heart. Swipe for the full day → croissants, the Seine, and one very emotional macaron moment. 🥐🤍 Which slide is your fave?"
+
+---
+
+# CAROUSEL 2 — "SLOW COFFEE MORNINGS" (6 slides)
+THE LOOK: cosy, warm, intimate home palette — oatmeal oversized knit, soft cream shorts/leggings (modest), bare feet; soft messy low bun with face-framing tendrils, espresso-brown; no jewelry except a thin ring. Warm window-light, neutral tones, lots of soft texture.
+COVER HOOK (on slide 1): "my comfort = slow mornings + zero plans ☕"
+- SLIDE 1 (COVER) — MEDIUM, high angle: Aira curled in a window nook wrapped in the knit, both hands around a big ceramic mug, soft sleepy smile up at camera. KEY DETAIL: cosy cocoon, steam off the mug. PALETTE: warm oatmeal/cream. Overlay space.
+- SLIDE 2 — CLOSE-UP, no face: the mug on a windowsill beside an open book and a small vase, her hand resting near it, rain or soft sun outside. KEY DETAIL: still-life vibe, condensation/steam. PALETTE: neutral warm.
+- SLIDE 3 — MEDIUM, profile: standing at the kitchen counter pouring coffee from a moka pot, looking down at the pour, morning light from the side. KEY DETAIL: the pour, backlit steam, knit sleeve pushed up. PALETTE: golden kitchen light.
+- SLIDE 4 — CLOSE-UP, three-quarter: face lit by the window, mid-sip with eyes half-closed, a strand loose, genuine quiet contentment. KEY DETAIL: soft skin in window-light, real lashes. PALETTE: soft warm glow.
+- SLIDE 5 — FULL BODY, wide: sitting cross-legged on a rug with a blanket, mug in hand, a plant and warm lamp nearby, candid laughing at something off-frame. KEY DETAIL: lived-in cosy room, real laugh. PALETTE: warm neutrals + green plant pop.
+- SLIDE 6 (CLOSER) — OVER-THE-SHOULDER: from behind, looking out the rainy/sunny window with the mug, a calm back-pose to close. KEY DETAIL: quiet, reflective, blurred view. PALETTE: soft cool window vs warm room.
+CAPTION: "No alarm, no plans, just coffee and quiet. This is the soft life and I'm never giving it back. Save this for your next slow morning. ☕✨"
+
+---
+# CAROUSEL 3 — "DESERT MIRAGE" (7 slides)
+THE LOOK: bold warm-earth palette — a flowing terracotta-orange maxi dress with a cream shawl (modest, wind-catching), tan sandals; long sleek low ponytail or loose waves, deep black; gold cuff and big gold hoops. Vast golden dunes, deep blue sky, harsh-then-golden desert sun.
+COVER HOOK (on slide 1): "got lost in the desert on purpose 🏜️🔥"
+- SLIDE 1 (COVER) — EXTREME WIDE, full body: Aira tiny against an enormous dune and blue sky, walking the ridgeline, dress billowing. KEY DETAIL: scale — she's small, the desert is vast; dramatic. PALETTE: terracotta vs cobalt sky. Overlay top.
+- SLIDE 2 — MEDIUM-FULL, low angle: standing on the crest, shawl thrown wide in the wind like wings, face to the sun, arms slightly open. KEY DETAIL: fabric flight, hero stance. PALETTE: orange/gold.
+- SLIDE 3 — CLOSE-UP, three-quarter: face turned to the warm sun, eyes closed, gold hoop glinting, wind-strands across the cheek, serene. KEY DETAIL: sun-glow skin, sand-grain in air. PALETTE: warm gold.
+- SLIDE 4 — DETAIL, no face: bare feet/sandals in the rippled sand, dress hem pooling, her shadow long across the dune. KEY DETAIL: sand ripple texture, long shadow graphic. PALETTE: gold/shadow-blue.
+- SLIDE 5 — FULL BODY, back-pose: walking away down the dune into the distance, footprints trailing, sky huge. KEY DETAIL: trailing footprints, solitude. PALETTE: amber/blue.
+- SLIDE 6 — MEDIUM, three-quarter: seated on the sand, knees up, looking back to camera with a calm confident half-smile, shawl draped. KEY DETAIL: grounded contrast to the big wides, eye contact. PALETTE: warm earth.
+- SLIDE 7 (CLOSER) — WIDE, golden-hour silhouette: Aira a silhouette against a blazing low sun, dress glowing translucent at the edges, sky on fire. KEY DETAIL: rim-lit silhouette, epic close. PALETTE: blazing orange-red sunset.
+CAPTION: "The desert humbles you. Tiny human, endless sky, and the best golden hour of my life. 🏜️ Slide 7 is my new wallpaper. Yours?"
+
+---
+
+# CAROUSEL 4 — "MIDNIGHT IN TOKYO" (7 slides)
+THE LOOK: vivid neon-night palette — a sleek black mini-trench over a deep-teal turtleneck (modest), black tailored trousers, chunky boots; glossy slicked high ponytail, jet-black; silver ear-cuffs and a single chain. Rain-wet Tokyo streets, magenta/cyan/gold neon everywhere.
+COVER HOOK (on slide 1): "Tokyo at midnight hits different 🌃"
+- SLIDE 1 (COVER) — MEDIUM, three-quarter: Aira under a wall of glowing kanji signage, looking back over her shoulder, neon painting her face. KEY DETAIL: dual magenta/cyan rim, wet-look hair. PALETTE: magenta/cyan. Overlay space.
+- SLIDE 2 — WIDE, full body: standing mid-crosswalk (Shibuya-style), motion-blurred crowd around her, she's the still sharp centre. KEY DETAIL: she's static, the city blurs; long-exposure feel. PALETTE: neon vs dark.
+- SLIDE 3 — CLOSE-UP, front: face lit by a vending-machine glow, cool composed gaze, neon catchlights. KEY DETAIL: vending-machine colour wash, dewy skin. PALETTE: cool blue-green.
+- SLIDE 4 — DETAIL, no face: her boots and reflection in a rain puddle full of neon, umbrella tip. KEY DETAIL: puddle-reflection of signs, wet pavement. PALETTE: reflected neon.
+- SLIDE 5 — OVER-THE-SHOULDER: from behind, walking down a narrow neon alley (Golden-Gai-style), tiny bars glowing, she heads in. KEY DETAIL: depth, glowing lanterns, back-pose. PALETTE: warm-red lantern + neon.
+- SLIDE 6 — MEDIUM CLOSE-UP, profile: inside a glowing ramen shop window, steam rising, a small private smile, warm interior contrast. KEY DETAIL: warm steam vs cold neon outside. PALETTE: warm amber pop.
+- SLIDE 7 (CLOSER) — WIDE, high angle: Aira small on a rain-wet street from above, neon reflections all around her, umbrella up. KEY DETAIL: graphic top-down, reflections halo her. PALETTE: full neon spectrum.
+CAPTION: "Neon, rain, and ramen at 1am. Tokyo doesn't sleep and neither do I. 🌃🍜 Which slide feels like a movie still? (slide 4 imo)"
+
+---
+# CAROUSEL 5 — "COASTAL ESCAPE" (7 slides)
+THE LOOK: fresh Mediterranean palette — crisp white linen set (wide trousers + a relaxed shirt knotted modestly over a cami) and a straw hat; soft natural waves, sun-kissed brown; gold shell-pendant and thin anklet. Whitewashed village, cobalt sea, terracotta roofs, bright blue sky, hard happy sun.
+COVER HOOK (on slide 1): "found my blue-and-white paradise 🌊🤍"
+- SLIDE 1 (COVER) — WIDE, full body: Aira on a whitewashed stairway between blue doors, looking back up the steps, sea peeking behind. KEY DETAIL: white/blue graphic architecture, linen flowing. PALETTE: white/cobalt. Overlay top.
+- SLIDE 2 — MEDIUM, three-quarter: leaning in a blue doorway, straw hat tilted, soft smile, bougainvillea (hot-pink) climbing the wall. KEY DETAIL: pink bloom pop against white, relaxed lean. PALETTE: white + magenta-pink.
+- SLIDE 3 — DETAIL, no face: hand holding the straw hat brim against the sun, sea and sky behind, gold pendant. KEY DETAIL: backlit hat-weave, lens sun-flare. PALETTE: gold/blue.
+- SLIDE 4 — FULL BODY, low angle: standing on a terrace rail edge (safe), arms loose, wind in the linen, the cobalt sea filling the frame behind. KEY DETAIL: sea as backdrop, freedom stance. PALETTE: deep cobalt.
+- SLIDE 5 — CLOSE-UP, front: face tilted to the sun, eyes closed, salt-damp waves, freckles and dewy glow, blissful. KEY DETAIL: sun-kissed skin, real freckles, sea-air. PALETTE: warm bright.
+- SLIDE 6 — OVER-THE-SHOULDER: from behind, sitting on a ledge looking out at sailboats on the sea, hat beside her, calm back-pose. KEY DETAIL: the view is the subject, serene. PALETTE: blue horizon.
+- SLIDE 7 (CLOSER) — MEDIUM, golden hour: at a seaside table with a cool drink, laughing, warm low sun, the sea glittering gold behind. KEY DETAIL: real laugh, gold sea-glitter bokeh, end-of-day joy. PALETTE: golden-blue.
+CAPTION: "Blue doors, white walls, salt in my hair. I think I left a piece of me here. 🌊 Save it for your summer mood board. Slide 2 or slide 5?"
+
+---
+
+✦ END — 5 PHOTO CAROUSELS (Paris · Slow Mornings · Desert · Tokyo · Coastal). Each a cohesive swipeable set, no chain. ✦
+
+
+[ END OF CATEGORY 02 — PHOTO CAROUSELS ]
+
+
+
+
+
+
+====================================================================================================
+====================================================================================================
+====    
+====   CATEGORY [03]  ·  SPOKEN-CONTENT SCRIPTS
+====   5 talking reels (she speaks) - writing + delivery led
+====    
+====================================================================================================
+====================================================================================================
+
+
+# AIRA — 5 SPOKEN-CONTENT SCRIPTS (She Talks · Heavy-Detail)
+
+<aside>
+Five talking reels where Aira SPEAKS to camera. The craft here lives in the WRITING and DELIVERY, not in frame-physics — so there's no clip-chain or handoff. Each script gives: format, length, the visual setup, a scroll-stopping HOOK (first line), the full spoken script broken into timed beats with delivery direction (tone + expression + gesture), the on-screen action / B-roll, on-screen text, the CTA, the caption, and the audio plan. Voice: English, natural Indian accent, warm and real — she sounds like a friend, never an ad-reader. Aira stays adult, modest, identity-locked.
+</aside>
+
+## Global Spec
+- Identity: AIRA reference-locked, adult, modest, non-sexualized. Lip-sync must match the script exactly; natural mouth shapes, no garble.
+- Delivery law: conversational, warm, varied pace — she pauses, she laughs, she emphasizes; never monotone, never reading.
+- Expression law: heavy facial expression direction per beat (brows, eyes, smile, micro-reactions) so the performance feels alive and fluid.
+- Caption-friendly: every script works with burned-in subtitles (most people watch muted).
+- Distinctness: the 5 scripts span different formats and feelings — GRWM, beauty/value, storytime, hot-take, day-in-life voiceover.
+- Each beat format: [timecode] DELIVERY (tone/expression/gesture) — "spoken line." → VISUAL/B-ROLL · ON-SCREEN TEXT.
+
+---
+
+# SCRIPT 1 — GRWM: "Get Ready With Me for a First Date" (~38s, talking GRWM)
+FORMAT: classic GRWM, she does makeup/hair while talking through the nerves of a first date. Feeling: relatable, warm, a little giddy.
+VISUAL SETUP: soft warm vanity light, she's at a mirror mid-routine in a cosy robe (modest), products around; intimate eye-contact through the lens.
+HOOK (0–3s): big-eyed, half-excited-half-nervous, leaning into the lens, brush in hand — "Okay so I have a first date in one hour and I am... not okay. Get ready with me." → quick close-up of her nervous-excited face, then a glance away and back. ON-SCREEN: "GRWM: first date edition 😭"
+BEATS:
+- [3–9s] LIGHT, laughing at herself, dabbing foundation — "I changed my outfit four times. FOUR. The floor of my room is a crime scene right now." → B-roll flash of a messy outfit pile. ON-SCREEN: "send help."
+- [9–16s] SOFTER, focused on blending, a small sincere smile — "He's actually really sweet though. We've been texting for like two weeks and he remembered I hate coriander, so... the bar is on the floor but I'm obsessed." → she pauses, smiles down, then back to mirror.
+- [16–24s] BUILDING, swiping on blush, more animated, eyebrows up — "Here's my thing — I'm not doing the most. A little glow, my favourite blush, the lip I feel like myself in. If he likes me, he likes ME, not a full beat I can't recreate." → close-up of the blush going on, natural flush. ON-SCREEN: "be the most YOU version."
+- [24–32s] GENUINE, slowing down, looking right into lens, hand pausing — "Honestly? I'm nervous because I actually like him. And that's kind of nice. It's been a while since I cared enough to be nervous." → a soft vulnerable beat, real eyes.
+- [32–38s] BRIGHT, snapping back, fluffing hair, a confident grin — "Okay. Lip on, perfume, deep breath. How do I look?" → she turns fully to camera, finished look, a little spin. ON-SCREEN: "wish me luck 🤞"
+CTA: "Tell me your first-date nerves in the comments so I don't feel alone 😭 — and follow for how it went (I WILL be reporting back)."
+CAPTION: "First date in an hour and my heart is in my throat 🫠 Doing a soft, very-me glow because the right person likes the real you. Wish me luck and manifest no awkward silences pls. 🤞 #grwm #firstdate #softglam"
+AUDIO: her voice front and centre; a soft warm lo-fi beat low under it; natural product/brush sounds (ASMR-light). Subtitles burned in.
+
+---
+
+# SCRIPT 2 — VALUE/BEAUTY: "My honest 5-minute everyday glow" (~32s)
+FORMAT: fast, useful, value-first beauty reel — she teaches her real quick routine while talking. Feeling: helpful best-friend, no-BS.
+VISUAL SETUP: bright clean daylight bathroom/vanity, minimal products lined up, fresh modest top; energetic but warm.
+HOOK (0–3s): direct to lens, finger up, confident — "If you have five minutes and you want to look alive — not 'full glam,' just alive — save this." → quick jump-cut of the 5 products in a row. ON-SCREEN: "5-MIN EVERYDAY GLOW ✨"
+BEATS:
+- [3–9s] BRISK, applying, looking between mirror and lens — "Step one, skin tint not foundation. We want skin that looks like skin. Three dots, fingers, blend out. Done in twenty seconds." → close-up of the sheer application. ON-SCREEN: "1. skin tint (not foundation)".
+- [9–15s] WARM, smiling, tapping cheeks — "Cream blush HIGH on the cheeks. This is the whole trick. It's what makes you look like you slept eight hours and drink water." → blush tap, natural flush blooms. ON-SCREEN: "2. cream blush = fake good sleep".
+- [15–21s] PLAYFUL, brushing brows up — "Brows brushed straight up. That's it. No drawing. Instant 'I have my life together' energy." → brow-brush close-up. ON-SCREEN: "3. brows UP".
+- [21–27s] CONFIDENT, dabbing lid — "One cream shade on the lid with your finger, blend the edges, and a little on the inner corner so you look awake." → eye close-up, soft glow. ON-SCREEN: "4. one-finger eye".
+- [27–32s] FINISHING, glossy smile to lens — "Lip oil, press your lips, and go live your life. Five minutes. You're done." → final look, a little head-tilt. ON-SCREEN: "5. lip oil → GO. ⏱️".
+CTA: "Save this for tomorrow morning and follow — I'm doing a 'going out' version next. What look do you want? 👇"
+CAPTION: "The 5-minute routine I actually do when I'm running late. No full coverage, no 12 steps — just looking alive and getting out the door. Save it!! ✨ #beauty #makeuproutine #5minutemakeup #glowup"
+AUDIO: upbeat clean track, her voice on top, satisfying product taps; quick punchy cuts on each step. Subtitles burned in.
+
+---
+# SCRIPT 3 — STORYTIME: "The DM I should NOT have replied to" (~40s)
+FORMAT: storytime — she tells a funny/relatable personal story to camera, building to a punchline. Feeling: juicy, funny, "tell me everything" energy.
+VISUAL SETUP: casual, sitting on her bed/couch in cosy clothes (modest), leaning into the camera like she's gossiping with you; warm lamp light.
+HOOK (0–4s): wide eyes, a disbelieving little laugh, leaning in close — "So a guy I went on ONE date with two years ago just slid back into my DMs and you are not going to believe what he said. Get comfy." → she pulls a pillow into her lap. ON-SCREEN: "storytime: the audacity 💀"
+BEATS:
+- [4–12s] SETTING UP, animated hands — "Okay context: ONE date. Two years ago. He talked about his ex for forty-five minutes and then asked ME to split the dessert he ordered. I never texted back. Iconic of me." → she nods, proud. ON-SCREEN: "ONE date. 45 min about his ex. 🚩"
+- [12–22s] BUILDING, mock-gasp, hand to chest — "So yesterday — two years of silence — my phone buzzes. And it's him. And the message says..." → dramatic pause, she bites her lip, eyebrows up — "...'Hey stranger, you've been on my mind.' STRANGER. Sir, you made me split a brownie." → she throws her head back laughing. ON-SCREEN: "'hey stranger' 🙃".
+- [22–31s] WRY, lower voice, conspiratorial — "And the OLD me would've spiralled, screenshotted it to seven group chats, written a paragraph. But new me?" → a slow confident smile. — "I looked at it. I felt nothing. And I put my phone face-down and finished my chai." → calm sip-mime.
+- [31–40s] WARM, sincere turn, soft smile to lens — "And that's the whole story. Not because I'm cold — because I finally like my own peace more than I like the drama. Growth is boring and it feels amazing." → genuine, settled. ON-SCREEN: "peace > drama. we grew. 🌱".
+CTA: "Tell me your 'hey stranger' story, I KNOW you have one 😭 Follow for part two if he double-texts (he will)."
+CAPTION: "'Hey stranger.' Babe we split a brownie, we are not strangers, we are barely acquaintances 💀 Anyway — the real glow-up is feeling nothing. Drop your DM horror stories below 👇 #storytime #datingstories #growth #relatable"
+AUDIO: just her voice (storytime = intimacy), maybe the faintest bed of room-tone; no loud music so the words land. Subtitles burned in, emphasised words highlighted.
+
+---
+
+# SCRIPT 4 — HOT TAKE: "Why I stopped chasing the perfect morning routine" (~35s)
+FORMAT: opinion/hot-take to camera — a mini-monologue with a point of view. Feeling: refreshing, a little contrarian, validating.
+VISUAL SETUP: she's mid-ordinary-morning (real, slightly messy kitchen), holding a mug, talking casually — NOT a polished aesthetic; that's the point. Soft daylight.
+HOOK (0–4s): flat, honest, a knowing look to lens, mid-sip — "Unpopular opinion: the '5am, ice bath, journal, 10-step morning' is making you feel worse, not better. Let me explain." → she shrugs, sits on the counter. ON-SCREEN: "hot take ☕".
+BEATS:
+- [4–12s] BUILDING, gesturing with the mug — "I tried it. The whole thing. And every day I 'failed' the routine by 6:15 I felt like garbage before my day even started. We turned rest into another job." → eye-roll, half-laugh. ON-SCREEN: "we made mornings a PERFORMANCE."
+- [12–22s] SINCERE, leaning in — "So here's what I actually do now: I wake up when my body's done sleeping. I drink my coffee before I touch my phone. And I do ONE nice thing — open a window, stretch, whatever. That's it. That's the routine." → calm, certain. ON-SCREEN: "wake up → coffee → ONE nice thing.".
+- [22–30s] WARM, softer — "And weirdly? I'm calmer than I've ever been. Because it's not about doing twelve things at dawn. It's about not starting your day already at war with yourself." → a real, settled smile.
+- [30–35s] DIRECT, a gentle challenge to lens — "Your morning doesn't need to be optimised. It needs to be kind. Try it tomorrow." → confident nod, sip. ON-SCREEN: "be kind to your mornings 🤍".
+CTA: "Tell me — are you team 5am-grind or team wake-up-naturally? I need to know I'm not alone 👇 Follow for more 'permission to chill' content."
+CAPTION: "Nobody's morning looks like the videos and that's okay. I stopped optimising my mornings and started actually enjoying them. Coffee before phone changed my LIFE. ☕🤍 Agree or fight me in the comments 👇 #hottake #morningroutine #slowliving #mentalhealth"
+AUDIO: her voice lead, a calm warm track very low; intentionally un-flashy edit (few cuts) so it feels honest. Subtitles burned in.
+
+---
+# SCRIPT 5 — DAY-IN-LIFE VOICEOVER: "A slow Sunday" (~33s, voiceover over B-roll)
+FORMAT: soft voiceover narration over aesthetic day-in-life B-roll — she's not on-camera talking the whole time; her voice narrates while we see her Sunday. Feeling: cosy, reflective, romanticise-your-life. (She appears in the B-roll; the talking is VO.)
+VISUAL SETUP: a series of warm, slow, beautiful Sunday B-roll clips; her voice is calm, low, intimate — like reading a diary entry.
+HOOK (0–4s) [VO over a slow shot of morning light hitting the bed, her stirring awake]: warm, unhurried — "Nobody tells you that the most healing thing in the world is a Sunday with absolutely nowhere to be." → ON-SCREEN: "a slow Sunday 🤍".
+BEATS:
+- [4–11s] [VO over: pouring coffee, steam, bare feet on a wooden floor, opening a window] gentle — "I made my coffee slow. I let the morning be quiet. I didn't reach for my phone first thing, and the world kept turning anyway." → soft natural sounds under.
+- [11–19s] [VO over: her reading by a window, a plant being watered, a candle lit, soft rain or sun] reflective — "I think we forget that rest isn't lazy. Doing nothing, on purpose, is how you hear yourself again." → she turns a page, a small content smile.
+- [19–27s] [VO over: cooking something simple, a face-mask moment, laughing at something on the counter] warmer — "I cooked something just for me. I took care of myself the way I'd take care of someone I love. No rushing. No guilt." → genuine candid joy.
+- [27–33s] [VO over: golden-hour light, her wrapped in a blanket on the couch, eyes closing softly, a calm exhale] tender, almost a whisper — "And by evening I felt like a person again. Protect your slow Sundays. They're putting you back together." → fade on her peaceful face. ON-SCREEN: "protect your peace. 🌙".
+CTA: "This is your sign to do nothing this Sunday. Save it, send it to someone who needs rest, and follow for more soft-life reminders. 🤍"
+CAPTION: "A slow Sunday is self-care nobody can sell you. Coffee before phone, doing nothing on purpose, taking care of myself like I matter. Because I do. And so do you. 🌙 Save this for your next reset day. #slowliving #selfcare #dayinmylife #softlife #sundayreset"
+AUDIO: her soft VO is the hero; a tender ambient piano/lo-fi bed very low; rich diegetic sounds (coffee pour, rain, page turn) for ASMR warmth. Subtitles burned in, gentle.
+
+---
+
+✦ END — 5 SPOKEN SCRIPTS (GRWM · 5-min glow · storytime · hot-take · slow-Sunday VO). Different formats, different feelings; writing + delivery led. ✦
+
+
+[ END OF CATEGORY 03 — SPOKEN-CONTENT SCRIPTS ]
+
+
+
+
+
+
+====================================================================================================
+====================================================================================================
+====    
+====   CATEGORY [04]  ·  BEAUTY / PRODUCT AD CONCEPTS
+====   5 endorsement ad spots across 5 categories
+====    
+====================================================================================================
+====================================================================================================
+
+
+# AIRA — 5 BEAUTY / PRODUCT AD CONCEPTS (Heavy-Detail)
+
+<aside>
+Five endorsement/ad spots. Structured like real ads — Hook → Problem → Product Hero → Proof/Demo → Payoff → CTA — with a shot list, ad copy / voiceover, on-screen supers, and the selling claims. NOT a transformation clip-chain; this is advertising craft. Products are generic placeholders ("[BRAND]", "[PRODUCT]") so you can drop in a real client. Each ad is a different product category and a different creative angle so none feel alike. Aira is the talent/face — adult, modest, identity-locked, believable and warm (she has to look like she actually uses it). Claims are written as marketing copy — swap for legally-approved claims before publishing.
+</aside>
+
+## Global Spec
+- Identity: AIRA reference-locked, adult, modest, non-sexualized; must look authentic and trustworthy on-camera.
+- Format: 15–30s vertical 9:16; designed for paid + organic.
+- Compliance note: all efficacy claims below are placeholder marketing language — replace with client-approved, substantiated claims and add any required disclaimers (#ad / #sponsored).
+- Distinctness: 5 different categories (serum, lip, fragrance, haircare, SPF) and 5 different ad structures (demo, torture-test, cinematic-sensory, transformation-proof, problem-solution).
+- Each concept: Product · Big Idea · Target Feeling · Length · Structure (timed beats with SHOT + COPY/VO + SUPER) · Hero Claims · CTA · Caption · Production Notes.
+
+---
+
+# AD 1 — FACE SERUM · "The Glow Proof" (demo / before-after-in-one-take, ~25s)
+PRODUCT: [BRAND] [Vitamin-C / Glow Serum].
+BIG IDEA: don't TELL them it works — show visible glow happen on bare skin in real time, in one honest, no-filter close-up.
+TARGET FEELING: trust + desire ("I want THAT skin").
+LENGTH: ~25s.
+STRUCTURE:
+- [0–3s] HOOK · SHOT: extreme macro on Aira's bare, un-made-up cheek in clean daylight, dewy but real (pores visible). COPY (VO, warm): "This is my skin with zero makeup. Watch what three drops do." SUPER: "no filter. no foundation."
+- [3–8s] PROBLEM · SHOT: she looks at her skin in a mirror, neutral, points to a dull/tired area under-eye. VO: "Dull, tired, a bit uneven — winter skin, basically." SUPER: "dull · tired · uneven".
+- [8–15s] PRODUCT HERO · SHOT: glossy macro of the dropper releasing three golden drops into her palm; slow product-beauty shot, bottle catching light. VO: "Three drops. Vitamin C, niacinamide, hyaluronic acid." SUPER: "the [PRODUCT] ✦".
+- [15–20s] PROOF/DEMO · SHOT: she presses it in; a clean push-in on the cheek as the skin visibly drinks it and starts to glow — dewy, plumped, luminous (real, not CGI). VO, a little wow: "Look at that. It just... drinks it." SUPER: "watch the glow →".
+- [20–25s] PAYOFF + CTA · SHOT: she turns to lens, fresh radiant bare-skin smile, holds the bottle by her cheek. VO: "Skin that looks like skin — just better. This is the one." SUPER + CTA: "[BRAND] Glow Serum · link in bio · code AIRA15".
+HERO CLAIMS (placeholder): "visibly brighter in [X] days," "72-hour hydration," "dermatologist-tested," "non-sticky."
+CTA: "Get the glow → link in bio. Use AIRA15. Your future skin says thank you."
+CAPTION: "#ad I don't post products I don't actually use, and this serum earned its spot on my shelf. Three drops, real glow, no filter needed. 🍊✨ Linked it for you — code AIRA15. #skincare #glowserum #vitaminc"
+PRODUCTION NOTES: shoot in soft north daylight, NO beauty-filter (authenticity is the whole sell); real macro lens; the "glow" should be lighting + genuine product dewiness, not post FX.
+
+---
+
+# AD 2 — LIPSTICK · "The Torture Test" (torture-test / proof-driven, ~22s)
+PRODUCT: [BRAND] [Transfer-Proof Matte Lip].
+BIG IDEA: prove the "won't budge" claim by trying (and failing) to ruin it — coffee, kissing a mug, a burger, a white shirt. Fun, confident, evidence-based.
+TARGET FEELING: delight + "okay I'm convinced."
+LENGTH: ~22s.
+STRUCTURE:
+- [0–3s] HOOK · SHOT: Aira applies the lip once, fast, then looks at lens with a challenging grin. COPY (VO, playful): "They said transfer-proof. Let's actually test that." SUPER: "transfer-proof?? let's see. 👀".
+- [3–8s] TEST 1 · SHOT: close-up — she sips from a white coffee mug, pulls it away → mug rim CLEAN. VO: "Coffee. Clean." SUPER: "test 1: ☕ PASS".
+- [8–12s] TEST 2 · SHOT: she presses her lips to the back of her hand → no mark. VO, eyebrows up: "Okay, the hand test. Nothing." SUPER: "test 2: 💋 PASS".
+- [12–16s] TEST 3 · SHOT: she takes a big bite of a messy burger, chews, grins → lip still perfect. VO, laughing: "A whole BURGER. Are you kidding me." SUPER: "test 3: 🍔 PASS".
+- [16–20s] PRODUCT HERO · SHOT: glossy bullet-twist macro of the lipstick, swatch of the shade, name. VO: "Eight hours. One coat. Doesn't budge." SUPER: "[PRODUCT] in 'shade name'".
+- [20–22s] PAYOFF + CTA · SHOT: she blows a kiss to lens, lip flawless. VO: "Believe the hype." SUPER + CTA: "shop now · link in bio".
+HERO CLAIMS (placeholder): "8-hour wear," "transfer-proof," "one-swipe coverage," "non-drying matte."
+CTA: "The shade is 'X' and it's linked in my bio. Run, don't walk. 💋"
+CAPTION: "#ad I tried to ruin this lipstick and it WOULD NOT let me 😭 coffee, a burger, everything — still perfect. Obsessed. Shade linked in bio! 💋 #lipstick #transferproof #makeup #beautytok"
+PRODUCTION NOTES: real demos, single takes where possible (the realism is the proof); crisp macro on each "clean" reveal; upbeat playful track; quick satisfying cuts and SUPER stamps ("PASS") for shareability.
+
+---
+# AD 3 — FRAGRANCE · "Bottled Golden Hour" (cinematic / sensory, ~30s)
+PRODUCT: [BRAND] [Eau de Parfum].
+BIG IDEA: you can't smell a scent through a screen — so SELL THE FEELING. A wordless cinematic mood-film that makes the fragrance feel like a warm golden-hour memory. Aspirational, sensory, high-end.
+TARGET FEELING: longing + luxury ("I want to feel like that").
+LENGTH: ~30s.
+STRUCTURE (mostly visual + a few whispered lines / end-line):
+- [0–5s] HOOK · SHOT: slow-motion macro — golden sunlight through sheer curtains, Aira's silhouette turning, hair catching light; dreamy, warm. SUPER: (none yet — let it breathe). VO (soft, intimate whisper): "Some feelings deserve a scent."
+- [5–12s] MOOD BUILD · SHOT: a montage of warm sensory fragments — fingertips trailing a silk slip-dress, a wrist lifted near the jaw, sun-flare, a soft genuine smile, linen and skin. Slow, luxurious, gold. VO: (silence — music swells).
+- [12–18s] PRODUCT HERO · SHOT: the bottle on a sunlit surface, light refracting through the liquid (amber-gold), a hand reaching for it in slow motion, a single elegant spritz catching the light as mist. SUPER: "[PRODUCT] · Eau de Parfum".
+- [18–24s] THE FEELING · SHOT: Aira, freshly spritzed, eyes closing as she breathes it in, a slow content exhale, then opening her eyes warm and luminous to the low sun. VO (soft): "Warm. A little gold. Unforgettable." SUPER: "notes: amber · vanilla · neroli".
+- [24–30s] PAYOFF + CTA · SHOT: she walks into the golden light away from camera, glancing back once, the bottle held loosely; logo resolve over warm bokeh. VO: "Wear the way it feels." SUPER + CTA: "[BRAND] · discover the scent · link in bio".
+HERO CLAIMS (placeholder): "long-lasting eau de parfum," "warm amber-vanilla," "for day into night."
+CTA: "Some things you have to feel. Discover [PRODUCT] → link in bio. 🌅"
+CAPTION: "#ad This is what golden hour would smell like if you could bottle it. Warm amber, soft vanilla, a little bit of magic. My new signature. 🌅 Linked in bio. #fragrance #perfume #eaudeparfum"
+PRODUCTION NOTES: shoot at real golden hour or warm-gel equivalent; slow-motion + shallow macro; almost no dialogue (fragrance = mood, not facts); lush orchestral/ambient swell carries it; ultra-premium colour grade, maximum warm-gold but rich (not washed).
+
+---
+
+# AD 4 — HAIRCARE · "From Frizz to Glass" (transformation-proof / split-screen, ~24s)
+PRODUCT: [BRAND] [Smoothing Hair Serum / Mask].
+BIG IDEA: an honest, satisfying before-and-after — dry, frizzy, dull "before" vs glassy, smooth, shiny "after" — with the satisfying application moment as the centrepiece. Proof you can SEE.
+TARGET FEELING: oddly-satisfying + "my hair NEEDS this."
+LENGTH: ~24s.
+STRUCTURE:
+- [0–3s] HOOK · SHOT: split-screen / quick toggle — her frizzy dry hair on one side, glass-smooth on the other. COPY (VO): "Same hair. Same day. One product." SUPER: "frizz → glass ✨".
+- [3–9s] PROBLEM · SHOT: real close-up of dry, frizzy, flyaway ends in unflattering honest light; she tugs a brush through and it catches. VO, relatable: "Humidity destroys me. Frizz, flyaways, zero shine — by noon it's over." SUPER: "the frizz struggle 😩".
+- [9–15s] PRODUCT HERO + APPLICATION · SHOT: pumps the serum into palms (glossy macro), smooths it down the lengths — the ASMR-satisfying glide, hair instantly laying down sleek. VO: "Two pumps, mid-length to ends. Watch it." SUPER: "[PRODUCT] · 2 pumps".
+- [15–20s] PROOF · SHOT: slow reveal — she flips the now glass-smooth, mirror-shiny hair; light glides along it; she runs fingers through with zero snag. VO, satisfied: "Glass. No frizz, all shine, and it's not greasy." SUPER: "💧 no grease · all shine".
+- [20–24s] PAYOFF + CTA · SHOT: confident hair-flip to lens, glossy smile. VO: "This is the one that actually works." SUPER + CTA: "shop [BRAND] · link in bio · AIRA10".
+HERO CLAIMS (placeholder): "humidity-resistant smoothing," "adds shine," "heat-protectant," "lightweight, non-greasy."
+CTA: "Frizz-free, glass-shine hair → it's linked in my bio. Code AIRA10. 💧"
+CAPTION: "#ad From frizz to GLASS in two pumps 😮‍💨 I've tried everything and this is the only thing that survives humidity. Linked it + code AIRA10. #haircare #frizzcontrol #glasshair #hairtok"
+PRODUCTION NOTES: keep the 'before' genuinely unflattering (honesty sells the after); macro on the smoothing glide (the satisfying hero moment); consistent lighting before/after so the change reads as real; crisp shine highlights; satisfying ASMR audio of the glide + a clean beat.
+
+---
+# AD 5 — SPF / SKINCARE · "The Invisible Step You're Skipping" (problem-solution / education, ~26s)
+PRODUCT: [BRAND] [Daily SPF 50 Fluid].
+BIG IDEA: confront the #1 objection ("SPF is greasy, white, a pain") and dismantle it — an educational, no-BS problem-solution ad that positions this SPF as the one that fixed all of it. Smart, trustworthy, slightly myth-busting.
+TARGET FEELING: "oh, I've been doing this wrong" + relief.
+LENGTH: ~26s.
+STRUCTURE:
+- [0–4s] HOOK · SHOT: Aira to lens, finger up, honest — close, bright daylight, fresh skin. COPY (VO): "If your skincare doesn't end with SPF, you're basically wasting it. But I get why you skip it — so did I." SUPER: "the step you're skipping ☀️".
+- [4–10s] PROBLEM · SHOT: quick relatable cuts — a thick white cream leaving a grey cast, a greasy forehead, glasses sliding. VO: "Greasy. White cast. Stings my eyes. Pills under makeup. We've all been there." SUPER: "greasy · white cast · pilling 🚫".
+- [10–16s] PRODUCT HERO + DEMO · SHOT: she dispenses the lightweight fluid, smooths it on → it MELTS in clear, no white cast (show on bare skin), instant soft glow. VO: "This one is a fluid. Watch — zero white cast, not greasy, gone in seconds." SUPER: "[PRODUCT] SPF 50 · invisible finish".
+- [16–22s] PROOF · SHOT: she applies makeup right over it (no pilling), then checks skin in daylight — fresh, glowy, protected. VO: "Sits perfect under makeup. Actually feels like skincare." SUPER: "✓ no cast ✓ no grease ✓ makeup-friendly".
+- [22–26s] PAYOFF + CTA · SHOT: confident to lens, tapping cheek, glowing. VO: "Wear it every single day. Future-you is begging you." SUPER + CTA: "[BRAND] SPF 50 · link in bio".
+HERO CLAIMS (placeholder): "SPF 50 / broad spectrum," "no white cast," "lightweight fluid," "layers under makeup."
+CTA: "Stop skipping it. The SPF that changed my mind → link in bio. ☀️ Your skin in 10 years will thank you."
+CAPTION: "#ad The reason you hate SPF is you haven't tried THIS one. No white cast, no grease, disappears into skin, sits under makeup. Daily SPF is the cheapest anti-aging there is. ☀️ Linked! #spf #suncare #skincaretips #antiaging"
+PRODUCTION NOTES: educational tone, fast informative cuts; the no-white-cast demo MUST be on bare visible skin in honest daylight (that's the proof); clean bright grade; confident best-friend delivery; end on a trustworthy direct-to-lens.
+
+---
+
+✦ END — 5 BEAUTY/PRODUCT ADS (serum demo · lip torture-test · fragrance mood-film · haircare before/after · SPF problem-solution). 5 categories, 5 structures. Replace placeholder claims with approved copy + #ad. ✦
+
+
+[ END OF CATEGORY 04 — BEAUTY / PRODUCT AD CONCEPTS ]
+
+
+
+
+
+
+====================================================================================================
+====================================================================================================
+====    
+====   CATEGORY [05]  ·  CAPTION + HOOK PACKS
+====   5 text-layer packs (hooks, captions, CTAs, hashtags)
+====    
+====================================================================================================
+====================================================================================================
+
+
+# AIRA — 5 CAPTION + HOOK PACKS (The Text Layer · Heavy-Detail)
+
+<aside>
+Five ready-to-use packs of the text that actually drives reach — the HOOK (first line / on-screen text that stops the scroll) and the CAPTION (what holds them + drives the action). Each pack is built around one content ANGLE in Aira's voice (warm, real, a little witty, never cringe). Each gives: 5 scroll-stopping hooks, a long caption, a short caption variant, CTA options, a hashtag set, and a "best for" note. Pair any pack with a Hero Still, Carousel, Spoken Script, or Reel. Aira's voice = confident but warm, self-aware, relatable; she talks WITH you, not AT you.
+</aside>
+
+## How to use
+- HOOK = the first 1–2 seconds (on-screen text) or the first caption line. It must create curiosity, emotion, or a promise. Most reach is won or lost here.
+- CAPTION = expands the moment, adds voice/value, and ends with ONE clear CTA + a question to drive comments.
+- Rotate hooks; don't reuse the same opener back-to-back (keeps the feed feeling fresh).
+
+---
+
+# PACK 1 — CONFIDENCE / EMPOWERMENT
+BEST FOR: hero stills (Cover Girl, Neon), power-walk reels, "she walked in" energy, outfit moments.
+HOOKS (first line / on-screen text):
+1. "Romanticize being the main character. The supporting roles are taken."
+2. "I'm not for everyone. I'm for me. That's the whole point."
+3. "POV: you finally stopped shrinking to make other people comfortable."
+4. "The confidence wasn't given to me. I built it. Brick by brick."
+5. "Walk in like the room was waiting for you. (It was.)"
+LONG CAPTION: "Nobody handed me this. I used to wait for permission — to speak, to take up space, to want more. Then one day I just... stopped waiting. Confidence isn't a feeling you're born with, it's a decision you make again and again until it's yours. You don't have to feel ready. You just have to walk in. 🤍 What's one thing you're done shrinking for? Tell me below 👇"
+SHORT CAPTION: "Built, not given. 🤍 Walk in like the room was waiting."
+CTA OPTIONS: "Tell me below 👇" · "Save this for a day you forget your power." · "Send it to a girl who needs the reminder."
+HASHTAGS: #confidence #selfworth #mainCharacterEnergy #selflove #mindset #empowerment #becomingher
+NOTE: pairs best with bold, direct-to-lens visuals and a strong/triumphant audio.
+
+---
+
+# PACK 2 — RELATABLE / FUNNY
+BEST FOR: storytime reels, deadpan moments, "don't text him back," everyday-chaos content.
+HOOKS:
+1. "Nobody: ... me at 2am rewriting a text I'm never going to send:"
+2. "Tell me you're an overthinker without telling me you're an overthinker. I'll go first."
+3. "The audacity of him to text 'hey stranger' like we didn't split a brownie."
+4. "Being my own situationship because at least I know I'll show up."
+5. "Me romanticizing my life so I don't have a breakdown in the cereal aisle:"
+LONG CAPTION: "Why is being a person SO much sometimes 😭 I planned my whole week, drank my water, did the affirmations — and then one 'hey stranger' text undid me for a solid four minutes. We're all just out here pretending we have it together while googling 'is it normal to-' at midnight. Anyway. We move. 💀 Tell me your most unhinged overthinking moment so I feel normal 👇"
+SHORT CAPTION: "We're all held together by chai and delusion and that's okay 😭"
+CTA OPTIONS: "Tell me I'm not alone 👇" · "Tag someone who does this." · "Comment if you felt this in your soul."
+HASHTAGS: #relatable #overthinking #storytime #justgirlythings #itbelikethat #comedy #fyp
+NOTE: works muted — punchy on-screen text is the joke; keep captions casual and lowercase-friendly.
+
+---
+
+# PACK 3 — AESTHETIC / ASPIRATIONAL
+BEST FOR: travel carousels (Paris, Coastal, Desert, Tokyo), golden-hour stills, "romanticize your life" vibes.
+HOOKS:
+1. "A soft life is the only luxury I'm interested in."
+2. "Collecting moments like this so future-me remembers she was happy."
+3. "POV: you decided your ordinary life was worth romanticizing."
+4. "Some places don't feel real until you're standing in them."
+5. "This is your sign to book the trip / take the photo / wear the dress."
+LONG CAPTION: "I used to save 'the good life' for someday — the right time, enough money, when I'd earned it. Now I think the whole point is to find the beauty in the Tuesday, the coffee, the light hitting the wall just right. You don't need a reason to make your life feel like a film. You just need to start paying attention. 🤍🌅 Where's the most beautiful place you've ever just... existed?"
+SHORT CAPTION: "Romanticize it all. Even the ordinary. Especially the ordinary. 🤍"
+CTA OPTIONS: "Save this for your mood board." · "Where to next? 👇" · "Send to your travel bestie."
+HASHTAGS: #softlife #aesthetic #romanticizeyourlife #travel #goldenhour #slowliving #wanderlust
+NOTE: keep these dreamy and a little poetic; pairs with warm grades and ambient/cinematic audio.
+
+---
+
+# PACK 4 — VULNERABLE / STORYTIME (deeper connection)
+BEST FOR: monsoon/window stills, slow-Sunday VO, reflective reels, growth content.
+HOOKS:
+1. "I didn't lose myself all at once. It happened quietly. Here's how I found my way back."
+2. "The hardest glow-up isn't the face. It's the part nobody films."
+3. "Nobody warns you that healing is mostly boring. And lonely. And worth it."
+4. "I used to be afraid of being alone. Now it's my favourite place."
+5. "This is the most honest thing I've posted in a while."
+LONG CAPTION: "For a long time I measured myself by how useful I was to other people. I said yes when I meant no. I called it being kind — it was being scared. Learning to choose myself felt selfish at first, like I was breaking a rule. But the quiet I have now? The peace? I'd give up a hundred people-pleasing versions of me for it. If you're in the messy middle of becoming yourself — keep going. It's so worth it on the other side. 🤍 What's something you've made peace with this year?"
+SHORT CAPTION: "Choosing myself wasn't selfish. It was survival. 🤍"
+CTA OPTIONS: "Share something you've made peace with 👇" · "Save this for a hard day." · "Send it to someone in their messy middle."
+HASHTAGS: #growth #healing #selfdiscovery #mentalhealth #vulnerability #becoming #softlife
+NOTE: lower the production gloss; sincerity outperforms polish here. No music or very soft music so words breathe.
+
+---
+
+# PACK 5 — TIPS / VALUE (save-and-share)
+BEST FOR: GRWM/5-min routine, beauty ads, how-to carousels, anything teaching something.
+HOOKS:
+1. "Save this before it gets buried — the 5-minute version nobody tells you."
+2. "Things I wish I knew before I wasted money on [X]:"
+3. "Stop scrolling — this is the only [routine/tip] you actually need."
+4. "The one step you're skipping that changes everything:"
+5. "Steal my exact [routine/list] (you're welcome):"
+LONG CAPTION: "Bookmarking this so you stop overcomplicating it 🤍 I spent way too long (and way too much) figuring this out, so here's the cheat sheet: keep it simple, do the basics consistently, and ignore the noise telling you that you need 14 steps. Less, done well, beats more, done never. Save it, try it this week, and come tell me how it went 👇 Which tip are you trying first?"
+SHORT CAPTION: "Save this. Future-you running out the door will thank you. ⏱️🤍"
+CTA OPTIONS: "Save it for later 🔖" · "Which tip are you trying first? 👇" · "Follow for part 2."
+HASHTAGS: #tips #beautytips #lifehacks #routine #howto #savethis #valuecontent
+NOTE: lead with the promise; deliver fast; the save + share is the goal, so always tell them to save.
+
+---
+
+✦ END — 5 CAPTION + HOOK PACKS (confidence · funny · aesthetic · vulnerable · value). Mix and match with any visual. ✦
+
+
+[ END OF CATEGORY 05 — CAPTION + HOOK PACKS ]
+
+
+
+
+####################################################################################################
+##   END OF AIRA CONTENT LIBRARY — 25 DELIVERABLES ACROSS 5 CATEGORIES
+####################################################################################################
