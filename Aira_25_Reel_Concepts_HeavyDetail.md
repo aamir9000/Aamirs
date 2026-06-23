@@ -2835,3 +2835,628 @@ CUT LOGIC: ANGLE-CUT / LOOP back to CLIP 1; the next pass re-triggers the genre-
 - Loop: a clean ~28s loop matching the visual loop point.
 
 ---
+
+# CONCEPT B-4 — DON'T TEXT HIM BACK
+
+Title: World-Reacts Hero — a phone that physically refuses to let her text back.
+Category / Format: Relatable-humour reel (cosy evening apartment) · SPOKEN (one wry English line, natural Indian accent) · CLIP-CHAIN, ANGLE-CUT edit · MOOD-MAGIC (the phone resists her — slides away, dims, scrambles — because even the world knows she shouldn't).
+Story Idea: Aira's phone buzzes on a cosy sofa. Every time she tries to text back, the phone fights her — it slides away across the velvet, the screen dies in her hand, the keyboard letters scramble and dodge her thumb. She finally surrenders, tosses it face-down, and the whole room exhales a warm sigh of relief.
+Setting: a deeply cosy maximalist living room at evening — a midnight-navy velvet sofa, stacked bookshelves, warm amber lamps, a flickering candle, a rain-streaked window glowing with city lights, a sheepskin, dried roses; rich and intimate.
+Wardrobe: a soft oversized camel cashmere sweater with a wide cowl neck, black silk lounge pants; cosy, modest.
+Footwear: barefoot, toes tucked under a throw, a thin gold toe-ring — constant.
+Eyewear: none.
+Accessories: a single gold hairpin, small pearl drop earrings, a thin gold bracelet, warm nude-pink glossy nails, a throw blanket.
+Hair: a loose tousled French twist, pieces falling around the face, a single decorative gold hairpin — constant.
+Makeup: soft evening glow — luminous skin, warm rose lip, subtle bronze lid, real pores.
+Hero Movement / Impossible Move: the phone physically resists her — sliding away, dimming, scrambling its keyboard — every time she tries to text back.
+Transformation Trigger (signature, consistent): HER ATTEMPTS TO USE THE PHONE — each reach, grab, or tap triggers the phone's next act of resistance; when she finally gives up and tosses it away, the magic resolves into the room's relief. Same trigger (her trying) governs each beat.
+Mood: RELATABLE HUMOUR — affectionate, wry, warm (never slapstick or mocking).
+Grade: VIVID cosy evening — saturated midnight-navy velvet + warm amber lamplight + candle-gold + camel sweater + city-light rim; rich blacks, full mid-tone.
+Duration: ~26 seconds · 6 clips (angle-cut chain).
+Voice: SPOKEN — one wry surrender line; otherwise diegetic + score.
+Identity safety: AIRA adult; wardrobe modest cosy loungewear; mood warm and relatable, never sexualized.
+State chain (angle-cut): CLIP 1 three-quarter [phone buzzes, reaches → ★ phone SLIDES away] → CUT → CLIP 2 close-up [chases, grabs it → screen DIES] → CUT → CLIP 3 profile [taps dead screen, ★ it lights but keyboard SCRAMBLES] → CUT → CLIP 4 extreme macro [keys DODGE her thumb] → CUT → CLIP 5 low-hero [★ surrender toss, room EXHALES relief] → CUT → CLIP 6 three-quarter [phone buzzes again = CLIP 1, loop].
+
+---
+
+## CLIP 1 of 6 — THREE-QUARTER BODY · FRONT · EYE-LEVEL (phone buzzes; ★ her reach makes it SLIDE away)
+
+### START IMAGE (keyframe — phone glowing on the cushion)
+ANGLE & SHOT SIZE: eye-level THREE-QUARTER BODY (knees-up), curled on a deep velvet sofa, a throw over her legs, the phone face-up and glowing on the cushion beside her.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: the soft oversized camel cashmere sweater, wide cowl neck, over black silk lounge pants; cosy and chic.
+FOOTWEAR: barefoot, toes tucked under the throw, a thin gold toe-ring visible.
+EYEWEAR: none.
+ACCESSORIES: a single gold hairpin in the twist, small pearl drop earrings, a thin gold bracelet, nude-pink glossy nails.
+HAIR: a loose tousled French twist, pieces falling around the face, the gold hairpin catching lamplight.
+MAKEUP: soft evening glow — luminous skin, warm rose lip, subtle bronze lid, real pores.
+HANDS & NAILS: one hand resting on her chest (just startled by the buzz), the other by her side close to the phone but not reaching yet; nude-pink glossy nails.
+FACIAL MICRO-DYNAMICS: the "oh no" moment — eyes darting to the phone, brow lifting with surprised alertness, lips pressing, a visible internal debate beginning, half-hopeful/half-resistant.
+BODY POSTURE & WEIGHT: curled into the sofa corner, weight settled into the cushions, shoulders soft, breathing.
+KINETIC STILLNESS (8 layers): (1) the phone screen glowing with a notification; (2) the candle flame flickering as if reacting; (3) a falling hair-piece drifting at the temple; (4) the throw fabric shifting; (5) chest rising on a startled breath; (6) rain streaking the city-lit window; (7) an amber lamp glow pulsing softly; (8) a slow blink.
+SPATIAL LOGIC: FOREGROUND — the glowing phone on the velvet, sharp. MIDGROUND — Aira curled on the sofa. BACKGROUND — the cosy room, bookshelves, rain-window in warm bokeh.
+LIGHTING: KEY — warm amber lamp from camera-left. FILL — candle flicker as accent. RIM — cool city-light from the rain-window. PRACTICAL — amber lamp, candle, phone glow, city window. SEPARATION — warm room behind a softly lit figure. BOUNCE — warm amber under the chin.
+LENS + DOF + BOKEH: 40mm, f/2.8; Aira and the phone sharp, the room melting to warm bokeh.
+COMPOSITION: vertical 9:16, Aira centre curled on the sofa, the phone glowing lower-right as the focal pull, the cosy room enveloping.
+SUBJECT FRAMING & POSITION: Aira reads from the knees up curled in the sofa corner, framed three-quarter so her face is near-front while her body nestles into the cushions, the phone on the cushion beside her. The camera holds a medium three-quarter distance at sofa-height eye level; she anchors centre with the phone lower-right. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: cosy rainy-evening intimacy, the tension of a buzzing phone.
+COLOUR GRADE: VIVID cosy evening — saturated midnight-navy velvet, warm amber, candle-gold, camel sweater; rich, full mid-tone.
+TEXTURE & MICRO-DETAIL: plush velvet nap, soft cashmere knit, candle-flame detail, the hairpin's gold gleam, phone-screen glow, rain on glass.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
+
+### ANIMATION (this clip, ~5s — phone buzzes; ★ her reach makes it SLIDE away)
+SHOT TYPE & ANGLE: eye-level three-quarter body; subject ~50% centre.
+CAMERA MOVEMENT (CHOREOGRAPHY): a slow static-to-push-in hold, building tension — one continuous shot.
+LENS: 40mm, f/2.8, shallow.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–1.5s — she jolts slightly at the buzz, eyes darting to the phone.
+- 1.5–2.5s — ★ TRIGGER: she reaches for the phone — and it SLIDES away from her hand across the velvet, as if pulled.
+- 2.5–5.0s — she leans, chasing it; her surprise melts into indignant disbelief.
+FLUIDITY & WEIGHT NOTES: the reach is decisive; the phone's slide is smooth and deliberate; her lean follows with real cushion weight-shift; all motion eases.
+FABRIC/HAIR/PROP PHYSICS: the phone buzz vibrates a micro-slide on the velvet, then on her reach it slides laterally with correct friction, the velvet nap bending in its wake; the candle flickers; the throw shifts.
+FOOTWORK & BODY FLOW: a seated lean and reach, weight shifting on the cushions.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE SLIDE at 1.5–3.0s — triggered by her reach, the phone slides away across the cushion just out of reach, leaving a faint trail-indent in the velvet nap; the candle flame leans as if stifling a laugh.
+LIGHTING-IN-MOTION: the phone glow moves with the slide, dragging a small light-trail across the velvet and her hand.
+DIEGETIC AUDIO: the phone buzz (sharp, insistent); a soft gasp; the velvet slide (a soft shushing friction); candle crackle; rain on glass.
+MASTER TRACK: a quiet plucked acoustic guitar with vinyl-crackle; muted pizzicato strings entering on the slide (comedic tension).
+END STATE / STATE-MATCH LOCK (heavy detail — CLIP 2's START IMAGE must reproduce 100%, new angle only): at clip end the phone sits glowing just out of reach across the velvet, a trail-indent in the nap; Aira leaning, indignant-disbelieving, camel sweater, French twist, the cosy room warm around. CLIP 2 must open in this EXACT state (same phone position, same velvet trail, same warm room, same wardrobe/lean) — only the camera angle changes.
+CUT LOGIC: hard ANGLE-CUT to CLIP 2 (close-up). No motion-match; WORLD STATE matches 100%.
+
+---
+
+## CLIP 2 of 6 — CLOSE-UP · THREE-QUARTER · EYE-LEVEL (opens phone-out-of-reach = CLIP 1 end; ★ grabs it → screen DIES)
+
+### START IMAGE (keyframe — reproduces CLIP 1's END STATE, new angle)
+ANGLE & SHOT SIZE: eye-level CLOSE-UP, face and shoulders with her reaching hand and the phone, as she finally grabs it — and it goes dark.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: the camel cashmere sweater at the shoulder, cowl neck — identical state.
+FOOTWEAR: out of frame.
+EYEWEAR: none.
+ACCESSORIES: pearl drop earring catching candle-flicker, thin gold bracelet, gold hairpin, nude-pink nails on the dark screen.
+HAIR: the French twist and falling pieces, gold hairpin, amber-lit.
+MAKEUP: soft evening glow.
+HANDS & NAILS: both hands cupping the phone possessively — she caught it — thumb tapping the unresponsive dark screen; nude-pink glossy nails.
+FACIAL MICRO-DYNAMICS: triumphant satisfaction crumbling into irritated confusion — first a smug corner-smile at catching it, then the smile dropping as the dead screen registers, brow furrowing, jaw setting.
+BODY POSTURE & WEIGHT: leaned in, both hands around the phone, shoulders curling protectively, breathing.
+KINETIC STILLNESS (8 layers): (1) the phone screen aggressively dark; (2) the candle flame flickering as if stifling a laugh; (3) a falling hair-piece drifting; (4) the sweater shifting; (5) chest rising; (6) amber lamp glow; (7) rain on the window; (8) a slow exasperated blink.
+SPATIAL LOGIC: FOREGROUND — the dark phone and her cupping hands, sharp. MIDGROUND — her face. BACKGROUND — the cosy room in warm bokeh.
+LIGHTING: KEY — warm amber lamp. FILL — candle flicker. RIM — cool city-light edge. PRACTICAL — lamp, candle, city window (NO phone glow — it's dead). SEPARATION — warm room behind. BOUNCE — warm amber under the jaw.
+LENS + DOF + BOKEH: 85mm, f/2.0; her face and the dark phone sharp, the room melting to warm bokeh.
+COMPOSITION: vertical 9:16, her face upper, the dark phone cupped in her hands lower-centre — the joke is the black screen in her victorious grip.
+SUBJECT FRAMING & POSITION: Aira is framed in a close-up, face and shoulders with her cupped hands and the phone, three-quarter toward camera. She sits centre, leaning over the phone, the cosy room behind. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: a small absurd betrayal — caught the phone, but it played dead.
+COLOUR GRADE: VIVID cosy evening — navy velvet, amber, candle-gold, the dark phone a void. (Matches CLIP 1 END STATE.)
+TEXTURE & MICRO-DETAIL: the dark glass screen with faint fingerprints, cashmere knit, pearl-earring gleam, candle flicker, nail gloss.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
+
+### ANIMATION (this clip, ~4s — ★ grabs it → screen DIES)
+SHOT TYPE & ANGLE: eye-level close-up; face ~70% centre with hands/phone lower.
+CAMERA MOVEMENT (CHOREOGRAPHY): a static intimate hold — the comedy plays in her face — one continuous shot.
+LENS: 85mm, f/2.0, shallow.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–1.5s — she lunges and catches the phone, cupping it triumphantly.
+- 1.5–2.5s — ★ TRIGGER: she taps the screen to wake it — and it stays aggressively BLACK; she taps again, harder.
+- 2.5–4.0s — triumph crumbles to irritation — eyes narrowing, a micro-headshake.
+FLUIDITY & WEIGHT NOTES: the catch is quick; the thumb-taps escalate in pressure (visible nail-tip compression); the disappointment eases across her face; all motion eases.
+FABRIC/HAIR/PROP PHYSICS: the phone has believable weight in her cupped grip; the thumb hits glass with real tap-force; the screen stays dark — no crack, just refusal; the candle flickers sympathetically.
+FOOTWORK & BODY FLOW: a protective curl over the phone.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE DEATH at 1.5–2.5s — triggered by her tap, the screen goes/stays pointedly black and unresponsive despite escalating taps; the phone playing dead in her hands.
+LIGHTING-IN-MOTION: no phone glow (the void); amber lamp steady; candle flickers.
+DIEGETIC AUDIO: her thumb-taps on glass (tap, tap, harder tap); an exasperated sigh; the phone making NO sound at all (pointedly silent); candle crackle; rain.
+MASTER TRACK: the pizzicato strings tick up the comedic tension over the guitar.
+END STATE / STATE-MATCH LOCK (heavy detail — CLIP 3's START IMAGE must reproduce 100%, new angle only): at clip end she holds the dead-black phone, irritated; the cosy room warm around, candle flickering; camel sweater, French twist. CLIP 3 must open in this EXACT state (same dead phone in hand, same warm room, same wardrobe/mood) — only the angle changes; the screen lights but scrambles within CLIP 3.
+CUT LOGIC: hard ANGLE-CUT to CLIP 3 (profile). No motion-match; WORLD STATE matches 100%.
+
+---
+
+## CLIP 3 of 6 — MEDIUM · FULL PROFILE · SLIGHT LOW ANGLE (opens dead-phone = CLIP 2 end; ★ it lights but keyboard SCRAMBLES)
+
+### START IMAGE (keyframe — reproduces CLIP 2's END STATE, new angle)
+ANGLE & SHOT SIZE: slight low-angle MEDIUM, clean full side-profile, as she holds the phone up and its screen suddenly lights — into scrambled nonsense.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: the camel sweater in profile, cowl neck draping — identical state.
+FOOTWEAR: out of frame.
+EYEWEAR: none.
+ACCESSORIES: pearl earring, thin gold bracelet on the phone-holding wrist, gold hairpin, nude-pink nails against the bright screen.
+HAIR: the French twist in profile, hairpin visible, falling pieces at the jaw.
+MAKEUP: soft evening glow, screen-lit on the near cheek.
+HANDS & NAILS: she holds the phone up in profile, thumb hovering over a scrambled keyboard; nude-pink glossy nails.
+FACIAL MICRO-DYNAMICS: confusion sharpening to "you have GOT to be kidding" — brow knitting, lips parting, eyes scanning the gibberish screen.
+BODY POSTURE & WEIGHT: upright profile, the phone raised, weight centred, breathing.
+KINETIC STILLNESS (8 layers): (1) the screen glowing with scrambled colourful keys; (2) the candle flame flickering; (3) a falling hair-piece; (4) the sweater shifting; (5) chest rising; (6) the gibberish text-field flickering; (7) amber lamp glow; (8) a slow disbelieving blink.
+SPATIAL LOGIC: FOREGROUND — the bright scrambled screen, sharp. MIDGROUND — her profile. BACKGROUND — the cosy room in warm bokeh.
+LIGHTING: KEY — the phone-screen glow on her near cheek. FILL — warm amber lamp. RIM — cool city-light on the profile. PRACTICAL — phone screen, lamp, candle, window. SEPARATION — warm room behind the profile. BOUNCE — screen-glow under the jaw.
+LENS + DOF + BOKEH: 50mm, f/2.8; her profile and the bright screen sharp, the room soft bokeh.
+COMPOSITION: vertical 9:16, profile facing the raised phone frame-right, the scrambled glow lighting her face.
+SUBJECT FRAMING & POSITION: Aira is shown in clean full profile from the waist up, framed medium, holding the phone up before her. Her torso is square in profile. The camera sits a touch low at medium distance; she rides slightly left so the phone is frame-right. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: escalating absurd comedy, warm and wry.
+COLOUR GRADE: VIVID cosy evening — navy, amber, candle-gold, the scrambled screen a colourful glow. (Matches CLIP 2 END STATE.)
+TEXTURE & MICRO-DETAIL: the screen's scrambled colourful keys, glass fingerprints, cashmere knit, pearl gleam, falling hair-piece detail.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light. (Scrambled on-screen text is intentional here.)
+
+### ANIMATION (this clip, ~4s — ★ screen lights but keyboard SCRAMBLES)
+SHOT TYPE & ANGLE: slight low-angle medium profile; subject ~55% left-of-centre.
+CAMERA MOVEMENT (CHOREOGRAPHY): a slow lateral track holding the profile — one continuous shot.
+LENS: 50mm, f/2.8, shallow.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–1.5s — the dead screen suddenly LIGHTS; relief flickers across her profile.
+- 1.5–2.5s — ★ TRIGGER: she goes to type — but the keyboard letters are scrambled into nonsense, glowing random colours.
+- 2.5–4.0s — her thumb chases a key; it dodges; the text-field fills with gibberish; her disbelief peaks.
+FLUIDITY & WEIGHT NOTES: the thumb-descent leads; the key-dodge is a small fast video-game-like slide; all motion eases.
+FABRIC/HAIR/PROP PHYSICS: the keyboard letters scramble and shift in real time; a targeted key slides as her thumb lands; the screen responds to touch but wrong keys register; the candle flickers.
+FOOTWORK & BODY FLOW: an upright lean toward the phone.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE SCRAMBLE at 1.5–3.0s — triggered by her attempt to type, the keyboard letters scramble into glowing nonsense and physically dodge her thumb; correct contact produces wrong gibberish letters.
+LIGHTING-IN-MOTION: the scrambled screen flashes shifting colours across her profile.
+DIEGETIC AUDIO: rapid soft screen-taps; a comical quiet scramble-sound (like shuffling cards) each time keys move; a frustrated grunt; a gibberish notification ping; candle crackle.
+MASTER TRACK: the pizzicato gets playful percussive taps matching her dodged-key chase.
+END STATE / STATE-MATCH LOCK (heavy detail — CLIP 4's START IMAGE must reproduce 100%, new angle only): at clip end the phone shows a scrambled colourful keyboard, her thumb mid-chase; the cosy room warm around; camel sweater, French twist. CLIP 4 must open in this EXACT state (same scrambled screen, same hands, same warm room) — only the angle changes (to the macro screen view).
+CUT LOGIC: hard ANGLE-CUT to CLIP 4 (extreme macro on the screen). No motion-match; WORLD STATE matches 100%.
+
+---
+
+## CLIP 4 of 6 — EXTREME CLOSE-UP / MACRO · OVERHEAD ON SCREEN · (opens scrambled = CLIP 3 end; keys DODGE her thumb)
+
+### START IMAGE (keyframe — reproduces CLIP 3's END STATE, macro)
+ANGLE & SHOT SIZE: overhead/angled-down EXTREME CLOSE-UP / MACRO on the phone screen and her nude-pink-nailed thumbs, the scrambled keyboard filling 80% of frame.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: a camel cashmere cuff at the wrist edge of frame.
+FOOTWEAR: out of frame.
+EYEWEAR: out of frame.
+ACCESSORIES: thin gold bracelet at the wrist, nude-pink glossy nails in sharp focus on the phone.
+HAIR: only a falling twist-piece blurred at the frame edge.
+MAKEUP: out of frame.
+HANDS & NAILS: her thumbs hovering over the scrambled keys, one beginning to press a letter; nude-pink glossy nails, fingerprint detail on the glass.
+FACIAL MICRO-DYNAMICS: out of frame — but the thumbs convey frustration: hovering, twitching, unsure where to press.
+BODY POSTURE & WEIGHT: implied lean over the phone (hands only).
+KINETIC STILLNESS (8 layers): (1) the scrambled keys glowing and shifting; (2) a key sliding away from the descending thumb; (3) the text-field showing gibberish; (4) a faint reflection of the candle on the glass; (5) the bracelet glinting; (6) a fingerprint smudge catching light; (7) a colour-pulse across the keys; (8) a thumb micro-tremor of exasperation.
+SPATIAL LOGIC: FOREGROUND — the screen surface, razor-sharp. MIDGROUND — her thumbs. BACKGROUND — the navy velvet cushion beneath in soft bokeh.
+LIGHTING: KEY — the phone-screen glow lighting her thumbs from below. FILL — warm amber ambient. RIM — none. PRACTICAL — phone screen, candle reflection. SEPARATION — bright screen vs dark velvet. BOUNCE — screen-colour on the fingertips.
+LENS + DOF + BOKEH: 90mm macro, f/2.8, razor-shallow; the screen pin-sharp with fingerprint texture, the velvet melting to bokeh.
+COMPOSITION: vertical 9:16, the phone screen filling most of frame, her thumbs at the edges, the scrambled keys legible and absurd.
+SUBJECT FRAMING & POSITION: an extreme macro on the phone screen and her thumbs, shot overhead/angled-down, the navy cushion beneath. Her hands enter from the lower frame; the screen dominates. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: the comedic peak — a tiny finger-versus-button battle.
+COLOUR GRADE: VIVID — the scrambled keys glowing random saturated colours, warm amber surround, navy velvet. (Matches CLIP 3 END STATE.)
+TEXTURE & MICRO-DETAIL: glass fingerprint smudges, the keys' colour-glow, nail gloss, velvet nap beneath, candle reflection on the screen.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, statue-stiff posture, crushed blacks, garish oversaturation, flat light. (Scrambled on-screen text intentional.)
+
+### ANIMATION (this clip, ~4s — keys DODGE her thumb)
+SHOT TYPE & ANGLE: overhead macro on the screen; screen ~80% of frame.
+CAMERA MOVEMENT (CHOREOGRAPHY): a static macro hold — one continuous shot.
+LENS: 90mm macro, f/2.8, razor-shallow.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–1.5s — her thumb descends toward a key.
+- 1.5–2.8s — the key DODGES; she chases it; it dodges again — a tiny finger-vs-button battle.
+- 2.8–4.0s — increasing thumb-pressure and a visible tremble of exasperation; the text-field a wall of gibberish.
+FLUIDITY & WEIGHT NOTES: the key-slides are smooth, small and fast (video-game dodge); thumb-to-glass contact is precise every time — the comedy is that correct contact yields wrong results; all motion eases.
+FABRIC/HAIR/PROP PHYSICS: keys slide left/jump rows as her thumb lands; thumb-impact shows correct nail-compression on glass; the screen-glow flickers.
+FOOTWORK & BODY FLOW: hands only — increasing tap-speed.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE DODGE at 1.5–3.0s — triggered by her typing attempts, the keys physically dodge her thumb and the text fills with gibberish; the phone's resistance at its most stubborn.
+LIGHTING-IN-MOTION: the keys flash colours as they scramble; the glow flickers on her thumbs.
+DIEGETIC AUDIO: rapid soft screen-taps; a tiny card-shuffle scramble per key-move; an off-screen frustrated grunt; a gibberish ping.
+MASTER TRACK: a playful muted-trumpet "wah" enters, teasing the comedy.
+END STATE / STATE-MATCH LOCK (heavy detail — CLIP 5's START IMAGE must reproduce 100%, new angle only): at clip end the screen is full gibberish, keys dodging, her thumbs trembling with exasperation; the navy cushion and warm room around. CLIP 5 must open by pulling back to the full scene in this state (same scrambled phone, same warm room, same wardrobe) — then she surrenders within CLIP 5.
+CUT LOGIC: hard ANGLE-CUT to CLIP 5 (low-angle hero, full scene). No motion-match; WORLD STATE matches 100%.
+
+---
+
+## CLIP 5 of 6 — FULL BODY · FRONT · SLIGHT LOW ANGLE (★ SURRENDER toss; room EXHALES relief)
+
+### START IMAGE (keyframe — about to give up, reproduces CLIP 4's END STATE, new angle)
+ANGLE & SHOT SIZE: slight low-angle FULL BODY (from floor/coffee-table level), as she accepts defeat — about to toss the phone face-down and sink back.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: the camel cashmere sweater, black silk lounge pants, the throw kicked aside — comfortable defeat.
+FOOTWEAR: barefoot, gold toe-ring, feet up on the sofa now.
+EYEWEAR: none.
+ACCESSORIES: pearl earrings, gold hairpin (twist slightly more undone), thin bracelet, nude-pink nails on the phone.
+HAIR: the French twist a touch undone from the frustration, pieces framing the face beautifully.
+MAKEUP: soft evening glow.
+HANDS & NAILS: one hand holding the phone, about to toss it face-down; the other rising toward her chest; nude-pink nails.
+FACIAL MICRO-DYNAMICS: dramatic surrender melting into genuine relief — first eyes closed, brow furrowed, a theatrical pout, chin lifted ("fine"); then the pout cracking into a small real smile (a fluid melt).
+BODY POSTURE & WEIGHT: sinking back dramatically into the sofa, weight releasing into the cushions, breathing.
+KINETIC STILLNESS (8 layers): (1) the phone poised to land face-down; (2) a warm glow-pulse poised to ripple from where it lands; (3) the candle standing tall and steady; (4) the throw settling; (5) chest rising on a dramatic sigh; (6) the lamp brightening a notch; (7) rain softening on the window; (8) a slow surrendering blink.
+SPATIAL LOGIC: FOREGROUND — the throw and her feet, soft. MIDGROUND — Aira sinking back. BACKGROUND — the cosy room about to "exhale," lamp and candle and rain-window.
+LIGHTING: KEY — warm amber lamp swelling. FILL — candle-gold. RIM — cool city-light. PRACTICAL — lamp, candle, window. SEPARATION — warm room behind. BOUNCE — warm amber under the chin.
+LENS + DOF + BOKEH: 28mm low and wide for the hero-surrender, f/3.2; Aira sharp, the cosy room glowing behind.
+COMPOSITION: vertical 9:16, Aira centre-left in dramatic surrender, the glow-pulse radiating from where the phone lands, the room wrapping like a hug.
+SUBJECT FRAMING & POSITION: Aira reads as a complete full-length figure sinking back into the sofa, framed from a low coffee-table-level angle that gives the surrender a heroic sweep. Her body sprawls back into the cushions. The camera is mid-distance and low; she anchors centre-left with the room glowing around her. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: the warm relief of giving up the bad idea, cosy and earned.
+COLOUR GRADE: VIVID cosy evening at its warmest — navy velvet, amber, candle-gold, camel; rich, full mid-tone. (Matches CLIP 4 END STATE, then warms on the relief-pulse.)
+TEXTURE & MICRO-DETAIL: velvet nap, cashmere knit, candle-flame, the throw fabric, golden glow-pulse, warm skin.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
+
+### ANIMATION (this clip, ~5s — ★ SURRENDER toss; SPOKEN; room EXHALES relief)
+SHOT TYPE & ANGLE: slight low-angle full body; subject ~60% centre-left.
+CAMERA MOVEMENT (CHOREOGRAPHY): a static low hold, holding the hero-surrender — one continuous shot.
+LENS: 28mm, f/3.2, low and wide.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–1.5s — she tosses the phone face-down onto the cushion and sinks back, eyes shutting; ★ SPOKEN BEAT, as the line lands, dry and defeated-amused — "...fine. You win."
+- 1.5–2.8s — ★ the phone lands face-down; a warm glow-pulse ripples outward (the room's sigh of relief) — lamp brightens, candle steadies, rain softens.
+- 2.8–5.0s — the dramatic pout cracks into a small private smile; a gentle exhale-laugh through the nose.
+FLUIDITY & WEIGHT NOTES: the toss has a clean arc and a soft velvet-landing bounce; the pout melts to the smile fluidly; all motion eases.
+FABRIC/HAIR/PROP PHYSICS: the phone rotates in the air and lands face-down with a soft velvet impact and bounce-settle; the glow-pulse travels across surfaces as a warm wash; a throw slides toward her (the couch offering a blanket); the candle gutters then steadies.
+FOOTWORK & BODY FLOW: a full sink-back into the cushions, hands folding on her chest.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE RELIEF at 1.5–2.8s — triggered by the surrender-toss, the room exhales: a warm golden glow-pulse ripples from the landed phone, the lamp brightens, the candle steadies tall, the rain softens — the world rewarding her for not texting back; the phone's resistance-magic resolves.
+LIGHTING-IN-MOTION: the glow-pulse swells then settles to a richer steady warmth — the room one notch cosier than before.
+DIEGETIC AUDIO: the phone toss and velvet-thud; her dry spoken surrender line; the glow-pulse as a soft warm musical sigh (a room exhaling); the lamp-brighten hum; rain softening; her nose-laugh; candle crackle settling.
+MASTER TRACK: a warm "wah-wah" trumpet resolve and a pad-swell at the surrender — the emotional payoff.
+END STATE / STATE-MATCH LOCK (heavy detail — CLIP 6's START IMAGE must reproduce 100%, then RESET): at clip end the room is at its warmest, the phone face-down, Aira sunk back with a private smile, camel sweater, twist undone-chic. CLIP 6 must open by RESETTING to the curled opening pose with the phone face-up and buzzing again — same warm room, same wardrobe.
+CUT LOGIC: hard ANGLE-CUT to CLIP 6 (three-quarter, curled). No motion-match; state resets to CLIP 1.
+
+---
+
+## CLIP 6 of 6 — THREE-QUARTER BODY · FRONT · EYE-LEVEL (phone buzzes again; reset → loop to CLIP 1)
+
+### START IMAGE (keyframe — reproduces CLIP 1's opening)
+ANGLE & SHOT SIZE: eye-level THREE-QUARTER BODY (knees-up), curled on the sofa, throw back over her legs, the phone face-up and buzzing on the cushion again — the opening restored.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: the camel cashmere cowl-neck sweater, black silk lounge pants — matched to CLIP 1.
+FOOTWEAR: barefoot, toes tucked under the throw, gold toe-ring — matched.
+EYEWEAR: none.
+ACCESSORIES: gold hairpin, pearl drop earrings, thin gold bracelet, nude-pink nails — matched.
+HAIR: the loose tousled French twist, falling pieces, gold hairpin — matched to CLIP 1.
+MAKEUP: soft evening glow — matched.
+HANDS & NAILS: one hand on her chest (just startled), the other by her side near the phone but not reaching; nude-pink nails.
+FACIAL MICRO-DYNAMICS: the "oh no" moment returning — eyes darting to the buzzing phone, brow lifting, the internal debate beginning — the exact opening face.
+BODY POSTURE & WEIGHT: curled into the sofa corner, weight settled — mirror of CLIP 1.
+KINETIC STILLNESS (8 layers): (1) the phone screen glowing with a new buzz; (2) the candle flickering; (3) a falling hair-piece; (4) the throw shifting; (5) chest rising on a startled breath; (6) rain on the window; (7) amber lamp pulsing; (8) a slow blink — matched to CLIP 1.
+SPATIAL LOGIC: FOREGROUND — the glowing buzzing phone. MIDGROUND — Aira curled. BACKGROUND — the cosy room — matched to CLIP 1.
+LIGHTING: KEY — warm amber lamp. FILL — candle flicker. RIM — cool city-light. PRACTICAL — lamp, candle, phone glow, window. SEPARATION — warm room behind. BOUNCE — warm amber under the chin — matched to CLIP 1.
+LENS + DOF + BOKEH: 40mm, f/2.8 — matched to CLIP 1.
+COMPOSITION: vertical 9:16, Aira centre curled, the phone glowing lower-right — identical to CLIP 1 so the reel loops.
+SUBJECT FRAMING & POSITION: Aira reads from the knees up curled in the sofa corner, framed three-quarter so her face is near-front, the buzzing phone on the cushion beside her. The camera holds the identical medium three-quarter distance at sofa-height eye level; she anchors centre with the phone lower-right — exactly rhyming with CLIP 1 so the loop is seamless. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: cosy rainy-evening intimacy — the temptation returning.
+COLOUR GRADE: VIVID cosy evening — navy velvet, amber, candle-gold, camel — matched to CLIP 1.
+TEXTURE & MICRO-DETAIL: velvet nap, cashmere knit, candle-flame, hairpin gleam, phone glow, rain on glass — matched.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
+
+### ANIMATION (this clip, ~4s — phone buzzes again; loop close)
+SHOT TYPE & ANGLE: eye-level three-quarter body; subject ~50% centre — matched to CLIP 1.
+CAMERA MOVEMENT (CHOREOGRAPHY): the camera eases to the exact CLIP-1 framing and holds.
+LENS: 40mm, f/2.8 — matched.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–1.5s — she resettles into the curled position, the private smile fading to rest, the throw returning.
+- 1.5–2.5s — the phone buzzes with a new notification; her eyes dart to it, the jolt returning.
+- 2.5–4.0s — brow lifting, the internal debate beginning — the exact CLIP-1 opening pose.
+FLUIDITY & WEIGHT NOTES: the resettle eases into the opening curl; the jolt mirrors the opening; everything returns to rest.
+FABRIC/HAIR/PROP PHYSICS: the phone vibrates a micro-slide on the velvet; the throw settles; the candle flickers.
+FOOTWORK & BODY FLOW: a seated curl into the cushions.
+MID-CLIP TRANSFORMATION (timed): the magic RESETS — phone buzzing face-up, room warm-neutral; the next loop re-triggers the phone's resistance when she next reaches (the start of CLIP 1).
+LIGHTING-IN-MOTION: phone glow returning to the CLIP-1 level.
+DIEGETIC AUDIO: the phone buzz (same insistent tone); a soft gasp; candle crackle; rain on glass — back to the CLIP-1 bed.
+MASTER TRACK: the guitar-and-crackle settles to the opening, looping cleanly.
+END STATE / STATE-MATCH LOCK: clip ends in the EXACT curled opening state and three-quarter angle of CLIP 1's START IMAGE — phone buzzing, warm room, wardrobe and "oh no" expression matched, so the reel loops seamlessly.
+CUT LOGIC: ANGLE-CUT / LOOP back to CLIP 1; the next pass re-triggers the phone's resistance when she reaches for it.
+
+### ☆ EXTERNAL AUDIO — BLOCK 1: BACKGROUND SOUND DESIGN / AMBIENCE BED — B-4
+*The layered foley + ambience to lay UNDER the reel, separate from the in-clip diegetic audio — timed to the clips.*
+- Base bed (all clips): a cosy rainy-evening room-tone; rain on the window throughout; a candle-crackle; a faint warm lamp hum.
+- CLIP 1 (buzz/slide): the phone buzz; a soft gasp; the velvet slide-shush.
+- CLIP 2 (dead screen): escalating thumb-taps on glass; an exasperated sigh; pointed phone-silence.
+- CLIP 3 (scramble): rapid taps; a card-shuffle scramble-sound per key-move; a gibberish ping.
+- CLIP 4 (macro dodge): rapid taps; tiny scramble-shuffles; a frustrated grunt.
+- CLIP 5 (surrender): the phone toss and velvet-thud; a warm glow-pulse "room sigh"; a lamp-brighten hum; rain softening; her nose-laugh.
+- CLIP 6 (reset): the phone buzz returning; a soft gasp; back to the CLIP-1 bed.
+- Mix note: comedic but warm — never slapstick; the velvet-slide and scramble-shuffles are the signature foley; loops cleanly at ~26s.
+
+### ☆ EXTERNAL AUDIO — BLOCK 2: BACKGROUND MUSIC / SCORE TRACK — B-4 (lay under the sound bed)
+- Genre / vibe: a warm, wry indie-pop groove — cosy, comedic, relatable. "The soundtrack to overthinking at midnight."
+- Tempo / key: ~88 BPM, warm major-minor blend (Em to G), gentle and wry.
+- Core elements: soft plucked acoustic guitar; a vinyl crackle; muted pizzicato strings for the comedic tension; a gentle bass-pulse; a warm synth pad; a playful muted-trumpet "wah-wah" at the surrender.
+- Arc: quiet guitar + crackle on CLIP 1 (tension) → pizzicato enters on the slide/dead-screen (CLIPs 2–3) → playful percussive taps on the scramble (CLIP 4) → a warm "wah-wah" and pad-swell at the surrender (CLIP 5 — the payoff) → gentle guitar settling on the loop (CLIP 6).
+- Texture note: comedic but affectionate — the humour is warm, never mocking; the spoken lines sit in music-pauses.
+- Loop: a clean ~26s loop matching the visual loop point.
+
+---
+
+# CONCEPT B-5 — CONFIDENCE IS CONTAGIOUS
+
+Title: World-Reacts Hero — a grey city that dresses up in vivid colour in her wake.
+Category / Format: Empowerment fashion reel (evening city street) · SILENT (diegetic + score only) · CLIP-CHAIN, ANGLE-CUT edit · MOOD-MAGIC (her confident walk transforms the drab city into vivid luminous splendour, block by block).
+Story Idea: Aira steps from a taxi onto a grey, ordinary evening street — and as she walks, her confidence infects everything: buildings gain neon trim, puddles become mirrors of impossible skies, streetlights bloom into chandeliers, grey pedestrians flush with colour. She never looks back; the city dresses up for her.
+Setting: an evening city street — concrete buildings, dim streetlights, rain-puddles, muted pedestrians. As she passes, the world transforms into a luminous vivid version: neon-trimmed facades, mirror-puddles, crystal-chandelier streetlights, colourful pedestrians.
+Wardrobe: a long structured black wool coat belted at the waist, over a fitted deep-red silk mandarin-collar blouse, black tailored cigarette pants; sharp, modest, commanding.
+Footwear: glossy black pointed-toe ankle boots with a sleek block heel — constant.
+Eyewear: slim rectangular matte-black sunglasses (worn low on the nose, then removed).
+Accessories: a bold gold statement index-finger ring, thin gold ear-climbers, a black structured clutch, deep-cherry glossy nails.
+Hair: a bold high-volume blowout with face-framing curtain bangs, glossy jet-black, bouncy and full — constant.
+Makeup: polished editorial — luminous skin, defined brow, deep-cherry lip, subtle smoky lid, real pores.
+Hero Movement / Impossible Move: the drab city transforms into vivid luminous splendour in her wake as she walks; her confidence dresses up the world.
+Transformation Trigger (signature, consistent): HER FOOTSTEPS — each confident step (each heel-strike, especially into a puddle) sends a ripple of transformation outward, dressing up the block she passes. Same trigger every clip; the city stays transformed in her wake.
+Mood: HYPE / EMPOWERMENT — cinematic, building, triumphant.
+Grade: starts deliberately DESATURATED GREY (mood contrast) then floods to VIVID — electric neon-blue, mirror-gold, crystal sparkle, deep-red blouse, vivid pedestrian colour; rich blacks, full mid-tone at the transformation.
+Duration: ~26 seconds · 6 clips (angle-cut chain).
+Voice: SILENT — diegetic city + a building cinematic power-score.
+Identity safety: AIRA adult; wardrobe modest tailoring; mood confident and elegant, never sexualized.
+State chain (angle-cut): CLIP 1 wide front [grey curb → first step → ★ block TRANSFORMS] → CUT → CLIP 2 walking profile [strides, neon/mirror-puddle/pedestrian-colour spread] → CUT → CLIP 3 close-up [magnetic power look, vivid city behind] → CUT → CLIP 4 back-pose low [walks away, full transformed block in her wake] → CUT → CLIP 5 glance-back medium [conspirator's smirk over the shoulder] → CUT → CLIP 6 wide front [steps from taxi onto grey curb = CLIP 1, loop].
+
+---
+
+## CLIP 1 of 6 — WIDE · FRONT · SLIGHT LOW ANGLE (grey curb; ★ first step TRANSFORMS the block)
+
+### START IMAGE (keyframe — grey neutral street)
+ANGLE & SHOT SIZE: slight low-angle WIDE; Aira full body stepping from a taxi onto a grey curb, straightening up, one hand adjusting her collar.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: the long structured black wool coat, belted, over the deep-red silk mandarin-collar blouse, black cigarette pants; sharp.
+FOOTWEAR: glossy black pointed-toe ankle boots, one foot on the curb, fresh from the taxi.
+EYEWEAR: slim matte-black sunglasses pushed slightly down the nose so her eyes show above.
+ACCESSORIES: a bold gold index-finger ring, thin gold ear-climbers, a black structured clutch under the arm, deep-cherry glossy nails.
+HAIR: a bold high-volume blowout, jet-black, curtain bangs framing the brow, full bounce.
+MAKEUP: polished editorial — luminous skin, defined brow, deep-cherry lip, subtle smoky lid, real pores.
+HANDS & NAILS: one hand adjusting the coat collar with precise fingertips, the clutch pinned under the other arm; deep-cherry glossy nails.
+FACIAL MICRO-DYNAMICS: cool composure settling into confidence — chin lifting, eyes steady above the sunglasses, lips in a controlled almost-smile, brow smooth — about to own the street.
+BODY POSTURE & WEIGHT: mid-arrival, one foot on the curb, weight rising upward, shoulders squaring, spine tall, alive.
+KINETIC STILLNESS (8 layers): (1) the taxi taillights fading red behind; (2) a dim streetlight buzzing weakly; (3) the blowout bouncing as she straightens; (4) the coat hem swinging; (5) chest rising; (6) a grey puddle reflecting dull at her boot; (7) muted pedestrians passing in the background; (8) a slow decisive blink.
+SPATIAL LOGIC: FOREGROUND — the grey curb and a dull puddle, sharp. MIDGROUND — Aira arriving. BACKGROUND — the grey concrete street receding, dim lights, muted passers-by.
+LIGHTING: KEY — flat grey evening ambient. FILL — minimal. RIM — a weak streetlight edge. PRACTICAL — dim streetlights, fading taxi taillights. SEPARATION — low. BOUNCE — minimal; her red blouse the only colour.
+LENS + DOF + BOKEH: 35mm, f/4, slight low; the grey street legible, dull bokeh.
+COMPOSITION: vertical 9:16, Aira dead-centre arriving, the grey street receding, she the only vivid element (the red blouse).
+SUBJECT FRAMING & POSITION: Aira reads as a complete full-length figure mid-arrival, framed head-to-boots from a slightly low angle, body squared near-front as she straightens off the curb. The camera holds a wide establishing distance, slightly low; she anchors dead-centre with the grey street behind. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: a drab ordinary evening street — neutral, grey, waiting to be transformed.
+COLOUR GRADE: deliberately DESATURATED GREY (mood contrast) — grey concrete, dim lights, dull puddles; only her deep-red blouse and cherry nails read saturated (she is the only colour source).
+TEXTURE & MICRO-DETAIL: wool-coat nap, patent-boot gloss, the blowout's glossy bounce, dull wet-concrete sheen, red-silk blouse weave, cherry nail gloss.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, garish oversaturation, flat-blown highlights.
+
+### ANIMATION (this clip, ~5s — grey curb; ★ first step TRANSFORMS the block)
+SHOT TYPE & ANGLE: slight low-angle wide, front; subject ~40% dead-centre.
+CAMERA MOVEMENT (CHOREOGRAPHY): a static hold, then a slow dolly-back beginning as she steps toward camera — one continuous shot.
+LENS: 35mm, f/4, slight low.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–1.5s — she steps fully onto the curb, adjusts the collar, squares her shoulders.
+- 1.5–2.5s — ★ TRIGGER: she takes the first confident forward STEP, her heel striking the wet concrete.
+- 2.5–5.0s — on the heel-strike, a ripple of transformation spreads from her boot: the nearest building gains electric-blue neon trim, a grey puddle becomes a mirror reflecting an impossible sunset sky, the dim streetlight begins sprouting crystal facets.
+FLUIDITY & WEIGHT NOTES: the step is decisive and grounded; the transformation ripples outward from the heel-strike; she never reacts to it — it just happens for her; all motion eases.
+FABRIC/HAIR/PROP PHYSICS: the coat swings with real wool weight and stride; the blowout bounces with natural hair physics; the heel meets concrete with a believable impact; the puddle ripples gold from the strike.
+FOOTWORK & BODY FLOW: a confident heel-to-toe first step, weight rolling forward.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE DRESS-UP at 1.5–4.0s — triggered by her first heel-strike, the block transforms: neon-blue trim grows along the nearest building's architectural edges with correct perspective; a grey puddle becomes a mirror-pool reflecting a spectacular sunset sky that doesn't exist above; the dim streetlight begins morphing into crystal facets — the city dressing up in her wake.
+LIGHTING-IN-MOTION: grey flat light is invaded by electric-blue neon and warm mirror-puddle gold spreading from her path; the ambient lifts in her wake.
+DIEGETIC AUDIO: the taxi pulling away (engine, tire on wet road); her boot heel on the curb (decisive); a quiet city evening; then a soft electric hum-sizzle as the neon grows and a gentle chime as the puddle turns gold.
+MASTER TRACK: a deep sub-bass pulse only (grey), with the first synth-string layer entering on the heel-strike transformation.
+END STATE / STATE-MATCH LOCK (heavy detail — CLIP 2's START IMAGE must reproduce 100%, new angle only): at clip end the nearest block has begun transforming — neon-blue trim on the building, a mirror-gold puddle, a crystallising streetlight; the rest of the street still grey ahead; Aira mid-stride, sunglasses low, black coat, red blouse, blowout. CLIP 2 must open in this EXACT state (same transformed-near/grey-far split, same neon and mirror-puddle, same wardrobe) — only the camera angle changes.
+CUT LOGIC: hard ANGLE-CUT to CLIP 2 (walking profile). No motion-match; WORLD STATE matches 100%.
+
+---
+
+## CLIP 2 of 6 — MEDIUM-FULL · WALKING PROFILE · EYE-LEVEL (opens transforming = CLIP 1 end; spreads the dress-up)
+
+### START IMAGE (keyframe — transforming street, reproduces CLIP 1's END STATE, new angle)
+ANGLE & SHOT SIZE: eye-level MEDIUM-FULL, knees-up, three-quarter walking profile, traveling with her as she strides and the city transforms beside her.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: the black wool coat swinging in profile, the red mandarin-collar blouse visible, cigarette pants mid-stride — identical state.
+FOOTWEAR: glossy black ankle boots mid-stride, a heel about to strike a mirror-puddle.
+EYEWEAR: slim sunglasses being lowered from the face by one hand.
+ACCESSORIES: gold ring catching neon, ear-climbers lit, the clutch under the arm, cherry nails on the glasses.
+HAIR: the blowout in profile, bouncing with the stride, curtain bangs catching the new neon.
+MAKEUP: polished editorial, neon-and-gold lit.
+HANDS & NAILS: one hand lowering the sunglasses with precise control; the clutch held; deep-cherry nails.
+FACIAL MICRO-DYNAMICS: walking confidence — a knowing half-smile in profile, eyes forward and slightly down (not looking at the magic — it just happens), unbothered poise.
+BODY POSTURE & WEIGHT: a confident mid-stride, weight rolling heel-to-toe, hips with natural sway, shoulders square, alive.
+KINETIC STILLNESS (8 layers): (1) neon trim growing along the building edges; (2) a mirror-puddle expanding gold at her feet; (3) the blowout bouncing; (4) the coat hem swinging; (5) chest rising; (6) a streetlight morphing into a crystal chandelier; (7) a passing grey pedestrian flushing with colour as they enter her radius; (8) a slow confident blink.
+SPATIAL LOGIC: FOREGROUND — a mirror-puddle, sharp. MIDGROUND — Aira striding in profile. BACKGROUND — the transforming block: neon facades, crystallising lights, colourful pedestrians.
+LIGHTING: KEY — electric neon-blue as a cool key on her face. FILL — warm mirror-puddle bounce from below. RIM — neon edge on the blowout. PRACTICAL — growing neon, mirror-puddles, crystallising lights. SEPARATION — bright transforming city behind. BOUNCE — gold puddle-light up onto the coat.
+LENS + DOF + BOKEH: 50mm, f/2.8, traveling; her sharp, the transforming city legible in cool-and-gold bokeh.
+COMPOSITION: vertical 9:16, her profile centre, the transforming city spreading behind, mirror-puddle leading line at her feet.
+SUBJECT FRAMING & POSITION: Aira is framed knees-up in a three-quarter walking profile, traveling in her direction of stride, the transforming block behind. Her torso is in a walking three-quarter. The camera dollies alongside at her pace, mid-distance, eye level; she rides centre with the dressing-up city around her. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: a magnetic walk through a city blooming into splendour in her wake.
+COLOUR GRADE: VIVID — electric neon-blue, mirror-gold, crystal sparkle, deep-red blouse, awakening pedestrian colour; the grey flushing to saturated. (Matches CLIP 1 END STATE.)
+TEXTURE & MICRO-DETAIL: neon-tube glow on wet facades, mirror-puddle reflections, the blowout's gloss, crystal-facet sparkle, coat-wool nap.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
+
+### ANIMATION (this clip, ~4s — strides; the dress-up spreads with each step)
+SHOT TYPE & ANGLE: eye-level medium-full walking profile; subject ~50% centre.
+CAMERA MOVEMENT (CHOREOGRAPHY): a smooth dolly alongside at her walking pace — one continuous shot.
+LENS: 50mm, f/2.8, shallow.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–1.5s — confident stride, hips with natural sway, she removes the sunglasses.
+- 1.5–2.8s — her heel strikes a puddle — a ripple of gold spreads; more neon grows, a streetlight crystallises, a pedestrian gains colour.
+- 2.8–4.0s — she folds the glasses, eyes forward, unbothered, the block fully dressing up behind her.
+FLUIDITY & WEIGHT NOTES: the stride is even and weighted; the transformations ripple from her heel-strikes; she never looks at the magic; all motion eases.
+FABRIC/HAIR/PROP PHYSICS: neon grows along architectural lines with correct perspective; the mirror-puddle ripple spreads with water-physics; crystal growth has mineral-formation speed; the pedestrian's colour-gain sweeps from their nearest point to her; the blowout bounces with stride-cadence.
+FOOTWORK & BODY FLOW: rhythmic confident heel-strikes, weight rolling, a heel meeting the mirror-puddle with a golden splash.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE SPREAD at 1.5–3.5s — triggered by her footsteps, the dress-up spreads: neon trim continues along the buildings, the puddle-mirror expands, the streetlight finishes morphing into a crystal chandelier, a grey pedestrian flushes vivid as they pass into her radius.
+LIGHTING-IN-MOTION: the neon-and-gold light-corridor intensifies along her path; warmth and electric colour pool in her wake.
+DIEGETIC AUDIO: rhythmic heel-clicks (the main beat); a quiet electric hum-sizzle of growing neon; a golden puddle-ripple chime; city ambience lifting; a soft whoosh as a pedestrian gains colour.
+MASTER TRACK: a snare on the 3 and a building layered synth-string grow with each transformation.
+END STATE / STATE-MATCH LOCK (heavy detail — CLIP 3's START IMAGE must reproduce 100%, new angle only): at clip end the block is largely transformed — neon facades, mirror-puddles, a crystal-chandelier streetlight, colourful pedestrians; Aira mid-stride, sunglasses now off, black coat, red blouse, blowout. CLIP 3 must open in this EXACT state (same transformed block, same neon/mirror/crystal, same wardrobe, shades off) — only the angle changes.
+CUT LOGIC: hard ANGLE-CUT to CLIP 3 (close-up). No motion-match; WORLD STATE matches 100%.
+
+---
+
+## CLIP 3 of 6 — CLOSE-UP · FRONT · EYE-LEVEL (opens transformed = CLIP 2 end; magnetic power look)
+
+### START IMAGE (keyframe — transformed city, reproduces CLIP 2's END STATE, new angle)
+ANGLE & SHOT SIZE: eye-level CLOSE-UP, face and shoulders, front to lens, the transformed neon city blazing in bokeh behind.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: the black coat collar and red mandarin-collar blouse at the throat — power framing, identical state.
+FOOTWEAR: out of frame.
+EYEWEAR: held folded in one hand at the shoulder.
+ACCESSORIES: the gold ring prominent, ear-climbers catching multicolour light, cherry nails on the folded glasses.
+HAIR: the blowout full and bouncy, curtain bangs perfect, neon-and-gold light painting the glossy strands.
+MAKEUP: polished editorial, electric catch-lights in the eyes.
+HANDS & NAILS: one hand holding the folded sunglasses at shoulder height, casual and precise; deep-cherry nails.
+FACIAL MICRO-DYNAMICS: quiet magnetic power at its peak — eyes dead-on lens, pupils dark and steady, lids at a perfect confident half-mast, brow smooth with the slightest power-lift; lips in a full controlled closed-mouth power-smile that says "I know."
+BODY POSTURE & WEIGHT: a still, self-possessed stand, shoulders level, chin up, breathing.
+KINETIC STILLNESS (8 layers): (1) neon pulsing in the bokeh; (2) crystals sparkling; (3) mirror-puddle golds rippling; (4) a colourful pedestrian blooming behind; (5) the blowout settling from the walk; (6) chest on one slow breath; (7) multicolour catch-lights rippling in her eyes; (8) a slow sovereign blink.
+SPATIAL LOGIC: FOREGROUND — soft neon bokeh shapes. MIDGROUND — her face, pin-sharp. BACKGROUND — the transformed city as a vivid light-painting.
+LIGHTING: KEY — multicolour neon-and-gold key. FILL — warm bounce. RIM — electric edge on the blowout. PRACTICAL — neon, crystal lights, mirror-puddles. SEPARATION — bright vivid city behind the face. BOUNCE — neon-gold under the jaw.
+LENS + DOF + BOKEH: 85mm, f/1.8 ultra-shallow; only her eyes pin-sharp, the city melting to a vivid light-painting.
+COMPOSITION: vertical 9:16, her face filling the frame, eyes on the upper-third, the transformed city behind as her creation.
+SUBJECT FRAMING & POSITION: Aira is framed in an intimate close-up, face and shoulders, front-facing dead-on, one hand holding the folded glasses. She sits dead-centre, the vivid city dissolving behind into colourful bokeh. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: magnetic power at its peak — she is the centre of the splendour she created.
+COLOUR GRADE: MAXIMUM — every colour at full neon saturation in the bokeh, her skin warm and vivid, the red blouse a rich anchor. (Matches CLIP 2 END STATE.)
+TEXTURE & MICRO-DETAIL: real pores, lash separation, the blowout's gloss, neon catch-lights in the eyes, cherry lip-gloss micro-speculars.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
+
+### ANIMATION (this clip, ~4s — magnetic power look)
+SHOT TYPE & ANGLE: eye-level close-up; face ~80% dead-centre.
+CAMERA MOVEMENT (CHOREOGRAPHY): an imperceptible push-in — one continuous shot.
+LENS: 85mm, f/1.8, ultra-shallow.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–1.5s — she holds the lens with absolute stillness, the transformed city pulsing behind.
+- 1.5–2.6s — a single slow sovereign blink.
+- 2.6–4.0s — the eyes return brighter, the power-smile deepening a millimetre — magnetic.
+FLUIDITY & WEIGHT NOTES: the stillness is the point; the blink is luxurious; all motion eases.
+FABRIC/HAIR/PROP PHYSICS: the blowout settles to stillness; the neon pulses with electrical rhythm; she's in a calm bubble while the city blooms behind.
+FOOTWORK & BODY FLOW: a still, grounded stand.
+MID-CLIP TRANSFORMATION (timed): NONE new — the transformed city holds and pulses; this is the magnetic apex.
+LIGHTING-IN-MOTION: multicolour catch-lights ripple in her eyes as the neon pulses.
+DIEGETIC AUDIO: near-silence — city sounds hushed; her slow even breath; a low bass pulse; a faint crystalline shimmer; then city sounds rushing back.
+MASTER TRACK: full build at the close-up — layered synth-strings under a sub-bass swell, poised before the drop.
+END STATE / STATE-MATCH LOCK (heavy detail — CLIP 4's START IMAGE must reproduce 100%, new angle only): at clip end the city is fully transformed and pulsing; Aira self-possessed, folded glasses in hand, black coat, red blouse, blowout, power-smile. CLIP 4 must open in this EXACT state (same vivid city, same wardrobe) — only the angle changes (to the back-pose wake shot).
+CUT LOGIC: hard ANGLE-CUT to CLIP 4 (back pose, low angle). No motion-match; WORLD STATE matches 100%.
+
+---
+
+## CLIP 4 of 6 — FULL BODY · BACK POSE · LOW ANGLE (opens transformed = CLIP 3 end; walks away, the full block in her wake)
+
+### START IMAGE (keyframe — transformed city, reproduces CLIP 3's END STATE, new angle)
+ANGLE & SHOT SIZE: low-angle FULL BODY from behind, as she walks away into the fully-transformed luminous block, the wake of change behind her.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: the long black coat from behind, belt-knot at the waist, the red blouse collar just visible above — identical state.
+FOOTWEAR: glossy black ankle boots walking away, reflected in mirror-puddles.
+EYEWEAR: none (folded, pocketed/in clutch).
+ACCESSORIES: ear-climbers glinting at the jaw-line, the clutch under the arm, cherry nails.
+HAIR: the blowout from behind, full bounce, catching neon and chandelier-light.
+MAKEUP: polished editorial, multicolour-lit.
+HANDS & NAILS: hands relaxed at her sides, the clutch held; deep-cherry nails.
+FACIAL MICRO-DYNAMICS: (from behind — posture speaks: shoulders squared, head high, stride confident; she doesn't look back).
+BODY POSTURE & WEIGHT: a confident receding stride, weight rolling, shoulders square, spine tall, alive.
+KINETIC STILLNESS (8 layers): (1) every building neon-trimmed and glowing; (2) crystal-chandelier streetlights casting prismatic light; (3) the blowout bouncing; (4) the coat hem swinging; (5) golden footprint-ripples on the wet ground from each step; (6) colourful pedestrians looking around in wonder; (7) mirror-puddles reflecting impossible skies; (8) a confident receding gait.
+SPATIAL LOGIC: FOREGROUND — a mirror-puddle with her reflection, sharp. MIDGROUND — Aira walking away. BACKGROUND — the fully luminous transformed block converging into vivid depth.
+LIGHTING: KEY — full neon multicolour + crystal-chandelier scatter + mirror-gold uplight — the street now a palace corridor. FILL — warm bounce. RIM — neon edge down her silhouette. PRACTICAL — neon facades, crystal lights, mirror-puddles. SEPARATION — vivid city around the dark figure. BOUNCE — gold uplight on the coat.
+LENS + DOF + BOKEH: 28mm low and wide for grandeur, f/3.2; her sharp, the luminous block in vivid bokeh, perspective converging.
+COMPOSITION: vertical 9:16, her back centre walking into the vivid city, the transformation radiating from her path, converging perspective lines.
+SUBJECT FRAMING & POSITION: Aira reads as a complete full-length figure from behind, walking away, framed from a low angle that makes the luminous block tower around her. Her body recedes centre, back to camera. The camera is mid-distance and low; she anchors centre with the dressed-up city radiating behind/around. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: triumphant wake — the city she dressed up glowing behind her as she walks on.
+COLOUR GRADE: MAXIMUM VIVID — neon-blue, mirror-gold, crystal sparkle, vivid pedestrian colour, the red blouse collar; rich, full saturation. (Matches CLIP 3 END STATE.)
+TEXTURE & MICRO-DETAIL: neon-tube glow, crystal-facet sparkle, golden footprint-ripples, the blowout's gloss, coat-wool nap, wet-ground reflections.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
+
+### ANIMATION (this clip, ~4s — walks away; the wake glows behind)
+SHOT TYPE & ANGLE: low-angle full body, back pose; subject ~50% centre receding.
+CAMERA MOVEMENT (CHOREOGRAPHY): a static low hold, letting her walk away into the vivid city — one continuous shot.
+LENS: 28mm, f/3.2, low and wide.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–1.5s — confident receding stride, the blowout bouncing.
+- 1.5–2.8s — golden footprint-ripples spread from each step; a new pedestrian enters her radius and blooms with colour; a final streetlight morphs to a chandelier.
+- 2.8–4.0s — she walks on, not looking back — the wake fully glowing.
+FLUIDITY & WEIGHT NOTES: the coat swings with walking momentum and real wool weight; the golden ripples have water-physics; neon growth follows architectural lines; all motion eases.
+FABRIC/HAIR/PROP PHYSICS: golden ripples trigger on each heel-impact; the blowout bounces; the coat hem swings; pedestrian colour-blooms sweep outward.
+FOOTWORK & BODY FLOW: a confident receding gait, weight rolling.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE WAKE at 1.5–3.5s — triggered by her continuing footsteps, the transformation completes the block: golden footprint-ripples, a last streetlight-to-chandelier morph, another pedestrian blooming vivid — the city fully dressed up in her wake.
+LIGHTING-IN-MOTION: the transformation at full vivid; all neon, crystal and mirror-gold blazing.
+DIEGETIC AUDIO: her receding heel-clicks; neon hum at full chorus; crystal-chandelier tinkles; mirror-puddle chimes; pedestrians gasping in wonder; a city now alive.
+MASTER TRACK: the bass-DROP and full orchestral-electronic hit — the cinematic hero moment.
+END STATE / STATE-MATCH LOCK (heavy detail — CLIP 5's START IMAGE must reproduce 100%, new angle only): at clip end the whole block is fully luminous and transformed, glowing in her wake; Aira walking away, black coat, red blouse, blowout. CLIP 5 must open in this EXACT vivid state (same fully-transformed block, same wardrobe) — only the angle changes (to the glance-back).
+CUT LOGIC: hard ANGLE-CUT to CLIP 5 (glance-back medium). No motion-match; WORLD STATE matches 100%.
+
+---
+
+## CLIP 5 of 6 — MEDIUM · THREE-QUARTER BACK-TURNED GLANCE · EYE-LEVEL (opens transformed = CLIP 4 end; conspirator's smirk)
+
+### START IMAGE (keyframe — transformed city, reproduces CLIP 4's END STATE, new angle)
+ANGLE & SHOT SIZE: eye-level MEDIUM, half body, three-quarter back-turned glance over the shoulder to the lens, the vivid city stretching behind.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: the black coat shoulder and back, the red mandarin collar visible at the turned neck — identical state.
+FOOTWEAR: out of frame.
+EYEWEAR: none.
+ACCESSORIES: an ear-climber catching light at the turned jaw, the gold ring visible on the hand holding the clutch, cherry nails.
+HAIR: the blowout swinging with the glance-back, curtain bangs catching golden chandelier-light.
+MAKEUP: polished editorial, warm multicolour-lit.
+HANDS & NAILS: the clutch under the arm, one hand free giving a tiny finger-flutter wave; deep-cherry nails.
+FACIAL MICRO-DYNAMICS: the glance-back — a small private conspirator's smirk over the shoulder, one eye catching the lens, the other in profile-shadow; playful, knowing, magnetic.
+BODY POSTURE & WEIGHT: torso facing away, head turned back over the shoulder, weight mid-step, alive.
+KINETIC STILLNESS (8 layers): (1) the vivid city holding at full transformation behind; (2) a chandelier-crystal catching light; (3) the blowout swinging from the head-turn; (4) the coat shifting with the torso rotation; (5) chest rising; (6) a mirror-puddle shimmering; (7) a colourful pedestrian in the distance; (8) a quick playful blink/wink.
+SPATIAL LOGIC: FOREGROUND — her turned shoulder, soft. MIDGROUND — her glancing face. BACKGROUND — the vivid transformed city as her creation.
+LIGHTING: KEY — warm chandelier-gold and neon on her face as she turns. FILL — warm bounce. RIM — neon edge on the blowout. PRACTICAL — neon, crystal lights, mirror-puddles. SEPARATION — vivid city behind. BOUNCE — gold under the jaw.
+LENS + DOF + BOKEH: 50mm, f/2.0; her glancing face sharp, the vivid city soft behind.
+COMPOSITION: vertical 9:16, her face center-right in the glance-back, the vivid city receding left as her creation.
+SUBJECT FRAMING & POSITION: Aira is framed half-body in a three-quarter back-turned pose, glancing over her shoulder to the lens, the vivid city behind. Her torso faces away, head turned back. The camera holds a medium distance at eye level; she anchors center-right with the city receding left. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: a playful magnetic farewell — "you saw that, right?"
+COLOUR GRADE: VIVID — warm chandelier-gold, neon-blue, mirror-gold, the red collar; rich, saturated. (Matches CLIP 4 END STATE.)
+TEXTURE & MICRO-DETAIL: the blowout's gloss in the turn, neon-and-gold on the skin, ear-climber gleam, coat-wool nap, crystal sparkle behind.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
+
+### ANIMATION (this clip, ~4s — the glance-back smirk + finger-wave)
+SHOT TYPE & ANGLE: eye-level medium, three-quarter back-turned glance; subject ~50% center-right.
+CAMERA MOVEMENT (CHOREOGRAPHY): a static hold letting the glance-back play — one continuous shot.
+LENS: 50mm, f/2.0, shallow.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–1.5s — she turns her head back over the shoulder toward the lens.
+- 1.5–2.6s — the conspirator's smirk arrives — one corner up, eyes catching the lens — and a tiny four-finger flutter-wave.
+- 2.6–4.0s — a quick playful wink, then she turns away again, walking on.
+FLUIDITY & WEIGHT NOTES: the hair swings with the head-turn and settles; the coat shifts with the torso; the finger-wave is small and precise; all motion eases.
+FABRIC/HAIR/PROP PHYSICS: the blowout swings and resettles with the head-turn; the coat shifts with the rotation; the finger-wave flutters once, casually.
+FOOTWORK & BODY FLOW: a mid-step glance, weight rolling as she turns back forward.
+MID-CLIP TRANSFORMATION (timed): NONE new — the vivid city holds behind; this is the playful character beat (the hook).
+LIGHTING-IN-MOTION: neon and chandelier-gold play across her face as she turns.
+DIEGETIC AUDIO: the head-turn swoosh of hair; a quiet "hmm" of satisfaction; the tiny wave silent; the vivid city hum behind.
+MASTER TRACK: a solo piano motif over the sub-bass — intimate after the drop, for the glance-back.
+END STATE / STATE-MATCH LOCK (heavy detail — CLIP 6's START IMAGE must reproduce 100%, then RESET): at clip end the vivid city holds, Aira mid glance-away with the smirk, black coat, red blouse, blowout. CLIP 6 must open by RESETTING to the grey taxi-curb arrival — same wardrobe, the city drained back to grey.
+CUT LOGIC: hard ANGLE-CUT to CLIP 6 (wide front, grey curb). No motion-match; state resets to CLIP 1.
+
+---
+
+## CLIP 6 of 6 — WIDE · FRONT · SLIGHT LOW ANGLE (grey curb arrival; reset → loop to CLIP 1)
+
+### START IMAGE (keyframe — grey neutral street, reproduces CLIP 1's opening)
+ANGLE & SHOT SIZE: slight low-angle WIDE; Aira full body stepping from a taxi onto the grey curb again, adjusting her collar — the opening restored, the city neutral and grey.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: the long structured black wool coat, belted, red mandarin-collar blouse, black cigarette pants — matched to CLIP 1.
+FOOTWEAR: glossy black ankle boots, one foot on the curb — matched.
+EYEWEAR: slim matte-black sunglasses low on the nose — matched to CLIP 1.
+ACCESSORIES: gold ring, ear-climbers, clutch, cherry nails — matched.
+HAIR: the bold high-volume blowout, curtain bangs, jet-black, bouncy — matched to CLIP 1.
+MAKEUP: polished editorial — matched.
+HANDS & NAILS: one hand adjusting the collar, the clutch pinned under the other arm; deep-cherry nails.
+FACIAL MICRO-DYNAMICS: cool composure settling into confidence, chin lifting, eyes above the sunglasses — the exact opening face.
+BODY POSTURE & WEIGHT: mid-arrival, one foot on the curb, weight rising, shoulders squaring — mirror of CLIP 1.
+KINETIC STILLNESS (8 layers): (1) taxi taillights fading red; (2) a dim streetlight buzzing; (3) the blowout bouncing; (4) the coat hem swinging; (5) chest rising; (6) a dull grey puddle; (7) muted pedestrians passing; (8) a slow decisive blink — matched to CLIP 1.
+SPATIAL LOGIC: FOREGROUND — the grey curb and a dull puddle. MIDGROUND — Aira arriving. BACKGROUND — the grey concrete street — matched to CLIP 1.
+LIGHTING: KEY — flat grey evening ambient. FILL — minimal. RIM — weak streetlight edge. PRACTICAL — dim streetlights, taxi taillights. SEPARATION — low. BOUNCE — minimal; the red blouse the only colour — matched to CLIP 1.
+LENS + DOF + BOKEH: 35mm, f/4, slight low — matched to CLIP 1.
+COMPOSITION: vertical 9:16, Aira dead-centre arriving, the grey street receding, she the only vivid element — identical to CLIP 1 so the reel loops.
+SUBJECT FRAMING & POSITION: Aira reads as a complete full-length figure mid-arrival, framed head-to-boots from a slightly low angle, body squared near-front as she straightens off the curb. The camera holds the identical wide establishing distance, slightly low; she anchors dead-centre with the grey street behind — exactly rhyming with CLIP 1 so the loop is seamless. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: the drab ordinary street restored — ready to be transformed again.
+COLOUR GRADE: DESATURATED GREY — grey concrete, dim lights, dull puddles; only her red blouse and cherry nails saturated — matched to CLIP 1.
+TEXTURE & MICRO-DETAIL: wool-coat nap, patent-boot gloss, the blowout's bounce, dull wet-concrete, red-silk weave, cherry nails — matched.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, garish oversaturation, flat-blown highlights.
+
+### ANIMATION (this clip, ~4s — grey arrival; loop close)
+SHOT TYPE & ANGLE: slight low-angle wide, front; subject ~40% dead-centre — matched to CLIP 1.
+CAMERA MOVEMENT (CHOREOGRAPHY): a static hold matching the CLIP-1 establishing framing.
+LENS: 35mm, f/4 — matched.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–1.5s — the city drains back to grey (the wake receding) as a fresh taxi pulls up; she steps onto the curb.
+- 1.5–2.5s — she adjusts her collar, squares her shoulders.
+- 2.5–4.0s — chin lifting, the almost-smile firming — the exact CLIP-1 opening pose, ready to step.
+FLUIDITY & WEIGHT NOTES: the grey-drain mirrors the dress-up in reverse; the arrival matches CLIP 1; everything returns to the opening.
+FABRIC/HAIR/PROP PHYSICS: the colour drains backward along her path (rewind-feel); the coat and blowout match the opening swing; the taillights fade.
+FOOTWORK & BODY FLOW: a step onto the curb, weight rising — the CLIP-1 arrival.
+MID-CLIP TRANSFORMATION (timed): the city RESETS to grey; the next loop re-triggers the dress-up on her first heel-strike (the start of CLIP 1).
+LIGHTING-IN-MOTION: vivid city draining to flat grey, matched to CLIP 1.
+DIEGETIC AUDIO: city sounds dimming; the neon fading (a quiet electrical descend); a taxi pulling up; her boot on the curb — back to the CLIP-1 bed.
+MASTER TRACK: the score strips to the opening sub-bass pulse, looping cleanly.
+END STATE / STATE-MATCH LOCK: clip ends in the EXACT grey-curb arrival state and wide angle of CLIP 1's START IMAGE — grey city, wardrobe and confident expression matched, so the reel loops seamlessly.
+CUT LOGIC: ANGLE-CUT / LOOP back to CLIP 1; the next pass re-triggers the city dressing up on her first step.
+
+### ☆ EXTERNAL AUDIO — BLOCK 1: BACKGROUND SOUND DESIGN / AMBIENCE BED — B-5
+*The layered foley + ambience to lay UNDER the reel, separate from the in-clip diegetic audio — timed to the clips.*
+- Base bed (grey clips): a quiet drab city-evening tone — distant traffic, a pigeon, a dim streetlight buzz, rain-puddle drips.
+- Trigger stamp (every step): a decisive heel-strike on wet concrete + a soft golden puddle-ripple chime + an electric neon hum-sizzle as a facade lights.
+- CLIP 1 (first step): the taxi pulling away; the first neon hum and puddle-chime.
+- CLIP 2 (spread): rhythmic heel-clicks; growing neon hum; pedestrian colour-bloom whooshes.
+- CLIP 3 (power look): near-silence — city hushed; a low bass pulse; a crystalline shimmer.
+- CLIP 4 (wake): receding heel-clicks; neon hum at full chorus; crystal tinkles; pedestrians gasping.
+- CLIP 5 (glance-back): a hair-swoosh; a soft satisfied "hmm"; the vivid city hum.
+- CLIP 6 (reset): city sounds dimming; the neon fading; a taxi pulling up — back to the CLIP-1 bed.
+- Mix note: the city ambience itself transforms drab→luminous→drab with the visuals; loops cleanly at ~26s.
+
+### ☆ EXTERNAL AUDIO — BLOCK 2: BACKGROUND MUSIC / SCORE TRACK — B-5 (lay under the sound bed)
+- Genre / vibe: a building cinematic power-groove — stripped and cool, growing into a full orchestral-electronic triumphant walk-track. The "main character arrived" anthem.
+- Tempo / key: ~105 BPM, D minor (power), driving and glossy.
+- Core elements: a deep sub-bass pulse; a crisp snare on the 3; a building layered synth-string that grows with each transformation; a hard bass-DROP at the wake-frame; a solo piano on the glance-back; stripped sub-bass on the reset.
+- Arc: sub-bass pulse only (CLIP 1 grey) → snare + first synth layer on the dress-up spread (CLIP 2) → full build at the power close-up (CLIP 3) → the bass-DROP + orchestral hit at the wake (CLIP 4 — the hero moment) → solo piano over the sub on the glance-back (CLIP 5) → strip to sub-bass on the loop (CLIP 6).
+- Texture note: like a movie trailer when the city transforms — cinematic, building, powerful — then intimate on the glance-back for contrast.
+- Loop: a clean ~26s loop matching the visual loop point.
+
+---
