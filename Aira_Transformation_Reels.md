@@ -428,3 +428,201 @@ A pitch-black void with a faint warm room-tone as the constant. THROUGH-LINE: th
 Dark, powerful, elegant. KEY/TEMPO: D minor, ~70 BPM. THE SPINE (constant): a slow tribal heartbeat-drum and a deep cinematic drone, present throughout. BUILD: a single haunting cello line enters at the exhale; a brass-and-choir swell rises to its peak on the CLIP 2 flaming arm-arc (the hero beat); the swell decays as she reforms, drawing back to the lone cello note and one heartbeat-drum hit landing exactly where the reel began — a seamless infinite loop. Fierce, sacred, controlled.
 
 ═══════════════════════════════════════════════════════════════════════════════
+
+
+# CONCEPT A-3 — SHE TURNS INTO A FLOCK OF BUTTERFLIES
+
+Transforms Into: hundreds of glowing butterflies — she scatters from the edges into a swarm that holds her human shape, then funnels back and re-coalesces.
+Feeling: magical delight / wonder — the showstopper, joyful, endlessly rewatchable.
+★ HOOK (first ~1s): a macro on a single luminous butterfly settling onto her open palm — then her fingertips begin to flake away into wings.
+Setting: a sunlit blossom meadow at golden hour, soft bokeh blooms, warm dust-motes drifting, tall grass.
+Trigger (signature): THE BUTTERFLY LANDING / HER SOFT BREATH toward it — the contact and breath begin the scatter; a butterfly settling on her palm again at the end completes the reform.
+Voice: SILENT — diegetic meadow + score only.
+Duration: ~14s · 3 clips (angle-cut, single-magic morph, loops to CLIP 1).
+
+## CLIP 1 of 3 — MACRO→MEDIUM CLOSE-UP · THREE-QUARTER · EYE-LEVEL (human Aira → scatter BEGINS mid-clip)
+
+### START IMAGE (keyframe)
+ANGLE & SHOT SIZE: opens as a MACRO on a glowing butterfly on her open palm, composed as an eye-level MEDIUM CLOSE-UP (chest-up), three-quarter, Aira gazing at her cupped hand.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: a flowing pastel lilac-and-blush chiffon midi dress with a layered petal-like skirt and soft modest cap sleeves, hems that will feather into wings.
+FOOTWEAR: barefoot in the soft grass, lightly visible at the frame's edge.
+EYEWEAR: none.
+ACCESSORIES: tiny gold ear-studs, a delicate fine gold chain at the throat, a thin flower-form ring.
+HAIR: long soft romantic waves, warm honey-brown, sun-lit caramel ends, a few tiny meadow flowers tucked in, strands lifting in the breeze.
+MAKEUP: dewy fresh — soft rose flush, glossy pink-nude lip, a wash of iridescent highlight on the cheekbones (a wing-shimmer), real freckles and pores.
+HANDS & NAILS: one hand open and cupped before her, the butterfly perched on the fingertips, the other relaxed; soft sheer-pink nails.
+FACIAL MICRO-DYNAMICS: tender genuine wonder — a soft open-lipped smile, eyes lit warm-gold and crinkling at the corners as she watches the butterfly, brows lifted, a slow delighted blink.
+BODY POSTURE & WEIGHT: weight easy on both feet, torso turned three-quarter toward her cupped hand, shoulders relaxed and open, head tilted with affection.
+KINETIC STILLNESS (8 layers): (1) the butterfly's wings opening and closing slowly; (2) golden dust-motes drifting; (3) honey waves lifting in the breeze; (4) the chiffon skirt rippling; (5) chest rising softly; (6) blossom-bokeh swaying behind; (7) a second butterfly arriving at the frame edge; (8) a slow warm blink.
+SPATIAL LOGIC: FOREGROUND — the cupped hand and perched butterfly, tack-sharp. MIDGROUND — Aira three-quarter. BACKGROUND — sunlit blossom meadow melting to golden bokeh.
+LIGHTING: KEY — warm golden-hour sun as a soft backlight. FILL — gold reflector bounce on the face. RIM — a blazing sun-edge on the hair and shoulder (halo). PRACTICAL — the low sun, glowing blossoms. SEPARATION — her warm form against the bright bokeh. BOUNCE — warm meadow-glow under the chin.
+LENS + DOF + BOKEH: opens 100mm macro on the butterfly (wing-scales sharp), resolving to 85mm f/1.8; meadow melting to creamy golden bokeh, sun-flare flecks.
+COMPOSITION: vertical 9:16, Aira right-of-centre, the cupped hand and butterfly the focal accent lower-left, the open golden meadow upper-right.
+SUBJECT FRAMING & POSITION: Aira reads from the chest up, framed medium-close and intimate, her torso rotated to a soft three-quarter toward the cupped hand that holds the butterfly low-left, her face turned down and in with tender warmth. The camera sits near at clean eye level, opening the macro on the butterfly before settling on her delighted face; she anchors right-of-centre so the sunlit meadow opens to frame-right, the body inclined protectively around the little creature. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: warm, alive, enchanted — a sun-drenched fairytale meadow.
+COLOUR GRADE: VIVID lilac-blush-gold, warm and glowing, saturated florals, rich golden light, deep-enough shadow — never washed despite the brightness.
+TEXTURE & MICRO-DETAIL: butterfly wing-scale iridescence, skin dew and freckles, chiffon weave, woven flowers, sun-flare bloom, blossom-bokeh.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features (except the intended morph), asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, blown-out highlights, garish oversaturation, flat light.
+
+### ANIMATION (this clip, ~5s — human establishing; ★ scatter BEGINS mid-clip, clip ENDS mid-morph)
+SHOT TYPE & ANGLE: macro-into-eye-level medium close-up, three-quarter; subject ~55% right-of-centre.
+CAMERA MOVEMENT (CHOREOGRAPHY): a slow pull-back from the butterfly-macro into the medium close-up, then a gentle continuing drift — one continuous shot.
+LENS: 100mm macro easing to 85mm, f/1.8.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–1.8s — she gazes at the butterfly on her fingertips with a tender smile, honey waves lifting.
+- 1.8–3.0s — ★ TRIGGER: she breathes a soft warm breath toward it; the butterfly lifts off her palm.
+- 3.0–4.5s — ★ MID-CLIP TRANSFORMATION BEGINS: from her fingertips and skirt-hem, small glowing butterflies flake away and peel into the air.
+- 4.5–5.0s — the scatter climbs her arm and side; she is now half-Aira, half-dissolving-into-wings, still smiling.
+FLUIDITY & WEIGHT NOTES: all eases — the breath gentle, the lift weightless, the flaking peeling away like petals on a breeze; her tenderness against the magic is the charm.
+FABRIC/HAIR/PROP PHYSICS: flocking/boids butterfly motion — hundreds of individual wings with flutter and translucency catching sun; the chiffon hem dissolves seamlessly into wing-shapes; sun glows through the translucent wings; dust-motes drift on air-currents.
+FOOTWORK & BODY FLOW: weight stays easy and grounded, a soft spinal incline toward the rising butterfly.
+MID-CLIP TRANSFORMATION (timed): ★ SCATTER ONSET at 3.0–4.5s — triggered by the breath and the butterfly's lift, peeling from fingertips and hem up the arm and side, contained as an onset within this clip; clip ends half-scattered.
+LIGHTING-IN-MOTION: as wings peel away, sun shafts through the growing swarm, throwing soft moving light-freckles across her and the grass.
+DIEGETIC AUDIO: a soft warm breath, then a blooming flutter of many small wingbeats beginning.
+MASTER TRACK: a light plucked harp/celeste motif with soft strings, a glittering glockenspiel beginning at 3.0s.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 2 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the lilac-and-blush chiffon half-dissolved into glowing butterflies from the right arm and side up, the intact side still layered chiffon.
+  • FOOTWEAR: barefoot in the grass.
+  • EYEWEAR: none.
+  • ACCESSORIES: tiny gold studs, fine chain and flower-ring still on the intact side.
+  • HAIR: honey-brown waves, the ends beginning to flake into small wings.
+  • MAKEUP: dewy rose flush, glossy lip, iridescent cheek-shimmer reading as wing-light.
+  • HANDS & NAILS: the right hand peeling into butterflies, the left hand still solid with sheer-pink nails.
+  • FACIAL MICRO-DYNAMICS: tender, warm, smiling, eyes crinkled and lit gold, a slow delighted blink — joy amid the scatter.
+  • BODY POSTURE & WEIGHT: easy and open, the body turning to a fuller three-quarter as wings peel away, breathing.
+  • KINETIC STILLNESS (8 layers): (1) the scatter line climbing; (2) sun-freckles moving; (3) wing-strands of hair lifting; (4) intact chiffon rippling; (5) chest rising; (6) gold studs glinting; (7) butterflies streaming up; (8) a warm blink.
+  • SPATIAL LOGIC: FOREGROUND — peeling butterflies, sharp. MIDGROUND — her half-scattered figure. BACKGROUND — golden blossom meadow bokeh.
+  • LIGHTING: KEY — golden backlight sun. FILL — gold bounce. RIM — sun-halo on hair. PRACTICAL — low sun, glowing blossoms. SEPARATION — warm form against bright bokeh. BOUNCE — meadow-glow under the chin.
+  • ATMOSPHERE: enchanted delight blooming, warm and joyful.
+  • COLOUR GRADE: VIVID lilac-blush-gold, warm glowing, saturated, rich golden light.
+  • TEXTURE & MICRO-DETAIL: wing-scale iridescence, sun-through-wing glow, skin freckles, chiffon dissolving to wings, dust-motes.
+CUT LOGIC: hard ANGLE-CUT to CLIP 2 (full body, wide). No frame-match needed — the angle change is the edit. State carried forward: she is half-butterflies, scattering upward, smiling.
+
+---
+
+## CLIP 2 of 3 — FULL BODY · WIDE · EYE-LEVEL (★ full BUTTERFLY-CLOUD, the hero beat)
+
+### START IMAGE (keyframe)
+ANGLE & SHOT SIZE: eye-level WIDE, full body; Aira now a human-shaped CLOUD OF BUTTERFLIES — hundreds of glowing wings holding her silhouette in the open meadow.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: fully transformed — the lilac-and-blush chiffon has become the colour carried in thousands of wings, the skirt-shape suggested by a denser swirl of butterflies at the hem.
+FOOTWEAR: barefoot-shape implied where the lowest butterflies hover just off the grass.
+EYEWEAR: none.
+ACCESSORIES: the tiny gold studs, chain and ring persist as small solid glints suspended within the swarm — the only hard points among the wings.
+HAIR: the waves are suggested by a flowing stream of butterflies trailing from the head, honey-caramel tinted wings.
+MAKEUP: implied — an iridescent shimmer where the face would be, the wing-cloud densest and brightest at the suggested features.
+HANDS & NAILS: hand-shapes formed of clustered wings, one "arm" lifted, the flower-ring glinting in the cluster.
+FACIAL MICRO-DYNAMICS: her tender smile is read in the brightest, densest cluster of wings at the face, the whole cloud pulsing gently like breath.
+BODY POSTURE & WEIGHT: an open, lifted stance held in butterflies — one arm raised, the silhouette buoyant, the cloud rippling slowly while keeping her human shape.
+KINETIC STILLNESS (8 layers): (1) thousands of wings fluttering; (2) sun blazing through the translucent swarm; (3) the trailing hair-stream of butterflies; (4) the denser skirt-swirl shifting; (5) a slow pulse like breath; (6) gold accessory-glints in the cloud; (7) dust-motes and loose butterflies drifting wide; (8) the silhouette gently breathing.
+SPATIAL LOGIC: FOREGROUND — loose butterflies fluttering close, sharp. MIDGROUND — the butterfly-figure, the hero. BACKGROUND — sunlit blossom meadow and golden sky melting to bokeh.
+LIGHTING: KEY — golden sun shafting through the translucent swarm. FILL — warm meadow bounce. RIM — sun blazing the wing-edges. PRACTICAL — low sun, glowing blossoms. SEPARATION — the glowing swarm against the bright sky-bokeh. BOUNCE — gold from the grass.
+LENS + DOF + BOKEH: 35mm, f/2.8; the figure sharp, loose butterflies and blossoms as soft golden bokeh, sun-flare.
+COMPOSITION: vertical 9:16, the butterfly-figure centred, the swarm filling the air around her, golden meadow framing.
+SUBJECT FRAMING & POSITION: Aira fills the frame head-to-hovering-feet as a complete butterfly-cloud, her silhouette open and lifted with one "arm" raised, the swarm holding a clear human shape against the meadow. The camera sits mid-distance at clean eye level, letting the wide framing show the full scattered figure and the air thick with wings; she anchors dead-centre with loose butterflies fanning to both sides and the sun blazing through. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: transcendent, joyful wonder — a being made of living light and wings.
+COLOUR GRADE: VIVID lilac-blush-gold, sun-glow, saturated wings against warm sky — luminous, rich, never washed.
+TEXTURE & MICRO-DETAIL: hundreds of individual wings with scale-detail, sun-through-wing translucency, gold accessory-glints, dust-motes, blossom-bokeh.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, garbled text, floating shadows, duplicated subjects, plastic look, oversharpened, watermarks, dull colour, crushed blacks, garish oversaturation, flat light.
+
+### ANIMATION (this clip, ~5s — the magical hero beat; ★ reform BEGINS at the end)
+SHOT TYPE & ANGLE: eye-level wide, full body; subject ~50% centre.
+CAMERA MOVEMENT (CHOREOGRAPHY): a slow reverent orbit a few degrees around her — one continuous shot.
+LENS: 35mm, f/2.8.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–2.0s — the butterfly-cloud holds her shape and shimmers, wings rippling in slow waves across the silhouette.
+- 2.0–3.0s — the raised "arm" sweeps in a slow graceful arc, a ribbon of butterflies streaming off it — the hypnotic hero beat.
+- 3.0–4.0s — she settles, the whole cloud pulsing gently like a deep breath, sun blazing through.
+- 4.0–5.0s — ★ REFORM BEGINS: the swarm starts to funnel downward and inward to re-gather toward her solid form.
+FLUIDITY & WEIGHT NOTES: weightless grace — the arm-arc eases, the ripple flows wing-to-wing, the funnel gathers like a tide of wings; nothing snaps.
+FABRIC/HAIR/PROP PHYSICS: flocking cohesion holds the human silhouette while thousands of wings flutter independently; sun-through-wing translucency; the funnel obeys believable swarm dynamics; gold accents stay solid and weighted within.
+FOOTWORK & BODY FLOW: the figure hovers just off the grass, the cloud swaying like butterflies that remember a human form.
+MID-CLIP TRANSFORMATION (timed): ★ the hero HOLD (0.0–4.0s) then REFORM ONSET (4.0–5.0s) — the swarm begins funnelling to re-gather, contained as an onset in this clip.
+LIGHTING-IN-MOTION: as the orbit moves, sun-shafts sweep new light-freckles across the meadow and shimmer travels through the translucent swarm.
+DIEGETIC AUDIO: a soft thunder of thousands of wingbeats, warm and full, beginning to draw together.
+MASTER TRACK: the harp-and-celeste motif blooms to a glittering glockenspiel peak on the arm-arc, then begins drawing back as the reform starts.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 3 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the chiffon re-forming from the feet up — solid lilac-and-blush layered skirt returning on the lower body, the upper body still gathering butterflies.
+  • FOOTWEAR: barefoot, feet re-solidified first in the grass.
+  • EYEWEAR: none.
+  • ACCESSORIES: tiny gold studs, chain and flower-ring becoming hard points again as the form gathers.
+  • HAIR: the butterfly-stream condensing back into honey-brown waves from the shoulders down.
+  • MAKEUP: dewy rose flush and glossy lip resolving onto re-formed skin, iridescent cheek-shimmer settling.
+  • HANDS & NAILS: hands re-solidifying to skin with sheer-pink nails, the last butterflies at the fingertips.
+  • FACIAL MICRO-DYNAMICS: tender, warm, a soft smile, eyes crinkling, a delighted blink as features resolve.
+  • BODY POSTURE & WEIGHT: settling into the easy open stance, the gathering swarm pulling her down to standing, breathing.
+  • KINETIC STILLNESS (8 layers): (1) the reform-funnel descending; (2) sun-freckles settling; (3) hair condensing; (4) skirt re-forming with ripples; (5) chest rising; (6) gold glints re-appearing; (7) last butterflies settling; (8) a warm blink.
+  • SPATIAL LOGIC: FOREGROUND — the re-forming cupped hand. MIDGROUND — her half-resolved figure. BACKGROUND — golden blossom meadow bokeh.
+  • LIGHTING: KEY — golden backlight sun. FILL — gold bounce. RIM — sun-halo on hair. PRACTICAL — low sun, blossoms. SEPARATION — warm form against bright bokeh. BOUNCE — meadow-glow under the chin.
+  • ATMOSPHERE: the magic gently resolving, warm and joyful.
+  • COLOUR GRADE: VIVID lilac-blush-gold, warm glowing, saturated, rich golden light.
+  • TEXTURE & MICRO-DETAIL: re-solidifying skin freckles, condensing wing-strands, chiffon weave reappearing, last wings, dust-motes.
+CUT LOGIC: hard ANGLE-CUT to CLIP 3 (medium close-up, three-quarter). No frame-match needed. State carried forward: she is re-forming from the feet up, nearly solid, a few butterflies settling.
+
+---
+
+## CLIP 3 of 3 — MEDIUM CLOSE-UP · THREE-QUARTER · EYE-LEVEL (butterflies re-form → solid Aira; LOOP to CLIP 1)
+
+### START IMAGE (keyframe)
+ANGLE & SHOT SIZE: eye-level MEDIUM CLOSE-UP, three-quarter; the butterflies funnelling back and re-forming into human Aira, the last wings settling onto her open palm.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: the lilac-and-blush chiffon midi re-formed and intact, layered petal-skirt and modest cap sleeves restored.
+FOOTWEAR: barefoot in the grass, edge-visible.
+EYEWEAR: none.
+ACCESSORIES: tiny gold studs, fine gold chain and flower-ring, solid and glinting again.
+HAIR: long honey-brown waves with caramel ends restored, the tucked flowers returning, strands lifting in the breeze.
+MAKEUP: dewy fresh rose flush, glossy pink-nude lip, iridescent cheek-shimmer, real freckles and pores.
+HANDS & NAILS: one hand open and cupped before her, a single butterfly settling onto the fingertips — matching CLIP 1 — soft sheer-pink nails.
+FACIAL MICRO-DYNAMICS: tender genuine wonder — a soft open-lipped smile, warm-gold-lit eyes crinkling, brows lifted, a slow delighted blink — exactly the look that opened CLIP 1.
+BODY POSTURE & WEIGHT: weight easy, torso three-quarter toward the cupped hand, shoulders open, head tilted with affection, breathing.
+KINETIC STILLNESS (8 layers): (1) the settling butterfly's wings opening slowly; (2) golden dust-motes drifting; (3) honey waves lifting; (4) the chiffon skirt rippling; (5) chest easing on an exhale; (6) blossom-bokeh swaying; (7) a last loose butterfly drifting off; (8) a slow warm blink.
+SPATIAL LOGIC: FOREGROUND — the cupped hand and settling butterfly, sharp. MIDGROUND — Aira restored. BACKGROUND — sunlit blossom meadow golden bokeh.
+LIGHTING: KEY — warm golden-hour backlight. FILL — gold reflector bounce. RIM — sun-halo on hair and shoulder. PRACTICAL — low sun, glowing blossoms. SEPARATION — warm form against bright bokeh. BOUNCE — meadow-glow under the chin.
+LENS + DOF + BOKEH: 85mm, f/1.8; her sharp, the butterfly crisp, meadow melting to creamy golden bokeh — matched toward CLIP 1's resolve.
+COMPOSITION: vertical 9:16, Aira right-of-centre, the cupped hand and butterfly the focal accent lower-left, golden meadow upper-right — rhyming with CLIP 1.
+SUBJECT FRAMING & POSITION: Aira reads from the chest up, framed medium-close and intimate, her torso at a soft three-quarter toward the cupped hand low-left as the swarm finishes gathering her, her face turned down and in with tender warmth. The camera holds clean eye level at near distance, she anchors right-of-centre so the sunlit meadow opens to frame-right — composed to match CLIP 1's opening so the loop is seamless. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: warm enchanted resolution — the fairytale calm exactly as it began.
+COLOUR GRADE: VIVID lilac-blush-gold, warm glowing, saturated florals, rich golden light — matched to CLIP 1.
+TEXTURE & MICRO-DETAIL: butterfly wing-scale iridescence, skin dew and freckles, chiffon weave, woven flowers, sun-flare, blossom-bokeh.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, blown-out highlights, garish oversaturation, flat light.
+
+### ANIMATION (this clip, ~4s — reform completes; LOOP back to CLIP 1)
+SHOT TYPE & ANGLE: eye-level medium close-up, three-quarter; subject ~55% right-of-centre.
+CAMERA MOVEMENT (CHOREOGRAPHY): a slow settle easing toward CLIP 1's exact framing — one continuous shot.
+LENS: 85mm, f/1.8.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–2.0s — ★ REFORM COMPLETES: the funnelling butterflies gather and solidify into Aira, features, hair and chiffon resolving from the feet up, the cupped hand last.
+- 2.0–3.0s — fully restored, she turns her tender gaze down to the butterfly settling on her fingertips.
+- 3.0–4.0s — she holds the exact warm stance and smile that opened CLIP 1, the butterfly's wings opening slowly — seamless loop point.
+FLUIDITY & WEIGHT NOTES: the reform gathers like a tide of wings settling, eased and continuous; she arrives in the opening pose with no snap, breath leading the settle.
+FABRIC/HAIR/PROP PHYSICS: butterfly re-gather — wings folding into skin and chiffon with believable cohesion, hair condensing, the skirt knitting back; the settling butterfly lands with real weight.
+FOOTWORK & BODY FLOW: weight roots easy into the grass, a soft spinal incline toward the little creature.
+MID-CLIP TRANSFORMATION (timed): ★ REFORM COMPLETION at 0.0–2.0s — the swarm fully reassembles into base Aira, resolving the single-magic morph.
+LIGHTING-IN-MOTION: the sun-freckles settle as she solidifies; the golden key steadies to the exact warmth of CLIP 1.
+DIEGETIC AUDIO: the full wingbeats resolving into a single soft flutter as the last butterfly lands, then warm meadow breeze and birdsong.
+MASTER TRACK: the glittering motif draws back to one soft harp note landing exactly where CLIP 1 began — seamless loop.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 1 (LOOP back to opening) — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the lilac-and-blush chiffon midi intact, layered petal-skirt, modest cap sleeves.
+  • FOOTWEAR: barefoot in the soft grass, edge-visible.
+  • EYEWEAR: none.
+  • ACCESSORIES: tiny gold ear-studs, fine gold chain, thin flower-form ring.
+  • HAIR: long honey-brown waves, caramel ends, tiny flowers tucked in, strands lifting.
+  • MAKEUP: dewy rose flush, glossy pink-nude lip, iridescent cheek-shimmer, real freckles.
+  • HANDS & NAILS: one hand open and cupped, a butterfly perched on the fingertips, sheer-pink nails.
+  • FACIAL MICRO-DYNAMICS: tender wonder, soft open-lipped smile, warm-gold eyes crinkling, brows lifted, a slow delighted blink.
+  • BODY POSTURE & WEIGHT: weight easy, torso three-quarter toward the cupped hand, shoulders open, head tilted.
+  • KINETIC STILLNESS (8 layers): (1) the butterfly's wings opening and closing; (2) golden dust-motes; (3) honey waves lifting; (4) chiffon rippling; (5) a slow inhale; (6) blossom-bokeh swaying; (7) a second butterfly arriving at the edge; (8) a warm blink.
+  • SPATIAL LOGIC: FOREGROUND — cupped hand and perched butterfly. MIDGROUND — Aira three-quarter. BACKGROUND — sunlit blossom meadow bokeh.
+  • LIGHTING: KEY — golden backlight sun. FILL — gold bounce. RIM — sun-halo on hair. PRACTICAL — low sun, blossoms. SEPARATION — warm form against bokeh. BOUNCE — meadow-glow under the chin.
+  • ATMOSPHERE: warm, alive, enchanted — a sun-drenched fairytale meadow, exactly as it began.
+  • COLOUR GRADE: VIVID lilac-blush-gold, warm glowing, saturated florals, rich golden light.
+  • TEXTURE & MICRO-DETAIL: wing-scale iridescence, skin dew and freckles, chiffon weave, woven flowers, sun-flare, blossom-bokeh.
+CUT LOGIC: seamless ANGLE-CUT / LOOP back to CLIP 1 — she breathes toward the butterfly and scatters again, forever.
+
+☆ EXTERNAL AUDIO — BLOCK 1: BACKGROUND SOUND DESIGN / AMBIENCE BED
+A warm sunlit meadow as the constant — soft breeze, layered birdsong, distant bees. THROUGH-LINE: a single delicate wing-flutter (the trigger), recurring at the loop. Layers: a soft warm breath then a blooming wash of many wingbeats as she scatters (CLIP 1 end); a soft full thunder of thousands of wingbeats while she is the butterfly-cloud (CLIP 2); the wingbeats drawing together and resolving to one gentle flutter as the last butterfly lands, then breeze and birdsong (CLIP 3). Cross-fade beat to beat; the warm meadow hush at the end equals the start.
+☆ EXTERNAL AUDIO — BLOCK 2: BACKGROUND MUSIC / SCORE TRACK
+Whimsical, warm, magical. KEY/TEMPO: C major, ~80 BPM. THE SPINE (constant): a light plucked harp/celeste motif with soft strings, present throughout. BUILD: the motif brightens as she scatters; a glittering glockenspiel swell reaches its peak on the CLIP 2 arm-arc (the hero beat); the sparkle draws back as she reforms, decaying to one soft harp note landing exactly where the reel began — a seamless infinite loop. Gentle, joyful, fairytale-light.
+
+═══════════════════════════════════════════════════════════════════════════════
