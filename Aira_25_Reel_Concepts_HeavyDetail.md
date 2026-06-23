@@ -4887,3 +4887,533 @@ CUT LOGIC: ANGLE-CUT / LOOP back to CLIP 1; the next pass re-triggers the globe'
 - Loop: a clean ~22s loop matching the visual loop point.
 
 ---
+
+# PILLAR D — SHOW THE FEELING
+*Feeling: oddly satisfying / want. Make an invisible sensation visible around Aira — pure mood, no product. The kind of reel people send a friend saying "this is such a vibe."*
+
+# CONCEPT D-1 — THE FIRST SIP OF COLD WATER ON A HOT DAY
+
+Title: Show-the-Feeling Hero — the visceral relief of cold water, made visible as a chill-wave.
+Category / Format: Sensory-mood reel (sun-blazing Mediterranean rooftop terrace) · SILENT (diegetic + score only) · CLIP-CHAIN, ANGLE-CUT edit · SENSORY-MAGIC (the sip releases a visible blue chill-wave and instant frost, which melts back as the heat reclaims).
+Story Idea: On a blazing-hot terrace, Aira lifts a sweating glass of ice water and takes the first sip — and the relief becomes visible: a wave of blue chill radiates from her, frost blooms across the glass and the terrace, her breath fogs for a beat — then the summer heat melts it all back in seconds.
+Setting: a sun-blazing Mediterranean rooftop terrace — white-washed walls, terracotta tiles, vivid hot-pink bougainvillea, a turquoise sea beyond the railing, harsh midday sun, visible heat-shimmer on the tiles.
+Wardrobe: a white linen cropped button-up tied at the waist over a simple top, high-waist terracotta linen wide-leg pants; modest, breezy.
+Footwear: brown leather flat slide sandals, one ankle crossed — constant.
+Eyewear: round tortoise-shell sunglasses (pushed up on the head, lowered later).
+Accessories: a stack of thin gold bangles, small gold hoops, a tall sweating glass of ice water (the prop), soft peach glossy nails.
+Hair: a high messy textured ponytail, sun-bleached caramel-brown, wispy face-framing pieces — constant.
+Makeup: fresh sun-glow — luminous dewy skin (a faint heat-sheen), soft warm lip, real pores.
+Hero Movement / Impossible Move: the first sip releases a visible blue chill-wave and instant frost across the terrace, which melts back as the heat reclaims.
+Transformation Trigger (signature, consistent): THE SIP — the instant the cold water touches her lips, the chill-wave radiates and the frost blooms; as she lowers the glass and the heat returns, it melts back. Same trigger (the sip) is the sensory hero-beat.
+Mood: ODDLY SATISFYING / VISCERAL RELIEF — the audio-and-visual equivalent of "ahhh".
+Grade: blazing VIVID summer (white + terracotta + hot-pink + turquoise + caramel) that briefly INVERTS to a cool blue-white frost-palette on the chill-wave, then floods back to hot; rich, glossy, full mid-tone.
+Duration: ~22 seconds · 5 clips (angle-cut chain).
+Voice: SILENT — diegetic terrace + a hot-minimal score with a satisfying bass-drop on the chill.
+Identity safety: AIRA adult; wardrobe modest; mood refreshing and elegant, never sexualized.
+State chain (angle-cut): CLIP 1 full body [hot terrace, reaches for the sweating glass] → CUT → CLIP 2 close-up [★ the sip → CHILL-WAVE + frost bloom] → CUT → CLIP 3 full-body hero [everything frosted, she in ecstasy, then melts] → CUT → CLIP 4 medium profile [heat fully returned, smug calm] → CUT → CLIP 5 full body [reset, reaches for glass = CLIP 1, loop].
+
+---
+
+## CLIP 1 of 5 — FULL BODY · FRONT · SLIGHT LOW ANGLE (hot terrace; reaches for the sweating glass)
+
+### START IMAGE (keyframe — blazing hot terrace)
+ANGLE & SHOT SIZE: slight low-angle FULL BODY; Aira leaning on a terrace railing, reaching for a sweating glass of ice water on a small table, the turquoise sea beyond.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: a white linen cropped button-up tied at the waist over a simple top, high-waist terracotta linen wide-leg pants; breezy, sun-warmed.
+FOOTWEAR: brown leather flat slide sandals, one ankle crossed, relaxed.
+EYEWEAR: round tortoise-shell sunglasses pushed up on the head.
+ACCESSORIES: a stack of thin gold bangles, small gold hoops, soft peach glossy nails; the tall sweating glass of ice water on the table.
+HAIR: a high messy textured ponytail, sun-bleached caramel-brown, wispy face-framing pieces lifting in a hot breeze.
+MAKEUP: fresh sun-glow — luminous dewy skin with a faint heat-sheen, soft warm lip, real pores.
+HANDS & NAILS: her right hand reaching for the sweating glass, fingers spreading toward the cold condensation; the left resting on the warm railing; soft peach glossy nails.
+FACIAL MICRO-DYNAMICS: heat-discomfort softening into thirst — eyes slightly squinted against the glare, a faint glow-sheen on the skin, lips parted for a breath, brow relaxed but warm; about to reach relief.
+BODY POSTURE & WEIGHT: a relaxed lean on the railing, weight on one hip, one ankle crossed, reaching, spine long, alive.
+KINETIC STILLNESS (8 layers): (1) heat-shimmer waving above the terracotta tiles; (2) the glass sweating, a droplet sliding down; (3) wispy ponytail pieces lifting in the hot breeze; (4) the linen shirt-tails swaying; (5) chest rising on a warm breath; (6) hot-pink bougainvillea swaying; (7) the turquoise sea sparkling beyond; (8) a slow heat-squint blink.
+SPATIAL LOGIC: FOREGROUND — the sweating glass on the table, sharp. MIDGROUND — Aira at the railing. BACKGROUND — the white-washed terrace, bougainvillea, turquoise sea.
+LIGHTING: KEY — harsh direct overhead midday sun (strong top-key, short sharp shadows). FILL — warm bounce off white walls. RIM — a hot sun-edge on the ponytail. PRACTICAL — the blazing sun, sea-sparkle. SEPARATION — bright sea behind the figure. BOUNCE — warm tile-light under the chin.
+LENS + DOF + BOKEH: 35mm, f/4, slight low; the terrace legible, heat-shimmer distorting the air, the sea melting soft.
+COMPOSITION: vertical 9:16, Aira centre at the railing, the sweating glass the focal object, the sea and bougainvillea framing.
+SUBJECT FRAMING & POSITION: Aira reads as a complete full-length figure leaning at the railing, framed head-to-sandals from a slightly low angle, body squared near-front as she reaches for the glass. The camera holds a full-body distance, slightly low; she anchors centre with the hot terrace around her. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: blazing Mediterranean midday heat, the parched moment before relief.
+COLOUR GRADE: VIVID summer — saturated white + terracotta + hot-pink bougainvillea + turquoise sea + caramel hair; blazing, glossy, full mid-tone.
+TEXTURE & MICRO-DETAIL: linen weave, glass condensation droplets, heat-shimmer distortion, terracotta-tile grain, wispy ponytail strands, peach nail gloss, sea-sparkle.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
+
+### ANIMATION (this clip, ~4s — reaches for the sweating glass)
+SHOT TYPE & ANGLE: slight low-angle full body, front; subject ~50% centre.
+CAMERA MOVEMENT (CHOREOGRAPHY): a slow static-to-push-in toward her and the glass — one continuous shot.
+LENS: 35mm, f/4, slight low.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–1.5s — she breathes against the heat, chest rising, eyes squinting at the glare.
+- 1.5–2.8s — she reaches for the glass and wraps her hand around it — a visible micro-shiver of cold relief at the touch.
+- 2.8–4.0s — she lifts the glass, anticipation building, lips pressing in a pre-sip settle.
+FLUIDITY & WEIGHT NOTES: the reach is thirsty and decisive; the grip shows a flinch-then-relief at the cold; all motion eases.
+FABRIC/HAIR/PROP PHYSICS: the heat-shimmer is correct convection distortion; condensation drips with water-gravity; ice settles in the glass with a clink; wispy hair lifts in the hot breeze.
+FOOTWORK & BODY FLOW: a relaxed lean, weight on one hip, reaching.
+MID-CLIP TRANSFORMATION (timed): NONE yet — pure hot-terrace establishing (the chill-wave is reserved for CLIP 2's sip). The glass touch gives a tiny relief-shiver, seeding the payoff.
+LIGHTING-IN-MOTION: harsh and hot, steady — about to be disrupted.
+DIEGETIC AUDIO: LOUD cicadas; a hot breeze; ice clinking in the glass; distant sea; her heat-breath; condensation dripping onto hot tile (a tiny sizzle-hiss).
+MASTER TRACK: a lazy summer guitar-loop (clean, muted) + a warm sub-bass pad + cicada-texture.
+END STATE / STATE-MATCH LOCK (heavy detail — CLIP 2's START IMAGE must reproduce 100%, new angle only): at clip end she holds the sweating glass, about to sip, the blazing hot terrace around (heat-shimmer, bougainvillea, sea); white linen, caramel ponytail, heat-glow. CLIP 2 must open in this EXACT hot state (same blazing terrace, same glass at her lips, same wardrobe) — only the camera angle changes (to the close-up).
+CUT LOGIC: hard ANGLE-CUT to CLIP 2 (close-up, face + glass). No motion-match; WORLD STATE matches 100%.
+
+---
+
+## CLIP 2 of 5 — CLOSE-UP (face + glass) · THREE-QUARTER · EYE-LEVEL (opens hot = CLIP 1 end; ★ the sip releases the CHILL-WAVE + frost)
+
+### START IMAGE (keyframe — glass at her lips, reproduces CLIP 1's END STATE, new angle)
+ANGLE & SHOT SIZE: eye-level CLOSE-UP, face and the glass at her lips, three-quarter, the blazing terrace in bokeh behind.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: the white linen collar at the throat — identical state.
+FOOTWEAR: out of frame.
+EYEWEAR: sunglasses on the head.
+ACCESSORIES: gold bangles on the glass-hand catching light, peach nails on the wet glass, small gold hoops.
+HAIR: the messy caramel ponytail, wispy pieces, heat-glow on the strands.
+MAKEUP: fresh sun-glow with a heat-sheen.
+HANDS & NAILS: both hands bringing the sweating glass to her lower lip, the rim making real contact; peach nails.
+FACIAL MICRO-DYNAMICS: the pre-sip — eyes closing in anticipation, lashes lowering, brow smoothing, lips parting to meet the rim; a held breath, the face of someone about to feel the best thing in the world.
+BODY POSTURE & WEIGHT: leaned slightly back, the glass raised, breathing.
+KINETIC STILLNESS (8 layers): (1) heat-shimmer in the bokeh; (2) a condensation droplet on the glass; (3) wispy ponytail pieces; (4) the linen collar shifting; (5) chest rising; (6) the first icy drop at her lip; (7) sea-sparkle behind; (8) lashes settling.
+SPATIAL LOGIC: FOREGROUND — the glass at her lips, sharp. MIDGROUND — her face. BACKGROUND — the hot terrace bougainvillea-and-sea bokeh.
+LIGHTING: KEY — harsh sun from above; the glass casting a cool blue-shadow on her chin. FILL — warm wall-bounce. RIM — hot sun-edge on the ponytail. PRACTICAL — sun, sea-sparkle. SEPARATION — bright bokeh behind the face. BOUNCE — warm under the jaw (about to flip cool).
+LENS + DOF + BOKEH: 85mm, f/2.0; her face and the glass sharp, the terrace melting to hot bokeh.
+COMPOSITION: vertical 9:16, her face right, the glass left, the sip about to happen at centre.
+SUBJECT FRAMING & POSITION: Aira is framed in a close-up, face and the glass, three-quarter toward camera, the glass at her lower lip. She sits right-of-centre with the glass to frame-left. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: the held-breath instant before visceral relief.
+COLOUR GRADE: blazing VIVID summer about to INVERT — hot gold skin + icy glass, the moment before the cool-blue chill-wave. (Matches CLIP 1 END STATE.)
+TEXTURE & MICRO-DETAIL: glass condensation, the icy rim, real pores with a heat-sheen, lash detail, wispy strands.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
+
+### ANIMATION (this clip, ~5s — ★ THE SIP releases the CHILL-WAVE + frost bloom)
+SHOT TYPE & ANGLE: eye-level close-up; face ~70% right-of-centre with the glass.
+CAMERA MOVEMENT (CHOREOGRAPHY): a static intimate hold — the sip is the event — one continuous shot.
+LENS: 85mm, f/2.0, shallow.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–1.5s — the glass tilts, she sips — slow, deliberate, savouring; eyes closed.
+- 1.5–2.5s — ★ TRIGGER: the cold water hits — and a wave of BLUE-WHITE CHILL radiates outward from her; frost-crystals BLOOM explosively across the glass; her breath fogs.
+- 2.5–5.0s — eyes fly open wide then roll back slightly in ecstasy; a sharp satisfied exhale; an "mmm" forming — pure relief.
+FLUIDITY & WEIGHT NOTES: the sip is savouring; the relief explodes on her face (eyes lead wide, then the exhale); all motion eases except the chill-wave snap.
+FABRIC/HAIR/PROP PHYSICS: the frost-bloom follows real dendritic ice-crystal patterns; the chill-wave travels at a visible shockwave-speed; breath-vapour forms in the sudden local cold; the glass frosts in her grip but her wet fingers leave clear unfrosted prints (detail); the glass weight unchanged.
+FOOTWORK & BODY FLOW: a slight lean-back into the relief.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE CHILL-WAVE at 1.5–3.0s — triggered by the sip, a blue-white chill radiates from her in all directions, frost blooms explosively on the glass, her breath fogs, the nearest terracotta tile and bougainvillea-edges frost white; a momentary winter inside the summer.
+LIGHTING-IN-MOTION: the chill-wave carries a brief cool-blue light-shift washing over her face and frame, then fades — a momentary colour-temperature drop.
+DIEGETIC AUDIO: the sip (a cold gulp); THE CHILL — a deep satisfying bass-drop "WHOOOMPH" (chest-felt) + a crystalline frost-crackle spreading rapidly + a sharp cold breath-exhale; cicadas cutting to silence for one beat.
+MASTER TRACK: the lazy guitar strips to sub-bass anticipation, then a MASSIVE satisfying bass-DROP + a crystalline reverse-cymbal + a frozen beat of silence on the chill.
+END STATE / STATE-MATCH LOCK (heavy detail — CLIP 3's START IMAGE must reproduce 100%, new angle only): at clip end a blue-white chill has bloomed — the glass frosted, her breath fogging, the nearest surfaces frosting; her face in dawning ecstasy; the terrace beginning to frost; white linen, caramel ponytail. CLIP 3 must open in this EXACT chill-bloom state (same frost, same cool-blue shift, same wardrobe) — only the angle changes (to the full-body hero).
+CUT LOGIC: hard ANGLE-CUT to CLIP 3 (full-body hero). No motion-match; WORLD STATE matches 100%.
+
+---
+
+## CLIP 3 of 5 — FULL BODY · FRONT · LOW-ANGLE HERO (opens chill-bloom = CLIP 2 end; ★ everything frosted, then melts back)
+
+### START IMAGE (keyframe — frosted terrace, reproduces CLIP 2's END STATE, new angle)
+ANGLE & SHOT SIZE: low-angle HERO, FULL BODY; the entire hot terrace momentarily frosted white, Aira standing tall in cold-water ecstasy.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: the white linen and terracotta pants with a faint frost-sheen over the fabric — identical state.
+FOOTWEAR: brown slide sandals on now-frosted terracotta tiles, frost-crystals around her feet.
+EYEWEAR: sunglasses on the head with a frost-edge.
+ACCESSORIES: frosted gold bangles, peach nails on the frosted glass, gold hoops with tiny snow-crystals.
+HAIR: the messy ponytail with tiny frost crystals caught, caramel against white.
+MAKEUP: fresh sun-glow now cool-lit, a cold-flush at the cheeks.
+HANDS & NAILS: the frosted glass held slightly raised (a toast to herself), her wet-cold fingers leaving clear prints; peach nails.
+FACIAL MICRO-DYNAMICS: pure cold-water ECSTASY — head tilted back, eyes closed, mouth in a slow satisfied "ahhh", every feature relaxed in complete relief — the universal "that hit" face.
+BODY POSTURE & WEIGHT: standing tall, head back, the glass raised, weight even, spine long, breathing.
+KINETIC STILLNESS (8 layers): (1) the whole terrace frosted white and crystalline; (2) steam rising where frost meets hot surfaces; (3) frost-crystals in the ponytail; (4) the linen frost-sheen; (5) chest rising on a relief-breath; (6) the bougainvillea ice-edged; (7) the sea still turquoise beyond (the frost only reaches so far); (8) a blissful slow micro-movement.
+SPATIAL LOGIC: FOREGROUND — frosted tiles. MIDGROUND — Aira in ecstasy. BACKGROUND — the frosted terrace, the unfrosted turquoise sea on the horizon.
+LIGHTING: KEY — the light briefly shifted to cool-blue (the sun filtered through the chill-wave). FILL — frost-refracted prismatic sparkle. RIM — a cool edge down her silhouette. PRACTICAL — frost-sparkle, the dimmed sun. SEPARATION — her warm skin against the cool-white frost. BOUNCE — cool frost-light up onto her face.
+LENS + DOF + BOKEH: 28mm low and wide for grandeur, f/3.2; Aira sharp, the frosted world crystalline, prismatic sparkle as bokeh.
+COMPOSITION: vertical 9:16, Aira centre in the frosted world, her warm skin the focal heat-point, frost radiating out, the turquoise sea as the unfrozen horizon.
+SUBJECT FRAMING & POSITION: Aira reads as a complete full-length figure from a low angle, head back in bliss, framed head-to-sandals with frosted tiles beneath. The camera is mid-distance and low for grandeur; she anchors centre with the frosted terrace around her. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: a winter moment frozen into summer — visceral relief made a world.
+COLOUR GRADE: INVERTED VIVID — cool blue-white frost over the hot terracotta/pink/turquoise, a startling contrast; her warm skin-tone the only warm element. (Matches CLIP 2 END STATE.)
+TEXTURE & MICRO-DETAIL: dendritic frost-crystals, frost-sheen on linen, ice-edged bougainvillea, frost in the ponytail, steam where frost meets hot tile, prismatic sparkle.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
+
+### ANIMATION (this clip, ~5s — ★ everything frosted at peak, then melts back)
+SHOT TYPE & ANGLE: low-angle hero, full body; subject ~60% centre.
+CAMERA MOVEMENT (CHOREOGRAPHY): a slow crane-down to the low hero angle, holding — one continuous shot.
+LENS: 28mm, f/3.2, low and wide.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–1.5s — she tilts her head back in bliss, one hand on her stomach (the cold hitting her core).
+- 1.5–2.8s — she holds the ecstasy "ahhh" — the hero beat — the terrace at peak frost.
+- 2.8–5.0s — the frost begins to MELT fast; steam rises; she lowers her head, eyes opening, a broad satisfied grin as summer reclaims.
+FLUIDITY & WEIGHT NOTES: the head-back is total surrender; the melt steams back believably; all motion eases.
+FABRIC/HAIR/PROP PHYSICS: frost melts with correct water-state transition (thin → wet → dripping); steam rises from hot surfaces reclaiming the frost; melting follows heat-source logic (sun-facing first); the prismatic sparkle fades with the ice; the glass defrosts.
+FOOTWORK & BODY FLOW: a grounded heroic stance, a slight sway of relief.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ PEAK-AND-MELT at 0.0–4.0s — the frost is at peak (everything white/crystalline) then melts fast as the summer heat fights back; steam, drips, the frost receding outward from her (her body-heat unfreezing things first).
+LIGHTING-IN-MOTION: cool-blue shifting back to hot gold as the frost melts — the colour temperature rising in real time.
+DIEGETIC AUDIO: the frost crackling as it melts (a cascade of tiny ice-breaks); steam hissing off hot tiles; dripping water; cicadas rushing back; her satisfied "ahhh"; the summer reclaiming.
+MASTER TRACK: the bass-drop tail; the lazy summer guitar returning warm as the frost melts.
+END STATE / STATE-MATCH LOCK (heavy detail — CLIP 4's START IMAGE must reproduce 100%, new angle only): at clip end the frost is mostly melted, steam rising, the terrace warming back to hot; Aira lowering her head with a satisfied grin; white linen, caramel ponytail. CLIP 4 must open in this EXACT melting-back state (heat returning, last steam, same wardrobe) — only the angle changes (to the profile).
+CUT LOGIC: hard ANGLE-CUT to CLIP 4 (medium profile). No motion-match; WORLD STATE matches 100%.
+
+---
+
+## CLIP 4 of 5 — MEDIUM · FULL PROFILE · EYE-LEVEL (opens melting-back = CLIP 3 end; heat returned, smug calm)
+
+### START IMAGE (keyframe — heat returned, reproduces CLIP 3's END STATE, new angle)
+ANGLE & SHOT SIZE: eye-level MEDIUM, waist-up, full side-profile; the terrace fully returned to hot, heat-shimmer back, Aira in smug post-relief calm.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: the white linen top in profile (frost-sheen gone), terracotta pants — identical state.
+FOOTWEAR: out of frame.
+EYEWEAR: round sunglasses now lowered onto her eyes (a casual satisfied move).
+ACCESSORIES: dry gold bangles, gold hoops, peach nails on the glass set down on the table.
+HAIR: the messy ponytail in profile, caramel, sun-warm again.
+MAKEUP: fresh sun-glow, heat-sheen returning.
+HANDS & NAILS: she sets the glass back on the table with a decisive satisfied tap; peach nails.
+FACIAL MICRO-DYNAMICS: smug satisfied calm — a slow private smirk in profile, eyes hidden behind the lowered sunglasses, chin level, shoulders dropped in pure post-relief relaxation — "that was everything".
+BODY POSTURE & WEIGHT: an easy upright profile, weight settled, setting the glass down, breathing.
+KINETIC STILLNESS (8 layers): (1) heat-shimmer fully returned above the tiles; (2) the glass condensation beginning again; (3) wispy ponytail pieces in the hot breeze; (4) the linen shifting; (5) chest rising on a satisfied breath; (6) bougainvillea swaying (unfrosted); (7) the sea sparkling; (8) a slow content blink behind the shades.
+SPATIAL LOGIC: FOREGROUND — the glass being set down, sharp. MIDGROUND — her profile. BACKGROUND — the hot terrace, bougainvillea, sea.
+LIGHTING: KEY — harsh hot midday sun back to full. FILL — warm wall-bounce. RIM — hot sun-edge on the ponytail. PRACTICAL — sun, sea-sparkle. SEPARATION — bright sea behind the profile. BOUNCE — warm tile-light under the jaw.
+LENS + DOF + BOKEH: 50mm, f/2.8; her profile and the glass sharp, the hot terrace bokeh, heat-shimmer.
+COMPOSITION: vertical 9:16, her profile left, the glass set down centre, the hot terrace right.
+SUBJECT FRAMING & POSITION: Aira is shown in a profile medium, waist-up, setting the glass down, the hot terrace around. Her torso is square in profile. The camera holds a medium distance at eye level; she rides left with the terrace to frame-right. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: smug post-relief contentment — the heat reclaimed, the relief savoured.
+COLOUR GRADE: VIVID summer fully returned — terracotta, pink, turquoise, white, gold. (Matches CLIP 3 END STATE, heat back.)
+TEXTURE & MICRO-DETAIL: glass condensation re-forming, linen weave, wispy ponytail strands, heat-shimmer, peach nail gloss.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
+
+### ANIMATION (this clip, ~4s — heat returned, smug calm)
+SHOT TYPE & ANGLE: eye-level medium profile; subject ~55% left-of-centre.
+CAMERA MOVEMENT (CHOREOGRAPHY): a slow lateral track on the profile — one continuous shot.
+LENS: 50mm, f/2.8, shallow.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–1.5s — she lowers the round sunglasses over her eyes.
+- 1.5–2.8s — she sets the glass down with a decisive satisfied tap and leans back on the railing.
+- 2.8–4.0s — a long slow satisfied exhale — complete.
+FLUIDITY & WEIGHT NOTES: the glasses slide with friction; the glass-tap is decisive; the lean-back has real weight; all motion eases.
+FABRIC/HAIR/PROP PHYSICS: sunglasses slide down with a soft click; the glass meets the table with a tap and a slight water-ring; her posture settles with real weight; heat-shimmer fully returns.
+FOOTWORK & BODY FLOW: an easy lean-back on the railing.
+MID-CLIP TRANSFORMATION (timed): the heat is fully back (the chill-magic resolved); the last steam-wisps fade; the terrace as hot as the opening.
+LIGHTING-IN-MOTION: hot sun at full intensity — matched to the opening.
+DIEGETIC AUDIO: sunglasses sliding (a soft click); the glass-tap; the lean-back (railing creak); cicadas at full volume; hot breeze; her long satisfied exhale.
+MASTER TRACK: the lazy summer guitar warm and full again.
+END STATE / STATE-MATCH LOCK (heavy detail — CLIP 5's START IMAGE must reproduce 100%, then loop): at clip end the terrace is fully hot again, Aira smug-calm with shades on, the glass set down; white linen, caramel ponytail. CLIP 5 must open in this EXACT hot state then reset to the CLIP-1 reach — same terrace, same wardrobe (shades back up).
+CUT LOGIC: hard ANGLE-CUT to CLIP 5 (full body). No motion-match; state resets to CLIP 1.
+
+---
+
+## CLIP 5 of 5 — FULL BODY · FRONT · SLIGHT LOW ANGLE (reset → loop to CLIP 1)
+
+### START IMAGE (keyframe — reproduces CLIP 1's opening)
+ANGLE & SHOT SIZE: slight low-angle FULL BODY; Aira leaning at the railing, reaching for the (re-sweating) glass again — the hot terrace and opening restored.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: the white linen tied button-up, terracotta linen pants — matched to CLIP 1.
+FOOTWEAR: brown slide sandals, one ankle crossed — matched.
+EYEWEAR: round tortoise sunglasses pushed back up on the head — matched to CLIP 1.
+ACCESSORIES: gold bangles, gold hoops, peach nails; the re-sweating glass on the table — matched.
+HAIR: the high messy caramel-brown ponytail, wispy pieces — matched to CLIP 1.
+MAKEUP: fresh sun-glow with a heat-sheen — matched.
+HANDS & NAILS: her right hand reaching for the sweating glass, the left on the warm railing — matched to CLIP 1.
+FACIAL MICRO-DYNAMICS: heat-squint softening into thirst — the exact opening face.
+BODY POSTURE & WEIGHT: a relaxed railing-lean, weight on one hip, ankle crossed, reaching — mirror of CLIP 1.
+KINETIC STILLNESS (8 layers): (1) heat-shimmer above the tiles; (2) the glass sweating; (3) wispy pieces in the breeze; (4) the linen swaying; (5) chest rising; (6) bougainvillea swaying; (7) the sea sparkling; (8) a heat-squint blink — matched to CLIP 1.
+SPATIAL LOGIC: FOREGROUND — the sweating glass. MIDGROUND — Aira at the railing. BACKGROUND — the white terrace, bougainvillea, sea — matched to CLIP 1.
+LIGHTING: KEY — harsh overhead midday sun. FILL — warm wall-bounce. RIM — hot sun-edge on the ponytail. PRACTICAL — sun, sea-sparkle. SEPARATION — bright sea behind. BOUNCE — warm tile-light under the chin — matched to CLIP 1.
+LENS + DOF + BOKEH: 35mm, f/4, slight low — matched to CLIP 1.
+COMPOSITION: vertical 9:16, Aira centre at the railing, the sweating glass the focal object — identical to CLIP 1 so the reel loops.
+SUBJECT FRAMING & POSITION: Aira reads as a complete full-length figure leaning at the railing, framed head-to-sandals from a slightly low angle, body squared near-front as she reaches for the glass. The camera holds the identical full-body distance, slightly low; she anchors centre with the hot terrace around — exactly rhyming with CLIP 1 so the loop is seamless. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: blazing midday heat resuming — ready for the first sip again.
+COLOUR GRADE: VIVID summer — white, terracotta, hot-pink, turquoise, caramel — matched to CLIP 1.
+TEXTURE & MICRO-DETAIL: linen weave, glass condensation, heat-shimmer, terracotta grain, wispy strands, peach nails, sea-sparkle — matched.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
+
+### ANIMATION (this clip, ~4s — reset; loop close)
+SHOT TYPE & ANGLE: slight low-angle full body, front; subject ~50% centre — matched to CLIP 1.
+CAMERA MOVEMENT (CHOREOGRAPHY): a gentle settle to the exact CLIP-1 establishing framing.
+LENS: 35mm, f/4 — matched.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–1.5s — she pushes the sunglasses back up onto her head, the smirk fading to heat.
+- 1.5–2.8s — the heat-squint returns; she reaches for the re-sweating glass.
+- 2.8–4.0s — the thirsty reach — the exact CLIP-1 opening pose, ready to sip again.
+FLUIDITY & WEIGHT NOTES: the glasses push-up is casual; the reach matches CLIP 1; everything returns to the opening.
+FABRIC/HAIR/PROP PHYSICS: the glass sweats; cicadas loud; heat-shimmer; wispy hair lifts — all matched to CLIP 1.
+FOOTWORK & BODY FLOW: a relaxed railing-lean, reaching.
+MID-CLIP TRANSFORMATION (timed): the terrace is fully hot; the next loop re-triggers the chill-wave on her next sip (the start of CLIP 1→2).
+LIGHTING-IN-MOTION: harsh hot sun — matched to CLIP 1.
+DIEGETIC AUDIO: cicadas; hot breeze; glass condensation dripping; heat — back to the CLIP-1 bed.
+MASTER TRACK: the lazy summer guitar-loop resolves to the opening, looping cleanly.
+END STATE / STATE-MATCH LOCK: clip ends in the EXACT hot-terrace reach state and full-body angle of CLIP 1's START IMAGE — heat, wardrobe and thirsty expression matched, so the reel loops seamlessly.
+CUT LOGIC: ANGLE-CUT / LOOP back to CLIP 1; the next pass re-triggers the chill-wave on the sip.
+
+### ☆ EXTERNAL AUDIO — BLOCK 1: BACKGROUND SOUND DESIGN / AMBIENCE BED — D-1
+*The layered foley + ambience to lay UNDER the reel, separate from the in-clip diegetic audio — timed to the clips.*
+- Base bed (hot clips): LOUD cicadas; a hot dry breeze; distant sea; condensation dripping onto hot tile (a faint sizzle-hiss); ice clinking in the glass.
+- CLIP 1 (reach): the glass touch — a tiny relief-shiver; a heat-breath.
+- CLIP 2 (★ the sip/chill): the cold gulp; the deep bass-drop "WHOOOMPH" of the chill-wave; a crystalline frost-crackle spreading; a sharp cold breath-exhale; cicadas cutting to silence for one beat.
+- CLIP 3 (frosted/melt): the frost crackling as it melts; steam hissing off hot tiles; dripping water; cicadas rushing back; her "ahhh".
+- CLIP 4 (heat back): sunglasses click; a decisive glass-tap; a long satisfied exhale; cicadas full.
+- CLIP 5 (reset): cicadas; hot breeze; glass condensation — back to the CLIP-1 bed.
+- Mix note: the chill-moment is the signature — silence-then-crystalline-crackle; the bed flips hot→cold→hot with the visuals; loops cleanly at ~22s.
+
+### ☆ EXTERNAL AUDIO — BLOCK 2: BACKGROUND MUSIC / SCORE TRACK — D-1 (lay under the sound bed)
+- Genre / vibe: hot summer minimalism with a satisfying bass-drop payoff — Balearic chill meets cinematic impact.
+- Tempo / key: ~95 BPM, D major (warm), airy and spacious.
+- Core elements: a lazy clean muted-guitar loop; a warm sub-bass pad; cicada-texture; and at the CHILL: a MASSIVE satisfying sub-bass DROP + a crystalline reverse-cymbal + a frozen beat of silence.
+- Arc: lazy guitar + cicada (CLIP 1 hot) → strip to sub-bass anticipation at the sip → THE DROP at the chill-wave (CLIP 2–3, the deeply-satisfying payoff) → the guitar returns warm as summer reclaims (CLIP 4) → the opening lazy loop (CLIP 5).
+- Texture note: the DROP must be DEEPLY SATISFYING — the audio equivalent of cracking your back; the whole track builds to that one cold-relief moment.
+- Loop: a clean ~22s loop matching the visual loop point.
+
+---
+
+# CONCEPT D-2 — WHEN YOUR SONG COMES ON
+
+Title: Show-the-Feeling Hero — the euphoria of your song, made visible as soundwaves and a living equalizer.
+Category / Format: Sensory-mood reel (minimalist white studio) · SILENT-but-musical (the song IS the audio) · CLIP-CHAIN, ANGLE-CUT edit · SENSORY-MAGIC (the beat-drop makes soundwaves visible and turns the blank room into a living colour equalizer).
+Story Idea: Aira stands in a stark white studio and places headphones over her ears. The instant the beat drops, soundwaves ripple visibly from her ears, the blank room explodes into a living colour equalizer pulsing with the bass, and she's swept into euphoric dance — until the song fades and the room drains back to white.
+Setting: a stark minimalist white studio — white walls, floor, ceiling, one faint grey grid-wall (graph-paper-like) that will become the equalizer; clinical and empty, transforming into a pulsing colour equalizer.
+Wardrobe: a fitted black ribbed tank-top, oversized low-slung white cargo jeans with black stitching, a cropped black leather jacket slung over one shoulder; modest, cool.
+Footwear: chunky white platform sneakers with black accents — constant.
+Eyewear: none.
+Accessories: oversized black over-ear headphones (the key prop), a chain necklace with a lightning-bolt pendant, black matte nails, two thin silver rings.
+Hair: space buns (two high symmetrical buns), sleek glossy black, with two thin face-framing tendrils — constant.
+Makeup: clean cool glow — luminous skin, soft neutral lip, subtle defined eye, real pores; lit electric by the equalizer.
+Hero Movement / Impossible Move: the beat-drop makes soundwaves visible (concentric rings from her ears) and turns the blank white room into a living colour equalizer pulsing with the bass.
+Transformation Trigger (signature, consistent): THE BEAT-DROP — the instant the drop hits in her headphones, the soundwaves and equalizer ignite; as the song fades, they drain back to white. Same trigger (the drop) is the sensory hero-beat.
+Mood: EUPHORIA — the body-takeover moment when your song hits.
+Grade: starts deliberately FLAT WHITE/GREY/BLACK (clinical) then EXPLODES to MAXIMUM neon-saturated colour (blue, magenta, gold, electric-green) pulsing with the beat, then drains back to flat white; rich blacks, full mid-tone at the peak.
+Duration: ~22 seconds · 5 clips (angle-cut chain).
+Voice: SILENT of speech — the custom beat is the audio star; diegetic + the track.
+Identity safety: AIRA adult; wardrobe modest streetwear; mood euphoric and elegant, never sexualized.
+State chain (angle-cut): CLIP 1 three-quarter [white studio, places headphones on] → CUT → CLIP 2 close-up [★ the DROP → soundwaves + colour EXPLODE] → CUT → CLIP 3 full-body hero [full equalizer room, euphoric dance] → CUT → CLIP 4 medium profile [song fades, colour drains, afterglow] → CUT → CLIP 5 three-quarter [reset, reaches for headphones = CLIP 1, loop].
+
+---
+
+## CLIP 1 of 5 — THREE-QUARTER BODY · FRONT · EYE-LEVEL (white studio; places headphones on)
+
+### START IMAGE (keyframe — flat white studio)
+ANGLE & SHOT SIZE: eye-level THREE-QUARTER BODY (knees-up); Aira in the centre of a stark white studio, headphones around her neck, one hand lifting them toward her ears.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: a fitted black ribbed tank-top, oversized low-slung white cargo jeans with black stitching, a cropped black leather jacket slung over one shoulder; cool, modest.
+FOOTWEAR: chunky white platform sneakers with black accents.
+EYEWEAR: none.
+ACCESSORIES: oversized black over-ear headphones around her neck, a chain necklace with a lightning-bolt pendant, black matte nails, two thin silver rings.
+HAIR: space buns (two high symmetrical buns), sleek glossy black, two thin face-framing tendrils.
+MAKEUP: clean cool glow — luminous skin, soft neutral lip, subtle defined eye, real pores.
+HANDS & NAILS: her right hand lifting the headphones from her neck toward her ears, fingers hooked under the headband; the left at her side; black matte nails.
+FACIAL MICRO-DYNAMICS: anticipatory focus — eyes slightly narrowed in concentration, one lip lightly bitten, brow set; choosing the song, the moment before the moment.
+BODY POSTURE & WEIGHT: a relaxed standing contrapposto, jacket slung, weight on one hip, spine long, alive.
+KINETIC STILLNESS (8 layers): (1) the white void utterly still; (2) the faint grey grid-wall static behind; (3) a face-framing tendril drifting; (4) the slung jacket shifting; (5) chest rising on a ready breath; (6) a faint clinical light-hum; (7) the headphone cups catching a soft highlight; (8) a slow focused blink.
+SPATIAL LOGIC: FOREGROUND — Aira and the headphones, sharp. MIDGROUND — the empty white floor. BACKGROUND — the faint grey grid-wall, blank white void.
+LIGHTING: KEY — flat even white studio lighting (bright, clinical, no shadow). FILL — uniform. RIM — none. PRACTICAL — none (deliberately bland). SEPARATION — minimal; the white swallows contrast except her dark outfit. BOUNCE — even white.
+LENS + DOF + BOKEH: 40mm, f/4, deep; the white void entirely legible, no bokeh (deliberately flat).
+COMPOSITION: vertical 9:16, Aira left-third in the white void, the grid-wall behind, emptiness everywhere — waiting to be filled.
+SUBJECT FRAMING & POSITION: Aira reads from the knees up in a three-quarter contrapposto, framed so her face is near-front while she lifts the headphones, the blank studio around. The camera holds a medium distance at eye level; she anchors left-third with the void to frame-right. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: clinical anticipatory emptiness — the held breath before the drop.
+COLOUR GRADE: deliberately FLAT — white, grey, black only (her outfit the only dark element); no colour, setting up the explosion.
+TEXTURE & MICRO-DETAIL: ribbed-tank texture, cargo-denim stitching, leather-jacket grain, the headphones' matte finish, glossy space buns, lightning pendant, matte nails.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation.
+### ANIMATION (this clip, ~4s — places headphones on; the tease)
+SHOT TYPE & ANGLE: eye-level three-quarter body; subject ~50% left-third.
+CAMERA MOVEMENT (CHOREOGRAPHY): a static hold — the emptiness establishes — one continuous shot.
+LENS: 40mm, f/4, deep.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–1.5s — she lifts the headphones from her neck.
+- 1.5–2.8s — she places them over her ears with both hands, settling them — a ritual; eyes closing, a breath in.
+- 2.8–4.0s — the "ready" moment; a faint distant beat begins (muffled through the cups).
+FLUIDITY & WEIGHT NOTES: the headphone-placement is a precise ritual (adjusts the cups, presses for seal); all motion eases.
+FABRIC/HAIR/PROP PHYSICS: the headphones have weight and cushion-compression as they settle; the slung jacket has leather weight; the buns hold; tendrils drift.
+FOOTWORK & BODY FLOW: a relaxed contrapposto, a faint settle.
+MID-CLIP TRANSFORMATION (timed): NONE — the white room waits; the drop is reserved for CLIP 2. A faint muffled beat teases through the cups.
+LIGHTING-IN-MOTION: flat white, unchanged — building anticipation through inaction.
+DIEGETIC AUDIO: near-silence — white-room tone; the soft headphone placement (cushion compress, headband click); her breath; a FAINT distant beat beginning (muffled).
+MASTER TRACK: a single distant synth-note (the track's first hint), building.
+END STATE / STATE-MATCH LOCK (heavy detail — CLIP 2's START IMAGE must reproduce 100%, new angle only): at clip end the headphones are on, her eyes closing in readiness, the white void still around, a faint beat teasing; black tank, space buns. CLIP 2 must open in this EXACT state (same white void, headphones on, same wardrobe) — only the angle changes (to the close-up); the drop hits within CLIP 2.
+CUT LOGIC: hard ANGLE-CUT to CLIP 2 (close-up). No motion-match; WORLD STATE matches 100%.
+
+---
+
+## CLIP 2 of 5 — CLOSE-UP (face + headphones) · FRONT · EYE-LEVEL (opens white = CLIP 1 end; ★ the DROP ignites soundwaves + colour)
+
+### START IMAGE (keyframe — headphones on, white, reproduces CLIP 1's END STATE, new angle)
+ANGLE & SHOT SIZE: eye-level CLOSE-UP, face and headphones, front to lens, the white wall behind beginning its first colour-pulse.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: the black ribbed tank strap at the shoulder — identical state.
+FOOTWEAR: out of frame.
+EYEWEAR: none.
+ACCESSORIES: the black over-ear headphones ON covering her ears, the lightning-bolt pendant at the throat, black matte nails, silver rings.
+HAIR: space buns framing the headphones, tendrils catching the FIRST pulse of colour.
+MAKEUP: clean cool glow, the first electric-blue pulse on her face.
+HANDS & NAILS: her hands gripping the headphone cups, pressing them tighter to her ears (the "turn it UP" gesture); black matte nails.
+FACIAL MICRO-DYNAMICS: THE DROP HITS — eyes snap open wide, pupils dilating, brow shooting up on a sharp inhale; then the eyes narrow into fierce recognition and a slow wild grin breaks open (teeth showing, cheeks high) — the "this is MY song" face, transforming from waiting to TAKEN in one fluid melt.
+BODY POSTURE & WEIGHT: a head beginning a slow nod to the beat, shoulders loosening, alive.
+KINETIC STILLNESS (8 layers): (1) the grid-wall pulsing electric-blue, bars rising like an equalizer; (2) soundwave-rings beginning to pulse from the headphone cups; (3) tendrils catching colour; (4) the tank shifting; (5) chest on a sharp inhale; (6) catch-lights igniting in the eyes; (7) the first colour washing her face; (8) the head-nod beginning.
+SPATIAL LOGIC: FOREGROUND — soft. MIDGROUND — her face and headphones, sharp. BACKGROUND — the grid-wall igniting into an equalizer.
+LIGHTING: KEY — the first colour-pulse (electric blue) washing from the grid-wall. FILL — fading white. RIM — a colour-edge igniting on the buns. PRACTICAL — the equalizer-grid, soundwave-rings. SEPARATION — the igniting colour behind the face. BOUNCE — electric-blue on the jaw.
+LENS + DOF + BOKEH: 85mm, f/2.0; her face sharp, the pulsing grid soft but vivid.
+COMPOSITION: vertical 9:16, her face dead-centre, the equalizer-grid pulsing behind, soundwave-rings from the cups.
+SUBJECT FRAMING & POSITION: Aira is framed in a close-up, face and headphones, front-facing dead-on. She sits dead-centre, the igniting colour behind. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: the explosive instant your song hits and your body takes over.
+COLOUR GRADE: the FIRST colour entering the white void — electric blue pulsing, vivid against the clinical white, her skin catching the blue. (Inverts CLIP 1's flat white.)
+TEXTURE & MICRO-DETAIL: the equalizer bars, soundwave-ring light, glossy buns, real pores under the electric light, headphone matte-finish.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation.
+### ANIMATION (this clip, ~5s — ★ THE DROP ignites soundwaves + colour)
+SHOT TYPE & ANGLE: eye-level close-up; face ~75% dead-centre.
+CAMERA MOVEMENT (CHOREOGRAPHY): an imperceptible push-in, building intensity — one continuous shot.
+LENS: 85mm, f/2.0, shallow.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–1.5s — the faint beat builds; she holds, eyes closed, waiting.
+- 1.5–2.5s — ★ TRIGGER: THE DROP — her eyes snap open, the grin breaks, her head begins a slow nod; soundwaves and colour explode.
+- 2.5–5.0s — she grips the cups tighter, chin dropping with the nod, fully taken by the music.
+FLUIDITY & WEIGHT NOTES: the drop transformation is fluid — eyes lead wide, then the grin, then the head-nod; all motion eases except the snap-open.
+FABRIC/HAIR/PROP PHYSICS: soundwave-rings travel at correct propagation speed (fast, visible), each expanding and fading; the equalizer bars jump with beat-timing and have mass (bounce, don't just jump); tendrils and the jacket-fringe begin to move with the bass (rhythm-driven, not wind).
+FOOTWORK & BODY FLOW: a head-nod beginning, shoulders loosening.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE DROP at 1.5–3.0s — triggered by the beat-drop, concentric soundwave-rings pulse visibly from the headphone cups (each a different colour — blue, magenta, gold) and the grid-wall becomes a full living EQUALIZER, bars jumping with the music; colour explodes into the white void.
+LIGHTING-IN-MOTION: colour EXPLODES from the grid — blue, then magenta, then gold — pulsing with the beat, painting her face.
+DIEGETIC AUDIO: THE BEAT DROPS (HARD — a heavy chest-hitting bass-kick, punchy); the soundwave-rings each a tonal "whoosh"; the equalizer bars a subtle crackle; her sharp inhale then a "YES" exhale.
+MASTER TRACK: this IS the song — a custom electronic build (Flume-meets-Disclosure) that DROPS hard here — full sub-bass, punchy kick, euphoric synth-lead, layered vocal chops.
+END STATE / STATE-MATCH LOCK (heavy detail — CLIP 3's START IMAGE must reproduce 100%, new angle only): at clip end colour has exploded — the grid a full equalizer, soundwave-rings pulsing from her, her wild grin and head-nod; the room ignited. CLIP 3 must open in this EXACT state (same equalizer, same soundwaves, same colour, same wardrobe) — only the angle changes (to the full-body hero).
+CUT LOGIC: hard ANGLE-CUT to CLIP 3 (full-body hero). No motion-match; WORLD STATE matches 100%.
+
+---
+
+## CLIP 3 of 5 — FULL BODY · FRONT · LOW-ANGLE HERO (opens equalizer = CLIP 2 end; ★ full equalizer room, euphoric dance)
+
+### START IMAGE (keyframe — full equalizer, reproduces CLIP 2's END STATE, new angle)
+ANGLE & SHOT SIZE: low-angle HERO, FULL BODY; the white room fully transformed into a living concert/equalizer, Aira swept into euphoric dance.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: the black tank and cargo jeans, the jacket now held in one hand swinging; fabric rippling with each bass-hit as if in slow-motion wind.
+FOOTWEAR: chunky white platform sneakers planted wide, a slight bounce in the knees with the rhythm.
+EYEWEAR: none.
+ACCESSORIES: headphones on, soundwave-rings pulsing continuously, the chain swinging, black matte nails.
+HAIR: space buns — tendrils floating/swaying with the beat as if underwater.
+MAKEUP: clean glow, electric multi-colour pulsing on her skin.
+HANDS & NAILS: one hand gripping a headphone cup, the other swinging the jacket in a slow arc; black matte nails.
+FACIAL MICRO-DYNAMICS: PURE EUPHORIA — eyes closed, head back, a wide free grin, completely lost in the music, every feature relaxed into abandon — the "no one's watching" face.
+BODY POSTURE & WEIGHT: a slight bounce-stance (knees soft, weight shifting with the beat), jacket swinging — pure vibe.
+KINETIC STILLNESS (8 layers): (1) the grid-wall a massive multi-colour equalizer (blue, magenta, gold, electric-green); (2) the floor pulsing colour on each beat; (3) soundwave-rings radiating from her in all directions; (4) tendrils floating with the bass; (5) the jacket swinging; (6) chest rising on a "WOO"; (7) the ceiling strobing; (8) a beat-synced shoulder-roll.
+SPATIAL LOGIC: FOREGROUND — pulsing floor-colour. MIDGROUND — Aira dancing. BACKGROUND — the massive equalizer-wall, strobing ceiling.
+LIGHTING: KEY — full multi-colour concert lighting, each beat a new colour blast. FILL — colour-bounce. RIM — neon edges on the buns and jacket. PRACTICAL — equalizer, soundwave-rings, floor-pulses, ceiling-strobe. SEPARATION — her silhouette against the equalizer. BOUNCE — colour-pulses underlight.
+LENS + DOF + BOKEH: 28mm low and wide for grandeur, f/3.2; Aira sharp, the transformed room a spectacle, colour-bokeh.
+COMPOSITION: vertical 9:16, Aira centre against the equalizer-wall, soundwaves radiating from her like she's the speaker, colour everywhere.
+SUBJECT FRAMING & POSITION: Aira reads as a complete full-length figure from a low angle, mid-dance, framed head-to-sneakers. The camera is mid-distance and low for grandeur; she anchors centre with the equalizer-room around. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: peak euphoria — the body-takeover, lost in the song.
+COLOUR GRADE: ABSOLUTE MAXIMUM — every colour at full neon saturation, pulsing with the beat; the former white void now the most vivid frame in the set. (Matches CLIP 2 END STATE.)
+TEXTURE & MICRO-DETAIL: equalizer-bar detail, soundwave-ring light, bass-rippled fabric, glossy buns, neon catch-lights, floor-pulse glow.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation.
+### ANIMATION (this clip, ~5s — ★ full equalizer room, euphoric dance)
+SHOT TYPE & ANGLE: low-angle hero, full body; subject ~60% centre.
+CAMERA MOVEMENT (CHOREOGRAPHY): a static low hold — the music does everything — one continuous shot.
+LENS: 28mm, f/3.2, low and wide.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–1.5s — full-body movement with the beat — a slow shoulder-roll, a bounce, the jacket swinging.
+- 1.5–3.5s — a head-roll and the euphoria face, lost in it.
+- 3.5–5.0s — eyes still closed, grin widening — peak abandon.
+FLUIDITY & WEIGHT NOTES: her hair and clothes move in rhythm (BASS pushing fabric on each hit, not wind); the jacket swings with leather-weight pendulum; all motion eases into the groove.
+FABRIC/HAIR/PROP PHYSICS: soundwave-rings expand correctly; the equalizer bars bounce with mass; bass-synced fabric-impacts; the jacket-swing has correct momentum; tendrils float on the bass.
+FOOTWORK & BODY FLOW: a beat-synced bounce, soft knees, weight shifting.
+MID-CLIP TRANSFORMATION (timed): the equalizer-room at full intensity (seeded in CLIP 2) — soundwave-rings, floor-pulses, ceiling-strobe, all beat-synced; the magic at its euphoric peak.
+LIGHTING-IN-MOTION: multi-colour pulses at full intensity, each beat a new colour wash.
+DIEGETIC AUDIO: the FULL beat at maximum (bass-heavy, driving, euphoric); soundwave-ring whooshes in rhythm; bass-synced fabric-impacts; a joyful "WOO".
+MASTER TRACK: the song rides at full energy — the euphoric peak.
+END STATE / STATE-MATCH LOCK (heavy detail — CLIP 4's START IMAGE must reproduce 100%, new angle only): at clip end the equalizer-room is at full euphoric intensity, Aira mid-dance lost in it; black tank, space buns. CLIP 4 must open in this EXACT state then the song begins to fade within CLIP 4 — same wardrobe, only the angle changes (to the profile).
+CUT LOGIC: hard ANGLE-CUT to CLIP 4 (medium profile). No motion-match; WORLD STATE matches 100%.
+
+---
+
+## CLIP 4 of 5 — MEDIUM · FULL PROFILE · EYE-LEVEL (opens full-equalizer = CLIP 3 end; song fades, colour drains, afterglow)
+
+### START IMAGE (keyframe — fading equalizer, reproduces CLIP 3's END STATE, new angle)
+ANGLE & SHOT SIZE: eye-level MEDIUM, waist-up, full side-profile; the equalizer-room fading, colour draining back toward white, Aira in the afterglow.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: the black tank and jacket (back on the shoulders now), settling — identical state.
+FOOTWEAR: out of frame.
+EYEWEAR: none.
+ACCESSORIES: the headphones being slid off one ear (half-on); the chain settling; black matte nails.
+HAIR: space buns in profile, tendrils settling as the music fades.
+MAKEUP: clean glow, the last colour-pulses fading.
+HANDS & NAILS: one hand sliding a headphone cup off one ear (the "returning to reality" gesture); black matte nails.
+FACIAL MICRO-DYNAMICS: the comedown — a slow satisfied exhale, eyes opening heavy and pleased, the grin softening to a dreamy half-smile, lashes lowered; the "that was everything" afterglow.
+BODY POSTURE & WEIGHT: an easy upright profile, weight settling, breathing.
+KINETIC STILLNESS (8 layers): (1) the equalizer lowering to flat; (2) colour draining toward white; (3) tendrils settling; (4) the jacket resettling; (5) chest on a long exhale; (6) soundwaves dissipating; (7) the floor-pulse fading; (8) a slow heavy blink.
+SPATIAL LOGIC: FOREGROUND — soft. MIDGROUND — her profile, sharp. BACKGROUND — the dying colour-room draining to white.
+LIGHTING: KEY — colour fading back to flat white studio light. FILL — uniform returning. RIM — a last colour-edge on the buns. PRACTICAL — the dying equalizer, fading soundwaves. SEPARATION — fading colour behind the profile. BOUNCE — neutral returning.
+LENS + DOF + BOKEH: 50mm, f/2.8; her profile sharp, the fading room legible.
+COMPOSITION: vertical 9:16, her profile right, the dying colour-room left — the music leaving.
+SUBJECT FRAMING & POSITION: Aira is shown in a profile medium, waist-up, sliding a headphone cup off, the fading room around. The camera holds a medium distance at eye level; she rides right with the dying colour to frame-left. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: the dreamy comedown after the song — afterglow.
+COLOUR GRADE: TRANSITIONAL — vivid fading to white; the last pulses dying; clinical flatness returning. (Matches CLIP 3 END STATE, fading.)
+TEXTURE & MICRO-DETAIL: the headphone seal-release, glossy buns, real pores as the colour fades, jacket-leather grain, the dying equalizer.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation.
+### ANIMATION (this clip, ~4s — song fades, colour drains, afterglow)
+SHOT TYPE & ANGLE: eye-level medium profile; subject ~55% right-of-centre.
+CAMERA MOVEMENT (CHOREOGRAPHY): a slow lateral track on the profile — one continuous shot.
+LENS: 50mm, f/2.8, shallow.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–1.5s — she slides one headphone cup off her ear.
+- 1.5–2.8s — she exhales long and slow — the afterglow settle — as the room drains to flat.
+- 2.8–4.0s — eyes opening steady, the dreamy half-smile — returned.
+FLUIDITY & WEIGHT NOTES: the cup slides with a satisfying seal-"pop"; the exhale is long; all motion eases.
+FABRIC/HAIR/PROP PHYSICS: the headphone slides with cushion-release; her hair and clothes return to normal gravity (no longer bass-driven); colour drains at a believable fade-rate.
+FOOTWORK & BODY FLOW: an easy upright settle.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE FADE at 0.0–3.0s — as the song fades and the cup lifts, the equalizer lowers to flat, colour drains back to white, soundwaves dissipate; the room clinical again.
+LIGHTING-IN-MOTION: flat white reasserting fully.
+DIEGETIC AUDIO: the beat fading (quieter, more muffled as the cup lifts); the headphone-seal pop; flat room-tone returning; her long exhale; silence settling.
+MASTER TRACK: the song filters/sweeps down and out, decaying to a single held note.
+END STATE / STATE-MATCH LOCK (heavy detail — CLIP 5's START IMAGE must reproduce 100%, then loop): at clip end the room is draining to white, Aira in dreamy afterglow, a cup off one ear; black tank, space buns. CLIP 5 must open in the EXACT flat-white state then reset to the CLIP-1 headphone-lift — same studio, same wardrobe.
+CUT LOGIC: hard ANGLE-CUT to CLIP 5 (three-quarter). No motion-match; state resets to CLIP 1.
+
+---
+
+## CLIP 5 of 5 — THREE-QUARTER BODY · FRONT · EYE-LEVEL (reset → loop to CLIP 1)
+
+### START IMAGE (keyframe — reproduces CLIP 1's opening)
+ANGLE & SHOT SIZE: eye-level THREE-QUARTER BODY (knees-up); Aira in the stark white studio, headphones around her neck again, hand lifting them toward her ears — the flat white opening restored.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: the black ribbed tank, white cargo jeans, jacket slung — matched to CLIP 1.
+FOOTWEAR: chunky white platform sneakers — matched.
+EYEWEAR: none.
+ACCESSORIES: headphones around the neck (off ears), lightning pendant, black matte nails, silver rings — matched.
+HAIR: space buns, tendrils — matched to CLIP 1.
+MAKEUP: clean cool glow — matched.
+HANDS & NAILS: her right hand lifting the headphones from her neck, the left at her side — matched to CLIP 1.
+FACIAL MICRO-DYNAMICS: anticipatory focus, lip-bite, brow set — the exact opening face (choosing the next song).
+BODY POSTURE & WEIGHT: a relaxed standing contrapposto, jacket slung — mirror of CLIP 1.
+KINETIC STILLNESS (8 layers): (1) the white void still; (2) the grey grid-wall static; (3) a tendril drifting; (4) the slung jacket shifting; (5) chest rising; (6) a clinical light-hum; (7) headphone cups catching a highlight; (8) a focused blink — matched to CLIP 1.
+SPATIAL LOGIC: FOREGROUND — Aira and headphones. MIDGROUND — the empty floor. BACKGROUND — the grid-wall, white void — matched to CLIP 1.
+LIGHTING: KEY — flat even white studio lighting. FILL — uniform. RIM — none. PRACTICAL — none. SEPARATION — minimal; her dark outfit. BOUNCE — even white — matched to CLIP 1.
+LENS + DOF + BOKEH: 40mm, f/4, deep — matched to CLIP 1.
+COMPOSITION: vertical 9:16, Aira left-third in the white void, the grid-wall behind — identical to CLIP 1 so the reel loops.
+SUBJECT FRAMING & POSITION: Aira reads from the knees up in a three-quarter contrapposto, face near-front, lifting the headphones, the blank studio around. The camera holds the identical medium distance at eye level; she anchors left-third with the void to frame-right — exactly rhyming with CLIP 1 so the loop is seamless. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: clinical anticipatory emptiness resuming — ready for the next drop.
+COLOUR GRADE: deliberately FLAT — white, grey, black only — matched to CLIP 1.
+TEXTURE & MICRO-DETAIL: ribbed tank, cargo stitching, leather grain, matte headphones, glossy buns, pendant, matte nails — matched.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation.
+### ANIMATION (this clip, ~4s — reset; loop close)
+SHOT TYPE & ANGLE: eye-level three-quarter body; subject ~50% left-third — matched to CLIP 1.
+CAMERA MOVEMENT (CHOREOGRAPHY): a gentle settle to the exact CLIP-1 establishing framing.
+LENS: 40mm, f/4 — matched.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–1.5s — she lowers the headphones to her neck, the dreamy half-smile fading to focus.
+- 1.5–2.8s — she reaches to lift them again, the anticipatory focus returning.
+- 2.8–4.0s — the lip-bite, brow set — the exact CLIP-1 opening pose, ready to drop the next song.
+FLUIDITY & WEIGHT NOTES: the resettle eases into the opening; everything returns to flat-white rest.
+FABRIC/HAIR/PROP PHYSICS: the jacket slung with correct weight; headphones at neck-rest; the buns hold; tendrils drift — matched to CLIP 1.
+FOOTWORK & BODY FLOW: a relaxed contrapposto.
+MID-CLIP TRANSFORMATION (timed): the room RESETS to flat white; the next loop re-triggers the equalizer-explosion on the next drop (the start of CLIP 1→2).
+LIGHTING-IN-MOTION: flat white — matched to CLIP 1.
+DIEGETIC AUDIO: silence; the faint distant beat beginning again (muffled, teasing); her anticipatory breath — back to the CLIP-1 bed.
+MASTER TRACK: the single distant synth-note returns, looping cleanly into the next build.
+END STATE / STATE-MATCH LOCK: clip ends in the EXACT flat-white headphone-lift state and three-quarter angle of CLIP 1's START IMAGE — white void, wardrobe and focused expression matched, so the reel loops seamlessly.
+CUT LOGIC: ANGLE-CUT / LOOP back to CLIP 1; the next pass re-triggers the equalizer-explosion on the drop.
+
+### ☆ EXTERNAL AUDIO — BLOCK 1: BACKGROUND SOUND DESIGN / AMBIENCE BED — D-2
+*The layered foley + ambience to lay UNDER the reel, separate from the in-clip diegetic audio — timed to the clips.*
+- Base bed (white clips): a near-silent clinical white-room tone; a faint light-hum; her breath.
+- CLIP 1 (placement): the headphone placement (cushion-compress, headband-click); a FAINT muffled beat teasing through the cups.
+- CLIP 2 (★ the drop): the heavy chest-hitting bass-kick of the DROP; tonal soundwave-ring whooshes; a subtle equalizer-bar crackle; her sharp inhale then "YES".
+- CLIP 3 (dance): the full beat at maximum; soundwave-ring whooshes in rhythm; bass-synced fabric-impacts; a joyful "WOO".
+- CLIP 4 (fade): the beat filtering down; the headphone-seal "pop"; flat room-tone returning; a long exhale.
+- CLIP 5 (reset): silence; the faint distant beat returning — back to the CLIP-1 bed.
+- Mix note: the contrast between the silent white room and the full beat IS the experience — like walking into a club at the perfect moment; loops cleanly at ~22s.
+
+### ☆ EXTERNAL AUDIO — BLOCK 2: BACKGROUND MUSIC / SCORE TRACK — D-2 (THE song she's listening to)
+- Genre / vibe: the actual track — a custom electronic build from silence to an explosive euphoric drop (Flume meets Disclosure).
+- Tempo / key: ~128 BPM, F minor, four-on-floor with heavy sub-bass.
+- Core elements: builds from a single distant synth-note → a driving hat pattern → a pitched vocal-chop → then THE DROP: full sub-bass, punchy kick, euphoric synth-lead, layered vocal chops; then strips back to the opening note.
+- Arc: single note + silence (CLIP 1) → the build (0:01–0:02) → THE DROP at CLIP 2 → rides at full energy through CLIP 3 (hero) → a filter-sweep fade through CLIP 4 → strip to the single note on CLIP 5 (loop).
+- Texture note: the DROP must hit HARD — walking into a club at the perfect moment; the silent-white-room vs full-beat contrast is the whole experience.
+- Loop: a clean ~22s loop matching the visual loop point.
+
+---
