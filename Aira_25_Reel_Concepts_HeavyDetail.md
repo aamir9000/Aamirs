@@ -176,8 +176,10 @@ FABRIC/HAIR/PROP PHYSICS: silk hem ripples and resettles; ponytail pendulum-sett
 FOOTWORK & BODY FLOW: weight rolls softly between bare feet, ankle chain micro-swinging.
 MID-CLIP TRANSFORMATION (timed): NONE in this clip — pure living establishing beat (the magic is reserved for CLIP 2).
 LIGHTING-IN-MOTION: the sun-rim strengthens slightly as a thin cloud clears outside, lifting the ponytail highlight.
-DIEGETIC AUDIO: distant muffled city hum, soft room tone, a faint ceramic settle, the low curl of steam, one slow breath, a single morning bird.
-MASTER TRACK: a low warm ambient swell — Rhodes pads, a single shimmering pluck.
+★ FRAME AUDIO — CLIP 1 (inside-prompt diegetic sound baked into this VEO clip; plays WITH the Outside Master Audio as one unified soundtrack):
+- DIEGETIC / SCENE SOUND: distant muffled city hum far below the glass, a soft warm penthouse room-tone, a faint ceramic settle, the low curl of steam off the cup, one slow breath, a single morning bird; at ~5.6s the brass carafe lifts (a soft metallic shift).
+- SYNCHRONIZED IMPACT: none — this is the establishing beat, no major event. Keep it pristine and quiet so the CLIP-2 reversal lands harder.
+- MIX: ASMR-clean, soft and wide; the silences are intentional.
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 2 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: the ivory silk shirt-dress in profile, sleeve rolled at the forearm, gold belt catching a glint, neckline draping soft.
   • FOOTWEAR: out of frame (medium crop); weight even on both bare feet implied.
@@ -238,8 +240,10 @@ FABRIC/HAIR/PROP PHYSICS: the coffee reads as real liquid — correct dark visco
 FOOTWORK & BODY FLOW: weight stays centred and grounded, a subtle hip counter-balance as the arm works.
 MID-CLIP TRANSFORMATION (timed): ★ HERO MOVE at 4.7–6.7s — the gravity reversal of the coffee, fully contained in this clip; clip begins pre-magic (normal pour) and ends post-magic (loop formed).
 LIGHTING-IN-MOTION: as the ribbon climbs it catches the contre-jour sun, glowing amber at its edges; a faint warm bounce grows on her cheek.
-DIEGETIC AUDIO: a normal coffee pour (0.0–4.7s) that, at the reversal, bends into a gently reversed-timbre rising pour; a carafe-tilt creak, a tiny liquid-bead tick, continuous room tone.
-MASTER TRACK: a soft shimmer-swell rises exactly on the 3.5s reversal — the magic's musical sting.
+★ FRAME AUDIO — CLIP 2 (inside-prompt diegetic sound baked into this VEO clip; plays WITH the Outside Master Audio as one unified soundtrack):
+- DIEGETIC / SCENE SOUND: a normal coffee-pour begins (0.0–3.5s) — liquid trickle, a carafe-tilt creak, a tiny liquid-bead tick, continuous room tone.
+- SYNCHRONIZED IMPACT (THE HERO MOMENT): at EXACTLY 3.5s the pour REVERSES — the liquid timbre runs backwards and lifts in pitch into a soft upward shimmer. This is NOT a separate SFX: it fuses with the Master Audio's glassy chime landing on the same frame, so the music itself seems to lift the coffee. Gentle, meditative energy — a shimmer-bloom, never a heavy boom.
+- MIX: the reverse-pour shimmer dry, centred, pristine — the star of the reel.
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 3 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: the ivory silk collar and open neckline, one shoulder softly dropped, the gold chain-belt glinting at the lower frame.
   • FOOTWEAR: out of frame.
@@ -299,8 +303,10 @@ FABRIC/HAIR/PROP PHYSICS: the loop holds laminar flow, edges beading with surfac
 FOOTWORK & BODY FLOW: weight steady, a faint spinal sway as she follows the ribbon.
 MID-CLIP TRANSFORMATION (timed): NONE — the loop already exists (it was created in CLIP 2); this clip is a different-angle reaction beat.
 LIGHTING-IN-MOTION: catch-lights brighten as the push-in lands; the ribbon-glow throws a faint warm bounce travelling across her cheek.
-DIEGETIC AUDIO: the soft reversed-pour hum continues, a delicate liquid-thread shimmer, her quiet breath, intimate room tone.
-MASTER TRACK: the shimmer-swell blooms gently — the warmest of the pad.
+★ FRAME AUDIO — CLIP 3 (inside-prompt diegetic sound baked into this VEO clip; plays WITH the Outside Master Audio as one unified soundtrack):
+- DIEGETIC / SCENE SOUND: the soft reversed-pour hum continues, a delicate liquid-thread shimmer of the upward loop, her quiet breath, intimate room tone.
+- SYNCHRONIZED IMPACT: none — after-state; the loop simply continues. Let the Master Audio's gentle bloom carry it.
+- MIX: intimate and close, warm.
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 4 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: the ivory silk shoulders and neckline as soft radiating folds from above, the gold belt a thin bright line at the waist.
   • FOOTWEAR: bare feet small at the bottom of frame on the warm oak.
@@ -360,8 +366,10 @@ FABRIC/HAIR/PROP PHYSICS: the loop keeps continuous flow under rotation, droplet
 FOOTWORK & BODY FLOW: weight grounded, a faint spinal sway as she tips her face up.
 MID-CLIP TRANSFORMATION (timed): NONE — different-angle beat of the existing loop.
 LIGHTING-IN-MOTION: as the camera spins, the window glow sweeps across her upturned face like a slow rotating key.
-DIEGETIC AUDIO: the reversed-pour loop hum steadies into a soft musical tone, a gentle airy whoosh of the rotation, quiet breath, room tone.
-MASTER TRACK: the pad turns slowly hypnotic, a circular motif rising.
+★ FRAME AUDIO — CLIP 4 (inside-prompt diegetic sound baked into this VEO clip; plays WITH the Outside Master Audio as one unified soundtrack):
+- DIEGETIC / SCENE SOUND: the reversed-pour loop hum steadies into a soft musical tone, a gentle airy whoosh of the rising stream rotating (pan slowly clockwise to match the overhead spiral), quiet breath, room tone.
+- SYNCHRONIZED IMPACT: none — sustained hypnotic state; the circular arpeggio in the Master Audio does the work.
+- MIX: hypnotic, panned with the rotation.
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 5 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: the ivory silk shirt-dress flowing from the low view, hem catching a soft draft, gold belt glinting, one shoulder dropped.
   • FOOTWEAR: bare feet planted, ankle chain visible, the low angle elongating the stance.
@@ -421,8 +429,10 @@ FABRIC/HAIR/PROP PHYSICS: the released cup holds with a believable tiny buoyant 
 FOOTWORK & BODY FLOW: weight grounds evenly as she straightens, a subtle rise through the spine.
 MID-CLIP TRANSFORMATION (timed): NONE — a confident different-angle beat of the existing loop (the hover/release is a flourish, not a new transform).
 LIGHTING-IN-MOTION: the sun-flare swells as the camera lands low, the rim intensifying around her whole silhouette.
-DIEGETIC AUDIO: a swelling warm tone as the cup releases, the soft musical hum of the loop, a gentle draft whoosh through silk, calm breath.
-MASTER TRACK: the score reaches its warmest, fullest swell — the emotional peak.
+★ FRAME AUDIO — CLIP 5 (inside-prompt diegetic sound baked into this VEO clip; plays WITH the Outside Master Audio as one unified soundtrack):
+- DIEGETIC / SCENE SOUND: a gentle draft-whoosh through silk as the cup releases, the soft musical hum of the loop at its richest, a warm brass-like resonance, calm breath.
+- SYNCHRONIZED IMPACT (EMOTIONAL PEAK — soft, not percussive): a warm swell-accent fused with the Master Audio's fullest string-bloom on the cup-release; the "impact" here is the music expanding to its emotional high, not a boom (matches the meditative tone).
+- MIX: fullest and warmest, still glossy and calm.
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 6 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: the ivory silk shirt-dress, sleeves pushed, one shoulder dropped, gold chain belt — matched to CLIP 1.
   • FOOTWEAR: barefoot, ankle chain, the same relaxed stance as CLIP 1.
@@ -482,8 +492,10 @@ FABRIC/HAIR/PROP PHYSICS: the cup lands with a soft weight and tiny rock; the co
 FOOTWORK & BODY FLOW: weight rolls back onto one hip, returning to the CLIP-1 stance.
 MID-CLIP TRANSFORMATION (timed): the magic UNWINDS at 2.8–5.2s — the loop dissolves and gravity normalises (the reverse of CLIP 2's hero move), returning the kitchen to its mundane opening state.
 LIGHTING-IN-MOTION: the sunrise glow steadies to the exact opening level.
-DIEGETIC AUDIO: a soft ceramic settle of cup on saucer, a faint coffee-surface ripple, one slow breath, the distant city hum returning to the CLIP-1 bed.
-MASTER TRACK: the score eases back to the airy opening texture.
+★ FRAME AUDIO — CLIP 6 (inside-prompt diegetic sound baked into this VEO clip; plays WITH the Outside Master Audio as one unified soundtrack):
+- DIEGETIC / SCENE SOUND: a soft ceramic settle of cup on saucer, a faint coffee-surface ripple, one slow breath, the distant city hum returning to the exact CLIP-1 texture — primed to loop.
+- SYNCHRONIZED IMPACT: none — the reset; let everything settle so the loop back to CLIP 1 is seamless and invisible.
+- MIX: ease back to the airy opening bed; loop-seed at ~7.8s.
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 1 (LOOP back to opening) — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: the tailored ivory silk shirt-dress, sleeves pushed to the forearm, one shoulder softly dropped, the thin gold chain belt catching a travelling sun-glint, hem grazing mid-thigh, pristine and sun-warmed.
   • FOOTWEAR: barefoot on warm oak, weight settled, a single thin gold ankle chain catching a small specular, toes relaxed.
@@ -503,31 +515,25 @@ MASTER TRACK: the score eases back to the airy opening texture.
 
 CUT LOGIC: ANGLE-CUT / LOOP — this clip ends on the CLIP-1 angle and state, so the reel loops seamlessly back to CLIP 1. Because CLIP 1 also opens on this same wide front angle, the loop reads as one more intentional angle-beat, not a jump.
 
-### ☆ EXTERNAL AUDIO — BLOCK 1: BACKGROUND SOUND DESIGN / AMBIENCE BED — A-1
-RUNTIME: exactly 48.000s = 6 clips × 8.000s · 48 kHz / 24-bit stereo · CLIP MAP — C1 0:00–0:08 · C2 0:08–0:16 · C3 0:16–0:24 · C4 0:24–0:32 · C5 0:32–0:40 · C6 0:40–0:48 · seamless loop.
-DESIGN INTENT: a serene sunrise penthouse kitchen with ONE impossible sound-event — the coffee pouring upward — rendered so crisp and ASMR-satisfying it carries the whole reel; quiet, luxe, hypnotic, never empty.
-STEMS: (S1) penthouse air — distant muffled city far below, a soft warm room-tone, one morning bird. (S2) the coffee-pour (liquid). (S3) the reverse-pour magic layer (a pour run backwards + a soft upward shimmer). (S4) micro-foley — ceramic, brass, silk, bare-foot shifts. (S5) a 2.6 s warm plate reverb.
-TIMED EVENTS:
-- 0:00–0:08 (C1 establish): warm air + a single bird; at 0:05.6 the brass carafe lifts (a soft metallic shift); steam curls (a faint hiss).
-- 0:08–0:16 (C2 HERO): a real coffee-pour begins at 0:09; at 0:11.5 the pour REVERSES — the liquid sound runs backwards and lifts in pitch into a soft upward shimmer (the signature magic SFX), looping cup→carafe to the cut.
-- 0:16–0:24 (C3): the reverse-pour shimmer continues, intimate and close; a ceramic cup settles softly.
-- 0:24–0:32 (C4 overhead): the looping liquid reads from above — a gentle circular whoosh of the rising stream, panned slowly clockwise.
-- 0:32–0:40 (C5 low hero): the magic at its richest — the upward shimmer fullest, a warm brass resonance.
-- 0:40–0:48 (C6 reset): the pour eases back to a normal trickle and settles; air + bird return to the exact 0:00 texture.
-- 0:47.5–0:48.000 — the carafe-lift shift begins again — invisible loop.
-MIX NOTES: the reverse-pour SFX is the star — keep it dry, centred, pristine; everything else soft and wide; the silence between events makes the magic land. Never a generic kitchen loop.
-
-### ☆ EXTERNAL AUDIO — BLOCK 2: BACKGROUND MUSIC / SCORE TRACK — A-1 (lay under the sound bed)
-RUNTIME: exactly 48.000s · KEY: A minor (warm) · TEMPO: 75 BPM (bar = 3.200s; 48.000s = exactly 15 bars) · seamless loop.
-SPINE (constant, full 48s): a round muted upright-bass pulse + soft brushed finger-snaps on the backbeat + a faint vinyl-warmth crackle — slow, glossy, unbothered.
+### ★ OUTSIDE MASTER AUDIO — A-1 (the single composed MUSIC track — generate in your music tool; lays under all 6 clips as one unified soundtrack with the Frame Audio)
+RUNTIME: exactly 48.000s = 6 clips × 8.000s · KEY: A minor (warm) · TEMPO: 75 BPM (bar = 3.200s; 48.000s = 15 bars) · composed for this EXACT length — never looped, stretched, cut, or faded out.
+EMOTIONAL TARGET: meditative ASMR calm → gentle wonder at the reversal → warm fullness → serene return; glossy, luxe, "I could watch this forever."
+NO FADE-IN — OPENS AT FULL PRESENCE: at 0:00.000 the round muted upright-bass pulse + soft brushed finger-snap + faint vinyl-warmth crackle are already grooving at full level; emotion lands within the first second, no swell-from-silence.
+INSTRUMENT PALETTE (emotion-matched — Luxury / Beauty): warm Rhodes electric piano (hero), round muted upright-bass pulse, brushed finger-snaps, high airy pad-shimmer, glassy chime, a soft string bloom for the peak.
+VOCALS: none required (an optional soft female "hum" texture only if it adds warmth).
 ARRANGEMENT (timed to picture):
-- 0:00–0:08 (C1): soft Rhodes chords + the bass pulse only; warm and sparse.
-- 0:08–0:16 (C2): a high airy pad-shimmer enters; a single glassy chime lands EXACTLY at 0:11.5 on the gravity-reversal (the magic glow).
-- 0:16–0:24 (C3): a gentle Rhodes melody settles in over the pulse.
-- 0:24–0:32 (C4): a hypnotic circular arpeggio (mirroring the overhead spiral) rises.
-- 0:32–0:40 (C5): fullest warmth — Rhodes + pad + a soft string bloom, the emotional high.
-- 0:40–0:48 (C6): instruments peel back to the opening Rhodes + bass; the final chord lands at 0:47.8 on the exact voicing that opens 0:00.
-LOOP LOCK: the 15-bar phrase resolves at 48.000s onto the 0:00 downbeat. FEEL: meditative, glossy, "I could watch this forever."
+- 0:00–0:08 (C1): Rhodes chords + bass pulse, warm and sparse.
+- 0:08–0:16 (C2): the airy pad-shimmer enters; a single glassy CHIME lands EXACTLY at 0:11.5 on the gravity-reversal — the magic glow.
+- 0:16–0:24 (C3): a gentle Rhodes melody settles over the pulse.
+- 0:24–0:32 (C4): a hypnotic circular arpeggio rises (mirrors the overhead spiral).
+- 0:32–0:40 (C5): fullest warmth — Rhodes + pad + soft string bloom, the emotional high.
+- 0:40–0:48 (C6): peel back to the opening Rhodes + bass; final chord lands at 0:47.8 on the exact 0:00 voicing.
+★ SYNCHRONIZED IMPACTS (musically integrated — the MUSIC itself expands at these exact frames; never a separate inserted SFX; tuned to the track's key, tone and energy):
+- 0:11.5 (C2 reversal — the hero event): the glassy chime + a soft upward shimmer-bloom, fused with the clip's reverse-pour so the music seems to lift the coffee. Gentle, not a boom (matches the meditative energy).
+- 0:32–0:40 (C5 peak): the string-bloom swell IS the impact — the emotion peaking, soft and warm.
+- (No other impacts — the after-state clips ride the bed; precision over quantity.)
+LOOP LOCK: the 15-bar phrase resolves at 48.000s onto the 0:00 downbeat — seamless. FEEL: meditative, glossy, premium.
+(NOTE: this single Outside block replaces the old two-block system; all diegetic/ambience now lives in the per-clip ★ FRAME AUDIO above.)
 
 ---
 
@@ -600,8 +606,10 @@ FABRIC/HAIR/PROP PHYSICS: the bob sways with a soft delay as she lifts her chin;
 FOOTWORK & BODY FLOW: ankles stay crossed in the lean, a faint weight-settle as she straightens slightly.
 MID-CLIP TRANSFORMATION (timed — heavy detail): ★ WORLD REVEAL at 2.4–7.2s, triggered by the ding. As the doors part, they reveal not a hallway but a vast BIOLUMINESCENT CORAL CITY held back by an invisible glass threshold — towering glowing corals in electric teal and magenta, god-rays piercing deep teal water, schools of neon-blue and magenta fish drifting, a whale silhouette far in the haze; water shimmers at the door-line but never spills in. The reveal resolves fully as the doors lock open by ~4.5s.
 LIGHTING-IN-MOTION: warm interior key is invaded by an aqua glow washing in from the opening doors; cool caustics begin rippling across the steel walls and her cobalt suit.
-DIEGETIC AUDIO: elevator hum and a mechanical rise; the musical DING; a pneumatic door-slide; then a muffled deep-ocean ambience leaking in — a whale low-call, bubbling, soft current.
-MASTER TRACK: a sleek deep-house pulse, minimal, a shimmering arp entering exactly on the ding.
+★ FRAME AUDIO — CLIP 1 (inside-prompt diegetic sound baked into this VEO clip; plays WITH the Outside Master Audio as one unified soundtrack):
+- DIEGETIC / SCENE SOUND: a soft elevator hum and a mechanical rise, a subtle cable creak, her quiet cabin presence and one calm breath; at ~6.4s the signature musical DING chimes and the doors slide on a pneumatic hiss, releasing a muffled deep-ocean ambience — a low whale-call, bubbling, soft current rolling in.
+- SYNCHRONIZED IMPACT: at EXACTLY ~6.4s (the DING → WORLD 1 REEF reveal) a cymbal-swell + choir bloom crests as aqua caustics flood the cabin — fused with the Master Audio's first crescendo on the same frame, so the music itself seems to open the doors onto the reef, never a separate SFX. Grand and expansive (matches the jaw-drop wanderlust energy).
+- MIX: the elevator hum the constant "home" anchor; the world-bloom opens huge and wide on the ding.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 2's START IMAGE must reproduce this 100%, new angle only): at clip end the doors are fully open onto the BIOLUMINESCENT CORAL CITY — electric-teal and magenta glowing corals, god-rays in deep teal water, drifting neon fish, a distant whale, the invisible water-wall shimmering at the threshold; aqua caustics ripple across the elevator's steel walls and Aira's cobalt suit; she stands in a relaxed lean, sunglasses on her crown, calm. CLIP 2 must open in this EXACT reef-world reveal (same corals, same caustics on the walls, same fish, same wardrobe/light) — only the camera angle changes.
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 2 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: the cobalt blazer from behind, shoulder seams sharp, ivory camisole strap at the nape, wide-leg trousers — identical wardrobe state.
@@ -662,8 +670,10 @@ FABRIC/HAIR/PROP PHYSICS: the bob sways with the arc; blazer holds structure; th
 FOOTWORK & BODY FLOW: a faint weight-shift as she squares to the new reveal.
 MID-CLIP TRANSFORMATION (timed — heavy detail): ★ WORLD SWAP REEF→BLOSSOM at 2.4–7.2s, triggered by the ding/door-cycle. The closing doors wipe the reef; the re-opening doors reveal a vast CHERRY-BLOSSOM CANYON — towering canyon walls clad in full pink-and-white bloom, a blizzard of petals storming sideways through the doorway, soft sun shafts, a winding river far below; warm pink-gold light replaces the cool teal. The aqua caustics on the walls give way to warm dappled petal-light; petals blow into the cabin. Resolves by ~4.5s.
 LIGHTING-IN-MOTION: cool teal reef-glow is wiped by the doors and replaced with warm pink-gold blossom light flooding the cabin.
-DIEGETIC AUDIO: the deep-ocean ambience cut by the door-slide; the DING; then a soft rushing petal-wind, distant canyon birdsong, a delicate paper-petal flutter near the mic.
-MASTER TRACK: the deep-house pulse adds a soft petal-bell shimmer layer on the swap.
+★ FRAME AUDIO — CLIP 2 (inside-prompt diegetic sound baked into this VEO clip; plays WITH the Outside Master Audio as one unified soundtrack):
+- DIEGETIC / SCENE SOUND: the deep-ocean reef bed still washing the cabin (bubbles, soft sonar tones) until the door-slide cuts it; at ~6.4s the DING chimes and a soft rushing petal-wind, distant canyon birdsong and a delicate paper-petal flutter bloom in close to the mic.
+- SYNCHRONIZED IMPACT: at EXACTLY ~6.4s (the DING → WORLD 2 CHERRY-BLOSSOM reveal) a soft petal-bell shimmer + warm woodwind swell-crest lands as pink-gold light floods in — fused with the Master Audio's koto-coloured swell on the same frame, so the music itself opens the blossom canyon. Grand but warmer-toned, never a separate SFX.
+- MIX: reef bed under the hum, wiped wide by the door-slide; the blossom world blooms huge on the ding.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 3's START IMAGE must reproduce 100%, new angle only): at clip end the doors are open onto the CHERRY-BLOSSOM CANYON — colossal bloom-clad canyon walls, a sideways blizzard of pink-white petals through the doorway, soft sun shafts, a winding river below; warm pink-gold dappled light fills the steel cabin, petals drifting inside; Aira stands calm, sunglasses on crown, cobalt suit warmed by the pink light. CLIP 3 must open in this EXACT blossom-world (same canyon, same petal-storm, same warm light, same drifted petals inside, same wardrobe) — only the angle changes.
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 3 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: the cobalt blazer in profile, lapel sharp, camisole at the neckline, trousers breaking at the heel — identical state.
@@ -724,8 +734,10 @@ FABRIC/HAIR/PROP PHYSICS: the caught petals lift from the bob as the warm light 
 FOOTWORK & BODY FLOW: a faint weight-shift as she squares to the new reveal.
 MID-CLIP TRANSFORMATION (timed — heavy detail): ★ WORLD SWAP BLOSSOM→NEON at 2.4–7.2s, triggered by the ding/door-cycle. The closing doors wipe the canyon; the re-opening doors reveal a BLADE-RUNNER NEON MEGACITY AT NIGHT — skyscraper-tall holographic billboards, streaming flying-car traffic, rain-slick streets glowing magenta and cyan, reflective puddles multiplying the lights; cool neon floods the cabin, magenta and cyan dancing across the steel and her cobalt suit. Resolves by ~4.5s.
 LIGHTING-IN-MOTION: warm pink blossom light is wiped and replaced with electric magenta-and-cyan neon flicker filling the cabin, catch-lights dancing.
-DIEGETIC AUDIO: petal-wind cut by the door-slide; the DING; then a wall of cyberpunk city ambience — distant synth horns, rain hiss, a flying-car whoosh.
-MASTER TRACK: the house pulse adds neon synth-stabs on the swap.
+★ FRAME AUDIO — CLIP 3 (inside-prompt diegetic sound baked into this VEO clip; plays WITH the Outside Master Audio as one unified soundtrack):
+- DIEGETIC / SCENE SOUND: the soft petal-wind and birdsong lingering until the door-slide cuts it; at ~6.4s the DING chimes and a wall of cyberpunk city ambience floods in — distant synth horns, rain hiss, a flying-car whoosh.
+- SYNCHRONIZED IMPACT: at EXACTLY ~6.4s (the DING → WORLD 3 NEON MEGACITY reveal) neon synth-stabs + a cymbal-swell crest as electric magenta-and-cyan light floods the cabin — fused with the Master Audio's orchestra-meets-synth swell on the same frame, so the music itself ignites the megacity. Bright, electric, grand, never a separate SFX.
+- MIX: blossom bed under the hum, wiped by the door-slide; the neon world detonates wide on the ding.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 4's START IMAGE must reproduce 100%, new angle only): at clip end the doors are open onto the NEON MEGACITY — towering holograms, streaming flying cars, magenta-cyan rain-slick streets, reflective puddles; electric neon floods the steel cabin, magenta and cyan dancing on the walls and her cobalt suit; Aira stands cool, chin lifted, sunglasses still on crown. CLIP 4 must open in this EXACT neon-world (same holograms, same neon flicker on the walls, same rain, same wardrobe) — only the angle changes.
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 4 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: the cobalt blazer collar and ivory camisole at the neckline, lit electric by the neon.
@@ -786,8 +798,10 @@ FABRIC/HAIR/PROP PHYSICS: the bob lifts in the warm desert gust; blazer holds st
 FOOTWORK & BODY FLOW: a faint weight-shift as the warm wind reaches her.
 MID-CLIP TRANSFORMATION (timed — heavy detail): ★ WORLD SWAP NEON→DESERT at 2.4–7.2s, triggered by the ding/door-cycle. The closing doors wipe the neon; the re-opening doors reveal a VAST GOLDEN SAHARA AT SUNSET — endless amber dunes, a colossal soft low sun on the horizon, warm wind lifting drifting sand-veils, long cobalt shadows in the dune-troughs; warm amber light floods the cabin, the cool neon gone. Resolves by ~4.5s.
 LIGHTING-IN-MOTION: electric neon is wiped and replaced with blazing warm golden-hour desert light flooding the cabin, the sun mirrored in her shades.
-DIEGETIC AUDIO: city ambience cut by the door-slide; the DING; then a warm desert wind howl, fine hissing sand, a deep cinematic sub-rumble.
-MASTER TRACK: the house pulse adds a warm desert wind-pad on the swap.
+★ FRAME AUDIO — CLIP 4 (inside-prompt diegetic sound baked into this VEO clip; plays WITH the Outside Master Audio as one unified soundtrack):
+- DIEGETIC / SCENE SOUND: the cyberpunk city ambience holding under the hum until the door-slide cuts it; at ~6.4s the DING chimes and a warm desert wind howl, fine hissing sand and a deep cinematic sub-rumble roll in.
+- SYNCHRONIZED IMPACT: at EXACTLY ~6.4s (the DING → WORLD 4 GOLDEN DESERT reveal) a warm wind-pad + a grand cymbal-swell with a lone duduk/flute crest as blazing golden-hour light floods in — fused with the Master Audio's biggest swell on the same frame, so the music itself opens the desert. The grandest reveal of the set, never a separate SFX.
+- MIX: neon bed under the hum, wiped by the door-slide; the desert opens vast and wide on the ding.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 5's START IMAGE must reproduce 100%, new angle only): at clip end the doors are open onto the GOLDEN DESERT SUNSET — endless amber dunes, a huge soft low sun, drifting sand-veils, long cobalt shadows; warm amber light floods the steel cabin, the sun blazing in her sunglass lenses; Aira stands cool, bob lifting in the warm wind, cobalt suit warmed gold. CLIP 5 must open in this EXACT desert-world (same dunes, same low sun, same sand-veils, same amber light, same wardrobe) — only the angle changes.
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 5 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: the cobalt blazer and wide-leg trousers catching the warm gust, hem rippling, from the low view — identical state.
@@ -848,8 +862,10 @@ FABRIC/HAIR/PROP PHYSICS: hem and bob settle from the desert wind as the cool ne
 FOOTWORK & BODY FLOW: weight grounds evenly as the wind dies.
 MID-CLIP TRANSFORMATION (timed — heavy detail): ★ WORLD SWAP DESERT→RESET at 3.0–7.0s, triggered by the ding/door-cycle. The closing doors wipe the desert; the re-opening doors reveal a calm, neutral, brightly-lit modern elevator LOBBY — pale marble, soft daylight, a green plant — the mundane "destination," the journey resolved. Warm-neutral light returns to the cabin. Resolves by ~3.5s.
 LIGHTING-IN-MOTION: blazing gold is wiped and replaced with calm neutral daylight from the lobby; the cabin returns to its warm recessed baseline.
-DIEGETIC AUDIO: desert wind cut by the door-slide; the DING; then a calm quiet lobby tone — soft footsteps elsewhere, a gentle ambience.
-MASTER TRACK: the layered world-textures strip back to the minimal opening house-pulse.
+★ FRAME AUDIO — CLIP 5 (inside-prompt diegetic sound baked into this VEO clip; plays WITH the Outside Master Audio as one unified soundtrack):
+- DIEGETIC / SCENE SOUND: the desert wind holding under the hum until the door-slide cuts it; at ~6.4s the DING chimes and a calm quiet lobby tone — soft distant footsteps elsewhere, a gentle settled ambience — rolls in as the worlds fall away.
+- SYNCHRONIZED IMPACT: at EXACTLY ~6.4s (the DING → RESET to the calm interior) the layered world-textures strip back and the motif resolves to its opening strings + harp — a gentle settling swell, not a crest, fused with the Master Audio as it returns home. The journey lands and the energy releases.
+- MIX: world-beds peel away to the minimal opening house-pulse + hum; spacious and resolving.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 6's START IMAGE must reproduce 100%, new angle only): at clip end the doors are open onto a calm neutral lobby; the cabin is back to warm-neutral recessed light, mirrors and steel as in CLIP 1; Aira leans, sunglasses pushed back up on her crown, calm half-smile, cobalt suit neutral-lit. CLIP 6 must open in this EXACT reset interior state (same neutral light, same lean, same wardrobe) — only the angle changes (back to the wide CLIP-1 angle).
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 6 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: the structured cobalt blazer, ivory camisole, wide-leg trousers, hand near the trouser pocket — matched to CLIP 1.
@@ -910,8 +926,10 @@ FABRIC/HAIR/PROP PHYSICS: the bob settles with a soft delayed bounce; blazer fol
 FOOTWORK & BODY FLOW: ankles re-cross, weight rolling onto the leaning hip — the CLIP-1 stance.
 MID-CLIP TRANSFORMATION (timed): the journey RESETS — doors close on the neutral lobby and the cabin returns to its plain commuting state; the next loop will re-trigger WORLD 1 as the doors next open (the start of CLIP 1).
 LIGHTING-IN-MOTION: warm recessed light steadies to the exact CLIP-1 level as the seam narrows.
-DIEGETIC AUDIO: a soft door-slide shut, a mechanical settle, the elevator hum returning to the CLIP-1 bed, one slow breath.
-MASTER TRACK: the score eases to the minimal opening house-pulse, looping cleanly.
+★ FRAME AUDIO — CLIP 6 (inside-prompt diegetic sound baked into this VEO clip; plays WITH the Outside Master Audio as one unified soundtrack):
+- DIEGETIC / SCENE SOUND: a soft door-slide shut, a mechanical settle, the elevator hum returning to the exact CLIP-1 texture, one slow breath — primed to loop.
+- SYNCHRONIZED IMPACT: none — the reset/loop beat; let the hum settle so the loop back to CLIP 1 is seamless and invisible.
+- MIX: ease back to the minimal opening house-pulse + hum bed; loop-seed near 7.8s.
 END STATE / STATE-MATCH LOCK: clip ends in the EXACT interior state and wide angle of CLIP 1's START IMAGE — lean, light, wardrobe, expression all matched, so the reel loops seamlessly.
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 1 (LOOP back to opening) — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: the structured cobalt-blue blazer sharp at the shoulders over the ivory silk camisole, high-waist wide-leg trousers breaking cleanly over the heels, one hand in a trouser pocket.
@@ -932,30 +950,28 @@ END STATE / STATE-MATCH LOCK: clip ends in the EXACT interior state and wide ang
 
 CUT LOGIC: ANGLE-CUT / LOOP back to CLIP 1; the next pass re-triggers the world-reveals as the doors next open.
 
-### ☆ EXTERNAL AUDIO — BLOCK 1: BACKGROUND SOUND DESIGN / AMBIENCE BED — A-2
-RUNTIME: exactly 48.000s = 6 clips × 8.000s · 48 kHz / 24-bit stereo · CLIP MAP — C1 0:00–0:08 · C2 0:08–0:16 · C3 0:16–0:24 · C4 0:24–0:32 · C5 0:32–0:40 · C6 0:40–0:48 · seamless loop.
-DESIGN INTENT: a mirrored elevator whose every DING opens the doors onto a whole new impossible world — each world is a fully-realised soundscape that blooms wide on the ding, so the wanderlust hits like travel, never a flat ambience.
-STEMS: (S1) elevator interior — a soft mechanical hum, a subtle cable creak, her quiet presence. (S2) the FLOOR-DING (the signature trigger) + door-slide. (S3) per-world ambience beds. (S4) a "reveal whoosh" as each world rushes in. (S5) a 3.0 s reverb that re-sizes per world.
-TIMED EVENTS:
-- 0:00–0:08 (C1): elevator hum, a cable creak; DING at 0:06.4 + doors part on the first world (underwater coral city — muffled bubbles, whale-song, filtered light).
-- 0:08–0:16 (C2): full UNDERWATER bed (bubbles, deep sonar tones); DING at 0:14.4 → doors close/whoosh to the next.
-- 0:16–0:24 (C3): CHERRY-BLOSSOM CANYON — wind through trees, petals, distant temple bells; DING at 0:22.4.
-- 0:24–0:32 (C4): NEON MEGACITY — rain on neon, hover-traffic, crowd hum, synth signage; DING at 0:30.4.
-- 0:32–0:40 (C5): GOLDEN DESERT — vast wind, sand-hiss, a lone distant flute; DING at 0:38.4.
-- 0:40–0:48 (C6): doors return to the elevator hum (reset); DING at 0:46.4 priming the underwater world again — invisible loop.
-MIX NOTES: each world must sound DISTINCT and huge (different reverb size + frequency character); the ding is the constant glue, always the same; the elevator hum sits under everything as the "home" anchor.
-
-### ☆ EXTERNAL AUDIO — BLOCK 2: BACKGROUND MUSIC / SCORE TRACK — A-2 (lay under the sound bed)
-RUNTIME: exactly 48.000s · KEY: D major (wondrous) · TEMPO: 90 BPM (bar = 2.667s; 48.000s = exactly 18 bars) · seamless loop.
-SPINE (constant): a slow rising orchestral motif + a soft choir pad — epic, expansive, full of awe.
-ARRANGEMENT (a swell crests on EACH ding-reveal):
-- 0:00–0:08 (C1): strings + harp intro; a crescendo crests at 0:06.4 on the first DING (a cymbal-swell + choir bloom).
-- 0:08–0:16 (C2, underwater): ethereal high strings + glass-bell; swell-crest at 0:14.4.
-- 0:16–0:24 (C3, blossom): warm woodwinds + koto colour; swell-crest at 0:22.4.
-- 0:24–0:32 (C4, neon): the orchestra fuses with a synth pulse; swell-crest at 0:30.4.
-- 0:32–0:40 (C5, desert): a lone duduk/flute over strings; the grandest swell-crest at 0:38.4.
+### ★ OUTSIDE MASTER AUDIO — A-2 (the single composed MUSIC track — generate in your music tool; lays under all 6 clips as one unified soundtrack with the Frame Audio)
+RUNTIME: exactly 48.000s = 6 clips × 8.000s · KEY: D major (wondrous) · TEMPO: 90 BPM (bar = 2.667s; 48.000s = exactly 18 bars) · composed for this EXACT length — never looped, stretched, cut, or faded out.
+EMOTIONAL TARGET: jaw-drop wanderlust — awe that crests fresh on every door-reveal, each world grander than the last, then a satisfied return home.
+NO FADE-IN — OPENS AT FULL PRESENCE: at 0:00.000 the slow rising orchestral motif + soft choir pad + harp are already at full level; the awe lands within the first second, no swell-from-silence.
+INSTRUMENT PALETTE (emotion-matched — Power / Dream): full strings, soft choir pad, harp, glass-bell, warm woodwinds + koto colour, a synth pulse for the neon world, lone duduk/flute, cymbal-swells.
+VOCALS: optional ethereal choir pad (used as awe-texture on each reveal — only because it lifts the wanderlust).
+ARRANGEMENT (timed to picture):
+- 0:00–0:08 (C1): strings + harp intro; a crescendo crests at 0:06.4 on the first DING (cymbal-swell + choir bloom → the reef opens).
+- 0:08–0:16 (C2, reef visible): ethereal high strings + glass-bell; swell-crest at 0:14.4 (→ blossom).
+- 0:16–0:24 (C3, blossom visible): warm woodwinds + koto colour; swell-crest at 0:22.4 (→ neon).
+- 0:24–0:32 (C4, neon visible): the orchestra fuses with a synth pulse; swell-crest at 0:30.4 (→ desert).
+- 0:32–0:40 (C5, desert visible): a lone duduk/flute over strings, the grandest ride; swell-crest at 0:38.4 resolving home (→ reset).
 - 0:40–0:48 (C6, reset): the motif resolves to the intro strings + harp; final chord at 0:47.8 matching 0:00.
-LOOP LOCK: 18-bar phrase resolves at 48.000s onto the 0:00 downbeat; each 8s = a 3-bar reveal-phrase. FEEL: cinematic, jaw-drop wanderlust.
+★ SYNCHRONIZED IMPACTS (musically integrated — the MUSIC itself expands at these exact frames; never a separate inserted SFX; tuned to the track's key, tone and energy):
+- 0:06.4 (C1 — DING → reef reveal): a cymbal-swell + choir bloom, the music cresting as the doors open underwater.
+- 0:14.4 (C2 — DING → blossom reveal): a glass-bell + woodwind swell-crest blooming warm.
+- 0:22.4 (C3 — DING → neon reveal): an orchestra-meets-synth swell-crest, bright and electric.
+- 0:30.4 (C4 — DING → desert reveal): a vast wind-pad + cymbal-swell-crest opening the desert.
+- 0:38.4 (C5 — DING → reset): the grandest swell resolving home as the worlds fall away (release, not a crest).
+- (0:46.4 C6 ding only primes the loop — a soft glassy seed, no crest. Precision over quantity.)
+LOOP LOCK: the 18-bar phrase resolves at 48.000s onto the 0:00 downbeat — seamless; each 8s = a 3-bar reveal-phrase. FEEL: cinematic, jaw-drop wanderlust.
+(NOTE: this single Outside block replaces the old two-block system; all diegetic/ambience now lives in the per-clip ★ FRAME AUDIO above.)
 
 ---
 
@@ -1028,8 +1044,10 @@ FABRIC/HAIR/PROP PHYSICS: the trench hem and wet waves sway with real weight; th
 FOOTWORK & BODY FLOW: a single grounded step out, weight forward, boots meeting wet cobbles.
 MID-CLIP TRANSFORMATION (timed — heavy detail): ★ HERO MOVE at 2.4–4.8s, resolving by 5.0s — the rain-reversal, triggered by the umbrella opening. The whole alley's rainfall inverts: every falling drop decelerates, stops, and rises, lifting off the cobbles, puddles, hem and dome to stream upward into the glowing dusk; the puddles slowly un-ripple as their water leaves; the wet sheen on surfaces remains. Only the rain's gravity changes — bulbs, hem, hair all still obey normal gravity, selling the contrast.
 LIGHTING-IN-MOTION: the rising rain catches the amber bulb-light and streetlamp, glowing as it climbs; warm reflections shift on the wet ground as puddles still.
-DIEGETIC AUDIO: normal rain patter and puddle-splashes (0.0–2.4s); the soft umbrella whump-click; then the patter bends into a gentle reversed-shimmer rising-rain wash; distant café murmur, a far church bell, her quiet breath.
-MASTER TRACK: an intimate piano enters; a soft glassy shimmer-swell rises exactly on the umbrella-click reversal.
+★ FRAME AUDIO — CLIP 1 (inside-prompt diegetic sound baked into this VEO clip; plays WITH the Outside Master Audio as one unified soundtrack):
+- DIEGETIC / SCENE SOUND: normal rain patter and puddle-splashes (0.0–2.4s), distant muffled café murmur, a far church bell, a faint bistro-bulb hum and her quiet breath; at ~2.4s a soft umbrella whump-click, then the patter bends into a gentle reversed-shimmer rising-rain wash.
+- SYNCHRONIZED IMPACT: at EXACTLY ~2.4s (the umbrella-open TRIGGERS the rain-reversal — the hero event) a soft glassy shimmer-swell rises as the rain inverts and climbs — fused with the Master Audio's intimate-piano shimmer landing on the same frame, so the music itself seems to lift the rain. Tender and dreamy — a shimmer-bloom, never a boom.
+- MIX: the rising-rain shimmer airy and high above the warm piano; the reversal the gentle star.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 2's START IMAGE must reproduce 100%, new angle only): at clip end the alley is in full UPWARD-RAIN — drops rising everywhere from cobbles, puddles, hem and dome into the violet-blue dusk, glowing amber as they climb; puddles still and mirror-like; wet sheen on every surface; bistro bulbs and shop windows glowing warm; Aira mid-stroll under the open clear dome, emerald trench, wet waves, secret smile. CLIP 2 must open in this EXACT upward-rain alley (same rising drops, same stilled puddles, same warm lights, same wardrobe) — only the camera angle changes.
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 2 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: the emerald trench from behind, belt-knot at the small of the back, collar up; turtleneck at the nape — identical state.
@@ -1090,8 +1108,10 @@ FABRIC/HAIR/PROP PHYSICS: the trench hem swings with wool weight; wet waves sway
 FOOTWORK & BODY FLOW: a steady boot-cadence over wet cobbles, weight rolling.
 MID-CLIP TRANSFORMATION (timed): NONE — different-angle stroll beat of the existing upward-rain state (the umbrella-spin is a flourish, not a new transform).
 LIGHTING-IN-MOTION: warm bulb-light dapples her back as she passes beneath the string lights; rising drops sparkle in the amber glow.
-DIEGETIC AUDIO: the reversed-rain shimmer wash; wet boot-steps on cobbles; a soft umbrella-fabric whir on the spin; distant café murmur; a church-bell tail.
-MASTER TRACK: bass and brushed drums enter under the piano — the dreamy groove settling in.
+★ FRAME AUDIO — CLIP 2 (inside-prompt diegetic sound baked into this VEO clip; plays WITH the Outside Master Audio as one unified soundtrack):
+- DIEGETIC / SCENE SOUND: the reversed-rain shimmer wash continuing airy and high, wet boot-steps on cobbles, a soft umbrella-fabric whir on the spin, distant café murmur and a church-bell tail.
+- SYNCHRONIZED IMPACT: none — after-state stroll; the rising-rain simply continues. Let the Master Audio's bass-and-brushes groove carry it.
+- MIX: warm and intimate, the shimmer floating above the groove.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 3's START IMAGE must reproduce 100%, new angle only): at clip end the alley holds full UPWARD-RAIN — rising glowing drops, stilled mirror-puddles, warm amber bulbs and windows, misty spire; Aira mid-stroll under the open dome, emerald trench, wet waves, content. CLIP 3 must open in this EXACT state (same rising rain, same lights, same wardrobe) — only the angle changes.
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 3 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: the emerald trench collar up in profile, turtleneck at the throat — identical state.
@@ -1152,8 +1172,10 @@ FABRIC/HAIR/PROP PHYSICS: the umbrella fabric flexes as it tips; wet waves lift 
 FOOTWORK & BODY FLOW: weight centred, a faint sway through the spine as she looks up.
 MID-CLIP TRANSFORMATION (timed): NONE — a wonder beat of the existing upward-rain state from a new angle.
 LIGHTING-IN-MOTION: warm window-light glows on her upturned face; backlit rising drops sparkle as they pass.
-DIEGETIC AUDIO: the reversed-rain shimmer swells softly; a delicate rising-water whoosh; distant café warmth; her quiet wondering breath.
-MASTER TRACK: a glassy shimmer-swell blooms on the look-up — the tender emotional peak entering.
+★ FRAME AUDIO — CLIP 3 (inside-prompt diegetic sound baked into this VEO clip; plays WITH the Outside Master Audio as one unified soundtrack):
+- DIEGETIC / SCENE SOUND: the reversed-rain shimmer swelling softly, a delicate rising-water whoosh close on the face, distant café warmth and her quiet wondering breath.
+- SYNCHRONIZED IMPACT: at the look-up (~mid-clip) a glassy shimmer-swell blooms as she tips her gaze up into the rising rain — fused with the Master Audio's shimmer-swell on the same frame, so the music itself is the wonder. The tender emotional peak — soft and warm, never a boom.
+- MIX: the rising-water whoosh blooms close and intimate over the warm bed.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 4's START IMAGE must reproduce 100%, new angle only): at clip end the alley holds full UPWARD-RAIN; Aira's face is lifted, umbrella tipped back, wet waves and emerald trench unchanged, the rising rain glittering past her, warm bulbs glowing. CLIP 4 must open in this EXACT state (same rising rain, same lights, same wardrobe, umbrella tipped) — only the angle changes.
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 4 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: the emerald trench collar up, gold chain at the throat, turtleneck — identical state.
@@ -1214,8 +1236,10 @@ FABRIC/HAIR/PROP PHYSICS: the umbrella rights with real fabric weight; wet waves
 FOOTWORK & BODY FLOW: weight steady, a faint spinal sway.
 MID-CLIP TRANSFORMATION (timed): NONE — a settling beat of the existing upward-rain state.
 LIGHTING-IN-MOTION: catch-lights brighten as the push-in lands; warm bokeh shimmer behind.
-DIEGETIC AUDIO: the reversed-rain shimmer steadies; an umbrella-fabric settle; distant café murmur; her calm breath.
-MASTER TRACK: the dreamy groove holds warm and full under the shimmer.
+★ FRAME AUDIO — CLIP 4 (inside-prompt diegetic sound baked into this VEO clip; plays WITH the Outside Master Audio as one unified soundtrack):
+- DIEGETIC / SCENE SOUND: the reversed-rain shimmer steadying, a soft umbrella-fabric settle as she rights it, distant café murmur and her calm breath.
+- SYNCHRONIZED IMPACT: none — serene after-state; the shimmer holds steady. Let the Master Audio's warm groove ride.
+- MIX: warm and full, the shimmer settled high and airy.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 5's START IMAGE must reproduce 100%, new angle only): at clip end the alley holds full UPWARD-RAIN; Aira is calm and settled, umbrella righted overhead, emerald trench and wet waves unchanged, warm bulbs glowing, rising rain glittering. CLIP 5 must open in this EXACT state (same rising rain, same lights, same wardrobe) — only the angle changes.
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 5 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: the emerald trench flaring slightly at the hem from the low view, belt cinched, collar commanding — identical state.
@@ -1276,8 +1300,10 @@ FABRIC/HAIR/PROP PHYSICS: the umbrella tip meets the cobbles with a believable s
 FOOTWORK & BODY FLOW: weight grounds evenly, a subtle rise through the spine.
 MID-CLIP TRANSFORMATION (timed): NONE — a confident hero beat of the existing upward-rain state (the rising ring is a flourish, not a new transform).
 LIGHTING-IN-MOTION: the lamp-flare swells as the camera lands low, the rim intensifying around her whole silhouette.
-DIEGETIC AUDIO: a warm swelling tone; the umbrella-tip tap and a puddle-ripple that whooshes upward; the reversed-rain wash peaking; a low cinematic sub; a distant bell.
-MASTER TRACK: the dreamy groove reaches its fullest warm swell — the emotional peak.
+★ FRAME AUDIO — CLIP 5 (inside-prompt diegetic sound baked into this VEO clip; plays WITH the Outside Master Audio as one unified soundtrack):
+- DIEGETIC / SCENE SOUND: a warm swelling tone, the umbrella-tip tap and a puddle-ripple that whooshes upward, the reversed-rain wash peaking, a distant bell.
+- SYNCHRONIZED IMPACT: at the umbrella-tip tap (~mid-clip, the low-angle hero beat) the dreamy groove reaches its fullest warm swell with a soft low cinematic sub as the puddle-ripple whooshes up the streaming rain — fused with the Master Audio's peak on the same frame, so the music itself blooms. The emotional high — full and warm, a gentle sub, not a hard boom.
+- MIX: the fullest warm bed with the upward puddle-whoosh and a soft sub-weight under it.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 6's START IMAGE must reproduce 100%, new angle only): at clip end the alley holds full UPWARD-RAIN at its most radiant; Aira stands heroic, umbrella planted, emerald trench and wet waves unchanged, lamp-halo glowing, rising rain everywhere. CLIP 6 must open in this state then RESET — same wardrobe and lights, returning to the wide doorway angle of CLIP 1.
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 6 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: the belted emerald trench, collar up, black turtleneck, hem at the knee — matched to CLIP 1.
@@ -1338,8 +1364,10 @@ FABRIC/HAIR/PROP PHYSICS: the canopy folds with believable fabric tension; trenc
 FOOTWORK & BODY FLOW: weight rolls back onto the doorstep, returning to the CLIP-1 stance.
 MID-CLIP TRANSFORMATION (timed — heavy detail): ★ RESET at 3.0–5.0s — the umbrella-close reverses the magic; the alley's rain returns to falling normally, restoring the exact CLIP-1 opening state.
 LIGHTING-IN-MOTION: the warm amber doorway glow steadies to the exact CLIP-1 level.
-DIEGETIC AUDIO: a soft umbrella whump-click; the reversed-rain shimmer bending back into normal rain patter and puddle-splashes; distant café murmur; one slow breath.
-MASTER TRACK: the dreamy groove eases back to the intimate opening piano, looping cleanly.
+★ FRAME AUDIO — CLIP 6 (inside-prompt diegetic sound baked into this VEO clip; plays WITH the Outside Master Audio as one unified soundtrack):
+- DIEGETIC / SCENE SOUND: a soft umbrella whump-click, the reversed-rain shimmer bending back into normal rain patter and puddle-splashes, distant café murmur and one slow breath — returning to the exact CLIP-1 level, primed to loop.
+- SYNCHRONIZED IMPACT: at the umbrella-close (~mid-clip) a soft reversed shimmer settles as the rain rights itself to normal — a gentle dissolving swell (the reverse of CLIP 1's hero move), fused with the Master Audio easing back to the opening piano. Soft and seamless so the loop is invisible.
+- MIX: ease back to the intimate solo piano + CLIP-1 rain bed; loop-seed near 7.8s.
 END STATE / STATE-MATCH LOCK: clip ends in the EXACT doorway state, normal-falling rain, and wide angle of CLIP 1's START IMAGE — positions, light, wardrobe and expression matched, so the reel loops seamlessly.
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 1 (LOOP back to opening) — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: the belted emerald trench, collar up, over the black turtleneck, hem at the knee, catching wet amber sheen; pristine.
@@ -1360,24 +1388,26 @@ END STATE / STATE-MATCH LOCK: clip ends in the EXACT doorway state, normal-falli
 
 CUT LOGIC: ANGLE-CUT / LOOP back to CLIP 1; the next pass re-triggers the rain-reversal as she re-opens the umbrella.
 
-### ☆ EXTERNAL AUDIO — BLOCK 1: BACKGROUND SOUND DESIGN / AMBIENCE BED — A-3
-*The layered foley + ambience to lay UNDER the reel, separate from the in-clip diegetic audio — timed to the clips.*
-- Base bed (all clips): a soft wet-alley room-tone; distant muffled café murmur; a far church bell every few seconds; bistro-bulb faint electrical hum.
-- CLIP 1 (★ reversal): normal rain patter and puddle-splashes, then on the umbrella whump-click the patter bends into a gentle reversed-shimmer rising-rain wash.
-- CLIP 2 (stroll): the rising-rain shimmer; wet boot-steps on cobbles; a soft umbrella-fabric whir on the spin.
-- CLIP 3 (look-up): a delicate rising-water whoosh swelling close on the face.
-- CLIP 4 (rights umbrella): the shimmer steadies; an umbrella-fabric settle.
-- CLIP 5 (hero): the umbrella-tip tap with a puddle-ripple that whooshes upward; a low cinematic sub; a distant bell.
-- CLIP 6 (reset): the umbrella whump-click; the rising shimmer bending back into normal rain patter, returning to the CLIP-1 level.
-- Mix note: keep the rising-rain shimmer airy and high so it sits above the warm music; loops cleanly at ~26s.
-
-### ☆ EXTERNAL AUDIO — BLOCK 2: BACKGROUND MUSIC / SCORE TRACK — A-3 (lay under the sound bed)
-- Genre / vibe: romantic cinematic lo-fi with a rainy-jazz warmth — wistful, dreamy, glossy.
-- Tempo / key: ~75 BPM, warm minor-major blend (Dm to F), gentle swing.
-- Core elements: soft jazz piano; brushed snare; warm upright bass; a faint accordion/strings pad for the European-street romance; a high glassy shimmer for the rising rain; subtle vinyl rain-crackle.
-- Arc: intimate piano on CLIP 1 → bass and brushes enter on the stroll (CLIP 2) → a glassy shimmer-swell at the look-up wonder (CLIP 3) → fullest warmth at the low-angle hero (CLIP 5) → settle back to solo piano on the reset (CLIP 6).
-- Texture note: keep low and warm so the rising-rain shimmer of Block 1 reads on top.
-- Loop: a clean ~26s loop matching the visual loop point.
+### ★ OUTSIDE MASTER AUDIO — A-3 (the single composed MUSIC track — generate in your music tool; lays under all 6 clips as one unified soundtrack with the Frame Audio)
+RUNTIME: exactly 48.000s = 6 clips × 8.000s · KEY: warm minor-major blend (Dm to F) · TEMPO: ~75 BPM (gentle swing) · composed for this EXACT length — never looped, stretched, cut, or faded out.
+EMOTIONAL TARGET: wistful, dreamy rainy-street romance → tender wonder at the rising rain → fullest warmth at the hero → a soft settle home; glossy and intimate.
+NO FADE-IN — OPENS AT FULL PRESENCE: at 0:00.000 the soft jazz piano + subtle vinyl rain-crackle are already warm at full level; the romance lands within the first second, no swell-from-silence.
+INSTRUMENT PALETTE (emotion-matched — Romance / Beauty): soft jazz piano (hero), brushed snare, warm upright bass, a faint accordion/strings pad for the European-street romance, a high glassy shimmer for the rising rain, subtle vinyl rain-crackle.
+VOCALS: none required (an optional soft female hum only if it deepens the warmth).
+ARRANGEMENT (timed to picture):
+- 0:00–0:08 (C1): intimate solo piano; a soft glassy shimmer-swell rises at ~0:02.4 on the umbrella-open rain-reversal.
+- 0:08–0:16 (C2): warm upright bass and brushed snare enter — the dreamy groove settling in on the stroll.
+- 0:16–0:24 (C3): a glassy shimmer-swell blooms at the look-up — the tender emotional peak.
+- 0:24–0:32 (C4): the groove holds warm and full under the shimmer as she rights the umbrella.
+- 0:32–0:40 (C5): fullest warmth — piano + bass + accordion/strings pad swell to the low-angle hero high.
+- 0:40–0:48 (C6): peel back to the intimate opening piano; final chord lands at 0:47.8 on the 0:00 voicing.
+★ SYNCHRONIZED IMPACTS (musically integrated — the MUSIC itself expands at these exact frames; never a separate inserted SFX; tuned to the track's key, tone and energy):
+- 0:02.4 (C1 — umbrella-open rain-reversal, the hero event): a soft glassy shimmer-swell rising with the rain — gentle, dreamy, not a boom.
+- 0:18.0 (C3 — look-up wonder): a glassy shimmer-swell bloom, the tender emotional peak.
+- 0:34–0:40 (C5 — low-angle hero): the fullest warm swell with a soft low cinematic sub — the emotional high.
+- 0:42.0 (C6 — umbrella-close reset): a soft reversed shimmer settling back to normal rain, priming the loop (gentle, not a crest). (Precision over quantity — the stroll/serene clips ride the bed.)
+LOOP LOCK: the phrase resolves at 48.000s onto the 0:00 downbeat — seamless. FEEL: wistful, dreamy, glossy.
+(NOTE: this single Outside block replaces the old two-block system; all diegetic/ambience now lives in the per-clip ★ FRAME AUDIO above.)
 
 ---
 
@@ -1450,8 +1480,10 @@ FABRIC/HAIR/PROP PHYSICS: the heavy knit folds catch the warming light and sway 
 FOOTWORK & BODY FLOW: weight stays in contrapposto, a faint hip-settle.
 MID-CLIP TRANSFORMATION (timed — heavy detail): ★ SKY CHANGE MIDDAY→SUNSET at 2.4–7.2s, triggered by the quarter-turn. The entire alpine sky ignites from bright neutral midday into a saturated golden-pink sunset: the peaks glow rose, the glacial lake mirrors fire, long shadows stretch across the loft. INSIDE, the light ramps in real time from neutral-cool to warm gold, shadows crawling and lengthening over the concrete, the rust gown deepening, the bun's rim shifting warm. The whole room temperature shifts with the turn.
 LIGHTING-IN-MOTION: neutral midday key warms and lowers to blazing golden-hour as she turns; shadows lengthen across the concrete.
-DIEGETIC AUDIO: a faint AC hum and soft alpine room-tone; a subtle brass-knob detent click; a soft musical whoosh-swell tied to the sky transition; distant muffled wind beyond the glass.
-MASTER TRACK: a wide warm synth pad; a glassy bell-motif "turns" with the dimmer; a riser-swell on the sky change.
+★ FRAME AUDIO — CLIP 1 (inside-prompt diegetic sound baked into this VEO clip; plays WITH the Outside Master Audio as one unified soundtrack):
+- DIEGETIC / SCENE SOUND: a faint AC hum and soft alpine loft room-tone with a faint concrete reverb, distant muffled wind beyond the glass; a subtle tactile brass-knob detent click as she turns the dimmer.
+- SYNCHRONIZED IMPACT: at the dimmer-turn (~mid-clip, MIDDAY → SUNSET sky change) a warm rising riser-swell blooms as the light warms and the sky transforms — fused with the Master Audio's glassy bell-motif "turning" + riser on the same frame, so the music itself turns the sky. Luxe and cosmic — a swell, never a boom.
+- MIX: bed wide and low; the warm sky-whoosh sits above the pad.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 2's START IMAGE must reproduce 100%, new angle only): at clip end the loft is in full SUNSET — outside the arched window, a saturated golden-pink sky over rose-glowing peaks and a fire-mirrored glacial lake, long shadows; inside, warm gold raking light, lengthened shadows on the concrete, the rust gown deepened, the monstera backlit. Aira stands in contrapposto at the dimmer, hand on the knob, calm. CLIP 2 must open in this EXACT sunset world (same rose sky, same fire-lake, same warm raking light, same shadows, same wardrobe) — only the camera angle changes.
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 2 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: the rust-and-oatmeal knit gown from the back, the bare shoulder-blade catching warm gold, sculptural folds — identical state.
@@ -1512,8 +1544,10 @@ FABRIC/HAIR/PROP PHYSICS: the knit folds cool and settle as the warm light leave
 FOOTWORK & BODY FLOW: weight stays in contrapposto, a faint settle.
 MID-CLIP TRANSFORMATION (timed — heavy detail): ★ SKY CHANGE SUNSET→NIGHT at 2.4–7.2s, triggered by the turn. The sky deepens from rose-gold sunset to a colossal galaxy-strewn night — the Milky Way arcing over the peaks, stars blooming on in waves, the glacial lake mirroring starlight, the peaks silver under moonlight. INSIDE, the light cools and lowers in real time from warm gold to cool moon-blue, the long warm shadows dissolving into soft blue moonlight, the rust gown reading deep and cool, the bun's rim shifting silver.
 LIGHTING-IN-MOTION: warm gold key cools to silver-blue moonlight; shadows soften; rim shifts gold→silver.
-DIEGETIC AUDIO: alpine room-tone; the brass detent click; a soft cosmic shimmer-swell tied to nightfall; a faint high night-wind beyond the glass.
-MASTER TRACK: the pad turns cool and spacious; a riser-swell layers a starfield shimmer on the night change.
+★ FRAME AUDIO — CLIP 2 (inside-prompt diegetic sound baked into this VEO clip; plays WITH the Outside Master Audio as one unified soundtrack):
+- DIEGETIC / SCENE SOUND: the vast-loft room-tone, a faint high night-wind beginning to rise beyond the glass; the subtle brass detent click on the next turn.
+- SYNCHRONIZED IMPACT: at the dimmer-turn (~mid-clip, SUNSET → NIGHT sky change) a cooling cosmic shimmer-swell layers a starfield as the sky darkens — fused with the Master Audio's cool riser on the same frame, so the music itself draws down the night. Spacious and glossy — a swell, never a boom.
+- MIX: the night-wind and cosmic shimmer ride above the cool pad.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 3's START IMAGE must reproduce 100%, new angle only): at clip end the loft is in full STARLIT NIGHT — outside, a Milky Way arcing over silver moonlit peaks and a star-mirrored glacial lake; inside, cool soft moon-blue light, no warm shadow, the rust gown deep and cool, the monstera silvered. Aira stands at the dimmer, hand on the knob, calm. CLIP 3 must open in this EXACT night world (same galaxy, same moon-blue light, same silver peaks, same wardrobe) — only the angle changes.
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 3 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: the gown neckline and bare shoulder in profile, cool-lit — identical state.
@@ -1574,8 +1608,10 @@ FABRIC/HAIR/PROP PHYSICS: the knob clicks the next detent; the bun holds; aurora
 FOOTWORK & BODY FLOW: weight centred, a faint spinal sway as she looks up.
 MID-CLIP TRANSFORMATION (timed — heavy detail): ★ SKY CHANGE NIGHT→AURORA at 2.4–7.2s, triggered by the notch-turn. Green-gold aurora curtains ignite and ripple across the starlit sky over the peaks, mirrored in the glacial lake. INSIDE, a cool green-gold wash drifts across the concrete and her profile, mixing with the moon-blue — a dual-tone magical light that breathes with the aurora's slow plasma motion.
 LIGHTING-IN-MOTION: cool moon-blue gains a drifting green-gold aurora wash; her profile picks up shifting teal-and-gold highlights.
-DIEGETIC AUDIO: night room-tone; the brass detent click; a faint high aurora tone (a soft electrical shimmer); distant night wind.
-MASTER TRACK: the pad gains a slow shimmering aurora-motif; a cool riser layers in.
+★ FRAME AUDIO — CLIP 3 (inside-prompt diegetic sound baked into this VEO clip; plays WITH the Outside Master Audio as one unified soundtrack):
+- DIEGETIC / SCENE SOUND: night loft room-tone, distant high night wind; the subtle brass detent click; a faint high aurora tone (a soft electrical shimmer) beginning to bloom.
+- SYNCHRONIZED IMPACT: at the dimmer-turn (~mid-clip, NIGHT → AURORA sky change) a slow shimmering aurora-motif blooms with a cool riser as ribbons of light ignite the sky — fused with the Master Audio on the same frame, so the music itself paints the aurora. Ethereal — a swell, never a boom.
+- MIX: the aurora electrical shimmer floats high above the evolving pad.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 4's START IMAGE must reproduce 100%, new angle only): at clip end the loft is in full AURORA NIGHT — green-gold aurora curtains rippling over the starfield and silver peaks, mirrored in the lake; inside, a drifting green-gold-and-moon-blue dual wash across the concrete and gown. Aira stands in profile, calm awe, hand on the knob. CLIP 4 must open in this EXACT aurora world (same curtains, same dual wash, same stars, same wardrobe) — only the angle changes.
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 4 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: the gown bodice and bare shoulder, dual-lit teal-and-blue, soft folds — identical state.
@@ -1636,8 +1672,10 @@ FABRIC/HAIR/PROP PHYSICS: aurora plasma drifts behind; the gown shifts with brea
 FOOTWORK & BODY FLOW: weight relaxed, a faint spinal ease.
 MID-CLIP TRANSFORMATION (timed): NONE — a reaction beat of the existing aurora state from a new angle.
 LIGHTING-IN-MOTION: catch-lights brighten as the push-in lands; aurora glow tints her cheek as the curtains ripple.
-DIEGETIC AUDIO: a faint aurora hum; her calm breath; intimate room-tone.
-MASTER TRACK: the score holds its cool shimmering aurora-motif, steady and full.
+★ FRAME AUDIO — CLIP 4 (inside-prompt diegetic sound baked into this VEO clip; plays WITH the Outside Master Audio as one unified soundtrack):
+- DIEGETIC / SCENE SOUND: a faint sustained aurora hum, her calm breath, intimate loft room-tone.
+- SYNCHRONIZED IMPACT: none — no new sky change, just her knowing look; the aurora-motif simply holds. Let the Master Audio's steady cosmic shimmer ride.
+- MIX: intimate and full, the aurora hum sustained beneath.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 5's START IMAGE must reproduce 100%, new angle only): at clip end the loft holds full AURORA NIGHT; Aira is calm and confident, hand flat on the dimmer plate, gown and bun unchanged, aurora rippling. CLIP 5 must open in this EXACT state (same aurora, same dual wash, same wardrobe) — only the angle changes.
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 5 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: the gown flowing from the low view, sculptural folds, bare shoulder regal — identical state.
@@ -1698,8 +1736,10 @@ FABRIC/HAIR/PROP PHYSICS: the light-pulse travels believably across the concrete
 FOOTWORK & BODY FLOW: weight grounds evenly, a subtle rise through the spine.
 MID-CLIP TRANSFORMATION (timed — heavy detail): ★ the dimmer-press at 2.4–5.2s sends a momentary warm light-pulse rippling outward from the dimmer across the loft, briefly lifting the ambient, while the aurora swells brighter overhead — a flourish on the existing aurora state (not a sky-change). Settles back to the aurora baseline by 4.0s.
 LIGHTING-IN-MOTION: the pulse momentarily lifts ambient light, then settles to deep moon-and-aurora; the rim intensifies around her.
-DIEGETIC AUDIO: a faint aurora hum; a soft synth-pulse on the press; a low cinematic sub; distant wind.
-MASTER TRACK: the score reaches its fullest cosmic wash — the emotional peak — on the press.
+★ FRAME AUDIO — CLIP 5 (inside-prompt diegetic sound baked into this VEO clip; plays WITH the Outside Master Audio as one unified soundtrack):
+- DIEGETIC / SCENE SOUND: a faint aurora hum, distant wind; a soft synth-pulse on the final press.
+- SYNCHRONIZED IMPACT: at the final press (~mid-clip, the light-pulse — the hero peak) the score reaches its fullest cosmic wash with a soft synth-pulse and a low cinematic sub as the whole loft pulses with light — fused with the Master Audio's peak on the same frame, so the music itself is the pulse. The emotional high — a soft sub-weighted bloom, godlike but never a hard boom.
+- MIX: the cosmic wash opens widest here with a soft sub under the press.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 6's START IMAGE must reproduce 100%, then RESET): at clip end the loft holds full AURORA NIGHT at its richest; Aira stands heroic, hand on the dimmer, gown and bun unchanged. CLIP 6 must open in this state then RESET — same wardrobe, returning to the wide CLIP-1 angle as she turns the dimmer back to midday.
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 6 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: the draped oatmeal-and-rust knit gown, bare shoulder, sculptural folds — matched to CLIP 1.
@@ -1760,8 +1800,10 @@ FABRIC/HAIR/PROP PHYSICS: the knit folds warm and settle as midday returns; the 
 FOOTWORK & BODY FLOW: weight rolls back into the opening contrapposto.
 MID-CLIP TRANSFORMATION (timed — heavy detail): ★ RESET at 3.0–5.0s — the reverse-turn sweeps the sky from aurora-night through night and sunset back to bright midday in one smooth real-time return; shadows shorten, light warms then neutralises, the rust gown returns to its bright reading — restoring the exact CLIP-1 state.
 LIGHTING-IN-MOTION: the cosmos drains and the room returns to bright neutral midday, matched to CLIP 1.
-DIEGETIC AUDIO: a soft return-whoosh through the sky-states; the brass detent click; the alpine room-tone and AC hum returning to the CLIP-1 bed.
-MASTER TRACK: the cosmic wash strips back to the airy opening pad and bell-motif, looping cleanly.
+★ FRAME AUDIO — CLIP 6 (inside-prompt diegetic sound baked into this VEO clip; plays WITH the Outside Master Audio as one unified soundtrack):
+- DIEGETIC / SCENE SOUND: a soft return-whoosh sweeping through the sky-states, the brass detent click, the alpine room-tone and AC hum returning to the exact CLIP-1 bed.
+- SYNCHRONIZED IMPACT: at the turn-back (~mid-clip, AURORA → MIDDAY reset) a soft return-whoosh sweeps back through the sky-states to midday — a gentle reversing swell that strips the cosmic wash to the opening pad, fused with the Master Audio resetting home. Soft and seamless so the loop is invisible.
+- MIX: ease back to the airy opening pad + bell-motif + CLIP-1 room-tone; loop-seed near 7.8s.
 END STATE / STATE-MATCH LOCK: clip ends in the EXACT midday loft state and wide angle of CLIP 1's START IMAGE — light, sky, wardrobe and expression matched, so the reel loops seamlessly.
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 1 (LOOP back to opening) — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: the draped oatmeal-and-rust knit gown, one shoulder bare, sculptural folds pooling at the floor, lit bright and neutral.
@@ -1782,25 +1824,27 @@ END STATE / STATE-MATCH LOCK: clip ends in the EXACT midday loft state and wide 
 
 CUT LOGIC: ANGLE-CUT / LOOP back to CLIP 1; the next pass re-triggers midday→sunset on the first turn.
 
-### ☆ EXTERNAL AUDIO — BLOCK 1: BACKGROUND SOUND DESIGN / AMBIENCE BED — A-4
-*The layered foley + ambience to lay UNDER the reel, separate from the in-clip diegetic audio — timed to the clips.*
-- Base bed (all clips): a soft vast-loft room-tone with a faint concrete reverb; a low AC hum; distant muffled alpine wind beyond the glass.
-- Trigger stamp (every change): a subtle tactile brass-knob DETENT CLICK + a soft musical sky-whoosh on each turn.
-- CLIP 1 (midday→sunset): a warm rising whoosh-swell as the light warms.
-- CLIP 2 (sunset→night): a cooling cosmic shimmer-swell; a faint night-wind rising.
-- CLIP 3 (night→aurora): a high aurora electrical shimmer-tone blooming.
-- CLIP 4 (knowing look): a faint sustained aurora hum; intimate room-tone.
-- CLIP 5 (final press): a soft synth-pulse on the press; a low cinematic sub.
-- CLIP 6 (reset): a soft return-whoosh through the sky-states; the detent click; room-tone returning to the CLIP-1 level.
-- Mix note: keep the bed wide and low so the sky-whooshes and aurora shimmer sit above the music; loops cleanly at ~28s.
-
-### ☆ EXTERNAL AUDIO — BLOCK 2: BACKGROUND MUSIC / SCORE TRACK — A-4 (lay under the sound bed)
-- Genre / vibe: cinematic ambient-electronic with a luxe, godlike calm — spacious, glossy, quietly powerful.
-- Tempo / key: ~90 BPM, open major-suspended (D sus), slow evolving pulse.
-- Core elements: wide warm synth pads; a soft sub-bass swell; a glassy bell-motif that "turns" with the dimmer; a gentle felt-kick; a rising shimmer-riser tied to each sky transition.
-- Arc: airy pad on CLIP 1 → a riser-swell on each sky change (sunset, night, aurora) layering new harmonic colour → fullest cosmic wash at the low-angle hero press (CLIP 5) → strips back to the airy pad on the reset (CLIP 6).
-- Texture note: keep wide and low so the transition whooshes and aurora shimmer of Block 1 read on top.
-- Loop: a clean ~28s loop matching the visual loop point.
+### ★ OUTSIDE MASTER AUDIO — A-4 (the single composed MUSIC track — generate in your music tool; lays under all 6 clips as one unified soundtrack with the Frame Audio)
+RUNTIME: exactly 48.000s = 6 clips × 8.000s · KEY: open major-suspended (D sus) · TEMPO: ~90 BPM (slow evolving pulse) · composed for this EXACT length — never looped, stretched, cut, or faded out.
+EMOTIONAL TARGET: luxe, godlike calm — quiet command of the heavens, awe rising with each sky change to a cosmic peak, then a serene reset.
+NO FADE-IN — OPENS AT FULL PRESENCE: at 0:00.000 the wide warm synth pad + glassy bell-motif are already at full level; the spacious awe lands within the first second, no swell-from-silence.
+INSTRUMENT PALETTE (emotion-matched — Dream / Luxury): wide warm synth pads, a soft sub-bass swell, a glassy bell-motif that "turns" with the dimmer, a gentle felt-kick, a rising shimmer-riser tied to each sky transition.
+VOCALS: none required (an optional ethereal pad-vocal texture only if it deepens the cosmic awe).
+ARRANGEMENT (timed to picture):
+- 0:00–0:08 (C1): airy warm pad + glassy bell-motif; a warm riser-swell on the midday→sunset turn.
+- 0:08–0:16 (C2): the pad turns cool and spacious; a cosmic shimmer-riser on the sunset→night turn.
+- 0:16–0:24 (C3): a slow shimmering aurora-motif + cool riser on the night→aurora turn.
+- 0:24–0:32 (C4): the cool aurora-motif holds steady and full on the knowing look (no new change).
+- 0:32–0:40 (C5): fullest cosmic wash + soft sub-bass swell on the final-press light-pulse — the emotional high.
+- 0:40–0:48 (C6): strips back to the airy opening pad + bell-motif; final chord lands at 0:47.8 on the 0:00 voicing.
+★ SYNCHRONIZED IMPACTS (musically integrated — the MUSIC itself expands at these exact frames; never a separate inserted SFX; tuned to the track's key, tone and energy):
+- ~0:04 (C1 — midday→sunset sky change): a warm rising riser-swell, the bell-motif turning the sky.
+- ~0:12 (C2 — sunset→night sky change): a cooling cosmic shimmer-riser drawing down the stars.
+- ~0:20 (C3 — night→aurora sky change): a shimmering aurora-motif blooming with a cool riser.
+- 0:32–0:40 (C5 — final-press light-pulse): the fullest cosmic wash + soft sub-bass swell, the emotional peak.
+- (~0:44 C6 turn-back is a soft return-whoosh resetting home, not a crest; C4 holds steady. Precision over quantity.)
+LOOP LOCK: the phrase resolves at 48.000s onto the 0:00 downbeat — seamless. FEEL: spacious, glossy, godlike.
+(NOTE: this single Outside block replaces the old two-block system; all diegetic/ambience now lives in the per-clip ★ FRAME AUDIO above.)
 
 ---
 
@@ -1873,8 +1917,10 @@ FABRIC/HAIR/PROP PHYSICS: the paper bag crinkles and settles with believable wei
 FOOTWORK & BODY FLOW: weight eases onto the leaning hip as she folds her arms.
 MID-CLIP TRANSFORMATION (timed — heavy detail): ★ HERO MOVE at 2.4–4.8s, resolving by 5.0s — the levitation, triggered by the arm-fold. From the bag, lemons, a milk bottle, jam jars and a baguette rise into the air and begin choreographed arcs toward the bowl, shelves and fridge; each item floats with its own mass and gentle bob, nothing colliding, a graceful slow ballet seeded here.
 LIGHTING-IN-MOTION: floating glass jars catch and throw little sun-glints as they cross the bright window light.
-DIEGETIC AUDIO: a soft paper-bag set-down and crinkle; gentle ocean waves and gulls; a light sea breeze; a soft airy whoosh as the first items lift; one easy breath.
-MASTER TRACK: an easy nylon-string bossa guitar; light vibraphone twinkles enter as the groceries take flight.
+★ FRAME AUDIO — CLIP 1 (inside-prompt diegetic sound baked into this VEO clip; plays WITH the Outside Master Audio as one unified soundtrack):
+- DIEGETIC / SCENE SOUND: a soft paper-bag set-down and crinkle, gentle ocean waves and distant gulls, a light sea breeze and one easy breath; at the arm-fold a soft airy whoosh as the first items lift.
+- SYNCHRONIZED IMPACT: at the arm-fold (~mid-clip, the float is TRIGGERED — the hero event) a soft airy whoosh + a vibraphone twinkle-bloom lifts the groceries off the counter — fused with the Master Audio's vibraphone entering on the same frame, so the music itself floats them. Light and breezy — a sparkle-bloom, never a boom.
+- MIX: foley light and bright, floating above the sunny guitar.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 2's START IMAGE must reproduce 100%, new angle only): at clip end the groceries are AIRBORNE — lemons, milk bottle, jam jars and a baguette gliding in graceful arcs toward the oak cabinets and brass shelves, glass catching sun-glints; the bright coastal kitchen, citrus bowl, hydrangeas and ocean window all sunlit; Aira leans with arms folded, buttercup dress, braid crown, easy smile. CLIP 2 must open in this EXACT state (same floating items mid-arc, same sunlit kitchen, same wardrobe/pose) — only the camera angle changes.
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 2 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: the buttercup linen dress from behind, sash bow at the back, soft folds — identical state.
@@ -1935,8 +1981,10 @@ FABRIC/HAIR/PROP PHYSICS: each floating item glides with its own mass and gentle
 FOOTWORK & BODY FLOW: weight settled on the leaning hip.
 MID-CLIP TRANSFORMATION (timed): NONE — a different-angle beat of the existing floating-ballet state.
 LIGHTING-IN-MOTION: floating glass jars throw little sun-glints as they cross the window light.
-DIEGETIC AUDIO: soft airy whooshes per floating item; gentle glass-on-wood taps as they land; ocean waves; a light breeze; her quiet breath.
-MASTER TRACK: brushed bossa drums and a round upright bass enter under the guitar; vibraphone twinkles per item.
+★ FRAME AUDIO — CLIP 2 (inside-prompt diegetic sound baked into this VEO clip; plays WITH the Outside Master Audio as one unified soundtrack):
+- DIEGETIC / SCENE SOUND: soft airy whooshes per floating item, gentle glass-on-wood taps as they land, ocean waves, a light breeze and her quiet breath.
+- SYNCHRONIZED IMPACT: none — after-state ballet; the items simply drift to the shelves. The Master Audio's vibraphone twinkles ride per-item without a hero hit.
+- MIX: light and bouncy; the per-item whooshes and landing taps float on top.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 3's START IMAGE must reproduce 100%, new angle only): at clip end the ballet continues — several items now shelved, a few still orbiting; the sunlit kitchen, citrus bowl, hydrangeas and ocean window unchanged; Aira leans, arms folded, buttercup dress, braid crown, amused. CLIP 3 must open in this EXACT state (same orbiting items, same sunlit kitchen, same wardrobe/pose) — only the angle changes.
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 3 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: the buttercup linen dress folds and sash radiating from above — identical state.
@@ -1997,8 +2045,10 @@ FABRIC/HAIR/PROP PHYSICS: orbiting items lean with believable centripetal motion
 FOOTWORK & BODY FLOW: weight grounded, a faint spinal sway as she tips her face up.
 MID-CLIP TRANSFORMATION (timed): NONE — a different-angle beat of the existing orbiting ballet.
 LIGHTING-IN-MOTION: as the camera spins, window glow sweeps across her upturned face.
-DIEGETIC AUDIO: a gentle musical orbit-hum; soft per-item whooshes and landing taps; ocean ambience; her quiet breath.
-MASTER TRACK: the bossa groove turns gently circular, vibraphone twinkles orbiting.
+★ FRAME AUDIO — CLIP 3 (inside-prompt diegetic sound baked into this VEO clip; plays WITH the Outside Master Audio as one unified soundtrack):
+- DIEGETIC / SCENE SOUND: a gentle musical orbit-hum, soft per-item whooshes and landing taps, ocean ambience and her quiet breath.
+- SYNCHRONIZED IMPACT: none — after-state; the groceries simply orbit. Let the Master Audio's gently circular bossa groove carry it.
+- MIX: the orbit-hum and twinkles circle softly above the sunlit bed.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 4's START IMAGE must reproduce 100%, new angle only): at clip end most groceries are shelved with a few still orbiting, including a floating cherry near head-height; the sunlit kitchen unchanged; Aira stands calm, arms loosening, braid crown, buttercup dress. CLIP 4 must open in this EXACT state (same few orbiting items incl. the cherry, same sunlit kitchen, same wardrobe) — only the angle changes.
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 4 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: the linen dress neckline, sash, fine gold necklace — identical state.
@@ -2059,8 +2109,10 @@ FABRIC/HAIR/PROP PHYSICS: the cherry has believable small mass, its stem bending
 FOOTWORK & BODY FLOW: weight steady, a faint lean toward the cherry.
 MID-CLIP TRANSFORMATION (timed): NONE — a playful beat of the existing ballet (the pluck is her one touch, not a new transform).
 LIGHTING-IN-MOTION: catch-lights brighten as the push-in lands; the cherry gloss catches a travelling highlight.
-DIEGETIC AUDIO: a tiny pluck; soft orbit whooshes behind; ocean ambience; her playful breath.
-MASTER TRACK: the bossa groove holds light and sunlit, a vibraphone sparkle on the pluck.
+★ FRAME AUDIO — CLIP 4 (inside-prompt diegetic sound baked into this VEO clip; plays WITH the Outside Master Audio as one unified soundtrack):
+- DIEGETIC / SCENE SOUND: a tiny cherry-pluck, soft orbit whooshes behind, ocean ambience and her playful breath.
+- SYNCHRONIZED IMPACT: none — a playful cherry-pluck, not a hero transformation; a single light vibraphone sparkle rides the bed on the pluck without a hero hit.
+- MIX: intimate and light, a sunlit sparkle on the pluck.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 5's START IMAGE must reproduce 100%, new angle only): at clip end the ballet is nearly done — the last item or two settling, the empty paper bag beginning to fold itself; the sunlit kitchen unchanged; Aira holds the cherry near her lips, buttercup dress, braid crown, playful. CLIP 5 must open in this EXACT state (same near-finished ballet, same folding bag, same wardrobe) — only the angle changes.
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 5 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: the buttercup linen dress flowing in the sea breeze, sash fluttering, from the low view — identical state.
@@ -2121,8 +2173,10 @@ FABRIC/HAIR/PROP PHYSICS: the bag folds along real crease-lines; the sash and he
 FOOTWORK & BODY FLOW: weight grounds evenly as she straightens.
 MID-CLIP TRANSFORMATION (timed — heavy detail): ★ the self-folding bag at 2.4–5.2s — the empty bag creases and folds itself flat in the air and settles onto her palm, the ballet's graceful resolution; as she closes her fingers on it the levitation magic settles (the reel's single-magic resolving toward reset).
 LIGHTING-IN-MOTION: the sea-sun flare swells as the camera lands low, the rim intensifying around her.
-DIEGETIC AUDIO: a warm swelling tone; the soft paper fold-crinkle; a final gentle jar-tap; ocean waves and gulls; her calm breath.
-MASTER TRACK: the bossa groove reaches its fullest sunlit swell — the breezy emotional peak.
+★ FRAME AUDIO — CLIP 5 (inside-prompt diegetic sound baked into this VEO clip; plays WITH the Outside Master Audio as one unified soundtrack):
+- DIEGETIC / SCENE SOUND: a warm swelling tone, the soft paper fold-crinkle, a final gentle jar-tap, ocean waves and gulls and her calm breath.
+- SYNCHRONIZED IMPACT: at the bag-fold onto her palm (~mid-clip, the hero peak) the bossa groove reaches its fullest sunlit swell as the last items settle and the empty bag folds itself — fused with the Master Audio's peak on the same frame, so the music itself blooms. The breezy emotional high — warm and sunlit, never a boom.
+- MIX: fullest sunlit groove with the soft fold-crinkle and final jar-tap on top.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 6's START IMAGE must reproduce 100%, then RESET): at clip end the kitchen is fully tidy and stocked, the folded bag resting on her palm, the sunlit kitchen and ocean unchanged; Aira stands heroic, buttercup dress, braid crown. CLIP 6 must open in this state then RESET — same wardrobe, returning to the wide CLIP-1 angle with a freshly-full bag on the island.
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 6 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: the buttercup-yellow linen wrap dress, three-quarter sleeves, sash tie — matched to CLIP 1.
@@ -2183,8 +2237,10 @@ FABRIC/HAIR/PROP PHYSICS: the bag stands full and upright; linen and tendrils se
 FOOTWORK & BODY FLOW: weight rolls onto the leaning hip — the CLIP-1 stance.
 MID-CLIP TRANSFORMATION (timed): the kitchen RESETS — bag refilled and standing, everything returned to the CLIP-1 opening; the next loop will re-trigger the float when she folds her arms again (the start of CLIP 1).
 LIGHTING-IN-MOTION: sea light steadies to the exact CLIP-1 level.
-DIEGETIC AUDIO: a soft paper-bag set-down and crinkle; ocean waves and gulls; a light breeze; one easy breath — returning to the CLIP-1 bed.
-MASTER TRACK: the bossa groove eases back to the easy opening guitar, looping cleanly.
+★ FRAME AUDIO — CLIP 6 (inside-prompt diegetic sound baked into this VEO clip; plays WITH the Outside Master Audio as one unified soundtrack):
+- DIEGETIC / SCENE SOUND: a soft paper-bag set-down and crinkle, ocean waves and gulls, a light breeze and one easy breath — returning to the exact CLIP-1 bed.
+- SYNCHRONIZED IMPACT: none — the reset/loop beat; let the bed settle to the opening so the loop back to CLIP 1 is seamless and invisible.
+- MIX: ease back to the easy opening guitar + CLIP-1 coastal bed; loop-seed near 7.8s.
 END STATE / STATE-MATCH LOCK: clip ends in the EXACT opening state and wide angle of CLIP 1's START IMAGE — full bag, light, wardrobe and expression matched, so the reel loops seamlessly.
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 1 (LOOP back to opening) — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: the buttercup-yellow linen wrap dress, three-quarter sleeves, sash tied at the waist, hem catching a sea breeze; pristine, sun-warmed.
@@ -2205,24 +2261,25 @@ END STATE / STATE-MATCH LOCK: clip ends in the EXACT opening state and wide angl
 
 CUT LOGIC: ANGLE-CUT / LOOP back to CLIP 1; the next pass re-triggers the grocery ballet when she folds her arms.
 
-### ☆ EXTERNAL AUDIO — BLOCK 1: BACKGROUND SOUND DESIGN / AMBIENCE BED — A-5
-*The layered foley + ambience to lay UNDER the reel, separate from the in-clip diegetic audio — timed to the clips.*
-- Base bed (all clips): a bright airy coastal kitchen room-tone; gentle ocean waves and distant gulls throughout; a soft sea breeze.
-- CLIP 1 (★ float begins): a soft paper-bag set-down and crinkle; a gentle airy whoosh as the first items lift on the arm-fold.
-- CLIP 2 (ballet to shelves): soft per-item airy whooshes; gentle glass-on-wood landing taps.
-- CLIP 3 (orbit): a soft musical orbit-hum; light landing taps.
-- CLIP 4 (cherry pluck): a tiny pluck; soft orbit whooshes behind.
-- CLIP 5 (hero / bag folds): a soft paper fold-crinkle; a final gentle jar-tap; a warm swelling tone.
-- CLIP 6 (reset): a soft paper-bag set-down; the bed returning to the CLIP-1 level.
-- Mix note: keep the foley light and bright so it floats above the sunny music; loops cleanly at ~26s.
-
-### ☆ EXTERNAL AUDIO — BLOCK 2: BACKGROUND MUSIC / SCORE TRACK — A-5 (lay under the sound bed)
-- Genre / vibe: breezy bossa-nova / sunlit french-pop groove — light, glossy, effortlessly happy.
-- Tempo / key: ~100 BPM, bright major key (G), gentle bossa sway.
-- Core elements: soft nylon-string guitar; brushed bossa drums; a round upright bass; light vibraphone twinkles for the floating items; a faint whistle/hum melody; a sun-warm string pad.
-- Arc: easy guitar on CLIP 1 → vibraphone twinkles enter as groceries take flight (CLIPs 2–3) → fullest sunlit groove at the low-angle hero (CLIP 5) → settle back to solo guitar on the reset (CLIP 6).
-- Texture note: keep light and bouncy so the per-item whooshes and landing taps of Block 1 read on top.
-- Loop: a clean ~26s loop matching the visual loop point.
+### ★ OUTSIDE MASTER AUDIO — A-5 (the single composed MUSIC track — generate in your music tool; lays under all 6 clips as one unified soundtrack with the Frame Audio)
+RUNTIME: exactly 48.000s = 6 clips × 8.000s · KEY: G major (bright) · TEMPO: ~100 BPM (gentle bossa sway) · composed for this EXACT length — never looped, stretched, cut, or faded out.
+EMOTIONAL TARGET: breezy, sunlit, effortlessly happy — playful wonder as the groceries dance themselves away, cresting to a warm sunlit high, then a light reset.
+NO FADE-IN — OPENS AT FULL PRESENCE: at 0:00.000 the soft nylon-string bossa guitar is already swaying at full level; the sunny ease lands within the first second, no swell-from-silence.
+INSTRUMENT PALETTE (emotion-matched — Beauty / Dream): soft nylon-string guitar (hero), brushed bossa drums, a round upright bass, light vibraphone twinkles for the floating items, a faint whistle/hum melody, a sun-warm string pad.
+VOCALS: optional faint whistle/hum melody (a light sunny texture — only because it lifts the breezy mood).
+ARRANGEMENT (timed to picture):
+- 0:00–0:08 (C1): easy guitar; light vibraphone twinkles enter as the float is triggered on the arm-fold.
+- 0:08–0:16 (C2): brushed bossa drums + round upright bass enter — the groove settling as the ballet flies to the shelves.
+- 0:16–0:24 (C3): the bossa groove turns gently circular, vibraphone twinkles orbiting.
+- 0:24–0:32 (C4): the groove holds light and sunlit, a vibraphone sparkle on the cherry-pluck.
+- 0:32–0:40 (C5): fullest sunlit groove — guitar + bass + sun-warm string pad swell to the hero high as the bag folds.
+- 0:40–0:48 (C6): peel back to the easy opening guitar; final chord lands at 0:47.8 on the 0:00 voicing.
+★ SYNCHRONIZED IMPACTS (musically integrated — the MUSIC itself expands at these exact frames; never a separate inserted SFX; tuned to the track's key, tone and energy):
+- ~0:04 (C1 — the float is triggered): a soft airy whoosh + vibraphone twinkle-bloom lifting the groceries, light and breezy, not a boom.
+- 0:32–0:40 (C5 — bag folds onto palm): the fullest sunlit swell, the breezy emotional peak.
+- (No other impacts — the floating-ballet clips ride the bed with per-item twinkles; the cherry-pluck is a light sparkle, not a hero hit. Precision over quantity.)
+LOOP LOCK: the phrase resolves at 48.000s onto the 0:00 downbeat — seamless. FEEL: breezy, glossy, happy.
+(NOTE: this single Outside block replaces the old two-block system; all diegetic/ambience now lives in the per-clip ★ FRAME AUDIO above.)
 
 ---
 
@@ -2298,8 +2355,10 @@ FABRIC/HAIR/PROP PHYSICS: the cardigan drapes and slides off the shoulder with r
 FOOTWORK & BODY FLOW: a dragging shuffle, weight heavy, the bare heel scuffing the slide.
 MID-CLIP TRANSFORMATION (timed — heavy detail): ★ MOOD-DRAIN at 2.4–4.8s — on her slump, the room's remaining colour visibly recedes like water draining: the emerald sofa greys, the rust armchair dulls, the peonies droop further, the lamp dims a notch — the world sulking with her.
 LIGHTING-IN-MOTION: flat grey, dimming a touch further as she slumps — no warmth entering.
-DIEGETIC AUDIO: the tail of a quiet yawn-sigh; a slide scuffing on wood; a weak lamp buzz; rain tapping the window; a heavy breath.
-MASTER TRACK: a muted lone piano with vinyl crackle — grey and minimal.
+★ FRAME AUDIO — CLIP 1 (inside-prompt diegetic sound baked into this VEO clip; plays WITH the Outside Master Audio as one unified soundtrack):
+- DIEGETIC / SCENE SOUND: the tail of a quiet yawn-sigh, a slide scuffing on wood, a weak lamp electrical buzz, rain tapping the window and a heavy breath.
+- SYNCHRONIZED IMPACT: at the slump (~mid-clip, the colour DRAINS and the room goes grey — an environment change) a soft downward sub-dip as the music itself desaturates to the grey muted piano — fused with the Master Audio on the same frame, so the room greys WITH the score. A draining hush, never a boom (matches the Monday-morning low).
+- MIX: grey and minimal; rain and lamp-buzz hollow beneath.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 2's START IMAGE must reproduce 100%, new angle only): at clip end the apartment is fully GREY and sulking — desaturated emerald sofa, dulled rust armchair, drooping browning peonies, dim lamp, rain-streaked grey window; Aira slumped, grey cardigan off one shoulder, messy bun, deadpan-tired. CLIP 2 must open in this EXACT grey state (same desaturation, same drooping props, same dim lamp, same wardrobe) — only the camera angle changes.
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 2 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: the grey cardigan from behind, the dropped shoulder revealing the white tank strap — identical state.
@@ -2360,8 +2419,10 @@ FABRIC/HAIR/PROP PHYSICS: the mug scrapes the counter; the button depresses with
 FOOTWORK & BODY FLOW: weight on the forearms, a tired sag.
 MID-CLIP TRANSFORMATION (timed — heavy detail): ★ MOOD-DIM at 5.6–8.0s — as her hope dies, the room dims one more notch grey, the lamp guttering, the herb wilting further — the sulk intensifying with her frustration.
 LIGHTING-IN-MOTION: flat grey dimming a hair further as her mood drops; no machine glow.
-DIEGETIC AUDIO: a mug-scrape on marble; the button press — a weak click then silence; a faint electrical failure-buzz; rain intensifying; a frustrated exhale.
-MASTER TRACK: the muted piano holds, a low sub-drone of grey under it.
+★ FRAME AUDIO — CLIP 2 (inside-prompt diegetic sound baked into this VEO clip; plays WITH the Outside Master Audio as one unified soundtrack):
+- DIEGETIC / SCENE SOUND: a mug-scrape on marble, the button press — a weak click then silence — a faint electrical failure-buzz, rain intensifying and a frustrated exhale.
+- SYNCHRONIZED IMPACT: at the dead button-press (~mid-clip, the room dims a notch further) a low sub-drone deepens under the grey piano, the light failing WITH the music — fused with the Master Audio; a soft downward settle, never a boom.
+- MIX: greyer still; the failure-buzz and intensifying rain pressing the bed down.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 3's START IMAGE must reproduce 100%, new angle only): at clip end the kitchen is at peak GREY sulk — dead unlit machine, wilted herb, dim lamp, rain; Aira leaning, frustrated, grey cardigan off one shoulder, messy bun. CLIP 3 must open in this EXACT grey state (same desaturation, same dead machine implied, same wardrobe/mood) — only the angle changes.
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 3 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: the cardigan neckline and white tank, the dropped shoulder visible — identical state.
@@ -2422,8 +2483,10 @@ FABRIC/HAIR/PROP PHYSICS: the mug sets down with believable ceramic-on-marble co
 FOOTWORK & BODY FLOW: a subtle straightening beginning at the very end — the turn incoming.
 MID-CLIP TRANSFORMATION (timed): NONE yet — the room stays grey; this is the decision beat that will trigger the bloom in CLIP 4. A faint warmth just barely begins at the very edge of frame on the decision.
 LIGHTING-IN-MOTION: flat grey, but a hint of warmth creeping at the frame edge on the decision.
-DIEGETIC AUDIO: the finger-tap on the mug; her dry spoken line (close, intimate, natural Indian accent); the decisive mug-clink; rain; an expectant beat of quiet.
-MASTER TRACK: the muted piano pauses on the line, a single held note of anticipation under it.
+★ FRAME AUDIO — CLIP 3 (inside-prompt diegetic sound baked into this VEO clip; plays WITH the Outside Master Audio as one unified soundtrack):
+- DIEGETIC / SCENE SOUND: the finger-tap on the mug, her dry spoken line (close, intimate, natural Indian accent — left untouched), the decisive mug-clink, rain, an expectant beat of quiet.
+- SYNCHRONIZED IMPACT: none — anticipation only; the music pauses on the spoken line (a single held note) and no transformation has happened yet. Keep it quiet so the CLIP-4 bloom lands harder.
+- MIX: the spoken line sits dry and intimate in the music-pause; expectant quiet around it.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 4's START IMAGE must reproduce 100%, new angle only): at clip end the room is still GREY but a faint warmth flickers at the frame edge; Aira has just decided — a spark in the eyes, mouth-corner lifting, mug set down; grey cardigan, messy bun. CLIP 4 must open in this EXACT pre-bloom state (still grey, faint edge-warmth, her decided expression, same wardrobe) — only the angle changes.
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 4 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: the grey cardigan being pulled up onto the shoulder and cinched with its own tie-belt, tank straightened — still loungewear but now owned.
@@ -2484,8 +2547,10 @@ FABRIC/HAIR/PROP PHYSICS: the cardigan cinches with real fabric tension; flowers
 FOOTWORK & BODY FLOW: weight grounds and lifts as she squares up.
 MID-CLIP TRANSFORMATION (timed — heavy detail): ★ MOOD-BLOOM at 2.4–7.2s — triggered by the shoulder-square and breath, the grey floods to VIVID: emerald sofa and rust armchair saturate, magenta peonies open, brass lamp warms gold, monstera perks, the window blazes gold; the world rewards her decision with full colour.
 LIGHTING-IN-MOTION: grey flat light replaced by warm directional gold; rich shadows return.
-DIEGETIC AUDIO: a satisfying deep breath in; a soft musical swell as the room responds; flowers lifting with a tiny rustle; the lamp click-on; rain stopping; a warm room-tone replacing the grey.
-MASTER TRACK: a transition riser swells; warm strings and a felt-kick enter with a satisfying bass-drop at the bloom.
+★ FRAME AUDIO — CLIP 4 (inside-prompt diegetic sound baked into this VEO clip; plays WITH the Outside Master Audio as one unified soundtrack):
+- DIEGETIC / SCENE SOUND: a satisfying deep breath in, flowers lifting with a tiny rustle, the lamp click-on, rain stopping, birdsong beginning and a warm room-tone replacing the grey.
+- SYNCHRONIZED IMPACT (THE HERO MOMENT): at EXACTLY the shoulders-square (~mid-clip) the room BLOOMS — a transition riser resolves into a satisfying warm bass-drop as A minor modulates to A major, warm strings + felt-kick bursting in, rain stopping and birdsong rising. This is NOT a separate SFX: it fuses with the Master Audio's bass-drop on the same frame, so the music itself blooms the room. Warm and deeply satisfying, like a cloud clearing — full but never harsh.
+- MIX: the grey→warm flip is the star; the bass-drop deep and round, strings opening wide.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 5's START IMAGE must reproduce 100%, new angle only): at clip end the apartment is in full VIVID bloom — rich emerald sofa, glowing rust armchair, open magenta peonies, warm brass lamps, tall vivid monstera, gold-flooded window; Aira stands squared and smiling, grey cardigan cinched, messy bun tightened. CLIP 5 must open in this EXACT vivid state (same saturated room, same gold light, same wardrobe/posture) — only the angle changes.
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 5 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: the same grey cardigan and tank/shorts — identical clothes, transformed by her posture, cinched and owned.
@@ -2546,8 +2611,10 @@ FABRIC/HAIR/PROP PHYSICS: dust-motes drift with correct Brownian motion in the s
 FOOTWORK & BODY FLOW: weight grounded and even, a subtle rise through the spine.
 MID-CLIP TRANSFORMATION (timed — heavy detail): ★ the final colour-flush at 2.4–5.2s — on her exhale the last grey patch saturates, a last peony opens, the lamp brightens one more notch; the bloom completes around her.
 LIGHTING-IN-MOTION: full golden key, rich directional shadows, the room at its warmest — maximum contrast from the grey opening.
-DIEGETIC AUDIO: her satisfied exhale; a last flower-rustle; a warm alive room-tone; birdsong replacing rain; a golden settling quiet.
-MASTER TRACK: the warm strings and bass reach their fullest, most satisfying swell — the emotional peak.
+★ FRAME AUDIO — CLIP 5 (inside-prompt diegetic sound baked into this VEO clip; plays WITH the Outside Master Audio as one unified soundtrack):
+- DIEGETIC / SCENE SOUND: her satisfied exhale, a last flower-rustle, a warm alive room-tone, birdsong replacing rain and a golden settling quiet.
+- SYNCHRONIZED IMPACT: at her settle (~mid-clip, the triumphant calm) the warm strings and bass reach their fullest, most satisfying swell — fused with the Master Audio's high on the same frame, the emotional peak cresting. Warm and full — a swell, not a hard hit.
+- MIX: fullest warm bed; birdsong and the golden room-tone riding on top.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 6's START IMAGE must reproduce 100%, then RESET): at clip end the room is at full vivid bloom; Aira stands triumphant-calm, grey cardigan cinched, bun tightened. CLIP 6 must open in this vivid state then begin RESETTING toward the grey doorway of CLIP 1 — same wardrobe, the colour draining back as the loop closes.
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 6 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: the grey cardigan cinched, white tank — identical state.
@@ -2608,8 +2675,10 @@ FABRIC/HAIR/PROP PHYSICS: espresso flows with correct viscosity and crema; steam
 FOOTWORK & BODY FLOW: an easy walk back to the doorway, weight settling into the opening slump.
 MID-CLIP TRANSFORMATION (timed — heavy detail): ★ RESET at 4.8–8.0s — as she returns to the doorway slump, the vivid room drains back to grey (the reverse of the bloom), the espresso cup leaving frame, restoring the exact CLIP-1 grey opening.
 LIGHTING-IN-MOTION: warm gold drains to flat grey, matching the CLIP-1 opening.
-DIEGETIC AUDIO: the espresso button click (satisfying this time); a warm machine hiss and rich pour; her small contented sip; then the warm room-tone fading, rain returning, the dull lamp buzz — back to the CLIP-1 bed.
-MASTER TRACK: the warm strings decay back to the muted lone piano and vinyl crackle, looping cleanly.
+★ FRAME AUDIO — CLIP 6 (inside-prompt diegetic sound baked into this VEO clip; plays WITH the Outside Master Audio as one unified soundtrack):
+- DIEGETIC / SCENE SOUND: the espresso button click (satisfying this time), a warm machine hiss and rich pour, her small contented sip; then the warm room-tone fading, rain returning and the dull lamp buzz — back to the exact CLIP-1 bed.
+- SYNCHRONIZED IMPACT: at the reset (~late-clip, the warmth drains back to the grey doorway) the warm strings decay back to the muted lone piano and rain returns — a soft downward settle (the reverse of CLIP 4's bloom), fused with the Master Audio resetting. Gentle and seamless so the loop is invisible.
+- MIX: ease back to the muted lone piano + vinyl crackle + CLIP-1 rain bed; loop-seed near 7.8s.
 END STATE / STATE-MATCH LOCK: clip ends in the EXACT grey doorway state and wide angle of CLIP 1's START IMAGE — slump, grey room, wardrobe and tired expression matched, so the reel loops seamlessly.
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 1 (LOOP back to opening) — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: the oversized grey cashmere cardigan sliding off one shoulder over the white ribbed tank and charcoal silk shorts; soft, rumpled, real.
@@ -2630,24 +2699,27 @@ END STATE / STATE-MATCH LOCK: clip ends in the EXACT grey doorway state and wide
 
 CUT LOGIC: ANGLE-CUT / LOOP back to CLIP 1; the next pass re-drains the room as she slumps and re-blooms it when she squares up.
 
-### ☆ EXTERNAL AUDIO — BLOCK 1: BACKGROUND SOUND DESIGN / AMBIENCE BED — B-1
-*The layered foley + ambience to lay UNDER the reel, separate from the in-clip diegetic audio — timed to the clips.*
-- Base bed (grey clips): rain tapping the window; a weak lamp electrical buzz; a hollow quiet apartment room-tone.
-- CLIP 1 (slump/drain): a yawn-sigh; a slide scuffing wood; a heavy breath.
-- CLIP 2 (dead machine): a mug-scrape; a weak button-click then silence; an electrical failure-buzz; rain intensifying.
-- CLIP 3 (spoken/decision): a finger-tap on the mug; a decisive mug-clink; an expectant quiet.
-- CLIP 4 (★ bloom): a deep breath-in; a soft swell as the room responds; flowers rustling; a lamp click-on; rain STOPPING; birdsong beginning.
-- CLIP 5 (hero): a satisfied exhale; a last flower-rustle; a warm alive room-tone.
-- CLIP 6 (sip/reset): a satisfying button-click; a warm machine hiss and rich pour; a small sip; then warm tone fading, rain returning to the CLIP-1 bed.
-- Mix note: the bed itself transforms grey→warm→grey with the visuals (rain vs birdsong); loops cleanly at ~28s.
-
-### ☆ EXTERNAL AUDIO — BLOCK 2: BACKGROUND MUSIC / SCORE TRACK — B-1 (lay under the sound bed)
-- Genre / vibe: cinematic lo-fi with a dramatic emotional arc — grey and minimal, blooming into rich warmth.
-- Tempo / key: ~80 BPM, starts A minor (grey), modulates to A major (bloom) at the turn.
-- Core elements: muted lone piano + vinyl crackle on the grey clips; building warm strings + a felt-kick at the bloom; a satisfying bass-drop at the hero; strips back to muted piano on the reset.
-- Arc: minimal grey piano (CLIPs 1–3) → a swelling transition riser at the decision/bloom (CLIP 4) → full warm strings + bass at the hero (CLIP 5) → decay back to muted grey piano on the reset (CLIP 6).
-- Texture note: the muted→full transition should feel like a cloud clearing — deeply satisfying, never abrupt; the spoken line in CLIP 3 sits in a music-pause.
-- Loop: a clean ~28s loop matching the visual loop point.
+### ★ OUTSIDE MASTER AUDIO — B-1 (the single composed MUSIC track — generate in your music tool; lays under all 6 clips as one unified soundtrack with the Frame Audio)
+RUNTIME: exactly 48.000s = 6 clips × 8.000s · KEY: A minor (grey) modulating to A major (bloom) · TEMPO: ~80 BPM · composed for this EXACT length — never looped, stretched, cut, or faded out.
+EMOTIONAL TARGET: Monday-morning grey gloom → a wry decision → a deeply satisfying bloom into rich warmth → triumphant calm → a soft reset to grey.
+NO FADE-IN — OPENS AT FULL PRESENCE: at 0:00.000 the muted lone piano + vinyl crackle are already grey at full level; the gloom lands within the first second, no swell-from-silence.
+INSTRUMENT PALETTE (emotion-matched — Mystery → Romance/Power at the turn): muted lone piano + vinyl crackle (grey), a low sub-drone, warm strings, a felt-kick, a satisfying bass-drop, birdsong colour at the bloom.
+VOCALS: one wry SPOKEN line in CLIP 3 sits in a music-pause (keep it dry and intimate); otherwise none.
+ARRANGEMENT (timed to picture):
+- 0:00–0:08 (C1): muted lone piano + vinyl crackle; the music desaturates with the slump-drain.
+- 0:08–0:16 (C2): the grey piano holds; a low sub-drone deepens as the machine dies.
+- 0:16–0:24 (C3): the piano pauses on the spoken line — a single held note of anticipation.
+- 0:24–0:32 (C4): a transition riser swells then resolves into a satisfying bass-drop at the bloom — A minor → A major, warm strings + felt-kick burst in.
+- 0:32–0:40 (C5): full warm strings + bass reach the fullest, most satisfying swell — the emotional peak.
+- 0:40–0:48 (C6): decay back to the muted grey piano + vinyl crackle; final chord lands at 0:47.8 on the 0:00 voicing.
+★ SYNCHRONIZED IMPACTS (musically integrated — the MUSIC itself expands at these exact frames; never a separate inserted SFX; tuned to the track's key, tone and energy):
+- ~0:04 (C1 — slump drains the room grey): a soft downward sub-dip, the music desaturating WITH the room (a draining hush, not a boom).
+- ~0:12 (C2 — machine dies, dims more): a low sub-drone deepening, the light failing with the music.
+- 0:24–0:26 (C4 — the room BLOOMS, the hero event): the riser resolves into a satisfying warm bass-drop as the key flips to major and strings burst in — the music itself blooming the room.
+- 0:32–0:40 (C5 — triumphant calm): the fullest warm swell, the emotional peak.
+- (C3 spoken line rides a music-pause, no impact; ~0:44 C6 decays softly back to grey to prime the loop. Precision over quantity.)
+LOOP LOCK: the phrase resolves at 48.000s onto the 0:00 downbeat — seamless. FEEL: grey-to-warm, deeply satisfying.
+(NOTE: this single Outside block replaces the old two-block system; all diegetic/ambience now lives in the per-clip ★ FRAME AUDIO above.)
 
 ---
 
@@ -2720,8 +2792,10 @@ FABRIC/HAIR/PROP PHYSICS: chairs pivot with believable scrape-and-settle; pendan
 FOOTWORK & BODY FLOW: a decisive heel-strike on the threshold, weight rolling forward into the stride.
 MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE TURN at 2.4–7.2s — triggered by the threshold-cross, the café's objects orient toward her: chairs pivot, pendants cant, flowers lean, a cup's handle rotates her way, a barista pauses mid-pour — a slow magnetic wave spreading from the door inward as she advances.
 LIGHTING-IN-MOTION: the daylight halo narrows as the door closes behind her; the warm interior takes over; the canting pendants begin pooling light along her path.
-DIEGETIC AUDIO: the heavy door push (a whoosh and brass click); her heel striking wood — sharp, decisive; café ambience (murmur, clink, soft music) that dips in volume for a beat as she enters.
-MASTER TRACK: a deep sub-bass pulse enters on the threshold-cross; a crisp finger-snap on the off-beats matching her heels.
+★ FRAME AUDIO — CLIP 1 (inside-prompt diegetic sound baked into this VEO clip; plays WITH the Outside Master Audio as one unified soundtrack):
+- DIEGETIC / SCENE SOUND: the heavy glass-door push (a whoosh and brass click), her heel striking wood — sharp, decisive — and the warm café ambience (murmur, clink, soft far-off music) dipping in volume for a beat as she enters.
+- SYNCHRONIZED IMPACT: at EXACTLY the threshold-cross (~early-clip, the room TURNS toward her — the hero event) a deep sub-bass pulse drops in with a crisp finger-snap matching her heel — fused with the Master Audio's bass entering on the same frame, so the music itself turns the room. Confident and magnetic, a deep pulse rather than a harsh boom.
+- MIX: stripped and luxe; the murmur dips so her entrance owns the frame.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 2's START IMAGE must reproduce 100%, new angle only): at clip end the café's nearest objects have turned toward her — chairs pivoted, pendants canted her way, eucalyptus leaning, a cup's handle rotated; the door has closed; warm interior light pools along her path; Aira mid-stride, sunglasses on head, ivory blazer, glass-shine hair. CLIP 2 must open in this EXACT state (same turned objects, same pooled light, same wardrobe) — only the camera angle changes.
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 2 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: the ivory blazer in profile, shoulder seam sharp, black turtleneck at the throat, charcoal trouser-leg mid-stride — identical state.
@@ -2782,8 +2856,10 @@ FABRIC/HAIR/PROP PHYSICS: each object turns at its own rate by mass — light th
 FOOTWORK & BODY FLOW: rhythmic confident heel-strikes, weight rolling.
 MID-CLIP TRANSFORMATION (timed): NONE new — the turn continues spreading (seeded in CLIP 1); more distant objects join as she advances.
 LIGHTING-IN-MOTION: the light-corridor intensifies along her path; warmth pools.
-DIEGETIC AUDIO: rhythmic confident heel-clicks (the main beat); the subtle creak/scrape of turning chairs; a soft chime from swinging pendants; café murmur hushed; the sunglasses hinge-click.
-MASTER TRACK: a warm muted-trumpet motif (short, cool) enters over the bass-and-snap.
+★ FRAME AUDIO — CLIP 2 (inside-prompt diegetic sound baked into this VEO clip; plays WITH the Outside Master Audio as one unified soundtrack):
+- DIEGETIC / SCENE SOUND: rhythmic confident heel-clicks (the main beat), the subtle creak/scrape of turning chairs, a soft chime from swinging pendants, the hushed café murmur and the sunglasses hinge-click.
+- SYNCHRONIZED IMPACT: none — the room already turned in CLIP 1; this is the strut through it. The Master Audio's warm muted-trumpet motif builds over the bass-and-snap without a new hero hit.
+- MIX: her walk has its own soundtrack — bass, snap and trumpet over the hushed room.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 3's START IMAGE must reproduce 100%, new angle only): at clip end the whole café is oriented toward her — all chairs, pendants, flowers, a paused barista; the warm light pooled on her; sunglasses now pocketed; Aira mid-stride, ivory blazer, glass-shine hair, knowing corner-smile. CLIP 3 must open in this EXACT state (same fully-turned room, same pooled light, same wardrobe, shades pocketed) — only the angle changes.
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 3 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: the ivory blazer collar and black turtleneck at the throat; the gold chain resting on the collarbone — identical state.
@@ -2844,8 +2920,10 @@ FABRIC/HAIR/PROP PHYSICS: the last walking-motion settles from the hair, strands
 FOOTWORK & BODY FLOW: a still, grounded stand.
 MID-CLIP TRANSFORMATION (timed): NONE — the turn completes and holds; this is the magnetic apex of the oriented state.
 LIGHTING-IN-MOTION: the pooled warm light on her face holds steady — she is the brightest point in the room.
-DIEGETIC AUDIO: near-silence — the café murmur fully hushed; just her slow even breath; the faintest gold-chain settle; a single soft low heartbeat-thud for drama; then café sounds beginning to return.
-MASTER TRACK: near-silence — only a sub-bass heartbeat under the held moment.
+★ FRAME AUDIO — CLIP 3 (inside-prompt diegetic sound baked into this VEO clip; plays WITH the Outside Master Audio as one unified soundtrack):
+- DIEGETIC / SCENE SOUND: near-silence — the café murmur fully hushed, just her slow even breath, the faintest gold-chain settle and a single soft low heartbeat-thud for drama; then café sounds beginning to return.
+- SYNCHRONIZED IMPACT: none — the magnetic held beat is carried by NEAR-SILENCE and a single sub-bass heartbeat; the absence is the drama. No hit, so the CLIP-4 snap lands harder.
+- MIX: strip to almost nothing — only the heartbeat and breath; the silence is intentional and loaded.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 4's START IMAGE must reproduce 100%, new angle only): at clip end the whole café is fully oriented toward her and still; warm light pooled on her; Aira self-possessed, ivory blazer, glass-shine hair, knowing almost-smile. CLIP 4 must open in this EXACT fully-turned state (same oriented objects, same pooled light, same wardrobe) — only the angle changes; the snap-back happens within CLIP 4.
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 4 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: the full ivory blazer, black turtleneck bodysuit, charcoal trousers visible in the sit — identical state.
@@ -2906,8 +2984,10 @@ FABRIC/HAIR/PROP PHYSICS: chairs whip to neutral and rock a hair past centre the
 FOOTWORK & BODY FLOW: ankles cross, weight settling into the booth.
 MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE SNAP-BACK at 3.0–5.0s — triggered by her weight hitting the seat, every oriented object snaps to neutral at once: chairs, pendants, flowers, the cup — a satisfying collective return, the spell breaking as if nothing happened.
 LIGHTING-IN-MOTION: the concentrated light-corridor disperses back to even ambient warm as objects return.
-DIEGETIC AUDIO: the collective SNAP — a harmonic of chair-scrapes, swing-chimes and flower-rustles all at once like a chord; the bag-thud; café ambience rushing back to full volume; her quiet amused exhale.
-MASTER TRACK: the snap-back gets a single satisfying percussive hit; the bass-and-snap groove resumes warm.
+★ FRAME AUDIO — CLIP 4 (inside-prompt diegetic sound baked into this VEO clip; plays WITH the Outside Master Audio as one unified soundtrack):
+- DIEGETIC / SCENE SOUND: the bag-thud, the café ambience rushing back to full volume and her quiet amused exhale, around the collective SNAP.
+- SYNCHRONIZED IMPACT (THE HERO MOMENT): at EXACTLY the sit (~mid-clip) everything SNAPS back to neutral — chair-scrapes, swing-chimes and flower-rustles hit all at once like a single chord, and the music lands a single satisfying percussive hit as the bass-and-snap groove rushes warm back in. This is NOT a separate SFX: it fuses with the Master Audio's hit on the same frame, so the music itself snaps the room. Satisfying and tight, full but clean.
+- MIX: the SNAP-chord and percussive hit are the star; the murmur rushes back to full right after.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 5's START IMAGE must reproduce 100%, new angle only): at clip end the café is fully NEUTRAL again — chairs/pendants/flowers all at rest, ambient warm light even; Aira settled in the booth, ankles crossed, bag on the table, ivory blazer, glass-shine hair, private smile. CLIP 5 must open in this EXACT neutral-café/seated state (same neutral objects, same even light, same wardrobe/pose) — only the angle changes.
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 5 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: the ivory blazer relaxed at the shoulders, black turtleneck, gold chain prominent — identical state.
@@ -2968,8 +3048,10 @@ FABRIC/HAIR/PROP PHYSICS: steam curls from the cup and follows its path then ris
 FOOTWORK & BODY FLOW: a relaxed seated ease.
 MID-CLIP TRANSFORMATION (timed): NONE — a contented beat in the neutral café (the magic has settled).
 LIGHTING-IN-MOTION: warm and steady; the cup's steam catches a backlight wisp.
-DIEGETIC AUDIO: the cup lift (ceramic-on-saucer scrape); a tiny espresso-surface wobble; her small quiet sip; a contented exhale; full café ambience restored — clinks, murmur, soft music.
-MASTER TRACK: the warm sax/trumpet motif settles into contentment over the bass.
+★ FRAME AUDIO — CLIP 5 (inside-prompt diegetic sound baked into this VEO clip; plays WITH the Outside Master Audio as one unified soundtrack):
+- DIEGETIC / SCENE SOUND: the cup lift (ceramic-on-saucer scrape), a tiny espresso-surface wobble, her small quiet sip, a contented exhale and the full café ambience restored — clinks, murmur, soft music.
+- SYNCHRONIZED IMPACT: none — settled after-state; the room is neutral again. Let the Master Audio's warm sax/trumpet motif settle into contentment.
+- MIX: warm and full, the restored café ambience around her sip.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 6's START IMAGE must reproduce 100%, then RESET): at clip end Aira sits content in the neutral café, espresso in hand, ivory blazer, glass-shine hair. CLIP 6 must open by RESETTING to the café-entrance — she rises and returns to the door, the café neutral, restoring the CLIP-1 opening.
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 6 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: the ivory blazer, black turtleneck bodysuit, charcoal trousers, gold-buckle belt — matched to CLIP 1.
@@ -3030,8 +3112,10 @@ FABRIC/HAIR/PROP PHYSICS: the door swings with heavy-glass inertia; the hair swi
 FOOTWORK & BODY FLOW: a decisive stride toward the threshold — the CLIP-1 entrance.
 MID-CLIP TRANSFORMATION (timed): the magic RESETS — café fully neutral; the next loop re-triggers the turn as her foot next crosses the threshold (the start of CLIP 1).
 LIGHTING-IN-MOTION: the daylight slash returns as the door opens — matched to CLIP 1.
-DIEGETIC AUDIO: the heavy door push (whoosh and brass click); a heel-strike; café murmur at normal volume; daylight entering — back to the CLIP-1 bed.
-MASTER TRACK: the score strips to the opening sub-bass pulse, looping cleanly.
+★ FRAME AUDIO — CLIP 6 (inside-prompt diegetic sound baked into this VEO clip; plays WITH the Outside Master Audio as one unified soundtrack):
+- DIEGETIC / SCENE SOUND: the heavy door push (whoosh and brass click), a heel-strike, café murmur at normal volume and daylight entering — back to the exact CLIP-1 bed.
+- SYNCHRONIZED IMPACT: none — the reset/loop beat; let the score strip to the opening sub-bass pulse so the loop back to CLIP 1 is seamless and invisible.
+- MIX: ease back to the opening sub-bass pulse + CLIP-1 café bed; loop-seed near 7.8s.
 END STATE / STATE-MATCH LOCK: clip ends in the EXACT door-entrance state and wide angle of CLIP 1's START IMAGE — neutral café, wardrobe and confident expression matched, so the reel loops seamlessly.
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 1 (LOOP back to opening) — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: the sharply-cut ivory blazer over the black silk turtleneck bodysuit, high-waist charcoal trousers, thin black belt with a gold buckle; crisp, commanding.
@@ -3052,24 +3136,25 @@ END STATE / STATE-MATCH LOCK: clip ends in the EXACT door-entrance state and wid
 
 CUT LOGIC: ANGLE-CUT / LOOP back to CLIP 1; the next pass re-triggers the room turning toward her as she crosses the threshold.
 
-### ☆ EXTERNAL AUDIO — BLOCK 1: BACKGROUND SOUND DESIGN / AMBIENCE BED — B-2
-*The layered foley + ambience to lay UNDER the reel, separate from the in-clip diegetic audio — timed to the clips.*
-- Base bed (all clips): a warm artisan-café ambience — low murmur, cup-clinks, a soft espresso-machine hiss, gentle background music far off.
-- Trigger stamp (entry): a heavy glass-door whoosh + brass click; a sharp decisive heel-strike on the threshold.
-- CLIP 1–2 (the turn): the subtle creak/scrape of pivoting chairs; soft chimes from swinging pendants; a paused espresso-drip; the café murmur DIPPING in volume as she enters.
-- CLIP 3 (magnetic look): near-silence — murmur fully hushed; a single soft low heartbeat-thud.
-- CLIP 4 (snap-back): the satisfying collective SNAP — chair-scrapes, swing-chimes, flower-rustles all at once like a chord; a leather bag-thud; café murmur RUSHING back to full.
-- CLIP 5 (espresso): a ceramic cup-scrape; a tiny surface-wobble; a small sip.
-- CLIP 6 (reset): the door whoosh and heel-strike returning to the CLIP-1 level.
-- Mix note: the murmur's volume is a character — it dips on entry, hushes at the close-up, rushes back on the snap; loops cleanly at ~26s.
-
-### ☆ EXTERNAL AUDIO — BLOCK 2: BACKGROUND MUSIC / SCORE TRACK — B-2 (lay under the sound bed)
-- Genre / vibe: a slow-burn cinematic bass-driven groove — confident, magnetic, minimal. Runway music meets film score.
-- Tempo / key: ~95 BPM, D minor, deep and luxe.
-- Core elements: a deep sub-bass pulse; a crisp finger-snap on the 2 and 4 (matching her heels); a warm muted-trumpet/sax motif (short, cool); a cinematic string swell for the close-up; sparse, leaving room for diegetic.
-- Arc: bass pulse on the threshold-cross (CLIP 1) → snap and motif build through the walk (CLIP 2) → near-silence at the close-up (CLIP 3 — only a sub-bass heartbeat) → a satisfying percussive hit on the snap-back (CLIP 4) → warm sax settles into contentment (CLIP 5) → strips to the opening bass pulse (CLIP 6 loop).
-- Texture note: keep stripped and confident — her walk has its own soundtrack.
-- Loop: a clean ~26s loop matching the visual loop point.
+### ★ OUTSIDE MASTER AUDIO — B-2 (the single composed MUSIC track — generate in your music tool; lays under all 6 clips as one unified soundtrack with the Frame Audio)
+RUNTIME: exactly 48.000s = 6 clips × 8.000s · KEY: D minor (deep and luxe) · TEMPO: ~95 BPM · composed for this EXACT length — never looped, stretched, cut, or faded out.
+EMOTIONAL TARGET: confident, magnetic slow-burn — runway-cool command on entry, a held breathless magnetism, a satisfying snap, then settled contentment.
+NO FADE-IN — OPENS AT FULL PRESENCE: at 0:00.000 the deep sub-bass pulse + crisp finger-snap are already grooving at full level; the confidence lands within the first second, no swell-from-silence.
+INSTRUMENT PALETTE (emotion-matched — Power / Luxury): a deep sub-bass pulse, a crisp finger-snap on the 2 and 4 (matching her heels), a warm muted-trumpet/sax motif (short, cool), a cinematic string swell for the close-up; sparse, leaving room for diegetic.
+VOCALS: none required (an optional breath-texture only if it adds cool).
+ARRANGEMENT (timed to picture):
+- 0:00–0:08 (C1): the deep sub-bass pulse drops in on the threshold-cross; finger-snap matching her heels.
+- 0:08–0:16 (C2): the warm muted-trumpet motif enters over the bass-and-snap as she strides.
+- 0:16–0:24 (C3): near-silence — only a sub-bass heartbeat under the held magnetic close-up.
+- 0:24–0:32 (C4): a single satisfying percussive hit on the snap-back; the bass-and-snap groove rushes warm back in.
+- 0:32–0:40 (C5): the warm sax/trumpet motif settles into contentment over the bass.
+- 0:40–0:48 (C6): strips to the opening sub-bass pulse; final downbeat lands at 0:47.8 on the 0:00 voicing.
+★ SYNCHRONIZED IMPACTS (musically integrated — the MUSIC itself expands at these exact frames; never a separate inserted SFX; tuned to the track's key, tone and energy):
+- ~0:03 (C1 — threshold-cross, the room turns): the deep sub-bass pulse drops in, the music itself turning the room toward her.
+- 0:24–0:25 (C4 — sit, everything SNAPS back): a single satisfying percussive hit fused with the collective SNAP-chord as the groove rushes back.
+- (C3 is near-silence by design — the held magnetism is the absence of sound, no hit; C2/C5/C6 ride the groove. Precision over quantity.)
+LOOP LOCK: the phrase resolves at 48.000s onto the 0:00 downbeat — seamless. FEEL: magnetic, luxe, slow-burn.
+(NOTE: this single Outside block replaces the old two-block system; all diegetic/ambience now lives in the per-clip ★ FRAME AUDIO above.)
 
 ---
 
@@ -3142,8 +3227,10 @@ FABRIC/HAIR/PROP PHYSICS: braids sway with the shoulder-sway at correct pendulum
 FOOTWORK & BODY FLOW: an easy weight-sway to the emerging rhythm.
 MID-CLIP TRANSFORMATION (timed — heavy detail): ★ GENRE-MORPH NEUTRAL→JAZZ at 2.4–7.2s, triggered by the skip. The clean kitchen morphs: white tiles deepen to midnight-blue, shelves dissolve into smoky shadow, the window becomes a glowing amber lamp, atmospheric haze drifts in, the stove-light becomes a warm amber spot, a suggestion of brass instruments hangs in shadow — a jazz-club kitchen. Warm amber spot-light replaces the bright daylight.
 LIGHTING-IN-MOTION: bright neutral daylight morphs to a moody amber single-spot with deep shadows and haze-beams.
-DIEGETIC AUDIO: a simmering pot; a faint ending track; the phone tap; a beat of silence; then smooth jazz fills the space — upright bass, brushed snares, a warm muted trumpet.
-MASTER TRACK: (this concept IS about music) — the jazz section: upright bass, brushed drums, muted-trumpet solo, warm Rhodes.
+★ FRAME AUDIO — CLIP 1 (inside-prompt diegetic sound baked into this VEO clip; plays WITH the Outside Master Audio as one unified soundtrack):
+- DIEGETIC / SCENE SOUND: a simmering pot with rising-steam fizz, a faint ending track, a clean phone-screen tap and a tiny beat of silence; then smooth jazz fills the space — upright bass, brushed snares, a warm muted trumpet — with a smoky club room-reverb settling in and a faint vinyl warmth.
+- SYNCHRONIZED IMPACT: at the song-skip (~mid-clip, the kitchen morphs into a JAZZ club — environment change) after a beat of silence the smooth jazz DROPS in and the room becomes a smoky club. This is the music itself arriving, fused with the Master Audio's jazz section on the same frame, so the genre-change IS the score. Warm and smooth — a settle, never a boom.
+- MIX: the phone-tap clean, the beat of silence loaded; the jazz blooms the room-reverb wide.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 2's START IMAGE must reproduce 100%, new angle only): at clip end the kitchen is a full JAZZ CLUB — midnight-blue surfaces, smoky shadow shelves, an amber-lamp window, drifting haze, a warm amber spot, brass-instrument shadows; Aira mid-sway with the wooden spoon, burnt-orange top glowing amber, braids. CLIP 2 must open in this EXACT jazz-club world (same midnight-blue, same haze, same amber spot, same wardrobe) — only the camera angle changes.
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 2 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: the burnt-orange knit top in profile glowing deep amber, cream pants, apron — identical state (transformed only by light).
@@ -3204,8 +3291,10 @@ FABRIC/HAIR/PROP PHYSICS: haze clears and confetti-dots appear with light paper-
 FOOTWORK & BODY FLOW: a weight-shift from sultry sway into a bouncy head-bob.
 MID-CLIP TRANSFORMATION (timed — heavy detail): ★ GENRE-MORPH JAZZ→POP at 2.4–7.2s, triggered by the skip. The haze clears, midnight-blue flips to candy-pink walls and electric-cyan accents, glossy surfaces, confetti-dots drifting, the window projecting a sunny animation, cookbooks becoming bright geometric shapes, a disco-ball scatter from the light — maximum pop-candy. Bright flat high-key light replaces the moody spot.
 LIGHTING-IN-MOTION: moody amber morphs to bright flat candy-coloured high-key (pink one side, cyan the other), disco-dots scattering.
-DIEGETIC AUDIO: the jazz fading; the tap; a beat of silence; then a bright pop beat drops — synths, claps, a catchy vocal hook; a delighted gasp.
-MASTER TRACK: the pop section — bright synth chords, a clap-snap beat, a vocal-chop hook, bubbly bass.
+★ FRAME AUDIO — CLIP 2 (inside-prompt diegetic sound baked into this VEO clip; plays WITH the Outside Master Audio as one unified soundtrack):
+- DIEGETIC / SCENE SOUND: the jazz fading, the phone-tap, a beat of silence; then a bright pop beat drops — synths, claps, a catchy vocal hook — with a bright room-pop, a confetti-shimmer and a disco scatter tick; a delighted gasp.
+- SYNCHRONIZED IMPACT: at the song-skip (~mid-clip, the kitchen morphs into POP candy — environment change) after a beat of silence the bright pop beat DROPS — claps, synths, vocal-chop — and the room flips bright and bubbly. Fused with the Master Audio's pop section on the same frame, so the drop IS the genre-change. Bright and punchy (a joyful four-on-the-floor drop, energetic but never heavy).
+- MIX: the beat of silence then the candy-bright drop; the room-pop opens bouncy.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 3's START IMAGE must reproduce 100%, new angle only): at clip end the kitchen is full POP CANDY — candy-pink walls, electric-cyan accents, glossy surfaces, drifting confetti, disco-dots, bright high-key; Aira mid head-bob, burnt-orange top now vivid coral in the light, braids bouncing. CLIP 3 must open in this EXACT pop world (same pink/cyan, same confetti, same bright light, same wardrobe) — only the angle changes.
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 3 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: the burnt-orange top neckline, now lit vivid near-coral, apron strap — identical state.
@@ -3266,8 +3355,10 @@ FABRIC/HAIR/PROP PHYSICS: confetti vanishes; marble veins spread and gold appear
 FOOTWORK & BODY FLOW: from a bouncy bob into a poised, upright stillness.
 MID-CLIP TRANSFORMATION (timed — heavy detail): ★ GENRE-MORPH POP→CLASSICAL at 2.4–7.2s, triggered by the skip. The candy kitchen morphs to palace-grand: tiles become white marble with gold veining, shelves become carved gilt, a crystal chandelier replaces the pendant, the window becomes a tall arched palace window onto formal gardens, gold accents everywhere — warm golden chandelier light replaces the bright candy key.
 LIGHTING-IN-MOTION: bright candy high-key morphs to warm golden chandelier light from above, prismatic crystal-scatter dots appearing.
-DIEGETIC AUDIO: the pop fading; the tap; a beat; then a classical orchestral swell — strings, harp, a french-horn motif; a chandelier tinkle; a palace-reverb on the room tone.
-MASTER TRACK: the classical section — full strings, harp arpeggios, french horn, a grand piano.
+★ FRAME AUDIO — CLIP 3 (inside-prompt diegetic sound baked into this VEO clip; plays WITH the Outside Master Audio as one unified soundtrack):
+- DIEGETIC / SCENE SOUND: the pop fading, the phone-tap, a beat; then a classical orchestral swell — strings, harp, a french-horn motif — with a chandelier tinkle and a grand palace-reverb on the room tone.
+- SYNCHRONIZED IMPACT: at the song-skip (~mid-clip, the kitchen morphs into a CLASSICAL palace — environment change) after a beat the orchestra SWELLS in — strings, harp, french horn — and the room becomes a grand palace with chandelier reverb. Fused with the Master Audio's classical section on the same frame, so the swell IS the genre-change. Grand and regal — a swell-crest, never a harsh boom.
+- MIX: the beat of silence then the orchestral swell; the palace-reverb opens cavernous.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 4's START IMAGE must reproduce 100%, new angle only): at clip end the kitchen is a gilded CLASSICAL PALACE — white-and-gold marble, carved gilt shelves, a crystal chandelier, an arched garden window, warm golden light, prismatic scatter; Aira composed and regal, burnt-orange top reading rich, braids formal. CLIP 4 must open in this EXACT palace world (same marble/gold, same chandelier, same golden light, same wardrobe) — only the angle changes.
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 4 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: the burnt-orange knit top reading regal in golden light, cream pants, apron now like formal linen — identical state.
@@ -3328,8 +3419,10 @@ FABRIC/HAIR/PROP PHYSICS: chandelier crystals sway and throw moving prismatic do
 FOOTWORK & BODY FLOW: a poised, grounded stillness.
 MID-CLIP TRANSFORMATION (timed): NONE new — the palace holds; this is the regal/spoken beat before the break-character revert in CLIP 5.
 LIGHTING-IN-MOTION: golden chandelier light steady; prismatic crystal-scatter dancing across her and the marble.
-DIEGETIC AUDIO: the classical swell (strings, harp, french horn); the chandelier tinkle; her dry spoken aside (close, natural Indian accent); a palace-reverb room tone.
-MASTER TRACK: the classical section at its grandest under the spoken line, which sits in a small orchestral lull.
+★ FRAME AUDIO — CLIP 4 (inside-prompt diegetic sound baked into this VEO clip; plays WITH the Outside Master Audio as one unified soundtrack):
+- DIEGETIC / SCENE SOUND: the classical swell (strings, harp, french horn), the chandelier tinkle, her dry spoken aside (close, natural Indian accent — left untouched) and a palace-reverb room tone.
+- SYNCHRONIZED IMPACT: none — no new genre-skip; the classical simply holds at its grandest while she delivers the aside, which sits in a small orchestral lull. No transformation in this clip.
+- MIX: the spoken aside sits dry in a small orchestral lull within the grand palace reverb.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 5's START IMAGE must reproduce 100%, new angle only): at clip end the palace holds full and gilded; Aira regal with the spoon-sceptre, self-amusement breaking through, burnt-orange top, formal braids. CLIP 5 must open in this EXACT palace state (same gilt/marble, same chandelier, same wardrobe/pose) — only the angle changes; the revert happens within CLIP 5.
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 5 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: the burnt-orange top and cream pants returning to their normal reading as the gold light fades — identical state.
@@ -3390,8 +3483,10 @@ FABRIC/HAIR/PROP PHYSICS: the chandelier shrinks and the marble fades with belie
 FOOTWORK & BODY FLOW: a laugh-bend then a straightening, weight easy.
 MID-CLIP TRANSFORMATION (timed — heavy detail): ★ GENRE-REVERT PALACE→NEUTRAL at 3.0–7.0s — as she laughs, the palace dissolves back to the normal modern kitchen: chandelier→pendant, marble→subway tile, gilt→oak, garden window→normal window; warm afternoon daylight returns.
 LIGHTING-IN-MOTION: gold drains; warm afternoon daylight returns; the kitchen clarifies.
-DIEGETIC AUDIO: the classical fading; her genuine warm laugh (musical, authentic); the spoon clatter; the pot bubbling normally; the normal kitchen ambience returning; a final happy sigh.
-MASTER TRACK: the classical thins; a brief warm resolve as the music returns toward the neutral ambient.
+★ FRAME AUDIO — CLIP 5 (inside-prompt diegetic sound baked into this VEO clip; plays WITH the Outside Master Audio as one unified soundtrack):
+- DIEGETIC / SCENE SOUND: the classical fading, her genuine warm laugh (musical, authentic), the spoon clatter, the pot bubbling normally, the normal kitchen ambience returning and a final happy sigh.
+- SYNCHRONIZED IMPACT: at her laugh (~mid-clip, the kitchen REVERTS to normal — environment change) the classical thins and un-builds with a soft reverse-shimmer as the room snaps back to its plain kitchen ambience — fused with the Master Audio's brief warm resolve on the same frame, so the music dissolving IS the revert. Warm and gentle — a release, not a boom.
+- MIX: the grand reverb collapses to the plain kitchen room-tone around her real laugh.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 6's START IMAGE must reproduce 100%, then loop): at clip end the kitchen is back to its clean modern neutral state — subway tile, oak shelves, simmering pot, window, warm afternoon daylight; Aira straightening from the laugh, burnt-orange top, braids, warm grin softening. CLIP 6 must open in this EXACT neutral kitchen (same tile/oak/pot, same daylight, same wardrobe) — only the angle changes, matching CLIP 1.
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 6 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: burnt-orange ribbed knit top, cream wide-leg pants, linen apron — matched to CLIP 1.
@@ -3452,8 +3547,10 @@ FABRIC/HAIR/PROP PHYSICS: braids settle; the spoon rests with correct weight; th
 FOOTWORK & BODY FLOW: weight rolls onto the leaning hip — the CLIP-1 stance.
 MID-CLIP TRANSFORMATION (timed): the kitchen RESETS to neutral; the next loop re-triggers the genre-morphs as she next taps skip (the start of CLIP 1).
 LIGHTING-IN-MOTION: warm afternoon daylight steady — matched to CLIP 1.
-DIEGETIC AUDIO: a fading track; the pot simmer; the spoon set-down; her small "next" breath — back to the CLIP-1 bed.
-MASTER TRACK: the medley resolves to the neutral kitchen ambience, looping cleanly.
+★ FRAME AUDIO — CLIP 6 (inside-prompt diegetic sound baked into this VEO clip; plays WITH the Outside Master Audio as one unified soundtrack):
+- DIEGETIC / SCENE SOUND: a fading track, the pot simmer, the spoon set-down and her small "next" breath — back to the exact CLIP-1 bed.
+- SYNCHRONIZED IMPACT: none — the reset/loop beat; the medley resolves to the neutral kitchen ambience so the loop back to CLIP 1 (and the first jazz-skip) is seamless and invisible.
+- MIX: ease back to the neutral kitchen room-tone + simmering pot; loop-seed near 7.8s.
 END STATE / STATE-MATCH LOCK: clip ends in the EXACT neutral-kitchen state and wide angle of CLIP 1's START IMAGE — pot, light, wardrobe and concentration matched, so the reel loops seamlessly.
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 1 (LOOP back to opening) — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: the fitted burnt-orange ribbed knit top, high-waist cream wide-leg linen pants, a small linen apron tied at the waist; fresh and cosy.
@@ -3474,25 +3571,27 @@ END STATE / STATE-MATCH LOCK: clip ends in the EXACT neutral-kitchen state and w
 
 CUT LOGIC: ANGLE-CUT / LOOP back to CLIP 1; the next pass re-triggers the genre-morphs on the first skip.
 
-### ☆ EXTERNAL AUDIO — BLOCK 1: BACKGROUND SOUND DESIGN / AMBIENCE BED — B-3
-*The layered foley + per-genre ambience to lay UNDER the reel, separate from the in-clip diegetic audio — timed to the clips.*
-- Base bed (all clips): a soft kitchen room-tone; a simmering pot with rising-steam fizz; herbs stirring in a draft.
-- Trigger stamp (every skip): a clean phone-screen tap + a tiny beat of silence before the new genre lands.
-- CLIP 1 (→ jazz): a smoky club room-reverb settling in; a faint vinyl warmth.
-- CLIP 2 (→ pop): a bright room-pop; a confetti-shimmer; a disco scatter tick.
-- CLIP 3 (→ classical): a grand palace-reverb; a chandelier tinkle.
-- CLIP 4 (regal/spoken): the palace reverb under the spoken aside.
-- CLIP 5 (laugh/revert): the morph "un-builds" with a soft reverse-shimmer; a spoon clatter; the normal kitchen ambience returning.
-- CLIP 6 (reset): a fading track; pot simmer; back to the CLIP-1 bed.
-- Mix note: the room's reverb/ambience genre-shifts with each skip (club → bright → palace → normal); loops cleanly at ~28s.
-
-### ☆ EXTERNAL AUDIO — BLOCK 2: BACKGROUND MUSIC / SCORE TRACK — B-3 (the music she is playing)
-- Genre / vibe: this concept IS about music, so the music block is a MEDLEY that shifts genre with the kitchen-morph — the actual tracks she skips to.
-- Tempo / key: shifts — jazz (~100 BPM, Bb minor, swing) → pop (~120 BPM, C major, four-on-floor) → classical (~70 BPM, D major, orchestral) → neutral ambient on the loop.
-- Core elements per section: Jazz — upright bass, brushed snares, muted-trumpet solo, warm Rhodes. Pop — bright synth chords, clap-snap beat, vocal-chop hook, bubbly bass. Classical — full strings, harp arpeggios, french horn, grand piano.
-- Arc: ambient kitchen on CLIP 1 → jazz fills the room (CLIP 1 end–2) → brief silence on the skip → pop drops (CLIPs 2 end–3) → brief silence → classical swells (CLIPs 3 end–4) → the laugh breaks it (CLIP 5) → returns to ambient kitchen on the loop (CLIP 6).
-- Texture note: each genre section sounds complete and authentic, never parody — the joke is the environment morphing, not the music being ironic.
-- Loop: a clean ~28s loop matching the visual loop point.
+### ★ OUTSIDE MASTER AUDIO — B-3 (the single composed MUSIC track — generate in your music tool; lays under all 6 clips as one unified soundtrack with the Frame Audio)
+RUNTIME: exactly 48.000s = 6 clips × 8.000s · KEY/TEMPO: a genre-shifting MEDLEY (this concept IS about music) — jazz (~100 BPM, Bb minor, swing) → pop (~120 BPM, C major, four-on-the-floor) → classical (~70 BPM, D major, orchestral) → neutral ambient on the loop · composed for this EXACT length — never looped, stretched, cut, or faded out.
+EMOTIONAL TARGET: playful delight — each song-skip transforms the whole kitchen's world, smoky-cool → bubbly-joy → regal grandeur, breaking into a real laugh, then home.
+NO FADE-IN — OPENS AT FULL PRESENCE: at 0:00.000 the soft kitchen ambient + the tail of an ending track are already present at full level; within the first clip the first jazz-skip lands — no swell-from-silence.
+INSTRUMENT PALETTE (emotion-matched per genre — Beauty / Dream / Power): Jazz — upright bass, brushed snares, muted-trumpet solo, warm Rhodes. Pop — bright synth chords, clap-snap beat, vocal-chop hook, bubbly bass. Classical — full strings, harp arpeggios, french horn, grand piano. Neutral — soft kitchen ambient.
+VOCALS: a pop vocal-chop hook in the pop section; one dry SPOKEN aside in CLIP 4 sits in an orchestral lull (left untouched); otherwise instrumental.
+ARRANGEMENT (timed to picture):
+- 0:00–0:08 (C1): neutral ambient → after the first skip smooth JAZZ fills the room (upright bass, brushed snares, muted-trumpet, Rhodes).
+- 0:08–0:16 (C2): jazz fades on the skip → a brief silence → bright POP drops (synths, clap-snap, vocal-chop, bubbly bass).
+- 0:16–0:24 (C3): pop fades on the skip → a brief silence → CLASSICAL swells (full strings, harp arpeggios, french horn, grand piano).
+- 0:24–0:32 (C4): the classical holds at its grandest; the spoken aside sits in a small orchestral lull (no skip).
+- 0:32–0:40 (C5): the classical thins and un-builds with a soft reverse-shimmer as her laugh reverts the kitchen to normal.
+- 0:40–0:48 (C6): the medley resolves to the neutral kitchen ambient; primes the loop at 0:47.8.
+★ SYNCHRONIZED IMPACTS (musically integrated — the MUSIC itself expands at these exact frames; never a separate inserted SFX; tuned to each section's key, tone and energy):
+- ~0:06 (C1 — skip → JAZZ club): after a beat of silence the smooth jazz drops in, the music itself morphing the room (warm, a settle).
+- ~0:12 (C2 — skip → POP candy): after a beat the bright pop beat drops, the room flipping bubbly (a joyful four-on-the-floor drop).
+- ~0:20 (C3 — skip → CLASSICAL palace): after a beat the orchestra swells grand, the room becoming a palace (a regal swell-crest).
+- ~0:34 (C5 — laugh → kitchen reverts): the classical un-builds with a soft reverse-shimmer, the music dissolving back to normal (a warm release).
+- (C4 holds with the spoken aside, no impact; C6 resolves to ambient to loop. Precision over quantity.)
+LOOP LOCK: the medley resolves at 48.000s onto the 0:00 neutral-kitchen downbeat — seamless. FEEL: playful, transformative, joyful.
+(NOTE: this single Outside block replaces the old two-block system; all diegetic/ambience now lives in the per-clip ★ FRAME AUDIO above.)
 
 ---
 
@@ -3565,8 +3664,10 @@ FABRIC/HAIR/PROP PHYSICS: the phone buzz vibrates a micro-slide on the velvet, t
 FOOTWORK & BODY FLOW: a seated lean and reach, weight shifting on the cushions.
 MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE SLIDE at 2.4–4.8s — triggered by her reach, the phone slides away across the cushion just out of reach, leaving a faint trail-indent in the velvet nap; the candle flame leans as if stifling a laugh.
 LIGHTING-IN-MOTION: the phone glow moves with the slide, dragging a small light-trail across the velvet and her hand.
-DIEGETIC AUDIO: the phone buzz (sharp, insistent); a soft gasp; the velvet slide (a soft shushing friction); candle crackle; rain on glass.
-MASTER TRACK: a quiet plucked acoustic guitar with vinyl-crackle; muted pizzicato strings entering on the slide (comedic tension).
+★ FRAME AUDIO — CLIP 1 (inside-prompt diegetic sound baked into this VEO clip; plays WITH the Outside Master Audio as one unified soundtrack):
+- DIEGETIC / SCENE SOUND: the phone buzz (sharp, insistent), a soft gasp, the velvet slide (a soft shushing friction), candle crackle and rain on glass.
+- SYNCHRONIZED IMPACT: at her reach (~mid-clip, the magic FIRST manifests — the phone SLIDES away) a light comedic pizzicato "slide" accent nudges the phone across the velvet — fused with the Master Audio's muted pizzicato entering on the same frame, so the music itself slides the phone. Playful comedic tension, never a boom.
+- MIX: cosy and warm; the velvet-slide shush is the signature foley over the soft guitar.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 2's START IMAGE must reproduce 100%, new angle only): at clip end the phone sits glowing just out of reach across the velvet, a trail-indent in the nap; Aira leaning, indignant-disbelieving, camel sweater, French twist, the cosy room warm around. CLIP 2 must open in this EXACT state (same phone position, same velvet trail, same warm room, same wardrobe/lean) — only the camera angle changes.
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 2 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: the camel cashmere sweater at the shoulder, cowl neck — identical state.
@@ -3627,8 +3728,10 @@ FABRIC/HAIR/PROP PHYSICS: the phone has believable weight in her cupped grip; th
 FOOTWORK & BODY FLOW: a protective curl over the phone.
 MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE DEATH at 3.0–5.0s — triggered by her tap, the screen goes/stays pointedly black and unresponsive despite escalating taps; the phone playing dead in her hands.
 LIGHTING-IN-MOTION: no phone glow (the void); amber lamp steady; candle flickers.
-DIEGETIC AUDIO: her thumb-taps on glass (tap, tap, harder tap); an exasperated sigh; the phone making NO sound at all (pointedly silent); candle crackle; rain.
-MASTER TRACK: the pizzicato strings tick up the comedic tension over the guitar.
+★ FRAME AUDIO — CLIP 2 (inside-prompt diegetic sound baked into this VEO clip; plays WITH the Outside Master Audio as one unified soundtrack):
+- DIEGETIC / SCENE SOUND: her escalating thumb-taps on glass (tap, tap, harder tap), an exasperated sigh, the phone making NO sound at all (pointedly silent), candle crackle and rain.
+- SYNCHRONIZED IMPACT: none — the gag here is pointed SILENCE (the dead screen makes no sound); the comedy is the absence. The Master Audio's pizzicato ticks up the tension without a hero hit.
+- MIX: the pointed phone-silence sits inside the wry pizzicato; warm, never slapstick.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 3's START IMAGE must reproduce 100%, new angle only): at clip end she holds the dead-black phone, irritated; the cosy room warm around, candle flickering; camel sweater, French twist. CLIP 3 must open in this EXACT state (same dead phone in hand, same warm room, same wardrobe/mood) — only the angle changes; the screen lights but scrambles within CLIP 3.
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 3 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: the camel sweater in profile, cowl neck draping — identical state.
@@ -3689,8 +3792,10 @@ FABRIC/HAIR/PROP PHYSICS: the keyboard letters scramble and shift in real time; 
 FOOTWORK & BODY FLOW: an upright lean toward the phone.
 MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE SCRAMBLE at 3.0–6.0s — triggered by her attempt to type, the keyboard letters scramble into glowing nonsense and physically dodge her thumb; correct contact produces wrong gibberish letters.
 LIGHTING-IN-MOTION: the scrambled screen flashes shifting colours across her profile.
-DIEGETIC AUDIO: rapid soft screen-taps; a comical quiet scramble-sound (like shuffling cards) each time keys move; a frustrated grunt; a gibberish notification ping; candle crackle.
-MASTER TRACK: the pizzicato gets playful percussive taps matching her dodged-key chase.
+★ FRAME AUDIO — CLIP 3 (inside-prompt diegetic sound baked into this VEO clip; plays WITH the Outside Master Audio as one unified soundtrack):
+- DIEGETIC / SCENE SOUND: rapid soft screen-taps, a comical quiet scramble-sound (like shuffling cards) each time the keys move, a frustrated grunt, a gibberish notification ping and candle crackle.
+- SYNCHRONIZED IMPACT: none — an escalation of the same ongoing gag, not a new transformation; the Master Audio's playful percussive pizzicato taps ride the groove matching her dodged-key chase.
+- MIX: the card-shuffle scramble is the signature foley, ticking along with the playful pizzicato.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 4's START IMAGE must reproduce 100%, new angle only): at clip end the phone shows a scrambled colourful keyboard, her thumb mid-chase; the cosy room warm around; camel sweater, French twist. CLIP 4 must open in this EXACT state (same scrambled screen, same hands, same warm room) — only the angle changes (to the macro screen view).
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 4 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: a camel cashmere cuff at the wrist edge of frame.
@@ -3751,8 +3856,10 @@ FABRIC/HAIR/PROP PHYSICS: keys slide left/jump rows as her thumb lands; thumb-im
 FOOTWORK & BODY FLOW: hands only — increasing tap-speed.
 MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE DODGE at 3.0–6.0s — triggered by her typing attempts, the keys physically dodge her thumb and the text fills with gibberish; the phone's resistance at its most stubborn.
 LIGHTING-IN-MOTION: the keys flash colours as they scramble; the glow flickers on her thumbs.
-DIEGETIC AUDIO: rapid soft screen-taps; a tiny card-shuffle scramble per key-move; an off-screen frustrated grunt; a gibberish ping.
-MASTER TRACK: a playful muted-trumpet "wah" enters, teasing the comedy.
+★ FRAME AUDIO — CLIP 4 (inside-prompt diegetic sound baked into this VEO clip; plays WITH the Outside Master Audio as one unified soundtrack):
+- DIEGETIC / SCENE SOUND: rapid soft screen-taps, a tiny card-shuffle scramble per key-move, an off-screen frustrated grunt and a gibberish ping.
+- SYNCHRONIZED IMPACT: none — still the same escalating gag at macro scale, not a hero transformation; a playful muted-trumpet "wah" teases over the groove without a hero hit.
+- MIX: macro and intimate; the scramble-shuffles tick under the teasing trumpet.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 5's START IMAGE must reproduce 100%, new angle only): at clip end the screen is full gibberish, keys dodging, her thumbs trembling with exasperation; the navy cushion and warm room around. CLIP 5 must open by pulling back to the full scene in this state (same scrambled phone, same warm room, same wardrobe) — then she surrenders within CLIP 5.
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 5 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: the camel cashmere sweater, black silk lounge pants, the throw kicked aside — comfortable defeat.
@@ -3813,8 +3920,10 @@ FABRIC/HAIR/PROP PHYSICS: the phone rotates in the air and lands face-down with 
 FOOTWORK & BODY FLOW: a full sink-back into the cushions, hands folding on her chest.
 MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE RELIEF at 2.4–4.5s — triggered by the surrender-toss, the room exhales: a warm golden glow-pulse ripples from the landed phone, the lamp brightens, the candle steadies tall, the rain softens — the world rewarding her for not texting back; the phone's resistance-magic resolves.
 LIGHTING-IN-MOTION: the glow-pulse swells then settles to a richer steady warmth — the room one notch cosier than before.
-DIEGETIC AUDIO: the phone toss and velvet-thud; her dry spoken surrender line; the glow-pulse as a soft warm musical sigh (a room exhaling); the lamp-brighten hum; rain softening; her nose-laugh; candle crackle settling.
-MASTER TRACK: a warm "wah-wah" trumpet resolve and a pad-swell at the surrender — the emotional payoff.
+★ FRAME AUDIO — CLIP 5 (inside-prompt diegetic sound baked into this VEO clip; plays WITH the Outside Master Audio as one unified soundtrack):
+- DIEGETIC / SCENE SOUND: the phone toss and velvet-thud, her dry spoken surrender line (left untouched), the lamp-brighten hum, rain softening, her nose-laugh and the candle crackle settling.
+- SYNCHRONIZED IMPACT: at the SURRENDER toss (~mid-clip, the room EXHALES relief — a warm environment shift) the glow-pulse lands as a soft warm musical sigh and a warm muted-trumpet "wah-wah" resolve + pad-swell blooms — fused with the Master Audio's payoff on the same frame, so the music itself is the room exhaling. The emotional payoff — warm and affectionate, a sigh not a boom.
+- MIX: the room-exhale glow-pulse blooms warm; the spoken line sits in a music-pause before it.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 6's START IMAGE must reproduce 100%, then RESET): at clip end the room is at its warmest, the phone face-down, Aira sunk back with a private smile, camel sweater, twist undone-chic. CLIP 6 must open by RESETTING to the curled opening pose with the phone face-up and buzzing again — same warm room, same wardrobe.
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 6 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: the camel cashmere cowl-neck sweater, black silk lounge pants — matched to CLIP 1.
@@ -3875,8 +3984,10 @@ FABRIC/HAIR/PROP PHYSICS: the phone vibrates a micro-slide on the velvet; the th
 FOOTWORK & BODY FLOW: a seated curl into the cushions.
 MID-CLIP TRANSFORMATION (timed): the magic RESETS — phone buzzing face-up, room warm-neutral; the next loop re-triggers the phone's resistance when she next reaches (the start of CLIP 1).
 LIGHTING-IN-MOTION: phone glow returning to the CLIP-1 level.
-DIEGETIC AUDIO: the phone buzz (same insistent tone); a soft gasp; candle crackle; rain on glass — back to the CLIP-1 bed.
-MASTER TRACK: the guitar-and-crackle settles to the opening, looping cleanly.
+★ FRAME AUDIO — CLIP 6 (inside-prompt diegetic sound baked into this VEO clip; plays WITH the Outside Master Audio as one unified soundtrack):
+- DIEGETIC / SCENE SOUND: the phone buzz (same insistent tone), a soft gasp, candle crackle and rain on glass — back to the exact CLIP-1 bed.
+- SYNCHRONIZED IMPACT: none — the reset/loop beat; let the guitar-and-crackle settle to the opening so the loop back to CLIP 1 is seamless and invisible.
+- MIX: ease back to the quiet opening guitar + vinyl crackle + CLIP-1 rainy bed; loop-seed near 7.8s.
 END STATE / STATE-MATCH LOCK: clip ends in the EXACT curled opening state and three-quarter angle of CLIP 1's START IMAGE — phone buzzing, warm room, wardrobe and "oh no" expression matched, so the reel loops seamlessly.
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 1 (LOOP back to opening) — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: the soft oversized camel cashmere sweater, wide cowl neck, over black silk lounge pants; cosy and chic.
@@ -3897,24 +4008,25 @@ END STATE / STATE-MATCH LOCK: clip ends in the EXACT curled opening state and th
 
 CUT LOGIC: ANGLE-CUT / LOOP back to CLIP 1; the next pass re-triggers the phone's resistance when she reaches for it.
 
-### ☆ EXTERNAL AUDIO — BLOCK 1: BACKGROUND SOUND DESIGN / AMBIENCE BED — B-4
-*The layered foley + ambience to lay UNDER the reel, separate from the in-clip diegetic audio — timed to the clips.*
-- Base bed (all clips): a cosy rainy-evening room-tone; rain on the window throughout; a candle-crackle; a faint warm lamp hum.
-- CLIP 1 (buzz/slide): the phone buzz; a soft gasp; the velvet slide-shush.
-- CLIP 2 (dead screen): escalating thumb-taps on glass; an exasperated sigh; pointed phone-silence.
-- CLIP 3 (scramble): rapid taps; a card-shuffle scramble-sound per key-move; a gibberish ping.
-- CLIP 4 (macro dodge): rapid taps; tiny scramble-shuffles; a frustrated grunt.
-- CLIP 5 (surrender): the phone toss and velvet-thud; a warm glow-pulse "room sigh"; a lamp-brighten hum; rain softening; her nose-laugh.
-- CLIP 6 (reset): the phone buzz returning; a soft gasp; back to the CLIP-1 bed.
-- Mix note: comedic but warm — never slapstick; the velvet-slide and scramble-shuffles are the signature foley; loops cleanly at ~26s.
-
-### ☆ EXTERNAL AUDIO — BLOCK 2: BACKGROUND MUSIC / SCORE TRACK — B-4 (lay under the sound bed)
-- Genre / vibe: a warm, wry indie-pop groove — cosy, comedic, relatable. "The soundtrack to overthinking at midnight."
-- Tempo / key: ~88 BPM, warm major-minor blend (Em to G), gentle and wry.
-- Core elements: soft plucked acoustic guitar; a vinyl crackle; muted pizzicato strings for the comedic tension; a gentle bass-pulse; a warm synth pad; a playful muted-trumpet "wah-wah" at the surrender.
-- Arc: quiet guitar + crackle on CLIP 1 (tension) → pizzicato enters on the slide/dead-screen (CLIPs 2–3) → playful percussive taps on the scramble (CLIP 4) → a warm "wah-wah" and pad-swell at the surrender (CLIP 5 — the payoff) → gentle guitar settling on the loop (CLIP 6).
-- Texture note: comedic but affectionate — the humour is warm, never mocking; the spoken lines sit in music-pauses.
-- Loop: a clean ~26s loop matching the visual loop point.
+### ★ OUTSIDE MASTER AUDIO — B-4 (the single composed MUSIC track — generate in your music tool; lays under all 6 clips as one unified soundtrack with the Frame Audio)
+RUNTIME: exactly 48.000s = 6 clips × 8.000s · KEY: warm major-minor blend (Em to G) · TEMPO: ~88 BPM (gentle and wry) · composed for this EXACT length — never looped, stretched, cut, or faded out.
+EMOTIONAL TARGET: cosy, comedic, relatable — "the soundtrack to overthinking at midnight": wry tension escalating through the phone's resistance to a warm, affectionate surrender-payoff.
+NO FADE-IN — OPENS AT FULL PRESENCE: at 0:00.000 the soft plucked acoustic guitar + vinyl crackle are already at full level; the cosy wry mood lands within the first second, no swell-from-silence.
+INSTRUMENT PALETTE (emotion-matched — Beauty / Romance, warm wry indie): soft plucked acoustic guitar, a vinyl crackle, muted pizzicato strings for the comedic tension, a gentle bass-pulse, a warm synth pad, a playful muted-trumpet "wah-wah" at the surrender.
+VOCALS: one wry SPOKEN surrender line in CLIP 5 sits in a music-pause (left untouched); otherwise none.
+ARRANGEMENT (timed to picture):
+- 0:00–0:08 (C1): quiet guitar + crackle (tension); muted pizzicato enters on the phone-slide.
+- 0:08–0:16 (C2): the pizzicato ticks up the comedic tension over the guitar around the dead-screen silence.
+- 0:16–0:24 (C3): playful percussive pizzicato taps matching her dodged-key scramble-chase.
+- 0:24–0:32 (C4): a playful muted-trumpet "wah" enters, teasing the comedy at macro.
+- 0:32–0:40 (C5): a warm "wah-wah" trumpet resolve + pad-swell at the surrender — the payoff.
+- 0:40–0:48 (C6): gentle guitar + crackle settling to the opening; primes the loop at 0:47.8.
+★ SYNCHRONIZED IMPACTS (musically integrated — the MUSIC itself expands at these exact frames; never a separate inserted SFX; tuned to the track's key, tone and energy):
+- ~0:04 (C1 — reach makes the phone SLIDE, the magic begins): a light comedic pizzicato "slide" accent, the music itself nudging the phone away (playful, not a boom).
+- 0:32–0:36 (C5 — SURRENDER, room exhales relief): a warm muted-trumpet "wah-wah" resolve + pad-swell, the emotional payoff (a warm sigh, not a boom).
+- (C2 dead-screen is pointed silence; C3/C4 scramble-chase ride the playful pizzicato groove; C6 settles to loop. Precision over quantity.)
+LOOP LOCK: the phrase resolves at 48.000s onto the 0:00 downbeat — seamless. FEEL: cosy, wry, affectionate.
+(NOTE: this single Outside block replaces the old two-block system; all diegetic/ambience now lives in the per-clip ★ FRAME AUDIO above.)
 
 ---
 
@@ -3987,8 +4099,10 @@ FABRIC/HAIR/PROP PHYSICS: the coat swings with real wool weight and stride; the 
 FOOTWORK & BODY FLOW: a confident heel-to-toe first step, weight rolling forward.
 MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE DRESS-UP at 2.4–6.4s — triggered by her first heel-strike, the block transforms: neon-blue trim grows along the nearest building's architectural edges with correct perspective; a grey puddle becomes a mirror-pool reflecting a spectacular sunset sky that doesn't exist above; the dim streetlight begins morphing into crystal facets — the city dressing up in her wake.
 LIGHTING-IN-MOTION: grey flat light is invaded by electric-blue neon and warm mirror-puddle gold spreading from her path; the ambient lifts in her wake.
-DIEGETIC AUDIO: the taxi pulling away (engine, tire on wet road); her boot heel on the curb (decisive); a quiet city evening; then a soft electric hum-sizzle as the neon grows and a gentle chime as the puddle turns gold.
-MASTER TRACK: a deep sub-bass pulse only (grey), with the first synth-string layer entering on the heel-strike transformation.
+★ FRAME AUDIO — CLIP 1 (inside-prompt diegetic sound baked into this VEO clip; plays WITH the Outside Master Audio as one unified soundtrack):
+- DIEGETIC / SCENE SOUND: the taxi pulling away (engine, tire on wet road), her boot heel on the curb (decisive), a quiet drab city evening; then a soft electric hum-sizzle as the neon grows and a gentle chime as the puddle turns gold.
+- SYNCHRONIZED IMPACT: at EXACTLY the first heel-strike (~mid-clip, the first step TRANSFORMS the block — environment change) a neon hum-sizzle + golden puddle-chime lands as the first synth-string layer enters over the grey sub-bass — fused with the Master Audio on the same frame, so the music itself lights the block. Building and cinematic — the power-walk igniting.
+- MIX: grey and stripped, then the first transformation blooms the sub-bass wider.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 2's START IMAGE must reproduce 100%, new angle only): at clip end the nearest block has begun transforming — neon-blue trim on the building, a mirror-gold puddle, a crystallising streetlight; the rest of the street still grey ahead; Aira mid-stride, sunglasses low, black coat, red blouse, blowout. CLIP 2 must open in this EXACT state (same transformed-near/grey-far split, same neon and mirror-puddle, same wardrobe) — only the camera angle changes.
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 2 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: the black wool coat swinging in profile, the red mandarin-collar blouse visible, cigarette pants mid-stride — identical state.
@@ -4049,8 +4163,10 @@ FABRIC/HAIR/PROP PHYSICS: neon grows along architectural lines with correct pers
 FOOTWORK & BODY FLOW: rhythmic confident heel-strikes, weight rolling, a heel meeting the mirror-puddle with a golden splash.
 MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE SPREAD at 3.0–7.0s — triggered by her footsteps, the dress-up spreads: neon trim continues along the buildings, the puddle-mirror expands, the streetlight finishes morphing into a crystal chandelier, a grey pedestrian flushes vivid as they pass into her radius.
 LIGHTING-IN-MOTION: the neon-and-gold light-corridor intensifies along her path; warmth and electric colour pool in her wake.
-DIEGETIC AUDIO: rhythmic heel-clicks (the main beat); a quiet electric hum-sizzle of growing neon; a golden puddle-ripple chime; city ambience lifting; a soft whoosh as a pedestrian gains colour.
-MASTER TRACK: a snare on the 3 and a building layered synth-string grow with each transformation.
+★ FRAME AUDIO — CLIP 2 (inside-prompt diegetic sound baked into this VEO clip; plays WITH the Outside Master Audio as one unified soundtrack):
+- DIEGETIC / SCENE SOUND: rhythmic heel-clicks (the main beat), a quiet electric hum-sizzle of growing neon, a golden puddle-ripple chime, city ambience lifting and a soft whoosh as a pedestrian gains colour.
+- SYNCHRONIZED IMPACT: as she strides (~through this clip, the dress-up SPREADS block-by-block — ongoing environment change) the layered synth-strings + a snare on the 3 grow with each step, per-step neon blooms and colour-whooshes fusing with the Master Audio — the music itself spreading the colour. A rising build, not yet the climax.
+- MIX: the city ambience lifts drab→luminous as the layers grow toward the drop.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 3's START IMAGE must reproduce 100%, new angle only): at clip end the block is largely transformed — neon facades, mirror-puddles, a crystal-chandelier streetlight, colourful pedestrians; Aira mid-stride, sunglasses now off, black coat, red blouse, blowout. CLIP 3 must open in this EXACT state (same transformed block, same neon/mirror/crystal, same wardrobe, shades off) — only the angle changes.
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 3 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: the black coat collar and red mandarin-collar blouse at the throat — power framing, identical state.
@@ -4111,8 +4227,10 @@ FABRIC/HAIR/PROP PHYSICS: the blowout settles to stillness; the neon pulses with
 FOOTWORK & BODY FLOW: a still, grounded stand.
 MID-CLIP TRANSFORMATION (timed): NONE new — the transformed city holds and pulses; this is the magnetic apex.
 LIGHTING-IN-MOTION: multicolour catch-lights ripple in her eyes as the neon pulses.
-DIEGETIC AUDIO: near-silence — city sounds hushed; her slow even breath; a low bass pulse; a faint crystalline shimmer; then city sounds rushing back.
-MASTER TRACK: full build at the close-up — layered synth-strings under a sub-bass swell, poised before the drop.
+★ FRAME AUDIO — CLIP 3 (inside-prompt diegetic sound baked into this VEO clip; plays WITH the Outside Master Audio as one unified soundtrack):
+- DIEGETIC / SCENE SOUND: near-silence — city sounds hushed, her slow even breath, a low bass pulse, a faint crystalline shimmer; then city sounds beginning to rush back.
+- SYNCHRONIZED IMPACT: at the power look (~mid-clip) the layered synth-strings rise under a sub-bass swell, the music INHALING and poised before the drop — fused with the Master Audio on the same frame, the full build loading. A rising tension-swell, the calm before CLIP 4's bass-drop.
+- MIX: strip the city to a hush so the rising sub-bass swell loads the drop.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 4's START IMAGE must reproduce 100%, new angle only): at clip end the city is fully transformed and pulsing; Aira self-possessed, folded glasses in hand, black coat, red blouse, blowout, power-smile. CLIP 4 must open in this EXACT state (same vivid city, same wardrobe) — only the angle changes (to the back-pose wake shot).
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 4 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: the long black coat from behind, belt-knot at the waist, the red blouse collar just visible above — identical state.
@@ -4173,8 +4291,10 @@ FABRIC/HAIR/PROP PHYSICS: golden ripples trigger on each heel-impact; the blowou
 FOOTWORK & BODY FLOW: a confident receding gait, weight rolling.
 MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE WAKE at 3.0–7.0s — triggered by her continuing footsteps, the transformation completes the block: golden footprint-ripples, a last streetlight-to-chandelier morph, another pedestrian blooming vivid — the city fully dressed up in her wake.
 LIGHTING-IN-MOTION: the transformation at full vivid; all neon, crystal and mirror-gold blazing.
-DIEGETIC AUDIO: her receding heel-clicks; neon hum at full chorus; crystal-chandelier tinkles; mirror-puddle chimes; pedestrians gasping in wonder; a city now alive.
-MASTER TRACK: the bass-DROP and full orchestral-electronic hit — the cinematic hero moment.
+★ FRAME AUDIO — CLIP 4 (inside-prompt diegetic sound baked into this VEO clip; plays WITH the Outside Master Audio as one unified soundtrack):
+- DIEGETIC / SCENE SOUND: her receding heel-clicks, neon hum at full chorus, crystal-chandelier tinkles, mirror-puddle chimes, pedestrians gasping in wonder — a city now fully alive.
+- SYNCHRONIZED IMPACT (THE HERO MOMENT): at EXACTLY the wake-frame (~early-clip) the bass-DROPS into a full orchestral-electronic hit as she walks away and the entire block blazes alive behind her. This is NOT a separate SFX: it fuses with the Master Audio's drop on the same frame, so the music itself detonates the city into colour. The cinematic climax — deep and powerful, a true bass-drop boom (this is the hype concept's peak).
+- MIX: the drop is the star — sub-heavy and huge, the neon chorus blazing over it.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 5's START IMAGE must reproduce 100%, new angle only): at clip end the whole block is fully luminous and transformed, glowing in her wake; Aira walking away, black coat, red blouse, blowout. CLIP 5 must open in this EXACT vivid state (same fully-transformed block, same wardrobe) — only the angle changes (to the glance-back).
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 5 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: the black coat shoulder and back, the red mandarin collar visible at the turned neck — identical state.
@@ -4235,8 +4355,10 @@ FABRIC/HAIR/PROP PHYSICS: the blowout swings and resettles with the head-turn; t
 FOOTWORK & BODY FLOW: a mid-step glance, weight rolling as she turns back forward.
 MID-CLIP TRANSFORMATION (timed): NONE new — the vivid city holds behind; this is the playful character beat (the hook).
 LIGHTING-IN-MOTION: neon and chandelier-gold play across her face as she turns.
-DIEGETIC AUDIO: the head-turn swoosh of hair; a quiet "hmm" of satisfaction; the tiny wave silent; the vivid city hum behind.
-MASTER TRACK: a solo piano motif over the sub-bass — intimate after the drop, for the glance-back.
+★ FRAME AUDIO — CLIP 5 (inside-prompt diegetic sound baked into this VEO clip; plays WITH the Outside Master Audio as one unified soundtrack):
+- DIEGETIC / SCENE SOUND: the head-turn swoosh of hair, a quiet "hmm" of satisfaction, the tiny wave silent and the vivid city hum behind.
+- SYNCHRONIZED IMPACT: none — the intimate conspirator's glance after the drop; the Master Audio drops to a solo piano motif over the sub-bass for contrast, no new hit.
+- MIX: intimate and warm — solo piano close, the vivid city humming far behind.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 6's START IMAGE must reproduce 100%, then RESET): at clip end the vivid city holds, Aira mid glance-away with the smirk, black coat, red blouse, blowout. CLIP 6 must open by RESETTING to the grey taxi-curb arrival — same wardrobe, the city drained back to grey.
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 6 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: the long structured black wool coat, belted, red mandarin-collar blouse, black cigarette pants — matched to CLIP 1.
@@ -4297,8 +4419,10 @@ FABRIC/HAIR/PROP PHYSICS: the colour drains backward along her path (rewind-feel
 FOOTWORK & BODY FLOW: a step onto the curb, weight rising — the CLIP-1 arrival.
 MID-CLIP TRANSFORMATION (timed): the city RESETS to grey; the next loop re-triggers the dress-up on her first heel-strike (the start of CLIP 1).
 LIGHTING-IN-MOTION: vivid city draining to flat grey, matched to CLIP 1.
-DIEGETIC AUDIO: city sounds dimming; the neon fading (a quiet electrical descend); a taxi pulling up; her boot on the curb — back to the CLIP-1 bed.
-MASTER TRACK: the score strips to the opening sub-bass pulse, looping cleanly.
+★ FRAME AUDIO — CLIP 6 (inside-prompt diegetic sound baked into this VEO clip; plays WITH the Outside Master Audio as one unified soundtrack):
+- DIEGETIC / SCENE SOUND: city sounds dimming, the neon fading (a quiet electrical descend), a taxi pulling up and her boot on the curb — back to the exact CLIP-1 bed.
+- SYNCHRONIZED IMPACT: none — the reset/loop beat; let the score strip back to the opening grey sub-bass pulse so the loop back to CLIP 1 is seamless and invisible.
+- MIX: ease back to the stripped sub-bass pulse + CLIP-1 drab city bed; loop-seed near 7.8s.
 END STATE / STATE-MATCH LOCK: clip ends in the EXACT grey-curb arrival state and wide angle of CLIP 1's START IMAGE — grey city, wardrobe and confident expression matched, so the reel loops seamlessly.
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 1 (LOOP back to opening) — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: the long structured black wool coat, belted, over the deep-red silk mandarin-collar blouse, black cigarette pants; sharp.
@@ -4319,25 +4443,27 @@ END STATE / STATE-MATCH LOCK: clip ends in the EXACT grey-curb arrival state and
 
 CUT LOGIC: ANGLE-CUT / LOOP back to CLIP 1; the next pass re-triggers the city dressing up on her first step.
 
-### ☆ EXTERNAL AUDIO — BLOCK 1: BACKGROUND SOUND DESIGN / AMBIENCE BED — B-5
-*The layered foley + ambience to lay UNDER the reel, separate from the in-clip diegetic audio — timed to the clips.*
-- Base bed (grey clips): a quiet drab city-evening tone — distant traffic, a pigeon, a dim streetlight buzz, rain-puddle drips.
-- Trigger stamp (every step): a decisive heel-strike on wet concrete + a soft golden puddle-ripple chime + an electric neon hum-sizzle as a facade lights.
-- CLIP 1 (first step): the taxi pulling away; the first neon hum and puddle-chime.
-- CLIP 2 (spread): rhythmic heel-clicks; growing neon hum; pedestrian colour-bloom whooshes.
-- CLIP 3 (power look): near-silence — city hushed; a low bass pulse; a crystalline shimmer.
-- CLIP 4 (wake): receding heel-clicks; neon hum at full chorus; crystal tinkles; pedestrians gasping.
-- CLIP 5 (glance-back): a hair-swoosh; a soft satisfied "hmm"; the vivid city hum.
-- CLIP 6 (reset): city sounds dimming; the neon fading; a taxi pulling up — back to the CLIP-1 bed.
-- Mix note: the city ambience itself transforms drab→luminous→drab with the visuals; loops cleanly at ~26s.
-
-### ☆ EXTERNAL AUDIO — BLOCK 2: BACKGROUND MUSIC / SCORE TRACK — B-5 (lay under the sound bed)
-- Genre / vibe: a building cinematic power-groove — stripped and cool, growing into a full orchestral-electronic triumphant walk-track. The "main character arrived" anthem.
-- Tempo / key: ~105 BPM, D minor (power), driving and glossy.
-- Core elements: a deep sub-bass pulse; a crisp snare on the 3; a building layered synth-string that grows with each transformation; a hard bass-DROP at the wake-frame; a solo piano on the glance-back; stripped sub-bass on the reset.
-- Arc: sub-bass pulse only (CLIP 1 grey) → snare + first synth layer on the dress-up spread (CLIP 2) → full build at the power close-up (CLIP 3) → the bass-DROP + orchestral hit at the wake (CLIP 4 — the hero moment) → solo piano over the sub on the glance-back (CLIP 5) → strip to sub-bass on the loop (CLIP 6).
-- Texture note: like a movie trailer when the city transforms — cinematic, building, powerful — then intimate on the glance-back for contrast.
-- Loop: a clean ~26s loop matching the visual loop point.
+### ★ OUTSIDE MASTER AUDIO — B-5 (the single composed MUSIC track — generate in your music tool; lays under all 6 clips as one unified soundtrack with the Frame Audio)
+RUNTIME: exactly 48.000s = 6 clips × 8.000s · KEY: D minor (power) · TEMPO: ~105 BPM (driving and glossy) · composed for this EXACT length — never looped, stretched, cut, or faded out.
+EMOTIONAL TARGET: "main character arrived" — stripped grey cool building block-by-block into a full orchestral-electronic triumphant power-walk, climaxing on a bass-drop, then an intimate conspirator's glance.
+NO FADE-IN — OPENS AT FULL PRESENCE: at 0:00.000 the deep sub-bass pulse is already driving at full level (grey/stripped); the cool tension lands within the first second, no swell-from-silence.
+INSTRUMENT PALETTE (emotion-matched — Power): a deep sub-bass pulse, a crisp snare on the 3, a building layered synth-string that grows with each transformation, a hard bass-DROP, a full orchestral-electronic hit, a solo piano for the glance-back.
+VOCALS: none required (an optional epic choir-swell into the drop only if it lifts the power).
+ARRANGEMENT (timed to picture):
+- 0:00–0:08 (C1): sub-bass pulse only (grey); the first synth-string layer enters on the heel-strike transformation.
+- 0:08–0:16 (C2): a snare on the 3 + building layered synth-strings grow with each step's transformation.
+- 0:16–0:24 (C3): full build at the power close-up — layered synth-strings under a rising sub-bass swell, poised before the drop.
+- 0:24–0:32 (C4): the bass-DROP + full orchestral-electronic hit — the cinematic hero moment as the whole block blazes alive.
+- 0:32–0:40 (C5): a solo piano motif over the sub-bass — intimate after the drop, for the glance-back.
+- 0:40–0:48 (C6): strip to the opening sub-bass pulse; primes the loop at 0:47.8.
+★ SYNCHRONIZED IMPACTS (musically integrated — the MUSIC itself expands at these exact frames; never a separate inserted SFX; tuned to the track's key, tone and energy):
+- ~0:04 (C1 — first step transforms the block): a neon hum-sizzle + golden puddle-chime as the first synth-string layer enters, the music itself lighting the block (building).
+- 0:08–0:16 (C2 — the dress-up spreads): the layered synth-strings + snare grow with each step, per-step neon blooms fused (a rising build, not yet the climax).
+- ~0:20 (C3 — power close-up): a rising sub-bass swell under the hush, the music inhaling — poised before the drop.
+- 0:24 (C4 — the wake, THE hero moment): the hard bass-DROP + full orchestral-electronic hit as the block blazes alive — deep and powerful, the climax.
+- (C5 glance-back is intimate solo piano, no impact; C6 strips to the loop. Precision over quantity.)
+LOOP LOCK: the phrase resolves at 48.000s onto the 0:00 downbeat — seamless. FEEL: cinematic, building, triumphant.
+(NOTE: this single Outside block replaces the old two-block system; all diegetic/ambience now lives in the per-clip ★ FRAME AUDIO above.)
 
 ---
 
@@ -4413,8 +4539,10 @@ FABRIC/HAIR/PROP PHYSICS: the locket clasp springs with a micro-bounce; the silk
 FOOTWORK & BODY FLOW: a relaxed contrapposto, a faint sway as she opens the locket.
 MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE RELEASE at 2.4–6.4s — triggered by the clasp opening, a golden glow seeps out and a burst of thumbnail-sized glowing golden butterflies emerges, rising in a slow spiral between the locket and her face; the living world beginning to spill out.
 LIGHTING-IN-MOTION: a warm golden glow blooms from the locket, under-lighting her chin and jaw; each butterfly adds a point of warm light.
-DIEGETIC AUDIO: a rooftop breeze; distant city hum far below; jasmine rustle; the tiny clasp click (sharp, metallic, satisfying); Edison-bulb buzz; her anticipatory inhale; a soft magical chime as the butterflies emerge.
-MASTER TRACK: a delicate celeste/music-box motif (the "locket theme" — 4 recurring notes) alone, with a warm cello entering on the release.
+★ FRAME AUDIO — CLIP 1 (inside-prompt diegetic sound baked into this VEO clip; plays WITH the Outside Master Audio as one unified soundtrack):
+- DIEGETIC / SCENE SOUND: a soft twilight rooftop breeze, a distant city hum far below, jasmine rustle, a faint Edison-bulb buzz, her anticipatory inhale; at ~6.0s the tiny clasp CLICK (sharp, metallic, satisfying) and a soft magical chime as the first butterflies emerge.
+- SYNCHRONIZED IMPACT: at ~6.0s (the clasp opens → butterflies release) a delicate celeste-bell shimmer-bloom lifts on the click — fused with the Master Audio's 4-note locket motif so the music itself seems to spring the clasp; gentle and glassy, never a boom (matches the ethereal-delicate energy).
+- MIX: ASMR-clean and high; the click crisp and centred, the breeze wide.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 2's START IMAGE must reproduce 100%, new angle only): at clip end the locket is open and glowing, the first glowing golden butterflies rising in a spiral between it and her face, golden under-light on her chin; the twilight garden, Edison bulbs and bougainvillea behind; Aira in lavender silk, amber-honey waves, wonder dawning. CLIP 2 must open in this EXACT state (same open glowing locket, same rising butterflies, same garden, same wardrobe) — only the camera angle changes.
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 2 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: the lavender silk straps and V-neckline, the locket chain taut on the collarbone — identical state.
@@ -4475,8 +4603,10 @@ FABRIC/HAIR/PROP PHYSICS: butterflies emerge with believable near-weightless mas
 FOOTWORK & BODY FLOW: a held, intimate stillness, head lifting with the wonder.
 MID-CLIP TRANSFORMATION (timed): the magic continues — more butterflies emerge and spiral; the locket's interior world brightening (seeded in CLIP 1, blooming here).
 LIGHTING-IN-MOTION: the golden glow intensifies as the locket opens fully; her under-chin and jaw illuminate progressively.
-DIEGETIC AUDIO: the locket hinge opening (a delicate creak); a soft magical chime as butterflies emerge (musical, like tiny glass bells); barely-audible papery wing-flutters; her gasp; the breeze.
-MASTER TRACK: the celeste motif joined by a warm cello and soft harp; tiny bell accents for the butterflies.
+★ FRAME AUDIO — CLIP 2 (inside-prompt diegetic sound baked into this VEO clip; plays WITH the Outside Master Audio as one unified soundtrack):
+- DIEGETIC / SCENE SOUND: the locket hinge's delicate creak, a soft magical chime as butterflies emerge (musical, like tiny glass bells), barely-audible papery wing-flutters, her gasp, the breeze.
+- SYNCHRONIZED IMPACT: none — the wonder simply blooms; let the warm cello + finger-picked harp entering in the Master Audio carry the rising swarm.
+- MIX: intimate and close on her face; the bell-flutters delicate and high.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 3's START IMAGE must reproduce 100%, new angle only): at clip end the locket is fully open and glowing, a growing spiral of glowing butterflies rising and beginning to spread; Aira's face lit golden with delight, lavender silk, amber-honey waves. CLIP 3 must open in this EXACT state (same open locket, same expanding butterfly swarm, same wardrobe) — only the angle changes.
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 3 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: the lavender silk bodice and straps, gathered waist — identical state.
@@ -4537,8 +4667,10 @@ FABRIC/HAIR/PROP PHYSICS: each butterfly has independent flight physics (wing-be
 FOOTWORK & BODY FLOW: a gentle stillness, weight settled.
 MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE EXPANSION at 0.0–8.0s — the swarm expands into the garden (butterflies landing on jasmine, circling Edison bulbs), one settling on her fingertip, and a secondary magic — a green-gold pocket aurora — forms above the swarm; the living world growing.
 LIGHTING-IN-MOTION: the aurora adds a cool green-gold wash from above, mixing with the warm butterflies — dual-tone magical light.
-DIEGETIC AUDIO: dozens of butterfly wings (a soft collective rustle); the aurora's quiet electrical hum; one butterfly's landing (a tiny "tap"); Edison buzz; distant city; her held breath then gentle exhale.
-MASTER TRACK: full swell — celeste, cello, harp and a breathy pad; the magic at its most expansive.
+★ FRAME AUDIO — CLIP 3 (inside-prompt diegetic sound baked into this VEO clip; plays WITH the Outside Master Audio as one unified soundtrack):
+- DIEGETIC / SCENE SOUND: dozens of butterfly wings as a soft collective rustle, the aurora's quiet electrical hum building, Edison buzz, distant city, her held breath then a gentle exhale; at ~4s one butterfly's landing — a tiny "tap".
+- SYNCHRONIZED IMPACT: at ~5s (the aurora forms) a breathy pad + celeste shimmer-swell crests as the colour blooms across the sky — fused with the Master Audio's first full swell on the same frame, so the music itself paints the aurora; expansive but soft-edged, never a separate SFX.
+- MIX: the wing-rustle wide and enveloping; the aurora a soft high shimmer, not a sub-boom.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 4's START IMAGE must reproduce 100%, new angle only): at clip end the garden is alive with the swarm and a green-gold aurora arcing overhead, a microscopic garden glowing on the balustrade; a butterfly on her shoulder/finger; the locket hangs glowing; Aira in lavender silk, amber-honey waves, tender delight. CLIP 4 must open in this EXACT magical world (same swarm, same aurora, same glowing garden, same wardrobe) — only the angle changes.
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 4 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: the lavender silk dress from behind, the open V-back, skirt flowing, catching butterfly-and-aurora glow — identical state.
@@ -4599,8 +4731,10 @@ FABRIC/HAIR/PROP PHYSICS: aurora plasma drifts with slow electromagnetic physics
 FOOTWORK & BODY FLOW: a grounded, open stance, weight settled.
 MID-CLIP TRANSFORMATION (timed): the magic at full bloom — the micro-garden blooms a new flower, the aurora swells, more butterflies orbit (the released world at its peak; seeded earlier).
 LIGHTING-IN-MOTION: the aurora's pulse brightens and dims in a slow rhythm; butterflies cast moving shadows on the stone.
-DIEGETIC AUDIO: the aurora's deep quiet hum (sub-bass); the butterfly collective rustle; tiny garden-growth crackle; city far below; the rooftop breeze; Edison buzz in rhythm; her awed breathing.
-MASTER TRACK: the fullest orchestral-and-celeste swell — the emotional peak of the released world.
+★ FRAME AUDIO — CLIP 4 (inside-prompt diegetic sound baked into this VEO clip; plays WITH the Outside Master Audio as one unified soundtrack):
+- DIEGETIC / SCENE SOUND: the aurora's deep quiet hum (a soft low shimmer), the butterfly collective rustle, a tiny garden-growth crackle, the city far below, the rooftop breeze, Edison buzz pulsing gently, her awed breathing.
+- SYNCHRONIZED IMPACT: none as a hit — the sustained orchestral-and-celeste swell IS the peak; let the fullness carry the emotional high.
+- MIX: fullest and warmest, the rustle and hum wrapping wide around the celeste.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 5's START IMAGE must reproduce 100%, new angle only): at clip end the magical world is at full bloom — swarm, aurora, micro-garden, glowing skyline; Aira open-armed and serene, lavender silk, amber-honey waves. CLIP 5 must open in this EXACT state (same full magic) then begin the recall as she closes the locket — same wardrobe, only the angle changes.
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 5 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: the lavender silk strap and neckline in profile, the locket at the sternum — identical state.
@@ -4661,8 +4795,10 @@ FABRIC/HAIR/PROP PHYSICS: butterflies compress and accelerate toward the locket 
 FOOTWORK & BODY FLOW: an upright, intimate stillness.
 MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE RECALL at 3.0–6.0s — triggered by closing the locket, the entire released world streams back: butterflies spiral in, the aurora fades, the micro-garden dims, threading into the locket as it clicks shut — the magic recalled.
 LIGHTING-IN-MOTION: the golden glow fades as butterflies return; her profile returns to Edison-and-twilight light by the end.
-DIEGETIC AUDIO: the reverse-stream whoosh (soft, musical, descending); each butterfly re-entering (tiny glass-bell notes); the aurora hum fading; the final locket CLICK (satisfying, decisive, gold-on-gold); Edison buzz returning; a soft sigh of contentment.
-MASTER TRACK: the celeste "locket theme" returns gently as the magic recalls — the motif closing the episode.
+★ FRAME AUDIO — CLIP 5 (inside-prompt diegetic sound baked into this VEO clip; plays WITH the Outside Master Audio as one unified soundtrack):
+- DIEGETIC / SCENE SOUND: a soft musical descending reverse-stream whoosh as the world is recalled, each butterfly re-entering on tiny glass-bell notes, the aurora hum fading, her soft contented sigh; at ~6.0s the final locket CLICK (satisfying, decisive, gold-on-gold).
+- SYNCHRONIZED IMPACT: at ~6.0s (the locket clicks shut → world recalled) a gentle reverse-shimmer settles onto the closing celeste motif — fused with the Master Audio so the music itself draws the magic back in; soft and decisive, never a boom.
+- MIX: the reverse-whoosh dry and descending, the click crisp; ease toward the closing motif.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 6's START IMAGE must reproduce 100%, then loop): at clip end the locket is closed at her sternum (faintly warm-glowing), the garden returned to normal twilight beauty (no magic), Edison bulbs and bougainvillea; Aira in lavender silk, amber-honey waves, a tender knowing calm. CLIP 6 must open in this EXACT post-magic state (closed locket, normal twilight garden, same wardrobe) — only the angle changes, returning to the CLIP-1 wide.
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 6 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: the dusty-lavender silk maxi dress, deep V-neckline, thin straps — matched to CLIP 1.
@@ -4724,8 +4860,10 @@ FOOTWORK & BODY FLOW: a relaxed contrapposto returning to the CLIP-1 stance.
 MID-CLIP TRANSFORMATION (timed): the magic is fully recalled and tucked away; the next loop re-triggers the living world when she next opens the clasp (the start of CLIP 1).
 LIGHTING-IN-MOTION: the last locket-pulse flashes warm on her chin then fades; Edison steady.
 LENS / OPTICAL: focus settles to the deep opening look.
-DIEGETIC AUDIO: the locket's last pulse (a soft warm "thum" like a heartbeat); Edison buzz; the breeze; city below; her quiet satisfied exhale; a single distant nightbird — back to the CLIP-1 bed.
-MASTER TRACK: the bare celeste "locket theme" closes the episode, looping cleanly to the opening.
+★ FRAME AUDIO — CLIP 6 (inside-prompt diegetic sound baked into this VEO clip; plays WITH the Outside Master Audio as one unified soundtrack):
+- DIEGETIC / SCENE SOUND: the locket's last soft warm "thum" like a heartbeat, the Edison buzz, the breeze, the city below, her quiet satisfied exhale, a single distant nightbird — back to the exact CLIP-1 bed, primed to loop.
+- SYNCHRONIZED IMPACT: none — the reset; let everything settle so the loop back to CLIP 1 is seamless and invisible.
+- MIX: ease back to the airy opening bed; loop-seed at ~7.8s.
 END STATE / STATE-MATCH LOCK: clip ends in the EXACT post-magic twilight-garden state and wide angle of CLIP 1's START IMAGE — closed locket, garden, wardrobe and anticipatory expression matched, so the reel loops seamlessly.
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 1 (LOOP back to opening) — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: the flowing dusty-lavender silk maxi dress, deep V-neckline, thin straps, soft gathered waist, the skirt lifting a little in the breeze.
@@ -4746,24 +4884,26 @@ END STATE / STATE-MATCH LOCK: clip ends in the EXACT post-magic twilight-garden 
 
 CUT LOGIC: ANGLE-CUT / LOOP back to CLIP 1; the next pass re-triggers the living world when she opens the clasp.
 
-### ☆ EXTERNAL AUDIO — BLOCK 1: BACKGROUND SOUND DESIGN / AMBIENCE BED — C-1
-*The layered foley + ambience to lay UNDER the reel, separate from the in-clip diegetic audio — timed to the clips.*
-- Base bed (all clips): a soft twilight rooftop room-tone; a gentle breeze; jasmine rustle; a distant city hum far below; faint Edison-bulb buzz; a single nightbird far off.
-- Trigger stamp (open/close): a tiny metallic clasp click on the open (CLIP 1) and a decisive gold-on-gold click on the close (CLIP 5).
-- CLIP 1–2 (release): a soft magical chime as butterflies emerge; barely-audible papery wing-flutters.
-- CLIP 3 (expand/aurora): dozens of butterfly wings (a soft collective rustle); the aurora's quiet electrical hum; a tiny landing "tap".
-- CLIP 4 (full world): the aurora's deep sub-bass hum; a tiny garden-growth crackle; Edison buzz pulsing in rhythm.
-- CLIP 5 (recall): a soft descending reverse-stream whoosh; tiny glass-bell re-entry notes; the final gold click.
-- CLIP 6 (hook): a soft warm locket-pulse "thum"; the breeze; a nightbird — back to the CLIP-1 bed.
-- Mix note: keep the magical foley delicate and high so it sits above the score; loops cleanly at ~26s.
-
-### ☆ EXTERNAL AUDIO — BLOCK 2: BACKGROUND MUSIC / SCORE TRACK — C-1 (lay under the sound bed)
-- Genre / vibe: ethereal cinematic wonder — delicate, curious, magical but grown-up (a music-box melody given an orchestra).
-- Tempo / key: ~72 BPM, E major, gentle and unhurried.
-- Core elements: a delicate celeste/music-box motif (the "locket theme" — 4 recurring notes, the series' sonic brand); a warm cello; soft finger-picked harp; a breathy pad that swells with the magic; tiny bell accents for the butterflies.
-- Arc: celeste motif alone on CLIP 1 (curiosity) → harp + cello enter as the locket opens (CLIP 2) → full swell with pad as the swarm/aurora expands (CLIPs 3–4) → the motif returns gently as the magic recalls (CLIP 5) → bare motif on the hook/loop (CLIP 6).
-- Texture note: the 4-note celeste motif MUST be distinctive and memorable — the recurring "locket" sonic brand across the whole series.
-- Loop: a clean ~26s loop matching the visual loop point.
+### ★ OUTSIDE MASTER AUDIO — C-1 (the single composed MUSIC track — generate in your music tool; lays under all 6 clips as one unified soundtrack with the Frame Audio)
+RUNTIME: exactly 48.000s = 6 clips × 8.000s · KEY: E major (gentle, unhurried) · TEMPO: 72 BPM · composed for this EXACT length — never looped, stretched, cut, or faded out.
+EMOTIONAL TARGET: ethereal cinematic wonder — delicate, curious, magical but grown-up; a music-box melody given an orchestra; "I could watch this forever."
+NO FADE-IN — OPENS AT FULL PRESENCE: at 0:00.000 the delicate 4-note celeste "locket theme" is already ringing at full presence over a soft breathy pad; emotion lands within the first second, no swell-from-silence.
+INSTRUMENT PALETTE (emotion-matched — Beauty / Dream): celeste/music-box (hero — the 4-note "locket theme", the series' sonic brand), warm cello, soft finger-picked harp, a breathy pad that swells with the magic, tiny bell accents for the butterflies.
+VOCALS: none required (an optional ethereal female "hum" only if it deepens the wonder).
+ARRANGEMENT (timed to picture):
+- 0:00–0:08 (C1): the celeste locket-motif alone over a soft pad — pure curiosity.
+- 0:08–0:16 (C2): warm cello + finger-picked harp enter as the locket opens.
+- 0:16–0:24 (C3): first full swell — pad + bells bloom as the swarm/aurora expands.
+- 0:24–0:32 (C4): fullest orchestral-and-celeste swell — the emotional peak of the released world.
+- 0:32–0:40 (C5): the celeste motif returns gently as the magic recalls.
+- 0:40–0:48 (C6): bare celeste motif on the hook; final note lands at 0:47.8 on the exact 0:00 voicing.
+★ SYNCHRONIZED IMPACTS (musically integrated — the MUSIC itself blooms at these exact frames; never a separate inserted SFX; tuned to the track's key, tone and energy):
+- ~0:06 (C1 clasp opens → butterflies release): a celeste-bell shimmer-bloom on the click — gentle and glassy, not a boom (matches the ethereal energy).
+- ~0:21 (C3 aurora forms): a breathy pad + celeste shimmer-swell crests as the colour blooms — soft-edged, expansive.
+- ~0:38 (C5 locket clicks shut → world recalled): a gentle reverse-shimmer settles onto the closing motif.
+- (No booms anywhere — this concept stays delicate; precision over quantity.)
+LOOP LOCK: the phrase resolves at 48.000s onto the 0:00 celeste downbeat — seamless. FEEL: ethereal, delicate, premium.
+(NOTE: this single Outside block replaces the old two-block system; all diegetic/ambience now lives in the per-clip ★ FRAME AUDIO above.)
 
 ---
 
@@ -4836,8 +4976,10 @@ FABRIC/HAIR/PROP PHYSICS: the key catches the Edison light as it rises; the crac
 FOOTWORK & BODY FLOW: a grounded stance, weight braced as she turns the key.
 MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE CRACK at 2.4–6.4s — triggered by the key-turn, a vertical seam of blazing golden light splits the dark air from the key-teeth outward, widening into a portal; through the widening crack, a sliver of sun-drenched Mediterranean coast appears (turquoise sea, white buildings, bougainvillea); warm wind blasts through into the cold loft.
 LIGHTING-IN-MOTION: the dark loft is invaded by a blazing warm golden portal-light from the crack, flooding her face and the concrete.
-DIEGETIC AUDIO: rain on the windows; a distant thunder-roll; the vast concrete room-tone; Edison buzz; the key's metal warming (a faint tonal hum); then the AIR CRACK (a visceral, deep, resonant tearing sound) and a warm wind-whoosh.
-MASTER TRACK: a deep sustained drone + rain-texture; sharp metallic percussive hits on the key-turn.
+★ FRAME AUDIO — CLIP 1 (inside-prompt diegetic sound baked into this VEO clip; plays WITH the Outside Master Audio as one unified soundtrack):
+- DIEGETIC / SCENE SOUND: rain streaking the steel windows, a distant thunder-roll, the vast hollow concrete room-tone, a faint Edison-bulb buzz, her slow inhale; at ~3s the brass key warms with a faint tonal hum as she turns it; at ~6.4s the AIR CRACKS — a visceral, deep, resonant tearing as the golden seam splits and the first warm wind-whoosh pushes through.
+- SYNCHRONIZED IMPACT: at ~6.4s (the key-turn cracks the portal) a medium metallic-tearing swell blooms upward — fused with the Master Audio's low drone surging into its first warm chord on the same frame, so the music itself rips the air open; commanding but not a boom (matches the dark-into-warm intrigue).
+- MIX: dark and cavernous; the room-tone wide, the crack centred and resonant, the wind arriving from frame-left.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 2's START IMAGE must reproduce 100%, new angle only): at clip end a blazing golden crack splits the loft air, a sliver of Mediterranean coast visible through it, warm wind blasting in, the dark loft half-lit gold; Aira braced with the key turned, black turtleneck, ink-black ponytail blowing. CLIP 2 must open in this EXACT state (same golden crack, same Mediterranean sliver, same wind, same wardrobe) — only the camera angle changes.
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 2 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: the black turtleneck, the brass belt-buckle at the lower frame — identical state.
@@ -4898,8 +5040,10 @@ FABRIC/HAIR/PROP PHYSICS: the crack widens with light-tearing physics; the wind-
 FOOTWORK & BODY FLOW: braced, weight forward against the wind.
 MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE BLAST at 0.0–6.0s — the golden crack widens to a 2-foot portal, warm Mediterranean wind blasting through carrying a petal and salt-mist; the other world's light flooding the loft.
 LIGHTING-IN-MOTION: the golden blast ramps from crack-thin to flooding; her whole face and chest progressively illuminated; a natural lens-bloom.
-DIEGETIC AUDIO: the AIR CRACK resonating; the warm wind-whoosh; ocean sounds (waves, gulls) leaking from the other world; a petal passing the mic; her gasp against the wind.
-MASTER TRACK: full warm Mediterranean music (acoustic guitar + hand-drum + bouzouki) BLASTS in simultaneously with the portal — like a door opening on a sunny party.
+★ FRAME AUDIO — CLIP 2 (inside-prompt diegetic sound baked into this VEO clip; plays WITH the Outside Master Audio as one unified soundtrack):
+- DIEGETIC / SCENE SOUND: the air-crack still resonating, a warm wind-whoosh blasting through, ocean sounds — waves and gulls — leaking from the other world, a bougainvillea petal passing the mic, her gasp against the wind; at ~1s the portal blasts to full width.
+- SYNCHRONIZED IMPACT: at ~0.8s (the portal blasts wide) a big warm whoosh-swell crests as the full Mediterranean music — acoustic guitar, hand-drum, bouzouki — blasts in, fused with the Master Audio's surge to its brightest D-major chord on the same frame, so the music itself throws the door open onto a sunny world; expansive and golden, never a separate SFX.
+- MIX: the wind wide and enveloping, the ocean panned through the portal, her gasp close and centred.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 3's START IMAGE must reproduce 100%, new angle only): at clip end the portal is a wide blazing window onto the Mediterranean, warm wind and music pouring through, the dark loft half-flooded gold; Aira braced with the key, ponytail streaming, fierce grin. CLIP 3 must open in this EXACT state (same wide portal, same Mediterranean, same wind, same wardrobe) — only the angle changes.
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 3 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: the turtleneck and olive cargo trousers from behind, belt visible — identical state.
@@ -4960,8 +5104,10 @@ FABRIC/HAIR/PROP PHYSICS: two weather systems collide at the portal-edge (warm v
 FOOTWORK & BODY FLOW: braced, weight forward, then a subtle shift as the reverse-turn begins.
 MID-CLIP TRANSFORMATION (timed): the portal holds at full bloom (seeded earlier); at 2.8s the reverse-turn begins, the Mediterranean light just starting to narrow.
 LIGHTING-IN-MOTION: the Mediterranean light begins to narrow as the key turns back; shadows creep in from the portal-edges.
-DIEGETIC AUDIO: full Mediterranean soundscape (waves, gulls, distant village life, warm wind); the portal-edge crackle; her clothes flapping; the key beginning to GROAN as it turns back.
-MASTER TRACK: the full Mediterranean music at its brightest, beginning to fade as the portal narrows.
+★ FRAME AUDIO — CLIP 3 (inside-prompt diegetic sound baked into this VEO clip; plays WITH the Outside Master Audio as one unified soundtrack):
+- DIEGETIC / SCENE SOUND: the full Mediterranean soundscape — waves, gulls, distant village life, warm wind — the portal-edge crackling with contained energy, her clothes flapping; at ~5.6s the brass key begins to GROAN as she starts the reverse-turn.
+- SYNCHRONIZED IMPACT: none — she savours the open world while the Master Audio holds at its brightest; the reverse-turn only begins here, so the music stays full and warm before contracting next.
+- MIX: the village soundscape wide and sun-soaked; the key-groan low and close as it enters at the end.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 4's START IMAGE must reproduce 100%, new angle only): at clip end the portal is full and blazing but the reverse-turn has begun (light just starting to narrow); Aira braced, key turning back, ponytail streaming, turtleneck. CLIP 4 must open in this EXACT state (same near-full portal, beginning to narrow, same wardrobe) — only the angle changes (to the close-up).
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 4 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: the black turtleneck at the throat — identical state.
@@ -5022,8 +5168,10 @@ FABRIC/HAIR/PROP PHYSICS: the seam narrows with light-healing physics; the wind 
 FOOTWORK & BODY FLOW: shoulders settling as the wind dies.
 MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE NARROWING at 3.0–7.0s — triggered by the reverse-turn, the portal-seam narrows from a wide window to a hair-thin golden line; the Mediterranean visible only as a thin slice now; the dark loft reasserting.
 LIGHTING-IN-MOTION: the fading portal-light as a diminishing warm key; shadow returning from the right; the warm-cool split shifting cooler.
-DIEGETIC AUDIO: the Mediterranean soundscape muffling as the seam narrows; the key GROANING as it turns back; a tonal descending hum; rain reasserting; her steady breath.
-MASTER TRACK: the Mediterranean music fades as the portal narrows; the dark drone reasserting.
+★ FRAME AUDIO — CLIP 4 (inside-prompt diegetic sound baked into this VEO clip; plays WITH the Outside Master Audio as one unified soundtrack):
+- DIEGETIC / SCENE SOUND: the Mediterranean soundscape muffling and pulling away as the seam narrows, the key groaning as it turns back to neutral, a tonal descending hum, rain reasserting on the steel windows, her steady resolved breath.
+- SYNCHRONIZED IMPACT: none — this is the contraction; let the Master Audio's warm Mediterranean layers drain away and the dark drone creep back, the closing carried by withdrawal rather than a hit.
+- MIX: the warm world receding and muffling left-to-right; rain returning wide; her breath intimate.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 5's START IMAGE must reproduce 100%, new angle only): at clip end the portal is a hair-thin golden seam about to seal, the loft nearly dark again, the key drawn back to neutral; Aira resolved, turtleneck, ponytail settled. CLIP 5 must open in this EXACT state (same thin seam, same near-dark loft, same wardrobe) — only the angle changes; the seal happens within CLIP 5.
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 5 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: the black turtleneck and olive cargo trousers, brass belt — identical state.
@@ -5084,8 +5232,10 @@ FABRIC/HAIR/PROP PHYSICS: the seam closes with material-healing physics (like sk
 FOOTWORK & BODY FLOW: a grounded settle, the key drawn to her chest.
 MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE SEAL at 3.0–5.0s — triggered by the key reaching neutral and drawing back, the portal-seam flashes white and seals, the loft air healing without a trace; the magic closed.
 LIGHTING-IN-MOTION: the golden light vanishes in the seal-flash; the Edison bulb reasserts as the only warm source; her face transitions from portal-lit to Edison-lit.
-DIEGETIC AUDIO: the portal narrowing (a tonal descending hum); the seal FLASH (a deep resonant "THOOM" felt in the chest); instant silence after; then rain, Edison buzz and room-tone return; her satisfied exhale.
-MASTER TRACK: the seal "THOOM" kills the music for one beat of silence; then the dark drone returns.
+★ FRAME AUDIO — CLIP 5 (inside-prompt diegetic sound baked into this VEO clip; plays WITH the Outside Master Audio as one unified soundtrack):
+- DIEGETIC / SCENE SOUND: the portal narrowing to a thin golden line on a descending tonal hum; at ~3s the seal FLASH — a deep resonant seal-swell felt in the chest as the air heals — then a held hush; rain, Edison buzz and the concrete room-tone returning; her satisfied exhale.
+- SYNCHRONIZED IMPACT: at ~3.0s (the portal seals) a medium resonant seal-swell drops as the warm light snaps shut — fused with the Master Audio cutting to a single beat of silence on the same frame before the dark drone returns, so the music itself seals the door; weighty but controlled, never a heavy boom (matches the no-boom intrigue).
+- MIX: the descending hum centred; the seal-swell deep and short; the post-seal silence total before rain widens back in.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 6's START IMAGE must reproduce 100%, then loop): at clip end the loft is dark and quiet, the portal sealed without a trace, the key enclosed in her fist; Aira calm-powerful, turtleneck, ponytail at rest. CLIP 6 must open in this EXACT post-seal state (dark loft, key in hand, same wardrobe) — only the angle changes, returning to the CLIP-1 wide.
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 6 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: the black ribbed turtleneck, olive cargo trousers, brown belt with brass buckle — matched to CLIP 1.
@@ -5147,8 +5297,10 @@ FOOTWORK & BODY FLOW: a grounded three-quarter returning to the CLIP-1 stance.
 MID-CLIP TRANSFORMATION (timed): the magic is sealed and the key pocketed-power; the next loop re-triggers the portal when she next turns the key (the start of CLIP 1).
 LIGHTING-IN-MOTION: Edison bulb steady — matched to CLIP 1.
 LENS / OPTICAL: focus settles to the deep opening look.
-DIEGETIC AUDIO: a soft fist-open skin-flex; the key's faint residual warmth (a near-inaudible tonal hum); rain; Edison buzz; a distant thunder; her steady breath — back to the CLIP-1 bed.
-MASTER TRACK: the dark drone settles to the opening texture, looping cleanly.
+★ FRAME AUDIO — CLIP 6 (inside-prompt diegetic sound baked into this VEO clip; plays WITH the Outside Master Audio as one unified soundtrack):
+- DIEGETIC / SCENE SOUND: a soft fist-open skin-flex, the key's faint residual warmth as a near-inaudible tonal hum, rain on the windows, Edison buzz, a distant thunder-roll, her steady breath — settling back to the CLIP-1 bed.
+- SYNCHRONIZED IMPACT: none — the reset clip; the Master Audio's dark drone simply settles to the opening texture for a seamless loop.
+- MIX: quiet and cavernous, matched exactly to CLIP 1 so the loop is invisible.
 END STATE / STATE-MATCH LOCK: clip ends in the EXACT bulb-pool/key-at-side state and wide angle of CLIP 1's START IMAGE — dark loft, wardrobe and focused expression matched, so the reel loops seamlessly.
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 1 (LOOP back to opening) — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: the fitted black ribbed turtleneck tucked into high-waist wide-leg dark-olive cargo trousers, a wide brown leather belt with an aged brass buckle.
@@ -5169,24 +5321,25 @@ END STATE / STATE-MATCH LOCK: clip ends in the EXACT bulb-pool/key-at-side state
 
 CUT LOGIC: ANGLE-CUT / LOOP back to CLIP 1; the next pass re-triggers the portal when she turns the key.
 
-### ☆ EXTERNAL AUDIO — BLOCK 1: BACKGROUND SOUND DESIGN / AMBIENCE BED — C-2
-*The layered foley + ambience to lay UNDER the reel, separate from the in-clip diegetic audio — timed to the clips.*
-- Base bed (loft clips): rain on the steel windows; a vast hollow concrete room-tone; a faint Edison-bulb buzz; a distant thunder-roll.
-- Trigger stamp (key-turn): a sharp metallic key-turn click on the open (CLIP 1) and a groaning reverse-turn on the close (CLIP 4).
-- CLIP 1 (crack): the visceral AIR-CRACK tearing sound; a key-warming tonal hum.
-- CLIP 2–3 (portal open): a warm wind-whoosh; a full Mediterranean soundscape leaking in — waves, gulls, distant village life; a petal passing the mic; portal-edge crackle.
-- CLIP 4 (narrowing): the Mediterranean muffling; the key groaning; a descending tonal hum.
-- CLIP 5 (seal): the deep resonant seal "THOOM" + one beat of total silence; then rain returning.
-- CLIP 6 (hook): the key's faint residual warmth-hum; rain; thunder — back to the CLIP-1 bed.
-- Mix note: the contrast between the dark rainy loft bed and the blazing Mediterranean blast IS the hook — winter-to-summer in one cut; loops cleanly at ~26s.
-
-### ☆ EXTERNAL AUDIO — BLOCK 2: BACKGROUND MUSIC / SCORE TRACK — C-2 (lay under the sound bed)
-- Genre / vibe: dark cinematic tension into explosive warmth — a building thriller-score that BURSTS into warm Mediterranean brightness at the portal, then contracts.
-- Tempo / key: starts ~70 BPM A minor (tense), explodes to ~100 BPM D major (portal-world), contracts back to 70 BPM A minor (close).
-- Core elements: a deep sustained drone + rain-texture for the loft; sharp metallic percussive hits for the key-turn; a full warm acoustic-guitar + hand-drum + bouzouki explosion for the Mediterranean blast; then the drone reasserts.
-- Arc: drone + rain (CLIP 1) → metallic hits on the key-turn → FULL Mediterranean music BLASTS in with the portal (CLIPs 2–3, like a door onto a party) → fades as the portal narrows (CLIP 4) → the seal "THOOM" kills all music for one beat → the drone returns and settles to the opening (CLIPs 5–6).
-- Texture note: the dark-drone vs Mediterranean-blast contrast is the emotional hook — stepping from winter into summer in one frame.
-- Loop: a clean ~26s loop matching the visual loop point.
+### ★ OUTSIDE MASTER AUDIO — C-2 (the single composed MUSIC track — generate in your music tool; lays under all 6 clips as one unified soundtrack with the Frame Audio)
+RUNTIME: exactly 48.000s = 6 clips × 8.000s · KEY: A minor (dark loft, open/close) blazing to D major at the portal · TEMPO: 70 BPM (loft) surging to ~100 BPM (portal-world) and contracting back to 70 BPM · composed for this EXACT length — never looped, stretched, cut, or faded out.
+EMOTIONAL TARGET: commanding intrigue — a dark, withholding tension that cracks open into blazing Mediterranean warmth, savours it, then seals back to controlled dark power.
+NO FADE-IN — OPENS AT FULL PRESENCE: at 0:00.000 a deep sustained drone + rain-texture is already at full presence; the brooding tension lands within the first second, no swell-from-silence.
+INSTRUMENT PALETTE (emotion-matched — Power / Mystery): a deep cinematic drone and rain-texture with sharp metallic percussive hits as the hero attack, bursting into warm acoustic guitar + hand-drum + bouzouki (the hero ensemble) at the portal.
+VOCALS: none required (an optional wordless warm "ah" from the portal-world only if it adds sun-drenched lift at the blast).
+ARRANGEMENT (timed to picture):
+- 0:00–0:08 (C1): the dark drone + rain hold under rising tension; sharp metallic hits punctuate the key-turn; a low surge cracks the air at ~0:06.4.
+- 0:08–0:16 (C2): the full warm Mediterranean ensemble BLASTS in at ~0:08 — guitar, hand-drum and bouzouki at their brightest D-major glory.
+- 0:16–0:24 (C3): the Mediterranean music holds at full brightness, sun-soaked and alive, as she savours the open world.
+- 0:24–0:32 (C4): the warm layers drain and muffle as the portal narrows; the dark drone creeps back beneath.
+- 0:32–0:40 (C5): a deep resonant seal-swell, then a single beat of total silence at the seal (~0:33), and the dark drone returns.
+- 0:40–0:48 (C6): the drone settles to the exact opening texture ; final chord lands at 0:47.8 on the exact 0:00 voicing.
+★ SYNCHRONIZED IMPACTS (musically integrated — the MUSIC itself expands at these exact frames; never a separate inserted SFX; tuned to the track's key, tone and energy):
+- ~0:06 (C1 the key cracks the portal): a medium metallic-tearing swell as the drone surges into its first warm chord — commanding, not a boom.
+- ~0:08 (C2 the portal blasts wide): a big warm whoosh-swell as the full Mediterranean ensemble blasts in on the brightest D-major chord.
+- ~0:33 (C5 the portal seals): a deep resonant seal-swell into one beat of silence as the warm light snaps shut — weighty but controlled. No heavy booms — the power stays in contrast, not volume.
+LOOP LOCK: the phrase resolves at 48.000s onto the 0:00 downbeat — seamless. FEEL: dark, commanding, blazing-then-sealed.
+(NOTE: this single Outside block replaces the old two-block system; all diegetic/ambience now lives in the per-clip ★ FRAME AUDIO above.)
 
 ---
 
@@ -5259,8 +5412,10 @@ FABRIC/HAIR/PROP PHYSICS: candle flames respond to her arm's micro-air-current a
 FOOTWORK & BODY FLOW: a graceful seated lift, weight settled.
 MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE VISION at 4.0–7.2s — triggered by lifting the mirror to look, the surface does not reflect her but instead shows a living scene from TOMORROW: a sun-drenched morning market, a tomorrow-version of Aira (white linen, a straw hat) laughing and reaching for a peach, the market bustling around her — a bright daylight window inside the dark boudoir.
 LIGHTING-IN-MOTION: the mirror-scene's internal sunlight casts a faint warm-bright bounce up onto her chin amid the candle-gold.
-DIEGETIC AUDIO: candle-wax drip; the soft mirror-lift (a weighted metallic sound); her inhale; then the tomorrow-scene's own muffled sound (distant market chatter, laughter, a guitar) layering under the boudoir candle-crackle.
-MASTER TRACK: a solo cello plays the languid "mirror theme"; a bright acoustic motif (the tomorrow-theme) enters softly inside the vision.
+★ FRAME AUDIO — CLIP 1 (inside-prompt diegetic sound baked into this VEO clip; plays WITH the Outside Master Audio as one unified soundtrack):
+- DIEGETIC / SCENE SOUND: a soft candlelit room-tone with dozens of flames crackling, a single candle-wax drip, her quiet inhale; at ~3s the soft weighted metallic mirror-lift; from ~4s the tomorrow-scene's own muffled sound — distant market chatter, laughter, a guitar — layering warmly in under the boudoir candle-crackle.
+- SYNCHRONIZED IMPACT: at ~4.0s (the mirror lifts and tomorrow appears) a soft celeste-and-harp reveal-shimmer blooms — fused with the Master Audio's bright tomorrow-theme entering on the same frame, so the music itself opens the vision; gentle and wondrous, never a boom (matches the candlelit wonder).
+- MIX: intimate and close; candle-crackle warm and present, the tomorrow-market soft and dreamlike beneath the glass.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 2's START IMAGE must reproduce 100%, new angle only): at clip end the hand-mirror shows the vivid sunlit tomorrow-market scene, her intrigued face above it, the candlelit boudoir around; burgundy slip, sculpted topknot. CLIP 2 must open in this EXACT state (same tomorrow-scene in the mirror, same boudoir, same wardrobe) — only the camera angle changes (to the macro on the mirror).
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 2 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: out of frame except a burgundy strap at the shoulder edge.
@@ -5321,8 +5476,10 @@ FABRIC/HAIR/PROP PHYSICS: the mirror-scene obeys its own physics (market motion,
 FOOTWORK & BODY FLOW: a steady seated hold (hands only in frame).
 MID-CLIP TRANSFORMATION (timed): the vision plays (seeded in CLIP 1) — the tomorrow-scene fully alive inside the mirror, a living photograph of the next day.
 LIGHTING-IN-MOTION: the mirror-scene's internal sunlight flickers warm on her real chin as the market light dances.
-DIEGETIC AUDIO: the tomorrow-scene's own muffled sound (market chatter, laughter, a guitar); the present boudoir muffled (candle-crackle, breath); two soundscapes layered.
-MASTER TRACK: the bright acoustic tomorrow-theme rises inside the vision, contrasting the cello "mirror theme".
+★ FRAME AUDIO — CLIP 2 (inside-prompt diegetic sound baked into this VEO clip; plays WITH the Outside Master Audio as one unified soundtrack):
+- DIEGETIC / SCENE SOUND: the tomorrow-scene's own muffled sound — market chatter, laughter, a guitar, warm daylight bustle — layered over the present boudoir's muffled candle-crackle and her soft breath; two soundscapes coexisting inside the glass.
+- SYNCHRONIZED IMPACT: none — the vision is already open and simply plays; let the Master Audio's bright tomorrow-theme rise against the cello "mirror theme" to carry the contrast.
+- MIX: the tomorrow-market dreamy and slightly distant inside the mirror; the boudoir present hushed around the frame.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 3's START IMAGE must reproduce 100%, new angle only): at clip end the mirror still shows the alive tomorrow-market, her recognition-smile above; the candlelit boudoir around; burgundy slip, sculpted topknot. CLIP 3 must open in this EXACT state (same tomorrow-scene in the mirror, same boudoir, same wardrobe) — only the angle changes (to the close-up beside her face).
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 3 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: the burgundy velvet strap and the sheer mesh robe at the shoulder — identical state.
@@ -5383,8 +5540,10 @@ FABRIC/HAIR/PROP PHYSICS: the tomorrow-scene fades organically (colours draining
 FOOTWORK & BODY FLOW: a relaxed seated lean toward the lens.
 MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE FADE at 2.4–6.4s — triggered by lowering the mirror from the look, the tomorrow-scene dissolves (watercolour-reverse) back to her normal candlelit reflection; the vision recalled.
 LIGHTING-IN-MOTION: the mirror's internal daylight-glow fades; candlelight reasserts as the only source.
-DIEGETIC AUDIO: the tomorrow-soundscape fading (market sounds dissolving); the mirror returning to silent glass (a soft tonal descend); candle-crackle returning to prominence; her low spoken line; a soft "hmm" of satisfaction.
-MASTER TRACK: the bright tomorrow-theme dissolves; the cello "mirror theme" returns alone.
+★ FRAME AUDIO — CLIP 3 (inside-prompt diegetic sound baked into this VEO clip; plays WITH the Outside Master Audio as one unified soundtrack):
+- DIEGETIC / SCENE SOUND: the tomorrow-soundscape fading as the market sounds dissolve, the mirror returning to silent glass on a soft tonal descend, candle-crackle rising back to prominence; her low, knowing spoken line lands in the hush — "...I already know how tomorrow goes." then, softer, "you'll see." — followed by a satisfied "hmm".
+- SYNCHRONIZED IMPACT: none — the vision dissolves; let the bright tomorrow-theme melt away and the solo cello "mirror theme" return alone beneath her spoken line, the moment carried by the fade rather than a hit.
+- MIX: her voice intimate and centred, dry and close in the candle-hush; the dissolving market soft and receding.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 4's START IMAGE must reproduce 100%, new angle only): at clip end the mirror shows only her normal reflection, the smirk settled; the candlelit boudoir around; burgundy slip, sculpted topknot. CLIP 4 must open in this EXACT state (mirror normal, same boudoir, same wardrobe/smirk) — only the angle changes.
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 4 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: the burgundy velvet slip dress and sheer mesh robe, velvet catching candlelight — identical state.
@@ -5445,8 +5604,10 @@ FABRIC/HAIR/PROP PHYSICS: the mirror settles face-up on her thigh with a soft me
 FOOTWORK & BODY FLOW: a relaxed seated settle into the chaise.
 MID-CLIP TRANSFORMATION (timed): NONE — the vision is recalled; this is the hook beat (makes the viewer wonder what she saw).
 LIGHTING-IN-MOTION: candles steady to their resting dance.
-DIEGETIC AUDIO: the mirror settling (soft metal-on-velvet); her satisfied exhale; candle-crackle; fabric rustle; a settling quiet.
-MASTER TRACK: the cello "mirror theme" settles, intimate and knowing.
+★ FRAME AUDIO — CLIP 4 (inside-prompt diegetic sound baked into this VEO clip; plays WITH the Outside Master Audio as one unified soundtrack):
+- DIEGETIC / SCENE SOUND: the mirror settling with a soft metal-on-velvet touch, her satisfied exhale, candle-crackle, a faint fabric rustle, a settling intimate quiet.
+- SYNCHRONIZED IMPACT: none — the after-state hook; the Master Audio's cello "mirror theme" simply settles, intimate and knowing.
+- MIX: warm and close; the velvet-settle delicate, the room-tone deep and still.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 5's START IMAGE must reproduce 100%, then loop): at clip end the mirror is face-up in her lap (normal reflection), Aira leaned back with the knowing hook-smile; the candlelit boudoir around; burgundy slip, sculpted topknot. CLIP 5 must open in this EXACT state then reset to the CLIP-1 contemplative-lift — same boudoir, same wardrobe.
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 5 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: the burgundy velvet slip dress, sheer mesh robe — matched to CLIP 1.
@@ -5507,8 +5668,10 @@ FABRIC/HAIR/PROP PHYSICS: the velvet and mesh settle to the opening drape; the m
 FOOTWORK & BODY FLOW: a graceful seated settle, the CLIP-1 lean.
 MID-CLIP TRANSFORMATION (timed): the vision is tucked away; the next loop re-triggers the tomorrow-vision when she next lifts the mirror to look (the start of CLIP 1).
 LIGHTING-IN-MOTION: candles at the opening dance — matched to CLIP 1.
-DIEGETIC AUDIO: candle-crackle; velvet settle; the mirror at rest; her quiet breath — back to the CLIP-1 bed.
-MASTER TRACK: the cello "mirror theme" resolves to the opening, looping cleanly.
+★ FRAME AUDIO — CLIP 5 (inside-prompt diegetic sound baked into this VEO clip; plays WITH the Outside Master Audio as one unified soundtrack):
+- DIEGETIC / SCENE SOUND: candle-crackle, the velvet settle, the mirror at rest, her quiet breath — returning to the CLIP-1 bed.
+- SYNCHRONIZED IMPACT: none — the reset clip; the cello "mirror theme" resolves to the exact opening for a seamless loop.
+- MIX: quiet and candlelit, matched to CLIP 1 so the loop is invisible.
 END STATE / STATE-MATCH LOCK: clip ends in the EXACT mirror-in-lap state and three-quarter angle of CLIP 1's START IMAGE — boudoir, wardrobe and contemplative expression matched, so the reel loops seamlessly.
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 1 (LOOP back to opening) — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: the burgundy velvet bias-cut slip dress, thin straps, mid-calf, the sheer black mesh robe open over it.
@@ -5529,23 +5692,22 @@ END STATE / STATE-MATCH LOCK: clip ends in the EXACT mirror-in-lap state and thr
 
 CUT LOGIC: ANGLE-CUT / LOOP back to CLIP 1; the next pass re-triggers the tomorrow-vision when she lifts the mirror.
 
-### ☆ EXTERNAL AUDIO — BLOCK 1: BACKGROUND SOUND DESIGN / AMBIENCE BED — C-3
-*The layered foley + ambience to lay UNDER the reel, separate from the in-clip diegetic audio — timed to the clips.*
-- Base bed (boudoir clips): a soft candlelit room-tone; dozens of candle-flames crackling; a faint settling-house creak; deep intimate quiet.
-- Trigger stamp (the look): a soft weighted mirror-lift on the look (CLIP 1) and a soft mirror-settle on the lower (CLIP 4).
-- CLIP 1–2 (vision): the tomorrow-scene's own muffled sound layering in — distant market chatter, laughter, a guitar, warm daylight bustle.
-- CLIP 3 (fade/spoken): the tomorrow-soundscape dissolving; the mirror returning to silent glass (a soft tonal descend); her low spoken line in a candle-crackle hush.
-- CLIP 4 (hook): the mirror settling (soft metal-on-velvet); a satisfied exhale.
-- CLIP 5 (reset): candle-crackle; velvet settle — back to the CLIP-1 bed.
-- Mix note: the two soundscapes (dark boudoir vs bright tomorrow-market) layer during the vision, then the bright one dissolves; loops cleanly at ~22s.
-
-### ☆ EXTERNAL AUDIO — BLOCK 2: BACKGROUND MUSIC / SCORE TRACK — C-3 (lay under the sound bed)
-- Genre / vibe: intimate dark-romantic mystery — a boudoir-noir score; candlelit, knowing, sensual but never overt.
-- Tempo / key: ~65 BPM, D minor, slow and deliberate.
-- Core elements: a solo cello playing the languid "mirror theme"; soft finger-picked classical guitar; a low sustained pad; candle-crackle texture woven in; a brief bright acoustic motif (the "tomorrow-theme") that plays ONLY during the mirror-vision and disappears when it fades.
-- Arc: cello solo (CLIP 1) → the tomorrow-theme bursts in bright during the vision (CLIP 2, contrasting) → fades as the vision dissolves (CLIP 3) → cello + guitar settle on the hook (CLIP 4) → solo cello on the loop (CLIP 5).
-- Texture note: the tomorrow-theme must sound like a DIFFERENT genre (light, bright, acoustic morning music) — the contrast between dark boudoir and bright tomorrow is the whole magic.
-- Loop: a clean ~22s loop matching the visual loop point.
+### ★ OUTSIDE MASTER AUDIO — C-3 (the single composed MUSIC track — generate in your music tool; lays under all 5 clips as one unified soundtrack with the Frame Audio)
+RUNTIME: exactly 40.000s = 5 clips × 8.000s · KEY: D minor (boudoir "mirror theme"), the bright tomorrow-theme lifting to its relative F major inside the vision · TEMPO: 65 BPM · composed for this EXACT length — never looped, stretched, cut, or faded out.
+EMOTIONAL TARGET: intimate dark-romantic mystery — a candlelit, knowing boudoir-noir that opens into bright wonder when tomorrow appears, then settles back to a sensual, private calm.
+NO FADE-IN — OPENS AT FULL PRESENCE: at 0:00.000 the solo cello "mirror theme" is already at full presence; the candlelit intimacy lands within the first second, no swell-from-silence.
+INSTRUMENT PALETTE (emotion-matched — Mystery / Romance): a solo cello as the hero voice, soft finger-picked classical guitar, a low sustained pad and woven candle-crackle texture; a bright acoustic "tomorrow-theme" that appears ONLY during the vision.
+VOCALS: none required (her one spoken line is the only voice — an optional breathy wordless pad only if it adds candlelit intimacy).
+ARRANGEMENT (timed to picture):
+- 0:00–0:08 (C1): the solo cello "mirror theme" sets the candlelit mood; the bright tomorrow-theme enters softly as the mirror lifts at ~0:04.
+- 0:08–0:16 (C2): the bright acoustic tomorrow-theme rises inside the vision, contrasting the cello — a different, sunnier world.
+- 0:16–0:24 (C3): the tomorrow-theme dissolves and the solo cello returns alone beneath her spoken line.
+- 0:24–0:32 (C4): cello + finger-picked guitar settle on the knowing hook, intimate and warm.
+- 0:32–0:40 (C5): the solo cello resolves to the exact opening voicing ; final chord lands at 0:39.8 on the exact 0:00 voicing.
+★ SYNCHRONIZED IMPACTS (musically integrated — the MUSIC itself blooms at these exact frames; never a separate inserted SFX; tuned to the track's key, tone and energy):
+- ~0:04 (C1 the mirror shows tomorrow): a soft celeste-and-harp reveal-shimmer as the bright tomorrow-theme blooms in — gentle wonder, never a boom. No booms — stays delicate and candlelit.
+LOOP LOCK: the phrase resolves at 40.000s onto the 0:00 downbeat — seamless. FEEL: candlelit, knowing, tender-wonder.
+(NOTE: this single Outside block replaces the old two-block system; all diegetic/ambience now lives in the per-clip ★ FRAME AUDIO above.)
 
 ---
 
@@ -5618,8 +5780,10 @@ FABRIC/HAIR/PROP PHYSICS: the brass key turns against a believable spring; the l
 FOOTWORK & BODY FLOW: a relaxed seated lean toward the box.
 MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE WAKE at 3.0–7.0s — triggered by the three winds, the lid lifts and the tiny porcelain ballerina in her pink tutu begins to glow warm-gold, beginning to stir to life; the magic seeded.
 LIGHTING-IN-MOTION: golden-hour steady; a tiny brass-key glint as it turns; the figurine's emerging glow lighting the box interior.
-DIEGETIC AUDIO: the winding mechanism (a satisfying ratchet-click-click-click); the lid rising (a soft aged-hinge creak); the first delicate notes of a music-box melody; her soft breath.
-MASTER TRACK: a solo music-box motif (the actual tune — 8 memorable notes, the series theme) begins.
+★ FRAME AUDIO — CLIP 1 (inside-prompt diegetic sound baked into this VEO clip; plays WITH the Outside Master Audio as one unified soundtrack):
+- DIEGETIC / SCENE SOUND: a soft golden-hour bedroom room-tone, a warm breeze in gauzy curtains, a faint fairy-light twinkle, distant birdsong, her soft breath; at ~2s the winding mechanism — a satisfying ratchet click-click-click; at ~4s the lid rises on a soft aged-hinge creak and the first delicate music-box notes ring out as the figurine wakes.
+- SYNCHRONIZED IMPACT: at ~4.0s (the lid opens and the figurine wakes) a soft music-box bell-bloom lifts — fused with the Master Audio's 8-note motif beginning on the same frame, so the music itself wakes the figurine; tiny and glassy, never a boom (matches the delicate Ghibli wonder).
+- MIX: intimate and warm; the ratchet-clicks crisp and centred, the music-box notes delicate and high.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 2's START IMAGE must reproduce 100%, new angle only): at clip end the music box is open, the tiny ballerina glowing warm-gold and beginning to stir; the dreamy golden-hour bedroom around; cream sweater, honey curls. CLIP 2 must open in this EXACT state (same open box, same glowing figurine, same bedroom, same wardrobe) — only the camera angle changes (to the macro on the figurine).
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 2 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: a cream cashmere cuff at the wrist edge.
@@ -5680,8 +5844,10 @@ FABRIC/HAIR/PROP PHYSICS: the tiny foot leaves the pedestal with a porcelain "cl
 FOOTWORK & BODY FLOW: hands only — reverent stillness.
 MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE STEP-OFF at 3.0–7.0s — triggered by the wind-magic (from CLIP 1), the figurine awakens, steps off its pedestal, and begins to grow/lift in a warm glow-bloom; the dancer coming to life.
 LIGHTING-IN-MOTION: the figurine's glow intensifies as it lifts — lighting the box interior like a tiny sun.
-DIEGETIC AUDIO: the music-box melody (delicate, tinkling, the main motif); a tiny porcelain "click" as the foot leaves; a soft magical chime-swell as it grows; the mechanism ticking.
-MASTER TRACK: the music-box motif joined by a soft entering string-quartet.
+★ FRAME AUDIO — CLIP 2 (inside-prompt diegetic sound baked into this VEO clip; plays WITH the Outside Master Audio as one unified soundtrack):
+- DIEGETIC / SCENE SOUND: the delicate music-box melody (the main motif) tinkling on, the mechanism ticking beneath; at ~3s a tiny porcelain "click" as the figurine's foot leaves its base; a soft magical chime-swell as it steps off and grows.
+- SYNCHRONIZED IMPACT: at ~3.0s (the figurine steps off and grows) a soft chime-and-celeste bell-bloom swells with the entering string-quartet — fused with the Master Audio so the music itself lifts her off the base and expands her; gentle and shimmering, never a boom.
+- MIX: the music-box motif close and tinkling; the porcelain click tiny and precise; the chime-swell soft and rising.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 3's START IMAGE must reproduce 100%, new angle only): at clip end the figurine has stepped off and is lifting/growing in a warm glow; the golden-hour bedroom around (the dancer about to be life-size in CLIP 3); cream sweater, honey curls. CLIP 3 must open in this EXACT magic-in-progress state (figurine growing toward life-size, same bedroom, same wardrobe) — only the angle changes (to the full-body two-shot).
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 3 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: the cream off-shoulder sweater and cream lounge trousers, barefoot — identical state.
@@ -5742,8 +5908,10 @@ FABRIC/HAIR/PROP PHYSICS: the tutu flares with centrifugal momentum; the glow-pa
 FOOTWORK & BODY FLOW: the dancer's flawless pointe-work; Aira's small empathetic sway.
 MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE PIROUETTE at 2.4–5.6s — the life-size dancer performs one perfect spin beside Aira, the magic at its full graceful bloom (the figurine fully alive and dancing).
 LIGHTING-IN-MOTION: the dancer's glow flares slightly at the peak of the spin, then settles.
-DIEGETIC AUDIO: the music-box melody at full beautiful volume (as if the room is the box); the soft swish of the tutu; the pointe-shoe touching down (a whisper-tap); Aira's held breath then gentle exhale; a faint glow-particle sparkle.
-MASTER TRACK: the full string-quartet plus a solo flute joins at the pirouette — the emotional peak.
+★ FRAME AUDIO — CLIP 3 (inside-prompt diegetic sound baked into this VEO clip; plays WITH the Outside Master Audio as one unified soundtrack):
+- DIEGETIC / SCENE SOUND: the music-box melody at full beautiful volume as if the whole room is the box, the soft swish of the tutu, the pointe-shoe touching down in a whisper-tap, Aira's held breath then a gentle exhale, a faint glow-particle sparkle; at ~3s the life-size pirouette beside her.
+- SYNCHRONIZED IMPACT: at ~3.0s (the life-size pirouette) a full but soft bell-and-flute bloom crests as the string-quartet and solo flute join — fused with the Master Audio's emotional peak on the same frame, so the music itself spins her; warm and swelling, still delicate, never a boom.
+- MIX: the melody full and room-filling; the tutu-swish and whisper-tap delicate; the flute soaring softly over the strings.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 4's START IMAGE must reproduce 100%, new angle only): at clip end the dancer finishes the pirouette and begins to shrink/return; Aira watches with a tender smile; the golden-hour bedroom around; cream sweater, honey curls. CLIP 4 must open in this EXACT state (dancer beginning to shrink, same bedroom, same wardrobe) — only the angle changes (to the close-up on Aira).
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 4 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: the cream off-shoulder sweater at the bare shoulder — identical state.
@@ -5804,8 +5972,10 @@ FABRIC/HAIR/PROP PHYSICS: the dancer shrinks smoothly (a zoom-out applied to her
 FOOTWORK & BODY FLOW: a gentle forward inclination, hand extending then easing.
 MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE RETURN at 3.0–7.0s — the dancer shrinks (glowing, graceful), floats back into the open music box, and settles onto the pedestal as the lid begins to lower; the magic recalled.
 LIGHTING-IN-MOTION: the golden glow contracts with the dancer, dimming; golden-hour ambient reasserts.
-DIEGETIC AUDIO: the music-box melody slowing (winding down); the soft shrinking (a gentle descending tone); the porcelain tap as she settles; the lid lowering (a soft creak); the mechanism stopping.
-MASTER TRACK: the strings thin to a solo cello/harp for the goodbye; the music-box motif slowing.
+★ FRAME AUDIO — CLIP 4 (inside-prompt diegetic sound baked into this VEO clip; plays WITH the Outside Master Audio as one unified soundtrack):
+- DIEGETIC / SCENE SOUND: the music-box melody slowing as it winds down, a gentle descending tone as the dancer shrinks, the soft porcelain tap as she settles back onto the base, the lid lowering on a soft creak, the mechanism stopping.
+- SYNCHRONIZED IMPACT: none — the tender goodbye; let the Master Audio's strings thin to a solo cello and harp and the music-box motif slow, the moment carried by the wind-down rather than a hit.
+- MIX: warm and bittersweet; the slowing melody intimate, the shrink-tone soft and descending.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 5's START IMAGE must reproduce 100%, then loop): at clip end the dancer has returned to the box and the lid is lowering; Aira gives a grateful tender smile; the golden-hour bedroom around; cream sweater, honey curls. CLIP 5 must open in this EXACT state then reset to the CLIP-1 wind-up — same bedroom, same wardrobe.
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 5 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: the cream cashmere off-shoulder sweater, cream lounge trousers — matched to CLIP 1.
@@ -5866,8 +6036,10 @@ FABRIC/HAIR/PROP PHYSICS: the box closes with a soft click; curls and cashmere s
 FOOTWORK & BODY FLOW: a relaxed seated settle, the CLIP-1 lean.
 MID-CLIP TRANSFORMATION (timed): the figurine is back on its pedestal, the box closed; the next loop re-triggers the dancer when she next winds the key (the start of CLIP 1).
 LIGHTING-IN-MOTION: golden-hour steady — matched to CLIP 1.
-DIEGETIC AUDIO: the lid clicking shut; the mechanism stopping; golden-hour room-tone; curtain rustle; her content breath — back to the CLIP-1 bed.
-MASTER TRACK: the solo music-box motif closes, looping cleanly to the opening.
+★ FRAME AUDIO — CLIP 5 (inside-prompt diegetic sound baked into this VEO clip; plays WITH the Outside Master Audio as one unified soundtrack):
+- DIEGETIC / SCENE SOUND: the lid clicking shut, the mechanism stopping, the golden-hour room-tone, a curtain rustle, her content breath — returning to the CLIP-1 bed.
+- SYNCHRONIZED IMPACT: none — the reset clip; the solo music-box motif closes and resolves to the exact opening for a seamless loop.
+- MIX: quiet and warm, matched to CLIP 1 so the loop is invisible.
 END STATE / STATE-MATCH LOCK: clip ends in the EXACT closed-box state and three-quarter angle of CLIP 1's START IMAGE — bedroom, wardrobe and tender-anticipation expression matched, so the reel loops seamlessly.
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 1 (LOOP back to opening) — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: the soft cream cashmere off-shoulder sweater, one shoulder exposed, over cream lounge trousers; warm and relaxed.
@@ -5888,23 +6060,24 @@ END STATE / STATE-MATCH LOCK: clip ends in the EXACT closed-box state and three-
 
 CUT LOGIC: ANGLE-CUT / LOOP back to CLIP 1; the next pass re-triggers the dancer when she winds the key.
 
-### ☆ EXTERNAL AUDIO — BLOCK 1: BACKGROUND SOUND DESIGN / AMBIENCE BED — C-4
-*The layered foley + ambience to lay UNDER the reel, separate from the in-clip diegetic audio — timed to the clips.*
-- Base bed (all clips): a soft golden-hour bedroom room-tone; a gentle warm breeze in the gauzy curtains; a faint fairy-light electrical twinkle; a distant birdsong.
-- Trigger stamp (the wind): a satisfying ratchet-click-click-click on the wind-up (CLIP 1) and a soft lid-click on the close (CLIP 5).
-- CLIP 1–2 (wake/step-off): a delicate music-box melody beginning; an aged-hinge lid-creak; a tiny porcelain "click" as the foot leaves; a soft magical chime-swell.
-- CLIP 3 (pirouette): the music-box melody at full volume; the soft tutu-swish; a whisper-tap pointe-shoe; a glow-particle sparkle.
-- CLIP 4 (goodbye): the melody slowing/winding down; a gentle descending shrink-tone; a porcelain settle-tap; the lid lowering.
-- CLIP 5 (reset): the lid clicking shut; the mechanism stopping — back to the CLIP-1 bed.
-- Mix note: the music-box melody IS the signature sonic brand — identical each loop, 8 memorable notes; keep delicate; loops cleanly at ~22s.
-
-### ☆ EXTERNAL AUDIO — BLOCK 2: BACKGROUND MUSIC / SCORE TRACK — C-4 (lay under the sound bed)
-- Genre / vibe: a delicate, emotional orchestral miniature — a Studio-Ghibli-score moment; tender, beautiful, slightly melancholic warmth.
-- Tempo / key: ~60 BPM, G major, gentle waltz-time (3/4).
-- Core elements: a solo music-box motif (the actual prop tune — 8 memorable notes, the series theme); a building warm string-quartet; a solo flute joining at the pirouette; a soft harp for the goodbye; returns to solo music-box.
-- Arc: music-box solo (CLIP 1, winding) → strings enter as the figurine grows (CLIP 2) → full quartet + flute at the pirouette (CLIP 3, the emotional peak) → strings thin to solo cello/harp at the goodbye (CLIP 4) → music-box solo returns on the loop (CLIP 5).
-- Texture note: the 8-note music-box motif MUST be identical each loop — the sonic signature of this recurring object.
-- Loop: a clean ~22s loop matching the visual loop point.
+### ★ OUTSIDE MASTER AUDIO — C-4 (the single composed MUSIC track — generate in your music tool; lays under all 5 clips as one unified soundtrack with the Frame Audio)
+RUNTIME: exactly 40.000s = 5 clips × 8.000s · KEY: G major · TEMPO: 60 BPM, gentle waltz-time (3/4) · composed for this EXACT length — never looped, stretched, cut, or faded out.
+EMOTIONAL TARGET: a delicate, emotional orchestral miniature — a Studio-Ghibli tenderness, beautiful and slightly melancholic, that wakes, blooms to a life-size pirouette peak, then says a soft goodbye.
+NO FADE-IN — OPENS AT FULL PRESENCE: at 0:00.000 the solo music-box motif (the 8-note series theme) is already at full presence; the tender wonder lands within the first second, no swell-from-silence.
+INSTRUMENT PALETTE (emotion-matched — Dream / Beauty): a solo music-box motif as the hero voice (the prop tune, 8 memorable notes), a building warm string-quartet, a solo flute at the pirouette, and a soft harp for the goodbye.
+VOCALS: none required (an optional wordless airy soprano "ah" only if it adds Ghibli-style warmth at the pirouette peak).
+ARRANGEMENT (timed to picture):
+- 0:00–0:08 (C1): the solo music-box motif begins as she winds the key — the 8-note theme, delicate and identical every loop.
+- 0:08–0:16 (C2): a warm string-quartet enters softly as the figurine steps off and grows.
+- 0:16–0:24 (C3): the full quartet plus a solo flute joins at the life-size pirouette — the emotional peak.
+- 0:24–0:32 (C4): the strings thin to a solo cello and harp for the goodbye as the music-box motif slows.
+- 0:32–0:40 (C5): the solo music-box motif returns and resolves to the exact opening ; final chord lands at 0:39.8 on the exact 0:00 voicing.
+★ SYNCHRONIZED IMPACTS (musically integrated — the MUSIC itself blooms at these exact frames; never a separate inserted SFX; tuned to the track's key, tone and energy):
+- ~0:04 (C1 the figurine wakes): a soft music-box bell-bloom as the 8-note motif begins — tiny and glassy.
+- ~0:11 (C2 the figurine steps off and grows): a soft chime-and-celeste bell-bloom with the entering strings.
+- ~0:19 (C3 the life-size pirouette): a full but soft bell-and-flute bloom at the emotional peak. No booms — stays delicate, like the music box itself.
+LOOP LOCK: the phrase resolves at 40.000s onto the 0:00 downbeat — seamless. FEEL: delicate, tender, bittersweet-beautiful.
+(NOTE: this single Outside block replaces the old two-block system; all diegetic/ambience now lives in the per-clip ★ FRAME AUDIO above.)
 
 ---
 
@@ -5977,8 +6150,10 @@ FABRIC/HAIR/PROP PHYSICS: the globe vibrates with correct heavy-brass-on-shelf w
 FOOTWORK & BODY FLOW: a relaxed mid-room settle, then a gentle turn toward the shelf.
 MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE SELF-SHAKE at 3.0–6.0s — triggered by her settling into cosy stillness, the globe vibrates and shakes itself, the internal snow swirling and the tiny village lights igniting; the object self-animating "when the time is right".
 LIGHTING-IN-MOTION: warm fireplace steady; the globe's internal village-lights igniting as warm pinpoints on the shelf.
-DIEGETIC AUDIO: the fireplace crackle; a cocoa sip; the globe's rattle-vibrate (a soft brass-on-wood); the internal snow-swirl (a muffled whoosh); her surprised "hmm?"; the tiny lights igniting (a soft chime).
-MASTER TRACK: a soft solo-piano "globe theme" (6 cosy notes) + fireplace-crackle texture; a celeste shimmer entering on the self-shake.
+★ FRAME AUDIO — CLIP 1 (inside-prompt diegetic sound baked into this VEO clip; plays WITH the Outside Master Audio as one unified soundtrack):
+- DIEGETIC / SCENE SOUND: the deep cosy cabin room-tone, a crackling fireplace, a faint wind outside the frosted windows, a cocoa sip; at ~4s the globe's soft brass-on-wood rattle-vibrate as she settles and it shakes itself, a muffled internal snow-swirl whoosh, her surprised "hmm?", and the tiny village-lights igniting with a soft chime.
+- SYNCHRONIZED IMPACT: at ~4.0s (the globe shakes itself) a soft glassy celeste shimmer-bloom lifts — fused with the Master Audio's piano "globe theme" as the celeste enters on the same frame, so the music itself shakes the globe; delicate and crystalline, never a boom (matches the cosy winter wonder).
+- MIX: warm and enveloping; the fire-crackle present, the globe-rattle close, the ignition-chime tiny and high.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 2's START IMAGE must reproduce 100%, new angle only): at clip end the globe is actively shaking itself on the shelf, snow swirling inside, tiny village-lights blazing; the cosy cabin around; oatmeal sweater, espresso braid. CLIP 2 must open in this EXACT state (same shaking globe, same swirling snow, same cabin, same wardrobe) — only the camera angle changes.
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 2 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: the oatmeal cable-knit dress from behind, belt at the back — identical state.
@@ -6039,8 +6214,10 @@ FABRIC/HAIR/PROP PHYSICS: snowflakes phase through the glass seamlessly, then dr
 FOOTWORK & BODY FLOW: a step toward the shelf, weight forward.
 MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE ESCAPE at 3.0–7.0s — triggered by the self-shaking globe, real crystalline snowflakes phase out through the glass into the cabin in increasing numbers, drifting and catching firelight; the magic spilling into the room.
 LIGHTING-IN-MOTION: each escaping snowflake catches firelight individually — tiny golden glints filling the air.
-DIEGETIC AUDIO: the muffled globe-swirl; snowflakes entering the room (a soft crystalline tinkling); the fireplace crackle; a faint icy-breeze sound; her delighted gasp-laugh.
-MASTER TRACK: the solo piano gains a celeste/glockenspiel snowfall-shimmer.
+★ FRAME AUDIO — CLIP 2 (inside-prompt diegetic sound baked into this VEO clip; plays WITH the Outside Master Audio as one unified soundtrack):
+- DIEGETIC / SCENE SOUND: the muffled globe-swirl, snowflakes entering the room as a soft crystalline tinkling, the fireplace crackle, a faint icy-breeze sound, her delighted gasp-laugh.
+- SYNCHRONIZED IMPACT: at ~2.0s (the snow phases out into the room) a soft crystalline celeste-and-glockenspiel shimmer swells as the flakes cross into the cabin — fused with the Master Audio's snowfall-shimmer on the same frame, so the music itself releases the snow; glassy and gentle, never a boom.
+- MIX: the snowfall-tinkle wide and crystalline; her gasp-laugh close; the fire warm beneath.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 3's START IMAGE must reproduce 100%, new angle only): at clip end snow is drifting freely into the cabin from the globe, catching firelight, the globe blazing on the shelf; the cosy cabin around; oatmeal sweater, espresso braid. CLIP 3 must open in this EXACT state (same indoor snowfall beginning, same globe, same cabin, same wardrobe) — only the angle changes (to the full-body hero).
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 3 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: the oatmeal cable-knit sweater dress, belt, with a fine snow-dusting on the shoulders — identical state.
@@ -6101,8 +6278,10 @@ FABRIC/HAIR/PROP PHYSICS: snow obeys correct drift-speed and accumulation; her s
 FOOTWORK & BODY FLOW: a grounded slow spin, socks on the snow-dusted floor.
 MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE SNOWFALL at 0.0–6.4s — the indoor snowfall at full intensity, filling the room, dusting every surface, the fire coexisting, the globe pulsing — the magic at its cosy peak.
 LIGHTING-IN-MOTION: the low angle makes the snowfall read as a canopy of golden stars above her.
-DIEGETIC AUDIO: the full indoor snowfall (a soft crystalline ambient, like gentle static); the fireplace crackling; the globe humming; her joyful laugh; the tiny patter of snow accumulating; a wind-chime quality to the flakes.
-MASTER TRACK: full warm strings + glockenspiel shimmer — the cosy emotional peak.
+★ FRAME AUDIO — CLIP 3 (inside-prompt diegetic sound baked into this VEO clip; plays WITH the Outside Master Audio as one unified soundtrack):
+- DIEGETIC / SCENE SOUND: the full indoor snowfall as a soft crystalline ambient like gentle static, the fireplace crackling through it, the globe humming, her joyful laugh, the tiny patter of snow accumulating, a wind-chime quality to the flakes.
+- SYNCHRONIZED IMPACT: at ~2.0s (she bathes in the indoor snowfall) a full but soft warm-string-and-glockenspiel shimmer-bloom crests — fused with the Master Audio's cosy emotional peak on the same frame, so the music itself becomes the snowfall; warm and enveloping, still delicate, never a boom.
+- MIX: the snowfall ambient immersive and crystalline; the glockenspiel sparkling over warm strings; the fire glowing beneath.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 4's START IMAGE must reproduce 100%, new angle only): at clip end the room is full of drifting snow at its peak, Aira mid-bliss with snow on her lashes and braid; the globe blazing; cosy cabin around; oatmeal sweater. CLIP 4 must open in this EXACT state (same snowfall, same wardrobe) then the snow begins to thin within CLIP 4.
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 4 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: the oatmeal sweater shoulder dusted white — identical state.
@@ -6163,8 +6342,10 @@ FABRIC/HAIR/PROP PHYSICS: the last flake lands with weightless contact then melt
 FOOTWORK & BODY FLOW: an upright, gentle stillness.
 MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE SETTLE at 3.0–7.0s — the snowfall slows to a stop, the last flakes drift, the globe's light dims, and the accumulated snow on surfaces fades (melting impossibly fast); the magic gently receding.
 LIGHTING-IN-MOTION: the globe's glow dims to its resting state; firelight reasserts as primary.
-DIEGETIC AUDIO: the snowfall fading to silence; the last flake landing (a tiny "tink"); the fire reasserting; the globe settling (a soft brass-settle); her satisfied exhale.
-MASTER TRACK: the strings thin to solo piano + a last celeste shimmer.
+★ FRAME AUDIO — CLIP 4 (inside-prompt diegetic sound baked into this VEO clip; plays WITH the Outside Master Audio as one unified soundtrack):
+- DIEGETIC / SCENE SOUND: the snowfall fading to silence, the last flake landing with a tiny "tink", the fire reasserting, the globe settling on a soft brass-settle, her satisfied exhale.
+- SYNCHRONIZED IMPACT: none — the snow recedes; let the Master Audio thin to solo piano and a last celeste shimmer, the moment carried by the fade rather than a hit.
+- MIX: intimate and cosy; the last "tink" delicate, the fire warm and close.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 5's START IMAGE must reproduce 100%, then loop): at clip end the snow has stopped, the room clearing, the globe dimming to rest; Aira peaceful with a gentle smile; cosy cabin around; oatmeal sweater, espresso braid. CLIP 5 must open in this EXACT state then reset to the CLIP-1 cocoa-cradle — same cabin, same wardrobe (snow gone).
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 5 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: the oatmeal cable-knit sweater dress, brown belt — matched to CLIP 1 (snow gone).
@@ -6225,8 +6406,10 @@ FABRIC/HAIR/PROP PHYSICS: mug weight, braid drape, cocoa steam — all matched t
 FOOTWORK & BODY FLOW: a relaxed mid-room settle, the CLIP-1 stand.
 MID-CLIP TRANSFORMATION (timed): the cabin RESETS, the globe still and dark; the next loop re-triggers the self-shake when she next settles into cosy stillness (the start of CLIP 1).
 LIGHTING-IN-MOTION: fireplace steady — matched to CLIP 1.
-DIEGETIC AUDIO: fireplace crackle; wind outside; cocoa steam; her content breath — back to the CLIP-1 bed.
-MASTER TRACK: the solo-piano "globe theme" + fire-crackle settles, looping cleanly.
+★ FRAME AUDIO — CLIP 5 (inside-prompt diegetic sound baked into this VEO clip; plays WITH the Outside Master Audio as one unified soundtrack):
+- DIEGETIC / SCENE SOUND: the fireplace crackle, wind outside, cocoa steam, her content breath — returning to the CLIP-1 bed.
+- SYNCHRONIZED IMPACT: none — the reset clip; the solo-piano "globe theme" and fire-crackle settle to the exact opening for a seamless loop.
+- MIX: quiet and warm, matched to CLIP 1 so the loop is invisible.
 END STATE / STATE-MATCH LOCK: clip ends in the EXACT cocoa-cradle state and wide angle of CLIP 1's START IMAGE — still globe, cabin, wardrobe and content expression matched, so the reel loops seamlessly.
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 1 (LOOP back to opening) — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: the oversized oatmeal cable-knit sweater dress, mid-thigh, a thin brown leather belt at the waist; chunky and cosy.
@@ -6247,23 +6430,24 @@ END STATE / STATE-MATCH LOCK: clip ends in the EXACT cocoa-cradle state and wide
 
 CUT LOGIC: ANGLE-CUT / LOOP back to CLIP 1; the next pass re-triggers the globe's self-shake when she settles.
 
-### ☆ EXTERNAL AUDIO — BLOCK 1: BACKGROUND SOUND DESIGN / AMBIENCE BED — C-5
-*The layered foley + ambience to lay UNDER the reel, separate from the in-clip diegetic audio — timed to the clips.*
-- Base bed (all clips): a deep cosy cabin room-tone; a crackling fireplace throughout; a faint wind outside the frosted windows.
-- Trigger stamp (self-shake): a soft brass-on-wood globe rattle-vibrate on the self-shake (CLIP 1) and a soft brass-settle on the close (CLIP 5).
-- CLIP 1–2 (shake/escape): a muffled internal snow-swirl whoosh; tiny village-light ignition chimes; snowflakes entering the room (a soft crystalline tinkling); a faint icy breeze.
-- CLIP 3 (snowfall): the full indoor snowfall (a soft crystalline ambient, like gentle static); the fire crackling through it; the globe humming; a happy laugh.
-- CLIP 4 (settle): the snowfall fading to silence; a tiny last-flake "tink"; the globe brass-settle.
-- CLIP 5 (reset): fire crackle; cocoa steam; a content breath — back to the CLIP-1 bed.
-- Mix note: the snowfall ambient is the signature texture — soft, crystalline, cosy; loops cleanly at ~22s.
-
-### ☆ EXTERNAL AUDIO — BLOCK 2: BACKGROUND MUSIC / SCORE TRACK — C-5 (lay under the sound bed)
-- Genre / vibe: cosy cinematic warmth with a magical shimmer — a winter-evening score; hygge-meets-Narnia.
-- Tempo / key: ~68 BPM, Eb major, gentle and enveloping.
-- Core elements: a soft solo-piano motif (the "globe theme" — 6 cosy notes); warm low strings; a celeste/glockenspiel shimmer for the snowfall; subtle sleigh-bell texture (not cheesy); a crackling-fire texture woven in.
-- Arc: solo piano + fire-crackle (CLIP 1) → a low rumble + celeste entering on the self-shake (CLIP 2) → full strings + glockenspiel shimmer at the indoor-snowfall hero (CLIP 3, the peak) → thins to solo piano + celeste as the snow recedes (CLIP 4) → solo piano + fire on the loop (CLIP 5).
-- Texture note: the celeste/glockenspiel IS the snow — it enters with the flakes and leaves with them; the piano is the cabin.
-- Loop: a clean ~22s loop matching the visual loop point.
+### ★ OUTSIDE MASTER AUDIO — C-5 (the single composed MUSIC track — generate in your music tool; lays under all 5 clips as one unified soundtrack with the Frame Audio)
+RUNTIME: exactly 40.000s = 5 clips × 8.000s · KEY: Eb major · TEMPO: 68 BPM · composed for this EXACT length — never looped, stretched, cut, or faded out.
+EMOTIONAL TARGET: cosy cinematic warmth with a magical shimmer — a hygge-meets-Narnia winter evening that shakes itself awake, releases a wondrous indoor snowfall, then settles back to firelit calm.
+NO FADE-IN — OPENS AT FULL PRESENCE: at 0:00.000 the soft solo-piano "globe theme" (6 cosy notes) + fire-crackle is already at full presence; the cosy warmth lands within the first second, no swell-from-silence.
+INSTRUMENT PALETTE (emotion-matched — Dream / Beauty): a soft solo-piano motif as the hero voice (the 6-note "globe theme"), warm low strings, a celeste/glockenspiel shimmer that IS the snow, subtle sleigh-bell texture, and woven fire-crackle.
+VOCALS: none required (an optional wordless warm hum only if it adds firelit cosiness).
+ARRANGEMENT (timed to picture):
+- 0:00–0:08 (C1): solo piano + fire-crackle set the cosy mood; a celeste shimmer enters as the globe shakes itself at ~0:04.
+- 0:08–0:16 (C2): the piano gains a celeste/glockenspiel snowfall-shimmer as snow phases out into the room.
+- 0:16–0:24 (C3): full warm strings + glockenspiel shimmer at the indoor-snowfall hero — the cosy peak.
+- 0:24–0:32 (C4): the strings thin to solo piano + a last celeste shimmer as the snow recedes.
+- 0:32–0:40 (C5): solo piano + fire resolve to the exact opening ; final chord lands at 0:39.8 on the exact 0:00 voicing.
+★ SYNCHRONIZED IMPACTS (musically integrated — the MUSIC itself blooms at these exact frames; never a separate inserted SFX; tuned to the track's key, tone and energy):
+- ~0:04 (C1 the globe shakes itself): a soft glassy celeste shimmer-bloom as the celeste enters — delicate and crystalline.
+- ~0:10 (C2 the snow phases into the room): a soft crystalline celeste-and-glockenspiel shimmer as the flakes cross in.
+- ~0:18 (C3 the indoor-snowfall hero): a full but soft warm-string-and-glockenspiel shimmer-bloom at the cosy peak. No booms — stays soft, glassy and cosy.
+LOOP LOCK: the phrase resolves at 40.000s onto the 0:00 downbeat — seamless. FEEL: cosy, crystalline, magical-warm.
+(NOTE: this single Outside block replaces the old two-block system; all diegetic/ambience now lives in the per-clip ★ FRAME AUDIO above.)
 
 ---
 
@@ -6339,8 +6523,10 @@ FABRIC/HAIR/PROP PHYSICS: the heat-shimmer is correct convection distortion; con
 FOOTWORK & BODY FLOW: a relaxed lean, weight on one hip, reaching.
 MID-CLIP TRANSFORMATION (timed): NONE yet — pure hot-terrace establishing (the chill-wave is reserved for CLIP 2's sip). The glass touch gives a tiny relief-shiver, seeding the payoff.
 LIGHTING-IN-MOTION: harsh and hot, steady — about to be disrupted.
-DIEGETIC AUDIO: LOUD cicadas; a hot breeze; ice clinking in the glass; distant sea; her heat-breath; condensation dripping onto hot tile (a tiny sizzle-hiss).
-MASTER TRACK: a lazy summer guitar-loop (clean, muted) + a warm sub-bass pad + cicada-texture.
+★ FRAME AUDIO — CLIP 1 (inside-prompt diegetic sound baked into this VEO clip; plays WITH the Outside Master Audio as one unified soundtrack):
+- DIEGETIC / SCENE SOUND: LOUD cicadas, a hot dry breeze, ice clinking in the glass, the distant sea, her heat-breath, condensation dripping onto hot tile with a tiny sizzle-hiss; at ~5s the glass touch — a tiny relief-shiver.
+- SYNCHRONIZED IMPACT: none — the hot establishing reach; let the lazy clean guitar-loop and cicada-texture build the heat before the chill.
+- MIX: bright and parched; cicadas wide and loud, the ice-clink crisp, the heat-breath close.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 2's START IMAGE must reproduce 100%, new angle only): at clip end she holds the sweating glass, about to sip, the blazing hot terrace around (heat-shimmer, bougainvillea, sea); white linen, caramel ponytail, heat-glow. CLIP 2 must open in this EXACT hot state (same blazing terrace, same glass at her lips, same wardrobe) — only the camera angle changes (to the close-up).
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 2 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: the white linen collar at the throat — identical state.
@@ -6401,8 +6587,10 @@ FABRIC/HAIR/PROP PHYSICS: the frost-bloom follows real dendritic ice-crystal pat
 FOOTWORK & BODY FLOW: a slight lean-back into the relief.
 MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE CHILL-WAVE at 2.4–4.8s — triggered by the sip, a blue-white chill radiates from her in all directions, frost blooms explosively on the glass, her breath fogs, the nearest terracotta tile and bougainvillea-edges frost white; a momentary winter inside the summer.
 LIGHTING-IN-MOTION: the chill-wave carries a brief cool-blue light-shift washing over her face and frame, then fades — a momentary colour-temperature drop.
-DIEGETIC AUDIO: the sip (a cold gulp); THE CHILL — a deep satisfying bass-drop "WHOOOMPH" (chest-felt) + a crystalline frost-crackle spreading rapidly + a sharp cold breath-exhale; cicadas cutting to silence for one beat.
-MASTER TRACK: the lazy guitar strips to sub-bass anticipation, then a MASSIVE satisfying bass-DROP + a crystalline reverse-cymbal + a frozen beat of silence on the chill.
+★ FRAME AUDIO — CLIP 2 (inside-prompt diegetic sound baked into this VEO clip; plays WITH the Outside Master Audio as one unified soundtrack):
+- DIEGETIC / SCENE SOUND: the cold gulp of the sip; THE CHILL — a deep, satisfying chill-wave felt in the chest + a crystalline frost-crackle spreading rapidly + a sharp cold breath-exhale; the cicadas cutting to silence for one beat.
+- SYNCHRONIZED IMPACT: at ~2.5s (the sip releases the chill-wave) a crisp refreshing chill-swell drops — the lazy guitar strips to a sub-bass bloom that lands with a satisfying low end and a crystalline reverse-cymbal shimmer, fused with the Master Audio on the same frame so the music itself is the cold relief; deeply satisfying but crisp and clean, never an aggressive boom (matches the intimate-sensory refreshment).
+- MIX: the pre-sip silence total; the chill-swell deep and centred; the frost-crackle crystalline and spreading wide.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 3's START IMAGE must reproduce 100%, new angle only): at clip end a blue-white chill has bloomed — the glass frosted, her breath fogging, the nearest surfaces frosting; her face in dawning ecstasy; the terrace beginning to frost; white linen, caramel ponytail. CLIP 3 must open in this EXACT chill-bloom state (same frost, same cool-blue shift, same wardrobe) — only the angle changes (to the full-body hero).
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 3 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: the white linen and terracotta pants with a faint frost-sheen over the fabric — identical state.
@@ -6463,8 +6651,10 @@ FABRIC/HAIR/PROP PHYSICS: frost melts with correct water-state transition (thin 
 FOOTWORK & BODY FLOW: a grounded heroic stance, a slight sway of relief.
 MID-CLIP TRANSFORMATION (timed — heavy detail): ★ PEAK-AND-MELT at 0.0–6.4s — the frost is at peak (everything white/crystalline) then melts fast as the summer heat fights back; steam, drips, the frost receding outward from her (her body-heat unfreezing things first).
 LIGHTING-IN-MOTION: cool-blue shifting back to hot gold as the frost melts — the colour temperature rising in real time.
-DIEGETIC AUDIO: the frost crackling as it melts (a cascade of tiny ice-breaks); steam hissing off hot tiles; dripping water; cicadas rushing back; her satisfied "ahhh"; the summer reclaiming.
-MASTER TRACK: the bass-drop tail; the lazy summer guitar returning warm as the frost melts.
+★ FRAME AUDIO — CLIP 3 (inside-prompt diegetic sound baked into this VEO clip; plays WITH the Outside Master Audio as one unified soundtrack):
+- DIEGETIC / SCENE SOUND: the frost crackling as it melts in a cascade of tiny ice-breaks, steam hissing off the hot tiles, dripping water, cicadas rushing back, her satisfied "ahhh", the summer reclaiming.
+- SYNCHRONIZED IMPACT: none — the cooling reverses; let the Master Audio's chill-drop tail decay and the lazy summer guitar return warm as the frost melts.
+- MIX: the ice-breaks delicate and scattered; cicadas swelling back wide; her "ahhh" warm and close.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 4's START IMAGE must reproduce 100%, new angle only): at clip end the frost is mostly melted, steam rising, the terrace warming back to hot; Aira lowering her head with a satisfied grin; white linen, caramel ponytail. CLIP 4 must open in this EXACT melting-back state (heat returning, last steam, same wardrobe) — only the angle changes (to the profile).
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 4 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: the white linen top in profile (frost-sheen gone), terracotta pants — identical state.
@@ -6525,8 +6715,10 @@ FABRIC/HAIR/PROP PHYSICS: sunglasses slide down with a soft click; the glass mee
 FOOTWORK & BODY FLOW: an easy lean-back on the railing.
 MID-CLIP TRANSFORMATION (timed): the heat is fully back (the chill-magic resolved); the last steam-wisps fade; the terrace as hot as the opening.
 LIGHTING-IN-MOTION: hot sun at full intensity — matched to the opening.
-DIEGETIC AUDIO: sunglasses sliding (a soft click); the glass-tap; the lean-back (railing creak); cicadas at full volume; hot breeze; her long satisfied exhale.
-MASTER TRACK: the lazy summer guitar warm and full again.
+★ FRAME AUDIO — CLIP 4 (inside-prompt diegetic sound baked into this VEO clip; plays WITH the Outside Master Audio as one unified soundtrack):
+- DIEGETIC / SCENE SOUND: sunglasses sliding with a soft click, a decisive glass-tap, the lean-back with a railing creak, cicadas at full volume, the hot breeze, her long satisfied exhale.
+- SYNCHRONIZED IMPACT: none — the smug after-state; the lazy summer guitar is warm and full again.
+- MIX: relaxed and spacious; the sunglasses-click and glass-tap crisp, cicadas full and wide.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 5's START IMAGE must reproduce 100%, then loop): at clip end the terrace is fully hot again, Aira smug-calm with shades on, the glass set down; white linen, caramel ponytail. CLIP 5 must open in this EXACT hot state then reset to the CLIP-1 reach — same terrace, same wardrobe (shades back up).
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 5 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: the white linen tied button-up, terracotta linen pants — matched to CLIP 1.
@@ -6587,8 +6779,10 @@ FABRIC/HAIR/PROP PHYSICS: the glass sweats; cicadas loud; heat-shimmer; wispy ha
 FOOTWORK & BODY FLOW: a relaxed railing-lean, reaching.
 MID-CLIP TRANSFORMATION (timed): the terrace is fully hot; the next loop re-triggers the chill-wave on her next sip (the start of CLIP 1→2).
 LIGHTING-IN-MOTION: harsh hot sun — matched to CLIP 1.
-DIEGETIC AUDIO: cicadas; hot breeze; glass condensation dripping; heat — back to the CLIP-1 bed.
-MASTER TRACK: the lazy summer guitar-loop resolves to the opening, looping cleanly.
+★ FRAME AUDIO — CLIP 5 (inside-prompt diegetic sound baked into this VEO clip; plays WITH the Outside Master Audio as one unified soundtrack):
+- DIEGETIC / SCENE SOUND: cicadas, the hot breeze, glass condensation dripping, the heat — returning to the CLIP-1 bed.
+- SYNCHRONIZED IMPACT: none — the reset clip; the lazy summer guitar-loop resolves to the exact opening for a seamless loop.
+- MIX: bright and parched, matched to CLIP 1 so the loop is invisible.
 END STATE / STATE-MATCH LOCK: clip ends in the EXACT hot-terrace reach state and full-body angle of CLIP 1's START IMAGE — heat, wardrobe and thirsty expression matched, so the reel loops seamlessly.
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 1 (LOOP back to opening) — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: a white linen cropped button-up tied at the waist over a simple top, high-waist terracotta linen wide-leg pants; breezy, sun-warmed.
@@ -6609,23 +6803,22 @@ END STATE / STATE-MATCH LOCK: clip ends in the EXACT hot-terrace reach state and
 
 CUT LOGIC: ANGLE-CUT / LOOP back to CLIP 1; the next pass re-triggers the chill-wave on the sip.
 
-### ☆ EXTERNAL AUDIO — BLOCK 1: BACKGROUND SOUND DESIGN / AMBIENCE BED — D-1
-*The layered foley + ambience to lay UNDER the reel, separate from the in-clip diegetic audio — timed to the clips.*
-- Base bed (hot clips): LOUD cicadas; a hot dry breeze; distant sea; condensation dripping onto hot tile (a faint sizzle-hiss); ice clinking in the glass.
-- CLIP 1 (reach): the glass touch — a tiny relief-shiver; a heat-breath.
-- CLIP 2 (★ the sip/chill): the cold gulp; the deep bass-drop "WHOOOMPH" of the chill-wave; a crystalline frost-crackle spreading; a sharp cold breath-exhale; cicadas cutting to silence for one beat.
-- CLIP 3 (frosted/melt): the frost crackling as it melts; steam hissing off hot tiles; dripping water; cicadas rushing back; her "ahhh".
-- CLIP 4 (heat back): sunglasses click; a decisive glass-tap; a long satisfied exhale; cicadas full.
-- CLIP 5 (reset): cicadas; hot breeze; glass condensation — back to the CLIP-1 bed.
-- Mix note: the chill-moment is the signature — silence-then-crystalline-crackle; the bed flips hot→cold→hot with the visuals; loops cleanly at ~22s.
-
-### ☆ EXTERNAL AUDIO — BLOCK 2: BACKGROUND MUSIC / SCORE TRACK — D-1 (lay under the sound bed)
-- Genre / vibe: hot summer minimalism with a satisfying bass-drop payoff — Balearic chill meets cinematic impact.
-- Tempo / key: ~95 BPM, D major (warm), airy and spacious.
-- Core elements: a lazy clean muted-guitar loop; a warm sub-bass pad; cicada-texture; and at the CHILL: a MASSIVE satisfying sub-bass DROP + a crystalline reverse-cymbal + a frozen beat of silence.
-- Arc: lazy guitar + cicada (CLIP 1 hot) → strip to sub-bass anticipation at the sip → THE DROP at the chill-wave (CLIP 2–3, the deeply-satisfying payoff) → the guitar returns warm as summer reclaims (CLIP 4) → the opening lazy loop (CLIP 5).
-- Texture note: the DROP must be DEEPLY SATISFYING — the audio equivalent of cracking your back; the whole track builds to that one cold-relief moment.
-- Loop: a clean ~22s loop matching the visual loop point.
+### ★ OUTSIDE MASTER AUDIO — D-1 (the single composed MUSIC track — generate in your music tool; lays under all 5 clips as one unified soundtrack with the Frame Audio)
+RUNTIME: exactly 40.000s = 5 clips × 8.000s · KEY: D major · TEMPO: 95 BPM · composed for this EXACT length — never looped, stretched, cut, or faded out.
+EMOTIONAL TARGET: hot summer minimalism with one deeply-satisfying cold-relief payoff — Balearic chill meeting a crisp cinematic chill-drop, then warm summer reclaiming.
+NO FADE-IN — OPENS AT FULL PRESENCE: at 0:00.000 a lazy clean muted-guitar loop + warm sub-bass pad + cicada-texture is already at full presence; the hot-lazy mood lands within the first second, no swell-from-silence.
+INSTRUMENT PALETTE (emotion-matched — Beauty / Dream): a lazy clean muted-guitar loop as the hero voice, a warm sub-bass pad, cicada-texture, and at the chill a crisp sub-bass bloom + crystalline reverse-cymbal.
+VOCALS: none required (an optional breathy wordless "ah" of relief only if it adds sensory refreshment at the chill).
+ARRANGEMENT (timed to picture):
+- 0:00–0:08 (C1): the lazy guitar-loop + cicada-texture hold the hot, spacious mood as she reaches for the glass.
+- 0:08–0:16 (C2): the guitar strips to a sub-bass anticipation, then a crisp chill-drop + crystalline reverse-cymbal + a frozen beat of silence on the sip.
+- 0:16–0:24 (C3): the chill-drop tail decays and the lazy summer guitar returns warm as the frost melts.
+- 0:24–0:32 (C4): the lazy summer guitar is warm and full again — smug calm.
+- 0:32–0:40 (C5): the lazy guitar-loop resolves to the exact opening ; final chord lands at 0:39.8 on the exact 0:00 voicing.
+★ SYNCHRONIZED IMPACTS (musically integrated — the MUSIC itself drops at this exact frame; never a separate inserted SFX; tuned to the track's key, tone and energy):
+- ~0:10 (C2 the sip releases the chill-wave): a crisp refreshing chill-swell — a sub-bass bloom + crystalline reverse-cymbal into a frozen beat of silence, the music itself becoming the cold relief; deeply satisfying but crisp and clean, never an aggressive boom. The single low moment of the track — kept crisp, not pounding.
+LOOP LOCK: the phrase resolves at 40.000s onto the 0:00 downbeat — seamless. FEEL: hot, lazy, crisp-refreshing.
+(NOTE: this single Outside block replaces the old two-block system; all diegetic/ambience now lives in the per-clip ★ FRAME AUDIO above.)
 
 ---
 
@@ -6697,8 +6890,10 @@ FABRIC/HAIR/PROP PHYSICS: the headphones have weight and cushion-compression as 
 FOOTWORK & BODY FLOW: a relaxed contrapposto, a faint settle.
 MID-CLIP TRANSFORMATION (timed): NONE — the white room waits; the drop is reserved for CLIP 2. A faint muffled beat teases through the cups.
 LIGHTING-IN-MOTION: flat white, unchanged — building anticipation through inaction.
-DIEGETIC AUDIO: near-silence — white-room tone; the soft headphone placement (cushion compress, headband click); her breath; a FAINT distant beat beginning (muffled).
-MASTER TRACK: a single distant synth-note (the track's first hint), building.
+★ FRAME AUDIO — CLIP 1 (inside-prompt diegetic sound baked into this VEO clip; plays WITH the Outside Master Audio as one unified soundtrack):
+- DIEGETIC / SCENE SOUND: near-silence — a clinical white-room tone, a faint light-hum, the soft headphone placement (cushion compress, headband click), her breath; a FAINT distant beat beginning, muffled through the cups.
+- SYNCHRONIZED IMPACT: none — the silent-white anticipation; let the Master Audio's single distant synth-note build the tease before the drop.
+- MIX: near-silent and clinical; the headphone-placement crisp and close, the teasing beat tiny and muffled.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 2's START IMAGE must reproduce 100%, new angle only): at clip end the headphones are on, her eyes closing in readiness, the white void still around, a faint beat teasing; black tank, space buns. CLIP 2 must open in this EXACT state (same white void, headphones on, same wardrobe) — only the angle changes (to the close-up); the drop hits within CLIP 2.
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 2 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: the black ribbed tank strap at the shoulder — identical state.
@@ -6758,8 +6953,10 @@ FABRIC/HAIR/PROP PHYSICS: soundwave-rings travel at correct propagation speed (f
 FOOTWORK & BODY FLOW: a head-nod beginning, shoulders loosening.
 MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE DROP at 2.4–4.8s — triggered by the beat-drop, concentric soundwave-rings pulse visibly from the headphone cups (each a different colour — blue, magenta, gold) and the grid-wall becomes a full living EQUALIZER, bars jumping with the music; colour explodes into the white void.
 LIGHTING-IN-MOTION: colour EXPLODES from the grid — blue, then magenta, then gold — pulsing with the beat, painting her face.
-DIEGETIC AUDIO: THE BEAT DROPS (HARD — a heavy chest-hitting bass-kick, punchy); the soundwave-rings each a tonal "whoosh"; the equalizer bars a subtle crackle; her sharp inhale then a "YES" exhale.
-MASTER TRACK: this IS the song — a custom electronic build (Flume-meets-Disclosure) that DROPS hard here — full sub-bass, punchy kick, euphoric synth-lead, layered vocal chops.
+★ FRAME AUDIO — CLIP 2 (inside-prompt diegetic sound baked into this VEO clip; plays WITH the Outside Master Audio as one unified soundtrack):
+- DIEGETIC / SCENE SOUND: THE BEAT DROPS — a full punchy kick and driving energy, the soundwave-rings each a tonal "whoosh", a subtle equalizer-bar crackle, her sharp inhale then a "YES" exhale.
+- SYNCHRONIZED IMPACT: at ~1.5s (the drop ignites the soundwaves and colour) a warm euphoric full-band lift blooms — the build resolves into the song's full euphoric synth-lead, kick and vocal-chops, fused with the Master Audio on the same frame so the music itself floods the white room with colour; a soft-edged euphoric lift, energetic and danceable, never a chest-pounding boom (matches the warm-nostalgic "your song" feeling).
+- MIX: the pre-drop silence total; the drop wide and euphoric, the soundwave-whooshes tonal and panned; her "YES" close.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 3's START IMAGE must reproduce 100%, new angle only): at clip end colour has exploded — the grid a full equalizer, soundwave-rings pulsing from her, her wild grin and head-nod; the room ignited. CLIP 3 must open in this EXACT state (same equalizer, same soundwaves, same colour, same wardrobe) — only the angle changes (to the full-body hero).
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 3 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: the black tank and cargo jeans, the jacket now held in one hand swinging; fabric rippling with each bass-hit as if in slow-motion wind.
@@ -6819,8 +7016,10 @@ FABRIC/HAIR/PROP PHYSICS: soundwave-rings expand correctly; the equalizer bars b
 FOOTWORK & BODY FLOW: a beat-synced bounce, soft knees, weight shifting.
 MID-CLIP TRANSFORMATION (timed): the equalizer-room at full intensity (seeded in CLIP 2) — soundwave-rings, floor-pulses, ceiling-strobe, all beat-synced; the magic at its euphoric peak.
 LIGHTING-IN-MOTION: multi-colour pulses at full intensity, each beat a new colour wash.
-DIEGETIC AUDIO: the FULL beat at maximum (bass-heavy, driving, euphoric); soundwave-ring whooshes in rhythm; bass-synced fabric-impacts; a joyful "WOO".
-MASTER TRACK: the song rides at full energy — the euphoric peak.
+★ FRAME AUDIO — CLIP 3 (inside-prompt diegetic sound baked into this VEO clip; plays WITH the Outside Master Audio as one unified soundtrack):
+- DIEGETIC / SCENE SOUND: the FULL beat at maximum — driving and euphoric — soundwave-ring whooshes in rhythm, bass-synced fabric-impacts, a joyful "WOO".
+- SYNCHRONIZED IMPACT: none — the drop already landed; the song simply rides at its full euphoric energy through the dance peak.
+- MIX: full and immersive; the beat driving and wide, the fabric-impacts synced, her "WOO" joyful and present.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 4's START IMAGE must reproduce 100%, new angle only): at clip end the equalizer-room is at full euphoric intensity, Aira mid-dance lost in it; black tank, space buns. CLIP 4 must open in this EXACT state then the song begins to fade within CLIP 4 — same wardrobe, only the angle changes (to the profile).
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 4 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: the black tank and jacket (back on the shoulders now), settling — identical state.
@@ -6880,8 +7079,10 @@ FABRIC/HAIR/PROP PHYSICS: the headphone slides with cushion-release; her hair an
 FOOTWORK & BODY FLOW: an easy upright settle.
 MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE FADE at 0.0–6.0s — as the song fades and the cup lifts, the equalizer lowers to flat, colour drains back to white, soundwaves dissipate; the room clinical again.
 LIGHTING-IN-MOTION: flat white reasserting fully.
-DIEGETIC AUDIO: the beat fading (quieter, more muffled as the cup lifts); the headphone-seal pop; flat room-tone returning; her long exhale; silence settling.
-MASTER TRACK: the song filters/sweeps down and out, decaying to a single held note.
+★ FRAME AUDIO — CLIP 4 (inside-prompt diegetic sound baked into this VEO clip; plays WITH the Outside Master Audio as one unified soundtrack):
+- DIEGETIC / SCENE SOUND: the beat fading — quieter and more muffled as the cup lifts — the headphone-seal pop, the flat room-tone returning, her long exhale, silence settling.
+- SYNCHRONIZED IMPACT: none — the afterglow; let the Master Audio filter-sweep down and decay to a single held note.
+- MIX: the beat filtering away; the seal-pop crisp; the room-tone flattening to near-silence.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 5's START IMAGE must reproduce 100%, then loop): at clip end the room is draining to white, Aira in dreamy afterglow, a cup off one ear; black tank, space buns. CLIP 5 must open in the EXACT flat-white state then reset to the CLIP-1 headphone-lift — same studio, same wardrobe.
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 5 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: the black ribbed tank, white cargo jeans, jacket slung — matched to CLIP 1.
@@ -6941,8 +7142,10 @@ FABRIC/HAIR/PROP PHYSICS: the jacket slung with correct weight; headphones at ne
 FOOTWORK & BODY FLOW: a relaxed contrapposto.
 MID-CLIP TRANSFORMATION (timed): the room RESETS to flat white; the next loop re-triggers the equalizer-explosion on the next drop (the start of CLIP 1→2).
 LIGHTING-IN-MOTION: flat white — matched to CLIP 1.
-DIEGETIC AUDIO: silence; the faint distant beat beginning again (muffled, teasing); her anticipatory breath — back to the CLIP-1 bed.
-MASTER TRACK: the single distant synth-note returns, looping cleanly into the next build.
+★ FRAME AUDIO — CLIP 5 (inside-prompt diegetic sound baked into this VEO clip; plays WITH the Outside Master Audio as one unified soundtrack):
+- DIEGETIC / SCENE SOUND: silence, the faint distant beat beginning again (muffled, teasing), her anticipatory breath — returning to the CLIP-1 bed.
+- SYNCHRONIZED IMPACT: none — the reset clip; the single distant synth-note returns and loops cleanly into the next build.
+- MIX: near-silent and clinical, matched to CLIP 1 so the loop is invisible.
 END STATE / STATE-MATCH LOCK: clip ends in the EXACT flat-white headphone-lift state and three-quarter angle of CLIP 1's START IMAGE — white void, wardrobe and focused expression matched, so the reel loops seamlessly.
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 1 (LOOP back to opening) — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: a fitted black ribbed tank-top, oversized low-slung white cargo jeans with black stitching, a cropped black leather jacket slung over one shoulder; cool, modest.
@@ -6963,23 +7166,22 @@ END STATE / STATE-MATCH LOCK: clip ends in the EXACT flat-white headphone-lift s
 
 CUT LOGIC: ANGLE-CUT / LOOP back to CLIP 1; the next pass re-triggers the equalizer-explosion on the drop.
 
-### ☆ EXTERNAL AUDIO — BLOCK 1: BACKGROUND SOUND DESIGN / AMBIENCE BED — D-2
-*The layered foley + ambience to lay UNDER the reel, separate from the in-clip diegetic audio — timed to the clips.*
-- Base bed (white clips): a near-silent clinical white-room tone; a faint light-hum; her breath.
-- CLIP 1 (placement): the headphone placement (cushion-compress, headband-click); a FAINT muffled beat teasing through the cups.
-- CLIP 2 (★ the drop): the heavy chest-hitting bass-kick of the DROP; tonal soundwave-ring whooshes; a subtle equalizer-bar crackle; her sharp inhale then "YES".
-- CLIP 3 (dance): the full beat at maximum; soundwave-ring whooshes in rhythm; bass-synced fabric-impacts; a joyful "WOO".
-- CLIP 4 (fade): the beat filtering down; the headphone-seal "pop"; flat room-tone returning; a long exhale.
-- CLIP 5 (reset): silence; the faint distant beat returning — back to the CLIP-1 bed.
-- Mix note: the contrast between the silent white room and the full beat IS the experience — like walking into a club at the perfect moment; loops cleanly at ~22s.
-
-### ☆ EXTERNAL AUDIO — BLOCK 2: BACKGROUND MUSIC / SCORE TRACK — D-2 (THE song she's listening to)
-- Genre / vibe: the actual track — a custom electronic build from silence to an explosive euphoric drop (Flume meets Disclosure).
-- Tempo / key: ~128 BPM, F minor, four-on-floor with heavy sub-bass.
-- Core elements: builds from a single distant synth-note → a driving hat pattern → a pitched vocal-chop → then THE DROP: full sub-bass, punchy kick, euphoric synth-lead, layered vocal chops; then strips back to the opening note.
-- Arc: single note + silence (CLIP 1) → the build (0:01–0:02) → THE DROP at CLIP 2 → rides at full energy through CLIP 3 (hero) → a filter-sweep fade through CLIP 4 → strip to the single note on CLIP 5 (loop).
-- Texture note: the DROP must hit HARD — walking into a club at the perfect moment; the silent-white-room vs full-beat contrast is the whole experience.
-- Loop: a clean ~22s loop matching the visual loop point.
+### ★ OUTSIDE MASTER AUDIO — D-2 (the single composed MUSIC track — generate in your music tool; lays under all 5 clips as one unified soundtrack with the Frame Audio)
+RUNTIME: exactly 40.000s = 5 clips × 8.000s · KEY: F minor · TEMPO: 128 BPM, four-on-the-floor · composed for this EXACT length — never looped, stretched, cut, or faded out.
+EMOTIONAL TARGET: the euphoric warm rush of YOUR song coming on — a build from clinical silence into a colour-flooding euphoric drop, riding the peak, then a wistful afterglow.
+NO FADE-IN — OPENS AT FULL PRESENCE: at 0:00.000 a single distant synth-note is already at full presence (the track's first hint); the anticipation lands within the first second, no swell-from-silence.
+INSTRUMENT PALETTE (emotion-matched — Dream / Romance): a single distant synth-note as the hero hook, a driving hat pattern, a pitched vocal-chop, then the full euphoric synth-lead + warm kick + layered vocal chops at the drop (Flume-meets-Disclosure).
+VOCALS: layered pitched vocal-chops are core to the track (wordless, euphoric) — they ARE the song's texture, not spoken lyrics.
+ARRANGEMENT (timed to picture):
+- 0:00–0:08 (C1): the single distant synth-note + a teasing build over near-silence as she places the headphones.
+- 0:08–0:16 (C2): the build resolves into THE DROP — full euphoric synth-lead, warm kick and vocal-chops flooding in with colour.
+- 0:16–0:24 (C3): the song rides at full euphoric energy through the dance peak.
+- 0:24–0:32 (C4): a filter-sweep fade decays the track to a single held note — the afterglow.
+- 0:32–0:40 (C5): the single distant synth-note returns ; final chord lands at 0:39.8 on the exact 0:00 voicing, looping into the next build.
+★ SYNCHRONIZED IMPACTS (musically integrated — the MUSIC itself lifts at this exact frame; never a separate inserted SFX; tuned to the track's key, tone and energy):
+- ~0:09 (C2 the drop ignites soundwaves + colour): a warm euphoric full-band lift as the build resolves into the song's full synth-lead, kick and vocal-chops — the music itself floods the white room with colour; a soft-edged euphoric lift, energetic but warm, never a chest-pounding boom.
+LOOP LOCK: the phrase resolves at 40.000s onto the 0:00 downbeat — seamless. FEEL: euphoric, warm, club-rush nostalgic.
+(NOTE: this single Outside block replaces the old two-block system; all diegetic/ambience now lives in the per-clip ★ FRAME AUDIO above.)
 
 ---
 
@@ -7052,8 +7254,10 @@ FABRIC/HAIR/PROP PHYSICS: the raindrop hits with correct splash-physics on hot a
 FOOTWORK & BODY FLOW: a relaxed open stance, a slight settle as the drop lands.
 MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE PETRICHOR at 3.0–7.0s — triggered by the first drop on hot pavement, golden-amber particulate clouds rise from the impact like ghosts of the earth's heat being released — the smell made visible, beginning to swirl toward her.
 LIGHTING-IN-MOTION: the amber particulates glow with their own warm light, adding a golden key from below.
-DIEGETIC AUDIO: pre-storm tension (distant thunder, leaves flipping, electric air); the first fat drop hitting pavement (a decisive "SPLAT"); the pavement HISS of heat releasing; the golden cloud rising (a soft warm whoosh); her sharp delighted inhale.
-MASTER TRACK: sparse placed piano notes + distant thunder; a deep sub-bass beginning to bloom on the first drop.
+★ FRAME AUDIO — CLIP 1 (inside-prompt diegetic sound baked into this VEO clip; plays WITH the Outside Master Audio as one unified soundtrack):
+- DIEGETIC / SCENE SOUND: pre-storm tension — distant thunder, leaves flipping, electric air, cicadas; at ~3s the first fat drop hitting pavement with a decisive "SPLAT", the pavement HISS of heat releasing, the golden petrichor cloud rising on a soft warm whoosh, her sharp delighted inhale.
+- SYNCHRONIZED IMPACT: at ~3.0s (the first drop releases the golden petrichor) a soft warm sub-bass swell blooms upward — fused with the Master Audio's first sub-bass bloom on the same frame, so the music itself releases the petrichor; felt low and warm but gentle, never a heavy boom (matches the intimate-atmospheric mood).
+- MIX: the pre-storm air wide and electric; the "SPLAT" and hiss crisp and centred; the warm swell rising beneath.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 2's START IMAGE must reproduce 100%, new angle only): at clip end golden petrichor-clouds are rising and swirling around her, the storm beginning, her face in dawning delight; white sundress, chocolate waves. CLIP 2 must open in this EXACT state (same golden petrichor, same beginning rain, same wardrobe) — only the angle changes (to the close-up).
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 2 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: the white sundress straps, wet-spotting beginning — identical state.
@@ -7114,8 +7318,10 @@ FABRIC/HAIR/PROP PHYSICS: the golden particles are drawn inward with her breath 
 FOOTWORK & BODY FLOW: head tilted back, chest expanding.
 MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE INHALE-GLOW at 2.4–5.6s — triggered by her deep breath, the golden petrichor swirls inward and enters her, briefly glowing from within her silhouette (the scent literally filling her); the sensation made visible inside her.
 LIGHTING-IN-MOTION: the golden glow intensifies as the particles concentrate at her face, then dims as they enter her — her skin glowing from within for a beat.
-DIEGETIC AUDIO: the deep inhale (cinematic, resonant); the golden particles' soft warm harmonic hum as they swirl; raindrops increasing (patter building); the pavement hiss; a soft bass note as the glow enters her.
-MASTER TRACK: the sub-bass BLOOM + a warm analog pad swelling with the inhale-glow.
+★ FRAME AUDIO — CLIP 2 (inside-prompt diegetic sound baked into this VEO clip; plays WITH the Outside Master Audio as one unified soundtrack):
+- DIEGETIC / SCENE SOUND: the deep inhale (cinematic, resonant); the golden particles' soft warm harmonic hum as they swirl; raindrops increasing in a building patter; the pavement hiss; a soft bass note as the glow enters her.
+- SYNCHRONIZED IMPACT: at ~2.0s (the inhale draws the glow in) a soft warm analog-pad bloom swells with the sub-bass — fused with the Master Audio on the same frame, so the music itself is the glow entering her; warm and rising, gentle, never a boom.
+- MIX: the inhale resonant and close; the harmonic hum warm and centred; the building rain wide around her.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 3's START IMAGE must reproduce 100%, new angle only): at clip end she has breathed the petrichor in, her silhouette faintly glowing gold from within, the rain increasing, her sensory smile blooming; white sundress, wet chocolate waves. CLIP 3 must open in this EXACT state (same inner-glow, same increasing rain, same wardrobe) — only the angle changes (to the full-body hero).
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 3 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: the white sundress now rain-soaked and clinging (still modest), faintly glowing golden from within.
@@ -7176,8 +7382,10 @@ FABRIC/HAIR/PROP PHYSICS: rain has correct heavy-storm density and speed; golden
 FOOTWORK & BODY FLOW: a grounded slow spin, bare feet splashing in the forming puddle.
 MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE INNER-GLOW PEAK at 0.0–6.4s — the petrichor she breathed glows brightest here within her silhouette while golden clouds keep rising from every impact; she's the warm sun in the cold storm.
 LIGHTING-IN-MOTION: her golden inner-glow brightest here; golden petrichor rising everywhere; lightning flickers far off.
-DIEGETIC AUDIO: FULL STORM — heavy immersive rain-impact; distant thunder rolling; golden clouds rising (a warm sub-bass humming chorus); her joyful exhale-laugh; the pavement hiss at maximum; rain on her skin (a close intimate patter).
-MASTER TRACK: full immersive rain-texture + the warm pad + the sub-bass bloom at its fullest — the emotional peak.
+★ FRAME AUDIO — CLIP 3 (inside-prompt diegetic sound baked into this VEO clip; plays WITH the Outside Master Audio as one unified soundtrack):
+- DIEGETIC / SCENE SOUND: FULL STORM — heavy immersive rain-impact surrounding, distant thunder rolling, the golden clouds rising in a warm sub-bass humming chorus, her joyful exhale-laugh, the pavement hiss at maximum, rain on her skin in a close intimate patter.
+- SYNCHRONIZED IMPACT: at ~2.0s (she glows golden from within at the full-storm peak) a fuller but still soft warm-pad-and-sub bloom crests — fused with the Master Audio's emotional peak on the same frame, so the music itself is the inner glow; immersive and warm, kept gentle, never a hard boom.
+- MIX: the rain immersive and enveloping, like standing in it; the warm chorus full beneath; her laugh joyful and close.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 4's START IMAGE must reproduce 100%, new angle only): at clip end she stands transcendent in the full storm, glowing gold from within, golden petrichor rising; white wet dress, wet chocolate waves. CLIP 4 must open in this EXACT state then the storm begins to pass within CLIP 4 — same wardrobe, only the angle changes (to the profile).
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 4 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: the wet white sundress in profile — identical state.
@@ -7238,8 +7446,10 @@ FABRIC/HAIR/PROP PHYSICS: the golden particles disperse and fade naturally; rain
 FOOTWORK & BODY FLOW: an upright settle, lifting the sandals.
 MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE PASSING at 0.0–6.0s — the golden petrichor fades to nothing, the rain thins to drips, the pavement cools (normal steam), her inner-glow dims out; the sensation gently complete.
 LIGHTING-IN-MOTION: golden fading; fresh post-storm light (cleaner, cooler) arriving.
-DIEGETIC AUDIO: rain thinning to drips; the last golden hum fading; birds beginning after the storm; a fresh breeze; her exhale; dripping from awnings.
-MASTER TRACK: the rain-texture thins; the pad fades; the placed piano notes return.
+★ FRAME AUDIO — CLIP 4 (inside-prompt diegetic sound baked into this VEO clip; plays WITH the Outside Master Audio as one unified soundtrack):
+- DIEGETIC / SCENE SOUND: rain thinning to drips, the last golden hum fading, birds beginning after the storm, a fresh breeze, her exhale, dripping from awnings.
+- SYNCHRONIZED IMPACT: none — the storm passes; let the Master Audio's rain-texture thin, the warm pad fade and the sparse placed piano notes return, the peace carried by the fade rather than a hit.
+- MIX: the drips delicate and scattered; birdsong soft and fresh; her exhale warm and close.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 5's START IMAGE must reproduce 100%, then loop): at clip end the storm has passed, fresh light, her gentle calm; wet white dress, chocolate waves. CLIP 5 must open by RESETTING to the pre-storm sensing — same sidewalk (drying/hot again), same wardrobe (drying), another storm gathering.
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 5 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: the white cotton sundress — matched to CLIP 1 (drying).
@@ -7300,8 +7510,10 @@ FABRIC/HAIR/PROP PHYSICS: heat-shimmer returns; new storm-clouds darken; the dre
 FOOTWORK & BODY FLOW: a relaxed open stance, sensing.
 MID-CLIP TRANSFORMATION (timed): the storm RESETS (gathering again); the next loop re-triggers the petrichor on the next first-drop (the start of CLIP 1).
 LIGHTING-IN-MOTION: amber-grey storm-light returning — matched to CLIP 1.
-DIEGETIC AUDIO: cicadas returning; distant thunder growing; the electric air; the pavement heating — back to the CLIP-1 bed.
-MASTER TRACK: the sparse placed piano + distant thunder returns, looping cleanly.
+★ FRAME AUDIO — CLIP 5 (inside-prompt diegetic sound baked into this VEO clip; plays WITH the Outside Master Audio as one unified soundtrack):
+- DIEGETIC / SCENE SOUND: cicadas returning, distant thunder growing, the electric air, the pavement heating — returning to the CLIP-1 bed.
+- SYNCHRONIZED IMPACT: none — the reset clip; the sparse placed piano + distant thunder returns and resolves to the exact opening for a seamless loop.
+- MIX: wide and electric, matched to CLIP 1 so the loop is invisible.
 END STATE / STATE-MATCH LOCK: clip ends in the EXACT pre-storm sensing state and full-body angle of CLIP 1's START IMAGE — gathering storm, wardrobe and sensing expression matched, so the reel loops seamlessly.
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 1 (LOOP back to opening) — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: a simple white cotton sundress, thin straps, just above the knee, breezy in the pre-storm wind.
@@ -7322,23 +7534,24 @@ END STATE / STATE-MATCH LOCK: clip ends in the EXACT pre-storm sensing state and
 
 CUT LOGIC: ANGLE-CUT / LOOP back to CLIP 1; the next pass re-triggers the petrichor on the first drop.
 
-### ☆ EXTERNAL AUDIO — BLOCK 1: BACKGROUND SOUND DESIGN / AMBIENCE BED — D-3
-*The layered foley + ambience to lay UNDER the reel, separate from the in-clip diegetic audio — timed to the clips.*
-- Base bed: pre-storm tension (distant thunder, leaves flipping, electric air, cicadas) that builds into full immersive rain, then thins to post-storm drips and birdsong.
-- CLIP 1 (first drop): the decisive fat-drop "SPLAT" on hot pavement; the heat-release HISS; the golden cloud rising (a warm whoosh); her sharp inhale.
-- CLIP 2 (inhale): the deep cinematic inhale; the golden particles' warm harmonic hum; rain building; a soft bass note as the glow enters her.
-- CLIP 3 (full storm): heavy immersive rain-impact (surrounding); rolling thunder; the golden clouds' warm sub-bass humming chorus; her joyful exhale-laugh.
-- CLIP 4 (passing): rain thinning to drips; the last golden hum fading; birds beginning; a fresh breeze.
-- CLIP 5 (reset): cicadas; distant thunder growing; pavement heating — back to the CLIP-1 bed.
-- Mix note: the rain texture must be IMMERSIVE and real — like standing in it; the sub-bass bloom should be physically felt; loops cleanly at ~22s.
-
-### ☆ EXTERNAL AUDIO — BLOCK 2: BACKGROUND MUSIC / SCORE TRACK — D-3 (lay under the sound bed)
-- Genre / vibe: organic ambient with a visceral bass-impact — nature's ASMR meets cinematic emotion; petrichor as a genre.
-- Tempo / key: ~75 BPM, A minor (yearning), slow and spacious.
-- Core elements: recorded rain-textures (light to heavy, real); a deep sub-bass "bloom" at the petrichor moment; a warm analog synth-pad swelling with the golden glow; sparse placed piano notes (3–4, like memories); thunder-rumble as percussion.
-- Arc: sparse piano + distant thunder (CLIP 1) → the sub-bass BLOOM + golden pad at the first drop/inhale (CLIPs 1–2) → FULL rain + pad + sub at the hero (CLIP 3, immersive) → rain thinning, pad fading, piano returning (CLIP 4) → sparse piano alone on the loop (CLIP 5).
-- Texture note: the sub-bass bloom should feel physical — a chest sensation; the rain must feel like being inside it.
-- Loop: a clean ~22s loop matching the visual loop point.
+### ★ OUTSIDE MASTER AUDIO — D-3 (the single composed MUSIC track — generate in your music tool; lays under all 5 clips as one unified soundtrack with the Frame Audio)
+RUNTIME: exactly 40.000s = 5 clips × 8.000s · KEY: A minor · TEMPO: 75 BPM · composed for this EXACT length — never looped, stretched, cut, or faded out.
+EMOTIONAL TARGET: organic ambient yearning — petrichor as a genre, nature's ASMR meeting cinematic emotion; a pre-storm hush that blooms warm and golden with the first rain, peaks in immersive glow, then settles to fresh post-storm peace.
+NO FADE-IN — OPENS AT FULL PRESENCE: at 0:00.000 sparse placed piano notes + distant thunder are already at full presence; the yearning pre-storm mood lands within the first second, no swell-from-silence.
+INSTRUMENT PALETTE (emotion-matched — Dream / Beauty): sparse placed piano notes as the hero voice (3–4, like memories), recorded rain-textures, a warm analog synth-pad, a deep but gentle sub-bass "bloom", and thunder-rumble as percussion.
+VOCALS: none required (an optional breathy wordless pad only if it adds warmth to the golden glow).
+ARRANGEMENT (timed to picture):
+- 0:00–0:08 (C1): sparse piano + distant thunder over the electric pre-storm air; a soft sub-bass bloom on the first drop at ~0:03.
+- 0:08–0:16 (C2): the warm analog pad swells with the inhale-glow as the sub-bass deepens gently.
+- 0:16–0:24 (C3): full immersive rain + warm pad + sub-bass at their fullest — the emotional peak.
+- 0:24–0:32 (C4): the rain thins, the pad fades and the placed piano notes return — fresh peace.
+- 0:32–0:40 (C5): the sparse piano + distant thunder return ; final chord lands at 0:39.8 on the exact 0:00 voicing.
+★ SYNCHRONIZED IMPACTS (musically integrated — the MUSIC itself blooms at these exact frames; never a separate inserted SFX; tuned to the track's key, tone and energy):
+- ~0:03 (C1 the first drop releases the petrichor): a soft warm sub-bass swell as the bloom enters — felt low but gentle.
+- ~0:10 (C2 the inhale draws the glow in): a soft warm analog-pad bloom with the sub-bass — gentle and rising.
+- ~0:18 (C3 she glows from within at the full-storm peak): a fuller but still soft warm-pad-and-sub bloom. No booms — the low end is felt but stays gentle and atmospheric.
+LOOP LOCK: the phrase resolves at 40.000s onto the 0:00 downbeat — seamless. FEEL: yearning, immersive, warm-organic.
+(NOTE: this single Outside block replaces the old two-block system; all diegetic/ambience now lives in the per-clip ★ FRAME AUDIO above.)
 
 ---
 
@@ -7411,8 +7624,10 @@ FABRIC/HAIR/PROP PHYSICS: objects don't disappear sharply — they soften and fa
 FOOTWORK & BODY FLOW: lying still, only the breath and the heavy blinks.
 MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE DISSOLVE BEGINS at 3.0–6.0s — triggered by the heavy blink, the bedroom edges blur and dissolve like watercolour bleeding; the nightstand losing form, the lamp-glow softening into formless warm light, a cool-blue dreamspace creeping in at the edges.
 LIGHTING-IN-MOTION: the lamp-glow softens, the frame edges dim, a subtle cool-blue (moonlight/dreamspace) creeping in.
-DIEGETIC AUDIO: near-silence — only her breath (slow, deepening); a faint distant wind-tone (sleep approaching); the room losing its sounds (a clock-tick fading out); ASMR-intimate proximity to her breathing.
-MASTER TRACK: an intimate solo piano + a warm held pad (like breathing).
+★ FRAME AUDIO — CLIP 1 (inside-prompt diegetic sound baked into this VEO clip; plays WITH the Outside Master Audio as one unified soundtrack):
+- DIEGETIC / SCENE SOUND: near-silence — only her breath, slow and deepening; a faint distant wind-tone as sleep approaches; the room losing its sounds, a clock-tick fading out; ASMR-intimate proximity to her breathing.
+- SYNCHRONIZED IMPACT: none — the dissolve begins gently; let the intimate solo piano and warm held pad breathe under her as the room sounds fade.
+- MIX: ASMR-intimate and close; her breath central and soft, the clock-tick receding.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 2's START IMAGE must reproduce 100%, new angle only): at clip end her eyes are barely open, the bedroom edges dissolving into soft cloud-forms, a cool-blue dreamspace creeping in; white camisole, black hair haloed. CLIP 2 must open in this EXACT dissolving state (same blur, same creeping dreamspace, same wardrobe) — only the angle changes (to the bedside medium).
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 2 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: the white camisole, one strap sliding off the shoulder (she's not adjusting it — gone) — identical state.
@@ -7473,8 +7688,10 @@ FABRIC/HAIR/PROP PHYSICS: she rises with bubble-slowness; hair floats with zero-
 FOOTWORK & BODY FLOW: completely asleep — no conscious motion, only the gentle float.
 MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE FLOAT at 0.0–8.0s — triggered by sinking deeper into sleep, the bed dissolves entirely into cloud, the room becomes a vast gentle cloud-and-star space, and she floats up into it, hair and camisole drifting in zero-gravity.
 LIGHTING-IN-MOTION: sourceless dreamspace luminescence (soft, even from all directions); starlight as tiny points; the warm lamp gone.
-DIEGETIC AUDIO: absolute hush — only her deep slow breathing; a soft distant cosmic hum; the chain lifting off skin (barely audible); the sound of space (vast, quiet, enveloping).
-MASTER TRACK: the piano fades, the pad grows vast, a sub-bass entering as the dreamspace opens.
+★ FRAME AUDIO — CLIP 2 (inside-prompt diegetic sound baked into this VEO clip; plays WITH the Outside Master Audio as one unified soundtrack):
+- DIEGETIC / SCENE SOUND: absolute hush — only her deep slow breathing; a soft distant cosmic hum growing; the chain lifting off her skin (barely audible); the sound of space, vast and quiet and enveloping.
+- SYNCHRONIZED IMPACT: at ~3s (the room dissolves and she begins to float) an ultra-soft pad-and-sub swell widens the reverb-space — fused with the Master Audio as the piano fades and the pad grows vast on the same frame, so the music itself dissolves the room; whisper-soft and weightless, never a boom (matches the dreamy lullaby calm).
+- MIX: the reverb widening from intimate to vast; her breath the only anchor; the cosmic hum soft and growing.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 3's START IMAGE must reproduce 100%, new angle only): at clip end the bed is gone, she floats in a vast cloud-and-star dreamspace, hair streaming, asleep; white camisole. CLIP 3 must open in this EXACT dreamspace-float (same clouds, same stars, same zero-g pose, same wardrobe) — only the angle changes (to the full-body float).
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 3 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: the white camisole and white sleep shorts (now visible in full body), fabric floating free of her body; modest.
@@ -7535,8 +7752,10 @@ FABRIC/HAIR/PROP PHYSICS: her hair moves like underwater (slow, individual stran
 FOOTWORK & BODY FLOW: no conscious motion — sleep holds perfectly; bare feet relaxed.
 MID-CLIP TRANSFORMATION (timed): the dreamspace at its fullest (seeded in CLIP 2) — she floats peacefully in the infinite cloud-and-star void, the threshold of sleep fully crossed.
 LIGHTING-IN-MOTION: the orbit causes the nebula-tints to shift across her skin (pink to blue to lavender).
-DIEGETIC AUDIO: near-silence with depth — a vast cosmic ambience (like the inside of a shell, but infinite); her breath (slow, intimate, the only human sound); a faint high tone (the sound of stars).
-MASTER TRACK: pure sub-bass + cosmic shimmer + breath in infinite reverb — the void.
+★ FRAME AUDIO — CLIP 3 (inside-prompt diegetic sound baked into this VEO clip; plays WITH the Outside Master Audio as one unified soundtrack):
+- DIEGETIC / SCENE SOUND: near-silence with depth — a vast cosmic ambience like the inside of a shell but infinite; her breath, slow and intimate, the only human sound; a faint high tone, the sound of stars.
+- SYNCHRONIZED IMPACT: none — the steady float in the void; let the pure sub-bass, cosmic shimmer and breath hang in infinite reverb with no hit.
+- MIX: infinite and enveloping; her breath close inside the vastness; the "stars" shimmer faint and high.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 4's START IMAGE must reproduce 100%, new angle only): at clip end she floats in deep peaceful sleep in the dreamspace; white camisole, black hair spread. CLIP 4 must open by RESETTING toward the return — she settles back onto the reforming bed; same wardrobe, the room re-forming.
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 4 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: the white camisole strap back on the shoulder — identical state.
@@ -7597,8 +7816,10 @@ FABRIC/HAIR/PROP PHYSICS: she descends with the lightness of returning gravity; 
 FOOTWORK & BODY FLOW: lying, the gentle settle and flutter.
 MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE RETURN at 0.0–5.0s — triggered by nearly waking, the dreamspace recedes and the room re-forms (cloud→walls, starfield→ceiling, dream-luminescence→lamp-amber); gravity returns and she settles back to the bed.
 LIGHTING-IN-MOTION: lamp-glow at full return; dream-luminescence gone.
-DIEGETIC AUDIO: the vast cosmic sound fading; room sounds returning (clock-tick, ambient hum); the duvet settling (a fabric whisper); her slightly louder breath as she approaches waking.
-MASTER TRACK: the sub recedes, the intimate piano notes returning.
+★ FRAME AUDIO — CLIP 4 (inside-prompt diegetic sound baked into this VEO clip; plays WITH the Outside Master Audio as one unified soundtrack):
+- DIEGETIC / SCENE SOUND: the vast cosmic sound fading; room sounds returning — a clock-tick, an ambient hum; the duvet settling in a fabric whisper; her slightly louder breath as she approaches waking.
+- SYNCHRONIZED IMPACT: none — the gentle return; let the sub recede and the intimate piano notes drift back, the moment carried by the contracting reverb rather than a hit.
+- MIX: the reverb contracting from cosmic to bedroom-intimate; the duvet-whisper delicate; her breath warming and closer.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 5's START IMAGE must reproduce 100%, then loop): at clip end the room is solid again, lamp warm, she's near-waking with a flutter; white camisole, black hair haloed. CLIP 5 must open in the EXACT solid-bedroom state then reset to the CLIP-1 heavy-eyed sink — same room, same wardrobe.
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 5 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: the white cotton sleep-camisole — matched to CLIP 1.
@@ -7659,8 +7880,10 @@ FABRIC/HAIR/PROP PHYSICS: the room solid; the lamp warm; her fingers curl on the
 FOOTWORK & BODY FLOW: lying still, the heavy blinks.
 MID-CLIP TRANSFORMATION (timed): the room RESETS to solid; the next loop re-triggers the dissolve when she next sinks toward sleep (the start of CLIP 1).
 LIGHTING-IN-MOTION: warm lamp — matched to CLIP 1.
-DIEGETIC AUDIO: the clock-tick; the lamp; her slowing breath — back to the CLIP-1 bed.
-MASTER TRACK: the intimate piano + pad settles, looping cleanly into the next sleep-approach.
+★ FRAME AUDIO — CLIP 5 (inside-prompt diegetic sound baked into this VEO clip; plays WITH the Outside Master Audio as one unified soundtrack):
+- DIEGETIC / SCENE SOUND: the clock-tick, the lamp, her slowing breath — returning to the CLIP-1 bed.
+- SYNCHRONIZED IMPACT: none — the reset clip; the intimate piano + pad settle to the exact opening for a seamless loop into the next sleep-approach.
+- MIX: near-silent and intimate, matched to CLIP 1 so the loop is invisible.
 END STATE / STATE-MATCH LOCK: clip ends in the EXACT heavy-eyed face-on-pillow state and overhead angle of CLIP 1's START IMAGE — solid room, wardrobe and edge-of-sleep expression matched, so the reel loops seamlessly.
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 1 (LOOP back to opening) — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: a soft white cotton sleep-camisole, thin straps, one visible at the shoulder.
@@ -7681,23 +7904,22 @@ END STATE / STATE-MATCH LOCK: clip ends in the EXACT heavy-eyed face-on-pillow s
 
 CUT LOGIC: ANGLE-CUT / LOOP back to CLIP 1; the next pass re-triggers the dissolve as she drifts to sleep.
 
-### ☆ EXTERNAL AUDIO — BLOCK 1: BACKGROUND SOUND DESIGN / AMBIENCE BED — D-4
-*The layered foley + ambience to lay UNDER the reel, separate from the in-clip diegetic audio — timed to the clips.*
-- Base bed (bedroom clips): a near-silent intimate bedroom room-tone; a faint clock-tick; her slow deepening breath (ASMR-close).
-- CLIP 1 (dissolve begins): the clock-tick fading out; a faint distant wind-tone (sleep approaching); the room losing its sounds.
-- CLIP 2 (float): absolute hush; the chain lifting off skin (barely audible); a soft distant cosmic hum growing.
-- CLIP 3 (dreamspace): a vast cosmic ambience (like inside a shell, infinite); her breath the only human sound; a faint high "sound of stars".
-- CLIP 4 (return): the cosmic sound fading; room sounds returning (clock-tick, ambient hum); the duvet whisper; a slightly louder breath.
-- CLIP 5 (reset): the clock-tick; her slowing breath — back to the CLIP-1 bed.
-- Mix note: the reverb-space must WIDEN from bedroom-intimate to cosmic-infinite, then contract — the listener should feel the room disappear; loops cleanly at ~22s.
-
-### ☆ EXTERNAL AUDIO — BLOCK 2: BACKGROUND MUSIC / SCORE TRACK — D-4 (lay under the sound bed)
-- Genre / vibe: ambient sleep-music crossing into a cinematic void — ASMR meets Interstellar.
-- Tempo / key: no tempo (free/floating), hovering around Eb major (warm, sleepy).
-- Core elements: a single held warm synth-pad (like breathing); very sparse piano (one note every 4–5s); a sub-bass that enters and grows as the dreamspace opens; a vast reverb-space growing from bedroom-intimate to cosmic-infinite; the faintest high-frequency "stars" shimmer.
-- Arc: intimate piano + pad (CLIP 1 bedroom) → piano fading, pad growing vast, sub entering (CLIP 2 dissolution) → pure sub + cosmic shimmer + breath in infinite reverb (CLIP 3 the void) → sub receding, piano returning (CLIP 4 return) → intimate piano + pad settled (CLIP 5 loop).
-- Texture note: the intimate-to-vast transition must feel physical — the reverb widening should make the listener feel the room disappear.
-- Loop: a clean ~22s loop matching the visual loop point.
+### ★ OUTSIDE MASTER AUDIO — D-4 (the single composed MUSIC track — generate in your music tool; lays under all 5 clips as one unified soundtrack with the Frame Audio)
+RUNTIME: exactly 40.000s = 5 clips × 8.000s · KEY: Eb major · TEMPO: free / no fixed tempo (floating) · composed for this EXACT length — never looped, stretched, cut, or faded out.
+EMOTIONAL TARGET: ambient sleep-music crossing into a cinematic void — ASMR meets Interstellar; an intimate bedroom hush that dissolves into a weightless cosmic float, then drifts gently back.
+NO FADE-IN — OPENS AT FULL PRESENCE: at 0:00.000 an intimate solo piano + a warm held pad (like breathing) is already at full presence; the sleepy intimacy lands within the first second, no swell-from-silence.
+INSTRUMENT PALETTE (emotion-matched — Dream): a single warm held synth-pad as the hero voice (like breathing), very sparse piano (one note every 4–5s), a sub-bass that enters as the dreamspace opens, a vast growing reverb-space, and the faintest high-frequency "stars" shimmer.
+VOCALS: none required (only her breath; an optional wordless breath-like pad is already the core texture).
+ARRANGEMENT (timed to picture):
+- 0:00–0:08 (C1): intimate piano + warm pad breathe under her as the bedroom sounds fade.
+- 0:08–0:16 (C2): the piano fades, the pad grows vast and a sub-bass enters as the room dissolves and she floats.
+- 0:16–0:24 (C3): pure sub-bass + cosmic shimmer + breath in infinite reverb — the weightless void.
+- 0:24–0:32 (C4): the sub recedes and the intimate piano notes return as the room re-forms.
+- 0:32–0:40 (C5): the intimate piano + pad settle to the exact opening ; final chord lands at 0:39.8 on the exact 0:00 voicing.
+★ SYNCHRONIZED IMPACTS (musically integrated — the MUSIC itself widens at this exact frame; never a separate inserted SFX; tuned to the track's key, tone and energy):
+- ~0:11 (C2 the room dissolves and she floats): an ultra-soft pad-and-sub swell that widens the reverb from intimate to vast — whisper-soft and weightless. No booms — the whole track stays ultra-soft and fading, like drifting to sleep.
+LOOP LOCK: the phrase resolves at 40.000s onto the 0:00 downbeat — seamless. FEEL: weightless, intimate, dreamy-infinite.
+(NOTE: this single Outside block replaces the old two-block system; all diegetic/ambience now lives in the per-clip ★ FRAME AUDIO above.)
 
 ---
 
@@ -7770,8 +7992,10 @@ FABRIC/HAIR/PROP PHYSICS: the warmth-wave travels at a visible but fast speed (2
 FOOTWORK & BODY FLOW: a back-sag against the door, weight releasing.
 MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE WARMTH-WAVE at 3.0–7.0s — triggered by the door-click, a shimmering amber pulse radiates outward across the floor, up the walls, over every surface: cold blue-grey light becomes warm amber, sharp furniture-edges soften, the rigid couch exhales (cushions puffing), golden comfort-motes appear in the air.
 LIGHTING-IN-MOTION: the warmth-wave transforms the light — cold blue-grey to warm amber sweeping from the door outward, reaching the far wall by 3.5s.
-DIEGETIC AUDIO: the door CLICK (decisive, satisfying, final); the warmth-wave (a soft deep "whooom" like a room exhaling + a gentle amber-toned hum); the couch-puff (a tiny fabric exhale); golden motes entering (a quiet sparkle-shimmer); her own long deep exhale.
-MASTER TRACK: silence + city-sounds, then a warm bass-note + a soft fingerpicked guitar entering on the click.
+★ FRAME AUDIO — CLIP 1 (inside-prompt diegetic sound baked into this VEO clip; plays WITH the Outside Master Audio as one unified soundtrack):
+- DIEGETIC / SCENE SOUND: a quiet cold-apartment room-tone, faint cold city-evening sounds through the windows, a clinical hush; at ~3s the door CLICK (decisive, satisfying, final) and the warmth-wave — a soft deep "whooom" like a room exhaling + a gentle amber-toned hum — the couch-puff (a tiny fabric exhale), golden motes entering with a quiet sparkle-shimmer, her own long deep exhale.
+- SYNCHRONIZED IMPACT: at ~3.0s (the door closes and radiates the warmth-wave) a gentle warm bloom swells — fused with the Master Audio's warm bass-note and fingerpicked guitar entering on the click, so the music itself warms the apartment; soft, amber and enveloping, never a boom (matches the warm-relief mood).
+- MIX: the cold city hush wide before the click; the warmth-wave deep and centred; the sparkle-shimmer delicate and high.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 2's START IMAGE must reproduce 100%, new angle only): at clip end the apartment is WARM — amber light, plush puffed couch, golden motes drifting, soft surfaces; Aira sagged against the door in relief, coat still on, bag sliding; ponytail. CLIP 2 must open in this EXACT warm state (same amber light, same motes, same plush room, same wardrobe) — only the angle changes (to the de-armoring profile).
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 2 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: the charcoal coat being shrugged off one shoulder (mid-removal), the black turtleneck beneath emerging — identical state, de-armoring.
@@ -7832,8 +8056,10 @@ FABRIC/HAIR/PROP PHYSICS: the coat slides off skin with friction then falls with
 FOOTWORK & BODY FLOW: a boot-kick, weight shifting, the shed.
 MID-CLIP TRANSFORMATION (timed): the room holds full WARM (from CLIP 1); a gentle golden-mote puff where the shed coat lands (the room responding to her release).
 LIGHTING-IN-MOTION: warm and steady; golden motes puff from the landing coat.
-DIEGETIC AUDIO: the coat sliding (fabric whoosh); the hair-tie snap-release; the boot thud on wood (satisfying); her long "ahhhh" exhale; the golden sparkle-shimmer.
-MASTER TRACK: the guitar + a warm bass grow; brushed drums hinting.
+★ FRAME AUDIO — CLIP 2 (inside-prompt diegetic sound baked into this VEO clip; plays WITH the Outside Master Audio as one unified soundtrack):
+- DIEGETIC / SCENE SOUND: the coat sliding in a fabric whoosh, the hair-tie snap-release, the boot thud on wood (satisfying), her long "ahhhh" exhale, the golden sparkle-shimmer.
+- SYNCHRONIZED IMPACT: none — the de-armoring; let the Master Audio's guitar and warm bass grow with brushed drums hinting as she sheds the day.
+- MIX: the foley intimate and satisfying — coat-whoosh, hair-tie snap, boot-thud — over the growing warm guitar.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 3's START IMAGE must reproduce 100%, new angle only): at clip end she's shed her armour (coat on the floor, hair down), the warm plush room around, about to fall into the couch; black turtleneck, hair down. CLIP 3 must open in this EXACT state (same warm room, hair-down, shed armour, same wardrobe) — only the angle changes (to the couch-fall hero).
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 3 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: beneath the shed coat — the fitted black turtleneck and black jeans, the only layer now.
@@ -7894,8 +8120,10 @@ FABRIC/HAIR/PROP PHYSICS: the body meets the couch with a deep sink (cushions co
 FOOTWORK & BODY FLOW: a full sink-back into the cushions, hair fanning.
 MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE RELIEF at 2.4–4.5s — triggered by the couch-fall, the room exhales: golden motes whoosh out in a burst, the candle bows, the cushions wrap her, a throw slides over — the sanctuary embracing her.
 LIGHTING-IN-MOTION: golden motes swirl in the air-disturbance, creating moving light-patterns; the warmth at its richest.
-DIEGETIC AUDIO: the FALL (a whoosh of air); the LANDING (a deep satisfying "FWUMP" of couch-cushion impact — the most satisfying sound in the set); the mote-burst (sparkle-whoosh); the candle guttering; her release-laugh then the satisfied "ahhhh"; the throw sliding.
-MASTER TRACK: the full warm arrangement (guitar + bass + brushed drums + a wordless "ooh" pad) at its warmest swell — the emotional payoff.
+★ FRAME AUDIO — CLIP 3 (inside-prompt diegetic sound baked into this VEO clip; plays WITH the Outside Master Audio as one unified soundtrack):
+- DIEGETIC / SCENE SOUND: the FALL — a whoosh of air — then the LANDING, a deep satisfying "FWUMP" of couch-cushion impact (the most satisfying sound in the set), the mote-burst (a sparkle-whoosh), the candle guttering, her release-laugh then a satisfied "ahhhh", the throw sliding.
+- SYNCHRONIZED IMPACT: at ~2.0s (she falls back and the room exhales) a gentle warm bloom-swell crests as the full arrangement — guitar, bass, brushed drums and a wordless "ooh" pad — reaches its warmest, fused with the Master Audio on the same frame so the music itself is the room exhaling around her; warm and enveloping, the emotional payoff, never a hard boom.
+- MIX: the "FWUMP" deep and satisfying; the mote-burst sparkling; the warm "ooh" pad blooming wide; her laugh close.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 4's START IMAGE must reproduce 100%, new angle only): at clip end she's sunk into the couch, the room at its warmest, golden motes settling, a throw over her; black turtleneck, hair down. CLIP 4 must open in this EXACT state (same sunk-in pose, same warm room, same wardrobe) — only the angle changes (to the close-up).
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 4 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: the black turtleneck collar at the frame edge — identical state.
@@ -7956,8 +8184,10 @@ FABRIC/HAIR/PROP PHYSICS: motes drift with Brownian motion; her chest rises/fall
 FOOTWORK & BODY FLOW: sunk-in stillness, only the breath.
 MID-CLIP TRANSFORMATION (timed): the room holds full WARM at rest (the sanctuary); the candle steady, motes drifting — the warmth-magic settled.
 LIGHTING-IN-MOTION: warm and steady; motes create tiny floating highlights.
-DIEGETIC AUDIO: her deep slow breathing (ASMR-intimate); the quiet "mmm"; the golden-mote shimmer (barely there); the candle's steady crackle; the deep silence of home.
-MASTER TRACK: the arrangement strips to guitar + the wordless "ooh" pad — warm and intimate.
+★ FRAME AUDIO — CLIP 4 (inside-prompt diegetic sound baked into this VEO clip; plays WITH the Outside Master Audio as one unified soundtrack):
+- DIEGETIC / SCENE SOUND: her deep slow breathing (ASMR-intimate), the quiet "mmm", the golden-mote shimmer (barely there), the candle's steady crackle, the deep silence of home.
+- SYNCHRONIZED IMPACT: none — complete peace; let the Master Audio strip to guitar and the wordless "ooh" pad, warm and intimate.
+- MIX: ASMR-close on her breath; the candle-crackle warm; the room deeply still.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 5's START IMAGE must reproduce 100%, then loop): at clip end she's at complete peace sunk into the couch, the warm room around; black turtleneck, hair down. CLIP 5 must open by RESETTING toward the door — she rises (implied), the warmth drains as she opens the door to leave; same wardrobe (coat back on).
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 5 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: the charcoal wool coat back on, the bag slung over one shoulder — matched to CLIP 1.
@@ -8018,8 +8248,10 @@ FABRIC/HAIR/PROP PHYSICS: the warmth drains outward toward the door (rewind of t
 FOOTWORK & BODY FLOW: facing the door, hand on the knob — the CLIP-1 stance.
 MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE DRAIN at 3.0–5.6s — triggered by opening the door, the warmth drains back to cold (the reverse of the warmth-wave); the apartment returns to its cold rigid "waiting" state, restoring CLIP 1.
 LIGHTING-IN-MOTION: warm amber draining to cold blue-grey, matched to CLIP 1.
-DIEGETIC AUDIO: the warmth-hum fading; cold silence returning; city sounds through the opening door; her hand on the brass — back to the CLIP-1 bed.
-MASTER TRACK: the warm arrangement decays to silence + city-sounds, looping cleanly.
+★ FRAME AUDIO — CLIP 5 (inside-prompt diegetic sound baked into this VEO clip; plays WITH the Outside Master Audio as one unified soundtrack):
+- DIEGETIC / SCENE SOUND: the warmth-hum fading, cold silence returning, city sounds through the opening door, her hand on the brass — returning to the CLIP-1 bed.
+- SYNCHRONIZED IMPACT: none — the reset clip; the warm arrangement decays to silence + city-sounds for a seamless loop.
+- MIX: cooling back to the clinical city hush, matched to CLIP 1 so the loop is invisible.
 END STATE / STATE-MATCH LOCK: clip ends in the EXACT cold-door back-pose state and full-body angle of CLIP 1's START IMAGE — cold apartment, wardrobe and held posture matched, so the reel loops seamlessly.
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 1 (LOOP back to opening) — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: a charcoal wool coat still on, a structured black bag slung over one shoulder, slightly rumpled from the day.
@@ -8040,23 +8272,23 @@ END STATE / STATE-MATCH LOCK: clip ends in the EXACT cold-door back-pose state a
 
 CUT LOGIC: ANGLE-CUT / LOOP back to CLIP 1; the next pass re-triggers the warmth-wave when she next closes the door.
 
-### ☆ EXTERNAL AUDIO — BLOCK 1: BACKGROUND SOUND DESIGN / AMBIENCE BED — D-5
-*The layered foley + ambience to lay UNDER the reel, separate from the in-clip diegetic audio — timed to the clips.*
-- Base bed (cold clips): a quiet cold-apartment room-tone; faint cold city-evening sounds through the windows; a clinical hush.
-- CLIP 1 (★ the door/warmth): the decisive door CLICK; the warmth-wave (a soft deep "whooom" room-exhale + an amber-toned hum); the couch-puff; golden-mote sparkle-shimmer; her long deep exhale.
-- CLIP 2 (de-armoring): the coat sliding (fabric whoosh); the hair-tie snap; a boot thud; her "ahhhh"; the golden shimmer.
-- CLIP 3 (couch-fall): the air-whoosh of the fall; the deep "FWUMP" of the couch-landing (the signature sound); the mote-burst; the candle guttering; her release-laugh then "ahhhh".
-- CLIP 4 (peace): her deep slow breathing (ASMR); a quiet "mmm"; the candle crackle; deep home-silence.
-- CLIP 5 (reset): the warmth-hum fading; cold silence; city sounds through the opening door — back to the CLIP-1 bed.
-- Mix note: the bed itself transforms cold→warm→cold with the visuals; the "FWUMP" and the room-exhale are the signature foley; loops cleanly at ~22s.
-
-### ☆ EXTERNAL AUDIO — BLOCK 2: BACKGROUND MUSIC / SCORE TRACK — D-5 (lay under the sound bed)
-- Genre / vibe: intimate indie-folk warmth with a cinematic swell — the "getting home" anthem; the audio equivalent of a hug.
-- Tempo / key: ~85 BPM, C major (home key, warm, resolved).
-- Core elements: a soft fingerpicked acoustic guitar (the home-theme); a warm bass-note entering with the warmth-wave; gentle brushed drums entering at the fall; a warm wordless vocal "ooh" pad; returns to solo guitar.
-- Arc: silence + city-sounds (CLIP 1 cold) → the warmth-wave gets the bass + guitar entry on the click → guitar + brushed drums grow through the de-armoring (CLIP 2) → FULL arrangement at the couch-fall (CLIP 3, the payoff) → strips to guitar + vocal pad at the peace (CLIP 4) → fades to silence on the loop (CLIP 5).
-- Texture note: the guitar should feel like being wrapped in a blanket — close-mic'd, fingerpicked; the arrangement growing should feel like the apartment warming around you.
-- Loop: a clean ~22s loop matching the visual loop point.
+### ★ OUTSIDE MASTER AUDIO — D-5 (the single composed MUSIC track — generate in your music tool; lays under all 5 clips as one unified soundtrack with the Frame Audio)
+RUNTIME: exactly 40.000s = 5 clips × 8.000s · KEY: C major · TEMPO: 85 BPM · composed for this EXACT length — never looped, stretched, cut, or faded out.
+EMOTIONAL TARGET: intimate indie-folk warmth with a cinematic swell — the "getting home" anthem, the audio equivalent of a hug; cold arrival blooming to enveloping warmth, peaking at the couch-fall, then settling into home-peace.
+NO FADE-IN — OPENS AT FULL PRESENCE: at 0:00.000 silence + faint cold city-sounds are already at full presence; the cold-arrival mood lands within the first second, no swell-from-silence.
+INSTRUMENT PALETTE (emotion-matched — Romance / Beauty): a soft close-mic'd fingerpicked acoustic guitar as the hero voice (the home-theme), a warm bass-note, gentle brushed drums, and a warm wordless vocal "ooh" pad.
+VOCALS: a warm wordless "ooh" pad is part of the texture (optional, no lyrics) — it adds the blanket-warmth, never spoken words.
+ARRANGEMENT (timed to picture):
+- 0:00–0:08 (C1): silence + city-sounds, then a warm bass-note + soft fingerpicked guitar enter on the door-click at ~0:03.
+- 0:08–0:16 (C2): the guitar + warm bass grow with brushed drums hinting through the de-armoring.
+- 0:16–0:24 (C3): the FULL warm arrangement — guitar + bass + brushed drums + wordless "ooh" pad — at its warmest swell at the couch-fall (the payoff).
+- 0:24–0:32 (C4): the arrangement strips to guitar + the wordless "ooh" pad — warm and intimate.
+- 0:32–0:40 (C5): the warm arrangement decays to silence + city-sounds ; final chord lands at 0:39.8 on the exact 0:00 voicing.
+★ SYNCHRONIZED IMPACTS (musically integrated — the MUSIC itself blooms at these exact frames; never a separate inserted SFX; tuned to the track's key, tone and energy):
+- ~0:03 (C1 the door radiates the warmth-wave): a gentle warm bloom as the bass-note and guitar enter — soft and amber.
+- ~0:18 (C3 she falls back and the room exhales): a gentle warm bloom-swell as the full arrangement reaches its warmest — the emotional payoff. No booms — the warmth swells, never pounds.
+LOOP LOCK: the phrase resolves at 40.000s onto the 0:00 downbeat — seamless. FEEL: warm, enveloping, home-relief.
+(NOTE: this single Outside block replaces the old two-block system; all diegetic/ambience now lives in the per-clip ★ FRAME AUDIO above.)
 
 ---
 
@@ -8132,8 +8364,10 @@ FABRIC/HAIR/PROP PHYSICS: coat hem swings with real wool weight and delay; braid
 FOOTWORK & BODY FLOW: steady walking cadence, soles flexing, weight rolling — a metronome of calm.
 MID-CLIP TRANSFORMATION (timed — heavy detail): ★ SEASON CHANGE SPRING→SUMMER at 4.0–6.7s, completing by 6.0s. The change sweeps the WORLD, not her: outside the windows, cherry blossoms finish falling and the bare-pink branches thicken into full deep-green summer canopy; the drifting petals give way to golden pollen-motes and seed-fluff; beyond the trees a wheat-gold meadow and a hot blue sky resolve. INSIDE, the light transitions in real time — the cool fresh pink daylight warms and intensifies into blazing wheat-gold summer sun, the dappling on the floor shifting from pink-soft to gold-hard with sharper shadows; the hallway's pale walls retint warm honey. The transition travels along the hallway from the far end toward camera like a wave of light and growth, reaching her by ~5.0s.
 LIGHTING-IN-MOTION: cool spring key warms and strengthens to harsh summer gold across the clip; shadows shorten and sharpen; rim on the braid shifts from cool-pink to warm-gold.
-DIEGETIC AUDIO: spring birdsong and a soft breeze (0.0–4.0s) cross-fading into summer's denser insect-hum, cicada shimmer and a warmer wind (by 6.0s); her even footsteps throughout; a faint leafy rustle as the canopy thickens.
-MASTER TRACK: a continuous score; spring strings-and-flute warming into a fuller, brighter summer string swell across the transition.
+★ FRAME AUDIO — CLIP 1 (inside-prompt diegetic sound baked into this VEO clip; plays WITH the Outside Master Audio as one unified soundtrack):
+- DIEGETIC / SCENE SOUND: spring birdsong and a soft breeze (0.0–4.0s) cross-fading into summer's denser insect-hum, cicada shimmer and a warmer wind (by ~6s); her even footsteps throughout; a faint leafy rustle as the canopy thickens.
+- SYNCHRONIZED IMPACT: at ~5.0s (the window-trigger transforms spring into summer) a tasteful warm string-swell rises as the orchestration blooms from spring strings-and-flute into a fuller, brighter summer palette — fused with the Master Audio's continuous motif on the same frame, so the music itself ripens the season; warm and swelling, never pounding (matches the awe-transformation mood).
+- MIX: the seasonal ambiences cross-fading wide and seamless around her; her even footsteps steady and centred.
 END STATE / STATE-MATCH LOCK (heavy detail — this is what CLIP 2's START IMAGE must reproduce 100%, changing only the angle): at clip end the hallway is FULL SUMMER — outside every window, deep-green full-canopy trees over a wheat-gold meadow under a hot cloudless blue sky; golden pollen-motes and occasional seed-fluff drift on the air, a couple having blown inside; the interior light is blazing warm wheat-gold with short, sharp, high-contrast dappled shadows on the pale wood floor; the walls read warm honey; the curtains lift in a warm breeze. Aira is mid-stride, centre, camel coat and auburn braid unchanged, lit warm-gold, calm half-smile. CLIP 2 must open in this EXACT summer world (same canopy, same gold light, same motes, same floor dapple, same wardrobe state) — only the camera angle changes.
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 2 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: the camel wool coat from behind, belt-knot at the small of the back, hem swinging; white tee collar just visible at the nape — identical wardrobe state to CLIP 1.
@@ -8194,8 +8428,10 @@ FABRIC/HAIR/PROP PHYSICS: coat hem swings with wool weight; braid sways down the
 FOOTWORK & BODY FLOW: steady receding cadence, soles flexing, weight rolling forward.
 MID-CLIP TRANSFORMATION (timed — heavy detail): ★ SEASON CHANGE SUMMER→AUTUMN at 4.0–6.7s, completing by 6.0s. The world transforms, not her: outside the windows the deep-green canopy ignites into molten orange, scarlet and amber; leaves begin spiralling down in increasing drifts, some blowing in through an open window to scatter on the floor; the wheat-gold meadow fades to russet stubble; the hot blue sky deepens to a lower, amber-gold late-afternoon sky with long shadows. INSIDE, the light cools and lowers in real time — blazing overhead gold becomes a raking low amber, the floor dapple lengthening into long dramatic golden-hour shadows; the honey walls deepen to a richer burnt-amber. The change sweeps from the far end of the hallway toward her like a wave of colour igniting the trees, reaching her by ~5.0s.
 LIGHTING-IN-MOTION: high gold summer key lowers and warms to molten golden-hour amber; shadows lengthen and richen; rim on the braid shifts from bright gold to deep amber.
-DIEGETIC AUDIO: summer cicada-hum and warm wind (0.0–4.0s) cross-fading into autumn's drier rustling-leaf wind, crows in the distance, and leaves scraping the floor (by 6.0s); her even footsteps throughout.
-MASTER TRACK: the summer string swell warms and deepens into a richer autumn cello-and-acoustic colour across the transition — continuous, never cut.
+★ FRAME AUDIO — CLIP 2 (inside-prompt diegetic sound baked into this VEO clip; plays WITH the Outside Master Audio as one unified soundtrack):
+- DIEGETIC / SCENE SOUND: summer cicada-hum and warm wind (0.0–4.0s) cross-fading into autumn's drier rustling-leaf wind, distant crows and leaves scraping the floor (by ~6s); her even footsteps throughout.
+- SYNCHRONIZED IMPACT: at ~5.0s (the window-trigger transforms summer into autumn) a tasteful warm swell deepens as the orchestration morphs from full summer strings into a richer autumn cello-and-acoustic colour — fused with the Master Audio's unbroken motif, so the music itself turns the leaves; warm and deepening, never pounding.
+- MIX: the cicada-hum giving way to dry leaf-wind and crows, cross-fading seamlessly; her footsteps the constant centre.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 3's START IMAGE must reproduce this 100%, new angle only): at clip end the hallway is FULL AUTUMN — outside every window, molten orange-scarlet-amber canopies dropping leaves over russet stubble, a low amber late-afternoon sky with long shadows; leaves spiral past the glass and a scatter of fallen leaves lies on the pale wood floor near an open window; the interior light is low raking golden-hour amber casting long dramatic dappled shadows; walls read burnt-amber; the curtain flutters cooler. Aira is mid-stride (now to be re-framed), camel coat and auburn braid unchanged, lit warm amber, serene. CLIP 3 must open in this EXACT autumn world (same fire-canopy, same low amber light, same fallen leaves on the floor, same long shadows, same wardrobe) — only the camera angle changes.
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 3 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: the camel wool coat in profile, belt tied, hem mid-swing; white tee at the collar; dark jeans — identical wardrobe state.
@@ -8256,8 +8492,10 @@ FABRIC/HAIR/PROP PHYSICS: coat hem swings with wool weight; braid sways; falling
 FOOTWORK & BODY FLOW: steady cadence, soles flexing over leaves then over a faint frost-dust.
 MID-CLIP TRANSFORMATION (timed — heavy detail): ★ SEASON CHANGE AUTUMN→WINTER at 4.0–6.7s, completing by 6.0s. The world transforms, not her: outside the windows the fire-canopies shed their last leaves and the branches go bare and black, then dust with snow; the russet meadow whitens under settling snow; the low amber sky pales to a silver-grey winter overcast and snow begins to fall in earnest. INSIDE, the light cools and flattens in real time — low warm amber becomes cool silver-blue, the long warm shadows dissolving into soft even cold light; the burnt-amber walls cool to a pale slate; a thin frost creeps across the bottom of the window-panes; the fallen leaves on the floor are veiled by a faint indoor frost-shimmer. The change sweeps down the hallway toward her like a cold front, reaching her by ~5.0s; her breath fogs.
 LIGHTING-IN-MOTION: warm amber key cools to silver-blue; shadows soften and flatten; rim on the braid shifts from amber to cool silver.
-DIEGETIC AUDIO: autumn's dry leaf-wind and distant crows (0.0–4.0s) cross-fading into winter's hushed muffled stillness, a thin high wind and the soft hiss of falling snow (by 6.0s); her even footsteps, crisper on the cold floor.
-MASTER TRACK: the autumn cello-and-acoustic colour thins and crystallises into a sparse winter solo-piano-and-glass-synth across the transition — continuous.
+★ FRAME AUDIO — CLIP 3 (inside-prompt diegetic sound baked into this VEO clip; plays WITH the Outside Master Audio as one unified soundtrack):
+- DIEGETIC / SCENE SOUND: autumn's dry leaf-wind and distant crows (0.0–4.0s) cross-fading into winter's hushed muffled stillness, a thin high wind and the soft hiss of falling snow (by ~6s); her even footsteps, crisper on the cold floor.
+- SYNCHRONIZED IMPACT: at ~5.0s (the window-trigger transforms autumn into winter) a tasteful crystalline swell thins as the orchestration crystallises from autumn cello into a sparse winter solo-piano-and-glass-synth — fused with the Master Audio's motif, so the music itself freezes the season; cool and shimmering, never pounding.
+- MIX: the leaf-wind hushing into muffled stillness and snow-hiss; her footsteps turning crisp and centred.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 4's START IMAGE must reproduce this 100%, new angle only): at clip end the hallway is FULL WINTER — outside every window, bare black snow-dusted branches over a white meadow under a silver-grey overcast with snow falling steadily; frost creeps up the window-panes; inside, the light is cool silver-blue, soft and even, no warm shadow; the walls read pale slate; the floor's fallen leaves are veiled in faint frost-shimmer; her breath fogs gently. Aira is mid-stride (to be re-framed), camel coat and auburn braid unchanged, lit cool silver-blue, calm. CLIP 4 must open in this EXACT winter world (same bare snow-branches, same silver light, same frosted panes, same frosted floor, same wardrobe) — only the camera angle changes.
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 4 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: the camel wool coat from the low view, belt tied, hem with a faint snow-dust on the shoulders; white tee; dark jeans — identical wardrobe state.
@@ -8318,8 +8556,10 @@ FABRIC/HAIR/PROP PHYSICS: coat hem stirs then swings as she walks; braid sways, 
 FOOTWORK & BODY FLOW: from a grounded stance into a steady resumed cadence.
 MID-CLIP TRANSFORMATION (timed — heavy detail): ★ SEASON CHANGE WINTER→SPRING at 4.0–6.7s, completing by 6.0s. The world transforms, not her: outside the windows the bare black branches bud green and burst into cherry-blossom pink; the white meadow greens and flowers; the silver-grey overcast warms and clears to a soft fresh blue with gentle sun; snow stops and petals drift instead. INSIDE, the light warms in real time — cool silver-blue becomes fresh warm spring daylight, soft pink dappling returning to the floor; the pale slate walls warm back to pale wood-cream; the frost melts from the panes; the floor's frost-shimmer gives way to a clean pale wood with a drifted petal or two. The thaw sweeps down the hallway toward her like a warm front, reaching her by ~5.0s; her breath stops fogging.
 LIGHTING-IN-MOTION: cool silver key warms to fresh spring daylight; soft pink dapple returns; rim on the braid shifts from cool silver back to fresh cool-warm.
-DIEGETIC AUDIO: winter's hushed wind and snow-hiss (0.0–4.0s) cross-fading into spring's returning birdsong, a soft warm breeze and dripping melt (by 6.0s); her even footsteps resuming.
-MASTER TRACK: the sparse winter piano-and-glass blooms back into spring strings-and-flute across the transition — continuous, closing the musical year.
+★ FRAME AUDIO — CLIP 4 (inside-prompt diegetic sound baked into this VEO clip; plays WITH the Outside Master Audio as one unified soundtrack):
+- DIEGETIC / SCENE SOUND: winter's hushed wind and snow-hiss (0.0–4.0s) cross-fading into spring's returning birdsong, a soft warm breeze and dripping melt (by ~6s); her even footsteps resuming.
+- SYNCHRONIZED IMPACT: at ~5.0s (the window-trigger transforms winter back into spring) a tasteful warm bloom rises as the orchestration thaws from winter piano-and-glass back into spring strings-and-flute — fused with the Master Audio's motif closing the musical year, so the music itself melts the snow; warm and reviving, never pounding.
+- MIX: the snow-hiss thawing into birdsong and dripping melt, cross-fading seamless; her footsteps resuming centred.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 5's START IMAGE must reproduce this 100%, and it equals CLIP 1's opening world): at clip end the hallway is FULL SPRING — outside every window, cherry-blossom pink canopies over a fresh green flowering meadow under a soft clear blue sky with gentle sun; blossom petals drift past the glass and a couple have blown inside; inside, the light is fresh warm spring daylight with soft pink dappling on clean pale wood; the walls are pale wood-cream; panes are clear; her breath no longer fogs. Aira is mid-stride, camel coat and auburn braid unchanged, lit fresh-spring, calm half-smile. CLIP 5 must open in this EXACT spring world — which is identical to CLIP 1's opening — so the reel loops.
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 5 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: the camel wool coat, belt tied, mid-calf, swinging with the stride; white tee; dark-wash jeans — matched to CLIP 1.
@@ -8380,8 +8620,10 @@ FABRIC/HAIR/PROP PHYSICS: coat hem swings with wool weight; braid pendulum-sways
 FOOTWORK & BODY FLOW: steady walking cadence returning to the opening metronome.
 MID-CLIP TRANSFORMATION (timed): NONE — this is the loop-close in restored spring; the next season change would re-trigger as she passes the first window again at the top of the loop (i.e., the start of CLIP 1).
 LIGHTING-IN-MOTION: fresh spring key steady, matched to CLIP 1's opening level.
-DIEGETIC AUDIO: spring birdsong, a soft breeze, even footsteps — returning to the CLIP-1 bed.
-MASTER TRACK: the four-season score resolves back to its opening spring strings-and-flute, looping cleanly.
+★ FRAME AUDIO — CLIP 5 (inside-prompt diegetic sound baked into this VEO clip; plays WITH the Outside Master Audio as one unified soundtrack):
+- DIEGETIC / SCENE SOUND: spring birdsong, a soft breeze, even footsteps — returning to the CLIP-1 bed.
+- SYNCHRONIZED IMPACT: none — the loop close; no season-change here, so the four-season score simply resolves to its opening spring strings-and-flute.
+- MIX: spring birdsong and breeze at the CLIP-1 level, matched so the loop is invisible.
 END STATE / STATE-MATCH LOCK: clip ends in the EXACT spring world and wide-front angle of CLIP 1's START IMAGE — positions, light, petals, floor dapple, wardrobe and expression all matched, so the reel loops seamlessly.
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 1 (LOOP back to opening) — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: the camel wool coat, belt tied, mid-calf, swinging gently with the stride; white tee at the open collar; dark-wash jeans; pristine, seasonless.
@@ -8402,23 +8644,25 @@ END STATE / STATE-MATCH LOCK: clip ends in the EXACT spring world and wide-front
 
 CUT LOGIC: ANGLE-CUT / LOOP back to CLIP 1. The reel loops; the next pass re-triggers the spring→summer change as she crosses the first window.
 
-### ☆ EXTERNAL AUDIO — BLOCK 1: BACKGROUND SOUND DESIGN / AMBIENCE BED — E-1
-*The layered foley + per-season ambience to lay UNDER the reel, separate from the in-clip diegetic audio — timed to the clips and cross-fading on each window-trigger.*
-- Base bed (all clips): a soft interior hallway room-tone; faint even footsteps on pale wood throughout; a curtain breathing at an open window.
-- CLIP 1 (spring→summer): spring birdsong + soft breeze cross-fading into summer's denser insect-hum, cicada shimmer and a warmer wind; a leafy rustle as the canopy thickens.
-- CLIP 2 (summer→autumn): cicada-hum + warm wind cross-fading into a dry rustling-leaf wind, distant crows, leaves scraping the floor.
-- CLIP 3 (autumn→winter): dry leaf-wind + crows cross-fading into a hushed muffled stillness, a thin high wind, the soft hiss of falling snow; footsteps turn crisp.
-- CLIP 4 (winter→spring): snow-hiss + thin wind cross-fading into returning birdsong, a soft warm breeze and dripping melt.
-- CLIP 5 (spring restored): spring birdsong + breeze returning to the CLIP-1 level for the loop.
-- Mix note: each cross-fade lands in sync with the window-trigger (~3.0–5.0s of each clip); seamless, never an abrupt cut. Loops cleanly at ~30s.
-
-### ☆ EXTERNAL AUDIO — BLOCK 2: BACKGROUND MUSIC / SCORE TRACK — E-1 (lay under the sound bed)
-- Genre / vibe: a continuous four-season orchestral journey — one unbroken piece that morphs colour with each season, like Vivaldi reimagined as a film score; she is the steady melodic centre, the seasons are the orchestration around it.
-- Tempo / key: ~88 BPM throughout; key colour shifts — Spring D major (bright), Summer A major (blazing/full), Autumn E minor (rich), Winter C minor (crystalline), resolving back to D major.
-- Core elements: a constant 8-note "Aira walk" melodic motif that NEVER changes (her constancy); the orchestration around it transforms each clip — Spring: strings + flute; Summer: full brass + warm strings; Autumn: solo cello + acoustic guitar; Winter: solo piano + glass-synth; back to Spring strings + flute.
-- Arc: the motif rides unchanged while each window-trigger cross-fades the orchestration to the next season's palette in sync with the visual transition (~3.0–5.0s of each clip); fullest at the summer brass; sparest at the winter piano; resolves to the spring opening on the loop.
-- Texture note: the cross-fades must be SEAMLESS (instruments morph, never cut) so the score reads as one continuous evolving piece — the sonic equivalent of one hallway changing around a constant walker.
-- Loop: a clean ~30s loop; the spring resolution rejoins the spring opening with no seam.
+### ★ OUTSIDE MASTER AUDIO — E-1 (the single composed MUSIC track — generate in your music tool; lays under all 5 clips as one unified soundtrack with the Frame Audio)
+RUNTIME: exactly 40.000s = 5 clips × 8.000s · KEY: a continuous four-season journey — Spring D major → Summer A major → Autumn E minor → Winter C minor → resolving back to D major · TEMPO: 88 BPM · composed for this EXACT length — never looped, stretched, cut, or faded out.
+EMOTIONAL TARGET: awe at one hallway living a whole year — a continuous Vivaldi-reimagined-as-film-score journey, she the steady melodic centre while the seasons orchestrate around her.
+NO FADE-IN — OPENS AT FULL PRESENCE: at 0:00.000 the 8-note "Aira walk" motif in spring strings-and-flute is already at full presence; the bright spring lands within the first second, no swell-from-silence.
+INSTRUMENT PALETTE (emotion-matched — Beauty / Dream): a constant 8-note "Aira walk" motif that NEVER changes (her constancy), with the orchestration morphing each clip — Spring strings + flute, Summer full brass + warm strings, Autumn solo cello + acoustic guitar, Winter solo piano + glass-synth.
+VOCALS: none required (an optional wordless seasonal "ah" pad only if it adds warmth at the summer fullness).
+ARRANGEMENT (timed to picture):
+- 0:00–0:08 (C1): the motif in spring strings-and-flute; the orchestration warms into a fuller summer palette across the transition at ~0:05.
+- 0:08–0:16 (C2): the summer fullness deepens into a richer autumn cello-and-acoustic colour across the transition.
+- 0:16–0:24 (C3): the autumn colour thins and crystallises into a sparse winter solo-piano-and-glass-synth.
+- 0:24–0:32 (C4): the winter sparseness blooms back into spring strings-and-flute, closing the musical year.
+- 0:32–0:40 (C5): the score resolves to its opening spring palette ; final chord lands at 0:39.8 on the exact 0:00 voicing.
+★ SYNCHRONIZED IMPACTS (musically integrated — the MUSIC itself swells at these exact frames; never a separate inserted SFX; tuned to the track's key, tone and energy):
+- ~0:05 (C1 spring→summer): a tasteful warm string-swell as the orchestration ripens — warm, not pounding.
+- ~0:13 (C2 summer→autumn): a tasteful warm swell deepening into autumn cello colour.
+- ~0:21 (C3 autumn→winter): a tasteful crystalline swell thinning into winter piano-and-glass.
+- ~0:29 (C4 winter→spring): a tasteful warm bloom thawing back into spring strings-and-flute. No booms — each season-change swells warmly, never pounds; the "Aira walk" motif rides unchanged through all four.
+LOOP LOCK: the phrase resolves at 40.000s onto the 0:00 downbeat — seamless. FEEL: awe, continuous, ever-turning.
+(NOTE: this single Outside block replaces the old two-block system; all diegetic/ambience now lives in the per-clip ★ FRAME AUDIO above.)
 
 ---
 
@@ -8491,8 +8735,10 @@ FABRIC/HAIR/PROP PHYSICS: the silk-bias hem pools and flows with each step; the 
 FOOTWORK & BODY FLOW: graceful placed steps, heel-to-step, weight rolling down.
 MID-CLIP TRANSFORMATION (timed — heavy detail): ★ ERA-MORPH DECO→MID-CENTURY at 3.2–7.2s, triggered by stepping onto the new flight. The brass geometric railings smooth into clean teak wood; the black-marble-and-gold steps become warm terrazzo; the emerald-lacquer walls transition to white with bold color-block art; the deco chandelier simplifies into a Sputnik pendant. Clean mid-century lines replace ornate geometry; the warm golden light cools to a brighter, even mid-century light.
 LIGHTING-IN-MOTION: warm Deco gold transitions to a cooler, brighter, more even mid-century light.
-DIEGETIC AUDIO: her heels on marble (sharp, echoing); the chandelier crystals tinkling; the brass railing singing under her fingertips; a faint jazz piano echoing (Deco) cross-fading into a bossa-nova as the era morphs.
-MASTER TRACK: the same 4-bar melody played in 1920s jazz (piano + upright bass + brushed drums), cross-fading to a 1960s bossa version on the morph.
+★ FRAME AUDIO — CLIP 1 (inside-prompt diegetic sound baked into this VEO clip; plays WITH the Outside Master Audio as one unified soundtrack):
+- DIEGETIC / SCENE SOUND: her heels on marble (sharp, echoing), the chandelier crystals tinkling, the brass railing singing under her fingertips, a faint jazz piano echoing (Deco) cross-fading into a bossa-nova as the era morphs.
+- SYNCHRONIZED IMPACT: at ~5.0s (the step-trigger morphs Art Deco into Mid-Century) a smooth era-shift swell glides the same 4-bar melody from 1920s jazz piano into a warm 1960s bossa — fused with the Master Audio on the same frame, so the music itself re-styles the staircase; character-matched and breezy, never pounding (matches the awe-transformation mood).
+- MIX: the heel-resonance and room-reverb genre-shifting around her; the chandelier-tinkle giving way to a clean mid-century quiet.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 2's START IMAGE must reproduce 100%, new angle only): at clip end the staircase is FULL MID-CENTURY — clean teak railings, warm terrazzo steps, white walls with bold color-block art, a Sputnik pendant, brighter even light; Aira mid-descent, black silk slip, finger-wave bob, composed. CLIP 2 must open in this EXACT mid-century world (same teak, terrazzo, color-block art, Sputnik light, same wardrobe) — only the camera angle changes.
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 2 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: the black silk slip in profile — identical state (timeless).
@@ -8553,8 +8799,10 @@ FABRIC/HAIR/PROP PHYSICS: silk flows; the bob holds; the railing morphs material
 FOOTWORK & BODY FLOW: graceful placed steps, weight rolling.
 MID-CLIP TRANSFORMATION (timed — heavy detail): ★ ERA-MORPH MID-CENTURY→MEMPHIS at 3.2–7.2s, triggered by the step. The teak railing becomes bold tubular steel in hot-pink and teal; the white walls become geometric confetti-patterns (triangles, squiggles, dots) in primary colors; the stair carpet becomes a bold zigzag; a neon sign glows; the even light becomes bold flat Memphis-era lighting with neon accents.
 LIGHTING-IN-MOTION: clean mid-century light becomes bold flat bright Memphis colour with neon flicker.
-DIEGETIC AUDIO: her heels on terrazzo then carpet (muffling); the bossa fading into a faint synth-pop beat; the neon buzz; the railing-material change.
-MASTER TRACK: the same melody cross-fading from bossa to a 1980s synth-pop version (synth-lead + drum machine + slap bass).
+★ FRAME AUDIO — CLIP 2 (inside-prompt diegetic sound baked into this VEO clip; plays WITH the Outside Master Audio as one unified soundtrack):
+- DIEGETIC / SCENE SOUND: her heels on terrazzo then carpet (muffling), the bossa fading into a faint synth-pop beat, the neon buzz, the railing-material change.
+- SYNCHRONIZED IMPACT: at ~5.0s (the step-trigger morphs Mid-Century into Memphis) a punchy era-shift swell flips the same melody from bossa into a 1980s synth-pop — synth-lead, drum machine and slap bass — fused with the Master Audio, so the music itself neon-lights the staircase; character-matched and bright, never pounding.
+- MIX: the heels muffling onto carpet; the bossa giving way to a neon buzz and a livelier room.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 3's START IMAGE must reproduce 100%, new angle only): at clip end the staircase is FULL MEMPHIS — hot-pink-and-teal tubular steel railings, confetti-pattern walls, a zigzag carpet, a glowing neon sign, bold flat lighting; Aira mid-descent, black slip the calm centre, finger-wave bob. CLIP 3 must open in this EXACT Memphis world (same tubular steel, confetti walls, zigzag, neon, same wardrobe) — only the angle changes.
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 3 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: the black silk slip at the shoulder — identical state (the calm centre amid the chaos).
@@ -8615,8 +8863,10 @@ FABRIC/HAIR/PROP PHYSICS: her grip on the tubular steel has cylindrical contact;
 FOOTWORK & BODY FLOW: graceful placed steps.
 MID-CLIP TRANSFORMATION (timed — heavy detail): ★ ERA-MORPH MEMPHIS→MODERN at 3.2–7.2s, triggered by the step. The tubular steel becomes a thin black metal railing; the confetti walls become pure white; the zigzag carpet becomes clean white concrete steps; the neon vanishes; a single perfect flower in a vase appears at the landing; the bold flat light becomes one large diffused gallery panel — pure calm.
 LIGHTING-IN-MOTION: bold Memphis colour becomes clean bright even gallery-light, shadowless.
-DIEGETIC AUDIO: the synth-pop fading; her heels on carpet then clean concrete; the neon buzz cutting out; a minimal silence settling.
-MASTER TRACK: the same melody cross-fading from synth-pop to a stripped solo-piano + silence (modern minimal).
+★ FRAME AUDIO — CLIP 3 (inside-prompt diegetic sound baked into this VEO clip; plays WITH the Outside Master Audio as one unified soundtrack):
+- DIEGETIC / SCENE SOUND: the synth-pop fading, her heels on carpet then clean concrete, the neon buzz cutting out, a minimal silence settling.
+- SYNCHRONIZED IMPACT: at ~5.0s (the step-trigger morphs Memphis into Modern Minimalist) a stripping era-shift swell pares the same melody down from synth-pop into a stark solo-piano-and-silence — fused with the Master Audio, so the music itself empties the staircase to a gallery hush; character-matched and spare, never pounding.
+- MIX: the neon buzz cutting out into a minimal gallery silence; the heels sharpening on clean concrete.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 4's START IMAGE must reproduce 100%, new angle only): at clip end the staircase is FULL MODERN MINIMALIST — white concrete steps, a thin black metal railing, pure white walls, a single flower at the landing, clean diffused light; Aira mid-descent, black slip now the most "of the moment" thing, finger-wave bob. CLIP 4 must open in this EXACT modern world (same white concrete, thin railing, single flower, gallery light, same wardrobe) — only the angle changes.
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 4 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: the black silk slip, full-length, the hem pooling on the white concrete — identical state.
@@ -8677,8 +8927,10 @@ FABRIC/HAIR/PROP PHYSICS: the thin black railing morphs back to brass sunburst; 
 FOOTWORK & BODY FLOW: a composed settle at the foot.
 MID-CLIP TRANSFORMATION (timed — heavy detail): ★ ERA-MORPH MODERN→ART DECO at 3.2–7.2s — the minimal staircase morphs back to full Art Deco (brass sunburst railings, black-marble-and-gold steps, emerald-lacquer walls, the crystal chandelier, warm gold light); the cycle completing back to the opening era.
 LIGHTING-IN-MOTION: clean gallery-light warms back to the golden Deco chandelier.
-DIEGETIC AUDIO: her heels on concrete then marble; the minimal silence cross-fading back into the jazz piano; the chandelier crystals re-tinkling.
-MASTER TRACK: the same melody cross-fading from solo piano back to the 1920s jazz version.
+★ FRAME AUDIO — CLIP 4 (inside-prompt diegetic sound baked into this VEO clip; plays WITH the Outside Master Audio as one unified soundtrack):
+- DIEGETIC / SCENE SOUND: her heels on concrete then marble, the minimal silence cross-fading back into the jazz piano, the chandelier crystals re-tinkling.
+- SYNCHRONIZED IMPACT: at ~5.0s (the step-trigger morphs Modern back into Art Deco) a warming era-shift swell blooms the same melody from solo piano back into the 1920s jazz version — fused with the Master Audio closing the era-loop, so the music itself re-gilds the staircase; character-matched and warm, never pounding.
+- MIX: the minimal silence warming back into the chandelier tinkle and brass sing; the heels resonating on marble again.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 5's START IMAGE must reproduce 100%, and it equals CLIP 1's opening): at clip end the staircase is FULL ART DECO again (brass, marble-gold, emerald, chandelier, warm light); Aira composed at the foot, black slip, finger-wave bob. CLIP 5 must open in this EXACT Deco world — identical to CLIP 1's opening — so the reel loops.
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 5 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: the classic black silk slip dress — matched to CLIP 1.
@@ -8739,8 +8991,10 @@ FABRIC/HAIR/PROP PHYSICS: silk pools, the bob holds, the chandelier crystals tin
 FOOTWORK & BODY FLOW: a graceful first descending step.
 MID-CLIP TRANSFORMATION (timed): the staircase is full Deco; the next loop re-triggers the era-morphs as she descends the first flight (the start of CLIP 1).
 LIGHTING-IN-MOTION: golden chandelier — matched to CLIP 1.
-DIEGETIC AUDIO: her heels on marble; the chandelier tinkling; the jazz piano echoing — back to the CLIP-1 bed.
-MASTER TRACK: the 1920s jazz version of the melody, looping cleanly to the opening.
+★ FRAME AUDIO — CLIP 5 (inside-prompt diegetic sound baked into this VEO clip; plays WITH the Outside Master Audio as one unified soundtrack):
+- DIEGETIC / SCENE SOUND: her heels on marble, the chandelier tinkling, the jazz piano echoing — returning to the CLIP-1 bed.
+- SYNCHRONIZED IMPACT: none — the loop close; no era-change here, so the 1920s jazz version simply resolves to the opening.
+- MIX: the Deco ambience at the CLIP-1 level, matched so the loop is invisible.
 END STATE / STATE-MATCH LOCK: clip ends in the EXACT Art Deco top-of-stairs state and wide angle of CLIP 1's START IMAGE — era, wardrobe and composed expression matched, so the reel loops seamlessly.
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 1 (LOOP back to opening) — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: the classic black silk slip dress, bias-cut, ankle-length, thin straps, the hem pooling and flowing with each step.
@@ -8761,23 +9015,25 @@ END STATE / STATE-MATCH LOCK: clip ends in the EXACT Art Deco top-of-stairs stat
 
 CUT LOGIC: ANGLE-CUT / LOOP back to CLIP 1; the next pass re-triggers the era-morphs as she descends.
 
-### ☆ EXTERNAL AUDIO — BLOCK 1: BACKGROUND SOUND DESIGN / AMBIENCE BED — E-2
-*The layered foley + per-era ambience to lay UNDER the reel, separate from the in-clip diegetic audio — timed to the clips and cross-fading on each step-trigger.*
-- Base bed (all clips): her heels echoing on the stairs (the resonance changes per era's material — marble, terrazzo, carpet, concrete); a faint room-reverb that shifts era to era.
-- CLIP 1 (Deco→Mid-century): a chandelier-crystal tinkle and brass-railing sing cross-fading into a clean mid-century quiet.
-- CLIP 2 (Mid-century→Memphis): the clean quiet cross-fading into a neon buzz and a livelier room.
-- CLIP 3 (Memphis→Modern): the neon buzz cutting out into a minimal gallery silence.
-- CLIP 4 (Modern→Deco): the minimal silence warming back into the chandelier tinkle and brass sing.
-- CLIP 5 (reset): the Deco ambience — back to the CLIP-1 bed.
-- Mix note: the heel-resonance and room-reverb genre-shift with each era; loops cleanly at ~26s.
-
-### ☆ EXTERNAL AUDIO — BLOCK 2: BACKGROUND MUSIC / SCORE TRACK — E-2 (lay under the sound bed)
-- Genre / vibe: an era-morphing soundtrack — the SAME 4-bar melody played in each era's authentic production style.
-- Tempo / key: ~90 BPM throughout; key shifts — Deco Bb minor (dark jazz), Mid-Century C major (bossa), Memphis D major (synth-pop), Modern Eb (ambient minimal).
-- Core elements — the same melody, different production: Deco — jazz piano + upright bass + brushed drums; Mid-Century — bossa guitar + light percussion + flute; Memphis — synth-lead + drum machine + slap bass; Modern — solo piano + silence.
-- Arc: jazz (CLIP 1) → cross-fade to bossa (CLIP 2) → cross-fade to synth-pop (CLIP 3) → cross-fade to solo piano (CLIP 4) → cross-fade back to jazz (CLIP 5 loop).
-- Texture note: the melody must be RECOGNISABLE across all four era-versions — same notes, totally different production; that's the hook.
-- Loop: a clean ~26s loop matching the visual loop point.
+### ★ OUTSIDE MASTER AUDIO — E-2 (the single composed MUSIC track — generate in your music tool; lays under all 5 clips as one unified soundtrack with the Frame Audio)
+RUNTIME: exactly 40.000s = 5 clips × 8.000s · KEY: an era-morphing journey — Deco Bb minor (dark jazz) → Mid-Century C major (bossa) → Memphis D major (synth-pop) → Modern Eb (ambient minimal) → back to Bb minor jazz · TEMPO: 90 BPM · composed for this EXACT length — never looped, stretched, cut, or faded out.
+EMOTIONAL TARGET: awe at one staircase descending through a century — the SAME recognisable 4-bar melody re-produced in each era's authentic style, she the constant while the decades change around her.
+NO FADE-IN — OPENS AT FULL PRESENCE: at 0:00.000 the 4-bar melody in 1920s Art-Deco jazz (piano + upright bass + brushed drums) is already at full presence; the era lands within the first second, no swell-from-silence.
+INSTRUMENT PALETTE (emotion-matched — Luxury / Beauty): the SAME 4-bar melody as the hero, re-orchestrated per era — Deco jazz piano + upright bass + brushed drums; Mid-Century bossa guitar + light percussion + flute; Memphis synth-lead + drum machine + slap bass; Modern solo piano + silence.
+VOCALS: none required (an optional period-styled wordless vocal only if it adds era-character at the bossa).
+ARRANGEMENT (timed to picture):
+- 0:00–0:08 (C1): the melody in 1920s jazz; it cross-fades into a 1960s bossa across the transition at ~0:05.
+- 0:08–0:16 (C2): the bossa cross-fades into a 1980s synth-pop version.
+- 0:16–0:24 (C3): the synth-pop strips into a modern solo-piano + silence.
+- 0:24–0:32 (C4): the solo piano warms back into the 1920s jazz version.
+- 0:32–0:40 (C5): the jazz version resolves to the opening ; final chord lands at 0:39.8 on the exact 0:00 voicing.
+★ SYNCHRONIZED IMPACTS (musically integrated — the MUSIC itself re-styles at these exact frames; never a separate inserted SFX; tuned to the track's key, tone and energy):
+- ~0:05 (C1 Deco→Mid-Century): a smooth era-shift swell from jazz piano into warm bossa — breezy, character-matched.
+- ~0:13 (C2 Mid-Century→Memphis): a punchy era-shift swell from bossa into 80s synth-pop — bright, character-matched.
+- ~0:21 (C3 Memphis→Modern): a stripping era-shift swell from synth-pop into solo-piano silence — spare, character-matched.
+- ~0:29 (C4 Modern→Deco): a warming era-shift swell from solo piano back into jazz — warm, character-matched. No booms — each era-change swells in its own style, never pounds; the melody stays recognisable throughout.
+LOOP LOCK: the phrase resolves at 40.000s onto the 0:00 downbeat — seamless. FEEL: awe, time-travelling, ever-restyling.
+(NOTE: this single Outside block replaces the old two-block system; all diegetic/ambience now lives in the per-clip ★ FRAME AUDIO above.)
 
 ---
 
@@ -8850,8 +9106,10 @@ FABRIC/HAIR/PROP PHYSICS: the silk drifts and reflects the warming light; the cu
 FOOTWORK & BODY FLOW: a steady walking cadence, weight rolling.
 MID-CLIP TRANSFORMATION (timed — heavy detail): ★ TIME-CHANGE DAWN→GOLDEN HOUR at 3.2–7.2s, triggered by passing the lamppost. The peach-lavender dawn warms and strengthens into a blazing golden hour: the sky deepens warm-gold, the water below turns liquid gold, long shadows stretch across the bridge, her silver dress reads as molten gold.
 LIGHTING-IN-MOTION: soft dawn warms and intensifies to a directional golden-hour blaze; shadows lengthen.
-DIEGETIC AUDIO: early-morning city far off; her footsteps on the walkway; the cable-stays humming in the wind; water below; birds waking, then a fuller golden-hour chorus.
-MASTER TRACK: a constant melodic motif (her), with the orchestration warming from dawn strings+flute to a fuller golden-hour string-swell.
+★ FRAME AUDIO — CLIP 1 (inside-prompt diegetic sound baked into this VEO clip; plays WITH the Outside Master Audio as one unified soundtrack):
+- DIEGETIC / SCENE SOUND: early-morning city far off, her footsteps on the walkway, the cable-stays humming in the wind, water below, birds waking then a fuller golden-hour chorus.
+- SYNCHRONIZED IMPACT: at ~4.0s (she passes the lamppost and dawn warms into golden hour) a soft warm string-swell rises as the orchestration blooms from dawn strings-and-flute into a fuller golden-hour palette — fused with the Master Audio's constant motif on the same frame, so the music itself raises the sun; gentle and warming, never pounding (matches the awe time-lapse).
+- MIX: the waking birdsong building wide; her footsteps and the cable-hum the steady centre.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 2's START IMAGE must reproduce 100%, new angle only): at clip end the bridge is in full GOLDEN HOUR — a warm-gold sky, liquid-gold water, long shadows, her silver dress molten-gold; Aira mid-stride, platinum curtain, serene. CLIP 2 must open in this EXACT golden-hour world (same gold sky, gold water, long shadows, same wardrobe) — only the camera angle changes.
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 2 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: the silver-grey silk dress in profile, reading molten-gold in this light — identical state.
@@ -8912,8 +9170,10 @@ FABRIC/HAIR/PROP PHYSICS: golden-hour shadows lengthen in real time; the curtain
 FOOTWORK & BODY FLOW: a steady walking cadence.
 MID-CLIP TRANSFORMATION (timed — heavy detail): ★ TIME-CHANGE GOLDEN HOUR→SUNSET at 3.2–7.2s, triggered by the lamppost. The sky deepens from gold to a fiery layered sunset (orange, magenta, purple, gold), the sun a blazing disc at the horizon past the cables; her silver dress reads rose-gold.
 LIGHTING-IN-MOTION: golden intensifying into deep sunset oranges and magentas; the light lower and more dramatic.
-DIEGETIC AUDIO: her footsteps; the cables humming; a golden-hour bird-chorus; a soft sunset wind; a distant starling murmuration.
-MASTER TRACK: the orchestration warms and deepens from golden-hour strings to a fuller, richer sunset swell (brass entering).
+★ FRAME AUDIO — CLIP 2 (inside-prompt diegetic sound baked into this VEO clip; plays WITH the Outside Master Audio as one unified soundtrack):
+- DIEGETIC / SCENE SOUND: her footsteps, the cables humming, a golden-hour bird-chorus, a soft sunset wind, a distant starling murmuration.
+- SYNCHRONIZED IMPACT: at ~4.0s (she passes the lamppost and golden hour deepens into sunset) a fuller but still soft swell warms as brass enters and the orchestration deepens into a richer sunset colour — fused with the Master Audio, so the music itself lowers the sun; warm and swelling toward the day's peak, never pounding.
+- MIX: the bird-chorus and sunset wind wide; the starling murmuration drifting; her footsteps centred.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 3's START IMAGE must reproduce 100%, new angle only): at clip end the bridge is in full SUNSET — a fiery layered sky, the sun at the horizon, her silver dress rose-gold; Aira mid-stride, platinum curtain. CLIP 3 must open in this EXACT sunset world (same fiery sky, sun-disc, rose-gold dress) — only the angle changes.
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 3 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: the silver dress collar reflecting sunset fire — identical state.
@@ -8974,8 +9234,10 @@ FABRIC/HAIR/PROP PHYSICS: the sun descends with correct speed; colours shift on 
 FOOTWORK & BODY FLOW: a steady walking cadence.
 MID-CLIP TRANSFORMATION (timed — heavy detail): ★ TIME-CHANGE SUNSET→NIGHT at 3.2–7.2s, triggered by the lamppost. The sun sets fully; the sky deepens to indigo-black filled with stars and the Milky Way; the bridge lamp-posts glow warm; the water mirrors stars and lamp-light; her silver dress reads moonlit-silver again.
 LIGHTING-IN-MOTION: warm sunset draining; cool blue-silver moonlight + warm lamp-post practicals taking over (dual-temperature).
-DIEGETIC AUDIO: the sunset wind; the last birdsong fading; the lamp-posts buzzing on; crickets from the riverbank; a distant ship-horn.
-MASTER TRACK: the rich sunset swell strips to an intimate solo cello + ambient pad for the night.
+★ FRAME AUDIO — CLIP 3 (inside-prompt diegetic sound baked into this VEO clip; plays WITH the Outside Master Audio as one unified soundtrack):
+- DIEGETIC / SCENE SOUND: the sunset wind, the last birdsong fading, the lamp-posts buzzing on, crickets from the riverbank, a distant ship-horn.
+- SYNCHRONIZED IMPACT: at ~4.0s (she passes the lamppost and sunset strips to night) a soft light-shift swell pares the rich sunset down into an intimate solo cello + ambient pad — fused with the Master Audio on the same frame, so the music itself dims the bridge to night; a gentle release, not a collapse, never a boom.
+- MIX: the birdsong fading into lamp-buzz and crickets; the ship-horn distant; her footsteps crisp in the cooling air.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 4's START IMAGE must reproduce 100%, new angle only): at clip end the bridge is in full NIGHT — an indigo Milky-Way sky, warm lamp-posts glowing, star-mirrored water, her silver dress moonlit; Aira walking, platinum curtain. CLIP 4 must open in this EXACT night world (same galaxy, lamp-glow, star-water, moonlit dress) — only the angle changes.
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 4 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: the silver-grey silk dress reflecting city-lights and stars — reading mercury-liquid, a starfield itself; identical state.
@@ -9036,8 +9298,10 @@ FABRIC/HAIR/PROP PHYSICS: her silver dress and curtain catch each lamp-post as s
 FOOTWORK & BODY FLOW: a steady walking cadence.
 MID-CLIP TRANSFORMATION (timed — heavy detail): ★ TIME-CHANGE NIGHT→DAWN at 3.2–7.2s, triggered by the lamppost. The indigo night-sky lightens at the horizon and resolves back into the soft peach-lavender dawn; the stars fade; the lamp-posts dim; the water returns to pastel — the cycle completing back to the opening hour.
 LIGHTING-IN-MOTION: cool night lightening to soft peach dawn; the lamp-posts dimming.
-DIEGETIC AUDIO: the night city quieter; her footsteps echoing in the night air; a distant ship-horn; crickets fading; the first dawn birdsong returning.
-MASTER TRACK: the intimate night cello blooms back into the dawn strings+flute — the cycle closing.
+★ FRAME AUDIO — CLIP 4 (inside-prompt diegetic sound baked into this VEO clip; plays WITH the Outside Master Audio as one unified soundtrack):
+- DIEGETIC / SCENE SOUND: the night city quieter, her footsteps echoing in the night air, a distant ship-horn, crickets fading, the first dawn birdsong returning.
+- SYNCHRONIZED IMPACT: at ~4.0s (she passes the lamppost and night blooms back into dawn) a soft warm bloom rises as the intimate night cello opens back into dawn strings-and-flute — fused with the Master Audio closing the cycle, so the music itself brings the morning; gentle and reviving, never pounding.
+- MIX: the night quiet warming back into returning birdsong; her footsteps echoing then softening; crickets fading.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 5's START IMAGE must reproduce 100%, and it equals CLIP 1's opening): at clip end the bridge is in full DAWN again (peach-lavender sky, pastel water, dimmed lamps); Aira walking, platinum curtain, serene. CLIP 5 must open in this EXACT dawn world — identical to CLIP 1's opening — so the reel loops.
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 5 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: the flowing silver-grey silk midi-dress catching peach dawn — matched to CLIP 1.
@@ -9098,8 +9362,10 @@ FABRIC/HAIR/PROP PHYSICS: silk drifts, the curtain sways, cables hum, water ripp
 FOOTWORK & BODY FLOW: a steady walking cadence.
 MID-CLIP TRANSFORMATION (timed): the day RESETS to dawn; the next loop re-triggers golden-hour as she passes the first lamppost (the start of CLIP 1).
 LIGHTING-IN-MOTION: soft dawn — matched to CLIP 1.
-DIEGETIC AUDIO: dawn city; footsteps; cables humming; water; waking birds — back to the CLIP-1 bed.
-MASTER TRACK: the dawn strings+flute version of the motif, looping cleanly.
+★ FRAME AUDIO — CLIP 5 (inside-prompt diegetic sound baked into this VEO clip; plays WITH the Outside Master Audio as one unified soundtrack):
+- DIEGETIC / SCENE SOUND: dawn city, footsteps, cables humming, water, waking birds — returning to the CLIP-1 bed.
+- SYNCHRONIZED IMPACT: none — the loop close; no light-shift here, so the dawn strings-and-flute version of the motif simply resolves to the opening.
+- MIX: dawn birdsong and breeze at the CLIP-1 level, matched so the loop is invisible.
 END STATE / STATE-MATCH LOCK: clip ends in the EXACT dawn-bridge state and wide angle of CLIP 1's START IMAGE — hour, wardrobe and serene expression matched, so the reel loops seamlessly.
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 1 (LOOP back to opening) — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: the flowing silver-grey silk midi-dress, long sleeves, catching the peach dawn-light, the skirt drifting in a bridge-breeze.
@@ -9120,23 +9386,25 @@ END STATE / STATE-MATCH LOCK: clip ends in the EXACT dawn-bridge state and wide 
 
 CUT LOGIC: ANGLE-CUT / LOOP back to CLIP 1; the next pass re-triggers the time-of-day cycle as she passes the lamp-posts.
 
-### ☆ EXTERNAL AUDIO — BLOCK 1: BACKGROUND SOUND DESIGN / AMBIENCE BED — E-3
-*The layered foley + per-hour ambience to lay UNDER the reel, separate from the in-clip diegetic audio — timed to the clips and cross-fading on each lamppost-trigger.*
-- Base bed (all clips): her footsteps on the bridge walkway; the cable-stays humming in the wind; water lapping below; a faint distant city.
-- CLIP 1 (dawn→golden): waking birdsong building into a fuller golden-hour chorus.
-- CLIP 2 (golden→sunset): the chorus + a soft sunset wind + a distant starling murmuration.
-- CLIP 3 (sunset→night): the last birdsong fading; lamp-posts buzzing on; crickets; a distant ship-horn.
-- CLIP 4 (night→dawn): the quiet night city; footsteps echoing; crickets fading; the first dawn birdsong returning.
-- CLIP 5 (reset): dawn birdsong + breeze — back to the CLIP-1 bed.
-- Mix note: each cross-fade lands on the lamppost-trigger (~2.0–4.5s of each clip); seamless; loops cleanly at ~26s.
-
-### ☆ EXTERNAL AUDIO — BLOCK 2: BACKGROUND MUSIC / SCORE TRACK — E-3 (lay under the sound bed)
-- Genre / vibe: a cinematic time-lapse score — one continuous build through time-of-day moods, a Hans-Zimmer slow-burn.
-- Tempo / key: builds — 70 → 90 → 100 → back to 70 BPM. Key: F major (dawn), peaks Bb major (sunset), deepens D minor (night), returns F major (dawn).
-- Core elements: dawn — solo piano + soft strings; golden hour — full strings swelling; sunset — strings + brass + a building percussive pulse; night — stripped solo cello + ambient pad + distant piano; dawn return — solo piano. A constant melodic motif (her) rides unchanged through all.
-- Arc: gentle piano (CLIP 1 dawn) → strings building (CLIP 2 golden) → full orchestral peak at sunset (CLIP 3) → stripped intimate cello at night (CLIP 4) → return to solo piano (CLIP 5 dawn loop).
-- Texture note: the dawn-to-sunset build should feel INEVITABLE (a sunrise from space, accelerated); the night drop a release, not a collapse.
-- Loop: a clean ~26s loop matching the visual loop point.
+### ★ OUTSIDE MASTER AUDIO — E-3 (the single composed MUSIC track — generate in your music tool; lays under all 5 clips as one unified soundtrack with the Frame Audio)
+RUNTIME: exactly 40.000s = 5 clips × 8.000s · KEY: a time-lapse journey — F major (dawn) → peaking Bb major (sunset) → deepening D minor (night) → returning F major (dawn) · TEMPO: builds 70 → 90 → 100 → back to 70 BPM · composed for this EXACT length — never looped, stretched, cut, or faded out.
+EMOTIONAL TARGET: awe at one bridge living a whole day in 40 seconds — a Hans-Zimmer slow-burn time-lapse, an inevitable dawn-to-sunset build and a night release, she the constant motif riding through all of it.
+NO FADE-IN — OPENS AT FULL PRESENCE: at 0:00.000 the constant "her" motif in dawn solo-piano + soft strings is already at full presence; the dawn lands within the first second, no swell-from-silence.
+INSTRUMENT PALETTE (emotion-matched — Dream / Beauty): a constant melodic motif (her) riding unchanged, with the orchestration evolving — dawn solo piano + soft strings; golden hour full strings; sunset strings + brass + a building percussive pulse; night stripped solo cello + ambient pad + distant piano.
+VOCALS: none required (an optional wordless dawn "ah" pad only if it adds warmth to the sunrise).
+ARRANGEMENT (timed to picture):
+- 0:00–0:08 (C1): the motif in dawn piano + soft strings warms into a fuller golden-hour palette across the lamppost-trigger at ~0:04.
+- 0:08–0:16 (C2): golden-hour strings deepen, brass entering, into a richer sunset swell.
+- 0:16–0:24 (C3): the rich sunset strips to an intimate solo cello + ambient pad for the night.
+- 0:24–0:32 (C4): the night cello blooms back into dawn strings-and-flute — the cycle closing.
+- 0:32–0:40 (C5): the dawn motif resolves to the opening ; final chord lands at 0:39.8 on the exact 0:00 voicing.
+★ SYNCHRONIZED IMPACTS (musically integrated — the MUSIC itself swells at these exact frames; never a separate inserted SFX; tuned to the track's key, tone and energy):
+- ~0:04 (C1 dawn→golden hour): a soft warm string-swell raising the light — gentle, not pounding.
+- ~0:12 (C2 golden hour→sunset): a fuller but soft swell with brass entering — warm, the day's peak.
+- ~0:20 (C3 sunset→night): a soft light-shift swell paring down to intimate cello — a release, not a collapse.
+- ~0:28 (C4 night→dawn): a soft warm bloom back into dawn strings-and-flute — reviving. No booms — every light-shift swells softly, never pounds; the "her" motif rides unchanged.
+LOOP LOCK: the phrase resolves at 40.000s onto the 0:00 downbeat — seamless. FEEL: awe, inevitable, ever-cycling.
+(NOTE: this single Outside block replaces the old two-block system; all diegetic/ambience now lives in the per-clip ★ FRAME AUDIO above.)
 
 ---
 
@@ -9209,8 +9477,10 @@ FABRIC/HAIR/PROP PHYSICS: the braids sway with correct pendulum and individual-b
 FOOTWORK & BODY FLOW: a confident heel-to-toe walk, weight rolling.
 MID-CLIP TRANSFORMATION (timed — heavy detail): ★ WEATHER-CHANGE SUNSHINE→FOG at 3.2–7.2s, triggered by crossing the corner. The harsh blue sky and sharp shadows dissolve into thick cinematic fog — the boulevard almost vanishing, streetlamps creating halos, buildings as ghost-shapes; the sounds muffle. She stays the sharpest thing in the frame.
 LIGHTING-IN-MOTION: harsh sun softens to diffused, sourceless, luminous fog-light; sharp shadows gone.
-DIEGETIC AUDIO: full summer city (cars, chatter, fountain, birds); her loafers on dry pavement (sharp clicks); then sounds muffling as fog enters; a foghorn-distant hush.
-MASTER TRACK: a constant cool bass-line + snare (her pace, never changes); the TEXTURE on top shifts from clean dry sunshine-synths toward muffled, reverbed, filtered fog-textures.
+★ FRAME AUDIO — CLIP 1 (inside-prompt diegetic sound baked into this VEO clip; plays WITH the Outside Master Audio as one unified soundtrack):
+- DIEGETIC / SCENE SOUND: full summer city (cars, chatter, fountain, birds), her loafers on dry pavement (sharp clicks); then sounds muffling as fog enters; a foghorn-distant hush.
+- SYNCHRONIZED IMPACT: at ~5.0s (she crosses the corner and sunshine turns to fog) a medium weather-shift swell re-skins the texture — the bright plucked guitar/marimba blur into a low-pass-filtered muffled pad and a lone reverbed Rhodes — fused with the Master Audio while the constant sub-bass, snare and her footsteps punch through unchanged; atmospheric and medium-energy, never pounding (matches the awe-transformation).
+- MIX: the bright city muffling and closing in; the footstep-resonance bone-dry and constant straight through.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 2's START IMAGE must reproduce 100%, new angle only): at clip end the boulevard is in THICK FOG — streetlamp halos, ghost-shape buildings, muffled and soft, she the sharpest thing; white blazer, gold-threaded ponytail, sunglasses still on. CLIP 2 must open in this EXACT fog-world (same thick fog, same halos, same wardrobe) — only the camera angle changes.
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 2 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: the white linen blazer and black outfit in profile — identical state (unchanged, still no weather-adaptation).
@@ -9271,8 +9541,10 @@ FABRIC/HAIR/PROP PHYSICS: fog has correct density-gradient (thicker near the gro
 FOOTWORK & BODY FLOW: a steady confident walk, loafers on dampening pavement.
 MID-CLIP TRANSFORMATION (timed — heavy detail): ★ WEATHER-CHANGE FOG→RAIN at 3.2–7.2s, triggered by the corner. The fog darkens with clouds, then opens into a full downpour — sheets of rain, the boulevard turning to rivers, pedestrians running for cover in the background (she's the only one still walking), umbrellas opening around her.
 LIGHTING-IN-MOTION: flat fog-light darkening to storm-light with occasional lightning-flash backlighting the rain.
-DIEGETIC AUDIO: muffled fog cross-fading into the first raindrops, then a heavy downpour; others shouting and running; puddle-splashes; her steady unchanged loafer-steps.
-MASTER TRACK: the constant bass-and-snare unchanged; the texture shifts from muffled fog to distorted, compressed, heavy rain-textures.
+★ FRAME AUDIO — CLIP 2 (inside-prompt diegetic sound baked into this VEO clip; plays WITH the Outside Master Audio as one unified soundtrack):
+- DIEGETIC / SCENE SOUND: muffled fog cross-fading into the first raindrops, then a heavy downpour; others shouting and running; puddle-splashes; her steady unchanged loafer-steps.
+- SYNCHRONIZED IMPACT: at ~5.0s (she crosses the corner and fog turns to pouring rain) a medium weather-shift swell re-skins the texture — the muffled fog hardens into a distorted, compressed, gritty rain-layer with rain-like hi-hat patters — fused with the Master Audio while the constant bass, snare and her footsteps punch through unchanged; grittier and medium-energy, never pounding.
+- MIX: the fog hardening into sheets of rain and gutter-splashes; the footstep-cadence utterly steady through it.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 3's START IMAGE must reproduce 100%, new angle only): at clip end the boulevard is in FULL DOWNPOUR — sheets of rain, rivers underfoot, others fleeing, she still walking; white blazer wet-translucent (still modest), gold-threaded ponytail wet, sunglasses streaming. CLIP 3 must open in this EXACT rain-world (same downpour, same fleeing others, same wet wardrobe) — only the angle changes.
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 3 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: the white blazer collar now soaked, slightly translucent-wet (still modest), the black crop beneath — identical state.
@@ -9333,8 +9605,10 @@ FABRIC/HAIR/PROP PHYSICS: rain has correct heavy-downpour density; rivulets foll
 FOOTWORK & BODY FLOW: a steady walk through the water then the snow.
 MID-CLIP TRANSFORMATION (timed — heavy detail): ★ WEATHER-CHANGE RAIN→SNOW at 3.2–7.2s, triggered by the corner. The pouring rain thickens and freezes into thick falling snow; the boulevard whitens, drifts forming, trees heavy with snow, the other people gone (they've fled); lamp-posts crowned with snow. A winter wonderland.
 LIGHTING-IN-MOTION: dark storm-light brightening to flat luminous snow-light (the snow reflecting everything).
-DIEGETIC AUDIO: heavy rain cross-fading into snow-silence (the most beautiful absence of sound); the soft whisper of falling flakes; her muffled footsteps in snow; a distant plow.
-MASTER TRACK: the constant bass-and-snare unchanged; the texture shifts from heavy distorted rain to stripped, quiet, spacious snow-textures.
+★ FRAME AUDIO — CLIP 3 (inside-prompt diegetic sound baked into this VEO clip; plays WITH the Outside Master Audio as one unified soundtrack):
+- DIEGETIC / SCENE SOUND: heavy rain cross-fading into snow-silence (the most beautiful absence of sound), the soft whisper of falling flakes, her muffled footsteps in snow, a distant plow.
+- SYNCHRONIZED IMPACT: at ~5.0s (she crosses the corner and rain turns to snow) a medium weather-shift swell re-skins the texture — the distorted rain strips away to a single clean glockenspiel/music-box melody with long reverb tails and lots of air — fused with the Master Audio while the constant bass, snare and her footsteps stay quietly steady; spacious and hushed, never pounding.
+- MIX: the downpour dropping to the beautiful near-silence of snowfall; the footstep-crunch the same cadence, the anchor.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 4's START IMAGE must reproduce 100%, new angle only): at clip end the boulevard is in FULL SNOW — thick falling snow, white drifts, snow-laden trees, no other people, lamp-posts snow-crowned; her white blazer snow-dusted (and the rain mysteriously gone/dry), sunglasses snow-edged. CLIP 4 must open in this EXACT snow-world (same blizzard, same drifts, same wardrobe) — only the angle changes.
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 4 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: the white blazer now snow-dusted on the shoulders, the black crop beneath; the white reads crisp against the white snow by its tailoring and the black crop — identical garment state.
@@ -9394,8 +9668,10 @@ FABRIC/HAIR/PROP PHYSICS: snow falls with light flutter-drift physics; the ponyt
 FOOTWORK & BODY FLOW: a steady confident walk-away, hips and ponytail in rhythm, loafers crunching snow then tapping dry pavement.
 MID-CLIP TRANSFORMATION (timed — heavy detail): ★ WEATHER-CHANGE SNOW→SUNSHINE at 3.2–7.2s, triggered by the corner. The blizzard thins; the clouds tear open into blue sky; sun-shafts pour down; the snow melts off the trees, drifts shrinking, the boulevard going from white to warm-gold wet-then-dry; café tables and people reappear; the world returns to the bright sunshine of CLIP 1.
 LIGHTING-IN-MOTION: flat white snow-light warming into golden directional sun, long warm shadows returning.
-DIEGETIC AUDIO: snow-silence cross-fading into dripping melt, then birdsong, café chatter, traffic — the bright living city returning; her unchanged loafer-steps.
-MASTER TRACK: the constant bass-and-snare unchanged; the texture blooms from quiet spacious snow back into the bright full sunshine-mix (closing the loop).
+★ FRAME AUDIO — CLIP 4 (inside-prompt diegetic sound baked into this VEO clip; plays WITH the Outside Master Audio as one unified soundtrack):
+- DIEGETIC / SCENE SOUND: snow-silence cross-fading into dripping melt, then birdsong, café chatter, traffic — the bright living city returning; her unchanged loafer-steps.
+- SYNCHRONIZED IMPACT: at ~5.0s (she crosses the corner and snow blooms back to sunshine) a medium weather-shift swell re-skins the texture — the spacious snow blooms back into the bright plucked guitar/marimba, warm chord-stabs and the airy whistle hook — fused with the Master Audio closing the loop while the constant bass, snare and her footsteps carry through unchanged; warm and medium-energy, never pounding.
+- MIX: the snow-hush warming into dripping melt and the living boulevard; the footstep-cadence constant straight through.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 5's START IMAGE must reproduce 100%, new angle only): at clip end the boulevard is in FULL SUNSHINE — blue sky, golden light, dry warm pavement, café tables and people back, trees green — IDENTICAL to CLIP 1's sunshine world; her white blazer dry and crisp, ponytail dry, sunglasses on (now sensible). CLIP 5 must open in this EXACT sunshine-world — only the angle changes (and it equals CLIP 1, closing the loop).
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 5 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: the white blazer crisp and dry, the black crop beneath — identical to CLIP 1.
@@ -9454,8 +9730,10 @@ FABRIC/HAIR/PROP PHYSICS: ponytail swings with secondary-motion; the blazer lift
 FOOTWORK & BODY FLOW: a steady confident approach, hips and ponytail in rhythm, loafers tapping dry pavement.
 MID-CLIP TRANSFORMATION (timed): none — this is the resolved sunshine state; the only "change" is the camera settling into CLIP 1's opening framing to close the loop.
 LIGHTING-IN-MOTION: steady warm golden sun, sun-flare flickering as she walks through shafts.
-DIEGETIC AUDIO: the full bright living boulevard — birdsong, café chatter, traffic, her steady loafer-steps.
-MASTER TRACK: the constant bass-and-snare in its full bright sunshine-mix — landing exactly where CLIP 1 began.
+★ FRAME AUDIO — CLIP 5 (inside-prompt diegetic sound baked into this VEO clip; plays WITH the Outside Master Audio as one unified soundtrack):
+- DIEGETIC / SCENE SOUND: the full bright living boulevard — birdsong, café chatter, traffic, her steady loafer-steps.
+- SYNCHRONIZED IMPACT: none — the loop close; no weather-change here, so the constant bass-and-snare in its full bright sunshine-mix simply lands exactly where CLIP 1 began.
+- MIX: the full sunshine bed at the CLIP-1 level, the footstep-resonance just above the snare, matched so the loop is invisible.
 END STATE / STATE-MATCH LOCK (heavy detail — loops to CLIP 1): the final frame equals CLIP 1's opening frame — same sunshine boulevard, same framing, same wardrobe, same smile. CLIP 1 reopens from here seamlessly.
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 1 (LOOP back to opening) — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: the crisp white oversized linen blazer over a fitted black crop-top, high-waist black wide-leg trousers, a thin black belt with a gold buckle; sharp.
@@ -9478,26 +9756,25 @@ CUT LOGIC: seamless ANGLE-CUT / loop back to CLIP 1. WORLD STATE matches 100%. T
 
 ---
 
-☆ EXTERNAL AUDIO — BLOCK 1: BACKGROUND SOUND DESIGN / AMBIENCE BED
-(Use as the diegetic world-bed under the reel — one continuous evolving weather-loop. Footstep-resonance is the through-line that never changes.)
-- THROUGH-LINE (constant, never changes): Aira's steady black-loafer footsteps — same pace, same confident heel-toe resonance — audible in EVERY weather as the anchor the ear locks onto. ~Walking cadence ≈ 100 steps/min, matched to the music BPM.
-- SUNSHINE BED (Clip 1 / Clip 5): bright living boulevard — layered birdsong, distant café chatter and clinking cups, light traffic hum, a passing bicycle bell, warm air-tone; her loafers tapping dry pavement crisply.
-- FOG BED (Clip 2): everything muffled and close — low-pass-filtered city, a distant foghorn-like drone, dripping condensation, the hush of reduced sound; her loafers slightly damp-padded but same cadence.
-- RAIN BED (Clip 3): full heavy downpour — sheets of rain on pavement and rooftops, gurgling gutters, puddle-splashes, distant thunder rolls, other people shouting and running (panicked, receding); her loafers splashing in the SAME cadence, utterly steady.
-- SNOW BED (Clip 4): the beautiful near-silence of snowfall — a high airy hush, the faint crystalline whisper of falling flakes, one distant snow-plow, total absence of other voices; her loafers crunching fresh snow in the SAME cadence.
-- TRANSITIONS: cross-fade each weather over ~2.5s at the corner-crossings (sunshine↔fog↔rain↔snow↔sunshine), but KEEP the footstep-resonance bone-dry and constant straight through every cross-fade — the joke in sound: the world changes, her walk does not.
-- LOOP: sunshine bed at the end seamlessly equals the sunshine bed at the start.
-
-☆ EXTERNAL AUDIO — BLOCK 2: BACKGROUND MUSIC / SCORE TRACK
-(A cool, constant groove whose BASS and SNARE never change while the TEXTURE around them re-skins per weather — "she stays the same, the weather changes." Drop in as the music bed under Block 1.)
-- KEY / TEMPO / FEEL: C# minor, ~100 BPM, confident mid-tempo strut — unbothered, effortlessly cool, slightly playful.
-- THE CONSTANT (never changes across all 5 clips): a deep round sub-bass line + a tight dry snare/clap on the backbeat, locked at 100 BPM in sync with her footsteps. This is "her" — it carries unchanged through every weather as the spine of the track.
-- SUNSHINE TEXTURE (Clip 1 / Clip 5): bright plucked guitar/marimba, warm major-leaning chord stabs, hand-claps, an airy whistle hook — full, sunny, alive.
-- FOG TEXTURE (Clip 2): the brights drop away; a low-pass-filtered muffled pad, a lone reverbed Rhodes chord, everything blurred and close — bass and snare unchanged underneath.
-- RAIN TEXTURE (Clip 3): distorted, compressed, heavier — a gritty synth layer, rain-like hi-hat patters, a darker chord — bass and snare punch through unchanged.
-- SNOW TEXTURE (Clip 4): stripped and spacious — a single clean glockenspiel/music-box melody, long reverb tails, lots of air — bass and snare quietly steady underneath.
-- RESOLVE (end of Clip 5): the full sunshine texture blooms back in over the unchanged bass/snare, landing exactly where the track began — seamless loop.
-- MIX NOTE: keep the footstep-resonance from Block 1 sitting just above the snare so the ear hears WALK + BEAT as one locked pulse through every weather change.
+### ★ OUTSIDE MASTER AUDIO — E-4 (the single composed MUSIC track — generate in your music tool; lays under all 5 clips as one unified soundtrack with the Frame Audio)
+RUNTIME: exactly 40.000s = 5 clips × 8.000s · KEY: C# minor · TEMPO: 100 BPM · composed for this EXACT length — never looped, stretched, cut, or faded out.
+EMOTIONAL TARGET: confident, effortlessly-cool awe — "she stays the same, the weather changes"; an unbothered mid-tempo strut whose bass and snare never move while the world re-skins around her from sunshine to fog to rain to snow and back.
+NO FADE-IN — OPENS AT FULL PRESENCE: at 0:00.000 the constant deep sub-bass + tight dry backbeat snare (locked at 100 BPM to her footsteps) and the bright sunshine texture are already at full presence; the cool strut lands within the first second, no swell-from-silence.
+INSTRUMENT PALETTE (emotion-matched — Power / Beauty): THE CONSTANT — a deep round sub-bass + tight dry snare/clap on the backbeat (this is "her", never changing); the texture re-skins per weather — sunshine bright plucked guitar/marimba + claps + whistle hook; fog muffled filtered pad + lone Rhodes; rain gritty distorted synth + rain-like hats; snow clean glockenspiel/music-box + long reverb.
+VOCALS: none required (an optional airy whistle hook in the sunshine texture is the closest to a vocal — wordless, playful).
+ARRANGEMENT (timed to picture):
+- 0:00–0:08 (C1): the constant bass/snare under the bright sunshine texture; it re-skins to muffled fog at the corner at ~0:05.
+- 0:08–0:16 (C2): the fog texture hardens into a gritty distorted rain-skin — bass/snare unchanged.
+- 0:16–0:24 (C3): the rain strips to a spacious clean glockenspiel snow-skin — bass/snare quietly steady.
+- 0:24–0:32 (C4): the snow blooms back into the full bright sunshine texture — bass/snare unchanged.
+- 0:32–0:40 (C5): the full sunshine mix lands exactly where the track began ; final chord lands at 0:39.8 on the exact 0:00 voicing.
+★ SYNCHRONIZED IMPACTS (musically integrated — the MUSIC's TEXTURE itself re-skins at these exact frames over an unchanging bass/snare; never a separate inserted SFX; tuned to the track's key, tone and energy):
+- ~0:05 (C1 sunshine→fog): a medium weather-shift swell re-skinning bright textures into muffled fog — atmospheric, character-matched.
+- ~0:13 (C2 fog→rain): a medium weather-shift swell re-skinning fog into gritty distorted rain — grittier, character-matched.
+- ~0:21 (C3 rain→snow): a medium weather-shift swell stripping rain into spacious glockenspiel snow — hushed, character-matched.
+- ~0:29 (C4 snow→sunshine): a medium weather-shift swell blooming snow back into bright sunshine — warm, character-matched. No booms — the textures re-skin at medium energy while the bass, snare and her footsteps never change.
+LOOP LOCK: the phrase resolves at 40.000s onto the 0:00 downbeat — seamless. FEEL: cool, unbothered, ever-re-skinning.
+(NOTE: this single Outside block replaces the old two-block system; all diegetic/ambience now lives in the per-clip ★ FRAME AUDIO above.)
 
 ═══════════════════════════════════════════════════════════════════════════════
 
@@ -9569,8 +9846,10 @@ FABRIC/HAIR/PROP PHYSICS: silk dress flows with soft cloth-physics; woven flower
 FOOTWORK & BODY FLOW: a single slow grounded step, weight settling, the body rising tall to watch the growth.
 MID-CLIP TRANSFORMATION (timed — heavy detail): ★ TIME-LEAP BARE-EARTH→SAPLING at 3.2–7.2s, triggered by the footfall. The seed splits; a sprout spears up and unfurls; the surrounding bare beds flush with the first tiny grasses and weeds; the mist burns off slightly as the light warms; the empty clearing takes its first green.
 LIGHTING-IN-MOTION: cool dawn warming a notch as the sprout rises — the light growing with the life.
-DIEGETIC AUDIO: a soft footfall on soil, then the faint organic crackle of the seed and the tiny creak of growing stem, a first birdsong, breeze through new grass.
-MASTER TRACK: a single low cello-drone and a soft heartbeat-pulse establishing — the seed of the score.
+★ FRAME AUDIO — CLIP 1 (inside-prompt diegetic sound baked into this VEO clip; plays WITH the Outside Master Audio as one unified soundtrack):
+- DIEGETIC / SCENE SOUND: a soft footfall on soil, then the faint organic crackle of the seed and the tiny creak of growing stem, a first birdsong, breeze through new grass.
+- SYNCHRONIZED IMPACT: at ~4s (her footfall leaps the seed into a sapling) a soft growth-swell rises as warm strings and a light plucked motif sprout from the lone cello-drone — fused with the Master Audio on the same frame, so the music itself grows the stem; tender and hopeful, never a boom (matches the reverent awe).
+- MIX: intimate and hushed; the footfall low and weighty, the seed-crack tiny, the first birdsong delicate.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 2's START IMAGE must reproduce 100%, new angle only): at clip end a knee-high SAPLING stands at the centre with first delicate leaves; the beds carry a first thin green; light warmed a notch; Aira standing tall beside it, watching, smiling. CLIP 2 must open in this EXACT sapling-world (same sapling, same first-green beds, same light) — only the angle changes.
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 2 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: the sage-and-moss silk slip dress, the earth-toned wrap off one shoulder, braided waist cord — identical state.
@@ -9630,8 +9909,10 @@ FABRIC/HAIR/PROP PHYSICS: silk flows; woven flowers and waves move with secondar
 FOOTWORK & BODY FLOW: one slow grounded step, the body rising and turning upward to follow the climbing canopy.
 MID-CLIP TRANSFORMATION (timed — heavy detail): ★ TIME-LEAP SAPLING→FLOWERING-TREE at 2.9–7.3s, triggered by the footfall. The sapling thickens into a young trunk; branches shoot and fork; thousands of buds swell and burst into pink-and-white blossom; the beds around fill with spring wildflowers and tall grass; bees and butterflies arrive; the light warms to full bright spring.
 LIGHTING-IN-MOTION: soft morning warming to bright spring sun dappling through the new canopy, blossom-shadows freckling the ground.
-DIEGETIC AUDIO: a footfall on soil, the woody creak and rush of fast growth, a swelling burst of birdsong and bees, breeze through blossom, the first petals ticking down.
-MASTER TRACK: the cello-drone joined by warm rising strings and a light plucked motif — the score blooming with the tree.
+★ FRAME AUDIO — CLIP 2 (inside-prompt diegetic sound baked into this VEO clip; plays WITH the Outside Master Audio as one unified soundtrack):
+- DIEGETIC / SCENE SOUND: a footfall on soil, the woody creak and rush of fast growth, a swelling burst of birdsong and bees, breeze through blossom, the first petals ticking down.
+- SYNCHRONIZED IMPACT: at ~4s (her footfall blooms the sapling into a flowering tree) a fuller growth-swell crests as the strings open into a warm theme with woodwinds and a glockenspiel shimmer — fused with the Master Audio, so the music itself bursts the blossom; warm and blooming, never a boom.
+- MIX: the birdsong and bees swelling wide; the petals ticking delicate; the footfall the low anchor.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 3's START IMAGE must reproduce 100%, new angle only): at clip end a full FLOWERING TREE stands in pink-and-white blossom, beds full of spring wildflowers, bees and butterflies, bright spring light, petals drifting; Aira beside it gazing up, smiling, petals in her hair. CLIP 3 must open in this EXACT flowering-spring world (same blossom tree, same wildflowers, same petal-fall, same light) — only the angle changes.
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 3 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: the sage-and-moss silk slip dress, earth-toned wrap off one shoulder, braided cord — identical state, a few petals caught on the fabric.
@@ -9691,8 +9972,10 @@ FABRIC/HAIR/PROP PHYSICS: silk flows; petals fall en masse with realistic air-dr
 FOOTWORK & BODY FLOW: one slow grounded step, the body settling and lowering its gaze as the canopy soars beyond frame.
 MID-CLIP TRANSFORMATION (timed — heavy detail): ★ TIME-LEAP FLOWERING-TREE→ANCIENT-OAK at 2.9–7.3s, triggered by the footfall. All blossom drops; the canopy leafs out deep emerald; the trunk swells from slender to massive and gnarled, bark deeply furrowing; roots heave and grip the earth; the surrounding beds mature into a lush high-summer garden; the light deepens to rich full-summer gold-green.
 LIGHTING-IN-MOTION: bright dappled spring deepening into rich shaded high-summer light, heavy warm shafts through the dense canopy.
-DIEGETIC AUDIO: a footfall, the great groaning creak of a tree swelling centuries, a rush of leaves, deep summer cicada-drone and birdsong, wind in a heavy canopy.
-MASTER TRACK: the strings swell to a full warm orchestral high, a deep resonant low end entering — the score at the height of life, lush and grand.
+★ FRAME AUDIO — CLIP 3 (inside-prompt diegetic sound baked into this VEO clip; plays WITH the Outside Master Audio as one unified soundtrack):
+- DIEGETIC / SCENE SOUND: a footfall, the great groaning creak of a tree swelling centuries, a rush of leaves, deep summer cicada-drone and birdsong, wind in a heavy canopy.
+- SYNCHRONIZED IMPACT: at ~4s (her footfall swells the tree into the ancient oak) the fullest growth-swell crests as the strings reach a grand warm orchestral high with a deep resonant low end entering — fused with the Master Audio's height-of-life peak on the same frame, so the music itself ages the tree centuries; vast and majestic, a reverent swell, never a hard boom.
+- MIX: the great trunk-creak deep and groaning; the canopy-wind roaring softly; the cicada-drone wide; the footfall steady beneath.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 4's START IMAGE must reproduce 100%, new angle only): at clip end a vast ANCIENT OAK stands — gigantic gnarled furrowed trunk, immense deep-emerald summer canopy, heaved roots, a lush mature summer garden around it, rich gold-green light; Aira small beneath it, gaze lowered, serene. CLIP 4 must open in this EXACT ancient-summer world (same giant oak, same canopy, same mature garden, same light) — only the angle changes.
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 4 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: the sage-and-moss silk slip dress and earth-toned wrap seen from behind, off one shoulder, braided cord at the waist — identical state.
@@ -9752,8 +10035,10 @@ FABRIC/HAIR/PROP PHYSICS: silk flows; waves lift and settle; autumn leaves detac
 FOOTWORK & BODY FLOW: one slow grounded step, the lifted hand lowering gently as the giant falls — calm acceptance.
 MID-CLIP TRANSFORMATION (timed — heavy detail): ★ TIME-LEAP ANCIENT-OAK→DECAY at 2.7–7.3s, triggered by the footfall. The emerald canopy flares to blazing amber-crimson autumn; leaves pour off in waves; the garden browns and frosts to bare winter; the great trunk greys, hollows, cracks, leans and falls into a moss-and-fungi-covered decaying log; the surrounding beds die back to bare earth; and one fresh dark SEED drops from the rot onto the bare ground — the exact seed and bare earth of CLIP 1.
 LIGHTING-IN-MOTION: rich summer gold cooling through fiery autumn light into a hushed silver-cold winter, the warmth draining as the tree dies.
-DIEGETIC AUDIO: a footfall, the dry rush and rattle of falling autumn leaves, a long creaking groan and earth-shaking crash as the trunk falls, then winter wind and a deep settling silence, a single soft seed-drop.
-MASTER TRACK: the grand strings unravel to a lone mournful cello and the soft heartbeat-pulse returning — the score decaying back toward its single opening note.
+★ FRAME AUDIO — CLIP 4 (inside-prompt diegetic sound baked into this VEO clip; plays WITH the Outside Master Audio as one unified soundtrack):
+- DIEGETIC / SCENE SOUND: a footfall, the dry rush and rattle of falling autumn leaves, a long creaking groan and earth-shaking crash as the trunk falls, then winter wind and a deep settling silence, a single soft seed-drop.
+- SYNCHRONIZED IMPACT: at ~4s (her footfall turns the oak to decay and the trunk falls) a deep resonant low-end fall settles as the grand orchestra unravels to a lone mournful cello — fused with the Master Audio on the same frame, so the music itself fells the tree and decays back toward the opening note; weighty and reverent, a felt low swell that decays, never a gratuitous boom.
+- MIX: the leaf-rattle dry and pouring; the trunk-crash deep and resonant then settling to winter silence; the seed-drop tiny, seeding the loop.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 5's START IMAGE must reproduce 100%, new angle only): at clip end the plot is BARE EARTH again — the fallen tree decayed away/reclaimed, beds bare and misty, hushed cold light lifting toward dawn, and a single dark SEED resting in fresh soil — IDENTICAL to CLIP 1's opening world; Aira standing serene beside it. CLIP 5 must open in this EXACT bare-earth-and-seed world — only the angle changes (and it equals CLIP 1, closing the loop).
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 5 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: the flowing sage-and-moss silk slip dress, earth-toned wrap off one shoulder, braided waist cord — identical to CLIP 1.
@@ -9812,8 +10097,10 @@ FABRIC/HAIR/PROP PHYSICS: silk flows with soft cloth-physics; woven flowers and 
 FOOTWORK & BODY FLOW: weight centring then the foot lifting to begin the next step — exactly CLIP 1's opening motion.
 MID-CLIP TRANSFORMATION (timed): none — this is the resolved bare-earth state; the only "change" is the camera settling into CLIP 1's opening framing to close the loop, her raised foot about to land and begin the cycle again.
 LIGHTING-IN-MOTION: steady soft golden dawn, mist drifting low.
-DIEGETIC AUDIO: the hushed dawn clearing — a first faint birdsong, breeze over bare soil, the quiet anticipatory stillness; her soft settling breath.
-MASTER TRACK: the lone low cello-drone and soft heartbeat-pulse — landing exactly where CLIP 1 began.
+★ FRAME AUDIO — CLIP 5 (inside-prompt diegetic sound baked into this VEO clip; plays WITH the Outside Master Audio as one unified soundtrack):
+- DIEGETIC / SCENE SOUND: the hushed dawn clearing — a first faint birdsong, breeze over bare soil, the quiet anticipatory stillness; her soft settling breath.
+- SYNCHRONIZED IMPACT: none — the loop close; no leap here, so the lone low cello-drone and soft heartbeat-pulse simply land exactly where CLIP 1 began.
+- MIX: hushed and full of potential, matched to CLIP 1 so the loop is invisible.
 END STATE / STATE-MATCH LOCK (heavy detail — loops to CLIP 1): the final frame equals CLIP 1's opening frame — same bare misty clearing, same single seed, same framing, same wardrobe, same poised step. CLIP 1 reopens from here seamlessly — and her foot will land, and a whole life will begin again.
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 1 (LOOP back to opening) — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: the flowing floor-length sage-and-moss silk slip dress with the embroidered climbing-vine motif, the earth-toned knit wrap loose off one shoulder, gathered with the braided-leather waist cord.
@@ -9836,28 +10123,25 @@ CUT LOGIC: seamless ANGLE-CUT / loop back to CLIP 1. WORLD STATE matches 100%. T
 
 ---
 
-☆ EXTERNAL AUDIO — BLOCK 1: BACKGROUND SOUND DESIGN / AMBIENCE BED
-(Use as the diegetic world-bed under the reel — one continuous organic cycle of a garden living a whole life. The soft FOOTFALL is the trigger-sound that drives each leap.)
-- THROUGH-LINE (the trigger): Aira's slow soft bare-foot footfalls on damp soil — one deliberate footfall per clip — each landing kicking off the time-leap. Low, intimate, weighty, the heartbeat of the piece.
-- BARE EARTH BED (Clip 1 / Clip 5): hushed dawn potential — faint distant birdsong, a low breeze over bare soil, dripping dew, a vast quiet stillness; the soft seed-crack as it sprouts.
-- SAPLING / SPRING BED (Clip 2): waking growth — a swelling burst of layered birdsong, buzzing bees arriving, breeze through fresh grass, the tiny woody creaks of fast growth, the soft tick of the first falling petals.
-- FLOWERING / PEAK-SPRING BED (Clip 3): full rapture — dense birdsong and a chorus of bees, a soft constant rain of petals ticking down, warm breeze swelling the blossom canopy, the woody groan of the swelling trunk.
-- ANCIENT-OAK / SUMMER BED (Clip 4 open): deep high-summer — a thick cicada-drone, wind roaring softly in a heavy canopy, distant birds, the great groaning creak of the giant trunk.
-- DECAY / AUTUMN-WINTER BED (Clip 4 close): the turn — the dry rush and rattle of leaves pouring off, a long creak and an earth-shaking CRASH as the trunk falls, then cold winter wind and a deep settling silence, ending on a single soft seed-drop (which becomes Clip 1's bed).
-- TRANSITIONS: each FOOTFALL is the cut-point; cross-fade the seasonal beds over ~2.5s around each footfall (bare→spring→peak-spring→summer→decay→bare), so the world's sound ages while her slow breath and footfall stay constant and intimate.
-- LOOP: the bare-earth dawn bed at the end seamlessly equals the bare-earth dawn bed at the start.
-
-☆ EXTERNAL AUDIO — BLOCK 2: BACKGROUND MUSIC / SCORE TRACK
-(An organic, cyclical orchestral score that GROWS and DECAYS exactly with the tree — beginning and ending on one lone note, blooming to a full orchestra at peak life. Drop in under Block 1.)
-- KEY / TEMPO / FEEL: D major (warm, reverent), rubato-to-~70 BPM, cinematic and tender — the feeling of awe and the passage of time.
-- THE SPINE (constant heartbeat): a soft low pulse — a felt-piano or muted heartbeat-thud — present from the first note to the last, the "her" of the track that time orbits.
-- SEED / BARE EARTH (Clip 1 / Clip 5): a single lone sustained cello-drone + the soft heartbeat-pulse — minimal, hushed, full of potential. The track begins and ENDS here (seamless loop).
-- SAPLING / SPRING (Clip 2): warm rising strings and a light plucked harp/celeste motif join the cello — the melody sprouting, hopeful and tender.
-- FLOWERING / PEAK-SPRING (Clip 3): the strings open into a warm full theme, woodwinds and a glockenspiel shimmer added, a gentle swell — the music in full bloom.
-- ANCIENT-OAK / SUMMER (Clip 4 open): the score reaches its grand orchestral PEAK — full warm strings, brass-pad underneath, a deep resonant low end — vast, majestic, the height of life.
-- DECAY / AUTUMN-WINTER (Clip 4 close): the orchestra unravels — instruments drop away one by one, a lone mournful solo cello carries a descending line, reverb tails lengthen, until only the cello-drone and heartbeat-pulse remain — decaying precisely back to the opening note.
-- RESOLVE / LOOP (end of Clip 5): the track lands on the exact lone cello-drone + heartbeat it opened with — seamless infinite loop, mirroring the seed.
-- MIX NOTE: keep the heartbeat-pulse and the diegetic FOOTFALL from Block 1 locked together so each footfall feels like the pulse that drives time forward — life beating once per century.
+### ★ OUTSIDE MASTER AUDIO — E-5 (the single composed MUSIC track — generate in your music tool; lays under all 5 clips as one unified soundtrack with the Frame Audio)
+RUNTIME: exactly 40.000s = 5 clips × 8.000s · KEY: D major · TEMPO: rubato resolving to ~70 BPM · composed for this EXACT length — never looped, stretched, cut, or faded out.
+EMOTIONAL TARGET: reverent awe at the passage of time — an organic cyclical score that grows and decays exactly with the tree, beginning and ending on one lone note, blooming to a full orchestra at the height of life.
+NO FADE-IN — OPENS AT FULL PRESENCE: at 0:00.000 a single lone sustained cello-drone + a soft heartbeat-pulse is already at full presence; the hushed potential lands within the first second, no swell-from-silence.
+INSTRUMENT PALETTE (emotion-matched — Beauty / Dream): a soft low heartbeat-pulse as the constant spine ("her"), a lone sustained cello-drone as the hero seed, growing into warm strings + plucked harp/celeste, then woodwinds + glockenspiel, then a grand full-orchestra peak with brass-pad and deep low end, then unravelling to a lone mournful cello.
+VOCALS: none required (an optional wordless reverent "ah" pad only if it adds awe at the ancient-oak peak).
+ARRANGEMENT (timed to picture):
+- 0:00–0:08 (C1): the lone cello-drone + heartbeat; warm strings and a plucked motif sprout at the footfall ~0:04 (the sapling).
+- 0:08–0:16 (C2): the strings open into a warm theme with woodwinds and glockenspiel shimmer — the flowering bloom.
+- 0:16–0:24 (C3): the score reaches its grand warm orchestral PEAK with a deep resonant low end — the ancient oak, the height of life.
+- 0:24–0:32 (C4): the orchestra unravels instrument by instrument to a lone mournful cello as the trunk falls and decays back toward the opening note.
+- 0:32–0:40 (C5): the lone cello-drone + heartbeat land on the exact opening voicing ; final chord lands at 0:39.8 on the exact 0:00 voicing, mirroring the seed.
+★ SYNCHRONIZED IMPACTS (musically integrated — the MUSIC itself grows/decays at these exact frames; never a separate inserted SFX; tuned to the track's key, tone and energy):
+- ~0:04 (C1 seed→sapling): a soft growth-swell as strings and a plucked motif sprout — tender, never a boom.
+- ~0:12 (C2 sapling→flowering tree): a fuller growth-swell as the theme opens with woodwinds and glockenspiel — warm bloom.
+- ~0:20 (C3 flowering→ancient oak): the fullest growth-swell to the grand orchestral peak with deep low end — vast and reverent, the height of life.
+- ~0:28 (C4 ancient oak→decay): a deep resonant low-end fall as the trunk falls and the orchestra unravels to a lone cello — weighty but reverent, a felt swell that decays, never a gratuitous boom.
+LOOP LOCK: the phrase resolves at 40.000s onto the 0:00 downbeat — seamless. FEEL: reverent, awe-struck, ever-cycling.
+(NOTE: this single Outside block replaces the old two-block system; all diegetic/ambience now lives in the per-clip ★ FRAME AUDIO above.)
 
 ═══════════════════════════════════════════════════════════════════════════════
 
