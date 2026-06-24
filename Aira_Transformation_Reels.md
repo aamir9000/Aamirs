@@ -225,9 +225,30 @@ MASTER TRACK: the ambient pad draws back to one piano note landing exactly where
 CUT LOGIC: seamless ANGLE-CUT / LOOP back to CLIP 1 — the droplet falls and the whole transformation begins again, forever.
 
 ☆ EXTERNAL AUDIO — BLOCK 1: BACKGROUND SOUND DESIGN / AMBIENCE BED
-A near-silent dark stone chamber as the constant. THROUGH-LINE: one crystalline water-drop with a long reverb tail — the trigger sound — recurring at the loop point. Layers: the soft ring of a single ripple; a delicate rising liquid-shimmer as she liquefies (CLIP 1 end); a deep watery body-hum with gentle internal sloshing and feathered drips while she is the water-figure (CLIP 2); the suck-and-gather of water re-solidifying then a soft settling splash resolving to the single drop (CLIP 3). Cross-fade beat to beat; the still-water hush at the end equals the hush at the start.
+RUNTIME: exactly 24.000s = 3 clips × 8.000s · 48 kHz / 24-bit stereo · CLIP MAP — CLIP 1 = 0:00.000–0:08.000 · CLIP 2 = 0:08.000–0:16.000 · CLIP 3 = 0:16.000–0:24.000 · seamless loop (tail at 24.000s crossfades into head at 0:00).
+DESIGN INTENT: a hyper-detailed water-world that makes the morph feel physical — every droplet, ripple and body of water is its own placed sound, mixed wide and deep so it elevates, never wallpapers.
+STEMS (layered): (S1) sub-room tone — a pressureless chamber air with a slow 0.1 Hz swell. (S2) the hero water-drop. (S3) ripple/wave body. (S4) liquid-shimmer transform layer. (S5) reverb-throw — a 3.2 s plate on every transient for cathedral scale.
+TIMED EVENTS:
+- 0:00.000 — chamber air opens; a single hero DROPLET swells in pitch and DETACHES at 0:02.6 (synced to the visual fall).
+- 0:02.6–0:03.0 — the drop hits water: a crisp clean PLINK + a low sub-thud, then a ring of ripple expanding hard-panned L→R.
+- 0:04.8 — liquefaction onset: a rising granular liquid-shimmer (pitched-up water granules) climbs in level and frequency to 0:08.
+- 0:08.000 — CLIP-2 cut: a deep watery BODY-HUM (filtered 80–200 Hz pad of moving water) blooms; gentle internal sloshing panned in slow circles.
+- 0:11.2 — the water-arm arc: a soft sweep of feathered droplet-spray, delicate and high, arcing across the stereo field.
+- 0:14.4–0:16.0 — the gather/suck: water draws inward, a reversed-cymbal-like inhale of liquid building toward the cut.
+- 0:16.000 — CLIP-3 cut: a soft collapsing SPLASH, then the body-hum drains away in 2.0 s.
+- 0:20.0–0:23.5 — everything settles to mirror-still; ripple decays; the chamber air returns to its opening level.
+- 0:23.5–0:24.000 — a single fresh DROPLET swells again — identical to 0:00 — so the loop is invisible.
+MIX NOTES: keep the hero drop dry and forward (centre, +3 dB); push ambience and reverb wide; high-pass the room at 40 Hz; the only "silence" is intentional space that makes the next drop land harder.
+
 ☆ EXTERNAL AUDIO — BLOCK 2: BACKGROUND MUSIC / SCORE TRACK
-Ambient, weightless, hypnotic. KEY/TEMPO: A minor, ~58 BPM, rubato. THE SPINE (constant): a soft single piano note that "drips" in time with the water-drop, present from first frame to last. BUILD: a slow evolving synth pad enters as she liquefies; a warm string bloom swells to its peak on the CLIP 2 arm-arc (the magical hero beat); the strings draw back as she reforms, decaying to the lone piano note landing exactly where the reel began — a seamless infinite loop. Serene, cinematic, "I could watch this forever."
+RUNTIME: exactly 24.000s, composed to the 3×8s structure · KEY: A minor · TEMPO: 75 BPM (1 bar = 3.200s; 24.000s = exactly 7.5 bars) · seamless loop.
+SPINE (constant, full 24s): a soft felt-piano single note (A) that "drips" on every 2nd beat, doubling the hero water-drop — the heartbeat the whole piece hangs on.
+ARRANGEMENT (timed to picture):
+- 0:00–0:08 (CLIP 1, intro): just the dripping piano + a low sustained cello drone (A); at 0:04.8 a warm pad fades in under the liquefaction, swelling toward the cut.
+- 0:08–0:16 (CLIP 2, the hero bloom): full warm string section enters on the downbeat at 0:08; a glassy celeste counter-melody; the music PEAKS at 0:11.2 exactly on the water-arm arc (string swell + a single upward harp glissando), then begins to recede at 0:14.4.
+- 0:16–0:24 (CLIP 3, resolve): strings decay, instruments drop away one per bar; by 0:20 only the cello drone and the dripping piano remain; the final piano drip lands at 0:23.8 on the exact pitch/velocity that opens 0:00.
+LOOP LOCK: the 24.000s downbeat = the 0:00 downbeat. FEEL: serene, hypnotic, "I could watch this forever."
+
 
 ═══════════════════════════════════════════════════════════════════════════════
 
@@ -423,9 +444,30 @@ MASTER TRACK: the drone and drum draw back to a single haunting cello note landi
 CUT LOGIC: seamless ANGLE-CUT / LOOP back to CLIP 1 — she exhales and ignites again, forever.
 
 ☆ EXTERNAL AUDIO — BLOCK 1: BACKGROUND SOUND DESIGN / AMBIENCE BED
-A pitch-black void with a faint warm room-tone as the constant. THROUGH-LINE: the soft hiss of her slow exhale (the trigger), recurring at the loop. Layers: an ignite-whoosh and building crackle as she catches (CLIP 1 end); a low roaring flame-body with steady crackle and ticking spark-showers while she is the fire-figure (CLIP 2); a collapsing cooling hiss with falling-ember ticks resolving to a single ember-pop and quiet (CLIP 3). Cross-fade beat to beat; the dark quiet at the end equals the quiet at the start.
+RUNTIME: exactly 24.000s = 3 clips × 8.000s · 48 kHz / 24-bit stereo · CLIP MAP — CLIP 1 = 0:00–0:08 · CLIP 2 = 0:08–0:16 · CLIP 3 = 0:16–0:24 · seamless loop.
+DESIGN INTENT: a black-void fire-world that smoulders, roars, then cools — every ember and flame placed in 3D space so the heat feels real and dangerous, never a cheap "fire loop".
+STEMS: (S1) void room-tone — a near-silent low pressure with a faint distant rumble. (S2) ember ticks/pops (sparse, randomized). (S3) the ignite-whoosh. (S4) the flame-body roar. (S5) a sub-layer (40–60 Hz) heartbeat felt in the chest. (S6) 2.5 s dark reverb-throw.
+TIMED EVENTS:
+- 0:00–0:02.9 — void air + lone ember-pops drifting in slow 3D; a felt sub-pulse every 1.7 s.
+- 0:02.9 — TRIGGER: a slow breathy EXHALE (or finger-snap crack) — air rushes inward.
+- 0:04.8 — IGNITE: a low controlled WHOOSH + building crackle, rising in density to the cut.
+- 0:08.000 — CLIP-2 cut: full FLAME-BODY roar blooms wide (filtered low-mid bed), steady crackle, ember-streams hissing upward in stereo.
+- 0:11.2 — the flaming arm-arc: a bright shower of spark-ticks sweeps L→R, a brief flare-up of the roar.
+- 0:14.4–0:16.0 — the flames gutter: the roar compresses and pitches down, embers begin to fall (downward-panned ticks).
+- 0:16.000 — CLIP-3 cut: a soft collapsing HISS as fire cools; falling-ember ticks settle to the floor.
+- 0:20.0–0:23.5 — back to void air; one last ember-pop with a long reverb tail.
+- 0:23.5–0:24.000 — the breathy exhale begins again — identical to 0:02.9's source — priming the loop.
+MIX NOTES: keep the sub-heartbeat constant under everything; roar wide and warm but controlled (no harsh fizz); embers crisp and dry on top; the void silence between pops is the tension.
+
 ☆ EXTERNAL AUDIO — BLOCK 2: BACKGROUND MUSIC / SCORE TRACK
-Dark, powerful, elegant. KEY/TEMPO: D minor, ~70 BPM. THE SPINE (constant): a slow tribal heartbeat-drum and a deep cinematic drone, present throughout. BUILD: a single haunting cello line enters at the exhale; a brass-and-choir swell rises to its peak on the CLIP 2 flaming arm-arc (the hero beat); the swell decays as she reforms, drawing back to the lone cello note and one heartbeat-drum hit landing exactly where the reel began — a seamless infinite loop. Fierce, sacred, controlled.
+RUNTIME: exactly 24.000s · KEY: D minor · TEMPO: 75 BPM (bar = 3.200s; 24.000s = 7.5 bars) · seamless loop.
+SPINE (constant, full 24s): a slow tribal heartbeat-drum (kick on beats 1 & 3) + a deep sustained drone (D) — the pulse of contained power.
+ARRANGEMENT:
+- 0:00–0:08: drone + heartbeat-drum only; a lone haunting solo CELLO line enters at 0:02.9 on the exhale, bowing a slow rising figure to the cut.
+- 0:08–0:16: on the 0:08 downbeat a BRASS + low CHOIR swell ignites with the flame-body; the score PEAKS at 0:11.2 exactly on the flaming arm-arc (full brass hit + choir crescendo), then pulls back at 0:14.4.
+- 0:16–0:24: brass and choir decay over 4 s; by 0:20 only the cello, drone and heartbeat remain; the final cello note + one heartbeat-kick lands at 0:23.8 matching the 0:00 pulse.
+LOOP LOCK: 24.000s kick = 0:00 kick. FEEL: fierce, elegant, dangerous-but-controlled — cinematic power, not chaos.
+
 
 ═══════════════════════════════════════════════════════════════════════════════
 
@@ -621,9 +663,30 @@ MASTER TRACK: the glittering motif draws back to one soft harp note landing exac
 CUT LOGIC: seamless ANGLE-CUT / LOOP back to CLIP 1 — she breathes toward the butterfly and scatters again, forever.
 
 ☆ EXTERNAL AUDIO — BLOCK 1: BACKGROUND SOUND DESIGN / AMBIENCE BED
-A warm sunlit meadow as the constant — soft breeze, layered birdsong, distant bees. THROUGH-LINE: a single delicate wing-flutter (the trigger), recurring at the loop. Layers: a soft warm breath then a blooming wash of many wingbeats as she scatters (CLIP 1 end); a soft full thunder of thousands of wingbeats while she is the butterfly-cloud (CLIP 2); the wingbeats drawing together and resolving to one gentle flutter as the last butterfly lands, then breeze and birdsong (CLIP 3). Cross-fade beat to beat; the warm meadow hush at the end equals the start.
+RUNTIME: exactly 24.000s = 3 clips × 8.000s · 48 kHz / 24-bit stereo · CLIP MAP — CLIP 1 = 0:00–0:08 · CLIP 2 = 0:08–0:16 · CLIP 3 = 0:16–0:24 · seamless loop.
+DESIGN INTENT: a warm sunlit meadow that blooms into a living storm of wings — thousands of tiny flutters layered into one breathing texture, so the swarm feels alive and magical, never a flat ambience loop.
+STEMS: (S1) golden-meadow bed — soft breeze, layered birdsong, distant bees, grass rustle. (S2) the single hero wing-flutter. (S3) the swarm — a granular cloud of hundreds of wingbeats. (S4) a soft warm breath. (S5) airy 2.0 s hall reverb.
+TIMED EVENTS:
+- 0:00–0:02.6 — meadow bed; a single delicate WING-FLUTTER ticks close and intimate; a lone bee passes L→R.
+- 0:02.6 — TRIGGER: a soft warm BREATH; the hero butterfly lifts (a tiny whoosh).
+- 0:04.8 — scatter onset: small flutters multiply and peel away, building a rising shimmer of wings to the cut.
+- 0:08.000 — CLIP-2 cut: the full SWARM blooms — a warm, soft "thunder" of thousands of wingbeats, panned wide and circling slowly, birdsong lifting underneath.
+- 0:11.2 — the wing-cloud arm-arc: a ribbon of wingbeats sweeps across the field, a sparkle of brighter flutters.
+- 0:14.4–0:16.0 — the swarm funnels: the wingbeats draw together, gathering tighter toward the cut.
+- 0:16.000 — CLIP-3 cut: the swarm resolves to a single soft flutter as the last butterfly lands.
+- 0:18.0–0:23.5 — meadow bed returns; warm breeze and birdsong settle.
+- 0:23.5–0:24.000 — one delicate wing-flutter again — identical to 0:00 — invisible loop.
+MIX NOTES: build the swarm from many de-tuned, de-timed wing layers (never a single looped sample); keep birdsong soft under it; sunlit, airy, joyful — bright but never shrill.
+
 ☆ EXTERNAL AUDIO — BLOCK 2: BACKGROUND MUSIC / SCORE TRACK
-Whimsical, warm, magical. KEY/TEMPO: C major, ~80 BPM. THE SPINE (constant): a light plucked harp/celeste motif with soft strings, present throughout. BUILD: the motif brightens as she scatters; a glittering glockenspiel swell reaches its peak on the CLIP 2 arm-arc (the hero beat); the sparkle draws back as she reforms, decaying to one soft harp note landing exactly where the reel began — a seamless infinite loop. Gentle, joyful, fairytale-light.
+RUNTIME: exactly 24.000s · KEY: C major · TEMPO: 90 BPM (bar = 2.667s; 24.000s = exactly 9 bars) · seamless loop.
+SPINE (constant): a light plucked harp/celeste arpeggio in C, gently rolling — the twinkle that carries the whole piece.
+ARRANGEMENT:
+- 0:00–0:08: harp arpeggio + soft sustained strings; a music-box motif enters at 0:02.6 on the breath; a building shimmer toward the cut.
+- 0:08–0:16: on the 0:08 downbeat full warm strings + a flute melody bloom with the swarm; a GLOCKENSPIEL sparkle PEAKS at 0:11.2 on the arm-arc (bright glissando), easing back at 0:14.4.
+- 0:16–0:24: the sparkle settles; strings soften; by 0:20 just harp + celeste; the final harp note lands at 0:23.7 matching 0:00.
+LOOP LOCK: 9-bar phrase resolves exactly at 24.000s onto the 0:00 downbeat. FEEL: whimsical, warm, fairytale-joyful — the showstopper.
+
 
 ═══════════════════════════════════════════════════════════════════════════════
 
@@ -819,9 +882,30 @@ MASTER TRACK: the music-box motif draws back to one soft plucked note landing ex
 CUT LOGIC: seamless ANGLE-CUT / LOOP back to CLIP 1 — the bud bursts open and she blooms again, forever.
 
 ☆ EXTERNAL AUDIO — BLOCK 1: BACKGROUND SOUND DESIGN / AMBIENCE BED
-A humid greenhouse hush as the constant — faint dripping, distant birds, a soft breeze, a gentle bee. THROUGH-LINE: a soft organic blooming-creak with tiny chimes (the trigger), recurring at the loop. Layers: the bud-burst creak and petal-rustle as blooms spread (CLIP 1 end); a gentle continuous petal-rustle and breeze while she is the flower-figure (CLIP 2); the rustle drawing together and resolving to one soft chime as the bud closes, then the greenhouse hush (CLIP 3). Cross-fade beat to beat; the hush at the end equals the start.
+RUNTIME: exactly 24.000s = 3 clips × 8.000s · 48 kHz / 24-bit stereo · CLIP MAP — CLIP 1 = 0:00–0:08 · CLIP 2 = 0:08–0:16 · CLIP 3 = 0:16–0:24 · seamless loop.
+DESIGN INTENT: a humid greenhouse where life audibly unfurls — organic blooming creaks, petal-rustle and dripping dew layered so the rebirth feels tactile and tender, never a generic nature pad.
+STEMS: (S1) greenhouse bed — faint dripping, distant birds, a soft breeze, one gentle bee. (S2) the bloom-creak (organic, woody, pitched). (S3) petal-rustle cloud. (S4) tiny crystalline bloom-chimes. (S5) lush 2.4 s soft reverb.
+TIMED EVENTS:
+- 0:00–0:02.6 — greenhouse hush; a slow water-drip every ~2 s; the room breathes.
+- 0:02.6 — TRIGGER: the collarbone bud BURSTS — a soft organic creak + a tiny chime sparkle.
+- 0:04.8 — bloom-spread: layered unfurling creaks climb in pitch with a delicate petal-rustle building to the cut.
+- 0:08.000 — CLIP-2 cut: a full gentle PETAL-RUSTLE bloom — a soft continuous sea of petals trembling, a warm breeze, a bee drifting through.
+- 0:11.2 — the floral arm-arc: a lifting swirl of petals (airy rustle sweep) crosses the field, chimes shimmering.
+- 0:14.4–0:16.0 — petals begin to scatter and gather; the rustle draws inward to the cut.
+- 0:16.000 — CLIP-3 cut: the rustle resolves; a single soft chime as the bloom closes back to a bud.
+- 0:18.0–0:23.5 — greenhouse hush returns; one last petal settles.
+- 0:23.5–0:24.000 — the bud-burst creak begins again — identical to 0:02.6 — invisible loop.
+MIX NOTES: blooms must sound organic and "wet" (layer real plant-creak + subtle pitch-rise); keep dew-drips intimate; tender and alive, full mid-range warmth, no harsh transients.
+
 ☆ EXTERNAL AUDIO — BLOCK 2: BACKGROUND MUSIC / SCORE TRACK
-Tender, romantic, warm. KEY/TEMPO: G major, ~72 BPM. THE SPINE (constant): soft fingerpicked guitar/harp with a delicate music-box motif, present throughout. BUILD: the motif warms as she blooms; a gentle swell reaches its peak on the CLIP 2 arm-arc (the hero beat); the swell decays as she reforms, drawing back to one soft plucked note landing exactly where the reel began — a seamless infinite loop. Tender, blossoming, a little bittersweet.
+RUNTIME: exactly 24.000s · KEY: G major · TEMPO: 75 BPM (bar = 3.200s; 24.000s = 7.5 bars) · seamless loop.
+SPINE (constant): a soft fingerpicked nylon guitar/harp motif in G with a delicate music-box counter-line — tender and blossoming.
+ARRANGEMENT:
+- 0:00–0:08: fingerpicked guitar + a low warm pad; the music-box motif enters at 0:02.6 on the bud-burst; soft strings swell toward the cut.
+- 0:08–0:16: on 0:08 full warm strings + woodwind bloom with the petals; the melody PEAKS at 0:11.2 on the arm-arc (string crest + harp roll), receding at 0:14.4.
+- 0:16–0:24: strings soften, instruments drop per bar; by 0:20 just guitar + music-box; final plucked note lands at 0:23.8 matching 0:00 — a touch bittersweet.
+LOOP LOCK: 7.5-bar phrase pushes onto the 0:00 downbeat at 24.000s. FEEL: romantic, tender, gently bittersweet rebirth.
+
 
 ═══════════════════════════════════════════════════════════════════════════════
 
@@ -1017,9 +1101,30 @@ MASTER TRACK: the noir bass and trumpet draw back to a single soft bass note lan
 CUT LOGIC: seamless ANGLE-CUT / LOOP back to CLIP 1 — she turns and exhales and unravels again, forever.
 
 ☆ EXTERNAL AUDIO — BLOCK 1: BACKGROUND SOUND DESIGN / AMBIENCE BED
-A dead-quiet dark room as the constant — a faint low room-tone, the subtlest air-movement. THROUGH-LINE: a slow soft exhale (the trigger), recurring at the loop. Layers: an airy whoosh and soft hiss as she unravels (CLIP 1 end); a low airy drone and the whisper of moving air while she is the smoke-figure (CLIP 2); the air drawing inward resolving to a slow exhale and the room's hush (CLIP 3). Cross-fade beat to beat; the quiet at the end equals the start.
+RUNTIME: exactly 24.000s = 3 clips × 8.000s · 48 kHz / 24-bit stereo · CLIP MAP — CLIP 1 = 0:00–0:08 · CLIP 2 = 0:08–0:16 · CLIP 3 = 0:16–0:24 · seamless loop.
+DESIGN INTENT: a dead-quiet noir room where air itself becomes the instrument — breath, the hush of a light-shaft, and volumetric smoke-drift, so the dissolve feels weightless and sensual, never empty or dull.
+STEMS: (S1) dark room-tone — a low pressureless hum, barely there. (S2) the slow human breath/exhale. (S3) airy smoke-whoosh + soft hiss. (S4) a low volumetric drone (the smoke "body"). (S5) a long 3.5 s dark plate reverb on every gesture.
+TIMED EVENTS:
+- 0:00–0:02.9 — near silence; the room "breathes"; a faint air-movement as she turns.
+- 0:02.9 — TRIGGER: a slow, close EXHALE into the shaft — intimate, dry, centred.
+- 0:04.8 — unravelling: an airy WHOOSH + soft hiss as her edges become smoke, rising toward the cut.
+- 0:08.000 — CLIP-2 cut: a low airy DRONE blooms (the smoke-body) with the whisper of moving air circling slowly in the field.
+- 0:11.2 — the smoke arm-arc: a soft ribbon-whoosh sweeps through the shaft, a breath of air across the stereo image.
+- 0:14.4–0:16.0 — the vapour draws inward: the drone tightens and pitches as air pulls to centre.
+- 0:16.000 — CLIP-3 cut: the whoosh resolves; the drone dissolves over 2.0 s.
+- 0:20.0–0:23.5 — back to the dead-quiet room; a single slow exhale settling.
+- 0:23.5–0:24.000 — the exhale begins again — identical to 0:02.9 — invisible loop.
+MIX NOTES: this is a study in restraint — keep levels low and the space huge; the silence IS the mood; one tasteful low-mid drone, never a busy "smoke" cliché; breath dry and forward, everything else wet and distant.
+
 ☆ EXTERNAL AUDIO — BLOCK 2: BACKGROUND MUSIC / SCORE TRACK
-Dark, sultry, noir. KEY/TEMPO: a slow noir feel, ~64 BPM. THE SPINE (constant): a soft noir double-bass and brushed snare, present throughout. BUILD: a smoky muted-trumpet (or low Rhodes) motif enters as she unravels; a reverberant swell reaches its peak on the CLIP 2 smoke arm-arc (the hero beat); the swell decays as she re-condenses, drawing back to one soft bass note landing exactly where the reel began — a seamless infinite loop. Mysterious, elegant, cinematic.
+RUNTIME: exactly 24.000s · KEY: C# minor (noir) · TEMPO: 60 BPM (bar = 4.000s; 24.000s = exactly 6 bars) · seamless loop.
+SPINE (constant): a soft upright double-bass walking slow + a brushed-snare whisper — smoky, late-night, restrained.
+ARRANGEMENT:
+- 0:00–0:08: bass + brushes only; a muted-trumpet (or low Rhodes) motif enters at 0:02.9 on the exhale, breathy and blue.
+- 0:08–0:16: a reverberant string/Rhodes pad swells under the smoke-body; the muted trumpet PEAKS at 0:11.2 on the arm-arc (a single held, bending note), receding at 0:14.4.
+- 0:16–0:24: the pad dissolves; by 0:20 just bass + brushes; the final bass note lands at 0:23.8 matching 0:00.
+LOOP LOCK: 6-bar phrase resolves at 24.000s onto the 0:00 downbeat. FEEL: mysterious, elegant, sultry-but-modest noir.
+
 
 ═══════════════════════════════════════════════════════════════════════════════
 
