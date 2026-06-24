@@ -2418,9 +2418,27 @@ MASTER TRACK: the ~100 BPM groove lands back on modern pop exactly where CLIP 1 
 CUT LOGIC: seamless ANGLE-CUT / LOOP back to CLIP 1 — she snaps and spins into 1920s again, forever.
 
 ☆ EXTERNAL AUDIO — BLOCK 1: BACKGROUND SOUND DESIGN / AMBIENCE BED
-A clean studio room-tone as the constant. THROUGH-LINE: a crisp finger-snap + a magical fabric-swirl whoosh on every spin, recurring at each era-change and the loop. Layers: a subtle vinyl-crackle texture that updates per era (gramophone hiss → jukebox warmth → disco shimmer → tape hiss → clean digital); each era-pose lands with a soft settle. Cross-fade on each spin; the clean tone at the end equals the start.
+RUNTIME: exactly 24.000s = 3 clips × 8.000s · 48 kHz / 24-bit stereo · CLIP MAP — CLIP 1 = 0:00–0:08 · CLIP 2 = 0:08–0:16 · CLIP 3 = 0:16–0:24 · seamless loop.
+DESIGN INTENT: a clean studio whose AIR changes era with every spin — a finger-snap, a magical fabric-swirl, and an era-correct recording texture, so each decade feels authentic, never a flat costume-change.
+STEMS: (S1) clean studio room-tone. (S2) the crisp finger-snap. (S3) the magical fabric-swirl whoosh (per spin). (S4) an era-recording texture that updates each clip (gramophone hiss → jukebox warmth → disco room → tape hiss → clean digital). (S5) a short bright reverb.
+TIMED EVENTS:
+- 0:00–0:01.5 — clean studio; she holds the modern pose.
+- 0:01.5 — SNAP + a swirling fabric-WHOOSH as she spins; gramophone-hiss texture fades in landing 1920s at ~0:04.
+- 0:08.000 — CLIP-2 cut: SPIN-WHOOSH → 1950s (jukebox-room warmth); at ~0:10.7 SPIN-WHOOSH → 1970s (wider disco room); at ~0:13.3 SPIN-WHOOSH → 1990s (tape hiss); each spin lands a soft pose-settle.
+- 0:16.000 — CLIP-3 cut: one final SPIN-WHOOSH → back to clean modern digital air by ~0:18.5.
+- 0:18.5–0:23.5 — clean studio holds; she lands the "now" pose; a subtle vinyl-to-digital sweep clears the texture.
+- 0:23.5–0:24.000 — a snap + swirl primes the next 1920s spin — invisible loop.
+MIX NOTES: each spin-whoosh is the edit glue; the recording-texture swap sells the decade instantly; keep snaps crisp and dry, whooshes wide; fun and slick.
+
 ☆ EXTERNAL AUDIO — BLOCK 2: BACKGROUND MUSIC / SCORE TRACK
-One modern groove that RE-SKINS per era — the fun is the genre-flip on every spin. KEY/TEMPO: a constant ~100 BPM groove. THE SPINE (constant): the same beat/bassline rendered as 1920s jazz → 1950s rock'n'roll → 1970s disco → 1990s hip-hop → modern pop, snapping on each spin. BUILD: each era hits its genre on the pose; the track lands back on modern pop exactly where the reel began — a seamless infinite loop. Chic, playful, iconic.
+RUNTIME: exactly 24.000s · ONE GROOVE, RE-SKINNED PER ERA · TEMPO: 100 BPM constant (bar = 2.400s; 24.000s = exactly 10 bars) · the SAME bassline/beat throughout so the loop and genre-flips lock perfectly.
+SPINE (constant): one 100 BPM drum-and-bass groove; only the instrumentation/production re-skins on each spin — the joke and the hook.
+ARRANGEMENT (genre-flip on each spin, all at 100 BPM):
+- 0:00–0:08 (CLIP 1): 0:00 a brief modern-pop tag, then on the 0:01.5 spin → 1920s JAZZ (muted trumpet, banjo, ride) holding to the cut.
+- 0:08–0:16 (CLIP 2): 0:08 spin → 1950s ROCK'N'ROLL (slap upright bass, twangy guitar); 0:10.7 spin → 1970s DISCO (four-on-the-floor, strings, wah guitar); 0:13.3 spin → 1990s HIP-HOP (boom-bap kick/snare, vinyl scratch).
+- 0:16–0:24 (CLIP 3): 0:16 spin → MODERN POP (the full current production) building to a clean drop at ~0:18.5; rides to 0:24.
+LOOP LOCK: the 100 BPM groove and the modern-pop tag at 24.000s = the 0:00 tag — the genre-flip restarts seamlessly. FEEL: chic, playful, iconic — the genre changing on every spin is the dopamine.
+
 
 ═══════════════════════════════════════════════════════════════════════════════
 
@@ -2614,9 +2632,29 @@ MASTER TRACK: the glam beat eases back to the soft warm acoustic/lo-fi landing e
 CUT LOGIC: seamless ANGLE-CUT / LOOP back to CLIP 1 — she closes her eyes and flips to her night alter-ego again, forever.
 
 ☆ EXTERNAL AUDIO — BLOCK 1: BACKGROUND SOUND DESIGN / AMBIENCE BED
-A warm quiet apartment by day as the constant (soft room-tone, distant birds) that flips to a moody night ambience (faint city hum, distant traffic) on the transformation. THROUGH-LINE: a subtle whoosh on the blink/hair-flip, recurring at the loop. Layers: a soft swell on the eye-open (CLIP 1 end); the night-room hum with faint city sounds during the alter-ego (CLIP 2); the night softening back to warm-day birds on the return blink (CLIP 3). Cross-fade on each flip; the warm-day tone at the end equals the start.
+RUNTIME: exactly 24.000s = 3 clips × 8.000s · 48 kHz / 24-bit stereo · CLIP MAP — CLIP 1 = 0:00–0:08 · CLIP 2 = 0:08–0:16 · CLIP 3 = 0:16–0:24 · seamless loop.
+DESIGN INTENT: an apartment that flips from warm cosy day to moody city night with her blink/hair-flip — two distinct sonic worlds that swap on cue, so the glow-up reveal feels powerful, never a plain cut.
+STEMS: (S1-day) warm room-tone, distant birds, a soft clock-tick. (S1-night) a low city hum, distant traffic, a faint neon buzz. (S2) the blink/hair-flip whoosh. (S3) a passing-headlight sweep (night). (S4) a 2.0 s reverb that opens up at night.
+TIMED EVENTS:
+- 0:00–0:03.0 — warm day room-tone, soft birds; cosy and still.
+- 0:03.0 — TRIGGER: a soft WHOOSH on the blink; the bed begins cross-fading day→night.
+- 0:04.8–0:08 — night ambience swells in (city hum, faint neon) as the look sharpens.
+- 0:08.000 — CLIP-2 cut: full NIGHT world — city hum, distant traffic; at ~0:10.7 a hair-flip whoosh + a passing-headlight sweep across the field on the power-pose.
+- 0:14.4–0:16.0 — the night holds, then begins warming back as she lowers toward a blink.
+- 0:16.000 — CLIP-3 cut: a return BLINK whoosh; night cross-fades back to warm day over 2.0 s.
+- 0:18.0–0:23.5 — warm day room-tone returns, soft birds, the clock-tick.
+- 0:23.5–0:24.000 — primes the next blink — invisible loop.
+MIX NOTES: the day/night beds must be clearly different timbres so the swap reads instantly; keep the whoosh the glue; night wider and deeper, day intimate and warm.
+
 ☆ EXTERNAL AUDIO — BLOCK 2: BACKGROUND MUSIC / SCORE TRACK
-One track, two energies — the drop sells the glow-up. KEY/TEMPO: a soft warm acoustic/lo-fi by day that DROPS into a confident bass-heavy glam beat (~95 BPM) on the night-flip. THE SPINE (constant): the same chord progression rendered soft-acoustic (day) vs bass-glam (night). BUILD: the beat drops on the hair-flip pose (CLIP 2 hero beat), then eases back to the soft warm version on the return blink — landing exactly where the reel began — a seamless infinite loop. Confident, magnetic, glow-up energy.
+RUNTIME: exactly 24.000s · ONE SONG, TWO ENERGIES · same chord progression rendered soft-acoustic (day) vs bass-glam (night) · TEMPO: 95 BPM (bar = 2.526s; 24.000s ≈ 9.5 bars) · seamless loop.
+SPINE (constant): the same 4-chord progression and melody throughout; only the production flips — the drop sells the glow-up.
+ARRANGEMENT:
+- 0:00–0:08 (CLIP 1, day): soft warm acoustic/lo-fi — mellow guitar, brushed drums, gentle keys; a small swell on the 0:03.0 eye-open hinting the drop.
+- 0:08–0:16 (CLIP 2, night): on 0:08 the BEAT DROPS — a confident bass-heavy glam beat (deep sub, crisp claps, a sultry synth lead); the track PEAKS at 0:10.7 on the hair-flip power-pose (full drop + a vocal-chop hit), riding to 0:14.4.
+- 0:16–0:24 (CLIP 3, back to day): on 0:16 a filter-down returns to the soft acoustic version; by 0:20 mellow and warm; the final soft chord lands at 0:23.8 matching 0:00.
+LOOP LOCK: progression resolves at 24.000s onto the 0:00 chord. FEEL: confident, magnetic — soft warmth into a glow-up drop and back.
+
 
 ═══════════════════════════════════════════════════════════════════════════════
 
@@ -2811,9 +2849,30 @@ MASTER TRACK: the choir-and-strings draw back to one held choral note landing ex
 CUT LOGIC: seamless ANGLE-CUT / LOOP back to CLIP 1 — the beam touches her crown and she ascends again, forever.
 
 ☆ EXTERNAL AUDIO — BLOCK 1: BACKGROUND SOUND DESIGN / AMBIENCE BED
-A vast echoing temple as the constant — soft wind through columns, a low sacred hum, distant resonance. THROUGH-LINE: a shimmering light-touch tone (the beam at her crown), recurring at the loop. Layers: a swelling angelic shimmer as the markings ignite and she ascends (CLIP 1 end / CLIP 2); a full radiant shimmer at the ascension peak; the shimmer drawing back to one sustained tone and the temple hush as she descends (CLIP 3). Cross-fade beat to beat; the hush at the end equals the start.
+RUNTIME: exactly 24.000s = 3 clips × 8.000s · 48 kHz / 24-bit stereo · CLIP MAP — CLIP 1 = 0:00–0:08 · CLIP 2 = 0:08–0:16 · CLIP 3 = 0:16–0:24 · seamless loop.
+DESIGN INTENT: a vast ancient temple where a mortal ascends — wind through stone, a sacred hum, and a swelling angelic shimmer, so the ascension feels holy and immense, never a generic "epic" pad.
+STEMS: (S1) temple air — soft wind through columns, a deep low sacred hum, distant stone resonance. (S2) the light-touch tone (beam to crown). (S3) a rising angelic shimmer (airy choir-breath + light). (S4) a gold-dust sparkle layer. (S5) a 4.5 s cathedral reverb.
+TIMED EVENTS:
+- 0:00–0:02.9 — temple wind and low hum; gold dust drifts; reverent stillness.
+- 0:02.9 — TRIGGER: a shimmering LIGHT-TOUCH tone as the beam meets her crown, blooming wide.
+- 0:04.8 — markings ignite: an angelic shimmer rises with gold-dust sparkles, building to the cut.
+- 0:08.000 — CLIP-2 cut: a full radiant SHIMMER blooms (airy choir-breath + light) as she levitates; the temple resonance opens huge.
+- 0:11.2 — the ascension arm-open: the shimmer PEAKS — a wide bloom of light + a soft sub-impact of divine power.
+- 0:14.4–0:16.0 — the light begins receding; the shimmer draws back as she lowers, toward the cut.
+- 0:16.000 — CLIP-3 cut: the shimmer resolves to a single sustained tone; the temple wind returns.
+- 0:20.0–0:23.5 — temple air and low hum settle; gold dust drifts down.
+- 0:23.5–0:24.000 — the light-touch tone begins again — identical to 0:02.9 — invisible loop.
+MIX NOTES: enormous reverberant space; keep the low hum constant and felt; the shimmer airy and holy (breath, not synth); restraint then bloom for the goosebump.
+
 ☆ EXTERNAL AUDIO — BLOCK 2: BACKGROUND MUSIC / SCORE TRACK
-Epic and sacred, goosebump-level. KEY/TEMPO: D major, ~60 BPM. THE SPINE (constant): a soft sustained choral pad, present throughout. BUILD: soft strings rise as the markings ignite; a full choir-and-brass apex hits on the CLIP 2 arm-open (the hero beat); the swell decays as she descends, drawing back to one held choral note landing exactly where the reel began — a seamless infinite loop. Cinematic, divine, breathtaking.
+RUNTIME: exactly 24.000s · KEY: D major · TEMPO: 60 BPM (bar = 4.000s; 24.000s = exactly 6 bars) · seamless loop.
+SPINE (constant): a soft sustained choral pad in D — the sacred bed under everything.
+ARRANGEMENT:
+- 0:00–0:08: choral pad; soft strings begin rising at 0:02.9 on the light-touch, swelling toward the cut.
+- 0:08–0:16: on 0:08 the FULL CHOIR + brass + timpani bloom with the goddess; the score reaches its grand APEX at 0:11.2 on the arm-open (full choir crescendo + brass + a low boom), beginning to decay at 0:14.4.
+- 0:16–0:24: the choir and brass decay over 4 s; by 0:20 just the choral pad; the final held choral note lands at 0:23.8 matching 0:00.
+LOOP LOCK: 6-bar phrase resolves at 24.000s onto the 0:00 downbeat. FEEL: epic, sacred, breathtaking — full-body goosebumps.
+
 
 ═══════════════════════════════════════════════════════════════════════════════
 
@@ -3009,9 +3068,30 @@ MASTER TRACK: the harp and vocal draw back to one harp note over lapping waves l
 CUT LOGIC: seamless ANGLE-CUT / LOOP back to CLIP 1 — the wave laps her legs and she transforms again, forever.
 
 ☆ EXTERNAL AUDIO — BLOCK 1: BACKGROUND SOUND DESIGN / AMBIENCE BED
-A gentle cove as the constant — lapping waves, distant gulls, water dripping off rock. THROUGH-LINE: a magical shimmer with a wave-wash (the trigger), recurring at the loop. Layers: the shimmer and water-trickle as scales bloom (CLIP 1 end); soft tail-splashes and an ethereal hush while she is the mermaid (CLIP 2); the wave-wash resolving to a shimmer and gentle lapping as the land-form returns (CLIP 3). Cross-fade beat to beat; the lapping calm at the end equals the start.
+RUNTIME: exactly 24.000s = 3 clips × 8.000s · 48 kHz / 24-bit stereo · CLIP MAP — CLIP 1 = 0:00–0:08 · CLIP 2 = 0:08–0:16 · CLIP 3 = 0:16–0:24 · seamless loop.
+DESIGN INTENT: a sun-dappled cove where legs become a tail — lapping waves, a magical scale-shimmer, tail-splashes and an ethereal vocal-on-the-wind, so the myth feels oceanic and real, never a cartoon "sparkle".
+STEMS: (S1) cove bed — gentle lapping waves, distant gulls, water dripping off rock. (S2) the wave-wash + magical shimmer trigger. (S3) scale-bloom tinkles (wet, iridescent). (S4) tail-splash + droplet spray. (S5) a faint ethereal female "ooh" on the sea-wind. (S6) a 2.8 s open-air reverb.
+TIMED EVENTS:
+- 0:00–0:02.6 — cove ambience; a wave laps her ankles; a gull far off.
+- 0:02.6 — TRIGGER: a magical SHIMMER + the wave-wash as scales begin to bloom up her legs.
+- 0:04.8 — scale-bloom: wet iridescent tinkles climb as the tail forms, building to the cut.
+- 0:08.000 — CLIP-2 cut: the full cove opens; a soft ethereal "ooh" drifts on the wind; gentle tail-shifts and droplet-trickle off the scales.
+- 0:11.2 — the tail-arc: a graceful TAIL-SPLASH sends a fan of droplets sweeping across the field.
+- 0:14.4–0:16.0 — a wave rolls up over the tail; the wash builds, scales beginning to recede, toward the cut.
+- 0:16.000 — CLIP-3 cut: the wave-wash resolves to a shimmer + gentle lapping as the land-form returns.
+- 0:18.0–0:23.5 — cove bed settles; lapping waves, a gull, dripping rock.
+- 0:23.5–0:24.000 — the shimmer + wave-wash begins again — identical to 0:02.6 — invisible loop.
+MIX NOTES: real, wet, oceanic — layer true wave/splash foley with a tuned shimmer; the ethereal vocal sits low and distant; bright sun-feel in the highs, deep sea in the lows.
+
 ☆ EXTERNAL AUDIO — BLOCK 2: BACKGROUND MUSIC / SCORE TRACK
-Enchanting and aquatic. KEY/TEMPO: F major, ~68 BPM. THE SPINE (constant): a flowing harp with a soft ethereal female "ooh", present throughout. BUILD: the harp brightens as the scales bloom; a magical swell with gentle strings reaches its peak on the CLIP 2 tail-arc (the hero beat); the swell decays as the land-form returns, drawing back to one harp note over lapping waves landing exactly where the reel began — a seamless infinite loop. Mythic, dreamy, oceanic.
+RUNTIME: exactly 24.000s · KEY: F major · TEMPO: 67.5 BPM (bar = 3.556s; 24.000s = exactly 6.75 bars) · seamless loop.
+SPINE (constant): a flowing harp in F + a soft wordless female "ooh" — enchanting and aquatic.
+ARRANGEMENT:
+- 0:00–0:08: harp + airy pad; the female "ooh" enters at 0:02.6 on the scale-bloom; gentle strings rising toward the cut.
+- 0:08–0:16: full warm strings + a celesta shimmer bloom with the mermaid; the score PEAKS at 0:11.2 on the tail-arc (a magical harp glissando + string crest), easing at 0:14.4.
+- 0:16–0:24: strings soften; by 0:20 just harp + vocal; the final harp note over lapping waves lands at 0:23.8 matching 0:00.
+LOOP LOCK: 6.75-bar phrase resolves onto the 0:00 downbeat at 24.000s. FEEL: mythic, dreamy, oceanic.
+
 
 ═══════════════════════════════════════════════════════════════════════════════
 
@@ -3206,9 +3286,30 @@ MASTER TRACK: the K-drama piano draws back to one tender piano note over the sno
 CUT LOGIC: seamless ANGLE-CUT / LOOP back to CLIP 1 — the snowflake lands and the K-drama glow blooms again, forever.
 
 ☆ EXTERNAL AUDIO — BLOCK 1: BACKGROUND SOUND DESIGN / AMBIENCE BED
-A quiet snowy street as the constant — soft muffled city hush, distant footsteps, a faint shop-door chime, the near-silence of falling snow. THROUGH-LINE: a delicate sparkle on the snowflake-trigger, recurring at the loop. Layers: the sparkle and a soft warm bloom-tone as the styling settles (CLIP 1 end); a warm romantic hush during the heroine peak (CLIP 2); the bloom softening back to the snow-hush and a shop-door chime as the look reverts (CLIP 3). Cross-fade beat to beat; the snow-hush at the end equals the start.
+RUNTIME: exactly 24.000s = 3 clips × 8.000s · 48 kHz / 24-bit stereo · CLIP MAP — CLIP 1 = 0:00–0:08 · CLIP 2 = 0:08–0:16 · CLIP 3 = 0:16–0:24 · seamless loop.
+DESIGN INTENT: a quiet snowy Seoul-style street at dusk — the muffled hush of falling snow, a shop-door chime and a warm bloom on the styling, so the first-snow romance feels cinematic and tender, never a flat street loop.
+STEMS: (S1) snowy-street bed — soft muffled city hush, distant footsteps in snow, the near-silence of falling flakes. (S2) the snowflake-sparkle trigger. (S3) a warm bloom-tone (the K-drama glow). (S4) a faint shop-door chime + a distant car passing on wet snow. (S5) a soft 2.4 s intimate reverb.
+TIMED EVENTS:
+- 0:00–0:01.5 — snowy hush; muffled city; a far footstep; her breath fogs (a soft exhale).
+- 0:01.5 — TRIGGER: a delicate SPARKLE as a snowflake lands on her lashes; a warm bloom-tone begins.
+- 0:04.0–0:08 — the warm bloom rises softly under the restyle; a shop-door chime tinkles far off.
+- 0:08.000 — CLIP-2 cut: the full warm romantic hush — gentle snow, a soft swell of warmth around her; a distant car passes on wet snow.
+- 0:11.2 — the strand-tuck beat: a tiny intimate cloth/hair rustle, close and tender, as the warmth peaks.
+- 0:14.4–0:16.0 — the warm bloom begins to recede toward the plain look, toward the cut.
+- 0:16.000 — CLIP-3 cut: the bloom softens back to the bare snow-hush; a shop-door chime.
+- 0:18.0–0:23.5 — snowy-street hush returns; her breath fogs; flakes fall.
+- 0:23.5–0:24.000 — the snowflake-sparkle begins again — identical to 0:01.5 — invisible loop.
+MIX NOTES: everything muffled and intimate (snow soaks the highs); the bloom-tone warm and subtle; one tasteful shop-door chime for place; tender, cold, butterflies — never busy.
+
 ☆ EXTERNAL AUDIO — BLOCK 2: BACKGROUND MUSIC / SCORE TRACK
-A tender K-drama OST feel — warm, longing, butterflies. KEY/TEMPO: C major, ~66 BPM. THE SPINE (constant): a soft solo piano, present throughout. BUILD: warm strings join as the styling blooms; a gentle romantic swell (the "first snow" theme) reaches its peak on the CLIP 2 strand-tuck (the hero beat); the swell decays as the look reverts, drawing back to one tender piano note landing exactly where the reel began — a seamless infinite loop. Warm, wistful, heart-fluttering.
+RUNTIME: exactly 24.000s · K-DRAMA OST FEEL · KEY: C major · TEMPO: 67.5 BPM (bar = 3.556s; 24.000s = exactly 6.75 bars) · seamless loop.
+SPINE (constant): a soft solo piano in C — warm, longing, the "first snow" theme.
+ARRANGEMENT:
+- 0:00–0:08: solo piano alone; at 0:01.5 a gentle add of warm strings under the snowflake-bloom, swelling toward the cut.
+- 0:08–0:16: full warm strings + a soft music-box counter-line bloom with the heroine look; the theme PEAKS at 0:11.2 on the strand-tuck (a tender string crest + a single high piano phrase), easing at 0:14.4.
+- 0:16–0:24: strings soften; by 0:20 just the solo piano; the final tender piano note over the snow-hush lands at 0:23.8 matching 0:00.
+LOOP LOCK: 6.75-bar phrase resolves onto the 0:00 downbeat at 24.000s. FEEL: warm, wistful, heart-fluttering — pure K-drama first-snow.
+
 
 ═══════════════════════════════════════════════════════════════════════════════
 
