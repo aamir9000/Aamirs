@@ -2804,3 +2804,206 @@ A gentle cove as the constant — lapping waves, distant gulls, water dripping o
 Enchanting and aquatic. KEY/TEMPO: F major, ~68 BPM. THE SPINE (constant): a flowing harp with a soft ethereal female "ooh", present throughout. BUILD: the harp brightens as the scales bloom; a magical swell with gentle strings reaches its peak on the CLIP 2 tail-arc (the hero beat); the swell decays as the land-form returns, drawing back to one harp note over lapping waves landing exactly where the reel began — a seamless infinite loop. Mythic, dreamy, oceanic.
 
 ═══════════════════════════════════════════════════════════════════════════════
+
+
+# CONCEPT C-5 — SHE TURNS INTO A "K-DRAMA HEROINE" (original archetype — NOT a real person)
+
+Transforms Into: the soft-glow "K-drama female lead" AESTHETIC — Aira restyled into the dewy, romantic, first-snow K-drama-heroine look. This is a STYLE/MOOD archetype ONLY; it is NOT, and must not resemble, any specific real actress (the originally-requested real person is intentionally NOT depicted — the face stays identity-locked Aira and resembles no real individual).
+Feeling: soft romance / cinematic K-drama longing — tender, glowing, butterflies, first-snow magic.
+★ HOOK (first ~1s): the first snow of winter begins to fall; one flake lands on her lashes — and a soft glow blooms over her as the K-drama styling settles in.
+Setting: a snowy Seoul-style street at dusk — warm shop-window glow, bokeh fairy-lights, gentle snowfall (the classic "first snow" scene).
+Trigger (signature): THE FIRST SNOWFLAKE LANDING ON HER LASHES — the flake and a soft warm glow begin the restyle; the glow receding completes the return. A STYLE-morph (aesthetic + grade); face stays identity-locked Aira.
+Voice: SILENT — diegetic snowy street + score only.
+Duration: ~13s · 3 clips (angle-cut, style-morph, loops to CLIP 1).
+
+## CLIP 1 of 3 — MACRO→CLOSE-UP · THREE-QUARTER · EYE-LEVEL (plain Aira → first snow → glow BEGINS mid-clip)
+
+### START IMAGE (keyframe)
+ANGLE & SHOT SIZE: opens as a MACRO on a snowflake on her lashes, composed as an eye-level CLOSE-UP (face and shoulders), three-quarter, plain-look Aira looking up as the first snow falls.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: a plain everyday beige coat (modest, deliberately understated as the "before").
+FOOTWEAR: out of frame (close-up).
+EYEWEAR: none.
+ACCESSORIES: none (plain before-look).
+HAIR: simple loose waves, dark brown, a little flat, a few flakes settling.
+MAKEUP: minimal — bare skin, a touch of balm, real pores, a cold-flushed nose.
+HANDS & NAILS: one hand lifting slightly as if to catch a flake; bare nails.
+FACIAL MICRO-DYNAMICS: soft surprised wonder — looking up at the falling snow, lips parting in a small delighted breath that fogs, eyes warming, a slow blink as a flake lands on the lashes.
+BODY POSTURE & WEIGHT: a relaxed everyday stance, shoulders a little hunched against the cold, head tilting up to the snow, breathing (visible breath-fog).
+KINETIC STILLNESS (8 layers): (1) the first snow drifting down; (2) warm shop-window glow flickering; (3) loose waves stirring with flakes settling; (4) breath fogging in the cold; (5) chest rising; (6) fairy-light bokeh twinkling; (7) the flake landing on the lashes; (8) a slow delighted blink.
+SPATIAL LOGIC: FOREGROUND — the snowflake on the lashes and lifting hand, tack-sharp. MIDGROUND — her face, three-quarter. BACKGROUND — a snowy dusk street melting to warm fairy-light bokeh.
+LIGHTING: KEY — warm dusk shop-glow on her face. FILL — cool snow-light. RIM — a warm edge on the hair from a shop sign. PRACTICAL — shop windows, fairy-lights, street-lamps. SEPARATION — her warm-lit face against the cool snowy street. BOUNCE — cool snow-bounce with a warm shop-kick.
+LENS + DOF + BOKEH: opens 100mm macro on the lashes (snowflake sharp), resolving to 85mm f/1.8; street melting to warm-and-cool bokeh, falling snow as soft bokeh.
+COMPOSITION: vertical 9:16, Aira right-of-centre, the lashes/snowflake the focal accent, warm fairy-light bokeh framing.
+SUBJECT FRAMING & POSITION: Aira reads from the shoulders up, framed in an intimate close-up at a soft three-quarter, her face tilted up to the falling snow with a hand lifting to catch a flake, the snowflake sharp on her lashes. The camera is near at clean eye level, opening on the macro lashes before settling on her wondering face; she anchors right-of-centre so the snowy street opens to frame-left. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: tender, cold, magical — the hush of the first snow.
+COLOUR GRADE: VIVID warm-amber + cool-snow K-drama grade (teal-and-orange with a soft glow), saturated, cinematic, full mid-tone (the plain look reads natural but the world is richly graded).
+TEXTURE & MICRO-DETAIL: individual snowflakes, lash-detail, skin pores and cold-flush, coat-wool weave, breath-fog, fairy-light bokeh.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, identity drift, resemblance to any real person, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, dull colour, garish oversaturation, flat light.
+
+### ANIMATION (this clip, ~4s — plain establishing; ★ style-glow BEGINS mid-clip, clip ENDS mid-restyle)
+SHOT TYPE & ANGLE: macro-into-eye-level close-up, three-quarter; subject ~55% right-of-centre.
+CAMERA MOVEMENT (CHOREOGRAPHY): a slow pull-back from the lashes-macro into the close-up, then a gentle push — one continuous shot.
+LENS: 100mm macro easing to 85mm, f/1.8.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–1.5s — plain-look Aira looks up as the first snow falls, a small delighted breath fogging the cold air.
+- 1.5–2.8s — ★ TRIGGER: a snowflake lands on her lashes; a soft warm glow sweeps over her face.
+- 2.8–4.0s — ★ MID-CLIP TRANSFORMATION BEGINS: the makeup blooms to dewy glass-skin and her hair begins restyling to the soft K-drama blowout; the street-lights bloom romantically.
+FLUIDITY & WEIGHT NOTES: all eases — the upward gaze is gentle, the glow sweeps soft, the restyle blooms like warmth spreading; her wonder against the magic is the tenderness.
+FABRIC/HAIR/PROP PHYSICS: a soft warm light-bloom wipe (not an element morph); hair restyling with a settle; makeup "glow" blooming on the skin; snow continuing to fall naturally; the bokeh fairy-lights intensifying.
+FOOTWORK & BODY FLOW: a relaxed grounded stance, the shoulders easing from hunched to soft as the glow arrives.
+MID-CLIP TRANSFORMATION (timed): ★ STYLE-GLOW ONSET at 1.5–2.8s and restyle-build (2.8–4.0s) — triggered by the snowflake on the lashes, makeup and hair beginning to restyle, contained as an onset within this clip; clip ends mid-restyle.
+LIGHTING-IN-MOTION: the warm shop-glow blooms softer and dreamier; the fairy-lights intensify into romantic bokeh as she restyles.
+DIEGETIC AUDIO: a tender piano note with a soft sparkle as the flake lands, the muffled hush of snow.
+MASTER TRACK: a soft solo piano with warm strings, a gentle romantic swell beginning at 2.8s.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 2 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the plain beige coat restyling into a soft camel wool coat over a cream turtleneck (modest), a knit scarf forming.
+  • FOOTWEAR: out of frame.
+  • EYEWEAR: none.
+  • ACCESSORIES: small pearl earrings and a delicate ring appearing.
+  • HAIR: the flat waves restyling into a glossy soft-curled "see-through bangs" blowout, rich brown with a warm sheen.
+  • MAKEUP: blooming to dewy "glass skin" — a gradient soft-coral lip, straight natural brows, subtle aegyo-sal under-eye highlight, rosy blush forming.
+  • HANDS & NAILS: the lifted hand soft and graceful, a delicate ring forming, soft natural nails.
+  • FACIAL MICRO-DYNAMICS: soft tender wonder, eyes warming and glowing dewy, lips in a gentle first-snow smile, a slow blink — identity-locked Aira (no real-person resemblance).
+  • BODY POSTURE & WEIGHT: shoulders easing soft, the body warming into the romantic look, breathing with visible fog.
+  • KINETIC STILLNESS (8 layers): (1) the glow blooming; (2) fairy-lights intensifying; (3) hair restyling and settling; (4) the coat softening to camel; (5) chest rising; (6) snow settling on the hair; (7) the scarf forming; (8) a tender blink.
+  • SPATIAL LOGIC: FOREGROUND — her glowing face and soft hand. MIDGROUND — her shoulders, scarf forming. BACKGROUND — snowy dusk street, romantic fairy-light bokeh.
+  • LIGHTING: KEY — warm dusk shop-glow blooming softer. FILL — cool snow-light. RIM — warm shop-sign edge on hair. PRACTICAL — shop windows, fairy-lights, lamps. SEPARATION — warm glowing face against the cool street. BOUNCE — cool snow + warm shop kick.
+  • ATMOSPHERE: first-snow romance blooming, tender and warm.
+  • COLOUR GRADE: VIVID warm-amber + cool-snow K-drama grade, saturated, glowing.
+  • TEXTURE & MICRO-DETAIL: snowflakes, glass-skin dew, restyling hair sheen, camel-wool weave, breath-fog, fairy-light bokeh.
+CUT LOGIC: hard ANGLE-CUT to CLIP 2 (medium, front). No frame-match needed — the angle change is the edit. State carried forward: mid-restyle, glow blooming, the K-drama look settling in.
+
+---
+
+## CLIP 2 of 3 — MEDIUM · FRONT · EYE-LEVEL (★ full K-DRAMA HEROINE in the snow, the hero beat)
+
+### START IMAGE (keyframe)
+ANGLE & SHOT SIZE: eye-level MEDIUM (chest-up), front; Aira now in the full K-drama-heroine look, standing in the gentle snow under warm fairy-lights.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. (Identity-locked Aira; resembles NO real actress — this is an archetype, not a person.)
+WARDROBE: a soft camel wool coat over a cream turtleneck and a pleated midi skirt (modest, cosy-chic), a knit scarf looped softly.
+FOOTWEAR: out of frame (chest-up).
+EYEWEAR: none.
+ACCESSORIES: small pearl earrings, a delicate ring.
+HAIR: a glossy soft-curled "see-through bangs" blowout, rich brown with a warm sheen, snow settling lightly.
+MAKEUP: the signature dewy "glass skin" glow — a gradient soft-coral lip, straight natural brows, subtle aegyo-sal under-eye highlight, rosy blush, luminous and fresh.
+HANDS & NAILS: one hand softly holding the scarf at the collar, soft natural nails.
+FACIAL MICRO-DYNAMICS: soft cinematic longing — a tender warm gaze just past the lens, lips in a gentle wistful smile, eyes glistening dewy, a slow blink, breath fogging softly — the K-drama "lead" beat.
+BODY POSTURE & WEIGHT: a soft, graceful stance, weight gentle, shoulders relaxed, head tilted with quiet emotion, breathing (visible fog).
+KINETIC STILLNESS (8 layers): (1) gentle snow drifting and settling on her hair; (2) warm fairy-lights twinkling; (3) the soft blowout stirring; (4) the scarf shifting; (5) chest rising with breath-fog; (6) shop-window glow flickering; (7) a snowflake drifting past her cheek; (8) a slow tender blink.
+SPATIAL LOGIC: FOREGROUND — drifting snow, soft. MIDGROUND — Aira, the K-drama lead. BACKGROUND — a dreamy snowy street with warm shop-windows and fairy-light bokeh.
+LIGHTING: KEY — warm romantic shop-glow. FILL — cool soft snow-light. RIM — a warm edge on the hair from a shop sign. PRACTICAL — shop windows, fairy-lights, street-lamps. SEPARATION — her warm-lit face against the cool snowy bokeh. BOUNCE — cool snow + warm shop kick.
+LENS + DOF + BOKEH: 50mm, f/1.8; her sharp, the snowy street and fairy-lights melting to dreamy warm-and-cool bokeh, falling snow soft.
+COMPOSITION: vertical 9:16, Aira centred, the dreamy snowy bokeh street framing, snow filling the air.
+SUBJECT FRAMING & POSITION: Aira reads from the chest up, framed medium and squared near-front, holding her scarf with a tender wistful gaze just past the lens, the snowy street glittering behind. The camera holds mid-distance at clean eye level; she anchors dead-centre, body soft and graceful, owning the romantic first-snow beat. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: romantic, tender, cinematic — peak K-drama first-snow longing.
+COLOUR GRADE: VIVID K-drama teal-and-amber — warm shop-glow against cool snow, soft dreamy glow, saturated, full mid-tone.
+TEXTURE & MICRO-DETAIL: snow on the hair, glass-skin dew, glossy blowout sheen, camel-wool and knit-scarf weave, breath-fog, fairy-light bokeh.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, identity drift, resemblance to any real person, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, dull colour, garish oversaturation, flat light.
+
+### ANIMATION (this clip, ~5s — the hero beat; ★ reform BEGINS at the end)
+SHOT TYPE & ANGLE: eye-level medium, front; subject ~60% centre.
+CAMERA MOVEMENT (CHOREOGRAPHY): a slow gentle push toward her in the snow — one continuous shot.
+LENS: 50mm, f/1.8.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–2.0s — she stands in the gentle snow, holding her scarf, a tender wistful smile, breath fogging, snow settling on her hair.
+- 2.0–3.0s — she tucks a strand of the blowout behind her ear, a soft glance to the lens — the romantic hero beat.
+- 3.0–4.0s — she holds the longing first-snow gaze, fairy-lights twinkling around her.
+- 4.0–5.0s — ★ REFORM BEGINS: the warm glow begins to recede and the styling starts reverting toward the plain "before".
+FLUIDITY & WEIGHT NOTES: soft K-drama grace — the strand-tuck is gentle, the gaze tender, the glow-recede eases in; nothing snaps; breath and snow keep it alive.
+FABRIC/HAIR/PROP PHYSICS: a soft warm light-bloom holding then receding; snow falls and settles naturally; the blowout stirs and the scarf shifts with soft cloth-physics; fairy-light bokeh shimmering.
+FOOTWORK & BODY FLOW: a soft grounded stance, a gentle weight-shift on the strand-tuck.
+MID-CLIP TRANSFORMATION (timed): ★ the hero HOLD (0.0–4.0s) then REFORM ONSET (4.0–5.0s) — the warm glow begins receding to revert the styling, contained as an onset in this clip.
+LIGHTING-IN-MOTION: the romantic glow holds dreamy, then softens as the glow-recede begins; fairy-lights gently dimming toward the plain look.
+DIEGETIC AUDIO: a soft swelling piano with the muffled snow-hush, a distant shop-door chime.
+MASTER TRACK: a tender K-drama-OST piano-and-strings reaching its romantic peak on the strand-tuck (the hero beat), then beginning to draw back.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 3 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the camel coat and cream turtleneck reverting toward the plain beige coat (modest), scarf fading, mid-reverse.
+  • FOOTWEAR: out of frame.
+  • EYEWEAR: none.
+  • ACCESSORIES: the pearl earrings and ring fading back to none.
+  • HAIR: the glossy blowout softening back toward simple flat waves, dark brown.
+  • MAKEUP: the dewy glass-skin glow softening back toward bare minimal, lip and blush fading.
+  • HANDS & NAILS: the hand lowering from the strand-tuck, ring fading, bare nails.
+  • FACIAL MICRO-DYNAMICS: tender wonder softening, eyes warm, lips in a gentle smile, a slow blink as the glow fades — identity-locked Aira, no real-person resemblance.
+  • BODY POSTURE & WEIGHT: shoulders easing back toward the everyday hunch against the cold, breathing with fog.
+  • KINETIC STILLNESS (8 layers): (1) the glow receding; (2) fairy-lights dimming toward plain; (3) hair softening; (4) coat reverting to beige; (5) chest rising; (6) snow settling; (7) the scarf fading; (8) a tender blink.
+  • SPATIAL LOGIC: FOREGROUND — her softening face and lowering hand. MIDGROUND — her shoulders. BACKGROUND — snowy dusk street, fairy-light bokeh softening.
+  • LIGHTING: KEY — warm shop-glow softening. FILL — cool snow-light. RIM — warm shop-sign edge fading. PRACTICAL — shop windows, fairy-lights, lamps. SEPARATION — her face against the cool street. BOUNCE — cool snow + warm shop kick.
+  • ATMOSPHERE: the first-snow romance easing back, tender and cold.
+  • COLOUR GRADE: VIVID warm-amber + cool-snow K-drama grade, saturated, softening.
+  • TEXTURE & MICRO-DETAIL: softening glass-skin, hair reverting, coat returning to beige, breath-fog, fairy-light bokeh.
+CUT LOGIC: hard ANGLE-CUT to CLIP 3 (close-up, three-quarter). No frame-match needed. State carried forward: the K-drama look reverting toward the plain before, glow receding.
+
+---
+
+## CLIP 3 of 3 — CLOSE-UP · THREE-QUARTER · EYE-LEVEL (glow recedes → plain Aira; LOOP to CLIP 1)
+
+### START IMAGE (keyframe)
+ANGLE & SHOT SIZE: eye-level CLOSE-UP, three-quarter; the warm glow receding and the styling reverting to plain-look Aira, looking up as snow falls.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: the plain everyday beige coat re-formed and intact (modest, understated "before").
+FOOTWEAR: out of frame.
+EYEWEAR: none.
+ACCESSORIES: none.
+HAIR: simple loose waves, dark brown, a little flat, flakes settling.
+MAKEUP: minimal — bare skin, a touch of balm, real pores, a cold-flushed nose.
+HANDS & NAILS: one hand lifting slightly to catch a flake — matching CLIP 1 — bare nails.
+FACIAL MICRO-DYNAMICS: soft surprised wonder — looking up at the falling snow, lips parting in a small delighted breath that fogs, eyes warming, a slow blink as a flake lands on the lashes — exactly the look that opened CLIP 1.
+BODY POSTURE & WEIGHT: a relaxed everyday stance, shoulders a little hunched against the cold, head tilting up to the snow, breathing (visible fog).
+KINETIC STILLNESS (8 layers): (1) the snow drifting down; (2) warm shop-window glow flickering; (3) loose waves stirring with flakes settling; (4) breath fogging; (5) chest easing on an exhale; (6) fairy-light bokeh twinkling; (7) a flake landing on the lashes; (8) a slow delighted blink.
+SPATIAL LOGIC: FOREGROUND — the snowflake on the lashes and lifting hand, sharp. MIDGROUND — her face, three-quarter. BACKGROUND — snowy dusk street, warm fairy-light bokeh.
+LIGHTING: KEY — warm dusk shop-glow on her face. FILL — cool snow-light. RIM — a warm edge on the hair from a shop sign. PRACTICAL — shop windows, fairy-lights, street-lamps. SEPARATION — her warm-lit face against the cool snowy street. BOUNCE — cool snow + warm shop kick.
+LENS + DOF + BOKEH: 85mm, f/1.8; her sharp, the snowflake crisp, street melting to warm-and-cool bokeh — matched toward CLIP 1.
+COMPOSITION: vertical 9:16, Aira right-of-centre, the lashes/snowflake the focal accent, warm fairy-light bokeh framing — rhyming with CLIP 1.
+SUBJECT FRAMING & POSITION: Aira reads from the shoulders up, framed in an intimate close-up at a soft three-quarter, her face tilted up to the falling snow with a hand lifting to catch a flake as the glow fully recedes, the snowflake sharp on her lashes. The camera holds near distance at clean eye level; she anchors right-of-centre so the snowy street opens to frame-left — composed to match CLIP 1's opening so the loop is seamless. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: tender, cold resolution — the first-snow hush exactly as it began.
+COLOUR GRADE: VIVID warm-amber + cool-snow K-drama grade, saturated, cinematic, full mid-tone — matched to CLIP 1.
+TEXTURE & MICRO-DETAIL: individual snowflakes, lash-detail, skin pores and cold-flush, coat-wool weave, breath-fog, fairy-light bokeh.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, identity drift, resemblance to any real person, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, dull colour, garish oversaturation, flat light.
+
+### ANIMATION (this clip, ~4s — restyle reverts; LOOP back to CLIP 1)
+SHOT TYPE & ANGLE: eye-level close-up, three-quarter; subject ~55% right-of-centre.
+CAMERA MOVEMENT (CHOREOGRAPHY): a slow settle easing toward CLIP 1's exact framing — one continuous shot.
+LENS: 85mm, f/1.8.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–2.0s — ★ RESTYLE REVERTS: the warm glow recedes, the K-drama hair, makeup and wardrobe softening back to the plain beige-coat "before".
+- 2.0–3.0s — fully plain-look Aira again, she looks up at the falling snow, a small delighted breath fogging.
+- 3.0–4.0s — she holds the exact soft surprised wonder that opened CLIP 1, a flake landing on her lashes — seamless loop point.
+FLUIDITY & WEIGHT NOTES: the revert eases like warmth fading, gentle and continuous; she arrives in the opening wonder with no snap, breath and snow keeping it alive.
+FABRIC/HAIR/PROP PHYSICS: a soft warm light-bloom receding; hair softening back to flat waves with a settle; the coat reverting to beige with cloth-physics; snow continuing to fall; fairy-light bokeh dimming to the plain look.
+FOOTWORK & BODY FLOW: shoulders ease back into the everyday cold-hunch, a soft settle, head tilting up.
+MID-CLIP TRANSFORMATION (timed): ★ RESTYLE-REVERT COMPLETION at 0.0–2.0s — she fully returns to the plain before-look, resolving the style-morph.
+LIGHTING-IN-MOTION: the dreamy bloom softens back to the plain warm shop-glow and cool snow of CLIP 1.
+DIEGETIC AUDIO: the piano softening to the muffled snow-hush and a faint shop-door chime, then quiet.
+MASTER TRACK: the K-drama piano draws back to one tender piano note over the snow-hush landing exactly where CLIP 1 began — seamless loop.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 1 (LOOP back to opening) — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: a plain everyday beige coat (modest, understated "before").
+  • FOOTWEAR: out of frame.
+  • EYEWEAR: none.
+  • ACCESSORIES: none.
+  • HAIR: simple loose waves, dark brown, a little flat, a few flakes settling.
+  • MAKEUP: minimal — bare skin, a touch of balm, real pores, a cold-flushed nose.
+  • HANDS & NAILS: one hand lifting slightly to catch a flake, bare nails.
+  • FACIAL MICRO-DYNAMICS: soft surprised wonder, looking up at the snow, lips parting in a delighted fogging breath, eyes warming, a slow blink as a flake lands on the lashes.
+  • BODY POSTURE & WEIGHT: a relaxed everyday stance, shoulders a little hunched against the cold, head tilting up to the snow, breathing.
+  • KINETIC STILLNESS (8 layers): (1) the first snow drifting; (2) warm shop-window glow flickering; (3) loose waves stirring with flakes; (4) breath fogging; (5) a slow inhale; (6) fairy-light bokeh twinkling; (7) the flake landing on the lashes; (8) a delighted blink.
+  • SPATIAL LOGIC: FOREGROUND — snowflake on the lashes and lifting hand. MIDGROUND — her face, three-quarter. BACKGROUND — snowy dusk street, warm fairy-light bokeh.
+  • LIGHTING: KEY — warm dusk shop-glow. FILL — cool snow-light. RIM — warm shop-sign edge on hair. PRACTICAL — shop windows, fairy-lights, lamps. SEPARATION — warm face against the cool snowy street. BOUNCE — cool snow + warm shop kick.
+  • ATMOSPHERE: tender, cold, magical — the hush of the first snow, exactly as it began.
+  • COLOUR GRADE: VIVID warm-amber + cool-snow K-drama grade, saturated, cinematic.
+  • TEXTURE & MICRO-DETAIL: snowflakes, lash-detail, skin pores and cold-flush, coat-wool weave, breath-fog, fairy-light bokeh.
+CUT LOGIC: seamless ANGLE-CUT / LOOP back to CLIP 1 — the snowflake lands and the K-drama glow blooms again, forever.
+
+☆ EXTERNAL AUDIO — BLOCK 1: BACKGROUND SOUND DESIGN / AMBIENCE BED
+A quiet snowy street as the constant — soft muffled city hush, distant footsteps, a faint shop-door chime, the near-silence of falling snow. THROUGH-LINE: a delicate sparkle on the snowflake-trigger, recurring at the loop. Layers: the sparkle and a soft warm bloom-tone as the styling settles (CLIP 1 end); a warm romantic hush during the heroine peak (CLIP 2); the bloom softening back to the snow-hush and a shop-door chime as the look reverts (CLIP 3). Cross-fade beat to beat; the snow-hush at the end equals the start.
+☆ EXTERNAL AUDIO — BLOCK 2: BACKGROUND MUSIC / SCORE TRACK
+A tender K-drama OST feel — warm, longing, butterflies. KEY/TEMPO: C major, ~66 BPM. THE SPINE (constant): a soft solo piano, present throughout. BUILD: warm strings join as the styling blooms; a gentle romantic swell (the "first snow" theme) reaches its peak on the CLIP 2 strand-tuck (the hero beat); the swell decays as the look reverts, drawing back to one tender piano note landing exactly where the reel began — a seamless infinite loop. Warm, wistful, heart-fluttering.
+
+═══════════════════════════════════════════════════════════════════════════════
+
+✦ END — 15 TRANSFORMATION REELS (HEAVY-DETAIL, GOLD-STANDARD) ✦
+Category A — Elemental/Nature: A-1 Water · A-2 Fire & Embers · A-3 Flock of Butterflies · A-4 Flowers & Petals · A-5 Smoke & Mist
+Category B — Celestial/Fantasy: B-1 Stardust & Galaxy · B-2 Gold · B-3 Glass & Crystal · B-4 Liquid Chrome · B-5 Glowing Fairy-Sprite
+Category C — Style/Persona: C-1 Every Era (1920s–2020s) · C-2 Night Alter-Ego · C-3 Goddess · C-4 Mermaid · C-5 "K-Drama Heroine" archetype
+Each: 3 angle-cut clips (human → full transformed-figure → reform/loop), full heavy-detail keyframes + animations, STATE HANDOFF per clip, and two external audio blocks. No real-person likenesses — C-5 is an original archetype, not any specific actress.
