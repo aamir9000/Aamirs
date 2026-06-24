@@ -2015,3 +2015,201 @@ An enchanted night glade as the constant — soft crickets, a trickling stream, 
 Whimsical fairytale, warm and joyful. KEY/TEMPO: D major, ~84 BPM. THE SPINE (constant): a light pizzicato-strings, celeste and harp motif with a flute melody, present throughout. BUILD: the sparkle grows as the wings unfurl; a magical glittering swell reaches its peak on the CLIP 2 arm-arc (the hero beat); the sparkle decays as the wings fold, drawing back to one celeste note landing exactly where the reel began — a seamless infinite loop. Gentle, joyful, storybook-magical.
 
 ═══════════════════════════════════════════════════════════════════════════════
+
+
+# CATEGORY C — STYLE / PERSONA
+
+
+# CONCEPT C-1 — SHE MORPHS THROUGH EVERY ERA (1920s → 2020s)
+
+Transforms Into: her own self styled across the decades — each spin re-styles her hair, makeup and wardrobe through 1920s → 1950s → 1970s → 1990s → modern, then loops back to "now".
+Feeling: glamorous time-travel / fashion fantasy — chic, fun, iconic, rewatchable.
+★ HOOK (first ~1s): a sharp finger-snap and a swirl of light-fabric wraps her — she's suddenly in full 1920s flapper glam.
+Setting: a timeless mirrored art-studio with one rotating soft light and a neutral seamless backdrop, so the WARDROBE is the star.
+Trigger (signature): EACH FULL SPIN SHE DOES — every turn wraps her in a swirl of light/fabric and re-styles her into the next era. This is a STYLE-morph (hair + makeup + wardrobe + colour grade), not an element-morph; her FACE stays identity-locked throughout.
+Voice: SILENT — diegetic + score only.
+Duration: ~15s · 3 clips (angle-cut, style-morph chain, loops to CLIP 1).
+
+## CLIP 1 of 3 — FULL BODY · FRONT · EYE-LEVEL (modern "now" Aira → spin → 1920s, ends in 1920s)
+
+### START IMAGE (keyframe)
+ANGLE & SHOT SIZE: eye-level FULL BODY, front; modern-now Aira mid-confident-pose, about to spin, on the neutral seamless.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: a sleek modern tailored ivory pantsuit (modest, structured shoulders), crisp and contemporary — the "now" anchor she returns to.
+FOOTWEAR: pointed ivory heels.
+EYEWEAR: none.
+ACCESSORIES: minimalist modern gold — a fine chain, small studs.
+HAIR: a sleek modern blowout, deep brown, glossy.
+MAKEUP: clean modern glam — luminous skin, soft defined eye, glossy nude lip, real pores.
+HANDS & NAILS: one hand on the hip, the other relaxed, fingers poised to snap; clean neutral nails.
+FACIAL MICRO-DYNAMICS: cool modern confidence — a level direct gaze to lens, a faint knowing smile, a slow blink, crisp catchlights.
+BODY POSTURE & WEIGHT: a confident editorial stance, weight on one hip, shoulders squared, head level, poised to turn, breathing.
+KINETIC STILLNESS (8 layers): (1) the rotating soft light sweeping across the seamless; (2) the ivory suit's crisp fabric settling; (3) the glossy blowout catching light; (4) a fine-chain glint; (5) chest rising; (6) her shadow shifting on the seamless; (7) the poised snapping fingers; (8) a slow confident blink.
+SPATIAL LOGIC: FOREGROUND — her full figure and poised hand, sharp. MIDGROUND — Aira on the seamless. BACKGROUND — a clean neutral studio sweep.
+LIGHTING: KEY — a clean rotating soft key. FILL — soft neutral fill. RIM — a crisp edge on the hair and shoulders. PRACTICAL — the rotating studio light. SEPARATION — her form against the neutral sweep. BOUNCE — soft floor-bounce.
+LENS + DOF + BOKEH: 35mm, f/2.8, full-length sharp; clean studio, minimal bokeh.
+COMPOSITION: vertical 9:16, Aira centred, the neutral seamless framing, generous full-length headroom.
+SUBJECT FRAMING & POSITION: Aira reads as a complete full-length figure, squared near-front to the lens with her weight on one hip and her hand poised to snap, framed head-to-heels with clean space above and below. The camera holds a mid establishing distance at clean eye level; she anchors dead-centre on the seamless, body open and front-facing, ready to turn. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: clean, chic, anticipatory — a fashion studio about to time-travel.
+COLOUR GRADE: VIVID clean modern (the anchor) — crisp ivory and warm skin on neutral, full mid-tone, shifting to a warm sepia-gold 1920s grade by clip end.
+TEXTURE & MICRO-DETAIL: suit-wool weave (becoming beaded fringe), glossy hair, skin pores, chain glint, heel sheen.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, identity drift (face must stay Aira), resemblance to any real person, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, dull colour, garish oversaturation, flat light.
+
+### ANIMATION (this clip, ~5s — modern establishing; ★ STYLE-MORPH to 1920s mid-clip, clip ENDS in 1920s)
+SHOT TYPE & ANGLE: eye-level full body, front; subject ~50% centre.
+CAMERA MOVEMENT (CHOREOGRAPHY): a slow push that holds her centred as she spins — one continuous shot.
+LENS: 35mm, f/2.8, full-length sharp.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–1.5s — she holds the cool modern pose, then snaps her fingers and begins a full spin.
+- 1.5–4.0s — ★ STYLE-MORPH: a swirl of light-fabric wraps her mid-spin; she emerges in full 1920s — a finger-wave bob, dark dramatic lip, a beaded-fringe flapper gown (modest), sepia-gold grade.
+- 4.0–5.0s — she lands and strikes an Art-Deco pose, fringe swaying, fully 1920s.
+FLUIDITY & WEIGHT NOTES: the spin eases into the wrap and out into the pose; the re-style reads as one fluid swirl, never a hard cut; fringe and fabric carry real motion.
+FABRIC/HAIR/PROP PHYSICS: a spin-driven swirl-of-light/fabric-ribbon wipe (motion-blur reveal); the flapper fringe sways with real beaded weight; the bob settles with hair-physics; the grade shifts to warm sepia-gold as the era lands.
+FOOTWORK & BODY FLOW: a clean pivoting spin on the heel, weight rolling through the turn into a grounded Deco pose.
+MID-CLIP TRANSFORMATION (timed): ★ STYLE-MORPH NOW→1920s at 1.5–4.0s — triggered by the spin, re-styling hair, makeup, wardrobe and grade, completing within this clip; clip ends fully 1920s.
+LIGHTING-IN-MOTION: the rotating light streaks through the spin; the key warms to sepia-gold as the 1920s lands.
+DIEGETIC AUDIO: a crisp finger-snap, a magical fabric-swirl whoosh, a 1920s jazz sting landing on the pose.
+MASTER TRACK: a single ~100 BPM groove rendered as 1920s jazz as the era lands.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 2 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: a full 1920s beaded-fringe flapper gown (modest), sequins catching the warm light, fringe at rest from the pose.
+  • FOOTWEAR: 1920s T-bar heels.
+  • EYEWEAR: none.
+  • ACCESSORIES: a Deco beaded headpiece, long pearl strands, drop earrings.
+  • HAIR: a sleek dark finger-wave bob.
+  • MAKEUP: 1920s glam — a dark dramatic cupid-bow lip, smoky kohl eye, pale powder.
+  • HANDS & NAILS: one hand on the hip in a Deco pose, dark-red nails.
+  • FACIAL MICRO-DYNAMICS: playful confidence, a sultry level gaze, a faint smile, a slow blink — identity-locked Aira.
+  • BODY POSTURE & WEIGHT: a grounded Art-Deco pose, weight on one hip, one hand framing, poised to spin again.
+  • KINETIC STILLNESS (8 layers): (1) the fringe settling/swaying; (2) the rotating light on the seamless; (3) the bob's finger-wave sheen; (4) pearl strands swinging; (5) chest rising; (6) sequins glinting; (7) the headpiece catching light; (8) a slow blink.
+  • SPATIAL LOGIC: FOREGROUND — her figure and Deco pose. MIDGROUND — Aira on the seamless. BACKGROUND — neutral studio sweep, sepia-gold grade.
+  • LIGHTING: KEY — rotating warm key. FILL — soft warm fill. RIM — warm edge on the bob and shoulders. PRACTICAL — rotating studio light. SEPARATION — her form against the sweep. BOUNCE — warm floor-bounce.
+  • ATMOSPHERE: roaring-twenties glamour, warm and chic.
+  • COLOUR GRADE: VIVID warm sepia-gold 1920s, saturated, rich.
+  • TEXTURE & MICRO-DETAIL: beaded fringe, sequins, finger-wave sheen, pearl strands, kohl-eye detail.
+CUT LOGIC: hard ANGLE-CUT to CLIP 2 (medium-full, three-quarter). No frame-match needed — the angle change is the edit. State carried forward: full 1920s, poised to spin into the next era.
+
+---
+
+## CLIP 2 of 3 — MEDIUM-FULL · THREE-QUARTER · EYE-LEVEL (★ rapid 1950s → 1970s → 1990s era-morphs, the hero beat)
+
+### START IMAGE (keyframe — opens in full 1950s, reproducing the spin-out of CLIP 1's 1920s into 50s)
+ANGLE & SHOT SIZE: eye-level MEDIUM-FULL, three-quarter; Aira in full 1950s pin-up styling, mid graceful pose, on the seamless.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: a 1950s polka-dot swing dress with a nipped waist and full skirt (modest, cap sleeves), a thin belt.
+FOOTWEAR: 1950s kitten heels.
+EYEWEAR: none.
+ACCESSORIES: a silk neck-scarf, pearl studs, a slim bracelet.
+HAIR: 1950s victory-roll curls, deep brown, glossy and set.
+MAKEUP: 1950s glam — a bold red lip, winged liner, soft blushed cheek, real pores.
+HANDS & NAILS: one hand lifting the skirt's edge in a playful swish, classic red nails.
+FACIAL MICRO-DYNAMICS: bright pin-up charm — a sparkling smile, a coy direct gaze, a slow blink — identity-locked Aira.
+BODY POSTURE & WEIGHT: a playful pin-up pose, weight on one hip, the skirt swishing, shoulders bright and open, breathing.
+KINETIC STILLNESS (8 layers): (1) the swing-skirt swishing; (2) the rotating light on the seamless; (3) victory-roll curls catching light; (4) the neck-scarf fluttering; (5) chest rising; (6) the belt-buckle glinting; (7) polka-dots crisp in the light; (8) a slow bright blink.
+SPATIAL LOGIC: FOREGROUND — the swishing skirt and lifting hand. MIDGROUND — Aira three-quarter. BACKGROUND — neutral seamless, bright pastel grade.
+LIGHTING: KEY — bright clean rotating key. FILL — soft bright fill. RIM — a crisp edge on the curls and shoulder. PRACTICAL — rotating studio light. SEPARATION — her form against the seamless. BOUNCE — bright floor-bounce.
+LENS + DOF + BOKEH: 50mm, f/2.5, three-quarter; clean studio, minimal bokeh.
+COMPOSITION: vertical 9:16, Aira centred, the full swing-skirt filling the lower frame, bright pastel grade.
+SUBJECT FRAMING & POSITION: Aira reads from roughly mid-calf up in a medium-full frame, her torso at a three-quarter turn with the skirt swished toward the lens and one hand lifting its edge, her face coy and bright to camera. The camera holds mid-distance at clean eye level; she anchors dead-centre, body playful and open, mid-pin-up-pose. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: bright, playful, retro-charming — 1950s sweetheart energy.
+COLOUR GRADE: VIVID pastel 1950s — saturated candy tones, bright and clean, full mid-tone.
+TEXTURE & MICRO-DETAIL: polka-dot weave, victory-roll sheen, silk scarf, pearl studs, red-nail gloss.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, identity drift, resemblance to any real person, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, dull colour, garish oversaturation, flat light.
+
+### ANIMATION (this clip, ~6s — the hero beat; ★ rapid spins through 1950s → 1970s → 1990s, ends 1990s)
+SHOT TYPE & ANGLE: eye-level medium-full, three-quarter; subject ~55% centre.
+CAMERA MOVEMENT (CHOREOGRAPHY): a gentle arc that holds her centred through three spins — one continuous shot.
+LENS: 50mm, f/2.5.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–2.0s — ★ she swishes and spins → 1950s holds, then re-styles to 1970s: voluminous feathered hair, bronzed disco glam, a flared wide-leg jumpsuit (modest), warm earthy grade; she strikes a disco pose.
+- 2.0–4.0s — ★ spin → 1990s: sleek straight hair with clips, brown matte lip, a slip-dress-over-a-tee (modest), cool desaturated grade; she falls into a cool slouch.
+- 4.0–6.0s — she holds the 90s cool pose, poised to spin once more.
+FLUIDITY & WEIGHT NOTES: each spin eases into a swirl and out into a era-perfect pose; the re-styles read as fluid swirls, never hard cuts; each era's fabric carries true motion.
+FABRIC/HAIR/PROP PHYSICS: spin-driven swirl-of-fabric wipes per era; the jumpsuit's flares swing with weight, the feathered hair bounces, the slip-dress drapes and the tee settles; the grade re-skins per era (pastel → warm earthy → cool).
+FOOTWORK & BODY FLOW: clean pivoting spins, weight rolling through each turn into a grounded era-pose (pin-up → disco → 90s slouch).
+MID-CLIP TRANSFORMATION (timed): ★ STYLE-MORPHS 1950s→1970s (0.0–2.0s) and 1970s→1990s (2.0–4.0s) — each triggered by a spin, completing within this clip; clip ends fully 1990s.
+LIGHTING-IN-MOTION: the rotating light streaks through each spin; the key re-grades per era — bright pastel, warm earthy, cool 90s.
+DIEGETIC AUDIO: each spin a magical fabric-whoosh; a genre sting per era — rock'n'roll, disco, a 90s beat.
+MASTER TRACK: the single ~100 BPM groove re-skins per spin — 1950s rock'n'roll → 1970s disco → 1990s hip-hop — landing on the 90s beat.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 3 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: a 1990s slip-dress over a fitted tee (modest), cool-toned.
+  • FOOTWEAR: 90s strappy block heels or chunky boots.
+  • EYEWEAR: none.
+  • ACCESSORIES: thin 90s chokers, small hoops, a hair-clip.
+  • HAIR: sleek straight deep-brown hair with butterfly clips.
+  • MAKEUP: 90s style — a brown matte lip, soft bronze eye, minimal blush.
+  • HANDS & NAILS: one hand in a cool relaxed gesture, short brown-toned nails.
+  • FACIAL MICRO-DYNAMICS: cool 90s nonchalance, a level gaze, a faint smirk, a slow blink — identity-locked Aira.
+  • BODY POSTURE & WEIGHT: a cool slouchy stance, weight back on one hip, shoulders easy, poised to spin once more.
+  • KINETIC STILLNESS (8 layers): (1) the slip-dress drape settling; (2) the rotating light; (3) sleek hair catching light; (4) a choker glint; (5) chest rising; (6) the tee shifting; (7) a clip catching light; (8) a slow blink.
+  • SPATIAL LOGIC: FOREGROUND — her figure and cool pose. MIDGROUND — Aira on the seamless. BACKGROUND — neutral seamless, cool 90s grade.
+  • LIGHTING: KEY — rotating cool key. FILL — soft cool fill. RIM — cool edge on the hair. PRACTICAL — rotating studio light. SEPARATION — her form against the sweep. BOUNCE — cool floor-bounce.
+  • ATMOSPHERE: 90s cool, effortless and a little grungy.
+  • COLOUR GRADE: VIVID-but-cool 90s grade, saturated yet moody, full mid-tone.
+  • TEXTURE & MICRO-DETAIL: slip-dress satin, tee cotton, sleek-hair sheen, choker detail, clip glint.
+CUT LOGIC: hard ANGLE-CUT to CLIP 3 (full body, front). No frame-match needed. State carried forward: full 1990s, poised to spin back to "now".
+
+---
+
+## CLIP 3 of 3 — FULL BODY · FRONT · EYE-LEVEL (spin → back to modern "now"; LOOP to CLIP 1)
+
+### START IMAGE (keyframe)
+ANGLE & SHOT SIZE: eye-level FULL BODY, front; one last spin returning her to the modern "now" anchor on the seamless.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: the sleek modern tailored ivory pantsuit re-formed and intact (modest, structured shoulders), crisp and contemporary.
+FOOTWEAR: pointed ivory heels.
+EYEWEAR: none.
+ACCESSORIES: minimalist modern gold — a fine chain, small studs.
+HAIR: a sleek modern blowout, deep brown, glossy.
+MAKEUP: clean modern glam — luminous skin, soft defined eye, glossy nude lip, real pores.
+HANDS & NAILS: one hand on the hip, the other relaxed and poised to snap — matching CLIP 1 — clean neutral nails.
+FACIAL MICRO-DYNAMICS: cool modern confidence — a level direct gaze to lens, a faint knowing smile, a slow blink — exactly the look that opened CLIP 1.
+BODY POSTURE & WEIGHT: a confident editorial stance, weight on one hip, shoulders squared, head level, breathing.
+KINETIC STILLNESS (8 layers): (1) the rotating light sweeping the seamless; (2) the ivory suit settling from the spin; (3) the glossy blowout catching light; (4) a fine-chain glint; (5) chest easing on an exhale; (6) her shadow shifting; (7) the poised snapping fingers; (8) a slow confident blink.
+SPATIAL LOGIC: FOREGROUND — her full figure and poised hand, sharp. MIDGROUND — Aira on the seamless. BACKGROUND — clean neutral studio sweep.
+LIGHTING: KEY — clean rotating soft key. FILL — soft neutral fill. RIM — a crisp edge on the hair and shoulders. PRACTICAL — the rotating studio light. SEPARATION — her form against the neutral sweep. BOUNCE — soft floor-bounce.
+LENS + DOF + BOKEH: 35mm, f/2.8, full-length sharp; clean studio, minimal bokeh — matched toward CLIP 1.
+COMPOSITION: vertical 9:16, Aira centred, the neutral seamless framing, full-length headroom — rhyming with CLIP 1.
+SUBJECT FRAMING & POSITION: Aira reads as a complete full-length figure, squared near-front with her weight on one hip and her hand poised to snap, framed head-to-heels as the last spin settles her into the exact "now" stance that began the reel. The camera holds the mid establishing distance at clean eye level; she anchors dead-centre on the seamless — composed to match CLIP 1's opening so the loop is seamless. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: clean, chic resolution — the modern confidence exactly as it began.
+COLOUR GRADE: VIVID clean modern — crisp ivory and warm skin on neutral, full mid-tone — matched to CLIP 1.
+TEXTURE & MICRO-DETAIL: suit-wool weave, glossy hair, skin pores, chain glint, heel sheen.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, identity drift, resemblance to any real person, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, dull colour, garish oversaturation, flat light.
+
+### ANIMATION (this clip, ~4s — style-morph completes; LOOP back to CLIP 1)
+SHOT TYPE & ANGLE: eye-level full body, front; subject ~50% centre.
+CAMERA MOVEMENT (CHOREOGRAPHY): a slow settle easing toward CLIP 1's exact framing — one continuous shot.
+LENS: 35mm, f/2.8, full-length sharp.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–2.5s — ★ STYLE-MORPH 1990s→NOW: she spins once more; a swirl of light-fabric re-styles her back into the modern ivory-suit "now" look.
+- 2.5–4.0s — she lands the exact confident modern pose of CLIP 1, hand poised to snap — seamless loop point.
+FLUIDITY & WEIGHT NOTES: the spin eases into the swirl and out into the opening pose; the re-style reads as one fluid swirl with no snap; the suit settles with real fabric motion.
+FABRIC/HAIR/PROP PHYSICS: a spin-driven swirl-of-light/fabric wipe; the ivory suit settles with tailored weight; the blowout falls into place; the grade resolves to clean modern.
+FOOTWORK & BODY FLOW: a clean pivoting spin on the heel into the grounded "now" stance.
+MID-CLIP TRANSFORMATION (timed): ★ STYLE-MORPH COMPLETION at 0.0–2.5s — she returns fully to the modern "now" base, resolving the era-chain.
+LIGHTING-IN-MOTION: the rotating light streaks through the spin then steadies to the clean key of CLIP 1.
+DIEGETIC AUDIO: a fabric-swirl whoosh resolving into a modern beat-drop, primed to loop.
+MASTER TRACK: the ~100 BPM groove lands back on modern pop exactly where CLIP 1 began — seamless loop.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 1 (LOOP back to opening) — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: a sleek modern tailored ivory pantsuit (modest, structured shoulders), crisp and contemporary.
+  • FOOTWEAR: pointed ivory heels.
+  • EYEWEAR: none.
+  • ACCESSORIES: minimalist modern gold — a fine chain, small studs.
+  • HAIR: a sleek modern blowout, deep brown, glossy.
+  • MAKEUP: clean modern glam — luminous skin, soft defined eye, glossy nude lip, real pores.
+  • HANDS & NAILS: one hand on the hip, the other relaxed and poised to snap, clean neutral nails.
+  • FACIAL MICRO-DYNAMICS: cool modern confidence, a level direct gaze to lens, a faint knowing smile, a slow blink.
+  • BODY POSTURE & WEIGHT: a confident editorial stance, weight on one hip, shoulders squared, head level, poised to turn.
+  • KINETIC STILLNESS (8 layers): (1) the rotating light on the seamless; (2) the ivory suit settling; (3) the glossy blowout; (4) a fine-chain glint; (5) a slow inhale; (6) her shadow shifting; (7) poised snapping fingers; (8) a confident blink.
+  • SPATIAL LOGIC: FOREGROUND — full figure and poised hand. MIDGROUND — Aira on the seamless. BACKGROUND — clean neutral studio sweep.
+  • LIGHTING: KEY — clean rotating soft key. FILL — soft neutral fill. RIM — crisp edge on hair and shoulders. PRACTICAL — rotating studio light. SEPARATION — her form against the sweep. BOUNCE — soft floor-bounce.
+  • ATMOSPHERE: clean, chic, anticipatory — about to time-travel again, exactly as it began.
+  • COLOUR GRADE: VIVID clean modern, crisp ivory and warm skin on neutral, full mid-tone.
+  • TEXTURE & MICRO-DETAIL: suit-wool weave, glossy hair, skin pores, chain glint, heel sheen.
+CUT LOGIC: seamless ANGLE-CUT / LOOP back to CLIP 1 — she snaps and spins into 1920s again, forever.
+
+☆ EXTERNAL AUDIO — BLOCK 1: BACKGROUND SOUND DESIGN / AMBIENCE BED
+A clean studio room-tone as the constant. THROUGH-LINE: a crisp finger-snap + a magical fabric-swirl whoosh on every spin, recurring at each era-change and the loop. Layers: a subtle vinyl-crackle texture that updates per era (gramophone hiss → jukebox warmth → disco shimmer → tape hiss → clean digital); each era-pose lands with a soft settle. Cross-fade on each spin; the clean tone at the end equals the start.
+☆ EXTERNAL AUDIO — BLOCK 2: BACKGROUND MUSIC / SCORE TRACK
+One modern groove that RE-SKINS per era — the fun is the genre-flip on every spin. KEY/TEMPO: a constant ~100 BPM groove. THE SPINE (constant): the same beat/bassline rendered as 1920s jazz → 1950s rock'n'roll → 1970s disco → 1990s hip-hop → modern pop, snapping on each spin. BUILD: each era hits its genre on the pose; the track lands back on modern pop exactly where the reel began — a seamless infinite loop. Chic, playful, iconic.
+
+═══════════════════════════════════════════════════════════════════════════════
