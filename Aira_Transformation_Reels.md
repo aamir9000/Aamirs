@@ -243,11 +243,18 @@ MIX NOTES: keep the hero drop dry and forward (centre, +3 dB); push ambience and
 ☆ EXTERNAL AUDIO — BLOCK 2: BACKGROUND MUSIC / SCORE TRACK
 RUNTIME: exactly 24.000s, composed to the 3×8s structure · KEY: A minor · TEMPO: 75 BPM (1 bar = 3.200s; 24.000s = exactly 7.5 bars) · seamless loop.
 SPINE (constant, full 24s): a soft felt-piano single note (A) that "drips" on every 2nd beat, doubling the hero water-drop — the heartbeat the whole piece hangs on.
+NO FADE-IN — OPENS AT FULL PRESENCE: the track is already sounding at full level from sample 0 — no rising fade, no swell-from-silence. The felt-piano drip + cello drone land immediately at 0:00.000 so the reel opens with instant, rich presence.
+INSTRUMENT PALETTE (named, no vocals — beautiful instrumental bed): felt piano (hero), warm sustained cello drone, full warm string section, glassy celeste counter-melody, single upward harp gliss, soft analog pad. Rich and likeable throughout — never thin or dull.
 ARRANGEMENT (timed to picture):
 - 0:00–0:08 (CLIP 1, intro): just the dripping piano + a low sustained cello drone (A); at 0:04.8 a warm pad fades in under the liquefaction, swelling toward the cut.
 - 0:08–0:16 (CLIP 2, the hero bloom): full warm string section enters on the downbeat at 0:08; a glassy celeste counter-melody; the music PEAKS at 0:11.2 exactly on the water-arm arc (string swell + a single upward harp glissando), then begins to recede at 0:14.4.
 - 0:16–0:24 (CLIP 3, resolve): strings decay, instruments drop away one per bar; by 0:20 only the cello drone and the dripping piano remain; the final piano drip lands at 0:23.8 on the exact pitch/velocity that opens 0:00.
 LOOP LOCK: the 24.000s downbeat = the 0:00 downbeat. FEEL: serene, hypnotic, "I could watch this forever."
+★ BEAT/ACCENT PLACEMENT (lives in each clip's INBUILT DIEGETIC audio, not this score) — every hit is baked into the clip's OWN audio at the exact second the on-picture event happens, so over a strong master track the accents read as if embedded in the music:
+- CLIP 1 (0:00–0:08): 0:02.6 — droplet DETACHES (rising pitch pop); 0:02.8 — drop HITS water (crisp PLINK + low sub-thud + expanding ripple); 0:04.8 — liquefaction onset (granular liquid-shimmer rises).
+- CLIP 2 (0:08–0:16): 0:08.0 — body bloom (deep watery BODY-HUM swells on the cut); 0:11.2 — HERO ACCENT, the water-arm arc (feathered droplet-spray sweep L→R, the on-beat peak hit); 0:14.4 — the gather/suck (reversed-liquid inhale building to the cut).
+- CLIP 3 (0:16–0:24): 0:16.0 — collapsing SPLASH on the cut; 0:20.0 — settle to mirror-still; 0:23.8 — a single fresh DROPLET swells (loop-seed hit, identical to 0:00).
+SYNC LOCK: every accent lands on-picture on the true 8s-per-clip grid; the score leaves headroom at these instants so each diegetic hit punches through and fuses with the bed.
 
 
 ═══════════════════════════════════════════════════════════════════════════════
@@ -462,11 +469,18 @@ MIX NOTES: keep the sub-heartbeat constant under everything; roar wide and warm 
 ☆ EXTERNAL AUDIO — BLOCK 2: BACKGROUND MUSIC / SCORE TRACK
 RUNTIME: exactly 24.000s · KEY: D minor · TEMPO: 75 BPM (bar = 3.200s; 24.000s = 7.5 bars) · seamless loop.
 SPINE (constant, full 24s): a slow tribal heartbeat-drum (kick on beats 1 & 3) + a deep sustained drone (D) — the pulse of contained power.
+NO FADE-IN — OPENS AT FULL PRESENCE: the heartbeat-drum + drone are already pounding at full level from sample 0 — no fade-up, no swell-from-silence. The pulse hits immediately at 0:00.000 so the reel opens dangerous and present.
+INSTRUMENT PALETTE (named, instrumental-led — wordless low choir used only as texture): tribal heartbeat-drum (hero pulse), deep sustained drone (D), haunting solo cello, warm brass section, low wordless choir swell, sub-boom. Rich, warm and controlled — never thin, harsh or dull.
 ARRANGEMENT:
 - 0:00–0:08: drone + heartbeat-drum only; a lone haunting solo CELLO line enters at 0:02.9 on the exhale, bowing a slow rising figure to the cut.
 - 0:08–0:16: on the 0:08 downbeat a BRASS + low CHOIR swell ignites with the flame-body; the score PEAKS at 0:11.2 exactly on the flaming arm-arc (full brass hit + choir crescendo), then pulls back at 0:14.4.
 - 0:16–0:24: brass and choir decay over 4 s; by 0:20 only the cello, drone and heartbeat remain; the final cello note + one heartbeat-kick lands at 0:23.8 matching the 0:00 pulse.
 LOOP LOCK: 24.000s kick = 0:00 kick. FEEL: fierce, elegant, dangerous-but-controlled — cinematic power, not chaos.
+★ BEAT/ACCENT PLACEMENT (lives in each clip's INBUILT DIEGETIC audio, not this score) — every hit is baked into the clip's OWN audio at the exact second the on-picture event happens, so over a strong master track the accents read as if embedded in the music:
+- CLIP 1 (0:00–0:08): 0:02.9 — the SLOW EXHALE / finger-snap that ignites (a soft whoomph + first ember crackle); 0:04.0–0:07.0 — flame catches her hair (rising fire-whoosh + ember ticks building to the cut).
+- CLIP 2 (0:08–0:16): 0:08.0 — the roar blooms on the cut (deep warm fire-ROAR swell); 0:11.2 — HERO ACCENT, the flaming arm-arc (sharp flame-whoosh + a burst of ember-pops, the on-beat peak hit); 0:14.4 — embers begin to rain (settling tick pattern toward the cut).
+- CLIP 3 (0:16–0:24): 0:16.0 — collapsing HISS as fire cools on the cut; 0:20.0 — void air returns; 0:23.5 — the breathy exhale begins again (loop-seed hit, identical to 0:02.9's source).
+SYNC LOCK: every accent lands on-picture on the true 8s-per-clip grid; the score leaves headroom at these instants so each diegetic hit punches through and fuses with the bed.
 
 
 ═══════════════════════════════════════════════════════════════════════════════
@@ -681,11 +695,18 @@ MIX NOTES: build the swarm from many de-tuned, de-timed wing layers (never a sin
 ☆ EXTERNAL AUDIO — BLOCK 2: BACKGROUND MUSIC / SCORE TRACK
 RUNTIME: exactly 24.000s · KEY: C major · TEMPO: 90 BPM (bar = 2.667s; 24.000s = exactly 9 bars) · seamless loop.
 SPINE (constant): a light plucked harp/celeste arpeggio in C, gently rolling — the twinkle that carries the whole piece.
+NO FADE-IN — OPENS AT FULL PRESENCE: the harp/celeste arpeggio is already rolling at full level from sample 0 — no fade-up, no swell-from-silence — so the reel opens bright and present at 0:00.000.
+INSTRUMENT PALETTE (named, all-instrumental, no vocals): plucked harp + celeste (hero twinkle), soft sustained strings, music-box motif, warm flute melody, glockenspiel sparkle. Bright, warm and likeable — never thin or dull.
 ARRANGEMENT:
 - 0:00–0:08: harp arpeggio + soft sustained strings; a music-box motif enters at 0:02.6 on the breath; a building shimmer toward the cut.
 - 0:08–0:16: on the 0:08 downbeat full warm strings + a flute melody bloom with the swarm; a GLOCKENSPIEL sparkle PEAKS at 0:11.2 on the arm-arc (bright glissando), easing back at 0:14.4.
 - 0:16–0:24: the sparkle settles; strings soften; by 0:20 just harp + celeste; the final harp note lands at 0:23.7 matching 0:00.
 LOOP LOCK: 9-bar phrase resolves exactly at 24.000s onto the 0:00 downbeat. FEEL: whimsical, warm, fairytale-joyful — the showstopper.
+★ BEAT/ACCENT PLACEMENT (lives in each clip's INBUILT DIEGETIC audio, not this score) — every hit is baked into the clip's OWN audio at the exact second the on-picture event happens, so over a strong master track the accents read as if embedded in the music:
+- CLIP 1 (0:00–0:08): 0:02.6 — the breath toward the butterfly (a soft chime + first flutter-flurry as wings stir); 0:04.0–0:07.0 — she begins to scatter from the edges (a rising cloud of tiny wingbeats building to the cut).
+- CLIP 2 (0:08–0:16): 0:08.0 — the full swarm blooms on the cut (a warm wash of thousands of wings); 0:11.2 — HERO ACCENT, the arm-arc (a bright glockenspiel-like wing-shimmer sweep, the on-beat peak hit); 0:14.4 — the swarm begins to funnel inward (wingbeats tightening toward the cut).
+- CLIP 3 (0:16–0:24): 0:16.0 — the funnel re-gathers on the cut (a soft whoosh of wings condensing); 0:20.0 — settle to stillness; 0:23.7 — one last wing-flutter (loop-seed hit, matching 0:00).
+SYNC LOCK: every accent lands on-picture on the true 8s-per-clip grid; the score leaves headroom at these instants so each diegetic hit punches through and fuses with the bed.
 
 
 ═══════════════════════════════════════════════════════════════════════════════
@@ -900,11 +921,18 @@ MIX NOTES: blooms must sound organic and "wet" (layer real plant-creak + subtle 
 ☆ EXTERNAL AUDIO — BLOCK 2: BACKGROUND MUSIC / SCORE TRACK
 RUNTIME: exactly 24.000s · KEY: G major · TEMPO: 75 BPM (bar = 3.200s; 24.000s = 7.5 bars) · seamless loop.
 SPINE (constant): a soft fingerpicked nylon guitar/harp motif in G with a delicate music-box counter-line — tender and blossoming.
+NO FADE-IN — OPENS AT FULL PRESENCE: the fingerpicked guitar + music-box are already sounding at full level from sample 0 — no fade-up, no swell-from-silence — so the reel opens warm and present at 0:00.000.
+INSTRUMENT PALETTE (named, all-instrumental, no vocals): fingerpicked nylon guitar (hero, warm), harp, delicate music-box counter-line, warm string section, soft woodwind bloom, low warm pad. Lush and likeable — never thin or dull.
 ARRANGEMENT:
 - 0:00–0:08: fingerpicked guitar + a low warm pad; the music-box motif enters at 0:02.6 on the bud-burst; soft strings swell toward the cut.
 - 0:08–0:16: on 0:08 full warm strings + woodwind bloom with the petals; the melody PEAKS at 0:11.2 on the arm-arc (string crest + harp roll), receding at 0:14.4.
 - 0:16–0:24: strings soften, instruments drop per bar; by 0:20 just guitar + music-box; final plucked note lands at 0:23.8 matching 0:00 — a touch bittersweet.
 LOOP LOCK: 7.5-bar phrase pushes onto the 0:00 downbeat at 24.000s. FEEL: romantic, tender, gently bittersweet rebirth.
+★ BEAT/ACCENT PLACEMENT (lives in each clip's INBUILT DIEGETIC audio, not this score) — every hit is baked into the clip's OWN audio at the exact second the on-picture event happens, so over a strong master track the accents read as if embedded in the music:
+- CLIP 1 (0:00–0:08): 0:02.6 — the BUD-BURST (a soft organic unfurl + a delicate petal-rustle); 0:04.0–0:07.0 — the bloom spreads up the body (layered petal-unfurls rising to the cut).
+- CLIP 2 (0:08–0:16): 0:08.0 — the full floral form blooms on the cut (a soft swelling rustle of massed petals); 0:11.2 — HERO ACCENT, the arm-arc (a bright petal-spray sweep + a single harp-roll, the on-beat peak hit); 0:14.4 — petals begin to loosen (a soft drifting scatter toward the cut).
+- CLIP 3 (0:16–0:24): 0:16.0 — petals scatter then re-gather on the cut (a gentle whoosh of petals drawing inward); 0:20.0 — settle to stillness; 0:23.8 — one last petal settles (loop-seed hit, matching 0:00).
+SYNC LOCK: every accent lands on-picture on the true 8s-per-clip grid; the score leaves headroom at these instants so each diegetic hit punches through and fuses with the bed.
 
 
 ═══════════════════════════════════════════════════════════════════════════════
@@ -1119,11 +1147,18 @@ MIX NOTES: this is a study in restraint — keep levels low and the space huge; 
 ☆ EXTERNAL AUDIO — BLOCK 2: BACKGROUND MUSIC / SCORE TRACK
 RUNTIME: exactly 24.000s · KEY: C# minor (noir) · TEMPO: 60 BPM (bar = 4.000s; 24.000s = exactly 6 bars) · seamless loop.
 SPINE (constant): a soft upright double-bass walking slow + a brushed-snare whisper — smoky, late-night, restrained.
+NO FADE-IN — OPENS AT FULL PRESENCE: the walking double-bass + brushed snare are already grooving at full level from sample 0 — no fade-up, no swell-from-silence — so the reel opens intimate and present at 0:00.000.
+INSTRUMENT PALETTE (named, all-instrumental, no vocals): upright double-bass (hero, walking), brushed snare, muted trumpet (blue, bending), low Rhodes, reverberant string pad. Smoky, warm and likeable — never thin or dull.
 ARRANGEMENT:
 - 0:00–0:08: bass + brushes only; a muted-trumpet (or low Rhodes) motif enters at 0:02.9 on the exhale, breathy and blue.
 - 0:08–0:16: a reverberant string/Rhodes pad swells under the smoke-body; the muted trumpet PEAKS at 0:11.2 on the arm-arc (a single held, bending note), receding at 0:14.4.
 - 0:16–0:24: the pad dissolves; by 0:20 just bass + brushes; the final bass note lands at 0:23.8 matching 0:00.
 LOOP LOCK: 6-bar phrase resolves at 24.000s onto the 0:00 downbeat. FEEL: mysterious, elegant, sultry-but-modest noir.
+★ BEAT/ACCENT PLACEMENT (lives in each clip's INBUILT DIEGETIC audio, not this score) — every hit is baked into the clip's OWN audio at the exact second the on-picture event happens, so over a strong master track the accents read as if embedded in the music:
+- CLIP 1 (0:00–0:08): 0:02.9 — the slow EXHALE that unravels her (a soft breath + first wisp of smoke-hiss); 0:04.0–0:07.0 — she dissolves into vapour (a rising airy swirl building to the cut).
+- CLIP 2 (0:08–0:16): 0:08.0 — the smoke-body blooms on the cut (a low drifting vapour-hum swells); 0:11.2 — HERO ACCENT, the arm-arc (a soft curling smoke-sweep + a single brushed-cymbal swell, the on-beat peak hit); 0:14.4 — the vapour begins to condense (an inward-drawing breath toward the cut).
+- CLIP 3 (0:16–0:24): 0:16.0 — the smoke condenses back on the cut (a soft settling hush); 0:20.0 — still air returns; 0:23.8 — one last slow exhale begins (loop-seed hit, matching 0:02.9's source).
+SYNC LOCK: every accent lands on-picture on the true 8s-per-clip grid; the score leaves headroom at these instants so each diegetic hit punches through and fuses with the bed.
 
 
 ═══════════════════════════════════════════════════════════════════════════════
@@ -1341,11 +1376,18 @@ MIX NOTES: enormous stereo width and depth; keep the void floor felt not heard; 
 ☆ EXTERNAL AUDIO — BLOCK 2: BACKGROUND MUSIC / SCORE TRACK
 RUNTIME: exactly 24.000s · KEY: E minor · TEMPO: 60 BPM (bar = 4.000s; 24.000s = exactly 6 bars) · seamless loop.
 SPINE (constant): a slow ethereal pad in E minor + a wordless female "ah" choir held low — celestial and weightless.
+NO FADE-IN — OPENS AT FULL PRESENCE: the ethereal pad + low choir are already sounding at full level from sample 0 — no fade-up, no swell-from-silence — so the reel opens vast and present at 0:00.000.
+INSTRUMENT PALETTE (named, instrumental-led — wordless "ah" choir used only as celestial texture): ethereal pad (E minor), low wordless choir, glassy bell motif, full string section, celesta cascade. Deep, lush and likeable — never thin or dull.
 ARRANGEMENT:
 - 0:00–0:08: pad + faint choir; a sparse glassy BELL motif enters at 0:02.9 on the star-ignite, ringing into the spread.
 - 0:08–0:16: the choir opens fully and strings rise with the galaxy; the score PEAKS at 0:11.2 on the arm-arc (grand string + choir crescendo + a celesta cascade), easing at 0:14.4.
 - 0:16–0:24: the choir and strings decay into reverb; by 0:20 just the pad and one bell; the final bell lands at 0:23.8 matching 0:00.
 LOOP LOCK: 6-bar phrase resolves at 24.000s onto the 0:00 downbeat. FEEL: vast, sacred, transcendent — goosebumps.
+★ BEAT/ACCENT PLACEMENT (lives in each clip's INBUILT DIEGETIC audio, not this score) — every hit is baked into the clip's OWN audio at the exact second the on-picture event happens, so over a strong master track the accents read as if embedded in the music:
+- CLIP 1 (0:00–0:08): 0:02.9 — the STAR-IGNITE (a soft glassy chime + first shimmer of forming stars); 0:04.0–0:07.0 — the galaxy spreads from her core (a rising cosmic-sparkle wash to the cut).
+- CLIP 2 (0:08–0:16): 0:08.0 — the full galaxy blooms on the cut (a deep weightless cosmic-bloom swell); 0:11.2 — HERO ACCENT, the arm-arc (a bright celesta cascade + a star-burst shimmer, the on-beat peak hit); 0:14.4 — the stars begin to draw inward (a soft cosmic inhale toward the cut).
+- CLIP 3 (0:16–0:24): 0:16.0 — the galaxy re-condenses on the cut (a soft settling shimmer); 0:20.0 — still starfield hush; 0:23.8 — one last star-twinkle (loop-seed hit, matching 0:00).
+SYNC LOCK: every accent lands on-picture on the true 8s-per-clip grid; the score leaves headroom at these instants so each diegetic hit punches through and fuses with the bed.
 
 
 ═══════════════════════════════════════════════════════════════════════════════
@@ -1560,11 +1602,18 @@ MIX NOTES: gold-hum rich and resonant (think bowed gong, low and warm); chimes b
 ☆ EXTERNAL AUDIO — BLOCK 2: BACKGROUND MUSIC / SCORE TRACK
 RUNTIME: exactly 24.000s · KEY: C major (regal) · TEMPO: 67.5 BPM (bar = 3.556s; 24.000s = exactly 6.75 bars) · seamless loop.
 SPINE (constant): a slow baroque-tinged harpsichord/pizzicato figure + a deep sustained cello — opulent and stately.
+NO FADE-IN — OPENS AT FULL PRESENCE: the harpsichord/pizzicato + cello are already sounding at full level from sample 0 — no fade-up, no swell-from-silence — so the reel opens opulent and present at 0:00.000.
+INSTRUMENT PALETTE (named, all-instrumental, no vocals): baroque harpsichord + pizzicato strings (hero), deep sustained cello, full string section, warm horn section, harp glissando. Rich, regal and likeable — never thin or dull.
 ARRANGEMENT:
 - 0:00–0:08: harpsichord + cello; a single ornament lands at 0:02.6 on the gold-touch; strings begin rising under the gilding.
 - 0:08–0:16: on 0:08 a GRAND ORCHESTRAL swell (full strings + horns) blooms with the gold-figure; the score PEAKS at 0:11.2 on the arm-arc (orchestral hit + harp glissando), receding at 0:14.4.
 - 0:16–0:24: the orchestra decays nobly; by 0:20 just harpsichord + cello; the final harpsichord note lands at 0:23.8 matching 0:00.
 LOOP LOCK: the 6.75-bar phrase resolves onto the 0:00 downbeat at 24.000s. FEEL: luxurious, powerful, museum-grand.
+★ BEAT/ACCENT PLACEMENT (lives in each clip's INBUILT DIEGETIC audio, not this score) — every hit is baked into the clip's OWN audio at the exact second the on-picture event happens, so over a strong master track the accents read as if embedded in the music:
+- CLIP 1 (0:00–0:08): 0:02.6 — the GOLD-TOUCH ignites (a bright metallic shimmer-chime + first gilding spread); 0:04.0–0:07.0 — the gold climbs up the body (a rising liquid-metal shimmer to the cut).
+- CLIP 2 (0:08–0:16): 0:08.0 — the full gold-figure blooms on the cut (a grand gilded swell); 0:11.2 — HERO ACCENT, the arm-arc (a bright metallic ring + harp glissando, the on-beat peak hit); 0:14.4 — the gold begins to flow back (a settling metallic shimmer toward the cut).
+- CLIP 3 (0:16–0:24): 0:16.0 — the gold re-resolves on the cut (a noble settling chime); 0:20.0 — still gilded hush; 0:23.8 — one last gold-glint (loop-seed hit, matching 0:00).
+SYNC LOCK: every accent lands on-picture on the true 8s-per-clip grid; the score leaves headroom at these instants so each diegetic hit punches through and fuses with the bed.
 
 
 ═══════════════════════════════════════════════════════════════════════════════
@@ -1779,11 +1828,18 @@ MIX NOTES: pristine and clean (no low-end clutter); glass tones tuned to the sco
 ☆ EXTERNAL AUDIO — BLOCK 2: BACKGROUND MUSIC / SCORE TRACK
 RUNTIME: exactly 24.000s · KEY: A major · TEMPO: 70 BPM (bar = 3.429s; 24.000s = exactly 7 bars) · seamless loop.
 SPINE (constant): a glass-harmonica / glockenspiel motif in A + soft high strings — ethereal and luminous.
+NO FADE-IN — OPENS AT FULL PRESENCE: the glass-harmonica + glockenspiel are already ringing at full level from sample 0 — no fade-up, no swell-from-silence — so the reel opens luminous and present at 0:00.000.
+INSTRUMENT PALETTE (named, all-instrumental, no vocals): glass-harmonica + glockenspiel (hero shimmer), soft high strings, celeste cascade, bright harp. Crystalline, lush and likeable — never thin or dull.
 ARRANGEMENT:
 - 0:00–0:08: glass-harmonica + airy pad; a glockenspiel figure enters at 0:02.6 on the light-touch; a shimmering rise toward the cut.
 - 0:08–0:16: full high strings + a celeste cascade bloom with the crystal form; the score PEAKS at 0:11.2 on the arm-arc (a bright harp + glass crescendo), easing at 0:14.4.
 - 0:16–0:24: the shimmer decays; by 0:20 just glass-harmonica; the final glassy note lands at 0:23.8 matching 0:00.
 LOOP LOCK: 7-bar phrase resolves at 24.000s onto the 0:00 downbeat. FEEL: fragile, prismatic, luminous.
+★ BEAT/ACCENT PLACEMENT (lives in each clip's INBUILT DIEGETIC audio, not this score) — every hit is baked into the clip's OWN audio at the exact second the on-picture event happens, so over a strong master track the accents read as if embedded in the music:
+- CLIP 1 (0:00–0:08): 0:02.6 — the LIGHT-TOUCH that crystallizes her (a delicate glass-ting + first prismatic shimmer); 0:04.0–0:07.0 — the crystal climbs the body (a rising glassy chime-cascade to the cut).
+- CLIP 2 (0:08–0:16): 0:08.0 — the full crystal form blooms on the cut (a shimmering glassy swell); 0:11.2 — HERO ACCENT, the arm-arc (a bright glass-crescendo + harp roll, the on-beat peak hit); 0:14.4 — the crystal begins to soften back (a settling chime toward the cut).
+- CLIP 3 (0:16–0:24): 0:16.0 — the crystal re-resolves to skin on the cut (a gentle settling ting); 0:20.0 — still prismatic hush; 0:23.8 — one last glass-glint (loop-seed hit, matching 0:00).
+SYNC LOCK: every accent lands on-picture on the true 8s-per-clip grid; the score leaves headroom at these instants so each diegetic hit punches through and fuses with the bed.
 
 
 ═══════════════════════════════════════════════════════════════════════════════
@@ -1998,11 +2054,18 @@ MIX NOTES: keep it sleek and controlled (no harsh high fizz); the sub-hum gives 
 ☆ EXTERNAL AUDIO — BLOCK 2: BACKGROUND MUSIC / SCORE TRACK
 RUNTIME: exactly 24.000s · KEY: F# minor · TEMPO: 90 BPM (bar = 2.667s; 24.000s = exactly 9 bars) · seamless loop.
 SPINE (constant): a cool minimal synth pulse (muted 1/8 note stabs) + a deep analog sub-bass — modern and sleek.
+NO FADE-IN — OPENS AT FULL PRESENCE: the synth pulse + sub-bass are already driving at full level from sample 0 — no fade-up, no swell-from-silence — so the reel opens sleek and present at 0:00.000.
+INSTRUMENT PALETTE (named, all-instrumental, no vocals): cool minimal synth pulse (hero stabs), deep analog sub-bass, glassy arpeggio, wide synth swell, filtered synth lead. Modern, full and likeable — never thin or dull.
 ARRANGEMENT:
 - 0:00–0:08: synth pulse + sub; a glassy arpeggio enters at 0:02.6 on the chrome trigger; tension building to the cut.
 - 0:08–0:16: on 0:08 a wide shimmering SYNTH SWELL + a filtered lead bloom with the chrome-figure; the track PEAKS at 0:11.2 on the arm-arc (a bright synth riser + a single zing), easing at 0:14.4.
 - 0:16–0:24: the swell filters down; by 0:20 just the pulse + sub; the final synth note lands at 0:23.8 matching 0:00.
 LOOP LOCK: 9-bar phrase resolves at 24.000s onto the 0:00 downbeat. FEEL: futuristic, high-fashion, sci-fi-cool.
+★ BEAT/ACCENT PLACEMENT (lives in each clip's INBUILT DIEGETIC audio, not this score) — every hit is baked into the clip's OWN audio at the exact second the on-picture event happens, so over a strong master track the accents read as if embedded in the music:
+- CLIP 1 (0:00–0:08): 0:02.6 — the CHROME TRIGGER (a slick liquid-metal morph-zing + first reflective ripple); 0:04.0–0:07.0 — the chrome flows up the body (a rising metallic-liquid sweep to the cut).
+- CLIP 2 (0:08–0:16): 0:08.0 — the full chrome-figure blooms on the cut (a wide shimmering synth-swell); 0:11.2 — HERO ACCENT, the arm-arc (a bright synth riser + a single metallic zing, the on-beat peak hit); 0:14.4 — the chrome begins to flow back (a filtering-down sweep toward the cut).
+- CLIP 3 (0:16–0:24): 0:16.0 — the chrome re-resolves to skin on the cut (a slick settling ripple); 0:20.0 — sleek still hush; 0:23.8 — one last chrome-glint (loop-seed hit, matching 0:00).
+SYNC LOCK: every accent lands on-picture on the true 8s-per-clip grid; the score leaves headroom at these instants so each diegetic hit punches through and fuses with the bed.
 
 
 ═══════════════════════════════════════════════════════════════════════════════
@@ -2217,11 +2280,18 @@ MIX NOTES: keep crickets/stream soft and natural under the magic; bells warm not
 ☆ EXTERNAL AUDIO — BLOCK 2: BACKGROUND MUSIC / SCORE TRACK
 RUNTIME: exactly 24.000s · KEY: D major · TEMPO: 90 BPM (bar = 2.667s; 24.000s = exactly 9 bars) · seamless loop.
 SPINE (constant): a light pizzicato-strings + celeste + harp motif in D, with a soft flute — whimsical and warm.
+NO FADE-IN — OPENS AT FULL PRESENCE: the pizzicato + celeste + harp are already sounding at full level from sample 0 — no fade-up, no swell-from-silence — so the reel opens sparkling and present at 0:00.000.
+INSTRUMENT PALETTE (named, all-instrumental, no vocals): pizzicato strings + celeste + harp (hero sparkle), soft flute melody, glittering glockenspiel, warm string section. Bright, warm and likeable — never thin or dull.
 ARRANGEMENT:
 - 0:00–0:08: pizzicato + celeste; the flute melody enters at 0:02.6 on the wisp-chime; a sparkling rise toward the cut.
 - 0:08–0:16: full warm strings + glittering glockenspiel bloom with the fairy-form; the score PEAKS at 0:11.2 on the arm-arc (magical glissando + flute crest), easing at 0:14.4.
 - 0:16–0:24: the sparkle settles; by 0:20 just celeste + harp; the final celeste note lands at 0:23.8 matching 0:00.
 LOOP LOCK: 9-bar phrase resolves at 24.000s onto the 0:00 downbeat. FEEL: storybook-magical, gentle, joyful.
+★ BEAT/ACCENT PLACEMENT (lives in each clip's INBUILT DIEGETIC audio, not this score) — every hit is baked into the clip's OWN audio at the exact second the on-picture event happens, so over a strong master track the accents read as if embedded in the music:
+- CLIP 1 (0:00–0:08): 0:02.6 — the WISP-CHIME that sparks the sprite-glow (a delicate fairy-chime + first pixie-dust shimmer); 0:04.0–0:07.0 — the glow spreads over her (a rising sparkle-flurry to the cut).
+- CLIP 2 (0:08–0:16): 0:08.0 — the full fairy-form blooms on the cut (a glittering warm swell); 0:11.2 — HERO ACCENT, the arm-arc (a magical glissando + flute crest + dust-sparkle, the on-beat peak hit); 0:14.4 — the glow begins to settle (a soft sparkle-fall toward the cut).
+- CLIP 3 (0:16–0:24): 0:16.0 — the sprite-glow re-resolves to skin on the cut (a gentle settling chime); 0:20.0 — soft glowing hush; 0:23.8 — one last pixie-twinkle (loop-seed hit, matching 0:00).
+SYNC LOCK: every accent lands on-picture on the true 8s-per-clip grid; the score leaves headroom at these instants so each diegetic hit punches through and fuses with the bed.
 
 
 ═══════════════════════════════════════════════════════════════════════════════
@@ -2433,11 +2503,18 @@ MIX NOTES: each spin-whoosh is the edit glue; the recording-texture swap sells t
 ☆ EXTERNAL AUDIO — BLOCK 2: BACKGROUND MUSIC / SCORE TRACK
 RUNTIME: exactly 24.000s · ONE GROOVE, RE-SKINNED PER ERA · TEMPO: 100 BPM constant (bar = 2.400s; 24.000s = exactly 10 bars) · the SAME bassline/beat throughout so the loop and genre-flips lock perfectly.
 SPINE (constant): one 100 BPM drum-and-bass groove; only the instrumentation/production re-skins on each spin — the joke and the hook.
+NO FADE-IN — OPENS AT FULL PRESENCE: the 100 BPM groove + opening modern-pop tag are already playing at full level from sample 0 — no fade-up, no swell-from-silence — so the reel opens locked-in and present at 0:00.000.
+INSTRUMENT PALETTE (named, era-skinned over a constant groove): 1920s jazz (muted trumpet, banjo, ride cymbal) · 1950s rock'n'roll (slap upright bass, twangy guitar) · 1970s disco (four-on-the-floor kit, lush strings, wah guitar) · 1990s hip-hop (boom-bap kick/snare, vinyl scratch) · modern pop (full current production). Each skin is rich and likeable — never thin or dull.
 ARRANGEMENT (genre-flip on each spin, all at 100 BPM):
 - 0:00–0:08 (CLIP 1): 0:00 a brief modern-pop tag, then on the 0:01.5 spin → 1920s JAZZ (muted trumpet, banjo, ride) holding to the cut.
 - 0:08–0:16 (CLIP 2): 0:08 spin → 1950s ROCK'N'ROLL (slap upright bass, twangy guitar); 0:10.7 spin → 1970s DISCO (four-on-the-floor, strings, wah guitar); 0:13.3 spin → 1990s HIP-HOP (boom-bap kick/snare, vinyl scratch).
 - 0:16–0:24 (CLIP 3): 0:16 spin → MODERN POP (the full current production) building to a clean drop at ~0:18.5; rides to 0:24.
 LOOP LOCK: the 100 BPM groove and the modern-pop tag at 24.000s = the 0:00 tag — the genre-flip restarts seamlessly. FEEL: chic, playful, iconic — the genre changing on every spin is the dopamine.
+★ BEAT/ACCENT PLACEMENT (lives in each clip's INBUILT DIEGETIC audio, not this score) — the SPIN trigger and each genre-flip hit are baked into the clip's OWN audio at the exact second the on-picture spin happens, so over a strong master track the accents read as if embedded in the music:
+- CLIP 1 (0:00–0:08): 0:01.5 — the SPIN (a vinyl/turntable scratch-stab) that flips the world to 1920s jazz (the hit lands on the genre change).
+- CLIP 2 (0:08–0:16): 0:08.0 — spin-stab → 1950s rock'n'roll on the cut; 0:10.7 — spin-stab → 1970s disco; 0:13.3 — spin-stab → 1990s hip-hop. Each spin is a sharp on-beat scratch/hit landing exactly on the era-flip.
+- CLIP 3 (0:16–0:24): 0:16.0 — spin-stab → MODERN POP on the cut; 0:18.5 — the clean DROP (the biggest accent, full production punches in); rides to 0:24, where the modern-pop tag re-seeds the loop at 0:23.8.
+SYNC LOCK: every spin/accent lands on-picture on the true 8s-per-clip grid; the score leaves headroom at these instants so each diegetic spin punches through and fuses with the bed.
 
 
 ═══════════════════════════════════════════════════════════════════════════════
@@ -2649,11 +2726,18 @@ MIX NOTES: the day/night beds must be clearly different timbres so the swap read
 ☆ EXTERNAL AUDIO — BLOCK 2: BACKGROUND MUSIC / SCORE TRACK
 RUNTIME: exactly 24.000s · ONE SONG, TWO ENERGIES · same chord progression rendered soft-acoustic (day) vs bass-glam (night) · TEMPO: 95 BPM (bar = 2.526s; 24.000s ≈ 9.5 bars) · seamless loop.
 SPINE (constant): the same 4-chord progression and melody throughout; only the production flips — the drop sells the glow-up.
+NO FADE-IN — OPENS AT FULL PRESENCE: the 4-chord progression is already playing at full level from sample 0 — no fade-up, no swell-from-silence — so the reel opens warm and present at 0:00.000.
+INSTRUMENT PALETTE (named, one progression, two productions): DAY = mellow acoustic guitar, brushed drums, gentle warm keys; NIGHT = deep sub-bass, crisp claps, sultry synth lead, a single vocal-chop hit. Both productions are rich and likeable — never thin or dull.
 ARRANGEMENT:
 - 0:00–0:08 (CLIP 1, day): soft warm acoustic/lo-fi — mellow guitar, brushed drums, gentle keys; a small swell on the 0:03.0 eye-open hinting the drop.
 - 0:08–0:16 (CLIP 2, night): on 0:08 the BEAT DROPS — a confident bass-heavy glam beat (deep sub, crisp claps, a sultry synth lead); the track PEAKS at 0:10.7 on the hair-flip power-pose (full drop + a vocal-chop hit), riding to 0:14.4.
 - 0:16–0:24 (CLIP 3, back to day): on 0:16 a filter-down returns to the soft acoustic version; by 0:20 mellow and warm; the final soft chord lands at 0:23.8 matching 0:00.
 LOOP LOCK: progression resolves at 24.000s onto the 0:00 chord. FEEL: confident, magnetic — soft warmth into a glow-up drop and back.
+★ BEAT/ACCENT PLACEMENT (lives in each clip's INBUILT DIEGETIC audio, not this score) — the BLINK trigger and the drop hit are baked into the clip's OWN audio at the exact second the on-picture event happens, so over a strong master track the accents read as if embedded in the music:
+- CLIP 1 (0:00–0:08, day): 0:03.0 — the slow EYE-OPEN that hints the flip (a soft rising shimmer, the day-energy swell).
+- CLIP 2 (0:08–0:16, night): 0:08.0 — the BLINK → the BEAT DROPS on the cut (a deep bass-drop + crisp clap, the biggest accent); 0:10.7 — HERO ACCENT, the hair-flip power-pose (a vocal-chop hit + clap, the on-beat peak); rides to 0:14.4.
+- CLIP 3 (0:16–0:24, back to day): 0:16.0 — the blink-back → filter-down to soft acoustic on the cut; 0:20.0 — mellow warm hush; 0:23.8 — the soft chord re-seeds the loop (matching 0:00).
+SYNC LOCK: every accent lands on-picture on the true 8s-per-clip grid; the score leaves headroom at these instants so each diegetic hit punches through and fuses with the bed.
 
 
 ═══════════════════════════════════════════════════════════════════════════════
@@ -2867,11 +2951,18 @@ MIX NOTES: enormous reverberant space; keep the low hum constant and felt; the s
 ☆ EXTERNAL AUDIO — BLOCK 2: BACKGROUND MUSIC / SCORE TRACK
 RUNTIME: exactly 24.000s · KEY: D major · TEMPO: 60 BPM (bar = 4.000s; 24.000s = exactly 6 bars) · seamless loop.
 SPINE (constant): a soft sustained choral pad in D — the sacred bed under everything.
+NO FADE-IN — OPENS AT FULL PRESENCE: the choral pad is already sounding at full level from sample 0 — no fade-up, no swell-from-silence — so the reel opens sacred and present at 0:00.000.
+INSTRUMENT PALETTE (named, instrumental-led — wordless choir used as sacred texture): sustained choral pad (D), soft string section, full choir, warm brass, timpani, low sub-boom. Deep, grand and likeable — never thin or dull.
 ARRANGEMENT:
 - 0:00–0:08: choral pad; soft strings begin rising at 0:02.9 on the light-touch, swelling toward the cut.
 - 0:08–0:16: on 0:08 the FULL CHOIR + brass + timpani bloom with the goddess; the score reaches its grand APEX at 0:11.2 on the arm-open (full choir crescendo + brass + a low boom), beginning to decay at 0:14.4.
 - 0:16–0:24: the choir and brass decay over 4 s; by 0:20 just the choral pad; the final held choral note lands at 0:23.8 matching 0:00.
 LOOP LOCK: 6-bar phrase resolves at 24.000s onto the 0:00 downbeat. FEEL: epic, sacred, breathtaking — full-body goosebumps.
+★ BEAT/ACCENT PLACEMENT (lives in each clip's INBUILT DIEGETIC audio, not this score) — every hit is baked into the clip's OWN audio at the exact second the on-picture event happens, so over a strong master track the accents read as if embedded in the music:
+- CLIP 1 (0:00–0:08): 0:02.9 — the LIGHT-TOUCH that begins the ascension (a soft sacred shimmer + first divine glow-swell); 0:04.0–0:07.0 — the radiance climbs the body (a rising holy-light swell to the cut).
+- CLIP 2 (0:08–0:16): 0:08.0 — the full goddess form blooms on the cut (the choir + brass ignite); 0:11.2 — GRAND APEX ACCENT, the arm-open (full choir crescendo + brass + a low boom, the on-beat peak hit); 0:14.4 — the radiance begins to settle (a decaying glow toward the cut).
+- CLIP 3 (0:16–0:24): 0:16.0 — the divine form re-resolves on the cut (a noble settling tone); 0:20.0 — sacred hush; 0:23.8 — one last held glow (loop-seed hit, matching 0:00).
+SYNC LOCK: every accent lands on-picture on the true 8s-per-clip grid; the score leaves headroom at these instants so each diegetic hit punches through and fuses with the bed.
 
 
 ═══════════════════════════════════════════════════════════════════════════════
@@ -3086,11 +3177,18 @@ MIX NOTES: real, wet, oceanic — layer true wave/splash foley with a tuned shim
 ☆ EXTERNAL AUDIO — BLOCK 2: BACKGROUND MUSIC / SCORE TRACK
 RUNTIME: exactly 24.000s · KEY: F major · TEMPO: 67.5 BPM (bar = 3.556s; 24.000s = exactly 6.75 bars) · seamless loop.
 SPINE (constant): a flowing harp in F + a soft wordless female "ooh" — enchanting and aquatic.
+NO FADE-IN — OPENS AT FULL PRESENCE: the flowing harp + soft "ooh" are already sounding at full level from sample 0 — no fade-up, no swell-from-silence — so the reel opens dreamy and present at 0:00.000.
+INSTRUMENT PALETTE (named, instrumental-led — wordless "ooh" used as oceanic texture): flowing harp (F, hero), soft wordless female "ooh", warm string section, celesta shimmer, airy pad. Lush, oceanic and likeable — never thin or dull.
 ARRANGEMENT:
 - 0:00–0:08: harp + airy pad; the female "ooh" enters at 0:02.6 on the scale-bloom; gentle strings rising toward the cut.
 - 0:08–0:16: full warm strings + a celesta shimmer bloom with the mermaid; the score PEAKS at 0:11.2 on the tail-arc (a magical harp glissando + string crest), easing at 0:14.4.
 - 0:16–0:24: strings soften; by 0:20 just harp + vocal; the final harp note over lapping waves lands at 0:23.8 matching 0:00.
 LOOP LOCK: 6.75-bar phrase resolves onto the 0:00 downbeat at 24.000s. FEEL: mythic, dreamy, oceanic.
+★ BEAT/ACCENT PLACEMENT (lives in each clip's INBUILT DIEGETIC audio, not this score) — every hit is baked into the clip's OWN audio at the exact second the on-picture event happens, so over a strong master track the accents read as if embedded in the music:
+- CLIP 1 (0:00–0:08): 0:02.6 — the SCALE-BLOOM that begins the change (a soft watery shimmer + first scale-chime); 0:04.0–0:07.0 — the mermaid form spreads (a rising aquatic-shimmer + gentle water-swell to the cut).
+- CLIP 2 (0:08–0:16): 0:08.0 — the full mermaid form blooms on the cut (a warm oceanic swell); 0:11.2 — HERO ACCENT, the tail-arc (a magical harp glissando + a water-sweep + string crest, the on-beat peak hit); 0:14.4 — the form begins to settle (a soft receding wave toward the cut).
+- CLIP 3 (0:16–0:24): 0:16.0 — the mermaid form re-resolves on the cut (a gentle settling lap of water); 0:20.0 — lapping-wave hush; 0:23.8 — one last harp note over the waves (loop-seed hit, matching 0:00).
+SYNC LOCK: every accent lands on-picture on the true 8s-per-clip grid; the score leaves headroom at these instants so each diegetic hit punches through and fuses with the bed.
 
 
 ═══════════════════════════════════════════════════════════════════════════════
@@ -3304,11 +3402,18 @@ MIX NOTES: everything muffled and intimate (snow soaks the highs); the bloom-ton
 ☆ EXTERNAL AUDIO — BLOCK 2: BACKGROUND MUSIC / SCORE TRACK
 RUNTIME: exactly 24.000s · K-DRAMA OST FEEL · KEY: C major · TEMPO: 67.5 BPM (bar = 3.556s; 24.000s = exactly 6.75 bars) · seamless loop.
 SPINE (constant): a soft solo piano in C — warm, longing, the "first snow" theme.
+NO FADE-IN — OPENS AT FULL PRESENCE: the solo piano is already playing at full level from sample 0 — no fade-up, no swell-from-silence — so the reel opens tender and present at 0:00.000.
+INSTRUMENT PALETTE (named, all-instrumental, no vocals): solo piano (C, hero "first snow" theme), warm string section, soft music-box counter-line, a single high piano phrase. Warm, intimate and likeable — never thin or dull.
 ARRANGEMENT:
 - 0:00–0:08: solo piano alone; at 0:01.5 a gentle add of warm strings under the snowflake-bloom, swelling toward the cut.
 - 0:08–0:16: full warm strings + a soft music-box counter-line bloom with the heroine look; the theme PEAKS at 0:11.2 on the strand-tuck (a tender string crest + a single high piano phrase), easing at 0:14.4.
 - 0:16–0:24: strings soften; by 0:20 just the solo piano; the final tender piano note over the snow-hush lands at 0:23.8 matching 0:00.
 LOOP LOCK: 6.75-bar phrase resolves onto the 0:00 downbeat at 24.000s. FEEL: warm, wistful, heart-fluttering — pure K-drama first-snow.
+★ BEAT/ACCENT PLACEMENT (lives in each clip's INBUILT DIEGETIC audio, not this score) — every hit is baked into the clip's OWN audio at the exact second the on-picture event happens, so over a strong master track the accents read as if embedded in the music:
+- CLIP 1 (0:00–0:08): 0:01.5 — the SNOWFLAKE catches / lands (a soft crystalline chime + first snow-hush as the look begins to bloom); 0:04.0–0:07.0 — the heroine look settles over her (a gentle rising warmth + soft snowfall to the cut).
+- CLIP 2 (0:08–0:16): 0:08.0 — the full heroine look blooms on the cut (a warm string swell); 0:11.2 — HERO ACCENT, the strand-tuck (a tender string crest + a single high piano phrase, the on-beat peak hit); 0:14.4 — the moment begins to settle (a soft decaying warmth toward the cut).
+- CLIP 3 (0:16–0:24): 0:16.0 — the look re-resolves on the cut (a gentle settling piano note); 0:20.0 — soft snow-hush; 0:23.8 — one last tender piano note over the falling snow (loop-seed hit, matching 0:00).
+SYNC LOCK: every accent lands on-picture on the true 8s-per-clip grid; the score leaves headroom at these instants so each diegetic hit punches through and fuses with the bed.
 
 
 ═══════════════════════════════════════════════════════════════════════════════

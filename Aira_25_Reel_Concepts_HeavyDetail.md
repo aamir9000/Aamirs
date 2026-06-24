@@ -504,22 +504,30 @@ MASTER TRACK: the score eases back to the airy opening texture.
 CUT LOGIC: ANGLE-CUT / LOOP — this clip ends on the CLIP-1 angle and state, so the reel loops seamlessly back to CLIP 1. Because CLIP 1 also opens on this same wide front angle, the loop reads as one more intentional angle-beat, not a jump.
 
 ### ☆ EXTERNAL AUDIO — BLOCK 1: BACKGROUND SOUND DESIGN / AMBIENCE BED — A-1
-*The layered foley + world-ambience to lay UNDER the reel, separate from the in-clip diegetic audio — timed to the clips.*
-- Base bed (all clips): a soft warm penthouse room-tone; a distant, muffled low city hum far below the glass; a single faint morning bird beyond the window.
-- CLIP 1 (establish): gentle steam-curl fizz off the cup; a faint ceramic settle; one slow human breath.
-- CLIP 2 (pour begins): a soft brass-handle tap; a light silk-fabric shift; the first normal coffee pour-trickle.
-- CLIP 3 (★ reversal): the normal pour-trickle bends at 3.5s into a gently REVERSED-timbre rising-liquid whoosh; a tiny surface-tension bead-tick.
-- CLIP 4–5 (loop cycling / hero): a soft sustained musical liquid-loop hum; a faint draft-whoosh through silk on the cup-release.
-- CLIP 6 (reset): a soft ceramic cup-on-saucer settle; one slow breath; the city hum returning to the CLIP-1 level.
-- Mix note: keep this bed low and warm; it should support, never mask, the music. Loops cleanly at ~26s.
+RUNTIME: exactly 48.000s = 6 clips × 8.000s · 48 kHz / 24-bit stereo · CLIP MAP — C1 0:00–0:08 · C2 0:08–0:16 · C3 0:16–0:24 · C4 0:24–0:32 · C5 0:32–0:40 · C6 0:40–0:48 · seamless loop.
+DESIGN INTENT: a serene sunrise penthouse kitchen with ONE impossible sound-event — the coffee pouring upward — rendered so crisp and ASMR-satisfying it carries the whole reel; quiet, luxe, hypnotic, never empty.
+STEMS: (S1) penthouse air — distant muffled city far below, a soft warm room-tone, one morning bird. (S2) the coffee-pour (liquid). (S3) the reverse-pour magic layer (a pour run backwards + a soft upward shimmer). (S4) micro-foley — ceramic, brass, silk, bare-foot shifts. (S5) a 2.6 s warm plate reverb.
+TIMED EVENTS:
+- 0:00–0:08 (C1 establish): warm air + a single bird; at 0:05.6 the brass carafe lifts (a soft metallic shift); steam curls (a faint hiss).
+- 0:08–0:16 (C2 HERO): a real coffee-pour begins at 0:09; at 0:11.5 the pour REVERSES — the liquid sound runs backwards and lifts in pitch into a soft upward shimmer (the signature magic SFX), looping cup→carafe to the cut.
+- 0:16–0:24 (C3): the reverse-pour shimmer continues, intimate and close; a ceramic cup settles softly.
+- 0:24–0:32 (C4 overhead): the looping liquid reads from above — a gentle circular whoosh of the rising stream, panned slowly clockwise.
+- 0:32–0:40 (C5 low hero): the magic at its richest — the upward shimmer fullest, a warm brass resonance.
+- 0:40–0:48 (C6 reset): the pour eases back to a normal trickle and settles; air + bird return to the exact 0:00 texture.
+- 0:47.5–0:48.000 — the carafe-lift shift begins again — invisible loop.
+MIX NOTES: the reverse-pour SFX is the star — keep it dry, centred, pristine; everything else soft and wide; the silence between events makes the magic land. Never a generic kitchen loop.
 
 ### ☆ EXTERNAL AUDIO — BLOCK 2: BACKGROUND MUSIC / SCORE TRACK — A-1 (lay under the sound bed)
-- Genre / vibe: warm, dreamy lo-fi morning groove with a luxe edge — slow, glossy, unbothered.
-- Tempo / key: ~70 BPM, warm major key (A or C), relaxed swing.
-- Core elements: soft Rhodes electric-piano chords; a round muted upright-bass pulse; brushed/soft finger-snap percussion; a faint vinyl-warmth crackle; a high airy pad shimmer for the magic glow.
-- Arc: gentle intro on CLIP 1 → bass and snaps enter as she pours (CLIP 2 open) → a shimmer-sting on the 3.5s gravity-reversal (CLIP 2 mid) → hypnotic circular motif on the overhead (CLIP 4) → fullest warmth at the low-angle hero (CLIP 5) → settle back to the intro texture on the reset (CLIP 6) so the audio loops seamlessly with the visual.
-- Texture note: keep it low and supportive so the reversed-pour and liquid-loop diegetic sounds read on top.
-- Loop: a clean ~26s loop matching the visual loop point.
+RUNTIME: exactly 48.000s · KEY: A minor (warm) · TEMPO: 75 BPM (bar = 3.200s; 48.000s = exactly 15 bars) · seamless loop.
+SPINE (constant, full 48s): a round muted upright-bass pulse + soft brushed finger-snaps on the backbeat + a faint vinyl-warmth crackle — slow, glossy, unbothered.
+ARRANGEMENT (timed to picture):
+- 0:00–0:08 (C1): soft Rhodes chords + the bass pulse only; warm and sparse.
+- 0:08–0:16 (C2): a high airy pad-shimmer enters; a single glassy chime lands EXACTLY at 0:11.5 on the gravity-reversal (the magic glow).
+- 0:16–0:24 (C3): a gentle Rhodes melody settles in over the pulse.
+- 0:24–0:32 (C4): a hypnotic circular arpeggio (mirroring the overhead spiral) rises.
+- 0:32–0:40 (C5): fullest warmth — Rhodes + pad + a soft string bloom, the emotional high.
+- 0:40–0:48 (C6): instruments peel back to the opening Rhodes + bass; the final chord lands at 0:47.8 on the exact voicing that opens 0:00.
+LOOP LOCK: the 15-bar phrase resolves at 48.000s onto the 0:00 downbeat. FEEL: meditative, glossy, "I could watch this forever."
 
 ---
 
@@ -925,23 +933,29 @@ END STATE / STATE-MATCH LOCK: clip ends in the EXACT interior state and wide ang
 CUT LOGIC: ANGLE-CUT / LOOP back to CLIP 1; the next pass re-triggers the world-reveals as the doors next open.
 
 ### ☆ EXTERNAL AUDIO — BLOCK 1: BACKGROUND SOUND DESIGN / AMBIENCE BED — A-2
-*The layered foley + per-world ambience to lay UNDER the reel, separate from the in-clip diegetic audio — timed to the clips.*
-- Base bed (all clips): a low elevator cabin hum; a faint mechanical rise; a soft recessed-light electrical tone.
-- Trigger stamp (every clip): a clean musical DING + a heavy pneumatic door-slide on each world-cycle.
-- CLIP 1 (reef reveal): a muffled deep-ocean wash leaking in — whale low-call, bubbling, soft current.
-- CLIP 2 (blossom reveal): a soft rushing petal-wind; distant canyon birdsong; a delicate paper-petal flutter.
-- CLIP 3 (neon reveal): a cyberpunk city wall — distant synth-horns, rain hiss, a flying-car whoosh.
-- CLIP 4–5 (desert reveal / hero): a warm desert wind howl; fine hissing sand; a deep cinematic sub-rumble.
-- CLIP 6 (reset): a calm neutral lobby tone; a soft door-slide shut; the cabin hum returning to the CLIP-1 level.
-- Mix note: each world's ambience swells only on its reveal, then ducks under the next ding. Loops cleanly at ~28s.
+RUNTIME: exactly 48.000s = 6 clips × 8.000s · 48 kHz / 24-bit stereo · CLIP MAP — C1 0:00–0:08 · C2 0:08–0:16 · C3 0:16–0:24 · C4 0:24–0:32 · C5 0:32–0:40 · C6 0:40–0:48 · seamless loop.
+DESIGN INTENT: a mirrored elevator whose every DING opens the doors onto a whole new impossible world — each world is a fully-realised soundscape that blooms wide on the ding, so the wanderlust hits like travel, never a flat ambience.
+STEMS: (S1) elevator interior — a soft mechanical hum, a subtle cable creak, her quiet presence. (S2) the FLOOR-DING (the signature trigger) + door-slide. (S3) per-world ambience beds. (S4) a "reveal whoosh" as each world rushes in. (S5) a 3.0 s reverb that re-sizes per world.
+TIMED EVENTS:
+- 0:00–0:08 (C1): elevator hum, a cable creak; DING at 0:06.4 + doors part on the first world (underwater coral city — muffled bubbles, whale-song, filtered light).
+- 0:08–0:16 (C2): full UNDERWATER bed (bubbles, deep sonar tones); DING at 0:14.4 → doors close/whoosh to the next.
+- 0:16–0:24 (C3): CHERRY-BLOSSOM CANYON — wind through trees, petals, distant temple bells; DING at 0:22.4.
+- 0:24–0:32 (C4): NEON MEGACITY — rain on neon, hover-traffic, crowd hum, synth signage; DING at 0:30.4.
+- 0:32–0:40 (C5): GOLDEN DESERT — vast wind, sand-hiss, a lone distant flute; DING at 0:38.4.
+- 0:40–0:48 (C6): doors return to the elevator hum (reset); DING at 0:46.4 priming the underwater world again — invisible loop.
+MIX NOTES: each world must sound DISTINCT and huge (different reverb size + frequency character); the ding is the constant glue, always the same; the elevator hum sits under everything as the "home" anchor.
 
 ### ☆ EXTERNAL AUDIO — BLOCK 2: BACKGROUND MUSIC / SCORE TRACK — A-2 (lay under the sound bed)
-- Genre / vibe: sleek, mysterious deep-house / cinematic travel groove — cool, glossy, effortlessly confident.
-- Tempo / key: ~110 BPM, F# minor, hypnotic four-on-the-floor kept low.
-- Core elements: deep sub-bass; a soft filtered house kick; a shimmering arpeggiated synth that "travels"; airy vocal-chop pads; a soft elevator-chime motif echoed musically on each world-reveal.
-- Arc: minimal pulse on CLIP 1 → the arp opens on the first reveal (reef) → each world-reveal adds a new textural layer in sync with the ding (water-shimmer, petal-bells, neon synth-stabs, desert wind-pad) → strips back to the minimal pulse on the reset (CLIP 6) so the audio loops with the visual.
-- Texture note: keep mids open so each world's diegetic ambience cuts through on its reveal.
-- Loop: a clean ~28s loop matching the visual loop point.
+RUNTIME: exactly 48.000s · KEY: D major (wondrous) · TEMPO: 90 BPM (bar = 2.667s; 48.000s = exactly 18 bars) · seamless loop.
+SPINE (constant): a slow rising orchestral motif + a soft choir pad — epic, expansive, full of awe.
+ARRANGEMENT (a swell crests on EACH ding-reveal):
+- 0:00–0:08 (C1): strings + harp intro; a crescendo crests at 0:06.4 on the first DING (a cymbal-swell + choir bloom).
+- 0:08–0:16 (C2, underwater): ethereal high strings + glass-bell; swell-crest at 0:14.4.
+- 0:16–0:24 (C3, blossom): warm woodwinds + koto colour; swell-crest at 0:22.4.
+- 0:24–0:32 (C4, neon): the orchestra fuses with a synth pulse; swell-crest at 0:30.4.
+- 0:32–0:40 (C5, desert): a lone duduk/flute over strings; the grandest swell-crest at 0:38.4.
+- 0:40–0:48 (C6, reset): the motif resolves to the intro strings + harp; final chord at 0:47.8 matching 0:00.
+LOOP LOCK: 18-bar phrase resolves at 48.000s onto the 0:00 downbeat; each 8s = a 3-bar reveal-phrase. FEEL: cinematic, jaw-drop wanderlust.
 
 ---
 
