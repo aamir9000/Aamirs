@@ -2409,3 +2409,200 @@ A warm quiet apartment by day as the constant (soft room-tone, distant birds) th
 One track, two energies — the drop sells the glow-up. KEY/TEMPO: a soft warm acoustic/lo-fi by day that DROPS into a confident bass-heavy glam beat (~95 BPM) on the night-flip. THE SPINE (constant): the same chord progression rendered soft-acoustic (day) vs bass-glam (night). BUILD: the beat drops on the hair-flip pose (CLIP 2 hero beat), then eases back to the soft warm version on the return blink — landing exactly where the reel began — a seamless infinite loop. Confident, magnetic, glow-up energy.
 
 ═══════════════════════════════════════════════════════════════════════════════
+
+
+# CONCEPT C-3 — SHE TURNS INTO A GODDESS
+
+Transforms Into: a radiant divine goddess — soft mortal Aira ascends into a glowing, gilded, ethereal deity with glowing markings, a halo and weightless hair, holds in divine radiance, then the light recedes and she returns to mortal.
+Feeling: divine awe / ascension — powerful, sacred, breathtaking, goosebump-level.
+★ HOOK (first ~1s): a beam of heavenly light touches her crown — and golden divine markings begin to glow on her skin.
+Setting: an ancient marble temple with soaring columns, shafts of heavenly light, drifting gold dust.
+Trigger (signature): THE HEAVENLY LIGHT-BEAM TOUCHING HER CROWN / HER ARMS LIFTING — the beam and the lift begin the ascension; the light receding completes the return. A STYLE/divine-morph; face stays identity-locked Aira.
+Voice: SILENT — diegetic temple + score only.
+Duration: ~14s · 3 clips (angle-cut, divine-morph, loops to CLIP 1).
+
+## CLIP 1 of 3 — MEDIUM · FRONT · SLIGHT LOW ANGLE (mortal Aira → divine markings IGNITE mid-clip)
+
+### START IMAGE (keyframe)
+ANGLE & SHOT SIZE: slight low-angle (reverent) MEDIUM (chest-up); mortal white-gown Aira, gaze lifting toward a heavenly light-beam, arms beginning to lift.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: a simple flowing white Grecian-draped gown, one shoulder softly draped (modest), gathered at the waist with a thin gold cord.
+FOOTWEAR: gold sandals / hidden under the drape.
+EYEWEAR: none.
+ACCESSORIES: a thin gold armband, a simple gold band.
+HAIR: soft loose waves, dark, half-up, a few strands stirring.
+MAKEUP: soft natural glow — luminous skin, a rosy lip, softly defined eyes, real pores.
+HANDS & NAILS: both hands beginning to lift, palms turning upward toward the beam; soft nude nails.
+FACIAL MICRO-DYNAMICS: reverent awe — gaze lifting to the light, lips parting on a held breath, brows rising softly, a slow wondering blink, warm divine catchlights.
+BODY POSTURE & WEIGHT: a tall reverent stance, weight settled, chin and arms lifting toward the beam, spine long, breathing.
+KINETIC STILLNESS (8 layers): (1) the heavenly beam shafting down to her crown; (2) gold dust drifting in the light; (3) loose strands stirring; (4) the white drape settling; (5) chest rising on a held breath; (6) god-rays flickering between columns; (7) the first gold marking glowing at the collarbone; (8) a slow reverent blink.
+SPATIAL LOGIC: FOREGROUND — her lifting hands and the first glowing marking, sharp. MIDGROUND — Aira reverent. BACKGROUND — an ancient marble temple, soaring columns, heavenly shafts.
+LIGHTING: KEY — a heavenly light-shaft from above, warm gold. FILL — soft cool temple ambient. RIM — a warm divine edge on the hair and shoulders. PRACTICAL — the beam, god-rays. SEPARATION — her warm-lit form against the marble depth. BOUNCE — warm gold under the chin.
+LENS + DOF + BOKEH: 50mm, f/2.0, god-rays; her sharp, temple and gold-dust as soft bokeh.
+COMPOSITION: vertical 9:16, Aira centred, the beam a vertical spine of light, columns soaring, gold dust drifting.
+SUBJECT FRAMING & POSITION: Aira reads from the chest up, framed medium from a slightly low reverent angle, squared near-front with her chin and palms lifting toward the heavenly beam, her gaze rising past the lens in awe. The camera sits a touch low at mid-distance; she anchors dead-centre with columns soaring on both sides and the beam descending to her crown. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: sacred, hushed, vast — the instant before ascension.
+COLOUR GRADE: VIVID white-and-gold, warm divine, rich uncrushed marble-shadow — saturated, luminous, never washed.
+TEXTURE & MICRO-DETAIL: marble grain, white-drape folds, skin pores under divine light, gold dust, armband glint, the first glowing marking.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, identity drift, resemblance to any real person, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, dull colour, garish oversaturation, flat light.
+
+### ANIMATION (this clip, ~5s — mortal establishing; ★ divine markings IGNITE mid-clip, clip ENDS mid-ascension)
+SHOT TYPE & ANGLE: slight low-angle medium, front; subject ~55% centre.
+CAMERA MOVEMENT (CHOREOGRAPHY): a slow reverent push/rise toward her as the beam touches — one continuous shot.
+LENS: 50mm, f/2.0, god-rays.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–2.0s — she lifts her gaze and palms toward the heavenly beam, a held breath of awe.
+- 2.0–3.5s — ★ TRIGGER: the beam touches her crown; golden divine markings ignite and begin spreading across her skin.
+- 3.5–5.0s — ★ MID-CLIP TRANSFORMATION BEGINS: a faint halo forms, the gown begins to gild at the edges, her hair starts to lift weightlessly — ascension beginning.
+FLUIDITY & WEIGHT NOTES: all eases — the gaze and arms lift slow, the markings ignite and spread like light blooming, the hair begins a weightless float; her reverence against the divine is the awe.
+FABRIC/HAIR/PROP PHYSICS: glowing-marking spread + volumetric god-rays + drifting gold-dust; the gown gilds at the edges with soft light; the hair begins a weightless "ascension" float; markings integrate with the skin, not overlaid.
+FOOTWORK & BODY FLOW: a grounded reverent stance lifting subtly as the ascension begins, weight easing upward.
+MID-CLIP TRANSFORMATION (timed): ★ DIVINE-IGNITION ONSET at 2.0–3.5s and ascension-build (3.5–5.0s) — triggered by the beam touching her crown, markings spreading and the halo/gilding/float beginning, contained as an onset within this clip; clip ends mid-ascension.
+LIGHTING-IN-MOTION: the heavenly beam intensifies; her markings self-light gold; god-rays deepen between the columns.
+DIEGETIC AUDIO: a shimmering light-touch tone as the beam lands, then a sacred choir swell beginning.
+MASTER TRACK: a building orchestral and choral piece, soft strings rising at 3.5s.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 2 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the white Grecian gown gilding at the edges into radiant white-and-gold, glowing trim forming (modest), mid-ascension.
+  • FOOTWEAR: gold sandals / hidden under the drape, beginning to lift off the floor.
+  • EYEWEAR: none.
+  • ACCESSORIES: the gold armband glowing, a laurel-crown halo beginning to form in light.
+  • HAIR: dark waves lifting weightlessly as if underwater, gold strands appearing.
+  • MAKEUP: soft glow gilding toward luminous divine glam, glowing markings on the skin.
+  • HANDS & NAILS: both hands raised, palms up, divine markings glowing across them, soft nude nails.
+  • FACIAL MICRO-DYNAMICS: reverent awe, gaze lifted, lips parted, a slow wondering blink, eyes beginning to glow faintly — identity-locked Aira ascending.
+  • BODY POSTURE & WEIGHT: tall and lifting, arms rising, the body beginning to levitate, breathing.
+  • KINETIC STILLNESS (8 layers): (1) markings spreading and glowing; (2) gold dust swirling up; (3) hair lifting weightless; (4) the gown gilding; (5) chest rising; (6) the halo forming; (7) god-rays intensifying; (8) a slow blink.
+  • SPATIAL LOGIC: FOREGROUND — raised glowing hands. MIDGROUND — her half-divine figure. BACKGROUND — temple columns, heavenly shafts, gold dust.
+  • LIGHTING: KEY — intensifying heavenly beam. FILL — cool temple ambient. RIM — warm divine edge. PRACTICAL — the beam, her glowing markings, god-rays. SEPARATION — glowing form against marble depth. BOUNCE — warm gold.
+  • ATMOSPHERE: divine power igniting, sacred and vast.
+  • COLOUR GRADE: VIVID white-and-gold, warm divine, saturated, luminous.
+  • TEXTURE & MICRO-DETAIL: glowing markings, gold-leaf skin forming, gilding drape-edges, floating hair, gold dust, god-rays.
+CUT LOGIC: hard ANGLE-CUT to CLIP 2 (full body, low). No frame-match needed — the angle change is the edit. State carried forward: mid-ascension, markings glowing, beginning to levitate.
+
+---
+
+## CLIP 2 of 3 — FULL BODY · FRONT · LOW HERO ANGLE (★ full GODDESS, ascending, the hero beat)
+
+### START IMAGE (keyframe)
+ANGLE & SHOT SIZE: low HERO ANGLE, FULL BODY, front; Aira now a radiant GODDESS, slightly levitating in the heavenly light-shaft.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: a radiant white-and-gold gown with glowing trim (modest, one shoulder draped), the fabric lit from within, hem floating.
+FOOTWEAR: gold sandals, toes pointed, hovering above the marble floor.
+EYEWEAR: none.
+ACCESSORIES: a golden laurel-crown halo of light, glowing armbands, a soft divine aura.
+HAIR: voluminous, ethereal, lifting gently as if underwater, with gold strands woven through.
+MAKEUP: luminous gilded glam — gold-leaf accents on the high points, glowing eyes, a radiant lip.
+HANDS & NAILS: arms raised and open in an ascendant gesture, palms glowing with divine markings; luminous nails.
+FACIAL MICRO-DYNAMICS: serene divine radiance — eyes softly glowing, a calm transcendent expression, lips just parted in awe, the aura pulsing gently like breath.
+BODY POSTURE & WEIGHT: an ascendant levitating pose — arms open, body lifted and weightless, hair and hem floating, holding a human shape in divine light.
+KINETIC STILLNESS (8 layers): (1) the divine aura pulsing around her; (2) gold dust swirling up the light-shaft; (3) hair and hem floating weightless; (4) glowing markings shimmering; (5) a slow rise like breath; (6) the laurel-halo glowing; (7) god-rays blazing between columns; (8) the figure gently breathing light.
+SPATIAL LOGIC: FOREGROUND — drifting gold dust, sharp. MIDGROUND — the goddess, the hero. BACKGROUND — the ancient temple, columns soaring, heavenly shafts blazing.
+LIGHTING: KEY — blazing divine god-rays from above. FILL — her own golden aura. RIM — a radiant halo-edge all around her. PRACTICAL — the beam, her aura, god-rays. SEPARATION — the luminous goddess against the temple dark. BOUNCE — warm gold from the marble.
+LENS + DOF + BOKEH: 35mm, f/2.8, low hero; the figure sharp, gold dust and god-rays as soft bokeh.
+COMPOSITION: vertical 9:16, the goddess centred and soaring from the low angle, columns framing, the beam blazing down through her crown.
+SUBJECT FRAMING & POSITION: Aira fills the frame head-to-hovering-toes as a complete goddess, squared near-front with arms raised and open, levitating in the beam. The camera sits low and mid-distance, tilting up so she rises monumental and divine against the temple, her floating hem anchoring the lower frame; she holds dead-centre, radiant and ascendant. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: transcendent, sacred, breathtaking — a mortal become divine.
+COLOUR GRADE: VIVID radiant white-gold with a divine bloom on rich temple-shadow — luminous, saturated, the gold the anchor.
+TEXTURE & MICRO-DETAIL: glowing gown-trim, gold-leaf skin, floating hair, the aura, gold dust, halo-light.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, identity drift, resemblance to any real person, garbled text, floating shadows, duplicated subjects, plastic look, oversharpened, watermarks, dull colour, crushed blacks, garish oversaturation, flat light, dead eyes.
+
+### ANIMATION (this clip, ~5s — the hero beat; ★ reform/descent BEGINS at the end)
+SHOT TYPE & ANGLE: low hero angle, full body, front; subject ~65% centre.
+CAMERA MOVEMENT (CHOREOGRAPHY): a slow rising orbit a few degrees, low and reverent — one continuous shot.
+LENS: 35mm, f/2.8, low hero.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–2.0s — the goddess hovers in divine radiance, aura pulsing, hair and hem floating, markings shimmering.
+- 2.0–3.0s — she opens her arms wider in a slow ascendant gesture, gold dust streaming up around her — the sacred hero beat.
+- 3.0–4.0s — she holds at the peak of ascension, the aura blooming, eyes glowing serene.
+- 4.0–5.0s — ★ DESCENT/REFORM BEGINS: the divine light begins to recede, she lowers gently, markings starting to fade.
+FLUIDITY & WEIGHT NOTES: weightless divine grace — the arms open slow, the float is buoyant, the descent eases like settling on air; nothing snaps.
+FABRIC/HAIR/PROP PHYSICS: weightless float for hair and hem (ascension feel), drifting gold-dust particles, soft halo-bloom, volumetric god-rays; the gilding and markings integrate with skin and cloth; descent-onset lowers her gently.
+FOOTWORK & BODY FLOW: toes pointed, body levitating then beginning to lower, an ethereal sway.
+MID-CLIP TRANSFORMATION (timed): ★ the hero HOLD (0.0–4.0s) then DESCENT/REFORM ONSET (4.0–5.0s) — the divine light begins receding and she lowers, contained as an onset in this clip.
+LIGHTING-IN-MOTION: the god-rays blaze at the peak, then begin to soften as the descent starts; her aura dimming gently.
+DIEGETIC AUDIO: a swelling angelic shimmer at the peak, beginning to draw back.
+MASTER TRACK: a full choir-and-brass apex on the arm-open (the hero beat), then decaying as the descent begins.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 3 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the radiant white-and-gold gown un-gilding back toward simple white from the hem up, glowing trim fading (modest), mid-descent.
+  • FOOTWEAR: gold sandals lowering back toward the marble floor.
+  • EYEWEAR: none.
+  • ACCESSORIES: the laurel-crown halo fading, glowing armbands dimming to solid gold.
+  • HAIR: the weightless float settling back toward soft half-up waves, gold strands fading.
+  • MAKEUP: the gilded divine glam softening back toward natural glow, markings fading.
+  • HANDS & NAILS: arms lowering from the ascendant gesture, palm-markings fading, soft nude nails.
+  • FACIAL MICRO-DYNAMICS: serene awe, eyes' glow softening, lips parted, a slow wondering blink as the divine fades — identity-locked Aira returning.
+  • BODY POSTURE & WEIGHT: lowering from levitation toward a grounded reverent stance, arms easing down, breathing.
+  • KINETIC STILLNESS (8 layers): (1) the aura dimming; (2) gold dust settling; (3) hair settling from float; (4) the gown un-gilding; (5) chest rising; (6) the halo fading; (7) god-rays softening; (8) a slow blink.
+  • SPATIAL LOGIC: FOREGROUND — lowering hands. MIDGROUND — her half-resolved figure. BACKGROUND — temple columns, softening shafts, gold dust.
+  • LIGHTING: KEY — softening heavenly beam. FILL — cool temple ambient. RIM — fading divine edge. PRACTICAL — the beam, fading markings, god-rays. SEPARATION — softening form against marble depth. BOUNCE — warm gold.
+  • ATMOSPHERE: the divine gently resolving, sacred and calm.
+  • COLOUR GRADE: VIVID white-and-gold, warm divine, saturated, luminous.
+  • TEXTURE & MICRO-DETAIL: fading markings, un-gilding drape, settling hair, gold dust, softening god-rays.
+CUT LOGIC: hard ANGLE-CUT to CLIP 3 (medium, front, slight low). No frame-match needed. State carried forward: descending from ascension, divine light receding toward mortal.
+
+---
+
+## CLIP 3 of 3 — MEDIUM · FRONT · SLIGHT LOW ANGLE (light recedes → mortal Aira; LOOP to CLIP 1)
+
+### START IMAGE (keyframe)
+ANGLE & SHOT SIZE: slight low-angle MEDIUM (chest-up); the divine light receding into mortal Aira, gaze lifting to the beam, arms settling.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: the simple flowing white Grecian-draped gown re-formed and intact, one shoulder draped (modest), thin gold cord at the waist.
+FOOTWEAR: gold sandals / hidden under the drape.
+EYEWEAR: none.
+ACCESSORIES: a thin gold armband, a simple gold band.
+HAIR: soft loose waves, dark, half-up, a few strands stirring.
+MAKEUP: soft natural glow — luminous skin, rosy lip, softly defined eyes, real pores.
+HANDS & NAILS: both hands settling from lifted, palms easing; soft nude nails.
+FACIAL MICRO-DYNAMICS: reverent awe — gaze lifting to the light, lips parting on a held breath, brows rising softly, a slow wondering blink — exactly the look that opened CLIP 1.
+BODY POSTURE & WEIGHT: a tall reverent stance, weight settling, chin and arms easing from the lift, spine long, breathing.
+KINETIC STILLNESS (8 layers): (1) the beam shafting down to her crown; (2) gold dust settling in the light; (3) loose strands stirring; (4) the white drape settling; (5) chest easing on an exhale; (6) god-rays flickering between columns; (7) the last gold marking fading at the collarbone; (8) a slow reverent blink.
+SPATIAL LOGIC: FOREGROUND — her settling hands and the last fading marking, sharp. MIDGROUND — Aira reverent. BACKGROUND — ancient marble temple, soaring columns, heavenly shafts.
+LIGHTING: KEY — a heavenly light-shaft from above, warm gold softening. FILL — soft cool temple ambient. RIM — warm divine edge on the hair and shoulders. PRACTICAL — the beam, god-rays. SEPARATION — her warm-lit form against the marble depth. BOUNCE — warm gold under the chin.
+LENS + DOF + BOKEH: 50mm, f/2.0, god-rays; her sharp, temple and gold-dust soft bokeh — matched toward CLIP 1.
+COMPOSITION: vertical 9:16, Aira centred, the beam a vertical spine of light, columns soaring, gold dust settling — rhyming with CLIP 1.
+SUBJECT FRAMING & POSITION: Aira reads from the chest up, framed medium from a slightly low reverent angle, squared near-front with her chin lifting and arms easing from the divine, her gaze rising past the lens in awe as the light recedes. The camera sits a touch low at mid-distance; she anchors dead-centre with columns soaring both sides and the beam at her crown — composed to match CLIP 1's opening so the loop is seamless. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: sacred resolution — the reverent hush exactly as it began.
+COLOUR GRADE: VIVID white-and-gold, warm divine, rich marble-shadow — matched to CLIP 1.
+TEXTURE & MICRO-DETAIL: marble grain, white-drape folds, skin pores under divine light, gold dust, armband glint, the last fading marking.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, identity drift, resemblance to any real person, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, dull colour, garish oversaturation, flat light.
+
+### ANIMATION (this clip, ~4s — descent/reform completes; LOOP back to CLIP 1)
+SHOT TYPE & ANGLE: slight low-angle medium, front; subject ~55% centre.
+CAMERA MOVEMENT (CHOREOGRAPHY): a slow settle easing toward CLIP 1's exact framing — one continuous shot.
+LENS: 50mm, f/2.0, god-rays.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–2.0s — ★ DESCENT/REFORM COMPLETES: the divine light recedes, markings, halo and gilding fading, hair settling, the gown returning to simple white as she lowers to standing.
+- 2.0–3.0s — fully mortal again, she lifts her gaze and palms toward the beam, a held breath of awe.
+- 3.0–4.0s — she holds the exact reverent awe that opened CLIP 1, the beam at her crown — seamless loop point.
+FLUIDITY & WEIGHT NOTES: the descent eases like settling on air, the fade is gentle and continuous; she arrives in the opening reverence with no snap, breath leading the settle.
+FABRIC/HAIR/PROP PHYSICS: divine-recede — markings and gilding fading from skin and cloth, hair settling from weightless float, the gown returning to a simple drape; the last marking fades with a soft light-decay.
+FOOTWORK & BODY FLOW: toes settle to the marble, weight roots into the reverent stance, a faint spinal settle.
+MID-CLIP TRANSFORMATION (timed): ★ DESCENT/REFORM COMPLETION at 0.0–2.0s — the divine fully recedes into mortal Aira, resolving the divine-morph.
+LIGHTING-IN-MOTION: the god-rays soften and the aura fades to the warm beam of CLIP 1.
+DIEGETIC AUDIO: the angelic shimmer resolving into a single sustained choral note, then the temple's vast hush.
+MASTER TRACK: the choir-and-strings draw back to one held choral note landing exactly where CLIP 1 began — seamless loop.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 1 (LOOP back to opening) — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: a simple flowing white Grecian-draped gown, one shoulder draped (modest), thin gold cord at the waist.
+  • FOOTWEAR: gold sandals / hidden under the drape.
+  • EYEWEAR: none.
+  • ACCESSORIES: a thin gold armband, a simple gold band.
+  • HAIR: soft loose waves, dark, half-up, a few strands stirring.
+  • MAKEUP: soft natural glow — luminous skin, rosy lip, softly defined eyes, real pores.
+  • HANDS & NAILS: both hands beginning to lift, palms turning upward toward the beam, soft nude nails.
+  • FACIAL MICRO-DYNAMICS: reverent awe, gaze lifting to the light, lips parting on a held breath, brows rising softly, a slow wondering blink.
+  • BODY POSTURE & WEIGHT: a tall reverent stance, weight settled, chin and arms lifting toward the beam, spine long.
+  • KINETIC STILLNESS (8 layers): (1) the beam shafting to her crown; (2) gold dust drifting; (3) loose strands stirring; (4) the white drape settling; (5) a held breath; (6) god-rays flickering; (7) the first gold marking glowing at the collarbone; (8) a slow reverent blink.
+  • SPATIAL LOGIC: FOREGROUND — lifting hands and first marking. MIDGROUND — Aira reverent. BACKGROUND — ancient marble temple, soaring columns, heavenly shafts.
+  • LIGHTING: KEY — heavenly light-shaft from above, warm gold. FILL — soft cool temple ambient. RIM — warm divine edge on hair and shoulders. PRACTICAL — the beam, god-rays. SEPARATION — warm form against marble depth. BOUNCE — warm gold under the chin.
+  • ATMOSPHERE: sacred, hushed, vast — the instant before ascension, exactly as it began.
+  • COLOUR GRADE: VIVID white-and-gold, warm divine, rich marble-shadow.
+  • TEXTURE & MICRO-DETAIL: marble grain, white-drape folds, skin pores, gold dust, armband glint, the first glowing marking.
+CUT LOGIC: seamless ANGLE-CUT / LOOP back to CLIP 1 — the beam touches her crown and she ascends again, forever.
+
+☆ EXTERNAL AUDIO — BLOCK 1: BACKGROUND SOUND DESIGN / AMBIENCE BED
+A vast echoing temple as the constant — soft wind through columns, a low sacred hum, distant resonance. THROUGH-LINE: a shimmering light-touch tone (the beam at her crown), recurring at the loop. Layers: a swelling angelic shimmer as the markings ignite and she ascends (CLIP 1 end / CLIP 2); a full radiant shimmer at the ascension peak; the shimmer drawing back to one sustained tone and the temple hush as she descends (CLIP 3). Cross-fade beat to beat; the hush at the end equals the start.
+☆ EXTERNAL AUDIO — BLOCK 2: BACKGROUND MUSIC / SCORE TRACK
+Epic and sacred, goosebump-level. KEY/TEMPO: D major, ~60 BPM. THE SPINE (constant): a soft sustained choral pad, present throughout. BUILD: soft strings rise as the markings ignite; a full choir-and-brass apex hits on the CLIP 2 arm-open (the hero beat); the swell decays as she descends, drawing back to one held choral note landing exactly where the reel began — a seamless infinite loop. Cinematic, divine, breathtaking.
+
+═══════════════════════════════════════════════════════════════════════════════
