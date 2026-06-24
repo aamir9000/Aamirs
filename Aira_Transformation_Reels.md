@@ -1817,3 +1817,201 @@ A clean minimalist studio room-tone as the constant — a soft cool hum. THROUGH
 Futuristic, sleek, high-fashion. KEY/TEMPO: F# minor, ~90 BPM. THE SPINE (constant): a cool minimal synth pulse with a deep sub-bass, present throughout. BUILD: a glassy synth arpeggio enters as she chromes; a shimmering synth swell reaches its peak on the CLIP 2 chrome arm-arc (the hero beat); the swell decays as the chrome flows off, drawing back to one cool synth note landing exactly where the reel began — a seamless infinite loop. Modern, sci-fi, runway-cool.
 
 ═══════════════════════════════════════════════════════════════════════════════
+
+
+# CONCEPT B-5 — SHE TURNS INTO A GLOWING FAIRY-SPRITE
+
+Transforms Into: a luminous winged fairy-sprite — translucent glowing wings unfurl and a halo of light-motes swirls up, holds as a glowing fae form, then the wings fold into light and she returns to base Aira.
+Feeling: enchanted whimsy / fairytale magic — sparkling, joyful, dreamlike.
+★ HOOK (first ~1s): a macro on a tiny glowing wisp settling onto her shoulder — then translucent wings begin to unfurl from her back in light.
+Setting: a magical twilight forest glade — glowing mushrooms, drifting fireflies, soft mist, dappled moonlight through the canopy.
+Trigger (signature): A LIGHT-WISP LANDING / HER CUPPING A FIREFLY — the wisp settling begins the unfurl; the wings folding into light completes the reverse.
+Voice: SILENT — diegetic glade + score only.
+Duration: ~14s · 3 clips (angle-cut, single-magic morph, loops to CLIP 1).
+
+## CLIP 1 of 3 — MACRO→MEDIUM CLOSE-UP · THREE-QUARTER · EYE-LEVEL (human Aira → wings BEGIN to unfurl mid-clip)
+
+### START IMAGE (keyframe)
+ANGLE & SHOT SIZE: opens as a MACRO on a glowing firefly in her cupped hands, composed as an eye-level MEDIUM CLOSE-UP (chest-up), three-quarter, Aira gazing at it with delight, a wisp on her shoulder.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: an ethereal layered moss-green-and-gold petal-and-leaf gown (modest, soft sleeves) with organic texture, poised to glow with bioluminescence.
+FOOTWEAR: barefoot / hidden in soft moss.
+EYEWEAR: none.
+ACCESSORIES: a delicate gold leaf circlet, tiny glowing dewdrop earrings.
+HAIR: long loose waves with braided strands, warm auburn, faint glowing wisps woven through.
+MAKEUP: luminous fae glam — a glowing highlight, soft green-gold shimmer lid, dewy rosy lip, freckles with a sparkle, real pores.
+HANDS & NAILS: both hands gently cupped before her around a firefly; soft iridescent-green nails.
+FACIAL MICRO-DYNAMICS: delighted wonder — a soft open-lipped smile, eyes sparkling and warm on the firefly, head tilted with affection, a slow enchanted blink.
+BODY POSTURE & WEIGHT: weight easy, torso three-quarter, shoulders relaxed and curved protectively around the cupped firefly, breathing soft.
+KINETIC STILLNESS (8 layers): (1) the firefly pulsing warm in her hands; (2) drifting fireflies and a soft mist in the glade; (3) auburn waves lifting in a faint breeze; (4) the petal-leaf gown stirring; (5) chest rising softly; (6) glowing mushrooms pulsing nearby; (7) the wisp glowing on her shoulder; (8) a slow enchanted blink.
+SPATIAL LOGIC: FOREGROUND — the cupped hands and glowing firefly, tack-sharp. MIDGROUND — Aira three-quarter. BACKGROUND — a magical twilight glade melting to glowing bokeh.
+LIGHTING: KEY — cool moonlight from above, warm firefly glow from the hands. FILL — soft misty ambient. RIM — a gold edge on the hair and shoulder. PRACTICAL — fireflies, glowing mushrooms, the wisp. SEPARATION — her warm-lit form against the cool glade. BOUNCE — a soft green-gold kick.
+LENS + DOF + BOKEH: opens 100mm macro on the firefly (sharp), resolving to 85mm f/1.8; glade melting to glowing green-gold bokeh.
+COMPOSITION: vertical 9:16, Aira right-of-centre, the cupped firefly the focal accent lower-centre, glowing glade bokeh framing.
+SUBJECT FRAMING & POSITION: Aira reads from the chest up, framed medium-close and intimate, her torso at a three-quarter turn curved around the cupped hands low-centre, her face inclined down and in with delight, the wisp glowing on her shoulder. The camera is near at clean eye level, opening on the macro firefly before settling on her delighted face; she anchors right-of-centre so the glowing glade opens to frame-left. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: enchanted, hushed, fairytale — a magical glade at twilight.
+COLOUR GRADE: VIVID moss-green, gold and teal twilight with glowing accents — saturated, magical, deep-enough shadow, never washed.
+TEXTURE & MICRO-DETAIL: firefly glow, skin freckles and dew, petal-leaf gown detail, glowing-wisp light, mushroom-glow, circlet glint.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features (except the intended morph), asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, dull colour, crushed blacks, garish oversaturation, flat light.
+
+### ANIMATION (this clip, ~5s — human establishing; ★ wings BEGIN to unfurl mid-clip, clip ENDS mid-morph)
+SHOT TYPE & ANGLE: macro-into-eye-level medium close-up, three-quarter; subject ~55% right-of-centre.
+CAMERA MOVEMENT (CHOREOGRAPHY): a slow pull-back from the firefly-macro into the medium close-up, then a gentle continuing push — one continuous shot.
+LENS: 100mm macro easing to 85mm, f/1.8.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–1.8s — she gazes at the firefly cupped in her hands with delight, a wisp glowing on her shoulder.
+- 1.8–3.0s — ★ TRIGGER: the wisp settles fully and pulses; she lifts her gaze, a soft breath of wonder.
+- 3.0–4.5s — ★ MID-CLIP TRANSFORMATION BEGINS: translucent glowing wings begin to unfurl from her back, light-motes rising, her gown starting to glow.
+- 4.5–5.0s — the wings half-open and the glow builds; she is now half-Aira, half-fae, delighted.
+FLUIDITY & WEIGHT NOTES: all eases — the gaze lifts slow, the wisp pulses gently, the wings unfurl like petals opening; her delight against the magic is the charm.
+FABRIC/HAIR/PROP PHYSICS: bioluminescent glow + translucent wing simulation — iridescent membrane catching light with a gentle flutter, floating light-mote particles, soft volumetric glow, firefly drift; the gown blooms with bioluminescence; believable wing transparency.
+FOOTWORK & BODY FLOW: weight easy and grounded, a soft spinal lift as the wings begin to open.
+MID-CLIP TRANSFORMATION (timed): ★ WING-UNFURL ONSET at 3.0–4.5s — triggered by the wisp settling, wings unfurling from the back and the gown glowing, contained as an onset within this clip; clip ends wings half-open.
+LIGHTING-IN-MOTION: as she glows, her bioluminescence lights the glade — mushrooms and mist brightening, light-motes rising around her.
+DIEGETIC AUDIO: a soft magical chime-sparkle as the wisp settles, then a warm shimmer as the wings open.
+MASTER TRACK: a light pizzicato-strings, celeste and harp motif, a sparkling swell beginning at 3.0s.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 2 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the moss-green-and-gold petal-leaf gown now glowing with bioluminescence, half-fae, the wings half-unfurled behind.
+  • FOOTWEAR: barefoot / hidden in moss, beginning to lift slightly off it.
+  • EYEWEAR: none.
+  • ACCESSORIES: the gold leaf circlet and dewdrop earrings glowing brighter among the fae light.
+  • HAIR: auburn waves with the woven wisps glowing more strongly.
+  • MAKEUP: the fae glam lit by her own glow, freckles sparkling.
+  • HANDS & NAILS: hands opening from the cupped firefly, light-motes lifting from the palms, iridescent-green nails.
+  • FACIAL MICRO-DYNAMICS: delighted wonder, soft smile, sparkling eyes lifting, a slow enchanted blink — joy amid the unfurl.
+  • BODY POSTURE & WEIGHT: easy and open, the body lifting slightly as wings spread, a soft spinal lift, breathing.
+  • KINETIC STILLNESS (8 layers): (1) the wings unfurling; (2) light-motes rising; (3) glowing wisps in the hair; (4) the gown bioluminescing; (5) chest rising; (6) glowing mushrooms brightening; (7) fireflies drifting close; (8) an enchanted blink.
+  • SPATIAL LOGIC: FOREGROUND — opening hands and light-motes. MIDGROUND — her half-fae figure. BACKGROUND — glowing twilight glade bokeh.
+  • LIGHTING: KEY — cool moonlight + her warm fae-glow. FILL — soft misty ambient. RIM — gold edge on hair and wings. PRACTICAL — fireflies, mushrooms, her own glow. SEPARATION — glowing form against the cool glade. BOUNCE — green-gold.
+  • ATMOSPHERE: enchanted magic taking hold, sparkling and joyful.
+  • COLOUR GRADE: VIVID moss-green, gold and teal twilight with glowing bloom, saturated.
+  • TEXTURE & MICRO-DETAIL: wing-membrane iridescence, light-motes, skin freckles, gown bioluminescence, mushroom-glow.
+CUT LOGIC: hard ANGLE-CUT to CLIP 2 (full body, wide). No frame-match needed — the angle change is the edit. State carried forward: she is half-fae, wings unfurling, glowing and delighted.
+
+---
+
+## CLIP 2 of 3 — FULL BODY · WIDE · EYE-LEVEL (★ full FAIRY-SPRITE, glowing, the hero beat)
+
+### START IMAGE (keyframe)
+ANGLE & SHOT SIZE: eye-level WIDE, full body; Aira now a complete glowing FAIRY-SPRITE — full translucent iridescent wings spread, a halo of swirling light-motes, hovering just off the moss.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: fully transformed — the petal-leaf gown is now fully bioluminescent, glowing soft green-gold, the edges feathering into light.
+FOOTWEAR: barefoot, toes pointed and hovering just above the glowing moss.
+EYEWEAR: none.
+ACCESSORIES: the gold leaf circlet a glowing crown, the dewdrop earrings bright points of light.
+HAIR: auburn waves lifting weightlessly in the fae-glow, the woven wisps blazing soft gold.
+MAKEUP: luminous fae glam at full glow — radiant highlight, green-gold shimmer, dewy rosy lip, sparkling freckles.
+HANDS & NAILS: hands open and graceful, light-motes streaming from the fingertips; iridescent-green nails glowing.
+FACIAL MICRO-DYNAMICS: serene joyful enchantment — a soft radiant smile, eyes shining warm, head lifted, the glow gently pulsing like breath.
+BODY POSTURE & WEIGHT: a buoyant, lifted stance held in fae-light — hovering, wings spread, one arm graceful, the body weightless yet fully human-shaped.
+KINETIC STILLNESS (8 layers): (1) the iridescent wings flutter slowly; (2) a halo of light-motes swirling up; (3) auburn waves floating weightless; (4) the gown's bioluminescence pulsing; (5) a slow lift like breath; (6) glowing mushrooms and mist lit by her; (7) fireflies orbiting her; (8) the glow gently breathing.
+SPATIAL LOGIC: FOREGROUND — swirling light-motes and a firefly, sharp. MIDGROUND — the fairy-sprite, the hero. BACKGROUND — the enchanted glade glowing under moonlight, soft mist.
+LIGHTING: KEY — she glows, casting soft light on mushrooms, mist and moss. FILL — cool moonlight ambient. RIM — moonlight rim on the wings and hair. PRACTICAL — her own glow, fireflies, mushrooms. SEPARATION — the luminous fae form against the cool dark glade. BOUNCE — green-gold from the moss.
+LENS + DOF + BOKEH: 35mm, f/2.8; the figure sharp, light-motes and fireflies as glowing bokeh, soft mist.
+COMPOSITION: vertical 9:16, the winged figure centred and hovering, wings spreading wide, the glowing glade framing.
+SUBJECT FRAMING & POSITION: Aira fills the frame head-to-hovering-toes as a complete fairy-sprite, her torso open and lifted with wings spread and one arm graceful, hovering just off the moss. The camera sits mid-distance at clean eye level, the wide framing showing the full winged form and the glade lit by her glow; she anchors dead-centre with light-motes fanning to both sides. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: transcendent, joyful enchantment — a being made of fae-light and wings.
+COLOUR GRADE: VIVID enchanted green-gold-teal with glowing bloom — saturated, magical, deep glade-shadow, never washed.
+TEXTURE & MICRO-DETAIL: wing-membrane iridescence and veining, swirling light-motes, glowing flora, floating hair, dewdrop-earring light.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, garbled text, floating shadows, duplicated subjects, plastic look, oversharpened, watermarks, stuck-on/cartoon wings, dull colour, crushed blacks, garish oversaturation, flat light.
+
+### ANIMATION (this clip, ~5s — the magical hero beat; ★ reform BEGINS at the end)
+SHOT TYPE & ANGLE: eye-level wide, full body; subject ~50% centre.
+CAMERA MOVEMENT (CHOREOGRAPHY): a slow reverent orbit a few degrees around her — one continuous shot.
+LENS: 35mm, f/2.8.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–2.0s — the fairy-sprite hovers, wings fluttering gently, light-motes swirling up around her, the glade glowing.
+- 2.0–3.0s — one graceful arm sweeps a slow arc, a ribbon of light-motes streaming off the fingertips and a firefly orbiting — the enchanted hero beat.
+- 3.0–4.0s — she lifts a touch higher, the glow pulsing gently like a deep breath.
+- 4.0–5.0s — ★ REFORM BEGINS: the wings begin to fold into light and the glow draws inward toward her.
+FLUIDITY & WEIGHT NOTES: weightless grace — the arm-arc eases, the hover is buoyant, the wing-fold gathers like light folding away; nothing snaps.
+FABRIC/HAIR/PROP PHYSICS: bioluminescent glow + translucent wing simulation — iridescent membrane fluttering, light-mote particles swirling, soft volumetric glow, firefly drift; the wing-fold and glow-gather read as believable light; gown bioluminescence dimming on cue.
+FOOTWORK & BODY FLOW: she hovers just off the moss, toes pointed, the body buoyant and graceful.
+MID-CLIP TRANSFORMATION (timed): ★ the hero HOLD (0.0–4.0s) then REFORM ONSET (4.0–5.0s) — the wings begin folding into light and the glow draws in, contained as an onset in this clip.
+LIGHTING-IN-MOTION: as the orbit moves, her glow sweeps soft light across the glade; the glow-gather concentrates the light toward her core.
+DIEGETIC AUDIO: a warm magical shimmer with soft tiny bell-flutters, beginning to draw inward.
+MASTER TRACK: the pizzicato-celeste-harp reaches a sparkling magical peak on the arm-arc, then begins drawing back as the reform starts.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 3 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the petal-leaf gown's bioluminescence dimming back toward base, the wings half-folded into light, she lowering toward the moss.
+  • FOOTWEAR: barefoot, toes lowering back toward the moss.
+  • EYEWEAR: none.
+  • ACCESSORIES: the gold leaf circlet and dewdrop earrings dimming from glowing to soft gold.
+  • HAIR: auburn waves settling from weightless float, woven wisps dimming.
+  • MAKEUP: the fae glam's glow fading toward base, freckles softening.
+  • HANDS & NAILS: hands lowering, the last light-motes dropping from the fingertips, iridescent-green nails.
+  • FACIAL MICRO-DYNAMICS: serene joy, soft smile, eyes lowering toward her hands, a slow enchanted blink as the glow fades.
+  • BODY POSTURE & WEIGHT: lowering toward standing, the body settling from buoyant to grounded, breathing.
+  • KINETIC STILLNESS (8 layers): (1) the wings folding to light; (2) light-motes settling; (3) hair settling from float; (4) the gown's glow fading; (5) chest rising; (6) circlet dimming; (7) fireflies drifting off; (8) an enchanted blink.
+  • SPATIAL LOGIC: FOREGROUND — lowering hands and last motes. MIDGROUND — her half-resolved figure. BACKGROUND — glowing twilight glade bokeh.
+  • LIGHTING: KEY — cool moonlight + fading fae-glow. FILL — soft misty ambient. RIM — moonlight on hair. PRACTICAL — fireflies, mushrooms, fading glow. SEPARATION — softening form against the glade. BOUNCE — green-gold.
+  • ATMOSPHERE: the enchantment gently resolving, sparkling and warm.
+  • COLOUR GRADE: VIVID moss-green, gold and teal twilight with fading glow, saturated.
+  • TEXTURE & MICRO-DETAIL: folding wing-membrane, settling motes, dimming bioluminescence, skin freckles, mushroom-glow.
+CUT LOGIC: hard ANGLE-CUT to CLIP 3 (medium close-up, three-quarter). No frame-match needed. State carried forward: she is lowering and dimming toward base, wings folding into light.
+
+---
+
+## CLIP 3 of 3 — MEDIUM CLOSE-UP · THREE-QUARTER · EYE-LEVEL (wings fold → solid Aira; LOOP to CLIP 1)
+
+### START IMAGE (keyframe)
+ANGLE & SHOT SIZE: eye-level MEDIUM CLOSE-UP, three-quarter; the wings folding into light and the glow receding into human Aira, a firefly settling back into her cupped hands.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: the ethereal layered moss-green-and-gold petal-leaf gown re-formed and intact at its base (un-glowing), soft sleeves, modest.
+FOOTWEAR: barefoot / hidden in soft moss.
+EYEWEAR: none.
+ACCESSORIES: the gold leaf circlet and tiny dewdrop earrings, soft gold again.
+HAIR: long loose auburn waves with braided strands, faint glowing wisps woven through, settled.
+MAKEUP: luminous fae glam at base — soft glowing highlight, green-gold shimmer lid, dewy rosy lip, sparkling freckles, real pores.
+HANDS & NAILS: both hands gently cupped before her around a settling firefly — matching CLIP 1 — soft iridescent-green nails.
+FACIAL MICRO-DYNAMICS: delighted wonder — a soft open-lipped smile, eyes sparkling and warm on the firefly, head tilted with affection, a slow enchanted blink — exactly the look that opened CLIP 1.
+BODY POSTURE & WEIGHT: weight easy, torso three-quarter, shoulders curved protectively around the cupped firefly, breathing soft.
+KINETIC STILLNESS (8 layers): (1) the firefly pulsing warm in her hands; (2) drifting fireflies and soft mist; (3) auburn waves settling; (4) the petal-leaf gown stirring; (5) chest easing on an exhale; (6) glowing mushrooms pulsing; (7) the last fold of wing-light fading at her back; (8) a slow enchanted blink.
+SPATIAL LOGIC: FOREGROUND — the cupped hands and settling firefly, sharp. MIDGROUND — Aira three-quarter. BACKGROUND — magical twilight glade glowing bokeh.
+LIGHTING: KEY — cool moonlight + warm firefly glow from the hands. FILL — soft misty ambient. RIM — gold edge on hair and shoulder. PRACTICAL — fireflies, glowing mushrooms, last wing-light. SEPARATION — warm form against the cool glade. BOUNCE — soft green-gold kick.
+LENS + DOF + BOKEH: 85mm, f/1.8; her sharp, the firefly crisp, glade melting to glowing bokeh — matched toward CLIP 1's resolve.
+COMPOSITION: vertical 9:16, Aira right-of-centre, the cupped firefly the focal accent lower-centre, glowing glade bokeh — rhyming with CLIP 1.
+SUBJECT FRAMING & POSITION: Aira reads from the chest up, framed medium-close and intimate, her torso at a three-quarter turn curved around the cupped hands low-centre, her face inclined down and in with delight as the last wing-light folds away. The camera holds near distance at clean eye level, she anchors right-of-centre so the glowing glade opens to frame-left — composed to match CLIP 1's opening so the loop is seamless. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: enchanted resolution — the fairytale hush exactly as it began.
+COLOUR GRADE: VIVID moss-green, gold and teal twilight with glowing accents, saturated — matched to CLIP 1.
+TEXTURE & MICRO-DETAIL: firefly glow, skin freckles and dew, petal-leaf gown detail, fading wing-light, mushroom-glow, circlet glint.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, dull colour, crushed blacks, garish oversaturation, flat light.
+
+### ANIMATION (this clip, ~4s — reform completes; LOOP back to CLIP 1)
+SHOT TYPE & ANGLE: eye-level medium close-up, three-quarter; subject ~55% right-of-centre.
+CAMERA MOVEMENT (CHOREOGRAPHY): a slow settle easing toward CLIP 1's exact framing — one continuous shot.
+LENS: 85mm, f/1.8.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–2.0s — ★ REFORM COMPLETES: the wings fold fully into light and the glow recedes into base Aira, the gown dimming to base, the hands lowering to cup.
+- 2.0–3.0s — fully restored, she gazes down with delight as a firefly settles back into her cupped hands.
+- 3.0–4.0s — she holds the exact enchanted wonder that opened CLIP 1, a wisp glowing on her shoulder — seamless loop point.
+FLUIDITY & WEIGHT NOTES: the reform gathers like light folding home, eased and continuous; she arrives in the opening look with no snap, breath leading the settle.
+FABRIC/HAIR/PROP PHYSICS: wing-fold + glow-gather — wings folding into light, bioluminescence dimming to base, hair settling from float; the firefly lands with real soft weight.
+FOOTWORK & BODY FLOW: weight roots easy onto the moss, a soft spinal settle curving around the firefly.
+MID-CLIP TRANSFORMATION (timed): ★ REFORM COMPLETION at 0.0–2.0s — the fae form fully returns to base Aira, resolving the single-magic morph.
+LIGHTING-IN-MOTION: the fae-glow fades to the firefly's warm point and cool moonlight, the key steadying to the exact balance of CLIP 1.
+DIEGETIC AUDIO: the warm shimmer resolving into one soft chime as the firefly lands, then crickets and a trickling stream.
+MASTER TRACK: the celeste motif draws back to one soft note landing exactly where CLIP 1 began — seamless loop.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 1 (LOOP back to opening) — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the ethereal moss-green-and-gold petal-leaf gown intact at base, soft sleeves, modest.
+  • FOOTWEAR: barefoot / hidden in soft moss.
+  • EYEWEAR: none.
+  • ACCESSORIES: a delicate gold leaf circlet, tiny glowing dewdrop earrings.
+  • HAIR: long loose auburn waves with braided strands, faint glowing wisps woven through.
+  • MAKEUP: glowing highlight, soft green-gold shimmer lid, dewy rosy lip, sparkling freckles, real pores.
+  • HANDS & NAILS: both hands gently cupped around a firefly, soft iridescent-green nails.
+  • FACIAL MICRO-DYNAMICS: delighted wonder, soft open-lipped smile, sparkling warm eyes on the firefly, head tilted, a slow enchanted blink.
+  • BODY POSTURE & WEIGHT: weight easy, torso three-quarter, shoulders curved protectively around the firefly, breathing soft.
+  • KINETIC STILLNESS (8 layers): (1) the firefly pulsing in her hands; (2) drifting fireflies and mist; (3) auburn waves lifting; (4) the gown stirring; (5) a slow inhale; (6) glowing mushrooms pulsing; (7) the wisp glowing on her shoulder; (8) an enchanted blink.
+  • SPATIAL LOGIC: FOREGROUND — cupped hands and firefly. MIDGROUND — Aira three-quarter. BACKGROUND — magical twilight glade glowing bokeh.
+  • LIGHTING: KEY — cool moonlight + warm firefly glow. FILL — soft misty ambient. RIM — gold edge on hair. PRACTICAL — fireflies, mushrooms, the wisp. SEPARATION — warm form against the cool glade. BOUNCE — green-gold.
+  • ATMOSPHERE: enchanted, hushed, fairytale — a magical glade at twilight, exactly as it began.
+  • COLOUR GRADE: VIVID moss-green, gold and teal twilight with glowing accents, saturated.
+  • TEXTURE & MICRO-DETAIL: firefly glow, skin freckles and dew, petal-leaf gown detail, glowing-wisp light, mushroom-glow, circlet glint.
+CUT LOGIC: seamless ANGLE-CUT / LOOP back to CLIP 1 — the wisp settles and her wings unfurl again, forever.
+
+☆ EXTERNAL AUDIO — BLOCK 1: BACKGROUND SOUND DESIGN / AMBIENCE BED
+An enchanted night glade as the constant — soft crickets, a trickling stream, a gentle breeze through leaves. THROUGH-LINE: a delicate chime-sparkle (the wisp settling), recurring at the loop. Layers: a warm magical shimmer as the wings unfurl (CLIP 1 end); a warm shimmer with tiny bell-flutters while she is the fairy-sprite (CLIP 2); the shimmer drawing in resolving to one chime and the glade's crickets/stream as the wings fold (CLIP 3). Cross-fade beat to beat; the glade hush at the end equals the start.
+☆ EXTERNAL AUDIO — BLOCK 2: BACKGROUND MUSIC / SCORE TRACK
+Whimsical fairytale, warm and joyful. KEY/TEMPO: D major, ~84 BPM. THE SPINE (constant): a light pizzicato-strings, celeste and harp motif with a flute melody, present throughout. BUILD: the sparkle grows as the wings unfurl; a magical glittering swell reaches its peak on the CLIP 2 arm-arc (the hero beat); the sparkle decays as the wings fold, drawing back to one celeste note landing exactly where the reel began — a seamless infinite loop. Gentle, joyful, storybook-magical.
+
+═══════════════════════════════════════════════════════════════════════════════
