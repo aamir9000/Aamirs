@@ -2606,3 +2606,201 @@ A vast echoing temple as the constant — soft wind through columns, a low sacre
 Epic and sacred, goosebump-level. KEY/TEMPO: D major, ~60 BPM. THE SPINE (constant): a soft sustained choral pad, present throughout. BUILD: soft strings rise as the markings ignite; a full choir-and-brass apex hits on the CLIP 2 arm-open (the hero beat); the swell decays as she descends, drawing back to one held choral note landing exactly where the reel began — a seamless infinite loop. Cinematic, divine, breathtaking.
 
 ═══════════════════════════════════════════════════════════════════════════════
+
+
+# CONCEPT C-4 — SHE TURNS INTO A MERMAID
+
+Transforms Into: a mythic mermaid — on contact with water her legs become a shimmering iridescent tail, holds reclining on a wet rock, then a wave washes over and her land-form returns.
+Feeling: mythic enchantment / aquatic fantasy — magical, graceful, vivid; fully modest throughout.
+★ HOOK (first ~1s): a macro on a wave washing over her ankles as the first iridescent scales bloom across her skin.
+Setting: a sun-dappled turquoise cove / shallow tide-pool at golden-blue hour, gentle waves, wet rocks, sea-spray.
+Trigger (signature): WATER TOUCHING HER LEGS — the wave over her legs starts the scale-bloom; a wave washing the tail completes the return.
+Voice: SILENT — diegetic waves + score only.
+Duration: ~14s · 3 clips (angle-cut, single-magic morph, loops to CLIP 1).
+
+## CLIP 1 of 3 — MACRO→MEDIUM-FULL · THREE-QUARTER · EYE-LEVEL (land Aira → scales BLOOM mid-clip)
+
+### START IMAGE (keyframe)
+ANGLE & SHOT SIZE: opens as a MACRO on a wave over her ankles with the first scales, composed as an eye-level MEDIUM-FULL, three-quarter, Aira reclining gracefully at the tide-line along a diagonal.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: a draped sea-green-and-pearl wrap over modest high-coverage swim attire (fully modest), wet fabric clinging modestly, edges feathering in the water.
+FOOTWEAR: barefoot, ankles in the lapping water.
+EYEWEAR: none.
+ACCESSORIES: pearl-and-shell earrings, a thin coral bracelet.
+HAIR: long wet flowing waves, deep teal-black with a sea-shimmer, strands sea-damp on the shoulder.
+MAKEUP: dewy aquatic glam — iridescent highlight, a glossy coral lip, tiny scale-shimmer on the cheekbones, real pores beaded with sea-mist.
+HANDS & NAILS: one hand resting on the wet rock, the other trailing in the water; pearlescent nails.
+FACIAL MICRO-DYNAMICS: serene enchanted calm — a soft gaze out to sea, lips parted in a tranquil half-smile, a slow blink, warm-gold sea-light catchlights.
+BODY POSTURE & WEIGHT: a graceful reclining pose along a diagonal, weight on one hip and forearm, modest and elegant, breathing soft.
+KINETIC STILLNESS (8 layers): (1) the wave washing over her ankles; (2) sea-spray drifting in the golden light; (3) wet teal-black waves stirring; (4) the wrap's wet edges feathering; (5) chest rising softly; (6) sun-dapple dancing on the water; (7) the first scales blooming up the shin; (8) a slow serene blink.
+SPATIAL LOGIC: FOREGROUND — the wave, ankles and first scales, tack-sharp. MIDGROUND — Aira reclining. BACKGROUND — a turquoise cove melting to golden-blue bokeh.
+LIGHTING: KEY — warm golden-blue-hour sun. FILL — cool sea-bounce. RIM — a bright sea-sparkle edge on the hair and shoulder. PRACTICAL — sun on water, sea-sparkle. SEPARATION — her form against the turquoise sea. BOUNCE — cool blue-green from the water.
+LENS + DOF + BOKEH: opens 100mm macro on the wave/scales (sharp), resolving to 50mm f/2.2; cove melting to soft golden-blue bokeh, sea-sparkle.
+COMPOSITION: vertical 9:16, Aira along a lower diagonal, the wave/scales the focal accent, the turquoise sea filling the upper frame.
+SUBJECT FRAMING & POSITION: Aira reads from roughly mid-calf up in a medium-full frame, her torso at a three-quarter recline along a diagonal with the wave washing her ankles toward the lens, her face turned out to sea in serene wonder. The camera holds mid-distance at clean eye level, opening on the macro wave before settling on her reclining form; she anchors along the lower-right diagonal so the cove opens to frame-left. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: warm, enchanted, coastal — a mythic golden-hour cove.
+COLOUR GRADE: VIVID turquoise, teal, pearl and coral with warm gold sun — saturated, rich, deep-enough shadow, never washed.
+TEXTURE & MICRO-DETAIL: scale iridescence blooming, wet skin and sea-mist, the wrap's wet weave, pearl-shell earrings, water-sheet on the rock.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features (except the intended morph), asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, immodest exposure, dull water, crushed blacks, garish oversaturation, flat light.
+
+### ANIMATION (this clip, ~5s — land establishing; ★ scales BLOOM mid-clip, clip ENDS mid-morph)
+SHOT TYPE & ANGLE: macro-into-eye-level medium-full, three-quarter; subject ~55% lower-right diagonal.
+CAMERA MOVEMENT (CHOREOGRAPHY): a slow pull-back from the wave-macro into the medium-full, then a gentle continuing drift — one continuous shot.
+LENS: 100mm macro easing to 50mm, f/2.2.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–1.8s — she reclines serenely, gazing out to sea, as a wave washes up over her ankles.
+- 1.8–3.0s — ★ TRIGGER: the water fully laps her legs; iridescent scales begin to bloom up from the waterline.
+- 3.0–4.5s — ★ MID-CLIP TRANSFORMATION BEGINS: the scales spread up the legs, which begin fusing into a shimmering tail.
+- 4.5–5.0s — the legs are half-tail; she is mythic mid-morph, serene and modest.
+FLUIDITY & WEIGHT NOTES: all eases — the gaze is calm, the wave laps gently, the scale-bloom climbs like frost over the skin; her serenity against the myth is the grace.
+FABRIC/HAIR/PROP PHYSICS: scale-bloom spread + fin/tail formation + water-droplet sheeting + caustic sun-dapple on wet skin and scales; the wrap blends with the forming tail; iridescent scale refraction; modest coverage preserved.
+FOOTWORK & BODY FLOW: a reclining grace, the legs easing together as the tail forms, weight on hip and forearm.
+MID-CLIP TRANSFORMATION (timed): ★ SCALE-BLOOM ONSET at 3.0–4.5s — triggered by the water lapping her legs, scales spreading and legs fusing toward a tail, contained as an onset within this clip; clip ends half-tail.
+LIGHTING-IN-MOTION: as the scales bloom, sun-dapple caustics dance across the wet iridescence; sea-sparkle intensifies.
+DIEGETIC AUDIO: a soft magical shimmer with the wave-wash, the trickle of water off scales.
+MASTER TRACK: a flowing harp with a soft ethereal female "ooh", a magical swell beginning at 3.0s.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 2 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the sea-green-and-pearl wrap blending into the forming tail at the hips (fully modest), the upper wrap intact.
+  • FOOTWEAR: none — legs fusing into a half-formed shimmering tail.
+  • EYEWEAR: none.
+  • ACCESSORIES: pearl-and-shell earrings, the coral bracelet, sea-wet.
+  • HAIR: long wet teal-black waves, sea-damp, flowing.
+  • MAKEUP: dewy aquatic glam, iridescent highlight, glossy coral lip, scale-shimmer cheeks.
+  • HANDS & NAILS: one hand on the wet rock, the other trailing in the water, pearlescent nails.
+  • FACIAL MICRO-DYNAMICS: serene enchantment, a soft gaze out to sea, a tranquil half-smile, a slow blink — identity-locked Aira.
+  • BODY POSTURE & WEIGHT: a graceful recline, weight on hip and forearm, the half-tail beginning to flow, breathing.
+  • KINETIC STILLNESS (8 layers): (1) the scale-bloom climbing; (2) sea-spray in the gold light; (3) wet waves stirring; (4) the wrap blending to tail; (5) chest rising; (6) sun-dapple on water; (7) the half-tail shimmering; (8) a serene blink.
+  • SPATIAL LOGIC: FOREGROUND — the forming tail and wet rock. MIDGROUND — her reclining figure. BACKGROUND — turquoise cove golden-blue bokeh.
+  • LIGHTING: KEY — golden-blue-hour sun. FILL — cool sea-bounce. RIM — sea-sparkle edge on hair. PRACTICAL — sun on water. SEPARATION — her form against the turquoise sea. BOUNCE — cool blue-green.
+  • ATMOSPHERE: mythic enchantment taking hold, warm and coastal.
+  • COLOUR GRADE: VIVID turquoise-teal-pearl-coral with warm gold, saturated.
+  • TEXTURE & MICRO-DETAIL: scale iridescence, wet skin and sea-mist, wrap-to-tail blend, pearl-shell earrings, water-sheet.
+CUT LOGIC: hard ANGLE-CUT to CLIP 2 (full body, wide). No frame-match needed — the angle change is the edit. State carried forward: half-tail forming, reclining, serene and modest.
+
+---
+
+## CLIP 2 of 3 — FULL BODY · WIDE · EYE-LEVEL (★ full MERMAID on the rock, the hero beat)
+
+### START IMAGE (keyframe)
+ANGLE & SHOT SIZE: eye-level WIDE, full body; Aira now a complete MERMAID — a long shimmering tail flowing off a wet rock, reclining gracefully in the cove.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: the sea-green-and-pearl wrap flows seamlessly into a long iridescent mermaid tail (fully modest), the upper wrap draped modestly, pearl-shell detail at the waist.
+FOOTWEAR: none — a graceful fluked tail in place of legs.
+EYEWEAR: none.
+ACCESSORIES: pearl-and-shell earrings, the coral bracelet, sea-wet and glinting.
+HAIR: long wet teal-black waves cascading over the shoulder and the rock, sea-shimmering.
+MAKEUP: dewy aquatic glam at full — iridescent highlight, glossy coral lip, scale-shimmer along the cheekbones, sea-misted skin.
+HANDS & NAILS: one hand resting on the rock, the other gracefully poised; pearlescent nails.
+FACIAL MICRO-DYNAMICS: serene mythic enchantment — a soft gaze toward the sea or the lens, a tranquil smile, a slow blink, warm-gold sea-light catchlights.
+BODY POSTURE & WEIGHT: a graceful reclining mermaid pose, weight on hip and forearm, the long tail flowing and curving off the rock, modest and elegant.
+KINETIC STILLNESS (8 layers): (1) the tail flicking gently, sending droplets; (2) sea-spray drifting in the gold light; (3) wet waves flowing; (4) the iridescent scales shimmering; (5) chest rising softly; (6) sun-dapple on the cove; (7) a gull crossing far off; (8) a slow serene blink.
+SPATIAL LOGIC: FOREGROUND — sea-spray and a sharp scale-detail. MIDGROUND — the mermaid, the hero. BACKGROUND — the turquoise cove glowing under golden-blue light.
+LIGHTING: KEY — golden-blue-hour sun. FILL — cool sea-bounce. RIM — bright sea-sparkle on the wet tail and hair. PRACTICAL — sun on water, sparkle. SEPARATION — her form against the turquoise sea. BOUNCE — cool blue-green from the water.
+LENS + DOF + BOKEH: 35mm, f/2.8; the figure sharp, sea-spray and water as soft bokeh, sea-sparkle.
+COMPOSITION: vertical 9:16, the mermaid along a diagonal, the long tail leading the eye, the turquoise cove framing.
+SUBJECT FRAMING & POSITION: Aira fills the frame head-to-tail-fluke as a complete mermaid reclining along a diagonal, her torso at a graceful three-quarter, the long tail flowing off the rock toward frame-right. The camera sits mid-distance at clean eye level, the wide framing showing the full mythic form and the glowing cove; she anchors along the diagonal with the sea opening to frame-left. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: transcendent, mythic, coastal-magical — a being of sea and shimmer.
+COLOUR GRADE: VIVID turquoise-teal-pearl-coral with warm gold — saturated, glowing, the iridescence the anchor.
+TEXTURE & MICRO-DETAIL: scale iridescence and fin translucency, water droplets, wet-hair sheen, pearl-shell detail, sun-dapple.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, garbled text, floating shadows, duplicated subjects, plastic look, oversharpened, watermarks, immodest exposure, dull water, crushed blacks, garish oversaturation, flat light, dead eyes.
+
+### ANIMATION (this clip, ~5s — the hero beat; ★ reform BEGINS at the end)
+SHOT TYPE & ANGLE: eye-level wide, full body; subject ~55% along the diagonal.
+CAMERA MOVEMENT (CHOREOGRAPHY): a slow reverent orbit/arc a few degrees around her — one continuous shot.
+LENS: 35mm, f/2.8.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–2.0s — the mermaid reclines, the tail flicking gently and sending up a fan of droplets, wet hair flowing.
+- 2.0–3.0s — she arcs the tail in a slow graceful sweep, droplets catching the gold light — the mythic hero beat.
+- 3.0–4.0s — she settles, gazing out to sea, the cove glowing, the tail shimmering.
+- 4.0–5.0s — ★ REFORM BEGINS: a wave rolls up over the tail and the scales begin receding, the tail starting to revert to legs.
+FLUIDITY & WEIGHT NOTES: aquatic grace — the tail-arc eases with real water-weight, the recline is languid, the wave-wash gathers smoothly; nothing snaps.
+FABRIC/HAIR/PROP PHYSICS: tail fluid-motion with believable weight, droplet spray with scatter, caustic sun-dapple, sea-spray; the wave washes with real water physics; scale-recede onset reverts the tail to legs modestly.
+FOOTWORK & BODY FLOW: a reclining mermaid grace, the tail flowing and arcing, weight on hip and forearm.
+MID-CLIP TRANSFORMATION (timed): ★ the hero HOLD (0.0–4.0s) then REFORM ONSET (4.0–5.0s) — a wave washes the tail and scales begin receding, contained as an onset in this clip.
+LIGHTING-IN-MOTION: as the orbit moves, sun-dapple caustics sweep the wet tail; the wave brings a fresh sea-sparkle.
+DIEGETIC AUDIO: gentle lapping waves, a soft ethereal vocal, the trickle off the tail, the wave-wash beginning.
+MASTER TRACK: the harp and vocal reach a magical swell on the tail-arc peak, then begin drawing back as the reform starts.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 3 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the tail reverting to legs from the waterline up — the sea-green-and-pearl wrap returning over modest swim attire (fully modest), scales receding.
+  • FOOTWEAR: barefoot, ankles re-forming in the lapping water.
+  • EYEWEAR: none.
+  • ACCESSORIES: pearl-and-shell earrings, the coral bracelet, sea-wet.
+  • HAIR: long wet teal-black waves, sea-damp, flowing.
+  • MAKEUP: dewy aquatic glam, iridescent highlight, glossy coral lip, scale-shimmer cheeks.
+  • HANDS & NAILS: one hand on the wet rock, the other trailing in the water, pearlescent nails.
+  • FACIAL MICRO-DYNAMICS: serene enchantment, a soft gaze out to sea, a tranquil half-smile, a slow blink — identity-locked Aira.
+  • BODY POSTURE & WEIGHT: a graceful recline, weight on hip and forearm, legs re-forming, breathing.
+  • KINETIC STILLNESS (8 layers): (1) the scale-recede descending; (2) sea-spray in the gold light; (3) wet waves stirring; (4) the wrap re-forming; (5) chest rising; (6) sun-dapple on water; (7) the last tail-shimmer fading; (8) a serene blink.
+  • SPATIAL LOGIC: FOREGROUND — re-forming legs and wet rock. MIDGROUND — her reclining figure. BACKGROUND — turquoise cove golden-blue bokeh.
+  • LIGHTING: KEY — golden-blue-hour sun. FILL — cool sea-bounce. RIM — sea-sparkle edge on hair. PRACTICAL — sun on water. SEPARATION — her form against the turquoise sea. BOUNCE — cool blue-green.
+  • ATMOSPHERE: the myth gently resolving, warm and coastal.
+  • COLOUR GRADE: VIVID turquoise-teal-pearl-coral with warm gold, saturated.
+  • TEXTURE & MICRO-DETAIL: receding scales, re-forming wet skin, wrap returning, pearl-shell earrings, water-sheet.
+CUT LOGIC: hard ANGLE-CUT to CLIP 3 (medium-full, three-quarter). No frame-match needed. State carried forward: tail reverting to legs, reclining, serene and modest.
+
+---
+
+## CLIP 3 of 3 — MEDIUM-FULL · THREE-QUARTER · EYE-LEVEL (wave washes → land Aira; LOOP to CLIP 1)
+
+### START IMAGE (keyframe)
+ANGLE & SHOT SIZE: eye-level MEDIUM-FULL, three-quarter; a wave washing over the tail as the land-form returns, Aira reclining at the tide-line along a diagonal.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: the draped sea-green-and-pearl wrap over modest high-coverage swim attire re-formed and intact (fully modest), wet fabric clinging modestly.
+FOOTWEAR: barefoot, ankles in the lapping water.
+EYEWEAR: none.
+ACCESSORIES: pearl-and-shell earrings, a thin coral bracelet.
+HAIR: long wet flowing waves, deep teal-black with a sea-shimmer, sea-damp on the shoulder.
+MAKEUP: dewy aquatic glam — iridescent highlight, glossy coral lip, scale-shimmer cheekbones, real pores beaded with sea-mist.
+HANDS & NAILS: one hand resting on the wet rock, the other trailing in the water — matching CLIP 1 — pearlescent nails.
+FACIAL MICRO-DYNAMICS: serene enchanted calm — a soft gaze out to sea, lips parted in a tranquil half-smile, a slow blink, warm-gold sea-light catchlights — exactly the look that opened CLIP 1.
+BODY POSTURE & WEIGHT: a graceful reclining pose along a diagonal, weight on one hip and forearm, modest and elegant, breathing soft.
+KINETIC STILLNESS (8 layers): (1) the wave washing over her ankles; (2) sea-spray drifting in the golden light; (3) wet teal-black waves stirring; (4) the wrap's wet edges feathering; (5) chest easing on an exhale; (6) sun-dapple dancing on the water; (7) the last scales fading off the shin; (8) a slow serene blink.
+SPATIAL LOGIC: FOREGROUND — the wave, ankles and last fading scales, sharp. MIDGROUND — Aira reclining. BACKGROUND — turquoise cove golden-blue bokeh.
+LIGHTING: KEY — warm golden-blue-hour sun. FILL — cool sea-bounce. RIM — bright sea-sparkle edge on the hair and shoulder. PRACTICAL — sun on water, sparkle. SEPARATION — her form against the turquoise sea. BOUNCE — cool blue-green from the water.
+LENS + DOF + BOKEH: 50mm, f/2.2; her sharp, the wave crisp, cove melting to soft golden-blue bokeh — matched toward CLIP 1.
+COMPOSITION: vertical 9:16, Aira along the lower diagonal, the wave the focal accent, the turquoise sea filling the upper frame — rhyming with CLIP 1.
+SUBJECT FRAMING & POSITION: Aira reads from roughly mid-calf up in a medium-full frame, her torso at a three-quarter recline along a diagonal with the wave washing her ankles toward the lens as the land-form finishes returning, her face turned out to sea in serene wonder. The camera holds mid-distance at clean eye level; she anchors along the lower-right diagonal so the cove opens to frame-left — composed to match CLIP 1's opening so the loop is seamless. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: warm enchanted resolution — the coastal calm exactly as it began.
+COLOUR GRADE: VIVID turquoise-teal-pearl-coral with warm gold sun, saturated — matched to CLIP 1.
+TEXTURE & MICRO-DETAIL: last scale iridescence fading, wet skin and sea-mist, the wrap's wet weave, pearl-shell earrings, water-sheet on the rock.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, immodest exposure, dull water, crushed blacks, garish oversaturation, flat light.
+
+### ANIMATION (this clip, ~4s — reform completes; LOOP back to CLIP 1)
+SHOT TYPE & ANGLE: eye-level medium-full, three-quarter; subject ~55% lower-right diagonal.
+CAMERA MOVEMENT (CHOREOGRAPHY): a slow settle easing toward CLIP 1's exact framing — one continuous shot.
+LENS: 50mm, f/2.2.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–2.0s — ★ REFORM COMPLETES: a wave washes over the tail and it reverts to legs, scales receding, the wrap re-forming over modest swim attire.
+- 2.0–3.0s — fully land-Aira again, she reclines serenely, a wave lapping her ankles.
+- 3.0–4.0s — she holds the exact serene gaze out to sea that opened CLIP 1, scales poised to bloom again — seamless loop point.
+FLUIDITY & WEIGHT NOTES: the reform flows like a wave receding, eased and continuous; she arrives in the opening recline with no snap, breath leading the settle.
+FABRIC/HAIR/PROP PHYSICS: scale-recede + water-sheet — scales receding off re-forming legs with believable water-flow, the wrap returning modestly; a fresh wave laps with real physics.
+FOOTWORK & BODY FLOW: legs re-form, weight rooting onto hip and forearm in the recline, a soft settle.
+MID-CLIP TRANSFORMATION (timed): ★ REFORM COMPLETION at 0.0–2.0s — the tail fully reverts to land-form, resolving the single-magic morph.
+LIGHTING-IN-MOTION: the sun-dapple settles; the golden-blue key steadies to the exact light of CLIP 1.
+DIEGETIC AUDIO: the wave-wash resolving into a soft shimmer and gentle lapping, then the cove's calm.
+MASTER TRACK: the harp and vocal draw back to one harp note over lapping waves landing exactly where CLIP 1 began — seamless loop.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 1 (LOOP back to opening) — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: a draped sea-green-and-pearl wrap over modest high-coverage swim attire (fully modest), wet fabric clinging modestly.
+  • FOOTWEAR: barefoot, ankles in the lapping water.
+  • EYEWEAR: none.
+  • ACCESSORIES: pearl-and-shell earrings, a thin coral bracelet.
+  • HAIR: long wet flowing waves, deep teal-black with a sea-shimmer, sea-damp on the shoulder.
+  • MAKEUP: dewy aquatic glam, iridescent highlight, glossy coral lip, scale-shimmer cheekbones, real pores beaded with sea-mist.
+  • HANDS & NAILS: one hand resting on the wet rock, the other trailing in the water, pearlescent nails.
+  • FACIAL MICRO-DYNAMICS: serene enchanted calm, a soft gaze out to sea, lips parted in a tranquil half-smile, a slow blink.
+  • BODY POSTURE & WEIGHT: a graceful reclining pose along a diagonal, weight on one hip and forearm, modest and elegant.
+  • KINETIC STILLNESS (8 layers): (1) the wave over her ankles; (2) sea-spray in the gold light; (3) wet waves stirring; (4) the wrap's wet edges feathering; (5) a slow inhale; (6) sun-dapple on water; (7) the first scales blooming up the shin; (8) a serene blink.
+  • SPATIAL LOGIC: FOREGROUND — wave, ankles and first scales. MIDGROUND — Aira reclining. BACKGROUND — turquoise cove golden-blue bokeh.
+  • LIGHTING: KEY — golden-blue-hour sun. FILL — cool sea-bounce. RIM — sea-sparkle edge on hair. PRACTICAL — sun on water. SEPARATION — her form against the turquoise sea. BOUNCE — cool blue-green.
+  • ATMOSPHERE: warm, enchanted, coastal — a mythic golden-hour cove, exactly as it began.
+  • COLOUR GRADE: VIVID turquoise-teal-pearl-coral with warm gold, saturated.
+  • TEXTURE & MICRO-DETAIL: scale iridescence, wet skin and sea-mist, the wrap's wet weave, pearl-shell earrings, water-sheet.
+CUT LOGIC: seamless ANGLE-CUT / LOOP back to CLIP 1 — the wave laps her legs and she transforms again, forever.
+
+☆ EXTERNAL AUDIO — BLOCK 1: BACKGROUND SOUND DESIGN / AMBIENCE BED
+A gentle cove as the constant — lapping waves, distant gulls, water dripping off rock. THROUGH-LINE: a magical shimmer with a wave-wash (the trigger), recurring at the loop. Layers: the shimmer and water-trickle as scales bloom (CLIP 1 end); soft tail-splashes and an ethereal hush while she is the mermaid (CLIP 2); the wave-wash resolving to a shimmer and gentle lapping as the land-form returns (CLIP 3). Cross-fade beat to beat; the lapping calm at the end equals the start.
+☆ EXTERNAL AUDIO — BLOCK 2: BACKGROUND MUSIC / SCORE TRACK
+Enchanting and aquatic. KEY/TEMPO: F major, ~68 BPM. THE SPINE (constant): a flowing harp with a soft ethereal female "ooh", present throughout. BUILD: the harp brightens as the scales bloom; a magical swell with gentle strings reaches its peak on the CLIP 2 tail-arc (the hero beat); the swell decays as the land-form returns, drawing back to one harp note over lapping waves landing exactly where the reel began — a seamless infinite loop. Mythic, dreamy, oceanic.
+
+═══════════════════════════════════════════════════════════════════════════════
