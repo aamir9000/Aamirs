@@ -42,7 +42,7 @@ Feeling: serene awe / liquid grace — mesmerising, calming, hypnotically elegan
 Setting: a dark, minimalist reflecting-pool chamber — black stone underfoot under a shallow skin of water, one cool overhead shaft cutting the dark, mirror-still reflections.
 Trigger (signature): CONTACT WITH WATER — the droplet leaving her fingertip and touching the pool ripples the change upward through her body; touching the water again at the end reverses it.
 Voice: SILENT — diegetic water + score only.
-Duration: ~14s · 3 clips (angle-cut, single-magic morph, loops to CLIP 1).
+Duration: 24.000 seconds total — 3 clips × 8s each (VEO renders one 8-second take per clip); the soundtrack below is built to exactly 24.000s and loops seamlessly.
 
 ## CLIP 1 of 3 — MACRO→MEDIUM · FRONT · EYE-LEVEL (human Aira → liquefaction BEGINS mid-clip)
 
@@ -69,19 +69,19 @@ COLOUR GRADE: VIVID aqua-teal jewel-tones on near-black, silver speculars, deep 
 TEXTURE & MICRO-DETAIL: the droplet's refraction and surface tension, wet-skin sheen with real pores, silk's water-ripple weave, the pendant's silver glint, micro-ripples skating the pool.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features (except the intended morph), asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic/over-smoothed skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light, dull desaturated water.
 
-### ANIMATION (this clip, ~5s — human establishing; ★ liquefaction BEGINS mid-clip, clip ENDS mid-morph)
+### ANIMATION (this clip, full 8s — human establishing; ★ liquefaction BEGINS mid-clip, clip ENDS mid-morph)
 SHOT TYPE & ANGLE: macro-into-eye-level medium, front; subject resolving to ~50% centre.
 CAMERA MOVEMENT (CHOREOGRAPHY): a slow pull-back from the droplet-macro into the medium, then a gentle continuing push — one continuous shot.
 LENS: 100mm macro easing to 50mm, f/2.0, droplet then eye sharp.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.6s — the droplet swells and falls from her fingertip toward the pool; her gaze follows it down.
-- 1.6–3.0s — the droplet strikes the water; a single clean ripple rings outward; she gives one slow serene blink.
-- 3.0–4.5s — ★ MID-CLIP TRANSFORMATION BEGINS: from the fingertip that held the drop, clear water races up — her hand and forearm turn translucent and liquid, refraction climbing the limb.
-- 4.5–5.0s — the liquefaction reaches her shoulder; she is now half-solid, half-living-water, utterly calm.
+- 0.0–2.6s — the droplet swells and falls from her fingertip toward the pool; her gaze follows it down.
+- 2.6–4.8s — the droplet strikes the water; a single clean ripple rings outward; she gives one slow serene blink.
+- 4.8–7.2s — ★ MID-CLIP TRANSFORMATION BEGINS: from the fingertip that held the drop, clear water races up — her hand and forearm turn translucent and liquid, refraction climbing the limb.
+- 7.2–8.0s — the liquefaction reaches her shoulder; she is now half-solid, half-living-water, utterly calm.
 FLUIDITY & WEIGHT NOTES: every motion eases — the falling drop leads the eye, the blink is luxurious, the liquefaction climbs like rising tide, never snapping; her calm body against the impossible is the grace.
 FABRIC/HAIR/PROP PHYSICS: the droplet obeys real gravity and surface tension; the ripple propagates with correct wave physics; as the arm turns to water it gains true refraction, caustics and internal flow; the silk sleeve dissolves seamlessly into the liquid; reflections update live.
 FOOTWORK & BODY FLOW: weight stays grounded and even, ankles rooted in the shallow water, a faint spinal settle as she watches.
-MID-CLIP TRANSFORMATION (timed): ★ LIQUEFACTION ONSET at 3.0–4.5s — the change is triggered by the drop touching the pool and climbs from fingertip to shoulder, fully contained as an onset within this clip; clip ends half-liquid.
+MID-CLIP TRANSFORMATION (timed): ★ LIQUEFACTION ONSET at 4.8–7.2s — the change is triggered by the drop touching the pool and climbs from fingertip to shoulder, fully contained as an onset within this clip; clip ends half-liquid.
 LIGHTING-IN-MOTION: as the arm turns to water the cool shaft refracts through it, throwing live caustics that crawl across the black floor.
 DIEGETIC AUDIO: a single resonant water-drop with a long reverb tail, the soft ring of the ripple, then a delicate rising liquid-shimmer as the limb liquefies.
 MASTER TRACK: a low ambient pad with one piano note "dripping" in time with the drop, a soft shimmer-swell beginning at 3.0s.
@@ -130,19 +130,19 @@ COLOUR GRADE: VIVID aqua-teal glass-clear water with silver caustics on black �
 TEXTURE & MICRO-DETAIL: internal flow lines, surface-tension beading, feathered spray, caustic patterns, the hard glint of the suspended pendant, refractive depth.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, garbled text, floating shadows, duplicated subjects, plastic look, oversharpened, watermarks, opaque/dull water, crushed blacks, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~5s — the magical hero beat; ★ reform BEGINS at the end)
+### ANIMATION (this clip, full 8s — the magical hero beat; ★ reform BEGINS at the end)
 SHOT TYPE & ANGLE: slight low-angle full body, three-quarter; subject ~70% centre.
 CAMERA MOVEMENT (CHOREOGRAPHY): a slow, reverent orbit a few degrees around her, low and rising — one continuous shot.
 LENS: 35mm, f/2.8, slight low.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.0s — the water-figure holds her human shape and undulates gently, internal teal currents swirling, the shaft refracting through her.
-- 2.0–3.0s — one water-arm drifts up in a slow graceful arc, droplets feathering off the fingertips — the most beautiful, hypnotic beat.
-- 3.0–4.0s — she settles, the form rising and falling like a deep breath, caustics sweeping the floor.
-- 4.0–5.0s — ★ REFORM BEGINS: a crest forms at the crown and the figure begins to draw inward / collapse downward, water gathering to re-solidify.
+- 0.0–3.2s — the water-figure holds her human shape and undulates gently, internal teal currents swirling, the shaft refracting through her.
+- 3.2–4.8s — one water-arm drifts up in a slow graceful arc, droplets feathering off the fingertips — the most beautiful, hypnotic beat.
+- 4.8–6.4s — she settles, the form rising and falling like a deep breath, caustics sweeping the floor.
+- 6.4–8.0s — ★ REFORM BEGINS: a crest forms at the crown and the figure begins to draw inward / collapse downward, water gathering to re-solidify.
 FLUIDITY & WEIGHT NOTES: pure fluid grace — the arm-arc eases, the undulation is slow and continuous, the reform-onset gathers like a wave preparing to fall; nothing snaps.
 FABRIC/HAIR/PROP PHYSICS: full fluid simulation — standing-wave cohesion, internal currents, surface tension, feathered spray with correct droplet scatter, caustics tracking the orbit; the pendant stays solid and weighted within.
 FOOTWORK & BODY FLOW: the figure's base stays merged with the pool, the whole body swaying like water that remembers a human form.
-MID-CLIP TRANSFORMATION (timed): ★ the hero HOLD (0.0–4.0s) then REFORM ONSET (4.0–5.0s) — the water begins gathering to re-solidify, contained as an onset in this clip.
+MID-CLIP TRANSFORMATION (timed): ★ the hero HOLD (0.0–6.4s) then REFORM ONSET (6.4–8.0s) — the water begins gathering to re-solidify, contained as an onset in this clip.
 LIGHTING-IN-MOTION: as the orbit moves, the shaft's refraction sweeps new caustics across the floor and a moving glow travels through her translucent body.
 DIEGETIC AUDIO: a deep watery body-hum, gentle internal sloshing, soft drips feathering off the arm, the building suck of water beginning to gather.
 MASTER TRACK: an ambient swell blooms to its peak on the arm-arc (a soft string bloom), then begins to draw back as the reform starts.
@@ -191,18 +191,18 @@ COLOUR GRADE: VIVID aqua-teal on near-black, silver speculars, rich blacks, the 
 TEXTURE & MICRO-DETAIL: the beading droplet's refraction, wet-skin pores, silk water-ripple weave, pendant glint, calming micro-ripples.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light, dull water.
 
-### ANIMATION (this clip, ~4s — reform completes; LOOP back to CLIP 1)
+### ANIMATION (this clip, full 8s — reform completes; LOOP back to CLIP 1)
 SHOT TYPE & ANGLE: eye-level medium-full, front; subject ~55% centre.
 CAMERA MOVEMENT (CHOREOGRAPHY): a slow settle easing toward CLIP 1's exact framing — one continuous shot.
 LENS: 50mm, f/2.0.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.0s — ★ REFORM COMPLETES: the gathering water climbs and solidifies into Aira, features and silk resolving from the feet up, the raised hand last.
-- 2.0–3.0s — fully restored, she lowers her gaze to her fingertip where a new droplet beads.
-- 3.0–4.0s — she holds the exact serene stance and expression that opened CLIP 1, the droplet swelling about to fall — seamless loop point.
+- 0.0–4.0s — ★ REFORM COMPLETES: the gathering water climbs and solidifies into Aira, features and silk resolving from the feet up, the raised hand last.
+- 4.0–6.0s — fully restored, she lowers her gaze to her fingertip where a new droplet beads.
+- 6.0–8.0s — she holds the exact serene stance and expression that opened CLIP 1, the droplet swelling about to fall — seamless loop point.
 FLUIDITY & WEIGHT NOTES: the reform gathers like a wave settling, eased and continuous; she arrives in the opening pose with no snap, breath leading the settle.
 FABRIC/HAIR/PROP PHYSICS: fluid re-gather — water climbing and solidifying with believable surface tension, silk weave knitting back, hair condensing, the pool calming to mirror-still; the new droplet forms with real surface tension.
 FOOTWORK & BODY FLOW: weight roots even into the shallow water, a faint spinal settle into stillness.
-MID-CLIP TRANSFORMATION (timed): ★ REFORM COMPLETION at 0.0–2.0s — the water fully re-solidifies into base Aira, resolving the single-magic morph.
+MID-CLIP TRANSFORMATION (timed): ★ REFORM COMPLETION at 0.0–4.0s — the water fully re-solidifies into base Aira, resolving the single-magic morph.
 LIGHTING-IN-MOTION: caustics settle and fade as she solidifies; the cool shaft steadies to the exact key of CLIP 1.
 DIEGETIC AUDIO: a soft gathering splash resolving into the single clean water-drop of the opening, then the hush of still water.
 MASTER TRACK: the ambient pad draws back to one piano note landing exactly where CLIP 1 began — seamless loop.
@@ -240,7 +240,7 @@ Feeling: fierce elegance / quiet power — dramatic, hypnotic, a little dangerou
 Setting: a pitch-black void with a low warm floor-glow; she is the only light source, embers already drifting through the dark.
 Trigger (signature): A SLOW EXHALE / FINGER-SNAP — the breath (or the snap) ignites the embers from her fingertips and hair; a second exhale at the end lets them cool and fall.
 Voice: SILENT — diegetic fire + score only.
-Duration: ~14s · 3 clips (angle-cut, single-magic morph, loops to CLIP 1).
+Duration: 24.000 seconds total — 3 clips × 8s each (VEO renders one 8-second take per clip); the soundtrack below is built to exactly 24.000s and loops seamlessly.
 
 ## CLIP 1 of 3 — CLOSE-UP · FRONT · EYE-LEVEL (human Aira → ignition BEGINS mid-clip)
 
@@ -267,19 +267,19 @@ COLOUR GRADE: VIVID orange-gold-crimson on pure black, glowing speculars, rich u
 TEXTURE & MICRO-DETAIL: the ember's glowing grain and spark-trail, smoke wisp, skin pores under warm light, gold embroidery glint, the oxblood lip's gloss, faint heat-shimmer.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features (except the intended morph), asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light, dull/cartoon flame.
 
-### ANIMATION (this clip, ~5s — human establishing; ★ ignition BEGINS mid-clip, clip ENDS mid-morph)
+### ANIMATION (this clip, full 8s — human establishing; ★ ignition BEGINS mid-clip, clip ENDS mid-morph)
 SHOT TYPE & ANGLE: eye-level close-up, front; subject ~60% centre.
 CAMERA MOVEMENT (CHOREOGRAPHY): a slow, almost-imperceptible push toward her eyes, then holding as the ignition starts — one continuous shot.
 LENS: 85mm, f/2.0, eyes sharp.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.8s — she holds the lens with cool authority, the ember drifting past; one slow blink.
-- 1.8–3.0s — ★ TRIGGER: she exhales slowly through parted lips (or snaps the poised fingers) — the breath fans the wick-tips of her ponytail into glowing amber.
-- 3.0–4.5s — ★ MID-CLIP TRANSFORMATION BEGINS: embers bloom from her fingertips and hair, glowing lines of fire tracing up her form, the gown's coal-edges igniting.
-- 4.5–5.0s — the ignition reaches her jaw and shoulders; she is now half-flesh, half-fire, expression unchanged and unbothered.
+- 0.0–2.9s — she holds the lens with cool authority, the ember drifting past; one slow blink.
+- 2.9–4.8s — ★ TRIGGER: she exhales slowly through parted lips (or snaps the poised fingers) — the breath fans the wick-tips of her ponytail into glowing amber.
+- 4.8–7.2s — ★ MID-CLIP TRANSFORMATION BEGINS: embers bloom from her fingertips and hair, glowing lines of fire tracing up her form, the gown's coal-edges igniting.
+- 7.2–8.0s — the ignition reaches her jaw and shoulders; she is now half-flesh, half-fire, expression unchanged and unbothered.
 FLUIDITY & WEIGHT NOTES: every beat eases — the blink luxurious, the exhale slow, the ignition climbing like a living wick; her stillness against the fire is the power.
 FABRIC/HAIR/PROP PHYSICS: embers rise on real convection with flicker and fade; individual sparks trail and wink out; smoke wisps drift; the gown's edges char-glow then dissolve to flame; heat-shimmer warps the air; light from the growing fire correctly relights her face.
 FOOTWORK & BODY FLOW: minimal — a poised, grounded stillness; only the rising hand and the slow exhale move.
-MID-CLIP TRANSFORMATION (timed): ★ IGNITION ONSET at 3.0–4.5s — triggered by the exhale/snap, climbing from fingertips and hair to jaw and shoulders, fully contained as an onset within this clip; clip ends half-fire.
+MID-CLIP TRANSFORMATION (timed): ★ IGNITION ONSET at 4.8–7.2s — triggered by the exhale/snap, climbing from fingertips and hair to jaw and shoulders, fully contained as an onset within this clip; clip ends half-fire.
 LIGHTING-IN-MOTION: as she ignites, the key shifts from a single ember to a growing flame-glow, deepening the warm rim and flickering shadows up the black.
 DIEGETIC AUDIO: the soft hiss of the exhale, a low whoosh as the embers catch, a delicate building crackle.
 MASTER TRACK: a deep cinematic drone with a slow heartbeat-drum entering at the exhale, a single haunting cello note beginning at 3.0s.
@@ -328,19 +328,19 @@ COLOUR GRADE: VIVID blazing orange-gold-crimson with white-hot cores on black �
 TEXTURE & MICRO-DETAIL: flame-lick detail, ember field, spark trails, heat-shimmer, molten-gold accents, smoke threads.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, garbled text, floating shadows, duplicated subjects, plastic look, oversharpened, watermarks, dull/cartoon flame, crushed blacks, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~5s — the magical hero beat; ★ reform BEGINS at the end)
+### ANIMATION (this clip, full 8s — the magical hero beat; ★ reform BEGINS at the end)
 SHOT TYPE & ANGLE: slight low-angle full body, three-quarter; subject ~70% centre.
 CAMERA MOVEMENT (CHOREOGRAPHY): a slow reverent orbit a few degrees around her, low and rising — one continuous shot.
 LENS: 35mm, f/2.8, slight low.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.0s — the fire-figure holds her human shape and roils, flame-licks rolling upward, embers streaming.
-- 2.0–3.0s — one flaming arm drifts up in a slow graceful arc, a shower of sparks peeling off the fingertips — the hypnotic hero beat.
-- 3.0–4.0s — she settles, the fire rising and falling like a deep breath, glow pulsing on the black.
-- 4.0–5.0s — ★ REFORM BEGINS: the flames gutter and cool from the top, embers beginning to rain downward to gather.
+- 0.0–3.2s — the fire-figure holds her human shape and roils, flame-licks rolling upward, embers streaming.
+- 3.2–4.8s — one flaming arm drifts up in a slow graceful arc, a shower of sparks peeling off the fingertips — the hypnotic hero beat.
+- 4.8–6.4s — she settles, the fire rising and falling like a deep breath, glow pulsing on the black.
+- 6.4–8.0s — ★ REFORM BEGINS: the flames gutter and cool from the top, embers beginning to rain downward to gather.
 FLUIDITY & WEIGHT NOTES: fierce grace — the arm-arc eases, the roil is slow and continuous, the cooling gathers like a fire banking down; nothing snaps.
 FABRIC/HAIR/PROP PHYSICS: full fire/ember particle simulation — convection rise, flicker and fade, individual spark trails, smoke threading, heat-shimmer tracking the orbit; the gold accents stay solid and weighted within.
 FOOTWORK & BODY FLOW: the figure's base trails into ember and smoke at the floor, the whole body roiling like fire that remembers a human form.
-MID-CLIP TRANSFORMATION (timed): ★ the hero HOLD (0.0–4.0s) then REFORM ONSET (4.0–5.0s) — the flames cool and embers begin to fall to reassemble, contained as an onset in this clip.
+MID-CLIP TRANSFORMATION (timed): ★ the hero HOLD (0.0–6.4s) then REFORM ONSET (6.4–8.0s) — the flames cool and embers begin to fall to reassemble, contained as an onset in this clip.
 LIGHTING-IN-MOTION: as the orbit moves, her fire-glow sweeps new flickering shadows across the black; the cooling dims the key toward ember-red.
 DIEGETIC AUDIO: a low roaring flame-body, steady crackle, the shower of sparks ticking, then the soft collapsing hiss as the fire cools.
 MASTER TRACK: the drone and heartbeat-drum reach a brass/choir swell at the arm-arc peak, then draw back as the reform begins.
@@ -389,18 +389,18 @@ COLOUR GRADE: VIVID orange-gold-crimson on pure black, glowing speculars, rich b
 TEXTURE & MICRO-DETAIL: the last ember's grain, settling smoke, skin pores under warm light, gold glint, oxblood-lip gloss, fading shimmer.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light, dull/cartoon flame.
 
-### ANIMATION (this clip, ~4s — reform completes; LOOP back to CLIP 1)
+### ANIMATION (this clip, full 8s — reform completes; LOOP back to CLIP 1)
 SHOT TYPE & ANGLE: eye-level medium easing to close-up, front; subject ~60% centre.
 CAMERA MOVEMENT (CHOREOGRAPHY): a slow settle/push easing toward CLIP 1's exact framing — one continuous shot.
 LENS: 85mm, f/2.0.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.0s — ★ REFORM COMPLETES: the raining embers gather and solidify into Aira, features, hair and gown resolving from the feet up, the raised hand last.
-- 2.0–3.0s — fully restored, she levels her cool gaze to the lens, the faint smirk returning.
-- 3.0–4.0s — she holds the exact poised stance and expression that opened CLIP 1, a last ember drifting past her cheek — seamless loop point.
+- 0.0–4.0s — ★ REFORM COMPLETES: the raining embers gather and solidify into Aira, features, hair and gown resolving from the feet up, the raised hand last.
+- 4.0–6.0s — fully restored, she levels her cool gaze to the lens, the faint smirk returning.
+- 6.0–8.0s — she holds the exact poised stance and expression that opened CLIP 1, a last ember drifting past her cheek — seamless loop point.
 FLUIDITY & WEIGHT NOTES: the reform gathers like a fire settling to coals, eased and continuous; she arrives in the opening pose with no snap, breath leading the settle.
 FABRIC/HAIR/PROP PHYSICS: ember re-gather — sparks climbing and solidifying into skin and fabric with believable cooling, hair condensing, gown-weave knitting back; the last ember rises with real convection.
 FOOTWORK & BODY FLOW: weight roots into the poised, grounded stillness, a faint spinal settle.
-MID-CLIP TRANSFORMATION (timed): ★ REFORM COMPLETION at 0.0–2.0s — the embers fully reassemble into base Aira, resolving the single-magic morph.
+MID-CLIP TRANSFORMATION (timed): ★ REFORM COMPLETION at 0.0–4.0s — the embers fully reassemble into base Aira, resolving the single-magic morph.
 LIGHTING-IN-MOTION: the flame-glow fades to a single ember's light, the key steadying to the exact warmth of CLIP 1.
 DIEGETIC AUDIO: the collapsing hiss resolving into a soft ember-pop and the quiet of the dark — the trigger-state restored.
 MASTER TRACK: the drone and drum draw back to a single haunting cello note landing exactly where CLIP 1 began — seamless loop.
@@ -438,7 +438,7 @@ Feeling: magical delight / wonder — the showstopper, joyful, endlessly rewatch
 Setting: a sunlit blossom meadow at golden hour, soft bokeh blooms, warm dust-motes drifting, tall grass.
 Trigger (signature): THE BUTTERFLY LANDING / HER SOFT BREATH toward it — the contact and breath begin the scatter; a butterfly settling on her palm again at the end completes the reform.
 Voice: SILENT — diegetic meadow + score only.
-Duration: ~14s · 3 clips (angle-cut, single-magic morph, loops to CLIP 1).
+Duration: 24.000 seconds total — 3 clips × 8s each (VEO renders one 8-second take per clip); the soundtrack below is built to exactly 24.000s and loops seamlessly.
 
 ## CLIP 1 of 3 — MACRO→MEDIUM CLOSE-UP · THREE-QUARTER · EYE-LEVEL (human Aira → scatter BEGINS mid-clip)
 
@@ -465,19 +465,19 @@ COLOUR GRADE: VIVID lilac-blush-gold, warm and glowing, saturated florals, rich 
 TEXTURE & MICRO-DETAIL: butterfly wing-scale iridescence, skin dew and freckles, chiffon weave, woven flowers, sun-flare bloom, blossom-bokeh.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features (except the intended morph), asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, blown-out highlights, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~5s — human establishing; ★ scatter BEGINS mid-clip, clip ENDS mid-morph)
+### ANIMATION (this clip, full 8s — human establishing; ★ scatter BEGINS mid-clip, clip ENDS mid-morph)
 SHOT TYPE & ANGLE: macro-into-eye-level medium close-up, three-quarter; subject ~55% right-of-centre.
 CAMERA MOVEMENT (CHOREOGRAPHY): a slow pull-back from the butterfly-macro into the medium close-up, then a gentle continuing drift — one continuous shot.
 LENS: 100mm macro easing to 85mm, f/1.8.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.8s — she gazes at the butterfly on her fingertips with a tender smile, honey waves lifting.
-- 1.8–3.0s — ★ TRIGGER: she breathes a soft warm breath toward it; the butterfly lifts off her palm.
-- 3.0–4.5s — ★ MID-CLIP TRANSFORMATION BEGINS: from her fingertips and skirt-hem, small glowing butterflies flake away and peel into the air.
-- 4.5–5.0s — the scatter climbs her arm and side; she is now half-Aira, half-dissolving-into-wings, still smiling.
+- 0.0–2.9s — she gazes at the butterfly on her fingertips with a tender smile, honey waves lifting.
+- 2.9–4.8s — ★ TRIGGER: she breathes a soft warm breath toward it; the butterfly lifts off her palm.
+- 4.8–7.2s — ★ MID-CLIP TRANSFORMATION BEGINS: from her fingertips and skirt-hem, small glowing butterflies flake away and peel into the air.
+- 7.2–8.0s — the scatter climbs her arm and side; she is now half-Aira, half-dissolving-into-wings, still smiling.
 FLUIDITY & WEIGHT NOTES: all eases — the breath gentle, the lift weightless, the flaking peeling away like petals on a breeze; her tenderness against the magic is the charm.
 FABRIC/HAIR/PROP PHYSICS: flocking/boids butterfly motion — hundreds of individual wings with flutter and translucency catching sun; the chiffon hem dissolves seamlessly into wing-shapes; sun glows through the translucent wings; dust-motes drift on air-currents.
 FOOTWORK & BODY FLOW: weight stays easy and grounded, a soft spinal incline toward the rising butterfly.
-MID-CLIP TRANSFORMATION (timed): ★ SCATTER ONSET at 3.0–4.5s — triggered by the breath and the butterfly's lift, peeling from fingertips and hem up the arm and side, contained as an onset within this clip; clip ends half-scattered.
+MID-CLIP TRANSFORMATION (timed): ★ SCATTER ONSET at 4.8–7.2s — triggered by the breath and the butterfly's lift, peeling from fingertips and hem up the arm and side, contained as an onset within this clip; clip ends half-scattered.
 LIGHTING-IN-MOTION: as wings peel away, sun shafts through the growing swarm, throwing soft moving light-freckles across her and the grass.
 DIEGETIC AUDIO: a soft warm breath, then a blooming flutter of many small wingbeats beginning.
 MASTER TRACK: a light plucked harp/celeste motif with soft strings, a glittering glockenspiel beginning at 3.0s.
@@ -526,19 +526,19 @@ COLOUR GRADE: VIVID lilac-blush-gold, sun-glow, saturated wings against warm sky
 TEXTURE & MICRO-DETAIL: hundreds of individual wings with scale-detail, sun-through-wing translucency, gold accessory-glints, dust-motes, blossom-bokeh.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, garbled text, floating shadows, duplicated subjects, plastic look, oversharpened, watermarks, dull colour, crushed blacks, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~5s — the magical hero beat; ★ reform BEGINS at the end)
+### ANIMATION (this clip, full 8s — the magical hero beat; ★ reform BEGINS at the end)
 SHOT TYPE & ANGLE: eye-level wide, full body; subject ~50% centre.
 CAMERA MOVEMENT (CHOREOGRAPHY): a slow reverent orbit a few degrees around her — one continuous shot.
 LENS: 35mm, f/2.8.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.0s — the butterfly-cloud holds her shape and shimmers, wings rippling in slow waves across the silhouette.
-- 2.0–3.0s — the raised "arm" sweeps in a slow graceful arc, a ribbon of butterflies streaming off it — the hypnotic hero beat.
-- 3.0–4.0s — she settles, the whole cloud pulsing gently like a deep breath, sun blazing through.
-- 4.0–5.0s — ★ REFORM BEGINS: the swarm starts to funnel downward and inward to re-gather toward her solid form.
+- 0.0–3.2s — the butterfly-cloud holds her shape and shimmers, wings rippling in slow waves across the silhouette.
+- 3.2–4.8s — the raised "arm" sweeps in a slow graceful arc, a ribbon of butterflies streaming off it — the hypnotic hero beat.
+- 4.8–6.4s — she settles, the whole cloud pulsing gently like a deep breath, sun blazing through.
+- 6.4–8.0s — ★ REFORM BEGINS: the swarm starts to funnel downward and inward to re-gather toward her solid form.
 FLUIDITY & WEIGHT NOTES: weightless grace — the arm-arc eases, the ripple flows wing-to-wing, the funnel gathers like a tide of wings; nothing snaps.
 FABRIC/HAIR/PROP PHYSICS: flocking cohesion holds the human silhouette while thousands of wings flutter independently; sun-through-wing translucency; the funnel obeys believable swarm dynamics; gold accents stay solid and weighted within.
 FOOTWORK & BODY FLOW: the figure hovers just off the grass, the cloud swaying like butterflies that remember a human form.
-MID-CLIP TRANSFORMATION (timed): ★ the hero HOLD (0.0–4.0s) then REFORM ONSET (4.0–5.0s) — the swarm begins funnelling to re-gather, contained as an onset in this clip.
+MID-CLIP TRANSFORMATION (timed): ★ the hero HOLD (0.0–6.4s) then REFORM ONSET (6.4–8.0s) — the swarm begins funnelling to re-gather, contained as an onset in this clip.
 LIGHTING-IN-MOTION: as the orbit moves, sun-shafts sweep new light-freckles across the meadow and shimmer travels through the translucent swarm.
 DIEGETIC AUDIO: a soft thunder of thousands of wingbeats, warm and full, beginning to draw together.
 MASTER TRACK: the harp-and-celeste motif blooms to a glittering glockenspiel peak on the arm-arc, then begins drawing back as the reform starts.
@@ -587,18 +587,18 @@ COLOUR GRADE: VIVID lilac-blush-gold, warm glowing, saturated florals, rich gold
 TEXTURE & MICRO-DETAIL: butterfly wing-scale iridescence, skin dew and freckles, chiffon weave, woven flowers, sun-flare, blossom-bokeh.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, blown-out highlights, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~4s — reform completes; LOOP back to CLIP 1)
+### ANIMATION (this clip, full 8s — reform completes; LOOP back to CLIP 1)
 SHOT TYPE & ANGLE: eye-level medium close-up, three-quarter; subject ~55% right-of-centre.
 CAMERA MOVEMENT (CHOREOGRAPHY): a slow settle easing toward CLIP 1's exact framing — one continuous shot.
 LENS: 85mm, f/1.8.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.0s — ★ REFORM COMPLETES: the funnelling butterflies gather and solidify into Aira, features, hair and chiffon resolving from the feet up, the cupped hand last.
-- 2.0–3.0s — fully restored, she turns her tender gaze down to the butterfly settling on her fingertips.
-- 3.0–4.0s — she holds the exact warm stance and smile that opened CLIP 1, the butterfly's wings opening slowly — seamless loop point.
+- 0.0–4.0s — ★ REFORM COMPLETES: the funnelling butterflies gather and solidify into Aira, features, hair and chiffon resolving from the feet up, the cupped hand last.
+- 4.0–6.0s — fully restored, she turns her tender gaze down to the butterfly settling on her fingertips.
+- 6.0–8.0s — she holds the exact warm stance and smile that opened CLIP 1, the butterfly's wings opening slowly — seamless loop point.
 FLUIDITY & WEIGHT NOTES: the reform gathers like a tide of wings settling, eased and continuous; she arrives in the opening pose with no snap, breath leading the settle.
 FABRIC/HAIR/PROP PHYSICS: butterfly re-gather — wings folding into skin and chiffon with believable cohesion, hair condensing, the skirt knitting back; the settling butterfly lands with real weight.
 FOOTWORK & BODY FLOW: weight roots easy into the grass, a soft spinal incline toward the little creature.
-MID-CLIP TRANSFORMATION (timed): ★ REFORM COMPLETION at 0.0–2.0s — the swarm fully reassembles into base Aira, resolving the single-magic morph.
+MID-CLIP TRANSFORMATION (timed): ★ REFORM COMPLETION at 0.0–4.0s — the swarm fully reassembles into base Aira, resolving the single-magic morph.
 LIGHTING-IN-MOTION: the sun-freckles settle as she solidifies; the golden key steadies to the exact warmth of CLIP 1.
 DIEGETIC AUDIO: the full wingbeats resolving into a single soft flutter as the last butterfly lands, then warm meadow breeze and birdsong.
 MASTER TRACK: the glittering motif draws back to one soft harp note landing exactly where CLIP 1 began — seamless loop.
@@ -636,7 +636,7 @@ Feeling: romantic beauty / rebirth — lush, feminine, tender, alive.
 Setting: a soft-focus greenhouse with diffused milky light, lush green foliage, floating pollen-motes, dewed leaves.
 Trigger (signature): THE COLLARBONE BUD BLOOMING — the first flower opening starts the spread; a flower closing back to a bud at the end reverses it.
 Voice: SILENT — diegetic greenhouse + score only.
-Duration: ~14s · 3 clips (angle-cut, single-magic morph, loops to CLIP 1).
+Duration: 24.000 seconds total — 3 clips × 8s each (VEO renders one 8-second take per clip); the soundtrack below is built to exactly 24.000s and loops seamlessly.
 
 ## CLIP 1 of 3 — MACRO→CLOSE-UP · THREE-QUARTER · EYE-LEVEL (human Aira → bloom-spread BEGINS mid-clip)
 
@@ -663,19 +663,19 @@ COLOUR GRADE: VIVID emerald and blush/peach/coral florals on soft green, rich an
 TEXTURE & MICRO-DETAIL: bud and petal-velvet detail, skin dew and pores, sage-corset embroidery, woven flowers, pollen-motes, leaf-dew.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features (except the intended morph), asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, muddy greens, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~5s — human establishing; ★ bloom-spread BEGINS mid-clip, clip ENDS mid-morph)
+### ANIMATION (this clip, full 8s — human establishing; ★ bloom-spread BEGINS mid-clip, clip ENDS mid-morph)
 SHOT TYPE & ANGLE: macro-into-eye-level close-up, three-quarter; subject ~55% upper-right.
 CAMERA MOVEMENT (CHOREOGRAPHY): a slow pull-back from the bud-macro into the close-up, then a gentle continuing push — one continuous shot.
 LENS: 100mm macro easing to 85mm, f/2.2.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.8s — she gazes down at the bud at her collarbone with tender anticipation; loose tendrils stir.
-- 1.8–3.0s — ★ TRIGGER: the bud trembles and bursts open into a vivid flower; her smile softens with wonder.
-- 3.0–4.5s — ★ MID-CLIP TRANSFORMATION BEGINS: blooms spread from the collarbone up her neck and across her shoulder, the appliqué coming alive into real flowers.
-- 4.5–5.0s — the bloom reaches her jaw and shoulder; she is now half-Aira, half-flowering, serene.
+- 0.0–2.9s — she gazes down at the bud at her collarbone with tender anticipation; loose tendrils stir.
+- 2.9–4.8s — ★ TRIGGER: the bud trembles and bursts open into a vivid flower; her smile softens with wonder.
+- 4.8–7.2s — ★ MID-CLIP TRANSFORMATION BEGINS: blooms spread from the collarbone up her neck and across her shoulder, the appliqué coming alive into real flowers.
+- 7.2–8.0s — the bloom reaches her jaw and shoulder; she is now half-Aira, half-flowering, serene.
 FLUIDITY & WEIGHT NOTES: all eases — the bud-burst gentle, the spread climbing like time-lapse growth, petals unfurling slow; her tenderness against the bloom is the grace.
 FABRIC/HAIR/PROP PHYSICS: time-lapse bloom growth — buds swelling, petals unfurling with believable curl, vines creeping with phototropic motion; the corset appliqué morphs seamlessly into living blooms; pollen-motes drift on air-currents; a dewdrop rolls off a new petal.
 FOOTWORK & BODY FLOW: weight easy and grounded, a soft spinal incline toward the blooming collarbone.
-MID-CLIP TRANSFORMATION (timed): ★ BLOOM-SPREAD ONSET at 3.0–4.5s — triggered by the collarbone bud bursting, climbing from collarbone to jaw and shoulder, contained as an onset within this clip; clip ends half-bloomed.
+MID-CLIP TRANSFORMATION (timed): ★ BLOOM-SPREAD ONSET at 4.8–7.2s — triggered by the collarbone bud bursting, climbing from collarbone to jaw and shoulder, contained as an onset within this clip; clip ends half-bloomed.
 LIGHTING-IN-MOTION: as blooms spread, the diffused light warms a touch and dapples through the growing florals onto her skin.
 DIEGETIC AUDIO: a soft organic blooming-creak and tiny petal-rustle, delicate chimes, the hush of the greenhouse.
 MASTER TRACK: soft fingerpicked guitar/harp with a delicate music-box motif, a gentle bloom-swell beginning at 3.0s.
@@ -724,19 +724,19 @@ COLOUR GRADE: VIVID coral-blush-peach florals on emerald — saturated, fresh, g
 TEXTURE & MICRO-DETAIL: dense petal-velvet, leaf-vein and dew, pollen-motes, drifting petals, gold accessory-glints, a bee's fuzz.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, garbled text, floating shadows, duplicated subjects, plastic look, oversharpened, watermarks, muddy greens, crushed blacks, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~5s — the magical hero beat; ★ reform BEGINS at the end)
+### ANIMATION (this clip, full 8s — the magical hero beat; ★ reform BEGINS at the end)
 SHOT TYPE & ANGLE: eye-level wide, full body; subject ~50% centre.
 CAMERA MOVEMENT (CHOREOGRAPHY): a slow reverent orbit a few degrees around her — one continuous shot.
 LENS: 35mm, f/2.8.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.0s — the flower-figure holds her shape and trembles, petals shivering in slow waves, a few drifting down.
-- 2.0–3.0s — the lifted "arm" sweeps in a slow graceful arc, a shower of petals lifting off it — the hypnotic hero beat.
-- 3.0–4.0s — she settles, the whole figure swaying gently like a deep breath, sun-shaft gilding the blooms.
-- 4.0–5.0s — ★ REFORM BEGINS: petals begin to scatter and lift, the figure starting to gather back toward her solid form.
+- 0.0–3.2s — the flower-figure holds her shape and trembles, petals shivering in slow waves, a few drifting down.
+- 3.2–4.8s — the lifted "arm" sweeps in a slow graceful arc, a shower of petals lifting off it — the hypnotic hero beat.
+- 4.8–6.4s — she settles, the whole figure swaying gently like a deep breath, sun-shaft gilding the blooms.
+- 6.4–8.0s — ★ REFORM BEGINS: petals begin to scatter and lift, the figure starting to gather back toward her solid form.
 FLUIDITY & WEIGHT NOTES: lush grace — the arm-arc eases, the tremble flows petal-to-petal, the scatter lifts like petals on a breeze; nothing snaps.
 FABRIC/HAIR/PROP PHYSICS: petal-fall with believable air-drift, vine-tendrils stirring with phototropic life, blooms opening and closing; the gold accents stay solid and weighted within; pollen-motes on air-currents.
 FOOTWORK & BODY FLOW: the figure's base stays rooted to the floor, the whole body swaying like flowers that remember a human form.
-MID-CLIP TRANSFORMATION (timed): ★ the hero HOLD (0.0–4.0s) then REFORM ONSET (4.0–5.0s) — petals begin scattering to re-gather, contained as an onset in this clip.
+MID-CLIP TRANSFORMATION (timed): ★ the hero HOLD (0.0–6.4s) then REFORM ONSET (6.4–8.0s) — petals begin scattering to re-gather, contained as an onset in this clip.
 LIGHTING-IN-MOTION: as the orbit moves, the sun-shaft sweeps new dapples across the blooms and a soft glow travels the floral form.
 DIEGETIC AUDIO: a soft petal-rustle and breeze, a gentle organic creak, the greenhouse hush.
 MASTER TRACK: the guitar/harp motif blooms to a delicate music-box peak on the arm-arc, then begins drawing back as the reform starts.
@@ -785,18 +785,18 @@ COLOUR GRADE: VIVID emerald and blush/peach/coral on soft green, rich, fresh, fu
 TEXTURE & MICRO-DETAIL: bud and petal-velvet, skin dew and pores, corset embroidery, woven flowers, pollen-motes, leaf-dew.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, muddy greens, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~4s — reform completes; LOOP back to CLIP 1)
+### ANIMATION (this clip, full 8s — reform completes; LOOP back to CLIP 1)
 SHOT TYPE & ANGLE: eye-level close-up, three-quarter; subject ~55% upper-right.
 CAMERA MOVEMENT (CHOREOGRAPHY): a slow settle easing toward CLIP 1's exact framing — one continuous shot.
 LENS: 85mm, f/2.2.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.0s — ★ REFORM COMPLETES: the swirling petals gather and solidify into Aira, features, hair and corset resolving from the feet up, the collarbone bloom last.
-- 2.0–3.0s — fully restored, she lowers her tender gaze to the bloom closing back into a tight bud at her collarbone.
-- 3.0–4.0s — she holds the exact serene stance and soft smile that opened CLIP 1, the bud poised to burst again — seamless loop point.
+- 0.0–4.0s — ★ REFORM COMPLETES: the swirling petals gather and solidify into Aira, features, hair and corset resolving from the feet up, the collarbone bloom last.
+- 4.0–6.0s — fully restored, she lowers her tender gaze to the bloom closing back into a tight bud at her collarbone.
+- 6.0–8.0s — she holds the exact serene stance and soft smile that opened CLIP 1, the bud poised to burst again — seamless loop point.
 FLUIDITY & WEIGHT NOTES: the reform gathers like petals settling, eased and continuous; she arrives in the opening pose with no snap, breath leading the settle.
 FABRIC/HAIR/PROP PHYSICS: petal re-gather — petals folding into skin and fabric with believable cohesion, vines retracting, the corset embroidery knitting back, the collarbone flower closing to a bud with reverse-bloom physics.
 FOOTWORK & BODY FLOW: weight roots soft and grounded, a gentle spinal incline toward the collarbone.
-MID-CLIP TRANSFORMATION (timed): ★ REFORM COMPLETION at 0.0–2.0s — the petals fully reassemble into base Aira, resolving the single-magic morph.
+MID-CLIP TRANSFORMATION (timed): ★ REFORM COMPLETION at 0.0–4.0s — the petals fully reassemble into base Aira, resolving the single-magic morph.
 LIGHTING-IN-MOTION: the dapples settle as she solidifies; the diffused key steadies to the exact softness of CLIP 1.
 DIEGETIC AUDIO: the petal-rustle resolving into a soft single chime as the bud closes, then the greenhouse hush.
 MASTER TRACK: the music-box motif draws back to one soft plucked note landing exactly where CLIP 1 began — seamless loop.
@@ -834,7 +834,7 @@ Feeling: mysterious elegance / dreamlike — moody, hypnotic, sensual-but-modest
 Setting: a moody dark room with a single hard light-shaft cutting through low haze, smoke already drifting across the floor.
 Trigger (signature): A SLOW HEAD-TURN / EXHALE INTO THE SHAFT — the turn and breath begin the unravelling; a second slow turn at the end re-condenses her.
 Voice: SILENT — diegetic air + score only.
-Duration: ~14s · 3 clips (angle-cut, single-magic morph, loops to CLIP 1).
+Duration: 24.000 seconds total — 3 clips × 8s each (VEO renders one 8-second take per clip); the soundtrack below is built to exactly 24.000s and loops seamlessly.
 
 ## CLIP 1 of 3 — MEDIUM · PROFILE · EYE-LEVEL (human Aira → unravelling BEGINS mid-clip)
 
@@ -861,19 +861,19 @@ COLOUR GRADE: VIVID-but-moody monochrome — charcoal and silver with a cool blu
 TEXTURE & MICRO-DETAIL: smoke-curl density, chiffon drift, porcelain-skin pores under the cool light, silver-choker glint, god-ray volumetrics.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features (except the intended morph), asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, muddy grey, crushed blacks, flat light.
 
-### ANIMATION (this clip, ~5s — human establishing; ★ unravelling BEGINS mid-clip, clip ENDS mid-morph)
+### ANIMATION (this clip, full 8s — human establishing; ★ unravelling BEGINS mid-clip, clip ENDS mid-morph)
 SHOT TYPE & ANGLE: eye-level medium, full profile; subject ~55% right-of-centre.
 CAMERA MOVEMENT (CHOREOGRAPHY): a slow drift in toward her profile, then holding as the unravelling starts — one continuous shot.
 LENS: 50mm, f/2.0, god-rays.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.8s — she holds the poised profile, a tendril of smoke curling off her shoulder.
-- 1.8–3.0s — ★ TRIGGER: she turns her head slowly toward the shaft and exhales into the light; the breath becomes visible vapour.
-- 3.0–4.5s — ★ MID-CLIP TRANSFORMATION BEGINS: her edges and the chiffon train unravel into curling smoke that drifts up into the shaft.
-- 4.5–5.0s — the unravelling reaches her shoulder and jaw; she is now half-Aira, half-vapour, serene.
+- 0.0–2.9s — she holds the poised profile, a tendril of smoke curling off her shoulder.
+- 2.9–4.8s — ★ TRIGGER: she turns her head slowly toward the shaft and exhales into the light; the breath becomes visible vapour.
+- 4.8–7.2s — ★ MID-CLIP TRANSFORMATION BEGINS: her edges and the chiffon train unravel into curling smoke that drifts up into the shaft.
+- 7.2–8.0s — the unravelling reaches her shoulder and jaw; she is now half-Aira, half-vapour, serene.
 FLUIDITY & WEIGHT NOTES: all eases — the head-turn slow, the exhale languid, the unravelling curling like smoke off a wick; her poise against the dissolve is the elegance.
 FABRIC/HAIR/PROP PHYSICS: volumetric smoke/fluid simulation — turbulent curls, density gradients, god-rays slicing through the vapour; the chiffon train blends seamlessly into the smoke; escaped wisps lift with the rising air.
 FOOTWORK & BODY FLOW: a poised, grounded profile; only the head-turn, the lifting hand and the rising vapour move.
-MID-CLIP TRANSFORMATION (timed): ★ UNRAVELLING ONSET at 3.0–4.5s — triggered by the head-turn and exhale, drifting from the edges and train up into the shaft, contained as an onset within this clip; clip ends half-vapour.
+MID-CLIP TRANSFORMATION (timed): ★ UNRAVELLING ONSET at 4.8–7.2s — triggered by the head-turn and exhale, drifting from the edges and train up into the shaft, contained as an onset within this clip; clip ends half-vapour.
 LIGHTING-IN-MOTION: as she unravels, the shaft catches the new smoke, god-rays intensifying and shifting through the rising vapour.
 DIEGETIC AUDIO: a slow soft exhale, a faint airy whoosh as the edges dissolve, a low hiss.
 MASTER TRACK: a slow noir double-bass and brushed snare with a smoky muted-trumpet motif, a reverberant swell beginning at 3.0s.
@@ -922,19 +922,19 @@ COLOUR GRADE: VIVID-but-moody charcoal-silver with a cool-blue shaft on black �
 TEXTURE & MICRO-DETAIL: turbulent smoke curls, density gradients, god-ray volumetrics, the hard silver glint, feathered edges.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, garbled text, floating shadows, duplicated subjects, plastic look, oversharpened, watermarks, muddy grey, crushed blacks, flat light.
 
-### ANIMATION (this clip, ~5s — the magical hero beat; ★ reform BEGINS at the end)
+### ANIMATION (this clip, full 8s — the magical hero beat; ★ reform BEGINS at the end)
 SHOT TYPE & ANGLE: slight low-angle full body, three-quarter; subject ~70% centre.
 CAMERA MOVEMENT (CHOREOGRAPHY): a slow reverent orbit a few degrees around her, low and rising — one continuous shot.
 LENS: 35mm, f/2.8, slight low.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.0s — the smoke-figure holds her human shape and roils, turbulent curls rolling slowly through the silhouette.
-- 2.0–3.0s — one smoke-arm drifts up in a slow graceful arc, a ribbon of vapour trailing off it through the shaft — the hypnotic hero beat.
-- 3.0–4.0s — she settles, the form rising and falling like a deep breath, god-rays shifting.
-- 4.0–5.0s — ★ REFORM BEGINS: the vapour begins to draw inward and downward to re-condense toward her solid form.
+- 0.0–3.2s — the smoke-figure holds her human shape and roils, turbulent curls rolling slowly through the silhouette.
+- 3.2–4.8s — one smoke-arm drifts up in a slow graceful arc, a ribbon of vapour trailing off it through the shaft — the hypnotic hero beat.
+- 4.8–6.4s — she settles, the form rising and falling like a deep breath, god-rays shifting.
+- 6.4–8.0s — ★ REFORM BEGINS: the vapour begins to draw inward and downward to re-condense toward her solid form.
 FLUIDITY & WEIGHT NOTES: sultry grace — the arm-arc eases, the roil is slow and continuous, the in-draw gathers like smoke pulled by a slow breath; nothing snaps.
 FABRIC/HAIR/PROP PHYSICS: volumetric smoke simulation — turbulent cohesion holding the human shape, density gradients, god-rays tracking the orbit; the silver choker stays solid and weighted within.
 FOOTWORK & BODY FLOW: the figure's base dissolves into the floor-haze, the whole body undulating like smoke that remembers a human form.
-MID-CLIP TRANSFORMATION (timed): ★ the hero HOLD (0.0–4.0s) then REFORM ONSET (4.0–5.0s) — the vapour begins drawing in to re-condense, contained as an onset in this clip.
+MID-CLIP TRANSFORMATION (timed): ★ the hero HOLD (0.0–6.4s) then REFORM ONSET (6.4–8.0s) — the vapour begins drawing in to re-condense, contained as an onset in this clip.
 LIGHTING-IN-MOTION: as the orbit moves, the shaft's god-rays sweep new volumetric beams through the vapour and a cool glow travels the figure.
 DIEGETIC AUDIO: a low airy drone, a soft hiss, the whisper of moving air, beginning to draw inward.
 MASTER TRACK: the noir bass and muted-trumpet reach a reverberant swell on the arm-arc peak, then begin drawing back as the reform starts.
@@ -983,18 +983,18 @@ COLOUR GRADE: VIVID-but-moody charcoal-silver with a cool-blue shaft, rich black
 TEXTURE & MICRO-DETAIL: smoke-curl density, chiffon drift, porcelain pores, silver-choker glint, god-ray volumetrics.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, muddy grey, crushed blacks, flat light.
 
-### ANIMATION (this clip, ~4s — reform completes; LOOP back to CLIP 1)
+### ANIMATION (this clip, full 8s — reform completes; LOOP back to CLIP 1)
 SHOT TYPE & ANGLE: eye-level medium, full profile; subject ~55% right-of-centre.
 CAMERA MOVEMENT (CHOREOGRAPHY): a slow settle easing toward CLIP 1's exact framing — one continuous shot.
 LENS: 50mm, f/2.0, god-rays.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.0s — ★ REFORM COMPLETES: the in-drawing vapour condenses into Aira, features, hair and gown resolving from the feet up, the lifted hand last.
-- 2.0–3.0s — fully restored, she holds her profile toward the shaft, a last tendril curling off her shoulder.
-- 3.0–4.0s — she holds the exact poised profile and half-lidded calm that opened CLIP 1, mid-exhale — seamless loop point.
+- 0.0–4.0s — ★ REFORM COMPLETES: the in-drawing vapour condenses into Aira, features, hair and gown resolving from the feet up, the lifted hand last.
+- 4.0–6.0s — fully restored, she holds her profile toward the shaft, a last tendril curling off her shoulder.
+- 6.0–8.0s — she holds the exact poised profile and half-lidded calm that opened CLIP 1, mid-exhale — seamless loop point.
 FLUIDITY & WEIGHT NOTES: the reform gathers like smoke pulled home, eased and continuous; she arrives in the opening pose with no snap, breath leading the settle.
 FABRIC/HAIR/PROP PHYSICS: smoke re-condense — vapour drawing into skin and chiffon with believable density, hair condensing, the train re-forming; the last tendril rises with real turbulence.
 FOOTWORK & BODY FLOW: weight roots into the tall poised profile, a faint spinal settle.
-MID-CLIP TRANSFORMATION (timed): ★ REFORM COMPLETION at 0.0–2.0s — the vapour fully re-condenses into base Aira, resolving the single-magic morph.
+MID-CLIP TRANSFORMATION (timed): ★ REFORM COMPLETION at 0.0–4.0s — the vapour fully re-condenses into base Aira, resolving the single-magic morph.
 LIGHTING-IN-MOTION: god-rays settle as she solidifies; the hard shaft steadies to the exact key of CLIP 1.
 DIEGETIC AUDIO: the airy whoosh resolving into a soft slow exhale, then the hush of the dark room.
 MASTER TRACK: the noir bass and trumpet draw back to a single soft bass note landing exactly where CLIP 1 began — seamless loop.
@@ -1035,7 +1035,7 @@ Feeling: cosmic awe / wonder — vast, dreamy, transcendent, goosebump-level.
 Setting: a pitch-black void; she is lit only by the stars emerging within her, deep-space dark all around.
 Trigger (signature): A STAR IGNITING IN HER EYE AS SHE LOOKS UP — the ignition and upward gaze begin the spread; the last star fading in her iris re-forms her.
 Voice: SILENT — diegetic cosmic shimmer + score only.
-Duration: ~14s · 3 clips (angle-cut, single-magic morph, loops to CLIP 1).
+Duration: 24.000 seconds total — 3 clips × 8s each (VEO renders one 8-second take per clip); the soundtrack below is built to exactly 24.000s and loops seamlessly.
 
 ## CLIP 1 of 3 — EXTREME CLOSE-UP · FRONT · EYE-LEVEL (human Aira → starfield BEGINS spreading mid-clip)
 
@@ -1062,19 +1062,19 @@ COLOUR GRADE: VIVID midnight-blue, violet and silver on pure black, glowing star
 TEXTURE & MICRO-DETAIL: iris fibre-detail and the star-bloom, skin pores under starlight, the velvet's silver flecks, diamond-stud sparkle, lash detail.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features (except the intended morph), asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, dead eyes, statue-stiff posture, muddy navy, crushed blacks, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~5s — human establishing; ★ starfield BEGINS spreading mid-clip, clip ENDS mid-morph)
+### ANIMATION (this clip, full 8s — human establishing; ★ starfield BEGINS spreading mid-clip, clip ENDS mid-morph)
 SHOT TYPE & ANGLE: eye-level extreme close-up, front; subject face ~90% of frame.
 CAMERA MOVEMENT (CHOREOGRAPHY): an almost-imperceptible slow push into the eye, then holding as the starfield spreads — one continuous shot.
 LENS: 100mm, f/2.0, iris sharp.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.8s — she holds a held-breath calm, eyes lowered, then begins to lift her gaze.
-- 1.8–3.0s — ★ TRIGGER: a star ignites deep in her iris as her eyes lift fully in awe; her lips part on the held breath.
-- 3.0–4.5s — ★ MID-CLIP TRANSFORMATION BEGINS: constellations bloom out from the iris across her cheeks and skin, glowing star-points multiplying.
-- 4.5–5.0s — the starfield covers her face; she is now half-Aira, half-cosmos, gazing up in wonder.
+- 0.0–2.9s — she holds a held-breath calm, eyes lowered, then begins to lift her gaze.
+- 2.9–4.8s — ★ TRIGGER: a star ignites deep in her iris as her eyes lift fully in awe; her lips part on the held breath.
+- 4.8–7.2s — ★ MID-CLIP TRANSFORMATION BEGINS: constellations bloom out from the iris across her cheeks and skin, glowing star-points multiplying.
+- 7.2–8.0s — the starfield covers her face; she is now half-Aira, half-cosmos, gazing up in wonder.
 FLUIDITY & WEIGHT NOTES: all eases — the gaze lifts slow, the star ignites soft, the constellations spread like frost blooming; her awe against the cosmos is the grace.
 FABRIC/HAIR/PROP PHYSICS: particle starfield with twinkle and bloom; the velvet begins dissolving into deep-space at the edges; star-points have believable light-bloom and parallax depth.
 FOOTWORK & BODY FLOW: minimal — only the lifting gaze, the parting lips and the spreading stars move; a held, reverent stillness.
-MID-CLIP TRANSFORMATION (timed): ★ STARFIELD ONSET at 3.0–4.5s — triggered by the star igniting and the upward gaze, spreading from the iris across the face, contained as an onset within this clip; clip ends face-starfielded.
+MID-CLIP TRANSFORMATION (timed): ★ STARFIELD ONSET at 4.8–7.2s — triggered by the star igniting and the upward gaze, spreading from the iris across the face, contained as an onset within this clip; clip ends face-starfielded.
 LIGHTING-IN-MOTION: as stars bloom across her, her skin self-lights with cool starlight, the violet rim deepening.
 DIEGETIC AUDIO: a single high crystalline chime (the star igniting), then a wash of twinkling shimmer as the constellations spread.
 MASTER TRACK: a slow ethereal pad with soft female "ah" choir, a glassy bell-tone entering at 3.0s.
@@ -1123,19 +1123,19 @@ COLOUR GRADE: VIVID deep-space blues, violets, pinks and silver on black — lum
 TEXTURE & MICRO-DETAIL: nebula gas, star-clusters, a shooting-star trail, the hard accessory-glints, parallax depth.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, garbled text, floating shadows, duplicated subjects, plastic look, oversharpened, watermarks, muddy navy, crushed blacks, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~5s — the magical hero beat; ★ reform BEGINS at the end)
+### ANIMATION (this clip, full 8s — the magical hero beat; ★ reform BEGINS at the end)
 SHOT TYPE & ANGLE: slight low-angle full body, three-quarter; subject ~70% centre.
 CAMERA MOVEMENT (CHOREOGRAPHY): a slow reverent orbit a few degrees around her, low and rising — one continuous shot.
 LENS: 35mm, f/2.8, slight low.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.0s — the galaxy-figure holds her shape, the internal spiral rotating slowly, nebulae drifting, stars twinkling.
-- 2.0–3.0s — the raised "arm" sweeps a slow graceful arc, a trail of stars and a shooting star streaming off it — the hypnotic hero beat.
-- 3.0–4.0s — she settles, the whole cosmos pulsing gently like a deep breath.
-- 4.0–5.0s — ★ REFORM BEGINS: the stars begin to draw inward toward a central point, the galaxy gathering to re-form her solid body.
+- 0.0–3.2s — the galaxy-figure holds her shape, the internal spiral rotating slowly, nebulae drifting, stars twinkling.
+- 3.2–4.8s — the raised "arm" sweeps a slow graceful arc, a trail of stars and a shooting star streaming off it — the hypnotic hero beat.
+- 4.8–6.4s — she settles, the whole cosmos pulsing gently like a deep breath.
+- 6.4–8.0s — ★ REFORM BEGINS: the stars begin to draw inward toward a central point, the galaxy gathering to re-form her solid body.
 FLUIDITY & WEIGHT NOTES: vast, weightless grace — the arm-arc eases, the rotation is slow and continuous, the in-draw gathers like a galaxy collapsing gently; nothing snaps.
 FABRIC/HAIR/PROP PHYSICS: particle starfield + volumetric nebula simulation — galactic rotation, drifting gas, parallax depth, star-twinkle; the accessory-stars stay solid and weighted within.
 FOOTWORK & BODY FLOW: the figure's base mists into nebula at the floor, the whole body turning like a slow cosmos that remembers a human form.
-MID-CLIP TRANSFORMATION (timed): ★ the hero HOLD (0.0–4.0s) then REFORM ONSET (4.0–5.0s) — the stars begin drawing in to re-form, contained as an onset in this clip.
+MID-CLIP TRANSFORMATION (timed): ★ the hero HOLD (0.0–6.4s) then REFORM ONSET (6.4–8.0s) — the stars begin drawing in to re-form, contained as an onset in this clip.
 LIGHTING-IN-MOTION: as the orbit moves, the internal cosmos casts shifting cool bloom; the in-draw concentrates the light toward her core.
 DIEGETIC AUDIO: a deep vast cosmic drone with delicate twinkles, beginning to draw inward.
 MASTER TRACK: the ethereal pad and choir reach a grand string-and-choir swell on the arm-arc peak, then begin drawing back as the reform starts.
@@ -1184,18 +1184,18 @@ COLOUR GRADE: VIVID midnight-blue, violet and silver on pure black, glowing star
 TEXTURE & MICRO-DETAIL: iris fibre-detail and fading star, skin pores under starlight, velvet silver-flecks, diamond-stud sparkle, lash detail.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, dead eyes, statue-stiff posture, muddy navy, crushed blacks, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~4s — reform completes; LOOP back to CLIP 1)
+### ANIMATION (this clip, full 8s — reform completes; LOOP back to CLIP 1)
 SHOT TYPE & ANGLE: eye-level extreme close-up, front; subject face ~90% of frame.
 CAMERA MOVEMENT (CHOREOGRAPHY): a slow settle easing toward CLIP 1's exact framing — one continuous shot.
 LENS: 100mm, f/2.0, iris sharp.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.0s — ★ REFORM COMPLETES: the drawing-in stars condense into Aira's skin, features and velvet resolving, the face last to settle from the starfield.
-- 2.0–3.0s — fully restored, she holds her awed upward gaze, a last star fading deep in her iris.
-- 3.0–4.0s — she holds the exact held-breath awe that opened CLIP 1, the star winking down to a point — seamless loop point.
+- 0.0–4.0s — ★ REFORM COMPLETES: the drawing-in stars condense into Aira's skin, features and velvet resolving, the face last to settle from the starfield.
+- 4.0–6.0s — fully restored, she holds her awed upward gaze, a last star fading deep in her iris.
+- 6.0–8.0s — she holds the exact held-breath awe that opened CLIP 1, the star winking down to a point — seamless loop point.
 FLUIDITY & WEIGHT NOTES: the reform gathers like a galaxy collapsing softly into her, eased and continuous; she arrives in the opening look with no snap, breath leading the settle.
 FABRIC/HAIR/PROP PHYSICS: star re-gather — star-points condensing into skin and velvet with believable bloom, hair condensing, the last star fading with a soft light-decay.
 FOOTWORK & BODY FLOW: the head settles into the few-degree upward tilt, a held reverent stillness.
-MID-CLIP TRANSFORMATION (timed): ★ REFORM COMPLETION at 0.0–2.0s — the starfield fully re-forms into base Aira, resolving the single-magic morph.
+MID-CLIP TRANSFORMATION (timed): ★ REFORM COMPLETION at 0.0–4.0s — the starfield fully re-forms into base Aira, resolving the single-magic morph.
 LIGHTING-IN-MOTION: the self-lit starlight fades to a single star's glow in the eye, the key steadying to the exact near-black of CLIP 1.
 DIEGETIC AUDIO: the twinkling shimmer resolving into a single high crystalline chime, then deep-space silence.
 MASTER TRACK: the pad and choir draw back to a single glassy bell-tone landing exactly where CLIP 1 began — seamless loop.
@@ -1233,7 +1233,7 @@ Feeling: opulent power / regal luxury — rich, statuesque, jaw-dropping.
 Setting: a dark marble gallery with a single warm spotlight, baroque shadows, a faint gilded reflection on polished stone.
 Trigger (signature): LIQUID GOLD TOUCHING HER SKIN — a drip from above (or her touching a gilded surface) starts the tide; the gold receding completes the reverse.
 Voice: SILENT — diegetic metal + score only.
-Duration: ~14s · 3 clips (angle-cut, single-magic morph, loops to CLIP 1).
+Duration: 24.000 seconds total — 3 clips × 8s each (VEO renders one 8-second take per clip); the soundtrack below is built to exactly 24.000s and loops seamlessly.
 
 ## CLIP 1 of 3 — MACRO→MEDIUM CLOSE-UP · THREE-QUARTER · EYE-LEVEL (human Aira → gilding BEGINS mid-clip)
 
@@ -1260,19 +1260,19 @@ COLOUR GRADE: VIVID gold and warm ivory on near-black, glossy speculars, rich un
 TEXTURE & MICRO-DETAIL: liquid-gold reflectivity and viscosity, skin pores under warm light, the ivory drape's folds, gold-earring glint, bronze-lip gloss, marble sheen.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features (except the intended morph), asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, flat dull gold, crushed blacks, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~5s — human establishing; ★ gilding BEGINS mid-clip, clip ENDS mid-morph)
+### ANIMATION (this clip, full 8s — human establishing; ★ gilding BEGINS mid-clip, clip ENDS mid-morph)
 SHOT TYPE & ANGLE: macro-into-eye-level medium close-up, three-quarter; subject ~55% upper-right.
 CAMERA MOVEMENT (CHOREOGRAPHY): a slow pull-back from the gold-macro into the medium close-up, then a gentle continuing push — one continuous shot.
 LENS: 100mm macro easing to 85mm, f/2.0.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.8s — she holds a regal poised calm; a single drop of molten gold lands and beads on her collarbone.
-- 1.8–3.0s — ★ TRIGGER: the gold touches and begins to spread; she lifts her chin a touch, serene.
-- 3.0–4.5s — ★ MID-CLIP TRANSFORMATION BEGINS: molten gold sweeps up her neck and across the shoulder like a rising tide, gilding and hardening to polished gold.
-- 4.5–5.0s — the gold reaches her jaw; she is now half-flesh, half-gold, composed and regal.
+- 0.0–2.9s — she holds a regal poised calm; a single drop of molten gold lands and beads on her collarbone.
+- 2.9–4.8s — ★ TRIGGER: the gold touches and begins to spread; she lifts her chin a touch, serene.
+- 4.8–7.2s — ★ MID-CLIP TRANSFORMATION BEGINS: molten gold sweeps up her neck and across the shoulder like a rising tide, gilding and hardening to polished gold.
+- 7.2–8.0s — the gold reaches her jaw; she is now half-flesh, half-gold, composed and regal.
 FLUIDITY & WEIGHT NOTES: all eases — the chin-lift slow, the gold-tide climbing smoothly, the hardening luminous; her regal stillness against the gilding is the power.
 FABRIC/HAIR/PROP PHYSICS: molten-metal flow with correct viscosity and reflectivity sweeping up, hardening into brushed-then-polished gold with accurate speculars and gallery-reflections; the ivory drape gilds fold by fold; no flat-paint look.
 FOOTWORK & BODY FLOW: a poised, grounded statuesque stillness; only the chin-lift and the climbing gold move.
-MID-CLIP TRANSFORMATION (timed): ★ GILDING ONSET at 3.0–4.5s — triggered by the gold touching her skin, climbing from collarbone to jaw, contained as an onset within this clip; clip ends half-gold.
+MID-CLIP TRANSFORMATION (timed): ★ GILDING ONSET at 4.8–7.2s — triggered by the gold touching her skin, climbing from collarbone to jaw, contained as an onset within this clip; clip ends half-gold.
 LIGHTING-IN-MOTION: as she gilds, the spotlight blazes brighter off the new gold, throwing warm reflections into the dark gallery.
 DIEGETIC AUDIO: a bright metallic chime as the gold lands, a flowing-liquid-metal tone as it sweeps up.
 MASTER TRACK: a slow baroque-tinged string and harpsichord motif, a grand swell beginning at 3.0s.
@@ -1321,19 +1321,19 @@ COLOUR GRADE: VIVID radiant gold with warm speculars on near-black — luminous,
 TEXTURE & MICRO-DETAIL: polished and brushed gold, drape-fold modelling, gallery-reflections, the living warm eyes, the gilded floor-mirror.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, garbled text, floating shadows, duplicated subjects, plastic look, oversharpened, watermarks, flat dull gold, crushed blacks, garish oversaturation, flat light, dead eyes.
 
-### ANIMATION (this clip, ~5s — the magical hero beat; ★ reform BEGINS at the end)
+### ANIMATION (this clip, full 8s — the magical hero beat; ★ reform BEGINS at the end)
 SHOT TYPE & ANGLE: slight low-angle full body, three-quarter; subject ~70% centre.
 CAMERA MOVEMENT (CHOREOGRAPHY): a slow reverent orbit a few degrees around her, low and rising — one continuous shot.
 LENS: 35mm, f/2.8, slight low.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.0s — the gold-figure holds regal museum-stillness, only her warm eyes blinking and a faint breath moving her, the spotlight gliding over the gold.
-- 2.0–3.0s — one gold arm drifts up in a slow graceful arc, light blazing along the polished surface — the opulent hero beat.
-- 3.0–4.0s — she settles, the gilded reflection shimmering beneath, the gold radiant.
-- 4.0–5.0s — ★ REFORM BEGINS: the gold begins to recede like a reverse-tide / flake away from the top, flesh re-emerging.
+- 0.0–3.2s — the gold-figure holds regal museum-stillness, only her warm eyes blinking and a faint breath moving her, the spotlight gliding over the gold.
+- 3.2–4.8s — one gold arm drifts up in a slow graceful arc, light blazing along the polished surface — the opulent hero beat.
+- 4.8–6.4s — she settles, the gilded reflection shimmering beneath, the gold radiant.
+- 6.4–8.0s — ★ REFORM BEGINS: the gold begins to recede like a reverse-tide / flake away from the top, flesh re-emerging.
 FLUIDITY & WEIGHT NOTES: regal grace — the arm-arc eases, the stillness is alive with breath, the recede flows like a tide pulling back; nothing snaps.
 FABRIC/HAIR/PROP PHYSICS: molten-metal + solidified-gold simulation — accurate reflectivity and speculars, the recede as a believable reverse-flow/flake, gallery-reflections tracking the orbit; the living eyes stay warm and human.
 FOOTWORK & BODY FLOW: gold feet grounded on the marble with a perfect reflection, the body holding a statuesque sway as it breathes.
-MID-CLIP TRANSFORMATION (timed): ★ the hero HOLD (0.0–4.0s) then REFORM ONSET (4.0–5.0s) — the gold begins receding to reveal flesh, contained as an onset in this clip.
+MID-CLIP TRANSFORMATION (timed): ★ the hero HOLD (0.0–6.4s) then REFORM ONSET (6.4–8.0s) — the gold begins receding to reveal flesh, contained as an onset in this clip.
 LIGHTING-IN-MOTION: as the orbit moves, the spotlight sends travelling speculars across the gold and the gilded floor-reflection shifts.
 DIEGETIC AUDIO: a deep resonant metallic hum, a faint shimmer, beginning the receding tone.
 MASTER TRACK: the baroque strings and harpsichord reach a grand orchestral swell on the arm-arc peak, then begin drawing back as the reform starts.
@@ -1382,18 +1382,18 @@ COLOUR GRADE: VIVID gold and warm ivory on near-black, glossy speculars, rich bl
 TEXTURE & MICRO-DETAIL: receding-gold reflectivity, skin pores under warm light, ivory drape folds, gold-earring glint, bronze-lip gloss, marble sheen.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, flat dull gold, crushed blacks, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~4s — reform completes; LOOP back to CLIP 1)
+### ANIMATION (this clip, full 8s — reform completes; LOOP back to CLIP 1)
 SHOT TYPE & ANGLE: eye-level medium close-up, three-quarter; subject ~55% upper-right.
 CAMERA MOVEMENT (CHOREOGRAPHY): a slow settle easing toward CLIP 1's exact framing — one continuous shot.
 LENS: 85mm, f/2.0.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.0s — ★ REFORM COMPLETES: the gold recedes down and off her, flesh, hair and ivory drape re-emerging from the feet up, the collarbone last.
-- 2.0–3.0s — fully restored, she holds her regal poise, the last gold-line leaving her collarbone.
-- 3.0–4.0s — she holds the exact serene composure that opened CLIP 1, a fresh drop of gold poised above — seamless loop point.
+- 0.0–4.0s — ★ REFORM COMPLETES: the gold recedes down and off her, flesh, hair and ivory drape re-emerging from the feet up, the collarbone last.
+- 4.0–6.0s — fully restored, she holds her regal poise, the last gold-line leaving her collarbone.
+- 6.0–8.0s — she holds the exact serene composure that opened CLIP 1, a fresh drop of gold poised above — seamless loop point.
 FLUIDITY & WEIGHT NOTES: the reform flows like a tide pulling back, eased and continuous; she arrives in the opening pose with no snap, breath leading the settle.
 FABRIC/HAIR/PROP PHYSICS: reverse-gild — gold flowing off and revealing skin/fabric with believable surface-flow, hair un-gilding, the drape returning to ivory; the new gold-drop forms with real viscosity above.
 FOOTWORK & BODY FLOW: weight roots into the poised statuesque stance, a faint regal settle.
-MID-CLIP TRANSFORMATION (timed): ★ REFORM COMPLETION at 0.0–2.0s — the gold fully recedes into base Aira, resolving the single-magic morph.
+MID-CLIP TRANSFORMATION (timed): ★ REFORM COMPLETION at 0.0–4.0s — the gold fully recedes into base Aira, resolving the single-magic morph.
 LIGHTING-IN-MOTION: the blazing gold-speculars settle to the warm spotlight of CLIP 1.
 DIEGETIC AUDIO: the metallic tone resolving into a single bright chime, then the gallery's hush.
 MASTER TRACK: the baroque strings draw back to one harpsichord note landing exactly where CLIP 1 began — seamless loop.
@@ -1431,7 +1431,7 @@ Feeling: fragile beauty / ethereal prism — delicate, luminous, prismatic, brea
 Setting: a bright white-and-glass studio with one hard light source for dispersion, clean and minimal, faint rainbow caustics on the floor.
 Trigger (signature): HARD LIGHT HITTING HER HAND — the beam striking her skin (or her touching a crystal prism) starts the faceting; the crystal clarifying back completes the reverse.
 Voice: SILENT — diegetic glass tones + score only.
-Duration: ~14s · 3 clips (angle-cut, single-magic morph, loops to CLIP 1).
+Duration: 24.000 seconds total — 3 clips × 8s each (VEO renders one 8-second take per clip); the soundtrack below is built to exactly 24.000s and loops seamlessly.
 
 ## CLIP 1 of 3 — MACRO→CLOSE-UP · THREE-QUARTER · EYE-LEVEL (human Aira → crystal BEGINS spreading mid-clip)
 
@@ -1458,19 +1458,19 @@ COLOUR GRADE: VIVID iridescent rainbow on clean bright white — prismatic spect
 TEXTURE & MICRO-DETAIL: glass refraction and rainbow dispersion, skin pores under bright light, organza shimmer, crystal-earring spectra, glass-glaze nails.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features (except the intended morph), asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, dull/opaque glass, muddy colour, flat light.
 
-### ANIMATION (this clip, ~5s — human establishing; ★ crystallisation BEGINS mid-clip, clip ENDS mid-morph)
+### ANIMATION (this clip, full 8s — human establishing; ★ crystallisation BEGINS mid-clip, clip ENDS mid-morph)
 SHOT TYPE & ANGLE: macro-into-eye-level close-up, three-quarter; subject ~55% right-of-centre.
 CAMERA MOVEMENT (CHOREOGRAPHY): a slow pull-back from the hand-macro into the close-up, then a gentle continuing push — one continuous shot.
 LENS: 100mm macro easing to 85mm, f/2.2.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.8s — she lifts her hand into the light, a rainbow splitting across the palm; she gazes at it in wonder.
-- 1.8–3.0s — ★ TRIGGER: the hard beam strikes her hand fully; the skin begins to clarify to glass.
-- 3.0–4.5s — ★ MID-CLIP TRANSFORMATION BEGINS: crystal spreads up the arm and across the shoulder, faceting, rainbows splitting through her.
-- 4.5–5.0s — the crystal reaches her jaw; she is now half-flesh, half-glass, gazing in delicate wonder.
+- 0.0–2.9s — she lifts her hand into the light, a rainbow splitting across the palm; she gazes at it in wonder.
+- 2.9–4.8s — ★ TRIGGER: the hard beam strikes her hand fully; the skin begins to clarify to glass.
+- 4.8–7.2s — ★ MID-CLIP TRANSFORMATION BEGINS: crystal spreads up the arm and across the shoulder, faceting, rainbows splitting through her.
+- 7.2–8.0s — the crystal reaches her jaw; she is now half-flesh, half-glass, gazing in delicate wonder.
 FLUIDITY & WEIGHT NOTES: all eases — the hand lifts slow, the clarifying blooms gently, the faceting climbs like frost on glass; her wonder against the prism is the grace.
 FABRIC/HAIR/PROP PHYSICS: refraction/caustics + faceting simulation — accurate glass refraction, rainbow dispersion, internal facets and slight fractures catching light, caustics thrown on the floor; the organza fuses into clear crystal; no opaque-plastic look.
 FOOTWORK & BODY FLOW: a soft, grounded poise; only the raised hand, the gaze and the spreading crystal move.
-MID-CLIP TRANSFORMATION (timed): ★ CRYSTALLISATION ONSET at 3.0–4.5s — triggered by the beam striking her hand, spreading up the arm to the jaw, contained as an onset within this clip; clip ends half-crystal.
+MID-CLIP TRANSFORMATION (timed): ★ CRYSTALLISATION ONSET at 4.8–7.2s — triggered by the beam striking her hand, spreading up the arm to the jaw, contained as an onset within this clip; clip ends half-crystal.
 LIGHTING-IN-MOTION: as she crystallises, the hard beam refracts through her, throwing live rainbow caustics that crawl across the white floor.
 DIEGETIC AUDIO: a high glassy ring as the hand clarifies, then delicate crystalline tinkles as the crystal spreads.
 MASTER TRACK: a delicate glass-harmonica/glockenspiel and harp motif, a shimmering swell beginning at 3.0s.
@@ -1519,19 +1519,19 @@ COLOUR GRADE: VIVID prismatic rainbow on clean bright white — spectral pops, c
 TEXTURE & MICRO-DETAIL: facet planes, internal refraction and fractures, rainbow dispersion, bright caustics, spun-glass hair.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, garbled text, floating shadows, duplicated subjects, plastic/opaque look, oversharpened, watermarks, dull glass, muddy colour, flat light.
 
-### ANIMATION (this clip, ~5s — the magical hero beat; ★ reform BEGINS at the end)
+### ANIMATION (this clip, full 8s — the magical hero beat; ★ reform BEGINS at the end)
 SHOT TYPE & ANGLE: eye-level full body, front; subject ~60% centre.
 CAMERA MOVEMENT (CHOREOGRAPHY): a slow reverent orbit a few degrees around her — one continuous shot.
 LENS: 35mm, f/2.8.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.0s — the crystal figure holds her shape, rainbows sweeping through the glass as the light angle shifts, caustics dancing.
-- 2.0–3.0s — one crystal arm lifts in a slow graceful arc, a fan of rainbows splitting off the fingertips — the prismatic hero beat.
-- 3.0–4.0s — she settles, the whole form glinting and refracting gently like a deep breath.
-- 4.0–5.0s — ★ REFORM BEGINS: the crystal begins to clarify back toward skin, the facets softening to flesh from the top.
+- 0.0–3.2s — the crystal figure holds her shape, rainbows sweeping through the glass as the light angle shifts, caustics dancing.
+- 3.2–4.8s — one crystal arm lifts in a slow graceful arc, a fan of rainbows splitting off the fingertips — the prismatic hero beat.
+- 4.8–6.4s — she settles, the whole form glinting and refracting gently like a deep breath.
+- 6.4–8.0s — ★ REFORM BEGINS: the crystal begins to clarify back toward skin, the facets softening to flesh from the top.
 FLUIDITY & WEIGHT NOTES: delicate grace — the arm-arc eases, the refractions sweep slow, the clarifying flows gently; nothing snaps.
 FABRIC/HAIR/PROP PHYSICS: refraction/caustics + faceting simulation — accurate dispersion shifting with the orbit, internal facets and fractures, caustics tracking the move; the form's refractions read as living glass; clarify-onset softens facets to skin.
 FOOTWORK & BODY FLOW: crystal feet grounded with bright caustics, the body holding a soft sway as it breathes light.
-MID-CLIP TRANSFORMATION (timed): ★ the hero HOLD (0.0–4.0s) then REFORM ONSET (4.0–5.0s) — the crystal begins clarifying to flesh, contained as an onset in this clip.
+MID-CLIP TRANSFORMATION (timed): ★ the hero HOLD (0.0–6.4s) then REFORM ONSET (6.4–8.0s) — the crystal begins clarifying to flesh, contained as an onset in this clip.
 LIGHTING-IN-MOTION: as the orbit moves, the beam sends sweeping rainbows through her and the floor-caustics fan and shift.
 DIEGETIC AUDIO: a sustained singing-glass tone, delicate tinkles, beginning to soften.
 MASTER TRACK: the glass-harmonica and harp reach a shimmering swell on the arm-arc peak, then begin drawing back as the reform starts.
@@ -1580,18 +1580,18 @@ COLOUR GRADE: VIVID iridescent rainbow on clean bright white, prismatic, crisp w
 TEXTURE & MICRO-DETAIL: glass refraction fading, skin pores under bright light, organza shimmer, crystal-earring spectra, glass-glaze nails.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, dull/opaque glass, muddy colour, flat light.
 
-### ANIMATION (this clip, ~4s — reform completes; LOOP back to CLIP 1)
+### ANIMATION (this clip, full 8s — reform completes; LOOP back to CLIP 1)
 SHOT TYPE & ANGLE: eye-level close-up, three-quarter; subject ~55% right-of-centre.
 CAMERA MOVEMENT (CHOREOGRAPHY): a slow settle easing toward CLIP 1's exact framing — one continuous shot.
 LENS: 85mm, f/2.2.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.0s — ★ REFORM COMPLETES: the crystal clarifies to flesh, features, hair and organza resolving from the feet up, the raised hand last.
-- 2.0–3.0s — fully restored, she gazes at her hand as a last rainbow fades across the palm.
-- 3.0–4.0s — she holds the exact delicate wonder that opened CLIP 1, the light about to split again — seamless loop point.
+- 0.0–4.0s — ★ REFORM COMPLETES: the crystal clarifies to flesh, features, hair and organza resolving from the feet up, the raised hand last.
+- 4.0–6.0s — fully restored, she gazes at her hand as a last rainbow fades across the palm.
+- 6.0–8.0s — she holds the exact delicate wonder that opened CLIP 1, the light about to split again — seamless loop point.
 FLUIDITY & WEIGHT NOTES: the reform flows like glass softening to skin, eased and continuous; she arrives in the opening look with no snap, breath leading the settle.
 FABRIC/HAIR/PROP PHYSICS: clarify simulation — facets softening to skin and organza with believable light-decay, the ponytail un-glassing, rainbows fading; the light begins to split on her palm again.
 FOOTWORK & BODY FLOW: weight roots into the soft poised stance, a gentle settle.
-MID-CLIP TRANSFORMATION (timed): ★ REFORM COMPLETION at 0.0–2.0s — the crystal fully clarifies into base Aira, resolving the single-magic morph.
+MID-CLIP TRANSFORMATION (timed): ★ REFORM COMPLETION at 0.0–4.0s — the crystal fully clarifies into base Aira, resolving the single-magic morph.
 LIGHTING-IN-MOTION: the rainbow caustics settle and fade; the hard key steadies to the exact bright of CLIP 1.
 DIEGETIC AUDIO: the singing-glass tone resolving into a single high glassy ring, then the clean studio quiet.
 MASTER TRACK: the glass-harmonica draws back to one glassy note landing exactly where CLIP 1 began — seamless loop.
@@ -1629,7 +1629,7 @@ Feeling: futuristic cool / sleek power — high-fashion, sci-fi, mesmerising.
 Setting: a clean minimalist concrete-and-light studio, cool grey, one soft gradient backdrop, a hard kicker for chrome speculars.
 Trigger (signature): A CHROME RIPPLE STARTING AT HER HAND / A SLOW HEAD-TILT — the tilt and the first ripple begin the spread; the chrome flowing off completes the reverse.
 Voice: SILENT — diegetic metal + score only.
-Duration: ~14s · 3 clips (angle-cut, single-magic morph, loops to CLIP 1).
+Duration: 24.000 seconds total — 3 clips × 8s each (VEO renders one 8-second take per clip); the soundtrack below is built to exactly 24.000s and loops seamlessly.
 
 ## CLIP 1 of 3 — MACRO→MEDIUM CLOSE-UP · THREE-QUARTER · EYE-LEVEL (human Aira → chrome BEGINS flowing mid-clip)
 
@@ -1656,19 +1656,19 @@ COLOUR GRADE: VIVID cool silver-chrome with crisp speculars on a controlled cool
 TEXTURE & MICRO-DETAIL: liquid-chrome mirror reflectivity and ripple, skin pores under crisp light, the metallic gown sheen, ear-cuff specular, mirror nails.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features (except the intended morph), asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, matte fake metal, crushed blacks, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~5s — human establishing; ★ chrome BEGINS flowing mid-clip, clip ENDS mid-morph)
+### ANIMATION (this clip, full 8s — human establishing; ★ chrome BEGINS flowing mid-clip, clip ENDS mid-morph)
 SHOT TYPE & ANGLE: macro-into-eye-level medium close-up, three-quarter; subject ~55% right-of-centre.
 CAMERA MOVEMENT (CHOREOGRAPHY): a slow pull-back from the hand-macro into the medium close-up, then a gentle continuing push — one continuous shot.
 LENS: 100mm macro easing to 85mm, f/2.0.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.8s — she holds a cool composed stillness, a chrome ripple shimmering across the back of her hand.
-- 1.8–3.0s — ★ TRIGGER: she tilts her head a few degrees; the ripple spreads and the chrome begins to take.
-- 3.0–4.5s — ★ MID-CLIP TRANSFORMATION BEGINS: liquid mirror-metal flows up her arm and across the shoulder, reflecting and warping the studio.
-- 4.5–5.0s — the chrome reaches her jaw; she is now half-flesh, half-chrome, cool and composed.
+- 0.0–2.9s — she holds a cool composed stillness, a chrome ripple shimmering across the back of her hand.
+- 2.9–4.8s — ★ TRIGGER: she tilts her head a few degrees; the ripple spreads and the chrome begins to take.
+- 4.8–7.2s — ★ MID-CLIP TRANSFORMATION BEGINS: liquid mirror-metal flows up her arm and across the shoulder, reflecting and warping the studio.
+- 7.2–8.0s — the chrome reaches her jaw; she is now half-flesh, half-chrome, cool and composed.
 FLUIDITY & WEIGHT NOTES: all eases — the head-tilt slow, the chrome flowing smoothly like mercury, the reflections sliding; her cool poise against the metal is the power.
 FABRIC/HAIR/PROP PHYSICS: liquid-metal/mercury simulation — perfect mirror reflectivity, flowing surface tension, accurate warped environment-reflections, slow undulating ripples; the metallic gown flows seamlessly into chrome; no matte fake-metal.
 FOOTWORK & BODY FLOW: a poised editorial stillness; only the head-tilt and the flowing chrome move.
-MID-CLIP TRANSFORMATION (timed): ★ CHROME ONSET at 3.0–4.5s — triggered by the head-tilt and the first ripple, flowing from the hand up the arm to the jaw, contained as an onset within this clip; clip ends half-chrome.
+MID-CLIP TRANSFORMATION (timed): ★ CHROME ONSET at 4.8–7.2s — triggered by the head-tilt and the first ripple, flowing from the hand up the arm to the jaw, contained as an onset within this clip; clip ends half-chrome.
 LIGHTING-IN-MOTION: as she chromes, the kicker fires hard speculars sliding over the new mirror-metal, the studio reflected and warped in her.
 DIEGETIC AUDIO: a metallic shimmer and a smooth liquid-metal tone as the chrome flows.
 MASTER TRACK: a cool minimal synth pulse with a glassy arpeggio, a shimmering swell beginning at 3.0s.
@@ -1717,19 +1717,19 @@ COLOUR GRADE: VIVID chrome-silver with crisp speculars on cool-grey — luminous
 TEXTURE & MICRO-DETAIL: mirror surface, ripple distortion, warped studio-reflections, hard speculars, the floor-reflection.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, garbled text, floating shadows, duplicated subjects, matte fake metal, oversharpened, watermarks, crushed blacks, garish oversaturation, flat light, dead eyes.
 
-### ANIMATION (this clip, ~5s — the magical hero beat; ★ reform BEGINS at the end)
+### ANIMATION (this clip, full 8s — the magical hero beat; ★ reform BEGINS at the end)
 SHOT TYPE & ANGLE: slight low-angle full body, three-quarter; subject ~70% centre.
 CAMERA MOVEMENT (CHOREOGRAPHY): a slow reverent orbit a few degrees around her, low and rising — one continuous shot.
 LENS: 35mm, f/2.8, slight low.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.0s — the chrome-figure holds her shape and undulates, slow ripples and the warped studio-reflection sliding over the mirror.
-- 2.0–3.0s — one chrome arm drifts up in a slow graceful arc, a hard specular streaking along the polished surface — the sleek hero beat.
-- 3.0–4.0s — she settles, the reflections sliding gently like a deep breath.
-- 4.0–5.0s — ★ REFORM BEGINS: the chrome begins to flow off and downward, flesh re-emerging from the top.
+- 0.0–3.2s — the chrome-figure holds her shape and undulates, slow ripples and the warped studio-reflection sliding over the mirror.
+- 3.2–4.8s — one chrome arm drifts up in a slow graceful arc, a hard specular streaking along the polished surface — the sleek hero beat.
+- 4.8–6.4s — she settles, the reflections sliding gently like a deep breath.
+- 6.4–8.0s — ★ REFORM BEGINS: the chrome begins to flow off and downward, flesh re-emerging from the top.
 FLUIDITY & WEIGHT NOTES: cool grace — the arm-arc eases, the undulation is slow and continuous, the off-flow runs like mercury draining; nothing snaps.
 FABRIC/HAIR/PROP PHYSICS: liquid-metal/mercury simulation — perfect reflectivity, surface tension, accurate warped reflections tracking the orbit, slow ripples; the off-flow reveals skin beneath with believable surface-flow.
 FOOTWORK & BODY FLOW: chrome feet grounded with a mirror-reflection, the body holding a sleek sway as it undulates.
-MID-CLIP TRANSFORMATION (timed): ★ the hero HOLD (0.0–4.0s) then REFORM ONSET (4.0–5.0s) — the chrome begins flowing off to reveal flesh, contained as an onset in this clip.
+MID-CLIP TRANSFORMATION (timed): ★ the hero HOLD (0.0–6.4s) then REFORM ONSET (6.4–8.0s) — the chrome begins flowing off to reveal flesh, contained as an onset in this clip.
 LIGHTING-IN-MOTION: as the orbit moves, the kicker sends travelling speculars across the chrome and the warped reflection sweeps over her.
 DIEGETIC AUDIO: a deep liquid-metal hum, a smooth flowing tone, beginning the off-flow.
 MASTER TRACK: the synth pulse and arpeggio reach a shimmering swell on the arm-arc peak, then begin drawing back as the reform starts.
@@ -1778,18 +1778,18 @@ COLOUR GRADE: VIVID cool silver-chrome with crisp speculars on cool-grey, bold r
 TEXTURE & MICRO-DETAIL: liquid-chrome reflectivity fading, skin pores under crisp light, metallic gown sheen, ear-cuff specular, mirror nails.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, matte fake metal, crushed blacks, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~4s — reform completes; LOOP back to CLIP 1)
+### ANIMATION (this clip, full 8s — reform completes; LOOP back to CLIP 1)
 SHOT TYPE & ANGLE: eye-level medium close-up, three-quarter; subject ~55% right-of-centre.
 CAMERA MOVEMENT (CHOREOGRAPHY): a slow settle easing toward CLIP 1's exact framing — one continuous shot.
 LENS: 85mm, f/2.0.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.0s — ★ REFORM COMPLETES: the chrome flows off her, flesh, hair and gown re-emerging from the feet up, the raised hand last.
-- 2.0–3.0s — fully restored, she holds her cool poise, a last chrome ripple leaving the back of her hand.
-- 3.0–4.0s — she holds the exact composed head-tilt that opened CLIP 1, a fresh ripple about to start — seamless loop point.
+- 0.0–4.0s — ★ REFORM COMPLETES: the chrome flows off her, flesh, hair and gown re-emerging from the feet up, the raised hand last.
+- 4.0–6.0s — fully restored, she holds her cool poise, a last chrome ripple leaving the back of her hand.
+- 6.0–8.0s — she holds the exact composed head-tilt that opened CLIP 1, a fresh ripple about to start — seamless loop point.
 FLUIDITY & WEIGHT NOTES: the reform runs like mercury draining off, eased and continuous; she arrives in the opening pose with no snap, breath leading the settle.
 FABRIC/HAIR/PROP PHYSICS: off-flow simulation — chrome flowing off and revealing skin/fabric with believable surface-tension, hair un-chroming, the gown returning to metallic fabric; a new ripple forms on the hand.
 FOOTWORK & BODY FLOW: weight roots into the poised editorial stance, a faint cool settle.
-MID-CLIP TRANSFORMATION (timed): ★ REFORM COMPLETION at 0.0–2.0s — the chrome fully flows off into base Aira, resolving the single-magic morph.
+MID-CLIP TRANSFORMATION (timed): ★ REFORM COMPLETION at 0.0–4.0s — the chrome fully flows off into base Aira, resolving the single-magic morph.
 LIGHTING-IN-MOTION: the sliding speculars settle to the clean key of CLIP 1.
 DIEGETIC AUDIO: the liquid-metal tone resolving into a single metallic tick, then the clean studio quiet.
 MASTER TRACK: the synth pulse draws back to one cool synth note landing exactly where CLIP 1 began — seamless loop.
@@ -1827,7 +1827,7 @@ Feeling: enchanted whimsy / fairytale magic — sparkling, joyful, dreamlike.
 Setting: a magical twilight forest glade — glowing mushrooms, drifting fireflies, soft mist, dappled moonlight through the canopy.
 Trigger (signature): A LIGHT-WISP LANDING / HER CUPPING A FIREFLY — the wisp settling begins the unfurl; the wings folding into light completes the reverse.
 Voice: SILENT — diegetic glade + score only.
-Duration: ~14s · 3 clips (angle-cut, single-magic morph, loops to CLIP 1).
+Duration: 24.000 seconds total — 3 clips × 8s each (VEO renders one 8-second take per clip); the soundtrack below is built to exactly 24.000s and loops seamlessly.
 
 ## CLIP 1 of 3 — MACRO→MEDIUM CLOSE-UP · THREE-QUARTER · EYE-LEVEL (human Aira → wings BEGIN to unfurl mid-clip)
 
@@ -1854,19 +1854,19 @@ COLOUR GRADE: VIVID moss-green, gold and teal twilight with glowing accents — 
 TEXTURE & MICRO-DETAIL: firefly glow, skin freckles and dew, petal-leaf gown detail, glowing-wisp light, mushroom-glow, circlet glint.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features (except the intended morph), asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, dull colour, crushed blacks, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~5s — human establishing; ★ wings BEGIN to unfurl mid-clip, clip ENDS mid-morph)
+### ANIMATION (this clip, full 8s — human establishing; ★ wings BEGIN to unfurl mid-clip, clip ENDS mid-morph)
 SHOT TYPE & ANGLE: macro-into-eye-level medium close-up, three-quarter; subject ~55% right-of-centre.
 CAMERA MOVEMENT (CHOREOGRAPHY): a slow pull-back from the firefly-macro into the medium close-up, then a gentle continuing push — one continuous shot.
 LENS: 100mm macro easing to 85mm, f/1.8.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.8s — she gazes at the firefly cupped in her hands with delight, a wisp glowing on her shoulder.
-- 1.8–3.0s — ★ TRIGGER: the wisp settles fully and pulses; she lifts her gaze, a soft breath of wonder.
-- 3.0–4.5s — ★ MID-CLIP TRANSFORMATION BEGINS: translucent glowing wings begin to unfurl from her back, light-motes rising, her gown starting to glow.
-- 4.5–5.0s — the wings half-open and the glow builds; she is now half-Aira, half-fae, delighted.
+- 0.0–2.9s — she gazes at the firefly cupped in her hands with delight, a wisp glowing on her shoulder.
+- 2.9–4.8s — ★ TRIGGER: the wisp settles fully and pulses; she lifts her gaze, a soft breath of wonder.
+- 4.8–7.2s — ★ MID-CLIP TRANSFORMATION BEGINS: translucent glowing wings begin to unfurl from her back, light-motes rising, her gown starting to glow.
+- 7.2–8.0s — the wings half-open and the glow builds; she is now half-Aira, half-fae, delighted.
 FLUIDITY & WEIGHT NOTES: all eases — the gaze lifts slow, the wisp pulses gently, the wings unfurl like petals opening; her delight against the magic is the charm.
 FABRIC/HAIR/PROP PHYSICS: bioluminescent glow + translucent wing simulation — iridescent membrane catching light with a gentle flutter, floating light-mote particles, soft volumetric glow, firefly drift; the gown blooms with bioluminescence; believable wing transparency.
 FOOTWORK & BODY FLOW: weight easy and grounded, a soft spinal lift as the wings begin to open.
-MID-CLIP TRANSFORMATION (timed): ★ WING-UNFURL ONSET at 3.0–4.5s — triggered by the wisp settling, wings unfurling from the back and the gown glowing, contained as an onset within this clip; clip ends wings half-open.
+MID-CLIP TRANSFORMATION (timed): ★ WING-UNFURL ONSET at 4.8–7.2s — triggered by the wisp settling, wings unfurling from the back and the gown glowing, contained as an onset within this clip; clip ends wings half-open.
 LIGHTING-IN-MOTION: as she glows, her bioluminescence lights the glade — mushrooms and mist brightening, light-motes rising around her.
 DIEGETIC AUDIO: a soft magical chime-sparkle as the wisp settles, then a warm shimmer as the wings open.
 MASTER TRACK: a light pizzicato-strings, celeste and harp motif, a sparkling swell beginning at 3.0s.
@@ -1915,19 +1915,19 @@ COLOUR GRADE: VIVID enchanted green-gold-teal with glowing bloom — saturated, 
 TEXTURE & MICRO-DETAIL: wing-membrane iridescence and veining, swirling light-motes, glowing flora, floating hair, dewdrop-earring light.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, garbled text, floating shadows, duplicated subjects, plastic look, oversharpened, watermarks, stuck-on/cartoon wings, dull colour, crushed blacks, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~5s — the magical hero beat; ★ reform BEGINS at the end)
+### ANIMATION (this clip, full 8s — the magical hero beat; ★ reform BEGINS at the end)
 SHOT TYPE & ANGLE: eye-level wide, full body; subject ~50% centre.
 CAMERA MOVEMENT (CHOREOGRAPHY): a slow reverent orbit a few degrees around her — one continuous shot.
 LENS: 35mm, f/2.8.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.0s — the fairy-sprite hovers, wings fluttering gently, light-motes swirling up around her, the glade glowing.
-- 2.0–3.0s — one graceful arm sweeps a slow arc, a ribbon of light-motes streaming off the fingertips and a firefly orbiting — the enchanted hero beat.
-- 3.0–4.0s — she lifts a touch higher, the glow pulsing gently like a deep breath.
-- 4.0–5.0s — ★ REFORM BEGINS: the wings begin to fold into light and the glow draws inward toward her.
+- 0.0–3.2s — the fairy-sprite hovers, wings fluttering gently, light-motes swirling up around her, the glade glowing.
+- 3.2–4.8s — one graceful arm sweeps a slow arc, a ribbon of light-motes streaming off the fingertips and a firefly orbiting — the enchanted hero beat.
+- 4.8–6.4s — she lifts a touch higher, the glow pulsing gently like a deep breath.
+- 6.4–8.0s — ★ REFORM BEGINS: the wings begin to fold into light and the glow draws inward toward her.
 FLUIDITY & WEIGHT NOTES: weightless grace — the arm-arc eases, the hover is buoyant, the wing-fold gathers like light folding away; nothing snaps.
 FABRIC/HAIR/PROP PHYSICS: bioluminescent glow + translucent wing simulation — iridescent membrane fluttering, light-mote particles swirling, soft volumetric glow, firefly drift; the wing-fold and glow-gather read as believable light; gown bioluminescence dimming on cue.
 FOOTWORK & BODY FLOW: she hovers just off the moss, toes pointed, the body buoyant and graceful.
-MID-CLIP TRANSFORMATION (timed): ★ the hero HOLD (0.0–4.0s) then REFORM ONSET (4.0–5.0s) — the wings begin folding into light and the glow draws in, contained as an onset in this clip.
+MID-CLIP TRANSFORMATION (timed): ★ the hero HOLD (0.0–6.4s) then REFORM ONSET (6.4–8.0s) — the wings begin folding into light and the glow draws in, contained as an onset in this clip.
 LIGHTING-IN-MOTION: as the orbit moves, her glow sweeps soft light across the glade; the glow-gather concentrates the light toward her core.
 DIEGETIC AUDIO: a warm magical shimmer with soft tiny bell-flutters, beginning to draw inward.
 MASTER TRACK: the pizzicato-celeste-harp reaches a sparkling magical peak on the arm-arc, then begins drawing back as the reform starts.
@@ -1976,18 +1976,18 @@ COLOUR GRADE: VIVID moss-green, gold and teal twilight with glowing accents, sat
 TEXTURE & MICRO-DETAIL: firefly glow, skin freckles and dew, petal-leaf gown detail, fading wing-light, mushroom-glow, circlet glint.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, dull colour, crushed blacks, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~4s — reform completes; LOOP back to CLIP 1)
+### ANIMATION (this clip, full 8s — reform completes; LOOP back to CLIP 1)
 SHOT TYPE & ANGLE: eye-level medium close-up, three-quarter; subject ~55% right-of-centre.
 CAMERA MOVEMENT (CHOREOGRAPHY): a slow settle easing toward CLIP 1's exact framing — one continuous shot.
 LENS: 85mm, f/1.8.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.0s — ★ REFORM COMPLETES: the wings fold fully into light and the glow recedes into base Aira, the gown dimming to base, the hands lowering to cup.
-- 2.0–3.0s — fully restored, she gazes down with delight as a firefly settles back into her cupped hands.
-- 3.0–4.0s — she holds the exact enchanted wonder that opened CLIP 1, a wisp glowing on her shoulder — seamless loop point.
+- 0.0–4.0s — ★ REFORM COMPLETES: the wings fold fully into light and the glow recedes into base Aira, the gown dimming to base, the hands lowering to cup.
+- 4.0–6.0s — fully restored, she gazes down with delight as a firefly settles back into her cupped hands.
+- 6.0–8.0s — she holds the exact enchanted wonder that opened CLIP 1, a wisp glowing on her shoulder — seamless loop point.
 FLUIDITY & WEIGHT NOTES: the reform gathers like light folding home, eased and continuous; she arrives in the opening look with no snap, breath leading the settle.
 FABRIC/HAIR/PROP PHYSICS: wing-fold + glow-gather — wings folding into light, bioluminescence dimming to base, hair settling from float; the firefly lands with real soft weight.
 FOOTWORK & BODY FLOW: weight roots easy onto the moss, a soft spinal settle curving around the firefly.
-MID-CLIP TRANSFORMATION (timed): ★ REFORM COMPLETION at 0.0–2.0s — the fae form fully returns to base Aira, resolving the single-magic morph.
+MID-CLIP TRANSFORMATION (timed): ★ REFORM COMPLETION at 0.0–4.0s — the fae form fully returns to base Aira, resolving the single-magic morph.
 LIGHTING-IN-MOTION: the fae-glow fades to the firefly's warm point and cool moonlight, the key steadying to the exact balance of CLIP 1.
 DIEGETIC AUDIO: the warm shimmer resolving into one soft chime as the firefly lands, then crickets and a trickling stream.
 MASTER TRACK: the celeste motif draws back to one soft note landing exactly where CLIP 1 began — seamless loop.
@@ -2028,7 +2028,7 @@ Feeling: glamorous time-travel / fashion fantasy — chic, fun, iconic, rewatcha
 Setting: a timeless mirrored art-studio with one rotating soft light and a neutral seamless backdrop, so the WARDROBE is the star.
 Trigger (signature): EACH FULL SPIN SHE DOES — every turn wraps her in a swirl of light/fabric and re-styles her into the next era. This is a STYLE-morph (hair + makeup + wardrobe + colour grade), not an element-morph; her FACE stays identity-locked throughout.
 Voice: SILENT — diegetic + score only.
-Duration: ~15s · 3 clips (angle-cut, style-morph chain, loops to CLIP 1).
+Duration: 24.000 seconds total — 3 clips × 8s each (VEO renders one 8-second take per clip); the soundtrack below is built to exactly 24.000s and loops seamlessly.
 
 ## CLIP 1 of 3 — FULL BODY · FRONT · EYE-LEVEL (modern "now" Aira → spin → 1920s, ends in 1920s)
 
@@ -2055,18 +2055,18 @@ COLOUR GRADE: VIVID clean modern (the anchor) — crisp ivory and warm skin on n
 TEXTURE & MICRO-DETAIL: suit-wool weave (becoming beaded fringe), glossy hair, skin pores, chain glint, heel sheen.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, identity drift (face must stay Aira), resemblance to any real person, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, dull colour, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~5s — modern establishing; ★ STYLE-MORPH to 1920s mid-clip, clip ENDS in 1920s)
+### ANIMATION (this clip, full 8s — modern establishing; ★ STYLE-MORPH to 1920s mid-clip, clip ENDS in 1920s)
 SHOT TYPE & ANGLE: eye-level full body, front; subject ~50% centre.
 CAMERA MOVEMENT (CHOREOGRAPHY): a slow push that holds her centred as she spins — one continuous shot.
 LENS: 35mm, f/2.8, full-length sharp.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.5s — she holds the cool modern pose, then snaps her fingers and begins a full spin.
-- 1.5–4.0s — ★ STYLE-MORPH: a swirl of light-fabric wraps her mid-spin; she emerges in full 1920s — a finger-wave bob, dark dramatic lip, a beaded-fringe flapper gown (modest), sepia-gold grade.
-- 4.0–5.0s — she lands and strikes an Art-Deco pose, fringe swaying, fully 1920s.
+- 0.0–2.4s — she holds the cool modern pose, then snaps her fingers and begins a full spin.
+- 2.4–6.4s — ★ STYLE-MORPH: a swirl of light-fabric wraps her mid-spin; she emerges in full 1920s — a finger-wave bob, dark dramatic lip, a beaded-fringe flapper gown (modest), sepia-gold grade.
+- 6.4–8.0s — she lands and strikes an Art-Deco pose, fringe swaying, fully 1920s.
 FLUIDITY & WEIGHT NOTES: the spin eases into the wrap and out into the pose; the re-style reads as one fluid swirl, never a hard cut; fringe and fabric carry real motion.
 FABRIC/HAIR/PROP PHYSICS: a spin-driven swirl-of-light/fabric-ribbon wipe (motion-blur reveal); the flapper fringe sways with real beaded weight; the bob settles with hair-physics; the grade shifts to warm sepia-gold as the era lands.
 FOOTWORK & BODY FLOW: a clean pivoting spin on the heel, weight rolling through the turn into a grounded Deco pose.
-MID-CLIP TRANSFORMATION (timed): ★ STYLE-MORPH NOW→1920s at 1.5–4.0s — triggered by the spin, re-styling hair, makeup, wardrobe and grade, completing within this clip; clip ends fully 1920s.
+MID-CLIP TRANSFORMATION (timed): ★ STYLE-MORPH NOW→1920s at 2.4–6.4s — triggered by the spin, re-styling hair, makeup, wardrobe and grade, completing within this clip; clip ends fully 1920s.
 LIGHTING-IN-MOTION: the rotating light streaks through the spin; the key warms to sepia-gold as the 1920s lands.
 DIEGETIC AUDIO: a crisp finger-snap, a magical fabric-swirl whoosh, a 1920s jazz sting landing on the pose.
 MASTER TRACK: a single ~100 BPM groove rendered as 1920s jazz as the era lands.
@@ -2115,18 +2115,18 @@ COLOUR GRADE: VIVID pastel 1950s — saturated candy tones, bright and clean, fu
 TEXTURE & MICRO-DETAIL: polka-dot weave, victory-roll sheen, silk scarf, pearl studs, red-nail gloss.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, identity drift, resemblance to any real person, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, dull colour, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~6s — the hero beat; ★ rapid spins through 1950s → 1970s → 1990s, ends 1990s)
+### ANIMATION (this clip, full 8s — the hero beat; ★ rapid spins through 1950s → 1970s → 1990s, ends 1990s)
 SHOT TYPE & ANGLE: eye-level medium-full, three-quarter; subject ~55% centre.
 CAMERA MOVEMENT (CHOREOGRAPHY): a gentle arc that holds her centred through three spins — one continuous shot.
 LENS: 50mm, f/2.5.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.0s — ★ she swishes and spins → 1950s holds, then re-styles to 1970s: voluminous feathered hair, bronzed disco glam, a flared wide-leg jumpsuit (modest), warm earthy grade; she strikes a disco pose.
-- 2.0–4.0s — ★ spin → 1990s: sleek straight hair with clips, brown matte lip, a slip-dress-over-a-tee (modest), cool desaturated grade; she falls into a cool slouch.
-- 4.0–6.0s — she holds the 90s cool pose, poised to spin once more.
+- 0.0–2.7s — ★ she swishes and spins → 1950s holds, then re-styles to 1970s: voluminous feathered hair, bronzed disco glam, a flared wide-leg jumpsuit (modest), warm earthy grade; she strikes a disco pose.
+- 2.7–5.3s — ★ spin → 1990s: sleek straight hair with clips, brown matte lip, a slip-dress-over-a-tee (modest), cool desaturated grade; she falls into a cool slouch.
+- 5.3–8.0s — she holds the 90s cool pose, poised to spin once more.
 FLUIDITY & WEIGHT NOTES: each spin eases into a swirl and out into a era-perfect pose; the re-styles read as fluid swirls, never hard cuts; each era's fabric carries true motion.
 FABRIC/HAIR/PROP PHYSICS: spin-driven swirl-of-fabric wipes per era; the jumpsuit's flares swing with weight, the feathered hair bounces, the slip-dress drapes and the tee settles; the grade re-skins per era (pastel → warm earthy → cool).
 FOOTWORK & BODY FLOW: clean pivoting spins, weight rolling through each turn into a grounded era-pose (pin-up → disco → 90s slouch).
-MID-CLIP TRANSFORMATION (timed): ★ STYLE-MORPHS 1950s→1970s (0.0–2.0s) and 1970s→1990s (2.0–4.0s) — each triggered by a spin, completing within this clip; clip ends fully 1990s.
+MID-CLIP TRANSFORMATION (timed): ★ STYLE-MORPHS 1950s→1970s (0.0–2.7s) and 1970s→1990s (2.7–5.3s) — each triggered by a spin, completing within this clip; clip ends fully 1990s.
 LIGHTING-IN-MOTION: the rotating light streaks through each spin; the key re-grades per era — bright pastel, warm earthy, cool 90s.
 DIEGETIC AUDIO: each spin a magical fabric-whoosh; a genre sting per era — rock'n'roll, disco, a 90s beat.
 MASTER TRACK: the single ~100 BPM groove re-skins per spin — 1950s rock'n'roll → 1970s disco → 1990s hip-hop — landing on the 90s beat.
@@ -2175,17 +2175,17 @@ COLOUR GRADE: VIVID clean modern — crisp ivory and warm skin on neutral, full 
 TEXTURE & MICRO-DETAIL: suit-wool weave, glossy hair, skin pores, chain glint, heel sheen.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, identity drift, resemblance to any real person, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, dull colour, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~4s — style-morph completes; LOOP back to CLIP 1)
+### ANIMATION (this clip, full 8s — style-morph completes; LOOP back to CLIP 1)
 SHOT TYPE & ANGLE: eye-level full body, front; subject ~50% centre.
 CAMERA MOVEMENT (CHOREOGRAPHY): a slow settle easing toward CLIP 1's exact framing — one continuous shot.
 LENS: 35mm, f/2.8, full-length sharp.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.5s — ★ STYLE-MORPH 1990s→NOW: she spins once more; a swirl of light-fabric re-styles her back into the modern ivory-suit "now" look.
-- 2.5–4.0s — she lands the exact confident modern pose of CLIP 1, hand poised to snap — seamless loop point.
+- 0.0–5.0s — ★ STYLE-MORPH 1990s→NOW: she spins once more; a swirl of light-fabric re-styles her back into the modern ivory-suit "now" look.
+- 5.0–8.0s — she lands the exact confident modern pose of CLIP 1, hand poised to snap — seamless loop point.
 FLUIDITY & WEIGHT NOTES: the spin eases into the swirl and out into the opening pose; the re-style reads as one fluid swirl with no snap; the suit settles with real fabric motion.
 FABRIC/HAIR/PROP PHYSICS: a spin-driven swirl-of-light/fabric wipe; the ivory suit settles with tailored weight; the blowout falls into place; the grade resolves to clean modern.
 FOOTWORK & BODY FLOW: a clean pivoting spin on the heel into the grounded "now" stance.
-MID-CLIP TRANSFORMATION (timed): ★ STYLE-MORPH COMPLETION at 0.0–2.5s — she returns fully to the modern "now" base, resolving the era-chain.
+MID-CLIP TRANSFORMATION (timed): ★ STYLE-MORPH COMPLETION at 0.0–5.0s — she returns fully to the modern "now" base, resolving the era-chain.
 LIGHTING-IN-MOTION: the rotating light streaks through the spin then steadies to the clean key of CLIP 1.
 DIEGETIC AUDIO: a fabric-swirl whoosh resolving into a modern beat-drop, primed to loop.
 MASTER TRACK: the ~100 BPM groove lands back on modern pop exactly where CLIP 1 began — seamless loop.
@@ -2223,7 +2223,7 @@ Feeling: confident duality / glow-up — the "wait, she's THAT girl" reveal; pow
 Setting: a chic apartment by a window — warm daylight that flips to moody night with city lights.
 Trigger (signature): A BLINK, THEN A HAIR-FLIP — the blink flips the makeup/eyes; the hair-flip completes hair + wardrobe + the room's day→night light. A persona-flip (not an element-morph); face stays identity-locked Aira.
 Voice: SILENT — diegetic + score only.
-Duration: ~13s · 3 clips (angle-cut, persona-flip, loops to CLIP 1).
+Duration: 24.000 seconds total — 3 clips × 8s each (VEO renders one 8-second take per clip); the soundtrack below is built to exactly 24.000s and loops seamlessly.
 
 ## CLIP 1 of 3 — CLOSE-UP · FRONT · EYE-LEVEL (soft day Aira → blink flips the eyes mid-clip)
 
@@ -2250,18 +2250,18 @@ COLOUR GRADE: VIVID warm soft daytime — saturated honey-and-cream tones, full 
 TEXTURE & MICRO-DETAIL: bare-skin glow and freckles, chunky-knit weave, soft waves, balm-lip sheen, dust-motes.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, identity drift, resemblance to any real person, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, dull colour, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~4s — soft day establishing; ★ blink flips the eyes mid-clip, clip ENDS mid-flip)
+### ANIMATION (this clip, full 8s — soft day establishing; ★ blink flips the eyes mid-clip, clip ENDS mid-flip)
 SHOT TYPE & ANGLE: eye-level close-up, front; subject ~60% centre.
 CAMERA MOVEMENT (CHOREOGRAPHY): a slow gentle push to her eyes, holding through the blink — one continuous shot.
 LENS: 85mm, f/1.8, eyes sharp.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.0s — soft day-Aira holds a relaxed warm gaze, then slowly closes her eyes.
-- 2.0–3.0s — ★ TRIGGER: on the blink — a match-cut — she opens her eyes with a BOLD SMOKY EYE and sharp liner already on, expression sharpening to cool confidence.
-- 3.0–4.0s — ★ MID-CLIP FLIP CONTINUES: the light begins cooling toward night, her gaze hardening into allure; the rest of the look poised to complete.
+- 0.0–4.0s — soft day-Aira holds a relaxed warm gaze, then slowly closes her eyes.
+- 4.0–6.0s — ★ TRIGGER: on the blink — a match-cut — she opens her eyes with a BOLD SMOKY EYE and sharp liner already on, expression sharpening to cool confidence.
+- 6.0–8.0s — ★ MID-CLIP FLIP CONTINUES: the light begins cooling toward night, her gaze hardening into allure; the rest of the look poised to complete.
 FLUIDITY & WEIGHT NOTES: the blink is the magic — the eyelids' motion masks the makeup flip so it reads instant yet smooth; the light cross-fade eases; her composure shifts, not snaps.
 FABRIC/HAIR/PROP PHYSICS: a blink match-cut masks the eye-makeup change; the warm-to-cool light cross-fades on the skin; the cream knit begins to read cooler as night arrives.
 FOOTWORK & BODY FLOW: minimal — only the blink, the gaze-shift and the cooling light move; a held intimate stillness.
-MID-CLIP TRANSFORMATION (timed): ★ PERSONA-FLIP ONSET at 2.0–3.0s — triggered by the blink, flipping the eye-makeup and beginning the day→night light, contained as an onset within this clip; clip ends mid-flip (eyes night, look completing).
+MID-CLIP TRANSFORMATION (timed): ★ PERSONA-FLIP ONSET at 4.0–6.0s — triggered by the blink, flipping the eye-makeup and beginning the day→night light, contained as an onset within this clip; clip ends mid-flip (eyes night, look completing).
 LIGHTING-IN-MOTION: warm daylight cools toward moody night; a city-glow begins to bloom behind her.
 DIEGETIC AUDIO: a soft swell on the eye-open, a subtle whoosh, warm-day room-tone cooling to a night hum.
 MASTER TRACK: a soft warm acoustic/lo-fi beginning to tense toward a beat as the eyes open.
@@ -2310,18 +2310,18 @@ COLOUR GRADE: VIVID moody night — saturated cool blues with warm city-light po
 TEXTURE & MICRO-DETAIL: glossy hair-shine, blazer tailoring, statement-earring glint, sculpted-glow skin, city-bokeh.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, identity drift, resemblance to any real person, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, dull colour, crushed blacks, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~5s — the hero beat; ★ reform/flip-back BEGINS at the end)
+### ANIMATION (this clip, full 8s — the hero beat; ★ reform/flip-back BEGINS at the end)
 SHOT TYPE & ANGLE: eye-level medium, three-quarter; subject ~60% centre.
 CAMERA MOVEMENT (CHOREOGRAPHY): a slow push with a subtle arc as she lands the look — one continuous shot.
 LENS: 50mm, f/2.0.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.0s — ★ the hair-flip completes — the swing masks the hair/wardrobe finishing into full night-glam, the room flipping fully to night.
-- 2.0–4.0s — she settles into a powerful confident pose, owning it, a cool magnetic gaze — the hero beat.
-- 4.0–5.0s — ★ FLIP-BACK BEGINS: she begins to lower her chin toward a blink, the night light starting to warm again.
+- 0.0–3.2s — ★ the hair-flip completes — the swing masks the hair/wardrobe finishing into full night-glam, the room flipping fully to night.
+- 3.2–6.4s — she settles into a powerful confident pose, owning it, a cool magnetic gaze — the hero beat.
+- 6.4–8.0s — ★ FLIP-BACK BEGINS: she begins to lower her chin toward a blink, the night light starting to warm again.
 FLUIDITY & WEIGHT NOTES: the hair-flip carries real swing and weight; the pose lands powerful and grounded; the flip-back eases in on the chin-lower; nothing snaps.
 FABRIC/HAIR/PROP PHYSICS: the hair-swing masks the wardrobe/hair completion; the blazer-dress falls in a sharp line; earrings swing with weight; the day↔night light cross-fades on the room and skin.
 FOOTWORK & BODY FLOW: a grounded power-stance, weight rolling onto one hip through the flip, shoulders squaring.
-MID-CLIP TRANSFORMATION (timed): ★ the hero HOLD (0.0–4.0s) then FLIP-BACK ONSET (4.0–5.0s) — she begins the blink/light-warm that will return her to day, contained as an onset in this clip.
+MID-CLIP TRANSFORMATION (timed): ★ the hero HOLD (0.0–6.4s) then FLIP-BACK ONSET (6.4–8.0s) — she begins the blink/light-warm that will return her to day, contained as an onset in this clip.
 LIGHTING-IN-MOTION: moody night holds, then begins warming as the flip-back starts; city-bokeh softening.
 DIEGETIC AUDIO: a confident bass-drop on the pose, the night-room hum, beginning to soften.
 MASTER TRACK: a confident bass-heavy glam beat at its peak on the pose, then easing as the flip-back begins.
@@ -2370,18 +2370,18 @@ COLOUR GRADE: VIVID warm soft daytime — saturated honey-and-cream, full mid-to
 TEXTURE & MICRO-DETAIL: bare-skin glow and freckles, chunky-knit weave, soft waves, balm-lip sheen, dust-motes.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, identity drift, resemblance to any real person, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, dull colour, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~4s — flip-back completes; LOOP back to CLIP 1)
+### ANIMATION (this clip, full 8s — flip-back completes; LOOP back to CLIP 1)
 SHOT TYPE & ANGLE: eye-level close-up, front; subject ~60% centre.
 CAMERA MOVEMENT (CHOREOGRAPHY): a slow settle easing toward CLIP 1's exact framing — one continuous shot.
 LENS: 85mm, f/1.8, eyes sharp.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.0s — ★ FLIP-BACK COMPLETES: on a blink — a match-cut — the smoky glam softens to bare day-glow, hair softens to loose waves, the blazer returns to the cream knit, the room warms fully to day.
-- 2.0–3.0s — fully soft day-Aira again, she opens her eyes into a relaxed warm gaze, hand resting near the jaw.
-- 3.0–4.0s — she holds the exact gentle warmth that opened CLIP 1, about to close her eyes again — seamless loop point.
+- 0.0–4.0s — ★ FLIP-BACK COMPLETES: on a blink — a match-cut — the smoky glam softens to bare day-glow, hair softens to loose waves, the blazer returns to the cream knit, the room warms fully to day.
+- 4.0–6.0s — fully soft day-Aira again, she opens her eyes into a relaxed warm gaze, hand resting near the jaw.
+- 6.0–8.0s — she holds the exact gentle warmth that opened CLIP 1, about to close her eyes again — seamless loop point.
 FLUIDITY & WEIGHT NOTES: the blink masks the reverse-flip so it reads instant yet smooth; the light warms in an easy cross-fade; she eases from poised to soft with no snap.
 FABRIC/HAIR/PROP PHYSICS: a blink match-cut masks the makeup/hair/wardrobe reverse; the night→day light cross-fades on room and skin; the knit settles soft.
 FOOTWORK & BODY FLOW: shoulders lower into a relaxed ease, a soft spinal settle.
-MID-CLIP TRANSFORMATION (timed): ★ FLIP-BACK COMPLETION at 0.0–2.0s — she fully returns to soft day-Aira, resolving the persona-flip.
+MID-CLIP TRANSFORMATION (timed): ★ FLIP-BACK COMPLETION at 0.0–4.0s — she fully returns to soft day-Aira, resolving the persona-flip.
 LIGHTING-IN-MOTION: moody night warms fully back to soft daylight, city-glow gone, the key steadying to CLIP 1.
 DIEGETIC AUDIO: the bass-beat softening into warm-day room-tone, a gentle breath.
 MASTER TRACK: the glam beat eases back to the soft warm acoustic/lo-fi landing exactly where CLIP 1 began — seamless loop.
@@ -2419,7 +2419,7 @@ Feeling: divine awe / ascension — powerful, sacred, breathtaking, goosebump-le
 Setting: an ancient marble temple with soaring columns, shafts of heavenly light, drifting gold dust.
 Trigger (signature): THE HEAVENLY LIGHT-BEAM TOUCHING HER CROWN / HER ARMS LIFTING — the beam and the lift begin the ascension; the light receding completes the return. A STYLE/divine-morph; face stays identity-locked Aira.
 Voice: SILENT — diegetic temple + score only.
-Duration: ~14s · 3 clips (angle-cut, divine-morph, loops to CLIP 1).
+Duration: 24.000 seconds total — 3 clips × 8s each (VEO renders one 8-second take per clip); the soundtrack below is built to exactly 24.000s and loops seamlessly.
 
 ## CLIP 1 of 3 — MEDIUM · FRONT · SLIGHT LOW ANGLE (mortal Aira → divine markings IGNITE mid-clip)
 
@@ -2446,18 +2446,18 @@ COLOUR GRADE: VIVID white-and-gold, warm divine, rich uncrushed marble-shadow �
 TEXTURE & MICRO-DETAIL: marble grain, white-drape folds, skin pores under divine light, gold dust, armband glint, the first glowing marking.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, identity drift, resemblance to any real person, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, dull colour, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~5s — mortal establishing; ★ divine markings IGNITE mid-clip, clip ENDS mid-ascension)
+### ANIMATION (this clip, full 8s — mortal establishing; ★ divine markings IGNITE mid-clip, clip ENDS mid-ascension)
 SHOT TYPE & ANGLE: slight low-angle medium, front; subject ~55% centre.
 CAMERA MOVEMENT (CHOREOGRAPHY): a slow reverent push/rise toward her as the beam touches — one continuous shot.
 LENS: 50mm, f/2.0, god-rays.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.0s — she lifts her gaze and palms toward the heavenly beam, a held breath of awe.
-- 2.0–3.5s — ★ TRIGGER: the beam touches her crown; golden divine markings ignite and begin spreading across her skin.
-- 3.5–5.0s — ★ MID-CLIP TRANSFORMATION BEGINS: a faint halo forms, the gown begins to gild at the edges, her hair starts to lift weightlessly — ascension beginning.
+- 0.0–3.2s — she lifts her gaze and palms toward the heavenly beam, a held breath of awe.
+- 3.2–5.6s — ★ TRIGGER: the beam touches her crown; golden divine markings ignite and begin spreading across her skin.
+- 5.6–8.0s — ★ MID-CLIP TRANSFORMATION BEGINS: a faint halo forms, the gown begins to gild at the edges, her hair starts to lift weightlessly — ascension beginning.
 FLUIDITY & WEIGHT NOTES: all eases — the gaze and arms lift slow, the markings ignite and spread like light blooming, the hair begins a weightless float; her reverence against the divine is the awe.
 FABRIC/HAIR/PROP PHYSICS: glowing-marking spread + volumetric god-rays + drifting gold-dust; the gown gilds at the edges with soft light; the hair begins a weightless "ascension" float; markings integrate with the skin, not overlaid.
 FOOTWORK & BODY FLOW: a grounded reverent stance lifting subtly as the ascension begins, weight easing upward.
-MID-CLIP TRANSFORMATION (timed): ★ DIVINE-IGNITION ONSET at 2.0–3.5s and ascension-build (3.5–5.0s) — triggered by the beam touching her crown, markings spreading and the halo/gilding/float beginning, contained as an onset within this clip; clip ends mid-ascension.
+MID-CLIP TRANSFORMATION (timed): ★ DIVINE-IGNITION ONSET at 3.2–5.6s and ascension-build (5.6–8.0s) — triggered by the beam touching her crown, markings spreading and the halo/gilding/float beginning, contained as an onset within this clip; clip ends mid-ascension.
 LIGHTING-IN-MOTION: the heavenly beam intensifies; her markings self-light gold; god-rays deepen between the columns.
 DIEGETIC AUDIO: a shimmering light-touch tone as the beam lands, then a sacred choir swell beginning.
 MASTER TRACK: a building orchestral and choral piece, soft strings rising at 3.5s.
@@ -2506,19 +2506,19 @@ COLOUR GRADE: VIVID radiant white-gold with a divine bloom on rich temple-shadow
 TEXTURE & MICRO-DETAIL: glowing gown-trim, gold-leaf skin, floating hair, the aura, gold dust, halo-light.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, identity drift, resemblance to any real person, garbled text, floating shadows, duplicated subjects, plastic look, oversharpened, watermarks, dull colour, crushed blacks, garish oversaturation, flat light, dead eyes.
 
-### ANIMATION (this clip, ~5s — the hero beat; ★ reform/descent BEGINS at the end)
+### ANIMATION (this clip, full 8s — the hero beat; ★ reform/descent BEGINS at the end)
 SHOT TYPE & ANGLE: low hero angle, full body, front; subject ~65% centre.
 CAMERA MOVEMENT (CHOREOGRAPHY): a slow rising orbit a few degrees, low and reverent — one continuous shot.
 LENS: 35mm, f/2.8, low hero.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.0s — the goddess hovers in divine radiance, aura pulsing, hair and hem floating, markings shimmering.
-- 2.0–3.0s — she opens her arms wider in a slow ascendant gesture, gold dust streaming up around her — the sacred hero beat.
-- 3.0–4.0s — she holds at the peak of ascension, the aura blooming, eyes glowing serene.
-- 4.0–5.0s — ★ DESCENT/REFORM BEGINS: the divine light begins to recede, she lowers gently, markings starting to fade.
+- 0.0–3.2s — the goddess hovers in divine radiance, aura pulsing, hair and hem floating, markings shimmering.
+- 3.2–4.8s — she opens her arms wider in a slow ascendant gesture, gold dust streaming up around her — the sacred hero beat.
+- 4.8–6.4s — she holds at the peak of ascension, the aura blooming, eyes glowing serene.
+- 6.4–8.0s — ★ DESCENT/REFORM BEGINS: the divine light begins to recede, she lowers gently, markings starting to fade.
 FLUIDITY & WEIGHT NOTES: weightless divine grace — the arms open slow, the float is buoyant, the descent eases like settling on air; nothing snaps.
 FABRIC/HAIR/PROP PHYSICS: weightless float for hair and hem (ascension feel), drifting gold-dust particles, soft halo-bloom, volumetric god-rays; the gilding and markings integrate with skin and cloth; descent-onset lowers her gently.
 FOOTWORK & BODY FLOW: toes pointed, body levitating then beginning to lower, an ethereal sway.
-MID-CLIP TRANSFORMATION (timed): ★ the hero HOLD (0.0–4.0s) then DESCENT/REFORM ONSET (4.0–5.0s) — the divine light begins receding and she lowers, contained as an onset in this clip.
+MID-CLIP TRANSFORMATION (timed): ★ the hero HOLD (0.0–6.4s) then DESCENT/REFORM ONSET (6.4–8.0s) — the divine light begins receding and she lowers, contained as an onset in this clip.
 LIGHTING-IN-MOTION: the god-rays blaze at the peak, then begin to soften as the descent starts; her aura dimming gently.
 DIEGETIC AUDIO: a swelling angelic shimmer at the peak, beginning to draw back.
 MASTER TRACK: a full choir-and-brass apex on the arm-open (the hero beat), then decaying as the descent begins.
@@ -2567,18 +2567,18 @@ COLOUR GRADE: VIVID white-and-gold, warm divine, rich marble-shadow — matched 
 TEXTURE & MICRO-DETAIL: marble grain, white-drape folds, skin pores under divine light, gold dust, armband glint, the last fading marking.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, identity drift, resemblance to any real person, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, dull colour, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~4s — descent/reform completes; LOOP back to CLIP 1)
+### ANIMATION (this clip, full 8s — descent/reform completes; LOOP back to CLIP 1)
 SHOT TYPE & ANGLE: slight low-angle medium, front; subject ~55% centre.
 CAMERA MOVEMENT (CHOREOGRAPHY): a slow settle easing toward CLIP 1's exact framing — one continuous shot.
 LENS: 50mm, f/2.0, god-rays.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.0s — ★ DESCENT/REFORM COMPLETES: the divine light recedes, markings, halo and gilding fading, hair settling, the gown returning to simple white as she lowers to standing.
-- 2.0–3.0s — fully mortal again, she lifts her gaze and palms toward the beam, a held breath of awe.
-- 3.0–4.0s — she holds the exact reverent awe that opened CLIP 1, the beam at her crown — seamless loop point.
+- 0.0–4.0s — ★ DESCENT/REFORM COMPLETES: the divine light recedes, markings, halo and gilding fading, hair settling, the gown returning to simple white as she lowers to standing.
+- 4.0–6.0s — fully mortal again, she lifts her gaze and palms toward the beam, a held breath of awe.
+- 6.0–8.0s — she holds the exact reverent awe that opened CLIP 1, the beam at her crown — seamless loop point.
 FLUIDITY & WEIGHT NOTES: the descent eases like settling on air, the fade is gentle and continuous; she arrives in the opening reverence with no snap, breath leading the settle.
 FABRIC/HAIR/PROP PHYSICS: divine-recede — markings and gilding fading from skin and cloth, hair settling from weightless float, the gown returning to a simple drape; the last marking fades with a soft light-decay.
 FOOTWORK & BODY FLOW: toes settle to the marble, weight roots into the reverent stance, a faint spinal settle.
-MID-CLIP TRANSFORMATION (timed): ★ DESCENT/REFORM COMPLETION at 0.0–2.0s — the divine fully recedes into mortal Aira, resolving the divine-morph.
+MID-CLIP TRANSFORMATION (timed): ★ DESCENT/REFORM COMPLETION at 0.0–4.0s — the divine fully recedes into mortal Aira, resolving the divine-morph.
 LIGHTING-IN-MOTION: the god-rays soften and the aura fades to the warm beam of CLIP 1.
 DIEGETIC AUDIO: the angelic shimmer resolving into a single sustained choral note, then the temple's vast hush.
 MASTER TRACK: the choir-and-strings draw back to one held choral note landing exactly where CLIP 1 began — seamless loop.
@@ -2616,7 +2616,7 @@ Feeling: mythic enchantment / aquatic fantasy — magical, graceful, vivid; full
 Setting: a sun-dappled turquoise cove / shallow tide-pool at golden-blue hour, gentle waves, wet rocks, sea-spray.
 Trigger (signature): WATER TOUCHING HER LEGS — the wave over her legs starts the scale-bloom; a wave washing the tail completes the return.
 Voice: SILENT — diegetic waves + score only.
-Duration: ~14s · 3 clips (angle-cut, single-magic morph, loops to CLIP 1).
+Duration: 24.000 seconds total — 3 clips × 8s each (VEO renders one 8-second take per clip); the soundtrack below is built to exactly 24.000s and loops seamlessly.
 
 ## CLIP 1 of 3 — MACRO→MEDIUM-FULL · THREE-QUARTER · EYE-LEVEL (land Aira → scales BLOOM mid-clip)
 
@@ -2643,19 +2643,19 @@ COLOUR GRADE: VIVID turquoise, teal, pearl and coral with warm gold sun — satu
 TEXTURE & MICRO-DETAIL: scale iridescence blooming, wet skin and sea-mist, the wrap's wet weave, pearl-shell earrings, water-sheet on the rock.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features (except the intended morph), asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, immodest exposure, dull water, crushed blacks, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~5s — land establishing; ★ scales BLOOM mid-clip, clip ENDS mid-morph)
+### ANIMATION (this clip, full 8s — land establishing; ★ scales BLOOM mid-clip, clip ENDS mid-morph)
 SHOT TYPE & ANGLE: macro-into-eye-level medium-full, three-quarter; subject ~55% lower-right diagonal.
 CAMERA MOVEMENT (CHOREOGRAPHY): a slow pull-back from the wave-macro into the medium-full, then a gentle continuing drift — one continuous shot.
 LENS: 100mm macro easing to 50mm, f/2.2.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.8s — she reclines serenely, gazing out to sea, as a wave washes up over her ankles.
-- 1.8–3.0s — ★ TRIGGER: the water fully laps her legs; iridescent scales begin to bloom up from the waterline.
-- 3.0–4.5s — ★ MID-CLIP TRANSFORMATION BEGINS: the scales spread up the legs, which begin fusing into a shimmering tail.
-- 4.5–5.0s — the legs are half-tail; she is mythic mid-morph, serene and modest.
+- 0.0–2.9s — she reclines serenely, gazing out to sea, as a wave washes up over her ankles.
+- 2.9–4.8s — ★ TRIGGER: the water fully laps her legs; iridescent scales begin to bloom up from the waterline.
+- 4.8–7.2s — ★ MID-CLIP TRANSFORMATION BEGINS: the scales spread up the legs, which begin fusing into a shimmering tail.
+- 7.2–8.0s — the legs are half-tail; she is mythic mid-morph, serene and modest.
 FLUIDITY & WEIGHT NOTES: all eases — the gaze is calm, the wave laps gently, the scale-bloom climbs like frost over the skin; her serenity against the myth is the grace.
 FABRIC/HAIR/PROP PHYSICS: scale-bloom spread + fin/tail formation + water-droplet sheeting + caustic sun-dapple on wet skin and scales; the wrap blends with the forming tail; iridescent scale refraction; modest coverage preserved.
 FOOTWORK & BODY FLOW: a reclining grace, the legs easing together as the tail forms, weight on hip and forearm.
-MID-CLIP TRANSFORMATION (timed): ★ SCALE-BLOOM ONSET at 3.0–4.5s — triggered by the water lapping her legs, scales spreading and legs fusing toward a tail, contained as an onset within this clip; clip ends half-tail.
+MID-CLIP TRANSFORMATION (timed): ★ SCALE-BLOOM ONSET at 4.8–7.2s — triggered by the water lapping her legs, scales spreading and legs fusing toward a tail, contained as an onset within this clip; clip ends half-tail.
 LIGHTING-IN-MOTION: as the scales bloom, sun-dapple caustics dance across the wet iridescence; sea-sparkle intensifies.
 DIEGETIC AUDIO: a soft magical shimmer with the wave-wash, the trickle of water off scales.
 MASTER TRACK: a flowing harp with a soft ethereal female "ooh", a magical swell beginning at 3.0s.
@@ -2704,19 +2704,19 @@ COLOUR GRADE: VIVID turquoise-teal-pearl-coral with warm gold — saturated, glo
 TEXTURE & MICRO-DETAIL: scale iridescence and fin translucency, water droplets, wet-hair sheen, pearl-shell detail, sun-dapple.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, garbled text, floating shadows, duplicated subjects, plastic look, oversharpened, watermarks, immodest exposure, dull water, crushed blacks, garish oversaturation, flat light, dead eyes.
 
-### ANIMATION (this clip, ~5s — the hero beat; ★ reform BEGINS at the end)
+### ANIMATION (this clip, full 8s — the hero beat; ★ reform BEGINS at the end)
 SHOT TYPE & ANGLE: eye-level wide, full body; subject ~55% along the diagonal.
 CAMERA MOVEMENT (CHOREOGRAPHY): a slow reverent orbit/arc a few degrees around her — one continuous shot.
 LENS: 35mm, f/2.8.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.0s — the mermaid reclines, the tail flicking gently and sending up a fan of droplets, wet hair flowing.
-- 2.0–3.0s — she arcs the tail in a slow graceful sweep, droplets catching the gold light — the mythic hero beat.
-- 3.0–4.0s — she settles, gazing out to sea, the cove glowing, the tail shimmering.
-- 4.0–5.0s — ★ REFORM BEGINS: a wave rolls up over the tail and the scales begin receding, the tail starting to revert to legs.
+- 0.0–3.2s — the mermaid reclines, the tail flicking gently and sending up a fan of droplets, wet hair flowing.
+- 3.2–4.8s — she arcs the tail in a slow graceful sweep, droplets catching the gold light — the mythic hero beat.
+- 4.8–6.4s — she settles, gazing out to sea, the cove glowing, the tail shimmering.
+- 6.4–8.0s — ★ REFORM BEGINS: a wave rolls up over the tail and the scales begin receding, the tail starting to revert to legs.
 FLUIDITY & WEIGHT NOTES: aquatic grace — the tail-arc eases with real water-weight, the recline is languid, the wave-wash gathers smoothly; nothing snaps.
 FABRIC/HAIR/PROP PHYSICS: tail fluid-motion with believable weight, droplet spray with scatter, caustic sun-dapple, sea-spray; the wave washes with real water physics; scale-recede onset reverts the tail to legs modestly.
 FOOTWORK & BODY FLOW: a reclining mermaid grace, the tail flowing and arcing, weight on hip and forearm.
-MID-CLIP TRANSFORMATION (timed): ★ the hero HOLD (0.0–4.0s) then REFORM ONSET (4.0–5.0s) — a wave washes the tail and scales begin receding, contained as an onset in this clip.
+MID-CLIP TRANSFORMATION (timed): ★ the hero HOLD (0.0–6.4s) then REFORM ONSET (6.4–8.0s) — a wave washes the tail and scales begin receding, contained as an onset in this clip.
 LIGHTING-IN-MOTION: as the orbit moves, sun-dapple caustics sweep the wet tail; the wave brings a fresh sea-sparkle.
 DIEGETIC AUDIO: gentle lapping waves, a soft ethereal vocal, the trickle off the tail, the wave-wash beginning.
 MASTER TRACK: the harp and vocal reach a magical swell on the tail-arc peak, then begin drawing back as the reform starts.
@@ -2765,18 +2765,18 @@ COLOUR GRADE: VIVID turquoise-teal-pearl-coral with warm gold sun, saturated —
 TEXTURE & MICRO-DETAIL: last scale iridescence fading, wet skin and sea-mist, the wrap's wet weave, pearl-shell earrings, water-sheet on the rock.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, immodest exposure, dull water, crushed blacks, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~4s — reform completes; LOOP back to CLIP 1)
+### ANIMATION (this clip, full 8s — reform completes; LOOP back to CLIP 1)
 SHOT TYPE & ANGLE: eye-level medium-full, three-quarter; subject ~55% lower-right diagonal.
 CAMERA MOVEMENT (CHOREOGRAPHY): a slow settle easing toward CLIP 1's exact framing — one continuous shot.
 LENS: 50mm, f/2.2.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.0s — ★ REFORM COMPLETES: a wave washes over the tail and it reverts to legs, scales receding, the wrap re-forming over modest swim attire.
-- 2.0–3.0s — fully land-Aira again, she reclines serenely, a wave lapping her ankles.
-- 3.0–4.0s — she holds the exact serene gaze out to sea that opened CLIP 1, scales poised to bloom again — seamless loop point.
+- 0.0–4.0s — ★ REFORM COMPLETES: a wave washes over the tail and it reverts to legs, scales receding, the wrap re-forming over modest swim attire.
+- 4.0–6.0s — fully land-Aira again, she reclines serenely, a wave lapping her ankles.
+- 6.0–8.0s — she holds the exact serene gaze out to sea that opened CLIP 1, scales poised to bloom again — seamless loop point.
 FLUIDITY & WEIGHT NOTES: the reform flows like a wave receding, eased and continuous; she arrives in the opening recline with no snap, breath leading the settle.
 FABRIC/HAIR/PROP PHYSICS: scale-recede + water-sheet — scales receding off re-forming legs with believable water-flow, the wrap returning modestly; a fresh wave laps with real physics.
 FOOTWORK & BODY FLOW: legs re-form, weight rooting onto hip and forearm in the recline, a soft settle.
-MID-CLIP TRANSFORMATION (timed): ★ REFORM COMPLETION at 0.0–2.0s — the tail fully reverts to land-form, resolving the single-magic morph.
+MID-CLIP TRANSFORMATION (timed): ★ REFORM COMPLETION at 0.0–4.0s — the tail fully reverts to land-form, resolving the single-magic morph.
 LIGHTING-IN-MOTION: the sun-dapple settles; the golden-blue key steadies to the exact light of CLIP 1.
 DIEGETIC AUDIO: the wave-wash resolving into a soft shimmer and gentle lapping, then the cove's calm.
 MASTER TRACK: the harp and vocal draw back to one harp note over lapping waves landing exactly where CLIP 1 began — seamless loop.
@@ -2814,7 +2814,7 @@ Feeling: soft romance / cinematic K-drama longing — tender, glowing, butterfli
 Setting: a snowy Seoul-style street at dusk — warm shop-window glow, bokeh fairy-lights, gentle snowfall (the classic "first snow" scene).
 Trigger (signature): THE FIRST SNOWFLAKE LANDING ON HER LASHES — the flake and a soft warm glow begin the restyle; the glow receding completes the return. A STYLE-morph (aesthetic + grade); face stays identity-locked Aira.
 Voice: SILENT — diegetic snowy street + score only.
-Duration: ~13s · 3 clips (angle-cut, style-morph, loops to CLIP 1).
+Duration: 24.000 seconds total — 3 clips × 8s each (VEO renders one 8-second take per clip); the soundtrack below is built to exactly 24.000s and loops seamlessly.
 
 ## CLIP 1 of 3 — MACRO→CLOSE-UP · THREE-QUARTER · EYE-LEVEL (plain Aira → first snow → glow BEGINS mid-clip)
 
@@ -2841,18 +2841,18 @@ COLOUR GRADE: VIVID warm-amber + cool-snow K-drama grade (teal-and-orange with a
 TEXTURE & MICRO-DETAIL: individual snowflakes, lash-detail, skin pores and cold-flush, coat-wool weave, breath-fog, fairy-light bokeh.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, identity drift, resemblance to any real person, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, dull colour, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~4s — plain establishing; ★ style-glow BEGINS mid-clip, clip ENDS mid-restyle)
+### ANIMATION (this clip, full 8s — plain establishing; ★ style-glow BEGINS mid-clip, clip ENDS mid-restyle)
 SHOT TYPE & ANGLE: macro-into-eye-level close-up, three-quarter; subject ~55% right-of-centre.
 CAMERA MOVEMENT (CHOREOGRAPHY): a slow pull-back from the lashes-macro into the close-up, then a gentle push — one continuous shot.
 LENS: 100mm macro easing to 85mm, f/1.8.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.5s — plain-look Aira looks up as the first snow falls, a small delighted breath fogging the cold air.
-- 1.5–2.8s — ★ TRIGGER: a snowflake lands on her lashes; a soft warm glow sweeps over her face.
-- 2.8–4.0s — ★ MID-CLIP TRANSFORMATION BEGINS: the makeup blooms to dewy glass-skin and her hair begins restyling to the soft K-drama blowout; the street-lights bloom romantically.
+- 0.0–3.0s — plain-look Aira looks up as the first snow falls, a small delighted breath fogging the cold air.
+- 3.0–5.6s — ★ TRIGGER: a snowflake lands on her lashes; a soft warm glow sweeps over her face.
+- 5.6–8.0s — ★ MID-CLIP TRANSFORMATION BEGINS: the makeup blooms to dewy glass-skin and her hair begins restyling to the soft K-drama blowout; the street-lights bloom romantically.
 FLUIDITY & WEIGHT NOTES: all eases — the upward gaze is gentle, the glow sweeps soft, the restyle blooms like warmth spreading; her wonder against the magic is the tenderness.
 FABRIC/HAIR/PROP PHYSICS: a soft warm light-bloom wipe (not an element morph); hair restyling with a settle; makeup "glow" blooming on the skin; snow continuing to fall naturally; the bokeh fairy-lights intensifying.
 FOOTWORK & BODY FLOW: a relaxed grounded stance, the shoulders easing from hunched to soft as the glow arrives.
-MID-CLIP TRANSFORMATION (timed): ★ STYLE-GLOW ONSET at 1.5–2.8s and restyle-build (2.8–4.0s) — triggered by the snowflake on the lashes, makeup and hair beginning to restyle, contained as an onset within this clip; clip ends mid-restyle.
+MID-CLIP TRANSFORMATION (timed): ★ STYLE-GLOW ONSET at 3.0–5.6s and restyle-build (5.6–8.0s) — triggered by the snowflake on the lashes, makeup and hair beginning to restyle, contained as an onset within this clip; clip ends mid-restyle.
 LIGHTING-IN-MOTION: the warm shop-glow blooms softer and dreamier; the fairy-lights intensify into romantic bokeh as she restyles.
 DIEGETIC AUDIO: a tender piano note with a soft sparkle as the flake lands, the muffled hush of snow.
 MASTER TRACK: a soft solo piano with warm strings, a gentle romantic swell beginning at 2.8s.
@@ -2901,19 +2901,19 @@ COLOUR GRADE: VIVID K-drama teal-and-amber — warm shop-glow against cool snow,
 TEXTURE & MICRO-DETAIL: snow on the hair, glass-skin dew, glossy blowout sheen, camel-wool and knit-scarf weave, breath-fog, fairy-light bokeh.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, identity drift, resemblance to any real person, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, dull colour, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~5s — the hero beat; ★ reform BEGINS at the end)
+### ANIMATION (this clip, full 8s — the hero beat; ★ reform BEGINS at the end)
 SHOT TYPE & ANGLE: eye-level medium, front; subject ~60% centre.
 CAMERA MOVEMENT (CHOREOGRAPHY): a slow gentle push toward her in the snow — one continuous shot.
 LENS: 50mm, f/1.8.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.0s — she stands in the gentle snow, holding her scarf, a tender wistful smile, breath fogging, snow settling on her hair.
-- 2.0–3.0s — she tucks a strand of the blowout behind her ear, a soft glance to the lens — the romantic hero beat.
-- 3.0–4.0s — she holds the longing first-snow gaze, fairy-lights twinkling around her.
-- 4.0–5.0s — ★ REFORM BEGINS: the warm glow begins to recede and the styling starts reverting toward the plain "before".
+- 0.0–3.2s — she stands in the gentle snow, holding her scarf, a tender wistful smile, breath fogging, snow settling on her hair.
+- 3.2–4.8s — she tucks a strand of the blowout behind her ear, a soft glance to the lens — the romantic hero beat.
+- 4.8–6.4s — she holds the longing first-snow gaze, fairy-lights twinkling around her.
+- 6.4–8.0s — ★ REFORM BEGINS: the warm glow begins to recede and the styling starts reverting toward the plain "before".
 FLUIDITY & WEIGHT NOTES: soft K-drama grace — the strand-tuck is gentle, the gaze tender, the glow-recede eases in; nothing snaps; breath and snow keep it alive.
 FABRIC/HAIR/PROP PHYSICS: a soft warm light-bloom holding then receding; snow falls and settles naturally; the blowout stirs and the scarf shifts with soft cloth-physics; fairy-light bokeh shimmering.
 FOOTWORK & BODY FLOW: a soft grounded stance, a gentle weight-shift on the strand-tuck.
-MID-CLIP TRANSFORMATION (timed): ★ the hero HOLD (0.0–4.0s) then REFORM ONSET (4.0–5.0s) — the warm glow begins receding to revert the styling, contained as an onset in this clip.
+MID-CLIP TRANSFORMATION (timed): ★ the hero HOLD (0.0–6.4s) then REFORM ONSET (6.4–8.0s) — the warm glow begins receding to revert the styling, contained as an onset in this clip.
 LIGHTING-IN-MOTION: the romantic glow holds dreamy, then softens as the glow-recede begins; fairy-lights gently dimming toward the plain look.
 DIEGETIC AUDIO: a soft swelling piano with the muffled snow-hush, a distant shop-door chime.
 MASTER TRACK: a tender K-drama-OST piano-and-strings reaching its romantic peak on the strand-tuck (the hero beat), then beginning to draw back.
@@ -2962,18 +2962,18 @@ COLOUR GRADE: VIVID warm-amber + cool-snow K-drama grade, saturated, cinematic, 
 TEXTURE & MICRO-DETAIL: individual snowflakes, lash-detail, skin pores and cold-flush, coat-wool weave, breath-fog, fairy-light bokeh.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, identity drift, resemblance to any real person, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, dull colour, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~4s — restyle reverts; LOOP back to CLIP 1)
+### ANIMATION (this clip, full 8s — restyle reverts; LOOP back to CLIP 1)
 SHOT TYPE & ANGLE: eye-level close-up, three-quarter; subject ~55% right-of-centre.
 CAMERA MOVEMENT (CHOREOGRAPHY): a slow settle easing toward CLIP 1's exact framing — one continuous shot.
 LENS: 85mm, f/1.8.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.0s — ★ RESTYLE REVERTS: the warm glow recedes, the K-drama hair, makeup and wardrobe softening back to the plain beige-coat "before".
-- 2.0–3.0s — fully plain-look Aira again, she looks up at the falling snow, a small delighted breath fogging.
-- 3.0–4.0s — she holds the exact soft surprised wonder that opened CLIP 1, a flake landing on her lashes — seamless loop point.
+- 0.0–4.0s — ★ RESTYLE REVERTS: the warm glow recedes, the K-drama hair, makeup and wardrobe softening back to the plain beige-coat "before".
+- 4.0–6.0s — fully plain-look Aira again, she looks up at the falling snow, a small delighted breath fogging.
+- 6.0–8.0s — she holds the exact soft surprised wonder that opened CLIP 1, a flake landing on her lashes — seamless loop point.
 FLUIDITY & WEIGHT NOTES: the revert eases like warmth fading, gentle and continuous; she arrives in the opening wonder with no snap, breath and snow keeping it alive.
 FABRIC/HAIR/PROP PHYSICS: a soft warm light-bloom receding; hair softening back to flat waves with a settle; the coat reverting to beige with cloth-physics; snow continuing to fall; fairy-light bokeh dimming to the plain look.
 FOOTWORK & BODY FLOW: shoulders ease back into the everyday cold-hunch, a soft settle, head tilting up.
-MID-CLIP TRANSFORMATION (timed): ★ RESTYLE-REVERT COMPLETION at 0.0–2.0s — she fully returns to the plain before-look, resolving the style-morph.
+MID-CLIP TRANSFORMATION (timed): ★ RESTYLE-REVERT COMPLETION at 0.0–4.0s — she fully returns to the plain before-look, resolving the style-morph.
 LIGHTING-IN-MOTION: the dreamy bloom softens back to the plain warm shop-glow and cool snow of CLIP 1.
 DIEGETIC AUDIO: the piano softening to the muffled snow-hush and a faint shop-door chime, then quiet.
 MASTER TRACK: the K-drama piano draws back to one tender piano note over the snow-hush landing exactly where CLIP 1 began — seamless loop.
