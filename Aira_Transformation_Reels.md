@@ -2213,3 +2213,199 @@ A clean studio room-tone as the constant. THROUGH-LINE: a crisp finger-snap + a 
 One modern groove that RE-SKINS per era — the fun is the genre-flip on every spin. KEY/TEMPO: a constant ~100 BPM groove. THE SPINE (constant): the same beat/bassline rendered as 1920s jazz → 1950s rock'n'roll → 1970s disco → 1990s hip-hop → modern pop, snapping on each spin. BUILD: each era hits its genre on the pose; the track lands back on modern pop exactly where the reel began — a seamless infinite loop. Chic, playful, iconic.
 
 ═══════════════════════════════════════════════════════════════════════════════
+
+
+# CONCEPT C-2 — SHE TURNS INTO HER NIGHT ALTER-EGO (soft day → bold night, one blink)
+
+Transforms Into: her bold "after-dark" alter-ego — soft natural daytime Aira flips to high-glam night Aira in a single blink and hair-flip, the room flipping warm-day to moody-night with her.
+Feeling: confident duality / glow-up — the "wait, she's THAT girl" reveal; powerful, modest-but-magnetic.
+★ HOOK (first ~1s): soft daytime Aira closes her eyes — and opens them with a bold smoky eye already on.
+Setting: a chic apartment by a window — warm daylight that flips to moody night with city lights.
+Trigger (signature): A BLINK, THEN A HAIR-FLIP — the blink flips the makeup/eyes; the hair-flip completes hair + wardrobe + the room's day→night light. A persona-flip (not an element-morph); face stays identity-locked Aira.
+Voice: SILENT — diegetic + score only.
+Duration: ~13s · 3 clips (angle-cut, persona-flip, loops to CLIP 1).
+
+## CLIP 1 of 3 — CLOSE-UP · FRONT · EYE-LEVEL (soft day Aira → blink flips the eyes mid-clip)
+
+### START IMAGE (keyframe)
+ANGLE & SHOT SIZE: eye-level CLOSE-UP, front (face and shoulders); soft natural day-Aira in warm window light, about to close her eyes.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: a soft cream chunky knit, cosy and relaxed (modest), one shoulder softly draped.
+FOOTWEAR: out of frame (close-up).
+EYEWEAR: none.
+ACCESSORIES: tiny gold studs, barely-there.
+HAIR: soft loose natural waves, deep brown, a little undone, a strand across the cheek.
+MAKEUP: fresh no-makeup glow — dewy bare skin, soft flush, a balm-glossed lip, real pores and freckles.
+HANDS & NAILS: one hand resting softly near her jaw, relaxed; bare natural nails.
+FACIAL MICRO-DYNAMICS: gentle, relaxed warmth — a soft easy gaze to lens, lips in a calm rest-smile, eyes about to close, a slow soft blink, warm catchlights.
+BODY POSTURE & WEIGHT: a relaxed easy posture, shoulders soft and low, head tilted gently, breathing slow.
+KINETIC STILLNESS (8 layers): (1) warm window-light flickering softly; (2) the loose waves stirring faintly; (3) the cream knit's soft texture; (4) the cheek-strand drifting; (5) chest rising softly; (6) dust-motes in the warm light; (7) the hand settling near the jaw; (8) a slow soft blink.
+SPATIAL LOGIC: FOREGROUND — her face and resting hand, sharp. MIDGROUND — her shoulders and knit. BACKGROUND — a warm sunlit apartment melting to soft bokeh.
+LIGHTING: KEY — warm soft window daylight. FILL — gentle warm bounce. RIM — a soft warm edge on the hair. PRACTICAL — the sunlit window. SEPARATION — her warm-lit face against the soft room. BOUNCE — a warm kick under the jaw.
+LENS + DOF + BOKEH: 85mm, f/1.8; her face sharp, warm room melting to soft bokeh.
+COMPOSITION: vertical 9:16, her face centred, warm window-bokeh framing, gentle headroom.
+SUBJECT FRAMING & POSITION: Aira reads from the shoulders up, framed in an intimate close-up squared near-front to the lens, her face soft and relaxed with a hand resting near the jaw, about to close her eyes. The camera is near at clean eye level; she anchors dead-centre with warm room-bokeh on both sides, body soft and front-facing. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: cosy, warm, soft — a lazy golden afternoon.
+COLOUR GRADE: VIVID warm soft daytime — saturated honey-and-cream tones, full mid-tone, shifting cooler toward clip end.
+TEXTURE & MICRO-DETAIL: bare-skin glow and freckles, chunky-knit weave, soft waves, balm-lip sheen, dust-motes.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, identity drift, resemblance to any real person, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, dull colour, garish oversaturation, flat light.
+
+### ANIMATION (this clip, ~4s — soft day establishing; ★ blink flips the eyes mid-clip, clip ENDS mid-flip)
+SHOT TYPE & ANGLE: eye-level close-up, front; subject ~60% centre.
+CAMERA MOVEMENT (CHOREOGRAPHY): a slow gentle push to her eyes, holding through the blink — one continuous shot.
+LENS: 85mm, f/1.8, eyes sharp.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–2.0s — soft day-Aira holds a relaxed warm gaze, then slowly closes her eyes.
+- 2.0–3.0s — ★ TRIGGER: on the blink — a match-cut — she opens her eyes with a BOLD SMOKY EYE and sharp liner already on, expression sharpening to cool confidence.
+- 3.0–4.0s — ★ MID-CLIP FLIP CONTINUES: the light begins cooling toward night, her gaze hardening into allure; the rest of the look poised to complete.
+FLUIDITY & WEIGHT NOTES: the blink is the magic — the eyelids' motion masks the makeup flip so it reads instant yet smooth; the light cross-fade eases; her composure shifts, not snaps.
+FABRIC/HAIR/PROP PHYSICS: a blink match-cut masks the eye-makeup change; the warm-to-cool light cross-fades on the skin; the cream knit begins to read cooler as night arrives.
+FOOTWORK & BODY FLOW: minimal — only the blink, the gaze-shift and the cooling light move; a held intimate stillness.
+MID-CLIP TRANSFORMATION (timed): ★ PERSONA-FLIP ONSET at 2.0–3.0s — triggered by the blink, flipping the eye-makeup and beginning the day→night light, contained as an onset within this clip; clip ends mid-flip (eyes night, look completing).
+LIGHTING-IN-MOTION: warm daylight cools toward moody night; a city-glow begins to bloom behind her.
+DIEGETIC AUDIO: a soft swell on the eye-open, a subtle whoosh, warm-day room-tone cooling to a night hum.
+MASTER TRACK: a soft warm acoustic/lo-fi beginning to tense toward a beat as the eyes open.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 2 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the cream knit beginning to read as a sleek black blazer-dress collar at the shoulder, mid-transition (modest).
+  • FOOTWEAR: out of frame.
+  • EYEWEAR: none.
+  • ACCESSORIES: the tiny gold studs beginning to read as bold statement earrings.
+  • HAIR: the soft waves poised, about to flip into a glossy glam blowout.
+  • MAKEUP: a BOLD smoky eye and sharp liner now ON, the lip still soft (about to deepen to berry-glam).
+  • HANDS & NAILS: the hand near the jaw, poised to do the hair-flip, nails about to read deep red.
+  • FACIAL MICRO-DYNAMICS: cool confidence rising, a sharper level gaze, lips parting slightly, a slow blink — identity-locked Aira shifting personas.
+  • BODY POSTURE & WEIGHT: shoulders beginning to square and lift, the body sharpening from soft to poised, breathing.
+  • KINETIC STILLNESS (8 layers): (1) the light cooling to night; (2) a city-glow blooming; (3) the waves poised to flip; (4) the knit reading cooler/sharper; (5) chest rising; (6) earrings forming; (7) the gaze hardening; (8) a slow blink.
+  • SPATIAL LOGIC: FOREGROUND — her face and poised hand. MIDGROUND — her shoulders. BACKGROUND — the room cooling to night, city-glow forming.
+  • LIGHTING: KEY — cooling toward moody night key. FILL — cool ambient. RIM — a cool edge forming on the hair. PRACTICAL — emerging city-lights. SEPARATION — her sharpening face against the darkening room. BOUNCE — cooling kick.
+  • ATMOSPHERE: the glow-up igniting, cool and magnetic.
+  • COLOUR GRADE: VIVID transitioning warm→cool, saturated, moving toward moody night.
+  • TEXTURE & MICRO-DETAIL: smoky-eye detail, sharpening skin glam, knit-to-blazer transition, forming earrings, city-bokeh.
+CUT LOGIC: hard ANGLE-CUT to CLIP 2 (medium, three-quarter). No frame-match needed — the angle change is the edit. State carried forward: eyes flipped to night-glam, the look completing, room cooling.
+
+---
+
+## CLIP 2 of 3 — MEDIUM · THREE-QUARTER · EYE-LEVEL (★ full NIGHT ALTER-EGO, the hero beat)
+
+### START IMAGE (keyframe)
+ANGLE & SHOT SIZE: eye-level MEDIUM (waist-up), three-quarter; Aira mid hair-flip completing into the full night-glam alter-ego, the room now moody night with city lights.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: a sleek black tailored blazer-dress (modest, long sleeves, sharp shoulders), expensive and nocturnal.
+FOOTWEAR: out of frame (waist-up).
+EYEWEAR: none.
+ACCESSORIES: bold gold statement earrings, a single fine layered chain.
+HAIR: a glossy voluminous blowout / sleek high pony, deep brown with a high shine, mid-flip.
+MAKEUP: bold night-glam — a smoky cool-toned eye, sharp liner, a deep berry-glam lip, sculpted glow, real pores.
+HANDS & NAILS: one hand sweeping through the hair-flip, the other poised at the lapel; deep-red glossy nails.
+FACIAL MICRO-DYNAMICS: cool magnetic allure — a powerful level gaze just off-lens, lips parted in a near-confident-smile, brows assured, a slow blink, sharp city-light catchlights.
+BODY POSTURE & WEIGHT: a powerful poised stance, weight on one hip, shoulders squared and lifted, head high, mid hair-flip, breathing.
+KINETIC STILLNESS (8 layers): (1) the hair-flip mid-swing; (2) city-lights twinkling behind; (3) the blazer-dress's sharp line settling; (4) statement earrings swinging; (5) chest rising; (6) the chain glinting; (7) a passing headlight sweeping the room; (8) a slow assured blink.
+SPATIAL LOGIC: FOREGROUND — the hair-flip sweep, sharp. MIDGROUND — Aira three-quarter. BACKGROUND — a moody night apartment with a glittering city skyline beyond the window.
+LIGHTING: KEY — a cool moody night key. FILL — cool ambient. RIM — a sharp cool rim on the hair and shoulder, plus warm city-light pops. PRACTICAL — city-lights, a warm lamp, passing headlights. SEPARATION — her glam form against the night window. BOUNCE — cool with warm city-spill.
+LENS + DOF + BOKEH: 50mm, f/2.0; her sharp, the city-lights melting to warm round bokeh.
+COMPOSITION: vertical 9:16, Aira centred, the glittering city-bokeh filling the background, the hair-flip dynamic across the frame.
+SUBJECT FRAMING & POSITION: Aira reads from the waist up, framed medium with her torso at a three-quarter turn mid hair-flip, her face delivering cool allure just off-lens, the city night glittering behind. The camera holds mid-distance at clean eye level; she anchors dead-centre, body powerful and poised, owning the "she's THAT girl" reveal. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: nocturnal, magnetic, expensive — full main-character night energy.
+COLOUR GRADE: VIVID moody night — saturated cool blues with warm city-light pops, rich blacks, the warm/cool contrast the anchor.
+TEXTURE & MICRO-DETAIL: glossy hair-shine, blazer tailoring, statement-earring glint, sculpted-glow skin, city-bokeh.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, identity drift, resemblance to any real person, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, dull colour, crushed blacks, garish oversaturation, flat light.
+
+### ANIMATION (this clip, ~5s — the hero beat; ★ reform/flip-back BEGINS at the end)
+SHOT TYPE & ANGLE: eye-level medium, three-quarter; subject ~60% centre.
+CAMERA MOVEMENT (CHOREOGRAPHY): a slow push with a subtle arc as she lands the look — one continuous shot.
+LENS: 50mm, f/2.0.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–2.0s — ★ the hair-flip completes — the swing masks the hair/wardrobe finishing into full night-glam, the room flipping fully to night.
+- 2.0–4.0s — she settles into a powerful confident pose, owning it, a cool magnetic gaze — the hero beat.
+- 4.0–5.0s — ★ FLIP-BACK BEGINS: she begins to lower her chin toward a blink, the night light starting to warm again.
+FLUIDITY & WEIGHT NOTES: the hair-flip carries real swing and weight; the pose lands powerful and grounded; the flip-back eases in on the chin-lower; nothing snaps.
+FABRIC/HAIR/PROP PHYSICS: the hair-swing masks the wardrobe/hair completion; the blazer-dress falls in a sharp line; earrings swing with weight; the day↔night light cross-fades on the room and skin.
+FOOTWORK & BODY FLOW: a grounded power-stance, weight rolling onto one hip through the flip, shoulders squaring.
+MID-CLIP TRANSFORMATION (timed): ★ the hero HOLD (0.0–4.0s) then FLIP-BACK ONSET (4.0–5.0s) — she begins the blink/light-warm that will return her to day, contained as an onset in this clip.
+LIGHTING-IN-MOTION: moody night holds, then begins warming as the flip-back starts; city-bokeh softening.
+DIEGETIC AUDIO: a confident bass-drop on the pose, the night-room hum, beginning to soften.
+MASTER TRACK: a confident bass-heavy glam beat at its peak on the pose, then easing as the flip-back begins.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 3 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: the black blazer-dress beginning to soften back toward the cream knit at the collar (modest), mid-reverse.
+  • FOOTWEAR: out of frame.
+  • EYEWEAR: none.
+  • ACCESSORIES: the bold earrings beginning to read back to tiny studs.
+  • HAIR: the glam blowout settling, poised to soften back to loose natural waves.
+  • MAKEUP: the smoky eye and berry lip still on, about to soften to bare glow on the blink.
+  • HANDS & NAILS: one hand lowering from the flip toward the jaw, deep-red nails about to read bare.
+  • FACIAL MICRO-DYNAMICS: cool allure softening, chin lowering toward a blink, a slow blink beginning — identity-locked Aira shifting back.
+  • BODY POSTURE & WEIGHT: the power-stance beginning to ease toward soft and relaxed, shoulders lowering, breathing.
+  • KINETIC STILLNESS (8 layers): (1) the night light warming; (2) city-bokeh softening; (3) the blowout settling; (4) the blazer softening; (5) chest rising; (6) earrings reducing; (7) the gaze softening; (8) a slow blink.
+  • SPATIAL LOGIC: FOREGROUND — her face and lowering hand. MIDGROUND — her shoulders. BACKGROUND — night warming back toward day, city-glow fading.
+  • LIGHTING: KEY — moody night warming. FILL — warming ambient. RIM — cool edge softening to warm. PRACTICAL — fading city-lights, warming lamp. SEPARATION — her face against the warming room. BOUNCE — warming kick.
+  • ATMOSPHERE: the glow-up easing back, magnetic softening to warm.
+  • COLOUR GRADE: VIVID transitioning night→day, saturated, moving back toward warm.
+  • TEXTURE & MICRO-DETAIL: softening glam, blazer-to-knit transition, settling hair, reducing earrings, fading city-bokeh.
+CUT LOGIC: hard ANGLE-CUT to CLIP 3 (close-up, front). No frame-match needed. State carried forward: night-glam softening back toward day, chin lowering to a blink.
+
+---
+
+## CLIP 3 of 3 — CLOSE-UP · FRONT · EYE-LEVEL (blink back → soft day Aira; LOOP to CLIP 1)
+
+### START IMAGE (keyframe)
+ANGLE & SHOT SIZE: eye-level CLOSE-UP, front (face and shoulders); night-Aira blinking back to soft day-Aira, the room warming.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+WARDROBE: the soft cream chunky knit re-formed and intact (modest), one shoulder softly draped.
+FOOTWEAR: out of frame.
+EYEWEAR: none.
+ACCESSORIES: tiny gold studs, barely-there.
+HAIR: soft loose natural waves, deep brown, a little undone, a strand across the cheek.
+MAKEUP: fresh no-makeup glow — dewy bare skin, soft flush, balm-glossed lip, real pores and freckles.
+HANDS & NAILS: one hand resting softly near her jaw — matching CLIP 1 — bare natural nails.
+FACIAL MICRO-DYNAMICS: gentle relaxed warmth — a soft easy gaze to lens, lips in a calm rest-smile, eyes opening soft from a blink, warm catchlights — exactly the look that opened CLIP 1.
+BODY POSTURE & WEIGHT: a relaxed easy posture, shoulders soft and low, head tilted gently, breathing slow.
+KINETIC STILLNESS (8 layers): (1) warm window-light flickering back; (2) the loose waves stirring; (3) the cream knit's soft texture; (4) the cheek-strand drifting; (5) chest easing on an exhale; (6) dust-motes in the warm light; (7) the hand settling near the jaw; (8) a slow soft blink.
+SPATIAL LOGIC: FOREGROUND — her face and resting hand, sharp. MIDGROUND — her shoulders and knit. BACKGROUND — warm sunlit apartment soft bokeh.
+LIGHTING: KEY — warm soft window daylight. FILL — gentle warm bounce. RIM — soft warm edge on the hair. PRACTICAL — the sunlit window. SEPARATION — her warm-lit face against the soft room. BOUNCE — warm kick under the jaw.
+LENS + DOF + BOKEH: 85mm, f/1.8; her face sharp, warm room soft bokeh — matched toward CLIP 1.
+COMPOSITION: vertical 9:16, her face centred, warm window-bokeh framing, gentle headroom — rhyming with CLIP 1.
+SUBJECT FRAMING & POSITION: Aira reads from the shoulders up, framed in an intimate close-up squared near-front, her face soft and relaxed with a hand resting near the jaw as she opens her eyes from the blink into day. The camera holds near distance at clean eye level; she anchors dead-centre with warm room-bokeh both sides — composed to match CLIP 1's opening so the loop is seamless. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+ATMOSPHERE: cosy warm resolution — the soft afternoon exactly as it began.
+COLOUR GRADE: VIVID warm soft daytime — saturated honey-and-cream, full mid-tone — matched to CLIP 1.
+TEXTURE & MICRO-DETAIL: bare-skin glow and freckles, chunky-knit weave, soft waves, balm-lip sheen, dust-motes.
+NEGATIVE: mirrored, flipped, extra limbs, fused fingers, identity drift, resemblance to any real person, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, dull colour, garish oversaturation, flat light.
+
+### ANIMATION (this clip, ~4s — flip-back completes; LOOP back to CLIP 1)
+SHOT TYPE & ANGLE: eye-level close-up, front; subject ~60% centre.
+CAMERA MOVEMENT (CHOREOGRAPHY): a slow settle easing toward CLIP 1's exact framing — one continuous shot.
+LENS: 85mm, f/1.8, eyes sharp.
+SUBJECT ACTION w/ BEAT-TIMING:
+- 0.0–2.0s — ★ FLIP-BACK COMPLETES: on a blink — a match-cut — the smoky glam softens to bare day-glow, hair softens to loose waves, the blazer returns to the cream knit, the room warms fully to day.
+- 2.0–3.0s — fully soft day-Aira again, she opens her eyes into a relaxed warm gaze, hand resting near the jaw.
+- 3.0–4.0s — she holds the exact gentle warmth that opened CLIP 1, about to close her eyes again — seamless loop point.
+FLUIDITY & WEIGHT NOTES: the blink masks the reverse-flip so it reads instant yet smooth; the light warms in an easy cross-fade; she eases from poised to soft with no snap.
+FABRIC/HAIR/PROP PHYSICS: a blink match-cut masks the makeup/hair/wardrobe reverse; the night→day light cross-fades on room and skin; the knit settles soft.
+FOOTWORK & BODY FLOW: shoulders lower into a relaxed ease, a soft spinal settle.
+MID-CLIP TRANSFORMATION (timed): ★ FLIP-BACK COMPLETION at 0.0–2.0s — she fully returns to soft day-Aira, resolving the persona-flip.
+LIGHTING-IN-MOTION: moody night warms fully back to soft daylight, city-glow gone, the key steadying to CLIP 1.
+DIEGETIC AUDIO: the bass-beat softening into warm-day room-tone, a gentle breath.
+MASTER TRACK: the glam beat eases back to the soft warm acoustic/lo-fi landing exactly where CLIP 1 began — seamless loop.
+↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 1 (LOOP back to opening) — reproduce EVERY detail below EXACTLY; only the camera angle differs:
+  • WARDROBE: a soft cream chunky knit (modest), one shoulder softly draped.
+  • FOOTWEAR: out of frame.
+  • EYEWEAR: none.
+  • ACCESSORIES: tiny gold studs, barely-there.
+  • HAIR: soft loose natural waves, deep brown, a little undone, a strand across the cheek.
+  • MAKEUP: fresh no-makeup glow — dewy bare skin, soft flush, balm-glossed lip, real pores and freckles.
+  • HANDS & NAILS: one hand resting softly near her jaw, bare natural nails.
+  • FACIAL MICRO-DYNAMICS: gentle relaxed warmth, a soft easy gaze to lens, lips in a calm rest-smile, eyes about to close, a slow soft blink.
+  • BODY POSTURE & WEIGHT: a relaxed easy posture, shoulders soft and low, head tilted gently, breathing slow.
+  • KINETIC STILLNESS (8 layers): (1) warm window-light flickering; (2) loose waves stirring; (3) the cream knit's texture; (4) the cheek-strand drifting; (5) a slow inhale; (6) dust-motes in warm light; (7) the hand settling near the jaw; (8) a slow soft blink.
+  • SPATIAL LOGIC: FOREGROUND — her face and resting hand. MIDGROUND — her shoulders and knit. BACKGROUND — warm sunlit apartment soft bokeh.
+  • LIGHTING: KEY — warm soft window daylight. FILL — gentle warm bounce. RIM — soft warm edge on the hair. PRACTICAL — the sunlit window. SEPARATION — her warm-lit face against the soft room. BOUNCE — warm kick under the jaw.
+  • ATMOSPHERE: cosy, warm, soft — a lazy golden afternoon, exactly as it began.
+  • COLOUR GRADE: VIVID warm soft daytime, saturated honey-and-cream, full mid-tone.
+  • TEXTURE & MICRO-DETAIL: bare-skin glow and freckles, chunky-knit weave, soft waves, balm-lip sheen, dust-motes.
+CUT LOGIC: seamless ANGLE-CUT / LOOP back to CLIP 1 — she closes her eyes and flips to her night alter-ego again, forever.
+
+☆ EXTERNAL AUDIO — BLOCK 1: BACKGROUND SOUND DESIGN / AMBIENCE BED
+A warm quiet apartment by day as the constant (soft room-tone, distant birds) that flips to a moody night ambience (faint city hum, distant traffic) on the transformation. THROUGH-LINE: a subtle whoosh on the blink/hair-flip, recurring at the loop. Layers: a soft swell on the eye-open (CLIP 1 end); the night-room hum with faint city sounds during the alter-ego (CLIP 2); the night softening back to warm-day birds on the return blink (CLIP 3). Cross-fade on each flip; the warm-day tone at the end equals the start.
+☆ EXTERNAL AUDIO — BLOCK 2: BACKGROUND MUSIC / SCORE TRACK
+One track, two energies — the drop sells the glow-up. KEY/TEMPO: a soft warm acoustic/lo-fi by day that DROPS into a confident bass-heavy glam beat (~95 BPM) on the night-flip. THE SPINE (constant): the same chord progression rendered soft-acoustic (day) vs bass-glam (night). BUILD: the beat drops on the hair-flip pose (CLIP 2 hero beat), then eases back to the soft warm version on the return blink — landing exactly where the reel began — a seamless infinite loop. Confident, magnetic, glow-up energy.
+
+═══════════════════════════════════════════════════════════════════════════════
