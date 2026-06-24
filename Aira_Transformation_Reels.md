@@ -1323,9 +1323,30 @@ MASTER TRACK: the pad and choir draw back to a single glassy bell-tone landing e
 CUT LOGIC: seamless ANGLE-CUT / LOOP back to CLIP 1 — the star ignites and the cosmos blooms again, forever.
 
 ☆ EXTERNAL AUDIO — BLOCK 1: BACKGROUND SOUND DESIGN / AMBIENCE BED
-Deep-space silence as the constant — a vast, pressureless quiet. THROUGH-LINE: a single high crystalline chime (the star igniting), recurring at the loop. Layers: a wash of twinkling shimmer as the constellations spread (CLIP 1 end); a vast low cosmic drone with delicate twinkles while she is the galaxy (CLIP 2); the twinkles drawing inward resolving to one chime and silence (CLIP 3). Cross-fade beat to beat; the silence at the end equals the start.
+RUNTIME: exactly 24.000s = 3 clips × 8.000s · 48 kHz / 24-bit stereo · CLIP MAP — CLIP 1 = 0:00–0:08 · CLIP 2 = 0:08–0:16 · CLIP 3 = 0:16–0:24 · seamless loop.
+DESIGN INTENT: deep-space made audible — vast, pressureless, with delicate crystalline star-events, so the cosmos blooming inside her feels infinite and sacred, never a generic "space whoosh".
+STEMS: (S1) deep-space silence — a sub-bass void floor (~30 Hz) and a faint shimmer of cosmic radiation noise. (S2) the single star-ignite chime. (S3) a twinkle-cloud (granular high bells). (S4) a vast cosmic drone (the galaxy body). (S5) a 4.0 s infinite-tail reverb.
+TIMED EVENTS:
+- 0:00–0:02.9 — vast quiet; the faintest radiation-shimmer; the void breathes sub-bass.
+- 0:02.9 — TRIGGER: a single high CRYSTALLINE CHIME — the star igniting in her iris — with a 4 s tail.
+- 0:04.8 — starfield spread: a wash of granular twinkles blooms across the skin, rising to the cut.
+- 0:08.000 — CLIP-2 cut: a VAST COSMIC DRONE opens wide (slow-rotating spectral pad) with constellations twinkling in 3D.
+- 0:11.2 — the galaxy arm-arc: a sweep of brighter star-points and a soft "shooting-star" doppler streak across the field.
+- 0:14.4–0:16.0 — the stars draw inward: the twinkle-cloud concentrates toward centre, the drone tightening.
+- 0:16.000 — CLIP-3 cut: the twinkles collapse to a single chime; the drone fades to void over 2.5 s.
+- 0:20.0–0:23.5 — deep-space quiet returns; one last star fades with a long tail.
+- 0:23.5–0:24.000 — the ignite-chime begins again — identical to 0:02.9 — invisible loop.
+MIX NOTES: enormous stereo width and depth; keep the void floor felt not heard; chimes pristine and glassy; never busy — the vastness is the awe.
+
 ☆ EXTERNAL AUDIO — BLOCK 2: BACKGROUND MUSIC / SCORE TRACK
-Celestial, ambient, transcendent. KEY/TEMPO: E minor, ~58 BPM. THE SPINE (constant): a slow ethereal pad with soft female "ah" choir and sparse glassy bell-tones, present throughout. BUILD: the choir swells as the cosmos spreads; a grand string-and-choir apex hits on the CLIP 2 arm-arc (the hero beat); the swell decays as she reforms, drawing back to one glassy bell landing exactly where the reel began — a seamless infinite loop. Vast, sacred, goosebump-level.
+RUNTIME: exactly 24.000s · KEY: E minor · TEMPO: 60 BPM (bar = 4.000s; 24.000s = exactly 6 bars) · seamless loop.
+SPINE (constant): a slow ethereal pad in E minor + a wordless female "ah" choir held low — celestial and weightless.
+ARRANGEMENT:
+- 0:00–0:08: pad + faint choir; a sparse glassy BELL motif enters at 0:02.9 on the star-ignite, ringing into the spread.
+- 0:08–0:16: the choir opens fully and strings rise with the galaxy; the score PEAKS at 0:11.2 on the arm-arc (grand string + choir crescendo + a celesta cascade), easing at 0:14.4.
+- 0:16–0:24: the choir and strings decay into reverb; by 0:20 just the pad and one bell; the final bell lands at 0:23.8 matching 0:00.
+LOOP LOCK: 6-bar phrase resolves at 24.000s onto the 0:00 downbeat. FEEL: vast, sacred, transcendent — goosebumps.
+
 
 ═══════════════════════════════════════════════════════════════════════════════
 
@@ -1521,9 +1542,30 @@ MASTER TRACK: the baroque strings draw back to one harpsichord note landing exac
 CUT LOGIC: seamless ANGLE-CUT / LOOP back to CLIP 1 — the gold touches her collarbone and she gilds again, forever.
 
 ☆ EXTERNAL AUDIO — BLOCK 1: BACKGROUND SOUND DESIGN / AMBIENCE BED
-A hushed grand marble gallery as the constant — a vast soft room-tone, the faintest echo. THROUGH-LINE: a bright metallic chime (gold touching skin), recurring at the loop. Layers: a flowing-liquid-metal shimmer as she gilds (CLIP 1 end); a deep resonant gold-hum with a faint shimmer while she is the gold-figure (CLIP 2); the metal tone resolving to one chime and the gallery hush as the gold recedes (CLIP 3). Cross-fade beat to beat; the hush at the end equals the start.
+RUNTIME: exactly 24.000s = 3 clips × 8.000s · 48 kHz / 24-bit stereo · CLIP MAP — CLIP 1 = 0:00–0:08 · CLIP 2 = 0:08–0:16 · CLIP 3 = 0:16–0:24 · seamless loop.
+DESIGN INTENT: a grand marble gallery where molten gold flows and hardens — every chime, metal-flow and resonant hum placed to feel opulent and heavy, so the gilding reads as priceless, never cheap "shimmer".
+STEMS: (S1) gallery air — a vast soft room-tone with a long natural echo. (S2) the bright gold-touch chime. (S3) the molten-metal flow (a smooth liquid-metal swell). (S4) a deep resonant gold-hum (struck-metal sustain). (S5) a 3.0 s marble-hall reverb.
+TIMED EVENTS:
+- 0:00–0:02.6 — grand gallery hush; a distant footstep echo; air settles.
+- 0:02.6 — TRIGGER: a bright metallic CHIME as the gold touches her collarbone, ringing into the hall.
+- 0:04.8 — gilding sweep: a smooth FLOWING-METAL tone rises as molten gold climbs, hardening with tiny crystalline ticks to the cut.
+- 0:08.000 — CLIP-2 cut: a deep resonant GOLD-HUM blooms (a bowed/struck metal sustain) — regal, heavy, alive; faint room reflections.
+- 0:11.2 — the gold arm-arc: a long shimmering metal-glint sweep travels the surface, a soft bell-flare.
+- 0:14.4–0:16.0 — the gold recedes: the hum detunes downward, a reverse-flow tone gathering to the cut.
+- 0:16.000 — CLIP-3 cut: the metal tone resolves to a single bright chime as flesh returns.
+- 0:20.0–0:23.5 — gallery hush returns; one last chime with a long tail.
+- 0:23.5–0:24.000 — the gold-touch chime begins again — identical to 0:02.6 — invisible loop.
+MIX NOTES: gold-hum rich and resonant (think bowed gong, low and warm); chimes bright but not tinny; huge hall reverb for grandeur; keep it expensive and unhurried.
+
 ☆ EXTERNAL AUDIO — BLOCK 2: BACKGROUND MUSIC / SCORE TRACK
-Regal, opulent, baroque-cinematic. KEY/TEMPO: C major, ~66 BPM. THE SPINE (constant): a slow baroque-tinged string and harpsichord motif with deep cello, present throughout. BUILD: the strings rise as she gilds; a grand orchestral swell hits its peak on the CLIP 2 gold arm-arc (the hero beat); the swell decays as the gold recedes, drawing back to one harpsichord note landing exactly where the reel began — a seamless infinite loop. Luxurious, powerful, museum-grand.
+RUNTIME: exactly 24.000s · KEY: C major (regal) · TEMPO: 67.5 BPM (bar = 3.556s; 24.000s = exactly 6.75 bars) · seamless loop.
+SPINE (constant): a slow baroque-tinged harpsichord/pizzicato figure + a deep sustained cello — opulent and stately.
+ARRANGEMENT:
+- 0:00–0:08: harpsichord + cello; a single ornament lands at 0:02.6 on the gold-touch; strings begin rising under the gilding.
+- 0:08–0:16: on 0:08 a GRAND ORCHESTRAL swell (full strings + horns) blooms with the gold-figure; the score PEAKS at 0:11.2 on the arm-arc (orchestral hit + harp glissando), receding at 0:14.4.
+- 0:16–0:24: the orchestra decays nobly; by 0:20 just harpsichord + cello; the final harpsichord note lands at 0:23.8 matching 0:00.
+LOOP LOCK: the 6.75-bar phrase resolves onto the 0:00 downbeat at 24.000s. FEEL: luxurious, powerful, museum-grand.
+
 
 ═══════════════════════════════════════════════════════════════════════════════
 
@@ -1719,9 +1761,30 @@ MASTER TRACK: the glass-harmonica draws back to one glassy note landing exactly 
 CUT LOGIC: seamless ANGLE-CUT / LOOP back to CLIP 1 — the light strikes her hand and she crystallises again, forever.
 
 ☆ EXTERNAL AUDIO — BLOCK 1: BACKGROUND SOUND DESIGN / AMBIENCE BED
-A clean quiet bright studio as the constant — a soft neutral room-tone. THROUGH-LINE: a high glassy ring (the light-touch trigger), recurring at the loop. Layers: delicate crystalline tinkles as the crystal spreads (CLIP 1 end); a sustained singing-glass tone (like a wet finger on crystal) while she is the crystal-figure (CLIP 2); the tone resolving to one ring and the clean quiet as she clarifies (CLIP 3). Cross-fade beat to beat; the quiet at the end equals the start.
+RUNTIME: exactly 24.000s = 3 clips × 8.000s · 48 kHz / 24-bit stereo · CLIP MAP — CLIP 1 = 0:00–0:08 · CLIP 2 = 0:08–0:16 · CLIP 3 = 0:16–0:24 · seamless loop.
+DESIGN INTENT: a clean bright studio where flesh turns to singing glass — delicate crystalline rings, faceting tinkles and a glass-harmonica tone, so the prism feels fragile and luminous, never brittle or harsh.
+STEMS: (S1) clean studio room-tone — soft neutral air. (S2) the high glass-ring (light-touch). (S3) a faceting tinkle-cloud (tiny glass shards forming). (S4) a sustained singing-glass tone (wet-finger-on-crystal). (S5) a bright 2.2 s glassy reverb.
+TIMED EVENTS:
+- 0:00–0:02.6 — clean quiet; the faintest air; anticipation.
+- 0:02.6 — TRIGGER: a high GLASSY RING as light strikes her hand, pure and bell-like.
+- 0:04.8 — crystallisation: delicate faceting TINKLES spread up the arm (tiny rising glass-shards), building to the cut.
+- 0:08.000 — CLIP-2 cut: a sustained SINGING-GLASS tone blooms (a chord of crystal harmonics) as rainbows split — luminous, held.
+- 0:11.2 — the crystal arm-arc: a sweeping arpeggio of glass-rings fans across the field (the rainbows sweeping).
+- 0:14.4–0:16.0 — clarifying: the glass tone softens and detunes gently as facets melt to skin, toward the cut.
+- 0:16.000 — CLIP-3 cut: the singing-glass resolves to a single ring as flesh returns.
+- 0:20.0–0:23.5 — clean studio quiet returns; one last ring with a bright tail.
+- 0:23.5–0:24.000 — the glassy ring begins again — identical to 0:02.6 — invisible loop.
+MIX NOTES: pristine and clean (no low-end clutter); glass tones tuned to the score's key so SFX and music fuse; fragile, delicate, breath-holding.
+
 ☆ EXTERNAL AUDIO — BLOCK 2: BACKGROUND MUSIC / SCORE TRACK
-Delicate, ethereal, luminous. KEY/TEMPO: A major, ~70 BPM. THE SPINE (constant): a glass-harmonica/glockenspiel and harp motif with soft high strings, present throughout. BUILD: the bells brighten as she crystallises; a shimmering swell reaches its peak on the CLIP 2 crystal arm-arc (the hero beat); the sparkle decays as she clarifies, drawing back to one glassy note landing exactly where the reel began — a seamless infinite loop. Fragile, prismatic, breath-holding.
+RUNTIME: exactly 24.000s · KEY: A major · TEMPO: 70 BPM (bar = 3.429s; 24.000s = exactly 7 bars) · seamless loop.
+SPINE (constant): a glass-harmonica / glockenspiel motif in A + soft high strings — ethereal and luminous.
+ARRANGEMENT:
+- 0:00–0:08: glass-harmonica + airy pad; a glockenspiel figure enters at 0:02.6 on the light-touch; a shimmering rise toward the cut.
+- 0:08–0:16: full high strings + a celeste cascade bloom with the crystal form; the score PEAKS at 0:11.2 on the arm-arc (a bright harp + glass crescendo), easing at 0:14.4.
+- 0:16–0:24: the shimmer decays; by 0:20 just glass-harmonica; the final glassy note lands at 0:23.8 matching 0:00.
+LOOP LOCK: 7-bar phrase resolves at 24.000s onto the 0:00 downbeat. FEEL: fragile, prismatic, luminous.
+
 
 ═══════════════════════════════════════════════════════════════════════════════
 
@@ -1917,9 +1980,30 @@ MASTER TRACK: the synth pulse draws back to one cool synth note landing exactly 
 CUT LOGIC: seamless ANGLE-CUT / LOOP back to CLIP 1 — the chrome ripples over her hand and she liquefies again, forever.
 
 ☆ EXTERNAL AUDIO — BLOCK 1: BACKGROUND SOUND DESIGN / AMBIENCE BED
-A clean minimalist studio room-tone as the constant — a soft cool hum. THROUGH-LINE: a metallic shimmer + liquid-tone (the chrome trigger), recurring at the loop. Layers: a flowing-mercury wash as the chrome spreads (CLIP 1 end); a deep liquid-metal hum with a smooth flowing tone while she is the chrome-figure (CLIP 2); the tone resolving to one metallic tick and the clean quiet as the chrome flows off (CLIP 3). Cross-fade beat to beat; the cool hum at the end equals the start.
+RUNTIME: exactly 24.000s = 3 clips × 8.000s · 48 kHz / 24-bit stereo · CLIP MAP — CLIP 1 = 0:00–0:08 · CLIP 2 = 0:08–0:16 · CLIP 3 = 0:16–0:24 · seamless loop.
+DESIGN INTENT: a sleek concrete studio where she becomes liquid mirror — futuristic metallic ticks, mercury-flow and a deep liquid-metal hum, so the chrome reads high-fashion sci-fi, never a tinny robot cliché.
+STEMS: (S1) cool studio room-tone — a soft hi-fi hum. (S2) the metallic tick/shimmer trigger. (S3) a flowing-mercury wash (smooth liquid-metal). (S4) a deep liquid-metal hum (sub + metallic resonance). (S5) a tight 1.8 s plate reverb (modern, controlled).
+TIMED EVENTS:
+- 0:00–0:02.6 — clean cool air; a single hi-fi tick; sleek anticipation.
+- 0:02.6 — TRIGGER: a metallic SHIMMER + liquid-tone as the chrome ripple starts on her hand.
+- 0:04.8 — chrome spread: a smooth FLOWING-MERCURY wash climbs with sliding metallic speculars to the cut.
+- 0:08.000 — CLIP-2 cut: a deep LIQUID-METAL HUM blooms (a warm sub with a chrome resonance on top) as reflections slide over her.
+- 0:11.2 — the chrome arm-arc: a hard specular SWEEP — a bright metallic zing arcing L→R across the surface.
+- 0:14.4–0:16.0 — the chrome flows off: the hum smooths and drains, a downward mercury-pour to the cut.
+- 0:16.000 — CLIP-3 cut: the liquid tone resolves to a single metallic tick as flesh returns.
+- 0:20.0–0:23.5 — cool studio hum returns; one last tick.
+- 0:23.5–0:24.000 — the metallic shimmer begins again — identical to 0:02.6 — invisible loop.
+MIX NOTES: keep it sleek and controlled (no harsh high fizz); the sub-hum gives weight; speculars crisp and stereo; modern, premium, runway-cool.
+
 ☆ EXTERNAL AUDIO — BLOCK 2: BACKGROUND MUSIC / SCORE TRACK
-Futuristic, sleek, high-fashion. KEY/TEMPO: F# minor, ~90 BPM. THE SPINE (constant): a cool minimal synth pulse with a deep sub-bass, present throughout. BUILD: a glassy synth arpeggio enters as she chromes; a shimmering synth swell reaches its peak on the CLIP 2 chrome arm-arc (the hero beat); the swell decays as the chrome flows off, drawing back to one cool synth note landing exactly where the reel began — a seamless infinite loop. Modern, sci-fi, runway-cool.
+RUNTIME: exactly 24.000s · KEY: F# minor · TEMPO: 90 BPM (bar = 2.667s; 24.000s = exactly 9 bars) · seamless loop.
+SPINE (constant): a cool minimal synth pulse (muted 1/8 note stabs) + a deep analog sub-bass — modern and sleek.
+ARRANGEMENT:
+- 0:00–0:08: synth pulse + sub; a glassy arpeggio enters at 0:02.6 on the chrome trigger; tension building to the cut.
+- 0:08–0:16: on 0:08 a wide shimmering SYNTH SWELL + a filtered lead bloom with the chrome-figure; the track PEAKS at 0:11.2 on the arm-arc (a bright synth riser + a single zing), easing at 0:14.4.
+- 0:16–0:24: the swell filters down; by 0:20 just the pulse + sub; the final synth note lands at 0:23.8 matching 0:00.
+LOOP LOCK: 9-bar phrase resolves at 24.000s onto the 0:00 downbeat. FEEL: futuristic, high-fashion, sci-fi-cool.
+
 
 ═══════════════════════════════════════════════════════════════════════════════
 
@@ -2115,9 +2199,30 @@ MASTER TRACK: the celeste motif draws back to one soft note landing exactly wher
 CUT LOGIC: seamless ANGLE-CUT / LOOP back to CLIP 1 — the wisp settles and her wings unfurl again, forever.
 
 ☆ EXTERNAL AUDIO — BLOCK 1: BACKGROUND SOUND DESIGN / AMBIENCE BED
-An enchanted night glade as the constant — soft crickets, a trickling stream, a gentle breeze through leaves. THROUGH-LINE: a delicate chime-sparkle (the wisp settling), recurring at the loop. Layers: a warm magical shimmer as the wings unfurl (CLIP 1 end); a warm shimmer with tiny bell-flutters while she is the fairy-sprite (CLIP 2); the shimmer drawing in resolving to one chime and the glade's crickets/stream as the wings fold (CLIP 3). Cross-fade beat to beat; the glade hush at the end equals the start.
+RUNTIME: exactly 24.000s = 3 clips × 8.000s · 48 kHz / 24-bit stereo · CLIP MAP — CLIP 1 = 0:00–0:08 · CLIP 2 = 0:08–0:16 · CLIP 3 = 0:16–0:24 · seamless loop.
+DESIGN INTENT: an enchanted twilight glade where magic glows audibly — crickets, a stream, fairy chimes and translucent wingbeats, so the fae form feels alive and storybook-magical, never a generic forest loop.
+STEMS: (S1) glade bed — soft crickets, a trickling stream, gentle leaf-breeze. (S2) the chime-sparkle trigger (the wisp). (S3) a warm magical shimmer + tiny bell-flutters. (S4) translucent wing-flutters (soft, large, slow). (S5) a warm 2.6 s woodland reverb.
+TIMED EVENTS:
+- 0:00–0:02.6 — glade at night; crickets and stream; a firefly pulses (a tiny warm tone).
+- 0:02.6 — TRIGGER: a delicate CHIME-SPARKLE as the wisp settles on her shoulder.
+- 0:04.8 — wing-unfurl: a warm magical shimmer rises with soft translucent wing-flutters opening, building to the cut.
+- 0:08.000 — CLIP-2 cut: a warm SHIMMER + tiny bell-flutter cloud blooms as she glows; slow large wingbeats breathe in the field.
+- 0:11.2 — the fae arm-arc: a ribbon of light-motes (rising bell-sparkles) sweeps across the field, wings fluttering brighter.
+- 0:14.4–0:16.0 — the wings fold to light: the shimmer draws inward, bells gathering to the cut.
+- 0:16.000 — CLIP-3 cut: the shimmer resolves to a single chime as the wings fold away.
+- 0:18.0–0:23.5 — glade bed returns; crickets and stream settle; the firefly pulses again.
+- 0:23.5–0:24.000 — the chime-sparkle begins again — identical to 0:02.6 — invisible loop.
+MIX NOTES: keep crickets/stream soft and natural under the magic; bells warm not icy; wing-flutters big and gentle (not insect-fast); cosy, sparkling, joyful.
+
 ☆ EXTERNAL AUDIO — BLOCK 2: BACKGROUND MUSIC / SCORE TRACK
-Whimsical fairytale, warm and joyful. KEY/TEMPO: D major, ~84 BPM. THE SPINE (constant): a light pizzicato-strings, celeste and harp motif with a flute melody, present throughout. BUILD: the sparkle grows as the wings unfurl; a magical glittering swell reaches its peak on the CLIP 2 arm-arc (the hero beat); the sparkle decays as the wings fold, drawing back to one celeste note landing exactly where the reel began — a seamless infinite loop. Gentle, joyful, storybook-magical.
+RUNTIME: exactly 24.000s · KEY: D major · TEMPO: 90 BPM (bar = 2.667s; 24.000s = exactly 9 bars) · seamless loop.
+SPINE (constant): a light pizzicato-strings + celeste + harp motif in D, with a soft flute — whimsical and warm.
+ARRANGEMENT:
+- 0:00–0:08: pizzicato + celeste; the flute melody enters at 0:02.6 on the wisp-chime; a sparkling rise toward the cut.
+- 0:08–0:16: full warm strings + glittering glockenspiel bloom with the fairy-form; the score PEAKS at 0:11.2 on the arm-arc (magical glissando + flute crest), easing at 0:14.4.
+- 0:16–0:24: the sparkle settles; by 0:20 just celeste + harp; the final celeste note lands at 0:23.8 matching 0:00.
+LOOP LOCK: 9-bar phrase resolves at 24.000s onto the 0:00 downbeat. FEEL: storybook-magical, gentle, joyful.
+
 
 ═══════════════════════════════════════════════════════════════════════════════
 
