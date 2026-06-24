@@ -131,7 +131,7 @@ Mood: MEDITATIVE CALM — ASMR-satisfying, hypnotic, still (the quiet one in Pil
 - ENDING STYLE: seamless invisible loop (the pour never stops).
 - DIFFERS FROM PILLAR-MATES BY: it is the STILL, SILENT, MACRO one — no walking, no spectacle, no joke; pure sensory hypnosis.
 Grade: VIVID golden-amber sunrise + vivid orange flower + cool blue cloud-sea for contrast; rich blacks, glossy speculars, full mid-tone, zero murk.
-Duration: ~26 seconds · 6 clips (angle-cut chain).
+Duration: 48.000 seconds total — 6 clips × 8s each (VEO renders one 8-second take per clip); the soundtrack is built to exactly 48.000s and loops seamlessly.
 Voice: SILENT — diegetic kitchen + soft warm score.
 Identity safety: AIRA is adult; wardrobe modest; mood calm and elegant, never sexualized.
 Clip map (angle-cut chain): CLIP 1 wide front (establish) → CUT → CLIP 2 profile low (HERO TRANSFORMATION mid-clip) → CUT → CLIP 3 three-quarter front MCU (after) → CUT → CLIP 4 overhead (after) → CUT → CLIP 5 low hero (after) → CUT → CLIP 6 wide front (reset to loop).
@@ -163,14 +163,14 @@ COLOUR GRADE: VIVID golden-amber sunrise, the bird-of-paradise a saturated orang
 TEXTURE & MICRO-DETAIL: crisp silk weave with sun-warmed sheen, marble veining sharp, brass micro-scratches, peach-fuzz along the jaw in the rim, tiny refractions in the gold hoops, a single rising steam coil.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic/over-smoothed skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~4s — establishing, NO transformation yet)
+### ANIMATION (this clip, full 8s — establishing, NO transformation yet)
 SHOT TYPE & ANGLE: low-ish eye-level wide; subject ~40% of frame at right-third.
 CAMERA MOVEMENT (CHOREOGRAPHY): a slow 5% push-in toward the island, gimbal-smooth, easing to a settle.
 LENS: 35mm, f/4, deep, soft skyline fall-off.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.6s — Aira breathes in, weight easing hip-to-hip, eyes calm on the morning.
-- 1.6–2.8s — her gaze slides to the carafe, the half-smile deepening.
-- 2.8–4.0s — her hand lifts to the brass carafe handle and closes around it, wrist relaxed.
+- 0.0–3.2s — Aira breathes in, weight easing hip-to-hip, eyes calm on the morning.
+- 3.2–5.6s — her gaze slides to the carafe, the half-smile deepening.
+- 5.6–8.0s — her hand lifts to the brass carafe handle and closes around it, wrist relaxed.
 FLUIDITY & WEIGHT NOTES: breath leads shoulders, shoulders lead gaze; the hip-roll is visible and weighted; nothing snaps.
 FABRIC/HAIR/PROP PHYSICS: silk hem ripples and resettles; ponytail pendulum-settles; steam obeys slow convection.
 FOOTWORK & BODY FLOW: weight rolls softly between bare feet, ankle chain micro-swinging.
@@ -224,21 +224,21 @@ COLOUR GRADE: VIVID — golden contre-jour rim against rich mid-tone skin, the d
 TEXTURE & MICRO-DETAIL: the coffee's liquid sheen and surface-tension beading, silk weave at the sleeve, fine lash detail in the rim, brass rim micro-scratches, a steam coil.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~6s — ★ THE HERO TRANSFORMATION HAPPENS MID-CLIP)
+### ANIMATION (this clip, full 8s — ★ THE HERO TRANSFORMATION HAPPENS MID-CLIP)
 SHOT TYPE & ANGLE: slight low-angle profile, medium; subject ~55% at left-of-centre.
 CAMERA MOVEMENT (CHOREOGRAPHY): a slow lateral track locked on the profile with a faint low-angle rise — one continuous shot holding on her the whole clip.
 LENS: 50mm, f/2.8, shallow, pour-point sharp.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.5s — she tilts the carafe and the coffee pours DOWNWARD, normally, into the cup.
-- 1.5–3.5s — she gives a slow unbothered blink; the pour continues normally (the calm before the magic).
-- 3.5–5.0s — ★ MID-CLIP TRANSFORMATION: the falling stream HESITATES, then REVERSES and climbs upward, weaving into a glowing amber loop from cup back to carafe — all within this single continuous shot.
-- 5.0–6.0s — the upward loop is fully formed and cycling; she holds the graceful stance, serene, unbothered.
+- 0.0–2.0s — she tilts the carafe and the coffee pours DOWNWARD, normally, into the cup.
+- 2.0–4.7s — she gives a slow unbothered blink; the pour continues normally (the calm before the magic).
+- 4.7–6.7s — ★ MID-CLIP TRANSFORMATION: the falling stream HESITATES, then REVERSES and climbs upward, weaving into a glowing amber loop from cup back to carafe — all within this single continuous shot.
+- 6.7–8.0s — the upward loop is fully formed and cycling; she holds the graceful stance, serene, unbothered.
 FLUIDITY & WEIGHT NOTES: the wrist counter-rotates naturally to hold the tilt; her non-reaction is the joke — calm body, impossible physics; the reversal eases in, never snaps.
 FABRIC/HAIR/PROP PHYSICS: the coffee reads as real liquid — correct dark viscosity, sheen, ribbon thickness — first obeying gravity, then (from 3.5s) its gravity vector smoothly inverts, climbing in a laminar arc with surface-tension beads and zero splatter; steam keeps rising normally throughout, selling the contrast; silk sleeve shifts with the wrist.
 FOOTWORK & BODY FLOW: weight stays centred and grounded, a subtle hip counter-balance as the arm works.
-MID-CLIP TRANSFORMATION (timed): ★ HERO MOVE at 3.5–5.0s — the gravity reversal of the coffee, fully contained in this clip; clip begins pre-magic (normal pour) and ends post-magic (loop formed).
+MID-CLIP TRANSFORMATION (timed): ★ HERO MOVE at 4.7–6.7s — the gravity reversal of the coffee, fully contained in this clip; clip begins pre-magic (normal pour) and ends post-magic (loop formed).
 LIGHTING-IN-MOTION: as the ribbon climbs it catches the contre-jour sun, glowing amber at its edges; a faint warm bounce grows on her cheek.
-DIEGETIC AUDIO: a normal coffee pour (0.0–3.5s) that, at the reversal, bends into a gently reversed-timbre rising pour; a carafe-tilt creak, a tiny liquid-bead tick, continuous room tone.
+DIEGETIC AUDIO: a normal coffee pour (0.0–4.7s) that, at the reversal, bends into a gently reversed-timbre rising pour; a carafe-tilt creak, a tiny liquid-bead tick, continuous room tone.
 MASTER TRACK: a soft shimmer-swell rises exactly on the 3.5s reversal — the magic's musical sting.
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 3 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
   • WARDROBE: the ivory silk collar and open neckline, one shoulder softly dropped, the gold chain-belt glinting at the lower frame.
@@ -286,14 +286,14 @@ COLOUR GRADE: VIVID — glowing warm skin, the dark coffee a rich contrast, satu
 TEXTURE & MICRO-DETAIL: real pores and peach-fuzz in the rim, lip-gloss micro-speculars, individual lash separation, fine ponytail strands, condensation on the cup.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~4s — after-state, loop already cycling)
+### ANIMATION (this clip, full 8s — after-state, loop already cycling)
 SHOT TYPE & ANGLE: eye-level three-quarter front, medium close-up; face ~45% at right-of-centre.
 CAMERA MOVEMENT (CHOREOGRAPHY): a slow gentle push-in, easing to a near-still hold.
 LENS: 85mm, f/2.0, shallow, eyes pinned.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.4s — she lifts her chin a fraction to follow the loop's climb.
-- 1.4–2.6s — a tiny, almost-amused head-tilt — her only acknowledgement of the impossible.
-- 2.6–4.0s — a slow savouring blink, breath easing out, the corner-smile holding.
+- 0.0–2.8s — she lifts her chin a fraction to follow the loop's climb.
+- 2.8–5.2s — a tiny, almost-amused head-tilt — her only acknowledgement of the impossible.
+- 5.2–8.0s — a slow savouring blink, breath easing out, the corner-smile holding.
 FLUIDITY & WEIGHT NOTES: eyes lead the chin, chin leads the tilt; the blink is slow and luxurious; nothing snaps.
 FABRIC/HAIR/PROP PHYSICS: the loop holds laminar flow, edges beading with surface tension; ponytail sways with the tilt; silk shifts with breath; the cup stays level with micro wrist-adjustments.
 FOOTWORK & BODY FLOW: weight steady, a faint spinal sway as she follows the ribbon.
@@ -347,14 +347,14 @@ COLOUR GRADE: VIVID — warm oak, creamy marble, the saturated orange flower, th
 TEXTURE & MICRO-DETAIL: oak grain, marble veining, the loop's beaded surface tension, fine ponytail strands fanned on the floor, real skin texture on the upturned face.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~4s — after-state)
+### ANIMATION (this clip, full 8s — after-state)
 SHOT TYPE & ANGLE: high-angle overhead / top-down, medium; face centred, loop encircling lower frame.
 CAMERA MOVEMENT (CHOREOGRAPHY): a slow overhead rotation (gentle clockwise) above her.
 LENS: 35mm, f/2.8, face-locked.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.4s — she tilts her face fully up toward the spinning lens.
-- 1.4–2.6s — she holds the gaze, the faint smile blooming a touch.
-- 2.6–4.0s — a calm slow blink, breath easing, the loop spiralling with the rotation.
+- 0.0–2.8s — she tilts her face fully up toward the spinning lens.
+- 2.8–5.2s — she holds the gaze, the faint smile blooming a touch.
+- 5.2–8.0s — a calm slow blink, breath easing, the loop spiralling with the rotation.
 FLUIDITY & WEIGHT NOTES: the upward gaze leads, the smile follows, the blink punctuates; the whole beat floats.
 FABRIC/HAIR/PROP PHYSICS: the loop keeps continuous flow under rotation, droplets orbiting with believable centripetal lean; the ponytail fans and shifts; silk folds breathe.
 FOOTWORK & BODY FLOW: weight grounded, a faint spinal sway as she tips her face up.
@@ -408,14 +408,14 @@ COLOUR GRADE: VIVID — maximum golden-hour saturation, glowing rim, deep contra
 TEXTURE & MICRO-DETAIL: silk hem flutter detail, fine flyaways in the rim, the loop's beaded liquid surface, peach-fuzz in the uplight, brass and gold micro-speculars.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~4s — after-state, confident hero beat)
+### ANIMATION (this clip, full 8s — after-state, confident hero beat)
 SHOT TYPE & ANGLE: low-angle hero, medium-full; subject ~65% centre.
 CAMERA MOVEMENT (CHOREOGRAPHY): a slow rise-and-push from low, settling on the hero composition.
 LENS: 28mm, f/3.2, low and wide, flare-prone.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.2s — she straightens, shoulders settling back, chin levelling.
-- 1.2–2.6s — she opens her free hand palm-up beside the floating cup, letting it hover.
-- 2.6–4.0s — a slow assured blink and breath — the soft-power hero beat.
+- 0.0–2.4s — she straightens, shoulders settling back, chin levelling.
+- 2.4–5.2s — she opens her free hand palm-up beside the floating cup, letting it hover.
+- 5.2–8.0s — a slow assured blink and breath — the soft-power hero beat.
 FLUIDITY & WEIGHT NOTES: the hand-release is clean — fingers uncurl smoothly, the cup neither drops nor jerks; everything eases.
 FABRIC/HAIR/PROP PHYSICS: the released cup holds with a believable tiny buoyant bob; silk hem flutter has real fabric weight and delayed motion; sun-flare blooms optically; the loop keeps laminar flow.
 FOOTWORK & BODY FLOW: weight grounds evenly as she straightens, a subtle rise through the spine.
@@ -469,18 +469,18 @@ COLOUR GRADE: VIVID golden-amber sunrise, saturated orange flower, cool cloud-se
 TEXTURE & MICRO-DETAIL: silk weave, marble veining, brass micro-scratches, peach-fuzz in the rim, gold hoop refractions, a single rising steam coil.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~4s — reset; loop unwinds to normal)
+### ANIMATION (this clip, full 8s — reset; loop unwinds to normal)
 SHOT TYPE & ANGLE: low-ish eye-level wide; subject ~40% at right-third — matched to CLIP 1.
 CAMERA MOVEMENT (CHOREOGRAPHY): the camera eases back out to the opening wide and settles to the CLIP-1 still hold.
 LENS: 35mm, f/4 — matched.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.4s — she lifts the cup back off the loop and lowers the carafe toward the island.
-- 1.4–2.6s — the loop unwinds; the coffee settles normally into the cup; steam resumes.
-- 2.6–4.0s — she rests her fingertips on the marble, returning to the opening pose and half-smile.
+- 0.0–2.8s — she lifts the cup back off the loop and lowers the carafe toward the island.
+- 2.8–5.2s — the loop unwinds; the coffee settles normally into the cup; steam resumes.
+- 5.2–8.0s — she rests her fingertips on the marble, returning to the opening pose and half-smile.
 FLUIDITY & WEIGHT NOTES: the carafe lowers with believable weight; the cup re-seats with a tiny settle; the body returns to the opening counter-tilt; everything eases to rest.
 FABRIC/HAIR/PROP PHYSICS: the cup lands with a soft weight and tiny rock; the coffee surface ripples once and stills; silk and ponytail settle to the opening drape.
 FOOTWORK & BODY FLOW: weight rolls back onto one hip, returning to the CLIP-1 stance.
-MID-CLIP TRANSFORMATION (timed): the magic UNWINDS at 1.4–2.6s — the loop dissolves and gravity normalises (the reverse of CLIP 2's hero move), returning the kitchen to its mundane opening state.
+MID-CLIP TRANSFORMATION (timed): the magic UNWINDS at 2.8–5.2s — the loop dissolves and gravity normalises (the reverse of CLIP 2's hero move), returning the kitchen to its mundane opening state.
 LIGHTING-IN-MOTION: the sunrise glow steadies to the exact opening level.
 DIEGETIC AUDIO: a soft ceramic settle of cup on saucer, a faint coffee-surface ripple, one slow breath, the distant city hum returning to the CLIP-1 bed.
 MASTER TRACK: the score eases back to the airy opening texture.
@@ -547,7 +547,7 @@ Mood: EPIC WONDER — wanderlust, escapist spectacle (the big-scale one in Pilla
 - ENDING STYLE: doors close on a knowing wink, loop.
 - DIFFERS FROM PILLAR-MATES BY: it is the BIG-SCALE, MULTI-WORLD SPECTACLE one — scale and reveal, not intimacy or comedy.
 Grade: VIVID per world — electric teal-and-magenta (reef), blush-pink-and-gold (blossom), neon magenta-cyan (megacity), amber-and-cobalt (desert); her cobalt suit the constant anchor; rich blacks, glossy speculars, full mid-tone.
-Duration: ~28 seconds · 6 clips (angle-cut chain).
+Duration: 48.000 seconds total — 6 clips × 8s each (VEO renders one 8-second take per clip); the soundtrack is built to exactly 48.000s and loops seamlessly.
 Voice: SILENT — diegetic elevator + per-world ambience + a sleek travel score.
 Identity safety: AIRA adult; wardrobe modest; mood cool and elegant, never sexualized.
 State chain (angle-cut): CLIP 1 wide [interior → ding → WORLD 1 reef] → CUT → CLIP 2 over-shoulder [opens reef → ding → WORLD 2 blossom] → CUT → CLIP 3 profile [opens blossom → ding → WORLD 3 neon] → CUT → CLIP 4 three-quarter MCU [opens neon → ding → WORLD 4 desert] → CUT → CLIP 5 low-hero [opens desert → ding → reset interior] → CUT → CLIP 6 wide [interior, doors close = CLIP 1, loop].
@@ -579,18 +579,18 @@ COLOUR GRADE: VIVID — saturated cobalt suit as the colour anchor against warm 
 TEXTURE & MICRO-DETAIL: brushed-steel grain, mirror reflections, blazer wool weave, the bob's high shine, deep-red nail gloss, the display's pixel glow.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~5s — interior; ★ ding TRIGGERS doors opening onto WORLD 1, ends with reef revealed)
+### ANIMATION (this clip, full 8s — interior; ★ ding TRIGGERS doors opening onto WORLD 1, ends with reef revealed)
 SHOT TYPE & ANGLE: eye-level wide; subject ~45% at left-third.
 CAMERA MOVEMENT (CHOREOGRAPHY): a slow push-in toward the doors as they begin to part, gimbal-smooth — one continuous shot.
 LENS: 35mm, f/4, deep; the reveal beyond the doors rendering sharp as they open.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.5s — Aira leans, breathing, her eyes flicking up to the floor-number display as it climbs.
-- 1.5–2.5s — ★ TRIGGER: a soft musical DING; the doors begin to slide apart; she lifts her chin a fraction, unhurried.
-- 2.5–5.0s — the doors finish opening onto WORLD 1; she gives a slow, unbothered blink — daily-commute energy — as the reef-world settles.
+- 0.0–2.4s — Aira leans, breathing, her eyes flicking up to the floor-number display as it climbs.
+- 2.4–4.0s — ★ TRIGGER: a soft musical DING; the doors begin to slide apart; she lifts her chin a fraction, unhurried.
+- 4.0–8.0s — the doors finish opening onto WORLD 1; she gives a slow, unbothered blink — daily-commute energy — as the reef-world settles.
 FLUIDITY & WEIGHT NOTES: the lean holds, the chin-lift leads the gaze; her non-reaction to the impossible is the joke; all motion eases.
 FABRIC/HAIR/PROP PHYSICS: the bob sways with a soft delay as she lifts her chin; blazer holds structured folds; handbag micro-swings; the doors part with believable heavy pneumatic motion.
 FOOTWORK & BODY FLOW: ankles stay crossed in the lean, a faint weight-settle as she straightens slightly.
-MID-CLIP TRANSFORMATION (timed — heavy detail): ★ WORLD REVEAL at 1.5–4.5s, triggered by the ding. As the doors part, they reveal not a hallway but a vast BIOLUMINESCENT CORAL CITY held back by an invisible glass threshold — towering glowing corals in electric teal and magenta, god-rays piercing deep teal water, schools of neon-blue and magenta fish drifting, a whale silhouette far in the haze; water shimmers at the door-line but never spills in. The reveal resolves fully as the doors lock open by ~4.5s.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ WORLD REVEAL at 2.4–7.2s, triggered by the ding. As the doors part, they reveal not a hallway but a vast BIOLUMINESCENT CORAL CITY held back by an invisible glass threshold — towering glowing corals in electric teal and magenta, god-rays piercing deep teal water, schools of neon-blue and magenta fish drifting, a whale silhouette far in the haze; water shimmers at the door-line but never spills in. The reveal resolves fully as the doors lock open by ~4.5s.
 LIGHTING-IN-MOTION: warm interior key is invaded by an aqua glow washing in from the opening doors; cool caustics begin rippling across the steel walls and her cobalt suit.
 DIEGETIC AUDIO: elevator hum and a mechanical rise; the musical DING; a pneumatic door-slide; then a muffled deep-ocean ambience leaking in — a whale low-call, bubbling, soft current.
 MASTER TRACK: a sleek deep-house pulse, minimal, a shimmering arp entering exactly on the ding.
@@ -641,18 +641,18 @@ COLOUR GRADE: VIVID — electric teal and magenta reef, glowing coral, her cobal
 TEXTURE & MICRO-DETAIL: caustic light patterns on brushed steel, coral micro-texture, fish scales catching light, the bob's shine, water-wall shimmer.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~5s — opens REEF; ★ ding → doors cycle → WORLD 2 BLOSSOM, ends in blossom)
+### ANIMATION (this clip, full 8s — opens REEF; ★ ding → doors cycle → WORLD 2 BLOSSOM, ends in blossom)
 SHOT TYPE & ANGLE: eye-level medium-full over-the-shoulder; her back ~45% lower-left, reef opening centre-right.
 CAMERA MOVEMENT (CHOREOGRAPHY): a slow arc around her right shoulder as the doors close and re-open — one continuous shot.
 LENS: 50mm, f/2.8, shallow.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.5s — she regards the reef, a lazy unimpressed blink, the aqua glow on her face.
-- 1.5–2.5s — ★ TRIGGER: the doors slide shut on the reef; a soft DING; the doors begin to re-open.
-- 2.5–5.0s — the doors part onto WORLD 2; she tilts her head a degree, still unbothered, as the blossom-canyon settles.
+- 0.0–2.4s — she regards the reef, a lazy unimpressed blink, the aqua glow on her face.
+- 2.4–4.0s — ★ TRIGGER: the doors slide shut on the reef; a soft DING; the doors begin to re-open.
+- 4.0–8.0s — the doors part onto WORLD 2; she tilts her head a degree, still unbothered, as the blossom-canyon settles.
 FLUIDITY & WEIGHT NOTES: the head-tilt leads the gaze; she never startles; all motion eases.
 FABRIC/HAIR/PROP PHYSICS: the bob sways with the arc; blazer holds structure; the doors close and re-open with heavy pneumatic motion; reef caustics fade as blossom light enters.
 FOOTWORK & BODY FLOW: a faint weight-shift as she squares to the new reveal.
-MID-CLIP TRANSFORMATION (timed — heavy detail): ★ WORLD SWAP REEF→BLOSSOM at 1.5–4.5s, triggered by the ding/door-cycle. The closing doors wipe the reef; the re-opening doors reveal a vast CHERRY-BLOSSOM CANYON — towering canyon walls clad in full pink-and-white bloom, a blizzard of petals storming sideways through the doorway, soft sun shafts, a winding river far below; warm pink-gold light replaces the cool teal. The aqua caustics on the walls give way to warm dappled petal-light; petals blow into the cabin. Resolves by ~4.5s.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ WORLD SWAP REEF→BLOSSOM at 2.4–7.2s, triggered by the ding/door-cycle. The closing doors wipe the reef; the re-opening doors reveal a vast CHERRY-BLOSSOM CANYON — towering canyon walls clad in full pink-and-white bloom, a blizzard of petals storming sideways through the doorway, soft sun shafts, a winding river far below; warm pink-gold light replaces the cool teal. The aqua caustics on the walls give way to warm dappled petal-light; petals blow into the cabin. Resolves by ~4.5s.
 LIGHTING-IN-MOTION: cool teal reef-glow is wiped by the doors and replaced with warm pink-gold blossom light flooding the cabin.
 DIEGETIC AUDIO: the deep-ocean ambience cut by the door-slide; the DING; then a soft rushing petal-wind, distant canyon birdsong, a delicate paper-petal flutter near the mic.
 MASTER TRACK: the deep-house pulse adds a soft petal-bell shimmer layer on the swap.
@@ -703,18 +703,18 @@ COLOUR GRADE: VIVID — saturated blush-pink and warm gold, the canyon bloom, he
 TEXTURE & MICRO-DETAIL: petal veining and translucency, warm dappled light on steel, the bob's shine with caught petals, fine lash detail, river glint.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~5s — opens BLOSSOM; ★ ding → WORLD 3 NEON, ends in neon)
+### ANIMATION (this clip, full 8s — opens BLOSSOM; ★ ding → WORLD 3 NEON, ends in neon)
 SHOT TYPE & ANGLE: slight low-angle profile, medium; subject ~55% left-of-centre.
 CAMERA MOVEMENT (CHOREOGRAPHY): a slow lateral track holding the profile as the doors cycle — one continuous shot.
 LENS: 50mm, f/2.8, shallow.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.5s — a petal lands on her upturned fingertip; she regards it with a slow savouring blink.
-- 1.5–2.5s — ★ TRIGGER: the doors slide shut on the canyon; a soft DING; the doors begin to re-open.
-- 2.5–5.0s — the doors part onto WORLD 3; she lowers her hand and lifts her chin, cool, as the neon-megacity settles.
+- 0.0–2.4s — a petal lands on her upturned fingertip; she regards it with a slow savouring blink.
+- 2.4–4.0s — ★ TRIGGER: the doors slide shut on the canyon; a soft DING; the doors begin to re-open.
+- 4.0–8.0s — the doors part onto WORLD 3; she lowers her hand and lifts her chin, cool, as the neon-megacity settles.
 FLUIDITY & WEIGHT NOTES: the palm lowers with eased weight; the chin-lift leads the gaze; all motion eases.
 FABRIC/HAIR/PROP PHYSICS: the caught petals lift from the bob as the warm light leaves; blazer holds structure; doors cycle pneumatically; neon light replaces blossom dapple.
 FOOTWORK & BODY FLOW: a faint weight-shift as she squares to the new reveal.
-MID-CLIP TRANSFORMATION (timed — heavy detail): ★ WORLD SWAP BLOSSOM→NEON at 1.5–4.5s, triggered by the ding/door-cycle. The closing doors wipe the canyon; the re-opening doors reveal a BLADE-RUNNER NEON MEGACITY AT NIGHT — skyscraper-tall holographic billboards, streaming flying-car traffic, rain-slick streets glowing magenta and cyan, reflective puddles multiplying the lights; cool neon floods the cabin, magenta and cyan dancing across the steel and her cobalt suit. Resolves by ~4.5s.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ WORLD SWAP BLOSSOM→NEON at 2.4–7.2s, triggered by the ding/door-cycle. The closing doors wipe the canyon; the re-opening doors reveal a BLADE-RUNNER NEON MEGACITY AT NIGHT — skyscraper-tall holographic billboards, streaming flying-car traffic, rain-slick streets glowing magenta and cyan, reflective puddles multiplying the lights; cool neon floods the cabin, magenta and cyan dancing across the steel and her cobalt suit. Resolves by ~4.5s.
 LIGHTING-IN-MOTION: warm pink blossom light is wiped and replaced with electric magenta-and-cyan neon flicker filling the cabin, catch-lights dancing.
 DIEGETIC AUDIO: petal-wind cut by the door-slide; the DING; then a wall of cyberpunk city ambience — distant synth horns, rain hiss, a flying-car whoosh.
 MASTER TRACK: the house pulse adds neon synth-stabs on the swap.
@@ -765,18 +765,18 @@ COLOUR GRADE: VIVID — saturated electric magenta and cyan, neon-green signage,
 TEXTURE & MICRO-DETAIL: neon reflections on the sunglass lenses, rain-streak detail beyond the doors, the bob's shine, skin micro-texture before the shades, wet puddle speculars.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~5s — opens NEON; ★ ding → WORLD 4 DESERT, ends in desert)
+### ANIMATION (this clip, full 8s — opens NEON; ★ ding → WORLD 4 DESERT, ends in desert)
 SHOT TYPE & ANGLE: eye-level three-quarter front, medium close-up; face ~45% right-of-centre.
 CAMERA MOVEMENT (CHOREOGRAPHY): a slow push-in to the medium close-up as the doors cycle — one continuous shot.
 LENS: 85mm, f/2.0, shallow.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.5s — she lowers the sunglasses onto her eyes, a micro chin-lift, neon dancing on the lenses.
-- 1.5–2.5s — ★ TRIGGER: the doors slide shut on the neon; a soft DING; the doors begin to re-open.
-- 2.5–5.0s — the doors part onto WORLD 4; warm desert wind lifts her bob, the sunglasses now mirroring a blazing sun, as the golden desert settles.
+- 0.0–2.4s — she lowers the sunglasses onto her eyes, a micro chin-lift, neon dancing on the lenses.
+- 2.4–4.0s — ★ TRIGGER: the doors slide shut on the neon; a soft DING; the doors begin to re-open.
+- 4.0–8.0s — the doors part onto WORLD 4; warm desert wind lifts her bob, the sunglasses now mirroring a blazing sun, as the golden desert settles.
 FLUIDITY & WEIGHT NOTES: the glasses-lower is precise; the chin-lift leads; all motion eases.
 FABRIC/HAIR/PROP PHYSICS: the bob lifts in the warm desert gust; blazer holds structure; doors cycle pneumatically; neon flicker is wiped by warm gold light.
 FOOTWORK & BODY FLOW: a faint weight-shift as the warm wind reaches her.
-MID-CLIP TRANSFORMATION (timed — heavy detail): ★ WORLD SWAP NEON→DESERT at 1.5–4.5s, triggered by the ding/door-cycle. The closing doors wipe the neon; the re-opening doors reveal a VAST GOLDEN SAHARA AT SUNSET — endless amber dunes, a colossal soft low sun on the horizon, warm wind lifting drifting sand-veils, long cobalt shadows in the dune-troughs; warm amber light floods the cabin, the cool neon gone. Resolves by ~4.5s.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ WORLD SWAP NEON→DESERT at 2.4–7.2s, triggered by the ding/door-cycle. The closing doors wipe the neon; the re-opening doors reveal a VAST GOLDEN SAHARA AT SUNSET — endless amber dunes, a colossal soft low sun on the horizon, warm wind lifting drifting sand-veils, long cobalt shadows in the dune-troughs; warm amber light floods the cabin, the cool neon gone. Resolves by ~4.5s.
 LIGHTING-IN-MOTION: electric neon is wiped and replaced with blazing warm golden-hour desert light flooding the cabin, the sun mirrored in her shades.
 DIEGETIC AUDIO: city ambience cut by the door-slide; the DING; then a warm desert wind howl, fine hissing sand, a deep cinematic sub-rumble.
 MASTER TRACK: the house pulse adds a warm desert wind-pad on the swap.
@@ -827,18 +827,18 @@ COLOUR GRADE: VIVID — maximum golden-hour amber, cobalt dune-shadows, her coba
 TEXTURE & MICRO-DETAIL: fine streaming sand grains, hem-flutter detail, the bob's wind-lift, sun-flare bloom, sand mirrored in the shades.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~4s — opens DESERT; ★ ding → RESET to calm interior, ends interior)
+### ANIMATION (this clip, full 8s — opens DESERT; ★ ding → RESET to calm interior, ends interior)
 SHOT TYPE & ANGLE: low-angle hero, medium-full; subject ~60% centre.
 CAMERA MOVEMENT (CHOREOGRAPHY): a slow rise-and-push from the low angle as the doors cycle — one continuous shot.
 LENS: 28mm, f/3.2, low and wide, flare-prone.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.5s — she lets the sand stream over her open palm, the corner-smile at its fullest behind the shades.
-- 1.5–2.5s — ★ TRIGGER: the doors slide shut on the desert; a soft DING; the doors begin to re-open.
-- 2.5–4.0s — the doors part onto the calm neutral elevator LOBBY (reset); she pushes the sunglasses back up onto her crown.
+- 0.0–3.0s — she lets the sand stream over her open palm, the corner-smile at its fullest behind the shades.
+- 3.0–5.0s — ★ TRIGGER: the doors slide shut on the desert; a soft DING; the doors begin to re-open.
+- 5.0–8.0s — the doors part onto the calm neutral elevator LOBBY (reset); she pushes the sunglasses back up onto her crown.
 FLUIDITY & WEIGHT NOTES: the palm-release is effortless; the glasses-push precise; all motion eases.
 FABRIC/HAIR/PROP PHYSICS: hem and bob settle from the desert wind as the cool neutral light returns; doors cycle pneumatically; sand-veils vanish.
 FOOTWORK & BODY FLOW: weight grounds evenly as the wind dies.
-MID-CLIP TRANSFORMATION (timed — heavy detail): ★ WORLD SWAP DESERT→RESET at 1.5–3.5s, triggered by the ding/door-cycle. The closing doors wipe the desert; the re-opening doors reveal a calm, neutral, brightly-lit modern elevator LOBBY — pale marble, soft daylight, a green plant — the mundane "destination," the journey resolved. Warm-neutral light returns to the cabin. Resolves by ~3.5s.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ WORLD SWAP DESERT→RESET at 3.0–7.0s, triggered by the ding/door-cycle. The closing doors wipe the desert; the re-opening doors reveal a calm, neutral, brightly-lit modern elevator LOBBY — pale marble, soft daylight, a green plant — the mundane "destination," the journey resolved. Warm-neutral light returns to the cabin. Resolves by ~3.5s.
 LIGHTING-IN-MOTION: blazing gold is wiped and replaced with calm neutral daylight from the lobby; the cabin returns to its warm recessed baseline.
 DIEGETIC AUDIO: desert wind cut by the door-slide; the DING; then a calm quiet lobby tone — soft footsteps elsewhere, a gentle ambience.
 MASTER TRACK: the layered world-textures strip back to the minimal opening house-pulse.
@@ -889,14 +889,14 @@ COLOUR GRADE: VIVID — saturated cobalt against warm steel, deep-red nails, coo
 TEXTURE & MICRO-DETAIL: brushed-steel grain, mirror reflections, blazer weave, the bob's shine, nail gloss, display pixel-glow — matched.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~4s — doors close, loop close)
+### ANIMATION (this clip, full 8s — doors close, loop close)
 SHOT TYPE & ANGLE: eye-level wide; subject ~45% at left-third — matched to CLIP 1.
 CAMERA MOVEMENT (CHOREOGRAPHY): the camera eases back to the exact CLIP-1 establishing framing and settles.
 LENS: 35mm, f/4 — matched.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.5s — she pushes the sunglasses up onto her crown and resettles into the lean, ankles crossing.
-- 1.5–2.5s — the lobby doors slide fully shut; the floor display resets its glow.
-- 2.5–4.0s — a calm breath, returning exactly to the opening pose and half-smile.
+- 0.0–3.0s — she pushes the sunglasses up onto her crown and resettles into the lean, ankles crossing.
+- 3.0–5.0s — the lobby doors slide fully shut; the floor display resets its glow.
+- 5.0–8.0s — a calm breath, returning exactly to the opening pose and half-smile.
 FLUIDITY & WEIGHT NOTES: the resettle eases into the opening counter-lean; the doors close with heavy pneumatic motion; everything returns to rest.
 FABRIC/HAIR/PROP PHYSICS: the bob settles with a soft delayed bounce; blazer folds resettle; handbag micro-swings to rest; doors seat with a soft seam-line.
 FOOTWORK & BODY FLOW: ankles re-cross, weight rolling onto the leaning hip — the CLIP-1 stance.
@@ -969,7 +969,7 @@ Mood: ROMANTIC DREAM — lyrical, weightless, tender (the most poetic one in Pil
 - ENDING STYLE: open, not a hard loop — she strolls away deeper into the upward rain.
 - DIFFERS FROM PILLAR-MATES BY: it is the ROMANTIC, DRIFTING, LYRICAL one — emotion over spectacle, motion over stillness.
 Grade: VIVID — saturated emerald trench + warm amber bistro-bulb glow + cool violet-blue dusk + oxblood boots; rich blacks, glossy wet speculars, full mid-tone.
-Duration: ~26 seconds · 6 clips (angle-cut chain).
+Duration: 48.000 seconds total — 6 clips × 8s each (VEO renders one 8-second take per clip); the soundtrack is built to exactly 48.000s and loops seamlessly.
 Voice: SILENT — diegetic rain + a romantic dreamy score.
 Identity safety: AIRA adult; wardrobe modest; mood tender and elegant, never sexualized.
 State chain (angle-cut): CLIP 1 wide front [doorway → umbrella opens → ★ RAIN REVERSES] → CUT → CLIP 2 over-shoulder [opens rain-rising, strolls] → CUT → CLIP 3 profile [rain-rising, tips umbrella back] → CUT → CLIP 4 three-quarter MCU [rights umbrella, serene] → CUT → CLIP 5 low-hero [umbrella as staff, rain streaming up] → CUT → CLIP 6 wide front [doorway, umbrella closes → rain normalises = CLIP 1, loop].
@@ -1001,20 +1001,20 @@ COLOUR GRADE: VIVID — saturated emerald trench, warm amber lights, cool violet
 TEXTURE & MICRO-DETAIL: wet trench sheen, cobblestone grain under a water-film, rain-streak detail, damp hair-wave clumping, gold-handle micro-speculars, plum nail gloss.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~5s — rain falls normally, then ★ umbrella-open REVERSES the rain mid-clip; ends rain-rising)
+### ANIMATION (this clip, full 8s — rain falls normally, then ★ umbrella-open REVERSES the rain mid-clip; ends rain-rising)
 SHOT TYPE & ANGLE: low eye-level wide, front-favouring three-quarter; subject ~45% centre-right.
 CAMERA MOVEMENT (CHOREOGRAPHY): a slow push-in and gentle dolly-forward following her step out — one continuous shot.
 LENS: 35mm, f/4, deep, soft alley fall-off.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.5s — Aira steps from the doorway onto the wet cobbles; rain falls NORMALLY around the half-raised umbrella.
-- 1.5–2.5s — ★ TRIGGER: she opens the dome umbrella fully — a soft whump-click — and the rain reverses on the click.
-- 2.5–5.0s — drops lift from the cobbles and puddles and climb past the dome into the dusk; she begins a slow unbothered stroll as the upward-rain settles into its new normal.
+- 0.0–2.4s — Aira steps from the doorway onto the wet cobbles; rain falls NORMALLY around the half-raised umbrella.
+- 2.4–4.0s — ★ TRIGGER: she opens the dome umbrella fully — a soft whump-click — and the rain reverses on the click.
+- 4.0–8.0s — drops lift from the cobbles and puddles and climb past the dome into the dusk; she begins a slow unbothered stroll as the upward-rain settles into its new normal.
 FLUIDITY & WEIGHT NOTES: the umbrella-open leads from the wrist; the step rolls heel-to-toe; her calm never breaks; all motion eases.
 FABRIC/HAIR/PROP PHYSICS: the trench hem and wet waves sway with real weight; the umbrella canopy springs open with believable fabric tension; rain first obeys gravity, then (from 1.5s) its vector inverts — drops rise with correct water streak, bead and sheen, tiny trailing tails, curving up around the dome's rim; puddles ripple as drops leave them.
 FOOTWORK & BODY FLOW: a single grounded step out, weight forward, boots meeting wet cobbles.
-MID-CLIP TRANSFORMATION (timed — heavy detail): ★ HERO MOVE at 1.5–3.0s, resolving by 5.0s — the rain-reversal, triggered by the umbrella opening. The whole alley's rainfall inverts: every falling drop decelerates, stops, and rises, lifting off the cobbles, puddles, hem and dome to stream upward into the glowing dusk; the puddles slowly un-ripple as their water leaves; the wet sheen on surfaces remains. Only the rain's gravity changes — bulbs, hem, hair all still obey normal gravity, selling the contrast.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ HERO MOVE at 2.4–4.8s, resolving by 5.0s — the rain-reversal, triggered by the umbrella opening. The whole alley's rainfall inverts: every falling drop decelerates, stops, and rises, lifting off the cobbles, puddles, hem and dome to stream upward into the glowing dusk; the puddles slowly un-ripple as their water leaves; the wet sheen on surfaces remains. Only the rain's gravity changes — bulbs, hem, hair all still obey normal gravity, selling the contrast.
 LIGHTING-IN-MOTION: the rising rain catches the amber bulb-light and streetlamp, glowing as it climbs; warm reflections shift on the wet ground as puddles still.
-DIEGETIC AUDIO: normal rain patter and puddle-splashes (0.0–1.5s); the soft umbrella whump-click; then the patter bends into a gentle reversed-shimmer rising-rain wash; distant café murmur, a far church bell, her quiet breath.
+DIEGETIC AUDIO: normal rain patter and puddle-splashes (0.0–2.4s); the soft umbrella whump-click; then the patter bends into a gentle reversed-shimmer rising-rain wash; distant café murmur, a far church bell, her quiet breath.
 MASTER TRACK: an intimate piano enters; a soft glassy shimmer-swell rises exactly on the umbrella-click reversal.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 2's START IMAGE must reproduce 100%, new angle only): at clip end the alley is in full UPWARD-RAIN — drops rising everywhere from cobbles, puddles, hem and dome into the violet-blue dusk, glowing amber as they climb; puddles still and mirror-like; wet sheen on every surface; bistro bulbs and shop windows glowing warm; Aira mid-stroll under the open clear dome, emerald trench, wet waves, secret smile. CLIP 2 must open in this EXACT upward-rain alley (same rising drops, same stilled puddles, same warm lights, same wardrobe) — only the camera angle changes.
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 2 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
@@ -1063,14 +1063,14 @@ COLOUR GRADE: VIVID — glowing amber alley, emerald trench, cool violet dusk, o
 TEXTURE & MICRO-DETAIL: wet trench sheen from behind, cobblestone water-film, rising rain-streaks, damp wave clumping, gold-handle gleam.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~4s — strolls through the rising rain; no new transformation)
+### ANIMATION (this clip, full 8s — strolls through the rising rain; no new transformation)
 SHOT TYPE & ANGLE: eye-level medium-full over-the-shoulder; her back ~45% lower-left, alley opening centre-right.
 CAMERA MOVEMENT (CHOREOGRAPHY): a slow follow-dolly behind her at her strolling pace, gimbal-smooth — one continuous shot.
 LENS: 50mm, f/2.8, shallow.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.5s — unhurried steps deeper into the alley, the upward rain glowing around her.
-- 1.5–3.0s — she gives the umbrella a slow idle spin by the handle, sending a spiral of rising droplets spinning up into the dusk.
-- 3.0–4.0s — a soft upward glance following the spiral, content corner-smile.
+- 0.0–3.0s — unhurried steps deeper into the alley, the upward rain glowing around her.
+- 3.0–6.0s — she gives the umbrella a slow idle spin by the handle, sending a spiral of rising droplets spinning up into the dusk.
+- 6.0–8.0s — a soft upward glance following the spiral, content corner-smile.
 FLUIDITY & WEIGHT NOTES: the spin leads from the wrist; the stroll is even and weighted; all motion eases.
 FABRIC/HAIR/PROP PHYSICS: the trench hem swings with wool weight; wet waves sway with delay; spun droplets release centrifugally then invert and rise with correct water physics; puddles stay mirror-still.
 FOOTWORK & BODY FLOW: a steady boot-cadence over wet cobbles, weight rolling.
@@ -1125,14 +1125,14 @@ COLOUR GRADE: VIVID — warm-lit skin against cool violet, emerald accent, golde
 TEXTURE & MICRO-DETAIL: rising rain-bead detail, fine lash separation, damp strand on the cheek, gold earring gleam, soft skin texture in the warm light.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~4s — tips umbrella back, looks up; no new transformation)
+### ANIMATION (this clip, full 8s — tips umbrella back, looks up; no new transformation)
 SHOT TYPE & ANGLE: slight low-angle profile, medium close-up; subject ~55% left-of-centre.
 CAMERA MOVEMENT (CHOREOGRAPHY): a slow lateral track holding the profile with a faint low rise — one continuous shot.
 LENS: 50mm, f/2.8, shallow.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.5s — she tips the dome back off her head and lifts her face to the rising rain.
-- 1.5–3.0s — a soft serene-wonder breath, lips parting, lashes lifting as drops rise past her face.
-- 3.0–4.0s — a slow savouring blink, the corner-smile returning, content.
+- 0.0–3.0s — she tips the dome back off her head and lifts her face to the rising rain.
+- 3.0–6.0s — a soft serene-wonder breath, lips parting, lashes lifting as drops rise past her face.
+- 6.0–8.0s — a slow savouring blink, the corner-smile returning, content.
 FLUIDITY & WEIGHT NOTES: the wrist rolls the umbrella back with believable joint motion; the chin-lift leads the gaze; all motion eases.
 FABRIC/HAIR/PROP PHYSICS: the umbrella fabric flexes as it tips; wet waves lift faintly in the updraft; the rising rain-curtain accelerates smoothly upward with correct bead/streak/sheen; no drops strike her — they curve up around her.
 FOOTWORK & BODY FLOW: weight centred, a faint sway through the spine as she looks up.
@@ -1187,14 +1187,14 @@ COLOUR GRADE: VIVID — glowing warm skin, emerald accent, amber-and-violet boke
 TEXTURE & MICRO-DETAIL: real pores and peach-fuzz in the rim, lip-gloss micro-speculars, lash separation, damp wave detail, rising-rain beads.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~4s — rights umbrella, settles; no new transformation)
+### ANIMATION (this clip, full 8s — rights umbrella, settles; no new transformation)
 SHOT TYPE & ANGLE: eye-level three-quarter front, medium close-up; face ~45% right-of-centre.
 CAMERA MOVEMENT (CHOREOGRAPHY): a slow push-in to the medium close-up, easing to a near-still hold — one continuous shot.
 LENS: 85mm, f/2.0, shallow.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.5s — she lowers her chin, eyes returning to the lens from the sky.
-- 1.5–3.0s — she rights the umbrella back overhead with a smooth wrist-roll, the corner-smile reasserting.
-- 3.0–4.0s — a slow blink, a soft breath, settled calm.
+- 0.0–3.0s — she lowers her chin, eyes returning to the lens from the sky.
+- 3.0–6.0s — she rights the umbrella back overhead with a smooth wrist-roll, the corner-smile reasserting.
+- 6.0–8.0s — a slow blink, a soft breath, settled calm.
 FLUIDITY & WEIGHT NOTES: the umbrella swings up with believable weight and a slight bounce-settle; eyes lead the chin; all motion eases.
 FABRIC/HAIR/PROP PHYSICS: the umbrella rights with real fabric weight; wet waves sway and resettle; rising drops curve around the dome.
 FOOTWORK & BODY FLOW: weight steady, a faint spinal sway.
@@ -1249,14 +1249,14 @@ COLOUR GRADE: VIVID — maximum cinematic saturation, emerald + amber halo + coo
 TEXTURE & MICRO-DETAIL: rising rain-streak detail, hem-flare, wave wind-lift, lamp-flare bloom, wet-cobble speculars, gold-handle gleam.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~4s — hero beat; no new transformation)
+### ANIMATION (this clip, full 8s — hero beat; no new transformation)
 SHOT TYPE & ANGLE: low-angle hero, medium-full; subject ~60% centre.
 CAMERA MOVEMENT (CHOREOGRAPHY): a slow rise-and-push from the low angle, settling on the hero composition — one continuous shot.
 LENS: 28mm, f/3.2, low and wide, flare-prone.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.2s — she squares her shoulders and plants the umbrella tip to the cobbles.
-- 1.2–2.6s — a ring of droplets lifts from where the tip touches and spirals up; the lamp-halo flares.
-- 2.6–4.0s — a slow assured blink, breath out — the soft-power hero beat.
+- 0.0–2.4s — she squares her shoulders and plants the umbrella tip to the cobbles.
+- 2.4–5.2s — a ring of droplets lifts from where the tip touches and spirals up; the lamp-halo flares.
+- 5.2–8.0s — a slow assured blink, breath out — the soft-power hero beat.
 FLUIDITY & WEIGHT NOTES: the plant is deliberate and grounded; the ring-release radiates evenly; all motion eases.
 FABRIC/HAIR/PROP PHYSICS: the umbrella tip meets the cobbles with a believable soft tap and a contact-ripple in the puddle that then inverts upward; trench hem ripples with real weight; lamp-flare blooms optically; rising rain climbs the whole frame.
 FOOTWORK & BODY FLOW: weight grounds evenly, a subtle rise through the spine.
@@ -1311,18 +1311,18 @@ COLOUR GRADE: VIVID — emerald trench, warm amber lights, cool violet dusk, oxb
 TEXTURE & MICRO-DETAIL: wet trench sheen, cobblestone water-film, rain-streak detail, damp wave clumping, gold-handle speculars, plum nail gloss — matched.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~4s — ★ umbrella-close RESETS rain to normal; loop close)
+### ANIMATION (this clip, full 8s — ★ umbrella-close RESETS rain to normal; loop close)
 SHOT TYPE & ANGLE: low eye-level wide, front-favouring three-quarter; subject ~45% centre-right — matched to CLIP 1.
 CAMERA MOVEMENT (CHOREOGRAPHY): the camera eases back to the exact CLIP-1 establishing framing and settles.
 LENS: 35mm, f/4 — matched.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.5s — she steps back to the doorway and begins to close the dome umbrella.
-- 1.5–2.5s — ★ TRIGGER: the umbrella closes with a soft whump-click — and the rain reverses back to NORMAL, drops falling again.
-- 2.5–4.0s — she resettles into the opening half-raised stance and secret smile, rain falling normally — matched to CLIP 1.
+- 0.0–3.0s — she steps back to the doorway and begins to close the dome umbrella.
+- 3.0–5.0s — ★ TRIGGER: the umbrella closes with a soft whump-click — and the rain reverses back to NORMAL, drops falling again.
+- 5.0–8.0s — she resettles into the opening half-raised stance and secret smile, rain falling normally — matched to CLIP 1.
 FLUIDITY & WEIGHT NOTES: the umbrella-close leads from the wrist; the step-back rolls heel-to-toe; everything returns to rest.
 FABRIC/HAIR/PROP PHYSICS: the canopy folds with believable fabric tension; trench and wet waves settle to the opening drape; rain's vector flips back to normal — drops fall again with correct streak and splash; puddles begin to ripple again.
 FOOTWORK & BODY FLOW: weight rolls back onto the doorstep, returning to the CLIP-1 stance.
-MID-CLIP TRANSFORMATION (timed — heavy detail): ★ RESET at 1.5–2.5s — the umbrella-close reverses the magic; the alley's rain returns to falling normally, restoring the exact CLIP-1 opening state.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ RESET at 3.0–5.0s — the umbrella-close reverses the magic; the alley's rain returns to falling normally, restoring the exact CLIP-1 opening state.
 LIGHTING-IN-MOTION: the warm amber doorway glow steadies to the exact CLIP-1 level.
 DIEGETIC AUDIO: a soft umbrella whump-click; the reversed-rain shimmer bending back into normal rain patter and puddle-splashes; distant café murmur; one slow breath.
 MASTER TRACK: the dreamy groove eases back to the intimate opening piano, looping cleanly.
@@ -1391,7 +1391,7 @@ Mood: CHEEKY PLAYFUL POWER — smirking control-fantasy (the punchy one in Pilla
 - ENDING STYLE: punchline — she clicks it off with a direct smirk to camera.
 - DIFFERS FROM PILLAR-MATES BY: it is the PUNCHY, CHEEKY, CONTROL-FANTASY one — fast and sassy, not serene or grand.
 Grade: VIVID per sky — saturated turquoise-and-rust midday, blazing rose-gold sunset, deep indigo-and-teal starlit night, green-gold aurora; the rust gown the warm constant anchor; rich blacks, glossy speculars, full mid-tone.
-Duration: ~28 seconds · 6 clips (angle-cut chain).
+Duration: 48.000 seconds total — 6 clips × 8s each (VEO renders one 8-second take per clip); the soundtrack is built to exactly 48.000s and loops seamlessly.
 Voice: SILENT — diegetic loft + a cinematic ambient score.
 Identity safety: AIRA adult; wardrobe modest; mood sovereign and elegant, never sexualized.
 State chain (angle-cut): CLIP 1 wide [MIDDAY → turn → SUNSET] → CUT → CLIP 2 over-shoulder [opens SUNSET → turn → NIGHT] → CUT → CLIP 3 profile [opens NIGHT → turn → AURORA] → CUT → CLIP 4 three-quarter MCU [opens AURORA, knowing look] → CUT → CLIP 5 low-hero [opens AURORA → final press → pulse] → CUT → CLIP 6 wide [turn back → MIDDAY = CLIP 1, loop].
@@ -1423,18 +1423,18 @@ COLOUR GRADE: VIVID — saturated turquoise glacial lake, the rust gown, the viv
 TEXTURE & MICRO-DETAIL: chunky knit-gown texture, raw concrete grain, brass-knob micro-scratches, the bun's glassy sheen, terracotta nail gloss, monstera leaf veining.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~5s — MIDDAY; ★ turn TRIGGERS sky → SUNSET, ends in sunset)
+### ANIMATION (this clip, full 8s — MIDDAY; ★ turn TRIGGERS sky → SUNSET, ends in sunset)
 SHOT TYPE & ANGLE: eye-level wide, three-quarter front; subject ~40% right-third.
 CAMERA MOVEMENT (CHOREOGRAPHY): a slow push-in toward her hand on the dimmer — one continuous shot.
 LENS: 35mm, f/4, deep, soft vista fall-off.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.5s — Aira breathes, weight settled, eyes calm on the bright valley, fingers closing on the brass knob.
-- 1.5–2.5s — ★ TRIGGER: she gives the dimmer a smooth quarter-turn.
-- 2.5–5.0s — in sync, the sky transitions midday → golden sunset; she tilts her head to admire the result, unbothered.
+- 0.0–2.4s — Aira breathes, weight settled, eyes calm on the bright valley, fingers closing on the brass knob.
+- 2.4–4.0s — ★ TRIGGER: she gives the dimmer a smooth quarter-turn.
+- 4.0–8.0s — in sync, the sky transitions midday → golden sunset; she tilts her head to admire the result, unbothered.
 FLUIDITY & WEIGHT NOTES: the wrist-turn is smooth against a believable detent; her authority never breaks; all motion eases.
 FABRIC/HAIR/PROP PHYSICS: the heavy knit folds catch the warming light and sway faintly; the bun holds; the brass knob rotates with tactile detent friction tracking her fingertips; monstera leaves drift.
 FOOTWORK & BODY FLOW: weight stays in contrapposto, a faint hip-settle.
-MID-CLIP TRANSFORMATION (timed — heavy detail): ★ SKY CHANGE MIDDAY→SUNSET at 1.5–4.5s, triggered by the quarter-turn. The entire alpine sky ignites from bright neutral midday into a saturated golden-pink sunset: the peaks glow rose, the glacial lake mirrors fire, long shadows stretch across the loft. INSIDE, the light ramps in real time from neutral-cool to warm gold, shadows crawling and lengthening over the concrete, the rust gown deepening, the bun's rim shifting warm. The whole room temperature shifts with the turn.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ SKY CHANGE MIDDAY→SUNSET at 2.4–7.2s, triggered by the quarter-turn. The entire alpine sky ignites from bright neutral midday into a saturated golden-pink sunset: the peaks glow rose, the glacial lake mirrors fire, long shadows stretch across the loft. INSIDE, the light ramps in real time from neutral-cool to warm gold, shadows crawling and lengthening over the concrete, the rust gown deepening, the bun's rim shifting warm. The whole room temperature shifts with the turn.
 LIGHTING-IN-MOTION: neutral midday key warms and lowers to blazing golden-hour as she turns; shadows lengthen across the concrete.
 DIEGETIC AUDIO: a faint AC hum and soft alpine room-tone; a subtle brass-knob detent click; a soft musical whoosh-swell tied to the sky transition; distant muffled wind beyond the glass.
 MASTER TRACK: a wide warm synth pad; a glassy bell-motif "turns" with the dimmer; a riser-swell on the sky change.
@@ -1485,18 +1485,18 @@ COLOUR GRADE: VIVID — blazing rose-gold sky, fire-lake, the rust gown warmed, 
 TEXTURE & MICRO-DETAIL: knit-gown nap from behind, gold-lit bun strands, concrete grain in long shadow, brass-knob gleam, monstera rim-light.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~5s — opens SUNSET; ★ turn → NIGHT, ends in starlit night)
+### ANIMATION (this clip, full 8s — opens SUNSET; ★ turn → NIGHT, ends in starlit night)
 SHOT TYPE & ANGLE: eye-level medium-full over-the-shoulder; her back ~45% lower-left, vista centre-right.
 CAMERA MOVEMENT (CHOREOGRAPHY): a slow arc around her right shoulder as she turns the knob — one continuous shot.
 LENS: 50mm, f/2.8, shallow.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.5s — she regards the sunset, a satisfied slow blink, hand on the knob.
-- 1.5–2.5s — ★ TRIGGER: a smooth quarter-turn of the dimmer.
-- 2.5–5.0s — the sky deepens sunset → starlit night; she tilts her head to admire the emerging stars.
+- 0.0–2.4s — she regards the sunset, a satisfied slow blink, hand on the knob.
+- 2.4–4.0s — ★ TRIGGER: a smooth quarter-turn of the dimmer.
+- 4.0–8.0s — the sky deepens sunset → starlit night; she tilts her head to admire the emerging stars.
 FLUIDITY & WEIGHT NOTES: the wrist-turn is smooth; the head-tilt leads the gaze; all motion eases.
 FABRIC/HAIR/PROP PHYSICS: the knit folds cool and settle as the warm light leaves; the bun holds; the brass knob clicks the next detent; monstera drifts.
 FOOTWORK & BODY FLOW: weight stays in contrapposto, a faint settle.
-MID-CLIP TRANSFORMATION (timed — heavy detail): ★ SKY CHANGE SUNSET→NIGHT at 1.5–4.5s, triggered by the turn. The sky deepens from rose-gold sunset to a colossal galaxy-strewn night — the Milky Way arcing over the peaks, stars blooming on in waves, the glacial lake mirroring starlight, the peaks silver under moonlight. INSIDE, the light cools and lowers in real time from warm gold to cool moon-blue, the long warm shadows dissolving into soft blue moonlight, the rust gown reading deep and cool, the bun's rim shifting silver.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ SKY CHANGE SUNSET→NIGHT at 2.4–7.2s, triggered by the turn. The sky deepens from rose-gold sunset to a colossal galaxy-strewn night — the Milky Way arcing over the peaks, stars blooming on in waves, the glacial lake mirroring starlight, the peaks silver under moonlight. INSIDE, the light cools and lowers in real time from warm gold to cool moon-blue, the long warm shadows dissolving into soft blue moonlight, the rust gown reading deep and cool, the bun's rim shifting silver.
 LIGHTING-IN-MOTION: warm gold key cools to silver-blue moonlight; shadows soften; rim shifts gold→silver.
 DIEGETIC AUDIO: alpine room-tone; the brass detent click; a soft cosmic shimmer-swell tied to nightfall; a faint high night-wind beyond the glass.
 MASTER TRACK: the pad turns cool and spacious; a riser-swell layers a starfield shimmer on the night change.
@@ -1547,18 +1547,18 @@ COLOUR GRADE: VIVID — deep saturated indigo-and-violet night, teal aurora-hint
 TEXTURE & MICRO-DETAIL: starfield grain, fine lash detail, glassy bun strands, gold-earring gleam, cool skin texture, aurora shimmer on the horizon.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~5s — opens NIGHT; ★ turn → AURORA, ends in aurora-night)
+### ANIMATION (this clip, full 8s — opens NIGHT; ★ turn → AURORA, ends in aurora-night)
 SHOT TYPE & ANGLE: slight low-angle profile, medium close-up; subject ~55% left-of-centre.
 CAMERA MOVEMENT (CHOREOGRAPHY): a slow lateral track holding the profile with a faint low rise — one continuous shot.
 LENS: 50mm, f/2.8, shallow.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.5s — she lifts her eyes to the emerging stars, serene.
-- 1.5–2.5s — ★ TRIGGER: she eases the dimmer another notch.
-- 2.5–5.0s — green-gold aurora curtains bloom and ripple across the night sky; her lips part in quiet awe.
+- 0.0–2.4s — she lifts her eyes to the emerging stars, serene.
+- 2.4–4.0s — ★ TRIGGER: she eases the dimmer another notch.
+- 4.0–8.0s — green-gold aurora curtains bloom and ripple across the night sky; her lips part in quiet awe.
 FLUIDITY & WEIGHT NOTES: the notch-turn is delicate; the chin-lift leads the gaze; all motion eases.
 FABRIC/HAIR/PROP PHYSICS: the knob clicks the next detent; the bun holds; aurora light drifts with slow plasma motion; the gown reads cool and still.
 FOOTWORK & BODY FLOW: weight centred, a faint spinal sway as she looks up.
-MID-CLIP TRANSFORMATION (timed — heavy detail): ★ SKY CHANGE NIGHT→AURORA at 1.5–4.5s, triggered by the notch-turn. Green-gold aurora curtains ignite and ripple across the starlit sky over the peaks, mirrored in the glacial lake. INSIDE, a cool green-gold wash drifts across the concrete and her profile, mixing with the moon-blue — a dual-tone magical light that breathes with the aurora's slow plasma motion.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ SKY CHANGE NIGHT→AURORA at 2.4–7.2s, triggered by the notch-turn. Green-gold aurora curtains ignite and ripple across the starlit sky over the peaks, mirrored in the glacial lake. INSIDE, a cool green-gold wash drifts across the concrete and her profile, mixing with the moon-blue — a dual-tone magical light that breathes with the aurora's slow plasma motion.
 LIGHTING-IN-MOTION: cool moon-blue gains a drifting green-gold aurora wash; her profile picks up shifting teal-and-gold highlights.
 DIEGETIC AUDIO: night room-tone; the brass detent click; a faint high aurora tone (a soft electrical shimmer); distant night wind.
 MASTER TRACK: the pad gains a slow shimmering aurora-motif; a cool riser layers in.
@@ -1609,14 +1609,14 @@ COLOUR GRADE: VIVID — luminous skin against deep indigo, teal-gold aurora glow
 TEXTURE & MICRO-DETAIL: real pores in the cool light, lash separation, glassy bun strands, aurora-tint on the skin, gold-earring gleam.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~4s — knowing look; no new transformation)
+### ANIMATION (this clip, full 8s — knowing look; no new transformation)
 SHOT TYPE & ANGLE: eye-level three-quarter front, medium close-up; face ~45% right-of-centre.
 CAMERA MOVEMENT (CHOREOGRAPHY): a slow push-in to the medium close-up, easing to a near-still hold — one continuous shot.
 LENS: 85mm, f/2.0, shallow.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.5s — she turns her face from the window to the lens.
-- 1.5–3.0s — a small confident chin-settle, the knowing corner-smile blooming.
-- 3.0–4.0s — a slow assured blink, breath out — "I set the mood."
+- 0.0–3.0s — she turns her face from the window to the lens.
+- 3.0–6.0s — a small confident chin-settle, the knowing corner-smile blooming.
+- 6.0–8.0s — a slow assured blink, breath out — "I set the mood."
 FLUIDITY & WEIGHT NOTES: the face-turn leads, the smile follows, the blink punctuates; all motion eases.
 FABRIC/HAIR/PROP PHYSICS: aurora plasma drifts behind; the gown shifts with breath; the bun holds; faint starlight flicker.
 FOOTWORK & BODY FLOW: weight relaxed, a faint spinal ease.
@@ -1671,18 +1671,18 @@ COLOUR GRADE: VIVID — maximum night saturation, indigo + teal aurora + warm ru
 TEXTURE & MICRO-DETAIL: gown-hem stir, glassy bun strands, aurora plasma detail, brass-knob gleam, star grain, skin texture in dual light.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~4s — ★ final dimmer-press sends a light-pulse; hero beat)
+### ANIMATION (this clip, full 8s — ★ final dimmer-press sends a light-pulse; hero beat)
 SHOT TYPE & ANGLE: low-angle hero, medium-full; subject ~60% centre.
 CAMERA MOVEMENT (CHOREOGRAPHY): a slow rise-and-push from the low angle, settling on the hero composition — one continuous shot.
 LENS: 28mm, f/3.2, low and wide.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.2s — she squares her shoulders, chin level, sovereign.
-- 1.2–2.6s — ★ she gives the dimmer one final confident press; a soft pulse of light ripples out from it across the concrete; the aurora swells in answer.
-- 2.6–4.0s — a slow assured blink and breath — the soft-power hero beat.
+- 0.0–2.4s — she squares her shoulders, chin level, sovereign.
+- 2.4–5.2s — ★ she gives the dimmer one final confident press; a soft pulse of light ripples out from it across the concrete; the aurora swells in answer.
+- 5.2–8.0s — a slow assured blink and breath — the soft-power hero beat.
 FLUIDITY & WEIGHT NOTES: the fingertip-press meets the brass with a believable soft give; the pulse radiates evenly; all motion eases.
 FABRIC/HAIR/PROP PHYSICS: the light-pulse travels believably across the concrete surfaces; aurora plasma blooms in answer; the gown hem ripples with real weight.
 FOOTWORK & BODY FLOW: weight grounds evenly, a subtle rise through the spine.
-MID-CLIP TRANSFORMATION (timed — heavy detail): ★ the dimmer-press at 1.2–2.6s sends a momentary warm light-pulse rippling outward from the dimmer across the loft, briefly lifting the ambient, while the aurora swells brighter overhead — a flourish on the existing aurora state (not a sky-change). Settles back to the aurora baseline by 4.0s.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ the dimmer-press at 2.4–5.2s sends a momentary warm light-pulse rippling outward from the dimmer across the loft, briefly lifting the ambient, while the aurora swells brighter overhead — a flourish on the existing aurora state (not a sky-change). Settles back to the aurora baseline by 4.0s.
 LIGHTING-IN-MOTION: the pulse momentarily lifts ambient light, then settles to deep moon-and-aurora; the rim intensifies around her.
 DIEGETIC AUDIO: a faint aurora hum; a soft synth-pulse on the press; a low cinematic sub; distant wind.
 MASTER TRACK: the score reaches its fullest cosmic wash — the emotional peak — on the press.
@@ -1733,18 +1733,18 @@ COLOUR GRADE: VIVID — returning to saturated turquoise-and-rust midday, vivid 
 TEXTURE & MICRO-DETAIL: knit-gown texture, concrete grain, brass-knob micro-scratches, glassy bun, terracotta nails, monstera veining — matched.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~4s — ★ turn back → MIDDAY; loop close)
+### ANIMATION (this clip, full 8s — ★ turn back → MIDDAY; loop close)
 SHOT TYPE & ANGLE: eye-level wide, three-quarter front; subject ~40% right-third — matched to CLIP 1.
 CAMERA MOVEMENT (CHOREOGRAPHY): the camera eases back to the exact CLIP-1 establishing framing and settles.
 LENS: 35mm, f/4 — matched.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.5s — she rests her fingers on the knob and begins turning it back toward the start.
-- 1.5–2.5s — ★ TRIGGER: a smooth reverse quarter-turn; the sky sweeps aurora-night → bright midday in one smooth return.
-- 2.5–4.0s — she resettles into the opening contrapposto and knowing smile, the loft bright and neutral again — matched to CLIP 1.
+- 0.0–3.0s — she rests her fingers on the knob and begins turning it back toward the start.
+- 3.0–5.0s — ★ TRIGGER: a smooth reverse quarter-turn; the sky sweeps aurora-night → bright midday in one smooth return.
+- 5.0–8.0s — she resettles into the opening contrapposto and knowing smile, the loft bright and neutral again — matched to CLIP 1.
 FLUIDITY & WEIGHT NOTES: the reverse-turn is smooth against the detents; everything returns to rest; all motion eases.
 FABRIC/HAIR/PROP PHYSICS: the knit folds warm and settle as midday returns; the bun holds; the knob returns to the start detent; monstera resumes its drift.
 FOOTWORK & BODY FLOW: weight rolls back into the opening contrapposto.
-MID-CLIP TRANSFORMATION (timed — heavy detail): ★ RESET at 1.5–2.5s — the reverse-turn sweeps the sky from aurora-night through night and sunset back to bright midday in one smooth real-time return; shadows shorten, light warms then neutralises, the rust gown returns to its bright reading — restoring the exact CLIP-1 state.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ RESET at 3.0–5.0s — the reverse-turn sweeps the sky from aurora-night through night and sunset back to bright midday in one smooth real-time return; shadows shorten, light warms then neutralises, the rust gown returns to its bright reading — restoring the exact CLIP-1 state.
 LIGHTING-IN-MOTION: the cosmos drains and the room returns to bright neutral midday, matched to CLIP 1.
 DIEGETIC AUDIO: a soft return-whoosh through the sky-states; the brass detent click; the alpine room-tone and AC hum returning to the CLIP-1 bed.
 MASTER TRACK: the cosmic wash strips back to the airy opening pad and bell-motif, looping cleanly.
@@ -1814,7 +1814,7 @@ Mood: DEADPAN COMEDY — dry, breezy, funny (the laugh one in Pillar A).
 - ENDING STYLE: hard punchline — one finger plucks a cherry from the air, smash to end.
 - DIFFERS FROM PILLAR-MATES BY: it is the FUNNY, DEADPAN, fastest-punchiest one — comedy is the payoff, not beauty or awe.
 Grade: VIVID — saturated turquoise ocean + buttercup dress + vivid citrus orange + hydrangea blue; fresh, bright, glossy, clean shadows, full mid-tone.
-Duration: ~26 seconds · 6 clips (angle-cut chain).
+Duration: 48.000 seconds total — 6 clips × 8s each (VEO renders one 8-second take per clip); the soundtrack is built to exactly 48.000s and loops seamlessly.
 Voice: SILENT — diegetic kitchen + ocean + a breezy bossa score.
 Identity safety: AIRA adult; wardrobe modest; mood light and elegant, never sexualized.
 State chain (angle-cut): CLIP 1 wide [sets bag, folds arms → ★ groceries FLOAT] → CUT → CLIP 2 over-shoulder [opens floating, ballet to shelves] → CUT → CLIP 3 overhead [orbiting groceries] → CUT → CLIP 4 three-quarter MCU [plucks a cherry] → CUT → CLIP 5 low-hero [last items settle, empty bag folds onto palm] → CUT → CLIP 6 wide [bag refilled, reset = CLIP 1, loop].
@@ -1846,18 +1846,18 @@ COLOUR GRADE: VIVID — saturated turquoise ocean, buttercup dress, vivid citrus
 TEXTURE & MICRO-DETAIL: crisp linen weave, brown-paper-bag crinkle, travertine grain, brass-shelf gleam, braid-crown sheen, coral nail gloss, citrus rind texture.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~5s — sets bag, ★ folds arms → groceries FLOAT mid-clip; ends with them airborne)
+### ANIMATION (this clip, full 8s — sets bag, ★ folds arms → groceries FLOAT mid-clip; ends with them airborne)
 SHOT TYPE & ANGLE: eye-level wide, three-quarter front; subject ~40% right-third.
 CAMERA MOVEMENT (CHOREOGRAPHY): a slow push-in toward the bag on the island — one continuous shot.
 LENS: 35mm, f/4, deep, soft ocean fall-off.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.5s — she lowers the bag onto the marble and releases it, fingers uncurling.
-- 1.5–2.5s — ★ TRIGGER: she leans a hip on the counter and FOLDS HER ARMS — pointedly settling in to NOT help.
-- 2.5–5.0s — on the arm-fold, the topmost lemon lifts, then the rest of the groceries rise from the bag and begin to glide; she watches, unbothered.
+- 0.0–2.4s — she lowers the bag onto the marble and releases it, fingers uncurling.
+- 2.4–4.0s — ★ TRIGGER: she leans a hip on the counter and FOLDS HER ARMS — pointedly settling in to NOT help.
+- 4.0–8.0s — on the arm-fold, the topmost lemon lifts, then the rest of the groceries rise from the bag and begin to glide; she watches, unbothered.
 FLUIDITY & WEIGHT NOTES: the bag-release is clean; the arm-fold is the relaxed trigger; her stillness is the joke; all motion eases.
 FABRIC/HAIR/PROP PHYSICS: the paper bag crinkles and settles with believable weight; the linen dress sways with the lean; tendrils float in the breeze; the lifting groceries rise smoothly with correct individual mass and a gentle bob.
 FOOTWORK & BODY FLOW: weight eases onto the leaning hip as she folds her arms.
-MID-CLIP TRANSFORMATION (timed — heavy detail): ★ HERO MOVE at 1.5–3.0s, resolving by 5.0s — the levitation, triggered by the arm-fold. From the bag, lemons, a milk bottle, jam jars and a baguette rise into the air and begin choreographed arcs toward the bowl, shelves and fridge; each item floats with its own mass and gentle bob, nothing colliding, a graceful slow ballet seeded here.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ HERO MOVE at 2.4–4.8s, resolving by 5.0s — the levitation, triggered by the arm-fold. From the bag, lemons, a milk bottle, jam jars and a baguette rise into the air and begin choreographed arcs toward the bowl, shelves and fridge; each item floats with its own mass and gentle bob, nothing colliding, a graceful slow ballet seeded here.
 LIGHTING-IN-MOTION: floating glass jars catch and throw little sun-glints as they cross the bright window light.
 DIEGETIC AUDIO: a soft paper-bag set-down and crinkle; gentle ocean waves and gulls; a light sea breeze; a soft airy whoosh as the first items lift; one easy breath.
 MASTER TRACK: an easy nylon-string bossa guitar; light vibraphone twinkles enter as the groceries take flight.
@@ -1908,14 +1908,14 @@ COLOUR GRADE: VIVID — vivid floating citrus and colourful jars against warm oa
 TEXTURE & MICRO-DETAIL: linen nap from behind, glass-jar speculars mid-air, brass-shelf gleam, braid-crown sheen, citrus rind, sea-sparkle.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~4s — ballet glides to shelves; no new transformation)
+### ANIMATION (this clip, full 8s — ballet glides to shelves; no new transformation)
 SHOT TYPE & ANGLE: eye-level medium-full over-the-shoulder; her back ~45% lower-left, kitchen opening centre-right.
 CAMERA MOVEMENT (CHOREOGRAPHY): a slow arc around her left shoulder following the ballet — one continuous shot.
 LENS: 50mm, f/2.8, shallow.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.5s — she stays leaned, arms folded, watching.
-- 1.5–3.0s — her eyes lazily track a floating jar across the room as items land in place.
-- 3.0–4.0s — an amused corner-smile, a gentle breath — still not helping.
+- 0.0–3.0s — she stays leaned, arms folded, watching.
+- 3.0–6.0s — her eyes lazily track a floating jar across the room as items land in place.
+- 6.0–8.0s — an amused corner-smile, a gentle breath — still not helping.
 FLUIDITY & WEIGHT NOTES: she remains the still point; the items do all the work; all motion eases.
 FABRIC/HAIR/PROP PHYSICS: each floating item glides with its own mass and gentle bob, arcs easing in/out, nothing colliding; items "land" with perfect soft contact — a jar settles on the shelf with a tiny believable tap and micro-wobble, no clipping; the linen sways; tendrils drift.
 FOOTWORK & BODY FLOW: weight settled on the leaning hip.
@@ -1970,14 +1970,14 @@ COLOUR GRADE: VIVID — travertine cream, warm oak, vivid citrus, hydrangea blue
 TEXTURE & MICRO-DETAIL: travertine grain, glass-jar speculars, the braid-ring sheen, citrus rind, real skin texture on the upturned face.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~4s — orbiting ballet; no new transformation)
+### ANIMATION (this clip, full 8s — orbiting ballet; no new transformation)
 SHOT TYPE & ANGLE: high-angle overhead / top-down, medium; face centred, groceries orbiting lower frame.
 CAMERA MOVEMENT (CHOREOGRAPHY): a slow overhead rotation (gentle clockwise) above her — one continuous shot.
 LENS: 35mm, f/2.8, face-locked.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.5s — she tilts her face up to the spinning lens, arms loosely folded.
-- 1.5–3.0s — she holds the gaze, the easy smile blooming a touch.
-- 3.0–4.0s — a calm slow blink, breath easing, a last item peeling off toward a cabinet.
+- 0.0–3.0s — she tilts her face up to the spinning lens, arms loosely folded.
+- 3.0–6.0s — she holds the gaze, the easy smile blooming a touch.
+- 6.0–8.0s — a calm slow blink, breath easing, a last item peeling off toward a cabinet.
 FLUIDITY & WEIGHT NOTES: the upward gaze leads, the smile follows, the blink punctuates; the whole beat floats.
 FABRIC/HAIR/PROP PHYSICS: orbiting items lean with believable centripetal motion, each keeping its own mass and bob; the braid-ring and tendrils shift with her micro-movements; items continue landing in soft contact.
 FOOTWORK & BODY FLOW: weight grounded, a faint spinal sway as she tips her face up.
@@ -2032,14 +2032,14 @@ COLOUR GRADE: VIVID — glowing warm skin, buttercup and coral accents, turquois
 TEXTURE & MICRO-DETAIL: real pores and peach-fuzz in the rim, lip-gloss micro-speculars, lash separation, cherry-skin gloss, fine braid strands.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~4s — plucks the cherry; no new transformation)
+### ANIMATION (this clip, full 8s — plucks the cherry; no new transformation)
 SHOT TYPE & ANGLE: eye-level three-quarter front, medium close-up; face ~45% right-of-centre.
 CAMERA MOVEMENT (CHOREOGRAPHY): a slow push-in to the medium close-up, easing to a near-still hold — one continuous shot.
 LENS: 85mm, f/2.0, shallow.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.5s — she reaches up and pinches a floating cherry from its orbit.
-- 1.5–3.0s — she draws it toward her lips with a playful glance to the lens.
-- 3.0–4.0s — a slow savouring near-bite pause, soft breath, the anticipatory smile.
+- 0.0–3.0s — she reaches up and pinches a floating cherry from its orbit.
+- 3.0–6.0s — she draws it toward her lips with a playful glance to the lens.
+- 6.0–8.0s — a slow savouring near-bite pause, soft breath, the anticipatory smile.
 FLUIDITY & WEIGHT NOTES: the finger-to-stem pinch is precise — the cherry detaches cleanly from its float and tracks exactly with her fingers; all motion eases.
 FABRIC/HAIR/PROP PHYSICS: the cherry has believable small mass, its stem bending slightly as she pinches; other items keep orbiting; tendrils float.
 FOOTWORK & BODY FLOW: weight steady, a faint lean toward the cherry.
@@ -2094,18 +2094,18 @@ COLOUR GRADE: VIVID — maximum fresh saturation, turquoise + buttercup + citrus
 TEXTURE & MICRO-DETAIL: paper-bag fold-crease detail, sash-flutter, braid-crown sun-glint, sea-sun flare bloom, skin texture in the uplight.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~4s — ★ empty bag folds onto her palm; hero beat)
+### ANIMATION (this clip, full 8s — ★ empty bag folds onto her palm; hero beat)
 SHOT TYPE & ANGLE: low-angle hero, medium-full; subject ~60% centre.
 CAMERA MOVEMENT (CHOREOGRAPHY): a slow rise-and-push from the low angle, settling on the hero composition — one continuous shot.
 LENS: 28mm, f/3.2, low and wide, flare-prone.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.2s — she straightens, shoulders back, and raises an open palm.
-- 1.2–2.6s — ★ the last jar settles; the empty paper bag creases and folds itself flat in mid-air, then drifts down onto her open palm.
-- 2.6–4.0s — a slow assured blink and breath — the breezy hero beat; she lightly closes her fingers on the folded bag, settling the magic.
+- 0.0–2.4s — she straightens, shoulders back, and raises an open palm.
+- 2.4–5.2s — ★ the last jar settles; the empty paper bag creases and folds itself flat in mid-air, then drifts down onto her open palm.
+- 5.2–8.0s — a slow assured blink and breath — the breezy hero beat; she lightly closes her fingers on the folded bag, settling the magic.
 FLUIDITY & WEIGHT NOTES: the bag folds with believable paper creasing and weight; it lands on her palm with a perfect soft settle — her fingers don't grab, it simply rests; all motion eases.
 FABRIC/HAIR/PROP PHYSICS: the bag folds along real crease-lines; the sash and hem ripple with real fabric motion; the sea-sun flare blooms optically.
 FOOTWORK & BODY FLOW: weight grounds evenly as she straightens.
-MID-CLIP TRANSFORMATION (timed — heavy detail): ★ the self-folding bag at 1.2–2.6s — the empty bag creases and folds itself flat in the air and settles onto her palm, the ballet's graceful resolution; as she closes her fingers on it the levitation magic settles (the reel's single-magic resolving toward reset).
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ the self-folding bag at 2.4–5.2s — the empty bag creases and folds itself flat in the air and settles onto her palm, the ballet's graceful resolution; as she closes her fingers on it the levitation magic settles (the reel's single-magic resolving toward reset).
 LIGHTING-IN-MOTION: the sea-sun flare swells as the camera lands low, the rim intensifying around her.
 DIEGETIC AUDIO: a warm swelling tone; the soft paper fold-crinkle; a final gentle jar-tap; ocean waves and gulls; her calm breath.
 MASTER TRACK: the bossa groove reaches its fullest sunlit swell — the breezy emotional peak.
@@ -2156,14 +2156,14 @@ COLOUR GRADE: VIVID — turquoise ocean, buttercup dress, vivid citrus, hydrange
 TEXTURE & MICRO-DETAIL: linen weave, paper-bag crinkle, travertine grain, brass gleam, braid sheen, coral nails, citrus rind — matched.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~4s — reset; loop close)
+### ANIMATION (this clip, full 8s — reset; loop close)
 SHOT TYPE & ANGLE: eye-level wide, three-quarter front; subject ~40% right-third — matched to CLIP 1.
 CAMERA MOVEMENT (CHOREOGRAPHY): the camera eases back to the exact CLIP-1 establishing framing and settles.
 LENS: 35mm, f/4 — matched.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.5s — she sets the refilled bag down on the island (the kitchen having reset around her).
-- 1.5–2.5s — the full bag stands upright; a citrus rolls slightly to its CLIP-1 position.
-- 2.5–4.0s — she settles into the opening lean and content smile, ready to fold her arms again.
+- 0.0–3.0s — she sets the refilled bag down on the island (the kitchen having reset around her).
+- 3.0–5.0s — the full bag stands upright; a citrus rolls slightly to its CLIP-1 position.
+- 5.0–8.0s — she settles into the opening lean and content smile, ready to fold her arms again.
 FLUIDITY & WEIGHT NOTES: the bag settles with believable weight and crinkle; everything returns to the opening rest; all motion eases.
 FABRIC/HAIR/PROP PHYSICS: the bag stands full and upright; linen and tendrils settle to the opening drape.
 FOOTWORK & BODY FLOW: weight rolls onto the leaning hip — the CLIP-1 stance.
@@ -2239,7 +2239,7 @@ Mood: RELATABLE ARC — grumpy-grey into earned triumph (the emotional-journey o
 - ENDING STYLE: freeze-frame on the vivid, earned smile.
 - DIFFERS FROM PILLAR-MATES BY: it is the FACE-LED EMOTIONAL-ARC one — a character beat, not an entrance or a gag.
 Grade: starts deliberately DESATURATED GREY (the one allowed muted beat, for the mood contrast) then floods to VIVID — emerald, rust, magenta peonies, warm brass-gold; rich blacks, full mid-tone at the bloom.
-Duration: ~28 seconds · 6 clips (angle-cut chain).
+Duration: 48.000 seconds total — 6 clips × 8s each (VEO renders one 8-second take per clip); the soundtrack is built to exactly 48.000s and loops seamlessly.
 Voice: SPOKEN — one wry line at the turn; otherwise diegetic + score.
 Identity safety: AIRA adult; wardrobe modest cosy loungewear; mood relatable and warm, never sexualized.
 State chain (angle-cut): CLIP 1 wide [shuffles in, slumps → room SULKS grey] → CUT → CLIP 2 medium OTS [dead espresso machine, dims more] → CUT → CLIP 3 close-up [deadpan to lens, spoken line, decision] → CUT → CLIP 4 three-quarter [tightens bun, squares shoulders → ★ room BLOOMS vivid] → CUT → CLIP 5 low-hero [stands in the blooming room, triumphant calm] → CUT → CLIP 6 medium→wide [working espresso, sips; resets to grey doorway = CLIP 1, loop].
@@ -2271,18 +2271,18 @@ COLOUR GRADE: deliberately DESATURATED GREY (the one allowed muted beat) — fla
 TEXTURE & MICRO-DETAIL: soft cashmere pilling, real sleep-softened skin, dull-brass lamp grain, drooping-petal detail, rain-streaked glass.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, garish oversaturation, flat-blown highlights.
 
-### ANIMATION (this clip, ~5s — shuffles in; ★ slump drains the room grey)
+### ANIMATION (this clip, full 8s — shuffles in; ★ slump drains the room grey)
 SHOT TYPE & ANGLE: eye-level wide, front-favouring three-quarter; subject ~45% centre-left.
 CAMERA MOVEMENT (CHOREOGRAPHY): a very slow dolly-in from the wide, gentle and unhurried — one continuous shot.
 LENS: 35mm, f/4, deep.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.5s — the yawn completes, jaw closing, eyes opening heavy-lidded.
-- 1.5–3.0s — ★ TRIGGER: she shuffles one step in and slumps against the doorframe — and the room drains further toward grey on her slump.
-- 3.0–5.0s — a flat resigned exhale; she surveys the grey room with a dull "ugh" expression.
+- 0.0–2.4s — the yawn completes, jaw closing, eyes opening heavy-lidded.
+- 2.4–4.8s — ★ TRIGGER: she shuffles one step in and slumps against the doorframe — and the room drains further toward grey on her slump.
+- 4.8–8.0s — a flat resigned exhale; she surveys the grey room with a dull "ugh" expression.
 FLUIDITY & WEIGHT NOTES: the shuffle drags with real floor-friction; the slump sags with believable weight; all motion eases, heavy and slow.
 FABRIC/HAIR/PROP PHYSICS: the cardigan drapes and slides off the shoulder with real heavy-knit weight; loose strands drift; the peonies droop with organic stem-bend; the slide scuffs with friction.
 FOOTWORK & BODY FLOW: a dragging shuffle, weight heavy, the bare heel scuffing the slide.
-MID-CLIP TRANSFORMATION (timed — heavy detail): ★ MOOD-DRAIN at 1.5–3.0s — on her slump, the room's remaining colour visibly recedes like water draining: the emerald sofa greys, the rust armchair dulls, the peonies droop further, the lamp dims a notch — the world sulking with her.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ MOOD-DRAIN at 2.4–4.8s — on her slump, the room's remaining colour visibly recedes like water draining: the emerald sofa greys, the rust armchair dulls, the peonies droop further, the lamp dims a notch — the world sulking with her.
 LIGHTING-IN-MOTION: flat grey, dimming a touch further as she slumps — no warmth entering.
 DIEGETIC AUDIO: the tail of a quiet yawn-sigh; a slide scuffing on wood; a weak lamp buzz; rain tapping the window; a heavy breath.
 MASTER TRACK: a muted lone piano with vinyl crackle — grey and minimal.
@@ -2333,18 +2333,18 @@ COLOUR GRADE: DESATURATED GREY — dulled brass, browning herb, grey marble; onl
 TEXTURE & MICRO-DETAIL: dull-brass micro-scratches, browning herb-leaf, cashmere pilling, grey marble grain, rain on glass.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, garish oversaturation, flat-blown highlights.
 
-### ANIMATION (this clip, ~4s — dead machine refuses; room dims more)
+### ANIMATION (this clip, full 8s — dead machine refuses; room dims more)
 SHOT TYPE & ANGLE: eye-level medium over-the-shoulder; her back ~45% lower-left, machine centre-right.
 CAMERA MOVEMENT (CHOREOGRAPHY): a gentle arc around her left shoulder — one continuous shot.
 LENS: 50mm, f/2.8, shallow.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.5s — she picks up the white mug and sets it under the spout.
-- 1.5–2.8s — she presses the espresso button with her thumb — a tiny hopeful brow-lift.
-- 2.8–4.0s — the machine gives a weak flicker and dies; her hope dies — eyes close, lips flatten, a micro-headshake.
+- 0.0–3.0s — she picks up the white mug and sets it under the spout.
+- 3.0–5.6s — she presses the espresso button with her thumb — a tiny hopeful brow-lift.
+- 5.6–8.0s — the machine gives a weak flicker and dies; her hope dies — eyes close, lips flatten, a micro-headshake.
 FLUIDITY & WEIGHT NOTES: the mug has believable ceramic weight; the button-press has tactile resistance; the disappointment eases across her face.
 FABRIC/HAIR/PROP PHYSICS: the mug scrapes the counter; the button depresses with a click then nothing; a herb leaf curls a touch more; the room dims a notch on her frustration.
 FOOTWORK & BODY FLOW: weight on the forearms, a tired sag.
-MID-CLIP TRANSFORMATION (timed — heavy detail): ★ MOOD-DIM at 2.8–4.0s — as her hope dies, the room dims one more notch grey, the lamp guttering, the herb wilting further — the sulk intensifying with her frustration.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ MOOD-DIM at 5.6–8.0s — as her hope dies, the room dims one more notch grey, the lamp guttering, the herb wilting further — the sulk intensifying with her frustration.
 LIGHTING-IN-MOTION: flat grey dimming a hair further as her mood drops; no machine glow.
 DIEGETIC AUDIO: a mug-scrape on marble; the button press — a weak click then silence; a faint electrical failure-buzz; rain intensifying; a frustrated exhale.
 MASTER TRACK: the muted piano holds, a low sub-drone of grey under it.
@@ -2395,14 +2395,14 @@ COLOUR GRADE: DESATURATED GREY — her skin the only warmth, the background form
 TEXTURE & MICRO-DETAIL: real pores, faint under-eye softness, fine bun flyaways, the mug-rim gloss, honest skin texture.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, garish oversaturation, flat-blown highlights.
 
-### ANIMATION (this clip, ~5s — ★ SPOKEN line; the decision crosses her eyes)
+### ANIMATION (this clip, full 8s — ★ SPOKEN line; the decision crosses her eyes)
 SHOT TYPE & ANGLE: slight low-angle close-up; face ~80% dead-centre.
 CAMERA MOVEMENT (CHOREOGRAPHY): a very slow push-in from close to intimate, barely perceptible — one continuous shot.
 LENS: 85mm, f/2.0, shallow.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.5s — she stares flat at the lens, the one brow arching, finger tapping the mug.
-- 1.5–3.0s — ★ SPOKEN BEAT: as the line lands she deadpans, dry and wry — "...okay. We are NOT doing this today." — lips barely moving, eyes flat.
-- 3.0–5.0s — a flicker of decision crosses her eyes; the corner of her mouth twitches up; she sets the mug down off-frame with a decisive clink.
+- 0.0–2.4s — she stares flat at the lens, the one brow arching, finger tapping the mug.
+- 2.4–4.8s — ★ SPOKEN BEAT: as the line lands she deadpans, dry and wry — "...okay. We are NOT doing this today." — lips barely moving, eyes flat.
+- 4.8–8.0s — a flicker of decision crosses her eyes; the corner of her mouth twitches up; she sets the mug down off-frame with a decisive clink.
 FLUIDITY & WEIGHT NOTES: the brow-arch leads; the decision is a small bright shift in the eyes; the mug-set is deliberate; all motion eases.
 FABRIC/HAIR/PROP PHYSICS: the mug sets down with believable ceramic-on-marble contact; loose strands sway with the slight head motion; the cardigan shifts.
 FOOTWORK & BODY FLOW: a subtle straightening beginning at the very end — the turn incoming.
@@ -2457,18 +2457,18 @@ COLOUR GRADE: SPLIT — desaturated grey on the right giving way to VIVID emeral
 TEXTURE & MICRO-DETAIL: cashmere knit cinching, scrunchie velvet nap, skin warming in the new light, peony petals opening, monstera veining.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~5s — ★ squares shoulders → room BLOOMS to vivid)
+### ANIMATION (this clip, full 8s — ★ squares shoulders → room BLOOMS to vivid)
 SHOT TYPE & ANGLE: eye-level medium-full, three-quarter front; subject ~55% centre-right.
 CAMERA MOVEMENT (CHOREOGRAPHY): a gentle dolly-back opening the frame to reveal the blooming room — one continuous shot.
 LENS: 40mm, f/3.5.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.5s — she pulls the cardigan up and tightens the scrunchie with one practiced twist.
-- 1.5–2.8s — ★ TRIGGER: she squares her shoulders and takes a deliberate breath IN.
-- 2.8–5.0s — on the breath, the room EXPLODES into colour — peonies lift and open, the sofa saturates to rich emerald, the lamp ignites warm, the monstera reaches up, gold sun floods the window; her real smile arrives.
+- 0.0–2.4s — she pulls the cardigan up and tightens the scrunchie with one practiced twist.
+- 2.4–4.5s — ★ TRIGGER: she squares her shoulders and takes a deliberate breath IN.
+- 4.5–8.0s — on the breath, the room EXPLODES into colour — peonies lift and open, the sofa saturates to rich emerald, the lamp ignites warm, the monstera reaches up, gold sun floods the window; her real smile arrives.
 FLUIDITY & WEIGHT NOTES: the scrunchie-twist has precise finger-hair contact; the square-up draws the spine tall; the bloom blossoms with her inhale; all motion eases.
 FABRIC/HAIR/PROP PHYSICS: the cardigan cinches with real fabric tension; flowers lift with organic stem-flex; leaves uncurl with believable elasticity; light spreads at cloud-clearing speed (fast but not instant).
 FOOTWORK & BODY FLOW: weight grounds and lifts as she squares up.
-MID-CLIP TRANSFORMATION (timed — heavy detail): ★ MOOD-BLOOM at 1.5–4.5s — triggered by the shoulder-square and breath, the grey floods to VIVID: emerald sofa and rust armchair saturate, magenta peonies open, brass lamp warms gold, monstera perks, the window blazes gold; the world rewards her decision with full colour.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ MOOD-BLOOM at 2.4–7.2s — triggered by the shoulder-square and breath, the grey floods to VIVID: emerald sofa and rust armchair saturate, magenta peonies open, brass lamp warms gold, monstera perks, the window blazes gold; the world rewards her decision with full colour.
 LIGHTING-IN-MOTION: grey flat light replaced by warm directional gold; rich shadows return.
 DIEGETIC AUDIO: a satisfying deep breath in; a soft musical swell as the room responds; flowers lifting with a tiny rustle; the lamp click-on; rain stopping; a warm room-tone replacing the grey.
 MASTER TRACK: a transition riser swells; warm strings and a felt-kick enter with a satisfying bass-drop at the bloom.
@@ -2519,18 +2519,18 @@ COLOUR GRADE: VIVID — every jewel tone at full saturation: emerald, rust, mage
 TEXTURE & MICRO-DETAIL: cashmere knit, velvet sofa nap, peony petals, brass lamp glow, dust-motes in the beam, warm skin texture.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~4s — triumphant calm; the last grey flushes to colour)
+### ANIMATION (this clip, full 8s — triumphant calm; the last grey flushes to colour)
 SHOT TYPE & ANGLE: low-angle hero, medium-full; subject ~60% centre.
 CAMERA MOVEMENT (CHOREOGRAPHY): a slow crane-down to the low hero angle, holding — one continuous shot.
 LENS: 28mm, f/3.2, low and wide.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.2s — she plants her feet, shoulders settling back.
-- 1.2–2.6s — a slow deep exhale — and with it, the last grey corner of the room flushes with colour.
-- 2.6–4.0s — the warm settled smile arrives fully; a slow satisfied blink, breath out — the hero beat.
+- 0.0–2.4s — she plants her feet, shoulders settling back.
+- 2.4–5.2s — a slow deep exhale — and with it, the last grey corner of the room flushes with colour.
+- 5.2–8.0s — the warm settled smile arrives fully; a slow satisfied blink, breath out — the hero beat.
 FLUIDITY & WEIGHT NOTES: she touches nothing — the room serves her; the exhale leads the final colour-flush; all motion eases.
 FABRIC/HAIR/PROP PHYSICS: dust-motes drift with correct Brownian motion in the sunbeam; a flower opens with organic petal-unfurl; light intensifies naturally.
 FOOTWORK & BODY FLOW: weight grounded and even, a subtle rise through the spine.
-MID-CLIP TRANSFORMATION (timed — heavy detail): ★ the final colour-flush at 1.2–2.6s — on her exhale the last grey patch saturates, a last peony opens, the lamp brightens one more notch; the bloom completes around her.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ the final colour-flush at 2.4–5.2s — on her exhale the last grey patch saturates, a last peony opens, the lamp brightens one more notch; the bloom completes around her.
 LIGHTING-IN-MOTION: full golden key, rich directional shadows, the room at its warmest — maximum contrast from the grey opening.
 DIEGETIC AUDIO: her satisfied exhale; a last flower-rustle; a warm alive room-tone; birdsong replacing rain; a golden settling quiet.
 MASTER TRACK: the warm strings and bass reach their fullest, most satisfying swell — the emotional peak.
@@ -2581,18 +2581,18 @@ COLOUR GRADE: VIVID — warm marble, lush green herb, glowing brass, warm skin. 
 TEXTURE & MICRO-DETAIL: brass-machine gleam, espresso crema forming, lush herb leaves, cashmere knit, warm skin.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~5s — sip; ★ resets to grey doorway; loop close)
+### ANIMATION (this clip, full 8s — sip; ★ resets to grey doorway; loop close)
 SHOT TYPE & ANGLE: opens eye-level medium profile, then pulls back to the eye-level WIDE doorway of CLIP 1.
 CAMERA MOVEMENT (CHOREOGRAPHY): a slow dolly-back and arc from the counter profile out to the wide doorway composition of CLIP 1 — one continuous shot.
 LENS: 50mm easing to 35mm equivalent framing, f/2.8→f/4.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.5s — she presses the button; the machine responds, espresso pouring with crema; she lifts the cup for a slow first sip, eyes closing in contentment.
-- 1.5–3.0s — she lowers the cup; the camera pulls back toward the doorway as she drifts there.
-- 3.0–5.0s — ★ RESET: as she settles back into the doorway slump, the room drains back to grey, peonies droop, lamp dims — returning exactly to CLIP 1.
+- 0.0–2.4s — she presses the button; the machine responds, espresso pouring with crema; she lifts the cup for a slow first sip, eyes closing in contentment.
+- 2.4–4.8s — she lowers the cup; the camera pulls back toward the doorway as she drifts there.
+- 4.8–8.0s — ★ RESET: as she settles back into the doorway slump, the room drains back to grey, peonies droop, lamp dims — returning exactly to CLIP 1.
 FLUIDITY & WEIGHT NOTES: the sip is savouring; the drift to the doorway is easy; the grey-drain mirrors the bloom in reverse; all motion eases.
 FABRIC/HAIR/PROP PHYSICS: espresso flows with correct viscosity and crema; steam rises; the colour drains from surfaces like receding water; the cardigan slides back off the shoulder.
 FOOTWORK & BODY FLOW: an easy walk back to the doorway, weight settling into the opening slump.
-MID-CLIP TRANSFORMATION (timed — heavy detail): ★ RESET at 3.0–5.0s — as she returns to the doorway slump, the vivid room drains back to grey (the reverse of the bloom), the espresso cup leaving frame, restoring the exact CLIP-1 grey opening.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ RESET at 4.8–8.0s — as she returns to the doorway slump, the vivid room drains back to grey (the reverse of the bloom), the espresso cup leaving frame, restoring the exact CLIP-1 grey opening.
 LIGHTING-IN-MOTION: warm gold drains to flat grey, matching the CLIP-1 opening.
 DIEGETIC AUDIO: the espresso button click (satisfying this time); a warm machine hiss and rich pour; her small contented sip; then the warm room-tone fading, rain returning, the dull lamp buzz — back to the CLIP-1 bed.
 MASTER TRACK: the warm strings decay back to the muted lone piano and vinyl crackle, looping cleanly.
@@ -2661,7 +2661,7 @@ Mood: MAGNETIC POISE — intimate single-room power (the quiet-flex one in Pilla
 - ENDING STYLE: the spell breaks the instant she sits — deadpan, like nothing happened.
 - DIFFERS FROM PILLAR-MATES BY: INTERIOR, single-room, ONE synchronized orbiting move — intimate, not the city-scale walking anthem of B-5.
 Grade: VIVID warm café — rich oak, warm brass-gold, exposed brick, ivory blazer pop, espresso accents; rich blacks, glossy speculars, full mid-tone.
-Duration: ~26 seconds · 6 clips (angle-cut chain).
+Duration: 48.000 seconds total — 6 clips × 8s each (VEO renders one 8-second take per clip); the soundtrack is built to exactly 48.000s and loops seamlessly.
 Voice: SILENT — diegetic café + a slow-burn bass-driven score.
 Identity safety: AIRA adult; wardrobe modest tailoring; mood confident and elegant, never sexualized.
 State chain (angle-cut): CLIP 1 wide front [pushes door, crosses threshold → ★ objects TURN toward her] → CUT → CLIP 2 three-quarter walking profile [strides, everything pivoted, removes shades] → CUT → CLIP 3 close-up [magnetic look, room oriented at her] → CUT → CLIP 4 full-body low [sits → ★ everything SNAPS back] → CUT → CLIP 5 medium [settled, espresso arrives, sips] → CUT → CLIP 6 wide front [pushes door again = CLIP 1, loop].
@@ -2693,18 +2693,18 @@ COLOUR GRADE: VIVID warm café — rich oak, warm brass-gold, exposed brick, the
 TEXTURE & MICRO-DETAIL: blazer wool weave, patent-stiletto gloss, brass-handle micro-scratches, the curtain hair's glass-shine, gold-chain links, marble bar veining.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~5s — pushes in; ★ threshold-cross turns the room toward her)
+### ANIMATION (this clip, full 8s — pushes in; ★ threshold-cross turns the room toward her)
 SHOT TYPE & ANGLE: eye-level wide, front; subject ~40% dead-centre.
 CAMERA MOVEMENT (CHOREOGRAPHY): a static hold as she pushes through, then a slow dolly-back beginning as she steps in — one continuous shot.
 LENS: 35mm, f/4, deep.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.5s — she pushes the heavy glass door open, weight forward mid-stride.
-- 1.5–2.5s — ★ TRIGGER: her foot crosses the threshold — her heel clicks the floor.
-- 2.5–5.0s — on the threshold-cross, every nearby object begins to TURN toward her: chairs pivot 5–10°, pendant lights swing her way, eucalyptus leans, a cup rotates its handle toward her; she walks on, unhurried, beginning a slow eye-scan.
+- 0.0–2.4s — she pushes the heavy glass door open, weight forward mid-stride.
+- 2.4–4.0s — ★ TRIGGER: her foot crosses the threshold — her heel clicks the floor.
+- 4.0–8.0s — on the threshold-cross, every nearby object begins to TURN toward her: chairs pivot 5–10°, pendant lights swing her way, eucalyptus leans, a cup rotates its handle toward her; she walks on, unhurried, beginning a slow eye-scan.
 FLUIDITY & WEIGHT NOTES: the door swings with heavy-glass inertia; her hair follows the stride with realistic swing-settle; the object-turns are slow, smooth, magnetic; all motion eases.
 FABRIC/HAIR/PROP PHYSICS: chairs pivot with believable scrape-and-settle; pendant lights swing with correct cable physics; the cup rotates on the table; her blazer holds structure; the curtain hair swings with delay.
 FOOTWORK & BODY FLOW: a decisive heel-strike on the threshold, weight rolling forward into the stride.
-MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE TURN at 1.5–4.5s — triggered by the threshold-cross, the café's objects orient toward her: chairs pivot, pendants cant, flowers lean, a cup's handle rotates her way, a barista pauses mid-pour — a slow magnetic wave spreading from the door inward as she advances.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE TURN at 2.4–7.2s — triggered by the threshold-cross, the café's objects orient toward her: chairs pivot, pendants cant, flowers lean, a cup's handle rotates her way, a barista pauses mid-pour — a slow magnetic wave spreading from the door inward as she advances.
 LIGHTING-IN-MOTION: the daylight halo narrows as the door closes behind her; the warm interior takes over; the canting pendants begin pooling light along her path.
 DIEGETIC AUDIO: the heavy door push (a whoosh and brass click); her heel striking wood — sharp, decisive; café ambience (murmur, clink, soft music) that dips in volume for a beat as she enters.
 MASTER TRACK: a deep sub-bass pulse enters on the threshold-cross; a crisp finger-snap on the off-beats matching her heels.
@@ -2755,14 +2755,14 @@ COLOUR GRADE: VIVID warm café — the light-corridor glowing along her path, oa
 TEXTURE & MICRO-DETAIL: blazer weave, sunglass-hinge detail, the hair's glass-shine, pendant-glow on oak, paused espresso-drip.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~4s — strides; removes shades; objects keep orienting)
+### ANIMATION (this clip, full 8s — strides; removes shades; objects keep orienting)
 SHOT TYPE & ANGLE: eye-level medium-full three-quarter walking profile; subject ~50% centre.
 CAMERA MOVEMENT (CHOREOGRAPHY): a smooth dolly alongside at her walking pace — one continuous shot.
 LENS: 50mm, f/2.8, shallow.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.5s — mid-stride, she removes the sunglasses and folds them one-handed.
-- 1.5–2.8s — she tucks them into the blazer breast pocket with practiced ease, still walking.
-- 2.8–4.0s — eyes shift forward, chin stays level — pure poise — as more objects join the turn.
+- 0.0–3.0s — mid-stride, she removes the sunglasses and folds them one-handed.
+- 3.0–5.6s — she tucks them into the blazer breast pocket with practiced ease, still walking.
+- 5.6–8.0s — eyes shift forward, chin stays level — pure poise — as more objects join the turn.
 FLUIDITY & WEIGHT NOTES: the sunglasses fold with a precise hinge-click; the tuck has exact fabric-depth contact; the hair swings with stride-cadence; all motion eases.
 FABRIC/HAIR/PROP PHYSICS: each object turns at its own rate by mass — light things (flowers, a menu) faster, heavy things (chairs) slower; pendant cables stretch with correct tension; the hair swings with delay.
 FOOTWORK & BODY FLOW: rhythmic confident heel-strikes, weight rolling.
@@ -2817,14 +2817,14 @@ COLOUR GRADE: VIVID — warm saturated skin against soft golden bokeh, the gold 
 TEXTURE & MICRO-DETAIL: real pores, individual lash separation, the chain's gold links, the hair's glass-shine, lip-gloss micro-speculars.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~4s — magnetic look; the room settles oriented at her)
+### ANIMATION (this clip, full 8s — magnetic look; the room settles oriented at her)
 SHOT TYPE & ANGLE: eye-level close-up; face ~80% dead-centre.
 CAMERA MOVEMENT (CHOREOGRAPHY): an imperceptible push-in, building intensity — one continuous shot.
 LENS: 85mm, f/1.8, ultra-shallow.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.5s — she holds the lens with absolute stillness, the room settling oriented at her in the bokeh.
-- 1.5–2.8s — a single slow, sovereign blink — deliberate, unhurried.
-- 2.8–4.0s — the eyes return brighter, the knowing almost-smile deepening a millimetre.
+- 0.0–3.0s — she holds the lens with absolute stillness, the room settling oriented at her in the bokeh.
+- 3.0–5.6s — a single slow, sovereign blink — deliberate, unhurried.
+- 5.6–8.0s — the eyes return brighter, the knowing almost-smile deepening a millimetre.
 FLUIDITY & WEIGHT NOTES: the stillness is the point; the blink is luxurious; fingertips at the chain barely move; all motion eases.
 FABRIC/HAIR/PROP PHYSICS: the last walking-motion settles from the hair, strands falling into place with silk weight; the chain rests without swing — everything reaching equilibrium pointed at her.
 FOOTWORK & BODY FLOW: a still, grounded stand.
@@ -2879,18 +2879,18 @@ COLOUR GRADE: VIVID warm café — rich oak, brass-gold, brick, ivory, espresso.
 TEXTURE & MICRO-DETAIL: tufted-leather booth, marble table veining, blazer weave, micro-bag leather grain, the hair's glass-shine.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~4s — ★ sitting SNAPS the room back to neutral)
+### ANIMATION (this clip, full 8s — ★ sitting SNAPS the room back to neutral)
 SHOT TYPE & ANGLE: slight low-angle full body, three-quarter; subject ~60% left-of-centre.
 CAMERA MOVEMENT (CHOREOGRAPHY): a near-static hold letting the snap-back fill the frame — one continuous shot.
 LENS: 35mm, f/3.5.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.5s — she lowers into the booth seat with controlled grace.
-- 1.5–2.5s — ★ TRIGGER: her weight hits the seat — and ALL turned objects SNAP back to neutral simultaneously.
-- 2.5–4.0s — she crosses her ankles, sets the bag, settles to serene self-possession.
+- 0.0–3.0s — she lowers into the booth seat with controlled grace.
+- 3.0–5.0s — ★ TRIGGER: her weight hits the seat — and ALL turned objects SNAP back to neutral simultaneously.
+- 5.0–8.0s — she crosses her ankles, sets the bag, settles to serene self-possession.
 FLUIDITY & WEIGHT NOTES: the sit has correct body-weight transfer and cushion-compress; each snap-back has correct momentum and a tiny overshoot-and-settle; all motion eases except the satisfying collective snap.
 FABRIC/HAIR/PROP PHYSICS: chairs whip to neutral and rock a hair past centre then settle; pendants swing to centre with cable physics; flowers right themselves; the cup rotates handle-away; coffee ripples in cups from the collective motion; the bag meets the table with a leather thud.
 FOOTWORK & BODY FLOW: ankles cross, weight settling into the booth.
-MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE SNAP-BACK at 1.5–2.5s — triggered by her weight hitting the seat, every oriented object snaps to neutral at once: chairs, pendants, flowers, the cup — a satisfying collective return, the spell breaking as if nothing happened.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE SNAP-BACK at 3.0–5.0s — triggered by her weight hitting the seat, every oriented object snaps to neutral at once: chairs, pendants, flowers, the cup — a satisfying collective return, the spell breaking as if nothing happened.
 LIGHTING-IN-MOTION: the concentrated light-corridor disperses back to even ambient warm as objects return.
 DIEGETIC AUDIO: the collective SNAP — a harmonic of chair-scrapes, swing-chimes and flower-rustles all at once like a chord; the bag-thud; café ambience rushing back to full volume; her quiet amused exhale.
 MASTER TRACK: the snap-back gets a single satisfying percussive hit; the bass-and-snap groove resumes warm.
@@ -2941,14 +2941,14 @@ COLOUR GRADE: VIVID warm café — espresso browns, ivory, gold, warm brick. (Ma
 TEXTURE & MICRO-DETAIL: espresso crema, steam wisp, ceramic gloss, blazer weave, the hair's glass-shine, gold-chain links.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~4s — espresso sip; no new transformation)
+### ANIMATION (this clip, full 8s — espresso sip; no new transformation)
 SHOT TYPE & ANGLE: eye-level medium, front; face ~45% centre-right.
 CAMERA MOVEMENT (CHOREOGRAPHY): a very slow push-in building intimacy — one continuous shot.
 LENS: 50mm, f/2.8, shallow.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.5s — she lifts the espresso cup with a warm heat-seeking grip.
-- 1.5–2.8s — she brings it to her lips for a slow first sip, eyes closing.
-- 2.8–4.0s — a slow exhale of pleasure through the nose, the smile persisting behind the cup.
+- 0.0–3.0s — she lifts the espresso cup with a warm heat-seeking grip.
+- 3.0–5.6s — she brings it to her lips for a slow first sip, eyes closing.
+- 5.6–8.0s — a slow exhale of pleasure through the nose, the smile persisting behind the cup.
 FLUIDITY & WEIGHT NOTES: the cup lifts with correct ceramic weight; the grip is warmth-seeking, no float; the sip is savouring; all motion eases.
 FABRIC/HAIR/PROP PHYSICS: steam curls from the cup and follows its path then rises; the espresso surface wobbles slightly with the motion; the hair settled to full rest.
 FOOTWORK & BODY FLOW: a relaxed seated ease.
@@ -3003,14 +3003,14 @@ COLOUR GRADE: VIVID warm café — oak, brass-gold, brick, ivory pop, espresso �
 TEXTURE & MICRO-DETAIL: blazer weave, patent gloss, brass-handle scratches, the hair's glass-shine, gold-chain links, marble veining — matched.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~4s — pushes through; loop close)
+### ANIMATION (this clip, full 8s — pushes through; loop close)
 SHOT TYPE & ANGLE: eye-level wide, front; subject ~40% dead-centre — matched to CLIP 1.
 CAMERA MOVEMENT (CHOREOGRAPHY): the camera holds the static CLIP-1 establishing framing as she pushes through.
 LENS: 35mm, f/4 — matched.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.5s — she rises from the booth and crosses back to the door (implied), arriving at the handle.
-- 1.5–2.5s — she pushes the glass door open, weight forward mid-stride.
-- 2.5–4.0s — her foot nears the threshold, the café neutral — exactly matching the CLIP-1 opening pose.
+- 0.0–3.0s — she rises from the booth and crosses back to the door (implied), arriving at the handle.
+- 3.0–5.0s — she pushes the glass door open, weight forward mid-stride.
+- 5.0–8.0s — her foot nears the threshold, the café neutral — exactly matching the CLIP-1 opening pose.
 FLUIDITY & WEIGHT NOTES: door weight, hair swing, heel-strike all matching CLIP 1's physics; everything returns to the opening.
 FABRIC/HAIR/PROP PHYSICS: the door swings with heavy-glass inertia; the hair swings with delay; the café holds neutral (no turning yet).
 FOOTWORK & BODY FLOW: a decisive stride toward the threshold — the CLIP-1 entrance.
@@ -3083,7 +3083,7 @@ Mood: PLAYFUL → BELLY-LAUGH — comedic genre-chaos (the laugh one in Pillar B
 - ENDING STYLE: she cracks up for real — the laugh is the payoff.
 - DIFFERS FROM PILLAR-MATES BY: it is the COMEDIC GENRE-FLIP one — tonal whiplash for laughs, not poise or hype.
 Grade: VIVID per genre — moody saturated amber-and-midnight-blue (jazz), candy pink-and-cyan (pop), gilded gold-and-marble (classical), warm-neutral (reset); her burnt-orange top the warm constant anchor; rich blacks, full mid-tone.
-Duration: ~28 seconds · 6 clips (angle-cut chain).
+Duration: 48.000 seconds total — 6 clips × 8s each (VEO renders one 8-second take per clip); the soundtrack is built to exactly 48.000s and loops seamlessly.
 Voice: SPOKEN — one light aside near the break-character beat; otherwise the genre music + diegetic.
 Identity safety: AIRA adult; wardrobe modest; mood playful and warm, never sexualized.
 State chain (angle-cut): CLIP 1 wide [neutral kitchen → skip → JAZZ club] → CUT → CLIP 2 three-quarter profile [opens JAZZ → skip → POP candy] → CUT → CLIP 3 close-up [opens POP → skip → CLASSICAL palace] → CUT → CLIP 4 medium [opens PALACE, regal, spoken aside] → CUT → CLIP 5 three-quarter [breaks into a laugh, kitchen reverts] → CUT → CLIP 6 wide [neutral kitchen, reaches to skip = CLIP 1, loop].
@@ -3115,18 +3115,18 @@ COLOUR GRADE: VIVID warm-neutral — the burnt-orange top and berry nails the sa
 TEXTURE & MICRO-DETAIL: ribbed-knit texture, linen-apron weave, subway-tile grout, simmering-pot bubbles, glossy braids, phone-screen glow, berry nail gloss.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~5s — neutral; ★ skip TRIGGERS morph to JAZZ club)
+### ANIMATION (this clip, full 8s — neutral; ★ skip TRIGGERS morph to JAZZ club)
 SHOT TYPE & ANGLE: eye-level wide, three-quarter front; subject ~40% right-third.
 CAMERA MOVEMENT (CHOREOGRAPHY): a slow push-in toward the phone — one continuous shot.
 LENS: 35mm, f/4, deep.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.5s — she leans toward the phone, a mild "not this song" furrow.
-- 1.5–2.5s — ★ TRIGGER: her thumb taps SKIP — decisive.
-- 2.5–5.0s — on the tap, the kitchen morphs into a moody JAZZ CLUB around her; she gives a slow sultry shoulder-sway and a lazy stir, vibing.
+- 0.0–2.4s — she leans toward the phone, a mild "not this song" furrow.
+- 2.4–4.0s — ★ TRIGGER: her thumb taps SKIP — decisive.
+- 4.0–8.0s — on the tap, the kitchen morphs into a moody JAZZ CLUB around her; she gives a slow sultry shoulder-sway and a lazy stir, vibing.
 FLUIDITY & WEIGHT NOTES: the tap leads; the shoulder-sway eases in; she settles into the genre, never startled; all motion eases.
 FABRIC/HAIR/PROP PHYSICS: braids sway with the shoulder-sway at correct pendulum delay; the spoon stirs with real liquid resistance; haze drifts with convection as the club forms.
 FOOTWORK & BODY FLOW: an easy weight-sway to the emerging rhythm.
-MID-CLIP TRANSFORMATION (timed — heavy detail): ★ GENRE-MORPH NEUTRAL→JAZZ at 1.5–4.5s, triggered by the skip. The clean kitchen morphs: white tiles deepen to midnight-blue, shelves dissolve into smoky shadow, the window becomes a glowing amber lamp, atmospheric haze drifts in, the stove-light becomes a warm amber spot, a suggestion of brass instruments hangs in shadow — a jazz-club kitchen. Warm amber spot-light replaces the bright daylight.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ GENRE-MORPH NEUTRAL→JAZZ at 2.4–7.2s, triggered by the skip. The clean kitchen morphs: white tiles deepen to midnight-blue, shelves dissolve into smoky shadow, the window becomes a glowing amber lamp, atmospheric haze drifts in, the stove-light becomes a warm amber spot, a suggestion of brass instruments hangs in shadow — a jazz-club kitchen. Warm amber spot-light replaces the bright daylight.
 LIGHTING-IN-MOTION: bright neutral daylight morphs to a moody amber single-spot with deep shadows and haze-beams.
 DIEGETIC AUDIO: a simmering pot; a faint ending track; the phone tap; a beat of silence; then smooth jazz fills the space — upright bass, brushed snares, a warm muted trumpet.
 MASTER TRACK: (this concept IS about music) — the jazz section: upright bass, brushed drums, muted-trumpet solo, warm Rhodes.
@@ -3177,18 +3177,18 @@ COLOUR GRADE: VIVID — deep saturated amber + midnight-blue + warm shadow; rich
 TEXTURE & MICRO-DETAIL: haze beams, knit-top amber sheen, wooden-spoon grain, steam, glossy braids, brass-shadow suggestion.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~5s — opens JAZZ; ★ skip → POP candy, ends in pop)
+### ANIMATION (this clip, full 8s — opens JAZZ; ★ skip → POP candy, ends in pop)
 SHOT TYPE & ANGLE: eye-level medium profile; subject ~55% left-of-centre.
 CAMERA MOVEMENT (CHOREOGRAPHY): a slow lateral track holding the profile — one continuous shot.
 LENS: 50mm, f/2.8, shallow.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.5s — she sways her shoulders to the jazz, a slow lazy stir.
-- 1.5–2.5s — ★ TRIGGER: she reaches and taps SKIP again.
-- 2.5–5.0s — on the tap, the kitchen snaps from moody jazz into bright POP candy; her expression jumps from sultry to playful, a head-bob arriving.
+- 0.0–2.4s — she sways her shoulders to the jazz, a slow lazy stir.
+- 2.4–4.0s — ★ TRIGGER: she reaches and taps SKIP again.
+- 4.0–8.0s — on the tap, the kitchen snaps from moody jazz into bright POP candy; her expression jumps from sultry to playful, a head-bob arriving.
 FLUIDITY & WEIGHT NOTES: the mood-transition is fluid — sultry melting to playful, not a hard cut; the tap leads; all motion eases.
 FABRIC/HAIR/PROP PHYSICS: haze clears and confetti-dots appear with light paper-drift; braids swing with the head-bob; the colour-wash sweeps across surfaces like a light bloom.
 FOOTWORK & BODY FLOW: a weight-shift from sultry sway into a bouncy head-bob.
-MID-CLIP TRANSFORMATION (timed — heavy detail): ★ GENRE-MORPH JAZZ→POP at 1.5–4.5s, triggered by the skip. The haze clears, midnight-blue flips to candy-pink walls and electric-cyan accents, glossy surfaces, confetti-dots drifting, the window projecting a sunny animation, cookbooks becoming bright geometric shapes, a disco-ball scatter from the light — maximum pop-candy. Bright flat high-key light replaces the moody spot.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ GENRE-MORPH JAZZ→POP at 2.4–7.2s, triggered by the skip. The haze clears, midnight-blue flips to candy-pink walls and electric-cyan accents, glossy surfaces, confetti-dots drifting, the window projecting a sunny animation, cookbooks becoming bright geometric shapes, a disco-ball scatter from the light — maximum pop-candy. Bright flat high-key light replaces the moody spot.
 LIGHTING-IN-MOTION: moody amber morphs to bright flat candy-coloured high-key (pink one side, cyan the other), disco-dots scattering.
 DIEGETIC AUDIO: the jazz fading; the tap; a beat of silence; then a bright pop beat drops — synths, claps, a catchy vocal hook; a delighted gasp.
 MASTER TRACK: the pop section — bright synth chords, a clap-snap beat, a vocal-chop hook, bubbly bass.
@@ -3239,18 +3239,18 @@ COLOUR GRADE: MAXIMUM POP — saturated pink, cyan, coral, berry, confetti-rainb
 TEXTURE & MICRO-DETAIL: confetti paper, disco-scatter on skin, glossy braids, real pores under bright light, phone-screen gloss.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~5s — opens POP; ★ skip → CLASSICAL palace, ends in palace)
+### ANIMATION (this clip, full 8s — opens POP; ★ skip → CLASSICAL palace, ends in palace)
 SHOT TYPE & ANGLE: eye-level close-up; face ~80% dead-centre.
 CAMERA MOVEMENT (CHOREOGRAPHY): a static hold, letting the morph happen around her — one continuous shot.
 LENS: 85mm, f/2.0, shallow.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.5s — she head-bobs to the pop beat, grinning.
-- 1.5–2.5s — ★ TRIGGER: her thumb taps SKIP.
-- 2.5–5.0s — on the tap, the kitchen morphs into a gilded CLASSICAL palace; her expression shifts from playful grin to composed regal grace (a fluid melt), spine straightening, chin lifting.
+- 0.0–2.4s — she head-bobs to the pop beat, grinning.
+- 2.4–4.0s — ★ TRIGGER: her thumb taps SKIP.
+- 4.0–8.0s — on the tap, the kitchen morphs into a gilded CLASSICAL palace; her expression shifts from playful grin to composed regal grace (a fluid melt), spine straightening, chin lifting.
 FLUIDITY & WEIGHT NOTES: the grin melts into regal composure fluidly; the tap leads; all motion eases.
 FABRIC/HAIR/PROP PHYSICS: confetti vanishes; marble veins spread and gold appears; a chandelier's crystals sway and throw prismatic light; braids settle formal; the colour-wash morphs gold.
 FOOTWORK & BODY FLOW: from a bouncy bob into a poised, upright stillness.
-MID-CLIP TRANSFORMATION (timed — heavy detail): ★ GENRE-MORPH POP→CLASSICAL at 1.5–4.5s, triggered by the skip. The candy kitchen morphs to palace-grand: tiles become white marble with gold veining, shelves become carved gilt, a crystal chandelier replaces the pendant, the window becomes a tall arched palace window onto formal gardens, gold accents everywhere — warm golden chandelier light replaces the bright candy key.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ GENRE-MORPH POP→CLASSICAL at 2.4–7.2s, triggered by the skip. The candy kitchen morphs to palace-grand: tiles become white marble with gold veining, shelves become carved gilt, a crystal chandelier replaces the pendant, the window becomes a tall arched palace window onto formal gardens, gold accents everywhere — warm golden chandelier light replaces the bright candy key.
 LIGHTING-IN-MOTION: bright candy high-key morphs to warm golden chandelier light from above, prismatic crystal-scatter dots appearing.
 DIEGETIC AUDIO: the pop fading; the tap; a beat; then a classical orchestral swell — strings, harp, a french-horn motif; a chandelier tinkle; a palace-reverb on the room tone.
 MASTER TRACK: the classical section — full strings, harp arpeggios, french horn, a grand piano.
@@ -3301,14 +3301,14 @@ COLOUR GRADE: VIVID — saturated gold + cream + marble-white + berry + deep gar
 TEXTURE & MICRO-DETAIL: marble veining, gilt carving, crystal-prism scatter, wooden-spoon grain, glossy formal braids, gold-lit skin.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~4s — regal poise; ★ SPOKEN aside; no new genre-change)
+### ANIMATION (this clip, full 8s — regal poise; ★ SPOKEN aside; no new genre-change)
 SHOT TYPE & ANGLE: slight low-angle medium, three-quarter front; subject ~50% centre.
 CAMERA MOVEMENT (CHOREOGRAPHY): a slow push-in, regal and deliberate — one continuous shot.
 LENS: 50mm, f/2.8, shallow.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.5s — she straightens her spine, lifts her chin, raises the spoon-sceptre with exaggerated grace.
-- 1.5–2.8s — ★ SPOKEN BEAT: as the line lands, dry and self-aware — "...this is a bit much, even for me." — a dignified close-lipped smile cracking at the corner.
-- 2.8–4.0s — a regal slow blink, the self-amusement growing under the composure.
+- 0.0–3.0s — she straightens her spine, lifts her chin, raises the spoon-sceptre with exaggerated grace.
+- 3.0–5.6s — ★ SPOKEN BEAT: as the line lands, dry and self-aware — "...this is a bit much, even for me." — a dignified close-lipped smile cracking at the corner.
+- 5.6–8.0s — a regal slow blink, the self-amusement growing under the composure.
 FLUIDITY & WEIGHT NOTES: the sceptre rises with deliberate poise (grip shifts casual→formal, pinky up); the line lands with a flicker of a smile; all motion eases.
 FABRIC/HAIR/PROP PHYSICS: chandelier crystals sway and throw moving prismatic dots; the apron-linen drifts; the braids hold formal.
 FOOTWORK & BODY FLOW: a poised, grounded stillness.
@@ -3363,18 +3363,18 @@ COLOUR GRADE: transitioning — gold draining, warm-neutral returning, her burnt
 TEXTURE & MICRO-DETAIL: laugh-crinkle skin detail, glossy swinging braids, the spoon grain, gilt-peeling-to-oak, tile reappearing.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~4s — ★ breaks into a laugh; kitchen reverts to neutral)
+### ANIMATION (this clip, full 8s — ★ breaks into a laugh; kitchen reverts to neutral)
 SHOT TYPE & ANGLE: eye-level medium-full, three-quarter; subject ~55% right-of-centre.
 CAMERA MOVEMENT (CHOREOGRAPHY): a gentle dolly-back as the normal kitchen reasserts — one continuous shot.
 LENS: 40mm, f/3.5.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.5s — the laugh breaks — she bends forward, hand to chest, spoon clutched.
-- 1.5–2.8s — ★ the kitchen reverts: chandelier shrinks to a pendant, marble fades to tile, gilt peels to oak — in sync with her laugh.
-- 2.8–4.0s — she straightens, wiping an eye, the laugh settling to a warm grin as the kitchen finishes returning to normal.
+- 0.0–3.0s — the laugh breaks — she bends forward, hand to chest, spoon clutched.
+- 3.0–5.6s — ★ the kitchen reverts: chandelier shrinks to a pendant, marble fades to tile, gilt peels to oak — in sync with her laugh.
+- 5.6–8.0s — she straightens, wiping an eye, the laugh settling to a warm grin as the kitchen finishes returning to normal.
 FLUIDITY & WEIGHT NOTES: the revert moves at organic speed (not instant), synced to her laugh; all motion eases.
 FABRIC/HAIR/PROP PHYSICS: the chandelier shrinks and the marble fades with believable morph-speed; braids swing with the laugh-bend; the spoon drops to a natural cooking grip.
 FOOTWORK & BODY FLOW: a laugh-bend then a straightening, weight easy.
-MID-CLIP TRANSFORMATION (timed — heavy detail): ★ GENRE-REVERT PALACE→NEUTRAL at 1.5–3.5s — as she laughs, the palace dissolves back to the normal modern kitchen: chandelier→pendant, marble→subway tile, gilt→oak, garden window→normal window; warm afternoon daylight returns.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ GENRE-REVERT PALACE→NEUTRAL at 3.0–7.0s — as she laughs, the palace dissolves back to the normal modern kitchen: chandelier→pendant, marble→subway tile, gilt→oak, garden window→normal window; warm afternoon daylight returns.
 LIGHTING-IN-MOTION: gold drains; warm afternoon daylight returns; the kitchen clarifies.
 DIEGETIC AUDIO: the classical fading; her genuine warm laugh (musical, authentic); the spoon clatter; the pot bubbling normally; the normal kitchen ambience returning; a final happy sigh.
 MASTER TRACK: the classical thins; a brief warm resolve as the music returns toward the neutral ambient.
@@ -3425,14 +3425,14 @@ COLOUR GRADE: VIVID warm-neutral — burnt-orange and berry anchors, clean tile,
 TEXTURE & MICRO-DETAIL: ribbed knit, linen weave, tile grout, simmering bubbles, glossy braids, phone glow, berry nails — matched.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~4s — reaches to skip; loop close)
+### ANIMATION (this clip, full 8s — reaches to skip; loop close)
 SHOT TYPE & ANGLE: eye-level wide, three-quarter front; subject ~40% right-third — matched to CLIP 1.
 CAMERA MOVEMENT (CHOREOGRAPHY): the camera eases to the exact CLIP-1 establishing framing and settles.
 LENS: 35mm, f/4 — matched.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.5s — she sets the spoon down and reaches for the phone, the grin softening to concentration.
-- 1.5–2.8s — the "not this song" furrow returns as her thumb hovers over skip.
-- 2.8–4.0s — she leans toward the phone — the exact CLIP-1 opening pose, ready to tap again.
+- 0.0–3.0s — she sets the spoon down and reaches for the phone, the grin softening to concentration.
+- 3.0–5.6s — the "not this song" furrow returns as her thumb hovers over skip.
+- 5.6–8.0s — she leans toward the phone — the exact CLIP-1 opening pose, ready to tap again.
 FLUIDITY & WEIGHT NOTES: the spoon-set has believable weight; the reach matches CLIP 1; everything returns to the opening.
 FABRIC/HAIR/PROP PHYSICS: braids settle; the spoon rests with correct weight; the pot simmers; everything neutral.
 FOOTWORK & BODY FLOW: weight rolls onto the leaning hip — the CLIP-1 stance.
@@ -3506,7 +3506,7 @@ Mood: WRY AFFECTION — intimate micro-comedy (the warm-funny one in Pillar B).
 - ENDING STYLE: she gives up, tosses it, the room exhales — soft warm smile.
 - DIFFERS FROM PILLAR-MATES BY: it is the INTIMATE SMALL-PROP, WRY one — a private joke between her and an object, not a public flex.
 Grade: VIVID cosy evening — saturated midnight-navy velvet + warm amber lamplight + candle-gold + camel sweater + city-light rim; rich blacks, full mid-tone.
-Duration: ~26 seconds · 6 clips (angle-cut chain).
+Duration: 48.000 seconds total — 6 clips × 8s each (VEO renders one 8-second take per clip); the soundtrack is built to exactly 48.000s and loops seamlessly.
 Voice: SPOKEN — one wry surrender line; otherwise diegetic + score.
 Identity safety: AIRA adult; wardrobe modest cosy loungewear; mood warm and relatable, never sexualized.
 State chain (angle-cut): CLIP 1 three-quarter [phone buzzes, reaches → ★ phone SLIDES away] → CUT → CLIP 2 close-up [chases, grabs it → screen DIES] → CUT → CLIP 3 profile [taps dead screen, ★ it lights but keyboard SCRAMBLES] → CUT → CLIP 4 extreme macro [keys DODGE her thumb] → CUT → CLIP 5 low-hero [★ surrender toss, room EXHALES relief] → CUT → CLIP 6 three-quarter [phone buzzes again = CLIP 1, loop].
@@ -3538,18 +3538,18 @@ COLOUR GRADE: VIVID cosy evening — saturated midnight-navy velvet, warm amber,
 TEXTURE & MICRO-DETAIL: plush velvet nap, soft cashmere knit, candle-flame detail, the hairpin's gold gleam, phone-screen glow, rain on glass.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~5s — phone buzzes; ★ her reach makes it SLIDE away)
+### ANIMATION (this clip, full 8s — phone buzzes; ★ her reach makes it SLIDE away)
 SHOT TYPE & ANGLE: eye-level three-quarter body; subject ~50% centre.
 CAMERA MOVEMENT (CHOREOGRAPHY): a slow static-to-push-in hold, building tension — one continuous shot.
 LENS: 40mm, f/2.8, shallow.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.5s — she jolts slightly at the buzz, eyes darting to the phone.
-- 1.5–2.5s — ★ TRIGGER: she reaches for the phone — and it SLIDES away from her hand across the velvet, as if pulled.
-- 2.5–5.0s — she leans, chasing it; her surprise melts into indignant disbelief.
+- 0.0–2.4s — she jolts slightly at the buzz, eyes darting to the phone.
+- 2.4–4.0s — ★ TRIGGER: she reaches for the phone — and it SLIDES away from her hand across the velvet, as if pulled.
+- 4.0–8.0s — she leans, chasing it; her surprise melts into indignant disbelief.
 FLUIDITY & WEIGHT NOTES: the reach is decisive; the phone's slide is smooth and deliberate; her lean follows with real cushion weight-shift; all motion eases.
 FABRIC/HAIR/PROP PHYSICS: the phone buzz vibrates a micro-slide on the velvet, then on her reach it slides laterally with correct friction, the velvet nap bending in its wake; the candle flickers; the throw shifts.
 FOOTWORK & BODY FLOW: a seated lean and reach, weight shifting on the cushions.
-MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE SLIDE at 1.5–3.0s — triggered by her reach, the phone slides away across the cushion just out of reach, leaving a faint trail-indent in the velvet nap; the candle flame leans as if stifling a laugh.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE SLIDE at 2.4–4.8s — triggered by her reach, the phone slides away across the cushion just out of reach, leaving a faint trail-indent in the velvet nap; the candle flame leans as if stifling a laugh.
 LIGHTING-IN-MOTION: the phone glow moves with the slide, dragging a small light-trail across the velvet and her hand.
 DIEGETIC AUDIO: the phone buzz (sharp, insistent); a soft gasp; the velvet slide (a soft shushing friction); candle crackle; rain on glass.
 MASTER TRACK: a quiet plucked acoustic guitar with vinyl-crackle; muted pizzicato strings entering on the slide (comedic tension).
@@ -3600,18 +3600,18 @@ COLOUR GRADE: VIVID cosy evening — navy velvet, amber, candle-gold, the dark p
 TEXTURE & MICRO-DETAIL: the dark glass screen with faint fingerprints, cashmere knit, pearl-earring gleam, candle flicker, nail gloss.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~4s — ★ grabs it → screen DIES)
+### ANIMATION (this clip, full 8s — ★ grabs it → screen DIES)
 SHOT TYPE & ANGLE: eye-level close-up; face ~70% centre with hands/phone lower.
 CAMERA MOVEMENT (CHOREOGRAPHY): a static intimate hold — the comedy plays in her face — one continuous shot.
 LENS: 85mm, f/2.0, shallow.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.5s — she lunges and catches the phone, cupping it triumphantly.
-- 1.5–2.5s — ★ TRIGGER: she taps the screen to wake it — and it stays aggressively BLACK; she taps again, harder.
-- 2.5–4.0s — triumph crumbles to irritation — eyes narrowing, a micro-headshake.
+- 0.0–3.0s — she lunges and catches the phone, cupping it triumphantly.
+- 3.0–5.0s — ★ TRIGGER: she taps the screen to wake it — and it stays aggressively BLACK; she taps again, harder.
+- 5.0–8.0s — triumph crumbles to irritation — eyes narrowing, a micro-headshake.
 FLUIDITY & WEIGHT NOTES: the catch is quick; the thumb-taps escalate in pressure (visible nail-tip compression); the disappointment eases across her face; all motion eases.
 FABRIC/HAIR/PROP PHYSICS: the phone has believable weight in her cupped grip; the thumb hits glass with real tap-force; the screen stays dark — no crack, just refusal; the candle flickers sympathetically.
 FOOTWORK & BODY FLOW: a protective curl over the phone.
-MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE DEATH at 1.5–2.5s — triggered by her tap, the screen goes/stays pointedly black and unresponsive despite escalating taps; the phone playing dead in her hands.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE DEATH at 3.0–5.0s — triggered by her tap, the screen goes/stays pointedly black and unresponsive despite escalating taps; the phone playing dead in her hands.
 LIGHTING-IN-MOTION: no phone glow (the void); amber lamp steady; candle flickers.
 DIEGETIC AUDIO: her thumb-taps on glass (tap, tap, harder tap); an exasperated sigh; the phone making NO sound at all (pointedly silent); candle crackle; rain.
 MASTER TRACK: the pizzicato strings tick up the comedic tension over the guitar.
@@ -3662,18 +3662,18 @@ COLOUR GRADE: VIVID cosy evening — navy, amber, candle-gold, the scrambled scr
 TEXTURE & MICRO-DETAIL: the screen's scrambled colourful keys, glass fingerprints, cashmere knit, pearl gleam, falling hair-piece detail.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light. (Scrambled on-screen text is intentional here.)
 
-### ANIMATION (this clip, ~4s — ★ screen lights but keyboard SCRAMBLES)
+### ANIMATION (this clip, full 8s — ★ screen lights but keyboard SCRAMBLES)
 SHOT TYPE & ANGLE: slight low-angle medium profile; subject ~55% left-of-centre.
 CAMERA MOVEMENT (CHOREOGRAPHY): a slow lateral track holding the profile — one continuous shot.
 LENS: 50mm, f/2.8, shallow.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.5s — the dead screen suddenly LIGHTS; relief flickers across her profile.
-- 1.5–2.5s — ★ TRIGGER: she goes to type — but the keyboard letters are scrambled into nonsense, glowing random colours.
-- 2.5–4.0s — her thumb chases a key; it dodges; the text-field fills with gibberish; her disbelief peaks.
+- 0.0–3.0s — the dead screen suddenly LIGHTS; relief flickers across her profile.
+- 3.0–5.0s — ★ TRIGGER: she goes to type — but the keyboard letters are scrambled into nonsense, glowing random colours.
+- 5.0–8.0s — her thumb chases a key; it dodges; the text-field fills with gibberish; her disbelief peaks.
 FLUIDITY & WEIGHT NOTES: the thumb-descent leads; the key-dodge is a small fast video-game-like slide; all motion eases.
 FABRIC/HAIR/PROP PHYSICS: the keyboard letters scramble and shift in real time; a targeted key slides as her thumb lands; the screen responds to touch but wrong keys register; the candle flickers.
 FOOTWORK & BODY FLOW: an upright lean toward the phone.
-MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE SCRAMBLE at 1.5–3.0s — triggered by her attempt to type, the keyboard letters scramble into glowing nonsense and physically dodge her thumb; correct contact produces wrong gibberish letters.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE SCRAMBLE at 3.0–6.0s — triggered by her attempt to type, the keyboard letters scramble into glowing nonsense and physically dodge her thumb; correct contact produces wrong gibberish letters.
 LIGHTING-IN-MOTION: the scrambled screen flashes shifting colours across her profile.
 DIEGETIC AUDIO: rapid soft screen-taps; a comical quiet scramble-sound (like shuffling cards) each time keys move; a frustrated grunt; a gibberish notification ping; candle crackle.
 MASTER TRACK: the pizzicato gets playful percussive taps matching her dodged-key chase.
@@ -3724,18 +3724,18 @@ COLOUR GRADE: VIVID — the scrambled keys glowing random saturated colours, war
 TEXTURE & MICRO-DETAIL: glass fingerprint smudges, the keys' colour-glow, nail gloss, velvet nap beneath, candle reflection on the screen.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, statue-stiff posture, crushed blacks, garish oversaturation, flat light. (Scrambled on-screen text intentional.)
 
-### ANIMATION (this clip, ~4s — keys DODGE her thumb)
+### ANIMATION (this clip, full 8s — keys DODGE her thumb)
 SHOT TYPE & ANGLE: overhead macro on the screen; screen ~80% of frame.
 CAMERA MOVEMENT (CHOREOGRAPHY): a static macro hold — one continuous shot.
 LENS: 90mm macro, f/2.8, razor-shallow.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.5s — her thumb descends toward a key.
-- 1.5–2.8s — the key DODGES; she chases it; it dodges again — a tiny finger-vs-button battle.
-- 2.8–4.0s — increasing thumb-pressure and a visible tremble of exasperation; the text-field a wall of gibberish.
+- 0.0–3.0s — her thumb descends toward a key.
+- 3.0–5.6s — the key DODGES; she chases it; it dodges again — a tiny finger-vs-button battle.
+- 5.6–8.0s — increasing thumb-pressure and a visible tremble of exasperation; the text-field a wall of gibberish.
 FLUIDITY & WEIGHT NOTES: the key-slides are smooth, small and fast (video-game dodge); thumb-to-glass contact is precise every time — the comedy is that correct contact yields wrong results; all motion eases.
 FABRIC/HAIR/PROP PHYSICS: keys slide left/jump rows as her thumb lands; thumb-impact shows correct nail-compression on glass; the screen-glow flickers.
 FOOTWORK & BODY FLOW: hands only — increasing tap-speed.
-MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE DODGE at 1.5–3.0s — triggered by her typing attempts, the keys physically dodge her thumb and the text fills with gibberish; the phone's resistance at its most stubborn.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE DODGE at 3.0–6.0s — triggered by her typing attempts, the keys physically dodge her thumb and the text fills with gibberish; the phone's resistance at its most stubborn.
 LIGHTING-IN-MOTION: the keys flash colours as they scramble; the glow flickers on her thumbs.
 DIEGETIC AUDIO: rapid soft screen-taps; a tiny card-shuffle scramble per key-move; an off-screen frustrated grunt; a gibberish ping.
 MASTER TRACK: a playful muted-trumpet "wah" enters, teasing the comedy.
@@ -3786,18 +3786,18 @@ COLOUR GRADE: VIVID cosy evening at its warmest — navy velvet, amber, candle-g
 TEXTURE & MICRO-DETAIL: velvet nap, cashmere knit, candle-flame, the throw fabric, golden glow-pulse, warm skin.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~5s — ★ SURRENDER toss; SPOKEN; room EXHALES relief)
+### ANIMATION (this clip, full 8s — ★ SURRENDER toss; SPOKEN; room EXHALES relief)
 SHOT TYPE & ANGLE: slight low-angle full body; subject ~60% centre-left.
 CAMERA MOVEMENT (CHOREOGRAPHY): a static low hold, holding the hero-surrender — one continuous shot.
 LENS: 28mm, f/3.2, low and wide.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.5s — she tosses the phone face-down onto the cushion and sinks back, eyes shutting; ★ SPOKEN BEAT, as the line lands, dry and defeated-amused — "...fine. You win."
-- 1.5–2.8s — ★ the phone lands face-down; a warm glow-pulse ripples outward (the room's sigh of relief) — lamp brightens, candle steadies, rain softens.
-- 2.8–5.0s — the dramatic pout cracks into a small private smile; a gentle exhale-laugh through the nose.
+- 0.0–2.4s — she tosses the phone face-down onto the cushion and sinks back, eyes shutting; ★ SPOKEN BEAT, as the line lands, dry and defeated-amused — "...fine. You win."
+- 2.4–4.5s — ★ the phone lands face-down; a warm glow-pulse ripples outward (the room's sigh of relief) — lamp brightens, candle steadies, rain softens.
+- 4.5–8.0s — the dramatic pout cracks into a small private smile; a gentle exhale-laugh through the nose.
 FLUIDITY & WEIGHT NOTES: the toss has a clean arc and a soft velvet-landing bounce; the pout melts to the smile fluidly; all motion eases.
 FABRIC/HAIR/PROP PHYSICS: the phone rotates in the air and lands face-down with a soft velvet impact and bounce-settle; the glow-pulse travels across surfaces as a warm wash; a throw slides toward her (the couch offering a blanket); the candle gutters then steadies.
 FOOTWORK & BODY FLOW: a full sink-back into the cushions, hands folding on her chest.
-MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE RELIEF at 1.5–2.8s — triggered by the surrender-toss, the room exhales: a warm golden glow-pulse ripples from the landed phone, the lamp brightens, the candle steadies tall, the rain softens — the world rewarding her for not texting back; the phone's resistance-magic resolves.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE RELIEF at 2.4–4.5s — triggered by the surrender-toss, the room exhales: a warm golden glow-pulse ripples from the landed phone, the lamp brightens, the candle steadies tall, the rain softens — the world rewarding her for not texting back; the phone's resistance-magic resolves.
 LIGHTING-IN-MOTION: the glow-pulse swells then settles to a richer steady warmth — the room one notch cosier than before.
 DIEGETIC AUDIO: the phone toss and velvet-thud; her dry spoken surrender line; the glow-pulse as a soft warm musical sigh (a room exhaling); the lamp-brighten hum; rain softening; her nose-laugh; candle crackle settling.
 MASTER TRACK: a warm "wah-wah" trumpet resolve and a pad-swell at the surrender — the emotional payoff.
@@ -3848,14 +3848,14 @@ COLOUR GRADE: VIVID cosy evening — navy velvet, amber, candle-gold, camel — 
 TEXTURE & MICRO-DETAIL: velvet nap, cashmere knit, candle-flame, hairpin gleam, phone glow, rain on glass — matched.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~4s — phone buzzes again; loop close)
+### ANIMATION (this clip, full 8s — phone buzzes again; loop close)
 SHOT TYPE & ANGLE: eye-level three-quarter body; subject ~50% centre — matched to CLIP 1.
 CAMERA MOVEMENT (CHOREOGRAPHY): the camera eases to the exact CLIP-1 framing and holds.
 LENS: 40mm, f/2.8 — matched.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.5s — she resettles into the curled position, the private smile fading to rest, the throw returning.
-- 1.5–2.5s — the phone buzzes with a new notification; her eyes dart to it, the jolt returning.
-- 2.5–4.0s — brow lifting, the internal debate beginning — the exact CLIP-1 opening pose.
+- 0.0–3.0s — she resettles into the curled position, the private smile fading to rest, the throw returning.
+- 3.0–5.0s — the phone buzzes with a new notification; her eyes dart to it, the jolt returning.
+- 5.0–8.0s — brow lifting, the internal debate beginning — the exact CLIP-1 opening pose.
 FLUIDITY & WEIGHT NOTES: the resettle eases into the opening curl; the jolt mirrors the opening; everything returns to rest.
 FABRIC/HAIR/PROP PHYSICS: the phone vibrates a micro-slide on the velvet; the throw settles; the candle flickers.
 FOOTWORK & BODY FLOW: a seated curl into the cushions.
@@ -3928,7 +3928,7 @@ Mood: TRIUMPHANT HYPE — city-scale anthem, building (the epic one in Pillar B)
 - ENDING STYLE: a final city-block bloom; she never looks back.
 - DIFFERS FROM PILLAR-MATES BY: it is the EXTERIOR, CITY-SCALE, BUILDING ANTHEM (walking) — big and loud vs B-2's intimate single-room orbit.
 Grade: starts deliberately DESATURATED GREY (mood contrast) then floods to VIVID — electric neon-blue, mirror-gold, crystal sparkle, deep-red blouse, vivid pedestrian colour; rich blacks, full mid-tone at the transformation.
-Duration: ~26 seconds · 6 clips (angle-cut chain).
+Duration: 48.000 seconds total — 6 clips × 8s each (VEO renders one 8-second take per clip); the soundtrack is built to exactly 48.000s and loops seamlessly.
 Voice: SILENT — diegetic city + a building cinematic power-score.
 Identity safety: AIRA adult; wardrobe modest tailoring; mood confident and elegant, never sexualized.
 State chain (angle-cut): CLIP 1 wide front [grey curb → first step → ★ block TRANSFORMS] → CUT → CLIP 2 walking profile [strides, neon/mirror-puddle/pedestrian-colour spread] → CUT → CLIP 3 close-up [magnetic power look, vivid city behind] → CUT → CLIP 4 back-pose low [walks away, full transformed block in her wake] → CUT → CLIP 5 glance-back medium [conspirator's smirk over the shoulder] → CUT → CLIP 6 wide front [steps from taxi onto grey curb = CLIP 1, loop].
@@ -3960,18 +3960,18 @@ COLOUR GRADE: deliberately DESATURATED GREY (mood contrast) — grey concrete, d
 TEXTURE & MICRO-DETAIL: wool-coat nap, patent-boot gloss, the blowout's glossy bounce, dull wet-concrete sheen, red-silk blouse weave, cherry nail gloss.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, garish oversaturation, flat-blown highlights.
 
-### ANIMATION (this clip, ~5s — grey curb; ★ first step TRANSFORMS the block)
+### ANIMATION (this clip, full 8s — grey curb; ★ first step TRANSFORMS the block)
 SHOT TYPE & ANGLE: slight low-angle wide, front; subject ~40% dead-centre.
 CAMERA MOVEMENT (CHOREOGRAPHY): a static hold, then a slow dolly-back beginning as she steps toward camera — one continuous shot.
 LENS: 35mm, f/4, slight low.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.5s — she steps fully onto the curb, adjusts the collar, squares her shoulders.
-- 1.5–2.5s — ★ TRIGGER: she takes the first confident forward STEP, her heel striking the wet concrete.
-- 2.5–5.0s — on the heel-strike, a ripple of transformation spreads from her boot: the nearest building gains electric-blue neon trim, a grey puddle becomes a mirror reflecting an impossible sunset sky, the dim streetlight begins sprouting crystal facets.
+- 0.0–2.4s — she steps fully onto the curb, adjusts the collar, squares her shoulders.
+- 2.4–4.0s — ★ TRIGGER: she takes the first confident forward STEP, her heel striking the wet concrete.
+- 4.0–8.0s — on the heel-strike, a ripple of transformation spreads from her boot: the nearest building gains electric-blue neon trim, a grey puddle becomes a mirror reflecting an impossible sunset sky, the dim streetlight begins sprouting crystal facets.
 FLUIDITY & WEIGHT NOTES: the step is decisive and grounded; the transformation ripples outward from the heel-strike; she never reacts to it — it just happens for her; all motion eases.
 FABRIC/HAIR/PROP PHYSICS: the coat swings with real wool weight and stride; the blowout bounces with natural hair physics; the heel meets concrete with a believable impact; the puddle ripples gold from the strike.
 FOOTWORK & BODY FLOW: a confident heel-to-toe first step, weight rolling forward.
-MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE DRESS-UP at 1.5–4.0s — triggered by her first heel-strike, the block transforms: neon-blue trim grows along the nearest building's architectural edges with correct perspective; a grey puddle becomes a mirror-pool reflecting a spectacular sunset sky that doesn't exist above; the dim streetlight begins morphing into crystal facets — the city dressing up in her wake.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE DRESS-UP at 2.4–6.4s — triggered by her first heel-strike, the block transforms: neon-blue trim grows along the nearest building's architectural edges with correct perspective; a grey puddle becomes a mirror-pool reflecting a spectacular sunset sky that doesn't exist above; the dim streetlight begins morphing into crystal facets — the city dressing up in her wake.
 LIGHTING-IN-MOTION: grey flat light is invaded by electric-blue neon and warm mirror-puddle gold spreading from her path; the ambient lifts in her wake.
 DIEGETIC AUDIO: the taxi pulling away (engine, tire on wet road); her boot heel on the curb (decisive); a quiet city evening; then a soft electric hum-sizzle as the neon grows and a gentle chime as the puddle turns gold.
 MASTER TRACK: a deep sub-bass pulse only (grey), with the first synth-string layer entering on the heel-strike transformation.
@@ -4022,18 +4022,18 @@ COLOUR GRADE: VIVID — electric neon-blue, mirror-gold, crystal sparkle, deep-r
 TEXTURE & MICRO-DETAIL: neon-tube glow on wet facades, mirror-puddle reflections, the blowout's gloss, crystal-facet sparkle, coat-wool nap.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~4s — strides; the dress-up spreads with each step)
+### ANIMATION (this clip, full 8s — strides; the dress-up spreads with each step)
 SHOT TYPE & ANGLE: eye-level medium-full walking profile; subject ~50% centre.
 CAMERA MOVEMENT (CHOREOGRAPHY): a smooth dolly alongside at her walking pace — one continuous shot.
 LENS: 50mm, f/2.8, shallow.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.5s — confident stride, hips with natural sway, she removes the sunglasses.
-- 1.5–2.8s — her heel strikes a puddle — a ripple of gold spreads; more neon grows, a streetlight crystallises, a pedestrian gains colour.
-- 2.8–4.0s — she folds the glasses, eyes forward, unbothered, the block fully dressing up behind her.
+- 0.0–3.0s — confident stride, hips with natural sway, she removes the sunglasses.
+- 3.0–5.6s — her heel strikes a puddle — a ripple of gold spreads; more neon grows, a streetlight crystallises, a pedestrian gains colour.
+- 5.6–8.0s — she folds the glasses, eyes forward, unbothered, the block fully dressing up behind her.
 FLUIDITY & WEIGHT NOTES: the stride is even and weighted; the transformations ripple from her heel-strikes; she never looks at the magic; all motion eases.
 FABRIC/HAIR/PROP PHYSICS: neon grows along architectural lines with correct perspective; the mirror-puddle ripple spreads with water-physics; crystal growth has mineral-formation speed; the pedestrian's colour-gain sweeps from their nearest point to her; the blowout bounces with stride-cadence.
 FOOTWORK & BODY FLOW: rhythmic confident heel-strikes, weight rolling, a heel meeting the mirror-puddle with a golden splash.
-MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE SPREAD at 1.5–3.5s — triggered by her footsteps, the dress-up spreads: neon trim continues along the buildings, the puddle-mirror expands, the streetlight finishes morphing into a crystal chandelier, a grey pedestrian flushes vivid as they pass into her radius.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE SPREAD at 3.0–7.0s — triggered by her footsteps, the dress-up spreads: neon trim continues along the buildings, the puddle-mirror expands, the streetlight finishes morphing into a crystal chandelier, a grey pedestrian flushes vivid as they pass into her radius.
 LIGHTING-IN-MOTION: the neon-and-gold light-corridor intensifies along her path; warmth and electric colour pool in her wake.
 DIEGETIC AUDIO: rhythmic heel-clicks (the main beat); a quiet electric hum-sizzle of growing neon; a golden puddle-ripple chime; city ambience lifting; a soft whoosh as a pedestrian gains colour.
 MASTER TRACK: a snare on the 3 and a building layered synth-string grow with each transformation.
@@ -4084,14 +4084,14 @@ COLOUR GRADE: MAXIMUM — every colour at full neon saturation in the bokeh, her
 TEXTURE & MICRO-DETAIL: real pores, lash separation, the blowout's gloss, neon catch-lights in the eyes, cherry lip-gloss micro-speculars.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~4s — magnetic power look)
+### ANIMATION (this clip, full 8s — magnetic power look)
 SHOT TYPE & ANGLE: eye-level close-up; face ~80% dead-centre.
 CAMERA MOVEMENT (CHOREOGRAPHY): an imperceptible push-in — one continuous shot.
 LENS: 85mm, f/1.8, ultra-shallow.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.5s — she holds the lens with absolute stillness, the transformed city pulsing behind.
-- 1.5–2.6s — a single slow sovereign blink.
-- 2.6–4.0s — the eyes return brighter, the power-smile deepening a millimetre — magnetic.
+- 0.0–3.0s — she holds the lens with absolute stillness, the transformed city pulsing behind.
+- 3.0–5.2s — a single slow sovereign blink.
+- 5.2–8.0s — the eyes return brighter, the power-smile deepening a millimetre — magnetic.
 FLUIDITY & WEIGHT NOTES: the stillness is the point; the blink is luxurious; all motion eases.
 FABRIC/HAIR/PROP PHYSICS: the blowout settles to stillness; the neon pulses with electrical rhythm; she's in a calm bubble while the city blooms behind.
 FOOTWORK & BODY FLOW: a still, grounded stand.
@@ -4146,18 +4146,18 @@ COLOUR GRADE: MAXIMUM VIVID — neon-blue, mirror-gold, crystal sparkle, vivid p
 TEXTURE & MICRO-DETAIL: neon-tube glow, crystal-facet sparkle, golden footprint-ripples, the blowout's gloss, coat-wool nap, wet-ground reflections.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~4s — walks away; the wake glows behind)
+### ANIMATION (this clip, full 8s — walks away; the wake glows behind)
 SHOT TYPE & ANGLE: low-angle full body, back pose; subject ~50% centre receding.
 CAMERA MOVEMENT (CHOREOGRAPHY): a static low hold, letting her walk away into the vivid city — one continuous shot.
 LENS: 28mm, f/3.2, low and wide.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.5s — confident receding stride, the blowout bouncing.
-- 1.5–2.8s — golden footprint-ripples spread from each step; a new pedestrian enters her radius and blooms with colour; a final streetlight morphs to a chandelier.
-- 2.8–4.0s — she walks on, not looking back — the wake fully glowing.
+- 0.0–3.0s — confident receding stride, the blowout bouncing.
+- 3.0–5.6s — golden footprint-ripples spread from each step; a new pedestrian enters her radius and blooms with colour; a final streetlight morphs to a chandelier.
+- 5.6–8.0s — she walks on, not looking back — the wake fully glowing.
 FLUIDITY & WEIGHT NOTES: the coat swings with walking momentum and real wool weight; the golden ripples have water-physics; neon growth follows architectural lines; all motion eases.
 FABRIC/HAIR/PROP PHYSICS: golden ripples trigger on each heel-impact; the blowout bounces; the coat hem swings; pedestrian colour-blooms sweep outward.
 FOOTWORK & BODY FLOW: a confident receding gait, weight rolling.
-MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE WAKE at 1.5–3.5s — triggered by her continuing footsteps, the transformation completes the block: golden footprint-ripples, a last streetlight-to-chandelier morph, another pedestrian blooming vivid — the city fully dressed up in her wake.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE WAKE at 3.0–7.0s — triggered by her continuing footsteps, the transformation completes the block: golden footprint-ripples, a last streetlight-to-chandelier morph, another pedestrian blooming vivid — the city fully dressed up in her wake.
 LIGHTING-IN-MOTION: the transformation at full vivid; all neon, crystal and mirror-gold blazing.
 DIEGETIC AUDIO: her receding heel-clicks; neon hum at full chorus; crystal-chandelier tinkles; mirror-puddle chimes; pedestrians gasping in wonder; a city now alive.
 MASTER TRACK: the bass-DROP and full orchestral-electronic hit — the cinematic hero moment.
@@ -4208,14 +4208,14 @@ COLOUR GRADE: VIVID — warm chandelier-gold, neon-blue, mirror-gold, the red co
 TEXTURE & MICRO-DETAIL: the blowout's gloss in the turn, neon-and-gold on the skin, ear-climber gleam, coat-wool nap, crystal sparkle behind.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~4s — the glance-back smirk + finger-wave)
+### ANIMATION (this clip, full 8s — the glance-back smirk + finger-wave)
 SHOT TYPE & ANGLE: eye-level medium, three-quarter back-turned glance; subject ~50% center-right.
 CAMERA MOVEMENT (CHOREOGRAPHY): a static hold letting the glance-back play — one continuous shot.
 LENS: 50mm, f/2.0, shallow.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.5s — she turns her head back over the shoulder toward the lens.
-- 1.5–2.6s — the conspirator's smirk arrives — one corner up, eyes catching the lens — and a tiny four-finger flutter-wave.
-- 2.6–4.0s — a quick playful wink, then she turns away again, walking on.
+- 0.0–3.0s — she turns her head back over the shoulder toward the lens.
+- 3.0–5.2s — the conspirator's smirk arrives — one corner up, eyes catching the lens — and a tiny four-finger flutter-wave.
+- 5.2–8.0s — a quick playful wink, then she turns away again, walking on.
 FLUIDITY & WEIGHT NOTES: the hair swings with the head-turn and settles; the coat shifts with the torso; the finger-wave is small and precise; all motion eases.
 FABRIC/HAIR/PROP PHYSICS: the blowout swings and resettles with the head-turn; the coat shifts with the rotation; the finger-wave flutters once, casually.
 FOOTWORK & BODY FLOW: a mid-step glance, weight rolling as she turns back forward.
@@ -4270,14 +4270,14 @@ COLOUR GRADE: DESATURATED GREY — grey concrete, dim lights, dull puddles; only
 TEXTURE & MICRO-DETAIL: wool-coat nap, patent-boot gloss, the blowout's bounce, dull wet-concrete, red-silk weave, cherry nails — matched.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, garish oversaturation, flat-blown highlights.
 
-### ANIMATION (this clip, ~4s — grey arrival; loop close)
+### ANIMATION (this clip, full 8s — grey arrival; loop close)
 SHOT TYPE & ANGLE: slight low-angle wide, front; subject ~40% dead-centre — matched to CLIP 1.
 CAMERA MOVEMENT (CHOREOGRAPHY): a static hold matching the CLIP-1 establishing framing.
 LENS: 35mm, f/4 — matched.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.5s — the city drains back to grey (the wake receding) as a fresh taxi pulls up; she steps onto the curb.
-- 1.5–2.5s — she adjusts her collar, squares her shoulders.
-- 2.5–4.0s — chin lifting, the almost-smile firming — the exact CLIP-1 opening pose, ready to step.
+- 0.0–3.0s — the city drains back to grey (the wake receding) as a fresh taxi pulls up; she steps onto the curb.
+- 3.0–5.0s — she adjusts her collar, squares her shoulders.
+- 5.0–8.0s — chin lifting, the almost-smile firming — the exact CLIP-1 opening pose, ready to step.
 FLUIDITY & WEIGHT NOTES: the grey-drain mirrors the dress-up in reverse; the arrival matches CLIP 1; everything returns to the opening.
 FABRIC/HAIR/PROP PHYSICS: the colour drains backward along her path (rewind-feel); the coat and blowout match the opening swing; the taillights fade.
 FOOTWORK & BODY FLOW: a step onto the curb, weight rising — the CLIP-1 arrival.
@@ -4354,7 +4354,7 @@ Mood: INTIMATE CURIOSITY — delicate, tender wonder (the controlled-magic one i
 - AGENCY RELATIONSHIP (the pillar's key differentiator): she fully CONTROLS it — releases and recalls a miniature world at will.
 - DIFFERS FROM PILLAR-MATES BY: it is the SMALLEST-SCALE, most INTIMATE object reel; she holds a whole world in her palm.
 Grade: VIVID twilight — saturated lavender dress + magenta bougainvillea + warm amber Edison bulbs + golden butterfly-glow + green-gold aurora + violet-peach sky; rich blacks, full mid-tone.
-Duration: ~26 seconds · 6 clips (angle-cut chain).
+Duration: 48.000 seconds total — 6 clips × 8s each (VEO renders one 8-second take per clip); the soundtrack is built to exactly 48.000s and loops seamlessly.
 Voice: SILENT — diegetic rooftop + an ethereal music-box-and-orchestra score.
 Identity safety: AIRA adult; wardrobe modest; mood wondrous and elegant, never sexualized.
 State chain (angle-cut): CLIP 1 wide front [opens clasp → ★ butterflies emerge] → CUT → CLIP 2 close-up [open locket glowing, butterflies rising] → CUT → CLIP 3 medium [swarm expands, butterfly lands, aurora forms] → CUT → CLIP 4 back/OTS wide [full magical world around her] → CUT → CLIP 5 profile [closes locket, magic streams back] → CUT → CLIP 6 wide front [locket closed at sternum, knowing hook = CLIP 1, loop].
@@ -4386,18 +4386,18 @@ COLOUR GRADE: VIVID twilight — saturated lavender dress, magenta bougainvillea
 TEXTURE & MICRO-DETAIL: silk-dress sheen, the locket's engraved gold, jasmine-petal detail, amber-honey wave strands, Edison-filament glow, mauve nail gloss.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~5s — ★ opening the clasp releases the butterflies)
+### ANIMATION (this clip, full 8s — ★ opening the clasp releases the butterflies)
 SHOT TYPE & ANGLE: eye-level wide, front-favouring three-quarter; subject ~45% left-third.
 CAMERA MOVEMENT (CHOREOGRAPHY): a slow push-in toward her and the locket — one continuous shot.
 LENS: 35mm, f/4, deep.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.5s — she breathes in, eyes lowering to the locket, curious.
-- 1.5–2.5s — ★ TRIGGER: her thumb flicks the clasp — a tiny gold glint as it releases.
-- 2.5–5.0s — golden light seeps from the opening locket and the first glowing butterflies emerge, rising in a slow spiral; her lips part in a soft "oh" of wonder.
+- 0.0–2.4s — she breathes in, eyes lowering to the locket, curious.
+- 2.4–4.0s — ★ TRIGGER: her thumb flicks the clasp — a tiny gold glint as it releases.
+- 4.0–8.0s — golden light seeps from the opening locket and the first glowing butterflies emerge, rising in a slow spiral; her lips part in a soft "oh" of wonder.
 FLUIDITY & WEIGHT NOTES: the clasp-flick is precise; the wonder blooms on her face; all motion eases.
 FABRIC/HAIR/PROP PHYSICS: the locket clasp springs with a micro-bounce; the silk and waves sway in the breeze; the butterflies emerge near-weightless with individual wing-beat cadence, spiralling up with slight air-resistance.
 FOOTWORK & BODY FLOW: a relaxed contrapposto, a faint sway as she opens the locket.
-MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE RELEASE at 1.5–4.0s — triggered by the clasp opening, a golden glow seeps out and a burst of thumbnail-sized glowing golden butterflies emerges, rising in a slow spiral between the locket and her face; the living world beginning to spill out.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE RELEASE at 2.4–6.4s — triggered by the clasp opening, a golden glow seeps out and a burst of thumbnail-sized glowing golden butterflies emerges, rising in a slow spiral between the locket and her face; the living world beginning to spill out.
 LIGHTING-IN-MOTION: a warm golden glow blooms from the locket, under-lighting her chin and jaw; each butterfly adds a point of warm light.
 DIEGETIC AUDIO: a rooftop breeze; distant city hum far below; jasmine rustle; the tiny clasp click (sharp, metallic, satisfying); Edison-bulb buzz; her anticipatory inhale; a soft magical chime as the butterflies emerge.
 MASTER TRACK: a delicate celeste/music-box motif (the "locket theme" — 4 recurring notes) alone, with a warm cello entering on the release.
@@ -4448,14 +4448,14 @@ COLOUR GRADE: VIVID — warm gold locket-glow + lavender + amber hair + violet b
 TEXTURE & MICRO-DETAIL: the locket's engraved gold and tiny shimmering interior, butterfly wing-detail, real pores in the warm glow, lash separation, amber-honey strands.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~4s — wonder blooms as butterflies rise)
+### ANIMATION (this clip, full 8s — wonder blooms as butterflies rise)
 SHOT TYPE & ANGLE: eye-level close-up; face ~70% with the locket lower.
 CAMERA MOVEMENT (CHOREOGRAPHY): a static intimate hold, letting the magic emerge — one continuous shot.
 LENS: 85mm, f/2.0, shallow.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.5s — she holds the locket fully open, thumbs pressing the halves apart, watching.
-- 1.5–2.8s — the glow hits her face: eyes widen, pupils dilate.
-- 2.8–4.0s — the slow delighted smile arrives; a savouring blink, a gentle gasp-exhale through parted lips.
+- 0.0–3.0s — she holds the locket fully open, thumbs pressing the halves apart, watching.
+- 3.0–5.6s — the glow hits her face: eyes widen, pupils dilate.
+- 5.6–8.0s — the slow delighted smile arrives; a savouring blink, a gentle gasp-exhale through parted lips.
 FLUIDITY & WEIGHT NOTES: eyes lead, mouth follows, the blink punctuates; her thumbs hold the locket with perfect pressure; all motion eases.
 FABRIC/HAIR/PROP PHYSICS: butterflies emerge with believable near-weightless mass and individual wing-beats, spiralling upward past her face with slight air-drift; the chain tension is real; they don't touch her hands.
 FOOTWORK & BODY FLOW: a held, intimate stillness, head lifting with the wonder.
@@ -4510,18 +4510,18 @@ COLOUR GRADE: VIVID — golden butterfly-glow + lavender + violet sky + magenta 
 TEXTURE & MICRO-DETAIL: butterfly wing-detail and tiny legs on her fingertip, aurora shimmer, silk sheen, jasmine with landed butterflies, amber-honey strands.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~4s — ★ swarm expands, butterfly lands, aurora forms)
+### ANIMATION (this clip, full 8s — ★ swarm expands, butterfly lands, aurora forms)
 SHOT TYPE & ANGLE: slight low-angle medium, three-quarter; subject ~50% centre-right.
 CAMERA MOVEMENT (CHOREOGRAPHY): a slow crane-up while tracking, following the swarm's expansion — one continuous shot.
 LENS: 50mm, f/2.8, shallow.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.5s — she releases the locket to hang free and lifts her right hand, extending one finger.
-- 1.5–2.8s — a butterfly alights on her fingertip; she holds perfectly still for it.
-- 2.8–4.0s — she watches it with tender focus as the swarm expands and a green-gold aurora blooms above.
+- 0.0–3.0s — she releases the locket to hang free and lifts her right hand, extending one finger.
+- 3.0–5.6s — a butterfly alights on her fingertip; she holds perfectly still for it.
+- 5.6–8.0s — she watches it with tender focus as the swarm expands and a green-gold aurora blooms above.
 FLUIDITY & WEIGHT NOTES: the hand-lift leads; she stills for the landing; the breath holds then releases; all motion eases.
 FABRIC/HAIR/PROP PHYSICS: each butterfly has independent flight physics (wing-beat, drift, hover, land); the landing butterfly's near-zero weight with tiny leg-contact on skin; the aurora pulses with slow plasma drift; her hair lifts faintly in the swarm's updraft.
 FOOTWORK & BODY FLOW: a gentle stillness, weight settled.
-MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE EXPANSION at 0.0–4.0s — the swarm expands into the garden (butterflies landing on jasmine, circling Edison bulbs), one settling on her fingertip, and a secondary magic — a green-gold pocket aurora — forms above the swarm; the living world growing.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE EXPANSION at 0.0–8.0s — the swarm expands into the garden (butterflies landing on jasmine, circling Edison bulbs), one settling on her fingertip, and a secondary magic — a green-gold pocket aurora — forms above the swarm; the living world growing.
 LIGHTING-IN-MOTION: the aurora adds a cool green-gold wash from above, mixing with the warm butterflies — dual-tone magical light.
 DIEGETIC AUDIO: dozens of butterfly wings (a soft collective rustle); the aurora's quiet electrical hum; one butterfly's landing (a tiny "tap"); Edison buzz; distant city; her held breath then gentle exhale.
 MASTER TRACK: full swell — celeste, cello, harp and a breathy pad; the magic at its most expansive.
@@ -4572,14 +4572,14 @@ COLOUR GRADE: MAXIMUM VIVID — gold + lavender + green-aurora + magenta bougain
 TEXTURE & MICRO-DETAIL: butterfly-light on every surface, aurora plasma detail, tiny growing flowers, silk-back sheen, amber-honey strands, the shoulder-butterfly.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~4s — full magical scope; she receives it)
+### ANIMATION (this clip, full 8s — full magical scope; she receives it)
 SHOT TYPE & ANGLE: eye-level wide, back/over-the-shoulder; subject ~45% centre-left.
 CAMERA MOVEMENT (CHOREOGRAPHY): a slow pull-back widening to show the full scope — one continuous shot.
 LENS: 35mm, f/3.5, wide.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.5s — she opens her arms slightly and tilts her head up toward the aurora.
-- 1.5–2.8s — she holds — the still centre — as a butterfly perches on her shoulder.
-- 2.8–4.0s — a visible inhale lifts her whole back; the aurora pulses brighter in answer.
+- 0.0–3.0s — she opens her arms slightly and tilts her head up toward the aurora.
+- 3.0–5.6s — she holds — the still centre — as a butterfly perches on her shoulder.
+- 5.6–8.0s — a visible inhale lifts her whole back; the aurora pulses brighter in answer.
 FLUIDITY & WEIGHT NOTES: the arm-opening is relaxed and receiving (not forced); the head-tilt leads; all motion eases.
 FABRIC/HAIR/PROP PHYSICS: aurora plasma drifts with slow electromagnetic physics; butterflies orbit with centripetal lean; tiny flowers bloom with organic time-lapse; the silk and waves respond to the faint updraft.
 FOOTWORK & BODY FLOW: a grounded, open stance, weight settled.
@@ -4634,18 +4634,18 @@ COLOUR GRADE: VIVID but elegiac — golden trails + lavender + fading green-auro
 TEXTURE & MICRO-DETAIL: returning-butterfly trails, the locket's engraved gold, fine lash detail, gold-earring gleam, amber-honey strands.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~4s — ★ closing the locket recalls the world)
+### ANIMATION (this clip, full 8s — ★ closing the locket recalls the world)
 SHOT TYPE & ANGLE: slight low-angle medium close-up profile; subject ~55% left-of-centre.
 CAMERA MOVEMENT (CHOREOGRAPHY): a static hold, the convergence playing — one continuous shot.
 LENS: 85mm, f/2.0, shallow.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.5s — she slowly starts closing the locket, fingertips pressing the halves together.
-- 1.5–2.8s — ★ TRIGGER: all butterflies stream back in a beautiful reverse spiral, threading into the narrowing gap; the aurora fades.
-- 2.8–4.0s — the locket closes with a final soft click; a slow blink of satisfaction, a tender goodbye smile.
+- 0.0–3.0s — she slowly starts closing the locket, fingertips pressing the halves together.
+- 3.0–5.6s — ★ TRIGGER: all butterflies stream back in a beautiful reverse spiral, threading into the narrowing gap; the aurora fades.
+- 5.6–8.0s — the locket closes with a final soft click; a slow blink of satisfaction, a tender goodbye smile.
 FLUIDITY & WEIGHT NOTES: the close is gentle and deliberate; she times it to catch the last butterfly; all motion eases.
 FABRIC/HAIR/PROP PHYSICS: butterflies compress and accelerate toward the locket with correct convergence physics (beautiful, like water to a drain); the aurora dims realistically; the locket clasp has real hinge resistance.
 FOOTWORK & BODY FLOW: an upright, intimate stillness.
-MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE RECALL at 1.5–3.0s — triggered by closing the locket, the entire released world streams back: butterflies spiral in, the aurora fades, the micro-garden dims, threading into the locket as it clicks shut — the magic recalled.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE RECALL at 3.0–6.0s — triggered by closing the locket, the entire released world streams back: butterflies spiral in, the aurora fades, the micro-garden dims, threading into the locket as it clicks shut — the magic recalled.
 LIGHTING-IN-MOTION: the golden glow fades as butterflies return; her profile returns to Edison-and-twilight light by the end.
 DIEGETIC AUDIO: the reverse-stream whoosh (soft, musical, descending); each butterfly re-entering (tiny glass-bell notes); the aurora hum fading; the final locket CLICK (satisfying, decisive, gold-on-gold); Edison buzz returning; a soft sigh of contentment.
 MASTER TRACK: the celeste "locket theme" returns gently as the magic recalls — the motif closing the episode.
@@ -4696,14 +4696,14 @@ COLOUR GRADE: VIVID twilight — lavender dress, magenta bougainvillea, warm amb
 TEXTURE & MICRO-DETAIL: silk sheen, engraved-gold locket, jasmine petals, amber-honey strands, Edison-filament glow, mauve nails — matched.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~4s — the hook; loop close)
+### ANIMATION (this clip, full 8s — the hook; loop close)
 SHOT TYPE & ANGLE: eye-level wide, front-favouring three-quarter; subject ~45% left-third — matched to CLIP 1.
 CAMERA MOVEMENT (CHOREOGRAPHY): a gentle settle to the exact CLIP-1 establishing framing.
 LENS: 35mm, f/4 — matched.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.5s — she lowers her hand from the closed locket and looks up at the lens with the knowing hook-smile.
-- 1.5–2.6s — the locket gives one last faint warm pulse (a heartbeat) then goes dark; she glances away — the hook.
-- 2.6–4.0s — her hand rises back toward the locket, eyes lowering — settling into the exact CLIP-1 opening pose.
+- 0.0–3.0s — she lowers her hand from the closed locket and looks up at the lens with the knowing hook-smile.
+- 3.0–5.2s — the locket gives one last faint warm pulse (a heartbeat) then goes dark; she glances away — the hook.
+- 5.2–8.0s — her hand rises back toward the locket, eyes lowering — settling into the exact CLIP-1 opening pose.
 FLUIDITY & WEIGHT NOTES: the knowing look is conspiratorial; the hand-rise returns to the opening; everything eases to rest.
 FABRIC/HAIR/PROP PHYSICS: the locket-pulse is a single bioluminescent-style flash and fade; the silk and waves settle to the opening drape.
 FOOTWORK & BODY FLOW: a relaxed contrapposto returning to the CLIP-1 stance.
@@ -4777,7 +4777,7 @@ Mood: COMMANDING INTRIGUE — dark-into-blazing-warm power (the dramatic one in 
 - AGENCY RELATIONSHIP (the pillar's key differentiator): she COMMANDS / FORCES a portal open by will — assertive, not delicate.
 - DIFFERS FROM PILLAR-MATES BY: it is the DARK, DRAMATIC, BIG-PORTAL one — power and contrast, not intimacy or play.
 Grade: VIVID contrast — moody warm-Edison-gold + cool rain-blue loft, BLAZING golden + turquoise-and-white Mediterranean through the portal; rich blacks, glossy speculars, full mid-tone.
-Duration: ~26 seconds · 6 clips (angle-cut chain).
+Duration: 48.000 seconds total — 6 clips × 8s each (VEO renders one 8-second take per clip); the soundtrack is built to exactly 48.000s and loops seamlessly.
 Voice: SILENT — diegetic loft/portal + a dark-to-warm cinematic score.
 Identity safety: AIRA adult; wardrobe modest; mood powerful and elegant, never sexualized.
 State chain (angle-cut): CLIP 1 wide [loft, raises key → ★ turns → portal CRACKS open] → CUT → CLIP 2 medium [portal blazing, wind blasts] → CUT → CLIP 3 over-shoulder [full Mediterranean portal, holds the door open] → CUT → CLIP 4 close-up [★ turns key back, portal narrows] → CUT → CLIP 5 medium [portal SEALS, key to fist] → CUT → CLIP 6 wide [key at side, knowing hook = CLIP 1, loop].
@@ -4809,18 +4809,18 @@ COLOUR GRADE: VIVID-moody — warm Edison gold in the pool + cool blue rain-ligh
 TEXTURE & MICRO-DETAIL: ribbed-knit texture, aged-brass key engraving, concrete grain, rain-streaked glass, the ponytail's razor sheen, silver thumb-ring, espresso nail gloss.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~5s — ★ turning the key cracks open the portal)
+### ANIMATION (this clip, full 8s — ★ turning the key cracks open the portal)
 SHOT TYPE & ANGLE: eye-level wide, three-quarter; subject ~45% right-third.
 CAMERA MOVEMENT (CHOREOGRAPHY): a slow push-in toward her and the empty portal-air — one continuous shot.
 LENS: 35mm, f/4, deep.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.5s — she breathes in, shoulders lifting, then raises the key into the air in front of her — a slow deliberate lift.
-- 1.5–2.5s — ★ TRIGGER: she turns the key in the air (a firm wrist-rotation, as if in an invisible lock).
-- 2.5–5.0s — the air CRACKS — a vertical seam of golden light splits open from the key-teeth and begins to widen, warm wind beginning to blow.
+- 0.0–2.4s — she breathes in, shoulders lifting, then raises the key into the air in front of her — a slow deliberate lift.
+- 2.4–4.0s — ★ TRIGGER: she turns the key in the air (a firm wrist-rotation, as if in an invisible lock).
+- 4.0–8.0s — the air CRACKS — a vertical seam of golden light splits open from the key-teeth and begins to widen, warm wind beginning to blow.
 FLUIDITY & WEIGHT NOTES: the key has real brass weight (she lifts with arm-effort); the wrist-turn meets believable invisible-lock resistance; all motion eases.
 FABRIC/HAIR/PROP PHYSICS: the key catches the Edison light as it rises; the crack opens with material-tearing light-physics; the first warm wind presses her ponytail and turtleneck.
 FOOTWORK & BODY FLOW: a grounded stance, weight braced as she turns the key.
-MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE CRACK at 1.5–4.0s — triggered by the key-turn, a vertical seam of blazing golden light splits the dark air from the key-teeth outward, widening into a portal; through the widening crack, a sliver of sun-drenched Mediterranean coast appears (turquoise sea, white buildings, bougainvillea); warm wind blasts through into the cold loft.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE CRACK at 2.4–6.4s — triggered by the key-turn, a vertical seam of blazing golden light splits the dark air from the key-teeth outward, widening into a portal; through the widening crack, a sliver of sun-drenched Mediterranean coast appears (turquoise sea, white buildings, bougainvillea); warm wind blasts through into the cold loft.
 LIGHTING-IN-MOTION: the dark loft is invaded by a blazing warm golden portal-light from the crack, flooding her face and the concrete.
 DIEGETIC AUDIO: rain on the windows; a distant thunder-roll; the vast concrete room-tone; Edison buzz; the key's metal warming (a faint tonal hum); then the AIR CRACK (a visceral, deep, resonant tearing sound) and a warm wind-whoosh.
 MASTER TRACK: a deep sustained drone + rain-texture; sharp metallic percussive hits on the key-turn.
@@ -4871,18 +4871,18 @@ COLOUR GRADE: BLAZING VIVID — golden portal-light + turquoise-and-white Medite
 TEXTURE & MICRO-DETAIL: the crack's light-tearing edges, salt-mist particles, a tumbling petal, wind-streamed ponytail strands, brass-key engraving, turtleneck weave.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~4s — portal blazes open, wind blasts through)
+### ANIMATION (this clip, full 8s — portal blazes open, wind blasts through)
 SHOT TYPE & ANGLE: slight low-angle medium, front; subject ~55% centre.
 CAMERA MOVEMENT (CHOREOGRAPHY): a static low hold — the portal does the work — one continuous shot.
 LENS: 50mm, f/2.8, slight low.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.5s — she holds the turned key as the crack blasts wider.
-- 1.5–2.8s — warm wind blasts through, streaming her hair back; a bougainvillea petal and salt-mist tumble in.
-- 2.8–4.0s — her exhilaration settles into a fierce grin against the wind.
+- 0.0–3.0s — she holds the turned key as the crack blasts wider.
+- 3.0–5.6s — warm wind blasts through, streaming her hair back; a bougainvillea petal and salt-mist tumble in.
+- 5.6–8.0s — her exhilaration settles into a fierce grin against the wind.
 FLUIDITY & WEIGHT NOTES: the key stays locked in her firm grip; the wind has correct directional force (hair, turtleneck press back); all motion eases except the blast.
 FABRIC/HAIR/PROP PHYSICS: the crack widens with light-tearing physics; the wind-blast streams her ponytail straight back and presses the turtleneck; the petal tumbles with real air-resistance; the Edison bulb sways in the draft.
 FOOTWORK & BODY FLOW: braced, weight forward against the wind.
-MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE BLAST at 0.0–3.0s — the golden crack widens to a 2-foot portal, warm Mediterranean wind blasting through carrying a petal and salt-mist; the other world's light flooding the loft.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE BLAST at 0.0–6.0s — the golden crack widens to a 2-foot portal, warm Mediterranean wind blasting through carrying a petal and salt-mist; the other world's light flooding the loft.
 LIGHTING-IN-MOTION: the golden blast ramps from crack-thin to flooding; her whole face and chest progressively illuminated; a natural lens-bloom.
 DIEGETIC AUDIO: the AIR CRACK resonating; the warm wind-whoosh; ocean sounds (waves, gulls) leaking from the other world; a petal passing the mic; her gasp against the wind.
 MASTER TRACK: full warm Mediterranean music (acoustic guitar + hand-drum + bouzouki) BLASTS in simultaneously with the portal — like a door opening on a sunny party.
@@ -4933,14 +4933,14 @@ COLOUR GRADE: MAXIMUM CONTRAST — the portal in full saturated Mediterranean co
 TEXTURE & MICRO-DETAIL: the portal-world's white-washed walls and terracotta roofs, drifting petals, salt-mist, ponytail strands, portal-edge crackle, boundary turbulence.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~4s — full portal world; she begins the reverse-turn)
+### ANIMATION (this clip, full 8s — full portal world; she begins the reverse-turn)
 SHOT TYPE & ANGLE: eye-level three-quarter body over-the-shoulder; her back ~45% lower-left, portal centre-right.
 CAMERA MOVEMENT (CHOREOGRAPHY): a gentle arc around her right shoulder, widening the portal view — one continuous shot.
 LENS: 40mm, f/2.8, shallow.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.5s — she leans slightly into the warm wind, savouring the other world.
-- 1.5–2.8s — the Mediterranean is fully alive — waves crash, a boat sails, bougainvillea sways; petals drift into the loft.
-- 2.8–4.0s — she begins turning the key BACK — closing time — a breath of reluctance.
+- 0.0–3.0s — she leans slightly into the warm wind, savouring the other world.
+- 3.0–5.6s — the Mediterranean is fully alive — waves crash, a boat sails, bougainvillea sways; petals drift into the loft.
+- 5.6–8.0s — she begins turning the key BACK — closing time — a breath of reluctance.
 FLUIDITY & WEIGHT NOTES: she savours, then the reverse-turn begins against resistance; all motion eases.
 FABRIC/HAIR/PROP PHYSICS: two weather systems collide at the portal-edge (warm vs cool air, visible turbulence-shimmer); her hair and clothes respond to the warm directional wind; the portal-edges crackle with contained energy.
 FOOTWORK & BODY FLOW: braced, weight forward, then a subtle shift as the reverse-turn begins.
@@ -4995,18 +4995,18 @@ COLOUR GRADE: TRANSITIONAL VIVID — the blazing gold fading, cool rain-blue ret
 TEXTURE & MICRO-DETAIL: the narrowing seam's light-edge, settling ponytail strands, a last drifting petal, brass-key engraving, real skin texture in the dual light.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~4s — ★ reverse-turn narrows the portal)
+### ANIMATION (this clip, full 8s — ★ reverse-turn narrows the portal)
 SHOT TYPE & ANGLE: eye-level close-up; face ~70% centre-right with the key-hand.
 CAMERA MOVEMENT (CHOREOGRAPHY): an imperceptible push-in — one continuous shot.
 LENS: 85mm, f/2.0, shallow.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.5s — the wrist completes the reverse-turn, the key returning to neutral.
-- 1.5–2.8s — ★ TRIGGER: the portal-seam narrows to a hair-thin line as the key straightens.
-- 2.8–4.0s — she draws the key back toward herself, a slow resolved blink as the light drains.
+- 0.0–3.0s — the wrist completes the reverse-turn, the key returning to neutral.
+- 3.0–5.6s — ★ TRIGGER: the portal-seam narrows to a hair-thin line as the key straightens.
+- 5.6–8.0s — she draws the key back toward herself, a slow resolved blink as the light drains.
 FLUIDITY & WEIGHT NOTES: the reverse-turn is precise and final; the key draws back deliberately; all motion eases.
 FABRIC/HAIR/PROP PHYSICS: the seam narrows with light-healing physics; the wind dies and the ponytail settles; a last petal drifts down.
 FOOTWORK & BODY FLOW: shoulders settling as the wind dies.
-MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE NARROWING at 1.5–3.5s — triggered by the reverse-turn, the portal-seam narrows from a wide window to a hair-thin golden line; the Mediterranean visible only as a thin slice now; the dark loft reasserting.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE NARROWING at 3.0–7.0s — triggered by the reverse-turn, the portal-seam narrows from a wide window to a hair-thin golden line; the Mediterranean visible only as a thin slice now; the dark loft reasserting.
 LIGHTING-IN-MOTION: the fading portal-light as a diminishing warm key; shadow returning from the right; the warm-cool split shifting cooler.
 DIEGETIC AUDIO: the Mediterranean soundscape muffling as the seam narrows; the key GROANING as it turns back; a tonal descending hum; rain reasserting; her steady breath.
 MASTER TRACK: the Mediterranean music fades as the portal narrows; the dark drone reasserting.
@@ -5057,18 +5057,18 @@ COLOUR GRADE: VIVID-moody — the seal-flash bright, then warm Edison gold + coo
 TEXTURE & MICRO-DETAIL: the seal-flash bloom, the air healing seamlessly, the brass key warm in her fist, turtleneck weave, ponytail sheen, espresso nails.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~4s — ★ portal SEALS; key to fist)
+### ANIMATION (this clip, full 8s — ★ portal SEALS; key to fist)
 SHOT TYPE & ANGLE: slight low-angle medium, three-quarter; subject ~55% centre.
 CAMERA MOVEMENT (CHOREOGRAPHY): a static hold, the seal playing — one continuous shot.
 LENS: 50mm, f/2.8, slight low.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.5s — she draws the key back toward herself, away from the sealing air.
-- 1.5–2.5s — ★ TRIGGER: the seam narrows to a hair, flashes brilliant white, then SEALS — the air heals without a trace.
-- 2.5–4.0s — she closes her fingers around the warm key, a satisfied exhale and knowing half-smile.
+- 0.0–3.0s — she draws the key back toward herself, away from the sealing air.
+- 3.0–5.0s — ★ TRIGGER: the seam narrows to a hair, flashes brilliant white, then SEALS — the air heals without a trace.
+- 5.0–8.0s — she closes her fingers around the warm key, a satisfied exhale and knowing half-smile.
 FLUIDITY & WEIGHT NOTES: the draw-back is deliberate; the fist forms finger-by-finger (pinky first); all motion eases except the seal-flash.
 FABRIC/HAIR/PROP PHYSICS: the seam closes with material-healing physics (like skin closing); the final flash is a contained burst; the air stills instantly once sealed; the ponytail settles to rest; the key warm in her palm.
 FOOTWORK & BODY FLOW: a grounded settle, the key drawn to her chest.
-MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE SEAL at 1.5–2.5s — triggered by the key reaching neutral and drawing back, the portal-seam flashes white and seals, the loft air healing without a trace; the magic closed.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE SEAL at 3.0–5.0s — triggered by the key reaching neutral and drawing back, the portal-seam flashes white and seals, the loft air healing without a trace; the magic closed.
 LIGHTING-IN-MOTION: the golden light vanishes in the seal-flash; the Edison bulb reasserts as the only warm source; her face transitions from portal-lit to Edison-lit.
 DIEGETIC AUDIO: the portal narrowing (a tonal descending hum); the seal FLASH (a deep resonant "THOOM" felt in the chest); instant silence after; then rain, Edison buzz and room-tone return; her satisfied exhale.
 MASTER TRACK: the seal "THOOM" kills the music for one beat of silence; then the dark drone returns.
@@ -5119,14 +5119,14 @@ COLOUR GRADE: VIVID-moody — warm Edison gold + cool rain-blue + deep olive + b
 TEXTURE & MICRO-DETAIL: ribbed knit, aged-brass engraving, concrete grain, rain-streaked glass, ponytail sheen, silver ring, espresso nails — matched.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~4s — the hook; loop close)
+### ANIMATION (this clip, full 8s — the hook; loop close)
 SHOT TYPE & ANGLE: eye-level wide, three-quarter; subject ~45% right-third — matched to CLIP 1.
 CAMERA MOVEMENT (CHOREOGRAPHY): a gentle settle to the exact CLIP-1 establishing framing.
 LENS: 35mm, f/4 — matched.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.5s — she opens her fist, showing the key on her palm, and gives the lens a knowing half-smile and raised brow (the hook).
-- 1.5–2.6s — she lowers the key to her side, eyes leveling, the focused intention returning.
-- 2.6–4.0s — she settles into the exact CLIP-1 opening stance, key held loosely at her side.
+- 0.0–3.0s — she opens her fist, showing the key on her palm, and gives the lens a knowing half-smile and raised brow (the hook).
+- 3.0–5.2s — she lowers the key to her side, eyes leveling, the focused intention returning.
+- 5.2–8.0s — she settles into the exact CLIP-1 opening stance, key held loosely at her side.
 FLUIDITY & WEIGHT NOTES: the fist-open is deliberate; the hook-look is conspiratorial; everything returns to the opening.
 FABRIC/HAIR/PROP PHYSICS: the key sits with correct brass weight on her palm then in the loose grip; the ponytail settles; the turtleneck at rest.
 FOOTWORK & BODY FLOW: a grounded three-quarter returning to the CLIP-1 stance.
@@ -5200,7 +5200,7 @@ Mood: MYSTERY / KNOWING — suspenseful, smirking, she-already-knows (the suspen
 - AGENCY RELATIONSHIP (the pillar's key differentiator): she RECEIVES (the object shows HER something) — she is acted upon, not acting.
 - DIFFERS FROM PILLAR-MATES BY: it is the SUSPENSE one where she RECEIVES a vision — passive and psychological, not a spectacle she summons.
 Grade: VIVID boudoir — saturated burgundy + emerald + gold gilt + ivory candle-gold + wine nails; the bright tomorrow-vision a contrasting daylight pop inside the mirror; rich blacks, full mid-tone.
-Duration: ~22 seconds · 5 clips (angle-cut chain).
+Duration: 40.000 seconds total — 5 clips × 8s each (VEO renders one 8-second take per clip); the soundtrack is built to exactly 40.000s and loops seamlessly.
 Voice: SPOKEN — one knowing line as the vision fades; otherwise diegetic + score.
 Identity safety: AIRA adult; wardrobe modest; mood mysterious and elegant, never sexualized.
 State chain (angle-cut): CLIP 1 three-quarter seated [lifts mirror → ★ shows TOMORROW] → CUT → CLIP 2 extreme macro [the mirror-surface tomorrow-scene plays] → CUT → CLIP 3 close-up [knowing smirk, shows it to lens, ★ SPOKEN, vision FADES] → CUT → CLIP 4 medium [lowers mirror, hook look] → CUT → CLIP 5 three-quarter seated [reset = CLIP 1, loop].
@@ -5232,18 +5232,18 @@ COLOUR GRADE: VIVID boudoir — saturated burgundy + emerald velvet + gold gilt 
 TEXTURE & MICRO-DETAIL: crushed-velvet nap, sheer-mesh weave, gilded-mirror engraving, candle-flame detail, the topknot's sculpted sheen, ruby-pendant glint, wine nail gloss.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~5s — ★ lifting the mirror shows tomorrow)
+### ANIMATION (this clip, full 8s — ★ lifting the mirror shows tomorrow)
 SHOT TYPE & ANGLE: eye-level three-quarter body; subject ~50% centre.
 CAMERA MOVEMENT (CHOREOGRAPHY): a slow push-in toward her and the mirror — one continuous shot.
 LENS: 40mm, f/2.8, shallow.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.5s — she breathes, eyes on the mirror in her lap, curious.
-- 1.5–2.5s — ★ TRIGGER: she lifts the mirror from her lap and angles it toward her face/the lens to look.
-- 2.5–5.0s — instead of her reflection, the mirror's surface fills with a vivid sunlit TOMORROW-scene; her expression shifts to intrigued surprise.
+- 0.0–2.4s — she breathes, eyes on the mirror in her lap, curious.
+- 2.4–4.0s — ★ TRIGGER: she lifts the mirror from her lap and angles it toward her face/the lens to look.
+- 4.0–8.0s — instead of her reflection, the mirror's surface fills with a vivid sunlit TOMORROW-scene; her expression shifts to intrigued surprise.
 FLUIDITY & WEIGHT NOTES: the mirror lifts with real gilded-metal weight through the wrist; the surprise blooms on her face; all motion eases.
 FABRIC/HAIR/PROP PHYSICS: candle flames respond to her arm's micro-air-current as the mirror tilts; the velvet shifts; the mirror catches a candle and throws a small light-sweep on the ceiling.
 FOOTWORK & BODY FLOW: a graceful seated lift, weight settled.
-MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE VISION at 2.5–4.5s — triggered by lifting the mirror to look, the surface does not reflect her but instead shows a living scene from TOMORROW: a sun-drenched morning market, a tomorrow-version of Aira (white linen, a straw hat) laughing and reaching for a peach, the market bustling around her — a bright daylight window inside the dark boudoir.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE VISION at 4.0–7.2s — triggered by lifting the mirror to look, the surface does not reflect her but instead shows a living scene from TOMORROW: a sun-drenched morning market, a tomorrow-version of Aira (white linen, a straw hat) laughing and reaching for a peach, the market bustling around her — a bright daylight window inside the dark boudoir.
 LIGHTING-IN-MOTION: the mirror-scene's internal sunlight casts a faint warm-bright bounce up onto her chin amid the candle-gold.
 DIEGETIC AUDIO: candle-wax drip; the soft mirror-lift (a weighted metallic sound); her inhale; then the tomorrow-scene's own muffled sound (distant market chatter, laughter, a guitar) layering under the boudoir candle-crackle.
 MASTER TRACK: a solo cello plays the languid "mirror theme"; a bright acoustic motif (the tomorrow-theme) enters softly inside the vision.
@@ -5294,14 +5294,14 @@ COLOUR GRADE: VIVID CONTRAST — the tomorrow-scene bright and saturated (warm m
 TEXTURE & MICRO-DETAIL: the mirror's glassy surface, the tomorrow-scene's micro-detail (peach fuzz, market textures), gilded-frame engraving, candle reflection, wine-nail gloss.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~4s — the tomorrow-scene plays inside the mirror)
+### ANIMATION (this clip, full 8s — the tomorrow-scene plays inside the mirror)
 SHOT TYPE & ANGLE: angled-down extreme macro on the mirror; surface ~80% of frame.
 CAMERA MOVEMENT (CHOREOGRAPHY): a static macro hold — one continuous shot.
 LENS: 90mm macro, f/2.8, razor-shallow.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.5s — she holds the mirror steady, her real chin at frame-top.
-- 1.5–2.6s — INSIDE the mirror: tomorrow-Aira laughs, reaches for a peach, the market bustles, sunlight dances — a living 2-second window into a future moment.
-- 2.6–4.0s — her real lips curl into a slow smile of recognition above.
+- 0.0–3.0s — she holds the mirror steady, her real chin at frame-top.
+- 3.0–5.2s — INSIDE the mirror: tomorrow-Aira laughs, reaches for a peach, the market bustles, sunlight dances — a living 2-second window into a future moment.
+- 5.2–8.0s — her real lips curl into a slow smile of recognition above.
 FLUIDITY & WEIGHT NOTES: the mirror stays locked-steady (no shake); the tomorrow-scene moves with its own life; her recognition-smile eases in.
 FABRIC/HAIR/PROP PHYSICS: the mirror-scene obeys its own physics (market motion, tomorrow-hair in a tomorrow-breeze, fabric movement) — a self-contained world; the real boudoir stays candlelit and still.
 FOOTWORK & BODY FLOW: a steady seated hold (hands only in frame).
@@ -5356,18 +5356,18 @@ COLOUR GRADE: VIVID boudoir — warm skin, burgundy, gold gilt, fading mirror-br
 TEXTURE & MICRO-DETAIL: the dissolving mirror-image (watercolour-fade), candle-flame detail, real pores in candlelight, sculpted topknot strands, ruby-pendant glint.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~5s — ★ SPOKEN; the vision FADES to her reflection)
+### ANIMATION (this clip, full 8s — ★ SPOKEN; the vision FADES to her reflection)
 SHOT TYPE & ANGLE: eye-level close-up; face ~70% right-of-centre with the mirror left.
 CAMERA MOVEMENT (CHOREOGRAPHY): a static intimate hold — one continuous shot.
 LENS: 85mm, f/2.0, shallow.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.5s — she turns the mirror toward the lens (showing the fading tomorrow-image), the conspiratorial smile arriving.
-- 1.5–2.8s — ★ SPOKEN BEAT, as the line lands, low and knowing — "...I already know how tomorrow goes." — a playful brow-raise at the lens.
-- 2.8–5.0s — the tomorrow-image dissolves to her normal reflection; the smirk deepens — "you'll see."
+- 0.0–2.4s — she turns the mirror toward the lens (showing the fading tomorrow-image), the conspiratorial smile arriving.
+- 2.4–4.5s — ★ SPOKEN BEAT, as the line lands, low and knowing — "...I already know how tomorrow goes." — a playful brow-raise at the lens.
+- 4.5–8.0s — the tomorrow-image dissolves to her normal reflection; the smirk deepens — "you'll see."
 FLUIDITY & WEIGHT NOTES: the mirror-turn is a deliberate wrist-roll (showing it off); the line lands on the smirk; the vision dissolves like watercolour washing away; all motion eases.
 FABRIC/HAIR/PROP PHYSICS: the tomorrow-scene fades organically (colours draining, image washing away) with her reflection materializing beneath; the candle flames dance.
 FOOTWORK & BODY FLOW: a relaxed seated lean toward the lens.
-MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE FADE at 1.5–4.0s — triggered by lowering the mirror from the look, the tomorrow-scene dissolves (watercolour-reverse) back to her normal candlelit reflection; the vision recalled.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE FADE at 2.4–6.4s — triggered by lowering the mirror from the look, the tomorrow-scene dissolves (watercolour-reverse) back to her normal candlelit reflection; the vision recalled.
 LIGHTING-IN-MOTION: the mirror's internal daylight-glow fades; candlelight reasserts as the only source.
 DIEGETIC AUDIO: the tomorrow-soundscape fading (market sounds dissolving); the mirror returning to silent glass (a soft tonal descend); candle-crackle returning to prominence; her low spoken line; a soft "hmm" of satisfaction.
 MASTER TRACK: the bright tomorrow-theme dissolves; the cello "mirror theme" returns alone.
@@ -5418,14 +5418,14 @@ COLOUR GRADE: VIVID boudoir — burgundy, emerald, gold gilt, candle-gold; rich,
 TEXTURE & MICRO-DETAIL: crushed-velvet nap, sheer-mesh weave, gilded-mirror gleam, candle-flame, sculpted topknot, ruby-pendant glint.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~4s — lowers mirror, the hook look)
+### ANIMATION (this clip, full 8s — lowers mirror, the hook look)
 SHOT TYPE & ANGLE: eye-level medium, three-quarter; subject ~50% centre-left.
 CAMERA MOVEMENT (CHOREOGRAPHY): a gentle dolly-back — one continuous shot.
 LENS: 50mm, f/2.8, shallow.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.5s — she lowers the mirror toward her lap.
-- 1.5–2.8s — she leans back into the chaise with a satisfied settle, eyes on the lens — the knowing hook-smile.
-- 2.8–4.0s — a slow satisfied blink, eyes reopening steady on the lens — the hook.
+- 0.0–3.0s — she lowers the mirror toward her lap.
+- 3.0–5.6s — she leans back into the chaise with a satisfied settle, eyes on the lens — the knowing hook-smile.
+- 5.6–8.0s — a slow satisfied blink, eyes reopening steady on the lens — the hook.
 FLUIDITY & WEIGHT NOTES: the mirror lowers with correct weight; the lean-back has real cushion-compress; all motion eases.
 FABRIC/HAIR/PROP PHYSICS: the mirror settles face-up on her thigh with a soft metal-on-velvet contact; the mesh robe drapes with gravity; candles dance.
 FOOTWORK & BODY FLOW: a relaxed seated settle into the chaise.
@@ -5480,14 +5480,14 @@ COLOUR GRADE: VIVID boudoir — burgundy, emerald, gold gilt, candle-gold, wine 
 TEXTURE & MICRO-DETAIL: crushed-velvet nap, mesh weave, gilded engraving, candle-flame, topknot sheen, ruby glint, wine nails — matched.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~4s — reset; loop close)
+### ANIMATION (this clip, full 8s — reset; loop close)
 SHOT TYPE & ANGLE: eye-level three-quarter body; subject ~50% centre — matched to CLIP 1.
 CAMERA MOVEMENT (CHOREOGRAPHY): a gentle settle to the exact CLIP-1 establishing framing.
 LENS: 40mm, f/2.8 — matched.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.5s — she resettles at the chaise edge, the knowing smile fading to contemplation.
-- 1.5–2.8s — her gaze lowers to the mirror in her lap, her hand on the handle.
-- 2.8–4.0s — the contemplative-curious expression returns — the exact CLIP-1 opening pose, ready to lift the mirror again.
+- 0.0–3.0s — she resettles at the chaise edge, the knowing smile fading to contemplation.
+- 3.0–5.6s — her gaze lowers to the mirror in her lap, her hand on the handle.
+- 5.6–8.0s — the contemplative-curious expression returns — the exact CLIP-1 opening pose, ready to lift the mirror again.
 FLUIDITY & WEIGHT NOTES: the resettle eases into the opening; everything returns to rest.
 FABRIC/HAIR/PROP PHYSICS: the velvet and mesh settle to the opening drape; the mirror rests face-up; candles dance.
 FOOTWORK & BODY FLOW: a graceful seated settle, the CLIP-1 lean.
@@ -5559,7 +5559,7 @@ Mood: TENDER MELANCHOLY — bittersweet beauty, a duet (the relational one in Pi
 - AGENCY RELATIONSHIP (the pillar's key differentiator): she wakes a COMPANION who dances WITH her — the only relational/duet reel.
 - DIFFERS FROM PILLAR-MATES BY: it is the DUET, WALTZ-PACED, tender-sad one — companionship and melancholy, not solo wonder.
 Grade: VIVID golden-hour — saturated warm gold + cream + pale-pink peonies + honey curls + mother-of-pearl iridescence; soft but vivid, glowing, full mid-tone.
-Duration: ~22 seconds · 5 clips (angle-cut chain).
+Duration: 40.000 seconds total — 5 clips × 8s each (VEO renders one 8-second take per clip); the soundtrack is built to exactly 40.000s and loops seamlessly.
 Voice: SILENT — diegetic bedroom + a delicate music-box-and-string score.
 Identity safety: AIRA adult; wardrobe modest; mood tender and elegant, never sexualized.
 State chain (angle-cut): CLIP 1 medium [winds key → ★ box opens, figurine glows] → CUT → CLIP 2 extreme macro [figurine awakens, steps off, grows] → CUT → CLIP 3 full body [life-size dancer pirouettes beside her] → CUT → CLIP 4 close-up [tender face, dancer shrinks back] → CUT → CLIP 5 medium [box closed, figurine reset = CLIP 1, loop].
@@ -5591,18 +5591,18 @@ COLOUR GRADE: VIVID golden-hour — saturated warm gold + cream + pale-pink peon
 TEXTURE & MICRO-DETAIL: cashmere knit, rosewood grain, mother-of-pearl iridescence, brass-key gleam, honey-gold ringlet detail, pearl-clip sheen, pink nail gloss.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~4s — ★ winding the key wakes the figurine)
+### ANIMATION (this clip, full 8s — ★ winding the key wakes the figurine)
 SHOT TYPE & ANGLE: eye-level medium, three-quarter front; subject ~50% left-third.
 CAMERA MOVEMENT (CHOREOGRAPHY): a slow static-to-push-in toward the box — one continuous shot.
 LENS: 50mm, f/2.8, shallow.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.5s — she reaches for the brass winding key, the affectionate smile present.
-- 1.5–2.5s — ★ TRIGGER: she winds the key — three slow deliberate turns.
-- 2.5–4.0s — a soft musical mechanism engages; the lid lifts on its own; the tiny porcelain ballerina begins to GLOW; her anticipation brightens.
+- 0.0–3.0s — she reaches for the brass winding key, the affectionate smile present.
+- 3.0–5.0s — ★ TRIGGER: she winds the key — three slow deliberate turns.
+- 5.0–8.0s — a soft musical mechanism engages; the lid lifts on its own; the tiny porcelain ballerina begins to GLOW; her anticipation brightens.
 FLUIDITY & WEIGHT NOTES: the wind has mechanical spring-resistance (she pushes against it); the lid rises with hinge-weight; all motion eases.
 FABRIC/HAIR/PROP PHYSICS: the brass key turns against a believable spring; the lid rises slow and weighted; curls sway with her reach; the figurine's glow blooms warm.
 FOOTWORK & BODY FLOW: a relaxed seated lean toward the box.
-MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE WAKE at 1.5–3.5s — triggered by the three winds, the lid lifts and the tiny porcelain ballerina in her pink tutu begins to glow warm-gold, beginning to stir to life; the magic seeded.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE WAKE at 3.0–7.0s — triggered by the three winds, the lid lifts and the tiny porcelain ballerina in her pink tutu begins to glow warm-gold, beginning to stir to life; the magic seeded.
 LIGHTING-IN-MOTION: golden-hour steady; a tiny brass-key glint as it turns; the figurine's emerging glow lighting the box interior.
 DIEGETIC AUDIO: the winding mechanism (a satisfying ratchet-click-click-click); the lid rising (a soft aged-hinge creak); the first delicate notes of a music-box melody; her soft breath.
 MASTER TRACK: a solo music-box motif (the actual tune — 8 memorable notes, the series theme) begins.
@@ -5653,18 +5653,18 @@ COLOUR GRADE: VIVID — the tiny pink tutu vivid against warm-gold glow, mother-
 TEXTURE & MICRO-DETAIL: porcelain-figurine detail (tiny painted features, tutu tulle), mother-of-pearl shimmer, brass-mechanism teeth, rosewood grain, golden glow-bloom.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~4s — ★ the figurine steps off and grows)
+### ANIMATION (this clip, full 8s — ★ the figurine steps off and grows)
 SHOT TYPE & ANGLE: overhead-angled extreme macro on the figurine; figurine ~60% of frame.
 CAMERA MOVEMENT (CHOREOGRAPHY): a static macro hold — one continuous shot.
 LENS: 90mm macro, f/2.8, razor-shallow.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.5s — her fingertips hold still, reverent, as the figurine glows brighter.
-- 1.5–2.8s — the figurine MOVES — a tiny arm lifts, the head turns, the painted eyes seem to open; it steps OFF the pedestal, rising and beginning to grow.
-- 2.8–4.0s — the figurine lifts from the mechanism in a warm glow-bloom, the magic beginning.
+- 0.0–3.0s — her fingertips hold still, reverent, as the figurine glows brighter.
+- 3.0–5.6s — the figurine MOVES — a tiny arm lifts, the head turns, the painted eyes seem to open; it steps OFF the pedestal, rising and beginning to grow.
+- 5.6–8.0s — the figurine lifts from the mechanism in a warm glow-bloom, the magic beginning.
 FLUIDITY & WEIGHT NOTES: the figurine's movements start porcelain-stiff then become fluid as it grows; the glow envelops it as it lifts; the hands stay reverently still.
 FABRIC/HAIR/PROP PHYSICS: the tiny foot leaves the pedestal with a porcelain "click" (the last contact); the tutu tulle stirs as it moves; the glow-bloom expands; the mechanism ticks.
 FOOTWORK & BODY FLOW: hands only — reverent stillness.
-MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE STEP-OFF at 1.5–3.5s — triggered by the wind-magic (from CLIP 1), the figurine awakens, steps off its pedestal, and begins to grow/lift in a warm glow-bloom; the dancer coming to life.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE STEP-OFF at 3.0–7.0s — triggered by the wind-magic (from CLIP 1), the figurine awakens, steps off its pedestal, and begins to grow/lift in a warm glow-bloom; the dancer coming to life.
 LIGHTING-IN-MOTION: the figurine's glow intensifies as it lifts — lighting the box interior like a tiny sun.
 DIEGETIC AUDIO: the music-box melody (delicate, tinkling, the main motif); a tiny porcelain "click" as the foot leaves; a soft magical chime-swell as it grows; the mechanism ticking.
 MASTER TRACK: the music-box motif joined by a soft entering string-quartet.
@@ -5715,18 +5715,18 @@ COLOUR GRADE: VIVID golden-hour — warm gold glow + pink tutu + cream outfit + 
 TEXTURE & MICRO-DETAIL: the dancer's translucent tutu and faintly-porcelain skin (the magic origin), glow-particles, cashmere knit, honey-gold ringlets, pale-wood grain.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~5s — ★ life-size pirouette beside her)
+### ANIMATION (this clip, full 8s — ★ life-size pirouette beside her)
 SHOT TYPE & ANGLE: eye-level full body two-shot; both figures ~70% of frame.
 CAMERA MOVEMENT (CHOREOGRAPHY): a slow arc left-to-right, circling the dancer's pirouette — one continuous shot.
 LENS: 35mm, f/3.5.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.5s — Aira watches, hands clasped; the dancer rises to pointe.
-- 1.5–3.5s — ★ the life-size dancer performs ONE perfect pirouette — arms to fifth, spinning once with exquisite grace, the tutu flaring — then settling to a soft finish.
-- 3.5–5.0s — Aira mirrors a small unconscious sway, a slow emotional blink, a tender smile.
+- 0.0–2.4s — Aira watches, hands clasped; the dancer rises to pointe.
+- 2.4–5.6s — ★ the life-size dancer performs ONE perfect pirouette — arms to fifth, spinning once with exquisite grace, the tutu flaring — then settling to a soft finish.
+- 5.6–8.0s — Aira mirrors a small unconscious sway, a slow emotional blink, a tender smile.
 FLUIDITY & WEIGHT NOTES: the pirouette obeys perfect ballet physics — centre of gravity, spotting, tutu momentum, pointe-balance; Aira doesn't touch the dancer (the space between them is the respect); all motion eases.
 FABRIC/HAIR/PROP PHYSICS: the tutu flares with centrifugal momentum; the glow-particles drift outward with the spin; the floor doesn't creak (the dancer is still partly magic); Aira's curls and cashmere shift with her sway.
 FOOTWORK & BODY FLOW: the dancer's flawless pointe-work; Aira's small empathetic sway.
-MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE PIROUETTE at 1.5–3.5s — the life-size dancer performs one perfect spin beside Aira, the magic at its full graceful bloom (the figurine fully alive and dancing).
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE PIROUETTE at 2.4–5.6s — the life-size dancer performs one perfect spin beside Aira, the magic at its full graceful bloom (the figurine fully alive and dancing).
 LIGHTING-IN-MOTION: the dancer's glow flares slightly at the peak of the spin, then settles.
 DIEGETIC AUDIO: the music-box melody at full beautiful volume (as if the room is the box); the soft swish of the tutu; the pointe-shoe touching down (a whisper-tap); Aira's held breath then gentle exhale; a faint glow-particle sparkle.
 MASTER TRACK: the full string-quartet plus a solo flute joins at the pirouette — the emotional peak.
@@ -5777,18 +5777,18 @@ COLOUR GRADE: VIVID golden-hour — warm skin glowing, gold everywhere, pearl ac
 TEXTURE & MICRO-DETAIL: glistening-eye detail, honey-gold ringlets, fading glow-particles, cashmere knit, pearl-stud gleam.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~4s — tender goodbye as the dancer shrinks back)
+### ANIMATION (this clip, full 8s — tender goodbye as the dancer shrinks back)
 SHOT TYPE & ANGLE: slight low-angle close-up; face ~70% right-of-centre.
 CAMERA MOVEMENT (CHOREOGRAPHY): a static intimate hold — one continuous shot.
 LENS: 85mm, f/2.0, shallow.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.5s — she extends an open palm toward the shrinking dancer, a soft farewell.
-- 1.5–2.8s — she watches the dancer shrink and float back into the box — the slow goodbye blink.
-- 2.8–4.0s — eyes reopen softer, a gentle grateful smile.
+- 0.0–3.0s — she extends an open palm toward the shrinking dancer, a soft farewell.
+- 3.0–5.6s — she watches the dancer shrink and float back into the box — the slow goodbye blink.
+- 5.6–8.0s — eyes reopen softer, a gentle grateful smile.
 FLUIDITY & WEIGHT NOTES: the open-palm gesture is relaxed (offering, not grabbing); the goodbye blink is slow; all motion eases.
 FABRIC/HAIR/PROP PHYSICS: the dancer shrinks smoothly (a zoom-out applied to her), float-back on a gentle arc, settling on the pedestal with a tiny porcelain tap; the glow contracts; the lid begins to lower.
 FOOTWORK & BODY FLOW: a gentle forward inclination, hand extending then easing.
-MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE RETURN at 1.5–3.5s — the dancer shrinks (glowing, graceful), floats back into the open music box, and settles onto the pedestal as the lid begins to lower; the magic recalled.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE RETURN at 3.0–7.0s — the dancer shrinks (glowing, graceful), floats back into the open music box, and settles onto the pedestal as the lid begins to lower; the magic recalled.
 LIGHTING-IN-MOTION: the golden glow contracts with the dancer, dimming; golden-hour ambient reasserts.
 DIEGETIC AUDIO: the music-box melody slowing (winding down); the soft shrinking (a gentle descending tone); the porcelain tap as she settles; the lid lowering (a soft creak); the mechanism stopping.
 MASTER TRACK: the strings thin to a solo cello/harp for the goodbye; the music-box motif slowing.
@@ -5839,14 +5839,14 @@ COLOUR GRADE: VIVID golden-hour — warm gold, cream, pale-pink peonies, honey c
 TEXTURE & MICRO-DETAIL: cashmere knit, rosewood grain, mother-of-pearl, brass-key gleam, ringlet detail, pearl-clip sheen, pink nails — matched.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~4s — reset; loop close)
+### ANIMATION (this clip, full 8s — reset; loop close)
 SHOT TYPE & ANGLE: eye-level medium, three-quarter front; subject ~50% left-third — matched to CLIP 1.
 CAMERA MOVEMENT (CHOREOGRAPHY): a gentle settle to the exact CLIP-1 establishing framing.
 LENS: 50mm, f/2.8 — matched.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.5s — the box lid finishes lowering and clicks shut; she settles back, the grateful smile softening to affection.
-- 1.5–2.8s — her hand drifts back toward the winding key.
-- 2.8–4.0s — tender anticipation returns — the exact CLIP-1 opening pose, ready to wind again.
+- 0.0–3.0s — the box lid finishes lowering and clicks shut; she settles back, the grateful smile softening to affection.
+- 3.0–5.6s — her hand drifts back toward the winding key.
+- 5.6–8.0s — tender anticipation returns — the exact CLIP-1 opening pose, ready to wind again.
 FLUIDITY & WEIGHT NOTES: the lid clicks shut with a soft hinge-settle; the hand returns to the key; everything eases to rest.
 FABRIC/HAIR/PROP PHYSICS: the box closes with a soft click; curls and cashmere settle to the opening drape; curtains breathe.
 FOOTWORK & BODY FLOW: a relaxed seated settle, the CLIP-1 lean.
@@ -5918,7 +5918,7 @@ Mood: COSY SURPRISE — hygge wonder; the object acts on its own (the agency-rev
 - AGENCY RELATIONSHIP (the pillar's key differentiator): the OBJECT ACTS WITHOUT HER — she's a delighted bystander (the inverse of C-1/C-2).
 - DIFFERS FROM PILLAR-MATES BY: it is the ONE where she triggers nothing — the object self-activates; cosy, not commanded.
 Grade: VIVID cosy — saturated warm amber firelight + oatmeal + dark wood + cool blue frosted-window + the globe's tiny internal glow + white snow; cosy but vivid, full mid-tone.
-Duration: ~22 seconds · 5 clips (angle-cut chain).
+Duration: 40.000 seconds total — 5 clips × 8s each (VEO renders one 8-second take per clip); the soundtrack is built to exactly 40.000s and loops seamlessly.
 Voice: SILENT — diegetic cabin + a cosy winter-shimmer score.
 Identity safety: AIRA adult; wardrobe modest; mood cosy and elegant, never sexualized.
 State chain (angle-cut): CLIP 1 wide [sips cocoa, settles → ★ globe SHAKES itself] → CUT → CLIP 2 over-shoulder [snow phases out of the globe into the room] → CUT → CLIP 3 full-body hero [indoor snowfall, she bathes in it] → CUT → CLIP 4 close-up profile [catches a flake, snow thinning] → CUT → CLIP 5 wide [globe still, room reset, cocoa = CLIP 1, loop].
@@ -5950,18 +5950,18 @@ COLOUR GRADE: VIVID cosy — saturated warm amber + oatmeal + dark wood + cool b
 TEXTURE & MICRO-DETAIL: chunky cable-knit, dark-wood grain, brass-globe base, frost-feathering on glass, espresso braid with gold thread, cocoa steam, nude nail gloss.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~4s — ★ her settling shakes the globe itself)
+### ANIMATION (this clip, full 8s — ★ her settling shakes the globe itself)
 SHOT TYPE & ANGLE: eye-level wide, three-quarter front; subject ~45% right-third.
 CAMERA MOVEMENT (CHOREOGRAPHY): a slow static-to-push-in hold — one continuous shot.
 LENS: 35mm, f/4, deep.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.5s — she lifts the mug for a slow sip, eyes closing in cosy contentment.
-- 1.5–2.5s — ★ TRIGGER: she lowers the mug and settles fully into stillness — and on her calm, the snow globe on the shelf begins to VIBRATE and SHAKE itself.
-- 2.5–4.0s — snow swirls inside the globe; its tiny village lights ignite; she opens her eyes to the sound, intrigued.
+- 0.0–3.0s — she lifts the mug for a slow sip, eyes closing in cosy contentment.
+- 3.0–5.0s — ★ TRIGGER: she lowers the mug and settles fully into stillness — and on her calm, the snow globe on the shelf begins to VIBRATE and SHAKE itself.
+- 5.0–8.0s — snow swirls inside the globe; its tiny village lights ignite; she opens her eyes to the sound, intrigued.
 FLUIDITY & WEIGHT NOTES: the sip is savouring; the globe self-shakes (no hand touches it); her turn toward it is gentle; all motion eases.
 FABRIC/HAIR/PROP PHYSICS: the globe vibrates with correct heavy-brass-on-shelf wobble; the internal snow swirls with realistic water-globe physics; the braid sways as she turns; cocoa steam curls.
 FOOTWORK & BODY FLOW: a relaxed mid-room settle, then a gentle turn toward the shelf.
-MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE SELF-SHAKE at 1.5–3.0s — triggered by her settling into cosy stillness, the globe vibrates and shakes itself, the internal snow swirling and the tiny village lights igniting; the object self-animating "when the time is right".
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE SELF-SHAKE at 3.0–6.0s — triggered by her settling into cosy stillness, the globe vibrates and shakes itself, the internal snow swirling and the tiny village lights igniting; the object self-animating "when the time is right".
 LIGHTING-IN-MOTION: warm fireplace steady; the globe's internal village-lights igniting as warm pinpoints on the shelf.
 DIEGETIC AUDIO: the fireplace crackle; a cocoa sip; the globe's rattle-vibrate (a soft brass-on-wood); the internal snow-swirl (a muffled whoosh); her surprised "hmm?"; the tiny lights igniting (a soft chime).
 MASTER TRACK: a soft solo-piano "globe theme" (6 cosy notes) + fireplace-crackle texture; a celeste shimmer entering on the self-shake.
@@ -6012,18 +6012,18 @@ COLOUR GRADE: VIVID cosy — warm village-glow + amber firelight + escaping whit
 TEXTURE & MICRO-DETAIL: the globe's swirling snow and tiny alive village, phasing snowflakes with crystal structure, the braid's gold thread, dark-wood grain, firelight dance.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~4s — ★ snow phases out of the globe into the room)
+### ANIMATION (this clip, full 8s — ★ snow phases out of the globe into the room)
 SHOT TYPE & ANGLE: eye-level medium over-the-shoulder; her back ~45% lower-left, globe centre-right.
 CAMERA MOVEMENT (CHOREOGRAPHY): a gentle arc around her shoulder, revealing the escaping snow — one continuous shot.
 LENS: 50mm, f/2.8, shallow.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.5s — she steps closer to the shelf, reaching up.
-- 1.5–2.8s — snowflakes phase THROUGH the globe's glass in increasing numbers, drifting into the real room; her hand passes through them — feeling them.
-- 2.8–4.0s — a delighted gasp-laugh as real flakes land on her palm.
+- 0.0–3.0s — she steps closer to the shelf, reaching up.
+- 3.0–5.6s — snowflakes phase THROUGH the globe's glass in increasing numbers, drifting into the real room; her hand passes through them — feeling them.
+- 5.6–8.0s — a delighted gasp-laugh as real flakes land on her palm.
 FLUIDITY & WEIGHT NOTES: the reach is gentle; the flakes phase through glass like ghosts (no break) then obey normal gravity in the room; all motion eases.
 FABRIC/HAIR/PROP PHYSICS: snowflakes phase through the glass seamlessly, then drift with real snow-physics in the room; her hand touching them creates tiny melts; the globe's internal snow still swirls; the braid sways.
 FOOTWORK & BODY FLOW: a step toward the shelf, weight forward.
-MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE ESCAPE at 1.5–3.5s — triggered by the self-shaking globe, real crystalline snowflakes phase out through the glass into the cabin in increasing numbers, drifting and catching firelight; the magic spilling into the room.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE ESCAPE at 3.0–7.0s — triggered by the self-shaking globe, real crystalline snowflakes phase out through the glass into the cabin in increasing numbers, drifting and catching firelight; the magic spilling into the room.
 LIGHTING-IN-MOTION: each escaping snowflake catches firelight individually — tiny golden glints filling the air.
 DIEGETIC AUDIO: the muffled globe-swirl; snowflakes entering the room (a soft crystalline tinkling); the fireplace crackle; a faint icy-breeze sound; her delighted gasp-laugh.
 MASTER TRACK: the solo piano gains a celeste/glockenspiel snowfall-shimmer.
@@ -6074,18 +6074,18 @@ COLOUR GRADE: VIVID cosy magic — warm amber + white snow + oatmeal + golden fl
 TEXTURE & MICRO-DETAIL: individual snowflakes with crystal structure, snow-dusting on the cable-knit and braid, cold-flush skin, firelight-glints on flakes, dark-wood floor with snow.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~5s — ★ she bathes in the indoor snowfall)
+### ANIMATION (this clip, full 8s — ★ she bathes in the indoor snowfall)
 SHOT TYPE & ANGLE: low-angle hero, full body; subject ~60% centre.
 CAMERA MOVEMENT (CHOREOGRAPHY): a slow crane-down to the low hero angle, holding — one continuous shot.
 LENS: 28mm, f/3.2, low and wide.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.5s — she opens her arms and tilts her face up into the snowfall.
-- 1.5–3.5s — a slow quarter-turn on the spot, eyes closed, bathing in it, snow landing on her.
-- 3.5–5.0s — a joyful laugh-exhale, catching a flake on her tongue.
+- 0.0–2.4s — she opens her arms and tilts her face up into the snowfall.
+- 2.4–5.6s — a slow quarter-turn on the spot, eyes closed, bathing in it, snow landing on her.
+- 5.6–8.0s — a joyful laugh-exhale, catching a flake on her tongue.
 FLUIDITY & WEIGHT NOTES: the arm-opening is a surrender; the spin is slow and blissful; all motion eases.
 FABRIC/HAIR/PROP PHYSICS: snow obeys correct drift-speed and accumulation; her spin creates a micro-vortex swirling nearby flakes; the fire's heat creates a snow-free bubble directly above it (realistic convection); the braid lifts with the spin; snow lands on her with tiny-weight contact.
 FOOTWORK & BODY FLOW: a grounded slow spin, socks on the snow-dusted floor.
-MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE SNOWFALL at 0.0–4.0s — the indoor snowfall at full intensity, filling the room, dusting every surface, the fire coexisting, the globe pulsing — the magic at its cosy peak.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE SNOWFALL at 0.0–6.4s — the indoor snowfall at full intensity, filling the room, dusting every surface, the fire coexisting, the globe pulsing — the magic at its cosy peak.
 LIGHTING-IN-MOTION: the low angle makes the snowfall read as a canopy of golden stars above her.
 DIEGETIC AUDIO: the full indoor snowfall (a soft crystalline ambient, like gentle static); the fireplace crackling; the globe humming; her joyful laugh; the tiny patter of snow accumulating; a wind-chime quality to the flakes.
 MASTER TRACK: full warm strings + glockenspiel shimmer — the cosy emotional peak.
@@ -6136,18 +6136,18 @@ COLOUR GRADE: VIVID cosy — warm skin with snow-crystals, the thinning snow aga
 TEXTURE & MICRO-DETAIL: snow-crystals on lashes and brow, breath-cloud vapour, snow-dusted braid, cold-flush skin, firelight on the profile.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~4s — catches a flake, snow thins)
+### ANIMATION (this clip, full 8s — catches a flake, snow thins)
 SHOT TYPE & ANGLE: eye-level close-up profile; face ~70% left-of-centre.
 CAMERA MOVEMENT (CHOREOGRAPHY): a static intimate hold — one continuous shot.
 LENS: 85mm, f/2.0, shallow.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.5s — she watches the snow thin, hand rising, a warm breath-cloud.
-- 1.5–2.8s — one last flake lands on her fingertip; she closes her hand around it softly (it melts inside her fist).
-- 2.8–4.0s — a satisfied blink and gentle smile as the room clears.
+- 0.0–3.0s — she watches the snow thin, hand rising, a warm breath-cloud.
+- 3.0–5.6s — one last flake lands on her fingertip; she closes her hand around it softly (it melts inside her fist).
+- 5.6–8.0s — a satisfied blink and gentle smile as the room clears.
 FLUIDITY & WEIGHT NOTES: the last flakes fall extra-slowly (time-stretch feel); the hand-close is gentle; all motion eases.
 FABRIC/HAIR/PROP PHYSICS: the last flake lands with weightless contact then melts in her fist; the vanishing snow on surfaces dissolves impossibly fast (surfaces dry); her breath-cloud is real.
 FOOTWORK & BODY FLOW: an upright, gentle stillness.
-MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE SETTLE at 1.5–3.5s — the snowfall slows to a stop, the last flakes drift, the globe's light dims, and the accumulated snow on surfaces fades (melting impossibly fast); the magic gently receding.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE SETTLE at 3.0–7.0s — the snowfall slows to a stop, the last flakes drift, the globe's light dims, and the accumulated snow on surfaces fades (melting impossibly fast); the magic gently receding.
 LIGHTING-IN-MOTION: the globe's glow dims to its resting state; firelight reasserts as primary.
 DIEGETIC AUDIO: the snowfall fading to silence; the last flake landing (a tiny "tink"); the fire reasserting; the globe settling (a soft brass-settle); her satisfied exhale.
 MASTER TRACK: the strings thin to solo piano + a last celeste shimmer.
@@ -6198,14 +6198,14 @@ COLOUR GRADE: VIVID cosy — warm amber, oatmeal, dark wood, cool blue window, t
 TEXTURE & MICRO-DETAIL: cable-knit, dark-wood grain, brass-globe base, frost-feathering, espresso braid with gold thread, cocoa steam, nude nails — matched.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~4s — reset; loop close)
+### ANIMATION (this clip, full 8s — reset; loop close)
 SHOT TYPE & ANGLE: eye-level wide, three-quarter front; subject ~45% right-third — matched to CLIP 1.
 CAMERA MOVEMENT (CHOREOGRAPHY): a gentle settle to the exact CLIP-1 establishing framing.
 LENS: 35mm, f/4 — matched.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.5s — the cabin clears fully; she lifts the cocoa for another slow sip, the globe still and dark.
-- 1.5–2.8s — she lowers the mug and settles into the opening daydream stillness.
-- 2.8–4.0s — the cosy content smile returns — the exact CLIP-1 opening pose, ready for the globe to wake again.
+- 0.0–3.0s — the cabin clears fully; she lifts the cocoa for another slow sip, the globe still and dark.
+- 3.0–5.6s — she lowers the mug and settles into the opening daydream stillness.
+- 5.6–8.0s — the cosy content smile returns — the exact CLIP-1 opening pose, ready for the globe to wake again.
 FLUIDITY & WEIGHT NOTES: the sip is savouring; the settle eases into the opening; everything returns to rest.
 FABRIC/HAIR/PROP PHYSICS: mug weight, braid drape, cocoa steam — all matched to CLIP 1; the globe still and dark.
 FOOTWORK & BODY FLOW: a relaxed mid-room settle, the CLIP-1 stand.
@@ -6280,7 +6280,7 @@ Mood: VISCERAL RELIEF — the cold-water 'ahhh' (the sharp, cold one in Pillar D
 - ENDING STYLE: the heat reclaims the frame, loop.
 - DIFFERS FROM PILLAR-MATES BY: it is the COLD/BLUE, SHARP-JOLT one — a sudden refreshing snap (vs D-5's slow warm domestic exhale).
 Grade: blazing VIVID summer (white + terracotta + hot-pink + turquoise + caramel) that briefly INVERTS to a cool blue-white frost-palette on the chill-wave, then floods back to hot; rich, glossy, full mid-tone.
-Duration: ~22 seconds · 5 clips (angle-cut chain).
+Duration: 40.000 seconds total — 5 clips × 8s each (VEO renders one 8-second take per clip); the soundtrack is built to exactly 40.000s and loops seamlessly.
 Voice: SILENT — diegetic terrace + a hot-minimal score with a satisfying bass-drop on the chill.
 Identity safety: AIRA adult; wardrobe modest; mood refreshing and elegant, never sexualized.
 State chain (angle-cut): CLIP 1 full body [hot terrace, reaches for the sweating glass] → CUT → CLIP 2 close-up [★ the sip → CHILL-WAVE + frost bloom] → CUT → CLIP 3 full-body hero [everything frosted, she in ecstasy, then melts] → CUT → CLIP 4 medium profile [heat fully returned, smug calm] → CUT → CLIP 5 full body [reset, reaches for glass = CLIP 1, loop].
@@ -6312,14 +6312,14 @@ COLOUR GRADE: VIVID summer — saturated white + terracotta + hot-pink bougainvi
 TEXTURE & MICRO-DETAIL: linen weave, glass condensation droplets, heat-shimmer distortion, terracotta-tile grain, wispy ponytail strands, peach nail gloss, sea-sparkle.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~4s — reaches for the sweating glass)
+### ANIMATION (this clip, full 8s — reaches for the sweating glass)
 SHOT TYPE & ANGLE: slight low-angle full body, front; subject ~50% centre.
 CAMERA MOVEMENT (CHOREOGRAPHY): a slow static-to-push-in toward her and the glass — one continuous shot.
 LENS: 35mm, f/4, slight low.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.5s — she breathes against the heat, chest rising, eyes squinting at the glare.
-- 1.5–2.8s — she reaches for the glass and wraps her hand around it — a visible micro-shiver of cold relief at the touch.
-- 2.8–4.0s — she lifts the glass, anticipation building, lips pressing in a pre-sip settle.
+- 0.0–3.0s — she breathes against the heat, chest rising, eyes squinting at the glare.
+- 3.0–5.6s — she reaches for the glass and wraps her hand around it — a visible micro-shiver of cold relief at the touch.
+- 5.6–8.0s — she lifts the glass, anticipation building, lips pressing in a pre-sip settle.
 FLUIDITY & WEIGHT NOTES: the reach is thirsty and decisive; the grip shows a flinch-then-relief at the cold; all motion eases.
 FABRIC/HAIR/PROP PHYSICS: the heat-shimmer is correct convection distortion; condensation drips with water-gravity; ice settles in the glass with a clink; wispy hair lifts in the hot breeze.
 FOOTWORK & BODY FLOW: a relaxed lean, weight on one hip, reaching.
@@ -6374,18 +6374,18 @@ COLOUR GRADE: blazing VIVID summer about to INVERT — hot gold skin + icy glass
 TEXTURE & MICRO-DETAIL: glass condensation, the icy rim, real pores with a heat-sheen, lash detail, wispy strands.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~5s — ★ THE SIP releases the CHILL-WAVE + frost bloom)
+### ANIMATION (this clip, full 8s — ★ THE SIP releases the CHILL-WAVE + frost bloom)
 SHOT TYPE & ANGLE: eye-level close-up; face ~70% right-of-centre with the glass.
 CAMERA MOVEMENT (CHOREOGRAPHY): a static intimate hold — the sip is the event — one continuous shot.
 LENS: 85mm, f/2.0, shallow.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.5s — the glass tilts, she sips — slow, deliberate, savouring; eyes closed.
-- 1.5–2.5s — ★ TRIGGER: the cold water hits — and a wave of BLUE-WHITE CHILL radiates outward from her; frost-crystals BLOOM explosively across the glass; her breath fogs.
-- 2.5–5.0s — eyes fly open wide then roll back slightly in ecstasy; a sharp satisfied exhale; an "mmm" forming — pure relief.
+- 0.0–2.4s — the glass tilts, she sips — slow, deliberate, savouring; eyes closed.
+- 2.4–4.0s — ★ TRIGGER: the cold water hits — and a wave of BLUE-WHITE CHILL radiates outward from her; frost-crystals BLOOM explosively across the glass; her breath fogs.
+- 4.0–8.0s — eyes fly open wide then roll back slightly in ecstasy; a sharp satisfied exhale; an "mmm" forming — pure relief.
 FLUIDITY & WEIGHT NOTES: the sip is savouring; the relief explodes on her face (eyes lead wide, then the exhale); all motion eases except the chill-wave snap.
 FABRIC/HAIR/PROP PHYSICS: the frost-bloom follows real dendritic ice-crystal patterns; the chill-wave travels at a visible shockwave-speed; breath-vapour forms in the sudden local cold; the glass frosts in her grip but her wet fingers leave clear unfrosted prints (detail); the glass weight unchanged.
 FOOTWORK & BODY FLOW: a slight lean-back into the relief.
-MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE CHILL-WAVE at 1.5–3.0s — triggered by the sip, a blue-white chill radiates from her in all directions, frost blooms explosively on the glass, her breath fogs, the nearest terracotta tile and bougainvillea-edges frost white; a momentary winter inside the summer.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE CHILL-WAVE at 2.4–4.8s — triggered by the sip, a blue-white chill radiates from her in all directions, frost blooms explosively on the glass, her breath fogs, the nearest terracotta tile and bougainvillea-edges frost white; a momentary winter inside the summer.
 LIGHTING-IN-MOTION: the chill-wave carries a brief cool-blue light-shift washing over her face and frame, then fades — a momentary colour-temperature drop.
 DIEGETIC AUDIO: the sip (a cold gulp); THE CHILL — a deep satisfying bass-drop "WHOOOMPH" (chest-felt) + a crystalline frost-crackle spreading rapidly + a sharp cold breath-exhale; cicadas cutting to silence for one beat.
 MASTER TRACK: the lazy guitar strips to sub-bass anticipation, then a MASSIVE satisfying bass-DROP + a crystalline reverse-cymbal + a frozen beat of silence on the chill.
@@ -6436,18 +6436,18 @@ COLOUR GRADE: INVERTED VIVID — cool blue-white frost over the hot terracotta/p
 TEXTURE & MICRO-DETAIL: dendritic frost-crystals, frost-sheen on linen, ice-edged bougainvillea, frost in the ponytail, steam where frost meets hot tile, prismatic sparkle.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~5s — ★ everything frosted at peak, then melts back)
+### ANIMATION (this clip, full 8s — ★ everything frosted at peak, then melts back)
 SHOT TYPE & ANGLE: low-angle hero, full body; subject ~60% centre.
 CAMERA MOVEMENT (CHOREOGRAPHY): a slow crane-down to the low hero angle, holding — one continuous shot.
 LENS: 28mm, f/3.2, low and wide.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.5s — she tilts her head back in bliss, one hand on her stomach (the cold hitting her core).
-- 1.5–2.8s — she holds the ecstasy "ahhh" — the hero beat — the terrace at peak frost.
-- 2.8–5.0s — the frost begins to MELT fast; steam rises; she lowers her head, eyes opening, a broad satisfied grin as summer reclaims.
+- 0.0–2.4s — she tilts her head back in bliss, one hand on her stomach (the cold hitting her core).
+- 2.4–4.5s — she holds the ecstasy "ahhh" — the hero beat — the terrace at peak frost.
+- 4.5–8.0s — the frost begins to MELT fast; steam rises; she lowers her head, eyes opening, a broad satisfied grin as summer reclaims.
 FLUIDITY & WEIGHT NOTES: the head-back is total surrender; the melt steams back believably; all motion eases.
 FABRIC/HAIR/PROP PHYSICS: frost melts with correct water-state transition (thin → wet → dripping); steam rises from hot surfaces reclaiming the frost; melting follows heat-source logic (sun-facing first); the prismatic sparkle fades with the ice; the glass defrosts.
 FOOTWORK & BODY FLOW: a grounded heroic stance, a slight sway of relief.
-MID-CLIP TRANSFORMATION (timed — heavy detail): ★ PEAK-AND-MELT at 0.0–4.0s — the frost is at peak (everything white/crystalline) then melts fast as the summer heat fights back; steam, drips, the frost receding outward from her (her body-heat unfreezing things first).
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ PEAK-AND-MELT at 0.0–6.4s — the frost is at peak (everything white/crystalline) then melts fast as the summer heat fights back; steam, drips, the frost receding outward from her (her body-heat unfreezing things first).
 LIGHTING-IN-MOTION: cool-blue shifting back to hot gold as the frost melts — the colour temperature rising in real time.
 DIEGETIC AUDIO: the frost crackling as it melts (a cascade of tiny ice-breaks); steam hissing off hot tiles; dripping water; cicadas rushing back; her satisfied "ahhh"; the summer reclaiming.
 MASTER TRACK: the bass-drop tail; the lazy summer guitar returning warm as the frost melts.
@@ -6498,14 +6498,14 @@ COLOUR GRADE: VIVID summer fully returned — terracotta, pink, turquoise, white
 TEXTURE & MICRO-DETAIL: glass condensation re-forming, linen weave, wispy ponytail strands, heat-shimmer, peach nail gloss.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~4s — heat returned, smug calm)
+### ANIMATION (this clip, full 8s — heat returned, smug calm)
 SHOT TYPE & ANGLE: eye-level medium profile; subject ~55% left-of-centre.
 CAMERA MOVEMENT (CHOREOGRAPHY): a slow lateral track on the profile — one continuous shot.
 LENS: 50mm, f/2.8, shallow.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.5s — she lowers the round sunglasses over her eyes.
-- 1.5–2.8s — she sets the glass down with a decisive satisfied tap and leans back on the railing.
-- 2.8–4.0s — a long slow satisfied exhale — complete.
+- 0.0–3.0s — she lowers the round sunglasses over her eyes.
+- 3.0–5.6s — she sets the glass down with a decisive satisfied tap and leans back on the railing.
+- 5.6–8.0s — a long slow satisfied exhale — complete.
 FLUIDITY & WEIGHT NOTES: the glasses slide with friction; the glass-tap is decisive; the lean-back has real weight; all motion eases.
 FABRIC/HAIR/PROP PHYSICS: sunglasses slide down with a soft click; the glass meets the table with a tap and a slight water-ring; her posture settles with real weight; heat-shimmer fully returns.
 FOOTWORK & BODY FLOW: an easy lean-back on the railing.
@@ -6560,14 +6560,14 @@ COLOUR GRADE: VIVID summer — white, terracotta, hot-pink, turquoise, caramel �
 TEXTURE & MICRO-DETAIL: linen weave, glass condensation, heat-shimmer, terracotta grain, wispy strands, peach nails, sea-sparkle — matched.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~4s — reset; loop close)
+### ANIMATION (this clip, full 8s — reset; loop close)
 SHOT TYPE & ANGLE: slight low-angle full body, front; subject ~50% centre — matched to CLIP 1.
 CAMERA MOVEMENT (CHOREOGRAPHY): a gentle settle to the exact CLIP-1 establishing framing.
 LENS: 35mm, f/4 — matched.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.5s — she pushes the sunglasses back up onto her head, the smirk fading to heat.
-- 1.5–2.8s — the heat-squint returns; she reaches for the re-sweating glass.
-- 2.8–4.0s — the thirsty reach — the exact CLIP-1 opening pose, ready to sip again.
+- 0.0–3.0s — she pushes the sunglasses back up onto her head, the smirk fading to heat.
+- 3.0–5.6s — the heat-squint returns; she reaches for the re-sweating glass.
+- 5.6–8.0s — the thirsty reach — the exact CLIP-1 opening pose, ready to sip again.
 FLUIDITY & WEIGHT NOTES: the glasses push-up is casual; the reach matches CLIP 1; everything returns to the opening.
 FABRIC/HAIR/PROP PHYSICS: the glass sweats; cicadas loud; heat-shimmer; wispy hair lifts — all matched to CLIP 1.
 FOOTWORK & BODY FLOW: a relaxed railing-lean, reaching.
@@ -6639,7 +6639,7 @@ Mood: EUPHORIA — the body-takeover beat-drop (the high-energy one in Pillar D)
 - ENDING STYLE: the song fades and the room drains back to white.
 - DIFFERS FROM PILLAR-MATES BY: it is the HIGH-ENERGY, ON-BEAT, DANCE one — kinetic and loud (the opposite of D-4's near-still sleep).
 Grade: starts deliberately FLAT WHITE/GREY/BLACK (clinical) then EXPLODES to MAXIMUM neon-saturated colour (blue, magenta, gold, electric-green) pulsing with the beat, then drains back to flat white; rich blacks, full mid-tone at the peak.
-Duration: ~22 seconds · 5 clips (angle-cut chain).
+Duration: 40.000 seconds total — 5 clips × 8s each (VEO renders one 8-second take per clip); the soundtrack is built to exactly 40.000s and loops seamlessly.
 Voice: SILENT of speech — the custom beat is the audio star; diegetic + the track.
 Identity safety: AIRA adult; wardrobe modest streetwear; mood euphoric and elegant, never sexualized.
 State chain (angle-cut): CLIP 1 three-quarter [white studio, places headphones on] → CUT → CLIP 2 close-up [★ the DROP → soundwaves + colour EXPLODE] → CUT → CLIP 3 full-body hero [full equalizer room, euphoric dance] → CUT → CLIP 4 medium profile [song fades, colour drains, afterglow] → CUT → CLIP 5 three-quarter [reset, reaches for headphones = CLIP 1, loop].
@@ -6670,14 +6670,14 @@ ATMOSPHERE: clinical anticipatory emptiness — the held breath before the drop.
 COLOUR GRADE: deliberately FLAT — white, grey, black only (her outfit the only dark element); no colour, setting up the explosion.
 TEXTURE & MICRO-DETAIL: ribbed-tank texture, cargo-denim stitching, leather-jacket grain, the headphones' matte finish, glossy space buns, lightning pendant, matte nails.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation.
-### ANIMATION (this clip, ~4s — places headphones on; the tease)
+### ANIMATION (this clip, full 8s — places headphones on; the tease)
 SHOT TYPE & ANGLE: eye-level three-quarter body; subject ~50% left-third.
 CAMERA MOVEMENT (CHOREOGRAPHY): a static hold — the emptiness establishes — one continuous shot.
 LENS: 40mm, f/4, deep.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.5s — she lifts the headphones from her neck.
-- 1.5–2.8s — she places them over her ears with both hands, settling them — a ritual; eyes closing, a breath in.
-- 2.8–4.0s — the "ready" moment; a faint distant beat begins (muffled through the cups).
+- 0.0–3.0s — she lifts the headphones from her neck.
+- 3.0–5.6s — she places them over her ears with both hands, settling them — a ritual; eyes closing, a breath in.
+- 5.6–8.0s — the "ready" moment; a faint distant beat begins (muffled through the cups).
 FLUIDITY & WEIGHT NOTES: the headphone-placement is a precise ritual (adjusts the cups, presses for seal); all motion eases.
 FABRIC/HAIR/PROP PHYSICS: the headphones have weight and cushion-compression as they settle; the slung jacket has leather weight; the buns hold; tendrils drift.
 FOOTWORK & BODY FLOW: a relaxed contrapposto, a faint settle.
@@ -6731,18 +6731,18 @@ ATMOSPHERE: the explosive instant your song hits and your body takes over.
 COLOUR GRADE: the FIRST colour entering the white void — electric blue pulsing, vivid against the clinical white, her skin catching the blue. (Inverts CLIP 1's flat white.)
 TEXTURE & MICRO-DETAIL: the equalizer bars, soundwave-ring light, glossy buns, real pores under the electric light, headphone matte-finish.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation.
-### ANIMATION (this clip, ~5s — ★ THE DROP ignites soundwaves + colour)
+### ANIMATION (this clip, full 8s — ★ THE DROP ignites soundwaves + colour)
 SHOT TYPE & ANGLE: eye-level close-up; face ~75% dead-centre.
 CAMERA MOVEMENT (CHOREOGRAPHY): an imperceptible push-in, building intensity — one continuous shot.
 LENS: 85mm, f/2.0, shallow.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.5s — the faint beat builds; she holds, eyes closed, waiting.
-- 1.5–2.5s — ★ TRIGGER: THE DROP — her eyes snap open, the grin breaks, her head begins a slow nod; soundwaves and colour explode.
-- 2.5–5.0s — she grips the cups tighter, chin dropping with the nod, fully taken by the music.
+- 0.0–2.4s — the faint beat builds; she holds, eyes closed, waiting.
+- 2.4–4.0s — ★ TRIGGER: THE DROP — her eyes snap open, the grin breaks, her head begins a slow nod; soundwaves and colour explode.
+- 4.0–8.0s — she grips the cups tighter, chin dropping with the nod, fully taken by the music.
 FLUIDITY & WEIGHT NOTES: the drop transformation is fluid — eyes lead wide, then the grin, then the head-nod; all motion eases except the snap-open.
 FABRIC/HAIR/PROP PHYSICS: soundwave-rings travel at correct propagation speed (fast, visible), each expanding and fading; the equalizer bars jump with beat-timing and have mass (bounce, don't just jump); tendrils and the jacket-fringe begin to move with the bass (rhythm-driven, not wind).
 FOOTWORK & BODY FLOW: a head-nod beginning, shoulders loosening.
-MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE DROP at 1.5–3.0s — triggered by the beat-drop, concentric soundwave-rings pulse visibly from the headphone cups (each a different colour — blue, magenta, gold) and the grid-wall becomes a full living EQUALIZER, bars jumping with the music; colour explodes into the white void.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE DROP at 2.4–4.8s — triggered by the beat-drop, concentric soundwave-rings pulse visibly from the headphone cups (each a different colour — blue, magenta, gold) and the grid-wall becomes a full living EQUALIZER, bars jumping with the music; colour explodes into the white void.
 LIGHTING-IN-MOTION: colour EXPLODES from the grid — blue, then magenta, then gold — pulsing with the beat, painting her face.
 DIEGETIC AUDIO: THE BEAT DROPS (HARD — a heavy chest-hitting bass-kick, punchy); the soundwave-rings each a tonal "whoosh"; the equalizer bars a subtle crackle; her sharp inhale then a "YES" exhale.
 MASTER TRACK: this IS the song — a custom electronic build (Flume-meets-Disclosure) that DROPS hard here — full sub-bass, punchy kick, euphoric synth-lead, layered vocal chops.
@@ -6792,14 +6792,14 @@ ATMOSPHERE: peak euphoria — the body-takeover, lost in the song.
 COLOUR GRADE: ABSOLUTE MAXIMUM — every colour at full neon saturation, pulsing with the beat; the former white void now the most vivid frame in the set. (Matches CLIP 2 END STATE.)
 TEXTURE & MICRO-DETAIL: equalizer-bar detail, soundwave-ring light, bass-rippled fabric, glossy buns, neon catch-lights, floor-pulse glow.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation.
-### ANIMATION (this clip, ~5s — ★ full equalizer room, euphoric dance)
+### ANIMATION (this clip, full 8s — ★ full equalizer room, euphoric dance)
 SHOT TYPE & ANGLE: low-angle hero, full body; subject ~60% centre.
 CAMERA MOVEMENT (CHOREOGRAPHY): a static low hold — the music does everything — one continuous shot.
 LENS: 28mm, f/3.2, low and wide.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.5s — full-body movement with the beat — a slow shoulder-roll, a bounce, the jacket swinging.
-- 1.5–3.5s — a head-roll and the euphoria face, lost in it.
-- 3.5–5.0s — eyes still closed, grin widening — peak abandon.
+- 0.0–2.4s — full-body movement with the beat — a slow shoulder-roll, a bounce, the jacket swinging.
+- 2.4–5.6s — a head-roll and the euphoria face, lost in it.
+- 5.6–8.0s — eyes still closed, grin widening — peak abandon.
 FLUIDITY & WEIGHT NOTES: her hair and clothes move in rhythm (BASS pushing fabric on each hit, not wind); the jacket swings with leather-weight pendulum; all motion eases into the groove.
 FABRIC/HAIR/PROP PHYSICS: soundwave-rings expand correctly; the equalizer bars bounce with mass; bass-synced fabric-impacts; the jacket-swing has correct momentum; tendrils float on the bass.
 FOOTWORK & BODY FLOW: a beat-synced bounce, soft knees, weight shifting.
@@ -6853,18 +6853,18 @@ ATMOSPHERE: the dreamy comedown after the song — afterglow.
 COLOUR GRADE: TRANSITIONAL — vivid fading to white; the last pulses dying; clinical flatness returning. (Matches CLIP 3 END STATE, fading.)
 TEXTURE & MICRO-DETAIL: the headphone seal-release, glossy buns, real pores as the colour fades, jacket-leather grain, the dying equalizer.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation.
-### ANIMATION (this clip, ~4s — song fades, colour drains, afterglow)
+### ANIMATION (this clip, full 8s — song fades, colour drains, afterglow)
 SHOT TYPE & ANGLE: eye-level medium profile; subject ~55% right-of-centre.
 CAMERA MOVEMENT (CHOREOGRAPHY): a slow lateral track on the profile — one continuous shot.
 LENS: 50mm, f/2.8, shallow.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.5s — she slides one headphone cup off her ear.
-- 1.5–2.8s — she exhales long and slow — the afterglow settle — as the room drains to flat.
-- 2.8–4.0s — eyes opening steady, the dreamy half-smile — returned.
+- 0.0–3.0s — she slides one headphone cup off her ear.
+- 3.0–5.6s — she exhales long and slow — the afterglow settle — as the room drains to flat.
+- 5.6–8.0s — eyes opening steady, the dreamy half-smile — returned.
 FLUIDITY & WEIGHT NOTES: the cup slides with a satisfying seal-"pop"; the exhale is long; all motion eases.
 FABRIC/HAIR/PROP PHYSICS: the headphone slides with cushion-release; her hair and clothes return to normal gravity (no longer bass-driven); colour drains at a believable fade-rate.
 FOOTWORK & BODY FLOW: an easy upright settle.
-MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE FADE at 0.0–3.0s — as the song fades and the cup lifts, the equalizer lowers to flat, colour drains back to white, soundwaves dissipate; the room clinical again.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE FADE at 0.0–6.0s — as the song fades and the cup lifts, the equalizer lowers to flat, colour drains back to white, soundwaves dissipate; the room clinical again.
 LIGHTING-IN-MOTION: flat white reasserting fully.
 DIEGETIC AUDIO: the beat fading (quieter, more muffled as the cup lifts); the headphone-seal pop; flat room-tone returning; her long exhale; silence settling.
 MASTER TRACK: the song filters/sweeps down and out, decaying to a single held note.
@@ -6914,14 +6914,14 @@ ATMOSPHERE: clinical anticipatory emptiness resuming — ready for the next drop
 COLOUR GRADE: deliberately FLAT — white, grey, black only — matched to CLIP 1.
 TEXTURE & MICRO-DETAIL: ribbed tank, cargo stitching, leather grain, matte headphones, glossy buns, pendant, matte nails — matched.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation.
-### ANIMATION (this clip, ~4s — reset; loop close)
+### ANIMATION (this clip, full 8s — reset; loop close)
 SHOT TYPE & ANGLE: eye-level three-quarter body; subject ~50% left-third — matched to CLIP 1.
 CAMERA MOVEMENT (CHOREOGRAPHY): a gentle settle to the exact CLIP-1 establishing framing.
 LENS: 40mm, f/4 — matched.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.5s — she lowers the headphones to her neck, the dreamy half-smile fading to focus.
-- 1.5–2.8s — she reaches to lift them again, the anticipatory focus returning.
-- 2.8–4.0s — the lip-bite, brow set — the exact CLIP-1 opening pose, ready to drop the next song.
+- 0.0–3.0s — she lowers the headphones to her neck, the dreamy half-smile fading to focus.
+- 3.0–5.6s — she reaches to lift them again, the anticipatory focus returning.
+- 5.6–8.0s — the lip-bite, brow set — the exact CLIP-1 opening pose, ready to drop the next song.
 FLUIDITY & WEIGHT NOTES: the resettle eases into the opening; everything returns to flat-white rest.
 FABRIC/HAIR/PROP PHYSICS: the jacket slung with correct weight; headphones at neck-rest; the buns hold; tendrils drift — matched to CLIP 1.
 FOOTWORK & BODY FLOW: a relaxed contrapposto.
@@ -6993,7 +6993,7 @@ Mood: NOSTALGIC LONGING — the petrichor ache (the wistful one in Pillar D).
 - ENDING STYLE: the storm passes; a lingering, bittersweet hold.
 - DIFFERS FROM PILLAR-MATES BY: it is the WISTFUL, SLOW, GOLDEN-AIR one — memory and longing, not relief or euphoria.
 Grade: dramatic storm-VIVID — saturated dark-purple clouds + amber light-shaft + golden petrichor-glow + white dress + green flipping leaves; rich, electric, full mid-tone.
-Duration: ~22 seconds · 5 clips (angle-cut chain).
+Duration: 40.000 seconds total — 5 clips × 8s each (VEO renders one 8-second take per clip); the soundtrack is built to exactly 40.000s and loops seamlessly.
 Voice: SILENT — diegetic storm + an organic ambient score with a visceral sub-bass bloom.
 Identity safety: AIRA adult; wardrobe modest; mood nostalgic and elegant, never sexualized.
 State chain (angle-cut): CLIP 1 full body [pre-storm sensing, first drop → ★ golden petrichor RISES] → CUT → CLIP 2 close-up [the deep inhale, petrichor swirls into her, glowing] → CUT → CLIP 3 full-body hero [full storm, she glows golden from within] → CUT → CLIP 4 medium profile [storm passing, glow fading, peace] → CUT → CLIP 5 full body [reset, another storm coming = CLIP 1, loop].
@@ -7025,18 +7025,18 @@ COLOUR GRADE: dramatic storm-VIVID — saturated dark-purple clouds + amber sun-
 TEXTURE & MICRO-DETAIL: crisp cotton weave, heat-shimmer distortion, asphalt grain, air-dried wave texture, the silver leaf-flip, gold-chain glint, natural nail gloss.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~4s — ★ the first raindrop releases the golden petrichor)
+### ANIMATION (this clip, full 8s — ★ the first raindrop releases the golden petrichor)
 SHOT TYPE & ANGLE: eye-level full body, three-quarter; subject ~50% right-third.
 CAMERA MOVEMENT (CHOREOGRAPHY): a slow static-to-push-in — one continuous shot.
 LENS: 35mm, f/4, deep.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.5s — face tilted up, eyes closed, breathing deeply, sensing.
-- 1.5–2.5s — ★ TRIGGER: the first fat raindrop lands on her open palm AND on the hot pavement beside her bare foot.
-- 2.5–4.0s — golden-amber petrichor-clouds RISE from the impact point like spirits; her eyes open in delight, a sharp inhale.
+- 0.0–3.0s — face tilted up, eyes closed, breathing deeply, sensing.
+- 3.0–5.0s — ★ TRIGGER: the first fat raindrop lands on her open palm AND on the hot pavement beside her bare foot.
+- 5.0–8.0s — golden-amber petrichor-clouds RISE from the impact point like spirits; her eyes open in delight, a sharp inhale.
 FLUIDITY & WEIGHT NOTES: the sensing-up is open and still; the drop lands with a flinch of delight; all motion eases.
 FABRIC/HAIR/PROP PHYSICS: the raindrop hits with correct splash-physics on hot asphalt; the golden particulates rise with convection (warm air lifting them); her hair lifts in the pre-storm updraft; the pavement hisses.
 FOOTWORK & BODY FLOW: a relaxed open stance, a slight settle as the drop lands.
-MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE PETRICHOR at 1.5–3.5s — triggered by the first drop on hot pavement, golden-amber particulate clouds rise from the impact like ghosts of the earth's heat being released — the smell made visible, beginning to swirl toward her.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE PETRICHOR at 3.0–7.0s — triggered by the first drop on hot pavement, golden-amber particulate clouds rise from the impact like ghosts of the earth's heat being released — the smell made visible, beginning to swirl toward her.
 LIGHTING-IN-MOTION: the amber particulates glow with their own warm light, adding a golden key from below.
 DIEGETIC AUDIO: pre-storm tension (distant thunder, leaves flipping, electric air); the first fat drop hitting pavement (a decisive "SPLAT"); the pavement HISS of heat releasing; the golden cloud rising (a soft warm whoosh); her sharp delighted inhale.
 MASTER TRACK: sparse placed piano notes + distant thunder; a deep sub-bass beginning to bloom on the first drop.
@@ -7087,18 +7087,18 @@ COLOUR GRADE: VIVID — golden petrichor-glow against storm-purple sky, the warm
 TEXTURE & MICRO-DETAIL: golden particulate detail, a raindrop on the lip, real pores in the golden glow, wet-strand on the cheek, lash detail.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~5s — ★ the deep inhale draws the petrichor in, glowing within)
+### ANIMATION (this clip, full 8s — ★ the deep inhale draws the petrichor in, glowing within)
 SHOT TYPE & ANGLE: slight low-angle close-up; face ~75% dead-centre.
 CAMERA MOVEMENT (CHOREOGRAPHY): an imperceptible push-in — one continuous shot.
 LENS: 85mm, f/2.0, shallow.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.5s — the DEEP inhale: chest expanding, nostrils wide, eyes closed savouring.
-- 1.5–2.8s — the golden petrichor-clouds are drawn toward her inhale, glowing brighter as they near her mouth/nose, some entering her — her skin briefly glowing from within.
-- 2.8–5.0s — eyes open BRIGHT, the full-body sensory smile arriving.
+- 0.0–2.4s — the DEEP inhale: chest expanding, nostrils wide, eyes closed savouring.
+- 2.4–4.5s — the golden petrichor-clouds are drawn toward her inhale, glowing brighter as they near her mouth/nose, some entering her — her skin briefly glowing from within.
+- 4.5–8.0s — eyes open BRIGHT, the full-body sensory smile arriving.
 FLUIDITY & WEIGHT NOTES: the inhale leads (chest, then the glow drawn in); eyes open bright; all motion eases.
 FABRIC/HAIR/PROP PHYSICS: the golden particles are drawn inward with her breath (correct airflow, like smoke to a vent), glowing brighter near heat (her body), entering her nostrils on the inhale; rain increases with correct streak; the lip-drop holds with surface tension.
 FOOTWORK & BODY FLOW: head tilted back, chest expanding.
-MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE INHALE-GLOW at 1.5–3.5s — triggered by her deep breath, the golden petrichor swirls inward and enters her, briefly glowing from within her silhouette (the scent literally filling her); the sensation made visible inside her.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE INHALE-GLOW at 2.4–5.6s — triggered by her deep breath, the golden petrichor swirls inward and enters her, briefly glowing from within her silhouette (the scent literally filling her); the sensation made visible inside her.
 LIGHTING-IN-MOTION: the golden glow intensifies as the particles concentrate at her face, then dims as they enter her — her skin glowing from within for a beat.
 DIEGETIC AUDIO: the deep inhale (cinematic, resonant); the golden particles' soft warm harmonic hum as they swirl; raindrops increasing (patter building); the pavement hiss; a soft bass note as the glow enters her.
 MASTER TRACK: the sub-bass BLOOM + a warm analog pad swelling with the inhale-glow.
@@ -7149,18 +7149,18 @@ COLOUR GRADE: MAXIMUM VIVID — dark storm-purple + golden petrichor-amber + her
 TEXTURE & MICRO-DETAIL: heavy rain-streaks, golden petrichor rising from impacts, her internal glow pulse, wet-clinging fabric with surface tension, rain on her skin, forming puddles.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~5s — ★ full storm, she glows golden from within)
+### ANIMATION (this clip, full 8s — ★ full storm, she glows golden from within)
 SHOT TYPE & ANGLE: low-angle hero, full body; subject ~60% centre.
 CAMERA MOVEMENT (CHOREOGRAPHY): a static low hold — the rain and glow do everything — one continuous shot.
 LENS: 28mm, f/3.2, low and wide.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.5s — she opens her arms fully, face up, in the pouring rain.
-- 1.5–3.5s — a slow quarter-turn on the spot, eyes closed, bathing in it, glowing from within.
-- 3.5–5.0s — a joyful exhale-laugh, rain on her face, the transcendent peak.
+- 0.0–2.4s — she opens her arms fully, face up, in the pouring rain.
+- 2.4–5.6s — a slow quarter-turn on the spot, eyes closed, bathing in it, glowing from within.
+- 5.6–8.0s — a joyful exhale-laugh, rain on her face, the transcendent peak.
 FLUIDITY & WEIGHT NOTES: the arms open in surrender; the spin is slow and blissful; the inner-glow pulses with her heartbeat; all motion eases.
 FABRIC/HAIR/PROP PHYSICS: rain has correct heavy-storm density and speed; golden clouds rise with convection from each hot-pavement impact; her internal glow pulses organically; wet hair and fabric cling with surface tension; puddles form and ripple.
 FOOTWORK & BODY FLOW: a grounded slow spin, bare feet splashing in the forming puddle.
-MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE INNER-GLOW PEAK at 0.0–4.0s — the petrichor she breathed glows brightest here within her silhouette while golden clouds keep rising from every impact; she's the warm sun in the cold storm.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE INNER-GLOW PEAK at 0.0–6.4s — the petrichor she breathed glows brightest here within her silhouette while golden clouds keep rising from every impact; she's the warm sun in the cold storm.
 LIGHTING-IN-MOTION: her golden inner-glow brightest here; golden petrichor rising everywhere; lightning flickers far off.
 DIEGETIC AUDIO: FULL STORM — heavy immersive rain-impact; distant thunder rolling; golden clouds rising (a warm sub-bass humming chorus); her joyful exhale-laugh; the pavement hiss at maximum; rain on her skin (a close intimate patter).
 MASTER TRACK: full immersive rain-texture + the warm pad + the sub-bass bloom at its fullest — the emotional peak.
@@ -7211,18 +7211,18 @@ COLOUR GRADE: TRANSITIONAL — storm fading, fresh cleaner cooler light arriving
 TEXTURE & MICRO-DETAIL: wet-wave detail, breath-vapour, dripping dress, fresh post-rain light, cooling-pavement steam.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~4s — storm passing, glow fading, peace)
+### ANIMATION (this clip, full 8s — storm passing, glow fading, peace)
 SHOT TYPE & ANGLE: eye-level medium profile; subject ~55% left-of-centre.
 CAMERA MOVEMENT (CHOREOGRAPHY): a slow lateral track on the profile — one continuous shot.
 LENS: 50mm, f/2.8, shallow.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.5s — she opens her eyes to the clearing sky.
-- 1.5–2.8s — a long slow exhale (last visible breath-vapour), the calm settle.
-- 2.8–4.0s — the gentle complete smile — "I got what I needed".
+- 0.0–3.0s — she opens her eyes to the clearing sky.
+- 3.0–5.6s — a long slow exhale (last visible breath-vapour), the calm settle.
+- 5.6–8.0s — the gentle complete smile — "I got what I needed".
 FLUIDITY & WEIGHT NOTES: the eye-open is gentle; the exhale is long; she lifts the sandals as the real world returns; all motion eases.
 FABRIC/HAIR/PROP PHYSICS: the golden particles disperse and fade naturally; rain transitions to dripping; steam rises normally from cooling pavement; her hair and dress drip.
 FOOTWORK & BODY FLOW: an upright settle, lifting the sandals.
-MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE PASSING at 0.0–3.0s — the golden petrichor fades to nothing, the rain thins to drips, the pavement cools (normal steam), her inner-glow dims out; the sensation gently complete.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE PASSING at 0.0–6.0s — the golden petrichor fades to nothing, the rain thins to drips, the pavement cools (normal steam), her inner-glow dims out; the sensation gently complete.
 LIGHTING-IN-MOTION: golden fading; fresh post-storm light (cleaner, cooler) arriving.
 DIEGETIC AUDIO: rain thinning to drips; the last golden hum fading; birds beginning after the storm; a fresh breeze; her exhale; dripping from awnings.
 MASTER TRACK: the rain-texture thins; the pad fades; the placed piano notes return.
@@ -7273,14 +7273,14 @@ COLOUR GRADE: dramatic storm-VIVID — dark-purple clouds, amber sun-shaft, hot 
 TEXTURE & MICRO-DETAIL: cotton weave, heat-shimmer, asphalt grain, wave texture, leaf-flip, gold-chain glint, natural nails — matched.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~4s — reset; loop close)
+### ANIMATION (this clip, full 8s — reset; loop close)
 SHOT TYPE & ANGLE: eye-level full body, three-quarter; subject ~50% right-third — matched to CLIP 1.
 CAMERA MOVEMENT (CHOREOGRAPHY): a gentle settle to the exact CLIP-1 establishing framing.
 LENS: 35mm, f/4 — matched.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.5s — the pavement heats and dries, heat-shimmer returning; the calm fading to sensing.
-- 1.5–2.8s — she tilts her face up again, nostrils flaring — she smells the next one coming.
-- 2.8–4.0s — eyes closing, palm opening — the exact CLIP-1 opening pose, waiting for the first drop.
+- 0.0–3.0s — the pavement heats and dries, heat-shimmer returning; the calm fading to sensing.
+- 3.0–5.6s — she tilts her face up again, nostrils flaring — she smells the next one coming.
+- 5.6–8.0s — eyes closing, palm opening — the exact CLIP-1 opening pose, waiting for the first drop.
 FLUIDITY & WEIGHT NOTES: the sensing-up matches CLIP 1; everything returns to the charged opening.
 FABRIC/HAIR/PROP PHYSICS: heat-shimmer returns; new storm-clouds darken; the dress dries; hair lifts in the new gust — matched to CLIP 1.
 FOOTWORK & BODY FLOW: a relaxed open stance, sensing.
@@ -7352,7 +7352,7 @@ Mood: HYPNOTIC COMFORT — the threshold of sleep (the softest, slowest one in P
 - ENDING STYLE: she settles gently back as she almost wakes.
 - DIFFERS FROM PILLAR-MATES BY: it is the SOFTEST, SLOWEST, near-still one — hypnotic calm, the deliberate opposite of D-2's beat-drop.
 Grade: soft warm bedside-amber dissolving into a dreamy lavender-cloud-and-starfield with vivid pink/blue nebula washes; intimate and ethereal, deep but soft.
-Duration: ~22 seconds · 5 clips (angle-cut chain).
+Duration: 40.000 seconds total — 5 clips × 8s each (VEO renders one 8-second take per clip); the soundtrack is built to exactly 40.000s and loops seamlessly.
 Voice: SILENT — only her breath; an ambient sleep-into-void score.
 Identity safety: AIRA adult; wardrobe modest sleepwear; mood tender and peaceful, never sexualized.
 State chain (angle-cut): CLIP 1 close-up overhead [face on pillow, heavy eyes → ★ room begins DISSOLVING] → CUT → CLIP 2 medium [room 50% dissolved, she begins to FLOAT] → CUT → CLIP 3 full-body [floating in vast dreamspace, hair like ink in water] → CUT → CLIP 4 close-up [returning, settling back, eyes flutter] → CUT → CLIP 5 close-up overhead [back on pillow, heavy eyes = CLIP 1, loop].
@@ -7384,18 +7384,18 @@ COLOUR GRADE: soft warm bedside-amber (the one concept where soft low-key serves
 TEXTURE & MICRO-DETAIL: white-linen weave, real sleep-softened skin, individual hair-strands on the pillow, the duvet's soft fold, the thin chain.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~4s — ★ heavy eyes begin dissolving the room)
+### ANIMATION (this clip, full 8s — ★ heavy eyes begin dissolving the room)
 SHOT TYPE & ANGLE: overhead close-up; face ~70% dead-centre.
 CAMERA MOVEMENT (CHOREOGRAPHY): an imperceptible slow zoom-in — intimacy building — one continuous shot.
 LENS: 85mm overhead, f/2.0, shallow.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.5s — a slow long blink (almost closes, fights open).
-- 1.5–2.5s — ★ TRIGGER: another blink, even longer — the eyes barely make it back open — and the bedroom edges begin to DISSOLVE and blur.
-- 2.5–4.0s — her fingers relax further on the pillow; the room softens toward formless warmth.
+- 0.0–3.0s — a slow long blink (almost closes, fights open).
+- 3.0–5.0s — ★ TRIGGER: another blink, even longer — the eyes barely make it back open — and the bedroom edges begin to DISSOLVE and blur.
+- 5.0–8.0s — her fingers relax further on the pillow; the room softens toward formless warmth.
 FLUIDITY & WEIGHT NOTES: the blinks take longer each time (losing the fight, beautifully); the dissolution is organic (watercolour bleeding); all motion eases, heavy and slow.
 FABRIC/HAIR/PROP PHYSICS: objects don't disappear sharply — they soften and fade; the pillow texture blurs; her fingers uncurl from a loose hold to open; reality unwinding gently.
 FOOTWORK & BODY FLOW: lying still, only the breath and the heavy blinks.
-MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE DISSOLVE BEGINS at 1.5–3.0s — triggered by the heavy blink, the bedroom edges blur and dissolve like watercolour bleeding; the nightstand losing form, the lamp-glow softening into formless warm light, a cool-blue dreamspace creeping in at the edges.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE DISSOLVE BEGINS at 3.0–6.0s — triggered by the heavy blink, the bedroom edges blur and dissolve like watercolour bleeding; the nightstand losing form, the lamp-glow softening into formless warm light, a cool-blue dreamspace creeping in at the edges.
 LIGHTING-IN-MOTION: the lamp-glow softens, the frame edges dim, a subtle cool-blue (moonlight/dreamspace) creeping in.
 DIEGETIC AUDIO: near-silence — only her breath (slow, deepening); a faint distant wind-tone (sleep approaching); the room losing its sounds (a clock-tick fading out); ASMR-intimate proximity to her breathing.
 MASTER TRACK: an intimate solo piano + a warm held pad (like breathing).
@@ -7446,18 +7446,18 @@ COLOUR GRADE: dreamspace palette emerging — soft lavender clouds, warm-white s
 TEXTURE & MICRO-DETAIL: zero-gravity hair-strands, drifting camisole fabric, the floating chain, soft cloud-forms, breath-vapour.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~4s — ★ room dissolves, she begins to float)
+### ANIMATION (this clip, full 8s — ★ room dissolves, she begins to float)
 SHOT TYPE & ANGLE: bed-height eye-level medium; subject ~55% centre.
 CAMERA MOVEMENT (CHOREOGRAPHY): a very slow rise (the camera lifts with her as she begins to float) — one continuous shot.
 LENS: 50mm, f/2.0, shallow.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.5s — her body begins to lift off the dissolving bed, imperceptible at first.
-- 1.5–2.8s — she's floating, still in the sleeping pose, hair streaming upward.
-- 2.8–4.0s — the bed dissolves entirely into cloud; she floats in the gentle space.
+- 0.0–3.0s — her body begins to lift off the dissolving bed, imperceptible at first.
+- 3.0–5.6s — she's floating, still in the sleeping pose, hair streaming upward.
+- 5.6–8.0s — the bed dissolves entirely into cloud; she floats in the gentle space.
 FLUIDITY & WEIGHT NOTES: the float is GENTLE — not sudden, the slowness of a bubble rising; the hair floats with zero-gravity physics (strands separating); all motion eases.
 FABRIC/HAIR/PROP PHYSICS: she rises with bubble-slowness; hair floats with zero-g (individual strands); the camisole fabric drifts weightless; the chain floats with correct metal-mass (rises slower than fabric); the pillow dissolves and her head tips back as support vanishes.
 FOOTWORK & BODY FLOW: completely asleep — no conscious motion, only the gentle float.
-MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE FLOAT at 0.0–4.0s — triggered by sinking deeper into sleep, the bed dissolves entirely into cloud, the room becomes a vast gentle cloud-and-star space, and she floats up into it, hair and camisole drifting in zero-gravity.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE FLOAT at 0.0–8.0s — triggered by sinking deeper into sleep, the bed dissolves entirely into cloud, the room becomes a vast gentle cloud-and-star space, and she floats up into it, hair and camisole drifting in zero-gravity.
 LIGHTING-IN-MOTION: sourceless dreamspace luminescence (soft, even from all directions); starlight as tiny points; the warm lamp gone.
 DIEGETIC AUDIO: absolute hush — only her deep slow breathing; a soft distant cosmic hum; the chain lifting off skin (barely audible); the sound of space (vast, quiet, enveloping).
 MASTER TRACK: the piano fades, the pad grows vast, a sub-bass entering as the dreamspace opens.
@@ -7508,14 +7508,14 @@ COLOUR GRADE: dreamy but VIVID where it counts — lavender clouds + pink/blue n
 TEXTURE & MICRO-DETAIL: ink-in-water hair-spread, weightless fabric, the orbiting chain, volumetric cloud-drift, real slack-sleep skin.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~5s — ★ floating in the vast dreamspace)
+### ANIMATION (this clip, full 8s — ★ floating in the vast dreamspace)
 SHOT TYPE & ANGLE: eye-level full body float; subject ~50% centre.
 CAMERA MOVEMENT (CHOREOGRAPHY): a very slow circular orbit around her floating form — dreamlike, weightless — one continuous shot.
 LENS: 35mm, f/2.8.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.0s — she rotates slowly (a gentle drift, not a spin).
-- 2.0–3.5s — her hand moves to her face in a sleep-adjustment — purely unconscious.
-- 3.5–5.0s — she settles back into the slack float, breathing slow.
+- 0.0–3.2s — she rotates slowly (a gentle drift, not a spin).
+- 3.2–5.6s — her hand moves to her face in a sleep-adjustment — purely unconscious.
+- 5.6–8.0s — she settles back into the slack float, breathing slow.
 FLUIDITY & WEIGHT NOTES: she drifts with zero-gravity physics (slow rotation, no friction); the sleep-hand-adjust is a real unconscious gesture; the only motion is the breath and the drift.
 FABRIC/HAIR/PROP PHYSICS: her hair moves like underwater (slow, individual strands); the chain orbits with correct orbital mechanics; the clouds have realistic volumetric drift; the camisole drifts weightless.
 FOOTWORK & BODY FLOW: no conscious motion — sleep holds perfectly; bare feet relaxed.
@@ -7570,18 +7570,18 @@ COLOUR GRADE: TRANSITIONAL — dreamspace lavender fading, warm amber lamp retur
 TEXTURE & MICRO-DETAIL: hair re-settling on linen, the re-forming nightstand, the duvet draping, real sleep-soft skin, an eyelid-flutter.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~4s — returning, room re-forms, eyes flutter)
+### ANIMATION (this clip, full 8s — returning, room re-forms, eyes flutter)
 SHOT TYPE & ANGLE: overhead close-up; face ~70% centre.
 CAMERA MOVEMENT (CHOREOGRAPHY): a static overhead hold — watching her return — one continuous shot.
 LENS: 85mm overhead, f/2.0, shallow.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.5s — her body settles back onto the solid bed (a gentle landing).
-- 1.5–2.8s — the room fully re-forms; the lamp solidifies; the duvet settles over her.
-- 2.8–4.0s — eyelids flutter — fighting to open — eyes cracking open, the lamp too bright.
+- 0.0–3.0s — her body settles back onto the solid bed (a gentle landing).
+- 3.0–5.6s — the room fully re-forms; the lamp solidifies; the duvet settles over her.
+- 5.6–8.0s — eyelids flutter — fighting to open — eyes cracking open, the lamp too bright.
 FLUIDITY & WEIGHT NOTES: the landing is gentle (the last millimetre of gravity returning); the flutter is a real near-waking; all motion eases.
 FABRIC/HAIR/PROP PHYSICS: she descends with the lightness of returning gravity; her hair settles with correct weight; the duvet drapes with real fabric physics; the room re-forms (un-blurs).
 FOOTWORK & BODY FLOW: lying, the gentle settle and flutter.
-MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE RETURN at 0.0–2.5s — triggered by nearly waking, the dreamspace recedes and the room re-forms (cloud→walls, starfield→ceiling, dream-luminescence→lamp-amber); gravity returns and she settles back to the bed.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE RETURN at 0.0–5.0s — triggered by nearly waking, the dreamspace recedes and the room re-forms (cloud→walls, starfield→ceiling, dream-luminescence→lamp-amber); gravity returns and she settles back to the bed.
 LIGHTING-IN-MOTION: lamp-glow at full return; dream-luminescence gone.
 DIEGETIC AUDIO: the vast cosmic sound fading; room sounds returning (clock-tick, ambient hum); the duvet settling (a fabric whisper); her slightly louder breath as she approaches waking.
 MASTER TRACK: the sub recedes, the intimate piano notes returning.
@@ -7632,14 +7632,14 @@ COLOUR GRADE: soft warm bedside-amber — white linen, warm skin, lamp-amber, bl
 TEXTURE & MICRO-DETAIL: linen weave, sleep-soft skin, hair-strands on the pillow, the duvet fold, the thin chain — matched.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~4s — reset; loop close)
+### ANIMATION (this clip, full 8s — reset; loop close)
 SHOT TYPE & ANGLE: overhead close-up; face ~70% centre — matched to CLIP 1.
 CAMERA MOVEMENT (CHOREOGRAPHY): a gentle settle to the exact CLIP-1 overhead framing.
 LENS: 85mm overhead, f/2.0 — matched.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.5s — the near-waking fades; her eyes grow heavy again.
-- 1.5–2.8s — a slow heavy blink begins (the fight returning).
-- 2.8–4.0s — eyelids three-quarter closed — the exact CLIP-1 opening pose, about to drift again.
+- 0.0–3.0s — the near-waking fades; her eyes grow heavy again.
+- 3.0–5.6s — a slow heavy blink begins (the fight returning).
+- 5.6–8.0s — eyelids three-quarter closed — the exact CLIP-1 opening pose, about to drift again.
 FLUIDITY & WEIGHT NOTES: the heaviness returns; everything eases back to the opening edge-of-sleep.
 FABRIC/HAIR/PROP PHYSICS: the room solid; the lamp warm; her fingers curl on the pillow — matched to CLIP 1.
 FOOTWORK & BODY FLOW: lying still, the heavy blinks.
@@ -7711,7 +7711,7 @@ Mood: SANCTUARY EXHALE — the warm-home hug (the cosy domestic one in Pillar D)
 - ENDING STYLE: she sinks into the couch and the whole room sighs with her.
 - DIFFERS FROM PILLAR-MATES BY: it is the WARM/AMBER, DOMESTIC, slow-exhale one — a hug, not a jolt (the deliberate warm counterpart to D-1's cold snap).
 Grade: starts deliberately COLD blue-grey (rigid, lonely) then floods to VIVID warm — saturated amber, candle-gold, plush navy/rust, golden motes; rich, full mid-tone at the warmth.
-Duration: ~22 seconds · 5 clips (angle-cut chain).
+Duration: 40.000 seconds total — 5 clips × 8s each (VEO renders one 8-second take per clip); the soundtrack is built to exactly 40.000s and loops seamlessly.
 Voice: SILENT — diegetic apartment + a warm indie-folk score.
 Identity safety: AIRA adult; wardrobe modest; mood warm and relatable, never sexualized.
 State chain (angle-cut): CLIP 1 back pose [closes door → ★ WARMTH-WAVE radiates] → CUT → CLIP 2 profile [de-armoring: coat off, hair down, boots off; room warm] → CUT → CLIP 3 full-body hero [falls back into the couch, room EXHALES relief] → CUT → CLIP 4 close-up [sunk into cushions, peace] → CUT → CLIP 5 back pose [opens door to leave, warmth drains = CLIP 1, loop].
@@ -7743,18 +7743,18 @@ COLOUR GRADE: deliberately COLD — blue-grey, charcoal, steel; her charcoal coa
 TEXTURE & MICRO-DETAIL: wool-coat nap, the brass doorknob, the hard grey couch, sharp furniture-edges, escaped ponytail strands, cold window-light.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, garish oversaturation, flat-blown highlights.
 
-### ANIMATION (this clip, ~4s — ★ closing the door radiates the warmth-wave)
+### ANIMATION (this clip, full 8s — ★ closing the door radiates the warmth-wave)
 SHOT TYPE & ANGLE: eye-level full body, back pose; subject ~50% centre.
 CAMERA MOVEMENT (CHOREOGRAPHY): a static hold — letting the relief land — one continuous shot.
 LENS: 35mm, f/4, deep.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.5s — she pushes the door fully shut.
-- 1.5–2.5s — ★ TRIGGER: the door CLICKS — her shoulders drop, she sags against the door, head tipping back.
-- 2.5–4.0s — a warmth-wave radiates from the door across the room; cold blue becomes warm amber; furniture softens; golden motes appear.
+- 0.0–3.0s — she pushes the door fully shut.
+- 3.0–5.0s — ★ TRIGGER: the door CLICKS — her shoulders drop, she sags against the door, head tipping back.
+- 5.0–8.0s — a warmth-wave radiates from the door across the room; cold blue becomes warm amber; furniture softens; golden motes appear.
 FLUIDITY & WEIGHT NOTES: the shoulder-drop is instant relief on the click; the sag has real weight; the warmth-wave travels smoothly; all motion eases.
-FABRIC/HAIR/PROP PHYSICS: the warmth-wave travels at a visible but fast speed (1–2s to fill the room); colour-temperature shifts smoothly on every surface; the couch-cushions puff (a sigh); golden motes drift with Brownian motion; the bag slides off her shoulder with gravity.
+FABRIC/HAIR/PROP PHYSICS: the warmth-wave travels at a visible but fast speed (2.0–4.0s to fill the room); colour-temperature shifts smoothly on every surface; the couch-cushions puff (a sigh); golden motes drift with Brownian motion; the bag slides off her shoulder with gravity.
 FOOTWORK & BODY FLOW: a back-sag against the door, weight releasing.
-MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE WARMTH-WAVE at 1.5–3.5s — triggered by the door-click, a shimmering amber pulse radiates outward across the floor, up the walls, over every surface: cold blue-grey light becomes warm amber, sharp furniture-edges soften, the rigid couch exhales (cushions puffing), golden comfort-motes appear in the air.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE WARMTH-WAVE at 3.0–7.0s — triggered by the door-click, a shimmering amber pulse radiates outward across the floor, up the walls, over every surface: cold blue-grey light becomes warm amber, sharp furniture-edges soften, the rigid couch exhales (cushions puffing), golden comfort-motes appear in the air.
 LIGHTING-IN-MOTION: the warmth-wave transforms the light — cold blue-grey to warm amber sweeping from the door outward, reaching the far wall by 3.5s.
 DIEGETIC AUDIO: the door CLICK (decisive, satisfying, final); the warmth-wave (a soft deep "whooom" like a room exhaling + a gentle amber-toned hum); the couch-puff (a tiny fabric exhale); golden motes entering (a quiet sparkle-shimmer); her own long deep exhale.
 MASTER TRACK: silence + city-sounds, then a warm bass-note + a soft fingerpicked guitar entering on the click.
@@ -7805,14 +7805,14 @@ COLOUR GRADE: VIVID warm — amber, gold, plush navy/rust, candle-gold, golden m
 TEXTURE & MICRO-DETAIL: wool-coat slide, the released hair-cascade, golden motes, candle-flame, warm-lit skin, the house-pendant.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~4s — the de-armoring)
+### ANIMATION (this clip, full 8s — the de-armoring)
 SHOT TYPE & ANGLE: eye-level medium profile; subject ~55% right-of-centre.
 CAMERA MOVEMENT (CHOREOGRAPHY): a slow lateral track on the profile — one continuous shot.
 LENS: 50mm, f/2.8, shallow.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.5s — the trifecta begins: coat shrug, hair-pull, boot-kick — all at once, fluid, practiced.
-- 1.5–2.8s — hair falls free (a visible cascade), the coat hits the floor, a boot thuds — she's shed the day.
-- 2.8–4.0s — eyes opening soft and heavy — home; the "ahh" face.
+- 0.0–3.0s — the trifecta begins: coat shrug, hair-pull, boot-kick — all at once, fluid, practiced.
+- 3.0–5.6s — hair falls free (a visible cascade), the coat hits the floor, a boot thuds — she's shed the day.
+- 5.6–8.0s — eyes opening soft and heavy — home; the "ahh" face.
 FLUIDITY & WEIGHT NOTES: the shed is fluid and practiced; the hair-cascade releases with tension-physics; the coat falls with wool-weight; all motion eases.
 FABRIC/HAIR/PROP PHYSICS: the coat slides off skin with friction then falls with wool-weight; the hair-tie release has elastic-snap and the hair cascades; the boot-kick has correct leverage; golden motes puff where the coat lands.
 FOOTWORK & BODY FLOW: a boot-kick, weight shifting, the shed.
@@ -7867,18 +7867,18 @@ COLOUR GRADE: VIVID warm at its richest — amber, gold, plush navy/rust, candle
 TEXTURE & MICRO-DETAIL: streaming hair mid-fall, the half-off sock, plush couch fabric, golden motes, the candle bowing, warm skin.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~5s — ★ falls back into the couch, room EXHALES relief)
+### ANIMATION (this clip, full 8s — ★ falls back into the couch, room EXHALES relief)
 SHOT TYPE & ANGLE: slight low-angle full body; subject ~60% centre.
 CAMERA MOVEMENT (CHOREOGRAPHY): a static low hold — the fall plays — one continuous shot.
 LENS: 28mm, f/3.2, low and wide.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.5s — she tips backward (the decision) — arms opening, back arching.
-- 1.5–2.8s — ★ she LANDS in the couch (a deep plush impact, cushions swallowing her); the room exhales — golden motes WHOOSH outward, the candle bows, a throw slides toward her.
-- 2.8–5.0s — the abandon-laugh becomes a long satisfied "ahhhh" as the couch catches her.
+- 0.0–2.4s — she tips backward (the decision) — arms opening, back arching.
+- 2.4–4.5s — ★ she LANDS in the couch (a deep plush impact, cushions swallowing her); the room exhales — golden motes WHOOSH outward, the candle bows, a throw slides toward her.
+- 4.5–8.0s — the abandon-laugh becomes a long satisfied "ahhhh" as the couch catches her.
 FLUIDITY & WEIGHT NOTES: the fall has correct gravity-acceleration and body-rotation; the landing has real cushion-compression (springs, foam); all motion eases except the satisfying FWUMP.
 FABRIC/HAIR/PROP PHYSICS: the body meets the couch with a deep sink (cushions compressing, fabric creasing around her); the mote-burst follows air-displacement; the candle gutters from the draft; the throw slides with fabric-on-fabric friction.
 FOOTWORK & BODY FLOW: a full sink-back into the cushions, hair fanning.
-MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE RELIEF at 1.5–2.8s — triggered by the couch-fall, the room exhales: golden motes whoosh out in a burst, the candle bows, the cushions wrap her, a throw slides over — the sanctuary embracing her.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE RELIEF at 2.4–4.5s — triggered by the couch-fall, the room exhales: golden motes whoosh out in a burst, the candle bows, the cushions wrap her, a throw slides over — the sanctuary embracing her.
 LIGHTING-IN-MOTION: golden motes swirl in the air-disturbance, creating moving light-patterns; the warmth at its richest.
 DIEGETIC AUDIO: the FALL (a whoosh of air); the LANDING (a deep satisfying "FWUMP" of couch-cushion impact — the most satisfying sound in the set); the mote-burst (sparkle-whoosh); the candle guttering; her release-laugh then the satisfied "ahhhh"; the throw sliding.
 MASTER TRACK: the full warm arrangement (guitar + bass + brushed drums + a wordless "ooh" pad) at its warmest swell — the emotional payoff.
@@ -7929,14 +7929,14 @@ COLOUR GRADE: VIVID warm — warm skin, amber light, golden motes; maximum sanct
 TEXTURE & MICRO-DETAIL: plush-cushion nap, golden motes, fanned hair, the throw fabric, real relaxed-skin texture, candle-glow.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~4s — complete peace)
+### ANIMATION (this clip, full 8s — complete peace)
 SHOT TYPE & ANGLE: couch-height eye-level close-up; face ~70% centre.
 CAMERA MOVEMENT (CHOREOGRAPHY): an imperceptible push-in — one continuous shot.
 LENS: 85mm, f/2.0, shallow.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.5s — she nuzzles slightly into the cushion (unconscious comfort-seeking).
-- 1.5–2.8s — a single slow deep breath and the quietest satisfied "mmm".
-- 2.8–4.0s — the effortless smile settles; deep comfort-breathing.
+- 0.0–3.0s — she nuzzles slightly into the cushion (unconscious comfort-seeking).
+- 3.0–5.6s — a single slow deep breath and the quietest satisfied "mmm".
+- 5.6–8.0s — the effortless smile settles; deep comfort-breathing.
 FLUIDITY & WEIGHT NOTES: the nuzzle compresses the cushion; the breath is deep; all motion eases.
 FABRIC/HAIR/PROP PHYSICS: motes drift with Brownian motion; her chest rises/falls with deep breathing; the cheek presses into the cushion (correct skin-on-fabric compression); the hand on chest has relaxed weight.
 FOOTWORK & BODY FLOW: sunk-in stillness, only the breath.
@@ -7991,18 +7991,18 @@ COLOUR GRADE: draining to COLD — blue-grey, charcoal, steel — matched to CLI
 TEXTURE & MICRO-DETAIL: wool-coat nap, the brass knob, the rigidifying couch, sharp edges, escaped strands, cold window-light — matched.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, garish oversaturation, flat-blown highlights.
 
-### ANIMATION (this clip, ~4s — reset; loop close)
+### ANIMATION (this clip, full 8s — reset; loop close)
 SHOT TYPE & ANGLE: eye-level full body, back pose; subject ~50% centre — matched to CLIP 1.
 CAMERA MOVEMENT (CHOREOGRAPHY): a static hold matching the CLIP-1 framing.
 LENS: 35mm, f/4 — matched.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.5s — she stands (implied risen from the couch), coat back on, and reaches the door, hand on the knob.
-- 1.5–2.8s — ★ as she opens the door to leave, the warmth DRAINS back — amber fading to cold blue, motes vanishing, the couch rigidifying, the candle extinguishing.
-- 2.8–4.0s — her shoulders rise back to held — the exact CLIP-1 opening pose (about to close the door on a new return).
+- 0.0–3.0s — she stands (implied risen from the couch), coat back on, and reaches the door, hand on the knob.
+- 3.0–5.6s — ★ as she opens the door to leave, the warmth DRAINS back — amber fading to cold blue, motes vanishing, the couch rigidifying, the candle extinguishing.
+- 5.6–8.0s — her shoulders rise back to held — the exact CLIP-1 opening pose (about to close the door on a new return).
 FLUIDITY & WEIGHT NOTES: the reverse-wave (warmth draining toward the door) matches the opening; the re-armoring is the body tensing; all motion eases.
 FABRIC/HAIR/PROP PHYSICS: the warmth drains outward toward the door (rewind of the wave); the coat hangs heavy; the room re-cools.
 FOOTWORK & BODY FLOW: facing the door, hand on the knob — the CLIP-1 stance.
-MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE DRAIN at 1.5–2.8s — triggered by opening the door, the warmth drains back to cold (the reverse of the warmth-wave); the apartment returns to its cold rigid "waiting" state, restoring CLIP 1.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ THE DRAIN at 3.0–5.6s — triggered by opening the door, the warmth drains back to cold (the reverse of the warmth-wave); the apartment returns to its cold rigid "waiting" state, restoring CLIP 1.
 LIGHTING-IN-MOTION: warm amber draining to cold blue-grey, matched to CLIP 1.
 DIEGETIC AUDIO: the warmth-hum fading; cold silence returning; city sounds through the opening door; her hand on the brass — back to the CLIP-1 bed.
 MASTER TRACK: the warm arrangement decays to silence + city-sounds, looping cleanly.
@@ -8073,7 +8073,7 @@ Mood: SERENE AWE — meditative passage of time (the smooth-glide one in Pillar 
 - WHAT TRANSFORMS + MEANING: nature's SEASONS (organic, cyclical) — the calm acceptance of time passing.
 - DIFFERS FROM PILLAR-MATES BY: the SMOOTH BEHIND-HER GLIDE through seasons — flowing and meditative, not editorial (E-2) or deadpan (E-4).
 Grade: VIVID per season — saturated cherry-blossom pink (spring), blazing wheat-gold (summer), molten orange-red (autumn), crystalline blue-white (winter); rich blacks, full mid-tone, zero murk; her camel coat the warm constant anchor across all.
-Duration: ~30 seconds · 5 clips (angle-cut state-chain).
+Duration: 40.000 seconds total — 5 clips × 8s each (VEO renders one 8-second take per clip); the soundtrack is built to exactly 40.000s and loops seamlessly.
 Voice: SILENT — diegetic seasonal ambience + a continuous four-season score.
 Identity safety: AIRA adult; wardrobe modest; mood is wondrous and elegant, never sexualized.
 State chain (angle-cut): CLIP 1 wide front [SPRING→ends SUMMER] → CUT → CLIP 2 over-shoulder [opens SUMMER→ends AUTUMN] → CUT → CLIP 3 profile [opens AUTUMN→ends WINTER] → CUT → CLIP 4 low-angle [opens WINTER→ends SPRING] → CUT → CLIP 5 wide front [opens SPRING = CLIP 1, loop].
@@ -8105,20 +8105,20 @@ COLOUR GRADE: VIVID spring — saturated cherry-blossom pink outside, fresh gree
 TEXTURE & MICRO-DETAIL: wool coat nap, blossom petals with translucent veining, pale wood grain, fine braid strands, peach-fuzz in the rim light.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~6s — ★ SPRING transforms to SUMMER mid-to-late; clip ENDS fully in summer)
+### ANIMATION (this clip, full 8s — ★ SPRING transforms to SUMMER mid-to-late; clip ENDS fully in summer)
 SHOT TYPE & ANGLE: eye-level wide, front; subject ~45% centre, walking toward lens.
 CAMERA MOVEMENT (CHOREOGRAPHY): a slow dolly-back at her walking pace, keeping her framed centre as the hallway flows past — one continuous shot.
 LENS: 35mm, f/4, deep, soft window fall-off.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.0s — Aira walks toward camera through SPRING light, blossom petals drifting outside, braid and hem swaying; calm gaze to lens.
-- 2.0–4.0s — she continues unbroken; her hand lifts to lightly trail the air as a petal passes — she does not react to what begins next.
-- 4.0–6.0s — she keeps walking, unchanged, as the world resolves fully into SUMMER around her by the final frame.
+- 0.0–2.7s — Aira walks toward camera through SPRING light, blossom petals drifting outside, braid and hem swaying; calm gaze to lens.
+- 2.7–5.3s — she continues unbroken; her hand lifts to lightly trail the air as a petal passes — she does not react to what begins next.
+- 5.3–8.0s — she keeps walking, unchanged, as the world resolves fully into SUMMER around her by the final frame.
 FLUIDITY & WEIGHT NOTES: the walk is even and weighted, heel-to-toe; the braid leads and follows the torso rotation; nothing about HER changes — the constancy is the point; all motion eases.
 FABRIC/HAIR/PROP PHYSICS: coat hem swings with real wool weight and delay; braid pendulum-sways; petals (spring) then pollen-motes and drifting seed-fluff (summer) obey correct light-mass air-drift; curtains breathe at the open windows.
 FOOTWORK & BODY FLOW: steady walking cadence, soles flexing, weight rolling — a metronome of calm.
-MID-CLIP TRANSFORMATION (timed — heavy detail): ★ SEASON CHANGE SPRING→SUMMER at 3.0–5.0s, completing by 6.0s. The change sweeps the WORLD, not her: outside the windows, cherry blossoms finish falling and the bare-pink branches thicken into full deep-green summer canopy; the drifting petals give way to golden pollen-motes and seed-fluff; beyond the trees a wheat-gold meadow and a hot blue sky resolve. INSIDE, the light transitions in real time — the cool fresh pink daylight warms and intensifies into blazing wheat-gold summer sun, the dappling on the floor shifting from pink-soft to gold-hard with sharper shadows; the hallway's pale walls retint warm honey. The transition travels along the hallway from the far end toward camera like a wave of light and growth, reaching her by ~5.0s.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ SEASON CHANGE SPRING→SUMMER at 4.0–6.7s, completing by 6.0s. The change sweeps the WORLD, not her: outside the windows, cherry blossoms finish falling and the bare-pink branches thicken into full deep-green summer canopy; the drifting petals give way to golden pollen-motes and seed-fluff; beyond the trees a wheat-gold meadow and a hot blue sky resolve. INSIDE, the light transitions in real time — the cool fresh pink daylight warms and intensifies into blazing wheat-gold summer sun, the dappling on the floor shifting from pink-soft to gold-hard with sharper shadows; the hallway's pale walls retint warm honey. The transition travels along the hallway from the far end toward camera like a wave of light and growth, reaching her by ~5.0s.
 LIGHTING-IN-MOTION: cool spring key warms and strengthens to harsh summer gold across the clip; shadows shorten and sharpen; rim on the braid shifts from cool-pink to warm-gold.
-DIEGETIC AUDIO: spring birdsong and a soft breeze (0.0–3.0s) cross-fading into summer's denser insect-hum, cicada shimmer and a warmer wind (by 6.0s); her even footsteps throughout; a faint leafy rustle as the canopy thickens.
+DIEGETIC AUDIO: spring birdsong and a soft breeze (0.0–4.0s) cross-fading into summer's denser insect-hum, cicada shimmer and a warmer wind (by 6.0s); her even footsteps throughout; a faint leafy rustle as the canopy thickens.
 MASTER TRACK: a continuous score; spring strings-and-flute warming into a fuller, brighter summer string swell across the transition.
 END STATE / STATE-MATCH LOCK (heavy detail — this is what CLIP 2's START IMAGE must reproduce 100%, changing only the angle): at clip end the hallway is FULL SUMMER — outside every window, deep-green full-canopy trees over a wheat-gold meadow under a hot cloudless blue sky; golden pollen-motes and occasional seed-fluff drift on the air, a couple having blown inside; the interior light is blazing warm wheat-gold with short, sharp, high-contrast dappled shadows on the pale wood floor; the walls read warm honey; the curtains lift in a warm breeze. Aira is mid-stride, centre, camel coat and auburn braid unchanged, lit warm-gold, calm half-smile. CLIP 2 must open in this EXACT summer world (same canopy, same gold light, same motes, same floor dapple, same wardrobe state) — only the camera angle changes.
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 2 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
@@ -8167,20 +8167,20 @@ COLOUR GRADE: VIVID summer — wheat-gold, deep canopy green, hot blue sky, hone
 TEXTURE & MICRO-DETAIL: wool nap from behind, individual gold-lit braid strands, pollen-motes catching light, seed-fluff veining, warm wood grain.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~6s — opens SUMMER, ★ transforms to AUTUMN, ends fully in AUTUMN)
+### ANIMATION (this clip, full 8s — opens SUMMER, ★ transforms to AUTUMN, ends fully in AUTUMN)
 SHOT TYPE & ANGLE: eye-level medium-full over-the-shoulder; her back ~45% lower-left, hallway opening right.
 CAMERA MOVEMENT (CHOREOGRAPHY): a slow follow-dolly behind her at her walking pace, gimbal-smooth, holding the over-the-shoulder as she walks deeper — one continuous shot.
 LENS: 50mm, f/2.8, shallow, hallway ahead soft.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.0s — she walks away into the SUMMER hallway, braid swaying, pollen-motes drifting, calm.
-- 2.0–4.0s — she walks on unbroken, one hand grazing a window-ledge as she passes — unreacting to the change beginning around her.
-- 4.0–6.0s — she continues as the world resolves fully into AUTUMN by the final frame.
+- 0.0–2.7s — she walks away into the SUMMER hallway, braid swaying, pollen-motes drifting, calm.
+- 2.7–5.3s — she walks on unbroken, one hand grazing a window-ledge as she passes — unreacting to the change beginning around her.
+- 5.3–8.0s — she continues as the world resolves fully into AUTUMN by the final frame.
 FLUIDITY & WEIGHT NOTES: even weighted walk away from lens, braid leading and trailing the spine's micro-rotation; she remains the unchanging constant; all motion eases.
 FABRIC/HAIR/PROP PHYSICS: coat hem swings with wool weight; braid sways down the back; summer pollen-motes give way to spiralling falling leaves obeying turbulent autumn-wind air-drift; a window curtain shifts from a warm summer lift to a cooler crisp flutter.
 FOOTWORK & BODY FLOW: steady receding cadence, soles flexing, weight rolling forward.
-MID-CLIP TRANSFORMATION (timed — heavy detail): ★ SEASON CHANGE SUMMER→AUTUMN at 3.0–5.0s, completing by 6.0s. The world transforms, not her: outside the windows the deep-green canopy ignites into molten orange, scarlet and amber; leaves begin spiralling down in increasing drifts, some blowing in through an open window to scatter on the floor; the wheat-gold meadow fades to russet stubble; the hot blue sky deepens to a lower, amber-gold late-afternoon sky with long shadows. INSIDE, the light cools and lowers in real time — blazing overhead gold becomes a raking low amber, the floor dapple lengthening into long dramatic golden-hour shadows; the honey walls deepen to a richer burnt-amber. The change sweeps from the far end of the hallway toward her like a wave of colour igniting the trees, reaching her by ~5.0s.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ SEASON CHANGE SUMMER→AUTUMN at 4.0–6.7s, completing by 6.0s. The world transforms, not her: outside the windows the deep-green canopy ignites into molten orange, scarlet and amber; leaves begin spiralling down in increasing drifts, some blowing in through an open window to scatter on the floor; the wheat-gold meadow fades to russet stubble; the hot blue sky deepens to a lower, amber-gold late-afternoon sky with long shadows. INSIDE, the light cools and lowers in real time — blazing overhead gold becomes a raking low amber, the floor dapple lengthening into long dramatic golden-hour shadows; the honey walls deepen to a richer burnt-amber. The change sweeps from the far end of the hallway toward her like a wave of colour igniting the trees, reaching her by ~5.0s.
 LIGHTING-IN-MOTION: high gold summer key lowers and warms to molten golden-hour amber; shadows lengthen and richen; rim on the braid shifts from bright gold to deep amber.
-DIEGETIC AUDIO: summer cicada-hum and warm wind (0.0–3.0s) cross-fading into autumn's drier rustling-leaf wind, crows in the distance, and leaves scraping the floor (by 6.0s); her even footsteps throughout.
+DIEGETIC AUDIO: summer cicada-hum and warm wind (0.0–4.0s) cross-fading into autumn's drier rustling-leaf wind, crows in the distance, and leaves scraping the floor (by 6.0s); her even footsteps throughout.
 MASTER TRACK: the summer string swell warms and deepens into a richer autumn cello-and-acoustic colour across the transition — continuous, never cut.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 3's START IMAGE must reproduce this 100%, new angle only): at clip end the hallway is FULL AUTUMN — outside every window, molten orange-scarlet-amber canopies dropping leaves over russet stubble, a low amber late-afternoon sky with long shadows; leaves spiral past the glass and a scatter of fallen leaves lies on the pale wood floor near an open window; the interior light is low raking golden-hour amber casting long dramatic dappled shadows; walls read burnt-amber; the curtain flutters cooler. Aira is mid-stride (now to be re-framed), camel coat and auburn braid unchanged, lit warm amber, serene. CLIP 3 must open in this EXACT autumn world (same fire-canopy, same low amber light, same fallen leaves on the floor, same long shadows, same wardrobe) — only the camera angle changes.
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 3 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
@@ -8229,20 +8229,20 @@ COLOUR GRADE: VIVID autumn — molten orange-scarlet-amber, russet, burnt-amber 
 TEXTURE & MICRO-DETAIL: wool nap, leaf veining and curl, long shadow edges, fine braid strands, wood grain with scattered leaves.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~6s — opens AUTUMN, ★ transforms to WINTER, ends fully in WINTER)
+### ANIMATION (this clip, full 8s — opens AUTUMN, ★ transforms to WINTER, ends fully in WINTER)
 SHOT TYPE & ANGLE: slight low-angle profile, medium; subject ~55% left-of-centre, walking right.
 CAMERA MOVEMENT (CHOREOGRAPHY): a slow lateral tracking move keeping pace with her profile as she walks right — one continuous shot.
 LENS: 50mm, f/2.8, shallow.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.0s — she walks frame-right through AUTUMN, leaves spiralling, breath faintly visible as the air cools.
-- 2.0–4.0s — she walks on unbroken, the loose strand lifting in a colder gust — unreacting to the change beginning.
-- 4.0–6.0s — she continues as the world resolves fully into WINTER by the final frame.
+- 0.0–2.7s — she walks frame-right through AUTUMN, leaves spiralling, breath faintly visible as the air cools.
+- 2.7–5.3s — she walks on unbroken, the loose strand lifting in a colder gust — unreacting to the change beginning.
+- 5.3–8.0s — she continues as the world resolves fully into WINTER by the final frame.
 FLUIDITY & WEIGHT NOTES: even profile walk, braid swaying with the spine; she is the constant; all motion eases.
 FABRIC/HAIR/PROP PHYSICS: coat hem swings with wool weight; braid sways; falling autumn leaves give way to drifting snowflakes obeying slow cold air-drift; the fallen leaves on the floor get dusted then covered by a thin advancing frost/snow; her breath becomes visible vapour as the air cools.
 FOOTWORK & BODY FLOW: steady cadence, soles flexing over leaves then over a faint frost-dust.
-MID-CLIP TRANSFORMATION (timed — heavy detail): ★ SEASON CHANGE AUTUMN→WINTER at 3.0–5.0s, completing by 6.0s. The world transforms, not her: outside the windows the fire-canopies shed their last leaves and the branches go bare and black, then dust with snow; the russet meadow whitens under settling snow; the low amber sky pales to a silver-grey winter overcast and snow begins to fall in earnest. INSIDE, the light cools and flattens in real time — low warm amber becomes cool silver-blue, the long warm shadows dissolving into soft even cold light; the burnt-amber walls cool to a pale slate; a thin frost creeps across the bottom of the window-panes; the fallen leaves on the floor are veiled by a faint indoor frost-shimmer. The change sweeps down the hallway toward her like a cold front, reaching her by ~5.0s; her breath fogs.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ SEASON CHANGE AUTUMN→WINTER at 4.0–6.7s, completing by 6.0s. The world transforms, not her: outside the windows the fire-canopies shed their last leaves and the branches go bare and black, then dust with snow; the russet meadow whitens under settling snow; the low amber sky pales to a silver-grey winter overcast and snow begins to fall in earnest. INSIDE, the light cools and flattens in real time — low warm amber becomes cool silver-blue, the long warm shadows dissolving into soft even cold light; the burnt-amber walls cool to a pale slate; a thin frost creeps across the bottom of the window-panes; the fallen leaves on the floor are veiled by a faint indoor frost-shimmer. The change sweeps down the hallway toward her like a cold front, reaching her by ~5.0s; her breath fogs.
 LIGHTING-IN-MOTION: warm amber key cools to silver-blue; shadows soften and flatten; rim on the braid shifts from amber to cool silver.
-DIEGETIC AUDIO: autumn's dry leaf-wind and distant crows (0.0–3.0s) cross-fading into winter's hushed muffled stillness, a thin high wind and the soft hiss of falling snow (by 6.0s); her even footsteps, crisper on the cold floor.
+DIEGETIC AUDIO: autumn's dry leaf-wind and distant crows (0.0–4.0s) cross-fading into winter's hushed muffled stillness, a thin high wind and the soft hiss of falling snow (by 6.0s); her even footsteps, crisper on the cold floor.
 MASTER TRACK: the autumn cello-and-acoustic colour thins and crystallises into a sparse winter solo-piano-and-glass-synth across the transition — continuous.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 4's START IMAGE must reproduce this 100%, new angle only): at clip end the hallway is FULL WINTER — outside every window, bare black snow-dusted branches over a white meadow under a silver-grey overcast with snow falling steadily; frost creeps up the window-panes; inside, the light is cool silver-blue, soft and even, no warm shadow; the walls read pale slate; the floor's fallen leaves are veiled in faint frost-shimmer; her breath fogs gently. Aira is mid-stride (to be re-framed), camel coat and auburn braid unchanged, lit cool silver-blue, calm. CLIP 4 must open in this EXACT winter world (same bare snow-branches, same silver light, same frosted panes, same frosted floor, same wardrobe) — only the camera angle changes.
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 4 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
@@ -8291,20 +8291,20 @@ COLOUR GRADE: VIVID winter — crystalline silver-blue and white, bare-black bra
 TEXTURE & MICRO-DETAIL: wool nap with snow-dust, individual snowflakes with crystal structure, frost feathering on panes, fine braid strands, cold-flush skin texture.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~6s — opens WINTER, ★ transforms to SPRING, ends fully in SPRING)
+### ANIMATION (this clip, full 8s — opens WINTER, ★ transforms to SPRING, ends fully in SPRING)
 SHOT TYPE & ANGLE: low-angle hero, medium-full, near-front; subject ~60% centre.
 CAMERA MOVEMENT (CHOREOGRAPHY): a slow rise-and-push from the low angle, settling, then easing as she resumes her walk — one continuous shot.
 LENS: 28mm, f/3.2, low and wide.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.0s — she stands in WINTER, palm catching snow, breath fogging, calm.
-- 2.0–4.0s — she lowers her palm and takes the first step to resume walking — unreacting to the thaw beginning.
-- 4.0–6.0s — she walks on as the world resolves fully into SPRING by the final frame.
+- 0.0–2.7s — she stands in WINTER, palm catching snow, breath fogging, calm.
+- 2.7–5.3s — she lowers her palm and takes the first step to resume walking — unreacting to the thaw beginning.
+- 5.3–8.0s — she walks on as the world resolves fully into SPRING by the final frame.
 FLUIDITY & WEIGHT NOTES: the palm lowers with eased weight; the resumed step rolls heel-to-toe; she remains the constant; all motion eases.
 FABRIC/HAIR/PROP PHYSICS: coat hem stirs then swings as she walks; braid sways, its caught snowflake melting to a droplet that falls; falling snow gives way to drifting cherry-blossom petals obeying light air-drift; frost on the panes melts to clear glass with running droplets.
 FOOTWORK & BODY FLOW: from a grounded stance into a steady resumed cadence.
-MID-CLIP TRANSFORMATION (timed — heavy detail): ★ SEASON CHANGE WINTER→SPRING at 3.0–5.0s, completing by 6.0s. The world transforms, not her: outside the windows the bare black branches bud green and burst into cherry-blossom pink; the white meadow greens and flowers; the silver-grey overcast warms and clears to a soft fresh blue with gentle sun; snow stops and petals drift instead. INSIDE, the light warms in real time — cool silver-blue becomes fresh warm spring daylight, soft pink dappling returning to the floor; the pale slate walls warm back to pale wood-cream; the frost melts from the panes; the floor's frost-shimmer gives way to a clean pale wood with a drifted petal or two. The thaw sweeps down the hallway toward her like a warm front, reaching her by ~5.0s; her breath stops fogging.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ SEASON CHANGE WINTER→SPRING at 4.0–6.7s, completing by 6.0s. The world transforms, not her: outside the windows the bare black branches bud green and burst into cherry-blossom pink; the white meadow greens and flowers; the silver-grey overcast warms and clears to a soft fresh blue with gentle sun; snow stops and petals drift instead. INSIDE, the light warms in real time — cool silver-blue becomes fresh warm spring daylight, soft pink dappling returning to the floor; the pale slate walls warm back to pale wood-cream; the frost melts from the panes; the floor's frost-shimmer gives way to a clean pale wood with a drifted petal or two. The thaw sweeps down the hallway toward her like a warm front, reaching her by ~5.0s; her breath stops fogging.
 LIGHTING-IN-MOTION: cool silver key warms to fresh spring daylight; soft pink dapple returns; rim on the braid shifts from cool silver back to fresh cool-warm.
-DIEGETIC AUDIO: winter's hushed wind and snow-hiss (0.0–3.0s) cross-fading into spring's returning birdsong, a soft warm breeze and dripping melt (by 6.0s); her even footsteps resuming.
+DIEGETIC AUDIO: winter's hushed wind and snow-hiss (0.0–4.0s) cross-fading into spring's returning birdsong, a soft warm breeze and dripping melt (by 6.0s); her even footsteps resuming.
 MASTER TRACK: the sparse winter piano-and-glass blooms back into spring strings-and-flute across the transition — continuous, closing the musical year.
 END STATE / STATE-MATCH LOCK (heavy detail — CLIP 5's START IMAGE must reproduce this 100%, and it equals CLIP 1's opening world): at clip end the hallway is FULL SPRING — outside every window, cherry-blossom pink canopies over a fresh green flowering meadow under a soft clear blue sky with gentle sun; blossom petals drift past the glass and a couple have blown inside; inside, the light is fresh warm spring daylight with soft pink dappling on clean pale wood; the walls are pale wood-cream; panes are clear; her breath no longer fogs. Aira is mid-stride, camel coat and auburn braid unchanged, lit fresh-spring, calm half-smile. CLIP 5 must open in this EXACT spring world — which is identical to CLIP 1's opening — so the reel loops.
 ↪ STATE HANDOFF — the resolved END of this clip = the OPENING FRAME of CLIP 5 — reproduce EVERY detail below EXACTLY; only the camera angle differs:
@@ -8353,14 +8353,14 @@ COLOUR GRADE: VIVID spring — saturated cherry-blossom pink, fresh green, pale 
 TEXTURE & MICRO-DETAIL: wool nap, translucent petal veining, pale wood grain, fine braid strands, peach-fuzz in the rim — matched.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~6s — SPRING restored; loop close, no new transformation)
+### ANIMATION (this clip, full 8s — SPRING restored; loop close, no new transformation)
 SHOT TYPE & ANGLE: eye-level wide, front; subject ~45% centre, walking toward lens — matched to CLIP 1.
 CAMERA MOVEMENT (CHOREOGRAPHY): a slow dolly-back at her walking pace, settling to the exact CLIP-1 establishing framing.
 LENS: 35mm, f/4, deep — matched.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.0s — Aira walks toward camera through restored SPRING light, petals drifting, braid and hem swaying, calm gaze to lens.
-- 2.0–4.0s — she continues unbroken, approaching the first tall window again (the signature trigger primed for the next loop).
-- 4.0–6.0s — she settles into the exact opening stride and half-smile, the framing matched to CLIP 1 for a seamless loop.
+- 0.0–2.7s — Aira walks toward camera through restored SPRING light, petals drifting, braid and hem swaying, calm gaze to lens.
+- 2.7–5.3s — she continues unbroken, approaching the first tall window again (the signature trigger primed for the next loop).
+- 5.3–8.0s — she settles into the exact opening stride and half-smile, the framing matched to CLIP 1 for a seamless loop.
 FLUIDITY & WEIGHT NOTES: even weighted walk, braid leading and following the torso; the constant, unchanged; all motion eases to the opening rhythm.
 FABRIC/HAIR/PROP PHYSICS: coat hem swings with wool weight; braid pendulum-sways; petals obey light air-drift; curtains breathe — matched to CLIP 1.
 FOOTWORK & BODY FLOW: steady walking cadence returning to the opening metronome.
@@ -8432,7 +8432,7 @@ Mood: GLAMOROUS TIME-TRAVEL — editorial elegance through design eras (the fash
 - WHAT TRANSFORMS + MEANING: MAN-MADE DESIGN ERAS (style/architecture) — glamour and taste across decades.
 - DIFFERS FROM PILLAR-MATES BY: GLAM EDITORIAL, DOWNWARD motion, design-eras (man-made) — vs nature/sky/weather and horizontal motion elsewhere.
 Grade: VIVID per era — deep-emerald-and-gold Deco, warm teak-and-primary Mid-Century, hot-pink-and-teal Memphis, white-and-black Modern; her black slip + red lip + red nails the constant anchor; rich blacks, full mid-tone.
-Duration: ~26 seconds · 5 clips (angle-cut state-chain).
+Duration: 40.000 seconds total — 5 clips × 8s each (VEO renders one 8-second take per clip); the soundtrack is built to exactly 40.000s and loops seamlessly.
 Voice: SILENT — diegetic + an era-morphing score (same melody, each era's production).
 Identity safety: AIRA adult; wardrobe modest; mood elegant and timeless, never sexualized.
 State chain (angle-cut): CLIP 1 wide [ART DECO → step → ends MID-CENTURY] → CUT → CLIP 2 profile [opens MID-CENTURY → step → ends MEMPHIS] → CUT → CLIP 3 close-up [opens MEMPHIS → step → ends MODERN] → CUT → CLIP 4 full-body low [opens MODERN → step → ends ART DECO] → CUT → CLIP 5 wide [opens ART DECO = CLIP 1, loop].
@@ -8464,18 +8464,18 @@ COLOUR GRADE: VIVID Art Deco — deep emerald lacquer + gold + black-marble + cr
 TEXTURE & MICRO-DETAIL: black-marble-with-gold-inlay steps, brass sunburst railings, mirrored-wall etching, crystal chandelier tiers, silk-bias drape, the bob's glossy finger-waves, red nail gloss.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~5s — opens ART DECO; ★ morphs to MID-CENTURY mid-clip, ends mid-century)
+### ANIMATION (this clip, full 8s — opens ART DECO; ★ morphs to MID-CENTURY mid-clip, ends mid-century)
 SHOT TYPE & ANGLE: opens macro on the heel, pulls back to a slight low-angle wide; subject resolves to ~45% centre, descending.
 LENS: starts macro 100mm on the heel, then 35mm, f/4, slight low as it pulls back.
 CAMERA MOVEMENT (CHOREOGRAPHY): opens locked-macro on the heel meeting the step, then a smooth pull-back-and-drop into the descending dolly-back with her (camera moves down as she descends) — one continuous shot.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.0s — she descends through the Art Deco staircase, fingertips trailing the brass railing, elegant.
-- 2.0–4.0s — ★ TRIGGER: she steps onto the next flight; the era begins to morph around her.
-- 4.0–5.0s — she descends on, unchanged, as the staircase resolves fully into MID-CENTURY MODERN by the final frame.
+- 0.0–3.2s — she descends through the Art Deco staircase, fingertips trailing the brass railing, elegant.
+- 3.2–6.4s — ★ TRIGGER: she steps onto the next flight; the era begins to morph around her.
+- 6.4–8.0s — she descends on, unchanged, as the staircase resolves fully into MID-CENTURY MODERN by the final frame.
 FLUIDITY & WEIGHT NOTES: the descent is slow, deliberate, elegant; she is the timeless constant; all motion eases.
 FABRIC/HAIR/PROP PHYSICS: the silk-bias hem pools and flows with each step; the bob holds; the chandelier crystals sway and throw light; her fingertips feel the railing-material change as the era morphs (brass → teak).
 FOOTWORK & BODY FLOW: graceful placed steps, heel-to-step, weight rolling down.
-MID-CLIP TRANSFORMATION (timed — heavy detail): ★ ERA-MORPH DECO→MID-CENTURY at 2.0–4.5s, triggered by stepping onto the new flight. The brass geometric railings smooth into clean teak wood; the black-marble-and-gold steps become warm terrazzo; the emerald-lacquer walls transition to white with bold color-block art; the deco chandelier simplifies into a Sputnik pendant. Clean mid-century lines replace ornate geometry; the warm golden light cools to a brighter, even mid-century light.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ ERA-MORPH DECO→MID-CENTURY at 3.2–7.2s, triggered by stepping onto the new flight. The brass geometric railings smooth into clean teak wood; the black-marble-and-gold steps become warm terrazzo; the emerald-lacquer walls transition to white with bold color-block art; the deco chandelier simplifies into a Sputnik pendant. Clean mid-century lines replace ornate geometry; the warm golden light cools to a brighter, even mid-century light.
 LIGHTING-IN-MOTION: warm Deco gold transitions to a cooler, brighter, more even mid-century light.
 DIEGETIC AUDIO: her heels on marble (sharp, echoing); the chandelier crystals tinkling; the brass railing singing under her fingertips; a faint jazz piano echoing (Deco) cross-fading into a bossa-nova as the era morphs.
 MASTER TRACK: the same 4-bar melody played in 1920s jazz (piano + upright bass + brushed drums), cross-fading to a 1960s bossa version on the morph.
@@ -8526,18 +8526,18 @@ COLOUR GRADE: VIVID Mid-Century — warm teak + warm white + bold primary-color 
 TEXTURE & MICRO-DETAIL: teak grain, terrazzo speckle, color-block art, the Sputnik pendant, silk drape, glossy bob, red nails.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~5s — opens MID-CENTURY; ★ morphs to MEMPHIS, ends Memphis)
+### ANIMATION (this clip, full 8s — opens MID-CENTURY; ★ morphs to MEMPHIS, ends Memphis)
 SHOT TYPE & ANGLE: eye-level medium profile; subject ~55% mid-frame, descending.
 CAMERA MOVEMENT (CHOREOGRAPHY): a tracking move alongside her descent — one continuous shot.
 LENS: 50mm, f/2.8, shallow.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.0s — she descends the mid-century flight, fingertips trailing teak, composed.
-- 2.0–4.0s — ★ TRIGGER: she steps onto the next flight; the era morphs around her.
-- 4.0–5.0s — she descends on, unchanged, as the staircase resolves fully into 1980s MEMPHIS by the final frame.
+- 0.0–3.2s — she descends the mid-century flight, fingertips trailing teak, composed.
+- 3.2–6.4s — ★ TRIGGER: she steps onto the next flight; the era morphs around her.
+- 6.4–8.0s — she descends on, unchanged, as the staircase resolves fully into 1980s MEMPHIS by the final frame.
 FLUIDITY & WEIGHT NOTES: even elegant descent; she's the constant; all motion eases.
 FABRIC/HAIR/PROP PHYSICS: silk flows; the bob holds; the railing morphs material under her fingers (teak → tubular steel); the morph spreads from where she steps.
 FOOTWORK & BODY FLOW: graceful placed steps, weight rolling.
-MID-CLIP TRANSFORMATION (timed — heavy detail): ★ ERA-MORPH MID-CENTURY→MEMPHIS at 2.0–4.5s, triggered by the step. The teak railing becomes bold tubular steel in hot-pink and teal; the white walls become geometric confetti-patterns (triangles, squiggles, dots) in primary colors; the stair carpet becomes a bold zigzag; a neon sign glows; the even light becomes bold flat Memphis-era lighting with neon accents.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ ERA-MORPH MID-CENTURY→MEMPHIS at 3.2–7.2s, triggered by the step. The teak railing becomes bold tubular steel in hot-pink and teal; the white walls become geometric confetti-patterns (triangles, squiggles, dots) in primary colors; the stair carpet becomes a bold zigzag; a neon sign glows; the even light becomes bold flat Memphis-era lighting with neon accents.
 LIGHTING-IN-MOTION: clean mid-century light becomes bold flat bright Memphis colour with neon flicker.
 DIEGETIC AUDIO: her heels on terrazzo then carpet (muffling); the bossa fading into a faint synth-pop beat; the neon buzz; the railing-material change.
 MASTER TRACK: the same melody cross-fading from bossa to a 1980s synth-pop version (synth-lead + drum machine + slap bass).
@@ -8588,18 +8588,18 @@ COLOUR GRADE: MAXIMUM Memphis — hot-pink + teal + yellow + neon + confetti-pat
 TEXTURE & MICRO-DETAIL: tubular-steel finish, confetti-pattern detail, neon glow, glossy bob, real pores under the bold light, red nail gloss.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~5s — opens MEMPHIS; ★ morphs to MODERN MINIMALIST, ends modern)
+### ANIMATION (this clip, full 8s — opens MEMPHIS; ★ morphs to MODERN MINIMALIST, ends modern)
 SHOT TYPE & ANGLE: eye-level close-up; face ~70% centre.
 CAMERA MOVEMENT (CHOREOGRAPHY): a static-to-imperceptible-push-in — one continuous shot.
 LENS: 85mm, f/2.0, shallow.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.0s — she descends through the Memphis world at the same elegant pace, hand on the tubular railing, calm.
-- 2.0–4.0s — ★ TRIGGER: she steps onto the next flight; the era morphs around her.
-- 4.0–5.0s — she descends on, unchanged, as the staircase resolves into MODERN MINIMALIST by the final frame.
+- 0.0–3.2s — she descends through the Memphis world at the same elegant pace, hand on the tubular railing, calm.
+- 3.2–6.4s — ★ TRIGGER: she steps onto the next flight; the era morphs around her.
+- 6.4–8.0s — she descends on, unchanged, as the staircase resolves into MODERN MINIMALIST by the final frame.
 FLUIDITY & WEIGHT NOTES: she stays the calm centre; the morph happens around her; all motion eases.
 FABRIC/HAIR/PROP PHYSICS: her grip on the tubular steel has cylindrical contact; the silk stays BLACK (grounding) as the world morphs; the confetti vanishes, surfaces simplifying.
 FOOTWORK & BODY FLOW: graceful placed steps.
-MID-CLIP TRANSFORMATION (timed — heavy detail): ★ ERA-MORPH MEMPHIS→MODERN at 2.0–4.5s, triggered by the step. The tubular steel becomes a thin black metal railing; the confetti walls become pure white; the zigzag carpet becomes clean white concrete steps; the neon vanishes; a single perfect flower in a vase appears at the landing; the bold flat light becomes one large diffused gallery panel — pure calm.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ ERA-MORPH MEMPHIS→MODERN at 3.2–7.2s, triggered by the step. The tubular steel becomes a thin black metal railing; the confetti walls become pure white; the zigzag carpet becomes clean white concrete steps; the neon vanishes; a single perfect flower in a vase appears at the landing; the bold flat light becomes one large diffused gallery panel — pure calm.
 LIGHTING-IN-MOTION: bold Memphis colour becomes clean bright even gallery-light, shadowless.
 DIEGETIC AUDIO: the synth-pop fading; her heels on carpet then clean concrete; the neon buzz cutting out; a minimal silence settling.
 MASTER TRACK: the same melody cross-fading from synth-pop to a stripped solo-piano + silence (modern minimal).
@@ -8650,18 +8650,18 @@ COLOUR GRADE: VIVID-minimal — white + black + her skin + the single flower (vi
 TEXTURE & MICRO-DETAIL: white-concrete grain, thin black metal railing, the single flower, silk drape, glossy bob, red nails, a returning brass-glint.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~5s — opens MODERN; ★ morphs back to ART DECO at the foot)
+### ANIMATION (this clip, full 8s — opens MODERN; ★ morphs back to ART DECO at the foot)
 SHOT TYPE & ANGLE: low-angle full body; subject ~60% centre.
 CAMERA MOVEMENT (CHOREOGRAPHY): a slow rise-and-settle at the foot — one continuous shot.
 LENS: 28mm, f/3.2, low and wide.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.0s — she reaches the bottom of the modern stairs, fingertips trailing the thin railing.
-- 2.0–4.0s — ★ TRIGGER: she pauses at the foot; the era morphs back toward Art Deco around her.
-- 4.0–5.0s — the staircase resolves fully back into ART DECO; a tiny knowing brow-raise — she knows it cycles.
+- 0.0–3.2s — she reaches the bottom of the modern stairs, fingertips trailing the thin railing.
+- 3.2–6.4s — ★ TRIGGER: she pauses at the foot; the era morphs back toward Art Deco around her.
+- 6.4–8.0s — the staircase resolves fully back into ART DECO; a tiny knowing brow-raise — she knows it cycles.
 FLUIDITY & WEIGHT NOTES: the pause is composed; the morph-back is smooth; all motion eases.
 FABRIC/HAIR/PROP PHYSICS: the thin black railing morphs back to brass sunburst; white concrete to black-marble-and-gold; the panel-light to the Deco chandelier; the silk hem pools.
 FOOTWORK & BODY FLOW: a composed settle at the foot.
-MID-CLIP TRANSFORMATION (timed — heavy detail): ★ ERA-MORPH MODERN→ART DECO at 2.0–4.5s — the minimal staircase morphs back to full Art Deco (brass sunburst railings, black-marble-and-gold steps, emerald-lacquer walls, the crystal chandelier, warm gold light); the cycle completing back to the opening era.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ ERA-MORPH MODERN→ART DECO at 3.2–7.2s — the minimal staircase morphs back to full Art Deco (brass sunburst railings, black-marble-and-gold steps, emerald-lacquer walls, the crystal chandelier, warm gold light); the cycle completing back to the opening era.
 LIGHTING-IN-MOTION: clean gallery-light warms back to the golden Deco chandelier.
 DIEGETIC AUDIO: her heels on concrete then marble; the minimal silence cross-fading back into the jazz piano; the chandelier crystals re-tinkling.
 MASTER TRACK: the same melody cross-fading from solo piano back to the 1920s jazz version.
@@ -8712,14 +8712,14 @@ COLOUR GRADE: VIVID Art Deco — emerald, gold, black-marble, crystal, red lip/n
 TEXTURE & MICRO-DETAIL: marble-gold steps, brass sunburst railings, mirrored etching, crystal chandelier, silk drape, glossy finger-waves, red nails — matched.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~4s — reset; loop close)
+### ANIMATION (this clip, full 8s — reset; loop close)
 SHOT TYPE & ANGLE: slight low-angle wide; subject ~45% centre — matched to CLIP 1.
 CAMERA MOVEMENT (CHOREOGRAPHY): the camera returns to the opening low-angle descending framing and settles.
 LENS: 35mm, f/4 — matched.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.0s — she stands at the top of the restored Deco staircase, fingertips on the brass railing.
-- 2.0–3.5s — she begins the first elegant descending step — the opening descent resetting.
-- 3.5–4.0s — settles into the exact CLIP-1 descending pose and Mona-Lisa smile.
+- 0.0–4.0s — she stands at the top of the restored Deco staircase, fingertips on the brass railing.
+- 4.0–7.0s — she begins the first elegant descending step — the opening descent resetting.
+- 7.0–8.0s — settles into the exact CLIP-1 descending pose and Mona-Lisa smile.
 FLUIDITY & WEIGHT NOTES: the descent matches CLIP 1's pace; everything returns to the opening.
 FABRIC/HAIR/PROP PHYSICS: silk pools, the bob holds, the chandelier crystals tinkle — matched to CLIP 1.
 FOOTWORK & BODY FLOW: a graceful first descending step.
@@ -8791,7 +8791,7 @@ Mood: CINEMATIC ROMANCE — light and sky as the subject (the wide-vista one in 
 - WHAT TRANSFORMS + MEANING: the HOURS OF DAY / light (celestial) — romance of dawn-to-night.
 - DIFFERS FROM PILLAR-MATES BY: WIDE SKY-LED VISTAS with her small in frame — light is the hero, vs the subject-centred reels around it.
 Grade: VIVID per hour — peach-lavender dawn, blazing golden hour, fiery sunset, indigo starlit night; her silver dress reflecting each (silver→gold→rose-gold→moonlit); rich blacks, full mid-tone.
-Duration: ~26 seconds · 5 clips (angle-cut state-chain).
+Duration: 40.000 seconds total — 5 clips × 8s each (VEO renders one 8-second take per clip); the soundtrack is built to exactly 40.000s and loops seamlessly.
 Voice: SILENT — diegetic bridge/water + a continuous time-lapse orchestral score.
 Identity safety: AIRA adult; wardrobe modest; mood serene and elegant, never sexualized.
 State chain (angle-cut): CLIP 1 wide [DAWN → lamppost → ends GOLDEN HOUR] → CUT → CLIP 2 profile [opens GOLDEN HOUR → lamppost → ends SUNSET] → CUT → CLIP 3 close-up [opens SUNSET → lamppost → ends NIGHT] → CUT → CLIP 4 full-body [opens NIGHT → lamppost → ends DAWN] → CUT → CLIP 5 wide [opens DAWN = CLIP 1, loop].
@@ -8823,18 +8823,18 @@ COLOUR GRADE: VIVID dawn — saturated peach + lavender + soft gold + pale blue 
 TEXTURE & MICRO-DETAIL: silk sheen catching dawn, the platinum curtain's metallic strands, cable-stay detail, water-reflection ripples, diamond-stud glint, silver-lavender nails.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~5s — opens DAWN; ★ passes lamppost → GOLDEN HOUR, ends golden hour)
+### ANIMATION (this clip, full 8s — opens DAWN; ★ passes lamppost → GOLDEN HOUR, ends golden hour)
 SHOT TYPE & ANGLE: extreme-wide vista, eye-level; Aira a small distant silhouette low-centre, the sky owning the frame.
 CAMERA MOVEMENT (CHOREOGRAPHY): an almost-static vista holding the huge sky, with only the gentlest slow push — letting the LIGHT do the moving — one continuous shot.
 LENS: 24mm wide, f/8, deep.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.0s — Aira walks as a tiny silhouette along the distant bridge under soft DAWN light; the enormous sky holds still and pastel.
-- 2.0–3.5s — ★ TRIGGER: she passes a lamp-post; the vast sky begins to brighten and warm across its whole expanse.
-- 3.5–5.0s — she walks on, unchanged and small, as the entire sky resolves into GOLDEN HOUR by the final frame.
+- 0.0–3.2s — Aira walks as a tiny silhouette along the distant bridge under soft DAWN light; the enormous sky holds still and pastel.
+- 3.2–5.6s — ★ TRIGGER: she passes a lamp-post; the vast sky begins to brighten and warm across its whole expanse.
+- 5.6–8.0s — she walks on, unchanged and small, as the entire sky resolves into GOLDEN HOUR by the final frame.
 FLUIDITY & WEIGHT NOTES: the walk is even and weighted; she's the silver constant; all motion eases.
 FABRIC/HAIR/PROP PHYSICS: the silk drifts and reflects the warming light; the curtain sways with the walk; the cable-stays hum; water ripples below.
 FOOTWORK & BODY FLOW: a steady walking cadence, weight rolling.
-MID-CLIP TRANSFORMATION (timed — heavy detail): ★ TIME-CHANGE DAWN→GOLDEN HOUR at 2.0–4.5s, triggered by passing the lamppost. The peach-lavender dawn warms and strengthens into a blazing golden hour: the sky deepens warm-gold, the water below turns liquid gold, long shadows stretch across the bridge, her silver dress reads as molten gold.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ TIME-CHANGE DAWN→GOLDEN HOUR at 3.2–7.2s, triggered by passing the lamppost. The peach-lavender dawn warms and strengthens into a blazing golden hour: the sky deepens warm-gold, the water below turns liquid gold, long shadows stretch across the bridge, her silver dress reads as molten gold.
 LIGHTING-IN-MOTION: soft dawn warms and intensifies to a directional golden-hour blaze; shadows lengthen.
 DIEGETIC AUDIO: early-morning city far off; her footsteps on the walkway; the cable-stays humming in the wind; water below; birds waking, then a fuller golden-hour chorus.
 MASTER TRACK: a constant melodic motif (her), with the orchestration warming from dawn strings+flute to a fuller golden-hour string-swell.
@@ -8885,18 +8885,18 @@ COLOUR GRADE: MAXIMUM GOLDEN — warm amber + liquid gold + her silver-reading-a
 TEXTURE & MICRO-DETAIL: silk catching dramatic gold side-light, platinum strands molten, cable-stay shadows, water-gold ripples, the cuff flare.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~5s — opens GOLDEN HOUR; ★ passes lamppost → SUNSET, ends sunset)
+### ANIMATION (this clip, full 8s — opens GOLDEN HOUR; ★ passes lamppost → SUNSET, ends sunset)
 SHOT TYPE & ANGLE: eye-level medium profile; subject ~55% centre, walking.
 CAMERA MOVEMENT (CHOREOGRAPHY): a tracking move alongside her walk — one continuous shot.
 LENS: 50mm, f/2.8, shallow.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.0s — she walks through the golden hour, the light painting her.
-- 2.0–3.5s — ★ TRIGGER: she passes the next lamp-post; the sky deepens toward sunset.
-- 3.5–5.0s — she walks on, unchanged, as the sky resolves into a fiery SUNSET by the final frame.
+- 0.0–3.2s — she walks through the golden hour, the light painting her.
+- 3.2–5.6s — ★ TRIGGER: she passes the next lamp-post; the sky deepens toward sunset.
+- 5.6–8.0s — she walks on, unchanged, as the sky resolves into a fiery SUNSET by the final frame.
 FLUIDITY & WEIGHT NOTES: even profile walk; the constant; all motion eases.
 FABRIC/HAIR/PROP PHYSICS: golden-hour shadows lengthen in real time; the curtain catches increasingly dramatic side-light; the cables throw long geometric shadows; silk drifts.
 FOOTWORK & BODY FLOW: a steady walking cadence.
-MID-CLIP TRANSFORMATION (timed — heavy detail): ★ TIME-CHANGE GOLDEN HOUR→SUNSET at 2.0–4.5s, triggered by the lamppost. The sky deepens from gold to a fiery layered sunset (orange, magenta, purple, gold), the sun a blazing disc at the horizon past the cables; her silver dress reads rose-gold.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ TIME-CHANGE GOLDEN HOUR→SUNSET at 3.2–7.2s, triggered by the lamppost. The sky deepens from gold to a fiery layered sunset (orange, magenta, purple, gold), the sun a blazing disc at the horizon past the cables; her silver dress reads rose-gold.
 LIGHTING-IN-MOTION: golden intensifying into deep sunset oranges and magentas; the light lower and more dramatic.
 DIEGETIC AUDIO: her footsteps; the cables humming; a golden-hour bird-chorus; a soft sunset wind; a distant starling murmuration.
 MASTER TRACK: the orchestration warms and deepens from golden-hour strings to a fuller, richer sunset swell (brass entering).
@@ -8947,18 +8947,18 @@ COLOUR GRADE: SUNSET MAXIMUM — orange + magenta + purple + gold + her silver-a
 TEXTURE & MICRO-DETAIL: sunset-fire on the skin, platinum strands rose-gold, real pores in the warm light, lash detail, the silk collar fire-reflection.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~5s — opens SUNSET; ★ passes lamppost → NIGHT, ends starlit night)
+### ANIMATION (this clip, full 8s — opens SUNSET; ★ passes lamppost → NIGHT, ends starlit night)
 SHOT TYPE & ANGLE: slight low-angle close-up; face ~70% left-of-centre.
 CAMERA MOVEMENT (CHOREOGRAPHY): a static-to-slow-track holding her face — one continuous shot.
 LENS: 85mm, f/2.0, slight low.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.0s — she walks through, face catching the sunset fire.
-- 2.0–3.5s — ★ TRIGGER: she passes a lamp-post (which now lights warm against the deepening sky); the sun sets and the sky deepens.
-- 3.5–5.0s — the sky resolves into a full starlit NIGHT by the final frame.
+- 0.0–3.2s — she walks through, face catching the sunset fire.
+- 3.2–5.6s — ★ TRIGGER: she passes a lamp-post (which now lights warm against the deepening sky); the sun sets and the sky deepens.
+- 5.6–8.0s — the sky resolves into a full starlit NIGHT by the final frame.
 FLUIDITY & WEIGHT NOTES: unchanged calm; the constant; all motion eases.
 FABRIC/HAIR/PROP PHYSICS: the sun descends with correct speed; colours shift on her face in real time; the lamp-post lights warm; the curtain lifts in the evening thermal.
 FOOTWORK & BODY FLOW: a steady walking cadence.
-MID-CLIP TRANSFORMATION (timed — heavy detail): ★ TIME-CHANGE SUNSET→NIGHT at 2.0–4.5s, triggered by the lamppost. The sun sets fully; the sky deepens to indigo-black filled with stars and the Milky Way; the bridge lamp-posts glow warm; the water mirrors stars and lamp-light; her silver dress reads moonlit-silver again.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ TIME-CHANGE SUNSET→NIGHT at 3.2–7.2s, triggered by the lamppost. The sun sets fully; the sky deepens to indigo-black filled with stars and the Milky Way; the bridge lamp-posts glow warm; the water mirrors stars and lamp-light; her silver dress reads moonlit-silver again.
 LIGHTING-IN-MOTION: warm sunset draining; cool blue-silver moonlight + warm lamp-post practicals taking over (dual-temperature).
 DIEGETIC AUDIO: the sunset wind; the last birdsong fading; the lamp-posts buzzing on; crickets from the riverbank; a distant ship-horn.
 MASTER TRACK: the rich sunset swell strips to an intimate solo cello + ambient pad for the night.
@@ -9009,18 +9009,18 @@ COLOUR GRADE: VIVID night — deep indigo + star-white + warm city-amber + her s
 TEXTURE & MICRO-DETAIL: the platinum curtain glowing, silver-silk star-reflections, cable-stay detail, lamp-post glow, water reflections, diamond-stud sparkle.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~5s — opens NIGHT; ★ passes lamppost → DAWN returns)
+### ANIMATION (this clip, full 8s — opens NIGHT; ★ passes lamppost → DAWN returns)
 SHOT TYPE & ANGLE: eye-level full body, front; subject ~45% centre, walking.
 CAMERA MOVEMENT (CHOREOGRAPHY): a slow dolly-back at her pace under the stars — one continuous shot.
 LENS: 35mm, f/4, deep.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.0s — she walks the night bridge, lamp-light washing over her as she passes each post.
-- 2.0–3.5s — ★ TRIGGER: she passes the final lamp-post; the horizon begins to lighten.
-- 3.5–5.0s — she walks on, unchanged, as the sky resolves back into DAWN by the final frame.
+- 0.0–3.2s — she walks the night bridge, lamp-light washing over her as she passes each post.
+- 3.2–5.6s — ★ TRIGGER: she passes the final lamp-post; the horizon begins to lighten.
+- 5.6–8.0s — she walks on, unchanged, as the sky resolves back into DAWN by the final frame.
 FLUIDITY & WEIGHT NOTES: even walk; the constant; the rhythmic lamp-wash as she passes posts; all motion eases.
 FABRIC/HAIR/PROP PHYSICS: her silver dress and curtain catch each lamp-post as she passes (a rhythmic lighting pulse); the stars hold correct constellations; city reflections ripple on the water.
 FOOTWORK & BODY FLOW: a steady walking cadence.
-MID-CLIP TRANSFORMATION (timed — heavy detail): ★ TIME-CHANGE NIGHT→DAWN at 2.0–4.5s, triggered by the lamppost. The indigo night-sky lightens at the horizon and resolves back into the soft peach-lavender dawn; the stars fade; the lamp-posts dim; the water returns to pastel — the cycle completing back to the opening hour.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ TIME-CHANGE NIGHT→DAWN at 3.2–7.2s, triggered by the lamppost. The indigo night-sky lightens at the horizon and resolves back into the soft peach-lavender dawn; the stars fade; the lamp-posts dim; the water returns to pastel — the cycle completing back to the opening hour.
 LIGHTING-IN-MOTION: cool night lightening to soft peach dawn; the lamp-posts dimming.
 DIEGETIC AUDIO: the night city quieter; her footsteps echoing in the night air; a distant ship-horn; crickets fading; the first dawn birdsong returning.
 MASTER TRACK: the intimate night cello blooms back into the dawn strings+flute — the cycle closing.
@@ -9071,14 +9071,14 @@ COLOUR GRADE: VIVID dawn — peach, lavender, soft gold, pale blue, silver-catch
 TEXTURE & MICRO-DETAIL: silk dawn-sheen, platinum strands, cable-stays, water-ripples, diamond glint, silver-lavender nails — matched.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~4s — reset; loop close)
+### ANIMATION (this clip, full 8s — reset; loop close)
 SHOT TYPE & ANGLE: eye-level wide, front; subject ~45% centre, walking — matched to CLIP 1.
 CAMERA MOVEMENT (CHOREOGRAPHY): a slow dolly-back at her pace, settling to the exact CLIP-1 framing.
 LENS: 35mm, f/4 — matched.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.0s — she walks toward camera through the restored DAWN.
-- 2.0–3.5s — she approaches the first lamp-post again (the trigger primed for the next loop).
-- 3.5–4.0s — she settles into the exact CLIP-1 stride and serene smile.
+- 0.0–4.0s — she walks toward camera through the restored DAWN.
+- 4.0–7.0s — she approaches the first lamp-post again (the trigger primed for the next loop).
+- 7.0–8.0s — she settles into the exact CLIP-1 stride and serene smile.
 FLUIDITY & WEIGHT NOTES: the walk matches CLIP 1's pace; everything returns to the opening.
 FABRIC/HAIR/PROP PHYSICS: silk drifts, the curtain sways, cables hum, water ripples — matched to CLIP 1.
 FOOTWORK & BODY FLOW: a steady walking cadence.
@@ -9150,7 +9150,7 @@ Mood: DEADPAN COOL — unbothered flex through weather chaos (the funny one in P
 - WHAT TRANSFORMS + MEANING: the WEATHER (chaotic, hostile) — the joke is she doesn't care (sunglasses in snow).
 - DIFFERS FROM PILLAR-MATES BY: the DEADPAN/FUNNY one — attitude and comedy through weather, not awe; she reacts to nothing.
 Grade: VIVID per weather — blazing blue-sky sunshine, luminous grey-white fog, dramatic rain-silver, crystalline snow-white; her white blazer + black + gold + berry lip the constant anchor; rich blacks, full mid-tone.
-Duration: ~26 seconds · 5 clips (angle-cut state-chain).
+Duration: 40.000 seconds total — 5 clips × 8s each (VEO renders one 8-second take per clip); the soundtrack is built to exactly 40.000s and loops seamlessly.
 Voice: SILENT — diegetic street/weather + a cool constant-bassline score whose TEXTURE shifts with the weather.
 Identity safety: AIRA adult; wardrobe modest tailoring; mood confident and elegant, never sexualized.
 State chain (angle-cut): CLIP 1 wide [SUNSHINE → corner → ends FOG] → CUT → CLIP 2 profile [opens FOG → corner → ends RAIN] → CUT → CLIP 3 close-up [opens RAIN → corner → ends SNOW] → CUT → CLIP 4 full-body low [opens SNOW → corner → ends SUNSHINE] → CUT → CLIP 5 wide [opens SUNSHINE = CLIP 1, loop].
@@ -9182,18 +9182,18 @@ COLOUR GRADE: VIVID sunshine — saturated blue sky + green trees + her crisp wh
 TEXTURE & MICRO-DETAIL: linen-blazer weave, patent-loafer gloss, box-braid texture with gold thread, sharp shadow geometry, gold-chain links, berry lip, black nails.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~5s — opens SUNSHINE; ★ crosses corner → FOG, ends fog)
+### ANIMATION (this clip, full 8s — opens SUNSHINE; ★ crosses corner → FOG, ends fog)
 SHOT TYPE & ANGLE: eye-level wide, front; subject ~45% centre, walking toward lens.
 CAMERA MOVEMENT (CHOREOGRAPHY): a slow dolly-back at her walking pace — one continuous shot.
 LENS: 35mm, f/4, deep.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.0s — confident stride through the bright sunshine, ponytail swaying.
-- 2.0–3.5s — ★ TRIGGER: she crosses a street-corner; a gentle fog begins rolling in from the side streets.
-- 3.5–5.0s — she walks on at the same pace, unbothered, as the boulevard resolves fully into thick FOG by the final frame.
+- 0.0–3.2s — confident stride through the bright sunshine, ponytail swaying.
+- 3.2–5.6s — ★ TRIGGER: she crosses a street-corner; a gentle fog begins rolling in from the side streets.
+- 5.6–8.0s — she walks on at the same pace, unbothered, as the boulevard resolves fully into thick FOG by the final frame.
 FLUIDITY & WEIGHT NOTES: the stride never changes — the constant; the fog rolls around her; all motion eases.
 FABRIC/HAIR/PROP PHYSICS: the braids sway with correct pendulum and individual-braid mass; sharp shadows soften as fog enters; the fog rolls with ground-hugging density; the blazer shifts.
 FOOTWORK & BODY FLOW: a confident heel-to-toe walk, weight rolling.
-MID-CLIP TRANSFORMATION (timed — heavy detail): ★ WEATHER-CHANGE SUNSHINE→FOG at 2.0–4.5s, triggered by crossing the corner. The harsh blue sky and sharp shadows dissolve into thick cinematic fog — the boulevard almost vanishing, streetlamps creating halos, buildings as ghost-shapes; the sounds muffle. She stays the sharpest thing in the frame.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ WEATHER-CHANGE SUNSHINE→FOG at 3.2–7.2s, triggered by crossing the corner. The harsh blue sky and sharp shadows dissolve into thick cinematic fog — the boulevard almost vanishing, streetlamps creating halos, buildings as ghost-shapes; the sounds muffle. She stays the sharpest thing in the frame.
 LIGHTING-IN-MOTION: harsh sun softens to diffused, sourceless, luminous fog-light; sharp shadows gone.
 DIEGETIC AUDIO: full summer city (cars, chatter, fountain, birds); her loafers on dry pavement (sharp clicks); then sounds muffling as fog enters; a foghorn-distant hush.
 MASTER TRACK: a constant cool bass-line + snare (her pace, never changes); the TEXTURE on top shifts from clean dry sunshine-synths toward muffled, reverbed, filtered fog-textures.
@@ -9244,18 +9244,18 @@ COLOUR GRADE: VIVID-but-muted-by-fog — grey-white atmosphere, but HER whites a
 TEXTURE & MICRO-DETAIL: fog density-gradient, moisture-beads on gold and blazer, the braids' gold thread, halo-glow, patent-loafer wet-sheen.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~5s — opens FOG; ★ crosses corner → POURING RAIN, ends rain)
+### ANIMATION (this clip, full 8s — opens FOG; ★ crosses corner → POURING RAIN, ends rain)
 SHOT TYPE & ANGLE: eye-level medium-full profile; subject ~55% centre, walking.
 CAMERA MOVEMENT (CHOREOGRAPHY): a tracking move alongside her walk — one continuous shot.
 LENS: 50mm, f/2.8, shallow.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.0s — she walks through the fog at the same pace, sunglasses on.
-- 2.0–3.5s — ★ TRIGGER: she crosses the next corner; the fog darkens and the first rain begins.
-- 3.5–5.0s — she walks on, unbothered, as the boulevard resolves into a full POURING RAIN by the final frame.
+- 0.0–3.2s — she walks through the fog at the same pace, sunglasses on.
+- 3.2–5.6s — ★ TRIGGER: she crosses the next corner; the fog darkens and the first rain begins.
+- 5.6–8.0s — she walks on, unbothered, as the boulevard resolves into a full POURING RAIN by the final frame.
 FLUIDITY & WEIGHT NOTES: the pace never changes; the fog is irrelevant to her; all motion eases.
 FABRIC/HAIR/PROP PHYSICS: fog has correct density-gradient (thicker near the ground); moisture beads with surface-tension; the transition to rain is organic; one raindrop lands on her sunglasses (she doesn't wipe it).
 FOOTWORK & BODY FLOW: a steady confident walk, loafers on dampening pavement.
-MID-CLIP TRANSFORMATION (timed — heavy detail): ★ WEATHER-CHANGE FOG→RAIN at 2.0–4.5s, triggered by the corner. The fog darkens with clouds, then opens into a full downpour — sheets of rain, the boulevard turning to rivers, pedestrians running for cover in the background (she's the only one still walking), umbrellas opening around her.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ WEATHER-CHANGE FOG→RAIN at 3.2–7.2s, triggered by the corner. The fog darkens with clouds, then opens into a full downpour — sheets of rain, the boulevard turning to rivers, pedestrians running for cover in the background (she's the only one still walking), umbrellas opening around her.
 LIGHTING-IN-MOTION: flat fog-light darkening to storm-light with occasional lightning-flash backlighting the rain.
 DIEGETIC AUDIO: muffled fog cross-fading into the first raindrops, then a heavy downpour; others shouting and running; puddle-splashes; her steady unchanged loafer-steps.
 MASTER TRACK: the constant bass-and-snare unchanged; the texture shifts from muffled fog to distorted, compressed, heavy rain-textures.
@@ -9306,18 +9306,18 @@ COLOUR GRADE: storm-VIVID — dark grey sky + rain-silver + her white blazer tra
 TEXTURE & MICRO-DETAIL: rain-streams on the skin, rivulets from the jaw, wet-braid slick, gold thread vivid, rain on the sunglass lenses.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~5s — opens RAIN; ★ crosses corner → SNOW, ends snow)
+### ANIMATION (this clip, full 8s — opens RAIN; ★ crosses corner → SNOW, ends snow)
 SHOT TYPE & ANGLE: slight low-angle close-up; face ~70% right-of-centre.
 CAMERA MOVEMENT (CHOREOGRAPHY): a static-to-slow-track holding her face — one continuous shot.
 LENS: 85mm, f/2.0, slight low.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.0s — she walks through the downpour at the SAME pace, the same smile, rain streaming over her shades.
-- 2.0–3.5s — ★ TRIGGER: she crosses a corner; the rain thickens and begins to FREEZE (first snowflakes mixing in).
-- 3.5–5.0s — the downpour resolves into thick SNOW by the final frame; she walks on unchanged.
+- 0.0–3.2s — she walks through the downpour at the SAME pace, the same smile, rain streaming over her shades.
+- 3.2–5.6s — ★ TRIGGER: she crosses a corner; the rain thickens and begins to FREEZE (first snowflakes mixing in).
+- 5.6–8.0s — the downpour resolves into thick SNOW by the final frame; she walks on unchanged.
 FLUIDITY & WEIGHT NOTES: UNCHANGED pace and smile — the constant; all motion eases.
 FABRIC/HAIR/PROP PHYSICS: rain has correct heavy-downpour density; rivulets follow water-physics; wet fabric clings; the gold thread stays vivid; rain transitions to crystalline snowflakes with realistic crystal structure.
 FOOTWORK & BODY FLOW: a steady walk through the water then the snow.
-MID-CLIP TRANSFORMATION (timed — heavy detail): ★ WEATHER-CHANGE RAIN→SNOW at 2.0–4.5s, triggered by the corner. The pouring rain thickens and freezes into thick falling snow; the boulevard whitens, drifts forming, trees heavy with snow, the other people gone (they've fled); lamp-posts crowned with snow. A winter wonderland.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ WEATHER-CHANGE RAIN→SNOW at 3.2–7.2s, triggered by the corner. The pouring rain thickens and freezes into thick falling snow; the boulevard whitens, drifts forming, trees heavy with snow, the other people gone (they've fled); lamp-posts crowned with snow. A winter wonderland.
 LIGHTING-IN-MOTION: dark storm-light brightening to flat luminous snow-light (the snow reflecting everything).
 DIEGETIC AUDIO: heavy rain cross-fading into snow-silence (the most beautiful absence of sound); the soft whisper of falling flakes; her muffled footsteps in snow; a distant plow.
 MASTER TRACK: the constant bass-and-snare unchanged; the texture shifts from heavy distorted rain to stripped, quiet, spacious snow-textures.
@@ -9367,18 +9367,18 @@ COLOUR GRADE: snow-VIVID — pure luminous white + her crisp white blazer + blac
 TEXTURE & MICRO-DETAIL: individual falling flakes, crystalline drift-texture, snow on the braids, breath-fog, clean loafer-prints, snow settling on gold.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~5s — opens SNOW; ★ crosses corner → SUNSHINE, ends sunshine)
+### ANIMATION (this clip, full 8s — opens SNOW; ★ crosses corner → SUNSHINE, ends sunshine)
 SHOT TYPE & ANGLE: low-angle full-body 3/4-back; subject ~50% centre, walking away.
 CAMERA MOVEMENT (CHOREOGRAPHY): a low trailing dolly following behind her stride — one continuous shot.
 LENS: 35mm, f/2.8, low.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.0s — she strides away through the blizzard, ponytail swinging, leaving clean prints, sunglasses on.
-- 2.0–3.5s — ★ TRIGGER: she crosses the next corner; the snow thins, the clouds tear open, the first sun-shafts break through.
-- 3.5–5.0s — the snow melts off the world into full warm SUNSHINE by the final frame; she walks on, sunglasses now finally making sense.
+- 0.0–3.2s — she strides away through the blizzard, ponytail swinging, leaving clean prints, sunglasses on.
+- 3.2–5.6s — ★ TRIGGER: she crosses the next corner; the snow thins, the clouds tear open, the first sun-shafts break through.
+- 5.6–8.0s — the snow melts off the world into full warm SUNSHINE by the final frame; she walks on, sunglasses now finally making sense.
 FLUIDITY & WEIGHT NOTES: the stride never changes pace — the constant against a changing world; all motion eases.
 FABRIC/HAIR/PROP PHYSICS: snow falls with light flutter-drift physics; the ponytail swings with secondary-motion; snow melts off surfaces with believable speed; drips and steam rise as it warms; the blazer dries and lifts as the warm breeze returns.
 FOOTWORK & BODY FLOW: a steady confident walk-away, hips and ponytail in rhythm, loafers crunching snow then tapping dry pavement.
-MID-CLIP TRANSFORMATION (timed — heavy detail): ★ WEATHER-CHANGE SNOW→SUNSHINE at 2.0–4.5s, triggered by the corner. The blizzard thins; the clouds tear open into blue sky; sun-shafts pour down; the snow melts off the trees, drifts shrinking, the boulevard going from white to warm-gold wet-then-dry; café tables and people reappear; the world returns to the bright sunshine of CLIP 1.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ WEATHER-CHANGE SNOW→SUNSHINE at 3.2–7.2s, triggered by the corner. The blizzard thins; the clouds tear open into blue sky; sun-shafts pour down; the snow melts off the trees, drifts shrinking, the boulevard going from white to warm-gold wet-then-dry; café tables and people reappear; the world returns to the bright sunshine of CLIP 1.
 LIGHTING-IN-MOTION: flat white snow-light warming into golden directional sun, long warm shadows returning.
 DIEGETIC AUDIO: snow-silence cross-fading into dripping melt, then birdsong, café chatter, traffic — the bright living city returning; her unchanged loafer-steps.
 MASTER TRACK: the constant bass-and-snare unchanged; the texture blooms from quiet spacious snow back into the bright full sunshine-mix (closing the loop).
@@ -9428,13 +9428,13 @@ COLOUR GRADE: sunshine-VIVID — blue sky + golden light + green trees + her cri
 TEXTURE & MICRO-DETAIL: sun-flare, dust-motes, dry warm pavement-grain, the gold thread glint, café-life detail in the depth.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~4s — opens SUNSHINE; loop-close back to CLIP 1)
+### ANIMATION (this clip, full 8s — opens SUNSHINE; loop-close back to CLIP 1)
 SHOT TYPE & ANGLE: eye-level wide establishing; subject ~30% centre, approaching.
 CAMERA MOVEMENT (CHOREOGRAPHY): a slow push-in toward her as she approaches — one continuous shot that settles into CLIP 1's framing.
 LENS: 28mm, f/4, deep.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.0s — she walks toward camera down the bright boulevard, ponytail swinging, the same smile.
-- 2.0–4.0s — she reaches mid-frame, the push-in resolving into the EXACT framing/size that opened CLIP 1 — seamless loop point.
+- 0.0–4.0s — she walks toward camera down the bright boulevard, ponytail swinging, the same smile.
+- 4.0–8.0s — she reaches mid-frame, the push-in resolving into the EXACT framing/size that opened CLIP 1 — seamless loop point.
 FLUIDITY & WEIGHT NOTES: the same unchanged stride and smile she has carried through every weather; all motion eases.
 FABRIC/HAIR/PROP PHYSICS: ponytail swings with secondary-motion; the blazer lifts slightly in the warm breeze; sun-flare flickers naturally as she moves through shafts.
 FOOTWORK & BODY FLOW: a steady confident approach, hips and ponytail in rhythm, loafers tapping dry pavement.
@@ -9511,7 +9511,7 @@ Mood: REVERENT AWE — the whole arc of a life, profound and emotional (the life
 - WHAT TRANSFORMS + MEANING: a LIVING THING'S WHOLE LIFE (seed to death to new seed) — the cycle of life itself.
 - DIFFERS FROM PILLAR-MATES BY: the ORGANIC LIFE-CYCLE one with real emotional weight (mortality) and barefoot intimacy — not style, weather, or hours.
 Grade: VIVID per age — rich brown spring soil and tender green sprout, an explosion of pink-and-white spring blossom, deep emerald high-summer canopy, blazing amber-and-crimson autumn, then a hushed silver-bare decay — her sage/moss dress, gold, and chestnut hair the warm constant; rich earth-tones, full saturation, never washed.
-Duration: ~27 seconds · 5 clips (angle-cut state-chain).
+Duration: 40.000 seconds total — 5 clips × 8s each (VEO renders one 8-second take per clip); the soundtrack is built to exactly 40.000s and loops seamlessly.
 Voice: SILENT — diegetic garden/seasonal ambience + an organic cyclical score that grows and decays with the tree.
 Identity safety: AIRA adult; wardrobe modest and flowing; mood serene, tender, reverent, never sexualized.
 State chain (angle-cut): CLIP 1 wide [BARE EARTH + SEED → footfall → ends SAPLING] → CUT → CLIP 2 profile [opens SAPLING → footfall → ends FLOWERING TREE] → CUT → CLIP 3 low hero [opens FLOWERING TREE → footfall → ends ANCIENT OAK] → CUT → CLIP 4 over-the-shoulder [opens ANCIENT OAK → footfall → ends DECAY + new SEED] → CUT → CLIP 5 wide [opens BARE EARTH + SEED = CLIP 1, loop].
@@ -9542,18 +9542,18 @@ COLOUR GRADE: dawn-VIVID — rich dark-brown soil + cool silver mist + warm gold
 TEXTURE & MICRO-DETAIL: soil-grain and crumbling clods, the seed's husk-texture and dewdrop, silk weave, woven petals, fine flyaway hairs, dawn-mist gradient.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~5s — opens BARE EARTH; ★ footfall → SAPLING, ends sapling)
+### ANIMATION (this clip, full 8s — opens BARE EARTH; ★ footfall → SAPLING, ends sapling)
 SHOT TYPE & ANGLE: opens ground-level macro on the seed + entering bare foot, pulls back to eye-level wide 3/4-front; subject resolves to ~45% left-of-centre, the seed lower-centre.
 CAMERA MOVEMENT (CHOREOGRAPHY): opens locked-macro on the seed as her foot enters, then a smooth pull-back-and-rise to the establishing wide as she steps — one continuous shot.
 LENS: 35mm, f/2.8.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.0s — she lowers her raised foot toward the earth beside the seed, eyes down in wonder, waves and dress drifting.
-- 2.0–3.5s — ★ TRIGGER: her bare foot lands softly on the path — the FOOTFALL leaps time a century; the seed cracks and a tender green sprout pushes up.
-- 3.5–5.0s — time keeps rushing; the sprout unfurls into a knee-high SAPLING with its first delicate leaves by the final frame; she straightens, watching, smiling.
+- 0.0–3.2s — she lowers her raised foot toward the earth beside the seed, eyes down in wonder, waves and dress drifting.
+- 3.2–5.6s — ★ TRIGGER: her bare foot lands softly on the path — the FOOTFALL leaps time a century; the seed cracks and a tender green sprout pushes up.
+- 5.6–8.0s — time keeps rushing; the sprout unfurls into a knee-high SAPLING with its first delicate leaves by the final frame; she straightens, watching, smiling.
 FLUIDITY & WEIGHT NOTES: her motion is slow, fluid, reverent — a calm contrast to the rushing growth; all motion eases.
 FABRIC/HAIR/PROP PHYSICS: silk dress flows with soft cloth-physics; woven flowers and waves move with secondary-motion; the sprout grows with believable phototropic curl and leaf-unfurl physics; soil crumbles aside as roots push; a dewdrop rolls off a new leaf.
 FOOTWORK & BODY FLOW: a single slow grounded step, weight settling, the body rising tall to watch the growth.
-MID-CLIP TRANSFORMATION (timed — heavy detail): ★ TIME-LEAP BARE-EARTH→SAPLING at 2.0–4.5s, triggered by the footfall. The seed splits; a sprout spears up and unfurls; the surrounding bare beds flush with the first tiny grasses and weeds; the mist burns off slightly as the light warms; the empty clearing takes its first green.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ TIME-LEAP BARE-EARTH→SAPLING at 3.2–7.2s, triggered by the footfall. The seed splits; a sprout spears up and unfurls; the surrounding bare beds flush with the first tiny grasses and weeds; the mist burns off slightly as the light warms; the empty clearing takes its first green.
 LIGHTING-IN-MOTION: cool dawn warming a notch as the sprout rises — the light growing with the life.
 DIEGETIC AUDIO: a soft footfall on soil, then the faint organic crackle of the seed and the tiny creak of growing stem, a first birdsong, breeze through new grass.
 MASTER TRACK: a single low cello-drone and a soft heartbeat-pulse establishing — the seed of the score.
@@ -9603,18 +9603,18 @@ COLOUR GRADE: morning-VIVID — tender green sapling + warm soil + first-green b
 TEXTURE & MICRO-DETAIL: new-leaf veining and dew, sapling-bark fuzz, silk weave, woven petals, profile flyaway hairs, butterfly-wing scales.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~5.5s — opens SAPLING; ★ footfall → FLOWERING TREE, ends bloom)
+### ANIMATION (this clip, full 8s — opens SAPLING; ★ footfall → FLOWERING TREE, ends bloom)
 SHOT TYPE & ANGLE: eye-level medium-full profile; subject ~55% right-of-centre.
 CAMERA MOVEMENT (CHOREOGRAPHY): a slow lateral track following her step + a gentle rise as the tree grows — one continuous shot.
 LENS: 50mm, f/2.5.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.0s — she finishes reaching toward the sapling, fingertips grazing a leaf, then begins her next step.
-- 2.0–3.5s — ★ TRIGGER: her bare foot lands — the FOOTFALL leaps another century; the sapling surges upward, the trunk thickening.
-- 3.5–5.5s — time rushes; the young tree explodes into a full FLOWERING TREE — a canopy of pink-and-white blossom — by the final frame; she lifts her gaze up into the bloom, smiling, petals beginning to drift.
+- 0.0–2.9s — she finishes reaching toward the sapling, fingertips grazing a leaf, then begins her next step.
+- 2.9–5.1s — ★ TRIGGER: her bare foot lands — the FOOTFALL leaps another century; the sapling surges upward, the trunk thickening.
+- 5.1–8.0s — time rushes; the young tree explodes into a full FLOWERING TREE — a canopy of pink-and-white blossom — by the final frame; she lifts her gaze up into the bloom, smiling, petals beginning to drift.
 FLUIDITY & WEIGHT NOTES: her motion stays slow, fluid, reverent against the rushing growth; all motion eases.
 FABRIC/HAIR/PROP PHYSICS: silk flows; woven flowers and waves move with secondary-motion; the trunk thickens and bark forms with believable growth-physics; branches spread and bud; blossoms pop open in sequence; petals begin to drift with light air-physics.
 FOOTWORK & BODY FLOW: one slow grounded step, the body rising and turning upward to follow the climbing canopy.
-MID-CLIP TRANSFORMATION (timed — heavy detail): ★ TIME-LEAP SAPLING→FLOWERING-TREE at 2.0–5.0s, triggered by the footfall. The sapling thickens into a young trunk; branches shoot and fork; thousands of buds swell and burst into pink-and-white blossom; the beds around fill with spring wildflowers and tall grass; bees and butterflies arrive; the light warms to full bright spring.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ TIME-LEAP SAPLING→FLOWERING-TREE at 2.9–7.3s, triggered by the footfall. The sapling thickens into a young trunk; branches shoot and fork; thousands of buds swell and burst into pink-and-white blossom; the beds around fill with spring wildflowers and tall grass; bees and butterflies arrive; the light warms to full bright spring.
 LIGHTING-IN-MOTION: soft morning warming to bright spring sun dappling through the new canopy, blossom-shadows freckling the ground.
 DIEGETIC AUDIO: a footfall on soil, the woody creak and rush of fast growth, a swelling burst of birdsong and bees, breeze through blossom, the first petals ticking down.
 MASTER TRACK: the cello-drone joined by warm rising strings and a light plucked motif — the score blooming with the tree.
@@ -9664,18 +9664,18 @@ COLOUR GRADE: spring-VIVID — explosive pink-and-white blossom + bright blue sk
 TEXTURE & MICRO-DETAIL: individual petals with translucent veining, blossom-cluster density, bark texture up the trunk, silk weave, dappled skin-light, bee fuzz.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~5.5s — opens FLOWERING TREE; ★ footfall → ANCIENT OAK, ends ancient)
+### ANIMATION (this clip, full 8s — opens FLOWERING TREE; ★ footfall → ANCIENT OAK, ends ancient)
 SHOT TYPE & ANGLE: low hero angle, medium-wide; subject ~40% lower-centre.
 CAMERA MOVEMENT (CHOREOGRAPHY): a slow craning rise up the trunk as the tree ages and swells — one continuous shot.
 LENS: 28mm, f/2.8, low.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.0s — she stands beneath the blossom, palms catching petals, gazing up in awe.
-- 2.0–3.5s — ★ TRIGGER: her bare foot lands — the FOOTFALL leaps another century; the blossom drops all at once, leaves burst out, the trunk begins to swell massively.
-- 3.5–5.5s — time rushes; the tree swells into a vast ANCIENT OAK — gigantic gnarled trunk, immense deep-emerald summer canopy — by the final frame; she lowers her gaze, serene, dwarfed by the giant.
+- 0.0–2.9s — she stands beneath the blossom, palms catching petals, gazing up in awe.
+- 2.9–5.1s — ★ TRIGGER: her bare foot lands — the FOOTFALL leaps another century; the blossom drops all at once, leaves burst out, the trunk begins to swell massively.
+- 5.1–8.0s — time rushes; the tree swells into a vast ANCIENT OAK — gigantic gnarled trunk, immense deep-emerald summer canopy — by the final frame; she lowers her gaze, serene, dwarfed by the giant.
 FLUIDITY & WEIGHT NOTES: her motion stays slow and reverent against the explosive growth; all motion eases.
 FABRIC/HAIR/PROP PHYSICS: silk flows; petals fall en masse with realistic air-drift then settle; the trunk swells with believable bark-cracking growth-physics; branches thicken and gnarl; full summer leaves burst and flutter; the canopy casts deepening shade.
 FOOTWORK & BODY FLOW: one slow grounded step, the body settling and lowering its gaze as the canopy soars beyond frame.
-MID-CLIP TRANSFORMATION (timed — heavy detail): ★ TIME-LEAP FLOWERING-TREE→ANCIENT-OAK at 2.0–5.0s, triggered by the footfall. All blossom drops; the canopy leafs out deep emerald; the trunk swells from slender to massive and gnarled, bark deeply furrowing; roots heave and grip the earth; the surrounding beds mature into a lush high-summer garden; the light deepens to rich full-summer gold-green.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ TIME-LEAP FLOWERING-TREE→ANCIENT-OAK at 2.9–7.3s, triggered by the footfall. All blossom drops; the canopy leafs out deep emerald; the trunk swells from slender to massive and gnarled, bark deeply furrowing; roots heave and grip the earth; the surrounding beds mature into a lush high-summer garden; the light deepens to rich full-summer gold-green.
 LIGHTING-IN-MOTION: bright dappled spring deepening into rich shaded high-summer light, heavy warm shafts through the dense canopy.
 DIEGETIC AUDIO: a footfall, the great groaning creak of a tree swelling centuries, a rush of leaves, deep summer cicada-drone and birdsong, wind in a heavy canopy.
 MASTER TRACK: the strings swell to a full warm orchestral high, a deep resonant low end entering — the score at the height of life, lush and grand.
@@ -9725,18 +9725,18 @@ COLOUR GRADE: high-summer-VIVID — deep emerald canopy + warm gold light + rich
 TEXTURE & MICRO-DETAIL: deep bark-furrow detail on the trunk, individual backlit waves, silk weave at her back, leaf-vein detail, dust-motes in the summer shafts.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~6s — opens ANCIENT OAK; ★ footfall → DECAY + new SEED, ends bare-with-seed)
+### ANIMATION (this clip, full 8s — opens ANCIENT OAK; ★ footfall → DECAY + new SEED, ends bare-with-seed)
 SHOT TYPE & ANGLE: over-the-shoulder medium (back-pose); subject ~35% lower-left foreground.
 CAMERA MOVEMENT (CHOREOGRAPHY): a slow push past her shoulder toward the oak as it ages and falls — one continuous shot.
 LENS: 50mm, f/2.0.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.0s — she gazes at the ancient oak from behind, waves lifting, hand drifting up toward it.
-- 2.0–3.5s — ★ TRIGGER: her bare foot lands — the FOOTFALL leaps the final century; the canopy flares to amber-and-crimson autumn and the leaves begin to pour off.
-- 3.5–6.0s — time rushes through autumn and winter: leaves strip away, the great trunk greys, hollows, leans and falls to a mossy decaying log — and from the rot a single new SEED drops to bare earth by the final frame; she lowers her hand, serene, the cycle understood.
+- 0.0–2.7s — she gazes at the ancient oak from behind, waves lifting, hand drifting up toward it.
+- 2.7–4.7s — ★ TRIGGER: her bare foot lands — the FOOTFALL leaps the final century; the canopy flares to amber-and-crimson autumn and the leaves begin to pour off.
+- 4.7–8.0s — time rushes through autumn and winter: leaves strip away, the great trunk greys, hollows, leans and falls to a mossy decaying log — and from the rot a single new SEED drops to bare earth by the final frame; she lowers her hand, serene, the cycle understood.
 FLUIDITY & WEIGHT NOTES: her motion stays slow and tender against the rushing decay; all motion eases.
 FABRIC/HAIR/PROP PHYSICS: silk flows; waves lift and settle; autumn leaves detach and spiral with realistic flutter-fall; the trunk greys, cracks, sheds bark, leans with believable mass-and-collapse physics as it falls; moss and fungi creep over the fallen log; a seed drops and rolls to rest with weight.
 FOOTWORK & BODY FLOW: one slow grounded step, the lifted hand lowering gently as the giant falls — calm acceptance.
-MID-CLIP TRANSFORMATION (timed — heavy detail): ★ TIME-LEAP ANCIENT-OAK→DECAY at 2.0–5.5s, triggered by the footfall. The emerald canopy flares to blazing amber-crimson autumn; leaves pour off in waves; the garden browns and frosts to bare winter; the great trunk greys, hollows, cracks, leans and falls into a moss-and-fungi-covered decaying log; the surrounding beds die back to bare earth; and one fresh dark SEED drops from the rot onto the bare ground — the exact seed and bare earth of CLIP 1.
+MID-CLIP TRANSFORMATION (timed — heavy detail): ★ TIME-LEAP ANCIENT-OAK→DECAY at 2.7–7.3s, triggered by the footfall. The emerald canopy flares to blazing amber-crimson autumn; leaves pour off in waves; the garden browns and frosts to bare winter; the great trunk greys, hollows, cracks, leans and falls into a moss-and-fungi-covered decaying log; the surrounding beds die back to bare earth; and one fresh dark SEED drops from the rot onto the bare ground — the exact seed and bare earth of CLIP 1.
 LIGHTING-IN-MOTION: rich summer gold cooling through fiery autumn light into a hushed silver-cold winter, the warmth draining as the tree dies.
 DIEGETIC AUDIO: a footfall, the dry rush and rattle of falling autumn leaves, a long creaking groan and earth-shaking crash as the trunk falls, then winter wind and a deep settling silence, a single soft seed-drop.
 MASTER TRACK: the grand strings unravel to a lone mournful cello and the soft heartbeat-pulse returning — the score decaying back toward its single opening note.
@@ -9786,13 +9786,13 @@ COLOUR GRADE: dawn-VIVID — rich dark-brown soil + cool silver mist + warm gold
 TEXTURE & MICRO-DETAIL: soil-grain and clods, the seed's husk and dewdrop, silk weave, woven petals, flyaway hairs, dawn-mist gradient.
 NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, oversharpened, watermarks, deformed hands, joint cuts, dead eyes, statue-stiff posture, crushed blacks, garish oversaturation, flat light.
 
-### ANIMATION (this clip, ~4s — opens BARE EARTH + SEED; loop-close back to CLIP 1)
+### ANIMATION (this clip, full 8s — opens BARE EARTH + SEED; loop-close back to CLIP 1)
 SHOT TYPE & ANGLE: eye-level wide 3/4-front; subject ~45% left-of-centre, the seed lower-centre.
 CAMERA MOVEMENT (CHOREOGRAPHY): a slow settle/push toward the seed, resolving into CLIP 1's exact opening framing — one continuous shot.
 LENS: 35mm, f/2.8.
 SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.0s — she stands serene over the seed in the bare dawn clearing, waves and dress drifting, taking it in.
-- 2.0–4.0s — she begins to lift her foot to step again — the framing resolving into the EXACT composition that opened CLIP 1, the cycle poised to restart — seamless loop point.
+- 0.0–4.0s — she stands serene over the seed in the bare dawn clearing, waves and dress drifting, taking it in.
+- 4.0–8.0s — she begins to lift her foot to step again — the framing resolving into the EXACT composition that opened CLIP 1, the cycle poised to restart — seamless loop point.
 FLUIDITY & WEIGHT NOTES: slow, fluid, reverent — calm and whole; all motion eases.
 FABRIC/HAIR/PROP PHYSICS: silk flows with soft cloth-physics; woven flowers and waves move with secondary-motion; the seed sits with weight in the soil; a dewdrop trembles on its husk.
 FOOTWORK & BODY FLOW: weight centring then the foot lifting to begin the next step — exactly CLIP 1's opening motion.
