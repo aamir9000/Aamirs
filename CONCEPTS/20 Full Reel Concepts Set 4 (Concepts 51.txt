@@ -469,7 +469,7 @@ Mood: SERENE → polished
 
 Composition: clean symmetrical atelier, soft daylight, blush-and-white palette with cobalt accents
 
-Grade: bright commercial-beauty — clean airy whites, soft blush, crisp cobalt accents, rich-but-open blacks
+Grade: bright commercial-beauty — clean airy whites, soft blush, crisp cobalt accents, rich-but-open blacks (override)
 
 Spoken line: lands Frame 4 — "smooth as porcelain." (English, natural Indian accent)
 
@@ -510,7 +510,7 @@ COMPOSITION REFERENCE: bright editorial-beauty atelier hero (a clean skincare ca
 
 ATMOSPHERE: calm, fresh, refined — the serene beat before the glaze transforms her.
 
-COLOR GRADE: bright commercial-beauty — clean airy whites, soft blush, crisp cobalt accents, rich-but-open blacks, full mid-tone detail, no grain, no teal-orange.
+COLOR GRADE: bright commercial-beauty — clean airy whites, soft blush, crisp cobalt accents, rich-but-open blacks, full mid-tone detail, no grain, no teal-orange (override).
 
 TEXTURE & MICRO-DETAIL: the ceramic pot shows a real matte-pearl glaze with one soft specular and a crisp lid seam; the silk slip shows fine bias drape and a pearly sheen shift; soft-matte real skin micro-texture with peach-fuzz catching the window; a blush peony shows velvety petal texture; faint dust drifts in the light.
 
@@ -575,7 +575,7 @@ COMPOSITION REFERENCE: the signature transform beat — a single elegant impossi
 
 ATMOSPHERE: graceful, magical-but-believable — liquid porcelain dressing her in couture.
 
-COLOR GRADE: bright commercial-beauty — clean airy whites, soft blush, crisp cobalt accents, rich-but-open blacks.
+COLOR GRADE: bright commercial-beauty — clean airy whites, soft blush, crisp cobalt accents, rich-but-open blacks (override).
 
 TEXTURE & MICRO-DETAIL: the wet glaze edge reads as glossy flowing liquid with a bright specular, setting to a real matte-porcelain surface with fine crackle-glaze texture; the cobalt motifs read as glazed underglaze with soft bleed edges; the silk keeps real bias drape below the line; soft-matte skin micro-texture with peach-fuzz.
 
@@ -639,7 +639,7 @@ COMPOSITION REFERENCE: luxury beauty product-at-face hero — the blur-veil appl
 
 ATMOSPHERE: intimate, fresh, premium — the product as the source of her flawless finish.
 
-COLOR GRADE: bright commercial-beauty — clean airy whites, soft blush, crisp cobalt accents, open blacks.
+COLOR GRADE: bright commercial-beauty — clean airy whites, soft blush, crisp cobalt accents, open blacks (override).
 
 TEXTURE & MICRO-DETAIL: the primer reads as a real pearly cream with a soft sheen and a faint smoothing trail on the skin; the skin keeps real pores and peach-fuzz under the blurred finish (never plastic); the ceramic pot shows matte-pearl glaze and a crisp label; cobalt motifs read as glazed underglaze.
 
@@ -703,7 +703,7 @@ COMPOSITION REFERENCE: confident creator-to-camera beauty address — clean, pre
 
 ATMOSPHERE: warm, assured, fresh — the payoff line delivered eye-to-eye.
 
-COLOR GRADE: bright commercial-beauty — clean airy whites, soft blush, crisp cobalt accents, open blacks.
+COLOR GRADE: bright commercial-beauty — clean airy whites, soft blush, crisp cobalt accents, open blacks (override).
 
 TEXTURE & MICRO-DETAIL: the porcelain gown reads matte with fine crackle-glaze and glazed cobalt motifs; the ceramic pot shows matte-pearl glaze and a crisp label; soft-matte real skin micro-texture with peach-fuzz; lips with a soft satin sheen and real texture.
 
@@ -771,7 +771,7 @@ COMPOSITION REFERENCE: the magical hero finale beat — a luminous kintsugi gold
 
 ATMOSPHERE: radiant, refined, triumphant — flaws turned to gold as the climax.
 
-COLOR GRADE: bright commercial-beauty warmed for the beat — clean airy whites, soft blush, crisp cobalt, luminous gold, open blacks, controlled bloom.
+COLOR GRADE: bright commercial-beauty warmed for the beat — clean airy whites, soft blush, crisp cobalt, luminous gold, open blacks, controlled bloom (override).
 
 TEXTURE & MICRO-DETAIL: the gold veins read as real liquid-metal settling into glaze with a soft metallic gleam, not a flat overlay; gold-dust motes catch pin-speculars; the porcelain keeps fine crackle-glaze texture; soft-matte real skin micro-texture with peach-fuzz; a soft gold contact-light pools believably on the floor.
 
@@ -838,7 +838,7 @@ COMPOSITION REFERENCE: the loop-close — a serene return to the bright atelier 
 
 ATMOSPHERE: calm, fresh, complete — the reel resolving back to its first breath.
 
-COLOR GRADE: bright commercial-beauty — clean airy whites, soft blush, crisp cobalt accents, open blacks.
+COLOR GRADE: bright commercial-beauty — clean airy whites, soft blush, crisp cobalt accents, open blacks (override).
 
 TEXTURE & MICRO-DETAIL: the ceramic pot shows matte-pearl glaze and a crisp lid seam; the porcelain gown reads matte with fine crackle-glaze and glazed cobalt motifs; soft-matte real skin micro-texture with peach-fuzz; the last gold motes drift believably; faint dust in the light.
 

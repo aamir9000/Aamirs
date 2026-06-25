@@ -37,7 +37,7 @@ Mood: PLAYFUL, SURREAL, CANDY-POP
 
 Composition: centered hero against rising lava-lamp blobs with clean negative space
 
-Grade: bright glossy commercial-beauty with maximal candy-pop saturation — magenta / lime / tangerine punch
+Grade: bright glossy commercial-beauty with maximal candy-pop saturation — magenta / lime / tangerine punch (override)
 
 Spoken line: NONE — fully silent reel, no voice-over any frame (X.15)
 
@@ -71,7 +71,7 @@ HANDS & NAILS: right hand cradling the clear orb jar at collarbone height, finge
 
 FACIAL MICRO-DYNAMICS: right brow lifted about 1mm above the left; a knowing asymmetric quarter-smile pulling the left corner a hair tighter; lips parted barely 1mm on a held breath; eyes bright and direct to lens with a crisp twin catchlight; the faintest tension at the outer eye reading as playful anticipation, not strain.
 
-BODY POSTURE & WEIGHT: front-facing with the torso rotated about 5° to open the right shoulder toward camera; weight settled on the back leg with the hip in a 2° counter-tilt; the front shoulder dropped a touch lower than the back; chin level with the floor; spine long; the whole stance alive and breathing rather than posed-stiff.
+BODY POSTURE & WEIGHT: front-facing with the torso rotated about 5° to open the right shoulder toward camera; weight settled on the back leg with the hip in a 2° counter-tilt; the front shoulder dropped a touch lower than the back; chin level with the floor; spine long; the whole stance alive and breathing rather than posed-stiff (living stillness).
 
 KINETIC STILLNESS (8 layers): (1) the glossy flip-ends mid-settle, a 2cm bounce easing to rest; (2) a single loose baby-hair drifting at the temple in the studio air; (3) the magenta jelly still wobbling gently inside the tilted orb jar from being lifted; (4) a giant lava-lamp blob rising slowly behind her, lazily changing shape; (5) chest rising on a soft shallow inhale; (6) specular glints sliding a few millimetres along the glossy jar dome as it tips; (7) the liquid-latex gown breathing with a micro-shift of wet highlight as her ribcage expands; (8) a candy-resin bangle micro-swinging on the wrist.
 
@@ -128,7 +128,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
 
-TRANSFORM KEYFRAME NOTE: this is the signature change-beat. Glossy candy lava-lamp blobs rise from the floor, float up around her body and merge into a single sheet that morphs and sets into the new blob-form gown. KEYFRAME-LOCK : the face, hairline, eye position and skin texture are identical to Frame 1 — only the wardrobe transitions as the blobs coalesce into the magenta liquid-latex gown. No melting of features, no limb drift, no second subject. Cause → effect reads cleanly: blobs rise → merge → set.
+TRANSFORM KEYFRAME NOTE: this is the signature change-beat. Glossy candy lava-lamp blobs rise from the floor, float up around her body and merge into a single sheet that morphs and sets into the new blob-form gown (identity-through-transform). KEYFRAME-LOCK : the face, hairline, eye position and skin texture are identical to Frame 1 — only the wardrobe transitions as the blobs coalesce into the magenta liquid-latex gown. No melting of features, no limb drift, no second subject. Cause → effect reads cleanly: blobs rise → merge → set.
 
 VISUAL-LEAD NOTE: the hero beat is the candy blobs mid-merge — glossy magenta, lime and tangerine globes floating up and fusing around her torso, caught at the instant they sheet together and begin setting into couture; bouncy and saturated, clean wobble physics, never muddy or smeared.
 
@@ -606,7 +606,7 @@ Format: Commercial Beauty Hero / Product Demo
 
 Hero Product: "Volt Gloss" plasma lip-oil — a clear spherical glass orb bottle with a glowing electric filament core, holographic electric-violet oil, polished chrome cap
 
-Setting: Electric plasma studio — a deep gloss black-violet seamless charged with vibrant magenta, cyan and violet plasma glow, slow crackling plasma arcs drifting behind on a high-gloss black-mirror floor
+Setting: Electric plasma studio — a deep gloss black-violet seamless charged with vibrant magenta, cyan and violet plasma glow, slow crackling plasma arcs drifting behind on a high-gloss black-mirror floor (vibrant-on-dark)
 
 Wardrobe: an electrified liquid-chrome bodysuit-gown in gloss black-violet, sculpted seams traced with live crackling magenta-cyan plasma filament lines that glow from within
 
@@ -630,7 +630,7 @@ Mood: ELECTRIC, CHARGED, HIGH-VOLTAGE POP
 
 Composition: centered hero against drifting plasma arcs with clean negative space
 
-Grade: vibrant high-voltage pop on a deep gloss base — electric magenta / cyan / violet punch held saturated and clean, never muddy
+Grade: vibrant high-voltage pop on a deep gloss base — electric magenta / cyan / violet punch held saturated and clean, never muddy (override)
 
 Spoken line: NONE — fully silent reel, no voice-over any frame (X.15)
 
@@ -664,7 +664,7 @@ HANDS & NAILS: right hand cradling the clear orb at collarbone height, fingertip
 
 FACIAL MICRO-DYNAMICS: right brow lifted about 1mm above the left; a knowing asymmetric quarter-smile pulling the left corner a hair tighter; lips parted barely 1mm on a held breath; eyes bright and direct to lens with a crisp twin catchlight; the faintest tension at the outer eye reading as charged anticipation, not strain.
 
-BODY POSTURE & WEIGHT: front-facing with the torso rotated about 5° to open the right shoulder toward camera; weight settled on the back leg with the hip in a 2° counter-tilt; the front shoulder dropped a touch lower than the back; chin level with the floor; spine long; the whole stance alive and breathing rather than posed-stiff.
+BODY POSTURE & WEIGHT: front-facing with the torso rotated about 5° to open the right shoulder toward camera; weight settled on the back leg with the hip in a 2° counter-tilt; the front shoulder dropped a touch lower than the back; chin level with the floor; spine long; the whole stance alive and breathing rather than posed-stiff (living stillness).
 
 KINETIC STILLNESS (8 layers): (1) the chrome ponytail mid-settle, a 2cm pendulum sway easing to rest; (2) a single loose baby-hair drifting at the temple in the studio air; (3) the electric-violet oil still rocking gently inside the tilted orb from being lifted, the filament core crackling; (4) a slow plasma arc drifting and branching behind her; (5) chest rising on a soft shallow inhale; (6) specular glints sliding a few millimetres along the glossy orb and chrome cap as it tips; (7) the plasma filament lines on the gown pulsing faintly brighter and dimmer; (8) a chrome cuff micro-swinging on the wrist.
 
@@ -721,7 +721,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
 
-TRANSFORM KEYFRAME NOTE: this is the signature change-beat. Crackling plasma filaments arc out from the orb and the floor, race up around her body in glowing electric threads and weave themselves into the new liquid-chrome plasma-filament gown. KEYFRAME-LOCK : the face, hairline, eye position and skin texture are identical to Frame 1 — only the wardrobe transitions as the filaments weave and the chrome sets around them. No melting of features, no limb drift, no second subject. Cause → effect reads cleanly: arcs leap → threads weave → chrome sets.
+TRANSFORM KEYFRAME NOTE: this is the signature change-beat. Crackling plasma filaments arc out from the orb and the floor, race up around her body in glowing electric threads and weave themselves into the new liquid-chrome plasma-filament gown (identity-through-transform). KEYFRAME-LOCK : the face, hairline, eye position and skin texture are identical to Frame 1 — only the wardrobe transitions as the filaments weave and the chrome sets around them. No melting of features, no limb drift, no second subject. Cause → effect reads cleanly: arcs leap → threads weave → chrome sets.
 
 VISUAL-LEAD NOTE: the hero beat is the plasma filaments mid-weave — glowing electric magenta and cyan threads lacing up around her torso like live wire, caught at the instant they knit together and the liquid chrome sets around them into couture; vibrant and electric, crisp arc physics, never muddy or smeared.
 

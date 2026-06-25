@@ -37,7 +37,7 @@ Mood: ELECTRIC, FUTURISTIC, IRIDESCENT
 
 Composition: centered hero with clean negative space and refracted rainbow accents
 
-Grade: bright glossy commercial-beauty with full-spectrum iridescent pop — saturated rainbow refractions over crisp clean whites
+Grade: bright glossy commercial-beauty with full-spectrum iridescent pop — saturated rainbow refractions over crisp clean whites (override)
 
 Spoken line: NONE — fully silent reel, no voice-over any frame (X.15)
 
@@ -71,7 +71,7 @@ HANDS & NAILS: right hand cradling the faceted prism bottle at collarbone height
 
 FACIAL MICRO-DYNAMICS: right brow lifted about 1mm above the left; a knowing asymmetric quarter-smile pulling the left corner a hair tighter; lips parted barely 1mm on a held breath; eyes bright and direct to lens with a crisp twin catchlight from the softbox plus tiny rainbow refraction sparks; the faintest tension at the outer eye reading as anticipation, not strain.
 
-BODY POSTURE & WEIGHT: front-facing with the torso rotated about 5° to open the right shoulder toward camera; weight settled on the back leg with the hip in a 2° counter-tilt; the front shoulder dropped a touch lower than the back; chin level with the floor; spine long; the whole stance alive and breathing rather than posed-stiff.
+BODY POSTURE & WEIGHT: front-facing with the torso rotated about 5° to open the right shoulder toward camera; weight settled on the back leg with the hip in a 2° counter-tilt; the front shoulder dropped a touch lower than the back; chin level with the floor; spine long; the whole stance alive and breathing rather than posed-stiff (living stillness).
 
 KINETIC STILLNESS (8 layers): (1) chrome-glass waves mid-settle, a 3cm pendulum sway easing to rest; (2) a single loose baby-hair drifting at the temple in the studio air; (3) the pearlescent liquid still rocking gently inside the tilted prism bottle from being lifted; (4) faint rainbow refractions drifting and sliding across the cyclorama as a hanging prism turns overhead; (5) chest rising on a soft shallow inhale; (6) specular glints sliding a few millimetres along the faceted glass and the holographic chrome cap as the bottle tips; (7) the liquid-chrome bodice breathing with a micro-shift of mirror highlight as her ribcage expands; (8) a barely-perceptible eyelash settle as she completes a slow blink.
 
@@ -128,7 +128,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
 
-TRANSFORM KEYFRAME NOTE: this is the signature change-beat. A ribbon of iridescent oil-slick liquid-foil pours down from the shoulders and swirls around the body, then sets and facets into the new gown. KEYFRAME-LOCK : the face, hairline, eye position and skin texture are identical to Frame 1 — only the wardrobe transitions from the liquid-chrome column gown to the faceted holographic prism gown. No melting of features, no limb drift, no second subject. Cause → effect reads cleanly: pour → swirl → set.
+TRANSFORM KEYFRAME NOTE: this is the signature change-beat. A ribbon of iridescent oil-slick liquid-foil pours down from the shoulders and swirls around the body (identity-through-transform), then sets and facets into the new gown. KEYFRAME-LOCK : the face, hairline, eye position and skin texture are identical to Frame 1 — only the wardrobe transitions from the liquid-chrome column gown to the faceted holographic prism gown. No melting of features, no limb drift, no second subject. Cause → effect reads cleanly: pour → swirl → set.
 
 VISUAL-LEAD NOTE: the hero beat is the oil-slick liquid-foil sheeting over her form mid-swirl, rainbow skinned across its surface, caught at the instant it begins crystallising into faceted prism panels; engineered and glossy, never muddy or smeared.
 
@@ -628,7 +628,7 @@ Mood: ELECTRIC, BOLD, POP
 
 Composition: centered hero against a hard colour-block diagonal with clean negative space
 
-Grade: bright glossy commercial-beauty with maximal pop saturation — electric cobalt vs marigold complementary punch
+Grade: bright glossy commercial-beauty with maximal pop saturation — electric cobalt vs marigold complementary punch (override)
 
 Spoken line: NONE — fully silent reel, no voice-over any frame (X.15)
 
@@ -662,7 +662,7 @@ HANDS & NAILS: right hand cradling the cobalt Chroma Pop bottle at collarbone he
 
 FACIAL MICRO-DYNAMICS: right brow lifted about 1mm above the left; a knowing asymmetric quarter-smile pulling the left corner a hair tighter; lips parted barely 1mm on a held breath; eyes bright and direct to lens with a crisp twin catchlight; the faintest tension at the outer eye reading as anticipation, not strain.
 
-BODY POSTURE & WEIGHT: front-facing with the torso rotated about 5° to open the bare shoulder toward camera; weight settled on the back leg with the hip in a 2° counter-tilt; the front shoulder dropped a touch lower than the back; chin level with the floor; spine long; the whole stance alive and breathing rather than posed-stiff.
+BODY POSTURE & WEIGHT: front-facing with the torso rotated about 5° to open the bare shoulder toward camera; weight settled on the back leg with the hip in a 2° counter-tilt; the front shoulder dropped a touch lower than the back; chin level with the floor; spine long; the whole stance alive and breathing rather than posed-stiff (living stillness).
 
 KINETIC STILLNESS (8 layers): (1) the glass bob mid-settle, a 2cm sway easing to rest; (2) a single loose baby-hair drifting at the temple in the studio air; (3) the clear oil still rocking gently inside the tilted bottle from being lifted; (4) a faint marigold atmospheric glow drifting slowly across the cobalt half of the cyclorama; (5) chest rising on a soft shallow inhale; (6) specular glints sliding a few millimetres along the cobalt glass and the marigold cap as the bottle tips; (7) the cobalt satin breathing with a micro-shift of highlight as her ribcage expands; (8) a barely-perceptible eyelash settle as she completes a slow blink.
 
@@ -719,7 +719,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
 
-TRANSFORM KEYFRAME NOTE: this is the signature change-beat. A warm radiant heat-bloom wave sweeps diagonally across the gown and triggers a thermochromic colour-shift, the cobalt-blue igniting into marigold along a clean travelling boundary, the silhouette re-sculpting as it goes. KEYFRAME-LOCK : the face, hairline, eye position and skin texture are identical to Frame 1 — only the wardrobe colour-shifts cobalt → marigold and the architectural line re-forms. No melting of features, no limb drift, no second subject. Cause → effect reads cleanly: heat-wave sweeps → colour blooms → silhouette sets.
+TRANSFORM KEYFRAME NOTE: this is the signature change-beat. A warm radiant heat-bloom wave sweeps diagonally across the gown and triggers a thermochromic colour-shift, the cobalt-blue igniting into marigold along a clean travelling boundary (identity-through-transform), the silhouette re-sculpting as it goes. KEYFRAME-LOCK : the face, hairline, eye position and skin texture are identical to Frame 1 — only the wardrobe colour-shifts cobalt → marigold and the architectural line re-forms. No melting of features, no limb drift, no second subject. Cause → effect reads cleanly: heat-wave sweeps → colour blooms → silhouette sets.
 
 VISUAL-LEAD NOTE: the hero beat is the crisp diagonal colour-shift boundary mid-sweep — cobalt on one side, blazing marigold on the other, a hairline shimmer of transitional teal-green where they meet; graphic and saturated, never muddy or bleeding.
 
