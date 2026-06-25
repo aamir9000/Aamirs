@@ -91,6 +91,8 @@ Voice: SILENT — no spoken line; diegetic water + a soft cinematic score.
 
 Identity safety: AIRA is adult; all wardrobe modest; aquatic mood is elegant, never sexualized.
 
+MASTER AUDIO: a ~60-second custom cinematic score composed in self-resolving ~8-second phrases, so it can be trimmed to the reel’s assembled length at any phrase boundary without a hard cut — it always resolves, never stops dead or loops audibly. Built on a deep warm sub, an elegant felt piano and sleek modern textures — premium, cinematic and emotionally catching, never generic stock or empty ambience. It opens immediately on a single elegant piano strike haloed by a low sub-bloom (no fade-in) so the mood lands within the first second. Emotional arc: an airy intimate open across the first beats, a rising shimmer of anticipation toward frame 4, the warm emotional peak on water-to-silk wrap — the pool water spirals up her arm and weaves into a chiffon gown (locked transform keyframes Frames 4→5), then a graceful resolve back toward the opening for an invisible loop. SILENT reel — no spoken line; an optional wordless breath/choir texture may rise on the peak only if it elevates, never a lyric. Layered as one system — lead melody, warm sub for body, glassy modern shimmer as atmosphere, restrained percussion, and event impacts reserved for the major beats, each tuned to the score’s own key so every hit reads as the music itself expanding, never an added sound effect.
+
 ---
 
 ## Frame 1 of 6 — IMAGE PROMPT
@@ -159,9 +161,7 @@ TRANSITION / IMPOSSIBLE MOVE: none yet — pure living establishing beat; ends w
 
 LIGHTING-IN-MOTION: sun rim travels along her shoulder as she turns; caustics keep crawling on the deck.
 
-DIEGETIC AUDIO: soft lapping water, a warm breeze, distant palm rustle, a faint gold-bracelet tick.
-
-MASTER TRACK: a low cinematic ambient swell — warm pads, a single shimmering pluck, kept airy and quiet.
+AUDIO: realism — soft lapping water, a warm breeze, distant palm rustle, a faint gold-bracelet tick; score — a low cinematic ambient swell — warm pads, a single shimmering pluck, kept airy and quiet.
 
 LOOP LOGIC: her settling gaze and dropping hand match the final frame's return pose for a seamless wrap.
 
@@ -233,9 +233,7 @@ TRANSITION / IMPOSSIBLE MOVE: the toe-touch ripple seeds the water that will lat
 
 LIGHTING-IN-MOTION: sun specular slides along the wet tile as the foot moves; aqua bounce brightens the arch on descent.
 
-DIEGETIC AUDIO: the soft slip of the sandal, a single droplet plink, a delicate water ripple.
-
-MASTER TRACK: the ambient pad continues; a soft rising shimmer cues the touch.
+AUDIO: realism — the soft slip of the sandal, a single droplet plink, a delicate water ripple; score — the ambient pad continues; a soft rising shimmer cues the touch.
 
 LOOP LOGIC: ripple direction matches the water motion that resolves in the final frame.
 
@@ -309,9 +307,7 @@ TRANSITION / IMPOSSIBLE MOVE: first hint — a thin sheet of water begins to def
 
 LIGHTING-IN-MOTION: the orbit rolls the gold rim across her profile to her cheek; aqua bounce intensifies as the arm submerges.
 
-DIEGETIC AUDIO: a soft water entry, expanding ripple, gentle drips, a low resonant hum as the magic begins.
-
-MASTER TRACK: the score lifts a touch — a single sustained shimmer building anticipation.
+AUDIO: realism — a soft water entry, expanding ripple, gentle drips, a low resonant hum as the magic begins; score — the score lifts a touch — a single sustained shimmer building anticipation; IMPACT — on the exact frame of first hint, a deep key-tuned sub-bloom and a matched cinematic hit land inside the score, felt as the soundtrack expanding, not a separate effect.
 
 LOOP LOGIC: orbit direction set so the camera can complete its circle by the final frame.
 
@@ -383,9 +379,7 @@ TRANSITION / IMPOSSIBLE MOVE: THE hero move — pool water spirals up and weaves
 
 LIGHTING-IN-MOTION: sun rim ignites the translucent silk as it forms; caustics sweep across her body during the rise.
 
-DIEGETIC AUDIO: a rising water-whoosh, a soft chime as silk forms, scattered droplet patters.
-
-MASTER TRACK: the score swells to its emotional peak — a warm cinematic lift, still airy.
+AUDIO: realism — a rising water-whoosh, a soft chime as silk forms, scattered droplet patters; score — the score swells to its emotional peak — a warm cinematic lift, still airy; IMPACT — on the exact frame of the hero beat, a deep key-tuned sub-bloom and a matched cinematic hit land inside the score, felt as the soundtrack expanding, not a separate effect.
 
 LOOP LOGIC: the upward energy is the apex; the descent of energy begins next frame to return to the calm open.
 
@@ -457,9 +451,7 @@ TRANSITION / IMPOSSIBLE MOVE: transform resolves — fully formed liquid-silk go
 
 LIGHTING-IN-MOTION: sun rim steadies on her shoulders; mirrored-lens catches a travelling sky-glint.
 
-DIEGETIC AUDIO: water settling to stillness, a soft satisfied breath, a final soft chime.
-
-MASTER TRACK: the score resolves to a warm sustained chord, easing back toward the opening ambience.
+AUDIO: realism — water settling to stillness, a soft satisfied breath, a final soft chime; score — the score resolves to a warm sustained chord, easing back toward the opening ambience; IMPACT — on the exact frame of transform resolves, a deep key-tuned sub-bloom and a matched cinematic hit land inside the score, felt as the soundtrack expanding, not a separate effect.
 
 LOOP LOGIC: the stilled mirror water and her calm pose match the serene tone of Frame 1 for the return.
 
@@ -531,9 +523,7 @@ TRANSITION / IMPOSSIBLE MOVE: soft reverse-transform (gown→linen) as the seaml
 
 LIGHTING-IN-MOTION: sun rim and caustics return to their Frame 1 positions.
 
-DIEGETIC AUDIO: water lapping returns, breeze, faint bracelet tick — matched to Frame 1's bed for an inaudible loop seam.
-
-MASTER TRACK: the score lands back on the opening ambient swell, looping cleanly.
+AUDIO: realism — water lapping returns, breeze, faint bracelet tick — matched to Frame 1's bed for an inaudible loop seam; score — the score lands back on the opening ambient swell, looping cleanly; IMPACT — on the exact frame of soft reverse-transform (gown→linen) as the seamless loop bridge, a deep key-tuned sub-bloom and a matched cinematic hit land inside the score, felt as the soundtrack expanding, not a separate effect.
 
 LOOP LOGIC: final frame is a frame-accurate match to Frame 1 — pose, framing, light and audio all align for an invisible loop.
 
@@ -572,6 +562,8 @@ Duration: 24 seconds · 6 frames
 Voice: SPOKEN — line lands Frame 4: "every entrance is a new world."
 
 Identity safety: AIRA is adult; gown fully modest; glamour is elegant, never sexualized.
+
+MASTER AUDIO: a ~60-second custom cinematic score composed in self-resolving ~8-second phrases, so it can be trimmed to the reel’s assembled length at any phrase boundary without a hard cut — it always resolves, never stops dead or loops audibly. Built on a deep warm sub, an elegant felt piano and sleek modern textures — premium, cinematic and emotionally catching, never generic stock or empty ambience. It opens immediately on a single elegant piano strike haloed by a low sub-bloom (no fade-in) so the mood lands within the first second. Emotional arc: an airy intimate open across the first beats, a rising shimmer of anticipation toward frame 4, the warm emotional peak on revolving-door colour swap — one rotation transitions the entire palette and her gown from sapphire night to emerald-gold, then a graceful resolve back toward the opening for an invisible loop. SPOKEN reel — the score opens space for the spoken line at its beat and ducks gently beneath the voice, then re-blooms after. Layered as one system — lead melody, warm sub for body, glassy modern shimmer as atmosphere, restrained percussion, and event impacts reserved for the major beats, each tuned to the score’s own key so every hit reads as the music itself expanding, never an added sound effect.
 
 ---
 
@@ -641,9 +633,7 @@ TRANSITION / IMPOSSIBLE MOVE: none yet — a grounded glamorous entrance beat, e
 
 LIGHTING-IN-MOTION: brass rim travels up her body as the camera cranes; portico glow blooms as she rises.
 
-DIEGETIC AUDIO: a car door thunk, a heel click on wet marble, distant city hush, soft doorman ambience.
-
-MASTER TRACK: a sultry cinematic jazz-noir bed — brushed drums, upright bass, kept low.
+AUDIO: realism — a car door thunk, a heel click on wet marble, distant city hush, soft doorman ambience; score — a sultry cinematic jazz-noir bed — brushed drums, upright bass, kept low.
 
 LOOP LOGIC: her rising gaze toward the door cues the walk that the final frame returns from.
 
@@ -715,9 +705,7 @@ TRANSITION / IMPOSSIBLE MOVE: none — a sensory detail beat that bridges to the
 
 LIGHTING-IN-MOTION: brass rim slides along the heel as the hem moves; reflection shimmer travels.
 
-DIEGETIC AUDIO: heel settle, satin rustle, clutch tap on marble, faint rain mist.
-
-MASTER TRACK: jazz-noir bed continues, a soft cymbal swell.
+AUDIO: realism — heel settle, satin rustle, clutch tap on marble, faint rain mist; score — jazz-noir bed continues, a soft cymbal swell.
 
 LOOP LOGIC: grounded stance matches the closing return stance.
 
@@ -789,9 +777,7 @@ TRANSITION / IMPOSSIBLE MOVE: none — the readying ritual that propels her towa
 
 LIGHTING-IN-MOTION: brass rim glides on satin; gold-rim glasses catch a travelling specular as they lower.
 
-DIEGETIC AUDIO: soft glove-satin whisper, earring tick, a quiet breath.
-
-MASTER TRACK: jazz-noir swells slightly, anticipation rising.
+AUDIO: realism — soft glove-satin whisper, earring tick, a quiet breath; score — jazz-noir swells slightly, anticipation rising.
 
 LOOP LOGIC: the forward intent toward the door bridges to the transform frame.
 
@@ -865,9 +851,7 @@ TRANSITION / IMPOSSIBLE MOVE: THE hero move — the revolving rotation swaps the
 
 LIGHTING-IN-MOTION: cool and warm keys cross-fade across her body as the door turns; chandelier glow blooms in.
 
-DIEGETIC AUDIO: the soft whoosh of the revolving door, heel steps, a swell of warm lobby ambience and distant string quartet.
-
-MASTER TRACK: the jazz-noir blooms into a richer warm string motif as she enters the gold world.
+AUDIO: realism — the soft whoosh of the revolving door, heel steps, a swell of warm lobby ambience and distant string quartet; score — the jazz-noir blooms into a richer warm string motif as she enters the gold world; IMPACT — on the exact frame of the hero beat, a deep key-tuned sub-bloom and a matched cinematic hit land inside the score, felt as the soundtrack expanding, not a separate effect.
 
 LOOP LOGIC: the warm interior energy peaks here; the walk and turn-back will guide the palette home for the loop.
 
@@ -939,9 +923,7 @@ TRANSITION / IMPOSSIBLE MOVE: none — the warm-world walk; her turn seeds the l
 
 LIGHTING-IN-MOTION: chandelier speculars sweep across the satin as she advances; reflection follows.
 
-DIEGETIC AUDIO: heel steps echoing in the marble hall, soft string quartet, distant murmur of guests.
-
-MASTER TRACK: the warm string motif carries her walk, lush and confident.
+AUDIO: realism — heel steps echoing in the marble hall, soft string quartet, distant murmur of guests; score — the warm string motif carries her walk, lush and confident.
 
 LOOP LOGIC: the slowing turn matches the energy needed to reverse back toward the door.
 
@@ -1013,9 +995,7 @@ TRANSITION / IMPOSSIBLE MOVE: soft reverse colour-swap (emerald→sapphire) as t
 
 LIGHTING-IN-MOTION: warm key fades to cool, brass rim returns to the Frame 1 position.
 
-DIEGETIC AUDIO: the door whoosh and city hush return, matched to Frame 1's bed for an inaudible seam.
-
-MASTER TRACK: the string motif resolves back into the opening jazz-noir bed, looping cleanly.
+AUDIO: realism — the door whoosh and city hush return, matched to Frame 1's bed for an inaudible seam; score — the string motif resolves back into the opening jazz-noir bed, looping cleanly; IMPACT — on the exact frame of soft reverse colour-swap (emerald→sapphire) as the seamless loop bridge, a deep key-tuned sub-bloom and a matched cinematic hit land inside the score, felt as the soundtrack expanding, not a separate effect.
 
 LOOP LOGIC: final frame matches Frame 1's pose, framing, light and audio for an invisible loop.
 
@@ -1054,6 +1034,8 @@ Duration: 22 seconds · 6 frames
 Voice: SILENT — diegetic rain + a pulsing cinematic synth score.
 
 Identity safety: AIRA is adult; trench fully modest; mood is cool and editorial, never sexualized.
+
+MASTER AUDIO: a ~60-second custom cinematic score composed in self-resolving ~8-second phrases, so it can be trimmed to the reel’s assembled length at any phrase boundary without a hard cut — it always resolves, never stops dead or loops audibly. Built on a delicate felt piano, atmospheric pads and elegant glass textures — premium, cinematic and emotionally catching, never generic stock or empty ambience. It opens immediately on a soft piano strike with a low sub-bloom (no fade-in) so the mood lands within the first second. Emotional arc: an airy intimate open across the first beats, a rising shimmer of anticipation toward frame 4, the warm emotional peak on rain-freeze ripple — at the spin apex, falling raindrops freeze into a suspended shimmering sphere, then release, then a graceful resolve back toward the opening for an invisible loop. SILENT reel — no spoken line; an optional wordless breath/choir texture may rise on the peak only if it elevates, never a lyric. Layered as one system — lead melody, warm sub for body, elegant glassy shimmer as atmosphere, restrained percussion, and event impacts reserved for the major beats, each tuned to the score’s own key so every hit reads as the music itself expanding, never an added sound effect.
 
 ---
 
@@ -1123,9 +1105,7 @@ TRANSITION / IMPOSSIBLE MOVE: none yet — the launch beat, ending as her boot n
 
 LIGHTING-IN-MOTION: neon rim flickers across the vinyl as she shifts; puddle reflections ripple with the rain.
 
-DIEGETIC AUDIO: steady warm rain, distant traffic hiss, a neon-sign buzz, faraway city pulse.
-
-MASTER TRACK: a moody pulsing synth bed with a slow heartbeat kick, kept low.
+AUDIO: realism — steady warm rain, distant traffic hiss, a neon-sign buzz, faraway city pulse; score — a moody pulsing synth bed with a slow heartbeat kick, kept low.
 
 LOOP LOGIC: her forward intent matches the walk-on the final frame returns from.
 
@@ -1197,9 +1177,7 @@ TRANSITION / IMPOSSIBLE MOVE: the shattered-then-reforming reflection foreshadow
 
 LIGHTING-IN-MOTION: neon reflections scatter and recombine as the water moves.
 
-DIEGETIC AUDIO: a crisp splash, droplet patter, rain hiss, a low synth swell.
-
-MASTER TRACK: the synth pulse adds a percussive hit on the splash impact.
+AUDIO: realism — a crisp splash, droplet patter, rain hiss, a low synth swell; score — the synth pulse adds a percussive hit on the splash impact; IMPACT — on the exact frame of shattered-then-reforming reflection foreshadows the rain-freeze sphere, a deep key-tuned sub-bloom and a matched cinematic hit land inside the score, felt as the soundtrack expanding, not a separate effect.
 
 LOOP LOGIC: ripple motion echoes the sphere ripple that resolves later.
 
@@ -1271,9 +1249,7 @@ TRANSITION / IMPOSSIBLE MOVE: none — builds toward the spin; her energy coils 
 
 LIGHTING-IN-MOTION: neon rims slide along the coat as she moves; her face catches the cyan key on the glance.
 
-DIEGETIC AUDIO: rain on the umbrella dome, boot steps in puddles, neon buzz, distant traffic.
-
-MASTER TRACK: the synth pulse builds, adding a shimmering arpeggio.
+AUDIO: realism — rain on the umbrella dome, boot steps in puddles, neon buzz, distant traffic; score — the synth pulse builds, adding a shimmering arpeggio.
 
 LOOP LOGIC: stride cadence matches the closing walk-on.
 
@@ -1345,9 +1321,7 @@ TRANSITION / IMPOSSIBLE MOVE: THE hero move — falling rain freezes into a susp
 
 LIGHTING-IN-MOTION: as the orbit moves, neon refracts through the suspended droplets in travelling rainbows; on release the sphere collapses into rain.
 
-DIEGETIC AUDIO: rain swells then drops to a held hush at the freeze (a single shimmering tone), then a whoosh as it releases.
-
-MASTER TRACK: the synth holds a suspended chord at the freeze, then drops the beat back in on release.
+AUDIO: realism — rain swells then drops to a held hush at the freeze (a single shimmering tone), then a whoosh as it releases; score — the synth holds a suspended chord at the freeze, then drops the beat back in on release; IMPACT — on the exact frame of the hero beat, a deep key-tuned sub-bloom and a matched cinematic hit land inside the score, felt as the soundtrack expanding, not a separate effect.
 
 LOOP LOGIC: the released spin flows into the walk-on direction needed for the loop.
 
@@ -1419,9 +1393,7 @@ TRANSITION / IMPOSSIBLE MOVE: none — the cool-down walk; the slow seeds the lo
 
 LIGHTING-IN-MOTION: neon rims slide along the profile as she passes signage.
 
-DIEGETIC AUDIO: rain on umbrella, boot splashes, neon buzz, city pulse.
-
-MASTER TRACK: the synth settles into a steady cool groove.
+AUDIO: realism — rain on umbrella, boot splashes, neon buzz, city pulse; score — the synth settles into a steady cool groove.
 
 LOOP LOGIC: the slowing stride matches the energy to reverse toward the awning.
 
@@ -1493,9 +1465,7 @@ TRANSITION / IMPOSSIBLE MOVE: soft reset — umbrella-close and glasses-up bridg
 
 LIGHTING-IN-MOTION: neon rims and doorway glow return to their Frame 1 positions.
 
-DIEGETIC AUDIO: rain, neon buzz and city pulse matched to Frame 1's bed for an inaudible seam.
-
-MASTER TRACK: the synth resolves back into the opening pulsing bed, looping cleanly.
+AUDIO: realism — rain, neon buzz and city pulse matched to Frame 1's bed for an inaudible seam; score — the synth resolves back into the opening pulsing bed, looping cleanly.
 
 LOOP LOGIC: final frame is a frame-accurate match to Frame 1 — pose, framing, light and audio all align.
 
@@ -1534,6 +1504,8 @@ Duration: 24 seconds · 6 frames
 Voice: SPOKEN — line lands Frame 5: "why pick one, when I can be all of them?"
 
 Identity safety: AIRA is adult; every look fully modest; magic is whimsical, never sexualized.
+
+MASTER AUDIO: a ~60-second custom cinematic score composed in self-resolving ~8-second phrases, so it can be trimmed to the reel’s assembled length at any phrase boundary without a hard cut — it always resolves, never stops dead or loops audibly. Built on a glassy harp, an airy choir pad and soft weightless textures — premium, cinematic and emotionally catching, never generic stock or empty ambience. It opens immediately on a shimmering harp sweep over a choir-pad bloom (no fade-in) so the mood lands within the first second. Emotional arc: an airy intimate open across the first beats, a rising shimmer of anticipation toward frame 4, the warm emotional peak on mirror outfit-swap — each touch of the glass instantly re-dresses her and re-tints the room, then a graceful resolve back toward the opening for an invisible loop. SPOKEN reel — the score opens space for the spoken line at its beat and ducks gently beneath the voice, then re-blooms after. Layered as one system — lead melody, warm sub for body, weightless choir shimmer as atmosphere, restrained percussion, and event impacts reserved for the major beats, each tuned to the score’s own key so every hit reads as the music itself expanding, never an added sound effect.
 
 ---
 
@@ -1603,9 +1575,7 @@ TRANSITION / IMPOSSIBLE MOVE: none yet — the getting-ready beat, ending as her
 
 LIGHTING-IN-MOTION: ring-light glow breathes; a soft reflection shifts as she moves.
 
-DIEGETIC AUDIO: the soft slide of leather, a heel tap, fabric rustle, faint boutique ambience.
-
-MASTER TRACK: a light playful piano-and-pluck bed, airy and warm.
+AUDIO: realism — the soft slide of leather, a heel tap, fabric rustle, faint boutique ambience; score — a light playful piano-and-pluck bed, airy and warm.
 
 LOOP LOGIC: her gaze to the mirror cues the touch-swaps the loop will return from.
 
@@ -1677,9 +1647,7 @@ TRANSITION / IMPOSSIBLE MOVE: none — builds to the first touch-swap in Frame 3
 
 LIGHTING-IN-MOTION: ring-light glow breathes; oak rim slides as she turns.
 
-DIEGETIC AUDIO: coat rustle, a soft footstep, faint boutique ambience.
-
-MASTER TRACK: the playful bed adds a curious rising motif.
+AUDIO: realism — coat rustle, a soft footstep, faint boutique ambience; score — the playful bed adds a curious rising motif.
 
 LOOP LOGIC: the reach toward the glass bridges to the swap sequence.
 
@@ -1751,9 +1719,7 @@ TRANSITION / IMPOSSIBLE MOVE: hero swap #1 — touch re-dresses her blush→ivor
 
 LIGHTING-IN-MOTION: ring-light cross-fades warm→ivory; the room colour wipes with the ripple.
 
-DIEGETIC AUDIO: a soft chime-shimmer on the swap, a delighted breath, fabric whoosh.
-
-MASTER TRACK: the playful motif lands a bright sparkle on the swap.
+AUDIO: realism — a soft chime-shimmer on the swap, a delighted breath, fabric whoosh; score — the playful motif lands a bright sparkle on the swap; IMPACT — on the exact frame of hero swap #1, a deep key-tuned sub-bloom and a matched cinematic hit land inside the score, felt as the soundtrack expanding, not a separate effect.
 
 LOOP LOGIC: the swap rhythm establishes the cadence the loop will resolve.
 
@@ -1825,9 +1791,7 @@ TRANSITION / IMPOSSIBLE MOVE: hero swap #2 — touch re-dresses ivory→emerald 
 
 LIGHTING-IN-MOTION: ring-light shifts toward warm-emerald; the room colour wipes with the ripple.
 
-DIEGETIC AUDIO: a deeper chime-shimmer on the swap, a soft amused exhale.
-
-MASTER TRACK: the motif deepens, a richer playful chord.
+AUDIO: realism — a deeper chime-shimmer on the swap, a soft amused exhale; score — the motif deepens, a richer playful chord; IMPACT — on the exact frame of hero swap #2, a deep key-tuned sub-bloom and a matched cinematic hit land inside the score, felt as the soundtrack expanding, not a separate effect.
 
 LOOP LOGIC: the rising energy peaks toward the spoken line next frame.
 
@@ -1901,9 +1865,7 @@ TRANSITION / IMPOSSIBLE MOVE: none — the reveal beat; the three reflections se
 
 LIGHTING-IN-MOTION: ring-light steadies emerald-warm; reflections shimmer.
 
-DIEGETIC AUDIO: a soft room tone, her spoken line, a gentle shimmer under the reflections.
-
-MASTER TRACK: the playful motif resolves to a confident warm phrase as she speaks.
+AUDIO: realism — a soft room tone, her spoken line, a gentle shimmer under the reflections; score — the playful motif resolves to a confident warm phrase as she speaks.
 
 LOOP LOGIC: her settled pose and the layered reflections bridge back toward the opening.
 
@@ -1975,9 +1937,7 @@ TRANSITION / IMPOSSIBLE MOVE: soft reverse-swap (emerald→blush) as the seamles
 
 LIGHTING-IN-MOTION: ring-light warms back; the room re-tints to the opening blush.
 
-DIEGETIC AUDIO: a soft chime, fabric rustle, boutique ambience matched to Frame 1 for an inaudible seam.
-
-MASTER TRACK: the playful piano bed resolves back to the opening phrase, looping cleanly.
+AUDIO: realism — a soft chime, fabric rustle, boutique ambience matched to Frame 1 for an inaudible seam; score — the playful piano bed resolves back to the opening phrase, looping cleanly; IMPACT — on the exact frame of soft reverse-swap (emerald→blush) as the seamless loop bridge, a deep key-tuned sub-bloom and a matched cinematic hit land inside the score, felt as the soundtrack expanding, not a separate effect.
 
 LOOP LOGIC: final frame matches Frame 1's pose, framing, light and audio for an invisible loop.
 
@@ -2016,6 +1976,8 @@ Duration: 24 seconds · 6 frames
 Voice: SPOKEN — line lands Frame 4: "some journeys, the desert dresses you itself."
 
 Identity safety: AIRA is adult; travel set and gown fully modest; mood is adventurous and elegant, never sexualized.
+
+MASTER AUDIO: a ~60-second custom cinematic score composed in self-resolving ~8-second phrases, so it can be trimmed to the reel’s assembled length at any phrase boundary without a hard cut — it always resolves, never stops dead or loops audibly. Built on a deep warm sub, an elegant felt piano and sleek modern textures — premium, cinematic and emotionally catching, never generic stock or empty ambience. It opens immediately on a single elegant piano strike haloed by a low sub-bloom (no fade-in) so the mood lands within the first second. Emotional arc: an airy intimate open across the first beats, a rising shimmer of anticipation toward frame 4, the warm emotional peak on sand-to-gown dissolve — wind-lifted desert sand swirls up and weaves into a golden gown, then a graceful resolve back toward the opening for an invisible loop. SPOKEN reel — the score opens space for the spoken line at its beat and ducks gently beneath the voice, then re-blooms after. Layered as one system — lead melody, warm sub for body, glassy modern shimmer as atmosphere, restrained percussion, and event impacts reserved for the major beats, each tuned to the score’s own key so every hit reads as the music itself expanding, never an added sound effect.
 
 ---
 
@@ -2085,9 +2047,7 @@ TRANSITION / IMPOSSIBLE MOVE: none yet — the arrival beat, ending with her gaz
 
 LIGHTING-IN-MOTION: gold rim travels up her body as the camera cranes; dawn glow blooms.
 
-DIEGETIC AUDIO: a hiss of train steam, a boot on wooden boards, desert wind, a distant bird call.
-
-MASTER TRACK: a warm cinematic strings-and-oud bed, epic but gentle.
+AUDIO: realism — a hiss of train steam, a boot on wooden boards, desert wind, a distant bird call; score — a warm cinematic strings-and-oud bed, epic but gentle.
 
 LOOP LOGIC: her gaze to the desert cues the walk the final frame returns from.
 
@@ -2159,9 +2119,7 @@ TRANSITION / IMPOSSIBLE MOVE: none — a tactile detail beat bridging to the sca
 
 LIGHTING-IN-MOTION: gold specular slides on the buckle as the strap moves.
 
-DIEGETIC AUDIO: a leather creak, buckle click, a soft breeze, scattering sand.
-
-MASTER TRACK: the strings bed continues, a soft plucked motif.
+AUDIO: realism — a leather creak, buckle click, a soft breeze, scattering sand; score — the strings bed continues, a soft plucked motif.
 
 LOOP LOGIC: grounded readiness matches the closing return stance.
 
@@ -2233,9 +2191,7 @@ TRANSITION / IMPOSSIBLE MOVE: none — builds to the sand-to-gown dissolve next 
 
 LIGHTING-IN-MOTION: gold rim flickers along the streaming hair and scarf as they move.
 
-DIEGETIC AUDIO: wind gusts, snapping silk, distant train hum, soft sand hiss.
-
-MASTER TRACK: the strings-and-oud bed swells with anticipation.
+AUDIO: realism — wind gusts, snapping silk, distant train hum, soft sand hiss; score — the strings-and-oud bed swells with anticipation.
 
 LOOP LOGIC: the rising wind energy bridges into the transform.
 
@@ -2309,9 +2265,7 @@ TRANSITION / IMPOSSIBLE MOVE: THE hero move — wind-lifted sand swirls up and w
 
 LIGHTING-IN-MOTION: sun rim ignites the chiffon as it forms; the swirl glitters gold.
 
-DIEGETIC AUDIO: a rising wind-whoosh, a soft shimmer as silk forms, scattered sand patter, then her line.
-
-MASTER TRACK: the score swells to its epic peak — strings, oud and a soft vocal pad.
+AUDIO: realism — a rising wind-whoosh, a soft shimmer as silk forms, scattered sand patter, then her line; score — the score swells to its epic peak — strings, oud and a soft vocal pad; IMPACT — on the exact frame of the hero beat, a deep key-tuned sub-bloom and a matched cinematic hit land inside the score, felt as the soundtrack expanding, not a separate effect.
 
 LOOP LOGIC: the upward energy is the apex; energy descends next frame toward the calm open.
 
@@ -2383,9 +2337,7 @@ TRANSITION / IMPOSSIBLE MOVE: none — the golden-world walk; the slow seeds the
 
 LIGHTING-IN-MOTION: gold rim sweeps along the gown and hair as she moves.
 
-DIEGETIC AUDIO: wind over dunes, soft sand steps, a distant train whistle.
-
-MASTER TRACK: the epic strings carry her walk, lush and warm.
+AUDIO: realism — wind over dunes, soft sand steps, a distant train whistle; score — the epic strings carry her walk, lush and warm.
 
 LOOP LOGIC: the slowing turn matches the energy to reverse toward the train.
 
@@ -2457,9 +2409,7 @@ TRANSITION / IMPOSSIBLE MOVE: soft reverse-dissolve (gown→travel set) as the s
 
 LIGHTING-IN-MOTION: gold rim and dawn glow return to their Frame 1 positions.
 
-DIEGETIC AUDIO: train steam and desert wind return, matched to Frame 1's bed for an inaudible seam.
-
-MASTER TRACK: the strings-and-oud resolve back into the opening bed, looping cleanly.
+AUDIO: realism — train steam and desert wind return, matched to Frame 1's bed for an inaudible seam; score — the strings-and-oud resolve back into the opening bed, looping cleanly; IMPACT — on the exact frame of soft reverse-dissolve (gown→travel set) as the seamless loop bridge, a deep key-tuned sub-bloom and a matched cinematic hit land inside the score, felt as the soundtrack expanding, not a separate effect.
 
 LOOP LOGIC: final frame matches Frame 1's pose, framing, light and audio for an invisible loop.
 
@@ -2498,6 +2448,8 @@ Duration: 22 seconds · 6 frames
 Voice: SILENT — diegetic elevator chimes + a sleek cinematic electronic score.
 
 Identity safety: AIRA is adult; jumpsuit fully modest; mood is architectural and powerful, never sexualized.
+
+MASTER AUDIO: a ~60-second custom cinematic score composed in self-resolving ~8-second phrases, so it can be trimmed to the reel’s assembled length at any phrase boundary without a hard cut — it always resolves, never stops dead or loops audibly. Built on a deep warm sub, an elegant felt piano and sleek modern textures — premium, cinematic and emotionally catching, never generic stock or empty ambience. It opens immediately on a single elegant piano strike haloed by a low sub-bloom (no fade-in) so the mood lands within the first second. Emotional arc: an airy intimate open across the first beats, a rising shimmer of anticipation toward frame 4, the warm emotional peak on per-floor colour world — each door-open reveals a different saturated monochrome environment and re-tones her couture, then a graceful resolve back toward the opening for an invisible loop. SILENT reel — no spoken line; an optional wordless breath/choir texture may rise on the peak only if it elevates, never a lyric. Layered as one system — lead melody, warm sub for body, glassy modern shimmer as atmosphere, restrained percussion, and event impacts reserved for the major beats, each tuned to the score’s own key so every hit reads as the music itself expanding, never an added sound effect.
 
 ---
 
@@ -2567,9 +2519,7 @@ TRANSITION / IMPOSSIBLE MOVE: none yet — the entry beat, ending as she reaches
 
 LIGHTING-IN-MOTION: LED rim travels along the shoulder; chrome speculars slide as she moves.
 
-DIEGETIC AUDIO: a soft elevator hum, a heel-step on chrome, a faint LED tick.
-
-MASTER TRACK: a sleek minimal electronic bed — a low pulse and a glassy arpeggio, kept cool.
+AUDIO: realism — a soft elevator hum, a heel-step on chrome, a faint LED tick; score — a sleek minimal electronic bed — a low pulse and a glassy arpeggio, kept cool.
 
 LOOP LOGIC: the reach toward the button cues the floor-changes the loop returns from.
 
@@ -2641,9 +2591,7 @@ TRANSITION / IMPOSSIBLE MOVE: the ruby bloom seeds the first floor-world colour.
 
 LIGHTING-IN-MOTION: ruby LED ignites and spreads across the chrome in real time.
 
-DIEGETIC AUDIO: a soft button-press click, a rising LED tone, an elevator chime.
-
-MASTER TRACK: the electronic pulse adds a glassy bell on the press.
+AUDIO: realism — a soft button-press click, a rising LED tone, an elevator chime; score — the electronic pulse adds a glassy bell on the press; IMPACT — on the exact frame of ruby bloom seeds the first floor-world colour, a deep key-tuned sub-bloom and a matched cinematic hit land inside the score, felt as the soundtrack expanding, not a separate effect.
 
 LOOP LOGIC: the colour ignition starts the per-floor cycle the loop resolves.
 
@@ -2715,9 +2663,7 @@ TRANSITION / IMPOSSIBLE MOVE: floor-world #1 — doors reveal the ruby hall and 
 
 LIGHTING-IN-MOTION: ruby door-spill washes across her and the chrome as the doors part.
 
-DIEGETIC AUDIO: an elevator chime, doors sliding, a warm velvet-hall ambience swelling.
-
-MASTER TRACK: the electronic score adds a warm ruby pad on the reveal.
+AUDIO: realism — an elevator chime, doors sliding, a warm velvet-hall ambience swelling; score — the electronic score adds a warm ruby pad on the reveal; IMPACT — on the exact frame of floor-world #1, a deep key-tuned sub-bloom and a matched cinematic hit land inside the score, felt as the soundtrack expanding, not a separate effect.
 
 LOOP LOGIC: the floor-reveal rhythm builds the cycle the loop resolves.
 
@@ -2789,9 +2735,7 @@ TRANSITION / IMPOSSIBLE MOVE: floor-world #2 — doors reveal the cobalt atrium 
 
 LIGHTING-IN-MOTION: ruby fades to cobalt as the doors cycle; chrome washes cool.
 
-DIEGETIC AUDIO: a chime, doors cycling, a cool glass-atrium ambience.
-
-MASTER TRACK: the score shifts to a cool cobalt pad, the pulse tightening.
+AUDIO: realism — a chime, doors cycling, a cool glass-atrium ambience; score — the score shifts to a cool cobalt pad, the pulse tightening; IMPACT — on the exact frame of floor-world #2, a deep key-tuned sub-bloom and a matched cinematic hit land inside the score, felt as the soundtrack expanding, not a separate effect.
 
 LOOP LOGIC: the second floor-reveal builds toward the gold reveal next frame.
 
@@ -2863,9 +2807,7 @@ TRANSITION / IMPOSSIBLE MOVE: floor-world #3 — doors reveal the gold gallery a
 
 LIGHTING-IN-MOTION: cobalt fades to gold as she steps out; gold speculars sweep the couture.
 
-DIEGETIC AUDIO: a final chime, doors fully open, a warm gallery ambience.
-
-MASTER TRACK: the electronic score blooms to a warm confident peak.
+AUDIO: realism — a final chime, doors fully open, a warm gallery ambience; score — the electronic score blooms to a warm confident peak; IMPACT — on the exact frame of floor-world #3, a deep key-tuned sub-bloom and a matched cinematic hit land inside the score, felt as the soundtrack expanding, not a separate effect.
 
 LOOP LOGIC: her grounded hero pose seeds the turn-back that resets the loop.
 
@@ -2937,9 +2879,7 @@ TRANSITION / IMPOSSIBLE MOVE: soft reverse re-tone (gold→chrome) as the seamle
 
 LIGHTING-IN-MOTION: gold fades to chrome, LED rim returns to the Frame 1 position.
 
-DIEGETIC AUDIO: the elevator hum and LED tick return, matched to Frame 1's bed for an inaudible seam.
-
-MASTER TRACK: the electronic bed resolves back into the opening pulse, looping cleanly.
+AUDIO: realism — the elevator hum and LED tick return, matched to Frame 1's bed for an inaudible seam; score — the electronic bed resolves back into the opening pulse, looping cleanly.
 
 LOOP LOGIC: final frame matches Frame 1's pose, framing, light and audio for an invisible loop.
 
@@ -2978,6 +2918,8 @@ Duration: 24 seconds · 6 frames
 Voice: SPOKEN — line lands Frame 4: "some days, you just have to float."
 
 Identity safety: AIRA is adult; co-ord fully modest; mood is playful and sweet, never sexualized.
+
+MASTER AUDIO: a ~60-second custom cinematic score composed in self-resolving ~8-second phrases, so it can be trimmed to the reel’s assembled length at any phrase boundary without a hard cut — it always resolves, never stops dead or loops audibly. Built on a delicate felt piano, atmospheric pads and elegant glass textures — premium, cinematic and emotionally catching, never generic stock or empty ambience. It opens immediately on a soft piano strike with a low sub-bloom (no fade-in) so the mood lands within the first second. Emotional arc: an airy intimate open across the first beats, a rising shimmer of anticipation toward frame 4, the warm emotional peak on balloon-lift float — the pastel balloons gently lift her into a weightless mid-air twirl above the rooftop, then a graceful resolve back toward the opening for an invisible loop. SPOKEN reel — the score opens space for the spoken line at its beat and ducks gently beneath the voice, then re-blooms after. Layered as one system — lead melody, warm sub for body, elegant glassy shimmer as atmosphere, restrained percussion, and event impacts reserved for the major beats, each tuned to the score’s own key so every hit reads as the music itself expanding, never an added sound effect.
 
 ---
 
@@ -3047,9 +2989,7 @@ TRANSITION / IMPOSSIBLE MOVE: none yet — the joyful entry beat, ending as she 
 
 LIGHTING-IN-MOTION: gold sun rim travels along the curls as she moves; pastel bounce warms.
 
-DIEGETIC AUDIO: a light breeze, balloon squeaks, distant city hum, a soft bracelet jingle.
-
-MASTER TRACK: a bright bubbly pop bed — plucky synths and a soft clap groove, upbeat.
+AUDIO: realism — a light breeze, balloon squeaks, distant city hum, a soft bracelet jingle; score — a bright bubbly pop bed — plucky synths and a soft clap groove, upbeat.
 
 LOOP LOGIC: her reach toward the balloons cues the float the loop returns from.
 
@@ -3121,9 +3061,7 @@ TRANSITION / IMPOSSIBLE MOVE: the upward balloon-tug seeds the float to come.
 
 LIGHTING-IN-MOTION: gold rim slides along the ribbons as they move.
 
-DIEGETIC AUDIO: ribbon rustle, balloon squeaks, a soft breeze.
-
-MASTER TRACK: the pop bed adds a rising sparkle as the balloons tug.
+AUDIO: realism — ribbon rustle, balloon squeaks, a soft breeze; score — the pop bed adds a rising sparkle as the balloons tug.
 
 LOOP LOGIC: the buoyant tug starts the lift cycle the loop resolves.
 
@@ -3195,9 +3133,7 @@ TRANSITION / IMPOSSIBLE MOVE: the lift begins — balloons start to carry her up
 
 LIGHTING-IN-MOTION: gold rim sweeps along the skirt and curls as she spins.
 
-DIEGETIC AUDIO: a delighted laugh, balloon squeaks, skirt swish, a breeze.
-
-MASTER TRACK: the pop bed lifts with a bright rising arpeggio.
+AUDIO: realism — a delighted laugh, balloon squeaks, skirt swish, a breeze; score — the pop bed lifts with a bright rising arpeggio.
 
 LOOP LOGIC: the rising twirl energy bridges into the float.
 
@@ -3271,9 +3207,7 @@ TRANSITION / IMPOSSIBLE MOVE: THE hero move — the pastel balloons lift her int
 
 LIGHTING-IN-MOTION: gold sun rim ignites the curls and skirt as she rises; sky glow blooms.
 
-DIEGETIC AUDIO: a soft whoosh of lift, balloon squeaks, a delighted laugh, then her line.
-
-MASTER TRACK: the pop score blooms to its bright joyful peak.
+AUDIO: realism — a soft whoosh of lift, balloon squeaks, a delighted laugh, then her line; score — the pop score blooms to its bright joyful peak; IMPACT — on the exact frame of the hero beat, a deep key-tuned sub-bloom and a matched cinematic hit land inside the score, felt as the soundtrack expanding, not a separate effect.
 
 LOOP LOGIC: the float apex is the high point; she begins to drift down next frame toward the rooftop.
 
@@ -3345,9 +3279,7 @@ TRANSITION / IMPOSSIBLE MOVE: none — the gentle descent; the settle seeds the 
 
 LIGHTING-IN-MOTION: gold rim sweeps along the profile as she lands.
 
-DIEGETIC AUDIO: balloon squeaks easing, a soft landing step, a breeze.
-
-MASTER TRACK: the pop score eases to a soft warm groove.
+AUDIO: realism — balloon squeaks easing, a soft landing step, a breeze; score — the pop score eases to a soft warm groove.
 
 LOOP LOGIC: the settling turn matches the energy to reverse toward the runway start.
 
@@ -3419,9 +3351,7 @@ TRANSITION / IMPOSSIBLE MOVE: soft reset — balloon-release and glasses-up brid
 
 LIGHTING-IN-MOTION: gold rim and sun glow return to their Frame 1 positions.
 
-DIEGETIC AUDIO: breeze, balloon squeaks and city hum matched to Frame 1's bed for an inaudible seam.
-
-MASTER TRACK: the pop bed resolves back into the opening bubbly groove, looping cleanly.
+AUDIO: realism — breeze, balloon squeaks and city hum matched to Frame 1's bed for an inaudible seam; score — the pop bed resolves back into the opening bubbly groove, looping cleanly.
 
 LOOP LOGIC: final frame matches Frame 1's pose, framing, light and audio for an invisible loop.
 
@@ -3460,6 +3390,8 @@ Duration: 22 seconds · 6 frames
 Voice: SILENT — diegetic market ambience + a warm cinematic santoor-and-strings score.
 
 Identity safety: AIRA is adult; kurta-set and gown fully modest; mood is festive and elegant, never sexualized.
+
+MASTER AUDIO: a ~60-second custom cinematic score composed in self-resolving ~8-second phrases, so it can be trimmed to the reel’s assembled length at any phrase boundary without a hard cut — it always resolves, never stops dead or loops audibly. Built on a deep warm sub, an elegant felt piano and sleek modern textures — premium, cinematic and emotionally catching, never generic stock or empty ambience. It opens immediately on a single elegant piano strike haloed by a low sub-bloom (no fade-in) so the mood lands within the first second. Emotional arc: an airy intimate open across the first beats, a rising shimmer of anticipation toward frame 4, the warm emotional peak on bloom-burst veil — a bundle of buds bursts into a swirling petal-veil that weaves a flower-couture gown, then a graceful resolve back toward the opening for an invisible loop. SILENT reel — no spoken line; an optional wordless breath/choir texture may rise on the peak only if it elevates, never a lyric. Layered as one system — lead melody, warm sub for body, glassy modern shimmer as atmosphere, restrained percussion, and event impacts reserved for the major beats, each tuned to the score’s own key so every hit reads as the music itself expanding, never an added sound effect.
 
 ---
 
@@ -3529,9 +3461,7 @@ TRANSITION / IMPOSSIBLE MOVE: none yet — the entry beat, ending as she reaches
 
 LIGHTING-IN-MOTION: lantern rim travels along the dupatta as she moves; amber glow breathes.
 
-DIEGETIC AUDIO: soft market murmur, a distant bell, rustling garlands, a warm breeze.
-
-MASTER TRACK: a warm santoor-and-strings bed, gentle and enchanted.
+AUDIO: realism — soft market murmur, a distant bell, rustling garlands, a warm breeze; score — a warm santoor-and-strings bed, gentle and enchanted.
 
 LOOP LOGIC: her reach toward the garland cues the bloom-burst the loop returns from.
 
@@ -3603,9 +3533,7 @@ TRANSITION / IMPOSSIBLE MOVE: the shedding petals foreshadow the bloom-burst vei
 
 LIGHTING-IN-MOTION: amber rim slides along the garland as it moves.
 
-DIEGETIC AUDIO: a soft petal rustle, bangle clink, market murmur.
-
-MASTER TRACK: the santoor adds a gentle ascending phrase.
+AUDIO: realism — a soft petal rustle, bangle clink, market murmur; score — the santoor adds a gentle ascending phrase; IMPACT — on the exact frame of shedding petals foreshadow the bloom-burst veil, a deep key-tuned sub-bloom and a matched cinematic hit land inside the score, felt as the soundtrack expanding, not a separate effect.
 
 LOOP LOGIC: the adorning ritual starts the flower-magic cycle the loop resolves.
 
@@ -3677,9 +3605,7 @@ TRANSITION / IMPOSSIBLE MOVE: none — builds toward the bloom-burst at market c
 
 LIGHTING-IN-MOTION: amber rim sweeps along the profile as she rises.
 
-DIEGETIC AUDIO: a soft jutti slide, bangle clink, market murmur, a distant flute.
-
-MASTER TRACK: the santoor-strings swell gently with anticipation.
+AUDIO: realism — a soft jutti slide, bangle clink, market murmur, a distant flute; score — the santoor-strings swell gently with anticipation.
 
 LOOP LOGIC: the rise toward market centre bridges to the transform.
 
@@ -3751,9 +3677,7 @@ TRANSITION / IMPOSSIBLE MOVE: THE hero move — a bundle of buds bursts into a s
 
 LIGHTING-IN-MOTION: lantern light ignites the petals translucent as they form; the swirl glows amber.
 
-DIEGETIC AUDIO: a soft floral whoosh, a shimmer as petals weave, scattered petal-patter.
-
-MASTER TRACK: the santoor-strings swell to a warm festive peak.
+AUDIO: realism — a soft floral whoosh, a shimmer as petals weave, scattered petal-patter; score — the santoor-strings swell to a warm festive peak; IMPACT — on the exact frame of the hero beat, a deep key-tuned sub-bloom and a matched cinematic hit land inside the score, felt as the soundtrack expanding, not a separate effect.
 
 LOOP LOGIC: the upward swirl is the apex; energy descends next frame toward the walk-on.
 
@@ -3825,9 +3749,7 @@ TRANSITION / IMPOSSIBLE MOVE: none — the flower-world walk; the glance seeds t
 
 LIGHTING-IN-MOTION: lantern rims slide along the gown as she moves; her face catches the warm key on the glance.
 
-DIEGETIC AUDIO: market murmur, soft jutti steps, a distant bell, petal rustle.
-
-MASTER TRACK: the santoor-strings carry her walk, lush and warm.
+AUDIO: realism — market murmur, soft jutti steps, a distant bell, petal rustle; score — the santoor-strings carry her walk, lush and warm.
 
 LOOP LOGIC: the glance and slowing stride match the energy to reverse toward the aisle start.
 
@@ -3899,9 +3821,7 @@ TRANSITION / IMPOSSIBLE MOVE: soft reverse-dissolve (flower gown→kurta-set) as
 
 LIGHTING-IN-MOTION: lantern rim and amber glow return to their Frame 1 positions.
 
-DIEGETIC AUDIO: market murmur, bell and breeze matched to Frame 1's bed for an inaudible seam.
-
-MASTER TRACK: the santoor-strings resolve back into the opening bed, looping cleanly.
+AUDIO: realism — market murmur, bell and breeze matched to Frame 1's bed for an inaudible seam; score — the santoor-strings resolve back into the opening bed, looping cleanly; IMPACT — on the exact frame of soft reverse-dissolve (flower gown→kurta-set) as the seamless loop bridge, a deep key-tuned sub-bloom and a matched cinematic hit land inside the score, felt as the soundtrack expanding, not a separate effect.
 
 LOOP LOGIC: final frame matches Frame 1's pose, framing, light and audio for an invisible loop.
 
@@ -3940,6 +3860,8 @@ Duration: 24 seconds · 6 frames
 Voice: SPOKEN — line lands Frame 5: "glow first — the rest follows."
 
 Identity safety: AIRA is adult; robe and gown fully modest; beauty mood is fresh and elegant, never sexualized.
+
+MASTER AUDIO: a ~60-second custom cinematic score composed in self-resolving ~8-second phrases, so it can be trimmed to the reel’s assembled length at any phrase boundary without a hard cut — it always resolves, never stops dead or loops audibly. Built on a delicate felt piano, atmospheric pads and elegant glass textures — premium, cinematic and emotionally catching, never generic stock or empty ambience. It opens immediately on a soft piano strike with a low sub-bloom (no fade-in) so the mood lands within the first second. Emotional arc: an airy intimate open across the first beats, a rising shimmer of anticipation toward frame 4, the warm emotional peak on steam-to-couture reveal — warm basin steam billows up and resolves into a pearl-couture gown, then a graceful resolve back toward the opening for an invisible loop. SPOKEN reel — the score opens space for the spoken line at its beat and ducks gently beneath the voice, then re-blooms after. Layered as one system — lead melody, warm sub for body, elegant glassy shimmer as atmosphere, restrained percussion, and event impacts reserved for the major beats, each tuned to the score’s own key so every hit reads as the music itself expanding, never an added sound effect.
 
 ---
 
@@ -4009,9 +3931,7 @@ TRANSITION / IMPOSSIBLE MOVE: none yet — the ritual-open beat, ending as her g
 
 LIGHTING-IN-MOTION: mirror glow breathes; daylight softens as steam drifts across.
 
-DIEGETIC AUDIO: soft running-water trickle, a gentle exhale, a faint fixture drip.
-
-MASTER TRACK: a soft spa-ambient bed — warm pads, a single soft chime, airy and calm.
+AUDIO: realism — soft running-water trickle, a gentle exhale, a faint fixture drip; score — a soft spa-ambient bed — warm pads, a single soft chime, airy and calm.
 
 LOOP LOGIC: her gaze to the mirror cues the steam-reveal the loop returns from.
 
@@ -4083,9 +4003,7 @@ TRANSITION / IMPOSSIBLE MOVE: the rising mist foreshadows the steam-reveal.
 
 LIGHTING-IN-MOTION: daylight catches the drifting droplets in tiny sparkles.
 
-DIEGETIC AUDIO: a soft spritz hiss, a gentle inhale, a fixture drip.
-
-MASTER TRACK: the spa bed adds a soft shimmer on the spray.
+AUDIO: realism — a soft spritz hiss, a gentle inhale, a fixture drip; score — the spa bed adds a soft shimmer on the spray; IMPACT — on the exact frame of rising mist foreshadows the steam-reveal, a deep key-tuned sub-bloom and a matched cinematic hit land inside the score, felt as the soundtrack expanding, not a separate effect.
 
 LOOP LOGIC: the mist motion seeds the steam cycle the loop resolves.
 
@@ -4157,9 +4075,7 @@ TRANSITION / IMPOSSIBLE MOVE: none — a tactile beat bridging to the steam-reve
 
 LIGHTING-IN-MOTION: warm rim slides along the slipper satin as the foot moves.
 
-DIEGETIC AUDIO: a soft satin slide, a slipper tap on marble, a fixture drip.
-
-MASTER TRACK: the spa bed continues, a soft plucked note.
+AUDIO: realism — a soft satin slide, a slipper tap on marble, a fixture drip; score — the spa bed continues, a soft plucked note.
 
 LOOP LOGIC: the grounded settle matches the closing return stance.
 
@@ -4231,9 +4147,7 @@ TRANSITION / IMPOSSIBLE MOVE: THE hero move — warm basin steam billows up and 
 
 LIGHTING-IN-MOTION: backlight ignites the steam translucent as the gown forms; pearl sheen blooms.
 
-DIEGETIC AUDIO: a soft steam-whoosh, a shimmer as satin forms, gentle water trickle.
-
-MASTER TRACK: the spa score swells to a warm luminous peak.
+AUDIO: realism — a soft steam-whoosh, a shimmer as satin forms, gentle water trickle; score — the spa score swells to a warm luminous peak; IMPACT — on the exact frame of the hero beat, a deep key-tuned sub-bloom and a matched cinematic hit land inside the score, felt as the soundtrack expanding, not a separate effect.
 
 LOOP LOGIC: the upward wrap is the apex; energy descends next frame toward the mirror beat.
 
@@ -4307,9 +4221,7 @@ TRANSITION / IMPOSSIBLE MOVE: none — the radiant reveal beat; the glow seeds t
 
 LIGHTING-IN-MOTION: mirror halo steadies; pearl sheen glows.
 
-DIEGETIC AUDIO: a soft room tone, her spoken line, a gentle water trickle.
-
-MASTER TRACK: the spa score resolves to a warm radiant chord as she speaks.
+AUDIO: realism — a soft room tone, her spoken line, a gentle water trickle; score — the spa score resolves to a warm radiant chord as she speaks.
 
 LOOP LOGIC: her settled glow bridges back toward the opening ritual.
 
@@ -4381,9 +4293,7 @@ TRANSITION / IMPOSSIBLE MOVE: soft reverse-dissolve (pearl gown→silk robe) as 
 
 LIGHTING-IN-MOTION: mirror glow and gold rim return to their Frame 1 positions.
 
-DIEGETIC AUDIO: water trickle and fixture drip matched to Frame 1's bed for an inaudible seam.
-
-MASTER TRACK: the spa bed resolves back into the opening ambience, looping cleanly.
+AUDIO: realism — water trickle and fixture drip matched to Frame 1's bed for an inaudible seam; score — the spa bed resolves back into the opening ambience, looping cleanly; IMPACT — on the exact frame of soft reverse-dissolve (pearl gown→silk robe) as the seamless loop bridge, a deep key-tuned sub-bloom and a matched cinematic hit land inside the score, felt as the soundtrack expanding, not a separate effect.
 
 LOOP LOGIC: final frame matches Frame 1's pose, framing, light and audio for an invisible loop.
 
@@ -4422,6 +4332,8 @@ Duration: 24 seconds · 6 frames
 Voice: SPOKEN — line lands Frame 4: "every door is a chance to become someone new."
 
 Identity safety: AIRA is adult; both looks fully modest; mood is cinematic and empowering, never sexualized.
+
+MASTER AUDIO: a ~60-second custom cinematic score composed in self-resolving ~8-second phrases, so it can be trimmed to the reel’s assembled length at any phrase boundary without a hard cut — it always resolves, never stops dead or loops audibly. Built on a low cello, dark sub frequencies and shadowed ambience — premium, cinematic and emotionally catching, never generic stock or empty ambience. It opens immediately on a low cello swell under a dark sub-pulse (no fade-in) so the mood lands within the first second. Emotional arc: an airy intimate open across the first beats, a rising shimmer of anticipation toward frame 4, the warm emotional peak on doorway world-flip — the swing of the red door flips both the environment and her entire look from dark corridor to sunlit terrace, then a graceful resolve back toward the opening for an invisible loop. SPOKEN reel — the score opens space for the spoken line at its beat and ducks gently beneath the voice, then re-blooms after. Layered as one system — lead melody, warm sub for body, shadowed low-end tension as atmosphere, restrained percussion, and event impacts reserved for the major beats, each tuned to the score’s own key so every hit reads as the music itself expanding, never an added sound effect.
 
 ---
 
@@ -4491,9 +4403,7 @@ TRANSITION / IMPOSSIBLE MOVE: none yet — the suspense build, ending as her han
 
 LIGHTING-IN-MOTION: amber sconce-light flickers across the trench; red glow strengthens as she nears.
 
-DIEGETIC AUDIO: a low corridor hum, a distant drip, a soft glove-leather creak, a held breath.
-
-MASTER TRACK: a tense cinematic bed — low strings and a slow pulse, building.
+AUDIO: realism — a low corridor hum, a distant drip, a soft glove-leather creak, a held breath; score — a tense cinematic bed — low strings and a slow pulse, building.
 
 LOOP LOGIC: her reach toward the handle cues the world-flip the loop returns from.
 
@@ -4565,9 +4475,7 @@ TRANSITION / IMPOSSIBLE MOVE: the turning handle is the trigger that arms the wo
 
 LIGHTING-IN-MOTION: brass glint travels as the handle turns; red glow intensifies.
 
-DIEGETIC AUDIO: a brass handle click, a soft latch give, a held breath, a low rising hum.
-
-MASTER TRACK: the tense bed swells with a single rising note.
+AUDIO: realism — a brass handle click, a soft latch give, a held breath, a low rising hum; score — the tense bed swells with a single rising note; IMPACT — on the exact frame of turning handle is the trigger that arms the world-flip, a deep key-tuned sub-bloom and a matched cinematic hit land inside the score, felt as the soundtrack expanding, not a separate effect.
 
 LOOP LOGIC: the latch-give seeds the door-swing flip the loop resolves.
 
@@ -4639,9 +4547,7 @@ TRANSITION / IMPOSSIBLE MOVE: none — builds toward the door-swing flip.
 
 LIGHTING-IN-MOTION: amber rim sweeps the profile as she rises; red glow strengthens.
 
-DIEGETIC AUDIO: a zip pull, a boot tap, a soft corridor hum.
-
-MASTER TRACK: the tense bed adds a low pulse of anticipation.
+AUDIO: realism — a zip pull, a boot tap, a soft corridor hum; score — the tense bed adds a low pulse of anticipation.
 
 LOOP LOGIC: the rise toward the door bridges to the world-flip.
 
@@ -4715,9 +4621,7 @@ TRANSITION / IMPOSSIBLE MOVE: THE hero move — the door-swing flips both world 
 
 LIGHTING-IN-MOTION: cool amber cross-fades to warm sun across her body as the door turns; sky blooms in.
 
-DIEGETIC AUDIO: a door-swing whoosh, the corridor hum giving to open-air birdsong and breeze.
-
-MASTER TRACK: the tense bed blooms into a warm uplifting motif as she enters the light.
+AUDIO: realism — a door-swing whoosh, the corridor hum giving to open-air birdsong and breeze; score — the tense bed blooms into a warm uplifting motif as she enters the light; IMPACT — on the exact frame of the hero beat, a deep key-tuned sub-bloom and a matched cinematic hit land inside the score, felt as the soundtrack expanding, not a separate effect.
 
 LOOP LOGIC: the sunlit energy peaks here; the walk and turn-back guide the world home for the loop.
 
@@ -4789,9 +4693,7 @@ TRANSITION / IMPOSSIBLE MOVE: none — the sunlit-world walk; her turn seeds the
 
 LIGHTING-IN-MOTION: sun speculars sweep the gown as she advances; drapes filter the light.
 
-DIEGETIC AUDIO: open-air breeze, billowing drape flap, distant birdsong, soft footfalls.
-
-MASTER TRACK: the warm uplifting motif carries her walk, bright and free.
+AUDIO: realism — open-air breeze, billowing drape flap, distant birdsong, soft footfalls; score — the warm uplifting motif carries her walk, bright and free.
 
 LOOP LOGIC: the slowing turn matches the energy needed to reverse back toward the red door.
 
@@ -4863,9 +4765,7 @@ TRANSITION / IMPOSSIBLE MOVE: soft reverse world-flip (terrace→corridor) as th
 
 LIGHTING-IN-MOTION: warm sun fades to amber sconce; red rim returns to the Frame 1 position.
 
-DIEGETIC AUDIO: the corridor hum and door creak return, matched to Frame 1's bed for an inaudible seam.
-
-MASTER TRACK: the warm motif resolves back into the opening tense bed, looping cleanly.
+AUDIO: realism — the corridor hum and door creak return, matched to Frame 1's bed for an inaudible seam; score — the warm motif resolves back into the opening tense bed, looping cleanly; IMPACT — on the exact frame of soft reverse world-flip (terrace→corridor) as the seamless loop bridge, a deep key-tuned sub-bloom and a matched cinematic hit land inside the score, felt as the soundtrack expanding, not a separate effect.
 
 LOOP LOGIC: final frame matches Frame 1's pose, framing, light and audio for an invisible loop.
 
@@ -4904,6 +4804,8 @@ Duration: 22 seconds · 6 frames
 Voice: SILENT — muffled underwater diegetic + an ethereal cinematic score.
 
 Identity safety: AIRA is adult; swim-couture fully modest (high coverage, sport-elegant); mood is mysterious and graceful, never sexualized.
+
+MASTER AUDIO: a ~60-second custom cinematic score composed in self-resolving ~8-second phrases, so it can be trimmed to the reel’s assembled length at any phrase boundary without a hard cut — it always resolves, never stops dead or loops audibly. Built on a delicate felt piano, atmospheric pads and elegant glass textures — premium, cinematic and emotionally catching, never generic stock or empty ambience. It opens immediately on a soft piano strike with a low sub-bloom (no fade-in) so the mood lands within the first second. Emotional arc: an airy intimate open across the first beats, a rising shimmer of anticipation toward frame 4, the warm emotional peak on artifact light-bloom — a lifted glowing artifact blooms and its light weaves into a luminous gown, then a graceful resolve back toward the opening for an invisible loop. SILENT reel — no spoken line; an optional wordless breath/choir texture may rise on the peak only if it elevates, never a lyric. Layered as one system — lead melody, warm sub for body, elegant glassy shimmer as atmosphere, restrained percussion, and event impacts reserved for the major beats, each tuned to the score’s own key so every hit reads as the music itself expanding, never an added sound effect.
 
 ---
 
@@ -4973,9 +4875,7 @@ TRANSITION / IMPOSSIBLE MOVE: none yet — the weightless establishing glide, en
 
 LIGHTING-IN-MOTION: caustic shafts sway across her body as she moves; artifact glows pulse.
 
-DIEGETIC AUDIO: muffled underwater ambience, slow bubble streams, a distant resonant tone.
-
-MASTER TRACK: an ethereal ambient bed — deep pads, a shimmering high tone, weightless and quiet.
+AUDIO: realism — muffled underwater ambience, slow bubble streams, a distant resonant tone; score — an ethereal ambient bed — deep pads, a shimmering high tone, weightless and quiet.
 
 LOOP LOGIC: her angle toward the pedestal cues the artifact-lift the loop returns from.
 
@@ -5047,9 +4947,7 @@ TRANSITION / IMPOSSIBLE MOVE: the surging glow foreshadows the light-bloom gown.
 
 LIGHTING-IN-MOTION: the orb glow brightens and spills gold across her hand as she lifts.
 
-DIEGETIC AUDIO: a soft resonant hum rising as the orb wakes, a bubble stream.
-
-MASTER TRACK: the ethereal score adds a rising shimmer on the grasp.
+AUDIO: realism — a soft resonant hum rising as the orb wakes, a bubble stream; score — the ethereal score adds a rising shimmer on the grasp; IMPACT — on the exact frame of surging glow foreshadows the light-bloom gown, a deep key-tuned sub-bloom and a matched cinematic hit land inside the score, felt as the soundtrack expanding, not a separate effect.
 
 LOOP LOGIC: the orb-lift seeds the bloom cycle the loop resolves.
 
@@ -5121,9 +5019,7 @@ TRANSITION / IMPOSSIBLE MOVE: none — builds toward the light-bloom.
 
 LIGHTING-IN-MOTION: the orb glow brightens and sweeps gold across her face as she lifts it.
 
-DIEGETIC AUDIO: a deepening resonant hum, bubble streams, muffled ambience.
-
-MASTER TRACK: the ethereal score swells with anticipation.
+AUDIO: realism — a deepening resonant hum, bubble streams, muffled ambience; score — the ethereal score swells with anticipation.
 
 LOOP LOGIC: the outward lift bridges to the bloom.
 
@@ -5195,9 +5091,7 @@ TRANSITION / IMPOSSIBLE MOVE: THE hero move — the lifted artifact blooms and i
 
 LIGHTING-IN-MOTION: the orb light ignites the gown translucent as it forms; gold glow blooms across the gallery.
 
-DIEGETIC AUDIO: a soft luminous whoosh, a shimmer as light weaves, muffled resonance.
-
-MASTER TRACK: the ethereal score swells to a luminous peak.
+AUDIO: realism — a soft luminous whoosh, a shimmer as light weaves, muffled resonance; score — the ethereal score swells to a luminous peak; IMPACT — on the exact frame of the hero beat, a deep key-tuned sub-bloom and a matched cinematic hit land inside the score, felt as the soundtrack expanding, not a separate effect.
 
 LOOP LOGIC: the upward bloom is the apex; energy descends next frame toward the drift-on.
 
@@ -5269,9 +5163,7 @@ TRANSITION / IMPOSSIBLE MOVE: none — the luminous drift; the glance seeds the 
 
 LIGHTING-IN-MOTION: caustics sweep the gown; her face catches a shaft on the glance.
 
-DIEGETIC AUDIO: muffled ambience, slow bubble streams, a distant resonant tone.
-
-MASTER TRACK: the ethereal score carries her drift, lush and weightless.
+AUDIO: realism — muffled ambience, slow bubble streams, a distant resonant tone; score — the ethereal score carries her drift, lush and weightless.
 
 LOOP LOGIC: the glance and slowing glide match the energy to reverse toward the gallery start.
 
@@ -5343,9 +5235,7 @@ TRANSITION / IMPOSSIBLE MOVE: soft reverse-bloom (light gown→swim-couture) as 
 
 LIGHTING-IN-MOTION: caustics and artifact glows return to their Frame 1 positions.
 
-DIEGETIC AUDIO: muffled ambience and bubble streams matched to Frame 1's bed for an inaudible seam.
-
-MASTER TRACK: the ethereal score resolves back into the opening bed, looping cleanly.
+AUDIO: realism — muffled ambience and bubble streams matched to Frame 1's bed for an inaudible seam; score — the ethereal score resolves back into the opening bed, looping cleanly; IMPACT — on the exact frame of soft reverse-bloom (light gown→swim-couture) as the seamless loop bridge, a deep key-tuned sub-bloom and a matched cinematic hit land inside the score, felt as the soundtrack expanding, not a separate effect.
 
 LOOP LOGIC: final frame matches Frame 1's pose, framing, light and audio for an invisible loop.
 
@@ -5384,6 +5274,8 @@ Duration: 22 seconds · 6 frames
 Voice: SILENT — soft pod hum + an ethereal synth-orchestral score.
 
 Identity safety: AIRA is adult; space-suit and gown fully modest; mood is wondrous and elegant, never sexualized.
+
+MASTER AUDIO: a ~60-second custom cinematic score composed in self-resolving ~8-second phrases, so it can be trimmed to the reel’s assembled length at any phrase boundary without a hard cut — it always resolves, never stops dead or loops audibly. Built on a glassy harp, an airy choir pad and soft weightless textures — premium, cinematic and emotionally catching, never generic stock or empty ambience. It opens immediately on a shimmering harp sweep over a choir-pad bloom (no fade-in) so the mood lands within the first second. Emotional arc: an airy intimate open across the first beats, a rising shimmer of anticipation toward frame 4, the warm emotional peak on anti-gravity dress — drifting fabric panels float toward her and assemble into a couture gown in zero-G, then a graceful resolve back toward the opening for an invisible loop. SILENT reel — no spoken line; an optional wordless breath/choir texture may rise on the peak only if it elevates, never a lyric. Layered as one system — lead melody, warm sub for body, weightless choir shimmer as atmosphere, restrained percussion, and event impacts reserved for the major beats, each tuned to the score’s own key so every hit reads as the music itself expanding, never an added sound effect.
 
 ---
 
@@ -5453,9 +5345,7 @@ TRANSITION / IMPOSSIBLE MOVE: none yet — the weightless establishing drift, en
 
 LIGHTING-IN-MOTION: Earth-glow sweeps across her body as she drifts; LEDs pulse.
 
-DIEGETIC AUDIO: a soft pod hum, a gentle console beep, a faint air-circulation whoosh.
-
-MASTER TRACK: an ethereal synth-orchestral bed — deep pads, a shimmering high line, weightless and quiet.
+AUDIO: realism — a soft pod hum, a gentle console beep, a faint air-circulation whoosh; score — an ethereal synth-orchestral bed — deep pads, a shimmering high line, weightless and quiet.
 
 LOOP LOGIC: her reach toward the boot cues the dress-assemble the loop returns from.
 
@@ -5527,9 +5417,7 @@ TRANSITION / IMPOSSIBLE MOVE: the mid-air boot-on foreshadows the anti-gravity d
 
 LIGHTING-IN-MOTION: Earth-glow slides along the chrome as the boot seats.
 
-DIEGETIC AUDIO: a soft mag-lock click, a pod hum, a console beep.
-
-MASTER TRACK: the ethereal score adds a soft shimmer on the seat.
+AUDIO: realism — a soft mag-lock click, a pod hum, a console beep; score — the ethereal score adds a soft shimmer on the seat.
 
 LOOP LOGIC: the boot-on seeds the assemble cycle the loop resolves.
 
@@ -5601,9 +5489,7 @@ TRANSITION / IMPOSSIBLE MOVE: none — builds toward the anti-gravity dress asse
 
 LIGHTING-IN-MOTION: console flare lights her face; Earth-glow shifts.
 
-DIEGETIC AUDIO: a console activation chime, a pod hum, a soft whoosh as panels release.
-
-MASTER TRACK: the ethereal score swells with anticipation.
+AUDIO: realism — a console activation chime, a pod hum, a soft whoosh as panels release; score — the ethereal score swells with anticipation.
 
 LOOP LOGIC: the panel-release bridges to the assemble.
 
@@ -5675,9 +5561,7 @@ TRANSITION / IMPOSSIBLE MOVE: THE hero move — drifting fabric panels float in 
 
 LIGHTING-IN-MOTION: LED and Earth-light ignite the panels iridescent as they assemble; glow blooms across the pod.
 
-DIEGETIC AUDIO: a soft assemble-whoosh, a shimmer as panels lock, a pod hum.
-
-MASTER TRACK: the ethereal score swells to a luminous peak.
+AUDIO: realism — a soft assemble-whoosh, a shimmer as panels lock, a pod hum; score — the ethereal score swells to a luminous peak; IMPACT — on the exact frame of the hero beat, a deep key-tuned sub-bloom and a matched cinematic hit land inside the score, felt as the soundtrack expanding, not a separate effect.
 
 LOOP LOGIC: the spread is the apex; energy eases next frame toward the window-drift.
 
@@ -5749,9 +5633,7 @@ TRANSITION / IMPOSSIBLE MOVE: none — the luminous drift; the glance seeds the 
 
 LIGHTING-IN-MOTION: Earth-glow sweeps the gown; her face catches the light on the glance.
 
-DIEGETIC AUDIO: a soft pod hum, a gentle air whoosh, a distant console tone.
-
-MASTER TRACK: the ethereal score carries her drift, lush and weightless.
+AUDIO: realism — a soft pod hum, a gentle air whoosh, a distant console tone; score — the ethereal score carries her drift, lush and weightless.
 
 LOOP LOGIC: the glance and slowing drift match the energy to reverse toward the pod centre.
 
@@ -5823,9 +5705,7 @@ TRANSITION / IMPOSSIBLE MOVE: soft reverse-assemble (couture gown→suit) as the
 
 LIGHTING-IN-MOTION: LEDs and Earth-glow return to their Frame 1 positions.
 
-DIEGETIC AUDIO: pod hum and console beep matched to Frame 1's bed for an inaudible seam.
-
-MASTER TRACK: the ethereal score resolves back into the opening bed, looping cleanly.
+AUDIO: realism — pod hum and console beep matched to Frame 1's bed for an inaudible seam; score — the ethereal score resolves back into the opening bed, looping cleanly.
 
 LOOP LOGIC: final frame matches Frame 1's pose, framing, light and audio for an invisible loop.
 
@@ -5864,6 +5744,8 @@ Duration: 24 seconds · 6 frames
 Voice: SPOKEN — line lands Frame 4: "make a wish — then become it."
 
 Identity safety: AIRA is adult; festival wear fully modest; mood is joyful and graceful, never sexualized.
+
+MASTER AUDIO: a ~60-second custom cinematic score composed in self-resolving ~8-second phrases, so it can be trimmed to the reel’s assembled length at any phrase boundary without a hard cut — it always resolves, never stops dead or loops audibly. Built on a deep warm sub, an elegant felt piano and sleek modern textures — premium, cinematic and emotionally catching, never generic stock or empty ambience. It opens immediately on a single elegant piano strike haloed by a low sub-bloom (no fade-in) so the mood lands within the first second. Emotional arc: an airy intimate open across the first beats, a rising shimmer of anticipation toward frame 4, the warm emotional peak on lantern-light transform — the warm light of rising lanterns streams down and weaves into a glowing festival gown, then a graceful resolve back toward the opening for an invisible loop. SPOKEN reel — the score opens space for the spoken line at its beat and ducks gently beneath the voice, then re-blooms after. Layered as one system — lead melody, warm sub for body, glassy modern shimmer as atmosphere, restrained percussion, and event impacts reserved for the major beats, each tuned to the score’s own key so every hit reads as the music itself expanding, never an added sound effect.
 
 ---
 
@@ -5933,9 +5815,7 @@ TRANSITION / IMPOSSIBLE MOVE: none yet — the hopeful establishing beat, ending
 
 LIGHTING-IN-MOTION: lantern glow warms her face as she lifts; string-lights sway.
 
-DIEGETIC AUDIO: soft festival murmur, distant music, gentle water lapping, a breeze.
-
-MASTER TRACK: a warm cultural-orchestral bed — soft strings, a gentle flute, hopeful and quiet.
+AUDIO: realism — soft festival murmur, distant music, gentle water lapping, a breeze; score — a warm cultural-orchestral bed — soft strings, a gentle flute, hopeful and quiet.
 
 LOOP LOGIC: her lantern-lift cues the release the loop returns from.
 
@@ -6007,9 +5887,7 @@ TRANSITION / IMPOSSIBLE MOVE: the ribbon-glow surge foreshadows the lantern-ligh
 
 LIGHTING-IN-MOTION: the ribbon brightens and spills gold across her wrist as the knot sets.
 
-DIEGETIC AUDIO: a soft cloth-tie whisper, bangle chime, festival murmur.
-
-MASTER TRACK: the warm score adds a gentle shimmer on the knot.
+AUDIO: realism — a soft cloth-tie whisper, bangle chime, festival murmur; score — the warm score adds a gentle shimmer on the knot; IMPACT — on the exact frame of ribbon-glow surge foreshadows the lantern-light gown, a deep key-tuned sub-bloom and a matched cinematic hit land inside the score, felt as the soundtrack expanding, not a separate effect.
 
 LOOP LOGIC: the ribbon-tie seeds the wish-and-transform cycle the loop resolves.
 
@@ -6081,9 +5959,7 @@ TRANSITION / IMPOSSIBLE MOVE: none — builds toward the release and lantern-lig
 
 LIGHTING-IN-MOTION: the lantern flame dances across her face as she lifts.
 
-DIEGETIC AUDIO: a soft flame crackle, her whispered breath, festival murmur.
-
-MASTER TRACK: the warm score swells with anticipation.
+AUDIO: realism — a soft flame crackle, her whispered breath, festival murmur; score — the warm score swells with anticipation.
 
 LOOP LOGIC: the wind-up bridges to the release.
 
@@ -6157,9 +6033,7 @@ TRANSITION / IMPOSSIBLE MOVE: THE hero move — rising lantern-light streams dow
 
 LIGHTING-IN-MOTION: lantern-light ignites the gown translucent as it forms; gold glow blooms across the river.
 
-DIEGETIC AUDIO: a soft luminous whoosh, a collective festival cheer rising, her spoken line.
-
-MASTER TRACK: the warm score swells to a joyful peak.
+AUDIO: realism — a soft luminous whoosh, a collective festival cheer rising, her spoken line; score — the warm score swells to a joyful peak; IMPACT — on the exact frame of the hero beat, a deep key-tuned sub-bloom and a matched cinematic hit land inside the score, felt as the soundtrack expanding, not a separate effect.
 
 LOOP LOGIC: the upward bloom is the apex; energy eases next frame toward the sky-watch.
 
@@ -6231,9 +6105,7 @@ TRANSITION / IMPOSSIBLE MOVE: none — the luminous sky-watch; the glance seeds 
 
 LIGHTING-IN-MOTION: lantern-gold sweeps the gown; her face catches the glow on the glance.
 
-DIEGETIC AUDIO: festival music swelling, soft cheers, water lapping, a breeze.
-
-MASTER TRACK: the warm score carries her wonder, lush and luminous.
+AUDIO: realism — festival music swelling, soft cheers, water lapping, a breeze; score — the warm score carries her wonder, lush and luminous.
 
 LOOP LOGIC: the glance and softening pose match the energy to return to the kneel.
 
@@ -6305,9 +6177,7 @@ TRANSITION / IMPOSSIBLE MOVE: soft reverse-bloom (light gown→indigo set) as th
 
 LIGHTING-IN-MOTION: lanterns and string-lights return to their Frame 1 positions.
 
-DIEGETIC AUDIO: festival murmur and water lapping matched to Frame 1's bed for an inaudible seam.
-
-MASTER TRACK: the warm score resolves back into the opening bed, looping cleanly.
+AUDIO: realism — festival murmur and water lapping matched to Frame 1's bed for an inaudible seam; score — the warm score resolves back into the opening bed, looping cleanly; IMPACT — on the exact frame of soft reverse-bloom (light gown→indigo set) as the seamless loop bridge, a deep key-tuned sub-bloom and a matched cinematic hit land inside the score, felt as the soundtrack expanding, not a separate effect.
 
 LOOP LOGIC: final frame matches Frame 1's pose, framing, light and audio for an invisible loop.
 
@@ -6346,6 +6216,8 @@ Duration: 24 seconds · 6 frames
 Voice: SPOKEN — line lands Frame 5: "every era looks good on me."
 
 Identity safety: AIRA is adult; every decade look fully modest; mood is fun and stylish, never sexualized.
+
+MASTER AUDIO: a ~60-second custom cinematic score composed in self-resolving ~8-second phrases, so it can be trimmed to the reel’s assembled length at any phrase boundary without a hard cut — it always resolves, never stops dead or loops audibly. Built on a delicate felt piano, atmospheric pads and elegant glass textures — premium, cinematic and emotionally catching, never generic stock or empty ambience. It opens immediately on a soft piano strike with a low sub-bloom (no fade-in) so the mood lands within the first second. Emotional arc: an airy intimate open across the first beats, a rising shimmer of anticipation toward frame 4, the warm emotional peak on decade glitch-shift — each button-press glitches her look and the arcade palette into a new decade, then a graceful resolve back toward the opening for an invisible loop. SPOKEN reel — the score opens space for the spoken line at its beat and ducks gently beneath the voice, then re-blooms after. Layered as one system — lead melody, warm sub for body, elegant glassy shimmer as atmosphere, restrained percussion, and event impacts reserved for the major beats, each tuned to the score’s own key so every hit reads as the music itself expanding, never an added sound effect.
 
 ---
 
@@ -6415,9 +6287,7 @@ TRANSITION / IMPOSSIBLE MOVE: none yet — the establishing beat, ending as she 
 
 LIGHTING-IN-MOTION: amber cabinet glow sweeps her as she moves; CRTs flicker.
 
-DIEGETIC AUDIO: arcade bleeps, attract-mode jingles, a low hum, distant chatter.
-
-MASTER TRACK: a retro synthwave bed — arpeggios, a fat bassline, kept cool.
+AUDIO: realism — arcade bleeps, attract-mode jingles, a low hum, distant chatter; score — a retro synthwave bed — arpeggios, a fat bassline, kept cool.
 
 LOOP LOGIC: her reach toward the button cues the decade-shifts the loop returns from.
 
@@ -6489,9 +6359,7 @@ TRANSITION / IMPOSSIBLE MOVE: the button-glow surge foreshadows the decade glitc
 
 LIGHTING-IN-MOTION: the button brightens and spills neon across her finger as the shift triggers.
 
-DIEGETIC AUDIO: a satisfying arcade button-clunk, a glitch chirp, bleeps.
-
-MASTER TRACK: the synthwave adds a glitch-riser on the press.
+AUDIO: realism — a satisfying arcade button-clunk, a glitch chirp, bleeps; score — the synthwave adds a glitch-riser on the press; IMPACT — on the exact frame of button-glow surge foreshadows the decade glitch-shift, a deep key-tuned sub-bloom and a matched cinematic hit land inside the score, felt as the soundtrack expanding, not a separate effect.
 
 LOOP LOGIC: the press seeds the decade-shift cycle the loop resolves.
 
@@ -6563,9 +6431,7 @@ TRANSITION / IMPOSSIBLE MOVE: hero shift #1 — press glitches her 70s→80s and
 
 LIGHTING-IN-MOTION: amber cross-fades to magenta-cyan; scanlines wipe with the glitch.
 
-DIEGETIC AUDIO: a glitch-shimmer, a delighted breath, bleeps.
-
-MASTER TRACK: the synthwave lands a bright sparkle on the shift.
+AUDIO: realism — a glitch-shimmer, a delighted breath, bleeps; score — the synthwave lands a bright sparkle on the shift.
 
 LOOP LOGIC: the shift rhythm establishes the cadence the loop resolves.
 
@@ -6637,9 +6503,7 @@ TRANSITION / IMPOSSIBLE MOVE: hero shift #2 — glitches her 80s→90s and re-ti
 
 LIGHTING-IN-MOTION: magenta-cyan shifts toward green; scanlines wipe with the glitch.
 
-DIEGETIC AUDIO: a deeper glitch-shimmer, a soft amused exhale, bleeps.
-
-MASTER TRACK: the synthwave deepens, a richer retro chord.
+AUDIO: realism — a deeper glitch-shimmer, a soft amused exhale, bleeps; score — the synthwave deepens, a richer retro chord.
 
 LOOP LOGIC: the rising energy peaks toward the spoken line next frame.
 
@@ -6713,9 +6577,7 @@ TRANSITION / IMPOSSIBLE MOVE: none — the reveal beat; the decade-ghosts seed t
 
 LIGHTING-IN-MOTION: clean key steadies; CRT ghosts glitch behind.
 
-DIEGETIC AUDIO: arcade bleeps, her spoken line, a glitch-shimmer under the ghosts.
-
-MASTER TRACK: the synthwave resolves to a confident phrase as she speaks.
+AUDIO: realism — arcade bleeps, her spoken line, a glitch-shimmer under the ghosts; score — the synthwave resolves to a confident phrase as she speaks.
 
 LOOP LOGIC: her settled pose and the CRT ghosts bridge back toward the opening.
 
@@ -6787,9 +6649,7 @@ TRANSITION / IMPOSSIBLE MOVE: soft reverse-glitch (now→70s) as the seamless lo
 
 LIGHTING-IN-MOTION: cabinets and CRTs return to their Frame 1 amber positions.
 
-DIEGETIC AUDIO: arcade bleeps and hum matched to Frame 1's bed for an inaudible seam.
-
-MASTER TRACK: the synthwave resolves back into the opening bed, looping cleanly.
+AUDIO: realism — arcade bleeps and hum matched to Frame 1's bed for an inaudible seam; score — the synthwave resolves back into the opening bed, looping cleanly.
 
 LOOP LOGIC: final frame matches Frame 1's pose, framing, light and audio for an invisible loop.
 
@@ -6828,6 +6688,8 @@ Duration: 22 seconds · 6 frames
 Voice: SILENT — delicate music-box chimes + an orchestral winter score.
 
 Identity safety: AIRA is adult; gown fully modest; mood is dreamy and graceful, never sexualized.
+
+MASTER AUDIO: a ~60-second custom cinematic score composed in self-resolving ~8-second phrases, so it can be trimmed to the reel’s assembled length at any phrase boundary without a hard cut — it always resolves, never stops dead or loops audibly. Built on a deep warm sub, an elegant felt piano and sleek modern textures — premium, cinematic and emotionally catching, never generic stock or empty ambience. It opens immediately on a single elegant piano strike haloed by a low sub-bloom (no fade-in) so the mood lands within the first second. Emotional arc: an airy intimate open across the first beats, a rising shimmer of anticipation toward frame 4, the warm emotional peak on spin-freeze crystal — at the turntable spin apex, her gown crystallises into a frosted couture gown of frozen light, then a graceful resolve back toward the opening for an invisible loop. SILENT reel — no spoken line; an optional wordless breath/choir texture may rise on the peak only if it elevates, never a lyric. Layered as one system — lead melody, warm sub for body, glassy modern shimmer as atmosphere, restrained percussion, and event impacts reserved for the major beats, each tuned to the score’s own key so every hit reads as the music itself expanding, never an added sound effect.
 
 ---
 
@@ -6897,9 +6759,7 @@ TRANSITION / IMPOSSIBLE MOVE: none yet — the dreamy establishing beat, ending 
 
 LIGHTING-IN-MOTION: crystal glints sweep her as she moves; gears glint gold.
 
-DIEGETIC AUDIO: delicate music-box chimes starting, a soft gear-click, falling-snow hush.
-
-MASTER TRACK: an orchestral winter bed — soft strings, a celesta, dreamy and quiet.
+AUDIO: realism — delicate music-box chimes starting, a soft gear-click, falling-snow hush; score — an orchestral winter bed — soft strings, a celesta, dreamy and quiet.
 
 LOOP LOGIC: her key-wind cues the spin-freeze the loop returns from.
 
@@ -6971,9 +6831,7 @@ TRANSITION / IMPOSSIBLE MOVE: the wind-click foreshadows the spin-freeze crystal
 
 LIGHTING-IN-MOTION: the gear-glow brightens and spills gold across her hands as the box engages.
 
-DIEGETIC AUDIO: a satisfying mechanical wind-ratchet, music-box chimes swelling.
-
-MASTER TRACK: the winter score adds a rising celesta on the wind.
+AUDIO: realism — a satisfying mechanical wind-ratchet, music-box chimes swelling; score — the winter score adds a rising celesta on the wind; IMPACT — on the exact frame of wind-click foreshadows the spin-freeze crystal, a deep key-tuned sub-bloom and a matched cinematic hit land inside the score, felt as the soundtrack expanding, not a separate effect.
 
 LOOP LOGIC: the wind seeds the spin-freeze cycle the loop resolves.
 
@@ -7045,9 +6903,7 @@ TRANSITION / IMPOSSIBLE MOVE: none — builds toward the spin-freeze crystal.
 
 LIGHTING-IN-MOTION: crystal glints sweep her face as she rises and spins.
 
-DIEGETIC AUDIO: music-box chimes in full melody, a soft mechanical spin-hum.
-
-MASTER TRACK: the winter score swells with anticipation.
+AUDIO: realism — music-box chimes in full melody, a soft mechanical spin-hum; score — the winter score swells with anticipation.
 
 LOOP LOGIC: the spin-up bridges to the crystallise.
 
@@ -7119,9 +6975,7 @@ TRANSITION / IMPOSSIBLE MOVE: THE hero move — at the spin apex her gown crysta
 
 LIGHTING-IN-MOTION: crystal-white ignites the gown translucent as it freezes; frost-glow blooms across the palace.
 
-DIEGETIC AUDIO: a crystalline freeze-shimmer, music-box chimes peaking, a soft frost-whoosh.
-
-MASTER TRACK: the winter score swells to a luminous peak.
+AUDIO: realism — a crystalline freeze-shimmer, music-box chimes peaking, a soft frost-whoosh; score — the winter score swells to a luminous peak; IMPACT — on the exact frame of the hero beat, a deep key-tuned sub-bloom and a matched cinematic hit land inside the score, felt as the soundtrack expanding, not a separate effect.
 
 LOOP LOGIC: the spin apex is the apex; energy winds down next frame.
 
@@ -7193,9 +7047,7 @@ TRANSITION / IMPOSSIBLE MOVE: none — the luminous wind-down; the glance seeds 
 
 LIGHTING-IN-MOTION: crystal-white sweeps the gown; her face catches the glint on the glance.
 
-DIEGETIC AUDIO: music-box chimes slowing, a soft mechanical wind-down, falling-snow hush.
-
-MASTER TRACK: the winter score carries her grace, lush and luminous.
+AUDIO: realism — music-box chimes slowing, a soft mechanical wind-down, falling-snow hush; score — the winter score carries her grace, lush and luminous.
 
 LOOP LOGIC: the glance and slowing match the energy to return to the centre.
 
@@ -7267,9 +7119,7 @@ TRANSITION / IMPOSSIBLE MOVE: soft reverse-crystallise (frost gown→pale-blue g
 
 LIGHTING-IN-MOTION: crystals and gears return to their Frame 1 positions.
 
-DIEGETIC AUDIO: music-box chimes and falling-snow hush matched to Frame 1's bed for an inaudible seam.
-
-MASTER TRACK: the winter score resolves back into the opening bed, looping cleanly.
+AUDIO: realism — music-box chimes and falling-snow hush matched to Frame 1's bed for an inaudible seam; score — the winter score resolves back into the opening bed, looping cleanly; IMPACT — on the exact frame of soft reverse-crystallise (frost gown→pale-blue gown) as the seamless loop bridge, a deep key-tuned sub-bloom and a matched cinematic hit land inside the score, felt as the soundtrack expanding, not a separate effect.
 
 LOOP LOGIC: final frame matches Frame 1's pose, framing, light and audio for an invisible loop.
 
@@ -7308,6 +7158,8 @@ Duration: 24 seconds · 6 frames
 Voice: SPOKEN — line lands Frame 5: "plant a little magic, and watch it bloom."
 
 Identity safety: AIRA is adult; floral gown fully modest; mood is enchanted and fresh, never sexualized.
+
+MASTER AUDIO: a ~60-second custom cinematic score composed in self-resolving ~8-second phrases, so it can be trimmed to the reel’s assembled length at any phrase boundary without a hard cut — it always resolves, never stops dead or loops audibly. Built on a delicate felt piano, atmospheric pads and elegant glass textures — premium, cinematic and emotionally catching, never generic stock or empty ambience. It opens immediately on a soft piano strike with a low sub-bloom (no fade-in) so the mood lands within the first second. Emotional arc: an airy intimate open across the first beats, a rising shimmer of anticipation toward frame 4, the warm emotional peak on plant-growth bloom — vines and blossoms rush up and weave into a living floral couture gown, then a graceful resolve back toward the opening for an invisible loop. SPOKEN reel — the score opens space for the spoken line at its beat and ducks gently beneath the voice, then re-blooms after. Layered as one system — lead melody, warm sub for body, elegant glassy shimmer as atmosphere, restrained percussion, and event impacts reserved for the major beats, each tuned to the score’s own key so every hit reads as the music itself expanding, never an added sound effect.
 
 ---
 
@@ -7377,9 +7229,7 @@ TRANSITION / IMPOSSIBLE MOVE: none yet — the enchanted establishing beat, endi
 
 LIGHTING-IN-MOTION: dappled sun sweeps her as she moves; leaves shimmer.
 
-DIEGETIC AUDIO: soft birdsong, rustling leaves, a trickling fountain, a warm breeze.
-
-MASTER TRACK: a warm orchestral-folk bed — harp, soft strings, a flute, dreamy and alive.
+AUDIO: realism — soft birdsong, rustling leaves, a trickling fountain, a warm breeze; score — a warm orchestral-folk bed — harp, soft strings, a flute, dreamy and alive.
 
 LOOP LOGIC: her reach toward the soil cues the bloom the loop returns from.
 
@@ -7451,9 +7301,7 @@ TRANSITION / IMPOSSIBLE MOVE: the sprout surge foreshadows the plant-growth bloo
 
 LIGHTING-IN-MOTION: the sunbeam brightens the soil as the sprout breaks.
 
-DIEGETIC AUDIO: a soft soil-press, a tiny organic crackle of growth, birdsong.
-
-MASTER TRACK: the folk bed adds a rising harp-glissando on the sprout.
+AUDIO: realism — a soft soil-press, a tiny organic crackle of growth, birdsong; score — the folk bed adds a rising harp-glissando on the sprout; IMPACT — on the exact frame of sprout surge foreshadows the plant-growth bloom, a deep key-tuned sub-bloom and a matched cinematic hit land inside the score, felt as the soundtrack expanding, not a separate effect.
 
 LOOP LOGIC: the press seeds the bloom cycle the loop resolves.
 
@@ -7525,9 +7373,7 @@ TRANSITION / IMPOSSIBLE MOVE: none — builds toward the plant-growth bloom.
 
 LIGHTING-IN-MOTION: dappled sun sweeps her face as she rises and the vines climb.
 
-DIEGETIC AUDIO: organic growth-rustles, opening-petal whispers, birdsong.
-
-MASTER TRACK: the folk bed swells with anticipation.
+AUDIO: realism — organic growth-rustles, opening-petal whispers, birdsong; score — the folk bed swells with anticipation.
 
 LOOP LOGIC: the bloom-up bridges to the gown transform.
 
@@ -7599,9 +7445,7 @@ TRANSITION / IMPOSSIBLE MOVE: THE hero move — vines and blossoms weave into a 
 
 LIGHTING-IN-MOTION: golden sun ignites the petals translucent as they form; bloom-glow sweeps the glasshouse.
 
-DIEGETIC AUDIO: an organic bloom-whoosh, opening-petal chorus, birdsong peaking.
-
-MASTER TRACK: the folk score swells to a luminous peak.
+AUDIO: realism — an organic bloom-whoosh, opening-petal chorus, birdsong peaking; score — the folk score swells to a luminous peak; IMPACT — on the exact frame of the hero beat, a deep key-tuned sub-bloom and a matched cinematic hit land inside the score, felt as the soundtrack expanding, not a separate effect.
 
 LOOP LOGIC: the bloom apex is the apex; energy settles next frame.
 
@@ -7675,9 +7519,7 @@ TRANSITION / IMPOSSIBLE MOVE: none — the reveal beat; the still-opening blosso
 
 LIGHTING-IN-MOTION: dappled sun steadies; blossoms shimmer.
 
-DIEGETIC AUDIO: birdsong, her spoken line, a soft organic rustle.
-
-MASTER TRACK: the folk score resolves to a warm phrase as she speaks.
+AUDIO: realism — birdsong, her spoken line, a soft organic rustle; score — the folk score resolves to a warm phrase as she speaks.
 
 LOOP LOGIC: her settled pose and the blooming garden bridge back toward the opening.
 
@@ -7749,9 +7591,7 @@ TRANSITION / IMPOSSIBLE MOVE: soft reverse-bloom (floral gown→linen set) as th
 
 LIGHTING-IN-MOTION: dappled sun and leaves return to their Frame 1 positions.
 
-DIEGETIC AUDIO: birdsong, leaf-rustle and fountain matched to Frame 1's bed for an inaudible seam.
-
-MASTER TRACK: the folk score resolves back into the opening bed, looping cleanly.
+AUDIO: realism — birdsong, leaf-rustle and fountain matched to Frame 1's bed for an inaudible seam; score — the folk score resolves back into the opening bed, looping cleanly; IMPACT — on the exact frame of soft reverse-bloom (floral gown→linen set) as the seamless loop bridge, a deep key-tuned sub-bloom and a matched cinematic hit land inside the score, felt as the soundtrack expanding, not a separate effect.
 
 LOOP LOGIC: final frame matches Frame 1's pose, framing, light and audio for an invisible loop.
 
@@ -7790,6 +7630,8 @@ Duration: 24 seconds · 6 frames
 Voice: SPOKEN — line lands Frame 5: "a little heat, and everything transforms."
 
 Identity safety: AIRA is adult; chef's set and gown fully modest; mood is warm and elegant, never sexualized.
+
+MASTER AUDIO: a ~60-second custom cinematic score composed in self-resolving ~8-second phrases, so it can be trimmed to the reel’s assembled length at any phrase boundary without a hard cut — it always resolves, never stops dead or loops audibly. Built on a deep warm sub, an elegant felt piano and sleek modern textures — premium, cinematic and emotionally catching, never generic stock or empty ambience. It opens immediately on a single elegant piano strike haloed by a low sub-bloom (no fade-in) so the mood lands within the first second. Emotional arc: an airy intimate open across the first beats, a rising shimmer of anticipation toward frame 4, the warm emotional peak on apron-to-couture flare — the rising swirl of flour, steam and spice-light re-plates her apron into a flowing couture gown, then a graceful resolve back toward the opening for an invisible loop. SPOKEN reel — the score opens space for the spoken line at its beat and ducks gently beneath the voice, then re-blooms after. Layered as one system — lead melody, warm sub for body, glassy modern shimmer as atmosphere, restrained percussion, and event impacts reserved for the major beats, each tuned to the score’s own key so every hit reads as the music itself expanding, never an added sound effect.
 
 ---
 
@@ -7859,9 +7701,7 @@ TRANSITION / IMPOSSIBLE MOVE: none yet — the warm establishing beat, ending as
 
 LIGHTING-IN-MOTION: pendant glow sweeps her as she moves; copper glints.
 
-DIEGETIC AUDIO: a sizzling pan, gentle bubbling, a knife-tap, warm kitchen hum.
-
-MASTER TRACK: a warm jazzy-acoustic bed — upright bass, brushed drums, a vibraphone, lively and warm.
+AUDIO: realism — a sizzling pan, gentle bubbling, a knife-tap, warm kitchen hum; score — a warm jazzy-acoustic bed — upright bass, brushed drums, a vibraphone, lively and warm.
 
 LOOP LOGIC: her lift of the pan cues the flare the loop returns from.
 
@@ -7933,9 +7773,7 @@ TRANSITION / IMPOSSIBLE MOVE: the rising swirl foreshadows the apron-to-couture 
 
 LIGHTING-IN-MOTION: the range glow brightens and spills amber across the spices as the flare triggers.
 
-DIEGETIC AUDIO: a satisfying pan-whoosh, a flame-flare crackle, sizzling.
-
-MASTER TRACK: the jazzy bed adds a rising vibraphone shimmer on the toss.
+AUDIO: realism — a satisfying pan-whoosh, a flame-flare crackle, sizzling; score — the jazzy bed adds a rising vibraphone shimmer on the toss.
 
 LOOP LOGIC: the toss seeds the flare cycle the loop resolves.
 
@@ -8007,9 +7845,7 @@ TRANSITION / IMPOSSIBLE MOVE: none — builds toward the apron-to-couture flare.
 
 LIGHTING-IN-MOTION: range glow sweeps her face as she rises and the swirl wraps.
 
-DIEGETIC AUDIO: a warm flare-whoosh, sizzling, a soft delighted breath.
-
-MASTER TRACK: the jazzy bed swells with anticipation.
+AUDIO: realism — a warm flare-whoosh, sizzling, a soft delighted breath; score — the jazzy bed swells with anticipation.
 
 LOOP LOGIC: the flare-up bridges to the gown transform.
 
@@ -8081,9 +7917,7 @@ TRANSITION / IMPOSSIBLE MOVE: THE hero move — the swirl of flour, steam and sp
 
 LIGHTING-IN-MOTION: warm range glow ignites the silk translucent as it forms; flare-glow sweeps the kitchen.
 
-DIEGETIC AUDIO: a warm flare-whoosh, a sizzle-peak, a soft delighted breath.
-
-MASTER TRACK: the jazzy score swells to a warm luminous peak.
+AUDIO: realism — a warm flare-whoosh, a sizzle-peak, a soft delighted breath; score — the jazzy score swells to a warm luminous peak; IMPACT — on the exact frame of the hero beat, a deep key-tuned sub-bloom and a matched cinematic hit land inside the score, felt as the soundtrack expanding, not a separate effect.
 
 LOOP LOGIC: the flare apex is the apex; energy settles next frame.
 
@@ -8157,9 +7991,7 @@ TRANSITION / IMPOSSIBLE MOVE: none — the reveal beat; the settling spice-light
 
 LIGHTING-IN-MOTION: pendant glow steadies; spice-light shimmers.
 
-DIEGETIC AUDIO: warm kitchen hum, her spoken line, a soft sizzle.
-
-MASTER TRACK: the jazzy score resolves to a warm phrase as she speaks.
+AUDIO: realism — warm kitchen hum, her spoken line, a soft sizzle; score — the jazzy score resolves to a warm phrase as she speaks.
 
 LOOP LOGIC: her settled pose and the warm kitchen bridge back toward the opening.
 
@@ -8231,9 +8063,7 @@ TRANSITION / IMPOSSIBLE MOVE: soft reverse-flare (couture gown→chef's set) as 
 
 LIGHTING-IN-MOTION: pendants and range return to their Frame 1 positions.
 
-DIEGETIC AUDIO: sizzling, kitchen hum and bubbling matched to Frame 1's bed for an inaudible seam.
-
-MASTER TRACK: the jazzy score resolves back into the opening bed, looping cleanly.
+AUDIO: realism — sizzling, kitchen hum and bubbling matched to Frame 1's bed for an inaudible seam; score — the jazzy score resolves back into the opening bed, looping cleanly.
 
 LOOP LOGIC: final frame matches Frame 1's pose, framing, light and audio for an invisible loop.
 
@@ -8272,6 +8102,8 @@ Duration: 24 seconds · 6 frames
 Voice: SILENT — diegetic terminal ambience + a soaring cinematic score.
 
 Identity safety: AIRA is adult; travel set and gown fully modest; mood is aspirational and free, never sexualized.
+
+MASTER AUDIO: a ~60-second custom cinematic score composed in self-resolving ~8-second phrases, so it can be trimmed to the reel’s assembled length at any phrase boundary without a hard cut — it always resolves, never stops dead or loops audibly. Built on a deep warm sub, an elegant felt piano and sleek modern textures — premium, cinematic and emotionally catching, never generic stock or empty ambience. It opens immediately on a single elegant piano strike haloed by a low sub-bloom (no fade-in) so the mood lands within the first second. Emotional arc: an airy intimate open across the first beats, a rising shimmer of anticipation toward frame 4, the warm emotional peak on corridor-to-cloud — the terminal corridor opens into open sky and her coat sweeps into a cloud-silk couture gown, then a graceful resolve back toward the opening for an invisible loop. SILENT reel — no spoken line; an optional wordless breath/choir texture may rise on the peak only if it elevates, never a lyric. Layered as one system — lead melody, warm sub for body, glassy modern shimmer as atmosphere, restrained percussion, and event impacts reserved for the major beats, each tuned to the score’s own key so every hit reads as the music itself expanding, never an added sound effect.
 
 ---
 
@@ -8341,9 +8173,7 @@ TRANSITION / IMPOSSIBLE MOVE: none yet — the aspirational establishing beat, e
 
 LIGHTING-IN-MOTION: golden window light sweeps her as she moves; floor reflections track.
 
-DIEGETIC AUDIO: a soft gate announcement, rolling suitcase wheels, distant footsteps, a gentle terminal hum.
-
-MASTER TRACK: a soaring cinematic-orchestral bed — strings, a soft swell, aspirational and airy.
+AUDIO: realism — a soft gate announcement, rolling suitcase wheels, distant footsteps, a gentle terminal hum; score — a soaring cinematic-orchestral bed — strings, a soft swell, aspirational and airy.
 
 LOOP LOGIC: her push toward the window cues the corridor-to-cloud the loop returns from.
 
@@ -8415,9 +8245,7 @@ TRANSITION / IMPOSSIBLE MOVE: the surging floor-glow foreshadows the corridor-to
 
 LIGHTING-IN-MOTION: the window light brightens and spills gold across the floor as the threshold nears.
 
-DIEGETIC AUDIO: rolling wheels, a soft floor hum, a distant announcement.
-
-MASTER TRACK: the orchestral bed adds a rising string-swell on the roll.
+AUDIO: realism — rolling wheels, a soft floor hum, a distant announcement; score — the orchestral bed adds a rising string-swell on the roll.
 
 LOOP LOGIC: the roll seeds the threshold cycle the loop resolves.
 
@@ -8489,9 +8317,7 @@ TRANSITION / IMPOSSIBLE MOVE: none — builds toward the corridor-to-cloud.
 
 LIGHTING-IN-MOTION: sky-light sweeps her face as the corridor opens.
 
-DIEGETIC AUDIO: a soft wind-rise, a gentle chime, a distant announcement fading.
-
-MASTER TRACK: the orchestral bed swells with anticipation.
+AUDIO: realism — a soft wind-rise, a gentle chime, a distant announcement fading; score — the orchestral bed swells with anticipation.
 
 LOOP LOGIC: the threshold-step bridges to the gown transform.
 
@@ -8563,9 +8389,7 @@ TRANSITION / IMPOSSIBLE MOVE: THE hero move — the terminal corridor opens into
 
 LIGHTING-IN-MOTION: golden sky-light ignites the silk translucent as it forms; cloud-glow sweeps the frame.
 
-DIEGETIC AUDIO: a soft wind-whoosh, a gentle chime-bloom, a distant soaring tone.
-
-MASTER TRACK: the orchestral score swells to a soaring luminous peak.
+AUDIO: realism — a soft wind-whoosh, a gentle chime-bloom, a distant soaring tone; score — the orchestral score swells to a soaring luminous peak; IMPACT — on the exact frame of the hero beat, a deep key-tuned sub-bloom and a matched cinematic hit land inside the score, felt as the soundtrack expanding, not a separate effect.
 
 LOOP LOGIC: the threshold apex is the apex; energy settles next frame.
 
@@ -8637,9 +8461,7 @@ TRANSITION / IMPOSSIBLE MOVE: none — the dream-walk; the glance seeds the loop
 
 LIGHTING-IN-MOTION: sky-light sweeps the gown; her face catches the glint on the glance.
 
-DIEGETIC AUDIO: a soft high-altitude wind, a gentle chime, a distant soaring tone.
-
-MASTER TRACK: the orchestral score carries her grace, lush and soaring.
+AUDIO: realism — a soft high-altitude wind, a gentle chime, a distant soaring tone; score — the orchestral score carries her grace, lush and soaring.
 
 LOOP LOGIC: the glance and stride match the energy to return toward the terminal.
 
@@ -8711,9 +8533,7 @@ TRANSITION / IMPOSSIBLE MOVE: soft reverse-transform (cloud-silk gown→travel s
 
 LIGHTING-IN-MOTION: windows and gates return to their Frame 1 positions.
 
-DIEGETIC AUDIO: rolling wheels, terminal hum and a soft announcement matched to Frame 1's bed for an inaudible seam.
-
-MASTER TRACK: the orchestral score resolves back into the opening bed, looping cleanly.
+AUDIO: realism — rolling wheels, terminal hum and a soft announcement matched to Frame 1's bed for an inaudible seam; score — the orchestral score resolves back into the opening bed, looping cleanly; IMPACT — on the exact frame of soft reverse-transform (cloud-silk gown→travel set) as the seamless loop bridge, a deep key-tuned sub-bloom and a matched cinematic hit land inside the score, felt as the soundtrack expanding, not a separate effect.
 
 LOOP LOGIC: final frame matches Frame 1's pose, framing, light and audio for an invisible loop.
 
@@ -8752,6 +8572,8 @@ Duration: 26 seconds · 7 frames
 Voice: SPOKEN — line lands Frame 6: "even my shadow loves to dance."
 
 Identity safety: AIRA is adult; rehearsal set and gown fully modest; performance is elegant and expressive, never sexualized.
+
+MASTER AUDIO: a ~60-second custom cinematic score composed in self-resolving ~8-second phrases, so it can be trimmed to the reel’s assembled length at any phrase boundary without a hard cut — it always resolves, never stops dead or loops audibly. Built on a deep warm sub, an elegant felt piano and sleek modern textures — premium, cinematic and emotionally catching, never generic stock or empty ambience. It opens immediately on a single elegant piano strike haloed by a low sub-bloom (no fade-in) so the mood lands within the first second. Emotional arc: an airy intimate open across the first beats, a rising shimmer of anticipation toward frame 5, the warm emotional peak on spotlight shadow-split — the spotlight splits her shadow into a second dancing silhouette that moves with her, then re-merges and dresses her in couture, then a graceful resolve back toward the opening for an invisible loop. SPOKEN reel — the score opens space for the spoken line at its beat and ducks gently beneath the voice, then re-blooms after. Layered as one system — lead melody, warm sub for body, glassy modern shimmer as atmosphere, restrained percussion, and event impacts reserved for the major beats, each tuned to the score’s own key so every hit reads as the music itself expanding, never an added sound effect.
 
 ---
 
@@ -8821,9 +8643,7 @@ TRANSITION / IMPOSSIBLE MOVE: none yet — the dramatic establishing beat, endin
 
 LIGHTING-IN-MOTION: the spotlight steadies on her as she moves; the beam catches dust-motes.
 
-DIEGETIC AUDIO: a hushed theatre, a faint floor-creak, a distant orchestra tuning, a soft breath.
-
-MASTER TRACK: a sweeping cinematic-orchestral bed — strings, a soft piano, a slow theatrical swell.
+AUDIO: realism — a hushed theatre, a faint floor-creak, a distant orchestra tuning, a soft breath; score — a sweeping cinematic-orchestral bed — strings, a soft piano, a slow theatrical swell.
 
 LOOP LOGIC: her opening stance cues the dance the loop returns from.
 
@@ -8895,9 +8715,7 @@ TRANSITION / IMPOSSIBLE MOVE: the rising shadow on the floor foreshadows the sha
 
 LIGHTING-IN-MOTION: the spotlight rakes the floor as the foot rises; a shadow forms.
 
-DIEGETIC AUDIO: a soft shoe-pivot, a floor-creak, a breath.
-
-MASTER TRACK: the orchestral bed adds a rising violin line on the releve.
+AUDIO: realism — a soft shoe-pivot, a floor-creak, a breath; score — the orchestral bed adds a rising violin line on the releve.
 
 LOOP LOGIC: the releve seeds the dance cycle the loop resolves.
 
@@ -8969,9 +8787,7 @@ TRANSITION / IMPOSSIBLE MOVE: none — builds toward the spotlight shadow-split.
 
 LIGHTING-IN-MOTION: the spotlight sweeps her as she moves; the shadow dances on the curtain.
 
-DIEGETIC AUDIO: a fan-whoosh, a soft shoe-pivot, a breath.
-
-MASTER TRACK: the orchestral bed swells with expressive strings.
+AUDIO: realism — a fan-whoosh, a soft shoe-pivot, a breath; score — the orchestral bed swells with expressive strings.
 
 LOOP LOGIC: the turn-prep bridges to the shadow-split transform.
 
@@ -9043,9 +8859,7 @@ TRANSITION / IMPOSSIBLE MOVE: THE hero move — the spotlight splits her shadow 
 
 LIGHTING-IN-MOTION: the spotlight splits into a twin-beam; the two shadows sweep the curtain.
 
-DIEGETIC AUDIO: a soft theatrical whoosh, a swell of strings, a breath.
-
-MASTER TRACK: the orchestral score swells to a dramatic luminous peak.
+AUDIO: realism — a soft theatrical whoosh, a swell of strings, a breath; score — the orchestral score swells to a dramatic luminous peak; IMPACT — on the exact frame of the hero beat, a deep key-tuned sub-bloom and a matched cinematic hit land inside the score, felt as the soundtrack expanding, not a separate effect.
 
 LOOP LOGIC: the split apex is the apex; the shadows re-merge next frame.
 
@@ -9117,9 +8931,7 @@ TRANSITION / IMPOSSIBLE MOVE: THE hero resolve — the shadow re-merges and dres
 
 LIGHTING-IN-MOTION: the twin-beam re-merges to one; the spotlight ignites the silk translucent.
 
-DIEGETIC AUDIO: a soft theatrical chime-bloom, a settling breath, a string-swell.
-
-MASTER TRACK: the orchestral score settles to a warm luminous phrase.
+AUDIO: realism — a soft theatrical chime-bloom, a settling breath, a string-swell; score — the orchestral score settles to a warm luminous phrase.
 
 LOOP LOGIC: the settled pose bridges to the spoken bow.
 
@@ -9193,9 +9005,7 @@ TRANSITION / IMPOSSIBLE MOVE: none — the reveal beat; the settling beam seeds 
 
 LIGHTING-IN-MOTION: the spotlight haloes her as she rises; dust-motes drift.
 
-DIEGETIC AUDIO: a hushed house, her spoken line, a soft string-swell.
-
-MASTER TRACK: the orchestral score resolves to a warm phrase as she speaks.
+AUDIO: realism — a hushed house, her spoken line, a soft string-swell; score — the orchestral score resolves to a warm phrase as she speaks.
 
 LOOP LOGIC: her risen pose and the steady beam bridge back toward the opening.
 
@@ -9267,9 +9077,7 @@ TRANSITION / IMPOSSIBLE MOVE: soft reverse-transform (couture gown→rehearsal s
 
 LIGHTING-IN-MOTION: the spotlight returns to its Frame 1 position.
 
-DIEGETIC AUDIO: a hushed theatre and a faint orchestra-tuning matched to Frame 1's bed for an inaudible seam.
-
-MASTER TRACK: the orchestral score resolves back into the opening bed, looping cleanly.
+AUDIO: realism — a hushed theatre and a faint orchestra-tuning matched to Frame 1's bed for an inaudible seam; score — the orchestral score resolves back into the opening bed, looping cleanly; IMPACT — on the exact frame of soft reverse-transform (couture gown→rehearsal set, a deep key-tuned sub-bloom and a matched cinematic hit land inside the score, felt as the soundtrack expanding, not a separate effect.
 
 LOOP LOGIC: final frame matches Frame 1's pose, framing, light and audio for an invisible loop.
 
@@ -9308,6 +9116,8 @@ Duration: 30 seconds · 8 frames
 Voice: SPOKEN — line lands Frame 7: "the future looks good on me."
 
 Identity safety: AIRA is adult; future set and gown fully modest; mood is epic and triumphant, never sexualized.
+
+MASTER AUDIO: a ~60-second custom cinematic score composed in self-resolving ~8-second phrases, so it can be trimmed to the reel’s assembled length at any phrase boundary without a hard cut — it always resolves, never stops dead or loops audibly. Built on a deep warm sub, an elegant felt piano and sleek modern textures — premium, cinematic and emotionally catching, never generic stock or empty ambience. It opens immediately on a single elegant piano strike haloed by a low sub-bloom (no fade-in) so the mood lands within the first second. Emotional arc: an airy intimate open across the first beats, a rising shimmer of anticipation toward frame 5, the warm emotional peak on water-road grand transform — the ocean rises into a road of light and weaves sea-water, city-light and silk into a flowing couture finale gown, then a graceful resolve back toward the opening for an invisible loop. SPOKEN reel — the score opens space for the spoken line at its beat and ducks gently beneath the voice, then re-blooms after. Layered as one system — lead melody, warm sub for body, glassy modern shimmer as atmosphere, restrained percussion, and event impacts reserved for the major beats, each tuned to the score’s own key so every hit reads as the music itself expanding, never an added sound effect.
 
 ---
 
@@ -9377,9 +9187,7 @@ TRANSITION / IMPOSSIBLE MOVE: none yet — the epic establishing beat, ending as
 
 LIGHTING-IN-MOTION: golden-blue light sweeps her as she moves; sea-light shimmers.
 
-DIEGETIC AUDIO: a soft sea-lap, a future-city hum, a distant chime, a gentle breeze.
-
-MASTER TRACK: a grand cinematic-electronic-orchestral bed — strings, a soft synth-pulse, a building swell, epic and luminous.
+AUDIO: realism — a soft sea-lap, a future-city hum, a distant chime, a gentle breeze; score — a grand cinematic-electronic-orchestral bed — strings, a soft synth-pulse, a building swell, epic and luminous.
 
 LOOP LOGIC: her turn to the water cues the water-road the loop returns from.
 
@@ -9451,9 +9259,7 @@ TRANSITION / IMPOSSIBLE MOVE: the surging light-ring foreshadows the water-road 
 
 LIGHTING-IN-MOTION: the light-ring brightens and spills toward the water as the road forms.
 
-DIEGETIC AUDIO: a soft light-bloom hum, a sea-lap, a chime.
-
-MASTER TRACK: the grand bed adds a rising synth-string swell on the bloom.
+AUDIO: realism — a soft light-bloom hum, a sea-lap, a chime; score — the grand bed adds a rising synth-string swell on the bloom; IMPACT — on the exact frame of surging light-ring foreshadows the water-road grand transform, a deep key-tuned sub-bloom and a matched cinematic hit land inside the score, felt as the soundtrack expanding, not a separate effect.
 
 LOOP LOGIC: the bloom seeds the water-road cycle the loop resolves.
 
@@ -9525,9 +9331,7 @@ TRANSITION / IMPOSSIBLE MOVE: none — builds toward the water-road grand transf
 
 LIGHTING-IN-MOTION: sea-light sweeps her face as the road forms.
 
-DIEGETIC AUDIO: a soft rising hum, a chime-bloom, a sea-lap.
-
-MASTER TRACK: the grand bed swells with anticipation.
+AUDIO: realism — a soft rising hum, a chime-bloom, a sea-lap; score — the grand bed swells with anticipation.
 
 LOOP LOGIC: the step onto the road bridges to the grand transform.
 
@@ -9599,9 +9403,7 @@ TRANSITION / IMPOSSIBLE MOVE: THE hero move — the ocean rises into a road of l
 
 LIGHTING-IN-MOTION: golden-blue light ignites the silk translucent as it weaves; sea-light sweeps the frame.
 
-DIEGETIC AUDIO: a grand water-whoosh, a chime-bloom, a soaring tone.
-
-MASTER TRACK: the grand score swells to a soaring luminous peak.
+AUDIO: realism — a grand water-whoosh, a chime-bloom, a soaring tone; score — the grand score swells to a soaring luminous peak; IMPACT — on the exact frame of the hero beat, a deep key-tuned sub-bloom and a matched cinematic hit land inside the score, felt as the soundtrack expanding, not a separate effect.
 
 LOOP LOGIC: the transform apex is the apex; the dance flows next frame.
 
@@ -9673,9 +9475,7 @@ TRANSITION / IMPOSSIBLE MOVE: none — the dance; the phrase leads to the swim.
 
 LIGHTING-IN-MOTION: sea-light sweeps the gown as she dances.
 
-DIEGETIC AUDIO: a soft water-shimmer, a chime, a soaring tone.
-
-MASTER TRACK: the grand score carries her dance, lush and soaring.
+AUDIO: realism — a soft water-shimmer, a chime, a soaring tone; score — the grand score carries her dance, lush and soaring.
 
 LOOP LOGIC: the dance-phrase flows into the swim.
 
@@ -9747,9 +9547,7 @@ TRANSITION / IMPOSSIBLE MOVE: none — the swim; the rise leads to the spoken he
 
 LIGHTING-IN-MOTION: caustics sweep across her as she swims; sea-light shimmers.
 
-DIEGETIC AUDIO: a soft underwater hum, gentle water-flow, a chime.
-
-MASTER TRACK: the grand score flows with her swim, lush and luminous.
+AUDIO: realism — a soft underwater hum, gentle water-flow, a chime; score — the grand score flows with her swim, lush and luminous.
 
 LOOP LOGIC: the rise flows into the spoken hero frame.
 
@@ -9823,9 +9621,7 @@ TRANSITION / IMPOSSIBLE MOVE: none — the reveal beat; the settling light seeds
 
 LIGHTING-IN-MOTION: city-light blazes as she rises; sea-light shimmers.
 
-DIEGETIC AUDIO: a soft sea-city hum, her spoken line, a soaring tone.
-
-MASTER TRACK: the grand score resolves to a warm triumphant phrase as she speaks.
+AUDIO: realism — a soft sea-city hum, her spoken line, a soaring tone; score — the grand score resolves to a warm triumphant phrase as she speaks.
 
 LOOP LOGIC: her risen pose and the blazing city bridge back toward the opening.
 
@@ -9897,9 +9693,7 @@ TRANSITION / IMPOSSIBLE MOVE: soft reverse-transform (couture finale gown→futu
 
 LIGHTING-IN-MOTION: the city-light and pier-glow return to their Frame 1 positions.
 
-DIEGETIC AUDIO: a sea-lap, future-city hum and a chime matched to Frame 1's bed for an inaudible seam.
-
-MASTER TRACK: the grand score resolves back into the opening bed, looping cleanly.
+AUDIO: realism — a sea-lap, future-city hum and a chime matched to Frame 1's bed for an inaudible seam; score — the grand score resolves back into the opening bed, looping cleanly; IMPACT — on the exact frame of soft reverse-transform (couture finale gown→future set, a deep key-tuned sub-bloom and a matched cinematic hit land inside the score, felt as the soundtrack expanding, not a separate effect.
 
 LOOP LOGIC: final frame matches Frame 1's pose, framing, light and audio for an invisible loop.
 

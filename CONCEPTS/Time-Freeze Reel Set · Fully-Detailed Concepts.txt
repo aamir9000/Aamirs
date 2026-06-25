@@ -113,6 +113,8 @@ Identity safety: AIRA is an adult; the trench-dress is fully modest; the mood is
 
 ---
 
+MASTER AUDIO: a ~60-second custom cinematic score composed in self-resolving ~8-second phrases, so it can be trimmed to the reel’s assembled length at any phrase boundary without a hard cut — it always resolves, never stops dead or loops audibly. Built on a deep warm sub, an elegant felt piano and sleek modern textures — premium, cinematic and emotionally catching, never generic stock or empty ambience. It opens immediately on a single elegant piano strike haloed by a low sub-bloom (no fade-in) so the mood lands within the first second. Emotional arc: an airy intimate open across the first beats, a rising shimmer of anticipation toward frame 4, the warm emotional peak on the signature move — the world held its breath, then a graceful resolve back toward the opening for an invisible loop. SPOKEN reel — the score opens space for the spoken line at its beat and ducks gently beneath the voice, then re-blooms after. Layered as one system — lead melody, warm sub for body, glassy modern shimmer as atmosphere, restrained percussion, and event impacts reserved for the major beats, each tuned to the score’s own key so every hit reads as the music itself expanding, never an added sound effect.
+
 ## Frame 1 of 6 — IMAGE PROMPT
 
 IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
@@ -702,6 +704,8 @@ Audio note: per-frame diegetic (a frozen rain-hush, the held ring after the thun
 Identity safety: AIRA is an adult; the vinyl raincoat is fully modest; the mood is electric and dreamlike, never sexualized.
 
 ---
+
+MASTER AUDIO: a ~60-second custom cinematic score composed in self-resolving ~8-second phrases, so it can be trimmed to the reel’s assembled length at any phrase boundary without a hard cut — it always resolves, never stops dead or loops audibly. Built on a glassy harp, an airy choir pad and soft weightless textures — premium, cinematic and emotionally catching, never generic stock or empty ambience. It opens immediately on a shimmering harp sweep over a choir-pad bloom (no fade-in) so the mood lands within the first second. Emotional arc: an airy intimate open across the first beats, a rising shimmer of anticipation toward frame 5, the warm emotional peak on the signature move — silent, then a graceful resolve back toward the opening for an invisible loop. SILENT reel — no spoken line; an optional wordless breath/choir texture may rise on the peak only if it elevates, never a lyric. Layered as one system — lead melody, warm sub for body, weightless choir shimmer as atmosphere, restrained percussion, and event impacts reserved for the major beats, each tuned to the score’s own key so every hit reads as the music itself expanding, never an added sound effect.
 
 ## Frame 1 of 7 — IMAGE PROMPT
 
@@ -1380,6 +1384,8 @@ Identity safety: AIRA is an adult; the gown is fully modest; the mood is joyous 
 
 ---
 
+MASTER AUDIO: a ~60-second custom cinematic score composed in self-resolving ~8-second phrases, so it can be trimmed to the reel’s assembled length at any phrase boundary without a hard cut — it always resolves, never stops dead or loops audibly. Built on a deep warm sub, an elegant felt piano and sleek modern textures — premium, cinematic and emotionally catching, never generic stock or empty ambience. It opens immediately on a single elegant piano strike haloed by a low sub-bloom (no fade-in) so the mood lands within the first second. Emotional arc: an airy intimate open across the first beats, a rising shimmer of anticipation toward frame 4, the warm emotional peak on the signature move — some moments deserve to last forever, then a graceful resolve back toward the opening for an invisible loop. SPOKEN reel — the score opens space for the spoken line at its beat and ducks gently beneath the voice, then re-blooms after. Layered as one system — lead melody, warm sub for body, glassy modern shimmer as atmosphere, restrained percussion, and event impacts reserved for the major beats, each tuned to the score’s own key so every hit reads as the music itself expanding, never an added sound effect.
+
 ## Frame 1 of 6 — IMAGE PROMPT
 
 IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
@@ -1969,6 +1975,8 @@ Audio note: per-frame diegetic (a frozen ocean-hush, the held ring after the las
 Identity safety: AIRA is an adult; the chiffon sundress is fully modest; the mood is serene and radiant, never sexualized.
 
 ---
+
+MASTER AUDIO: a ~60-second custom cinematic score composed in self-resolving ~8-second phrases, so it can be trimmed to the reel’s assembled length at any phrase boundary without a hard cut — it always resolves, never stops dead or loops audibly. Built on a deep warm sub, an elegant felt piano and sleek modern textures — premium, cinematic and emotionally catching, never generic stock or empty ambience. It opens immediately on a single elegant piano strike haloed by a low sub-bloom (no fade-in) so the mood lands within the first second. Emotional arc: an airy intimate open across the first beats, a rising shimmer of anticipation toward frame 5, the warm emotional peak on the signature move — silent, then a graceful resolve back toward the opening for an invisible loop. SILENT reel — no spoken line; an optional wordless breath/choir texture may rise on the peak only if it elevates, never a lyric. Layered as one system — lead melody, warm sub for body, glassy modern shimmer as atmosphere, restrained percussion, and event impacts reserved for the major beats, each tuned to the score’s own key so every hit reads as the music itself expanding, never an added sound effect.
 
 ## Frame 1 of 7 — IMAGE PROMPT
 
@@ -2647,6 +2655,8 @@ Identity safety: AIRA is an adult; the gown is fully modest; the mood is magical
 
 ---
 
+MASTER AUDIO: a ~60-second custom cinematic score composed in self-resolving ~8-second phrases, so it can be trimmed to the reel’s assembled length at any phrase boundary without a hard cut — it always resolves, never stops dead or loops audibly. Built on a low cello, dark sub frequencies and shadowed ambience — premium, cinematic and emotionally catching, never generic stock or empty ambience. It opens immediately on a low cello swell under a dark sub-pulse (no fade-in) so the mood lands within the first second. Emotional arc: an airy intimate open across the first beats, a rising shimmer of anticipation toward frame 5, the warm emotional peak on the signature move — some nights you wish would never end, then a graceful resolve back toward the opening for an invisible loop. SPOKEN reel — the score opens space for the spoken line at its beat and ducks gently beneath the voice, then re-blooms after. Layered as one system — lead melody, warm sub for body, shadowed low-end tension as atmosphere, restrained percussion, and event impacts reserved for the major beats, each tuned to the score’s own key so every hit reads as the music itself expanding, never an added sound effect.
+
 ## Frame 1 of 7 — IMAGE PROMPT
 
 IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
@@ -3313,6 +3323,8 @@ Mood: FIERCE · HEROIC · INTENSE.
 Frozen cast: the fireball mid-bloom, the flipping SUV, suspended glass-cubes, metal shrapnel, hubcap, asphalt chunks, road sign, papers, sparks, two skidding chase cars, smoke-columns, traffic lights and neon (light only), wet asphalt reflections (light only).
 
 ---
+
+MASTER AUDIO: a ~60-second custom cinematic score composed in self-resolving ~8-second phrases, so it can be trimmed to the reel’s assembled length at any phrase boundary without a hard cut — it always resolves, never stops dead or loops audibly. Built on deep trailer percussion, a driving synth bass and brass swells — premium, cinematic and emotionally catching, never generic stock or empty ambience. It opens immediately on a low brass-and-sub impact (no fade-in) so the mood lands within the first second. Emotional arc: an airy intimate open across the first beats, a rising shimmer of anticipation toward frame 5, the warm emotional peak on the signature reveal, then a graceful resolve back toward the opening for an invisible loop. SPOKEN reel — the score opens space for the spoken line at its beat and ducks gently beneath the voice, then re-blooms after. Layered as one system — lead melody, warm sub for body, taut percussive tension as atmosphere, restrained percussion, and event impacts reserved for the major beats, each tuned to the score’s own key so every hit reads as the music itself expanding, never an added sound effect.
 
 ## Frame 1 of 7 — IMAGE PROMPT
 
@@ -3981,6 +3993,8 @@ Frozen cast: the barrel-rolling muscle car, the wheelie motorcycle, the jackknif
 
 ---
 
+MASTER AUDIO: a ~60-second custom cinematic score composed in self-resolving ~8-second phrases, so it can be trimmed to the reel’s assembled length at any phrase boundary without a hard cut — it always resolves, never stops dead or loops audibly. Built on deep trailer percussion, a driving synth bass and brass swells — premium, cinematic and emotionally catching, never generic stock or empty ambience. It opens immediately on a low brass-and-sub impact (no fade-in) so the mood lands within the first second. Emotional arc: an airy intimate open across the first beats, a rising shimmer of anticipation toward frame 5, the warm emotional peak on the signature reveal, then a graceful resolve back toward the opening for an invisible loop. SILENT reel — no spoken line; an optional wordless breath/choir texture may rise on the peak only if it elevates, never a lyric. Layered as one system — lead melody, warm sub for body, taut percussive tension as atmosphere, restrained percussion, and event impacts reserved for the major beats, each tuned to the score’s own key so every hit reads as the music itself expanding, never an added sound effect.
+
 ## Frame 1 of 7 — IMAGE PROMPT
 
 IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
@@ -4647,6 +4661,8 @@ Mood: FEARLESS · EXPLOSIVE · DEFIANT.
 Frozen cast: the bucking lead car, the wheel-spark fountain, the fireball at the pylon, suspended roof-panels, glass-cubes, handrail, vent-cap, bolts, ballast-grit, frozen catenary-arcs (light only), the neon skyline and track lights (light only), wet-steel reflections (light only).
 
 ---
+
+MASTER AUDIO: a ~60-second custom cinematic score composed in self-resolving ~8-second phrases, so it can be trimmed to the reel’s assembled length at any phrase boundary without a hard cut — it always resolves, never stops dead or loops audibly. Built on deep trailer percussion, a driving synth bass and brass swells — premium, cinematic and emotionally catching, never generic stock or empty ambience. It opens immediately on a low brass-and-sub impact (no fade-in) so the mood lands within the first second. Emotional arc: an airy intimate open across the first beats, a rising shimmer of anticipation toward frame 5, the warm emotional peak on the signature reveal, then a graceful resolve back toward the opening for an invisible loop. SPOKEN reel — the score opens space for the spoken line at its beat and ducks gently beneath the voice, then re-blooms after. Layered as one system — lead melody, warm sub for body, taut percussive tension as atmosphere, restrained percussion, and event impacts reserved for the major beats, each tuned to the score’s own key so every hit reads as the music itself expanding, never an added sound effect.
 
 ## Frame 1 of 7 — IMAGE PROMPT
 
@@ -5332,6 +5348,8 @@ Live cast (all moving): the speeding muscle car, two pursuing SUVs, the fuel tan
 
 ---
 
+MASTER AUDIO: a ~60-second custom cinematic score composed in self-resolving ~8-second phrases, so it can be trimmed to the reel’s assembled length at any phrase boundary without a hard cut — it always resolves, never stops dead or loops audibly. Built on deep trailer percussion, a driving synth bass and brass swells — premium, cinematic and emotionally catching, never generic stock or empty ambience. It opens immediately on a low brass-and-sub impact (no fade-in) so the mood lands within the first second. Emotional arc: an airy intimate open across the first beats, a rising shimmer of anticipation toward frame 5, the warm emotional peak on the signature reveal, then a graceful resolve back toward the opening for an invisible loop. SPOKEN reel — the score opens space for the spoken line at its beat and ducks gently beneath the voice, then re-blooms after. Layered as one system — lead melody, warm sub for body, taut percussive tension as atmosphere, restrained percussion, and event impacts reserved for the major beats, each tuned to the score’s own key so every hit reads as the music itself expanding, never an added sound effect.
+
 ## Frame 1 of 7 — IMAGE PROMPT
 
 IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
@@ -5996,6 +6014,8 @@ Mood: RELENTLESS · INVERTED · FIERY.
 Live cast: rolling fire, falling and reassembling glass, flying debris, sparking electrical cables, wind-driven rain, a raking helicopter searchlight, the glittering city far below.
 
 ---
+
+MASTER AUDIO: a ~60-second custom cinematic score composed in self-resolving ~8-second phrases, so it can be trimmed to the reel’s assembled length at any phrase boundary without a hard cut — it always resolves, never stops dead or loops audibly. Built on deep trailer percussion, a driving synth bass and brass swells — premium, cinematic and emotionally catching, never generic stock or empty ambience. It opens immediately on a low brass-and-sub impact (no fade-in) so the mood lands within the first second. Emotional arc: an airy intimate open across the first beats, a rising shimmer of anticipation toward frame 5, the warm emotional peak on the signature reveal, then a graceful resolve back toward the opening for an invisible loop. SILENT reel — no spoken line; an optional wordless breath/choir texture may rise on the peak only if it elevates, never a lyric. Layered as one system — lead melody, warm sub for body, taut percussive tension as atmosphere, restrained percussion, and event impacts reserved for the major beats, each tuned to the score’s own key so every hit reads as the music itself expanding, never an added sound effect.
 
 ## Frame 1 of 7 — IMAGE PROMPT
 
@@ -6662,6 +6682,8 @@ Live cast: molten-steel pour, showering sparks, a travelling crane and white-hot
 
 ---
 
+MASTER AUDIO: a ~60-second custom cinematic score composed in self-resolving ~8-second phrases, so it can be trimmed to the reel’s assembled length at any phrase boundary without a hard cut — it always resolves, never stops dead or loops audibly. Built on deep trailer percussion, a driving synth bass and brass swells — premium, cinematic and emotionally catching, never generic stock or empty ambience. It opens immediately on a low brass-and-sub impact (no fade-in) so the mood lands within the first second. Emotional arc: an airy intimate open across the first beats, a rising shimmer of anticipation toward frame 5, the warm emotional peak on the signature reveal, then a graceful resolve back toward the opening for an invisible loop. SPOKEN reel — the score opens space for the spoken line at its beat and ducks gently beneath the voice, then re-blooms after. Layered as one system — lead melody, warm sub for body, taut percussive tension as atmosphere, restrained percussion, and event impacts reserved for the major beats, each tuned to the score’s own key so every hit reads as the music itself expanding, never an added sound effect.
+
 ## Frame 1 of 7 — IMAGE PROMPT
 
 IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
@@ -7327,6 +7349,8 @@ Live cast: wind-driven rain, skidding traffic, a jackknifing-and-exploding tanke
 
 ---
 
+MASTER AUDIO: a ~60-second custom cinematic score composed in self-resolving ~8-second phrases, so it can be trimmed to the reel’s assembled length at any phrase boundary without a hard cut — it always resolves, never stops dead or loops audibly. Built on deep trailer percussion, a driving synth bass and brass swells — premium, cinematic and emotionally catching, never generic stock or empty ambience. It opens immediately on a low brass-and-sub impact (no fade-in) so the mood lands within the first second. Emotional arc: an airy intimate open across the first beats, a rising shimmer of anticipation toward frame 5, the warm emotional peak on the signature reveal, then a graceful resolve back toward the opening for an invisible loop. SILENT reel — no spoken line; an optional wordless breath/choir texture may rise on the peak only if it elevates, never a lyric. Layered as one system — lead melody, warm sub for body, taut percussive tension as atmosphere, restrained percussion, and event impacts reserved for the major beats, each tuned to the score’s own key so every hit reads as the music itself expanding, never an added sound effect.
+
 ## Frame 1 of 7 — IMAGE PROMPT
 
 IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
@@ -7976,6 +8000,8 @@ Reference vibe: corridor-oner fight energy of a modern action-thriller crossed w
 
 Loudness & delivery: ~−17 LUFS integrated, true-peak −1 dBTP, single continuous stem (no hard edits).
 
+MASTER AUDIO: a ~60-second custom cinematic score composed in self-resolving ~8-second phrases, so it can be trimmed to the reel’s assembled length at any phrase boundary without a hard cut — it always resolves, never stops dead or loops audibly. Built on deep trailer percussion, a driving synth bass and brass swells — premium, cinematic and emotionally catching, never generic stock or empty ambience. It opens immediately on a low brass-and-sub impact (no fade-in) so the mood lands within the first second. Emotional arc: an airy intimate open across the first beats, a rising shimmer of anticipation toward frame 4, the warm emotional peak on the signature reveal, then a graceful resolve back toward the opening for an invisible loop. SPOKEN reel — the score opens space for the spoken line at its beat and ducks gently beneath the voice, then re-blooms after. Layered as one system — lead melody, warm sub for body, taut percussive tension as atmosphere, restrained percussion, and event impacts reserved for the major beats, each tuned to the score’s own key so every hit reads as the music itself expanding, never an added sound effect.
+
 ## FRAME 1 — COLD ENTRY
 
 Running timecode: 0.0–3.5s (total 21.0s)
@@ -8553,6 +8579,8 @@ Mix, space & mastering: huge wide stereo, deep sub on the leaps, airy top for al
 Reference vibe: Mission-Impossible high-altitude set-piece meets an FPV-drone freerun score.
 
 Loudness & delivery: ~−17 LUFS integrated, true-peak −1 dBTP, dynamic for the F5 drop-out.
+
+MASTER AUDIO: a ~60-second custom cinematic score composed in self-resolving ~8-second phrases, so it can be trimmed to the reel’s assembled length at any phrase boundary without a hard cut — it always resolves, never stops dead or loops audibly. Built on deep trailer percussion, a driving synth bass and brass swells — premium, cinematic and emotionally catching, never generic stock or empty ambience. It opens immediately on a low brass-and-sub impact (no fade-in) so the mood lands within the first second. Emotional arc: an airy intimate open across the first beats, a rising shimmer of anticipation toward frame 4, the warm emotional peak on the signature reveal, then a graceful resolve back toward the opening for an invisible loop. SILENT reel — no spoken line; an optional wordless breath/choir texture may rise on the peak only if it elevates, never a lyric. Layered as one system — lead melody, warm sub for body, taut percussive tension as atmosphere, restrained percussion, and event impacts reserved for the major beats, each tuned to the score’s own key so every hit reads as the music itself expanding, never an added sound effect.
 
 ## FRAME 1 — THE LEDGE
 
@@ -9132,6 +9160,8 @@ Reference vibe: The Weeknd neon-noir meets a Drive-style synth groove.
 
 Loudness & delivery: ~−17 LUFS integrated, true-peak −1 dBTP, punchy yet sultry.
 
+MASTER AUDIO: a ~60-second custom cinematic score composed in self-resolving ~8-second phrases, so it can be trimmed to the reel’s assembled length at any phrase boundary without a hard cut — it always resolves, never stops dead or loops audibly. Built on a delicate felt piano, atmospheric pads and elegant glass textures — premium, cinematic and emotionally catching, never generic stock or empty ambience. It opens immediately on a soft piano strike with a low sub-bloom (no fade-in) so the mood lands within the first second. Emotional arc: an airy intimate open across the first beats, a rising shimmer of anticipation toward frame 4, the warm emotional peak on the signature reveal, then a graceful resolve back toward the opening for an invisible loop. SPOKEN reel — the score opens space for the spoken line at its beat and ducks gently beneath the voice, then re-blooms after. Layered as one system — lead melody, warm sub for body, elegant glassy shimmer as atmosphere, restrained percussion, and event impacts reserved for the major beats, each tuned to the score’s own key so every hit reads as the music itself expanding, never an added sound effect.
+
 ## FRAME 1 — STEP INTO THE GLOW
 
 Running timecode: 0.0–3.5s (total 21.0s)
@@ -9709,6 +9739,8 @@ Mix, space & mastering: huge wide stereo, deep cinematic sub, rooftop-air reverb
 Reference vibe: a Matrix bullet-time beat scored like a modern superhero-trailer climax.
 
 Loudness & delivery: ~−16 LUFS integrated, true-peak −1 dBTP, highly dynamic for the dilation drop-and-slam.
+
+MASTER AUDIO: a ~60-second custom cinematic score composed in self-resolving ~8-second phrases, so it can be trimmed to the reel’s assembled length at any phrase boundary without a hard cut — it always resolves, never stops dead or loops audibly. Built on deep trailer percussion, a driving synth bass and brass swells — premium, cinematic and emotionally catching, never generic stock or empty ambience. It opens immediately on a low brass-and-sub impact (no fade-in) so the mood lands within the first second. Emotional arc: an airy intimate open across the first beats, a rising shimmer of anticipation toward frame 4, the warm emotional peak on the signature reveal, then a graceful resolve back toward the opening for an invisible loop. SILENT reel — no spoken line; an optional wordless breath/choir texture may rise on the peak only if it elevates, never a lyric. Layered as one system — lead melody, warm sub for body, taut percussive tension as atmosphere, restrained percussion, and event impacts reserved for the major beats, each tuned to the score’s own key so every hit reads as the music itself expanding, never an added sound effect.
 
 ## FRAME 1 — ROTOR WASH
 
@@ -10288,6 +10320,8 @@ Loudness & delivery: Master to roughly −16 LUFS integrated for a punchy social
 
 ---
 
+MASTER AUDIO: a ~60-second custom cinematic score composed in self-resolving ~8-second phrases, so it can be trimmed to the reel’s assembled length at any phrase boundary without a hard cut — it always resolves, never stops dead or loops audibly. Built on deep trailer percussion, a driving synth bass and brass swells — premium, cinematic and emotionally catching, never generic stock or empty ambience. It opens immediately on a low brass-and-sub impact (no fade-in) so the mood lands within the first second. Emotional arc: an airy intimate open across the first beats, a rising shimmer of anticipation toward frame 4, the warm emotional peak on the signature reveal, then a graceful resolve back toward the opening for an invisible loop. SPOKEN reel — the score opens space for the spoken line at its beat and ducks gently beneath the voice, then re-blooms after. Layered as one system — lead melody, warm sub for body, taut percussive tension as atmosphere, restrained percussion, and event impacts reserved for the major beats, each tuned to the score’s own key so every hit reads as the music itself expanding, never an added sound effect.
+
 ## FRAME 1 — VANISHING ALLEY
 
 IMAGE PROMPT
@@ -10853,6 +10887,8 @@ Reference vibe: Modern industrial action-thriller scoring crossed with hard elec
 Loudness & delivery: Master to roughly −15 LUFS integrated for a punchy vertical mix with a true-peak ceiling of −1 dBTP; supply a calmer −18 LUFS variant.
 
 ---
+
+MASTER AUDIO: a ~60-second custom cinematic score composed in self-resolving ~8-second phrases, so it can be trimmed to the reel’s assembled length at any phrase boundary without a hard cut — it always resolves, never stops dead or loops audibly. Built on deep trailer percussion, a driving synth bass and brass swells — premium, cinematic and emotionally catching, never generic stock or empty ambience. It opens immediately on a low brass-and-sub impact (no fade-in) so the mood lands within the first second. Emotional arc: an airy intimate open across the first beats, a rising shimmer of anticipation toward frame 4, the warm emotional peak on the signature reveal, then a graceful resolve back toward the opening for an invisible loop. SPOKEN reel — the score opens space for the spoken line at its beat and ducks gently beneath the voice, then re-blooms after. Layered as one system — lead melody, warm sub for body, taut percussive tension as atmosphere, restrained percussion, and event impacts reserved for the major beats, each tuned to the score’s own key so every hit reads as the music itself expanding, never an added sound effect.
 
 ## FRAME 1 — INTO THE FRAY
 
@@ -11420,6 +11456,8 @@ Loudness & delivery: Master to roughly −16 LUFS integrated for a precise verti
 
 ---
 
+MASTER AUDIO: a ~60-second custom cinematic score composed in self-resolving ~8-second phrases, so it can be trimmed to the reel’s assembled length at any phrase boundary without a hard cut — it always resolves, never stops dead or loops audibly. Built on a low cello, dark sub frequencies and shadowed ambience — premium, cinematic and emotionally catching, never generic stock or empty ambience. It opens immediately on a low cello swell under a dark sub-pulse (no fade-in) so the mood lands within the first second. Emotional arc: an airy intimate open across the first beats, a rising shimmer of anticipation toward frame 4, the warm emotional peak on the signature reveal, then a graceful resolve back toward the opening for an invisible loop. SPOKEN reel — the score opens space for the spoken line at its beat and ducks gently beneath the voice, then re-blooms after. Layered as one system — lead melody, warm sub for body, shadowed low-end tension as atmosphere, restrained percussion, and event impacts reserved for the major beats, each tuned to the score’s own key so every hit reads as the music itself expanding, never an added sound effect.
+
 ## FRAME 1 — TWO PLANES
 
 IMAGE PROMPT
@@ -11986,6 +12024,8 @@ Loudness & delivery: Master to roughly −14 LUFS integrated for a big, powerful
 
 ---
 
+MASTER AUDIO: a ~60-second custom cinematic score composed in self-resolving ~8-second phrases, so it can be trimmed to the reel’s assembled length at any phrase boundary without a hard cut — it always resolves, never stops dead or loops audibly. Built on deep trailer percussion, a driving synth bass and brass swells — premium, cinematic and emotionally catching, never generic stock or empty ambience. It opens immediately on a low brass-and-sub impact (no fade-in) so the mood lands within the first second. Emotional arc: an airy intimate open across the first beats, a rising shimmer of anticipation toward frame 4, the warm emotional peak on the signature reveal, then a graceful resolve back toward the opening for an invisible loop. SPOKEN reel — the score opens space for the spoken line at its beat and ducks gently beneath the voice, then re-blooms after. Layered as one system — lead melody, warm sub for body, taut percussive tension as atmosphere, restrained percussion, and event impacts reserved for the major beats, each tuned to the score’s own key so every hit reads as the music itself expanding, never an added sound effect.
+
 ## FRAME 1 — THROTTLE OPEN
 
 IMAGE PROMPT
@@ -12551,6 +12591,8 @@ Mix, space & mastering: wide morphing stereo field, deep liquid sub, cross-fadin
 Reference vibe: a Hans Zimmer x electronic-producer collab scoring a shape-shifting chase.
 
 Loudness & delivery: ~−16 LUFS integrated, true-peak −1 dBTP, dynamic morph drops.
+
+MASTER AUDIO: a ~60-second custom cinematic score composed in self-resolving ~8-second phrases, so it can be trimmed to the reel’s assembled length at any phrase boundary without a hard cut — it always resolves, never stops dead or loops audibly. Built on deep trailer percussion, a driving synth bass and brass swells — premium, cinematic and emotionally catching, never generic stock or empty ambience. It opens immediately on a low brass-and-sub impact (no fade-in) so the mood lands within the first second. Emotional arc: an airy intimate open across the first beats, a rising shimmer of anticipation toward frame 4, the warm emotional peak on the signature reveal, then a graceful resolve back toward the opening for an invisible loop. SPOKEN reel — the score opens space for the spoken line at its beat and ducks gently beneath the voice, then re-blooms after. Layered as one system — lead melody, warm sub for body, taut percussive tension as atmosphere, restrained percussion, and event impacts reserved for the major beats, each tuned to the score’s own key so every hit reads as the music itself expanding, never an added sound effect.
 
 ## FRAME 1 — ALLEY ORIGIN
 

@@ -33,6 +33,8 @@ The crescendo of Set 9. A phoenix-gold flying-car arcs over a night sky-bridge, 
 
 ---
 
+MASTER AUDIO: a ~60-second custom cinematic score composed in self-resolving ~8-second phrases, so it can be trimmed to the reel’s assembled length at any phrase boundary without a hard cut — it always resolves, never stops dead or loops audibly. Built on a deep warm sub, an elegant felt piano and sleek modern textures — premium, cinematic and emotionally catching, never generic stock or empty ambience. It opens immediately on a single elegant piano strike haloed by a low sub-bloom (no fade-in) so the mood lands within the first second. Emotional arc: an airy intimate open across the first beats, a rising shimmer of anticipation toward frame 5, the warm emotional peak on the signature reveal, then a graceful resolve back toward the opening for an invisible loop. SPOKEN reel — the score opens space for the spoken line at its beat and ducks gently beneath the voice, then re-blooms after. Layered as one system — lead melody, warm sub for body, glassy modern shimmer as atmosphere, restrained percussion, and event impacts reserved for the major beats, each tuned to the score’s own key so every hit reads as the music itself expanding, never an added sound effect.
+
 ## Frame 1 of 8 — IMAGE PROMPT
 
 IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
