@@ -106,15 +106,15 @@ CAMERA MOVEMENT: a single slow 8% push-in across the clip, otherwise locked-off 
 LENS: 50mm, f/2.8, creamy green fall-off.
 
 SUBJECT ACTION WITH TIMING:
-- 0.0–2.0s — Aira tilts the emerald bottle a few degrees into the sun, speculars sliding along the glass and the oil settling inside.
-- 2.0–3.5s — she lifts her eyes to the lens on a soft inhale as a serene half-smile blooms.
-- 3.5–5.0s — she holds, calm and luminous, a tendril drifting. One clean action, real physics.
+- 0.0–2.4s — Aira tilts the emerald bottle a few degrees into the sun, speculars sliding along the glass and the oil settling inside.
+- 2.4–4.2s — she lifts her eyes to the lens on a soft inhale as a serene half-smile blooms.
+- 4.2–6.0s — she holds, calm and luminous, a tendril drifting. One clean action, real physics.
 
 LIGHTING: soft green-gold daylight key with stone bounce fill; live moving speculars across glass and skin as the bottle tips; warm sun-rim steady on hair.
 
 ENVIRONMENT: sunlit glass conservatory, topiary and ferns behind, drifting pollen-light.
 
-AUDIO: diegetic-plus-design, no spoken word (silent reel). Ambient bed — a warm conservatory tone: distant birdsong, a soft draught through leaves, low. SFX — a soft glass-tap as fingers settle at 0.4s, a faint velvet shift at 2.1s, a delicate airy sparkle-shimmer at 3.2s timed to the eye-lift. Reaction — a soft audible breath at 2.0s. VO — none. Master track sits low and warm under the frame (subtle, never full).
+AUDIO: diegetic-plus-design, no spoken word (silent reel). Ambient bed — a warm conservatory tone: distant birdsong, a soft draught through leaves, low. SFX — a soft glass-tap as fingers settle at 0.5s, a faint velvet shift at 2.5s, a delicate airy sparkle-shimmer at 3.8s timed to the eye-lift. Reaction — a soft audible breath at 2.4s. VO — none. Master track sits low and warm under the frame (subtle, never full).
 
 DURATION: 5 seconds (0:00 to 0:05 of 30s total).
 
@@ -257,15 +257,15 @@ CAMERA MOVEMENT: a slow 6% push to the cheekbone, locked and smooth — one move
 LENS: 85mm, f/2.0.
 
 SUBJECT ACTION WITH TIMING:
-- 0.0–1.5s — she brings the open bottle to her cheekbone, a luminous oil-drop swelling at the tip.
-- 1.5–3.2s — the drop glides to the skin and blooms a dewy sheen as she lowers her eyes to the touch.
-- 3.2–5.0s — she lifts her eyes to lens with a serene micro-smile, the glow set. Real physics, intimate and clean.
+- 0.0–1.8s — she brings the open bottle to her cheekbone, a luminous oil-drop swelling at the tip.
+- 1.8–3.8s — the drop glides to the skin and blooms a dewy sheen as she lowers her eyes to the touch.
+- 3.8–6.0s — she lifts her eyes to lens with a serene micro-smile, the glow set. Real physics, intimate and clean.
 
 LIGHTING: soft green-gold beauty key, leaf-bounce fill, warm rim; a live dewy specular blooming where oil meets cheek.
 
 ENVIRONMENT: blooming conservatory soft behind, pop-colour bud bokeh, drifting pollen-light.
 
-AUDIO: diegetic-plus-design, no spoken word (silent reel). Ambient bed — warm conservatory tone, low. SFX — a soft cap-click at 0.3s, a delicate oil-glide whisper at 1.6s, a tiny dewy shimmer-accent at 1.9s as the glow blooms. Reaction — a soft contented breath at 2.0s. VO — none. Master track sits low and intimate (subtle, never full).
+AUDIO: diegetic-plus-design, no spoken word (silent reel). Ambient bed — warm conservatory tone, low. SFX — a soft cap-click at 0.4s, a delicate oil-glide whisper at 1.9s, a tiny dewy shimmer-accent at 2.3s as the glow blooms. Reaction — a soft contented breath at 2.4s. VO — none. Master track sits low and intimate (subtle, never full).
 
 DURATION: 5 seconds (0:11 to 0:16 of 30s total).
 
@@ -331,15 +331,15 @@ CAMERA MOVEMENT: locked-off and stable, a barely-there 4% push — no movement c
 LENS: 85mm, f/2.2.
 
 SUBJECT ACTION WITH TIMING:
-- 0.0–1.3s — she settles, eyes locking the lens with a confident radiant half-smile.
-- 1.3–2.8s — she presents the bottle at her chest and lands a single assured chin-lift into a slow blink, a warm glass glint flickering, lips softly closed (no speech).
-- 2.8–4.0s — the half-smile holds, eyes luminous and direct. One clean wordless beat, real physics.
+- 0.0–2.0s — she settles, eyes locking the lens with a confident radiant half-smile.
+- 2.0–4.2s — she presents the bottle at her chest and lands a single assured chin-lift into a slow blink, a warm glass glint flickering, lips softly closed (no speech).
+- 4.2–6.0s — the half-smile holds, eyes luminous and direct. One clean wordless beat, real physics.
 
 LIGHTING: green-gold beauty key, leaf-bounce fill, warm rim; steady, no flicker; a live glass glint as she breathes.
 
 ENVIRONMENT: conservatory, blurred blooms and topiary behind, pollen-light.
 
-AUDIO: diegetic-plus-design, no spoken word (silent reel). Ambient bed — the warm conservatory tone, low. SFX — a faint leaf-rustle hush, a soft bottle-present touch at 0.5s, a delicate airy shimmer-accent at 1.4s on the chin-lift. Reaction — a soft calm breath at 1.7s. VO — none (the beat is carried by the look). Master track sits low and steady (subtle, never full).
+AUDIO: diegetic-plus-design, no spoken word (silent reel). Ambient bed — the warm conservatory tone, low. SFX — a faint leaf-rustle hush, a soft bottle-present touch at 0.8s, a delicate airy shimmer-accent at 2.1s on the chin-lift. Reaction — a soft calm breath at 2.5s. VO — none (the beat is carried by the look). Master track sits low and steady (subtle, never full).
 
 DURATION: 4 seconds (0:16 to 0:20 of 30s total).
 
@@ -407,16 +407,16 @@ CAMERA MOVEMENT: a slow majestic push-in with a gentle rise ( + slight boom) tra
 LENS: 35mm, f/2.0.
 
 SUBJECT ACTION WITH TIMING:
-- 0.0–0.5s — a single bud at the heart of the bodice splits and flares its first vivid petal.
-- 0.5–1.8s — the bloom races outward bud to bud as petal-confetti and pollen-light lift and swirl around her, the topiary blooming behind, she lifting her eyes into the swirl.
-- 1.8–3.5s — the petals trail out, easing to a sustained drifting halo, her radiant smile landing.
-- 3.5–5.0s — she holds, haloed and triumphant. Only the synchronized bloom-burst is impossible; all else real physics.
+- 0.0–0.6s — a single bud at the heart of the bodice splits and flares its first vivid petal.
+- 0.6–2.2s — the bloom races outward bud to bud as petal-confetti and pollen-light lift and swirl around her, the topiary blooming behind, she lifting her eyes into the swirl.
+- 2.2–4.2s — the petals trail out, easing to a sustained drifting halo, her radiant smile landing.
+- 4.2–6.0s — she holds, haloed and triumphant. Only the synchronized bloom-burst is impossible; all else real physics.
 
 LIGHTING: the colour-burst lifted as a live key over the green-gold daylight, warm rim, leaf-and-petal fill rising; controlled, no clipping.
 
 ENVIRONMENT: conservatory alive with vivid pop colour, topiary blooming, pollen-light streaming, swirling and trailing petal-confetti, deep depth.
 
-AUDIO: diegetic-plus-design, no spoken word (silent reel). Ambient bed — the warm conservatory tone blooming into a lush orchestral swell with a soft timpani roll cresting at the burst then settling. SFX — a soft bud-split flare 0.2s, a gentle blossom-bloom whoosh and a sparkling pass of petal-confetti and pollen-light tracking the swirl 0.5 to 1.8s, soft petal-flutter settling 1.2 to 2.5s, a warm resonance under the settle. Reaction — a soft powerful breath at 1.6s. VO — none. Master track rises to its fullest-but-still-restrained moment under the burst then eases (subtle, never full).
+AUDIO: diegetic-plus-design, no spoken word (silent reel). Ambient bed — the warm conservatory tone blooming into a lush orchestral swell with a soft timpani roll cresting at the burst then settling. SFX — a soft bud-split flare 0.2s, a gentle blossom-bloom whoosh and a sparkling pass of petal-confetti and pollen-light tracking the swirl 0.5 to 2.2s, soft petal-flutter settling 1.2 to 3.0s, a warm resonance under the settle. Reaction — a soft powerful breath at 1.9s. VO — none. Master track rises to its fullest-but-still-restrained moment under the burst then eases (subtle, never full).
 
 DURATION: 5 seconds (0:20 to 0:25 of 30s total).
 
@@ -484,15 +484,15 @@ CAMERA MOVEMENT: a slow settle back to the F1 start position (gentle reverse of 
 LENS: 50mm, f/2.8.
 
 SUBJECT ACTION WITH TIMING:
-- 0.0–1.5s — the blossom-bloom eases out, the last petals drifting down as Aira begins settling back toward her opening posture.
-- 1.5–3.5s — she cradles the bottle at the collarbone, a soft serene smile easing in, the conservatory settling fully back to its calm F1 look.
-- 3.5–5.0s — she lands exactly on the opening posture, framing and headroom, holding still for the seamless hand-back to Frame 1. Real physics, one calm settling move, no jarring cut.
+- 0.0–1.8s — the blossom-bloom eases out, the last petals drifting down as Aira begins settling back toward her opening posture.
+- 1.8–4.2s — she cradles the bottle at the collarbone, a soft serene smile easing in, the conservatory settling fully back to its calm F1 look.
+- 4.2–6.0s — she lands exactly on the opening posture, framing and headroom, holding still for the seamless hand-back to Frame 1. Real physics, one calm settling move, no jarring cut.
 
 LIGHTING: the green-gold daylight easing back to the F1 direction and intensity, soft stone fill, warm sun-rim; steady, no flicker, matched to the opening.
 
 ENVIRONMENT: the conservatory resolving to the calm opening look — topiary steadying, ferns settling, pollen-light thinning to the F1 drift.
 
-AUDIO: diegetic-plus-design, no spoken word (silent reel). Ambient bed — the lush swell easing back down to the warm calm conservatory tone of the opening (birdsong, soft leaf-draught, low). SFX — a soft settling petal-flutter 0.0 to 1.5s, a gentle glass-settle as the bottle comes to rest at 2.0s, the airy shimmer thinning to silence by 4.0s for a clean loop point. Reaction — a soft quiet breath at 2.2s. VO — none. Master track resolves its phrase and eases to the low warm bed, landing soft so the loop back to Frame 1 is seamless (subtle, never full).
+AUDIO: diegetic-plus-design, no spoken word (silent reel). Ambient bed — the lush swell easing back down to the warm calm conservatory tone of the opening (birdsong, soft leaf-draught, low). SFX — a soft settling petal-flutter 0.0 to 1.8s, a gentle glass-settle as the bottle comes to rest at 2.4s, the airy shimmer thinning to silence by 4.8s for a clean loop point. Reaction — a soft quiet breath at 2.6s. VO — none. Master track resolves its phrase and eases to the low warm bed, landing soft so the loop back to Frame 1 is seamless (subtle, never full).
 
 DURATION: 5 seconds (0:25 to 0:30 of 30s total).
 
@@ -618,14 +618,14 @@ CAMERA MOVEMENT: a single slow 8% push-in across the clip, otherwise locked-off 
 LENS: 50mm, f/2.8, smooth creamy background fall-off.
 
 SUBJECT ACTION WITH TIMING:
-- 0.0–2.5s — Aira tilts the clear compact a few degrees into the key, specular glints sliding across the acrylic and the candy gel settling inside.
-- 2.5–5.0s — she lifts her eyes to lens on a soft inhale as the confident asymmetric quarter-smile blooms. One clean action, real physics throughout.
+- 0.0–3.0s — Aira tilts the clear compact a few degrees into the key, specular glints sliding across the acrylic and the candy gel settling inside.
+- 3.0–6.0s — she lifts her eyes to lens on a soft inhale as the confident asymmetric quarter-smile blooms. One clean action, real physics throughout.
 
 LIGHTING: clamshell beauty key with lifted clean fill; live moving speculars travelling across acrylic and chrome as the compact tips; colour panels held one stop down; hair-light steady on the bob.
 
 ENVIRONMENT: pop-art colour-block studio, faint graphic colour-haze.
 
-AUDIO: fully silent reel — no spoken word, no music in-clip. Diegetic and design only: low warm studio room tone bed; a soft acrylic-tap as fingers settle on the puck near 0.4s (gentle attack, short tail); a faint crepe fabric shift near 2.6s; a light airy sparkle-shimmer design accent near 3.8s timed to the eye-lift; a soft audible breath near 2.5s. The external master track sits low and warm under this frame.
+AUDIO: fully silent reel — no spoken word, no music in-clip. Diegetic and design only: low warm studio room tone bed; a soft acrylic-tap as fingers settle on the puck near 0.5s (gentle attack, short tail); a faint crepe fabric shift near 3.1s; a light airy sparkle-shimmer design accent near 4.6s timed to the eye-lift; a soft audible breath near 3.0s. The external master track sits low and warm under this frame.
 
 DURATION: 5 seconds (0:00 to 0:05 of 30s total).
 
@@ -765,14 +765,14 @@ CAMERA MOVEMENT: a single slow rack-focus pull (product to eye) with a 5% drift-
 LENS: 90mm macro, f/3.2.
 
 SUBJECT ACTION WITH TIMING:
-- 0.0–2.5s — Aira slowly rotates the clear compact, the gel catching light as focus holds on the label.
-- 2.5–5.0s — focus racks smoothly to her near eye as she lifts her gaze and the confident half-smile settles. One clean action, real physics.
+- 0.0–3.0s — Aira slowly rotates the clear compact, the gel catching light as focus holds on the label.
+- 3.0–6.0s — focus racks smoothly to her near eye as she lifts her gaze and the confident half-smile settles. One clean action, real physics.
 
 LIGHTING: beauty key with clamshell fill; live speculars sliding across acrylic and chrome through the rotation; hair-light steady; panels down one stop.
 
 ENVIRONMENT: pop-art colour-block studio, faint colour-haze.
 
-AUDIO: fully silent reel — no spoken word, no in-clip music. Diegetic and design only: room-tone bed; a soft acrylic-rotate creak near 1.0s (gentle, short); a delicate glassy shimmer accent near 2.6s timed to the focus-rack; a light breath near 2.5s. External master holds low and warm.
+AUDIO: fully silent reel — no spoken word, no in-clip music. Diegetic and design only: room-tone bed; a soft acrylic-rotate creak near 1.2s (gentle, short); a delicate glassy shimmer accent near 3.1s timed to the focus-rack; a light breath near 3.0s. External master holds low and warm.
 
 DURATION: 5 seconds (0:11 to 0:16 of 30s total).
 
@@ -836,14 +836,14 @@ CAMERA MOVEMENT: a near-imperceptible 4% push-in only; effectively locked to let
 LENS: 85mm, f/2.5.
 
 SUBJECT ACTION WITH TIMING:
-- 0.0–2.0s — the radiant smile blooms with a genuine eye-crinkle as her gaze lifts to lens.
-- 2.0–4.0s — a soft exhale and a tiny confident chin-lift, the fingertips settling at the jaw, the expression holding warm and open. One clean emotional action, no speech.
+- 0.0–3.0s — the radiant smile blooms with a genuine eye-crinkle as her gaze lifts to lens.
+- 3.0–6.0s — a soft exhale and a tiny confident chin-lift, the fingertips settling at the jaw, the expression holding warm and open. One clean emotional action, no speech.
 
 LIGHTING: beauty key wrapping the face with clamshell fill; a gentle catchlight travelling across the iris as the eyes lift; hair-light steady; panels one stop down.
 
 ENVIRONMENT: pop-art colour-block studio, faint colour-haze.
 
-AUDIO: fully silent reel — no spoken word, no mouthed line, no in-clip music. Diegetic and design only: intimate room-tone bed; a soft audible breath near 2.2s; a delicate warm shimmer-swell design accent near 1.0s timed to the smile bloom (subtle, long-soft tail); a faint fabric settle near 3.0s. External master reaches its warmest, fullest-but-restrained level under this crest.
+AUDIO: fully silent reel — no spoken word, no mouthed line, no in-clip music. Diegetic and design only: intimate room-tone bed; a soft audible breath near 3.3s; a delicate warm shimmer-swell design accent near 1.5s timed to the smile bloom (subtle, long-soft tail); a faint fabric settle near 4.5s. External master reaches its warmest, fullest-but-restrained level under this crest.
 
 DURATION: 4 seconds (0:16 to 0:20 of 30s total).
 
@@ -909,15 +909,15 @@ CAMERA MOVEMENT: the beauty 3D orbit — a smooth 12% arc around the levitating 
 LENS: 50mm, f/2.8.
 
 SUBJECT ACTION WITH TIMING:
-- 0.0–1.5s — the compact eases up to levitate as Aira frames it, dots tight at its surface.
-- 1.5–3.5s — the halftone dots burst outward in clean graphic arcs as the camera orbits and her wonder peaks.
-- 3.5–5.0s — dots radiate full-frame then begin resolving, the bright pulse easing. START and END keyframes of the burst locked; identity fixed.
+- 0.0–1.8s — the compact eases up to levitate as Aira frames it, dots tight at its surface.
+- 1.8–4.2s — the halftone dots burst outward in clean graphic arcs as the camera orbits and her wonder peaks.
+- 4.2–6.0s — dots radiate full-frame then begin resolving, the bright pulse easing. START and END keyframes of the burst locked; identity fixed.
 
 LIGHTING: beauty key with clamshell fill; a brief brighter bounce pulse at the burst crest easing to base; live speculars flaring across acrylic, chrome and hoops; hair-light steady.
 
 ENVIRONMENT: pop-art colour-block studio washed by the radiating dot-halo.
 
-AUDIO: fully silent reel — no spoken word, no in-clip music. Diegetic and design only: room-tone bed; a soft rising swell-whoosh into the burst near 1.4s; a bright airy sparkle-spray of candy ticks near 1.5 to 2.5s as dots radiate (layered, short tails); a soft shimmer-settle near 4.5s; a light breath near 1.5s. External master reaches its highest-but-still-restrained moment under this crest.
+AUDIO: fully silent reel — no spoken word, no in-clip music. Diegetic and design only: room-tone bed; a soft rising swell-whoosh into the burst near 1.7s; a bright airy sparkle-spray of candy ticks near 1.5 to 3.0s as dots radiate (layered, short tails); a soft shimmer-settle near 5.4s; a light breath near 1.8s. External master reaches its highest-but-still-restrained moment under this crest.
 
 DURATION: 5 seconds (0:20 to 0:25 of 30s total).
 
@@ -983,15 +983,15 @@ CAMERA MOVEMENT: a gentle 8% pull-back easing the orbit to rest, landing on the 
 LENS: 50mm, f/2.8.
 
 SUBJECT ACTION WITH TIMING:
-- 0.0–2.0s — the last dots dissolve as Aira settles the compact back to the collarbone.
-- 2.0–3.5s — the radiant smile eases to the confident F1 quarter-smile.
-- 3.5–5.0s — she lands precisely on the F1 opening posture and gaze for a seamless loop. One clean settling action, real physics.
+- 0.0–2.4s — the last dots dissolve as Aira settles the compact back to the collarbone.
+- 2.4–4.2s — the radiant smile eases to the confident F1 quarter-smile.
+- 4.2–6.0s — she lands precisely on the F1 opening posture and gaze for a seamless loop. One clean settling action, real physics.
 
 LIGHTING: beauty key with clamshell fill easing to the F1 base; speculars sliding back to their opening positions; hair-light steady; panels one stop down.
 
 ENVIRONMENT: pop-art colour-block studio returning to its clean opening state.
 
-AUDIO: fully silent reel — no spoken word, no in-clip music. Diegetic and design only: room-tone bed; a soft shimmer-settle of the last dots near 1.0s; a gentle acrylic-tap as the compact meets the collarbone near 2.2s; a light settling breath near 3.0s. External master resolves and eases back to its low warm opening bed for the loop.
+AUDIO: fully silent reel — no spoken word, no in-clip music. Diegetic and design only: room-tone bed; a soft shimmer-settle of the last dots near 1.2s; a gentle acrylic-tap as the compact meets the collarbone near 2.6s; a light settling breath near 3.6s. External master resolves and eases back to its low warm opening bed for the loop.
 
 DURATION: 5 seconds (0:25 to 0:30 of 30s total).
 
@@ -1117,14 +1117,14 @@ CAMERA MOVEMENT: a single slow 8% push-in across the clip, otherwise locked-off 
 LENS: 50mm, f/2.8, smooth creamy glowing background fall-off.
 
 SUBJECT ACTION WITH TIMING:
-- 0.0–2.5s — Aira tilts the neon bottle a few degrees into the key, prismatic glints sliding across the facets and the luminous juice settling inside.
-- 2.5–5.0s — she lifts her eyes to lens on a soft inhale as the confident asymmetric quarter-smile blooms. One clean action, real physics throughout.
+- 0.0–3.0s — Aira tilts the neon bottle a few degrees into the key, prismatic glints sliding across the facets and the luminous juice settling inside.
+- 3.0–6.0s — she lifts her eyes to lens on a soft inhale as the confident asymmetric quarter-smile blooms. One clean action, real physics throughout.
 
 LIGHTING: clamshell beauty key with lifted clean fill; live moving prismatic speculars across the facets as the bottle tips; backlit foliage glowing steady; hair-light steady on the waves.
 
 ENVIRONMENT: neon tropical-garden studio, faint glowing colour-haze.
 
-AUDIO: fully silent reel — no spoken word, no music in-clip. Diegetic and design only: low warm studio room tone bed; a soft glass-tap as fingers settle on the facets near 0.4s (gentle attack, short tail); a faint satin slip shift near 2.6s; a light airy tropical shimmer accent near 3.8s timed to the eye-lift; a soft audible breath near 2.5s. The external master track sits low and warm under this frame.
+AUDIO: fully silent reel — no spoken word, no music in-clip. Diegetic and design only: low warm studio room tone bed; a soft glass-tap as fingers settle on the facets near 0.5s (gentle attack, short tail); a faint satin slip shift near 3.1s; a light airy tropical shimmer accent near 4.6s timed to the eye-lift; a soft audible breath near 3.0s. The external master track sits low and warm under this frame.
 
 DURATION: 5 seconds (0:00 to 0:05 of 30s total).
 
@@ -1264,14 +1264,14 @@ CAMERA MOVEMENT: a single slow rack-focus pull (product to eye) with a 5% drift-
 LENS: 90mm macro, f/3.2.
 
 SUBJECT ACTION WITH TIMING:
-- 0.0–2.5s — Aira slowly rotates the neon bottle, the juice catching light as focus holds on the label.
-- 2.5–5.0s — focus racks smoothly to her near eye as she lifts her gaze and the confident half-smile settles. One clean action, real physics.
+- 0.0–3.0s — Aira slowly rotates the neon bottle, the juice catching light as focus holds on the label.
+- 3.0–6.0s — focus racks smoothly to her near eye as she lifts her gaze and the confident half-smile settles. One clean action, real physics.
 
 LIGHTING: beauty key with clamshell fill; live prismatic speculars sliding across glass through the rotation; hair-light steady; foliage down one stop.
 
 ENVIRONMENT: neon tropical-garden studio, faint glowing colour-haze.
 
-AUDIO: fully silent reel — no spoken word, no in-clip music. Diegetic and design only: room-tone bed; a soft glass-rotate creak near 1.0s (gentle, short); a delicate glassy shimmer accent near 2.6s timed to the focus-rack; a light breath near 2.5s. External master holds low and warm.
+AUDIO: fully silent reel — no spoken word, no in-clip music. Diegetic and design only: room-tone bed; a soft glass-rotate creak near 1.2s (gentle, short); a delicate glassy shimmer accent near 3.1s timed to the focus-rack; a light breath near 3.0s. External master holds low and warm.
 
 DURATION: 5 seconds (0:11 to 0:16 of 30s total).
 
@@ -1335,14 +1335,14 @@ CAMERA MOVEMENT: a near-imperceptible 4% push-in only; effectively locked to let
 LENS: 85mm, f/2.5.
 
 SUBJECT ACTION WITH TIMING:
-- 0.0–2.0s — the radiant smile blooms with a genuine eye-crinkle as her gaze lifts to lens.
-- 2.0–4.0s — a soft exhale and a tiny confident chin-lift, the fingertips settling at the jaw, the expression holding warm and open. One clean emotional action, no speech.
+- 0.0–3.0s — the radiant smile blooms with a genuine eye-crinkle as her gaze lifts to lens.
+- 3.0–6.0s — a soft exhale and a tiny confident chin-lift, the fingertips settling at the jaw, the expression holding warm and open. One clean emotional action, no speech.
 
 LIGHTING: beauty key wrapping the face with clamshell fill; a gentle catchlight travelling across the iris as the eyes lift; hair-light steady; foliage one stop down.
 
 ENVIRONMENT: neon tropical-garden studio, faint glowing colour-haze.
 
-AUDIO: fully silent reel — no spoken word, no mouthed line, no in-clip music. Diegetic and design only: intimate room-tone bed; a soft audible breath near 2.2s; a delicate warm shimmer-swell design accent near 1.0s timed to the smile bloom (subtle, long-soft tail); a faint fabric settle near 3.0s. External master reaches its warmest, fullest-but-restrained level under this crest.
+AUDIO: fully silent reel — no spoken word, no mouthed line, no in-clip music. Diegetic and design only: intimate room-tone bed; a soft audible breath near 3.3s; a delicate warm shimmer-swell design accent near 1.5s timed to the smile bloom (subtle, long-soft tail); a faint fabric settle near 4.5s. External master reaches its warmest, fullest-but-restrained level under this crest.
 
 DURATION: 4 seconds (0:16 to 0:20 of 30s total).
 
@@ -1408,15 +1408,15 @@ CAMERA MOVEMENT: the beauty 3D orbit — a smooth 12% arc around the levitating 
 LENS: 50mm, f/2.8.
 
 SUBJECT ACTION WITH TIMING:
-- 0.0–1.5s — the bottle eases up to levitate as a single neon orchid bud swells at the bodice.
-- 1.5–3.5s — the orchids unfurl and burst open in a radiant halo as the camera orbits and her wonder peaks, petals lifting and swirling.
-- 3.5–5.0s — the petals radiate full-frame then begin resolving, the bright pulse easing. START and END keyframes of the bloom locked; identity fixed.
+- 0.0–1.8s — the bottle eases up to levitate as a single neon orchid bud swells at the bodice.
+- 1.8–4.2s — the orchids unfurl and burst open in a radiant halo as the camera orbits and her wonder peaks, petals lifting and swirling.
+- 4.2–6.0s — the petals radiate full-frame then begin resolving, the bright pulse easing. START and END keyframes of the bloom locked; identity fixed.
 
 LIGHTING: beauty key with clamshell fill; a brief brighter bounce pulse at the bloom crest easing to base; live speculars flaring across glass, earrings and slip; hair-light steady.
 
 ENVIRONMENT: neon tropical-garden studio washed by the radiating orchid-halo and swirling petals.
 
-AUDIO: fully silent reel — no spoken word, no in-clip music. Diegetic and design only: room-tone bed; a soft rising swell-whoosh into the bloom near 1.4s; a bright airy sparkle of petal-unfurl flutters near 1.5 to 2.5s (layered, short tails); a soft shimmer-settle near 4.5s; a light breath near 1.5s. External master reaches its highest-but-still-restrained moment under this crest.
+AUDIO: fully silent reel — no spoken word, no in-clip music. Diegetic and design only: room-tone bed; a soft rising swell-whoosh into the bloom near 1.7s; a bright airy sparkle of petal-unfurl flutters near 1.5 to 3.0s (layered, short tails); a soft shimmer-settle near 5.4s; a light breath near 1.8s. External master reaches its highest-but-still-restrained moment under this crest.
 
 DURATION: 5 seconds (0:20 to 0:25 of 30s total).
 
@@ -1482,15 +1482,15 @@ CAMERA MOVEMENT: a gentle 8% pull-back easing the orbit to rest, landing on the 
 LENS: 50mm, f/2.8.
 
 SUBJECT ACTION WITH TIMING:
-- 0.0–2.0s — the last petals dissolve as Aira settles the bottle back to the collarbone.
-- 2.0–3.5s — the radiant smile eases to the confident F1 quarter-smile.
-- 3.5–5.0s — she lands precisely on the F1 opening posture and gaze for a seamless loop. One clean settling action, real physics.
+- 0.0–2.4s — the last petals dissolve as Aira settles the bottle back to the collarbone.
+- 2.4–4.2s — the radiant smile eases to the confident F1 quarter-smile.
+- 4.2–6.0s — she lands precisely on the F1 opening posture and gaze for a seamless loop. One clean settling action, real physics.
 
 LIGHTING: beauty key with clamshell fill easing to the F1 base; speculars sliding back to their opening positions; hair-light steady; foliage one stop down.
 
 ENVIRONMENT: neon tropical-garden studio returning to its clean opening state.
 
-AUDIO: fully silent reel — no spoken word, no in-clip music. Diegetic and design only: room-tone bed; a soft shimmer-settle of the last petals near 1.0s; a gentle glass-settle as the bottle meets the collarbone near 2.2s; a light settling breath near 3.0s. External master resolves and eases back to its low warm opening bed for the loop.
+AUDIO: fully silent reel — no spoken word, no in-clip music. Diegetic and design only: room-tone bed; a soft shimmer-settle of the last petals near 1.2s; a gentle glass-settle as the bottle meets the collarbone near 2.6s; a light settling breath near 3.6s. External master resolves and eases back to its low warm opening bed for the loop.
 
 DURATION: 5 seconds (0:25 to 0:30 of 30s total).
 
@@ -1618,14 +1618,14 @@ CAMERA MOVEMENT: a single slow 8% push-in across the clip, otherwise locked-off 
 LENS: 50mm, f/2.8, smooth creamy pastel background fall-off.
 
 SUBJECT ACTION WITH TIMING:
-- 0.0–2.5s — Aira tilts the clear palette a few degrees into the key, soft speculars sliding across the acrylic and the rainbow-pastel dome catching light.
-- 2.5–5.0s — she lifts her eyes to lens on a soft inhale as the dreamy quarter-smile blooms. One clean action, real physics throughout.
+- 0.0–3.0s — Aira tilts the clear palette a few degrees into the key, soft speculars sliding across the acrylic and the rainbow-pastel dome catching light.
+- 3.0–6.0s — she lifts her eyes to lens on a soft inhale as the dreamy quarter-smile blooms. One clean action, real physics throughout.
 
 LIGHTING: clamshell beauty key with lifted clean fill; live moving speculars across acrylic and rose-chrome as the palette tips; mural held one stop down; hair-light steady on the chignon.
 
 ENVIRONMENT: pastel chalk-art studio, soft drifting chalk-dust and faint pastel colour-haze.
 
-AUDIO: fully silent reel — no spoken word, no music in-clip. Diegetic and design only: low warm studio room tone bed; a soft acrylic-tap as fingers settle on the compact near 0.4s (gentle attack, short tail); a faint tulle rustle near 2.6s; a light airy pastel shimmer accent near 3.8s timed to the eye-lift; a soft audible breath near 2.5s. The external master track sits low and warm under this frame.
+AUDIO: fully silent reel — no spoken word, no music in-clip. Diegetic and design only: low warm studio room tone bed; a soft acrylic-tap as fingers settle on the compact near 0.5s (gentle attack, short tail); a faint tulle rustle near 3.1s; a light airy pastel shimmer accent near 4.6s timed to the eye-lift; a soft audible breath near 3.0s. The external master track sits low and warm under this frame.
 
 DURATION: 5 seconds (0:00 to 0:05 of 30s total).
 
@@ -1765,14 +1765,14 @@ CAMERA MOVEMENT: a single slow rack-focus pull (product to eye) with a 5% drift-
 LENS: 90mm macro, f/3.2.
 
 SUBJECT ACTION WITH TIMING:
-- 0.0–2.5s — Aira slowly rotates the clear palette, the pastel dome catching light as focus holds on the swirl.
-- 2.5–5.0s — focus racks smoothly to her near eye as she lifts her gaze and the dreamy half-smile settles. One clean action, real physics.
+- 0.0–3.0s — Aira slowly rotates the clear palette, the pastel dome catching light as focus holds on the swirl.
+- 3.0–6.0s — focus racks smoothly to her near eye as she lifts her gaze and the dreamy half-smile settles. One clean action, real physics.
 
 LIGHTING: beauty key with clamshell fill; live soft speculars sliding across acrylic and rose-chrome through the rotation; hair-light steady; mural down one stop.
 
 ENVIRONMENT: pastel chalk-art studio, faint pastel colour-haze and soft drifting chalk-dust.
 
-AUDIO: fully silent reel — no spoken word, no in-clip music. Diegetic and design only: room-tone bed; a soft acrylic-rotate creak near 1.0s (gentle, short); a delicate powdery shimmer accent near 2.6s timed to the focus-rack; a light breath near 2.5s. External master holds low and warm.
+AUDIO: fully silent reel — no spoken word, no in-clip music. Diegetic and design only: room-tone bed; a soft acrylic-rotate creak near 1.2s (gentle, short); a delicate powdery shimmer accent near 3.1s timed to the focus-rack; a light breath near 3.0s. External master holds low and warm.
 
 DURATION: 5 seconds (0:11 to 0:16 of 30s total).
 
@@ -1836,14 +1836,14 @@ CAMERA MOVEMENT: a near-imperceptible 4% push-in only; effectively locked to let
 LENS: 85mm, f/2.5.
 
 SUBJECT ACTION WITH TIMING:
-- 0.0–2.0s — the radiant smile blooms with a genuine eye-crinkle as her gaze lifts to lens.
-- 2.0–4.0s — a soft exhale and a tiny confident chin-lift, the fingertips settling at the jaw, the expression holding warm and open. One clean emotional action, no speech.
+- 0.0–3.0s — the radiant smile blooms with a genuine eye-crinkle as her gaze lifts to lens.
+- 3.0–6.0s — a soft exhale and a tiny confident chin-lift, the fingertips settling at the jaw, the expression holding warm and open. One clean emotional action, no speech.
 
 LIGHTING: beauty key wrapping the face with clamshell fill; a gentle catchlight travelling across the iris as the eyes lift; hair-light steady; mural one stop down.
 
 ENVIRONMENT: pastel chalk-art studio, faint pastel colour-haze.
 
-AUDIO: fully silent reel — no spoken word, no mouthed line, no in-clip music. Diegetic and design only: intimate room-tone bed; a soft audible breath near 2.2s; a delicate warm shimmer-swell design accent near 1.0s timed to the smile bloom (subtle, long-soft tail); a faint tulle settle near 3.0s. External master reaches its warmest, fullest-but-restrained level under this crest.
+AUDIO: fully silent reel — no spoken word, no mouthed line, no in-clip music. Diegetic and design only: intimate room-tone bed; a soft audible breath near 3.3s; a delicate warm shimmer-swell design accent near 1.5s timed to the smile bloom (subtle, long-soft tail); a faint tulle settle near 4.5s. External master reaches its warmest, fullest-but-restrained level under this crest.
 
 DURATION: 4 seconds (0:16 to 0:20 of 30s total).
 
@@ -1911,15 +1911,15 @@ CAMERA MOVEMENT: a smooth graphic 3D orbit of about 20° around her as the rainb
 LENS: 35mm, f/3.5.
 
 SUBJECT ACTION WITH TIMING:
-- 0.0–2.0s — Aira sweeps her arms outward and the chalk-pastel rainbow arc blooms open around her in radiant bands.
-- 2.0–3.5s — the burst reaches its luminous peak, prismatic dust spiralling, her awe-struck joyful smile at full bloom.
-- 3.5–5.0s — the arc holds and begins a gentle settle as the dust drifts. PEAK keyframe locked; identity fixed throughout.
+- 0.0–2.4s — Aira sweeps her arms outward and the chalk-pastel rainbow arc blooms open around her in radiant bands.
+- 2.4–4.2s — the burst reaches its luminous peak, prismatic dust spiralling, her awe-struck joyful smile at full bloom.
+- 4.2–6.0s — the arc holds and begins a gentle settle as the dust drifts. PEAK keyframe locked; identity fixed throughout.
 
-LIGHTING: beauty key with clamshell fill; the rainbow-bloom acting as a live wrapping coloured source; a bright bounce pulse at the 2.0s peak; rainbow speculars chasing across surfaces; hair-light steady; mural one stop down.
+LIGHTING: beauty key with clamshell fill; the rainbow-bloom acting as a live wrapping coloured source; a bright bounce pulse at the 2.4s peak; rainbow speculars chasing across surfaces; hair-light steady; mural one stop down.
 
 ENVIRONMENT: pastel chalk-art studio overswept by the radiant chalk-pastel rainbow-bloom and spiralling prismatic dust.
 
-AUDIO: fully silent reel — no spoken word, no in-clip music. Diegetic and design only: room-tone bed; a soft airy magical bloom-whoosh rising from 0.2 to 2.0s into the burst (gentle swell, no harsh transient); a delicate prismatic shimmer-sparkle cascade peaking near 2.0s and drifting out to 4.5s (layered, soft tails); a soft awe-breath near 1.8s; a faint tulle flare-rustle near 1.2s. External master reaches its fullest-but-still-controlled crest here, then begins easing.
+AUDIO: fully silent reel — no spoken word, no in-clip music. Diegetic and design only: room-tone bed; a soft airy magical bloom-whoosh rising from 0.2 to 2.4s into the burst (gentle swell, no harsh transient); a delicate prismatic shimmer-sparkle cascade peaking near 2.4s and drifting out to 5.4s (layered, soft tails); a soft awe-breath near 2.2s; a faint tulle flare-rustle near 1.4s. External master reaches its fullest-but-still-controlled crest here, then begins easing.
 
 DURATION: 5 seconds (0:20 to 0:25 of 30s total).
 
@@ -1987,14 +1987,14 @@ CAMERA MOVEMENT: a gentle 6% settle-back that returns the framing to the Frame 1
 LENS: 50mm, f/2.8.
 
 SUBJECT ACTION WITH TIMING:
-- 0.0–2.5s — the last rainbow-dust settles as Aira eases her arms back in and re-cradles the palette at collarbone height.
-- 2.5–5.0s — she resolves into the calm hero pose with the dreamy quarter-smile and a soft settling exhale, gaze direct to lens — the final composition matching Frame 1 exactly so the reel loops cleanly into the top.
+- 0.0–3.0s — the last rainbow-dust settles as Aira eases her arms back in and re-cradles the palette at collarbone height.
+- 3.0–6.0s — she resolves into the calm hero pose with the dreamy quarter-smile and a soft settling exhale, gaze direct to lens — the final composition matching Frame 1 exactly so the reel loops cleanly into the top.
 
 LIGHTING: beauty key with clamshell fill (matched to Frame 1); soft speculars settling on acrylic and rose-chrome; hair-light steady; mural one stop down.
 
 ENVIRONMENT: pastel chalk-art studio, last chalk-dust fading, calm restored.
 
-AUDIO: fully silent reel — no spoken word, no in-clip music. Diegetic and design only: room-tone bed easing back to the calm opening level; a soft acrylic-tap as fingers re-settle on the compact near 3.0s (gentle, short tail, mirroring Frame 1's tap); a faint tulle settle near 2.0s; a soft settling breath near 4.0s; a last delicate shimmer-fade near 1.0s. External master resolves soft and open, easing back so the track restarts cleanly into Frame 1.
+AUDIO: fully silent reel — no spoken word, no in-clip music. Diegetic and design only: room-tone bed easing back to the calm opening level; a soft acrylic-tap as fingers re-settle on the compact near 3.6s (gentle, short tail, mirroring Frame 1's tap); a faint tulle settle near 2.4s; a soft settling breath near 4.8s; a last delicate shimmer-fade near 1.2s. External master resolves soft and open, easing back so the track restarts cleanly into Frame 1.
 
 DURATION: 5 seconds (0:25 to 0:30 of 30s total).
 
@@ -2122,14 +2122,14 @@ CAMERA MOVEMENT: a single slow 8% push-in across the clip, otherwise locked-off 
 LENS: 50mm, f/2.8, smooth creamy citrus background fall-off.
 
 SUBJECT ACTION WITH TIMING:
-- 0.0–2.5s — Aira tilts the citrine bottle a few degrees into the key, speculars sliding across the facets and the sequins flickering colour-flips.
-- 2.5–5.0s — she lifts her eyes to lens on a soft inhale as the confident quarter-smile blooms. One clean action, real physics throughout.
+- 0.0–3.0s — Aira tilts the citrine bottle a few degrees into the key, speculars sliding across the facets and the sequins flickering colour-flips.
+- 3.0–6.0s — she lifts her eyes to lens on a soft inhale as the confident quarter-smile blooms. One clean action, real physics throughout.
 
 LIGHTING: clamshell beauty key with lifted clean fill; live moving speculars across glass, cap and the colour-flipping sequins; cyclorama held one stop down; hair-light steady on the bob.
 
 ENVIRONMENT: electric citrus-pop studio, suspended citrus slices and a faint citrus colour-haze.
 
-AUDIO: fully silent reel — no spoken word, no music in-clip. Diegetic and design only: low warm studio room tone bed; a soft glass-tap as fingers settle on the bottle near 0.4s (gentle attack, short tail); a faint sequin-shimmer tick near 2.6s; a light airy zest-sparkle accent near 3.8s timed to the eye-lift; a soft audible breath near 2.5s. The external master track sits low and bright under this frame.
+AUDIO: fully silent reel — no spoken word, no music in-clip. Diegetic and design only: low warm studio room tone bed; a soft glass-tap as fingers settle on the bottle near 0.5s (gentle attack, short tail); a faint sequin-shimmer tick near 3.1s; a light airy zest-sparkle accent near 4.6s timed to the eye-lift; a soft audible breath near 3.0s. The external master track sits low and bright under this frame.
 
 DURATION: 5 seconds (0:00 to 0:05 of 30s total).
 
@@ -2269,14 +2269,14 @@ CAMERA MOVEMENT: a single slow rack-focus pull (product to eye) with a 5% drift-
 LENS: 90mm macro, f/3.2.
 
 SUBJECT ACTION WITH TIMING:
-- 0.0–2.5s — Aira slowly rotates the citrine bottle, the amber serum and facets catching light as focus holds on the glass.
-- 2.5–5.0s — focus racks smoothly to her near eye as she lifts her gaze and the confident half-smile settles. One clean action, real physics.
+- 0.0–3.0s — Aira slowly rotates the citrine bottle, the amber serum and facets catching light as focus holds on the glass.
+- 3.0–6.0s — focus racks smoothly to her near eye as she lifts her gaze and the confident half-smile settles. One clean action, real physics.
 
 LIGHTING: beauty key with clamshell fill; live soft speculars sliding across glass and cap through the rotation; hair-light steady; cyclorama down one stop.
 
 ENVIRONMENT: electric citrus-pop studio, faint citrus colour-haze and suspended citrus slices.
 
-AUDIO: fully silent reel — no spoken word, no in-clip music. Diegetic and design only: room-tone bed; a soft glass-rotate tick near 1.0s (gentle, short); a delicate zest-shimmer accent near 2.6s timed to the focus-rack; a light breath near 2.5s. External master holds low and bright.
+AUDIO: fully silent reel — no spoken word, no in-clip music. Diegetic and design only: room-tone bed; a soft glass-rotate tick near 1.2s (gentle, short); a delicate zest-shimmer accent near 3.1s timed to the focus-rack; a light breath near 3.0s. External master holds low and bright.
 
 DURATION: 5 seconds (0:11 to 0:16 of 30s total).
 
@@ -2340,14 +2340,14 @@ CAMERA MOVEMENT: a near-imperceptible 4% push-in only; effectively locked to let
 LENS: 85mm, f/2.5.
 
 SUBJECT ACTION WITH TIMING:
-- 0.0–2.0s — the radiant smile blooms with a genuine eye-crinkle as her gaze lifts to lens.
-- 2.0–4.0s — a soft exhale and a tiny confident chin-lift, the fingertips settling at the jaw, the expression holding warm and open. One clean emotional action, no speech.
+- 0.0–3.0s — the radiant smile blooms with a genuine eye-crinkle as her gaze lifts to lens.
+- 3.0–6.0s — a soft exhale and a tiny confident chin-lift, the fingertips settling at the jaw, the expression holding warm and open. One clean emotional action, no speech.
 
 LIGHTING: beauty key wrapping the face with clamshell fill; a gentle catchlight travelling across the iris as the eyes lift; hair-light steady; cyclorama one stop down.
 
 ENVIRONMENT: electric citrus-pop studio, faint citrus colour-haze.
 
-AUDIO: fully silent reel — no spoken word, no mouthed line, no in-clip music. Diegetic and design only: intimate room-tone bed; a soft audible breath near 2.2s; a delicate warm zest-swell design accent near 1.0s timed to the smile bloom (subtle, long-soft tail); a faint sequin-shimmer settle near 3.0s. External master reaches its warmest, fullest-but-restrained level under this crest.
+AUDIO: fully silent reel — no spoken word, no mouthed line, no in-clip music. Diegetic and design only: intimate room-tone bed; a soft audible breath near 3.3s; a delicate warm zest-swell design accent near 1.5s timed to the smile bloom (subtle, long-soft tail); a faint sequin-shimmer settle near 4.5s. External master reaches its warmest, fullest-but-restrained level under this crest.
 
 DURATION: 4 seconds (0:16 to 0:20 of 30s total).
 
@@ -2415,15 +2415,15 @@ CAMERA MOVEMENT: a smooth graphic 3D orbit of about 20° around her as the super
 LENS: 35mm, f/3.5.
 
 SUBJECT ACTION WITH TIMING:
-- 0.0–2.0s — Aira sweeps her arms outward and the citrus-sequin supernova explodes open around her in radiant rays.
-- 2.0–3.5s — the burst reaches its luminous peak, sequin-sparks spiralling, her awe-struck joyful smile at full bloom.
-- 3.5–5.0s — the rays hold and begin a gentle settle as the sparks drift. PEAK keyframe locked; identity fixed throughout.
+- 0.0–2.4s — Aira sweeps her arms outward and the citrus-sequin supernova explodes open around her in radiant rays.
+- 2.4–4.2s — the burst reaches its luminous peak, sequin-sparks spiralling, her awe-struck joyful smile at full bloom.
+- 4.2–6.0s — the rays hold and begin a gentle settle as the sparks drift. PEAK keyframe locked; identity fixed throughout.
 
-LIGHTING: beauty key with clamshell fill; the supernova acting as a live wrapping citrus source; a bright bounce pulse at the 2.0s peak; citrus speculars chasing across surfaces; hair-light steady; cyclorama one stop down.
+LIGHTING: beauty key with clamshell fill; the supernova acting as a live wrapping citrus source; a bright bounce pulse at the 2.4s peak; citrus speculars chasing across surfaces; hair-light steady; cyclorama one stop down.
 
 ENVIRONMENT: electric citrus-pop studio overswept by the radiant sequin-supernova and spiralling citrus-light.
 
-AUDIO: fully silent reel — no spoken word, no in-clip music. Diegetic and design only: room-tone bed; a soft airy magical burst-whoosh rising from 0.2 to 2.0s into the supernova (gentle swell, no harsh transient); a delicate glassy sequin-sparkle cascade peaking near 2.0s and drifting out to 4.5s (layered, soft tails); a soft awe-breath near 1.8s; a faint hem flare-rustle near 1.2s. External master reaches its fullest-but-still-controlled crest here, then begins easing.
+AUDIO: fully silent reel — no spoken word, no in-clip music. Diegetic and design only: room-tone bed; a soft airy magical burst-whoosh rising from 0.2 to 2.4s into the supernova (gentle swell, no harsh transient); a delicate glassy sequin-sparkle cascade peaking near 2.4s and drifting out to 5.4s (layered, soft tails); a soft awe-breath near 2.2s; a faint hem flare-rustle near 1.4s. External master reaches its fullest-but-still-controlled crest here, then begins easing.
 
 DURATION: 5 seconds (0:20 to 0:25 of 30s total).
 
@@ -2491,14 +2491,14 @@ CAMERA MOVEMENT: a gentle 6% settle-back that returns the framing to the Frame 1
 LENS: 50mm, f/2.8.
 
 SUBJECT ACTION WITH TIMING:
-- 0.0–2.5s — the last citrus-sparks settle as Aira eases her arms back in and re-cradles the bottle at collarbone height.
-- 2.5–5.0s — she resolves into the calm hero pose with the confident quarter-smile and a soft settling exhale, gaze direct to lens — the final composition matching Frame 1 exactly so the reel loops cleanly into the top.
+- 0.0–3.0s — the last citrus-sparks settle as Aira eases her arms back in and re-cradles the bottle at collarbone height.
+- 3.0–6.0s — she resolves into the calm hero pose with the confident quarter-smile and a soft settling exhale, gaze direct to lens — the final composition matching Frame 1 exactly so the reel loops cleanly into the top.
 
 LIGHTING: beauty key with clamshell fill (matched to Frame 1); soft speculars settling on glass and cap; hair-light steady; cyclorama one stop down.
 
 ENVIRONMENT: electric citrus-pop studio, last sequin-sparks fading, calm restored.
 
-AUDIO: fully silent reel — no spoken word, no in-clip music. Diegetic and design only: room-tone bed easing back to the calm opening level; a soft glass-tap as fingers re-settle on the bottle near 3.0s (gentle, short tail, mirroring Frame 1's tap); a faint sequin-shimmer settle near 2.0s; a soft settling breath near 4.0s; a last delicate sparkle-fade near 1.0s. External master resolves bright and open, easing back so the track restarts cleanly into Frame 1.
+AUDIO: fully silent reel — no spoken word, no in-clip music. Diegetic and design only: room-tone bed easing back to the calm opening level; a soft glass-tap as fingers re-settle on the bottle near 3.6s (gentle, short tail, mirroring Frame 1's tap); a faint sequin-shimmer settle near 2.4s; a soft settling breath near 4.8s; a last delicate sparkle-fade near 1.2s. External master resolves bright and open, easing back so the track restarts cleanly into Frame 1.
 
 DURATION: 5 seconds (0:25 to 0:30 of 30s total).
 
@@ -2626,14 +2626,14 @@ CAMERA MOVEMENT: a single slow 8% push-in across the clip, otherwise locked-off 
 LENS: 50mm, f/2.8, smooth creamy jewel background fall-off.
 
 SUBJECT ACTION WITH TIMING:
-- 0.0–2.5s — Aira tilts the chrome-capped vial a few degrees into the key, speculars sliding across the glass and the wet-gloss ribbons gliding on the vinyl.
-- 2.5–5.0s — she lifts her eyes to lens on a soft inhale as the cool quarter-smile blooms. One clean action, real physics throughout.
+- 0.0–3.0s — Aira tilts the chrome-capped vial a few degrees into the key, speculars sliding across the glass and the wet-gloss ribbons gliding on the vinyl.
+- 3.0–6.0s — she lifts her eyes to lens on a soft inhale as the cool quarter-smile blooms. One clean action, real physics throughout.
 
 LIGHTING: clamshell beauty key with lifted clean fill; live moving speculars across glass, chrome and wet vinyl; wall held one stop down; hair-light steady on the finger-wave.
 
 ENVIRONMENT: ultraviolet gloss studio, jewel gloss-drip walls and a faint UV colour-haze, soft mirror-floor reflection.
 
-AUDIO: fully silent reel — no spoken word, no music in-clip. Diegetic and design only: low warm studio room tone bed; a soft glass-tap as fingers settle on the vial near 0.4s (gentle attack, short tail); a faint vinyl-shift sheen-tick near 2.6s; a light airy gloss-shimmer accent near 3.8s timed to the eye-lift; a soft audible breath near 2.5s. The external master track sits low and cool under this frame.
+AUDIO: fully silent reel — no spoken word, no music in-clip. Diegetic and design only: low warm studio room tone bed; a soft glass-tap as fingers settle on the vial near 0.5s (gentle attack, short tail); a faint vinyl-shift sheen-tick near 3.1s; a light airy gloss-shimmer accent near 4.6s timed to the eye-lift; a soft audible breath near 3.0s. The external master track sits low and cool under this frame.
 
 DURATION: 5 seconds (0:00 to 0:05 of 30s total).
 
@@ -2773,14 +2773,14 @@ CAMERA MOVEMENT: a single slow rack-focus pull (product to eye) with a 5% drift-
 LENS: 90mm macro, f/3.2.
 
 SUBJECT ACTION WITH TIMING:
-- 0.0–2.5s — Aira slowly rotates the chrome-capped vial, the violet lacquer and facets catching light as focus holds on the glass.
-- 2.5–5.0s — focus racks smoothly to her near eye as she lifts her gaze and the cool half-smile settles. One clean action, real physics.
+- 0.0–3.0s — Aira slowly rotates the chrome-capped vial, the violet lacquer and facets catching light as focus holds on the glass.
+- 3.0–6.0s — focus racks smoothly to her near eye as she lifts her gaze and the cool half-smile settles. One clean action, real physics.
 
 LIGHTING: beauty key with clamshell fill; live soft speculars sliding across glass and chrome through the rotation; hair-light steady; wall down one stop.
 
 ENVIRONMENT: ultraviolet gloss studio, faint UV colour-haze and soft mirror-floor reflection.
 
-AUDIO: fully silent reel — no spoken word, no in-clip music. Diegetic and design only: room-tone bed; a soft glass-rotate tick near 1.0s (gentle, short); a delicate gloss-shimmer accent near 2.6s timed to the focus-rack; a light breath near 2.5s. External master holds low and cool.
+AUDIO: fully silent reel — no spoken word, no in-clip music. Diegetic and design only: room-tone bed; a soft glass-rotate tick near 1.2s (gentle, short); a delicate gloss-shimmer accent near 3.1s timed to the focus-rack; a light breath near 3.0s. External master holds low and cool.
 
 DURATION: 5 seconds (0:11 to 0:16 of 30s total).
 
@@ -2844,14 +2844,14 @@ CAMERA MOVEMENT: a near-imperceptible 4% push-in only; effectively locked to let
 LENS: 85mm, f/2.5.
 
 SUBJECT ACTION WITH TIMING:
-- 0.0–2.0s — the radiant smile blooms with a genuine eye-crinkle as her gaze lifts to lens.
-- 2.0–4.0s — a soft exhale and a tiny confident chin-lift, the fingertips settling at the jaw, the expression holding warm and open. One clean emotional action, no speech.
+- 0.0–3.0s — the radiant smile blooms with a genuine eye-crinkle as her gaze lifts to lens.
+- 3.0–6.0s — a soft exhale and a tiny confident chin-lift, the fingertips settling at the jaw, the expression holding warm and open. One clean emotional action, no speech.
 
 LIGHTING: beauty key wrapping the face with clamshell fill; a gentle catchlight travelling across the iris as the eyes lift; hair-light steady; wall one stop down.
 
 ENVIRONMENT: ultraviolet gloss studio, faint UV colour-haze.
 
-AUDIO: fully silent reel — no spoken word, no mouthed line, no in-clip music. Diegetic and design only: intimate room-tone bed; a soft audible breath near 2.2s; a delicate cool gloss-swell design accent near 1.0s timed to the smile bloom (subtle, long-soft tail); a faint vinyl sheen-settle near 3.0s. External master reaches its coolest, fullest-but-restrained level under this crest.
+AUDIO: fully silent reel — no spoken word, no mouthed line, no in-clip music. Diegetic and design only: intimate room-tone bed; a soft audible breath near 3.3s; a delicate cool gloss-swell design accent near 1.5s timed to the smile bloom (subtle, long-soft tail); a faint vinyl sheen-settle near 4.5s. External master reaches its coolest, fullest-but-restrained level under this crest.
 
 DURATION: 4 seconds (0:16 to 0:20 of 30s total).
 
@@ -2919,15 +2919,15 @@ CAMERA MOVEMENT: a smooth graphic 3D orbit of about 20° around her as the splas
 LENS: 35mm, f/3.5.
 
 SUBJECT ACTION WITH TIMING:
-- 0.0–2.0s — Aira sweeps her arms outward and the liquid-enamel splash-crown bursts open around her in glossy ribboned rays.
-- 2.0–3.5s — the burst reaches its luminous peak, gloss-droplets spiralling, her awe-struck joyful smile at full bloom.
-- 3.5–5.0s — the rays hold and begin a gentle settle as the droplets drift. PEAK keyframe locked; identity fixed throughout.
+- 0.0–2.4s — Aira sweeps her arms outward and the liquid-enamel splash-crown bursts open around her in glossy ribboned rays.
+- 2.4–4.2s — the burst reaches its luminous peak, gloss-droplets spiralling, her awe-struck joyful smile at full bloom.
+- 4.2–6.0s — the rays hold and begin a gentle settle as the droplets drift. PEAK keyframe locked; identity fixed throughout.
 
-LIGHTING: beauty key with clamshell fill; the splash-crown acting as a live wrapping jewel source; a bright bounce pulse at the 2.0s peak; mirror speculars chasing across surfaces; hair-light steady; wall one stop down.
+LIGHTING: beauty key with clamshell fill; the splash-crown acting as a live wrapping jewel source; a bright bounce pulse at the 2.4s peak; mirror speculars chasing across surfaces; hair-light steady; wall one stop down.
 
 ENVIRONMENT: ultraviolet gloss studio overswept by the radiant enamel splash-crown and spiralling gloss-droplets.
 
-AUDIO: fully silent reel — no spoken word, no in-clip music. Diegetic and design only: room-tone bed; a soft airy magical burst-whoosh rising from 0.2 to 2.0s into the splash (gentle swell, no harsh transient); a delicate glossy droplet-shimmer cascade peaking near 2.0s and drifting out to 4.5s (layered, soft tails); a soft awe-breath near 1.8s; a faint peplum flare-rustle near 1.2s. External master reaches its fullest-but-still-controlled crest here, then begins easing.
+AUDIO: fully silent reel — no spoken word, no in-clip music. Diegetic and design only: room-tone bed; a soft airy magical burst-whoosh rising from 0.2 to 2.4s into the splash (gentle swell, no harsh transient); a delicate glossy droplet-shimmer cascade peaking near 2.4s and drifting out to 5.4s (layered, soft tails); a soft awe-breath near 2.2s; a faint peplum flare-rustle near 1.4s. External master reaches its fullest-but-still-controlled crest here, then begins easing.
 
 DURATION: 5 seconds (0:20 to 0:25 of 30s total).
 
@@ -2995,14 +2995,14 @@ CAMERA MOVEMENT: a gentle 6% settle-back that returns the framing to the Frame 1
 LENS: 50mm, f/2.8.
 
 SUBJECT ACTION WITH TIMING:
-- 0.0–2.5s — the last gloss-droplets settle as Aira eases her arms back in and re-cradles the vial at collarbone height.
-- 2.5–5.0s — she resolves into the calm hero pose with the cool quarter-smile and a soft settling exhale, gaze direct to lens — the final composition matching Frame 1 exactly so the reel loops cleanly into the top.
+- 0.0–3.0s — the last gloss-droplets settle as Aira eases her arms back in and re-cradles the vial at collarbone height.
+- 3.0–6.0s — she resolves into the calm hero pose with the cool quarter-smile and a soft settling exhale, gaze direct to lens — the final composition matching Frame 1 exactly so the reel loops cleanly into the top.
 
 LIGHTING: beauty key with clamshell fill (matched to Frame 1); soft speculars settling on glass and chrome; hair-light steady; wall one stop down.
 
 ENVIRONMENT: ultraviolet gloss studio, last gloss-droplets fading, calm restored.
 
-AUDIO: fully silent reel — no spoken word, no in-clip music. Diegetic and design only: room-tone bed easing back to the calm opening level; a soft glass-tap as fingers re-settle on the vial near 3.0s (gentle, short tail, mirroring Frame 1's tap); a faint vinyl sheen-settle near 2.0s; a soft settling breath near 4.0s; a last delicate gloss-fade near 1.0s. External master resolves cool and open, easing back so the track restarts cleanly into Frame 1.
+AUDIO: fully silent reel — no spoken word, no in-clip music. Diegetic and design only: room-tone bed easing back to the calm opening level; a soft glass-tap as fingers re-settle on the vial near 3.6s (gentle, short tail, mirroring Frame 1's tap); a faint vinyl sheen-settle near 2.4s; a soft settling breath near 4.8s; a last delicate gloss-fade near 1.2s. External master resolves cool and open, easing back so the track restarts cleanly into Frame 1.
 
 DURATION: 5 seconds (0:25 to 0:30 of 30s total).
 
@@ -3130,14 +3130,14 @@ CAMERA MOVEMENT: a single slow 8% push-in across the clip, otherwise locked-off 
 LENS: 50mm, f/2.8, smooth creamy paper-bloom background fall-off.
 
 SUBJECT ACTION WITH TIMING:
-- 0.0–2.5s — Aira tilts the petal compact a few degrees into the key, a soft sheen sliding across the embossed lid and the paper petals of the skirt flexing gently.
-- 2.5–5.0s — she lifts her eyes to lens on a soft inhale as the warm quarter-smile blooms. One clean action, real physics throughout.
+- 0.0–3.0s — Aira tilts the petal compact a few degrees into the key, a soft sheen sliding across the embossed lid and the paper petals of the skirt flexing gently.
+- 3.0–6.0s — she lifts her eyes to lens on a soft inhale as the warm quarter-smile blooms. One clean action, real physics throughout.
 
 LIGHTING: clamshell beauty key with lifted clean fill; live moving sheen across the lid and soft light raking the cut-paper edges; paper-flower wall held one stop down; hair-light steady on the updo.
 
 ENVIRONMENT: paper-bloom garden studio, giant kirigami flowers and a faint warm colour-haze.
 
-AUDIO: fully silent reel — no spoken word, no music in-clip. Diegetic and design only: low warm studio room tone bed; a soft compact-click as fingers settle on the lid near 0.4s (gentle attack, short tail); a faint paper-flex rustle near 2.6s; a light airy petal-shimmer accent near 3.8s timed to the eye-lift; a soft audible breath near 2.5s. The external master track sits low and warm under this frame.
+AUDIO: fully silent reel — no spoken word, no music in-clip. Diegetic and design only: low warm studio room tone bed; a soft compact-click as fingers settle on the lid near 0.5s (gentle attack, short tail); a faint paper-flex rustle near 3.1s; a light airy petal-shimmer accent near 4.6s timed to the eye-lift; a soft audible breath near 3.0s. The external master track sits low and warm under this frame.
 
 DURATION: 5 seconds (0:00 to 0:05 of 30s total).
 
@@ -3277,14 +3277,14 @@ CAMERA MOVEMENT: a single slow rack-focus pull (product to eye) with a 5% drift-
 LENS: 90mm macro, f/3.2.
 
 SUBJECT ACTION WITH TIMING:
-- 0.0–2.5s — Aira slowly rotates the petal compact, the embossed lid and powder dome catching light as focus holds on the relief.
-- 2.5–5.0s — focus racks smoothly to her near eye as she lifts her gaze and the warm half-smile settles. One clean action, real physics.
+- 0.0–3.0s — Aira slowly rotates the petal compact, the embossed lid and powder dome catching light as focus holds on the relief.
+- 3.0–6.0s — focus racks smoothly to her near eye as she lifts her gaze and the warm half-smile settles. One clean action, real physics.
 
 LIGHTING: beauty key with clamshell fill; live soft sheen sliding across the lid through the rotation; hair-light steady; paper-flower wall down one stop.
 
 ENVIRONMENT: paper-bloom garden studio, faint warm colour-haze and giant kirigami flowers.
 
-AUDIO: fully silent reel — no spoken word, no in-clip music. Diegetic and design only: room-tone bed; a soft compact-rotate click near 1.0s (gentle, short); a delicate petal-shimmer accent near 2.6s timed to the focus-rack; a light breath near 2.5s. External master holds low and warm.
+AUDIO: fully silent reel — no spoken word, no in-clip music. Diegetic and design only: room-tone bed; a soft compact-rotate click near 1.2s (gentle, short); a delicate petal-shimmer accent near 3.1s timed to the focus-rack; a light breath near 3.0s. External master holds low and warm.
 
 DURATION: 5 seconds (0:11 to 0:16 of 30s total).
 
@@ -3348,14 +3348,14 @@ CAMERA MOVEMENT: a near-imperceptible 4% push-in only; effectively locked to let
 LENS: 85mm, f/2.5.
 
 SUBJECT ACTION WITH TIMING:
-- 0.0–2.0s — the radiant smile blooms with a genuine eye-crinkle as her gaze lifts to lens.
-- 2.0–4.0s — a soft exhale and a tiny confident chin-lift, the fingertips settling at the jaw, the expression holding warm and open. One clean emotional action, no speech.
+- 0.0–3.0s — the radiant smile blooms with a genuine eye-crinkle as her gaze lifts to lens.
+- 3.0–6.0s — a soft exhale and a tiny confident chin-lift, the fingertips settling at the jaw, the expression holding warm and open. One clean emotional action, no speech.
 
 LIGHTING: beauty key wrapping the face with clamshell fill; a gentle catchlight travelling across the iris as the eyes lift; hair-light steady; paper-flower wall one stop down.
 
 ENVIRONMENT: paper-bloom garden studio, faint warm colour-haze.
 
-AUDIO: fully silent reel — no spoken word, no mouthed line, no in-clip music. Diegetic and design only: intimate room-tone bed; a soft audible breath near 2.2s; a delicate warm petal-swell design accent near 1.0s timed to the smile bloom (subtle, long-soft tail); a faint paper-flex settle near 3.0s. External master reaches its warmest, fullest-but-restrained level under this crest.
+AUDIO: fully silent reel — no spoken word, no mouthed line, no in-clip music. Diegetic and design only: intimate room-tone bed; a soft audible breath near 3.3s; a delicate warm petal-swell design accent near 1.5s timed to the smile bloom (subtle, long-soft tail); a faint paper-flex settle near 4.5s. External master reaches its warmest, fullest-but-restrained level under this crest.
 
 DURATION: 4 seconds (0:16 to 0:20 of 30s total).
 
@@ -3423,15 +3423,15 @@ CAMERA MOVEMENT: a smooth graphic 3D orbit of about 20° around her as the bloom
 LENS: 35mm, f/3.5.
 
 SUBJECT ACTION WITH TIMING:
-- 0.0–2.0s — Aira sweeps her arms outward and the pop-up kirigami flowers spring open around her in fanned arcs.
-- 2.0–3.5s — the bloom reaches its luminous peak, paper-flecks spiralling, her awe-struck joyful smile at full bloom.
-- 3.5–5.0s — the flowers hold and begin a gentle settle as the flecks drift. PEAK keyframe locked; identity fixed throughout.
+- 0.0–2.4s — Aira sweeps her arms outward and the pop-up kirigami flowers spring open around her in fanned arcs.
+- 2.4–4.2s — the bloom reaches its luminous peak, paper-flecks spiralling, her awe-struck joyful smile at full bloom.
+- 4.2–6.0s — the flowers hold and begin a gentle settle as the flecks drift. PEAK keyframe locked; identity fixed throughout.
 
-LIGHTING: beauty key with clamshell fill; the bloom-burst acting as a live wrapping warm bounce; a bright bounce pulse at the 2.0s peak; soft sheen chasing across surfaces; hair-light steady; paper-flower wall one stop down.
+LIGHTING: beauty key with clamshell fill; the bloom-burst acting as a live wrapping warm bounce; a bright bounce pulse at the 2.4s peak; soft sheen chasing across surfaces; hair-light steady; paper-flower wall one stop down.
 
 ENVIRONMENT: paper-bloom garden studio overswept by the radiant pop-up bloom and spiralling paper-flecks.
 
-AUDIO: fully silent reel — no spoken word, no in-clip music. Diegetic and design only: room-tone bed; a soft airy magical bloom-whoosh rising from 0.2 to 2.0s into the burst (gentle swell, no harsh transient); a delicate flurry of crisp paper-spring and flutter ticks peaking near 2.0s and drifting out to 4.5s (layered, soft tails); a soft awe-breath near 1.8s; a faint petal-skirt flare-rustle near 1.2s. External master reaches its fullest-but-still-controlled crest here, then begins easing.
+AUDIO: fully silent reel — no spoken word, no in-clip music. Diegetic and design only: room-tone bed; a soft airy magical bloom-whoosh rising from 0.2 to 2.4s into the burst (gentle swell, no harsh transient); a delicate flurry of crisp paper-spring and flutter ticks peaking near 2.4s and drifting out to 5.4s (layered, soft tails); a soft awe-breath near 2.2s; a faint petal-skirt flare-rustle near 1.4s. External master reaches its fullest-but-still-controlled crest here, then begins easing.
 
 DURATION: 5 seconds (0:20 to 0:25 of 30s total).
 
@@ -3499,14 +3499,14 @@ CAMERA MOVEMENT: a gentle 6% settle-back that returns the framing to the Frame 1
 LENS: 50mm, f/2.8.
 
 SUBJECT ACTION WITH TIMING:
-- 0.0–2.5s — the last paper-flecks settle as Aira eases her arms back in and re-cradles the petal compact at collarbone height.
-- 2.5–5.0s — she resolves into the calm hero pose with the warm quarter-smile and a soft settling exhale, gaze direct to lens — the final composition matching Frame 1 exactly so the reel loops cleanly into the top.
+- 0.0–3.0s — the last paper-flecks settle as Aira eases her arms back in and re-cradles the petal compact at collarbone height.
+- 3.0–6.0s — she resolves into the calm hero pose with the warm quarter-smile and a soft settling exhale, gaze direct to lens — the final composition matching Frame 1 exactly so the reel loops cleanly into the top.
 
 LIGHTING: beauty key with clamshell fill (matched to Frame 1); soft speculars settling on the compact lid; hair-light steady; paper-flower wall one stop down.
 
 ENVIRONMENT: paper-bloom garden studio, last paper-flecks fading, calm restored.
 
-AUDIO: fully silent reel — no spoken word, no in-clip music. Diegetic and design only: room-tone bed easing back to the calm opening level; a soft compact-click as fingers re-settle on the lid near 3.0s (gentle, short tail, mirroring Frame 1's click); a faint paper-flex settle near 2.0s; a soft settling breath near 4.0s; a last delicate petal-fade near 1.0s. External master resolves warm and open, easing back so the track restarts cleanly into Frame 1.
+AUDIO: fully silent reel — no spoken word, no in-clip music. Diegetic and design only: room-tone bed easing back to the calm opening level; a soft compact-click as fingers re-settle on the lid near 3.6s (gentle, short tail, mirroring Frame 1's click); a faint paper-flex settle near 2.4s; a soft settling breath near 4.8s; a last delicate petal-fade near 1.2s. External master resolves warm and open, easing back so the track restarts cleanly into Frame 1.
 
 DURATION: 5 seconds (0:25 to 0:30 of 30s total).
 
@@ -3634,14 +3634,14 @@ CAMERA MOVEMENT: a single slow 8% push-in across the clip, otherwise locked-off 
 LENS: 50mm, f/2.8, smooth creamy candy background fall-off.
 
 SUBJECT ACTION WITH TIMING:
-- 0.0–2.5s — Aira tilts the bubble-vial a few degrees into the key, speculars sliding across the rounded glass and the gloss settling inside.
-- 2.5–5.0s — she lifts her eyes to lens on a soft inhale as the playful quarter-smile blooms. One clean action, real physics throughout.
+- 0.0–3.0s — Aira tilts the bubble-vial a few degrees into the key, speculars sliding across the rounded glass and the gloss settling inside.
+- 3.0–6.0s — she lifts her eyes to lens on a soft inhale as the playful quarter-smile blooms. One clean action, real physics throughout.
 
 LIGHTING: clamshell beauty key with lifted clean fill; live moving speculars across glass, chrome and mylar; balloon wall held one stop down; hair-light steady on the bubble-bun.
 
 ENVIRONMENT: candy-chrome balloon studio, giant balloons drifting gently and a faint candy colour-haze, glossy mirror-floor reflection.
 
-AUDIO: fully silent reel — no spoken word, no music in-clip. Diegetic and design only: low warm studio room tone bed; a soft glass-tap as fingers settle on the vial near 0.4s (gentle attack, short tail); a faint mylar-shift squeak near 2.6s; a light airy candy-shimmer accent near 3.8s timed to the eye-lift; a soft audible breath near 2.5s. The external master track sits low and bouncy under this frame.
+AUDIO: fully silent reel — no spoken word, no music in-clip. Diegetic and design only: low warm studio room tone bed; a soft glass-tap as fingers settle on the vial near 0.5s (gentle attack, short tail); a faint mylar-shift squeak near 3.1s; a light airy candy-shimmer accent near 4.6s timed to the eye-lift; a soft audible breath near 3.0s. The external master track sits low and bouncy under this frame.
 
 DURATION: 5 seconds (0:00 to 0:05 of 30s total).
 
@@ -3781,14 +3781,14 @@ CAMERA MOVEMENT: a single slow rack-focus pull (product to eye) with a 5% drift-
 LENS: 90mm macro, f/3.2.
 
 SUBJECT ACTION WITH TIMING:
-- 0.0–1.5s — Aira slowly rotates the bubble-vial, gloss and speculars catching light as focus holds on the glass.
-- 1.5–3.0s — focus racks smoothly to her near eye as she lifts her gaze and the playful half-smile settles. One clean action, real physics.
+- 0.0–3.0s — Aira slowly rotates the bubble-vial, gloss and speculars catching light as focus holds on the glass.
+- 3.0–6.0s — focus racks smoothly to her near eye as she lifts her gaze and the playful half-smile settles. One clean action, real physics.
 
 LIGHTING: beauty key with clamshell fill; live soft speculars sliding across glass and cap through the rotation; hair-light steady; balloon wall down one stop.
 
 ENVIRONMENT: candy-chrome balloon studio, faint candy colour-haze and glossy mirror-floor.
 
-AUDIO: fully silent reel — no spoken word, no in-clip music. Diegetic and design only: room-tone bed; a soft glass-rotate tick near 0.8s (gentle, short); a delicate candy-shimmer accent near 1.6s timed to the focus-rack; a light breath near 1.5s. External master holds low and bouncy.
+AUDIO: fully silent reel — no spoken word, no in-clip music. Diegetic and design only: room-tone bed; a soft glass-rotate tick near 1.6s (gentle, short); a delicate candy-shimmer accent near 3.2s timed to the focus-rack; a light breath near 3.0s. External master holds low and bouncy.
 
 DURATION: 3 seconds (0:11 to 0:14 of 30s total).
 
@@ -3854,14 +3854,14 @@ CAMERA MOVEMENT: a slow 6% glide-down following the styling line; one move, no c
 LENS: 50mm, f/3.2.
 
 SUBJECT ACTION WITH TIMING:
-- 0.0–1.5s — Aira eases her weight onto one chrome heel and points the other foot to show the platform as the cuff catches light.
-- 1.5–3.0s — the chrome heart earring swings and settles, a soft confident half-smile holding. One clean action, real physics.
+- 0.0–3.0s — Aira eases her weight onto one chrome heel and points the other foot to show the platform as the cuff catches light.
+- 3.0–6.0s — the chrome heart earring swings and settles, a soft confident half-smile holding. One clean action, real physics.
 
 LIGHTING: beauty key with clamshell fill; a crisp edge-light travelling on the chrome; hair-light steady; wall one stop down.
 
 ENVIRONMENT: candy-chrome balloon studio, glossy mirror-floor doubling the heels.
 
-AUDIO: fully silent reel — no spoken word, no in-clip music. Diegetic and design only: room-tone bed; a soft chrome heel-tap near 0.6s (gentle, short); a faint cuff-glint shimmer near 1.4s; a light breath near 1.8s. External master holds bouncy and low.
+AUDIO: fully silent reel — no spoken word, no in-clip music. Diegetic and design only: room-tone bed; a soft chrome heel-tap near 1.2s (gentle, short); a faint cuff-glint shimmer near 2.8s; a light breath near 3.6s. External master holds bouncy and low.
 
 DURATION: 3 seconds (0:14 to 0:17 of 30s total).
 
@@ -3927,14 +3927,14 @@ CAMERA MOVEMENT: a near-imperceptible 4% push-in only; effectively locked to let
 LENS: 85mm, f/2.5.
 
 SUBJECT ACTION WITH TIMING:
-- 0.0–1.5s — the radiant smile blooms with a genuine eye-crinkle as her gaze lifts to lens.
-- 1.5–3.0s — a soft exhale and a tiny confident chin-lift, the fingertips settling at the jaw, the expression holding warm and open. One clean emotional action, no speech.
+- 0.0–3.0s — the radiant smile blooms with a genuine eye-crinkle as her gaze lifts to lens.
+- 3.0–6.0s — a soft exhale and a tiny confident chin-lift, the fingertips settling at the jaw, the expression holding warm and open. One clean emotional action, no speech.
 
 LIGHTING: beauty key wrapping the face with clamshell fill; a gentle catchlight travelling across the iris as the eyes lift; hair-light steady; wall one stop down.
 
 ENVIRONMENT: candy-chrome balloon studio, faint candy colour-haze and glossy mirror-floor.
 
-AUDIO: fully silent reel — no spoken word, no mouthed line, no in-clip music. Diegetic and design only: intimate room-tone bed; a soft audible breath near 1.6s; a delicate warm candy-shimmer swell near 0.8s timed to the smile bloom (subtle, long-soft tail); a faint mylar settle near 2.4s. External master reaches its warmest, fullest-but-restrained level under this crest.
+AUDIO: fully silent reel — no spoken word, no mouthed line, no in-clip music. Diegetic and design only: intimate room-tone bed; a soft audible breath near 3.2s; a delicate warm candy-shimmer swell near 1.6s timed to the smile bloom (subtle, long-soft tail); a faint mylar settle near 4.8s. External master reaches its warmest, fullest-but-restrained level under this crest.
 
 DURATION: 3 seconds (0:17 to 0:20 of 30s total).
 
@@ -4002,16 +4002,16 @@ CAMERA MOVEMENT: a slow majestic push-in with a gentle rise ( + slight boom) tra
 LENS: 35mm, f/2.0.
 
 SUBJECT ACTION WITH TIMING:
-- 0.0–0.4s — a single hero balloon at her shoulder swells and catches a bright bloom.
-- 0.4–1.6s — the burst races outward balloon to balloon into a spray of mirror foil-shards and candy confetti as the camera rises.
-- 1.6–3.0s — confetti and chrome glitter swirl outward along real air-currents as Aira lifts her eyes into the supernova, her radiant smile landing.
-- 3.0–4.0s — she holds, haloed and triumphant, confetti drifting. Only the synchronized balloon-burst is impossible; all else real physics.
+- 0.0–0.6s — a single hero balloon at her shoulder swells and catches a bright bloom.
+- 0.6–2.4s — the burst races outward balloon to balloon into a spray of mirror foil-shards and candy confetti as the camera rises.
+- 2.4–4.5s — confetti and chrome glitter swirl outward along real air-currents as Aira lifts her eyes into the supernova, her radiant smile landing.
+- 4.5–6.0s — she holds, haloed and triumphant, confetti drifting. Only the synchronized balloon-burst is impossible; all else real physics.
 
 LIGHTING: the burst lifted as a live key over the studio beauty light, bright backlight rim, confetti-and-foil bounce rising; controlled, no clipping.
 
 ENVIRONMENT: studio alive with bursting chrome-and-candy balloons, chrome glitter streaming, swirling and trailing candy confetti, glossy mirror-floor doubling the spectacle.
 
-AUDIO: fully silent reel — no spoken word, no in-clip music. Diegetic and design only: room-tone bed; a soft balloon-swell creak 0.0 to 0.4s; a bright airy cluster of soft foil-pop and confetti-spray ticks 0.4 to 1.6s timed to the burst (layered, short tails, never harsh); a gentle chrome-shimmer settle 1.2 to 3.0s; a soft powerful breath near 1.6s. External master rises to its fullest-but-still-restrained moment under the burst then eases.
+AUDIO: fully silent reel — no spoken word, no in-clip music. Diegetic and design only: room-tone bed; a soft balloon-swell creak 0.0 to 0.6s; a bright airy cluster of soft foil-pop and confetti-spray ticks 0.4 to 2.4s timed to the burst (layered, short tails, never harsh); a gentle chrome-shimmer settle 1.2 to 4.5s; a soft powerful breath near 2.4s. External master rises to its fullest-but-still-restrained moment under the burst then eases.
 
 DURATION: 4 seconds (0:20 to 0:24 of 30s total).
 
@@ -4077,14 +4077,14 @@ CAMERA MOVEMENT: a gentle 5% ease-down settling from the burst rise; one smooth 
 LENS: 40mm, f/2.2.
 
 SUBJECT ACTION WITH TIMING:
-- 0.0–1.5s — the confetti supernova eases to a soft drifting halo as Aira lowers her arms and her serene smile settles.
-- 1.5–3.0s — she eases toward a calm upright hero stance, confetti drifting past, holding luminous and composed. One clean settling action, real physics.
+- 0.0–3.0s — the confetti supernova eases to a soft drifting halo as Aira lowers her arms and her serene smile settles.
+- 3.0–6.0s — she eases toward a calm upright hero stance, confetti drifting past, holding luminous and composed. One clean settling action, real physics.
 
 LIGHTING: studio beauty light easing back, warm rim holding her in the thinning sparkle, soft confetti bounce; steady, no flicker.
 
 ENVIRONMENT: the studio calming, last balloons spent, chrome glitter thinning, glossy mirror-floor doubling the soft sparkle.
 
-AUDIO: fully silent reel — no spoken word, no in-clip music. Diegetic and design only: room-tone bed; a soft confetti-flutter settle 0.0 to 1.5s; a gentle chrome-shimmer thinning to near-silence by 2.5s; a soft calm breath near 1.8s. External master eases down from the burst toward its calm bed.
+AUDIO: fully silent reel — no spoken word, no in-clip music. Diegetic and design only: room-tone bed; a soft confetti-flutter settle 0.0 to 3.0s; a gentle chrome-shimmer thinning to near-silence by 5.0s; a soft calm breath near 3.6s. External master eases down from the burst toward its calm bed.
 
 DURATION: 3 seconds (0:24 to 0:27 of 30s total).
 
@@ -4152,14 +4152,14 @@ CAMERA MOVEMENT: a slow settle back to the F1 start position (gentle reverse of 
 LENS: 50mm, f/2.8.
 
 SUBJECT ACTION WITH TIMING:
-- 0.0–1.5s — the last confetti drifts down as Aira settles the bubble-vial back to chest height and begins easing toward her opening posture.
-- 1.5–3.0s — a soft serene smile eases in, the studio settling fully to its calm F1 look, and she lands exactly on the opening posture, framing and headroom for the seamless hand-back to Frame 1. Real physics, one calm settling move, no jarring cut.
+- 0.0–3.0s — the last confetti drifts down as Aira settles the bubble-vial back to chest height and begins easing toward her opening posture.
+- 3.0–6.0s — a soft serene smile eases in, the studio settling fully to its calm F1 look, and she lands exactly on the opening posture, framing and headroom for the seamless hand-back to Frame 1. Real physics, one calm settling move, no jarring cut.
 
 LIGHTING: the studio beauty light easing back to the F1 direction and intensity, clamshell fill, hair-light steady; no flicker, matched to the opening.
 
 ENVIRONMENT: the studio resolving to the calm opening look — balloons steadying, chrome glitter thinning to the F1 air, glossy mirror-floor calm.
 
-AUDIO: fully silent reel — no spoken word, no in-clip music. Diegetic and design only: room-tone bed; a soft settling confetti-flutter 0.0 to 1.5s; a gentle glass-settle as the bubble-vial comes to rest near 2.0s; the candy-shimmer thinning to near-silence by 2.6s for a clean loop point; a soft quiet breath near 2.2s. External master resolves its phrase and eases to the low bouncy bed, landing soft so the loop back to Frame 1 is seamless (subtle, never full).
+AUDIO: fully silent reel — no spoken word, no in-clip music. Diegetic and design only: room-tone bed; a soft settling confetti-flutter 0.0 to 3.0s; a gentle glass-settle as the bubble-vial comes to rest near 4.0s; the candy-shimmer thinning to near-silence by 5.2s for a clean loop point; a soft quiet breath near 4.4s. External master resolves its phrase and eases to the low bouncy bed, landing soft so the loop back to Frame 1 is seamless (subtle, never full).
 
 DURATION: 3 seconds (0:27 to 0:30 of 30s total).
 
@@ -4287,14 +4287,14 @@ CAMERA MOVEMENT: a single slow 8% push-in across the clip, otherwise locked-off 
 LENS: 50mm, f/2.8, smooth creamy fall-off with soft rainbow bokeh.
 
 SUBJECT ACTION WITH TIMING:
-- 0.0–2.5s — Aira tilts the faceted bottle a few degrees into a prism beam, tiny rainbows sweeping across the chrome behind her and the pearlescent liquid settling inside.
-- 2.5–5.0s — she lifts her eyes to lens on a soft inhale as the confident asymmetric quarter-smile blooms. One clean action, real physics throughout.
+- 0.0–3.0s — Aira tilts the faceted bottle a few degrees into a prism beam, tiny rainbows sweeping across the chrome behind her and the pearlescent liquid settling inside.
+- 3.0–6.0s — she lifts her eyes to lens on a soft inhale as the confident asymmetric quarter-smile blooms. One clean action, real physics throughout.
 
 LIGHTING: clamshell beauty key with lifted clean fill; live moving prismatic speculars across the facets as the bottle tips; crossing prism beams steady; hair-light steady on the chrome-glass waves.
 
 ENVIRONMENT: mirror-prism studio, drifting refracted rainbows, faint prismatic haze.
 
-AUDIO: fully silent reel — no spoken word, no music in-clip. Diegetic and design only: low warm studio room-tone bed; a soft crystalline glass-tap as fingers settle on the facets near 0.4s (gentle attack, short tail); a faint mirror-foil shift near 2.6s; a light airy crystalline shimmer accent near 3.8s timed to the eye-lift; a soft audible breath near 2.5s. The external master track sits low and cool under this frame.
+AUDIO: fully silent reel — no spoken word, no music in-clip. Diegetic and design only: low warm studio room-tone bed; a soft crystalline glass-tap as fingers settle on the facets near 0.5s (gentle attack, short tail); a faint mirror-foil shift near 3.1s; a light airy crystalline shimmer accent near 4.6s timed to the eye-lift; a soft audible breath near 3.0s. The external master track sits low and cool under this frame.
 
 DURATION: 5 seconds (0:00 to 0:05 of 30s total).
 
@@ -4302,7 +4302,7 @@ FRAME RATE + MOTION BLUR: 24fps acquisition, 180° shutter, natural motion blur 
 
 LIP-SYNC: none — lips closed or softly parted, composed.
 
-NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame skip, mirrored composition, text overlay, watermark, AI artifact, ghosting, lip-sync drift, audio desync, wardrobe drift between shots, unmotivated camera shake, physics violation (liquid/hair/foil/glass), mannequin posture, frozen background, identity flicker, dull flat foil, heterochromia, eye-colour drift, muddy [colour.IO](http://colour.IO): fully silent reel — no spoken word, no in-clip music. Diegetic and design only: a soft settling confetti-flutter 0.0 to 1.5s; a gentle glass-settle as the vial comes to rest near 1.8s; the chrome-shimmer thinning to silence by 2.6s for a clean loop point; a soft quiet breath near 2.0s. External master resolves its phrase and eases to the low bouncy bed, landing soft so the loop back to Frame 1 is seamless (subtle, never full).
+NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame skip, mirrored composition, text overlay, watermark, AI artifact, ghosting, lip-sync drift, audio desync, wardrobe drift between shots, unmotivated camera shake, physics violation (liquid/hair/foil/glass), mannequin posture, frozen background, identity flicker, dull flat foil, heterochromia, eye-colour drift, muddy [colour.IO](http://colour.IO): fully silent reel — no spoken word, no in-clip music. Diegetic and design only: a soft settling confetti-flutter 0.0 to 1.8s; a gentle glass-settle as the vial comes to rest near 2.2s; the chrome-shimmer thinning to silence by 3.1s for a clean loop point; a soft quiet breath near 2.4s. External master resolves its phrase and eases to the low bouncy bed, landing soft so the loop back to Frame 1 is seamless (subtle, never full).
 
 DURATION: 3 seconds (0:27 to 0:30 of 30s total).
 

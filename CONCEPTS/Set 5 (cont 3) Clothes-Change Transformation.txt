@@ -106,15 +106,15 @@ SHOT TYPE: medium close rising to medium, subject fills about 55% of the vertica
 
 CAMERA MOVEMENT: a single slow 6% push-in across the clip, otherwise locked-off and stable — one move only, no whip, no handoff.
 
-SUBJECT ACTION WITH TIMING: 0.0–2.0s — Aira holds the confident freeze, eyes locked to lens with the knowing quarter-smile, the Prism clutch glinting at her hip, baby-hair drifting; 2.0–4.0s — she raises her hand and lands a crisp finger-snap, chin tipping a degree as the studio light pulses on the click — the trigger for the first change. One clean subject action, real physics throughout.
+SUBJECT ACTION WITH TIMING: 0.0–3.0s — Aira holds the confident freeze, eyes locked to lens with the knowing quarter-smile, the Prism clutch glinting at her hip, baby-hair drifting; 3.0–6.0s — she raises her hand and lands a crisp finger-snap, chin tipping a degree as the studio light pulses on the click — the trigger for the first change. One clean subject action, real physics throughout.
 
 LENS: 50mm, f/2.8, smooth creamy background fall-off.
 
-LIGHTING: clamshell beauty key with lifted clean fill; live moving speculars travelling across the clutch facets; tangerine seamless one stop down; hot-pink rim steady on the pony; a soft light-pulse synced to the snap at 2.0s.
+LIGHTING: clamshell beauty key with lifted clean fill; live moving speculars travelling across the clutch facets; tangerine seamless one stop down; hot-pink rim steady on the pony; a soft light-pulse synced to the snap at 3.0s.
 
 ENVIRONMENT: tangerine pop seamless studio, high-gloss mirror floor reflection, faint warm haze.
 
-AUDIO: silent of any voice — NO spoken word, NO vocal of any kind. Ambient bed — a low warm studio room tone throughout. SFX — a soft fabric settle at 0.4s, a crisp clean finger-snap at 2.0s (sharp transient, short tail) with a subtle airy light-whoosh tail as the light pulses. Reaction — a soft confident breath at 1.8s. VO — none.
+AUDIO: silent of any voice — NO spoken word, NO vocal of any kind. Ambient bed — a low warm studio room tone throughout. SFX — a soft fabric settle at 0.6s, a crisp clean finger-snap at 3.0s (sharp transient, short tail) with a subtle airy light-whoosh tail as the light pulses. Reaction — a soft confident breath at 2.7s. VO — none.
 
 DURATION: 4 seconds (0:00–0:04 of 30s total).
 
@@ -181,7 +181,7 @@ SHOT TYPE: medium, waist-up, subject filling about 55% of the vertical frame.
 
 CAMERA MOVEMENT: a slow 5% whip-pan following the spin then resettling locked (single move), no cut — one continuous take through the change.
 
-SUBJECT ACTION WITH TIMING: 0.0–1.0s — off the snap she launches a fast 180° whip-spin, the tangerine look streaking into motion-blur; 1.0–2.5s — at the blur-peak the wardrobe, footwear, accessories, hair and makeup-accent all flip from Look A to the Liquid Cyan look, the seamless re-gelling tangerine to cyan (face pin-locked throughout); 2.5–5.0s — she resolves out of the spin facing lens in the liquid-sequin gown, the gown and chokers settling, the Prism clutch landing at her hip with a glint. One clean cause→effect change, real spin physics throughout.
+SUBJECT ACTION WITH TIMING: 0.0–1.2s — off the snap she launches a fast 180° whip-spin, the tangerine look streaking into motion-blur; 1.2–3.0s — at the blur-peak the wardrobe, footwear, accessories, hair and makeup-accent all flip from Look A to the Liquid Cyan look, the seamless re-gelling tangerine to cyan (face pin-locked throughout); 3.0–6.0s — she resolves out of the spin facing lens in the liquid-sequin gown, the gown and chokers settling, the Prism clutch landing at her hip with a glint. One clean cause→effect change, real spin physics throughout.
 
 LENS: 50mm, f/2.8, creamy cyan fall-off with directional motion-blur at the blur-peak.
 
@@ -189,7 +189,7 @@ LIGHTING: clamshell beauty key holding the face locked; tangerine practical fadi
 
 ENVIRONMENT: pop runway studio re-gelling tangerine → cyan, high-gloss mirror floor reflection.
 
-AUDIO: silent of any voice — NO spoken word, NO vocal of any kind. Ambient bed — a low warm studio room tone. SFX — a clean whoosh-swish as the spin launches at 0.1s, a soft fabric-flutter motion-rush through the blur, a crisp shimmering sequin-cascade tinkle at 2.3s as the cyan gown resolves, a light glassy clutch-glint tick at 3.0s as it lands. Reaction — a soft exhilarated breath at 2.4s. VO — none.
+AUDIO: silent of any voice — NO spoken word, NO vocal of any kind. Ambient bed — a low warm studio room tone. SFX — a clean whoosh-swish as the spin launches at 0.1s, a soft fabric-flutter motion-rush through the blur, a crisp shimmering sequin-cascade tinkle at 2.8s as the cyan gown resolves, a light glassy clutch-glint tick at 3.6s as it lands. Reaction — a soft exhilarated breath at 2.9s. VO — none.
 
 DURATION: 5 seconds (0:04–0:09 of 30s total).
 
@@ -254,7 +254,7 @@ SHOT TYPE: medium-full, subject filling about 70% of the vertical frame.
 
 CAMERA MOVEMENT: a slow 5% push-in settling on the pose (single move), otherwise locked — one continuous take, no cut.
 
-SUBJECT ACTION WITH TIMING: 0.0–1.5s — she settles the hip-led pose, the liquid-sequin gown rippling a light-wave as it stills, the clutch easing forward; 1.5–3.0s — she lifts her gaze to lens with a cool composed quarter-smile, the cyan crystal drops settling, a final sequin shimmer travelling the gown. One clean editorial action, real fabric physics.
+SUBJECT ACTION WITH TIMING: 0.0–3.0s — she settles the hip-led pose, the liquid-sequin gown rippling a light-wave as it stills, the clutch easing forward; 3.0–6.0s — she lifts her gaze to lens with a cool composed quarter-smile, the cyan crystal drops settling, a final sequin shimmer travelling the gown. One clean editorial action, real fabric physics.
 
 LENS: 50mm, f/2.8, creamy cyan fall-off with soft sequin bokeh.
 
@@ -262,7 +262,7 @@ LIGHTING: clamshell beauty key holding the face lit; cyan rim on the crown and g
 
 ENVIRONMENT: cyan pop runway studio, high-gloss mirror floor reflection.
 
-AUDIO: silent of any voice — NO spoken word, NO vocal of any kind. Ambient bed — a low warm studio room tone. SFX — a soft shimmering sequin-settle tinkle at 0.4s, a faint chrome-choker tick as it settles at 1.2s, a light airy cyan-shimmer accent at 2.0s timed to the gaze-lift. Reaction — a soft cool breath at 1.4s. VO — none.
+AUDIO: silent of any voice — NO spoken word, NO vocal of any kind. Ambient bed — a low warm studio room tone. SFX — a soft shimmering sequin-settle tinkle at 0.8s, a faint chrome-choker tick as it settles at 2.4s, a light airy cyan-shimmer accent at 4.0s timed to the gaze-lift. Reaction — a soft cool breath at 2.8s. VO — none.
 
 DURATION: 3 seconds (0:09–0:12 of 30s total).
 
@@ -329,7 +329,7 @@ SHOT TYPE: medium-full, subject filling about 70% of the vertical frame.
 
 CAMERA MOVEMENT: a slow 5% push-in steady through the cascade (single move), no cut — one continuous take through the change.
 
-SUBJECT ACTION WITH TIMING: 0.0–1.0s — she lifts a conducting hand and a wave of glossy split-flap panels begins rippling down from her shoulders; 1.0–3.0s — the panels flip top-to-bottom in a clean cascade, the wardrobe, footwear, accessories, hair-styling and makeup-accent all locking from the cyan look into the Ultraviolet Latex look (face pin-locked, panels never crossing the face), the seamless re-gelling cyan to ultraviolet; 3.0–5.0s — the final lower row flips, the magenta boots lock, and she settles into a confident planted stance as the look completes. One clean cause→effect change, real mechanical flip physics throughout.
+SUBJECT ACTION WITH TIMING: 0.0–1.2s — she lifts a conducting hand and a wave of glossy split-flap panels begins rippling down from her shoulders; 1.2–3.6s — the panels flip top-to-bottom in a clean cascade, the wardrobe, footwear, accessories, hair-styling and makeup-accent all locking from the cyan look into the Ultraviolet Latex look (face pin-locked, panels never crossing the face), the seamless re-gelling cyan to ultraviolet; 3.6–6.0s — the final lower row flips, the magenta boots lock, and she settles into a confident planted stance as the look completes. One clean cause→effect change, real mechanical flip physics throughout.
 
 LENS: 50mm, f/2.8, creamy ultraviolet fall-off.
 
@@ -337,7 +337,7 @@ LIGHTING: clamshell beauty key holding the face locked; cyan practical fading to
 
 ENVIRONMENT: pop runway studio re-gelling cyan → ultraviolet, high-gloss mirror floor reflection.
 
-AUDIO: silent of any voice — NO spoken word, NO vocal of any kind. Ambient bed — a low warm studio room tone. SFX — a rapid satisfying mechanical flip-board flutter cascading from 0.4s (crisp clacking panels, top-to-bottom), a soft latex-settle creak at 3.0s as the look locks, a glossy boot-plant tick at 3.4s. Reaction — a soft delighted breath at 3.2s. VO — none.
+AUDIO: silent of any voice — NO spoken word, NO vocal of any kind. Ambient bed — a low warm studio room tone. SFX — a rapid satisfying mechanical flip-board flutter cascading from 0.5s (crisp clacking panels, top-to-bottom), a soft latex-settle creak at 3.6s as the look locks, a glossy boot-plant tick at 4.1s. Reaction — a soft delighted breath at 3.8s. VO — none.
 
 DURATION: 5 seconds (0:12–0:17 of 30s total).
 
@@ -402,7 +402,7 @@ SHOT TYPE: medium-full, subject filling about 70% of the vertical frame.
 
 CAMERA MOVEMENT: a slow 5% push-in settling on the power pose (single move), otherwise locked — one continuous take, no cut.
 
-SUBJECT ACTION WITH TIMING: 0.0–1.5s — she snaps into the wide power stance, the latex catching a hard specular-slide, the clutch angling sharp; 1.5–3.0s — she locks a fierce gaze to lens, one brow lifting in challenge, the bangles settling, a final ultraviolet sheen travelling the shoulder-line. One clean editorial action, real latex physics.
+SUBJECT ACTION WITH TIMING: 0.0–3.0s — she snaps into the wide power stance, the latex catching a hard specular-slide, the clutch angling sharp; 3.0–6.0s — she locks a fierce gaze to lens, one brow lifting in challenge, the bangles settling, a final ultraviolet sheen travelling the shoulder-line. One clean editorial action, real latex physics.
 
 LENS: 50mm, f/2.8, creamy ultraviolet fall-off.
 
@@ -410,7 +410,7 @@ LIGHTING: clamshell beauty key holding the face lit; magenta rim hard-edging the
 
 ENVIRONMENT: ultraviolet pop runway studio, high-gloss mirror floor reflection.
 
-AUDIO: silent of any voice — NO spoken word, NO vocal of any kind. Ambient bed — a low warm studio room tone. SFX — a crisp latex-settle creak at 0.4s as the stance snaps, a faint acrylic-bangle clack at 1.2s, a low electric sub-bass swell rising to a soft accent at 2.4s timed to the gaze-lock. Reaction — a slow powerful breath at 1.5s. VO — none.
+AUDIO: silent of any voice — NO spoken word, NO vocal of any kind. Ambient bed — a low warm studio room tone. SFX — a crisp latex-settle creak at 0.8s as the stance snaps, a faint acrylic-bangle clack at 2.4s, a low electric sub-bass swell rising to a soft accent at 4.8s timed to the gaze-lock. Reaction — a slow powerful breath at 3.0s. VO — none.
 
 DURATION: 3 seconds (0:17–0:20 of 30s total).
 
@@ -477,7 +477,7 @@ SHOT TYPE: medium-full, subject filling about 65% of the vertical frame.
 
 CAMERA MOVEMENT: a slow 6% rise-with-the-bloom (subtle crane-up following the ribbons, single move), no cut — one continuous take through the magic.
 
-SUBJECT ACTION WITH TIMING: 0.0–1.0s — from the power pose she lifts an arm and the first gold light-ribbons spiral up from the floor; 1.0–3.0s — the ribbons bloom up around her body wrapping the ultraviolet away and resolving the molten-gold gown, footwear, accessories, hair-styling and makeup-accent (face pin-locked, ribbons never crossing the face), gold sparks suspending in the air, the seamless re-gelling ultraviolet to gold; 3.0–5.0s — the last ribbons settle into the draped gold gown, she rises onto the balls of her feet into the finished finale glow. The light-ribbons spiral upward against gravity (the one permitted impossible beat); all fabric, metal and hair physics otherwise real.
+SUBJECT ACTION WITH TIMING: 0.0–1.2s — from the power pose she lifts an arm and the first gold light-ribbons spiral up from the floor; 1.2–3.6s — the ribbons bloom up around her body wrapping the ultraviolet away and resolving the molten-gold gown, footwear, accessories, hair-styling and makeup-accent (face pin-locked, ribbons never crossing the face), gold sparks suspending in the air, the seamless re-gelling ultraviolet to gold; 3.6–6.0s — the last ribbons settle into the draped gold gown, she rises onto the balls of her feet into the finished finale glow. The light-ribbons spiral upward against gravity (the one permitted impossible beat); all fabric, metal and hair physics otherwise real.
 
 LENS: 50mm, f/2.8, creamy gold fall-off with warm sparkle bokeh.
 
@@ -485,7 +485,7 @@ LIGHTING: clamshell beauty key holding the face locked; ultraviolet practical fa
 
 ENVIRONMENT: pop runway studio re-gelling ultraviolet → warm gold, high-gloss mirror floor reflection catching the glow.
 
-AUDIO: silent of any voice — NO spoken word, NO vocal of any kind. Ambient bed — a low warm studio room tone. SFX — a soft rising shimmering whoosh as the ribbons bloom from 0.6s (airy, ascending), a delicate crystalline sparkle-suspension twinkle at 2.2s as the sparks hang, a warm liquid-metal settle-chime at 3.2s as the gown locks, a soft gold-sandal tap at 3.6s. Reaction — a soft awed breath at 2.4s. VO — none.
+AUDIO: silent of any voice — NO spoken word, NO vocal of any kind. Ambient bed — a low warm studio room tone. SFX — a soft rising shimmering whoosh as the ribbons bloom from 0.7s (airy, ascending), a delicate crystalline sparkle-suspension twinkle at 2.6s as the sparks hang, a warm liquid-metal settle-chime at 3.8s as the gown locks, a soft gold-sandal tap at 4.3s. Reaction — a soft awed breath at 2.9s. VO — none.
 
 DURATION: 5 seconds (0:20–0:25 of 30s total).
 
@@ -550,7 +550,7 @@ SHOT TYPE: medium-full, subject filling about 70% of the vertical frame.
 
 CAMERA MOVEMENT: a slow 5% push-in settling on the finale (single move), otherwise locked — one continuous take, no cut.
 
-SUBJECT ACTION WITH TIMING: 0.0–1.5s — she settles the tall hero stance, the gold gown catching a molten specular-slide, the clutch rising into the triumphant hero-line; 1.5–3.0s — a radiant confident smile blooms to lens, both brows lifting in triumph, the gold earrings settling, a final molten sheen travelling the gown. One clean editorial action, real liquid-metal physics.
+SUBJECT ACTION WITH TIMING: 0.0–3.0s — she settles the tall hero stance, the gold gown catching a molten specular-slide, the clutch rising into the triumphant hero-line; 3.0–6.0s — a radiant confident smile blooms to lens, both brows lifting in triumph, the gold earrings settling, a final molten sheen travelling the gown. One clean editorial action, real liquid-metal physics.
 
 LENS: 50mm, f/2.8, creamy gold fall-off with warm bokeh.
 
@@ -558,7 +558,7 @@ LIGHTING: clamshell beauty key holding the face radiant; warm gold rim edging th
 
 ENVIRONMENT: warm gold pop runway studio, high-gloss mirror floor reflection.
 
-AUDIO: silent of any voice — NO spoken word, NO vocal of any kind. Ambient bed — a low warm studio room tone. SFX — a warm liquid-metal shimmer-settle at 0.4s, a faint gold-cuff tick at 1.2s, a bright triumphant sparkle-bloom accent at 2.2s timed to the smile, a soft clutch-glint chime at 2.8s. Reaction — a soft joyful breath at 1.5s. VO — none.
+AUDIO: silent of any voice — NO spoken word, NO vocal of any kind. Ambient bed — a low warm studio room tone. SFX — a warm liquid-metal shimmer-settle at 0.8s, a faint gold-cuff tick at 2.4s, a bright triumphant sparkle-bloom accent at 4.4s timed to the smile, a soft clutch-glint chime at 5.6s. Reaction — a soft joyful breath at 3.0s. VO — none.
 
 DURATION: 3 seconds (0:25–0:28 of 30s total).
 
@@ -625,7 +625,7 @@ SHOT TYPE: medium, waist-up, subject filling about 55% of the vertical frame —
 
 CAMERA MOVEMENT: a fast 5% whip-settle resolving to the exact Frame 1 framing (single move), no cut — the move ends precisely where Frame 1 begins for a seamless loop.
 
-SUBJECT ACTION WITH TIMING: 0.0–1.0s — the gold finale whip-flashes back into the Voltage Tangerine look in a single quick motion-blur (face pin-locked); 1.0–2.0s — she resolves onto the exact Frame 1 stance, expression and clutch position, the look fully matched so the next loop of Frame 1 continues invisibly. One clean cause→effect snap-back, real physics, ending on the precise Frame 1 beat.
+SUBJECT ACTION WITH TIMING: 0.0–3.0s — the gold finale whip-flashes back into the Voltage Tangerine look in a single quick motion-blur (face pin-locked); 3.0–6.0s — she resolves onto the exact Frame 1 stance, expression and clutch position, the look fully matched so the next loop of Frame 1 continues invisibly. One clean cause→effect snap-back, real physics, ending on the precise Frame 1 beat.
 
 LENS: 50mm, f/2.8, creamy coral-tangerine fall-off with a directional motion-blur on the snap.
 
@@ -633,7 +633,7 @@ LIGHTING: the exact Frame 1 clamshell beauty key; gold practical flashing back t
 
 ENVIRONMENT: coral-tangerine pop runway studio, high-gloss mirror floor reflection — matched to Frame 1.
 
-AUDIO: silent of any voice — NO spoken word, NO vocal of any kind. Ambient bed — a low warm studio room tone matched to Frame 1's tone for a seamless audio loop. SFX — a crisp reverse-whoosh snap-back at 0.1s, a soft satin-settle at 1.2s, a light clutch-glint tick at 1.6s matched to Frame 1's opening glass-tap so the audio loops cleanly. Reaction — a soft held breath at 1.4s matched to Frame 1. VO — none.
+AUDIO: silent of any voice — NO spoken word, NO vocal of any kind. Ambient bed — a low warm studio room tone matched to Frame 1's tone for a seamless audio loop. SFX — a crisp reverse-whoosh snap-back at 0.3s, a soft satin-settle at 3.6s, a light clutch-glint tick at 4.8s matched to Frame 1's opening glass-tap so the audio loops cleanly. Reaction — a soft held breath at 4.2s matched to Frame 1. VO — none.
 
 DURATION: 2 seconds (0:28–0:30 of 30s total).
 

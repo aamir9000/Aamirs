@@ -7893,7 +7893,7 @@ SHOT TYPE: medium, chest-up to the bowl; subject fills ≈50% of the vertical 9:
 
 CAMERA BODY & RIG: virtual full-frame cinema body on a fluid-head tripod with a subtle motorized dolly assist; sub-pixel stabilized; no handheld texture.
 
-CAMERA MOVEMENT (detailed): a single slow push-in easing 8% closer across the full 5s on an ease-in/ease-out curve (slow start, gentle mid-accel, soft settle); a foreground parapet edge slips past camera-left at ≈3% screen-width for parallax; zero roll, zero shake, no whip — the move reads as a held breath, not travel.
+CAMERA MOVEMENT (detailed): a single slow push-in easing 8% closer across the full 6.0s on an ease-in/ease-out curve (slow start, gentle mid-accel, soft settle); a foreground parapet edge slips past camera-left at ≈3% screen-width for parallax; zero roll, zero shake, no whip — the move reads as a held breath, not travel.
 
 LENS & OPTICS: 35mm full-frame equivalent, T2.2; subtle cyan flare allowed only on the brightest practical; faint natural vignette; clean coatings, no chromatic fringing.
 
@@ -8079,7 +8079,7 @@ CAMERA MOVEMENT (detailed): a slow ≈20° drift around her at constant speed, s
 
 LENS & OPTICS: 50mm, T2.2; controlled glow halation on the brightest rings; faint vignette; clean optics, no fringing.
 
-FOCUS BEHAVIOUR: focus held on her face plane; a single soft pull at 0:02.6 to a near light-flower for one beat (≈0.4s) then back to her by 0:03.4; smooth, deliberate.
+FOCUS BEHAVIOUR: focus held on her face plane; a single soft pull at 0:02.6 to a near light-flower for one beat (≈0.5s) then back to her by 0:03.4; smooth, deliberate.
 
 SUBJECT ACTION WITH TIMING (fine beats — VEO): 0:00.0–0:00.5 — opens already mid-bloom, rings expanding around her so the signature lands instantly; 0:00.5–0:01.6 — the bloom completes, every drop becoming a ring or a tiny light-flower; 0:01.6–0:02.6 — she lifts the glass bowl a touch and a cluster of light-flowers drifts toward it; 0:02.6–0:03.6 — her eyes sweep slowly across the glowing field, a soft awed breath, lashes settling; 0:03.6–0:04.4 — the rings ripple outward and gently fade-and-renew in a living rhythm; 0:04.4–0:05.0 — the field settles into a steady soft sparkle, holding the hero look.
 
@@ -8251,7 +8251,7 @@ NEGATIVE: mirrored, flipped, inverted, extra limbs, fused fingers, melted featur
 
 ## Frame 5 of 6 — VIDEO PROMPT
 
-CLIP SUMMARY: the world-expands crescendo — the whole rooftop and rain ignite into a soaring field of glowing light; energy hits its grandest ≈95% across a longer 6s beat.
+CLIP SUMMARY: the world-expands crescendo — the whole rooftop and rain ignite into a soaring field of glowing light; energy hits its grandest ≈95% across a longer 6.0s beat.
 
 SHOT TYPE: wider medium, hips-up; subject ≈45% of the 9:16 frame, anchored centre amid the field of light.
 
@@ -8485,7 +8485,7 @@ SHOT TYPE: medium, chest-up to the table edge; subject fills ≈52% of the verti
 
 CAMERA BODY & RIG: virtual full-frame cinema body on a fluid-head tripod with a subtle motorized dolly; sub-pixel stabilized; no handheld texture.
 
-CAMERA MOVEMENT (detailed): a single slow push-in easing 8% closer across the full 5s on an ease-in/ease-out curve (slow start, gentle mid-accel, soft settle); a foreground paper-edge slips past camera-left at ≈3% screen-width for parallax; zero roll, zero shake — the move reads as a held breath.
+CAMERA MOVEMENT (detailed): a single slow push-in easing 8% closer across the full 6.0s on an ease-in/ease-out curve (slow start, gentle mid-accel, soft settle); a foreground paper-edge slips past camera-left at ≈3% screen-width for parallax; zero roll, zero shake — the move reads as a held breath.
 
 LENS & OPTICS: 35mm full-frame equivalent, T2.2; a faint warm flare on the lamp only; gentle natural vignette; clean coatings, no chromatic fringing.
 
@@ -8671,7 +8671,7 @@ CAMERA MOVEMENT (detailed): a slow ≈20° drift around her at constant speed, s
 
 LENS & OPTICS: 50mm, T2.2; controlled glow halation on the brightest arms; faint vignette; clean optics, no fringing.
 
-FOCUS BEHAVIOUR: focus held on her face plane; a single soft pull at 0:02.6 up to the galaxy core for one beat (≈0.4s) then back to her by 0:03.4; smooth, deliberate.
+FOCUS BEHAVIOUR: focus held on her face plane; a single soft pull at 0:02.6 up to the galaxy core for one beat (≈0.5s) then back to her by 0:03.4; smooth, deliberate.
 
 SUBJECT ACTION WITH TIMING (fine beats — VEO): 0:00.0–0:00.5 — opens with the galaxy already hovering and turning so the signature lands instantly; 0:00.5–0:01.6 — the spiral completes its rise to hover above her hands, arms wheeling; 0:01.6–0:02.6 — she lifts her chin and her hands a touch, the galaxy answering with a slow brightening turn; 0:02.6–0:03.6 — her eyes sweep the wheeling arms, a soft awed breath, lashes settling; 0:03.6–0:04.4 — a few pinprick stars drift off the arms and fade; 0:04.4–0:05.0 — the galaxy settles into a steady slow spin, holding the hero look.
 
@@ -8845,7 +8845,7 @@ NEGATIVE: mirrored, flipped, inverted, extra limbs, fused fingers, melted featur
 
 ## Frame 5 of 7 — VIDEO PROMPT
 
-CLIP SUMMARY: the world-expands crescendo — the whole dome fills with hanging folded galaxies; energy hits its grandest ≈95% across a longer 6s beat.
+CLIP SUMMARY: the world-expands crescendo — the whole dome fills with hanging folded galaxies; energy hits its grandest ≈95% across a longer 6.0s beat.
 
 SHOT TYPE: wider medium, knees-up; subject ≈45% of the 9:16 frame, anchored centre amid the galaxies.
 
@@ -9168,7 +9168,7 @@ SHOT TYPE: medium-full, hips-up with mirror ground; subject fills ≈50% of the 
 
 CAMERA BODY & RIG: virtual full-frame cinema body on a fluid-head tripod with a subtle motorized dolly; sub-pixel stabilized; no handheld texture.
 
-CAMERA MOVEMENT (detailed): a single slow push-in easing 8% closer across the full 5s on an ease-in/ease-out curve; a foreground reflection on the mercury slides past camera-left at ≈3% screen-width for parallax; zero roll, zero shake — the move reads as a held breath.
+CAMERA MOVEMENT (detailed): a single slow push-in easing 8% closer across the full 6.0s on an ease-in/ease-out curve; a foreground reflection on the mercury slides past camera-left at ≈3% screen-width for parallax; zero roll, zero shake — the move reads as a held breath.
 
 LENS & OPTICS: 35mm full-frame equivalent, T2.5; a faint cool flare on the brightest sky-reflection only; gentle natural vignette; clean coatings, no chromatic fringing.
 
@@ -9445,7 +9445,7 @@ CAMERA MOVEMENT (detailed): a slow ≈18° arc around her at constant speed, sof
 
 LENS & OPTICS: 35mm, T2.8; controlled glints on the wave-face; faint vignette; a single soft cool flare permitted at the crest; clean optics.
 
-FOCUS BEHAVIOUR: focus held on her face plane; a single soft pull at 0:02.6 to the wave-face reflection for one beat (≈0.4s) then back to her by 0:03.4; smooth, deliberate.
+FOCUS BEHAVIOUR: focus held on her face plane; a single soft pull at 0:02.6 to the wave-face reflection for one beat (≈0.5s) then back to her by 0:03.4; smooth, deliberate.
 
 SUBJECT ACTION WITH TIMING (fine beats — VEO): 0:00.0–0:00.6 — opens with the towering wave already standing behind her so the signature lands instantly; 0:00.6–0:01.8 — the wave holds upright, reflections of her and the sky drifting across its face; 0:01.8–0:02.8 — she steadies the rod upright, the wave answering with a slow wavering settle; 0:02.8–0:03.8 — her gaze holds the lens, cool and monumental, the wave shimmering behind; 0:03.8–0:05.0 — the wave settles into a steady standing shimmer, holding the hero look.
 
@@ -9536,7 +9536,7 @@ CAMERA MOVEMENT (detailed): a slow creep-in toward her hand and face easing ≈4
 
 LENS & OPTICS: 50mm, T2.0; soft travelling glints on the swell; faint vignette; clean optics.
 
-FOCUS BEHAVIOUR: focus split between her fingertip on the wave and her near eye; a soft ≈0.3s pull from fingertip to eye at 0:02.4; smooth, no hunt.
+FOCUS BEHAVIOUR: focus split between her fingertip on the wave and her near eye; a soft ≈0.4s pull from fingertip to eye at 0:02.4; smooth, no hunt.
 
 SUBJECT ACTION WITH TIMING (fine beats — VEO): 0:00.0–0:00.6 — she is already raising her hand to the wave-face so the image reads instantly; 0:00.6–0:02.0 — her fingertips trail down the mirror and the mercury swells to follow, reflections bending; 0:02.0–0:03.2 — she lifts her hand away and the swell smooths back into the flat mirror-face; 0:03.2–0:05.0 — she lowers her hand, a cool pleased calm, the wave shimmering steady.
 
@@ -9617,7 +9617,7 @@ NEGATIVE: mirrored composition (subject flip), flipped, inverted, extra limbs, f
 
 ## Frame 6 of 8 — VIDEO PROMPT
 
-CLIP SUMMARY: the world-expands crescendo — the whole dune sea rises into a cathedral of standing mirror-waves around her; energy hits its grandest ≈95% across a longer 6s beat.
+CLIP SUMMARY: the world-expands crescendo — the whole dune sea rises into a cathedral of standing mirror-waves around her; energy hits its grandest ≈95% across a longer 6.0s beat.
 
 SHOT TYPE: wider medium, knees-up; subject ≈45% of the 9:16 frame, anchored centre amid the mirror-waves.
 
@@ -9942,7 +9942,7 @@ SHOT TYPE: medium, chest-up to the anvil; subject fills ≈52% of the vertical 9
 
 CAMERA BODY & RIG: virtual full-frame cinema body on a fluid-head tripod with a subtle motorized dolly; sub-pixel stabilized; no handheld texture.
 
-CAMERA MOVEMENT (detailed): a single slow push-in easing 8% closer across the full 5s on an ease-in/ease-out curve; a foreground anvil-horn slides past camera-left at ≈3% screen-width for parallax; zero roll, zero shake — the move reads as a held breath.
+CAMERA MOVEMENT (detailed): a single slow push-in easing 8% closer across the full 6.0s on an ease-in/ease-out curve; a foreground anvil-horn slides past camera-left at ≈3% screen-width for parallax; zero roll, zero shake — the move reads as a held breath.
 
 LENS & OPTICS: 35mm full-frame equivalent, T2.2; a warm flare on the forge only; gentle natural vignette; clean coatings, no chromatic fringing.
 
@@ -10128,7 +10128,7 @@ CAMERA MOVEMENT (detailed): a slow ≈20° drift around her at constant speed, s
 
 LENS & OPTICS: 50mm, T2.2; controlled glow halation on the brightest fireflies; faint vignette; clean optics, no fringing.
 
-FOCUS BEHAVIOUR: focus held on her face plane; a single soft pull at 0:02.6 to a near firefly for one beat (≈0.4s) then back to her by 0:03.4; smooth, deliberate.
+FOCUS BEHAVIOUR: focus held on her face plane; a single soft pull at 0:02.6 to a near firefly for one beat (≈0.5s) then back to her by 0:03.4; smooth, deliberate.
 
 SUBJECT ACTION WITH TIMING (fine beats — VEO): 0:00.0–0:00.5 — opens with the swarm already swirling so the signature lands instantly; 0:00.5–0:01.6 — the fireflies complete their rise into a slow warm spiral around her; 0:01.6–0:02.6 — she lifts an open hand and a few fireflies orbit it, blinking; 0:02.6–0:03.6 — her eyes sweep the swarm, a soft awed breath, lashes settling; 0:03.6–0:04.4 — the fireflies pulse a gentle synchronized blink; 0:04.4–0:05.0 — the swarm settles into a steady slow swirl, holding the hero look.
 
@@ -10312,7 +10312,7 @@ CAMERA MOVEMENT (detailed): a slow creep-in toward her wrist and face easing ≈
 
 LENS & OPTICS: 50mm, T2.0; soft glow on the knitting light; faint vignette; clean optics.
 
-FOCUS BEHAVIOUR: focus split between the forming firefly-bracelet and her face; a soft ≈0.4s pull from wrist to eyes at 0:02.6; smooth, no hunt.
+FOCUS BEHAVIOUR: focus split between the forming firefly-bracelet and her face; a soft ≈0.5s pull from wrist to eyes at 0:02.6; smooth, no hunt.
 
 SUBJECT ACTION WITH TIMING (fine beats — VEO): 0:00.0–0:00.6 — the swarm is already swirling down to settle so the image reads instantly; 0:00.6–0:02.0 — the fireflies knit into a glowing bracelet around her lifted wrist and a fine collar at her throat; 0:02.0–0:03.2 — she turns her wrist to admire the firefly-bracelet, the formed light pulsing softly; 0:03.2–0:05.0 — she lowers her wrist near her chest, the warm jewelry-light steady, a tender calm.
 
@@ -10534,7 +10534,7 @@ SHOT TYPE: medium-full, hips-up with parapet; subject fills ≈50% of the vertic
 
 CAMERA BODY & RIG: virtual full-frame cinema body on a fluid-head tripod with a subtle motorized dolly; sub-pixel stabilized; no handheld texture.
 
-CAMERA MOVEMENT (detailed): a single slow push-in easing 8% closer across the full 5s on an ease-in/ease-out curve; a foreground parapet-corner slides past camera-left at ≈3% screen-width for parallax; zero roll, zero shake — the move reads as a held breath.
+CAMERA MOVEMENT (detailed): a single slow push-in easing 8% closer across the full 6.0s on an ease-in/ease-out curve; a foreground parapet-corner slides past camera-left at ≈3% screen-width for parallax; zero roll, zero shake — the move reads as a held breath.
 
 LENS & OPTICS: 35mm full-frame equivalent, T2.5; a soft warm flare on the dawn sun only; gentle natural vignette; clean coatings, no chromatic fringing.
 
@@ -10720,7 +10720,7 @@ CAMERA MOVEMENT (detailed): a slow lateral track of ≈7% along the rail in the 
 
 LENS & OPTICS: 35mm, T2.5; soft glow on the opening flowers; gentle vignette; clean optics.
 
-FOCUS BEHAVIOUR: focus held on her face plane while the far rail softens; a soft ≈0.3s pull along the rail at 0:02.0 to feature an opening flower then back to her; smooth, no hunt.
+FOCUS BEHAVIOUR: focus held on her face plane while the far rail softens; a soft ≈0.4s pull along the rail at 0:02.0 to feature an opening flower then back to her; smooth, no hunt.
 
 SUBJECT ACTION WITH TIMING (fine beats — VEO): 0:00.0–0:00.6 — opens as flowers are already opening along the rail so the build reads instantly; 0:00.6–0:02.0 — she trails the can slowly along the rail and a wave of cloud-flowers opens in its wake; 0:02.0–0:03.2 — the wave climbs and multiplies along the parapet; 0:03.2–0:04.2 — her eyes follow the spreading bloom, a soft tender breath; 0:04.2–0:05.0 — the rail steadies into a full line of cloud-flowers, primed for the hero reveal.
 
@@ -10811,7 +10811,7 @@ CAMERA MOVEMENT (detailed): a slow ≈18° arc around her at constant speed, sof
 
 LENS & OPTICS: 35mm, T2.8; soft glow halation on the brightest blooms; faint vignette; a single soft warm flare from the dawn sun permitted; clean optics.
 
-FOCUS BEHAVIOUR: focus held on her face plane; a single soft pull at 0:02.6 to a near cloud-flower for one beat (≈0.4s) then back to her by 0:03.4; smooth, deliberate.
+FOCUS BEHAVIOUR: focus held on her face plane; a single soft pull at 0:02.6 to a near cloud-flower for one beat (≈0.5s) then back to her by 0:03.4; smooth, deliberate.
 
 SUBJECT ACTION WITH TIMING (fine beats — VEO): 0:00.0–0:00.6 — opens with the cloud-garden already blossomed around her so the signature lands instantly; 0:00.6–0:01.8 — the blooms drift and breathe, the farthest opening slow over the sea; 0:01.8–0:02.8 — she lifts an open hand among the nearest flowers, a few petals of vapor stirring around it; 0:02.8–0:03.8 — her gaze rests across the garden, warm and serene, blooms drifting behind; 0:03.8–0:05.0 — the garden settles into a gentle living drift, holding the hero look.
 
@@ -10902,7 +10902,7 @@ CAMERA MOVEMENT (detailed): a very slow creep-in toward her cupped hands and fac
 
 LENS & OPTICS: 50mm, T2.0; soft glow on the cupped bloom; faint vignette; clean optics.
 
-FOCUS BEHAVIOUR: focus split between the cupped bloom and her near eye; a soft ≈0.3s pull from bloom to eye at 0:02.4; smooth, no hunt.
+FOCUS BEHAVIOUR: focus split between the cupped bloom and her near eye; a soft ≈0.4s pull from bloom to eye at 0:02.4; smooth, no hunt.
 
 SUBJECT ACTION WITH TIMING (fine beats — VEO): 0:00.0–0:00.6 — she is already cupping the cloud-flower so the image reads instantly; 0:00.6–0:02.0 — the bloom opens fuller under her hands, its glow pulsing soft; 0:02.0–0:03.2 — she lifts it gently toward her face, petals of vapor stirring; 0:03.2–0:05.0 — she lets it ease back to drift among the garden, a tender calm.
 
@@ -10983,7 +10983,7 @@ NEGATIVE: mirrored, flipped, inverted, extra limbs, fused fingers, melted featur
 
 ## Frame 6 of 7 — VIDEO PROMPT
 
-CLIP SUMMARY: the world-expands crescendo — the whole cloud-sea blossoms into a vast meadow of cloud-flowers around her; energy hits its grandest ≈92% across a longer 6s beat.
+CLIP SUMMARY: the world-expands crescendo — the whole cloud-sea blossoms into a vast meadow of cloud-flowers around her; energy hits its grandest ≈92% across a longer 6.0s beat.
 
 SHOT TYPE: wider medium, knees-up; subject ≈45% of the 9:16 frame, anchored centre amid the meadow.
 
@@ -11217,7 +11217,7 @@ SHOT TYPE: medium-full, hips-up with wet floor; subject fills ≈50% of the vert
 
 CAMERA BODY & RIG: virtual full-frame cinema body on a fluid-head tripod with a subtle motorized dolly; sub-pixel stabilized; no handheld texture.
 
-CAMERA MOVEMENT (detailed): a single slow push-in easing 8% closer across the full 5s on an ease-in/ease-out curve; a foreground reflection on the wet floor slides past camera-left at ≈3% screen-width for parallax; zero roll, zero shake — the move reads as a held breath.
+CAMERA MOVEMENT (detailed): a single slow push-in easing 8% closer across the full 6.0s on an ease-in/ease-out curve; a foreground reflection on the wet floor slides past camera-left at ≈3% screen-width for parallax; zero roll, zero shake — the move reads as a held breath.
 
 LENS & OPTICS: 35mm full-frame equivalent, T2.5; a faint cool flare on the brightest platform light only; gentle natural vignette; clean coatings, no chromatic fringing (except the deliberate prism-spectrum).
 
@@ -11403,7 +11403,7 @@ CAMERA MOVEMENT (detailed): a slow ≈20° drift around her at constant speed, s
 
 LENS & OPTICS: 50mm, T2.2; controlled glow halation on the brightest ribbons; faint vignette; clean optics with deliberate dispersion.
 
-FOCUS BEHAVIOUR: focus held on her face plane; a single soft pull at 0:02.6 to a near ribbon for one beat (≈0.4s) then back to her by 0:03.4; smooth, deliberate.
+FOCUS BEHAVIOUR: focus held on her face plane; a single soft pull at 0:02.6 to a near ribbon for one beat (≈0.5s) then back to her by 0:03.4; smooth, deliberate.
 
 SUBJECT ACTION WITH TIMING (fine beats — VEO): 0:00.0–0:00.5 — opens with the ribbons already arcing so the signature lands instantly; 0:00.5–0:01.6 — the ribbons complete their arcs across the platform, spectrum shifting along each; 0:01.6–0:02.6 — she lifts an open hand and a ribbon bends gently to follow it; 0:02.6–0:03.6 — her eyes sweep the rainbows, a soft awed breath, lashes settling; 0:03.6–0:04.4 — the ribbons pulse a gentle shift of spectrum; 0:04.4–0:05.0 — the display settles into a steady slow arc, holding the hero look.
 
@@ -11587,7 +11587,7 @@ CAMERA MOVEMENT (detailed): a slow creep-in toward her hand and face easing ≈4
 
 LENS & OPTICS: 50mm, T2.0; soft glints on the painted floor; faint vignette; clean optics with deliberate dispersion.
 
-FOCUS BEHAVIOUR: focus split between her sweeping hand and her near eye; a soft ≈0.3s pull from hand to eye at 0:02.4; smooth, no hunt.
+FOCUS BEHAVIOUR: focus split between her sweeping hand and her near eye; a soft ≈0.4s pull from hand to eye at 0:02.4; smooth, no hunt.
 
 SUBJECT ACTION WITH TIMING (fine beats — VEO): 0:00.0–0:00.6 — she is already sweeping her hand low so the image reads instantly; 0:00.6–0:02.0 — the ribbons bend down to follow, painting arcs of rainbow across the wet floor; 0:02.0–0:03.2 — she lifts her hand and the ribbons rise back into their arcs; 0:03.2–0:05.0 — she settles, a cool pleased calm, the floor still rippling soft spectrum.
 
@@ -11809,7 +11809,7 @@ SHOT TYPE: medium-full, kneeling with pool and shore; subject fills ≈50% of th
 
 CAMERA BODY & RIG: virtual full-frame cinema body on a fluid-head tripod with a subtle motorized dolly; sub-pixel stabilized; no handheld texture.
 
-CAMERA MOVEMENT (detailed): a single slow push-in easing 8% closer across the full 5s on an ease-in/ease-out curve; a foreground rock-edge slides past camera-left at ≈3% screen-width for parallax; zero roll, zero shake — the move reads as a held breath.
+CAMERA MOVEMENT (detailed): a single slow push-in easing 8% closer across the full 6.0s on an ease-in/ease-out curve; a foreground rock-edge slides past camera-left at ≈3% screen-width for parallax; zero roll, zero shake — the move reads as a held breath.
 
 LENS & OPTICS: 35mm full-frame equivalent, T2.5; a faint cool flare on the brightest star only; gentle natural vignette; clean coatings, no chromatic fringing.
 
@@ -12086,7 +12086,7 @@ CAMERA MOVEMENT (detailed): a slow ≈18° arc around her at constant speed, sof
 
 LENS & OPTICS: 35mm, T2.8; controlled cool glow on the brightest pools; faint vignette; a single soft cool flare from a bright pool permitted; clean optics.
 
-FOCUS BEHAVIOUR: focus held on her face plane; a single soft pull at 0:02.6 to a near galaxy-pool for one beat (≈0.4s) then back to her by 0:03.4; smooth, deliberate.
+FOCUS BEHAVIOUR: focus held on her face plane; a single soft pull at 0:02.6 to a near galaxy-pool for one beat (≈0.5s) then back to her by 0:03.4; smooth, deliberate.
 
 SUBJECT ACTION WITH TIMING (fine beats — VEO): 0:00.0–0:00.6 — opens with the shore already lit into galaxies so the signature lands instantly; 0:00.6–0:01.8 — the field of galaxy-pools rotates slow, the sky doubled below; 0:01.8–0:02.8 — she rises to standing among them, lifting an open hand over the field; 0:02.8–0:03.8 — her gaze rests across the galaxies, cool and serene; 0:03.8–0:05.0 — the field settles into a slow living rotation, holding the hero look.
 
@@ -12258,7 +12258,7 @@ NEGATIVE: mirrored composition (subject flip), flipped, inverted, extra limbs, f
 
 ## Frame 6 of 8 — VIDEO PROMPT
 
-CLIP SUMMARY: the world-expands crescendo — the whole sea rises into a vast galaxy-mirror to the horizon; energy hits its grandest ≈92% across a longer 6s beat.
+CLIP SUMMARY: the world-expands crescendo — the whole sea rises into a vast galaxy-mirror to the horizon; energy hits its grandest ≈92% across a longer 6.0s beat.
 
 SHOT TYPE: wider medium, knees-up; subject ≈45% of the 9:16 frame, anchored centre at the shore-edge.
 

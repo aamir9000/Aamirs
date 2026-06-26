@@ -105,14 +105,14 @@ CAMERA MOVEMENT: a single slow 8% push-in across the clip, otherwise locked-off 
 LENS: 50mm, f/2.8, smooth creamy background fall-off with soft rainbow bokeh.
 
 SUBJECT ACTION WITH TIMING:
-- 0.0–2.5s — Aira tilts the faceted bottle a few degrees into the key light, the cut glass splitting a clean rainbow fan across her collarbone and the pearlescent liquid settling inside.
-- 2.5–5.0s — she lifts her eyes to the lens on a soft inhale as the knowing asymmetric quarter-smile blooms and a refraction spark crosses her cheek. One clean subject action, real physics throughout.
+- 0.0–3.0s — Aira tilts the faceted bottle a few degrees into the key light, the cut glass splitting a clean rainbow fan across her collarbone and the pearlescent liquid settling inside.
+- 3.0–6.0s — she lifts her eyes to the lens on a soft inhale as the knowing asymmetric quarter-smile blooms and a refraction spark crosses her cheek. One clean subject action, real physics throughout.
 
 LIGHTING: clamshell beauty key with lifted clean fill; live moving rainbow speculars travelling across the glass, chrome and skin as the bottle tips; cyclorama held one stop down; hair-light steady on the chrome-glass waves.
 
 ENVIRONMENT: mirror-prism studio with hanging cut-glass prisms, faint cool atmospheric refractions drifting across the cyclorama.
 
-AUDIO (no spoken word): diegetic only, no in-clip music. Ambient bed — low cool studio room tone throughout. SFX — a soft crystalline glass-tap as her fingers settle on the faceted bottle at 0.3s (gentle attack, short shimmering tail), a faint chrome fabric shift at 2.6s, a light airy prismatic chime accent at 3.8s timed to the eye-lift. Reaction — a soft audible breath at 2.5s. NO voice-over.
+AUDIO (no spoken word): diegetic only, no in-clip music. Ambient bed — low cool studio room tone throughout. SFX — a soft crystalline glass-tap as her fingers settle on the faceted bottle at 0.4s (gentle attack, short shimmering tail), a faint chrome fabric shift at 3.1s, a light airy prismatic chime accent at 4.6s timed to the eye-lift. Reaction — a soft audible breath at 3.0s. NO voice-over.
 
 DURATION: 5 seconds (0:00–0:05 of 30s total).
 
@@ -258,8 +258,8 @@ CAMERA MOVEMENT: a precise macro rack-focus pulling from her defocused eyes down
 LENS: 90mm macro, f/4, shallow creamy fall-off with rainbow bokeh.
 
 SUBJECT ACTION WITH TIMING:
-- 0.0–2.0s — (0:11–0:13) — focus racks from her eyes to the dropper tip as a single pearlescent rainbow drop swells and trembles at the tip.
-- 2.0–4.0s — (0:13–0:15) — the drop releases and falls a short clean arc, splitting the key into a brief rainbow flare as it goes, her lips easing into a knowing micro-smile in the soft background. Real fluid physics, true surface tension.
+- 0.0–3.0s — (0:11–0:13) — focus racks from her eyes to the dropper tip as a single pearlescent rainbow drop swells and trembles at the tip.
+- 3.0–6.0s — (0:13–0:15) — the drop releases and falls a short clean arc, splitting the key into a brief rainbow flare as it goes, her lips easing into a knowing micro-smile in the soft background. Real fluid physics, true surface tension.
 
 LIGHTING: focused beauty key raking faceted sparkle; pin-sharp cool kicker on the chrome cap; live speculars crawling as the bottle holds; prisms throwing rainbow fans behind; cyclorama one stop down.
 
@@ -333,8 +333,8 @@ CAMERA MOVEMENT: a slow vertical tilt-up from the prism-heel sandal to the face,
 LENS: 35mm, f/4, soft creamy background with rainbow bokeh.
 
 SUBJECT ACTION WITH TIMING:
-- 0.0–2.0s — (0:15–0:17) — the camera reads the lucite prism-heel sandal as she shifts her weight and turns the front foot out a few degrees, internal rainbows flaring in the heel and a caustic sliding on the floor.
-- 2.0–4.0s — (0:17–0:19) — the tilt rises past the chrome cuff and prism-drop earring to her face as she settles her hand on the hip and meets the lens with a cool micro-smile. Real physics, grounded weight.
+- 0.0–3.0s — (0:15–0:17) — the camera reads the lucite prism-heel sandal as she shifts her weight and turns the front foot out a few degrees, internal rainbows flaring in the heel and a caustic sliding on the floor.
+- 3.0–6.0s — (0:17–0:19) — the tilt rises past the chrome cuff and prism-drop earring to her face as she settles her hand on the hip and meets the lens with a cool micro-smile. Real physics, grounded weight.
 
 LIGHTING: beauty key raking gown facets and heel; cool kicker on chrome-glass waves and strap; live rainbow speculars crawling as she moves; prisms throwing floor caustics; cyclorama one stop down.
 
@@ -408,8 +408,8 @@ CAMERA MOVEMENT: an almost imperceptible 3% push-in, locked and serene, single m
 LENS: 85mm, f/2.0, creamy fall-off with soft rainbow bokeh.
 
 SUBJECT ACTION WITH TIMING:
-- 0.0–1.5s — (0:19–0:20.5) — Aira brushes her fingertips softly at the jaw on a slow serene exhale, lashes lowering.
-- 1.5–3.0s — (0:20.5–0:22) — her eyes lift to a soft direct gaze as a quiet confident half-smile blooms and a rainbow refraction streak drifts across the cheekbone. Real, gentle, present.
+- 0.0–3.0s — (0:19–0:20.5) — Aira brushes her fingertips softly at the jaw on a slow serene exhale, lashes lowering.
+- 3.0–6.0s — (0:20.5–0:22) — her eyes lift to a soft direct gaze as a quiet confident half-smile blooms and a rainbow refraction streak drifts across the cheekbone. Real, gentle, present.
 
 LIGHTING: soft luminous clamshell key; cool kicker on the waves and earring; a live rainbow streak drifting across the cheek from a turning prism; cyclorama one stop down.
 
@@ -485,9 +485,9 @@ CAMERA MOVEMENT: a graphic slow 3D orbit arcing about 15° around the hovering b
 LENS: 35mm, f/2.8, creamy fall-off with rainbow shard-bokeh.
 
 SUBJECT ACTION WITH TIMING:
-- 0.0–1.5s — (0:22–0:23.5) — the bottle lifts off her palm and begins to hover and rotate as she opens her hands beneath it.
-- 1.5–3.5s — (0:23.5–0:25.5) — the key strikes the rotating prism and detonates a 360° radial spectrum-burst, faceted shards spiralling out into orbit, beams sweeping the studio, her face lifting into luminous awe.
-- 3.5–5.0s — (0:25.5–0:27) — the burst holds at full bloom and begins a gentle settle as shards drift, a radiant almost-smile breaking. Real optical physics; face pin-locked throughout.
+- 0.0–1.8s — (0:22–0:23.5) — the bottle lifts off her palm and begins to hover and rotate as she opens her hands beneath it.
+- 1.8–4.2s — (0:23.5–0:25.5) — the key strikes the rotating prism and detonates a 360° radial spectrum-burst, faceted shards spiralling out into orbit, beams sweeping the studio, her face lifting into luminous awe.
+- 4.2–6.0s — (0:25.5–0:27) — the burst holds at full bloom and begins a gentle settle as shards drift, a radiant almost-smile breaking. Real optical physics; face pin-locked throughout.
 
 LIGHTING: clamshell beauty key holding the face locked through the spectacle; the hovering prism as hero source throwing live radial rainbow beams; brilliant speculars racing across glass, chrome and skin; cyclorama one stop down; highlights controlled.
 
@@ -563,8 +563,8 @@ CAMERA MOVEMENT: the orbit eases to rest and settles into a locked-off frame ide
 LENS: 50mm, f/2.8, smooth creamy background with soft rainbow bokeh.
 
 SUBJECT ACTION WITH TIMING:
-- 0.0–1.5s — (0:27–0:28.5) — the last prism-shards drift down and dissolve as the hovering bottle settles back into her cradling hand at collarbone height, the gown resolving to liquid-chrome.
-- 1.5–3.0s — (0:28.5–0:30) — she settles into the exact opening pose and expression, one final soft rainbow fan splitting across the collarbone, holding still on the knowing quarter-smile as the frame locks to the Frame 1 composition. Real physics, graceful settle, seamless loop.
+- 0.0–3.0s — (0:27–0:28.5) — the last prism-shards drift down and dissolve as the hovering bottle settles back into her cradling hand at collarbone height, the gown resolving to liquid-chrome.
+- 3.0–6.0s — (0:28.5–0:30) — she settles into the exact opening pose and expression, one final soft rainbow fan splitting across the collarbone, holding still on the knowing quarter-smile as the frame locks to the Frame 1 composition. Real physics, graceful settle, seamless loop.
 
 LIGHTING: clamshell beauty key resolving to the Frame 1 state; speculars sliding to rest on glass and chrome; hanging prisms settling to a calm soft rainbow fan; cyclorama one stop down; hair-light steady.
 
@@ -696,14 +696,14 @@ CAMERA MOVEMENT: a single slow 8% push-in across the clip, otherwise locked-off 
 LENS: 50mm, f/2.8, smooth creamy background fall-off.
 
 SUBJECT ACTION WITH TIMING:
-- 0.0–2.5s — Aira tilts the cobalt bottle a few degrees into the key light, specular glints sliding along the glass and the clear oil settling inside.
-- 2.5–5.0s — she lifts her eyes to the lens on a soft inhale as the knowing asymmetric quarter-smile blooms. One clean subject action, real physics throughout.
+- 0.0–3.0s — Aira tilts the cobalt bottle a few degrees into the key light, specular glints sliding along the glass and the clear oil settling inside.
+- 3.0–6.0s — she lifts her eyes to the lens on a soft inhale as the knowing asymmetric quarter-smile blooms. One clean subject action, real physics throughout.
 
 LIGHTING: clamshell beauty key with lifted clean fill; live moving speculars travelling across glass and skin as the bottle tips; colour-block cyclorama held one stop down; hair-light steady on the glass bob.
 
 ENVIRONMENT: bold cobalt/marigold colour-block studio, high-gloss floor reflection, faint cool atmospheric glow.
 
-AUDIO (no spoken word): diegetic only, no in-clip music. Ambient bed — low cool studio room tone throughout. SFX — a soft glass-tap as her fingers settle on the bottle at 0.3s (gentle attack, short tail), a faint satin fabric shift at 2.6s, a light airy pop-shimmer accent at 3.8s timed to the eye-lift. Reaction — a soft audible breath at 2.5s. NO voice-over.
+AUDIO (no spoken word): diegetic only, no in-clip music. Ambient bed — low cool studio room tone throughout. SFX — a soft glass-tap as her fingers settle on the bottle at 0.4s (gentle attack, short tail), a faint satin fabric shift at 3.1s, a light airy pop-shimmer accent at 4.6s timed to the eye-lift. Reaction — a soft audible breath at 3.0s. NO voice-over.
 
 DURATION: 5 seconds (0:00–0:05 of 30s total).
 
@@ -849,14 +849,14 @@ CAMERA MOVEMENT: a slow 5% macro push with a tiny rack-focus pull from the bottl
 LENS: 100mm macro, f/4, creamy bokeh beyond the product plane.
 
 SUBJECT ACTION WITH TIMING:
-- 0.0–2.0s — the dropper releases one clear bead onto the inner wrist, surface tension holding then breaking as it touches skin.
-- 2.0–5.0s — the oil blooms outward into a vivid marigold-coral swatch as the rack-focus pulls from label to bloom and a soft specular travels along the cobalt glass. Real fluid physics, clean and controlled.
+- 0.0–2.4s — the dropper releases one clear bead onto the inner wrist, surface tension holding then breaking as it touches skin.
+- 2.4–6.0s — the oil blooms outward into a vivid marigold-coral swatch as the rack-focus pulls from label to bloom and a soft specular travels along the cobalt glass. Real fluid physics, clean and controlled.
 
 LIGHTING: raking softbox modelling the glass; clean lifted fill on the wrist; subtle rim separating bottle from the creamy ground; live moving specular on the glass.
 
 ENVIRONMENT: marigold/cobalt colour-block studio melting to creamy bokeh, gloss floor glow.
 
-AUDIO (no spoken word): diegetic only, no in-clip music. Ambient bed — low cool studio room tone. SFX — a single soft oil-drip release at 0.8s (delicate liquid plip, short tail), a faint glass-handling shift at 0.2s, a subtle airy shimmer accent at 2.2s as the bloom spreads. NO voice-over.
+AUDIO (no spoken word): diegetic only, no in-clip music. Ambient bed — low cool studio room tone. SFX — a single soft oil-drip release at 1.0s (delicate liquid plip, short tail), a faint glass-handling shift at 0.2s, a subtle airy shimmer accent at 2.6s as the bloom spreads. NO voice-over.
 
 DURATION: 5 seconds (0:11–0:16 of 30s total).
 
@@ -924,14 +924,14 @@ CAMERA MOVEMENT: a slow vertical tilt-up travelling from the marigold heels to t
 LENS: 35mm, f/4, near-full sharpness with creamy background fall-off.
 
 SUBJECT ACTION WITH TIMING:
-- 0.0–2.0s — Aira rolls her weight onto the platform heel, the cobalt sole-flash catching light as the camera tilts up from the shoes.
-- 2.0–5.0s — her hand settles on the peplum and she lifts her eyes to the lens on the confident under-look as the cool quarter-smile blooms. Real physics, grounded balance throughout.
+- 0.0–2.4s — Aira rolls her weight onto the platform heel, the cobalt sole-flash catching light as the camera tilts up from the shoes.
+- 2.4–6.0s — her hand settles on the peplum and she lifts her eyes to the lens on the confident under-look as the cool quarter-smile blooms. Real physics, grounded balance throughout.
 
 LIGHTING: raking full-figure key; lifted clean fill; rim separating the silhouette; live travelling speculars on the patent and cuff; cyclorama one stop down.
 
 ENVIRONMENT: bold cobalt/marigold colour-block studio, high-gloss floor reflection, clean seamless set.
 
-AUDIO (no spoken word): diegetic only, no in-clip music. Ambient bed — low cool studio room tone. SFX — a soft platform-heel settle on the gloss floor at 0.6s (rounded low tap, short tail), a faint satin shift at 2.2s as the hand settles, a light airy shimmer accent at 3.6s timed to the eye-lift, a subtle resin-hoop tick at 1.0s. Reaction — a soft breath at 2.0s. NO voice-over.
+AUDIO (no spoken word): diegetic only, no in-clip music. Ambient bed — low cool studio room tone. SFX — a soft platform-heel settle on the gloss floor at 0.7s (rounded low tap, short tail), a faint satin shift at 2.6s as the hand settles, a light airy shimmer accent at 4.3s timed to the eye-lift, a subtle resin-hoop tick at 1.2s. Reaction — a soft breath at 2.4s. NO voice-over.
 
 DURATION: 5 seconds (0:16–0:21 of 30s total).
 
@@ -1001,15 +1001,15 @@ CAMERA MOVEMENT: a slow steady 5% pull-back to reveal the expanding rings, perfe
 LENS: 35mm, f/3.2, crisp rings with soft glow-bloom on leading edges.
 
 SUBJECT ACTION WITH TIMING:
-- 0.0–1.5s — Aira raises the cobalt bottle and the first radial colour-pulse detonates outward in a clean cobalt-marigold ring.
-- 1.5–3.5s — successive concentric shockwave rings expand at constant speed, re-painting the studio as they pass, her free hand lifting palm-out to feel them, eyes widening.
-- 3.5–5.0s — the rings reach the frame edge and dissipate into pinprick motes as her confident half-smile locks. Pure light physics — flawless concentric geometry, face pin-locked, no debris.
+- 0.0–1.8s — Aira raises the cobalt bottle and the first radial colour-pulse detonates outward in a clean cobalt-marigold ring.
+- 1.8–4.2s — successive concentric shockwave rings expand at constant speed, re-painting the studio as they pass, her free hand lifting palm-out to feel them, eyes widening.
+- 4.2–6.0s — the rings reach the frame edge and dissipate into pinprick motes as her confident half-smile locks. Pure light physics — flawless concentric geometry, face pin-locked, no debris.
 
 LIGHTING: clamshell beauty key locked on the face; the travelling rings acting as moving coloured practicals; intensified hair-light on the lifted bob; cyclorama one stop down between pulses.
 
 ENVIRONMENT: bold cobalt/marigold colour-block studio re-painted by expanding rings, high-gloss floor reflecting the shockwave.
 
-AUDIO (no spoken word): diegetic only, no in-clip music. Ambient bed — low cool studio room tone. SFX — a soft deep airy pulse-whoomp at 0.4s as the first ring fires (rounded sub-bloom, no harsh transient), a fine crystalline shimmer-sweep riding each expanding ring, a delicate sparkle-scatter at 3.6s as the rings dissipate into motes. Reaction — a soft awe breath at 1.4s. NO voice-over.
+AUDIO (no spoken word): diegetic only, no in-clip music. Ambient bed — low cool studio room tone. SFX — a soft deep airy pulse-whoomp at 0.5s as the first ring fires (rounded sub-bloom, no harsh transient), a fine crystalline shimmer-sweep riding each expanding ring, a delicate sparkle-scatter at 4.3s as the rings dissipate into motes. Reaction — a soft awe breath at 1.7s. NO voice-over.
 
 DURATION: 5 seconds (0:21–0:26 of 30s total).
 
@@ -1079,14 +1079,14 @@ CAMERA MOVEMENT: a slow 8% push-in settling to the exact Frame 1 framing, locked
 LENS: 50mm, f/2.8, smooth creamy background fall-off.
 
 SUBJECT ACTION WITH TIMING:
-- 0.0–2.0s — the last colour-pulse mote fades behind her as Aira cradles the cobalt bottle back to collarbone height, the amber-clear oil settling inside.
-- 2.0–4.0s — she holds the knowing asymmetric quarter-smile direct to lens on a soft held breath, the studio returned to its opening calm, every element resolving to the Frame 1 pose for an invisible cut. Real physics, living stillness, face pin-locked.
+- 0.0–3.0s — the last colour-pulse mote fades behind her as Aira cradles the cobalt bottle back to collarbone height, the amber-clear oil settling inside.
+- 3.0–6.0s — she holds the knowing asymmetric quarter-smile direct to lens on a soft held breath, the studio returned to its opening calm, every element resolving to the Frame 1 pose for an invisible cut. Real physics, living stillness, face pin-locked.
 
 LIGHTING: clamshell beauty key with lifted clean fill exactly as Frame 1; gentle moving speculars sliding across the glass as the bottle settles; cyclorama one stop down; hair-light steady on the glass bob.
 
 ENVIRONMENT: bold cobalt/marigold colour-block studio restored to opening calm, high-gloss floor reflection settled, faint cool atmospheric glow.
 
-AUDIO (no spoken word): diegetic only, no in-clip music. Ambient bed — low cool studio room tone resolving to match the opening. SFX — a last fading shimmer-tail at 0.4s as the final mote dissipates, a soft glass-settle as fingers cradle the bottle at 1.6s (gentle attack, short tail), a faint satin shift at 2.6s. Reaction — a soft slow breath at 2.0s. NO voice-over. The final bar resolves cleanly onto the downbeat that opens Frame 1.
+AUDIO (no spoken word): diegetic only, no in-clip music. Ambient bed — low cool studio room tone resolving to match the opening. SFX — a last fading shimmer-tail at 0.6s as the final mote dissipates, a soft glass-settle as fingers cradle the bottle at 2.4s (gentle attack, short tail), a faint satin shift at 3.9s. Reaction — a soft slow breath at 3.0s. NO voice-over. The final bar resolves cleanly onto the downbeat that opens Frame 1.
 
 DURATION: 4 seconds (0:26–0:30 of 30s total).
 
@@ -1135,14 +1135,14 @@ CAMERA MOVEMENT: a single slow 8% push-in across the clip, otherwise locked-off 
 LENS: 50mm, f/2.8, smooth creamy background fall-off.
 
 SUBJECT ACTION WITH TIMING:
-- 0.0–2.5s — Aira tilts the cobalt bottle a few degrees into the key light, specular glints sliding along the glass and the clear oil settling inside.
-- 2.5–5.0s — she lifts her eyes to the lens on a soft inhale as the knowing asymmetric quarter-smile blooms. One clean subject action, real physics throughout.
+- 0.0–3.0s — Aira tilts the cobalt bottle a few degrees into the key light, specular glints sliding along the glass and the clear oil settling inside.
+- 3.0–6.0s — she lifts her eyes to the lens on a soft inhale as the knowing asymmetric quarter-smile blooms. One clean subject action, real physics throughout.
 
 LIGHTING: clamshell beauty key with lifted clean fill; live moving speculars travelling across the cobalt glass and skin as the bottle tips; colour-block cyclorama held one stop down; hair-light steady on the glass bob.
 
 ENVIRONMENT: bold cobalt/marigold colour-block studio, faint atmospheric glow, high-gloss floor reflection.
 
-AUDIO (no spoken word): diegetic only, no in-clip music. Ambient bed — low warm studio room tone throughout. SFX — a soft glass-tap as her fingers settle on the bottle at 0.3s (gentle attack, short tail), a faint satin fabric shift at 2.6s, a light airy pop-shimmer accent at 3.8s timed to the eye-lift. Reaction — a soft audible breath at 2.5s. NO voice-over.
+AUDIO (no spoken word): diegetic only, no in-clip music. Ambient bed — low warm studio room tone throughout. SFX — a soft glass-tap as her fingers settle on the bottle at 0.4s (gentle attack, short tail), a faint satin fabric shift at 3.1s, a light airy pop-shimmer accent at 4.6s timed to the eye-lift. Reaction — a soft audible breath at 3.0s. NO voice-over.
 
 DURATION: 5 seconds (0:00–0:05 of 30s total).
 

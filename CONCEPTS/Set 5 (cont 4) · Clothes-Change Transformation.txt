@@ -106,15 +106,15 @@ SHOT TYPE: medium close rising to medium, subject fills about 55% of the vertica
 
 CAMERA MOVEMENT: a single slow 6% push-in across the clip, otherwise locked-off and stable — one move only, no whip, no handoff.
 
-SUBJECT ACTION WITH TIMING: 0.0–2.0s — Aira holds the confident freeze, eyes locked to lens with the knowing quarter-smile, the Halo cuff glinting on her wrist, baby-hair drifting; 2.0–4.0s — she curls one finger in a playful come-here beckon, chin tipping a degree as the studio light pulses on the gesture — the trigger for the first change. One clean subject action, real physics throughout.
+SUBJECT ACTION WITH TIMING: 0.0–3.0s — Aira holds the confident freeze, eyes locked to lens with the knowing quarter-smile, the Halo cuff glinting on her wrist, baby-hair drifting; 3.0–6.0s — she curls one finger in a playful come-here beckon, chin tipping a degree as the studio light pulses on the gesture — the trigger for the first change. One clean subject action, real physics throughout.
 
 LENS: 50mm, f/2.8, smooth creamy background fall-off.
 
-LIGHTING: clamshell beauty key with lifted clean fill; live moving speculars travelling across the cuff facets; lime seamless one stop down; white rim steady on the flip; a soft light-pulse synced to the beckon at 2.0s.
+LIGHTING: clamshell beauty key with lifted clean fill; live moving speculars travelling across the cuff facets; lime seamless one stop down; white rim steady on the flip; a soft light-pulse synced to the beckon at 3.0s.
 
 ENVIRONMENT: electric-lime pop seamless studio, high-gloss mirror floor reflection, faint warm haze.
 
-AUDIO: silent of any voice — NO spoken word, NO vocal of any kind. Ambient bed — a low warm studio room tone throughout. SFX — a soft vinyl-shift creak at 0.4s, a crisp playful chime accent at 2.0s timed to the beckon (sharp transient, short tail) with a subtle airy light-whoosh tail as the light pulses. Reaction — a soft confident breath at 1.8s. VO — none.
+AUDIO: silent of any voice — NO spoken word, NO vocal of any kind. Ambient bed — a low warm studio room tone throughout. SFX — a soft vinyl-shift creak at 0.6s, a crisp playful chime accent at 3.0s timed to the beckon (sharp transient, short tail) with a subtle airy light-whoosh tail as the light pulses. Reaction — a soft confident breath at 2.7s. VO — none.
 
 DURATION: 4 seconds (0:00–0:04 of 30s total).
 
@@ -181,7 +181,7 @@ SHOT TYPE: medium-full, subject filling about 70% of the vertical frame.
 
 CAMERA MOVEMENT: a slow 5% push-in steady through the converge (single move), no cut — one continuous take through the change.
 
-SUBJECT ACTION WITH TIMING: 0.0–1.0s — off the beckon the electric-lime look releases and the first fuchsia panels streak in from the frame edges; 1.0–3.0s — the panels, marabou, footwear, accessories, hair-styling and makeup-accent all fly in and snap together magnetically onto her body assembling the Fuchsia Bloom look (face pin-locked, nothing flying across the face), the seamless re-gelling lime to fuchsia; 3.0–5.0s — the final marabou hem-pieces lock and she settles into a confident stance as the look completes. One clean cause→effect change, real converging-physics throughout.
+SUBJECT ACTION WITH TIMING: 0.0–1.2s — off the beckon the electric-lime look releases and the first fuchsia panels streak in from the frame edges; 1.2–3.6s — the panels, marabou, footwear, accessories, hair-styling and makeup-accent all fly in and snap together magnetically onto her body assembling the Fuchsia Bloom look (face pin-locked, nothing flying across the face), the seamless re-gelling lime to fuchsia; 3.6–6.0s — the final marabou hem-pieces lock and she settles into a confident stance as the look completes. One clean cause→effect change, real converging-physics throughout.
 
 LENS: 50mm, f/2.8, creamy fuchsia fall-off with directional motion-trails at the converge.
 
@@ -189,7 +189,7 @@ LIGHTING: clamshell beauty key holding the face locked; lime practical fading to
 
 ENVIRONMENT: pop studio re-gelling lime → fuchsia, high-gloss mirror floor reflection.
 
-AUDIO: silent of any voice — NO spoken word, NO vocal of any kind. Ambient bed — a low warm studio room tone. SFX — a rapid series of crisp magnetic snap-clicks as the panels lock from 0.6s (clean transients converging), a soft marabou-flutter whoosh at 2.2s, a glossy heel-snap tick at 3.0s as the shoes lock, a light chandelier-earring tinkle at 3.4s. Reaction — a soft delighted breath at 3.2s. VO — none.
+AUDIO: silent of any voice — NO spoken word, NO vocal of any kind. Ambient bed — a low warm studio room tone. SFX — a rapid series of crisp magnetic snap-clicks as the panels lock from 0.7s (clean transients converging), a soft marabou-flutter whoosh at 2.6s, a glossy heel-snap tick at 3.6s as the shoes lock, a light chandelier-earring tinkle at 4.1s. Reaction — a soft delighted breath at 3.8s. VO — none.
 
 DURATION: 5 seconds (0:04–0:09 of 30s total).
 
@@ -256,7 +256,7 @@ SHOT TYPE: medium to medium-full, subject filling about 65% of the vertical fram
 
 CAMERA MOVEMENT: a smooth slow arc following the turn (single move), gentle and stable — one move only, no whip, no handoff.
 
-SUBJECT ACTION WITH TIMING: 0.0–2.0s — Aira sweeps one arm out and begins a confident turn, the fuchsia hem and feather trim flaring, earrings swinging; 2.0–4.0s — she completes the turn back to camera and settles into a poised stance, the marabou and waves easing to rest with a bright delighted smile. One clean subject action, real physics throughout.
+SUBJECT ACTION WITH TIMING: 0.0–3.0s — Aira sweeps one arm out and begins a confident turn, the fuchsia hem and feather trim flaring, earrings swinging; 3.0–6.0s — she completes the turn back to camera and settles into a poised stance, the marabou and waves easing to rest with a bright delighted smile. One clean subject action, real physics throughout.
 
 LENS: 50mm, f/2.8, smooth creamy fuchsia background fall-off.
 
@@ -264,7 +264,7 @@ LIGHTING: clamshell beauty key with lifted clean fill; live moving speculars tra
 
 ENVIRONMENT: fuchsia pop seamless studio, high-gloss mirror floor reflection, faint warm haze.
 
-AUDIO: silent of any voice — NO spoken word, NO vocal of any kind. Ambient bed — a low warm studio room tone throughout. SFX — a soft satin-and-feather swish as she turns from 0.4s, a light chandelier-earring tinkle at 1.6s, a gentle heel-tap settle at 3.4s as she lands the pose. Reaction — a soft delighted breath at 2.6s. VO — none.
+AUDIO: silent of any voice — NO spoken word, NO vocal of any kind. Ambient bed — a low warm studio room tone throughout. SFX — a soft satin-and-feather swish as she turns from 0.6s, a light chandelier-earring tinkle at 2.4s, a gentle heel-tap settle at 5.1s as she lands the pose. Reaction — a soft delighted breath at 3.9s. VO — none.
 
 DURATION: 4 seconds (0:09–0:13 of 30s total).
 
@@ -406,15 +406,15 @@ SHOT TYPE: medium-full to full, subject filling about 70% of the vertical frame.
 
 CAMERA MOVEMENT: a single slow 6% push-in across the clip, otherwise locked-off and stable — one move only, no whip, no handoff.
 
-SUBJECT ACTION WITH TIMING: 0.0–2.0s — Aira holds the chrome finale power-pose, chin lifted, the gown settling and mirror-discs throwing roving light, the Halo cuff glinting; 2.0–4.0s — she lifts her raised hand a touch and the serene quarter-smile blooms as a cool light-pulse rides across the chrome. One clean subject action, real physics throughout.
+SUBJECT ACTION WITH TIMING: 0.0–3.0s — Aira holds the chrome finale power-pose, chin lifted, the gown settling and mirror-discs throwing roving light, the Halo cuff glinting; 3.0–6.0s — she lifts her raised hand a touch and the serene quarter-smile blooms as a cool light-pulse rides across the chrome. One clean subject action, real physics throughout.
 
 LENS: 50mm, f/2.8, smooth creamy chrome background fall-off.
 
-LIGHTING: clamshell beauty key with lifted clean fill; live moving speculars travelling across the mirror-foil and cuff; chrome seamless one stop down; cool rim steady on the slick-back; a soft cool light-pulse at 2.0s.
+LIGHTING: clamshell beauty key with lifted clean fill; live moving speculars travelling across the mirror-foil and cuff; chrome seamless one stop down; cool rim steady on the slick-back; a soft cool light-pulse at 3.0s.
 
 ENVIRONMENT: chrome-silver pop seamless studio, high-gloss mirror floor reflection, faint cool haze.
 
-AUDIO: silent of any voice — NO spoken word, NO vocal of any kind. Ambient bed — a low warm studio room tone throughout. SFX — a soft chrome-shimmer ring as the gown settles at 0.4s, a light mirror-disc tinkle at 1.4s, a subtle airy light-whoosh as the pulse rides the chrome at 2.0s. Reaction — a soft assured breath at 1.8s. VO — none.
+AUDIO: silent of any voice — NO spoken word, NO vocal of any kind. Ambient bed — a low warm studio room tone throughout. SFX — a soft chrome-shimmer ring as the gown settles at 0.6s, a light mirror-disc tinkle at 2.1s, a subtle airy light-whoosh as the pulse rides the chrome at 3.0s. Reaction — a soft assured breath at 2.7s. VO — none.
 
 DURATION: 4 seconds (0:19–0:23 of 30s total).
 
@@ -481,7 +481,7 @@ SHOT TYPE: medium-full to full, subject filling about 70% of the vertical frame.
 
 CAMERA MOVEMENT: a smooth slow arc tracking the pivot (single move), gentle and stable — one move only, no whip, no handoff.
 
-SUBJECT ACTION WITH TIMING: 0.0–2.0s — Aira steps into a confident strut and begins a pivot, the chrome gown swinging out in a mirror-arc, earrings swinging, cuff leading; 2.0–4.0s — she cuts her eyes back to lens and settles the turn into a poised stance, the gown easing to rest with a commanding half-smile. One clean subject action, real physics throughout.
+SUBJECT ACTION WITH TIMING: 0.0–3.0s — Aira steps into a confident strut and begins a pivot, the chrome gown swinging out in a mirror-arc, earrings swinging, cuff leading; 3.0–6.0s — she cuts her eyes back to lens and settles the turn into a poised stance, the gown easing to rest with a commanding half-smile. One clean subject action, real physics throughout.
 
 LENS: 50mm, f/2.8, smooth creamy chrome background fall-off.
 
@@ -489,7 +489,7 @@ LIGHTING: clamshell beauty key with lifted clean fill; live moving speculars tra
 
 ENVIRONMENT: chrome-silver pop seamless studio, high-gloss mirror floor reflection, faint cool haze.
 
-AUDIO: silent of any voice — NO spoken word, NO vocal of any kind. Ambient bed — a low warm studio room tone throughout. SFX — a soft chrome-foil swish as the gown swings from 0.4s, a light mirror-disc tinkle at 1.6s, a crisp chrome heel-tap as she lands the pivot at 3.2s. Reaction — a soft assured breath at 2.6s. VO — none.
+AUDIO: silent of any voice — NO spoken word, NO vocal of any kind. Ambient bed — a low warm studio room tone throughout. SFX — a soft chrome-foil swish as the gown swings from 0.6s, a light mirror-disc tinkle at 2.4s, a crisp chrome heel-tap as she lands the pivot at 4.8s. Reaction — a soft assured breath at 3.9s. VO — none.
 
 DURATION: 4 seconds (0:23–0:27 of 30s total).
 
@@ -556,7 +556,7 @@ SHOT TYPE: medium close rising to medium, subject filling about 55% of the verti
 
 CAMERA MOVEMENT: a quick settle resolving to the exact Frame 1 framing (single move), stable — one move only, no whip, ending precisely where the opening begins for an invisible cut-back.
 
-SUBJECT ACTION WITH TIMING: 0.0–1.5s — the chrome look snap-collapses in a quick mirror-glint burst and the electric-lime mod look snaps back on, the seamless re-gelling lime; 1.5–3.0s — she re-locks into the exact opening pose with the raised-finger beckon and knowing quarter-smile, holding the freeze so the reel loops seamlessly back to Frame 1. One clean cause→effect snap-back, real physics throughout.
+SUBJECT ACTION WITH TIMING: 0.0–3.0s — the chrome look snap-collapses in a quick mirror-glint burst and the electric-lime mod look snaps back on, the seamless re-gelling lime; 3.0–6.0s — she re-locks into the exact opening pose with the raised-finger beckon and knowing quarter-smile, holding the freeze so the reel loops seamlessly back to Frame 1. One clean cause→effect snap-back, real physics throughout.
 
 LENS: 50mm, f/2.8, smooth creamy lime background fall-off.
 
@@ -564,7 +564,7 @@ LIGHTING: clamshell beauty key with lifted clean fill; a quick mirror-glint burs
 
 ENVIRONMENT: pop studio re-gelling chrome → electric-lime, high-gloss mirror floor reflection, faint warm haze.
 
-AUDIO: silent of any voice — NO spoken word, NO vocal of any kind. Ambient bed — a low warm studio room tone throughout. SFX — a bright crystalline mirror-shatter glint as the chrome collapses at 0.3s, a rapid series of crisp snap-clicks as the lime look re-locks from 0.6s, settling to a soft playful chime at 1.6s matched to the opening beckon. Reaction — a soft confident breath at 2.0s. VO — none.
+AUDIO: silent of any voice — NO spoken word, NO vocal of any kind. Ambient bed — a low warm studio room tone throughout. SFX — a bright crystalline mirror-shatter glint as the chrome collapses at 0.6s, a rapid series of crisp snap-clicks as the lime look re-locks from 1.2s, settling to a soft playful chime at 3.2s matched to the opening beckon. Reaction — a soft confident breath at 4.0s. VO — none.
 
 DURATION: 3 seconds (0:27–0:30 of 30s total).
 

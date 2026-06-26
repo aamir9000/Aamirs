@@ -105,14 +105,14 @@ CAMERA MOVEMENT: a single slow 8% push-in across the clip, otherwise locked-off 
 LENS: 50mm, f/2.8, smooth creamy background fall-off with soft blob bokeh.
 
 SUBJECT ACTION WITH TIMING:
-- 0.0–2.5s — Aira tilts the clear orb jar a few degrees into the key light, the magenta jelly wobbling and internal glints sliding across the dome.
-- 2.5–5.0s — she lifts her eyes to the lens on a soft inhale as the knowing asymmetric quarter-smile blooms, a lava-lamp blob rising lazily behind. One clean subject action, real wobble physics throughout.
+- 0.0–3.0s — Aira tilts the clear orb jar a few degrees into the key light, the magenta jelly wobbling and internal glints sliding across the dome.
+- 3.0–6.0s — she lifts her eyes to the lens on a soft inhale as the knowing asymmetric quarter-smile blooms, a lava-lamp blob rising lazily behind. One clean subject action, real wobble physics throughout.
 
 LIGHTING: clamshell beauty key with lifted clean fill; live moving speculars travelling across the glossy dome and skin as the jar tips; candy seamless held one stop down; soft candy-colour wash from the rising blobs; hair-light steady on the glossy flip.
 
 ENVIRONMENT: surreal candy lava-lamp studio, slow rising blobs behind, high-gloss floor reflection, faint warm glow.
 
-AUDIO (no spoken word): diegetic only, no in-clip music. Ambient bed — low warm studio room tone throughout. SFX — a soft glossy glass-tap as her fingers settle on the jar at 0.3s (gentle attack, short tail), a faint jelly-wobble squelch at 1.0s (soft, playful), a light airy candy-shimmer accent at 3.8s timed to the eye-lift. Reaction — a soft audible breath at 2.5s. NO voice-over.
+AUDIO (no spoken word): diegetic only, no in-clip music. Ambient bed — low warm studio room tone throughout. SFX — a soft glossy glass-tap as her fingers settle on the jar at 0.4s (gentle attack, short tail), a faint jelly-wobble squelch at 1.2s (soft, playful), a light airy candy-shimmer accent at 4.6s timed to the eye-lift. Reaction — a soft audible breath at 3.0s. NO voice-over.
 
 DURATION: 5 seconds (0:00–0:05 of 30s total).
 
@@ -260,14 +260,14 @@ CAMERA MOVEMENT: a slow 5% macro rack-focus pull from the label window back to h
 LENS: 100mm macro, f/4, razor-thin focus plane, creamy candy fall-off.
 
 SUBJECT ACTION WITH TIMING:
-- 0.0–1.5s — the magenta jelly trembles mid-wobble inside the glossy dome as a specular slides across the curve, her fingertips resting feather-light on the lime base.
-- 1.5–4.0s — a slow rack-focus pulls from the crisp label window back to her soft delighted face behind, the candy bokeh blooming, the jelly settling with a hairline ripple. One clean macro beat, real wobble physics.
+- 0.0–2.2s — the magenta jelly trembles mid-wobble inside the glossy dome as a specular slides across the curve, her fingertips resting feather-light on the lime base.
+- 2.2–6.0s — a slow rack-focus pulls from the crisp label window back to her soft delighted face behind, the candy bokeh blooming, the jelly settling with a hairline ripple. One clean macro beat, real wobble physics.
 
 LIGHTING: raking macro beauty key maximising the dome specular and sub-surface glow; small white fill lifting the shadow side; candy rim on the dome; background gown-glow held down; lime bounce keeping the jelly saturated.
 
 ENVIRONMENT: the candy lava-lamp studio fully defocused behind, a soft glossy magenta-lime field.
 
-AUDIO: silent of any voice — NO spoken word, NO vocal of any kind. Ambient bed — a warm low candy-studio room tone. SFX — a soft gloopy jelly-wobble jiggle at 0.4s with a short wet tail, a faint glossy glass-settle tick at 1.0s, a gentle airy candy-shimmer accent at 2.0s timed to the rack-focus. Reaction — none this frame. VO — none.
+AUDIO: silent of any voice — NO spoken word, NO vocal of any kind. Ambient bed — a warm low candy-studio room tone. SFX — a soft gloopy jelly-wobble jiggle at 0.6s with a short wet tail, a faint glossy glass-settle tick at 1.5s, a gentle airy candy-shimmer accent at 3.0s timed to the rack-focus. Reaction — none this frame. VO — none.
 
 DURATION: 4 seconds (0:11–0:15 of 30s total).
 
@@ -335,14 +335,14 @@ CAMERA MOVEMENT: a slow 6% pan up the body line from the jelly mule to the bangl
 LENS: 35mm, f/3.5, creamy candy fall-off with floating blob bokeh.
 
 SUBJECT ACTION WITH TIMING:
-- 0.0–1.5s — she pushes the jelly-mule leg forward and rotates the ankle a few degrees so the translucent platform catches the candy light and glows, the lime sole flashing a specular.
-- 1.5–4.0s — she lifts and rotates the bangled wrist into frame, the candy-resin stack rocking and the pendant swinging, glancing down the body line with a pleased quarter-smile. One clean styling action, real wobble physics.
+- 0.0–2.2s — she pushes the jelly-mule leg forward and rotates the ankle a few degrees so the translucent platform catches the candy light and glows, the lime sole flashing a specular.
+- 2.2–6.0s — she lifts and rotates the bangled wrist into frame, the candy-resin stack rocking and the pendant swinging, glancing down the body line with a pleased quarter-smile. One clean styling action, real wobble physics.
 
 LIGHTING: raking three-quarter beauty key maximising internal glow and speculars; white fill lifting shadows; candy rim on gown and hoops; travelling blob-wash practical; lime floor bounce keeping the mules saturated.
 
 ENVIRONMENT: candy lava-lamp studio with rising blobs softly defocused behind, high-gloss floor reflection.
 
-AUDIO: silent of any voice — NO spoken word, NO vocal of any kind. Ambient bed — a warm low candy-studio room tone. SFX — a soft glossy jelly-sole squeak-tick as the mule plants at 0.5s, a light translucent-resin clack of bangles settling at 1.8s, a faint airy candy-shimmer accent at 2.6s timed to the pendant swing. Reaction — none this frame. VO — none.
+AUDIO: silent of any voice — NO spoken word, NO vocal of any kind. Ambient bed — a warm low candy-studio room tone. SFX — a soft glossy jelly-sole squeak-tick as the mule plants at 0.8s, a light translucent-resin clack of bangles settling at 2.7s, a faint airy candy-shimmer accent at 3.9s timed to the pendant swing. Reaction — none this frame. VO — none.
 
 DURATION: 4 seconds (0:15–0:19 of 30s total).
 
@@ -410,14 +410,14 @@ CAMERA MOVEMENT: a slow 7% arc around her as she twirls, following the motion ( 
 LENS: 35mm, f/4, creamy candy fall-off with rising blob bokeh.
 
 SUBJECT ACTION WITH TIMING:
-- 0.0–1.2s — she sweeps one arm overhead and begins a confident quarter-twirl, the gown skirt and glossy flip swinging out, bangles sliding down the forearm.
-- 1.2–3.0s — she lands the power-pose facing lens with a bright open smile, the skirt and hoops settling, the lava-lamp blobs rising fast behind. One clean high-energy action, real motion physics.
+- 0.0–2.4s — she sweeps one arm overhead and begins a confident quarter-twirl, the gown skirt and glossy flip swinging out, bangles sliding down the forearm.
+- 2.4–6.0s — she lands the power-pose facing lens with a bright open smile, the skirt and hoops settling, the lava-lamp blobs rising fast behind. One clean high-energy action, real motion physics.
 
 LIGHTING: feathered beauty key holding the face lit through the turn; white fill lifting shadows; candy rim on the swinging gown and flip; travelling blob-wash practical; lime floor bounce keeping the gown saturated.
 
 ENVIRONMENT: candy lava-lamp studio, blobs rising fast across the saturated cyclorama, high-gloss floor reflection.
 
-AUDIO: silent of any voice — NO spoken word, NO vocal of any kind. Ambient bed — a warm low candy-studio room tone. SFX — a soft glossy latex-swish as the gown swings at 0.4s, a light translucent-resin bangle-slide clack at 0.9s, an airy candy whoosh timed to the twirl at 1.4s, a glossy mule-plant tick as she lands at 2.0s. Reaction — a soft delighted exhale only, no voiced sound. VO — none.
+AUDIO: silent of any voice — NO spoken word, NO vocal of any kind. Ambient bed — a warm low candy-studio room tone. SFX — a soft glossy latex-swish as the gown swings at 0.8s, a light translucent-resin bangle-slide clack at 1.8s, an airy candy whoosh timed to the twirl at 2.8s, a glossy mule-plant tick as she lands at 4.0s. Reaction — a soft delighted exhale only, no voiced sound. VO — none.
 
 DURATION: 3 seconds (0:19–0:22 of 30s total).
 
@@ -487,15 +487,15 @@ CAMERA MOVEMENT: a slow 8% orbital arc around her matching the candy rings ( sin
 LENS: 35mm, f/2.8, creamy candy fall-off with glowing blob bokeh.
 
 SUBJECT ACTION WITH TIMING:
-- 0.0–1.5s — as she raises her open palms, the hovering candy blobs defy gravity and a larger globe pinches and splits into two (clean candy mitosis).
-- 1.5–3.5s — the split globes arc into two concentric orbital rings circling her body like planets, each trailing a glossy comet-sheen, her face serene-radiant at the centre.
-- 3.5–5.0s — the rings settle into a steady glowing orbit, a final small blob wobbling at its apex as she holds the transcendent pose. One clean magic beat, real wobble and orbital physics, identity pin-locked throughout.
+- 0.0–1.8s — as she raises her open palms, the hovering candy blobs defy gravity and a larger globe pinches and splits into two (clean candy mitosis).
+- 1.8–4.2s — the split globes arc into two concentric orbital rings circling her body like planets, each trailing a glossy comet-sheen, her face serene-radiant at the centre.
+- 4.2–6.0s — the rings settle into a steady glowing orbit, a final small blob wobbling at its apex as she holds the transcendent pose. One clean magic beat, real wobble and orbital physics, identity pin-locked throughout.
 
 LIGHTING: feathered beauty key holding the face serene; travelling multi-colour candy practical wash from the orbiting globes; intensified rim on the lifted flip; cyclorama one stop down; lime bounce keeping the globes saturated and clean.
 
 ENVIRONMENT: surreal candy lava-lamp studio, the candy solar system orbiting against the saturated cyclorama, high-gloss floor reflection.
 
-AUDIO: silent of any voice — NO spoken word, NO vocal of any kind. Ambient bed — a warm low candy-studio room tone with a faint airy shimmer rising. SFX — soft gloopy blob-wobbles building from 0.2s, a smooth wet pinch-split bubble-pop at 1.0s as the globe divides, gentle whooshing candy-arc swooshes at 1.6s as the rings form, a soft sparkling chime-shimmer at 3.5s as the orbit settles, tiny wet blob-wobble taps continuing under. Reaction — a soft awed breath only, no voiced sound. VO — none.
+AUDIO: silent of any voice — NO spoken word, NO vocal of any kind. Ambient bed — a warm low candy-studio room tone with a faint airy shimmer rising. SFX — soft gloopy blob-wobbles building from 0.2s, a smooth wet pinch-split bubble-pop at 1.2s as the globe divides, gentle whooshing candy-arc swooshes at 1.9s as the rings form, a soft sparkling chime-shimmer at 4.2s as the orbit settles, tiny wet blob-wobble taps continuing under. Reaction — a soft awed breath only, no voiced sound. VO — none.
 
 DURATION: 5 seconds (0:22–0:27 of 30s total).
 
@@ -565,14 +565,14 @@ CAMERA MOVEMENT: a single slow 8% push-in resolving to the exact opening framing
 LENS: 50mm, f/2.8, smooth creamy candy fall-off.
 
 SUBJECT ACTION WITH TIMING:
-- 0.0–1.5s — the last orbiting candy blob settles softly to the floor as she lowers her gaze to the hero jar and tilts it a few degrees, the magenta jelly rocking gently inside.
-- 1.5–3.0s — she lifts her eyes back to the lens on a soft exhale with a composed knowing quarter-smile, the scene resolving precisely to the opening tableau for a seamless loop. One clean action, real wobble physics, identity pin-locked.
+- 0.0–3.0s — the last orbiting candy blob settles softly to the floor as she lowers her gaze to the hero jar and tilts it a few degrees, the magenta jelly rocking gently inside.
+- 3.0–6.0s — she lifts her eyes back to the lens on a soft exhale with a composed knowing quarter-smile, the scene resolving precisely to the opening tableau for a seamless loop. One clean action, real wobble physics, identity pin-locked.
 
 LIGHTING: clamshell beauty key identical to the opening; soft settled candy glow; candy rim on the flip; cyclorama one stop down; lime bounce glossing the jar — matched to Frame 1.
 
 ENVIRONMENT: candy lava-lamp studio settled to its calm opening state, high-gloss floor reflection.
 
-AUDIO: silent of any voice — NO spoken word, NO vocal of any kind. Ambient bed — a warm low candy-studio room tone settling to match the opening. SFX — a soft wet blob-settle tap as the last globe lands at 0.4s, a gentle glossy glass-tap as her fingers settle on the jar at 1.0s, a faint airy candy-shimmer accent at 2.2s timed to the eye-lift, resolving cleanly so the tail matches the head for a seamless loop. Reaction — a soft exhale only, no voiced sound. VO — none.
+AUDIO: silent of any voice — NO spoken word, NO vocal of any kind. Ambient bed — a warm low candy-studio room tone settling to match the opening. SFX — a soft wet blob-settle tap as the last globe lands at 0.8s, a gentle glossy glass-tap as her fingers settle on the jar at 2.0s, a faint airy candy-shimmer accent at 4.4s timed to the eye-lift, resolving cleanly so the tail matches the head for a seamless loop. Reaction — a soft exhale only, no voiced sound. VO — none.
 
 DURATION: 3 seconds (0:27–0:30 of 30s total).
 
@@ -698,14 +698,14 @@ CAMERA MOVEMENT: a single slow 8% push-in across the clip, otherwise locked-off 
 LENS: 50mm, f/2.8, smooth creamy background fall-off with soft plasma-glow bokeh.
 
 SUBJECT ACTION WITH TIMING:
-- 0.0–2.5s — Aira tilts the clear orb a few degrees into the key light, the electric-violet oil wobbling and the filament core crackling, glints sliding across the glass.
-- 2.5–5.0s — she lifts her eyes to the lens on a soft inhale as the knowing asymmetric quarter-smile blooms, a plasma arc branching slowly behind. One clean subject action, real wobble and arc physics throughout.
+- 0.0–3.0s — Aira tilts the clear orb a few degrees into the key light, the electric-violet oil wobbling and the filament core crackling, glints sliding across the glass.
+- 3.0–6.0s — she lifts her eyes to the lens on a soft inhale as the knowing asymmetric quarter-smile blooms, a plasma arc branching slowly behind. One clean subject action, real wobble and arc physics throughout.
 
 LIGHTING: clamshell beauty key with lifted clean fill; live moving speculars travelling across the glossy orb and skin as it tips; deep seamless held well down; electric magenta-cyan wash from the plasma arcs and filament lines; cool violet hair-light steady on the chrome ponytail.
 
 ENVIRONMENT: electric plasma studio, slow crackling arcs drifting behind, high-gloss black-mirror floor reflection, faint electric glow.
 
-AUDIO: silent of any voice — NO spoken word, NO vocal of any kind. Ambient bed — a low warm studio room tone with a faint electric hum throughout. SFX — a soft glossy glass-tap as her fingers settle on the orb at 0.3s (gentle attack, short tail), a faint crackling plasma-fizz at 1.0s, a light airy electric-shimmer accent at 3.8s timed to the eye-lift. Reaction — a soft audible breath at 2.5s. VO — none.
+AUDIO: silent of any voice — NO spoken word, NO vocal of any kind. Ambient bed — a low warm studio room tone with a faint electric hum throughout. SFX — a soft glossy glass-tap as her fingers settle on the orb at 0.4s (gentle attack, short tail), a faint crackling plasma-fizz at 1.2s, a light airy electric-shimmer accent at 4.6s timed to the eye-lift. Reaction — a soft audible breath at 3.0s. VO — none.
 
 DURATION: 5 seconds (0:00–0:05 of 30s total).
 
@@ -853,14 +853,14 @@ CAMERA MOVEMENT: a slow 5% macro rack-focus pull from the label window back to h
 LENS: 100mm macro, f/4, razor-thin focus plane, creamy electric fall-off.
 
 SUBJECT ACTION WITH TIMING:
-- 0.0–2.0s — the filament core crackles and a tiny plasma thread licks the inner glass as a specular slides across the curve, her fingertips resting feather-light on the chrome cap.
-- 2.0–5.0s — a slow rack-focus pulls from the crisp label window back to her soft charged face behind, the electric bokeh blooming, the oil settling with a faint internal current. One clean macro beat, real plasma physics.
+- 0.0–2.4s — the filament core crackles and a tiny plasma thread licks the inner glass as a specular slides across the curve, her fingertips resting feather-light on the chrome cap.
+- 2.4–6.0s — a slow rack-focus pulls from the crisp label window back to her soft charged face behind, the electric bokeh blooming, the oil settling with a faint internal current. One clean macro beat, real plasma physics.
 
 LIGHTING: raking macro beauty key maximising the glass specular and internal filament glow; small white fill lifting the shadow side; electric rim on the glass; background gown-glow held down; cyan bounce keeping the oil saturated.
 
 ENVIRONMENT: the electric plasma studio fully defocused behind, a soft glossy violet-cyan field.
 
-AUDIO: silent of any voice — NO spoken word, NO vocal of any kind. Ambient bed — a low warm studio room tone with a faint electric hum. SFX — a soft crackling plasma-fizz at 0.4s with a short electric tail, a faint glossy glass-settle tick at 1.2s, a gentle airy electric-shimmer accent at 2.4s timed to the rack-focus. Reaction — none this frame. VO — none.
+AUDIO: silent of any voice — NO spoken word, NO vocal of any kind. Ambient bed — a low warm studio room tone with a faint electric hum. SFX — a soft crackling plasma-fizz at 0.5s with a short electric tail, a faint glossy glass-settle tick at 1.4s, a gentle airy electric-shimmer accent at 2.9s timed to the rack-focus. Reaction — none this frame. VO — none.
 
 DURATION: 5 seconds (0:11–0:16 of 30s total).
 
@@ -928,14 +928,14 @@ CAMERA MOVEMENT: a slow 6% pan up the body line from the illuminated boot to the
 LENS: 35mm, f/3.5, creamy electric fall-off with drifting plasma bokeh.
 
 SUBJECT ACTION WITH TIMING:
-- 0.0–2.0s — she pushes the boot leg forward and rotates the ankle a few degrees so the clear platform catches the electric light and the cyan core glows brighter, casting a clean wash at the floor.
-- 2.0–5.0s — she lifts and rotates the cuffed wrist into frame, the chrome stack rocking with plasma threads arcing across the gaps and the choker pulsing, glancing down the body line with a pleased quarter-smile. One clean styling action, real arc physics.
+- 0.0–2.4s — she pushes the boot leg forward and rotates the ankle a few degrees so the clear platform catches the electric light and the cyan core glows brighter, casting a clean wash at the floor.
+- 2.4–6.0s — she lifts and rotates the cuffed wrist into frame, the chrome stack rocking with plasma threads arcing across the gaps and the choker pulsing, glancing down the body line with a pleased quarter-smile. One clean styling action, real arc physics.
 
 LIGHTING: raking three-quarter beauty key maximising internal glow and speculars; white fill lifting shadows; electric rim on gown and cuffs; travelling plasma-wash practical; cyan floor bounce keeping the boots saturated.
 
 ENVIRONMENT: electric plasma studio with drifting arcs softly defocused behind, high-gloss black-mirror floor reflection.
 
-AUDIO: silent of any voice — NO spoken word, NO vocal of any kind. Ambient bed — a low warm studio room tone with a faint electric hum. SFX — a soft glossy boot-plant tick with a faint electric core-hum as the platform plants at 0.5s, a light chrome-cuff clack with a tiny plasma-fizz as the bracelets settle at 2.2s, a faint airy electric-shimmer accent at 3.0s timed to the choker pulse. Reaction — none this frame. VO — none.
+AUDIO: silent of any voice — NO spoken word, NO vocal of any kind. Ambient bed — a low warm studio room tone with a faint electric hum. SFX — a soft glossy boot-plant tick with a faint electric core-hum as the platform plants at 0.6s, a light chrome-cuff clack with a tiny plasma-fizz as the bracelets settle at 2.6s, a faint airy electric-shimmer accent at 3.6s timed to the choker pulse. Reaction — none this frame. VO — none.
 
 DURATION: 5 seconds (0:16–0:21 of 30s total).
 
@@ -1005,15 +1005,15 @@ CAMERA MOVEMENT: a slow 8% orbital arc around her matching the spiralling plasma
 LENS: 35mm, f/2.8, creamy electric fall-off with glowing filament bokeh.
 
 SUBJECT ACTION WITH TIMING:
-- 0.0–1.5s — as she raises her open palms, ribbons of live plasma stream from her fingertips and dance in defiance of gravity, coiling and branching in mid-air.
-- 1.5–3.5s — the dancing filaments sweep into two spiralling orbital helixes circling her body like captured lightning, each trailing a glowing comet-glow, her face serene-radiant at the centre.
-- 3.5–5.0s — the helixes settle into a steady glowing orbit, a final spark shedding free at the apex as she holds the transcendent pose. One clean magic beat, real arc and orbital physics, identity pin-locked throughout.
+- 0.0–1.8s — as she raises her open palms, ribbons of live plasma stream from her fingertips and dance in defiance of gravity, coiling and branching in mid-air.
+- 1.8–4.2s — the dancing filaments sweep into two spiralling orbital helixes circling her body like captured lightning, each trailing a glowing comet-glow, her face serene-radiant at the centre.
+- 4.2–6.0s — the helixes settle into a steady glowing orbit, a final spark shedding free at the apex as she holds the transcendent pose. One clean magic beat, real arc and orbital physics, identity pin-locked throughout.
 
 LIGHTING: feathered beauty key holding the face serene; travelling multi-colour electric practical wash from the orbiting filaments; intensified violet rim on the lifted ponytail; cyclorama held well down; cyan bounce keeping the filaments saturated and clean.
 
 ENVIRONMENT: surreal electric plasma studio, the captured-lightning helixes orbiting against the deep cyclorama, high-gloss black-mirror floor reflection.
 
-AUDIO: silent of any voice — NO spoken word, NO vocal of any kind. Ambient bed — a low warm studio room tone with a rising airy electric hum. SFX — soft crackling plasma-streams building from 0.2s, a smooth electric arc-whoosh at 1.0s as the filaments leap from the palms, gentle whooshing helix-swooshes at 1.6s as the orbits form, a soft sparkling chime-shimmer at 3.5s as the orbit settles, tiny zap-ticks continuing under as sparks shed. Reaction — a soft awed breath only, no voiced sound. VO — none.
+AUDIO: silent of any voice — NO spoken word, NO vocal of any kind. Ambient bed — a low warm studio room tone with a rising airy electric hum. SFX — soft crackling plasma-streams building from 0.2s, a smooth electric arc-whoosh at 1.2s as the filaments leap from the palms, gentle whooshing helix-swooshes at 1.9s as the orbits form, a soft sparkling chime-shimmer at 4.2s as the orbit settles, tiny zap-ticks continuing under as sparks shed. Reaction — a soft awed breath only, no voiced sound. VO — none.
 
 DURATION: 5 seconds (0:21–0:26 of 30s total).
 
@@ -1083,14 +1083,14 @@ CAMERA MOVEMENT: a single slow 8% push-in resolving to the exact opening framing
 LENS: 50mm, f/2.8, smooth creamy electric fall-off.
 
 SUBJECT ACTION WITH TIMING:
-- 0.0–2.0s — the last orbiting plasma filament fades into a drifting arc as she lowers her gaze to the hero orb and tilts it a few degrees, the electric-violet oil rocking gently and the filament core crackling soft.
-- 2.0–4.0s — she lifts her eyes back to the lens on a soft exhale with a composed knowing quarter-smile, the scene resolving precisely to the opening tableau for a seamless loop. One clean action, real wobble and arc physics, identity pin-locked.
+- 0.0–3.0s — the last orbiting plasma filament fades into a drifting arc as she lowers her gaze to the hero orb and tilts it a few degrees, the electric-violet oil rocking gently and the filament core crackling soft.
+- 3.0–6.0s — she lifts her eyes back to the lens on a soft exhale with a composed knowing quarter-smile, the scene resolving precisely to the opening tableau for a seamless loop. One clean action, real wobble and arc physics, identity pin-locked.
 
 LIGHTING: clamshell beauty key identical to the opening; soft settled plasma glow; cool violet rim on the ponytail; cyclorama held well down; glossy catch on the orb — matched to Frame 1.
 
 ENVIRONMENT: electric plasma studio settled to its calm opening state, high-gloss black-mirror floor reflection.
 
-AUDIO: silent of any voice — NO spoken word, NO vocal of any kind. Ambient bed — a low warm studio room tone with a faint electric hum settling to match the opening. SFX — a soft fading plasma-fizz as the last filament settles at 0.4s, a gentle glossy glass-tap as her fingers settle on the orb at 1.2s, a faint airy electric-shimmer accent at 2.6s timed to the eye-lift, resolving cleanly so the tail matches the head for a seamless loop. Reaction — a soft exhale only, no voiced sound. VO — none.
+AUDIO: silent of any voice — NO spoken word, NO vocal of any kind. Ambient bed — a low warm studio room tone with a faint electric hum settling to match the opening. SFX — a soft fading plasma-fizz as the last filament settles at 0.6s, a gentle glossy glass-tap as her fingers settle on the orb at 1.8s, a faint airy electric-shimmer accent at 3.9s timed to the eye-lift, resolving cleanly so the tail matches the head for a seamless loop. Reaction — a soft exhale only, no voiced sound. VO — none.
 
 DURATION: 4 seconds (0:26–0:30 of 30s total).
 
