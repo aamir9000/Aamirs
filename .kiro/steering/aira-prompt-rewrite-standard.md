@@ -284,3 +284,35 @@ NEXT IN QUEUE: 20 Magical Action Reels Heavy-Detail — ACTION (hypercar/chase/c
 whip-pan, low-hero, hard hits on impacts. NOTE (from section E): inline single-line video
 prompts (different structure) — md_rebuild.py's inline-form regex may already cover it, but
 verify the per-frame layout first.
+
+
+====================================================================
+## I. COLOUR / VIBRANCY DISCIPLINE (controlled vibrancy — do NOT over-colour)
+====================================================================
+Principle (agreed with user): vibrancy is already baked into these concepts, so the goal
+is RESTRAINT, not more colour. Too much saturation everywhere destroys the visuals — it
+flattens depth, removes focal hierarchy, pushes skin tone unnatural, blows highlights and
+causes eye-fatigue. Rich = curated, not maxed. Apply this to all Aira prompt work:
+
+- CURATED PALETTE: one dominant hue family + 1-2 supporting accents per concept; anchor it
+  with neutrals / tonal areas / negative space so the colour has somewhere to breathe.
+- VIBRANCY THROUGH CONTRAST & LIGHT, not blanket saturation: get "pop" from rim-light,
+  speculars, glow, a bright subject against a darker/cooler ground — not by cranking every
+  surface to full chroma.
+- HERO READS FIRST: Aira (and the hero product) must be the focal point; the environment
+  supports, it does not compete. Keep a clear figure-to-ground separation.
+- PROTECT IDENTITY & SKIN: natural, true skin tone — never push saturation onto the face;
+  no colour cast that shifts identity, eye colour or makeup intent.
+- "ALREADY-VIBRANT" = CEILING, NOT FLOOR: where a concept is tagged hyper-vibrant / neon /
+  candy / electric, treat that as the maximum and balance it with dark/neutral grounds and
+  restraint so colour punches rather than overwhelms. Do not add further saturation.
+- LEAVE TONAL/LUXE CONCEPTS TONAL: porcelain, marble, ice, obsidian, ink, forge, pearl,
+  sea-blue/pool, chrome — these are deliberately restrained; keep their elegant tonal palette,
+  do not "colour them up."
+- AVOID: neon-on-neon mud, clashing full-saturation fields, rainbow-everything, blown
+  highlights, muddy/over-graded look. Favour clean, deliberate, cinematic colour.
+
+NOTE: this is a guardrail for palette intent (lives in briefs / IMAGE prompts / LIGHTING /
+ENVIRONMENT). The video SHOT BREAKDOWN rebuild does not change colour; it only references
+each concept's existing palette. No destructive mass re-grade was applied — existing
+vibrancy was preserved and is to be kept balanced per the above.
