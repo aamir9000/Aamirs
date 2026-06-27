@@ -254,6 +254,68 @@ BEATS[3] = [
 ]
 
 
+BEATS[4] = [
+    # Frame 1 - 3/4 front medium, seated slipping on heel
+    (
+        "Three-quarter front medium: she is already guiding the heel-strap over her ankle on "
+        "the velvet bench as a slow push drifts toward her hands, the tall gilt mirror "
+        "glowing warm behind; gaze down on the buckle.",
+        "The push settles as she presses the nude block heel home and flexes the ankle, the "
+        "blush-tinted room soft around her; a small pleased smile beginning.",
+        "She lifts her gaze toward the mirror, eyes brightening with curiosity, a soft "
+        "playful smile forming as the reflection catches her.",
+    ),
+    # Frame 2 - profile medium-wide, lifting coat at rail
+    (
+        "Profile medium-wide: she is already lifting the blush wrap-coat onto her shoulders "
+        "as a gentle lateral dolly glides with her toward the mirror; gaze following the "
+        "coat into place.",
+        "The dolly eases toward a stop as she adjusts the collar and shifts the bag to one "
+        "hand, fabric settling; a light, breezy set to her mouth.",
+        "She squares to face the mirror and lifts a hand toward the glass, eyes fixing on "
+        "her reflection with playful intent.",
+    ),
+    # Frame 3 - front-on medium facing mirror, SWAP 1 blush->ivory
+    (
+        "Front-on medium facing the mirror: her fingertips are already meeting the glass as "
+        "a slow push glides toward the touch-point, the surface beginning to shimmer.",
+        "A swap-ripple radiates out from her fingertip and sweeps her body, the blush look "
+        "re-dressing into the crisp ivory pantsuit while the whole room re-tints ivory.",
+        "She reacts with a delighted grin, eyes dropping to take in the new look, cheeks "
+        "lifting in bright surprise.",
+    ),
+    # Frame 4 - low-angle close-up, SWAP 2 ivory->emerald
+    (
+        "Low-angle close-up on her face and shoulder: her fingertips touch the glass again "
+        "as a smooth crane begins to rise from below toward eye-level; gaze flicking to the "
+        "mirror.",
+        "The emerald ripple sweeps up her body and the room re-tints emerald as the crane "
+        "lifts; eyes following the colour climbing, lips curving.",
+        "At eye-level a confident playful smirk lands with a slow, delighted blink to her "
+        "own reflection.",
+    ),
+    # Frame 5 - front-on full/wide hero, SPOKEN line
+    (
+        "Front-on full/wide hero: she is already settling into the emerald shirt-dress, hand "
+        "finding her hip, as a slow push eases toward dead-front; gaze steady and pleased.",
+        "She gestures lightly to the three faint past-look reflections shimmering in the "
+        "glass, eyes flicking across them with playful pride.",
+        "She turns fully to lens and delivers the spoken line with a radiant smile, brows "
+        "lifting in light delight as the push settles.",
+    ),
+    # Frame 6 - 3/4 front medium loop close
+    (
+        "Three-quarter front medium matching Frame 1: she touches the glass one last time as "
+        "a slow pull-back begins to reverse the opening push, the emerald softening back "
+        "toward blush; gaze on the fading colour.",
+        "The pull-back continues as the room warms back to blush and the accessories reform, "
+        "a soft contented smile returning.",
+        "She eases back toward the velvet bench into the exact seated lean of Frame 1, eyes "
+        "drifting down to the heel again \u2014 a seamless loop seam.",
+    ),
+]
+
+
 def build_block(beats):
     # Replaces ONLY the `SUBJECT ACTION w/ BEAT-TIMING:` header + its bullet
     # beat lines. Whatever follows (a blank line then SPOKEN LINE or

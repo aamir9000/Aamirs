@@ -1630,14 +1630,16 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE & ANGLE: three-quarter front medium, subject fills ~55%.
 
-CAMERA MOVEMENT (CHOREOGRAPHY): a slow 5% push toward her hands at the shoe with a faint settle, gimbal-smooth.
-
 LENS: 50mm, f/2.0.
 
-SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.2s — she guides the heel-strap over the ankle.
-- 2.2–4.2s — she presses the heel home and flexes the ankle.
-- 4.2–6.0s — she lifts her gaze toward the mirror, a soft smile forming.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Three-quarter front medium: she is already guiding the heel-strap over her ankle on the velvet bench as a slow push drifts toward her hands, the tall gilt mirror glowing warm behind; gaze down on the buckle.
+- [00:02–00:04] The push settles as she presses the nude block heel home and flexes the ankle, the blush-tinted room soft around her; a small pleased smile beginning.
+- [00:04–00:06] She lifts her gaze toward the mirror, eyes brightening with curiosity, a soft playful smile forming as the reflection catches her.
+
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
+
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
 FLUIDITY & WEIGHT NOTES: the shoe gesture flows from a relaxed shoulder and wrist; the lift of the gaze leads with the eyes then the chin; the seated posture breathes — nothing stiff.
 
@@ -1704,14 +1706,16 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE & ANGLE: profile medium-wide, subject fills ~50%.
 
-CAMERA MOVEMENT (CHOREOGRAPHY): a gentle lateral dolly settling to a stop as she squares to the mirror, smooth.
-
 LENS: 35mm, f/2.2.
 
-SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.1s — she lifts and settles the coat onto her shoulders.
-- 2.1–4.1s — she adjusts the collar and shifts the bag to one hand.
-- 4.1–6.0s — she turns to face the mirror, lifting a hand toward the glass.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Profile medium-wide: she is already lifting the blush wrap-coat onto her shoulders as a gentle lateral dolly glides with her toward the mirror; gaze following the coat into place.
+- [00:02–00:04] The dolly eases toward a stop as she adjusts the collar and shifts the bag to one hand, fabric settling; a light, breezy set to her mouth.
+- [00:04–00:06] She squares to face the mirror and lifts a hand toward the glass, eyes fixing on her reflection with playful intent.
+
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
+
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
 FLUIDITY & WEIGHT NOTES: the coat-settle is a fluid shoulder roll; the turn to the mirror is hip-led and continuous; the reach extends from the shoulder blade — graceful, never abrupt.
 
@@ -1778,14 +1782,16 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE & ANGLE: front-on medium facing mirror, subject fills ~55%.
 
-CAMERA MOVEMENT (CHOREOGRAPHY): a slow 5% push toward the touch-point as the ripple radiates, steady and smooth.
-
 LENS: 50mm, f/2.0.
 
-SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.5s — her fingertips meet the glass.
-- 1.5–3.6s — the swap-ripple sweeps her body and the room re-tints ivory.
-- 3.6–6.0s — she reacts with a delighted grin, looking down at the new look.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Front-on medium facing the mirror: her fingertips are already meeting the glass as a slow push glides toward the touch-point, the surface beginning to shimmer.
+- [00:02–00:04] A swap-ripple radiates out from her fingertip and sweeps her body, the blush look re-dressing into the crisp ivory pantsuit while the whole room re-tints ivory.
+- [00:04–00:06] She reacts with a delighted grin, eyes dropping to take in the new look, cheeks lifting in bright surprise.
+
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
+
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
 FLUIDITY & WEIGHT NOTES: the touch is a soft deliberate reach; the surprise lifts through the spine continuously; the look-down at the new outfit flows naturally — reactive and alive.
 
@@ -1852,14 +1858,16 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE & ANGLE: low-angle close-up, subject fills ~60%.
 
-CAMERA MOVEMENT (CHOREOGRAPHY): a slow rise-and-push from below to eye-level as the swap completes, one smooth crane.
-
 LENS: 50mm, f/1.8.
 
-SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.5s — fingertips touch the glass again.
-- 1.5–3.6s — the emerald ripple sweeps up and the room re-tints.
-- 3.6–6.0s — a confident smirk and a slow delighted blink to the mirror.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Low-angle close-up on her face and shoulder: her fingertips touch the glass again as a smooth crane begins to rise from below toward eye-level; gaze flicking to the mirror.
+- [00:02–00:04] The emerald ripple sweeps up her body and the room re-tints emerald as the crane lifts; eyes following the colour climbing, lips curving.
+- [00:04–00:06] At eye-level a confident playful smirk lands with a slow, delighted blink to her own reflection.
+
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
+
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
 FLUIDITY & WEIGHT NOTES: the chin-lift and shoulder-roll flow continuously as confidence builds; the smirk blooms gradually; breath visible — supremely alive.
 
@@ -1926,14 +1934,16 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE & ANGLE: front-on full/wide hero, subject fills ~50%.
 
-CAMERA MOVEMENT (CHOREOGRAPHY): a slow settling 3% push to dead-front, near-locked, letting her own the frame.
-
 LENS: 28mm, f/3.2.
 
-SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.0s — she settles into the emerald look, hand to hip.
-- 2.0–4.0s — she gestures to the three faint reflections.
-- 4.0–6.0s — she delivers the line to lens with a radiant smile.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Front-on full/wide hero: she is already settling into the emerald shirt-dress, hand finding her hip, as a slow push eases toward dead-front; gaze steady and pleased.
+- [00:02–00:04] She gestures lightly to the three faint past-look reflections shimmering in the glass, eyes flicking across them with playful pride.
+- [00:04–00:06] She turns fully to lens and delivers the spoken line with a radiant smile, brows lifting in light delight as the push settles.
+
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
+
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
 SPOKEN LINE (lands ~4.6s): "why pick one, when I can be all of them?" (English, natural Indian accent, warm and playful)
 
@@ -2002,14 +2012,16 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE & ANGLE: three-quarter front medium matching Frame 1, subject ~55%.
 
-CAMERA MOVEMENT (CHOREOGRAPHY): a slow pull-back reversing Frame 1's push, so the end pose meets the opening seated lean.
-
 LENS: 50mm, f/2.0.
 
-SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.3s — she touches the glass and the emerald softens back to blush.
-- 2.3–4.7s — the room warms and accessories reform.
-- 4.7–6.0s — she eases back toward the bench into the Frame 1 lean.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Three-quarter front medium matching Frame 1: she touches the glass one last time as a slow pull-back begins to reverse the opening push, the emerald softening back toward blush; gaze on the fading colour.
+- [00:02–00:04] The pull-back continues as the room warms back to blush and the accessories reform, a soft contented smile returning.
+- [00:04–00:06] She eases back toward the velvet bench into the exact seated lean of Frame 1, eyes drifting down to the heel again — a seamless loop seam.
+
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
+
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
 FLUIDITY & WEIGHT NOTES: the sit-back is a smooth hip-led descent; the reverse-swap flows as a gentle wipe; the reset reads as natural continuation, not a rewind.
 
