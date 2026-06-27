@@ -1,91 +1,171 @@
-# Aira Prompt Rewrite — Standard & Resume Guide
+# Aira Prompt Rewrite — COMPLETE Standard, History & Resume Guide
 
-This file lets any new session resume the prompt-improvement work without losing context.
-Branch: **aira-prompts-enhanced** (repo aamir9000/Aamirs). All work is committed/pushed there.
+Purpose: a single source of truth so any new session can resume with full context.
+Repo: **aamir9000/Aamirs** · Branch: **aira-prompts-enhanced** (all work committed & pushed there).
+Originals are preserved in git history / on `main`.
 
----
+The job: take the master Aira concept `.txt` files and turn each into a clean,
+AI-generation-ready (Nano Banana Pro stills + VEO video) version — additive only,
+never deleting real descriptive content, and progressively raise them to the
+"advanced" cinematic standard defined below.
 
-## PROGRESS TRACKER
+====================================================================
+## A. EVERYTHING ALREADY DONE (global passes, all 20 files unless noted)
+====================================================================
+1. **SUBJECT FRAMING & POSITION** added to EVERY image prompt (one unique prose
+   paragraph per frame), each ending with the EXACT clause:
+   "ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame."
+2. **Asterisks stripped** (all `**bold**` markdown removed; zero words lost).
+3. **Internal codes removed** (AO./AO-X/AU./AT #/AW #/AF #/AQ #/AC #/AP #/AX #/BB) — 0 remain.
+   Kept STD-NEG-IMG / STD-NEG-VID (real negative content).
+4. **Restored 38 descriptor words** that had been wrongly dropped together with codes
+   (e.g. (living stillness), (override), (hyper-vibrant), (identity-through-transform),
+   (vibrant-on-dark), (real pores and texture preserved throughout)). Rule: strip the
+   code, KEEP the meaningful words.
+5. **SUBJECT / IDENTITY-intro line normalised** to: `Aira [paste identity-lock reference sheet here].`
+6. **Video timestamps restructured** to discrete one-beat-per-line earlier on.
+7. **MASTER AUDIO block per concept** (Cinematic Audio Direction — see section C). Added
+   where missing; NOT duplicated where a per-concept brief already existed (Beauty Ad,
+   More Full Set 3, Master-Depth, Set 4, Set 5 variants, 91-110, Magical Master Set,
+   Concept 100 already had briefs and were left).
+8. **6-SECOND CLIP STANDARD** (user decision; reasoning: 4s too short, 10s too long/drifty,
+   6s lets the action play cleanly without filler):
+   - MASTER AUDIO runtime = frames x 6s, in self-resolving ~6s phrases.
+   - Per-frame beat timings rescaled to fill 6s; all `DURATION:` = 6 seconds;
+     Time-Freeze "running total" recomputed cumulatively (6,12,18…).
+   - Decade refs (70s/80s/90s) and reel-totals were protected from the rescale.
+9. **IDENTITY & CHARACTER-CONSISTENCY LOCK** added to every video prompt (1,714), then
+   upgraded to the **expression-safe "fixed skeleton" model** (section D).
+10. **Cleanup:** deleted the duplicate top-level "Aira — …Set 3…256.txt", the untracked
+    `concepts_dl/` and `_work/` old copies, `CONCEPTS.zip`, the 1-byte "Ai voice".
+    Moved 7 heavily-detailed concepts into `CONCEPTS/Heavy-Detail/`.
+11. **Beauty Ad Reels — FULL ADVANCED REBUILD complete** (all 20 concepts, 129 video prompts) — section B.
 
-### Done globally (all 20 files)
-- Added `SUBJECT FRAMING & POSITION:` to every image prompt (with exact ORIENTATION LOCK clause).
-- Stripped asterisks; removed internal codes (0 remain); restored 38 dropped descriptor words.
-- Added one `MASTER AUDIO` block per concept (or kept existing per-concept brief — no duplicates).
-- Set clip standard to **6 seconds**; `MASTER AUDIO` runtimes = frames x 6s; rescaled per-frame beat
-  timings to fill 6s; all explicit `DURATION:` = 6s.
-- Added a detailed **IDENTITY & CHARACTER-CONSISTENCY LOCK** to every video prompt (1,714 total),
-  upgraded to the **expression-safe "fixed skeleton"** model.
-- Removed duplicate files; grouped 7 heavily-detailed concepts into `CONCEPTS/Heavy-Detail/`.
+====================================================================
+## B. THE ADVANCED VIDEO-PROMPT REBUILD (the current standard)
+====================================================================
+For each concept: READ IT FULLY, understand its world + dance/hero-move, then rewrite
+ONLY frames that are boring / unfit / ruining the moment. No blind templating.
 
-### Done — ADVANCED video-prompt rebuild (the new standard below)
-- **Beauty Ad Reels (Heavy-Detail/) — ALL 20 concepts, 129 video prompts. COMPLETE.**
-
-### REMAINING — apply the ADVANCED rebuild to these files (queue):
-1. 20 Cinematic Reels New Set.txt
-2. 20 Full Reel Concepts Set 4 (Concepts 51.txt
-3. 20 Full Reel Concepts Set 5 (Concepts 71.txt
-4. 20 Full Reel Concepts Set 5 (cont 2).txt
-5. 20 Full Reel Concepts · Set 5 (cont.txt
-6. 20 Magical Action Reels Heavy-Detail.txt
-7. 20 Magical Action Reels Set 2 Expression.txt
-8. 20 More Full Reel Concepts Set 3.txt
-9. Magical Action Reels · Master Set.txt
-10. Set 5 (cont 3) Clothes-Change Transformation.txt
-11. Set 5 (cont 4) · Clothes-Change Transformation.txt
-12. aira_set4.txt
-13. aira_set5.txt
-14. Heavy-Detail/20 Reel Concepts Master-Depth Build.txt
-15. Heavy-Detail/Concept 100 · The Unboxing.txt
-16. Heavy-Detail/Concept 170 · Phoenix Crash.txt
-17. Heavy-Detail/Concepts 91–110 · FULL Heavy-Detail.txt
-18. Heavy-Detail/NEW Reel Concepts (131–150) .txt
-19. Heavy-Detail/Time-Freeze Reel Set · Fully-Detailed Concepts.txt
-(Note: some files use inline single-line video prompts / different headers — adapt the regex.)
-
----
-
-## THE ADVANCED VIDEO-PROMPT STANDARD (what "rebuild" means)
-
-For each concept: read it fully first, understand its world + dance/move, then rewrite ONLY where weak.
-
-1. **Replace** the old `SUBJECT ACTION WITH TIMING:` block with a heavily-detailed
-   `SHOT BREAKDOWN (timed, 6s · real-time …):` — 3 beats `[00:00–00:02] [00:02–00:04] [00:04–00:06]`,
-   each beat = **shot size/angle + her action + object/world interaction + eye-led expression + camera move**.
-2. **Dedup:** delete the standalone `CAMERA MOVEMENT:` and `CHOREOGRAPHY & FLUID MOTION:` lines
-   (motion/camera now live only in the breakdown). Keep MICRO-MOVEMENT, LIGHTING, ENVIRONMENT, AUDIO, etc.
-3. **Vary every frame** in crop (ECU/CU/half/cowboy/full/wide), angle (front/3-4/profile/low-hero/high/
-   overhead/over-shoulder/symmetrical), and placement (centre/left/right/near/far) — no two frames alike.
-4. **Camera grammar matched to the concept's dance/world** — orbit, dolly-in, crane/boom, tracking,
-   whip-pan, arc, rack-focus, pull-out, snap-push — a distinct one per frame (not push-only).
-5. **Already-in-motion starts:** every beat 1 opens with motion ALREADY in progress (anti-drift cold-start).
-6. **Real-time, no slow-mo.** Replace FRAME RATE line with:
+Per VIDEO prompt:
+1. REPLACE the old `SUBJECT ACTION WITH TIMING:` block with a heavily-detailed
+   `SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion,
+   never a static hold; expression eye-led and identity-safe):` with 3 beats:
+   `- [00:00–00:02] …  - [00:02–00:04] …  - [00:04–00:06] …`
+   Each beat = **shot size/angle + her action + object/world interaction + eye-led expression + camera move.**
+2. DEDUP: delete the standalone `CAMERA MOVEMENT:` and `CHOREOGRAPHY & FLUID MOTION:`
+   lines (motion + camera now live only inside the breakdown). Keep MICRO-MOVEMENT,
+   LIGHTING, ENVIRONMENT, AUDIO, LIP-SYNC, NEGATIVE.
+3. REPLACE `FRAME RATE + MOTION BLUR:` line with EXACTLY:
    `FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.`
-7. **Expressions:** eye-led and identity-safe — ONE smooth transition per clip (focus→wonder→smile),
-   eyes tracing objects; tone-matched (playful/cute for light concepts, dramatic awe for serious ones).
-   Big expression deformation causes Veo face-drift, so keep moderate.
-8. **DURATION:** `DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).`
-9. **Update FRAMING (image prompt)** + `SHOT TYPE` (video) per frame to the varied crop/angle/placement.
-10. **Subconscious continuity:** vary every frame on the surface, but keep world/palette/identity/
-    motion-hand-off/loop continuous so the reel feels like one piece.
-11. Preserve: identity lock, scene detail, loop logic, spoken/silent (silent reels = no line, expression reveal).
+4. SET `DURATION:` to `6 seconds (the clip plays the full 6s at real-time natural speed).`
+5. REPLACE the video `SHOT TYPE:` line with the frame's varied shot size/angle/placement.
 
----
+Per IMAGE prompt: REPLACE the `FRAMING:` line with the frame's varied crop/angle/placement.
+Keep the image still NATURAL/alive (Veo animates the expression from the still — don't
+freeze a hammy peak expression into it).
 
-## REUSABLE METHOD (how Beauty Ad was done)
-Per-concept Python scripts authored the content and applied it (see `_tools/beauty_c*.py`). Pattern:
-- Isolate a concept region (`# CONCEPT N` to `# CONCEPT N+1`), split by frame headers.
-- IMAGE block: replace `^FRAMING:` line. VIDEO block: replace `^SHOT TYPE:`, delete `CAMERA MOVEMENT:`
-  and `CHOREOGRAPHY & FLUID MOTION:`, replace `SUBJECT ACTION WITH TIMING:` block with the authored
-  `SHOT BREAKDOWN`, replace `FRAME RATE` line, set `DURATION` to 6s.
-- Verify: 0 leftover `SUBJECT ACTION WITH TIMING`, 0 `CAMERA MOVEMENT`, 0 non-negated `slow-mo`,
-  breakdown count == video-prompt count, DURATION all 6s. Commit one concept/batch, push.
-- Push tool: github power -> push_to_remote (never raw git push). Commit per concept/batch.
+ALL frames in a concept must differ in:
+  • CROP: ECU / CU / head-&-shoulders / half (waist) / cowboy (knee) / full-body / wide.
+  • ANGLE: front / three-quarter / profile(side) / over-the-shoulder / low-hero / high / overhead / symmetrical.
+  • PLACEMENT: centre / left-third / right-third / near(fills frame) / far(small, env-dominant); flip negative space side to side.
+  • CAMERA: orbit / dolly-in / crane-boom / tracking / whip-pan / arc / rack-focus / pull-out / snap-push — distinct per frame, matched to the concept's dance/world (NOT push-only).
 
----
+Other rules:
+  • ALREADY-IN-MOTION starts — beat 1 opens with motion already in progress (anti cold-start drift).
+  • REAL-TIME, NO SLOW-MO anywhere.
+  • EXPRESSIONS: eye-led + identity-safe (section D). ONE smooth transition per clip
+    (e.g. focus → wonder → soft smile), eyes tracing the object. Tone-matched:
+    playful/cute reactions (e.g. delighted hands-framing-cheeks, surprised eye-widen,
+    cute scrunch) for LIGHT concepts; dramatic awe/intensity for SERIOUS ones.
+    Hands near face must FRAME (not cover) and stay clean to avoid finger/face drift.
+  • MAGICAL TOUCHES: concept-specific interactive magic tied to her touch + the hero
+    material (chrome races where she traces, petals swirl to her gesture, light gathers
+    to her palm) — never random VFX.
+  • SUBCONSCIOUS CONTINUITY: maximum surface variety, but keep world/palette/identity/
+    lighting + motion hand-off (each frame ends on a vector the next picks up) + loop
+    (last frame resolves to frame 1) continuous, so it reads as ONE reel.
+  • Preserve identity lock, scene detail, loop logic, and SPOKEN vs SILENT (silent reels
+    have no spoken line — use an expression reveal instead).
 
-## RESUME PROMPT (paste into a new session)
+====================================================================
+## C. CINEMATIC AUDIO DIRECTION (the MASTER AUDIO block per concept)
+====================================================================
+Two layers: (1) one MASTER AUDIO block OUTSIDE the frames per concept; (2) per-frame
+in-prompt audio. Master audio = custom score for the exact runtime, no fade-in (emotion
+in first second), mood→instrument palette (luxury: deep sub+felt piano; romance: piano/
+strings/violin; power: trailer perc/synth bass/brass; dream: harp/choir; mystery: cello/
+dark; beauty: delicate piano/atmos), emotional arc across frames, vocals only if they
+help (honour SPOKEN/SILENT), layered, and event IMPACTS reserved for major beats (reveal/
+transform/peak) tuned to the score's key so they read as the music expanding, not added SFX.
+Runtime now = frames x 6s (or ~60s self-resolving/cuttable if a fixed clip duration is implied).
+
+====================================================================
+## D. IDENTITY-SAFE EXPRESSION MODEL (in every video prompt's lock)
+====================================================================
+Problem: when Veo animates big/fast expressions it drifts the face. Solution wording
+(already applied to all 1,714 locks): treat identity as a FIXED skeleton that never
+changes (bone structure, face shape/proportions, eye shape+spacing+iris colour, nose &
+lip shape, skin tone+texture, hairline, hair colour+texture, build, hands). ONLY soft
+expression muscles (lids, brows, cheeks, mouth corners) + eyes/gaze/head may move,
+animating ON TOP of fixed identity. Lead with EYES/gaze; keep expression smooth, moderate,
+ONE clean transition per clip; no extreme grimace, wide-mouth distortion, hard squint, or
+rapid flicker that warps geometry. Through any transform only the intended element changes;
+interpolate strictly between locked keyframes; never invent a new face/hands/second subject.
+
+====================================================================
+## E. REMAINING QUEUE (apply section B advanced rebuild) + treatment notes
+====================================================================
+Read each fully first; tailor camera/expression to its dance/world. Suggested treatments:
+- 20 Cinematic Reels New Set — varied cinematic per concept (pool/hotel/monsoon/etc.).
+- 20 Full Reel Set 4 (51-70) — couture-material transforms; track the transform, orbit the apex.
+- 20 Full Reel Set 5 (71-79) — studio couture transforms (image-heavy); vary crop/angle hard.
+- Set 5 (cont 2) / · Set 5 (cont) / Set 5 cont 3 / cont 4 — couture/clothes-change; transform-led.
+- 20 Magical Action Heavy-Detail — ACTION (hypercar/chase/combat); handheld, whip-pan, low-hero,
+  hard hits on impacts. NOTE: inline single-line video prompts (different structure — adapt regex).
+- 20 Magical Action Set 2 Expression — action/expression; inline format too.
+- Magical Action · Master Set — action; uses "## 🌀 CONCEPT", "### Frame", MASTER TRACK BRIEF per concept.
+- 20 More Full Reel Set 3 — varied; already has MASTER TRACK BRIEF per concept.
+- Heavy-Detail/Master-Depth Build — varied; brief per concept.
+- Heavy-Detail/Concept 100 (Unboxing), Concept 170 (Phoenix Crash) — single/few concepts, very dense.
+- Heavy-Detail/Concepts 91-110 FULL Heavy-Detail — chrome/liquid-metal studio.
+- Heavy-Detail/NEW Reel (131-150) — surreal worlds; rich.
+- Heavy-Detail/Time-Freeze — time-freeze reels; NOTE 2 concepts are continuous "oner" single-takes
+  with CUMULATIVE beat timings (e.g. 14.0–14.8s) and bare `### VIDEO PROMPT` headers — those 8 frames
+  were intentionally LEFT (don't force discrete 6s). Some concepts have "running total" annotations.
+- aira_set4 / aira_set5 — Format B plain text: headers `---- FRAME k · SIZE · ANGLE ----`,
+  `IMAGE PROMPT (Nano …)`, `VIDEO PROMPT (VEO … · 6s · 24fps)`, audio woven inline; set4 video
+  header has NO trailing colon. Already have per-frame audio; need the advanced breakdown + variety.
+
+====================================================================
+## F. METHOD, VERIFICATION, WORKFLOW
+====================================================================
+- Reusable Python pattern used for Beauty Ad lives in `_tools/beauty_c*.py` (per-concept
+  authored content + region/frame regex application). Reuse/adapt per file format.
+- Per concept: isolate region (`# CONCEPT N` → `# CONCEPT N+1`), split by frame headers,
+  IMAGE→replace FRAMING, VIDEO→replace SHOT TYPE / delete CAMERA MOVEMENT + CHOREOGRAPHY /
+  replace SUBJECT ACTION WITH TIMING → SHOT BREAKDOWN / replace FRAME RATE / set DURATION.
+- VERIFY each file: 0 leftover `SUBJECT ACTION WITH TIMING`, 0 `^CAMERA MOVEMENT:`,
+  0 non-negated `slow-mo`, breakdown count == video-prompt count, all DURATION 6s,
+  identity-lock count == video-prompt count, ORIENTATION LOCK count == image-prompt count.
+- Commit per concept or small batch with a clear message; PUSH with the GitHub power
+  `push_to_remote` (NEVER raw `git push`). Update the PROGRESS section of this file as you go.
+
+====================================================================
+## G. OPEN / OPTIONAL ITEMS (decide with user)
+====================================================================
+- Optional: add explicit synced `IMPACT —` clauses to transform frames in non-Beauty files
+  (offered earlier; only do where not already present, to avoid duplicates).
+- The 8 Time-Freeze "oner" cumulative frames left as-is by design.
+- Files with spelled-out `DURATION: N seconds` and inline-action single-line video prompts
+  need format-specific regex (the simple line-replacements assume the markdown format).
+
+====================================================================
+## H. RESUME PROMPT (paste into a new session)
+====================================================================
 "Continue the Aira prompt rebuild on branch aira-prompts-enhanced. Read
-.kiro/steering/aira-prompt-rewrite-standard.md for the full standard and progress.
-Beauty Ad is fully done. Continue applying the ADVANCED video-prompt rebuild to the
-remaining files in the queue, one concept at a time, reading each fully first and
-tailoring camera/expression to its world — then commit and push each."
+.kiro/steering/aira-prompt-rewrite-standard.md fully for the standard, history and
+progress. Beauty Ad is complete. Continue the ADVANCED video-prompt rebuild on the
+remaining queued files, one concept at a time — read each fully first, tailor camera +
+expression to its world, keep every frame distinct with subconscious continuity, then
+commit and push each and tick it off the progress tracker."
