@@ -643,6 +643,72 @@ BEATS[59] = [
 ]
 
 
+BEATS[60] = [
+    # F1 - medium-full three-quarter hero among greenery and glass frames (push-in)
+    (
+        "Medium-full three-quarter hero among the greenery and pressed-flower glass frames: "
+        "a slow push-in is already gliding toward her as she holds the blush bottle to her "
+        "collarbone, the sage silk breathing and a fresh petal drifting through the daylight "
+        "beam; she lifts her eyes to lens with a soft fresh smile.",
+        "The push continues as she begins a graceful quarter-turn, a soft highlight "
+        "travelling the silk; gaze easing to lens, lashes soft.",
+        "She settles mid-turn, weight rolling onto the front foot, a fresh romantic calm "
+        "holding as a hanging bloom sways behind.",
+    ),
+    # F2 - full-figure transform, slightly low angle (arc following the resin setting up)
+    (
+        "Full-figure from a slightly low angle: a slow controlled arc is already rising as "
+        "the first real petals settle onto the hem and a clear resin begins to flow around "
+        "them; gaze tracking the gathering petals, eyes brightening.",
+        "The arc rides the setting up her body as petals drift in and arrange while the "
+        "resin flows and hardens into translucent panels suspending the blooms; an awed "
+        "breath, brows lifting in wonder.",
+        "The last panels set and the resin gown settles as the arc eases; a fresh luminous "
+        "look landing, eyes alight on the suspended blossoms.",
+    ),
+    # F3 - beauty close, product-at-face / liquid blush (6% push to face)
+    (
+        "Beauty close, chest-up at a three-quarter: a slow push toward her face is already "
+        "gliding in as she lifts the doe-foot applicator and dabs two small dots of "
+        "rosy-coral blush onto her cheek; eyes lowered to the dabs.",
+        "She blends with two fingertips and a soft fresh dewy flush blooms, the push "
+        "settling; a warm smile beginning, gaze warming.",
+        "She lowers the hand a touch and lifts her eyes, the petal-set resin glinting, a "
+        "fresh calm in her gaze.",
+    ),
+    # F4 - beauty close, direct address (SPOKEN)
+    (
+        "Beauty close, chest-up squared to lens: the camera is already settled on a "
+        "barely-there push as her eyes find the lens with a serene knowing smile, the bottle "
+        "presented at her chest.",
+        "She delivers \u201cin full bloom.\u201d with natural lip-sync and a gentle brow "
+        "lift, eyes bright and direct, the sunlit greenhouse soft behind.",
+        "The smile lands and holds with a fresh blink, gaze staying eye-to-eye.",
+    ),
+    # F5 - full-figure magical hero, bloom-burst petal cascade (majestic push + boom-rise)
+    (
+        "Full-figure magical hero from a slightly low angle: a slow majestic push-in with a "
+        "gentle boom-rise is already lifting as a closed bud at her heart panel quivers and "
+        "begins to unfurl; gaze drawn to the opening bud.",
+        "The boom keeps rising as the bloom sweeps across the gown, every suspended bud "
+        "unfurling and releasing a swirling cascade of fresh petals; eyes lifting into the "
+        "swirl, a radiant awe blooming.",
+        "The petals drift out, easing to a sustained ring of slowly falling petals as the "
+        "move settles; her radiant smile landing, eyes serene and haloed.",
+    ),
+    # F6 - loop close, matched to F1 (settle-back)
+    (
+        "Medium-full three-quarter hero matching Frame 1: a slow settle-back is already "
+        "easing the framing toward the opening position as the petal-glow fades and the last "
+        "petals drift down; she returns the bottle to her collarbone, gaze softening.",
+        "The pull continues as her smile eases to the soft poise of the opening and the "
+        "resin gown softens back toward the sage silk's stillness; eyes calming.",
+        "She lifts her eyes softly to the lens, landing precisely on the Frame 1 pose, "
+        "weight settled among the glass frames \u2014 a seamless loop seam.",
+    ),
+]
+
+
 def build_block(beats):
     # Replaces ONLY the `SUBJECT ACTION WITH TIMING:` header + its bullet beat
     # lines. Ends with a single trailing newline so the original blank line
