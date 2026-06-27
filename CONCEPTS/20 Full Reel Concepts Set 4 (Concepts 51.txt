@@ -88,13 +88,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: full-figure-to-waist symmetrical hero standing in the central jewel-light shaft.
 
-CAMERA MOVEMENT: a single slow reverent push-in down the nave toward her, locked otherwise — no transform yet.
-
 LENS: 35mm, f/2.0.
 
-SUBJECT ACTION WITH TIMING:
-- 0.0–3.0s — Aira holds the vial to her heart, the velvet breathing, and lifts her eyes to the great window with quiet awe.
-- 3.0–6.0s — she takes one slow step forward into the brightest jewel-shaft, the coloured light washing across her face. One reverent beat, real physics throughout.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Full-figure-to-waist symmetrical hero in the central jewel-shaft: a slow reverent push-in is already gliding down the nave as she cradles the faceted vial to her heart, the sapphire velvet breathing; eyes lifting to the towering window in quiet awe.
+- [00:02–00:04] The push continues as she takes one slow processional step into the brightest shaft, coloured light washing up her gown; lips parting on a held breath, gaze tracing the glass.
+- [00:04–00:06] She settles tall in the shaft, the vial glinting at her heart, a serene reverent calm holding in her eyes as a soft jewel caustic dances on the back of her hand.
 
 LIGHTING: jewel-coloured window shaft as the motivated key, cool rim, soft stone fill; the shaft brightening as she steps into it.
 
@@ -102,9 +101,9 @@ ENVIRONMENT: a vast cathedral nave, stained-glass windows, crossing coloured lig
 
 AUDIO: diegetic-plus-design, no spoken word this frame. Ambient bed — a deep soft cathedral reverb-tone, very low and wide, with a faint distant choir-hush. SFX — a soft single footstep-echo on stone at 3.1s (long natural tail), a delicate crystalline shimmer as the vial facets catch light at 0.7s, a low organ-swell rising under 3.0–6.0s. Reaction — a soft awed inhale at 2.6s. VO — none. The master track enters here soft and ambient (low and subtle, never full).
 
-DURATION: 5 seconds (0:00–0:05 of 30s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps, 180° shutter, gentle cinematic motion blur.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — silent, lips softly parted in awe.
 
@@ -155,14 +154,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: full-figure transform hero, slightly low angle.
 
-CAMERA MOVEMENT: a slow controlled arc rising with her as the light crosses, smooth and motivated — one move, no whip.
-
 LENS: 35mm, f/2.2.
 
-SUBJECT ACTION WITH TIMING:
-- 0.0–1.5s — the jewel-shaft strikes and shatters into travelling stained-glass shards.
-- 1.5–4.0s — the diagonal light-seam sweeps up her body, the sapphire velvet re-forming into jewel-mosaic beadwork as it passes, Aira reacting with an awed breath.
-- 4.0–6.0s — the last shard clears overhead and the finished jewel-mosaic gown settles, her recognizable face landing a small luminous smile. Only the crossing is impossible; everything else obeys real physics.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Full-figure from a slightly low angle: a slow controlled arc is already rising with her as the jewel-shaft strikes and shatters into travelling stained-glass shards; gaze catching the fracturing light, eyes widening a hair.
+- [00:02–00:04] The arc tracks the diagonal light-seam sweeping up her body, sapphire velvet re-forming into jewel-mosaic beadwork as it passes; an awed breath, brows lifting in wonder.
+- [00:04–00:06] The last shard clears overhead and the finished jewel-mosaic gown settles as the arc eases; a small luminous smile landing, eyes alight on the resolved beadwork.
 
 LIGHTING: the shattered jewel-shaft as a live travelling key, cool rim, soft stone fill; the windows blazing brighter through the beat then easing.
 
@@ -170,9 +167,9 @@ ENVIRONMENT: cathedral nave, blazing stained-glass windows, crossing coloured sh
 
 AUDIO: diegetic-plus-design, no spoken word. Ambient bed — the cathedral reverb-tone swelling with a fuller choir-rise under the crossing. SFX — a bright crystalline shatter-chime as the shaft fractures at 0.3s, a layered glassy shimmer sweeping up 1.5–4.0s tracking the seam, a soft settling bell-tone as the gown resolves at 5.6s. Reaction — a soft awed gasp at 1.4s. VO — none. Master track lifts gently under the transform then eases (subtle, never full).
 
-DURATION: 6 seconds (0:05–0:11 of 30s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps, 180° shutter, natural motion blur on the travelling light and arc.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — lips part on the awed breath, no words.
 
@@ -221,14 +218,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: beauty close, chest-up, product-at-face.
 
-CAMERA MOVEMENT: a slow 6% push-in to the cheekbone, locked otherwise.
-
 LENS: 85mm, f/2.2.
 
-SUBJECT ACTION WITH TIMING:
-- 0.0–2.4s — she tilts the vial, the warm serum settling, and brings one fingertip with a luminous radiance-drop toward her cheekbone.
-- 2.4–4.8s — she presses the drop to the high cheekbone, it catches the jewel light, and a small private smile begins.
-- 4.8–6.0s — she lowers the hand a touch, eyes lifting softly. One tactile beat, real physics.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Beauty close, chest-up at a three-quarter: a slow push toward her cheekbone is already gliding in as she tilts the vial and brings a luminous radiance-drop on her fingertip toward her face; eyes lowered to the drop in serene focus.
+- [00:02–00:04] She presses the drop to the high cheekbone and it catches the jewel light, the push settling; a small private smile beginning, lashes lowering.
+- [00:04–00:06] She lowers the hand a touch and lifts her eyes softly, the beadwork glinting, a content glow in her gaze.
 
 LIGHTING: warm jewel-shaft key, cool rim, soft stone fill; a live specular travelling on the vial and the drop as she moves.
 
@@ -236,9 +231,9 @@ ENVIRONMENT: cathedral nave, glowing stained-glass window behind, coloured shaft
 
 AUDIO: diegetic-plus-design, no spoken word. Ambient bed — soft cathedral reverb-tone, low choir-hush. SFX — a delicate liquid-tap as the dropper settles at 0.5s, a soft skin-press touch at 2.5s, a faint crystalline glow-shimmer as the drop catches light at 3.1s. Reaction — a soft contented breath at 4.1s. VO — none. Master track stays low and ambient (subtle, never full).
 
-DURATION: 5 seconds (0:11–0:16 of 30s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps, 180° shutter, gentle motion blur on the hand.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — a soft closed-lip smile.
 
@@ -289,14 +284,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: beauty close, chest-up, direct address.
 
-CAMERA MOVEMENT: locked-off and stable, a barely-there 4% push — no movement that competes with the line.
-
 LENS: 85mm, f/2.2.
 
-SUBJECT ACTION WITH TIMING:
-- 0.0–0.9s — she settles, eyes finding the lens with a warm smile.
-- 0.9–3.9s — she delivers "lit like a cathedral." with natural lip-sync and a soft brow lift, presenting the vial at her chest.
-- 3.9–6.0s — the smile lands and holds, a soft blink. One clean delivery, real physics.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Beauty close, chest-up squared to lens: the camera is already settled on a barely-there push as her eyes find the lens with a warm smile, the vial presented at her chest.
+- [00:02–00:04] She delivers “lit like a cathedral.” with natural lip-sync and a soft brow lift, eyes bright and direct, the jewel window glowing symmetrically behind.
+- [00:04–00:06] The radiant smile lands and holds with a warm blink, gaze staying eye-to-eye.
 
 LIGHTING: warm jewel-shaft beauty key, cool rim, soft stone fill; steady, no flicker.
 
@@ -304,9 +297,9 @@ ENVIRONMENT: cathedral nave, glowing stained-glass window centred behind, colour
 
 AUDIO: diegetic-plus-design with spoken word. Ambient bed — soft cathedral reverb-tone, faint choir-hush, low. SFX — a delicate room-reverb tail around the voice, a faint crystalline shimmer on the vial at 0.6s. VO — Aira, English with a natural Indian accent, warm and confident: "lit like a cathedral." delivered 0.9–3.9s, clean and intimate, sitting above the bed. Master track ducks under the voice and stays low (subtle, never full).
 
-DURATION: 4 seconds (0:16–0:20 of 30s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps, 180° shutter, gentle natural motion blur.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: precise lip-sync to "lit like a cathedral." across 0.9–3.9s; natural jaw and lip shapes, no drift.
 
@@ -357,15 +350,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: full-figure magical hero, slightly low angle.
 
-CAMERA MOVEMENT: a slow majestic push-in with a gentle rise ( + slight boom) tracking the bloom — one smooth motivated move.
-
 LENS: 35mm, f/2.0.
 
-SUBJECT ACTION WITH TIMING:
-- 0.0–0.6s — she raises the vial, light kindling at the cap.
-- 0.6–2.2s — the jewel-halo ring blooms outward in a slow wave, igniting the windows in sequence as she lifts her eyes into it.
-- 2.2–4.2s — gold motes drift down, the halo eases to a sustained glow, her radiant smile landing.
-- 4.2–6.0s — she holds, haloed and serene. Only the bloom is impossible; all else real physics.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Full-figure magical hero from a slightly low angle: a slow majestic push-in with a gentle boom-rise is already lifting as she raises the vial and light kindles at the cap; gaze lifting into the kindling glow.
+- [00:02–00:04] The boom keeps rising as the jewel-halo ring blooms outward in a slow wave, igniting the windows in sequence; eyes widening into the light, a radiant awe blooming.
+- [00:04–00:06] Gold motes drift down and the halo eases to a sustained glow as the move settles; her radiant smile landing, eyes serene and haloed.
 
 LIGHTING: the radiance-halo as a live blooming key, cool rim, warm window fill rising to full; controlled, no clipping.
 
@@ -373,9 +363,9 @@ ENVIRONMENT: cathedral nave, full bank of stained-glass windows blazing, coloure
 
 AUDIO: diegetic-plus-design, no spoken word. Ambient bed — the cathedral reverb-tone blooming with a full warm choir-swell cresting at the halo then settling. SFX — a soft warm ignition-chime at the cap 0.2s, a wide harmonic shimmer-swell tracking the expanding ring 0.6–2.2s, gentle bell-motes sparkling 1.4–3.0s, a low sustained resonance under the settle. Reaction — a soft awed exhale at 1.9s. VO — none. Master track rises to its fullest-but-still-restrained moment under the bloom then eases (subtle, never full).
 
-DURATION: 5 seconds (0:20–0:25 of 30s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps, 180° shutter, natural motion blur on the bloom and motes.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — lips part on the awed exhale and smile, no words.
 
@@ -426,14 +416,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: full-figure-to-waist symmetrical hero in the central jewel-light shaft — matched to Frame 1 for the loop.
 
-CAMERA MOVEMENT: a slow settle-back to the opening framing (gentle pull matching Frame 1's start position), locked otherwise — ending exactly where the reel began.
-
 LENS: 35mm, f/2.0.
 
-SUBJECT ACTION WITH TIMING:
-- 0.0–2.4s — the halo glow fades and the last motes drift down as she returns the vial to her heart.
-- 2.4–4.8s — her smile eases to the serene parted-lip awe of the opening, eyes lowering.
-- 4.8–6.0s — she lifts her eyes toward the great window again, landing precisely on the Frame 1 pose for a seamless loop. Real physics throughout.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Full-figure-to-waist symmetrical hero matching Frame 1: a slow settle-back is already easing the framing toward the opening position as the halo glow fades and the last motes drift down; she returns the vial to her heart, gaze lowering.
+- [00:02–00:04] The pull continues as her smile eases to the serene parted-lip awe of the opening and the jewel-mosaic softens back toward reverent stillness; eyes calming.
+- [00:04–00:06] She lifts her eyes toward the great window again, landing precisely on the Frame 1 pose, weight settled in the shaft — a seamless loop seam.
 
 LIGHTING: the single jewel-shaft restored as key, cool rim, soft stone fill; the windows easing back to the opening's soft glow.
 
@@ -441,9 +429,9 @@ ENVIRONMENT: cathedral nave restored to the opening tableau, stained-glass windo
 
 AUDIO: diegetic-plus-design, no spoken word. Ambient bed — the cathedral reverb-tone easing back down to the soft opening level with the faint distant choir-hush, looping cleanly into Frame 1's bed. SFX — a soft settling bell-resonance fading 0.0–2.4s, a faint crystalline shimmer on the vial at 5.3s matching the opening's 0.7s cue for the loop seam. Reaction — a soft calm exhale at 2.9s. VO — none. Master track resolves and eases to the soft ambient level it began on for a clean loop (subtle, never full).
 
-DURATION: 5 seconds (0:25–0:30 of 30s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps, 180° shutter, gentle cinematic motion blur.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — lips softly parted in awe, matched to the opening.
 
