@@ -106,9 +106,10 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: medium close rising to medium, subject fills about 55% of the vertical frame.
 
-CAMERA MOVEMENT: a single slow 6% push-in across the clip, otherwise locked-off and stable — one move only, no whip, no handoff.
-
-SUBJECT ACTION WITH TIMING: 0.0–3.0s — Aira holds the confident freeze, eyes locked to lens with the knowing quarter-smile, the Prism clutch glinting at her hip, baby-hair drifting; 3.0–6.0s — she raises her hand and lands a crisp finger-snap, chin tipping a degree as the studio light pulses on the click — the trigger for the first change. One clean subject action, real physics throughout.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Medium close rising to medium: a slow 6% push-in is already gliding in as she holds a confident freeze in the Voltage Tangerine look, eyes locked to lens with a knowing quarter-smile, the Prism clutch glinting at her hip and baby-hair drifting.
+- [00:02–00:04] The push continues as she raises her hand and lands a crisp finger-snap, chin tipping a degree as the studio light pulses on the click — the trigger for the first change; gaze sharp on lens.
+- [00:04–00:06] She holds the post-snap beat, eyes bright and direct, the tangerine seamless crisp behind (silent — no words).
 
 LENS: 50mm, f/2.8, smooth creamy background fall-off.
 
@@ -118,9 +119,9 @@ ENVIRONMENT: tangerine pop seamless studio, high-gloss mirror floor reflection, 
 
 AUDIO: silent of any voice — NO spoken word, NO vocal of any kind. Ambient bed — a low warm studio room tone throughout. SFX — a soft fabric settle at 0.6s, a crisp clean finger-snap at 3.0s (sharp transient, short tail) with a subtle airy light-whoosh tail as the light pulses. Reaction — a soft confident breath at 2.7s. VO — none.
 
-DURATION: 4 seconds (0:00–0:04 of 30s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps acquisition, 180° shutter, natural motion blur on the snap; playback 24fps real-time.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — lips closed/softly parted, composed.
 
@@ -183,9 +184,10 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: medium, waist-up, subject filling about 55% of the vertical frame.
 
-CAMERA MOVEMENT: a slow 5% whip-pan following the spin then resettling locked (single move), no cut — one continuous take through the change.
-
-SUBJECT ACTION WITH TIMING: 0.0–1.2s — off the snap she launches a fast 180° whip-spin, the tangerine look streaking into motion-blur; 1.2–3.0s — at the blur-peak the wardrobe, footwear, accessories, hair and makeup-accent all flip from Look A to the Liquid Cyan look, the seamless re-gelling tangerine to cyan (face pin-locked throughout); 3.0–6.0s — she resolves out of the spin facing lens in the liquid-sequin gown, the gown and chokers settling, the Prism clutch landing at her hip with a glint. One clean cause→effect change, real spin physics throughout.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Medium waist-up: off the snap a 5% whip-pan is already following her into a fast 180° whip-spin, the tangerine look streaking into motion-blur; gaze sweeping with the turn.
+- [00:02–00:04] At the blur-peak the wardrobe, footwear, accessories, hair and makeup-accent all flip from Look A to the Liquid Cyan look, the seamless re-gelling tangerine to cyan (face pin-locked); eyes alive through the spin.
+- [00:04–00:06] She resolves out of the spin facing lens in the liquid-sequin gown, the gown and chokers settling and the clutch landing at her hip with a glint; a cool composed look arriving.
 
 LENS: 50mm, f/2.8, creamy cyan fall-off with directional motion-blur at the blur-peak.
 
@@ -195,9 +197,9 @@ ENVIRONMENT: pop runway studio re-gelling tangerine → cyan, high-gloss mirror 
 
 AUDIO: silent of any voice — NO spoken word, NO vocal of any kind. Ambient bed — a low warm studio room tone. SFX — a clean whoosh-swish as the spin launches at 0.1s, a soft fabric-flutter motion-rush through the blur, a crisp shimmering sequin-cascade tinkle at 2.8s as the cyan gown resolves, a light glassy clutch-glint tick at 3.6s as it lands. Reaction — a soft exhilarated breath at 2.9s. VO — none.
 
-DURATION: 5 seconds (0:04–0:09 of 30s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps acquisition, 180° shutter, natural directional motion blur on the whip-spin; playback 24fps real-time.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — lips parted in motion, no speech, no mouthed words.
 
@@ -258,9 +260,10 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: medium-full, subject filling about 70% of the vertical frame.
 
-CAMERA MOVEMENT: a slow 5% push-in settling on the pose (single move), otherwise locked — one continuous take, no cut.
-
-SUBJECT ACTION WITH TIMING: 0.0–3.0s — she settles the hip-led pose, the liquid-sequin gown rippling a light-wave as it stills, the clutch easing forward; 3.0–6.0s — she lifts her gaze to lens with a cool composed quarter-smile, the cyan crystal drops settling, a final sequin shimmer travelling the gown. One clean editorial action, real fabric physics.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Medium-full: a slow 5% push-in is already settling on the hip-led pose as the liquid-sequin gown ripples a light-wave and stills, the clutch easing forward; gaze level.
+- [00:02–00:04] The push settles as she lifts her gaze to lens with a cool composed quarter-smile and the cyan crystal drops settle; a final sequin shimmer travelling the gown.
+- [00:04–00:06] She holds the composed cyan pose, eyes bright and direct, the gown glittering softly.
 
 LENS: 50mm, f/2.8, creamy cyan fall-off with soft sequin bokeh.
 
@@ -270,9 +273,9 @@ ENVIRONMENT: cyan pop runway studio, high-gloss mirror floor reflection.
 
 AUDIO: silent of any voice — NO spoken word, NO vocal of any kind. Ambient bed — a low warm studio room tone. SFX — a soft shimmering sequin-settle tinkle at 0.8s, a faint chrome-choker tick as it settles at 2.4s, a light airy cyan-shimmer accent at 4.0s timed to the gaze-lift. Reaction — a soft cool breath at 2.8s. VO — none.
 
-DURATION: 3 seconds (0:09–0:12 of 30s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps acquisition, 180° shutter, natural motion blur on the gown ripple; playback 24fps real-time.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — composed, no speech, no mouthed words.
 
@@ -335,9 +338,10 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: medium-full, subject filling about 70% of the vertical frame.
 
-CAMERA MOVEMENT: a slow 5% push-in steady through the cascade (single move), no cut — one continuous take through the change.
-
-SUBJECT ACTION WITH TIMING: 0.0–1.2s — she lifts a conducting hand and a wave of glossy split-flap panels begins rippling down from her shoulders; 1.2–3.6s — the panels flip top-to-bottom in a clean cascade, the wardrobe, footwear, accessories, hair-styling and makeup-accent all locking from the cyan look into the Ultraviolet Latex look (face pin-locked, panels never crossing the face), the seamless re-gelling cyan to ultraviolet; 3.6–6.0s — the final lower row flips, the magenta boots lock, and she settles into a confident planted stance as the look completes. One clean cause→effect change, real mechanical flip physics throughout.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Medium-full: a steady 5% push holds as she lifts a conducting hand and a wave of glossy split-flap panels is already rippling down from her shoulders; gaze tracking the cascade.
+- [00:02–00:04] The panels flip top-to-bottom in a clean cascade, the wardrobe, footwear, accessories, hair and makeup-accent locking from cyan into the Ultraviolet Latex look (face pin-locked, panels never crossing the face), the seamless re-gelling cyan to ultraviolet.
+- [00:04–00:06] The final lower row flips and the magenta boots lock as she settles into a confident planted stance, the look completing; eyes sharpening.
 
 LENS: 50mm, f/2.8, creamy ultraviolet fall-off.
 
@@ -347,9 +351,9 @@ ENVIRONMENT: pop runway studio re-gelling cyan → ultraviolet, high-gloss mirro
 
 AUDIO: silent of any voice — NO spoken word, NO vocal of any kind. Ambient bed — a low warm studio room tone. SFX — a rapid satisfying mechanical flip-board flutter cascading from 0.5s (crisp clacking panels, top-to-bottom), a soft latex-settle creak at 3.6s as the look locks, a glossy boot-plant tick at 4.1s. Reaction — a soft delighted breath at 3.8s. VO — none.
 
-DURATION: 5 seconds (0:12–0:17 of 30s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps acquisition, 180° shutter, natural motion blur on the flipping panels; playback 24fps real-time.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — lips parted in awe, no speech, no mouthed words.
 
@@ -410,9 +414,10 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: medium-full, subject filling about 70% of the vertical frame.
 
-CAMERA MOVEMENT: a slow 5% push-in settling on the power pose (single move), otherwise locked — one continuous take, no cut.
-
-SUBJECT ACTION WITH TIMING: 0.0–3.0s — she snaps into the wide power stance, the latex catching a hard specular-slide, the clutch angling sharp; 3.0–6.0s — she locks a fierce gaze to lens, one brow lifting in challenge, the bangles settling, a final ultraviolet sheen travelling the shoulder-line. One clean editorial action, real latex physics.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Medium-full: a slow 5% push-in is already settling as she snaps into the wide power stance, the latex catching a hard specular-slide and the clutch angling sharp; gaze driving to lens.
+- [00:02–00:04] The push settles as she locks a fierce gaze to lens, one brow lifting in challenge and the bangles settling; a final ultraviolet sheen travelling the shoulder-line.
+- [00:04–00:06] She holds the fierce power pose, eyes bold and direct, the latex glinting.
 
 LENS: 50mm, f/2.8, creamy ultraviolet fall-off.
 
@@ -422,9 +427,9 @@ ENVIRONMENT: ultraviolet pop runway studio, high-gloss mirror floor reflection.
 
 AUDIO: silent of any voice — NO spoken word, NO vocal of any kind. Ambient bed — a low warm studio room tone. SFX — a crisp latex-settle creak at 0.8s as the stance snaps, a faint acrylic-bangle clack at 2.4s, a low electric sub-bass swell rising to a soft accent at 4.8s timed to the gaze-lock. Reaction — a slow powerful breath at 3.0s. VO — none.
 
-DURATION: 3 seconds (0:17–0:20 of 30s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps acquisition, 180° shutter, natural motion blur on the stance snap; playback 24fps real-time.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — fierce composed, no speech, no mouthed words.
 
@@ -487,9 +492,10 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: medium-full, subject filling about 65% of the vertical frame.
 
-CAMERA MOVEMENT: a slow 6% rise-with-the-bloom (subtle crane-up following the ribbons, single move), no cut — one continuous take through the magic.
-
-SUBJECT ACTION WITH TIMING: 0.0–1.2s — from the power pose she lifts an arm and the first gold light-ribbons spiral up from the floor; 1.2–3.6s — the ribbons bloom up around her body wrapping the ultraviolet away and resolving the molten-gold gown, footwear, accessories, hair-styling and makeup-accent (face pin-locked, ribbons never crossing the face), gold sparks suspending in the air, the seamless re-gelling ultraviolet to gold; 3.6–6.0s — the last ribbons settle into the draped gold gown, she rises onto the balls of her feet into the finished finale glow. The light-ribbons spiral upward against gravity (the one permitted impossible beat); all fabric, metal and hair physics otherwise real.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Medium-full: a slow 6% crane-rise is already following the bloom as she lifts an arm and the first gold light-ribbons spiral up from the floor; gaze lifting with the ribbons.
+- [00:02–00:04] The crane rides the bloom as the ribbons wrap the ultraviolet away and resolve the molten-gold gown, footwear, accessories, hair and makeup-accent (face pin-locked, ribbons never crossing the face), gold sparks suspending, the seamless re-gelling to gold; eyes widening in awe.
+- [00:04–00:06] The last ribbons settle into the draped gold gown as she rises onto the balls of her feet into the finished finale glow; a radiant awe landing.
 
 LENS: 50mm, f/2.8, creamy gold fall-off with warm sparkle bokeh.
 
@@ -499,9 +505,9 @@ ENVIRONMENT: pop runway studio re-gelling ultraviolet → warm gold, high-gloss 
 
 AUDIO: silent of any voice — NO spoken word, NO vocal of any kind. Ambient bed — a low warm studio room tone. SFX — a soft rising shimmering whoosh as the ribbons bloom from 0.7s (airy, ascending), a delicate crystalline sparkle-suspension twinkle at 2.6s as the sparks hang, a warm liquid-metal settle-chime at 3.8s as the gown locks, a soft gold-sandal tap at 4.3s. Reaction — a soft awed breath at 2.9s. VO — none.
 
-DURATION: 5 seconds (0:20–0:25 of 30s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps acquisition, 180° shutter, natural motion blur on the spiralling ribbons; playback 24fps real-time.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — lips parted in awe, no speech, no mouthed words.
 
@@ -562,9 +568,10 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: medium-full, subject filling about 70% of the vertical frame.
 
-CAMERA MOVEMENT: a slow 5% push-in settling on the finale (single move), otherwise locked — one continuous take, no cut.
-
-SUBJECT ACTION WITH TIMING: 0.0–3.0s — she settles the tall hero stance, the gold gown catching a molten specular-slide, the clutch rising into the triumphant hero-line; 3.0–6.0s — a radiant confident smile blooms to lens, both brows lifting in triumph, the gold earrings settling, a final molten sheen travelling the gown. One clean editorial action, real liquid-metal physics.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Medium-full: a slow 5% push-in is already settling on the finale as she settles the tall hero stance, the gold gown catching a molten specular-slide and the clutch rising into the triumphant hero-line; gaze lifting to lens.
+- [00:02–00:04] The push settles as a radiant confident smile blooms to lens, both brows lifting in triumph and the gold earrings settling; a final molten sheen travelling the gown.
+- [00:04–00:06] She holds the triumphant hero pose, eyes radiant and direct, the gold gown luminous.
 
 LENS: 50mm, f/2.8, creamy gold fall-off with warm bokeh.
 
@@ -574,9 +581,9 @@ ENVIRONMENT: warm gold pop runway studio, high-gloss mirror floor reflection.
 
 AUDIO: silent of any voice — NO spoken word, NO vocal of any kind. Ambient bed — a low warm studio room tone. SFX — a warm liquid-metal shimmer-settle at 0.8s, a faint gold-cuff tick at 2.4s, a bright triumphant sparkle-bloom accent at 4.4s timed to the smile, a soft clutch-glint chime at 5.6s. Reaction — a soft joyful breath at 3.0s. VO — none.
 
-DURATION: 3 seconds (0:25–0:28 of 30s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps acquisition, 180° shutter, natural motion blur on the settle; playback 24fps real-time.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — radiant smile, no speech, no mouthed words.
 
@@ -639,9 +646,10 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: medium, waist-up, subject filling about 55% of the vertical frame — matched to Frame 1.
 
-CAMERA MOVEMENT: a fast 5% whip-settle resolving to the exact Frame 1 framing (single move), no cut — the move ends precisely where Frame 1 begins for a seamless loop.
-
-SUBJECT ACTION WITH TIMING: 0.0–3.0s — the gold finale whip-flashes back into the Voltage Tangerine look in a single quick motion-blur (face pin-locked); 3.0–6.0s — she resolves onto the exact Frame 1 stance, expression and clutch position, the look fully matched so the next loop of Frame 1 continues invisibly. One clean cause→effect snap-back, real physics, ending on the precise Frame 1 beat.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Medium waist-up matching Frame 1: a fast 5% whip-settle is already resolving toward the exact opening framing as the gold finale whip-flashes back into the Voltage Tangerine look in a single quick motion-blur (face pin-locked); gaze snapping to lens.
+- [00:02–00:04] The whip-settle lands as she resolves onto the exact Frame 1 stance, expression and clutch position, the tangerine look fully matched; eyes settling bright.
+- [00:04–00:06] She holds precisely on the Frame 1 beat, framing locked so the next loop continues invisibly — a seamless loop seam.
 
 LENS: 50mm, f/2.8, creamy coral-tangerine fall-off with a directional motion-blur on the snap.
 
@@ -651,9 +659,9 @@ ENVIRONMENT: coral-tangerine pop runway studio, high-gloss mirror floor reflecti
 
 AUDIO: silent of any voice — NO spoken word, NO vocal of any kind. Ambient bed — a low warm studio room tone matched to Frame 1's tone for a seamless audio loop. SFX — a crisp reverse-whoosh snap-back at 0.3s, a soft satin-settle at 3.6s, a light clutch-glint tick at 4.8s matched to Frame 1's opening glass-tap so the audio loops cleanly. Reaction — a soft held breath at 4.2s matched to Frame 1. VO — none.
 
-DURATION: 2 seconds (0:28–0:30 of 30s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps acquisition, 180° shutter, natural directional motion blur on the snap-back; playback 24fps real-time.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — quarter-smile resolving, no speech, no mouthed words.
 

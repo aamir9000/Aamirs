@@ -346,6 +346,97 @@ BEATS[82] = [
 ]
 
 
+BEATS[83] = [
+    # F1 - HOOK / opening Look A (Voltage Tangerine), 6% push-in rising
+    (
+        "Medium close rising to medium: a slow 6% push-in is already gliding in as she holds "
+        "a confident freeze in the Voltage Tangerine look, eyes locked to lens with a "
+        "knowing quarter-smile, the Prism clutch glinting at her hip and baby-hair drifting.",
+        "The push continues as she raises her hand and lands a crisp finger-snap, chin "
+        "tipping a degree as the studio light pulses on the click \u2014 the trigger for the "
+        "first change; gaze sharp on lens.",
+        "She holds the post-snap beat, eyes bright and direct, the tangerine seamless crisp "
+        "behind (silent \u2014 no words).",
+    ),
+    # F2 - CHANGE 1 spin-blur snap-change A->B, 5% whip-pan
+    (
+        "Medium waist-up: off the snap a 5% whip-pan is already following her into a fast "
+        "180\u00b0 whip-spin, the tangerine look streaking into motion-blur; gaze sweeping "
+        "with the turn.",
+        "At the blur-peak the wardrobe, footwear, accessories, hair and makeup-accent all "
+        "flip from Look A to the Liquid Cyan look, the seamless re-gelling tangerine to cyan "
+        "(face pin-locked); eyes alive through the spin.",
+        "She resolves out of the spin facing lens in the liquid-sequin gown, the gown and "
+        "chokers settling and the clutch landing at her hip with a glint; a cool composed "
+        "look arriving.",
+    ),
+    # F3 - Look B movement (Liquid Cyan), 5% push settling
+    (
+        "Medium-full: a slow 5% push-in is already settling on the hip-led pose as the "
+        "liquid-sequin gown ripples a light-wave and stills, the clutch easing forward; gaze "
+        "level.",
+        "The push settles as she lifts her gaze to lens with a cool composed quarter-smile "
+        "and the cyan crystal drops settle; a final sequin shimmer travelling the gown.",
+        "She holds the composed cyan pose, eyes bright and direct, the gown glittering "
+        "softly.",
+    ),
+    # F4 - CHANGE 2 split-flap flip-board cascade B->C, 5% push steady
+    (
+        "Medium-full: a steady 5% push holds as she lifts a conducting hand and a wave of "
+        "glossy split-flap panels is already rippling down from her shoulders; gaze tracking "
+        "the cascade.",
+        "The panels flip top-to-bottom in a clean cascade, the wardrobe, footwear, "
+        "accessories, hair and makeup-accent locking from cyan into the Ultraviolet Latex "
+        "look (face pin-locked, panels never crossing the face), the seamless re-gelling "
+        "cyan to ultraviolet.",
+        "The final lower row flips and the magenta boots lock as she settles into a "
+        "confident planted stance, the look completing; eyes sharpening.",
+    ),
+    # F5 - Look C power pose (Ultraviolet Latex), 5% push settling
+    (
+        "Medium-full: a slow 5% push-in is already settling as she snaps into the wide power "
+        "stance, the latex catching a hard specular-slide and the clutch angling sharp; gaze "
+        "driving to lens.",
+        "The push settles as she locks a fierce gaze to lens, one brow lifting in challenge "
+        "and the bangles settling; a final ultraviolet sheen travelling the shoulder-line.",
+        "She holds the fierce power pose, eyes bold and direct, the latex glinting.",
+    ),
+    # F6 - CHANGE 3 MAGIC light-ribbon bloom C->D, 6% rise-with-the-bloom
+    (
+        "Medium-full: a slow 6% crane-rise is already following the bloom as she lifts an arm "
+        "and the first gold light-ribbons spiral up from the floor; gaze lifting with the "
+        "ribbons.",
+        "The crane rides the bloom as the ribbons wrap the ultraviolet away and resolve the "
+        "molten-gold gown, footwear, accessories, hair and makeup-accent (face pin-locked, "
+        "ribbons never crossing the face), gold sparks suspending, the seamless re-gelling "
+        "to gold; eyes widening in awe.",
+        "The last ribbons settle into the draped gold gown as she rises onto the balls of "
+        "her feet into the finished finale glow; a radiant awe landing.",
+    ),
+    # F7 - Look D finale hero (Molten Gold), 5% push settling
+    (
+        "Medium-full: a slow 5% push-in is already settling on the finale as she settles the "
+        "tall hero stance, the gold gown catching a molten specular-slide and the clutch "
+        "rising into the triumphant hero-line; gaze lifting to lens.",
+        "The push settles as a radiant confident smile blooms to lens, both brows lifting in "
+        "triumph and the gold earrings settling; a final molten sheen travelling the gown.",
+        "She holds the triumphant hero pose, eyes radiant and direct, the gold gown "
+        "luminous.",
+    ),
+    # F8 - perfect-loop close, snap back to Look A, fast 5% whip-settle
+    (
+        "Medium waist-up matching Frame 1: a fast 5% whip-settle is already resolving toward "
+        "the exact opening framing as the gold finale whip-flashes back into the Voltage "
+        "Tangerine look in a single quick motion-blur (face pin-locked); gaze snapping to "
+        "lens.",
+        "The whip-settle lands as she resolves onto the exact Frame 1 stance, expression and "
+        "clutch position, the tangerine look fully matched; eyes settling bright.",
+        "She holds precisely on the Frame 1 beat, framing locked so the next loop continues "
+        "invisibly \u2014 a seamless loop seam.",
+    ),
+]
+
+
 def build_block(beats):
     return (
         BREAKDOWN_HEADER + "\n"
@@ -372,7 +463,7 @@ def apply_concept(text, concept_no):
         return build_block(beats)
 
     region, n_act = re.subn(
-        r"SUBJECT ACTION WITH TIMING:\n(?:- .*\n)+", repl, region
+        r"SUBJECT ACTION WITH TIMING:(?:\n(?:- .*\n)+| [^\n]*\n)", repl, region
     )
     region, n_dur = re.subn(r"(?m)^DURATION: [^\n]*$", DURATION_LINE, region)
     region, n_fr = re.subn(
