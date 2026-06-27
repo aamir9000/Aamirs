@@ -119,7 +119,7 @@ interpolate strictly between locked keyframes; never invent a new face/hands/sec
 Read each fully first; tailor camera/expression to its dance/world. Suggested treatments:
 - 20 Cinematic Reels New Set — DONE (all 20 concepts / 123 video prompts rebuilt). See PROGRESS below.
 - 20 Full Reel Set 4 (51-70) — DONE (all 20 concepts / 122 video prompts rebuilt). See PROGRESS below.
-- 20 Full Reel Set 5 (71-79) — studio couture transforms (image-heavy); vary crop/angle hard.
+- 20 Full Reel Set 5 (71-79) — DONE (all 51 intact video prompts rebuilt; concept 79 corrupt past Frame 1 — see PROGRESS).
 - Set 5 (cont 2) / · Set 5 (cont) / Set 5 cont 3 / cont 4 — couture/clothes-change; transform-led.
 - 20 Magical Action Heavy-Detail — ACTION (hypercar/chase/combat); handheld, whip-pan, low-hero,
   hard hits on impacts. NOTE: inline single-line video prompts (different structure — adapt regex).
@@ -222,3 +222,32 @@ adaptation of the section-B method like the one documented above.)
 NEXT IN QUEUE: 20 Full Reel Concepts Set 5 (71-79) — studio couture transforms (image-heavy);
 vary crop/angle hard. Check its exact format first (it may match the Beauty-Ad markdown like
 Set 4, in which case set4_rebuild.py adapts with a path change).
+
+
+- CONCEPTS/20 Full Reel Concepts Set 5 (Concepts 71.txt (concepts 71-79, all SILENT) —
+  COMPLETE for all intact frames (51 video prompts: 71-77 = 6 frames each, 78 = 8 frames,
+  79 = only Frame 1 intact). Same Beauty-Ad markdown format and same transform as Set 4
+  (engine `_tools/set5_rebuild.py`): removed `CAMERA MOVEMENT:`, replaced `SUBJECT ACTION
+  WITH TIMING` with tailored timed 3-beat `SHOT BREAKDOWN`, reset `DURATION:` (was mixed
+  decimal/"of 30s total" annotations) and `FRAME RATE + MOTION BLUR:` to the 6s standard.
+  All silent — Frame-4/face beats use a wordless expression reveal, no spoken line. Concepts
+  72-77 share a structural pattern (push-in chest-up / arc-push material-form transform /
+  rack-focus product->eye / face-dominant emotional beat / beauty 3D orbit synced to a
+  bloom-burst / pull-back loop close); each tailored to its material (living-vine topiary,
+  terrazzo, woven-rattan, chalk-bloom, sequin-cascade, liquid-enamel pour, kirigami lace-cut,
+  mylar-foil balloon, oil-slick prism). Verified: 0 leftover SUBJECT ACTION, 0 standalone
+  CAMERA MOVEMENT, 51 SHOT BREAKDOWN == 51 video prompts == 51 standard FRAME RATE == 51
+  DURATION 6s == 51 first-beat brackets == 51 identity locks; 51 image ORIENTATION LOCKs
+  intact; no non-negated slow-mo.
+  ** SOURCE-CORRUPTION FLAG — CONCEPT 79 (Prism Mirror Studio): the source file is corrupted
+  past Frame 1. Its brief says "7 frames" but only Frame 1 (image + video) exists; after the
+  F1 video NEGATIVE line the text runs on (".muddy [colour.IO]...") into merged leftover
+  fragments from CONCEPT 78 (a candy-electro-pop Master Track Brief, balloon-burst / mylar
+  content, and two orphan DURATION lines: "3 seconds (0:27 to 0:30…)" and "4 seconds
+  (0:20 to 0:24…)"). Frame 1 was rebuilt to standard; frames 2-7 do NOT exist and the merged
+  garbage was intentionally LEFT as-is (not deleted, not fabricated). To fully finish 79 the
+  user must supply the original frames 2-7; then rebuild them with set5_rebuild.py after
+  cleaning the merged 78-fragment block. **
+
+NEXT IN QUEUE: 20 Full Reel Concepts Set 5 (cont 2) / · Set 5 (cont) / Set 5 cont 3 / cont 4
+— couture/clothes-change, transform-led (check each file's format first).
