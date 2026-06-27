@@ -352,7 +352,7 @@ ALREADY-ADVANCED (SUBJECT + OBJECT timecoded — leave as-is, do NOT template): 
   Heavy-Detail (151), Magical Action Set 2 Expression (151).
 STILL NEEDS REBUILD (uses `SUBJECT ACTION WITH TIMING` markdown — apply section B):
   - 20 More Full Reel Concepts Set 3.txt — DONE (concepts 31-50, 128 video prompts; see PROGRESS).
-  - Heavy-Detail/20 Reel Concepts Master-Depth Build.txt (140)
+  - Heavy-Detail/20 Reel Concepts Master-Depth Build.txt — DONE (concepts 01-20, 140 video prompts; see PROGRESS).
   - Heavy-Detail/Concept 100 · The Unboxing.txt (note SA=6 vs VP=4 — inspect; possible
     image-side SUBJECT ACTION or extra blocks)
   - Heavy-Detail/Concept 170 · Phoenix Crash.txt (8)
@@ -385,10 +385,49 @@ NEEDS REBUILD, NON-STANDARD FORMAT (verify per file before running an engine):
   prompts == 128 standard FRAME RATE == 128 DURATION 6s == 128 first-beat brackets; 128 image
   ORIENTATION LOCKs intact; 0 genuine (non-negated) slow-mo.
 
-NEXT IN QUEUE (markdown SUBJECT ACTION WITH TIMING — use md_rebuild.py): Heavy-Detail/Master-Depth
-Build (140), Concepts 91-110 (26), NEW Reel 131-150 (134), Time-Freeze (verify the 8 "oner"
-frames first), Concept 100/170. Then non-standard: Magical Action · Master Set (advanced already;
-only variable durations differ) and aira_set4 / aira_set5 (Format B).
+NEXT IN QUEUE (markdown SUBJECT ACTION WITH TIMING — use md_rebuild.py): Concepts 91-110 (26),
+NEW Reel 131-150 (134), Time-Freeze (verify the 8 "oner" frames first), Concept 100/170. Then
+non-standard: Magical Action · Master Set (advanced already; only variable durations differ) and
+aira_set4 / aira_set5 (Format B).
+
+
+- CONCEPTS/Heavy-Detail/20 Reel Concepts Master-Depth Build.txt (concepts 01-20, 140 video prompts)
+  — COMPLETE. Zero-padded double-hash headers (`## CONCEPT 01 —` … `## CONCEPT 20 —`); rebuilt with
+  the GENERIC engine `_tools/md_rebuild.py "<path>" N` (its region regex `#+ CONCEPT 0*N \u2014`
+  handles the zero-padding). All 20 concepts are 7 frames each. Per video prompt: removed the
+  standalone `CAMERA MOVEMENT` line, replaced the inline `SUBJECT ACTION WITH TIMING` with a tailored
+  timed 3-beat `SHOT BREAKDOWN`, and reset `DURATION` (was "N seconds (0:00–0:03 of 24s total)" etc.)
+  and `FRAME RATE + MOTION BLUR` (several carried "a touch of slow-mo" / Frame-4 "96fps deep slow-mo")
+  to the 6s real-time / no-slow-mo standard strings — this neutralised every slow-mo callout. The
+  separate `OBJECT ACTION WITH TIMING` block was PRESERVED untouched (verified holds at 140), as were
+  all PHYSICS / LIGHTING / ENVIRONMENT / AUDIO / NEGATIVE / identity-lock / image-side sections
+  (additive-only). Camera grammar diversified off the push-heavy source: F1 establishing push, F2
+  build (descending settle/drift or tilt-up to the cresting element), F3 START keyframe given a slow
+  lateral ARC to the three-quarter transform-anchor, F4 hero ORBIT through the transform, F5 END
+  reveal (orbit→push), F6 spoken-line push + 6° turn (line lands Frame 6), F7 loop-close (orbit→push
+  back to the Frame-1 hook). One eye-led identity-safe expression transition per clip; already-in-
+  motion starts; subconscious continuity + seamless loop seam preserved per concept.
+  Concepts 08-10 (Monochrome Riot ink-bloom / Liquid Metal chrome-pour / Paper & Petals petal-burst)
+  ADDITIONALLY carry the section-K believability lens woven into the hero beat — named real physics
+  (ink-in-water capillary diffusion through real fabric weave; liquid-metal surface tension + mirror
+  spread/inertia reflected in the water-skin; paper crease-to-petal flutter with real petal-dust),
+  "no garish glare / no cheap sparkles", identity locked and face cleanly lit through the transform.
+  Concepts 11-14 (GRWM/beauty: First Day / Sangeet / 5 AM Club / Glass Skin) and 15-20 (lifestyle:
+  Inked / Rain Check / Long Drive / Bookshop / Kitchen Light / Countdown) kept the EXISTING treatment
+  (no believability overlay), each tailored to its world + prop (coffee mug, marigold garland, water
+  glass, serum bottle, collarbone, café window, car door, open book, mixing bowl, rooftop railing)
+  and tone. Spoken lines quoted accurately in the Frame-6 beat for all 20 (all concepts spoken).
+  Concept 16 (Rain Check) keeps its seated waist-up F1/F7 framing. Verified whole-file: 0 leftover
+  SUBJECT ACTION, 0 standalone CAMERA MOVEMENT, 140 SHOT BREAKDOWN == 140 video prompts == 140 OBJECT
+  ACTION == 140 standard FRAME RATE == 140 DURATION 6s == 140 first-beat brackets == 140 identity
+  locks; 140 image ORIENTATION LOCKs intact; 0 genuine (non-negated) slow-mo. Engine BEATS dict now
+  carries concepts 1-20 + 31-50 + 79-84. Commits: 97549b8 / 403ee3e / 58ce1ee (01-07), 6b1321b
+  (08-10), 18d6f60 (11-14), ae4924a (15-17), eee7053 (18-20).
+
+NEXT IN QUEUE (markdown SUBJECT ACTION WITH TIMING — use md_rebuild.py): Concepts 91-110 (26 — FIRST
+confirm the K.1 "8-10 concept" flag with the user), NEW Reel 131-150 (134), Time-Freeze (verify the 8
+"oner" frames first), Concept 100/170. Then non-standard: Magical Action · Master Set (advanced
+already; only variable durations differ) and aira_set4 / aira_set5 (Format B).
 
 
 ====================================================================
@@ -486,9 +525,10 @@ Ad + GRWM/beauty-hero reels stay on the existing treatment and are OUT of scope 
 "Continue the Aira rebuild on branch aira-prompts-enhanced. Read
 .kiro/steering/aira-prompt-rewrite-standard.md FULLY (all sections A-K). Beauty Ad, Cinematic
 New Set, Set 4, Set 5 (+continuations), More Set 3 are done; the two Magical Action files are
-already compliant; Master-Depth Build 01-07 are done. Now apply the section-B advanced video
-rebuild PLUS the section-K Believability/Realism & Theme-Fidelity layer to the remaining
-non-beauty files — 91-110, 131-150, aira_set4, aira_set5, Magical Action Master Set,
-Time-Freeze, Concept 170/100, and Master-Depth 08-10. Keep every detail heavily; only change
-what's necessary; controlled vibrancy; 6s real-time, no slow-mo; commit + push per concept;
-tick the section-J audit. First, confirm the K.1 '8-10 concept' flag with the user."
+already compliant; Master-Depth Build 01-20 is DONE (whole file complete — 08-10 carry the
+section-K believability lens, 11-20 kept the existing treatment). Now apply the section-B advanced
+video rebuild PLUS the section-K Believability/Realism & Theme-Fidelity layer to the remaining
+non-beauty files — 91-110, 131-150, aira_set4, aira_set5, Magical Action Master Set, Time-Freeze,
+and Concept 170/100. Keep every detail heavily; only change what's necessary; controlled vibrancy;
+6s real-time, no slow-mo; commit + push per concept; tick the section-J audit. First, confirm the
+K.1 '8-10 concept' flag with the user before touching 91-110."
