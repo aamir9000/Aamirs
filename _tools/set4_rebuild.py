@@ -776,6 +776,73 @@ BEATS[61] = [
 ]
 
 
+BEATS[62] = [
+    # F1 - medium-full three-quarter hero in pastel patisserie (push-in)
+    (
+        "Medium-full three-quarter hero in the pastel patisserie: a slow push-in is already "
+        "gliding toward her as she holds the rose compact to her collarbone, the cream silk "
+        "breathing and sugar-dust drifting in a daylight beam; she lifts her eyes to lens "
+        "with a soft sweet smile.",
+        "The push continues as she begins a graceful quarter-turn, a soft warm highlight "
+        "travelling the silk; gaze easing to lens, a playful set to her mouth.",
+        "She settles mid-turn, weight rolling onto the front foot, a sweet playful calm "
+        "holding as glass cake domes gleam behind.",
+    ),
+    # F2 - full-figure transform, slightly low angle (arc following the sugar pulling up)
+    (
+        "Full-figure from a slightly low angle: a slow controlled arc is already rising as "
+        "the first fine threads of molten sugar spin out across the hem and begin to pull; "
+        "gaze tracking the spinning sugar, eyes brightening.",
+        "The arc rides the pulling up her body as the sugar draws into a glossy lattice and "
+        "the pastel caramel-glass panels pour and set; a delighted breath, brows lifting in "
+        "wonder.",
+        "The last panel sets and the spun-sugar gown settles as the arc eases; a sweet "
+        "radiant look landing, eyes alight on the translucent panels.",
+    ),
+    # F3 - beauty close, product-at-face / powder puff (6% push to face)
+    (
+        "Beauty close, chest-up at a three-quarter: a slow push toward her face is already "
+        "gliding in as she presses the plush puff into the open compact, a faint cream "
+        "powder lifting; eyes lowered to the puff.",
+        "She presses and rolls the puff in soft little motions over her cheek and jaw and a "
+        "soft-focus veil settles, the push settling; a sweet smile beginning.",
+        "She lowers the puff a touch and lifts her eyes, the sugar-glass bodice glinting, a "
+        "sweet calm in her gaze.",
+    ),
+    # F4 - beauty close, direct address (SPOKEN)
+    (
+        "Beauty close, chest-up squared to lens: the camera is already settled on a "
+        "barely-there push as her eyes find the lens with a knowing playful smile, the "
+        "compact presented at her chest.",
+        "She delivers \u201csoft as sugar.\u201d with natural lip-sync and a gentle brow "
+        "lift, eyes bright and direct, the pastel patisserie soft behind.",
+        "The smile lands and holds with a sweet blink, gaze staying eye-to-eye.",
+    ),
+    # F5 - full-figure magical hero, sugar-glitter burst bloom (majestic push + boom-rise)
+    (
+        "Full-figure magical hero from a slightly low angle: a slow majestic push-in with a "
+        "gentle boom-rise is already lifting as a sugar-thread at her shoulder catches the "
+        "light and spins loose into glitter; gaze drawn to the sparkling thread.",
+        "The boom keeps rising as the lattice edges spin up across the gown and release a "
+        "swirling cloud of fine sugar-glitter; eyes lifting into the swirl, a radiant awe "
+        "blooming.",
+        "The glitter drifts out, easing to a sustained halo of slowly falling sugar-glitter "
+        "as the move settles; her radiant smile landing, eyes serene and haloed.",
+    ),
+    # F6 - loop close, matched to F1 (settle-back)
+    (
+        "Medium-full three-quarter hero matching Frame 1: a slow settle-back is already "
+        "easing the framing toward the opening position as the sparkle fades and the last "
+        "sugar-glitter drifts down; she returns the compact to her collarbone, gaze "
+        "softening.",
+        "The pull continues as her smile eases to the soft poise of the opening and the "
+        "spun-sugar gown softens back toward the cream silk's stillness; eyes calming.",
+        "She lifts her eyes softly to the lens, landing precisely on the Frame 1 pose, "
+        "weight settled in the patisserie \u2014 a seamless loop seam.",
+    ),
+]
+
+
 def build_block(beats):
     # Replaces ONLY the `SUBJECT ACTION WITH TIMING:` header + its bullet beat
     # lines. Ends with a single trailing newline so the original blank line
