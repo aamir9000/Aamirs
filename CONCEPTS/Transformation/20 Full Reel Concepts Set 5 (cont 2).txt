@@ -98,7 +98,7 @@ NEGATIVE: mirrored, flipped, inverted, extra limbs, fused fingers, melted featur
 
 ## Frame 1 of 7 — VIDEO PROMPT
 
-IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked identity reference and hold her the SAME PERSON for the entire 6-second clip and every generated frame. Treat identity as a FIXED skeleton that never changes — bone structure (skull, cheekbones, jawline, chin), overall face shape and proportions, eye shape, spacing and iris colour, nose and lip shape, skin tone and real skin texture (visible pores, fine peach-fuzz; no plastic smoothing, no beautification creep, no face re-shaping), hairline, hair colour and texture, height, build and hand/finger anatomy. ONLY the soft expression muscles may move — eyelids, brows, cheeks and mouth corners — together with the eyes, gaze and head; expression and lip-sync animate ON TOP of that fixed identity and must NEVER alter the face shape, the eye colour, or who she is. Keep expression changes smooth and moderate and lead them with the EYES and GAZE (soft smiles, brow lifts, a parted breath, eyes tracing the object) — no extreme grimace, no wide-mouth distortion, no hard squint, no rapid expression flicker that would warp the geometry; favour one clean expression transition per clip. ABSOLUTE ZERO identity drift: no morphing, melting, smearing, rubbery warping, face-swapping, twinning or a second/duplicate subject, no age, weight, ethnicity or gender shift, no extra, missing or fused fingers or limbs. Identity stays identical at the first frame, every in-between frame, the loop seam and the last frame. Through any transform, impossible move or fast action ONLY the intended element (wardrobe, environment, props or effect) changes — her face, identity and proportions stay fully recognizable; interpolate strictly between the locked keyframes and never invent a new face, new hands, extra limbs or a second subject. Do not mirror, flip or invert the frame.
+IDENTITY (locked): Aira — same person every frame; face, bone structure, eye shape + colour, nose, lips, skin texture and hair strictly locked to reference; ONLY expression, gaze and head move; no identity drift, no face/anatomy warp, no second or duplicate person.
 
 SHOT TYPE: medium close, chest-up, subject fills 55% of the vertical frame.
 
@@ -109,10 +109,6 @@ SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never sl
 - [00:02–00:04] The push continues as she lifts her eyes to lens on a soft inhale and a knowing asymmetric quarter-smile blooms, a lava-lamp blob rising lazily behind.
 - [00:04–00:06] She holds, playful and glossy, one brow a hair higher, eyes bright and direct (silent — no words).
 
-LIGHTING: clamshell beauty key with lifted clean fill; live moving speculars travelling across the glossy dome and skin as the jar tips; candy seamless held one stop down; soft candy-colour wash from the rising blobs; hair-light steady on the glossy flip.
-
-ENVIRONMENT: surreal candy lava-lamp studio, slow rising blobs behind, high-gloss floor reflection, faint warm glow.
-
 AUDIO (no spoken word): diegetic only, no in-clip music. Ambient bed — low warm studio room tone throughout. SFX — a soft glossy glass-tap as her fingers settle on the jar at 0.4s (gentle attack, short tail), a faint jelly-wobble squelch at 1.2s (soft, playful), a light airy candy-shimmer accent at 4.6s timed to the eye-lift. Reaction — a soft audible breath at 3.0s. NO voice-over.
 
 DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
@@ -121,7 +117,7 @@ FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-mo
 
 LIP-SYNC: none — lips closed/softly parted, composed.
 
-NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame skip, mirrored composition, text overlay, watermark, AI artifact, ghosting, lip-sync drift, audio desync, wardrobe drift between shots, unmotivated camera shake, physics violation (jelly/latex/hair), jelly with no wobble, mannequin posture, frozen background, identity flicker, heterochromia, eye-colour drift, muddy colour, murky candy palette.
+NEGATIVE: identity drift, face or hand warp, extra or fused fingers, duplicate person, mirrored/flipped frame, slow-motion, watermark.
 
 ---
 
@@ -176,7 +172,7 @@ NEGATIVE: mirrored, flipped, inverted, extra limbs, fused fingers, melted featur
 
 ## Frame 2 of 7 — VIDEO PROMPT (TRANSFORM)
 
-IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked identity reference and hold her the SAME PERSON for the entire 6-second clip and every generated frame. Treat identity as a FIXED skeleton that never changes — bone structure (skull, cheekbones, jawline, chin), overall face shape and proportions, eye shape, spacing and iris colour, nose and lip shape, skin tone and real skin texture (visible pores, fine peach-fuzz; no plastic smoothing, no beautification creep, no face re-shaping), hairline, hair colour and texture, height, build and hand/finger anatomy. ONLY the soft expression muscles may move — eyelids, brows, cheeks and mouth corners — together with the eyes, gaze and head; expression and lip-sync animate ON TOP of that fixed identity and must NEVER alter the face shape, the eye colour, or who she is. Keep expression changes smooth and moderate and lead them with the EYES and GAZE (soft smiles, brow lifts, a parted breath, eyes tracing the object) — no extreme grimace, no wide-mouth distortion, no hard squint, no rapid expression flicker that would warp the geometry; favour one clean expression transition per clip. ABSOLUTE ZERO identity drift: no morphing, melting, smearing, rubbery warping, face-swapping, twinning or a second/duplicate subject, no age, weight, ethnicity or gender shift, no extra, missing or fused fingers or limbs. Identity stays identical at the first frame, every in-between frame, the loop seam and the last frame. Through any transform, impossible move or fast action ONLY the intended element (wardrobe, environment, props or effect) changes — her face, identity and proportions stay fully recognizable; interpolate strictly between the locked keyframes and never invent a new face, new hands, extra limbs or a second subject. Do not mirror, flip or invert the frame.
+IDENTITY (locked): Aira — same person every frame; face, bone structure, eye shape + colour, nose, lips, skin texture and hair strictly locked to reference; ONLY expression, gaze and head move; no identity drift, no face/anatomy warp, no second or duplicate person.
 
 SHOT TYPE: medium, waist-up rising to capture the full blob-merge, subject filling about 50% of the vertical frame.
 
@@ -187,10 +183,6 @@ SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never sl
 - [00:02–00:04] The lift rides the merge as the blobs join around her torso into a single marbled sheet and the leading edge sets into the sculpted blob-form gown; a wondering breath, brows lifting.
 - [00:04–00:06] The gown finishes with a final glossy ripple and a small blob pinches off and wobbles free as her shoulders settle and she lifts her chin into the reveal.
 
-LIGHTING: clamshell beauty key holding the face locked; travelling candy-colour practical wash as the glowing blobs rise; intensified rim on the lifted flip; cyclorama one stop down; bounce kick keeping blob colour saturated and clean.
-
-ENVIRONMENT: surreal candy lava-lamp studio, giant glossy blobs rising across the saturated cyclorama, high-gloss floor reflection.
-
 AUDIO: silent of any voice — NO spoken word, NO vocal of any kind. Ambient bed — a warm low candy-studio room tone. SFX — soft gloopy rising-blob bubble-wobbles building from 0.3s, a smooth liquid merge-whoosh at 1.6s as the globes fuse, a gentle glossy set-and-snap shimmer at 4.0s as the gown finishes, a tiny wet pinch-pop at 4.8s as a blob breaks free. Reaction — a soft delighted breath only, no voiced sound. VO — none.
 
 DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
@@ -199,7 +191,7 @@ FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-mo
 
 LIP-SYNC: none — lips parted in delight, no speech, no mouthed words.
 
-NEGATIVE: morphing of the face, warping of features, identity drift through the transform, limb teleport, object pop-in, frame skip, mirrored composition, text overlay, watermark, AI artifact, ghosting, lip-sync drift, any spoken word, any voice-over, audio desync, wardrobe snapping without merge, unmotivated camera shake, physics violation (jelly/latex/hair), blobs with no wobble, stiff non-flowing merge, mannequin posture, frozen background, identity flicker, heterochromia, eye-colour drift, muddy colour, murky candy palette during the blob-merge.
+NEGATIVE: identity drift, face or hand warp, extra or fused fingers, duplicate person, mirrored/flipped frame, slow-motion, watermark.
 
 ---
 
@@ -254,7 +246,7 @@ NEGATIVE: garbled label text, mirrored, flipped, extra fingers, fused fingers, o
 
 ## Frame 3 of 7 — VIDEO PROMPT (PRODUCT MACRO)
 
-IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked identity reference and hold her the SAME PERSON for the entire 6-second clip and every generated frame. Treat identity as a FIXED skeleton that never changes — bone structure (skull, cheekbones, jawline, chin), overall face shape and proportions, eye shape, spacing and iris colour, nose and lip shape, skin tone and real skin texture (visible pores, fine peach-fuzz; no plastic smoothing, no beautification creep, no face re-shaping), hairline, hair colour and texture, height, build and hand/finger anatomy. ONLY the soft expression muscles may move — eyelids, brows, cheeks and mouth corners — together with the eyes, gaze and head; expression and lip-sync animate ON TOP of that fixed identity and must NEVER alter the face shape, the eye colour, or who she is. Keep expression changes smooth and moderate and lead them with the EYES and GAZE (soft smiles, brow lifts, a parted breath, eyes tracing the object) — no extreme grimace, no wide-mouth distortion, no hard squint, no rapid expression flicker that would warp the geometry; favour one clean expression transition per clip. ABSOLUTE ZERO identity drift: no morphing, melting, smearing, rubbery warping, face-swapping, twinning or a second/duplicate subject, no age, weight, ethnicity or gender shift, no extra, missing or fused fingers or limbs. Identity stays identical at the first frame, every in-between frame, the loop seam and the last frame. Through any transform, impossible move or fast action ONLY the intended element (wardrobe, environment, props or effect) changes — her face, identity and proportions stay fully recognizable; interpolate strictly between the locked keyframes and never invent a new face, new hands, extra limbs or a second subject. Do not mirror, flip or invert the frame.
+IDENTITY (locked): Aira — same person every frame; face, bone structure, eye shape + colour, nose, lips, skin texture and hair strictly locked to reference; ONLY expression, gaze and head move; no identity drift, no face/anatomy warp, no second or duplicate person.
 
 SHOT TYPE: extreme macro, the domed orb jar filling about 55% of the vertical frame, her soft presence behind.
 
@@ -265,10 +257,6 @@ SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never sl
 - [00:02–00:04] The rack-focus pulls from the crisp label window back toward her soft delighted face as the candy bokeh blooms; gaze warming behind the jar.
 - [00:04–00:06] The jelly settles with a hairline ripple, her face soft and pleased in focus, eyes bright.
 
-LIGHTING: raking macro beauty key maximising the dome specular and sub-surface glow; small white fill lifting the shadow side; candy rim on the dome; background gown-glow held down; lime bounce keeping the jelly saturated.
-
-ENVIRONMENT: the candy lava-lamp studio fully defocused behind, a soft glossy magenta-lime field.
-
 AUDIO: silent of any voice — NO spoken word, NO vocal of any kind. Ambient bed — a warm low candy-studio room tone. SFX — a soft gloopy jelly-wobble jiggle at 0.6s with a short wet tail, a faint glossy glass-settle tick at 1.5s, a gentle airy candy-shimmer accent at 3.0s timed to the rack-focus. Reaction — none this frame. VO — none.
 
 DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
@@ -277,7 +265,7 @@ FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-mo
 
 LIP-SYNC: none — no speech, face soft-focus.
 
-NEGATIVE: morphing, warping, identity drift, object pop-in, frame skip, mirrored composition, text overlay, watermark, AI artifact, ghosting, any spoken word, any voice-over, audio desync, jelly with no wobble, dull flat dome, rack-focus hunting, unmotivated camera shake, physics violation, frozen jelly, muddy colour, murky candy palette, blown dome highlights, garbled label text, heterochromia, eye-colour drift.
+NEGATIVE: identity drift, face or hand warp, extra or fused fingers, duplicate person, mirrored/flipped frame, slow-motion, watermark.
 
 ---
 
@@ -330,7 +318,7 @@ NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, second
 
 ## Frame 4 of 7 — VIDEO PROMPT (FOOTWEAR & ACCESSORIES)
 
-IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked identity reference and hold her the SAME PERSON for the entire 6-second clip and every generated frame. Treat identity as a FIXED skeleton that never changes — bone structure (skull, cheekbones, jawline, chin), overall face shape and proportions, eye shape, spacing and iris colour, nose and lip shape, skin tone and real skin texture (visible pores, fine peach-fuzz; no plastic smoothing, no beautification creep, no face re-shaping), hairline, hair colour and texture, height, build and hand/finger anatomy. ONLY the soft expression muscles may move — eyelids, brows, cheeks and mouth corners — together with the eyes, gaze and head; expression and lip-sync animate ON TOP of that fixed identity and must NEVER alter the face shape, the eye colour, or who she is. Keep expression changes smooth and moderate and lead them with the EYES and GAZE (soft smiles, brow lifts, a parted breath, eyes tracing the object) — no extreme grimace, no wide-mouth distortion, no hard squint, no rapid expression flicker that would warp the geometry; favour one clean expression transition per clip. ABSOLUTE ZERO identity drift: no morphing, melting, smearing, rubbery warping, face-swapping, twinning or a second/duplicate subject, no age, weight, ethnicity or gender shift, no extra, missing or fused fingers or limbs. Identity stays identical at the first frame, every in-between frame, the loop seam and the last frame. Through any transform, impossible move or fast action ONLY the intended element (wardrobe, environment, props or effect) changes — her face, identity and proportions stay fully recognizable; interpolate strictly between the locked keyframes and never invent a new face, new hands, extra limbs or a second subject. Do not mirror, flip or invert the frame.
+IDENTITY (locked): Aira — same person every frame; face, bone structure, eye shape + colour, nose, lips, skin texture and hair strictly locked to reference; ONLY expression, gaze and head move; no identity drift, no face/anatomy warp, no second or duplicate person.
 
 SHOT TYPE: low three-quarter body shot down the leg-and-wrist line, footwear in the lower third, face at the top, subject filling about 70% of the vertical frame.
 
@@ -341,10 +329,6 @@ SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never sl
 - [00:02–00:04] The pan rises up the body line as she lifts and rotates the bangled wrist into frame, the candy-resin stack rocking and the pendant swinging; gaze glancing down the line.
 - [00:04–00:06] She lands a pleased quarter-smile glancing down the body, weight grounded, the accessories settling.
 
-LIGHTING: raking three-quarter beauty key maximising internal glow and speculars; white fill lifting shadows; candy rim on gown and hoops; travelling blob-wash practical; lime floor bounce keeping the mules saturated.
-
-ENVIRONMENT: candy lava-lamp studio with rising blobs softly defocused behind, high-gloss floor reflection.
-
 AUDIO: silent of any voice — NO spoken word, NO vocal of any kind. Ambient bed — a warm low candy-studio room tone. SFX — a soft glossy jelly-sole squeak-tick as the mule plants at 0.8s, a light translucent-resin clack of bangles settling at 2.7s, a faint airy candy-shimmer accent at 3.9s timed to the pendant swing. Reaction — none this frame. VO — none.
 
 DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
@@ -353,7 +337,7 @@ FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-mo
 
 LIP-SYNC: none — no speech, soft pleased expression.
 
-NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame skip, mirrored composition, text overlay, watermark, AI artifact, ghosting, any spoken word, any voice-over, audio desync, wardrobe drift between shots, mismatched footwear, opaque dull mules, jelly with no glow, unmotivated camera shake, physics violation (jelly/resin/hair), mannequin posture, frozen background, identity flicker, heterochromia, eye-colour drift, muddy colour, murky candy palette.
+NEGATIVE: identity drift, face or hand warp, extra or fused fingers, duplicate person, mirrored/flipped frame, slow-motion, watermark.
 
 ---
 
@@ -406,7 +390,7 @@ NEGATIVE: mirrored, flipped, inverted, extra limbs, fused fingers, melted featur
 
 ## Frame 5 of 7 — VIDEO PROMPT (EDITORIAL MOVEMENT)
 
-IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked identity reference and hold her the SAME PERSON for the entire 6-second clip and every generated frame. Treat identity as a FIXED skeleton that never changes — bone structure (skull, cheekbones, jawline, chin), overall face shape and proportions, eye shape, spacing and iris colour, nose and lip shape, skin tone and real skin texture (visible pores, fine peach-fuzz; no plastic smoothing, no beautification creep, no face re-shaping), hairline, hair colour and texture, height, build and hand/finger anatomy. ONLY the soft expression muscles may move — eyelids, brows, cheeks and mouth corners — together with the eyes, gaze and head; expression and lip-sync animate ON TOP of that fixed identity and must NEVER alter the face shape, the eye colour, or who she is. Keep expression changes smooth and moderate and lead them with the EYES and GAZE (soft smiles, brow lifts, a parted breath, eyes tracing the object) — no extreme grimace, no wide-mouth distortion, no hard squint, no rapid expression flicker that would warp the geometry; favour one clean expression transition per clip. ABSOLUTE ZERO identity drift: no morphing, melting, smearing, rubbery warping, face-swapping, twinning or a second/duplicate subject, no age, weight, ethnicity or gender shift, no extra, missing or fused fingers or limbs. Identity stays identical at the first frame, every in-between frame, the loop seam and the last frame. Through any transform, impossible move or fast action ONLY the intended element (wardrobe, environment, props or effect) changes — her face, identity and proportions stay fully recognizable; interpolate strictly between the locked keyframes and never invent a new face, new hands, extra limbs or a second subject. Do not mirror, flip or invert the frame.
+IDENTITY (locked): Aira — same person every frame; face, bone structure, eye shape + colour, nose, lips, skin texture and hair strictly locked to reference; ONLY expression, gaze and head move; no identity drift, no face/anatomy warp, no second or duplicate person.
 
 SHOT TYPE: full-length, subject filling about 80% of the vertical frame.
 
@@ -417,10 +401,6 @@ SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never sl
 - [00:02–00:04] The arc rides the twirl through its sweep, the candy gown flaring and the lava-lamp blobs rising fast behind; eyes bright and alive.
 - [00:04–00:06] She lands the power-pose facing lens with a bright open smile, the skirt and hoops settling, eyes sparkling.
 
-LIGHTING: feathered beauty key holding the face lit through the turn; white fill lifting shadows; candy rim on the swinging gown and flip; travelling blob-wash practical; lime floor bounce keeping the gown saturated.
-
-ENVIRONMENT: candy lava-lamp studio, blobs rising fast across the saturated cyclorama, high-gloss floor reflection.
-
 AUDIO: silent of any voice — NO spoken word, NO vocal of any kind. Ambient bed — a warm low candy-studio room tone. SFX — a soft glossy latex-swish as the gown swings at 0.8s, a light translucent-resin bangle-slide clack at 1.8s, an airy candy whoosh timed to the twirl at 2.8s, a glossy mule-plant tick as she lands at 4.0s. Reaction — a soft delighted exhale only, no voiced sound. VO — none.
 
 DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
@@ -429,7 +409,7 @@ FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-mo
 
 LIP-SYNC: none — open smile, no speech, no mouthed words.
 
-NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame skip, mirrored composition, text overlay, watermark, AI artifact, ghosting, any spoken word, any voice-over, audio desync, wardrobe drift between shots, unmotivated camera shake, physics violation (latex/jelly/hair), stiff non-flowing twirl, mannequin posture, off-balance collapse, frozen background, identity flicker, heterochromia, eye-colour drift, muddy colour, murky candy palette.
+NEGATIVE: identity drift, face or hand warp, extra or fused fingers, duplicate person, mirrored/flipped frame, slow-motion, watermark.
 
 ---
 
@@ -484,7 +464,7 @@ NEGATIVE: mirrored, flipped, inverted, extra limbs, fused fingers, melted featur
 
 ## Frame 6 of 7 — VIDEO PROMPT (MAGIC BEAT)
 
-IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked identity reference and hold her the SAME PERSON for the entire 6-second clip and every generated frame. Treat identity as a FIXED skeleton that never changes — bone structure (skull, cheekbones, jawline, chin), overall face shape and proportions, eye shape, spacing and iris colour, nose and lip shape, skin tone and real skin texture (visible pores, fine peach-fuzz; no plastic smoothing, no beautification creep, no face re-shaping), hairline, hair colour and texture, height, build and hand/finger anatomy. ONLY the soft expression muscles may move — eyelids, brows, cheeks and mouth corners — together with the eyes, gaze and head; expression and lip-sync animate ON TOP of that fixed identity and must NEVER alter the face shape, the eye colour, or who she is. Keep expression changes smooth and moderate and lead them with the EYES and GAZE (soft smiles, brow lifts, a parted breath, eyes tracing the object) — no extreme grimace, no wide-mouth distortion, no hard squint, no rapid expression flicker that would warp the geometry; favour one clean expression transition per clip. ABSOLUTE ZERO identity drift: no morphing, melting, smearing, rubbery warping, face-swapping, twinning or a second/duplicate subject, no age, weight, ethnicity or gender shift, no extra, missing or fused fingers or limbs. Identity stays identical at the first frame, every in-between frame, the loop seam and the last frame. Through any transform, impossible move or fast action ONLY the intended element (wardrobe, environment, props or effect) changes — her face, identity and proportions stay fully recognizable; interpolate strictly between the locked keyframes and never invent a new face, new hands, extra limbs or a second subject. Do not mirror, flip or invert the frame.
+IDENTITY (locked): Aira — same person every frame; face, bone structure, eye shape + colour, nose, lips, skin texture and hair strictly locked to reference; ONLY expression, gaze and head move; no identity drift, no face/anatomy warp, no second or duplicate person.
 
 SHOT TYPE: medium-full, subject filling about 65% of the vertical frame, the orbital rings filling the width.
 
@@ -495,10 +475,6 @@ SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never sl
 - [00:02–00:04] The orbit rides the magic as the split globes arc into two concentric orbital rings circling her like planets, each trailing a glossy comet-sheen; her face serene-radiant at the centre, eyes widening.
 - [00:04–00:06] The rings settle into a steady glowing orbit with a final small blob wobbling at the apex as she holds the transcendent pose; a radiant smile landing, eyes alight.
 
-LIGHTING: feathered beauty key holding the face serene; travelling multi-colour candy practical wash from the orbiting globes; intensified rim on the lifted flip; cyclorama one stop down; lime bounce keeping the globes saturated and clean.
-
-ENVIRONMENT: surreal candy lava-lamp studio, the candy solar system orbiting against the saturated cyclorama, high-gloss floor reflection.
-
 AUDIO: silent of any voice — NO spoken word, NO vocal of any kind. Ambient bed — a warm low candy-studio room tone with a faint airy shimmer rising. SFX — soft gloopy blob-wobbles building from 0.2s, a smooth wet pinch-split bubble-pop at 1.2s as the globe divides, gentle whooshing candy-arc swooshes at 1.9s as the rings form, a soft sparkling chime-shimmer at 4.2s as the orbit settles, tiny wet blob-wobble taps continuing under. Reaction — a soft awed breath only, no voiced sound. VO — none.
 
 DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
@@ -507,7 +483,7 @@ FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-mo
 
 LIP-SYNC: none — lips parted in awe, no speech, no mouthed words.
 
-NEGATIVE: morphing of the face, warping of features, identity drift, limb teleport, object pop-in, frame skip, mirrored composition, text overlay, watermark, AI artifact, ghosting, any spoken word, any voice-over, audio desync, unmotivated camera shake, physics violation (jelly/latex/hair), blobs with no wobble, smeared orbiting globes, muddy overlapping blobs, stringing during mitosis, stiff non-orbiting swarm, mannequin posture, frozen background, identity flicker, heterochromia, eye-colour drift, muddy colour, murky candy palette during the orbit.
+NEGATIVE: identity drift, face or hand warp, extra or fused fingers, duplicate person, mirrored/flipped frame, slow-motion, watermark.
 
 ---
 
@@ -562,7 +538,7 @@ NEGATIVE: mirrored, flipped, inverted, extra limbs, fused fingers, melted featur
 
 ## Frame 7 of 7 — VIDEO PROMPT (PERFECT-LOOP CLOSE)
 
-IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked identity reference and hold her the SAME PERSON for the entire 6-second clip and every generated frame. Treat identity as a FIXED skeleton that never changes — bone structure (skull, cheekbones, jawline, chin), overall face shape and proportions, eye shape, spacing and iris colour, nose and lip shape, skin tone and real skin texture (visible pores, fine peach-fuzz; no plastic smoothing, no beautification creep, no face re-shaping), hairline, hair colour and texture, height, build and hand/finger anatomy. ONLY the soft expression muscles may move — eyelids, brows, cheeks and mouth corners — together with the eyes, gaze and head; expression and lip-sync animate ON TOP of that fixed identity and must NEVER alter the face shape, the eye colour, or who she is. Keep expression changes smooth and moderate and lead them with the EYES and GAZE (soft smiles, brow lifts, a parted breath, eyes tracing the object) — no extreme grimace, no wide-mouth distortion, no hard squint, no rapid expression flicker that would warp the geometry; favour one clean expression transition per clip. ABSOLUTE ZERO identity drift: no morphing, melting, smearing, rubbery warping, face-swapping, twinning or a second/duplicate subject, no age, weight, ethnicity or gender shift, no extra, missing or fused fingers or limbs. Identity stays identical at the first frame, every in-between frame, the loop seam and the last frame. Through any transform, impossible move or fast action ONLY the intended element (wardrobe, environment, props or effect) changes — her face, identity and proportions stay fully recognizable; interpolate strictly between the locked keyframes and never invent a new face, new hands, extra limbs or a second subject. Do not mirror, flip or invert the frame.
+IDENTITY (locked): Aira — same person every frame; face, bone structure, eye shape + colour, nose, lips, skin texture and hair strictly locked to reference; ONLY expression, gaze and head move; no identity drift, no face/anatomy warp, no second or duplicate person.
 
 SHOT TYPE: medium close, chest-up, subject fills about 55% of the vertical frame — matched to Frame 1.
 
@@ -573,10 +549,6 @@ SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never sl
 - [00:02–00:04] The push settles as she lifts her eyes back to lens on a soft exhale with a composed knowing quarter-smile, the scene resolving to the opening tableau; eyes calming.
 - [00:04–00:06] Every element resolves precisely to the Frame 1 composition, framing locked — a seamless loop seam.
 
-LIGHTING: clamshell beauty key identical to the opening; soft settled candy glow; candy rim on the flip; cyclorama one stop down; lime bounce glossing the jar — matched to Frame 1.
-
-ENVIRONMENT: candy lava-lamp studio settled to its calm opening state, high-gloss floor reflection.
-
 AUDIO: silent of any voice — NO spoken word, NO vocal of any kind. Ambient bed — a warm low candy-studio room tone settling to match the opening. SFX — a soft wet blob-settle tap as the last globe lands at 0.8s, a gentle glossy glass-tap as her fingers settle on the jar at 2.0s, a faint airy candy-shimmer accent at 4.4s timed to the eye-lift, resolving cleanly so the tail matches the head for a seamless loop. Reaction — a soft exhale only, no voiced sound. VO — none.
 
 DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
@@ -585,7 +557,7 @@ FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-mo
 
 LIP-SYNC: none — lips softly parted, composed, no speech.
 
-NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame skip, mirrored composition, text overlay, watermark, AI artifact, ghosting, any spoken word, any voice-over, audio desync, wardrobe drift between shots, unmotivated camera shake, physics violation (jelly/latex/hair), jelly with no wobble, mannequin posture, frozen background, identity flicker, heterochromia, eye-colour drift, muddy colour, murky candy palette, loop-point mismatch with Frame 1, visible seam at the loop.
+NEGATIVE: identity drift, face or hand warp, extra or fused fingers, duplicate person, mirrored/flipped frame, slow-motion, watermark.
 
 ### 🎵 Master Track Brief (External Audio Layer)
 
@@ -696,7 +668,7 @@ NEGATIVE: mirrored, flipped, inverted, extra limbs, fused fingers, melted featur
 
 ## Frame 1 of 6 — VIDEO PROMPT
 
-IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked identity reference and hold her the SAME PERSON for the entire 6-second clip and every generated frame. Treat identity as a FIXED skeleton that never changes — bone structure (skull, cheekbones, jawline, chin), overall face shape and proportions, eye shape, spacing and iris colour, nose and lip shape, skin tone and real skin texture (visible pores, fine peach-fuzz; no plastic smoothing, no beautification creep, no face re-shaping), hairline, hair colour and texture, height, build and hand/finger anatomy. ONLY the soft expression muscles may move — eyelids, brows, cheeks and mouth corners — together with the eyes, gaze and head; expression and lip-sync animate ON TOP of that fixed identity and must NEVER alter the face shape, the eye colour, or who she is. Keep expression changes smooth and moderate and lead them with the EYES and GAZE (soft smiles, brow lifts, a parted breath, eyes tracing the object) — no extreme grimace, no wide-mouth distortion, no hard squint, no rapid expression flicker that would warp the geometry; favour one clean expression transition per clip. ABSOLUTE ZERO identity drift: no morphing, melting, smearing, rubbery warping, face-swapping, twinning or a second/duplicate subject, no age, weight, ethnicity or gender shift, no extra, missing or fused fingers or limbs. Identity stays identical at the first frame, every in-between frame, the loop seam and the last frame. Through any transform, impossible move or fast action ONLY the intended element (wardrobe, environment, props or effect) changes — her face, identity and proportions stay fully recognizable; interpolate strictly between the locked keyframes and never invent a new face, new hands, extra limbs or a second subject. Do not mirror, flip or invert the frame.
+IDENTITY (locked): Aira — same person every frame; face, bone structure, eye shape + colour, nose, lips, skin texture and hair strictly locked to reference; ONLY expression, gaze and head move; no identity drift, no face/anatomy warp, no second or duplicate person.
 
 SHOT TYPE: medium close, chest-up, subject fills 55% of the vertical frame.
 
@@ -707,10 +679,6 @@ SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never sl
 - [00:02–00:04] The push continues as she lifts her eyes to lens on a soft inhale and a knowing asymmetric quarter-smile blooms, a plasma arc branching slowly behind on the gloss black.
 - [00:04–00:06] She holds, charged and composed, one brow a hair higher, eyes bright and direct (silent — no words).
 
-LIGHTING: clamshell beauty key with lifted clean fill; live moving speculars travelling across the glossy orb and skin as it tips; deep seamless held well down; electric magenta-cyan wash from the plasma arcs and filament lines; cool violet hair-light steady on the chrome ponytail.
-
-ENVIRONMENT: electric plasma studio, slow crackling arcs drifting behind, high-gloss black-mirror floor reflection, faint electric glow.
-
 AUDIO: silent of any voice — NO spoken word, NO vocal of any kind. Ambient bed — a low warm studio room tone with a faint electric hum throughout. SFX — a soft glossy glass-tap as her fingers settle on the orb at 0.4s (gentle attack, short tail), a faint crackling plasma-fizz at 1.2s, a light airy electric-shimmer accent at 4.6s timed to the eye-lift. Reaction — a soft audible breath at 3.0s. VO — none.
 
 DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
@@ -719,7 +687,7 @@ FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-mo
 
 LIP-SYNC: none — lips closed/softly parted, composed.
 
-NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame skip, mirrored composition, text overlay, watermark, AI artifact, ghosting, lip-sync drift, audio desync, wardrobe drift between shots, unmotivated camera shake, physics violation (plasma/chrome/hair), dead unlit plasma, mannequin posture, frozen background, identity flicker, heterochromia, eye-colour drift, muddy colour, murky dull palette, crushed blacks.
+NEGATIVE: identity drift, face or hand warp, extra or fused fingers, duplicate person, mirrored/flipped frame, slow-motion, watermark.
 
 ---
 
@@ -774,7 +742,7 @@ NEGATIVE: mirrored, flipped, inverted, extra limbs, fused fingers, melted featur
 
 ## Frame 2 of 6 — VIDEO PROMPT (TRANSFORM)
 
-IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked identity reference and hold her the SAME PERSON for the entire 6-second clip and every generated frame. Treat identity as a FIXED skeleton that never changes — bone structure (skull, cheekbones, jawline, chin), overall face shape and proportions, eye shape, spacing and iris colour, nose and lip shape, skin tone and real skin texture (visible pores, fine peach-fuzz; no plastic smoothing, no beautification creep, no face re-shaping), hairline, hair colour and texture, height, build and hand/finger anatomy. ONLY the soft expression muscles may move — eyelids, brows, cheeks and mouth corners — together with the eyes, gaze and head; expression and lip-sync animate ON TOP of that fixed identity and must NEVER alter the face shape, the eye colour, or who she is. Keep expression changes smooth and moderate and lead them with the EYES and GAZE (soft smiles, brow lifts, a parted breath, eyes tracing the object) — no extreme grimace, no wide-mouth distortion, no hard squint, no rapid expression flicker that would warp the geometry; favour one clean expression transition per clip. ABSOLUTE ZERO identity drift: no morphing, melting, smearing, rubbery warping, face-swapping, twinning or a second/duplicate subject, no age, weight, ethnicity or gender shift, no extra, missing or fused fingers or limbs. Identity stays identical at the first frame, every in-between frame, the loop seam and the last frame. Through any transform, impossible move or fast action ONLY the intended element (wardrobe, environment, props or effect) changes — her face, identity and proportions stay fully recognizable; interpolate strictly between the locked keyframes and never invent a new face, new hands, extra limbs or a second subject. Do not mirror, flip or invert the frame.
+IDENTITY (locked): Aira — same person every frame; face, bone structure, eye shape + colour, nose, lips, skin texture and hair strictly locked to reference; ONLY expression, gaze and head move; no identity drift, no face/anatomy warp, no second or duplicate person.
 
 SHOT TYPE: medium, waist-up rising to capture the full plasma-weave, subject filling about 50% of the vertical frame.
 
@@ -785,10 +753,6 @@ SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never sl
 - [00:02–00:04] The lift rides the weave as the threads lattice her torso and liquid chrome flows in to set around them, the leading edge solidifying into the sculptural gown; a wondering breath, brows lifting.
 - [00:04–00:06] The gown finishes with a final electric pulse and a single spark arcs free as her shoulders settle and she lifts her chin into the reveal.
 
-LIGHTING: clamshell beauty key holding the face locked; travelling electric magenta-cyan practical wash as the filaments weave; intensified violet rim on the lifted ponytail; cyclorama held well down; bounce kick keeping filament colour saturated and clean.
-
-ENVIRONMENT: electric plasma studio, branching arcs racing across the deep cyclorama, high-gloss black-mirror floor reflection.
-
 AUDIO: silent of any voice — NO spoken word, NO vocal of any kind. Ambient bed — a low warm studio room tone with a faint electric hum. SFX — soft crackling plasma-arc fizzes building from 0.3s, a smooth electric weave-whoosh at 1.6s as the threads knit, a glossy chrome set-and-snap shimmer at 4.0s as the gown finishes, a tiny zap-tick at 4.8s as a spark arcs free. Reaction — a soft charged breath only, no voiced sound. VO — none.
 
 DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
@@ -797,7 +761,7 @@ FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-mo
 
 LIP-SYNC: none — lips parted in awe, no speech, no mouthed words.
 
-NEGATIVE: morphing of the face, warping of features, identity drift through the transform, limb teleport, object pop-in, frame skip, mirrored composition, text overlay, watermark, AI artifact, ghosting, lip-sync drift, any spoken word, any voice-over, audio desync, wardrobe snapping without weave, unmotivated camera shake, physics violation (plasma/chrome/hair), dead unlit plasma, stiff non-weaving threads, mannequin posture, frozen background, identity flicker, heterochromia, eye-colour drift, muddy colour, murky dull palette, crushed blacks during the weave.
+NEGATIVE: identity drift, face or hand warp, extra or fused fingers, duplicate person, mirrored/flipped frame, slow-motion, watermark.
 
 ---
 
@@ -852,7 +816,7 @@ NEGATIVE: garbled label text, mirrored, flipped, extra fingers, fused fingers, o
 
 ## Frame 3 of 6 — VIDEO PROMPT (PRODUCT MACRO)
 
-IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked identity reference and hold her the SAME PERSON for the entire 6-second clip and every generated frame. Treat identity as a FIXED skeleton that never changes — bone structure (skull, cheekbones, jawline, chin), overall face shape and proportions, eye shape, spacing and iris colour, nose and lip shape, skin tone and real skin texture (visible pores, fine peach-fuzz; no plastic smoothing, no beautification creep, no face re-shaping), hairline, hair colour and texture, height, build and hand/finger anatomy. ONLY the soft expression muscles may move — eyelids, brows, cheeks and mouth corners — together with the eyes, gaze and head; expression and lip-sync animate ON TOP of that fixed identity and must NEVER alter the face shape, the eye colour, or who she is. Keep expression changes smooth and moderate and lead them with the EYES and GAZE (soft smiles, brow lifts, a parted breath, eyes tracing the object) — no extreme grimace, no wide-mouth distortion, no hard squint, no rapid expression flicker that would warp the geometry; favour one clean expression transition per clip. ABSOLUTE ZERO identity drift: no morphing, melting, smearing, rubbery warping, face-swapping, twinning or a second/duplicate subject, no age, weight, ethnicity or gender shift, no extra, missing or fused fingers or limbs. Identity stays identical at the first frame, every in-between frame, the loop seam and the last frame. Through any transform, impossible move or fast action ONLY the intended element (wardrobe, environment, props or effect) changes — her face, identity and proportions stay fully recognizable; interpolate strictly between the locked keyframes and never invent a new face, new hands, extra limbs or a second subject. Do not mirror, flip or invert the frame.
+IDENTITY (locked): Aira — same person every frame; face, bone structure, eye shape + colour, nose, lips, skin texture and hair strictly locked to reference; ONLY expression, gaze and head move; no identity drift, no face/anatomy warp, no second or duplicate person.
 
 SHOT TYPE: extreme macro, the glass orb filling about 55% of the vertical frame, her soft presence behind.
 
@@ -863,10 +827,6 @@ SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never sl
 - [00:02–00:04] The rack-focus pulls from the crisp label window back toward her soft charged face as the electric bokeh blooms; gaze warming behind the orb.
 - [00:04–00:06] The oil settles with a faint internal current, her face soft and charged in focus, eyes bright.
 
-LIGHTING: raking macro beauty key maximising the glass specular and internal filament glow; small white fill lifting the shadow side; electric rim on the glass; background gown-glow held down; cyan bounce keeping the oil saturated.
-
-ENVIRONMENT: the electric plasma studio fully defocused behind, a soft glossy violet-cyan field.
-
 AUDIO: silent of any voice — NO spoken word, NO vocal of any kind. Ambient bed — a low warm studio room tone with a faint electric hum. SFX — a soft crackling plasma-fizz at 0.5s with a short electric tail, a faint glossy glass-settle tick at 1.4s, a gentle airy electric-shimmer accent at 2.9s timed to the rack-focus. Reaction — none this frame. VO — none.
 
 DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
@@ -875,7 +835,7 @@ FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-mo
 
 LIP-SYNC: none — no speech, face soft-focus.
 
-NEGATIVE: morphing, warping, identity drift, object pop-in, frame skip, mirrored composition, text overlay, watermark, AI artifact, ghosting, any spoken word, any voice-over, audio desync, dead unlit filament, dull flat glass, rack-focus hunting, unmotivated camera shake, physics violation, frozen oil, muddy colour, murky dull palette, blown glass highlights, crushed blacks, garbled label text, heterochromia, eye-colour drift.
+NEGATIVE: identity drift, face or hand warp, extra or fused fingers, duplicate person, mirrored/flipped frame, slow-motion, watermark.
 
 ---
 
@@ -928,7 +888,7 @@ NEGATIVE: mirrored, flipped, extra limbs, fused fingers, melted features, second
 
 ## Frame 4 of 6 — VIDEO PROMPT (FOOTWEAR & ACCESSORIES)
 
-IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked identity reference and hold her the SAME PERSON for the entire 6-second clip and every generated frame. Treat identity as a FIXED skeleton that never changes — bone structure (skull, cheekbones, jawline, chin), overall face shape and proportions, eye shape, spacing and iris colour, nose and lip shape, skin tone and real skin texture (visible pores, fine peach-fuzz; no plastic smoothing, no beautification creep, no face re-shaping), hairline, hair colour and texture, height, build and hand/finger anatomy. ONLY the soft expression muscles may move — eyelids, brows, cheeks and mouth corners — together with the eyes, gaze and head; expression and lip-sync animate ON TOP of that fixed identity and must NEVER alter the face shape, the eye colour, or who she is. Keep expression changes smooth and moderate and lead them with the EYES and GAZE (soft smiles, brow lifts, a parted breath, eyes tracing the object) — no extreme grimace, no wide-mouth distortion, no hard squint, no rapid expression flicker that would warp the geometry; favour one clean expression transition per clip. ABSOLUTE ZERO identity drift: no morphing, melting, smearing, rubbery warping, face-swapping, twinning or a second/duplicate subject, no age, weight, ethnicity or gender shift, no extra, missing or fused fingers or limbs. Identity stays identical at the first frame, every in-between frame, the loop seam and the last frame. Through any transform, impossible move or fast action ONLY the intended element (wardrobe, environment, props or effect) changes — her face, identity and proportions stay fully recognizable; interpolate strictly between the locked keyframes and never invent a new face, new hands, extra limbs or a second subject. Do not mirror, flip or invert the frame.
+IDENTITY (locked): Aira — same person every frame; face, bone structure, eye shape + colour, nose, lips, skin texture and hair strictly locked to reference; ONLY expression, gaze and head move; no identity drift, no face/anatomy warp, no second or duplicate person.
 
 SHOT TYPE: low three-quarter body shot down the leg-and-wrist line, footwear in the lower third, face at the top, subject filling about 70% of the vertical frame.
 
@@ -939,10 +899,6 @@ SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never sl
 - [00:02–00:04] The pan rises up the body line as she lifts and rotates the cuffed wrist into frame, the chrome stack rocking with plasma threads arcing across the gaps and the choker pulsing; gaze glancing down the line.
 - [00:04–00:06] She lands a pleased quarter-smile glancing down the body, weight grounded, the plasma accessories settling.
 
-LIGHTING: raking three-quarter beauty key maximising internal glow and speculars; white fill lifting shadows; electric rim on gown and cuffs; travelling plasma-wash practical; cyan floor bounce keeping the boots saturated.
-
-ENVIRONMENT: electric plasma studio with drifting arcs softly defocused behind, high-gloss black-mirror floor reflection.
-
 AUDIO: silent of any voice — NO spoken word, NO vocal of any kind. Ambient bed — a low warm studio room tone with a faint electric hum. SFX — a soft glossy boot-plant tick with a faint electric core-hum as the platform plants at 0.6s, a light chrome-cuff clack with a tiny plasma-fizz as the bracelets settle at 2.6s, a faint airy electric-shimmer accent at 3.6s timed to the choker pulse. Reaction — none this frame. VO — none.
 
 DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
@@ -951,7 +907,7 @@ FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-mo
 
 LIP-SYNC: none — no speech, soft pleased expression.
 
-NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame skip, mirrored composition, text overlay, watermark, AI artifact, ghosting, any spoken word, any voice-over, audio desync, wardrobe drift between shots, mismatched footwear, opaque dull boots, dead unlit sole-cores, unmotivated camera shake, physics violation (plasma/chrome/hair), mannequin posture, frozen background, identity flicker, heterochromia, eye-colour drift, muddy colour, murky dull palette, crushed blacks.
+NEGATIVE: identity drift, face or hand warp, extra or fused fingers, duplicate person, mirrored/flipped frame, slow-motion, watermark.
 
 ---
 
@@ -1006,7 +962,7 @@ NEGATIVE: mirrored, flipped, inverted, extra limbs, fused fingers, melted featur
 
 ## Frame 5 of 6 — VIDEO PROMPT (MAGIC BEAT)
 
-IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked identity reference and hold her the SAME PERSON for the entire 6-second clip and every generated frame. Treat identity as a FIXED skeleton that never changes — bone structure (skull, cheekbones, jawline, chin), overall face shape and proportions, eye shape, spacing and iris colour, nose and lip shape, skin tone and real skin texture (visible pores, fine peach-fuzz; no plastic smoothing, no beautification creep, no face re-shaping), hairline, hair colour and texture, height, build and hand/finger anatomy. ONLY the soft expression muscles may move — eyelids, brows, cheeks and mouth corners — together with the eyes, gaze and head; expression and lip-sync animate ON TOP of that fixed identity and must NEVER alter the face shape, the eye colour, or who she is. Keep expression changes smooth and moderate and lead them with the EYES and GAZE (soft smiles, brow lifts, a parted breath, eyes tracing the object) — no extreme grimace, no wide-mouth distortion, no hard squint, no rapid expression flicker that would warp the geometry; favour one clean expression transition per clip. ABSOLUTE ZERO identity drift: no morphing, melting, smearing, rubbery warping, face-swapping, twinning or a second/duplicate subject, no age, weight, ethnicity or gender shift, no extra, missing or fused fingers or limbs. Identity stays identical at the first frame, every in-between frame, the loop seam and the last frame. Through any transform, impossible move or fast action ONLY the intended element (wardrobe, environment, props or effect) changes — her face, identity and proportions stay fully recognizable; interpolate strictly between the locked keyframes and never invent a new face, new hands, extra limbs or a second subject. Do not mirror, flip or invert the frame.
+IDENTITY (locked): Aira — same person every frame; face, bone structure, eye shape + colour, nose, lips, skin texture and hair strictly locked to reference; ONLY expression, gaze and head move; no identity drift, no face/anatomy warp, no second or duplicate person.
 
 SHOT TYPE: medium-full, subject filling about 65% of the vertical frame, the orbital helixes filling the width.
 
@@ -1017,10 +973,6 @@ SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never sl
 - [00:02–00:04] The orbit rides the magic as the filaments sweep into two spiralling orbital helixes circling her like captured lightning, each trailing a glowing comet-glow; her face serene-radiant at the centre, eyes widening.
 - [00:04–00:06] The helixes settle into a steady glowing orbit with a final spark shedding free at the apex as she holds the transcendent pose; a radiant smile landing, eyes alight.
 
-LIGHTING: feathered beauty key holding the face serene; travelling multi-colour electric practical wash from the orbiting filaments; intensified violet rim on the lifted ponytail; cyclorama held well down; cyan bounce keeping the filaments saturated and clean.
-
-ENVIRONMENT: surreal electric plasma studio, the captured-lightning helixes orbiting against the deep cyclorama, high-gloss black-mirror floor reflection.
-
 AUDIO: silent of any voice — NO spoken word, NO vocal of any kind. Ambient bed — a low warm studio room tone with a rising airy electric hum. SFX — soft crackling plasma-streams building from 0.2s, a smooth electric arc-whoosh at 1.2s as the filaments leap from the palms, gentle whooshing helix-swooshes at 1.9s as the orbits form, a soft sparkling chime-shimmer at 4.2s as the orbit settles, tiny zap-ticks continuing under as sparks shed. Reaction — a soft awed breath only, no voiced sound. VO — none.
 
 DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
@@ -1029,7 +981,7 @@ FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-mo
 
 LIP-SYNC: none — lips parted in awe, no speech, no mouthed words.
 
-NEGATIVE: morphing of the face, warping of features, identity drift, limb teleport, object pop-in, frame skip, mirrored composition, text overlay, watermark, AI artifact, ghosting, any spoken word, any voice-over, audio desync, unmotivated camera shake, physics violation (plasma/chrome/hair), dead unlit plasma, smeared orbiting filaments, muddy overlapping tendrils, stiff non-orbiting storm, mannequin posture, frozen background, identity flicker, heterochromia, eye-colour drift, muddy colour, murky dull palette, crushed blacks during the orbit.
+NEGATIVE: identity drift, face or hand warp, extra or fused fingers, duplicate person, mirrored/flipped frame, slow-motion, watermark.
 
 ---
 
@@ -1084,7 +1036,7 @@ NEGATIVE: mirrored, flipped, inverted, extra limbs, fused fingers, melted featur
 
 ## Frame 6 of 6 — VIDEO PROMPT (PERFECT-LOOP CLOSE)
 
-IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked identity reference and hold her the SAME PERSON for the entire 6-second clip and every generated frame. Treat identity as a FIXED skeleton that never changes — bone structure (skull, cheekbones, jawline, chin), overall face shape and proportions, eye shape, spacing and iris colour, nose and lip shape, skin tone and real skin texture (visible pores, fine peach-fuzz; no plastic smoothing, no beautification creep, no face re-shaping), hairline, hair colour and texture, height, build and hand/finger anatomy. ONLY the soft expression muscles may move — eyelids, brows, cheeks and mouth corners — together with the eyes, gaze and head; expression and lip-sync animate ON TOP of that fixed identity and must NEVER alter the face shape, the eye colour, or who she is. Keep expression changes smooth and moderate and lead them with the EYES and GAZE (soft smiles, brow lifts, a parted breath, eyes tracing the object) — no extreme grimace, no wide-mouth distortion, no hard squint, no rapid expression flicker that would warp the geometry; favour one clean expression transition per clip. ABSOLUTE ZERO identity drift: no morphing, melting, smearing, rubbery warping, face-swapping, twinning or a second/duplicate subject, no age, weight, ethnicity or gender shift, no extra, missing or fused fingers or limbs. Identity stays identical at the first frame, every in-between frame, the loop seam and the last frame. Through any transform, impossible move or fast action ONLY the intended element (wardrobe, environment, props or effect) changes — her face, identity and proportions stay fully recognizable; interpolate strictly between the locked keyframes and never invent a new face, new hands, extra limbs or a second subject. Do not mirror, flip or invert the frame.
+IDENTITY (locked): Aira — same person every frame; face, bone structure, eye shape + colour, nose, lips, skin texture and hair strictly locked to reference; ONLY expression, gaze and head move; no identity drift, no face/anatomy warp, no second or duplicate person.
 
 SHOT TYPE: medium close, chest-up, subject fills about 55% of the vertical frame — matched to Frame 1.
 
@@ -1095,10 +1047,6 @@ SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never sl
 - [00:02–00:04] The push settles as she lifts her eyes back to lens on a soft exhale with a composed knowing quarter-smile, the scene resolving to the opening tableau; eyes calming.
 - [00:04–00:06] Every element resolves precisely to the Frame 1 composition, framing locked — a seamless loop seam.
 
-LIGHTING: clamshell beauty key identical to the opening; soft settled plasma glow; cool violet rim on the ponytail; cyclorama held well down; glossy catch on the orb — matched to Frame 1.
-
-ENVIRONMENT: electric plasma studio settled to its calm opening state, high-gloss black-mirror floor reflection.
-
 AUDIO: silent of any voice — NO spoken word, NO vocal of any kind. Ambient bed — a low warm studio room tone with a faint electric hum settling to match the opening. SFX — a soft fading plasma-fizz as the last filament settles at 0.6s, a gentle glossy glass-tap as her fingers settle on the orb at 1.8s, a faint airy electric-shimmer accent at 3.9s timed to the eye-lift, resolving cleanly so the tail matches the head for a seamless loop. Reaction — a soft exhale only, no voiced sound. VO — none.
 
 DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
@@ -1107,7 +1055,7 @@ FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-mo
 
 LIP-SYNC: none — lips softly parted, composed, no speech.
 
-NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame skip, mirrored composition, text overlay, watermark, AI artifact, ghosting, any spoken word, any voice-over, audio desync, wardrobe drift between shots, unmotivated camera shake, physics violation (plasma/chrome/hair), dead unlit plasma, mannequin posture, frozen background, identity flicker, heterochromia, eye-colour drift, muddy colour, murky dull palette, crushed blacks, loop-point mismatch with Frame 1, visible seam at the loop.
+NEGATIVE: identity drift, face or hand warp, extra or fused fingers, duplicate person, mirrored/flipped frame, slow-motion, watermark.
 
 ### 🎵 Master Track Brief (External Audio Layer)
 
