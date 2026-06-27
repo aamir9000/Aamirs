@@ -144,14 +144,16 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE & ANGLE: high-angle wide, subject fills ~30% of frame in the lower third.
 
-CAMERA MOVEMENT (CHOREOGRAPHY): a slow 6% aerial drift-down and gentle forward glide toward the water, one continuous move, gimbal-smooth, no whip.
-
 LENS: 35mm, f/4, deep enough to hold the pool, soft horizon fall-off.
 
-SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.1s — Aira gazes down the pool, breeze lifting the hem.
-- 2.1–4.5s — she turns her face back over the shoulder to lens with a serene half-smile.
-- 4.5–6.0s — her hand drifts from the sunglasses down toward her side as her weight rolls onto the water-side foot.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] High-angle wide, full figure on the lower-third power point: the camera is already craning slowly downward as she stands at the tiled edge mid-breath, gaze travelling down the glowing pool, ivory linen hem already rippling in the warm breeze; lids soft, eyes tracing the bright water-line.
+- [00:02–00:04] The move eases out of the crane into a gentle forward track toward the water as she turns her face back over the shoulder to lens, a serene closed-lip half-smile blooming, eyes warming under the crisp low-sun catchlight.
+- [00:04–00:06] The track settles; her hand drifts from the sunglasses at her temple down toward her side as her weight rolls onto the water-side foot, gaze lowering to the surface to motivate the next beat.
+
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
+
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
 FLUIDITY & WEIGHT NOTES: every motion eases in and out; the shoulder turn leads the head, the head leads the eyes; weight transfer is visible through a soft hip roll — nothing snaps, nothing holds rigid.
 
@@ -218,14 +220,16 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE & ANGLE: low macro on the feet, subject detail fills ~70%.
 
-CAMERA MOVEMENT (CHOREOGRAPHY): a slow 4% push toward the tile lip following the lifting foot, locked otherwise.
-
 LENS: 90mm macro, f/2.8, lush fall-off.
 
-SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.3s — she eases one foot out of the slide, toes pointing.
-- 2.3–4.6s — the bare foot hovers and lowers toward the water as a droplet falls.
-- 4.6–6.0s — toes break the surface, a clean ripple ring spreading.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Low macro on the feet, the detail filling the frame: a slow lateral slider is already gliding along the wet tile lip as one foot eases out of the woven slide mid-motion, toes pointing, the empty slide rocking on the travertine — expression carried by the deliberate, articulate step.
+- [00:02–00:04] The slider arcs a touch toward the tile edge following the lifting foot; the bare foot hovers and lowers toward the glowing aqua water as a single droplet forms, stretches and falls.
+- [00:04–00:06] Camera holds low and close as the toes break the surface and a clean ripple ring spreads outward — the seed of the water that will later climb her arm.
+
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
+
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
 FLUIDITY & WEIGHT NOTES: ballet-soft articulation through the ankle; the lift and lower ease continuously, no jerk; weight stays grounded on the planted foot.
 
@@ -294,14 +298,16 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE & ANGLE: profile medium, subject fills ~55%.
 
-CAMERA MOVEMENT (CHOREOGRAPHY): a slow arcing 10% orbit from full profile toward three-quarter front as her hand enters the water, one smooth continuous arc.
-
 LENS: 50mm, f/2.2, creamy fall-off.
 
-SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.1s — she lowers into the crouch, arm reaching.
-- 2.1–4.2s — fingers slip into the water, ripple rings blooming.
-- 4.2–6.0s — she tilts her head, watching the water begin to climb her wrist.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Profile medium in a clean side silhouette: the camera is already arcing in a slow orbit from full profile toward three-quarter as she lowers into the crouch mid-descent, arm reaching for the water; eyes following her own hand down, lashes lowering in concentration.
+- [00:02–00:04] The orbit keeps rolling the gold rim across her cheek as her fingers slip into the water, ripple rings blooming and caustics climbing her forearm; lips parting a millimetre in quiet wonder.
+- [00:04–00:06] She tilts her head, gaze tracking a thin sheet of water that begins to defy gravity and creep up her wrist; inner brow lifting in soft awe as the orbit eases to rest.
+
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
+
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
 FLUIDITY & WEIGHT NOTES: the descent is one continuous melt — hips, spine, shoulder, hand cascading in sequence; the reach initiates from the shoulder blade, not a stiff arm; breath visible in the ribcage.
 
@@ -368,14 +374,16 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE & ANGLE: three-quarter front cowboy, subject fills ~60%, rising in frame.
 
-CAMERA MOVEMENT (CHOREOGRAPHY): a smooth crane-up tracking her rise with a gentle 8% push, continuing the orbit toward front.
-
 LENS: 35mm, f/2.8.
 
-SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.7s — she begins to rise, water climbing the arm.
-- 1.7–4.0s — the spiral wraps the torso and chiffon forms.
-- 4.0–6.0s — arms bloom open, droplets fling outward, head lifting to lens.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Three-quarter front cowboy, rising in frame: a smooth crane-up is already tracking her ascent as she begins to rise and the pool water climbs her arm; her gaze lifts with the spiral, eyes beginning to widen.
+- [00:02–00:04] The crane continues upward as the water-ribbon wraps her torso and aqua-to-teal chiffon weaves into being around her; chin lifting, breath caught with parted lips, cheeks lifting in serene awe.
+- [00:04–00:06] At the apex her arms bloom open and droplets fling outward on real ballistic arcs, head lifting fully to lens — the hero water-to-silk weave at its peak, eyes alight.
+
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
+
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
 FLUIDITY & WEIGHT NOTES: one unbroken ascending spiral — the rise leads from the core, arms unfurl last; momentum carries continuously, no pose-and-hold; weight flows upward through a lengthening line.
 
@@ -442,14 +450,16 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE & ANGLE: front-on full/wide hero, subject fills ~50%, centred.
 
-CAMERA MOVEMENT (CHOREOGRAPHY): the orbit completes to dead-front and settles into a near-locked slow 3% push — the calm after the rise.
-
 LENS: 28mm, f/4.
 
-SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.2s — she settles tall as the gown finishes drifting into place.
-- 2.2–4.2s — she lowers the sunglasses onto her eyes with a fluid hand.
-- 4.2–6.0s — a serene confident smile, the water stilling to a mirror.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Front-on full/wide hero, centred: the orbit completes to dead-front and decelerates as she settles tall, the finished sea-silk gown drifting into place around her; energy easing, shoulders opening.
+- [00:02–00:04] Near-locked now on a whisper of a push-in, she lowers the tortoise-and-gold sunglasses onto her eyes with one fluid hand, the mirror-lens catching the gold sky; cheeks lifting beneath the lens.
+- [00:04–00:06] A serene, confident closed-lip smile lands as the water stills to a mirror around her ankles and the trailing hand settles — the calm after the rise.
+
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
+
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
 FLUIDITY & WEIGHT NOTES: the settle is a soft exhale of motion — energy decelerating gracefully; the sunglasses gesture flows from the shoulder through a relaxed wrist; no abrupt stop.
 
@@ -516,14 +526,16 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE & ANGLE: high-angle wide matching Frame 1, subject ~30% lower third.
 
-CAMERA MOVEMENT (CHOREOGRAPHY): a slow drift-up and gentle pull-back, exactly reversing Frame 1's drift-down so the end pose meets the start pose.
-
 LENS: 35mm, f/4.
 
-SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.3s — she turns back toward the deck, gown trailing.
-- 2.3–4.7s — the gown softens toward linen and the sunglasses slide up into the hair.
-- 4.7–6.0s — she settles into the exact three-quarter-back, over-shoulder gaze of Frame 1.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] High-angle wide matching Frame 1: the camera is already drifting up and pulling back, exactly reversing the open, as she turns back toward the deck and the gown trails on the water; her gaze beginning its over-the-shoulder arc.
+- [00:02–00:04] The pull-back continues as the sea-silk softens back toward ivory linen at the trailing hem and the sunglasses slide up into her hair; a soft serene half-smile returning.
+- [00:04–00:06] She settles into the exact three-quarter-back, over-the-shoulder gaze of Frame 1, weight rolling to the deck-side foot, eyes warm — a frame-accurate loop seam.
+
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
+
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
 FLUIDITY & WEIGHT NOTES: the turn is one smooth rotation initiated by the hips; the reset never looks mechanical — it reads as a natural continuation of breath and motion.
 
