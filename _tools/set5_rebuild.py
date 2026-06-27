@@ -305,6 +305,72 @@ BEATS[74] = [
 ]
 
 
+BEATS[75] = [
+    # F1 - medium close chest-up (push-in)
+    (
+        "Medium close chest-up: a slow push-in is already gliding toward her as she tilts the "
+        "citrine bottle a few degrees into the key, speculars sliding across the facets and "
+        "the liquid-sequins flickering electric colour-flips; gaze lowered to the glass.",
+        "The push continues as she lifts her eyes to lens on a soft inhale and a confident "
+        "quarter-smile blooms, suspended glossy citrus slices glowing behind.",
+        "She holds, electric and glossy, one brow a hair higher, eyes bright and direct to "
+        "lens.",
+    ),
+    # F2 - medium waist-up, arc-push (sequins flip-form the gown, track the transform)
+    (
+        "Medium waist-up: a smooth 10% arc-push is already drifting a few degrees around her "
+        "as sequin-streams cascade in from the frame edges and she opens her arms to "
+        "present; gaze tracking the cascading sequins.",
+        "The arc-push rides the build as the sequins flip-lock onto the bodice and skirt, "
+        "the structured shoulders crisping into clean line; a delighted breath, brows "
+        "lifting.",
+        "The last streams settle and the sequin-shimmer fades as the move eases; she lands a "
+        "confident finished pose, eyes alight on the colour-flipping gown.",
+    ),
+    # F3 - tight medium close + macro foreground, rack-focus pull (product->eye)
+    (
+        "Tight medium close with a macro foreground on the bottle: a slow rack-focus pull "
+        "with a 5% drift-in is already underway as she slowly rotates the citrine bottle, "
+        "the amber serum and facets catching light while focus holds on the glass.",
+        "Focus racks smoothly off the bottle toward her near eye as she lifts her gaze, the "
+        "drift settling; a confident half-smile beginning.",
+        "The half-smile settles with her eye now tack-sharp, the bottle soft in the "
+        "foreground, gaze direct and assured.",
+    ),
+    # F4 - beauty close-up, face-dominant (4% push, emotional beat — silent)
+    (
+        "Beauty close-up, face-dominant: an almost-imperceptible 4% push is already breathing "
+        "in as the radiant smile blooms with a genuine eye-crinkle and her gaze lifts to "
+        "lens (silent \u2014 no words).",
+        "A soft exhale and a tiny confident chin-lift follow as her fingertips settle at the "
+        "jaw, the expression warm and open.",
+        "The warm open expression holds, eyes bright and direct \u2014 a wordless emotional "
+        "reveal in place of any line.",
+    ),
+    # F5 - medium-wide three-quarter body, graphic 3D orbit (citrus-sequin supernova)
+    (
+        "Medium-wide three-quarter body: a smooth graphic 20\u00b0 3D orbit is already arcing "
+        "around her as she sweeps her arms outward and the citrus-sequin supernova explodes "
+        "open in radiant rays; gaze lifting into the burst.",
+        "The orbit rides the burst to its luminous peak, sequin-sparks spiralling around "
+        "her; eyes widening, an awe-struck joyful smile at full bloom.",
+        "The rays hold and begin a gentle settle as the sparks drift and the orbit eases; "
+        "her joyful smile landing, eyes alight.",
+    ),
+    # F6 - medium close loop close (6% settle-back to F1)
+    (
+        "Medium close chest-up matching Frame 1: a gentle 6% settle-back is already returning "
+        "the framing toward the opening position as the last citrus-sparks settle; she eases "
+        "her arms back in and re-cradles the bottle at collarbone height, gaze softening.",
+        "The settle continues as she resolves into the calm hero pose with the confident "
+        "quarter-smile and a soft settling exhale, the citrus studio easing to its opening "
+        "look; eyes calming.",
+        "She lands exactly on the Frame 1 composition and gaze, weight settled \u2014 a "
+        "seamless loop seam.",
+    ),
+]
+
+
 def build_block(beats):
     return (
         BREAKDOWN_HEADER + "\n"
