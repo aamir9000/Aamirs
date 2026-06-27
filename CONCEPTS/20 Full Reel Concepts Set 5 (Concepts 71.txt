@@ -103,14 +103,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: medium close, chest-up, subject fills about 55% of the vertical frame.
 
-CAMERA MOVEMENT: a single slow 8% push-in across the clip, otherwise locked-off and stable — one move, no whip.
-
 LENS: 50mm, f/2.8, creamy green fall-off.
 
-SUBJECT ACTION WITH TIMING:
-- 0.0–2.4s — Aira tilts the emerald bottle a few degrees into the sun, speculars sliding along the glass and the oil settling inside.
-- 2.4–4.2s — she lifts her eyes to the lens on a soft inhale as a serene half-smile blooms.
-- 4.2–6.0s — she holds, calm and luminous, a tendril drifting. One clean action, real physics.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Medium close chest-up: a slow push-in is already gliding toward her as she tilts the emerald oil bottle a few degrees into the sun, speculars sliding along the glass and the green-gold oil settling inside; gaze lowered to the glass.
+- [00:02–00:04] The push continues as she lifts her eyes to lens on a soft inhale and a serene half-smile blooms, golden-green conservatory light warming her face.
+- [00:04–00:06] She holds, calm and luminous, a loose tendril drifting at her temple, eyes soft and direct.
 
 LIGHTING: soft green-gold daylight key with stone bounce fill; live moving speculars across glass and skin as the bottle tips; warm sun-rim steady on hair.
 
@@ -118,9 +116,9 @@ ENVIRONMENT: sunlit glass conservatory, topiary and ferns behind, drifting polle
 
 AUDIO: diegetic-plus-design, no spoken word (silent reel). Ambient bed — a warm conservatory tone: distant birdsong, a soft draught through leaves, low. SFX — a soft glass-tap as fingers settle at 0.5s, a faint velvet shift at 2.5s, a delicate airy sparkle-shimmer at 3.8s timed to the eye-lift. Reaction — a soft audible breath at 2.4s. VO — none. Master track sits low and warm under the frame (subtle, never full).
 
-DURATION: 5 seconds (0:00 to 0:05 of 30s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps, 180° shutter, natural motion blur on the bottle tilt.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — lips softly parted, composed, no words.
 
@@ -181,15 +179,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: medium, transformation showpiece, easing wider as the skirt builds.
 
-CAMERA MOVEMENT: a slow majestic arc about 20° around her with a gentle rise ( + slight boom), tracking the growth — one smooth motivated move, no whip.
-
 LENS: 40mm, f/2.5.
 
-SUBJECT ACTION WITH TIMING:
-- 0.0–1.2s — vines race up from the hem, the velvet dissolving into a leaf-bodice.
-- 1.2–3.2s — leaves unfurl in waves up the skirt and arms as vivid buds swell, Aira beginning her slow quarter-turn with a wondering breath.
-- 3.2–5.0s — the couture gown locks in, buds poised to bloom, a flurry of pollen-light lifting.
-- 5.0–6.0s — she settles into the finished silhouette, calm and radiant. Only the growth is impossible; gravity, drape and physics otherwise real.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Medium transformation showpiece: a slow majestic 20° arc with a gentle boom-rise is already tracking the growth as vines race up from the hem and the velvet dissolves into a leaf-bodice; gaze following the climbing green.
+- [00:02–00:04] The arc keeps rising as leaves unfurl in waves up the skirt and arms and vivid buds swell, she beginning her slow quarter-turn; a wondering breath, brows lifting in awe.
+- [00:04–00:06] The couture gown locks in with buds poised to bloom and a flurry of pollen-light lifting as the arc eases; she settles into the finished silhouette, calm and radiant.
 
 LIGHTING: green-gold key lifting brighter through the growth, leaf-bounce fill, warm sun-rim tracing the new silhouette; live colour spill building on skin.
 
@@ -197,9 +192,9 @@ ENVIRONMENT: conservatory erupting into answering colour, topiary blooming, poll
 
 AUDIO: diegetic-plus-design, no spoken word (silent reel). Ambient bed — the warm conservatory tone swelling with a soft rising wash. SFX — a soft organic creak-and-rustle of racing vines 0.0 to 1.2s, a cascade of delicate leaf-unfurl ticks 1.2 to 3.2s, soft bud-swell pops and a gentle pollen-shimmer 3.2 to 5.0s, a warm settle-chord at 5.2s. Reaction — a soft wondering breath at 1.6s. VO — none. Master track lifts gently under the transform then settles (subtle, never full).
 
-DURATION: 6 seconds (0:05 to 0:11 of 30s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps, 180° shutter, natural motion blur on the growth and the arc.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — a soft wondering breath, lips part, no words.
 
@@ -258,14 +253,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: beauty close, chest-up, product-at-cheek hero.
 
-CAMERA MOVEMENT: a slow 6% push to the cheekbone, locked and smooth — one move.
-
 LENS: 85mm, f/2.0.
 
-SUBJECT ACTION WITH TIMING:
-- 0.0–1.8s — she brings the open bottle to her cheekbone, a luminous oil-drop swelling at the tip.
-- 1.8–3.8s — the drop glides to the skin and blooms a dewy sheen as she lowers her eyes to the touch.
-- 3.8–6.0s — she lifts her eyes to lens with a serene micro-smile, the glow set. Real physics, intimate and clean.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Beauty close, chest-up at a three-quarter: a slow push toward her cheekbone is already gliding in as she brings the open bottle to her cheek, a luminous oil-drop swelling at the tip; eyes lowered to the touch.
+- [00:02–00:04] The drop glides to the skin and blooms a dewy sheen, the push settling; lashes lowering, a serene focus holding.
+- [00:04–00:06] She lifts her eyes to lens with a serene micro-smile, the glow set, leaf-bodice glinting in her gaze.
 
 LIGHTING: soft green-gold beauty key, leaf-bounce fill, warm rim; a live dewy specular blooming where oil meets cheek.
 
@@ -273,9 +266,9 @@ ENVIRONMENT: blooming conservatory soft behind, pop-colour bud bokeh, drifting p
 
 AUDIO: diegetic-plus-design, no spoken word (silent reel). Ambient bed — warm conservatory tone, low. SFX — a soft cap-click at 0.4s, a delicate oil-glide whisper at 1.9s, a tiny dewy shimmer-accent at 2.3s as the glow blooms. Reaction — a soft contented breath at 2.4s. VO — none. Master track sits low and intimate (subtle, never full).
 
-DURATION: 5 seconds (0:11 to 0:16 of 30s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps, 180° shutter, gentle natural motion blur.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — lips softly closed on the micro-smile, no words.
 
@@ -334,14 +327,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: bold beauty close, chest-up, commanding wordless direct address.
 
-CAMERA MOVEMENT: locked-off and stable, a barely-there 4% push — no movement competing with the beat; let the look do the work.
-
 LENS: 85mm, f/2.2.
 
-SUBJECT ACTION WITH TIMING:
-- 0.0–2.0s — she settles, eyes locking the lens with a confident radiant half-smile.
-- 2.0–4.2s — she presents the bottle at her chest and lands a single assured chin-lift into a slow blink, a warm glass glint flickering, lips softly closed (no speech).
-- 4.2–6.0s — the half-smile holds, eyes luminous and direct. One clean wordless beat, real physics.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Bold beauty close, chest-up squared to lens: the camera is already settled on a barely-there push as her eyes lock the lens with a confident radiant half-smile, the bottle presented at her chest (silent — no words).
+- [00:02–00:04] She lands a single assured chin-lift into a slow blink as a warm glass glint flickers across the bottle, lips softly closed, the look itself doing the work.
+- [00:04–00:06] The half-smile holds, eyes luminous and direct — a wordless expression reveal in place of any line.
 
 LIGHTING: green-gold beauty key, leaf-bounce fill, warm rim; steady, no flicker; a live glass glint as she breathes.
 
@@ -349,9 +340,9 @@ ENVIRONMENT: conservatory, blurred blooms and topiary behind, pollen-light.
 
 AUDIO: diegetic-plus-design, no spoken word (silent reel). Ambient bed — the warm conservatory tone, low. SFX — a faint leaf-rustle hush, a soft bottle-present touch at 0.8s, a delicate airy shimmer-accent at 2.1s on the chin-lift. Reaction — a soft calm breath at 2.5s. VO — none (the beat is carried by the look). Master track sits low and steady (subtle, never full).
 
-DURATION: 4 seconds (0:16 to 0:20 of 30s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps, 180° shutter, gentle natural motion blur.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — lips stay softly closed; no words, no lip-flap.
 
@@ -412,15 +403,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: full-figure magical grand hero, slightly low angle.
 
-CAMERA MOVEMENT: a slow majestic push-in with a gentle rise ( + slight boom) tracking the burst — one smooth motivated move.
-
 LENS: 35mm, f/2.0.
 
-SUBJECT ACTION WITH TIMING:
-- 0.0–0.6s — a single bud at the heart of the bodice splits and flares its first vivid petal.
-- 0.6–2.2s — the bloom races outward bud to bud as petal-confetti and pollen-light lift and swirl around her, the topiary blooming behind, she lifting her eyes into the swirl.
-- 2.2–4.2s — the petals trail out, easing to a sustained drifting halo, her radiant smile landing.
-- 4.2–6.0s — she holds, haloed and triumphant. Only the synchronized bloom-burst is impossible; all else real physics.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Full-figure magical grand hero from a slightly low angle: a slow majestic push-in with a gentle boom-rise is already lifting as a single bud at the heart of the bodice splits and flares its first vivid petal; gaze drawn to the opening bud.
+- [00:02–00:04] The boom keeps rising as the bloom races outward bud to bud, petal-confetti and pollen-light swirling around her and the topiary blooming behind; eyes lifting into the swirl, a radiant awe blooming.
+- [00:04–00:06] The petals trail out, easing to a sustained drifting halo as the move settles; her radiant smile landing, eyes triumphant and haloed.
 
 LIGHTING: the colour-burst lifted as a live key over the green-gold daylight, warm rim, leaf-and-petal fill rising; controlled, no clipping.
 
@@ -428,9 +416,9 @@ ENVIRONMENT: conservatory alive with vivid pop colour, topiary blooming, pollen-
 
 AUDIO: diegetic-plus-design, no spoken word (silent reel). Ambient bed — the warm conservatory tone blooming into a lush orchestral swell with a soft timpani roll cresting at the burst then settling. SFX — a soft bud-split flare 0.2s, a gentle blossom-bloom whoosh and a sparkling pass of petal-confetti and pollen-light tracking the swirl 0.5 to 2.2s, soft petal-flutter settling 1.2 to 3.0s, a warm resonance under the settle. Reaction — a soft powerful breath at 1.9s. VO — none. Master track rises to its fullest-but-still-restrained moment under the burst then eases (subtle, never full).
 
-DURATION: 5 seconds (0:20 to 0:25 of 30s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps, 180° shutter, natural motion blur on the burst and swirling petals.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — lips part on the powerful breath and smile, no words (silent).
 
@@ -491,14 +479,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: medium close, chest-up, easing toward the F1 opening framing.
 
-CAMERA MOVEMENT: a slow settle back to the F1 start position (gentle reverse of the F1 push) — one smooth move landing exactly on the opening framing for a seamless loop.
-
 LENS: 50mm, f/2.8.
 
-SUBJECT ACTION WITH TIMING:
-- 0.0–1.8s — the blossom-bloom eases out, the last petals drifting down as Aira begins settling back toward her opening posture.
-- 1.8–4.2s — she cradles the bottle at the collarbone, a soft serene smile easing in, the conservatory settling fully back to its calm F1 look.
-- 4.2–6.0s — she lands exactly on the opening posture, framing and headroom, holding still for the seamless hand-back to Frame 1. Real physics, one calm settling move, no jarring cut.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Medium close chest-up easing toward the Frame 1 framing: a slow settle-back is already reversing the opening push as the blossom-bloom eases out and the last petals drift down; she begins settling toward her opening posture, gaze softening.
+- [00:02–00:04] The settle continues as she cradles the bottle at the collarbone and the conservatory eases fully back to its calm Frame 1 look; a soft serene smile easing in, eyes calming.
+- [00:04–00:06] She lands exactly on the opening posture, framing and headroom matched, holding still for the seamless hand-back — a frame-accurate loop seam.
 
 LIGHTING: the green-gold daylight easing back to the F1 direction and intensity, soft stone fill, warm sun-rim; steady, no flicker, matched to the opening.
 
@@ -506,9 +492,9 @@ ENVIRONMENT: the conservatory resolving to the calm opening look — topiary ste
 
 AUDIO: diegetic-plus-design, no spoken word (silent reel). Ambient bed — the lush swell easing back down to the warm calm conservatory tone of the opening (birdsong, soft leaf-draught, low). SFX — a soft settling petal-flutter 0.0 to 1.8s, a gentle glass-settle as the bottle comes to rest at 2.4s, the airy shimmer thinning to silence by 4.8s for a clean loop point. Reaction — a soft quiet breath at 2.6s. VO — none. Master track resolves its phrase and eases to the low warm bed, landing soft so the loop back to Frame 1 is seamless (subtle, never full).
 
-DURATION: 5 seconds (0:25 to 0:30 of 30s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps, 180° shutter, gentle natural motion blur on the settle.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — a soft serene smile, lips just parted, no words.
 
