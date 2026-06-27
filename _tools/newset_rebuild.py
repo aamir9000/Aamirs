@@ -566,6 +566,67 @@ BEATS[8] = [
 ]
 
 
+BEATS[9] = [
+    # Frame 1 - 3/4 front medium, towel to face
+    (
+        "Three-quarter front medium at the marble basin: she is already pressing a warm face "
+        "towel to her cheeks as a slow push drifts toward her face, steam drifting and the "
+        "backlit mirror glowing behind; eyes softly closed in calm.",
+        "The push settles as she draws the towel slowly down with a contented exhale, skin "
+        "dewy; lids beginning to lift.",
+        "She opens her eyes to the mirror, a serene smile forming, gaze warm and luminous.",
+    ),
+    # Frame 2 - macro on misting spritz (no face)
+    (
+        "Extreme macro on her hand: she is already raising the glowing skincare bottle "
+        "toward her face as a slow push closes in, the nozzle catching the light.",
+        "She presses the pump and a fine mist fans out, droplets hanging in a rack-focused "
+        "shimmer.",
+        "The droplets settle and catch the morning light as she breathes them in, the haze "
+        "drifting up.",
+    ),
+    # Frame 3 - low-angle macro on slipper (no face)
+    (
+        "Low-angle macro on the warm marble floor: her foot is already hovering over the "
+        "pearl-satin mule as a slow push follows it down.",
+        "The foot slides into the slipper, the satin flexing and creasing around the arch.",
+        "She settles her weight and the heel seats, a pearl sheen travelling across the "
+        "satin.",
+    ),
+    # Frame 4 - profile medium, steam-reveal transform
+    (
+        "Profile medium: warm steam is already billowing up from the basin as a crane begins "
+        "to rise with a slow arc from profile toward three-quarter; gaze following the "
+        "rising steam.",
+        "The steam wraps her body and resolves into the pearl-couture gown as the crane "
+        "climbs; chin lifting, eyes softening in serene awe, lips parting on a gentle "
+        "breath.",
+        "Her arms bloom and her hair releases in the warm air, a serene awed smile arriving, "
+        "eyes luminous.",
+    ),
+    # Frame 5 - front-on full/wide hero (SPOKEN)
+    (
+        "Front-on full/wide hero before the backlit mirror: she is already settling into the "
+        "finished pearl gown, a hand rising to her collarbone, as a slow push eases toward "
+        "dead-front; gaze soft and glowing.",
+        "She turns softly to lens, the pearl satin catching the mirror's halo, eyes warm and "
+        "calm.",
+        "She delivers the spoken line with a radiant serene smile, cheeks lifting gently as "
+        "the push settles.",
+    ),
+    # Frame 6 - 3/4 front medium loop close
+    (
+        "Three-quarter front medium matching Frame 1: a slow pull-back to the basin is "
+        "already reversing the opening push as she turns back; gaze drifting toward the "
+        "marble.",
+        "The pull-back continues as the pearl gown softens back into the ivory silk robe and "
+        "the warm towel reappears in her hand; a soft serene smile returning.",
+        "She settles into the exact ritual stance of Frame 1, weight grounded at the basin, "
+        "eyes calm on the mirror \u2014 a seamless loop seam.",
+    ),
+]
+
+
 def build_block(beats):
     # Replaces ONLY the `SUBJECT ACTION w/ BEAT-TIMING:` header + its bullet
     # beat lines. Whatever follows (a blank line then SPOKEN LINE or
