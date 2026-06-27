@@ -316,6 +316,71 @@ BEATS[4] = [
 ]
 
 
+BEATS[5] = [
+    # Frame 1 - low-angle medium-wide, stepping down from carriage
+    (
+        "Low-angle medium-wide from the platform boards: she is already steadying on the "
+        "gleaming brass handrail and reaching a boot down from the carriage as a crane "
+        "begins to rise toward her face; gaze down to her footing, dawn sky behind.",
+        "The crane lifts as her weight transfers onto the weathered platform, the duster "
+        "coat swinging; eyes beginning to rise.",
+        "She straightens fully and lifts her gaze to the open desert, a soft awed breath, "
+        "eyes warming in the peach-gold dawn.",
+    ),
+    # Frame 2 - high-angle macro on boot buckle (no face)
+    (
+        "High-angle macro on the boot at the platform step: her fingers are already "
+        "threading the brass buckle strap as a slow push drifts in, sand grains scattered "
+        "across the board.",
+        "She cinches the buckle tight, the strap creasing, the push holding close on the "
+        "deft fingers.",
+        "She pats the boot and her hand lifts away, a thin trail of sand sifting off the "
+        "leather.",
+    ),
+    # Frame 3 - 3/4 front medium, scarf tie in wind
+    (
+        "Three-quarter front medium on the open sand: she is already raising the long scarf "
+        "as the wind catches it into a streaming ribbon, a slow arc swinging toward front; "
+        "gaze following the cloth.",
+        "The arc eases with a gentle push as she ties the scarf at her throat and it streams "
+        "sideways, hair lifting; a free, happy set to her mouth.",
+        "She lowers her hands and gazes to the horizon, a warm smile blooming, eyes bright "
+        "with anticipation as the wind builds.",
+    ),
+    # Frame 4 - front-on full/wide hero, sand-to-gown transform (SPOKEN)
+    (
+        "Front-on full/wide hero: a gust is already lifting the desert sand around her into "
+        "a swirling column as a crane begins to rise and orbit toward dead-front; gaze "
+        "lifting with the rising sand.",
+        "The sand swirls up her body and weaves into the flowing golden gown as the crane "
+        "climbs; chin lifting, eyes widening in romantic awe, lips parting on a caught "
+        "breath.",
+        "Her arms bloom open and she turns fully to lens delivering the spoken line with a "
+        "radiant smile, the gown settling in the wind, eyes alight.",
+    ),
+    # Frame 5 - profile wide, dune-crest walk
+    (
+        "Profile wide in side silhouette: she is already striding along the dune crest in "
+        "the finished golden gown as a lateral dolly tracks alongside at matched pace, the "
+        "gown trailing a ribbon of fine sand; gaze level to the horizon.",
+        "The dolly holds her serene confident walk, the gown rippling and sand streaming "
+        "behind; a calm, content smile.",
+        "She slows her stride, weight easing, gaze drifting back toward the tiny train to "
+        "seed the turn.",
+    ),
+    # Frame 6 - low-angle medium-wide loop close
+    (
+        "Low-angle medium-wide matching Frame 1: a slow descend-and-pull-back is already "
+        "reversing the opening crane as she turns back toward the train; gaze beginning its "
+        "over-the-shoulder arc.",
+        "The descent continues as the golden gown dissolves back into the sand-toned travel "
+        "set and accessories reform, sand sifting away; a soft warm smile returning.",
+        "She settles into the over-the-shoulder glance echoing the opening, weight on the "
+        "train-side foot, eyes warm in the dawn \u2014 a seamless loop seam.",
+    ),
+]
+
+
 def build_block(beats):
     # Replaces ONLY the `SUBJECT ACTION w/ BEAT-TIMING:` header + its bullet
     # beat lines. Whatever follows (a blank line then SPOKEN LINE or

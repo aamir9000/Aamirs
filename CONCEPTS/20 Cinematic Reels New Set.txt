@@ -2126,14 +2126,16 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE & ANGLE: low-angle medium-wide, subject fills ~45%.
 
-CAMERA MOVEMENT (CHOREOGRAPHY): a slow rise-and-push from the platform boards up to her face as she steps down, one smooth crane.
-
 LENS: 28mm, f/3.2.
 
-SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.0s — she steadies on the handrail and reaches a boot down.
-- 2.0–4.1s — weight transfers onto the platform.
-- 4.1–6.0s — she straightens and lifts her gaze to the desert.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Low-angle medium-wide from the platform boards: she is already steadying on the gleaming brass handrail and reaching a boot down from the carriage as a crane begins to rise toward her face; gaze down to her footing, dawn sky behind.
+- [00:02–00:04] The crane lifts as her weight transfers onto the weathered platform, the duster coat swinging; eyes beginning to rise.
+- [00:04–00:06] She straightens fully and lifts her gaze to the open desert, a soft awed breath, eyes warming in the peach-gold dawn.
+
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
+
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
 FLUIDITY & WEIGHT NOTES: the descent is one continuous unfurl — the hand guides, the boot reaches, the torso rises; weight rolls smoothly; the gaze leads with the eyes — living and graceful.
 
@@ -2200,14 +2202,16 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE & ANGLE: high-angle macro, detail fills ~65%.
 
-CAMERA MOVEMENT (CHOREOGRAPHY): a slow 4% push following the fingers as they cinch the buckle, otherwise locked.
-
 LENS: 100mm macro, f/2.8.
 
-SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.3s — fingers thread the buckle strap.
-- 2.3–4.3s — she cinches it tight.
-- 4.3–6.0s — she pats the boot and the hand lifts away.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] High-angle macro on the boot at the platform step: her fingers are already threading the brass buckle strap as a slow push drifts in, sand grains scattered across the board.
+- [00:02–00:04] She cinches the buckle tight, the strap creasing, the push holding close on the deft fingers.
+- [00:04–00:06] She pats the boot and her hand lifts away, a thin trail of sand sifting off the leather.
+
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
+
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
 FLUIDITY & WEIGHT NOTES: the buckle work is dexterous and unhurried, fingers flowing from a relaxed wrist; the final pat is a soft confident punctuation — no stiffness.
 
@@ -2274,14 +2278,16 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE & ANGLE: three-quarter front medium, subject fills ~55%.
 
-CAMERA MOVEMENT (CHOREOGRAPHY): a slow arc from three-quarter toward front with a gentle 5% push, smooth.
-
 LENS: 50mm, f/2.2.
 
-SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.2s — she raises the scarf and the wind catches it.
-- 2.2–4.2s — she ties it at the throat as it streams.
-- 4.2–6.0s — she lowers her hands and gazes to the horizon, smiling.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Three-quarter front medium on the open sand: she is already raising the long scarf as the wind catches it into a streaming ribbon, a slow arc swinging toward front; gaze following the cloth.
+- [00:02–00:04] The arc eases with a gentle push as she ties the scarf at her throat and it streams sideways, hair lifting; a free, happy set to her mouth.
+- [00:04–00:06] She lowers her hands and gazes to the horizon, a warm smile blooming, eyes bright with anticipation as the wind builds.
+
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
+
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
 FLUIDITY & WEIGHT NOTES: the scarf-tie flows from the shoulders through soft wrists; the lean into the wind is alive and balanced; the gaze lifts continuously — windswept, never stiff.
 
@@ -2348,14 +2354,16 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE & ANGLE: front-on full/wide hero, subject fills ~55%, rising in frame.
 
-CAMERA MOVEMENT (CHOREOGRAPHY): a smooth crane-up with a slow 6% push, orbiting slightly to dead-front as the gown forms.
-
 LENS: 35mm, f/2.8.
 
-SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.7s — a gust lifts the sand around her.
-- 1.7–4.0s — the sand swirls up and weaves into the golden gown.
-- 4.0–6.0s — arms bloom open, she delivers the line to lens with a radiant smile.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Front-on full/wide hero: a gust is already lifting the desert sand around her into a swirling column as a crane begins to rise and orbit toward dead-front; gaze lifting with the rising sand.
+- [00:02–00:04] The sand swirls up her body and weaves into the flowing golden gown as the crane climbs; chin lifting, eyes widening in romantic awe, lips parting on a caught breath.
+- [00:04–00:06] Her arms bloom open and she turns fully to lens delivering the spoken line with a radiant smile, the gown settling in the wind, eyes alight.
+
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
+
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
 SPOKEN LINE (lands ~4.6s): "some journeys, the desert dresses you itself." (English, natural Indian accent, warm and wondrous)
 
@@ -2424,14 +2432,16 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE & ANGLE: profile wide, subject fills ~45%.
 
-CAMERA MOVEMENT (CHOREOGRAPHY): a smooth lateral dolly tracking alongside her crest-walk, matched pace, gimbal-stable.
-
 LENS: 35mm, f/3.2.
 
-SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.2s — she strides along the dune crest, gown trailing.
-- 2.2–4.5s — a serene confident walk.
-- 4.5–6.0s — she slows, beginning to turn back toward the train.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Profile wide in side silhouette: she is already striding along the dune crest in the finished golden gown as a lateral dolly tracks alongside at matched pace, the gown trailing a ribbon of fine sand; gaze level to the horizon.
+- [00:02–00:04] The dolly holds her serene confident walk, the gown rippling and sand streaming behind; a calm, content smile.
+- [00:04–00:06] She slows her stride, weight easing, gaze drifting back toward the tiny train to seed the turn.
+
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
+
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
 FLUIDITY & WEIGHT NOTES: the crest-walk is pure flow — hips leading, arms gentle, gown trailing sand-light; the deceleration eases into the turn — never stiff.
 
@@ -2498,14 +2508,16 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE & ANGLE: low-angle medium-wide matching Frame 1, subject ~45%.
 
-CAMERA MOVEMENT (CHOREOGRAPHY): a slow descend-and-pull-back reversing Frame 1's crane, so the end pose meets the opening descent energy.
-
 LENS: 28mm, f/3.2.
 
-SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.3s — she turns back toward the train.
-- 2.3–4.7s — the gown dissolves back to the travel set and accessories reform.
-- 4.7–6.0s — she settles into the over-shoulder glance echoing the opening.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Low-angle medium-wide matching Frame 1: a slow descend-and-pull-back is already reversing the opening crane as she turns back toward the train; gaze beginning its over-the-shoulder arc.
+- [00:02–00:04] The descent continues as the golden gown dissolves back into the sand-toned travel set and accessories reform, sand sifting away; a soft warm smile returning.
+- [00:04–00:06] She settles into the over-the-shoulder glance echoing the opening, weight on the train-side foot, eyes warm in the dawn — a seamless loop seam.
+
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
+
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
 FLUIDITY & WEIGHT NOTES: the turn-back is a single hip-led rotation; the reverse-dissolve flows as a gentle granular wipe; the reset reads as natural continuation, not a rewind.
 
