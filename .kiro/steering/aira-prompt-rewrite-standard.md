@@ -601,3 +601,41 @@ CONTAIN each change inside one clip's middle, and make every frame join an inten
   with a strongly-specced Look B -> update the affected IMAGE prompts (transform still = Look A;
   next still = matched Look B, new angle) -> ensure every join is a cut to a new angle -> verify ->
   commit + push -> tick progress.
+
+
+
+====================================================================
+## M. ALIVE CAMERA — ACTIVE SUBJECT + CAMERA THAT RIDES WITH HER (real parallax)
+====================================================================
+(Decided with the user. Makes reels feel ALIVE: the subject is visibly DOING something and the
+camera moves WITH her through an anchored, static world. ADDITIVE on top of A-L.)
+
+### M.1 — THE SUBJECT IS ACTIVELY DOING SOMETHING (noticeable, motivated)
+- In the alive (non-transform) beats she performs a real, READABLE action — walking/striding,
+  working with her hands, reaching, turning through the space, moving toward/through something.
+  Not just standing and breathing. The action should be clearly noticeable, motivated by the world.
+
+### M.2 — CAMERA RIDES WITH THE SUBJECT (tracking / following moves)
+- Use real DP moves where the camera MATCHES her motion vector so she stays framed while she moves:
+  * SIDE-TRACK (the user's key example): she walks forward; the camera dollies LATERALLY alongside
+    her at a steady side/profile angle, holding her in frame (capturing her sideways) as she travels.
+  * FOLLOW: Steadicam/gimbal follow behind or ahead of her, matching her pace.
+  * ARC-FOLLOW: camera arcs a few degrees while tracking her turn/walk.
+  * CRANE-FOLLOW / PUSH-WITH: rise or push that travels with her, not at a static subject.
+
+### M.3 — THE WORLD STAYS ANCHORED; LIFE COMES FROM REAL PARALLAX
+- The background/environment is FIXED in real 3D space and stays in its place — it does NOT slide,
+  float, warp or move on its own. The only reason it appears to move is genuine PARALLAX caused by
+  the camera travelling: NEAR elements pass faster than FAR elements. That parallax is what sells
+  "the camera is moving WITH the subject" (e.g. filming her sideways as she walks), not "the world
+  is moving." Keep world geometry, scale and placement believable and consistent (ties to K.2).
+
+### M.4 — INTEGRATION WITH THE TRANSFORM MODEL (sections L, B, D, I)
+- A TRACK is a translation, not an angle rotation, so the camera MAY ride with her even during a
+  transform clip — L.2's held-angle rule bans an abrupt ANGLE shift mid-change, NOT camera travel.
+  So a transform beat can still be alive (tracking) while its angle holds.
+- At each CUT (L.3) change the angle AND you may switch tracking style (side-track -> follow ->
+  arc-follow), each clip opening ALREADY-IN-MOTION (the cut lands mid-stride / mid-action).
+- Keep: identity lock + eye-led expression (D), real-time / no slow-mo / 6s (B), controlled
+  vibrancy (I), believability/scale (K), and the F-last -> F1 loop. Write these alive tracking moves
+  directly into the SHOT BREAKDOWN beats (shot/angle + her action + world interaction + camera move).
