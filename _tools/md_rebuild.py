@@ -950,6 +950,189 @@ BEATS[37] = [
 ]
 
 
+BEATS[38] = [
+    (
+        "Medium close chest-up in the bright whimsical studio: a slow push-in is already "
+        "gliding toward her as she tilts the iridescent tube a few degrees into the bright "
+        "key, rainbow speculars sliding along the glass and the shimmer settling; gaze "
+        "lowered to the tube, a soap-bubble drifting past.",
+        "The push continues as she lifts her bright gaze to lens on a soft inhale and a "
+        "playful quarter-smile blooms, soft rainbow bokeh behind.",
+        "She holds, bright and whimsical, eyes sparkling, an iridescent bubble drifting "
+        "across the pearl-white air.",
+    ),
+    (
+        "Medium close: the slow push continues with a faint tilt-up already following her "
+        "hand as she lifts the Prism wand near her lips and eases a soft iridescent "
+        "gloss-swipe, a rainbow glint travelling; gaze warm to the wand.",
+        "The first iridescent soap-bubbles gather and drift around her, her eyes warming "
+        "with delight.",
+        "The gloss settles to a rainbow sheen, a bubble drifting, lashes lowering in "
+        "playful warmth.",
+    ),
+    (
+        "Medium chest-up: a slow arc is already drifting around her as she lowers the tube a "
+        "touch and the iridescent soap-bubbles gather and drift; gaze following the floating "
+        "bubbles.",
+        "The arc eases round as the first thin oil-slick film stretches at her shoulder, her "
+        "eyes warming with delight.",
+        "The gathering tightens and brightens, cueing the bloom, her gaze lifting a degree.",
+    ),
+    (
+        "Energized medium-wide: the push is already easing into a smooth gentle orbit as the "
+        "soap-film blooms iridescent and the bubbles drift and she opens her arms; gaze "
+        "lifting into the film.",
+        "The orbit rides the hero beat as the oil-slick film stretches bright across her and "
+        "the top and waves catch travelling rainbow (face clear, iridescent-framed); eyes "
+        "widening in whimsical delight.",
+        "The bloom settles and the bubbles resolve as the orbit eases; a radiant "
+        "iridescent-framed look landing, eyes bright.",
+    ),
+    (
+        "Medium close: a slow push is already gliding in as she eases her hands open and the "
+        "bloom settles, the last bubbles drifting; gaze bright to lens.",
+        "She delivers \u201ccatch the light, catch the magic.\u201d to lens with a bright "
+        "playful smile, eyes warm and direct.",
+        "She holds the radiant iridescent-framed look as one final bubble drifts, the smile "
+        "easing into playful warmth.",
+    ),
+    (
+        "Medium close matching Frame 1: a slow push is already resolving toward the exact "
+        "opening framing as she re-cradles the iridescent tube and tilts it into the bright "
+        "key, rainbow speculars sliding along the glass; gaze lowering to the tube.",
+        "The push settles as she eases her bright gaze back to lens on a soft breath with the "
+        "composed quarter-smile, the whimsical studio resolving to the opening; eyes calming.",
+        "She lands precisely on the Frame 1 pose and gaze, a bubble drifting \u2014 a seamless "
+        "loop seam.",
+    ),
+]
+
+BEATS[39] = [
+    (
+        "Medium close chest-up in the graphic op-art studio: a slow push-in is already "
+        "gliding toward her as she tilts the op-art tube a few degrees into the key, chrome "
+        "speculars sliding along the cap and the bullet settling; gaze lowered to the tube, "
+        "a kaleidoscope facet rotating slow behind her.",
+        "The push continues as she lifts her bright gaze to lens on a soft inhale and a "
+        "playful quarter-smile blooms, the black-and-white op-art crisp behind.",
+        "She holds, playful and hypnotic, her single face clear and locked, eyes bright, one "
+        "facet turning slow behind.",
+    ),
+    (
+        "Medium close: the slow push continues with a faint tilt-up already following her "
+        "hand as she raises the Optic bullet near her lips and eases a crisp bold-color "
+        "application, a chrome glint travelling; gaze sharpening.",
+        "The first kaleidoscope facets mirror and rotate around her, her eyes sharpening with "
+        "playful focus (her single face stays clear and locked).",
+        "The colour settles crisp on her lips, a facet turning, lashes steady in playful "
+        "focus.",
+    ),
+    (
+        "Medium chest-up: a slow arc is already drifting around her as she lowers the tube a "
+        "touch and the op-art backdrop gathers into slow-mirroring facets; gaze following "
+        "the turning facets.",
+        "The arc eases round as the first facets rotate at her shoulder, her eyes sharpening "
+        "with playful focus.",
+        "The gathering tightens and snaps brighter, cueing the split, her gaze lifting a "
+        "degree.",
+    ),
+    (
+        "Energized medium-wide: the push is already easing into a smooth gentle orbit as the "
+        "op-art backdrop and light fracture and mirror into a slow-spinning kaleidoscope and "
+        "she opens her arms; gaze tracing the spinning facets.",
+        "The orbit rides the hero beat as the facets spin bright around her and the top and "
+        "bob catch travelling facet-light (her single face clear and facet-framed, never "
+        "multiplied); eyes widening in playful wonder.",
+        "The split settles and the facets resolve as the orbit eases; a radiant facet-framed "
+        "look landing, her single face clear, eyes bright.",
+    ),
+    (
+        "Medium close: a slow push is already gliding in as she eases her hands open and the "
+        "split settles, the last facets spinning slow; gaze bright to lens.",
+        "She delivers \u201csee the world in motion.\u201d to lens with a knowing playful "
+        "smile, eyes warm and direct, her single face clear and locked.",
+        "She holds the radiant facet-framed look as one final facet settles, the smile easing "
+        "into playful calm.",
+    ),
+    (
+        "Medium close matching Frame 1: a slow push is already resolving toward the exact "
+        "opening framing as she re-cradles the op-art tube and tilts it into the key, chrome "
+        "speculars sliding along the cap; gaze lowering to the tube.",
+        "The push settles as she eases her bright gaze back to lens on a soft breath with the "
+        "composed quarter-smile, the op-art studio resolving to the opening; eyes calming.",
+        "She lands precisely on the Frame 1 pose and gaze, one facet turning slow \u2014 a "
+        "seamless loop seam.",
+    ),
+]
+
+BEATS[40] = [
+    (
+        "Medium close chest-up in the dark neon-night studio: a slow push-in is already "
+        "gliding toward her as she tilts the Lumen tube a few degrees into the key, "
+        "neon-cyan speculars sliding along the cap and the glowing bullet settling; gaze "
+        "lowered to the tube, a faint neon trail drifting behind her.",
+        "The push continues as she lifts her bright gaze to lens on a soft inhale and a "
+        "confident quarter-smile blooms, electric cyan-and-magenta glow behind.",
+        "She holds, electric and confident, her single face clear and locked, eyes bright, a "
+        "neon trail drifting across the black.",
+    ),
+    (
+        "Medium close: the slow push continues with a faint tilt-up already following her "
+        "hand as she raises the glowing Lumen applicator near her cheekbone and eases a "
+        "luminous glow-drop along the high point, a neon glint travelling; gaze sharpening.",
+        "The first neon light-trail draws and curls near her shoulder, her eyes sharpening "
+        "with electric focus (her single face stays clear and locked).",
+        "The glow settles bright on her cheekbone, a ribbon curling, lashes steady in "
+        "electric focus.",
+    ),
+    (
+        "Medium chest-up: a slow arc is already drifting around her as she lowers the "
+        "applicator a touch and the long-exposure neon trails draw and gather into luminous "
+        "ribbons; gaze following the curling light.",
+        "The arc eases round as the first ribbon curls at her shoulder, her eyes sharpening "
+        "with electric focus.",
+        "The gathering tightens and brightens, cueing the wrap, her gaze lifting a degree.",
+    ),
+    (
+        "Energized medium-wide: the push is already easing into a smooth gentle orbit as the "
+        "neon trails wrap in luminous ribbons and she opens her arms; gaze tracing the "
+        "curling ribbons.",
+        "The orbit rides the hero beat as the ribbons curl bright around her and the top and "
+        "crown catch travelling neon (her single face clear and trail-framed, never traced "
+        "over); eyes widening in electric awe.",
+        "The wrap settles and the ribbons resolve as the orbit eases; a radiant trail-framed "
+        "look landing, her single face clear, eyes alight.",
+    ),
+    (
+        "Medium close: a slow push is already gliding in as she eases her hands open and the "
+        "wrap settles, the last ribbons curling slow; gaze bright to lens.",
+        "She delivers \u201cI light up the night.\u201d to lens with a confident bright "
+        "smile, eyes warm and direct, her single face clear and locked.",
+        "She holds the radiant trail-framed look as one final ribbon settles, the smile "
+        "easing into confident calm.",
+    ),
+    (
+        "Medium close: a slow push is already gliding in as she eases from the bright smile "
+        "to a calm confident half-smile and the last neon ribbon dissolves behind her; gaze "
+        "steady to lens.",
+        "The push holds as she settles her hand near the Lumen tube on a soft breath, "
+        "holding the radiant glow; eyes calm and bright.",
+        "She holds the confident half-smile toward the loop, neon glow soft behind, her "
+        "single face clear and locked.",
+    ),
+    (
+        "Medium close matching Frame 1: a slow push is already resolving toward the exact "
+        "opening framing as she re-cradles the Lumen tube and tilts it into the key, "
+        "neon-cyan speculars sliding along the cap; gaze lowering to the tube.",
+        "The push settles as she eases her bright gaze back to lens on a soft breath with the "
+        "composed quarter-smile, the neon-night studio resolving to the opening; eyes "
+        "calming.",
+        "She lands precisely on the Frame 1 pose and gaze, a neon trail drifting \u2014 a "
+        "seamless loop seam.",
+    ),
+]
+
+
 def build_block(beats):
     return (
         BREAKDOWN_HEADER + "\n"
