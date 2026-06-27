@@ -503,6 +503,69 @@ BEATS[7] = [
 ]
 
 
+BEATS[8] = [
+    # Frame 1 - front-on medium-wide, entering aisle
+    (
+        "Front-on medium-wide: she is already stepping into the lantern-lit market aisle as "
+        "a slow push glides down it, amber lanterns sliding past and the dupatta drifting; "
+        "gaze lifting to the warm lights.",
+        "The push follows her in as she gazes up at the strung lanterns and hanging "
+        "garlands, a soft enchanted smile, eyes catching the amber glow.",
+        "She reaches toward a hanging marigold garland, eyes warming with anticipation, "
+        "fingertips brushing the blooms.",
+    ),
+    # Frame 2 - macro on hands lifting garland (no face)
+    (
+        "Extreme macro on her hands: she is already lifting a marigold garland upward as a "
+        "slow push rises with it, petals and thread crisp in the lamp-light.",
+        "She lowers the garland over her head, the loop of blooms passing down past the "
+        "frame.",
+        "It settles around her neck, petals shedding gently and drifting down \u2014 "
+        "foreshadowing the bloom-burst.",
+    ),
+    # Frame 3 - profile medium, slipping on jutti
+    (
+        "Profile medium: she is already lifting one foot to a low stall step and guiding the "
+        "jewelled jutti on as a slow arc swings from profile toward three-quarter; gaze down "
+        "to the slipper.",
+        "She presses the jutti home and lowers the foot, the arc easing round; a content "
+        "festive calm in her eyes.",
+        "She straightens and tucks the glasses away, gaze rising toward the glowing market "
+        "centre with quiet expectation.",
+    ),
+    # Frame 4 - front-on full/wide hero, bloom-burst transform
+    (
+        "Front-on full/wide hero: she is already lifting a bundle of buds at the market "
+        "centre as a crane begins to rise and orbit toward dead-front; gaze lifting to the "
+        "buds.",
+        "The buds burst and petals swirl up around her, weaving the marigold-and-jasmine "
+        "flower-couture gown as the crane climbs; eyes widening in radiant awe, lips "
+        "parting.",
+        "Her arms bloom open and a radiant awed smile lands to lens, petals settling into "
+        "the gown, eyes shining.",
+    ),
+    # Frame 5 - 3/4 back over-shoulder medium, walk + glance
+    (
+        "Three-quarter back over-shoulder medium: she is already walking on through the "
+        "market in the flower gown as the camera tracks behind in a gentle arc, the "
+        "petal-train trailing; gaze ahead down the aisle.",
+        "The arc catches her as she rotates her torso and glances back to lens, lantern-"
+        "light warm in her eyes, a soft proud smile.",
+        "She faces forward again and her stride continues, petals drifting in her wake, gaze "
+        "settling front.",
+    ),
+    # Frame 6 - front-on medium-wide loop close
+    (
+        "Front-on medium-wide matching Frame 1: a slow pull-back to the aisle entrance is "
+        "already reversing the opening push as she turns back; gaze sweeping the lanterns.",
+        "The pull-back continues as the flower gown dissolves back into the embroidered "
+        "kurta-set and the garland reforms at her neck; a soft warm smile returning.",
+        "She settles into the exact entry stance of Frame 1, weight on the lead foot, eyes "
+        "warm on the glowing aisle \u2014 a seamless loop seam.",
+    ),
+]
+
+
 def build_block(beats):
     # Replaces ONLY the `SUBJECT ACTION w/ BEAT-TIMING:` header + its bullet
     # beat lines. Whatever follows (a blank line then SPOKEN LINE or

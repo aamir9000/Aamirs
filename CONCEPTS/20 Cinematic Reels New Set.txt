@@ -3612,14 +3612,16 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE & ANGLE: front-on medium-wide, subject fills ~45%.
 
-CAMERA MOVEMENT (CHOREOGRAPHY): a slow 5% push down the aisle following her in, gimbal-smooth, lanterns sliding past.
-
 LENS: 35mm, f/2.2.
 
-SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.2s — she steps into the aisle, dupatta drifting.
-- 2.2–4.3s — she gazes up at the lanterns with a soft smile.
-- 4.3–6.0s — she reaches toward a hanging garland.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Front-on medium-wide: she is already stepping into the lantern-lit market aisle as a slow push glides down it, amber lanterns sliding past and the dupatta drifting; gaze lifting to the warm lights.
+- [00:02–00:04] The push follows her in as she gazes up at the strung lanterns and hanging garlands, a soft enchanted smile, eyes catching the amber glow.
+- [00:04–00:06] She reaches toward a hanging marigold garland, eyes warming with anticipation, fingertips brushing the blooms.
+
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
+
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
 FLUIDITY & WEIGHT NOTES: the step rolls smoothly onto the lead jutti; the upward gaze leads with the eyes then chin; the reach extends from the shoulder — living and graceful.
 
@@ -3686,14 +3688,16 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE & ANGLE: macro, detail fills ~70%.
 
-CAMERA MOVEMENT (CHOREOGRAPHY): a slow 4% push following the garland up, locked otherwise.
-
 LENS: 100mm macro, f/2.8.
 
-SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.3s — she lifts the garland up.
-- 2.3–4.3s — she lowers it over her head.
-- 4.3–6.0s — it settles around the neck, petals shedding gently.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Extreme macro on her hands: she is already lifting a marigold garland upward as a slow push rises with it, petals and thread crisp in the lamp-light.
+- [00:02–00:04] She lowers the garland over her head, the loop of blooms passing down past the frame.
+- [00:04–00:06] It settles around her neck, petals shedding gently and drifting down — foreshadowing the bloom-burst.
+
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
+
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
 FLUIDITY & WEIGHT NOTES: the lift is a flowing ceremonial arc from relaxed shoulders; the lower is soft and reverent — no stiffness.
 
@@ -3760,14 +3764,16 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE & ANGLE: profile medium, subject fills ~55%.
 
-CAMERA MOVEMENT (CHOREOGRAPHY): a slow arc from profile toward three-quarter as she settles the jutti, smooth.
-
 LENS: 50mm, f/2.2.
 
-SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.2s — she lifts her foot and guides the jutti on.
-- 2.2–4.2s — she presses it home and lowers the foot.
-- 4.2–6.0s — she straightens, tucking the glasses away, gaze rising to the market centre.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Profile medium: she is already lifting one foot to a low stall step and guiding the jewelled jutti on as a slow arc swings from profile toward three-quarter; gaze down to the slipper.
+- [00:02–00:04] She presses the jutti home and lowers the foot, the arc easing round; a content festive calm in her eyes.
+- [00:04–00:06] She straightens and tucks the glasses away, gaze rising toward the glowing market centre with quiet expectation.
+
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
+
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
 FLUIDITY & WEIGHT NOTES: the bend flows from the hips and spine in sequence; the rise is one continuous unfurl; no stiffness — a dancer's grace.
 
@@ -3834,14 +3840,16 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE & ANGLE: front-on full/wide hero, subject fills ~55%, rising in frame.
 
-CAMERA MOVEMENT (CHOREOGRAPHY): a smooth crane-up with a slow orbit to dead-front as the gown forms, weightless and continuous.
-
 LENS: 35mm, f/2.8.
 
-SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.7s — she lifts the bundle of buds.
-- 1.7–4.0s — the buds burst and petals swirl up into the flower gown.
-- 4.0–6.0s — arms bloom open, a radiant awed smile to lens.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Front-on full/wide hero: she is already lifting a bundle of buds at the market centre as a crane begins to rise and orbit toward dead-front; gaze lifting to the buds.
+- [00:02–00:04] The buds burst and petals swirl up around her, weaving the marigold-and-jasmine flower-couture gown as the crane climbs; eyes widening in radiant awe, lips parting.
+- [00:04–00:06] Her arms bloom open and a radiant awed smile lands to lens, petals settling into the gown, eyes shining.
+
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
+
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
 FLUIDITY & WEIGHT NOTES: one unbroken ascending swirl — the rise leads from the core, arms unfurl last; the smile lands on a single breath; momentum carries continuously — supremely fluid.
 
@@ -3908,14 +3916,16 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE & ANGLE: three-quarter back over-shoulder medium, subject fills ~50%.
 
-CAMERA MOVEMENT (CHOREOGRAPHY): a smooth tracking follow behind her with a gentle arc to catch the glance, gimbal-stable.
-
 LENS: 50mm, f/1.8.
 
-SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.2s — she walks on, petal-train trailing.
-- 2.2–4.2s — she rotates her torso and glances back to lens.
-- 4.2–6.0s — she faces forward again, stride continuing.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Three-quarter back over-shoulder medium: she is already walking on through the market in the flower gown as the camera tracks behind in a gentle arc, the petal-train trailing; gaze ahead down the aisle.
+- [00:02–00:04] The arc catches her as she rotates her torso and glances back to lens, lantern-light warm in her eyes, a soft proud smile.
+- [00:04–00:06] She faces forward again and her stride continues, petals drifting in her wake, gaze settling front.
+
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
+
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
 FLUIDITY & WEIGHT NOTES: the glance is a fluid spinal rotation, head leading, returning naturally; the walk never pauses; arms and hips counter-rotate like a real graceful stride.
 
@@ -3982,14 +3992,16 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE & ANGLE: front-on medium-wide matching Frame 1, subject ~45%.
 
-CAMERA MOVEMENT (CHOREOGRAPHY): a slow pull-back to the aisle entrance reversing Frame 1's push, so the end pose meets the opening entry.
-
 LENS: 35mm, f/2.2.
 
-SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.3s — she turns back toward the aisle entrance.
-- 2.3–4.7s — the flower gown dissolves back to the kurta-set and the garland reforms.
-- 4.7–6.0s — she settles into the Frame 1 entry stance.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Front-on medium-wide matching Frame 1: a slow pull-back to the aisle entrance is already reversing the opening push as she turns back; gaze sweeping the lanterns.
+- [00:02–00:04] The pull-back continues as the flower gown dissolves back into the embroidered kurta-set and the garland reforms at her neck; a soft warm smile returning.
+- [00:04–00:06] She settles into the exact entry stance of Frame 1, weight on the lead foot, eyes warm on the glowing aisle — a seamless loop seam.
+
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
+
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
 FLUIDITY & WEIGHT NOTES: the turn-back is a single hip-led rotation; the reverse-dissolve flows as a gentle petal-wipe; the reset reads as natural continuation, not a rewind.
 
