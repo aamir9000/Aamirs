@@ -724,11 +724,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: medium-wide, thigh-up, subject fills about 55% of the vertical frame.
 
-CAMERA MOVEMENT: a single slow 8% push-in across the clip, otherwise locked-off and stable — one move only, no whip, no handoff.
-
 LENS: 35mm, f/2.2, smooth cool background fall-off.
 
-SUBJECT ACTION WITH TIMING: 0.0–3.2s — Aira settles her weight onto the back leg and tucks her right hand into the coat pocket, holding the composed quarter-smile; 3.2–6.0s — she lifts her warm gaze to the lens on a soft inhale as one centre-part strand lifts in the dawn breeze. One clean subject action, real physics throughout.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Medium-wide thigh-up on the Haussmann Paris balcony at silver-blue dawn: a slow push-in is already gliding toward her as she settles her weight onto the back leg and tucks her right hand into the coat pocket, the composed quarter-smile holding.
+- [00:02–00:04] The push continues as one centre-part strand lifts in the dawn breeze, her warm gaze beginning to lift; a worldly calm in her eyes.
+- [00:04–00:06] She lifts her warm gaze to lens on a soft inhale, the composed quarter-smile settling, eyes assured and direct.
 
 OBJECT ACTION WITH TIMING: 0.0–6.0s — the open coat hem sways a hair, a soft gold-hoop glint settles, and Paris mist drifts slowly behind the balustrade. Environmental motion only, no object pop-in.
 
@@ -740,9 +741,9 @@ ENVIRONMENT: a Haussmann Paris balcony at silver-blue dawn, wrought iron, drifti
 
 AUDIO: diegetic only, no in-clip music. Ambient — a low Paris dawn tone with faint birdsong and a distant street hum throughout. SFX — a soft coat-rustle at 0.8s (gentle attack, short tail), a faint iron-creak at 3.4s, a delicate cool air-swell at 4.8s timed to the gaze-lift. Reaction — a soft audible breath at 3.0s. The master track sits low — a cosmopolitan pulse just kindling under the room tone (present, never full). VO — none this frame.
 
-DURATION: 3 seconds (0:00–0:03 of 24s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps acquisition, 180° shutter, natural motion blur on the gaze-lift; playback 24fps real-time.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — lips closed/softly parted, composed.
 
@@ -801,11 +802,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: medium-wide, thigh-up, subject fills about 55% of the vertical frame (matched to Frame 1).
 
-CAMERA MOVEMENT: the slow push continues seamlessly through the Paris→Tokyo match-cut (one flowing move), otherwise stable.
-
 LENS: 35mm, f/2.2.
 
-SUBJECT ACTION WITH TIMING: 0.0–2.8s — as the city wraps from Paris to Tokyo around her, Aira holds her pose and eases her right hand from the pocket to the lapel; 2.8–6.0s — she holds the identical composed quarter-smile to the lens as a strand lifts in the Tokyo draft. One clean subject action, identity locked through the wrap, real physics throughout.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Medium-wide thigh-up matching Frame 1: the slow push continues seamlessly as the city wraps from Paris to a rain-glossed neon-dusk Tokyo around her, she holding her pose and easing her right hand from the pocket to the lapel.
+- [00:02–00:04] She holds the identical composed quarter-smile through the wrap, neon catchlights warming her eyes (identity locked through the city-change).
+- [00:04–00:06] A strand lifts in the Tokyo draft, her gaze steady to lens, assured and unchanged.
 
 OBJECT ACTION WITH TIMING: 0.0–6.0s — the Paris balcony wraps and exchanges to the Tokyo crossing around her in a single travelling sweep, the ivory coat resolving to the charcoal blazer-dress along the same wavefront; neon reflections slide across the wet pavement and drizzle drifts. One coherent wrap, no extra objects, no pop-in.
 
@@ -817,9 +819,9 @@ ENVIRONMENT: Paris dawn wrapping to a rain-glossed Tokyo crossing at neon dusk.
 
 AUDIO: diegetic-led. Ambient — Paris dawn tone cross-fading to a Tokyo rain-and-neon hum. SFX — a soft whoosh of the city wrap 0.6–2.8s (gentle attack, long soft tail), a faint wet-pavement patter at 3.2s, a delicate neon-buzz swell at 4.8s. Reaction — a soft breath at 3.0s. The master track lifts a touch — the cosmopolitan pulse carrying through the wrap (present, never full). VO — none this frame.
 
-DURATION: 3 seconds (0:03–0:06 of 24s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps acquisition with a touch of slow-mo on the wrap, 180° shutter, gentle natural motion blur; playback real-time.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none.
 
@@ -878,11 +880,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: medium, chest-up, subject and rippling street fill about 60% of the vertical frame.
 
-CAMERA MOVEMENT: a single slow 6% push-in tracking the rippling street edge (one flowing move), otherwise stable. (Transform-anchor distance — matches Frames 4 and 5.)
-
 LENS: 50mm, f/2.0, smooth background fall-off.
 
-SUBJECT ACTION WITH TIMING: 0.0–2.4s — Aira eases her right hand open from the lapel in a soft confident gesture; 2.4–4.4s — her gaze holds direct to lens with rising assurance as the composed smile lifts; 4.4–6.0s — the New York street ripples and brightens, cueing the hero wrap. One clean subject action, identity locked, real physics throughout.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Medium chest-up on a steam-and-steel Manhattan street at golden hour: a slow push is already tracking the rippling street edge as she eases her right hand open from the lapel in a soft confident gesture; gaze direct.
+- [00:02–00:04] The push holds as her gaze holds to lens with rising assurance and the composed smile lifts, warm gold light raking the street.
+- [00:04–00:06] The New York street ripples and brightens, cueing the hero city-wrap, her gaze steady and assured.
 
 OBJECT ACTION WITH TIMING: 0.0–6.0s — the street edges ripple with a slow optical shimmer and the first warm wrap-light motes gather and brighten around her; street steam drifts behind. Environmental motion only, no pop-in.
 
@@ -894,9 +897,9 @@ ENVIRONMENT: a Manhattan steam-and-steel street at golden hour beginning to ripp
 
 AUDIO: diegetic only. Ambient — a low New York street tone with distant traffic and a faint subway rumble throughout. SFX — the soft settle of the opening hand at 0.8s, a delicate rippling shimmer at 2.4s, a faint warm air-swell at 4.8s as motes mass (gentle attack, long soft tail). Reaction — a soft slow breath at 2.8s. The master track sits low — the cosmopolitan pulse warming under the SFX (present, never full). VO — none this frame.
 
-DURATION: 3 seconds (0:06–0:09 of 24s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps acquisition with a touch of slow-mo on the gathering ripple, 180° shutter, gentle natural motion blur; playback real-time.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none.
 
@@ -955,11 +958,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: energized medium of the city-to-city match-cut wrap (the hero move).
 
-CAMERA MOVEMENT: the slow push eases into a smooth gentle orbit around her through the sweep (one flowing move) — the move that showcases the travelling city wrap.
-
 LENS: 50mm, f/2.0. (Transform-anchor distance — matches Frames 3 and 5.)
 
-SUBJECT ACTION WITH TIMING: 0.0–2.1s — from Frame 3’s suspension the wrap sweeps the city around her in a warm arc as she opens her arms; 2.1–4.2s — a warming shimmer races across her as the dupatta and lob catch travelling light (the impossible beat, face clear and framed by the sweep, identity locked); 4.2–6.0s — the sweep settles and Mumbai resolves toward the Frame-5 reveal. Strict interpolation between locked keyframes; real cloth-and-light physics.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Energized medium: the push is already easing into a smooth gentle orbit as the city wrap sweeps the world around her in a warm arc toward a gold-teal Mumbai evening and she opens her arms; gaze lifting into the sweep.
+- [00:02–00:04] The orbit rides the hero beat as a warming shimmer races across her and the dupatta and lob catch travelling light, the sea-link and archway resolving (face clear, framed by the sweep, identity locked); eyes bright with worldly wonder.
+- [00:04–00:06] The sweep settles and Mumbai resolves toward the reveal as the orbit eases; an assured warmth landing in her eyes.
 
 OBJECT ACTION WITH TIMING: 0.0–6.0s — the New York street wraps and exchanges to a Mumbai sea-link-and-archway evening along one travelling wavefront, the camel suit converting to the teal zardozi kurta-gown, the loafers to gold mules and the tote to bangles, wrap-light motes sparkling through the field. One coherent transform, no extra objects, no pop-in.
 
@@ -971,9 +975,9 @@ ENVIRONMENT: the city warming from New York steel to a Mumbai evening, motes and
 
 AUDIO: diegetic-led. Ambient — New York street tone cross-fading to Mumbai surf-and-distant-horns. SFX — a warm city-wrap shimmer swell 0.4–2.4s, fine drifting-mote sparkle 2.1–4.2s (gentle attack, long soft tails), a soft silk-and-bangle flare at 3.0s. Reaction — a soft joyful breath at 2.4s. The master track lifts to its peak here — the cosmopolitan pulse blooming with warm world-percussion landed on the sweep (present, still under the SFX, never full). VO — none (the line lands two frames on).
 
-DURATION: 4 seconds (0:09–0:13 of 24s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 96fps deep slow-mo through the sweep easing to gentle slow-mo, 180° shutter, soft natural motion blur with crisp mote sparkle.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none.
 
@@ -1032,11 +1036,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: medium close, chest-up, subject and trench lapel fill about 58% of the vertical frame.
 
-CAMERA MOVEMENT: the orbit eases back to a slow 5% push-in as London resolves (one flowing move), otherwise stable.
-
 LENS: 50mm, f/2.0. (Transform-anchor distance — matches Frames 3 and 4.)
 
-SUBJECT ACTION WITH TIMING: 0.0–2.8s — the wrap settles as Aira eases her right hand to hold the trench lapel; 2.8–6.0s — an assured smile eases to the lens on a slow cool breath as the last motes settle. One clean subject action, identity continuous, real physics throughout.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Medium close, chest-up: the orbit is already easing back to a slow push as a cool-overcast London stone-and-mist lane resolves around her and she eases her right hand to hold the trench lapel; gaze easing to lens.
+- [00:02–00:04] The push settles as an assured smile eases to lens on a slow cool breath, the last motes settling in the misty light.
+- [00:04–00:06] She holds the cool assured look, the trench settling, eyes calm and direct.
 
 OBJECT ACTION WITH TIMING: 0.0–6.0s — the Mumbai evening completes its wrap to a misty London lane around her, the teal kurta-gown resolving to the navy check trench, a cool specular travels along the wool, and the last wrap-light motes drift down and fade; mist drifts behind. Environmental motion only, no pop-in.
 
@@ -1048,9 +1053,9 @@ ENVIRONMENT: the Mumbai evening completing its wrap to a London stone-and-mist l
 
 AUDIO: diegetic only. Ambient — Mumbai surf cross-fading to a soft London rain-and-stone tone with a faint distant bell. SFX — a soft wool-settle rustle at 1.0s, a delicate settling-mote shimmer at 2.8s, a faint cool air-ease at 5.2s (gentle attack, long soft tail). Reaction — a soft slow breath at 3.2s. The master track holds — the cosmopolitan pulse settling cool under the SFX (present, never full). VO — none (the line lands next frame).
 
-DURATION: 3 seconds (0:13–0:16 of 24s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps acquisition with a touch of slow-mo on the settling wrap, 180° shutter, gentle natural motion blur; playback real-time.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none.
 
@@ -1109,11 +1114,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: medium, chest-up, subject fills about 58% of the vertical frame.
 
-CAMERA MOVEMENT: a single slow 5% push-in on the line (one flowing move), otherwise locked and stable.
-
 LENS: 35mm, f/2.2.
 
-SUBJECT ACTION WITH TIMING: 0.0–1.2s — Aira turns a soft 6° toward the lens and opens her right hand in a gentle gesture; 1.2–4.1s — she delivers “Six cities. One her. Wherever I land — still me.” to the lens with a soft knowing smile and natural lip-sync; 4.1–6.0s — she holds the warm assured look as the gown settles. One clean subject action, real physics throughout.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Medium chest-up in warm champagne sky-deck light: a slow push is already gliding in as she turns a soft six degrees toward lens and opens her right hand in a gentle gesture; gaze warm to lens.
+- [00:02–00:04] She delivers “Six cities. One her. Wherever I land — still me.” to lens with a soft knowing smile and natural lip-sync, eyes warm and assured.
+- [00:04–00:06] She holds the warm assured look as the coat settles, the smile easing into calm confidence.
 
 OBJECT ACTION WITH TIMING: 0.0–6.0s — the satin gown sways gently with the turn, the drop earring swings a hair on real inertia, and a warm specular travels along the satin; warm sky-deck air shimmers behind. Environmental and worn-object motion only, no pop-in.
 
@@ -1125,9 +1131,9 @@ ENVIRONMENT: a Dubai sky-deck at warm champagne hour.
 
 AUDIO: diegetic-led with the line forward. Ambient — a low sky-deck wind and a faint distant city hum. SFX — a soft satin-sway rustle at 0.5s, a faint earring-tick at 1.2s (gentle attack, short tail). Reaction — a soft breath at 1.0s before the line. VO — Aira (English, natural Indian accent): “Six cities. One her. Wherever I land — still me.” landing 1.2–4.1s, lips matched. The master track ducks cleanly under the line — the cosmopolitan pulse holding low so the vocal sits forward (present, never full).
 
-DURATION: 5 seconds (0:16–0:21 of 24s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps acquisition, 180° shutter, natural motion blur on the turn; playback real-time.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: full — mouth shapes matched precisely to “Six cities. One her. Wherever I land — still me.”, no drift.
 
@@ -1186,11 +1192,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: medium-wide, thigh-up, subject fills about 55% of the vertical frame (matched to Frame 1).
 
-CAMERA MOVEMENT: the orbit eases to rest and a slow 8% push-in resolves to the Frame-1 framing (one flowing move) for a seamless loop.
-
 LENS: 35mm, f/2.2. (Returns to Frame 1 distance.)
 
-SUBJECT ACTION WITH TIMING: 0.0–3.0s — as the city wraps from Dubai back to Paris, Aira returns her right hand to rest in the coat pocket and settles her weight onto the back leg exactly as in Frame 1; 3.0–6.0s — she eases her gaze back to the lens on a slow breath with the composed quarter-smile, the composition resolving to match Frame 1. One clean subject action, real physics throughout.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Medium-wide thigh-up matching Frame 1: the orbit is already easing to rest as a slow push resolves toward the opening framing and the city wraps from Dubai back to Paris, she returning her right hand to the coat pocket and settling her weight onto the back leg exactly as in Frame 1.
+- [00:02–00:04] The push settles as she eases her gaze back to lens on a slow breath with the composed quarter-smile, the dawn Paris palette resolving to the opening.
+- [00:04–00:06] She lands precisely on the Frame 1 pose and gaze, weight settled — a seamless loop seam.
 
 OBJECT ACTION WITH TIMING: 0.0–6.0s — the Dubai sky-deck wraps and exchanges back to the Paris balcony around her, the champagne gown resolving to the ivory coat, a soft specular travels along the wool where the satin specular once ran, the cool key re-kindles at the sky gradient, and the last warm air drifts and fades to seed the loop. One coherent wrap, no pop-in.
 
@@ -1202,9 +1209,9 @@ ENVIRONMENT: the Dubai sky-deck wrapping back toward the Paris dawn balcony, las
 
 AUDIO: diegetic only, no in-clip music beyond the bed. Ambient — a low sky-deck wind easing toward a Paris dawn tone with faint birdsong returning. SFX — a soft city-wrap whoosh at 0.8s, a soft coat-settle at 2.4s, a faint hoop-glint tick at 3.2s, a delicate cool air-swell at 4.8s seeding the loop (gentle attack, soft tail). Reaction — a soft breath at 3.0s. The master track resolves on a sustained chord that cross-fades cool so the reel loops seamlessly with no audible seam (present, never full). VO — none this frame.
 
-DURATION: 3 seconds (0:21–0:24 of 24s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps acquisition, 180° shutter, natural motion blur on the settle; playback real-time.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — lips closed/softly parted, composed.
 
@@ -1307,11 +1314,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: medium-wide, thigh-up, subject fills about 55% of the vertical frame.
 
-CAMERA MOVEMENT: a single slow 8% push-in across the clip, otherwise locked-off and stable — one move only, no whip, no handoff.
-
 LENS: 35mm, f/2.2, smooth warm background fall-off.
 
-SUBJECT ACTION WITH TIMING: 0.0–3.2s — Aira settles her weight onto the back leg and rests her right hand softly at the pallu over her shoulder, holding the composed regal quarter-smile; 3.2–6.0s — she lifts her warm gaze to the lens on a soft inhale as a face-framing tendril shifts in the courtyard draft. One clean subject action, real physics throughout.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Medium-wide thigh-up in the warm haveli courtyard: a slow push-in is already gliding toward her as she settles her weight onto the back leg and rests her right hand softly at the zari pallu over her shoulder, the composed regal quarter-smile holding; marigold-tungsten glow and incense haze around her.
+- [00:02–00:04] The push continues as a face-framing tendril shifts in the courtyard draft, her warm gaze beginning to lift; a regal calm in her eyes.
+- [00:04–00:06] She lifts her warm gaze to lens on a soft inhale, the regal quarter-smile settling, eyes warm and direct.
 
 OBJECT ACTION WITH TIMING: 0.0–6.0s — one warm specular travels slowly down the silk pallu, the gold bangles chime-glint softly as the wrist settles, and incense haze drifts through the arches behind her. Environmental motion only, no object pop-in.
 
@@ -1323,9 +1331,9 @@ ENVIRONMENT: a heritage haveli courtyard, carved sandstone arches, a marigold-an
 
 AUDIO: diegetic only, no in-clip music. Ambient — a low courtyard hush with a faint distant temple bell throughout. SFX — a soft silk-settle at 0.8s (gentle attack, short tail), a faint bangle chime at 3.4s, a delicate warm air-swell at 4.8s timed to the gaze-lift. Reaction — a soft audible breath at 3.0s. The master track sits low — a tabla-and-bansuri pulse just kindling under the room tone (present, never full). VO — none this frame.
 
-DURATION: 3 seconds (0:00–0:03 of 24s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps acquisition, 180° shutter, natural motion blur on the gaze-lift; playback 24fps real-time.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — lips closed/softly parted, composed.
 
@@ -1384,11 +1392,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: medium close, chest-up, subject and raised zari pallu fill about 58% of the vertical frame.
 
-CAMERA MOVEMENT: the slow push continues with a faint 3° tilt up following the raised pallu (one flowing move), otherwise stable.
-
 LENS: 85mm, f/2.0.
 
-SUBJECT ACTION WITH TIMING: 0.0–3.2s — Aira raises a fold of the zari pallu near her collarbone and turns it into the warm key; 3.2–6.0s — her gaze warms with quiet focus toward the gold thread as a knowing micro-smile kindles. One clean subject action, real physics throughout.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Medium close, chest-up: the slow push continues with a faint tilt-up already following her hand as she raises a fold of the zari pallu near her collarbone and turns it into the warm key; gaze lowering to the gold thread.
+- [00:02–00:04] The tilt rides the pallu as the gold zari catches a warm specular, her gaze warming with quiet focus and a knowing micro-smile kindling.
+- [00:04–00:06] The pallu glows in the tungsten light, her eyes steady on the thread, lips parting a millimetre in warm anticipation.
 
 OBJECT ACTION WITH TIMING: 0.0–6.0s — a warm specular travels along the raised zari as it turns, and the first faint unwind shimmer breathes at the pallu’s edge; incense drifts behind. Environmental and worn-object motion only, no pop-in.
 
@@ -1400,9 +1409,9 @@ ENVIRONMENT: the haveli courtyard, sandstone arches, the first faint unwind shim
 
 AUDIO: diegetic only. Ambient — low courtyard hush and a faint temple bell throughout. SFX — a soft silk-turn rustle at 1.0s, a delicate bangle chime at 3.2s, a faint air-waver at 5.6s (gentle attack, long soft tail). Reaction — a soft slow breath at 3.4s. The master track lifts a touch — a tabla pulse and a low bansuri rising under the SFX (present, never full). VO — none this frame.
 
-DURATION: 3 seconds (0:03–0:06 of 24s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps acquisition with a touch of slow-mo on the silk turn, 180° shutter, gentle natural motion blur; playback real-time.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none.
 
@@ -1461,11 +1470,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: medium, chest-up, subject and rippling pallu fill about 60% of the vertical frame.
 
-CAMERA MOVEMENT: a single slow 6% push-in tracking the rippling pallu (one flowing move), otherwise stable. (Transform-anchor distance — matches Frames 4 and 5.)
-
 LENS: 50mm, f/2.0, smooth background fall-off.
 
-SUBJECT ACTION WITH TIMING: 0.0–2.4s — Aira eases both hands open from her body as if to release the drape; 2.4–4.4s — her gaze lifts to lens with rising spirit as a knowing micro-smile forms; 4.4–6.0s — the pallu ripples and lifts, cueing the unwind. One clean subject action, real physics throughout.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Medium chest-up: a slow push is already tracking the rippling pallu as she eases both hands open from her body as if to release the drape; gaze beginning to lift.
+- [00:02–00:04] The push holds as her gaze lifts to lens with rising spirit and a knowing micro-smile forms, the silk beginning to stir.
+- [00:04–00:06] The pallu ripples and lifts, cueing the unwind, her gaze bright and spirited.
 
 OBJECT ACTION WITH TIMING: 0.0–6.0s — the saree pallu ripples with a slow optical shimmer and the first warm silk-light motes gather and brighten in the air around her; incense drifts behind. Environmental motion only, no pop-in.
 
@@ -1477,9 +1487,9 @@ ENVIRONMENT: the haveli courtyard, the saree beginning to ripple and warm motes 
 
 AUDIO: diegetic only, no in-clip music. Ambient — low courtyard hush and a faint temple bell throughout. SFX — the soft settle of opening hands at 0.8s, a delicate rippling-silk shimmer at 2.4s, a faint warm air-swell at 4.8s as motes mass (gentle attack, long soft tail). Reaction — a soft slow breath at 2.8s. The master track sits low — a tabla pulse warming with a bansuri line under the SFX (present, never full). VO — none this frame.
 
-DURATION: 3 seconds (0:06–0:09 of 24s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps acquisition with a touch of slow-mo on the gathering ripple, 180° shutter, gentle natural motion blur; playback real-time.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none.
 
@@ -1538,11 +1548,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: energized medium of the drape-unwind to streetwear (the hero move).
 
-CAMERA MOVEMENT: the slow push eases into a smooth gentle orbit around her through the spiral (one flowing move) — the move that showcases the travelling unwind.
-
 LENS: 50mm, f/2.0. (Transform-anchor distance — matches Frames 3 and 5.)
 
-SUBJECT ACTION WITH TIMING: 0.0–2.1s — from Frame 3’s suspension the saree unwinds in a warm spiralling ribbon around her as she opens her arms; 2.1–4.2s — a cooling shimmer races across her as the fabric and pony catch travelling light (the impossible beat, face clear and framed by the spiral, identity locked); 4.2–6.0s — the spiral settles and the streetwear resolves toward the Frame-5 reveal. Strict interpolation between locked keyframes; real cloth physics.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Energized medium: the push is already easing into a smooth gentle orbit as the saree unwinds in a warm spiralling ribbon around her and she opens her arms; gaze following the spiral.
+- [00:02–00:04] The orbit rides the hero beat as a cooling shimmer races across her and the fabric and ponytail catch travelling light, the magenta silk giving to the cream bomber and cargos (face clear, framed by the spiral, identity locked); eyes bright with spirited cool.
+- [00:04–00:06] The spiral settles and the streetwear resolves toward the reveal as the orbit eases; an easy cool confidence landing.
 
 OBJECT ACTION WITH TIMING: 0.0–6.0s — the magenta silk saree unwinds along one spiralling wavefront and reforms as the cream-and-graphite bomber, high-neck tee and cargo trousers, the gold juttis reform to sneakers and the jhumkas to hoops, silk-light motes sparkle through the field. One coherent transform, no extra objects, no pop-in.
 
@@ -1554,9 +1565,9 @@ ENVIRONMENT: the courtyard cooling toward a concrete-and-mural street, motes and
 
 AUDIO: diegetic-led. Ambient — low courtyard hush cooling toward soft street ambience. SFX — a warm silk-to-cotton unwind swell 0.4–2.4s, fine drifting-mote sparkle 2.1–4.2s (gentle attack, long soft tails), a soft fabric flap at 3.0s. Reaction — a soft spirited breath at 2.4s. The master track lifts to its peak here — a tabla-and-bansuri motif blooming into a modern street beat landed on the unwind (present, still under the SFX, never full). VO — none (the line lands two frames on).
 
-DURATION: 4 seconds (0:09–0:13 of 24s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 96fps deep slow-mo through the spiral easing to gentle slow-mo, 180° shutter, soft natural motion blur with crisp mote sparkle.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none.
 
@@ -1615,11 +1626,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: medium close, chest-up, subject and bomber collar fill about 58% of the vertical frame.
 
-CAMERA MOVEMENT: the orbit eases back to a slow 5% push-in as the streetwear resolves (one flowing move), otherwise stable.
-
 LENS: 50mm, f/2.0. (Transform-anchor distance — matches Frames 3 and 4.)
 
-SUBJECT ACTION WITH TIMING: 0.0–2.8s — the unwind settles as Aira reaches up to adjust the bomber collar with an easy roll of the shoulder; 2.8–6.0s — a confident smile eases to the lens on a slow cool breath as the last motes settle. One clean subject action, real physics throughout.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Medium close, chest-up: the orbit is already easing back to a slow push as the streetwear resolves and she reaches up to adjust the bomber collar with an easy roll of the shoulder; gaze easing to lens, cooler mural-street light around her.
+- [00:02–00:04] The push settles as a confident smile eases to lens on a slow cool breath, the last motes settling.
+- [00:04–00:06] She holds the cool easy look, the bomber settling, eyes relaxed and direct.
 
 OBJECT ACTION WITH TIMING: 0.0–6.0s — the bomber settles and the crossbody strap sways gently, a cool specular travels along the zip, and the last silk-light motes drift down and fade; cool city air drifts behind. Environmental motion only, no pop-in.
 
@@ -1631,9 +1643,9 @@ ENVIRONMENT: the concrete-and-mural street, soft graffiti colour, last motes set
 
 AUDIO: diegetic only. Ambient — courtyard hush fully crossed to soft street ambience with a faint distant beat. SFX — a soft collar-adjust rustle at 1.0s, a delicate settling-mote shimmer at 2.8s, a faint cool air-ease at 5.2s (gentle attack, long soft tail). Reaction — a soft slow breath at 3.2s. The master track holds — a modern street groove settling under the SFX (present, never full). VO — none (the line lands next frame).
 
-DURATION: 3 seconds (0:13–0:16 of 24s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps acquisition with a touch of slow-mo on the settling fabric, 180° shutter, gentle natural motion blur; playback real-time.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none.
 
@@ -1692,11 +1704,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: medium, chest-up, subject fills about 58% of the vertical frame.
 
-CAMERA MOVEMENT: a single slow 5% push-in on the line (one flowing move), otherwise locked and stable.
-
 LENS: 35mm, f/2.2.
 
-SUBJECT ACTION WITH TIMING: 0.0–1.2s — Aira shifts her weight with an easy 6° turn and opens her right hand in a relaxed gesture; 1.2–3.4s — she delivers “Saree to streetwear. Same roots, new stride.” to the lens with a soft knowing smile and natural lip-sync; 3.4–4.8s — she holds the cool easy look as the bomber settles. One clean subject action, real physics throughout.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Medium chest-up: a slow push is already gliding in as she shifts her weight with an easy six-degree turn and opens her right hand in a relaxed gesture; gaze easy to lens.
+- [00:02–00:04] She delivers “Saree to streetwear. Same roots, new stride.” to lens with a soft knowing smile and natural lip-sync, eyes warm and cool-confident.
+- [00:04–00:06] She holds the cool easy look as the bomber settles, the smile easing into relaxed warmth.
 
 OBJECT ACTION WITH TIMING: 0.0–4.8s — the bomber sways gently with the shift, the gold hoops swing a hair on real inertia, and a cool specular travels along the bomber zip; the crossbody strap sways and cool city air drifts behind. Environmental and worn-object motion only, no pop-in.
 
@@ -1708,9 +1721,9 @@ ENVIRONMENT: the concrete-and-mural street, soft graffiti colour.
 
 AUDIO: diegetic-led with the line forward. Ambient — soft street ambience with a faint distant beat. SFX — a soft bomber-sway rustle at 0.5s, a faint hoop-tick at 1.2s (gentle attack, short tail). Reaction — a soft breath at 1.0s before the line. VO — Aira (English, natural Indian accent): “Saree to streetwear. Same roots, new stride.” landing 1.2–3.4s, lips matched. The master track ducks cleanly under the line — a modern street groove holding low so the vocal sits forward (present, never full).
 
-DURATION: 5 seconds (0:16–0:21 of 24s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps acquisition, 180° shutter, natural motion blur on the shift; playback real-time.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: full — mouth shapes matched precisely to “Saree to streetwear. Same roots, new stride.”, no drift.
 
@@ -1769,11 +1782,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: medium-wide, thigh-up, subject fills about 55% of the vertical frame (matched to Frame 1).
 
-CAMERA MOVEMENT: the orbit eases to rest and a slow 8% push-in resolves to the Frame-1 framing (one flowing move) for a seamless loop.
-
 LENS: 35mm, f/2.2. (Returns to Frame 1 distance.)
 
-SUBJECT ACTION WITH TIMING: 0.0–3.0s — Aira returns her right hand to rest light at the pallu over her shoulder and settles her weight onto the back leg exactly as in Frame 1; 3.0–6.0s — she eases her gaze back to the lens on a slow breath with the composed regal quarter-smile, the composition resolving to match Frame 1. One clean subject action, real physics throughout.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Medium-wide thigh-up matching Frame 1: the orbit is already easing to rest as a slow push resolves toward the opening framing and she returns her right hand to rest light at the pallu over her shoulder, settling her weight onto the back leg exactly as in Frame 1.
+- [00:02–00:04] The push settles as she eases her gaze back to lens on a slow breath with the composed regal quarter-smile, the street palette resolving toward the warm courtyard opening.
+- [00:04–00:06] She lands precisely on the Frame 1 pose and gaze, weight settled — a seamless loop seam.
 
 OBJECT ACTION WITH TIMING: 0.0–6.0s — the streetwear eases back to the saree presentation around her, a soft specular travels along the silk where the bomber specular once ran, the warm tungsten key re-kindles at the arch gradient, and the last cool air drifts and fades to seed the loop. Environmental motion only, no pop-in.
 
@@ -1785,9 +1799,9 @@ ENVIRONMENT: the concrete-and-mural street warming back toward the haveli courty
 
 AUDIO: diegetic only, no in-clip music beyond the bed. Ambient — a low street tone easing toward a courtyard hush with a faint temple bell returning. SFX — a soft fabric settle at 0.8s, a faint bangle-glint tick at 3.2s, a delicate warm air-swell at 4.8s seeding the loop (gentle attack, soft tail). Reaction — a soft breath at 3.0s. The master track resolves on a sustained chord that cross-fades warm so the reel loops seamlessly with no audible seam (present, never full). VO — none this frame.
 
-DURATION: 3 seconds (0:21–0:24 of 24s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps acquisition, 180° shutter, natural motion blur on the settle; playback real-time.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — lips closed/softly parted, composed.
 
@@ -1890,11 +1904,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: medium-wide, thigh-up, subject fills about 55% of the vertical frame.
 
-CAMERA MOVEMENT: a single slow 8% push-in across the clip, otherwise locked-off and stable — one move only, no whip, no handoff.
-
 LENS: 35mm, f/2.2, smooth blossom background fall-off.
 
-SUBJECT ACTION WITH TIMING: 0.0–3.2s — Aira settles her weight onto the back leg and rests her right hand softly at the fishtail braid over her shoulder, holding the serene quarter-smile; 3.2–6.0s — she lifts her calm gaze to the lens on a soft inhale as a face-framing wisp shifts in the spring breeze. One clean subject action, real physics throughout.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Medium-wide thigh-up by the lone meadow tree in spring: a slow push-in is already gliding toward her as she settles her weight onto the back leg and rests her right hand softly at the fishtail braid over her shoulder, the serene quarter-smile holding; petals drifting in the soft sky-light.
+- [00:02–00:04] The push continues as a face-framing wisp shifts in the spring breeze, her calm gaze beginning to lift; a serene wonder in her eyes.
+- [00:04–00:06] She lifts her calm gaze to lens on a soft inhale, the serene quarter-smile settling, eyes calm and direct.
 
 OBJECT ACTION WITH TIMING: 0.0–6.0s — a single blossom petal drifts slowly past her shoulder, the blossom branches sway a hair behind her, and the soft sky light breathes through a passing cloud. Environmental motion only, no object pop-in.
 
@@ -1906,9 +1921,9 @@ ENVIRONMENT: a lone blossom tree in an open spring meadow, a wide soft sky, drif
 
 AUDIO: diegetic only, no in-clip music. Ambient — soft spring birdsong and a gentle breeze throughout. SFX — a soft knit-settle at 0.8s (gentle attack, short tail), a faint leaf-rustle at 3.4s, a delicate air-swell at 4.8s timed to the gaze-lift. Reaction — a soft audible breath at 3.0s. The master track sits low — a soft piano-and-strings figure just kindling under the room tone (present, never full). VO — none this frame.
 
-DURATION: 3 seconds (0:00–0:03 of 24s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps acquisition, 180° shutter, natural motion blur on the gaze-lift; playback 24fps real-time.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — lips closed/softly parted, composed.
 
@@ -1967,11 +1982,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: medium close, chest-up, subject and blossom branch fill about 58% of the vertical frame.
 
-CAMERA MOVEMENT: the slow push continues with a faint 3° tilt up following the raised hand (one flowing move), otherwise stable.
-
 LENS: 85mm, f/2.0.
 
-SUBJECT ACTION WITH TIMING: 0.0–3.2s — Aira raises a soft hand toward a low blossom branch and grazes the petals; 3.2–6.0s — her gaze warms with quiet wonder toward the blossom as a knowing micro-smile kindles. One clean subject action, real physics throughout.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Medium close, chest-up: the slow push continues with a faint tilt-up already following her hand as she raises a soft hand toward a low blossom branch and grazes the petals; gaze toward the blossom.
+- [00:02–00:04] The tilt rides her hand as the petals stir, her gaze warming with quiet wonder and a knowing micro-smile kindling.
+- [00:04–00:06] A petal lifts free, her eyes soft on the blossom, lips parting a millimetre in gentle wonder.
 
 OBJECT ACTION WITH TIMING: 0.0–6.0s — a blossom petal releases from the branch above her fingers and drifts, and the first faint season shimmer breathes at the leaf edges; pollen drifts behind. Environmental and natural-object motion only, no pop-in.
 
@@ -1983,9 +1999,9 @@ ENVIRONMENT: the blossom tree, the meadow, the first faint season shimmer at the
 
 AUDIO: diegetic only. Ambient — soft spring birdsong and a gentle breeze throughout. SFX — a soft leaf-graze at 1.0s, a delicate petal-release flutter at 3.2s, a faint air-waver at 5.6s (gentle attack, long soft tail). Reaction — a soft slow breath at 3.4s. The master track lifts a touch — a soft piano figure and a low string pad rising under the SFX (present, never full). VO — none this frame.
 
-DURATION: 3 seconds (0:03–0:06 of 24s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps acquisition with a touch of slow-mo on the petal release, 180° shutter, gentle natural motion blur; playback real-time.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none.
 
@@ -2044,11 +2060,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: medium, chest-up, subject and lifting petals fill about 60% of the vertical frame.
 
-CAMERA MOVEMENT: a single slow 6% push-in tracking the lifting petals (one flowing move), otherwise stable. (Transform-anchor distance — matches Frames 4 and 5.)
-
 LENS: 50mm, f/2.0, smooth background fall-off.
 
-SUBJECT ACTION WITH TIMING: 0.0–2.4s — Aira eases both hands open and out as if to feel the turning air; 2.4–4.4s — her gaze lifts to lens with rising wonder as a knowing micro-smile forms; 4.4–6.0s — the petals lift and the canopy shimmers, cueing the sweep. One clean subject action, real physics throughout.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Medium chest-up: a slow push is already tracking the lifting petals as she eases both hands open and out as if to feel the turning air; gaze beginning to lift.
+- [00:02–00:04] The push holds as her gaze lifts to lens with rising wonder and a knowing micro-smile forms, the canopy beginning to shimmer.
+- [00:04–00:06] The petals lift and the canopy shimmers, cueing the four-season sweep, her gaze bright with wonder.
 
 OBJECT ACTION WITH TIMING: 0.0–6.0s — the blossom branches shimmer toward green at the tips and the first petals lift and gather in the air around her; pollen drifts behind. Environmental motion only, no pop-in.
 
@@ -2060,9 +2077,9 @@ ENVIRONMENT: the meadow, the canopy beginning to turn and petals gathering.
 
 AUDIO: diegetic only, no in-clip music. Ambient — soft spring birdsong and a gentle breeze throughout. SFX — the soft settle of opening hands at 0.8s, a delicate leaf-shimmer at 2.4s, a faint warm air-swell at 4.8s as petals mass (gentle attack, long soft tail). Reaction — a soft slow breath at 2.8s. The master track sits low — a soft piano figure warming with strings under the SFX (present, never full). VO — none this frame.
 
-DURATION: 3 seconds (0:06–0:09 of 24s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps acquisition with a touch of slow-mo on the gathering petals, 180° shutter, gentle natural motion blur; playback real-time.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none.
 
@@ -2121,11 +2138,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: energized medium of the four-season sweep (the hero move).
 
-CAMERA MOVEMENT: the slow push eases into a smooth gentle orbit around her through the turning ring (one flowing move) — the move that showcases the travelling seasons.
-
 LENS: 50mm, f/2.0. (Transform-anchor distance — matches Frames 3 and 5.)
 
-SUBJECT ACTION WITH TIMING: 0.0–2.1s — from Frame 3’s suspension the seasons begin to turn around her as she opens her arms and holds centre; 2.1–4.2s — a cycling light races across her as the canopy, ground and braid catch turning light (the impossible beat, face clear and framed by the sweep, identity locked); 4.2–6.0s — the ring settles toward winter and the coat resolves toward the Frame-5 reveal. Strict interpolation between locked keyframes; real natural physics.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Energized medium: the push is already easing into a smooth gentle orbit through the turning ring as the seasons begin to turn around her and she opens her arms and holds centre; gaze lifting into the turn.
+- [00:02–00:04] The orbit rides the hero beat as a cycling light races across her and the canopy, ground and braid catch turning light — spring to summer to autumn (face clear, framed by the sweep, identity locked); eyes wide with wonder.
+- [00:04–00:06] The ring settles toward winter and the cream coat resolves toward the reveal as the orbit eases; a serene grounded calm landing.
 
 OBJECT ACTION WITH TIMING: 0.0–6.0s — the season-ring cycles spring blossom → summer green → autumn leaf-fall → winter snow around her, the tree cycling blossom→green→bare→snow-laden, the ground cycling green→rust→white, and her layers cycling cardigan→bare→trench→coat, petals then leaves then flakes sparkling through the field. One coherent transform, no extra objects, no pop-in.
 
@@ -2137,9 +2155,9 @@ ENVIRONMENT: the meadow cycling through all four seasons, petals/leaves/snow spa
 
 AUDIO: diegetic-led. Ambient — spring birdsong cycling through summer hum, autumn rustle and winter hush. SFX — a soft season-turn swell 0.4–2.4s, fine particle sparkle 2.1–4.2s (gentle attack, long soft tails), a soft snow-settle at 4.8s. Reaction — a soft serene breath at 2.4s. The master track lifts to its peak here — a piano-and-strings motif blooming with cycling seasonal textures landed on the sweep (present, still under the SFX, never full). VO — none (the line lands two frames on).
 
-DURATION: 4 seconds (0:09–0:13 of 24s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 96fps deep slow-mo through the sweep easing to gentle slow-mo, 180° shutter, soft natural motion blur with crisp particle sparkle.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none.
 
@@ -2198,11 +2216,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: medium close, chest-up, subject and scarf fill about 58% of the vertical frame.
 
-CAMERA MOVEMENT: the orbit eases back to a slow 5% push-in as the winter look resolves (one flowing move), otherwise stable.
-
 LENS: 50mm, f/2.0. (Transform-anchor distance — matches Frames 3 and 4.)
 
-SUBJECT ACTION WITH TIMING: 0.0–2.8s — the sweep settles as Aira reaches up to adjust the scarf at her neck with an easy roll of the shoulder; 2.8–6.0s — a serene smile eases to the lens on a slow cool breath as the last flakes settle. One clean subject action, real physics throughout.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Medium close, chest-up: the orbit is already easing back to a slow push as the winter look resolves and she reaches up to adjust the scarf at her neck with an easy roll of the shoulder; gaze easing to lens, soft snow settling.
+- [00:02–00:04] The push settles as a serene smile eases to lens on a slow cool breath, the last flakes settling around her.
+- [00:04–00:06] She holds the calm cosy look, the coat and scarf settling, eyes serene and direct.
 
 OBJECT ACTION WITH TIMING: 0.0–6.0s — the coat settles and the scarf end sways gently, a cool specular travels along the scarf weave, and the last snowflakes drift down and settle; cool winter air mists faint at her breath. Environmental motion only, no pop-in.
 
@@ -2214,9 +2233,9 @@ ENVIRONMENT: the snow-laden bare tree, soft winter meadow, last flakes settling.
 
 AUDIO: diegetic only. Ambient — a hushed snow-quiet with a faint distant winter wind. SFX — a soft scarf-adjust rustle at 1.0s, a delicate settling-flake shimmer at 2.8s, a faint cool air-ease at 5.2s (gentle attack, long soft tail). Reaction — a soft slow breath at 3.2s, misting faint. The master track holds — a soft piano-and-strings figure settling under the SFX (present, never full). VO — none (the line lands next frame).
 
-DURATION: 3 seconds (0:13–0:16 of 24s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps acquisition with a touch of slow-mo on the settling flakes, 180° shutter, gentle natural motion blur; playback real-time.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none.
 
@@ -2275,11 +2294,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: medium, chest-up, subject fills about 58% of the vertical frame.
 
-CAMERA MOVEMENT: a single slow 5% push-in on the line (one flowing move), otherwise locked and stable.
-
 LENS: 35mm, f/2.2.
 
-SUBJECT ACTION WITH TIMING: 0.0–1.2s — Aira shifts her weight with an easy 6° turn and opens her right mittened hand in a relaxed gesture; 1.2–2.9s — she delivers “Seasons change. I don’t.” to the lens with a soft serene smile and natural lip-sync; 2.9–4.8s — she holds the calm cosy look as the coat settles. One clean subject action, real physics throughout.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Medium chest-up: a slow push is already gliding in as she shifts her weight with an easy six-degree turn and opens her right mittened hand in a relaxed gesture; gaze calm to lens.
+- [00:02–00:04] She delivers “Seasons change. I don't.” to lens with a soft serene smile and natural lip-sync, eyes calm and warm.
+- [00:04–00:06] She holds the calm cosy look as the coat settles, the smile easing into grounded warmth.
 
 OBJECT ACTION WITH TIMING: 0.0–4.8s — the coat sways gently with the shift, the scarf end sways a hair on real inertia, and a cool specular travels along the wool; her breath mists faint and cool winter air drifts behind. Environmental and worn-object motion only, no pop-in.
 
@@ -2291,9 +2311,9 @@ ENVIRONMENT: the snow-laden tree, the soft winter meadow.
 
 AUDIO: diegetic-led with the line forward. Ambient — hushed snow-quiet with a faint distant winter wind. SFX — a soft coat-sway rustle at 0.5s, a faint scarf-shift at 1.2s (gentle attack, short tail). Reaction — a soft breath at 1.0s before the line, misting faint. VO — Aira (English, natural Indian accent): “Seasons change. I don’t.” landing 1.2–2.9s, lips matched. The master track ducks cleanly under the line — a soft piano-and-strings figure holding low so the vocal sits forward (present, never full).
 
-DURATION: 5 seconds (0:16–0:21 of 24s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps acquisition, 180° shutter, natural motion blur on the shift; playback real-time.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: full — mouth shapes matched precisely to “Seasons change. I don’t.”, no drift.
 
@@ -2352,11 +2372,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: medium-wide, thigh-up, subject fills about 55% of the vertical frame (matched to Frame 1).
 
-CAMERA MOVEMENT: the orbit eases to rest and a slow 8% push-in resolves to the Frame-1 framing (one flowing move) for a seamless loop.
-
 LENS: 35mm, f/2.2. (Returns to Frame 1 distance.)
 
-SUBJECT ACTION WITH TIMING: 0.0–3.0s — Aira returns her right hand to rest light at the fishtail braid over her shoulder and settles her weight onto the back leg exactly as in Frame 1; 3.0–6.0s — she eases her gaze back to the lens on a slow breath with the composed serene quarter-smile, the composition resolving to match Frame 1. One clean subject action, real physics throughout.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Medium-wide thigh-up matching Frame 1: the orbit is already easing to rest as a slow push resolves toward the opening framing and she returns her right hand to rest light at the fishtail braid over her shoulder, settling her weight onto the back leg exactly as in Frame 1.
+- [00:02–00:04] The push settles as she eases her gaze back to lens on a slow breath with the composed serene quarter-smile, the winter palette resolving toward the spring opening.
+- [00:04–00:06] She lands precisely on the Frame 1 pose and gaze, weight settled — a seamless loop seam.
 
 OBJECT ACTION WITH TIMING: 0.0–6.0s — the winter look eases back to the spring presentation around her, a soft blossom petal drifts where a snowflake once fell, the soft spring key re-kindles at the tree gradient, and the last cool air warms and fades to seed the loop. Environmental motion only, no pop-in.
 
@@ -2368,9 +2389,9 @@ ENVIRONMENT: the snow-laden tree warming back toward spring blossom, last cool a
 
 AUDIO: diegetic only, no in-clip music beyond the bed. Ambient — a hushed winter-quiet easing back toward soft spring birdsong and breeze. SFX — a soft knit settle at 0.8s, a faint pin-glint tick at 3.2s, a delicate warm air-swell at 4.8s seeding the loop (gentle attack, soft tail). Reaction — a soft breath at 3.0s. The master track resolves on a sustained chord that cross-fades warm so the reel loops seamlessly with no audible seam (present, never full). VO — none this frame.
 
-DURATION: 3 seconds (0:21–0:24 of 24s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps acquisition, 180° shutter, natural motion blur on the settle; playback real-time.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — lips closed/softly parted, composed.
 

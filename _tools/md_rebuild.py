@@ -1824,6 +1824,209 @@ BEATS[1] = [
 ]
 
 
+BEATS[2] = [
+    (
+        "Medium-wide thigh-up on the Haussmann Paris balcony at silver-blue dawn: a slow "
+        "push-in is already gliding toward her as she settles her weight onto the back leg "
+        "and tucks her right hand into the coat pocket, the composed quarter-smile holding.",
+        "The push continues as one centre-part strand lifts in the dawn breeze, her warm "
+        "gaze beginning to lift; a worldly calm in her eyes.",
+        "She lifts her warm gaze to lens on a soft inhale, the composed quarter-smile "
+        "settling, eyes assured and direct.",
+    ),
+    (
+        "Medium-wide thigh-up matching Frame 1: the slow push continues seamlessly as the "
+        "city wraps from Paris to a rain-glossed neon-dusk Tokyo around her, she holding her "
+        "pose and easing her right hand from the pocket to the lapel.",
+        "She holds the identical composed quarter-smile through the wrap, neon catchlights "
+        "warming her eyes (identity locked through the city-change).",
+        "A strand lifts in the Tokyo draft, her gaze steady to lens, assured and unchanged.",
+    ),
+    (
+        "Medium chest-up on a steam-and-steel Manhattan street at golden hour: a slow push "
+        "is already tracking the rippling street edge as she eases her right hand open from "
+        "the lapel in a soft confident gesture; gaze direct.",
+        "The push holds as her gaze holds to lens with rising assurance and the composed "
+        "smile lifts, warm gold light raking the street.",
+        "The New York street ripples and brightens, cueing the hero city-wrap, her gaze "
+        "steady and assured.",
+    ),
+    (
+        "Energized medium: the push is already easing into a smooth gentle orbit as the city "
+        "wrap sweeps the world around her in a warm arc toward a gold-teal Mumbai evening and "
+        "she opens her arms; gaze lifting into the sweep.",
+        "The orbit rides the hero beat as a warming shimmer races across her and the dupatta "
+        "and lob catch travelling light, the sea-link and archway resolving (face clear, "
+        "framed by the sweep, identity locked); eyes bright with worldly wonder.",
+        "The sweep settles and Mumbai resolves toward the reveal as the orbit eases; an "
+        "assured warmth landing in her eyes.",
+    ),
+    (
+        "Medium close, chest-up: the orbit is already easing back to a slow push as a "
+        "cool-overcast London stone-and-mist lane resolves around her and she eases her "
+        "right hand to hold the trench lapel; gaze easing to lens.",
+        "The push settles as an assured smile eases to lens on a slow cool breath, the last "
+        "motes settling in the misty light.",
+        "She holds the cool assured look, the trench settling, eyes calm and direct.",
+    ),
+    (
+        "Medium chest-up in warm champagne sky-deck light: a slow push is already gliding in "
+        "as she turns a soft six degrees toward lens and opens her right hand in a gentle "
+        "gesture; gaze warm to lens.",
+        "She delivers \u201cSix cities. One her. Wherever I land \u2014 still me.\u201d to "
+        "lens with a soft knowing smile and natural lip-sync, eyes warm and assured.",
+        "She holds the warm assured look as the coat settles, the smile easing into calm "
+        "confidence.",
+    ),
+    (
+        "Medium-wide thigh-up matching Frame 1: the orbit is already easing to rest as a "
+        "slow push resolves toward the opening framing and the city wraps from Dubai back to "
+        "Paris, she returning her right hand to the coat pocket and settling her weight onto "
+        "the back leg exactly as in Frame 1.",
+        "The push settles as she eases her gaze back to lens on a slow breath with the "
+        "composed quarter-smile, the dawn Paris palette resolving to the opening.",
+        "She lands precisely on the Frame 1 pose and gaze, weight settled \u2014 a seamless "
+        "loop seam.",
+    ),
+]
+
+BEATS[3] = [
+    (
+        "Medium-wide thigh-up in the warm haveli courtyard: a slow push-in is already gliding "
+        "toward her as she settles her weight onto the back leg and rests her right hand "
+        "softly at the zari pallu over her shoulder, the composed regal quarter-smile "
+        "holding; marigold-tungsten glow and incense haze around her.",
+        "The push continues as a face-framing tendril shifts in the courtyard draft, her "
+        "warm gaze beginning to lift; a regal calm in her eyes.",
+        "She lifts her warm gaze to lens on a soft inhale, the regal quarter-smile settling, "
+        "eyes warm and direct.",
+    ),
+    (
+        "Medium close, chest-up: the slow push continues with a faint tilt-up already "
+        "following her hand as she raises a fold of the zari pallu near her collarbone and "
+        "turns it into the warm key; gaze lowering to the gold thread.",
+        "The tilt rides the pallu as the gold zari catches a warm specular, her gaze warming "
+        "with quiet focus and a knowing micro-smile kindling.",
+        "The pallu glows in the tungsten light, her eyes steady on the thread, lips parting "
+        "a millimetre in warm anticipation.",
+    ),
+    (
+        "Medium chest-up: a slow push is already tracking the rippling pallu as she eases "
+        "both hands open from her body as if to release the drape; gaze beginning to lift.",
+        "The push holds as her gaze lifts to lens with rising spirit and a knowing "
+        "micro-smile forms, the silk beginning to stir.",
+        "The pallu ripples and lifts, cueing the unwind, her gaze bright and spirited.",
+    ),
+    (
+        "Energized medium: the push is already easing into a smooth gentle orbit as the "
+        "saree unwinds in a warm spiralling ribbon around her and she opens her arms; gaze "
+        "following the spiral.",
+        "The orbit rides the hero beat as a cooling shimmer races across her and the fabric "
+        "and ponytail catch travelling light, the magenta silk giving to the cream bomber "
+        "and cargos (face clear, framed by the spiral, identity locked); eyes bright with "
+        "spirited cool.",
+        "The spiral settles and the streetwear resolves toward the reveal as the orbit "
+        "eases; an easy cool confidence landing.",
+    ),
+    (
+        "Medium close, chest-up: the orbit is already easing back to a slow push as the "
+        "streetwear resolves and she reaches up to adjust the bomber collar with an easy "
+        "roll of the shoulder; gaze easing to lens, cooler mural-street light around her.",
+        "The push settles as a confident smile eases to lens on a slow cool breath, the last "
+        "motes settling.",
+        "She holds the cool easy look, the bomber settling, eyes relaxed and direct.",
+    ),
+    (
+        "Medium chest-up: a slow push is already gliding in as she shifts her weight with an "
+        "easy six-degree turn and opens her right hand in a relaxed gesture; gaze easy to "
+        "lens.",
+        "She delivers \u201cSaree to streetwear. Same roots, new stride.\u201d to lens with a "
+        "soft knowing smile and natural lip-sync, eyes warm and cool-confident.",
+        "She holds the cool easy look as the bomber settles, the smile easing into relaxed "
+        "warmth.",
+    ),
+    (
+        "Medium-wide thigh-up matching Frame 1: the orbit is already easing to rest as a "
+        "slow push resolves toward the opening framing and she returns her right hand to "
+        "rest light at the pallu over her shoulder, settling her weight onto the back leg "
+        "exactly as in Frame 1.",
+        "The push settles as she eases her gaze back to lens on a slow breath with the "
+        "composed regal quarter-smile, the street palette resolving toward the warm courtyard "
+        "opening.",
+        "She lands precisely on the Frame 1 pose and gaze, weight settled \u2014 a seamless "
+        "loop seam.",
+    ),
+]
+
+BEATS[4] = [
+    (
+        "Medium-wide thigh-up by the lone meadow tree in spring: a slow push-in is already "
+        "gliding toward her as she settles her weight onto the back leg and rests her right "
+        "hand softly at the fishtail braid over her shoulder, the serene quarter-smile "
+        "holding; petals drifting in the soft sky-light.",
+        "The push continues as a face-framing wisp shifts in the spring breeze, her calm "
+        "gaze beginning to lift; a serene wonder in her eyes.",
+        "She lifts her calm gaze to lens on a soft inhale, the serene quarter-smile "
+        "settling, eyes calm and direct.",
+    ),
+    (
+        "Medium close, chest-up: the slow push continues with a faint tilt-up already "
+        "following her hand as she raises a soft hand toward a low blossom branch and grazes "
+        "the petals; gaze toward the blossom.",
+        "The tilt rides her hand as the petals stir, her gaze warming with quiet wonder and "
+        "a knowing micro-smile kindling.",
+        "A petal lifts free, her eyes soft on the blossom, lips parting a millimetre in "
+        "gentle wonder.",
+    ),
+    (
+        "Medium chest-up: a slow push is already tracking the lifting petals as she eases "
+        "both hands open and out as if to feel the turning air; gaze beginning to lift.",
+        "The push holds as her gaze lifts to lens with rising wonder and a knowing "
+        "micro-smile forms, the canopy beginning to shimmer.",
+        "The petals lift and the canopy shimmers, cueing the four-season sweep, her gaze "
+        "bright with wonder.",
+    ),
+    (
+        "Energized medium: the push is already easing into a smooth gentle orbit through the "
+        "turning ring as the seasons begin to turn around her and she opens her arms and "
+        "holds centre; gaze lifting into the turn.",
+        "The orbit rides the hero beat as a cycling light races across her and the canopy, "
+        "ground and braid catch turning light \u2014 spring to summer to autumn (face clear, "
+        "framed by the sweep, identity locked); eyes wide with wonder.",
+        "The ring settles toward winter and the cream coat resolves toward the reveal as the "
+        "orbit eases; a serene grounded calm landing.",
+    ),
+    (
+        "Medium close, chest-up: the orbit is already easing back to a slow push as the "
+        "winter look resolves and she reaches up to adjust the scarf at her neck with an "
+        "easy roll of the shoulder; gaze easing to lens, soft snow settling.",
+        "The push settles as a serene smile eases to lens on a slow cool breath, the last "
+        "flakes settling around her.",
+        "She holds the calm cosy look, the coat and scarf settling, eyes serene and direct.",
+    ),
+    (
+        "Medium chest-up: a slow push is already gliding in as she shifts her weight with an "
+        "easy six-degree turn and opens her right mittened hand in a relaxed gesture; gaze "
+        "calm to lens.",
+        "She delivers \u201cSeasons change. I don't.\u201d to lens with a soft serene smile "
+        "and natural lip-sync, eyes calm and warm.",
+        "She holds the calm cosy look as the coat settles, the smile easing into grounded "
+        "warmth.",
+    ),
+    (
+        "Medium-wide thigh-up matching Frame 1: the orbit is already easing to rest as a "
+        "slow push resolves toward the opening framing and she returns her right hand to "
+        "rest light at the fishtail braid over her shoulder, settling her weight onto the "
+        "back leg exactly as in Frame 1.",
+        "The push settles as she eases her gaze back to lens on a slow breath with the "
+        "composed serene quarter-smile, the winter palette resolving toward the spring "
+        "opening.",
+        "She lands precisely on the Frame 1 pose and gaze, weight settled \u2014 a seamless "
+        "loop seam.",
+    ),
+]
+
+
 def build_block(beats):
     return (
         BREAKDOWN_HEADER + "\n"
