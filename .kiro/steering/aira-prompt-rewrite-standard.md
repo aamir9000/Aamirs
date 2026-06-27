@@ -316,3 +316,21 @@ NOTE: this is a guardrail for palette intent (lives in briefs / IMAGE prompts / 
 ENVIRONMENT). The video SHOT BREAKDOWN rebuild does not change colour; it only references
 each concept's existing palette. No destructive mass re-grade was applied — existing
 vibrancy was preserved and is to be kept balanced per the above.
+
+
+- CONCEPTS/20 Magical Action Reels Heavy-Detail.txt (20 concepts, 151 video prompts) —
+  ALREADY-COMPLIANT, NO REBUILD APPLIED (and must NOT be templated). This file was built on
+  a later base ("Sys Directive 3 + Vibrance Patch") and already meets/exceeds the advanced
+  standard: every video prompt has the expression-safe FIXED-SKELETON identity lock, a varied
+  `CAMERA MOVEMENT: one move only` action camera (push-in, shake-settle, parallel track,
+  whip-pan, arcing orbit, crane-up, etc.), a 3-beat `SUBJECT + OBJECT ACTION (timecoded)`
+  block (0.0-2.0 / 2.0-4.0 / 4.0-6.0) PLUS a dedicated `PHYSICS:` line and a separate eye-led
+  `EXPRESSION TRANSITION:` line, `DURATION: 6.0s`, a per-frame diegetic `AUDIO (Block A)` and
+  an external Master Soundtrack block; image prompts carry SUBJECT FRAMING & POSITION +
+  ORIENTATION LOCK. Verified uniform: 151 of 151 for each marker. NO visual slow-motion (the
+  only "slow-mo"/"half-time" matches are the music-tempo term in the score brief and the word
+  "ramp"). Grades are controlled complementary palettes (e.g. gold + teal) with explicit
+  `no oversaturation` / `no garish neon` negatives — already follows the Controlled Vibrancy
+  discipline (section I). Converting its `SUBJECT + OBJECT ACTION (timecoded)` into a bare
+  `SHOT BREAKDOWN` would STRIP the PHYSICS and EXPRESSION-TRANSITION detail — do not do it.
+  Treat this file as a reference implementation of the standard.
