@@ -8082,13 +8082,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: medium-full three-quarter hero in the ink atelier.
 
-CAMERA MOVEMENT: a single slow 8% push-in, otherwise locked-off and stable — one move, no transform yet.
-
 LENS: 50mm, f/2.5.
 
-SUBJECT ACTION WITH TIMING:
-- 0.0–3.0s — Aira holds the liner pen to her collarbone, the slip breathing, ink-smoke drifting through the lamp-beam, and lifts her eyes to the lens with a poised knowing set.
-- 3.0–6.0s — she begins a slow quarter-turn, a soft sheen travelling the slip and the warm lamp glowing on the wall. One composed beat, real physics.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Medium-full three-quarter hero in the dark ink atelier: a slow push-in is already gliding toward her as she holds the lacquer liner pen to her collarbone, the black silk breathing and ink-smoke drifting through the lamp-beam; she lifts her eyes to lens with a poised knowing set.
+- [00:02–00:04] The push continues as she begins a slow quarter-turn, a soft sheen travelling the slip and the warm lamp glowing on the wall; gaze easing to lens, chin level.
+- [00:04–00:06] She settles mid-turn, weight rolling onto the front foot, a dramatic elegant calm holding as ink-wash scrolls hang behind.
 
 LIGHTING: single warm lamp key, low soft fill, cool silver rim; lamp steady, smoke drifting.
 
@@ -8096,9 +8095,9 @@ ENVIRONMENT: ink atelier, hanging scrolls, inkstone and brushes, drifting ink-sm
 
 AUDIO: diegetic-plus-design, no spoken word (silent reel). Ambient bed — a deep quiet atelier room-tone with a faint warm lamp-hush and a soft settle, very low and steady. SFX — a soft lacquer-pen touch as her fingers settle at 0.6s, a faint silk shift at 3.1s, a single soft koto-pluck accent on the turn at 3.6s. Reaction — a soft breath at 2.6s. VO — none. The master track enters here soft and ambient (low and subtle, never full).
 
-DURATION: 5 seconds (0:00–0:05 of 30s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps, 180° shutter, gentle natural motion blur on the turn.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — a poised closed-lip set (silent throughout).
 
@@ -8149,14 +8148,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: full-figure transform hero, slightly low angle.
 
-CAMERA MOVEMENT: a slow controlled arc following the gown drawing up her body, smooth and motivated — one move, no whip.
-
 LENS: 50mm, f/2.5.
 
-SUBJECT ACTION WITH TIMING:
-- 0.0–1.5s — the first ribbon of ink-smoke streams in at the hip and draws into a calligraphic stroke.
-- 1.5–4.2s — strokes stream in and lay down section by section into the gown, silver-ink edges catching light, Aira watching with a held breath, smoke-wisps lifting off the front.
-- 4.2–6.0s — the last stroke settles and the ink gown resolves, her recognizable face landing a poised look. Only the crossing is impossible; everything else obeys real physics.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Full-figure from a slightly low angle: a slow controlled arc is already rising as the first ribbon of ink-smoke streams in at the hip and draws into a calligraphic stroke; gaze tracking the drawing stroke, eyes sharpening.
+- [00:02–00:04] The arc rides the strokes up her body as they lay down section by section into the gown, silver-ink edges catching light and smoke-wisps lifting; a held breath, brows lifting.
+- [00:04–00:06] The last stroke settles and the ink gown resolves as the arc eases; a poised look landing, eyes alight on the calligraphic strokes.
 
 LIGHTING: warm lamp key with a cool kick on the drawing strokes, low soft fill, cool silver rim; dramatic and steady.
 
@@ -8164,9 +8161,9 @@ ENVIRONMENT: ink atelier, hanging scrolls, the warm lamp, drifting ink-smoke, ch
 
 AUDIO: diegetic-plus-design, no spoken word (silent reel). Ambient bed — the deep atelier tone with a soft low cello-and-koto rise under the crossing. SFX — a soft ink-stream whoosh 0.0–1.5s, a delicate sequence of soft brush-stroke sweeps and fine ink-settle taps as the gown draws 1.5–4.2s, a soft resolve-tone as the gown sets at 5.4s, faint smoke-wisp drift off the front. Reaction — a soft held breath at 1.4s. VO — none. Master track lifts gently under the transform then eases (subtle, never full).
 
-DURATION: 6 seconds (0:05–0:11 of 30s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps, 180° shutter, natural motion blur on the drawing ink and arc.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — lips part on the held breath, no words (silent).
 
@@ -8215,14 +8212,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: beauty close, chest-up, product-at-face.
 
-CAMERA MOVEMENT: a slow 6% push-in to the face, locked otherwise.
-
 LENS: 85mm, f/2.5.
 
-SUBJECT ACTION WITH TIMING:
-- 0.0–2.2s — she brings the fine calligraphy-tip liner to the outer corner of the upper lash line.
-- 2.2–4.3s — she draws one confident calligraphic flick, laying a crisp jet-black wing that tapers to a clean point.
-- 4.3–6.0s — she eases the pen away and gives a sharp direct look. One precise beat, real physics.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Beauty close, chest-up at a three-quarter: a slow push toward her face is already gliding in as she brings the fine calligraphy-tip liner to the outer corner of the upper lash line; eyes lowered to the tip.
+- [00:02–00:04] She draws one confident calligraphic flick, laying a crisp jet-black wing that tapers to a clean point, the push settling; a poised set beginning.
+- [00:04–00:06] She eases the pen away and gives a sharp direct look, the ink bodice glinting, a dramatic calm in her gaze.
 
 LIGHTING: warm lamp beauty key, low soft fill, cool silver rim; a cool specular travelling the pen as she moves.
 
@@ -8230,9 +8225,9 @@ ENVIRONMENT: atelier, blurred scrolls and lamp, smoke low.
 
 AUDIO: diegetic-plus-design, no spoken word (silent reel). Ambient bed — the deep atelier tone, low. SFX — a soft pen-cap click at 0.6s, a fine liquid brush-draw whisper at 2.4s tracking the flick, a single soft koto-pluck as the pen lifts at 4.3s. Reaction — a soft focused breath at 4.7s. VO — none. Master track stays low and ambient (subtle, never full).
 
-DURATION: 5 seconds (0:11–0:16 of 30s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps, 180° shutter, gentle motion blur on the liner hand.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — a focused composed set (silent).
 
@@ -8285,14 +8280,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: bold beauty close, chest-up, commanding wordless direct address.
 
-CAMERA MOVEMENT: locked-off and stable, a barely-there 4% push — no movement that competes with the beat; let the look do the work.
-
 LENS: 85mm, f/2.5.
 
-SUBJECT ACTION WITH TIMING:
-- 0.0–2.0s — she settles, eyes locking the lens with a confident composed half-smile.
-- 2.0–4.2s — she presents the pen at her chest and lands a single assured chin-lift into a slow blink, a cool silver glint flickering across the ink bodice, lips softly closed (no speech).
-- 4.2–6.0s — the half-smile holds, eyes luminous and direct. One clean wordless beat, real physics.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Bold beauty close, chest-up squared to lens: the camera is already settled on a barely-there push as her eyes lock the lens with a confident composed half-smile, the pen presented at her chest (silent — no words).
+- [00:02–00:04] She lands a single assured chin-lift into a slow blink as a cool silver glint flickers across the ink bodice, lips softly closed, the look itself doing the work.
+- [00:04–00:06] The half-smile holds, eyes luminous and direct — a wordless dramatic expression reveal in place of any line.
 
 LIGHTING: warm lamp beauty key, low soft fill, cool silver rim; steady, no flicker; a live silver glint travelling the gown as she breathes.
 
@@ -8300,9 +8293,9 @@ ENVIRONMENT: atelier, blurred lamp and scrolls behind, smoke low.
 
 AUDIO: diegetic-plus-design, no spoken word (silent reel). Ambient bed — the deep atelier tone, low. SFX — a faint air-tail, a soft pen touch at 0.8s, a delicate silver shimmer-accent at 2.1s on the chin-lift. Reaction — a soft calm breath at 2.5s. VO — none (the beat is carried by the look, not a line). Master track sits low and steady under the beat (subtle, never full).
 
-DURATION: 4 seconds (0:16–0:20 of 30s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps, 180° shutter, gentle natural motion blur.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — lips stay softly closed; no words, no lip-flap.
 
@@ -8355,15 +8348,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: full-figure magical hero, slightly low angle.
 
-CAMERA MOVEMENT: a slow majestic push-in with a gentle rise ( + slight boom) tracking the bloom — one smooth motivated move.
-
 LENS: 35mm, f/2.2.
 
-SUBJECT ACTION WITH TIMING:
-- 0.0–0.6s — a single stroke at the heart of the bodice kindles silver.
-- 0.6–2.2s — the silver bloom ripples outward, stroke after stroke unfurling into luminous silver ink-flowers as silver ink-motes lift and swirl around her, she lifting her eyes into the swirl.
-- 2.2–4.2s — the motes trail out, easing to a sustained silver ink-glow, her radiant smile landing.
-- 4.2–6.0s — she holds, haloed and triumphant. Only the silver ink-bloom is impossible; all else real physics.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Full-figure magical hero from a slightly low angle: a slow majestic push-in with a gentle boom-rise is already lifting as a single stroke at the heart of the bodice kindles silver; gaze drawn to the kindling stroke.
+- [00:02–00:04] The boom keeps rising as the silver bloom ripples outward, stroke after stroke unfurling into luminous silver ink-flowers and silver ink-motes swirling around her; eyes lifting into the swirl, a radiant awe blooming.
+- [00:04–00:06] The motes trail out, easing to a sustained silver ink-glow as the move settles; her radiant smile landing, eyes triumphant and haloed.
 
 LIGHTING: the silver bloom lifted as a live cool key against the warm lamp, cool rim, floor fill rising; controlled, no clipping.
 
@@ -8371,9 +8361,9 @@ ENVIRONMENT: atelier alive with cool silver light against charcoal, the warm lam
 
 AUDIO: diegetic-plus-design, no spoken word (silent reel). Ambient bed — the deep atelier tone blooming into a cool string-and-koto swell with a soft taiko-brush cresting at the bloom then settling. SFX — a soft silver-kindle chime 0.2s, a gentle cool bloom-shimmer and a sparkling pass of silver ink-motes tracking the swirl 0.6–2.2s, soft sparkle settling 1.4–3.0s, a cool resonance under the settle, a faint ink-fizz with the motes. Reaction — a soft powerful breath at 1.9s. VO — none. Master track rises to its fullest-but-still-restrained moment under the bloom then eases (subtle, never full).
 
-DURATION: 5 seconds (0:20–0:25 of 30s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps, 180° shutter, natural motion blur on the bloom and swirling motes.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — lips part on the powerful breath and smile, no words (silent).
 
@@ -8428,13 +8418,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: medium-full three-quarter hero in the ink atelier, matched to Frame 1.
 
-CAMERA MOVEMENT: a slow settle to rest matching the Frame 1 push so the end frame meets the start frame cleanly — one move, loop-safe.
-
 LENS: 50mm, f/2.5.
 
-SUBJECT ACTION WITH TIMING:
-- 0.0–3.0s — Aira eases back to the opening stance, cradling the liner pen at the collarbone, the gown re-settling.
-- 3.0–6.0s — she lands the poised knowing set and a slow blink, ink-smoke drifting, the warm lamp glowing on the wall — the frame resolving to exactly match Frame 1 for a seamless loop. Real physics throughout.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Medium-full three-quarter hero in the ink atelier matching Frame 1: a slow settle is already easing her back toward the opening stance, cradling the liner pen at the collarbone, the gown re-settling; gaze softening to lens.
+- [00:02–00:04] The settle continues as the ink gown eases back toward the black silk's stillness, ink-smoke drifting and the warm lamp glowing on the wall; a poised knowing set returning.
+- [00:04–00:06] She lands the poised set and a slow blink, resolving to exactly match the Frame 1 pose, weight settled in the ink atelier — a seamless loop seam.
 
 LIGHTING: single warm lamp key, low soft fill, cool silver rim — matched to Frame 1; steady, no flicker.
 
@@ -8442,9 +8431,9 @@ ENVIRONMENT: ink atelier, hanging scrolls, inkstone and brushes, drifting ink-sm
 
 AUDIO: diegetic-plus-design, no spoken word (silent reel). Ambient bed — the deep quiet atelier room-tone with a faint warm lamp-hush, easing back to exactly the Frame 1 level for a seamless audio loop. SFX — a soft lacquer-pen settle as her hands return at 1.0s, a faint silk shift at 3.1s, a single soft koto-pluck resettling at 3.6s matched to the opening accent. Reaction — a soft breath at 2.6s. VO — none. Master track resolves softly back to its opening ambient phrase for a clean loop (subtle, never full).
 
-DURATION: 5 seconds (0:25–0:30 of 30s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps, 180° shutter, gentle natural motion blur easing to the matched settle.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — a poised closed-lip set (silent).
 

@@ -1268,6 +1268,75 @@ BEATS[68] = [
 ]
 
 
+BEATS[69] = [
+    # F1 - medium-full three-quarter hero in ink atelier (push-in)
+    (
+        "Medium-full three-quarter hero in the dark ink atelier: a slow push-in is already "
+        "gliding toward her as she holds the lacquer liner pen to her collarbone, the black "
+        "silk breathing and ink-smoke drifting through the lamp-beam; she lifts her eyes to "
+        "lens with a poised knowing set.",
+        "The push continues as she begins a slow quarter-turn, a soft sheen travelling the "
+        "slip and the warm lamp glowing on the wall; gaze easing to lens, chin level.",
+        "She settles mid-turn, weight rolling onto the front foot, a dramatic elegant calm "
+        "holding as ink-wash scrolls hang behind.",
+    ),
+    # F2 - full-figure transform, slightly low angle (arc following the gown drawing up)
+    (
+        "Full-figure from a slightly low angle: a slow controlled arc is already rising as "
+        "the first ribbon of ink-smoke streams in at the hip and draws into a calligraphic "
+        "stroke; gaze tracking the drawing stroke, eyes sharpening.",
+        "The arc rides the strokes up her body as they lay down section by section into the "
+        "gown, silver-ink edges catching light and smoke-wisps lifting; a held breath, brows "
+        "lifting.",
+        "The last stroke settles and the ink gown resolves as the arc eases; a poised look "
+        "landing, eyes alight on the calligraphic strokes.",
+    ),
+    # F3 - beauty close, product-at-face / liner wing-flick (6% push to face)
+    (
+        "Beauty close, chest-up at a three-quarter: a slow push toward her face is already "
+        "gliding in as she brings the fine calligraphy-tip liner to the outer corner of the "
+        "upper lash line; eyes lowered to the tip.",
+        "She draws one confident calligraphic flick, laying a crisp jet-black wing that "
+        "tapers to a clean point, the push settling; a poised set beginning.",
+        "She eases the pen away and gives a sharp direct look, the ink bodice glinting, a "
+        "dramatic calm in her gaze.",
+    ),
+    # F4 - bold beauty close, wordless hero beat (SILENT — expression reveal)
+    (
+        "Bold beauty close, chest-up squared to lens: the camera is already settled on a "
+        "barely-there push as her eyes lock the lens with a confident composed half-smile, "
+        "the pen presented at her chest (silent \u2014 no words).",
+        "She lands a single assured chin-lift into a slow blink as a cool silver glint "
+        "flickers across the ink bodice, lips softly closed, the look itself doing the "
+        "work.",
+        "The half-smile holds, eyes luminous and direct \u2014 a wordless dramatic expression "
+        "reveal in place of any line.",
+    ),
+    # F5 - full-figure magical hero, silver ink-bloom (majestic push + boom-rise)
+    (
+        "Full-figure magical hero from a slightly low angle: a slow majestic push-in with a "
+        "gentle boom-rise is already lifting as a single stroke at the heart of the bodice "
+        "kindles silver; gaze drawn to the kindling stroke.",
+        "The boom keeps rising as the silver bloom ripples outward, stroke after stroke "
+        "unfurling into luminous silver ink-flowers and silver ink-motes swirling around "
+        "her; eyes lifting into the swirl, a radiant awe blooming.",
+        "The motes trail out, easing to a sustained silver ink-glow as the move settles; her "
+        "radiant smile landing, eyes triumphant and haloed.",
+    ),
+    # F6 - loop close, matched to F1 (settle to rest)
+    (
+        "Medium-full three-quarter hero in the ink atelier matching Frame 1: a slow settle "
+        "is already easing her back toward the opening stance, cradling the liner pen at the "
+        "collarbone, the gown re-settling; gaze softening to lens.",
+        "The settle continues as the ink gown eases back toward the black silk's stillness, "
+        "ink-smoke drifting and the warm lamp glowing on the wall; a poised knowing set "
+        "returning.",
+        "She lands the poised set and a slow blink, resolving to exactly match the Frame 1 "
+        "pose, weight settled in the ink atelier \u2014 a seamless loop seam.",
+    ),
+]
+
+
 def build_block(beats):
     # Replaces ONLY the `SUBJECT ACTION WITH TIMING:` header + its bullet beat
     # lines. Ends with a single trailing newline so the original blank line
