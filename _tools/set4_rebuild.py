@@ -709,6 +709,73 @@ BEATS[60] = [
 ]
 
 
+BEATS[61] = [
+    # F1 - medium-full three-quarter hero in moonlit dew garden (push-in)
+    (
+        "Medium-full three-quarter hero in the moonlit dew garden: a slow push-in is already "
+        "gliding toward her as she holds the frosted-silver bottle to her collarbone, the "
+        "pale-silver silk breathing and ground-mist drifting past her ankles; she lifts her "
+        "eyes to lens with a soft serene smile.",
+        "The push continues as she begins a graceful quarter-turn, a soft cool highlight "
+        "travelling the silk; gaze easing to lens, lashes soft.",
+        "She settles mid-turn, weight rolling onto the front foot, a serene ethereal calm "
+        "holding as dewdrops glint on a gossamer strand behind.",
+    ),
+    # F2 - full-figure transform, slightly low angle (arc following the web lacing up)
+    (
+        "Full-figure from a slightly low angle: a slow controlled arc is already rising as "
+        "the first fine gossamer strands spin out across the hem and begin to lace; gaze "
+        "tracking the spinning threads, eyes brightening.",
+        "The arc rides the lacing up her body as the silk spins itself strand by strand into "
+        "intricate web-lace and dewdrops bead along the threads; an awed breath, brows "
+        "lifting in wonder.",
+        "The last threads lace and the dew-jewelled gown settles as the arc eases; a cool "
+        "luminous look landing, eyes alight on the beaded web.",
+    ),
+    # F3 - beauty close, product-at-face / essence (6% push to face)
+    (
+        "Beauty close, chest-up at a three-quarter: a slow push toward her face is already "
+        "gliding in as she presses a few drops of pearlescent essence into her palms, the "
+        "liquid catching moonlight; eyes lowered to her hands.",
+        "She presses and pats both palms gently over her cheeks and jaw and a fresh cool "
+        "dewy sheen blooms, the push settling; a serene smile beginning.",
+        "She lowers her hands a touch and lifts her eyes, the dew-web glinting, a cool "
+        "refreshed calm in her gaze.",
+    ),
+    # F4 - beauty close, direct address (SPOKEN)
+    (
+        "Beauty close, chest-up squared to lens: the camera is already settled on a "
+        "barely-there push as her eyes find the lens with a knowing calm smile, the bottle "
+        "presented at her chest.",
+        "She delivers \u201cwoven by moonlight.\u201d with natural lip-sync and a gentle brow "
+        "lift, eyes bright and direct, the moonlit garden cool behind.",
+        "The smile lands and holds with a calm blink, gaze staying eye-to-eye.",
+    ),
+    # F5 - full-figure magical hero, dew-orb bloom (majestic push + boom-rise)
+    (
+        "Full-figure magical hero from a slightly low angle: a slow majestic push-in with a "
+        "gentle boom-rise is already lifting as a dewdrop at her heart kindles with a cool "
+        "inner starlight; gaze drawn to the kindling drop.",
+        "The boom keeps rising as the light sweeps across the dew-web and the dewdrops lift "
+        "free as a shimmer of floating luminous dew-orbs, the gown blazing; eyes lifting "
+        "into the light, a radiant awe blooming.",
+        "The dew-orbs and motes drift out, easing to a sustained cool halo as the move "
+        "settles; her radiant smile landing, eyes serene and haloed.",
+    ),
+    # F6 - loop close, matched to F1 (settle-back)
+    (
+        "Medium-full three-quarter hero matching Frame 1: a slow settle-back is already "
+        "easing the framing toward the opening position as the cool glow fades and the last "
+        "dew-orbs drift down; she returns the bottle to her collarbone, gaze softening.",
+        "The pull continues as her smile eases to the soft poise of the opening and the "
+        "dew-jewelled web softens back toward the pale-silver silk's stillness; eyes "
+        "calming.",
+        "She lifts her eyes softly to the lens, landing precisely on the Frame 1 pose, "
+        "weight settled in the dew garden \u2014 a seamless loop seam.",
+    ),
+]
+
+
 def build_block(beats):
     # Replaces ONLY the `SUBJECT ACTION WITH TIMING:` header + its bullet beat
     # lines. Ends with a single trailing newline so the original blank line
