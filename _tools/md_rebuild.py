@@ -2229,6 +2229,255 @@ BEATS[7] = [
 ]
 
 
+BEATS[8] = [
+    # F1 - establishing medium-wide thigh-up, front, slow push-in (ivory hook)
+    (
+        "Medium-wide thigh-up in the all-ivory editorial world: a slow push-in is already "
+        "gliding toward her as she settles her weight onto the back leg and rests her right "
+        "hand soft at her sternum as if to breathe, one clean specular travelling down the "
+        "pristine ivory lapel; gaze composed and cool.",
+        "The push continues as a strand-edge of the sleek straight centre-part fall shifts a "
+        "millimetre in the studio air and she lifts her cool gaze to lens on a slow inhale, a "
+        "composed editorial quarter-smile settling.",
+        "She holds, pure and poised in the ivory hush, the twin catchlight crisp, one brow a "
+        "hair higher, eyes direct and architectural (silent here).",
+    ),
+    # F2 - medium close chest-up, hand at sternum, descending settle + drift
+    (
+        "Medium close chest-up: a slow descending settle paired with a faint drift toward the "
+        "sternum is already easing in as she rests her hand flat-soft at her chest and gently "
+        "spreads her fingers as if feeling the breath; gaze cast soft down to the hand.",
+        "The move settles as the first faint colour begins to pool deep in the ivory weave by "
+        "real ink-in-water capillary diffusion and her gaze softens with quiet focus, a "
+        "composed micro-smile holding.",
+        "She holds the still poised beat, eyes calm on the hand, the ivory still pure but "
+        "charged, the deep weave just breathing colour.",
+    ),
+    # F3 - START keyframe, medium three-quarter, slow lateral arc to anchor
+    (
+        "Medium chest-up at the transform anchor: a slow lateral arc is already easing around "
+        "to a three-quarter angle as she presses her hand soft at the sternum and draws a "
+        "slow breath, her left hand easing open; gaze beginning to lift.",
+        "The arc settles as her gaze lifts to lens with rising spark and a knowing micro-smile "
+        "forms, the deep ivory weave charging and the first magenta, cobalt and emerald "
+        "tendrils blooming faint at the hem and cuff like ink threading through water.",
+        "The colour-pool tightens and brightens at the edges, cueing the riot, her gaze steady "
+        "and bright as the bloom arms.",
+    ),
+    # F4 - hero, energized medium, orbit through the ink bloom
+    (
+        "Energized medium: from the breath the slow push is already easing into a smooth "
+        "gentle orbit as a saturated colour blooms out through the ivory along one travelling "
+        "wavefront and her hand eases off the sternum; gaze lifting into the flood.",
+        "The orbit rides the hero beat as the ink-wash races across the fabric and the sleek "
+        "straight fall catches travelling colour, deep magenta, cobalt and emerald diffusing "
+        "through the weave by true ink-in-water capillary spread (face clear and cleanly lit, "
+        "identity locked, no garish glare); eyes widening in playful editorial awe.",
+        "The bloom settles along its wavefront and the colour-riot resolves toward the reveal "
+        "as the orbit eases; a bold alive spark landing in her eyes.",
+    ),
+    # F5 - END reveal, medium close, orbit eases to push
+    (
+        "Medium close chest-up: the orbit is already easing back to a slow push as the "
+        "colour-riot settles and she reaches up to adjust the now colour-flooded lapel with an "
+        "easy roll of the shoulder; gaze easing to lens.",
+        "The push settles as a bold confident smile eases to lens on a slow breath, the last "
+        "colour-droplets settling with a rich glint and a clean specular sliding the saturated "
+        "lapel.",
+        "She holds the bold alive editorial look, the colour set sitting sharp, eyes shining "
+        "direct with the crisp twin catchlight.",
+    ),
+    # F6 - spoken, medium chest-up, slow push, 6deg turn
+    (
+        "Medium chest-up: a slow push is already gliding in as she shifts her weight with an "
+        "easy six-degree turn and opens her right hand in a relaxed bold gesture; gaze direct "
+        "to lens.",
+        "She delivers \u201cColor was always the point.\u201d to lens with a bold knowing "
+        "smile and natural lip-sync, the colour-pop earring swinging a hair, eyes warm and "
+        "direct.",
+        "She holds the assured editorial look as the colour set settles, the smile easing into "
+        "bold calm.",
+    ),
+    # F7 - perfect-loop close, medium-wide matched to F1
+    (
+        "Medium-wide thigh-up matching Frame 1: the orbit is already easing to rest as a slow "
+        "push resolves toward the opening framing and she returns her right hand to rest soft "
+        "at the sternum, settling her weight onto the back leg exactly as in Frame 1.",
+        "The push settles as she eases her cool gaze back to lens on a slow breath with the "
+        "composed calm micro-smile, the colour-riot resolving back toward the all-ivory "
+        "opening palette.",
+        "She lands precisely on the Frame 1 pose and gaze, pure and poised \u2014 a seamless "
+        "loop seam.",
+    ),
+]
+
+
+BEATS[9] = [
+    # F1 - establishing medium-wide thigh-up, water-skin floor, slow push-in
+    (
+        "Medium-wide thigh-up in the dark futurist studio on the black water-skin floor: a "
+        "slow push-in is already gliding toward her as she settles her weight onto the back "
+        "leg and rests her right hand soft at her collarbone, one cool specular travelling "
+        "down the matte graphite bodice; gaze composed and cool.",
+        "The push continues as a strand-edge of the high sleek pony shifts in the studio air "
+        "and she lifts her cool gaze to lens on a slow inhale, a composed architectural "
+        "quarter-smile settling, faint vapour drifting low.",
+        "She holds, cool and sculptural, her mirror reflection breathing in the water-skin, "
+        "one brow a hair higher, eyes direct (silent here).",
+    ),
+    # F2 - medium close chest-up, hand lifting to cresting chrome, push + tilt-up
+    (
+        "Medium close chest-up: a slow push with a faint tilt-up is already following her hand "
+        "as she lifts it soft toward the chrome cresting above and opens her fingers as if to "
+        "receive it; gaze rising toward the crest.",
+        "The move rides the lift as the first liquid-chrome bead gathers above her by real "
+        "surface tension, a mirror highlight cresting at its meniscus, and her eyes brighten "
+        "with quiet anticipation, a composed micro-smile holding.",
+        "She holds the poised beat, gaze up on the gathering chrome, the matte set still "
+        "clean, the mirror-bead trembling above.",
+    ),
+    # F3 - START keyframe, medium three-quarter, slow arc to anchor
+    (
+        "Medium chest-up at the transform anchor: a slow lateral arc is already easing around "
+        "to a three-quarter angle as she raises her hand soft to receive the chrome and draws "
+        "a slow breath, her left hand easing open; gaze lifting.",
+        "The arc settles as her gaze lifts to lens with rising spark and a knowing micro-smile "
+        "forms, the chrome cresting and tipping above by real fluid surface tension and the "
+        "first mirror-tendrils gathering at the shoulder.",
+        "The chrome tips to pour and the water-skin mirror-brightens at the edges, cueing the "
+        "wrap, her gaze steady and bright.",
+    ),
+    # F4 - hero, energized medium, orbit through the chrome wrap
+    (
+        "Energized medium: from the crest the slow push is already easing into a smooth gentle "
+        "orbit as the liquid chrome pours down and wraps her in one travelling spiral and her "
+        "hand eases from receiving it; gaze following the wrap.",
+        "The orbit rides the hero beat as mirror-light races around the bodice and the high "
+        "sleek pony catches travelling chrome, the metal pouring and setting with believable "
+        "fluid spread and inertia, mirrored true in the water-skin (face clear and cleanly "
+        "lit, identity locked, no garish glare); eyes luminous with cool awe.",
+        "The wrap sets to a sculptural chrome sash-and-collar and resolves toward the reveal "
+        "as the orbit eases; a strong fluid resolve landing in her eyes.",
+    ),
+    # F5 - END reveal, medium close, orbit eases to push
+    (
+        "Medium close chest-up: the orbit is already easing back to a slow push as the chrome "
+        "sets and she reaches to settle the mirror-chrome sash with an easy roll of the "
+        "shoulder; gaze easing to lens.",
+        "The push settles as a strong confident smile eases to lens on a slow breath, the last "
+        "chrome-droplets settling with a slow mirror glint and a specular sliding the sash.",
+        "She holds the strong fluid architectural look, the chrome sitting sharp over the "
+        "matte, eyes shining direct with the cool catchlight.",
+    ),
+    # F6 - spoken, medium chest-up, slow push, 6deg turn
+    (
+        "Medium chest-up: a slow push is already gliding in as she shifts her weight with an "
+        "easy six-degree turn and opens her right hand in a relaxed strong gesture; gaze "
+        "direct to lens.",
+        "She delivers \u201cI flow. I don\u2019t break.\u201d to lens with a strong knowing "
+        "smile and natural lip-sync, the chrome collar catching travelling light on its real "
+        "planes, eyes direct.",
+        "She holds the assured architectural look as the chrome set settles, the smile easing "
+        "into strong calm.",
+    ),
+    # F7 - perfect-loop close, medium-wide matched to F1
+    (
+        "Medium-wide thigh-up matching Frame 1: the orbit is already easing to rest as a slow "
+        "push resolves toward the opening framing and she returns her right hand to rest soft "
+        "at the collarbone, settling her weight onto the back leg exactly as in Frame 1.",
+        "The push settles as she eases her cool gaze back to lens on a slow breath with the "
+        "composed calm micro-smile, the chrome wrap resolving back toward the matte graphite "
+        "opening, the light bar re-settling cool.",
+        "She lands precisely on the Frame 1 pose and gaze, cool and sculptural on the "
+        "water-skin \u2014 a seamless loop seam.",
+    ),
+]
+
+
+BEATS[10] = [
+    # F1 - establishing medium-wide thigh-up, hand near folded-paper flower, slow push
+    (
+        "Medium-wide thigh-up in the handmade paper-craft world: a slow push-in is already "
+        "gliding toward her as she settles her weight onto the back leg and rests her right "
+        "hand soft near a folded-paper flower at her shoulder, one soft warm specular "
+        "travelling down the origami-pleated bodice; gaze warm and composed.",
+        "The push continues as a curtain-fringe strand shifts in the soft air and she lifts "
+        "her warm gaze to lens on a slow inhale, a soft romantic quarter-smile settling, fine "
+        "paper-dust drifting in the key.",
+        "She holds, soft and crafted in the gentle hush, the warm catchlight soft, the folded "
+        "flower trembling on its slim stem behind (silent here).",
+    ),
+    # F2 - medium close chest-up, cradling the folded flower, push + drift
+    (
+        "Medium close chest-up: a slow push with a faint drift toward the flower is already "
+        "easing in as she cradles the folded-paper flower soft and curls her fingers gently "
+        "around the stem; gaze cast soft to it.",
+        "The move settles as the flower\u2019s first crease eases open in her hand by real "
+        "paper-fold mechanics and her gaze softens with tender focus, a soft micro-smile "
+        "holding.",
+        "She holds the still tender beat, eyes warm on the unfolding flower, the paper world "
+        "still folded but beginning to breathe.",
+    ),
+    # F3 - START keyframe, medium three-quarter, slow arc to anchor
+    (
+        "Medium chest-up at the transform anchor: a slow lateral arc is already easing around "
+        "to a three-quarter angle as she opens her hand soft as the flower unfolds and draws a "
+        "slow breath, her left hand easing open; gaze lifting.",
+        "The arc settles as her gaze lifts to lens with rising warmth and a knowing soft smile "
+        "forms, the folded paper unfolding into the first soft petals and petal-tendrils "
+        "blooming faint at the hem and shoulder by real crease-to-petal mechanics.",
+        "The first petals form and the floor warms at the edges, cueing the burst, her gaze "
+        "bright and tender.",
+    ),
+    # F4 - hero, energized medium, orbit through the petal burst
+    (
+        "Energized medium: from the unfold the slow push is already easing into a smooth "
+        "gentle orbit as the folded paper bursts into soft real petals that wrap her in one "
+        "travelling arc and her hand eases open; gaze lifting into the bloom.",
+        "The orbit rides the hero beat as warm rose and blush petals flutter across the pleats "
+        "and the tousled shag catches travelling petals, the paper bursting to petals with "
+        "believable flutter spread and inertia, fine petal-dust drifting like real flecks "
+        "(face clear and cleanly lit, identity locked, no garish glare); eyes warming in soft "
+        "awe.",
+        "The burst settles along its arc and the petal-bloom resolves toward the reveal as the "
+        "orbit eases; a soft radiant warmth landing in her eyes.",
+    ),
+    # F5 - END reveal, medium close, orbit eases to push
+    (
+        "Medium close chest-up: the orbit is already easing back to a slow push as the petal "
+        "bloom settles and she reaches to settle a petal at her shoulder with an easy roll of "
+        "the shoulder; gaze easing to lens.",
+        "The push settles as a soft radiant smile eases to lens on a slow breath, the last "
+        "petals settling with a slow soft drift and a soft specular sliding the petal pleats.",
+        "She holds the soft alive tender look, the petal dress sitting soft, eyes shining "
+        "direct with the warm catchlight.",
+    ),
+    # F6 - spoken, medium chest-up, slow push, 6deg turn
+    (
+        "Medium chest-up: a slow push is already gliding in as she shifts her weight with an "
+        "easy six-degree turn and opens her right hand in a relaxed tender gesture; gaze warm "
+        "to lens.",
+        "She delivers \u201cUnfold. Then bloom.\u201d to lens with a soft radiant smile and "
+        "natural lip-sync, the real-petal hairpiece trembling a hair at her temple, eyes warm "
+        "and direct.",
+        "She holds the alive tender look as the petal dress settles, the smile easing into "
+        "soft warmth.",
+    ),
+    # F7 - perfect-loop close, medium-wide matched to F1
+    (
+        "Medium-wide thigh-up matching Frame 1: the orbit is already easing to rest as a slow "
+        "push resolves toward the opening framing and she returns her right hand to rest soft "
+        "near the folded-paper flower, settling her weight onto the back leg exactly as in "
+        "Frame 1.",
+        "The push settles as she eases her warm gaze back to lens on a slow breath with the "
+        "composed calm micro-smile, the petal wrap resolving back toward the folded-paper "
+        "opening, the flower re-settling on its stem.",
+        "She lands precisely on the Frame 1 pose and gaze, soft and crafted in the gentle "
+        "hush \u2014 a seamless loop seam.",
+    ),
+]
+
+
 def build_block(beats):
     return (
         BREAKDOWN_HEADER + "\n"
