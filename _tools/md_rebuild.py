@@ -1496,6 +1496,268 @@ BEATS[46] = [
 ]
 
 
+BEATS[47] = [
+    (
+        "Medium close chest-up in the fluid-art studio: a slow push-in is already gliding "
+        "toward her as she tilts the clear bottle a few degrees into the key, chrome "
+        "speculars sliding along the cap and the galaxy liquid swirling inside with gold "
+        "flecks drifting; gaze lowered to the bottle, a paint ribbon curling slow behind "
+        "her.",
+        "The push continues as she lifts her deep gaze to lens on a soft inhale and a "
+        "mesmerized quarter-smile blooms, glossy jewel-tone swirls behind.",
+        "She holds, deep and mesmerized, her single face clear and locked, eyes rich, a "
+        "paint ribbon curling across the gloss.",
+    ),
+    (
+        "Medium close: the slow push continues with a faint tilt-up already following her "
+        "hand as she raises the pigment applicator near her cheekbone and glides a glossy "
+        "galaxy-toned pigment along the high point, a jewel glint travelling; gaze deep.",
+        "The first paint ribbon pours and curls near her shoulder, her eyes deepening with "
+        "mesmerized focus (her single face stays clear and locked).",
+        "The pigment settles to a glossy sheen, a ribbon curling, lashes lowering in "
+        "mesmerized calm.",
+    ),
+    (
+        "Medium chest-up: a slow arc is already drifting around her as she lowers the "
+        "applicator a touch and glossy galaxy paint ribbons pour and gather into a marbled "
+        "swirl; gaze following the threading gold veins.",
+        "The arc eases round as the ribbons thread with gold veins and curl tighter, her "
+        "eyes deepening with mesmerized wonder.",
+        "The swirl tightens and glints richer, cueing the pour, her gaze lifting a degree.",
+    ),
+    (
+        "Energized medium-wide: the push is already easing into a smooth gentle orbit as the "
+        "galaxy paint ribbons pour and swirl in slow marbled arcs and she opens her arms; "
+        "gaze tracing the swirling ribbons.",
+        "The orbit rides the hero beat as the ribbons swirl glossy around her and the "
+        "slicked hair and top catch travelling jewel light (her single face clear and "
+        "ribbon-framed, never paint-covered); eyes deepening in mesmerized awe.",
+        "The swirl settles and the ribbons resolve as the orbit eases; a radiant "
+        "ribbon-framed look landing, her single face clear, eyes rich.",
+    ),
+    (
+        "Medium close: a slow push is already gliding in as she eases her hands open and the "
+        "swirl resolves into a glossy marbled halo around her; gaze deep to lens.",
+        "She delivers \u201cI'm a work of art.\u201d to lens with a mesmerized confident "
+        "smile, eyes rich and direct, her single face clear and locked.",
+        "She holds the radiant ribbon-framed look as the last ribbons drift slow, the smile "
+        "easing into deep calm.",
+    ),
+    (
+        "Medium close matching Frame 1: a slow push is already resolving toward the exact "
+        "opening framing as she re-cradles the clear bottle and tilts it into the key, "
+        "chrome speculars sliding along the cap and the galaxy liquid swirling inside; gaze "
+        "lowering to the bottle.",
+        "The push settles as she eases her deep gaze back to lens on a soft breath with the "
+        "mesmerized quarter-smile, the fluid-art studio resolving to the opening; eyes "
+        "calming.",
+        "She lands precisely on the Frame 1 pose and gaze, a paint ribbon curling \u2014 a "
+        "seamless loop seam.",
+    ),
+]
+
+BEATS[48] = [
+    (
+        "Medium close chest-up in the summer-dusk meadow: a slow push-in is already gliding "
+        "toward her as she tilts the amber bottle a few degrees into the warm key, brass "
+        "speculars sliding along the cap and the honey-gold oil settling; gaze lowered to "
+        "the bottle, a firefly drifting slow behind her.",
+        "The push continues as she lifts her warm gaze to lens on a soft inhale and a tender "
+        "quarter-smile blooms, warm-on-cool dusk light around her.",
+        "She holds, tender and nostalgic, her single face clear and locked, eyes warm, a "
+        "firefly drifting across the dusky field.",
+    ),
+    (
+        "Medium close: the slow push continues with a faint tilt-up already following her "
+        "hand as she raises the glow-oil dropper near her cheekbone and glides a warm "
+        "honey-gold sheen along the high point, a warm glint travelling; gaze warm.",
+        "The first fireflies drift in near her shoulder, her eyes warming with tender focus "
+        "(her single face stays clear and locked).",
+        "The sheen settles warm on her cheekbone, a firefly drifting, lashes lowering in "
+        "tender calm.",
+    ),
+    (
+        "Medium chest-up: a slow arc is already drifting around her as she lowers the dropper "
+        "a touch and warm golden fireflies drift in and gather into a glowing swarm; gaze "
+        "following the pulsing swarm.",
+        "The arc eases round as the swarm thickens and pulses warm, her eyes warming with "
+        "tender wonder.",
+        "The swarm tightens and glows richer, cueing the swarm-wrap, her gaze lifting a "
+        "degree.",
+    ),
+    (
+        "Energized medium-wide: the push is already easing into a smooth gentle orbit as the "
+        "warm fireflies swirl into slow tender arcs and she opens her arms; gaze lifting "
+        "into the swarm.",
+        "The orbit rides the hero beat as the swarm wraps warm around her and the soft waves "
+        "and knit catch travelling golden light (her single face clear and firefly-framed, "
+        "never firefly-covered); eyes warming in tender wonder.",
+        "The swarm settles and the fireflies resolve as the orbit eases; a tender radiant "
+        "look landing, her single face clear, eyes warm.",
+    ),
+    (
+        "Medium close: a slow push is already gliding in as she eases her hands open and the "
+        "swarm resolves into a soft glowing firefly-halo around her; gaze warm to lens.",
+        "She delivers \u201cI carry my own light.\u201d to lens with a tender confident "
+        "smile, eyes warm and direct, her single face clear and locked.",
+        "She holds the radiant firefly-framed look as the last fireflies drift slow, the "
+        "smile easing into tender warmth.",
+    ),
+    (
+        "Medium close: a slow push is already gliding in as she eases into a warm closed-lip "
+        "afterglow smile and the fireflies drift soft around her; gaze tender to lens.",
+        "The push holds as she holds a tender gaze to lens with a slow soft blink, the "
+        "bottle resting at her collarbone; eyes warm and wistful.",
+        "She holds the tender afterglow look, fireflies drifting soft, her single face clear "
+        "and locked.",
+    ),
+    (
+        "Medium close matching Frame 1: a slow push is already resolving toward the exact "
+        "opening framing as she re-cradles the amber bottle and tilts it into the warm key, "
+        "brass speculars sliding along the cap and the honey-gold oil settling; gaze "
+        "lowering to the bottle.",
+        "The push settles as she eases her warm gaze back to lens on a soft breath with the "
+        "wistful quarter-smile, the dusk meadow resolving to the opening; eyes calming.",
+        "She lands precisely on the Frame 1 pose and gaze, a firefly drifting \u2014 a "
+        "seamless loop seam.",
+    ),
+]
+
+BEATS[49] = [
+    (
+        "Medium close chest-up in the cozy snow-globe cabin: a slow push-in is already "
+        "gliding toward her as she tilts the round globe-jar a few degrees into the warm "
+        "key, silver speculars sliding along the base and the frosted-pearl balm catching a "
+        "soft glint; gaze lowered to the jar, snow drifting slow at the window behind her.",
+        "The push continues as she lifts her warm gaze to lens on a soft inhale and a cozy "
+        "quarter-smile blooms, warm amber lamp-glow meeting cool snow-blue.",
+        "She holds, warm and cozy, her single face clear and locked, eyes soft, snow drifting "
+        "at the window.",
+    ),
+    (
+        "Medium close: the slow push continues with a faint tilt-up already following her "
+        "hand as she raises the frost-shimmer balm on a fingertip near her cheekbone and "
+        "glides a soft frosted-pearl sheen along the high point, a silver glint travelling; "
+        "gaze warm.",
+        "The first snowflakes lift and drift near her shoulder, her eyes warming with cozy "
+        "focus (her single face stays clear and locked).",
+        "The sheen settles to a frosted pearl, a snowflake drifting, lashes lowering in cozy "
+        "calm.",
+    ),
+    (
+        "Medium chest-up: a slow arc is already drifting around her as she lowers the jar a "
+        "touch and glittering snowflakes lift and gather into a swirling flurry; gaze "
+        "following the silver glints.",
+        "The arc eases round as the flurry thickens and glints silver, her eyes warming with "
+        "magical wonder.",
+        "The flurry tightens and swirls richer, cueing the shake, her gaze lifting a degree.",
+    ),
+    (
+        "Energized medium-wide: the push is already easing into a smooth gentle orbit as the "
+        "scene shakes like a snow-globe and the glittering snow lifts and spirals into slow "
+        "magical arcs and she opens her arms; gaze lifting into the flurry.",
+        "The orbit rides the hero beat as the snow swirls cozy around her and the braid and "
+        "knit catch travelling silver light (her single face clear and snow-framed, never "
+        "snow-covered); eyes warming in magical wonder.",
+        "The flurry settles and the snow resolves as the orbit eases; a cozy radiant look "
+        "landing, her single face clear, eyes warm.",
+    ),
+    (
+        "Medium close: a slow push is already gliding in as she eases her hands open and the "
+        "flurry resolves into a soft glowing snow-halo around her; gaze warm to lens.",
+        "She delivers \u201cthe magic's already inside.\u201d to lens with a cozy magical "
+        "smile, eyes warm and direct, her single face clear and locked.",
+        "She holds the radiant snow-framed look as the last snowflakes drift slow, the smile "
+        "easing into cozy warmth.",
+    ),
+    (
+        "Medium close matching Frame 1: a slow push is already resolving toward the exact "
+        "opening framing as she re-cradles the globe-jar and tilts it into the warm key, "
+        "silver speculars sliding along the base and the frosted-pearl balm settling; gaze "
+        "lowering to the jar.",
+        "The push settles as she eases her warm gaze back to lens on a soft breath with the "
+        "wistful quarter-smile, the cozy cabin resolving to the opening; eyes calming.",
+        "She lands precisely on the Frame 1 pose and gaze, snow drifting at the window "
+        "\u2014 a seamless loop seam.",
+    ),
+]
+
+BEATS[50] = [
+    (
+        "Medium close chest-up in the dark studio of rising embers: a slow push-in is already "
+        "gliding toward her as she tilts the flame-bottle a few degrees into the warm key, "
+        "gold speculars sliding along the cap and the molten-amber elixir settling; gaze "
+        "lowered to the bottle, embers rising slow behind her.",
+        "The push continues as she lifts her gaze to lens on a soft inhale and a triumphant "
+        "quarter-smile blooms, molten-gold rim-light on her.",
+        "She holds, radiant and triumphant, her single face clear and locked, eyes bright, "
+        "embers rising across the charcoal void.",
+    ),
+    (
+        "Medium close: the slow push continues with a faint tilt-up already following her "
+        "hand as she raises the radiance elixir on a fingertip near her cheekbone and glides "
+        "a soft warm-glow sheen along the high point, a gold glint travelling; gaze warm.",
+        "The first embers lift and rise near her shoulder, her eyes warming with triumphant "
+        "focus (her single face stays clear and locked).",
+        "The sheen settles warm on her cheekbone, an ember rising, lashes lowering in "
+        "resolve.",
+    ),
+    (
+        "Medium chest-up: a slow arc is already drifting around her as she lowers the bottle "
+        "a touch and glowing embers lift and gather into the first phoenix-feather wing "
+        "forms; gaze following the gathering wings.",
+        "The arc eases round as the embers thicken and glint gold, her eyes warming with "
+        "triumphant resolve.",
+        "The wing-forms tighten and brighten, cueing the rise, her gaze lifting a degree.",
+    ),
+    (
+        "Energized medium-wide: the push is already easing into a smooth gentle orbit as the "
+        "embers stream upward and unfurl into great glowing phoenix-feather wings and she "
+        "opens and lifts her arms; gaze rising with the wings.",
+        "The orbit rides the hero beat as the wings unfurl triumphant around her and the "
+        "updo and gown catch travelling gold light (her single face clear and ember-framed, "
+        "never ember-covered); eyes blazing in triumphant awe.",
+        "The rise crests and the embers resolve as the orbit eases; a radiant triumphant "
+        "look landing, her single face clear, eyes alight.",
+    ),
+    (
+        "Medium close: a slow push is already gliding in as she eases her hands down and the "
+        "rise resolves into a soft glowing ember-halo around her; gaze radiant to lens.",
+        "She delivers \u201cI always rise.\u201d to lens with a triumphant radiant smile, "
+        "eyes bright and direct, her single face clear and locked.",
+        "She holds the radiant ember-framed look as the last embers drift slow, the smile "
+        "holding triumphant and warm.",
+    ),
+    (
+        "Medium close: a slow push is already gliding in as she eases into a warm assured "
+        "closed-lip afterglow smile and the embers drift soft around her; gaze proud to "
+        "lens.",
+        "The push holds as she holds a proud gaze to lens with a slow soft blink, the bottle "
+        "resting at her collarbone; eyes warm and assured.",
+        "She holds the proud afterglow look, embers drifting soft, her single face clear and "
+        "locked.",
+    ),
+    (
+        "Medium close: a slow push is already gliding in as she raises the flame-bottle to a "
+        "proud hero-present beside her cheek, embers drifting soft around it; gaze warm to "
+        "lens.",
+        "The push holds as she eases a warm triumphant smile to lens, the gold cap catching "
+        "a clean specular as the bottle holds; eyes bright.",
+        "She holds the proud hero-present, the bottle glinting, eyes radiant and direct.",
+    ),
+    (
+        "Medium close matching Frame 1: a slow push is already resolving toward the exact "
+        "opening framing as she re-cradles the flame-bottle and tilts it into the warm key, "
+        "gold speculars sliding along the cap and the molten-amber elixir settling; gaze "
+        "lowering to the bottle.",
+        "The push settles as she eases her bright gaze back to lens on a soft breath with the "
+        "composed quarter-smile, the ember studio resolving to the opening; eyes calming.",
+        "She lands precisely on the Frame 1 pose and gaze, embers rising slow \u2014 a "
+        "seamless loop seam and a triumphant set-closing button.",
+    ),
+]
+
+
 def build_block(beats):
     return (
         BREAKDOWN_HEADER + "\n"
