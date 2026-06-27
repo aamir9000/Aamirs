@@ -932,6 +932,70 @@ BEATS[14] = [
 ]
 
 
+BEATS[15] = [
+    # Frame 1 - wide establishing, turntable centre
+    (
+        "Wide establishing of the ice-palace music box: she is already standing at the "
+        "centre of the mirrored turntable slipping on a crystal-heel slipper as a slow "
+        "drift-in and crane-down move toward her, gilded gears turning overhead; gaze calm "
+        "and dreamy.",
+        "The crane settles as she lifts the giant golden wind-key, snow-glitter falling "
+        "around her; eyes warming with anticipation.",
+        "She sets the key to wind and the gears engage with a glint, gaze rising to the "
+        "slow-turning gears above.",
+    ),
+    # Frame 2 - macro on winding key (no face)
+    (
+        "Extreme macro: her hands are already gripping the giant golden wind-key as a slow "
+        "push closes in, gears catching gold glints behind.",
+        "She turns the key and the gears engage, teeth meshing with a frosted shimmer.",
+        "A final wind-click lands as the mirrored turntable begins to spin beneath her.",
+    ),
+    # Frame 3 - profile medium, rising onto toes
+    (
+        "Profile medium: she is already rising onto her toes like a music-box figurine as "
+        "the turntable begins to spin her and a slow arc swings from profile toward "
+        "three-quarter; tulle drifting, gaze lifting.",
+        "Her arms lift into the figurine pose as the turntable spins, the arc easing round; "
+        "a serene dreamy calm in her eyes.",
+        "She begins the spin into the crystallise, gaze sweeping with the turn, lips parting "
+        "softly.",
+    ),
+    # Frame 4 - front-on full/wide hero, spin-freeze crystal transform
+    (
+        "Front-on full/wide hero, spinning centred: she is already reaching the spin apex as "
+        "a smooth orbit glides around her, snow-glitter trailing; gaze bright with the "
+        "turn.",
+        "Frost races across the gown and crystallises it into the frosted couture gown of "
+        "frozen light as the orbit keeps gliding through the suspended glitter; eyes "
+        "widening in dreamy awe, lips parting.",
+        "Her arms open and a radiant awed smile lands, curls and snow-glitter fanning "
+        "outward, eyes luminous.",
+    ),
+    # Frame 5 - 3/4 back over-shoulder medium, wind-down + glance
+    (
+        "Three-quarter back over-shoulder medium: she is already slowing from the spin in "
+        "the frosted gown as a tracking arc trails her, the frost-train streaming and the "
+        "box winding down; gaze ahead.",
+        "The arc catches her as she rotates her torso and glances back to lens, gear-glints "
+        "warm in her eyes, a soft serene smile.",
+        "She faces forward again as the turntable winds down, frost-light trailing, gaze "
+        "settling front.",
+    ),
+    # Frame 6 - wide loop close
+    (
+        "Wide matching Frame 1: a slow drift-out and crane-up is already reversing the "
+        "opening move as she settles back to the turntable centre; gaze lowering to the "
+        "mirror floor.",
+        "The drift continues as the frost-gown dissolves back into the pale-blue "
+        "velvet-and-tulle gown and the wind-key returns to her hand; a soft dreamy calm "
+        "returning.",
+        "She settles into the exact centre stance of Frame 1, eyes calm under the turning "
+        "gears \u2014 a seamless loop seam.",
+    ),
+]
+
+
 def build_block(beats):
     # Replaces ONLY the `SUBJECT ACTION w/ BEAT-TIMING:` header + its bullet
     # beat lines. Whatever follows (a blank line then SPOKEN LINE or

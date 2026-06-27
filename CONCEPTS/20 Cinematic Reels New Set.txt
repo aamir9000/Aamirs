@@ -7078,14 +7078,16 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE & ANGLE: wide, subject fills ~30%.
 
-CAMERA MOVEMENT (CHOREOGRAPHY): a slow drift-in and gentle crane-down toward her at the turntable centre, gimbal-smooth.
-
 LENS: 28mm, f/3.2.
 
-SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.2s — she stands at the centre, slipping on a slipper.
-- 2.2–4.4s — she lifts the giant wind-key.
-- 4.4–6.0s — she sets it to wind, gears engaging.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Wide establishing of the ice-palace music box: she is already standing at the centre of the mirrored turntable slipping on a crystal-heel slipper as a slow drift-in and crane-down move toward her, gilded gears turning overhead; gaze calm and dreamy.
+- [00:02–00:04] The crane settles as she lifts the giant golden wind-key, snow-glitter falling around her; eyes warming with anticipation.
+- [00:04–00:06] She sets the key to wind and the gears engage with a glint, gaze rising to the slow-turning gears above.
+
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
+
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
 FLUIDITY & WEIGHT NOTES: the slipper-on and key-lift flow continuously from the core; the move leads from the shoulder — graceful, never static.
 
@@ -7152,14 +7154,16 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE & ANGLE: macro, detail fills ~70%.
 
-CAMERA MOVEMENT (CHOREOGRAPHY): a slow 4% push toward the key as she winds, locked otherwise.
-
 LENS: 100mm macro, f/2.8.
 
-SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.2s — her hands grip the key.
-- 2.2–4.2s — she turns it and the gears engage.
-- 4.2–6.0s — a final wind-click as the turntable begins to spin.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Extreme macro: her hands are already gripping the giant golden wind-key as a slow push closes in, gears catching gold glints behind.
+- [00:02–00:04] She turns the key and the gears engage, teeth meshing with a frosted shimmer.
+- [00:04–00:06] A final wind-click lands as the mirrored turntable begins to spin beneath her.
+
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
+
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
 FLUIDITY & WEIGHT NOTES: the wind is crisp and continuous; the fingers articulate cleanly; no jerk.
 
@@ -7226,14 +7230,16 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE & ANGLE: profile medium, subject fills ~55%.
 
-CAMERA MOVEMENT (CHOREOGRAPHY): a slow arc from profile toward three-quarter as the turntable spins her, smooth.
-
 LENS: 50mm, f/2.2.
 
-SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.2s — she rises onto her toes.
-- 2.2–4.2s — arms lift into the figurine pose as the turntable spins.
-- 4.2–6.0s — she begins the spin into the crystallise.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Profile medium: she is already rising onto her toes like a music-box figurine as the turntable begins to spin her and a slow arc swings from profile toward three-quarter; tulle drifting, gaze lifting.
+- [00:02–00:04] Her arms lift into the figurine pose as the turntable spins, the arc easing round; a serene dreamy calm in her eyes.
+- [00:04–00:06] She begins the spin into the crystallise, gaze sweeping with the turn, lips parting softly.
+
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
+
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
 FLUIDITY & WEIGHT NOTES: the rise, the port-de-bras, the spin flow as one continuous ballerina phrase; no stiffness.
 
@@ -7300,14 +7306,16 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE & ANGLE: front-on full/wide hero, subject fills ~55%, spinning centred.
 
-CAMERA MOVEMENT (CHOREOGRAPHY): a smooth orbit that SLOWS at the apex as the gown crystallises, then eases on — a music-box bullet-time.
-
 LENS: 35mm, f/2.8.
 
-SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.7s — she reaches the spin apex.
-- 1.7–4.0s — the frost crystallises the gown.
-- 4.0–6.0s — arms open, a radiant awed smile, curls fanning.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Front-on full/wide hero, spinning centred: she is already reaching the spin apex as a smooth orbit glides around her, snow-glitter trailing; gaze bright with the turn.
+- [00:02–00:04] Frost races across the gown and crystallises it into the frosted couture gown of frozen light as the orbit keeps gliding through the suspended glitter; eyes widening in dreamy awe, lips parting.
+- [00:04–00:06] Her arms open and a radiant awed smile lands, curls and snow-glitter fanning outward, eyes luminous.
+
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
+
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
 FLUIDITY & WEIGHT NOTES: one unbroken spinning bloom — the spin leads from the core, arms unfurl last; momentum carries continuously — supremely fluid, never a dead stop.
 
@@ -7374,14 +7382,16 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE & ANGLE: three-quarter back over-shoulder medium, subject fills ~50%.
 
-CAMERA MOVEMENT (CHOREOGRAPHY): a smooth tracking arc behind her as the turntable slows, catching the glance, gimbal-stable.
-
 LENS: 50mm, f/1.8.
 
-SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.2s — she slows from the spin, frost-train trailing.
-- 2.2–4.2s — she rotates her torso and glances back to lens.
-- 4.2–6.0s — she faces forward again, the box winding down.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Three-quarter back over-shoulder medium: she is already slowing from the spin in the frosted gown as a tracking arc trails her, the frost-train streaming and the box winding down; gaze ahead.
+- [00:02–00:04] The arc catches her as she rotates her torso and glances back to lens, gear-glints warm in her eyes, a soft serene smile.
+- [00:04–00:06] She faces forward again as the turntable winds down, frost-light trailing, gaze settling front.
+
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
+
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
 FLUIDITY & WEIGHT NOTES: the glance is a fluid spinal rotation, head leading, returning naturally; the slow-down eases continuously; the body counter-rotates softly.
 
@@ -7448,14 +7458,16 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE & ANGLE: wide matching Frame 1, subject ~30%.
 
-CAMERA MOVEMENT (CHOREOGRAPHY): a slow drift-out and crane-up reversing Frame 1's drift-in, so the end pose meets the opening centre.
-
 LENS: 28mm, f/3.2.
 
-SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.3s — she settles back to the centre.
-- 2.3–4.7s — the frost-gown dissolves back to the pale-blue gown and the wind-key returns to her hand.
-- 4.7–6.0s — she settles into the Frame 1 stance.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Wide matching Frame 1: a slow drift-out and crane-up is already reversing the opening move as she settles back to the turntable centre; gaze lowering to the mirror floor.
+- [00:02–00:04] The drift continues as the frost-gown dissolves back into the pale-blue velvet-and-tulle gown and the wind-key returns to her hand; a soft dreamy calm returning.
+- [00:04–00:06] She settles into the exact centre stance of Frame 1, eyes calm under the turning gears — a seamless loop seam.
+
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
+
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
 FLUIDITY & WEIGHT NOTES: the settle-back is a smooth core-led motion; the reverse-crystallise flows as a gentle frost-wipe; the reset reads as natural continuation, not a rewind.
 
