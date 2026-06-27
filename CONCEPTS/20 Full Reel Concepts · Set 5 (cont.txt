@@ -698,13 +698,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: medium close, chest-up, subject fills 55% of the vertical frame.
 
-CAMERA MOVEMENT: a single slow 8% push-in across the clip, otherwise locked-off and stable — one move only, no whip, no handoff.
-
 LENS: 50mm, f/2.8, smooth creamy background fall-off.
 
-SUBJECT ACTION WITH TIMING:
-- 0.0–3.0s — Aira tilts the cobalt bottle a few degrees into the key light, specular glints sliding along the glass and the clear oil settling inside.
-- 3.0–6.0s — she lifts her eyes to the lens on a soft inhale as the knowing asymmetric quarter-smile blooms. One clean subject action, real physics throughout.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Medium close chest-up: a slow push-in is already gliding toward her as she tilts the cobalt bottle a few degrees into the key, specular glints sliding along the glass and the clear oil settling inside; gaze lowered to the glass.
+- [00:02–00:04] The push continues as she lifts her eyes to lens on a soft inhale and a knowing asymmetric quarter-smile blooms, the cobalt-and-marigold colour-block crisp behind.
+- [00:04–00:06] She holds, bold and composed, one brow a hair higher, eyes bright and direct (silent — no words).
 
 LIGHTING: clamshell beauty key with lifted clean fill; live moving speculars travelling across glass and skin as the bottle tips; colour-block cyclorama held one stop down; hair-light steady on the glass bob.
 
@@ -712,9 +711,9 @@ ENVIRONMENT: bold cobalt/marigold colour-block studio, high-gloss floor reflecti
 
 AUDIO (no spoken word): diegetic only, no in-clip music. Ambient bed — low cool studio room tone throughout. SFX — a soft glass-tap as her fingers settle on the bottle at 0.4s (gentle attack, short tail), a faint satin fabric shift at 3.1s, a light airy pop-shimmer accent at 4.6s timed to the eye-lift. Reaction — a soft audible breath at 3.0s. NO voice-over.
 
-DURATION: 5 seconds (0:00–0:05 of 30s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps acquisition, 180° shutter, natural motion blur on the bottle tilt; playback 24fps real-time.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — lips closed/softly parted, composed.
 
@@ -777,14 +776,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: medium, waist-up, subject fills 60% of the vertical frame.
 
-CAMERA MOVEMENT: a slow steady 6% push paired with a gentle 4° arc following the colour-front as it travels, smooth and motivated — one continuous move, no whip, no cut, no handoff.
-
 LENS: 50mm, f/2.8, creamy background fall-off, focus locked on the near eye and bodice edge.
 
-SUBJECT ACTION WITH TIMING:
-- 0.0–1.5s — a warm radiant heat-bloom ignites at the shoulder and a clean diagonal colour-shift front begins sweeping across the gown, cobalt blooming into marigold.
-- 1.5–4.0s — the wave travels fully across the torso as Aira lifts her spread hand to trail it, the silhouette re-sculpting (shoulder sharpening, peplum forming), her eyes widening in wonder.
-- 4.0–6.0s — the colour sets fully marigold-and-cobalt, one last specular ribbon races down the new seam and the look locks, her chin lifting a degree as the bloom settles. Real physics throughout — fabric, hair and liquid all obey momentum; face stays pin-locked.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Medium waist-up: a slow 6% push paired with a gentle 4° arc is already following the colour-front as a warm heat-bloom ignites at her shoulder and a clean diagonal colour-shift begins sweeping the gown, cobalt blooming into marigold; gaze tracking the front.
+- [00:02–00:04] The move rides the wave fully across the torso as she lifts a spread hand to trail it and the silhouette re-sculpts, the shoulder sharpening and a peplum forming; eyes widening in wonder.
+- [00:04–00:06] The colour sets fully marigold-and-cobalt and one last specular ribbon races down the new seam as the look locks; her chin lifting a degree as the bloom settles.
 
 LIGHTING: clamshell beauty key locked on the face; a warm radiant practical wash riding the travelling colour-front; intensified hair-light on the lifted bob; cyclorama one stop down; live moving speculars on the re-sculpting seam.
 
@@ -792,9 +789,9 @@ ENVIRONMENT: bold cobalt/marigold colour-block studio, warm radiant glow floodin
 
 AUDIO (no spoken word): diegetic only, no in-clip music. Ambient bed — low cool studio room tone. SFX — a soft warm whoosh-bloom rising and sweeping left-to-right across the stereo field 0.0–4.0s tracking the colour-front (airy, no harsh transient), a fine crystalline shimmer-sparkle layer riding the boundary, a soft satin re-sculpt rustle at 2.2s, a gentle settling chime-pop at 5.6s as the colour locks. Reaction — a soft awe breath at 1.4s. NO voice-over.
 
-DURATION: 6 seconds (0:05–0:11 of 30s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps acquisition, 180° shutter, natural motion blur on the sweep and hand; playback 24fps real-time.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — lips parted in wonder, no speech.
 
@@ -855,13 +852,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: macro product, bottle and wrist swatch filling the upper frame.
 
-CAMERA MOVEMENT: a slow 5% macro push with a tiny rack-focus pull from the bottle label to the wrist bloom, smooth and motivated — one move, no cut, no handoff.
-
 LENS: 100mm macro, f/4, creamy bokeh beyond the product plane.
 
-SUBJECT ACTION WITH TIMING:
-- 0.0–2.4s — the dropper releases one clear bead onto the inner wrist, surface tension holding then breaking as it touches skin.
-- 2.4–6.0s — the oil blooms outward into a vivid marigold-coral swatch as the rack-focus pulls from label to bloom and a soft specular travels along the cobalt glass. Real fluid physics, clean and controlled.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Macro product, bottle and wrist swatch filling the upper frame: a slow 5% macro push with a tiny rack-focus is already underway as the dropper releases one clear bead onto the inner wrist, surface tension holding then breaking as it touches skin.
+- [00:02–00:04] The oil blooms outward into a vivid marigold-coral swatch as the rack-focus pulls from the label to the bloom and a soft specular travels the cobalt glass.
+- [00:04–00:06] The swatch settles rich on the wrist, the bottle soft behind, the colour vivid and controlled.
 
 LIGHTING: raking softbox modelling the glass; clean lifted fill on the wrist; subtle rim separating bottle from the creamy ground; live moving specular on the glass.
 
@@ -869,9 +865,9 @@ ENVIRONMENT: marigold/cobalt colour-block studio melting to creamy bokeh, gloss 
 
 AUDIO (no spoken word): diegetic only, no in-clip music. Ambient bed — low cool studio room tone. SFX — a single soft oil-drip release at 1.0s (delicate liquid plip, short tail), a faint glass-handling shift at 0.2s, a subtle airy shimmer accent at 2.6s as the bloom spreads. NO voice-over.
 
-DURATION: 5 seconds (0:11–0:16 of 30s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps acquisition, 180° shutter, natural motion blur on the drip and bloom; playback 24fps real-time.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — no speech.
 
@@ -932,13 +928,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: full-length to three-quarter low angle, subject fills 70% of the vertical frame.
 
-CAMERA MOVEMENT: a slow vertical tilt-up travelling from the marigold heels to the face, with a gentle 4% push, smooth and motivated — one continuous move, no cut, no handoff.
-
 LENS: 35mm, f/4, near-full sharpness with creamy background fall-off.
 
-SUBJECT ACTION WITH TIMING:
-- 0.0–2.4s — Aira rolls her weight onto the platform heel, the cobalt sole-flash catching light as the camera tilts up from the shoes.
-- 2.4–6.0s — her hand settles on the peplum and she lifts her eyes to the lens on the confident under-look as the cool quarter-smile blooms. Real physics, grounded balance throughout.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Full-length three-quarter low angle: a slow vertical tilt-up with a gentle 4% push is already travelling up from the marigold heels as she rolls her weight onto the platform, the cobalt sole-flash catching light.
+- [00:02–00:04] The tilt rises as her hand settles on the peplum and the gown catches travelling light; gaze beginning to lift on a confident under-look.
+- [00:04–00:06] The tilt lands on her face as she meets the lens, a cool quarter-smile blooming, weight grounded and balanced.
 
 LIGHTING: raking full-figure key; lifted clean fill; rim separating the silhouette; live travelling speculars on the patent and cuff; cyclorama one stop down.
 
@@ -946,9 +941,9 @@ ENVIRONMENT: bold cobalt/marigold colour-block studio, high-gloss floor reflecti
 
 AUDIO (no spoken word): diegetic only, no in-clip music. Ambient bed — low cool studio room tone. SFX — a soft platform-heel settle on the gloss floor at 0.7s (rounded low tap, short tail), a faint satin shift at 2.6s as the hand settles, a light airy shimmer accent at 4.3s timed to the eye-lift, a subtle resin-hoop tick at 1.2s. Reaction — a soft breath at 2.4s. NO voice-over.
 
-DURATION: 5 seconds (0:16–0:21 of 30s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps acquisition, 180° shutter, natural motion blur on the tilt and weight-shift; playback 24fps real-time.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — no speech.
 
@@ -1011,14 +1006,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: medium-wide, full upper body and raised arms, subject fills 62% of the vertical frame.
 
-CAMERA MOVEMENT: a slow steady 5% pull-back to reveal the expanding rings, perfectly stable, one continuous move — no whip, no cut, no handoff.
-
 LENS: 35mm, f/3.2, crisp rings with soft glow-bloom on leading edges.
 
-SUBJECT ACTION WITH TIMING:
-- 0.0–1.8s — Aira raises the cobalt bottle and the first radial colour-pulse detonates outward in a clean cobalt-marigold ring.
-- 1.8–4.2s — successive concentric shockwave rings expand at constant speed, re-painting the studio as they pass, her free hand lifting palm-out to feel them, eyes widening.
-- 4.2–6.0s — the rings reach the frame edge and dissipate into pinprick motes as her confident half-smile locks. Pure light physics — flawless concentric geometry, face pin-locked, no debris.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Medium-wide with raised arms: a slow steady 5% pull-back is already revealing the space as she raises the cobalt bottle and the first radial colour-pulse detonates outward in a clean cobalt-marigold ring; gaze lifting to the ring.
+- [00:02–00:04] The pull-back rides the burst as successive concentric shockwave rings expand at constant speed, re-painting the studio as they pass and her free hand lifting palm-out to feel them; eyes widening in awe.
+- [00:04–00:06] The rings reach the frame edge and dissipate into pinprick motes as the pull-back eases; her confident half-smile locking, eyes alight.
 
 LIGHTING: clamshell beauty key locked on the face; the travelling rings acting as moving coloured practicals; intensified hair-light on the lifted bob; cyclorama one stop down between pulses.
 
@@ -1026,9 +1019,9 @@ ENVIRONMENT: bold cobalt/marigold colour-block studio re-painted by expanding ri
 
 AUDIO (no spoken word): diegetic only, no in-clip music. Ambient bed — low cool studio room tone. SFX — a soft deep airy pulse-whoomp at 0.5s as the first ring fires (rounded sub-bloom, no harsh transient), a fine crystalline shimmer-sweep riding each expanding ring, a delicate sparkle-scatter at 4.3s as the rings dissipate into motes. Reaction — a soft awe breath at 1.7s. NO voice-over.
 
-DURATION: 5 seconds (0:21–0:26 of 30s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps acquisition, 180° shutter, natural motion blur on the arms; the rings expand crisp with light-trail glow; playback 24fps real-time.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — lips parted in awe, no speech.
 
@@ -1091,13 +1084,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: medium close, chest-up, subject fills 55% of the vertical frame — matching Frame 1.
 
-CAMERA MOVEMENT: a slow 8% push-in settling to the exact Frame 1 framing, locked-off and stable — one move only, no whip, no handoff — so the last frame matches the first for a seamless loop.
-
 LENS: 50mm, f/2.8, smooth creamy background fall-off.
 
-SUBJECT ACTION WITH TIMING:
-- 0.0–3.0s — the last colour-pulse mote fades behind her as Aira cradles the cobalt bottle back to collarbone height, the amber-clear oil settling inside.
-- 3.0–6.0s — she holds the knowing asymmetric quarter-smile direct to lens on a soft held breath, the studio returned to its opening calm, every element resolving to the Frame 1 pose for an invisible cut. Real physics, living stillness, face pin-locked.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Medium close chest-up matching Frame 1: a slow 8% push-in is already settling toward the exact opening framing as the last colour-pulse mote fades behind her; she cradles the cobalt bottle back to collarbone height, the clear oil settling inside.
+- [00:02–00:04] The push settles as she holds the knowing asymmetric quarter-smile direct to lens on a soft held breath, the studio returning to its opening calm; eyes calming.
+- [00:04–00:06] Every element resolves to the Frame 1 pose, framing locked for an invisible cut — a seamless loop seam.
 
 LIGHTING: clamshell beauty key with lifted clean fill exactly as Frame 1; gentle moving speculars sliding across the glass as the bottle settles; cyclorama one stop down; hair-light steady on the glass bob.
 
@@ -1105,9 +1097,9 @@ ENVIRONMENT: bold cobalt/marigold colour-block studio restored to opening calm, 
 
 AUDIO (no spoken word): diegetic only, no in-clip music. Ambient bed — low cool studio room tone resolving to match the opening. SFX — a last fading shimmer-tail at 0.6s as the final mote dissipates, a soft glass-settle as fingers cradle the bottle at 2.4s (gentle attack, short tail), a faint satin shift at 3.9s. Reaction — a soft slow breath at 3.0s. NO voice-over. The final bar resolves cleanly onto the downbeat that opens Frame 1.
 
-DURATION: 4 seconds (0:26–0:30 of 30s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps acquisition, 180° shutter, natural motion blur on the settle; playback 24fps real-time.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — lips closed/softly parted, composed.
 
@@ -1149,13 +1141,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: medium close, chest-up, subject fills 55% of the vertical frame.
 
-CAMERA MOVEMENT: a single slow 8% push-in across the clip, otherwise locked-off and stable — one move only, no whip, no handoff.
-
 LENS: 50mm, f/2.8, smooth creamy background fall-off.
 
-SUBJECT ACTION WITH TIMING:
-- 0.0–3.0s — Aira tilts the cobalt bottle a few degrees into the key light, specular glints sliding along the glass and the clear oil settling inside.
-- 3.0–6.0s — she lifts her eyes to the lens on a soft inhale as the knowing asymmetric quarter-smile blooms. One clean subject action, real physics throughout.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Medium close chest-up: a slow push-in is already gliding toward her as she tilts the cobalt bottle a few degrees into the key, specular glints sliding along the glass and the clear oil settling inside; gaze lowered to the glass.
+- [00:02–00:04] The push continues as she lifts her eyes to lens on a soft inhale and a knowing asymmetric quarter-smile blooms, the cobalt-and-marigold colour-block crisp behind.
+- [00:04–00:06] She holds, bold and composed, one brow a hair higher, eyes bright and direct (silent — no words).
 
 LIGHTING: clamshell beauty key with lifted clean fill; live moving speculars travelling across the cobalt glass and skin as the bottle tips; colour-block cyclorama held one stop down; hair-light steady on the glass bob.
 
@@ -1163,9 +1154,9 @@ ENVIRONMENT: bold cobalt/marigold colour-block studio, faint atmospheric glow, h
 
 AUDIO (no spoken word): diegetic only, no in-clip music. Ambient bed — low warm studio room tone throughout. SFX — a soft glass-tap as her fingers settle on the bottle at 0.4s (gentle attack, short tail), a faint satin fabric shift at 3.1s, a light airy pop-shimmer accent at 4.6s timed to the eye-lift. Reaction — a soft audible breath at 3.0s. NO voice-over.
 
-DURATION: 5 seconds (0:00–0:05 of 30s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps acquisition, 180° shutter, natural motion blur on the bottle tilt; playback 24fps real-time.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — lips closed/softly parted, composed.
 

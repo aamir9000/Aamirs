@@ -113,6 +113,84 @@ BEATS[79] = [
 ]
 
 
+BEATS[80] = [
+    # F1 - medium close chest-up (push-in)
+    (
+        "Medium close chest-up: a slow push-in is already gliding toward her as she tilts the "
+        "cobalt bottle a few degrees into the key, specular glints sliding along the glass "
+        "and the clear oil settling inside; gaze lowered to the glass.",
+        "The push continues as she lifts her eyes to lens on a soft inhale and a knowing "
+        "asymmetric quarter-smile blooms, the cobalt-and-marigold colour-block crisp behind.",
+        "She holds, bold and composed, one brow a hair higher, eyes bright and direct "
+        "(silent \u2014 no words).",
+    ),
+    # F2 - medium waist-up TRANSFORM (6% push + 4deg arc, thermochromic colour-shift)
+    (
+        "Medium waist-up: a slow 6% push paired with a gentle 4\u00b0 arc is already following "
+        "the colour-front as a warm heat-bloom ignites at her shoulder and a clean diagonal "
+        "colour-shift begins sweeping the gown, cobalt blooming into marigold; gaze tracking "
+        "the front.",
+        "The move rides the wave fully across the torso as she lifts a spread hand to trail "
+        "it and the silhouette re-sculpts, the shoulder sharpening and a peplum forming; eyes "
+        "widening in wonder.",
+        "The colour sets fully marigold-and-cobalt and one last specular ribbon races down "
+        "the new seam as the look locks; her chin lifting a degree as the bloom settles.",
+    ),
+    # F3 - macro product, 5% macro push + rack-focus (label->wrist bloom)
+    (
+        "Macro product, bottle and wrist swatch filling the upper frame: a slow 5% macro "
+        "push with a tiny rack-focus is already underway as the dropper releases one clear "
+        "bead onto the inner wrist, surface tension holding then breaking as it touches "
+        "skin.",
+        "The oil blooms outward into a vivid marigold-coral swatch as the rack-focus pulls "
+        "from the label to the bloom and a soft specular travels the cobalt glass.",
+        "The swatch settles rich on the wrist, the bottle soft behind, the colour vivid and "
+        "controlled.",
+    ),
+    # F4 - full-length low angle, vertical tilt-up (heels->face) + 4% push
+    (
+        "Full-length three-quarter low angle: a slow vertical tilt-up with a gentle 4% push "
+        "is already travelling up from the marigold heels as she rolls her weight onto the "
+        "platform, the cobalt sole-flash catching light.",
+        "The tilt rises as her hand settles on the peplum and the gown catches travelling "
+        "light; gaze beginning to lift on a confident under-look.",
+        "The tilt lands on her face as she meets the lens, a cool quarter-smile blooming, "
+        "weight grounded and balanced.",
+    ),
+    # F5 - medium-wide MAGIC, 5% pull-back (concentric colour-pulse rings)
+    (
+        "Medium-wide with raised arms: a slow steady 5% pull-back is already revealing the "
+        "space as she raises the cobalt bottle and the first radial colour-pulse detonates "
+        "outward in a clean cobalt-marigold ring; gaze lifting to the ring.",
+        "The pull-back rides the burst as successive concentric shockwave rings expand at "
+        "constant speed, re-painting the studio as they pass and her free hand lifting "
+        "palm-out to feel them; eyes widening in awe.",
+        "The rings reach the frame edge and dissipate into pinprick motes as the pull-back "
+        "eases; her confident half-smile locking, eyes alight.",
+    ),
+    # F6 - perfect-loop close (8% push-in to F1)
+    (
+        "Medium close chest-up matching Frame 1: a slow 8% push-in is already settling toward "
+        "the exact opening framing as the last colour-pulse mote fades behind her; she "
+        "cradles the cobalt bottle back to collarbone height, the clear oil settling inside.",
+        "The push settles as she holds the knowing asymmetric quarter-smile direct to lens "
+        "on a soft held breath, the studio returning to its opening calm; eyes calming.",
+        "Every element resolves to the Frame 1 pose, framing locked for an invisible cut "
+        "\u2014 a seamless loop seam.",
+    ),
+    # F7 - stray duplicate Frame-1 block at file end (kept consistent with F1)
+    (
+        "Medium close chest-up: a slow push-in is already gliding toward her as she tilts the "
+        "cobalt bottle a few degrees into the key, specular glints sliding along the glass "
+        "and the clear oil settling inside; gaze lowered to the glass.",
+        "The push continues as she lifts her eyes to lens on a soft inhale and a knowing "
+        "asymmetric quarter-smile blooms, the cobalt-and-marigold colour-block crisp behind.",
+        "She holds, bold and composed, one brow a hair higher, eyes bright and direct "
+        "(silent \u2014 no words).",
+    ),
+]
+
+
 def build_block(beats):
     return (
         BREAKDOWN_HEADER + "\n"
