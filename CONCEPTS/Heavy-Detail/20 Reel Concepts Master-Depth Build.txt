@@ -63,7 +63,7 @@ Footwear: STEEL — architectural mirror-polished pewter pointed pumps with a sc
 
 Accessories: STEEL — a single sculptural silver ear-cuff and a brushed-steel wide cuff bracelet on the right wrist; SILK — a fine freshwater-pearl drop earring and a delicate champagne-gold thread bracelet; one piece visible at a time, never cluttered.
 
-Movement (one impossible move): the steel-to-silk dissolve transform — her liquid-metal gown and the air around her dissolve from polished steel into flowing champagne silk in a single sweeping wave (locked transform keyframes: START Frame 3 → END Frame 5).
+Movement (one impossible move): the steel-to-silk dissolve transform — her liquid-metal gown and the air around her dissolve from polished steel into flowing champagne silk in a single sweeping wave. The change occurs MID-CLIP inside Frame 4 at a HELD angle (the clip opens fully in steel, the dissolve crosses in its middle, and it plays out resolved in champagne silk); the camera may travel with her but never shifts its angle during the change. Every frame join is a hard CUT to a new angle/crop (the cut masks any slight variation and reads as intentional editing), and Frame 5's image carries the exact resolved champagne-silk look that Frame 4 ends on. Frames 1–3 = steel Look A, Frame 4 = the transform clip (opens steel), Frames 5–7 = champagne silk Look B.
 
 Concept Line: "Steel to silk. Same power, softer edge."
 
@@ -137,9 +137,9 @@ SHOT TYPE: medium-wide, thigh-up, subject fills about 55% of the vertical frame.
 LENS: 35mm, f/2.2, smooth cool background fall-off.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Medium-wide thigh-up in the steel studio: a slow push-in is already gliding toward her as she settles her weight onto the back leg and rests her right hand on her hip with the brushed-steel cuff forward, the composed quarter-smile holding; ice-blue speculars travelling the gunmetal gown.
-- [00:02–00:04] The push continues as one face-framing finger-wave shifts in the cool draft, her cool gaze beginning to lift; a steel-calm holding at the outer eye.
-- [00:04–00:06] She lifts her cool gaze to lens on a soft inhale, the composed powerful quarter-smile settling, eyes direct and architectural.
+- [00:00–00:02] Cut to a medium-wide thigh-up tracking shot in the steel studio: the camera dollies laterally to settle on her as she steps her weight onto the back leg and sets her right hand to her hip with the brushed-steel cuff forward, the gunmetal panels sliding behind with real parallax; one ice-blue specular travelling the bodice.
+- [00:02–00:04] The track eases to rest as a face-framing finger-wave shifts in the cool draft and her cool gaze begins to lift, a composed powerful quarter-smile settling.
+- [00:04–00:06] She holds the architectural steel look, eyes direct and cool, the specular sliding the polished gunmetal (silent here).
 
 OBJECT ACTION WITH TIMING: 0.0–6.0s — one ice-blue specular travels slowly down the polished gunmetal bodice and a hairline glint slides along the brushed cuff as the wrist settles; fine dust drifts through the north-light shaft behind her. Environmental motion only, no object pop-in.
 
@@ -215,9 +215,9 @@ SHOT TYPE: medium close, chest-up, subject and raised cuff fill about 58% of the
 LENS: 85mm, f/2.0.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Medium close, chest-up: the slow push continues with a faint tilt-up already following her right wrist as she raises it near the collarbone and turns the steel cuff into the cool key; gaze lowering toward the cuff.
-- [00:02–00:04] The tilt rides the cuff as an ice-blue specular travels the brushed steel, her gaze cooling with quiet focus and a knowing micro-smile kindling.
-- [00:04–00:06] The first faint dissolve heat-shimmer breathes at the hem, her eyes steady on the cuff, lips parting a millimetre in composed anticipation.
+- [00:00–00:02] Cut to a medium-close three-quarter on the cuff: she is already raising her right wrist toward her collarbone and turning the brushed-steel cuff into the cool key as the camera pushes with the wrist; gaze lowering to the steel.
+- [00:02–00:04] An ice-blue specular travels the turning cuff as her gaze cools with quiet focus and a knowing micro-smile kindles.
+- [00:04–00:06] She studies the steel cuff, eyes steady and cool, lips parting a millimetre in composed calm — still fully steel.
 
 OBJECT ACTION WITH TIMING: 0.0–4.5s — an ice-blue specular travels along the brushed cuff as it turns, and the first faint heat-shimmer breathes at the gown's hem; dust drifts behind. Environmental and worn-object motion only, no pop-in.
 
@@ -241,11 +241,11 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ### Frame 3 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the locked START keyframe of the steel-to-silk dissolve — face fully recognizable, still the cool steel look, the gunmetal surface just beginning to shimmer and soften at the edges. Lock this START so Frame 4's sweep interpolates cleanly to the full silk END (Frame 5).
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. SHOT NOTE: a clean steel-look (Look A) beat at its OWN cut/angle — the cool gunmetal still fully intact and pristine; the dissolve does NOT happen here (it happens mid-clip inside Frame 4). Build quiet composed anticipation only; this is one of the three steel frames before the change.
 
 EYE COLOUR: warm dark-brown irises with faint amber flecks, a crisp twin catchlight, gaze lifting to lens with rising calm, locked to reference.
 
-WARDROBE: the gunmetal gown at its sharpest polish, continuity-locked, the surface beginning to ripple with the imminent dissolve at the hem and cuff-line, fully modest, pristine, zero snags.
+WARDROBE: the gunmetal gown at its sharpest mirror-polish, continuity-locked, fully modest, pristine, zero snags (still pure steel — the dissolve is held for Frame 4).
 
 HAIR: the deep side-part finger waves, continuity-locked, the S-bends catching the rim brightly as the air begins to warm, deep lacquered sheen, colour locked.
 
@@ -270,13 +270,13 @@ LIGHTING: KEY — cool beauty key feathered above-front, the first warm spill cr
 FRAMING: ASPECT 9:16; medium, chest-up, 11% headroom, the rippling hem entering the lower third, clean negative space camera-left to receive the sweep.
 SUBJECT FRAMING & POSITION: A medium framing holds Aira at about 11% headroom, the rippling hem entering the lower third within the steel-to-silk transformation world of gunmetal panels warming into silk. Her torso is turned about five degrees to open the right shoulder in a near-frontal address, with her weight on the back leg over a soft hip counter-tilt and the front shoulder dropped a touch. The camera holds a mid distance with the figure centred and clean clean negative space held camera-left. She faces front to the lens, composed and alive in the beat. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
-LENS + DOF + BOKEH: 50mm, f/2.0; focus split between her near eye and the rippling shoulder so both read crisp; the panels melting to a smooth field; soft blooms off the first warm motes; gentle roll-off, no clipping. (Camera distance locked here as the transform anchor.)
+LENS + DOF + BOKEH: 50mm, f/2.0; focus split between her near eye and the rippling shoulder so both read crisp; the panels melting to a smooth field; soft blooms off the first warm motes; gentle roll-off, no clipping.
 
-COMPOSITION REFERENCE: the suspended build beat — steel ripples and warm motes gather, the dissolve clearly imminent (cause building to effect).
+COMPOSITION REFERENCE: the poised steel build beat — composed and architectural, the change held back for the Frame-4 clip.
 
 ATMOSPHERE: cool-warming, charged, serene — the suspended instant before steel becomes silk.
 
-COLOR GRADE: cool gunmetal grade just beginning a warm bleed at the edges — ice-blue cores, the first champagne warmth creeping in, clean uncrushed blacks, full mid-tone, no harsh contrast.
+COLOR GRADE: cool gunmetal-and-platinum steel grade — ice-blue speculars, brushed silver, clean uncrushed blacks, full mid-tone, no harsh contrast (no warm bleed yet).
 
 TEXTURE & MICRO-DETAIL: the gunmetal shows a real rippling optical shimmer (refraction, not glitch); the first silk-light motes read as soft warm flecks; real skin micro-texture with peach-fuzz catching the rim; dust drifting through the beam.
 
@@ -290,12 +290,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: medium, chest-up, subject and rippling gown fill about 60% of the vertical frame.
 
-LENS: 50mm, f/2.0, smooth background fall-off. (Transform-anchor distance — matches Frames 4 and 5.)
+LENS: 50mm, f/2.0, smooth background fall-off.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Medium chest-up: a slow push is already tracking the rippling gunmetal hem as she eases both hands open from her body, palms turning up; gaze beginning to lift.
-- [00:02–00:04] The push holds as her gaze lifts to lens with rising calm and a serene micro-smile forms, the metal surface beginning to shimmer.
-- [00:04–00:06] The gunmetal surface ripples and brightens, cueing the dissolve, her gaze steady and serene as the change arms.
+- [00:00–00:02] Cut to a medium chest-up on a fresh three-quarter angle: she eases both hands open from her body, palms turning up, drawing a slow composed breath as the camera arcs a few degrees and the panels swing behind with parallax; gaze beginning to lift.
+- [00:02–00:04] The arc settles as her gaze lifts to lens with rising calm and a serene knowing micro-smile forms, the gunmetal still at its sharpest cool polish.
+- [00:04–00:06] She holds the poised steel beat, hands open and ready, eyes calm and architectural — the composed breath before the change (silent here).
 
 OBJECT ACTION WITH TIMING: 0.0–6.0s — the gown's hem ripples with a slow optical shimmer and the first warm silk-light motes gather and brighten in the air around her; dust drifts behind. Environmental motion only, no pop-in.
 
@@ -319,46 +319,46 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ### Frame 4 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the one impossible move — the steel-to-silk dissolve sweep. LOCK the START (Frame 3, face clear, cool steel, surface rippling) and the END (Frame 5, fully champagne silk, warm after-look). Mid-sweep the face stays clear and recognizable, softly framed (never buried) by the dissolving wave; interpolate strictly between the locked keyframes — do NOT invent a new face, new hands or new bone structure beneath the dissolve. Warm and serene, true cloth-and-metal physics, painterly not chaotic.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the START frame of the transform CLIP — render her fully in the cool steel Look A (this is the exact still the Frame-4 video opens on). The steel-to-silk dissolve happens MID-CLIP in the video at this same HELD angle; the camera may push or travel with her but never rotates its angle through the change. The fully-resolved champagne-silk Look B is carried into Frame 5's image (the next cut). Do NOT depict the morph in this still and do NOT invent a new face, new hands or new bone structure beneath any effect.
 
-EYE COLOUR: warm dark-brown irises with faint amber flecks, luminous with serene awe, a crisp twin catchlight, locked to reference (eye colour holds through the transform).
+EYE COLOUR: warm dark-brown irises with faint amber flecks, a crisp twin catchlight from the cool key, gaze lifting into the move, locked to reference.
 
-WARDROBE (refined): the gunmetal gown dissolving at its richest as the sweep crosses — polished steel giving way to flowing champagne silk-satin in a single travelling wave, modest throughout, never revealing.
+WARDROBE: the structured liquid-metal gunmetal gown with its architectural sculpted shoulder, modest high neckline and long fitted sleeves at its sharpest mirror-polish, one travelling ice-blue specular sliding down the bodice as she opens her arms, fully modest, pristine, zero snags.
 
-HAIR: the deep side-part finger waves catching a sweeping ribbon of warming light mid-motion, the S-bends lit bright; colour locked beneath the sheen.
+HAIR: the deep side-part finger waves, glossy lacquered sheen, the S-bends falling to one shoulder and catching the crisp silver rim; colour locked to reference.
 
-MAKEUP: mid-sweep — the cool glass-skin warming to a champagne glow, the lid kindling from silver toward warm champagne, the lip enriching toward warm-rose; real pores beneath.
+MAKEUP: cool sculpted glass-skin — a soft silver-pewter lid, a clean sharp contour, a satin rose-nude lip, a pin-point inner-corner highlight, soft-set brows; skin dewy and real with visible pores and fine vellus texture.
 
-FOOTWEAR: mid-dissolve the pewter pumps soften toward champagne satin in the same travelling wave, continuity of shape held, grounded.
+FOOTWEAR: the architectural mirror-polished pewter pointed pumps with a sculpted block heel, grounded with a clean ice-blue floor reflection, glimpsed low.
 
-ACCESSORIES: the steel cuff dissolving toward the delicate champagne-gold thread bracelet and the ear-cuff toward the pearl drop, one piece resolving at a time.
+ACCESSORIES: the sculptural silver ear-cuff and the brushed-steel wide cuff bracelet on the right wrist, one cool glint at a time, never cluttered.
 
-HANDS & NAILS: both arms drifting open through the sweep, palms turning up as the silk wave crosses her skin; natural nail-bed colour shifting from silver-nude toward warm-nude, neat cuticles, no white-knuckle tension.
+HANDS & NAILS: both arms opening from the body, palms beginning to turn up as she lifts into the move, fingers naturally curved with relaxed nail-beds; short almond silver-nude nails, neat cuticles, no white-knuckle tension.
 
-FACIAL MICRO-DYNAMICS: eyes luminous with serene awe, a gentle parted-lip wonder, a clean warm calm — face clear and framed by the dissolving wave, identity strictly held to reference.
+FACIAL MICRO-DYNAMICS: eyes lifting with rising serene anticipation, lips parting on a held breath, a calm knowing micro-smile — composed and powerful, face fully recognizable and identity-locked, ready for the change to cross mid-clip.
 
-BODY POSTURE & WEIGHT: mid-dissolve the spine lengthens and the shoulders open serene, weight rolling smooth between the feet — grounded real physics, modest throughout.
+BODY POSTURE & WEIGHT: front-facing with the torso rotated about 4°, the spine lengthening and the shoulders opening as the weight rolls smooth between the feet, chin level — grounded real physics, alive and architectural.
 
-KINETIC STILLNESS (8 layers): (1) the dissolve wave sweeping across the gown in a warm arc at peak; (2) a warming shimmer racing across her cheek and collarbone; (3) the finger waves and fabric catching travelling warm light mid-sweep; (4) silk-light motes and fine dust sparkling through the field; (5) the satin nap blooming with warm highlight where steel was; (6) speculars multiplying along the dissolving edge; (7) the key blooming a touch warmer through the sweep; (8) her chest mid a slow awed breath.
+KINETIC STILLNESS (8 layers): (1) a face-framing wave shifting a millimetre in the cool draft; (2) one ice-blue specular sliding down the polished gunmetal bodice; (3) fine cool dust drifting through the north-light shaft behind her; (4) the cool key flickering imperceptibly off a panel edge; (5) chest rising on a soft inhale as she opens her arms; (6) a hairline glint travelling along the brushed-steel cuff; (7) the metallic fabric breathing with a micro-shift of highlight as her ribcage expands; (8) a slow eyelash settle completing a calm blink.
 
-SPATIAL LOGIC: FOREGROUND — a sweeping silk fold nearest lens, soft. MIDGROUND — Aira mid-sweep, the silk assembling, the hero. BACKGROUND — gunmetal panels warming to soft creamy falloff and a warm bloom.
+SPATIAL LOGIC: FOREGROUND — an opening hand and the steel cuff nearest lens at roughly 18% depth, soft. MIDGROUND — Aira centered, the steel hero at the start of the move. BACKGROUND — brushed gunmetal panels softly defocused with one cooler gradient behind her head for clean separation, no clutter.
 
-LIGHTING: KEY — beauty key warming brighter through the sweep. FILL — soft warm bounce below (gentle clamshell). RIM — a bright soft warm rim raking the dissolving wave and the waves (hero light on the motion). PRACTICAL — the shaft warming. SEPARATION — the sweep and faint warm haze. BOUNCE — soft kicks multiplying across the airborne motes.
+LIGHTING: KEY — a cool soft beauty key feathered above-front shaping sculptural cheekbone light. FILL — a soft cool bounce below (gentle clamshell). RIM — a crisp silver rim skimming the waves and the sculpted shoulder. PRACTICAL — the cool north-light shaft. SEPARATION — the panels pulled deep so she reads about 2 stops up. BOUNCE — a soft silver kick adding a glossy catch to the metallic gown.
 
-FRAMING: ASPECT 9:16; energized medium, Aira centered with the dissolve sweep filling the lower frame, 10% headroom, slight push for intimacy. (Camera distance locked to Frames 3 and 5.)
-SUBJECT FRAMING & POSITION: An energized medium framing opens around Aira at about 10% headroom as the dissolve sweep fills the lower frame, a slight push easing in. Her spine lengthens and her shoulders open as the weight rolls smooth between the feet in grounded real-physics motion. The camera holds a mid distance easing in for intimacy against the steel-to-silk transformation world of gunmetal panels warming into silk, Aira the centred hero at the heart of the move. She is centred with clean negative space held camera-left, lifted at the peak of the transform and facing front to the lens. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+FRAMING: ASPECT 9:16; energized medium, Aira centered with the steel gown filling the lower frame, 10% headroom, the opening pose of the move — its own distinct cut/angle.
+SUBJECT FRAMING & POSITION: An energized medium framing opens around Aira at about 10% headroom in the cool steel studio of gunmetal panels, the steel Look A fully intact as the transform clip begins. Her spine lengthens and her shoulders open as the weight rolls smooth between the feet in grounded real-physics motion. The camera holds a mid distance on its own fresh angle, a hard cut from Frame 3, with Aira the centred hero and clean negative space held camera-left, lifted at the start of the move and facing front to the lens. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
-LENS + DOF + BOKEH: 50mm, f/2.0; her face and the nearest sweeping silk tack sharp at the sweep-core, the closest fold melting into a soft creamy bokeh with warm specular blooms.
+LENS + DOF + BOKEH: 50mm, f/2.0; her face and the nearest steel detail tack sharp, the panels melting into a smooth cool field with soft speculars; gentle highlight roll-off, no clipping.
 
-COMPOSITION REFERENCE: the signature impossible beat — a steel-to-silk dissolve, warm and painterly, heightened but identity-locked (transform logic / identity-through-transform).
+COMPOSITION REFERENCE: the start of the signature beat — steel Look A, composed and architectural, the dissolve held for the video's mid-clip.
 
-ATMOSPHERE: serene, exhilarating, mind-bending — the moment steel becomes silk and the air warms around her.
+ATMOSPHERE: cool, charged, serene — the composed instant the transform clip begins.
 
-COLOR GRADE: a live cross-fade from cool gunmetal to warm champagne-and-pearl — ice-blue cores giving way to soft gold highlights, clean uncrushed blacks, true specularity, warm full mid-tone (no harsh contrast, no garish oversaturation).
+COLOR GRADE: cool gunmetal-and-platinum steel grade — ice-blue speculars, brushed silver, clean uncrushed blacks, full mid-tone, no harsh contrast, no oversaturation.
 
-TEXTURE & MICRO-DETAIL: the dissolving edge reads as real polished steel giving way to real silk-satin weave with true specular sheen; the warm shimmer reads as a real sheen on living skin; the satin shows a real flowing nap where the metal was; skin reads real with pores beneath the glow.
+TEXTURE & MICRO-DETAIL: the polished gunmetal shows crisp cool refractions with one travelling specular window; the brushed cuff reads as real grained steel; real skin micro-texture with peach-fuzz catching the silver rim; fine cool dust drifting through the beam.
 
-PHYSICS: true cloth-and-metal transition physics — steel rigidity giving way to silk drape and sway with believable weight and inertia; the sweep obeys a single warming key; face geometry constant; no melting, no invented anatomy.
+PHYSICS: gravity-true gown drape and hair fall; the specular tracks a single cool key; dust drifts on slow convection; weight visibly grounded through both feet — no floating, no stiffness.
 
 NEGATIVE: mirrored, flipped, inverted, extra limbs, fused fingers, melted features, asymmetric eyes (unintentional), garbled text, floating shadows, duplicated subjects, low-res patches, plastic skin, over-smoothed skin, oversharpened, AI-generated artifacts, watermarks, signature, deformed hands, malformed teeth, joint cuts at ankle/knee/wrist/elbow/neck, amputated fingertips, cross-eyed, lazy eye, off-axis pupils, melted clothing, mismatched footwear, mannequin-stiff posture, dead eyes, statue-frozen energy, crushed muddy blacks, garish oversaturation, flat dull light, inventing a new face beneath the dissolve, eye-colour drift, sexualization, de-aging.
 
@@ -368,12 +368,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: energized medium of the steel-to-silk dissolve sweep (the hero move).
 
-LENS: 50mm, f/2.0. (Transform-anchor distance — matches Frames 3 and 5.)
+LENS: 50mm, f/2.0.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Energized medium: the push is already easing into a smooth gentle orbit as the steel-to-silk dissolve wave sweeps across her gown in a warm arc and she opens her arms; gaze lifting into the sweep.
-- [00:02–00:04] The orbit rides the hero beat as a warming shimmer races across her and the fabric and finger-waves catch travelling light, gunmetal giving to champagne silk (face clear, framed by the sweep, identity locked); eyes warming in serene awe.
-- [00:04–00:06] The sweep settles and the silk resolves as the orbit eases toward the reveal; a soft warmth landing in her eyes.
+- [00:00–00:02] Cut to an energized medium at a HELD angle: she opens her arms in the polished gunmetal gown, already in motion, a gentle push-with easing toward her — fully steel, the air just beginning to warm (the angle stays fixed through this clip).
+- [00:02–00:04] Mid-clip the steel-to-silk dissolve races across her in one travelling warm wavefront — gunmetal giving way to flowing champagne silk-satin, the steel cuff resolving to a champagne-gold thread bracelet and a warming shimmer crossing her skin (angle holds, no rotation; face clear and identity locked); eyes warming in serene awe.
+- [00:04–00:06] The clip plays out fully resolved in the champagne silk-satin column gown with its soft modest cowl neckline and liquid drape, the freshwater-pearl drop earring and champagne-gold bracelet set, warm champagne light on dewy real skin; a soft serene warmth landing in her eyes.
 
 OBJECT ACTION WITH TIMING: 0.0–6.0s — the gunmetal gown converts to flowing champagne silk along one travelling wavefront, the steel cuff resolves to a thread bracelet and the pewter pumps to satin, silk-light motes sparkle through the field. One coherent transform, no extra objects, no pop-in.
 
@@ -397,7 +397,7 @@ NEGATIVE: morphing, warping, identity drift, limb teleport, object pop-in, frame
 
 ### Frame 5 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the locked END keyframe of the steel-to-silk dissolve; it must resolve continuously out of the START keyframe in Frame 3 — same face, same hands, same camera distance, the steel now settled into flowing champagne silk. Do NOT invent a new face, new hands or new bone structure; this is the same Aira, serene and radiant, never replaced. Frame 3 (START) and Frame 5 (END) are the two anchors of the single transform.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. SHOT NOTE: this is the champagne-silk Look B reveal at its OWN cut/angle (a hard cut from the Frame-4 transform clip — a new angle/crop). It carries the exact resolved champagne-silk look that the Frame-4 clip ends on; the angle change masks any slight variation. Same Aira, serene and radiant, never replaced — do NOT invent a new face, new hands or new bone structure.
 
 EYE COLOUR: warm dark-brown irises with faint amber flecks, a crisp twin catchlight, gaze soft and direct, locked to reference (unchanged through the transform).
 
@@ -423,7 +423,7 @@ SPATIAL LOGIC: FOREGROUND — the gathered silk fold and her hand nearest lens a
 
 LIGHTING: KEY — a warm soft beauty key feathered above-front. FILL — soft warm bounce below (gentle clamshell). RIM — a soft gold rim skimming the waves and the cowl to separate her from the warm ground. PRACTICAL — the warmed shaft. SEPARATION — the ground pulled deep so she reads about 2 stops up. BOUNCE — a soft gold kick adding a glossy catch to the satin.
 
-FRAMING: ASPECT 9:16; medium close, chest-up, 11% headroom, the gathered silk entering the lower third, clean warm negative space camera-left. (Camera distance matches Frames 3 and 4.)
+FRAMING: ASPECT 9:16; medium close, chest-up, 11% headroom, the gathered silk entering the lower third, clean warm negative space camera-left.
 SUBJECT FRAMING & POSITION: A medium close framing holds Aira at about 11% headroom, the gathered silk entering the lower third within the steel-to-silk transformation world of gunmetal panels warming into silk. Her torso is turned about five degrees to open the right shoulder in a near-frontal address, with her weight on the back leg over a soft hip counter-tilt and the front shoulder dropped a touch. The camera holds an intimate beauty distance with the figure centred and clean clean warm negative space held camera-left. She faces front to the lens, composed and alive in the beat. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 LENS + DOF + BOKEH: 50mm, f/2.0; focus split between her near eye and the gathered silk so both read crisp; the ground melting to a lush creamy warm field; soft golden blooms off the settling motes; gentle roll-off, no clipping.
@@ -446,12 +446,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: medium close, chest-up, subject and gathered silk fill about 58% of the vertical frame.
 
-LENS: 50mm, f/2.0. (Transform-anchor distance — matches Frames 3 and 4.)
+LENS: 50mm, f/2.0.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Medium close, chest-up: the orbit is already easing back to a slow push as the dissolve settles and she gathers a soft fold of champagne silk near her waist; gaze easing to lens.
-- [00:02–00:04] The push settles as a serene smile eases to lens on a slow warm breath, the last motes settling and warm champagne light on her skin.
-- [00:04–00:06] She holds the warm serene look, the silk drape settling, eyes soft and luminous.
+- [00:00–00:02] Cut to a medium close on a new angle in the warmed silk space: she is already in the champagne silk-satin gown, gathering a soft fold of silk near her waist as a slow push eases in and warm motes settle; gaze easing to lens.
+- [00:02–00:04] A serene smile eases to lens on a slow warm breath, a warm specular travelling the satin cowl, eyes soft and luminous.
+- [00:04–00:06] She holds the warm serene silk look, the drape settling soft, eyes shining direct (silent here).
 
 OBJECT ACTION WITH TIMING: 0.0–4.5s — the silk drape settles and sways gently, a warm specular travels along the satin cowl, and the last silk-light motes drift down and fade; warm dust drifts behind. Environmental motion only, no pop-in.
 
@@ -527,8 +527,8 @@ SHOT TYPE: medium, chest-up, subject fills about 58% of the vertical frame.
 LENS: 35mm, f/2.2.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Medium chest-up: a slow push is already gliding in as she turns a soft six degrees toward lens and opens her right hand in a gentle gesture; gaze warm to lens.
-- [00:02–00:04] She delivers “Steel to silk. Same power, softer edge.” to lens with a soft knowing smile and natural lip-sync, eyes warm and direct.
+- [00:00–00:02] Cut to a medium chest-up on a fresh angle: she turns a soft six degrees toward lens and opens her right hand in a gentle gesture as the camera eases with her; gaze warm to lens.
+- [00:02–00:04] She delivers “Steel to silk. Same power, softer edge.” to lens with a soft knowing smile and natural lip-sync, the pearl drop swinging a hair, eyes warm and direct.
 - [00:04–00:06] She holds the warm serene look as the silk settles, the smile easing into calm.
 
 OBJECT ACTION WITH TIMING: 0.0–6.0s — the silk drape sways gently with the turn, the pearl drop swings a hair on real inertia, and a warm specular travels along the satin; warm dust drifts behind. Environmental and worn-object motion only, no pop-in.
@@ -579,7 +579,7 @@ SPATIAL LOGIC: FOREGROUND — her hand at the hip at roughly 20% depth, tack sha
 
 LIGHTING: KEY — a soft key easing from warm back toward the cool Frame-1 beauty key at the seam. FILL — soft bounce below (gentle clamshell). RIM — a soft rim on the waves easing from gold back toward silver. PRACTICAL — the shaft easing cool. SEPARATION — the ground deep so she reads about 2 stops up. BOUNCE — a soft kick on the gown.
 
-FRAMING: ASPECT 9:16; medium-wide, thigh-up with footwear glimpsed low, 12% headroom — matched to Frame 1 for the seamless loop. (Camera distance returns to Frame 1.)
+FRAMING: ASPECT 9:16; medium-wide, thigh-up with footwear glimpsed low, 12% headroom — matched to Frame 1 for the seamless loop.
 SUBJECT FRAMING & POSITION: A medium-wide framing recovers the exact opening composition at about 12% headroom, matched to Frame 1 for a seamless loop within the steel-to-silk transformation world of gunmetal panels warming into silk. Her torso is turned about five degrees to open the right shoulder in a near-frontal address, with her weight on the back leg over a soft hip counter-tilt and the front shoulder dropped a touch, returned precisely to the opening stance. The camera settles to a mid-wide distance with the figure centred and clean negative space held camera-left. She faces front to the lens, matched precisely for the loop. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 LENS + DOF + BOKEH: 35mm, f/2.2; focus split between her near eye and the hand at the hip so both read crisp (matching Frame 1); the ground melting to a smooth field; gentle roll-off, no clipping.
@@ -605,8 +605,8 @@ SHOT TYPE: medium-wide, thigh-up, subject fills about 55% of the vertical frame 
 LENS: 35mm, f/2.2. (Returns to Frame 1 distance.)
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Medium-wide thigh-up matching Frame 1: the orbit is already easing to rest as a slow push resolves toward the opening framing and she returns her right hand to rest light on her hip, settling her weight onto the back leg exactly as in Frame 1.
-- [00:02–00:04] The push settles as she eases her gaze back to lens on a slow breath with the composed quarter-smile, the silk-warm space resolving toward the steel-cool opening palette.
+- [00:00–00:02] Cut to a medium-wide thigh-up matched to Frame 1: she returns her right hand to rest light on her hip and settles her weight onto the back leg exactly as in Frame 1 as the camera settles to the opening framing.
+- [00:02–00:04] She eases her gaze back to lens on a slow breath with the composed quarter-smile, the silk-warm space resolving toward the steel-cool opening palette to seed the loop.
 - [00:04–00:06] She lands precisely on the Frame 1 pose and gaze, weight settled and architectural — a seamless loop seam.
 
 OBJECT ACTION WITH TIMING: 0.0–6.0s — a soft specular travels along the silk where the steel specular once ran, the cool key re-kindles faintly at the panel gradient, and the last warm dust drifts and fades to seed the loop. Environmental motion only, no pop-in.

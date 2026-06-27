@@ -639,3 +639,22 @@ camera moves WITH her through an anchored, static world. ADDITIVE on top of A-L.
 - Keep: identity lock + eye-led expression (D), real-time / no slow-mo / 6s (B), controlled
   vibrancy (I), believability/scale (K), and the F-last -> F1 loop. Write these alive tracking moves
   directly into the SHOT BREAKDOWN beats (shot/angle + her action + world interaction + camera move).
+
+
+
+### M.5 — FULL CAMERA-MOVE VOCABULARY (draw from these; one move per clip, matched to the world)
+ALIVE / TRAVELLING-WITH-SUBJECT (camera rides her; world anchored; real parallax):
+- SIDE-TRACK / parallel dolly — camera travels laterally alongside a walk, capturing her side-on.
+- FOLLOW (lead or trail) — Steadicam/gimbal follows behind or ahead, matching her pace.
+- ARC-FOLLOW — camera arcs a few degrees around her as she turns/moves.
+- CRANE-FOLLOW / BOOM-WITH — rise or descend while travelling with her.
+- PUSH-WITH / PULL-WITH — push or pull that moves with a moving subject (not at a static one).
+- WHIP-PAN / SWISH into the next beat's motion (use at energy spikes, action files).
+STAGED / EXPRESSIVE (subject more contained; camera shapes the beat):
+- PUSH-IN / DOLLY-IN, PULL-OUT / DOLLY-OUT, slow ORBIT, TRACKING across, CRANE/JIB up-down,
+  TILT, PAN, RACK-FOCUS (pull focus product<->eye), SNAP-PUSH, HANDHELD breathe (doc-real),
+  LOW-HERO rise, HIGH/OVERHEAD look-down, OVER-THE-SHOULDER.
+RULES: pick ONE move per clip; never push-only across a concept; match the move to the
+concept's world/action; alive tracking moves (top group) are preferred wherever she is moving;
+during a TRANSFORM clip use a translation (track/push-with) NOT an angle rotation (L.2); switch
+move + angle at every CUT (L.3); every clip opens ALREADY-IN-MOTION (B).
