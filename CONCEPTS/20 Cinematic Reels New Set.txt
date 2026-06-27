@@ -5098,14 +5098,16 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE & ANGLE: wide, subject fills ~30%.
 
-CAMERA MOVEMENT (CHOREOGRAPHY): a slow drifting glide-forward following her through the columns, weightless and gimbal-smooth.
-
 LENS: 28mm, f/4.
 
-SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.2s — she glides into the gallery, hair drifting.
-- 2.2–4.4s — she scans the glowing artifacts with awe.
-- 4.4–6.0s — she angles toward a floating pedestal ahead.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Wide establishing down the submerged marble gallery: she is already gliding between glowing columns mid-frame as a weightless glide-forward drifts with her, hair fanning slowly in the current; eyes wide with awe.
+- [00:02–00:04] The glide carries her deeper as she scans the glowing artifacts on their pedestals, caustic shafts raining down; gaze tracing the light, lips parted in wonder.
+- [00:04–00:06] She angles her body toward a floating pedestal ahead, eyes locking onto a glowing orb, drawn forward.
+
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
+
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
 FLUIDITY & WEIGHT NOTES: the glide is pure weightless flow — the body undulates from the core, arms trailing; momentum carries continuously — supremely fluid, never static.
 
@@ -5172,14 +5174,16 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE & ANGLE: macro, detail fills ~70%.
 
-CAMERA MOVEMENT (CHOREOGRAPHY): a slow 4% push toward the orb as her hand closes, drifting otherwise.
-
 LENS: 100mm macro, f/2.8.
 
-SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.2s — her hand drifts toward the orb.
-- 2.2–4.2s — the fingers close and the glow surges.
-- 4.2–6.0s — she lifts the orb gently off the pedestal, light flaring.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Extreme macro: her hand is already drifting toward the glowing artifact orb as a slow push closes in, motes and bubbles rising past.
+- [00:02–00:04] Her fingers close around the orb and its glow surges, light leaking between them.
+- [00:04–00:06] She lifts the orb gently off the pedestal, the light flaring and casting moving caustics.
+
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
+
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
 FLUIDITY & WEIGHT NOTES: the reach is weightless and reverent; the lift is buoyant and slow; no jerk — graceful underwater motion.
 
@@ -5246,14 +5250,16 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE & ANGLE: profile medium, subject fills ~55%.
 
-CAMERA MOVEMENT (CHOREOGRAPHY): a slow arc from profile toward three-quarter as she cradles the orb, weightless and smooth.
-
 LENS: 50mm, f/2.2.
 
-SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.2s — she draws the orb to her chest.
-- 2.2–4.2s — she gazes into its glow as it brightens.
-- 4.2–6.0s — she begins to lift it outward as the light starts to spill.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Profile medium: she is already drawing the glowing orb to her chest, hovering upright as a slow arc swings from profile toward three-quarter; hair drifting, gaze down into the glow.
+- [00:02–00:04] She gazes into the brightening orb as the arc eases round, its light warming her face; eyes softening in mystified awe.
+- [00:04–00:06] She begins to lift it outward as the light starts to spill, gaze rising with the glow.
+
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
+
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
 FLUIDITY & WEIGHT NOTES: every motion is buoyant and continuous — the cradle, the gaze, the outward lift flow as one weightless phrase; no stiffness.
 
@@ -5320,14 +5326,16 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE & ANGLE: front-on full/wide hero, subject fills ~55%, rising in frame.
 
-CAMERA MOVEMENT (CHOREOGRAPHY): a smooth weightless crane-up with a slow orbit to dead-front as the gown forms, continuous and buoyant.
-
 LENS: 35mm, f/2.8.
 
-SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.7s — she raises the orb aloft.
-- 1.7–4.0s — the light blooms and weaves the luminous gown.
-- 4.0–6.0s — arms open, a radiant awed smile, hair fanning.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Front-on full/wide hero: she is already raising the orb aloft as a weightless crane rises with a slow orbit to dead-front; gaze following the orb up, eyes brightening.
+- [00:02–00:04] The light blooms outward and weaves the luminous gown around her as the crane climbs; chin lifting, eyes widening in radiant awe, hair fanning.
+- [00:04–00:06] Her arms open and a radiant awed smile lands to lens, the gown shimmering with artifact-light, eyes alight.
+
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
+
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
 FLUIDITY & WEIGHT NOTES: one unbroken buoyant ascending bloom — the rise leads from the core, arms unfurl last; weightless momentum carries continuously — supremely fluid.
 
@@ -5394,14 +5402,16 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE & ANGLE: three-quarter back over-shoulder medium, subject fills ~50%.
 
-CAMERA MOVEMENT (CHOREOGRAPHY): a smooth weightless tracking follow behind her with a gentle arc to catch the glance, gimbal-stable.
-
 LENS: 50mm, f/1.8.
 
-SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.2s — she glides onward, light-train trailing.
-- 2.2–4.2s — she rotates her torso and glances back to lens.
-- 4.2–6.0s — she faces forward again, glide continuing.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Three-quarter back over-shoulder medium: she is already drifting onward through the gallery in the luminous gown as a weightless tracking follow trails her, the light-train streaming; gaze ahead.
+- [00:02–00:04] The arc catches her as she rotates her torso and glances back to lens, caustics dancing in her eyes, a soft awed smile.
+- [00:04–00:06] She faces forward again and her glide continues, light trailing in her wake, gaze settling front.
+
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
+
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
 FLUIDITY & WEIGHT NOTES: the glance is a fluid weightless spinal rotation, head leading, returning naturally; the glide never pauses; the body counter-rotates like a real underwater drift.
 
@@ -5468,14 +5478,16 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE & ANGLE: wide matching Frame 1, subject ~30%.
 
-CAMERA MOVEMENT (CHOREOGRAPHY): a slow drift-back through the gallery reversing Frame 1's glide-forward, so the end pose meets the opening glide.
-
 LENS: 28mm, f/4.
 
-SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.3s — she turns back into the glide.
-- 2.3–4.7s — the light-gown dissolves back to swim-couture and the orb returns to its pedestal.
-- 4.7–6.0s — she settles into the Frame 1 glide stance.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Wide matching Frame 1: a slow drift-back through the gallery is already reversing the opening glide as she turns back into it; gaze sweeping the glowing columns.
+- [00:02–00:04] The drift continues as the light-gown dissolves back into the teal swim-couture and the orb returns to its pedestal; a soft awed calm returning.
+- [00:04–00:06] She settles into the exact glide stance of Frame 1, body weightless between the columns, eyes wide on the artifacts — a seamless loop seam.
+
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
+
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
 FLUIDITY & WEIGHT NOTES: the turn-back is a single weightless body rotation; the reverse-dissolve flows as a gentle light-wipe; the reset reads as natural continuation, not a rewind.
 

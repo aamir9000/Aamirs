@@ -691,6 +691,66 @@ BEATS[10] = [
 ]
 
 
+BEATS[11] = [
+    # Frame 1 - wide establishing, glide
+    (
+        "Wide establishing down the submerged marble gallery: she is already gliding between "
+        "glowing columns mid-frame as a weightless glide-forward drifts with her, hair "
+        "fanning slowly in the current; eyes wide with awe.",
+        "The glide carries her deeper as she scans the glowing artifacts on their pedestals, "
+        "caustic shafts raining down; gaze tracing the light, lips parted in wonder.",
+        "She angles her body toward a floating pedestal ahead, eyes locking onto a glowing "
+        "orb, drawn forward.",
+    ),
+    # Frame 2 - macro on hand closing on orb (no face)
+    (
+        "Extreme macro: her hand is already drifting toward the glowing artifact orb as a "
+        "slow push closes in, motes and bubbles rising past.",
+        "Her fingers close around the orb and its glow surges, light leaking between them.",
+        "She lifts the orb gently off the pedestal, the light flaring and casting moving "
+        "caustics.",
+    ),
+    # Frame 3 - profile medium, cradling orb
+    (
+        "Profile medium: she is already drawing the glowing orb to her chest, hovering "
+        "upright as a slow arc swings from profile toward three-quarter; hair drifting, gaze "
+        "down into the glow.",
+        "She gazes into the brightening orb as the arc eases round, its light warming her "
+        "face; eyes softening in mystified awe.",
+        "She begins to lift it outward as the light starts to spill, gaze rising with the "
+        "glow.",
+    ),
+    # Frame 4 - front-on full/wide hero, light-bloom transform
+    (
+        "Front-on full/wide hero: she is already raising the orb aloft as a weightless crane "
+        "rises with a slow orbit to dead-front; gaze following the orb up, eyes brightening.",
+        "The light blooms outward and weaves the luminous gown around her as the crane "
+        "climbs; chin lifting, eyes widening in radiant awe, hair fanning.",
+        "Her arms open and a radiant awed smile lands to lens, the gown shimmering with "
+        "artifact-light, eyes alight.",
+    ),
+    # Frame 5 - 3/4 back over-shoulder medium, drift + glance
+    (
+        "Three-quarter back over-shoulder medium: she is already drifting onward through the "
+        "gallery in the luminous gown as a weightless tracking follow trails her, the "
+        "light-train streaming; gaze ahead.",
+        "The arc catches her as she rotates her torso and glances back to lens, caustics "
+        "dancing in her eyes, a soft awed smile.",
+        "She faces forward again and her glide continues, light trailing in her wake, gaze "
+        "settling front.",
+    ),
+    # Frame 6 - wide loop close
+    (
+        "Wide matching Frame 1: a slow drift-back through the gallery is already reversing "
+        "the opening glide as she turns back into it; gaze sweeping the glowing columns.",
+        "The drift continues as the light-gown dissolves back into the teal swim-couture and "
+        "the orb returns to its pedestal; a soft awed calm returning.",
+        "She settles into the exact glide stance of Frame 1, body weightless between the "
+        "columns, eyes wide on the artifacts \u2014 a seamless loop seam.",
+    ),
+]
+
+
 def build_block(beats):
     # Replaces ONLY the `SUBJECT ACTION w/ BEAT-TIMING:` header + its bullet
     # beat lines. Whatever follows (a blank line then SPOKEN LINE or
