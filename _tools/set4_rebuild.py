@@ -113,6 +113,71 @@ BEATS[51] = [
 ]
 
 
+BEATS[52] = [
+    # F1 - medium-full three-quarter hero beside plinth (push-in)
+    (
+        "Medium-full three-quarter hero beside the porcelain plinth: a slow push-in is "
+        "already gliding toward her as she rests a hand by the ceramic pot, the blush silk "
+        "breathing; she turns her face softly to lens with a calm smile, eyes warm.",
+        "The push continues as she begins a graceful quarter-turn toward camera, the slip "
+        "catching pearly north-window light; gaze easing to lens, lashes soft.",
+        "She settles mid-turn, weight rolling onto the front foot, a serene closed-lip calm "
+        "holding as the silk sways to rest.",
+    ),
+    # F2 - full-figure transform, slightly low angle (arc following the glaze down)
+    (
+        "Full-figure from a slightly low angle: a slow controlled arc is already following "
+        "downward as a ribbon of glossy white liquid-porcelain glaze begins to pour from her "
+        "shoulder; gaze tracking the pouring glaze, eyes brightening.",
+        "The arc rides the glaze sheeting down her body, setting into the sculptural "
+        "porcelain gown with cobalt china-motifs blooming across it; a delighted breath, "
+        "brows lifting in wonder.",
+        "The last glaze sets at the hem and the finished gown settles as the arc eases; a "
+        "soft luminous smile landing, eyes alight on the patterned porcelain.",
+    ),
+    # F3 - beauty close, product-at-face (6% push to cheekbone)
+    (
+        "Beauty close, chest-up at a three-quarter: a slow push toward her cheekbone is "
+        "already gliding in as she dips two fingertips into the open pot, the pearly primer "
+        "catching light; eyes lowered to the gesture.",
+        "She sweeps it along her cheekbone and the skin behind blurs to a soft-matte finish, "
+        "the push settling; a small assured smile beginning, gaze steadying.",
+        "She lowers the hand a touch and lifts her eyes softly, the porcelain bodice "
+        "glinting, a poised calm in her gaze.",
+    ),
+    # F4 - beauty close, direct address (SPOKEN)
+    (
+        "Beauty close, chest-up squared to lens: the camera is already settled on a "
+        "barely-there push as her eyes find the lens with a warm smile, the porcelain pot "
+        "presented at her chest.",
+        "She delivers \u201csmooth as porcelain.\u201d with natural lip-sync and a soft brow "
+        "lift, eyes bright and direct, the blush atelier soft behind.",
+        "The smile lands and holds with a soft blink, gaze staying eye-to-eye.",
+    ),
+    # F5 - full-figure magical hero, kintsugi gold-vein bloom (push + boom-rise)
+    (
+        "Full-figure magical hero from a slightly low angle: a slow push-in with a gentle "
+        "boom-rise is already lifting as she opens a hand at her heart and a gold point "
+        "kindles on the porcelain; gaze drawn to the kindling vein.",
+        "The boom keeps rising as kintsugi gold veins trace outward along the cobalt "
+        "patterns in a slow wicking and the gown warms to a glow; eyes lifting into it, a "
+        "proud serene awe blooming.",
+        "Gold-dust motes drift up and the veins hold as a sustained glow as the move "
+        "settles; her serene proud smile landing, eyes composed and luminous.",
+    ),
+    # F6 - loop close, matched to F1 (settle-back)
+    (
+        "Medium-full three-quarter hero matching Frame 1: a slow settle-back is already "
+        "easing the framing toward the opening position as the gold glow fades and the last "
+        "motes drift down; she returns her hand to rest by the pot, gaze softening.",
+        "The pull continues as her smile eases to the serene closed-lip calm of the opening "
+        "and the porcelain softens back toward the blush slip's stillness; eyes calming.",
+        "She turns her face softly to the lens, landing precisely on the Frame 1 pose, "
+        "weight settled beside the plinth \u2014 a seamless loop seam.",
+    ),
+]
+
+
 def build_block(beats):
     # Replaces ONLY the `SUBJECT ACTION WITH TIMING:` header + its bullet beat
     # lines. Ends with a single trailing newline so the original blank line
