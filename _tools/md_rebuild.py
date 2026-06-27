@@ -770,6 +770,186 @@ BEATS[34] = [
 ]
 
 
+BEATS[35] = [
+    (
+        "Medium close chest-up in the warm honey-lit space: a slow push-in is already gliding "
+        "toward her as she tilts the amber bottle a few degrees into the golden key, "
+        "speculars sliding along the glass and the honey-toned oil settling; gaze lowered to "
+        "the bottle, a golden mote drifting past.",
+        "The push continues as she lifts her warm gaze to lens on a soft inhale and a content "
+        "quarter-smile blooms, honeycomb-warm light on her skin.",
+        "She holds, warm and sensorial, eyes catching the amber glow, a golden mote drifting "
+        "across the soft bokeh.",
+    ),
+    (
+        "Medium close: the slow push continues with a faint tilt-up already following her "
+        "hand as she lifts the dropper near her cheekbone and releases a single slow golden "
+        "honey drop that stretches as it falls; gaze tracing the drop.",
+        "The first warm amber-glaze glints gather in the air around her, her eyes warming "
+        "with anticipation.",
+        "The drop meets her skin with a warm gilded sheen, a mote drifting, lashes lowering "
+        "in pleasure.",
+    ),
+    (
+        "Medium chest-up: a slow arc is already drifting around her as she lowers the dropper "
+        "a touch and the golden honey ribbons gather and drift; gaze following the drifting "
+        "gold.",
+        "The arc eases round as the first warm amber-glaze gilds her shoulder, her eyes "
+        "warming with pleasure.",
+        "The gathering tightens and brightens, cueing the glaze, her gaze lifting a degree.",
+    ),
+    (
+        "Energized medium-wide: the push is already easing into a smooth gentle orbit as the "
+        "golden honey ribbons drift and the warm amber-light sweeps and she opens her arms; "
+        "gaze lifting into the glaze.",
+        "The orbit rides the hero beat as the glaze gilds bright across her and the satin and "
+        "waves catch travelling gold (face clear, gilded by the glaze); eyes warming in "
+        "sensorial awe.",
+        "The glaze settles and the gild resolves as the orbit eases; a radiant honeyed look "
+        "landing, eyes warm.",
+    ),
+    (
+        "Medium close: a slow push is already gliding in as she eases her hands open and the "
+        "glaze settles, the last honey ribbons drifting; gaze warm to lens.",
+        "She delivers \u201cgolden, inside and out.\u201d to lens with a warm content smile, "
+        "eyes soft and direct.",
+        "She holds the radiant honeyed look as one final ribbon settles, the smile easing "
+        "into warm calm.",
+    ),
+    (
+        "Medium close matching Frame 1: a slow push is already resolving toward the exact "
+        "opening framing as she re-cradles the amber bottle and tilts it into the golden key, "
+        "speculars sliding along the glass; gaze lowering to the bottle.",
+        "The push settles as she eases her warm gaze back to lens on a soft breath with the "
+        "composed quarter-smile, the honeyed space resolving to the opening; eyes calming.",
+        "She lands precisely on the Frame 1 pose and gaze, a golden mote drifting \u2014 a "
+        "seamless loop seam.",
+    ),
+]
+
+BEATS[36] = [
+    (
+        "Medium close chest-up in the cool monsoon scene: a slow push-in is already gliding "
+        "toward her as she tilts the misted bottle a few degrees into the cool key, "
+        "speculars sliding along the glass and a droplet tracing down as the essence settles; "
+        "gaze lowered to the bottle, rain drifting behind.",
+        "The push continues as she lifts her calm gaze to lens on a cool inhale and a serene "
+        "quarter-smile blooms, a faint rain-kissed sheen on her skin.",
+        "She holds, cool and refreshed, eyes calm, a soft sheet of rain drifting across the "
+        "teal bokeh (silent).",
+    ),
+    (
+        "Medium close: the slow push continues with a faint tilt-up already following her "
+        "hand as she lifts the dropper near her cheekbone and releases a single cool "
+        "translucent drop; gaze tracing the drop.",
+        "The first soft ripples bloom on a wet surface around her, her eyes cooling with "
+        "anticipation.",
+        "The drop meets her skin with a cool dewy sheen, rain drifting, lashes lowering "
+        "calmly.",
+    ),
+    (
+        "Medium chest-up: a slow arc is already drifting around her as the soft sheet of rain "
+        "gathers and sweeps closer; gaze following the nearing rain.",
+        "The arc eases round as the first dewy ripples bloom on a wet surface, her eyes "
+        "cooling with pleasure.",
+        "The gathering tightens and the rain brightens, cueing the bloom, her gaze lifting a "
+        "degree.",
+    ),
+    (
+        "Energized medium-wide: the push is already easing into a smooth gentle orbit as the "
+        "soft sheet of rain sweeps and dewy ripples bloom and she opens her arms; gaze "
+        "lifting into the rain.",
+        "The orbit rides the hero beat as the rain kisses bright across her and the satin and "
+        "waves catch travelling beads (face clear, rain-kissed); eyes brightening in "
+        "refreshed awe.",
+        "The rain settles and the dew resolves as the orbit eases; a radiant rain-kissed look "
+        "landing, eyes cool and bright.",
+    ),
+    (
+        "Medium close: a slow push is already gliding in as she eases her hands open and the "
+        "rain settles, the last ripples spreading; gaze fresh to lens.",
+        "She lifts her fresh serene gaze to lens with a refreshed smile, lips softly closed "
+        "(silent \u2014 no words), eyes bright and direct.",
+        "She holds the radiant rain-kissed look as one final ripple settles, the smile easing "
+        "into cool calm.",
+    ),
+    (
+        "Medium close matching Frame 1: a slow push is already resolving toward the exact "
+        "opening framing as she re-cradles the misted bottle and tilts it into the cool key, "
+        "speculars sliding along the glass; gaze lowering to the bottle.",
+        "The push settles as she eases her cool gaze back to lens on a soft breath with the "
+        "composed quarter-smile, the monsoon scene resolving to the opening; eyes calming.",
+        "She lands precisely on the Frame 1 pose and gaze, rain drifting behind \u2014 a "
+        "seamless loop seam (silent).",
+    ),
+]
+
+BEATS[37] = [
+    (
+        "Medium close chest-up in the regal couture salon: a slow push-in is already gliding "
+        "toward her as she tilts the opaline bottle a few degrees into the gilded key, "
+        "speculars sliding along the glass and the pearlescent mist settling; gaze lowered "
+        "to the bottle, a feather-plume drifting past.",
+        "The push continues as she lifts her serene gaze to lens on a soft inhale and a regal "
+        "quarter-smile blooms, gilded soft light on her skin.",
+        "She holds, poised and regal, eyes catching the champagne light, a feather drifting "
+        "across the warm-neutral bokeh.",
+    ),
+    (
+        "Medium close: the slow push continues with a faint tilt-up already following her "
+        "hand as she lifts the atomizer near her collarbone and releases a single soft "
+        "pearlescent mist-spritz that blooms and drifts; gaze tracing the mist.",
+        "The first white feather-plumes gather in the air around her, her eyes warming with "
+        "anticipation.",
+        "The mist settles to a pearl sheen, a feather drifting, lashes lowering in poise.",
+    ),
+    (
+        "Medium chest-up: a slow arc is already drifting around her as she lowers the "
+        "atomizer a touch and the white feather-plumes gather and drift; gaze following the "
+        "drifting plumes.",
+        "The arc eases round as the first soft feather-cloud forms at her shoulder, her eyes "
+        "warming with poise.",
+        "The gathering tightens and brightens, cueing the burst, her gaze lifting a degree.",
+    ),
+    (
+        "Energized medium-wide: the push is already easing into a smooth gentle orbit as the "
+        "white feather-plumes burst and drift in slow regal arcs and she opens her arms; "
+        "gaze lifting into the cloud.",
+        "The orbit rides the hero beat as the feather-cloud blooms bright across her and the "
+        "gown and updo catch travelling pearl (face clear, feather-framed); eyes warming in "
+        "regal awe.",
+        "The burst settles and the plumes resolve as the orbit eases; a radiant "
+        "feather-framed look landing, eyes serene.",
+    ),
+    (
+        "Medium close: a slow push is already gliding in as she eases her hands open and the "
+        "burst settles, the last feathers drifting; gaze poised to lens.",
+        "She delivers \u201cborn to wear the crown.\u201d to lens with a poised regal smile, "
+        "eyes warm and direct.",
+        "She holds the radiant feather-framed look as one final plume settles, the smile "
+        "easing into regal calm.",
+    ),
+    (
+        "Medium close: a slow push is already gliding in as she holds the radiant "
+        "feather-framed look on a slow content breath, the poised smile easing softer; gaze "
+        "serene to lens.",
+        "The push holds as the last plumes settle around her, eyes serene and composed, a "
+        "regal beat with no words.",
+        "She holds the lens with serene regal composure, plumes drifting soft, eyes "
+        "luminous.",
+    ),
+    (
+        "Medium close matching Frame 1: a slow push is already resolving toward the exact "
+        "opening framing as she re-cradles the opaline bottle and tilts it into the gilded "
+        "key, speculars sliding along the glass; gaze lowering to the bottle.",
+        "The push settles as she eases her serene gaze back to lens on a soft breath with the "
+        "composed quarter-smile, the salon resolving to the opening; eyes calming.",
+        "She lands precisely on the Frame 1 pose and gaze, a feather-plume drifting \u2014 a "
+        "seamless loop seam.",
+    ),
+]
+
+
 def build_block(beats):
     return (
         BREAKDOWN_HEADER + "\n"
