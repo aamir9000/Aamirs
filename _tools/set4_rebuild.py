@@ -1043,6 +1043,95 @@ BEATS[65] = [
 ]
 
 
+BEATS[66] = [
+    # F1 - medium-full three-quarter hero beside concept car (push-in)
+    (
+        "Medium-full three-quarter hero beside the low concept car: a slow push-in is "
+        "already gliding toward her as she holds the chrome lipstick to her collarbone, the "
+        "gunmetal slip breathing and wind-tunnel vapor drifting low; she lifts her eyes to "
+        "lens with a confident composed smile.",
+        "The push continues as she begins a confident quarter-turn, a cool highlight "
+        "travelling the slip and a chrome reflection sliding along the car; gaze easing to "
+        "lens, chin level.",
+        "She settles mid-turn, weight rolling onto the front foot, a sleek powerful calm "
+        "holding as rim-light rakes the car behind.",
+    ),
+    # F2 - full-figure transform, slightly low angle (arc following panels assembling up)
+    (
+        "Full-figure from a slightly low angle: a slow controlled arc is already rising as "
+        "the first lacquered panel folds in at the hip and the carbon weave seats; gaze "
+        "tracking the folding panel, eyes sharpening.",
+        "The arc rides the assembly up her body as panels sweep in and fold-and-lock section "
+        "by section, a chrome seam-light tracing each lock, vapor curling off the front; an "
+        "awed breath, brows lifting.",
+        "The last panel seats and the aero gown settles as the arc eases; a cool composed "
+        "look landing, eyes alight on the lacquered panels.",
+    ),
+    # F3 - beauty close, product-at-face / lipstick swipe (6% push)
+    (
+        "Beauty close, chest-up at a three-quarter: a slow push toward her face is already "
+        "gliding in as she twists up the deep candy-red chrome bullet and brings it to her "
+        "lower lip; eyes lowered to the bullet.",
+        "She sweeps it across the lip in one smooth confident swipe, the colour laying down "
+        "glossy, the push settling; a composed set beginning.",
+        "She presses her lips softly to set and gives a confident direct look, the aero "
+        "bodice glinting, a powerful calm in her gaze.",
+    ),
+    # F4 - bold beauty close, wordless hero beat (SILENT — expression reveal)
+    (
+        "Bold beauty close, chest-up squared to lens: the camera is already settled on a "
+        "barely-there push as her eyes lock the lens with a confident composed smile, the "
+        "chrome case presented at her chest (silent \u2014 no words).",
+        "She lands a single assured chin-lift into a slow blink as a chrome glint flickers "
+        "across the aero bodice, lips softly closed, the look itself doing the work.",
+        "The smile holds, eyes direct and sharp \u2014 a wordless hero expression reveal in "
+        "place of any line.",
+    ),
+    # F5 - full-figure magical hero, slipstream halo bloom (majestic push + boom-rise)
+    (
+        "Full-figure magical hero from a slightly low angle: a slow majestic push-in with a "
+        "gentle boom-rise is already lifting as the car's twin light-signature flares and "
+        "two sleek beams sweep across her; gaze drawn to the flaring beams.",
+        "The boom keeps rising as aerodynamic vapor ribbons and speed-light streaks race "
+        "past and wrap her in a swirling slipstream halo; eyes lifting into the swirl, a "
+        "triumphant awe blooming.",
+        "The vapor and sparks trail out, easing to a sustained slipstream halo as the move "
+        "settles; her radiant smile landing, eyes triumphant and haloed.",
+    ),
+    # F6 - full-figure kinetic speed beat, dynamic angle (arc-with-the-turn)
+    (
+        "Full-figure kinetic speed beat from a low dynamic angle: she is already sweeping "
+        "into a powerful turn as a smooth motivated arc tracks her round, ponytail and gown "
+        "swinging out and vapor streaming past; gaze leading the turn.",
+        "The arc rides with her through the turn, the aero panels catching travelling "
+        "rim-light, energy driving from the hips; eyes sharp and alive.",
+        "She completes the turn and brings her sharp gaze round toward the lens, the gown "
+        "settling, lips softly closed in cool command.",
+    ),
+    # F7 - medium-full hero-with-car two-shot (6% push)
+    (
+        "Medium-full hero-with-car two-shot: a slow elegant push is already gliding in as "
+        "she rests her hand on the car's gleaming flank and settles into a relaxed powerful "
+        "stance; gaze easing toward lens.",
+        "The push holds as a chrome reflection slides along the flank under her hand, the "
+        "gown and car sharing the rim-light; a knowing calm settling in her eyes.",
+        "She turns her gaze to the lens with a knowing closed-lip smile, weight grounded "
+        "beside the car, composed and powerful.",
+    ),
+    # F8 - loop close, matched to F1 (settle to rest)
+    (
+        "Medium-full three-quarter hero beside the concept car matching Frame 1: a slow "
+        "settle is already easing her back toward the opening stance, cradling the chrome "
+        "lipstick at the collarbone, the gown settling; gaze softening to lens.",
+        "The settle continues as the aero gown eases back toward the gunmetal slip's "
+        "stillness, vapor easing low and a chrome reflection sliding on the car; a confident "
+        "composed smile returning.",
+        "She lands the composed smile and a slow blink, resolving to exactly match the Frame "
+        "1 pose, weight settled beside the car \u2014 a seamless loop seam.",
+    ),
+]
+
+
 def build_block(beats):
     # Replaces ONLY the `SUBJECT ACTION WITH TIMING:` header + its bullet beat
     # lines. Ends with a single trailing newline so the original blank line

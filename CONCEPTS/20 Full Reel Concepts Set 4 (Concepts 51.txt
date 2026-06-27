@@ -6616,13 +6616,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: medium-full three-quarter hero beside the concept car.
 
-CAMERA MOVEMENT: a single slow 8% push-in, otherwise locked-off and stable — one move, no transform yet.
-
 LENS: 50mm, f/2.5.
 
-SUBJECT ACTION WITH TIMING:
-- 0.0–3.0s — Aira holds the lipstick to her collarbone, the slip breathing, vapor drifting low, and lifts her eyes to the lens with a confident composed smile.
-- 3.0–6.0s — she begins a slow confident quarter-turn, a cool highlight travelling the slip and a chrome reflection sliding along the car. One composed beat, real physics.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Medium-full three-quarter hero beside the low concept car: a slow push-in is already gliding toward her as she holds the chrome lipstick to her collarbone, the gunmetal slip breathing and wind-tunnel vapor drifting low; she lifts her eyes to lens with a confident composed smile.
+- [00:02–00:04] The push continues as she begins a confident quarter-turn, a cool highlight travelling the slip and a chrome reflection sliding along the car; gaze easing to lens, chin level.
+- [00:04–00:06] She settles mid-turn, weight rolling onto the front foot, a sleek powerful calm holding as rim-light rakes the car behind.
 
 LIGHTING: clean bright key, soft fill, crisp cool rim on hair and car; the key steady.
 
@@ -6630,9 +6629,9 @@ ENVIRONMENT: chrome showroom, concept car, polished floor, wind-tunnel vapor low
 
 AUDIO: diegetic-plus-design, no spoken word (silent reel). Ambient bed — a low sleek showroom room-tone with a faint deep synth hum and a gentle settle, very low and steady. SFX — a soft case-tap as her fingers settle at 0.6s, a faint silk shift at 3.3s, a cool metallic chime accent on the turn at 3.9s. Reaction — a soft breath at 2.7s. VO — none. The master track enters here soft and ambient (low and subtle, never full).
 
-DURATION: 4 seconds (0:00–0:04 of 30s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps, 180° shutter, gentle natural motion blur on the turn.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — a confident closed-lip smile (silent throughout).
 
@@ -6683,14 +6682,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: full-figure transform hero, slightly low angle.
 
-CAMERA MOVEMENT: a slow controlled arc following the gown assembling up her body, smooth and motivated — one move, no whip.
-
 LENS: 50mm, f/2.5.
 
-SUBJECT ACTION WITH TIMING:
-- 0.0–1.4s — the first lacquered panel folds in at the hip and the carbon weave seats.
-- 1.4–4.2s — panels sweep in and fold-and-lock section by section into the gown, a chrome seam-light tracing each lock, Aira watching with an awed breath, vapor curling off the front.
-- 4.2–6.0s — the last panel seats and the aero gown settles, her recognizable face landing a cool composed look. Only the crossing is impossible; everything else obeys real physics.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Full-figure from a slightly low angle: a slow controlled arc is already rising as the first lacquered panel folds in at the hip and the carbon weave seats; gaze tracking the folding panel, eyes sharpening.
+- [00:02–00:04] The arc rides the assembly up her body as panels sweep in and fold-and-lock section by section, a chrome seam-light tracing each lock, vapor curling off the front; an awed breath, brows lifting.
+- [00:04–00:06] The last panel seats and the aero gown settles as the arc eases; a cool composed look landing, eyes alight on the lacquered panels.
 
 LIGHTING: clean bright key with a crisp kick on the locking panels, soft fill, cool rim; bright and steady.
 
@@ -6698,9 +6695,9 @@ ENVIRONMENT: showroom, concept car, polished floor, wind-tunnel vapor, chrome re
 
 AUDIO: diegetic-plus-design, no spoken word (silent reel). Ambient bed — the sleek showroom tone with a low synth-and-string rise under the crossing. SFX — a soft panel-fold whoosh 0.0–1.4s, a delicate sequence of clean mechanical fold-and-lock clicks with a thin chrome seam-zip as the gown assembles 1.4–4.2s, a cool settle-resonance as the gown locks at 5.5s, faint vapor-hiss off the front. Reaction — a soft awed breath at 1.3s. VO — none. Master track lifts gently under the transform then eases (subtle, never full).
 
-DURATION: 5 seconds (0:04–0:09 of 30s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps, 180° shutter, natural motion blur on the folding panels and arc.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — lips part on the awed breath, no words (silent).
 
@@ -6749,14 +6746,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: beauty close, chest-up, product-at-face.
 
-CAMERA MOVEMENT: a slow 6% push-in to the face, locked otherwise.
-
 LENS: 85mm, f/2.5.
 
-SUBJECT ACTION WITH TIMING:
-- 0.0–2.2s — she twists up the deep candy-red chrome bullet and brings it to her lower lip.
-- 2.2–4.5s — she sweeps it across the lip in one smooth confident swipe, the colour laying down glossy.
-- 4.5–6.0s — she presses her lips softly to set and gives a confident direct look. One precise beat, real physics.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Beauty close, chest-up at a three-quarter: a slow push toward her face is already gliding in as she twists up the deep candy-red chrome bullet and brings it to her lower lip; eyes lowered to the bullet.
+- [00:02–00:04] She sweeps it across the lip in one smooth confident swipe, the colour laying down glossy, the push settling; a composed set beginning.
+- [00:04–00:06] She presses her lips softly to set and gives a confident direct look, the aero bodice glinting, a powerful calm in her gaze.
 
 LIGHTING: clean bright beauty key, soft fill, crisp cool rim; a live chrome specular travelling the bullet and case as she moves.
 
@@ -6764,9 +6759,9 @@ ENVIRONMENT: showroom, blurred concept car, dramatic rim light, vapor low.
 
 AUDIO: diegetic-plus-design, no spoken word (silent reel). Ambient bed — the sleek showroom tone, low. SFX — a soft bullet twist-up at 0.8s, a faint cream-swipe-over-lip whisper at 2.7s, a cool chrome chime as the lips press at 4.5s. Reaction — a soft confident breath at 4.9s. VO — none. Master track stays low and ambient (subtle, never full).
 
-DURATION: 4 seconds (0:09–0:13 of 30s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps, 180° shutter, gentle motion blur on the lipstick hand.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — a confident composed set (silent).
 
@@ -6819,14 +6814,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: bold beauty close, chest-up, commanding wordless direct address.
 
-CAMERA MOVEMENT: locked-off and stable, a barely-there 4% push — no movement that competes with the beat; let the look do the work.
-
 LENS: 85mm, f/2.5.
 
-SUBJECT ACTION WITH TIMING:
-- 0.0–2.0s — she settles, eyes locking the lens with a confident composed smile.
-- 2.0–4.4s — she presents the case at her chest and lands a single assured chin-lift into a slow blink, a chrome glint flickering across the aero bodice, lips softly closed (no speech).
-- 4.4–6.0s — the smile holds, eyes direct and sharp. One clean wordless beat, real physics.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Bold beauty close, chest-up squared to lens: the camera is already settled on a barely-there push as her eyes lock the lens with a confident composed smile, the chrome case presented at her chest (silent — no words).
+- [00:02–00:04] She lands a single assured chin-lift into a slow blink as a chrome glint flickers across the aero bodice, lips softly closed, the look itself doing the work.
+- [00:04–00:06] The smile holds, eyes direct and sharp — a wordless hero expression reveal in place of any line.
 
 LIGHTING: clean bright beauty key, soft fill, crisp cool rim; steady, no flicker; a live chrome glint travelling the panels as she breathes.
 
@@ -6834,9 +6827,9 @@ ENVIRONMENT: showroom, blurred concept car behind, dramatic rim light, vapor low
 
 AUDIO: diegetic-plus-design, no spoken word (silent reel). Ambient bed — the sleek showroom tone, low. SFX — a faint cool air-tail, a soft case touch at 0.8s, a delicate chrome shimmer-accent at 2.2s on the chin-lift. Reaction — a soft calm breath at 2.8s. VO — none (the beat is carried by the look, not a line). Master track sits low and steady under the beat (subtle, never full).
 
-DURATION: 3 seconds (0:13–0:16 of 30s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps, 180° shutter, gentle natural motion blur.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — lips stay softly closed; no words, no lip-flap.
 
@@ -6889,15 +6882,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: full-figure magical hero, slightly low angle.
 
-CAMERA MOVEMENT: a slow majestic push-in with a gentle rise ( + slight boom) tracking the burst — one smooth motivated move.
-
 LENS: 35mm, f/2.2.
 
-SUBJECT ACTION WITH TIMING:
-- 0.0–0.6s — the car's twin light-signature flares and two sleek beams sweep across her, chrome trim catching first light.
-- 0.6–2.2s — aerodynamic vapor ribbons and speed-light streaks race past and wrap her in a swirling slipstream halo as she lifts her eyes into the swirl.
-- 2.2–4.2s — the vapor and sparks trail out, easing to a sustained slipstream halo, her radiant smile landing.
-- 4.2–6.0s — she holds, haloed and triumphant. Only the slipstream bloom is impossible; all else real physics.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Full-figure magical hero from a slightly low angle: a slow majestic push-in with a gentle boom-rise is already lifting as the car's twin light-signature flares and two sleek beams sweep across her; gaze drawn to the flaring beams.
+- [00:02–00:04] The boom keeps rising as aerodynamic vapor ribbons and speed-light streaks race past and wrap her in a swirling slipstream halo; eyes lifting into the swirl, a triumphant awe blooming.
+- [00:04–00:06] The vapor and sparks trail out, easing to a sustained slipstream halo as the move settles; her radiant smile landing, eyes triumphant and haloed.
 
 LIGHTING: the twin headlight beams lifted as a live key, cool rim, floor fill rising; controlled, no clipping.
 
@@ -6905,9 +6895,9 @@ ENVIRONMENT: showroom alive with cool light, concept car flare glinting, swirlin
 
 AUDIO: diegetic-plus-design, no spoken word (silent reel). Ambient bed — the sleek showroom tone blooming into a sleek electronic-orchestral swell with a deep synth-bass pulse cresting at the burst then settling. SFX — a soft headlight flare-up whoosh 0.2s, a gentle slipstream rush of vapor and a sparkling pass of chrome-spark motes tracking the swirl 0.6–2.2s, soft sparkle settling 1.4–3.0s, a deep cool resonance under the settle, a faint vapor-hiss with the ribbons. Reaction — a soft powerful breath at 1.9s. VO — none. Master track rises to its fullest-but-still-restrained moment under the burst then eases (subtle, never full).
 
-DURATION: 5 seconds (0:16–0:21 of 30s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps, 180° shutter, natural motion blur on the burst and swirling vapor.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — lips part on the powerful breath and smile, no words (silent).
 
@@ -6958,13 +6948,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: full-figure kinetic speed beat, slightly low dynamic angle.
 
-CAMERA MOVEMENT: a smooth motivated arc-with-the-turn, tracking her round — one controlled move, no whip.
-
 LENS: 35mm, f/2.5.
 
-SUBJECT ACTION WITH TIMING:
-- 0.0–2.4s — she sweeps into a powerful turn, pony and gown swinging out, vapor streaming past.
-- 2.4–6.0s — she completes the turn and brings her sharp gaze round toward the lens, the gown settling, lips softly closed. One dynamic beat, real physics.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Full-figure kinetic speed beat from a low dynamic angle: she is already sweeping into a powerful turn as a smooth motivated arc tracks her round, ponytail and gown swinging out and vapor streaming past; gaze leading the turn.
+- [00:02–00:04] The arc rides with her through the turn, the aero panels catching travelling rim-light, energy driving from the hips; eyes sharp and alive.
+- [00:04–00:06] She completes the turn and brings her sharp gaze round toward the lens, the gown settling, lips softly closed in cool command.
 
 LIGHTING: clean bright key tracking her face, racing cool rim on the turn, soft fill; controlled.
 
@@ -6972,9 +6961,9 @@ ENVIRONMENT: showroom, motion-blurred concept car, streaming vapor, racing rim l
 
 AUDIO: diegetic-plus-design, no spoken word (silent reel). Ambient bed — the sleek showroom tone with a low synth-pulse driving the turn. SFX — a soft aerodynamic whoosh of the turn 0.0–2.4s, a faint fabric-and-vapor stream 1.2–4.0s, a cool chrome chime as her gaze lands at 4.4s. Reaction — a soft controlled breath at 2.8s. VO — none. Master track keeps a low driving pulse here (subtle, never full).
 
-DURATION: 3 seconds (0:21–0:24 of 30s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps, 180° shutter, natural motion blur on the turn.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — lips softly closed (silent).
 
@@ -7025,13 +7014,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: medium-full hero-with-car two-shot.
 
-CAMERA MOVEMENT: a slow elegant 6% push-in, locked otherwise.
-
 LENS: 50mm, f/2.5.
 
-SUBJECT ACTION WITH TIMING:
-- 0.0–2.4s — she rests her hand on the car's gleaming flank and settles into a relaxed powerful stance.
-- 2.4–6.0s — she turns her gaze to the lens with a knowing closed-lip smile, a chrome reflection sliding along the flank. One composed beat, real physics.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Medium-full hero-with-car two-shot: a slow elegant push is already gliding in as she rests her hand on the car's gleaming flank and settles into a relaxed powerful stance; gaze easing toward lens.
+- [00:02–00:04] The push holds as a chrome reflection slides along the flank under her hand, the gown and car sharing the rim-light; a knowing calm settling in her eyes.
+- [00:04–00:06] She turns her gaze to the lens with a knowing closed-lip smile, weight grounded beside the car, composed and powerful.
 
 LIGHTING: clean bright key on face and flank, crisp cool rim on hair and car, soft fill; steady.
 
@@ -7039,9 +7027,9 @@ ENVIRONMENT: showroom, concept car, brushed-steel walls, dramatic rim light, vap
 
 AUDIO: diegetic-plus-design, no spoken word (silent reel). Ambient bed — the sleek showroom tone easing back to composed, low. SFX — a soft hand-on-lacquer touch at 1.2s, a faint chrome reflection-shimmer at 3.2s, a cool settle-tone as her gaze lands at 4.4s. Reaction — a soft composed breath at 3.6s. VO — none. Master track eases from the driving pulse back toward calm (subtle, never full).
 
-DURATION: 3 seconds (0:24–0:27 of 30s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps, 180° shutter, gentle cinematic motion blur.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — a knowing closed-lip smile (silent).
 
@@ -7096,13 +7084,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: medium-full three-quarter hero beside the concept car, matched to Frame 1.
 
-CAMERA MOVEMENT: a slow settle to rest matching the Frame 1 push so the end frame meets the start frame cleanly — one move, loop-safe.
-
 LENS: 50mm, f/2.5.
 
-SUBJECT ACTION WITH TIMING:
-- 0.0–3.0s — Aira eases back to the opening stance, cradling the chrome lipstick at the collarbone, the gown settling.
-- 3.0–6.0s — she lands the confident composed smile and a slow blink, vapor easing low, chrome reflection sliding on the car — the frame resolving to exactly match Frame 1 for a seamless loop. Real physics throughout.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Medium-full three-quarter hero beside the concept car matching Frame 1: a slow settle is already easing her back toward the opening stance, cradling the chrome lipstick at the collarbone, the gown settling; gaze softening to lens.
+- [00:02–00:04] The settle continues as the aero gown eases back toward the gunmetal slip's stillness, vapor easing low and a chrome reflection sliding on the car; a confident composed smile returning.
+- [00:04–00:06] She lands the composed smile and a slow blink, resolving to exactly match the Frame 1 pose, weight settled beside the car — a seamless loop seam.
 
 LIGHTING: clean bright key, soft fill, crisp cool rim — matched to Frame 1; steady, no flicker.
 
@@ -7110,9 +7097,9 @@ ENVIRONMENT: chrome showroom, concept car, polished floor, wind-tunnel vapor low
 
 AUDIO: diegetic-plus-design, no spoken word (silent reel). Ambient bed — the sleek showroom room-tone with a faint deep synth hum, easing back to exactly the Frame 1 level for a seamless audio loop. SFX — a soft case-settle as her hands return at 1.2s, a faint silk shift at 2.8s, a cool metallic chime resettling at 4.8s matched to the opening accent. Reaction — a soft breath at 3.6s. VO — none. Master track resolves softly back to its opening ambient phrase for a clean loop (subtle, never full).
 
-DURATION: 3 seconds (0:27–0:30 of 30s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps, 180° shutter, gentle natural motion blur easing to the matched settle.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — a confident closed-lip smile (silent).
 
