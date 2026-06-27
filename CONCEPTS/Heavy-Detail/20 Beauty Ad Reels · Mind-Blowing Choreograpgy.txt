@@ -98,7 +98,7 @@ SPATIAL LOGIC: FOREGROUND — the faceted bottle and her cradling fingers at rou
 
 LIGHTING: KEY — a cool soft beauty key feathered from above-front producing crisp glassy modelling. FILL — a soft cool bounce below lifting the under-chin just clean (gentle clamshell). RIM — a bright silver rim skimming the ponytail and shoulder to separate from the grey field. PRACTICAL — a faint cool edge-glow off the chrome floor. SEPARATION — the cyclorama held a touch darker so she reads about 1.5 stops up. BOUNCE — a silver kick adding a mirror catch to the bottle glass.
 
-FRAMING: ASPECT 9:16; medium close, chest-up, 12% headroom, the bottle entering the lower third, clean cool negative space camera-left to receive the chrome-flow that arrives later.
+FRAMING: ASPECT 9:16; FULL-LENGTH WIDE establishing on a low hero angle looking up, Aira head-to-toe just below centre with her full reflection in the mirror-chrome floor, tall platinum negative space above, the serum bottle held low at her side.
 SUBJECT FRAMING & POSITION: A medium-close beauty framing holds Aira from the chest up with about 12% headroom, the faceted Chrome Halo bottle cradled at collarbone height breaking into the lower third. She sits centred in the platinum cyclorama, weight settled on the back leg with the torso turned only about 5 degrees off the lens to open the right shoulder — a near-frontal address rather than a true three-quarter, the slight rotation just enough to sculpt depth into the chrome gown. The camera is near and intimate at beauty distance, clean cool negative space held camera-left to receive the chrome-flow that arrives later. Her left arm is caught mid-wave, the ripple still travelling to the fingertip, so she reads alive and front-facing to camera, not profiled. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 LENS + DOF + BOKEH: 50mm, f/2.0; focus split between her near eye and the bottle label so both read crisp; the cyclorama melting to a smooth clean field; floating chrome particulate rendering as soft silver bokeh; one soft circular specular bloom off the platinum collar; gentle highlight roll-off, no clipping.
@@ -117,17 +117,14 @@ NEGATIVE: mirrored, flipped, inverted, extra limbs, fused fingers, melted featur
 
 IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked identity reference and hold her 100% identical for the entire 6-second clip and across every generated frame — the same face and bone structure (skull, cheekbones, jawline, chin), the same eye shape, spacing and iris colour with a steady consistent catchlight, the same eyebrows, nose and lip shape, the same skin tone and real skin texture (visible pores, fine peach-fuzz, natural micro-specular; no plastic smoothing, no beautification creep, no face re-shaping), and the same hairline, parting, colour and texture; her height, build, body proportions and hand/finger anatomy stay constant throughout. ABSOLUTE ZERO identity drift: no face morphing, melting, smearing, rubbery warping, face-swapping, twinning or a second/duplicate subject, no age, weight, ethnicity or gender shift, no extra, missing or fused fingers or limbs, no wardrobe- or jewellery-driven change to her features. All motion is anatomically real and weight-correct; when she speaks, only the lips, jaw and cheeks move in natural lip-sync while the eyes, gaze, bone structure and identity stay perfectly stable and never glitch, flicker, re-render or beautify between frames. Her identity is identical at the first frame, every in-between frame, the loop seam and the last frame. Through ANY transform, impossible move, camera move or fast action in this clip, ONLY the intended element (wardrobe, environment, props or effect) changes — Aira’s face, identity, proportions and reference likeness stay fully recognizable and unchanged at every stage, including the apex and the loop seam; interpolate strictly between the locked START and END keyframes and do NOT invent a new face, new hands, extra limbs, a different person or a second subject inside the motion, and never let any effect melt, smear or distort her features. Do not mirror, flip or invert the frame.
 
-SHOT TYPE: medium close, chest-up, subject fills about 55% of the vertical frame.
-
-CAMERA MOVEMENT: a single slow 8% push-in across the clip, otherwise locked-off and stable — one move only, no whip, no handoff.
+SHOT TYPE: full-length WIDE establishing, low hero angle; subject about 45% of the vertical frame with her mirror-floor reflection below.
 
 LENS: 50mm, f/2.0, smooth creamy background fall-off.
 
-CHOREOGRAPHY & FLUID MOTION: her left arm completes a slow liquid wave — the ripple travelling shoulder → elbow → wrist → fingertip in one unbroken line — while a soft body-roll eases through her spine; the movement is continuous and weighted, like poured mercury finding its level, with a clear sense of flow-in and flow-out so no pose is ever held flat.
-
-SUBJECT ACTION WITH TIMING:
-- 0.0–3.0s — Aira tilts the faceted bottle a few degrees into the cool key, silver speculars sliding along the glass as her left arm finishes its wave.
-- 3.0–6.0s — she rolls her gaze up to lens on a soft inhale as the composed quarter-smile blooms and her fingertip settles. One clean continuous phrase, real physics throughout.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold):
+- [00:00–00:02] Full-length WIDE, low hero angle. Aira is ALREADY mid contemporary body-roll — spine rippling, lead arm unfurling shoulder-to-fingertip, ponytail swinging a beat late. Camera is already gliding a slow 20° ORBIT (dolly-arc), her mirror-floor reflection sweeping through frame.
+- [00:02–00:04] The roll resolves into a poised stance as she sweeps the chrome serum bottle up from her side into a presenting line, weight rolling onto the front foot. Camera continues the orbit, easing in toward her.
+- [00:04–00:06] She angles the bottle so the cool key rakes a bright chrome glint across the glass, chin lifting into a calm gaze to lens. Camera settles and holds the composition for a clean loop seam.
 
 MICRO-MOVEMENT / ANTI-STIFFNESS: never frozen — a constant low-amplitude life runs under everything: the breath visibly moving the chest and the gown highlight, the ponytail carrying a faint sway-settle, the face-framing strand drifting, micro weight-shifts rolling through the standing leg, and the eyes making tiny living saccades with a natural slow blink; absolutely no mannequin hold, no statue freeze, no robotic snap.
 
@@ -137,9 +134,9 @@ ENVIRONMENT: minimalist liquid-metal studio, mirror-chrome floor, drifting chrom
 
 AUDIO: diegetic only, no in-clip music. Ambient bed — a low clean studio room tone throughout. SFX — a soft glass-tap as her fingers settle on the bottle at 0.6s (gentle attack, short tail), a faint fabric-shift at 3.2s, a delicate metallic chrome-shimmer accent at 4.8s timed to the gaze-lift. Reaction — a soft audible breath at 3.0s. The master track sits low — a cool synth-pad drone just kindling under the room tone (present, never full). VO — none this frame.
 
-DURATION: 3 seconds (0:00–0:03 of 21s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps acquisition, 180° shutter, natural motion blur on the arm-wave and bottle tilt; playback 24fps real-time.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — lips closed/softly parted, composed.
 
@@ -169,7 +166,7 @@ SPATIAL LOGIC: FOREGROUND — the swelling silver drop and first particles neare
 
 LIGHTING: KEY — cool beauty key feathered above-front. FILL — soft cool bounce below (gentle clamshell). RIM — a bright silver rim catching the drop and stray particles into cool points. PRACTICAL — the chrome floor glow. SEPARATION — the cyclorama held darker so she reads about 1.5 stops up. BOUNCE — a silver kick lighting the drop.
 
-FRAMING: ASPECT 9:16; medium close, chest-up, 11% headroom, the silver drop and dropper entering the lower third, clean cool negative space camera-left.
+FRAMING: ASPECT 9:16; COWBOY (mid-thigh up) on a three-quarter angle dropping from slightly high toward eye level, the raised dropper and swelling silver drop in the upper third, cool negative space camera-left.
 SUBJECT FRAMING & POSITION: Still a chest-up medium-close beauty frame, about 11% headroom, the swelling silver drop and dropper entering the lower third nearest the lens. Aira stays centred, the torso rotated a touch less than before — roughly 4 degrees — with the chin lifting toward the raised dropper, so the face tips fractionally upward while the body holds its near-frontal openness. The camera remains close and intimate, negative space camera-left. Her free arm sweeps up in a slow rising arc, the spine uncurling from the previous body-roll, which lifts the whole figure a hair taller in frame than Frame 1 — the same address to lens, now reaching. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 LENS + DOF + BOKEH: 50mm, f/2.0; focus split between her near eye and the swelling silver drop so both read crisp; the cyclorama melting to a smooth clean field; soft silver blooms off the drop and stray particles; gentle roll-off, no clipping.
@@ -188,17 +185,14 @@ NEGATIVE: mirrored, flipped, inverted, extra limbs, fused fingers, melted featur
 
 IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked identity reference and hold her 100% identical for the entire 6-second clip and across every generated frame — the same face and bone structure (skull, cheekbones, jawline, chin), the same eye shape, spacing and iris colour with a steady consistent catchlight, the same eyebrows, nose and lip shape, the same skin tone and real skin texture (visible pores, fine peach-fuzz, natural micro-specular; no plastic smoothing, no beautification creep, no face re-shaping), and the same hairline, parting, colour and texture; her height, build, body proportions and hand/finger anatomy stay constant throughout. ABSOLUTE ZERO identity drift: no face morphing, melting, smearing, rubbery warping, face-swapping, twinning or a second/duplicate subject, no age, weight, ethnicity or gender shift, no extra, missing or fused fingers or limbs, no wardrobe- or jewellery-driven change to her features. All motion is anatomically real and weight-correct; when she speaks, only the lips, jaw and cheeks move in natural lip-sync while the eyes, gaze, bone structure and identity stay perfectly stable and never glitch, flicker, re-render or beautify between frames. Her identity is identical at the first frame, every in-between frame, the loop seam and the last frame. Through ANY transform, impossible move, camera move or fast action in this clip, ONLY the intended element (wardrobe, environment, props or effect) changes — Aira’s face, identity, proportions and reference likeness stay fully recognizable and unchanged at every stage, including the apex and the loop seam; interpolate strictly between the locked START and END keyframes and do NOT invent a new face, new hands, extra limbs, a different person or a second subject inside the motion, and never let any effect melt, smear or distort her features. Do not mirror, flip or invert the frame.
 
-SHOT TYPE: medium close, chest-up, subject and raised dropper fill about 58% of the vertical frame.
-
-CAMERA MOVEMENT: the slow push continues with a faint 3° tilt up following the silver drop (one flowing move), otherwise stable.
+SHOT TYPE: COWBOY three-quarter (mid-thigh up); subject and raised dropper about 60% of the vertical frame.
 
 LENS: 50mm, f/2.0.
 
-CHOREOGRAPHY & FLUID MOTION: her left arm rises in a slow continuous arc as the spine uncurls — a seamless weighted transfer that flows directly out of Frame 1's wave, the dropper-raise reading as part of the dance rather than a functional gesture, soft elbows, soft wrists, nothing snapped or held.
-
-SUBJECT ACTION WITH TIMING:
-- 0.0–3.2s — Aira lifts the dropper near her cheekbone and releases a single mirror-bright liquid-silver drop in one flowing motion.
-- 3.2–6.0s — the first chrome particles catch light in the air as her eyes cool with anticipation and her free arm completes its arc. One clean continuous phrase, real physics throughout.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold):
+- [00:00–00:02] COWBOY three-quarter. She is ALREADY lifting the dropper overhead, a fat silver drop swelling at the tip, her free arm carving a slow counter-line. Camera CRANES DOWN from a high three-quarter toward her eye level.
+- [00:02–00:04] She tips her head back and parts her lips as the drop releases and falls, tracking it with her eyes. Camera keeps descending to level, live parallax sliding across the platinum cyclorama.
+- [00:04–00:06] The drop lands and blooms a bright bead of light on her cheekbone; she rolls her gaze back to lens. Camera eases to a settled hold.
 
 MICRO-MOVEMENT / ANTI-STIFFNESS: continuous life under the action — breath moving the chest and gown highlight, the ponytail carrying a soft sway-settle as she tilts up, the temple strand drifting, micro weight-shifts rolling through the supporting leg, living eye saccades and a natural slow blink; no freeze, no robotic hold between beats.
 
@@ -208,9 +202,9 @@ ENVIRONMENT: liquid-metal studio with the first chrome particles catching light 
 
 AUDIO: diegetic only. Ambient — low clean studio tone throughout. SFX — a soft dropper-release tick at 1.0s, a delicate metallic chrome-shimmer at 3.2s, a faint fabric-shift at 5.6s (gentle attack, long soft tail). Reaction — a soft slow breath at 3.4s. The master track lifts a touch — a cool synth-pad and a soft glassy pluck rising under the SFX (present, never full). VO — none this frame.
 
-DURATION: 3 seconds (0:03–0:06 of 21s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps acquisition with a touch of slow-mo on the drop release, 180° shutter, gentle natural motion blur; playback real-time.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none.
 
@@ -240,7 +234,7 @@ SPATIAL LOGIC: FOREGROUND — the chrome-flowing hand and gathering beads neares
 
 LIGHTING: KEY — cool beauty key feathered above-front. FILL — soft cool bounce below. RIM — a bright silver rim igniting the flowing chrome into a mirror edge. PRACTICAL — the chrome floor glow. SEPARATION — cyclorama held darker so she reads about 1.5 stops up. BOUNCE — a silver kick lighting the chrome film.
 
-FRAMING: ASPECT 9:16; medium, chest-up to mid-forearm, 11% headroom, the chrome-flowing arm entering the lower third, clean cool negative space camera-left for the flow to travel.
+FRAMING: ASPECT 9:16; MEDIUM on a near-profile three-quarter, chest-up to mid-forearm, the chrome-flowing arm leading the eye across frame, cool negative space camera-left for the flow to travel.
 SUBJECT FRAMING & POSITION: The frame widens slightly to a medium — chest-up to mid-forearm, about 11% headroom — to take in the chrome-flowing arm extending forward and slightly down into the lower third. Aira holds centre with the torso open about 5 degrees, weight rolling onto the centre line as the arm reaches toward camera. Distance is a touch further than the tighter beauty frames so the travelling mercury on the forearm reads in full, clean cool negative space camera-left for the flow. She faces near-frontal with the extended arm creating a soft diagonal lead-in, the opposite arm counter-balancing low — open and three-quarter-leaning, never in profile. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 LENS + DOF + BOKEH: 50mm, f/2.0; focus split between her near eye and the flowing chrome so both read crisp; the cyclorama melting to a smooth field; soft silver blooms off the chrome beads; gentle roll-off, no clipping.
@@ -259,17 +253,14 @@ NEGATIVE: mirrored, flipped, inverted, extra limbs, fused fingers, melted featur
 
 IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked identity reference and hold her 100% identical for the entire 6-second clip and across every generated frame — the same face and bone structure (skull, cheekbones, jawline, chin), the same eye shape, spacing and iris colour with a steady consistent catchlight, the same eyebrows, nose and lip shape, the same skin tone and real skin texture (visible pores, fine peach-fuzz, natural micro-specular; no plastic smoothing, no beautification creep, no face re-shaping), and the same hairline, parting, colour and texture; her height, build, body proportions and hand/finger anatomy stay constant throughout. ABSOLUTE ZERO identity drift: no face morphing, melting, smearing, rubbery warping, face-swapping, twinning or a second/duplicate subject, no age, weight, ethnicity or gender shift, no extra, missing or fused fingers or limbs, no wardrobe- or jewellery-driven change to her features. All motion is anatomically real and weight-correct; when she speaks, only the lips, jaw and cheeks move in natural lip-sync while the eyes, gaze, bone structure and identity stay perfectly stable and never glitch, flicker, re-render or beautify between frames. Her identity is identical at the first frame, every in-between frame, the loop seam and the last frame. Through ANY transform, impossible move, camera move or fast action in this clip, ONLY the intended element (wardrobe, environment, props or effect) changes — Aira’s face, identity, proportions and reference likeness stay fully recognizable and unchanged at every stage, including the apex and the loop seam; interpolate strictly between the locked START and END keyframes and do NOT invent a new face, new hands, extra limbs, a different person or a second subject inside the motion, and never let any effect melt, smear or distort her features. Do not mirror, flip or invert the frame.
 
-SHOT TYPE: medium, chest-up to mid-forearm, subject fills about 60% of the vertical frame.
-
-CAMERA MOVEMENT: a slow continuing push with a gentle 4° arc toward the chrome-flowing arm (one flowing move), otherwise stable.
+SHOT TYPE: MEDIUM, near-profile three-quarter, chest-up to mid-forearm; subject about 60% of the vertical frame.
 
 LENS: 50mm, f/2.0.
 
-CHOREOGRAPHY & FLUID MOTION: her chrome arm extends outward on a slow exhale as the body spirals a few degrees and the opposite arm counter-balances low — a continuous contemporary unfurl that grows directly out of the previous beat, soft joints, weighted and liquid, the dance and the flowing metal moving as one.
-
-SUBJECT ACTION WITH TIMING:
-- 0.0–3.0s — a film of liquid chrome begins to flow over the back of her hand and up her wrist as she turns the palm and extends the arm.
-- 3.0–6.0s — the chrome creeps further up the forearm, mirror-bright, as her eyes widen a hair with calm wonder. One clean continuous phrase, real living-mercury physics.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold):
+- [00:00–00:02] MEDIUM, near-profile three-quarter. A film of liquid chrome is ALREADY racing up the back of her hand and wrist as she extends the arm and spirals the torso open. Camera is already TRACKING laterally along the forearm, studio lights streaking in parallax.
+- [00:02–00:04] The chrome floods up the forearm, mirror-bright, the opposite arm counter-balancing low; her eyes widen a hair with calm wonder. Camera continues the tracking glide, staying with the flow.
+- [00:04–00:06] The chrome reaches the elbow and sets to a liquid sheen as she draws the arm inward across her body. Camera eases off the track and holds.
 
 MICRO-MOVEMENT / ANTI-STIFFNESS: life never stops — breath moving the chest and gown highlight, the ponytail swaying soft with the spiral, the temple strand drifting, micro weight-shifts under the supporting leg, the flowing arm carrying a faint living tremor, living eyes and a slow blink; no freeze, no robotic hold.
 
@@ -279,9 +270,9 @@ ENVIRONMENT: liquid-metal studio, chrome particulate gathering and suspending in
 
 AUDIO: diegetic only. Ambient — low clean studio tone. SFX — a soft liquid-metal shimmer-flow rising from 0.8s as the chrome creeps (smooth swelling texture), a faint fabric-shift at 3.6s, a delicate high chrome-ting at 5.2s. Reaction — a soft awed breath at 3.0s. The master track lifts — a cool synth-pad swelling with a glassy arpeggio kindling under the flow (present, never full). VO — none this frame.
 
-DURATION: 3 seconds (0:06–0:09 of 21s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps acquisition with a touch of slow-mo on the chrome flow, 180° shutter, gentle natural motion blur; playback real-time.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none.
 
@@ -311,7 +302,7 @@ SPATIAL LOGIC: FOREGROUND — the rolling chrome wave and nearest suspended drop
 
 LIGHTING: KEY — cool beauty key feathered above-front. FILL — soft cool bounce below. RIM — a brilliant silver rim setting the chrome wave alight into a mirror edge. PRACTICAL — chrome floor glow intensified. SEPARATION — cyclorama held darker so she reads about 2 stops up. BOUNCE — a strong silver kick across the wave.
 
-FRAMING: ASPECT 9:16; medium, chest-up, 10% headroom, the chrome wave crossing the centre third, the air-droplets filling the cool negative space.
+FRAMING: ASPECT 9:16; MEDIUM CLOSE-UP on a slight low hero angle for power, chest-and-collarbone filling frame, the chrome wave crossing the centre and air-droplets suspended in the cool negative space.
 SUBJECT FRAMING & POSITION: A medium chest-up frame at the phrase's apex, about 10% headroom, the rolling chrome wave crossing the centre third and suspended air-droplets filling the cool negative space. This is the most open body of the concept — the torso turns about 6 degrees with a soft spiral through the waist as both arms describe a wide opening sweep, the figure unfurling toward the lens. Camera stays at mid beauty distance, centred, the chrome wave and droplets drawing the eye across frame. She is near-frontal but dynamically twisted by the spiral, shoulders opening rather than squared flat — the peak expansion of the choreography. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 LENS + DOF + BOKEH: 50mm, f/2.0; focus split between her near eye and the crest of the chrome wave so both read crisp; the cyclorama a smooth field; suspended droplets rendering as bright silver bokeh; gentle roll-off, no clipping.
@@ -330,17 +321,14 @@ NEGATIVE: mirrored, flipped, inverted, extra limbs, fused fingers, melted featur
 
 IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked identity reference and hold her 100% identical for the entire 6-second clip and across every generated frame — the same face and bone structure (skull, cheekbones, jawline, chin), the same eye shape, spacing and iris colour with a steady consistent catchlight, the same eyebrows, nose and lip shape, the same skin tone and real skin texture (visible pores, fine peach-fuzz, natural micro-specular; no plastic smoothing, no beautification creep, no face re-shaping), and the same hairline, parting, colour and texture; her height, build, body proportions and hand/finger anatomy stay constant throughout. ABSOLUTE ZERO identity drift: no face morphing, melting, smearing, rubbery warping, face-swapping, twinning or a second/duplicate subject, no age, weight, ethnicity or gender shift, no extra, missing or fused fingers or limbs, no wardrobe- or jewellery-driven change to her features. All motion is anatomically real and weight-correct; when she speaks, only the lips, jaw and cheeks move in natural lip-sync while the eyes, gaze, bone structure and identity stay perfectly stable and never glitch, flicker, re-render or beautify between frames. Her identity is identical at the first frame, every in-between frame, the loop seam and the last frame. Through ANY transform, impossible move, camera move or fast action in this clip, ONLY the intended element (wardrobe, environment, props or effect) changes — Aira’s face, identity, proportions and reference likeness stay fully recognizable and unchanged at every stage, including the apex and the loop seam; interpolate strictly between the locked START and END keyframes and do NOT invent a new face, new hands, extra limbs, a different person or a second subject inside the motion, and never let any effect melt, smear or distort her features. Do not mirror, flip or invert the frame.
 
-SHOT TYPE: medium, chest-up, subject fills about 60% of the vertical frame.
-
-CAMERA MOVEMENT: a slow continuing push easing to a gentle settle at the crest (one flowing move), no whip.
+SHOT TYPE: MEDIUM CLOSE-UP, slight low hero angle; subject about 70% of the vertical frame.
 
 LENS: 50mm, f/2.0.
 
-CHOREOGRAPHY & FLUID MOTION: the apex sweep — both arms open slowly to follow the chrome wave up and across the collarbone as the torso spirals to its fullest line, a single expansive contemporary unfurl on a held exhale; weighted, liquid, continuous, the most flowing beat of the whole phrase.
-
-SUBJECT ACTION WITH TIMING:
-- 0.0–2.7s — the sheet of liquid chrome sweeps in one living wave up her forearm and across the collarbone, mirror-bright and rolling, suspended droplets lifting into the air.
-- 2.7–5.2s — she opens both arms to frame the wave and lifts a serene confident gaze to lens as the quarter-smile blooms. One impossible move at full crest, real living-mercury physics.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold):
+- [00:00–00:02] MEDIUM CLOSE-UP, slight low hero angle. The chrome wave is ALREADY cresting up across her collarbone and shoulder, air-droplets suspended around her. Camera is already DOLLYING IN, rising a touch.
+- [00:02–00:04] The wave sweeps over the shoulder and sets into a couture chrome neckline, light flaring off the new edge; her chest lifts on an awed breath. Camera eases hard into the crest, micro-settling at the apex.
+- [00:04–00:06] The chrome locks to a mirror-couture finish; she holds the radiant peak, gaze level to lens. Camera holds the final frame.
 
 MICRO-MOVEMENT / ANTI-STIFFNESS: alive at the peak — breath at the top of the inhale subtly moving the chest, the ponytail and strands lifting in the cool draught, micro weight-shifts keeping the stance liquid, the chrome wave carrying continuous internal motion, living eyes with a slow blink; absolutely no freeze, no statue hold even at the hero beat.
 
@@ -350,9 +338,9 @@ ENVIRONMENT: liquid-metal studio at the transform crest, suspended chrome drople
 
 AUDIO: diegetic only. Ambient — low clean studio tone. SFX — a smooth swelling liquid-metal flow-whoosh cresting at 1.4s as the wave sweeps (full but not harsh), a delicate cascade of chrome-tings 1.5–3.0s as droplets lift, a faint fabric-sweep at 3.3s. Reaction — a soft awed exhale at 2.7s. The master track reaches its peak — cool synth-pad and glassy arpeggio swelling to the crest with a soft sub-pulse (present, never full). VO — none this frame.
 
-DURATION: 4 seconds (0:09–0:13 of 21s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps acquisition with tasteful slow-mo on the chrome sweep, 180° shutter, natural motion blur on the wave and arms; playback real-time.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none.
 
@@ -384,7 +372,7 @@ SPATIAL LOGIC: FOREGROUND — the presented bottle and her chrome cuff at roughl
 
 LIGHTING: KEY — cool beauty key feathered above-front. FILL — soft cool bounce below (clamshell). RIM — a clean silver rim on the ponytail and the chrome cuff. PRACTICAL — chrome floor glow eased back. SEPARATION — cyclorama held darker so she reads about 1.5 stops up. BOUNCE — a silver kick on the bottle glass.
 
-FRAMING: ASPECT 9:16; medium close, chest-up, 12% headroom, the bottle entering the lower third, balanced cool negative space.
+FRAMING: ASPECT 9:16; CLOSE-UP, eye-level and frontal, face dominant with the presented bottle in the lower third, balanced cool negative space — the intimate spoken-line beat.
 SUBJECT FRAMING & POSITION: Back to the tighter chest-up medium-close, about 12% headroom, the presented bottle and chrome ear-cuff in the lower third, balanced cool negative space either side. The phrase resolves inward: arms draw back into a poised presenting line and the torso squares a touch toward the lens with only a soft 3-degree spiral, weight settled elegantly on the back leg. Camera is near and intimate for the spoken beat — the most composed, frontal, direct-to-lens address of the set, eyes level to camera as the line lands. She is centred and settled, the figure calm after the apex sweep. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 LENS + DOF + BOKEH: 50mm, f/2.0; focus split between her near eye and the bottle label so both read crisp; the cyclorama a smooth field; gentle highlight roll-off, no clipping.
@@ -403,17 +391,14 @@ NEGATIVE: mirrored, flipped, inverted, extra limbs, fused fingers, melted featur
 
 IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked identity reference and hold her 100% identical for the entire 6-second clip and across every generated frame — the same face and bone structure (skull, cheekbones, jawline, chin), the same eye shape, spacing and iris colour with a steady consistent catchlight, the same eyebrows, nose and lip shape, the same skin tone and real skin texture (visible pores, fine peach-fuzz, natural micro-specular; no plastic smoothing, no beautification creep, no face re-shaping), and the same hairline, parting, colour and texture; her height, build, body proportions and hand/finger anatomy stay constant throughout. ABSOLUTE ZERO identity drift: no face morphing, melting, smearing, rubbery warping, face-swapping, twinning or a second/duplicate subject, no age, weight, ethnicity or gender shift, no extra, missing or fused fingers or limbs, no wardrobe- or jewellery-driven change to her features. All motion is anatomically real and weight-correct; when she speaks, only the lips, jaw and cheeks move in natural lip-sync while the eyes, gaze, bone structure and identity stay perfectly stable and never glitch, flicker, re-render or beautify between frames. Her identity is identical at the first frame, every in-between frame, the loop seam and the last frame. Through ANY transform, impossible move, camera move or fast action in this clip, ONLY the intended element (wardrobe, environment, props or effect) changes — Aira’s face, identity, proportions and reference likeness stay fully recognizable and unchanged at every stage, including the apex and the loop seam; interpolate strictly between the locked START and END keyframes and do NOT invent a new face, new hands, extra limbs, a different person or a second subject inside the motion, and never let any effect melt, smear or distort her features. Do not mirror, flip or invert the frame.
 
-SHOT TYPE: medium close, chest-up, subject fills about 56% of the vertical frame.
-
-CAMERA MOVEMENT: a near-locked slow settle with a barely-there 4% push (one move), giving the line room to land.
+SHOT TYPE: CLOSE-UP, eye-level frontal; face about 65% of the vertical frame, bottle presented in the lower third.
 
 LENS: 50mm, f/2.0.
 
-CHOREOGRAPHY & FLUID MOTION: the deceleration beat — arms draw back smoothly from the apex into a poised presenting line as the body settles to centre on a slow exhale; the dance resolves without any hard stop, the final position arrived at through flow rather than a snap.
-
-SUBJECT ACTION WITH TIMING:
-- 0.0–2.8s — Aira draws her arms in and presents the Chrome Halo bottle forward, the chrome cuff settling mirror-bright at her wrist.
-- 2.8–6.0s — she lifts a calm assured gaze to lens and speaks the line as a confident smile blooms. One clean continuous resolve, real physics.
+SHOT BREAKDOWN (timed, 6s · real-time — the spoken beat; motion stays continuous, never frozen):
+- [00:00–00:02] CLOSE-UP, eye-level, frontal. She is ALREADY drawing the chrome serum bottle up toward her cheek, a soft settling shimmer on the new couture. Focus rests on the bottle in the lower third.
+- [00:02–00:04] She presents the bottle beside her face and speaks — "the future looks like me." — lips and jaw moving in natural sync. Camera body near-still; the focus RACKS from the bottle up to her eyes as the line lands.
+- [00:04–00:06] A calm, assured micro-smile settles; one slow blink, a faint chrome glint travelling off the bottle. Camera holds the eyes sharp.
 
 MICRO-MOVEMENT / ANTI-STIFFNESS: alive through the line — natural speech motion in the jaw and lips, breath moving the chest, the ponytail carrying a soft settle, the temple strand drifting, micro weight-shifts under the stance, living eyes and a slow blink between phrases; never frozen while speaking.
 
@@ -423,9 +408,9 @@ ENVIRONMENT: liquid-metal studio, settled and clean, faint residual particulate 
 
 AUDIO: diegetic plus the spoken line. Ambient — low clean studio tone. SFX — a soft settling chrome-shimmer at 0.8s, a faint bottle-glass tap at 2.0s as she presents it. VO — Aira speaks "the future looks like me." landing cleanly 2.8–5.2s, English with a natural Indian accent, calm and assured. The master track ducks cleanly under the vocal so the line sits forward (present, never full). Reaction — a soft breath at 2.6s before the line.
 
-DURATION: 3 seconds (0:13–0:16 of 21s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps acquisition, 180° shutter, natural motion blur; playback 24fps real-time for clean lip-sync.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: full natural lip-sync to "the future looks like me." — soft, warm, precisely timed, no overshoot.
 
@@ -455,7 +440,7 @@ SPATIAL LOGIC: FOREGROUND — the bottle and cradling fingers at roughly 20% fra
 
 LIGHTING: identical to Frame 1 — cool beauty key, soft cool clamshell fill, bright silver rim on ponytail and shoulder, faint chrome-floor practical, cyclorama held darker, silver kick on the bottle glass.
 
-FRAMING: ASPECT 9:16; medium close, chest-up, 12% headroom, the bottle in the lower third, clean cool negative space camera-left — matched exactly to Frame 1.
+FRAMING: ASPECT 9:16; FULL-LENGTH WIDE, low hero angle matched exactly to Frame 1, Aira head-to-toe with her mirror-floor reflection, the serum bottle returning to her side for a seamless loop.
 SUBJECT FRAMING & POSITION: The loop-close frame matches Frame 1 exactly — chest-up medium-close, about 12% headroom, the bottle in the lower third, clean cool negative space camera-left. Aira returns precisely to the opening stance: centred, weight on the back leg, torso rotated about 5 degrees to open the right shoulder, near-frontal to the lens. The camera distance and composition are identical to the start so the final instant rhymes seamlessly back into the first for a perfect loop. Her arms flow back through the opening wave, the body once more caught mid-phrase rather than held — the circle complete. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 LENS + DOF + BOKEH: 50mm, f/2.0; focus split between her near eye and the bottle label; cyclorama a smooth field; chrome particulate as soft silver bokeh; specular bloom off the platinum collar; gentle roll-off, no clipping — matched to Frame 1.
@@ -474,17 +459,14 @@ NEGATIVE: mirrored, flipped, inverted, extra limbs, fused fingers, melted featur
 
 IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked identity reference and hold her 100% identical for the entire 6-second clip and across every generated frame — the same face and bone structure (skull, cheekbones, jawline, chin), the same eye shape, spacing and iris colour with a steady consistent catchlight, the same eyebrows, nose and lip shape, the same skin tone and real skin texture (visible pores, fine peach-fuzz, natural micro-specular; no plastic smoothing, no beautification creep, no face re-shaping), and the same hairline, parting, colour and texture; her height, build, body proportions and hand/finger anatomy stay constant throughout. ABSOLUTE ZERO identity drift: no face morphing, melting, smearing, rubbery warping, face-swapping, twinning or a second/duplicate subject, no age, weight, ethnicity or gender shift, no extra, missing or fused fingers or limbs, no wardrobe- or jewellery-driven change to her features. All motion is anatomically real and weight-correct; when she speaks, only the lips, jaw and cheeks move in natural lip-sync while the eyes, gaze, bone structure and identity stay perfectly stable and never glitch, flicker, re-render or beautify between frames. Her identity is identical at the first frame, every in-between frame, the loop seam and the last frame. Through ANY transform, impossible move, camera move or fast action in this clip, ONLY the intended element (wardrobe, environment, props or effect) changes — Aira’s face, identity, proportions and reference likeness stay fully recognizable and unchanged at every stage, including the apex and the loop seam; interpolate strictly between the locked START and END keyframes and do NOT invent a new face, new hands, extra limbs, a different person or a second subject inside the motion, and never let any effect melt, smear or distort her features. Do not mirror, flip or invert the frame.
 
-SHOT TYPE: medium close, chest-up, subject fills about 55% of the vertical frame — matched to Frame 1.
-
-CAMERA MOVEMENT: returns to the exact Frame 1 start position with a slow 8% push reset (one move), so the loop hands off invisibly.
+SHOT TYPE: full-length WIDE, low hero angle, matched to Frame 1; subject about 45% of the vertical frame with reflection.
 
 LENS: 50mm, f/2.0.
 
-CHOREOGRAPHY & FLUID MOTION: the closing flow returns her left arm through the opening wave and her gaze back to the Frame 1 hook on a slow inhale — the dance completing its endless circle, decelerating into the exact start pose through pure flow so play-through loops with no seam.
-
-SUBJECT ACTION WITH TIMING:
-- 0.0–1.8s — Aira eases the bottle back to collarbone height and her arm flows back through the opening wave, the chrome cuff catching a last specular.
-- 1.8–3.6s — she returns to the composed quarter-smile and direct calm gaze, matching the Frame 1 hook exactly. One clean continuous loop-resolve, real physics.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — resolves seamlessly to the Frame 1 opening for the loop):
+- [00:00–00:02] Returns to the FULL-LENGTH WIDE, low hero angle (matched to Frame 1). She is ALREADY easing back into the opening body-roll, the chrome sheen quieting. Camera begins a slow reverse-ORBIT / PULL-OUT.
+- [00:02–00:04] She rolls through the phrase back toward the start pose, the bottle lowering to her side, her reflection re-gathering in the mirror floor. Camera continues pulling out toward the Frame 1 distance.
+- [00:04–00:06] She lands the exact opening stance and gaze as the chrome settles to its start sheen. Camera arrives precisely at the Frame 1 framing for an invisible loop.
 
 MICRO-MOVEMENT / ANTI-STIFFNESS: continuous life all the way into the loop — breath, ponytail sway-settle, drifting temple strand, micro weight-shifts, living eyes and a slow blink — matched to Frame 1 so the cycle never reveals a freeze or a seam.
 
@@ -494,9 +476,9 @@ ENVIRONMENT: liquid-metal studio, returned to the opening clean state with faint
 
 AUDIO: diegetic only. Ambient — low clean studio tone matched to Frame 1. SFX — a soft glass-tap at 1.7s as the bottle settles, a faint chrome-shimmer at 2.9s. Reaction — a soft breath at 1.8s. The master track resolves on a sustained cool synth-chord that loops seamlessly back into the Frame 1 drone with no audible seam (present, never full). VO — none.
 
-DURATION: 5 seconds (0:16–0:21 of 21s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps acquisition, 180° shutter, natural motion blur on the returning wave; playback real-time, loop-matched to Frame 1.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — lips return to the composed soft-parted Frame 1 set.
 
