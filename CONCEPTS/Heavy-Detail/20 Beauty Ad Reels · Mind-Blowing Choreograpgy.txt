@@ -550,7 +550,7 @@ SPATIAL LOGIC: FOREGROUND — the ruby vial and her cradling fingers at roughly 
 
 LIGHTING: KEY — a warm dramatic spotlight feathered from above-front producing rich chiaroscuro beauty light. FILL — a soft warm bounce below lifting the under-chin just clean. RIM — a warm gold rim skimming the bun and shoulder to separate from the dark wall. PRACTICAL — the living candle-glow off-frame. SEPARATION — the background pulled deep so she reads about 2 stops up. BOUNCE — a warm gold kick adding a glossy catch to the vial.
 
-FRAMING: ASPECT 9:16; medium close, chest-up, 12% headroom, the vial entering the lower third, warm negative space camera-left to receive the ember-bloom that arrives later.
+FRAMING: ASPECT 9:16; COWBOY (mid-thigh up), three-quarter on a low hero angle, Aira frame-right with the candle-lit tablao opening to camera-left, the ruby Ember vial at her collarbone, warm negative space left.
 SUBJECT FRAMING & POSITION: A chest-up medium-close beauty frame, about 12% headroom, the ruby vial cradled in the lower third, warm negative space camera-left for the ember-bloom to come. Aira is centred with the proud flamenco carriage — torso rotated about 6 degrees and one shoulder lifted high, weight planted proud on the front leg with a 3-degree hip counter-tilt, the chest open and lifted to camera. The camera is near and intimate. Her left arm is mid-floreo, the spiral travelling shoulder to wrist, so the figure reads alive and near-frontal with the lifted shoulder giving an elegant flamenco asymmetry rather than a flat square. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 LENS + DOF + BOKEH: 50mm, f/2.0; focus split between her near eye and the vial label so both read crisp; the tablao melting to a warm creamy field; candle-glow rendering as soft amber bokeh; one soft circular specular bloom off the bronze cap; gentle highlight roll-off, no clipping.
@@ -569,17 +569,14 @@ NEGATIVE: mirrored, flipped, inverted, extra limbs, fused fingers, melted featur
 
 IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked identity reference and hold her the SAME PERSON for the entire 6-second clip and every generated frame. Treat identity as a FIXED skeleton that never changes — bone structure (skull, cheekbones, jawline, chin), overall face shape and proportions, eye shape, spacing and iris colour, nose and lip shape, skin tone and real skin texture (visible pores, fine peach-fuzz; no plastic smoothing, no beautification creep, no face re-shaping), hairline, hair colour and texture, height, build and hand/finger anatomy. ONLY the soft expression muscles may move — eyelids, brows, cheeks and mouth corners — together with the eyes, gaze and head; expression and lip-sync animate ON TOP of that fixed identity and must NEVER alter the face shape, the eye colour, or who she is. Keep expression changes smooth and moderate and lead them with the EYES and GAZE (soft smiles, brow lifts, a parted breath, eyes tracing the object) — no extreme grimace, no wide-mouth distortion, no hard squint, no rapid expression flicker that would warp the geometry; favour one clean expression transition per clip. ABSOLUTE ZERO identity drift: no morphing, melting, smearing, rubbery warping, face-swapping, twinning or a second/duplicate subject, no age, weight, ethnicity or gender shift, no extra, missing or fused fingers or limbs. Identity stays identical at the first frame, every in-between frame, the loop seam and the last frame. Through any transform, impossible move or fast action ONLY the intended element (wardrobe, environment, props or effect) changes — her face, identity and proportions stay fully recognizable; interpolate strictly between the locked keyframes and never invent a new face, new hands, extra limbs or a second subject. Do not mirror, flip or invert the frame.
 
-SHOT TYPE: medium close, chest-up, subject fills about 55% of the vertical frame.
-
-CAMERA MOVEMENT: a single slow 8% push-in across the clip, otherwise locked-off and stable — one move only, no whip.
+SHOT TYPE: COWBOY (mid-thigh up), three-quarter, low hero angle; subject about 60% of the frame, placed frame-right.
 
 LENS: 50mm, f/2.0, smooth warm background fall-off.
 
-CHOREOGRAPHY & FLUID MOTION: her left arm completes a slow flamenco floreo — the spiral travelling shoulder → elbow → wrist → curling fingertip in one unbroken line — while the spine settles into a proud braceo arch; weighted and controlled, the carriage breathing, with a clear flow-in and flow-out so no pose is ever held flat.
-
-SUBJECT ACTION WITH TIMING:
-- 0.0–3.0s — Aira tilts the ruby vial a few degrees into the warm key, gold speculars sliding along the glass as her floreo wrist completes its spiral.
-- 3.0–6.0s — she lifts a burning proud gaze to lens on a slow inhale as the fierce quarter-smile blooms. One clean continuous phrase, real physics throughout.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold):
+- [00:00–00:02] COWBOY three-quarter, low hero angle. Aira is ALREADY mid-floreo — the spiral travelling shoulder → elbow → wrist, the ruby Ember vial catching warm gold in her other hand, weight grounded over the back heel. Camera is already in a slow DOLLY-IN, candle-glow flickering across her.
+- [00:02–00:04] Her wrist completes the floreo as she tilts the vial a few degrees into the key, a glint sliding along the glass; her eyes track the glint, then begin to lift. Camera continues easing in.
+- [00:04–00:06] Her gaze rises to lens — burning and proud — a fierce quarter-smile just starting at one mouth-corner. Camera settles on the held hook.
 
 MICRO-MOVEMENT / ANTI-STIFFNESS: never frozen — constant low-amplitude life: breath moving the chest and the silk folds, the bun-flower carrying a faint settle, a face-framing strand drifting, micro weight-shifts rolling through the planted leg, the floreo wrist still spiralling a hair, living eyes with a natural slow blink; absolutely no mannequin hold, no statue freeze, no robotic snap.
 
@@ -589,9 +586,9 @@ ENVIRONMENT: moody Andalusian tablao, terracotta walls, wrought-iron candle scon
 
 AUDIO: diegetic only, no in-clip music. Ambient bed — a low warm room tone and a faint candle-flame flicker throughout. SFX — a soft glass-tap as her fingers settle on the vial at 0.6s, a faint silk-and-ruffle rustle at 3.2s, a delicate warm spark-shimmer accent at 4.8s timed to the gaze-lift. Reaction — a soft proud breath at 3.0s. The master track sits low — a lone warm Spanish-guitar figure just kindling under the room tone (present, never full). VO — none this frame.
 
-DURATION: 3 seconds (0:00–0:03 of 25s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps acquisition, 180° shutter, natural motion blur on the floreo and vial tilt; playback 24fps real-time.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — lips closed/softly parted, proud.
 
@@ -621,7 +618,7 @@ SPATIAL LOGIC: FOREGROUND — the glossy wand and lower lip nearest lens at roug
 
 LIGHTING: KEY — warm spotlight feathered above-front. FILL — soft warm bounce below. RIM — a warm gold rim catching the shawl-fringe and first sparks into warm points. PRACTICAL — candle-glow and warm air. SEPARATION — the background deep so she reads about 2 stops up. BOUNCE — a warm gold kick lighting the wand.
 
-FRAMING: ASPECT 9:16; medium close, chest-up, 11% headroom, the wand and shawl entering the lower third, warm negative space camera-left.
+FRAMING: ASPECT 9:16; MEDIUM, near-profile, Aira pushed frame-left as the fringed mantón rises camera-right, wrought-iron candle-glow behind, warm negative space right.
 SUBJECT FRAMING & POSITION: Still chest-up medium-close, about 11% headroom, the glossy wand and shawl entering the lower third, warm negative space camera-left. Aira holds centre, torso rotated about 5 degrees with one shoulder lifting into a braceo and the chin proud, weight rolling onto the front leg, spine arched tall. The arch lifts her a touch taller in frame than Frame 1. Camera stays close and intimate. She faces near-frontal with the rising braceo arm sweeping the shawl upward, the lifted carriage and tall spine keeping the proud flamenco line — open to lens, never profiled. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 LENS + DOF + BOKEH: 50mm, f/2.0; focus split between her near eye and the glossy wand so both read crisp; the tablao a warm creamy field; soft amber blooms off the sparks; gentle roll-off, no clipping.
@@ -640,17 +637,14 @@ NEGATIVE: mirrored, flipped, inverted, extra limbs, fused fingers, melted featur
 
 IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked identity reference and hold her the SAME PERSON for the entire 6-second clip and every generated frame. Treat identity as a FIXED skeleton that never changes — bone structure (skull, cheekbones, jawline, chin), overall face shape and proportions, eye shape, spacing and iris colour, nose and lip shape, skin tone and real skin texture (visible pores, fine peach-fuzz; no plastic smoothing, no beautification creep, no face re-shaping), hairline, hair colour and texture, height, build and hand/finger anatomy. ONLY the soft expression muscles may move — eyelids, brows, cheeks and mouth corners — together with the eyes, gaze and head; expression and lip-sync animate ON TOP of that fixed identity and must NEVER alter the face shape, the eye colour, or who she is. Keep expression changes smooth and moderate and lead them with the EYES and GAZE (soft smiles, brow lifts, a parted breath, eyes tracing the object) — no extreme grimace, no wide-mouth distortion, no hard squint, no rapid expression flicker that would warp the geometry; favour one clean expression transition per clip. ABSOLUTE ZERO identity drift: no morphing, melting, smearing, rubbery warping, face-swapping, twinning or a second/duplicate subject, no age, weight, ethnicity or gender shift, no extra, missing or fused fingers or limbs. Identity stays identical at the first frame, every in-between frame, the loop seam and the last frame. Through any transform, impossible move or fast action ONLY the intended element (wardrobe, environment, props or effect) changes — her face, identity and proportions stay fully recognizable; interpolate strictly between the locked keyframes and never invent a new face, new hands, extra limbs or a second subject. Do not mirror, flip or invert the frame.
 
-SHOT TYPE: medium close, chest-up, subject and rising shawl fill about 58% of the vertical frame.
-
-CAMERA MOVEMENT: the slow push continues with a faint 3° tilt up following the rising shawl (one flowing move), otherwise stable.
+SHOT TYPE: MEDIUM, near-profile; subject about 58% of the frame, pushed frame-left.
 
 LENS: 50mm, f/2.0.
 
-CHOREOGRAPHY & FLUID MOTION: her shawl-arm rises in a continuous braceo arc as the spine uncurls — a seamless weighted carriage that flows directly out of Frame 1's floreo, the lip-glide reading as part of the dance, soft elbows and spiralling wrists, nothing snapped or held.
-
-SUBJECT ACTION WITH TIMING:
-- 0.0–3.2s — Aira glides the Ember wand once along her lower lip to a glossy crimson, then begins lifting the fringed mantón in a rising arc.
-- 3.2–6.0s — the first fire-sparks catch light around the fringe as her eyes kindle with proud anticipation. One clean continuous phrase, real physics throughout.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold):
+- [00:00–00:02] MEDIUM, near-profile. She is ALREADY gliding the Ember wand along her lower lip to a glossy crimson, the fringed mantón beginning to rise in a braceo arc. Camera CRANES UP, following the rising shawl.
+- [00:02–00:04] The shawl sweeps overhead, spine uncurling tall; her eyes kindle with proud anticipation, brows lifting a touch. Camera keeps rising, candle-sconces sliding past in parallax.
+- [00:04–00:06] The first fire-sparks catch around the fringe; her gaze flicks up to follow them. Camera eases to the top of the move.
 
 MICRO-MOVEMENT / ANTI-STIFFNESS: continuous life under the action — breath moving the chest and silk, the bun-flower settling, the temple strand drifting, micro weight-shifts rolling through the planted leg, living eyes and a natural slow blink, the shawl-fringe rippling alive; no freeze, no robotic hold between beats.
 
@@ -660,9 +654,9 @@ ENVIRONMENT: Andalusian tablao with the first fire-sparks catching light around 
 
 AUDIO: diegetic only. Ambient — low warm room tone and faint candle flicker throughout. SFX — a soft wand-glide whisper at 1.0s, a delicate silk-rustle as the shawl lifts at 3.2s, a faint ember-tick at 5.4s. Reaction — a soft proud breath at 3.4s. The master track lifts a touch — the warm guitar joined by soft palmas (handclaps) under the SFX (present, never full). VO — none this frame.
 
-DURATION: 3 seconds (0:03–0:06 of 25s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps acquisition with a touch of slow-mo on the shawl-lift, 180° shutter, gentle natural motion blur; playback real-time.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none.
 
@@ -692,7 +686,7 @@ SPATIAL LOGIC: FOREGROUND — the flicking shawl and first embers nearest lens a
 
 LIGHTING: KEY — warm spotlight feathered above-front. FILL — soft warm bounce below. RIM — a warm gold rim igniting the shawl-edge and first embers. PRACTICAL — candle-glow flaring. SEPARATION — background deep so she reads about 2 stops up. BOUNCE — a warm gold kick across the silk.
 
-FRAMING: ASPECT 9:16; medium, chest-up to mid-forearm, 11% headroom, the flicking shawl entering the upper third, warm negative space for the embers to swirl.
+FRAMING: ASPECT 9:16; MEDIUM near-full, three-quarter, Aira centred as the vuelta begins, the bata-de-cola starting to whirl and the first embers catching.
 SUBJECT FRAMING & POSITION: The frame opens to a medium — chest-up to mid-forearm, about 11% headroom — with the flicking shawl entering the UPPER third and warm negative space held for the embers to swirl. Aira begins a spiralling vuelta, the torso turning about 8 degrees, the flicking arm extending up and out, weight rolling through the front leg. The increased turn reads as a clear three-quarter now, the body winding into rotation rather than facing flat. Camera at mid distance, centred, the eye carried up to the flicking shawl — the figure caught at the launch of the turn, dynamic and rising. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 LENS + DOF + BOKEH: 50mm, f/2.0; focus split between her near eye and the sparking shawl-edge so both read crisp; the tablao a warm creamy field; embers rendering as soft glowing bokeh; gentle roll-off, no clipping.
@@ -711,17 +705,14 @@ NEGATIVE: mirrored, flipped, inverted, extra limbs, fused fingers, melted featur
 
 IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked identity reference and hold her the SAME PERSON for the entire 6-second clip and every generated frame. Treat identity as a FIXED skeleton that never changes — bone structure (skull, cheekbones, jawline, chin), overall face shape and proportions, eye shape, spacing and iris colour, nose and lip shape, skin tone and real skin texture (visible pores, fine peach-fuzz; no plastic smoothing, no beautification creep, no face re-shaping), hairline, hair colour and texture, height, build and hand/finger anatomy. ONLY the soft expression muscles may move — eyelids, brows, cheeks and mouth corners — together with the eyes, gaze and head; expression and lip-sync animate ON TOP of that fixed identity and must NEVER alter the face shape, the eye colour, or who she is. Keep expression changes smooth and moderate and lead them with the EYES and GAZE (soft smiles, brow lifts, a parted breath, eyes tracing the object) — no extreme grimace, no wide-mouth distortion, no hard squint, no rapid expression flicker that would warp the geometry; favour one clean expression transition per clip. ABSOLUTE ZERO identity drift: no morphing, melting, smearing, rubbery warping, face-swapping, twinning or a second/duplicate subject, no age, weight, ethnicity or gender shift, no extra, missing or fused fingers or limbs. Identity stays identical at the first frame, every in-between frame, the loop seam and the last frame. Through any transform, impossible move or fast action ONLY the intended element (wardrobe, environment, props or effect) changes — her face, identity and proportions stay fully recognizable; interpolate strictly between the locked keyframes and never invent a new face, new hands, extra limbs or a second subject. Do not mirror, flip or invert the frame.
 
-SHOT TYPE: medium, chest-up to mid-forearm, subject fills about 60% of the vertical frame.
-
-CAMERA MOVEMENT: a slow continuing push with a gentle 5° arc following the start of her vuelta (one flowing move), otherwise stable.
+SHOT TYPE: MEDIUM near-full, three-quarter; subject about 62% of the frame, centred.
 
 LENS: 50mm, f/2.0.
 
-CHOREOGRAPHY & FLUID MOTION: her flicking arm extends up on a sharp exhale as the body begins a spiralling vuelta and the opposite arm counter-balances low — a continuous flamenco turn that grows directly out of the previous braceo, soft joints, weighted and whirling, the dance and the igniting silk moving as one.
-
-SUBJECT ACTION WITH TIMING:
-- 0.0–3.0s — Aira flicks the fringed mantón up and out, the fringe beginning to dissolve into the first creeping embers as she initiates a vuelta.
-- 3.0–6.0s — the embers lift and swirl as her eyes flash with fierce wonder and the bata-de-cola starts to whirl. One clean continuous turn, real fire physics.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold):
+- [00:00–00:02] MEDIUM near-full, three-quarter. She is ALREADY flicking the mantón up and out, the fringe dissolving into the first creeping embers as the body begins a spiralling vuelta. Camera is already ARC-TRACKING with the turn (a controlled whip-arc).
+- [00:02–00:04] Embers lift and swirl, the bata-de-cola starting to whirl; her eyes flash with fierce wonder, tracing the rising sparks. Camera holds her through the arc.
+- [00:04–00:06] The turn gathers speed, sparks wheeling outward; her gaze snaps back toward lens. Camera carries the arc onward.
 
 MICRO-MOVEMENT / ANTI-STIFFNESS: life never stops — breath moving the chest, the bun-flower and strands lifting with the turn, micro weight-shifts whirling through the supporting leg, the flicking arm carrying a living follow-through, living eyes and a slow blink; no freeze, no robotic hold.
 
@@ -731,9 +722,9 @@ ENVIRONMENT: Andalusian tablao, the first embers lifting and swirling in the war
 
 AUDIO: diegetic only. Ambient — low warm room tone and candle flicker. SFX — a sharp silk-flick whoosh at 0.8s, a rising ember-crackle from 1.6s as the shawl ignites, a soft heel-tap at 3.2s as she turns. Reaction — a fierce soft breath at 3.0s. The master track lifts — the guitar and palmas joined by a low cajón pulse kindling under the crackle (present, never full). VO — none this frame.
 
-DURATION: 3 seconds (0:06–0:09 of 25s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps acquisition with a touch of slow-mo on the shawl-flick, 180° shutter, gentle natural motion blur; playback real-time.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none.
 
@@ -763,7 +754,7 @@ SPATIAL LOGIC: FOREGROUND — the nearest wheeling embers at roughly 16% frame d
 
 LIGHTING: KEY — warm spotlight feathered above-front. FILL — soft warm bounce below. RIM — a brilliant warm gold rim setting the ember-swirl and fanned silk alight. PRACTICAL — candle-glow flaring strongest. SEPARATION — background deep so she reads about 2 stops up. BOUNCE — a strong warm gold kick across the swirl.
 
-FRAMING: ASPECT 9:16; medium-wide, head-to-thigh to show the fanned train, 8% headroom, the ember-swirl filling the warm negative space.
+FRAMING: ASPECT 9:16; FULL-LENGTH, low hero angle, Aira centred mid-turn, the bata-de-cola fanned and the ember-swirl wheeling around her, warm sparks filling the frame.
 SUBJECT FRAMING & POSITION: A medium-wide frame — head to thigh — to show the fanned train, about 8% headroom, the ember-swirl filling the warm negative space. This is the widest, most powerful body of the concept: the torso spiralled to its fullest in the vuelta, both arms flung wide and curving, weight whirling through the turning leg, spine arched tall. Camera pulls back to hold the whole turning figure and the fanned skirt. She reads as a dynamic near-profile-to-three-quarter caught mid-spin, the body wheeling through frame centre rather than posed to lens — the apex of the dance. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 LENS + DOF + BOKEH: 50mm, f/2.0; focus split between her near eye and the nearest embers so both read crisp; the tablao a warm field; wheeling sparks rendering as bright amber bokeh; gentle roll-off, no clipping.
@@ -782,17 +773,14 @@ NEGATIVE: mirrored, flipped, inverted, extra limbs, fused fingers, melted featur
 
 IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked identity reference and hold her the SAME PERSON for the entire 6-second clip and every generated frame. Treat identity as a FIXED skeleton that never changes — bone structure (skull, cheekbones, jawline, chin), overall face shape and proportions, eye shape, spacing and iris colour, nose and lip shape, skin tone and real skin texture (visible pores, fine peach-fuzz; no plastic smoothing, no beautification creep, no face re-shaping), hairline, hair colour and texture, height, build and hand/finger anatomy. ONLY the soft expression muscles may move — eyelids, brows, cheeks and mouth corners — together with the eyes, gaze and head; expression and lip-sync animate ON TOP of that fixed identity and must NEVER alter the face shape, the eye colour, or who she is. Keep expression changes smooth and moderate and lead them with the EYES and GAZE (soft smiles, brow lifts, a parted breath, eyes tracing the object) — no extreme grimace, no wide-mouth distortion, no hard squint, no rapid expression flicker that would warp the geometry; favour one clean expression transition per clip. ABSOLUTE ZERO identity drift: no morphing, melting, smearing, rubbery warping, face-swapping, twinning or a second/duplicate subject, no age, weight, ethnicity or gender shift, no extra, missing or fused fingers or limbs. Identity stays identical at the first frame, every in-between frame, the loop seam and the last frame. Through any transform, impossible move or fast action ONLY the intended element (wardrobe, environment, props or effect) changes — her face, identity and proportions stay fully recognizable; interpolate strictly between the locked keyframes and never invent a new face, new hands, extra limbs or a second subject. Do not mirror, flip or invert the frame.
 
-SHOT TYPE: medium-wide, head-to-thigh, subject fills about 65% of the vertical frame.
-
-CAMERA MOVEMENT: a slow arc easing to a gentle settle at the crest of the turn (one flowing move), no whip.
+SHOT TYPE: FULL-LENGTH, low hero angle; subject about 70% of the frame, centred, fanned train and ember-swirl in frame.
 
 LENS: 50mm, f/2.0.
 
-CHOREOGRAPHY & FLUID MOTION: the apex vuelta — both arms open wide in a powerful curving floreo following the ember-swirl as the body spirals to its fullest, the bata-de-cola fanning wide; a single expansive flamenco turn, weighted, whirling and continuous, the most flowing beat of the whole phrase.
-
-SUBJECT ACTION WITH TIMING:
-- 0.0–3.0s — the mantón bursts fully into a swirling spiral of glowing embers wheeling around her as she completes the vuelta, the train fanning wide.
-- 3.0–6.0s — she flings both arms wide and lifts a fierce triumphant gaze to lens as the embers crest. One impossible move at full crest, real fire physics.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold):
+- [00:00–00:02] FULL-LENGTH, low hero angle. She is ALREADY mid-vuelta, the mantón bursting into a swirling spiral of glowing embers wheeling around her, the bata-de-cola fanning. Camera is already ORBITING the turn.
+- [00:02–00:04] She flings both arms wide into a powerful floreo as the embers crest; a fierce triumphant gaze lifts to lens. Camera completes the orbit and rises a touch into the apex.
+- [00:04–00:06] The ember-swirl peaks and begins to settle; she holds the wide triumphant shape. Camera eases to the held crest.
 
 MICRO-MOVEMENT / ANTI-STIFFNESS: alive at the peak — breath at the top of the inhale moving the chest, strands and the silk flower lifting in the whirl, micro weight-shifts keeping the turn liquid, the ember-swirl carrying continuous internal motion, living eyes with a slow blink; absolutely no freeze, no statue hold even at the hero beat.
 
@@ -802,9 +790,9 @@ ENVIRONMENT: Andalusian tablao at the transform crest, embers wheeling and trail
 
 AUDIO: diegetic only. Ambient — low warm room tone. SFX — a full warm ember-whoosh-crackle cresting at 1.5s as the shawl bursts (full but not harsh), a flurry of spark-ticks 1.5–3.8s, a sharp heel-stamp at 3.0s landing the turn. Reaction — a fierce soft exhale at 3.0s. The master track reaches its peak — guitar, driving palmas and cajón swelling to the crest with a warm string lift (present, never full). VO — none this frame.
 
-DURATION: 4 seconds (0:09–0:13 of 25s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps acquisition with tasteful slow-mo on the ember-burst and turn, 180° shutter, natural motion blur on the swirl and arms; playback real-time.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none.
 
@@ -836,7 +824,7 @@ SPATIAL LOGIC: FOREGROUND — the presented vial at roughly 18% frame depth, tac
 
 LIGHTING: KEY — warm spotlight feathered above-front. FILL — soft warm bounce below. RIM — a warm gold rim on the bun and shoulder. PRACTICAL — candle-glow eased back. SEPARATION — background deep so she reads about 2 stops up. BOUNCE — a warm gold kick on the vial.
 
-FRAMING: ASPECT 9:16; medium close, chest-up, 12% headroom, the vial entering the lower third, balanced warm negative space.
+FRAMING: ASPECT 9:16; MEDIUM CLOSE-UP, eye-level, Aira frame-left presenting the Ember vial at her collarbone, balanced warm negative space — the spoken-line beat.
 SUBJECT FRAMING & POSITION: Back to the chest-up medium-close, about 12% headroom, the presented vial in the lower third, balanced warm negative space. The turn resolves: arms draw back into a proud presenting carriage and the torso squares proud toward the lens with a soft 3-degree spiral, one shoulder still lifted, spine arched tall, weight regal on the front leg. Camera near and intimate for the spoken beat — the most frontal, composed, direct-to-lens address of the set as the line lands. She is centred and settled into the proud flamenco stillness after the whirl. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 LENS + DOF + BOKEH: 50mm, f/2.0; focus split between her near eye and the vial label so both read crisp; the tablao a warm field; gentle highlight roll-off, no clipping.
@@ -855,17 +843,14 @@ NEGATIVE: mirrored, flipped, inverted, extra limbs, fused fingers, melted featur
 
 IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked identity reference and hold her the SAME PERSON for the entire 6-second clip and every generated frame. Treat identity as a FIXED skeleton that never changes — bone structure (skull, cheekbones, jawline, chin), overall face shape and proportions, eye shape, spacing and iris colour, nose and lip shape, skin tone and real skin texture (visible pores, fine peach-fuzz; no plastic smoothing, no beautification creep, no face re-shaping), hairline, hair colour and texture, height, build and hand/finger anatomy. ONLY the soft expression muscles may move — eyelids, brows, cheeks and mouth corners — together with the eyes, gaze and head; expression and lip-sync animate ON TOP of that fixed identity and must NEVER alter the face shape, the eye colour, or who she is. Keep expression changes smooth and moderate and lead them with the EYES and GAZE (soft smiles, brow lifts, a parted breath, eyes tracing the object) — no extreme grimace, no wide-mouth distortion, no hard squint, no rapid expression flicker that would warp the geometry; favour one clean expression transition per clip. ABSOLUTE ZERO identity drift: no morphing, melting, smearing, rubbery warping, face-swapping, twinning or a second/duplicate subject, no age, weight, ethnicity or gender shift, no extra, missing or fused fingers or limbs. Identity stays identical at the first frame, every in-between frame, the loop seam and the last frame. Through any transform, impossible move or fast action ONLY the intended element (wardrobe, environment, props or effect) changes — her face, identity and proportions stay fully recognizable; interpolate strictly between the locked keyframes and never invent a new face, new hands, extra limbs or a second subject. Do not mirror, flip or invert the frame.
 
-SHOT TYPE: medium close, chest-up, subject fills about 56% of the vertical frame.
-
-CAMERA MOVEMENT: a near-locked slow settle with a barely-there 4% push (one move), giving the line room to land.
+SHOT TYPE: MEDIUM CLOSE-UP, eye-level; face about 60% of the frame, frame-left, vial at collarbone.
 
 LENS: 50mm, f/2.0.
 
-CHOREOGRAPHY & FLUID MOTION: the deceleration beat — arms draw back smoothly from the wide apex into a proud presenting carriage as the body settles to centre on a slow exhale; the dance resolves without any hard stop, the final regal position arrived at through flow.
-
-SUBJECT ACTION WITH TIMING:
-- 0.0–2.1s — Aira draws her arms in from the turn and presents the Ember vial proud at her collarbone, the last glints drifting around her.
-- 2.1–5.2s — she lifts a fierce assured gaze to lens and speaks the line. One clean continuous resolve, real physics.
+SHOT BREAKDOWN (timed, 6s · real-time — the spoken beat; motion stays continuous, expression eye-led and identity-safe):
+- [00:00–00:02] MEDIUM CLOSE-UP, eye-level. She is ALREADY drawing her arms in from the turn, presenting the Ember vial proud at her collarbone, last ember-glints drifting. Focus rests on the vial.
+- [00:02–00:04] She lifts a fierce, assured gaze to lens and speaks — "born from fire." — lips and jaw moving in natural sync. Camera holds; focus RACKS from the vial up to her eyes as the line lands.
+- [00:04–00:06] The quarter-smile sets, eyes steady and warm; one slow blink. Camera holds the eyes sharp.
 
 MICRO-MOVEMENT / ANTI-STIFFNESS: alive through the line — natural speech motion in the jaw and lips, breath moving the chest and silk, the bun-flower settling, the temple strand drifting, micro weight-shifts under the regal stance, living eyes and a slow blink between phrases; never frozen while speaking.
 
@@ -875,9 +860,9 @@ ENVIRONMENT: Andalusian tablao, settling from the turn, last warm glints driftin
 
 AUDIO: diegetic plus the spoken line. Ambient — low warm room tone and candle flicker. SFX — a soft fading ember-shimmer at 0.6s, a faint glass-tap at 1.5s as she presents the vial. VO — Aira speaks "born from fire." landing cleanly 2.4–4.2s, English with a natural Indian accent, low and fierce. The master track ducks cleanly under the vocal so the line sits forward (present, never full). Reaction — a soft proud breath at 2.1s before the line.
 
-DURATION: 4 seconds (0:13–0:17 of 25s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps acquisition, 180° shutter, natural motion blur; playback 24fps real-time for clean lip-sync.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: full natural lip-sync to "born from fire." — low, fierce, precisely timed, no overshoot.
 
@@ -907,7 +892,7 @@ SPATIAL LOGIC: FOREGROUND — the vial at roughly 19% frame depth, tack sharp. M
 
 LIGHTING: KEY — warm spotlight feathered above-front. FILL — soft warm bounce below. RIM — a warm gold rim on the bun and raised arm. PRACTICAL — candle-glow warm and steady. SEPARATION — background deep so she reads about 2 stops up. BOUNCE — a warm gold kick on the vial.
 
-FRAMING: ASPECT 9:16; medium close, chest-up, 12% headroom, the floreo arm framing the upper third, warm negative space.
+FRAMING: ASPECT 9:16; CLOSE-UP, three-quarter, Aira frame-right, a slow floreo curling to her temple, last embers winking, warm afterglow.
 SUBJECT FRAMING & POSITION: A chest-up medium-close, about 12% headroom, the floreo arm framing the upper third, warm negative space camera-left. Aira settles to a regal carriage, one shoulder still lifted, weight easing onto the back leg with a 2-degree hip counter-tilt, spine tall and breathing down from the turn. Camera stays close. A single slow floreo curls up toward her temple, drawing a graceful vertical line on one side of the frame, while she holds a near-frontal proud address — the calm flamenco resolve, the raised arm giving the chest-up frame an elegant asymmetry. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 LENS + DOF + BOKEH: 50mm, f/2.0; focus on her near eye with the vial crisp; the tablao a warm field; last embers as soft amber bokeh; gentle roll-off, no clipping.
@@ -926,17 +911,14 @@ NEGATIVE: mirrored, flipped, inverted, extra limbs, fused fingers, melted featur
 
 IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked identity reference and hold her the SAME PERSON for the entire 6-second clip and every generated frame. Treat identity as a FIXED skeleton that never changes — bone structure (skull, cheekbones, jawline, chin), overall face shape and proportions, eye shape, spacing and iris colour, nose and lip shape, skin tone and real skin texture (visible pores, fine peach-fuzz; no plastic smoothing, no beautification creep, no face re-shaping), hairline, hair colour and texture, height, build and hand/finger anatomy. ONLY the soft expression muscles may move — eyelids, brows, cheeks and mouth corners — together with the eyes, gaze and head; expression and lip-sync animate ON TOP of that fixed identity and must NEVER alter the face shape, the eye colour, or who she is. Keep expression changes smooth and moderate and lead them with the EYES and GAZE (soft smiles, brow lifts, a parted breath, eyes tracing the object) — no extreme grimace, no wide-mouth distortion, no hard squint, no rapid expression flicker that would warp the geometry; favour one clean expression transition per clip. ABSOLUTE ZERO identity drift: no morphing, melting, smearing, rubbery warping, face-swapping, twinning or a second/duplicate subject, no age, weight, ethnicity or gender shift, no extra, missing or fused fingers or limbs. Identity stays identical at the first frame, every in-between frame, the loop seam and the last frame. Through any transform, impossible move or fast action ONLY the intended element (wardrobe, environment, props or effect) changes — her face, identity and proportions stay fully recognizable; interpolate strictly between the locked keyframes and never invent a new face, new hands, extra limbs or a second subject. Do not mirror, flip or invert the frame.
 
-SHOT TYPE: medium close, chest-up, subject fills about 56% of the vertical frame.
-
-CAMERA MOVEMENT: a slow gentle 4% push easing through the afterglow (one move), stable.
+SHOT TYPE: CLOSE-UP, three-quarter; face about 62% of the frame, frame-right.
 
 LENS: 50mm, f/2.0.
 
-CHOREOGRAPHY & FLUID MOTION: a single slow floreo curls up to the temple as the body breathes down from the turn — a graceful continuous flamenco resolve flowing out of the Frame 5 carriage, soft wrist and elbow, the arm easing rather than stopping.
-
-SUBJECT ACTION WITH TIMING:
-- 0.0–2.4s — Aira curls a slow floreo up to her temple as the last embers wink out around her.
-- 2.4–4.5s — she softens into a warm proud afterglow, a knowing quarter-smile settling as she breathes. One clean continuous resolve, real physics.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold):
+- [00:00–00:02] CLOSE-UP, three-quarter. She is ALREADY curling a slow floreo up toward her temple as the last embers wink out around her. Camera drifts a touch, focus soft on the embers.
+- [00:02–00:04] Her hand settles near her temple; her gaze softens from fierce to warm as a knowing quarter-smile eases in. Focus racks gently to her eyes.
+- [00:04–00:06] A slow proud breath, eyes warm to lens. Camera holds the intimate afterglow.
 
 MICRO-MOVEMENT / ANTI-STIFFNESS: continuous life — breath moving the chest and silk, the bun-flower settling, the temple strand drifting, micro weight-shifts under the stance, the floreo carrying a living follow-through, living eyes and a slow blink; no freeze, no robotic hold.
 
@@ -946,9 +928,9 @@ ENVIRONMENT: Andalusian tablao in the afterglow, last embers winking out in the 
 
 AUDIO: diegetic only. Ambient — low warm room tone and candle flicker. SFX — a soft final ember-tick at 0.9s, a faint silk-settle at 2.7s. Reaction — a satisfied soft breath at 2.4s. The master track holds warm — guitar and soft palmas easing through the afterglow (present, never full). VO — none this frame.
 
-DURATION: 4 seconds (0:17–0:21 of 25s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps acquisition, 180° shutter, natural motion blur on the floreo; playback real-time.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none.
 
@@ -978,7 +960,7 @@ SPATIAL LOGIC: FOREGROUND — the vial and cradling fingers at roughly 20% frame
 
 LIGHTING: identical to Frame 1 — warm dramatic spotlight, soft warm fill, warm gold rim on bun and shoulder, living candle practical, background held deep, warm gold kick on the vial.
 
-FRAMING: ASPECT 9:16; medium close, chest-up, 12% headroom, the vial in the lower third, warm negative space camera-left — matched exactly to Frame 1.
+FRAMING: ASPECT 9:16; COWBOY three-quarter, low hero angle, Aira frame-right matched exactly to Frame 1 for the loop, vial at collarbone.
 SUBJECT FRAMING & POSITION: The loop-close frame matches Frame 1 exactly — chest-up medium-close, about 12% headroom, the vial in the lower third, warm negative space camera-left. Aira returns precisely to the opening flamenco stance: centred, torso rotated about 6 degrees, one shoulder lifted, weight proud on the front leg with a 3-degree hip counter-tilt, spine arched tall, near-frontal to lens. Camera distance and composition match the start so the final instant rhymes back into the first for a perfect loop, her arms flowing back through the opening floreo — caught mid-phrase, the circle closed. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 LENS + DOF + BOKEH: 50mm, f/2.0; focus split between her near eye and the vial label; the tablao a warm field; candle-glow as soft amber bokeh; specular bloom off the bronze cap; gentle roll-off, no clipping — matched to Frame 1.
@@ -997,17 +979,14 @@ NEGATIVE: mirrored, flipped, inverted, extra limbs, fused fingers, melted featur
 
 IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked identity reference and hold her the SAME PERSON for the entire 6-second clip and every generated frame. Treat identity as a FIXED skeleton that never changes — bone structure (skull, cheekbones, jawline, chin), overall face shape and proportions, eye shape, spacing and iris colour, nose and lip shape, skin tone and real skin texture (visible pores, fine peach-fuzz; no plastic smoothing, no beautification creep, no face re-shaping), hairline, hair colour and texture, height, build and hand/finger anatomy. ONLY the soft expression muscles may move — eyelids, brows, cheeks and mouth corners — together with the eyes, gaze and head; expression and lip-sync animate ON TOP of that fixed identity and must NEVER alter the face shape, the eye colour, or who she is. Keep expression changes smooth and moderate and lead them with the EYES and GAZE (soft smiles, brow lifts, a parted breath, eyes tracing the object) — no extreme grimace, no wide-mouth distortion, no hard squint, no rapid expression flicker that would warp the geometry; favour one clean expression transition per clip. ABSOLUTE ZERO identity drift: no morphing, melting, smearing, rubbery warping, face-swapping, twinning or a second/duplicate subject, no age, weight, ethnicity or gender shift, no extra, missing or fused fingers or limbs. Identity stays identical at the first frame, every in-between frame, the loop seam and the last frame. Through any transform, impossible move or fast action ONLY the intended element (wardrobe, environment, props or effect) changes — her face, identity and proportions stay fully recognizable; interpolate strictly between the locked keyframes and never invent a new face, new hands, extra limbs or a second subject. Do not mirror, flip or invert the frame.
 
-SHOT TYPE: medium close, chest-up, subject fills about 55% of the vertical frame — matched to Frame 1.
-
-CAMERA MOVEMENT: returns to the exact Frame 1 start position with a slow 8% push reset (one move), so the loop hands off invisibly.
+SHOT TYPE: COWBOY three-quarter, low hero angle, matched to Frame 1; subject about 60% of the frame, frame-right.
 
 LENS: 50mm, f/2.0.
 
-CHOREOGRAPHY & FLUID MOTION: the closing flow returns her floreo arm through the opening spiral and her gaze back to the Frame 1 hook on a proud inhale — the dance completing its endless circle, decelerating into the exact start pose through pure flow so play-through loops with no seam.
-
-SUBJECT ACTION WITH TIMING:
-- 0.0–2.2s — Aira eases the vial back to collarbone height and her arm flows back through the opening floreo, the mantón redraping over her forearm.
-- 2.2–6.0s — she returns to the fierce composed quarter-smile and direct burning gaze, matching the Frame 1 hook exactly. One clean continuous loop-resolve, real physics.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold):
+- [00:00–00:02] COWBOY three-quarter, low hero angle (matched to Frame 1). She is ALREADY easing the vial back to collarbone height, her arm flowing back through the opening floreo, the mantón redrawing. Camera begins a slow PULL-OUT / reverse toward the Frame 1 distance.
+- [00:02–00:04] The spiral returns to the opening carriage, embers fully quiet; her expression composes back toward the fierce quarter-smile. Camera continues pulling out.
+- [00:04–00:06] She lands the exact Frame 1 pose and burning gaze. Camera arrives precisely at the opening framing for an invisible loop.
 
 MICRO-MOVEMENT / ANTI-STIFFNESS: continuous life all the way into the loop — breath, bun-flower settle, drifting temple strand, micro weight-shifts, the floreo follow-through, living eyes and a slow blink — matched to Frame 1 so the cycle never reveals a freeze or a seam.
 
@@ -1017,9 +996,9 @@ ENVIRONMENT: Andalusian tablao, returned to the opening state, candle-glow warm 
 
 AUDIO: diegetic only. Ambient — low warm room tone and candle flicker matched to Frame 1. SFX — a soft glass-tap at 2.1s as the vial settles, a faint silk-rustle at 3.9s as the shawl redrapes. Reaction — a proud soft breath at 2.2s. The master track resolves on a sustained warm guitar-and-string chord that loops seamlessly back into the Frame 1 figure with no audible seam (present, never full). VO — none.
 
-DURATION: 4 seconds (0:21–0:25 of 25s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps acquisition, 180° shutter, natural motion blur on the returning floreo; playback real-time, loop-matched to Frame 1.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — lips return to the composed soft-parted Frame 1 set.
 
