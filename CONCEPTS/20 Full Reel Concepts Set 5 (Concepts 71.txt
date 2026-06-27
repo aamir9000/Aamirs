@@ -2635,13 +2635,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: medium close, chest-up, subject fills 55% of the vertical frame.
 
-CAMERA MOVEMENT: a single slow 8% push-in across the clip, otherwise locked-off — one move only, no whip, no handoff.
-
 LENS: 50mm, f/2.8, smooth creamy jewel background fall-off.
 
-SUBJECT ACTION WITH TIMING:
-- 0.0–3.0s — Aira tilts the chrome-capped vial a few degrees into the key, speculars sliding across the glass and the wet-gloss ribbons gliding on the vinyl.
-- 3.0–6.0s — she lifts her eyes to lens on a soft inhale as the cool quarter-smile blooms. One clean action, real physics throughout.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Medium close chest-up: a slow push-in is already gliding toward her as she tilts the chrome-capped vial a few degrees into the key, speculars sliding across the glass and wet-gloss ribbons gliding on the vinyl gown; gaze lowered to the vial.
+- [00:02–00:04] The push continues as she lifts her eyes to lens on a soft inhale and a cool quarter-smile blooms, the UV enamel-drip walls glowing behind.
+- [00:04–00:06] She holds, sleek and high-gloss, one brow a hair higher, eyes bright and direct to lens.
 
 LIGHTING: clamshell beauty key with lifted clean fill; live moving speculars across glass, chrome and wet vinyl; wall held one stop down; hair-light steady on the finger-wave.
 
@@ -2649,9 +2648,9 @@ ENVIRONMENT: ultraviolet gloss studio, jewel gloss-drip walls and a faint UV col
 
 AUDIO: fully silent reel — no spoken word, no music in-clip. Diegetic and design only: low warm studio room tone bed; a soft glass-tap as fingers settle on the vial near 0.5s (gentle attack, short tail); a faint vinyl-shift sheen-tick near 3.1s; a light airy gloss-shimmer accent near 4.6s timed to the eye-lift; a soft audible breath near 3.0s. The external master track sits low and cool under this frame.
 
-DURATION: 5 seconds (0:00 to 0:05 of 30s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps acquisition, 180° shutter, natural motion blur on the vial tilt; playback 24fps real-time.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — lips closed or softly parted, composed.
 
@@ -2712,14 +2711,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: medium, waist-up, subject fills about 60% of the vertical frame.
 
-CAMERA MOVEMENT: a smooth 10% arc-push that drifts a few degrees around her as the gown gloss-forms (single move), no whip, no cut.
-
 LENS: 50mm, f/2.8.
 
-SUBJECT ACTION WITH TIMING:
-- 0.0–2.0s — glossy enamel-ribbons pour down from above as Aira opens her arms to present.
-- 2.0–4.5s — the enamel sheets around the bodice and peplum and gloss-sets into sculptural form, edges snapping to a wet-lacquer sheen.
-- 4.5–6.0s — the last ribbons set, she eases into a confident finished pose, gloss-shimmer fading. START keyframe (enamel pouring) and END keyframe (gown fully formed) locked; identity fixed throughout.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Medium waist-up: a smooth 10% arc-push is already drifting a few degrees around her as glossy enamel-ribbons pour down from above and she opens her arms to present; gaze tracking the pouring enamel.
+- [00:02–00:04] The arc-push rides the build as the enamel sheets around the bodice and peplum and gloss-sets into sculptural form, edges snapping to a wet-lacquer sheen; a cool breath, brows lifting.
+- [00:04–00:06] The last ribbons set and the gloss-shimmer fades as the move eases; she lands a confident finished pose, eyes alight on the liquid-vinyl gown.
 
 LIGHTING: beauty key with clamshell fill; a brief brighter bounce pulse timed to the gloss-set; live mirror speculars chasing across sheets; hair-light steady; wall one stop down.
 
@@ -2727,9 +2724,9 @@ ENVIRONMENT: ultraviolet gloss studio with a fading enamel motion-trail and soft
 
 AUDIO: fully silent reel — no spoken word, no in-clip music. Diegetic and design only: room-tone bed; a soft airy whoosh of pouring enamel near 0.3s; a gentle cluster of glossy gloss-set ticks near 2.0 to 4.0s as the gown forms (layered, short tails); a soft bright sheen-settle near 5.0s; a light breath near 4.6s. External master lifts gently here.
 
-DURATION: 6 seconds (0:05 to 0:11 of 30s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps, 180° shutter, natural motion blur on the pouring enamel and the arc-push; playback 24fps real-time.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — soft wonder expression, no speech.
 
@@ -2786,13 +2783,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: tight medium close with a macro foreground on the vial.
 
-CAMERA MOVEMENT: a single slow rack-focus pull (product to eye) with a 5% drift-in; one move, no cut, no whip.
-
 LENS: 90mm macro, f/3.2.
 
-SUBJECT ACTION WITH TIMING:
-- 0.0–3.0s — Aira slowly rotates the chrome-capped vial, the violet lacquer and facets catching light as focus holds on the glass.
-- 3.0–6.0s — focus racks smoothly to her near eye as she lifts her gaze and the cool half-smile settles. One clean action, real physics.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Tight medium close with a macro foreground on the vial: a slow rack-focus pull with a 5% drift-in is already underway as she slowly rotates the chrome-capped vial, the violet lacquer and facets catching light while focus holds on the glass.
+- [00:02–00:04] Focus racks smoothly off the vial toward her near eye as she lifts her gaze, the drift settling; a cool half-smile beginning.
+- [00:04–00:06] The half-smile settles with her eye now tack-sharp, the vial soft in the foreground, gaze direct and composed.
 
 LIGHTING: beauty key with clamshell fill; live soft speculars sliding across glass and chrome through the rotation; hair-light steady; wall down one stop.
 
@@ -2800,9 +2796,9 @@ ENVIRONMENT: ultraviolet gloss studio, faint UV colour-haze and soft mirror-floo
 
 AUDIO: fully silent reel — no spoken word, no in-clip music. Diegetic and design only: room-tone bed; a soft glass-rotate tick near 1.2s (gentle, short); a delicate gloss-shimmer accent near 3.1s timed to the focus-rack; a light breath near 3.0s. External master holds low and cool.
 
-DURATION: 5 seconds (0:11 to 0:16 of 30s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps, 180° shutter, natural blur on the rotation and rack; playback 24fps real-time.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — lips closed or softly parted.
 
@@ -2859,13 +2855,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: beauty close-up, face-dominant.
 
-CAMERA MOVEMENT: a near-imperceptible 4% push-in only; effectively locked to let the face carry the beat; no cut, no whip.
-
 LENS: 85mm, f/2.5.
 
-SUBJECT ACTION WITH TIMING:
-- 0.0–3.0s — the radiant smile blooms with a genuine eye-crinkle as her gaze lifts to lens.
-- 3.0–6.0s — a soft exhale and a tiny confident chin-lift, the fingertips settling at the jaw, the expression holding warm and open. One clean emotional action, no speech.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Beauty close-up, face-dominant: an almost-imperceptible 4% push is already breathing in as the radiant smile blooms with a genuine eye-crinkle and her gaze lifts to lens (silent — no words).
+- [00:02–00:04] A soft exhale and a tiny confident chin-lift follow as her fingertips settle at the jaw, the expression warm and open.
+- [00:04–00:06] The warm open expression holds, eyes bright and direct — a wordless emotional reveal in place of any line.
 
 LIGHTING: beauty key wrapping the face with clamshell fill; a gentle catchlight travelling across the iris as the eyes lift; hair-light steady; wall one stop down.
 
@@ -2873,9 +2868,9 @@ ENVIRONMENT: ultraviolet gloss studio, faint UV colour-haze.
 
 AUDIO: fully silent reel — no spoken word, no mouthed line, no in-clip music. Diegetic and design only: intimate room-tone bed; a soft audible breath near 3.3s; a delicate cool gloss-swell design accent near 1.5s timed to the smile bloom (subtle, long-soft tail); a faint vinyl sheen-settle near 4.5s. External master reaches its coolest, fullest-but-restrained level under this crest.
 
-DURATION: 4 seconds (0:16 to 0:20 of 30s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps, 180° shutter, natural subtle blur; playback 24fps real-time.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — a genuine smile and exhale only, no words formed.
 
@@ -2936,14 +2931,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: medium-wide, three-quarter body, subject fills about 50% of the vertical frame.
 
-CAMERA MOVEMENT: a smooth graphic 3D orbit of about 20° around her as the splash-crown bursts open (single continuous move, beauty mandate), no cut, no whip.
-
 LENS: 35mm, f/3.5.
 
-SUBJECT ACTION WITH TIMING:
-- 0.0–2.4s — Aira sweeps her arms outward and the liquid-enamel splash-crown bursts open around her in glossy ribboned rays.
-- 2.4–4.2s — the burst reaches its luminous peak, gloss-droplets spiralling, her awe-struck joyful smile at full bloom.
-- 4.2–6.0s — the rays hold and begin a gentle settle as the droplets drift. PEAK keyframe locked; identity fixed throughout.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Medium-wide three-quarter body: a smooth graphic 20° 3D orbit is already arcing around her as she sweeps her arms outward and the liquid-enamel splash-crown bursts open in glossy ribboned rays; gaze lifting into the burst.
+- [00:02–00:04] The orbit rides the burst to its luminous peak, gloss-droplets spiralling around her; eyes widening, an awe-struck joyful smile at full bloom.
+- [00:04–00:06] The rays hold and begin a gentle settle as the droplets drift and the orbit eases; her joyful smile landing, eyes alight.
 
 LIGHTING: beauty key with clamshell fill; the splash-crown acting as a live wrapping jewel source; a bright bounce pulse at the 2.4s peak; mirror speculars chasing across surfaces; hair-light steady; wall one stop down.
 
@@ -2951,9 +2944,9 @@ ENVIRONMENT: ultraviolet gloss studio overswept by the radiant enamel splash-cro
 
 AUDIO: fully silent reel — no spoken word, no in-clip music. Diegetic and design only: room-tone bed; a soft airy magical burst-whoosh rising from 0.2 to 2.4s into the splash (gentle swell, no harsh transient); a delicate glossy droplet-shimmer cascade peaking near 2.4s and drifting out to 5.4s (layered, soft tails); a soft awe-breath near 2.2s; a faint peplum flare-rustle near 1.4s. External master reaches its fullest-but-still-controlled crest here, then begins easing.
 
-DURATION: 5 seconds (0:20 to 0:25 of 30s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps, 180° shutter, natural motion blur on the orbit, arm-sweep and flying droplets; playback 24fps real-time.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — open joyful smile, no words formed.
 
@@ -3014,13 +3007,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: medium close, chest-up, subject fills 55% of the vertical frame (matched to Frame 1).
 
-CAMERA MOVEMENT: a gentle 6% settle-back that returns the framing to the Frame 1 start position (single move), no cut, no whip — engineered for a seamless loop.
-
 LENS: 50mm, f/2.8.
 
-SUBJECT ACTION WITH TIMING:
-- 0.0–3.0s — the last gloss-droplets settle as Aira eases her arms back in and re-cradles the vial at collarbone height.
-- 3.0–6.0s — she resolves into the calm hero pose with the cool quarter-smile and a soft settling exhale, gaze direct to lens — the final composition matching Frame 1 exactly so the reel loops cleanly into the top.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Medium close chest-up matching Frame 1: a gentle 6% settle-back is already returning the framing toward the opening position as the last gloss-droplets settle; she eases her arms back in and re-cradles the vial at collarbone height, gaze softening.
+- [00:02–00:04] The settle continues as she resolves into the calm hero pose with the cool quarter-smile and a soft settling exhale, the UV gloss studio easing to its opening look; eyes calming.
+- [00:04–00:06] She lands exactly on the Frame 1 composition and gaze, weight settled — a seamless loop seam.
 
 LIGHTING: beauty key with clamshell fill (matched to Frame 1); soft speculars settling on glass and chrome; hair-light steady; wall one stop down.
 
@@ -3028,9 +3020,9 @@ ENVIRONMENT: ultraviolet gloss studio, last gloss-droplets fading, calm restored
 
 AUDIO: fully silent reel — no spoken word, no in-clip music. Diegetic and design only: room-tone bed easing back to the calm opening level; a soft glass-tap as fingers re-settle on the vial near 3.6s (gentle, short tail, mirroring Frame 1's tap); a faint vinyl sheen-settle near 2.4s; a soft settling breath near 4.8s; a last delicate gloss-fade near 1.2s. External master resolves cool and open, easing back so the track restarts cleanly into Frame 1.
 
-DURATION: 5 seconds (0:25 to 0:30 of 30s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps, 180° shutter, natural settle blur; playback 24fps real-time.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — calm quarter-smile, no words.
 

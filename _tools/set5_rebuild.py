@@ -371,6 +371,73 @@ BEATS[75] = [
 ]
 
 
+BEATS[76] = [
+    # F1 - medium close chest-up (push-in)
+    (
+        "Medium close chest-up: a slow push-in is already gliding toward her as she tilts the "
+        "chrome-capped vial a few degrees into the key, speculars sliding across the glass "
+        "and wet-gloss ribbons gliding on the vinyl gown; gaze lowered to the vial.",
+        "The push continues as she lifts her eyes to lens on a soft inhale and a cool "
+        "quarter-smile blooms, the UV enamel-drip walls glowing behind.",
+        "She holds, sleek and high-gloss, one brow a hair higher, eyes bright and direct to "
+        "lens.",
+    ),
+    # F2 - medium waist-up, arc-push (enamel gloss-forms the gown, track the transform)
+    (
+        "Medium waist-up: a smooth 10% arc-push is already drifting a few degrees around her "
+        "as glossy enamel-ribbons pour down from above and she opens her arms to present; "
+        "gaze tracking the pouring enamel.",
+        "The arc-push rides the build as the enamel sheets around the bodice and peplum and "
+        "gloss-sets into sculptural form, edges snapping to a wet-lacquer sheen; a cool "
+        "breath, brows lifting.",
+        "The last ribbons set and the gloss-shimmer fades as the move eases; she lands a "
+        "confident finished pose, eyes alight on the liquid-vinyl gown.",
+    ),
+    # F3 - tight medium close + macro foreground, rack-focus pull (product->eye)
+    (
+        "Tight medium close with a macro foreground on the vial: a slow rack-focus pull with "
+        "a 5% drift-in is already underway as she slowly rotates the chrome-capped vial, the "
+        "violet lacquer and facets catching light while focus holds on the glass.",
+        "Focus racks smoothly off the vial toward her near eye as she lifts her gaze, the "
+        "drift settling; a cool half-smile beginning.",
+        "The half-smile settles with her eye now tack-sharp, the vial soft in the "
+        "foreground, gaze direct and composed.",
+    ),
+    # F4 - beauty close-up, face-dominant (4% push, emotional beat — silent)
+    (
+        "Beauty close-up, face-dominant: an almost-imperceptible 4% push is already breathing "
+        "in as the radiant smile blooms with a genuine eye-crinkle and her gaze lifts to "
+        "lens (silent \u2014 no words).",
+        "A soft exhale and a tiny confident chin-lift follow as her fingertips settle at the "
+        "jaw, the expression warm and open.",
+        "The warm open expression holds, eyes bright and direct \u2014 a wordless emotional "
+        "reveal in place of any line.",
+    ),
+    # F5 - medium-wide three-quarter body, graphic 3D orbit (liquid-enamel splash-crown)
+    (
+        "Medium-wide three-quarter body: a smooth graphic 20\u00b0 3D orbit is already arcing "
+        "around her as she sweeps her arms outward and the liquid-enamel splash-crown bursts "
+        "open in glossy ribboned rays; gaze lifting into the burst.",
+        "The orbit rides the burst to its luminous peak, gloss-droplets spiralling around "
+        "her; eyes widening, an awe-struck joyful smile at full bloom.",
+        "The rays hold and begin a gentle settle as the droplets drift and the orbit eases; "
+        "her joyful smile landing, eyes alight.",
+    ),
+    # F6 - medium close loop close (6% settle-back to F1)
+    (
+        "Medium close chest-up matching Frame 1: a gentle 6% settle-back is already returning "
+        "the framing toward the opening position as the last gloss-droplets settle; she "
+        "eases her arms back in and re-cradles the vial at collarbone height, gaze "
+        "softening.",
+        "The settle continues as she resolves into the calm hero pose with the cool "
+        "quarter-smile and a soft settling exhale, the UV gloss studio easing to its opening "
+        "look; eyes calming.",
+        "She lands exactly on the Frame 1 composition and gaze, weight settled \u2014 a "
+        "seamless loop seam.",
+    ),
+]
+
+
 def build_block(beats):
     return (
         BREAKDOWN_HEADER + "\n"
