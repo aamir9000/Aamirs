@@ -3651,13 +3651,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: medium close, chest-up, subject fills 55% of the vertical frame.
 
-CAMERA MOVEMENT: a single slow 8% push-in across the clip, otherwise locked-off — one move only, no whip, no handoff.
-
 LENS: 50mm, f/2.8, smooth creamy candy background fall-off.
 
-SUBJECT ACTION WITH TIMING:
-- 0.0–3.0s — Aira tilts the bubble-vial a few degrees into the key, speculars sliding across the rounded glass and the gloss settling inside.
-- 3.0–6.0s — she lifts her eyes to lens on a soft inhale as the playful quarter-smile blooms. One clean action, real physics throughout.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Medium close chest-up: a slow push-in is already gliding toward her as she tilts the bubble-vial a few degrees into the key, speculars sliding across the rounded glass and the gloss settling inside; gaze lowered to the vial.
+- [00:02–00:04] The push continues as she lifts her eyes to lens on a soft inhale and a playful quarter-smile blooms, giant candy-chrome mylar balloons glowing behind.
+- [00:04–00:06] She holds, playful and glossy, one brow a hair higher, eyes bright and direct to lens.
 
 LIGHTING: clamshell beauty key with lifted clean fill; live moving speculars across glass, chrome and mylar; balloon wall held one stop down; hair-light steady on the bubble-bun.
 
@@ -3665,9 +3664,9 @@ ENVIRONMENT: candy-chrome balloon studio, giant balloons drifting gently and a f
 
 AUDIO: fully silent reel — no spoken word, no music in-clip. Diegetic and design only: low warm studio room tone bed; a soft glass-tap as fingers settle on the vial near 0.5s (gentle attack, short tail); a faint mylar-shift squeak near 3.1s; a light airy candy-shimmer accent near 4.6s timed to the eye-lift; a soft audible breath near 3.0s. The external master track sits low and bouncy under this frame.
 
-DURATION: 5 seconds (0:00 to 0:05 of 30s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps acquisition, 180° shutter, natural motion blur on the vial tilt; playback 24fps real-time.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — lips closed or softly parted, composed.
 
@@ -3728,14 +3727,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: medium, waist-up, subject fills about 60% of the vertical frame.
 
-CAMERA MOVEMENT: a smooth 10% arc-push that drifts a few degrees around her as the gown inflate-forms (single move), no whip, no cut.
-
 LENS: 50mm, f/2.8.
 
-SUBJECT ACTION WITH TIMING:
-- 0.0–2.0s — flat candy-chrome foil sweeps in from frame edges as Aira opens her arms to present.
-- 2.0–4.5s — the foil inflates and twists into rounded segments around the bodice and skirt, surfaces snapping to a glossy mylar sheen.
-- 4.5–6.0s — the last segments round out, she eases into a confident finished pose, candy-sparks fading. START keyframe (foil flat) and END keyframe (gown fully inflated) locked; identity fixed throughout.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Medium waist-up: a smooth 10% arc-push is already drifting a few degrees around her as flat candy-chrome foil sweeps in from the frame edges and she opens her arms to present; gaze tracking the incoming foil.
+- [00:02–00:04] The arc-push rides the build as the foil inflates and twists into rounded segments around the bodice and skirt, surfaces snapping to a glossy mylar sheen; a delighted breath, brows lifting.
+- [00:04–00:06] The last segments round out and the candy-sparks fade as the move eases; she lands a confident finished pose, eyes alight on the inflated balloon gown.
 
 LIGHTING: beauty key with clamshell fill; a brief brighter bounce pulse timed to the inflate-set; live mirror speculars chasing across segments; hair-light steady; balloon wall one stop down.
 
@@ -3743,9 +3740,9 @@ ENVIRONMENT: candy-chrome balloon studio with a fading candy-spark motion-trail 
 
 AUDIO: fully silent reel — no spoken word, no in-clip music. Diegetic and design only: room-tone bed; a soft airy whoosh of inflating foil near 0.3s; a gentle cluster of mylar-squeak and bouncy inflate ticks near 2.0 to 4.0s as the gown forms (layered, short tails); a soft bright segment-settle near 5.0s; a light breath near 4.6s. External master lifts gently here.
 
-DURATION: 6 seconds (0:05 to 0:11 of 30s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps, 180° shutter, natural motion blur on the inflating mylar and the arc-push; playback 24fps real-time.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — soft wonder expression, no speech.
 
@@ -3802,13 +3799,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: tight medium close with a macro foreground on the bubble-vial.
 
-CAMERA MOVEMENT: a single slow rack-focus pull (product to eye) with a 5% drift-in; one move, no cut, no whip.
-
 LENS: 90mm macro, f/3.2.
 
-SUBJECT ACTION WITH TIMING:
-- 0.0–3.0s — Aira slowly rotates the bubble-vial, gloss and speculars catching light as focus holds on the glass.
-- 3.0–6.0s — focus racks smoothly to her near eye as she lifts her gaze and the playful half-smile settles. One clean action, real physics.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Tight medium close with a macro foreground on the bubble-vial: a slow rack-focus pull with a 5% drift-in is already underway as she slowly rotates the bubble-vial, gloss and speculars catching light while focus holds on the glass.
+- [00:02–00:04] Focus racks smoothly off the vial toward her near eye as she lifts her gaze, the drift settling; a playful half-smile beginning.
+- [00:04–00:06] The half-smile settles with her eye now tack-sharp, the vial soft in the foreground, gaze direct and bright.
 
 LIGHTING: beauty key with clamshell fill; live soft speculars sliding across glass and cap through the rotation; hair-light steady; balloon wall down one stop.
 
@@ -3816,9 +3812,9 @@ ENVIRONMENT: candy-chrome balloon studio, faint candy colour-haze and glossy mir
 
 AUDIO: fully silent reel — no spoken word, no in-clip music. Diegetic and design only: room-tone bed; a soft glass-rotate tick near 1.6s (gentle, short); a delicate candy-shimmer accent near 3.2s timed to the focus-rack; a light breath near 3.0s. External master holds low and bouncy.
 
-DURATION: 3 seconds (0:11 to 0:14 of 30s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps, 180° shutter, natural blur on the rotation and rack; playback 24fps real-time.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — lips closed or softly parted.
 
@@ -3877,13 +3873,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: medium-wide, low tilt featuring heels, hip and cuff.
 
-CAMERA MOVEMENT: a slow 6% glide-down following the styling line; one move, no cut, no whip.
-
 LENS: 50mm, f/3.2.
 
-SUBJECT ACTION WITH TIMING:
-- 0.0–3.0s — Aira eases her weight onto one chrome heel and points the other foot to show the platform as the cuff catches light.
-- 3.0–6.0s — the chrome heart earring swings and settles, a soft confident half-smile holding. One clean action, real physics.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Medium-wide on a low tilt featuring heels, hip and cuff: a slow 6% glide-down is already following the styling line as she eases her weight onto one chrome heel and points the other foot to show the platform; the liquid-chrome cuff catching light.
+- [00:02–00:04] The glide-down settles along the leg-line as the chrome heart earring swings and settles, the balloon skirt rounding; a soft confident half-smile holding.
+- [00:04–00:06] She holds the styled stance, weight grounded on the chrome heel, gaze easing toward lens with playful poise.
 
 LIGHTING: beauty key with clamshell fill; a crisp edge-light travelling on the chrome; hair-light steady; wall one stop down.
 
@@ -3891,9 +3886,9 @@ ENVIRONMENT: candy-chrome balloon studio, glossy mirror-floor doubling the heels
 
 AUDIO: fully silent reel — no spoken word, no in-clip music. Diegetic and design only: room-tone bed; a soft chrome heel-tap near 1.2s (gentle, short); a faint cuff-glint shimmer near 2.8s; a light breath near 3.6s. External master holds bouncy and low.
 
-DURATION: 3 seconds (0:14 to 0:17 of 30s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps, 180° shutter, natural blur on the earring swing and glide; playback 24fps real-time.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — soft half-smile, no words.
 
@@ -3952,13 +3947,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: beauty close-up, face-dominant.
 
-CAMERA MOVEMENT: a near-imperceptible 4% push-in only; effectively locked to let the face carry the beat; no cut, no whip.
-
 LENS: 85mm, f/2.5.
 
-SUBJECT ACTION WITH TIMING:
-- 0.0–3.0s — the radiant smile blooms with a genuine eye-crinkle as her gaze lifts to lens.
-- 3.0–6.0s — a soft exhale and a tiny confident chin-lift, the fingertips settling at the jaw, the expression holding warm and open. One clean emotional action, no speech.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Beauty close-up, face-dominant: an almost-imperceptible 4% push is already breathing in as the radiant smile blooms with a genuine eye-crinkle and her gaze lifts to lens (silent — no words).
+- [00:02–00:04] A soft exhale and a tiny confident chin-lift follow as her fingertips settle at the jaw, the expression warm and open.
+- [00:04–00:06] The warm open expression holds, eyes bright and direct — a wordless emotional reveal in place of any line.
 
 LIGHTING: beauty key wrapping the face with clamshell fill; a gentle catchlight travelling across the iris as the eyes lift; hair-light steady; wall one stop down.
 
@@ -3966,9 +3960,9 @@ ENVIRONMENT: candy-chrome balloon studio, faint candy colour-haze and glossy mir
 
 AUDIO: fully silent reel — no spoken word, no mouthed line, no in-clip music. Diegetic and design only: intimate room-tone bed; a soft audible breath near 3.2s; a delicate warm candy-shimmer swell near 1.6s timed to the smile bloom (subtle, long-soft tail); a faint mylar settle near 4.8s. External master reaches its warmest, fullest-but-restrained level under this crest.
 
-DURATION: 3 seconds (0:17 to 0:20 of 30s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps, 180° shutter, natural subtle blur; playback 24fps real-time.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — a genuine smile and exhale only, no words formed.
 
@@ -4029,15 +4023,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: full-figure magical grand hero, slightly low angle.
 
-CAMERA MOVEMENT: a slow majestic push-in with a gentle rise ( + slight boom) tracking the burst — one smooth motivated move.
-
 LENS: 35mm, f/2.0.
 
-SUBJECT ACTION WITH TIMING:
-- 0.0–0.6s — a single hero balloon at her shoulder swells and catches a bright bloom.
-- 0.6–2.4s — the burst races outward balloon to balloon into a spray of mirror foil-shards and candy confetti as the camera rises.
-- 2.4–4.5s — confetti and chrome glitter swirl outward along real air-currents as Aira lifts her eyes into the supernova, her radiant smile landing.
-- 4.5–6.0s — she holds, haloed and triumphant, confetti drifting. Only the synchronized balloon-burst is impossible; all else real physics.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Full-figure magical grand hero from a slightly low angle: a slow majestic push-in with a gentle boom-rise is already lifting as a single hero balloon at her shoulder swells and catches a bright bloom; gaze drawn to the swelling balloon.
+- [00:02–00:04] The boom keeps rising as the burst races outward balloon to balloon into a spray of mirror foil-shards and candy confetti, chrome glitter swirling along real air-currents; eyes lifting into the supernova, a radiant awe blooming.
+- [00:04–00:06] The confetti eases to a sustained drifting halo as the move settles; her radiant smile landing, eyes triumphant and haloed.
 
 LIGHTING: the burst lifted as a live key over the studio beauty light, bright backlight rim, confetti-and-foil bounce rising; controlled, no clipping.
 
@@ -4045,9 +4036,9 @@ ENVIRONMENT: studio alive with bursting chrome-and-candy balloons, chrome glitte
 
 AUDIO: fully silent reel — no spoken word, no in-clip music. Diegetic and design only: room-tone bed; a soft balloon-swell creak 0.0 to 0.6s; a bright airy cluster of soft foil-pop and confetti-spray ticks 0.4 to 2.4s timed to the burst (layered, short tails, never harsh); a gentle chrome-shimmer settle 1.2 to 4.5s; a soft powerful breath near 2.4s. External master rises to its fullest-but-still-restrained moment under the burst then eases.
 
-DURATION: 4 seconds (0:20 to 0:24 of 30s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps, 180° shutter, natural motion blur on the burst and swirling confetti; playback 24fps real-time.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — lips part on the powerful breath and smile, no words (silent).
 
@@ -4106,13 +4097,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: medium-full, slightly low, settling hero.
 
-CAMERA MOVEMENT: a gentle 5% ease-down settling from the burst rise; one smooth move, no cut, no whip.
-
 LENS: 40mm, f/2.2.
 
-SUBJECT ACTION WITH TIMING:
-- 0.0–3.0s — the confetti supernova eases to a soft drifting halo as Aira lowers her arms and her serene smile settles.
-- 3.0–6.0s — she eases toward a calm upright hero stance, confetti drifting past, holding luminous and composed. One clean settling action, real physics.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Medium-full settling hero on a slight low angle: a gentle 5% ease-down is already settling from the burst rise as the confetti supernova eases to a soft drifting halo and she lowers her arms; gaze easing forward, a serene smile settling.
+- [00:02–00:04] The ease-down continues as she settles toward a calm upright hero stance, confetti drifting past; eyes luminous and composed.
+- [00:04–00:06] She holds the calm hero stance, weight grounded, a serene smile and direct gaze holding.
 
 LIGHTING: studio beauty light easing back, warm rim holding her in the thinning sparkle, soft confetti bounce; steady, no flicker.
 
@@ -4120,9 +4110,9 @@ ENVIRONMENT: the studio calming, last balloons spent, chrome glitter thinning, g
 
 AUDIO: fully silent reel — no spoken word, no in-clip music. Diegetic and design only: room-tone bed; a soft confetti-flutter settle 0.0 to 3.0s; a gentle chrome-shimmer thinning to near-silence by 5.0s; a soft calm breath near 3.6s. External master eases down from the burst toward its calm bed.
 
-DURATION: 3 seconds (0:24 to 0:27 of 30s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps, 180° shutter, gentle natural motion blur on the settle; playback 24fps real-time.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — a serene settling smile, no words.
 
@@ -4183,13 +4173,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: medium close, chest-up, easing toward the F1 opening framing.
 
-CAMERA MOVEMENT: a slow settle back to the F1 start position (gentle reverse of the F1 push) — one smooth move landing exactly on the opening framing for a seamless loop.
-
 LENS: 50mm, f/2.8.
 
-SUBJECT ACTION WITH TIMING:
-- 0.0–3.0s — the last confetti drifts down as Aira settles the bubble-vial back to chest height and begins easing toward her opening posture.
-- 3.0–6.0s — a soft serene smile eases in, the studio settling fully to its calm F1 look, and she lands exactly on the opening posture, framing and headroom for the seamless hand-back to Frame 1. Real physics, one calm settling move, no jarring cut.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Medium close chest-up easing toward the Frame 1 framing: a slow settle-back is already reversing the opening push as the last confetti drifts down; she settles the bubble-vial back to chest height and begins easing toward her opening posture, gaze softening.
+- [00:02–00:04] The settle continues as a soft serene smile eases in and the candy-chrome studio settles fully to its calm Frame 1 look; eyes calming.
+- [00:04–00:06] She lands exactly on the Frame 1 opening posture, framing and headroom matched, weight settled — a seamless loop seam.
 
 LIGHTING: the studio beauty light easing back to the F1 direction and intensity, clamshell fill, hair-light steady; no flicker, matched to the opening.
 
@@ -4197,9 +4186,9 @@ ENVIRONMENT: the studio resolving to the calm opening look — balloons steadyin
 
 AUDIO: fully silent reel — no spoken word, no in-clip music. Diegetic and design only: room-tone bed; a soft settling confetti-flutter 0.0 to 3.0s; a gentle glass-settle as the bubble-vial comes to rest near 4.0s; the candy-shimmer thinning to near-silence by 5.2s for a clean loop point; a soft quiet breath near 4.4s. External master resolves its phrase and eases to the low bouncy bed, landing soft so the loop back to Frame 1 is seamless (subtle, never full).
 
-DURATION: 3 seconds (0:27 to 0:30 of 30s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps, 180° shutter, gentle natural motion blur on the settle; playback 24fps real-time.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — a soft serene smile, lips just parted, no words.
 

@@ -504,6 +504,93 @@ BEATS[77] = [
 ]
 
 
+BEATS[78] = [
+    # F1 - medium close chest-up (push-in)
+    (
+        "Medium close chest-up: a slow push-in is already gliding toward her as she tilts the "
+        "bubble-vial a few degrees into the key, speculars sliding across the rounded glass "
+        "and the gloss settling inside; gaze lowered to the vial.",
+        "The push continues as she lifts her eyes to lens on a soft inhale and a playful "
+        "quarter-smile blooms, giant candy-chrome mylar balloons glowing behind.",
+        "She holds, playful and glossy, one brow a hair higher, eyes bright and direct to "
+        "lens.",
+    ),
+    # F2 - medium waist-up, arc-push (foil inflate-forms the gown, track transform)
+    (
+        "Medium waist-up: a smooth 10% arc-push is already drifting a few degrees around her "
+        "as flat candy-chrome foil sweeps in from the frame edges and she opens her arms to "
+        "present; gaze tracking the incoming foil.",
+        "The arc-push rides the build as the foil inflates and twists into rounded segments "
+        "around the bodice and skirt, surfaces snapping to a glossy mylar sheen; a delighted "
+        "breath, brows lifting.",
+        "The last segments round out and the candy-sparks fade as the move eases; she lands "
+        "a confident finished pose, eyes alight on the inflated balloon gown.",
+    ),
+    # F3 - tight medium close + macro foreground, rack-focus pull (product->eye)
+    (
+        "Tight medium close with a macro foreground on the bubble-vial: a slow rack-focus "
+        "pull with a 5% drift-in is already underway as she slowly rotates the bubble-vial, "
+        "gloss and speculars catching light while focus holds on the glass.",
+        "Focus racks smoothly off the vial toward her near eye as she lifts her gaze, the "
+        "drift settling; a playful half-smile beginning.",
+        "The half-smile settles with her eye now tack-sharp, the vial soft in the "
+        "foreground, gaze direct and bright.",
+    ),
+    # F4 - medium-wide low tilt, styling line (6% glide-down, heels/hip/cuff)
+    (
+        "Medium-wide on a low tilt featuring heels, hip and cuff: a slow 6% glide-down is "
+        "already following the styling line as she eases her weight onto one chrome heel and "
+        "points the other foot to show the platform; the liquid-chrome cuff catching light.",
+        "The glide-down settles along the leg-line as the chrome heart earring swings and "
+        "settles, the balloon skirt rounding; a soft confident half-smile holding.",
+        "She holds the styled stance, weight grounded on the chrome heel, gaze easing toward "
+        "lens with playful poise.",
+    ),
+    # F5 - beauty close-up, face-dominant (4% push, emotional beat — silent)
+    (
+        "Beauty close-up, face-dominant: an almost-imperceptible 4% push is already breathing "
+        "in as the radiant smile blooms with a genuine eye-crinkle and her gaze lifts to "
+        "lens (silent \u2014 no words).",
+        "A soft exhale and a tiny confident chin-lift follow as her fingertips settle at the "
+        "jaw, the expression warm and open.",
+        "The warm open expression holds, eyes bright and direct \u2014 a wordless emotional "
+        "reveal in place of any line.",
+    ),
+    # F6 - full-figure magical grand hero, balloon-burst confetti supernova (push + boom-rise)
+    (
+        "Full-figure magical grand hero from a slightly low angle: a slow majestic push-in "
+        "with a gentle boom-rise is already lifting as a single hero balloon at her shoulder "
+        "swells and catches a bright bloom; gaze drawn to the swelling balloon.",
+        "The boom keeps rising as the burst races outward balloon to balloon into a spray of "
+        "mirror foil-shards and candy confetti, chrome glitter swirling along real "
+        "air-currents; eyes lifting into the supernova, a radiant awe blooming.",
+        "The confetti eases to a sustained drifting halo as the move settles; her radiant "
+        "smile landing, eyes triumphant and haloed.",
+    ),
+    # F7 - medium-full settling hero, post-burst float (5% ease-down)
+    (
+        "Medium-full settling hero on a slight low angle: a gentle 5% ease-down is already "
+        "settling from the burst rise as the confetti supernova eases to a soft drifting "
+        "halo and she lowers her arms; gaze easing forward, a serene smile settling.",
+        "The ease-down continues as she settles toward a calm upright hero stance, confetti "
+        "drifting past; eyes luminous and composed.",
+        "She holds the calm hero stance, weight grounded, a serene smile and direct gaze "
+        "holding.",
+    ),
+    # F8 - medium close loop close (settle to F1)
+    (
+        "Medium close chest-up easing toward the Frame 1 framing: a slow settle-back is "
+        "already reversing the opening push as the last confetti drifts down; she settles "
+        "the bubble-vial back to chest height and begins easing toward her opening posture, "
+        "gaze softening.",
+        "The settle continues as a soft serene smile eases in and the candy-chrome studio "
+        "settles fully to its calm Frame 1 look; eyes calming.",
+        "She lands exactly on the Frame 1 opening posture, framing and headroom matched, "
+        "weight settled \u2014 a seamless loop seam.",
+    ),
+]
+
+
 def build_block(beats):
     return (
         BREAKDOWN_HEADER + "\n"
