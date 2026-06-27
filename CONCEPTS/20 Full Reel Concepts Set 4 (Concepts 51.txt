@@ -7636,13 +7636,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: medium-full three-quarter hero in the papercraft atelier.
 
-CAMERA MOVEMENT: a single slow 8% push-in, otherwise locked-off and stable — one move, no transform yet.
-
 LENS: 50mm, f/2.5.
 
-SUBJECT ACTION WITH TIMING:
-- 0.0–3.0s — Aira holds the cushion compact to her collarbone, the slip breathing, paper-motes drifting, and lifts her eyes to the lens with a gentle charming smile.
-- 3.0–6.0s — she begins a slow soft quarter-turn, a soft highlight travelling the slip and daylight shifting on the wall. One composed beat, real physics.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Medium-full three-quarter hero in the sunlit papercraft atelier: a slow push-in is already gliding toward her as she holds the cushion compact to her collarbone, the cream silk breathing and paper-confetti motes drifting; she lifts her eyes to lens with a gentle charming smile.
+- [00:02–00:04] The push continues as she begins a soft quarter-turn, a soft highlight travelling the slip and daylight shifting on the wall; gaze easing to lens, lashes soft.
+- [00:04–00:06] She settles mid-turn, weight rolling onto the front foot, a soft whimsical calm holding as rolls of coloured paper glow behind.
 
 LIGHTING: soft bright daylight key, soft fill, gentle rim on hair; daylight steady.
 
@@ -7650,9 +7649,9 @@ ENVIRONMENT: papercraft atelier, paper rolls, white worktable, drifting paper-co
 
 AUDIO: diegetic-plus-design, no spoken word (silent reel). Ambient bed — a light airy atelier room-tone with a faint soft daylight hush and a gentle settle, very low and steady. SFX — a soft paper-wrap touch as her fingers settle at 0.6s, a faint silk shift at 3.1s, a light glassy chime accent on the turn at 3.6s. Reaction — a soft breath at 2.6s. VO — none. The master track enters here soft and ambient (low and subtle, never full).
 
-DURATION: 5 seconds (0:00–0:05 of 30s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps, 180° shutter, gentle natural motion blur on the turn.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — a gentle closed-lip smile (silent throughout).
 
@@ -7703,14 +7702,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: full-figure transform hero, slightly low angle.
 
-CAMERA MOVEMENT: a slow controlled arc following the gown coiling up her body, smooth and motivated — one move, no whip.
-
 LENS: 50mm, f/2.5.
 
-SUBJECT ACTION WITH TIMING:
-- 0.0–1.5s — the first paper strip spins in at the hip and coils into a rosette.
-- 1.5–4.2s — strips stream in and coil section by section into the gown, paper-curl edges catching light, Aira watching with a delighted breath, motes lifting off the front.
-- 4.2–6.0s — the last coil nests and the paper gown settles, her recognizable face landing a soft delighted look. Only the crossing is impossible; everything else obeys real physics.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Full-figure from a slightly low angle: a slow controlled arc is already rising as the first paper strip spins in at the hip and coils into a rosette; gaze tracking the coiling strip, eyes brightening.
+- [00:02–00:04] The arc rides the coiling up her body as strips stream in and coil section by section into the gown, paper-curl edges catching light and motes lifting; a delighted breath, brows lifting in wonder.
+- [00:04–00:06] The last coil nests and the paper gown settles as the arc eases; a soft delighted look landing, eyes alight on the pastel rosettes.
 
 LIGHTING: soft bright daylight key with a soft kick on the coiling paper, soft fill, gentle rim; bright and steady.
 
@@ -7718,9 +7715,9 @@ ENVIRONMENT: atelier, paper rolls, white worktable, drifting motes, pastel walls
 
 AUDIO: diegetic-plus-design, no spoken word (silent reel). Ambient bed — the light atelier tone with a soft pizzicato-and-celesta rise under the crossing. SFX — a soft paper-spin flutter 0.0–1.5s, a delicate sequence of soft paper-curl settles and fine rustles as the gown coils 1.5–4.2s, a soft settle-chime as the gown nests at 5.4s, faint paper-flutter off the front. Reaction — a soft delighted breath at 1.4s. VO — none. Master track lifts gently under the transform then eases (subtle, never full).
 
-DURATION: 6 seconds (0:05–0:11 of 30s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps, 180° shutter, natural motion blur on the coiling paper and arc.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — lips part on the delighted breath, no words (silent).
 
@@ -7769,14 +7766,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: beauty close, chest-up, product-at-face.
 
-CAMERA MOVEMENT: a slow 6% push-in to the face, locked otherwise.
-
 LENS: 85mm, f/2.5.
 
-SUBJECT ACTION WITH TIMING:
-- 0.0–2.2s — she loads the cushion puff from the open compact and brings it to the apple of her cheek.
-- 2.2–4.3s — she presses and gently rolls it on the apple, the pastel-pink cream blooming fresh into the skin.
-- 4.3–6.0s — she eases the cushion away and gives a fresh direct look. One precise beat, real physics.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Beauty close, chest-up at a three-quarter: a slow push toward her face is already gliding in as she loads the cushion puff from the open compact and brings it to the apple of her cheek; eyes lowered to the cushion.
+- [00:02–00:04] She presses and gently rolls it on the apple and the pastel-pink cream blooms fresh into the skin, the push settling; a soft smile beginning.
+- [00:04–00:06] She eases the cushion away and gives a fresh direct look, the paper bodice glinting, a soft calm in her gaze.
 
 LIGHTING: soft bright beauty daylight key, soft fill, gentle rim; a soft specular travelling the compact as she moves.
 
@@ -7784,9 +7779,9 @@ ENVIRONMENT: atelier, blurred paper rolls, soft daylight, motes low.
 
 AUDIO: diegetic-plus-design, no spoken word (silent reel). Ambient bed — the light atelier tone, low. SFX — a soft cushion-load tap at 0.7s, a faint cushion-press-on-skin pat at 2.4s, a light glassy chime as the cushion lifts at 4.3s. Reaction — a soft fresh breath at 4.7s. VO — none. Master track stays low and ambient (subtle, never full).
 
-DURATION: 5 seconds (0:11–0:16 of 30s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps, 180° shutter, gentle motion blur on the cushion hand.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — a fresh composed smile (silent).
 
@@ -7839,14 +7834,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: bold beauty close, chest-up, charming wordless direct address.
 
-CAMERA MOVEMENT: locked-off and stable, a barely-there 4% push — no movement that competes with the beat; let the look do the work.
-
 LENS: 85mm, f/2.5.
 
-SUBJECT ACTION WITH TIMING:
-- 0.0–2.1s — she settles, eyes locking the lens with a charming gentle smile.
-- 2.1–4.2s — she presents the compact at her chest and lands a single soft chin-lift into a slow blink, a soft paper-glint flickering across the bodice, lips softly closed (no speech).
-- 4.2–6.0s — the smile holds, eyes direct and bright. One clean wordless beat, real physics.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Bold beauty close, chest-up squared to lens: the camera is already settled on a barely-there push as her eyes lock the lens with a charming gentle smile, the compact presented at her chest (silent — no words).
+- [00:02–00:04] She lands a single soft chin-lift into a slow blink as a soft paper-glint flickers across the bodice, lips softly closed, the look itself doing the work.
+- [00:04–00:06] The smile holds, eyes direct and bright — a wordless charming expression reveal in place of any line.
 
 LIGHTING: soft bright beauty daylight key, soft fill, gentle rim; steady, no flicker; a soft paper-glint travelling the coils as she breathes.
 
@@ -7854,9 +7847,9 @@ ENVIRONMENT: atelier, blurred paper rolls behind, soft daylight, motes low.
 
 AUDIO: diegetic-plus-design, no spoken word (silent reel). Ambient bed — the light atelier tone, low. SFX — a faint soft air-tail, a soft compact touch at 0.6s, a delicate glassy shimmer-accent at 2.2s on the chin-lift. Reaction — a soft calm breath at 2.5s. VO — none (the beat is carried by the look, not a line). Master track sits low and steady under the beat (subtle, never full).
 
-DURATION: 4 seconds (0:16–0:20 of 30s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps, 180° shutter, gentle natural motion blur.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — lips stay softly closed; no words, no lip-flap.
 
@@ -7909,15 +7902,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: full-figure magical hero, slightly low angle.
 
-CAMERA MOVEMENT: a slow majestic push-in with a gentle rise ( + slight boom) tracking the bloom — one smooth motivated move.
-
 LENS: 35mm, f/2.2.
 
-SUBJECT ACTION WITH TIMING:
-- 0.0–0.6s — a single rosette at the heart of the bodice begins to unfurl.
-- 0.6–2.2s — the unfurl ripples outward, rosette after rosette opening into full paper flowers as she lifts her eyes into the bloom.
-- 2.2–4.2s — fine paper-curl confetti motes lift and drift, easing to a sustained full bloom, her radiant smile landing.
-- 4.2–6.0s — she holds, haloed and joyful. Only the paper-bloom is impossible; all else real physics.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Full-figure magical hero from a slightly low angle: a slow majestic push-in with a gentle boom-rise is already lifting as a single rosette at the heart of the bodice begins to unfurl; gaze drawn to the opening rosette.
+- [00:02–00:04] The boom keeps rising as the unfurl ripples outward, rosette after rosette opening into full paper flowers; eyes lifting into the bloom, a radiant joyful awe blooming.
+- [00:04–00:06] Fine paper-curl confetti motes lift and drift, easing to a sustained full bloom as the move settles; her radiant smile landing, eyes joyful and haloed.
 
 LIGHTING: the soft daylight key lifted as a live key, soft rim, floor fill rising; controlled, no clipping.
 
@@ -7925,9 +7915,9 @@ ENVIRONMENT: atelier alive with soft light, paper rolls glowing pastel, lifting 
 
 AUDIO: diegetic-plus-design, no spoken word (silent reel). Ambient bed — the light atelier tone blooming into a soft whimsical swell with glockenspiel, celesta, harp and a soft string-pad cresting at the bloom then settling. SFX — a soft paper-unfurl flutter 0.2s, a gentle ripple of opening-paper rustles tracking the bloom 0.6–2.2s, a fine sparkle-lift of confetti curls 1.4–3.0s, a soft resonance under the settle, a faint paper-flutter with the curls. Reaction — a soft delighted breath at 1.9s. VO — none. Master track rises to its fullest-but-still-restrained moment under the bloom then eases (subtle, never full).
 
-DURATION: 5 seconds (0:20–0:25 of 30s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps, 180° shutter, natural motion blur on the bloom and lifting confetti.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — lips part on the delighted breath and smile, no words (silent).
 
@@ -7982,13 +7972,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: medium-full three-quarter hero in the atelier, matched to Frame 1.
 
-CAMERA MOVEMENT: a slow settle to rest matching the Frame 1 push so the end frame meets the start frame cleanly — one move, loop-safe.
-
 LENS: 50mm, f/2.5.
 
-SUBJECT ACTION WITH TIMING:
-- 0.0–3.0s — Aira eases back to the opening stance, cradling the cushion compact at the collarbone, the gown re-coiling and settling.
-- 3.0–6.0s — she lands the charming gentle smile and a slow blink, paper-motes drifting, daylight glowing on the wall — the frame resolving to exactly match Frame 1 for a seamless loop. Real physics throughout.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Medium-full three-quarter hero in the atelier matching Frame 1: a slow settle is already easing her back toward the opening stance, cradling the cushion compact at the collarbone, the gown re-coiling and settling; gaze softening to lens.
+- [00:02–00:04] The settle continues as the paper gown eases back toward the cream silk's stillness, paper-motes drifting and daylight glowing on the wall; a charming gentle smile returning.
+- [00:04–00:06] She lands the gentle smile and a slow blink, resolving to exactly match the Frame 1 pose, weight settled in the atelier — a seamless loop seam.
 
 LIGHTING: soft bright daylight key, soft fill, gentle rim — matched to Frame 1; steady, no flicker.
 
@@ -7996,9 +7985,9 @@ ENVIRONMENT: papercraft atelier, paper rolls, white worktable, drifting paper-co
 
 AUDIO: diegetic-plus-design, no spoken word (silent reel). Ambient bed — the light airy atelier room-tone with a faint soft daylight hush, easing back to exactly the Frame 1 level for a seamless audio loop. SFX — a soft paper-wrap settle as her hands return at 1.0s, a faint silk shift at 3.1s, a light glassy chime resettling at 3.6s matched to the opening accent. Reaction — a soft breath at 2.6s. VO — none. Master track resolves softly back to its opening ambient phrase for a clean loop (subtle, never full).
 
-DURATION: 5 seconds (0:25–0:30 of 30s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps, 180° shutter, gentle natural motion blur easing to the matched settle.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — a charming closed-lip smile (silent).
 

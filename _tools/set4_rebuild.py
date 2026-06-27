@@ -1200,6 +1200,74 @@ BEATS[67] = [
 ]
 
 
+BEATS[68] = [
+    # F1 - medium-full three-quarter hero in papercraft atelier (push-in)
+    (
+        "Medium-full three-quarter hero in the sunlit papercraft atelier: a slow push-in is "
+        "already gliding toward her as she holds the cushion compact to her collarbone, the "
+        "cream silk breathing and paper-confetti motes drifting; she lifts her eyes to lens "
+        "with a gentle charming smile.",
+        "The push continues as she begins a soft quarter-turn, a soft highlight travelling "
+        "the slip and daylight shifting on the wall; gaze easing to lens, lashes soft.",
+        "She settles mid-turn, weight rolling onto the front foot, a soft whimsical calm "
+        "holding as rolls of coloured paper glow behind.",
+    ),
+    # F2 - full-figure transform, slightly low angle (arc following the gown coiling up)
+    (
+        "Full-figure from a slightly low angle: a slow controlled arc is already rising as "
+        "the first paper strip spins in at the hip and coils into a rosette; gaze tracking "
+        "the coiling strip, eyes brightening.",
+        "The arc rides the coiling up her body as strips stream in and coil section by "
+        "section into the gown, paper-curl edges catching light and motes lifting; a "
+        "delighted breath, brows lifting in wonder.",
+        "The last coil nests and the paper gown settles as the arc eases; a soft delighted "
+        "look landing, eyes alight on the pastel rosettes.",
+    ),
+    # F3 - beauty close, product-at-face / cushion blush (6% push to face)
+    (
+        "Beauty close, chest-up at a three-quarter: a slow push toward her face is already "
+        "gliding in as she loads the cushion puff from the open compact and brings it to the "
+        "apple of her cheek; eyes lowered to the cushion.",
+        "She presses and gently rolls it on the apple and the pastel-pink cream blooms fresh "
+        "into the skin, the push settling; a soft smile beginning.",
+        "She eases the cushion away and gives a fresh direct look, the paper bodice glinting, "
+        "a soft calm in her gaze.",
+    ),
+    # F4 - bold beauty close, wordless hero beat (SILENT — expression reveal)
+    (
+        "Bold beauty close, chest-up squared to lens: the camera is already settled on a "
+        "barely-there push as her eyes lock the lens with a charming gentle smile, the "
+        "compact presented at her chest (silent \u2014 no words).",
+        "She lands a single soft chin-lift into a slow blink as a soft paper-glint flickers "
+        "across the bodice, lips softly closed, the look itself doing the work.",
+        "The smile holds, eyes direct and bright \u2014 a wordless charming expression reveal "
+        "in place of any line.",
+    ),
+    # F5 - full-figure magical hero, paper-bloom unfurl (majestic push + boom-rise)
+    (
+        "Full-figure magical hero from a slightly low angle: a slow majestic push-in with a "
+        "gentle boom-rise is already lifting as a single rosette at the heart of the bodice "
+        "begins to unfurl; gaze drawn to the opening rosette.",
+        "The boom keeps rising as the unfurl ripples outward, rosette after rosette opening "
+        "into full paper flowers; eyes lifting into the bloom, a radiant joyful awe "
+        "blooming.",
+        "Fine paper-curl confetti motes lift and drift, easing to a sustained full bloom as "
+        "the move settles; her radiant smile landing, eyes joyful and haloed.",
+    ),
+    # F6 - loop close, matched to F1 (settle to rest)
+    (
+        "Medium-full three-quarter hero in the atelier matching Frame 1: a slow settle is "
+        "already easing her back toward the opening stance, cradling the cushion compact at "
+        "the collarbone, the gown re-coiling and settling; gaze softening to lens.",
+        "The settle continues as the paper gown eases back toward the cream silk's "
+        "stillness, paper-motes drifting and daylight glowing on the wall; a charming gentle "
+        "smile returning.",
+        "She lands the gentle smile and a slow blink, resolving to exactly match the Frame 1 "
+        "pose, weight settled in the atelier \u2014 a seamless loop seam.",
+    ),
+]
+
+
 def build_block(beats):
     # Replaces ONLY the `SUBJECT ACTION WITH TIMING:` header + its bullet beat
     # lines. Ends with a single trailing newline so the original blank line
