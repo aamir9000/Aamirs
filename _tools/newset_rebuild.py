@@ -751,6 +751,66 @@ BEATS[11] = [
 ]
 
 
+BEATS[12] = [
+    # Frame 1 - wide establishing, push off wall
+    (
+        "Wide establishing of the luminous pod: she is already pushing gently off a curved "
+        "wall and drifting mid-frame as a weightless drift-in with a faint roll matches her "
+        "float, the vast Earth-window behind; eyes wide with wonder.",
+        "The drift carries her as she scans the pod and the blue Earth beyond, hair lifting "
+        "in the zero-G; gaze tracing the starfield, lips parted.",
+        "She reaches toward a floating chrome boot, eyes locking onto it, drawn through the "
+        "weightless air.",
+    ),
+    # Frame 2 - macro on guiding boot (no face)
+    (
+        "Extreme macro: the floating chrome boot is already drifting toward her pointed foot "
+        "as a slow push follows, LED strips reflecting on it.",
+        "Her hands guide it onto the foot, fingers closing the seam mid-air.",
+        "It seats with a settling chrome glint, the foot pointing as it locks on.",
+    ),
+    # Frame 3 - profile medium, tapping console
+    (
+        "Profile medium: she is already reaching for the glowing console, floating upright, "
+        "as a weightless arc swings from profile toward three-quarter; hair drifting, gaze "
+        "on the panel.",
+        "She taps the console and it flares, the arc easing round; eyes brightening with "
+        "anticipation.",
+        "Iridescent fabric panels begin to drift in from the pod edges as she turns toward "
+        "them, gaze following the floating cloth.",
+    ),
+    # Frame 4 - front-on full/wide hero, anti-gravity dress transform
+    (
+        "Front-on full/wide hero, floating centred: the iridescent panels are already "
+        "drifting in toward her as a weightless orbit eases to dead-front with a slow "
+        "drift-in; gaze tracking the converging cloth.",
+        "The panels assemble into the couture gown around her weightless body; chin "
+        "lifting, eyes widening in radiant wonder, hair fanning out.",
+        "Her arms open and a radiant awed smile lands to lens, the gown settling around her "
+        "in the zero-G, eyes alight.",
+    ),
+    # Frame 5 - 3/4 back over-shoulder medium, drift to window + glance
+    (
+        "Three-quarter back over-shoulder medium: she is already drifting toward the "
+        "Earth-window in the couture gown as a weightless tracking follow trails her, the "
+        "panel-train streaming; gaze toward the blue planet.",
+        "The arc catches her as she rotates her torso and glances back to lens, Earth-light "
+        "glowing in her eyes, a soft awed smile.",
+        "She faces the window again and her drift continues, panels trailing in her wake, "
+        "gaze settling on Earth.",
+    ),
+    # Frame 6 - wide loop close
+    (
+        "Wide matching Frame 1: a slow weightless drift-back is already reversing the "
+        "opening drift-in as she turns back into the pod; gaze sweeping the curved panels.",
+        "The drift continues as the couture gown dissolves back into the space-suit "
+        "base-layer and the floating orbs disperse; a soft wondering calm returning.",
+        "She settles into the exact float stance of Frame 1, reaching once more for the "
+        "floating boot, eyes wide on the Earth-window \u2014 a seamless loop seam.",
+    ),
+]
+
+
 def build_block(beats):
     # Replaces ONLY the `SUBJECT ACTION w/ BEAT-TIMING:` header + its bullet
     # beat lines. Whatever follows (a blank line then SPOKEN LINE or

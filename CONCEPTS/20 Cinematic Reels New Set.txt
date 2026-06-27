@@ -5592,14 +5592,16 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE & ANGLE: wide, subject fills ~35%.
 
-CAMERA MOVEMENT (CHOREOGRAPHY): a slow weightless drift-in with a faint roll, gimbal-smooth, matching the zero-G float.
-
 LENS: 28mm, f/4.
 
-SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.2s — she pushes gently off the wall and drifts.
-- 2.2–4.4s — she scans the pod and Earth-window with wonder.
-- 4.4–6.0s — she reaches toward the floating boot.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Wide establishing of the luminous pod: she is already pushing gently off a curved wall and drifting mid-frame as a weightless drift-in with a faint roll matches her float, the vast Earth-window behind; eyes wide with wonder.
+- [00:02–00:04] The drift carries her as she scans the pod and the blue Earth beyond, hair lifting in the zero-G; gaze tracing the starfield, lips parted.
+- [00:04–00:06] She reaches toward a floating chrome boot, eyes locking onto it, drawn through the weightless air.
+
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
+
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
 FLUIDITY & WEIGHT NOTES: the float is pure weightless flow — the body drifts and rotates from the core; momentum carries continuously — supremely fluid, never static.
 
@@ -5666,14 +5668,16 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE & ANGLE: macro, detail fills ~70%.
 
-CAMERA MOVEMENT (CHOREOGRAPHY): a slow 4% push following the boot onto the foot, drifting otherwise.
-
 LENS: 100mm macro, f/2.8.
 
-SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.2s — the boot drifts toward her pointed foot.
-- 2.2–4.2s — her hands guide it on.
-- 4.2–6.0s — it seats, a chrome glint settling.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Extreme macro: the floating chrome boot is already drifting toward her pointed foot as a slow push follows, LED strips reflecting on it.
+- [00:02–00:04] Her hands guide it onto the foot, fingers closing the seam mid-air.
+- [00:04–00:06] It seats with a settling chrome glint, the foot pointing as it locks on.
+
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
+
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
 FLUIDITY & WEIGHT NOTES: the guide is weightless and graceful; the foot points like a dancer's; the seat eases continuously — no jerk.
 
@@ -5740,14 +5744,16 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE & ANGLE: profile medium, subject fills ~55%.
 
-CAMERA MOVEMENT (CHOREOGRAPHY): a slow weightless arc from profile toward three-quarter as she taps the console, smooth.
-
 LENS: 50mm, f/2.2.
 
-SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.2s — she reaches for the console.
-- 2.2–4.2s — she taps it and it flares.
-- 4.2–6.0s — fabric panels begin to drift in from the edges as she turns toward them.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Profile medium: she is already reaching for the glowing console, floating upright, as a weightless arc swings from profile toward three-quarter; hair drifting, gaze on the panel.
+- [00:02–00:04] She taps the console and it flares, the arc easing round; eyes brightening with anticipation.
+- [00:04–00:06] Iridescent fabric panels begin to drift in from the pod edges as she turns toward them, gaze following the floating cloth.
+
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
+
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
 FLUIDITY & WEIGHT NOTES: every motion is weightless and continuous — the reach, the tap, the turn flow as one drifting phrase; no stiffness.
 
@@ -5814,14 +5820,16 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE & ANGLE: front-on full/wide hero, subject fills ~55%, floating centred.
 
-CAMERA MOVEMENT (CHOREOGRAPHY): a smooth weightless orbit to dead-front with a slow drift-in as the gown assembles, continuous and buoyant.
-
 LENS: 35mm, f/2.8.
 
-SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.7s — panels drift in toward her.
-- 1.7–4.0s — they assemble into the couture gown around her.
-- 4.0–6.0s — arms open, a radiant awed smile, hair fanning.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Front-on full/wide hero, floating centred: the iridescent panels are already drifting in toward her as a weightless orbit eases to dead-front with a slow drift-in; gaze tracking the converging cloth.
+- [00:02–00:04] The panels assemble into the couture gown around her weightless body; chin lifting, eyes widening in radiant wonder, hair fanning out.
+- [00:04–00:06] Her arms open and a radiant awed smile lands to lens, the gown settling around her in the zero-G, eyes alight.
+
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
+
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
 FLUIDITY & WEIGHT NOTES: one unbroken buoyant assemble — the spread leads from the core, arms unfurl last; weightless momentum carries continuously — supremely fluid.
 
@@ -5888,14 +5896,16 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE & ANGLE: three-quarter back over-shoulder medium, subject fills ~50%.
 
-CAMERA MOVEMENT (CHOREOGRAPHY): a smooth weightless tracking follow behind her with a gentle arc to catch the glance, gimbal-stable.
-
 LENS: 50mm, f/1.8.
 
-SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.2s — she drifts toward the window, panel-train trailing.
-- 2.2–4.2s — she rotates her torso and glances back to lens.
-- 4.2–6.0s — she faces the window again, drift continuing.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Three-quarter back over-shoulder medium: she is already drifting toward the Earth-window in the couture gown as a weightless tracking follow trails her, the panel-train streaming; gaze toward the blue planet.
+- [00:02–00:04] The arc catches her as she rotates her torso and glances back to lens, Earth-light glowing in her eyes, a soft awed smile.
+- [00:04–00:06] She faces the window again and her drift continues, panels trailing in her wake, gaze settling on Earth.
+
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
+
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
 FLUIDITY & WEIGHT NOTES: the glance is a fluid weightless spinal rotation, head leading, returning naturally; the drift never pauses; the body counter-rotates like a real zero-G float.
 
@@ -5962,14 +5972,16 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE & ANGLE: wide matching Frame 1, subject ~35%.
 
-CAMERA MOVEMENT (CHOREOGRAPHY): a slow weightless drift-back reversing Frame 1's drift-in, so the end pose meets the opening float.
-
 LENS: 28mm, f/4.
 
-SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.3s — she turns back into the pod.
-- 2.3–4.7s — the gown dissolves back to the suit and orbs disperse.
-- 4.7–6.0s — she settles into the Frame 1 float stance reaching for the boot.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Wide matching Frame 1: a slow weightless drift-back is already reversing the opening drift-in as she turns back into the pod; gaze sweeping the curved panels.
+- [00:02–00:04] The drift continues as the couture gown dissolves back into the space-suit base-layer and the floating orbs disperse; a soft wondering calm returning.
+- [00:04–00:06] She settles into the exact float stance of Frame 1, reaching once more for the floating boot, eyes wide on the Earth-window — a seamless loop seam.
+
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
+
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
 FLUIDITY & WEIGHT NOTES: the turn-back is a single weightless body rotation; the reverse-assemble flows as a gentle panel-disperse; the reset reads as natural continuation, not a rewind.
 
