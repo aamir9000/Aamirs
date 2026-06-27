@@ -1120,6 +1120,68 @@ BEATS[17] = [
 ]
 
 
+BEATS[18] = [
+    # Frame 1 - wide establishing, concourse
+    (
+        "Wide establishing down the glass terminal concourse: she is already striding onto "
+        "the polished floor as a slow glide-in moves toward her, gate-glow and windows "
+        "arching away; eyes scanning the bright concourse with cool ease.",
+        "The glide carries closer as she slips on a travel flat and grips the suitcase "
+        "handle, golden light raking the floor; a free, confident set to her gaze.",
+        "She rolls the suitcase toward the vast departure window, eyes lifting to the "
+        "glowing sky beyond.",
+    ),
+    # Frame 2 - low macro on suitcase wheels (no face)
+    (
+        "Low macro on the suitcase wheels: they are already rolling across the polished "
+        "floor as a tracking glide moves alongside at matched pace, a golden reflection "
+        "streaking beneath.",
+        "The wheels glide on toward the window light, the reflection brightening.",
+        "The floor-glow surges as the threshold nears, light pooling around the wheels.",
+    ),
+    # Frame 3 - profile medium, hand on glass
+    (
+        "Profile medium at the vast departure window: she is already setting one hand on the "
+        "glass as a slow arc swings from profile toward three-quarter, the sky glowing "
+        "beyond; gaze out to the horizon.",
+        "The corridor begins to open to sky and her travel coat lifts in the rising air, the "
+        "arc easing round; eyes widening in cool wonder.",
+        "She begins to step through into the threshold, gaze fixed on the opening light.",
+    ),
+    # Frame 4 - front-on full/wide hero, corridor-to-cloud transform
+    (
+        "Front-on full/wide hero, striding centred: she is already crossing the threshold as "
+        "a smooth crane-up-and-back glides with her, the corridor edges dissolving toward "
+        "sky; gaze lifting into the light.",
+        "The corridor opens fully into open sky and her coat sweeps into the flowing "
+        "cloud-silk couture gown as the crane carries the clouds behind; eyes widening in "
+        "radiant awe, lips parting.",
+        "Her arms open and a radiant awed smile lands, cloud-light flung outward, eyes "
+        "alight.",
+    ),
+    # Frame 5 - 3/4 back over-shoulder medium, light-runway walk + glance
+    (
+        "Three-quarter back over-shoulder medium: she is already walking the runway of light "
+        "among golden clouds in the cloud-silk gown as a tracking follow trails her, the "
+        "train streaming; gaze ahead.",
+        "The arc catches her as she rotates her torso and glances back to lens, cloud-glow "
+        "warm in her eyes, a soft free smile.",
+        "She faces forward again and her stride continues along the light-runway, gaze "
+        "settling on the horizon.",
+    ),
+    # Frame 6 - wide loop close
+    (
+        "Wide matching Frame 1: a slow glide-out down the concourse is already reversing the "
+        "opening glide-in as she turns back toward the terminal; gaze sweeping the glass.",
+        "The glide continues as the cloud-silk gown softens back into the travel set and the "
+        "suitcase returns to her hand, the concourse reforming; a cool content calm "
+        "returning.",
+        "She settles into the exact stance of Frame 1 on the polished floor, eyes on the "
+        "departure window \u2014 a seamless loop seam.",
+    ),
+]
+
+
 def build_block(beats):
     # Replaces ONLY the `SUBJECT ACTION w/ BEAT-TIMING:` header + its bullet
     # beat lines. Whatever follows (a blank line then SPOKEN LINE or

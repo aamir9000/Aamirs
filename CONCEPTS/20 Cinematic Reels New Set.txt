@@ -8564,14 +8564,16 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE & ANGLE: wide, subject fills ~32%.
 
-CAMERA MOVEMENT (CHOREOGRAPHY): a slow glide-in down the concourse toward her, gimbal-smooth.
-
 LENS: 28mm, f/3.2.
 
-SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.2s — she strides onto the concourse, scanning.
-- 2.2–4.4s — she slips on a travel flat and grips the suitcase.
-- 4.4–6.0s — she rolls the suitcase toward the departure window.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Wide establishing down the glass terminal concourse: she is already striding onto the polished floor as a slow glide-in moves toward her, gate-glow and windows arching away; eyes scanning the bright concourse with cool ease.
+- [00:02–00:04] The glide carries closer as she slips on a travel flat and grips the suitcase handle, golden light raking the floor; a free, confident set to her gaze.
+- [00:04–00:06] She rolls the suitcase toward the vast departure window, eyes lifting to the glowing sky beyond.
+
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
+
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
 FLUIDITY & WEIGHT NOTES: the stride and flat-on flow continuously from the core; the roll leads from the shoulder — purposeful, never static.
 
@@ -8638,14 +8640,16 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE & ANGLE: macro, detail fills ~70%.
 
-CAMERA MOVEMENT (CHOREOGRAPHY): a low tracking glide alongside the rolling wheels, matched pace.
-
 LENS: 100mm macro, f/2.8.
 
-SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.2s — the wheels roll across the floor.
-- 2.2–4.2s — they glide toward the window light.
-- 4.2–6.0s — the floor-glow surges as the threshold nears.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Low macro on the suitcase wheels: they are already rolling across the polished floor as a tracking glide moves alongside at matched pace, a golden reflection streaking beneath.
+- [00:02–00:04] The wheels glide on toward the window light, the reflection brightening.
+- [00:04–00:06] The floor-glow surges as the threshold nears, light pooling around the wheels.
+
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
+
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
 FLUIDITY & WEIGHT NOTES: the roll is smooth and continuous; the hand articulates cleanly; no jerk.
 
@@ -8712,14 +8716,16 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE & ANGLE: profile medium, subject fills ~55%.
 
-CAMERA MOVEMENT (CHOREOGRAPHY): a slow arc from profile toward three-quarter as the corridor opens, smooth.
-
 LENS: 50mm, f/2.2.
 
-SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.2s — she sets a hand on the glass.
-- 2.2–4.2s — the corridor begins to open to sky and her coat lifts.
-- 4.2–6.0s — she begins to step through into the threshold.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Profile medium at the vast departure window: she is already setting one hand on the glass as a slow arc swings from profile toward three-quarter, the sky glowing beyond; gaze out to the horizon.
+- [00:02–00:04] The corridor begins to open to sky and her travel coat lifts in the rising air, the arc easing round; eyes widening in cool wonder.
+- [00:04–00:06] She begins to step through into the threshold, gaze fixed on the opening light.
+
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
+
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
 FLUIDITY & WEIGHT NOTES: the reach, the lift, the step flow as one continuous aspirational phrase; no stiffness.
 
@@ -8786,14 +8792,16 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE & ANGLE: front-on full/wide hero, subject fills ~55%, striding centred.
 
-CAMERA MOVEMENT (CHOREOGRAPHY): a smooth crane-up-and-back that SLOWS at the apex as the gown sweeps, then eases on — a sky-threshold bullet-time.
-
 LENS: 35mm, f/2.8.
 
-SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.7s — she crosses the threshold.
-- 1.7–4.0s — the corridor opens and the coat sweeps into the gown.
-- 4.0–6.0s — arms open, a radiant awed smile, cloud-light flung.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Front-on full/wide hero, striding centred: she is already crossing the threshold as a smooth crane-up-and-back glides with her, the corridor edges dissolving toward sky; gaze lifting into the light.
+- [00:02–00:04] The corridor opens fully into open sky and her coat sweeps into the flowing cloud-silk couture gown as the crane carries the clouds behind; eyes widening in radiant awe, lips parting.
+- [00:04–00:06] Her arms open and a radiant awed smile lands, cloud-light flung outward, eyes alight.
+
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
+
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
 FLUIDITY & WEIGHT NOTES: one unbroken forward-and-up sweep — the stride leads from the core, arms unfurl last; momentum carries continuously — supremely fluid, never a dead stop.
 
@@ -8860,14 +8868,16 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE & ANGLE: three-quarter back over-shoulder medium, subject fills ~50%.
 
-CAMERA MOVEMENT (CHOREOGRAPHY): a smooth tracking follow behind her on the light-runway, catching the glance, gimbal-stable.
-
 LENS: 50mm, f/1.8.
 
-SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.2s — she walks on the runway of light, train trailing.
-- 2.2–4.2s — she rotates her torso and glances back to lens.
-- 4.2–6.0s — she faces forward again, stride continuing.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Three-quarter back over-shoulder medium: she is already walking the runway of light among golden clouds in the cloud-silk gown as a tracking follow trails her, the train streaming; gaze ahead.
+- [00:02–00:04] The arc catches her as she rotates her torso and glances back to lens, cloud-glow warm in her eyes, a soft free smile.
+- [00:04–00:06] She faces forward again and her stride continues along the light-runway, gaze settling on the horizon.
+
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
+
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
 FLUIDITY & WEIGHT NOTES: the glance is a fluid spinal rotation, head leading, returning naturally; the walk never pauses; arms and hips counter-rotate like a real graceful stride.
 
@@ -8934,14 +8944,16 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE & ANGLE: wide matching Frame 1, subject ~32%.
 
-CAMERA MOVEMENT (CHOREOGRAPHY): a slow glide-out down the concourse reversing Frame 1's glide-in, so the end pose meets the opening.
-
 LENS: 28mm, f/3.2.
 
-SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.3s — she turns back toward the terminal.
-- 2.3–4.7s — the cloud-silk gown softens back to the travel set and the suitcase returns to her hand.
-- 4.7–6.0s — she settles into the Frame 1 stance.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Wide matching Frame 1: a slow glide-out down the concourse is already reversing the opening glide-in as she turns back toward the terminal; gaze sweeping the glass.
+- [00:02–00:04] The glide continues as the cloud-silk gown softens back into the travel set and the suitcase returns to her hand, the concourse reforming; a cool content calm returning.
+- [00:04–00:06] She settles into the exact stance of Frame 1 on the polished floor, eyes on the departure window — a seamless loop seam.
+
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
+
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
 FLUIDITY & WEIGHT NOTES: the turn-back is a smooth hip-led rotation; the reverse-transform flows as a gentle settle-back; the reset reads as natural continuation, not a rewind.
 
