@@ -120,7 +120,7 @@ Read each fully first; tailor camera/expression to its dance/world. Suggested tr
 - 20 Cinematic Reels New Set — DONE (all 20 concepts / 123 video prompts rebuilt). See PROGRESS below.
 - 20 Full Reel Set 4 (51-70) — DONE (all 20 concepts / 122 video prompts rebuilt). See PROGRESS below.
 - 20 Full Reel Set 5 (71-79) — DONE (all 51 intact video prompts rebuilt; concept 79 corrupt past Frame 1 — see PROGRESS).
-- Set 5 (cont 2) / · Set 5 (cont) / Set 5 cont 3 / cont 4 — couture/clothes-change; transform-led.
+- Set 5 (cont 2) / · Set 5 (cont) / Set 5 cont 3 / cont 4 — DONE (concepts 79-84, 42 video prompts). See PROGRESS below.
 - 20 Magical Action Heavy-Detail — ACTION (hypercar/chase/combat); handheld, whip-pan, low-hero,
   hard hits on impacts. NOTE: inline single-line video prompts (different structure — adapt regex).
 - 20 Magical Action Set 2 Expression — action/expression; inline format too.
@@ -251,3 +251,36 @@ Set 4, in which case set4_rebuild.py adapts with a path change).
 
 NEXT IN QUEUE: 20 Full Reel Concepts Set 5 (cont 2) / · Set 5 (cont) / Set 5 cont 3 / cont 4
 — couture/clothes-change, transform-led (check each file's format first).
+
+
+- Set 5 continuation files (concepts 79-84, all SILENT) — COMPLETE (42 video prompts):
+  * "20 Full Reel Concepts · Set 5 (cont.txt" — concept 79 (FULL 7-frame Prism Mirror Studio
+    — this is the real/complete version; the copy inside the main Set 5 file was the corrupted
+    truncated duplicate, F1-only) + concept 80 (Cobalt & Marigold thermochromic; 6 real frames
+    plus a stray duplicate Frame-1 block at the file end — rebuilt the dup identically to F1 to
+    keep it consistent → 14 SHOT BREAKDOWN total).
+  * "20 Full Reel Concepts Set 5 (cont 2).txt" — concept 81 (lava-lamp blob-morph, 7) +
+    concept 82 (plasma-globe filament, 6) → 13.
+  * "Set 5 (cont 3) Clothes-Change Transformation.txt" — concept 83 (Snap-Change four-look
+    spin/flip/bloom runway, 8).
+  * "Set 5 (cont 4) · Clothes-Change Transformation.txt" — concept 84 (Magnet-Snap three-look
+    fly-on / light-zip, 7).
+  Same Beauty-Ad markdown transform via the GENERIC engine `_tools/md_rebuild.py "<path>" N`
+  (path-parameterised so one engine serves all four files). IMPORTANT engine upgrade: it now
+  matches BOTH the multi-bullet AND the inline single-line `SUBJECT ACTION WITH TIMING:` forms
+  (concepts 83 & 84 use the inline form) via regex
+  `SUBJECT ACTION WITH TIMING:(?:\n(?:- .*\n)+| [^\n]*\n)`. All silent — wordless expression
+  reveal, no spoken line. The clothes-change reels (83/84) keep their whip-spin / split-flap /
+  magnetic-snap / light-zipper change beats folded into the breakdown. Verified per file:
+  0 leftover SUBJECT ACTION, 0 standalone CAMERA MOVEMENT, and SHOT BREAKDOWN == video prompts
+  == standard FRAME RATE == DURATION 6s == first-beat brackets (14 / 13 / 8 / 7); no
+  non-negated slow-mo.
+  NOTE: the corrupted Concept-79 stub still living in the MAIN "20 Full Reel Concepts Set 5
+  (Concepts 71.txt" file (F1 rebuilt, frames 2-7 missing + merged 78-fragments) is now
+  redundant — the complete 79 lives in the (cont) file. Optional cleanup: delete the corrupt
+  79 block from the main Set 5 file (left as-is for now, not destructive).
+
+NEXT IN QUEUE: 20 Magical Action Reels Heavy-Detail — ACTION (hypercar/chase/combat); handheld,
+whip-pan, low-hero, hard hits on impacts. NOTE (from section E): inline single-line video
+prompts (different structure) — md_rebuild.py's inline-form regex may already cover it, but
+verify the per-frame layout first.
