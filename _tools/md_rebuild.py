@@ -437,6 +437,84 @@ BEATS[83] = [
 ]
 
 
+BEATS[84] = [
+    # F1 - HOOK / opening Look A (Electric Lime), 6% push-in rising
+    (
+        "Medium close rising to medium: a slow 6% push-in is already gliding in as she holds "
+        "a confident freeze in the electric-lime mod look, eyes locked to lens with a "
+        "knowing quarter-smile, the Halo cuff glinting on her wrist and baby-hair drifting.",
+        "The push continues as she curls one finger in a playful come-here beckon, chin "
+        "tipping a degree as the studio light pulses on the gesture \u2014 the trigger for "
+        "the first change; gaze bright on lens.",
+        "She holds the post-beckon beat, eyes playful and direct, the lime seamless crisp "
+        "behind (silent \u2014 no words).",
+    ),
+    # F2 - CHANGE 1 magnetic-panel snap-on A->B, 5% push steady through converge
+    (
+        "Medium-full: a steady 5% push holds as off the beckon the electric-lime look "
+        "releases and the first fuchsia panels are already streaking in from the frame "
+        "edges; gaze tracking the converging panels.",
+        "The panels, marabou, footwear, accessories, hair and makeup-accent all fly in and "
+        "snap together magnetically onto her body assembling the Fuchsia Bloom look (face "
+        "pin-locked, nothing crossing the face), the seamless re-gelling lime to fuchsia.",
+        "The final marabou hem-pieces lock as she settles into a confident stance, the look "
+        "completing; a delighted set arriving in her eyes.",
+    ),
+    # F3 - Look B movement (Fuchsia Bloom), slow arc following the turn
+    (
+        "Medium to medium-full: a smooth slow arc is already following her as she sweeps one "
+        "arm out and begins a confident turn, the fuchsia hem and feather trim flaring and "
+        "earrings swinging; gaze leading the turn.",
+        "The arc rides the turn as she comes back to camera, the marabou and waves easing to "
+        "rest; a bright delighted smile blooming.",
+        "She settles into a poised stance facing lens, eyes warm and sparkling, the feather "
+        "trim stilling.",
+    ),
+    # F4 - CHANGE 2 zipper-of-light unzip-reveal B->C (MAGIC), 5% push steady
+    (
+        "Full-length to medium-full: a steady 5% push holds as a brilliant vertical "
+        "light-zipper is already materialising at the hem and the fuchsia begins to part; "
+        "gaze drawn to the rising seam.",
+        "The seam unzips smoothly upward, the fuchsia peeling away to the sides as the "
+        "liquid-chrome gown spills out and resolves behind it, footwear, accessories, hair "
+        "and makeup-accent transforming in its wake (face pin-locked, the seam never "
+        "crossing the face), the seamless cooling fuchsia toward chrome; eyes widening in "
+        "wonder.",
+        "The seam completes at the shoulder and dissolves in a soft bloom as she settles "
+        "into a poised chrome stance, the Mirror look fully revealed; a serene awe landing.",
+    ),
+    # F5 - Look C finale hero (Chrome Mirror), 6% push-in
+    (
+        "Medium-full to full: a slow 6% push-in is already gliding in as she holds the "
+        "chrome finale power-pose, chin lifted, the gown settling and mirror-discs throwing "
+        "roving light, the Halo cuff glinting; gaze level to lens.",
+        "The push continues as she lifts her raised hand a touch and the serene quarter-smile "
+        "blooms, a cool light-pulse riding across the chrome.",
+        "She holds the chrome power-pose, eyes cool and luminous, mirror-discs glinting.",
+    ),
+    # F6 - Look C strut/turn (Chrome Mirror), slow arc tracking the pivot
+    (
+        "Medium-full to full: a smooth slow arc is already tracking her as she steps into a "
+        "confident strut and begins a pivot, the chrome gown swinging out in a mirror-arc, "
+        "earrings swinging and cuff leading; gaze sweeping with the turn.",
+        "The arc rides the pivot as she cuts her eyes back to lens and settles the turn into "
+        "a poised stance, the gown easing to rest; a commanding half-smile arriving.",
+        "She holds the commanding stance, eyes bold and direct, the chrome gown stilling.",
+    ),
+    # F7 - perfect-loop close, mirror snap-back to Look A, quick settle
+    (
+        "Medium close rising to medium, matching Frame 1: a quick settle is already resolving "
+        "toward the exact opening framing as the chrome look snap-collapses in a mirror-glint "
+        "burst and the electric-lime mod look snaps back on, the seamless re-gelling lime; "
+        "gaze snapping to lens.",
+        "The settle lands as she re-locks into the exact opening pose with the raised-finger "
+        "beckon and knowing quarter-smile; eyes settling bright.",
+        "She holds the freeze precisely on the Frame 1 beat, framing locked so the reel "
+        "loops seamlessly back \u2014 a seamless loop seam.",
+    ),
+]
+
+
 def build_block(beats):
     return (
         BREAKDOWN_HEADER + "\n"
