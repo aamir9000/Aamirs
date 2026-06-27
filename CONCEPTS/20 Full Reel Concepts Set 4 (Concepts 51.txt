@@ -8532,13 +8532,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: medium-full three-quarter hero standing in the candlelit ballroom.
 
-CAMERA MOVEMENT: a single slow 8% push-in, otherwise locked-off and stable — one move, no transform yet.
-
 LENS: 50mm, f/2.0.
 
-SUBJECT ACTION WITH TIMING:
-- 0.0–3.0s — Aira holds the crystal vial to her heart, the satin breathing, a chandelier glinting above, and lifts her eyes to the lens with a regal knowing calm.
-- 3.0–6.0s — she begins a slow graceful quarter-turn, the champagne satin catching liquid-gold light. One poised beat, real physics.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Medium-full three-quarter hero standing in the candlelit gilded ballroom: a slow push-in is already gliding toward her as she holds the crystal vial to her heart, the champagne satin breathing and a chandelier glinting above; she lifts her eyes to lens with a regal knowing calm.
+- [00:02–00:04] The push continues as she begins a graceful quarter-turn, the champagne satin catching liquid-gold light; gaze easing to lens, lashes soft.
+- [00:04–00:06] She settles mid-turn, weight rolling onto the front foot, a regal dazzling calm holding as tall gilded mirrors gleam behind.
 
 LIGHTING: warm candlelit chandelier key, soft marble fill, warm gold rim; the chandelier glow steady above.
 
@@ -8546,9 +8545,9 @@ ENVIRONMENT: vast gilded ballroom, towering crystal chandeliers, gilded mirrors,
 
 AUDIO: diegetic-plus-design, no spoken word (silent reel). Ambient bed — a low warm grand-room tone with a faint candlelit hush and a distant crystal shimmer, very low. SFX — a delicate crystal-chime as the chandelier droplets catch light at 0.7s, a faint satin shift at 3.1s, a soft warm shimmer accent on the turn at 3.6s. Reaction — a soft breath at 2.6s. VO — none. The master track enters here soft and ambient (low and subtle, never full).
 
-DURATION: 5 seconds (0:00–0:05 of 30s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps, 180° shutter, gentle natural motion blur on the turn.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — a soft knowing closed-lip smile (silent).
 
@@ -8603,14 +8602,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: full-figure transform hero, slightly low angle.
 
-CAMERA MOVEMENT: a slow controlled arc following the crystal down her body, smooth and motivated — one move, no whip.
-
 LENS: 50mm, f/2.0.
 
-SUBJECT ACTION WITH TIMING:
-- 0.0–1.5s — the first faceted crystal droplets release from the chandeliers and descend along clean arcs.
-- 1.5–4.0s — hundreds of droplets string themselves around her, the crystal-drop gown assembling downward as Aira watches with an awed breath.
-- 4.0–6.0s — the last droplet settles and chimes, the finished crystal gown settling, her recognizable face landing a soft luminous smile. Only the crossing is impossible; everything else obeys real physics.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Full-figure from a slightly low angle: a slow controlled arc is already descending as the first faceted crystal droplets release from the chandeliers and descend along clean arcs; gaze tracking the falling crystals, eyes brightening.
+- [00:02–00:04] The arc rides the crystal down her body as hundreds of droplets string themselves around her and the crystal-drop gown assembles downward; an awed breath, brows lifting in wonder.
+- [00:04–00:06] The last droplet settles and chimes and the finished crystal gown settles as the arc eases; a soft luminous smile landing, eyes alight on the strung crystals.
 
 LIGHTING: warm candlelit chandelier key with a bright prismatic kick on the crystal, warm marble fill, gold rim; rich and steady.
 
@@ -8618,9 +8615,9 @@ ENVIRONMENT: gilded ballroom, towering chandeliers releasing crystal, candleligh
 
 AUDIO: diegetic-plus-design, no spoken word (silent reel). Ambient bed — the warm grand-room tone rising with a soft shimmering swell under the crossing. SFX — a delicate cascade of crystal-chimes and soft glassy tinkles as the droplets descend and string in 0.0–4.0s, a satisfying final settling-chime as the gown resolves at 5.6s, a soft sparkle as it holds. Reaction — a soft awed breath at 1.4s. VO — none. Master track lifts gently under the transform then eases (subtle, never full).
 
-DURATION: 6 seconds (0:05–0:11 of 30s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps, 180° shutter, natural motion blur on the falling crystal and arc.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — lips part on the awed breath, no words (silent).
 
@@ -8673,14 +8670,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: beauty close, chest-up, product-at-face.
 
-CAMERA MOVEMENT: a slow 6% push-in to the cheekbone, locked otherwise.
-
 LENS: 85mm, f/2.2.
 
-SUBJECT ACTION WITH TIMING:
-- 0.0–2.4s — she tilts the crystal vial, the champagne serum settling, and brings one fingertip with a luminous glow-drop toward her cheekbone.
-- 2.4–4.8s — she presses the drop to the high cheekbone, it catches the candlelight, and a small private smile begins.
-- 4.8–6.0s — she lowers the hand a touch, eyes lifting softly. One tactile beat, real physics.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Beauty close, chest-up at a three-quarter: a slow push toward her cheekbone is already gliding in as she tilts the crystal vial, the champagne serum settling, and brings a luminous glow-drop on her fingertip toward her face; eyes lowered to the drop.
+- [00:02–00:04] She presses the drop to the high cheekbone and it catches the candlelight, the push settling; a small private smile beginning, lashes lowering.
+- [00:04–00:06] She lowers the hand a touch and lifts her eyes softly, the crystal bodice glinting, a regal glow in her gaze.
 
 LIGHTING: warm candlelit beauty key, marble fill, gold rim; a live specular travelling on the crystal vial and the drop as she moves.
 
@@ -8688,9 +8683,9 @@ ENVIRONMENT: gilded ballroom, glowing chandelier behind, candlelight on marble.
 
 AUDIO: diegetic-plus-design, no spoken word (silent reel). Ambient bed — the warm grand-room tone, low, faint crystal shimmer. SFX — a delicate liquid-tap as the dropper settles at 0.5s, a soft skin-press touch at 2.5s, a faint crystalline glow-shimmer as the drop catches light at 3.1s. Reaction — a soft contented breath at 4.1s. VO — none. Master track stays low and ambient (subtle, never full).
 
-DURATION: 5 seconds (0:11–0:16 of 30s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps, 180° shutter, gentle motion blur on the hand.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — a soft closed-lip smile (silent).
 
@@ -8743,14 +8738,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: bold beauty close, chest-up, commanding wordless direct address.
 
-CAMERA MOVEMENT: locked-off and stable, a barely-there 4% push — no movement that competes with the beat; let the look do the work.
-
 LENS: 85mm, f/2.2.
 
-SUBJECT ACTION WITH TIMING:
-- 0.0–2.0s — she settles, eyes locking the lens with a confident radiant half-smile.
-- 2.0–4.2s — she presents the vial at her chest and lands a single assured chin-lift into a slow blink, a warm crystal glint flickering across the bodice, lips softly closed (no speech).
-- 4.2–6.0s — the half-smile holds, eyes luminous and direct. One clean wordless beat, real physics.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Bold beauty close, chest-up squared to lens: the camera is already settled on a barely-there push as her eyes lock the lens with a confident radiant half-smile, the vial presented at her chest (silent — no words).
+- [00:02–00:04] She lands a single assured chin-lift into a slow blink as a warm crystal glint flickers across the bodice, lips softly closed, the look itself doing the work.
+- [00:04–00:06] The half-smile holds, eyes luminous and direct — a wordless grand expression reveal in place of any line.
 
 LIGHTING: warm candlelit beauty key, soft marble fill, warm gold rim; steady, no flicker; a live crystal glint travelling the gown as she breathes.
 
@@ -8758,9 +8751,9 @@ ENVIRONMENT: ballroom, blurred chandelier and gilded mirrors behind, golden mote
 
 AUDIO: diegetic-plus-design, no spoken word (silent reel). Ambient bed — the warm grand-room tone, low. SFX — a faint candlelit hush, a soft vial touch at 0.8s, a delicate crystal shimmer-accent at 2.1s on the chin-lift. Reaction — a soft calm breath at 2.5s. VO — none (the beat is carried by the look, not a line). Master track sits low and steady under the beat (subtle, never full).
 
-DURATION: 4 seconds (0:16–0:20 of 30s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps, 180° shutter, gentle natural motion blur.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — lips stay softly closed; no words, no lip-flap.
 
@@ -8815,15 +8808,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: full-figure magical grand hero, slightly low angle.
 
-CAMERA MOVEMENT: a slow majestic push-in with a gentle rise ( + slight boom) tracking the bloom — one smooth motivated move.
-
 LENS: 35mm, f/2.0.
 
-SUBJECT ACTION WITH TIMING:
-- 0.0–0.6s — a single crystal at the heart of the bodice splits the candlelight into a first rainbow glint.
-- 0.6–2.2s — rainbow caustics ripple outward crystal to crystal as rainbow-and-gold motes lift and swirl around her, the chandeliers blazing brighter, she lifting her eyes into the swirl.
-- 2.2–4.2s — the motes trail out, easing to a sustained rainbow-and-gold glow, her radiant smile landing.
-- 4.2–6.0s — she holds, haloed and triumphant. Only the prismatic bloom is impossible; all else real physics.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Full-figure magical grand hero from a slightly low angle: a slow majestic push-in with a gentle boom-rise is already lifting as a single crystal at the heart of the bodice splits the candlelight into a first rainbow glint; gaze drawn to the glint.
+- [00:02–00:04] The boom keeps rising as rainbow caustics ripple outward crystal to crystal and rainbow-and-gold motes swirl around her, the chandeliers blazing brighter; eyes lifting into the swirl, a radiant awe blooming.
+- [00:04–00:06] The motes trail out, easing to a sustained rainbow-and-gold glow as the move settles; her radiant smile landing, eyes triumphant and haloed.
 
 LIGHTING: the rainbow-bloom lifted as a live key over the warm candlelight, warm rim, marble fill rising; controlled, no clipping.
 
@@ -8831,9 +8821,9 @@ ENVIRONMENT: ballroom alive with rainbow-and-gold light, chandeliers blazing, gi
 
 AUDIO: diegetic-plus-design, no spoken word (silent reel). Ambient bed — the warm grand-room tone blooming into a lush orchestral swell with a soft timpani roll cresting at the bloom then settling. SFX — a soft crystal-kindle chime 0.2s, a gentle prismatic bloom-shimmer and a sparkling pass of rainbow-and-gold motes tracking the swirl 0.6–2.2s, soft sparkle settling 1.4–3.0s, a warm resonance under the settle, a faint crystalline ring with the motes. Reaction — a soft powerful breath at 1.9s. VO — none. Master track rises to its fullest-but-still-restrained moment under the bloom then eases (subtle, never full).
 
-DURATION: 5 seconds (0:20–0:25 of 30s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps, 180° shutter, natural motion blur on the bloom and swirling motes.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — lips part on the powerful breath and smile, no words (silent).
 
@@ -8888,14 +8878,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: full-figure resolved hero close, easing toward the F1 opening framing.
 
-CAMERA MOVEMENT: a slow settle back to the F1 start position (gentle reverse of the F1 push) — one smooth move landing exactly on the opening framing for a seamless loop.
-
 LENS: 50mm, f/2.0.
 
-SUBJECT ACTION WITH TIMING:
-- 0.0–1.8s — the rainbow-bloom eases out, the last motes drifting down as Aira begins settling back toward her opening posture.
-- 1.8–4.2s — she cradles the vial at the collarbone, a soft serene smile easing in, the ballroom resolving to its calm warm look.
-- 4.2–6.0s — she lands exactly on the F1 mid-turn pose, expression and framing matched for the loop point. Real physics throughout.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Full-figure resolved hero close: a slow settle-back is already easing toward the Frame 1 opening framing as the rainbow-bloom eases out and the last motes drift down; she begins settling back toward her opening posture, gaze softening.
+- [00:02–00:04] The settle continues as she cradles the vial at the collarbone and the ballroom resolves to its calm warm look; a soft serene smile easing in, eyes calming.
+- [00:04–00:06] She lands exactly on the Frame 1 mid-turn pose, expression and framing matched, weight settled in the ballroom — a seamless loop seam.
 
 LIGHTING: warm candle key settling to the F1 direction and intensity, marble fill, gold rim; calm and steady, matched at the cut.
 
@@ -8903,9 +8891,9 @@ ENVIRONMENT: the gilded ballroom resolving to the F1 look — calm chandeliers, 
 
 AUDIO: diegetic-plus-design, no spoken word (silent reel). Ambient bed — the warm grand-room tone easing back to the calm opening level. SFX — a soft fading crystal shimmer 0.0–1.8s, a gentle vial-settle touch at 2.4s, a final soft sparkle resolving at 4.3s to match the F1 opening texture for the loop. Reaction — a soft settling breath at 2.6s. VO — none. Master track resolves its cadence and eases to the opening ambience for a seamless loop (subtle, never full).
 
-DURATION: 5 seconds (0:25–0:30 of 30s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps, 180° shutter, gentle natural motion blur settling to the matched opening.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — a soft serene closing smile, no words (silent).
 

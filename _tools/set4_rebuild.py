@@ -1337,6 +1337,74 @@ BEATS[69] = [
 ]
 
 
+BEATS[70] = [
+    # F1 - medium-full three-quarter hero in candlelit ballroom (push-in)
+    (
+        "Medium-full three-quarter hero standing in the candlelit gilded ballroom: a slow "
+        "push-in is already gliding toward her as she holds the crystal vial to her heart, "
+        "the champagne satin breathing and a chandelier glinting above; she lifts her eyes "
+        "to lens with a regal knowing calm.",
+        "The push continues as she begins a graceful quarter-turn, the champagne satin "
+        "catching liquid-gold light; gaze easing to lens, lashes soft.",
+        "She settles mid-turn, weight rolling onto the front foot, a regal dazzling calm "
+        "holding as tall gilded mirrors gleam behind.",
+    ),
+    # F2 - full-figure transform, slightly low angle (arc following the crystal down)
+    (
+        "Full-figure from a slightly low angle: a slow controlled arc is already descending "
+        "as the first faceted crystal droplets release from the chandeliers and descend "
+        "along clean arcs; gaze tracking the falling crystals, eyes brightening.",
+        "The arc rides the crystal down her body as hundreds of droplets string themselves "
+        "around her and the crystal-drop gown assembles downward; an awed breath, brows "
+        "lifting in wonder.",
+        "The last droplet settles and chimes and the finished crystal gown settles as the "
+        "arc eases; a soft luminous smile landing, eyes alight on the strung crystals.",
+    ),
+    # F3 - beauty close, product-at-face / glow-drop (6% push to cheekbone)
+    (
+        "Beauty close, chest-up at a three-quarter: a slow push toward her cheekbone is "
+        "already gliding in as she tilts the crystal vial, the champagne serum settling, and "
+        "brings a luminous glow-drop on her fingertip toward her face; eyes lowered to the "
+        "drop.",
+        "She presses the drop to the high cheekbone and it catches the candlelight, the push "
+        "settling; a small private smile beginning, lashes lowering.",
+        "She lowers the hand a touch and lifts her eyes softly, the crystal bodice glinting, "
+        "a regal glow in her gaze.",
+    ),
+    # F4 - bold beauty close, wordless grand hero beat (SILENT — expression reveal)
+    (
+        "Bold beauty close, chest-up squared to lens: the camera is already settled on a "
+        "barely-there push as her eyes lock the lens with a confident radiant half-smile, "
+        "the vial presented at her chest (silent \u2014 no words).",
+        "She lands a single assured chin-lift into a slow blink as a warm crystal glint "
+        "flickers across the bodice, lips softly closed, the look itself doing the work.",
+        "The half-smile holds, eyes luminous and direct \u2014 a wordless grand expression "
+        "reveal in place of any line.",
+    ),
+    # F5 - full-figure magical grand hero, prismatic bloom (majestic push + boom-rise)
+    (
+        "Full-figure magical grand hero from a slightly low angle: a slow majestic push-in "
+        "with a gentle boom-rise is already lifting as a single crystal at the heart of the "
+        "bodice splits the candlelight into a first rainbow glint; gaze drawn to the glint.",
+        "The boom keeps rising as rainbow caustics ripple outward crystal to crystal and "
+        "rainbow-and-gold motes swirl around her, the chandeliers blazing brighter; eyes "
+        "lifting into the swirl, a radiant awe blooming.",
+        "The motes trail out, easing to a sustained rainbow-and-gold glow as the move "
+        "settles; her radiant smile landing, eyes triumphant and haloed.",
+    ),
+    # F6 - resolved hero close, easing to F1 framing (settle-back loop close)
+    (
+        "Full-figure resolved hero close: a slow settle-back is already easing toward the "
+        "Frame 1 opening framing as the rainbow-bloom eases out and the last motes drift "
+        "down; she begins settling back toward her opening posture, gaze softening.",
+        "The settle continues as she cradles the vial at the collarbone and the ballroom "
+        "resolves to its calm warm look; a soft serene smile easing in, eyes calming.",
+        "She lands exactly on the Frame 1 mid-turn pose, expression and framing matched, "
+        "weight settled in the ballroom \u2014 a seamless loop seam.",
+    ),
+]
+
+
 def build_block(beats):
     # Replaces ONLY the `SUBJECT ACTION WITH TIMING:` header + its bullet beat
     # lines. Ends with a single trailing newline so the original blank line
