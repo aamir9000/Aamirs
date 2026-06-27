@@ -956,13 +956,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: medium-full three-quarter hero amid the gears.
 
-CAMERA MOVEMENT: a single slow 8% push-in, otherwise locked-off and stable — one move, no transform yet.
-
 LENS: 50mm, f/2.0.
 
-SUBJECT ACTION WITH TIMING:
-- 0.0–3.0s — Aira holds the bottle to her heart, the silk breathing, a giant gear turning slowly behind her, and lifts her eyes to the lens with a knowing calm.
-- 3.0–6.0s — she begins a slow graceful quarter-turn, the bronze silk catching amber light. One poised beat, real physics.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Medium-full three-quarter hero amid the brass gears: a slow push-in is already gliding toward her as she holds the amber bottle to her heart, the bronze silk breathing and a giant gear turning slowly behind; she lifts her eyes to lens with a knowing calm.
+- [00:02–00:04] The push continues as she begins a graceful quarter-turn, the bronze silk catching amber gaslight; gaze easing to lens, a poised set to her mouth.
+- [00:04–00:06] She settles mid-turn, weight rolling onto the front foot, a precise knowing calm holding as a floating cog drifts past.
 
 LIGHTING: warm amber gaslight key, soft mahogany fill, gold rim; the gear-gap glow steady behind.
 
@@ -970,9 +969,9 @@ ENVIRONMENT: warm brass clockwork atelier, giant slow-turning gears, amber gasli
 
 AUDIO: diegetic-plus-design, no spoken word. Ambient bed — a low warm room-tone with a soft rhythmic clockwork tick-and-whir, very low and steady. SFX — a deep slow gear-turn groan behind at 1.0s, a faint silk shift at 3.1s, a delicate brass-tick accent on the turn at 3.6s. Reaction — a soft breath at 2.6s. VO — none. The master track enters here soft and ambient (low and subtle, never full).
 
-DURATION: 5 seconds (0:00–0:05 of 30s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps, 180° shutter, gentle natural motion blur on the turn and gears.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — a soft knowing closed-lip smile.
 
@@ -1023,14 +1022,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: full-figure transform hero, slightly low angle.
 
-CAMERA MOVEMENT: a slow controlled arc following the assembly up her body, smooth and motivated — one move, no whip.
-
 LENS: 50mm, f/2.0.
 
-SUBJECT ACTION WITH TIMING:
-- 0.0–1.5s — the first brass cogs and clock-hands spin in from the air.
-- 1.5–4.0s — gears fly in along clean arcs and interlock around her, the gilded gown assembling piece by piece as Aira watches with a delighted breath.
-- 4.0–6.0s — the last cog meshes and clicks home, the finished gown settling, her recognizable face landing a warm luminous smile. Only the crossing is impossible; everything else obeys real physics.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Full-figure from a slightly low angle: a slow controlled arc is already rising as the first brass cogs and clock-hands spin in from the air toward her; gaze tracking the incoming gears, eyes brightening.
+- [00:02–00:04] The arc rides the assembly up her body as gears fly in along clean arcs and interlock, the gilded gown meshing into being piece by piece like a watch movement closing; a delighted breath, brows lifting in wonder.
+- [00:04–00:06] The last cog meshes and clicks home and the finished gown settles as the arc eases; a warm luminous smile landing, eyes alight on the brass filigree.
 
 LIGHTING: warm amber gaslight key with a bright kick on the brass, mahogany fill, gold rim; rich and steady.
 
@@ -1038,9 +1035,9 @@ ENVIRONMENT: clockwork atelier, giant gears, amber gaslight, streaming cogs, swi
 
 AUDIO: diegetic-plus-design, no spoken word. Ambient bed — the warm room-tone and steady clockwork tick rising with a soft warm swell under the crossing. SFX — a flurry of precise brass cog-whirs and meshing clicks as the gears fly in and interlock 0.0–4.0s, a satisfying final gear-lock thunk as the gown resolves at 5.6s, a soft chime as it settles. Reaction — a soft delighted breath at 1.4s. VO — none. Master track lifts gently under the transform then eases (subtle, never full).
 
-DURATION: 6 seconds (0:05–0:11 of 30s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps, 180° shutter, natural motion blur on the flying cogs and arc.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — lips part on the delighted breath, no words.
 
@@ -1089,14 +1086,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: beauty close, chest-up, product-at-face.
 
-CAMERA MOVEMENT: a slow 6% push-in to the collarbone, locked otherwise.
-
 LENS: 85mm, f/2.2.
 
-SUBJECT ACTION WITH TIMING:
-- 0.0–2.4s — she raises the dropper above her collarbone, an amber drop swelling at the tip.
-- 2.4–4.8s — a single radiance-oil drop releases and falls catching the gaslight, a small assured smile beginning.
-- 4.8–6.0s — she lowers the bottle a touch, eyes lifting softly. One tactile beat, real physics.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Beauty close, chest-up at a three-quarter: a slow push toward her collarbone is already gliding in as she raises the amber dropper above it, a drop swelling at the tip; eyes lowered to the bead of oil.
+- [00:02–00:04] A single radiance-oil drop releases and falls catching the gaslight, the push settling; a small assured smile beginning, gaze following the drop.
+- [00:04–00:06] She lowers the bottle a touch and lifts her eyes softly, the gilded gearwork glinting, a precise calm in her gaze.
 
 LIGHTING: warm amber gaslight beauty key, mahogany fill, gold rim; a live specular travelling the dropper and the drop as she moves.
 
@@ -1104,9 +1099,9 @@ ENVIRONMENT: clockwork atelier, blurred giant gear behind, amber gaslight, slow 
 
 AUDIO: diegetic-plus-design, no spoken word. Ambient bed — the warm room-tone and soft clockwork tick, low. SFX — a soft dropper-squeeze at 0.7s, a delicate single oil-drop release at 2.5s, a faint warm shimmer as it falls at 3.1s, a low gear-turn behind at 1.2s. Reaction — a soft contented breath at 4.1s. VO — none. Master track stays low and ambient (subtle, never full).
 
-DURATION: 5 seconds (0:11–0:16 of 30s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps, 180° shutter, gentle motion blur on the hand and drop.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — a soft closed-lip smile.
 
@@ -1157,14 +1152,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: beauty close, chest-up, direct address.
 
-CAMERA MOVEMENT: locked-off and stable, a barely-there 4% push — no movement that competes with the line.
-
 LENS: 85mm, f/2.2.
 
-SUBJECT ACTION WITH TIMING:
-- 0.0–0.9s — she settles, eyes finding the lens with a warm knowing smile.
-- 0.9–3.9s — she delivers "beauty, like clockwork." with natural lip-sync and a soft brow lift, presenting the bottle at her chest.
-- 3.9–6.0s — the smile lands and holds, a soft blink. One clean delivery, real physics.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Beauty close, chest-up squared to lens: the camera is already settled on a barely-there push as her eyes find the lens with a warm knowing smile, the bottle presented at her chest.
+- [00:02–00:04] She delivers “beauty, like clockwork.” with natural lip-sync and a soft brow lift, eyes bright and direct, the slow gears glowing behind.
+- [00:04–00:06] The smile lands and holds with a soft blink, gaze staying eye-to-eye.
 
 LIGHTING: warm amber gaslight beauty key, mahogany fill, gold rim; steady, no flicker.
 
@@ -1172,9 +1165,9 @@ ENVIRONMENT: clockwork atelier, blurred giant gear behind, amber gaslight, slow 
 
 AUDIO: diegetic-plus-design with spoken word. Ambient bed — the warm room-tone and soft clockwork tick, low. SFX — a delicate brass-tick tail around the voice, a faint glass touch on the bottle at 0.6s. VO — Aira, English with a natural Indian accent, warm and confident: "beauty, like clockwork." delivered 0.9–3.9s, clean and intimate, sitting above the bed. Master track ducks under the voice and stays low (subtle, never full).
 
-DURATION: 4 seconds (0:16–0:20 of 30s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps, 180° shutter, gentle natural motion blur.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: precise lip-sync to "beauty, like clockwork." across 0.9–3.9s; natural jaw and lip shapes, no drift.
 
@@ -1225,15 +1218,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: full-figure magical hero, slightly low angle.
 
-CAMERA MOVEMENT: a slow majestic push-in with a gentle rise ( + slight boom) tracking the bloom — one smooth motivated move.
-
 LENS: 35mm, f/2.0.
 
-SUBJECT ACTION WITH TIMING:
-- 0.0–0.6s — the clock-hands align and a gold point kindles at the central gear.
-- 0.6–2.2s — a golden ring and brass cogs bloom outward in a slow wave, the giant gears brightening in sequence as she lifts her eyes into it.
-- 2.2–4.2s — gold motes and cogs drift, the halo eases to a sustained glow, her radiant knowing smile landing.
-- 4.2–6.0s — she holds, haloed and serene. Only the bloom is impossible; all else real physics.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Full-figure magical hero from a slightly low angle: a slow majestic push-in with a gentle boom-rise is already lifting as the clock-hands align and a gold point kindles at the central gear; gaze drawn to the kindling point.
+- [00:02–00:04] The boom keeps rising as a golden ring and brass cogs bloom outward in a slow wave, the giant gears brightening in sequence; eyes lifting into it, a radiant knowing awe blooming.
+- [00:04–00:06] Gold motes and cogs drift and the halo eases to a sustained glow as the move settles; her radiant knowing smile landing, eyes serene and haloed.
 
 LIGHTING: the golden time-bloom as a live warm key, gold rim, warm gear fill rising to full; controlled, no clipping.
 
@@ -1241,9 +1231,9 @@ ENVIRONMENT: clockwork atelier, giant gears blazing, warm runway of light, drift
 
 AUDIO: diegetic-plus-design, no spoken word. Ambient bed — the clockwork tick blooming into a full warm orchestral-and-chime swell cresting at the halo then settling. SFX — a soft warm ignition-chime at the central gear 0.2s, a wide harmonic shimmer-swell with a flurry of soft cog-ticks tracking the expanding ring 0.6–2.2s, gentle bell-motes sparkling 1.4–3.0s, a low warm resonance under the settle. Reaction — a soft awed exhale at 1.9s. VO — none. Master track rises to its fullest-but-still-restrained moment under the bloom then eases (subtle, never full).
 
-DURATION: 5 seconds (0:20–0:25 of 30s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps, 180° shutter, natural motion blur on the bloom and motes.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — lips part on the awed exhale and smile, no words.
 
@@ -1294,14 +1284,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: medium-full three-quarter hero among the gears — matched to Frame 1 for the loop.
 
-CAMERA MOVEMENT: a slow settle-back to the opening framing (gentle pull matching Frame 1's start position), locked otherwise — ending exactly where the reel began.
-
 LENS: 50mm, f/2.0.
 
-SUBJECT ACTION WITH TIMING:
-- 0.0–2.4s — the golden glow fades and the last motes and cogs drift down as she returns the bottle to her heart.
-- 2.4–4.8s — her smile eases to the knowing closed-lip calm of the opening.
-- 4.8–6.0s — she lifts her eyes softly to the lens, landing precisely on the Frame 1 pose for a seamless loop. Real physics throughout.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Medium-full three-quarter hero matching Frame 1: a slow settle-back is already easing the framing toward the opening position as the golden glow fades and the last motes and cogs drift down; she returns the bottle to her heart, gaze softening.
+- [00:02–00:04] The pull continues as her smile eases to the knowing closed-lip calm of the opening and the gilded gearwork softens back toward the bronze silk's stillness; eyes calming.
+- [00:04–00:06] She lifts her eyes softly to the lens, landing precisely on the Frame 1 pose, weight settled among the gears — a seamless loop seam.
 
 LIGHTING: the warm amber gaslight key restored, mahogany fill, gold rim; steady, easing back to the opening level.
 
@@ -1309,9 +1297,9 @@ ENVIRONMENT: clockwork atelier restored to the opening tableau, giant gears turn
 
 AUDIO: diegetic-plus-design, no spoken word. Ambient bed — the warm room-tone and steady clockwork tick easing back down to the soft opening level, looping cleanly into Frame 1's bed. SFX — a soft warm resonance fading 0.0–2.4s, a deep slow gear-turn groan at 5.3s matching the opening's 1.0s cue for the loop seam. Reaction — a soft calm breath at 2.9s. VO — none. Master track resolves and eases to the soft ambient level it began on for a clean loop (subtle, never full).
 
-DURATION: 5 seconds (0:25–0:30 of 30s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps, 180° shutter, gentle cinematic motion blur.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — a soft knowing closed-lip smile, matched to the opening.
 

@@ -178,6 +178,74 @@ BEATS[52] = [
 ]
 
 
+BEATS[53] = [
+    # F1 - medium-full three-quarter hero amid gears (push-in)
+    (
+        "Medium-full three-quarter hero amid the brass gears: a slow push-in is already "
+        "gliding toward her as she holds the amber bottle to her heart, the bronze silk "
+        "breathing and a giant gear turning slowly behind; she lifts her eyes to lens with a "
+        "knowing calm.",
+        "The push continues as she begins a graceful quarter-turn, the bronze silk catching "
+        "amber gaslight; gaze easing to lens, a poised set to her mouth.",
+        "She settles mid-turn, weight rolling onto the front foot, a precise knowing calm "
+        "holding as a floating cog drifts past.",
+    ),
+    # F2 - full-figure transform, slightly low angle (arc following the assembly up)
+    (
+        "Full-figure from a slightly low angle: a slow controlled arc is already rising as "
+        "the first brass cogs and clock-hands spin in from the air toward her; gaze tracking "
+        "the incoming gears, eyes brightening.",
+        "The arc rides the assembly up her body as gears fly in along clean arcs and "
+        "interlock, the gilded gown meshing into being piece by piece like a watch movement "
+        "closing; a delighted breath, brows lifting in wonder.",
+        "The last cog meshes and clicks home and the finished gown settles as the arc eases; "
+        "a warm luminous smile landing, eyes alight on the brass filigree.",
+    ),
+    # F3 - beauty close, product-at-face (6% push to collarbone)
+    (
+        "Beauty close, chest-up at a three-quarter: a slow push toward her collarbone is "
+        "already gliding in as she raises the amber dropper above it, a drop swelling at the "
+        "tip; eyes lowered to the bead of oil.",
+        "A single radiance-oil drop releases and falls catching the gaslight, the push "
+        "settling; a small assured smile beginning, gaze following the drop.",
+        "She lowers the bottle a touch and lifts her eyes softly, the gilded gearwork "
+        "glinting, a precise calm in her gaze.",
+    ),
+    # F4 - beauty close, direct address (SPOKEN)
+    (
+        "Beauty close, chest-up squared to lens: the camera is already settled on a "
+        "barely-there push as her eyes find the lens with a warm knowing smile, the bottle "
+        "presented at her chest.",
+        "She delivers \u201cbeauty, like clockwork.\u201d with natural lip-sync and a soft "
+        "brow lift, eyes bright and direct, the slow gears glowing behind.",
+        "The smile lands and holds with a soft blink, gaze staying eye-to-eye.",
+    ),
+    # F5 - full-figure magical hero, golden gear-ring bloom (majestic push + boom-rise)
+    (
+        "Full-figure magical hero from a slightly low angle: a slow majestic push-in with a "
+        "gentle boom-rise is already lifting as the clock-hands align and a gold point "
+        "kindles at the central gear; gaze drawn to the kindling point.",
+        "The boom keeps rising as a golden ring and brass cogs bloom outward in a slow wave, "
+        "the giant gears brightening in sequence; eyes lifting into it, a radiant knowing "
+        "awe blooming.",
+        "Gold motes and cogs drift and the halo eases to a sustained glow as the move "
+        "settles; her radiant knowing smile landing, eyes serene and haloed.",
+    ),
+    # F6 - loop close, matched to F1 (settle-back)
+    (
+        "Medium-full three-quarter hero matching Frame 1: a slow settle-back is already "
+        "easing the framing toward the opening position as the golden glow fades and the "
+        "last motes and cogs drift down; she returns the bottle to her heart, gaze "
+        "softening.",
+        "The pull continues as her smile eases to the knowing closed-lip calm of the opening "
+        "and the gilded gearwork softens back toward the bronze silk's stillness; eyes "
+        "calming.",
+        "She lifts her eyes softly to the lens, landing precisely on the Frame 1 pose, "
+        "weight settled among the gears \u2014 a seamless loop seam.",
+    ),
+]
+
+
 def build_block(beats):
     # Replaces ONLY the `SUBJECT ACTION WITH TIMING:` header + its bullet beat
     # lines. Ends with a single trailing newline so the original blank line
