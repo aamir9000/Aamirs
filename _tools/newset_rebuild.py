@@ -120,15 +120,86 @@ BEATS[1] = [
 ]
 
 
+BEATS[2] = [
+    # Frame 1 - low-angle medium-wide, car exit
+    (
+        "Low-angle medium-wide from the wet marble: the black-car door is already swinging "
+        "open and a crane is rising off the heel as her gown slides out, one pointed satin "
+        "heel reaching for the sapphire-lit step; gaze lowered to her footing.",
+        "The crane keeps tilting up her body as the heel meets the wet marble and her weight "
+        "commits, brass portico light raking up the midnight-blue satin; eyes beginning to "
+        "lift.",
+        "She rises to full height and lifts her gaze to the towering portico and revolving "
+        "door, a knowing half-smile arriving, chin tipping down a touch in confident calm.",
+    ),
+    # Frame 2 - high-angle macro on the step (no face)
+    (
+        "High-angle macro on the marble step: the camera is already easing down toward the "
+        "stone as the satin hem cascades and settles, the pointed heel rolling flat and its "
+        "reflection forming in the wet mirror-floor.",
+        "A slow drift follows the gloved hand as it enters frame and sets the box-clutch "
+        "down beside the heel, oxblood nails crisp at the glove cuff.",
+        "The trailing foot draws in beside the planted heel, weight grounding, the Deco "
+        "diamond cuff throwing a travelling sparkle across the marble.",
+    ),
+    # Frame 3 - 3/4 front close-up, glove + glasses ritual
+    (
+        "Three-quarter front close-up: a slow push is already gliding toward her eyes as she "
+        "smooths the long opera glove up her forearm mid-motion, lashes lowered to the "
+        "gesture.",
+        "The push eases into a micro-arc to three-quarter as she lowers the tinted gold-rim "
+        "glasses onto her eyes, the lens catching a travelling specular; gaze sliding toward "
+        "lens beneath the lashes.",
+        "A slow, confident smile blooms toward camera on a soft inhale, lips parting a "
+        "millimetre, eyes bright with intent toward the revolving door.",
+    ),
+    # Frame 4 - profile-to-front medium, revolving-door transform (SPOKEN)
+    (
+        "Profile-to-front medium: she is already pressing the brass push-bar and stepping "
+        "into the revolving door as the camera begins to swing with the pane, sapphire night "
+        "filling the glass; gaze forward through the door.",
+        "The camera rides the door through its arc and the colour seam wipes across her "
+        "body, midnight-blue satin shifting to deep emerald with warm gold blooming behind; "
+        "eyes brightening behind the tint.",
+        "She emerges into the emerald-gold lobby and turns her face to lens, a radiant "
+        "knowing smile landing with the spoken line, brows lifting a hair in delight.",
+    ),
+    # Frame 5 - full-length wide, lobby runway walk
+    (
+        "Full-length wide down the one-point-perspective hall: she is already mid-stride out "
+        "of the door into the emerald-gold lobby as a smooth dolly-back leads her, gown "
+        "trailing, gaze level and proud.",
+        "The dolly holds her centred through a confident runway walk toward lens, chandelier "
+        "speculars sweeping the satin and hips driving the line; a soft proud smile steady.",
+        "She eases her pace into a graceful settle and begins to turn, weight rolling onto "
+        "the door-side foot, eyes softening toward the hall behind.",
+    ),
+    # Frame 6 - low-angle medium-wide, loop close
+    (
+        "Low-angle medium-wide matching Frame 1: a slow descend-and-tilt-down is already "
+        "reversing the opening crane as she turns back toward the revolving door, the palette "
+        "cooling toward sapphire; gaze beginning its over-the-shoulder arc.",
+        "The descent continues as the emerald gown softens back toward midnight-blue at the "
+        "trailing hem and the warm rim cools to brass; a knowing half-smile returning.",
+        "She settles into the exact over-the-shoulder glance of Frame 1, weight on the "
+        "door-side foot, eyes warm \u2014 a frame-accurate loop seam back to the arrival.",
+    ),
+]
+
+
 def build_block(beats):
+    # Replaces ONLY the `SUBJECT ACTION w/ BEAT-TIMING:` header + its bullet
+    # beat lines. Whatever follows (a blank line then SPOKEN LINE or
+    # FLUIDITY & WEIGHT NOTES) is left untouched, so spoken-line frames keep
+    # their dialogue. Ends with a single trailing newline so the original
+    # blank line that followed the beats still separates the next section.
     return (
         BREAKDOWN_HEADER + "\n"
         f"- [00:00\u201300:02] {beats[0]}\n"
         f"- [00:02\u201300:04] {beats[1]}\n"
         f"- [00:04\u201300:06] {beats[2]}\n\n"
         + FRAME_RATE_LINE + "\n\n"
-        + DURATION_LINE + "\n\n"
-        "FLUIDITY & WEIGHT NOTES:"
+        + DURATION_LINE + "\n"
     )
 
 
@@ -153,10 +224,9 @@ def apply_concept(text, concept_no):
         return build_block(beats)
 
     region, n_act = re.subn(
-        r"SUBJECT ACTION w/ BEAT-TIMING:\n.*?\n\nFLUIDITY & WEIGHT NOTES:",
+        r"SUBJECT ACTION w/ BEAT-TIMING:\n(?:- .*\n)+",
         repl,
         region,
-        flags=re.DOTALL,
     )
 
     assert n_act == len(frames), (

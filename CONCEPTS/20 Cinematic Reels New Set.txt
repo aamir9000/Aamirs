@@ -640,14 +640,16 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE & ANGLE: low-angle medium-wide, subject fills ~45%.
 
-CAMERA MOVEMENT (CHOREOGRAPHY): a slow rise-and-tilt-up from the heel to her face as she exits, one continuous crane move, gimbal-smooth.
-
 LENS: 24mm, f/2.8, dramatic but controlled.
 
-SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.0s — the car door swings, gown sliding out.
-- 2.0–4.1s — her heel meets the wet step and weight commits.
-- 4.1–6.0s — she rises to full height, lifting her gaze to the portico.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Low-angle medium-wide from the wet marble: the black-car door is already swinging open and a crane is rising off the heel as her gown slides out, one pointed satin heel reaching for the sapphire-lit step; gaze lowered to her footing.
+- [00:02–00:04] The crane keeps tilting up her body as the heel meets the wet marble and her weight commits, brass portico light raking up the midnight-blue satin; eyes beginning to lift.
+- [00:04–00:06] She rises to full height and lifts her gaze to the towering portico and revolving door, a knowing half-smile arriving, chin tipping down a touch in confident calm.
+
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
+
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
 FLUIDITY & WEIGHT NOTES: the exit is one continuous unfurling — head and shoulders lead, the leg follows, weight rolls smoothly onto the heel; no stiff pause, a living elegant rise.
 
@@ -714,14 +716,16 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE & ANGLE: high-angle macro, detail fills ~65%.
 
-CAMERA MOVEMENT (CHOREOGRAPHY): a slow 5% push and gentle tilt following the hem as it settles, otherwise locked.
-
 LENS: 85mm, f/2.0.
 
-SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.2s — the heel settles, hem cascading down.
-- 2.2–4.4s — the gloved hand sets and steadies the clutch.
-- 4.4–6.0s — the second foot draws in, weight grounding.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] High-angle macro on the marble step: the camera is already easing down toward the stone as the satin hem cascades and settles, the pointed heel rolling flat and its reflection forming in the wet mirror-floor.
+- [00:02–00:04] A slow drift follows the gloved hand as it enters frame and sets the box-clutch down beside the heel, oxblood nails crisp at the glove cuff.
+- [00:04–00:06] The trailing foot draws in beside the planted heel, weight grounding, the Deco diamond cuff throwing a travelling sparkle across the marble.
+
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
+
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
 FLUIDITY & WEIGHT NOTES: the hem-fall is gravity-true and unhurried; the hand placement flows from a relaxed wrist; no abrupt stops.
 
@@ -788,14 +792,16 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE & ANGLE: three-quarter front close-up, subject fills ~60%.
 
-CAMERA MOVEMENT (CHOREOGRAPHY): a slow 6% push toward the eyes with a micro-arc to three-quarter, one smooth move.
-
 LENS: 50mm, f/1.8.
 
-SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.2s — she smooths the glove up the forearm.
-- 2.2–4.2s — she lowers the tinted glasses onto her eyes.
-- 4.2–6.0s — a slow confident smile blooms toward lens.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Three-quarter front close-up: a slow push is already gliding toward her eyes as she smooths the long opera glove up her forearm mid-motion, lashes lowered to the gesture.
+- [00:02–00:04] The push eases into a micro-arc to three-quarter as she lowers the tinted gold-rim glasses onto her eyes, the lens catching a travelling specular; gaze sliding toward lens beneath the lashes.
+- [00:04–00:06] A slow, confident smile blooms toward camera on a soft inhale, lips parting a millimetre, eyes bright with intent toward the revolving door.
+
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
+
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
 FLUIDITY & WEIGHT NOTES: both hand actions flow from the shoulder through relaxed wrists; the smile builds gradually; the head settles with breath — nothing mechanical.
 
@@ -862,14 +868,16 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE & ANGLE: profile-to-front medium, subject fills ~55%.
 
-CAMERA MOVEMENT (CHOREOGRAPHY): the camera rotates WITH the door, a smooth 90° arc that carries us from outside to inside in one continuous swing.
-
 LENS: 35mm, f/2.5.
 
-SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.7s — she presses the push-bar and steps in.
-- 1.7–3.7s — the door sweeps, the colour seam crossing her body.
-- 3.7–6.0s — she emerges into emerald-gold and delivers the line to lens.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Profile-to-front medium: she is already pressing the brass push-bar and stepping into the revolving door as the camera begins to swing with the pane, sapphire night filling the glass; gaze forward through the door.
+- [00:02–00:04] The camera rides the door through its arc and the colour seam wipes across her body, midnight-blue satin shifting to deep emerald with warm gold blooming behind; eyes brightening behind the tint.
+- [00:04–00:06] She emerges into the emerald-gold lobby and turns her face to lens, a radiant knowing smile landing with the spoken line, brows lifting a hair in delight.
+
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
+
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
 SPOKEN LINE (lands ~4.3s): "every entrance is a new world." (English, natural Indian accent, warm and assured)
 
@@ -938,14 +946,16 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE & ANGLE: full-length wide, subject fills ~45%, walking toward lens.
 
-CAMERA MOVEMENT (CHOREOGRAPHY): a smooth dolly-back leading her walk at a steady pace, holding her centred, gimbal-stable.
-
 LENS: 28mm, f/3.5.
 
-SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.1s — she strides from the door into the hall.
-- 2.1–4.3s — a confident runway walk toward camera.
-- 4.3–6.0s — she slows, a proud settle, beginning to turn.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Full-length wide down the one-point-perspective hall: she is already mid-stride out of the door into the emerald-gold lobby as a smooth dolly-back leads her, gown trailing, gaze level and proud.
+- [00:02–00:04] The dolly holds her centred through a confident runway walk toward lens, chandelier speculars sweeping the satin and hips driving the line; a soft proud smile steady.
+- [00:04–00:06] She eases her pace into a graceful settle and begins to turn, weight rolling onto the door-side foot, eyes softening toward the hall behind.
+
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
+
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
 FLUIDITY & WEIGHT NOTES: a true runway flow — hips leading, arms swinging naturally, gown trailing; the deceleration eases gracefully into the turn; never stiff.
 
@@ -1012,14 +1022,16 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE & ANGLE: low-angle medium-wide matching Frame 1, subject ~45%.
 
-CAMERA MOVEMENT (CHOREOGRAPHY): a slow descend-and-tilt-down reversing Frame 1's crane, so the end pose meets the opening exit pose.
-
 LENS: 24mm, f/2.8.
 
-SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.3s — she turns back toward the door.
-- 2.3–4.7s — the palette cools and the gown softens toward midnight-blue.
-- 4.7–6.0s — she settles into the over-shoulder glance echoing the opening.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Low-angle medium-wide matching Frame 1: a slow descend-and-tilt-down is already reversing the opening crane as she turns back toward the revolving door, the palette cooling toward sapphire; gaze beginning its over-the-shoulder arc.
+- [00:02–00:04] The descent continues as the emerald gown softens back toward midnight-blue at the trailing hem and the warm rim cools to brass; a knowing half-smile returning.
+- [00:04–00:06] She settles into the exact over-the-shoulder glance of Frame 1, weight on the door-side foot, eyes warm — a frame-accurate loop seam back to the arrival.
+
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
+
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
 FLUIDITY & WEIGHT NOTES: the turn-back is a single hip-led rotation, smooth and breathing; the reset reads as natural continuation, not a rewind.
 
