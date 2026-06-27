@@ -2258,13 +2258,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: medium-full three-quarter hero among the crystal clusters.
 
-CAMERA MOVEMENT: a single slow 8% push-in, otherwise locked-off and stable — one move, no transform yet.
-
 LENS: 50mm, f/2.5.
 
-SUBJECT ACTION WITH TIMING:
-- 0.0–3.0s — Aira holds the bottle to her collarbone, the slip breathing, cool mist drifting through the violet glow, and lifts her eyes to the lens with a serene calm smile.
-- 3.0–6.0s — she begins a slow graceful quarter-turn, an iridescent shimmer travelling the slip. One serene beat, real physics.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Medium-full three-quarter hero among the amethyst clusters: a slow push-in is already gliding toward her as she holds the faceted bottle to her collarbone, the lilac slip breathing and cool mist drifting through the violet glow; she lifts her eyes to lens with a serene calm smile.
+- [00:02–00:04] The push continues as she begins a graceful quarter-turn, an iridescent shimmer travelling the slip; gaze easing to lens, lashes soft.
+- [00:04–00:06] She settles mid-turn, weight rolling onto the front foot, a serene ethereal calm holding as a quartz cluster glints behind.
 
 LIGHTING: soft cool violet glow key, cool silver fill, prismatic rim; the crystal clusters glowing steady.
 
@@ -2272,9 +2271,9 @@ ENVIRONMENT: luminous crystal cavern, amethyst and quartz clusters, cool violet 
 
 AUDIO: diegetic-plus-design, no spoken word. Ambient bed — a low cool cavern room-tone with a faint crystalline shimmer, very low and steady. SFX — a soft glass-crystal tap as her fingers settle on the atomizer at 0.5s, a faint silk shift at 3.1s, a cool airy chime accent on the turn at 3.6s. Reaction — a soft breath at 2.6s. VO — none. The master track enters here soft and ambient (low and subtle, never full).
 
-DURATION: 5 seconds (0:00–0:05 of 30s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps, 180° shutter, gentle natural motion blur on the turn.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — a serene closed-lip smile.
 
@@ -2325,14 +2324,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: full-figure transform hero, slightly low angle.
 
-CAMERA MOVEMENT: a slow controlled arc following the growth up her body, smooth and motivated — one move, no whip.
-
 LENS: 50mm, f/2.5.
 
-SUBJECT ACTION WITH TIMING:
-- 0.0–1.5s — the first faceted crystal points nucleate at the hem and bodice seams.
-- 1.5–4.0s — crystals grow upward and outward along crystallographic axes, faceting into the structured gown as Aira watches with an awed breath.
-- 4.0–6.0s — the last facets lock and the crystalline gown settles, her recognizable face landing a cool luminous look. Only the crossing is impossible; everything else obeys real physics.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Full-figure from a slightly low angle: a slow controlled arc is already rising as the first faceted crystal points nucleate at the hem and bodice seams; gaze tracking the kindling facets, eyes brightening.
+- [00:02–00:04] The arc rides the growth up her body as crystals grow outward along crystallographic axes, faceting into the structured gown; an awed breath, brows lifting in wonder.
+- [00:04–00:06] The last facets lock and the crystalline gown settles as the arc eases; a cool luminous look landing, eyes alight on the prismatic edges.
 
 LIGHTING: cool violet glow key with a prismatic kick on the facets, cool silver fill, prismatic rim; deep and steady.
 
@@ -2340,9 +2337,9 @@ ENVIRONMENT: crystal cavern, glowing clusters, nucleating crystals, cool violet 
 
 AUDIO: diegetic-plus-design, no spoken word. Ambient bed — the cool cavern tone with a crystalline rise under the crossing. SFX — a soft glassy crystal-nucleation shimmer 0.0–1.5s, a delicate sequence of faceted crystal-chime-and-tick as the crystals grow and lock 1.5–4.0s, a cool settle-resonance as the gown resolves at 5.6s. Reaction — a soft awed breath at 1.4s. VO — none. Master track lifts gently under the transform then eases (subtle, never full).
 
-DURATION: 6 seconds (0:05–0:11 of 30s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps, 180° shutter, natural motion blur on the growth and arc.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — lips part on the awed breath, no words.
 
@@ -2391,14 +2388,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: beauty close, chest-up, product-at-face.
 
-CAMERA MOVEMENT: a slow 6% push-in to the face, locked otherwise.
-
 LENS: 85mm, f/2.5.
 
-SUBJECT ACTION WITH TIMING:
-- 0.0–2.4s — she raises the faceted bottle and presses the atomizer, a fine luminous mist beginning to fan.
-- 2.4–4.8s — the mist drifts down across her face as she closes then opens her eyes dewy and clear, a serene smile beginning.
-- 4.8–6.0s — she lowers the bottle a touch, eyes lifting. One refreshing beat, real physics.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Beauty close, chest-up at a three-quarter: a slow push toward her face is already gliding in as she raises the faceted bottle and presses the atomizer, a fine luminous mist beginning to fan; eyes lowered to the spray.
+- [00:02–00:04] The mist drifts down across her face as she closes then opens her eyes dewy and clear, the push settling; a serene smile beginning.
+- [00:04–00:06] She lowers the bottle a touch and lifts her eyes, the crystalline bodice glinting, a refreshed clarity in her gaze.
 
 LIGHTING: cool violet glow beauty key, cool silver fill, prismatic rim; a live specular travelling the bottle and the drifting mist as she moves.
 
@@ -2406,9 +2401,9 @@ ENVIRONMENT: crystal cavern, blurred glowing clusters, cool violet glow, driftin
 
 AUDIO: diegetic-plus-design, no spoken word. Ambient bed — the cool cavern tone, low. SFX — a soft atomizer-pump hiss at 0.8s, a fine misting spritz-tail 1.0–1.9s, a faint cool shimmer as the mist catches light at 2.6s. Reaction — a soft refreshed breath at 3.8s. VO — none. Master track stays low and ambient (subtle, never full).
 
-DURATION: 5 seconds (0:11–0:16 of 30s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps, 180° shutter, gentle motion blur on the hand and mist.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — a serene refreshed set.
 
@@ -2459,14 +2454,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: beauty close, chest-up, direct address.
 
-CAMERA MOVEMENT: locked-off and stable, a barely-there 4% push — no movement that competes with the line.
-
 LENS: 85mm, f/2.5.
 
-SUBJECT ACTION WITH TIMING:
-- 0.0–0.9s — she settles, eyes finding the lens with a serene knowing smile.
-- 0.9–3.9s — she delivers "clarity, crystallized." with natural lip-sync and a gentle brow lift, presenting the bottle at her chest.
-- 3.9–6.0s — the smile lands and holds, a cool blink. One clean delivery, real physics.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Beauty close, chest-up squared to lens: the camera is already settled on a barely-there push as her eyes find the lens with a serene knowing smile, the bottle presented at her chest.
+- [00:02–00:04] She delivers “clarity, crystallized.” with natural lip-sync and a gentle brow lift, eyes bright and direct, the violet cavern soft behind.
+- [00:04–00:06] The smile lands and holds with a cool blink, gaze staying eye-to-eye.
 
 LIGHTING: cool violet glow beauty key, cool silver fill, prismatic rim; steady, no flicker.
 
@@ -2474,9 +2467,9 @@ ENVIRONMENT: crystal cavern, blurred glowing clusters behind, cool violet glow, 
 
 AUDIO: diegetic-plus-design with spoken word. Ambient bed — the cool cavern tone, low. SFX — a faint cool air-tail around the voice, a soft glass touch on the bottle at 0.6s. VO — Aira, English with a natural Indian accent, cool and serene: "clarity, crystallized." delivered 0.9–3.9s, clean and intimate, sitting above the bed. Master track ducks under the voice and stays low (subtle, never full).
 
-DURATION: 4 seconds (0:16–0:20 of 30s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps, 180° shutter, gentle natural motion blur.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: precise lip-sync to "clarity, crystallized." across 0.9–3.9s; natural jaw and lip shapes, no drift.
 
@@ -2527,15 +2520,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: full-figure magical hero, slightly low angle.
 
-CAMERA MOVEMENT: a slow majestic push-in with a gentle rise ( + slight boom) tracking the burst — one smooth motivated move.
-
 LENS: 35mm, f/2.2.
 
-SUBJECT ACTION WITH TIMING:
-- 0.0–0.6s — a facet at her shoulder kindles with a warm-white inner light.
-- 0.6–2.2s — the light races across the gown and bursts outward as prism-beams and rainbow caustics, crystal shards lifting as she lifts her eyes into the light.
-- 2.2–4.2s — the shards and motes drift out, easing to a sustained prismatic halo, her radiant smile landing.
-- 4.2–6.0s — she holds, haloed and serene. Only the burst is impossible; all else real physics.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Full-figure magical hero from a slightly low angle: a slow majestic push-in with a gentle boom-rise is already lifting as a facet at her shoulder kindles with a warm-white inner light; gaze drawn to the kindling facet.
+- [00:02–00:04] The boom keeps rising as the light races across the gown and bursts outward as prism-beams and rainbow caustics, crystal shards lifting; eyes lifting into the light, a radiant awe blooming.
+- [00:04–00:06] The shards and motes drift out, easing to a sustained prismatic halo as the move settles; her radiant smile landing, eyes serene and haloed.
 
 LIGHTING: the prism-burst as a live cool key, prismatic rim, cool floor fill rising; controlled, no clipping.
 
@@ -2543,9 +2533,9 @@ ENVIRONMENT: crystal cavern blooming with refracted light, glowing clusters, dri
 
 AUDIO: diegetic-plus-design, no spoken word. Ambient bed — the cool cavern tone blooming into a wide cool string-and-glass-bell swell cresting at the burst then settling. SFX — a soft crystalline ignition-chime at the shoulder 0.2s, a bright prism-shimmer with fine glass-bell sequence tracking the bursting beams 0.6–2.2s, gentle bell-motes sparkling 1.4–3.0s, a cool resonance under the settle. Reaction — a soft awed breath at 1.9s. VO — none. Master track rises to its fullest-but-still-restrained moment under the burst then eases (subtle, never full).
 
-DURATION: 5 seconds (0:20–0:25 of 30s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps, 180° shutter, natural motion blur on the burst and drifting shards.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — lips part on the awed breath and smile, no words.
 
@@ -2596,14 +2586,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: medium-full three-quarter hero among the crystal clusters — matched to Frame 1 for the loop.
 
-CAMERA MOVEMENT: a slow settle-back to the opening framing (gentle pull matching Frame 1's start position), locked otherwise — ending exactly where the reel began.
-
 LENS: 50mm, f/2.5.
 
-SUBJECT ACTION WITH TIMING:
-- 0.0–2.4s — the prismatic glow fades and the last shards drift down as she returns the bottle to her collarbone.
-- 2.4–4.8s — her smile eases to the serene calm of the opening.
-- 4.8–6.0s — she lifts her eyes softly to the lens, landing precisely on the Frame 1 pose for a seamless loop. Real physics throughout.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Medium-full three-quarter hero matching Frame 1: a slow settle-back is already easing the framing toward the opening position as the prismatic glow fades and the last shards drift down; she returns the bottle to her collarbone, gaze softening.
+- [00:02–00:04] The pull continues as her smile eases to the serene calm of the opening and the crystalline gown softens back toward the lilac slip's stillness; eyes calming.
+- [00:04–00:06] She lifts her eyes softly to the lens, landing precisely on the Frame 1 pose, weight settled among the clusters — a seamless loop seam.
 
 LIGHTING: the cool violet glow key restored, cool silver fill, prismatic rim; steady, easing back to the opening level.
 
@@ -2611,9 +2599,9 @@ ENVIRONMENT: crystal cavern restored to the opening tableau, glowing clusters, l
 
 AUDIO: diegetic-plus-design, no spoken word. Ambient bed — the cool cavern tone and crystalline shimmer easing back down to the soft opening level, looping cleanly into Frame 1's bed. SFX — a cool resonance fading 0.0–2.4s, a soft glass-crystal tap at 5.3s matching the opening's 0.5s cue for the loop seam. Reaction — a soft calm breath at 2.9s. VO — none. Master track resolves and eases to the soft ambient level it began on for a clean loop (subtle, never full).
 
-DURATION: 5 seconds (0:25–0:30 of 30s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps, 180° shutter, gentle cinematic motion blur.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — a serene closed-lip smile, matched to the opening.
 

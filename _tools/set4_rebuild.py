@@ -380,6 +380,71 @@ BEATS[55] = [
 ]
 
 
+BEATS[56] = [
+    # F1 - medium-full three-quarter hero among crystal clusters (push-in)
+    (
+        "Medium-full three-quarter hero among the amethyst clusters: a slow push-in is "
+        "already gliding toward her as she holds the faceted bottle to her collarbone, the "
+        "lilac slip breathing and cool mist drifting through the violet glow; she lifts her "
+        "eyes to lens with a serene calm smile.",
+        "The push continues as she begins a graceful quarter-turn, an iridescent shimmer "
+        "travelling the slip; gaze easing to lens, lashes soft.",
+        "She settles mid-turn, weight rolling onto the front foot, a serene ethereal calm "
+        "holding as a quartz cluster glints behind.",
+    ),
+    # F2 - full-figure transform, slightly low angle (arc following the growth up)
+    (
+        "Full-figure from a slightly low angle: a slow controlled arc is already rising as "
+        "the first faceted crystal points nucleate at the hem and bodice seams; gaze "
+        "tracking the kindling facets, eyes brightening.",
+        "The arc rides the growth up her body as crystals grow outward along crystallographic "
+        "axes, faceting into the structured gown; an awed breath, brows lifting in wonder.",
+        "The last facets lock and the crystalline gown settles as the arc eases; a cool "
+        "luminous look landing, eyes alight on the prismatic edges.",
+    ),
+    # F3 - beauty close, product-at-face / mist-spritz (6% push to face)
+    (
+        "Beauty close, chest-up at a three-quarter: a slow push toward her face is already "
+        "gliding in as she raises the faceted bottle and presses the atomizer, a fine "
+        "luminous mist beginning to fan; eyes lowered to the spray.",
+        "The mist drifts down across her face as she closes then opens her eyes dewy and "
+        "clear, the push settling; a serene smile beginning.",
+        "She lowers the bottle a touch and lifts her eyes, the crystalline bodice glinting, "
+        "a refreshed clarity in her gaze.",
+    ),
+    # F4 - beauty close, direct address (SPOKEN)
+    (
+        "Beauty close, chest-up squared to lens: the camera is already settled on a "
+        "barely-there push as her eyes find the lens with a serene knowing smile, the bottle "
+        "presented at her chest.",
+        "She delivers \u201cclarity, crystallized.\u201d with natural lip-sync and a gentle "
+        "brow lift, eyes bright and direct, the violet cavern soft behind.",
+        "The smile lands and holds with a cool blink, gaze staying eye-to-eye.",
+    ),
+    # F5 - full-figure magical hero, prism-burst bloom (majestic push + boom-rise)
+    (
+        "Full-figure magical hero from a slightly low angle: a slow majestic push-in with a "
+        "gentle boom-rise is already lifting as a facet at her shoulder kindles with a "
+        "warm-white inner light; gaze drawn to the kindling facet.",
+        "The boom keeps rising as the light races across the gown and bursts outward as "
+        "prism-beams and rainbow caustics, crystal shards lifting; eyes lifting into the "
+        "light, a radiant awe blooming.",
+        "The shards and motes drift out, easing to a sustained prismatic halo as the move "
+        "settles; her radiant smile landing, eyes serene and haloed.",
+    ),
+    # F6 - loop close, matched to F1 (settle-back)
+    (
+        "Medium-full three-quarter hero matching Frame 1: a slow settle-back is already "
+        "easing the framing toward the opening position as the prismatic glow fades and the "
+        "last shards drift down; she returns the bottle to her collarbone, gaze softening.",
+        "The pull continues as her smile eases to the serene calm of the opening and the "
+        "crystalline gown softens back toward the lilac slip's stillness; eyes calming.",
+        "She lifts her eyes softly to the lens, landing precisely on the Frame 1 pose, "
+        "weight settled among the clusters \u2014 a seamless loop seam.",
+    ),
+]
+
+
 def build_block(beats):
     # Replaces ONLY the `SUBJECT ACTION WITH TIMING:` header + its bullet beat
     # lines. Ends with a single trailing newline so the original blank line
