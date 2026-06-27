@@ -843,6 +843,72 @@ BEATS[62] = [
 ]
 
 
+BEATS[63] = [
+    # F1 - medium-full three-quarter hero in lace atelier (push-in)
+    (
+        "Medium-full three-quarter hero in the lace atelier: a slow push-in is already "
+        "gliding toward her as she holds the champagne tube to her collarbone, the ivory "
+        "silk breathing and fibre-motes drifting in a daylight beam; she lifts her eyes to "
+        "lens with a soft elegant smile.",
+        "The push continues as she begins a graceful quarter-turn, a soft warm highlight "
+        "travelling the silk; gaze easing to lens, lashes soft.",
+        "She settles mid-turn, weight rolling onto the front foot, a poised elegant calm "
+        "holding as a dress form stands behind.",
+    ),
+    # F2 - full-figure transform, slightly low angle (arc following the lace knitting up)
+    (
+        "Full-figure from a slightly low angle: a slow controlled arc is already rising as "
+        "the first fine threads draw up and the floating needles begin to knit at the hem; "
+        "gaze tracking the knitting needles, eyes brightening.",
+        "The arc rides the lace up her body as the needles knit and crochet the threads row "
+        "by row into intricate Chantilly lace; an awed breath, brows lifting in wonder.",
+        "The last row knits and the lace gown settles as the arc eases; an elegant luminous "
+        "look landing, eyes alight on the fine openwork.",
+    ),
+    # F3 - beauty close, product-at-face / mascara (6% push to face)
+    (
+        "Beauty close, chest-up at a three-quarter: a slow push toward her face is already "
+        "gliding in as she lifts the spoolie wand from the tube and brings it to her upper "
+        "lash-line; eyes lowered to the wand.",
+        "She draws the wand up through her lashes in a soft sweep, the lashes lengthening and "
+        "separating, the push settling; a serene smile beginning.",
+        "She lowers the wand a touch and blinks softly, then lifts her eyes, the lace bodice "
+        "glinting, a poised calm in her gaze.",
+    ),
+    # F4 - beauty close, direct address (SPOKEN)
+    (
+        "Beauty close, chest-up squared to lens: the camera is already settled on a "
+        "barely-there push as her eyes find the lens with a knowing poised smile, the tube "
+        "presented at her chest.",
+        "She delivers \u201cevery thread in place.\u201d with natural lip-sync and a gentle "
+        "brow lift, eyes bright and direct, the warm atelier soft behind.",
+        "The smile lands and holds with an elegant blink, gaze staying eye-to-eye.",
+    ),
+    # F5 - full-figure magical hero, colour-wash bloom (majestic push + boom-rise)
+    (
+        "Full-figure magical hero from a slightly low angle: a slow majestic push-in with a "
+        "gentle boom-rise is already lifting as a lace motif at her heart drinks in a first "
+        "bloom of soft blush colour; gaze drawn to the kindling motif.",
+        "The boom keeps rising as the colour washes outward through the openwork across the "
+        "whole gown, blush deepening to champagne; eyes lifting with the wash, a radiant awe "
+        "blooming.",
+        "The wash settles into a soft luminous gradient as the move settles; her radiant "
+        "smile landing, eyes serene and haloed.",
+    ),
+    # F6 - loop close, matched to F1 (settle-back)
+    (
+        "Medium-full three-quarter hero matching Frame 1: a slow settle-back is already "
+        "easing the framing toward the opening position as the residual tint fades back "
+        "toward ivory and the warm glow eases; she returns the tube to her collarbone, gaze "
+        "softening.",
+        "The pull continues as her smile eases to the soft poise of the opening and the lace "
+        "settles back toward the ivory slip's stillness; eyes calming.",
+        "She lifts her eyes softly to the lens, landing precisely on the Frame 1 pose, "
+        "weight settled in the lace atelier \u2014 a seamless loop seam.",
+    ),
+]
+
+
 def build_block(beats):
     # Replaces ONLY the `SUBJECT ACTION WITH TIMING:` header + its bullet beat
     # lines. Ends with a single trailing newline so the original blank line
