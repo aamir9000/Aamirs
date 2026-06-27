@@ -108,6 +108,71 @@ BEATS[71] = [
 ]
 
 
+BEATS[72] = [
+    # F1 - medium close chest-up (push-in)
+    (
+        "Medium close chest-up: a slow push-in is already gliding toward her as she tilts the "
+        "clear acrylic compact a few degrees into the key, specular glints sliding across "
+        "the acrylic and the candy gel settling inside; gaze lowered to the puck.",
+        "The push continues as she lifts her eyes to lens on a soft inhale and a confident "
+        "asymmetric quarter-smile blooms, the bold colour-block panels crisp behind.",
+        "She holds, electric and composed, one brow a hair higher, eyes bright and direct to "
+        "lens.",
+    ),
+    # F2 - medium waist-up, arc-push (terrazzo chips form the dress, track the transform)
+    (
+        "Medium waist-up: a smooth 10% arc-push is already drifting a few degrees around her "
+        "as terrazzo chips rush in from the frame edges on graphic arcs and she opens her "
+        "arms to present; gaze tracking the incoming chips.",
+        "The arc-push rides the build as chips lock into the bodice, peplum and belt, edges "
+        "sharpening to hard graphic lines; a delighted breath, brows lifting in wonder.",
+        "The last chips settle and the chip-shimmer fades as the move eases; she lands a "
+        "confident finished pose, eyes alight on the formed dress.",
+    ),
+    # F3 - tight medium close + macro foreground, rack-focus pull (product->eye)
+    (
+        "Tight medium close with a macro foreground on the compact: a slow rack-focus pull "
+        "with a 5% drift-in is already underway as she slowly rotates the clear compact, the "
+        "gel catching light while focus holds on the label.",
+        "Focus racks smoothly off the product toward her near eye as she lifts her gaze, the "
+        "drift settling; a confident half-smile beginning.",
+        "The half-smile settles with her eye now tack-sharp, the compact soft in the "
+        "foreground, gaze direct and assured.",
+    ),
+    # F4 - beauty close-up, face-dominant (4% push, emotional beat — silent)
+    (
+        "Beauty close-up, face-dominant: an almost-imperceptible 4% push is already breathing "
+        "in as the radiant smile blooms with a genuine eye-crinkle and her gaze lifts to "
+        "lens (silent \u2014 no words).",
+        "A soft exhale and a tiny confident chin-lift follow as her fingertips settle at the "
+        "jaw, the expression warm and open.",
+        "The warm open expression holds, eyes bright and direct \u2014 a wordless emotional "
+        "reveal in place of any line.",
+    ),
+    # F5 - medium chest-up, beauty 3D orbit synced to halftone-dot burst
+    (
+        "Medium chest-up: the beauty 3D orbit is already arcing a smooth 12% around the "
+        "levitating compact as it eases up and she frames it, halftone dots tight at its "
+        "surface; gaze drawn to the rising compact.",
+        "The orbit rides the burst as the halftone dots fly outward in clean graphic arcs "
+        "and her wonder peaks; eyes widening into the spray, a radiant awe blooming.",
+        "The dots radiate full-frame then begin resolving as the bright pulse eases and the "
+        "orbit settles; her radiant smile landing, eyes alight.",
+    ),
+    # F6 - medium close loop close (8% pull-back to F1)
+    (
+        "Medium close chest-up matching Frame 1: a gentle 8% pull-back is already easing the "
+        "orbit to rest toward the opening framing as the last dots dissolve; she settles the "
+        "compact back to the collarbone, gaze softening.",
+        "The pull-back continues as the radiant smile eases to the confident Frame 1 "
+        "quarter-smile and the colour-block panels settle to their opening look; eyes "
+        "calming.",
+        "She lands precisely on the Frame 1 opening posture and gaze, weight settled \u2014 a "
+        "seamless loop seam.",
+    ),
+]
+
+
 def build_block(beats):
     return (
         BREAKDOWN_HEADER + "\n"
