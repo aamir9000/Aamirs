@@ -239,6 +239,72 @@ BEATS[73] = [
 ]
 
 
+BEATS[74] = [
+    # F1 - medium close chest-up (push-in)
+    (
+        "Medium close chest-up: a slow push-in is already gliding toward her as she tilts the "
+        "clear palette a few degrees into the key, soft speculars sliding across the acrylic "
+        "and the rainbow-pastel dome catching light; gaze lowered to the palette.",
+        "The push continues as she lifts her eyes to lens on a soft inhale and a dreamy "
+        "quarter-smile blooms, the hand-drawn chalk murals soft behind.",
+        "She holds, dreamy and luminous, chalk-dust drifting past, eyes soft and direct to "
+        "lens.",
+    ),
+    # F2 - medium waist-up, arc-push (chalk smudge-forms the gown, track the transform)
+    (
+        "Medium waist-up: a smooth 10% arc-push is already drifting a few degrees around her "
+        "as pastel chalk-clouds sweep in from the frame edges and she opens her arms to "
+        "present; gaze tracking the drifting dust.",
+        "The arc-push rides the build as the dust smudge-settles into the bodice and tiered "
+        "skirt, edges crisping from soft smudge to clean graphic line; a wondering breath, "
+        "brows lifting.",
+        "The last veils settle and the chalk-shimmer fades as the move eases; she lands a "
+        "confident finished pose, eyes alight on the ombr\u00e9 tulle.",
+    ),
+    # F3 - tight medium close + macro foreground, rack-focus pull (product->eye)
+    (
+        "Tight medium close with a macro foreground on the palette: a slow rack-focus pull "
+        "with a 5% drift-in is already underway as she slowly rotates the clear palette, the "
+        "pastel dome catching light while focus holds on the swirl.",
+        "Focus racks smoothly off the palette toward her near eye as she lifts her gaze, the "
+        "drift settling; a dreamy half-smile beginning.",
+        "The half-smile settles with her eye now tack-sharp, the palette soft in the "
+        "foreground, gaze direct and gentle.",
+    ),
+    # F4 - beauty close-up, face-dominant (4% push, emotional beat — silent)
+    (
+        "Beauty close-up, face-dominant: an almost-imperceptible 4% push is already breathing "
+        "in as the radiant smile blooms with a genuine eye-crinkle and her gaze lifts to "
+        "lens (silent \u2014 no words).",
+        "A soft exhale and a tiny confident chin-lift follow as her fingertips settle at the "
+        "jaw, the expression warm and open.",
+        "The warm open expression holds, eyes bright and direct \u2014 a wordless emotional "
+        "reveal in place of any line.",
+    ),
+    # F5 - medium-wide three-quarter body, graphic 3D orbit (rainbow-bloom burst)
+    (
+        "Medium-wide three-quarter body: a smooth graphic 20\u00b0 3D orbit is already arcing "
+        "around her as she sweeps her arms outward and the chalk-pastel rainbow arc blooms "
+        "open in radiant bands; gaze lifting into the bloom.",
+        "The orbit rides the burst to its luminous peak, prismatic dust spiralling around "
+        "her; eyes widening, an awe-struck joyful smile at full bloom.",
+        "The arc holds and begins a gentle settle as the dust drifts and the orbit eases; "
+        "her joyful smile landing, eyes alight.",
+    ),
+    # F6 - medium close loop close (6% settle-back to F1)
+    (
+        "Medium close chest-up matching Frame 1: a gentle 6% settle-back is already returning "
+        "the framing toward the opening position as the last rainbow-dust settles; she eases "
+        "her arms back in and re-cradles the palette at collarbone height, gaze softening.",
+        "The settle continues as she resolves into the calm hero pose with the dreamy "
+        "quarter-smile and a soft settling exhale, the chalk studio easing to its opening "
+        "look; eyes calming.",
+        "She lands exactly on the Frame 1 composition and gaze, weight settled \u2014 a "
+        "seamless loop seam.",
+    ),
+]
+
+
 def build_block(beats):
     return (
         BREAKDOWN_HEADER + "\n"
