@@ -1255,6 +1255,88 @@ BEATS[19] = [
 ]
 
 
+BEATS[20] = [
+    # Frame 1 - wide establishing aerial, pier
+    (
+        "Wide establishing of the glowing glass pier: she is already stepping onto it in the "
+        "lower third as a slow aerial drift-down glides toward her, light-towers rising from "
+        "the sea-blue ocean behind; gaze sweeping the sea-city.",
+        "The drift carries closer as she slips on a hydro-heel and lowers the visor, the "
+        "pier-glass glowing beneath; a free, awed calm in her eyes.",
+        "She lifts the hydro-orb and turns toward the open water, eyes lifting to the "
+        "golden-blue horizon.",
+    ),
+    # Frame 2 - macro on hydro-heel light-ring (no face)
+    (
+        "Extreme macro on the hydro-heel: it is already meeting the glowing pier-glass as a "
+        "slow push closes in, a ring of light beginning beneath the sole.",
+        "The light-ring blooms outward across the glass, ripples of cyan racing away.",
+        "The glow surges toward the water as the road of light begins to form, brightening "
+        "the pier.",
+    ),
+    # Frame 3 - profile medium, road forming
+    (
+        "Profile medium at the pier edge: she is already reaching one hand toward the sea as "
+        "a slow arc swings from profile toward three-quarter, the water glowing beyond; gaze "
+        "out across the channel.",
+        "A road of light forms across the water and her luminous coat lifts in the rising "
+        "air, the arc easing round; eyes widening in awe.",
+        "She begins to step onto the light-road, gaze fixed on the glowing path.",
+    ),
+    # Frame 4 - front-on full/wide hero, water-road grand transform
+    (
+        "Front-on full/wide hero, striding centred: she is already stepping onto the road of "
+        "light as a smooth crane-up-and-orbit glides around her, the ocean stirring; gaze "
+        "lifting with the rising sea.",
+        "The ocean rises and weaves sea-water, city-light and silk into the flowing couture "
+        "finale gown as the crane orbits; chin lifting, eyes widening in radiant awe, lips "
+        "parting.",
+        "Her arms open and a radiant awed smile lands, sea-light flung outward on real arcs, "
+        "the grand train settling, eyes alight.",
+    ),
+    # Frame 5 - 3/4 front cowboy/full, dance on water-road
+    (
+        "Three-quarter front cowboy/full: she is already sweeping into a dance phrase across "
+        "the road of light as an arcing orbit follows her, the sea glowing around; gaze "
+        "flowing with the movement.",
+        "A fluid expressive sequence \u2014 a turn, an arm-sweep, the train flying \u2014 the "
+        "orbit arcing with her; eyes bright and joyful.",
+        "She carries the phrase toward the pool-channel, gaze leading toward the glowing "
+        "water.",
+    ),
+    # Frame 6 - high-angle medium-wide, swim
+    (
+        "High-angle medium-wide looking down: she is already gliding into the glowing "
+        "sea-blue pool channel in a graceful arc as an overhead tracking glide follows, the "
+        "gown flowing like liquid light; gaze forward through the water.",
+        "A fluid weightless swim through the glowing channel, the couture gown streaming "
+        "around her; eyes serene and luminous.",
+        "She begins to rise toward the far edge, gaze lifting toward the blazing sea-city "
+        "above.",
+    ),
+    # Frame 7 - front-on full/wide hero, hero rise (SPOKEN)
+    (
+        "Front-on full/wide hero: she is already rising from the pool channel onto a glowing "
+        "platform in the full couture finale gown as a slow rise-and-settle moves to "
+        "dead-front, light dripping from the gown; gaze lifting.",
+        "She gestures to the blazing sea-city behind her, eyes sweeping the light-towers "
+        "with triumphant pride.",
+        "She turns fully to lens and delivers the spoken line with a radiant triumphant "
+        "smile, eyes alight as the camera settles.",
+    ),
+    # Frame 8 - wide loop close
+    (
+        "Wide matching Frame 1: a slow drift-up-and-back is already reversing the opening "
+        "aerial drift as she turns back toward the pier; gaze sweeping the sea-city.",
+        "The drift continues as the couture finale gown softens back into the future set, "
+        "the water-road dissolves into the sea and the hydro-orb returns to her hand; a free "
+        "content calm returning.",
+        "She settles into the exact stance of Frame 1 on the glowing pier, eyes on the "
+        "horizon \u2014 a seamless loop seam.",
+    ),
+]
+
+
 def build_block(beats):
     # Replaces ONLY the `SUBJECT ACTION w/ BEAT-TIMING:` header + its bullet
     # beat lines. Whatever follows (a blank line then SPOKEN LINE or

@@ -9630,14 +9630,16 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE & ANGLE: wide, subject fills ~28%.
 
-CAMERA MOVEMENT (CHOREOGRAPHY): a slow aerial drift-down and glide toward the pier, gimbal-smooth.
-
 LENS: 28mm, f/3.2.
 
-SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.2s — she steps onto the pier, scanning the sea-city.
-- 2.2–4.4s — she slips on a hydro-heel and lowers the visor.
-- 4.4–6.0s — she lifts the hydro-orb and turns toward the open water.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Wide establishing of the glowing glass pier: she is already stepping onto it in the lower third as a slow aerial drift-down glides toward her, light-towers rising from the sea-blue ocean behind; gaze sweeping the sea-city.
+- [00:02–00:04] The drift carries closer as she slips on a hydro-heel and lowers the visor, the pier-glass glowing beneath; a free, awed calm in her eyes.
+- [00:04–00:06] She lifts the hydro-orb and turns toward the open water, eyes lifting to the golden-blue horizon.
+
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
+
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
 FLUIDITY & WEIGHT NOTES: the step and heel-on flow continuously from the core; the turn leads from the shoulder — poised, never static.
 
@@ -9704,14 +9706,16 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE & ANGLE: macro, detail fills ~70%.
 
-CAMERA MOVEMENT (CHOREOGRAPHY): a slow 4% push toward the heel as the light-ring blooms, locked otherwise.
-
 LENS: 100mm macro, f/2.8.
 
-SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.2s — the heel presses the glass.
-- 2.2–4.2s — the light-ring blooms outward.
-- 4.2–6.0s — the glow surges toward the water as the road begins to form.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Extreme macro on the hydro-heel: it is already meeting the glowing pier-glass as a slow push closes in, a ring of light beginning beneath the sole.
+- [00:02–00:04] The light-ring blooms outward across the glass, ripples of cyan racing away.
+- [00:04–00:06] The glow surges toward the water as the road of light begins to form, brightening the pier.
+
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
+
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
 FLUIDITY & WEIGHT NOTES: the press is smooth and weighted; the ankle articulates cleanly; no wobble-jerk.
 
@@ -9778,14 +9782,16 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE & ANGLE: profile medium, subject fills ~55%.
 
-CAMERA MOVEMENT (CHOREOGRAPHY): a slow arc from profile toward three-quarter as the road forms, smooth.
-
 LENS: 50mm, f/2.2.
 
-SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.2s — she reaches toward the sea.
-- 2.2–4.2s — the road of light forms across the water and her coat lifts.
-- 4.2–6.0s — she begins to step onto the light-road.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Profile medium at the pier edge: she is already reaching one hand toward the sea as a slow arc swings from profile toward three-quarter, the water glowing beyond; gaze out across the channel.
+- [00:02–00:04] A road of light forms across the water and her luminous coat lifts in the rising air, the arc easing round; eyes widening in awe.
+- [00:04–00:06] She begins to step onto the light-road, gaze fixed on the glowing path.
+
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
+
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
 FLUIDITY & WEIGHT NOTES: the reach, the lift, the step flow as one continuous epic phrase; no stiffness.
 
@@ -9852,14 +9858,16 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE & ANGLE: front-on full/wide hero, subject fills ~55%, striding centred.
 
-CAMERA MOVEMENT (CHOREOGRAPHY): a smooth crane-up-and-orbit that SLOWS at the apex as the gown weaves, then eases on — a grand sea-city bullet-time.
-
 LENS: 35mm, f/2.8.
 
-SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.7s — she steps onto the light-road.
-- 1.7–4.0s — the ocean rises and weaves the gown.
-- 4.0–6.0s — arms open, a radiant awed smile, sea-light flung.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Front-on full/wide hero, striding centred: she is already stepping onto the road of light as a smooth crane-up-and-orbit glides around her, the ocean stirring; gaze lifting with the rising sea.
+- [00:02–00:04] The ocean rises and weaves sea-water, city-light and silk into the flowing couture finale gown as the crane orbits; chin lifting, eyes widening in radiant awe, lips parting.
+- [00:04–00:06] Her arms open and a radiant awed smile lands, sea-light flung outward on real arcs, the grand train settling, eyes alight.
+
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
+
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
 FLUIDITY & WEIGHT NOTES: one unbroken forward-and-up phrase — the stride leads from the core, arms unfurl last; momentum carries continuously — supremely fluid, never a dead stop.
 
@@ -9926,14 +9934,16 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE & ANGLE: three-quarter front cowboy/full, subject fills ~55%.
 
-CAMERA MOVEMENT (CHOREOGRAPHY): a smooth arcing orbit following her dance across the light-road, gimbal-stable.
-
 LENS: 35mm, f/2.8.
 
-SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.1s — she sweeps into a dance phrase across the road.
-- 2.1–4.3s — a fluid expressive sequence — a turn, an arm-sweep, the train flying.
-- 4.3–6.0s — she carries the phrase toward the pool-channel.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Three-quarter front cowboy/full: she is already sweeping into a dance phrase across the road of light as an arcing orbit follows her, the sea glowing around; gaze flowing with the movement.
+- [00:02–00:04] A fluid expressive sequence — a turn, an arm-sweep, the train flying — the orbit arcing with her; eyes bright and joyful.
+- [00:04–00:06] She carries the phrase toward the pool-channel, gaze leading toward the glowing water.
+
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
+
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
 FLUIDITY & WEIGHT NOTES: the dance is pure continuous flow — the turn leads from the core, arms unfurl, the train carries momentum; supremely fluid, never stiff.
 
@@ -10000,14 +10010,16 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE & ANGLE: high-angle medium-wide, subject fills ~50%.
 
-CAMERA MOVEMENT (CHOREOGRAPHY): a smooth overhead tracking glide following her swim-arc, gimbal-stable.
-
 LENS: 35mm, f/2.8.
 
-SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.1s — she glides into the water in a graceful arc.
-- 2.1–4.3s — a fluid weightless swim through the glowing channel, the gown flowing.
-- 4.3–6.0s — she begins to rise toward the far edge.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] High-angle medium-wide looking down: she is already gliding into the glowing sea-blue pool channel in a graceful arc as an overhead tracking glide follows, the gown flowing like liquid light; gaze forward through the water.
+- [00:02–00:04] A fluid weightless swim through the glowing channel, the couture gown streaming around her; eyes serene and luminous.
+- [00:04–00:06] She begins to rise toward the far edge, gaze lifting toward the blazing sea-city above.
+
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
+
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
 FLUIDITY & WEIGHT NOTES: the swim is pure weightless flow — the arc leads from the core, arms sweep, the train trails; supremely fluid, never stiff.
 
@@ -10074,14 +10086,16 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE & ANGLE: front-on full/wide hero, subject fills ~50%.
 
-CAMERA MOVEMENT (CHOREOGRAPHY): a slow rise-and-settle to dead-front, near-locked, letting her own the frame.
-
 LENS: 28mm, f/3.2.
 
-SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.0s — she rises onto the platform, light dripping.
-- 2.0–4.0s — she gestures to the blazing sea-city.
-- 4.0–6.0s — she delivers the line to lens with a radiant triumphant smile.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Front-on full/wide hero: she is already rising from the pool channel onto a glowing platform in the full couture finale gown as a slow rise-and-settle moves to dead-front, light dripping from the gown; gaze lifting.
+- [00:02–00:04] She gestures to the blazing sea-city behind her, eyes sweeping the light-towers with triumphant pride.
+- [00:04–00:06] She turns fully to lens and delivers the spoken line with a radiant triumphant smile, eyes alight as the camera settles.
+
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
+
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
 SPOKEN LINE (lands ~4.6s): "the future looks good on me." (English, natural Indian accent, warm and triumphant)
 
@@ -10150,14 +10164,16 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE & ANGLE: wide matching Frame 1, subject ~28%.
 
-CAMERA MOVEMENT (CHOREOGRAPHY): a slow drift-up-and-back reversing Frame 1's drift-down, so the end pose meets the opening.
-
 LENS: 28mm, f/3.2.
 
-SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.3s — she turns back toward the pier.
-- 2.3–4.7s — the couture gown softens back to the future set and the water-road dissolves and the hydro-orb returns to her hand.
-- 4.7–6.0s — she settles into the Frame 1 stance.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Wide matching Frame 1: a slow drift-up-and-back is already reversing the opening aerial drift as she turns back toward the pier; gaze sweeping the sea-city.
+- [00:02–00:04] The drift continues as the couture finale gown softens back into the future set, the water-road dissolves into the sea and the hydro-orb returns to her hand; a free content calm returning.
+- [00:04–00:06] She settles into the exact stance of Frame 1 on the glowing pier, eyes on the horizon — a seamless loop seam.
+
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
+
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
 FLUIDITY & WEIGHT NOTES: the turn-back is a smooth hip-led rotation; the reverse-transform flows as a gentle settle-back; the reset reads as natural continuation, not a rewind.
 
