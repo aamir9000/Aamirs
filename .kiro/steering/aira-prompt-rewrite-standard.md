@@ -538,10 +538,12 @@ K.1 '8-10 concept' flag with the user before touching 91-110."
 ====================================================================
 ## L. TRANSFORMATION-REEL MODEL — MID-CLIP CHANGE + MATCH-CUT JOINS
 ====================================================================
-(Decided with the user. Applies to ALL transformation reels — season-change, weather-change,
-outfit/clothes-change, look-A->look-B, material/tone-formation, GRWM getting-ready wraps, and
-any "the world/outfit turns" concept. ADDITIVE on top of sections A-K. The point: stop spreading
-one transform across multiple clips stitched by a fragile continuous-camera handoff; instead
+(Decided with the user. Applies to ALL transformation reels — ANY concept where a change happens
+mid-clip: outfit/wardrobe change, environment/world/set change, object/prop change, WEATHER
+change, TIME-OF-DAY change, PLACE/LOCATION change, ERA/PERIOD change, LIGHTING change, season
+change, material/finish change, look A->B, GRWM getting-ready wraps, and any "the world/outfit
+turns" concept. A single reel may combine ONE or SEVERAL of these changes at once — handle each
+precisely. ADDITIVE on top of sections A-K. The point: stop spreading one transform across multiple clips stitched by a fragile continuous-camera handoff; instead
 CONTAIN each change inside one clip's middle, and make every frame join an intentional CUT.)
 
 ### L.1 — WHERE THE CHANGE HAPPENS (mid-clip, never at the seam)
@@ -574,10 +576,14 @@ CONTAIN each change inside one clip's middle, and make every frame join an inten
 - THIS RULE APPLIES TO TRANSFORMATION-TYPE CONCEPTS ONLY (season/weather/outfit/material/look
   A->B change). Non-transform concepts (GRWM beauty-hero, lifestyle, action with no look-change)
   do NOT need it.
-- PRECISE TRIGGER: apply it ONLY to a clip where something actually CHANGES mid-frame — the
-  OUTFIT changes, the ENVIRONMENT/WORLD changes, or an OBJECT changes (season/weather/material/
-  look A->B). Only that transform clip + the next image it hands to are governed by this rule;
-  ordinary frames with no mid-clip change are exempt.
+- PRECISE TRIGGER: apply it ONLY to a clip where something actually CHANGES mid-frame. The
+  qualifying change types are: OUTFIT/wardrobe, ENVIRONMENT/WORLD/SET, OBJECT/prop, WEATHER,
+  TIME-OF-DAY, PLACE/LOCATION, ERA/PERIOD, LIGHTING, SEASON, MATERIAL/finish, and look A->B. A
+  single reel may carry ONE of these or SEVERAL at once (e.g. place + era + outfit + lighting all
+  turning together). Whichever change(s) occur mid-clip, the transform clip's second half must
+  specify EVERY changed element 1:1 with the next image (changed outfit AND changed world AND
+  changed weather/time/era/lighting — all of them, exhaustively and precisely). Ordinary frames
+  with no mid-clip change are exempt.
 - Because the transform clip's SECOND HALF ([00:04-00:06]) is already in Look B, the VIDEO prompt's
   second-half beat must be written as an EXHAUSTIVE, FIELD-BY-FIELD 1:1 SPEC of the NEXT frame's
   IMAGE prompt (the start keyframe of the following clip): mirror EVERY look field — garment
