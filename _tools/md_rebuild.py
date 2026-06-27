@@ -1133,6 +1133,191 @@ BEATS[40] = [
 ]
 
 
+BEATS[41] = [
+    (
+        "Medium close chest-up in the dreamy underwater-light studio: a slow push-in is "
+        "already gliding toward her as she tilts the Nacre jar a few degrees into the key, "
+        "pearl speculars sliding along the lid and the balm settling; gaze lowered to the "
+        "jar, a coral frond swaying slow behind her.",
+        "The push continues as she lifts her bright gaze to lens on a soft inhale and a "
+        "dreamy quarter-smile blooms, dappled caustic water-light playing over her.",
+        "She holds, dreamy and aquatic, her single face clear and locked, eyes soft, a coral "
+        "frond swaying behind.",
+    ),
+    (
+        "Medium close: the slow push continues with a faint tilt-up already following her "
+        "hand as she glides a dab of pearl-aqua balm along her cheekbone with a soft dreamy "
+        "press, a pearl glint travelling; gaze soft to the touch.",
+        "The first tiny coral polyps sprout and sway near her shoulder, her eyes softening "
+        "with dreamy focus (her single face stays clear and locked).",
+        "The balm settles to a pearl sheen, a frond swaying, lashes lowering in dreamy "
+        "calm.",
+    ),
+    (
+        "Medium chest-up: a slow arc is already drifting around her as she lowers her hand a "
+        "touch and the soft corals sprout and gather into a slow blooming arc; gaze "
+        "following the curling fronds.",
+        "The arc eases round as the first frond curls at her shoulder, her eyes softening "
+        "with dreamy wonder.",
+        "The gathering tightens and brightens, cueing the bloom, her gaze lifting a degree.",
+    ),
+    (
+        "Energized medium-wide: the push is already easing into a smooth gentle orbit as the "
+        "corals bloom in dreamy arcs and she opens her arms; gaze lifting into the bloom.",
+        "The orbit rides the hero beat as the fronds unfurl soft around her and the waves "
+        "and top catch travelling coral-light (her single face clear and coral-framed, never "
+        "overgrown); eyes widening in dreamy wonder.",
+        "The bloom settles and the corals resolve as the orbit eases; a serene radiant look "
+        "landing, her single face clear, eyes soft.",
+    ),
+    (
+        "Medium close: a slow push is already gliding in as she eases her hands open and the "
+        "bloom settles, the last corals curling slow; gaze serene to lens.",
+        "She lifts a serene radiant smile to lens in the full coral-frame, lips softly "
+        "closed (silent \u2014 no words), eyes soft and direct.",
+        "She holds the dreamy coral-framed look as one final frond settles, the smile easing "
+        "into calm wonder.",
+    ),
+    (
+        "Medium close matching Frame 1: a slow push is already resolving toward the exact "
+        "opening framing as she re-cradles the Nacre jar and tilts it into the key, pearl "
+        "speculars sliding along the lid; gaze lowering to the jar.",
+        "The push settles as she eases her bright gaze back to lens on a soft breath with the "
+        "composed dreamy quarter-smile, the aquatic studio resolving to the opening; eyes "
+        "calming.",
+        "She lands precisely on the Frame 1 pose and gaze, a coral frond swaying \u2014 a "
+        "seamless loop seam (silent).",
+    ),
+]
+
+BEATS[42] = [
+    (
+        "Medium close chest-up in the artisanal glassblowing studio: a slow push-in is "
+        "already gliding toward her as she tilts the amber-glass bottle a few degrees into "
+        "the key, molten-amber speculars sliding along the dropper and the serum settling; "
+        "gaze lowered to the bottle, an ember drifting behind her.",
+        "The push continues as she lifts her warm gaze to lens on a soft inhale and an "
+        "assured quarter-smile blooms, furnace-glow warm on her skin.",
+        "She holds, warm and assured, her single face clear and locked, eyes steady, an "
+        "ember drifting across the dark.",
+    ),
+    (
+        "Medium close: the slow push continues with a faint tilt-up already following her "
+        "hand as she raises the frosted-glass dropper near her cheekbone and glides a warm "
+        "liquid-glass serum drop along the high point, a molten glint travelling; gaze warm "
+        "to the touch.",
+        "The first molten-glass thread flows and curls near her shoulder, her eyes warming "
+        "with assured focus (her single face stays clear and locked).",
+        "The serum settles to a warm sheen, a thread curling, lashes lowering in assured "
+        "calm.",
+    ),
+    (
+        "Medium chest-up: a slow arc is already drifting around her as she lowers the dropper "
+        "a touch and the molten-glass threads flow and gather into a glowing sculptural arc; "
+        "gaze following the molten thread.",
+        "The arc eases round as the first thread curls at her shoulder, her eyes warming "
+        "with assured focus.",
+        "The gathering tightens and glows brighter, cueing the form, her gaze lifting a "
+        "degree.",
+    ),
+    (
+        "Energized medium-wide: the push is already easing into a smooth gentle orbit as the "
+        "molten glass flows and sculpts in slow arcs and she opens her arms; gaze tracing "
+        "the flowing glass.",
+        "The orbit rides the hero beat as the glass curls and begins to cool from "
+        "molten-amber to clear beside her and the chignon and top catch travelling molten "
+        "light (her single face clear and glass-framed, never glassed-over); eyes warming in "
+        "artisanal awe.",
+        "The form settles cooled and the glass resolves as the orbit eases; a radiant "
+        "glass-framed look landing, her single face clear, eyes warm.",
+    ),
+    (
+        "Medium close: a slow push is already gliding in as she eases her hands open and the "
+        "form settles cooled, the last glass arcs clarifying; gaze warm to lens.",
+        "She delivers \u201cshaped by fire, made to last.\u201d to lens with a quietly proud "
+        "smile, eyes warm and direct, her single face clear and locked.",
+        "She holds the radiant glass-framed look as one final arc settles, the smile easing "
+        "into assured calm.",
+    ),
+    (
+        "Medium close matching Frame 1: a slow push is already resolving toward the exact "
+        "opening framing as she re-cradles the amber-glass bottle and tilts it into the key, "
+        "molten-amber speculars sliding along the dropper; gaze lowering to the bottle.",
+        "The push settles as she eases her warm gaze back to lens on a soft breath with the "
+        "composed assured quarter-smile, the workshop resolving to the opening; eyes calming.",
+        "She lands precisely on the Frame 1 pose and gaze, an ember drifting \u2014 a "
+        "seamless loop seam.",
+    ),
+]
+
+BEATS[43] = [
+    (
+        "Medium close chest-up in the dramatic storm studio: a slow push-in is already "
+        "gliding toward her as she tilts the Volt bottle a few degrees into the key, "
+        "electric-white speculars sliding along the cap and the charged liquid settling; "
+        "gaze lowered to the bottle, a distant lightning flickering behind her.",
+        "The push continues as she lifts her intense gaze to lens on a soft inhale and a "
+        "powerful quarter-smile sets, cool steel-blue storm-light on her.",
+        "She holds, charged and powerful, her single face clear and locked, eyes intense, "
+        "distant lightning flickering behind.",
+    ),
+    (
+        "Medium close: the slow push continues with a faint tilt-up already following her "
+        "hand as she raises the charged Volt applicator near her cheekbone and presses a "
+        "charged-glow primer along the high point, an electric glint travelling; gaze "
+        "sharpening.",
+        "The first electric-white spark crackles near her shoulder, her eyes sharpening with "
+        "charged focus (her single face stays clear and locked).",
+        "The primer settles bright on her cheekbone, a spark crackling, lashes steady in "
+        "charged focus.",
+    ),
+    (
+        "Medium chest-up: a slow arc is already drifting around her as she lowers the "
+        "applicator a touch and the electric-white sparks crackle and gather into charged "
+        "arcs; gaze following the leaping light.",
+        "The arc eases round as the first arc leaps at her shoulder, her eyes sharpening with "
+        "charged power.",
+        "The gathering tightens and brightens, cueing the crackle, her gaze lifting a degree.",
+    ),
+    (
+        "Energized medium-wide: the push is already easing into a smooth gentle orbit as the "
+        "lightning arcs leap and crackle and she opens her arms; gaze tracing the striking "
+        "arcs.",
+        "The orbit rides the hero beat as the arcs strike bright around her and the "
+        "windswept crown and top catch travelling electric light (her single face clear and "
+        "arc-framed, never struck-over); eyes blazing in powerful awe.",
+        "The crackle settles and the arcs resolve as the orbit eases; a radiant arc-framed "
+        "look landing, her single face clear, eyes fierce.",
+    ),
+    (
+        "Medium close: a slow push is already gliding in as she eases her hands open and the "
+        "crackle resolves into a radiant halo around her; gaze fierce to lens.",
+        "She delivers \u201cI am the storm.\u201d to lens with a fierce composed smile, eyes "
+        "intense and direct, her single face clear and locked.",
+        "She holds the radiant arc-framed look as the last arc crackles slow, the smile "
+        "holding fierce and composed.",
+    ),
+    (
+        "Medium close: a slow push is already gliding in as she re-cradles the Volt bottle "
+        "near her collarbone and the arc-halo eases to a slow crackle; gaze steady to lens.",
+        "The push holds as she settles a quietly powerful look to lens on a slow breath, a "
+        "distant lightning flickering behind her; eyes calm and intense.",
+        "She holds the quietly powerful look toward the loop, storm-light soft behind, her "
+        "single face clear and locked.",
+    ),
+    (
+        "Medium close matching Frame 1: a slow push is already resolving toward the exact "
+        "opening framing as she re-cradles the Volt bottle and tilts it into the key, "
+        "electric-white speculars sliding along the cap; gaze lowering to the bottle.",
+        "The push settles as she eases her intense gaze back to lens on a soft breath with "
+        "the composed quarter-smile, the storm studio resolving to the opening; eyes "
+        "calming.",
+        "She lands precisely on the Frame 1 pose and gaze, distant lightning flickering "
+        "\u2014 a seamless loop seam.",
+    ),
+]
+
+
 def build_block(beats):
     return (
         BREAKDOWN_HEADER + "\n"

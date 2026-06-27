@@ -4649,11 +4649,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: medium close, chest-up, subject fills about 55% of the vertical frame.
 
-CAMERA MOVEMENT: a single slow 8% push-in across the clip (AT.1), otherwise locked-off and stable — one move only, no whip, no handoff.
-
 LENS: 50mm, f/2.0, smooth aqua background fall-off.
 
-SUBJECT ACTION WITH TIMING: 0.0–3.0s — Aira tilts the Nacre jar a few degrees into the key, pearl speculars sliding along the lid and the balm settling inside; 3.0–6.0s — she lifts her bright gaze to the lens on a soft inhale as the dreamy quarter-smile blooms and a coral frond sways slow behind her. One clean subject action, real physics throughout; her single face stays clear and locked.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Medium close chest-up in the dreamy underwater-light studio: a slow push-in is already gliding toward her as she tilts the Nacre jar a few degrees into the key, pearl speculars sliding along the lid and the balm settling; gaze lowered to the jar, a coral frond swaying slow behind her.
+- [00:02–00:04] The push continues as she lifts her bright gaze to lens on a soft inhale and a dreamy quarter-smile blooms, dappled caustic water-light playing over her.
+- [00:04–00:06] She holds, dreamy and aquatic, her single face clear and locked, eyes soft, a coral frond swaying behind.
 
 LIGHTING: soft dappled key with clean fill; live pearl speculars travelling across the lid as the jar tips; aqua backdrop held a touch down; soft aqua rim steady on the wet waves; coral-pink and aqua caustics at the edge.
 
@@ -4661,9 +4662,9 @@ ENVIRONMENT: dreamy underwater-light studio, slow-drifting bubbles, dappled aqua
 
 AUDIO: diegetic only, no in-clip music, NO voiceover. Ambient bed — a soft underwater room tone and a faint bubble-shimmer throughout. SFX — a soft lid-tap as her fingers settle on the jar at 0.6s (gentle attack, short tail), a faint fabric shift at 2.4s, a soft bubble-rise shimmer at 3.9s timed to the gaze-lift. Reaction — a soft dreamy breath at 3.0s. The instrumental master track sits low — a soft ambient aquatic pad just kindling under the room tone (present, never full).
 
-DURATION: 4 seconds (0:00–0:04 of 24s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps acquisition, 180° shutter, natural motion blur on the jar tilt and the swaying frond; playback 24fps real-time.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — lips closed/softly parted, composed (silent concept).
 
@@ -4712,11 +4713,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: medium close, chest-up, subject and gliding hand fill about 58% of the vertical frame.
 
-CAMERA MOVEMENT: the slow push continues with a faint 3° tilt up following the hand (one flowing move), otherwise stable.
-
 LENS: 50mm, f/2.0.
 
-SUBJECT ACTION WITH TIMING: 0.0–3.0s — Aira glides a dab of pearl-aqua balm along her cheekbone with a soft dreamy press, a pearl glint travelling; 3.0–6.0s — the first tiny coral polyps sprout and sway near her shoulder as her eyes soften with dreamy focus. One clean subject action, real physics throughout; her single face stays clear and locked.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Medium close: the slow push continues with a faint tilt-up already following her hand as she glides a dab of pearl-aqua balm along her cheekbone with a soft dreamy press, a pearl glint travelling; gaze soft to the touch.
+- [00:02–00:04] The first tiny coral polyps sprout and sway near her shoulder, her eyes softening with dreamy focus (her single face stays clear and locked).
+- [00:04–00:06] The balm settles to a pearl sheen, a frond swaying, lashes lowering in dreamy calm.
 
 LIGHTING: soft dappled key with clean fill; a soft aqua rim catching the fingertip and first coral sprouts into glints; aqua backdrop a touch down; sprouts behind; coral-pink and aqua caustics at the edge.
 
@@ -4724,9 +4726,9 @@ ENVIRONMENT: dreamy underwater-light studio, the first corals sprouting in the s
 
 AUDIO: diegetic only, NO voiceover. Ambient — soft underwater room tone and a faint bubble-shimmer throughout. SFX — a soft balm-glide whisper at 0.9s, a faint lid tick at 2.1s, a soft coral-sprout shimmer at 4.5s (gentle attack, soft tail). Reaction — a soft dreamy breath at 3.0s. The instrumental master track lifts a touch — a soft ambient pad and gentle aquatic motif rising under the SFX (present, never full).
 
-DURATION: 4 seconds (0:04–0:08 of 24s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps acquisition with a touch of slow-mo on the sprouting corals, 180° shutter, gentle natural motion blur; playback real-time.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none (silent concept).
 
@@ -4775,11 +4777,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: medium, chest-up, subject and gathering corals fill about 60% of the vertical frame.
 
-CAMERA MOVEMENT: a single slow 6% push-in tracking the gathering corals (AT.1, one flowing move), otherwise stable.
-
 LENS: 50mm, f/2.0, smooth aqua background fall-off.
 
-SUBJECT ACTION WITH TIMING: 0.0–2.4s — Aira lowers her hand a touch as the soft corals sprout and gather into a slow blooming arc around her; 2.4–4.5s — the first frond curls at her shoulder as her eyes soften with dreamy wonder; 4.5–6.0s — the gathering tightens and brightens, cueing the bloom. One clean subject action, real physics; her single face stays clear and locked.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Medium chest-up: a slow arc is already drifting around her as she lowers her hand a touch and the soft corals sprout and gather into a slow blooming arc; gaze following the curling fronds.
+- [00:02–00:04] The arc eases round as the first frond curls at her shoulder, her eyes softening with dreamy wonder.
+- [00:04–00:06] The gathering tightens and brightens, cueing the bloom, her gaze lifting a degree.
 
 LIGHTING: soft dappled key with clean fill; a soft aqua rim firing the gathering corals into glints; aqua backdrop a touch down; corals sprouting behind; coral-pink and aqua caustics at the edge.
 
@@ -4787,9 +4790,9 @@ ENVIRONMENT: dreamy underwater-light studio, corals sprouting and gathering arou
 
 AUDIO: diegetic only, NO voiceover. Ambient — soft underwater room tone and a faint bubble-shimmer throughout. SFX — the soft settle of the lowering jar at 0.8s, a soft coral-gather shimmer at 2.4s, a gentle frond-curl swell at 4.5s as the first frond locks (gentle attack, soft tail). Reaction — a soft dreamy breath at 2.1s. The instrumental master track sits low — a soft ambient pad and aquatic motif under the SFX (present, never full).
 
-DURATION: 4 seconds (0:08–0:12 of 24s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps acquisition with a touch of slow-mo on the gathering corals, 180° shutter, gentle natural motion blur; playback real-time.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none (silent concept).
 
@@ -4838,11 +4841,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: energized medium-wide of the coral-growth bloom (the hero move).
 
-CAMERA MOVEMENT: the slow push eases into a smooth gentle orbit around her through the coral-field (one flowing move) — the move that showcases the blooming corals around her single locked face.
-
 LENS: 50mm, f/2.0.
 
-SUBJECT ACTION WITH TIMING: 0.0–2.4s — from Frame 3's gather the corals bloom in dreamy arcs as she opens her arms; 2.4–4.5s — the fronds unfurl soft around her as the waves and top catch travelling coral-light (the impossible beat, her single face clear and coral-framed, identity locked, never overgrown); 4.5–6.0s — the bloom settles and the corals resolve toward the Frame-5 reveal. Strict interpolation between locked keyframes; real soft-growth physics; her face never duplicates.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Energized medium-wide: the push is already easing into a smooth gentle orbit as the corals bloom in dreamy arcs and she opens her arms; gaze lifting into the bloom.
+- [00:02–00:04] The orbit rides the hero beat as the fronds unfurl soft around her and the waves and top catch travelling coral-light (her single face clear and coral-framed, never overgrown); eyes widening in dreamy wonder.
+- [00:04–00:06] The bloom settles and the corals resolve as the orbit eases; a serene radiant look landing, her single face clear, eyes soft.
 
 LIGHTING: soft dappled key brighter through the bloom, clean fill, bright soft aqua bloom-rim, live speculars drifting across the blooming corals.
 
@@ -4850,9 +4854,9 @@ ENVIRONMENT: dreamy underwater-light studio at full bloom, soft corals unfurling
 
 AUDIO: diegetic-led, NO voiceover. Ambient — soft underwater room tone and a faint bubble-shimmer. SFX — a soft coral-bloom swell 0.4–2.7s, fine frond-unfurl shimmers 2.4–4.5s (gentle attack, soft tails), a soft fabric-flare at 3.0s. Reaction — a soft awed breath at 2.4s. The instrumental master track lifts to its soft dreamy peak here — an ambient swell landed on the bloom (present, still under the SFX, never full).
 
-DURATION: 4 seconds (0:12–0:16 of 24s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 96fps deep slow-mo through the bloom easing to gentle slow-mo, 180° shutter, soft natural motion blur with crisp coral cores.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none (silent concept).
 
@@ -4903,11 +4907,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: medium close, chest-up, subject fills about 56% of the vertical frame.
 
-CAMERA MOVEMENT: a single slow 6% push-in across the clip (AT.1), otherwise locked-off and stable — one move only, no whip, no handoff.
-
 LENS: 50mm, f/2.0, smooth aqua background fall-off.
 
-SUBJECT ACTION WITH TIMING: 0.0–2.1s — Aira eases her hands open as the bloom settles, last corals curling slow; 2.1–4.5s — she lifts a serene radiant smile to the lens in the full coral-frame (silent, no words); 4.5–6.0s — she holds the dreamy coral-framed look, one final frond settling. One clean subject action, real physics; her single face stays clear and locked.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Medium close: a slow push is already gliding in as she eases her hands open and the bloom settles, the last corals curling slow; gaze serene to lens.
+- [00:02–00:04] She lifts a serene radiant smile to lens in the full coral-frame, lips softly closed (silent — no words), eyes soft and direct.
+- [00:04–00:06] She holds the dreamy coral-framed look as one final frond settles, the smile easing into calm wonder.
 
 LIGHTING: soft dappled key gently lifted; live pearl speculars travelling across skin and the settling corals; aqua backdrop a touch down; soft aqua rim steady on the crown; coral-pink and aqua caustics at the edge.
 
@@ -4915,9 +4920,9 @@ ENVIRONMENT: dreamy underwater-light studio at full coral-frame, corals curling 
 
 AUDIO: diegetic only, NO voiceover (silent concept — the reveal is fully non-verbal). Ambient — soft underwater room tone and a faint bubble-shimmer throughout. SFX — a soft settling-coral shimmer at 0.9s, a faint fabric shift at 1.5s, a gentle bubble-rise at 3.6s. Reaction — a soft dreamy breath at 2.4s. The instrumental master track holds its soft ambient peak then begins a gentle resolve.
 
-DURATION: 4 seconds (0:16–0:20 of 24s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps acquisition, 180° shutter, gentle natural motion blur on the settling hands; playback 24fps real-time.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — lips softly closed, serene (silent concept, no spoken line on any frame).
 
@@ -4968,11 +4973,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: medium close, chest-up, subject fills about 55% of the vertical frame — matched to Frame 1.
 
-CAMERA MOVEMENT: a single slow 8% push-in resolving to the exact Frame 1 start position (AT.1, AX.5 loop), locked-off and stable — one move only, engineered so the last frame hands off invisibly to the first.
-
 LENS: 50mm, f/2.0, smooth aqua background fall-off.
 
-SUBJECT ACTION WITH TIMING: 0.0–3.3s — Aira re-cradles the Nacre jar and tilts it a few degrees into the key, pearl speculars sliding along the lid; 3.3–6.0s — she eases her bright gaze back to the lens on a soft breath with the composed dreamy quarter-smile, the composition resolving to match Frame 1 for a seamless loop. One clean subject action, real physics; her single face stays clear and locked.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Medium close matching Frame 1: a slow push is already resolving toward the exact opening framing as she re-cradles the Nacre jar and tilts it into the key, pearl speculars sliding along the lid; gaze lowering to the jar.
+- [00:02–00:04] The push settles as she eases her bright gaze back to lens on a soft breath with the composed dreamy quarter-smile, the aquatic studio resolving to the opening; eyes calming.
+- [00:04–00:06] She lands precisely on the Frame 1 pose and gaze, a coral frond swaying — a seamless loop seam (silent).
 
 LIGHTING: soft dappled key with clean fill; live pearl speculars travelling across the lid as the jar tips; aqua backdrop a touch down; soft aqua rim steady on the wet waves; coral-pink and aqua caustics at the edge.
 
@@ -4980,9 +4986,9 @@ ENVIRONMENT: dreamy underwater-light studio, slow-drifting bubbles, settled back
 
 AUDIO: diegetic only, NO voiceover (silent concept). Ambient — soft underwater room tone and a faint bubble-shimmer throughout. SFX — a soft lid-tap at 0.6s as her fingers settle on the jar (gentle attack, short tail), a faint fabric shift at 2.4s, a soft bubble-rise shimmer at 3.6s timed to the gaze-lift. The instrumental master track resolves softly here so it can loop clean.
 
-DURATION: 4 seconds (0:20–0:24 of 24s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps acquisition, 180° shutter, gentle natural motion blur on the jar tilt; playback 24fps real-time.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — lips closed/softly parted, composed, matched to Frame 1 (silent concept).
 
@@ -5071,11 +5077,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: medium close, chest-up, subject fills about 55% of the vertical frame.
 
-CAMERA MOVEMENT: a single slow 8% push-in across the clip (AT.1), otherwise locked-off and stable — one move only, no whip, no handoff.
-
 LENS: 50mm, f/2.0, smooth warm-dark background fall-off.
 
-SUBJECT ACTION WITH TIMING: 0.0–3.0s — Aira tilts the amber-glass bottle a few degrees into the key, molten-amber speculars sliding along the dropper and the serum settling inside; 3.0–6.0s — she lifts her warm gaze to the lens on a soft inhale as the assured quarter-smile blooms and an ember drifts behind her. One clean subject action, real physics throughout; her single face stays clear and locked.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Medium close chest-up in the artisanal glassblowing studio: a slow push-in is already gliding toward her as she tilts the amber-glass bottle a few degrees into the key, molten-amber speculars sliding along the dropper and the serum settling; gaze lowered to the bottle, an ember drifting behind her.
+- [00:02–00:04] The push continues as she lifts her warm gaze to lens on a soft inhale and an assured quarter-smile blooms, furnace-glow warm on her skin.
+- [00:04–00:06] She holds, warm and assured, her single face clear and locked, eyes steady, an ember drifting across the dark.
 
 LIGHTING: soft warm key with clean low fill; live molten-amber speculars travelling across the dropper as the bottle tips; dark workshop kept deep; molten rim steady on the chignon; furnace glow and ember practical at the edge.
 
@@ -5083,9 +5090,9 @@ ENVIRONMENT: warm dark glassblowing studio, slow-drifting embers, molten glow.
 
 AUDIO: diegetic only, no in-clip music. Ambient bed — a low workshop room tone and a faint furnace breath throughout. SFX — a soft glass-tap as her fingers settle on the bottle at 0.6s (gentle attack, short tail), a faint satin shift at 2.4s, a soft furnace-breath swell at 3.9s timed to the gaze-lift. Reaction — a soft warm breath at 3.0s. The master track sits low — a warm handpan note and soft cello just kindling under the room tone (present, never full). VO — none this frame.
 
-DURATION: 4 seconds (0:00–0:04 of 24s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps acquisition, 180° shutter, natural motion blur on the bottle tilt and the drifting ember; playback 24fps real-time.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — lips closed/softly parted, composed.
 
@@ -5134,11 +5141,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: medium close, chest-up, subject and raised dropper fill about 58% of the vertical frame.
 
-CAMERA MOVEMENT: the slow push continues with a faint 3° tilt up following the dropper (one flowing move), otherwise stable.
-
 LENS: 50mm, f/2.0.
 
-SUBJECT ACTION WITH TIMING: 0.0–3.0s — Aira raises the frosted-glass dropper near her cheekbone and glides a warm liquid-glass serum drop along the high point, a molten glint travelling; 3.0–6.0s — the first molten-glass thread flows and curls near her shoulder as her eyes warm with assured focus. One clean subject action, real physics throughout; her single face stays clear and locked.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Medium close: the slow push continues with a faint tilt-up already following her hand as she raises the frosted-glass dropper near her cheekbone and glides a warm liquid-glass serum drop along the high point, a molten glint travelling; gaze warm to the touch.
+- [00:02–00:04] The first molten-glass thread flows and curls near her shoulder, her eyes warming with assured focus (her single face stays clear and locked).
+- [00:04–00:06] The serum settles to a warm sheen, a thread curling, lashes lowering in assured calm.
 
 LIGHTING: soft warm key with low fill; a molten-amber rim catching the dropper and first thread into warm points; dark workshop deep; thread flowing behind; furnace glow and ember at the edge.
 
@@ -5146,9 +5154,9 @@ ENVIRONMENT: warm dark glassblowing studio, the first molten thread flowing in t
 
 AUDIO: diegetic only. Ambient — low workshop room tone and a faint furnace breath throughout. SFX — a soft serum-glide whisper at 0.9s, a faint dropper tick at 2.1s, a soft molten-flow hiss at 4.5s (gentle attack, soft tail). Reaction — a soft focused breath at 3.0s. The master track lifts a touch — a handpan pulse and warm cello rising under the SFX (present, never full). VO — none this frame.
 
-DURATION: 4 seconds (0:04–0:08 of 24s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps acquisition with a touch of slow-mo on the flowing thread, 180° shutter, gentle natural motion blur; playback real-time.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none.
 
@@ -5197,11 +5205,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: medium, chest-up, subject and gathering glass fill about 60% of the vertical frame.
 
-CAMERA MOVEMENT: a single slow 6% push-in tracking the gathering molten glass (AT.1, one flowing move), otherwise stable.
-
 LENS: 50mm, f/2.0, smooth warm-dark background fall-off.
 
-SUBJECT ACTION WITH TIMING: 0.0–2.4s — Aira lowers the dropper a touch as the molten-glass threads flow and gather into a glowing sculptural arc beside her; 2.4–4.5s — the first thread curls at her shoulder as her eyes warm with assured focus; 4.5–6.0s — the gathering tightens and glows brighter, cueing the form. One clean subject action, real physics; her single face stays clear and locked.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Medium chest-up: a slow arc is already drifting around her as she lowers the dropper a touch and the molten-glass threads flow and gather into a glowing sculptural arc; gaze following the molten thread.
+- [00:02–00:04] The arc eases round as the first thread curls at her shoulder, her eyes warming with assured focus.
+- [00:04–00:06] The gathering tightens and glows brighter, cueing the form, her gaze lifting a degree.
 
 LIGHTING: soft warm key with low fill; a molten-amber rim firing the gathering glass into glints; dark workshop deep; threads flowing behind; furnace glow and ember at the edge.
 
@@ -5209,9 +5218,9 @@ ENVIRONMENT: warm dark glassblowing studio, molten threads flowing and gathering
 
 AUDIO: diegetic only, no VO this frame. Ambient — low workshop room tone and a faint furnace breath throughout. SFX — the soft settle of the lowering dropper at 0.8s, a soft molten-gather flow-hiss at 2.4s, a bright glass-chime at 4.5s as the first thread locks (gentle attack, soft tail). Reaction — a soft focused breath at 2.1s. The master track sits low — a handpan pulse and warm cello under the SFX (present, never full).
 
-DURATION: 4 seconds (0:08–0:12 of 24s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps acquisition with a touch of slow-mo on the gathering glass, 180° shutter, gentle natural motion blur; playback real-time.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none.
 
@@ -5260,11 +5269,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: energized medium-wide of the molten-glass form & cool (the hero move).
 
-CAMERA MOVEMENT: the slow push eases into a smooth gentle orbit around her through the glass-field (one flowing move) — the move that showcases the forming glass beside her single locked face.
-
 LENS: 50mm, f/2.0.
 
-SUBJECT ACTION WITH TIMING: 0.0–2.4s — from Frame 3's gather the molten glass flows and sculpts in slow arcs as she opens her arms; 2.4–4.5s — the glass curls and begins to cool from molten-amber to clear beside her as the chignon and top catch travelling molten light (the impossible beat, her single face clear and glass-framed, identity locked, never glassed-over); 4.5–6.0s — the form settles cooled and the glass resolves toward the Frame-5 reveal. Strict interpolation between locked keyframes; real molten-glass physics; her face never duplicates.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Energized medium-wide: the push is already easing into a smooth gentle orbit as the molten glass flows and sculpts in slow arcs and she opens her arms; gaze tracing the flowing glass.
+- [00:02–00:04] The orbit rides the hero beat as the glass curls and begins to cool from molten-amber to clear beside her and the chignon and top catch travelling molten light (her single face clear and glass-framed, never glassed-over); eyes warming in artisanal awe.
+- [00:04–00:06] The form settles cooled and the glass resolves as the orbit eases; a radiant glass-framed look landing, her single face clear, eyes warm.
 
 LIGHTING: soft warm key brighter through the form, low fill, bright molten-amber form-rim, live speculars racing across the forming glass.
 
@@ -5272,9 +5282,9 @@ ENVIRONMENT: warm dark glassblowing studio at full form, molten glass sculpting 
 
 AUDIO: diegetic-led. Ambient — low workshop room tone and a faint furnace breath. SFX — a warm molten-flow hiss 0.4–2.4s, fine glass-cooling crackles and a clear chime 2.4–4.5s (gentle attack, soft tails), a soft satin-flare at 3.0s. Reaction — a soft assured breath at 2.4s. The master track lifts to its warm peak here — a handpan-and-cello swell landed on the form (present, still under the SFX, never full). VO — none (the line lands next frame).
 
-DURATION: 4 seconds (0:12–0:16 of 24s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 96fps deep slow-mo through the form easing to gentle slow-mo, 180° shutter, soft natural motion blur with crisp glass cores.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none.
 
@@ -5325,11 +5335,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: medium close, chest-up, subject fills about 56% of the vertical frame.
 
-CAMERA MOVEMENT: a single slow 6% push-in across the clip (AT.1), otherwise locked-off and stable — one move only, no whip, no handoff.
-
 LENS: 50mm, f/2.0, smooth warm-dark background fall-off.
 
-SUBJECT ACTION WITH TIMING: 0.0–1.5s — Aira eases her hands open as the form settles cooled, last glass arcs clarifying; 1.5–3.9s — she delivers the spoken line to the lens with a quietly proud smile; 3.9–6.0s — she holds the radiant glass-framed look, one final arc settling. One clean subject action, real physics; her single face stays clear and locked.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Medium close: a slow push is already gliding in as she eases her hands open and the form settles cooled, the last glass arcs clarifying; gaze warm to lens.
+- [00:02–00:04] She delivers “shaped by fire, made to last.” to lens with a quietly proud smile, eyes warm and direct, her single face clear and locked.
+- [00:04–00:06] She holds the radiant glass-framed look as one final arc settles, the smile easing into assured calm.
 
 LIGHTING: soft warm key gently lifted; live molten speculars travelling across skin and the cooled glass; dark workshop kept deep; molten rim steady on the chignon; furnace glow and ember at the edge.
 
@@ -5337,9 +5348,9 @@ ENVIRONMENT: warm dark glassblowing studio at full glass-frame, cooled arcs sett
 
 AUDIO: diegetic plus the spoken line. SPOKEN LINE (lip-sync) — Aira says "shaped by fire, made to last." from 1.5–3.9s in English with a natural Indian accent, warm assured tone, mouth shapes matched exactly. Ambient — low workshop room tone and a faint furnace breath throughout. SFX — a soft glass-cooling chime at 0.9s, a faint satin shift at 1.4s (kept clear of the VO). The master track ducks gently under the line and holds its handpan-and-cello low.
 
-DURATION: 4 seconds (0:16–0:20 of 24s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps acquisition, 180° shutter, gentle natural motion blur on the settling hands; playback 24fps real-time.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: ON — precise sync to "shaped by fire, made to last." across 1.5–3.9s; natural jaw and lip motion, no over-articulation.
 
@@ -5390,11 +5401,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: medium close, chest-up, subject fills about 55% of the vertical frame — matched to Frame 1.
 
-CAMERA MOVEMENT: a single slow 8% push-in resolving to the exact Frame 1 start position (AT.1, AX.5 loop), locked-off and stable — one move only, engineered so the last frame hands off invisibly to the first.
-
 LENS: 50mm, f/2.0, smooth warm-dark background fall-off.
 
-SUBJECT ACTION WITH TIMING: 0.0–3.3s — Aira re-cradles the amber-glass bottle and tilts it a few degrees into the key, molten-amber speculars sliding along the dropper; 3.3–6.0s — she eases her warm gaze back to the lens on a soft breath with the composed assured quarter-smile, the composition resolving to match Frame 1 for a seamless loop. One clean subject action, real physics; her single face stays clear and locked.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Medium close matching Frame 1: a slow push is already resolving toward the exact opening framing as she re-cradles the amber-glass bottle and tilts it into the key, molten-amber speculars sliding along the dropper; gaze lowering to the bottle.
+- [00:02–00:04] The push settles as she eases her warm gaze back to lens on a soft breath with the composed assured quarter-smile, the workshop resolving to the opening; eyes calming.
+- [00:04–00:06] She lands precisely on the Frame 1 pose and gaze, an ember drifting — a seamless loop seam.
 
 LIGHTING: soft warm key with clean low fill; live molten-amber speculars travelling across the dropper as the bottle tips; dark workshop kept deep; molten rim steady on the chignon; furnace glow and ember at the edge.
 
@@ -5402,9 +5414,9 @@ ENVIRONMENT: warm dark glassblowing studio, slow-drifting embers, settled back t
 
 AUDIO: diegetic only, no VO. Ambient — low workshop room tone and a faint furnace breath throughout. SFX — a soft glass-tap at 0.6s as her fingers settle on the bottle (gentle attack, short tail), a faint satin shift at 2.4s, a soft furnace-breath swell at 3.6s timed to the gaze-lift. The master track resolves softly here so it can loop clean.
 
-DURATION: 4 seconds (0:20–0:24 of 24s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps acquisition, 180° shutter, gentle natural motion blur on the bottle tilt; playback 24fps real-time.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — lips closed/softly parted, composed, matched to Frame 1.
 
@@ -5493,11 +5505,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: medium close, chest-up, subject fills about 55% of the vertical frame.
 
-CAMERA MOVEMENT: a single slow 8% push-in across the clip (AT.1), otherwise locked-off and stable — one move only, no whip, no handoff.
-
 LENS: 50mm, f/2.0, smooth charcoal-blue background fall-off.
 
-SUBJECT ACTION WITH TIMING: 0.0–3.1s — Aira tilts the Volt bottle a few degrees into the key, electric-white speculars sliding along the cap and the charged liquid settling inside; 3.1–6.0s — she lifts her intense gaze to the lens on a soft inhale as the powerful quarter-smile sets and a distant lightning flickers behind her. One clean subject action, real physics throughout; her single face stays clear and locked.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Medium close chest-up in the dramatic storm studio: a slow push-in is already gliding toward her as she tilts the Volt bottle a few degrees into the key, electric-white speculars sliding along the cap and the charged liquid settling; gaze lowered to the bottle, a distant lightning flickering behind her.
+- [00:02–00:04] The push continues as she lifts her intense gaze to lens on a soft inhale and a powerful quarter-smile sets, cool steel-blue storm-light on her.
+- [00:04–00:06] She holds, charged and powerful, her single face clear and locked, eyes intense, distant lightning flickering behind.
 
 LIGHTING: soft cool key with clean low fill; live electric-white speculars travelling across the cap as the bottle tips; dark backdrop kept deep; electric rim steady on the windswept crown; steel-blue and electric-white glows at the edge.
 
@@ -5505,9 +5518,9 @@ ENVIRONMENT: dark storm studio, slow-drifting charged haze, distant lightning fl
 
 AUDIO: diegetic only, no in-clip music. Ambient bed — a low storm-room rumble and a faint charged hum throughout. SFX — a soft cap-tap as her fingers settle on the bottle at 0.7s (gentle attack, short tail), a faint fabric shift at 2.7s, a soft distant thunder-roll at 4.5s timed to the gaze-lift. Reaction — a soft steady breath at 3.3s. The master track sits low — a deep storm-drum pulse and electric synth just kindling under the room tone (present, never full). VO — none this frame.
 
-DURATION: 3.5 seconds (0:00–0:03.5 of 24s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps acquisition, 180° shutter, natural motion blur on the bottle tilt and the windswept hair; playback 24fps real-time.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — lips closed/softly parted, composed.
 
@@ -5556,11 +5569,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: medium close, chest-up, subject and raised applicator fill about 58% of the vertical frame.
 
-CAMERA MOVEMENT: the slow push continues with a faint 3° tilt up following the applicator (one flowing move), otherwise stable.
-
 LENS: 50mm, f/2.0.
 
-SUBJECT ACTION WITH TIMING: 0.0–3.1s — Aira raises the charged Volt applicator near her cheekbone and presses a charged-glow primer along the high point, an electric glint travelling; 3.1–6.0s — the first electric-white spark crackles near her shoulder as her eyes sharpen with charged focus. One clean subject action, real physics throughout; her single face stays clear and locked.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Medium close: the slow push continues with a faint tilt-up already following her hand as she raises the charged Volt applicator near her cheekbone and presses a charged-glow primer along the high point, an electric glint travelling; gaze sharpening.
+- [00:02–00:04] The first electric-white spark crackles near her shoulder, her eyes sharpening with charged focus (her single face stays clear and locked).
+- [00:04–00:06] The primer settles bright on her cheekbone, a spark crackling, lashes steady in charged focus.
 
 LIGHTING: soft cool key with low fill; an electric-white rim catching the applicator and first spark into charged points; dark backdrop deep; spark crackling behind; steel-blue and electric-white glows at the edge.
 
@@ -5568,9 +5582,9 @@ ENVIRONMENT: dark storm studio, the first electric spark crackling in the air.
 
 AUDIO: diegetic only. Ambient — low storm-room rumble and a faint charged hum throughout. SFX — a soft primer-press tap at 1.0s, a faint cap tick at 2.4s, a soft electric spark-crackle at 5.1s (sharp attack, short tail). Reaction — a soft focused breath at 3.3s. The master track lifts a touch — storm-drums and electric synth rising under the SFX (present, never full). VO — none this frame.
 
-DURATION: 3.5 seconds (0:03.5–0:07 of 24s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps acquisition with a touch of slow-mo on the crackling spark, 180° shutter, gentle natural motion blur; playback real-time.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none.
 
@@ -5619,11 +5633,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: medium, chest-up, subject and gathering arcs fill about 60% of the vertical frame.
 
-CAMERA MOVEMENT: a single slow 6% push-in tracking the gathering arcs (AT.1, one flowing move), otherwise stable.
-
 LENS: 50mm, f/2.0, smooth charcoal-blue background fall-off.
 
-SUBJECT ACTION WITH TIMING: 0.0–2.4s — Aira lowers the applicator a touch as the electric-white sparks crackle and gather into charged arcs around her; 2.4–4.5s — the first arc leaps at her shoulder as her eyes sharpen with charged power; 4.5–6.0s — the gathering tightens and brightens, cueing the crackle. One clean subject action, real physics; her single face stays clear and locked.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Medium chest-up: a slow arc is already drifting around her as she lowers the applicator a touch and the electric-white sparks crackle and gather into charged arcs; gaze following the leaping light.
+- [00:02–00:04] The arc eases round as the first arc leaps at her shoulder, her eyes sharpening with charged power.
+- [00:04–00:06] The gathering tightens and brightens, cueing the crackle, her gaze lifting a degree.
 
 LIGHTING: soft cool key with low fill; an electric-white rim firing the gathering arcs into glints; dark backdrop deep; arcs crackling behind; steel-blue and electric-white glows at the edge.
 
@@ -5631,9 +5646,9 @@ ENVIRONMENT: dark storm studio, sparks crackling and gathering around her.
 
 AUDIO: diegetic only, no VO this frame. Ambient — low storm-room rumble and a faint charged hum throughout. SFX — the soft settle of the lowering applicator at 0.9s, a soft arc-gather crackle at 2.4s, a bright arc-leap snap at 4.5s as the first arc locks (sharp attack, short tail). Reaction — a soft focused breath at 2.1s. The master track sits low — storm-drums and electric synth under the SFX (present, never full).
 
-DURATION: 3.5 seconds (0:07–0:10.5 of 24s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps acquisition with a touch of slow-mo on the gathering arcs, 180° shutter, gentle natural motion blur; playback real-time.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none.
 
@@ -5682,11 +5697,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: energized medium-wide of the lightning arc crackle (the hero move).
 
-CAMERA MOVEMENT: the slow push eases into a smooth gentle orbit around her through the arc-field (one flowing move) — the move that showcases the crackling arcs around her single locked face.
-
 LENS: 50mm, f/2.0.
 
-SUBJECT ACTION WITH TIMING: 0.0–2.6s — from Frame 3's gather the lightning arcs leap and crackle as she opens her arms; 2.6–4.8s — the arcs strike bright around her as the windswept crown and top catch travelling electric light (the impossible beat, her single face clear and arc-framed, identity locked, never struck-over); 4.8–6.0s — the crackle settles and the arcs resolve toward the Frame-5 reveal. Strict interpolation between locked keyframes; real electric-arc physics; her face never duplicates.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Energized medium-wide: the push is already easing into a smooth gentle orbit as the lightning arcs leap and crackle and she opens her arms; gaze tracing the striking arcs.
+- [00:02–00:04] The orbit rides the hero beat as the arcs strike bright around her and the windswept crown and top catch travelling electric light (her single face clear and arc-framed, never struck-over); eyes blazing in powerful awe.
+- [00:04–00:06] The crackle settles and the arcs resolve as the orbit eases; a radiant arc-framed look landing, her single face clear, eyes fierce.
 
 LIGHTING: soft cool key brighter through the crackle, low fill, bright electric-white arc-rim, live speculars racing across the leaping arcs.
 
@@ -5694,9 +5710,9 @@ ENVIRONMENT: dark storm studio at full crackle, lightning arcs leaping slow arou
 
 AUDIO: diegetic-led. Ambient — low storm-room rumble and a faint charged hum. SFX — a bright lightning-crackle snap 0.5–2.7s, fine arc-strike ticks 2.6–4.8s (sharp attacks, short tails), a soft fabric-flare at 3.4s, a deep thunder-roll under at 2.7s. Reaction — a soft commanding breath at 2.7s. The master track lifts to its powerful peak here — a storm-drum-and-synth swell landed on the crackle (present, still under the SFX, never full). VO — none (the line lands next frame).
 
-DURATION: 3.5 seconds (0:10.5–0:14 of 24s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 96fps deep slow-mo through the crackle easing to gentle slow-mo, 180° shutter, soft natural motion blur with crisp arc cores.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none.
 
@@ -5747,11 +5763,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: medium close, chest-up, subject fills about 56% of the vertical frame.
 
-CAMERA MOVEMENT: a single slow 6% push-in across the clip (AT.1), otherwise locked-off and stable — one move only, no whip, no handoff.
-
 LENS: 50mm, f/2.0, smooth charcoal-blue background fall-off.
 
-SUBJECT ACTION WITH TIMING: 0.0–1.7s — Aira eases her hands open as the crackle resolves into a radiant halo around her; 1.7–4.5s — she delivers the spoken line to the lens with a fierce composed smile; 4.5–6.0s — she holds the radiant arc-framed look, the last arc crackling slow. One clean subject action, real physics; her single face stays clear and locked.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Medium close: a slow push is already gliding in as she eases her hands open and the crackle resolves into a radiant halo around her; gaze fierce to lens.
+- [00:02–00:04] She delivers “I am the storm.” to lens with a fierce composed smile, eyes intense and direct, her single face clear and locked.
+- [00:04–00:06] She holds the radiant arc-framed look as the last arc crackles slow, the smile holding fierce and composed.
 
 LIGHTING: soft cool key gently lifted; live electric speculars travelling across skin and the crackling halo; dark backdrop kept deep; electric rim steady on the windswept crown; steel-blue and electric-white glows at the edge.
 
@@ -5759,9 +5776,9 @@ ENVIRONMENT: dark storm studio at full arc-halo, last arcs crackling slow.
 
 AUDIO: diegetic plus the spoken line. SPOKEN LINE (lip-sync) — Aira says "I am the storm." from 1.7–4.5s in English with a natural Indian accent, powerful assured tone, mouth shapes matched exactly. Ambient — low storm-room rumble and a faint charged hum throughout. SFX — a soft arc-crackle at 1.0s, a faint fabric shift at 1.5s (kept clear of the VO). The master track ducks gently under the line and holds its storm-drums low.
 
-DURATION: 3.5 seconds (0:14–0:17.5 of 24s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps acquisition, 180° shutter, gentle natural motion blur on the settling hands; playback 24fps real-time.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: ON — precise sync to "I am the storm." across 1.7–4.5s; natural jaw and lip motion, no over-articulation.
 
@@ -5810,11 +5827,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: medium close, chest-up, subject fills about 55% of the vertical frame.
 
-CAMERA MOVEMENT: a single slow 5% push-in across the clip (AT.1), otherwise locked-off and stable — one move only.
-
 LENS: 50mm, f/2.0, smooth charcoal-blue background fall-off.
 
-SUBJECT ACTION WITH TIMING: 0.0–3.0s — Aira re-cradles the Volt bottle near her collarbone as the arc-halo eases to a slow crackle; 3.0–6.0s — she holds a quietly powerful look to the lens on a slow breath, a distant lightning flickering behind her. One clean subject action, real physics; her single face stays clear and locked.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Medium close: a slow push is already gliding in as she re-cradles the Volt bottle near her collarbone and the arc-halo eases to a slow crackle; gaze steady to lens.
+- [00:02–00:04] The push holds as she settles a quietly powerful look to lens on a slow breath, a distant lightning flickering behind her; eyes calm and intense.
+- [00:04–00:06] She holds the quietly powerful look toward the loop, storm-light soft behind, her single face clear and locked.
 
 LIGHTING: soft cool key with clean low fill; live electric speculars travelling across the cap; dark backdrop kept deep; electric rim steady on the crown; steel-blue and electric-white glows at the edge.
 
@@ -5822,9 +5840,9 @@ ENVIRONMENT: dark storm studio, slow-drifting charged haze, the halo easing to a
 
 AUDIO: diegetic only, no VO. Ambient — low storm-room rumble and a faint charged hum throughout. SFX — a soft cap-tap at 0.8s as her fingers settle on the bottle (gentle attack, short tail), a faint fabric shift at 2.8s, a soft distant thunder-roll at 4.8s. Reaction — a soft steady breath at 3.2s. The master track holds a low steady storm-drum pulse under the room tone (present, never full).
 
-DURATION: 3 seconds (0:17.5–0:20.5 of 24s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps acquisition, 180° shutter, gentle natural motion blur on the settling hand; playback 24fps real-time.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — lips closed/softly parted, composed.
 
@@ -5875,11 +5893,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: medium close, chest-up, subject fills about 55% of the vertical frame — matched to Frame 1.
 
-CAMERA MOVEMENT: a single slow 8% push-in resolving to the exact Frame 1 start position (AT.1, AX.5 loop), locked-off and stable — one move only, engineered so the last frame hands off invisibly to the first.
-
 LENS: 50mm, f/2.0, smooth charcoal-blue background fall-off.
 
-SUBJECT ACTION WITH TIMING: 0.0–3.4s — Aira re-cradles the Volt bottle and tilts it a few degrees into the key, electric-white speculars sliding along the cap; 3.4–6.0s — she eases her intense gaze back to the lens on a soft breath with the composed quarter-smile, the composition resolving to match Frame 1 for a seamless loop. One clean subject action, real physics; her single face stays clear and locked.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Medium close matching Frame 1: a slow push is already resolving toward the exact opening framing as she re-cradles the Volt bottle and tilts it into the key, electric-white speculars sliding along the cap; gaze lowering to the bottle.
+- [00:02–00:04] The push settles as she eases her intense gaze back to lens on a soft breath with the composed quarter-smile, the storm studio resolving to the opening; eyes calming.
+- [00:04–00:06] She lands precisely on the Frame 1 pose and gaze, distant lightning flickering — a seamless loop seam.
 
 LIGHTING: soft cool key with clean low fill; live electric-white speculars travelling across the cap as the bottle tips; dark backdrop kept deep; electric rim steady on the windswept crown; steel-blue and electric-white glows at the edge.
 
@@ -5887,9 +5906,9 @@ ENVIRONMENT: dark storm studio, slow-drifting charged haze, settled back to the 
 
 AUDIO: diegetic only, no VO. Ambient — low storm-room rumble and a faint charged hum throughout. SFX — a soft cap-tap at 0.7s as her fingers settle on the bottle (gentle attack, short tail), a faint fabric shift at 2.7s, a soft distant thunder-roll at 4.1s timed to the gaze-lift. The master track resolves softly here so it can loop clean.
 
-DURATION: 3.5 seconds (0:20.5–0:24 of 24s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps acquisition, 180° shutter, gentle natural motion blur on the bottle tilt; playback 24fps real-time.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — lips closed/softly parted, composed, matched to Frame 1.
 
