@@ -909,6 +909,74 @@ BEATS[63] = [
 ]
 
 
+BEATS[64] = [
+    # F1 - medium-full three-quarter hero in ice atelier (push-in)
+    (
+        "Medium-full three-quarter hero in the ice atelier: a slow push-in is already "
+        "gliding toward her as she holds the chilled roller to her collarbone, the "
+        "silver-grey silk breathing and cold vapor curling low; she lifts her eyes to lens "
+        "with a cool composed smile.",
+        "The push continues as she begins a graceful quarter-turn, a cool highlight "
+        "travelling the silk; gaze easing to lens, lashes soft.",
+        "She settles mid-turn, weight rolling onto the front foot, a cool composed calm "
+        "holding as a carved-ice block gleams behind.",
+    ),
+    # F2 - full-figure transform, slightly low angle (arc following the ice carving up)
+    (
+        "Full-figure from a slightly low angle: a slow controlled arc is already rising as "
+        "the first clear-ice planes form at the hem and invisible chisels begin to carve; "
+        "gaze tracking the carving, eyes brightening.",
+        "The arc rides the carving up her body as the ice sheaths and the chisels cut it "
+        "back facet by facet, chips and vapor lifting; an awed breath, brows lifting in "
+        "wonder.",
+        "The last facet cuts and the ice gown settles as the arc eases; a cool luminous look "
+        "landing, eyes alight on the faceted ice.",
+    ),
+    # F3 - beauty close, product-at-face / cryo-roller (6% push to face)
+    (
+        "Beauty close, chest-up at a three-quarter: a slow push toward her face is already "
+        "gliding in as she lifts the chilled dual-roller from the collarbone and brings it "
+        "to her cheekbone; eyes lowered to the roller.",
+        "She glides it smoothly up the cheekbone and jaw, the skin lifting and brightening, "
+        "the push settling; a serene smile beginning.",
+        "She eases the roller down a touch and opens her eyes with a cool refreshed lift, the "
+        "ice bodice glinting, a composed calm in her gaze.",
+    ),
+    # F4 - bold beauty close, wordless direct address (SILENT — expression reveal)
+    (
+        "Bold beauty close, chest-up squared to lens: the camera is already settled on a "
+        "barely-there push as her eyes lock the lens with a cool composed smile, the roller "
+        "presented at her chest (silent \u2014 no words).",
+        "She holds a slow confident blink as a cold caustic flickers across the ice bodice, "
+        "lips softly closed, the look itself doing the work; brows lifting a hair in quiet "
+        "command.",
+        "The composed smile lands and holds, eyes direct and bright \u2014 a wordless "
+        "expression reveal in place of any line.",
+    ),
+    # F5 - full-figure magical hero, ice-spark burst bloom (majestic push + boom-rise)
+    (
+        "Full-figure magical hero from a slightly low angle: a slow majestic push-in with a "
+        "gentle boom-rise is already lifting as a facet at her shoulder catches the low sun "
+        "and throws a first bright cold spark; gaze drawn to the spark.",
+        "The boom keeps rising as the light races facet to facet across the gown and "
+        "releases a swirling cloud of fine ice-sparks; eyes lifting into the swirl, a "
+        "radiant awe blooming.",
+        "The sparks drift out, easing to a sustained halo of slowly falling ice-sparks as "
+        "the move settles; her radiant smile landing, eyes serene and haloed.",
+    ),
+    # F6 - loop close, matched to F1 (settle-back)
+    (
+        "Medium-full three-quarter hero matching Frame 1: a slow settle-back is already "
+        "easing the framing toward the opening position as the sparkle fades and the last "
+        "ice-sparks drift down; she returns the roller to her collarbone, gaze softening.",
+        "The pull continues as her smile eases to the cool poise of the opening and the ice "
+        "gown softens back toward the silver-grey silk's stillness; eyes calming.",
+        "She lifts her eyes softly to the lens, landing precisely on the Frame 1 pose, "
+        "weight settled in the ice atelier \u2014 a seamless loop seam.",
+    ),
+]
+
+
 def build_block(beats):
     # Replaces ONLY the `SUBJECT ACTION WITH TIMING:` header + its bullet beat
     # lines. Ends with a single trailing newline so the original blank line

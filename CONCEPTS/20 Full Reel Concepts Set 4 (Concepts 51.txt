@@ -5730,13 +5730,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: medium-full three-quarter hero in the ice atelier.
 
-CAMERA MOVEMENT: a single slow 8% push-in, otherwise locked-off and stable — one move, no transform yet.
-
 LENS: 50mm, f/2.5.
 
-SUBJECT ACTION WITH TIMING:
-- 0.0–3.0s — Aira holds the roller to her collarbone, the silk breathing, cold vapor curling low, and lifts her eyes to the lens with a cool composed smile.
-- 3.0–6.0s — she begins a slow graceful quarter-turn, a cool highlight travelling the silk. One composed beat, real physics.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Medium-full three-quarter hero in the ice atelier: a slow push-in is already gliding toward her as she holds the chilled roller to her collarbone, the silver-grey silk breathing and cold vapor curling low; she lifts her eyes to lens with a cool composed smile.
+- [00:02–00:04] The push continues as she begins a graceful quarter-turn, a cool highlight travelling the silk; gaze easing to lens, lashes soft.
+- [00:04–00:06] She settles mid-turn, weight rolling onto the front foot, a cool composed calm holding as a carved-ice block gleams behind.
 
 LIGHTING: soft cool daylight key, soft pale fill, cool silver rim; the daylight steady.
 
@@ -5744,9 +5743,9 @@ ENVIRONMENT: ice atelier, carved-ice blocks, sculpting plinth, cold vapor low, i
 
 AUDIO: diegetic-plus-design, no spoken word (silent reel). Ambient bed — a soft cool conservatory room-tone with a faint low vapor-hiss and a gentle settle, very low and steady. SFX — a soft frosted-handle tap as her fingers settle at 0.5s, a faint silk shift at 3.1s, a cool crystalline chime accent on the turn at 3.6s. Reaction — a soft breath at 2.6s. VO — none. The master track enters here soft and ambient (low and subtle, never full).
 
-DURATION: 5 seconds (0:00–0:05 of 30s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps, 180° shutter, gentle natural motion blur on the turn.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — a soft closed-lip smile (silent throughout).
 
@@ -5797,14 +5796,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: full-figure transform hero, slightly low angle.
 
-CAMERA MOVEMENT: a slow controlled arc following the ice carving up her body, smooth and motivated — one move, no whip.
-
 LENS: 50mm, f/2.5.
 
-SUBJECT ACTION WITH TIMING:
-- 0.0–1.5s — the first clear-ice planes form at the hem and invisible chisels begin to carve.
-- 1.5–4.0s — the ice sheaths up and the chisels carve it back facet by facet into the gown, Aira watching with an awed breath, chips and vapor lifting.
-- 4.0–6.0s — the last facet cuts and the ice gown settles, her recognizable face landing a cool luminous look. Only the crossing is impossible; everything else obeys real physics.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Full-figure from a slightly low angle: a slow controlled arc is already rising as the first clear-ice planes form at the hem and invisible chisels begin to carve; gaze tracking the carving, eyes brightening.
+- [00:02–00:04] The arc rides the carving up her body as the ice sheaths and the chisels cut it back facet by facet, chips and vapor lifting; an awed breath, brows lifting in wonder.
+- [00:04–00:06] The last facet cuts and the ice gown settles as the arc eases; a cool luminous look landing, eyes alight on the faceted ice.
 
 LIGHTING: soft cool daylight key with a crisp kick on the carving ice, pale fill, cool rim; bright-cool and steady.
 
@@ -5812,9 +5809,9 @@ ENVIRONMENT: ice atelier, carved-ice blocks, plinth, cold vapor, ice-motes, cool
 
 AUDIO: diegetic-plus-design, no spoken word (silent reel). Ambient bed — the cool atelier tone with a soft string rise under the crossing. SFX — a soft ice-form crackle 0.0–1.5s, a delicate sequence of clean crisp chisel-tick-and-shave notes as the facets carve 1.5–4.0s, a cool settle-resonance as the gown locks at 5.6s, faint vapor-hiss off the cuts. Reaction — a soft awed breath at 1.4s. VO — none. Master track lifts gently under the transform then eases (subtle, never full).
 
-DURATION: 6 seconds (0:05–0:11 of 30s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps, 180° shutter, natural motion blur on the carving chips and arc.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — lips part on the awed breath, no words (silent).
 
@@ -5863,14 +5860,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: beauty close, chest-up, product-at-face.
 
-CAMERA MOVEMENT: a slow 6% push-in to the face, locked otherwise.
-
 LENS: 85mm, f/2.5.
 
-SUBJECT ACTION WITH TIMING:
-- 0.0–2.4s — she lifts the chilled dual-roller from the collarbone and brings it to her cheekbone.
-- 2.4–4.8s — she glides it smoothly up the cheekbone and jaw, the skin lifting and brightening as a serene smile begins.
-- 4.8–6.0s — she eases the roller down a touch and opens her eyes with a cool refreshed lift. One precise beat, real physics.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Beauty close, chest-up at a three-quarter: a slow push toward her face is already gliding in as she lifts the chilled dual-roller from the collarbone and brings it to her cheekbone; eyes lowered to the roller.
+- [00:02–00:04] She glides it smoothly up the cheekbone and jaw, the skin lifting and brightening, the push settling; a serene smile beginning.
+- [00:04–00:06] She eases the roller down a touch and opens her eyes with a cool refreshed lift, the ice bodice glinting, a composed calm in her gaze.
 
 LIGHTING: soft cool daylight beauty key, pale fill, cool rim; a live specular travelling the roller and handle as she moves.
 
@@ -5878,9 +5873,9 @@ ENVIRONMENT: ice atelier, blurred carved-ice blocks, cool daylight, cold vapor l
 
 AUDIO: diegetic-plus-design, no spoken word (silent reel). Ambient bed — the cool atelier tone, low. SFX — a soft roller-from-collarbone lift at 0.7s, a faint smooth roller-glide-over-skin whisper at 2.6s, a cool airy shimmer as the eyes open at 3.4s. Reaction — a soft serene cool exhale at 3.8s. VO — none. Master track stays low and ambient (subtle, never full).
 
-DURATION: 5 seconds (0:11–0:16 of 30s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps, 180° shutter, gentle motion blur on the roller hand.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — a cool serene set (silent).
 
@@ -5933,14 +5928,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: bold beauty close, chest-up, commanding wordless direct address.
 
-CAMERA MOVEMENT: locked-off and stable, a barely-there 4% push — no movement that competes with the beat; let the look do the work.
-
 LENS: 85mm, f/2.5.
 
-SUBJECT ACTION WITH TIMING:
-- 0.0–1.5s — she settles, eyes locking the lens with a cool composed smile.
-- 1.5–4.2s — she presents the roller at her chest and holds a slow confident blink, a cold caustic flickering across the ice bodice, lips softly closed (no speech).
-- 4.2–6.0s — the smile lands and holds, eyes direct and bright. One clean wordless beat, real physics.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Bold beauty close, chest-up squared to lens: the camera is already settled on a barely-there push as her eyes lock the lens with a cool composed smile, the roller presented at her chest (silent — no words).
+- [00:02–00:04] She holds a slow confident blink as a cold caustic flickers across the ice bodice, lips softly closed, the look itself doing the work; brows lifting a hair in quiet command.
+- [00:04–00:06] The composed smile lands and holds, eyes direct and bright — a wordless expression reveal in place of any line.
 
 LIGHTING: soft cool daylight beauty key, pale fill, crisp cool rim; steady, no flicker; a live cold caustic travelling the ice as she breathes.
 
@@ -5948,9 +5941,9 @@ ENVIRONMENT: ice atelier, blurred carved-ice blocks behind, cool daylight, cold 
 
 AUDIO: diegetic-plus-design, no spoken word (silent reel). Ambient bed — the cool atelier tone, low. SFX — a faint cool air-tail, a soft roller touch at 0.6s, a delicate crystalline shimmer-accent at 1.8s on the blink. Reaction — a soft calm breath at 2.4s. VO — none (the beat is carried by the look, not a line). Master track sits low and steady under the beat (subtle, never full).
 
-DURATION: 4 seconds (0:16–0:20 of 30s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps, 180° shutter, gentle natural motion blur.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — lips stay softly closed; no words, no lip-flap.
 
@@ -6003,15 +5996,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: full-figure magical hero, slightly low angle.
 
-CAMERA MOVEMENT: a slow majestic push-in with a gentle rise ( + slight boom) tracking the burst — one smooth motivated move.
-
 LENS: 35mm, f/2.2.
 
-SUBJECT ACTION WITH TIMING:
-- 0.0–0.6s — a facet at her shoulder catches the low sun and throws a first bright cold spark.
-- 0.6–2.2s — the light races facet to facet across the gown and releases a swirling cloud of fine ice-sparks as she lifts her eyes into the swirl.
-- 2.2–4.2s — the sparks drift out, easing to a sustained halo of slowly falling ice-sparks, her radiant smile landing.
-- 4.2–6.0s — she holds, haloed and serene. Only the sparkle-bloom is impossible; all else real physics.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Full-figure magical hero from a slightly low angle: a slow majestic push-in with a gentle boom-rise is already lifting as a facet at her shoulder catches the low sun and throws a first bright cold spark; gaze drawn to the spark.
+- [00:02–00:04] The boom keeps rising as the light races facet to facet across the gown and releases a swirling cloud of fine ice-sparks; eyes lifting into the swirl, a radiant awe blooming.
+- [00:04–00:06] The sparks drift out, easing to a sustained halo of slowly falling ice-sparks as the move settles; her radiant smile landing, eyes serene and haloed.
 
 LIGHTING: the low cool sun lifted as a live key, cool rim, pale floor fill rising; controlled, no clipping.
 
@@ -6019,9 +6009,9 @@ ENVIRONMENT: ice atelier alive with cool light, carved-ice blocks glinting, swir
 
 AUDIO: diegetic-plus-design, no spoken word (silent reel). Ambient bed — the cool atelier tone blooming into a bright crystalline glass-bell-and-string swell cresting at the burst then settling. SFX — a soft facet sun-catch chime at the shoulder 0.2s, a gentle sparkling rush of fine ice-sparks tracking the swirling cloud 0.6–2.2s, soft sparkle settling 1.4–3.0s, a cool resonance under the settle, a faint vapor-hiss with the curl. Reaction — a soft awed breath at 1.9s. VO — none. Master track rises to its fullest-but-still-restrained moment under the burst then eases (subtle, never full).
 
-DURATION: 5 seconds (0:20–0:25 of 30s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps, 180° shutter, natural motion blur on the burst and swirling sparks.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — lips part on the awed breath and smile, no words (silent).
 
@@ -6074,14 +6064,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: medium-full three-quarter hero in the ice atelier — matched to Frame 1 for the loop.
 
-CAMERA MOVEMENT: a slow settle-back to the opening framing (gentle pull matching Frame 1's start position), locked otherwise — ending exactly where the reel began.
-
 LENS: 50mm, f/2.5.
 
-SUBJECT ACTION WITH TIMING:
-- 0.0–2.4s — the sparkle fades and the last ice-sparks drift down as she returns the roller to her collarbone.
-- 2.4–4.8s — her smile eases to the cool poise of the opening.
-- 4.8–6.0s — she lifts her eyes softly to the lens, landing precisely on the Frame 1 pose for a seamless loop. Real physics throughout.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Medium-full three-quarter hero matching Frame 1: a slow settle-back is already easing the framing toward the opening position as the sparkle fades and the last ice-sparks drift down; she returns the roller to her collarbone, gaze softening.
+- [00:02–00:04] The pull continues as her smile eases to the cool poise of the opening and the ice gown softens back toward the silver-grey silk's stillness; eyes calming.
+- [00:04–00:06] She lifts her eyes softly to the lens, landing precisely on the Frame 1 pose, weight settled in the ice atelier — a seamless loop seam.
 
 LIGHTING: the soft cool daylight key restored, pale fill, cool rim; steady, easing back to the opening level.
 
@@ -6089,9 +6077,9 @@ ENVIRONMENT: ice atelier restored to the opening tableau, carved-ice blocks, pli
 
 AUDIO: diegetic-plus-design, no spoken word (silent reel). Ambient bed — the cool atelier tone and faint vapor-hiss easing back down to the soft opening level, looping cleanly into Frame 1's bed. SFX — a cool resonance fading 0.0–2.4s, a soft frosted-handle tap at 5.3s matching the opening's 0.5s cue for the loop seam. Reaction — a soft calm breath at 2.9s. VO — none. Master track resolves and eases to the soft ambient level it began on for a clean loop (subtle, never full).
 
-DURATION: 5 seconds (0:25–0:30 of 30s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps, 180° shutter, gentle cinematic motion blur.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — a soft closed-lip smile, matched to the opening (silent).
 
