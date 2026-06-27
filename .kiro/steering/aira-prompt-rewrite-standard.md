@@ -574,6 +574,10 @@ CONTAIN each change inside one clip's middle, and make every frame join an inten
 - THIS RULE APPLIES TO TRANSFORMATION-TYPE CONCEPTS ONLY (season/weather/outfit/material/look
   A->B change). Non-transform concepts (GRWM beauty-hero, lifestyle, action with no look-change)
   do NOT need it.
+- PRECISE TRIGGER: apply it ONLY to a clip where something actually CHANGES mid-frame — the
+  OUTFIT changes, the ENVIRONMENT/WORLD changes, or an OBJECT changes (season/weather/material/
+  look A->B). Only that transform clip + the next image it hands to are governed by this rule;
+  ordinary frames with no mid-clip change are exempt.
 - Because the transform clip's SECOND HALF ([00:04-00:06]) is already in Look B, the VIDEO prompt's
   second-half beat must be written as an EXHAUSTIVE, FIELD-BY-FIELD 1:1 SPEC of the NEXT frame's
   IMAGE prompt (the start keyframe of the following clip): mirror EVERY look field — garment
