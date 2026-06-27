@@ -389,3 +389,106 @@ NEXT IN QUEUE (markdown SUBJECT ACTION WITH TIMING — use md_rebuild.py): Heavy
 Build (140), Concepts 91-110 (26), NEW Reel 131-150 (134), Time-Freeze (verify the 8 "oner"
 frames first), Concept 100/170. Then non-standard: Magical Action · Master Set (advanced already;
 only variable durations differ) and aira_set4 / aira_set5 (Format B).
+
+
+====================================================================
+## K. NON-BEAUTY REEL ENHANCEMENT — BELIEVABILITY, REALISM & THEME-FIDELITY
+====================================================================
+(Decided with the user. This is the agreed "something else" to add to the NON-beauty /
+NON-GRWM reels. It is ADDITIVE and sits ON TOP of everything above — sections A-J still
+apply: do the section-B video rebuild where the file still uses `SUBJECT ACTION WITH TIMING`,
+preserve all heavy detail [OBJECT ACTION / PHYSICS / LIGHTING / ENVIRONMENT / AUDIO / NEGATIVE
+/ identity lock / etc.], honour Controlled Vibrancy [section I], 6s real-time / no slow-mo,
+commit + push per concept/batch, and update the section-J audit + progress as you go. Beauty
+Ad + GRWM/beauty-hero reels stay on the existing treatment and are OUT of scope here.)
+
+### K.0 — CORE PRINCIPLE (applies to every non-beauty concept)
+- Make EVERY element believable and describe each element CLEARLY and specifically — exact
+  material, weight, surface, behaviour, and how it interacts with light and motion. No vague
+  "magic happens"; name the physics.
+- The ONE impossible / magical beat per concept may be surreal and DREAMY, but it must be
+  GROUNDED in real physics and clean, premium execution. Explicitly forbid: cheap sparkles,
+  fake/unreal cartoon VFX, floaty unmotivated effects, plasticky CGI, weightless nonsense.
+  Real materials, real weight, real light, real momentum — even through the one magic beat.
+- Read each concept's THEME and make the visuals serve that exact purpose precisely.
+- GREEN LIGHT (granted by user): you MAY expand these concept files with MORE descriptive
+  detail (materials, micro-physics, scale, placement, lighting, motion) wherever it increases
+  believability and theme-fidelity. Additive only — never strip real detail.
+- Structural vehicles available to express the above (from the earlier module idea):
+  * a `WORLD / OBJECT ACTION (timecoded)` track to describe each world/material element
+    clearly on its own clock (this is the main tool for "describe each element clearly");
+  * a `TRANSFORM KEYFRAME (START-lock -> CROSSING -> END-lock)` continuity block for clean,
+    identity-safe morphs.
+
+### K.1 — CONCEPTS 91-110 (three-look liquid-material couture, SILENT)
+- Make all elements BELIEVABLE and describe each clearly: the exact material behaviour —
+  mercury pour viscosity & meniscus, chrome peel, ink-bloom diffusion in water, watercolour
+  bleed, holographic/prism refraction, sunset-gradient sky-wash, molten blown-glass flow.
+  Real fluid + optical physics for each.
+- Keep everything ELSE surreal and make it feel DREAMY at the same time — believable materials
+  behaving in a dream-like, elegant way (grounded substance, dreamlike motion/mood).
+- [FLAG — CONFIRM WITH USER] User said: "Keep the 8 to 10 concept as it is but make sure it
+  looks awesome." Ambiguous against the 91-110 numbering — confirm whether this means concepts
+  98-100, 108-110, or "leave ~8-10 of them structurally unchanged." Until confirmed: apply the
+  believability lens to all 20 and do NOT structurally alter the flagged concept(s) beyond
+  polish that makes them look awesome.
+
+### K.2 — NEW REEL 131-150 (surreal fantasy worlds)
+- Make SCALE believable — correct relative sizing of subject vs. world (nebula glassblower,
+  gravity-well tea house, deep-sea cathedral, sky-market, planetarium, dune sea, prism-rain
+  subway, etc.). Consistent, real perspective.
+- Everything PRECISELY PLACED — grounded in coherent 3D space, no floating/mis-scaled/
+  arbitrarily positioned elements. Dreamy, surreal worlds, but with believable scale and
+  exact placement so the eye trusts the space.
+
+### K.3 — aira_set4 (1-20) & aira_set5 (21-40) (travel / scenic / cultural; Format B plain text)
+- Keep as MUCH REALISM as possible — real locations, real natural light, real fabric / water /
+  sand / foliage physics. Keep any impossible/transform beat minimal and grounded; lean
+  documentary-real over fantastical. (Format B: headers "---- FRAME k · SIZE · ANGLE ----",
+  audio woven inline; adapt the rebuild to that structure.)
+
+### K.4 — MAGICAL ACTION · MASTER SET (1-20) (vehicle / fight / stunt)
+- Top-notch, MIND-BLOWING action; every sequence action-packed.
+- Subject ALWAYS IN MOTION and action-ready in EVERY frame of EVERY concept — never a static
+  hold; she is mid-action / coiled to move at all times.
+- Car chases & CRASHES must be 100% BELIEVABLE: real vehicle dynamics — weight transfer,
+  suspension travel, tyre slip/smoke, body roll, real impact deformation, glass/debris physics,
+  momentum and braking. NO cheap sparkles, no cartoon/unreal action.
+- Planes, cars, bikes, boats and all props must look ULTRA-REAL; their movement, speed,
+  momentum and damage must read fully realistic. The one magic move stays but is executed with
+  grounded physics.
+- NOTE: this file is already structurally advanced (timecoded action + `CAMERA MOVEMENT: one
+  move only` + 100% real-time, no slow-mo). Enhancement here = realism polish + ensure the
+  believability language is in every prompt. (Open: whether to normalise its variable
+  per-frame durations to the 6s standard — confirm with user.)
+
+### K.5 — TIME-FREEZE REEL SET (1-19)
+- Everything must BEHAVE EXACTLY per the concept's theme.
+- In a TIME-FREEZE beat: suspended elements are truly STILL in mid-air — water droplets,
+  splashes, debris, sparks, fabric, hair, petals convincingly LOCKED as if time stopped, with
+  correct mid-motion shape and real surface tension (water looks genuinely frozen mid-splash,
+  not blobby/fake). If PEOPLE are frozen, freeze them realistically (held mid-gesture, true
+  micro-stillness), with only Aira (or the intended subject) moving where the concept calls
+  for it. The stillness must read as real frozen time, not a cheap pause.
+- Part 2 (no-freeze signature tricks — RPM, Rewind, Echo, Vertigo, One Take, Freefall, Night
+  Trails, Still Point, Metamorph, Locked On, Two Worlds): each trick reads as its real
+  phenomenon, grounded and premium.
+- KEEP the 8 "oner" cumulative-timing single-take frames AS-IS (per section E/G).
+
+### K.6 — SINGLES & MIXED FILES
+- Concept 170 (Phoenix Crash Rebirth): action -> apply K.4 realism (believable crash dynamics).
+- Concept 100 (The Unboxing): product -> believable materials/lighting, premium real feel.
+- Master-Depth Build: 08-10 (Monochrome Riot / Liquid Metal / Paper & Petals) take the
+  K.0/K.1 believability lens; 11-14 are GRWM/beauty and 15-20 lifestyle -> keep the existing
+  treatment (out of K scope unless user says otherwise).
+
+### K.7 — RESUME PROMPT (paste into the fresh session)
+"Continue the Aira rebuild on branch aira-prompts-enhanced. Read
+.kiro/steering/aira-prompt-rewrite-standard.md FULLY (all sections A-K). Beauty Ad, Cinematic
+New Set, Set 4, Set 5 (+continuations), More Set 3 are done; the two Magical Action files are
+already compliant; Master-Depth Build 01-07 are done. Now apply the section-B advanced video
+rebuild PLUS the section-K Believability/Realism & Theme-Fidelity layer to the remaining
+non-beauty files — 91-110, 131-150, aira_set4, aira_set5, Magical Action Master Set,
+Time-Freeze, Concept 170/100, and Master-Depth 08-10. Keep every detail heavily; only change
+what's necessary; controlled vibrancy; 6s real-time, no slow-mo; commit + push per concept;
+tick the section-J audit. First, confirm the K.1 '8-10 concept' flag with the user."
