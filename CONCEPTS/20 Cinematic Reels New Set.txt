@@ -1136,14 +1136,16 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE & ANGLE: front-on medium-wide, subject fills ~45%.
 
-CAMERA MOVEMENT (CHOREOGRAPHY): a slow 6% push toward the doorway with a faint handheld life, breathing with the rain.
-
 LENS: 35mm, f/2.0.
 
-SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.2s — she scans the rainy street from the dry threshold.
-- 2.2–4.3s — she shifts weight forward, lifting a hand toward the glasses.
-- 4.3–6.0s — she steps her lead boot toward the rain, intent building.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Front-on medium-wide under the glowing neon awning: she is already scanning the rain-slicked street from the dry threshold as a slow push drifts in with a faint handheld life, magenta-and-cyan signage mirrored across her cobalt vinyl trench; eyes tracing the falling rain.
+- [00:02–00:04] The push breathes closer as she shifts her weight forward and lifts a hand toward the tinted shield glasses, neon reflections racing along the vinyl; a cool, focused calm settling in her gaze.
+- [00:04–00:06] She steps her lead boot toward the rain line, intent building, eyes narrowing a touch with electric anticipation as the umbrella hand readies.
+
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
+
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
 FLUIDITY & WEIGHT NOTES: the weight-shift rolls smoothly from back to front foot; the head leads the gaze; shoulders stay loose and breathing — alert, never rigid.
 
@@ -1210,14 +1212,16 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE & ANGLE: low macro, detail fills ~70%.
 
-CAMERA MOVEMENT (CHOREOGRAPHY): a fast-but-smooth 8% push tracking the boot down into the puddle, then easing as the splash crowns.
-
 LENS: 100mm macro, f/2.8.
 
-SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.0s — the boot descends toward the puddle.
-- 2.0–4.0s — impact, splash-crown rising and neon reflections shattering.
-- 4.0–6.0s — droplets arc and fall, ripples racing out.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Low macro on the cobalt boot: a fast-but-smooth push is already tracking the boot down toward a neon puddle, pink-and-cyan reflections trembling on the water's skin.
+- [00:02–00:04] Impact — the boot strikes and the splash crowns upward, neon reflections shattering into flying beads as the push eases.
+- [00:04–00:06] Droplets arc and fall on real ballistic paths, ripple rings racing outward and the shattered reflection beginning to knit back together — foreshadowing the freeze.
+
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
+
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
 FLUIDITY & WEIGHT NOTES: the strike carries true downward weight then rebound; the splash obeys real fluid dynamics; no stiff freeze, a living impact.
 
@@ -1284,14 +1288,16 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE & ANGLE: three-quarter back over-shoulder medium, subject fills ~50%.
 
-CAMERA MOVEMENT (CHOREOGRAPHY): a smooth tracking follow behind her with a gentle arc to catch the glance, gimbal-stable.
-
 LENS: 50mm, f/1.8.
 
-SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.2s — she walks away, umbrella up, rain sheeting.
-- 2.2–4.2s — she rotates her torso and glances back to lens.
-- 4.2–6.0s — she faces forward again, stride continuing.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Three-quarter back over-shoulder medium: she is already walking away into the neon street, umbrella up and rain sheeting off it, as the camera tracks behind her in a gentle arc.
+- [00:02–00:04] The arc catches her as she rotates her torso and glances back to lens, neon catchlights flaring in her eyes, a cool half-smile crossing her face.
+- [00:04–00:06] She faces forward again and her stride continues, energy coiling in the shoulders for the coming spin, gaze front.
+
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
+
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
 FLUIDITY & WEIGHT NOTES: the glance is a fluid spinal rotation, head leading, returning naturally; the walk never pauses; arms and hips counter-rotate like a real confident stride.
 
@@ -1358,14 +1364,16 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE & ANGLE: front-on full, subject fills ~55%, centred.
 
-CAMERA MOVEMENT (CHOREOGRAPHY): a smooth 180° orbit around her that SLOWS to near-stop as the rain freezes, then resumes — a bullet-time arc.
-
 LENS: 35mm, f/2.5.
 
-SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.7s — she launches into the spin, coat and ponytail flaring.
-- 1.7–3.7s — at the apex the rain freezes into a suspended glittering sphere as the orbit slows.
-- 3.7–6.0s — time releases, droplets fall, she completes the turn.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Front-on full, centred: she launches into the spin mid-turn, trench and ponytail flaring, as the camera begins a smooth 180° orbit around her; gaze sweeping with the turn.
+- [00:02–00:04] At the spin apex the falling rain freezes into a glittering suspended ripple-sphere around her while the orbit keeps gliding through the held droplets; eyes widening in cool wonder, lips parting on a caught breath.
+- [00:04–00:06] Time releases, the droplets drop and the orbit carries on as she completes the turn, a confident half-smile landing, gaze settling forward.
+
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
+
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
 FLUIDITY & WEIGHT NOTES: the spin initiates from the core with the umbrella as counterweight; the freeze is the apex of a continuous motion, not a dead stop; the release flows seamlessly back into the walk — supremely fluid, never robotic.
 
@@ -1432,14 +1440,16 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE & ANGLE: profile medium-wide, subject fills ~50%.
 
-CAMERA MOVEMENT (CHOREOGRAPHY): a smooth lateral dolly tracking alongside her stride, matched pace, gimbal-stable.
-
 LENS: 50mm, f/2.0.
 
-SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.2s — she walks on in profile, umbrella trailing water.
-- 2.2–4.5s — a steady confident stride through the neon.
-- 4.5–6.0s — she begins to slow, preparing to turn back.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Profile medium-wide in clean side silhouette: she is already walking on through the rain as a lateral dolly tracks alongside at matched pace, the umbrella trailing a sheet of water; gaze level down the street.
+- [00:02–00:04] The dolly holds her stride steady and confident through the neon glow, reflections sliding along the vinyl; eyes calm, a faint satisfied set to the mouth.
+- [00:04–00:06] She begins to slow her pace, weight easing back, gaze drifting toward the awning behind to seed the turn.
+
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
+
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
 FLUIDITY & WEIGHT NOTES: the profile walk is pure flow — hips leading, arms counter-swinging, the trailing umbrella adding grace; deceleration eases into the turn.
 
@@ -1506,14 +1516,16 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE & ANGLE: front-on medium-wide matching Frame 1, subject ~45%.
 
-CAMERA MOVEMENT (CHOREOGRAPHY): a slow pull-back to the doorway reversing Frame 1's push, so the end pose meets the opening pose.
-
 LENS: 35mm, f/2.0.
 
-SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.3s — she turns back toward the awning.
-- 2.3–4.7s — the umbrella closes and the glasses slide up.
-- 4.7–6.0s — she settles into the Frame 1 threshold stance.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Front-on medium-wide matching Frame 1: a slow pull-back toward the awning is already reversing the opening push as she turns back toward the glowing doorway; gaze lifting to the neon light.
+- [00:02–00:04] The pull-back continues as the translucent umbrella closes and the tinted glasses slide up, rain sheeting off the awning edge; a cool, knowing calm returning to her face.
+- [00:04–00:06] She settles into the exact threshold stance of Frame 1, weight on the doorway-side foot, eyes tracing the rain again — a seamless loop seam.
+
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
+
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
 FLUIDITY & WEIGHT NOTES: the turn-back is a single fluid hip-led rotation; the umbrella close flows from a relaxed wrist; the reset reads as natural continuation.
 

@@ -187,6 +187,73 @@ BEATS[2] = [
 ]
 
 
+BEATS[3] = [
+    # Frame 1 - front-on medium-wide, neon awning threshold
+    (
+        "Front-on medium-wide under the glowing neon awning: she is already scanning the "
+        "rain-slicked street from the dry threshold as a slow push drifts in with a faint "
+        "handheld life, magenta-and-cyan signage mirrored across her cobalt vinyl trench; "
+        "eyes tracing the falling rain.",
+        "The push breathes closer as she shifts her weight forward and lifts a hand toward "
+        "the tinted shield glasses, neon reflections racing along the vinyl; a cool, focused "
+        "calm settling in her gaze.",
+        "She steps her lead boot toward the rain line, intent building, eyes narrowing a "
+        "touch with electric anticipation as the umbrella hand readies.",
+    ),
+    # Frame 2 - low macro on boot striking puddle (no face)
+    (
+        "Low macro on the cobalt boot: a fast-but-smooth push is already tracking the boot "
+        "down toward a neon puddle, pink-and-cyan reflections trembling on the water's skin.",
+        "Impact \u2014 the boot strikes and the splash crowns upward, neon reflections "
+        "shattering into flying beads as the push eases.",
+        "Droplets arc and fall on real ballistic paths, ripple rings racing outward and the "
+        "shattered reflection beginning to knit back together \u2014 foreshadowing the freeze.",
+    ),
+    # Frame 3 - 3/4 back over-shoulder medium, walk + glance back
+    (
+        "Three-quarter back over-shoulder medium: she is already walking away into the neon "
+        "street, umbrella up and rain sheeting off it, as the camera tracks behind her in a "
+        "gentle arc.",
+        "The arc catches her as she rotates her torso and glances back to lens, neon "
+        "catchlights flaring in her eyes, a cool half-smile crossing her face.",
+        "She faces forward again and her stride continues, energy coiling in the shoulders "
+        "for the coming spin, gaze front.",
+    ),
+    # Frame 4 - front-on full, rain-freeze transform (bullet-time orbit)
+    (
+        "Front-on full, centred: she launches into the spin mid-turn, trench and ponytail "
+        "flaring, as the camera begins a smooth 180\u00b0 orbit around her; gaze sweeping "
+        "with the turn.",
+        "At the spin apex the falling rain freezes into a glittering suspended ripple-sphere "
+        "around her while the orbit keeps gliding through the held droplets; eyes widening in "
+        "cool wonder, lips parting on a caught breath.",
+        "Time releases, the droplets drop and the orbit carries on as she completes the turn, "
+        "a confident half-smile landing, gaze settling forward.",
+    ),
+    # Frame 5 - profile medium-wide, walk on
+    (
+        "Profile medium-wide in clean side silhouette: she is already walking on through the "
+        "rain as a lateral dolly tracks alongside at matched pace, the umbrella trailing a "
+        "sheet of water; gaze level down the street.",
+        "The dolly holds her stride steady and confident through the neon glow, reflections "
+        "sliding along the vinyl; eyes calm, a faint satisfied set to the mouth.",
+        "She begins to slow her pace, weight easing back, gaze drifting toward the awning "
+        "behind to seed the turn.",
+    ),
+    # Frame 6 - front-on medium-wide loop close
+    (
+        "Front-on medium-wide matching Frame 1: a slow pull-back toward the awning is already "
+        "reversing the opening push as she turns back toward the glowing doorway; gaze "
+        "lifting to the neon light.",
+        "The pull-back continues as the translucent umbrella closes and the tinted glasses "
+        "slide up, rain sheeting off the awning edge; a cool, knowing calm returning to her "
+        "face.",
+        "She settles into the exact threshold stance of Frame 1, weight on the doorway-side "
+        "foot, eyes tracing the rain again \u2014 a seamless loop seam.",
+    ),
+]
+
+
 def build_block(beats):
     # Replaces ONLY the `SUBJECT ACTION w/ BEAT-TIMING:` header + its bullet
     # beat lines. Whatever follows (a blank line then SPOKEN LINE or
