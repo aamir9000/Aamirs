@@ -588,6 +588,188 @@ BEATS[31] = [
 ]
 
 
+BEATS[32] = [
+    (
+        "Medium close chest-up in the inky deep-sea dark: a slow push-in is already gliding "
+        "toward her as she tilts the glowing bottle a few degrees into the soft aqua key, "
+        "speculars sliding along the glass and the luminous serum drifting inside; gaze "
+        "lowered to the bottle, plankton motes hanging in the cool dark.",
+        "The push continues as she lifts her serene gaze to lens on a slow deep-water inhale "
+        "and a mysterious quarter-smile blooms, a few strands drifting weightless.",
+        "She holds, suspended and calm, eyes catching the aqua glow, a loose strand drifting "
+        "across the dark (silent).",
+    ),
+    (
+        "Medium close: the slow push continues with a faint tilt-up already following her "
+        "hand as she lifts the dropper near her cheekbone and releases a single glowing aqua "
+        "drop; gaze tracing the drop down through the water.",
+        "The first bioluminescent plankton spark alight in the dark water around her, her "
+        "eyes softening with mysterious wonder.",
+        "The drop meets her skin with a luminous bloom, more strands drifting, lashes "
+        "lowering in quiet awe.",
+    ),
+    (
+        "Medium chest-up: a slow weightless arc is already drifting around her as she lowers "
+        "the dropper a touch and the bioluminescent plankton gather; gaze following the "
+        "gathering glow.",
+        "The arc eases round as the suspended plankton pulse slow with glowing breaths, her "
+        "eyes softening with wonder.",
+        "The gathering tightens and brightens, cueing the bloom, her gaze lifting a degree in "
+        "expectation.",
+    ),
+    (
+        "Energized medium-wide: the push is already easing into a smooth gentle orbit as the "
+        "bioluminescent plankton bloom alight outward in weightless real-time underwater "
+        "arcs and she opens her arms; gaze lifting into the bloom.",
+        "The orbit rides the hero beat as a soft aqua glow sweeps across her and the gown and "
+        "waves drift to their ethereal float (face clear, framed by the bloom); eyes widening "
+        "in mysterious awe.",
+        "The bloom settles and the glow resolves as the orbit eases; a serene wonder landing, "
+        "eyes alight with aqua light.",
+    ),
+    (
+        "Medium close, fully suspended: a slow push is already gliding in as she drifts her "
+        "hands open and weightless, the glow settling and plankton pulsing slow; gaze easing "
+        "to lens.",
+        "She holds a serene mysterious wonder-smile to lens on a slow underwater breath, eyes "
+        "luminous (silent \u2014 no words).",
+        "She holds the radiant suspended look, plankton drifting around her, the smile easing "
+        "into calm wonder.",
+    ),
+    (
+        "Medium close matching Frame 1: a slow push is already resolving toward the exact "
+        "opening framing as she re-cradles the glowing bottle and tilts it into the aqua key, "
+        "speculars sliding along the glass; gaze lowering to the bottle.",
+        "The push settles as she eases her serene gaze back to lens on a slow underwater "
+        "breath with the composed quarter-smile, the composition resolving to the opening; "
+        "eyes calming.",
+        "She lands precisely on the Frame 1 pose and gaze, suspended in the dark water \u2014 "
+        "a seamless loop seam (silent).",
+    ),
+]
+
+BEATS[33] = [
+    (
+        "Medium close chest-up in the bright blossom grove: a slow push-in is already gliding "
+        "toward her as she tilts the bottle a few degrees into the morning sun, speculars "
+        "sliding along the glass and the blush serum settling; gaze lowered to the bottle, a "
+        "petal drifting past.",
+        "The push continues as she lifts her bright gaze to lens on a soft inhale and a "
+        "joyful quarter-smile blooms, dappled sun warming her face.",
+        "She holds, fresh and happy, eyes sparkling, a petal drifting across the soft pink "
+        "bokeh.",
+    ),
+    (
+        "Medium close: the slow push continues with a faint tilt-up already following her "
+        "hand as she lifts the dropper near her cheekbone and releases a single soft blush "
+        "drop; gaze tracing the drop.",
+        "The first blossom buds swell on the branches around her, her eyes brightening with "
+        "anticipation.",
+        "The drop meets her skin with a fresh dewy bloom, a petal drifting, a happy breath "
+        "held.",
+    ),
+    (
+        "Medium chest-up: a slow arc is already drifting around her as she lowers the dropper "
+        "a touch and the blossom buds swell and gather; gaze following the budding branches.",
+        "The arc eases round as the first petals unfurl, her eyes brightening with joy.",
+        "The gathering tightens and brightens, cueing the bloom, her gaze lifting in "
+        "delight.",
+    ),
+    (
+        "Energized medium-wide: the push is already easing into a smooth gentle orbit as the "
+        "cherry blossoms burst into full bloom in fast-forward and she opens her arms; gaze "
+        "lifting into the bloom.",
+        "The orbit rides the hero beat as a petal-shower sweeps across her and the dress and "
+        "waves catch drifting petals (face clear, framed by the bloom); eyes widening in "
+        "joyful awe.",
+        "The bloom settles and the blossoms resolve as the orbit eases; a radiant fresh smile "
+        "landing, petals drifting.",
+    ),
+    (
+        "Medium close: a slow push is already gliding in as she eases her hands open and the "
+        "bloom settles, the last petals drifting; gaze bright to lens.",
+        "She delivers \u201cspring starts with me.\u201d to lens with a bright joyful smile, "
+        "eyes warm and direct.",
+        "She holds the radiant fresh look as one final petal settles, the smile easing into "
+        "happy warmth.",
+    ),
+    (
+        "Medium close matching Frame 1: a slow push is already resolving toward the exact "
+        "opening framing as she re-cradles the bottle and tilts it into the morning sun, "
+        "speculars sliding along the glass; gaze lowering to the bottle.",
+        "The push settles as she eases her bright gaze back to lens on a soft breath with the "
+        "composed quarter-smile, the grove resolving to the opening; eyes calming.",
+        "She lands precisely on the Frame 1 pose and gaze, a petal drifting past \u2014 a "
+        "seamless loop seam.",
+    ),
+]
+
+BEATS[34] = [
+    (
+        "Medium close chest-up in the cosmic dark: a slow push-in is already gliding toward "
+        "her as she tilts the glowing bottle a few degrees into the soft silver-violet key, "
+        "speculars sliding along the glass and the star-flecked elixir drifting; gaze lowered "
+        "to the bottle, a star-mote drifting past.",
+        "The push continues as she lifts her serene gaze to lens on a slow inhale and a "
+        "mystic quarter-smile blooms, nebula haze drifting behind.",
+        "She holds, serene and cosmic, eyes catching the silver-violet light, a strand "
+        "drifting.",
+    ),
+    (
+        "Medium close: the slow push continues with a faint tilt-up already following her "
+        "hand as she lifts the dropper near her cheekbone and releases a single glowing "
+        "star-flecked drop; gaze tracing the drop.",
+        "The first glowing stars spark alight in the dark around her, her eyes softening with "
+        "mystic wonder.",
+        "The drop meets her skin with a luminous bloom, a strand drifting, lashes lowering in "
+        "awe.",
+    ),
+    (
+        "Medium chest-up: a slow arc is already drifting around her as she lowers the dropper "
+        "a touch and the glowing stars gather; gaze following the gathering constellation.",
+        "The arc eases round as the suspended stars pulse slow and the first silver "
+        "light-lines reach between them, her eyes softening with wonder.",
+        "The gathering tightens and brightens, cueing the line-draw, her gaze lifting in "
+        "expectation.",
+    ),
+    (
+        "Energized medium-wide: the push is already easing into a smooth gentle orbit as the "
+        "silver light-lines draw bright between the stars and she opens her arms; gaze "
+        "tracing the drawing lines.",
+        "The orbit rides the hero beat as a sweeping silver glow races along the "
+        "constellation and the gown and strands catch travelling light (face clear, framed by "
+        "the draw); eyes widening in mystic awe.",
+        "The draw settles and the constellation resolves as the orbit eases; a radiant cosmic "
+        "look landing, eyes alight.",
+    ),
+    (
+        "Medium close: a slow push is already gliding in as she eases her hands open and the "
+        "constellation settles, light-lines glowing steady; gaze serene to lens.",
+        "She delivers \u201cwritten in the stars.\u201d to lens with a serene knowing mystic "
+        "smile, eyes warm and direct.",
+        "She holds the radiant cosmic look, the constellation pulsing soft, the smile easing "
+        "into calm.",
+    ),
+    (
+        "Medium close: a slow push is already gliding in as she settles her hands and cradles "
+        "the glowing bottle softly near her collarbone; gaze easing to lens.",
+        "The push holds as she settles a serene mystic smile to lens on a slow breath, a "
+        "composed beat with no words; eyes calm.",
+        "She holds the composed cosmic look, the constellation glowing soft behind, eyes "
+        "luminous.",
+    ),
+    (
+        "Medium close matching Frame 1: a slow push is already resolving toward the exact "
+        "opening framing as she re-cradles the glowing bottle and tilts it into the "
+        "silver-violet key, speculars sliding along the glass; gaze lowering to the bottle.",
+        "The push settles as she eases her serene gaze back to lens on a slow breath with the "
+        "composed quarter-smile, the starfield resolving to the opening; eyes calming.",
+        "She lands precisely on the Frame 1 pose and gaze, a star-mote drifting past \u2014 a "
+        "seamless loop seam.",
+    ),
+]
+
+
 def build_block(beats):
     return (
         BREAKDOWN_HEADER + "\n"
