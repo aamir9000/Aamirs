@@ -577,6 +577,72 @@ BEATS[58] = [
 ]
 
 
+BEATS[59] = [
+    # F1 - medium-full three-quarter hero among marble columns (push-in)
+    (
+        "Medium-full three-quarter hero among the white marble columns: a slow push-in is "
+        "already gliding toward her as she holds the compact to her collarbone, the oatmeal "
+        "linen breathing and marble dust drifting through the daylight beam; she lifts her "
+        "eyes to lens with a calm sculptural smile.",
+        "The push continues as she begins a graceful quarter-turn, a soft matte highlight "
+        "travelling the linen; gaze easing to lens, lashes soft.",
+        "She settles mid-turn, weight rolling onto the front foot, a serene sculptural calm "
+        "holding as a column gleams behind.",
+    ),
+    # F2 - full-figure transform, slightly low angle (arc following the marble setting up)
+    (
+        "Full-figure from a slightly low angle: a slow controlled arc is already rising as "
+        "the first veil of liquid marble washes up the hem and begins to set; gaze tracking "
+        "the climbing marble, eyes brightening.",
+        "The arc rides the setting up her body as the marble wraps her form and hardens "
+        "along carved folds, fine grey veins drawing through it; an awed breath, brows "
+        "lifting in wonder.",
+        "The last folds set and the sculpted gown settles as the arc eases; a calm luminous "
+        "look landing, eyes alight on the carved drapery.",
+    ),
+    # F3 - beauty close, product-at-face / highlighter (6% push to face)
+    (
+        "Beauty close, chest-up at a three-quarter: a slow push toward her face is already "
+        "gliding in as she loads the fine brush from the open marble compact, the "
+        "pearl-champagne powder catching daylight; eyes lowered to the brush.",
+        "She sweeps it along the high of her cheekbone and a soft dewy pearl sheen blooms, "
+        "the push settling; a calm smile beginning, gaze warming.",
+        "She lowers the brush a touch and lifts her eyes, the veined marble bodice glinting, "
+        "a serene calm in her gaze.",
+    ),
+    # F4 - beauty close, direct address (SPOKEN)
+    (
+        "Beauty close, chest-up squared to lens: the camera is already settled on a "
+        "barely-there push as her eyes find the lens with a serene knowing smile, the "
+        "compact presented at her chest.",
+        "She delivers \u201ccarved to last.\u201d with natural lip-sync and a gentle brow "
+        "lift, eyes bright and direct, the marble gallery soft behind.",
+        "The smile lands and holds with a calm blink, gaze staying eye-to-eye.",
+    ),
+    # F5 - full-figure magical hero, living-warmth flush bloom (majestic push + boom-rise)
+    (
+        "Full-figure magical hero from a slightly low angle: a slow majestic push-in with a "
+        "gentle boom-rise is already lifting as a warm rose flush kindles at her heart and "
+        "the marble softens to living warmth; gaze drawn to the kindling flush.",
+        "The boom keeps rising as the flush sweeps through the gown and across her skin, "
+        "fine marble-dust motes and soft rose light lifting as the stone warms to living "
+        "blush; eyes lifting into the light, a radiant awe blooming.",
+        "The motes drift out, easing to a sustained living warmth as the move settles; her "
+        "radiant smile landing, eyes serene and haloed.",
+    ),
+    # F6 - loop close, matched to F1 (settle-back)
+    (
+        "Medium-full three-quarter hero matching Frame 1: a slow settle-back is already "
+        "easing the framing toward the opening position as the rose warmth fades and the "
+        "last motes drift down; she returns the compact to her collarbone, gaze softening.",
+        "The pull continues as her smile eases to the calm poise of the opening and the "
+        "sculpted marble softens back toward the oatmeal linen's stillness; eyes calming.",
+        "She lifts her eyes softly to the lens, landing precisely on the Frame 1 pose, "
+        "weight settled among the columns \u2014 a seamless loop seam.",
+    ),
+]
+
+
 def build_block(beats):
     # Replaces ONLY the `SUBJECT ACTION WITH TIMING:` header + its bullet beat
     # lines. Ends with a single trailing newline so the original blank line

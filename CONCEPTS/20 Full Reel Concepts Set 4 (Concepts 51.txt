@@ -3560,13 +3560,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: medium-full three-quarter hero among the marble columns.
 
-CAMERA MOVEMENT: a single slow 8% push-in, otherwise locked-off and stable — one move, no transform yet.
-
 LENS: 50mm, f/2.5.
 
-SUBJECT ACTION WITH TIMING:
-- 0.0–3.0s — Aira holds the compact to her collarbone, the linen breathing, marble dust drifting through the daylight beam, and lifts her eyes to the lens with a calm sculptural smile.
-- 3.0–6.0s — she begins a slow graceful quarter-turn, a soft matte highlight travelling the linen. One serene beat, real physics.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Medium-full three-quarter hero among the white marble columns: a slow push-in is already gliding toward her as she holds the compact to her collarbone, the oatmeal linen breathing and marble dust drifting through the daylight beam; she lifts her eyes to lens with a calm sculptural smile.
+- [00:02–00:04] The push continues as she begins a graceful quarter-turn, a soft matte highlight travelling the linen; gaze easing to lens, lashes soft.
+- [00:04–00:06] She settles mid-turn, weight rolling onto the front foot, a serene sculptural calm holding as a column gleams behind.
 
 LIGHTING: soft clean daylight key, soft white fill, daylight rim; the window light steady.
 
@@ -3574,9 +3573,9 @@ ENVIRONMENT: sunlit sculptor's atelier, white marble columns, drifting marble du
 
 AUDIO: diegetic-plus-design, no spoken word. Ambient bed — a low airy atelier room-tone with a faint distant chisel-tap, very low and steady. SFX — a soft compact-lid tap as her fingers settle at 0.5s, a faint linen shift at 3.1s, a soft airy chime accent on the turn at 3.6s. Reaction — a soft breath at 2.6s. VO — none. The master track enters here soft and ambient (low and subtle, never full).
 
-DURATION: 5 seconds (0:00–0:05 of 30s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps, 180° shutter, gentle natural motion blur on the turn.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — a calm closed-lip smile.
 
@@ -3627,14 +3626,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: full-figure transform hero, slightly low angle.
 
-CAMERA MOVEMENT: a slow controlled arc following the marble setting up her body, smooth and motivated — one move, no whip.
-
 LENS: 50mm, f/2.5.
 
-SUBJECT ACTION WITH TIMING:
-- 0.0–1.5s — the first veil of liquid marble washes up the hem and begins to set.
-- 1.5–4.0s — the marble climbs and wraps her form, hardening along carved folds as fine grey veins draw through it, Aira watching with an awed breath.
-- 4.0–6.0s — the last folds set and the sculpted gown settles, her recognizable face landing a calm luminous look. Only the crossing is impossible; everything else obeys real physics.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Full-figure from a slightly low angle: a slow controlled arc is already rising as the first veil of liquid marble washes up the hem and begins to set; gaze tracking the climbing marble, eyes brightening.
+- [00:02–00:04] The arc rides the setting up her body as the marble wraps her form and hardens along carved folds, fine grey veins drawing through it; an awed breath, brows lifting in wonder.
+- [00:04–00:06] The last folds set and the sculpted gown settles as the arc eases; a calm luminous look landing, eyes alight on the carved drapery.
 
 LIGHTING: soft daylight key with a cool kick on the setting marble, white fill, daylight rim; bright and steady.
 
@@ -3642,9 +3639,9 @@ ENVIRONMENT: sunlit atelier, bright columns, drifting marble dust, daylight beam
 
 AUDIO: diegetic-plus-design, no spoken word. Ambient bed — the airy atelier tone with a soft string rise under the crossing. SFX — a soft liquid-stone wash 0.0–1.5s, a delicate sequence of fine settling-and-hardening stone clicks as the marble sets and the veins draw 1.5–4.0s, a soft settle-resonance as the gown locks at 5.6s. Reaction — a soft awed breath at 1.4s. VO — none. Master track lifts gently under the transform then eases (subtle, never full).
 
-DURATION: 6 seconds (0:05–0:11 of 30s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps, 180° shutter, natural motion blur on the setting marble and arc.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — lips part on the awed breath, no words.
 
@@ -3693,14 +3690,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: beauty close, chest-up, product-at-face.
 
-CAMERA MOVEMENT: a slow 6% push-in to the face, locked otherwise.
-
 LENS: 85mm, f/2.5.
 
-SUBJECT ACTION WITH TIMING:
-- 0.0–2.4s — she loads the fine brush from the open marble compact, the pearl-champagne powder catching daylight.
-- 2.4–4.8s — she sweeps it along the high of her cheekbone, a soft dewy pearl sheen blooming as a calm smile begins.
-- 4.8–6.0s — she lowers the brush a touch, eyes lifting. One bright beat, real physics.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Beauty close, chest-up at a three-quarter: a slow push toward her face is already gliding in as she loads the fine brush from the open marble compact, the pearl-champagne powder catching daylight; eyes lowered to the brush.
+- [00:02–00:04] She sweeps it along the high of her cheekbone and a soft dewy pearl sheen blooms, the push settling; a calm smile beginning, gaze warming.
+- [00:04–00:06] She lowers the brush a touch and lifts her eyes, the veined marble bodice glinting, a serene calm in her gaze.
 
 LIGHTING: soft daylight beauty key, white fill, daylight rim; a live specular travelling the compact and the cheekbone sheen as she moves.
 
@@ -3708,9 +3703,9 @@ ENVIRONMENT: sunlit atelier, blurred bright columns, daylight beams, drifting ma
 
 AUDIO: diegetic-plus-design, no spoken word. Ambient bed — the airy atelier tone, low. SFX — a soft compact-open click at 0.7s, a faint brush-on-skin sweep at 2.6s, a soft airy shimmer as the sheen catches light at 3.4s. Reaction — a soft calm breath at 3.8s. VO — none. Master track stays low and ambient (subtle, never full).
 
-DURATION: 5 seconds (0:11–0:16 of 30s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps, 180° shutter, gentle motion blur on the brush hand.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — a calm serene set.
 
@@ -3761,14 +3756,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: beauty close, chest-up, direct address.
 
-CAMERA MOVEMENT: locked-off and stable, a barely-there 4% push — no movement that competes with the line.
-
 LENS: 85mm, f/2.5.
 
-SUBJECT ACTION WITH TIMING:
-- 0.0–0.9s — she settles, eyes finding the lens with a serene knowing smile.
-- 0.9–3.6s — she delivers "carved to last." with natural lip-sync and a gentle brow lift, presenting the compact at her chest.
-- 3.6–6.0s — the smile lands and holds, a calm blink. One clean delivery, real physics.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Beauty close, chest-up squared to lens: the camera is already settled on a barely-there push as her eyes find the lens with a serene knowing smile, the compact presented at her chest.
+- [00:02–00:04] She delivers “carved to last.” with natural lip-sync and a gentle brow lift, eyes bright and direct, the marble gallery soft behind.
+- [00:04–00:06] The smile lands and holds with a calm blink, gaze staying eye-to-eye.
 
 LIGHTING: soft daylight beauty key, white fill, daylight rim; steady, no flicker.
 
@@ -3776,9 +3769,9 @@ ENVIRONMENT: sunlit atelier, blurred bright columns behind, daylight beams, drif
 
 AUDIO: diegetic-plus-design with spoken word. Ambient bed — the airy atelier tone, low. SFX — a faint soft air-tail around the voice, a soft stone touch on the compact at 0.6s. VO — Aira, English with a natural Indian accent, calm and serene: "carved to last." delivered 0.9–3.6s, clean and intimate, sitting above the bed. Master track ducks under the voice and stays low (subtle, never full).
 
-DURATION: 4 seconds (0:16–0:20 of 30s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps, 180° shutter, gentle natural motion blur.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: precise lip-sync to "carved to last." across 0.9–3.6s; natural jaw and lip shapes, no drift.
 
@@ -3829,15 +3822,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: full-figure magical hero, slightly low angle.
 
-CAMERA MOVEMENT: a slow majestic push-in with a gentle rise ( + slight boom) tracking the flush — one smooth motivated move.
-
 LENS: 35mm, f/2.2.
 
-SUBJECT ACTION WITH TIMING:
-- 0.0–0.6s — a warm rose flush kindles at her heart and the marble softens to living warmth.
-- 0.6–2.2s — the flush sweeps through the gown and across her skin as fine marble-dust motes and soft rose light lift, the stone warming to living blush as she lifts her eyes into the light.
-- 2.2–4.2s — the motes drift out, easing to a sustained living warmth, her radiant smile landing.
-- 4.2–6.0s — she holds, haloed and serene. Only the awakening is impossible; all else real physics.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Full-figure magical hero from a slightly low angle: a slow majestic push-in with a gentle boom-rise is already lifting as a warm rose flush kindles at her heart and the marble softens to living warmth; gaze drawn to the kindling flush.
+- [00:02–00:04] The boom keeps rising as the flush sweeps through the gown and across her skin, fine marble-dust motes and soft rose light lifting as the stone warms to living blush; eyes lifting into the light, a radiant awe blooming.
+- [00:04–00:06] The motes drift out, easing to a sustained living warmth as the move settles; her radiant smile landing, eyes serene and haloed.
 
 LIGHTING: the rose-flush awakening as a live warm key, soft daylight rim, warm floor fill rising; controlled, no clipping.
 
@@ -3845,9 +3835,9 @@ ENVIRONMENT: sunlit atelier warming with living light, columns glowing softly, d
 
 AUDIO: diegetic-plus-design, no spoken word. Ambient bed — the airy atelier tone blooming into a wide warm string-and-soft-choir swell cresting at the flush then settling. SFX — a soft warm heartbeat-like pulse at the heart 0.2s, a gentle warming shimmer with a fine dust-mote sparkle sequence tracking the rising motes 0.6–2.2s, soft rose light sparkling 1.4–3.0s, a warm resonance under the settle. Reaction — a soft awed breath at 1.9s. VO — none. Master track rises to its fullest-but-still-restrained moment under the flush then eases (subtle, never full).
 
-DURATION: 5 seconds (0:20–0:25 of 30s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps, 180° shutter, natural motion blur on the flush and drifting motes.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — lips part on the awed breath and smile, no words.
 
@@ -3898,14 +3888,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: medium-full three-quarter hero among the marble columns — matched to Frame 1 for the loop.
 
-CAMERA MOVEMENT: a slow settle-back to the opening framing (gentle pull matching Frame 1's start position), locked otherwise — ending exactly where the reel began.
-
 LENS: 50mm, f/2.5.
 
-SUBJECT ACTION WITH TIMING:
-- 0.0–2.4s — the rose warmth fades and the last motes drift down as she returns the compact to her collarbone.
-- 2.4–4.8s — her smile eases to the calm poise of the opening.
-- 4.8–6.0s — she lifts her eyes softly to the lens, landing precisely on the Frame 1 pose for a seamless loop. Real physics throughout.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Medium-full three-quarter hero matching Frame 1: a slow settle-back is already easing the framing toward the opening position as the rose warmth fades and the last motes drift down; she returns the compact to her collarbone, gaze softening.
+- [00:02–00:04] The pull continues as her smile eases to the calm poise of the opening and the sculpted marble softens back toward the oatmeal linen's stillness; eyes calming.
+- [00:04–00:06] She lifts her eyes softly to the lens, landing precisely on the Frame 1 pose, weight settled among the columns — a seamless loop seam.
 
 LIGHTING: the soft daylight key restored, white fill, daylight rim; steady, easing back to the opening level.
 
@@ -3913,9 +3901,9 @@ ENVIRONMENT: sunlit atelier restored to the opening tableau, bright columns, las
 
 AUDIO: diegetic-plus-design, no spoken word. Ambient bed — the airy atelier tone and faint chisel-tap easing back down to the soft opening level, looping cleanly into Frame 1's bed. SFX — a warm resonance fading 0.0–2.4s, a soft compact-lid tap at 5.3s matching the opening's 0.5s cue for the loop seam. Reaction — a soft calm breath at 2.9s. VO — none. Master track resolves and eases to the soft ambient level it began on for a clean loop (subtle, never full).
 
-DURATION: 5 seconds (0:25–0:30 of 30s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps, 180° shutter, gentle cinematic motion blur.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — a calm closed-lip smile, matched to the opening.
 
