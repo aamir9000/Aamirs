@@ -1758,6 +1758,72 @@ BEATS[50] = [
 ]
 
 
+BEATS[1] = [
+    (
+        "Medium-wide thigh-up in the steel studio: a slow push-in is already gliding toward "
+        "her as she settles her weight onto the back leg and rests her right hand on her hip "
+        "with the brushed-steel cuff forward, the composed quarter-smile holding; ice-blue "
+        "speculars travelling the gunmetal gown.",
+        "The push continues as one face-framing finger-wave shifts in the cool draft, her "
+        "cool gaze beginning to lift; a steel-calm holding at the outer eye.",
+        "She lifts her cool gaze to lens on a soft inhale, the composed powerful "
+        "quarter-smile settling, eyes direct and architectural.",
+    ),
+    (
+        "Medium close, chest-up: the slow push continues with a faint tilt-up already "
+        "following her right wrist as she raises it near the collarbone and turns the steel "
+        "cuff into the cool key; gaze lowering toward the cuff.",
+        "The tilt rides the cuff as an ice-blue specular travels the brushed steel, her gaze "
+        "cooling with quiet focus and a knowing micro-smile kindling.",
+        "The first faint dissolve heat-shimmer breathes at the hem, her eyes steady on the "
+        "cuff, lips parting a millimetre in composed anticipation.",
+    ),
+    (
+        "Medium chest-up: a slow push is already tracking the rippling gunmetal hem as she "
+        "eases both hands open from her body, palms turning up; gaze beginning to lift.",
+        "The push holds as her gaze lifts to lens with rising calm and a serene micro-smile "
+        "forms, the metal surface beginning to shimmer.",
+        "The gunmetal surface ripples and brightens, cueing the dissolve, her gaze steady and "
+        "serene as the change arms.",
+    ),
+    (
+        "Energized medium: the push is already easing into a smooth gentle orbit as the "
+        "steel-to-silk dissolve wave sweeps across her gown in a warm arc and she opens her "
+        "arms; gaze lifting into the sweep.",
+        "The orbit rides the hero beat as a warming shimmer races across her and the fabric "
+        "and finger-waves catch travelling light, gunmetal giving to champagne silk (face "
+        "clear, framed by the sweep, identity locked); eyes warming in serene awe.",
+        "The sweep settles and the silk resolves as the orbit eases toward the reveal; a "
+        "soft warmth landing in her eyes.",
+    ),
+    (
+        "Medium close, chest-up: the orbit is already easing back to a slow push as the "
+        "dissolve settles and she gathers a soft fold of champagne silk near her waist; gaze "
+        "easing to lens.",
+        "The push settles as a serene smile eases to lens on a slow warm breath, the last "
+        "motes settling and warm champagne light on her skin.",
+        "She holds the warm serene look, the silk drape settling, eyes soft and luminous.",
+    ),
+    (
+        "Medium chest-up: a slow push is already gliding in as she turns a soft six degrees "
+        "toward lens and opens her right hand in a gentle gesture; gaze warm to lens.",
+        "She delivers \u201cSteel to silk. Same power, softer edge.\u201d to lens with a soft "
+        "knowing smile and natural lip-sync, eyes warm and direct.",
+        "She holds the warm serene look as the silk settles, the smile easing into calm.",
+    ),
+    (
+        "Medium-wide thigh-up matching Frame 1: the orbit is already easing to rest as a slow "
+        "push resolves toward the opening framing and she returns her right hand to rest "
+        "light on her hip, settling her weight onto the back leg exactly as in Frame 1.",
+        "The push settles as she eases her gaze back to lens on a slow breath with the "
+        "composed quarter-smile, the silk-warm space resolving toward the steel-cool opening "
+        "palette.",
+        "She lands precisely on the Frame 1 pose and gaze, weight settled and architectural "
+        "\u2014 a seamless loop seam.",
+    ),
+]
+
+
 def build_block(beats):
     return (
         BREAKDOWN_HEADER + "\n"
@@ -1769,8 +1835,11 @@ def build_block(beats):
 
 def apply_concept(text, concept_no):
     frames = BEATS[concept_no]
-    start = text.index(f"# CONCEPT {concept_no} \u2014")
-    nxt = re.search(rf"# CONCEPT {concept_no + 1} \u2014", text)
+    # Region detection handles all header styles seen across files:
+    #   "# CONCEPT 31 —", "## CONCEPT 01 —" (zero-padded), etc.
+    start_m = re.search(rf"#+ CONCEPT 0*{concept_no} \u2014", text)
+    start = start_m.start()
+    nxt = re.search(rf"#+ CONCEPT 0*{concept_no + 1} \u2014", text)
     end = nxt.start() if nxt else len(text)
     region = text[start:end]
 

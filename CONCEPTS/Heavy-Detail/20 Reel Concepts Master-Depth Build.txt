@@ -134,11 +134,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: medium-wide, thigh-up, subject fills about 55% of the vertical frame.
 
-CAMERA MOVEMENT: a single slow 8% push-in across the clip, otherwise locked-off and stable — one move only, no whip, no handoff.
-
 LENS: 35mm, f/2.2, smooth cool background fall-off.
 
-SUBJECT ACTION WITH TIMING: 0.0–3.2s — Aira settles her weight onto the back leg and rests her right hand on her hip with the steel cuff forward, the composed quarter-smile holding; 3.2–6.0s — she lifts her cool gaze to the lens on a soft inhale as one face-framing wave shifts in the draft. One clean subject action, real physics throughout.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Medium-wide thigh-up in the steel studio: a slow push-in is already gliding toward her as she settles her weight onto the back leg and rests her right hand on her hip with the brushed-steel cuff forward, the composed quarter-smile holding; ice-blue speculars travelling the gunmetal gown.
+- [00:02–00:04] The push continues as one face-framing finger-wave shifts in the cool draft, her cool gaze beginning to lift; a steel-calm holding at the outer eye.
+- [00:04–00:06] She lifts her cool gaze to lens on a soft inhale, the composed powerful quarter-smile settling, eyes direct and architectural.
 
 OBJECT ACTION WITH TIMING: 0.0–6.0s — one ice-blue specular travels slowly down the polished gunmetal bodice and a hairline glint slides along the brushed cuff as the wrist settles; fine dust drifts through the north-light shaft behind her. Environmental motion only, no object pop-in.
 
@@ -150,9 +151,9 @@ ENVIRONMENT: sculptural concrete-and-steel studio, brushed gunmetal panels, a co
 
 AUDIO: diegetic only, no in-clip music. Ambient — a low cool room tone and a faint metallic resonance throughout. SFX — a soft fabric settle at 0.8s (gentle attack, short tail), a faint steel-cuff tick at 3.4s, a delicate cool air-swell at 4.8s timed to the gaze-lift. Reaction — a soft audible breath at 3.0s. The master track sits low — a cool metallic pulse just kindling under the room tone (present, never full). VO — none this frame.
 
-DURATION: 3 seconds (0:00–0:03 of 25s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps acquisition, 180° shutter, natural motion blur on the gaze-lift; playback 24fps real-time.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — lips closed/softly parted, composed.
 
@@ -211,11 +212,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: medium close, chest-up, subject and raised cuff fill about 58% of the vertical frame.
 
-CAMERA MOVEMENT: the slow push continues with a faint 3° tilt up following the raised cuff (one flowing move), otherwise stable.
-
 LENS: 85mm, f/2.0.
 
-SUBJECT ACTION WITH TIMING: 0.0–2.4s — Aira raises her right wrist near the collarbone and turns the steel cuff into the cool key; 2.4–4.5s — her gaze cools with quiet focus toward the cuff as a knowing micro-smile kindles. One clean subject action, real physics throughout.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Medium close, chest-up: the slow push continues with a faint tilt-up already following her right wrist as she raises it near the collarbone and turns the steel cuff into the cool key; gaze lowering toward the cuff.
+- [00:02–00:04] The tilt rides the cuff as an ice-blue specular travels the brushed steel, her gaze cooling with quiet focus and a knowing micro-smile kindling.
+- [00:04–00:06] The first faint dissolve heat-shimmer breathes at the hem, her eyes steady on the cuff, lips parting a millimetre in composed anticipation.
 
 OBJECT ACTION WITH TIMING: 0.0–4.5s — an ice-blue specular travels along the brushed cuff as it turns, and the first faint heat-shimmer breathes at the gown's hem; dust drifts behind. Environmental and worn-object motion only, no pop-in.
 
@@ -227,9 +229,9 @@ ENVIRONMENT: concrete-and-steel studio, gunmetal panels, the first faint dissolv
 
 AUDIO: diegetic only. Ambient — low cool room tone and a faint metallic resonance throughout. SFX — a soft cuff-turn tick at 0.8s, a delicate metallic shimmer at 2.4s, a faint air-waver at 4.2s (gentle attack, long soft tail). Reaction — a soft slow breath at 2.5s. The master track lifts a touch — a cool metallic pulse and a low string rising under the SFX (present, never full). VO — none this frame.
 
-DURATION: 4 seconds (0:03–0:07 of 25s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps acquisition with a touch of slow-mo on the cuff turn, 180° shutter, gentle natural motion blur; playback real-time.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none.
 
@@ -288,11 +290,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: medium, chest-up, subject and rippling gown fill about 60% of the vertical frame.
 
-CAMERA MOVEMENT: a single slow 6% push-in tracking the rippling hem (one flowing move), otherwise stable.
-
 LENS: 50mm, f/2.0, smooth background fall-off. (Transform-anchor distance — matches Frames 4 and 5.)
 
-SUBJECT ACTION WITH TIMING: 0.0–2.4s — Aira eases both hands open from her body, palms turning up; 2.4–4.4s — her gaze lifts to lens with rising calm as a serene micro-smile forms; 4.4–6.0s — the gunmetal surface ripples and brightens, cueing the dissolve. One clean subject action, real physics throughout.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Medium chest-up: a slow push is already tracking the rippling gunmetal hem as she eases both hands open from her body, palms turning up; gaze beginning to lift.
+- [00:02–00:04] The push holds as her gaze lifts to lens with rising calm and a serene micro-smile forms, the metal surface beginning to shimmer.
+- [00:04–00:06] The gunmetal surface ripples and brightens, cueing the dissolve, her gaze steady and serene as the change arms.
 
 OBJECT ACTION WITH TIMING: 0.0–6.0s — the gown's hem ripples with a slow optical shimmer and the first warm silk-light motes gather and brighten in the air around her; dust drifts behind. Environmental motion only, no pop-in.
 
@@ -304,9 +307,9 @@ ENVIRONMENT: concrete-and-steel studio, gunmetal panels, the gown beginning to r
 
 AUDIO: diegetic only, no in-clip music. Ambient — low cool room tone and a faint metallic resonance throughout. SFX — the soft settle of opening hands at 0.8s, a delicate rippling-metal shimmer at 2.4s, a faint warm air-swell at 4.8s as motes mass (gentle attack, long soft tail). Reaction — a soft slow breath at 2.8s. The master track sits low — a cool metallic pulse warming with a low string under the SFX (present, never full). VO — none this frame.
 
-DURATION: 3 seconds (0:07–0:10 of 25s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps acquisition with a touch of slow-mo on the gathering ripple, 180° shutter, gentle natural motion blur; playback real-time.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none.
 
@@ -365,11 +368,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: energized medium of the steel-to-silk dissolve sweep (the hero move).
 
-CAMERA MOVEMENT: the slow push eases into a smooth gentle orbit around her through the sweep (one flowing move) — the move that showcases the travelling dissolve.
-
 LENS: 50mm, f/2.0. (Transform-anchor distance — matches Frames 3 and 5.)
 
-SUBJECT ACTION WITH TIMING: 0.0–2.1s — from Frame 3's suspension the dissolve wave sweeps across her gown in a warm arc as she opens her arms; 2.1–4.2s — a warming shimmer races across her as the fabric and waves catch travelling light (the impossible beat, face clear and framed by the sweep, identity locked); 4.2–6.0s — the sweep settles and the silk resolves toward the Frame-5 reveal. Strict interpolation between locked keyframes; real cloth-and-metal physics.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Energized medium: the push is already easing into a smooth gentle orbit as the steel-to-silk dissolve wave sweeps across her gown in a warm arc and she opens her arms; gaze lifting into the sweep.
+- [00:02–00:04] The orbit rides the hero beat as a warming shimmer races across her and the fabric and finger-waves catch travelling light, gunmetal giving to champagne silk (face clear, framed by the sweep, identity locked); eyes warming in serene awe.
+- [00:04–00:06] The sweep settles and the silk resolves as the orbit eases toward the reveal; a soft warmth landing in her eyes.
 
 OBJECT ACTION WITH TIMING: 0.0–6.0s — the gunmetal gown converts to flowing champagne silk along one travelling wavefront, the steel cuff resolves to a thread bracelet and the pewter pumps to satin, silk-light motes sparkle through the field. One coherent transform, no extra objects, no pop-in.
 
@@ -381,9 +385,9 @@ ENVIRONMENT: the studio warming from steel to silk-light, motes and warm dust sp
 
 AUDIO: diegetic-led. Ambient — low warming room tone. SFX — a warm metallic-to-silk shimmer swell 0.4–2.4s, fine drifting-mote sparkle 2.1–4.2s (gentle attack, long soft tails), a soft silk flare at 3.0s. Reaction — a soft awed breath at 2.4s. The master track lifts to its peak here — a cool pulse blooming into warm strings landed on the sweep (present, still under the SFX, never full). VO — none (the line lands two frames on).
 
-DURATION: 4 seconds (0:10–0:14 of 25s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 96fps deep slow-mo through the sweep easing to gentle slow-mo, 180° shutter, soft natural motion blur with crisp mote sparkle.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none.
 
@@ -442,11 +446,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: medium close, chest-up, subject and gathered silk fill about 58% of the vertical frame.
 
-CAMERA MOVEMENT: the orbit eases back to a slow 5% push-in as the silk resolves (one flowing move), otherwise stable.
-
 LENS: 50mm, f/2.0. (Transform-anchor distance — matches Frames 3 and 4.)
 
-SUBJECT ACTION WITH TIMING: 0.0–2.1s — the dissolve settles as Aira gathers a soft fold of champagne silk near her waist; 2.1–4.5s — a serene smile eases to the lens on a slow warm breath as the last motes settle. One clean subject action, real physics throughout.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Medium close, chest-up: the orbit is already easing back to a slow push as the dissolve settles and she gathers a soft fold of champagne silk near her waist; gaze easing to lens.
+- [00:02–00:04] The push settles as a serene smile eases to lens on a slow warm breath, the last motes settling and warm champagne light on her skin.
+- [00:04–00:06] She holds the warm serene look, the silk drape settling, eyes soft and luminous.
 
 OBJECT ACTION WITH TIMING: 0.0–4.5s — the silk drape settles and sways gently, a warm specular travels along the satin cowl, and the last silk-light motes drift down and fade; warm dust drifts behind. Environmental motion only, no pop-in.
 
@@ -458,9 +463,9 @@ ENVIRONMENT: the warmed silk-light studio, soft champagne ground, last motes set
 
 AUDIO: diegetic only. Ambient — low warm room tone and a faint silk whisper throughout. SFX — a soft silk-gather rustle at 0.8s, a delicate settling-mote shimmer at 2.1s, a faint warm air-ease at 3.9s (gentle attack, long soft tail). Reaction — a soft slow breath at 2.4s. The master track holds warm — soft strings settling under the SFX (present, never full). VO — none (the line lands next frame).
 
-DURATION: 4 seconds (0:14–0:18 of 25s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps acquisition with a touch of slow-mo on the settling silk, 180° shutter, gentle natural motion blur; playback real-time.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none.
 
@@ -519,11 +524,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: medium, chest-up, subject fills about 58% of the vertical frame.
 
-CAMERA MOVEMENT: a single slow 5% push-in on the line (one flowing move), otherwise locked and stable.
-
 LENS: 35mm, f/2.2.
 
-SUBJECT ACTION WITH TIMING: 0.0–1.5s — Aira turns a soft 6° toward the lens and opens her right hand in a gentle gesture; 1.5–4.2s — she delivers "Steel to silk. Same power, softer edge." to the lens with a soft knowing smile and natural lip-sync; 4.2–6.0s — she holds the warm serene look as the silk settles. One clean subject action, real physics throughout.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Medium chest-up: a slow push is already gliding in as she turns a soft six degrees toward lens and opens her right hand in a gentle gesture; gaze warm to lens.
+- [00:02–00:04] She delivers “Steel to silk. Same power, softer edge.” to lens with a soft knowing smile and natural lip-sync, eyes warm and direct.
+- [00:04–00:06] She holds the warm serene look as the silk settles, the smile easing into calm.
 
 OBJECT ACTION WITH TIMING: 0.0–6.0s — the silk drape sways gently with the turn, the pearl drop swings a hair on real inertia, and a warm specular travels along the satin; warm dust drifts behind. Environmental and worn-object motion only, no pop-in.
 
@@ -535,9 +541,9 @@ ENVIRONMENT: the warm silk-light studio, soft champagne ground.
 
 AUDIO: diegetic-led with the line forward. Ambient — low warm room tone and a faint silk whisper. SFX — a soft silk-sway rustle at 0.6s, a faint pearl-tick at 1.5s (gentle attack, short tail). Reaction — a soft breath at 1.2s before the line. VO — Aira (English, natural Indian accent): "Steel to silk. Same power, softer edge." landing 1.5–4.2s, lips matched. The master track ducks cleanly under the line — soft warm strings holding low so the vocal sits forward (present, never full).
 
-DURATION: 4 seconds (0:18–0:22 of 25s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps acquisition, 180° shutter, natural motion blur on the turn; playback real-time.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: full — mouth shapes matched precisely to "Steel to silk. Same power, softer edge.", no drift.
 
@@ -596,11 +602,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: medium-wide, thigh-up, subject fills about 55% of the vertical frame (matched to Frame 1).
 
-CAMERA MOVEMENT: the orbit eases to rest and a slow 8% push-in resolves to the Frame-1 framing (one flowing move) for a seamless loop.
-
 LENS: 35mm, f/2.2. (Returns to Frame 1 distance.)
 
-SUBJECT ACTION WITH TIMING: 0.0–3.0s — Aira returns her right hand to rest light on her hip and settles her weight onto the back leg exactly as in Frame 1; 3.0–6.0s — she eases her gaze back to the lens on a slow breath with the composed quarter-smile, the composition resolving to match Frame 1. One clean subject action, real physics throughout.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Medium-wide thigh-up matching Frame 1: the orbit is already easing to rest as a slow push resolves toward the opening framing and she returns her right hand to rest light on her hip, settling her weight onto the back leg exactly as in Frame 1.
+- [00:02–00:04] The push settles as she eases her gaze back to lens on a slow breath with the composed quarter-smile, the silk-warm space resolving toward the steel-cool opening palette.
+- [00:04–00:06] She lands precisely on the Frame 1 pose and gaze, weight settled and architectural — a seamless loop seam.
 
 OBJECT ACTION WITH TIMING: 0.0–6.0s — a soft specular travels along the silk where the steel specular once ran, the cool key re-kindles faintly at the panel gradient, and the last warm dust drifts and fades to seed the loop. Environmental motion only, no pop-in.
 
@@ -612,9 +619,9 @@ ENVIRONMENT: the studio cooling back from silk-light toward the Frame-1 steel sp
 
 AUDIO: diegetic only, no in-clip music beyond the bed. Ambient — a low room tone easing from warm toward cool with a faint resonance returning. SFX — a soft fabric settle at 0.8s, a faint wrist-glint tick at 3.2s, a delicate cool air-swell at 4.8s seeding the loop (gentle attack, soft tail). Reaction — a soft breath at 3.0s. The master track resolves on a sustained chord that cross-fades cool so the reel loops seamlessly with no audible seam (present, never full). VO — none this frame.
 
-DURATION: 3 seconds (0:22–0:25 of 25s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps acquisition, 180° shutter, natural motion blur on the settle; playback real-time.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — lips closed/softly parted, composed.
 
