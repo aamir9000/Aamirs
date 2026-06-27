@@ -4309,13 +4309,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: medium close, chest-up, subject fills 55% of the vertical frame.
 
-CAMERA MOVEMENT: a single slow 8% push-in across the clip, otherwise locked-off — one move only, no whip, no handoff.
-
 LENS: 50mm, f/2.8, smooth creamy fall-off with soft rainbow bokeh.
 
-SUBJECT ACTION WITH TIMING:
-- 0.0–3.0s — Aira tilts the faceted bottle a few degrees into a prism beam, tiny rainbows sweeping across the chrome behind her and the pearlescent liquid settling inside.
-- 3.0–6.0s — she lifts her eyes to lens on a soft inhale as the confident asymmetric quarter-smile blooms. One clean action, real physics throughout.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Medium close chest-up: a slow push-in is already gliding toward her as she tilts the faceted prism bottle a few degrees into a prism beam, tiny rainbows sweeping across the chrome-mirror depth behind her and the pearlescent liquid settling inside; gaze lowered to the cut glass.
+- [00:02–00:04] The push continues as she lifts her eyes to lens on a soft inhale and a confident asymmetric quarter-smile blooms, refracted rainbows drifting across the panels.
+- [00:04–00:06] She holds, iridescent and composed, one brow a hair higher and a tiny refracted rainbow flickering in her catchlight, eyes bright and direct (silent — no words).
 
 LIGHTING: clamshell beauty key with lifted clean fill; live moving prismatic speculars across the facets as the bottle tips; crossing prism beams steady; hair-light steady on the chrome-glass waves.
 
@@ -4323,9 +4322,9 @@ ENVIRONMENT: mirror-prism studio, drifting refracted rainbows, faint prismatic h
 
 AUDIO: fully silent reel — no spoken word, no music in-clip. Diegetic and design only: low warm studio room-tone bed; a soft crystalline glass-tap as fingers settle on the facets near 0.5s (gentle attack, short tail); a faint mirror-foil shift near 3.1s; a light airy crystalline shimmer accent near 4.6s timed to the eye-lift; a soft audible breath near 3.0s. The external master track sits low and cool under this frame.
 
-DURATION: 5 seconds (0:00 to 0:05 of 30s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps acquisition, 180° shutter, natural motion blur on the bottle tilt; playback 24fps real-time.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — lips closed or softly parted, composed.
 
