@@ -7192,13 +7192,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: medium-full three-quarter hero in the forge.
 
-CAMERA MOVEMENT: a single slow 8% push-in, otherwise locked-off and stable — one move, no transform yet.
-
 LENS: 50mm, f/2.5.
 
-SUBJECT ACTION WITH TIMING:
-- 0.0–3.0s — Aira holds the compact to her collarbone, the slip breathing, forge-haze drifting, and lifts her eyes to the lens with a composed knowing smile.
-- 3.0–6.0s — she begins a slow composed quarter-turn, a warm highlight travelling the slip and a forge-glow pulsing on the wall. One composed beat, real physics.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Medium-full three-quarter hero in the artisan forge: a slow push-in is already gliding toward her as she holds the gold filigree compact to her collarbone, the black silk breathing and forge-haze drifting; she lifts her eyes to lens with a composed knowing smile.
+- [00:02–00:04] The push continues as she begins a composed quarter-turn, a warm highlight travelling the slip and a forge-glow pulsing on the wall; gaze easing to lens, chin level.
+- [00:04–00:06] She settles mid-turn, weight rolling onto the front foot, a warm crafted calm holding as scroll-iron forms gleam behind.
 
 LIGHTING: warm soft key, soft fill, warm rim on hair; the forge-glow pulsing low and steady.
 
@@ -7206,9 +7205,9 @@ ENVIRONMENT: forge atelier, anvil and scroll-iron forms, hammered-steel walls, f
 
 AUDIO: diegetic-plus-design, no spoken word (silent reel). Ambient bed — a low warm forge room-tone with a faint deep ember-crackle and a gentle settle, very low and steady. SFX — a soft case-tap as her fingers settle at 0.6s, a faint silk shift at 3.1s, a warm low anvil-resonance accent on the turn at 3.6s. Reaction — a soft breath at 2.6s. VO — none. The master track enters here soft and ambient (low and subtle, never full).
 
-DURATION: 5 seconds (0:00–0:05 of 30s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps, 180° shutter, gentle natural motion blur on the turn.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — a composed closed-lip smile (silent throughout).
 
@@ -7259,14 +7258,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: full-figure transform hero, slightly low angle.
 
-CAMERA MOVEMENT: a slow controlled arc following the gown weaving up her body, smooth and motivated — one move, no whip.
-
 LENS: 50mm, f/2.5.
 
-SUBJECT ACTION WITH TIMING:
-- 0.0–1.5s — the first glowing iron scroll bends in at the hip and cools, gold-leaf settling.
-- 1.5–4.2s — scrollwork bends and weaves section by section into the gown, a warm seam-glow tracing each weld, Aira watching with an awed breath, ember-motes curling off the front.
-- 4.2–6.0s — the last scroll seats and the filigree gown settles, her recognizable face landing a warm composed look. Only the crossing is impossible; everything else obeys real physics.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Full-figure from a slightly low angle: a slow controlled arc is already rising as the first glowing iron scroll bends in at the hip and cools, gold-leaf settling; gaze tracking the bending scroll, eyes brightening.
+- [00:02–00:04] The arc rides the weaving up her body as scrollwork bends and locks section by section, a warm seam-glow tracing each weld and ember-motes curling off the front; an awed breath, brows lifting.
+- [00:04–00:06] The last scroll seats and the filigree gown settles as the arc eases; a warm composed look landing, eyes alight on the black-and-gold scrollwork.
 
 LIGHTING: warm soft key with an ember kick on the cooling scrolls, soft fill, warm rim; bright-warm and steady.
 
@@ -7274,9 +7271,9 @@ ENVIRONMENT: forge, anvil, hammered-steel walls, forge-warm haze, gold reflectio
 
 AUDIO: diegetic-plus-design, no spoken word (silent reel). Ambient bed — the warm forge tone with a low cello-and-brass rise under the crossing. SFX — a soft iron-bend creak 0.0–1.5s, a delicate sequence of warm metal-settle ticks and a fine seam-fizz as the gown weaves 1.5–4.2s, a warm resonance as the gown locks at 5.4s, faint ember-crackle off the front. Reaction — a soft awed breath at 1.4s. VO — none. Master track lifts gently under the transform then eases (subtle, never full).
 
-DURATION: 6 seconds (0:05–0:11 of 30s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps, 180° shutter, natural motion blur on the weaving scrolls and arc.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — lips part on the awed breath, no words (silent).
 
@@ -7325,14 +7322,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: beauty close, chest-up, product-at-face.
 
-CAMERA MOVEMENT: a slow 6% push-in to the face, locked otherwise.
-
 LENS: 85mm, f/2.5.
 
-SUBJECT ACTION WITH TIMING:
-- 0.0–2.2s — she loads the gilded brush from the open compact and brings it to her cheekbone.
-- 2.2–4.3s — she sweeps it along the cheekbone in one smooth confident pass, the bronze blending warm into the contour.
-- 4.3–6.0s — she eases the brush away and gives a confident direct look. One precise beat, real physics.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Beauty close, chest-up at a three-quarter: a slow push toward her face is already gliding in as she loads the gilded brush from the open compact and brings it to her cheekbone; eyes lowered to the brush.
+- [00:02–00:04] She sweeps it along the cheekbone in one smooth confident pass, the bronze blending warm into the contour, the push settling; a composed set beginning.
+- [00:04–00:06] She eases the brush away and gives a confident direct look, the filigree bodice glinting, a warm calm in her gaze.
 
 LIGHTING: warm soft beauty key, soft fill, warm rim; a live warm specular travelling the compact as she moves.
 
@@ -7340,9 +7335,9 @@ ENVIRONMENT: forge, blurred anvil, warm forge-glow, haze low.
 
 AUDIO: diegetic-plus-design, no spoken word (silent reel). Ambient bed — the warm forge tone, low. SFX — a soft brush-load tap at 0.7s, a faint brush-sweep-over-skin whisper at 2.4s, a warm low chime as the brush lifts at 4.3s. Reaction — a soft confident breath at 4.7s. VO — none. Master track stays low and ambient (subtle, never full).
 
-DURATION: 5 seconds (0:11–0:16 of 30s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps, 180° shutter, gentle motion blur on the brush hand.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — a confident composed set (silent).
 
@@ -7395,14 +7390,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: bold beauty close, chest-up, commanding wordless direct address.
 
-CAMERA MOVEMENT: locked-off and stable, a barely-there 4% push — no movement that competes with the beat; let the look do the work.
-
 LENS: 85mm, f/2.5.
 
-SUBJECT ACTION WITH TIMING:
-- 0.0–2.1s — she settles, eyes locking the lens with a confident composed smile.
-- 2.1–4.2s — she presents the compact at her chest and lands a single assured chin-lift into a slow blink, a gold glint flickering across the filigree bodice, lips softly closed (no speech).
-- 4.2–6.0s — the smile holds, eyes direct and warm. One clean wordless beat, real physics.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Bold beauty close, chest-up squared to lens: the camera is already settled on a barely-there push as her eyes lock the lens with a confident composed smile, the compact presented at her chest (silent — no words).
+- [00:02–00:04] She lands a single assured chin-lift into a slow blink as a gold glint flickers across the filigree bodice, lips softly closed, the look itself doing the work.
+- [00:04–00:06] The smile holds, eyes direct and warm — a wordless hero expression reveal in place of any line.
 
 LIGHTING: warm soft beauty key, soft fill, warm rim; steady, no flicker; a live gold glint travelling the scrollwork as she breathes.
 
@@ -7410,9 +7403,9 @@ ENVIRONMENT: forge, blurred anvil behind, warm forge-glow, haze low.
 
 AUDIO: diegetic-plus-design, no spoken word (silent reel). Ambient bed — the warm forge tone, low. SFX — a faint warm air-tail, a soft compact touch at 0.6s, a delicate gold shimmer-accent at 2.2s on the chin-lift. Reaction — a soft calm breath at 2.5s. VO — none (the beat is carried by the look, not a line). Master track sits low and steady under the beat (subtle, never full).
 
-DURATION: 4 seconds (0:16–0:20 of 30s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps, 180° shutter, gentle natural motion blur.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — lips stay softly closed; no words, no lip-flap.
 
@@ -7465,15 +7458,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: full-figure magical hero, slightly low angle.
 
-CAMERA MOVEMENT: a slow majestic push-in with a gentle rise ( + slight boom) tracking the bloom — one smooth motivated move.
-
 LENS: 35mm, f/2.2.
 
-SUBJECT ACTION WITH TIMING:
-- 0.0–0.6s — a single point of molten-gold light kindles at the heart of the bodice.
-- 0.6–2.2s — the gold-light races outward along the scrollwork, every curl blooming luminous as she lifts her eyes into the warmth.
-- 2.2–4.2s — fine gold-spark motes lift and drift, easing to a sustained gold halo, her radiant smile landing.
-- 4.2–6.0s — she holds, haloed and triumphant. Only the gold-light bloom is impossible; all else real physics.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Full-figure magical hero from a slightly low angle: a slow majestic push-in with a gentle boom-rise is already lifting as a single point of molten-gold light kindles at the heart of the bodice; gaze drawn to the kindling point.
+- [00:02–00:04] The boom keeps rising as the gold-light races outward along the scrollwork, every curl blooming luminous; eyes lifting into the warmth, a radiant awe blooming.
+- [00:04–00:06] Fine gold-spark motes lift and drift, easing to a sustained gold halo as the move settles; her radiant smile landing, eyes triumphant and haloed.
 
 LIGHTING: the molten-gold filigree-light lifted as a live key, warm rim, floor fill rising; controlled, no clipping.
 
@@ -7481,9 +7471,9 @@ ENVIRONMENT: forge alive with warm light, anvil glinting gold, lifting and drift
 
 AUDIO: diegetic-plus-design, no spoken word (silent reel). Ambient bed — the warm forge tone blooming into a warm orchestral swell with cello, brass and a soft choir-pad cresting at the bloom then settling. SFX — a soft gold-kindle chime 0.2s, a gentle warm light-race shimmer tracking the scrollwork 0.6–2.2s, a fine sparkle-lift of gold motes 1.4–3.0s, a warm resonance under the settle, a faint ember-fizz with the sparks. Reaction — a soft powerful breath at 1.9s. VO — none. Master track rises to its fullest-but-still-restrained moment under the bloom then eases (subtle, never full).
 
-DURATION: 5 seconds (0:20–0:25 of 30s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps, 180° shutter, natural motion blur on the bloom and lifting sparks.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — lips part on the powerful breath and smile, no words (silent).
 
@@ -7538,13 +7528,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: medium-full three-quarter hero in the forge, matched to Frame 1.
 
-CAMERA MOVEMENT: a slow settle to rest matching the Frame 1 push so the end frame meets the start frame cleanly — one move, loop-safe.
-
 LENS: 50mm, f/2.5.
 
-SUBJECT ACTION WITH TIMING:
-- 0.0–3.0s — Aira eases back to the opening stance, cradling the gold compact at the collarbone, the gown settling.
-- 3.0–6.0s — she lands the composed knowing smile and a slow blink, forge-haze easing, forge-glow pulsing on the wall — the frame resolving to exactly match Frame 1 for a seamless loop. Real physics throughout.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Medium-full three-quarter hero in the forge matching Frame 1: a slow settle is already easing her back toward the opening stance, cradling the gold compact at the collarbone, the gown settling; gaze softening to lens.
+- [00:02–00:04] The settle continues as the filigree gown eases back toward the black silk's stillness, forge-haze easing and forge-glow pulsing on the wall; a composed knowing smile returning.
+- [00:04–00:06] She lands the composed smile and a slow blink, resolving to exactly match the Frame 1 pose, weight settled in the forge — a seamless loop seam.
 
 LIGHTING: warm soft key, soft fill, warm rim — matched to Frame 1; steady, no flicker.
 
@@ -7552,9 +7541,9 @@ ENVIRONMENT: forge atelier, anvil and scroll-iron forms, hammered-steel walls, f
 
 AUDIO: diegetic-plus-design, no spoken word (silent reel). Ambient bed — the warm forge room-tone with a faint deep ember-crackle, easing back to exactly the Frame 1 level for a seamless audio loop. SFX — a soft case-settle as her hands return at 1.0s, a faint silk shift at 3.1s, a warm low anvil-resonance resettling at 3.6s matched to the opening accent. Reaction — a soft breath at 2.6s. VO — none. Master track resolves softly back to its opening ambient phrase for a clean loop (subtle, never full).
 
-DURATION: 5 seconds (0:25–0:30 of 30s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps, 180° shutter, gentle natural motion blur easing to the matched settle.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — a composed closed-lip smile (silent).
 

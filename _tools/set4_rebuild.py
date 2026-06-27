@@ -1132,6 +1132,74 @@ BEATS[66] = [
 ]
 
 
+BEATS[67] = [
+    # F1 - medium-full three-quarter hero in forge (push-in)
+    (
+        "Medium-full three-quarter hero in the artisan forge: a slow push-in is already "
+        "gliding toward her as she holds the gold filigree compact to her collarbone, the "
+        "black silk breathing and forge-haze drifting; she lifts her eyes to lens with a "
+        "composed knowing smile.",
+        "The push continues as she begins a composed quarter-turn, a warm highlight "
+        "travelling the slip and a forge-glow pulsing on the wall; gaze easing to lens, chin "
+        "level.",
+        "She settles mid-turn, weight rolling onto the front foot, a warm crafted calm "
+        "holding as scroll-iron forms gleam behind.",
+    ),
+    # F2 - full-figure transform, slightly low angle (arc following the gown weaving up)
+    (
+        "Full-figure from a slightly low angle: a slow controlled arc is already rising as "
+        "the first glowing iron scroll bends in at the hip and cools, gold-leaf settling; "
+        "gaze tracking the bending scroll, eyes brightening.",
+        "The arc rides the weaving up her body as scrollwork bends and locks section by "
+        "section, a warm seam-glow tracing each weld and ember-motes curling off the front; "
+        "an awed breath, brows lifting.",
+        "The last scroll seats and the filigree gown settles as the arc eases; a warm "
+        "composed look landing, eyes alight on the black-and-gold scrollwork.",
+    ),
+    # F3 - beauty close, product-at-face / bronzer (6% push to face)
+    (
+        "Beauty close, chest-up at a three-quarter: a slow push toward her face is already "
+        "gliding in as she loads the gilded brush from the open compact and brings it to her "
+        "cheekbone; eyes lowered to the brush.",
+        "She sweeps it along the cheekbone in one smooth confident pass, the bronze blending "
+        "warm into the contour, the push settling; a composed set beginning.",
+        "She eases the brush away and gives a confident direct look, the filigree bodice "
+        "glinting, a warm calm in her gaze.",
+    ),
+    # F4 - bold beauty close, wordless hero beat (SILENT — expression reveal)
+    (
+        "Bold beauty close, chest-up squared to lens: the camera is already settled on a "
+        "barely-there push as her eyes lock the lens with a confident composed smile, the "
+        "compact presented at her chest (silent \u2014 no words).",
+        "She lands a single assured chin-lift into a slow blink as a gold glint flickers "
+        "across the filigree bodice, lips softly closed, the look itself doing the work.",
+        "The smile holds, eyes direct and warm \u2014 a wordless hero expression reveal in "
+        "place of any line.",
+    ),
+    # F5 - full-figure magical hero, molten-gold filigree bloom (majestic push + boom-rise)
+    (
+        "Full-figure magical hero from a slightly low angle: a slow majestic push-in with a "
+        "gentle boom-rise is already lifting as a single point of molten-gold light kindles "
+        "at the heart of the bodice; gaze drawn to the kindling point.",
+        "The boom keeps rising as the gold-light races outward along the scrollwork, every "
+        "curl blooming luminous; eyes lifting into the warmth, a radiant awe blooming.",
+        "Fine gold-spark motes lift and drift, easing to a sustained gold halo as the move "
+        "settles; her radiant smile landing, eyes triumphant and haloed.",
+    ),
+    # F6 - loop close, matched to F1 (settle to rest)
+    (
+        "Medium-full three-quarter hero in the forge matching Frame 1: a slow settle is "
+        "already easing her back toward the opening stance, cradling the gold compact at the "
+        "collarbone, the gown settling; gaze softening to lens.",
+        "The settle continues as the filigree gown eases back toward the black silk's "
+        "stillness, forge-haze easing and forge-glow pulsing on the wall; a composed knowing "
+        "smile returning.",
+        "She lands the composed smile and a slow blink, resolving to exactly match the Frame "
+        "1 pose, weight settled in the forge \u2014 a seamless loop seam.",
+    ),
+]
+
+
 def build_block(beats):
     # Replaces ONLY the `SUBJECT ACTION WITH TIMING:` header + its bullet beat
     # lines. Ends with a single trailing newline so the original blank line
