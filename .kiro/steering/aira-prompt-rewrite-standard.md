@@ -117,7 +117,7 @@ interpolate strictly between locked keyframes; never invent a new face/hands/sec
 ## E. REMAINING QUEUE (apply section B advanced rebuild) + treatment notes
 ====================================================================
 Read each fully first; tailor camera/expression to its dance/world. Suggested treatments:
-- 20 Cinematic Reels New Set — varied cinematic per concept (pool/hotel/monsoon/etc.).
+- 20 Cinematic Reels New Set — DONE (all 20 concepts / 123 video prompts rebuilt). See PROGRESS below.
 - 20 Full Reel Set 4 (51-70) — couture-material transforms; track the transform, orbit the apex.
 - 20 Full Reel Set 5 (71-79) — studio couture transforms (image-heavy); vary crop/angle hard.
 - Set 5 (cont 2) / · Set 5 (cont) / Set 5 cont 3 / cont 4 — couture/clothes-change; transform-led.
@@ -169,3 +169,33 @@ progress. Beauty Ad is complete. Continue the ADVANCED video-prompt rebuild on t
 remaining queued files, one concept at a time — read each fully first, tailor camera +
 expression to its world, keep every frame distinct with subconscious continuity, then
 commit and push each and tick it off the progress tracker."
+
+
+====================================================================
+## PROGRESS TRACKER (advanced video-prompt rebuild)
+====================================================================
+DONE (section B advanced rebuild applied + verified + pushed to aira-prompts-enhanced):
+- CONCEPTS/Heavy-Detail/20 Beauty Ad Reels — COMPLETE (20 concepts, 129 video prompts).
+- CONCEPTS/20 Cinematic Reels New Set.txt — COMPLETE (20 concepts, 123 video prompts).
+  Format note: this file uses a RICHER per-frame structure than Beauty Ad — image prompts
+  use `ANGLE & SHOT SIZE:` (not `FRAMING:`) and ALREADY had `SUBJECT FRAMING & POSITION` +
+  ORIENTATION LOCK from the earlier global pass (so no image edits were needed). Video
+  prompts used `SHOT TYPE & ANGLE` / `CAMERA MOVEMENT (CHOREOGRAPHY)` / `SUBJECT ACTION w/
+  BEAT-TIMING` plus extra physics sections (FLUIDITY & WEIGHT, FABRIC/HAIR/PROP PHYSICS,
+  FOOTWORK & BODY FLOW, TRANSITION, LIGHTING-IN-MOTION, AUDIO, LOOP LOGIC).
+  Adaptation of section B for this format: removed the standalone `CAMERA MOVEMENT
+  (CHOREOGRAPHY)` line (camera now lives in the breakdown), replaced `SUBJECT ACTION w/
+  BEAT-TIMING` with a tailored timed 3-beat `SHOT BREAKDOWN (6s ... never slow-motion ...)`
+  (each beat = shot/angle + action + world interaction + eye-led expression + camera move,
+  already-in-motion starts, camera variety beyond push), and inserted the standard
+  `FRAME RATE + MOTION BLUR: 24fps ...` + `DURATION: 6 seconds ...` lines. All other
+  rich sections were PRESERVED (additive-only). SPOKEN-frame `SPOKEN LINE (...)` dialogue
+  preserved in all 12 spoken concepts. Verified: 0 leftover SUBJECT ACTION, 0 standalone
+  CAMERA MOVEMENT, 123 SHOT BREAKDOWN == 123 video prompts == 123 FRAME RATE == 123
+  DURATION 6s == 123 identity locks; 123 image ORIENTATION LOCKs intact; no non-negated
+  slow-mo. Reusable engine: `_tools/newset_rebuild.py` (BEATS dict per concept + region
+  surgery, idempotent; run `python3 _tools/newset_rebuild.py N`).
+
+NEXT IN QUEUE: 20 Full Reel Concepts Set 4 (51-70) — couture-material transforms.
+(Remaining queue unchanged below in section E; each file may need a format-specific
+adaptation of the section-B method like the one documented above.)
