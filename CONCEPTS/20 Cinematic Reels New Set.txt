@@ -6582,14 +6582,16 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE & ANGLE: wide, subject fills ~35%.
 
-CAMERA MOVEMENT (CHOREOGRAPHY): a slow glide-in down the aisle toward her, gimbal-smooth.
-
 LENS: 28mm, f/3.2.
 
-SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.2s — she steps into the arcade, scanning.
-- 2.2–4.4s — she slips on a sneaker and pockets the token.
-- 4.4–6.0s — she steps toward a glowing cabinet button.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Wide establishing down the glowing arcade aisle: she is already stepping in between the cabinets as a slow glide-in moves toward her, CRT glow and laser-grid behind; eyes scanning the neon with cool delight.
+- [00:02–00:04] The glide carries closer as she slips on a sneaker at a cabinet step and pockets the token, the checkerboard floor lit beneath; a playful set to her mouth.
+- [00:04–00:06] She steps toward a big glowing cabinet button, eyes locking onto it with mischievous anticipation.
+
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
+
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
 FLUIDITY & WEIGHT NOTES: the step and sneaker-on flow continuously from the core; the move to the cabinet leads from the shoulder — cool and fluid, never static.
 
@@ -6656,14 +6658,16 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE & ANGLE: macro, detail fills ~70%.
 
-CAMERA MOVEMENT (CHOREOGRAPHY): a slow 4% push toward the button as she presses, locked otherwise.
-
 LENS: 100mm macro, f/2.8.
 
-SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.2s — her finger descends to the button.
-- 2.2–4.2s — she presses and the glow surges.
-- 4.2–6.0s — the glow flares as the first decade-shift triggers.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Extreme macro: her finger is already descending toward the big glowing arcade button as a slow push closes in, light pooling beneath the fingertip.
+- [00:02–00:04] She presses and the glow surges up around her fingertip, the button depressing.
+- [00:04–00:06] The glow flares and a scanline ripple breaks outward as the first decade-shift triggers.
+
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
+
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
 FLUIDITY & WEIGHT NOTES: the press is crisp and continuous; the finger articulates cleanly; no jerk.
 
@@ -6730,14 +6734,16 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE & ANGLE: profile medium, subject fills ~55%.
 
-CAMERA MOVEMENT (CHOREOGRAPHY): a slow arc from profile toward three-quarter as the glitch sweeps, smooth.
-
 LENS: 50mm, f/2.2.
 
-SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.5s — the glitch triggers.
-- 1.5–3.6s — the scanline-wipe shifts her to the 80s look and re-tints the arcade.
-- 3.6–6.0s — she reacts with a delighted grin, checking the new look.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Profile medium: the glitch is already triggering as a slow arc swings from profile toward three-quarter, a scanline ripple breaking across her body; gaze flicking down at herself.
+- [00:02–00:04] The scanline-wipe shifts her 70s jumpsuit to the 80s power-blazer and re-tints the arcade magenta-cyan; eyes widening with playful surprise.
+- [00:04–00:06] She reacts with a delighted grin, checking the new look, cheeks lifting in bright amusement.
+
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
+
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
 FLUIDITY & WEIGHT NOTES: the surprise lifts through the spine continuously; the look-down at the new outfit flows naturally — reactive and alive.
 
@@ -6804,14 +6810,16 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE & ANGLE: low-angle close-up, subject fills ~60%.
 
-CAMERA MOVEMENT (CHOREOGRAPHY): a slow rise-and-push from below to eye-level as the glitch completes, one smooth crane.
-
 LENS: 50mm, f/1.8.
 
-SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.5s — the second press/glitch triggers.
-- 1.5–3.6s — the green glitch sweeps up and the arcade re-tints.
-- 3.6–6.0s — a confident smirk and a slow delighted blink.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Low-angle close-up on her face and shoulder: the second press glitches as a smooth crane begins to rise from below toward eye-level; gaze catching the green flicker.
+- [00:02–00:04] The grunge-green glitch sweeps up her body and the arcade re-tints as the crane lifts; eyes following the colour, lips curving.
+- [00:04–00:06] At eye-level a confident playful smirk lands with a slow, delighted blink.
+
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
+
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
 FLUIDITY & WEIGHT NOTES: the chin-lift and shoulder-roll flow continuously; the smirk blooms gradually; breath visible — supremely alive.
 
@@ -6878,14 +6886,16 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE & ANGLE: front-on full/wide hero, subject fills ~50%.
 
-CAMERA MOVEMENT (CHOREOGRAPHY): a slow settling 3% push to dead-front, near-locked, letting her own the frame.
-
 LENS: 28mm, f/3.2.
 
-SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.0s — she settles into the now-look, hand to hip.
-- 2.0–4.0s — she gestures to the decade-ghosts in the CRTs.
-- 4.0–6.0s — she delivers the line to lens with a radiant smile.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Front-on full/wide hero: she is already settling into the clean-now look, hand finding her hip, as a slow push eases toward dead-front; gaze cool and pleased.
+- [00:02–00:04] She gestures to the faint decade-ghosts glitching in the CRTs behind, eyes flicking across them with playful pride.
+- [00:04–00:06] She turns fully to lens and delivers the spoken line with a radiant smile, brows lifting in playful confidence.
+
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
+
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
 SPOKEN LINE (lands ~4.6s): "every era looks good on me." (English, natural Indian accent, warm and playful)
 
@@ -6954,14 +6964,16 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE & ANGLE: wide matching Frame 1, subject ~35%.
 
-CAMERA MOVEMENT (CHOREOGRAPHY): a slow glide-out down the aisle reversing Frame 1's glide-in, so the end pose meets the opening.
-
 LENS: 28mm, f/3.2.
 
-SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.3s — she turns back down the aisle.
-- 2.3–4.7s — the now-look glitches back to the 70s jumpsuit and the token returns to her hand.
-- 4.7–6.0s — she settles into the Frame 1 stance.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Wide matching Frame 1: a slow glide-out down the aisle is already reversing the opening glide-in as she turns back; gaze sweeping the cabinets.
+- [00:02–00:04] The glide continues as the now-look glitches back to the 70s jumpsuit and the token returns to her hand; a cool playful smile returning.
+- [00:04–00:06] She settles into the exact stance of Frame 1 in the aisle, eyes bright on the neon — a seamless loop seam.
+
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
+
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
 FLUIDITY & WEIGHT NOTES: the turn-back is a smooth hip-led rotation; the reverse-glitch flows as a scanline-wipe; the reset reads as natural continuation, not a rewind.
 

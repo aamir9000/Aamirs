@@ -874,6 +874,64 @@ BEATS[13] = [
 ]
 
 
+BEATS[14] = [
+    # Frame 1 - wide establishing, stepping into arcade
+    (
+        "Wide establishing down the glowing arcade aisle: she is already stepping in between "
+        "the cabinets as a slow glide-in moves toward her, CRT glow and laser-grid behind; "
+        "eyes scanning the neon with cool delight.",
+        "The glide carries closer as she slips on a sneaker at a cabinet step and pockets "
+        "the token, the checkerboard floor lit beneath; a playful set to her mouth.",
+        "She steps toward a big glowing cabinet button, eyes locking onto it with "
+        "mischievous anticipation.",
+    ),
+    # Frame 2 - macro on finger pressing button (no face)
+    (
+        "Extreme macro: her finger is already descending toward the big glowing arcade "
+        "button as a slow push closes in, light pooling beneath the fingertip.",
+        "She presses and the glow surges up around her fingertip, the button depressing.",
+        "The glow flares and a scanline ripple breaks outward as the first decade-shift "
+        "triggers.",
+    ),
+    # Frame 3 - profile medium, SHIFT 1 70s->80s
+    (
+        "Profile medium: the glitch is already triggering as a slow arc swings from profile "
+        "toward three-quarter, a scanline ripple breaking across her body; gaze flicking "
+        "down at herself.",
+        "The scanline-wipe shifts her 70s jumpsuit to the 80s power-blazer and re-tints the "
+        "arcade magenta-cyan; eyes widening with playful surprise.",
+        "She reacts with a delighted grin, checking the new look, cheeks lifting in bright "
+        "amusement.",
+    ),
+    # Frame 4 - low-angle close-up, SHIFT 2 80s->90s
+    (
+        "Low-angle close-up on her face and shoulder: the second press glitches as a smooth "
+        "crane begins to rise from below toward eye-level; gaze catching the green flicker.",
+        "The grunge-green glitch sweeps up her body and the arcade re-tints as the crane "
+        "lifts; eyes following the colour, lips curving.",
+        "At eye-level a confident playful smirk lands with a slow, delighted blink.",
+    ),
+    # Frame 5 - front-on full/wide hero (SPOKEN)
+    (
+        "Front-on full/wide hero: she is already settling into the clean-now look, hand "
+        "finding her hip, as a slow push eases toward dead-front; gaze cool and pleased.",
+        "She gestures to the faint decade-ghosts glitching in the CRTs behind, eyes flicking "
+        "across them with playful pride.",
+        "She turns fully to lens and delivers the spoken line with a radiant smile, brows "
+        "lifting in playful confidence.",
+    ),
+    # Frame 6 - wide loop close
+    (
+        "Wide matching Frame 1: a slow glide-out down the aisle is already reversing the "
+        "opening glide-in as she turns back; gaze sweeping the cabinets.",
+        "The glide continues as the now-look glitches back to the 70s jumpsuit and the token "
+        "returns to her hand; a cool playful smile returning.",
+        "She settles into the exact stance of Frame 1 in the aisle, eyes bright on the neon "
+        "\u2014 a seamless loop seam.",
+    ),
+]
+
+
 def build_block(beats):
     # Replaces ONLY the `SUBJECT ACTION w/ BEAT-TIMING:` header + its bullet
     # beat lines. Whatever follows (a blank line then SPOKEN LINE or
