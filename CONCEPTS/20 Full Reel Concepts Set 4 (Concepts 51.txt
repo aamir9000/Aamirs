@@ -3126,13 +3126,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: medium-full three-quarter hero before the mosaic wall.
 
-CAMERA MOVEMENT: a single slow 8% push-in, otherwise locked-off and stable — one move, no transform yet.
-
 LENS: 50mm, f/2.5.
 
-SUBJECT ACTION WITH TIMING:
-- 0.0–3.0s — Aira holds the balm pot to her collarbone, the slip breathing, incense haze drifting through the candle glow, and lifts her eyes to the lens with a warm serene smile.
-- 3.0–6.0s — she begins a slow graceful quarter-turn, a honeyed sheen travelling the slip. One serene beat, real physics.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Medium-full three-quarter hero before the antique-gold mosaic wall: a slow push-in is already gliding toward her as she holds the balm pot to her collarbone, the ivory slip breathing and incense haze drifting through candle glow; she lifts her eyes to lens with a warm serene smile.
+- [00:02–00:04] The push continues as she begins a graceful quarter-turn, a honeyed sheen travelling the slip; gaze easing to lens, lashes soft.
+- [00:04–00:06] She settles mid-turn, weight rolling onto the front foot, a warm opulent calm holding as candle flames flicker behind.
 
 LIGHTING: soft warm candlelight key, warm fill, gold rim; the candle-flames flickering steady.
 
@@ -3140,9 +3139,9 @@ ENVIRONMENT: candlelit mosaic chapel, antique-gold walls, lapis-and-teal tessera
 
 AUDIO: diegetic-plus-design, no spoken word. Ambient bed — a low warm chapel room-tone with a faint candle-crackle, very low and steady. SFX — a soft glass-and-metal tap as her fingers settle on the gold lid at 0.5s, a faint silk shift at 3.1s, a warm soft chime accent on the turn at 3.6s. Reaction — a soft breath at 2.6s. VO — none. The master track enters here soft and ambient (low and subtle, never full).
 
-DURATION: 5 seconds (0:00–0:05 of 30s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps, 180° shutter, gentle natural motion blur on the turn.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — a serene closed-lip smile.
 
@@ -3193,14 +3192,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: full-figure transform hero, slightly low angle.
 
-CAMERA MOVEMENT: a slow controlled arc following the tiling up her body, smooth and motivated — one move, no whip.
-
 LENS: 50mm, f/2.5.
 
-SUBJECT ACTION WITH TIMING:
-- 0.0–1.5s — the first tiny tesserae alight onto the hem and bodice seams.
-- 1.5–4.0s — thousands of tesserae fly in and tile across her along clean mosaic lines, locking grout-tight as Aira watches with an awed breath.
-- 4.0–6.0s — the last panels lock and the mosaic gown settles, her recognizable face landing a warm luminous look. Only the crossing is impossible; everything else obeys real physics.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Full-figure from a slightly low angle: a slow controlled arc is already rising as the first tiny tesserae alight onto the hem and bodice seams; gaze tracking the alighting tiles, eyes brightening.
+- [00:02–00:04] The arc rides the tiling up her body as thousands of tesserae fly in along clean mosaic lines and lock grout-tight; an awed breath, brows lifting in wonder.
+- [00:04–00:06] The last panels lock and the mosaic gown settles as the arc eases; a warm luminous look landing, eyes alight on the lapis-and-gold tesserae.
 
 LIGHTING: warm candlelight key with a jewel-and-gold kick on the tesserae, warm fill, gold rim; deep and steady.
 
@@ -3208,9 +3205,9 @@ ENVIRONMENT: mosaic chapel, glowing gold walls, streaming tesserae, candle warmt
 
 AUDIO: diegetic-plus-design, no spoken word. Ambient bed — the warm chapel tone with a soft choral rise under the crossing. SFX — a soft glassy tessera-alight shimmer 0.0–1.5s, a delicate sequence of tiny glass tile-clicks-and-settles as the mosaic tiles and locks 1.5–4.0s, a warm settle-resonance as the gown locks at 5.6s. Reaction — a soft awed breath at 1.4s. VO — none. Master track lifts gently under the transform then eases (subtle, never full).
 
-DURATION: 6 seconds (0:05–0:11 of 30s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps, 180° shutter, natural motion blur on the tiling and arc.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — lips part on the awed breath, no words.
 
@@ -3259,14 +3256,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: beauty close, chest-up, product-at-face.
 
-CAMERA MOVEMENT: a slow 6% push-in to the face, locked otherwise.
-
 LENS: 85mm, f/2.5.
 
-SUBJECT ACTION WITH TIMING:
-- 0.0–2.4s — she dips a fingertip into the open pot and lifts it, the jewel-toned balm catching candlelight.
-- 2.4–4.8s — she presses it to the high of her cheekbone, a warm gold-fleck sheen blooming as a small smile begins.
-- 4.8–6.0s — she lowers the hand a touch, eyes lifting. One warm beat, real physics.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Beauty close, chest-up at a three-quarter: a slow push toward her face is already gliding in as she dips a fingertip into the open pot and lifts it, the jewel-toned balm catching candlelight; eyes lowered to the gesture.
+- [00:02–00:04] She presses it to the high of her cheekbone and a warm gold-fleck sheen blooms, the push settling; a small smile beginning, gaze warming.
+- [00:04–00:06] She lowers the hand a touch and lifts her eyes, the mosaic bodice glinting, a warm calm in her gaze.
 
 LIGHTING: warm candlelight beauty key, warm fill, gold rim; a live specular travelling the gold lid and the cheekbone sheen as she moves.
 
@@ -3274,9 +3269,9 @@ ENVIRONMENT: mosaic chapel, blurred gold walls, candle warmth, incense haze.
 
 AUDIO: diegetic-plus-design, no spoken word. Ambient bed — the warm chapel tone, low. SFX — a soft gold-lid twist-and-set at 0.7s, a faint fingertip-to-skin press at 2.6s, a warm soft shimmer as the sheen catches light at 3.4s. Reaction — a soft warm breath at 3.8s. VO — none. Master track stays low and ambient (subtle, never full).
 
-DURATION: 5 seconds (0:11–0:16 of 30s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps, 180° shutter, gentle motion blur on the hand.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — a warm serene set.
 
@@ -3327,14 +3322,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: beauty close, chest-up, direct address.
 
-CAMERA MOVEMENT: locked-off and stable, a barely-there 4% push — no movement that competes with the line.
-
 LENS: 85mm, f/2.5.
 
-SUBJECT ACTION WITH TIMING:
-- 0.0–0.9s — she settles, eyes finding the lens with a serene knowing smile.
-- 0.9–3.6s — she delivers "set in gold." with natural lip-sync and a gentle brow lift, presenting the pot at her chest.
-- 3.6–6.0s — the smile lands and holds, a warm blink. One clean delivery, real physics.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Beauty close, chest-up squared to lens: the camera is already settled on a barely-there push as her eyes find the lens with a serene knowing smile, the balm pot presented at her chest.
+- [00:02–00:04] She delivers “set in gold.” with natural lip-sync and a gentle brow lift, eyes bright and direct, the candlelit mosaic glowing behind.
+- [00:04–00:06] The smile lands and holds with a warm blink, gaze staying eye-to-eye.
 
 LIGHTING: warm candlelight beauty key, warm fill, gold rim; steady, no flicker.
 
@@ -3342,9 +3335,9 @@ ENVIRONMENT: mosaic chapel, blurred gold walls behind, candle warmth, incense ha
 
 AUDIO: diegetic-plus-design with spoken word. Ambient bed — the warm chapel tone, low. SFX — a faint warm air-tail around the voice, a soft glass touch on the pot at 0.6s. VO — Aira, English with a natural Indian accent, warm and serene: "set in gold." delivered 0.9–3.6s, clean and intimate, sitting above the bed. Master track ducks under the voice and stays low (subtle, never full).
 
-DURATION: 4 seconds (0:16–0:20 of 30s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps, 180° shutter, gentle natural motion blur.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: precise lip-sync to "set in gold." across 0.9–3.6s; natural jaw and lip shapes, no drift.
 
@@ -3395,15 +3388,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: full-figure magical hero, slightly low angle.
 
-CAMERA MOVEMENT: a slow majestic push-in with a gentle rise ( + slight boom) tracking the bloom — one smooth motivated move.
-
 LENS: 35mm, f/2.2.
 
-SUBJECT ACTION WITH TIMING:
-- 0.0–0.6s — a gold tessera at her heart kindles with a warm inner light.
-- 0.6–2.2s — the light sweeps across the mosaic and bursts outward as a shimmer of floating gold-and-jewel light-tiles, the gown blazing as she lifts her eyes into the light.
-- 2.2–4.2s — the light-tiles and motes drift out, easing to a sustained gilded halo, her radiant smile landing.
-- 4.2–6.0s — she holds, haloed and serene. Only the bloom is impossible; all else real physics.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Full-figure magical hero from a slightly low angle: a slow majestic push-in with a gentle boom-rise is already lifting as a gold tessera at her heart kindles with a warm inner light; gaze drawn to the kindling tile.
+- [00:02–00:04] The boom keeps rising as the light sweeps across the mosaic and bursts outward as a shimmer of floating gold-and-jewel light-tiles, the gown blazing; eyes lifting into the light, a radiant awe blooming.
+- [00:04–00:06] The light-tiles and motes drift out, easing to a sustained gilded halo as the move settles; her radiant smile landing, eyes serene and haloed.
 
 LIGHTING: the shimmer-bloom as a live warm key, gold rim, warm floor fill rising; controlled, no clipping.
 
@@ -3411,9 +3401,9 @@ ENVIRONMENT: mosaic chapel blooming with caught light, gold walls flaring, drift
 
 AUDIO: diegetic-plus-design, no spoken word. Ambient bed — the warm chapel tone blooming into a wide warm string-and-choral swell cresting at the bloom then settling. SFX — a soft warm ignition-chime at the heart 0.2s, a bright shimmer with a fine glass-tile-sparkle sequence tracking the bursting light-tiles 0.6–2.2s, gentle warm motes sparkling 1.4–3.0s, a warm resonance under the settle. Reaction — a soft awed breath at 1.9s. VO — none. Master track rises to its fullest-but-still-restrained moment under the bloom then eases (subtle, never full).
 
-DURATION: 5 seconds (0:20–0:25 of 30s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps, 180° shutter, natural motion blur on the bloom and drifting light-tiles.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — lips part on the awed breath and smile, no words.
 
@@ -3464,14 +3454,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: medium-full three-quarter hero before the mosaic wall — matched to Frame 1 for the loop.
 
-CAMERA MOVEMENT: a slow settle-back to the opening framing (gentle pull matching Frame 1's start position), locked otherwise — ending exactly where the reel began.
-
 LENS: 50mm, f/2.5.
 
-SUBJECT ACTION WITH TIMING:
-- 0.0–2.4s — the gilded glow fades and the last light-tiles drift down as she returns the pot to her collarbone.
-- 2.4–4.8s — her smile eases to the serene calm of the opening.
-- 4.8–6.0s — she lifts her eyes softly to the lens, landing precisely on the Frame 1 pose for a seamless loop. Real physics throughout.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Medium-full three-quarter hero matching Frame 1: a slow settle-back is already easing the framing toward the opening position as the gilded glow fades and the last light-tiles drift down; she returns the pot to her collarbone, gaze softening.
+- [00:02–00:04] The pull continues as her smile eases to the serene calm of the opening and the mosaic gown softens back toward the ivory slip's stillness; eyes calming.
+- [00:04–00:06] She lifts her eyes softly to the lens, landing precisely on the Frame 1 pose, weight settled before the mosaic wall — a seamless loop seam.
 
 LIGHTING: the warm candlelight key restored, warm fill, gold rim; steady, easing back to the opening level.
 
@@ -3479,9 +3467,9 @@ ENVIRONMENT: mosaic chapel restored to the opening tableau, gold walls, last lig
 
 AUDIO: diegetic-plus-design, no spoken word. Ambient bed — the warm chapel tone and candle-crackle easing back down to the soft opening level, looping cleanly into Frame 1's bed. SFX — a warm resonance fading 0.0–2.4s, a soft glass-and-metal tap at 5.3s matching the opening's 0.5s cue for the loop seam. Reaction — a soft calm breath at 2.9s. VO — none. Master track resolves and eases to the soft ambient level it began on for a clean loop (subtle, never full).
 
-DURATION: 5 seconds (0:25–0:30 of 30s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps, 180° shutter, gentle cinematic motion blur.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — a serene closed-lip smile, matched to the opening.
 

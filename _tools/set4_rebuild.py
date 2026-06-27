@@ -511,6 +511,72 @@ BEATS[57] = [
 ]
 
 
+BEATS[58] = [
+    # F1 - medium-full three-quarter hero before mosaic wall (push-in)
+    (
+        "Medium-full three-quarter hero before the antique-gold mosaic wall: a slow push-in "
+        "is already gliding toward her as she holds the balm pot to her collarbone, the "
+        "ivory slip breathing and incense haze drifting through candle glow; she lifts her "
+        "eyes to lens with a warm serene smile.",
+        "The push continues as she begins a graceful quarter-turn, a honeyed sheen "
+        "travelling the slip; gaze easing to lens, lashes soft.",
+        "She settles mid-turn, weight rolling onto the front foot, a warm opulent calm "
+        "holding as candle flames flicker behind.",
+    ),
+    # F2 - full-figure transform, slightly low angle (arc following the tiling up)
+    (
+        "Full-figure from a slightly low angle: a slow controlled arc is already rising as "
+        "the first tiny tesserae alight onto the hem and bodice seams; gaze tracking the "
+        "alighting tiles, eyes brightening.",
+        "The arc rides the tiling up her body as thousands of tesserae fly in along clean "
+        "mosaic lines and lock grout-tight; an awed breath, brows lifting in wonder.",
+        "The last panels lock and the mosaic gown settles as the arc eases; a warm luminous "
+        "look landing, eyes alight on the lapis-and-gold tesserae.",
+    ),
+    # F3 - beauty close, product-at-face (6% push to face)
+    (
+        "Beauty close, chest-up at a three-quarter: a slow push toward her face is already "
+        "gliding in as she dips a fingertip into the open pot and lifts it, the jewel-toned "
+        "balm catching candlelight; eyes lowered to the gesture.",
+        "She presses it to the high of her cheekbone and a warm gold-fleck sheen blooms, the "
+        "push settling; a small smile beginning, gaze warming.",
+        "She lowers the hand a touch and lifts her eyes, the mosaic bodice glinting, a warm "
+        "calm in her gaze.",
+    ),
+    # F4 - beauty close, direct address (SPOKEN)
+    (
+        "Beauty close, chest-up squared to lens: the camera is already settled on a "
+        "barely-there push as her eyes find the lens with a serene knowing smile, the balm "
+        "pot presented at her chest.",
+        "She delivers \u201cset in gold.\u201d with natural lip-sync and a gentle brow lift, "
+        "eyes bright and direct, the candlelit mosaic glowing behind.",
+        "The smile lands and holds with a warm blink, gaze staying eye-to-eye.",
+    ),
+    # F5 - full-figure magical hero, gilded light-tile bloom (majestic push + boom-rise)
+    (
+        "Full-figure magical hero from a slightly low angle: a slow majestic push-in with a "
+        "gentle boom-rise is already lifting as a gold tessera at her heart kindles with a "
+        "warm inner light; gaze drawn to the kindling tile.",
+        "The boom keeps rising as the light sweeps across the mosaic and bursts outward as a "
+        "shimmer of floating gold-and-jewel light-tiles, the gown blazing; eyes lifting into "
+        "the light, a radiant awe blooming.",
+        "The light-tiles and motes drift out, easing to a sustained gilded halo as the move "
+        "settles; her radiant smile landing, eyes serene and haloed.",
+    ),
+    # F6 - loop close, matched to F1 (settle-back)
+    (
+        "Medium-full three-quarter hero matching Frame 1: a slow settle-back is already "
+        "easing the framing toward the opening position as the gilded glow fades and the "
+        "last light-tiles drift down; she returns the pot to her collarbone, gaze "
+        "softening.",
+        "The pull continues as her smile eases to the serene calm of the opening and the "
+        "mosaic gown softens back toward the ivory slip's stillness; eyes calming.",
+        "She lifts her eyes softly to the lens, landing precisely on the Frame 1 pose, "
+        "weight settled before the mosaic wall \u2014 a seamless loop seam.",
+    ),
+]
+
+
 def build_block(beats):
     # Replaces ONLY the `SUBJECT ACTION WITH TIMING:` header + its bullet beat
     # lines. Ends with a single trailing newline so the original blank line
