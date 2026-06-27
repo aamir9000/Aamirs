@@ -1182,6 +1182,79 @@ BEATS[18] = [
 ]
 
 
+BEATS[19] = [
+    # Frame 1 - wide establishing, spotlight
+    (
+        "Wide establishing of the vast stage: she is already stepping into the single "
+        "spotlight centre-stage as a slow glide-in moves toward her, crimson curtains "
+        "towering and empty seats fading into warm dark; gaze sweeping the house.",
+        "The glide carries closer as she slips on a gold-ribboned dance shoe and lowers the "
+        "fine stage-glasses, dust-motes drifting in the beam; a poised dramatic calm in her "
+        "eyes.",
+        "She lifts the fan and settles into an opening stance, gaze steadying to the dark "
+        "house with quiet command.",
+    ),
+    # Frame 2 - macro on shoe rising (no face)
+    (
+        "Extreme macro on the gold-ribboned dance shoe: the foot is already pointing as a "
+        "slow push closes in, the spotlight raking the floor.",
+        "It rises onto the ball of the foot, the ribbon flexing and the arch arcing high.",
+        "She holds the releve as the dance begins, her single crisp shadow rising on the "
+        "floor beside it.",
+    ),
+    # Frame 3 - profile medium, mid-phrase
+    (
+        "Profile medium: she is already sweeping the fan and extending one arm into the "
+        "phrase as a slow arc swings from profile toward three-quarter, the practice skirt "
+        "sweeping; gaze tracing her own line.",
+        "She carries the phrase through a turn-prep, her single shadow crisp on the velvet "
+        "curtain, the arc easing round; eyes intent and expressive.",
+        "She launches into the turn toward the shadow-split, gaze sweeping with the spin, "
+        "breath lifting.",
+    ),
+    # Frame 4 - front-on full hero, shadow-split transform
+    (
+        "Front-on full hero, spinning centred: she is already launching the turn with the "
+        "skirt flaring as a smooth orbit glides around her, the spotlight hard behind; gaze "
+        "sweeping with the spin.",
+        "At the apex the spotlight splits her shadow into a second dancing silhouette on the "
+        "velvet curtain as the orbit keeps gliding; eyes widening in dramatic wonder, lips "
+        "parting.",
+        "Her arms bloom and both shadows dance in mirror, a thrilled awed expression "
+        "landing, eyes alight.",
+    ),
+    # Frame 5 - 3/4 front cowboy/full, re-merge / couture transform
+    (
+        "Three-quarter front cowboy/full, settling centred: the second shadow is already "
+        "catching up to her as a smooth ease-in moves toward her; gaze drawn to the "
+        "converging silhouette.",
+        "It re-merges and the woven shadow-and-light couture gown resolves around her in "
+        "gold-and-black panels; eyes softening in radiant awe, lips parting.",
+        "She settles into a poised theatrical line, a radiant awed smile arriving as the "
+        "ease-in locks, eyes luminous.",
+    ),
+    # Frame 6 - low-angle medium, bow (SPOKEN)
+    (
+        "Low-angle medium: she is already sweeping into a graceful bow in the couture gown "
+        "as a slow rise begins from the low angle, the spotlight haloing her; gaze lowering "
+        "with the bow.",
+        "She rises from the bow as the camera lifts to eye-level, the train settling behind "
+        "her; eyes lifting to lens.",
+        "She delivers the spoken line to lens with a radiant expressive smile, brows lifting "
+        "in warm theatricality.",
+    ),
+    # Frame 7 - wide loop close
+    (
+        "Wide matching Frame 1: a slow glide-out is already reversing the opening glide-in "
+        "as she returns toward her opening stance; gaze sweeping back to the house.",
+        "The glide continues as the couture gown softens back into the rehearsal set and the "
+        "second shadow fades to one; a poised dramatic calm returning.",
+        "She settles into the exact opening stance of Frame 1 in the spotlight, eyes steady "
+        "on the dark house \u2014 a seamless loop seam.",
+    ),
+]
+
+
 def build_block(beats):
     # Replaces ONLY the `SUBJECT ACTION w/ BEAT-TIMING:` header + its bullet
     # beat lines. Whatever follows (a blank line then SPOKEN LINE or

@@ -9058,14 +9058,16 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE & ANGLE: wide, subject fills ~28%.
 
-CAMERA MOVEMENT (CHOREOGRAPHY): a slow glide-in toward the spotlight, gimbal-smooth.
-
 LENS: 28mm, f/3.2.
 
-SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.2s — she steps into the beam, scanning the house.
-- 2.2–4.4s — she slips on a dance shoe and lowers the glasses.
-- 4.4–6.0s — she lifts the fan and settles into an opening stance.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Wide establishing of the vast stage: she is already stepping into the single spotlight centre-stage as a slow glide-in moves toward her, crimson curtains towering and empty seats fading into warm dark; gaze sweeping the house.
+- [00:02–00:04] The glide carries closer as she slips on a gold-ribboned dance shoe and lowers the fine stage-glasses, dust-motes drifting in the beam; a poised dramatic calm in her eyes.
+- [00:04–00:06] She lifts the fan and settles into an opening stance, gaze steadying to the dark house with quiet command.
+
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
+
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
 FLUIDITY & WEIGHT NOTES: the step and shoe-on flow continuously from the core; the fan-lift leads from the shoulder — balletic, never static.
 
@@ -9132,14 +9134,16 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE & ANGLE: macro, detail fills ~70%.
 
-CAMERA MOVEMENT (CHOREOGRAPHY): a slow 4% push toward the shoe as it rises, locked otherwise.
-
 LENS: 100mm macro, f/2.8.
 
-SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.2s — the foot points.
-- 2.2–4.2s — it rises onto the ball, ribbon flexing.
-- 4.2–6.0s — she holds the releve as the dance begins.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Extreme macro on the gold-ribboned dance shoe: the foot is already pointing as a slow push closes in, the spotlight raking the floor.
+- [00:02–00:04] It rises onto the ball of the foot, the ribbon flexing and the arch arcing high.
+- [00:04–00:06] She holds the releve as the dance begins, her single crisp shadow rising on the floor beside it.
+
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
+
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
 FLUIDITY & WEIGHT NOTES: the rise is smooth and continuous; the ankle articulates cleanly; no wobble-jerk, pure balletic control.
 
@@ -9206,14 +9210,16 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE & ANGLE: profile medium, subject fills ~55%.
 
-CAMERA MOVEMENT (CHOREOGRAPHY): a slow arc from profile toward three-quarter following the dance phrase, smooth.
-
 LENS: 50mm, f/2.2.
 
-SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.2s — she sweeps the fan and extends the arm.
-- 2.2–4.2s — she carries the phrase through a turn-prep.
-- 4.2–6.0s — she launches into the turn toward the shadow-split.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Profile medium: she is already sweeping the fan and extending one arm into the phrase as a slow arc swings from profile toward three-quarter, the practice skirt sweeping; gaze tracing her own line.
+- [00:02–00:04] She carries the phrase through a turn-prep, her single shadow crisp on the velvet curtain, the arc easing round; eyes intent and expressive.
+- [00:04–00:06] She launches into the turn toward the shadow-split, gaze sweeping with the spin, breath lifting.
+
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
+
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
 FLUIDITY & WEIGHT NOTES: the sweep, the extension, the turn-prep flow as one continuous expressive phrase; no stiffness.
 
@@ -9280,14 +9286,16 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE & ANGLE: front-on full hero, subject fills ~55%, spinning centred.
 
-CAMERA MOVEMENT (CHOREOGRAPHY): a smooth orbit that SLOWS at the apex as the shadow splits, then eases on — a theatrical bullet-time.
-
 LENS: 35mm, f/2.8.
 
-SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.7s — she launches the turn, skirt flaring.
-- 1.7–4.0s — at the apex the spotlight splits her shadow into a second dancing silhouette.
-- 4.0–6.0s — arms bloom, both shadows dance in mirror.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Front-on full hero, spinning centred: she is already launching the turn with the skirt flaring as a smooth orbit glides around her, the spotlight hard behind; gaze sweeping with the spin.
+- [00:02–00:04] At the apex the spotlight splits her shadow into a second dancing silhouette on the velvet curtain as the orbit keeps gliding; eyes widening in dramatic wonder, lips parting.
+- [00:04–00:06] Her arms bloom and both shadows dance in mirror, a thrilled awed expression landing, eyes alight.
+
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
+
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
 FLUIDITY & WEIGHT NOTES: one unbroken spinning phrase — the spin leads from the core, arms unfurl last; momentum carries continuously — supremely fluid, never a dead stop.
 
@@ -9354,14 +9362,16 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE & ANGLE: three-quarter front cowboy/full, subject fills ~55%, settling centred.
 
-CAMERA MOVEMENT (CHOREOGRAPHY): a smooth ease-in toward her as the shadow re-merges and the gown resolves, near-locked at the end.
-
 LENS: 35mm, f/2.8.
 
-SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.7s — the second shadow catches up.
-- 1.7–4.0s — it re-merges and the couture gown resolves.
-- 4.0–6.0s — she settles into a poised line, a radiant awed smile.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Three-quarter front cowboy/full, settling centred: the second shadow is already catching up to her as a smooth ease-in moves toward her; gaze drawn to the converging silhouette.
+- [00:02–00:04] It re-merges and the woven shadow-and-light couture gown resolves around her in gold-and-black panels; eyes softening in radiant awe, lips parting.
+- [00:04–00:06] She settles into a poised theatrical line, a radiant awed smile arriving as the ease-in locks, eyes luminous.
+
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
+
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
 FLUIDITY & WEIGHT NOTES: the settle is a soft exhale of motion from the spin; the gown-resolve flows continuously; no abrupt stop.
 
@@ -9428,14 +9438,16 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE & ANGLE: low-angle medium, subject fills ~50%.
 
-CAMERA MOVEMENT (CHOREOGRAPHY): a slow rise from the low angle to eye-level as she rises from the bow, near-locked as she speaks.
-
 LENS: 35mm, f/2.8.
 
-SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.0s — she sweeps into a graceful bow.
-- 2.0–4.0s — she rises, the train settling.
-- 4.0–6.0s — she delivers the line to lens with a radiant smile.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Low-angle medium: she is already sweeping into a graceful bow in the couture gown as a slow rise begins from the low angle, the spotlight haloing her; gaze lowering with the bow.
+- [00:02–00:04] She rises from the bow as the camera lifts to eye-level, the train settling behind her; eyes lifting to lens.
+- [00:04–00:06] She delivers the spoken line to lens with a radiant expressive smile, brows lifting in warm theatricality.
+
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
+
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
 SPOKEN LINE (lands ~4.6s): "even my shadow loves to dance." (English, natural Indian accent, warm and expressive)
 
@@ -9504,14 +9516,16 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE & ANGLE: wide matching Frame 1, subject ~28%.
 
-CAMERA MOVEMENT (CHOREOGRAPHY): a slow glide-out reversing Frame 1's glide-in, so the end pose meets the opening.
-
 LENS: 28mm, f/3.2.
 
-SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.3s — she returns toward her opening stance.
-- 2.3–4.7s — the couture gown softens back to the rehearsal set and the second shadow fades to one.
-- 4.7–6.0s — she settles into the Frame 1 stance.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Wide matching Frame 1: a slow glide-out is already reversing the opening glide-in as she returns toward her opening stance; gaze sweeping back to the house.
+- [00:02–00:04] The glide continues as the couture gown softens back into the rehearsal set and the second shadow fades to one; a poised dramatic calm returning.
+- [00:04–00:06] She settles into the exact opening stance of Frame 1 in the spotlight, eyes steady on the dark house — a seamless loop seam.
+
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
+
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
 FLUIDITY & WEIGHT NOTES: the return is a smooth balletic settle; the reverse-transform flows as a gentle dissolve; the reset reads as natural continuation, not a rewind.
 
