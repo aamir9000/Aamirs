@@ -10,6 +10,27 @@ never deleting real descriptive content, and progressively raise them to the
 "advanced" cinematic standard defined below.
 
 ====================================================================
+## FOLDER STRUCTURE (CONCEPTS/ — reorganised by category)
+====================================================================
+All concept files now live in category folders under CONCEPTS/ (the old flat layout +
+CONCEPTS/Heavy-Detail/ were dissolved):
+- CONCEPTS/Transformation/ — every transformation reel (mid-clip outfit/world/object/weather/
+  time/place/era/lighting/season/material change). Files: 20 Cinematic Reels New Set; Set 3;
+  Set 4 (51-70); Set 5 (71-79) + (cont) + (cont 2) + (cont 3) + (cont 4); 20 Reel Concepts
+  Master-Depth Build; Concepts 91-110 FULL Heavy-Detail. THIS is where the L+M retrofit is applied.
+- CONCEPTS/Beauty/ — Beauty Ad + GRWM/beauty-hero. File: 20 Beauty Ad Reels.
+  (NOTE: Master-Depth's GRWM concepts 11-14 + lifestyle 15-20 currently live inside the Master-Depth
+  file in Transformation/ because they are mid-clip wrap-transforms; can be split out to Beauty/ on
+  request.)
+- CONCEPTS/Surreal/ — surreal fantasy worlds. File: NEW Reel Concepts (131-150).
+- CONCEPTS/Action/ — vehicle/fight/stunt. Files: 20 Magical Action Heavy-Detail; Magical Action
+  Set 2 Expression; Magical Action Master Set; Concept 170 Phoenix Crash.
+- CONCEPTS/Time-Freeze/ — time-freeze/VFX. File: Time-Freeze Reel Set.
+- CONCEPTS/Travel-Scenic/ — travel/scenic/cultural realism. Files: aira_set4; aira_set5.
+- CONCEPTS/Product/ — product films. File: Concept 100 The Unboxing.
+NOTE: section E/J path references below use the OLD locations; resolve them against this map.
+
+====================================================================
 ## A. EVERYTHING ALREADY DONE (global passes, all 20 files unless noted)
 ====================================================================
 1. **SUBJECT FRAMING & POSITION** added to EVERY image prompt (one unique prose
