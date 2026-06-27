@@ -113,11 +113,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: medium close, chest-up, subject fills about 55% of the vertical frame.
 
-CAMERA MOVEMENT: a single slow 8% push-in across the clip (AT.1), otherwise locked-off and stable — one move only, no whip, no handoff.
-
 LENS: 50mm, f/2.0, smooth creamy background fall-off.
 
-SUBJECT ACTION WITH TIMING: 0.0–3.0s — Aira tilts the faceted bottle a few degrees into the candle key, gold speculars sliding along the glass and the oil settling; 3.0–6.0s — she lifts her warm gaze to the lens on a soft inhale as the opulent quarter-smile blooms. One clean subject action, real physics throughout.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Medium close chest-up: a slow push-in is already gliding toward her as she tilts the faceted amber-gold bottle a few degrees into the candle key, warm gold speculars sliding along the glass and the liquid-gold oil settling; gaze lowered to the bottle, candlelit chiaroscuro deep behind.
+- [00:02–00:04] The push continues as she lifts her warm gaze to lens on a soft inhale and an opulent quarter-smile blooms, a single gold-leaf flake drifting in the warm shaft.
+- [00:04–00:06] She holds, regal and warm, one brow a hair higher, eyes catching the candle catchlight (silent here).
 
 LIGHTING: warm chiaroscuro candle key with soft clean fill; live gold speculars travelling across glass and skin as the bottle tips; the drapery held deep; gold rim steady on the chignon.
 
@@ -125,9 +126,9 @@ ENVIRONMENT: opulent Renaissance studio, velvet drapery, warm candle glow, drift
 
 AUDIO: diegetic only, no in-clip music. Ambient bed — a low warm room tone and a faint candle-flame flicker throughout. SFX — a soft glass-tap as her fingers settle on the bottle at 0.6s (gentle attack, short tail), a faint velvet rustle at 3.2s, a delicate warm gold-shimmer accent at 4.8s timed to the gaze-lift. Reaction — a soft audible breath at 3.0s. The master track sits low — a warm cello drone just kindling under the room tone (present, never full). VO — none this frame.
 
-DURATION: 3 seconds (0:00–0:03 of 24s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps acquisition, 180° shutter, natural motion blur on the bottle tilt; playback 24fps real-time.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — lips closed/softly parted, composed.
 
@@ -176,11 +177,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: medium close, chest-up, subject and raised dropper fill about 58% of the vertical frame.
 
-CAMERA MOVEMENT: the slow push continues with a faint 3° tilt up following the gold drop (one flowing move), otherwise stable.
-
 LENS: 50mm, f/2.0.
 
-SUBJECT ACTION WITH TIMING: 0.0–2.4s — Aira lifts the dropper near her cheekbone and releases a single warm liquid-gold drop; 2.4–4.5s — the first gold-leaf flakes catch light in the air as her eyes warm with anticipation. One clean subject action, real physics throughout.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Medium close: the slow push continues with a faint 3° tilt-up already following her hand as she lifts the dropper near her cheekbone and releases a single warm liquid-gold drop; gaze tracing the falling drop.
+- [00:02–00:04] The tilt rides the drop down as the first gold-leaf flakes catch light in the air, her eyes warming with anticipation.
+- [00:04–00:06] The drop meets her skin with a soft gilded sheen, lashes lowering, a quiet opulent focus holding.
 
 LIGHTING: warm chiaroscuro candle key with soft fill; a soft gold rim catching the drop and stray flakes into warm points; the drapery held deep; dust-motes behind.
 
@@ -188,9 +190,9 @@ ENVIRONMENT: opulent Renaissance studio with velvet drapery, the first gold-leaf
 
 AUDIO: diegetic only. Ambient — low warm room tone and a faint candle flicker throughout. SFX — a soft dropper-release tick at 0.8s, a delicate metallic gold-leaf shimmer at 2.4s, a faint velvet rustle at 4.2s (gentle attack, long soft tail). Reaction — a soft slow breath at 2.5s. The master track lifts a touch — a warm cello and a soft harpsichord shimmer rising under the SFX (present, never full). VO — none this frame.
 
-DURATION: 4 seconds (0:03–0:07 of 24s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps acquisition with a touch of slow-mo on the drop release, 180° shutter, gentle natural motion blur; playback real-time.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none.
 
@@ -239,11 +241,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: medium, chest-up, subject and gathering flakes fill about 60% of the vertical frame.
 
-CAMERA MOVEMENT: a single slow 6% push-in tracking the gathering flakes (AT.1, one flowing move), otherwise stable.
-
 LENS: 50mm, f/2.0, smooth creamy background fall-off.
 
-SUBJECT ACTION WITH TIMING: 0.0–2.4s — Aira lowers the dropper a touch as the gold-leaf flakes gather around her; 2.4–4.4s — the suspended flakes catch rotating warm glints as her eyes warm with anticipation; 4.4–6.0s — the gathering tightens and brightens, cueing the sweep. One clean subject action, real physics throughout.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Medium chest-up: a slow push is already tracking the gathering gold-leaf flakes as she lowers the dropper a touch and they begin to swirl around her; gaze following the drifting gold.
+- [00:02–00:04] The push holds as the suspended flakes catch rotating warm glints, her eyes warming with anticipation.
+- [00:04–00:06] The gathering tightens and brightens, cueing the sweep, her gaze lifting a degree in expectation.
 
 LIGHTING: warm chiaroscuro candle key with soft fill; a soft gold rim firing the gathering flakes into warm points; the drapery held deep; dust-motes behind.
 
@@ -251,9 +254,9 @@ ENVIRONMENT: opulent Renaissance studio with velvet drapery, gold-leaf flakes su
 
 AUDIO: diegetic only, no in-clip music. Ambient — low warm room tone and a faint candle flicker throughout. SFX — the soft settle of the lowering dropper at 0.8s, a delicate suspended gold-leaf shimmer at 2.4s, a faint warm air-swell at 4.8s as the flakes mass (gentle attack, long soft tail). Reaction — a soft slow breath at 2.8s. The master track sits low — a warm cello and a soft harpsichord under the SFX (present, never full). VO — none this frame.
 
-DURATION: 3 seconds (0:07–0:10 of 24s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps acquisition with a touch of slow-mo on the gathering flakes, 180° shutter, gentle natural motion blur; playback real-time.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none.
 
@@ -302,11 +305,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: energized medium-wide of the gold-leaf gilding sweep (the hero move).
 
-CAMERA MOVEMENT: the slow push eases into a smooth gentle orbit around her through the sweep (one flowing move) — the move that showcases the airborne gold leaf and the gilding.
-
 LENS: 50mm, f/2.0.
 
-SUBJECT ACTION WITH TIMING: 0.0–2.1s — from Frame 3's suspension the gold-leaf flakes sweep across her skin in warm arcs as she opens her arms; 2.1–4.2s — a sweeping gold shimmer races across her as the velvet and chignon catch travelling gold light (the impossible beat, face clear and framed by the sweep, identity locked); 4.2–6.0s — the sweep settles and the gilding resolves toward the Frame-5 reveal. Strict interpolation between locked keyframes; real beaten-gold foil physics.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Energized medium-wide: the push is already easing into a smooth gentle orbit as the suspended gold-leaf flakes sweep across her skin in warm arcs and she opens her arms; gaze lifting into the sweep.
+- [00:02–00:04] The orbit rides the hero beat as a sweeping gold shimmer races across her and the velvet and chignon catch travelling gold light (face clear, framed by the sweep); eyes widening in opulent awe.
+- [00:04–00:06] The sweep settles and the gilding resolves as the orbit eases; a radiant regal look landing, eyes alight with warm gold.
 
 LIGHTING: warm candle key brighter through the sweep, soft fill, bright soft gold sweep-rim, live speculars racing across the airborne leaf.
 
@@ -314,9 +318,9 @@ ENVIRONMENT: opulent Renaissance studio, gold leaf and warm dust sparkling throu
 
 AUDIO: diegetic-led. Ambient — low warm room tone. SFX — a warm metallic gold-sweep shimmer swell 0.4–2.4s, fine drifting-leaf sparkle 2.1–4.2s (gentle attack, long soft tails), a soft velvet flare at 3.0s. Reaction — a soft awed breath at 2.4s. The master track lifts to its opulent peak here — a warm cello-and-harpsichord swell landed on the sweep (present, still under the SFX, never full). VO — none (the line lands next frame).
 
-DURATION: 4 seconds (0:10–0:14 of 24s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 96fps deep slow-mo through the sweep easing to gentle slow-mo, 180° shutter, soft natural motion blur with crisp gold-leaf sparkle.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none.
 
@@ -367,11 +371,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: medium close, chest-up, subject fills about 56% of the vertical frame.
 
-CAMERA MOVEMENT: a single slow 6% push-in across the clip (AT.1), otherwise locked-off and stable — one move only, no whip, no handoff.
-
 LENS: 50mm, f/2.0, smooth creamy background fall-off.
 
-SUBJECT ACTION WITH TIMING: 0.0–1.5s — Aira eases her hands open as the gilding settles, last flakes drifting; 1.5–4.2s — she delivers the spoken line to the lens with a soft knowing opulent smile; 4.2–6.0s — she holds the radiant regal look, one final flake settling. One clean subject action, real physics throughout.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Medium close chest-up: a slow push is already gliding in as she eases her hands open and the gilding settles, the last flakes drifting; gaze warm to lens.
+- [00:02–00:04] She delivers “worth its weight in gold.” to lens with a soft knowing opulent smile, eyes warm and direct.
+- [00:04–00:06] She holds the radiant regal look as one final flake settles, the smile easing into calm warmth.
 
 LIGHTING: warm chiaroscuro candle key gently lifted; live gold speculars travelling across skin and the settling flakes; the drapery held deep; gold rim steady on the chignon.
 
@@ -379,9 +384,9 @@ ENVIRONMENT: opulent Renaissance studio under settling gold leaf and warm dust-m
 
 AUDIO: diegetic plus the spoken line. SPOKEN LINE (lip-sync) — Aira says "worth its weight in gold." from 1.5–4.1s in English with a natural Indian accent, warm knowing tone, mouth shapes matched exactly. Ambient — low warm room tone and faint candle flicker throughout. SFX — a delicate settling gold-leaf shimmer at 0.9s, a faint velvet rustle at 1.4s (kept clear of the VO). The master track ducks gently under the line and holds its warmth low.
 
-DURATION: 4 seconds (0:14–0:18 of 24s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps acquisition, 180° shutter, gentle natural motion blur on the settling hands; playback 24fps real-time.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: ON — precise sync to "worth its weight in gold." across 1.5–4.1s; natural jaw and lip motion, no over-articulation.
 
@@ -430,11 +435,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: medium close, chest-up, subject fills about 56% of the vertical frame.
 
-CAMERA MOVEMENT: a single slow 6% push-in across the clip (AT.1), otherwise locked-off and stable — one move only.
-
 LENS: 50mm, f/2.0, smooth creamy background fall-off.
 
-SUBJECT ACTION WITH TIMING: 0.0–2.8s — Aira settles her hands and cradles the bottle softly near her collarbone; 2.8–6.0s — she holds a serene opulent smile to the lens on a slow breath, a regal beat with no words. One clean subject action, real physics throughout.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Medium close chest-up: a slow push is already gliding in as she settles her hands and cradles the bottle softly near her collarbone; gaze easing to lens.
+- [00:02–00:04] The push holds as she settles a serene opulent smile to lens on a slow breath, a regal beat with no words; eyes calm and warm.
+- [00:04–00:06] She holds the composed regal look, candle-glow soft on the velvet, eyes luminous.
 
 LIGHTING: warm chiaroscuro candle key with soft fill; live gold speculars travelling across the bottle and skin; the drapery held deep; gold rim steady on the chignon.
 
@@ -442,9 +448,9 @@ ENVIRONMENT: opulent Renaissance studio with velvet drapery, warm dust-motes dri
 
 AUDIO: diegetic only, no VO this frame. Ambient — low warm room tone and faint candle flicker throughout. SFX — a soft glass-settle as her fingers cradle the bottle at 0.8s, a faint velvet rustle at 2.8s, a delicate warm gold-shimmer at 4.0s (gentle attack, long soft tail). Reaction — a soft slow breath at 3.0s. The master track returns to a warm low bed, holding under the room tone.
 
-DURATION: 3 seconds (0:18–0:21 of 24s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps acquisition, 180° shutter, gentle natural motion blur on the settle; playback 24fps real-time.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — lips softly parted in a serene smile, composed.
 
@@ -495,11 +501,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: medium close, chest-up, subject fills about 55% of the vertical frame — matched to Frame 1.
 
-CAMERA MOVEMENT: a single slow 8% push-in resolving to the exact Frame 1 start position (AT.1, AX.5 loop), locked-off and stable — one move only, engineered so the last frame hands off invisibly to the first.
-
 LENS: 50mm, f/2.0, smooth creamy background fall-off.
 
-SUBJECT ACTION WITH TIMING: 0.0–3.0s — Aira re-cradles the faceted bottle and tilts it a few degrees into the candle key, gold speculars sliding along the glass; 3.0–6.0s — she eases her warm gaze back to the lens on a slow breath with the composed quarter-smile, the composition resolving to match Frame 1 for a seamless loop. One clean subject action, real physics throughout.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Medium close chest-up matching Frame 1: a slow push is already resolving toward the exact opening framing as she re-cradles the faceted bottle and tilts it into the candle key, gold speculars sliding along the glass; gaze lowering to the bottle.
+- [00:02–00:04] The push settles as she eases her warm gaze back to lens on a slow breath with the composed quarter-smile, the composition resolving to the opening; eyes calming.
+- [00:04–00:06] She lands precisely on the Frame 1 pose and gaze, weight settled — a seamless loop seam.
 
 LIGHTING: warm chiaroscuro candle key with subtle fill; live gold speculars travelling across glass and skin as the bottle tips; the drapery held deep; gold rim steady on the chignon.
 
@@ -507,9 +514,9 @@ ENVIRONMENT: opulent Renaissance studio, velvet drapery and warm candle glow, se
 
 AUDIO: diegetic only, no VO. Ambient — low warm room tone and a faint candle flicker throughout. SFX — a faint glass-tap at 0.8s as her fingers settle on the bottle (gentle attack, short tail), a soft velvet rustle at 3.2s, a delicate warm gold-shimmer at 5.2s timed to the gaze-lift. The master track resolves softly here so it can loop clean.
 
-DURATION: 3 seconds (0:21–0:24 of 24s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps acquisition, 180° shutter, gentle natural motion blur on the bottle tilt; playback 24fps real-time.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — lips closed/softly parted, composed, matched to Frame 1.
 

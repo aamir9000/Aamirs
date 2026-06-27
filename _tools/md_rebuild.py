@@ -515,6 +515,79 @@ BEATS[84] = [
 ]
 
 
+BEATS[31] = [
+    # F1 - medium close chest-up (8% push)
+    (
+        "Medium close chest-up: a slow push-in is already gliding toward her as she tilts the "
+        "faceted amber-gold bottle a few degrees into the candle key, warm gold speculars "
+        "sliding along the glass and the liquid-gold oil settling; gaze lowered to the "
+        "bottle, candlelit chiaroscuro deep behind.",
+        "The push continues as she lifts her warm gaze to lens on a soft inhale and an "
+        "opulent quarter-smile blooms, a single gold-leaf flake drifting in the warm shaft.",
+        "She holds, regal and warm, one brow a hair higher, eyes catching the candle "
+        "catchlight (silent here).",
+    ),
+    # F2 - medium close, push + 3deg tilt-up following the gold drop
+    (
+        "Medium close: the slow push continues with a faint 3\u00b0 tilt-up already following "
+        "her hand as she lifts the dropper near her cheekbone and releases a single warm "
+        "liquid-gold drop; gaze tracing the falling drop.",
+        "The tilt rides the drop down as the first gold-leaf flakes catch light in the air, "
+        "her eyes warming with anticipation.",
+        "The drop meets her skin with a soft gilded sheen, lashes lowering, a quiet opulent "
+        "focus holding.",
+    ),
+    # F3 - medium, 6% push tracking the gathering flakes
+    (
+        "Medium chest-up: a slow push is already tracking the gathering gold-leaf flakes as "
+        "she lowers the dropper a touch and they begin to swirl around her; gaze following "
+        "the drifting gold.",
+        "The push holds as the suspended flakes catch rotating warm glints, her eyes warming "
+        "with anticipation.",
+        "The gathering tightens and brightens, cueing the sweep, her gaze lifting a degree "
+        "in expectation.",
+    ),
+    # F4 - energized medium-wide, push easing into gentle orbit (gilding sweep hero)
+    (
+        "Energized medium-wide: the push is already easing into a smooth gentle orbit as the "
+        "suspended gold-leaf flakes sweep across her skin in warm arcs and she opens her "
+        "arms; gaze lifting into the sweep.",
+        "The orbit rides the hero beat as a sweeping gold shimmer races across her and the "
+        "velvet and chignon catch travelling gold light (face clear, framed by the sweep); "
+        "eyes widening in opulent awe.",
+        "The sweep settles and the gilding resolves as the orbit eases; a radiant regal "
+        "look landing, eyes alight with warm gold.",
+    ),
+    # F5 - medium close, 6% push (SPOKEN)
+    (
+        "Medium close chest-up: a slow push is already gliding in as she eases her hands open "
+        "and the gilding settles, the last flakes drifting; gaze warm to lens.",
+        "She delivers \u201cworth its weight in gold.\u201d to lens with a soft knowing "
+        "opulent smile, eyes warm and direct.",
+        "She holds the radiant regal look as one final flake settles, the smile easing into "
+        "calm warmth.",
+    ),
+    # F6 - medium close, 6% push (regal hold, no words)
+    (
+        "Medium close chest-up: a slow push is already gliding in as she settles her hands "
+        "and cradles the bottle softly near her collarbone; gaze easing to lens.",
+        "The push holds as she settles a serene opulent smile to lens on a slow breath, a "
+        "regal beat with no words; eyes calm and warm.",
+        "She holds the composed regal look, candle-glow soft on the velvet, eyes luminous.",
+    ),
+    # F7 - medium close, 8% push loop close to F1
+    (
+        "Medium close chest-up matching Frame 1: a slow push is already resolving toward the "
+        "exact opening framing as she re-cradles the faceted bottle and tilts it into the "
+        "candle key, gold speculars sliding along the glass; gaze lowering to the bottle.",
+        "The push settles as she eases her warm gaze back to lens on a slow breath with the "
+        "composed quarter-smile, the composition resolving to the opening; eyes calming.",
+        "She lands precisely on the Frame 1 pose and gaze, weight settled \u2014 a seamless "
+        "loop seam.",
+    ),
+]
+
+
 def build_block(beats):
     return (
         BREAKDOWN_HEADER + "\n"
