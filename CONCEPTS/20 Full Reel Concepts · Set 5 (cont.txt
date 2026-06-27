@@ -102,13 +102,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: medium close, chest-up, subject fills 55% of the vertical frame.
 
-CAMERA MOVEMENT: a single slow 8% push-in across the clip, otherwise locked-off and stable — one move only, no whip, no handoff.
-
 LENS: 50mm, f/2.8, smooth creamy background fall-off with soft rainbow bokeh.
 
-SUBJECT ACTION WITH TIMING:
-- 0.0–3.0s — Aira tilts the faceted bottle a few degrees into the key light, the cut glass splitting a clean rainbow fan across her collarbone and the pearlescent liquid settling inside.
-- 3.0–6.0s — she lifts her eyes to the lens on a soft inhale as the knowing asymmetric quarter-smile blooms and a refraction spark crosses her cheek. One clean subject action, real physics throughout.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Medium close chest-up: a slow push-in is already gliding toward her as she tilts the faceted prism bottle a few degrees into the key, the cut glass splitting a clean rainbow fan across her collarbone and the pearlescent liquid settling inside; gaze lowered to the glass.
+- [00:02–00:04] The push continues as she lifts her eyes to lens on a soft inhale and a knowing asymmetric quarter-smile blooms, a refraction spark crossing her cheek.
+- [00:04–00:06] She holds, iridescent and composed, one brow a hair higher and a tiny rainbow flickering in her catchlight, eyes bright and direct (silent — no words).
 
 LIGHTING: clamshell beauty key with lifted clean fill; live moving rainbow speculars travelling across the glass, chrome and skin as the bottle tips; cyclorama held one stop down; hair-light steady on the chrome-glass waves.
 
@@ -116,9 +115,9 @@ ENVIRONMENT: mirror-prism studio with hanging cut-glass prisms, faint cool atmos
 
 AUDIO (no spoken word): diegetic only, no in-clip music. Ambient bed — low cool studio room tone throughout. SFX — a soft crystalline glass-tap as her fingers settle on the faceted bottle at 0.4s (gentle attack, short shimmering tail), a faint chrome fabric shift at 3.1s, a light airy prismatic chime accent at 4.6s timed to the eye-lift. Reaction — a soft audible breath at 3.0s. NO voice-over.
 
-DURATION: 5 seconds (0:00–0:05 of 30s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps acquisition, 180° shutter, natural motion blur on the bottle tilt; playback 24fps real-time.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — lips closed/softly parted, composed.
 
@@ -181,14 +180,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: medium, waist-up, subject fills about 60% of the vertical frame, easing wider to hold the full swirl.
 
-CAMERA MOVEMENT: a slow 6° arc camera-left tracking the swirl, seamless and motivated, no whip, no cut, single continuous move that hands off cleanly to Frame 3.
-
 LENS: 50mm, f/2.8, creamy fall-off with travelling rainbow bokeh.
 
-SUBJECT ACTION WITH TIMING:
-- 0.0–1.5s — (0:05–0:06.5) — a ribbon of iridescent oil-slick liquid-foil pours from her shoulders and begins to swirl around the torso, her right hand lifting into the pour.
-- 1.5–4.0s — (0:06.5–0:09) — the foil wraps the body in one continuous spiral, petrol-rainbow racing across its surface, her hips counter-rotating with the motion.
-- 4.0–6.0s — (0:09–0:11) — the leading edge crystallises and facets into the structured holographic prism gown, micro shards spinning off and catching light as she settles into the new silhouette, eyes lifting to lens with a breath of wonder. Cause → effect throughout; face pin-locked; real physics on the pour, swirl and set.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Medium waist-up easing wider: a slow 6° arc camera-left is already tracking the swirl as a ribbon of iridescent oil-slick foil pours from her shoulders and begins to spiral the torso, her right hand lifting into the pour; gaze following the foil.
+- [00:02–00:04] The arc rides the wrap as the foil spirals her body in one continuous turn, petrol-rainbow racing across its surface and her hips counter-rotating; a wondering breath, brows lifting.
+- [00:04–00:06] The leading edge crystallises and facets into the structured holographic prism gown, micro shards spinning off and catching light as she settles into the new silhouette, eyes lifting to lens with wonder.
 
 LIGHTING: clamshell beauty key holding the face evenly lit and locked through the whole transform; live petrol-rainbow speculars racing across the foil; hanging prisms throwing amplified rainbow fans; hair-light steady; cyclorama one stop down.
 
@@ -196,9 +193,9 @@ ENVIRONMENT: mirror-prism studio, the air flooding with crisp travelling rainbow
 
 AUDIO (no spoken word): diegetic only, no in-clip music. Ambient bed — low cool studio room tone. SFX — a smooth liquid-pour whoosh building from 0:05 (soft attack, glossy body), a shimmering crystalline chime-cluster as the foil facets and sets at 0:09–0:10 (bright bell-like sparkle, short ringing tail), tiny glassy tick-tick of shards spinning off at 0:10. Reaction — a soft awe-breath at 0:10.5. NO voice-over.
 
-DURATION: 6 seconds (0:05–0:11 of 30s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps acquisition, 180° shutter, natural motion blur on the foil swirl and shard spin; playback 24fps real-time.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — lips parted in wonder, no speech.
 
@@ -259,13 +256,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: macro / tight insert on the hero bottle, her face soft in the background.
 
-CAMERA MOVEMENT: a precise macro rack-focus pulling from her defocused eyes down to the suspended drop across the first beat ( + focus pull), then a 4% creep-in; smooth, motivated, single move handing off to Frame 4.
-
 LENS: 90mm macro, f/4, shallow creamy fall-off with rainbow bokeh.
 
-SUBJECT ACTION WITH TIMING:
-- 0.0–3.0s — (0:11–0:13) — focus racks from her eyes to the dropper tip as a single pearlescent rainbow drop swells and trembles at the tip.
-- 3.0–6.0s — (0:13–0:15) — the drop releases and falls a short clean arc, splitting the key into a brief rainbow flare as it goes, her lips easing into a knowing micro-smile in the soft background. Real fluid physics, true surface tension.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Macro tight insert on the hero bottle with her face soft behind: a precise rack-focus is already pulling from her defocused eyes down to the dropper tip on a 4% creep-in as a single pearlescent rainbow drop swells and trembles at the tip.
+- [00:02–00:04] Focus holds tight on the tip as the drop releases and falls a short clean arc, splitting the key into a brief rainbow flare as it goes.
+- [00:04–00:06] Her lips ease into a knowing micro-smile in the soft background, gaze warming behind the falling drop.
 
 LIGHTING: focused beauty key raking faceted sparkle; pin-sharp cool kicker on the chrome cap; live speculars crawling as the bottle holds; prisms throwing rainbow fans behind; cyclorama one stop down.
 
@@ -273,9 +269,9 @@ ENVIRONMENT: mirror-prism studio, cool atmospheric rainbow refractions drifting 
 
 AUDIO (no spoken word): diegetic only, no in-clip music. Ambient bed — low cool studio room tone. SFX — a delicate liquid swell as the drop forms at 0:12 (soft rising tone), a single clean crystalline plink as it releases at 0:13.8 (bright bell tap, short shimmering tail), a faint airy spectrum-shimmer as the rainbow flares at 0:14. NO voice-over.
 
-DURATION: 4 seconds (0:11–0:15 of 30s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps acquisition, 180° shutter, natural motion blur on the falling drop; playback 24fps real-time.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — soft composed micro-smile, no speech.
 
@@ -336,13 +332,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: wide-medium, near full-length, subject fills about 75% of the vertical frame.
 
-CAMERA MOVEMENT: a slow vertical tilt-up from the prism-heel sandal to the face, pairing with a 4% creep-in; smooth, motivated, single move handing off to Frame 5.
-
 LENS: 35mm, f/4, soft creamy background with rainbow bokeh.
 
-SUBJECT ACTION WITH TIMING:
-- 0.0–3.0s — (0:15–0:17) — the camera reads the lucite prism-heel sandal as she shifts her weight and turns the front foot out a few degrees, internal rainbows flaring in the heel and a caustic sliding on the floor.
-- 3.0–6.0s — (0:17–0:19) — the tilt rises past the chrome cuff and prism-drop earring to her face as she settles her hand on the hip and meets the lens with a cool micro-smile. Real physics, grounded weight.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Wide-medium near full-length: a slow vertical tilt-up paired with a 4% creep-in is already reading the lucite prism-heel sandal as she shifts her weight and turns the front foot out, internal rainbows flaring in the heel and a caustic sliding on the floor.
+- [00:02–00:04] The tilt rises past the chrome cuff and prism-drop earring as her hand settles on the hip, the gown catching travelling spectra; gaze beginning to lift.
+- [00:04–00:06] The tilt lands on her face as she meets the lens with a cool micro-smile, weight grounded, eyes direct and composed.
 
 LIGHTING: beauty key raking gown facets and heel; cool kicker on chrome-glass waves and strap; live rainbow speculars crawling as she moves; prisms throwing floor caustics; cyclorama one stop down.
 
@@ -350,9 +345,9 @@ ENVIRONMENT: mirror-prism studio, cool atmospheric rainbow refractions drifting 
 
 AUDIO (no spoken word): diegetic only, no in-clip music. Ambient bed — low cool studio room tone. SFX — a soft lucite heel-tap and weight-shift creak on the floor at 0:15.5 (clean short tap), a faint chrome cuff chime at 0:17.5, a light airy prismatic shimmer as the tilt reaches the earring at 0:18.3. Reaction — a soft breath at 0:18. NO voice-over.
 
-DURATION: 4 seconds (0:15–0:19 of 30s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps acquisition, 180° shutter, natural motion blur on the tilt; playback 24fps real-time.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — cool composed micro-smile, no speech.
 
@@ -413,13 +408,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: tight beauty close-up, face filling the frame.
 
-CAMERA MOVEMENT: an almost imperceptible 3% push-in, locked and serene, single move handing off to Frame 6.
-
 LENS: 85mm, f/2.0, creamy fall-off with soft rainbow bokeh.
 
-SUBJECT ACTION WITH TIMING:
-- 0.0–3.0s — (0:19–0:20.5) — Aira brushes her fingertips softly at the jaw on a slow serene exhale, lashes lowering.
-- 3.0–6.0s — (0:20.5–0:22) — her eyes lift to a soft direct gaze as a quiet confident half-smile blooms and a rainbow refraction streak drifts across the cheekbone. Real, gentle, present.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Tight beauty close-up, face filling the frame: an almost-imperceptible 3% push is already breathing in as she brushes her fingertips softly at the jaw on a slow serene exhale, lashes lowering.
+- [00:02–00:04] Her eyes lift to a soft direct gaze as a quiet confident half-smile blooms and a rainbow refraction streak drifts across the cheekbone.
+- [00:04–00:06] The half-smile holds, gentle and present, eyes luminous and direct to lens.
 
 LIGHTING: soft luminous clamshell key; cool kicker on the waves and earring; a live rainbow streak drifting across the cheek from a turning prism; cyclorama one stop down.
 
@@ -427,9 +421,9 @@ ENVIRONMENT: mirror-prism studio, soft cool atmospheric rainbow refractions in t
 
 AUDIO (no spoken word): diegetic only, no in-clip music. Ambient bed — low cool studio room tone. SFX — a soft skin-brush whisper as her fingertips touch the jaw at 0:19.5, a faint earring chime at 0:20.5, a delicate airy shimmer as the rainbow streak crosses at 0:21. Reaction — a soft serene exhale at 0:20. NO voice-over.
 
-DURATION: 3 seconds (0:19–0:22 of 30s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps acquisition, 180° shutter, natural motion blur on the gentle moves; playback 24fps real-time.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — a wordless exhale, no speech.
 
@@ -492,14 +486,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: medium-wide, waist-up with headroom, subject fills about 65% of the vertical frame.
 
-CAMERA MOVEMENT: a graphic slow 3D orbit arcing about 15° around the hovering bottle ( beauty-mandate orbit), paired with a slight rise; smooth, continuous, motivated, handing off to Frame 7.
-
 LENS: 35mm, f/2.8, creamy fall-off with rainbow shard-bokeh.
 
-SUBJECT ACTION WITH TIMING:
-- 0.0–1.8s — (0:22–0:23.5) — the bottle lifts off her palm and begins to hover and rotate as she opens her hands beneath it.
-- 1.8–4.2s — (0:23.5–0:25.5) — the key strikes the rotating prism and detonates a 360° radial spectrum-burst, faceted shards spiralling out into orbit, beams sweeping the studio, her face lifting into luminous awe.
-- 4.2–6.0s — (0:25.5–0:27) — the burst holds at full bloom and begins a gentle settle as shards drift, a radiant almost-smile breaking. Real optical physics; face pin-locked throughout.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Medium-wide waist-up with headroom: a graphic slow 15° 3D orbit with a slight rise is already arcing around the bottle as it lifts off her palm to hover and rotate, she opening her hands beneath it; gaze drawn to the rising prism.
+- [00:02–00:04] The orbit rides the burst as the key strikes the rotating prism and detonates a 360° radial spectrum-burst, faceted shards spiralling into orbit and beams sweeping the studio; her face lifting into luminous awe.
+- [00:04–00:06] The burst holds at full bloom and begins a gentle settle as shards drift and the orbit eases; a radiant almost-smile breaking, eyes alight.
 
 LIGHTING: clamshell beauty key holding the face locked through the spectacle; the hovering prism as hero source throwing live radial rainbow beams; brilliant speculars racing across glass, chrome and skin; cyclorama one stop down; highlights controlled.
 
@@ -507,9 +499,9 @@ ENVIRONMENT: mirror-prism studio detonating with radial rainbow beams, drifting 
 
 AUDIO (no spoken word): diegetic only, no in-clip music. Ambient bed — low cool studio room tone. SFX — a soft airy lift-whoosh as the bottle rises at 0:22.5, a brilliant crystalline spectrum-burst chime-bloom as the rainbow detonates at 0:23.8 (bright shimmering bell-cluster, long sparkling tail), glassy tick-and-ring of orbiting shards through 0:24–0:26. Reaction — a soft awe-gasp breath at 0:24. NO voice-over.
 
-DURATION: 5 seconds (0:22–0:27 of 30s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps acquisition, 180° shutter, natural motion blur on the orbit, beams and shard spin; playback 24fps real-time.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — awe held wordless, no speech.
 
@@ -572,13 +564,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: medium close, chest-up, subject fills 55% of the vertical frame — resolving to match Frame 1.
 
-CAMERA MOVEMENT: the orbit eases to rest and settles into a locked-off frame identical to Frame 1's start, with a barely-perceptible 2% drift-in; the final position matches the opening exactly so 0:30 cuts invisibly to 0:00.
-
 LENS: 50mm, f/2.8, smooth creamy background with soft rainbow bokeh.
 
-SUBJECT ACTION WITH TIMING:
-- 0.0–3.0s — (0:27–0:28.5) — the last prism-shards drift down and dissolve as the hovering bottle settles back into her cradling hand at collarbone height, the gown resolving to liquid-chrome.
-- 3.0–6.0s — (0:28.5–0:30) — she settles into the exact opening pose and expression, one final soft rainbow fan splitting across the collarbone, holding still on the knowing quarter-smile as the frame locks to the Frame 1 composition. Real physics, graceful settle, seamless loop.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Medium close chest-up resolving to match Frame 1: the orbit is already easing to rest on a barely-perceptible 2% drift-in as the last prism-shards drift down and dissolve and the hovering bottle settles back into her cradling hand at collarbone height, the gown resolving to liquid-chrome.
+- [00:02–00:04] The drift settles as she eases into the exact opening pose and expression, one final soft rainbow fan splitting across the collarbone; eyes calming.
+- [00:04–00:06] She holds still on the knowing quarter-smile, framing locked to the Frame 1 composition — a seamless loop seam.
 
 LIGHTING: clamshell beauty key resolving to the Frame 1 state; speculars sliding to rest on glass and chrome; hanging prisms settling to a calm soft rainbow fan; cyclorama one stop down; hair-light steady.
 
@@ -586,9 +577,9 @@ ENVIRONMENT: mirror-prism studio settling back to its clean split-light hush, th
 
 AUDIO (no spoken word): diegetic only, no in-clip music. Ambient bed — low cool studio room tone resolving. SFX — a gentle descending shimmer as the shards dissolve at 0:27.5 (soft sparkling fall, fading tail), a soft crystalline glass-tap as the bottle settles into her hand at 0:28.8 (matching the Frame 1 opening tap for the loop), a faint final prismatic chime at 0:29.6. Reaction — a soft settling breath at 0:29. NO voice-over.
 
-DURATION: 3 seconds (0:27–0:30 of 30s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps acquisition, 180° shutter, natural motion blur on the settle; playback 24fps real-time.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — composed quarter-smile, no speech.
 
