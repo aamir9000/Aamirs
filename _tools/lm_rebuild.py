@@ -72,10 +72,15 @@ BEATSLM[1] = [
         "resolving to a champagne-gold thread bracelet and a warming shimmer crossing her "
         "skin (angle holds, no rotation; face clear and identity locked); eyes warming in "
         "serene awe.",
-        "The clip plays out fully resolved in the champagne silk-satin column gown with its "
-        "soft modest cowl neckline and liquid drape, the freshwater-pearl drop earring and "
-        "champagne-gold bracelet set, warm champagne light on dewy real skin; a soft serene "
-        "warmth landing in her eyes.",
+        "The clip plays out fully resolved in Look B, written 1:1 with Frame 5's image — the "
+        "fluid champagne silk-satin column gown with its soft modest cowl neckline, long "
+        "sleeves and liquid drape; the freshwater-pearl drop earring and delicate "
+        "champagne-gold thread bracelet set; makeup warmed to a champagne lid, soft peach "
+        "blush and a glossy warm-rose lip with a dewy lit-from-within glow and soft-set brows; "
+        "the deep side-part Old-Hollywood finger waves now warm-lacquered, the champagne satin "
+        "pointed pumps grounded below; warm champagne-and-pearl grade, dewy real skin with "
+        "visible pores — exactly the look Frame 5 opens on; a soft serene warmth landing in "
+        "her eyes.",
     ),
     # F5 - Look B clean reveal, cut to a NEW angle, slow push
     (

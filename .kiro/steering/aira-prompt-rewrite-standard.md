@@ -570,15 +570,20 @@ CONTAIN each change inside one clip's middle, and make every frame join an inten
   so the viewer feels they have NOT missed anything (polished editing rhythm, not a glitch).
 - Every clip therefore opens ALREADY-IN-MOTION on its new angle (the cut lands mid-action).
 
-### L.4 — STRONG LOOK-B SPEC -> CARRIED INTO THE NEXT IMAGE PROMPT (consistent, angle-masked)
-- Because the transform clip's SECOND HALF is already in Look B, the VIDEO prompt must describe
-  Look B with MAXIMUM, EXHAUSTIVE detail (exact garment cut/neckline/sleeves/fabric/embellishment/
-  drape, exact colour, hair state, accessories, environment/season state, lighting, particles) —
-  it is a hard spec, not a vague "settles into the new look".
-- That same Look B must be carried into the NEXT frame's IMAGE prompt (the start keyframe of the
-  following clip): same outfit/world/hair, strongly detailed and CONSISTENT — but NOT required to
-  be 100% pixel-exact, because the L.3 angle change masks slight variation. Keep it the same look,
-  trust the cut to cover small drift.
+### L.4 — EXHAUSTIVE LOOK-B SPEC -> 1:1 WITH THE NEXT IMAGE PROMPT (transformation concepts ONLY)
+- THIS RULE APPLIES TO TRANSFORMATION-TYPE CONCEPTS ONLY (season/weather/outfit/material/look
+  A->B change). Non-transform concepts (GRWM beauty-hero, lifestyle, action with no look-change)
+  do NOT need it.
+- Because the transform clip's SECOND HALF ([00:04-00:06]) is already in Look B, the VIDEO prompt's
+  second-half beat must be written as an EXHAUSTIVE, FIELD-BY-FIELD 1:1 SPEC of the NEXT frame's
+  IMAGE prompt (the start keyframe of the following clip): mirror EVERY look field — garment
+  cut/neckline/sleeves/fabric/embellishment/drape, exact colour, full makeup (lid/blush/lip/glow),
+  hair state and sheen, every accessory, footwear, environment/grade — so the back half of the
+  transform clip and the next still are the SAME LOOK on paper. Not a vague "settles into the new
+  look"; an exact written target.
+- The rendered result still need not be 100% pixel-identical: the L.3 CUT to a new angle masks any
+  slight variation. The exhaustive WRITTEN spec is what guarantees the look matches; the angle
+  change covers the small drift.
 - The transform frame's OWN image prompt becomes the clean LOOK A it opens on (not a mid-morph
   still). Frames before the transform = Look A; the transform frame's still = Look A; frames after
   = the matched Look B (new angle each).
