@@ -173,6 +173,72 @@ BEATS[72] = [
 ]
 
 
+BEATS[73] = [
+    # F1 - medium close chest-up (push-in)
+    (
+        "Medium close chest-up: a slow push-in is already gliding toward her as she tilts the "
+        "neon faceted bottle a few degrees into the key, prismatic glints sliding across the "
+        "facets and the chartreuse-to-pink juice settling inside; gaze lowered to the glass.",
+        "The push continues as she lifts her eyes to lens on a soft inhale and a confident "
+        "asymmetric quarter-smile blooms, backlit monstera silhouettes glowing behind.",
+        "She holds, tropical and electric, one brow a hair higher, eyes bright and direct to "
+        "lens.",
+    ),
+    # F2 - medium waist-up, arc-push (rattan strands self-weave the bodice, track transform)
+    (
+        "Medium waist-up: a smooth 10% arc-push is already drifting a few degrees around her "
+        "as glowing rattan strands spiral in from the frame edges and she opens her arms to "
+        "present; gaze tracking the incoming strands.",
+        "The arc-push rides the build as the strands self-weave into the lattice and hot-pink "
+        "piping threads along the tightening weave; a delighted breath, brows lifting in "
+        "wonder.",
+        "The last strands settle and the strand-shimmer fades as the move eases; she lands a "
+        "confident finished pose, eyes alight on the woven bodice.",
+    ),
+    # F3 - tight medium close + macro foreground, rack-focus pull (product->eye)
+    (
+        "Tight medium close with a macro foreground on the bottle: a slow rack-focus pull "
+        "with a 5% drift-in is already underway as she slowly rotates the neon bottle, the "
+        "juice catching light while focus holds on the label.",
+        "Focus racks smoothly off the product toward her near eye as she lifts her gaze, the "
+        "drift settling; a confident half-smile beginning.",
+        "The half-smile settles with her eye now tack-sharp, the bottle soft in the "
+        "foreground, gaze direct and assured.",
+    ),
+    # F4 - beauty close-up, face-dominant (4% push, emotional beat — silent)
+    (
+        "Beauty close-up, face-dominant: an almost-imperceptible 4% push is already breathing "
+        "in as the radiant smile blooms with a genuine eye-crinkle and her gaze lifts to "
+        "lens (silent \u2014 no words).",
+        "A soft exhale and a tiny confident chin-lift follow as her fingertips settle at the "
+        "jaw, the expression warm and open.",
+        "The warm open expression holds, eyes bright and direct \u2014 a wordless emotional "
+        "reveal in place of any line.",
+    ),
+    # F5 - medium chest-up, beauty 3D orbit synced to neon-orchid bloom
+    (
+        "Medium chest-up: the beauty 3D orbit is already arcing a smooth 12% around the "
+        "levitating bottle as it eases up and a single neon orchid bud swells at the bodice; "
+        "gaze drawn to the rising bottle.",
+        "The orbit rides the bloom as the orchids unfurl and burst open in a radiant halo, "
+        "petals lifting and swirling and her wonder peaking; eyes widening into the swirl, a "
+        "radiant awe blooming.",
+        "The petals radiate full-frame then begin resolving as the bright pulse eases and "
+        "the orbit settles; her radiant smile landing, eyes alight.",
+    ),
+    # F6 - medium close loop close (8% pull-back to F1)
+    (
+        "Medium close chest-up matching Frame 1: a gentle 8% pull-back is already easing the "
+        "orbit to rest toward the opening framing as the last petals dissolve; she settles "
+        "the bottle back to the collarbone, gaze softening.",
+        "The pull-back continues as the radiant smile eases to the confident Frame 1 "
+        "quarter-smile and the neon garden settles to its opening glow; eyes calming.",
+        "She lands precisely on the Frame 1 opening posture and gaze, weight settled \u2014 a "
+        "seamless loop seam.",
+    ),
+]
+
+
 def build_block(beats):
     return (
         BREAKDOWN_HEADER + "\n"
