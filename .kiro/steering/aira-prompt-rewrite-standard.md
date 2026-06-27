@@ -532,3 +532,72 @@ non-beauty files — 91-110, 131-150, aira_set4, aira_set5, Magical Action Maste
 and Concept 170/100. Keep every detail heavily; only change what's necessary; controlled vibrancy;
 6s real-time, no slow-mo; commit + push per concept; tick the section-J audit. First, confirm the
 K.1 '8-10 concept' flag with the user before touching 91-110."
+
+
+
+====================================================================
+## L. TRANSFORMATION-REEL MODEL — MID-CLIP CHANGE + MATCH-CUT JOINS
+====================================================================
+(Decided with the user. Applies to ALL transformation reels — season-change, weather-change,
+outfit/clothes-change, look-A->look-B, material/tone-formation, GRWM getting-ready wraps, and
+any "the world/outfit turns" concept. ADDITIVE on top of sections A-K. The point: stop spreading
+one transform across multiple clips stitched by a fragile continuous-camera handoff; instead
+CONTAIN each change inside one clip's middle, and make every frame join an intentional CUT.)
+
+### L.1 — WHERE THE CHANGE HAPPENS (mid-clip, never at the seam)
+- The visible Look-A -> Look-B change happens in the MIDDLE of ONE animated clip, never across a
+  clip boundary. The transform clip plays:
+  * [00:00-00:02] CUT in, ALREADY-IN-MOTION, in fully-described LOOK A.
+  * [00:02-00:04] THE CHANGE races through (the one magic beat) — A turning into B in one wavefront.
+  * [00:04-00:06] plays out its second half ALREADY in fully-resolved LOOK B.
+- Rationale: a change that must survive a clip join forces brittle frame-to-frame continuity. Keep
+  the change safely inside one clip where the generator fully controls it.
+
+### L.2 — HELD ANGLE INSIDE THE TRANSFORM CLIP (no abrupt angle shift mid-change)
+- Within the transform clip the CAMERA ANGLE is HELD STEADY across the whole 6s — the angle must
+  NOT shift abruptly while the change is occurring (an angle jump mid-transform fights the morph).
+- The video generator's own natural camera MOVEMENT (a gentle push / drift / its subtle motion) is
+  FINE and welcome — what is banned is a deliberate ANGLE change during the transformation. So the
+  hero/transform clip no longer "orbits through" the change; it holds its angle and lets the change
+  race through. (Big angle variety lives at the CUTS between frames, per L.3 — not inside the clip.)
+
+### L.3 — EVERY JOIN IS A CUT + ANGLE CHANGE (the patch; viewer never feels they missed anything)
+- At EVERY frame join, hard-CUT to a deliberately DIFFERENT angle/crop (different shot size +
+  camera angle + placement). Never cut to the same/near-same angle (that exposes a mismatch as an
+  ugly jump cut).
+- That angle change IS the patch: it masks any slight variation between where the previous clip's
+  Look B ended and where the next clip's still begins, and it makes the edit read as intentional —
+  so the viewer feels they have NOT missed anything (polished editing rhythm, not a glitch).
+- Every clip therefore opens ALREADY-IN-MOTION on its new angle (the cut lands mid-action).
+
+### L.4 — STRONG LOOK-B SPEC -> CARRIED INTO THE NEXT IMAGE PROMPT (consistent, angle-masked)
+- Because the transform clip's SECOND HALF is already in Look B, the VIDEO prompt must describe
+  Look B with MAXIMUM, EXHAUSTIVE detail (exact garment cut/neckline/sleeves/fabric/embellishment/
+  drape, exact colour, hair state, accessories, environment/season state, lighting, particles) —
+  it is a hard spec, not a vague "settles into the new look".
+- That same Look B must be carried into the NEXT frame's IMAGE prompt (the start keyframe of the
+  following clip): same outfit/world/hair, strongly detailed and CONSISTENT — but NOT required to
+  be 100% pixel-exact, because the L.3 angle change masks slight variation. Keep it the same look,
+  trust the cut to cover small drift.
+- The transform frame's OWN image prompt becomes the clean LOOK A it opens on (not a mid-morph
+  still). Frames before the transform = Look A; the transform frame's still = Look A; frames after
+  = the matched Look B (new angle each).
+
+### L.5 — WHAT STAYS THE SAME
+- Identity lock (fixed-skeleton, section D); ONE eye-led identity-safe expression transition per
+  clip; real-time / no slow-mo / 6s (sections B, D); Controlled Vibrancy (section I); section-K
+  believability where it applies. The reel still LOOPS (final frame cuts back to match Frame 1).
+- Subconscious continuity now lives in consistent IDENTITY / WORLD / PALETTE across the cuts + the
+  loop — NOT in continuous camera motion-handoffs (those are replaced by the L.3 cuts).
+- Replace the old per-concept "Movement ... locked transform keyframes START Frame 3 -> END Frame 5,
+  interpolate strictly between keyframes across frames" language and any cross-frame orbit-handoff
+  wording with the L.1-L.4 model (single held-angle transform clip + match-cut joins).
+
+### L.6 — SCOPE / STATUS
+- RETROFIT the transformation reels already rebuilt under the old continuous-handoff model
+  (Master-Depth Build 01-20 first — nearly all transforms), AND carry this model forward to every
+  remaining transformation reel in the queue.
+- Per concept: read fully -> rebuild the video SHOT BREAKDOWN to the held-angle mid-clip transform
+  with a strongly-specced Look B -> update the affected IMAGE prompts (transform still = Look A;
+  next still = matched Look B, new angle) -> ensure every join is a cut to a new angle -> verify ->
+  commit + push -> tick progress.
