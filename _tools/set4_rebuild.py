@@ -977,6 +977,72 @@ BEATS[64] = [
 ]
 
 
+BEATS[65] = [
+    # F1 - medium-full three-quarter hero in voxel world (push-in)
+    (
+        "Medium-full three-quarter hero in the bright voxel game-world: a slow push-in is "
+        "already gliding toward her as she holds the holographic stick to her collarbone, "
+        "the cobalt slip breathing and pixel-motes drifting; she lifts her eyes to lens with "
+        "a confident playful smile.",
+        "The push continues as she begins a confident quarter-turn, a colour-shift highlight "
+        "travelling the slip; gaze easing to lens, a bright set to her mouth.",
+        "She settles mid-turn, weight rolling onto the front foot, a playful electric calm "
+        "holding as a glowing power-up block hovers behind.",
+    ),
+    # F2 - full-figure transform, slightly low angle (arc following the gown assembling up)
+    (
+        "Full-figure from a slightly low angle: a slow controlled arc is already rising as "
+        "the first glowing voxels swarm in and snap into place at the hem; gaze tracking the "
+        "swarming voxels, eyes brightening.",
+        "The arc rides the assembly up her body as the voxels stream in and build the gown "
+        "row by row into neat luminous facets; a delighted breath, brows lifting in wonder.",
+        "The last row snaps in and the voxel gown settles as the arc eases; a confident "
+        "bright look landing, eyes alight on the glowing facets.",
+    ),
+    # F3 - beauty close, product-at-face / highlighter stick (6% push to face)
+    (
+        "Beauty close, chest-up at a three-quarter: a slow push toward her face is already "
+        "gliding in as she twists up the iridescent stick and brings it to the top of her "
+        "cheekbone; eyes lowered to the stick.",
+        "She draws a bright clean highlighter line along the cheekbone, the push settling; a "
+        "confident smile blooming, gaze warming.",
+        "She lowers the stick a touch and gives a bright direct look with a brow flick, the "
+        "voxel bodice glinting, a playful calm in her gaze.",
+    ),
+    # F4 - bold beauty close, wordless player-one address (SILENT — expression reveal)
+    (
+        "Bold beauty close, chest-up squared to lens: the camera is already settled on a "
+        "barely-there push as her eyes lock the lens with a confident playful smile, the "
+        "holographic case presented at her chest (silent \u2014 no words).",
+        "She lands a single assured brow flick into a slow blink as a colour-shift flickers "
+        "across the voxel bodice, lips softly closed, the look itself doing the work.",
+        "The smile holds, eyes direct and bright \u2014 a wordless player-one expression "
+        "reveal in place of any line.",
+    ),
+    # F5 - full-figure magical hero, power-up ring burst bloom (majestic push + boom-rise)
+    (
+        "Full-figure magical hero from a slightly low angle: a slow majestic push-in with a "
+        "gentle boom-rise is already lifting as a bright glow gathers at her chest and the "
+        "facets brighten as one; gaze drawn to the gathering glow.",
+        "The boom keeps rising as concentric power-up rings expand and a swirling shower of "
+        "pixel-sparks and light-stars fans around her; eyes lifting into the swirl, a "
+        "triumphant awe blooming.",
+        "The sparks drift out, easing to a sustained halo of slowly falling light-stars as "
+        "the move settles; her radiant smile landing, eyes triumphant and haloed.",
+    ),
+    # F6 - loop close, matched to F1 (settle-back)
+    (
+        "Medium-full three-quarter hero matching Frame 1: a slow settle-back is already "
+        "easing the framing toward the opening position as the pop glow fades and the last "
+        "light-stars drift down; she returns the stick to her collarbone, gaze softening.",
+        "The pull continues as her smile eases to the confident poise of the opening and the "
+        "voxel gown softens back toward the cobalt slip's stillness; eyes calming.",
+        "She lifts her eyes softly to the lens, landing precisely on the Frame 1 pose, "
+        "weight settled in the voxel world \u2014 a seamless loop seam.",
+    ),
+]
+
+
 def build_block(beats):
     # Replaces ONLY the `SUBJECT ACTION WITH TIMING:` header + its bullet beat
     # lines. Ends with a single trailing newline so the original blank line
