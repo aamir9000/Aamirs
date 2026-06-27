@@ -2622,14 +2622,16 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE & ANGLE: front-on medium-wide, subject fills ~45%.
 
-CAMERA MOVEMENT (CHOREOGRAPHY): a slow 5% push following her into the car, gimbal-smooth, the reflections sliding.
-
 LENS: 35mm, f/2.8.
 
-SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.2s — she steps over the threshold.
-- 2.2–4.3s — she draws the opera glove up the arm.
-- 4.3–6.0s — she turns to the button panel, reaching.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Front-on medium-wide: she is already stepping over the threshold into the mirrored chrome elevator as a slow push follows her in, infinite reflections sliding behind and the LED strip glowing; gaze sweeping the car.
+- [00:02–00:04] The push glides as she draws the single statement opera glove up her arm, chrome speculars travelling; a cool, composed set to her eyes.
+- [00:04–00:06] She turns to the button panel and reaches, gaze fixing on the glowing button with editorial focus.
+
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
+
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
 FLUIDITY & WEIGHT NOTES: the entry rolls smoothly onto the lead boot; the glove-draw flows from the shoulder; the turn to the panel is hip-led — sharp yet fluid.
 
@@ -2696,14 +2698,16 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE & ANGLE: macro, detail fills ~70%.
 
-CAMERA MOVEMENT (CHOREOGRAPHY): a slow 4% push to the button as the fingertip presses, locked otherwise.
-
 LENS: 100mm macro, f/2.8.
 
-SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.2s — the gloved finger approaches the button.
-- 2.2–4.1s — it presses and the LED blooms ruby.
-- 4.1–6.0s — the ruby light washes outward across the chrome.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Extreme macro on the gloved fingertip: it is already approaching the glowing floor button as a slow push closes in, chrome reflections curving around it.
+- [00:02–00:04] The fingertip presses and the LED blooms ruby, light igniting under the glove.
+- [00:04–00:06] The ruby wash spills outward across the polished chrome, the mirror-reflections catching fire with colour.
+
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
+
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
 FLUIDITY & WEIGHT NOTES: the press is a soft, precise contact flowing from a relaxed wrist; no stiffness, a deliberate elegant touch.
 
@@ -2770,14 +2774,16 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE & ANGLE: profile medium, subject fills ~55%.
 
-CAMERA MOVEMENT (CHOREOGRAPHY): a slow arc from profile toward three-quarter as the doors part, smooth.
-
 LENS: 50mm, f/2.0.
 
-SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.8s — the elevator chimes and the doors begin to part.
-- 1.8–3.9s — ruby light spills in and her jumpsuit re-tones ruby.
-- 3.9–6.0s — she lowers the visor and gazes into the ruby hall.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Profile medium: the elevator chimes and the doors are already parting as a slow arc swings from profile toward three-quarter; gaze turning to the widening gap.
+- [00:02–00:04] Ruby light spills in across her body and the architectural jumpsuit re-tones ruby, the velvet hall blooming beyond; eyes catching the warm glow.
+- [00:04–00:06] She lowers the sculptural visor and gazes into the ruby hall, a cool powerful calm in her eyes.
+
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
+
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
 FLUIDITY & WEIGHT NOTES: the visor-lower flows from a relaxed wrist; the lean toward the doors is continuous and breathing; the re-tone washes over her like light, not a cut — fluid.
 
@@ -2844,14 +2850,16 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE & ANGLE: low-angle close-up, subject fills ~60%.
 
-CAMERA MOVEMENT (CHOREOGRAPHY): a slow rise-and-push from below to eye-level as the doors reopen cobalt, one smooth crane.
-
 LENS: 50mm, f/1.8.
 
-SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.5s — the doors close on ruby and reopen on cobalt.
-- 1.5–3.6s — cobalt light washes her and the jumpsuit re-tones.
-- 3.6–6.0s — she lifts her chin into the cool light with a confident set.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Low-angle close-up: the doors are already sliding shut on ruby and reopening on a cobalt glass atrium as a smooth crane begins to rise from below; gaze flicking to the cool light.
+- [00:02–00:04] Cobalt light washes over her and the jumpsuit re-tones cobalt as the crane lifts toward eye-level; eyes cooling, brow settling into command.
+- [00:04–00:06] At eye-level she lifts her chin into the cool light with a confident set, gaze steady and bold.
+
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
+
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
 FLUIDITY & WEIGHT NOTES: the chin-lift and shoulder-rise flow continuously; the visor adjust is a relaxed wrist motion; the re-tone washes like light — supremely fluid.
 
@@ -2918,14 +2926,16 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE & ANGLE: front-on full/wide hero, subject fills ~50%.
 
-CAMERA MOVEMENT (CHOREOGRAPHY): a slow settling 3% push to dead-front as she steps out, near-locked for the hero.
-
 LENS: 28mm, f/3.5.
 
-SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.2s — the doors open fully on gold and she steps out.
-- 2.2–4.2s — she squares tall into the gold light, jumpsuit fully toned.
-- 4.2–6.0s — she frames a powerful pose, a radiant micro-smile to lens.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Front-on full/wide hero: the doors are already opening fully on a gold-leaf gallery as she steps out and a slow push settles toward dead-front; gaze rising into the gold.
+- [00:02–00:04] She squares tall into the gold light, the jumpsuit fully re-toned gold and reflections glinting; eyes proud and luminous.
+- [00:04–00:06] She frames a powerful editorial pose, a radiant micro-smile landing to lens as the push locks.
+
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
+
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
 FLUIDITY & WEIGHT NOTES: the step-out flows into a tall grounded square; the arm-frame extends from the shoulder; the smile blooms gradually — effortless editorial power, never stiff.
 
@@ -2992,14 +3002,16 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE & ANGLE: front-on medium-wide matching Frame 1, subject ~45%.
 
-CAMERA MOVEMENT (CHOREOGRAPHY): a slow pull-back into the car reversing Frame 1's push, so the end pose meets the opening entry.
-
 LENS: 35mm, f/2.8.
 
-SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.3s — she turns back toward the elevator.
-- 2.3–4.7s — the gold tone cools to chrome-neutral and the visor slides up.
-- 4.7–6.0s — she settles into the Frame 1 entry stance.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Front-on medium-wide matching Frame 1: a slow pull-back into the car is already reversing the opening push as she turns back toward the elevator; gaze following the chrome.
+- [00:02–00:04] The pull-back continues as the gold tone cools back to chrome-neutral and the visor slides up, reflections calming; a composed cool expression returning.
+- [00:04–00:06] She settles into the exact entry stance of Frame 1, weight on the threshold foot, eyes sweeping the mirrored car — a seamless loop seam.
+
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
+
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
 FLUIDITY & WEIGHT NOTES: the turn-back is a single hip-led rotation; the tone-cool flows as a light-wipe; the reset reads as natural continuation, not a rewind.
 

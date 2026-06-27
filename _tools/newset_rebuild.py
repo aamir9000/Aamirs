@@ -381,6 +381,67 @@ BEATS[5] = [
 ]
 
 
+BEATS[6] = [
+    # Frame 1 - front-on medium-wide, stepping into elevator
+    (
+        "Front-on medium-wide: she is already stepping over the threshold into the mirrored "
+        "chrome elevator as a slow push follows her in, infinite reflections sliding behind "
+        "and the LED strip glowing; gaze sweeping the car.",
+        "The push glides as she draws the single statement opera glove up her arm, chrome "
+        "speculars travelling; a cool, composed set to her eyes.",
+        "She turns to the button panel and reaches, gaze fixing on the glowing button with "
+        "editorial focus.",
+    ),
+    # Frame 2 - macro on gloved fingertip pressing button (no face)
+    (
+        "Extreme macro on the gloved fingertip: it is already approaching the glowing floor "
+        "button as a slow push closes in, chrome reflections curving around it.",
+        "The fingertip presses and the LED blooms ruby, light igniting under the glove.",
+        "The ruby wash spills outward across the polished chrome, the mirror-reflections "
+        "catching fire with colour.",
+    ),
+    # Frame 3 - profile medium, RUBY floor reveal
+    (
+        "Profile medium: the elevator chimes and the doors are already parting as a slow arc "
+        "swings from profile toward three-quarter; gaze turning to the widening gap.",
+        "Ruby light spills in across her body and the architectural jumpsuit re-tones ruby, "
+        "the velvet hall blooming beyond; eyes catching the warm glow.",
+        "She lowers the sculptural visor and gazes into the ruby hall, a cool powerful calm "
+        "in her eyes.",
+    ),
+    # Frame 4 - low-angle close-up, COBALT floor
+    (
+        "Low-angle close-up: the doors are already sliding shut on ruby and reopening on a "
+        "cobalt glass atrium as a smooth crane begins to rise from below; gaze flicking to "
+        "the cool light.",
+        "Cobalt light washes over her and the jumpsuit re-tones cobalt as the crane lifts "
+        "toward eye-level; eyes cooling, brow settling into command.",
+        "At eye-level she lifts her chin into the cool light with a confident set, gaze "
+        "steady and bold.",
+    ),
+    # Frame 5 - front-on full/wide hero, GOLD floor
+    (
+        "Front-on full/wide hero: the doors are already opening fully on a gold-leaf gallery "
+        "as she steps out and a slow push settles toward dead-front; gaze rising into the "
+        "gold.",
+        "She squares tall into the gold light, the jumpsuit fully re-toned gold and "
+        "reflections glinting; eyes proud and luminous.",
+        "She frames a powerful editorial pose, a radiant micro-smile landing to lens as the "
+        "push locks.",
+    ),
+    # Frame 6 - front-on medium-wide loop close
+    (
+        "Front-on medium-wide matching Frame 1: a slow pull-back into the car is already "
+        "reversing the opening push as she turns back toward the elevator; gaze following "
+        "the chrome.",
+        "The pull-back continues as the gold tone cools back to chrome-neutral and the visor "
+        "slides up, reflections calming; a composed cool expression returning.",
+        "She settles into the exact entry stance of Frame 1, weight on the threshold foot, "
+        "eyes sweeping the mirrored car \u2014 a seamless loop seam.",
+    ),
+]
+
+
 def build_block(beats):
     # Replaces ONLY the `SUBJECT ACTION w/ BEAT-TIMING:` header + its bullet
     # beat lines. Whatever follows (a blank line then SPOKEN LINE or
