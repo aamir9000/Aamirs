@@ -351,7 +351,7 @@ DONE (SHOT BREAKDOWN, rebuilt): Beauty Ad (129), Cinematic New Set (123), Set 4 
 ALREADY-ADVANCED (SUBJECT + OBJECT timecoded — leave as-is, do NOT template): Magical Action
   Heavy-Detail (151), Magical Action Set 2 Expression (151).
 STILL NEEDS REBUILD (uses `SUBJECT ACTION WITH TIMING` markdown — apply section B):
-  - 20 More Full Reel Concepts Set 3.txt (128)
+  - 20 More Full Reel Concepts Set 3.txt — DONE (concepts 31-50, 128 video prompts; see PROGRESS).
   - Heavy-Detail/20 Reel Concepts Master-Depth Build.txt (140)
   - Heavy-Detail/Concept 100 · The Unboxing.txt (note SA=6 vs VP=4 — inspect; possible
     image-side SUBJECT ACTION or extra blocks)
@@ -365,3 +365,27 @@ NEEDS REBUILD, NON-STANDARD FORMAT (verify per file before running an engine):
     SA/SB/SO marker — confirm its action/timing layout first).
   - aira_set4.txt (117 VP) and aira_set5.txt (123 VP) — Format B plain text
     ("---- FRAME k · SIZE · ANGLE ----"); audio woven inline; need advanced breakdown + variety.
+
+
+- CONCEPTS/20 More Full Reel Concepts Set 3.txt (concepts 31-50, 128 video prompts) —
+  COMPLETE. Clean Beauty-Ad markdown format; rebuilt with the GENERIC engine
+  `_tools/md_rebuild.py "<path>" N` (handles bullet AND inline `SUBJECT ACTION WITH TIMING`).
+  Per video prompt: removed `CAMERA MOVEMENT`, replaced action with a tailored timed 3-beat
+  `SHOT BREAKDOWN`, reset `DURATION`/`FRAME RATE` to the 6s standard. Frame counts: 6 for most,
+  7 for 31/34/37/40/43/48, 8 for 50 (Phoenix finale). Spoken concepts deliver the line in the
+  Frame-5 beat (quoted accurately, e.g. "worth its weight in gold", "I always rise"); SILENT
+  concepts 32/36/41/46 use a wordless expression reveal. Diversified the camera grammar (the
+  source was push-heavy: added a slow arc on the gather frame + orbit on the hero/transform
+  frame), kept already-in-motion starts, eye-led identity-safe expression, and the per-concept
+  "single face stays clear and locked / never multiplied / never covered" guard inside the
+  transform beat where the source required it. Controlled-vibrancy honoured (e.g. Gilded
+  Renaissance kept gold+oxblood candlelit, not garish). Also neutralised the only 2 stray
+  "slow-mo" phrases (in Concept 32's IMAGE prompt) to "weightless real-time". Verified: 0
+  leftover SUBJECT ACTION, 0 standalone CAMERA MOVEMENT, 128 SHOT BREAKDOWN == 128 video
+  prompts == 128 standard FRAME RATE == 128 DURATION 6s == 128 first-beat brackets; 128 image
+  ORIENTATION LOCKs intact; 0 genuine (non-negated) slow-mo.
+
+NEXT IN QUEUE (markdown SUBJECT ACTION WITH TIMING — use md_rebuild.py): Heavy-Detail/Master-Depth
+Build (140), Concepts 91-110 (26), NEW Reel 131-150 (134), Time-Freeze (verify the 8 "oner"
+frames first), Concept 100/170. Then non-standard: Magical Action · Master Set (advanced already;
+only variable durations differ) and aira_set4 / aira_set5 (Format B).
