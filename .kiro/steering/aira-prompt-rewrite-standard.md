@@ -118,7 +118,7 @@ interpolate strictly between locked keyframes; never invent a new face/hands/sec
 ====================================================================
 Read each fully first; tailor camera/expression to its dance/world. Suggested treatments:
 - 20 Cinematic Reels New Set — DONE (all 20 concepts / 123 video prompts rebuilt). See PROGRESS below.
-- 20 Full Reel Set 4 (51-70) — couture-material transforms; track the transform, orbit the apex.
+- 20 Full Reel Set 4 (51-70) — DONE (all 20 concepts / 122 video prompts rebuilt). See PROGRESS below.
 - 20 Full Reel Set 5 (71-79) — studio couture transforms (image-heavy); vary crop/angle hard.
 - Set 5 (cont 2) / · Set 5 (cont) / Set 5 cont 3 / cont 4 — couture/clothes-change; transform-led.
 - 20 Magical Action Heavy-Detail — ACTION (hypercar/chase/combat); handheld, whip-pan, low-hero,
@@ -199,3 +199,26 @@ DONE (section B advanced rebuild applied + verified + pushed to aira-prompts-enh
 NEXT IN QUEUE: 20 Full Reel Concepts Set 4 (51-70) — couture-material transforms.
 (Remaining queue unchanged below in section E; each file may need a format-specific
 adaptation of the section-B method like the one documented above.)
+
+
+- CONCEPTS/20 Full Reel Concepts Set 4 (Concepts 51.txt (concepts 51-70) — COMPLETE
+  (20 concepts, 122 video prompts; concept 66 = 8 frames, all others 6). This file is the
+  Beauty-Ad markdown format, so section B applied directly: per video prompt removed the
+  standalone `CAMERA MOVEMENT:` line, replaced `SUBJECT ACTION WITH TIMING` with a tailored
+  timed 3-beat `SHOT BREAKDOWN` (track the transform / orbit the apex; each beat = shot/angle
+  + action + transform/material interaction + eye-led expression + camera move; already-in-
+  motion starts; camera variety), and RESET the existing `DURATION:` line (was mixed 5s/6s
+  with "of 30s total" running annotations) and `FRAME RATE + MOTION BLUR:` line to the 6s
+  standard strings. Image prompts already had varied FRAMING + SUBJECT FRAMING & POSITION +
+  ORIENTATION LOCK and identity locks already the expression-safe model — left untouched.
+  Spoken concepts 51-63 embed the line inside the Frame-4 beat (the image `SPOKEN LINE:`
+  field, 29 of them, was NOT modified); silent concepts 64-70 use a wordless expression
+  reveal in Frame 4 instead. Verified: 0 leftover SUBJECT ACTION, 0 standalone CAMERA
+  MOVEMENT, 122 SHOT BREAKDOWN == 122 video prompts == 122 standard FRAME RATE == 122
+  DURATION 6s == 122 first-beat brackets == 122 identity locks; 122 image ORIENTATION LOCKs
+  intact; no non-negated slow-mo. Reusable engine: `_tools/set4_rebuild.py` (BEATS dict per
+  concept; also resets DURATION + FRAME RATE lines in place; idempotent).
+
+NEXT IN QUEUE: 20 Full Reel Concepts Set 5 (71-79) — studio couture transforms (image-heavy);
+vary crop/angle hard. Check its exact format first (it may match the Beauty-Ad markdown like
+Set 4, in which case set4_rebuild.py adapts with a path change).
