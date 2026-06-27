@@ -273,6 +273,79 @@ BEATS[81] = [
 ]
 
 
+BEATS[82] = [
+    # F1 - medium close chest-up (push-in)
+    (
+        "Medium close chest-up: a slow push-in is already gliding toward her as she tilts the "
+        "clear orb a few degrees into the key, the electric-violet oil wobbling and the "
+        "filament core crackling, glints sliding across the glass; gaze lowered to the orb.",
+        "The push continues as she lifts her eyes to lens on a soft inhale and a knowing "
+        "asymmetric quarter-smile blooms, a plasma arc branching slowly behind on the gloss "
+        "black.",
+        "She holds, charged and composed, one brow a hair higher, eyes bright and direct "
+        "(silent \u2014 no words).",
+    ),
+    # F2 - medium waist-up TRANSFORM (6% crane lift, plasma filaments weave + chrome sets gown)
+    (
+        "Medium waist-up rising: a slow 6% craning lift is already tracking the arcing "
+        "filaments as crackling plasma threads race up around her body in glowing electric "
+        "lines, magenta and cyan lacing the air; gaze following the racing filaments, face "
+        "charged.",
+        "The lift rides the weave as the threads lattice her torso and liquid chrome flows in "
+        "to set around them, the leading edge solidifying into the sculptural gown; a "
+        "wondering breath, brows lifting.",
+        "The gown finishes with a final electric pulse and a single spark arcs free as her "
+        "shoulders settle and she lifts her chin into the reveal.",
+    ),
+    # F3 - extreme macro, 5% rack-focus pull (label->face)
+    (
+        "Extreme macro on the glass orb with her soft presence behind: a slow 5% rack-focus "
+        "pull is already underway as the filament core crackles and a tiny plasma thread "
+        "licks the inner glass, a specular sliding across the curve and her fingertips "
+        "feather-light on the chrome cap.",
+        "The rack-focus pulls from the crisp label window back toward her soft charged face "
+        "as the electric bokeh blooms; gaze warming behind the orb.",
+        "The oil settles with a faint internal current, her face soft and charged in focus, "
+        "eyes bright.",
+    ),
+    # F4 - low 3/4 body, 6% pan up (boot -> cuffed wrist)
+    (
+        "Low three-quarter body down the leg-and-wrist line: a slow 6% pan up is already "
+        "travelling from the illuminated boot as she pushes the leg forward and rotates the "
+        "ankle, the clear platform catching electric light and the cyan core glowing "
+        "brighter, casting a wash at the floor.",
+        "The pan rises up the body line as she lifts and rotates the cuffed wrist into frame, "
+        "the chrome stack rocking with plasma threads arcing across the gaps and the choker "
+        "pulsing; gaze glancing down the line.",
+        "She lands a pleased quarter-smile glancing down the body, weight grounded, the "
+        "plasma accessories settling.",
+    ),
+    # F5 - medium-full MAGIC, 8% orbital arc (plasma helixes)
+    (
+        "Medium-full with the orbital helixes filling the width: a slow 8% orbital arc is "
+        "already circling her as she raises her open palms and ribbons of live plasma stream "
+        "from her fingertips, coiling and branching in mid-air in defiance of gravity; gaze "
+        "drawn to the dancing filaments.",
+        "The orbit rides the magic as the filaments sweep into two spiralling orbital "
+        "helixes circling her like captured lightning, each trailing a glowing comet-glow; "
+        "her face serene-radiant at the centre, eyes widening.",
+        "The helixes settle into a steady glowing orbit with a final spark shedding free at "
+        "the apex as she holds the transcendent pose; a radiant smile landing, eyes alight.",
+    ),
+    # F6 - perfect-loop close (8% push-in to F1)
+    (
+        "Medium close chest-up matching Frame 1: a slow 8% push-in is already resolving "
+        "toward the exact opening framing as the last orbiting plasma filament fades into a "
+        "drifting arc; she lowers her gaze to the hero orb and tilts it, the electric-violet "
+        "oil rocking gently and the core crackling soft.",
+        "The push settles as she lifts her eyes back to lens on a soft exhale with a composed "
+        "knowing quarter-smile, the scene resolving to the opening tableau; eyes calming.",
+        "Every element resolves precisely to the Frame 1 composition, framing locked \u2014 a "
+        "seamless loop seam.",
+    ),
+]
+
+
 def build_block(beats):
     return (
         BREAKDOWN_HEADER + "\n"

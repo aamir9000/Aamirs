@@ -700,13 +700,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: medium close, chest-up, subject fills 55% of the vertical frame.
 
-CAMERA MOVEMENT: a single slow 8% push-in across the clip, otherwise locked-off and stable — one move only, no whip, no handoff.
-
 LENS: 50mm, f/2.8, smooth creamy background fall-off with soft plasma-glow bokeh.
 
-SUBJECT ACTION WITH TIMING:
-- 0.0–3.0s — Aira tilts the clear orb a few degrees into the key light, the electric-violet oil wobbling and the filament core crackling, glints sliding across the glass.
-- 3.0–6.0s — she lifts her eyes to the lens on a soft inhale as the knowing asymmetric quarter-smile blooms, a plasma arc branching slowly behind. One clean subject action, real wobble and arc physics throughout.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Medium close chest-up: a slow push-in is already gliding toward her as she tilts the clear orb a few degrees into the key, the electric-violet oil wobbling and the filament core crackling, glints sliding across the glass; gaze lowered to the orb.
+- [00:02–00:04] The push continues as she lifts her eyes to lens on a soft inhale and a knowing asymmetric quarter-smile blooms, a plasma arc branching slowly behind on the gloss black.
+- [00:04–00:06] She holds, charged and composed, one brow a hair higher, eyes bright and direct (silent — no words).
 
 LIGHTING: clamshell beauty key with lifted clean fill; live moving speculars travelling across the glossy orb and skin as it tips; deep seamless held well down; electric magenta-cyan wash from the plasma arcs and filament lines; cool violet hair-light steady on the chrome ponytail.
 
@@ -714,9 +713,9 @@ ENVIRONMENT: electric plasma studio, slow crackling arcs drifting behind, high-g
 
 AUDIO: silent of any voice — NO spoken word, NO vocal of any kind. Ambient bed — a low warm studio room tone with a faint electric hum throughout. SFX — a soft glossy glass-tap as her fingers settle on the orb at 0.4s (gentle attack, short tail), a faint crackling plasma-fizz at 1.2s, a light airy electric-shimmer accent at 4.6s timed to the eye-lift. Reaction — a soft audible breath at 3.0s. VO — none.
 
-DURATION: 5 seconds (0:00–0:05 of 30s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps acquisition, 180° shutter, natural motion blur on the orb tilt and drifting arc; playback 24fps real-time.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — lips closed/softly parted, composed.
 
@@ -779,14 +778,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: medium, waist-up rising to capture the full plasma-weave, subject filling about 50% of the vertical frame.
 
-CAMERA MOVEMENT: a slow 6% craning lift tracking the arcing filaments upward ( single move), locked otherwise — no whip, no cut, one continuous take through the transform.
-
 LENS: 50mm, f/2.8, creamy plasma-glow fall-off behind.
 
-SUBJECT ACTION WITH TIMING:
-- 0.0–1.5s — crackling plasma filaments arc out from the orb and the floor and race up around her body in glowing electric threads, magenta and cyan lacing the air as her face stays pin-locked and charged.
-- 1.5–4.0s — the threads weave a glowing lattice around her torso and the liquid chrome flows in to set around them, the leading edge solidifying into the sculptural gown (face, hairline and eyes identical throughout, only wardrobe changing).
-- 4.0–6.0s — the gown finishes setting with a final electric pulse, a single spark arcing free, her shoulders settling as she lifts her chin into the reveal. One clean cause→effect transform, real arc physics throughout.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Medium waist-up rising: a slow 6% craning lift is already tracking the arcing filaments as crackling plasma threads race up around her body in glowing electric lines, magenta and cyan lacing the air; gaze following the racing filaments, face charged.
+- [00:02–00:04] The lift rides the weave as the threads lattice her torso and liquid chrome flows in to set around them, the leading edge solidifying into the sculptural gown; a wondering breath, brows lifting.
+- [00:04–00:06] The gown finishes with a final electric pulse and a single spark arcs free as her shoulders settle and she lifts her chin into the reveal.
 
 LIGHTING: clamshell beauty key holding the face locked; travelling electric magenta-cyan practical wash as the filaments weave; intensified violet rim on the lifted ponytail; cyclorama held well down; bounce kick keeping filament colour saturated and clean.
 
@@ -794,9 +791,9 @@ ENVIRONMENT: electric plasma studio, branching arcs racing across the deep cyclo
 
 AUDIO: silent of any voice — NO spoken word, NO vocal of any kind. Ambient bed — a low warm studio room tone with a faint electric hum. SFX — soft crackling plasma-arc fizzes building from 0.3s, a smooth electric weave-whoosh at 1.6s as the threads knit, a glossy chrome set-and-snap shimmer at 4.0s as the gown finishes, a tiny zap-tick at 4.8s as a spark arcs free. Reaction — a soft charged breath only, no voiced sound. VO — none.
 
-DURATION: 6 seconds (0:05–0:11 of 30s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps acquisition, 180° shutter, natural motion blur on the arcing and weaving filaments; playback 24fps real-time.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — lips parted in awe, no speech, no mouthed words.
 
@@ -859,13 +856,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: extreme macro, the glass orb filling about 55% of the vertical frame, her soft presence behind.
 
-CAMERA MOVEMENT: a slow 5% macro rack-focus pull from the label window back to her soft glossy face behind ( single move), otherwise locked — one continuous take, no cut.
-
 LENS: 100mm macro, f/4, razor-thin focus plane, creamy electric fall-off.
 
-SUBJECT ACTION WITH TIMING:
-- 0.0–2.4s — the filament core crackles and a tiny plasma thread licks the inner glass as a specular slides across the curve, her fingertips resting feather-light on the chrome cap.
-- 2.4–6.0s — a slow rack-focus pulls from the crisp label window back to her soft charged face behind, the electric bokeh blooming, the oil settling with a faint internal current. One clean macro beat, real plasma physics.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Extreme macro on the glass orb with her soft presence behind: a slow 5% rack-focus pull is already underway as the filament core crackles and a tiny plasma thread licks the inner glass, a specular sliding across the curve and her fingertips feather-light on the chrome cap.
+- [00:02–00:04] The rack-focus pulls from the crisp label window back toward her soft charged face as the electric bokeh blooms; gaze warming behind the orb.
+- [00:04–00:06] The oil settles with a faint internal current, her face soft and charged in focus, eyes bright.
 
 LIGHTING: raking macro beauty key maximising the glass specular and internal filament glow; small white fill lifting the shadow side; electric rim on the glass; background gown-glow held down; cyan bounce keeping the oil saturated.
 
@@ -873,9 +869,9 @@ ENVIRONMENT: the electric plasma studio fully defocused behind, a soft glossy vi
 
 AUDIO: silent of any voice — NO spoken word, NO vocal of any kind. Ambient bed — a low warm studio room tone with a faint electric hum. SFX — a soft crackling plasma-fizz at 0.5s with a short electric tail, a faint glossy glass-settle tick at 1.4s, a gentle airy electric-shimmer accent at 2.9s timed to the rack-focus. Reaction — none this frame. VO — none.
 
-DURATION: 5 seconds (0:11–0:16 of 30s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps acquisition, 180° shutter, natural motion blur on the crackling filament; playback 24fps real-time.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — no speech, face soft-focus.
 
@@ -936,13 +932,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: low three-quarter body shot down the leg-and-wrist line, footwear in the lower third, face at the top, subject filling about 70% of the vertical frame.
 
-CAMERA MOVEMENT: a slow 6% pan up the body line from the illuminated boot to the cuffed wrist ( single move), otherwise locked — one continuous take, no cut.
-
 LENS: 35mm, f/3.5, creamy electric fall-off with drifting plasma bokeh.
 
-SUBJECT ACTION WITH TIMING:
-- 0.0–2.4s — she pushes the boot leg forward and rotates the ankle a few degrees so the clear platform catches the electric light and the cyan core glows brighter, casting a clean wash at the floor.
-- 2.4–6.0s — she lifts and rotates the cuffed wrist into frame, the chrome stack rocking with plasma threads arcing across the gaps and the choker pulsing, glancing down the body line with a pleased quarter-smile. One clean styling action, real arc physics.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Low three-quarter body down the leg-and-wrist line: a slow 6% pan up is already travelling from the illuminated boot as she pushes the leg forward and rotates the ankle, the clear platform catching electric light and the cyan core glowing brighter, casting a wash at the floor.
+- [00:02–00:04] The pan rises up the body line as she lifts and rotates the cuffed wrist into frame, the chrome stack rocking with plasma threads arcing across the gaps and the choker pulsing; gaze glancing down the line.
+- [00:04–00:06] She lands a pleased quarter-smile glancing down the body, weight grounded, the plasma accessories settling.
 
 LIGHTING: raking three-quarter beauty key maximising internal glow and speculars; white fill lifting shadows; electric rim on gown and cuffs; travelling plasma-wash practical; cyan floor bounce keeping the boots saturated.
 
@@ -950,9 +945,9 @@ ENVIRONMENT: electric plasma studio with drifting arcs softly defocused behind, 
 
 AUDIO: silent of any voice — NO spoken word, NO vocal of any kind. Ambient bed — a low warm studio room tone with a faint electric hum. SFX — a soft glossy boot-plant tick with a faint electric core-hum as the platform plants at 0.6s, a light chrome-cuff clack with a tiny plasma-fizz as the bracelets settle at 2.6s, a faint airy electric-shimmer accent at 3.6s timed to the choker pulse. Reaction — none this frame. VO — none.
 
-DURATION: 5 seconds (0:16–0:21 of 30s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps acquisition, 180° shutter, natural motion blur on the ankle rotation and cuff swing; playback 24fps real-time.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — no speech, soft pleased expression.
 
@@ -1015,14 +1010,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: medium-full, subject filling about 65% of the vertical frame, the orbital helixes filling the width.
 
-CAMERA MOVEMENT: a slow 8% orbital arc around her matching the spiralling plasma helixes ( single move), otherwise locked — one continuous take, no cut.
-
 LENS: 35mm, f/2.8, creamy electric fall-off with glowing filament bokeh.
 
-SUBJECT ACTION WITH TIMING:
-- 0.0–1.8s — as she raises her open palms, ribbons of live plasma stream from her fingertips and dance in defiance of gravity, coiling and branching in mid-air.
-- 1.8–4.2s — the dancing filaments sweep into two spiralling orbital helixes circling her body like captured lightning, each trailing a glowing comet-glow, her face serene-radiant at the centre.
-- 4.2–6.0s — the helixes settle into a steady glowing orbit, a final spark shedding free at the apex as she holds the transcendent pose. One clean magic beat, real arc and orbital physics, identity pin-locked throughout.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Medium-full with the orbital helixes filling the width: a slow 8% orbital arc is already circling her as she raises her open palms and ribbons of live plasma stream from her fingertips, coiling and branching in mid-air in defiance of gravity; gaze drawn to the dancing filaments.
+- [00:02–00:04] The orbit rides the magic as the filaments sweep into two spiralling orbital helixes circling her like captured lightning, each trailing a glowing comet-glow; her face serene-radiant at the centre, eyes widening.
+- [00:04–00:06] The helixes settle into a steady glowing orbit with a final spark shedding free at the apex as she holds the transcendent pose; a radiant smile landing, eyes alight.
 
 LIGHTING: feathered beauty key holding the face serene; travelling multi-colour electric practical wash from the orbiting filaments; intensified violet rim on the lifted ponytail; cyclorama held well down; cyan bounce keeping the filaments saturated and clean.
 
@@ -1030,9 +1023,9 @@ ENVIRONMENT: surreal electric plasma studio, the captured-lightning helixes orbi
 
 AUDIO: silent of any voice — NO spoken word, NO vocal of any kind. Ambient bed — a low warm studio room tone with a rising airy electric hum. SFX — soft crackling plasma-streams building from 0.2s, a smooth electric arc-whoosh at 1.2s as the filaments leap from the palms, gentle whooshing helix-swooshes at 1.9s as the orbits form, a soft sparkling chime-shimmer at 4.2s as the orbit settles, tiny zap-ticks continuing under as sparks shed. Reaction — a soft awed breath only, no voiced sound. VO — none.
 
-DURATION: 5 seconds (0:21–0:26 of 30s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps acquisition, 180° shutter, natural motion blur on the dancing and orbiting filaments; playback 24fps real-time.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — lips parted in awe, no speech, no mouthed words.
 
@@ -1095,13 +1088,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: medium close, chest-up, subject fills about 55% of the vertical frame — matched to Frame 1.
 
-CAMERA MOVEMENT: a single slow 8% push-in resolving to the exact opening framing ( single move), otherwise locked — one continuous take, no cut, composed so the end position matches Frame 1's start.
-
 LENS: 50mm, f/2.8, smooth creamy electric fall-off.
 
-SUBJECT ACTION WITH TIMING:
-- 0.0–3.0s — the last orbiting plasma filament fades into a drifting arc as she lowers her gaze to the hero orb and tilts it a few degrees, the electric-violet oil rocking gently and the filament core crackling soft.
-- 3.0–6.0s — she lifts her eyes back to the lens on a soft exhale with a composed knowing quarter-smile, the scene resolving precisely to the opening tableau for a seamless loop. One clean action, real wobble and arc physics, identity pin-locked.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Medium close chest-up matching Frame 1: a slow 8% push-in is already resolving toward the exact opening framing as the last orbiting plasma filament fades into a drifting arc; she lowers her gaze to the hero orb and tilts it, the electric-violet oil rocking gently and the core crackling soft.
+- [00:02–00:04] The push settles as she lifts her eyes back to lens on a soft exhale with a composed knowing quarter-smile, the scene resolving to the opening tableau; eyes calming.
+- [00:04–00:06] Every element resolves precisely to the Frame 1 composition, framing locked — a seamless loop seam.
 
 LIGHTING: clamshell beauty key identical to the opening; soft settled plasma glow; cool violet rim on the ponytail; cyclorama held well down; glossy catch on the orb — matched to Frame 1.
 
@@ -1109,9 +1101,9 @@ ENVIRONMENT: electric plasma studio settled to its calm opening state, high-glos
 
 AUDIO: silent of any voice — NO spoken word, NO vocal of any kind. Ambient bed — a low warm studio room tone with a faint electric hum settling to match the opening. SFX — a soft fading plasma-fizz as the last filament settles at 0.6s, a gentle glossy glass-tap as her fingers settle on the orb at 1.8s, a faint airy electric-shimmer accent at 3.9s timed to the eye-lift, resolving cleanly so the tail matches the head for a seamless loop. Reaction — a soft exhale only, no voiced sound. VO — none.
 
-DURATION: 4 seconds (0:26–0:30 of 30s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps acquisition, 180° shutter, natural motion blur on the orb tilt; playback 24fps real-time.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — lips softly parted, composed, no speech.
 
