@@ -4602,14 +4602,16 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE & ANGLE: front-on medium-wide, subject fills ~45%.
 
-CAMERA MOVEMENT (CHOREOGRAPHY): a slow 6% push down the corridor toward the red door behind her, gimbal-smooth, suspenseful.
-
 LENS: 35mm, f/2.2.
 
-SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.1s — she draws the second glove on.
-- 2.1–4.1s — she squares to the red door, lowering her gaze to the handle.
-- 4.1–6.0s — she lifts a hand toward the brass handle, resolve building.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Front-on medium-wide down the charcoal corridor: she is already drawing the second glove on as a slow suspenseful push glides toward the glowing red door behind her, amber sconces pooling; gaze low and focused.
+- [00:02–00:04] The push creeps closer as she squares to the red door and lowers her gaze to the brass handle, jaw set; eyes steady with resolve.
+- [00:04–00:06] She lifts a hand toward the handle, resolve building, eyes narrowing a touch in dramatic focus.
+
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
+
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
 FLUIDITY & WEIGHT NOTES: the glove-draw flows from a relaxed wrist; the square-up is a grounded hip-led shift; the reach extends from the shoulder — controlled and alive.
 
@@ -4676,14 +4678,16 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE & ANGLE: macro, detail fills ~70%.
 
-CAMERA MOVEMENT (CHOREOGRAPHY): a slow 4% push toward the handle as her hand closes, locked otherwise.
-
 LENS: 100mm macro, f/2.8.
 
-SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.2s — her gloved hand rises into frame.
-- 2.2–4.2s — the fingers wrap the handle.
-- 4.2–6.0s — the handle turns, the door beginning to give.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Extreme macro on her gloved hand: it is already rising into frame toward the brass handle as a slow push closes in, red lacquer glowing behind.
+- [00:02–00:04] The fingers wrap the handle, leather creasing around the cool brass.
+- [00:04–00:06] The handle turns and the door begins to give, a sliver of light breaking at the seam.
+
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
+
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
 FLUIDITY & WEIGHT NOTES: the grip is deliberate and weighted; the turn flows continuously from the wrist — no jerk.
 
@@ -4750,14 +4754,16 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE & ANGLE: profile medium, subject fills ~55%.
 
-CAMERA MOVEMENT (CHOREOGRAPHY): a slow arc from profile toward three-quarter as she rises from the boot, smooth.
-
 LENS: 50mm, f/2.2.
 
-SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.2s — she pulls the boot zip on the raised foot.
-- 2.2–4.2s — she lowers the foot and presses it home.
-- 4.2–6.0s — she straightens, gaze rising to the red door, hand returning to the handle.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Profile medium: she is already pulling the zip of one black ankle boot on a raised foot at a low ledge as a slow arc swings from profile toward three-quarter; gaze down to the boot.
+- [00:02–00:04] She lowers the foot and presses it home, the arc easing round; a quiet determination in her eyes.
+- [00:04–00:06] She straightens and her gaze rises to the red door, hand returning to the handle with renewed resolve.
+
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
+
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
 FLUIDITY & WEIGHT NOTES: the bend flows from hips and spine in sequence; the rise is one continuous unfurl — a dancer's grace, never stiff.
 
@@ -4824,14 +4830,16 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE & ANGLE: profile-to-front medium, subject fills ~55%.
 
-CAMERA MOVEMENT (CHOREOGRAPHY): the camera swings WITH the door, a smooth 90° arc carrying us from the dark corridor into the sunlit terrace in one continuous move.
-
 LENS: 35mm, f/2.5.
 
-SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.7s — she pushes the red door and steps through.
-- 1.7–3.7s — the world-seam crosses her body, flipping environment and look.
-- 3.7–6.0s — she emerges into sun and delivers the line to lens.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Profile-to-front medium: she is already pushing the red door and stepping through as the camera begins to swing with it, the dark corridor still behind; gaze forward into the gap.
+- [00:02–00:04] The camera rides the door through its arc and the world-seam crosses her body, flipping the charcoal corridor to sunlit terrace and the trench to the ivory-gold gown; eyes brightening as the light hits.
+- [00:04–00:06] She emerges into the sun and turns her face to lens, delivering the spoken line with a radiant released smile, brows lifting in warmth.
+
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
+
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
 SPOKEN LINE (lands ~4.3s): "every door is a chance to become someone new." (English, natural Indian accent, warm and assured)
 
@@ -4900,14 +4908,16 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE & ANGLE: full-length wide, subject fills ~45%, walking onto the terrace.
 
-CAMERA MOVEMENT (CHOREOGRAPHY): a smooth dolly-back leading her walk at a steady pace, holding her centred, gimbal-stable.
-
 LENS: 28mm, f/3.5.
 
-SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.1s — she strides onto the terrace from the door.
-- 2.1–4.3s — a confident free walk into the sun, drapes billowing.
-- 4.3–6.0s — she slows, a serene settle, beginning to turn back.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Full-length wide: she is already striding onto the sunlit rooftop terrace from the door as a smooth dolly-back leads her, white drapes billowing and blue sky behind; gaze open and free.
+- [00:02–00:04] The dolly holds her centred through a confident free walk into the sun, the ivory-gold gown flowing; a serene radiant smile.
+- [00:04–00:06] She eases her pace into a serene settle and begins to turn, weight rolling onto the door-side foot, eyes softening back toward the threshold.
+
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
+
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
 FLUIDITY & WEIGHT NOTES: a true free flow — hips leading, arms swinging naturally, gown trailing; deceleration eases into the turn; never stiff.
 
@@ -4974,14 +4984,16 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE & ANGLE: front-on medium-wide matching Frame 1, subject ~45%.
 
-CAMERA MOVEMENT (CHOREOGRAPHY): a slow push back into the corridor reversing Frame 1's move, so the end pose meets the opening stance.
-
 LENS: 35mm, f/2.2.
 
-SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.3s — she turns back toward the red door.
-- 2.3–4.7s — the world and look flip back toward the charcoal corridor and trench.
-- 4.7–6.0s — she settles into the Frame 1 stance before the door.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Front-on medium-wide matching Frame 1: a slow push back into the corridor is already reversing the opening move as she turns back toward the red door at the threshold; gaze drifting to the door.
+- [00:02–00:04] The push continues as the world and look flip back toward the charcoal corridor and tailored trench, sunlight giving way to amber sconce-glow; a composed dramatic calm returning.
+- [00:04–00:06] She settles into the exact stance of Frame 1 before the door, weight grounded, eyes low on the handle — a seamless loop seam.
+
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
+
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
 FLUIDITY & WEIGHT NOTES: the turn-back is a single hip-led rotation; the reverse-flip flows as a gentle door-wipe; the reset reads as natural continuation, not a rewind.
 

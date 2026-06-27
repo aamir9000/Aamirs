@@ -627,6 +627,70 @@ BEATS[9] = [
 ]
 
 
+BEATS[10] = [
+    # Frame 1 - front-on medium-wide corridor, suspense
+    (
+        "Front-on medium-wide down the charcoal corridor: she is already drawing the second "
+        "glove on as a slow suspenseful push glides toward the glowing red door behind her, "
+        "amber sconces pooling; gaze low and focused.",
+        "The push creeps closer as she squares to the red door and lowers her gaze to the "
+        "brass handle, jaw set; eyes steady with resolve.",
+        "She lifts a hand toward the handle, resolve building, eyes narrowing a touch in "
+        "dramatic focus.",
+    ),
+    # Frame 2 - macro on gloved hand on handle (no face)
+    (
+        "Extreme macro on her gloved hand: it is already rising into frame toward the brass "
+        "handle as a slow push closes in, red lacquer glowing behind.",
+        "The fingers wrap the handle, leather creasing around the cool brass.",
+        "The handle turns and the door begins to give, a sliver of light breaking at the "
+        "seam.",
+    ),
+    # Frame 3 - profile medium, fastening boot
+    (
+        "Profile medium: she is already pulling the zip of one black ankle boot on a raised "
+        "foot at a low ledge as a slow arc swings from profile toward three-quarter; gaze "
+        "down to the boot.",
+        "She lowers the foot and presses it home, the arc easing round; a quiet "
+        "determination in her eyes.",
+        "She straightens and her gaze rises to the red door, hand returning to the handle "
+        "with renewed resolve.",
+    ),
+    # Frame 4 - profile-to-front medium, world-flip transform (SPOKEN)
+    (
+        "Profile-to-front medium: she is already pushing the red door and stepping through "
+        "as the camera begins to swing with it, the dark corridor still behind; gaze forward "
+        "into the gap.",
+        "The camera rides the door through its arc and the world-seam crosses her body, "
+        "flipping the charcoal corridor to sunlit terrace and the trench to the ivory-gold "
+        "gown; eyes brightening as the light hits.",
+        "She emerges into the sun and turns her face to lens, delivering the spoken line "
+        "with a radiant released smile, brows lifting in warmth.",
+    ),
+    # Frame 5 - full-length wide, terrace walk
+    (
+        "Full-length wide: she is already striding onto the sunlit rooftop terrace from the "
+        "door as a smooth dolly-back leads her, white drapes billowing and blue sky behind; "
+        "gaze open and free.",
+        "The dolly holds her centred through a confident free walk into the sun, the "
+        "ivory-gold gown flowing; a serene radiant smile.",
+        "She eases her pace into a serene settle and begins to turn, weight rolling onto the "
+        "door-side foot, eyes softening back toward the threshold.",
+    ),
+    # Frame 6 - front-on medium-wide loop close
+    (
+        "Front-on medium-wide matching Frame 1: a slow push back into the corridor is "
+        "already reversing the opening move as she turns back toward the red door at the "
+        "threshold; gaze drifting to the door.",
+        "The push continues as the world and look flip back toward the charcoal corridor and "
+        "tailored trench, sunlight giving way to amber sconce-glow; a composed dramatic calm "
+        "returning.",
+        "She settles into the exact stance of Frame 1 before the door, weight grounded, eyes "
+        "low on the handle \u2014 a seamless loop seam.",
+    ),
+]
+
+
 def build_block(beats):
     # Replaces ONLY the `SUBJECT ACTION w/ BEAT-TIMING:` header + its bullet
     # beat lines. Whatever follows (a blank line then SPOKEN LINE or
