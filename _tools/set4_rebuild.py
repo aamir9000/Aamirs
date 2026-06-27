@@ -445,6 +445,72 @@ BEATS[56] = [
 ]
 
 
+BEATS[57] = [
+    # F1 - medium-full three-quarter hero on wet rooftop (push-in)
+    (
+        "Medium-full three-quarter hero on the rain-slick neon rooftop: a slow push-in is "
+        "already gliding toward her as she holds the gloss bottle to her collarbone, the "
+        "matte-black bodysuit breathing and drizzle drifting through magenta-and-cyan glow; "
+        "she lifts her eyes to lens with a cool knowing set.",
+        "The push continues as she begins a graceful quarter-turn, neon speculars travelling "
+        "the matte fabric; gaze easing to lens, chin level.",
+        "She settles mid-turn, weight rolling onto the front foot, a cool electric calm "
+        "holding as wet-ground reflections shimmer behind.",
+    ),
+    # F2 - full-figure transform, slightly low angle (arc following the fill up)
+    (
+        "Full-figure from a slightly low angle: a slow controlled arc is already rising as "
+        "fine clear glass-tube channels trace into being over her form; gaze tracking the "
+        "channels, eyes sharpening.",
+        "The arc rides the fill up her body as liquid magenta-and-cyan neon floods through "
+        "the channels, racing and lighting them up; a charged breath, brows lifting.",
+        "The last run floods to full glow and the neon gown settles as the arc eases; an "
+        "electric luminous look landing, eyes alight on the blazing tubes.",
+    ),
+    # F3 - beauty close, product-at-face / lips (6% push to lips)
+    (
+        "Beauty close, chest-up at a three-quarter: a slow push toward her lips is already "
+        "gliding in as she raises the chrome wand to her lower lip, the electric-clear gloss "
+        "catching neon; eyes lowered to the swipe.",
+        "She swipes it across the lip leaving a high-shine film, the push settling; a small "
+        "electric smile beginning, gaze warming.",
+        "She lowers the wand a touch, lips lightly pressing, and lifts her eyes, the neon "
+        "channels glinting, a charged calm in her gaze.",
+    ),
+    # F4 - beauty close, direct address (SPOKEN)
+    (
+        "Beauty close, chest-up squared to lens: the camera is already settled on a "
+        "barely-there push as her eyes find the lens with a cool knowing smile, the bottle "
+        "presented at her chest.",
+        "She delivers \u201cturn it on.\u201d with natural lip-sync and a soft brow lift, "
+        "eyes bright and direct, the neon city glowing behind.",
+        "The smile lands and holds with a cool blink, gaze staying eye-to-eye.",
+    ),
+    # F5 - full-figure magical hero, neon-ring surge bloom (majestic push + boom-rise)
+    (
+        "Full-figure magical hero from a slightly low angle: a slow majestic push-in with a "
+        "gentle boom-rise is already lifting as a tube at her heart pulses brighter and a "
+        "bright magenta-cyan point kindles; gaze drawn to the kindling point.",
+        "The boom keeps rising as the surge races through every tube and bursts outward as "
+        "concentric neon rings, the gown blazing; eyes lifting into the light, an euphoric "
+        "awe blooming.",
+        "Droplets and motes drift out, easing to a sustained brilliant glow as the move "
+        "settles; her radiant smile landing, eyes euphoric and haloed.",
+    ),
+    # F6 - loop close, matched to F1 (settle-back)
+    (
+        "Medium-full three-quarter hero matching Frame 1: a slow settle-back is already "
+        "easing the framing toward the opening position as the neon halo fades and the last "
+        "droplets drift down; she returns the bottle to her collarbone, gaze softening.",
+        "The pull continues as her smile eases to the cool knowing set of the opening and "
+        "the neon gown softens back toward the matte-black bodysuit's stillness; eyes "
+        "calming.",
+        "She lifts her eyes softly to the lens, landing precisely on the Frame 1 pose, "
+        "weight settled on the wet rooftop \u2014 a seamless loop seam.",
+    ),
+]
+
+
 def build_block(beats):
     # Replaces ONLY the `SUBJECT ACTION WITH TIMING:` header + its bullet beat
     # lines. Ends with a single trailing newline so the original blank line
