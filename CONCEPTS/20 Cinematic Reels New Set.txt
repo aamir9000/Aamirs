@@ -6086,14 +6086,16 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE & ANGLE: wide, subject fills ~30%.
 
-CAMERA MOVEMENT (CHOREOGRAPHY): a slow drift-in and gentle crane-down toward her at the water's edge, gimbal-smooth.
-
 LENS: 28mm, f/3.2.
 
-SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.2s — she kneels cradling the lantern, gazing at the river.
-- 2.2–4.4s — she slips on a jutti and settles.
-- 4.4–6.0s — she lifts the lantern, ready to light it.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Wide establishing of the riverside: she is already kneeling at the water's edge cradling a paper lantern as a slow drift-in and gentle crane-down move toward her, the dark river mirroring the first rising lights; gaze soft on the water.
+- [00:02–00:04] The crane settles as she slips on a jutti and settles her weight, glowing lanterns around her; a hopeful warmth in her eyes.
+- [00:04–00:06] She lifts the lantern, ready to light it, eyes catching the amber flame-glow, lips parting in quiet hope.
+
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
+
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
 FLUIDITY & WEIGHT NOTES: the kneel and settle flow continuously from the core; the lift of the lantern leads from the shoulder — graceful, never static.
 
@@ -6160,14 +6162,16 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE & ANGLE: macro, detail fills ~70%.
 
-CAMERA MOVEMENT (CHOREOGRAPHY): a slow 4% push toward the wrist as she ties the ribbon, locked otherwise.
-
 LENS: 100mm macro, f/2.8.
 
-SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.2s — her fingers loop the glowing ribbon.
-- 2.2–4.2s — she draws it snug at the wrist.
-- 4.2–6.0s — the ribbon glow surges as the knot sets.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Extreme macro: her fingers are already looping the glowing ribbon of light at her wrist as a slow push closes in, the lit lantern glowing just beyond.
+- [00:02–00:04] She draws the ribbon snug at the wrist, the loop tightening into a knot.
+- [00:04–00:06] The ribbon-glow surges as the knot sets, light pulsing up her wrist — foreshadowing the gown.
+
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
+
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
 FLUIDITY & WEIGHT NOTES: the tie is tender and continuous; the fingers articulate gracefully; no jerk.
 
@@ -6234,14 +6238,16 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE & ANGLE: profile medium, subject fills ~55%.
 
-CAMERA MOVEMENT (CHOREOGRAPHY): a slow arc from profile toward three-quarter as she rises and lifts the lantern, smooth.
-
 LENS: 50mm, f/2.2.
 
-SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.2s — she rises lifting the lantern.
-- 2.2–4.2s — she whispers a wish to the flame.
-- 4.2–6.0s — she draws back to release it upward.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Profile medium: she is already rising to her feet and lifting the lit lantern toward her face as a slow arc swings from profile toward three-quarter; hair and dupatta stirring, gaze into the flame.
+- [00:02–00:04] She whispers a wish to the flame, the arc easing round and lantern-light warming her profile; eyes closing softly then opening with hope.
+- [00:04–00:06] She draws the lantern back, ready to release it upward, gaze lifting to the night sky.
+
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
+
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
 FLUIDITY & WEIGHT NOTES: the rise, the wish, the wind-up flow as one continuous phrase; no stiffness.
 
@@ -6308,14 +6314,16 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE & ANGLE: front-on full/wide hero, subject fills ~55%, rising in frame.
 
-CAMERA MOVEMENT (CHOREOGRAPHY): a smooth crane-up with a slow orbit to dead-front as the gown weaves, continuous and buoyant.
-
 LENS: 35mm, f/2.8.
 
-SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.7s — she releases the lantern skyward.
-- 1.7–4.0s — the streaming light weaves the glowing gown.
-- 4.0–6.0s — arms open, a radiant smile, she delivers the line.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Front-on full/wide hero: she is already releasing the lantern skyward as a crane begins to rise and orbit toward dead-front, a thousand lanterns lifting around her; gaze following them up, eyes shining.
+- [00:02–00:04] The streaming light pours down and weaves the glowing festival gown around her as the crane climbs; chin lifting, eyes widening in radiant wonder.
+- [00:04–00:06] Her arms open and a radiant smile lands as she delivers the spoken line to lens, the gown blazing with lantern-light, eyes joyful.
+
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
+
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
 SPOKEN LINE (lands ~4.3s): "make a wish — then become it." (English, natural Indian accent, warm and joyful)
 
@@ -6384,14 +6392,16 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE & ANGLE: three-quarter back over-shoulder medium, subject fills ~50%.
 
-CAMERA MOVEMENT (CHOREOGRAPHY): a smooth tracking arc behind her up toward the sky then catching the glance, gimbal-stable.
-
 LENS: 50mm, f/1.8.
 
-SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.2s — she watches the lanterns rise, reaching upward.
-- 2.2–4.2s — she rotates her torso and glances back to lens.
-- 4.2–6.0s — she faces the sky again, light trailing.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Three-quarter back over-shoulder medium: she is already watching the lantern-filled sky and reaching upward in the glowing gown as a tracking arc rises behind her toward the lights; gaze up among the lanterns.
+- [00:02–00:04] The arc curves back to catch her as she rotates her torso and glances back to lens, lantern-glow warm in her eyes, a soft joyful smile.
+- [00:04–00:06] She faces the sky again, light trailing from the gown, gaze drifting up after the rising lanterns.
+
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
+
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
 FLUIDITY & WEIGHT NOTES: the glance is a fluid spinal rotation, head leading, returning naturally; the reach never freezes; the body counter-rotates softly.
 
@@ -6458,14 +6468,16 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE & ANGLE: wide matching Frame 1, subject ~30%.
 
-CAMERA MOVEMENT (CHOREOGRAPHY): a slow drift-out and crane-up reversing Frame 1's drift-in, so the end pose meets the opening kneel.
-
 LENS: 28mm, f/3.2.
 
-SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.3s — she kneels back toward the water.
-- 2.3–4.7s — the gown dissolves back to the indigo set and a fresh lantern returns to her hands.
-- 4.7–6.0s — she settles into the Frame 1 kneel.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Wide matching Frame 1: a slow drift-out and crane-up is already reversing the opening move as she kneels back toward the water's edge; gaze lowering to the river.
+- [00:02–00:04] The drift continues as the lantern-light gown dissolves back into the indigo festival set and a fresh lantern returns to her hands; a soft hopeful warmth returning.
+- [00:04–00:06] She settles into the exact kneel of Frame 1 at the water, eyes soft on the mirrored lights — a seamless loop seam.
+
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
+
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
 FLUIDITY & WEIGHT NOTES: the kneel-back is a smooth core-led descent; the reverse-bloom flows as a gentle light-wipe; the reset reads as natural continuation, not a rewind.
 

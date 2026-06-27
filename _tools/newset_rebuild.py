@@ -811,6 +811,69 @@ BEATS[12] = [
 ]
 
 
+BEATS[13] = [
+    # Frame 1 - wide establishing, kneeling at water
+    (
+        "Wide establishing of the riverside: she is already kneeling at the water's edge "
+        "cradling a paper lantern as a slow drift-in and gentle crane-down move toward her, "
+        "the dark river mirroring the first rising lights; gaze soft on the water.",
+        "The crane settles as she slips on a jutti and settles her weight, glowing lanterns "
+        "around her; a hopeful warmth in her eyes.",
+        "She lifts the lantern, ready to light it, eyes catching the amber flame-glow, lips "
+        "parting in quiet hope.",
+    ),
+    # Frame 2 - macro on tying glowing ribbon (no face)
+    (
+        "Extreme macro: her fingers are already looping the glowing ribbon of light at her "
+        "wrist as a slow push closes in, the lit lantern glowing just beyond.",
+        "She draws the ribbon snug at the wrist, the loop tightening into a knot.",
+        "The ribbon-glow surges as the knot sets, light pulsing up her wrist \u2014 "
+        "foreshadowing the gown.",
+    ),
+    # Frame 3 - profile medium, rising + lifting lantern
+    (
+        "Profile medium: she is already rising to her feet and lifting the lit lantern "
+        "toward her face as a slow arc swings from profile toward three-quarter; hair and "
+        "dupatta stirring, gaze into the flame.",
+        "She whispers a wish to the flame, the arc easing round and lantern-light warming "
+        "her profile; eyes closing softly then opening with hope.",
+        "She draws the lantern back, ready to release it upward, gaze lifting to the night "
+        "sky.",
+    ),
+    # Frame 4 - front-on full/wide hero, lantern-light gown transform (SPOKEN)
+    (
+        "Front-on full/wide hero: she is already releasing the lantern skyward as a crane "
+        "begins to rise and orbit toward dead-front, a thousand lanterns lifting around her; "
+        "gaze following them up, eyes shining.",
+        "The streaming light pours down and weaves the glowing festival gown around her as "
+        "the crane climbs; chin lifting, eyes widening in radiant wonder.",
+        "Her arms open and a radiant smile lands as she delivers the spoken line to lens, "
+        "the gown blazing with lantern-light, eyes joyful.",
+    ),
+    # Frame 5 - 3/4 back over-shoulder medium, sky-watch + glance
+    (
+        "Three-quarter back over-shoulder medium: she is already watching the lantern-filled "
+        "sky and reaching upward in the glowing gown as a tracking arc rises behind her "
+        "toward the lights; gaze up among the lanterns.",
+        "The arc curves back to catch her as she rotates her torso and glances back to lens, "
+        "lantern-glow warm in her eyes, a soft joyful smile.",
+        "She faces the sky again, light trailing from the gown, gaze drifting up after the "
+        "rising lanterns.",
+    ),
+    # Frame 6 - wide loop close
+    (
+        "Wide matching Frame 1: a slow drift-out and crane-up is already reversing the "
+        "opening move as she kneels back toward the water's edge; gaze lowering to the "
+        "river.",
+        "The drift continues as the lantern-light gown dissolves back into the indigo "
+        "festival set and a fresh lantern returns to her hands; a soft hopeful warmth "
+        "returning.",
+        "She settles into the exact kneel of Frame 1 at the water, eyes soft on the "
+        "mirrored lights \u2014 a seamless loop seam.",
+    ),
+]
+
+
 def build_block(beats):
     # Replaces ONLY the `SUBJECT ACTION w/ BEAT-TIMING:` header + its bullet
     # beat lines. Whatever follows (a blank line then SPOKEN LINE or
