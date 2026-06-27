@@ -7572,14 +7572,16 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE & ANGLE: wide, subject fills ~32%.
 
-CAMERA MOVEMENT (CHOREOGRAPHY): a slow glide-in down the aisle toward her, gimbal-smooth.
-
 LENS: 28mm, f/3.2.
 
-SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.2s — she walks onto the mossy path, scanning the greenery.
-- 2.2–4.4s — she slips on a garden flat and steadies the seed-pot.
-- 4.4–6.0s — she steps toward the soil bed.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Wide establishing down the glasshouse aisle: she is already walking onto the mossy path as a slow glide-in moves toward her, ferns and climbing roses arching overhead; eyes scanning the dappled greenery with delight.
+- [00:02–00:04] The glide carries closer as she slips on a garden flat and steadies the seed-pot, dappled sun crossing her; a fresh, happy calm in her gaze.
+- [00:04–00:06] She steps toward the soil bed, eyes settling on the rich dark earth with gentle anticipation.
+
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
+
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
 FLUIDITY & WEIGHT NOTES: the step and flat-on flow continuously from the core; the move to the soil leads from the shoulder — graceful, never static.
 
@@ -7646,14 +7648,16 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE & ANGLE: macro, detail fills ~70%.
 
-CAMERA MOVEMENT (CHOREOGRAPHY): a slow 4% push toward the seed as she presses, locked otherwise.
-
 LENS: 100mm macro, f/2.8.
 
-SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.2s — her fingers press the seed into the soil.
-- 2.2–4.2s — she pats the soil and a sprout breaks through.
-- 4.2–6.0s — the sprout surges as the bloom triggers.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Extreme macro: her fingers are already pressing a seed into rich dark soil as a slow push closes in, crumbs of earth shifting.
+- [00:02–00:04] She pats the soil and a green sprout breaks the surface, unfurling toward the light.
+- [00:04–00:06] The sprout surges upward as the bloom triggers, tendrils racing out from where she touched.
+
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
+
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
 FLUIDITY & WEIGHT NOTES: the press is tender and continuous; the fingers articulate cleanly; no jerk.
 
@@ -7720,14 +7724,16 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE & ANGLE: profile medium, subject fills ~55%.
 
-CAMERA MOVEMENT (CHOREOGRAPHY): a slow arc from profile toward three-quarter as the vines climb, smooth.
-
 LENS: 50mm, f/2.2.
 
-SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.2s — she rises as the first vines climb.
-- 2.2–4.2s — blossoms open and a vine curls her wrist.
-- 4.2–6.0s — she begins the bloom-spin into the gown.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Profile medium: she is already rising as the first vines climb around her and a slow arc swings from profile toward three-quarter; gaze following the racing greenery.
+- [00:02–00:04] Blossoms open and a vine curls around her wrist where she gestures, the arc easing round; eyes brightening in enchanted wonder.
+- [00:04–00:06] She begins the bloom-spin into the forming gown, gaze sweeping with the turn, a delighted breath.
+
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
+
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
 FLUIDITY & WEIGHT NOTES: the rise, the wrist-lift, the spin flow as one continuous organic phrase; no stiffness.
 
@@ -7794,14 +7800,16 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE & ANGLE: front-on full/wide hero, subject fills ~55%, spinning centred.
 
-CAMERA MOVEMENT (CHOREOGRAPHY): a smooth orbit that SLOWS at the apex as the gown blooms, then eases on — a garden bullet-time.
-
 LENS: 35mm, f/2.8.
 
-SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.7s — she reaches the bloom apex.
-- 1.7–4.0s — vines and blossoms weave the gown.
-- 4.0–6.0s — arms open, a radiant awed smile, petals flung.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Front-on full/wide hero, spinning centred: she is already reaching the bloom apex as a smooth orbit glides around her, leaves whirling; gaze bright with the turn.
+- [00:02–00:04] Vines and blossoms weave into the living floral couture gown as the orbit keeps gliding through the suspended petals; eyes widening in radiant awe, lips parting.
+- [00:04–00:06] Her arms open and a radiant awed smile lands, petals flung outward on real arcs, eyes alight.
+
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
+
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
 FLUIDITY & WEIGHT NOTES: one unbroken spinning bloom — the spin leads from the core, arms unfurl last; momentum carries continuously — supremely fluid, never a dead stop.
 
@@ -7868,14 +7876,16 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE & ANGLE: three-quarter front cowboy/full, subject fills ~50%.
 
-CAMERA MOVEMENT (CHOREOGRAPHY): a slow settling 3% push to three-quarter front, near-locked, letting her own the frame.
-
 LENS: 35mm, f/2.8.
 
-SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.0s — she settles in the floral gown.
-- 2.0–4.0s — she gestures to the blooming garden.
-- 4.0–6.0s — she delivers the line with a radiant smile.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Three-quarter front cowboy/full: she is already settling into the floral gown amid the blooming glasshouse as a slow push eases toward three-quarter front; gaze warm and fresh.
+- [00:02–00:04] She gestures lightly to the blooming garden around her, eyes flicking across the opening blossoms with bright pride.
+- [00:04–00:06] She turns to lens and delivers the spoken line with a radiant smile, cheeks lifting in gentle delight.
+
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
+
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
 SPOKEN LINE (lands ~4.6s): "plant a little magic, and watch it bloom." (English, natural Indian accent, warm and gentle)
 
@@ -7944,14 +7954,16 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE & ANGLE: wide matching Frame 1, subject ~32%.
 
-CAMERA MOVEMENT (CHOREOGRAPHY): a slow glide-out down the aisle reversing Frame 1's glide-in, so the end pose meets the opening.
-
 LENS: 28mm, f/3.2.
 
-SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.3s — she turns back down the aisle.
-- 2.3–4.7s — the floral gown softens back to the sage-linen set and the seed-pot returns to her hand.
-- 4.7–6.0s — she settles into the Frame 1 stance.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Wide matching Frame 1: a slow glide-out down the aisle is already reversing the opening glide-in as she turns back; gaze sweeping the greenery.
+- [00:02–00:04] The glide continues as the floral gown softens back into the sage-linen set and the seed-pot returns to her hand; a fresh content smile returning.
+- [00:04–00:06] She settles into the exact stance of Frame 1 on the mossy path, eyes soft on the arching ferns — a seamless loop seam.
+
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
+
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
 FLUIDITY & WEIGHT NOTES: the turn-back is a smooth hip-led rotation; the reverse-bloom flows as a gentle wilt-back; the reset reads as natural continuation, not a rewind.
 

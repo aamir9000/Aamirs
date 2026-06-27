@@ -996,6 +996,67 @@ BEATS[15] = [
 ]
 
 
+BEATS[16] = [
+    # Frame 1 - wide establishing, walking glasshouse aisle
+    (
+        "Wide establishing down the glasshouse aisle: she is already walking onto the mossy "
+        "path as a slow glide-in moves toward her, ferns and climbing roses arching "
+        "overhead; eyes scanning the dappled greenery with delight.",
+        "The glide carries closer as she slips on a garden flat and steadies the seed-pot, "
+        "dappled sun crossing her; a fresh, happy calm in her gaze.",
+        "She steps toward the soil bed, eyes settling on the rich dark earth with gentle "
+        "anticipation.",
+    ),
+    # Frame 2 - macro on pressing seed (no face)
+    (
+        "Extreme macro: her fingers are already pressing a seed into rich dark soil as a "
+        "slow push closes in, crumbs of earth shifting.",
+        "She pats the soil and a green sprout breaks the surface, unfurling toward the "
+        "light.",
+        "The sprout surges upward as the bloom triggers, tendrils racing out from where she "
+        "touched.",
+    ),
+    # Frame 3 - profile medium, vines climbing
+    (
+        "Profile medium: she is already rising as the first vines climb around her and a "
+        "slow arc swings from profile toward three-quarter; gaze following the racing "
+        "greenery.",
+        "Blossoms open and a vine curls around her wrist where she gestures, the arc easing "
+        "round; eyes brightening in enchanted wonder.",
+        "She begins the bloom-spin into the forming gown, gaze sweeping with the turn, a "
+        "delighted breath.",
+    ),
+    # Frame 4 - front-on full/wide hero, plant-growth bloom transform
+    (
+        "Front-on full/wide hero, spinning centred: she is already reaching the bloom apex "
+        "as a smooth orbit glides around her, leaves whirling; gaze bright with the turn.",
+        "Vines and blossoms weave into the living floral couture gown as the orbit keeps "
+        "gliding through the suspended petals; eyes widening in radiant awe, lips parting.",
+        "Her arms open and a radiant awed smile lands, petals flung outward on real arcs, "
+        "eyes alight.",
+    ),
+    # Frame 5 - 3/4 front cowboy/full (SPOKEN)
+    (
+        "Three-quarter front cowboy/full: she is already settling into the floral gown amid "
+        "the blooming glasshouse as a slow push eases toward three-quarter front; gaze warm "
+        "and fresh.",
+        "She gestures lightly to the blooming garden around her, eyes flicking across the "
+        "opening blossoms with bright pride.",
+        "She turns to lens and delivers the spoken line with a radiant smile, cheeks lifting "
+        "in gentle delight.",
+    ),
+    # Frame 6 - wide loop close
+    (
+        "Wide matching Frame 1: a slow glide-out down the aisle is already reversing the "
+        "opening glide-in as she turns back; gaze sweeping the greenery.",
+        "The glide continues as the floral gown softens back into the sage-linen set and the "
+        "seed-pot returns to her hand; a fresh content smile returning.",
+        "She settles into the exact stance of Frame 1 on the mossy path, eyes soft on the "
+        "arching ferns \u2014 a seamless loop seam.",
+    ),
+]
+
+
 def build_block(beats):
     # Replaces ONLY the `SUBJECT ACTION w/ BEAT-TIMING:` header + its bullet
     # beat lines. Whatever follows (a blank line then SPOKEN LINE or
