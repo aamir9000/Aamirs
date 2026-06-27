@@ -313,6 +313,73 @@ BEATS[54] = [
 ]
 
 
+BEATS[55] = [
+    # F1 - medium-full three-quarter hero beside embroidery hoop (push-in)
+    (
+        "Medium-full three-quarter hero beside the embroidery hoop: a slow push-in is "
+        "already gliding toward her as she rests a hand on the hoop, the ivory silk "
+        "breathing and a gold-thread skein swaying behind; she lifts her eyes to lens with a "
+        "soft romantic smile.",
+        "The push continues as she begins a graceful quarter-turn, the slip catching warm "
+        "pearly-gold window light; gaze easing to lens, lashes soft.",
+        "She settles mid-turn, weight rolling onto the front foot, a warm romantic calm "
+        "holding as the silk sways to rest.",
+    ),
+    # F2 - full-figure transform, slightly low angle (arc following the stitching up)
+    (
+        "Full-figure from a slightly low angle: a slow controlled arc is already rising as "
+        "the first silk and gold threads fly in from the air toward her; gaze tracking the "
+        "streaming threads, eyes brightening.",
+        "The arc rides the stitching up her body as the threads self-stitch along embroidery "
+        "paths, ornate floral goldwork building blossom by blossom; a delighted breath, "
+        "brows lifting in wonder.",
+        "The last loop couches home and the finished embroidered gown settles as the arc "
+        "eases; a warm luminous smile landing, eyes alight on the goldwork.",
+    ),
+    # F3 - beauty close, product-at-face / lips (6% push to lips)
+    (
+        "Beauty close, chest-up at a three-quarter: a slow push toward her lips is already "
+        "gliding in as she raises the slim wand to her lower lip, the rose-gold oil catching "
+        "light; eyes lowered to the glide.",
+        "She glides it along the lip leaving a glossy sheen, the push settling; a small "
+        "assured smile beginning, gaze warming.",
+        "She lowers the wand a touch, lips lightly pressing, and lifts her eyes softly, the "
+        "goldwork glinting, a soft glow in her gaze.",
+    ),
+    # F4 - beauty close, direct address (SPOKEN)
+    (
+        "Beauty close, chest-up squared to lens: the camera is already settled on a "
+        "barely-there push as her eyes find the lens with a soft romantic smile, the wand "
+        "tube presented at her chest.",
+        "She delivers \u201cspun by hand.\u201d with natural lip-sync and a gentle brow lift, "
+        "eyes bright and direct, the warm atelier soft behind.",
+        "The smile lands and holds with a warm blink, gaze staying eye-to-eye.",
+    ),
+    # F5 - full-figure magical hero, goldwork-blossom bloom (majestic push + boom-rise)
+    (
+        "Full-figure magical hero from a slightly low angle: a slow majestic push-in with a "
+        "gentle boom-rise is already lifting as a blossom at her shoulder swells and a warm "
+        "gold point kindles at its centre; gaze drawn to the kindling bloom.",
+        "The boom keeps rising as the goldwork flowers open in sequence, lifting fine "
+        "spirals of gold thread-light and silk petals; eyes lifting into them, a radiant awe "
+        "blooming.",
+        "The thread-light and petals drift up and out, easing to a sustained warm halo as "
+        "the move settles; her radiant smile landing, eyes serene and haloed.",
+    ),
+    # F6 - loop close, matched to F1 (settle-back)
+    (
+        "Medium-full three-quarter hero matching Frame 1: a slow settle-back is already "
+        "easing the framing toward the opening position as the warm glow fades and the last "
+        "petals drift down; she returns her hand to the embroidery hoop, gaze softening.",
+        "The pull continues as her smile eases to the soft romantic calm of the opening and "
+        "the embroidered goldwork softens back toward the ivory slip's stillness; eyes "
+        "calming.",
+        "She lifts her eyes softly to the lens, landing precisely on the Frame 1 pose, "
+        "weight settled beside the hoop \u2014 a seamless loop seam.",
+    ),
+]
+
+
 def build_block(beats):
     # Replaces ONLY the `SUBJECT ACTION WITH TIMING:` header + its bullet beat
     # lines. Ends with a single trailing newline so the original blank line

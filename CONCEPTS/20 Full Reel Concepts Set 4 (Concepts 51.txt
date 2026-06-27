@@ -1824,13 +1824,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: medium-full three-quarter hero beside the embroidery hoop.
 
-CAMERA MOVEMENT: a single slow 8% push-in, otherwise locked-off and stable — one move, no transform yet.
-
 LENS: 50mm, f/2.5.
 
-SUBJECT ACTION WITH TIMING:
-- 0.0–3.0s — Aira rests a hand on the embroidery hoop, the silk breathing, a gold-thread skein swaying behind her, and lifts her eyes to the lens with a soft romantic smile.
-- 3.0–6.0s — she begins a slow graceful quarter-turn, the slip catching warm pearly-gold light. One soft beat, real physics.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Medium-full three-quarter hero beside the embroidery hoop: a slow push-in is already gliding toward her as she rests a hand on the hoop, the ivory silk breathing and a gold-thread skein swaying behind; she lifts her eyes to lens with a soft romantic smile.
+- [00:02–00:04] The push continues as she begins a graceful quarter-turn, the slip catching warm pearly-gold window light; gaze easing to lens, lashes soft.
+- [00:04–00:06] She settles mid-turn, weight rolling onto the front foot, a warm romantic calm holding as the silk sways to rest.
 
 LIGHTING: soft warm window daylight key, warm ivory fill, soft gold rim; steady and bright.
 
@@ -1838,9 +1837,9 @@ ENVIRONMENT: sunlit embroidery atelier, thread skeins, embroidery hoops, soft wi
 
 AUDIO: diegetic-plus-design, no spoken word. Ambient bed — a soft warm room-tone, very low, a faint gentle hush. SFX — a soft wooden-hoop touch as her hand settles at 0.5s, a faint silk shift at 3.1s, a light warm shimmer accent on the turn at 3.6s. Reaction — a soft breath at 2.6s. VO — none. The master track enters here soft and ambient (low and subtle, never full).
 
-DURATION: 5 seconds (0:00–0:05 of 30s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps, 180° shutter, gentle natural motion blur on the turn.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — a soft romantic closed-lip smile.
 
@@ -1891,14 +1890,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: full-figure transform hero, slightly low angle.
 
-CAMERA MOVEMENT: a slow controlled arc following the stitching up her body, smooth and motivated — one move, no whip.
-
 LENS: 50mm, f/2.5.
 
-SUBJECT ACTION WITH TIMING:
-- 0.0–1.5s — the first silk and gold threads fly in from the air.
-- 1.5–4.0s — threads self-stitch across her form along embroidery paths, the floral goldwork building blossom by blossom as Aira watches with a delighted breath.
-- 4.0–6.0s — the last loop couches home and the finished embroidered gown settles, her recognizable face landing a warm luminous smile. Only the crossing is impossible; everything else obeys real physics.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Full-figure from a slightly low angle: a slow controlled arc is already rising as the first silk and gold threads fly in from the air toward her; gaze tracking the streaming threads, eyes brightening.
+- [00:02–00:04] The arc rides the stitching up her body as the threads self-stitch along embroidery paths, ornate floral goldwork building blossom by blossom; a delighted breath, brows lifting in wonder.
+- [00:04–00:06] The last loop couches home and the finished embroidered gown settles as the arc eases; a warm luminous smile landing, eyes alight on the goldwork.
 
 LIGHTING: soft warm daylight key with a warm kick on the goldwork, ivory fill, soft gold rim; bright and steady.
 
@@ -1906,9 +1903,9 @@ ENVIRONMENT: sunlit embroidery atelier, thread skeins, streaming threads, soft w
 
 AUDIO: diegetic-plus-design, no spoken word. Ambient bed — the warm room-tone with a soft warm rise under the crossing. SFX — a soft airy thread-whoosh as the threads stream in 0.0–1.5s, a delicate sequence of fine stitch-pulls and thread-taut ticks as the goldwork builds 1.5–4.0s, a soft settle-chime as the gown resolves at 5.6s. Reaction — a soft delighted breath at 1.4s. VO — none. Master track lifts gently under the transform then eases (subtle, never full).
 
-DURATION: 6 seconds (0:05–0:11 of 30s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps, 180° shutter, natural motion blur on the streaming threads and arc.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — lips part on the delighted breath, no words.
 
@@ -1957,14 +1954,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: beauty close, chest-up, product-at-face.
 
-CAMERA MOVEMENT: a slow 6% push-in to the lips, locked otherwise.
-
 LENS: 85mm, f/2.5.
 
-SUBJECT ACTION WITH TIMING:
-- 0.0–2.4s — she raises the slim wand to her lower lip, the rose-gold oil catching light.
-- 2.4–4.8s — she glides it along the lip leaving a glossy sheen, a small assured smile beginning.
-- 4.8–6.0s — she lowers the wand a touch, lips lightly pressing, eyes lifting. One tactile beat, real physics.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Beauty close, chest-up at a three-quarter: a slow push toward her lips is already gliding in as she raises the slim wand to her lower lip, the rose-gold oil catching light; eyes lowered to the glide.
+- [00:02–00:04] She glides it along the lip leaving a glossy sheen, the push settling; a small assured smile beginning, gaze warming.
+- [00:04–00:06] She lowers the wand a touch, lips lightly pressing, and lifts her eyes softly, the goldwork glinting, a soft glow in her gaze.
 
 LIGHTING: soft warm daylight beauty key, ivory fill, soft gold rim; a live specular travelling the tube and the glossed lip as she moves.
 
@@ -1972,9 +1967,9 @@ ENVIRONMENT: sunlit atelier, blurred thread skein and ivory wall behind, soft wi
 
 AUDIO: diegetic-plus-design, no spoken word. Ambient bed — soft warm room-tone, low. SFX — a soft cap-twist click at 0.4s, a delicate wand-to-lip touch at 2.5s, a faint warm shimmer as the gloss catches light at 3.4s. Reaction — a soft contented breath at 4.1s. VO — none. Master track stays low and ambient (subtle, never full).
 
-DURATION: 5 seconds (0:11–0:16 of 30s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps, 180° shutter, gentle motion blur on the hand.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — lips gloss and lightly press, no words.
 
@@ -2025,14 +2020,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: beauty close, chest-up, direct address.
 
-CAMERA MOVEMENT: locked-off and stable, a barely-there 4% push — no movement that competes with the line.
-
 LENS: 85mm, f/2.5.
 
-SUBJECT ACTION WITH TIMING:
-- 0.0–0.9s — she settles, eyes finding the lens with a soft romantic smile.
-- 0.9–3.9s — she delivers "spun by hand." with natural lip-sync and a gentle brow lift, presenting the tube at her chest.
-- 3.9–6.0s — the smile lands and holds, a warm blink. One clean delivery, real physics.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Beauty close, chest-up squared to lens: the camera is already settled on a barely-there push as her eyes find the lens with a soft romantic smile, the wand tube presented at her chest.
+- [00:02–00:04] She delivers “spun by hand.” with natural lip-sync and a gentle brow lift, eyes bright and direct, the warm atelier soft behind.
+- [00:04–00:06] The smile lands and holds with a warm blink, gaze staying eye-to-eye.
 
 LIGHTING: soft warm daylight beauty key, ivory fill, soft gold rim; steady, no flicker.
 
@@ -2040,9 +2033,9 @@ ENVIRONMENT: sunlit atelier, blurred thread skeins behind, soft window light, fa
 
 AUDIO: diegetic-plus-design with spoken word. Ambient bed — the warm room-tone, low. SFX — a faint warm air-tail around the voice, a soft glass touch on the tube at 0.6s. VO — Aira, English with a natural Indian accent, warm and soft: "spun by hand." delivered 0.9–3.9s, clean and intimate, sitting above the bed. Master track ducks under the voice and stays low (subtle, never full).
 
-DURATION: 4 seconds (0:16–0:20 of 30s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps, 180° shutter, gentle natural motion blur.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: precise lip-sync to "spun by hand." across 0.9–3.9s; natural jaw and lip shapes, no drift.
 
@@ -2093,15 +2086,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: full-figure magical hero, slightly low angle.
 
-CAMERA MOVEMENT: a slow majestic push-in with a gentle rise ( + slight boom) tracking the bloom — one smooth motivated move.
-
 LENS: 35mm, f/2.2.
 
-SUBJECT ACTION WITH TIMING:
-- 0.0–0.6s — a blossom at her shoulder swells, a warm gold point kindling at its centre.
-- 0.6–2.2s — the goldwork flowers open in sequence, lifting fine spirals of gold thread-light and silk petals as she lifts her eyes into them.
-- 2.2–4.2s — the thread-light and petals drift up and out, easing to a sustained warm halo, her radiant smile landing.
-- 4.2–6.0s — she holds, haloed and serene. Only the bloom is impossible; all else real physics.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Full-figure magical hero from a slightly low angle: a slow majestic push-in with a gentle boom-rise is already lifting as a blossom at her shoulder swells and a warm gold point kindles at its centre; gaze drawn to the kindling bloom.
+- [00:02–00:04] The boom keeps rising as the goldwork flowers open in sequence, lifting fine spirals of gold thread-light and silk petals; eyes lifting into them, a radiant awe blooming.
+- [00:04–00:06] The thread-light and petals drift up and out, easing to a sustained warm halo as the move settles; her radiant smile landing, eyes serene and haloed.
 
 LIGHTING: the goldwork bloom as a live warm key, warm gold rim, warm floor fill rising; controlled, no clipping.
 
@@ -2109,9 +2099,9 @@ ENVIRONMENT: sunlit atelier blooming warm, glowing thread skeins, drifting gold 
 
 AUDIO: diegetic-plus-design, no spoken word. Ambient bed — the warm room-tone blooming into a soft warm string-and-harp swell cresting at the bloom then settling. SFX — a soft warm ignition-chime at the shoulder 0.2s, a delicate sequence of soft thread-shimmers and petal-flutters tracking the opening flowers 0.6–2.2s, gentle bell-motes sparkling 1.4–3.0s, a warm resonance under the settle. Reaction — a soft awed breath at 1.9s. VO — none. Master track rises to its fullest-but-still-restrained moment under the bloom then eases (subtle, never full).
 
-DURATION: 5 seconds (0:20–0:25 of 30s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps, 180° shutter, natural motion blur on the bloom and drifting petals.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — lips part on the awed breath and smile, no words.
 
@@ -2162,14 +2152,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: medium-full three-quarter hero beside the embroidery hoop — matched to Frame 1 for the loop.
 
-CAMERA MOVEMENT: a slow settle-back to the opening framing (gentle pull matching Frame 1's start position), locked otherwise — ending exactly where the reel began.
-
 LENS: 50mm, f/2.5.
 
-SUBJECT ACTION WITH TIMING:
-- 0.0–2.4s — the warm glow fades and the last petals drift down as she returns her hand to the embroidery hoop.
-- 2.4–4.8s — her smile eases to the soft romantic calm of the opening.
-- 4.8–6.0s — she lifts her eyes softly to the lens, landing precisely on the Frame 1 pose for a seamless loop. Real physics throughout.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Medium-full three-quarter hero matching Frame 1: a slow settle-back is already easing the framing toward the opening position as the warm glow fades and the last petals drift down; she returns her hand to the embroidery hoop, gaze softening.
+- [00:02–00:04] The pull continues as her smile eases to the soft romantic calm of the opening and the embroidered goldwork softens back toward the ivory slip's stillness; eyes calming.
+- [00:04–00:06] She lifts her eyes softly to the lens, landing precisely on the Frame 1 pose, weight settled beside the hoop — a seamless loop seam.
 
 LIGHTING: the soft warm window daylight key restored, warm ivory fill, soft gold rim; steady, easing back to the opening level.
 
@@ -2177,9 +2165,9 @@ ENVIRONMENT: sunlit embroidery atelier restored to the opening tableau, thread s
 
 AUDIO: diegetic-plus-design, no spoken word. Ambient bed — the warm room-tone and gentle hush easing back down to the soft opening level, looping cleanly into Frame 1's bed. SFX — a soft warm resonance fading 0.0–2.4s, a soft wooden-hoop touch at 5.3s matching the opening's 0.5s cue for the loop seam. Reaction — a soft calm breath at 2.9s. VO — none. Master track resolves and eases to the soft ambient level it began on for a clean loop (subtle, never full).
 
-DURATION: 5 seconds (0:25–0:30 of 30s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps, 180° shutter, gentle cinematic motion blur.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — a soft romantic closed-lip smile, matched to the opening.
 
