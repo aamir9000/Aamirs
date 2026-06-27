@@ -1057,6 +1057,69 @@ BEATS[16] = [
 ]
 
 
+BEATS[17] = [
+    # Frame 1 - wide establishing, kitchen island
+    (
+        "Wide establishing down the copper kitchen: she is already stepping to the marble "
+        "island as a slow glide-in moves toward her, hanging copper pans gleaming overhead; "
+        "eyes scanning the warm range with lively focus.",
+        "The glide carries closer as she slips on a clog and ties the wrap-apron, pendant "
+        "light warming her; a confident, easy set to her mouth.",
+        "She lifts the copper pan toward the flaming range, eyes catching the blue flame, "
+        "anticipation rising.",
+    ),
+    # Frame 2 - macro on pan toss (no face)
+    (
+        "Extreme macro on the copper pan: her wrist is already setting the pan over the "
+        "flame as a slow push closes in, flour-dust catching the light.",
+        "She flicks the toss and spices arc upward with a curl of blue flame, the pan "
+        "sweeping.",
+        "The swirl of flour, steam and spice-light rises as the flare triggers, embers "
+        "tumbling.",
+    ),
+    # Frame 3 - profile medium, swirl wrapping
+    (
+        "Profile medium: she is already rising as the swirl of flour, steam and spice-light "
+        "begins to wrap her and a slow arc swings from profile toward three-quarter; gaze "
+        "following the rising swirl.",
+        "The apron begins to re-plate into silk and a ribbon of spice-light curls her wrist "
+        "where she gestures, the arc easing round; eyes brightening in warm wonder.",
+        "She begins the flourish-spin into the forming gown, gaze sweeping with the turn, a "
+        "delighted breath.",
+    ),
+    # Frame 4 - front-on full/wide hero, apron-to-couture flare transform
+    (
+        "Front-on full/wide hero, spinning centred: she is already reaching the flare apex "
+        "as a smooth orbit glides around her, spice-light whirling; gaze bright with the "
+        "turn.",
+        "The swirl re-plates her apron into the flowing saffron-and-cream couture gown as "
+        "the orbit keeps gliding through the suspended embers; eyes widening in radiant awe, "
+        "lips parting.",
+        "Her arms open and a radiant awed smile lands, spice-light flung outward on real "
+        "arcs, eyes alight.",
+    ),
+    # Frame 5 - 3/4 front cowboy/full (SPOKEN)
+    (
+        "Three-quarter front cowboy/full: she is already settling into the couture gown at "
+        "the marble island as a slow push eases toward three-quarter front; gaze warm and "
+        "assured.",
+        "She gestures with a confident flourish to the warm copper kitchen, eyes flicking "
+        "across the gleaming pans with bright pride.",
+        "She turns to lens and delivers the spoken line with a radiant smile, cheeks lifting "
+        "in lively delight.",
+    ),
+    # Frame 6 - wide loop close
+    (
+        "Wide matching Frame 1: a slow glide-out is already reversing the opening glide-in "
+        "as she turns back to the island; gaze sweeping the copper.",
+        "The glide continues as the couture gown softens back into the cream chef's set and "
+        "the copper pan returns to her hand; a warm content smile returning.",
+        "She settles into the exact stance of Frame 1 at the island, eyes on the range "
+        "\u2014 a seamless loop seam.",
+    ),
+]
+
+
 def build_block(beats):
     # Replaces ONLY the `SUBJECT ACTION w/ BEAT-TIMING:` header + its bullet
     # beat lines. Whatever follows (a blank line then SPOKEN LINE or

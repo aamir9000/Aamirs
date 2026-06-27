@@ -8068,14 +8068,16 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE & ANGLE: wide, subject fills ~32%.
 
-CAMERA MOVEMENT (CHOREOGRAPHY): a slow glide-in down the kitchen toward her, gimbal-smooth.
-
 LENS: 28mm, f/3.2.
 
-SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.2s — she steps to the island, scanning.
-- 2.2–4.4s — she slips on a clog and ties the apron.
-- 4.4–6.0s — she lifts the copper pan toward the range.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Wide establishing down the copper kitchen: she is already stepping to the marble island as a slow glide-in moves toward her, hanging copper pans gleaming overhead; eyes scanning the warm range with lively focus.
+- [00:02–00:04] The glide carries closer as she slips on a clog and ties the wrap-apron, pendant light warming her; a confident, easy set to her mouth.
+- [00:04–00:06] She lifts the copper pan toward the flaming range, eyes catching the blue flame, anticipation rising.
+
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
+
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
 FLUIDITY & WEIGHT NOTES: the step and apron-tie flow continuously from the core; the lift leads from the shoulder — lively, never static.
 
@@ -8142,14 +8144,16 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE & ANGLE: macro, detail fills ~70%.
 
-CAMERA MOVEMENT (CHOREOGRAPHY): a slow 4% push toward the pan as she tosses, locked otherwise.
-
 LENS: 100mm macro, f/2.8.
 
-SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.2s — her wrist sets the pan.
-- 2.2–4.2s — she flicks the toss and spices arc with a flame-curl.
-- 4.2–6.0s — the swirl rises as the flare triggers.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Extreme macro on the copper pan: her wrist is already setting the pan over the flame as a slow push closes in, flour-dust catching the light.
+- [00:02–00:04] She flicks the toss and spices arc upward with a curl of blue flame, the pan sweeping.
+- [00:04–00:06] The swirl of flour, steam and spice-light rises as the flare triggers, embers tumbling.
+
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
+
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
 FLUIDITY & WEIGHT NOTES: the toss is crisp and continuous; the wrist articulates cleanly; no jerk.
 
@@ -8216,14 +8220,16 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE & ANGLE: profile medium, subject fills ~55%.
 
-CAMERA MOVEMENT (CHOREOGRAPHY): a slow arc from profile toward three-quarter as the swirl wraps, smooth.
-
 LENS: 50mm, f/2.2.
 
-SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.2s — she rises as the swirl begins to wrap.
-- 2.2–4.2s — the apron re-plates and a swirl curls her wrist.
-- 4.2–6.0s — she begins the flourish-spin into the gown.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Profile medium: she is already rising as the swirl of flour, steam and spice-light begins to wrap her and a slow arc swings from profile toward three-quarter; gaze following the rising swirl.
+- [00:02–00:04] The apron begins to re-plate into silk and a ribbon of spice-light curls her wrist where she gestures, the arc easing round; eyes brightening in warm wonder.
+- [00:04–00:06] She begins the flourish-spin into the forming gown, gaze sweeping with the turn, a delighted breath.
+
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
+
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
 FLUIDITY & WEIGHT NOTES: the rise, the wrist-lift, the spin flow as one continuous warm phrase; no stiffness.
 
@@ -8290,14 +8296,16 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE & ANGLE: front-on full/wide hero, subject fills ~55%, spinning centred.
 
-CAMERA MOVEMENT (CHOREOGRAPHY): a smooth orbit that SLOWS at the apex as the gown re-plates, then eases on — a kitchen bullet-time.
-
 LENS: 35mm, f/2.8.
 
-SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.7s — she reaches the flare apex.
-- 1.7–4.0s — the swirl re-plates the gown.
-- 4.0–6.0s — arms open, a radiant awed smile, spice-light flung.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Front-on full/wide hero, spinning centred: she is already reaching the flare apex as a smooth orbit glides around her, spice-light whirling; gaze bright with the turn.
+- [00:02–00:04] The swirl re-plates her apron into the flowing saffron-and-cream couture gown as the orbit keeps gliding through the suspended embers; eyes widening in radiant awe, lips parting.
+- [00:04–00:06] Her arms open and a radiant awed smile lands, spice-light flung outward on real arcs, eyes alight.
+
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
+
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
 FLUIDITY & WEIGHT NOTES: one unbroken spinning flare — the spin leads from the core, arms unfurl last; momentum carries continuously — supremely fluid, never a dead stop.
 
@@ -8364,14 +8372,16 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE & ANGLE: three-quarter front cowboy/full, subject fills ~50%.
 
-CAMERA MOVEMENT (CHOREOGRAPHY): a slow settling 3% push to three-quarter front, near-locked, letting her own the frame.
-
 LENS: 35mm, f/2.8.
 
-SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.0s — she settles in the couture gown.
-- 2.0–4.0s — she gestures to the warm kitchen.
-- 4.0–6.0s — she delivers the line with a radiant smile.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Three-quarter front cowboy/full: she is already settling into the couture gown at the marble island as a slow push eases toward three-quarter front; gaze warm and assured.
+- [00:02–00:04] She gestures with a confident flourish to the warm copper kitchen, eyes flicking across the gleaming pans with bright pride.
+- [00:04–00:06] She turns to lens and delivers the spoken line with a radiant smile, cheeks lifting in lively delight.
+
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
+
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
 SPOKEN LINE (lands ~4.6s): "a little heat, and everything transforms." (English, natural Indian accent, warm and playful)
 
@@ -8440,14 +8450,16 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE & ANGLE: wide matching Frame 1, subject ~32%.
 
-CAMERA MOVEMENT (CHOREOGRAPHY): a slow glide-out reversing Frame 1's glide-in, so the end pose meets the opening.
-
 LENS: 28mm, f/3.2.
 
-SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.3s — she turns back to the island.
-- 2.3–4.7s — the couture gown softens back to the cream chef's set and the pan returns to her hand.
-- 4.7–6.0s — she settles into the Frame 1 stance.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Wide matching Frame 1: a slow glide-out is already reversing the opening glide-in as she turns back to the island; gaze sweeping the copper.
+- [00:02–00:04] The glide continues as the couture gown softens back into the cream chef's set and the copper pan returns to her hand; a warm content smile returning.
+- [00:04–00:06] She settles into the exact stance of Frame 1 at the island, eyes on the range — a seamless loop seam.
+
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
+
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
 FLUIDITY & WEIGHT NOTES: the turn-back is a smooth hip-led rotation; the reverse-flare flows as a gentle settle-back; the reset reads as natural continuation, not a rewind.
 
