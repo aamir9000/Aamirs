@@ -570,9 +570,11 @@ CONTAIN each change inside one clip's middle, and make every frame join an inten
 ### L.1 — WHERE THE CHANGE HAPPENS (mid-clip, never at the seam)
 - The visible Look-A -> Look-B change happens in the MIDDLE of ONE animated clip, never across a
   clip boundary. The transform clip plays:
-  * [00:00-00:02] CUT in, ALREADY-IN-MOTION, in fully-described LOOK A.
-  * [00:02-00:04] THE CHANGE races through (the one magic beat) — A turning into B in one wavefront.
-  * [00:04-00:06] plays out its second half ALREADY in fully-resolved LOOK B.
+  * [00:00-00:02] CUT in, ALREADY-IN-MOTION, in LOOK A, the look fully intact — NO change yet.
+  * [00:02-00:04] the change BEGINS here (mid-clip) and flows SMOOTHLY across her in one continuous
+    wavefront — gradual and motivated, never an abrupt swap.
+  * [00:04-00:06] the wavefront completes and the look settles SMOOTHLY and fully into LOOK B and
+    holds — never crammed into the last second, never a snap.
 - Rationale: a change that must survive a clip join forces brittle frame-to-frame continuity. Keep
   the change safely inside one clip where the generator fully controls it.
 
@@ -593,31 +595,32 @@ CONTAIN each change inside one clip's middle, and make every frame join an inten
   so the viewer feels they have NOT missed anything (polished editing rhythm, not a glitch).
 - Every clip therefore opens ALREADY-IN-MOTION on its new angle (the cut lands mid-action).
 
-### L.4 — EXHAUSTIVE LOOK-B SPEC -> 1:1 WITH THE NEXT IMAGE PROMPT (transformation concepts ONLY)
-- THIS RULE APPLIES TO TRANSFORMATION-TYPE CONCEPTS ONLY (season/weather/outfit/material/look
-  A->B change). Non-transform concepts (GRWM beauty-hero, lifestyle, action with no look-change)
-  do NOT need it.
-- PRECISE TRIGGER: apply it ONLY to a clip where something actually CHANGES mid-frame. The
-  qualifying change types are: OUTFIT/wardrobe, ENVIRONMENT/WORLD/SET, OBJECT/prop, WEATHER,
-  TIME-OF-DAY, PLACE/LOCATION, ERA/PERIOD, LIGHTING, SEASON, MATERIAL/finish, and look A->B. A
-  single reel may carry ONE of these or SEVERAL at once (e.g. place + era + outfit + lighting all
-  turning together). Whichever change(s) occur mid-clip, the transform clip's second half must
-  specify EVERY changed element 1:1 with the next image (changed outfit AND changed world AND
-  changed weather/time/era/lighting — all of them, exhaustively and precisely). Ordinary frames
-  with no mid-clip change are exempt.
-- Because the transform clip's SECOND HALF ([00:04-00:06]) is already in Look B, the VIDEO prompt's
-  second-half beat must be written as an EXHAUSTIVE, FIELD-BY-FIELD 1:1 SPEC of the NEXT frame's
-  IMAGE prompt (the start keyframe of the following clip): mirror EVERY look field — garment
-  cut/neckline/sleeves/fabric/embellishment/drape, exact colour, full makeup (lid/blush/lip/glow),
-  hair state and sheen, every accessory, footwear, environment/grade — so the back half of the
-  transform clip and the next still are the SAME LOOK on paper. Not a vague "settles into the new
-  look"; an exact written target.
-- The rendered result still need not be 100% pixel-identical: the L.3 CUT to a new angle masks any
-  slight variation. The exhaustive WRITTEN spec is what guarantees the look matches; the angle
-  change covers the small drift.
-- The transform frame's OWN image prompt becomes the clean LOOK A it opens on (not a mid-morph
-  still). Frames before the transform = Look A; the transform frame's still = Look A; frames after
-  = the matched Look B (new angle each).
+### L.4 — TRANSFORMATION CONTINUITY VIA VEO FIRST/LAST-FRAME + CLEAR SMOOTH MID-CLIP MORPH (transformation clips ONLY)
+- SCOPE: transformation clips only — a clip where something actually CHANGES mid-frame. Qualifying
+  change types: OUTFIT/wardrobe, ENVIRONMENT/WORLD/SET, OBJECT/prop, WEATHER, TIME-OF-DAY,
+  PLACE/LOCATION, ERA/PERIOD, LIGHTING, SEASON, MATERIAL/finish, look A->B. A reel may carry ONE or
+  SEVERAL of these at once; whichever change(s) occur, choreograph all of them in the morph.
+  Ordinary frames with no mid-clip change are exempt.
+- CONTINUITY MECHANISM = VEO 3.1 FIRST-AND-LAST-FRAME, NOT TEXT. For a transform clip, supply the
+  Look A still (= this frame's image) as the FIRST frame and the Look B still (= the NEXT frame's
+  image) as the LAST frame; Veo morphs between them, so the clip ENDS EXACTLY on Look B = the next
+  clip's start still. The cut is exact BY CONSTRUCTION. (This REPLACES the old exhaustive-1:1-text
+  rule — Veo cannot text-generate a frame-exact match, so we hand it the exact end image instead.)
+- TWO STILLS PER TRANSFORM CLIP: Look A (first) + Look B (last). Our frame structure already gives
+  both — the transform frame's image = Look A; the NEXT frame's image = Look B (that same Look B
+  still also starts the next clip, which guarantees the seam).
+- Because the LAST-frame image carries the exact Look B, the transform clip's VIDEO TEXT does NOT
+  need an exhaustive Look-B description — keep it LEAN. The text's only job is to CHOREOGRAPH THE
+  MORPH clearly so it reads smooth:
+  * [00:00-00:02] HOLD Look A, already in motion, the look fully intact — NO change yet.
+  * [00:02-00:04] the morph BEGINS here (mid-clip) and flows smoothly across her in ONE continuous
+    wavefront — state the PATH clearly: where it starts, which direction it travels, and what
+    changes as it passes (if several things change at once, name each). Gradual, liquid, motivated.
+  * [00:04-00:06] the wavefront completes and the look settles SMOOTHLY and fully into Look B (the
+    last-frame still) and holds — NOT a last-second snap, NOT an abrupt swap.
+- TIMING LAW: the change must START IN THE MIDDLE and resolve smoothly by the end — never instant,
+  never crammed into the final second. Held angle throughout (L.2); camera may travel (track/push-with).
+- The transform frame's OWN image = the clean LOOK A it opens on (not a mid-morph still).
 
 ### L.5 — WHAT STAYS THE SAME
 - Identity lock (fixed-skeleton, section D); ONE eye-led identity-safe expression transition per

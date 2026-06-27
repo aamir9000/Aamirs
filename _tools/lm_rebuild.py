@@ -62,25 +62,21 @@ BEATSLM[1] = [
         "She holds the poised steel beat, hands open and ready, eyes calm and architectural "
         "\u2014 the composed breath before the change (silent here).",
     ),
-    # F4 - THE TRANSFORM, HELD ANGLE, mid-clip change, resolves to full Look B
+    # F4 - THE TRANSFORM, HELD ANGLE, smooth mid-clip morph; Veo first=Look A still, last=Look B still
     (
-        "Cut to an energized medium at a HELD angle: she opens her arms in the polished "
-        "gunmetal gown, already in motion, a gentle push-with easing toward her \u2014 fully "
-        "steel, the air just beginning to warm (the angle stays fixed through this clip).",
-        "Mid-clip the steel-to-silk dissolve races across her in one travelling warm "
-        "wavefront \u2014 gunmetal giving way to flowing champagne silk-satin, the steel cuff "
-        "resolving to a champagne-gold thread bracelet and a warming shimmer crossing her "
-        "skin (angle holds, no rotation; face clear and identity locked); eyes warming in "
-        "serene awe.",
-        "The clip plays out fully resolved in Look B, written 1:1 with Frame 5's image — the "
-        "fluid champagne silk-satin column gown with its soft modest cowl neckline, long "
-        "sleeves and liquid drape; the freshwater-pearl drop earring and delicate "
-        "champagne-gold thread bracelet set; makeup warmed to a champagne lid, soft peach "
-        "blush and a glossy warm-rose lip with a dewy lit-from-within glow and soft-set brows; "
-        "the deep side-part Old-Hollywood finger waves now warm-lacquered, the champagne satin "
-        "pointed pumps grounded below; warm champagne-and-pearl grade, dewy real skin with "
-        "visible pores — exactly the look Frame 5 opens on; a soft serene warmth landing in "
-        "her eyes.",
+        "Cut to an energized medium at a HELD angle (Veo first frame = the steel Look A "
+        "still): she opens her arms in the gunmetal gown, already in motion, a gentle "
+        "push-with easing toward her \u2014 the steel look fully intact, NO change yet, the "
+        "angle fixed for the whole clip.",
+        "The morph BEGINS here, mid-clip: a warm dissolve-front starts at her near shoulder "
+        "and travels smoothly and diagonally down across the gown in one continuous liquid "
+        "wavefront, polished gunmetal turning to flowing champagne silk exactly where it "
+        "passes \u2014 gradual and motivated, never a snap; eyes warming in serene awe as it "
+        "crosses (angle held, identity locked).",
+        "The wavefront completes its sweep and the look settles smoothly and fully into the "
+        "champagne-silk Look B of the Veo last-frame still (Frame 5's image), resolved and "
+        "held through the final beat \u2014 no last-second pop; a soft serene warmth landing "
+        "in her eyes.",
     ),
     # F5 - Look B clean reveal, cut to a NEW angle, slow push
     (
