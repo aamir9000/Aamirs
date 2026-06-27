@@ -3116,14 +3116,16 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE & ANGLE: front-on medium-wide, subject fills ~45%.
 
-CAMERA MOVEMENT (CHOREOGRAPHY): a slow 5% push with a gentle bounce-in as she steps onto the runway, gimbal-smooth.
-
 LENS: 35mm, f/2.8.
 
-SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.2s — she steps onto the striped rug, skirt swishing.
-- 2.2–4.3s — she reaches up and clips the heart sunglasses down.
-- 4.3–6.0s — she beams toward the balloons at the rug edge.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Front-on medium-wide: she is already stepping onto the candy-striped runway rug with a light bounce as a slow push drifts in, pleated skirt swishing and the peach skyline glowing behind; eyes bright and happy.
+- [00:02–00:04] The push bounces gently closer as she reaches up and clips the heart sunglasses down onto her nose, a playful grin starting; gaze flicking to the balloons.
+- [00:04–00:06] She beams toward the sherbet balloons at the rug edge, cheeks lifting in joyful anticipation, eyes sparkling.
+
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
+
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
 FLUIDITY & WEIGHT NOTES: the step bounces with buoyant weight; the sunglasses-clip flows from a relaxed wrist; the smile blooms — light and springy, never stiff.
 
@@ -3190,14 +3192,16 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE & ANGLE: macro, detail fills ~70%.
 
-CAMERA MOVEMENT (CHOREOGRAPHY): a slow 4% push as her hand closes on the ribbons, locked otherwise.
-
 LENS: 100mm macro, f/2.8.
 
-SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.2s — her fingers reach into the ribbons.
-- 2.2–4.3s — she gathers and wraps them in her palm.
-- 4.3–6.0s — the ribbons tauten as the balloons tug upward.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Extreme macro on her pastel-nailed hand: her fingers are already reaching into the balloon ribbons as a slow push closes in, sherbet balloons soft behind.
+- [00:02–00:04] She gathers and wraps the ribbons in her palm, the bundle bunching together.
+- [00:04–00:06] The ribbons tauten and tug upward as the balloons pull, her grip flexing against the lift.
+
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
+
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
 FLUIDITY & WEIGHT NOTES: the gather is soft and playful, flowing from a relaxed wrist; the upward tug reads as gentle buoyant force — no stiffness.
 
@@ -3264,14 +3268,16 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE & ANGLE: three-quarter front medium, subject fills ~55%.
 
-CAMERA MOVEMENT (CHOREOGRAPHY): a smooth arc following her twirl with a gentle rise, gimbal-stable.
-
 LENS: 50mm, f/2.2.
 
-SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.2s — she begins to twirl, skirt flaring.
-- 2.2–4.2s — her heels lift off the rug as the balloons pull.
-- 4.2–6.0s — she laughs, floating into the lift.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Three-quarter front medium: she is already beginning to twirl with the balloons as a smooth arc follows her with a gentle rise, the pleated skirt flaring out; a delighted grin spreading.
+- [00:02–00:04] Her heels lift off the rug as the balloons pull her upward and the arc rises with her; eyes widening with giddy joy.
+- [00:04–00:06] She laughs openly as she floats up into the lift, gaze lifting to the balloons overhead, cheeks round with delight.
+
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
+
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
 FLUIDITY & WEIGHT NOTES: the twirl initiates from the core, arms trailing; the lift-off is feather-light, weight melting away gradually — supremely fluid, buoyant.
 
@@ -3338,14 +3344,16 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE & ANGLE: low-angle full/wide hero, subject fills ~50%, floating high in frame.
 
-CAMERA MOVEMENT (CHOREOGRAPHY): a smooth crane-up tracking her float with a slow orbit to front, weightless and continuous.
-
 LENS: 35mm, f/2.8.
 
-SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–1.7s — the balloons lift her off the rug.
-- 1.7–4.0s — she floats up into a gentle weightless arc.
-- 4.0–6.0s — she opens her arm and delivers the line to lens with a laughing smile.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Low-angle full/wide hero: the balloons are already lifting her off the rug as a smooth crane rises with her into a slow orbit to front, the city glowing below; eyes alight in weightless wonder.
+- [00:02–00:04] She floats up into a gentle weightless arc, skirt and hair drifting, the crane carrying the city behind; a buoyant joyful smile.
+- [00:04–00:06] She opens an arm and delivers the spoken line to lens with a laughing smile, eyes crinkling in pure delight.
+
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
+
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
 SPOKEN LINE (lands ~4.6s): "some days, you just have to float." (English, natural Indian accent, warm and playful)
 
@@ -3414,14 +3422,16 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE & ANGLE: profile medium-wide, subject fills ~50%.
 
-CAMERA MOVEMENT (CHOREOGRAPHY): a smooth descend-and-track alongside her drift-down, matched pace, gimbal-stable.
-
 LENS: 50mm, f/2.2.
 
-SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.2s — she drifts down in profile, balloons easing.
-- 2.2–4.5s — her toe reaches for the rug.
-- 4.5–6.0s — she settles, beginning to turn back.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Profile medium-wide in side silhouette: she is already drifting back down as a smooth descend-and-track moves alongside, the balloons easing their pull; gaze soft toward the rug.
+- [00:02–00:04] Her pointed toe reaches for the candy-striped rug, the descent gentle; a content happy smile lingering.
+- [00:04–00:06] She settles her weight onto the rug and begins to turn back, eyes drifting toward the runway start.
+
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
+
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
 FLUIDITY & WEIGHT NOTES: the descent is feather-soft — weight returning gradually through a pointed toe; the settle eases into the turn — never stiff.
 
@@ -3488,14 +3498,16 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE & ANGLE: front-on medium-wide matching Frame 1, subject ~45%.
 
-CAMERA MOVEMENT (CHOREOGRAPHY): a slow pull-back to the runway start reversing Frame 1's push, so the end pose meets the opening entry.
-
 LENS: 35mm, f/2.8.
 
-SUBJECT ACTION w/ BEAT-TIMING:
-- 0.0–2.3s — she turns back toward the runway start.
-- 2.3–4.7s — the balloons settle at the rug edge and the glasses slide up.
-- 4.7–6.0s — she settles into the Frame 1 entry stance.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Front-on medium-wide matching Frame 1: a slow pull-back to the runway start is already reversing the opening push as she turns back; gaze sweeping the rooftop.
+- [00:02–00:04] The pull-back continues as the balloons settle at the rug edge and the heart sunglasses slide up into her hair; a bright easy smile returning.
+- [00:04–00:06] She settles into the exact entry stance of Frame 1, weight on the lead foot, eyes happy on the skyline — a seamless loop seam.
+
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
+
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
 FLUIDITY & WEIGHT NOTES: the turn-back is a single buoyant hip-led rotation; the reset reads as natural continuation, not a rewind.
 

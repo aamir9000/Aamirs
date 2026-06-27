@@ -442,6 +442,67 @@ BEATS[6] = [
 ]
 
 
+BEATS[7] = [
+    # Frame 1 - front-on medium-wide, stepping onto runway
+    (
+        "Front-on medium-wide: she is already stepping onto the candy-striped runway rug "
+        "with a light bounce as a slow push drifts in, pleated skirt swishing and the peach "
+        "skyline glowing behind; eyes bright and happy.",
+        "The push bounces gently closer as she reaches up and clips the heart sunglasses "
+        "down onto her nose, a playful grin starting; gaze flicking to the balloons.",
+        "She beams toward the sherbet balloons at the rug edge, cheeks lifting in joyful "
+        "anticipation, eyes sparkling.",
+    ),
+    # Frame 2 - macro on hand closing on ribbons (no face)
+    (
+        "Extreme macro on her pastel-nailed hand: her fingers are already reaching into the "
+        "balloon ribbons as a slow push closes in, sherbet balloons soft behind.",
+        "She gathers and wraps the ribbons in her palm, the bundle bunching together.",
+        "The ribbons tauten and tug upward as the balloons pull, her grip flexing against "
+        "the lift.",
+    ),
+    # Frame 3 - 3/4 front medium, twirl + heels lifting
+    (
+        "Three-quarter front medium: she is already beginning to twirl with the balloons as "
+        "a smooth arc follows her with a gentle rise, the pleated skirt flaring out; a "
+        "delighted grin spreading.",
+        "Her heels lift off the rug as the balloons pull her upward and the arc rises with "
+        "her; eyes widening with giddy joy.",
+        "She laughs openly as she floats up into the lift, gaze lifting to the balloons "
+        "overhead, cheeks round with delight.",
+    ),
+    # Frame 4 - low-angle full/wide hero, balloon float (SPOKEN)
+    (
+        "Low-angle full/wide hero: the balloons are already lifting her off the rug as a "
+        "smooth crane rises with her into a slow orbit to front, the city glowing below; "
+        "eyes alight in weightless wonder.",
+        "She floats up into a gentle weightless arc, skirt and hair drifting, the crane "
+        "carrying the city behind; a buoyant joyful smile.",
+        "She opens an arm and delivers the spoken line to lens with a laughing smile, eyes "
+        "crinkling in pure delight.",
+    ),
+    # Frame 5 - profile medium-wide, drift down
+    (
+        "Profile medium-wide in side silhouette: she is already drifting back down as a "
+        "smooth descend-and-track moves alongside, the balloons easing their pull; gaze soft "
+        "toward the rug.",
+        "Her pointed toe reaches for the candy-striped rug, the descent gentle; a content "
+        "happy smile lingering.",
+        "She settles her weight onto the rug and begins to turn back, eyes drifting toward "
+        "the runway start.",
+    ),
+    # Frame 6 - front-on medium-wide loop close
+    (
+        "Front-on medium-wide matching Frame 1: a slow pull-back to the runway start is "
+        "already reversing the opening push as she turns back; gaze sweeping the rooftop.",
+        "The pull-back continues as the balloons settle at the rug edge and the heart "
+        "sunglasses slide up into her hair; a bright easy smile returning.",
+        "She settles into the exact entry stance of Frame 1, weight on the lead foot, eyes "
+        "happy on the skyline \u2014 a seamless loop seam.",
+    ),
+]
+
+
 def build_block(beats):
     # Replaces ONLY the `SUBJECT ACTION w/ BEAT-TIMING:` header + its bullet
     # beat lines. Whatever follows (a blank line then SPOKEN LINE or
