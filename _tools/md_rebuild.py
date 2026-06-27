@@ -191,6 +191,88 @@ BEATS[80] = [
 ]
 
 
+BEATS[81] = [
+    # F1 - medium close chest-up (push-in)
+    (
+        "Medium close chest-up: a slow push-in is already gliding toward her as she tilts the "
+        "clear orb jar a few degrees into the key, the magenta jelly wobbling and internal "
+        "glints sliding across the dome; gaze lowered to the jar.",
+        "The push continues as she lifts her eyes to lens on a soft inhale and a knowing "
+        "asymmetric quarter-smile blooms, a lava-lamp blob rising lazily behind.",
+        "She holds, playful and glossy, one brow a hair higher, eyes bright and direct "
+        "(silent \u2014 no words).",
+    ),
+    # F2 - medium waist-up TRANSFORM (6% crane lift, blobs rise/merge -> blob-form gown)
+    (
+        "Medium waist-up rising: a slow 6% craning lift is already tracking the rising blobs "
+        "as glossy candy globes float up around her body, magenta, lime and tangerine "
+        "wobbling with believable surface tension; gaze following the floating blobs, face "
+        "delighted.",
+        "The lift rides the merge as the blobs join around her torso into a single marbled "
+        "sheet and the leading edge sets into the sculpted blob-form gown; a wondering "
+        "breath, brows lifting.",
+        "The gown finishes with a final glossy ripple and a small blob pinches off and "
+        "wobbles free as her shoulders settle and she lifts her chin into the reveal.",
+    ),
+    # F3 - extreme macro, 5% rack-focus pull (label->face)
+    (
+        "Extreme macro on the domed orb jar with her soft presence behind: a slow 5% "
+        "rack-focus pull is already underway as the magenta jelly trembles mid-wobble inside "
+        "the dome and a specular slides across the curve, her fingertips feather-light on "
+        "the lime base.",
+        "The rack-focus pulls from the crisp label window back toward her soft delighted face "
+        "as the candy bokeh blooms; gaze warming behind the jar.",
+        "The jelly settles with a hairline ripple, her face soft and pleased in focus, eyes "
+        "bright.",
+    ),
+    # F4 - low 3/4 body, 6% pan up (jelly mule -> bangled wrist)
+    (
+        "Low three-quarter body down the leg-and-wrist line: a slow 6% pan up is already "
+        "travelling from the jelly mule as she pushes the leg forward and rotates the ankle, "
+        "the translucent platform catching candy light and the lime sole flashing a "
+        "specular.",
+        "The pan rises up the body line as she lifts and rotates the bangled wrist into "
+        "frame, the candy-resin stack rocking and the pendant swinging; gaze glancing down "
+        "the line.",
+        "She lands a pleased quarter-smile glancing down the body, weight grounded, the "
+        "accessories settling.",
+    ),
+    # F5 - full-length, 7% arc (twirl -> power-pose)
+    (
+        "Full-length: a slow 7% arc is already following her as she sweeps one arm overhead "
+        "and begins a confident quarter-twirl, the gown skirt and glossy flip swinging out "
+        "and bangles sliding down the forearm; gaze leading the turn.",
+        "The arc rides the twirl through its sweep, the candy gown flaring and the lava-lamp "
+        "blobs rising fast behind; eyes bright and alive.",
+        "She lands the power-pose facing lens with a bright open smile, the skirt and hoops "
+        "settling, eyes sparkling.",
+    ),
+    # F6 - medium-full MAGIC, 8% orbital arc (candy mitosis -> orbital rings)
+    (
+        "Medium-full with the orbital rings filling the width: a slow 8% orbital arc is "
+        "already circling her as she raises her open palms and the hovering candy blobs defy "
+        "gravity, a larger globe pinching and splitting into two in clean candy mitosis; "
+        "gaze drawn to the split.",
+        "The orbit rides the magic as the split globes arc into two concentric orbital rings "
+        "circling her like planets, each trailing a glossy comet-sheen; her face "
+        "serene-radiant at the centre, eyes widening.",
+        "The rings settle into a steady glowing orbit with a final small blob wobbling at the "
+        "apex as she holds the transcendent pose; a radiant smile landing, eyes alight.",
+    ),
+    # F7 - perfect-loop close (8% push-in to F1)
+    (
+        "Medium close chest-up matching Frame 1: a slow 8% push-in is already resolving "
+        "toward the exact opening framing as the last orbiting candy blob settles softly to "
+        "the floor; she lowers her gaze to the hero jar and tilts it, the magenta jelly "
+        "rocking gently inside.",
+        "The push settles as she lifts her eyes back to lens on a soft exhale with a composed "
+        "knowing quarter-smile, the scene resolving to the opening tableau; eyes calming.",
+        "Every element resolves precisely to the Frame 1 composition, framing locked \u2014 a "
+        "seamless loop seam.",
+    ),
+]
+
+
 def build_block(beats):
     return (
         BREAKDOWN_HEADER + "\n"

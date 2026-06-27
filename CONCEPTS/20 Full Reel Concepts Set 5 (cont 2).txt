@@ -102,13 +102,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: medium close, chest-up, subject fills 55% of the vertical frame.
 
-CAMERA MOVEMENT: a single slow 8% push-in across the clip, otherwise locked-off and stable — one move only, no whip, no handoff.
-
 LENS: 50mm, f/2.8, smooth creamy background fall-off with soft blob bokeh.
 
-SUBJECT ACTION WITH TIMING:
-- 0.0–3.0s — Aira tilts the clear orb jar a few degrees into the key light, the magenta jelly wobbling and internal glints sliding across the dome.
-- 3.0–6.0s — she lifts her eyes to the lens on a soft inhale as the knowing asymmetric quarter-smile blooms, a lava-lamp blob rising lazily behind. One clean subject action, real wobble physics throughout.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Medium close chest-up: a slow push-in is already gliding toward her as she tilts the clear orb jar a few degrees into the key, the magenta jelly wobbling and internal glints sliding across the dome; gaze lowered to the jar.
+- [00:02–00:04] The push continues as she lifts her eyes to lens on a soft inhale and a knowing asymmetric quarter-smile blooms, a lava-lamp blob rising lazily behind.
+- [00:04–00:06] She holds, playful and glossy, one brow a hair higher, eyes bright and direct (silent — no words).
 
 LIGHTING: clamshell beauty key with lifted clean fill; live moving speculars travelling across the glossy dome and skin as the jar tips; candy seamless held one stop down; soft candy-colour wash from the rising blobs; hair-light steady on the glossy flip.
 
@@ -116,9 +115,9 @@ ENVIRONMENT: surreal candy lava-lamp studio, slow rising blobs behind, high-glos
 
 AUDIO (no spoken word): diegetic only, no in-clip music. Ambient bed — low warm studio room tone throughout. SFX — a soft glossy glass-tap as her fingers settle on the jar at 0.4s (gentle attack, short tail), a faint jelly-wobble squelch at 1.2s (soft, playful), a light airy candy-shimmer accent at 4.6s timed to the eye-lift. Reaction — a soft audible breath at 3.0s. NO voice-over.
 
-DURATION: 5 seconds (0:00–0:05 of 30s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps acquisition, 180° shutter, natural motion blur on the jar tilt and jelly wobble; playback 24fps real-time.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — lips closed/softly parted, composed.
 
@@ -181,14 +180,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: medium, waist-up rising to capture the full blob-merge, subject filling about 50% of the vertical frame.
 
-CAMERA MOVEMENT: a slow 6% craning lift tracking the rising blobs upward ( single move), locked otherwise — no whip, no cut, one continuous take through the transform.
-
 LENS: 50mm, f/2.8, creamy candy-blob fall-off behind.
 
-SUBJECT ACTION WITH TIMING:
-- 0.0–1.5s — glossy candy lava-lamp blobs rise from the floor and float up around her body, magenta, lime and tangerine globes wobbling with believable surface tension as her face stays pin-locked and delighted.
-- 1.5–4.0s — the blobs merge around her torso into a single marbled sheet, the leading edge setting into the sculpted blob-form gown (face, hairline and eyes identical throughout, only wardrobe changing).
-- 4.0–6.0s — the gown finishes setting with a final glossy ripple, a small blob pinching off and wobbling free, her shoulders settling as she lifts her chin into the reveal. One clean cause→effect transform, real wobble physics throughout.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Medium waist-up rising: a slow 6% craning lift is already tracking the rising blobs as glossy candy globes float up around her body, magenta, lime and tangerine wobbling with believable surface tension; gaze following the floating blobs, face delighted.
+- [00:02–00:04] The lift rides the merge as the blobs join around her torso into a single marbled sheet and the leading edge sets into the sculpted blob-form gown; a wondering breath, brows lifting.
+- [00:04–00:06] The gown finishes with a final glossy ripple and a small blob pinches off and wobbles free as her shoulders settle and she lifts her chin into the reveal.
 
 LIGHTING: clamshell beauty key holding the face locked; travelling candy-colour practical wash as the glowing blobs rise; intensified rim on the lifted flip; cyclorama one stop down; bounce kick keeping blob colour saturated and clean.
 
@@ -196,9 +193,9 @@ ENVIRONMENT: surreal candy lava-lamp studio, giant glossy blobs rising across th
 
 AUDIO: silent of any voice — NO spoken word, NO vocal of any kind. Ambient bed — a warm low candy-studio room tone. SFX — soft gloopy rising-blob bubble-wobbles building from 0.3s, a smooth liquid merge-whoosh at 1.6s as the globes fuse, a gentle glossy set-and-snap shimmer at 4.0s as the gown finishes, a tiny wet pinch-pop at 4.8s as a blob breaks free. Reaction — a soft delighted breath only, no voiced sound. VO — none.
 
-DURATION: 6 seconds (0:05–0:11 of 30s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps acquisition, 180° shutter, natural motion blur on the rising and merging blobs; playback 24fps real-time.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — lips parted in delight, no speech, no mouthed words.
 
@@ -261,13 +258,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: extreme macro, the domed orb jar filling about 55% of the vertical frame, her soft presence behind.
 
-CAMERA MOVEMENT: a slow 5% macro rack-focus pull from the label window back to her soft glossy face behind ( single move), otherwise locked — one continuous take, no cut.
-
 LENS: 100mm macro, f/4, razor-thin focus plane, creamy candy fall-off.
 
-SUBJECT ACTION WITH TIMING:
-- 0.0–2.2s — the magenta jelly trembles mid-wobble inside the glossy dome as a specular slides across the curve, her fingertips resting feather-light on the lime base.
-- 2.2–6.0s — a slow rack-focus pulls from the crisp label window back to her soft delighted face behind, the candy bokeh blooming, the jelly settling with a hairline ripple. One clean macro beat, real wobble physics.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Extreme macro on the domed orb jar with her soft presence behind: a slow 5% rack-focus pull is already underway as the magenta jelly trembles mid-wobble inside the dome and a specular slides across the curve, her fingertips feather-light on the lime base.
+- [00:02–00:04] The rack-focus pulls from the crisp label window back toward her soft delighted face as the candy bokeh blooms; gaze warming behind the jar.
+- [00:04–00:06] The jelly settles with a hairline ripple, her face soft and pleased in focus, eyes bright.
 
 LIGHTING: raking macro beauty key maximising the dome specular and sub-surface glow; small white fill lifting the shadow side; candy rim on the dome; background gown-glow held down; lime bounce keeping the jelly saturated.
 
@@ -275,9 +271,9 @@ ENVIRONMENT: the candy lava-lamp studio fully defocused behind, a soft glossy ma
 
 AUDIO: silent of any voice — NO spoken word, NO vocal of any kind. Ambient bed — a warm low candy-studio room tone. SFX — a soft gloopy jelly-wobble jiggle at 0.6s with a short wet tail, a faint glossy glass-settle tick at 1.5s, a gentle airy candy-shimmer accent at 3.0s timed to the rack-focus. Reaction — none this frame. VO — none.
 
-DURATION: 4 seconds (0:11–0:15 of 30s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps acquisition, 180° shutter, natural motion blur on the jelly wobble; playback 24fps real-time.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — no speech, face soft-focus.
 
@@ -338,13 +334,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: low three-quarter body shot down the leg-and-wrist line, footwear in the lower third, face at the top, subject filling about 70% of the vertical frame.
 
-CAMERA MOVEMENT: a slow 6% pan up the body line from the jelly mule to the bangled wrist ( single move), otherwise locked — one continuous take, no cut.
-
 LENS: 35mm, f/3.5, creamy candy fall-off with floating blob bokeh.
 
-SUBJECT ACTION WITH TIMING:
-- 0.0–2.2s — she pushes the jelly-mule leg forward and rotates the ankle a few degrees so the translucent platform catches the candy light and glows, the lime sole flashing a specular.
-- 2.2–6.0s — she lifts and rotates the bangled wrist into frame, the candy-resin stack rocking and the pendant swinging, glancing down the body line with a pleased quarter-smile. One clean styling action, real wobble physics.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Low three-quarter body down the leg-and-wrist line: a slow 6% pan up is already travelling from the jelly mule as she pushes the leg forward and rotates the ankle, the translucent platform catching candy light and the lime sole flashing a specular.
+- [00:02–00:04] The pan rises up the body line as she lifts and rotates the bangled wrist into frame, the candy-resin stack rocking and the pendant swinging; gaze glancing down the line.
+- [00:04–00:06] She lands a pleased quarter-smile glancing down the body, weight grounded, the accessories settling.
 
 LIGHTING: raking three-quarter beauty key maximising internal glow and speculars; white fill lifting shadows; candy rim on gown and hoops; travelling blob-wash practical; lime floor bounce keeping the mules saturated.
 
@@ -352,9 +347,9 @@ ENVIRONMENT: candy lava-lamp studio with rising blobs softly defocused behind, h
 
 AUDIO: silent of any voice — NO spoken word, NO vocal of any kind. Ambient bed — a warm low candy-studio room tone. SFX — a soft glossy jelly-sole squeak-tick as the mule plants at 0.8s, a light translucent-resin clack of bangles settling at 2.7s, a faint airy candy-shimmer accent at 3.9s timed to the pendant swing. Reaction — none this frame. VO — none.
 
-DURATION: 4 seconds (0:15–0:19 of 30s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps acquisition, 180° shutter, natural motion blur on the ankle rotation and bangle swing; playback 24fps real-time.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — no speech, soft pleased expression.
 
@@ -415,13 +410,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: full-length, subject filling about 80% of the vertical frame.
 
-CAMERA MOVEMENT: a slow 7% arc around her as she twirls, following the motion ( single move), otherwise locked — one continuous take, no cut.
-
 LENS: 35mm, f/4, creamy candy fall-off with rising blob bokeh.
 
-SUBJECT ACTION WITH TIMING:
-- 0.0–2.4s — she sweeps one arm overhead and begins a confident quarter-twirl, the gown skirt and glossy flip swinging out, bangles sliding down the forearm.
-- 2.4–6.0s — she lands the power-pose facing lens with a bright open smile, the skirt and hoops settling, the lava-lamp blobs rising fast behind. One clean high-energy action, real motion physics.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Full-length: a slow 7% arc is already following her as she sweeps one arm overhead and begins a confident quarter-twirl, the gown skirt and glossy flip swinging out and bangles sliding down the forearm; gaze leading the turn.
+- [00:02–00:04] The arc rides the twirl through its sweep, the candy gown flaring and the lava-lamp blobs rising fast behind; eyes bright and alive.
+- [00:04–00:06] She lands the power-pose facing lens with a bright open smile, the skirt and hoops settling, eyes sparkling.
 
 LIGHTING: feathered beauty key holding the face lit through the turn; white fill lifting shadows; candy rim on the swinging gown and flip; travelling blob-wash practical; lime floor bounce keeping the gown saturated.
 
@@ -429,9 +423,9 @@ ENVIRONMENT: candy lava-lamp studio, blobs rising fast across the saturated cycl
 
 AUDIO: silent of any voice — NO spoken word, NO vocal of any kind. Ambient bed — a warm low candy-studio room tone. SFX — a soft glossy latex-swish as the gown swings at 0.8s, a light translucent-resin bangle-slide clack at 1.8s, an airy candy whoosh timed to the twirl at 2.8s, a glossy mule-plant tick as she lands at 4.0s. Reaction — a soft delighted exhale only, no voiced sound. VO — none.
 
-DURATION: 3 seconds (0:19–0:22 of 30s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps acquisition, 180° shutter, natural motion blur on the twirl and swinging gown; playback 24fps real-time.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — open smile, no speech, no mouthed words.
 
@@ -494,14 +488,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: medium-full, subject filling about 65% of the vertical frame, the orbital rings filling the width.
 
-CAMERA MOVEMENT: a slow 8% orbital arc around her matching the candy rings ( single move), otherwise locked — one continuous take, no cut.
-
 LENS: 35mm, f/2.8, creamy candy fall-off with glowing blob bokeh.
 
-SUBJECT ACTION WITH TIMING:
-- 0.0–1.8s — as she raises her open palms, the hovering candy blobs defy gravity and a larger globe pinches and splits into two (clean candy mitosis).
-- 1.8–4.2s — the split globes arc into two concentric orbital rings circling her body like planets, each trailing a glossy comet-sheen, her face serene-radiant at the centre.
-- 4.2–6.0s — the rings settle into a steady glowing orbit, a final small blob wobbling at its apex as she holds the transcendent pose. One clean magic beat, real wobble and orbital physics, identity pin-locked throughout.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Medium-full with the orbital rings filling the width: a slow 8% orbital arc is already circling her as she raises her open palms and the hovering candy blobs defy gravity, a larger globe pinching and splitting into two in clean candy mitosis; gaze drawn to the split.
+- [00:02–00:04] The orbit rides the magic as the split globes arc into two concentric orbital rings circling her like planets, each trailing a glossy comet-sheen; her face serene-radiant at the centre, eyes widening.
+- [00:04–00:06] The rings settle into a steady glowing orbit with a final small blob wobbling at the apex as she holds the transcendent pose; a radiant smile landing, eyes alight.
 
 LIGHTING: feathered beauty key holding the face serene; travelling multi-colour candy practical wash from the orbiting globes; intensified rim on the lifted flip; cyclorama one stop down; lime bounce keeping the globes saturated and clean.
 
@@ -509,9 +501,9 @@ ENVIRONMENT: surreal candy lava-lamp studio, the candy solar system orbiting aga
 
 AUDIO: silent of any voice — NO spoken word, NO vocal of any kind. Ambient bed — a warm low candy-studio room tone with a faint airy shimmer rising. SFX — soft gloopy blob-wobbles building from 0.2s, a smooth wet pinch-split bubble-pop at 1.2s as the globe divides, gentle whooshing candy-arc swooshes at 1.9s as the rings form, a soft sparkling chime-shimmer at 4.2s as the orbit settles, tiny wet blob-wobble taps continuing under. Reaction — a soft awed breath only, no voiced sound. VO — none.
 
-DURATION: 5 seconds (0:22–0:27 of 30s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps acquisition, 180° shutter, natural motion blur on the splitting and orbiting blobs; playback 24fps real-time.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — lips parted in awe, no speech, no mouthed words.
 
@@ -574,13 +566,12 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE: medium close, chest-up, subject fills about 55% of the vertical frame — matched to Frame 1.
 
-CAMERA MOVEMENT: a single slow 8% push-in resolving to the exact opening framing ( single move), otherwise locked — one continuous take, no cut, composed so the end position matches Frame 1's start.
-
 LENS: 50mm, f/2.8, smooth creamy candy fall-off.
 
-SUBJECT ACTION WITH TIMING:
-- 0.0–3.0s — the last orbiting candy blob settles softly to the floor as she lowers her gaze to the hero jar and tilts it a few degrees, the magenta jelly rocking gently inside.
-- 3.0–6.0s — she lifts her eyes back to the lens on a soft exhale with a composed knowing quarter-smile, the scene resolving precisely to the opening tableau for a seamless loop. One clean action, real wobble physics, identity pin-locked.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] Medium close chest-up matching Frame 1: a slow 8% push-in is already resolving toward the exact opening framing as the last orbiting candy blob settles softly to the floor; she lowers her gaze to the hero jar and tilts it, the magenta jelly rocking gently inside.
+- [00:02–00:04] The push settles as she lifts her eyes back to lens on a soft exhale with a composed knowing quarter-smile, the scene resolving to the opening tableau; eyes calming.
+- [00:04–00:06] Every element resolves precisely to the Frame 1 composition, framing locked — a seamless loop seam.
 
 LIGHTING: clamshell beauty key identical to the opening; soft settled candy glow; candy rim on the flip; cyclorama one stop down; lime bounce glossing the jar — matched to Frame 1.
 
@@ -588,9 +579,9 @@ ENVIRONMENT: candy lava-lamp studio settled to its calm opening state, high-glos
 
 AUDIO: silent of any voice — NO spoken word, NO vocal of any kind. Ambient bed — a warm low candy-studio room tone settling to match the opening. SFX — a soft wet blob-settle tap as the last globe lands at 0.8s, a gentle glossy glass-tap as her fingers settle on the jar at 2.0s, a faint airy candy-shimmer accent at 4.4s timed to the eye-lift, resolving cleanly so the tail matches the head for a seamless loop. Reaction — a soft exhale only, no voiced sound. VO — none.
 
-DURATION: 3 seconds (0:27–0:30 of 30s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps acquisition, 180° shutter, natural motion blur on the jar tilt; playback 24fps real-time.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — lips softly parted, composed, no speech.
 
