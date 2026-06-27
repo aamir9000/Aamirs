@@ -438,6 +438,72 @@ BEATS[76] = [
 ]
 
 
+BEATS[77] = [
+    # F1 - medium close chest-up (push-in)
+    (
+        "Medium close chest-up: a slow push-in is already gliding toward her as she tilts the "
+        "petal compact a few degrees into the key, a soft sheen sliding across the embossed "
+        "lid and the paper petals of the skirt flexing gently; gaze lowered to the compact.",
+        "The push continues as she lifts her eyes to lens on a soft inhale and a warm "
+        "quarter-smile blooms, giant kirigami paper flowers glowing behind.",
+        "She holds, joyful and bright, one brow a hair higher, eyes warm and direct to lens.",
+    ),
+    # F2 - medium waist-up, arc-push (paper self-cuts and blooms the gown, track transform)
+    (
+        "Medium waist-up: a smooth 10% arc-push is already drifting a few degrees around her "
+        "as flat paper sheets sweep in from the frame edges and she opens her arms to "
+        "present; gaze tracking the incoming sheets.",
+        "The arc-push rides the build as the paper self-cuts into kirigami lace and folds "
+        "and pops up into the bodice and petal skirt, edges crisping into clean scissored "
+        "line; a delighted breath, brows lifting.",
+        "The last petals bloom open and the paper-flecks fade as the move eases; she lands a "
+        "confident finished pose, eyes alight on the lace-cut gown.",
+    ),
+    # F3 - tight medium close + macro foreground, rack-focus pull (product->eye)
+    (
+        "Tight medium close with a macro foreground on the compact: a slow rack-focus pull "
+        "with a 5% drift-in is already underway as she slowly rotates the petal compact, the "
+        "embossed lid and powder dome catching light while focus holds on the relief.",
+        "Focus racks smoothly off the compact toward her near eye as she lifts her gaze, the "
+        "drift settling; a warm half-smile beginning.",
+        "The half-smile settles with her eye now tack-sharp, the compact soft in the "
+        "foreground, gaze direct and warm.",
+    ),
+    # F4 - beauty close-up, face-dominant (4% push, emotional beat — silent)
+    (
+        "Beauty close-up, face-dominant: an almost-imperceptible 4% push is already breathing "
+        "in as the radiant smile blooms with a genuine eye-crinkle and her gaze lifts to "
+        "lens (silent \u2014 no words).",
+        "A soft exhale and a tiny confident chin-lift follow as her fingertips settle at the "
+        "jaw, the expression warm and open.",
+        "The warm open expression holds, eyes bright and direct \u2014 a wordless emotional "
+        "reveal in place of any line.",
+    ),
+    # F5 - medium-wide three-quarter body, graphic 3D orbit (kirigami bloom-burst)
+    (
+        "Medium-wide three-quarter body: a smooth graphic 20\u00b0 3D orbit is already arcing "
+        "around her as she sweeps her arms outward and the pop-up kirigami flowers spring "
+        "open in fanned arcs; gaze lifting into the bloom.",
+        "The orbit rides the bloom to its luminous peak, paper-flecks spiralling around her; "
+        "eyes widening, an awe-struck joyful smile at full bloom.",
+        "The flowers hold and begin a gentle settle as the flecks drift and the orbit eases; "
+        "her joyful smile landing, eyes alight.",
+    ),
+    # F6 - medium close loop close (6% settle-back to F1)
+    (
+        "Medium close chest-up matching Frame 1: a gentle 6% settle-back is already returning "
+        "the framing toward the opening position as the last paper-flecks settle; she eases "
+        "her arms back in and re-cradles the petal compact at collarbone height, gaze "
+        "softening.",
+        "The settle continues as she resolves into the calm hero pose with the warm "
+        "quarter-smile and a soft settling exhale, the paper-bloom studio easing to its "
+        "opening look; eyes calming.",
+        "She lands exactly on the Frame 1 composition and gaze, weight settled \u2014 a "
+        "seamless loop seam.",
+    ),
+]
+
+
 def build_block(beats):
     return (
         BREAKDOWN_HEADER + "\n"
