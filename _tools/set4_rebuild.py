@@ -246,6 +246,73 @@ BEATS[53] = [
 ]
 
 
+BEATS[54] = [
+    # F1 - medium-full three-quarter hero in spotlight (push-in)
+    (
+        "Medium-full three-quarter hero in the single overhead spotlight: a slow push-in is "
+        "already gliding toward her as she holds the black-glass bottle to her collarbone, "
+        "the charcoal slip breathing and cool haze curling through the beam; she lifts her "
+        "eyes to lens with a cool knowing set.",
+        "The push continues as she begins a graceful quarter-turn, a steel specular "
+        "travelling the slip; gaze easing to lens, chin level.",
+        "She settles mid-turn, weight rolling onto the front foot, a cool electric calm "
+        "holding as a chrome rim catches her shoulder.",
+    ),
+    # F2 - full-figure transform, slightly low angle (arc following the sheet up)
+    (
+        "Full-figure from a slightly low angle: a slow controlled arc is already rising as a "
+        "sheet of glossy black ferrofluid lifts off the mirror-floor and begins to climb her "
+        "form; gaze tracking the rising sheet, eyes sharpening.",
+        "The arc rides the sheet upward as it pulls into crisp magnetic spikes along "
+        "invisible field-lines that arc then smooth into the liquid-obsidian gown; a charged "
+        "breath, brows lifting.",
+        "The last spikes smooth and the chrome detailing sets as the arc eases; a cool "
+        "luminous look landing, eyes alight on the obsidian seams.",
+    ),
+    # F3 - beauty close, product-at-face (6% push to collarbone)
+    (
+        "Beauty close, chest-up at a three-quarter: a slow push toward her collarbone is "
+        "already gliding in as she raises the faceted dropper above it, a glossy drop "
+        "swelling at the tip; eyes lowered to the bead.",
+        "A single serum drop releases and falls catching the chrome rim-light, the push "
+        "settling; a small assured set beginning, gaze following the drop.",
+        "She lowers the bottle a touch and lifts her eyes, the obsidian bodice glinting, a "
+        "cool composed calm in her gaze.",
+    ),
+    # F4 - beauty close, direct address (SPOKEN)
+    (
+        "Beauty close, chest-up squared to lens: the camera is already settled on a "
+        "barely-there push as her eyes find the lens with a cool knowing smile, the bottle "
+        "presented at her chest.",
+        "She delivers \u201cpower, poured on.\u201d with natural lip-sync and a soft brow "
+        "lift, eyes bright and direct, the dark studio cool behind.",
+        "The smile lands and holds with a cool blink, gaze staying eye-to-eye.",
+    ),
+    # F5 - full-figure magical hero, magnetic-spike crown bloom (majestic push + boom-rise)
+    (
+        "Full-figure magical hero from a slightly low angle: a slow majestic push-in with a "
+        "gentle boom-rise is already lifting as a bead of ferrofluid lifts from her shoulder "
+        "and a cool chrome point kindles behind her head; gaze drawn to the kindling point.",
+        "The boom keeps rising as a crown of crisp magnetic spikes fans outward along "
+        "field-lines and the gown catches the glow; eyes lifting into it, a cool radiant awe "
+        "blooming.",
+        "Droplets and motes drift and the crown eases to a sustained radiant halo as the "
+        "move settles; her cool radiant smile landing, eyes serene and crowned.",
+    ),
+    # F6 - loop close, matched to F1 (settle-back)
+    (
+        "Medium-full three-quarter hero matching Frame 1: a slow settle-back is already "
+        "easing the framing toward the opening position as the cool glow fades and the last "
+        "droplets drift down; she returns the bottle to her collarbone, gaze softening.",
+        "The pull continues as her smile eases to the cool knowing set of the opening and "
+        "the liquid-obsidian softens back toward the charcoal slip's stillness; eyes "
+        "calming.",
+        "She lifts her eyes softly to the lens, landing precisely on the Frame 1 pose, "
+        "weight settled in the spotlight \u2014 a seamless loop seam.",
+    ),
+]
+
+
 def build_block(beats):
     # Replaces ONLY the `SUBJECT ACTION WITH TIMING:` header + its bullet beat
     # lines. Ends with a single trailing newline so the original blank line
