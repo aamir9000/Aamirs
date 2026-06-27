@@ -2027,6 +2027,208 @@ BEATS[4] = [
 ]
 
 
+BEATS[5] = [
+    (
+        "Medium-wide thigh-up in the clean minimalist studio: a slow push-in is already "
+        "gliding toward her against the graphite cyclorama as she settles her weight onto "
+        "the back leg and raises her right hand to chest height, thumb and middle finger "
+        "lightly together ready to snap; the sharp quarter-smile holding.",
+        "The push continues as a fringe edge shifts in the studio air, her bold gaze "
+        "beginning to lift; a playful spark at the outer eye.",
+        "She lifts her bold gaze to lens on a soft inhale, the sharp quarter-smile settling, "
+        "eyes direct and editorial.",
+    ),
+    (
+        "Medium close, chest-up: the slow push continues with a faint tilt-up already "
+        "following her hand as she raises the snapping hand near her cheek, thumb and middle "
+        "finger pressed ready; gaze toward the fingers.",
+        "The tilt rides her hand as her gaze sharpens with playful focus on the fingertips "
+        "and a knowing micro-smile kindles.",
+        "Her fingers hold poised at the ready, eyes bright and playful, the studio air "
+        "hushed before the snap.",
+    ),
+    (
+        "Medium chest-up: a slow push is already gliding in as she presses her thumb and "
+        "middle finger hard at the snap-point and eases her left hand open; gaze beginning "
+        "to lift.",
+        "The push holds as her gaze lifts to lens with rising spark and a knowing micro-smile "
+        "forms, the fingertips charging.",
+        "The fingertips charge and sparks gather, cueing the snap, her gaze bright and "
+        "ready.",
+    ),
+    (
+        "Energized medium: she snaps her fingers crisp and a clean light-pulse rings out as "
+        "the push eases into a smooth gentle orbit; gaze sweeping with the pulse.",
+        "The orbit rides the hero beat as the pulse flips the look along its wavefront, a "
+        "bright light racing across her and the bob catching travelling light, the all-black "
+        "set giving to bold all-white (face clear, softly lit, identity locked); eyes wide "
+        "with playful spark.",
+        "The pulse settles and the white set resolves toward the reveal as the orbit eases; "
+        "a sharp confidence landing.",
+    ),
+    (
+        "Medium close, chest-up: the orbit is already easing back to a slow push as the pulse "
+        "settles and she reaches up to adjust the white lapel with an easy roll of the "
+        "shoulder; gaze easing to lens.",
+        "The push settles as a sharp confident smile eases to lens on a slow breath, the "
+        "last sparks settling.",
+        "She holds the assured editorial look, the white set crisp, eyes sharp and direct.",
+    ),
+    (
+        "Medium chest-up: a slow push is already gliding in as she shifts her weight with an "
+        "easy six-degree turn and opens her right hand in a relaxed sharp gesture; gaze "
+        "direct to lens.",
+        "She delivers \u201cOne snap. New me.\u201d to lens with a sharp knowing smile and "
+        "natural lip-sync, eyes bold and direct.",
+        "She holds the assured editorial look as the white set settles, the smile easing "
+        "into sharp calm.",
+    ),
+    (
+        "Medium-wide thigh-up matching Frame 1: the orbit is already easing to rest as a "
+        "slow push resolves toward the opening framing and she returns her right hand to the "
+        "poised snap-ready pose at chest height, settling her weight onto the back leg "
+        "exactly as in Frame 1.",
+        "The push settles as she eases her gaze back to lens on a slow breath with the "
+        "composed sharp quarter-smile, the white palette resolving toward the graphite "
+        "opening.",
+        "She lands precisely on the Frame 1 pose and gaze, weight settled \u2014 a seamless "
+        "loop seam.",
+    ),
+]
+
+BEATS[6] = [
+    (
+        "Medium-wide thigh-up in the moonlit night garden: a slow push-in is already gliding "
+        "toward her as she cradles the fragrance flacon at waist height and settles her "
+        "weight onto the back leg, lifting it a touch as if to breathe the scent; low "
+        "ground-mist and closed night-blooms around her.",
+        "The push continues as a tendril drifts in the night breeze, her serene gaze "
+        "beginning to ease toward lens; a romantic-mysterious calm in her eyes.",
+        "She eases her serene gaze to lens on a slow inhale, the half-smile settling, eyes "
+        "soft in the moon glow.",
+    ),
+    (
+        "Medium close, chest-up: the slow push continues with a faint tilt-up already "
+        "following her hand as she raises the flacon near her collarbone and rests her index "
+        "finger at the atomizer; gaze toward the flacon.",
+        "The tilt rides the flacon as her gaze softens toward it and a dreamy micro-smile "
+        "kindles, she drawing a slow breath.",
+        "She holds the flacon poised at her collarbone, eyes soft and dreamy, the night "
+        "blooms dark and closed behind.",
+    ),
+    (
+        "Medium chest-up: a slow push is already gliding in as she presses the atomizer and "
+        "a fine fragrance-mist releases; gaze beginning to lift.",
+        "The push holds as her gaze lifts to lens with rising warmth and a tender micro-smile "
+        "forms, the nearest buds beginning to tremble.",
+        "The buds tremble and a pale bloom-light creeps in, cueing the burst, her gaze warm "
+        "with wonder.",
+    ),
+    (
+        "Energized medium: the push is already easing into a smooth gentle orbit as the "
+        "bloom-wave rolls out and the nearest buds unfurl; gaze lifting into the bloom.",
+        "The orbit rides the hero beat as the wave blooms the garden along its front, pale "
+        "petals opening luminous and the waves catching travelling light (face clear, softly "
+        "lit, identity locked); eyes widening in radiant wonder.",
+        "The bloom settles toward full bloom as the orbit eases; a soft radiant calm "
+        "landing, eyes luminous.",
+    ),
+    (
+        "Medium close, chest-up: the orbit is already easing back to a slow push as the bloom "
+        "settles and she lowers the flacon to rest at her waist with an easy roll of the "
+        "shoulder; gaze easing to lens.",
+        "The push settles as a soft radiant smile eases to lens on a slow breath, the last "
+        "pollen-motes settling among the open blooms.",
+        "She holds the serene radiant look, the blooms breathing pale around her, eyes soft "
+        "and direct.",
+    ),
+    (
+        "Medium chest-up: a slow push is already gliding in as she shifts her weight with an "
+        "easy six-degree turn and opens her right hand in a soft gesture; gaze warm to lens.",
+        "She delivers \u201cSome nights, you just bloom.\u201d to lens with a soft radiant "
+        "smile and natural lip-sync, eyes warm and serene.",
+        "She holds the serene look as the bloomed petals breathe soft, the smile easing into "
+        "calm radiance.",
+    ),
+    (
+        "Medium-wide thigh-up matching Frame 1: the orbit is already easing to rest as a "
+        "slow push resolves toward the opening framing and she returns the flacon to cradle "
+        "at waist height, settling her weight onto the back leg exactly as in Frame 1.",
+        "The push settles as she eases her serene gaze back to lens on a slow breath with "
+        "the composed half-smile, the open blooms resolving toward the closed-bud opening.",
+        "She lands precisely on the Frame 1 pose and gaze, weight settled in the moonlight "
+        "\u2014 a seamless loop seam.",
+    ),
+]
+
+BEATS[7] = [
+    (
+        "Medium-wide thigh-up on the open city rooftop at golden hour: a slow push-in is "
+        "already gliding toward her as she cradles the amber flacon at waist height and "
+        "settles her weight onto the back leg, turning her face a touch into the low sun; "
+        "long soft shadows and a hazy amber sky around her.",
+        "The push continues as a wisp drifts in the rooftop breeze, her serene gaze "
+        "beginning to ease toward lens; a warm dreamy calm in her eyes.",
+        "She eases her serene gaze to lens on a slow inhale, the half-smile settling, eyes "
+        "warm in the low gold light.",
+    ),
+    (
+        "Medium close, chest-up: the slow push continues with a faint tilt-up already "
+        "following her hand as she raises the flacon near her collarbone and rests her index "
+        "finger at the atomizer; gaze toward the flacon.",
+        "The tilt rides the flacon as her gaze softens toward it and a dreamy micro-smile "
+        "kindles, she drawing a slow breath.",
+        "She holds the flacon poised at her collarbone, eyes soft and dreamy, warm sun-flare "
+        "behind.",
+    ),
+    (
+        "Medium chest-up: a slow push is already gliding in as she presses the atomizer and "
+        "a fine fragrance-mist releases; gaze beginning to lift.",
+        "The push holds as her gaze lifts to lens with rising warmth and a tender micro-smile "
+        "forms, the first gold-dust motes catching the sun.",
+        "The gold-dust motes catch and a warm gold light creeps in, cueing the wrap, her "
+        "gaze warm with wonder.",
+    ),
+    (
+        "Energized medium: the push is already easing into a smooth gentle orbit as the "
+        "gold-dust spiral rolls out and the nearest sunbeams turn to gold; gaze lifting into "
+        "the wrap.",
+        "The orbit rides the hero beat as the wrap spirals the gold dust around her along "
+        "its front, fine motes streaming and the chignon catching travelling light (face "
+        "clear, warmly lit, identity locked); eyes widening in radiant warmth.",
+        "The wrap settles toward the full gold-dust wrap as the orbit eases; a soft radiant "
+        "calm landing, eyes luminous.",
+    ),
+    (
+        "Medium close, chest-up: the orbit is already easing back to a slow push as the wrap "
+        "settles and she lowers the flacon to rest at her waist with an easy roll of the "
+        "shoulder; gaze easing to lens.",
+        "The push settles as a soft radiant smile eases to lens on a slow breath, the last "
+        "gold motes settling in the warm air.",
+        "She holds the serene radiant look, the gilded air breathing soft around her, eyes "
+        "warm and direct.",
+    ),
+    (
+        "Medium chest-up: a slow push is already gliding in as she shifts her weight with an "
+        "easy six-degree turn and opens her right hand in a soft gesture; gaze warm to lens.",
+        "She delivers \u201cSome moments just stay golden.\u201d to lens with a soft radiant "
+        "smile and natural lip-sync, eyes warm and serene.",
+        "She holds the serene look as the gilded air breathes soft, the smile easing into "
+        "calm warmth.",
+    ),
+    (
+        "Medium-wide thigh-up matching Frame 1: the orbit is already easing to rest as a "
+        "slow push resolves toward the opening framing and she returns the flacon to cradle "
+        "at waist height, settling her weight onto the back leg exactly as in Frame 1.",
+        "The push settles as she eases her serene gaze back to lens on a slow breath with "
+        "the composed half-smile, the gilded air resolving toward the clear golden-hour "
+        "opening.",
+        "She lands precisely on the Frame 1 pose and gaze, weight settled in the low sun "
+        "\u2014 a seamless loop seam.",
+    ),
+]
+
+
 def build_block(beats):
     return (
         BREAKDOWN_HEADER + "\n"
