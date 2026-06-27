@@ -334,3 +334,34 @@ vibrancy was preserved and is to be kept balanced per the above.
   discipline (section I). Converting its `SUBJECT + OBJECT ACTION (timecoded)` into a bare
   `SHOT BREAKDOWN` would STRIP the PHYSICS and EXPRESSION-TRANSITION detail — do not do it.
   Treat this file as a reference implementation of the standard.
+
+
+- CONCEPTS/20 Magical Action Reels Set 2 Expression.txt (20 concepts, 151 video prompts) —
+  ALREADY-COMPLIANT, NO REBUILD (same Sys-Directive-3 base as the Heavy-Detail action file).
+  Verified uniform 151/151: SUBJECT + OBJECT ACTION (timecoded), EXPRESSION TRANSITION,
+  CAMERA MOVEMENT: one move only, DURATION 6.0s, fixed-skeleton identity lock, SUBJECT
+  FRAMING & POSITION + ORIENTATION LOCK on images. Do not template.
+
+====================================================================
+## J. FILE-FORMAT AUDIT (which files still need the rebuild) — quick map
+====================================================================
+DONE (SHOT BREAKDOWN, rebuilt): Beauty Ad (129), Cinematic New Set (123), Set 4 51-70 (122),
+  Set 5 71-79 (51), Set 5 (cont) 79-80 (14), (cont 2) 81-82 (13), (cont 3) 83 (8),
+  (cont 4) 84 (7).
+ALREADY-ADVANCED (SUBJECT + OBJECT timecoded — leave as-is, do NOT template): Magical Action
+  Heavy-Detail (151), Magical Action Set 2 Expression (151).
+STILL NEEDS REBUILD (uses `SUBJECT ACTION WITH TIMING` markdown — apply section B):
+  - 20 More Full Reel Concepts Set 3.txt (128)
+  - Heavy-Detail/20 Reel Concepts Master-Depth Build.txt (140)
+  - Heavy-Detail/Concept 100 · The Unboxing.txt (note SA=6 vs VP=4 — inspect; possible
+    image-side SUBJECT ACTION or extra blocks)
+  - Heavy-Detail/Concept 170 · Phoenix Crash.txt (8)
+  - Heavy-Detail/Concepts 91-110 · FULL Heavy-Detail.txt (26)
+  - Heavy-Detail/NEW Reel Concepts (131-150).txt (134)
+  - Heavy-Detail/Time-Freeze Reel Set.txt (SA=136 vs VP=80 — inspect; remember the 8 "oner"
+    cumulative-timing frames are intentionally LEFT per section E/G).
+NEEDS REBUILD, NON-STANDARD FORMAT (verify per file before running an engine):
+  - Magical Action Reels · Master Set.txt (129 VP; "## CONCEPT" + MASTER TRACK BRIEF; no
+    SA/SB/SO marker — confirm its action/timing layout first).
+  - aira_set4.txt (117 VP) and aira_set5.txt (123 VP) — Format B plain text
+    ("---- FRAME k · SIZE · ANGLE ----"); audio woven inline; need advanced breakdown + variety.
