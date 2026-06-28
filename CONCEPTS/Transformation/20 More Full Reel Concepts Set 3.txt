@@ -6414,7 +6414,7 @@ Hair: AP — a sleek center-parted low celestial chignon with a fine silver cres
 
 Makeup: AQ — lunar mystic: a cool silver-pearl shimmer lid, luminous cool skin, a soft mauve-cool blush, a soft pearl-mauve lip, a silver highlight on the high points, defined lashes, soft silver inner-corner, soft-set brows, real pores
 
-Movement: macro glow-balm glide → eclipse-shadow light sweep transform (the one impossible move) — a soft lunar-eclipse shadow sweeps across the scene then a silver corona of moonlight sweeps back, washing serene silver-blue light around her while her single face stays clear, lit and locked (never shadow-swallowed or replaced)
+Movement: eclipse-shadow light sweep transform (the one impossible move) — a soft lunar-eclipse shadow sweeps across the scene then a silver corona of moonlight sweeps back, washing serene silver-blue light around her while her single face stays clear, lit and locked (never shadow-swallowed or replaced), CONTAINED mid-clip inside Frame 4 at a HELD angle (begins mid-clip, sweeps smoothly, never an instant snap; believable real eclipse and moonlight physics — true penumbra shadow sweep and corona-ring light wash, no cheap sparkles). Veo first/last-frame continuity (Frame 4 image = lunar-mystic Look A with the orb only deepening = first frame, Frame 5 image = full silver-corona-washed Look B = last frame); every frame join is a hard match-cut to a new angle. (Beauty-still — contained product-at-face pose held per M.6.)
 
 Concept Line: "glow like the moon"
 
@@ -6480,9 +6480,9 @@ SHOT TYPE: medium close, chest-up, subject fills about 55% of the vertical frame
 LENS: 50mm, f/2.0, smooth midnight-blue background fall-off.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Medium close chest-up in the celestial night chamber: a slow push-in is already gliding toward her as she tilts the frosted bottle a few degrees into the key, silver speculars sliding along the crescent cap and the balm settling; gaze lowered to the bottle, the eclipse orb pulsing soft behind her.
-- [00:02–00:04] The push continues as she lifts her calm gaze to lens on a soft inhale and a serene quarter-smile blooms, cool silver-blue moonlight on her.
-- [00:04–00:06] She holds, serene and mystic, her single lit face clear and locked, eyes calm, the eclipse orb glowing soft behind (silent).
+- [00:00–00:02] Cut to a medium-close chest-up in the celestial night chamber: she is already cradling the midnight-blue frosted Eclipse bottle at her collarbone as a slow push eases in, the deep midnight-blue void and a glowing lunar-eclipse orb with a soft corona behind her, scattered silver star-glints; her left hand easy near her jaw.
+- [00:02–00:04] The push settles as a face-framing strand catches the cool moonlight and her calm gaze eases to lens, a silver star-glint drifting, a serene knowing quarter-smile settling.
+- [00:04–00:06] She holds the lunar-mystic look in the midnight-blue velvet top, the silver star-threads catching moonlit glints, eyes calm and luminous (silent reel).
 
 AUDIO: diegetic only, no in-clip music, no voice. Ambient bed — a deep cosmic room tone and a faint cool air-hum throughout. SFX — a soft glass-tap as her fingers settle on the bottle at 0.6s (gentle attack, short tail), a faint velvet fabric shift at 2.4s, a soft moonlight shimmer-chime at 3.9s timed to the gaze-lift. Reaction — a soft calm breath at 3.0s. The master track sits low — a soft celestial pad and glassy bell just kindling under the room tone (present, never full). VO — none (concept is fully silent).
 
@@ -6521,7 +6521,7 @@ SUBJECT FRAMING & POSITION: A medium close framing holds Aira from the chest up 
 
 LENS + DOF + BOKEH: 50mm, f/2.0; focus split between her near eye and the glowing cheekbone so both read crisp; the background melting to a deep creamy midnight-blue with scattered star-bokeh; soft silver blooms off the dimming orb; gentle roll-off, no clipping.
 
-COMPOSITION REFERENCE: the cool serene build beat — a glow-balm glide and the first eclipse dimming, the sweep clearly imminent (BA.3 cause building to effect).
+COMPOSITION REFERENCE: a macro glow-balm glide build beat — cool and serene and poised, the eclipse-shadow light sweep held for the Frame-4 clip.
 
 ATMOSPHERE: serene, mystic, charged — the luminous instant before the eclipse-shadow sweeps and the moonlight washes around her.
 
@@ -6540,9 +6540,9 @@ SHOT TYPE: medium close, chest-up, subject and raised applicator fill about 58% 
 LENS: 50mm, f/2.0.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Medium close: the slow push continues with a faint tilt-up already following her hand as she raises the glow-balm applicator near her cheekbone and glides a cool silver-blue balm along the high point, a silver glint travelling; gaze calm.
-- [00:02–00:04] The eclipse orb dims a touch at one edge, her eyes calming with serene focus (her single face stays lit and locked).
-- [00:04–00:06] The balm settles to a silver sheen, the corona brightening, lashes lowering in serene calm.
+- [00:00–00:02] Cut to a medium-close three-quarter, a rack-focus pulling from the bottle to her eye: she is already gliding the lunar glow-balm soft along her cheekbone and the lunar-eclipse orb begins to deepen and a first silver corona-light sweeps in around her; gaze cast soft to the bottle.
+- [00:02–00:04] The pearl balm catches a cool silver-blue sheen on her cheekbone as her gaze softens with serene wonder and a knowing micro-smile kindles, the moonlight gathering in.
+- [00:04–00:06] She holds the balm poised near her cheek, eyes calm and serene, the lunar-mystic look intact (silent here).
 
 AUDIO: diegetic only, no voice. Ambient — deep cosmic room tone and a faint cool air-hum throughout. SFX — a soft balm-glide whisper at 0.9s, a faint applicator tick at 2.1s, a soft eclipse-dim low-swell at 4.5s (gentle attack, soft tail). Reaction — a soft focused breath at 3.0s. The master track lifts a touch — a celestial pad and deep sub-drone rising under the SFX (present, never full). VO — none (fully silent).
 
@@ -6556,7 +6556,7 @@ NEGATIVE: identity drift, face or hand warp, extra or fused fingers, duplicate p
 
 ## Frame 3 of 6 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the locked START keyframe of the eclipse-shadow light sweep transform — face fully recognizable, SINGLE and clearly lit, still the lunar-mystic look, the eclipse orb now dimming toward totality and a soft lunar shadow beginning to gather and arc at the frame edge before it sweeps. The shadow gathers in the air around her; her one face, one head and one body stay lit, never shadow-swallowed, traced over, duplicated or replaced. Lock this START so Frame 4's sweep interpolates cleanly to the silver-moonlit END (Frame 5).
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. SHOT NOTE: a clean lunar-mystic (Look A) beat at its OWN cut/angle — the lunar-mystic look fully intact and her face SINGLE and clearly lit, the eclipse orb just beginning to dim toward totality and a soft lunar shadow starting to gather and arc at the frame edge before it sweeps; the full eclipse-shadow sweep does NOT happen here (it happens mid-clip inside Frame 4). The shadow gathers in the air around her; her one face, one head and one body stay lit, never shadow-swallowed, duplicated or replaced. Build serene mystic anticipation only.
 
 WARDROBE: the midnight-blue velvet mock-neck long-sleeve top with silver star-thread embroidery, continuity-locked, the silver threads beginning to catch the gathering corona-light, the modest neckline pristine, fully modest, zero snags.
 
@@ -6581,7 +6581,7 @@ SUBJECT FRAMING & POSITION: A medium framing holds Aira from the chest up with a
 
 LENS + DOF + BOKEH: 50mm, f/2.0; focus split between her near eye and the nearest corona-edge so both read crisp; the background melting to a deep creamy midnight-blue with scattered star-bokeh; soft silver blooms off the corona; gentle roll-off, no clipping.
 
-COMPOSITION REFERENCE: the cool suspended build beat — the eclipse dims and the shadow gathers, the sweep clearly imminent (BA.3 cause building to effect).
+COMPOSITION REFERENCE: a poised cool beat, the eclipse dimming and the shadow gathering — serene and mystic, the eclipse-shadow light sweep held for the Frame-4 clip.
 
 ATMOSPHERE: serene, mystic, charged — the luminous instant before the eclipse-shadow sweeps and the moonlight washes full around her.
 
@@ -6600,9 +6600,9 @@ SHOT TYPE: medium, chest-up, subject and gathering shadow-and-corona fill about 
 LENS: 50mm, f/2.0, smooth midnight-blue background fall-off.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Medium chest-up: a slow arc is already drifting around her as the eclipse orb dims toward totality and a soft lunar shadow gathers and arcs at the frame edge; gaze following the brightening corona.
-- [00:02–00:04] The arc eases round as the corona brightens around the dark moon, her eyes calming with serene wonder.
-- [00:04–00:06] The gather tightens and the corona glows brighter, cueing the sweep, her gaze lifting a degree.
+- [00:00–00:02] Cut to a medium chest-up on a fresh three-quarter angle: she eases the bottle down and opens her hand soft as the eclipse-shadow begins to sweep across the void, drawing a slow cool breath as the camera arcs a few degrees and the celestial void drifts behind with parallax; gaze lifting.
+- [00:02–00:04] The arc settles as her gaze lifts to lens with rising serene wonder and a knowing micro-smile forms, a soft lunar-eclipse shadow beginning to sweep across the scene with the silver corona just kindling, her single face clear and lit (never shadow-swallowed), still the lunar-mystic look.
+- [00:04–00:06] She holds the poised serene beat, the eclipse beginning to sweep, eyes calm and bright — the hush before the eclipse-shadow sweep (silent here).
 
 AUDIO: diegetic only, no voice. Ambient — deep cosmic room tone and a faint cool air-hum throughout. SFX — the soft settle of the lowering applicator at 0.8s, a low eclipse-gather sub-swell at 2.4s, a soft corona shimmer-chime at 4.5s as the ring brightens (gentle attack, soft tail). Reaction — a soft awed breath at 2.1s. The master track sits low — a celestial pad and deep sub-drone under the SFX (present, never full).
 
@@ -6616,38 +6616,38 @@ NEGATIVE: identity drift, face or hand warp, extra or fused fingers, duplicate p
 
 ## Frame 4 of 6 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the one impossible move — the eclipse-shadow light sweep. LOCK the START (Frame 3, single lit face clear, lunar-mystic, shadow gathering) and the END (Frame 5 open, silver-moonlit radiant after-look). Mid-sweep a soft lunar-eclipse shadow sweeps across the scene and a silver corona of moonlight sweeps back behind it, washing serene silver-blue light in slow arcs around her; her one face, one head and one body stay clear, lit, single and recognizable, softly framed (never shadow-swallowed, never buried) by the sweeping light; interpolate strictly between the locked keyframes — do NOT invent a new face, do NOT duplicate her face, do NOT invent new hands or new bone structure beneath the eclipse-shadow. Serene and mystic, real eclipse-light physics, mesmerizing not chaotic.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the START frame of the transform CLIP — render her fully in the lunar-mystic Look A (the exact still the Frame-4 video opens on, and Veo's FIRST frame): the midnight-blue velvet top in the celestial night chamber, her single face clear and clearly LIT, only the eclipse orb deepening toward totality with a soft lunar shadow just gathering at the frame edge (NO full sweep yet). The eclipse-shadow light sweep happens MID-CLIP at this same HELD angle (the camera may push or travel with her but never rotates its angle; a soft lunar-eclipse shadow sweeps across the scene then a silver corona of moonlight sweeps back by believable real eclipse and moonlight physics — true penumbra shadow sweep and corona-ring light wash, no cheap sparkles; the sweep washes the air around her, her face stays lit), resolving into Frame 5's full silver-corona-washed after-look image (Veo's LAST frame). Her one face, one head, one body, hair and proportions stay constant and lit. Do NOT depict the full sweep in this still, do NOT shadow-swallow or duplicate her face, and do NOT invent a new face, new hands or new bone structure.
 
-WARDROBE (refined): the midnight-blue velvet top catching the sweep at its luminous peak as the corona washes — the silver threads flaring with travelling moonlit glints, fully modest, never revealing.
+WARDROBE: the midnight-blue velvet mock-neck long-sleeve top with fine silver star-thread embroidery, full modest coverage, the velvet catching one soft moonlit sheen band, fully modest, fully intact (the full sweep not yet swept).
 
-HAIR: the low chignon catching a sweeping arc of corona-light mid-motion, the crescent pin glinting, strands lit silver-clean; color locked beneath the gloss.
+HAIR: a sleek center-parted low celestial chignon, glossy and smooth, a fine silver crescent hair-pin catching one cool glint; color locked to reference.
 
-MAKEUP: mid-sweep — the lunar mystic look flushing to its luminous peak, the silver-pearl lid kindling brighter, the soft pearl-mauve lip enriching, the silver highlight glinting on the high points; real pores beneath.
+MAKEUP: the lunar-mystic Look-A base — a cool silver-pearl shimmer lid, luminous cool skin, a soft mauve-cool blush, a soft pearl-mauve lip, a silver highlight on the high points, defined lashes; skin luminous and real with visible pores and fine vellus texture.
 
-HANDS & NAILS: both arms drifting open through the moonlight-field, palms turning up as the eclipse-shadow and silver corona sweep in slow serene arcs; natural nail-bed color, neat cuticles, no white-knuckle tension.
+HANDS & NAILS: both arms beginning to open soft from her body, palms easing up as the shadow gathers, the right near the cradled frosted bottle; natural nail-bed color, neat cuticles, no white-knuckle tension.
 
-FACIAL MICRO-DYNAMICS: eyes calm with serene mystic wonder, a gentle parted-lip composure, a clean steady lift — her single lit face clear and moonlight-framed by the sweeping light, identity strictly held to reference.
+FACIAL MICRO-DYNAMICS: her single lit face calm with serene mystic anticipation, a gentle parted-lip composure, a clean steady calm — composed, single and fully recognizable, identity-locked, ready for the eclipse-shadow light sweep mid-clip.
 
-BODY POSTURE & WEIGHT: mid-sweep the spine lengthens and the shoulders open serene and assured, weight rolling smooth between the feet — grounded real physics, modest throughout.
+BODY POSTURE & WEIGHT: front-facing with the torso rotated about 4°, the spine long and the shoulders open serene, weight settled with a soft hip counter-tilt — grounded real physics, the serene centre before the sweep, modest throughout.
 
-KINETIC STILLNESS (8 layers): (1) the eclipse-shadow and silver corona sweeping in slow serene arcs around her at peak; (2) the corona ring flaring silver-blue as the dark moon centers; (3) the chignon and velvet catching travelling moonlight mid-sweep; (4) tiny silver motes glinting through the field; (5) the velvet flaring with a silver-thread glint; (6) cool speculars multiplying across the sweeping light; (7) the eclipse orb glowing a touch brighter at totality's corona; (8) her chest mid a soft serene breath.
+KINETIC STILLNESS (8 layers): (1) the eclipse orb deepening toward totality behind her; (2) a soft lunar shadow just gathering and arcing at the frame edge; (3) a face-framing strand catching the cool moonlight; (4) the deep midnight-blue void and scattered silver star-glints behind her; (5) the velvet breathing soft in the cool air; (6) a cool glint sliding on the frosted bottle and the silver crescent pin; (7) the moonlit sheen band shifting a millimetre along the top as her ribcage expands; (8) a slow eyelash settle completing a serene blink.
 
-SPATIAL LOGIC: FOREGROUND — a sweeping corona-arc nearest lens, soft. MIDGROUND — Aira mid-sweep, her single lit face the clear hero, the light sweeping around her. BACKGROUND — the deep midnight void with sweeping moonlight and cool falloff.
+SPATIAL LOGIC: FOREGROUND — a gathering shadow-arc and the cradled bottle nearest lens, soft. MIDGROUND — Aira's single lit face the clear hero in the lunar-mystic look. BACKGROUND — the deep midnight-blue void with the glowing lunar-eclipse orb, soft corona and silver star-glints, present behind.
 
-LIGHTING: KEY — soft cool key now brighter through the sweep, always holding her face lit. FILL — low cool bounce below (clamshell). RIM — a bright silver-blue rim raking the sweeping corona and the crown (hero light on the motion). PRACTICAL — eclipse orb and star-glints at full corona. SEPARATION — the sweep and faint cool haze. BOUNCE — cool kicks multiplying across the sweeping light.
+LIGHTING: KEY — a soft cool key feathered above-front, always holding her face lit. FILL — low cool bounce below (clamshell). RIM — a silver-blue rim skimming the crown and shoulder to separate her from the void. PRACTICAL — the eclipse orb, star-glints and the bottle. SEPARATION — the void dark deep so she reads about 2 stops up. BOUNCE — a cool kick off the frosted bottle.
 
-FRAMING: ASPECT 9:16; energized medium-wide, Aira centered with the moonlight-sweep filling the frame around her single lit face, 10% headroom, slight push for intimacy.
-SUBJECT FRAMING & POSITION: A energized medium-wide framing opens around Aira with about 10% headroom as the moonlight-sweep fills the lower frame, a slight push easing in for intimacy. Her spine lengthens and her shoulders open as the weight rolls smooth between the feet in grounded real-physics motion. The camera eases wider against the deep midnight-blue void with the glowing eclipse orb, Aira the centred hero at the heart of the bloom. She is centred with the moonlight-sweep radiating around her. She faces front to the lens, lifted at the peak of the transform. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+FRAMING: ASPECT 9:16; energized medium-wide, Aira centered in the celestial night chamber, 10% headroom — its own distinct cut/angle.
+SUBJECT FRAMING & POSITION: An energized medium-wide framing opens around Aira at about 10% headroom in the celestial night chamber, the lunar-mystic Look A fully intact and her face single and lit as the transform clip begins. Her torso is turned about four degrees with the weight settled over a soft hip counter-tilt, arms beginning to open soft. The camera holds a mid distance on its own fresh angle, a hard cut from Frame 3, with Aira the centred single hero and the deep midnight-blue void with the glowing eclipse orb present behind, facing front to the lens. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
-LENS + DOF + BOKEH: 50mm, f/2.0; her single lit face and the nearest corona tack sharp at the sweep-core, the closest arc melting into a soft cool bokeh with silver specular glints.
+LENS + DOF + BOKEH: 50mm, f/2.0; her single lit face and the cradled bottle tack sharp, the gathering shadow-arc and eclipse orb melting into a soft cool bokeh with silver specular glints; gentle highlight roll-off, no clipping.
 
-COMPOSITION REFERENCE: the signature impossible beat — an eclipse-shadow light sweep, serene and mystic, heightened but identity-locked, her face never shadow-swallowed (AT.5 transform logic / identity-through-transform).
+COMPOSITION REFERENCE: the start of the signature beat — lunar-mystic Look A with a single lit face, serene and mystic, the eclipse-shadow light sweep held for the video's mid-clip.
 
-ATMOSPHERE: serene, awe-filled, luminous — the moment the eclipse-shadow and silver corona sweep full around her single lit face in slow serene arcs.
+ATMOSPHERE: serene, charged, luminous — the mystic instant the transform clip begins.
 
 COLOR GRADE: cool lunar mystic — deep rich uncrushed cool blacks, silver-blue moonlight, soft indigo, pearl speculars, full mid-tone, a serene cool contrast (no garish oversaturation, cool lunar-mystic lane).
 
-TEXTURE & MICRO-DETAIL: the sweeping corona reads as a real ring of moonlight with soft motion blur, the eclipse-shadow reads as a real soft lunar penumbra, the velvet shows a real pile catching silver-thread glints, skin reads real with pores beneath the glow.
+TEXTURE & MICRO-DETAIL: the velvet shows a real pile catching silver-thread glints, the eclipse orb reads as a real glowing moon with a soft corona, the frosted bottle reads as real frosted glass, skin reads real with pores beneath the glow.
 
 NEGATIVE: mirrored, flipped, inverted, extra limbs, fused fingers, melted features, asymmetric eyes (unintentional), garbled text, floating shadows, duplicated subjects, low-res patches, plastic skin, over-smoothed skin, oversharpened, AI-generated artifacts, watermarks, signature, deformed hands, malformed teeth, joint cuts at ankle/knee/wrist/elbow/neck, amputated fingertips, cross-eyed, lazy eye, off-axis pupils, melted clothing, mismatched footwear, mannequin-stiff posture, dead eyes, statue-frozen energy, garbled label text, crushed muddy blacks, garish oversaturation, flat dull light, inventing a new face beneath the eclipse-shadow.
 
@@ -6660,9 +6660,9 @@ SHOT TYPE: energized medium-wide of the eclipse-shadow light sweep (the hero mov
 LENS: 50mm, f/2.0.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Energized medium-wide: the push is already easing into a smooth gentle orbit as the eclipse-shadow sweeps across and a silver corona sweeps back and she opens her arms; gaze lifting into the moonlight.
-- [00:02–00:04] The orbit rides the hero beat as the moonlight washes serene around her and the chignon and velvet catch travelling silver light (her single lit face clear and moonlight-framed, never shadow-swallowed); eyes calming in serene awe.
-- [00:04–00:06] The sweep settles and the moonlight resolves as the orbit eases; a serene radiant look landing, her single lit face clear, eyes calm.
+- [00:00–00:02] Cut to an ethereal medium at a HELD angle (Veo first frame = the lunar-mystic Look A still): she holds her lunar look, already in motion — only the orb deepening, NO full sweep yet, a gentle push-with easing in, the angle fixed for the whole clip.
+- [00:02–00:04] The eclipse-shadow light sweep BEGINS here, mid-clip: a soft lunar-eclipse shadow sweeps across the scene then a silver corona of moonlight sweeps back, washing serene silver-blue light around her in one continuous travelling wash, the penumbra darkening the void then the corona-ring lighting it silver exactly where it sweeps — believable real eclipse and moonlight physics (true penumbra shadow sweep and corona-ring light wash, no cheap sparkles), her single face staying clear and LIT (NEVER shadow-swallowed, replaced or duplicated), eyes calm with serene wonder (angle held, identity locked).
+- [00:04–00:06] The sweep completes and the look settles smoothly and fully into the full silver-corona-washed after-look of the Veo last-frame still (Frame 5's image) — serene silver-blue moonlight washed around her single lit face under the corona-ringed eclipse, resolved and held through the final beat, no last-second pop; a serene cool calm landing in her eyes.
 
 AUDIO: diegetic-led, no voice. Ambient — deep cosmic room tone and a faint cool air-hum. SFX — a low eclipse-sweep whoosh 0.4–2.4s, fine glassy corona-chimes 2.4–4.5s (gentle attacks, soft tails), a soft velvet-flare at 3.0s. Reaction — a soft serene breath at 2.4s. The master track lifts to its serene peak here — a swelling celestial pad-and-bell crest landed on the sweep (present, still under the SFX, never full, fully instrumental). VO — none (fully silent).
 
@@ -6678,7 +6678,7 @@ NEGATIVE: identity drift, face or hand warp, extra or fused fingers, duplicate p
 
 IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
 
-TRANSFORM KEYFRAME NOTE: this is the locked END keyframe of the eclipse-shadow light sweep transform; it must resolve continuously out of the START keyframe in Frame 3 — same single lit face, same hands, same camera distance, the moonlight now settled into a serene silver-blue halo with the eclipse corona glowing soft around her. Only the air around her was swept; her one face was never shadow-swallowed, traced over, duplicated or replaced. Do NOT invent a new face, duplicate her face or invent new hands beneath the eclipse-shadow; this is the same single Aira, serene and luminous. Frame 3 (START) and Frame 5 (END) are the two anchors of the single transform.
+TRANSFORM KEYFRAME NOTE: this is the full silver-corona-washed Look B reveal at its OWN cut/angle (a hard cut from the Frame-4 eclipse-shadow light sweep clip — a new angle/crop, and the Veo last-frame the sweep resolves into). It carries the resolved silver-moonlit after-look the Frame-4 clip ends on — only the air around her was swept into a serene silver-blue corona-wash; her single lit face was never shadow-swallowed, duplicated or replaced. Same single Aira, serene and luminous — do NOT invent a new face, shadow-swallow or duplicate her face, or invent new hands or new bone structure.
 
 WARDROBE: the midnight-blue velvet mock-neck long-sleeve top at its most luminous, the silver star-thread embroidery catching one travelling moonlit sheen band, the modest neckline pristine, fully modest, zero snags.
 
@@ -6722,9 +6722,9 @@ SHOT TYPE: medium close, chest-up, subject fills about 56% of the vertical frame
 LENS: 50mm, f/2.0, smooth midnight-blue background fall-off.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Medium close: a slow push is already gliding in as she eases her hands open and the sweep resolves into a serene silver-blue halo around her; gaze calm to lens.
-- [00:02–00:04] She holds a calm knowing look to lens, lips softly closed (silent — no words), eyes serene and direct, her single lit face clear and locked.
-- [00:04–00:06] She holds the radiant moonlight-framed look as the last glints drift slow, the expression easing into serene calm.
+- [00:00–00:02] Cut to a medium close on a new angle in the silver moonlight: she is already in the full silver-corona-washed look, drifting her right hand soft back toward the Eclipse bottle at her collarbone with an easy roll of the shoulder, her single face clear and lit; gaze easing to lens.
+- [00:02–00:04] A serene knowing wordless smile eases to lens on a slow cool breath, the silver corona glowing soft around her, eyes calm and luminous (silent reveal — no words).
+- [00:04–00:06] She holds the serene moonlit look, her single face lit and clear, eyes calm and direct (silent here).
 
 AUDIO: diegetic only — NO voiceover (this concept is fully silent). Ambient — deep cosmic room tone and a faint cool air-hum throughout. SFX — a soft moonlight shimmer-chime at 0.9s, a faint velvet shift at 1.8s, a soft settling corona-hum easing across 3.0–6.0s (gentle attacks, soft tails). The master track holds a serene celestial pad low and unintrusive.
 
@@ -6784,9 +6784,9 @@ SHOT TYPE: medium close, chest-up, subject fills about 55% of the vertical frame
 LENS: 50mm, f/2.0, smooth midnight-blue background fall-off.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Medium close matching Frame 1: a slow push is already resolving toward the exact opening framing as she re-cradles the frosted bottle and tilts it into the key, silver speculars sliding along the crescent cap; gaze lowering to the bottle.
-- [00:02–00:04] The push settles as she eases her calm gaze back to lens on a soft breath with the serene quarter-smile, the night chamber resolving to the opening; eyes calming.
-- [00:04–00:06] She lands precisely on the Frame 1 pose and gaze, the eclipse orb pulsing soft — a seamless loop seam (silent).
+- [00:00–00:02] Cut to a medium-close chest-up matched to Frame 1: she returns her right hand to cradle the midnight-blue frosted Eclipse bottle soft at her collarbone and her left easy near her jaw exactly as in Frame 1 as the camera settles to the opening framing.
+- [00:02–00:04] She eases her calm gaze back to lens on a slow cool breath with the composed serene quarter-smile, the silver-corona wash resolving back toward the opening lunar-mystic look to seed the loop.
+- [00:04–00:06] She lands precisely on the Frame 1 pose and gaze, serene in the celestial night — a seamless loop seam.
 
 AUDIO: diegetic only, no voice. Ambient — deep cosmic room tone and a faint cool air-hum throughout. SFX — a soft glass-tap at 0.6s as her fingers settle on the bottle (gentle attack, short tail), a faint velvet shift at 2.4s, a soft moonlight shimmer-chime at 3.6s timed to the gaze-lift. The master track resolves softly here so it can loop clean.
 

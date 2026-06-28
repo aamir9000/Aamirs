@@ -2964,6 +2964,86 @@ BEATSLM[45] = [
 ]
 
 
+BEATSLM[46] = [
+    # F1 - lunar-mystic hero (contained, product-at-face, SILENT), push-in
+    (
+        "Cut to a medium-close chest-up in the celestial night chamber: she is already cradling "
+        "the midnight-blue frosted Eclipse bottle at her collarbone as a slow push eases in, the "
+        "deep midnight-blue void and a glowing lunar-eclipse orb with a soft corona behind her, "
+        "scattered silver star-glints; her left hand easy near her jaw.",
+        "The push settles as a face-framing strand catches the cool moonlight and her calm gaze "
+        "eases to lens, a silver star-glint drifting, a serene knowing quarter-smile settling.",
+        "She holds the lunar-mystic look in the midnight-blue velvet top, the silver star-threads "
+        "catching moonlit glints, eyes calm and luminous (silent reel).",
+    ),
+    # F2 - build, glow-balm glide, first moonlight; rack-focus product->eye
+    (
+        "Cut to a medium-close three-quarter, a rack-focus pulling from the bottle to her eye: "
+        "she is already gliding the lunar glow-balm soft along her cheekbone and the "
+        "lunar-eclipse orb begins to deepen and a first silver corona-light sweeps in around "
+        "her; gaze cast soft to the bottle.",
+        "The pearl balm catches a cool silver-blue sheen on her cheekbone as her gaze softens "
+        "with serene wonder and a knowing micro-smile kindles, the moonlight gathering in.",
+        "She holds the balm poised near her cheek, eyes calm and serene, the lunar-mystic look "
+        "intact (silent here).",
+    ),
+    # F3 - START clean (eclipse beginning, NO full sweep yet), slow arc
+    (
+        "Cut to a medium chest-up on a fresh three-quarter angle: she eases the bottle down and "
+        "opens her hand soft as the eclipse-shadow begins to sweep across the void, drawing a "
+        "slow cool breath as the camera arcs a few degrees and the celestial void drifts behind "
+        "with parallax; gaze lifting.",
+        "The arc settles as her gaze lifts to lens with rising serene wonder and a knowing "
+        "micro-smile forms, a soft lunar-eclipse shadow beginning to sweep across the scene with "
+        "the silver corona just kindling, her single face clear and lit (never shadow-swallowed), "
+        "still the lunar-mystic look.",
+        "She holds the poised serene beat, the eclipse beginning to sweep, eyes calm and bright "
+        "\u2014 the hush before the eclipse-shadow sweep (silent here).",
+    ),
+    # F4 - THE TRANSFORM, HELD ANGLE, smooth mid-clip eclipse/moonlight sweep (NOT her face); first=lunar-mystic, last=silver-corona-washed
+    (
+        "Cut to an ethereal medium at a HELD angle (Veo first frame = the lunar-mystic Look A "
+        "still): she holds her lunar look, already in motion \u2014 only the orb deepening, NO "
+        "full sweep yet, a gentle push-with easing in, the angle fixed for the whole clip.",
+        "The eclipse-shadow light sweep BEGINS here, mid-clip: a soft lunar-eclipse shadow "
+        "sweeps across the scene then a silver corona of moonlight sweeps back, washing serene "
+        "silver-blue light around her in one continuous travelling wash, the penumbra darkening "
+        "the void then the corona-ring lighting it silver exactly where it sweeps \u2014 "
+        "believable real eclipse and moonlight physics (true penumbra shadow sweep and "
+        "corona-ring light wash, no cheap sparkles), her single face staying clear and LIT "
+        "(NEVER shadow-swallowed, replaced or duplicated), eyes calm with serene wonder (angle "
+        "held, identity locked).",
+        "The sweep completes and the look settles smoothly and fully into the full "
+        "silver-corona-washed after-look of the Veo last-frame still (Frame 5's image) \u2014 "
+        "serene silver-blue moonlight washed around her single lit face under the corona-ringed "
+        "eclipse, resolved and held through the final beat, no last-second pop; a serene cool "
+        "calm landing in her eyes.",
+    ),
+    # F5 - END silver-corona-washed reveal (silent, wordless), new angle, hand to bottle
+    (
+        "Cut to a medium close on a new angle in the silver moonlight: she is already in the "
+        "full silver-corona-washed look, drifting her right hand soft back toward the Eclipse "
+        "bottle at her collarbone with an easy roll of the shoulder, her single face clear and "
+        "lit; gaze easing to lens.",
+        "A serene knowing wordless smile eases to lens on a slow cool breath, the silver corona "
+        "glowing soft around her, eyes calm and luminous (silent reveal \u2014 no words).",
+        "She holds the serene moonlit look, her single face lit and clear, eyes calm and direct "
+        "(silent here).",
+    ),
+    # F6 - loop close, cradle bottle matched to F1
+    (
+        "Cut to a medium-close chest-up matched to Frame 1: she returns her right hand to cradle "
+        "the midnight-blue frosted Eclipse bottle soft at her collarbone and her left easy near "
+        "her jaw exactly as in Frame 1 as the camera settles to the opening framing.",
+        "She eases her calm gaze back to lens on a slow cool breath with the composed serene "
+        "quarter-smile, the silver-corona wash resolving back toward the opening lunar-mystic "
+        "look to seed the loop.",
+        "She lands precisely on the Frame 1 pose and gaze, serene in the celestial night \u2014 "
+        "a seamless loop seam.",
+    ),
+]
+
+
 def build_block(beats):
     return (
         BREAKDOWN_HEADER + "\n"
