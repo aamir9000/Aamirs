@@ -79,7 +79,7 @@ Hair: a low glossy wet-look side-part that gradually saturates darker as water r
 
 Makeup: dewy aquatic glow: glassy skin, soft coral-bronze lip, wet-look teal-flecked lid, golden highlight, real pores.
 
-Hero Movement / Impossible Move: water-to-silk wrap — the pool water spirals up her arm and weaves into a chiffon gown (locked transform keyframes Frames 4→5).
+Hero Movement / Impossible Move: water-to-silk wrap — contained MID-CLIP inside Frame 4 at a HELD angle: the pool water spirals up her arm and weaves into a chiffon gown. Veo first/last-frame continuity (Frame 4 image = ivory-linen Look A = first frame, Frame 5 image = completed sea-silk gown Look B = last frame); every frame join is a hard match-cut to a new angle.
 
 Mood: SERENE-LUXE, fluid, sun-warmed.
 
@@ -91,7 +91,7 @@ Voice: SILENT — no spoken line; diegetic water + a soft cinematic score.
 
 Identity safety: AIRA is adult; all wardrobe modest; aquatic mood is elegant, never sexualized.
 
-MASTER AUDIO: a 36-second custom cinematic score (6 clips × 6s) composed in self-resolving ~6-second phrases, so it can be trimmed to the reel’s assembled length at any phrase boundary without a hard cut — it always resolves, never stops dead or loops audibly. Built on a deep warm sub, an elegant felt piano and sleek modern textures — premium, cinematic and emotionally catching, never generic stock or empty ambience. It opens immediately on a single elegant piano strike haloed by a low sub-bloom (no fade-in) so the mood lands within the first second. Emotional arc: an airy intimate open across the first beats, a rising shimmer of anticipation toward frame 4, the warm emotional peak on water-to-silk wrap — the pool water spirals up her arm and weaves into a chiffon gown (locked transform keyframes Frames 4→5), then a graceful resolve back toward the opening for an invisible loop. SILENT reel — no spoken line; an optional wordless breath/choir texture may rise on the peak only if it elevates, never a lyric. Layered as one system — lead melody, warm sub for body, glassy modern shimmer as atmosphere, restrained percussion, and event impacts reserved for the major beats, each tuned to the score’s own key so every hit reads as the music itself expanding, never an added sound effect.
+MASTER AUDIO: a 36-second custom cinematic score (6 clips × 6s) composed in self-resolving ~6-second phrases, so it can be trimmed to the reel’s assembled length at any phrase boundary without a hard cut — it always resolves, never stops dead or loops audibly. Built on a deep warm sub, an elegant felt piano and sleek modern textures — premium, cinematic and emotionally catching, never generic stock or empty ambience. It opens immediately on a single elegant piano strike haloed by a low sub-bloom (no fade-in) so the mood lands within the first second. Emotional arc: an airy intimate open across the first beats, a rising shimmer of anticipation toward frame 4, the warm emotional peak on water-to-silk wrap — the pool water spirals up her arm and weaves into a chiffon gown (the water-to-silk wrap contained mid-clip in Frame 4), then a graceful resolve back toward the opening for an invisible loop. SILENT reel — no spoken line; an optional wordless breath/choir texture may rise on the peak only if it elevates, never a lyric. Layered as one system — lead melody, warm sub for body, glassy modern shimmer as atmosphere, restrained percussion, and event impacts reserved for the major beats, each tuned to the score’s own key so every hit reads as the music itself expanding, never an added sound effect.
 
 ---
 
@@ -327,44 +327,44 @@ LOOP LOGIC: orbit direction set so the camera can complete its circle by the fin
 
 ## Frame 4 of 6 — IMAGE PROMPT (TRANSFORM KEYFRAME A)
 
-ANGLE & SHOT SIZE: three-quarter front COWBOY/full shot, Aira rising to stand, water spiralling up her arm and torso into forming silk.
+ANGLE & SHOT SIZE: three-quarter front COWBOY/full shot, Aira standing tall at the tiled pool edge in the ivory linen wrap-dress, one hand lowered to graze the glowing aqua water — the clean Look A the clip opens on, the spiral NOT yet risen.
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the START frame of the transform CLIP — render her fully in the ivory-linen Look A (the exact still the Frame-4 video opens on, and Veo's FIRST frame): the crisp ivory linen wrap-dress, her hand just lowered to graze the glowing water (the water-to-silk spiral NOT yet risen). The water-to-silk wrap happens MID-CLIP at this same HELD angle (the water climbs and weaves into the chiffon gown), settling into Frame 5's completed-gown image (Veo's LAST frame); the camera may crane or travel with her but never rotates its angle through the change. Her face, hair and proportions stay constant. Do NOT depict the morph in this still and do NOT invent a new face, new hands or new bone structure.
 
-WARDROBE: mid-transform — the ivory linen dissolving into layered aqua-to-teal chiffon as a living ribbon of water weaves around her, modest coverage maintained throughout the spiral.
+WARDROBE: the crisp ivory linen wrap-dress, mid-calf and modest, the hem lifting a few millimetres in the warm breeze, one travelling sun-glint along the woven belt, fully intact, pristine.
 
-FOOTWEAR: transitioning from bare feet to clear jelly-strap flats with a pearl toe-clasp materialising at the ankles.
+FOOTWEAR: bare feet at the warm tiled edge, the slides set just aside, a clean wet reflection beneath.
 
-EYEWEAR: sunglasses still in the hair, droplets beading on the frame.
+EYEWEAR: sunglasses pushed up into the hair, a soft sun-glint on the frame.
 
-ACCESSORIES: gold bracelet and ankle chain now wet and gleaming; pearl studs catching light.
+ACCESSORIES: gold bracelet and ankle chain catching one warm glint; pearl studs — never cluttered.
 
-HAIR: now glossy-wet, saturated darker, sculpted by the rising water, a few strands lifting in the spiral.
+HAIR: soft and dry in the warm light, a clean centre fall, a few strands lifting in the breeze; colour locked to reference.
 
-MAKEUP: dewy aquatic glow at full wet-sheen, teal lid flecks catching the caustics, glassy skin.
+MAKEUP: a fresh sun-warmed glow, soft groomed brow, a touched balm lip; real pores and fine vellus texture, never plastic.
 
-HANDS & NAILS: both arms lifting and opening as the water-silk wraps; fingers elegantly splayed, water threading between them; sheer pearl-pink nails beaded with droplets.
+HANDS & NAILS: her right hand lowered to graze the glowing aqua water, fingers relaxed and lightly splayed at the surface, the left arm easy at her side; sheer pearl-pink nails, neat cuticles, no white-knuckle tension.
 
-FACIAL MICRO-DYNAMICS: chin lifting, eyes widening in serene awe, a breath caught with parted lips, a soft delighted lift at the cheeks.
+FACIAL MICRO-DYNAMICS: a calm anticipatory gaze toward the water, lips softly parted on a held breath, a serene quarter-smile — composed and fully recognizable, identity-locked, ready for the wrap mid-clip.
 
-BODY POSTURE & WEIGHT: mid-rise, weight transferring up through a long extending spine, one knee still soft, arms blooming outward — powerful and graceful, full of upward momentum.
+BODY POSTURE & WEIGHT: standing tall at the edge in a soft contrapposto, weight settled, spine long, one hand lowered to the water — grounded real physics, the calm centre before the rise.
 
-KINETIC STILLNESS (8 layers): (1) the water ribbon spiralling up the torso; (2) chiffon edges forming and rippling; (3) droplets flung outward in a slow arc; (4) hair lifting in the updraft; (5) caustics wrapping her body; (6) ripple rings still expanding on the pool; (7) a sun-glint travelling the wet bracelet; (8) lashes flaring as her eyes widen.
+KINETIC STILLNESS (8 layers): (1) the hem lifting a few millimetres in the breeze; (2) ripple rings spreading from her fingertips across the glowing water; (3) caustics shimmering across the tiled edge; (4) the sky's warm gradient mirrored in the still pool; (5) a sun-glint travelling the wet bracelet; (6) a strand lifting in the warm air; (7) the linen breathing as her ribcage expands; (8) a slow eyelash settle completing a calm blink.
 
-SPATIAL LOGIC: FOREGROUND — flung droplets, tack sharp. MIDGROUND — Aira and the forming silk. BACKGROUND — glowing pool and warm sky, clean for the spiral to read.
+SPATIAL LOGIC: FOREGROUND — the glowing water surface and her grazing hand, tack sharp. MIDGROUND — Aira at the edge in ivory linen, the hero. BACKGROUND — the infinity pool stretching back to the warm sky, mirror-bright, its reflections and caustics carrying the world right into the frame (clean and present, never erased).
 
-LIGHTING: KEY — warm gold sun catching the rising water. FILL — bright turquoise bounce from the pool. RIM — sun rim lighting the water-silk into translucency. PRACTICAL — caustics and water speculars. SEPARATION — luminous silk vs deep water. BOUNCE — aqua kick under the arms.
+LIGHTING: KEY — warm gold sun. FILL — bright turquoise bounce from the pool. RIM — sun rim along her shoulder and the linen edge. PRACTICAL — caustics and water speculars. SEPARATION — sunlit linen vs deep blue water. BOUNCE — aqua kick under the arm.
 
-LENS + DOF + BOKEH: 35mm, f/2.8; focus on Aira and the forming silk; flung droplets as glassy bokeh beads; background creamy.
+LENS + DOF + BOKEH: 35mm, f/2.8; focus on Aira and her grazing hand; the pool's speculars as glassy bokeh beads; background creamy but clearly reading as the glowing pool and warm sky.
 
-COMPOSITION: 9:16, upward spiral as a dynamic vertical S-curve, Aira centred-rising, headroom for the bloom.
-SUBJECT FRAMING & POSITION: A three-quarter front cowboy-to-full shot as Aira rises to stand, water spiralling up her arm and torso into forming silk. The body is in three-quarter front, mid-rise, weight transferring up through a long extending spine with one knee still soft, arms blooming outward. Camera at mid distance with headroom for the upward bloom, reading her as a dynamic vertical S-curve. She is centred and rising, turned a touch off-square toward the lens. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+COMPOSITION: 9:16, Aira a calm vertical at the edge with the pool sweeping back behind her, headroom held for the bloom to come.
+SUBJECT FRAMING & POSITION: A three-quarter front cowboy-to-full shot as Aira stands at the tiled pool edge in the ivory linen Look A, one hand lowered to the glowing water — the clean still the transform clip opens on. Camera at mid distance on its own fresh angle, a hard cut from Frame 3, the infinity pool reading clearly behind her, Aira the hero with the world present around her. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
-ATMOSPHERE: awe, magic, weightless ascension.
+ATMOSPHERE: calm, warm, charged — the serene instant before the rise.
 
-COLOUR GRADE: vivid sea-blue & gold at peak saturation, translucent teal silk, glossy speculars, full mid-tone.
+COLOUR GRADE: sea-blue & warm gold kept tonal and luxe (sea-blue is a tonal concept — elegant and restrained, NOT peak saturation), glossy speculars, clean uncrushed shadows, full mid-tone.
 
-TEXTURE & MICRO-DETAIL: translucent chiffon forming with visible weave, water sheeting into fabric, droplet refractions, caustic light on skin, wet hair strand detail.
+TEXTURE & MICRO-DETAIL: crisp linen weave, water sheeting over the tile, droplet refractions, caustic light on skin, real skin texture.
 
 NEGATIVE: (as Frame 1) plus identity drift in the face, melted/asymmetric features, immodest exposure, broken water physics, plastic skin.
 
@@ -372,14 +372,14 @@ NEGATIVE: (as Frame 1) plus identity drift in the face, melted/asymmetric featur
 
 IDENTITY (locked): Aira — same person every frame; face, bone structure, eye shape + colour, nose, lips, skin texture and hair strictly locked to reference; ONLY expression, gaze and head move; no identity drift, no face/anatomy warp, no second or duplicate person.
 
-SHOT TYPE & ANGLE: three-quarter front cowboy, subject fills ~60%, rising in frame.
+SHOT TYPE & ANGLE: three-quarter front cowboy at a HELD angle, subject ~55%, the glowing pool reading clearly behind her.
 
 LENS: 35mm, f/2.8.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Three-quarter front cowboy, rising in frame: a smooth crane-up is already tracking her ascent as she begins to rise and the pool water climbs her arm; her gaze lifts with the spiral, eyes beginning to widen.
-- [00:02–00:04] The crane continues upward as the water-ribbon wraps her torso and aqua-to-teal chiffon weaves into being around her; chin lifting, breath caught with parted lips, cheeks lifting in serene awe.
-- [00:04–00:06] At the apex her arms bloom open and droplets fling outward on real ballistic arcs, head lifting fully to lens — the hero water-to-silk weave at its peak, eyes alight.
+- [00:00–00:02] Cut to a three-quarter front cowboy at a HELD angle (Veo first frame = the ivory-linen Look A still): already in motion, a gentle crane-with easing in as she stands at the tiled edge and grazes the glowing water — the ivory linen fully intact, the spiral NOT yet risen, the infinity pool bright behind; angle fixed for the whole clip.
+- [00:02–00:04] The water-to-silk wrap BEGINS here, mid-clip: the glowing pool water climbs her arm and weaves smoothly up her torso in one continuous spiral, the ivory linen resolving into layered aqua-to-teal chiffon exactly where the water passes — real fluid-then-cloth physics, droplets arcing on true ballistic paths, caustics sweeping her body and the world still mirrored in the pool behind; chin lifting, breath caught, eyes widening in serene awe (angle held, identity locked).
+- [00:04–00:06] The spiral completes and the look settles smoothly and fully into the completed sea-silk gown of Frame 5's still (Veo's LAST frame), the water stilling to a mirror around her that reflects the warm sky — resolved and held, no last-second snap; a serene awe landing in her eyes.
 
 FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
@@ -391,7 +391,7 @@ FABRIC/HAIR/PROP PHYSICS: water-to-chiffon transition obeys fluid then cloth dyn
 
 FOOTWORK & BODY FLOW: push through the back foot into a tall releve-like lift, the body uncoiling like a dancer rising from the floor.
 
-TRANSITION / IMPOSSIBLE MOVE: THE hero move — pool water spirals up and weaves into a flowing silk gown; locked keyframes A (here) → B (Frame 5).
+TRANSITION / IMPOSSIBLE MOVE: THE hero move, contained MID-CLIP at a HELD angle — pool water spirals up and weaves into the flowing silk gown; Veo first frame = this frame's ivory-linen Look A image, last frame = Frame 5's completed-gown Look B image; every frame join is a hard match-cut to a new angle.
 
 LIGHTING-IN-MOTION: sun rim ignites the translucent silk as it forms; caustics sweep across her body during the rise.
 
@@ -438,7 +438,7 @@ SUBJECT FRAMING & POSITION: A front-on full/wide hero shot, Aira standing mid-po
 
 ATMOSPHERE: triumphant serenity, liquid luxury at its peak.
 
-COLOUR GRADE: vivid sea-blue & gold, peak saturation, glossy speculars, clean uncrushed shadow.
+COLOUR GRADE: sea-blue & warm gold kept tonal and luxe (a tonal concept — elegant and restrained, not over-saturated), glossy speculars, clean uncrushed shadow.
 
 TEXTURE & MICRO-DETAIL: translucent layered chiffon with visible weave and wet edges, caustic light across fabric, droplet beads on skin, mirrored-lens reflection of the sky, real skin texture on the cheeks.
 
