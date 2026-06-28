@@ -865,6 +865,26 @@ PASS 1 REMAINING:
     Concepts 91-110. (NOTE: these were section-B rebuilt + lean-stripped earlier but NOT yet on
     the L+M mid-clip/cuts/first-last-frame model — they still use the old orbit-through-transform
     beats; bring them onto L+M.)
+    >>> CINEMATIC NEW SET — IN PROGRESS: concepts 1 (Sea-Blue Pool, f5db9bf) + 2 (Velvet Hotel,
+    f7c507f) DONE+pushed. METHOD for these section-B files is SURGICAL (lighter than Master-Depth):
+    they already have rich ANGLE & SHOT SIZE variety incl. establishing wides + env-dominant frames
+    (background already honoured) and alive-camera beats, and they have NO "TRANSFORM KEYFRAME NOTE /
+    locked START/END / suspended build" image residue. So per concept only the TRANSFORM FRAME(s)
+    need work: (a) rewrite the brief "Hero Movement / Impossible Move:" line to the L+M model
+    (contained mid-clip / held angle — or camera-rides-WITH-her translation for walking transforms /
+    Veo first-last-frame / match-cut joins); (b) FLIP the transform frame IMAGE (labelled "(TRANSFORM
+    KEYFRAME A)" or "(TRANSFORM — ...)") from mid-morph to the clean LOOK A the clip opens on, keeping
+    the world ALIVE in it (reflections/practicals/bokeh/caustics) per section N, and add a TRANSFORM
+    KEYFRAME NOTE; (c) rewrite that frame's VIDEO SHOT BREAKDOWN 3 beats to L+M (beat-1 "Cut to",
+    held angle / ride-with, morph BEGINS mid-clip, resolves to next frame's Look B still = Veo last
+    frame); (d) rewrite the "TRANSITION / IMPOSSIBLE MOVE:" line; (e) fix any controlled-vibrancy
+    slips (e.g. "peak saturation" on tonal concepts like sea-blue → tonal). Preserve SPOKEN LINE
+    fields. The next frame's image is already Look B — leave it. lm_rebuild.py BEATSLM is keyed by
+    concept number and collides with these files' 1-20 numbering, so DON'T run that engine here — do
+    the transform-frame edits by hand (str_replace). Verify per concept: 0 of {locked keyframes,
+    mid-<morph> on the transform still, peak saturation on tonal}, transform-frame image shows clean
+    Look A, SHOT BREAKDOWN count unchanged. Background full treatment + every-frame match-cut "Cut to"
+    openings + full-body motion all come in PASS 2 (don't double-edit image fields now).
   - Then non-transformation folders as applicable (Surreal 131-150, Action, Time-Freeze,
     Travel-Scenic aira_set4/5, Product) — these get lean-strip + section-K believability + L+M
     only where a real A->B/mid-clip change exists (match-cut/cut model otherwise).
