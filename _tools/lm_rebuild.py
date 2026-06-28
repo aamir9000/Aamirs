@@ -603,6 +603,92 @@ BEATSLM[7] = [
 ]
 
 
+BEATSLM[8] = [
+    # F1 - all-ivory Look A establishing, alive lateral track, hand at sternum
+    (
+        "Cut to a medium-wide thigh-up tracking shot in the pure all-ivory editorial world: the "
+        "camera dollies laterally to settle on her as she steps her weight onto the back leg "
+        "and rests her right hand soft at her sternum, the ivory cyclorama and props sliding "
+        "behind with real parallax; a composed quarter-smile holding.",
+        "The track eases to rest as a strand of the sleek straight centre-part fall shifts in "
+        "the studio air and her cool gaze begins to lift, a composed editorial micro-smile "
+        "settling.",
+        "She holds, pure and poised in the all-ivory set, eyes direct and architectural (silent "
+        "here).",
+    ),
+    # F2 - ivory, push-with, hand flat at sternum, cut to a closer three-quarter
+    (
+        "Cut to a medium-close three-quarter: she rests her hand flat-soft at her sternum and "
+        "gently spreads her fingers as if feeling the breath, as the camera pushes with her "
+        "hand; gaze cast soft to the hand.",
+        "Her gaze softens with quiet focus as a composed micro-smile holds, the ivory weave "
+        "pure and pristine.",
+        "She holds the still poised ivory beat, eyes calm on the hand, the world pure white "
+        "(silent here).",
+    ),
+    # F3 - ivory, arc, presses sternum, draws breath (NO bloom yet), cut
+    (
+        "Cut to a medium chest-up on a fresh three-quarter angle: she presses her hand soft at "
+        "the sternum and draws a slow breath, her left hand easing open, as the camera arcs a "
+        "few degrees and the ivory cyclorama swings behind with parallax; gaze beginning to "
+        "lift.",
+        "The arc settles as her gaze lifts to lens with rising spark and a knowing micro-smile "
+        "forms, the world still pure all-ivory.",
+        "She holds the poised ivory beat, hand at the breath, eyes bright and architectural "
+        "\u2014 the slow breath before the colour (silent here).",
+    ),
+    # F4 - THE TRANSFORM, HELD ANGLE, smooth mid-clip ink bloom; first=ivory, last=colour-riot
+    (
+        "Cut to an energized medium at a HELD angle (Veo first frame = the all-ivory Look A "
+        "still): she eases her hand off the sternum on the breath, already in motion \u2014 the "
+        "world still pure all-ivory, NO colour yet, a gentle push-with easing in, the angle "
+        "fixed for the whole clip.",
+        "The bloom BEGINS here, mid-clip: on the breath a saturated colour-riot blooms through "
+        "the ivory along one travelling wavefront, deep magenta, cobalt and emerald diffusing "
+        "through the real fabric weave by true ink-in-water capillary spread exactly where the "
+        "wave passes \u2014 painterly and continuous, never a snap, no garish glare; the sleek "
+        "straight fall catching travelling colour, eyes widening in playful editorial awe "
+        "(angle held, face cleanly lit, identity locked).",
+        "The ink-wash completes its sweep and the look settles smoothly and fully into the bold "
+        "colour-riot Look B of the Veo last-frame still (Frame 5's image) \u2014 magenta, "
+        "cobalt and emerald set rich through the sculptural silhouette and backdrop, resolved "
+        "and held through the final beat, no last-second pop; a bold alive spark landing in her "
+        "eyes.",
+    ),
+    # F5 - colour-riot Look B reveal, cut to a NEW angle, adjust colour lapel
+    (
+        "Cut to a medium close on a new angle in the colour-flooded world: she is already in "
+        "the saturated colour-riot look, reaching up to adjust the now colour-flooded lapel "
+        "with an easy roll of the shoulder; gaze easing to lens.",
+        "A bold confident smile eases to lens on a slow breath, the last colour-droplets "
+        "settling with a rich glint, eyes shining direct.",
+        "She holds the bold alive editorial look, the colour set sitting sharp, eyes bright and "
+        "direct (silent here).",
+    ),
+    # F6 - spoken line, cut to a fresh angle, push-with the turn
+    (
+        "Cut to a medium chest-up on a fresh angle: she shifts her weight with an easy "
+        "six-degree turn and opens her right hand in a relaxed bold gesture as the camera eases "
+        "with her; gaze direct to lens.",
+        "She delivers \u201cColor was always the point.\u201d to lens with a bold knowing smile "
+        "and natural lip-sync, the colour-pop earring swinging a hair, eyes warm and direct.",
+        "She holds the assured editorial look as the colour set settles, the smile easing into "
+        "bold calm.",
+    ),
+    # F7 - loop close, cut back to match Frame 1 all-ivory
+    (
+        "Cut to a medium-wide thigh-up matched to Frame 1: she returns her right hand to rest "
+        "soft at the sternum and settles her weight onto the back leg exactly as in Frame 1 as "
+        "the camera settles to the opening framing.",
+        "She eases her cool gaze back to lens on a slow breath with the composed calm "
+        "micro-smile, the colour-riot resolving back toward the all-ivory opening to seed the "
+        "loop.",
+        "She lands precisely on the Frame 1 pose and gaze, pure and poised \u2014 a seamless "
+        "loop seam.",
+    ),
+]
+
+
 def build_block(beats):
     return (
         BREAKDOWN_HEADER + "\n"
