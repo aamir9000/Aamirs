@@ -1378,6 +1378,93 @@ BEATSLM[16] = [
 ]
 
 
+BEATSLM[17] = [
+    # F1 - breezy day Look A establishing, alive lateral track, hand on open car door
+    (
+        "Cut to a medium-wide thigh-up tracking shot on the coastal cliff road at golden hour: "
+        "the camera dollies laterally to settle on her as she rests her right hand soft on the "
+        "open car door and eases a wind-blown strand from her cheek, the open ocean sky and a "
+        "vintage convertible sliding behind with real parallax; a warm easy quarter-smile "
+        "holding.",
+        "The track eases to rest as the beach waves lift in the sea-breeze and she eases her "
+        "warm gaze to lens, low gold light raking the road, a soft easy quarter-smile settling.",
+        "She holds, breezy and easy in the soft white shirt, the wind-blown waves loose, eyes "
+        "warm in the afternoon light (silent here).",
+    ),
+    # F2 - day look, push-with lifting hand toward cresting wind-and-light wave, cut to a closer three-quarter
+    (
+        "Cut to a medium-close three-quarter: she is already lifting her right hand soft toward "
+        "the cresting wind-and-light wave as if to feel the breeze, fingers gently open, as the "
+        "camera pushes with her hand; gaze toward the open sky.",
+        "The sea-breeze haze gathers warm at her fingertips as her gaze warms with quiet wonder "
+        "and an easy micro-smile kindles.",
+        "She holds the hand poised to the breeze, eyes warm and open, the breezy day look easy "
+        "and intact (silent here).",
+    ),
+    # F3 - day look clean (NO sweep yet), slow arc to a fresh angle, raise hand toward breeze
+    (
+        "Cut to a medium chest-up on a fresh three-quarter angle: she raises her hand soft "
+        "toward the breeze and draws a slow breath, her left hand easing open on the car door, "
+        "as the camera arcs a few degrees and the coast swings behind with parallax; gaze "
+        "lifting.",
+        "The arc settles as her gaze lifts to lens with rising warm wonder and a knowing easy "
+        "smile forms, the wind-and-light wave cresting on the sky, still in the breezy day look.",
+        "She holds the poised coastal beat, hand raised to the breeze, eyes warm and open "
+        "\u2014 the breath before the wind-and-light wave (silent here).",
+    ),
+    # F4 - THE TRANSFORM, HELD ANGLE, smooth mid-clip wind-and-light wave; first=breezy day, last=golden coastal
+    (
+        "Cut to an energized medium at a HELD angle (Veo first frame = the breezy-day Look A "
+        "still): she eases her hand down from the breeze, already in motion \u2014 still the "
+        "soft white shirt, NO wave yet, a gentle push-with easing in, the angle fixed for the "
+        "whole clip.",
+        "The wave BEGINS here, mid-clip: a single travelling wind-and-light wave sweeps "
+        "smoothly across the frame in one continuous golden front, the breezy shirt flowing into "
+        "the soft silk scarf and light caramel jacket and the light warming to deep gold "
+        "exactly where the wave passes \u2014 silk and cloth flowing with believable wind weight "
+        "and inertia, real golden-hour light spread, gradual and warm, never a snap, no garish "
+        "glare; the beach waves lifting in travelling gold light, eyes warming in dreamy wonder "
+        "(angle held, face cleanly lit, identity locked).",
+        "The wave completes its sweep and the look settles smoothly and fully into the "
+        "golden-coastal Look B of the Veo last-frame still (Frame 5's image) \u2014 the soft "
+        "flowing silk scarf and light caramel jacket over the shirt in deep golden light, "
+        "resolved and held through the final beat, no last-second pop; a warm dreamy calm "
+        "landing in her eyes.",
+    ),
+    # F5 - golden coastal Look B reveal, cut to a NEW angle, settle the silk scarf
+    (
+        "Cut to a medium close on a new angle in the deep golden light: she is already in the "
+        "golden-coastal look, drifting her right hand to settle the soft silk scarf with an "
+        "easy roll of the shoulder; gaze easing to lens.",
+        "A warm dreamy smile eases to lens on a slow breath, the last sea-breeze haze drifting "
+        "gold, eyes soft and warm.",
+        "She holds the golden dreamy look, the silk scarf flowing soft, eyes warm and direct "
+        "(silent here).",
+    ),
+    # F6 - spoken line, cut to a fresh angle, push-with the turn
+    (
+        "Cut to a medium chest-up on a fresh angle: she shifts her weight with an easy "
+        "six-degree turn and drifts her right hand open soft in a warm easy gesture as the "
+        "camera eases with her; gaze warm to lens.",
+        "She delivers \u201cSome roads feel like home.\u201d to lens with a warm dreamy smile "
+        "and natural lip-sync, the silk scarf lifting soft in the breeze, eyes warm and direct.",
+        "She holds the golden dreamy look as the scarf settles, the smile easing into warm "
+        "calm.",
+    ),
+    # F7 - loop close, cut back to match Frame 1 hand on car door
+    (
+        "Cut to a medium-wide thigh-up matched to Frame 1: she returns her right hand to rest "
+        "soft on the open car door and settles her weight onto the back leg exactly as in Frame "
+        "1 as the camera settles to the opening framing.",
+        "She eases her warm gaze back to lens on a slow breath with the composed easy "
+        "quarter-smile, the deep golden look resolving back toward the breezy afternoon opening "
+        "to seed the loop.",
+        "She lands precisely on the Frame 1 pose and gaze, breezy and easy on the open road "
+        "\u2014 a seamless loop seam.",
+    ),
+]
+
+
 def build_block(beats):
     return (
         BREAKDOWN_HEADER + "\n"
