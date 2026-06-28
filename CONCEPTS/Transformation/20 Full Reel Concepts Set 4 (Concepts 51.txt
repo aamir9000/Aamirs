@@ -435,7 +435,7 @@ Hair: Low Sculpted Waves with a centre part
 
 Makeup: Porcelain Soft-Matte Glow (blurred-but-real skin, rosy cheek, soft rose lip)
 
-Movement: graceful turn → liquid-porcelain glaze pour-and-set transform → product blur-veil hero
+Movement: graceful turn → liquid-porcelain glaze pour-and-set transform → product blur-veil hero. The blush-slip → porcelain-gown change is contained MID-CLIP inside Frame 2 at a HELD angle — Veo first/last-frame continuity (Frame 2 image = blush-slip Look A = first frame, Frame 3 image = porcelain-gown Look B = last frame); every frame join is a hard match-cut to a new angle.
 
 Concept Line: "smooth as porcelain"
 
@@ -451,7 +451,7 @@ Spoken line: lands Frame 4 — "smooth as porcelain." (English, natural Indian a
 
 Audio note: per-frame in-video AUDIO is diegetic-plus-design; a separate 🎵 Master Track Brief follows the final frame (low and subtle, never full).
 
-Identity safety: the transform locks BOTH keyframes — start = pre-transform recognizable face + blush slip; end = sculptural porcelain gown, new AND clearly her; the glaze covers only the crossing; only the named transform is impossible, all light and fabric obey real physics.
+Identity safety: the change is contained inside the single Frame-2 transform clip — it OPENS on the recognizable pre-transform face + blush slip (Look A) and RESOLVES smoothly to the sculptural porcelain gown (Look B, new AND clearly her) by clip-end; the glaze covers only the mid-clip crossing at a held angle; only the named transform is impossible, all light and fabric obey real physics.
 
 ---
 
@@ -519,40 +519,40 @@ NEGATIVE: identity drift, face or hand warp, extra or fused fingers, duplicate p
 
 IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
 
-TRANSFORM KEYFRAME NOTE: the liquid-porcelain glaze pour-and-set transform. START KEYFRAME (locked) — Aira mid-turn in the blush silk slip, face fully recognizable, caught as a ribbon of glossy white liquid-porcelain glaze begins to pour down from her shoulder. CROSSING (the only impossible beat) — the glaze sheets smoothly over the slip in a glassy wave and sets on contact into a sculptural matte-white porcelain gown, delicate cobalt blue-and-white china patterns blooming across it as it hardens like ink wicking into wet clay. END KEYFRAME (locked) — Aira in the finished porcelain couture gown, the new look fully resolved, new AND unmistakably her. Identity, bone structure and hair colour ride through untouched; the glaze covers only the crossing; gown weight, drape, light and shadow obey real physics on both sides; no double-Aira, no face morph, no melt.
+TRANSFORM KEYFRAME NOTE: the liquid-porcelain glaze pour-and-set transform — contained MID-CLIP inside this one frame at a HELD angle. This is the START frame of the transform CLIP — render her fully in the blush silk-slip Look A (the exact still the Frame-2 video opens on, and Veo's FIRST frame): the soft blush silk slip dress fully intact, face fully recognizable, caught at the instant before a ribbon of glossy white liquid-porcelain glaze begins to pour from her shoulder (the glaze NOT yet begun). The change happens MID-CLIP at this same HELD angle — the glaze sheets smoothly over the slip in a glassy wave and sets into a sculptural matte-white porcelain gown with delicate cobalt blue-and-white china patterning blooming across it — settling into Frame 3's finished porcelain-gown image (Veo's LAST frame); the camera may travel or crane with her but never rotates its angle through the change. Identity, bone structure and hair colour ride through untouched. Do NOT depict the morph in this still and do NOT invent a new face, new hands or new bone structure.
 
-WARDROBE: mid-transform — the lower body still soft blush silk slip, the upper body already set into a sculptural matte-white porcelain bodice with the first cobalt china-motifs blooming across it, a clean diagonal pour-line of glossy wet glaze dividing the two; fully modest neckline and long sculpted line, the wet glaze edge catching a bright specular; fabric and porcelain both reading with real weight.
+WARDROBE: the soft blush silk slip dress, bias-cut and floor-length, fully modest with a smooth draped neckline and fine straps over a sheer blush underlayer at the shoulders, the silk catching the daylight in soft pearly highlights along each gentle fold; a single slim pearl bracelet; fabric immaculate, weighted and flawless — the look fully intact, no porcelain and no glaze-line yet.
 
-HAIR (Low Sculpted Waves): unchanged through the crossing — the centre-part sculpted waves hold over one shoulder, glossy and smooth, now catching a cool reflected glint from the wet glaze; real strand separation under the sheen, hair colour locked to the reference.
+HAIR (Low Sculpted Waves): a centre part falling into soft sculpted finger-waves resting over one shoulder, glossy and smooth with a clean hairline and minimal flyaways, real strand separation under a healthy sheen; hair colour locked to the reference.
 
-MAKEUP (Porcelain Soft-Matte Glow): the soft-matte base now picking up a faint cool bounce from the white glaze, rosy cheek and rose lip unchanged; skin still real with visible pores, the finish blurred not plastic.
+MAKEUP (Porcelain Soft-Matte Glow): a soft-matte blurred base that still reads as real skin with visible pores and fine vellus texture (blurred, never plastic), a diffused rosy blush high on the cheeks, a soft rose satin lip, lightly defined lash line, brushed brows, a whisper of pearl highlight on the cheekbone.
 
-HANDS & NAILS: one hand lifting away from her shoulder as the glaze sheets down past it, fingers relaxed and clear of the wet edge; short rounded nails in milky-pink gloss, neat cuticles, natural nail-bed colour.
+HANDS & NAILS: one hand easing up from her waist toward her shoulder as she turns, fingers relaxed and clear, the other settling open from the body; short rounded nails in a clean milky-pink gloss, neat cuticles, natural nail-bed colour.
 
-FACIAL MICRO-DYNAMICS: lips parting on a small delighted breath as the glaze sets, eyes following the cobalt patterns blooming with soft wonder, a gentle brow lift; clean daylight catchlights; alive and reacting, never frozen.
+FACIAL MICRO-DYNAMICS: a serene anticipation beginning — lips just parting on a soft breath, eyes easing toward her shoulder the instant before the glaze pours, a gentle brow lift; clean daylight catchlights; alive and anticipating, never frozen.
 
-BODY POSTURE & WEIGHT: caught mid-turn, weight transferring onto the front foot, torso opening toward camera, one arm easing out from the body as the porcelain forms — graceful and balanced, living stillness.
+BODY POSTURE & WEIGHT: caught mid-turn, weight transferring onto the front foot, torso opening toward camera, one arm easing out from the body — graceful and balanced, the poised breath before the change, living stillness.
 
-KINETIC STILLNESS (8 layers): (1) the diagonal pour-line of wet glaze travelling down her body; (2) the glossy glaze edge catching and releasing a bright specular as it sets; (3) the silk hem still settling from her turn below the line; (4) cobalt china-motifs blooming across the setting porcelain in sequence; (5) a loose wave lifting a touch in the moving air; (6) a soft cool caustic from the wet glaze on her forearm; (7) chest rising on the delighted breath; (8) a fine droplet of glaze rolling and setting at the bodice edge.
+KINETIC STILLNESS (8 layers): (1) soft daylight drifting almost imperceptibly across the white wall; (2) a loose wave lifting a few millimetres at her shoulder in the moving air; (3) the silk slip breathing with a slow pearly highlight shift as she inhales; (4) the silk hem still settling from her turn; (5) a blush peony petal settling in a fluted vase behind; (6) chest rising on a soft breath; (7) a gentle specular sliding on the ceramic pot's pearl finish; (8) a slow soft blink beginning.
 
-SPATIAL LOGIC: FOREGROUND — the wet glaze pour-line and the lifted hand, sharp. MIDGROUND — Aira mid-transform, the diagonal line dividing silk and porcelain. BACKGROUND — the bright atelier softly blurred, white plinths and blush peonies, the blue-and-white china panel echoing the blooming motifs.
+SPATIAL LOGIC: FOREGROUND — her easing hand and the soft silk, sharp. MIDGROUND — Aira mid-turn in the blush slip, centred. BACKGROUND — the bright airy atelier, white plinths, blush peonies in fluted vases, the blue-and-white china panel echoing softly, north-window daylight.
 
-LIGHTING: KEY — soft north-window daylight, now with a bright kick raking the wet glaze. FILL — clean white room-bounce (high-key). RIM — a soft separation light on hair and shoulder. PRACTICAL — the bright window. SEPARATION — the bright wall behind. BOUNCE — a soft card keeping the lower silk from going flat.
+LIGHTING: KEY — a large soft north-window daylight wrapping her face. FILL — a clean white room-bounce keeping shadows open (high-key). RIM — a soft separation light on hair and shoulder. PRACTICAL — the bright window as the in-frame source. SEPARATION — the bright wall pulled a touch behind her. BOUNCE — a soft card lifting the silk.
 
-FRAMING: ASPECT 9:16; full-figure, slightly low angle for elegance, the diagonal pour-line leading the eye, 12% headroom.
-SUBJECT FRAMING & POSITION: A full-figure transform hero from a slightly low angle with about 12% headroom, the diagonal transform-line of the porcelain atelier leading the eye. Her body caught mid-turn, weight transferring onto the front foot, torso opening toward the lens, one arm beginning the transform gesture. Camera low for elegance, the complete figure in frame in the porcelain atelier, clean negative space. She is centred, caught mid-motion rather than posed. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+FRAMING: ASPECT 9:16; full-figure, slightly low angle for elegance, the bright atelier leading the eye, 12% headroom.
+SUBJECT FRAMING & POSITION: A full-figure transform hero from a slightly low angle with about 12% headroom, the bright porcelain atelier leading the eye. Her body caught mid-turn, weight transferring onto the front foot, torso opening toward the lens, one arm easing out from the body. Camera low for elegance, the complete figure in frame in the porcelain atelier, clean negative space. She is centred, caught mid-motion rather than posed. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
-LENS + DOF + BOKEH: 50mm, f/2.5; her face and the pour-line tack sharp, the atelier creamy-soft, gentle bokeh off the peonies; clean highlight roll-off on the wet glaze, no clipping.
+LENS + DOF + BOKEH: 50mm, f/2.5; her face and the silk tack sharp, the atelier creamy-soft, gentle bokeh off the peonies; clean highlight roll-off, no clipping.
 
-COMPOSITION REFERENCE: the signature transform beat — a single elegant impossible glaze-set crossing, bright and tactile, share-worthy.
+COMPOSITION REFERENCE: the held breath before the signature transform — a single elegant impossible glaze-set crossing about to begin, bright and tactile, share-worthy.
 
-ATMOSPHERE: graceful, magical-but-believable — liquid porcelain dressing her in couture.
+ATMOSPHERE: graceful anticipation, magical-but-believable — the instant before liquid porcelain dresses her.
 
 COLOR GRADE: bright commercial-beauty — clean airy whites, soft blush, crisp cobalt accents, rich-but-open blacks (override).
 
-TEXTURE & MICRO-DETAIL: the wet glaze edge reads as glossy flowing liquid with a bright specular, setting to a real matte-porcelain surface with fine crackle-glaze texture; the cobalt motifs read as glazed underglaze with soft bleed edges; the silk keeps real bias drape below the line; soft-matte skin micro-texture with peach-fuzz.
+TEXTURE & MICRO-DETAIL: the silk slip shows fine bias drape and a pearly sheen shift; the ceramic pot shows a real matte-pearl glaze with one soft specular; soft-matte real skin micro-texture with peach-fuzz catching the window; a blush peony shows velvety petal texture; faint dust drifts in the light.
 
-NEGATIVE: mirrored, flipped, inverted, extra limbs, fused fingers, melted features, asymmetric eyes (unintentional), garbled text, floating shadows, duplicated subjects, low-res patches, plastic skin, over-smoothed skin, oversharpened, AI artifacts, watermarks, signature, deformed hands, malformed teeth, joint cuts, amputated fingertips, cross-eyed, lazy eye, off-axis pupils, melted clothing, mannequin-stiff posture, dead eyes, statue-frozen energy, double-Aira, face morph during transform, melted porcelain.
+NEGATIVE: mirrored, flipped, inverted, extra limbs, fused fingers, melted features, asymmetric eyes (unintentional), garbled text, floating shadows, duplicated subjects, low-res patches, plastic skin, over-smoothed skin, oversharpened, AI artifacts, watermarks, signature, deformed hands, malformed teeth, joint cuts, amputated fingertips, cross-eyed, lazy eye, off-axis pupils, melted clothing, mannequin-stiff posture, dead eyes, statue-frozen energy, double-Aira, face morph during transform, premature porcelain, visible glaze-line in this still.
 
 ## Frame 2 of 6 — VIDEO PROMPT
 
@@ -563,9 +563,9 @@ SHOT TYPE: full-figure transform hero, slightly low angle.
 LENS: 50mm, f/2.5.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Full-figure from a slightly low angle: a slow controlled arc is already following downward as a ribbon of glossy white liquid-porcelain glaze begins to pour from her shoulder; gaze tracking the pouring glaze, eyes brightening.
-- [00:02–00:04] The arc rides the glaze sheeting down her body, setting into the sculptural porcelain gown with cobalt china-motifs blooming across it; a delighted breath, brows lifting in wonder.
-- [00:04–00:06] The last glaze sets at the hem and the finished gown settles as the arc eases; a soft luminous smile landing, eyes alight on the patterned porcelain.
+- [00:00–00:02] Cut to a full-figure from a slightly low HELD angle (Veo first frame = the blush-slip Look A still): a gentle push-with is already travelling with her as she turns in the soft blush silk slip — the look fully intact, NO change yet, the angle fixed for the whole clip; gaze easing toward her shoulder.
+- [00:02–00:04] The change BEGINS here, mid-clip: a ribbon of glossy white liquid-porcelain glaze pours from her shoulder and sheets smoothly down across her in one continuous wavefront, the blush silk setting into sculptural matte-white porcelain with cobalt china-motifs blooming exactly where it passes — gradual and motivated, never a snap; a delighted breath, brows lifting (angle held, identity locked).
+- [00:04–00:06] The last glaze sets at the hem and the look settles smoothly and fully into the finished porcelain-gown Look B of the Veo last-frame still (Frame 3's image), resolved and held; a soft luminous smile landing, eyes alight on the patterned porcelain.
 
 AUDIO: diegetic-plus-design, no spoken word. Ambient bed — the airy room-tone with a soft warm rise under the crossing. SFX — a smooth liquid-pour whoosh as the glaze sheets down 0.0–1.5s, a delicate glassy set-and-tick sequence as the porcelain hardens 1.5–4.0s, a soft ceramic settle-chime as the gown resolves at 5.6s. Reaction — a soft delighted breath at 1.4s. VO — none. Master track lifts gently under the transform then eases (subtle, never full).
 
