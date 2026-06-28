@@ -2301,6 +2301,86 @@ BEATSLM[37] = [
 ]
 
 
+BEATSLM[38] = [
+    # F1 - whimsical iridescent-glow hero (contained, product-at-face), push-in
+    (
+        "Cut to a medium-close chest-up in the bright whimsical studio: she is already cradling "
+        "the clear faceted Prism tube at her collarbone as a slow push eases in, the soft "
+        "pearl-white-to-pastel backdrop and drifting iridescent soap-bubbles behind her in "
+        "bright airy light; her left hand easy near her jaw.",
+        "The push settles as a face-framing strand drifts in the studio air and her bright gaze "
+        "eases to lens, an iridescent bubble drifting past, a bright playful quarter-smile "
+        "settling.",
+        "She holds the whimsical iridescent-glow look in the pearlescent oil-slick satin top, "
+        "the fabric catching rainbow-pearl light, eyes bright and direct (the line lands "
+        "later).",
+    ),
+    # F2 - build, gloss-swipe, first soap-bubbles; rack-focus product->eye
+    (
+        "Cut to a medium-close three-quarter, a rack-focus pulling from the tube to her eye: she "
+        "is already sweeping the Prism gloss soft across her lip and the first iridescent "
+        "soap-bubbles drift up around her catching rainbow light; gaze cast soft to the tube.",
+        "The iridescent gloss catches the bright key on her lip as her gaze brightens with "
+        "playful delight and a knowing micro-smile kindles, more soap-bubbles drifting in.",
+        "She holds the gloss poised near her lip, eyes bright and playful, the iridescent-glow "
+        "look intact (silent here).",
+    ),
+    # F3 - START clean (bubbles gathering, film beginning, NO full bloom yet), slow arc
+    (
+        "Cut to a medium chest-up on a fresh three-quarter angle: she eases the tube down and "
+        "opens her hand soft into the gathering soap-bubbles, drawing a slow bright breath as "
+        "the camera arcs a few degrees and the pastel backdrop swings behind with parallax; gaze "
+        "lifting.",
+        "The arc settles as her gaze lifts to lens with rising playful delight and a knowing "
+        "micro-smile forms, iridescent soap-bubbles gathering and drifting and an oil-slick "
+        "rainbow film just beginning to shimmer in the air, still the iridescent-glow look.",
+        "She holds the poised whimsical beat, the bubbles suspended and drifting, eyes bright "
+        "and delighted \u2014 the hush before the soap-film bloom (silent here).",
+    ),
+    # F4 - THE TRANSFORM, HELD ANGLE, smooth mid-clip soap-film bloom; first=iridescent-glow, last=iridescent-radiant
+    (
+        "Cut to an energized medium at a HELD angle (Veo first frame = the iridescent-glow Look "
+        "A still): she drifts both arms open from her body, already in motion \u2014 still the "
+        "iridescent-glow look, NO full bloom yet, a gentle push-with easing in, the angle fixed "
+        "for the whole clip.",
+        "The soap-film bloom BEGINS here, mid-clip: a cloud of iridescent soap-bubbles drifts "
+        "and an oil-slick rainbow film blooms across the air around her in one continuous "
+        "shimmering wavefront, thin-film rainbow sheen rippling across the bubbles and her "
+        "shoulder and the satin exactly where it passes \u2014 believable real soap-film optics "
+        "(true thin-film interference shifting with the angle), bubbles riding real air drift "
+        "(no cheap sparkles), her face clear and bright-lit, eyes brightening in playful wonder "
+        "(angle held, identity locked).",
+        "The bloom completes and the look settles smoothly and fully into the iridescent-radiant "
+        "after-look of the Veo last-frame still (Frame 5's image) \u2014 a bright oil-slick "
+        "rainbow shimmer drifted around her in the airy studio, resolved and held through the "
+        "final beat, no last-second pop; a bright delighted calm landing in her eyes.",
+    ),
+    # F5 - END iridescent-radiant reveal, hand to tube, spoken line
+    (
+        "Cut to a medium close on a new angle in the bright airy studio: she is already in the "
+        "iridescent-radiant after-look, easing both hands open and drifting her right back "
+        "toward the Prism tube at her collarbone with an easy roll of the shoulder; gaze bright "
+        "to lens.",
+        "She delivers \u201ccatch the light, catch the magic.\u201d to lens with a bright "
+        "playful smile and natural lip-sync, a settling soap-bubble catching a rainbow glint, "
+        "eyes bright and delighted.",
+        "She holds the iridescent-radiant whimsical look, the tube cradled soft, eyes bright and "
+        "direct.",
+    ),
+    # F6 - loop close, cradle tube matched to F1
+    (
+        "Cut to a medium-close chest-up matched to Frame 1: she returns her right hand to cradle "
+        "the clear faceted Prism tube soft at her collarbone and her left easy near her jaw "
+        "exactly as in Frame 1 as the camera settles to the opening framing.",
+        "She eases her bright gaze back to lens on a soft breath with the composed playful "
+        "quarter-smile, the iridescent shimmer resolving back toward the opening iridescent-glow "
+        "look to seed the loop.",
+        "She lands precisely on the Frame 1 pose and gaze, bright and playful in the airy studio "
+        "\u2014 a seamless loop seam.",
+    ),
+]
+
+
 def build_block(beats):
     return (
         BREAKDOWN_HEADER + "\n"
