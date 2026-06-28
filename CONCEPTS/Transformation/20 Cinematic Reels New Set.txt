@@ -8003,7 +8003,7 @@ Hair: a sleek low bun with a few face-framing strands, color locked to reference
 
 Makeup: warm dewy glow: luminous skin, a soft warm-rose lip, gilded-amber lids, real pores.
 
-Hero Movement / Impossible Move: apron-to-couture flare — the rising swirl of flour, steam and spice-light re-plates her apron into a flowing couture gown.
+Hero Movement / Impossible Move: apron-to-couture flare — contained MID-CLIP at a held camera angle: the rising swirl of flour, steam and spice-light re-plates her apron into a flowing couture gown by believable real kitchen physics (real flour-dust drift, steam and flame-curl, dreamy but grounded, no cheap sparkles). Veo first/last-frame continuity (Frame 4 image = cream chef's set Look A = first frame, Frame 5 image = couture-gown Look B = last frame); every frame join is a hard match-cut to a new angle.
 
 Mood: WARM-ELEGANT, lively, gourmet.
 
@@ -8249,44 +8249,44 @@ LOOP LOGIC: the flare-up bridges to the gown transform.
 
 ## Frame 4 of 6 — IMAGE PROMPT (TRANSFORM — APRON-TO-COUTURE FLARE)
 
-ANGLE & SHOT SIZE: front-on FULL/wide hero, Aira at the flare apex as the swirl re-plates her apron into a flowing saffron-and-cream couture gown, spice-light flung outward.
+ANGLE & SHOT SIZE: front-on FULL/wide hero, Aira at the marble island in her cream chef's set, the first swirl of flour, steam and spice-light just rising around her, copper pans gleaming overhead — the clean Look A the clip opens on, the gown NOT yet re-plated.
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the START frame of the transform CLIP — render her fully in the cream chef's set Look A (the exact still the Frame-4 video opens on, and Veo's FIRST frame): the cream chef's apron-set, the first swirl of flour, steam and spice-light just rising (the couture gown NOT yet re-plated). The apron-to-couture flare happens MID-CLIP at this same HELD camera angle (she may turn, the camera holds / push-with, never an angle rotation; the rising swirl re-plates the apron into the flowing saffron-and-cream couture gown by believable real kitchen physics — real flour-dust drift, steam and flame-curl, no cheap sparkles), resolving into Frame 5's couture-gown image (Veo's LAST frame). Her face and proportions stay constant. Do NOT depict the gown re-plated in this still and do NOT invent a new face, new hands or new bone structure.
 
-WARDROBE: the cream apron fully re-plated into a flowing saffron-and-cream couture gown of plated silk and spice-light, modest neckline and length, edges streaming warm light.
+WARDROBE: the cream chef's apron-set at its best, modest neckline and length, fully intact (the saffron-and-cream couture gown not yet re-plated).
 
-FOOTWEAR: copper-leather heels resolved.
+FOOTWEAR: simple copper-leather flats on the kitchen floor.
 
-EYEWEAR: glasses up; a delicate gilded brow-piece forming (clean radiant face).
+EYEWEAR: glasses up (clean radiant face).
 
-ACCESSORIES: a forming gold-thread collar, spice-vial pendant gleaming, gold studs.
+ACCESSORIES: a spice-vial pendant and gold studs — the kitchen look.
 
-HAIR: the bun loosening, strands fanning in the warm updraft, spice-light-lit.
+HAIR: a soft bun.
 
-MAKEUP: warm dewy glow at full luminous sheen, warm-rose lip, gilded-amber highlight blazing.
+MAKEUP: a warm dewy glow, warm-rose lip; real pores and fine vellus texture.
 
-HANDS & NAILS: both arms opening as the gown re-plates, fingers gracefully splayed; warm-nude nails.
+HANDS & NAILS: both hands easing back from the copper pan, fingers relaxed; warm-nude nails, neat cuticles.
 
-FACIAL MICRO-DYNAMICS: a radiant awed smile, lips parted on a delighted breath, eyes wide with wonder, brows lifted.
+FACIAL MICRO-DYNAMICS: a warm anticipatory gaze bright on the rising swirl, lips parting on a held breath — fully recognizable, identity-locked, ready for the flare mid-clip.
 
-BODY POSTURE & WEIGHT: flare apex mid-spin, body lengthening upward, arms blooming — full of spinning lifting momentum, never frozen-stiff.
+BODY POSTURE & WEIGHT: rising at the marble island, weight settling, arms beginning to open — poised, the instant before the flare.
 
-KINETIC STILLNESS (8 layers): (1) the swirl re-plating the gown; (2) spice-light forming the bodice; (3) flour-motes flung in slow arcs; (4) the bun loosening; (5) a slow breath; (6) the brow-piece settling; (7) range glow sweeping; (8) lashes flaring.
+KINETIC STILLNESS (8 layers): (1) the first swirl of flour and steam rising; (2) copper pans gleaming overhead in the warm kitchen; (3) a bun-strand lifting; (4) a curl of flame from the pan; (5) a held breath; (6) the spice-vial pendant glinting; (7) the apron rippling; (8) lashes settling on a blink.
 
-SPATIAL LOGIC: FOREGROUND — flung spice-light nearest lens, sharp. MIDGROUND — Aira and the re-plating gown. BACKGROUND — the warm kitchen, clean for the flare to read.
+SPATIAL LOGIC: FOREGROUND — the rising flour-and-spice swirl nearest lens, soft. MIDGROUND — Aira in the chef's set, the hero. BACKGROUND — the copper kitchen with hanging pans and the marble island, the world present and warm.
 
-LIGHTING: KEY — warm range-and-pendant glow igniting the gown. FILL — cream ambient. RIM — amber-rim lighting the silk translucent. PRACTICAL — flame, pendants. SEPARATION — luminous gown vs warm depth. BOUNCE — marble kick.
+LIGHTING: KEY — warm range glow. FILL — cream ambient. RIM — amber-rim on her shoulder and bun. PRACTICAL — flame, pendant lamps. SEPARATION — figure vs warm depth. BOUNCE — marble kick.
 
-LENS + DOF + BOKEH: 35mm, f/2.8; focus on Aira and the re-plating gown; flung spice-light as bokeh; background creamy.
+LENS + DOF + BOKEH: 35mm, f/2.8; focus on Aira; the copper kitchen as soft warm bokeh, clearly present behind.
 
-COMPOSITION: 9:16, the flare as a dynamic upward burst, Aira centred-spinning, headroom for the light.
-SUBJECT FRAMING & POSITION: A front-on full/wide hero at the flare apex, the swirl re-plating her apron into a flowing saffron-and-cream couture gown, spice-light flung. The complete figure is in frame, centred at the flare apex mid-spin, body lengthening upward, arms blooming. Camera at full/wide distance, spice-light radiating around her. She faces front, centred and spinning, dominant in frame. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+COMPOSITION: 9:16, Aira a warm vertical at the island, the kitchen behind, headroom for the flare.
+SUBJECT FRAMING & POSITION: A front-on full/wide hero in the cream chef's set Look A, the first swirl just rising — the clean still the transform clip opens on. The complete figure is in frame, centred at the marble island, the copper kitchen present behind. Camera at full/wide distance. She faces front, centred. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
-ATMOSPHERE: warm awe — the kitchen plating her into couture.
+ATMOSPHERE: warm anticipation — the breath before the kitchen plates her into couture.
 
-COLOUR GRADE: vivid warm gourmet at peak luminosity, translucent saffron silk, glossy speculars, full mid-tone.
+COLOUR GRADE: warm gourmet tones balanced (rich saffron-and-cream warmth but controlled, never blown out or peak), glossy speculars, full mid-tone.
 
-TEXTURE & MICRO-DETAIL: silk re-plating from apron, spice-light detail, gold-thread, light-lit skin, loosening bun.
+TEXTURE & MICRO-DETAIL: cream apron weave, flour-dust, steam, warm skin, bun detail.
 
 NEGATIVE: (as Frame 1) plus identity drift, melted features, immodest exposure, broken swirl physics, plastic skin.
 
@@ -8299,9 +8299,9 @@ SHOT TYPE & ANGLE: front-on full/wide hero, subject fills ~55%, spinning centred
 LENS: 35mm, f/2.8.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Front-on full/wide hero, spinning centred: she is already reaching the flare apex as a smooth orbit glides around her, spice-light whirling; gaze bright with the turn.
-- [00:02–00:04] The swirl re-plates her apron into the flowing saffron-and-cream couture gown as the orbit keeps gliding through the suspended embers; eyes widening in radiant awe, lips parting.
-- [00:04–00:06] Her arms open and a radiant awed smile lands, spice-light flung outward on real arcs, eyes alight.
+- [00:00–00:02] Cut to a front-on full/wide hero at a HELD angle (Veo first frame = the cream chef's set Look A still): already in motion, a gentle push-with easing in as the first swirl of flour, steam and spice-light rises around her — the chef's set fully intact, the gown NOT yet re-plated, the copper kitchen warm behind; gaze bright with the rising swirl.
+- [00:02–00:04] The flare BEGINS here, mid-clip: the rising swirl of flour, steam and spice-light re-plates her apron smoothly into the flowing saffron-and-cream couture gown exactly where it wraps — believable real kitchen physics, real flour-dust drift, steam and flame-curl on true arcs (no cheap sparkles), the warm kitchen behind, the camera angle held as she turns; eyes widening in radiant awe.
+- [00:04–00:06] The flare completes and the look settles smoothly and fully into the saffron-and-cream couture gown of Frame 5's still (Veo's LAST frame), spice-light flung on real arcs — a radiant awed smile landing, no last-second snap.
 
 FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
@@ -8313,7 +8313,7 @@ FABRIC/HAIR/PROP PHYSICS: apron-to-silk transition obeys swirl then cloth dynami
 
 FOOTWORK & BODY FLOW: a clean spotting spin on the balls of the feet, the body uncoiling tall.
 
-TRANSITION / IMPOSSIBLE MOVE: THE hero move — the swirl of flour, steam and spice-light re-plates her apron into a couture gown; locked flare keyframe.
+TRANSITION / IMPOSSIBLE MOVE: THE hero move, contained mid-clip at a held camera angle (she may turn, the camera holds / push-with, never an angle rotation) — the rising swirl of flour, steam and spice-light re-plates her apron into the couture gown by believable real kitchen physics; Veo first frame = this frame's cream chef's set Look A image, last frame = Frame 5's couture-gown image; every frame join is a hard match-cut to a new angle.
 
 LIGHTING-IN-MOTION: warm range glow ignites the silk translucent as it forms; flare-glow sweeps the kitchen.
 
