@@ -112,6 +112,88 @@ BEATSLM[1] = [
 ]
 
 
+BEATSLM[3] = [
+    # F1 - saree Look A establishing, alive lateral track, cut in
+    (
+        "Cut to a medium-wide thigh-up tracking shot in the marigold-lit haveli courtyard: the "
+        "camera dollies laterally to settle on her as she steps her weight onto the back leg "
+        "and rests her right hand soft at the gold zari pallu over her shoulder, the sandstone "
+        "arches and incense haze sliding behind with real parallax; a regal quarter-smile "
+        "holding.",
+        "The track eases to rest as a face-framing tendril shifts in the courtyard draft and "
+        "her warm gaze begins to lift, the regal quarter-smile settling.",
+        "She holds the warm regal saree look, eyes warm and direct, the gold zari glinting in "
+        "the tungsten glow (silent here).",
+    ),
+    # F2 - saree, push-with raising the pallu fold, cut to a closer three-quarter
+    (
+        "Cut to a medium-close three-quarter on the pallu: she is already raising a fold of the "
+        "gold zari pallu near her collarbone and turning it into the warm key as the camera "
+        "pushes with her hand; gaze lowering to the gold thread.",
+        "A warm specular travels the zari as her gaze warms with quiet focus and a knowing "
+        "micro-smile kindles.",
+        "She studies the glowing pallu, eyes steady and warm, lips parting a millimetre in "
+        "regal calm \u2014 still fully saree.",
+    ),
+    # F3 - saree clean (NO unwind yet), slow arc to a fresh angle, cut
+    (
+        "Cut to a medium chest-up on a fresh three-quarter angle: she eases both hands open "
+        "from her body as if to release the drape, drawing a slow breath as the camera arcs a "
+        "few degrees and the courtyard swings behind with parallax; gaze beginning to lift.",
+        "The arc settles as her gaze lifts to lens with rising spirit and a knowing micro-smile "
+        "forms, the magenta silk still richly draped and fully intact.",
+        "She holds the poised saree beat, hands open and ready, eyes bright and spirited \u2014 "
+        "the breath before the unwind (silent here).",
+    ),
+    # F4 - THE TRANSFORM, HELD ANGLE, smooth mid-clip morph; Veo first=saree still, last=streetwear still
+    (
+        "Cut to an energized medium at a HELD angle (Veo first frame = the magenta-saree Look A "
+        "still): she opens her arms, already in motion \u2014 the saree fully draped and intact, "
+        "NO change yet, a gentle push-with easing in, the angle fixed for the whole clip.",
+        "The morph BEGINS here, mid-clip: a cooling unwind-front starts at the pallu on her "
+        "shoulder and spirals smoothly down and around her in one continuous ribbon, the "
+        "magenta silk and gold zari unwinding and reforming into the cream-and-graphite bomber "
+        "and tapered cargos exactly where it passes \u2014 gradual and liquid, never a snap; "
+        "eyes bright with spirited joy as it crosses (angle held, identity locked).",
+        "The ribbon completes its spiral and the look settles smoothly and fully into the "
+        "streetwear Look B of the Veo last-frame still (Frame 5's image), resolved and held "
+        "through the final beat \u2014 no last-second pop; an easy cool confidence landing in "
+        "her eyes.",
+    ),
+    # F5 - streetwear Look B reveal, cut to a NEW angle, adjust bomber collar
+    (
+        "Cut to a medium close on a new angle in the cool mural-street light: she is already in "
+        "the cream-and-graphite bomber and cargos, reaching up to adjust the bomber collar with "
+        "an easy roll of the shoulder; gaze easing to lens.",
+        "A confident smile eases to lens on a slow cool breath, the last motes settling, eyes "
+        "relaxed and direct.",
+        "She holds the cool easy streetwear look, the bomber settling soft, eyes relaxed and "
+        "bright (silent here).",
+    ),
+    # F6 - streetwear spoken line, cut to a fresh angle, push-with the turn
+    (
+        "Cut to a medium chest-up on a fresh angle: she shifts her weight with an easy "
+        "six-degree turn and opens her right hand in a relaxed gesture as the camera eases with "
+        "her; gaze easy to lens.",
+        "She delivers \u201cSaree to streetwear. Same roots, new stride.\u201d to lens with a "
+        "soft knowing smile and natural lip-sync, the small gold hoops catching light, eyes "
+        "warm and cool-confident.",
+        "She holds the cool easy look as the bomber settles, the smile easing into relaxed "
+        "warmth.",
+    ),
+    # F7 - loop close, cut back to match Frame 1 saree courtyard
+    (
+        "Cut to a medium-wide thigh-up matched to Frame 1: she returns her right hand to rest "
+        "soft at the zari pallu over her shoulder and settles her weight onto the back leg "
+        "exactly as in Frame 1 as the camera settles to the opening framing.",
+        "She eases her gaze back to lens on a slow breath with the composed regal quarter-smile, "
+        "the cool street palette resolving toward the warm courtyard opening to seed the loop.",
+        "She lands precisely on the Frame 1 pose and gaze, weight settled and regal \u2014 a "
+        "seamless loop seam.",
+    ),
+]
+
+
 def build_block(beats):
     return (
         BREAKDOWN_HEADER + "\n"

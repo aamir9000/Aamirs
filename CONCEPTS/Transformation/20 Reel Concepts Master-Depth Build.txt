@@ -1187,7 +1187,7 @@ Footwear: SAREE — gold embellished block-heel juttis; STREET — chunky off-wh
 
 Accessories: SAREE — gold jhumka earrings, a fine maang-tikka and a stack of gold bangles on the right wrist; STREET — small gold hoops, a slim crossbody bag and a soft cap held in hand; one statement at a time, never cluttered.
 
-Movement (one impossible move): the drape-unwind to streetwear — the saree pallu and pleats unwind in a single spiralling ribbon around her and reform as the streetwear along the same wavefront (locked transform keyframes: START Frame 3 → END Frame 5, signature beat Frame 4).
+Movement (one impossible move): the drape-unwind to streetwear — the saree pallu and pleats unwind in a single spiralling ribbon around her and reform as the streetwear. The change occurs MID-CLIP inside Frame 4 at a HELD angle (the clip opens fully in the saree, the unwind spirals through in its middle, and it settles resolved in streetwear); the camera may travel with her but never shifts its angle during the change. Continuity is via Veo first/last-frame: Frame 4's image (saree Look A) = the clip's FIRST frame, Frame 5's image (streetwear Look B) = the LAST frame, so the clip ends exactly on the next still. Every other frame join is a hard CUT to a new angle. Frames 1–3 = saree Look A, Frame 4 = the transform clip, Frames 5–7 = streetwear Look B.
 
 Concept Line: “Saree to streetwear. Same roots, new stride.”
 
@@ -1261,9 +1261,9 @@ SHOT TYPE: medium-wide, thigh-up, subject fills about 55% of the vertical frame.
 LENS: 35mm, f/2.2, smooth warm background fall-off.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Medium-wide thigh-up in the warm haveli courtyard: a slow push-in is already gliding toward her as she settles her weight onto the back leg and rests her right hand softly at the zari pallu over her shoulder, the composed regal quarter-smile holding; marigold-tungsten glow and incense haze around her.
-- [00:02–00:04] The push continues as a face-framing tendril shifts in the courtyard draft, her warm gaze beginning to lift; a regal calm in her eyes.
-- [00:04–00:06] She lifts her warm gaze to lens on a soft inhale, the regal quarter-smile settling, eyes warm and direct.
+- [00:00–00:02] Cut to a medium-wide thigh-up tracking shot in the marigold-lit haveli courtyard: the camera dollies laterally to settle on her as she steps her weight onto the back leg and rests her right hand soft at the gold zari pallu over her shoulder, the sandstone arches and incense haze sliding behind with real parallax; a regal quarter-smile holding.
+- [00:02–00:04] The track eases to rest as a face-framing tendril shifts in the courtyard draft and her warm gaze begins to lift, the regal quarter-smile settling.
+- [00:04–00:06] She holds the warm regal saree look, eyes warm and direct, the gold zari glinting in the tungsten glow (silent here).
 
 OBJECT ACTION WITH TIMING: 0.0–6.0s — one warm specular travels slowly down the silk pallu, the gold bangles chime-glint softly as the wrist settles, and incense haze drifts through the arches behind her. Environmental motion only, no object pop-in.
 
@@ -1335,9 +1335,9 @@ SHOT TYPE: medium close, chest-up, subject and raised zari pallu fill about 58% 
 LENS: 85mm, f/2.0.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Medium close, chest-up: the slow push continues with a faint tilt-up already following her hand as she raises a fold of the zari pallu near her collarbone and turns it into the warm key; gaze lowering to the gold thread.
-- [00:02–00:04] The tilt rides the pallu as the gold zari catches a warm specular, her gaze warming with quiet focus and a knowing micro-smile kindling.
-- [00:04–00:06] The pallu glows in the tungsten light, her eyes steady on the thread, lips parting a millimetre in warm anticipation.
+- [00:00–00:02] Cut to a medium-close three-quarter on the pallu: she is already raising a fold of the gold zari pallu near her collarbone and turning it into the warm key as the camera pushes with her hand; gaze lowering to the gold thread.
+- [00:02–00:04] A warm specular travels the zari as her gaze warms with quiet focus and a knowing micro-smile kindles.
+- [00:04–00:06] She studies the glowing pallu, eyes steady and warm, lips parting a millimetre in regal calm — still fully saree.
 
 OBJECT ACTION WITH TIMING: 0.0–6.0s — a warm specular travels along the raised zari as it turns, and the first faint unwind shimmer breathes at the pallu’s edge; incense drifts behind. Environmental and worn-object motion only, no pop-in.
 
@@ -1357,7 +1357,7 @@ NEGATIVE: identity drift, face or hand warp, extra or fused fingers, duplicate p
 
 ### Frame 3 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the locked START keyframe of the drape-unwind — face fully recognizable, still the warm saree look, the pallu and pleats just beginning to lift and spiral at the edges. Lock this START so Frame 4’s spiral sweep interpolates cleanly to the full streetwear END (Frame 5); the locked element is HER — interpolate the drape and wardrobe around her, never her face.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. SHOT NOTE: a clean saree-look (Look A) beat at its OWN cut/angle — the warm magenta saree fully draped and intact; the unwind does NOT happen here (it happens mid-clip inside Frame 4). Build quiet spirited anticipation only; this is one of the three saree frames before the change.
 
 EYE COLOUR: warm dark-brown irises with faint amber flecks, a crisp twin catchlight, gaze lifting to lens with rising spirit, locked to reference.
 
@@ -1383,7 +1383,7 @@ SPATIAL LOGIC: FOREGROUND — the rippling pallu and first warm motes nearest le
 
 LIGHTING: KEY — warm tungsten key feathered above-front, the first cool spill creeping in. FILL — soft bounce below (gentle clamshell). RIM — a soft rim firing the rippling edges into points. PRACTICAL — the courtyard glow beginning to cool. SEPARATION — arches deep so she reads about 2 stops up. BOUNCE — a soft kick lighting the ripple.
 
-FRAMING: ASPECT 9:16; medium, chest-up, 11% headroom, the rippling pallu entering the lower third, clean negative space camera-left to receive the spiral. (Camera distance locked here as the transform anchor.)
+FRAMING: ASPECT 9:16; medium, chest-up, 11% headroom, the rippling pallu entering the lower third, clean negative space camera-left to receive the spiral.
 SUBJECT FRAMING & POSITION: A medium framing holds Aira at about 11% headroom, the rippling pallu entering the lower third within the saree-to-streetwear transformation world. Her torso is turned about five degrees to open the right shoulder in a near-frontal address, with her weight on the back leg over a soft hip counter-tilt and the front shoulder dropped a touch. The camera holds a mid distance with the figure centred and clean clean negative space held camera-left. She faces front to the lens, composed and alive in the beat. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 LENS + DOF + BOKEH: 50mm, f/2.0; focus split between her near eye and the rippling pallu so both read crisp; the arches melting to a smooth field; soft blooms off the first warm motes; gentle roll-off, no clipping.
@@ -1409,9 +1409,9 @@ SHOT TYPE: medium, chest-up, subject and rippling pallu fill about 60% of the ve
 LENS: 50mm, f/2.0, smooth background fall-off.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Medium chest-up: a slow push is already tracking the rippling pallu as she eases both hands open from her body as if to release the drape; gaze beginning to lift.
-- [00:02–00:04] The push holds as her gaze lifts to lens with rising spirit and a knowing micro-smile forms, the silk beginning to stir.
-- [00:04–00:06] The pallu ripples and lifts, cueing the unwind, her gaze bright and spirited.
+- [00:00–00:02] Cut to a medium chest-up on a fresh three-quarter angle: she eases both hands open from her body as if to release the drape, drawing a slow breath as the camera arcs a few degrees and the courtyard swings behind with parallax; gaze beginning to lift.
+- [00:02–00:04] The arc settles as her gaze lifts to lens with rising spirit and a knowing micro-smile forms, the magenta silk still richly draped and fully intact.
+- [00:04–00:06] She holds the poised saree beat, hands open and ready, eyes bright and spirited — the breath before the unwind (silent here).
 
 OBJECT ACTION WITH TIMING: 0.0–6.0s — the saree pallu ripples with a slow optical shimmer and the first warm silk-light motes gather and brighten in the air around her; incense drifts behind. Environmental motion only, no pop-in.
 
@@ -1431,46 +1431,46 @@ NEGATIVE: identity drift, face or hand warp, extra or fused fingers, duplicate p
 
 ### Frame 4 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the one impossible move — the drape-unwind to streetwear. LOCK the START (Frame 3, face clear, warm saree, pallu rippling) and the END (Frame 5, fully streetwear, cool after-look). Mid-sweep the face stays clear and recognizable, softly framed (never buried) by the spiralling drape; interpolate strictly between the locked keyframes — do NOT invent a new face, new hands or new bone structure beneath the unwind. Spirited and confident, true cloth physics, painterly not chaotic.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the START frame of the transform CLIP — render her fully in the warm magenta-saree Look A (the exact still the Frame-4 video opens on, and Veo's FIRST frame for the morph). The drape-unwind to streetwear happens MID-CLIP in the video at this same HELD angle; the camera may push/travel with her but never rotates its angle through the change. The resolved streetwear Look B is Frame 5's image (Veo's LAST frame). Do NOT depict the morph in this still and do NOT invent a new face, new hands or new bone structure.
 
-EYE COLOUR: warm dark-brown irises with faint amber flecks, luminous with spirited joy, a crisp twin catchlight, locked to reference (eye colour holds through the transform).
+EYE COLOUR: warm dark-brown irises with faint amber flecks, a crisp twin catchlight, gaze lifting into the move, locked to reference.
 
-WARDROBE (refined): the magenta silk saree unwinding at its richest as the spiral crosses — the pallu and pleats unwind into a single travelling ribbon and reform as the oversized cream-and-graphite graphic bomber, high-neck tee and wide cargo trousers along the same wavefront, modest throughout, never revealing.
+WARDROBE: the rich deep-magenta silk saree with its wide gold zari border, draped fully modest over the long-sleeve high-neck gold-worked blouse, the pleated pallu neat over the shoulder, fully intact and pristine as she opens her arms, fully modest.
 
-HAIR: the sleek low wrapped ponytail catching a sweeping ribbon of cooling light mid-motion, the crown lit bright, tendrils lively; colour locked beneath the sheen.
+HAIR: the sleek low glossy wrapped ponytail at the nape, a mirror-smooth crown, two soft face-framing tendrils at the temples; colour locked to reference.
 
-MAKEUP: mid-sweep — the warm regal glow cooling to a fresh clean-girl base, the lid easing from gold-bronze toward soft neutral, the lip easing from rose-berry toward glossy nude; real pores beneath.
+MAKEUP: the warm regal look — a soft gold-bronze lid, a warm rose-berry lip, a clean glow; real pores.
 
-FOOTWEAR: mid-unwind the gold juttis reform toward chunky off-white sneakers in the same travelling wave, continuity of grounding held.
+FOOTWEAR: the gold juttis, grounded, glimpsed low.
 
-ACCESSORIES: the jhumkas and bangles dissolving toward small gold hoops and the slim crossbody bag, one piece resolving at a time.
+ACCESSORIES: the jhumkas and a set of bangles catching the warm tungsten glow, one statement at a time.
 
-HANDS & NAILS: both arms drifting open through the spiral, palms turning as the ribbon crosses her; natural nail-bed colour easing from rose-nude toward soft-nude, neat cuticles, no white-knuckle tension.
+HANDS & NAILS: both arms opening from the body, palms beginning to turn as she lifts into the move, fingers naturally curved with relaxed nail-beds; short rose-nude nails, neat cuticles, no white-knuckle tension.
 
-FACIAL MICRO-DYNAMICS: eyes luminous with spirited joy, a gentle parted-lip delight, a clean confident energy — face clear and framed by the spiralling drape, identity strictly held to reference.
+FACIAL MICRO-DYNAMICS: eyes lifting with rising spirited anticipation, lips parting on a held breath, a knowing regal micro-smile — composed and warm, face fully recognizable and identity-locked, ready for the unwind to cross mid-clip.
 
-BODY POSTURE & WEIGHT: mid-unwind the spine lengthens and the shoulders open with easy confidence, weight rolling smooth between the feet — grounded real physics, modest throughout.
+BODY POSTURE & WEIGHT: front-facing with the torso rotated about 4°, the spine lengthening and the shoulders opening as the weight rolls smooth between the feet, chin level — grounded real physics, alive and regal.
 
-KINETIC STILLNESS (8 layers): (1) the unwind ribbon spiralling around her in a warm-to-cool arc at peak; (2) a cooling shimmer racing across her cheek and collarbone; (3) the tendrils and reforming fabric catching travelling light mid-spiral; (4) silk-light motes and fine dust sparkling through the field; (5) the bomber’s weave blooming with cool highlight where the silk was; (6) speculars multiplying along the unwinding edge; (7) the key shifting a touch cooler through the spiral; (8) her chest mid a slow spirited breath.
+KINETIC STILLNESS (8 layers): (1) a face-framing tendril shifting in the courtyard draft; (2) a warm specular sliding the gold zari border; (3) incense haze drifting through the marigold-tungsten glow behind her; (4) the courtyard glow flickering imperceptibly off a sandstone arch; (5) chest rising on a soft inhale as she opens her arms; (6) a hairline glint travelling the sleek crown; (7) the silk breathing with a micro-shift of drape as her ribcage expands; (8) a slow eyelash settle completing a calm blink.
 
-SPATIAL LOGIC: FOREGROUND — a spiralling silk ribbon nearest lens, soft. MIDGROUND — Aira mid-spiral, the streetwear assembling, the hero. BACKGROUND — sandstone arches cooling to a soft concrete-and-mural falloff and a cool bloom.
+SPATIAL LOGIC: FOREGROUND — an opening hand and the zari pallu nearest lens at roughly 18% depth, soft. MIDGROUND — Aira centred, the saree hero at the start of the move. BACKGROUND — sandstone arches softly defocused with a warm gradient behind her head for clean separation, no clutter.
 
-LIGHTING: KEY — key cooling through the sweep. FILL — soft bounce below (gentle clamshell). RIM — a bright soft rim raking the unwinding ribbon and the pony (hero light on the motion). PRACTICAL — the courtyard glow giving way to city light. SEPARATION — the spiral and faint haze. BOUNCE — soft kicks multiplying across the airborne motes.
+LIGHTING: KEY — a warm soft beauty key feathered above-front. FILL — a soft warm bounce below (gentle clamshell). RIM — a warm rim skimming the crown and the pallu edge. PRACTICAL — the marigold-tungsten courtyard glow. SEPARATION — the arches pulled deep so she reads about 2 stops up. BOUNCE — a soft gold kick on the silk.
 
-FRAMING: ASPECT 9:16; energized medium, Aira centred with the spiral filling the lower frame, 10% headroom, slight push for intimacy. (Camera distance locked to Frames 3 and 5.)
-SUBJECT FRAMING & POSITION: An energized medium framing opens around Aira at about 10% headroom as the spiral fills the lower frame, a slight push easing in. Her spine lengthens and her shoulders open as the weight rolls smooth between the feet in grounded real-physics motion. The camera holds a mid distance easing in for intimacy against the saree-to-streetwear transformation world, Aira the centred hero at the heart of the move. She is centred with clean negative space held camera-left, lifted at the peak of the transform and facing front to the lens. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+FRAMING: ASPECT 9:16; energized medium, Aira centred with the saree filling the lower frame, 10% headroom, the opening pose of the move — its own distinct cut/angle.
+SUBJECT FRAMING & POSITION: An energized medium framing opens around Aira at about 10% headroom in the warm haveli courtyard, the magenta saree fully intact as the transform clip begins. Her spine lengthens and her shoulders open as the weight rolls smooth between the feet in grounded real-physics motion. The camera holds a mid distance on its own fresh angle, a hard cut from Frame 3, with Aira the centred hero and clean negative space held camera-left, lifted at the start of the move and facing front to the lens. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
-LENS + DOF + BOKEH: 50mm, f/2.0; her face and the nearest spiralling silk tack sharp at the sweep-core, the closest fold melting into a soft creamy bokeh with specular blooms.
+LENS + DOF + BOKEH: 50mm, f/2.0; her face and the nearest zari detail tack sharp, the arches melting into a smooth warm field with soft speculars; gentle highlight roll-off, no clipping.
 
-COMPOSITION REFERENCE: the signature impossible beat — a drape-unwind to streetwear, spirited and painterly, heightened but identity-locked (transform logic / identity-through-transform).
+COMPOSITION REFERENCE: the start of the signature beat — saree Look A, warm and regal, the unwind held for the video's mid-clip.
 
-ATMOSPHERE: spirited, exhilarating, mind-bending — the moment heritage spirals into street and the light cools around her.
+ATMOSPHERE: warm, regal, spirited — the composed instant the transform clip begins.
 
-COLOR GRADE: a live cross-fade from warm gold-and-marigold to cool concrete-and-mural — amber cores giving way to soft cool highlights with controlled graffiti accents, clean uncrushed blacks, true specularity, balanced mid-tone (no harsh contrast, no garish oversaturation).
+COLOR GRADE: warm gold-and-marigold heritage grade — amber speculars, rich magenta, gold zari, clean uncrushed blacks, balanced mid-tone, no harsh contrast, no garish oversaturation.
 
-TEXTURE & MICRO-DETAIL: the unwinding edge reads as real lustrous silk giving way to a real brushed cotton-twill bomber weave with a printed graphic; the cooling shimmer reads as a real sheen on living skin; the bomber shows a real soft nap where the silk was; skin reads real with pores beneath the glow.
+TEXTURE & MICRO-DETAIL: the silk reads as real lustrous weave with a true gold-zari border; real skin micro-texture with peach-fuzz catching the warm rim; incense haze drifting through the glow.
 
-PHYSICS: true cloth transition physics — flowing silk giving way to structured streetwear with believable weight and inertia; the spiral obeys a single cooling key; face geometry constant; no melting, no invented anatomy.
+PHYSICS: gravity-true silk drape and hair fall; the specular tracks a single warm key; haze drifts on slow convection; weight grounded through both feet — no floating, no stiffness.
 
 NEGATIVE: mirrored, flipped, inverted, extra limbs, fused fingers, melted features, asymmetric eyes (unintentional), garbled text, floating shadows, duplicated subjects, low-res patches, plastic skin, over-smoothed skin, oversharpened, AI-generated artifacts, watermarks, signature, deformed hands, malformed teeth, joint cuts at ankle/knee/wrist/elbow/neck, amputated fingertips, cross-eyed, lazy eye, off-axis pupils, melted clothing, mismatched footwear, mannequin-stiff posture, dead eyes, statue-frozen energy, crushed muddy blacks, garish oversaturation, flat dull light, inventing a new face beneath the unwind, eye-colour drift, sexualization, de-aging.
 
@@ -1480,12 +1480,12 @@ IDENTITY (locked): Aira — same person every frame; face, bone structure, eye s
 
 SHOT TYPE: energized medium of the drape-unwind to streetwear (the hero move).
 
-LENS: 50mm, f/2.0. (Transform-anchor distance — matches Frames 3 and 5.)
+LENS: 50mm, f/2.0.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Energized medium: the push is already easing into a smooth gentle orbit as the saree unwinds in a warm spiralling ribbon around her and she opens her arms; gaze following the spiral.
-- [00:02–00:04] The orbit rides the hero beat as a cooling shimmer races across her and the fabric and ponytail catch travelling light, the magenta silk giving to the cream bomber and cargos (face clear, framed by the spiral, identity locked); eyes bright with spirited cool.
-- [00:04–00:06] The spiral settles and the streetwear resolves toward the reveal as the orbit eases; an easy cool confidence landing.
+- [00:00–00:02] Cut to an energized medium at a HELD angle (Veo first frame = the magenta-saree Look A still): she opens her arms, already in motion — the saree fully draped and intact, NO change yet, a gentle push-with easing in, the angle fixed for the whole clip.
+- [00:02–00:04] The morph BEGINS here, mid-clip: a cooling unwind-front starts at the pallu on her shoulder and spirals smoothly down and around her in one continuous ribbon, the magenta silk and gold zari unwinding and reforming into the cream-and-graphite bomber and tapered cargos exactly where it passes — gradual and liquid, never a snap; eyes bright with spirited joy as it crosses (angle held, identity locked).
+- [00:04–00:06] The ribbon completes its spiral and the look settles smoothly and fully into the streetwear Look B of the Veo last-frame still (Frame 5's image), resolved and held through the final beat — no last-second pop; an easy cool confidence landing in her eyes.
 
 OBJECT ACTION WITH TIMING: 0.0–6.0s — the magenta silk saree unwinds along one spiralling wavefront and reforms as the cream-and-graphite bomber, high-neck tee and cargo trousers, the gold juttis reform to sneakers and the jhumkas to hoops, silk-light motes sparkle through the field. One coherent transform, no extra objects, no pop-in.
 
@@ -1505,7 +1505,7 @@ NEGATIVE: identity drift, face or hand warp, extra or fused fingers, duplicate p
 
 ### Frame 5 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the locked END keyframe of the drape-unwind; it must resolve continuously out of the START keyframe in Frame 3 — same face, same hands, same camera distance, the saree now settled into modern streetwear. Do NOT invent a new face, new hands or new bone structure; this is the same Aira, spirited and cool, never replaced. Frame 3 (START) and Frame 5 (END) are the two anchors of the single transform.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. SHOT NOTE: this is the streetwear Look B reveal at its OWN cut/angle (a hard cut from the Frame-4 transform clip — a new angle/crop, and the Veo last-frame the morph resolves into). It carries the resolved streetwear look the Frame-4 clip ends on; the angle change masks any slight variation. Same Aira, spirited and cool, never replaced — do NOT invent a new face, new hands or new bone structure.
 
 EYE COLOUR: warm dark-brown irises with faint amber flecks, a crisp twin catchlight, gaze soft and direct, locked to reference (unchanged through the transform).
 
@@ -1531,7 +1531,7 @@ SPATIAL LOGIC: FOREGROUND — the adjusting hand and the bomber collar nearest l
 
 LIGHTING: KEY — a soft cool beauty key feathered above-front. FILL — soft cool bounce below (gentle clamshell). RIM — a soft cool rim skimming the pony and the bomber shoulder to separate her from the wall. PRACTICAL — soft city light. SEPARATION — the wall pulled deep so she reads about 2 stops up. BOUNCE — a soft cool kick on the bomber.
 
-FRAMING: ASPECT 9:16; medium close, chest-up, 11% headroom, the adjusting hand entering the lower third, clean cool negative space camera-left. (Camera distance matches Frames 3 and 4.)
+FRAMING: ASPECT 9:16; medium close, chest-up, 11% headroom, the adjusting hand entering the lower third, clean cool negative space camera-left.
 SUBJECT FRAMING & POSITION: A medium close framing holds Aira at about 11% headroom, the adjusting hand entering the lower third within the saree-to-streetwear transformation world. Her torso is turned about five degrees to open the right shoulder in a near-frontal address, with her weight on the back leg over a soft hip counter-tilt and the front shoulder dropped a touch. The camera holds an intimate beauty distance with the figure centred and clean clean cool negative space held camera-left. She faces front to the lens, composed and alive in the beat. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 LENS + DOF + BOKEH: 50mm, f/2.0; focus split between her near eye and the bomber collar so both read crisp; the wall melting to a smooth cool field; soft cool blooms off the settling motes; gentle roll-off, no clipping.
@@ -1554,12 +1554,12 @@ IDENTITY (locked): Aira — same person every frame; face, bone structure, eye s
 
 SHOT TYPE: medium close, chest-up, subject and bomber collar fill about 58% of the vertical frame.
 
-LENS: 50mm, f/2.0. (Transform-anchor distance — matches Frames 3 and 4.)
+LENS: 50mm, f/2.0.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Medium close, chest-up: the orbit is already easing back to a slow push as the streetwear resolves and she reaches up to adjust the bomber collar with an easy roll of the shoulder; gaze easing to lens, cooler mural-street light around her.
-- [00:02–00:04] The push settles as a confident smile eases to lens on a slow cool breath, the last motes settling.
-- [00:04–00:06] She holds the cool easy look, the bomber settling, eyes relaxed and direct.
+- [00:00–00:02] Cut to a medium close on a new angle in the cool mural-street light: she is already in the cream-and-graphite bomber and cargos, reaching up to adjust the bomber collar with an easy roll of the shoulder; gaze easing to lens.
+- [00:02–00:04] A confident smile eases to lens on a slow cool breath, the last motes settling, eyes relaxed and direct.
+- [00:04–00:06] She holds the cool easy streetwear look, the bomber settling soft, eyes relaxed and bright (silent here).
 
 OBJECT ACTION WITH TIMING: 0.0–6.0s — the bomber settles and the crossbody strap sways gently, a cool specular travels along the zip, and the last silk-light motes drift down and fade; cool city air drifts behind. Environmental motion only, no pop-in.
 
@@ -1631,8 +1631,8 @@ SHOT TYPE: medium, chest-up, subject fills about 58% of the vertical frame.
 LENS: 35mm, f/2.2.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Medium chest-up: a slow push is already gliding in as she shifts her weight with an easy six-degree turn and opens her right hand in a relaxed gesture; gaze easy to lens.
-- [00:02–00:04] She delivers “Saree to streetwear. Same roots, new stride.” to lens with a soft knowing smile and natural lip-sync, eyes warm and cool-confident.
+- [00:00–00:02] Cut to a medium chest-up on a fresh angle: she shifts her weight with an easy six-degree turn and opens her right hand in a relaxed gesture as the camera eases with her; gaze easy to lens.
+- [00:02–00:04] She delivers “Saree to streetwear. Same roots, new stride.” to lens with a soft knowing smile and natural lip-sync, the small gold hoops catching light, eyes warm and cool-confident.
 - [00:04–00:06] She holds the cool easy look as the bomber settles, the smile easing into relaxed warmth.
 
 OBJECT ACTION WITH TIMING: 0.0–4.8s — the bomber sways gently with the shift, the gold hoops swing a hair on real inertia, and a cool specular travels along the bomber zip; the crossbody strap sways and cool city air drifts behind. Environmental and worn-object motion only, no pop-in.
@@ -1679,7 +1679,7 @@ SPATIAL LOGIC: FOREGROUND — her hand at the pallu at roughly 20% depth, tack s
 
 LIGHTING: KEY — a soft key easing from cool back toward the warm Frame-1 tungsten key at the seam. FILL — soft bounce below (gentle clamshell). RIM — a soft rim on the pony easing from cool back toward gold. PRACTICAL — the courtyard glow re-warming. SEPARATION — the arches deep so she reads about 2 stops up. BOUNCE — a soft kick on the silk.
 
-FRAMING: ASPECT 9:16; medium-wide, thigh-up with footwear glimpsed low, 12% headroom — matched to Frame 1 for the seamless loop. (Camera distance returns to Frame 1.)
+FRAMING: ASPECT 9:16; medium-wide, thigh-up with footwear glimpsed low, 12% headroom — matched to Frame 1 for the seamless loop.
 SUBJECT FRAMING & POSITION: A medium-wide framing recovers the exact opening composition at about 12% headroom, matched to Frame 1 for a seamless loop within the saree-to-streetwear transformation world. Her torso is turned about five degrees to open the right shoulder in a near-frontal address, with her weight on the back leg over a soft hip counter-tilt and the front shoulder dropped a touch, returned precisely to the opening stance. The camera settles to a mid-wide distance with the figure centred and clean negative space held camera-left. She faces front to the lens, matched precisely for the loop. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 LENS + DOF + BOKEH: 35mm, f/2.2; focus split between her near eye and the hand at the pallu so both read crisp (matching Frame 1); the arches melting to a smooth warm field; gentle roll-off, no clipping.
@@ -1705,9 +1705,9 @@ SHOT TYPE: medium-wide, thigh-up, subject fills about 55% of the vertical frame 
 LENS: 35mm, f/2.2. (Returns to Frame 1 distance.)
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Medium-wide thigh-up matching Frame 1: the orbit is already easing to rest as a slow push resolves toward the opening framing and she returns her right hand to rest light at the pallu over her shoulder, settling her weight onto the back leg exactly as in Frame 1.
-- [00:02–00:04] The push settles as she eases her gaze back to lens on a slow breath with the composed regal quarter-smile, the street palette resolving toward the warm courtyard opening.
-- [00:04–00:06] She lands precisely on the Frame 1 pose and gaze, weight settled — a seamless loop seam.
+- [00:00–00:02] Cut to a medium-wide thigh-up matched to Frame 1: she returns her right hand to rest soft at the zari pallu over her shoulder and settles her weight onto the back leg exactly as in Frame 1 as the camera settles to the opening framing.
+- [00:02–00:04] She eases her gaze back to lens on a slow breath with the composed regal quarter-smile, the cool street palette resolving toward the warm courtyard opening to seed the loop.
+- [00:04–00:06] She lands precisely on the Frame 1 pose and gaze, weight settled and regal — a seamless loop seam.
 
 OBJECT ACTION WITH TIMING: 0.0–6.0s — the streetwear eases back to the saree presentation around her, a soft specular travels along the silk where the bomber specular once ran, the warm tungsten key re-kindles at the arch gradient, and the last cool air drifts and fades to seed the loop. Environmental motion only, no pop-in.
 
