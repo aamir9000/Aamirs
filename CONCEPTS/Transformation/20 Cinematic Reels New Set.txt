@@ -6021,7 +6021,7 @@ Hair: a soft low braid with a few loose strands and a small flower tuck, color l
 
 Makeup: warm festival glow: luminous skin, a soft rose-gold lip, softly defined kohl eyes, gold highlight, real pores.
 
-Hero Movement / Impossible Move: lantern-light transform — the warm light of rising lanterns streams down and weaves into a glowing festival gown.
+Hero Movement / Impossible Move: lantern-light transform — contained MID-CLIP at a held angle: the warm light of rising sky-lanterns streams down and weaves into a glowing festival gown by believable real lantern-light (real flame-buoyancy lifting the lanterns, dreamy but grounded, no cheap sparkles). Veo first/last-frame continuity (Frame 4 image = indigo-set Look A = first frame, Frame 5 image = glowing-gown Look B = last frame); every frame join is a hard match-cut to a new angle.
 
 Mood: WARM-WONDER, joyful, luminous.
 
@@ -6267,44 +6267,44 @@ LOOP LOGIC: the wind-up bridges to the release.
 
 ## Frame 4 of 6 — IMAGE PROMPT (TRANSFORM — LANTERN-LIGHT GOWN · SPOKEN LINE)
 
-ANGLE & SHOT SIZE: front-on FULL/wide hero, Aira releasing the lantern skyward as a thousand rise, their light streaming down to weave a glowing festival gown around her, arms opening.
+ANGLE & SHOT SIZE: front-on FULL/wide hero, Aira at the river's edge in her indigo set releasing a single lit lantern skyward, the first lanterns rising and the dark river mirroring their light — the clean Look A the clip opens on, the gown NOT yet woven.
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the START frame of the transform CLIP — render her fully in the indigo set Look A (the exact still the Frame-4 video opens on, and Veo's FIRST frame): the festival indigo set with dupatta, releasing a single lit sky-lantern upward (the lantern-light gown NOT yet woven). The lantern-light transform happens MID-CLIP at this same HELD angle (the camera push-with, never an angle rotation; as a thousand real sky-lanterns rise on real flame-buoyancy their warm light streams down and weaves the glowing festival gown — dreamy but grounded in real lantern-light, no cheap sparkles), resolving into Frame 5's glowing-gown image (Veo's LAST frame). Her face and proportions stay constant. Do NOT depict the gown woven in this still and do NOT invent a new face, new hands or new bone structure.
 
-WARDROBE: the indigo set being overlaid by a glowing gown woven of lantern-light and gold thread, modest neckline and length, edges streaming warm light.
+WARDROBE: the festival indigo set at its best, modest neckline and length, fully intact (the lantern-light gown not yet woven).
 
-FOOTWEAR: juttis resolving into gold-thread festival flats.
+FOOTWEAR: juttis on the riverbank.
 
-EYEWEAR: glasses pushed back up / brow-chain (clean radiant face).
+EYEWEAR: brow-chain (clean radiant face).
 
-ACCESSORIES: the released lantern rising above, a forming light-crown, glowing wrist-ribbon, bangles, garland.
+ACCESSORIES: a glowing wrist-ribbon, bangles and a garland — the festival look; the lit lantern in her hands releasing.
 
-HAIR: the braid loosening, strands fanning in the warm updraft, gold-lit.
+HAIR: a braid with the dupatta, strands stirring in the warm air.
 
-MAKEUP: festival glow at full luminous sheen, rose-gold lip, gold highlight blazing.
+MAKEUP: a festival glow, rose-gold lip; real pores and fine vellus texture.
 
-HANDS & NAILS: both arms opening upward releasing the lantern, fingers gracefully splayed; rose-gold nails.
+HANDS & NAILS: both hands lifting to release the lantern skyward, fingers relaxed; rose-gold nails, neat cuticles.
 
-FACIAL MICRO-DYNAMICS: a radiant joyful smile delivering the line, lips parted on delight, eyes wide with wonder, brows lifted.
+FACIAL MICRO-DYNAMICS: a joyful anticipatory gaze up to the rising lantern, lips parting before the line, eyes shining — radiant and fully recognizable, identity-locked, ready for the transform mid-clip.
 
-BODY POSTURE & WEIGHT: mid-rise on the balls of the feet, body lengthening upward, arms blooming — full of lifting momentum, never frozen.
+BODY POSTURE & WEIGHT: rising to her feet at the bank, weight settling, arms lifting to release — poised, the instant before the weave.
 
-KINETIC STILLNESS (8 layers): (1) lantern-light streaming down into the gown; (2) the gown forming and rippling; (3) light-motes flung in slow arcs; (4) hair fanning; (5) chest breathing on the line; (6) the light-crown settling; (7) a thousand lanterns rising; (8) lashes flaring.
+KINETIC STILLNESS (8 layers): (1) the first lanterns rising into the indigo sky; (2) the dark river mirroring the lights; (3) strands stirring in the warm air; (4) the released lantern climbing; (5) chest breathing before the line; (6) a wrist-ribbon glow; (7) the dupatta stirring; (8) lashes settling on a blink.
 
-SPATIAL LOGIC: FOREGROUND — flung light-motes nearest lens, sharp. MIDGROUND — Aira and the forming gown. BACKGROUND — the sky filling with lanterns, clean for the bloom.
+SPATIAL LOGIC: FOREGROUND — the releasing lantern in her hands, tack sharp. MIDGROUND — Aira in the indigo set, the hero. BACKGROUND — the riverside with a thousand lanterns beginning to rise and the dark river mirroring them, the festival world present and vast.
 
-LIGHTING: KEY — streaming lantern-gold light. FILL — indigo ambient. RIM — lantern-rim lighting the gown translucent. PRACTICAL — lanterns, string-lights. SEPARATION — luminous gown vs indigo sky. BOUNCE — gold underglow.
+LIGHTING: KEY — warm lantern-gold. FILL — indigo ambient. RIM — lantern-rim on her shoulder and braid. PRACTICAL — lanterns, string-lights. SEPARATION — figure vs indigo sky. BOUNCE — gold river underglow.
 
-LENS + DOF + BOKEH: 35mm, f/2.8; focus on Aira and the forming gown; rising lanterns as gold bokeh; background creamy.
+LENS + DOF + BOKEH: 35mm, f/2.8; focus on Aira and the lantern; the rising lanterns and river as soft gold bokeh, clearly present and vast behind.
 
-COMPOSITION: 9:16, upward light-stream as a dynamic vertical, Aira centred-rising, headroom for the lantern sky.
-SUBJECT FRAMING & POSITION: A front-on full/wide hero, Aira releasing the lantern skyward as a thousand rise, their light streaming down to weave a glowing festival gown. The complete figure is in frame, centred and rising on the balls of the feet, body lengthening upward, arms blooming. Camera at full/wide distance, the lantern-light streaming around her. She faces front, centred and rising, dominant in frame. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+COMPOSITION: 9:16, Aira a warm vertical at the bank, lanterns beginning to rise, headroom for the lantern sky.
+SUBJECT FRAMING & POSITION: A front-on full/wide hero, Aira at the river's edge in the indigo set Look A releasing a lantern — the clean still the transform clip opens on. The complete figure is in frame, centred, the riverside lantern world present behind. Camera at full/wide distance, lantern-sky headroom. She faces front, centred. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
-ATMOSPHERE: joyful wonder — the festival dressing her in light.
+ATMOSPHERE: joyful anticipation — the breath before the festival dresses her in light.
 
-COLOUR GRADE: vivid indigo-and-gold at peak luminosity, translucent light-gown, glossy speculars, full mid-tone.
+COLOUR GRADE: indigo-and-gold balanced (deep indigo ground with warm gold lantern accents — rich but controlled, never blown out or peak), translucent lantern-light, glossy speculars, full mid-tone.
 
-TEXTURE & MICRO-DETAIL: light weaving into couture, gold-mote detail, gilded skin, fanning hair, lip detail on the line.
+TEXTURE & MICRO-DETAIL: indigo-set weave, paper-lantern glow, gilded skin, dupatta weave.
 
 NEGATIVE: (as Frame 1) plus identity drift, melted features, immodest exposure, broken light physics, plastic skin.
 
@@ -6317,9 +6317,9 @@ SHOT TYPE & ANGLE: front-on full/wide hero, subject fills ~55%, rising in frame.
 LENS: 35mm, f/2.8.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Front-on full/wide hero: she is already releasing the lantern skyward as a crane begins to rise and orbit toward dead-front, a thousand lanterns lifting around her; gaze following them up, eyes shining.
-- [00:02–00:04] The streaming light pours down and weaves the glowing festival gown around her as the crane climbs; chin lifting, eyes widening in radiant wonder.
-- [00:04–00:06] Her arms open and a radiant smile lands as she delivers the spoken line to lens, the gown blazing with lantern-light, eyes joyful.
+- [00:00–00:02] Cut to a front-on full/wide hero at a HELD angle (Veo first frame = the indigo-set Look A still): already in motion, a gentle push-with easing in as she releases a single lit lantern skyward and the first of a thousand sky-lanterns lift around her — the indigo set fully intact, the gown NOT yet woven, the dark river mirroring the lights behind; gaze following the lantern up.
+- [00:02–00:04] The transform BEGINS here, mid-clip: as the real sky-lanterns rise on real flame-buoyancy their warm light streams down and weaves the glowing festival gown around her exactly where it passes — dreamy but grounded in real lantern-light (no cheap sparkles), the lantern-filled sky vast behind; chin lifting, eyes widening in radiant wonder (angle held, identity locked).
+- [00:04–00:06] The weave completes and the look settles smoothly and fully into the glowing festival gown of Frame 5's still (Veo's LAST frame), the gown blazing soft with lantern-light — a radiant joyful smile landing as she delivers the spoken line, no last-second snap.
 
 FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
@@ -6333,7 +6333,7 @@ FABRIC/HAIR/PROP PHYSICS: light-to-couture transition obeys glow then cloth dyna
 
 FOOTWORK & BODY FLOW: a soft push onto the balls of the feet into a tall lift, the body uncoiling.
 
-TRANSITION / IMPOSSIBLE MOVE: THE hero move — rising lantern-light streams down and weaves into a glowing festival gown; locked transform keyframe.
+TRANSITION / IMPOSSIBLE MOVE: THE hero move, contained mid-clip at a held angle (camera push-with, never an angle rotation) — rising sky-lanterns' warm light streams down and weaves the glowing festival gown by believable real lantern-light; Veo first frame = this frame's indigo-set Look A image, last frame = Frame 5's glowing-gown image; every frame join is a hard match-cut to a new angle.
 
 LIGHTING-IN-MOTION: lantern-light ignites the gown translucent as it forms; gold glow blooms across the river.
 
