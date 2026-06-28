@@ -697,3 +697,28 @@ RULES: pick ONE move per clip; never push-only across a concept; match the move 
 concept's world/action; alive tracking moves (top group) are preferred wherever she is moving;
 during a TRANSFORM clip use a translation (track/push-with) NOT an angle rotation (L.2); switch
 move + angle at every CUT (L.3); every clip opens ALREADY-IN-MOTION (B).
+
+
+
+### M.6 — PER-FRAME POSE & MOTION VARIETY (default) vs HELD POSE (GRWM-only exception)
+(Decided with the user. Corrects the earlier uniform "standing hero gesture" arc.)
+- DEFAULT (almost every reel — fashion, transformation, material, fantasy, action, travel,
+  editorial-beauty): the subject must be in a DIFFERENT POSE or genuinely IN MOTION in EVERY
+  frame, tailored to the concept's theme — she walks/steps, shifts body orientation and level,
+  leans, turns away and back, strides, sits/rises, strikes a distinct posture per shot. NEVER the
+  same standing hand-gesture arc repeated across frames or across concepts. Pair with the alive
+  camera (M.1-M.4) so she is visibly DOING something different each frame, and keep every frame's
+  crop/angle/camera distinct (B). The eye-led identity-safe expression model (D) still governs the
+  FACE, but the BODY should move.
+- EXCEPTION — HELD / CONTAINED POSE (only where the theme truly requires it):
+  * GRWM "get ready with me" reels (getting ready in one spot) — e.g. Concepts 11 (First Day),
+    12 (Sangeet), 13 (5 AM Club).
+  * Concepts whose premise IS an identical held pose by design — e.g. Concept 02 (Six Cities,
+    "one her" = pose held identical across the match-cuts).
+  * Genuine beauty-still / application moments where stillness is the point (e.g. Glass Skin
+    serum beat) — keep mostly contained but still allow gentle per-frame variation.
+- The TRANSFORM clip (F4) still HOLDS its camera ANGLE (L.2) and identity, but she MAY be in a
+  distinct/dynamic pose there too — only the camera angle is fixed, never her body.
+- ACTION: revisit any already-done NON-GRWM concept and inject real per-frame pose/motion variety;
+  apply this to all remaining concepts. Fragrance "still radiant centre" reels (Midnight Bloom,
+  Gold Hour) get GENTLE motion (a step, a turn, a drift) rather than fully static.
