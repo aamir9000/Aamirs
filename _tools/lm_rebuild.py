@@ -1554,6 +1554,93 @@ BEATSLM[18] = [
 ]
 
 
+BEATSLM[19] = [
+    # F1 - sleepy morning Look A establishing, alive lateral track, hand on mixing bowl
+    (
+        "Cut to a medium-wide thigh-up tracking shot in the sunlit morning kitchen: the camera "
+        "dollies laterally to settle on her as she settles her weight onto the back leg and "
+        "rests her right hand soft on a wooden mixing bowl, her left hand on the counter-edge, "
+        "the warm wood counters and copper utensils sliding behind with real parallax; a warm "
+        "sleepy quarter-smile holding.",
+        "The track eases to rest as a soft face-framing tendril shifts in the kitchen warmth and "
+        "she eases her warm gaze to lens, the kettle breathing a curl of steam, a soft homey "
+        "quarter-smile settling.",
+        "She holds, soft and sleepy in the oatmeal tee, the claw-clip twist lived-in, eyes warm "
+        "in the pale morning light (silent here).",
+    ),
+    # F2 - morning look, push-with lifting hand from bowl toward cresting flour-dust, cut to a closer three-quarter
+    (
+        "Cut to a medium-close three-quarter: she is already lifting her right hand soft from "
+        "the bowl toward the cresting flour-dust as if to feel it, fingers gently open, as the "
+        "camera pushes with her hand; gaze toward the dust.",
+        "Fine flour-dust drifts soft at her fingertips as her gaze warms with quiet wonder and a "
+        "soft micro-smile kindles.",
+        "She holds the hand poised toward the flour-dust, eyes warm and soft, the sleepy morning "
+        "look soft and intact (silent here).",
+    ),
+    # F3 - morning look clean (NO bloom yet), slow arc to a fresh angle, raise hand toward flour-dust
+    (
+        "Cut to a medium chest-up on a fresh three-quarter angle: she raises her hand soft "
+        "toward the flour-dust and draws a slow breath, her left hand easing open on the "
+        "counter, as the camera arcs a few degrees and the kitchen swings behind with parallax; "
+        "gaze lifting.",
+        "The arc settles as her gaze lifts to lens with rising warm wonder and a knowing soft "
+        "smile forms, the flour-dust bloom cresting in frame, still in the sleepy morning look.",
+        "She holds the poised kitchen beat, hand raised toward the flour-dust, eyes warm and "
+        "soft \u2014 the breath before the flour-dust bloom (silent here).",
+    ),
+    # F4 - THE TRANSFORM, HELD ANGLE, smooth mid-clip flour-dust bloom; first=sleepy morning, last=homey
+    (
+        "Cut to an energized medium at a HELD angle (Veo first frame = the sleepy-morning Look A "
+        "still): she eases her hand down from the flour-dust, already in motion \u2014 still the "
+        "oatmeal tee, NO bloom yet, a gentle push-with easing in, the angle fixed for the whole "
+        "clip.",
+        "The bloom BEGINS here, mid-clip: a single travelling flour-dust bloom sweeps smoothly "
+        "across the frame in one continuous warm front, fine soft flour-dust blooming up by "
+        "believable airborne drift, the sleepy oatmeal tee deepening into the soft caramel "
+        "cardigan over a tidy apron and the room warming to a honey glow exactly where the bloom "
+        "passes \u2014 cloth resolving with real spread and inertia, gradual and warm, never a "
+        "snap, no garish glare; the claw-clip twist catching travelling honey light, eyes "
+        "warming in homey wonder (angle held, face cleanly lit, identity locked).",
+        "The bloom completes its sweep and the look settles smoothly and fully into the "
+        "warm-homey Look B of the Veo last-frame still (Frame 5's image) \u2014 the soft caramel "
+        "cardigan over the tidy apron and tee in a snug honey glow, resolved and held through "
+        "the final beat, no last-second pop; a warm homey calm landing in her eyes.",
+    ),
+    # F5 - homey Look B reveal, cut to a NEW angle, settle the apron tie
+    (
+        "Cut to a medium close on a new angle in the snug honey glow: she is already in the warm "
+        "homey look, drifting her right hand to settle the apron tie with an easy roll of the "
+        "shoulder; gaze easing to lens.",
+        "A warm homey smile eases to lens on a slow breath, the last flour-dust settling in the "
+        "honey light, eyes soft and warm.",
+        "She holds the warm homey look, the cardigan and apron settling soft, eyes warm and "
+        "direct (silent here).",
+    ),
+    # F6 - spoken line, cut to a fresh angle, push-with the turn
+    (
+        "Cut to a medium chest-up on a fresh angle: she shifts her weight with an easy "
+        "six-degree turn and drifts her right hand open soft in a warm easy gesture as the "
+        "camera eases with her; gaze warm to lens.",
+        "She delivers \u201cHome is something you make.\u201d to lens with a warm homey smile and "
+        "natural lip-sync, the kettle steam curling soft, eyes warm and direct.",
+        "She holds the warm homey look as the cardigan settles, the smile easing into warm "
+        "calm.",
+    ),
+    # F7 - loop close, cut back to match Frame 1 hand on mixing bowl
+    (
+        "Cut to a medium-wide thigh-up matched to Frame 1: she returns her right hand to rest "
+        "soft on the wooden mixing bowl, her left hand on the counter-edge, settling her weight "
+        "onto the back leg exactly as in Frame 1 as the camera settles to the opening framing.",
+        "She eases her warm gaze back to lens on a slow breath with the composed sleepy "
+        "quarter-smile, the snug honey homey look resolving back toward the soft pale morning "
+        "opening to seed the loop.",
+        "She lands precisely on the Frame 1 pose and gaze, soft and sleepy in the morning "
+        "kitchen \u2014 a seamless loop seam.",
+    ),
+]
+
+
 def build_block(beats):
     return (
         BREAKDOWN_HEADER + "\n"
