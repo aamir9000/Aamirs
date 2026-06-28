@@ -6010,7 +6010,7 @@ Hair: AP — a high glossy bubble-ponytail (segmented with clear ties into soft 
 
 Makeup: AQ — bubblegum sweet: a soft pink shimmer lid, dewy pink-fresh skin, a bright pink blush on the apples, a glossy bubblegum-pink lip, a pearl highlight on the high points, fluttery lashes, soft-set brows, real pores
 
-Movement: macro lip-gloss swipe → bubblegum stretch & pop transform (the one impossible move) — a translucent bubblegum-pink bubble stretches and inflates then pops into a glossy pink shimmer-burst around her while her single face stays clear and locked (never bubble-covered or replaced)
+Movement: bubblegum stretch & pop transform (the one impossible move) — a translucent bubblegum-pink bubble stretches and inflates then pops into a glossy pink shimmer-burst around her while her single face stays clear and locked (never bubble-covered or replaced), CONTAINED mid-clip inside Frame 4 at a HELD angle (begins mid-clip, stretches and pops smoothly, never an instant snap; believable real bubblegum physics — true elastic gum stretch, surface tension, a real pop with elastic snap-back and glossy spray, no cheap sparkles). Veo first/last-frame continuity (Frame 4 image = bubblegum-sweet Look A with the bubble only swelling = first frame, Frame 5 image = full shimmer-burst Look B = last frame); every frame join is a hard match-cut to a new angle. (Beauty-still — contained product-at-face pose held per M.6.)
 
 Concept Line: "sweet, but make it iconic"
 
@@ -6076,9 +6076,9 @@ SHOT TYPE: medium close, chest-up, subject fills about 55% of the vertical frame
 LENS: 50mm, f/2.0, smooth bubblegum-pink background fall-off.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Medium close chest-up in the candy-pop studio: a slow push-in is already gliding toward her as she tilts the gloss bottle a few degrees into the key, glossy speculars sliding along the clear cap and the gloss settling; gaze lowered to the bottle, a soft bubble drifting behind her.
-- [00:02–00:04] The push continues as she lifts her bright gaze to lens on a soft inhale and a playful sweet quarter-smile blooms, bright bubblegum-pink glow around her.
-- [00:04–00:06] She holds, bright and sweet, her single face clear and locked, eyes sparkling, a soft bubble drifting.
+- [00:00–00:02] Cut to a medium-close chest-up in the candy-pop studio: she is already cradling the glossy pink Bubblegum lip-gloss bottle at her collarbone as a slow push eases in, the bright bubblegum-pink backdrop and soft pastel-pink bubble bokeh behind her, a sweet playful air; her left hand easy near her jaw.
+- [00:02–00:04] The push settles as a glossy bubble-ponytail section bounces and her bright gaze eases to lens, a translucent pink bubble drifting past, a playful sweet quarter-smile settling.
+- [00:04–00:06] She holds the bubblegum-sweet look in the glossy pink mock-neck top, the sheen catching the bright key, eyes bright and direct (the line lands later).
 
 AUDIO: diegetic only, no in-clip music. Ambient bed — a soft bright room tone and a faint sweet air-hum throughout. SFX — a soft glass-tap as her fingers settle on the bottle at 0.6s (gentle attack, short tail), a faint fabric shift at 2.4s, a soft bubble-drift puff at 3.9s timed to the gaze-lift. Reaction — a soft bright breath at 3.0s. The master track sits low — a plucky synth and soft clap just kindling under the room tone (present, never full). VO — none this frame.
 
@@ -6117,7 +6117,7 @@ SUBJECT FRAMING & POSITION: A medium close framing holds Aira from the chest up 
 
 LENS + DOF + BOKEH: 50mm, f/2.0; focus split between her near eye and the glossy lip so both read crisp; the background melting to a smooth creamy bubblegum-pink with soft bubble-bokeh; soft highlight blooms off the first bubble; gentle roll-off, no clipping.
 
-COMPOSITION REFERENCE: the bright playful build beat — a lip-gloss swipe and first bubble, the stretch & pop clearly imminent (BA.3 cause building to effect).
+COMPOSITION REFERENCE: a macro lip-gloss swipe build beat — bright and playful and poised, the bubblegum stretch & pop held for the Frame-4 clip.
 
 ATMOSPHERE: playful, sweet, charged — the bright instant before the bubblegum bubble stretches and pops around her.
 
@@ -6136,9 +6136,9 @@ SHOT TYPE: medium close, chest-up, subject and raised applicator fill about 58% 
 LENS: 50mm, f/2.0.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Medium close: the slow push continues with a faint tilt-up already following her hand as she raises the gloss applicator near her lip and swipes a bright bubblegum-pink gloss across the lower lip, a glossy glint travelling; gaze bright.
-- [00:02–00:04] The first translucent bubble forms and drifts near her shoulder, her eyes brightening with playful focus (her single face stays clear and locked).
-- [00:04–00:06] The gloss settles glossy on her lip, a bubble drifting, lashes lowering in playful glee.
+- [00:00–00:02] Cut to a medium-close three-quarter, a rack-focus pulling from the bottle to her eye: she is already swiping the plumping Bubblegum gloss soft across her lip and a translucent bubblegum-pink bubble begins to swell and stretch in the air beside her; gaze cast soft to the bottle.
+- [00:02–00:04] The glossy gloss catches a wet bright-pink sheen on her lip as her gaze brightens with playful sweetness and a knowing micro-smile kindles, the bubble stretching bigger.
+- [00:04–00:06] She holds the gloss poised near her lip, eyes bright and playful, the bubblegum-sweet look intact (silent here).
 
 AUDIO: diegetic only. Ambient — soft bright room tone and a faint sweet air-hum throughout. SFX — a soft glossy lip-smack at 0.9s, a faint applicator tick at 2.1s, a soft bubble-blow puff at 4.5s (gentle attack, soft tail). Reaction — a soft focused breath at 3.0s. The master track lifts a touch — a plucky synth and clap groove rising under the SFX (present, never full). VO — none this frame.
 
@@ -6152,7 +6152,7 @@ NEGATIVE: identity drift, face or hand warp, extra or fused fingers, duplicate p
 
 ## Frame 3 of 6 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the locked START keyframe of the bubblegum stretch & pop transform — face fully recognizable and SINGLE, still the bubblegum sweet look, a translucent bubblegum-pink bubble now inflating and stretching into a glossy rounded form that begins to swell beside her. The bubble forms in the air beside her; her one face, one head and one body are never bubble-covered, traced over, duplicated or replaced. Lock this START so Frame 4's pop interpolates cleanly to the glossy shimmer-burst END (Frame 5).
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. SHOT NOTE: a clean bubblegum-sweet (Look A) beat at its OWN cut/angle — the bubblegum sweet look fully intact and her face SINGLE, a translucent bubblegum-pink bubble just beginning to inflate and stretch into a glossy rounded form that starts to swell beside her; the full stretch & pop does NOT happen here (it happens mid-clip inside Frame 4). The bubble forms in the air beside her; her one face, one head and one body are never bubble-covered, duplicated or replaced. Build playful sweet anticipation only.
 
 WARDROBE: the glossy bubblegum-pink mock-neck long-sleeve top, continuity-locked, the sheen beginning to catch the inflating bubble-light, the modest neckline pristine, fully modest, zero snags.
 
@@ -6177,7 +6177,7 @@ SUBJECT FRAMING & POSITION: A medium framing holds Aira from the chest up with a
 
 LENS + DOF + BOKEH: 50mm, f/2.0; focus split between her near eye and the nearest bubble-skin so both read crisp; the background melting to a smooth creamy bubblegum-pink with soft bubble-bokeh; soft highlight blooms off the bubble; gentle roll-off, no clipping.
 
-COMPOSITION REFERENCE: the bright suspended build beat — the bubble inflates and stretches, the pop clearly imminent (BA.3 cause building to effect).
+COMPOSITION REFERENCE: a poised bright beat, the bubble inflating and stretching — playful and sweet, the bubblegum stretch & pop held for the Frame-4 clip.
 
 ATMOSPHERE: playful, sweet, charged — the bright instant before the bubblegum bubble pops full beside her.
 
@@ -6196,9 +6196,9 @@ SHOT TYPE: medium, chest-up, subject and inflating bubble fill about 60% of the 
 LENS: 50mm, f/2.0, smooth bubblegum-pink background fall-off.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Medium chest-up: a slow arc is already drifting around her as she lowers the applicator a touch and a translucent bubblegum-pink bubble inflates and stretches into a glossy rounded form beside her; gaze following the swelling bubble.
-- [00:02–00:04] The arc eases round as the bubble swells with a rainbow sheen, her eyes brightening with playful glee.
-- [00:04–00:06] The bubble stretches to its fullest and thins, cueing the pop, her gaze lifting a degree.
+- [00:00–00:02] Cut to a medium chest-up on a fresh three-quarter angle: she eases the bottle down and opens her hand soft as the translucent bubblegum bubble inflates and stretches, drawing a slow sweet breath as the camera arcs a few degrees and the candy backdrop swings behind with parallax; gaze lifting.
+- [00:02–00:04] The arc settles as her gaze lifts to lens with rising playful joy and a knowing micro-smile forms, the translucent bubblegum-pink bubble stretching and inflating bigger beside her, her single face clear and unbubble-covered, still the bubblegum-sweet look.
+- [00:04–00:06] She holds the poised sweet beat, the bubble stretched taut and glossy, eyes bright and delighted — the hush before the bubble pops (silent here).
 
 AUDIO: diegetic only, no VO this frame. Ambient — soft bright room tone and a faint sweet air-hum throughout. SFX — the soft settle of the lowering applicator at 0.8s, a soft bubble-inflate stretch-creak at 2.4s, a bright thinning-film shimmer at 4.5s as the bubble peaks (gentle attack, soft tail). Reaction — a soft delighted breath at 2.1s. The master track sits low — a plucky synth and clap groove under the SFX (present, never full).
 
@@ -6212,38 +6212,38 @@ NEGATIVE: identity drift, face or hand warp, extra or fused fingers, duplicate p
 
 ## Frame 4 of 6 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the one impossible move — the bubblegum stretch & pop. LOCK the START (Frame 3, single face clear, bubblegum sweet, bubble inflating) and the END (Frame 5 open, glossy shimmer-burst radiant after-look). Mid-pop the stretched bubble bursts into a glossy pink shimmer-burst that scatters in slow sweet arcs around her; her one face, one head and one body stay clear, single and recognizable, softly framed (never bubble-covered, never buried) by the bursting shimmer; interpolate strictly between the locked keyframes — do NOT invent a new face, do NOT duplicate her face, do NOT invent new hands or new bone structure beneath the bubblegum-burst. Playful and sweet, real bubble-burst physics, mesmerizing not chaotic.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the START frame of the transform CLIP — render her fully in the bubblegum-sweet Look A (the exact still the Frame-4 video opens on, and Veo's FIRST frame): the glossy bubblegum-pink mock-neck top in the candy-pop studio, her single face clear and centred, only a translucent bubblegum-pink bubble just beginning to swell beside her (NO full stretch-and-pop yet). The bubblegum stretch & pop happens MID-CLIP at this same HELD angle (the camera may push or travel with her but never rotates its angle; the bubble stretches and inflates then pops into a glossy pink shimmer-burst by believable real bubblegum physics — true elastic gum stretch, surface tension, a real pop with elastic snap-back and glossy spray, no cheap sparkles; the bubble pops in the air beside her, never on her face), resolving into Frame 5's full shimmer-burst after-look image (Veo's LAST frame). Her one face, one head, one body, hair and proportions stay constant. Do NOT depict the full pop in this still, do NOT bubble-cover or duplicate her face, and do NOT invent a new face, new hands or new bone structure.
 
-WARDROBE (refined): the glossy bubblegum-pink top catching the burst at its glossiest peak as the shimmer scatters — the sheen flaring with travelling soft-pink highlights, fully modest, never revealing.
+WARDROBE: the glossy bubblegum-pink mock-neck long-sleeve top with a sweet soft sheen, full modest coverage, the sheen catching one travelling soft-pink highlight, fully modest, fully intact (the full pop not yet burst).
 
-HAIR: the bubble-ponytail catching a sweeping arc of shimmer-light mid-motion, the bubble sections holding their bounce, strands lit pink-clean; color locked beneath the gloss.
+HAIR: a high glossy bubble-ponytail segmented with clear ties into soft bouncy bubble sections, glossy and playful; color locked to reference.
 
-MAKEUP: mid-pop — the bubblegum sweet look flushing to its luminous peak, the soft pink lid kindling brighter, the glossy bubblegum-pink lip enriching, the pearl highlight glinting on the high points; real pores beneath.
+MAKEUP: the bubblegum-sweet Look-A base — a soft pink shimmer lid, dewy pink-fresh skin, a bright pink blush, a glossy bubblegum-pink lip, a pearl highlight on the high points, fluttery lashes; skin dewy and real with visible pores and fine vellus texture.
 
-HANDS & NAILS: both arms drifting open through the shimmer-field, palms turning up as the bubble pops into a glossy shimmer-burst in slow sweet arcs; natural nail-bed color, neat cuticles, no white-knuckle tension.
+HANDS & NAILS: both arms beginning to open soft from her body, palms easing up as the bubble swells, the right near the cradled lip-gloss bottle; natural nail-bed color, neat cuticles, no white-knuckle tension.
 
-FACIAL MICRO-DYNAMICS: eyes bright with joyful playful delight, a gentle parted-lip confidence, a clean steady lift — her single face clear and shimmer-framed by the bursting bubble, identity strictly held to reference.
+FACIAL MICRO-DYNAMICS: her single face bright with playful sweet anticipation, a gentle parted-lip joy, a clean bright calm — composed, single and fully recognizable, identity-locked, ready for the bubblegum stretch & pop mid-clip.
 
-BODY POSTURE & WEIGHT: mid-pop the spine lengthens and the shoulders open playful and assured, weight rolling smooth between the feet — grounded real physics, modest throughout.
+BODY POSTURE & WEIGHT: front-facing with the torso rotated about 4°, the spine long and the shoulders open playful, weight settled with a soft hip counter-tilt — grounded real physics, the sweet centre before the pop, modest throughout.
 
-KINETIC STILLNESS (8 layers): (1) the bubble bursting into a glossy pink shimmer-burst scattering in slow sweet arcs around her at peak; (2) tiny pink droplets and glitter flashing as they scatter; (3) the bubble-ponytail and top catching travelling shimmer-light mid-pop; (4) soft pink motes glinting through the field; (5) the top flaring with a soft-pink highlight; (6) bright speculars multiplying across the scattering shimmer; (7) the backdrop glowing a touch brighter through the burst; (8) her chest mid a soft joyful breath.
+KINETIC STILLNESS (8 layers): (1) a translucent bubblegum-pink bubble just beginning to swell beside her; (2) the gum membrane stretching taut at the bubble edge; (3) a bubble-ponytail section bouncing soft; (4) the bright bubblegum-pink backdrop and bubble bokeh behind her; (5) the glossy top breathing soft sheen in the sweet air; (6) a soft-pink glint sliding on the lip-gloss bottle; (7) the highlight band shifting a millimetre along the top as her ribcage expands; (8) a slow eyelash settle completing a sweet blink.
 
-SPATIAL LOGIC: FOREGROUND — a scattering shimmer-droplet nearest lens, soft. MIDGROUND — Aira mid-pop, her single face the clear hero, the shimmer bursting around her. BACKGROUND — the bright bubblegum-pink backdrop with scattering shimmer and bright falloff.
+SPATIAL LOGIC: FOREGROUND — the swelling bubble and the cradled bottle nearest lens, soft. MIDGROUND — Aira's single face the clear hero in the bubblegum-sweet look. BACKGROUND — the bright bubblegum-pink backdrop with soft pastel-pink bubble bokeh, present behind.
 
-LIGHTING: KEY — soft bright key now brighter through the burst. FILL — white bounce below (clamshell). RIM — a bright soft-pink rim raking the scattering shimmer and the crown (hero light on the motion). PRACTICAL — soft pink bubble-glows at full sparkle. SEPARATION — the burst and faint bright haze. BOUNCE — bright kicks multiplying across the scattering shimmer.
+LIGHTING: KEY — a soft bright key feathered above-front. FILL — white bounce below (clamshell). RIM — a soft-pink rim skimming the crown and shoulder to separate her from the candy backdrop. PRACTICAL — soft pink bubble-glows and the bottle. SEPARATION — the candy backdrop kept a touch down so she reads about 2 stops up. BOUNCE — a bright kick off the lip-gloss bottle.
 
-FRAMING: ASPECT 9:16; energized medium-wide, Aira centered with the shimmer-burst filling the frame around her single face, 10% headroom, slight push for intimacy.
-SUBJECT FRAMING & POSITION: A energized medium-wide framing opens around Aira with about 10% headroom as the shimmer-burst fills the lower frame, a slight push easing in for intimacy. Her spine lengthens and her shoulders open as the weight rolls smooth between the feet in grounded real-physics motion. The camera eases wider against the bright bubblegum-pink backdrop with drifting bubbles, Aira the centred hero at the heart of the bloom. She is centred with the shimmer-burst radiating around her. She faces front to the lens, lifted at the peak of the transform. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+FRAMING: ASPECT 9:16; energized medium-wide, Aira centered in the candy-pop studio, 10% headroom — its own distinct cut/angle.
+SUBJECT FRAMING & POSITION: An energized medium-wide framing opens around Aira at about 10% headroom in the candy-pop studio, the bubblegum-sweet Look A fully intact and her face single as the transform clip begins. Her torso is turned about four degrees with the weight settled over a soft hip counter-tilt, arms beginning to open soft. The camera holds a mid distance on its own fresh angle, a hard cut from Frame 3, with Aira the centred single hero and the bright bubblegum-pink backdrop with drifting bubbles present behind, facing front to the lens. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
-LENS + DOF + BOKEH: 50mm, f/2.0; her single face and the nearest shimmer tack sharp at the burst-core, the closest droplet melting into a soft bright bokeh with pink specular glints.
+LENS + DOF + BOKEH: 50mm, f/2.0; her single face and the cradled bottle tack sharp, the swelling bubble melting into a soft bright bokeh with pink specular glints; gentle highlight roll-off, no clipping.
 
-COMPOSITION REFERENCE: the signature impossible beat — a bubblegum stretch & pop, playful and sweet, heightened but identity-locked, her face never bubble-covered (AT.5 transform logic / identity-through-transform).
+COMPOSITION REFERENCE: the start of the signature beat — bubblegum-sweet Look A with a single locked face, playful and sweet, the bubblegum stretch & pop held for the video's mid-clip.
 
-ATMOSPHERE: playful, exhilarating, sweet — the moment the bubble pops full into glossy shimmer around her single locked face in slow sweet arcs.
+ATMOSPHERE: playful, charged, sweet — the joyful instant the transform clip begins.
 
 COLOR GRADE: bright bubblegum pop — bright clean pinks, glossy candy tones, crisp clean whites, blacks rich but never crushed, full mid-tone, a glossy bright contrast (no garish oversaturation, bright candy-pink lane).
 
-TEXTURE & MICRO-DETAIL: the bursting shimmer reads as real popping bubble-film and pink droplets with soft motion blur, the burst reads as real bubble physics on living air, the top shows a real glossy weave catching soft-pink highlights, skin reads real with pores beneath the glow.
+TEXTURE & MICRO-DETAIL: the top shows a real glossy weave catching soft-pink highlights, the swelling bubble reads as a real translucent gum membrane with surface tension, the lip-gloss bottle reads as real glossy glass, skin reads real with pores beneath the glow.
 
 NEGATIVE: mirrored, flipped, inverted, extra limbs, fused fingers, melted features, asymmetric eyes (unintentional), garbled text, floating shadows, duplicated subjects, low-res patches, plastic skin, over-smoothed skin, oversharpened, AI-generated artifacts, watermarks, signature, deformed hands, malformed teeth, joint cuts at ankle/knee/wrist/elbow/neck, amputated fingertips, cross-eyed, lazy eye, off-axis pupils, melted clothing, mismatched footwear, mannequin-stiff posture, dead eyes, statue-frozen energy, garbled label text, crushed blacks, muddy dull shadows, flat overcast light, inventing a new face beneath the bubblegum-burst.
 
@@ -6256,9 +6256,9 @@ SHOT TYPE: energized medium-wide of the bubblegum stretch & pop (the hero move).
 LENS: 50mm, f/2.0.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Energized medium-wide: the push is already easing into a smooth gentle orbit as the bubble bursts into a glossy pink shimmer-burst and she opens her arms; gaze lifting into the burst.
-- [00:02–00:04] The orbit rides the hero beat as the shimmer scatters bright around her and the bubble-ponytail and top catch travelling pink light (her single face clear and shimmer-framed, never bubble-covered); eyes widening in playful glee.
-- [00:04–00:06] The burst settles and the shimmer resolves as the orbit eases; a radiant shimmer-framed look landing, her single face clear, eyes bright.
+- [00:00–00:02] Cut to an energized medium at a HELD angle (Veo first frame = the bubblegum-sweet Look A still): she holds her candy look, already in motion — the bubble only just swelling, NO full stretch-and-pop yet, a gentle push-with easing in, the angle fixed for the whole clip.
+- [00:02–00:04] The bubblegum stretch & pop BEGINS here, mid-clip: a translucent bubblegum-pink bubble stretches and inflates then pops into a glossy pink shimmer-burst around her in one continuous motion, the gum membrane ballooning taut then bursting into a soft elastic shimmer-spray exactly where it pops — believable real bubblegum physics (true elastic gum stretch, surface tension, a real pop with elastic snap-back and glossy spray, no cheap sparkles), her single face clear and locked (NEVER bubble-covered, replaced or duplicated), eyes bright with playful delight (angle held, identity locked).
+- [00:04–00:06] The pop completes and the look settles smoothly and fully into the full shimmer-burst after-look of the Veo last-frame still (Frame 5's image) — a glossy pink shimmer-burst spread around her single locked face in the candy studio, resolved and held through the final beat, no last-second pop; a bright sweet calm landing in her eyes.
 
 AUDIO: diegetic-led. Ambient — soft bright room tone and a faint sweet air-hum. SFX — a soft bubble-pop at 0.6s, a bright shimmer-scatter sparkle 0.8–2.4s, fine glittering droplet-chimes 2.4–4.5s (gentle attacks, soft tails), a soft fabric-flare at 3.0s. Reaction — a soft joyful breath at 2.4s. The master track lifts to its playful peak here — a bubbly synth-pop drop landed on the pop (present, still under the SFX, never full). VO — none (the line lands next frame).
 
@@ -6274,7 +6274,7 @@ NEGATIVE: identity drift, face or hand warp, extra or fused fingers, duplicate p
 
 IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
 
-TRANSFORM KEYFRAME NOTE: this is the locked END keyframe of the bubblegum stretch & pop transform; it must resolve continuously out of the START keyframe in Frame 3 — same single face, same hands, same camera distance, the shimmer now settled into a soft glossy pink halo of fine droplets drifting slow around her. Only the air around her was burst; her one face was never bubble-covered, traced over, duplicated or replaced. Do NOT invent a new face, duplicate her face or invent new hands beneath the bubblegum-burst; this is the same single Aira, playful and radiant. Frame 3 (START) and Frame 5 (END) are the two anchors of the single transform.
+TRANSFORM KEYFRAME NOTE: this is the full shimmer-burst Look B reveal at its OWN cut/angle (a hard cut from the Frame-4 bubblegum stretch & pop clip — a new angle/crop, and the Veo last-frame the pop resolves into). It carries the resolved full shimmer-burst after-look the Frame-4 clip ends on — only the air around her was burst into a soft glossy pink halo of fine droplets; her one face was never bubble-covered, duplicated or replaced. Same single Aira, playful and radiant — do NOT invent a new face, bubble-cover or duplicate her face, or invent new hands or new bone structure.
 
 WARDROBE: the glossy bubblegum-pink mock-neck long-sleeve top at its glossiest best, the sheen catching one travelling soft-pink highlight band, the modest neckline pristine, fully modest, zero snags.
 
@@ -6318,9 +6318,9 @@ SHOT TYPE: medium close, chest-up, subject fills about 56% of the vertical frame
 LENS: 50mm, f/2.0, smooth bubblegum-pink background fall-off.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Medium close: a slow push is already gliding in as she eases her hands open and the burst resolves into a glossy shimmer halo around her; gaze bright to lens.
-- [00:02–00:04] She delivers “sweet, but make it iconic.” to lens with a joyful playful smile, eyes warm and direct, her single face clear and locked.
-- [00:04–00:06] She holds the radiant shimmer-framed look as the last droplets drift slow, the smile easing into sweet warmth.
+- [00:00–00:02] Cut to a medium close on a new angle in the candy-pink glow: she is already in the full shimmer-burst look, easing her right hand back toward the lip-gloss bottle at her collarbone with an easy roll of the shoulder, her single face clear and unbubble-covered; gaze bright to lens.
+- [00:02–00:04] She delivers “sweet, but make it iconic.” to lens with a playful sweet smile and natural lip-sync, the glossy pink shimmer settling soft around her, eyes bright and delighted.
+- [00:04–00:06] She holds the shimmer-burst sweet look, her single face clear and the bottle cradled soft, eyes bright and direct.
 
 AUDIO: diegetic plus the spoken line. SPOKEN LINE (lip-sync) — Aira says "sweet, but make it iconic." from 1.5–3.9s in English with a natural Indian accent, warm joyful tone, mouth shapes matched exactly. Ambient — soft bright room tone and a faint sweet air-hum throughout. SFX — a soft shimmer-chime at 0.9s, a faint fabric shift at 1.4s (kept clear of the VO). The master track ducks gently under the line and holds its plucky synth low.
 
@@ -6380,9 +6380,9 @@ SHOT TYPE: medium close, chest-up, subject fills about 55% of the vertical frame
 LENS: 50mm, f/2.0, smooth bubblegum-pink background fall-off.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Medium close matching Frame 1: a slow push is already resolving toward the exact opening framing as she re-cradles the glossy pink bottle and tilts it into the key, glossy speculars sliding along the clear cap; gaze lowering to the bottle.
-- [00:02–00:04] The push settles as she eases her bright gaze back to lens on a soft breath with the playful sweet quarter-smile, the candy studio resolving to the opening; eyes calming.
-- [00:04–00:06] She lands precisely on the Frame 1 pose and gaze, a soft bubble drifting — a seamless loop seam.
+- [00:00–00:02] Cut to a medium-close chest-up matched to Frame 1: she returns her right hand to cradle the glossy pink Bubblegum bottle soft at her collarbone and her left easy near her jaw exactly as in Frame 1 as the camera settles to the opening framing.
+- [00:02–00:04] She eases her bright gaze back to lens on a slow breath with the composed sweet quarter-smile, the glossy shimmer-burst resolving back toward the opening bubblegum-sweet look to seed the loop.
+- [00:04–00:06] She lands precisely on the Frame 1 pose and gaze, bright and sweet in the candy studio — a seamless loop seam.
 
 AUDIO: diegetic only, no VO. Ambient — soft bright room tone and a faint sweet air-hum throughout. SFX — a soft glass-tap at 0.6s as her fingers settle on the bottle (gentle attack, short tail), a faint fabric shift at 2.4s, a soft bubble-drift puff at 3.6s timed to the gaze-lift. The master track resolves softly here so it can loop clean.
 

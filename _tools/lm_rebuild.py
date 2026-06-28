@@ -2881,6 +2881,89 @@ BEATSLM[44] = [
 ]
 
 
+BEATSLM[45] = [
+    # F1 - bubblegum-sweet hero (contained, product-at-face), push-in
+    (
+        "Cut to a medium-close chest-up in the candy-pop studio: she is already cradling the "
+        "glossy pink Bubblegum lip-gloss bottle at her collarbone as a slow push eases in, the "
+        "bright bubblegum-pink backdrop and soft pastel-pink bubble bokeh behind her, a sweet "
+        "playful air; her left hand easy near her jaw.",
+        "The push settles as a glossy bubble-ponytail section bounces and her bright gaze eases "
+        "to lens, a translucent pink bubble drifting past, a playful sweet quarter-smile "
+        "settling.",
+        "She holds the bubblegum-sweet look in the glossy pink mock-neck top, the sheen catching "
+        "the bright key, eyes bright and direct (the line lands later).",
+    ),
+    # F2 - build, lip-gloss swipe, first bubble; rack-focus product->eye
+    (
+        "Cut to a medium-close three-quarter, a rack-focus pulling from the bottle to her eye: "
+        "she is already swiping the plumping Bubblegum gloss soft across her lip and a "
+        "translucent bubblegum-pink bubble begins to swell and stretch in the air beside her; "
+        "gaze cast soft to the bottle.",
+        "The glossy gloss catches a wet bright-pink sheen on her lip as her gaze brightens with "
+        "playful sweetness and a knowing micro-smile kindles, the bubble stretching bigger.",
+        "She holds the gloss poised near her lip, eyes bright and playful, the bubblegum-sweet "
+        "look intact (silent here).",
+    ),
+    # F3 - START clean (bubble inflating, NO full stretch-and-pop yet), slow arc
+    (
+        "Cut to a medium chest-up on a fresh three-quarter angle: she eases the bottle down and "
+        "opens her hand soft as the translucent bubblegum bubble inflates and stretches, drawing "
+        "a slow sweet breath as the camera arcs a few degrees and the candy backdrop swings "
+        "behind with parallax; gaze lifting.",
+        "The arc settles as her gaze lifts to lens with rising playful joy and a knowing "
+        "micro-smile forms, the translucent bubblegum-pink bubble stretching and inflating "
+        "bigger beside her, her single face clear and unbubble-covered, still the bubblegum-"
+        "sweet look.",
+        "She holds the poised sweet beat, the bubble stretched taut and glossy, eyes bright and "
+        "delighted \u2014 the hush before the bubble pops (silent here).",
+    ),
+    # F4 - THE TRANSFORM, HELD ANGLE, smooth mid-clip bubble stretch+pop (NOT her face); first=bubblegum-sweet, last=shimmer-burst
+    (
+        "Cut to an energized medium at a HELD angle (Veo first frame = the bubblegum-sweet Look "
+        "A still): she holds her candy look, already in motion \u2014 the bubble only just "
+        "swelling, NO full stretch-and-pop yet, a gentle push-with easing in, the angle fixed "
+        "for the whole clip.",
+        "The bubblegum stretch & pop BEGINS here, mid-clip: a translucent bubblegum-pink bubble "
+        "stretches and inflates then pops into a glossy pink shimmer-burst around her in one "
+        "continuous motion, the gum membrane ballooning taut then bursting into a soft elastic "
+        "shimmer-spray exactly where it pops \u2014 believable real bubblegum physics (true "
+        "elastic gum stretch, surface tension, a real pop with elastic snap-back and glossy "
+        "spray, no cheap sparkles), her single face clear and locked (NEVER bubble-covered, "
+        "replaced or duplicated), eyes bright with playful delight (angle held, identity "
+        "locked).",
+        "The pop completes and the look settles smoothly and fully into the full shimmer-burst "
+        "after-look of the Veo last-frame still (Frame 5's image) \u2014 a glossy pink "
+        "shimmer-burst spread around her single locked face in the candy studio, resolved and "
+        "held through the final beat, no last-second pop; a bright sweet calm landing in her "
+        "eyes.",
+    ),
+    # F5 - END shimmer-burst reveal, hand to bottle, spoken line
+    (
+        "Cut to a medium close on a new angle in the candy-pink glow: she is already in the full "
+        "shimmer-burst look, easing her right hand back toward the lip-gloss bottle at her "
+        "collarbone with an easy roll of the shoulder, her single face clear and "
+        "unbubble-covered; gaze bright to lens.",
+        "She delivers \u201csweet, but make it iconic.\u201d to lens with a playful sweet smile "
+        "and natural lip-sync, the glossy pink shimmer settling soft around her, eyes bright and "
+        "delighted.",
+        "She holds the shimmer-burst sweet look, her single face clear and the bottle cradled "
+        "soft, eyes bright and direct.",
+    ),
+    # F6 - loop close, cradle bottle matched to F1
+    (
+        "Cut to a medium-close chest-up matched to Frame 1: she returns her right hand to cradle "
+        "the glossy pink Bubblegum bottle soft at her collarbone and her left easy near her jaw "
+        "exactly as in Frame 1 as the camera settles to the opening framing.",
+        "She eases her bright gaze back to lens on a slow breath with the composed sweet "
+        "quarter-smile, the glossy shimmer-burst resolving back toward the opening bubblegum-"
+        "sweet look to seed the loop.",
+        "She lands precisely on the Frame 1 pose and gaze, bright and sweet in the candy studio "
+        "\u2014 a seamless loop seam.",
+    ),
+]
+
+
 def build_block(beats):
     return (
         BREAKDOWN_HEADER + "\n"
