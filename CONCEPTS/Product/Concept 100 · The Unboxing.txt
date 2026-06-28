@@ -106,28 +106,18 @@ IDENTITY (locked): Aira — same person every frame; face, bone structure, eye s
 
 SHOT TYPE: medium-wide seated three-quarter, Aira cross-legged on the studio floor filling ~55% of the vertical frame with the half-open PR box and box-cutter in the lower third and the glossy box tower stacked frame-right.
 
-CAMERA MOVEMENT: a single slow 6% push-in across the clip, locked-off and stable otherwise — one move only, no whip, no handoff; the push gently tightens onto the open box and the switching-on grin.
-
 LENS: 35mm, f/2.8, smooth creamy background fall-off on the box tower.
 
-SUBJECT ACTION WITH TIMING (fine beats — no spoken line this frame):
-
-- 0.0–0.6s — Aira sits cross-legged among the boxes, the half-open PR box in her lap, box-cutter held mid-air; she gives a tiny anticipatory bounce of the shoulders.
-- 0.6–1.2s — she sets the box-cutter down and brings both hands to the lid edge, fingers curling under the foaming tissue paper.
-- 1.2–1.8s — she lifts the lid a few centimetres, the tissue paper rising and crinkling, her brows pushing up in performed excitement.
-- 1.8–2.4s — the lid fully off; she peeks in and her mouth opens into the big practised "yay!" camera-grin, cheeks bunching.
-- 2.4–3.0s — she presses one hand to her chest in over-acted gratitude, eyes flicking bright to the ring-lit lens.
-- 3.0–3.6s — she lifts the foaming tissue paper aside with both hands, a stray curl drifting down toward the floor.
-- 3.6–4.2s — she leans a few degrees toward camera in eager show-and-tell energy, bun bouncing softly with the ribbon tails swaying.
-- 4.2–4.8s — she holds the open box up toward the lens, presenting it with both hands, grin held wide.
-- 4.8–5.4s — a tiny excited shimmy of the shoulders, the chunky knit shifting on the slipped shoulder.
-- 5.4–6.0s — she settles, eyes bright to lens, the performed delight holding as the frame eases toward the next beat.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] medium-wide seated three-quarter, Aira cross-legged on the studio floor filling ~55% of the vertical frame with the half-open PR box and box-cutter in the lower third and the glossy box tower stacked frame-right: a single slow 6% push-in across the clip is already underway — Aira sits cross-legged among the boxes, the half-open PR box in her lap, box-cutter held mid-air; she gives a tiny anticipatory bounce of the shoulders; she sets the box-cutter down and brings both hands to the lid edge, fingers curling under the foaming tissue paper; she lifts the lid a few centimetres, the tissue paper rising and crinkling, her brows pushing up in performed excitement.
+- [00:02–00:04] the lid fully off; she peeks in and her mouth opens into the big practised "yay!" camera-grin, cheeks bunching; she presses one hand to her chest in over-acted gratitude, eyes flicking bright to the ring-lit lens; she lifts the foaming tissue paper aside with both hands, a stray curl drifting down toward the floor.
+- [00:04–00:06] she leans a few degrees toward camera in eager show-and-tell energy, bun bouncing softly with the ribbon tails swaying; she holds the open box up toward the lens, presenting it with both hands, grin held wide; a tiny excited shimmy of the shoulders, the chunky knit shifting on the slipped shoulder; she settles, eyes bright to lens, the performed delight holding as the frame eases toward the next beat.
 
 AUDIO: diegetic + SFX + external score only — no VO this frame. Ambient bed — low warm room tone with a faint ring-light electrical hum. SFX — a soft cardboard-lid scuff at 1.3s, a crisp tissue-paper crinkle at 1.8s, a light gasp-of-delight breath at 2.2s, a gentle box-set-down tap at 4.3s. Reaction — a soft excited inhale at 2.0s. VO — none this frame (NON-TALKABLE).
 
-DURATION: 5 seconds (0:00–0:05 of 30s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps acquisition, 180° shutter, natural motion blur on the lid-lift and the drifting tissue paper; playback 24fps real-time.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none this frame — NON-TALKABLE; lips move only with the open camera-grin and the silent excited reactions, no spoken words.
 
@@ -192,28 +182,18 @@ IDENTITY (locked): Aira — same person every frame; face, bone structure, eye s
 
 SHOT TYPE: medium kneeling three-quarter, Aira up on her knees filling ~58% of the vertical frame, the raised glossy product beside her face in the upper-mid third and the open box tower fanned frame-right.
 
-CAMERA MOVEMENT: a single slow 6% push-in continuing from F1, locked-off and stable otherwise — one move only, no whip, no handoff; the push tightens onto the product-at-face and the peak grin.
-
 LENS: 35mm, f/2.8, smooth creamy background fall-off on the box tower.
 
-SUBJECT ACTION WITH TIMING (fine beats — no spoken line this frame):
-
-- 0.0–0.6s — Aira rises from cross-legged up onto her knees, both hands cupping a glossy product down at her chest.
-- 0.6–1.2s — she sweeps the product upward, lifting it toward her face, eyes tracking it bright.
-- 1.2–1.8s — the product reaches beside her cheek; her mouth opens into the big silent squeal-of-joy, brows shooting up.
-- 1.8–2.4s — she gives the product a little excited shake beside her face, presenting the label forward to lens.
-- 2.4–3.0s — she presses her free hand flat to her chest in over-acted gratitude, eyes crinkling at the corners.
-- 3.0–3.6s — a bright bouncing nod toward the lens, bun bouncing and ribbon tails swinging.
-- 3.6–4.2s — she turns the product a few degrees so a ring-light specular slides across its packaging.
-- 4.2–4.8s — a tiny over-the-top happy wiggle of the shoulders, the chunky knit shifting on the slipped shoulder.
-- 4.8–5.4s — the squeal eases; a flicker of hollowness crosses her eyes for a beat as the grin holds.
-- 5.4–6.0s — she steadies, product still raised, performed delight holding as the frame eases toward the next beat.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] medium kneeling three-quarter, Aira up on her knees filling ~58% of the vertical frame, the raised glossy product beside her face in the upper-mid third and the open box tower fanned frame-right: a single slow 6% push-in continuing from F1 is already underway — Aira rises from cross-legged up onto her knees, both hands cupping a glossy product down at her chest; she sweeps the product upward, lifting it toward her face, eyes tracking it bright; the product reaches beside her cheek; her mouth opens into the big silent squeal-of-joy, brows shooting up.
+- [00:02–00:04] she gives the product a little excited shake beside her face, presenting the label forward to lens; she presses her free hand flat to her chest in over-acted gratitude, eyes crinkling at the corners; a bright bouncing nod toward the lens, bun bouncing and ribbon tails swinging.
+- [00:04–00:06] she turns the product a few degrees so a ring-light specular slides across its packaging; a tiny over-the-top happy wiggle of the shoulders, the chunky knit shifting on the slipped shoulder; the squeal eases; a flicker of hollowness crosses her eyes for a beat as the grin holds; she steadies, product still raised, performed delight holding as the frame eases toward the next beat.
 
 AUDIO: diegetic + SFX + external score only — no VO this frame. Ambient bed — low warm room tone with a faint ring-light electrical hum. SFX — a light product-packaging rustle at 1.0s, a soft excited gasp-breath at 1.4s, a tiny product-shake rattle at 1.9s, a soft hand-to-chest pat at 2.5s. Reaction — a silent squeal carried on a sharp inhale at 1.3s. VO — none this frame (NON-TALKABLE).
 
-DURATION: 5 seconds (0:05–0:10 of 30s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps acquisition, 180° shutter, natural motion blur on the product-lift and the drifting tissue paper; playback 24fps real-time.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none this frame — NON-TALKABLE; lips move only with the silent squeal-of-joy and the over-acted excited reactions, no spoken words.
 
@@ -278,28 +258,18 @@ IDENTITY (locked): Aira — same person every frame; face, bone structure, eye s
 
 SHOT TYPE: medium kneeling three-quarter, Aira up on her knees filling ≈58% of the vertical frame, the gripped product in the lower-mid third and the room behind her converting into a wall of floating brand logos.
 
-CAMERA MOVEMENT: the slow 6% push-in from F1–F2 continues for the first beat, then a single sharp glitch-jolt of the frame at the glitch-fire moment (micro-jolt) — one hard datamosh stutter, then the camera re-settles and holds locked-off; no whip, no handoff, the jolt motivated entirely by the glitch.
-
 LENS: 35mm, f/2.8, smooth creamy fall-off on the floating-logo wall, hard-edged datamosh artifacts kept crisp on the bodysuit.
 
-SUBJECT ACTION WITH TIMING (fine beats — no spoken line this frame):
-
-- 0.0–0.6s — Aira holds the peak presenting pose from F2, product still half-raised, grin wide to the ring-lit lens, the room still warm and bright.
-- 0.6–1.2s — a hard datamosh stutter cracks the frame; a cold pixel-band ignites at her hem and starts sweeping upward.
-- 1.2–1.8s — the band climbs her lower body, the pastel-yellow shorts pixel-smearing and shredding into the clashing logo bodysuit.
-- 1.8–2.4s — the cold band sweeps up the torso, the cream knit dissolving into brand-logo blocks, packaging-tape sashes snapping across the chest.
-- 2.4–3.0s — barcode strips and "#AD" motifs crawl up her arms; the crinkled tissue-paper ruffle collar forms at the neck.
-- 3.0–3.6s — the bun destabilises, the ribbon multiplying into a burst of logo-clips exploding from the crown.
-- 3.6–4.2s — the room behind flickers into a wall of floating brand logos; the ring light flares cold and bluer; the gold hoops glitch into orbiting logo bubbles.
-- 4.2–4.8s — her grin holds a half-beat too long, then the smile starts to stiffen at the corners.
-- 4.8–5.4s — her brows pull together a millimetre, a first flicker of "wait—" surfacing; shoulders tensing and drawing up, a micro-recoil in the spine.
-- 5.4–6.0s — the datamosh settles into the full brand-billboard look; she freezes mid-presentation, the warmth gone, her hazel-brown eyes steady and human in the centre.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] medium kneeling three-quarter, Aira up on her knees filling ≈58% of the vertical frame, the gripped product in the lower-mid third and the room behind her converting into a wall of floating brand logos: the slow 6% push-in from F1–F2 continues for the first beat is already underway — Aira holds the peak presenting pose from F2, product still half-raised, grin wide to the ring-lit lens, the room still warm and bright; a hard datamosh stutter cracks the frame; a cold pixel-band ignites at her hem and starts sweeping upward; the band climbs her lower body, the pastel-yellow shorts pixel-smearing and shredding into the clashing logo bodysuit.
+- [00:02–00:04] the cold band sweeps up the torso, the cream knit dissolving into brand-logo blocks, packaging-tape sashes snapping across the chest; barcode strips and "#AD" motifs crawl up her arms; the crinkled tissue-paper ruffle collar forms at the neck; the bun destabilises, the ribbon multiplying into a burst of logo-clips exploding from the crown.
+- [00:04–00:06] the room behind flickers into a wall of floating brand logos; the ring light flares cold and bluer; the gold hoops glitch into orbiting logo bubbles; her grin holds a half-beat too long, then the smile starts to stiffen at the corners; her brows pull together a millimetre, a first flicker of "wait—" surfacing; shoulders tensing and drawing up, a micro-recoil in the spine; the datamosh settles into the full brand-billboard look; she freezes mid-presentation, the warmth gone, her hazel-brown eyes steady and human in the centre.
 
 AUDIO: diegetic + SFX + external score only — no VO this frame. Ambient bed — the warm room tone collapsing into a cold electrical hum and digital static. SFX — a hard datamosh glitch-crack at 0.7s, a rising pixel-sweep zip from 1.0–2.4s, a packaging-tape snap at 2.0s, a barcode-static crackle at 2.8s, a cold logo-chime cluster at 3.7s, a low sub-drop as the glare turns cold at 4.3s. Reaction — a small uneasy caught half-breath at 4.9s. VO — none this frame (NON-TALKABLE).
 
-DURATION: 5 seconds (0:10–0:15 of 30s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps acquisition, 180° shutter, natural motion blur on the body and hair; ONE deliberate hard digital stutter / datamosh frame-tear at the glitch-fire (0.7s) and a brief pixel-smear trail on the rising sweep — stylised glitch artifacts confined to wardrobe, props and room only; the face and eyes stay clean motion, never smeared; playback 24fps real-time.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none this frame — NON-TALKABLE; lips move only with the held grin stiffening and the small uneasy caught breath, no spoken words.
 
@@ -358,24 +328,18 @@ STORY BEAT (silent): the turn — she catches herself in the dark phone screen a
 
 NEGATIVE: morphing or warping of the FACE, identity drift, glitched/distorted face, glitched or colour-drifting eyes, limb teleport, unintended object pop-in beyond the held glitch, frame skip, mirrored composition, garbled text, floating shadows, duplicated subjects, low-res patches on skin, plastic skin, over-smoothed skin, oversharpened, AI-generated artifacts (unintended), watermarks, signature, deformed hands, malformed teeth, joint cuts at ankle/knee/wrist/elbow/neck, amputated fingertips, cross-eyed, lazy eye, off-axis pupils, mannequin-stiff posture, dead eyes, statue-frozen energy.
 
-SHOT TYPE: medium kneeling three-quarter, Aira up on her knees filling ≈56% of the vertical frame, the dark phone-on-tripod screen at the frame edge holding her small branded reflection, the cold floating-logo wall behind.
+## Frame 4 of 6 — VIDEO PROMPT (THE TURN — LOOK B HELD "BRAND BILLBOARD")
 
-CAMERA MOVEMENT: the push-in from F1–F3 finally stops — the camera settles and holds locked-off for the whole frame (near-still hold), only a single almost-imperceptible 2% drift-in on the realization beat, then ease to a complete rest; no whip, no jolt this frame, the stillness mirroring the performance stopping.
+IDENTITY (locked): Aira — same person every frame; face, bone structure, eye shape + colour, nose, lips, skin texture and hair strictly locked to reference; ONLY expression, gaze and head move; no identity drift, no face/anatomy warp, no second or duplicate person.
+
+SHOT TYPE: medium kneeling three-quarter, Aira up on her knees filling ≈56% of the vertical frame, the dark phone-on-tripod screen at the frame edge holding her small branded reflection, the cold floating-logo wall behind.
 
 LENS: 35mm, f/2.8, smooth creamy fall-off on the floating-logo wall, her near eye and her phone-screen reflection both held crisp.
 
-SUBJECT ACTION WITH TIMING (fine beats — no spoken line this frame):
-
-- 0.0–0.5s — Aira holds the settled brand-billboard freeze from F3, grin already faded, the product still half-raised.
-- 0.5–1.0s — her eyes flick down off the lens toward her own logo-plastered torso.
-- 1.0–1.5s — her gaze travels down her body, taking in the packaging-tape sashes and barcode strips.
-- 1.5–2.0s — the product grip goes slack; the raised arm begins to lower a few degrees.
-- 2.0–2.5s — she catches her reflection in the dark phone screen on the tripod and stills.
-- 2.5–3.0s — lips part barely a millimetre on a small caught breath; brows draw up and slightly together.
-- 3.0–3.5s — her free hand drifts up toward her collarbone in a small startled, self-aware gesture.
-- 3.5–4.0s — the torso softens and curls in a degree, shoulders dropping from their tense lift.
-- 4.0–4.5s — a flicker of "oh" settles behind her steady hazel-brown eyes; the chin tucks a touch.
-- 4.5–5.0s — she holds the quiet stricken recognition, the first honest beat landing as the frame eases on.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] medium kneeling three-quarter, Aira up on her knees filling ≈56% of the vertical frame, the dark phone-on-tripod screen at the frame edge holding her small branded reflection, the cold floating-logo wall behind: the push-in from F1–F3 finally stops is already underway — Aira holds the settled brand-billboard freeze from F3, grin already faded, the product still half-raised; her eyes flick down off the lens toward her own logo-plastered torso; her gaze travels down her body, taking in the packaging-tape sashes and barcode strips.
+- [00:02–00:04] the product grip goes slack; the raised arm begins to lower a few degrees; she catches her reflection in the dark phone screen on the tripod and stills; lips part barely a millimetre on a small caught breath; brows draw up and slightly together.
+- [00:04–00:06] her free hand drifts up toward her collarbone in a small startled, self-aware gesture; the torso softens and curls in a degree, shoulders dropping from their tense lift; a flicker of "oh" settles behind her steady hazel-brown eyes; the chin tucks a touch; she holds the quiet stricken recognition, the first honest beat landing as the frame eases on.
 
 LIGHTING: the corrupted ring light holding its cold electric branded glare, bluer and harder than F1–F2; the daylight fill stayed dropped, shadows hard; a cold logo-coloured rim from the floating-logo wall; the dark phone screen kicking a faint cold reflection onto her face; the only warm steady note left is the natural catch in her now-aware eyes.
 
@@ -383,9 +347,9 @@ ENVIRONMENT: the cosy content-studio corner held as a cold wall of floating bran
 
 AUDIO: diegetic + SFX + external score only — no VO this frame. Ambient bed — a cold electrical hum with faint digital static, dropping quieter as the performance stops. SFX — a soft slack-grip product creak at 1.7s, a faint phone-screen capacitive tick as she catches her reflection at 2.2s, a small cloth-rustle as her hand lifts to her collarbone at 3.1s, the logo-bubble hum thinning at 4.0s. Reaction — a small caught half-breath at 2.6s. VO — none this frame (NON-TALKABLE).
 
-DURATION: 5 seconds (0:15–0:20 of 30s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps acquisition, 180° shutter, natural motion blur on the slow arm-lower and the hand lifting to her collarbone; NO glitch artifacts this frame — the datamosh has settled, motion is clean and human throughout; the only residual movement is the slow drift of the floating logo bubbles; playback 24fps real-time.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none this frame — NON-TALKABLE; lips move only with the small caught breath and the soft parting on recognition, no spoken words.
 
@@ -444,24 +408,18 @@ STORY BEAT (silent): the change — the warm glitch undoes the billboard and giv
 
 NEGATIVE: morphing or warping of the FACE, identity drift, glitched/distorted face, glitched or colour-drifting eyes, extra limbs, fused fingers, melted features, asymmetric eyes (unintentional), heterochromia, garbled text, floating shadows, duplicated subjects, low-res patches on skin, plastic skin, over-smoothed skin, oversharpened, AI-generated artifacts, watermarks, signature, deformed hands, malformed teeth, joint cuts at ankle/knee/wrist/elbow/neck, amputated fingertips, cross-eyed, lazy eye, off-axis pupils, melted clothing, mismatched footwear, mannequin-stiff posture, dead eyes, statue-frozen energy, garbled label text, any residual cold glitch on the face.
 
-SHOT TYPE: medium-wide seated three-quarter, Aira sitting on the floor filling ~56% of the vertical frame, the cradled terracotta plant and the "pass it on" donation box in the lower third, the warmed content-studio floor opening behind.
+## Frame 5 of 6 — VIDEO PROMPT (THE CHANGE — LOOK C "CURATOR" · WARM RECLAIM GLITCH)
 
-CAMERA MOVEMENT: a slow gentle 4% push-OUT across the frame (reverse near-still drift) — the opposite of F4's cold-frame stillness — easing back a touch to reveal the sorted floor and the donation box, locked-off otherwise; no whip, no jolt, the soft pull-back breathing with the warm resolve.
+IDENTITY (locked): Aira — same person every frame; face, bone structure, eye shape + colour, nose, lips, skin texture and hair strictly locked to reference; ONLY expression, gaze and head move; no identity drift, no face/anatomy warp, no second or duplicate person.
+
+SHOT TYPE: medium-wide seated three-quarter, Aira sitting on the floor filling ~56% of the vertical frame, the cradled terracotta plant and the "pass it on" donation box in the lower third, the warmed content-studio floor opening behind.
 
 LENS: 35mm, f/2.8, smooth creamy fall-off on the warmed background.
 
-SUBJECT ACTION WITH TIMING (fine beats — no spoken line this frame):
-
-- 0.0–0.5s — Aira holds the recognition beat from F4, then a soft warm golden datamosh band begins sweeping down from her shoulders.
-- 0.5–1.0s — the brand-billboard bodysuit dissolves into the calm sage-green linen across her torso, her shoulders dropping as it warms.
-- 1.0–1.5s — the warm band sweeps down to her legs, the logo-clash trousers resolving into soft oatmeal; the box-shoes warming into tan loafers.
-- 1.5–2.0s — she lowers from her knees and settles to sit on the floor, knees folding to one side, weight easing down.
-- 2.0–2.5s — the floating logo bubbles dissolve warmly out of frame; the room behind warms back into honest daylight.
-- 2.5–3.0s — she looks down at the haul spread in front of her, the small private almost-smile beginning.
-- 3.0–3.5s — she lifts the small terracotta-potted plant and cradles it against her front, thumb resting on the rim.
-- 3.5–4.0s — her other hand picks up the glossy product and moves it out over the "pass it on" donation box.
-- 4.0–4.5s — she releases the product down into the box with a calm deliberate set-down.
-- 4.5–5.0s — she settles, gaze lowering to the plant with quiet warmth, a slow steadying breath, the calm holding.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] medium-wide seated three-quarter, Aira sitting on the floor filling ~56% of the vertical frame, the cradled terracotta plant and the "pass it on" donation box in the lower third, the warmed content-studio floor opening behind: a slow gentle 4% push-OUT across the frame (reverse near-still drift) is already underway — Aira holds the recognition beat from F4, then a soft warm golden datamosh band begins sweeping down from her shoulders; the brand-billboard bodysuit dissolves into the calm sage-green linen across her torso, her shoulders dropping as it warms; the warm band sweeps down to her legs, the logo-clash trousers resolving into soft oatmeal; the box-shoes warming into tan loafers.
+- [00:02–00:04] she lowers from her knees and settles to sit on the floor, knees folding to one side, weight easing down; the floating logo bubbles dissolve warmly out of frame; the room behind warms back into honest daylight; she looks down at the haul spread in front of her, the small private almost-smile beginning.
+- [00:04–00:06] she lifts the small terracotta-potted plant and cradles it against her front, thumb resting on the rim; her other hand picks up the glossy product and moves it out over the "pass it on" donation box; she releases the product down into the box with a calm deliberate set-down; she settles, gaze lowering to the plant with quiet warmth, a slow steadying breath, the calm holding.
 
 LIGHTING: the corrupted cold glare resolving back into a soft warm honest daylight key, gentle and flattering; warm window fill lifting the shadows clean; a soft warm rim on the low tuck and shoulder; the cold logo light fully gone; the warm catch restored in her settled eyes.
 
@@ -469,9 +427,9 @@ ENVIRONMENT: the cosy content-studio corner warming back from the cold logo wall
 
 AUDIO: diegetic + SFX + external score only — no VO this frame. Ambient bed — the cold electrical hum warming back into a soft warm room tone. SFX — a warm reverse-shimmer swell as the datamosh warms from 0.2–1.5s, a soft cloth-settle as she sits at 1.8s, a gentle terracotta-pot lift-scrape at 3.2s, a soft cardboard product set-down into the box at 4.2s. Reaction — a slow steadying exhale at 4.6s. VO — none this frame (NON-TALKABLE).
 
-DURATION: 5 seconds (0:20–0:25 of 30s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps acquisition, 180° shutter, natural motion blur on the settle-to-sit and the hands sorting; the warm datamosh dissolve uses a soft warm shimmer-melt (the inverse of F3's hard cold tear) confined to wardrobe, room and props ONLY — gentle, organic, never hard-edged; the face and eyes stay clean human motion throughout; playback 24fps real-time.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none this frame — NON-TALKABLE; lips move only with the small private almost-smile and the slow steadying breath, no spoken words.
 
@@ -536,28 +494,18 @@ IDENTITY (locked): Aira — same person every frame; face, bone structure, eye s
 
 SHOT TYPE: medium-wide seated three-quarter, Aira sitting calm on the cleared floor filling ~56% of the vertical frame, the kept terracotta plant on the low shelf with her hand on the pot rim in the lower third, the packed donation box set aside by the door behind.
 
-CAMERA MOVEMENT: a gentle slow 3% push-IN across the frame (near-still drift-in), the quiet inverse of F5's pull-back — easing softly toward the content smile and the kept plant to close the reel intimate, locked-off otherwise; no whip, no jolt, the slow drift breathing with the settled calm, easing to a complete rest on the final beat.
-
 LENS: 35mm, f/2.8, smooth creamy fall-off on the cleared warm background.
 
-SUBJECT ACTION WITH TIMING (fine beats — no spoken line this frame):
-
-- 0.0–0.6s — Aira sits settled on the cleared floor, one hand resting on the rim of the kept terracotta plant's pot, the small private content smile already held.
-- 0.6–1.2s — she lets out a slow calm breath, shoulders easing a fraction lower.
-- 1.2–1.8s — her thumb brushes once gently along the warm clay rim of the pot.
-- 1.8–2.4s — her gaze drifts from the plant out across the cleared floor to the packed donation box by the door.
-- 2.4–3.0s — a faint deepening of the content smile as she takes in the cleared, calm space.
-- 3.0–3.6s — she gives the small plant's leaf the lightest touch with a fingertip, a tiny private check-in.
-- 3.6–4.2s — her eyes settle back warm and easy on the plant, the faint crinkle of quiet satisfaction at the corners.
-- 4.2–4.8s — chest eases on another slow calm breath, the sage-green linen shifting with a soft matte highlight.
-- 4.8–5.4s — a barely-there nod to herself, the look of someone who has chosen well.
-- 5.4–6.0s — she holds the calm content stillness, hand resting on the pot, the reel settling to its peaceful close.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] medium-wide seated three-quarter, Aira sitting calm on the cleared floor filling ~56% of the vertical frame, the kept terracotta plant on the low shelf with her hand on the pot rim in the lower third, the packed donation box set aside by the door behind: a gentle slow 3% push-IN across the frame (near-still drift-in) is already underway — Aira sits settled on the cleared floor, one hand resting on the rim of the kept terracotta plant's pot, the small private content smile already held; she lets out a slow calm breath, shoulders easing a fraction lower; her thumb brushes once gently along the warm clay rim of the pot.
+- [00:02–00:04] her gaze drifts from the plant out across the cleared floor to the packed donation box by the door; a faint deepening of the content smile as she takes in the cleared, calm space; she gives the small plant's leaf the lightest touch with a fingertip, a tiny private check-in.
+- [00:04–00:06] her eyes settle back warm and easy on the plant, the faint crinkle of quiet satisfaction at the corners; chest eases on another slow calm breath, the sage-green linen shifting with a soft matte highlight; a barely-there nod to herself, the look of someone who has chosen well; she holds the calm content stillness, hand resting on the pot, the reel settling to its peaceful close.
 
 AUDIO: diegetic + SFX + external score only — no VO this frame. Ambient bed — a soft warm room tone, calm and quiet. SFX — a soft slow exhale at 0.7s, a faint clay-rim thumb-brush at 1.4s, a gentle leaf-rustle at 3.2s, a soft fabric-settle as her shoulders ease at 4.6s. Reaction — a slow contented breath at 5.0s. VO — none this frame (NON-TALKABLE).
 
-DURATION: 5 seconds (0:25-0:30 of 30s total).
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps acquisition, 180° shutter, natural gentle motion blur on the slow calm breath, the thumb-brush along the clay pot rim and the light leaf-touch; NO glitch artifacts anywhere this frame — the datamosh is fully resolved and gone, motion is clean, calm and human throughout; the only ambient movement is the slow drift of dust motes in the warm window beam; playback 24fps real-time.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none this frame — NON-TALKABLE; lips move only with the small private content smile and the slow calm breaths, no spoken words.
 

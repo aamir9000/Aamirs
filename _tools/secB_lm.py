@@ -27,12 +27,16 @@ hdr_pat = sys.argv[3] if len(sys.argv) > 3 else rf"# CONCEPT {N}\b"
 text = open(path, encoding="utf-8").read()
 m = re.search(rf"^#+ ?{hdr_pat}.*$", text, re.M) or re.search(rf"^.*CONCEPT {N}\b.*$", text, re.M)
 if not m:
-    sys.exit(f"concept {N} not found")
-# region = from this header to the next top-level concept header
-after = text[m.end():]
-nm = re.search(rf"^#+ ?CONCEPT {N+1}\b", after, re.M) or re.search(rf"^# CONCEPT \d", after, re.M)
-r0 = m.start(); r1 = m.end() + nm.start() if nm else len(text)
-region = text[r0:r1]
+    # single-concept file with no standard concept header -> treat whole file as the region
+    r0, r1, region = 0, len(text), text
+else:
+    after = text[m.end():]
+    nm = re.search(rf"^#+ ?CONCEPT {N+1}\b", after, re.M) or re.search(rf"^# CONCEPT \d", after, re.M)
+    r0 = m.start(); r1 = m.end() + nm.start() if nm else len(text)
+    region = text[r0:r1]
+# guard: if the matched header region has no frames (e.g. matched a stray '... COMPLETE' line), use whole file
+if "## Frame 1 of" not in region:
+    r0, r1, region = 0, len(text), text
 if "SHOT BREAKDOWN (timed" in region and "SUBJECT ACTION WITH TIMING" not in region:
     print(f"CONCEPT {N}: already section-B (skipped)"); sys.exit(0)
 
@@ -65,11 +69,16 @@ def cam_of(va, vb):
     if not cm: return None
     return re.split(r"[,;\u2014]", cm.group(1).strip())[0].strip()
 def phases_of(va, vb):
-    am = re.search(r"^SUBJECT ACTION WITH TIMING[^\n:]*:\s*(.+)$", region[va:vb], re.M)
+    blk = region[va:vb]
+    am = re.search(r"^SUBJECT ACTION WITH TIMING[^\n:]*:[ \t]*([^\n]*)\n(?:[ \t]*\n)?((?:- [^\n]*\n?)+)", blk, re.M)
+    bullets = am.group(2) if am else None
+    if not am:
+        am = re.search(r"^SUBJECT ACTION WITH TIMING[^\n:]*:\s*(.+)$", blk, re.M)
     if not am: return []
+    raw = [b for b in re.split(r"\n?- ", bullets) if b.strip()] if bullets else re.split(r";\s*", am.group(1).strip())
     out = []
-    for p in re.split(r";\s*", am.group(1).strip()):
-        # strip leading timing prefix: "0:00.0–0:00.8 — ", "0.0–3.0s — ", or "0.0–1.8s " (no dash)
+    for p in raw:
+        p = p.strip()
         p = re.sub(r"^\s*\d+:\d+(?:\.\d+)?\s*\u2013\s*\d+:\d+(?:\.\d+)?\s*(?:\u2014\s*)?", "", p)
         p = re.sub(r"^\s*[\d.]+\s*\u2013\s*[\d.]+s\s*(?:\u2014\s*)?", "", p).strip()
         p = re.sub(r"\s*(?:One clean subject action[^.]*|Clean cause[^.]*|real physics throughout|real physics except[^.]*)\.?\s*$", "", p).strip()
@@ -97,7 +106,7 @@ for k in present:
              f"- [00:02\u201300:04] {b2}.\n"
              f"- [00:04\u201300:06] {b3}.")
     vblk = re.sub(r"^CAMERA MOVEMENT:[^\n]*\n\n?", "", vblk, count=1, flags=re.M)
-    vblk = re.sub(r"^SUBJECT ACTION WITH TIMING[^\n:]*:[^\n]*$", lambda _: BRK_HDR + "\n" + beats, vblk, count=1, flags=re.M)
+    vblk = re.sub(r"^SUBJECT ACTION WITH TIMING[^\n:]*:[^\n]*(?:\n(?:[ \t]*\n)?(?:- [^\n]*\n?)+)?", lambda _: BRK_HDR + "\n" + beats + "\n", vblk, count=1, flags=re.M)
     vblk = re.sub(r"^DURATION:[^\n]*$", lambda _: DUR_STD, vblk, count=1, flags=re.M)
     vblk = re.sub(r"^FRAME RATE \+ MOTION BLUR:[^\n]*$", lambda _: FR_STD, vblk, count=1, flags=re.M)
     region = region[:va] + vblk + region[vb:]
