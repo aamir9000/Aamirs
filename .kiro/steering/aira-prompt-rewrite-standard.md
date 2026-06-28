@@ -841,3 +841,47 @@ pose. Keep loop + first/last-frame.
 
 RULE OF THUMB: GRWM = held/contained pose (Pass 2 skips them); everything else = full per-frame
 pose/motion variety in Pass 2. Pass 1 must be complete on a file before Pass 2 touches it.
+
+
+
+====================================================================
+## *** FINAL VERIFICATION PASS — RUN ONLY AFTER BOTH PASS 1 AND PASS 2 ARE COMPLETE ***
+====================================================================
+When the on-going fix (PASS 1 = L+M retrofit + lean-strip) AND the second fix (PASS 2 = full-body
+pose/motion) have BOTH been applied to every concept, audit EVERY concept file in ALL folders
+(Transformation, Beauty, Surreal, Action, Time-Freeze, Travel-Scenic, Product) and produce a
+per-file PASS/FAIL report. Fix any file that fails, then re-verify. Checks per file:
+
+LEAN-STRIP (video prompts only; image prompts must stay fully detailed):
+  - 0 long "IDENTITY & CHARACTER-CONSISTENCY LOCK:" paragraphs (all replaced by short "IDENTITY
+    (locked):" line); short-identity count == video-prompt count.
+  - 0 "^ENVIRONMENT:" lines (video-only field removed); 0 long video "NEGATIVE: morphing..." lines
+    (all trimmed to the short video negative).
+  - IMAGE prompts intact: image "LIGHTING: KEY" count and image "NEGATIVE: mirrored..." count
+    unchanged from pre-strip (image detail preserved).
+
+L+M MODEL (transformation concepts):
+  - 0 old-model residue anywhere: mid-sweep/mid-wrap/mid-bloom/mid-burst/mid-flip, "locked START",
+    "locked END", "interpolate strictly", "interpolates cleanly", "Camera distance",
+    "Transform-anchor distance", "suspended build", "macro build beat", "radiant reveal",
+    "transform resolved", "cause building to effect", "clearly imminent".
+  - Every frame's SHOT BREAKDOWN beat 1 opens "Cut to" or "Match-cut" (match-cut joins).
+  - Each transform concept: Movement line on the mid-clip/held-angle/first-last-frame model;
+    transform-frame IMAGE shows the clean LOOK A; the next frame's image = the matched LOOK B.
+
+FULL-BODY MOTION (PASS 2 — every concept EXCEPT GRWM/exceptions):
+  - Each frame carries a distinct head-to-toe kinetic chain in BOTH the video beats AND the image
+    BODY POSTURE/SUBJECT FRAMING/HANDS; no two frames repeat the same pose; verify a spread of
+    motion verbs (stride/turn/pivot/lean/step/sway/level-change etc.) across the 7 frames.
+  - GRWM reels + Six Cities (02) + Glass Skin (14) correctly remain CONTAINED; fragrance (06,07)
+    gentle motion.
+
+STRUCTURAL INTEGRITY (every file):
+  - SHOT BREAKDOWN count == VIDEO PROMPT count; first-beat "[00:00" bracket count matches.
+  - All DURATION lines = the 6s standard; all FRAME RATE lines = the standard no-slow-mo string;
+    0 non-negated slow-mo/slow-motion.
+  - identity-lock count == video-prompt count; image ORIENTATION LOCK count == image-prompt count.
+  - Spoken lines preserved (quoted) where the concept is spoken; silent concepts have no VO.
+
+Report each file as PASS or list the exact failing check + line; remediate; commit the fixes;
+then mark the whole project COMPLETE in this tracker.
