@@ -1465,6 +1465,95 @@ BEATSLM[17] = [
 ]
 
 
+BEATSLM[18] = [
+    # F1 - soft day Look A establishing, alive lateral track, holding open book
+    (
+        "Cut to a medium-wide thigh-up tracking shot in the warm indie bookstore: the camera "
+        "dollies laterally to settle on her as she settles her weight onto the back leg and "
+        "holds an open book soft, her left hand on a shelf-edge, the tall worn shelves and brass "
+        "lamps sliding behind with real parallax; a warm quiet quarter-smile holding.",
+        "The track eases to rest as a laid edge of the ribboned low ponytail catches the warm "
+        "lamp and she eases her warm gaze to lens, soft dust-motes drifting in the window shaft, "
+        "a soft quiet quarter-smile settling.",
+        "She holds, soft and quiet in the cream blouse, the ribboned ponytail tidy, eyes warm in "
+        "the amber reading light (silent here).",
+    ),
+    # F2 - day look, push-with lifting hand from book toward cresting pages, cut to a closer three-quarter
+    (
+        "Cut to a medium-close three-quarter: she is already lifting her right hand soft from "
+        "the book toward the cresting pages as if to feel them, fingers gently open, as the "
+        "camera pushes with her hand; gaze toward the pages.",
+        "A page-edge trembles at her fingertip as her gaze warms with quiet wonder and a soft "
+        "micro-smile kindles.",
+        "She holds the hand poised toward the pages, eyes warm and soft, the soft day look quiet "
+        "and intact (silent here).",
+    ),
+    # F3 - day look clean (NO sweep yet), slow arc to a fresh angle, raise hand toward pages
+    (
+        "Cut to a medium chest-up on a fresh three-quarter angle: she raises her hand soft "
+        "toward the pages and draws a slow breath, her left hand easing open on the shelf, as "
+        "the camera arcs a few degrees and the shelves swing behind with parallax; gaze "
+        "lifting.",
+        "The arc settles as her gaze lifts to lens with rising warm wonder and a knowing soft "
+        "smile forms, the page-flutter cresting in frame, still in the soft day look.",
+        "She holds the poised bookshop beat, hand raised toward the pages, eyes warm and soft "
+        "\u2014 the breath before the page-flutter (silent here).",
+    ),
+    # F4 - THE TRANSFORM, HELD ANGLE, smooth mid-clip page-flutter; first=soft day, last=refined warm
+    (
+        "Cut to an energized medium at a HELD angle (Veo first frame = the soft-day Look A "
+        "still): she eases her hand down from the pages, already in motion \u2014 still the cream "
+        "blouse, NO flutter yet, a gentle push-with easing in, the angle fixed for the whole "
+        "clip.",
+        "The page-flutter BEGINS here, mid-clip: a single travelling page-flutter sweeps "
+        "smoothly across the frame in one continuous warm front, real book pages fluttering up "
+        "by believable paper weight and air-drift, the soft cream blouse deepening into the "
+        "tailored caramel blazer over a soft knit vest and the room warming to a snug reading "
+        "glow exactly where the flutter passes \u2014 cloth resolving with real spread and "
+        "inertia, gradual and warm, never a snap, no garish glare; the ribboned ponytail "
+        "catching travelling amber light, eyes warming in refined wonder (angle held, face "
+        "cleanly lit, identity locked).",
+        "The flutter completes its sweep and the look settles smoothly and fully into the "
+        "refined-warm Look B of the Veo last-frame still (Frame 5's image) \u2014 the tailored "
+        "caramel blazer over the knit vest and blouse in a snug amber reading glow, resolved and "
+        "held through the final beat, no last-second pop; a warm refined calm landing in her "
+        "eyes.",
+    ),
+    # F5 - refined Look B reveal, cut to a NEW angle, settle the blazer lapel
+    (
+        "Cut to a medium close on a new angle in the snug amber reading glow: she is already in "
+        "the refined warm look, drifting her right hand to settle the blazer lapel with an easy "
+        "roll of the shoulder; gaze easing to lens.",
+        "A warm refined smile eases to lens on a slow breath, the last dust-motes settling in "
+        "the lamp-glow, eyes soft and warm.",
+        "She holds the refined warm look, the blazer sitting clean, eyes warm and direct "
+        "(silent here).",
+    ),
+    # F6 - spoken line, cut to a fresh angle, push-with the turn
+    (
+        "Cut to a medium chest-up on a fresh angle: she shifts her weight with an easy "
+        "six-degree turn and drifts her right hand open soft in a warm easy gesture as the "
+        "camera eases with her; gaze warm to lens.",
+        "She delivers \u201cLost in the pages, found myself.\u201d to lens with a warm refined "
+        "smile and natural lip-sync, the reading glasses catching a soft glint, eyes warm and "
+        "direct.",
+        "She holds the refined warm look as the blazer settles, the smile easing into warm "
+        "calm.",
+    ),
+    # F7 - loop close, cut back to match Frame 1 holding open book
+    (
+        "Cut to a medium-wide thigh-up matched to Frame 1: she returns her right hand to hold "
+        "the open book soft, her left hand on the shelf-edge, settling her weight onto the back "
+        "leg exactly as in Frame 1 as the camera settles to the opening framing.",
+        "She eases her warm gaze back to lens on a slow breath with the composed quiet "
+        "quarter-smile, the refined reading glow resolving back toward the soft quiet day-look "
+        "opening to seed the loop.",
+        "She lands precisely on the Frame 1 pose and gaze, soft and quiet among the books "
+        "\u2014 a seamless loop seam.",
+    ),
+]
+
+
 def build_block(beats):
     return (
         BREAKDOWN_HEADER + "\n"
