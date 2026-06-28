@@ -27,7 +27,7 @@ Makeup: graphic candy pop: a glossy hot-pink floating graphic eye, high-gloss ta
 
 Eye Colour: locked to the Aira reference — warm hazel-brown with a soft amber inner ring; zero drift, both irises matched, no heterochromia
 
-Movement: macro rack-focus → graphic 3D orbit on the levitating hero jar (beauty mandate, X.15 rule 16)
+Movement: macro rack-focus → graphic 3D orbit on the levitating hero jar (beauty mandate, X.15 rule 16). The look change is contained MID-CLIP at a HELD angle (Veo first/last-frame: clean Look A -> resolved Look B) and the optical magic beat is contained mid-clip too (her single resolved look held, the effect kindles -> blooms -> settles to a halo); every frame join is a hard match-cut to a new angle.
 
 Concept Line (NOT spoken): "good things wobble"
 
@@ -43,7 +43,7 @@ Spoken line: NONE — fully silent reel, no voice-over any frame (X.15)
 
 Audio note: diegetic sound design only per frame (no music in-clip); a separate subtle Master Track Brief sits underneath, never full
 
-Identity safety: Aira face/bone-structure/hair locked to reference every frame; adult, non-sexualized; zero drift through the blob-morph transform
+Identity safety: Aira face/bone-structure/hair locked to reference every frame; adult, non-sexualized; zero drift through the blob-morph transform each impossible beat is contained inside one clip at a held angle and resolves smoothly by clip-end; her single self and face are never duplicated or covered.
 
 Visual-lead note: the candy-blob language must read as glossy, bouncy and saturated pop — clean wobble physics and crisp marbling, never muddy or murky
 
@@ -125,21 +125,21 @@ NEGATIVE: identity drift, face or hand warp, extra or fused fingers, duplicate p
 
 IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
 
-TRANSFORM KEYFRAME NOTE: this is the signature change-beat. Glossy candy lava-lamp blobs rise from the floor, float up around her body and merge into a single sheet that morphs and sets into the new blob-form gown (identity-through-transform). KEYFRAME-LOCK : the face, hairline, eye position and skin texture are identical to Frame 1 — only the wardrobe transitions as the blobs coalesce into the magenta liquid-latex gown. No melting of features, no limb drift, no second subject. Cause → effect reads cleanly: blobs rise → merge → set.
+TRANSFORM KEYFRAME NOTE: the material-assembly change — contained MID-CLIP inside this one frame at a HELD angle. This is the START frame of the transform CLIP (Veo's FIRST frame): glossy candy lava-lamp blobs just beginning to gather, the magenta liquid-latex blob-form gown NOT yet formed. The change happens MID-CLIP at this same held angle — glossy candy lava-lamp blobs rise from the floor, float up around her and merge into a single sheet and set into the magenta liquid-latex blob-form gown — settling into Frame 3's fully-formed image (Veo's LAST frame); the camera may travel or crane with her but never rotates its angle through the change. Face, hairline, eye position and skin texture stay identical to Frame 1. Do NOT depict the formed gown in this still and do NOT invent a second Aira, a new face or new hands.
 
 VISUAL-LEAD NOTE: the hero beat is the candy blobs mid-merge — glossy magenta, lime and tangerine globes floating up and fusing around her torso, caught at the instant they sheet together and begin setting into couture; bouncy and saturated, clean wobble physics, never muddy or smeared.
 
-WARDROBE (mid-transform): the glossy liquid-latex blob-form gown is mid-formation — a cluster of candy-coloured lava-lamp blobs rising and merging around the body, each globe high-shine and wobbling with believable surface tension, fusing into a continuous magenta sheet marbled with lime and tangerine; at the leading edge it is already setting into the sculpted organic blob seams of the finished gown, the surface reading liquid where it merges and glossy-solid where it sets, with clean edges and zero muddy blending.
+WARDROBE: (start of assembly) — the magenta liquid-latex blob-form gown NOT yet formed; glossy candy lava-lamp blobs just beginning to gather and rise, only the first elements starting to settle; no formed gown yet, no floating debris.
 
-FOOTWEAR: clear jelly platform mules unchanged at the hem break, now catching the brighter transform light and scattering stronger internal candy-glow, the lime sole flashing a sharp specular.
+FOOTWEAR: clear jelly platform mules just visible at the hem — translucent candy-pink jelly blocks with internal light scattering, a chunky lime-green jelly sole, a glossy wet sheen across the toe-strap; one sharp clean specular riding the jelly.
 
-ACCESSORIES: the candy-resin bangle stack swinging a few degrees with the rising motion; the lime jelly hoops wobbling on the updraft; the wobble-drop pendant lifting and trembling as the blobs float past.
+ACCESSORIES: a stack of chunky translucent candy-resin bangles (magenta, lime, tangerine) on one wrist catching internal glints; oversized lime-green jelly hoop earrings with a glossy wobble; a clear wobble-drop pendant resting at the collarbone.
 
-HAIR (70s-Flip Blow-Out): the glossy flip holding its bouncy set, lifting a few centimetres on the energy of the rising blobs, the mirror-gloss sheen band intensifying as candy light floods the scene; deep side part intact, hairline razor-clean, flicked ends sharp, real strands legible under the gloss.
+HAIR (70s-Flip Blow-Out): a bouncy high-shine 70s-flip blow-out with a deep side part, the lengths flicked out in glossy bouncing ends, lacquered to a mirror-gloss finish so the crown catches the key as a clean travelling sheen band; razor-clean hairline, soft volume at the root, individual strands still legible as real hair under the gloss, zero frizz.
 
-MAKEUP (Graphic Candy Pop): unchanged and locked — the hot-pink graphic eye crisp, glossy tangerine lip picking up candy reflections, dewy blush glowing, glass skin kept dewy and real with visible pores, no plastic over-smoothing.
+MAKEUP (Graphic Candy Pop): glowing glass-skin base; a crisp glossy hot-pink floating graphic eye arcing above the crease in one clean saturated sweep with a soft wet sheen; a high-gloss tangerine lip with a concentrated wet light-point; dewy peachy-coral blush high on the apples; a lime-pearl inner-corner brightener; fluffy set brows; skin kept dewy and real with visible pores and fine vellus texture (glow from light, never plastic over-smoothing).
 
-EYE COLOUR: locked to the Aira reference — warm hazel-brown with a soft amber inner ring; zero drift, both irises matched, no heterochromia. Intensified candy catchlights allowed; iris colour never changes and never picks up the pink liner.
+EYE COLOUR: locked to the Aira reference — warm hazel-brown with a soft amber inner ring; zero drift, both irises matched, no heterochromia. A crisp twin catchlight from the softbox; the hot-pink graphic liner never bleeds into the iris colour.
 
 HANDS & NAILS: right hand lifted to chest height with fingers spread into the rising blobs, palm catching a glossy globe; left hand drawing outward to trail the merge, fingers gently curved; short rounded nails in candy-pink jelly-gloss, natural nail-bed colour, cuticles neat, no fused or extra fingers.
 
@@ -147,24 +147,24 @@ FACIAL MICRO-DYNAMICS: lips parted about 2mm on a held breath of delight; eyes w
 
 BODY POSTURE & WEIGHT: mid-motion but balanced — torso opening about 8° into the rising blobs, weight transferring through the back leg with a believable counter-rotation in the hips, front shoulder rising slightly to follow the lifting hand; spine long and alive; momentum legible, never frozen-stiff or off-balance.
 
-KINETIC STILLNESS (8 layers): (1) candy blobs mid-rise and merge, leading edge setting into gown seams; (2) the glossy flip lifted and beginning to settle; (3) a baby-hair streaming at the temple on the updraft; (4) giant lava-lamp blobs rising fast across the candy cyclorama; (5) chest held at the top of a delighted inhale; (6) glossy speculars racing across the merging globes; (7) a small blob pinching off and wobbling free, catching light; (8) lime jelly hoops mid-swing.
+KINETIC STILLNESS (8 layers): (1) the glossy flip-ends mid-settle, a 2cm bounce easing to rest; (2) a single loose baby-hair drifting at the temple in the studio air; (3) the magenta jelly still wobbling gently inside the tilted orb jar from being lifted; (4) a giant lava-lamp blob rising slowly behind her, lazily changing shape; (5) chest rising on a soft shallow inhale; (6) specular glints sliding a few millimetres along the glossy jar dome as it tips; (7) the liquid-latex gown breathing with a micro-shift of wet highlight as her ribcage expands; (8) a candy-resin bangle micro-swinging on the wrist.
 
-SPATIAL LOGIC: FOREGROUND — her spread right hand and a floating candy globe at about 18% depth, tack sharp. MIDGROUND — Aira centered, the blobs merging around her torso. BACKGROUND — candy-colour seamless saturated with rising lava-lamp blobs, one bright gradient hotspot behind the head for separation, high-gloss floor reflection, clean and seamless.
+SPATIAL LOGIC: FOREGROUND — the clear orb jar and her cradling fingers at roughly 20% frame depth, tack sharp, label window forward. MIDGROUND — Aira centered, three-quarter torso filling the frame. BACKGROUND — glossy candy-colour seamless with slow rising lava-lamp blobs, one soft brighter gradient hotspot directly behind her head for clean separation, high-gloss floor catching a clean inverted reflection, no seams, no clutter.
 
-LIGHTING: KEY — clamshell beauty softbox holding the face evenly lit and locked. FILL — white bounce lifting under-chin clean. RIM — hair-light kicking intensified sheen off the lifted flip. PRACTICAL — the glowing blobs casting a travelling candy-colour wash as they rise. SEPARATION — cyclorama one stop down. BOUNCE — a candy kick lighting the underside of the merging globes so their colour reads saturated and clean.
+LIGHTING: KEY — a large softbox feathered from above-front producing wrap-around soft beauty light. FILL — a white bounce card below lifting under-chin and neck shadows clean (clamshell). RIM — a subtle hair-light skimming the glossy flip to separate the crown. PRACTICAL — the glowing lava-lamp blobs casting a soft candy-colour wash behind. SEPARATION — the candy seamless held one stop down so she pops by about 2 stops. BOUNCE — a soft kick off a hidden card adding a glossy catch to the orb jar.
 
 FRAMING: ASPECT 9:16; medium, waist-up to catch the merge, 10% headroom, the rising blobs entering bottom-frame, clean space camera-right for the globes to float into.
 SUBJECT FRAMING & POSITION: A medium, waist-up transform showpiece with about 10% headroom, the rising candy blobs entering bottom-frame, clean negative space camera-right for the merge. Her torso opens about 8 degrees into the rising blobs, mid-motion but balanced, weight transferring through the back leg. Camera at mid distance, framed from roughly the waist up to catch the blob-merge climbing the figure. She is centred, near-frontal three-quarter, the spread right hand leading in the near field. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 LENS + DOF + BOKEH: 50mm, f/2.8; focus locked on her near eye and the setting bodice edge; background a creamy field with candy blob bokeh; soft specular blooms off the glossy globes; gentle highlight roll-off, no clipping.
 
-COMPOSITION REFERENCE: high-fashion transform hero — playful candy couture meets liquid lava-lamp VFX, the instant a gown is born from floating blobs, glossy and phone-stopping.
+COMPOSITION REFERENCE: the held breath before the signature change — the clean opening look, the single impossible move about to begin.
 
-ATMOSPHERE: playful, awe-struck, surreal — the air alive with floating candy globes and the glossy bounce of a garment coalescing from liquid.
+ATMOSPHERE: anticipatory, electric, futuristic — the instant before the change sweeps across her.
 
 COLOR GRADE: bright commercial-beauty with amplified candy-pop — saturated magenta, lime and tangerine globes, clean whites, blacks rich but never crushed, full mid-tone detail, zero grain, no milky blacks, no teal-orange muddiness.
 
-TEXTURE & MICRO-DETAIL: each candy blob shows a glossy wet skin with believable surface tension and a pin-sharp specular pip; the merging sheet shows clean colour marbling with no smearing; a small blob pinches off holding a perfect wobble; real skin micro-texture with peach-fuzz at the jaw catching rim light; one dust mote lit candy crossing the key.
+TEXTURE & MICRO-DETAIL: the clear orb jar shows a glossy domed surface with one polished label window and crisp internal light-scatter through the wobbling jelly; a hairline condensation sheen on the cool side; the lime screw base throws a tiny pin-sharp specular; the liquid-latex gown reads wet-glossy with clean marbling; real skin micro-texture with soft peach-fuzz catching rim light at the jaw; one almost-invisible dust mote drifting through the key beam.
 
 SPOKEN LINE: NONE — silent frame, lips parted in delight, no speech.
 
@@ -179,9 +179,9 @@ SHOT TYPE: medium, waist-up rising to capture the full blob-merge, subject filli
 LENS: 50mm, f/2.8, creamy candy-blob fall-off behind.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Medium waist-up rising: a slow 6% craning lift is already tracking the rising blobs as glossy candy globes float up around her body, magenta, lime and tangerine wobbling with believable surface tension; gaze following the floating blobs, face delighted.
-- [00:02–00:04] The lift rides the merge as the blobs join around her torso into a single marbled sheet and the leading edge sets into the sculpted blob-form gown; a wondering breath, brows lifting.
-- [00:04–00:06] The gown finishes with a final glossy ripple and a small blob pinches off and wobbles free as her shoulders settle and she lifts her chin into the reveal.
+- [00:00–00:02] Cut to medium, waist-up rising to capture the full blob-merge, subject filling about 50% of the vertical frame — HELD angle (Veo first frame = the clean opening still): she is already in motion in the intact opening look — the change NOT yet begun, the angle fixed for the whole clip; gaze beginning to track the coming change.
+- [00:02–00:04] The change BEGINS here, mid-clip: the glossy candy lava-lamp blobs assembling and setting into the magenta liquid-latex blob-form gown in one continuous motion — gradual and motivated, never a snap; a wondering breath, brows lifting (angle held, identity locked).
+- [00:04–00:06] The change completes and the look settles smoothly and fully into the magenta liquid-latex blob-form gown of the Veo last-frame still (Frame 3's image), resolved and held; she lands a confident finished beat, eyes alight.
 
 AUDIO: silent of any voice — NO spoken word, NO vocal of any kind. Ambient bed — a warm low candy-studio room tone. SFX — soft gloopy rising-blob bubble-wobbles building from 0.3s, a smooth liquid merge-whoosh at 1.6s as the globes fuse, a gentle glossy set-and-snap shimmer at 4.0s as the gown finishes, a tiny wet pinch-pop at 4.8s as a blob breaks free. Reaction — a soft delighted breath only, no voiced sound. VO — none.
 
@@ -471,7 +471,7 @@ SHOT TYPE: medium-full, subject filling about 65% of the vertical frame, the orb
 LENS: 35mm, f/2.8, creamy candy fall-off with glowing blob bokeh.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Medium-full with the orbital rings filling the width: a slow 8% orbital arc is already circling her as she raises her open palms and the hovering candy blobs defy gravity, a larger globe pinching and splitting into two in clean candy mitosis; gaze drawn to the split.
+- [00:00–00:02] Cut to medium-full, subject filling about 65% of the vertical frame, the orbital rings filling the width — HELD angle (Veo first frame = the kindle still): the effect is only just beginning, her look calm and fully resolved; gaze drawn to it (her single self held, the angle fixed).
 - [00:02–00:04] The orbit rides the magic as the split globes arc into two concentric orbital rings circling her like planets, each trailing a glossy comet-sheen; her face serene-radiant at the centre, eyes widening.
 - [00:04–00:06] The rings settle into a steady glowing orbit with a final small blob wobbling at the apex as she holds the transcendent pose; a radiant smile landing, eyes alight.
 
@@ -597,7 +597,7 @@ Makeup: graphic electric pop: a cyan-and-magenta floating graphic liner, chrome 
 
 Eye Colour: locked to the Aira reference — warm hazel-brown with a soft amber inner ring; zero drift, both irises matched, no heterochromia
 
-Movement: macro rack-focus → graphic 3D orbit on the levitating plasma orb (beauty mandate, X.15 rule 16)
+Movement: macro rack-focus → graphic 3D orbit on the levitating plasma orb (beauty mandate, X.15 rule 16). The look change is contained MID-CLIP at a HELD angle (Veo first/last-frame: clean Look A -> resolved Look B) and the optical magic beat is contained mid-clip too (her single resolved look held, the effect kindles -> blooms -> settles to a halo); every frame join is a hard match-cut to a new angle.
 
 Concept Line (NOT spoken): "spark it"
 
@@ -613,7 +613,7 @@ Spoken line: NONE — fully silent reel, no voice-over any frame (X.15)
 
 Audio note: diegetic sound design only per frame (no music in-clip); a separate subtle Master Track Brief sits underneath, never full
 
-Identity safety: Aira face/bone-structure/hair locked to reference every frame; adult, non-sexualized; zero drift through the plasma-weave transform
+Identity safety: Aira face/bone-structure/hair locked to reference every frame; adult, non-sexualized; zero drift through the plasma-weave transform each impossible beat is contained inside one clip at a held angle and resolves smoothly by clip-end; her single self and face are never duplicated or covered.
 
 Visual-lead note: the plasma language must read as vibrant, electric and clean — crisp glowing filaments and saturated colour against a deep gloss base, never muddy, murky or dull
 
@@ -695,21 +695,21 @@ NEGATIVE: identity drift, face or hand warp, extra or fused fingers, duplicate p
 
 IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
 
-TRANSFORM KEYFRAME NOTE: this is the signature change-beat. Crackling plasma filaments arc out from the orb and the floor, race up around her body in glowing electric threads and weave themselves into the new liquid-chrome plasma-filament gown (identity-through-transform). KEYFRAME-LOCK : the face, hairline, eye position and skin texture are identical to Frame 1 — only the wardrobe transitions as the filaments weave and the chrome sets around them. No melting of features, no limb drift, no second subject. Cause → effect reads cleanly: arcs leap → threads weave → chrome sets.
+TRANSFORM KEYFRAME NOTE: the material-assembly change — contained MID-CLIP inside this one frame at a HELD angle. This is the START frame of the transform CLIP (Veo's FIRST frame): crackling magenta-cyan plasma filaments just beginning to gather, the liquid-chrome plasma-filament gown NOT yet formed. The change happens MID-CLIP at this same held angle — crackling plasma filaments arc out from the orb and the floor, race up around her in glowing electric threads and weave and set into the liquid-chrome plasma-filament gown — settling into Frame 3's fully-formed image (Veo's LAST frame); the camera may travel or crane with her but never rotates its angle through the change. Face, hairline, eye position and skin texture stay identical to Frame 1. Do NOT depict the formed gown in this still and do NOT invent a second Aira, a new face or new hands.
 
 VISUAL-LEAD NOTE: the hero beat is the plasma filaments mid-weave — glowing electric magenta and cyan threads lacing up around her torso like live wire, caught at the instant they knit together and the liquid chrome sets around them into couture; vibrant and electric, crisp arc physics, never muddy or smeared.
 
-WARDROBE (mid-transform): the liquid-chrome plasma-filament gown is mid-formation — dozens of crackling electric filament threads arcing up and weaving a glowing lattice around the body, each thread a clean line of magenta-cyan light with tiny branching sparks, the gloss black-violet chrome flowing in behind to set around the lattice; at the leading edge it is already solidified into the sculpted sculptural seams of the finished gown, the surface reading live-electric where it weaves and glossy-solid where it sets, with crisp glowing edges and zero muddy blending.
+WARDROBE: (start of assembly) — the liquid-chrome plasma-filament gown NOT yet formed; crackling magenta-cyan plasma filaments just beginning to gather and rise, only the first elements starting to settle; no formed gown yet, no floating debris.
 
-FOOTWEAR: clear illuminated platform boots unchanged at the hem break, the electric-cyan sole-cores flaring brighter in the transform light and casting a stronger glow at the black-mirror floor.
+FOOTWEAR: clear illuminated platform boots just visible at the hem — transparent blocks with glowing electric-cyan light-cores in the soles, a glossy wet sheen across the shaft, one sharp clean specular riding the clear surface, the cyan core casting a clean glow at the black-mirror floor.
 
-ACCESSORIES: the chrome cuff bracelets arcing brighter plasma threads with the rising energy; the electric-violet drop earrings catching the flaring light; the filament-wire choker pulsing brighter at the throat.
+ACCESSORIES: polished chrome cuff bracelets on one wrist with tiny plasma threads arcing across the gap; electric-violet faceted drop earrings catching coloured glints; a glowing filament-wire choker tracing a thin line of electric light at the throat.
 
-HAIR (Wet-Look Chrome Ponytail): the sleek chrome ponytail lifting a few centimetres on the electric updraft, the violet sheen band flaring as plasma light floods the scene; razor edge intact, hairline clean, the polished length swinging slightly, top strands legible under the gloss.
+HAIR (Wet-Look Chrome Ponytail): a sleek wet-look sculpted high ponytail tied at the crown with a razor-clean edge, lacquered to a mirror chrome finish with zero flyaways, an electric-violet sheen band travelling across the crown as she moves, the length falling behind in one polished ribbon; individual top strands still reading as real hair under the gloss.
 
-MAKEUP (Graphic Electric Pop): unchanged and locked — the cyan-magenta graphic liner crisp, glossy electric-violet lip picking up plasma reflections, chrome highlight flaring, glass skin kept dewy and real with visible pores, no plastic over-smoothing.
+MAKEUP (Graphic Electric Pop): glowing glass-skin base; a crisp floating graphic liner sweeping cyan into magenta in one clean saturated arc above the crease with a soft wet sheen; a glossy electric-violet lip with a concentrated wet light-point; a chrome high-shine highlight stacked on the cheekbone, brow-bone and nose-tip; dewy cool-pink blush; fluffy set brows; skin kept dewy and real with visible pores and fine vellus texture (glow from light, never plastic over-smoothing).
 
-EYE COLOUR: locked to the Aira reference — warm hazel-brown with a soft amber inner ring; zero drift, both irises matched, no heterochromia. Intensified electric catchlights allowed; iris colour never changes and never picks up the cyan-magenta liner.
+EYE COLOUR: locked to the Aira reference — warm hazel-brown with a soft amber inner ring; zero drift, both irises matched, no heterochromia. A crisp twin catchlight plus electric cyan-magenta rim glints from the plasma; the graphic liner never bleeds into the iris colour.
 
 HANDS & NAILS: right hand lifted to chest height with fingers spread into the rising filaments, plasma threads arcing between the fingertips; left hand drawing outward to trail the weave, fingers gently curved; short rounded nails in chrome-violet gloss, natural nail-bed colour, cuticles neat, no fused or extra fingers.
 
@@ -717,24 +717,24 @@ FACIAL MICRO-DYNAMICS: lips parted about 2mm on a charged held breath; eyes wide
 
 BODY POSTURE & WEIGHT: mid-motion but balanced — torso opening about 8° into the rising filaments, weight transferring through the back leg with a believable counter-rotation in the hips, front shoulder rising slightly to follow the lifting hand; spine long and alive; momentum legible, never frozen-stiff or off-balance.
 
-KINETIC STILLNESS (8 layers): (1) plasma filaments mid-weave, leading edge setting into chrome gown seams; (2) the chrome ponytail lifted and beginning to settle; (3) a baby-hair streaming at the temple on the electric updraft; (4) plasma arcs branching fast across the deep cyclorama; (5) chest held at the top of a charged inhale; (6) electric glints racing along the weaving threads; (7) a single spark pinching off a filament and arcing free; (8) the chrome cuffs throwing live threads across the wrist gap.
+KINETIC STILLNESS (8 layers): (1) the chrome ponytail mid-settle, a 2cm pendulum sway easing to rest; (2) a single loose baby-hair drifting at the temple in the studio air; (3) the electric-violet oil still rocking gently inside the tilted orb from being lifted, the filament core crackling; (4) a slow plasma arc drifting and branching behind her; (5) chest rising on a soft shallow inhale; (6) specular glints sliding a few millimetres along the glossy orb and chrome cap as it tips; (7) the plasma filament lines on the gown pulsing faintly brighter and dimmer; (8) a chrome cuff micro-swinging on the wrist.
 
-SPATIAL LOGIC: FOREGROUND — her spread right hand and an arcing filament at about 18% depth, tack sharp. MIDGROUND — Aira centered, the threads weaving around her torso. BACKGROUND — deep gloss black-violet seamless charged with branching plasma arcs, one bright electric hotspot behind the head for separation, high-gloss black-mirror floor reflection, clean and seamless.
+SPATIAL LOGIC: FOREGROUND — the clear orb and her cradling fingers at roughly 20% frame depth, tack sharp, label window forward. MIDGROUND — Aira centered, three-quarter torso filling the frame. BACKGROUND — deep gloss black-violet seamless with slow drifting plasma arcs, one soft brighter electric gradient hotspot directly behind her head for clean separation, high-gloss black-mirror floor catching a clean inverted reflection, no seams, no clutter.
 
-LIGHTING: KEY — clamshell beauty softbox holding the face evenly lit and locked. FILL — white bounce lifting under-chin clean. RIM — cool violet hair-light kicking intensified sheen off the lifted ponytail. PRACTICAL — the weaving filaments and branching arcs casting a travelling electric magenta-cyan wash. SEPARATION — cyclorama held well down. BOUNCE — an electric kick lighting the underside of the weaving threads so their colour reads saturated and clean.
+LIGHTING: KEY — a large softbox feathered from above-front producing wrap-around soft beauty light. FILL — a white bounce card below lifting under-chin and neck shadows clean (clamshell). RIM — a cool electric-violet hair-light skimming the chrome ponytail to separate the crown. PRACTICAL — the crackling plasma arcs and the gown's filament lines casting an electric magenta-cyan wash. SEPARATION — the seamless held well down so she pops cleanly. BOUNCE — a soft kick off a hidden card adding a glossy catch to the orb glass.
 
 FRAMING: ASPECT 9:16; medium, waist-up to catch the weave, 10% headroom, the rising filaments entering bottom-frame, clean space camera-right for the arcs to race into.
 SUBJECT FRAMING & POSITION: A medium, waist-up transform showpiece with about 10% headroom, the rising plasma filaments entering bottom-frame, clean negative space camera-right for the weave. Her torso opens about 8 degrees into the rising filaments, mid-motion but balanced, weight transferring through the back leg. Camera at mid distance, framed from roughly the waist up to catch the plasma-weave climbing the figure. She is centred, near-frontal three-quarter, the spread right hand leading the near field. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 LENS + DOF + BOKEH: 50mm, f/2.8; focus locked on her near eye and the setting bodice edge; background a creamy field with plasma-glow bokeh; soft specular blooms off the glowing threads; gentle highlight roll-off, no clipping.
 
-COMPOSITION REFERENCE: high-fashion transform hero — electric pop couture meets live plasma VFX, the instant a gown is woven from light, charged and phone-stopping.
+COMPOSITION REFERENCE: the held breath before the signature change — the clean opening look, the single impossible move about to begin.
 
-ATMOSPHERE: charged, awe-struck, electric — the air alive with arcing filaments and the glossy set of a garment knitting itself from light.
+ATMOSPHERE: anticipatory, electric, futuristic — the instant before the change sweeps across her.
 
 COLOR GRADE: vibrant high-voltage pop on a deep gloss base — saturated electric magenta, cyan and violet, clean whites in the speculars, blacks rich and glossy but never crushed, full detail, zero grain, no milky blacks, no teal-orange muddiness.
 
-TEXTURE & MICRO-DETAIL: each plasma thread shows a crisp glowing core with tiny branching sparks and a clean falloff; the weaving lattice shows clean colour separation with no smearing; a single spark arcs free holding a sharp tail; the setting chrome shows a wet-glossy skin; real skin micro-texture with peach-fuzz at the jaw catching rim light; one dust mote lit electric crossing the key.
+TEXTURE & MICRO-DETAIL: the clear orb shows a polished glass surface with one label window and a crackling filament core throwing crisp internal light; a hairline condensation sheen on the cool side; the chrome cap throws a tiny pin-sharp specular star; the liquid-chrome gown reads wet-glossy with clean glowing filament lines; real skin micro-texture with soft peach-fuzz catching rim light at the jaw; one almost-invisible dust mote drifting through the key beam.
 
 SPOKEN LINE: NONE — silent frame, lips parted in awe, no speech.
 
@@ -749,9 +749,9 @@ SHOT TYPE: medium, waist-up rising to capture the full plasma-weave, subject fil
 LENS: 50mm, f/2.8, creamy plasma-glow fall-off behind.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Medium waist-up rising: a slow 6% craning lift is already tracking the arcing filaments as crackling plasma threads race up around her body in glowing electric lines, magenta and cyan lacing the air; gaze following the racing filaments, face charged.
-- [00:02–00:04] The lift rides the weave as the threads lattice her torso and liquid chrome flows in to set around them, the leading edge solidifying into the sculptural gown; a wondering breath, brows lifting.
-- [00:04–00:06] The gown finishes with a final electric pulse and a single spark arcs free as her shoulders settle and she lifts her chin into the reveal.
+- [00:00–00:02] Cut to medium, waist-up rising to capture the full plasma-weave, subject filling about 50% of the vertical frame — HELD angle (Veo first frame = the clean opening still): she is already in motion in the intact opening look — the change NOT yet begun, the angle fixed for the whole clip; gaze beginning to track the coming change.
+- [00:02–00:04] The change BEGINS here, mid-clip: the crackling magenta-cyan plasma filaments assembling and setting into the liquid-chrome plasma-filament gown in one continuous motion — gradual and motivated, never a snap; a wondering breath, brows lifting (angle held, identity locked).
+- [00:04–00:06] The change completes and the look settles smoothly and fully into the liquid-chrome plasma-filament gown of the Veo last-frame still (Frame 3's image), resolved and held; she lands a confident finished beat, eyes alight.
 
 AUDIO: silent of any voice — NO spoken word, NO vocal of any kind. Ambient bed — a low warm studio room tone with a faint electric hum. SFX — soft crackling plasma-arc fizzes building from 0.3s, a smooth electric weave-whoosh at 1.6s as the threads knit, a glossy chrome set-and-snap shimmer at 4.0s as the gown finishes, a tiny zap-tick at 4.8s as a spark arcs free. Reaction — a soft charged breath only, no voiced sound. VO — none.
 
@@ -969,7 +969,7 @@ SHOT TYPE: medium-full, subject filling about 65% of the vertical frame, the orb
 LENS: 35mm, f/2.8, creamy electric fall-off with glowing filament bokeh.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Medium-full with the orbital helixes filling the width: a slow 8% orbital arc is already circling her as she raises her open palms and ribbons of live plasma stream from her fingertips, coiling and branching in mid-air in defiance of gravity; gaze drawn to the dancing filaments.
+- [00:00–00:02] Cut to medium-full, subject filling about 65% of the vertical frame, the orbital helixes filling the width — HELD angle (Veo first frame = the kindle still): the effect is only just beginning, her look calm and fully resolved; gaze drawn to it (her single self held, the angle fixed).
 - [00:02–00:04] The orbit rides the magic as the filaments sweep into two spiralling orbital helixes circling her like captured lightning, each trailing a glowing comet-glow; her face serene-radiant at the centre, eyes widening.
 - [00:04–00:06] The helixes settle into a steady glowing orbit with a final spark shedding free at the apex as she holds the transcendent pose; a radiant smile landing, eyes alight.
 
