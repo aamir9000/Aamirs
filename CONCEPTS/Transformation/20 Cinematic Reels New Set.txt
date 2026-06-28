@@ -5033,7 +5033,7 @@ Hair: long hair drifting weightlessly in the water, color locked to reference.
 
 Makeup: dewy waterproof glow: glassy skin, a soft coral lip, subtly defined eyes, gold highlight, real pores.
 
-Hero Movement / Impossible Move: artifact light-bloom — a lifted glowing artifact blooms and its light weaves into a luminous gown.
+Hero Movement / Impossible Move: artifact light-bloom — contained MID-CLIP at a held angle: a lifted glowing artifact blooms and its light weaves into a luminous gown by believable light + underwater physics (real caustics, dreamy but grounded, no cheap sparkles). Veo first/last-frame continuity (Frame 4 image = teal swim-couture Look A = first frame, Frame 5 image = luminous-gown Look B = last frame); every frame join is a hard match-cut to a new angle.
 
 Mood: AWE-MYSTERY, weightless, luminous.
 
@@ -5279,44 +5279,44 @@ LOOP LOGIC: the outward lift bridges to the bloom.
 
 ## Frame 4 of 6 — IMAGE PROMPT (TRANSFORM — ARTIFACT LIGHT-BLOOM)
 
-ANGLE & SHOT SIZE: front-on FULL/wide hero, Aira holding the orb aloft as its light blooms outward and weaves a luminous gown around her, arms opening.
+ANGLE & SHOT SIZE: front-on FULL/wide hero, Aira hovering upright in the submerged gallery holding the glowing artifact orb aloft in her teal swim-couture, caustics raining around her — the clean Look A the clip opens on, the light-bloom NOT yet woven.
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the START frame of the transform CLIP — render her fully in the teal swim-couture Look A (the exact still the Frame-4 video opens on, and Veo's FIRST frame): the teal swim-couture, goggles pushed back, holding the glowing orb aloft (its light just glowing at her fingers, the gown-weave NOT yet begun). The artifact light-bloom happens MID-CLIP at this same HELD angle (the camera buoyant push-with with her, never an angle rotation; the orb's light blooms and weaves the luminous gown by believable light + underwater physics — dreamy but grounded, real caustics, no cheap sparkles), resolving into Frame 5's luminous-gown image (Veo's LAST frame). Her face and proportions stay constant. Do NOT depict the gown-weave in this still and do NOT invent a new face, new hands or new bone structure.
 
-WARDROBE: the teal swim-couture dissolving into a luminous gown woven of artifact-light, modest neckline and length, edges streaming gold light.
+WARDROBE: the teal swim-couture at its best, modest neckline and length, fully intact (the luminous light-gown not yet woven).
 
-FOOTWEAR: gold ankle-cuffs resolving into luminous light-formed slippers.
+FOOTWEAR: gold ankle-cuffs.
 
-EYEWEAR: goggles pushed back up (clean face for the hero beat).
+EYEWEAR: goggles pushed back up (clean face).
 
-ACCESSORIES: the orb radiating overhead, a forming light-crown, arm-cuff gleaming.
+ACCESSORIES: the glowing orb held aloft, an arm-cuff gleaming.
 
-HAIR: long hair fanning weightlessly in the light-updraft, gold-lit.
+HAIR: long hair drifting weightlessly in the real water, gold-lit at the edges.
 
-MAKEUP: dewy glow at full luminous sheen, coral lip, gold highlight blazing.
+MAKEUP: a dewy glow, coral lip; real pores and fine vellus texture.
 
-HANDS & NAILS: the orb held aloft in one hand, the other opening outward as the light weaves; fingers gracefully splayed; sheer gold-pink nails.
+HANDS & NAILS: the orb held aloft in one hand, its light leaking between the fingers, the other easy at her side; sheer gold-pink nails, neat cuticles.
 
-FACIAL MICRO-DYNAMICS: a radiant awed smile, lips parted on a delighted breath-hold, eyes wide with wonder, brows lifted.
+FACIAL MICRO-DYNAMICS: a serene anticipatory gaze up to the glowing orb, lips parted on a held breath, eyes bright — fully recognizable, identity-locked, ready for the bloom mid-clip.
 
-BODY POSTURE & WEIGHT: weightless mid-rise, body lengthening upward, arms blooming — full of buoyant lifting momentum, never frozen.
+BODY POSTURE & WEIGHT: hovering upright, buoyant in the water, body long, orb raised — poised, the instant before the bloom.
 
-KINETIC STILLNESS (8 layers): (1) artifact-light blooming up the body; (2) the luminous gown forming and streaming; (3) light-motes flung outward in slow arcs; (4) hair fanning in the updraft; (5) a slow breath-hold; (6) the light-crown settling; (7) caustics sweeping; (8) lashes flaring.
+KINETIC STILLNESS (8 layers): (1) the orb glowing soft overhead; (2) caustic shafts raining down the gallery; (3) long hair drifting in the real water; (4) fine silt-motes hanging; (5) a slow breath-hold; (6) an arm-cuff glint; (7) the swim-couture rippling in the current; (8) lashes settling on a blink.
 
-SPATIAL LOGIC: FOREGROUND — flung light-motes nearest lens, sharp. MIDGROUND — Aira and the forming gown. BACKGROUND — the teal gallery, clean for the bloom to read.
+SPATIAL LOGIC: FOREGROUND — the glowing orb in her raised hand, tack sharp. MIDGROUND — Aira in teal swim-couture, the hero. BACKGROUND — the submerged marble gallery with glowing columns and caustic shafts, the underwater world present and deep.
 
-LIGHTING: KEY — the orb's blooming gold light. FILL — teal ambient. RIM — caustic rim lighting the gown translucent. PRACTICAL — the orb, artifacts. SEPARATION — luminous gold gown vs teal depth. BOUNCE — gold underglow.
+LIGHTING: KEY — the orb's soft gold glow. FILL — teal ambient depth. RIM — caustic rim on her shoulder and hair. PRACTICAL — the orb, glowing artifacts. SEPARATION — figure vs teal depth. BOUNCE — gold underglow.
 
-LENS + DOF + BOKEH: 35mm, f/2.8; focus on Aira and the forming gown; flung motes as gold bokeh; background creamy.
+LENS + DOF + BOKEH: 35mm, f/2.8; focus on Aira and the orb; the gallery columns and caustics as soft bokeh, clearly present and deep behind.
 
-COMPOSITION: 9:16, upward light-bloom as a dynamic S-curve, Aira centred-rising, headroom for the glow.
-SUBJECT FRAMING & POSITION: A front-on full/wide hero, Aira holding the orb aloft as its light blooms outward and weaves a luminous gown, arms opening. The complete figure is in frame, centred in a weightless mid-rise, body lengthening upward, arms blooming. Camera at full/wide distance, the light-bloom radiating around her. She faces front, centred and aloft, dominant in frame. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+COMPOSITION: 9:16, Aira a buoyant vertical holding the orb aloft, the gallery deep behind, headroom for the bloom.
+SUBJECT FRAMING & POSITION: A front-on full/wide hero, Aira hovering in the teal swim-couture Look A holding the orb aloft — the clean still the transform clip opens on. The complete figure is in frame, buoyant and upright, the submerged gallery present and deep behind. Camera at full/wide distance. She faces front, centred and aloft. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
-ATMOSPHERE: awe, luminous magic — the artifact dressing her in light.
+ATMOSPHERE: serene awe — the hush before the artifact dresses her in light.
 
-COLOUR GRADE: vivid teal-and-gold at peak luminosity, translucent light-gown, glossy speculars, full mid-tone.
+COLOUR GRADE: teal-and-gold kept tonal and luminous but balanced (underwater jewel tones — rich, not blown out, never peak), translucent caustics, glossy speculars, full mid-tone.
 
-TEXTURE & MICRO-DETAIL: light weaving into couture, gold-mote detail, gilded skin, drifting hair, lip detail on the breath.
+TEXTURE & MICRO-DETAIL: teal swim-couture weave, glowing orb, gilded skin edges, drifting hair, caustic light.
 
 NEGATIVE: (as Frame 1) plus identity drift, melted features, immodest exposure, broken light physics, plastic skin.
 
@@ -5329,9 +5329,9 @@ SHOT TYPE & ANGLE: front-on full/wide hero, subject fills ~55%, rising in frame.
 LENS: 35mm, f/2.8.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Front-on full/wide hero: she is already raising the orb aloft as a weightless crane rises with a slow orbit to dead-front; gaze following the orb up, eyes brightening.
-- [00:02–00:04] The light blooms outward and weaves the luminous gown around her as the crane climbs; chin lifting, eyes widening in radiant awe, hair fanning.
-- [00:04–00:06] Her arms open and a radiant awed smile lands to lens, the gown shimmering with artifact-light, eyes alight.
+- [00:00–00:02] Cut to a front-on full/wide hero at a HELD angle (Veo first frame = the teal swim-couture Look A still): already in motion, a buoyant push-with rising with her as she raises the glowing orb aloft in the submerged gallery — the swim-couture fully intact, the bloom NOT yet woven, caustics raining and columns deep behind; gaze following the orb up.
+- [00:02–00:04] The light-bloom BEGINS here, mid-clip: the orb's light blooms outward and weaves smoothly into the luminous gown around her exactly where it passes — believable light + underwater physics, real caustics sweeping, hair fanning in the real water (no cheap sparkles), the gallery deep behind; chin lifting, eyes widening in radiant awe (angle held, identity locked).
+- [00:04–00:06] The bloom completes and the look settles smoothly and fully into the luminous light-gown of Frame 5's still (Veo's LAST frame), the gown shimmering with artifact-light — a radiant awed smile landing, no last-second snap.
 
 FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
@@ -5343,7 +5343,7 @@ FABRIC/HAIR/PROP PHYSICS: light-to-couture transition obeys glow then cloth dyna
 
 FOOTWORK & BODY FLOW: a soft fin-push into a tall weightless lift, the body uncoiling.
 
-TRANSITION / IMPOSSIBLE MOVE: THE hero move — the lifted artifact blooms and its light weaves into a luminous gown; locked transform keyframe.
+TRANSITION / IMPOSSIBLE MOVE: THE hero move, contained mid-clip at a held angle (camera buoyant push-with, never an angle rotation) — the lifted artifact blooms and its light weaves into the luminous gown by believable light + underwater physics; Veo first frame = this frame's teal swim-couture Look A image, last frame = Frame 5's luminous-gown image; every frame join is a hard match-cut to a new angle.
 
 LIGHTING-IN-MOTION: the orb light ignites the gown translucent as it forms; gold glow blooms across the gallery.
 
