@@ -8993,7 +8993,7 @@ Hair: a sleek dancer's bun with a few face-framing strands, color locked to refe
 
 Makeup: stage-luminous glow: defined skin, a soft classic-red lip, gilded lids, real pores.
 
-Hero Movement / Impossible Move: spotlight shadow-split — the spotlight splits her shadow into a second dancing silhouette that moves with her, then re-merges and dresses her in couture.
+Hero Movement / Impossible Move: spotlight shadow-split — grounded in real spotlight/shadow physics: the spotlight splits her shadow into a second dancing silhouette that moves with her (F4, look unchanged — the living second shadow is the one magical beat), then the shadow re-merges and dresses her rehearsal set into the couture gown (F5, the A→B). Each beat CONTAINED mid-clip at a held camera angle (she dances/spins, camera holds/push-with). F5's image is the clean RESOLVED couture its clip settles into (Veo last frame), the re-merge-dressing opening on the rehearsal+shadow; every frame join is a hard match-cut to a new angle; theatre kept dramatic but balanced (controlled vibrancy).
 
 Mood: DRAMATIC-ELEGANT, expressive, theatrical.
 
@@ -9241,11 +9241,11 @@ LOOP LOGIC: the turn-prep bridges to the shadow-split transform.
 
 ANGLE & SHOT SIZE: front-on FULL hero at the turn apex, Aira mid-spin as the spotlight splits her shadow into a second dancing silhouette on the velvet curtain, both moving in mirror.
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the shadow-split VFX hero beat — her LOOK does NOT change here (she stays in the rehearsal practice set); the spotlight casts a believable second shadow that comes alive (the one magical beat, grounded in real spotlight/shadow physics — no cheap VFX). The wardrobe dressing happens later, in Frame 5. Hold the camera angle as she spins; match-cut from Frame 3. Her face and proportions stay constant; do NOT invent a new face, new hands or new bone structure.
 
-WARDROBE: the rehearsal set flaring in the spin, modest, beginning to thread with gold-and-shadow panels.
+WARDROBE: the rehearsal practice set flaring in the spin, modest, fully intact (no wardrobe change yet — the split is shadow-only).
 
-FOOTWEAR: dance shoes mid-spin, gold-ribboned heels beginning to form.
+FOOTWEAR: the gold-ribboned dance shoes mid-spin.
 
 EYEWEAR: stage-glasses on, a gold glint.
 
@@ -9274,7 +9274,7 @@ SUBJECT FRAMING & POSITION: A front-on full hero at the turn apex, Aira mid-spin
 
 ATMOSPHERE: the magical theatrical instant — her shadow comes alive.
 
-COLOUR GRADE: vivid theatre at peak contrast, glossy speculars, deep shadow, full mid-tone.
+COLOUR GRADE: dramatic theatre chiaroscuro balanced (deep shadow and a hard spotlight — rich contrast but controlled, not crushed or garish), glossy speculars, full mid-tone.
 
 TEXTURE & MICRO-DETAIL: skirt flow, fan-pleat detail, velvet curtain nap, real skin texture, spiralling dust-motes.
 
@@ -9289,9 +9289,9 @@ SHOT TYPE & ANGLE: front-on full hero, subject fills ~55%, spinning centred.
 LENS: 35mm, f/2.8.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Front-on full hero, spinning centred: she is already launching the turn with the skirt flaring as a smooth orbit glides around her, the spotlight hard behind; gaze sweeping with the spin.
-- [00:02–00:04] At the apex the spotlight splits her shadow into a second dancing silhouette on the velvet curtain as the orbit keeps gliding; eyes widening in dramatic wonder, lips parting.
-- [00:04–00:06] Her arms bloom and both shadows dance in mirror, a thrilled awed expression landing, eyes alight.
+- [00:00–00:02] Cut to a front-on full hero at a HELD angle (she spins, the camera holds / push-with): already in motion, launching the turn with the skirt flaring, the hard spotlight behind casting her single crisp shadow on the velvet curtain; gaze sweeping with the spin.
+- [00:02–00:04] The split BEGINS here, mid-clip: the spotlight splits into a believable twin-beam and her single shadow divides into a second dancing silhouette on the curtain, moving in mirror with her — grounded in real spotlight-and-shadow physics, no cheap VFX, her rehearsal look unchanged; eyes widening in dramatic wonder (angle held, identity locked).
+- [00:04–00:06] Her arms bloom and both shadows dance in mirror, a thrilled awed expression landing, eyes alight — her look still the rehearsal set.
 
 FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
@@ -9303,7 +9303,7 @@ FABRIC/HAIR/PROP PHYSICS: skirt and bun flare with centrifugal force; the fan sp
 
 FOOTWORK & BODY FLOW: a clean spotting pirouette on the ball of the foot, the body uncoiling tall.
 
-TRANSITION / IMPOSSIBLE MOVE: THE hero move — the spotlight splits her shadow into a second dancing silhouette that moves with her; locked split keyframe.
+TRANSITION / IMPOSSIBLE MOVE: THE hero move, contained mid-clip at a held camera angle (she spins, the camera holds / push-with) — the spotlight splits into a twin-beam and her shadow divides into a second dancing silhouette by believable real spotlight/shadow physics (her look unchanged; the wardrobe dressing is Frame 5); every frame join is a hard match-cut to a new angle.
 
 LIGHTING-IN-MOTION: the spotlight splits into a twin-beam; the two shadows sweep the curtain.
 
@@ -9315,11 +9315,11 @@ LOOP LOGIC: the split apex is the apex; the shadows re-merge next frame.
 
 ## Frame 5 of 7 — IMAGE PROMPT (TRANSFORM — RE-MERGE / COUTURE)
 
-ANGLE & SHOT SIZE: three-quarter front COWBOY/full, Aira as the second shadow catches up and re-merges, dressing her in the woven shadow-and-light couture gown, gold-and-black panels resolving.
+ANGLE & SHOT SIZE: three-quarter front COWBOY/full, Aira fully in the woven shadow-and-light couture gown, black-and-gold panels resolved and the second shadow just re-merged — the clean resolved couture reveal the clip settles into.
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this still is the clean RESOLVED couture look the Frame-5 clip settles into (Veo's LAST frame); the re-merge-dressing happens MID-CLIP inside the Frame-5 video at a HELD camera angle, opening on the rehearsal set with the second shadow catching up and resolving here — do NOT depict a half-dressed / mid-merge look in this still. Match-cut from Frame 4. Her face and proportions stay constant; do NOT invent a new face, new hands or new bone structure.
 
-WARDROBE: the couture performance gown resolving — black-and-gold panelled silk with a flowing train, modest neckline and length, edges streaming light.
+WARDROBE: the couture performance gown fully resolved — black-and-gold panelled silk with a flowing train, modest neckline and length (the dressing is done).
 
 FOOTWEAR: gold-ribboned performance heels resolved.
 
@@ -9346,11 +9346,11 @@ LIGHTING: KEY — the spotlight re-merging to one hard beam igniting the gown. F
 LENS + DOF + BOKEH: 35mm, f/2.8; focus on Aira and the resolving gown; the curtain soft.
 
 COMPOSITION: 9:16, the re-merge as a settling burst, Aira centred, headroom for the light.
-SUBJECT FRAMING & POSITION: A three-quarter front cowboy/full, the second shadow catching up and re-merging to dress her in the woven shadow-and-light couture gown. The body reads from roughly mid-thigh up, settling from the spin, body lengthening, the train sweeping. Camera at a cowboy-to-full distance. She is turned three-quarter front, settling from the turn. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A three-quarter front cowboy/full, Aira fully in the resolved woven shadow-and-light couture gown, the second shadow just re-merged — the clean still the Frame-5 clip settles into. The body reads from roughly mid-thigh up, settling from the spin, body lengthening, the train sweeping. Camera at a cowboy-to-full distance. She is turned three-quarter front, settling from the turn. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 ATMOSPHERE: theatrical awe — the shadow dressing her in couture.
 
-COLOUR GRADE: vivid theatre at peak luminosity, translucent gold-and-black silk, glossy speculars, full mid-tone.
+COLOUR GRADE: dramatic theatre balanced (warm spotlight on gold-and-black silk against the deep crimson dark — rich but controlled, never blown out or peak), glossy speculars, full mid-tone.
 
 TEXTURE & MICRO-DETAIL: panelled-silk gown, gold-thread, velvet nap, light-lit skin, loosening bun.
 
@@ -9365,9 +9365,9 @@ SHOT TYPE & ANGLE: three-quarter front cowboy/full, subject fills ~55%, settling
 LENS: 35mm, f/2.8.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Three-quarter front cowboy/full, settling centred: the second shadow is already catching up to her as a smooth ease-in moves toward her; gaze drawn to the converging silhouette.
-- [00:02–00:04] It re-merges and the woven shadow-and-light couture gown resolves around her in gold-and-black panels; eyes softening in radiant awe, lips parting.
-- [00:04–00:06] She settles into a poised theatrical line, a radiant awed smile arriving as the ease-in locks, eyes luminous.
+- [00:00–00:02] Cut to a three-quarter front cowboy/full at a HELD angle: already in motion, settling from the spin in the rehearsal set as the second shadow catches up toward her, a gentle push-with easing in; gaze drawn to the converging silhouette.
+- [00:02–00:04] The dressing BEGINS here, mid-clip: the shadow re-merges into her and the woven shadow-and-light couture gown resolves smoothly around her in black-and-gold panels exactly where it passes — believable shadow-then-cloth dynamics, the train sweeping, the crimson curtain behind; eyes softening in radiant awe (angle held, identity locked).
+- [00:04–00:06] The dressing completes and the look settles smoothly and fully into the resolved couture gown (this frame's still = Veo last frame), she settling into a poised theatrical line, a radiant awed smile arriving.
 
 FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
@@ -9379,7 +9379,7 @@ FABRIC/HAIR/PROP PHYSICS: the shadow-to-silk transition obeys silhouette then cl
 
 FOOTWORK & BODY FLOW: a clean landing from the pirouette into a grounded poised stance.
 
-TRANSITION / IMPOSSIBLE MOVE: THE hero resolve — the shadow re-merges and dresses her in the woven shadow-and-light couture gown; locked keyframe.
+TRANSITION / IMPOSSIBLE MOVE: THE hero resolve, contained mid-clip at a held camera angle (camera push-with, never an angle rotation) — the second shadow re-merges and dresses her rehearsal set into the woven shadow-and-light couture gown by believable shadow-then-cloth dynamics; opens on the rehearsal+shadow, settles into this frame's clean resolved couture (Veo last frame); the join from Frame 4 is a hard match-cut to this angle.
 
 LIGHTING-IN-MOTION: the twin-beam re-merges to one; the spotlight ignites the silk translucent.
 
