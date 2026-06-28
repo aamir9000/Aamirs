@@ -1971,6 +1971,92 @@ BEATSLM[33] = [
 ]
 
 
+BEATSLM[34] = [
+    # F1 - celestial-glow hero (contained, product-at-face), push-in
+    (
+        "Cut to a medium-close chest-up in the cosmic night: she is already cradling the faceted "
+        "bottle soft at her collarbone as a slow push eases in, the midnight indigo-to-violet "
+        "starfield and drifting nebula haze behind her, scattered stars glowing; her left hand "
+        "easy near her jaw.",
+        "The push settles as a face-framing strand lifts in the still cosmic air and her cool "
+        "gaze eases to lens, soft star-shimmer hanging in the dark, a serene mystic "
+        "quarter-smile settling.",
+        "She holds the celestial-glow look in the deep-indigo star-flecked gown, silver "
+        "constellation embroidery catching the light, eyes cool and luminous (the line lands "
+        "later).",
+    ),
+    # F2 - build, elixir drop, first stars sparking; rack-focus product->eye
+    (
+        "Cut to a medium-close three-quarter, a rack-focus pulling from the bottle to her eye: "
+        "she is already releasing a glowing elixir drop near her cheekbone and the first stars "
+        "spark alight in the dark around her; gaze cast soft to the drop.",
+        "The glowing drop beads cool on her cheekbone as her gaze softens with quiet wonder and "
+        "a mystic micro-smile kindles, glowing stars beginning to gather.",
+        "She holds the drop poised near her cheek, eyes cool and dreamy, the celestial-glow look "
+        "intact (silent here).",
+    ),
+    # F3 - START clean (stars gathering, lines beginning, NO full draw yet), slow arc
+    (
+        "Cut to a medium chest-up on a fresh three-quarter angle: she eases her hand down and "
+        "opens it soft into the gathering stars, drawing a slow breath as the camera arcs a few "
+        "degrees and the starfield drifts behind with parallax; gaze lifting.",
+        "The arc settles as her gaze lifts to lens with rising cool wonder and a knowing "
+        "micro-smile forms, glowing stars gathering and the first silver light-lines beginning "
+        "to reach between them, still the celestial-glow look.",
+        "She holds the poised mystic beat, stars suspended and lines just kindling, eyes cool "
+        "and bright \u2014 the hush before the constellation draws (silent here).",
+    ),
+    # F4 - THE TRANSFORM, HELD ANGLE, smooth mid-clip line-draw; first=celestial-glow, last=full-constellation
+    (
+        "Cut to an ethereal medium at a HELD angle (Veo first frame = the celestial-glow Look A "
+        "still): she opens both arms soft from her body, already in motion \u2014 still the "
+        "celestial-glow look, the constellation NOT yet drawn, a gentle push-with easing in, the "
+        "angle fixed for the whole clip.",
+        "The line-draw BEGINS here, mid-clip: glowing stars connect with silver light-lines "
+        "drawing a full constellation around her in one continuous reaching pattern, the lines "
+        "tracing star to star across the dark exactly where the draw passes \u2014 believable "
+        "real light-line physics, true point-to-point glow (no cheap sparkles), her face clear "
+        "and cool-lit, eyes widening in mystic wonder (angle held, identity locked).",
+        "The draw completes and the look settles smoothly and fully into the full-constellation "
+        "radiant after-look of the Veo last-frame still (Frame 5's image) \u2014 a glowing "
+        "silver constellation drawn around her in the starfield, resolved and held through the "
+        "final beat, no last-second pop; a cool radiant calm landing in her eyes.",
+    ),
+    # F5 - END full-constellation reveal, hand to bottle, spoken line
+    (
+        "Cut to a medium close on a new angle in the glowing dark: she is already in the "
+        "full-constellation radiant after-look, drifting her right hand soft back toward the "
+        "faceted bottle at her collarbone with an easy roll of the shoulder; gaze warm to lens.",
+        "She delivers \u201cwritten in the stars.\u201d to lens with a serene mystic smile and "
+        "natural lip-sync, the silver constellation glowing soft around her, eyes cool and "
+        "radiant.",
+        "She holds the mystic radiant look, the constellation glowing around her, eyes cool and "
+        "direct.",
+    ),
+    # F6 - held mystic, cradling bottle
+    (
+        "Cut to a medium-close chest-up on a fresh angle: she settles both hands gently, the "
+        "right cradling the faceted bottle soft near her collarbone, the left easy near her "
+        "jaw, as a gentle push eases in; gaze cool to lens.",
+        "A serene mystic smile holds to lens on a slow cool breath, the constellation glowing "
+        "even around her, soft star-shimmer drifting.",
+        "She holds the serene mystic beat, the starfield deep behind and the constellation "
+        "glowing, eyes cool and direct \u2014 a held moment before the loop (silent here).",
+    ),
+    # F7 - loop close, cradle bottle matched to F1
+    (
+        "Cut to a medium-close chest-up matched to Frame 1: she returns her right hand to cradle "
+        "the faceted bottle soft at her collarbone and her left easy near her jaw exactly as in "
+        "Frame 1 as the camera settles to the opening framing.",
+        "She eases her cool gaze back to lens on a slow breath with the composed mystic "
+        "quarter-smile, the full-constellation glow resolving back toward the opening "
+        "celestial-glow look to seed the loop.",
+        "She lands precisely on the Frame 1 pose and gaze, serene in the cosmic night \u2014 a "
+        "seamless loop seam.",
+    ),
+]
+
+
 def build_block(beats):
     return (
         BREAKDOWN_HEADER + "\n"
