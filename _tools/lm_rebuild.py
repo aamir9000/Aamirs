@@ -862,6 +862,90 @@ BEATSLM[10] = [
 ]
 
 
+BEATSLM[11] = [
+    # F1 - morning-loungewear Look A establishing, alive lateral track, coffee mug
+    (
+        "Cut to a medium-wide thigh-up tracking shot in the soft new-city morning: the camera "
+        "dollies laterally to settle on her as she steps her weight onto the back leg and "
+        "cradles the warm coffee mug soft at her chest, gentle steam curling, the bright window "
+        "and room sliding behind with real parallax; a warm sleepy quarter-smile holding.",
+        "The track eases to rest as a face-framing piece shifts in the morning air and she "
+        "lifts her warm sleepy gaze toward lens, a soft easy quarter-smile settling.",
+        "She holds, fresh and unhurried in the cozy loungewear, the half-up claw-clip easy, "
+        "eyes soft and warm (silent here).",
+    ),
+    # F2 - loungewear, push-with reaching toward the vanity, cut to a closer three-quarter
+    (
+        "Cut to a medium-close three-quarter: she is already reaching her right hand soft "
+        "toward the vanity mirror and gently opening her fingers as if to begin getting ready, "
+        "as the camera pushes with her hand; gaze toward the vanity.",
+        "Her gaze brightens with quiet intent as a soft micro-smile holds, the loungewear soft "
+        "and lived-in.",
+        "She holds the easy beat, eyes bright with morning intent, the room calm and soft "
+        "(silent here).",
+    ),
+    # F3 - loungewear, arc, raises hand to begin (NO wrap yet), cut
+    (
+        "Cut to a medium chest-up on a fresh three-quarter angle: she raises her hand soft to "
+        "begin and draws a slow breath, her left hand easing open, as the camera arcs a few "
+        "degrees and the room swings behind with parallax; gaze beginning to lift.",
+        "The arc settles as her gaze lifts to lens with rising spark and a knowing soft smile "
+        "forms, still in the morning loungewear.",
+        "She holds the poised loungewear beat, hand raised to begin, eyes bright and ready "
+        "\u2014 the breath before the getting-ready (silent here).",
+    ),
+    # F4 - THE TRANSFORM, HELD ANGLE, smooth mid-clip speed-wrap; first=loungewear, last=day-look
+    (
+        "Cut to an energized medium at a HELD angle (Veo first frame = the morning-loungewear "
+        "Look A still): she eases her hand from beginning, already in motion \u2014 still the "
+        "cozy loungewear, NO wrap yet, a gentle push-with easing in, the angle fixed for the "
+        "whole clip.",
+        "The wrap BEGINS here, mid-clip: a single travelling speed-ramp wraps smoothly over her "
+        "in one continuous front, the cozy knit resolving into the clean tailored blazer over a "
+        "modest top and tapered trousers exactly where it passes \u2014 cloth resolving with "
+        "believable spread and inertia, the room brightening morning-to-day, gradual and "
+        "smooth, never a snap; the half-up hair catching travelling light, eyes brightening in "
+        "ready delight (angle held, face cleanly lit, identity locked).",
+        "The speed-ramp completes its pass and the look settles smoothly and fully into the "
+        "put-together day-look Look B of the Veo last-frame still (Frame 5's image) \u2014 "
+        "tailored blazer, modest top, tapered trousers, clean sneakers and a crossbody with "
+        "small hoops, resolved and held through the final beat, no last-second pop; a bright "
+        "confident spark landing in her eyes.",
+    ),
+    # F5 - day-look Look B reveal, cut to a NEW angle, settle blazer lapel
+    (
+        "Cut to a medium close on a new angle in the brightened day-lit room: she is already in "
+        "the put-together day look, reaching up to settle the blazer lapel with an easy roll of "
+        "the shoulder; gaze easing to lens.",
+        "A bright confident smile eases to lens on a slow breath, the last warm dust-motes "
+        "settling, eyes bright and direct.",
+        "She holds the alive ready look, the blazer sitting crisp, eyes bright and direct "
+        "(silent here).",
+    ),
+    # F6 - spoken line, cut to a fresh angle, push-with the turn
+    (
+        "Cut to a medium chest-up on a fresh angle: she shifts her weight with an easy "
+        "six-degree turn and opens her right hand in a relaxed bright gesture as the camera "
+        "eases with her; gaze direct to lens.",
+        "She delivers \u201cNew city. Let\u2019s begin.\u201d to lens with a bright knowing "
+        "smile and natural lip-sync, the crossbody and hoops settling, eyes warm and direct.",
+        "She holds the alive ready look as the day look settles, the smile easing into bright "
+        "calm.",
+    ),
+    # F7 - loop close, cut back to match Frame 1 loungewear + coffee mug
+    (
+        "Cut to a medium-wide thigh-up matched to Frame 1: she returns her right hand to cradle "
+        "the warm coffee mug at her chest and settles her weight onto the back leg exactly as "
+        "in Frame 1 as the camera settles to the opening framing.",
+        "She eases her warm gaze back to lens on a slow breath with the composed calm sleepy "
+        "micro-smile, the bright day look resolving back toward the soft morning loungewear "
+        "opening to seed the loop.",
+        "She lands precisely on the Frame 1 pose and gaze, fresh and unhurried \u2014 a seamless "
+        "loop seam.",
+    ),
+]
+
+
 def build_block(beats):
     return (
         BREAKDOWN_HEADER + "\n"
