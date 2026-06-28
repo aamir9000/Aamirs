@@ -7013,7 +7013,7 @@ Hair: a soft updo with a few loose curls and frost-dust, color locked to referen
 
 Makeup: frosted glow: luminous skin, a soft rose lip, icy-shimmer lids, crystalline highlight, real pores.
 
-Hero Movement / Impossible Move: spin-freeze crystal — at the turntable spin apex, her gown crystallises into a frosted couture gown of frozen light.
+Hero Movement / Impossible Move: spin-freeze crystal — contained MID-CLIP at a held camera angle (she keeps spinning, camera holds/push-with): at the turntable spin apex her gown crystallises into a frosted couture gown of frozen light by believable real frost-and-ice physics (real crystal growth, dreamy but grounded, no cheap sparkles). Veo first/last-frame continuity (Frame 4 image = pale-blue gown Look A = first frame, Frame 5 image = frosted-gown Look B = last frame); every frame join is a hard match-cut to a new angle.
 
 Mood: DREAM-WINTER, graceful, luminous.
 
@@ -7259,44 +7259,44 @@ LOOP LOGIC: the spin-up bridges to the crystallise.
 
 ## Frame 4 of 6 — IMAGE PROMPT (TRANSFORM — SPIN-FREEZE CRYSTAL)
 
-ANGLE & SHOT SIZE: front-on FULL/wide hero, Aira at the spin apex as her gown crystallises into a frosted couture gown of frozen light, arms opening, snow-glitter flung outward.
+ANGLE & SHOT SIZE: front-on FULL/wide hero, Aira at the spin apex on her toes in her pale-blue gown like a music-box figurine, tulle drifting, the ice palace turning around her — the clean Look A the clip opens on, the crystallise NOT yet begun.
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the START frame of the transform CLIP — render her fully in the pale-blue gown Look A (the exact still the Frame-4 video opens on, and Veo's FIRST frame): the pale-blue gown, arms lifting like a music-box figurine at the spin apex (the crystallise NOT yet begun). The spin-freeze crystallise happens MID-CLIP at this same HELD camera angle (she keeps spinning, the camera holds / push-with, never an angle rotation; frost races across and crystallises the gown into the frosted couture by believable real frost-and-ice physics — real crystal growth, no cheap sparkles), resolving into Frame 5's frosted-gown image (Veo's LAST frame). Her face and proportions stay constant. Do NOT depict the crystallise in this still and do NOT invent a new face, new hands or new bone structure.
 
-WARDROBE: the pale-blue gown crystallising into a frosted couture gown of frozen light and crystal facets, modest neckline and length, edges streaming frost-light.
+WARDROBE: the pale-blue gown at its best, modest neckline and length, fully intact (the frosted crystal gown not yet formed).
 
-FOOTWEAR: crystal slippers resolving into frost-crystal heels.
+FOOTWEAR: crystal slippers.
 
-EYEWEAR: the brow-piece blooming into a frosted crystal crown (clean radiant face).
+EYEWEAR: a delicate brow-piece (clean radiant face).
 
-ACCESSORIES: a forming crystal-collar, frosted bracelet gleaming, crystal earrings.
+ACCESSORIES: a fine bracelet and crystal earrings — the music-box look.
 
-HAIR: the updo loosening, curls fanning in the frost-updraft, crystal-lit.
+HAIR: a soft updo with a few curls loose, crystal-lit at the edges.
 
-MAKEUP: frosted glow at full luminous sheen, rose lip, crystalline highlight blazing.
+MAKEUP: a frosted-fresh glow, rose lip; real pores and fine vellus texture.
 
-HANDS & NAILS: both arms opening as the gown crystallises, fingers gracefully splayed; frosted-pink nails.
+HANDS & NAILS: both arms lifting like a figurine, fingers soft; frosted-pink nails, neat cuticles.
 
-FACIAL MICRO-DYNAMICS: a radiant awed smile, lips parted on a delighted breath, eyes wide with wonder, brows lifted.
+FACIAL MICRO-DYNAMICS: a serene anticipatory gaze bright with the turn, lips parting on a held breath — fully recognizable, identity-locked, ready for the crystallise mid-clip.
 
-BODY POSTURE & WEIGHT: spin apex on the toes, body lengthening upward, arms blooming — full of spinning lifting momentum, never frozen-stiff.
+BODY POSTURE & WEIGHT: at the spin apex on the toes, body long, arms lifting — poised in the turn, the instant before the crystallise.
 
-KINETIC STILLNESS (8 layers): (1) frost crystallising up the gown; (2) the couture gown forming and faceting; (3) snow-glitter flung in slow arcs; (4) curls fanning; (5) a slow breath; (6) the crystal-crown settling; (7) gear-glints sweeping; (8) lashes flaring.
+KINETIC STILLNESS (8 layers): (1) the turntable spinning her; (2) the ice palace and gilded gears turning around her; (3) tulle drifting in the spin; (4) curls fanning soft; (5) a held breath; (6) a gear-glint sweeping; (7) the pale-blue gown rippling in the turn; (8) lashes settling on a blink.
 
-SPATIAL LOGIC: FOREGROUND — flung snow-glitter nearest lens, sharp. MIDGROUND — Aira and the crystallising gown. BACKGROUND — the spinning ice palace, clean for the bloom.
+SPATIAL LOGIC: FOREGROUND — drifting tulle nearest lens, soft. MIDGROUND — Aira at the spin apex, the hero. BACKGROUND — the spinning ice palace with gilded gears and mirrored turntable, the world present and grand.
 
-LIGHTING: KEY — cool crystal-white igniting the frozen gown. FILL — gold gear ambient. RIM — crystal-rim lighting the gown translucent. PRACTICAL — crystals, gears. SEPARATION — luminous gown vs icy depth. BOUNCE — mirror-floor kick.
+LIGHTING: KEY — cool crystal-white. FILL — gold gear ambient. RIM — crystal-rim on her shoulder and curls. PRACTICAL — crystals, gears. SEPARATION — figure vs icy depth. BOUNCE — mirror-floor kick.
 
-LENS + DOF + BOKEH: 35mm, f/2.8; focus on Aira and the crystallising gown; flung glitter as crystal bokeh; background creamy.
+LENS + DOF + BOKEH: 35mm, f/2.8; focus on Aira; the ice palace as soft crystal bokeh, clearly present and grand behind.
 
-COMPOSITION: 9:16, the crystallise as a dynamic upward bloom, Aira centred-spinning, headroom for the frost.
-SUBJECT FRAMING & POSITION: A front-on full/wide hero at the spin apex, Aira's gown crystallising into frosted couture of frozen light, arms opening, snow-glitter flung. The complete figure is in frame, centred at the spin apex on the toes, body lengthening upward, arms blooming. Camera at full/wide distance, snow-glitter radiating around her. She faces front, centred and spinning, dominant in frame. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+COMPOSITION: 9:16, Aira a spinning vertical at the turntable centre, the palace turning behind, headroom for the frost.
+SUBJECT FRAMING & POSITION: A front-on full/wide hero at the spin apex in the pale-blue gown Look A — the clean still the transform clip opens on. The complete figure is in frame, on the toes at the spin apex, the ice palace present behind. Camera at full/wide distance. She faces front, centred and spinning. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
-ATMOSPHERE: dreamy awe — the music box dressing her in frozen light.
+ATMOSPHERE: dreamy anticipation — the breath before the music box dresses her in frozen light.
 
-COLOUR GRADE: vivid icy-blue and gold at peak luminosity, translucent frost-gown, crystal speculars, full mid-tone.
+COLOUR GRADE: icy-blue and gold kept tonal and luxe (ice is a tonal concept — luminous but restrained, never blown out or peak), crystal speculars, full mid-tone.
 
-TEXTURE & MICRO-DETAIL: frost crystallising into couture, crystal-facet detail, frost-lit skin, fanning curls, lip detail on the breath.
+TEXTURE & MICRO-DETAIL: pale-blue gown weave, tulle, frost-fresh skin, curl detail.
 
 NEGATIVE: (as Frame 1) plus identity drift, melted features, immodest exposure, broken crystal physics, plastic skin.
 
@@ -7309,9 +7309,9 @@ SHOT TYPE & ANGLE: front-on full/wide hero, subject fills ~55%, spinning centred
 LENS: 35mm, f/2.8.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Front-on full/wide hero, spinning centred: she is already reaching the spin apex as a smooth orbit glides around her, snow-glitter trailing; gaze bright with the turn.
-- [00:02–00:04] Frost races across the gown and crystallises it into the frosted couture gown of frozen light as the orbit keeps gliding through the suspended glitter; eyes widening in dreamy awe, lips parting.
-- [00:04–00:06] Her arms open and a radiant awed smile lands, curls and snow-glitter fanning outward, eyes luminous.
+- [00:00–00:02] Cut to a front-on full/wide hero at a HELD angle (Veo first frame = the pale-blue gown Look A still): already in motion, she reaching the spin apex on her toes like a music-box figurine as a gentle push-with eases in (the camera holds its angle while she spins) — the pale-blue gown fully intact, the crystallise NOT yet begun, the ice palace turning behind; gaze bright with the turn.
+- [00:02–00:04] The crystallise BEGINS here, mid-clip: frost races smoothly across the gown and crystallises it into the frosted couture of frozen light exactly where it passes — believable real frost-and-ice physics, real crystal growth and snow-glitter on true arcs (no cheap sparkles), the palace grand behind, the camera angle held as she spins; eyes widening in dreamy awe.
+- [00:04–00:06] The crystallise completes and the look settles smoothly and fully into the frosted crystal gown of Frame 5's still (Veo's LAST frame), curls and snow-glitter fanning — a radiant awed smile landing, no last-second snap.
 
 FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
@@ -7323,7 +7323,7 @@ FABRIC/HAIR/PROP PHYSICS: gown-to-crystal transition obeys cloth then frost dyna
 
 FOOTWORK & BODY FLOW: a clean spotting spin on the toes, the body uncoiling tall.
 
-TRANSITION / IMPOSSIBLE MOVE: THE hero move — at the spin apex her gown crystallises into a frosted couture gown of frozen light; locked freeze keyframe.
+TRANSITION / IMPOSSIBLE MOVE: THE hero move, contained mid-clip at a held camera angle (she keeps spinning, the camera holds / push-with, never an angle rotation) — at the spin apex her gown crystallises into the frosted couture of frozen light by believable real frost-and-ice physics; Veo first frame = this frame's pale-blue gown Look A image, last frame = Frame 5's frosted-gown image; every frame join is a hard match-cut to a new angle.
 
 LIGHTING-IN-MOTION: crystal-white ignites the gown translucent as it freezes; frost-glow blooms across the palace.
 
