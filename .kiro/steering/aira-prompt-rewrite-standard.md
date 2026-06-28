@@ -867,7 +867,8 @@ PASS 1 REMAINING:
     beats; bring them onto L+M.)
     >>> CINEMATIC NEW SET — IN PROGRESS: concepts 1 (Sea-Blue Pool, f5db9bf) + 2 (Velvet Hotel,
     f7c507f) + 3 (Neon Monsoon — a rain-FREEZE, treated per K.5 not as an A->B morph; 635cd56)
-    DONE+pushed. NOTE: some concepts in these files are FREEZE/VFX or non-look-change heroes, not
+    + 4 (Dressing-Room Portal — CHAINED two-swap blush->ivory->emerald, each contained mid-clip,
+    ff00886) + 5 (Golden Desert Train — sand-to-gown, ff00886/4260c78) DONE+pushed. NEXT: concept 6 (CHROME ELEVATOR COUTURE) — a THREE-floor CHAINED transform (F3 ruby / F4 cobalt / F5 gold-hero), each door-open re-tones her couture. Handle like concept 4's chain but across 3 transform frames: F3 image opens on chrome-neutral (doors parting), re-tone to ruby mid-clip resolving to F4's image; F4 opens on ruby, doors close+reopen, re-tone to cobalt resolving to F5; F5 opens on cobalt, doors open on gold gallery, re-tone to gold (hero) resolving to F6/loop. Each transform clip = held angle (push-with, no angle rotation), re-tone BEGINS mid-clip (no instant snap), Veo first=this frame's clean look / last=next frame's clean look, match-cut joins; keep ruby/cobalt/gold worlds rich but balanced against the chrome-neutral elevator (controlled-vibrancy ceiling, no peak-saturation). Then concepts 7-20. NOTE: some concepts in these files are FREEZE/VFX or non-look-change heroes, not
     A->B wardrobe/world morphs — for those, don't force a Look-A flip; apply K.5 believability +
     controlled vibrancy + match-cut framing instead. METHOD for the true-morph concepts is SURGICAL (lighter than Master-Depth):
     they already have rich ANGLE & SHOT SIZE variety incl. establishing wides + env-dominant frames
