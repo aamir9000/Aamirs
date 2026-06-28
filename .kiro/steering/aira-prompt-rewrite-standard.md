@@ -853,6 +853,37 @@ section-N background balance, and align with the PASS-2 full-body motion model (
 ====================================================================
 ## *** CURRENT STATE & TWO-PASS PLAN — READ THIS FIRST ON RESUME (most recent) ***
 ====================================================================
+
+>>> TRIGGER SENTENCE TO PASTE INTO A FRESH SESSION (verbatim):
+"Resume the Aira prompt rebuild on branch aira-prompts-enhanced (repo aamir9000/Aamirs). Read
+.kiro/steering/aira-prompt-rewrite-standard.md IN FULL — especially this CURRENT STATE & TWO-PASS
+PLAN block, the EXACT FILE MANIFEST, and sections L, M (incl. M.9 per-limb articulation + its Logic
+& Flow law) and N (background as co-star + N.1 Beauty-Ad motion). Continue PASS 1 (L+M retrofit +
+lean-strip) from exactly where the progress markers say it stopped — currently More Full Reel Set 3
+Concept 34 onward — one concept at a time, verifying, committing and pushing each (github power
+push_to_remote, path /projects/sandbox/Aamirs). Only after PASS 1 is complete across ALL concepts in
+ALL transformation/non-transformation files, do PASS 2 (full-body explicit per-limb pose/motion,
+logical + self-aware + flow-read, every concept except GRWM/exceptions). When BOTH passes are done,
+run the FINAL VERIFICATION PASS over every file. Don't re-ask me to explain the standard — it's all
+in that file."
+
+>>> SNAPSHOT (update these markers as you go — they are the source of truth for resume):
+- PASS 1 DONE files: Master-Depth Build 01-20 (whole file); Cinematic New Set 01-20 (whole file).
+- PASS 1 IN PROGRESS: More Full Reel Set 3 — concepts 31, 32, 33 DONE+pushed; NEXT = concept 34
+  (continue to 50). Method + per-concept handling notes are in the ">>> CINEMATIC NEW SET" /
+  ">>> NEXT FILE: ...Set 3" notes below and in section J.
+- PASS 1 NOT STARTED: Set 4 (51-70), Set 5 (71-79) + 4 continuations, Concepts 91-110; then the
+  non-transformation folders (Surreal 131-150, Action, Time-Freeze, Travel-Scenic aira_set4/5,
+  Product 100, Action 170) — those get lean-strip + section-K believability + L+M only where a real
+  A->B / mid-clip change exists.
+- The two Magical Action files are ALREADY-COMPLIANT (do NOT rebuild/template — see section I/J).
+- PASS 2 + FINAL VERIFICATION: not started (run only after ALL of PASS 1).
+- Engines: _tools/lm_rebuild.py (BEATSLM keyed by concept number; currently holds 1-20 + 31-33;
+  add BEATSLM[N] then run `python3 _tools/lm_rebuild.py "<exact path>" N`). Verify with
+  _tools/verify_lm.py for Master-Depth-format files, or the per-concept grep checks shown in the
+  commit history (residue=0, beat-1 "Cut to" count == SHOT BREAKDOWN count == VIDEO PROMPT count,
+  F4 image shows clean Look A, spoken/silent preserved).
+
 Branch aira-prompts-enhanced. Folders: CONCEPTS/{Transformation, Beauty, Surreal, Action,
 Time-Freeze, Travel-Scenic, Product} (see FOLDER STRUCTURE near top). Push via github power
 push_to_remote (path /projects/sandbox/Aamirs, owner aamir9000, repository_name Aamirs,
@@ -905,7 +936,7 @@ PASS 1 REMAINING:
     >>> CINEMATIC NEW SET — IN PROGRESS: concepts 1 (Sea-Blue Pool, f5db9bf) + 2 (Velvet Hotel,
     f7c507f) + 3 (Neon Monsoon — a rain-FREEZE, treated per K.5 not as an A->B morph; 635cd56)
     + 4 (Dressing-Room Portal — CHAINED two-swap blush->ivory->emerald, each contained mid-clip,
-    ff00886) + 5 (Golden Desert Train — sand-to-gown, ff00886/4260c78) + 6 (Chrome Elevator, 623c960) + 7 (Candy Rooftop balloon-FLOAT grounded in buoyancy, 076d9b8) + 8 (Midnight Flower Market bloom-burst, e778c75) + 9 (Pearl Bathroom steam-reveal, 41b01e7) + 10 (Red Door world-flip, 83500b1) + 11 (Underwater Museum light-bloom, e53bb31) + 12 (Zero-Gravity anti-gravity dress, 2dd63fa) + 13 (Festival Lanterns) + 14 (Arcade decade-glitch chain) + 15 (Ice Palace spin-freeze) + 16 (Botanical plant-growth) + 17 (Kitchen apron-flare) + 18 (Airport corridor-to-cloud) + 19 (Opera shadow-split, 7fr) + 20 (Future Ocean water-road, 8fr) DONE+pushed. *** CINEMATIC NEW SET COMPLETE — all 20 concepts on L+M, 123 SHOT BREAKDOWN == 123 VIDEO PROMPT, 0 locked-residue, peak-saturation softened on tonal concepts. *** NEXT FILE: 20 More Full Reel Concepts Set 3 (concepts 31-50) — IN PROGRESS: 31 (Gilded Renaissance, e42b87f) + 32 (Bioluminescent Deep-Sea SILENT, 8a63031) DONE+pushed; NEXT concept 33. Set 3 shares Master-Depth structure (locked START/END, suspended build, BA.3/AT.5 codes in comp refs) — use lm_rebuild.py (BEATSLM 31-50, no collision) + the same image-edit set (Movement line, F2/F3 comp refs, F3/F5 keyframe notes->SHOT NOTE, F4 image flip to clean Look A); strip BA.3/AT.5 codes; these are BEAUTY-campaign gilding/glow transforms (product-at-face, mostly beauty-still contained — tag Movement line accordingly); soften any "peak" on tonal concepts. Then Set 4 (51-70), Set 5 (71-79) + 4 continuations, Concepts 91-110; then non-transformation folders; then PASS 2; then final verify. (REFERENCE — the chained-transform how-to from concept 6, already DONE: a multi-look chain handles like concept 4's but across N transform frames — each transform clip = held angle (push-with, no angle rotation), re-tone/morph BEGINS mid-clip (no instant snap), Veo first=this frame's clean look / last=next frame's clean look, match-cut joins; keep saturated worlds balanced against neutral grounds, no peak-saturation.) NOTE: some concepts in these files are FREEZE/VFX or non-look-change heroes, not
+    ff00886) + 5 (Golden Desert Train — sand-to-gown, ff00886/4260c78) + 6 (Chrome Elevator, 623c960) + 7 (Candy Rooftop balloon-FLOAT grounded in buoyancy, 076d9b8) + 8 (Midnight Flower Market bloom-burst, e778c75) + 9 (Pearl Bathroom steam-reveal, 41b01e7) + 10 (Red Door world-flip, 83500b1) + 11 (Underwater Museum light-bloom, e53bb31) + 12 (Zero-Gravity anti-gravity dress, 2dd63fa) + 13 (Festival Lanterns) + 14 (Arcade decade-glitch chain) + 15 (Ice Palace spin-freeze) + 16 (Botanical plant-growth) + 17 (Kitchen apron-flare) + 18 (Airport corridor-to-cloud) + 19 (Opera shadow-split, 7fr) + 20 (Future Ocean water-road, 8fr) DONE+pushed. *** CINEMATIC NEW SET COMPLETE — all 20 concepts on L+M, 123 SHOT BREAKDOWN == 123 VIDEO PROMPT, 0 locked-residue, peak-saturation softened on tonal concepts. *** NEXT FILE: 20 More Full Reel Concepts Set 3 (concepts 31-50) — IN PROGRESS: 31 (Gilded Renaissance, e42b87f) + 32 (Bioluminescent Deep-Sea SILENT, 8a63031) + 33 (Cherry-Blossom Spring, 21026cf) DONE+pushed; NEXT concept 34. Set 3 shares Master-Depth structure (locked START/END, suspended build, BA.3/AT.5 codes in comp refs) — use lm_rebuild.py (BEATSLM 31-50, no collision) + the same image-edit set (Movement line, F2/F3 comp refs, F3/F5 keyframe notes->SHOT NOTE, F4 image flip to clean Look A); strip BA.3/AT.5 codes; these are BEAUTY-campaign gilding/glow transforms (product-at-face, mostly beauty-still contained — tag Movement line accordingly); soften any "peak" on tonal concepts. Then Set 4 (51-70), Set 5 (71-79) + 4 continuations, Concepts 91-110; then non-transformation folders; then PASS 2; then final verify. (REFERENCE — the chained-transform how-to from concept 6, already DONE: a multi-look chain handles like concept 4's but across N transform frames — each transform clip = held angle (push-with, no angle rotation), re-tone/morph BEGINS mid-clip (no instant snap), Veo first=this frame's clean look / last=next frame's clean look, match-cut joins; keep saturated worlds balanced against neutral grounds, no peak-saturation.) NOTE: some concepts in these files are FREEZE/VFX or non-look-change heroes, not
     A->B wardrobe/world morphs — for those, don't force a Look-A flip; apply K.5 believability +
     controlled vibrancy + match-cut framing instead. METHOD for the true-morph concepts is SURGICAL (lighter than Master-Depth):
     they already have rich ANGLE & SHOT SIZE variety incl. establishing wides + env-dominant frames
