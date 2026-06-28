@@ -7507,7 +7507,7 @@ Hair: soft waves with a low loose braid, a few blossoms settling in, color locke
 
 Makeup: fresh dewy glow: luminous skin, a soft rose-petal lip, gilded-green flecked lids, real pores.
 
-Hero Movement / Impossible Move: plant-growth bloom — vines and blossoms rush up and weave into a living floral couture gown.
+Hero Movement / Impossible Move: plant-growth bloom — contained MID-CLIP at a held camera angle: vines and blossoms rush up and weave into a living floral couture gown by believable real plant-growth (real botanical climb and petal-open, dreamy but grounded, no cheap sparkles). Veo first/last-frame continuity (Frame 4 image = sage-linen Look A = first frame, Frame 5 image = floral-gown Look B = last frame); every frame join is a hard match-cut to a new angle.
 
 Mood: ENCHANTED-FRESH, alive, radiant.
 
@@ -7753,44 +7753,44 @@ LOOP LOGIC: the bloom-up bridges to the gown transform.
 
 ## Frame 4 of 6 — IMAGE PROMPT (TRANSFORM — PLANT-GROWTH BLOOM)
 
-ANGLE & SHOT SIZE: front-on FULL/wide hero, Aira at the bloom apex as vines and blossoms weave into a living floral couture gown, petals flung outward.
+ANGLE & SHOT SIZE: front-on FULL/wide hero, Aira in her sage-linen set at the mossy glasshouse centre, the first vines just beginning to climb at her feet, blossoms arching overhead — the clean Look A the clip opens on, the gown NOT yet woven.
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the START frame of the transform CLIP — render her fully in the sage-linen set Look A (the exact still the Frame-4 video opens on, and Veo's FIRST frame): the sage-linen set, the first vines just beginning to climb around her (the living floral gown NOT yet woven). The plant-growth bloom happens MID-CLIP at this same HELD camera angle (she may turn but the camera holds / push-with, never an angle rotation; vines and blossoms rush up and weave the living floral couture gown by believable real plant-growth — real botanical climb and petal-open, no cheap sparkles), resolving into Frame 5's floral-gown image (Veo's LAST frame). Her face and proportions stay constant. Do NOT depict the gown woven in this still and do NOT invent a new face, new hands or new bone structure.
 
-WARDROBE: the sage-linen set fully woven over by a living floral couture gown of vines, leaves and blossoms, modest neckline and length, edges shedding petals.
+WARDROBE: the sage-linen set at its best, modest neckline and length, fully intact (the living floral gown not yet woven).
 
-FOOTWEAR: living moss-and-petal flats resolved.
+FOOTWEAR: simple flats on the mossy path.
 
-EYEWEAR: glasses up; a delicate flower-crown forming (clean radiant face).
+EYEWEAR: glasses up (clean radiant face).
 
-ACCESSORIES: a forming leaf-collar, vine-ring fully sprouted, leaf earrings.
+ACCESSORIES: a simple vine-ring just beginning to sprout — the garden look.
 
-HAIR: the braid loosening, blossoms blooming through it, petal-lit.
+HAIR: a soft braid.
 
-MAKEUP: fresh dewy glow at full luminous sheen, rose-petal lip, gilded-green highlight blazing.
+MAKEUP: a fresh dewy glow, rose-petal lip; real pores and fine vellus texture.
 
-HANDS & NAILS: both arms opening as the gown blooms, fingers gracefully splayed; soft-rose nails.
+HANDS & NAILS: both hands soft, one just lifting from the pressed seed in the soil, fingers relaxed; soft-rose nails, neat cuticles.
 
-FACIAL MICRO-DYNAMICS: a radiant awed smile, lips parted on a delighted breath, eyes wide with wonder, brows lifted.
+FACIAL MICRO-DYNAMICS: a warm anticipatory gaze to the climbing vines, lips parting on a held breath, eyes bright — fully recognizable, identity-locked, ready for the bloom mid-clip.
 
-BODY POSTURE & WEIGHT: bloom apex mid-spin, body lengthening upward, arms blooming — full of spinning lifting momentum, never frozen-stiff.
+BODY POSTURE & WEIGHT: rising at the glasshouse centre, weight settling, arms beginning to open — poised, the instant before the bloom.
 
-KINETIC STILLNESS (8 layers): (1) vines weaving up the gown; (2) blossoms opening across the bodice; (3) petals flung in slow arcs; (4) the braid loosening; (5) a slow breath; (6) the flower-crown settling; (7) dappled sun sweeping; (8) lashes flaring.
+KINETIC STILLNESS (8 layers): (1) the first vines climbing at her feet; (2) ferns and roses arching overhead in the glasshouse; (3) a braid-strand lifting; (4) dappled sun through the glass; (5) a held breath; (6) a sprouting vine-ring; (7) the sage-linen rippling; (8) lashes settling on a blink.
 
-SPATIAL LOGIC: FOREGROUND — flung petals nearest lens, sharp. MIDGROUND — Aira and the blooming gown. BACKGROUND — the glasshouse in full bloom, clean for the bloom to read.
+SPATIAL LOGIC: FOREGROUND — the first climbing vines nearest lens, tack sharp. MIDGROUND — Aira in sage-linen, the hero. BACKGROUND — the glasshouse aisle with ferns, roses and dappled sun, the botanical world present and lush.
 
-LIGHTING: KEY — warm golden sun igniting the blossoms. FILL — green ambient. RIM — sun-rim lighting petals translucent. PRACTICAL — sun through glass. SEPARATION — luminous gown vs green depth. BOUNCE — mossy-path kick.
+LIGHTING: KEY — warm golden sun through glass. FILL — green ambient. RIM — sun-rim on her shoulder and braid. PRACTICAL — sun through glass. SEPARATION — figure vs green depth. BOUNCE — mossy-path kick.
 
-LENS + DOF + BOKEH: 35mm, f/2.8; focus on Aira and the blooming gown; flung petals as bokeh; background creamy.
+LENS + DOF + BOKEH: 35mm, f/2.8; focus on Aira; the glasshouse as soft green bokeh, clearly present and lush behind.
 
-COMPOSITION: 9:16, the bloom as a dynamic upward burst, Aira centred-spinning, headroom for the petals.
-SUBJECT FRAMING & POSITION: A front-on full/wide hero at the bloom apex, vines and blossoms weaving into a living floral couture gown, petals flung outward. The complete figure is in frame, centred at the bloom apex mid-spin, body lengthening upward, arms blooming. Camera at full/wide distance, petals radiating around her. She faces front, centred and spinning, dominant in frame. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+COMPOSITION: 9:16, Aira a fresh vertical at the glasshouse centre, greenery arching, headroom for the bloom.
+SUBJECT FRAMING & POSITION: A front-on full/wide hero in the sage-linen Look A, the first vines beginning to climb — the clean still the transform clip opens on. The complete figure is in frame, centred, the glasshouse present and lush behind. Camera at full/wide distance. She faces front, centred. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
-ATMOSPHERE: enchanted awe — the garden dressing her in living flowers.
+ATMOSPHERE: enchanted anticipation — the breath before the garden dresses her in living flowers.
 
-COLOUR GRADE: vivid botanical at peak luminosity, translucent petals, glossy leaf speculars, full mid-tone.
+COLOUR GRADE: lush botanical greens balanced (rich and verdant but controlled, never blown out or peak), glossy leaf speculars, full mid-tone.
 
-TEXTURE & MICRO-DETAIL: vines weaving into couture, petal detail, leaf veins, petal-lit skin, loosening braid.
+TEXTURE & MICRO-DETAIL: sage-linen weave, real leaf and vine detail, dewy skin, braid detail.
 
 NEGATIVE: (as Frame 1) plus identity drift, melted features, immodest exposure, broken plant physics, plastic skin.
 
@@ -7803,9 +7803,9 @@ SHOT TYPE & ANGLE: front-on full/wide hero, subject fills ~55%, spinning centred
 LENS: 35mm, f/2.8.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Front-on full/wide hero, spinning centred: she is already reaching the bloom apex as a smooth orbit glides around her, leaves whirling; gaze bright with the turn.
-- [00:02–00:04] Vines and blossoms weave into the living floral couture gown as the orbit keeps gliding through the suspended petals; eyes widening in radiant awe, lips parting.
-- [00:04–00:06] Her arms open and a radiant awed smile lands, petals flung outward on real arcs, eyes alight.
+- [00:00–00:02] Cut to a front-on full/wide hero at a HELD angle (Veo first frame = the sage-linen Look A still): already in motion, a gentle push-with easing in as the first vines climb at her feet — the sage-linen set fully intact, the gown NOT yet woven, the glasshouse lush behind; gaze bright on the climbing green.
+- [00:02–00:04] The bloom BEGINS here, mid-clip: vines and blossoms rush smoothly up and weave the living floral couture gown around her exactly where they climb — believable real plant-growth, real botanical climb and petal-open on true arcs (no cheap sparkles), the glasshouse lush behind, the camera angle held as she turns; eyes widening in radiant awe.
+- [00:04–00:06] The bloom completes and the look settles smoothly and fully into the living floral gown of Frame 5's still (Veo's LAST frame), petals flung on real arcs — a radiant awed smile landing, no last-second snap.
 
 FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
@@ -7817,7 +7817,7 @@ FABRIC/HAIR/PROP PHYSICS: linen-to-floral transition obeys growth then cloth dyn
 
 FOOTWORK & BODY FLOW: a clean spotting spin on the balls of the feet, the body uncoiling tall.
 
-TRANSITION / IMPOSSIBLE MOVE: THE hero move — vines and blossoms weave into a living floral couture gown; locked bloom keyframe.
+TRANSITION / IMPOSSIBLE MOVE: THE hero move, contained mid-clip at a held camera angle (she may turn, the camera holds / push-with, never an angle rotation) — vines and blossoms rush up and weave the living floral couture gown by believable real plant-growth; Veo first frame = this frame's sage-linen Look A image, last frame = Frame 5's floral-gown image; every frame join is a hard match-cut to a new angle.
 
 LIGHTING-IN-MOTION: golden sun ignites the petals translucent as they form; bloom-glow sweeps the glasshouse.
 
