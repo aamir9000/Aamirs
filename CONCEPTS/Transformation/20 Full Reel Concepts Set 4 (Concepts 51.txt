@@ -25,7 +25,7 @@ Hair: Sleek Low Chignon, centre part
 
 Makeup: Luminous Jewel-Glow (lit champagne highlight, soft berry lip)
 
-Movement: processional light-shaft walk → stained-glass light-fracture transform → product radiance-halo hero
+Movement: processional light-shaft walk → stained-glass light-fracture transform → product radiance-halo hero. The sapphire-velvet → jewel-mosaic change is contained MID-CLIP inside Frame 2 at a HELD angle — Veo first/last-frame continuity (Frame 2 image = sapphire-velvet Look A = first frame, Frame 3 image = jewel-mosaic Look B = last frame); every frame join is a hard match-cut to a new angle.
 
 Concept Line: "lit like a cathedral"
 
@@ -41,7 +41,7 @@ Spoken line: lands Frame 4 — "lit like a cathedral." (English, natural Indian 
 
 Audio note: per-frame in-video AUDIO is diegetic-plus-design; a separate 🎵 Master Track Brief follows the final frame (low and subtle, never full).
 
-Identity safety: the transform locks BOTH keyframes — start = pre-transform recognizable face + sapphire gown; end = emerged jewel-mosaic look, new AND clearly her; the light-fracture covers only the crossing; only the named transform is impossible, all light and fabric obey real physics.
+Identity safety: the change is contained inside the single Frame-2 transform clip — it OPENS on the recognizable pre-transform face + sapphire gown (Look A) and RESOLVES smoothly to the jewel-mosaic look (Look B, new AND clearly her) by clip-end; the light-fracture covers only the mid-clip crossing at a held angle; only the named transform is impossible, all light and fabric obey real physics.
 
 ---
 
@@ -109,40 +109,40 @@ NEGATIVE: identity drift, face or hand warp, extra or fused fingers, duplicate p
 
 IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
 
-TRANSFORM KEYFRAME NOTE: the stained-glass light-fracture transform. START KEYFRAME (locked) — Aira mid-nave in the deep sapphire silk-velvet gown, face fully recognizable, caught at the instant a broad jewel-coloured shaft strikes her. CROSSING (the only impossible beat) — the shaft shatters into a travelling lattice of faceted stained-glass light-shards that sweep diagonally across her body; where each shard passes, the sapphire velvet re-forms into a glittering jewel-mosaic of hand-beaded ruby, emerald and sapphire tiles set in fine gold cloisonné lines. END KEYFRAME (locked) — Aira in the finished jewel-mosaic beaded gown, the new look fully resolved, new AND unmistakably her. Identity, bone structure and hair colour ride through untouched; the light-fracture covers only the crossing; gown weight, drape, light and shadow obey real physics on both sides; no double-Aira, no face morph, no melt.
+TRANSFORM KEYFRAME NOTE: the stained-glass light-fracture transform — contained MID-CLIP inside this one frame at a HELD angle. This is the START frame of the transform CLIP — render her fully in the sapphire silk-velvet Look A (the exact still the Frame-2 video opens on, and Veo's FIRST frame): the deep sapphire velvet column gown fully intact, face fully recognizable, caught at the instant before a broad jewel-coloured shaft strikes her (the light-fracture NOT yet begun). The change happens MID-CLIP at this same HELD angle — a travelling lattice of faceted stained-glass light-shards sweeps diagonally across her and the sapphire velvet re-forms into a hand-beaded jewel-mosaic of ruby, emerald and sapphire tiles in fine gold cloisonné — settling into Frame 3's finished jewel-mosaic image (Veo's LAST frame); the camera may travel or crane with her but never rotates its angle through the change. Identity, bone structure and hair colour ride through untouched. Do NOT depict the morph in this still and do NOT invent a new face, new hands or new bone structure.
 
-WARDROBE: mid-transform — the lower body still deep sapphire silk-velvet, the upper body already re-formed into a jewel-mosaic beaded bodice of ruby, emerald and sapphire tiles in gold cloisonné, a clean diagonal seam of travelling coloured light dividing the two halves; fully modest high neckline and long sleeves, the beadwork throwing hundreds of tiny jewel speculars; fabric immaculate, the velvet and the beadwork both reading with real weight.
+WARDROBE: the deep sapphire silk-velvet column gown, floor-length and fully modest, a soft draped cowl at the neck and long clean sleeves, the velvet pile drinking the jewel-light into rich blue shadow with a soft travelling sheen along each fold; a single fine brushed rose-gold cuff at the wrist; fabric immaculate, weighted and flawless — the look fully intact, no beadwork and no light-seam yet.
 
-HAIR (Sleek Low Chignon): unchanged through the crossing — the polished centre-part low knot holds, glossy and smooth with the loose face-framing strands intact, now catching multicoloured glints from the passing light-shards; real strand separation under the shine, hair colour locked to the reference.
+HAIR (Sleek Low Chignon): a centre part sweeping back into a polished low knot at the nape, the surface glossy and smooth with zero flyaways and a clean hairline, a few soft face-framing strands left loose; healthy high-shine with real strand separation under the gloss, hair colour locked to the reference.
 
-MAKEUP (Luminous Jewel-Glow): the luminous base now lit by travelling coloured light, the champagne highlight picking up faint jewel reflections, the berry lip and smoked taupe lid unchanged; skin dewy and real with visible pores, the glow read as reflected light not added gloss.
+MAKEUP (Luminous Jewel-Glow): a luminous satin base, a softly smoked warm-taupe lid with fluttery natural lashes, brushed-up brows, a lit champagne highlight stacked on the cheekbone, brow-bone and cupid's bow, a soft berry-stained satin lip, a diffused rosy blush; skin kept dewy and real with visible pores and fine vellus texture (glow from light, never plastic).
 
-HANDS & NAILS: the vial lowered slightly to waist height in one hand as the light sweeps up her body, fingers relaxed; the cut glass scattering the coloured shards into tiny caustics across her forearm; almond nails in glazed rose-nude gloss, neat cuticles.
+HANDS & NAILS: the faceted "Lumière Sacrée" vial held in one hand easing down from the heart toward waist height as she steps, fingers resting light on the cut glass, the other hand easing open from the body; almond nails in a clean glazed rose-nude gloss, neat cuticles, natural nail-bed colour.
 
-FACIAL MICRO-DYNAMICS: lips parting on a small awed breath as the light crosses her, eyes widening a hair with wonder, a soft delighted lift at the brows; jewel-coloured catchlights multiplying briefly in each eye; alive and reacting, never frozen.
+FACIAL MICRO-DYNAMICS: a reverent wonder beginning — lips just parting on a held breath, eyes lifting toward the towering window the instant before the light strikes, brows lifted a hair; a clean jewel-coloured catchlight in each eye; alive and anticipating, never frozen.
 
-BODY POSTURE & WEIGHT: caught mid-step, weight transferring forward onto the front leg, torso opening a few degrees toward the light, spine long, one arm easing out from the body as the beadwork forms — dynamic but balanced, living stillness.
+BODY POSTURE & WEIGHT: caught mid-step, weight transferring forward onto the front leg, torso opening a few degrees toward the window, spine long, one arm easing out from the body — dynamic but balanced, the poised breath before the change, living stillness.
 
-KINETIC STILLNESS (8 layers): (1) the diagonal light-seam travelling up her body; (2) individual stained-glass shards sweeping and refracting; (3) the velvet hem still settling from her step; (4) beadwork tiles catching and releasing jewel speculars in sequence; (5) a face-framing strand lifting in the moving air; (6) coloured caustics from the vial crawling her forearm; (7) chest rising on the awed breath; (8) fine coloured dust scattering off the shard-front.
+KINETIC STILLNESS (8 layers): (1) the broad jewel-coloured shaft drifting almost imperceptibly with slow turning dust the instant before it strikes; (2) a loose face-framing strand lifting a few millimetres in the cool air; (3) the velvet hem still settling from her step; (4) the velvet folds breathing with a slow highlight shift as she inhales; (5) chest rising on a slow awed breath; (6) faceted speculars crawling across the cut vial as it is held; (7) a soft coloured caustic thrown by the glass dancing on her forearm; (8) a slow reverent blink beginning.
 
-SPATIAL LOGIC: FOREGROUND — the vial and hand at waist, scattering caustics, sharp. MIDGROUND — Aira mid-transform, the diagonal light-seam dividing velvet and mosaic. BACKGROUND — the stained-glass windows now blazing brighter as the source of the fracture, coloured shafts crossing the nave, soft glowing runway behind.
+SPATIAL LOGIC: FOREGROUND — the vial and hand easing toward the waist, scattering tiny jewel caustics, sharp. MIDGROUND — Aira mid-step in the sapphire gown, centred in a single bright light-shaft. BACKGROUND — the towering stained-glass windows beginning to blaze brighter as the source about to fracture, jewel shafts crossing pale stone, a long central runway of coloured light receding behind.
 
-LIGHTING: KEY — the shattered jewel-light shaft, now an active travelling source raking across her. FILL — soft stone-bounce. RIM — cool backlight holding her silhouette through the busy light. PRACTICAL — the stained-glass windows blazing as the in-frame motivation. SEPARATION — the bright shard-front haloing the transition. BOUNCE — warm card keeping the lower velvet from going black.
+LIGHTING: KEY — the broad jewel-coloured window shaft as the motivated key wrapping her face, the instant before it shatters. FILL — a soft ambient stone-bounce keeping shadows gentle. RIM — a cool delicate backlight separating her hair and shoulder from the nave. PRACTICAL — the stained-glass windows glowing as in-frame sources plus distant candle-banks. SEPARATION — the bright shaft haloing her silhouette. BOUNCE — a warm card lifting the vial's cut facets.
 
-FRAMING: ASPECT 9:16; full-figure, slightly low angle to add grandeur, the diagonal light-seam leading the eye, 12% headroom.
-SUBJECT FRAMING & POSITION: A full-figure transform hero from a slightly low angle with about 12% headroom, the diagonal transform-line of the stained-glass cathedral leading the eye. Her body caught mid-turn, weight transferring onto the front foot, torso opening toward the lens, one arm beginning the transform gesture. Camera low for elegance, the complete figure in frame in the stained-glass cathedral, clean negative space. She is centred, caught mid-motion rather than posed. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+FRAMING: ASPECT 9:16; full-figure, slightly low angle to add grandeur, the bright central shaft leading the eye, 12% headroom.
+SUBJECT FRAMING & POSITION: A full-figure transform hero from a slightly low angle with about 12% headroom, the bright central shaft of the stained-glass cathedral leading the eye. Her body caught mid-step, weight transferring onto the front foot, torso opening toward the window, one arm easing out from the body. Camera low for elegance, the complete figure in frame in the stained-glass cathedral, clean negative space. She is centred, caught mid-motion rather than posed. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
-LENS + DOF + BOKEH: 35mm, f/2.2; her face and the light-seam tack sharp, the nave soft, coloured bokeh off the windows; gentle bloom on the shard-front, refraction sparkles scattering.
+LENS + DOF + BOKEH: 35mm, f/2.2; her face and the cut vial tack sharp, the nave soft, coloured bokeh off the windows; gentle bloom on the shaft, refraction sparkles scattering off the glass.
 
-COMPOSITION REFERENCE: the signature transform beat — a single elegant impossible crossing, jewel-lit, cinematic and share-worthy.
+COMPOSITION REFERENCE: the held breath before the signature transform — a single elegant impossible crossing about to begin, jewel-lit, cinematic and share-worthy.
 
-ATMOSPHERE: breathtaking, magical-but-believable — light itself re-dressing her.
+ATMOSPHERE: breathtaking anticipation, magical-but-believable — the instant before light itself re-dresses her.
 
-COLOR GRADE: luminous cinematic jewel-tone — saturated sapphire/ruby/emerald shards over warm stone, rich airy blacks, soft bloom (cinematic lane).
+COLOR GRADE: luminous cinematic jewel-tone — saturated sapphire velvet over warm pale stone, rich airy blacks, soft bloom (cinematic lane).
 
-TEXTURE & MICRO-DETAIL: each beadwork tile shows a faceted glassy edge and a pin specular; the gold cloisonné lines read as fine raised metal; the velvet keeps real pile direction below the seam; coloured caustics ripple believably; glass-skin micro-texture with peach-fuzz catching the moving light.
+TEXTURE & MICRO-DETAIL: the silk-velvet shows real pile direction and a soft sheen shift across the folds; the cut vial refracts tiny jewel caustics and throws pin-sharp speculars; coloured dust drifts believably through the shaft; glass-skin micro-texture with soft peach-fuzz catching the rim.
 
-NEGATIVE: mirrored, flipped, inverted, extra limbs, fused fingers, melted features, asymmetric eyes (unintentional), garbled text, floating shadows, duplicated subjects, low-res patches, plastic skin, over-smoothed skin, oversharpened, AI artifacts, watermarks, signature, deformed hands, malformed teeth, joint cuts, amputated fingertips, cross-eyed, lazy eye, off-axis pupils, melted clothing, mannequin-stiff posture, dead eyes, statue-frozen energy, double-Aira, face morph during transform, melted beadwork.
+NEGATIVE: mirrored, flipped, inverted, extra limbs, fused fingers, melted features, asymmetric eyes (unintentional), garbled text, floating shadows, duplicated subjects, low-res patches, plastic skin, over-smoothed skin, oversharpened, AI artifacts, watermarks, signature, deformed hands, malformed teeth, joint cuts, amputated fingertips, cross-eyed, lazy eye, off-axis pupils, melted clothing, mannequin-stiff posture, dead eyes, statue-frozen energy, double-Aira, face morph during transform, premature beadwork, visible light-seam in this still.
 
 ## Frame 2 of 6 — VIDEO PROMPT
 
@@ -153,9 +153,9 @@ SHOT TYPE: full-figure transform hero, slightly low angle.
 LENS: 35mm, f/2.2.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Full-figure from a slightly low angle: a slow controlled arc is already rising with her as the jewel-shaft strikes and shatters into travelling stained-glass shards; gaze catching the fracturing light, eyes widening a hair.
-- [00:02–00:04] The arc tracks the diagonal light-seam sweeping up her body, sapphire velvet re-forming into jewel-mosaic beadwork as it passes; an awed breath, brows lifting in wonder.
-- [00:04–00:06] The last shard clears overhead and the finished jewel-mosaic gown settles as the arc eases; a small luminous smile landing, eyes alight on the resolved beadwork.
+- [00:00–00:02] Cut to a full-figure from a slightly low HELD angle (Veo first frame = the sapphire-velvet Look A still): a gentle push-with is already travelling toward her as she steps into the brightest shaft in the deep sapphire velvet gown — the look fully intact, NO change yet, the angle fixed for the whole clip; gaze lifting to the towering window.
+- [00:02–00:04] The change BEGINS here, mid-clip: the jewel-shaft shatters at her near shoulder into a travelling lattice of stained-glass light-shards that sweeps smoothly and diagonally down across her in one continuous wavefront, sapphire velvet re-forming into ruby/emerald/sapphire jewel-mosaic beadwork exactly where it passes — gradual and motivated, never a snap; eyes widening a hair in wonder as it crosses (angle held, identity locked).
+- [00:04–00:06] The last shard clears and the look settles smoothly and fully into the finished jewel-mosaic Look B of the Veo last-frame still (Frame 3's image), resolved and held; a small luminous smile landing, eyes alight on the resolved beadwork.
 
 AUDIO: diegetic-plus-design, no spoken word. Ambient bed — the cathedral reverb-tone swelling with a fuller choir-rise under the crossing. SFX — a bright crystalline shatter-chime as the shaft fractures at 0.3s, a layered glassy shimmer sweeping up 1.5–4.0s tracking the seam, a soft settling bell-tone as the gown resolves at 5.6s. Reaction — a soft awed gasp at 1.4s. VO — none. Master track lifts gently under the transform then eases (subtle, never full).
 
