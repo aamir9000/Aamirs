@@ -2557,7 +2557,7 @@ Hair: a sleek sculptural low chignon with a glossy finish, color locked to refer
 
 Makeup: high-fashion luminous skin, a bold tonal lip that re-tones per floor, graphic liner, real pores.
 
-Hero Movement / Impossible Move: per-floor colour world — each door-open reveals a different saturated monochrome environment and re-tones her couture.
+Hero Movement / Impossible Move: per-floor colour world — at each floor the doors open and a colour-world's light washes in, re-toning her couture, each reveal CONTAINED mid-clip at a held angle (the new colour washes in as light mid-clip — smooth, never an instant snap). Chain: F3 ruby, F4 cobalt, F5 gold-hero. Each floor frame's image is the CLEAN resolved reveal its clip settles into (Veo last frame), the re-tone washing from the previous colour; every frame join is a hard match-cut to a new angle. The saturated ruby/cobalt/gold worlds stay rich but balanced against the chrome-neutral car and rich blacks (controlled vibrancy, never garish).
 
 Mood: BOLD-EDITORIAL, sleek, powerful.
 
@@ -2727,7 +2727,7 @@ LOOP LOGIC: the colour ignition starts the per-floor cycle the loop resolves.
 
 ## Frame 3 of 6 — IMAGE PROMPT (TRANSFORM — RUBY FLOOR)
 
-ANGLE & SHOT SIZE: profile (full side pose) MEDIUM, the doors parting to reveal a ruby velvet hall, Aira's jumpsuit re-toning ruby, lowering her visor.
+ANGLE & SHOT SIZE: profile (full side pose) MEDIUM, the doors open on a ruby velvet hall, Aira's couture fully ruby in the spilled door-light, lowering her visor — the clean resolved ruby reveal the clip settles into.
 
 IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
 
@@ -2777,9 +2777,9 @@ SHOT TYPE & ANGLE: profile medium, subject fills ~55%.
 LENS: 50mm, f/2.0.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Profile medium: the elevator chimes and the doors are already parting as a slow arc swings from profile toward three-quarter; gaze turning to the widening gap.
-- [00:02–00:04] Ruby light spills in across her body and the architectural jumpsuit re-tones ruby, the velvet hall blooming beyond; eyes catching the warm glow.
-- [00:04–00:06] She lowers the sculptural visor and gazes into the ruby hall, a cool powerful calm in her eyes.
+- [00:00–00:02] Cut to a clean profile medium at a HELD angle: already in motion, the elevator chimes and the doors are parting as a gentle push-with eases in — chrome-neutral still on her couture, the ruby hall beginning to show beyond; gaze turning to the widening gap.
+- [00:02–00:04] The re-tone BEGINS here, mid-clip: ruby door-light washes smoothly across her body and her couture re-tones deep ruby as the velvet hall blooms beyond — a light-wash, never a snap, the angle held; eyes catching the warm glow.
+- [00:04–00:06] The wash completes and settles into the clean resolved ruby reveal (this frame's still = Veo last frame) as she lowers the sculptural visor, a cool powerful calm in her eyes.
 
 FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
@@ -2791,7 +2791,7 @@ FABRIC/HAIR/PROP PHYSICS: jumpsuit re-tones as a light-wipe; chignon strand sway
 
 FOOTWORK & BODY FLOW: a subtle weight-shift toward the opening, grounded.
 
-TRANSITION / IMPOSSIBLE MOVE: floor-world #1 — doors reveal the ruby hall and her couture re-tones ruby; locked to the door-open.
+TRANSITION / IMPOSSIBLE MOVE: floor-world #1, contained mid-clip at a held angle — the doors open and ruby light washes in, re-toning her couture ruby as a smooth light-wash (never a snap); settles into this frame's clean ruby reveal (Veo last frame); the join from Frame 2 is a hard match-cut to this profile angle.
 
 LIGHTING-IN-MOTION: ruby door-spill washes across her and the chrome as the doors part.
 
@@ -2803,7 +2803,7 @@ LOOP LOGIC: the floor-reveal rhythm builds the cycle the loop resolves.
 
 ## Frame 4 of 6 — IMAGE PROMPT (TRANSFORM — COBALT FLOOR)
 
-ANGLE & SHOT SIZE: low-angle CLOSE-UP as the doors close and reopen on a cobalt glass atrium, her jumpsuit re-toning cobalt, chin lifting.
+ANGLE & SHOT SIZE: low-angle CLOSE-UP, the doors reopened on a cobalt glass atrium, her couture fully cobalt in the spilled light, chin lifting — the clean resolved cobalt reveal the clip settles into.
 
 IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
 
@@ -2853,9 +2853,9 @@ SHOT TYPE & ANGLE: low-angle close-up, subject fills ~60%.
 LENS: 50mm, f/1.8.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Low-angle close-up: the doors are already sliding shut on ruby and reopening on a cobalt glass atrium as a smooth crane begins to rise from below; gaze flicking to the cool light.
-- [00:02–00:04] Cobalt light washes over her and the jumpsuit re-tones cobalt as the crane lifts toward eye-level; eyes cooling, brow settling into command.
-- [00:04–00:06] At eye-level she lifts her chin into the cool light with a confident set, gaze steady and bold.
+- [00:00–00:02] Cut to a low-angle close-up at a HELD low angle: already in motion, the doors sliding shut on ruby and reopening on a cobalt glass atrium as a gentle push-with eases in — ruby still on her for a beat; gaze flicking to the cool light.
+- [00:02–00:04] The re-tone BEGINS here, mid-clip: cobalt light washes smoothly over her and her couture re-tones deep cobalt as the glass atrium blooms beyond — a light-wash, never a snap, the low angle held; eyes cooling, brow settling into command.
+- [00:04–00:06] The wash completes and settles into the clean resolved cobalt reveal (this frame's still = Veo last frame), she lifting her chin into the cool light with a confident set, gaze steady and bold.
 
 FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
@@ -2867,7 +2867,7 @@ FABRIC/HAIR/PROP PHYSICS: jumpsuit re-tones as a light-wipe; chignon strand sway
 
 FOOTWORK & BODY FLOW: weight grounding taller (below frame).
 
-TRANSITION / IMPOSSIBLE MOVE: floor-world #2 — doors reveal the cobalt atrium and her couture re-tones cobalt.
+TRANSITION / IMPOSSIBLE MOVE: floor-world #2, contained mid-clip at a held low angle (camera push-with, never an angle rotation) — the doors cycle and cobalt light washes in, re-toning her couture cobalt as a smooth light-wash; settles into this frame's clean cobalt reveal (Veo last frame); the join from Frame 3 is a hard match-cut to this low angle.
 
 LIGHTING-IN-MOTION: ruby fades to cobalt as the doors cycle; chrome washes cool.
 
@@ -2929,9 +2929,9 @@ SHOT TYPE & ANGLE: front-on full/wide hero, subject fills ~50%.
 LENS: 28mm, f/3.5.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Front-on full/wide hero: the doors are already opening fully on a gold-leaf gallery as she steps out and a slow push settles toward dead-front; gaze rising into the gold.
-- [00:02–00:04] She squares tall into the gold light, the jumpsuit fully re-toned gold and reflections glinting; eyes proud and luminous.
-- [00:04–00:06] She frames a powerful editorial pose, a radiant micro-smile landing to lens as the push locks.
+- [00:00–00:02] Cut to a front-on full/wide hero at a HELD angle: already in motion, the doors opening fully on a gold-leaf gallery as she steps out and a slow push-with settles toward dead-front — cobalt still on her for a beat; gaze rising into the gold.
+- [00:02–00:04] The re-tone BEGINS here, mid-clip: gold gallery light washes smoothly over her and her couture re-tones warm gold, reflections glinting — a light-wash, never a snap, the angle held; eyes proud and luminous.
+- [00:04–00:06] The wash completes and settles into the clean resolved gold HERO reveal (this frame's still = Veo last frame) as she frames a powerful editorial pose, a radiant micro-smile landing to lens.
 
 FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
@@ -2943,7 +2943,7 @@ FABRIC/HAIR/PROP PHYSICS: jumpsuit catches travelling gold speculars; chignon st
 
 FOOTWORK & BODY FLOW: a clean step-out, weight rolling onto both boots into a grounded stance.
 
-TRANSITION / IMPOSSIBLE MOVE: floor-world #3 — doors reveal the gold gallery and her couture re-tones gold; the hero reveal.
+TRANSITION / IMPOSSIBLE MOVE: floor-world #3, contained mid-clip at a held angle — the doors open on the gold gallery and gold light washes in, re-toning her couture gold as a smooth light-wash; settles into this frame's clean gold HERO reveal (Veo last frame); the join from Frame 4 is a hard match-cut to this wide hero angle.
 
 LIGHTING-IN-MOTION: cobalt fades to gold as she steps out; gold speculars sweep the couture.
 
