@@ -885,3 +885,43 @@ STRUCTURAL INTEGRITY (every file):
 
 Report each file as PASS or list the exact failing check + line; remediate; commit the fixes;
 then mark the whole project COMPLETE in this tracker.
+
+
+
+====================================================================
+## *** EXACT FILE MANIFEST (verbatim current paths — copy these; reorg is DONE) ***
+====================================================================
+All concept files live in CONCEPTS/<Category>/ . Engines take the path as argv (nothing is
+hardcoded), so always pass one of these EXACT paths (filenames contain "·" U+00B7 and "–" U+2013):
+
+TRANSFORMATION (Pass-1 L+M target; then Pass-2 motion except GRWM/exceptions):
+  CONCEPTS/Transformation/20 Reel Concepts Master-Depth Build.txt        (01-12 L+M done; 13-20 left)
+  CONCEPTS/Transformation/20 Cinematic Reels New Set.txt
+  CONCEPTS/Transformation/20 More Full Reel Concepts Set 3.txt
+  CONCEPTS/Transformation/20 Full Reel Concepts Set 4 (Concepts 51.txt
+  CONCEPTS/Transformation/20 Full Reel Concepts Set 5 (Concepts 71.txt
+  CONCEPTS/Transformation/20 Full Reel Concepts · Set 5 (cont.txt
+  CONCEPTS/Transformation/20 Full Reel Concepts Set 5 (cont 2).txt
+  CONCEPTS/Transformation/Set 5 (cont 3) Clothes-Change Transformation.txt
+  CONCEPTS/Transformation/Set 5 (cont 4) · Clothes-Change Transformation.txt
+  CONCEPTS/Transformation/Concepts 91–110 · FULL Heavy-Detail.txt
+BEAUTY (lean-stripped; Beauty Ad — Pass 2 contained where GRWM/beauty-still):
+  CONCEPTS/Beauty/20 Beauty Ad Reels · Mind-Blowing Choreograpgy.txt
+SURREAL (lean-stripped):
+  CONCEPTS/Surreal/NEW Reel Concepts (131–150) .txt        (note trailing space before .txt)
+ACTION:
+  CONCEPTS/Action/20 Magical Action Reels Heavy-Detail.txt
+  CONCEPTS/Action/20 Magical Action Reels Set 2 Expression.txt
+  CONCEPTS/Action/Magical Action Reels · Master Set.txt
+  CONCEPTS/Action/Concept 170 · Phoenix Crash.txt
+TIME-FREEZE:
+  CONCEPTS/Time-Freeze/Time-Freeze Reel Set · Fully-Detailed Concepts.txt
+TRAVEL-SCENIC:
+  CONCEPTS/Travel-Scenic/aira_set4.txt
+  CONCEPTS/Travel-Scenic/aira_set5.txt
+PRODUCT:
+  CONCEPTS/Product/Concept 100 · The Unboxing.txt
+USAGE: python3 _tools/lm_rebuild.py "<exact path>" <concept_number>   and
+       python3 _tools/lean_strip.py "<exact path>"
+(If any older section below shows a CONCEPTS/Heavy-Detail/... or flat path, IGNORE it and use the
+path from THIS manifest — the Heavy-Detail folder no longer exists.)
