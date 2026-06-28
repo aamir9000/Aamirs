@@ -920,7 +920,7 @@ Hair: AP — soft loose romantic waves with a delicate half-up clip, a fresh nat
 
 Makeup: AQ — fresh dewy spring glow: a soft pink-wash lid, dewy luminous skin, a glossy rose-petal lip, soft pink blush on the apples, fresh highlight on the high points, soft-set brows, real pores
 
-Movement: macro serum-drop → time-lapse blossom bloom transform (the one impossible move) — cherry blossoms burst into full bloom around her in fast-forward, petals showering
+Movement: time-lapse blossom bloom transform (the one impossible move) — cherry blossoms burst into full bloom around her in fast-forward, petals showering, CONTAINED mid-clip inside Frame 4 at a HELD angle (begins mid-clip, blooms smoothly, never an instant snap; believable real botanical time-lapse physics, no cheap sparkles). Veo first/last-frame continuity (Frame 4 image = fresh dewy-glow Look A = first frame, Frame 5 image = full-blossom Look B = last frame); every frame join is a hard match-cut to a new angle. (Beauty-still — contained product-at-face pose held per M.6.)
 
 Concept Line: "spring starts with me"
 
@@ -986,9 +986,9 @@ SHOT TYPE: medium close, chest-up, subject fills about 55% of the vertical frame
 LENS: 50mm, f/2.0, smooth creamy background fall-off.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Medium close chest-up in the bright blossom grove: a slow push-in is already gliding toward her as she tilts the bottle a few degrees into the morning sun, speculars sliding along the glass and the blush serum settling; gaze lowered to the bottle, a petal drifting past.
-- [00:02–00:04] The push continues as she lifts her bright gaze to lens on a soft inhale and a joyful quarter-smile blooms, dappled sun warming her face.
-- [00:04–00:06] She holds, fresh and happy, eyes sparkling, a petal drifting across the soft pink bokeh.
+- [00:00–00:02] Cut to a medium-close chest-up in the bright spring grove: she is already cradling the faceted bottle soft at her collarbone as a slow push eases in, soft pale-pink cherry blossoms and dappled morning sun behind her, a few petals drifting; her left hand easy near her jaw.
+- [00:02–00:04] The push settles as a face-framing strand lifts in the spring breeze and her bright gaze eases to lens, petals drifting through the dappled light, a fresh joyful quarter-smile settling.
+- [00:04–00:06] She holds the fresh dewy-glow look in the soft blush-pink wrap dress, eyes bright and warm in the spring sun (the line lands later).
 
 AUDIO: diegetic only, no in-clip music. Ambient bed — a soft spring breeze and gentle distant birdsong throughout. SFX — a soft glass-tap as her fingers settle on the bottle at 0.6s (gentle attack, short tail), a faint fabric shift at 3.2s, a light petal-flutter accent at 4.5s timed to the gaze-lift. Reaction — a soft audible breath at 3.0s. The master track sits low — a soft acoustic guitar just kindling under the breeze (present, never full). VO — none this frame.
 
@@ -1027,7 +1027,7 @@ SUBJECT FRAMING & POSITION: A medium close framing holds Aira from the chest up 
 
 LENS + DOF + BOKEH: 50mm, f/2.0; focus split between her near eye and the swelling blush drop so both read crisp; the blossoms melting to a soft creamy pastel field; soft pink blooms off the drop and swelling buds; gentle roll-off, no clipping.
 
-COMPOSITION REFERENCE: the fresh build beat — a blush drop and first swelling buds, the bloom clearly imminent (BA.3 cause building to effect).
+COMPOSITION REFERENCE: a macro serum-drop build beat — fresh and poised, the blossom bloom held for the Frame-4 clip.
 
 ATMOSPHERE: fresh, charged, joyful — the bright instant before the blossoms burst into bloom around her.
 
@@ -1046,9 +1046,9 @@ SHOT TYPE: medium close, chest-up, subject and raised dropper fill about 58% of 
 LENS: 50mm, f/2.0.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Medium close: the slow push continues with a faint tilt-up already following her hand as she lifts the dropper near her cheekbone and releases a single soft blush drop; gaze tracing the drop.
-- [00:02–00:04] The first blossom buds swell on the branches around her, her eyes brightening with anticipation.
-- [00:04–00:06] The drop meets her skin with a fresh dewy bloom, a petal drifting, a happy breath held.
+- [00:00–00:02] Cut to a medium-close three-quarter, a rack-focus pulling from the bottle to her eye: she is already releasing a soft blush drop near her cheekbone and the first blossom buds swell on the branches; gaze cast soft to the drop.
+- [00:02–00:04] The blush drop beads dewy on her cheekbone as her gaze warms with quiet joy and a fresh micro-smile kindles, buds swelling in around her.
+- [00:04–00:06] She holds the drop poised near her cheek, eyes bright and fresh, the dewy-glow look intact (silent here).
 
 AUDIO: diegetic only. Ambient — soft spring breeze and gentle birdsong throughout. SFX — a soft dropper-release tick at 0.9s, a delicate budding-leaf rustle at 3.0s, a faint petal-flutter at 5.4s (gentle attack, soft tail). Reaction — a soft breath at 3.2s. The master track lifts a touch — a soft acoustic guitar and a light glockenspiel shimmer rising under the SFX (present, never full). VO — none this frame.
 
@@ -1062,7 +1062,7 @@ NEGATIVE: identity drift, face or hand warp, extra or fused fingers, duplicate p
 
 ## Frame 3 of 6 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the locked START keyframe of the time-lapse blossom bloom transform — face fully recognizable, still the fresh dewy-glow look, the blossom buds now swelling and gathering on the branches around her, the first petals just unfurling at her shoulder. Lock this START so Frame 4's bloom interpolates cleanly to the full-blossom END (Frame 5).
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. SHOT NOTE: a clean fresh dewy-glow (Look A) beat at its OWN cut/angle — the fresh dewy-glow look fully intact, blossom buds swelling and the first petals unfurling; the bloom does NOT happen here (it happens mid-clip inside Frame 4). Build fresh joyful anticipation only.
 
 WARDROBE: the blush-pink wrap dress, continuity-locked, the light fabric beginning to catch gathering petal-glints, fully modest and pristine, zero snags.
 
@@ -1087,7 +1087,7 @@ SUBJECT FRAMING & POSITION: A medium framing holds Aira from the chest up with a
 
 LENS + DOF + BOKEH: 50mm, f/2.0; focus split between her near eye and the nearest unfurling petal so both read crisp; the blossoms melting to a soft creamy pastel field; soft pink blooms off the petals; gentle roll-off, no clipping.
 
-COMPOSITION REFERENCE: the bright suspended build beat — buds swell and petals begin to unfurl, the bloom clearly imminent (BA.3 cause building to effect).
+COMPOSITION REFERENCE: a poised spring beat, buds swelling and petals beginning to unfurl — fresh and bright, the bloom held for the Frame-4 clip.
 
 ATMOSPHERE: fresh, charged, joyful — the bright instant before the blossoms burst into full bloom around her.
 
@@ -1106,9 +1106,9 @@ SHOT TYPE: medium, chest-up, subject and gathering blossoms fill about 60% of th
 LENS: 50mm, f/2.0, smooth creamy background fall-off.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Medium chest-up: a slow arc is already drifting around her as she lowers the dropper a touch and the blossom buds swell and gather; gaze following the budding branches.
-- [00:02–00:04] The arc eases round as the first petals unfurl, her eyes brightening with joy.
-- [00:04–00:06] The gathering tightens and brightens, cueing the bloom, her gaze lifting in delight.
+- [00:00–00:02] Cut to a medium chest-up on a fresh three-quarter angle: she eases her hand down and opens it soft toward the swelling buds, drawing a slow spring breath as the camera arcs a few degrees and the blossom grove swings behind with parallax; gaze lifting.
+- [00:02–00:04] The arc settles as her gaze lifts to lens with rising fresh joy and a knowing micro-smile forms, blossom buds swelling and the first petals unfurling, still the fresh dewy-glow look.
+- [00:04–00:06] She holds the poised spring beat, buds swelling at her shoulder, eyes bright and joyful — the hush before the blossom bloom (silent here).
 
 AUDIO: diegetic only, no VO this frame. Ambient — soft spring breeze and gentle birdsong throughout. SFX — the soft settle of the lowering dropper at 0.8s, a delicate budding-unfurl rustle at 2.2s, a faint petal-flutter swell at 4.2s as the blossoms mass (gentle attack, soft tail). Reaction — a soft breath at 2.4s. The master track sits low — a soft acoustic guitar and light glockenspiel under the SFX (present, never full).
 
@@ -1122,38 +1122,40 @@ NEGATIVE: identity drift, face or hand warp, extra or fused fingers, duplicate p
 
 ## Frame 4 of 6 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the one impossible move — the time-lapse blossom bloom. LOCK the START (Frame 3, face clear, fresh dewy-glow, buds swelling) and the END (Frame 5 open, full-blossom radiant after-look). Mid-bloom the face stays clear and recognizable, softly framed (never buried) by the bursting blossoms; interpolate strictly between the locked keyframes — do NOT invent a new face, new hands or new bone structure beneath the blossom bloom. Fresh and bright, true botanical time-lapse physics, joyful not chaotic.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the START frame of the transform CLIP — render her fully in the fresh dewy-glow Look A (the exact still the Frame-4 video opens on, and Veo's FIRST frame): the soft blush-pink wrap dress in the spring grove, both arms beginning to open soft as blossom buds swell on the branches around her (the full bloom NOT yet burst). The time-lapse blossom bloom happens MID-CLIP at this same HELD angle (the camera may push or travel with her but never rotates its angle; the blossoms burst into full bloom by believable real botanical time-lapse physics — petals showering on true spring air, no cheap sparkles), resolving into Frame 5's full-blossom after-look image (Veo's LAST frame). Her face, hair and proportions stay constant. Do NOT depict the bloom in this still and do NOT invent a new face, new hands or new bone structure.
 
-WARDROBE (refined): the blush-pink wrap dress catching the bloom at its freshest as the blossoms burst — light fabric flaring with drifting petal-glints, fully modest, never revealing.
+WARDROBE: the soft blush-pink wrap dress with long sleeves and a modest neckline, light and fresh, drifting gently in the spring breeze, fully modest, fully intact (the full bloom not yet burst).
 
-HAIR: the soft waves catching a sweeping petal-shower mid-motion, the half-up clip holding, petals settling in the strands; color locked beneath the sheen.
+HAIR: soft waves with a half-up clip, fresh and light, a strand lifting in the spring breeze; colour locked to reference.
 
-MAKEUP: mid-bloom — the fresh dewy glow flushing to its luminous peak, the soft pink-wash lid kindling brighter, the rose-petal lip enriching, the fresh highlight glowing on the high points; real pores beneath.
+MAKEUP: the fresh dewy-glow Look-A base — a soft pink-wash lid, dewy skin, a glossy rose-petal lip, soft pink blush on the apples, a fresh highlight; skin dewy and real with visible pores and fine vellus texture.
 
-HANDS & NAILS: both arms drifting open through the bloom, palms turning up as the blossoms burst into full bloom and petals shower around her; natural nail-bed color, neat cuticles, no white-knuckle tension.
+HANDS & NAILS: both arms beginning to open soft from her body, palms easing up toward the swelling buds, the right near the cradled bottle; natural nail-bed colour, neat cuticles, no white-knuckle tension.
 
-FACIAL MICRO-DYNAMICS: eyes luminous with bright joyful awe, a gentle parted-lip wonder, a clean fresh delight — face clear and framed by the bursting blossoms, identity strictly held to reference.
+FACIAL MICRO-DYNAMICS: a bright joyful gaze with a gentle parted-lip wonder, a clean fresh delight — composed and fully recognizable, identity-locked, ready for the blossom bloom mid-clip.
 
-BODY POSTURE & WEIGHT: mid-bloom the spine lengthens and the shoulders open bright, weight rolling smooth between the feet — grounded real physics, modest throughout.
+BODY POSTURE & WEIGHT: front-facing with the torso rotated about 4°, the spine long and the shoulders open bright, weight settled with a soft hip counter-tilt — grounded real physics, the fresh centre before the bloom, modest throughout.
 
-KINETIC STILLNESS (8 layers): (1) cherry blossoms bursting into full bloom in fast-forward around her at peak; (2) a petal-shower sweeping bright across her shoulder and cheek; (3) the waves and dress catching drifting petals mid-bloom; (4) pollen-fine motes and petals sparkling through the field; (5) the dress flaring with a fresh highlight; (6) sun speculars multiplying across the showering petals; (7) the morning sun blooming a touch brighter through the bloom; (8) her chest mid a soft awed breath.
+KINETIC STILLNESS (8 layers): (1) the first blossom buds swelling and unfurling on the branches; (2) dappled morning sun moving soft through the grove; (3) a face-framing strand lifting in the spring breeze; (4) a few early petals drifting; (5) the dress breathing in the breeze; (6) a soft glint on the faceted bottle; (7) the wrap dress lifting a millimetre at the hem; (8) a slow eyelash settle completing a calm blink.
 
-SPATIAL LOGIC: FOREGROUND — a showering petal nearest lens, soft. MIDGROUND — Aira mid-bloom, the blossoms bursting, the hero. BACKGROUND — the blossom branches at full bloom with soft creamy falloff and warm sun bloom.
+SPATIAL LOGIC: FOREGROUND — a swelling blossom bud and the cradled bottle nearest lens, soft. MIDGROUND — Aira in the fresh dewy-glow look, the hero. BACKGROUND — the bright spring grove with pale-pink cherry blossoms and dappled sun, present and airy behind.
 
-LIGHTING: KEY — soft warm dappled sun key now brighter through the bloom. FILL — soft bright bounce below (clamshell). RIM — a bright soft sun rim raking the showering petals and the waves (hero light on the motion). PRACTICAL — the morning sun at full bloom. SEPARATION — the bloom and faint warm haze. BOUNCE — soft warm kicks multiplying across the drifting petals.
+LIGHTING: KEY — soft warm dappled spring-sun key. FILL — soft bright bounce below (clamshell). RIM — a soft sun rim on the waves and shoulder. PRACTICAL — the morning sun through the blossoms. SEPARATION — figure vs the soft blossom bokeh. BOUNCE — soft warm kick off the grove.
 
-FRAMING: ASPECT 9:16; energized medium-wide, Aira centered with the blossom bloom filling the lower frame, 10% headroom, slight push for intimacy.
-SUBJECT FRAMING & POSITION: A energized medium-wide framing opens around Aira with about 10% headroom as the blossom bloom fills the lower frame, a slight push easing in for intimacy. Her spine lengthens and her shoulders open as the weight rolls smooth between the feet in grounded real-physics motion. The camera eases wider against soft pale-pink blossom branches in spring sun, Aira the centred hero at the heart of the bloom. She is centred with the blossom bloom radiating around her. She faces front to the lens, lifted at the peak of the transform. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+FRAMING: ASPECT 9:16; energized medium-wide, Aira centered in the spring grove, 10% headroom — its own distinct cut/angle.
+SUBJECT FRAMING & POSITION: An energized medium-wide framing opens around Aira at about 10% headroom in the bright spring grove, the fresh dewy-glow Look A fully intact as the transform clip begins. Her torso is turned about four degrees with the weight settled over a soft hip counter-tilt, arms beginning to open soft. The camera holds a mid distance on its own fresh angle, a hard cut from Frame 3, with Aira the centred hero and the blossom grove present and airy behind, facing front to the lens. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
-LENS + DOF + BOKEH: 50mm, f/2.0; her face and the nearest showering petals tack sharp at the bloom-core, the closest petal melting into a soft creamy bokeh with warm sun specular blooms.
+LENS + DOF + BOKEH: 50mm, f/2.0; her face and the cradled bottle tack sharp, the blossom branches melting into a soft creamy bokeh with bright petal blooms; gentle highlight roll-off, no clipping.
 
-COMPOSITION REFERENCE: the signature impossible beat — a time-lapse blossom bloom, fresh and joyful, heightened but identity-locked (AT.5 transform logic / identity-through-transform).
+COMPOSITION REFERENCE: the start of the signature beat — fresh dewy-glow Look A, bright and airy, the blossom bloom held for the video's mid-clip.
 
-ATMOSPHERE: fresh, exhilarating, mind-bending — the moment the blossoms burst into full bloom and the petals shower bright around her.
+ATMOSPHERE: fresh, bright, charged — the joyful instant the transform clip begins.
 
 COLOR GRADE: bright fresh spring — soft pastel pinks and whites, clean bright airy light, gentle warm sun, full mid-tone, blacks never crushed (no garish oversaturation, bright fresh lane).
 
-TEXTURE & MICRO-DETAIL: the showering petals read as real translucent blossom with delicate veining and soft fuzz, the bloom reads as real botanical motion, the dress shows a real light weave catching petals, skin reads real with pores beneath the glow.
+TEXTURE & MICRO-DETAIL: the wrap dress shows a real light weave; the blossom buds read as real swelling botanical buds; the faceted bottle reads as real glass; real skin micro-texture with peach-fuzz catching the soft sun rim.
+
+NEGATIVE: mirrored, flipped, inverted, extra limbs, fused fingers, melted features, asymmetric eyes (unintentional), garbled text, floating shadows, duplicated subjects, low-res patches, plastic skin, over-smoothed skin, oversharpened, AI-generated artifacts, watermarks, signature, deformed hands, malformed teeth, joint cuts at ankle/knee/wrist/elbow/neck, amputated fingertips, cross-eyed, lazy eye, off-axis pupils, melted clothing, mismatched footwear, mannequin-stiff posture, dead eyes, statue-frozen energy, garbled label text, crushed blacks, muddy dull shadows, flat overcast light, inventing a new face beneath the blossom bloom.
 
 NEGATIVE: mirrored, flipped, inverted, extra limbs, fused fingers, melted features, asymmetric eyes (unintentional), garbled text, floating shadows, duplicated subjects, low-res patches, plastic skin, over-smoothed skin, oversharpened, AI-generated artifacts, watermarks, signature, deformed hands, malformed teeth, joint cuts at ankle/knee/wrist/elbow/neck, amputated fingertips, cross-eyed, lazy eye, off-axis pupils, melted clothing, mismatched footwear, mannequin-stiff posture, dead eyes, statue-frozen energy, garbled label text, crushed blacks, muddy dull shadows, flat overcast light, inventing a new face beneath the blossom bloom.
 
@@ -1166,9 +1168,9 @@ SHOT TYPE: energized medium-wide of the time-lapse blossom bloom (the hero move)
 LENS: 50mm, f/2.0.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Energized medium-wide: the push is already easing into a smooth gentle orbit as the cherry blossoms burst into full bloom in fast-forward and she opens her arms; gaze lifting into the bloom.
-- [00:02–00:04] The orbit rides the hero beat as a petal-shower sweeps across her and the dress and waves catch drifting petals (face clear, framed by the bloom); eyes widening in joyful awe.
-- [00:04–00:06] The bloom settles and the blossoms resolve as the orbit eases; a radiant fresh smile landing, petals drifting.
+- [00:00–00:02] Cut to an energized medium at a HELD angle (Veo first frame = the fresh dewy-glow Look A still): she opens both arms soft from her body, already in motion — still the fresh dewy-glow look, the buds NOT yet bloomed, a gentle push-with easing in, the angle fixed for the whole clip.
+- [00:02–00:04] The blossom bloom BEGINS here, mid-clip: the cherry blossoms burst into full bloom around her in one continuous time-lapse wave, buds unfurling to full petals across the branches and petals showering down exactly where the bloom passes — believable real botanical time-lapse physics, petals fluttering on true spring air (no cheap sparkles), her face clear and bright, eyes widening in fresh joyful wonder (angle held, identity locked).
+- [00:04–00:06] The bloom completes and the look settles smoothly and fully into the full-blossom radiant after-look of the Veo last-frame still (Frame 5's image) — cherry blossoms in full bloom around her and a fresh dewy radiance on her skin, resolved and held through the final beat, no last-second pop; a fresh joyful calm landing in her eyes.
 
 AUDIO: diegetic-led. Ambient — soft spring breeze and birdsong. SFX — a soft botanical bloom-swell and petal-rush 0.4–2.7s, fine drifting-petal flutter 2.4–4.5s (gentle attack, soft tails), a soft fabric-flare at 3.3s. Reaction — a soft awed breath at 2.7s. The master track lifts to its joyful peak here — a bright acoustic-guitar and glockenspiel swell landed on the bloom (present, still under the SFX, never full). VO — none (the line lands next frame).
 
@@ -1184,7 +1186,7 @@ NEGATIVE: identity drift, face or hand warp, extra or fused fingers, duplicate p
 
 IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
 
-TRANSFORM KEYFRAME NOTE: this is the locked END keyframe of the time-lapse blossom bloom transform; it must resolve continuously out of the START keyframe in Frame 3 — same face, same hands, same camera distance, the blossoms now settled into a full radiant bloom around her. Do NOT invent a new face, new hands or new bone structure beneath the blossom bloom; this is the same Aira, fresh and radiant, never replaced. Frame 3 (START) and Frame 5 (END) are the two anchors of the single transform.
+TRANSFORM KEYFRAME NOTE: this is the full-blossom Look B reveal at its OWN cut/angle (a hard cut from the Frame-4 blossom-bloom clip — a new angle/crop, and the Veo last-frame the bloom resolves into). It carries the resolved full-blossom radiant after-look the Frame-4 clip ends on; the angle change masks any slight variation. Same Aira, fresh and radiant, never replaced — do NOT invent a new face, new hands or new bone structure.
 
 WARDROBE: the soft blush-pink wrap dress at its freshest, the light fabric catching one travelling soft highlight, the modest neckline pristine, fully modest, zero snags, a settled petal or two on the shoulder.
 
@@ -1228,9 +1230,9 @@ SHOT TYPE: medium close, chest-up, subject fills about 56% of the vertical frame
 LENS: 50mm, f/2.0, smooth creamy background fall-off.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Medium close: a slow push is already gliding in as she eases her hands open and the bloom settles, the last petals drifting; gaze bright to lens.
-- [00:02–00:04] She delivers “spring starts with me.” to lens with a bright joyful smile, eyes warm and direct.
-- [00:04–00:06] She holds the radiant fresh look as one final petal settles, the smile easing into happy warmth.
+- [00:00–00:02] Cut to a medium close on a new angle amid the full blossom: she is already in the full-blossom radiant after-look, drifting her right hand soft back toward the faceted bottle at her collarbone with an easy roll of the shoulder, petals showering soft; gaze warm to lens.
+- [00:02–00:04] She delivers “spring starts with me.” to lens with a fresh joyful smile and natural lip-sync, petals drifting through the dappled sun, eyes bright and warm.
+- [00:04–00:06] She holds the fresh radiant spring look, the blossoms full around her, eyes bright and direct.
 
 AUDIO: diegetic plus the spoken line. SPOKEN LINE (lip-sync) — Aira says "spring starts with me." from 1.5–3.9s in English with a natural Indian accent, bright warm tone, mouth shapes matched exactly. Ambient — soft spring breeze and gentle birdsong throughout. SFX — a delicate settling-petal flutter at 0.9s, a faint fabric shift at 1.4s (kept clear of the VO). The master track ducks gently under the line and holds its warmth low.
 
@@ -1290,9 +1292,9 @@ SHOT TYPE: medium close, chest-up, subject fills about 55% of the vertical frame
 LENS: 50mm, f/2.0, smooth creamy background fall-off.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Medium close matching Frame 1: a slow push is already resolving toward the exact opening framing as she re-cradles the bottle and tilts it into the morning sun, speculars sliding along the glass; gaze lowering to the bottle.
-- [00:02–00:04] The push settles as she eases her bright gaze back to lens on a soft breath with the composed quarter-smile, the grove resolving to the opening; eyes calming.
-- [00:04–00:06] She lands precisely on the Frame 1 pose and gaze, a petal drifting past — a seamless loop seam.
+- [00:00–00:02] Cut to a medium-close chest-up matched to Frame 1: she returns her right hand to cradle the faceted bottle soft at her collarbone and her left easy near her jaw exactly as in Frame 1 as the camera settles to the opening framing.
+- [00:02–00:04] She eases her bright gaze back to lens on a slow spring breath with the composed joyful quarter-smile, the full-blossom radiance resolving back toward the opening dewy-glow look to seed the loop.
+- [00:04–00:06] She lands precisely on the Frame 1 pose and gaze, fresh and joyful in the spring sun — a seamless loop seam.
 
 AUDIO: diegetic only, no VO. Ambient — soft spring breeze and gentle birdsong throughout. SFX — a soft glass-tap at 0.6s as her fingers settle on the bottle (gentle attack, short tail), a faint fabric shift at 3.2s, a light petal-flutter at 4.5s timed to the gaze-lift. The master track resolves softly here so it can loop clean.
 

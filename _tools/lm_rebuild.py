@@ -1895,6 +1895,82 @@ BEATSLM[32] = [
 ]
 
 
+BEATSLM[33] = [
+    # F1 - fresh dewy-glow spring hero (contained, product-at-face), push-in
+    (
+        "Cut to a medium-close chest-up in the bright spring grove: she is already cradling the "
+        "faceted bottle soft at her collarbone as a slow push eases in, soft pale-pink cherry "
+        "blossoms and dappled morning sun behind her, a few petals drifting; her left hand easy "
+        "near her jaw.",
+        "The push settles as a face-framing strand lifts in the spring breeze and her bright "
+        "gaze eases to lens, petals drifting through the dappled light, a fresh joyful "
+        "quarter-smile settling.",
+        "She holds the fresh dewy-glow look in the soft blush-pink wrap dress, eyes bright and "
+        "warm in the spring sun (the line lands later).",
+    ),
+    # F2 - build, blush drop, first buds swelling; rack-focus product->eye
+    (
+        "Cut to a medium-close three-quarter, a rack-focus pulling from the bottle to her eye: "
+        "she is already releasing a soft blush drop near her cheekbone and the first blossom "
+        "buds swell on the branches; gaze cast soft to the drop.",
+        "The blush drop beads dewy on her cheekbone as her gaze warms with quiet joy and a fresh "
+        "micro-smile kindles, buds swelling in around her.",
+        "She holds the drop poised near her cheek, eyes bright and fresh, the dewy-glow look "
+        "intact (silent here).",
+    ),
+    # F3 - START clean (buds swelling, NO bloom yet), slow arc
+    (
+        "Cut to a medium chest-up on a fresh three-quarter angle: she eases her hand down and "
+        "opens it soft toward the swelling buds, drawing a slow spring breath as the camera "
+        "arcs a few degrees and the blossom grove swings behind with parallax; gaze lifting.",
+        "The arc settles as her gaze lifts to lens with rising fresh joy and a knowing "
+        "micro-smile forms, blossom buds swelling and the first petals unfurling, still the "
+        "fresh dewy-glow look.",
+        "She holds the poised spring beat, buds swelling at her shoulder, eyes bright and joyful "
+        "\u2014 the hush before the blossom bloom (silent here).",
+    ),
+    # F4 - THE TRANSFORM, HELD ANGLE, smooth mid-clip time-lapse bloom; first=dewy-glow, last=full-blossom
+    (
+        "Cut to an energized medium at a HELD angle (Veo first frame = the fresh dewy-glow Look "
+        "A still): she opens both arms soft from her body, already in motion \u2014 still the "
+        "fresh dewy-glow look, the buds NOT yet bloomed, a gentle push-with easing in, the angle "
+        "fixed for the whole clip.",
+        "The blossom bloom BEGINS here, mid-clip: the cherry blossoms burst into full bloom "
+        "around her in one continuous time-lapse wave, buds unfurling to full petals across the "
+        "branches and petals showering down exactly where the bloom passes \u2014 believable "
+        "real botanical time-lapse physics, petals fluttering on true spring air (no cheap "
+        "sparkles), her face clear and bright, eyes widening in fresh joyful wonder (angle held, "
+        "identity locked).",
+        "The bloom completes and the look settles smoothly and fully into the full-blossom "
+        "radiant after-look of the Veo last-frame still (Frame 5's image) \u2014 cherry blossoms "
+        "in full bloom around her and a fresh dewy radiance on her skin, resolved and held "
+        "through the final beat, no last-second pop; a fresh joyful calm landing in her eyes.",
+    ),
+    # F5 - END full-blossom reveal, hand to bottle, spoken line
+    (
+        "Cut to a medium close on a new angle amid the full blossom: she is already in the "
+        "full-blossom radiant after-look, drifting her right hand soft back toward the faceted "
+        "bottle at her collarbone with an easy roll of the shoulder, petals showering soft; "
+        "gaze warm to lens.",
+        "She delivers \u201cspring starts with me.\u201d to lens with a fresh joyful smile and "
+        "natural lip-sync, petals drifting through the dappled sun, eyes bright and warm.",
+        "She holds the fresh radiant spring look, the blossoms full around her, eyes bright and "
+        "direct.",
+    ),
+    # F6 - loop close, cradle bottle matched to F1
+    (
+        "Cut to a medium-close chest-up matched to Frame 1: she returns her right hand to cradle "
+        "the faceted bottle soft at her collarbone and her left easy near her jaw exactly as in "
+        "Frame 1 as the camera settles to the opening framing.",
+        "She eases her bright gaze back to lens on a slow spring breath with the composed joyful "
+        "quarter-smile, the full-blossom radiance resolving back toward the opening dewy-glow "
+        "look to seed the loop.",
+        "She lands precisely on the Frame 1 pose and gaze, fresh and joyful in the spring sun "
+        "\u2014 a seamless loop seam.",
+    ),
+]
+
+
 def build_block(beats):
     return (
         BREAKDOWN_HEADER + "\n"
