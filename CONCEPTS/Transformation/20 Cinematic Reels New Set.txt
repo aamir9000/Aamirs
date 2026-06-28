@@ -6517,7 +6517,7 @@ Hair: a sleek base that restyles per decade (soft wave → high pony → clipped
 
 Makeup: clean glow that re-tints per decade (warm bronze → bold magenta-lid → matte neutral), satin skin, real pores.
 
-Hero Movement / Impossible Move: decade glitch-shift — each button-press glitches her look and the arcade palette into a new decade.
+Hero Movement / Impossible Move: decade glitch-shift — each button-press glitches her look and the arcade palette into a new decade as a clean scanline-wipe, CONTAINED mid-clip at a held angle (no instant snap). Chain: F3 70s→80s, F4 80s→90s. Each transform frame's image is the clean RESOLVED decade look its clip settles into (Veo last frame), the glitch opening on the previous decade; every frame join is a hard match-cut to a new angle; the neon arcade palette stays rich but balanced against the dark arcade (controlled vibrancy).
 
 Mood: PLAYFUL-RETRO, energetic, cool.
 
@@ -6687,44 +6687,44 @@ LOOP LOGIC: the press seeds the decade-shift cycle the loop resolves.
 
 ## Frame 3 of 6 — IMAGE PROMPT (TRANSFORM — SHIFT 1: 70s→80s)
 
-ANGLE & SHOT SIZE: profile (full side pose) MEDIUM, Aira mid-glitch as her 70s look shifts to the 80s power-blazer, the arcade re-tinting magenta-cyan, scanline glitch across her body.
+ANGLE & SHOT SIZE: profile (full side pose) MEDIUM, Aira fully in the 80s power-blazer look, the arcade lit magenta-cyan around her — the clean resolved 80s reveal the clip settles into, the glitch done.
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this still is the clean RESOLVED 80s look the Frame-3 clip settles into (Veo's LAST frame); the 70s→80s glitch-shift happens MID-CLIP inside the Frame-3 video at a HELD angle, opening on the 70s look and resolving here — do NOT depict a half-glitched look in this still. Match-cut from Frame 2. Her face and proportions stay constant; do NOT invent a new face, new hands or new bone structure.
 
-WARDROBE: mid-shift — the 70s jumpsuit glitching into the 80s structured power-blazer-and-trousers, modest, scanline-wipe crossing her body in profile.
+WARDROBE: the 80s structured power-blazer-and-trousers at its best, modest, fully resolved (the glitch is done).
 
-FOOTWEAR: platform sneaker glitching to hi-top.
+FOOTWEAR: 80s hi-top.
 
-EYEWEAR: visor-glasses restyling to 80s-tint, a magenta glint.
+EYEWEAR: 80s-tint visor-glasses, a magenta glint.
 
-ACCESSORIES: sweatband glitching to a chunky watch, hoops to bold studs.
+ACCESSORIES: a chunky 80s watch, bold studs.
 
-HAIR: the 70s wave restyling to a high 80s pony in the glitch.
+HAIR: a high 80s pony, glossy.
 
-MAKEUP: warm bronze shifting to a bold magenta lid, satin skin.
+MAKEUP: a bold magenta lid, satin skin; real pores and fine vellus texture.
 
-HANDS & NAILS: one hand still near the button, the other lifting in reaction; warm-nude nails shifting bold.
+HANDS & NAILS: one hand easing back from the button, the other relaxed at her side; bold-nude nails, neat cuticles.
 
-FACIAL MICRO-DYNAMICS: a delighted grin forming in profile, a small gasp, eyes bright, cheeks lifting.
+FACIAL MICRO-DYNAMICS: a delighted grin in profile, a small bright breath, eyes bright, cheeks lifting — fully recognizable, identity-locked.
 
-BODY POSTURE & WEIGHT: upright in profile, torso lifting with the surprise, weight even — lively and reactive, never stiff.
+BODY POSTURE & WEIGHT: upright in profile, torso lifted with the delight, weight even — lively and reactive, never stiff.
 
-KINETIC STILLNESS (8 layers): (1) the scanline-glitch wiping up her body; (2) the arcade re-tinting magenta-cyan; (3) hair restyling mid-glitch; (4) a strand lifting; (5) chest breathing; (6) the watch settling; (7) CRT scanlines crawling; (8) lashes flaring.
+KINETIC STILLNESS (8 layers): (1) the resolved 80s look settled crisp; (2) the arcade glowing magenta-cyan; (3) a high-pony strand lifting; (4) CRT scanlines crawling ambient behind; (5) chest breathing; (6) the chunky watch catching a glint; (7) cabinet lights pulsing; (8) lashes flaring on the grin.
 
-SPATIAL LOGIC: FOREGROUND — the glitching cuff, sharp. MIDGROUND — Aira in profile. BACKGROUND — the arcade re-tinting magenta-cyan, soft.
+SPATIAL LOGIC: FOREGROUND — the chunky watch on her wrist, sharp. MIDGROUND — Aira in profile in the 80s look, the hero. BACKGROUND — the arcade aisle glowing magenta-cyan, cabinets and CRTs present and deep.
 
 LIGHTING: KEY — magenta cabinet glow. FILL — cyan ambient. RIM — cyan edge down the profile. PRACTICAL — cabinets, CRTs. SEPARATION — lit profile vs neon depth. BOUNCE — floor neon kick.
 
-LENS + DOF + BOKEH: 50mm, f/2.2; focus on her near eye; arcade as magenta-cyan bokeh.
+LENS + DOF + BOKEH: 50mm, f/2.2; focus on her near eye; the arcade as magenta-cyan bokeh, cabinets clearly present behind.
 
-COMPOSITION: 9:16, strong profile line, the glitch-wipe as a vertical, neon framing.
-SUBJECT FRAMING & POSITION: A medium in clean full profile, Aira mid-glitch as her 70s look shifts to the 80s power-blazer, the arcade re-tinting magenta-cyan with scanlines. The body reads as a profile line from roughly the waist up, upright with the torso lifting in surprise, weight even. Camera at mid distance, edge-on. She is in profile, reactive, not facing the lens. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+COMPOSITION: 9:16, strong profile line, the neon arcade framing her, headroom above.
+SUBJECT FRAMING & POSITION: A medium in clean full profile, Aira fully in the resolved 80s power-blazer look, the arcade magenta-cyan behind — the clean still the Frame-3 clip settles into. The body reads as a profile line from roughly the waist up, upright with the torso lifted in delight, weight even. Camera at mid distance, edge-on, the arcade present behind. She is in profile, not facing the lens. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
-ATMOSPHERE: the joyful first decade-jump.
+ATMOSPHERE: the joyful first decade-jump, landed.
 
-COLOUR GRADE: vivid neon-arcade mid-shift amber→magenta-cyan, glossy speculars.
+COLOUR GRADE: neon-arcade magenta-cyan balanced against the dark arcade (the neon ceiling — rich, never garish), glossy speculars, full mid-tone.
 
-TEXTURE & MICRO-DETAIL: fabric glitch-morph, scanline texture, real skin in profile, watch facets.
+TEXTURE & MICRO-DETAIL: 80s blazer weave, ambient CRT scanline texture behind, real skin in profile, watch facets.
 
 NEGATIVE: (as Frame 1) plus identity drift across the glitch, melted features, broken scanline geometry.
 
@@ -6737,9 +6737,9 @@ SHOT TYPE & ANGLE: profile medium, subject fills ~55%.
 LENS: 50mm, f/2.2.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Profile medium: the glitch is already triggering as a slow arc swings from profile toward three-quarter, a scanline ripple breaking across her body; gaze flicking down at herself.
-- [00:02–00:04] The scanline-wipe shifts her 70s jumpsuit to the 80s power-blazer and re-tints the arcade magenta-cyan; eyes widening with playful surprise.
-- [00:04–00:06] She reacts with a delighted grin, checking the new look, cheeks lifting in bright amusement.
+- [00:00–00:02] Cut to a clean profile medium at a HELD angle: already in motion, a gentle push-with easing in as she eases her hand back from the just-pressed button — still in the 70s jumpsuit, the arcade still amber, a scanline ripple just beginning; gaze flicking down at herself.
+- [00:02–00:04] The glitch-shift BEGINS here, mid-clip: a scanline-wipe sweeps smoothly up her body, shifting the 70s jumpsuit to the 80s power-blazer and re-tinting the arcade magenta-cyan exactly where it passes — a clean digital wipe, never an instant snap, the angle held; eyes widening with playful surprise.
+- [00:04–00:06] The wipe completes and settles into the clean resolved 80s look (this frame's still = Veo last frame), she reacting with a delighted grin checking the new look, the arcade glowing magenta-cyan.
 
 FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
@@ -6751,7 +6751,7 @@ FABRIC/HAIR/PROP PHYSICS: the look glitch-morphs as a scanline-wipe; hair restyl
 
 FOOTWORK & BODY FLOW: a tiny excited weight-bounce as the hi-top forms.
 
-TRANSITION / IMPOSSIBLE MOVE: hero shift #1 — press glitches her 70s→80s and re-tints the arcade magenta-cyan.
+TRANSITION / IMPOSSIBLE MOVE: hero shift #1, contained mid-clip at a held angle — the button-press glitches her 70s→80s as a clean scanline-wipe and re-tints the arcade magenta-cyan; opens on the 70s, settles into this frame's clean 80s reveal (Veo last frame); the join from Frame 2 is a hard match-cut to this profile angle.
 
 LIGHTING-IN-MOTION: amber cross-fades to magenta-cyan; scanlines wipe with the glitch.
 
@@ -6763,44 +6763,44 @@ LOOP LOGIC: the shift rhythm establishes the cadence the loop resolves.
 
 ## Frame 4 of 6 — IMAGE PROMPT (TRANSFORM — SHIFT 2: 80s→90s)
 
-ANGLE & SHOT SIZE: low-angle CLOSE-UP on her face and shoulder as the 80s look glitches to the 90s denim-and-turtleneck, the arcade re-tinting grunge-green.
+ANGLE & SHOT SIZE: low-angle CLOSE-UP on her face and shoulder, fully in the 90s denim-and-turtleneck look, the arcade lit grunge-green — the clean resolved 90s reveal the clip settles into, the glitch done.
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this still is the clean RESOLVED 90s look the Frame-4 clip settles into (Veo's LAST frame); the 80s→90s glitch-shift happens MID-CLIP inside the Frame-4 video at a HELD low angle, opening on the 80s look and resolving here — do NOT depict a half-glitched look. Match-cut from Frame 3. Her face and proportions stay constant; do NOT invent a new face, new hands or new bone structure.
 
-WARDROBE: 80s blazer glitching to the 90s denim-and-turtleneck collar, modest high neckline forming.
+WARDROBE: the 90s denim-and-turtleneck at its best, modest high neckline, fully resolved (the glitch is done).
 
-FOOTWEAR: out of frame (hi-top glitching to chunky trainer below).
+FOOTWEAR: out of frame (chunky 90s trainer below).
 
-EYEWEAR: 80s-tint glitching to small 90s-tint, or none.
+EYEWEAR: small 90s-tint, or none.
 
-ACCESSORIES: bold studs glitching to small hoops, watch shifting.
+ACCESSORIES: small hoops, a slim watch.
 
-HAIR: high pony restyling to a clipped 90s half-up.
+HAIR: a clipped 90s half-up.
 
-MAKEUP: magenta lid shifting to a matte 90s neutral, satin skin.
+MAKEUP: a matte 90s neutral, satin skin; real pores and fine vellus texture.
 
-HANDS & NAILS: fingertips near her jaw (articulate), nails shifting to a 90s muted tone.
+HANDS & NAILS: fingertips easy near her jaw (articulate); muted 90s-tone nails, neat cuticles.
 
-FACIAL MICRO-DYNAMICS: a playful confident smirk forming, one brow arched, eyes sparkling, a slow delighted blink.
+FACIAL MICRO-DYNAMICS: a playful confident smirk, one brow arched, eyes sparkling, a slow delighted blink — fully recognizable, identity-locked.
 
-BODY POSTURE & WEIGHT: chin lifting from the low angle, shoulders rolling back with growing confidence — powerful and fluid.
+BODY POSTURE & WEIGHT: chin lifted from the low angle, shoulders settled back with confidence — powerful and fluid.
 
-KINETIC STILLNESS (8 layers): (1) the green glitch sweeping the collar; (2) arcade re-tinting grunge-green; (3) hair restyling; (4) a strand lifting; (5) chest breathing; (6) hoops settling; (7) CRT scanlines crawling; (8) lashes lowering on the smirk.
+KINETIC STILLNESS (8 layers): (1) the resolved 90s look settled; (2) the arcade glowing grunge-green; (3) a half-up strand lifting; (4) CRT scanlines crawling ambient; (5) chest breathing; (6) hoops settling; (7) cabinet lights pulsing; (8) lashes lowering on the smirk.
 
-SPATIAL LOGIC: FOREGROUND — her jaw and fingertips, tack sharp. MIDGROUND — her face and shoulder. BACKGROUND — the arcade re-tinting green, soft.
+SPATIAL LOGIC: FOREGROUND — her jaw and fingertips, tack sharp. MIDGROUND — her face and shoulder in the 90s look. BACKGROUND — the arcade glowing grunge-green, cabinets present and deep.
 
 LIGHTING: KEY — green cabinet glow. FILL — amber ambient. RIM — green edge on the jaw and hair. PRACTICAL — cabinets, CRTs. SEPARATION — lit face vs green depth. BOUNCE — neon underglow.
 
-LENS + DOF + BOKEH: 50mm, f/1.8; focus on the near eye; background green bokeh.
+LENS + DOF + BOKEH: 50mm, f/1.8; focus on the near eye; the green arcade as bokeh, cabinets present behind.
 
 COMPOSITION: 9:16, face on the upper third from the low angle, empowering framing.
-SUBJECT FRAMING & POSITION: A low-angle close-up on her face and shoulder as the 80s look glitches to 90s denim-and-turtleneck, the arcade re-tinting grunge-green. The body reads as face-and-shoulder only, the face on the upper third from the low angle, chin lifting, shoulders rolling back with growing confidence. Camera near and looking up. An empowering, near-frontal close framing. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A low-angle close-up on her face and shoulder, fully in the resolved 90s denim-and-turtleneck look, the arcade grunge-green behind — the clean still the Frame-4 clip settles into. The body reads as face-and-shoulder, the face on the upper third from the low angle, chin lifted, shoulders settled. Camera near and looking up, the arcade present behind. An empowering, near-frontal close framing. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
-ATMOSPHERE: growing playful confidence, the decades stacking.
+ATMOSPHERE: growing playful confidence, the decades stacked.
 
-COLOUR GRADE: vivid neon-arcade mid-shift magenta-cyan→green, glossy speculars.
+COLOUR GRADE: neon-arcade grunge-green balanced against the dark arcade (the neon ceiling — rich, never garish), glossy speculars.
 
-TEXTURE & MICRO-DETAIL: denim glitch-morph, scanline texture, real skin pores, hoop metal.
+TEXTURE & MICRO-DETAIL: 90s denim weave, ambient scanline texture, real skin pores, hoop metal.
 
 NEGATIVE: (as Frame 1) plus identity drift, melted features, asymmetric eyes.
 
@@ -6813,9 +6813,9 @@ SHOT TYPE & ANGLE: low-angle close-up, subject fills ~60%.
 LENS: 50mm, f/1.8.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Low-angle close-up on her face and shoulder: the second press glitches as a smooth crane begins to rise from below toward eye-level; gaze catching the green flicker.
-- [00:02–00:04] The grunge-green glitch sweeps up her body and the arcade re-tints as the crane lifts; eyes following the colour, lips curving.
-- [00:04–00:06] At eye-level a confident playful smirk lands with a slow, delighted blink.
+- [00:00–00:02] Cut to a low-angle close-up at a HELD low angle: already in motion, a gentle push-with easing in as the second press registers — still in the 80s look, the arcade still magenta-cyan, a green scanline flicker just beginning; gaze catching it.
+- [00:02–00:04] The glitch-shift BEGINS here, mid-clip: a grunge-green scanline-wipe sweeps smoothly up her collar and shoulder, shifting the 80s look to the 90s denim-and-turtleneck and re-tinting the arcade green exactly where it passes — a clean digital wipe, never a snap, the low angle held; eyes following the colour, lips curving.
+- [00:04–00:06] The wipe completes and settles into the clean resolved 90s look (this frame's still = Veo last frame), a confident playful smirk landing with a slow delighted blink, the arcade glowing green.
 
 FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
@@ -6827,7 +6827,7 @@ FABRIC/HAIR/PROP PHYSICS: collar glitch-morphs; hair restyles fluidly; hoops swi
 
 FOOTWORK & BODY FLOW: weight grounding taller as the look completes (below frame).
 
-TRANSITION / IMPOSSIBLE MOVE: hero shift #2 — glitches her 80s→90s and re-tints the arcade green.
+TRANSITION / IMPOSSIBLE MOVE: hero shift #2, contained mid-clip at a held low angle (camera push-with, never an angle rotation) — the press glitches her 80s→90s as a clean scanline-wipe and re-tints the arcade green; opens on the 80s, settles into this frame's clean 90s reveal (Veo last frame); the join from Frame 3 is a hard match-cut to this low angle.
 
 LIGHTING-IN-MOTION: magenta-cyan shifts toward green; scanlines wipe with the glitch.
 
