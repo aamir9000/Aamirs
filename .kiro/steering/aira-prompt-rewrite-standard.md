@@ -778,6 +778,31 @@ transformation concepts/files; THEN do this full-body pose/motion pass (M.6-M.8)
 Exceptions stay contained: GRWM (11-13), identical-pose premise (02 Six Cities), beauty-still (14);
 fragrance (06,07) gentle motion.
 
+### M.9 — EXPLICIT PER-LIMB ARTICULATION (name EVERY body part, every frame) [decided with user]
+The full-body pass is not satisfied by a vague "dynamic pose" line. For every non-exception frame,
+EXPLICITLY describe the POSITION of each body part, named separately, in BOTH the image prompt (the
+held still pose) and the video SHOT BREAKDOWN beats (how each part moves) — a DIFFERENT combination
+each frame so no two repeat:
+  • GAZE / EYES — direction + focus (to lens / cast down / over-shoulder / tracing object).
+  • HEAD & NECK — tilt / turn / chin lift or tuck / cant (degrees or clear direction).
+  • SHOULDERS — each shoulder's position (one forward/back, rolled, dropped, blade draw).
+  • RIGHT ARM → RIGHT HAND → RIGHT FINGERS — where the arm is, what the hand does, finger shape.
+  • LEFT ARM → LEFT HAND → LEFT FINGERS — same, named separately from the right.
+  • TORSO — rotation / lean / ribcage lift / spiral relative to hips.
+  • WAIST & HIPS — sway / pop / counter-tilt / contrapposto (which hip is high/forward).
+  • RIGHT LEG and LEFT LEG — named separately: which is weight-bearing vs free, bent/straight,
+    forward/back, crossed, mid-step.
+  • FEET & WEIGHT — stance, weight distribution, heel-lift / toe-point / pivot / mid-stride.
+  • HAIR & FABRIC — how they respond to the pose/motion.
+IMPLEMENTATION: expand the image `BODY POSTURE & WEIGHT`, `HANDS & NAILS` and `SUBJECT FRAMING &
+POSITION` fields so each of the above is named (left vs right explicitly, fingers explicitly); and
+write each part's motion into the video beats. Real-time natural motion; identity-safe (FACE = eyes/
+gaze/head/soft-expression only, never warped); energy matched to the concept. Exceptions per M.6 stay
+contained (GRWM / identical-pose premise / beauty-still; fragrance = gentle). The FINAL VERIFICATION
+full-body check now also requires: each non-exception frame names right leg, left leg, right hand,
+left hand, fingers, waist/hips, torso, shoulders, head/neck tilt and gaze distinctly, and the
+combination differs frame to frame.
+
 
 
 ====================================================================
