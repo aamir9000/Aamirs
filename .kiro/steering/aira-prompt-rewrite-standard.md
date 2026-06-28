@@ -869,13 +869,23 @@ in that file."
 
 >>> SNAPSHOT (update these markers as you go — they are the source of truth for resume):
 - PASS 1 DONE files: Master-Depth Build 01-20 (whole file); Cinematic New Set 01-20 (whole file).
-- PASS 1 IN PROGRESS: More Full Reel Set 3 — concepts 31-46 DONE+pushed; NEXT = concept 47
+- PASS 1 IN PROGRESS: More Full Reel Set 3 — COMPLETE (31-50, whole file on L+M: 128 SHOT BREAKDOWN ==
+  128 VIDEO PROMPT, 0 old-model residue; concepts 39/40/43/44/45/46/47/48/49/50 are VFX/environmental
+  transforms handled as "world/effect-fractures-not-her-look" with the single-face guard; 31-38 are
+  true beauty-bloom/gilding morphs). NEXT FILE = Set 4 (51-70).
   (continue to 50). Method + per-concept handling notes are in the ">>> CINEMATIC NEW SET" /
   ">>> NEXT FILE: ...Set 3" notes below and in section J.
 - PASS 1 NOT STARTED: Set 4 (51-70), Set 5 (71-79) + 4 continuations, Concepts 91-110; then the
   non-transformation folders (Surreal 131-150, Action, Time-Freeze, Travel-Scenic aira_set4/5,
   Product 100, Action 170) — those get lean-strip + section-K believability + L+M only where a real
   A->B / mid-clip change exists.
+  NOTE on Set 4-onward method: those files were section-B rebuilt + lean-stripped earlier but NOT yet on
+  the L+M mid-clip model. Per the ">>> NEXT FILE" notes below they already carry rich angle/background
+  variety and NO Master-Depth "locked START/END / suspended build" image residue, so a SURGICAL
+  per-concept method applies (only the transform frame(s) need the Movement-line + F4-image-flip +
+  transform-beat edits, mostly by hand). lm_rebuild BEATSLM is keyed by concept number and COLLIDES with
+  these files' 1-20 / 51-84 numbering, so do NOT blindly reuse it there. For Set 3 the engine was safe
+  (31-50, no collision) and that is how 31-50 were rebuilt.
 - The two Magical Action files are ALREADY-COMPLIANT (do NOT rebuild/template — see section I/J).
 - PASS 2 + FINAL VERIFICATION: not started (run only after ALL of PASS 1).
 - Engines: _tools/lm_rebuild.py (BEATSLM keyed by concept number; currently holds 1-20 + 31-33;
