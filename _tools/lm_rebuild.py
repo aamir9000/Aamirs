@@ -2631,6 +2631,86 @@ BEATSLM[41] = [
 ]
 
 
+BEATSLM[42] = [
+    # F1 - warm molten-glow hero (contained, product-at-face), push-in
+    (
+        "Cut to a medium-close chest-up in the warm glassblowing studio: she is already cradling "
+        "the hand-blown amber-glass Molten bottle at her collarbone as a slow push eases in, the "
+        "deep furnace glow and molten-amber ember light behind her, glowing glass on the bench; "
+        "her left hand easy near her jaw.",
+        "The push settles as a face-framing strand catches the warm key and her warm gaze eases "
+        "to lens, ember light drifting, a quietly assured quarter-smile settling.",
+        "She holds the warm molten-glow look in the sculptural bronze-satin top, the satin "
+        "catching one molten-amber glint, eyes warm and direct (the line lands later).",
+    ),
+    # F2 - build, serum glide, first molten orb; rack-focus product->eye
+    (
+        "Cut to a medium-close three-quarter, a rack-focus pulling from the bottle to her eye: "
+        "she is already gliding the liquid-glass serum soft along her cheekbone and a glowing "
+        "molten-glass orb begins to gather on the blowpipe beside her; gaze cast soft to the "
+        "bottle.",
+        "The serum catches a warm molten sheen on her cheekbone as her gaze warms with assured "
+        "focus and a knowing micro-smile kindles, the molten orb glowing brighter beside her.",
+        "She holds the dropper poised near her cheek, eyes warm and assured, the molten-glow "
+        "look intact (silent here).",
+    ),
+    # F3 - START clean (orb gathering, NO formed artwork yet), slow arc
+    (
+        "Cut to a medium chest-up on a fresh three-quarter angle: she eases the dropper down and "
+        "opens her hand soft toward the gathering molten-glass orb beside her, drawing a slow "
+        "warm breath as the camera arcs a few degrees and the workshop swings behind with "
+        "parallax; gaze lifting.",
+        "The arc settles as her gaze lifts to lens with rising warm assurance and a knowing "
+        "micro-smile forms, the glowing molten-glass orb gathering and beginning to flow beside "
+        "her, her single face clear and unglassed, still the molten-glow look.",
+        "She holds the poised artisanal beat, the molten orb glowing soft beside her, eyes warm "
+        "and bright \u2014 the hush before the glass forms (silent here).",
+    ),
+    # F4 - THE TRANSFORM, HELD ANGLE, smooth mid-clip glass-form (beside her, NOT her face); first=molten-glow, last=clear-glass-artwork
+    (
+        "Cut to an energized medium at a HELD angle (Veo first frame = the warm molten-glow Look "
+        "A still): she holds her molten-glow look, already in motion \u2014 the molten-glass orb "
+        "still just glowing beside her, NO formed artwork yet, a gentle push-with easing in, the "
+        "angle fixed for the whole clip.",
+        "The glass-form BEGINS here, mid-clip: the glowing molten-glass form flows and sculpts "
+        "then cools into a clear glass artwork in graceful arcs beside her in one continuous "
+        "shaping motion, the molten amber stretching and setting clear exactly where it flows "
+        "\u2014 believable real glassblowing physics (true molten-glass viscosity, gather and "
+        "stretch, thermal cool from amber-glow to clear with real optical refraction, no cheap "
+        "sparkles), her single face clear and locked (NEVER glassed over, replaced or "
+        "duplicated), eyes warming in assured wonder (angle held, identity locked).",
+        "The form completes and the look settles smoothly and fully into the cooled "
+        "clear-glass-artwork after-look of the Veo last-frame still (Frame 5's image) \u2014 a "
+        "finished clear glass artwork set beside her single locked face in the warm workshop "
+        "glow, resolved and held through the final beat, no last-second pop; a warm assured calm "
+        "landing in her eyes.",
+    ),
+    # F5 - END clear-glass-artwork reveal, hand to bottle, spoken line
+    (
+        "Cut to a medium close on a new angle in the warm workshop glow: she is already beside "
+        "the cooled clear-glass artwork, easing her right hand back toward the amber-glass "
+        "bottle at her collarbone with an easy roll of the shoulder, her single face clear and "
+        "unglassed; gaze warm to lens.",
+        "She delivers \u201cshaped by fire, made to last.\u201d to lens with a quietly assured "
+        "smile and natural lip-sync, the clear glass catching a warm ember glint, eyes warm and "
+        "assured.",
+        "She holds the warm artisanal look, the glass artwork beside her and the bottle cradled "
+        "soft, eyes warm and direct.",
+    ),
+    # F6 - loop close, cradle bottle matched to F1
+    (
+        "Cut to a medium-close chest-up matched to Frame 1: she returns her right hand to cradle "
+        "the hand-blown amber-glass bottle soft at her collarbone and her left easy near her jaw "
+        "exactly as in Frame 1 as the camera settles to the opening framing.",
+        "She eases her warm gaze back to lens on a slow breath with the composed assured "
+        "quarter-smile, the cooled glass artwork resolving back toward the opening molten-glow "
+        "look and ember glow to seed the loop.",
+        "She lands precisely on the Frame 1 pose and gaze, warm and assured in the workshop glow "
+        "\u2014 a seamless loop seam.",
+    ),
+]
+
+
 def build_block(beats):
     return (
         BREAKDOWN_HEADER + "\n"
