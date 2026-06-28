@@ -21,7 +21,7 @@ Per concept:
 Idempotent. Usage: python3 _tools/secB_lm.py "<path>" <concept_number> [conceptHeaderRegex]
 The optional 3rd arg overrides the concept-header pattern (default '# CONCEPT N').
 """
-import re, sys
+import re, sys, os
 path = sys.argv[1]; N = int(sys.argv[2])
 hdr_pat = sys.argv[3] if len(sys.argv) > 3 else rf"# CONCEPT {N}\b"
 text = open(path, encoding="utf-8").read()
@@ -40,7 +40,7 @@ if "## Frame 1 of" not in region:
 if "SHOT BREAKDOWN (timed" in region and "SUBJECT ACTION WITH TIMING" not in region:
     print(f"CONCEPT {N}: already section-B (skipped)"); sys.exit(0)
 
-BRK_HDR = ("SHOT BREAKDOWN (timed, 6s \u00b7 real-time, continuous energetic motion \u2014 never "
+BRK_HDR = os.environ.get("SECB_HDR") or ("SHOT BREAKDOWN (timed, 6s \u00b7 real-time, continuous energetic motion \u2014 never "
            "slow-motion, never a static hold; expression eye-led and identity-safe):")
 FR_STD = ("FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), "
           "180\u00b0 shutter, natural motion blur.")
