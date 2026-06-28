@@ -3126,6 +3126,95 @@ BEATSLM[47] = [
 ]
 
 
+BEATSLM[48] = [
+    # F1 - tender-nostalgic firefly-glow hero (contained, product-at-face), push-in
+    (
+        "Cut to a medium-close chest-up in the summer-dusk meadow: she is already cradling the "
+        "amber-glass Firefly dropper bottle at her collarbone as a slow push eases in, the tall "
+        "soft grasses and deep dusky blue-green field behind her, warm golden fireflies "
+        "drifting; her left hand easy near her jaw.",
+        "The push settles as a face-framing strand eases in the warm dusk air and her warm gaze "
+        "eases to lens, a firefly drifting past, a tender wistful quarter-smile settling.",
+        "She holds the tender-nostalgic look in the buttercream chunky knit, the knit catching "
+        "one soft golden highlight, eyes warm and tender (the line lands later).",
+    ),
+    # F2 - build, glow-oil glide, first fireflies; rack-focus product->eye
+    (
+        "Cut to a medium-close three-quarter, a rack-focus pulling from the bottle to her eye: "
+        "she is already gliding the warm glow oil soft along her cheekbone and the first warm "
+        "golden fireflies drift in close around her; gaze cast soft to the bottle.",
+        "The glow oil catches a warm honey sheen on her cheekbone as her gaze warms with tender "
+        "wonder and a soft micro-smile kindles, more fireflies drifting in.",
+        "She holds the dropper poised near her cheek, eyes warm and tender, the firefly-glow "
+        "look intact (silent here).",
+    ),
+    # F3 - START clean (fireflies gathering, NO full swarm yet), slow arc
+    (
+        "Cut to a medium chest-up on a fresh three-quarter angle: she eases the dropper down and "
+        "opens her hand soft as the first fireflies drift in and gather, drawing a slow warm "
+        "breath as the camera arcs a few degrees and the dusky meadow swings behind with "
+        "parallax; gaze lifting.",
+        "The arc settles as her gaze lifts to lens with rising tender wonder and a knowing "
+        "micro-smile forms, warm golden fireflies beginning to gather into a soft glowing swarm "
+        "around her, her single face clear and unfirefly-covered, still the firefly-glow look.",
+        "She holds the poised tender beat, the fireflies gathering soft around her, eyes warm "
+        "and bright \u2014 the hush before the firefly swarm (silent here).",
+    ),
+    # F4 - THE TRANSFORM, HELD ANGLE, smooth mid-clip firefly swarm (NOT her face); first=firefly-glow, last=firefly-haloed
+    (
+        "Cut to an ethereal medium at a HELD angle (Veo first frame = the firefly-glow Look A "
+        "still): she holds her tender look, already in motion \u2014 only a few fireflies "
+        "drifting, NO full swarm yet, a gentle push-with easing in, the angle fixed for the "
+        "whole clip.",
+        "The firefly swarm gather BEGINS here, mid-clip: warm golden fireflies drift in and "
+        "gather into a glowing swarm that swirls around her in tender luminous arcs then settles "
+        "to a soft halo in one continuous gathering motion, the warm points of light drifting "
+        "and looping through the dusk air and around her shoulder exactly where they swarm "
+        "\u2014 believable real firefly physics (true bioluminescent insects drifting on real "
+        "dusk air with soft pulsing halos, no cheap sparkles), her single face clear and locked "
+        "(NEVER firefly-covered, replaced or duplicated), eyes warm with tender wonder (angle "
+        "held, identity locked).",
+        "The swarm completes and the look settles smoothly and fully into the full "
+        "firefly-haloed after-look of the Veo last-frame still (Frame 5's image) \u2014 a soft "
+        "glowing firefly halo settled around her single locked face in the dusky meadow, "
+        "resolved and held through the final beat, no last-second pop; a tender warm calm "
+        "landing in her eyes.",
+    ),
+    # F5 - END firefly-haloed reveal, hand to bottle, spoken line; slow orbit
+    (
+        "Cut to a medium close on a new angle in the warm dusk glow: she is already in the full "
+        "firefly-haloed look, easing her right hand back toward the dropper bottle at her "
+        "collarbone with an easy roll of the shoulder, her single face clear and "
+        "unfirefly-covered; gaze warm to lens.",
+        "She delivers \u201cI carry my own light.\u201d to lens with a tender wistful smile and "
+        "natural lip-sync, the firefly halo glowing soft around her, eyes warm and luminous.",
+        "She holds the firefly-haloed tender look, her single face clear and the bottle cradled "
+        "soft, eyes warm and direct.",
+    ),
+    # F6 - held tender, cradling bottle; gentle push
+    (
+        "Cut to a medium-close chest-up on a fresh angle: she settles both hands gently, the "
+        "right cradling the dropper bottle soft near her collarbone, the left easy near her jaw, "
+        "as a gentle push eases in; gaze warm to lens.",
+        "A tender wistful smile holds to lens on a slow warm breath, the fireflies glowing even "
+        "around her, warm dusk light on her skin.",
+        "She holds the tender beat, the dusk deep and the firefly halo glowing, eyes warm and "
+        "direct \u2014 a held moment before the loop (silent here).",
+    ),
+    # F7 - loop close, cradle bottle matched to F1; pull-out
+    (
+        "Cut to a medium-close chest-up matched to Frame 1: she returns her right hand to cradle "
+        "the amber-glass Firefly dropper bottle at collarbone height and her left easy near her "
+        "jaw exactly as in Frame 1 as a soft pull-out settles to the opening framing.",
+        "She eases her warm gaze back to lens on a slow breath with the composed tender "
+        "quarter-smile, the firefly halo resolving back toward the opening firefly-glow look to "
+        "seed the loop.",
+        "She lands precisely on the Frame 1 pose and gaze, tender in the dusky meadow \u2014 a "
+        "seamless loop seam.",
+    ),
+]
+
+
 def build_block(beats):
     return (
         BREAKDOWN_HEADER + "\n"
