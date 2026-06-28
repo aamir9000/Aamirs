@@ -27,7 +27,7 @@ Makeup: — graphic pop base restyled per look (mod graphic liner + white inner-
 
 Eye Colour: locked to the Aira reference — warm hazel-brown with a soft amber inner ring; zero drift, both irises matched, no heterochromia
 
-Movement: rapid on-beat snap / unzip / mirror-spin outfit changes, with one macro rack-focus → 3D orbit on the levitating Halo cuff (beauty mandate adapted, X.15 rule 16)
+Movement: rapid on-beat snap / unzip / mirror-spin outfit changes, with one macro rack-focus → 3D orbit on the levitating Halo cuff (beauty mandate adapted, X.15 rule 16). Each look-change is contained MID-CLIP at a HELD angle (Veo first/last-frame: the clean opening look -> the resolved next look) — never an instant snap across a cut; every frame join is a hard match-cut to a new angle, and identity stays locked through every change.
 
 Concept Line (NOT spoken): "she doesn't change clothes — they change for her"
 
@@ -43,7 +43,7 @@ Spoken line (AR): NONE — fully silent reel, no voice-over any frame (X.15)
 
 Audio note: diegetic sound design only per frame (no music in-clip); a separate subtle Master Track Brief sits underneath, never full
 
-Identity safety: Aira face/bone-structure/eye colour locked to reference every frame; adult, non-sexualized; zero drift through every wardrobe change (keyframe-lock) — only clothing, footwear, accessories, hair-styling and makeup-accent change, never the face
+Identity safety: Aira face/bone-structure/eye colour locked to reference every frame; adult, non-sexualized; zero drift through every wardrobe change (keyframe-lock) — only clothing, footwear, accessories, hair-styling and makeup-accent change, never the face every look-change is contained inside one clip at a held angle and resolves smoothly by clip-end; her single self and face are never duplicated or covered.
 
 Visual-lead note: every change must read as a clean, magical, high-fashion swap — crisp colour separation and believable physics (except the one permitted magic beat), each look vibrant and pop, never muddy, murky or dull
 
@@ -129,21 +129,21 @@ NEGATIVE: identity drift, face or hand warp, extra or fused fingers, duplicate p
 
 IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
 
-TRANSFORM KEYFRAME NOTE: this is the first change-beat, triggered by the Frame 1 beckon. Pieces of the Fuchsia Bloom look — fabric panels, marabou tufts and accessory parts — fly in from every frame edge and snap together magnetically onto her body, assembling Look B in a crisp converging burst (identity-through-transform). KEYFRAME-LOCK: the face, hairline, eye position and skin texture are identical to Frame 1 — only the wardrobe, footwear, accessories, hair-styling and makeup-accent assemble. No melting of features, no limb drift, no second subject. Cause → effect reads cleanly: beckon → pieces fly in → they snap into the new look.
+TRANSFORM KEYFRAME NOTE: the Magnetic-Panel Snap-On (Electric Lime Mod → Fuchsia Bloom) — contained MID-CLIP inside this one frame at a HELD angle. This is the START frame of the transform CLIP — render her fully in the clean Electric Lime Mod look (the exact still the Frame-2 video opens on, and Veo's FIRST frame), the change NOT yet begun. The change happens MID-CLIP at this same held angle — a clean Magnetic-Panel Snap-On flips the Electric Lime Mod look to the Fuchsia Bloom look in one continuous motion — settling into Frame 3's Fuchsia Bloom image (Veo's LAST frame); the camera may travel with her but never rotates its angle through the change. Face, bone-structure, eye colour and hair stay locked to the reference. Do NOT depict the change in this still and do NOT invent a second Aira, a new face or new hands.
 
 VISUAL-LEAD NOTE: the hero beat is the magnetic snap-on caught at the converge — fuchsia fabric panels and marabou tufts streaking in from the frame edges with clean motion-trails, half already snapped onto her body and half an inch from locking, the Halo cuff blazing as the pieces converge; kinetic, playful, crisp colour separation, never muddy.
 
-WARDROBE (mid-change): the electric-lime mod mini is already gone and fuchsia panels are converging — the bodice panel snapped on, a side panel an inch from locking, the marabou hem-pieces streaking in to assemble the fuchsia feather-trim cocktail mini; saturated fuchsia reading clean against the receding lime light, zero muddy blend, each flying panel edge crisp with a clean motion-trail.
+WARDROBE (clean Electric Lime Mod — intact, the change not yet begun): an electric-lime high-gloss vinyl 60s mod mini-dress, a clean A-line shift with crisp white go-go trim at the collar, cuffs and hem, a bold white geometric panel at the bodice, the vinyl throwing pin-sharp wet speculars over every curve; fabric pristine with zero creases or scuffs, saturated lime reading clean and vibrant, never muddy.
 
-FOOTWEAR (changing — F #18): the white go-go boots dissolve as fuchsia satin platform heels fly in and snap onto her feet, the satin catching a soft sheen, a clean fuchsia reflection in the mirror floor.
+FOOTWEAR: white patent go-go ankle boots with a low block heel, the patent throwing a sharp wet specular across the toe, a clean white reflection in the mirror floor; pristine edges, mirror-bright.
 
-ACCESSORIES (changing — C #18 + constant hero): the white choker and mod sunglasses streak out as fuchsia crystal chandelier earrings and a wisp of marabou snap to the throat and ears; the constant Halo chrome cuff stays on her wrist throughout, its facets flipping from lime-white to fuchsia refractions.
+ACCESSORIES (hero): a white plastic chain-link choker at the throat catching a clean highlight; oversized white mod sunglasses pushed up onto the crown; and the constant hero — the faceted Halo chrome cuff blazing on her raised wrist, each facet catching lime and white light.
 
-HAIR (restyling — 60s flip → voluminous tousled waves): the bouncy flip releases and resolves into voluminous tousled waves as the panels lock, glossy with a clean hairline, real strands legible; colour and face locked.
+HAIR (ook A bouncy 60s flip): a voluminous bouncy 60s flip with a clean side-swept fringe, glossy and bouncy with a razor-clean hairline, the flicked ends catching the key as a travelling sheen; strands legible as real hair under the gloss.
 
-MAKEUP (restyling — Look A → Look B): the mod graphic liner resolves into a soft fuchsia smoky wash; the peach-nude lip flips to a glossy berry; chrome highlight intact; glass skin kept dewy and real with visible pores, no plastic over-smoothing.
+MAKEUP (ook A): glass-skin base; a crisp mod graphic black liner with a clean cut-crease and a bright white inner-lid pop; a glossy peach-nude lip with a wet light-point; dewy peach blush high on the apples; lit highlight on the cheekbone and nose-tip; fluffy set brows; skin dewy and real with visible pores and fine vellus texture (glow from light, never plastic over-smoothing).
 
-EYE COLOUR: locked to the Aira reference — warm hazel-brown with a soft amber inner ring; zero drift, both irises matched, no heterochromia. Intensified fuchsia catchlights allowed through the converge; iris colour never changes and never picks up the fuchsia shadow.
+EYE COLOUR: locked to the Aira reference — warm hazel-brown with a soft amber inner ring; zero drift, both irises matched, no heterochromia. A crisp twin catchlight from the softbox; the graphic liner never bleeds into the iris colour.
 
 HANDS & NAILS: right hand lifted with fingers open as panels snap past, the Halo cuff catching the converge, left hand at the hip steadying through the burst; the white nails flipping to a glossy fuchsia; short squared nails, natural nail-bed colour, cuticles neat, no fused or extra fingers.
 
@@ -151,24 +151,24 @@ FACIAL MICRO-DYNAMICS: lips parted about 2mm on a held breath of delight; eyes b
 
 BODY POSTURE & WEIGHT: a confident planted stance through the converge — weight even, torso open about 6°, one hand lifted into the incoming pieces, shoulders breathing, spine long and alive; balanced and legible, never frozen-stiff or off-balance.
 
-KINETIC STILLNESS (8 layers): (1) the fuchsia panels streaking in from the edges with clean motion-trails; (2) a side panel caught an inch from snapping on; (3) the hair releasing from the flip into tousled waves; (4) marabou tufts converging toward the hem; (5) chest held at the top of a delighted breath; (6) fuchsia satin speculars igniting across the snapped panels; (7) a single baby-hair lifting in the converge; (8) the chandelier earrings snapping to the ears and swinging.
+KINETIC STILLNESS (8 layers): (1) the 60s flip mid-settle, a 2cm bounce easing to rest; (2) a single loose baby-hair drifting at the temple in the studio air; (3) the beckoning finger held a beat mid-curl, tendon tension visible; (4) a faint lime atmospheric haze drifting slowly up-frame; (5) chest rising on a soft shallow inhale; (6) specular glints sliding a few millimetres along the Halo cuff facets; (7) the vinyl hem breathing with a micro-shift of highlight as her ribcage expands; (8) a chain-link choker glint micro-swinging at the throat.
 
-SPATIAL LOGIC: FOREGROUND — a near flying fuchsia panel and her lifted hand at about 15% depth, motion-soft. MIDGROUND — Aira centered, the look assembling on her body. BACKGROUND — the seamless re-gelling from lime to fuchsia through the converge, one bright gradient hotspot behind the head for separation, high-gloss mirror floor reflection, clean and seamless.
+SPATIAL LOGIC: FOREGROUND — her beckoning hand and the Halo cuff at roughly 18% frame depth, tack sharp. MIDGROUND — Aira centered, three-quarter torso filling the frame. BACKGROUND — saturated electric-lime seamless with one soft brighter gradient hotspot directly behind her head for clean separation, high-gloss mirror floor catching a clean inverted reflection, no seams, no clutter.
 
-LIGHTING: KEY — clamshell beauty softbox holding the face evenly lit and locked through the burst. FILL — white bounce lifting under-chin clean. RIM — a fuchsia-gelled hair-light kicking in as the look resolves. PRACTICAL — the flying panel edges catching travelling speculars. SEPARATION — cyclorama one stop down. BOUNCE — a fuchsia kick lighting the satin so its colour reads saturated and clean.
+LIGHTING: KEY — a large softbox feathered from above-front producing wrap-around soft beauty light. FILL — a white bounce card below lifting under-chin and neck shadows clean (clamshell). RIM — a white-gelled hair-light skimming the flip to separate the crown. PRACTICAL — none in frame, the lime seamless gelled bright. SEPARATION — the seamless held one stop down so she pops by about 2 stops. BOUNCE — a soft kick off a hidden card adding a glossy catch to the Halo cuff.
 
 FRAMING: ASPECT 9:16; medium-full to catch the head-to-hem converge, 9% headroom, clean space around her for the pieces to fly in from.
 SUBJECT FRAMING & POSITION: A medium-full framing opens to hold Aira head-to-hem with 9% headroom, clean space left open all around her for the fuchsia pieces to fly in from. Her stance is confident and planted, weight even and the torso open about 6 degrees, one hand lifted into the incoming pieces while the other steadies at the hip, the Halo cuff catching the converge. The camera holds at a mid-full distance so the whole magnetic snap-on assembly reads across her body. She is centred, the converging panels streaking in symmetrically from every frame edge. She faces front, chin level and eyes tracking the converging pieces rather than fixed to the lens. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 LENS + DOF + BOKEH: 50mm, f/2.8; focus locked on her near eye with the converging panels crisp with directional motion-trails; background a creamy fuchsia field with soft bokeh; soft specular blooms off the satin and cuff; gentle highlight roll-off, no clipping.
 
-COMPOSITION REFERENCE: high-fashion outfit-change hero — a satisfying magnetic snap-on assembly, crisp and phone-stopping.
+COMPOSITION REFERENCE: the held beat before the Magnetic-Panel Snap-On — the clean Electric Lime Mod look, the change about to fire on the cut.
 
-ATMOSPHERE: kinetic, playful, electric — the air alive with converging fuchsia pieces and igniting satin sheen.
+ATMOSPHERE: charged, kinetic, pop — the on-beat instant before Electric Lime Mod flips to Fuchsia Bloom.
 
-COLOR GRADE: vibrant maximal pop — receding lime converging cleanly into saturated fuchsia, clean whites, blacks rich but never crushed, full detail, zero grain, no milky blacks, no muddiness.
+COLOR GRADE: vibrant maximal pop — saturated electric-lime and clean white in crisp balance, clean whites, blacks rich but never crushed, full mid-tone detail, zero grain, no lifted milky blacks, no teal-orange muddiness.
 
-TEXTURE & MICRO-DETAIL: each flying panel shows a crisp satin face with a clean motion-trail, not a muddy smudge; the marabou tufts read soft and feathery; the Halo cuff holds faceted chrome through the converge; real skin micro-texture with peach-fuzz at the jaw catching rim light; one fuchsia-lit dust mote crossing the key.
+TEXTURE & MICRO-DETAIL: the vinyl shows a clean wet-gloss surface with pin-sharp speculars; the white go-go trim reads crisp matte-cotton; the Halo cuff shows faceted chrome with tiny colour refractions; real skin micro-texture with soft peach-fuzz catching rim light at the jaw; one almost-invisible dust mote drifting through the key beam.
 
 SPOKEN LINE: NONE — silent frame, lips parted in delight, no speech.
 
@@ -181,9 +181,9 @@ IDENTITY (locked): Aira — same person every frame; face, bone structure, eye s
 SHOT TYPE: medium-full, subject filling about 70% of the vertical frame.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Medium-full: a steady 5% push holds as off the beckon the electric-lime look releases and the first fuchsia panels are already streaking in from the frame edges; gaze tracking the converging panels.
-- [00:02–00:04] The panels, marabou, footwear, accessories, hair and makeup-accent all fly in and snap together magnetically onto her body assembling the Fuchsia Bloom look (face pin-locked, nothing crossing the face), the seamless re-gelling lime to fuchsia.
-- [00:04–00:06] The final marabou hem-pieces lock as she settles into a confident stance, the look completing; a delighted set arriving in her eyes.
+- [00:00–00:02] Cut to medium-full, subject filling about 70% of the vertical frame — HELD angle (Veo first frame = the clean Electric Lime Mod still): she is already in motion in the Electric Lime Mod look — the change NOT yet begun, the angle fixed for the whole clip; coiling into the on-beat change.
+- [00:02–00:04] The change BEGINS here, mid-clip: a clean Magnetic-Panel Snap-On flips the Electric Lime Mod look to the Fuchsia Bloom look in one continuous motion — crisp and motivated, never a muddy blend (angle held, identity locked).
+- [00:04–00:06] The change completes and the look settles fully into the Fuchsia Bloom of the Veo last-frame still (Frame 3's image), resolved and held; she lands a confident on-beat pose, eyes alight.
 
 LENS: 50mm, f/2.8, creamy fuchsia fall-off with directional motion-trails at the converge.
 
@@ -281,17 +281,17 @@ TRANSFORM / MAGIC KEYFRAME NOTE: this is the one permitted magic beat. A glowing
 
 VISUAL-LEAD NOTE: the hero beat is the unzip-reveal caught mid-travel — a brilliant vertical seam of light splitting the fuchsia open down the centre, liquid-chrome mirror-foil spilling out and catching the whole studio in its reflection, the fuchsia peeling away to the sides, the Halo cuff blazing; magical, jaw-dropping, crisp colour separation, never muddy.
 
-WARDROBE (mid-reveal): a glowing vertical light-zipper runs up the front; below the seam the liquid-chrome mirror-foil draped finale gown is already revealed, mirror-bright and throwing the lime-and-fuchsia world back in distorted reflection; above the seam the fuchsia feather-trim mini is still peeling away to the sides with clean motion-trails; saturated fuchsia and mirror-chrome reading crisp against each other, zero muddy blend, the seam of light pin-sharp.
+WARDROBE (clean Fuchsia Bloom — intact, the change not yet begun): a saturated fuchsia feather-trim cocktail mini with a marabou-fluff hem and a soft fuchsia satin bodice catching pin-sharp speculars, the feather trim flaring with the turn, each plume legible and soft; fabric pristine, saturated fuchsia reading clean and vibrant, never muddy.
 
-FOOTWEAR (changing — F #19): the fuchsia satin platform heels give way as chrome mirror knee boots resolve up the leg behind the light-seam, the mirror finish throwing a sharp specular and a clean chrome reflection in the mirror floor.
+FOOTWEAR: fuchsia satin platform heels with a tall block platform, the satin throwing a soft sheen across the vamp, a clean fuchsia reflection in the mirror floor; pristine, colour-true.
 
-ACCESSORIES (changing — C #19 + constant hero): the fuchsia chandelier earrings and marabou wisp dissolve as a chrome geometric collar and mirror-disc earrings resolve behind the seam; the constant Halo chrome cuff stays on her wrist throughout, now perfectly matched to the chrome world, its facets ablaze.
+ACCESSORIES (hero): fuchsia crystal chandelier earrings throwing tiny refracted sparks as they swing; a wisp of marabou at the throat lifting in the turn; and the constant hero — the faceted Halo chrome cuff blazing on her wrist, its facets now catching fuchsia refractions.
 
-HAIR (restyling — tousled waves → sleek wet-chrome slick-back): the voluminous waves draw back into a sleek wet-chrome slick-back as the seam passes, glossy with a razor-clean hairline, real strands legible; colour and face locked.
+HAIR (ook B voluminous tousled waves): voluminous tousled waves with a glossy finish and a razor-clean hairline, the lengths flaring and catching the key as a travelling sheen through the turn; strands legible as real hair under the gloss.
 
-MAKEUP (restyling — Look B → Look C): the fuchsia smoky eye resolves into a chrome-silver metallic lid; the berry lip flips to a mirror-nude; glass skin kept dewy and real with visible pores, no plastic over-smoothing.
+MAKEUP (ook B): glass-skin base; a soft fuchsia smoky eye with a clean blend; a glossy berry lip with a wet light-point; dewy fuchsia-peach blush high on the apples; lit highlight on the cheekbone and nose-tip; fluffy set brows; skin dewy and real with visible pores and fine vellus texture (glow from light, never plastic over-smoothing).
 
-EYE COLOUR: locked to the Aira reference — warm hazel-brown with a soft amber inner ring; zero drift, both irises matched, no heterochromia. Brilliant white-and-chrome catchlights from the light-seam allowed; iris colour never changes and never picks up the chrome or fuchsia.
+EYE COLOUR: locked to the Aira reference — warm hazel-brown with a soft amber inner ring; zero drift, both irises matched, no heterochromia. A crisp twin catchlight with fuchsia rim accents; the smoky shadow never bleeds into the iris colour.
 
 HANDS & NAILS: right hand lifted clear of the light-seam, the Halo cuff blazing in the glow, fingers elegant and open; left hand at the hip clear of the unzip; nails resolving from fuchsia to a chrome mirror-finish; short squared nails, natural nail-bed colour, cuticles neat, no fused or extra fingers.
 
@@ -299,24 +299,24 @@ FACIAL MICRO-DYNAMICS: lips parted about 2mm on a held breath of wonder; eyes wi
 
 BODY POSTURE & WEIGHT: a poised, statuesque stance through the reveal — weight even and grounded, torso open about 5°, arms held clear of the travelling seam, shoulders breathing, spine long and alive; balanced and legible, never frozen-stiff (living stillness).
 
-KINETIC STILLNESS (8 layers): (1) the light-zipper travelling upward mid-unzip, its glow blooming; (2) the fuchsia fabric peeling away to the sides with clean motion-trails; (3) liquid-chrome spilling out and rippling as it resolves; (4) the hair drawing back into the slick-back; (5) chest held at the top of a wonder-breath; (6) brilliant speculars igniting across the mirror-foil; (7) a single baby-hair lifting in the light-bloom; (8) mirror-disc earrings resolving and catching the seam-glow.
+KINETIC STILLNESS (8 layers): (1) the fuchsia hem and feather trim flaring out mid-swish; (2) the chandelier earrings swinging on the turn; (3) voluminous waves lifting and trailing the rotation; (4) a faint fuchsia atmospheric haze drifting up-frame; (5) chest at the top of a delighted breath; (6) satin speculars sliding across the bodice as she turns; (7) the marabou throat-wisp lifting in the air; (8) specular glints travelling along the Halo cuff facets.
 
-SPATIAL LOGIC: FOREGROUND — the brilliant light-seam and her lifted hand at about 15% depth, glowing. MIDGROUND — Aira centered, the chrome gown revealing up her body. BACKGROUND — the seamless re-gelling from fuchsia toward a cool chrome-silver through the reveal, one bright gradient hotspot behind the head for separation, high-gloss mirror floor doubling the glow, clean and seamless.
+SPATIAL LOGIC: FOREGROUND — her sweeping hand and the Halo cuff at about 18% depth, motion-soft. MIDGROUND — Aira centered, three-quarter torso caught mid-turn. BACKGROUND — saturated fuchsia seamless with one soft brighter gradient hotspot behind the head for clean separation, high-gloss mirror floor catching the turn, no seams, no clutter.
 
-LIGHTING: KEY — clamshell beauty softbox holding the face evenly lit and locked through the reveal. FILL — white bounce lifting under-chin clean. RIM — the self-luminous light-zipper acting as a brilliant motivated practical, throwing a travelling edge-light up her front; a chrome-cool hair-light kicking in on resolve. PRACTICAL — the glowing light-seam itself. SEPARATION — cyclorama one stop down. BOUNCE — a cool chrome kick lighting the mirror-foil so it reads bright and clean.
+LIGHTING: KEY — a large softbox feathered from above-front for wrap-around soft beauty light. FILL — a white bounce card below lifting under-chin shadows clean (clamshell). RIM — a fuchsia-gelled hair-light skimming the waves to separate the crown. PRACTICAL — none in frame, the fuchsia seamless gelled bright. SEPARATION — the seamless held one stop down so she pops by about 2 stops. BOUNCE — a fuchsia kick off a hidden card adding a glossy catch to the satin and cuff.
 
 FRAMING: ASPECT 9:16; full-length to medium-full to catch the hem-to-shoulder unzip travel, 8% headroom, clean space around the body for the peeling fabric.
 SUBJECT FRAMING & POSITION: A full-length framing tightening to medium-full holds Aira head-to-shoulder with 8% headroom to follow the hem-to-shoulder unzip travel, clean space left open around the body for the peeling fabric. Her stance is poised and statuesque, weight even and grounded, the torso open about 5 degrees and both arms held deliberately clear of the travelling light-seam. The camera holds at a full-ish distance, the brilliant vertical seam splitting the centre of frame. She is centred with the fuchsia peeling away to the sides and the chrome spilling out behind. She faces front, eyes wide and lit by the light-seam in serene wonder, chin level through the magic. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 LENS + DOF + BOKEH: 50mm, f/2.8; focus locked on her near eye with the light-seam and chrome reveal crisp; background a creamy chrome-fuchsia field with soft bokeh; brilliant specular blooms off the light-seam and mirror-foil; gentle highlight roll-off, no clipping even at the seam-glow.
 
-COMPOSITION REFERENCE: high-fashion magic-reveal hero (luminous transformation campaign still) — jaw-dropping, saturated, phone-stopping.
+COMPOSITION REFERENCE: the held beat before the Zipper-Of-Light Unzip-Reveal — the clean Fuchsia Bloom look, the change about to fire on the cut.
 
-ATMOSPHERE: magical, electric, awe-struck — the air ablaze with the glowing seam and spilling chrome reflection.
+ATMOSPHERE: charged, kinetic, pop — the on-beat instant before Fuchsia Bloom flips to Chrome Mirror.
 
-COLOR GRADE: vibrant maximal pop — receding fuchsia giving way to brilliant mirror-chrome and clean whites, blacks rich but never crushed, full detail, zero grain, no milky blacks, no muddiness, the light-seam glowing clean without clipping.
+COLOR GRADE: vibrant maximal pop — saturated fuchsia held crisp and clean, clean whites, blacks rich but never crushed, full mid-tone detail, zero grain, no lifted milky blacks, no muddiness.
 
-TEXTURE & MICRO-DETAIL: the light-seam reads as pure self-luminous energy with a soft bloom, not a flat line; the peeling fuchsia shows crisp satin faces with clean motion-trails; the chrome gown shows liquid mirror-foil with true distorted reflections; the Halo cuff matched chrome through the reveal; real skin micro-texture with peach-fuzz at the jaw catching the seam-light; one glow-lit dust mote crossing the beam.
+TEXTURE & MICRO-DETAIL: the satin shows a clean soft sheen with pin-sharp speculars; the marabou and feather trim read soft and downy with legible plumes; the crystal earrings throw tiny refracted sparks; the Halo cuff shows faceted chrome with fuchsia refractions; real skin micro-texture with peach-fuzz catching rim light at the jaw; one fuchsia-lit dust mote drifting through the key.
 
 SPOKEN LINE: NONE — silent frame, lips parted in wonder, no speech.
 
@@ -329,9 +329,9 @@ IDENTITY (locked): Aira — same person every frame; face, bone structure, eye s
 SHOT TYPE: full-length to medium-full, subject filling about 75% of the vertical frame.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Full-length to medium-full: a steady 5% push holds as a brilliant vertical light-zipper is already materialising at the hem and the fuchsia begins to part; gaze drawn to the rising seam.
-- [00:02–00:04] The seam unzips smoothly upward, the fuchsia peeling away to the sides as the liquid-chrome gown spills out and resolves behind it, footwear, accessories, hair and makeup-accent transforming in its wake (face pin-locked, the seam never crossing the face), the seamless cooling fuchsia toward chrome; eyes widening in wonder.
-- [00:04–00:06] The seam completes at the shoulder and dissolves in a soft bloom as she settles into a poised chrome stance, the Mirror look fully revealed; a serene awe landing.
+- [00:00–00:02] Cut to full-length to medium-full, subject filling about 75% of the vertical frame — HELD angle (Veo first frame = the clean Fuchsia Bloom still): she is already in motion in the Fuchsia Bloom look — the change NOT yet begun, the angle fixed for the whole clip; coiling into the on-beat change.
+- [00:02–00:04] The change BEGINS here, mid-clip: a clean Zipper-Of-Light Unzip-Reveal flips the Fuchsia Bloom look to the Chrome Mirror look in one continuous motion — crisp and motivated, never a muddy blend (angle held, identity locked).
+- [00:04–00:06] The change completes and the look settles fully into the Chrome Mirror of the Veo last-frame still (Frame 5's image), resolved and held; she lands a confident on-beat pose, eyes alight.
 
 LENS: 50mm, f/2.8, creamy chrome-fuchsia fall-off with a brilliant seam-bloom.
 

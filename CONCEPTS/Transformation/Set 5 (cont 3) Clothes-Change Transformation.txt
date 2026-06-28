@@ -27,7 +27,7 @@ Makeup: — graphic pop base restyled per look (tangerine gloss + pink liner A; 
 
 Eye Colour: locked to the Aira reference — warm hazel-brown with a soft amber inner ring; zero drift, both irises matched, no heterochromia
 
-Movement: rapid on-beat spin / flip / bloom outfit changes, with one macro rack-focus → 3D orbit on the levitating Prism clutch (beauty mandate adapted, X.15 rule 16)
+Movement: rapid on-beat spin / flip / bloom outfit changes, with one macro rack-focus → 3D orbit on the levitating Prism clutch (beauty mandate adapted, X.15 rule 16). Each look-change is contained MID-CLIP at a HELD angle (Veo first/last-frame: the clean opening look -> the resolved next look) — never an instant snap across a cut; every frame join is a hard match-cut to a new angle, and identity stays locked through every change.
 
 Concept Line (NOT spoken): "blink — and she's someone new"
 
@@ -43,7 +43,7 @@ Spoken line (AR): NONE — fully silent reel, no voice-over any frame (X.15)
 
 Audio note: diegetic sound design only per frame (no music in-clip); a separate subtle Master Track Brief sits underneath, never full
 
-Identity safety: Aira face/bone-structure/eye colour locked to reference every frame; adult, non-sexualized; zero drift through every wardrobe change (keyframe-lock) — only clothing, footwear, accessories, hair-styling and makeup-accent change, never the face
+Identity safety: Aira face/bone-structure/eye colour locked to reference every frame; adult, non-sexualized; zero drift through every wardrobe change (keyframe-lock) — only clothing, footwear, accessories, hair-styling and makeup-accent change, never the face every look-change is contained inside one clip at a held angle and resolves smoothly by clip-end; her single self and face are never duplicated or covered.
 
 Visual-lead note: every change must read as a clean, magical, high-fashion swap — crisp colour separation and believable physics, each look vibrant and pop, never muddy, murky or dull
 
@@ -129,21 +129,21 @@ NEGATIVE: identity drift, face or hand warp, extra or fused fingers, duplicate p
 
 IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
 
-TRANSFORM KEYFRAME NOTE: this is the first change-beat, triggered by the Frame 1 snap. Aira whips into a fast 180° spin; at the blur-peak the Voltage Tangerine power-look dissolves in the motion-streak and she resolves out of the spin already in the Liquid Cyan slip gown (identity-through-transform). KEYFRAME-LOCK: the face, hairline, eye position and skin texture are identical to Frame 1 — only the wardrobe swaps through the spin-blur. No melting of features, no limb drift, no second subject. Cause → effect reads cleanly: snap → whip-spin → new look.
+TRANSFORM KEYFRAME NOTE: the Spin-Blur Snap-Change (Voltage Tangerine → Liquid Cyan) — contained MID-CLIP inside this one frame at a HELD angle. This is the START frame of the transform CLIP — render her fully in the clean Voltage Tangerine look (the exact still the Frame-2 video opens on, and Veo's FIRST frame), the change NOT yet begun. The change happens MID-CLIP at this same held angle — a clean Spin-Blur Snap-Change flips the Voltage Tangerine look to the Liquid Cyan look in one continuous motion — settling into Frame 3's Liquid Cyan image (Veo's LAST frame); the camera may travel with her but never rotates its angle through the change. Face, bone-structure, eye colour and hair stay locked to the reference. Do NOT depict the change in this still and do NOT invent a second Aira, a new face or new hands.
 
 VISUAL-LEAD NOTE: the hero beat is the spin-blur swap — her body caught at the blur-peak of a 180° whip, tangerine streaking into cyan as the new liquid-sequin gown resolves, the Prism clutch trailing a clean motion-arc; kinetic, glossy, never muddy, the colour-flip itself the surprise.
 
-WARDROBE (mid-change): at the blur-peak the tangerine blazer-dress streaks into a horizontal motion-smear and the Liquid Cyan slip gown sweeps in to replace it — a fluid lime-cyan liquid-sequin slip catching a thousand tiny speculars, the leading edge already settling into a clean draped bias-cut as the spin resolves; the change reads as a crisp motion-flip, tangerine and cyan kept separate and saturated with zero muddy blend.
+WARDROBE (clean Voltage Tangerine — intact, the change not yet begun): an oversized tangerine power-blazer worn as a structured mini-dress, sharp padded shoulders and a nipped chrome-buckle waist, colour-blocked with glossy hot-pink satin lapels and cuff, the tailoring crisp with one clean pressed specular line; fabric pristine with zero wrinkles or lint, saturated tangerine reading clean and vibrant, never muddy.
 
-FOOTWEAR (changing — F #14): the hot-pink mirror pumps streak out in the blur and resolve into the clear acrylic heels with glowing lime light-cores, catching a sharp specular and casting a clean lime glow at the mirror floor.
+FOOTWEAR: hot-pink mirror-PVC pointed pumps catching a sharp specular, a glossy wet shine across the toe, a clean reflection in the mirror floor; pristine edges, mirror-bright.
 
-ACCESSORIES (changing — C #14 + constant hero): the hot-pink hoops and chrome belt blur away and resolve into cyan crystal drop earrings and layered chrome chokers; the constant Prism chrome clutch stays in her hand throughout, trailing a clean motion-arc and flipping from tangerine to cyan refractions.
+ACCESSORIES (hero): oversized hot-pink resin hoop earrings with a glossy depth; a chrome chain-link belt slung at the waist throwing pin-sharp glints; mirrored micro-sunglasses pushed up onto the crown; and the constant hero — the faceted Prism chrome clutch held at the hip, each facet catching tangerine and hot-pink colour.
 
-HAIR (restyling — high pony → blunt centre-part): the chrome high pony swings out in the spin and resolves into a sleek blunt centre-parted fall, mirror-gloss finish, razor-clean hairline, the ends settling sharp; colour and face locked, real strands legible under the gloss.
+HAIR (ook A high pony): a sleek ultra-high glass pony tied at the crown, lacquered to a chrome-mirror shine with a razor-clean hairline and zero flyaways, the length falling behind in one polished ribbon, the crown catching the key as a travelling sheen band; top strands legible as real hair under the gloss.
 
-MAKEUP (restyling — Look A → Look B): the hot-pink liner resolves into a crisp cyan-lime graphic liner flick; the tangerine lip flips to a glossy cyan-tinted nude; chrome highlight intact; glass skin kept dewy and real with visible pores, no plastic over-smoothing.
+MAKEUP (ook A): glass-skin base; a crisp graphic hot-pink liner flick above the crease in one clean saturated sweep; a glossy tangerine lip with a concentrated wet light-point; dewy peach blush high on the apples; lit highlight on the cheekbone and nose-tip; fluffy set brows; skin dewy and real with visible pores and fine vellus texture (glow from light, never plastic over-smoothing).
 
-EYE COLOUR: locked to the Aira reference — warm hazel-brown with a soft amber inner ring; zero drift, both irises matched, no heterochromia. Intensified cyan catchlights allowed through the spin; iris colour never changes and never picks up the cyan liner.
+EYE COLOUR: locked to the Aira reference — warm hazel-brown with a soft amber inner ring; zero drift, both irises matched, no heterochromia. A crisp twin catchlight from the softbox; the hot-pink liner never bleeds into the iris colour.
 
 HANDS & NAILS: right hand sweeping out from the spin with fingers elegantly trailing the motion, left hand holding the Prism clutch through the whip with believable grip; the hot-pink nails resolving to a glossy cyan; short squared nails, natural nail-bed colour, cuticles neat, no fused or extra fingers.
 
@@ -151,24 +151,24 @@ FACIAL MICRO-DYNAMICS: lips parted about 2mm on a held breath of motion; eyes br
 
 BODY POSTURE & WEIGHT: mid-spin but balanced — torso rotated through about 120° of the whip with a believable counter-rotation in the hips and trailing arms, weight transferring through the planted ball of the front foot, spine long and alive; momentum fully legible, never frozen-stiff or off-balance.
 
-KINETIC STILLNESS (8 layers): (1) the body at the blur-peak of the 180° whip, a clean directional motion-streak; (2) the tangerine-to-cyan wardrobe smear mid-resolve; (3) the hair swinging out and beginning to settle into the centre-part; (4) the Prism clutch trailing a crisp motion-arc; (5) chest held at the top of an exhilarated breath; (6) liquid-sequin speculars igniting across the resolving gown; (7) a single baby-hair streaming across the cheek on the turn; (8) the cyan crystal drops swinging out wide.
+KINETIC STILLNESS (8 layers): (1) the high pony mid-settle, a 2cm pendulum sway easing to rest; (2) a single loose baby-hair drifting at the temple in the studio air; (3) the snapping fingers held a beat before release, tendon tension visible; (4) a faint tangerine atmospheric haze drifting slowly up-frame; (5) chest rising on a soft shallow inhale; (6) specular glints sliding a few millimetres along the Prism clutch facets; (7) the satin lapel breathing with a micro-shift of highlight as her ribcage expands; (8) a chrome belt-link micro-swinging at the waist.
 
-SPATIAL LOGIC: FOREGROUND — her trailing sweeping hand and the arcing Prism clutch at about 16% depth, motion-soft. MIDGROUND — Aira centered mid-spin, the wardrobe resolving. BACKGROUND — the seamless re-gelling from tangerine to cyan through the spin, one bright gradient hotspot behind the head for separation, high-gloss mirror floor reflection, clean and seamless.
+SPATIAL LOGIC: FOREGROUND — her snapping hand at roughly 18% frame depth, tack sharp. MIDGROUND — Aira centered, three-quarter torso filling the frame, the Prism clutch at the hip. BACKGROUND — saturated tangerine seamless with one soft brighter gradient hotspot directly behind her head for clean separation, high-gloss mirror floor catching a clean inverted reflection, no seams, no clutter.
 
-LIGHTING: KEY — clamshell beauty softbox holding the face evenly lit and locked through the blur. FILL — white bounce lifting under-chin clean. RIM — a cyan-gelled hair-light kicking in as the look resolves. PRACTICAL — the lime sole-cores flashing in. SEPARATION — cyclorama one stop down. BOUNCE — a cyan kick lighting the liquid-sequin gown so its colour reads saturated and clean.
+LIGHTING: KEY — a large softbox feathered from above-front producing wrap-around soft beauty light. FILL — a white bounce card below lifting under-chin and neck shadows clean (clamshell). RIM — a hot-pink gelled hair-light skimming the chrome pony to separate the crown. PRACTICAL — none in frame, the tangerine seamless gelled warm. SEPARATION — the seamless held one stop down so she pops by about 2 stops. BOUNCE — a soft kick off a hidden card adding a glossy catch to the Prism clutch.
 
 FRAMING: ASPECT 9:16; medium, waist-up to catch the spin, 10% headroom, clean space camera-right for the whip to resolve into.
 SUBJECT FRAMING & POSITION: A medium waist-up framing catches Aira at the blur-peak of the change with 10% headroom, wide enough to read the whole whip-spin. Her torso is rotated through about 120 degrees of a fast 180-degree spin with a believable counter-rotation in the hips and trailing arms, weight transferring through the planted ball of the front foot, the Prism clutch trailing a clean motion-arc. The camera holds at a mid distance, tracking the turn. She is centred with clean negative space open camera-right for the whip to resolve into. She faces through the spin with the chin leading the turn by a degree, eyes tracking rather than fixed to the lens — caught mid-rotation, not squared front. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 LENS + DOF + BOKEH: 50mm, f/2.8; focus locked on her near eye through the spin with a directional motion-blur on the streaking wardrobe; background a creamy field with cyan bokeh; soft specular blooms off the liquid sequins; gentle highlight roll-off, no clipping.
 
-COMPOSITION REFERENCE: high-fashion outfit-change hero — the instant a look flips through a spin-blur, kinetic and phone-stopping.
+COMPOSITION REFERENCE: the held beat before the Spin-Blur Snap-Change — the clean Voltage Tangerine look, the change about to fire on the cut.
 
-ATMOSPHERE: kinetic, playful, glossy — the air streaked with colour as one look whips into the next.
+ATMOSPHERE: charged, kinetic, pop — the on-beat instant before Voltage Tangerine flips to Liquid Cyan.
 
-COLOR GRADE: vibrant maximal pop — tangerine streaking cleanly into saturated cyan and lime, clean whites, blacks rich but never crushed, full detail, zero grain, no milky blacks, no teal-orange muddiness.
+COLOR GRADE: vibrant maximal pop — saturated tangerine and hot-pink in crisp balance, clean whites, blacks rich but never crushed, full mid-tone detail, zero grain, no lifted milky blacks, no teal-orange muddiness.
 
-TEXTURE & MICRO-DETAIL: the liquid-sequin gown shows thousands of tiny crisp speculars with clean colour; the motion-streak reads as a clean directional smear, not a muddy smudge; the Prism clutch holds faceted chrome through the arc; real skin micro-texture with peach-fuzz at the jaw catching rim light; one dust mote lit cyan crossing the key.
+TEXTURE & MICRO-DETAIL: the blazer wool-satin shows a clean structured weave with a crisp pressed edge; the hot-pink lapels read glossy satin; the Prism clutch shows faceted chrome with pin-sharp speculars and tiny colour refractions; real skin micro-texture with soft peach-fuzz catching rim light at the jaw; one almost-invisible dust mote drifting through the key beam.
 
 SPOKEN LINE: NONE — silent frame, lips parted in motion, no speech.
 
@@ -181,9 +181,9 @@ IDENTITY (locked): Aira — same person every frame; face, bone structure, eye s
 SHOT TYPE: medium, waist-up, subject filling about 55% of the vertical frame.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Medium waist-up: off the snap a 5% whip-pan is already following her into a fast 180° whip-spin, the tangerine look streaking into motion-blur; gaze sweeping with the turn.
-- [00:02–00:04] At the blur-peak the wardrobe, footwear, accessories, hair and makeup-accent all flip from Look A to the Liquid Cyan look, the seamless re-gelling tangerine to cyan (face pin-locked); eyes alive through the spin.
-- [00:04–00:06] She resolves out of the spin facing lens in the liquid-sequin gown, the gown and chokers settling and the clutch landing at her hip with a glint; a cool composed look arriving.
+- [00:00–00:02] Cut to medium, waist-up, subject filling about 55% of the vertical frame — HELD angle (Veo first frame = the clean Voltage Tangerine still): she is already in motion in the Voltage Tangerine look — the change NOT yet begun, the angle fixed for the whole clip; coiling into the on-beat change.
+- [00:02–00:04] The change BEGINS here, mid-clip: a clean Spin-Blur Snap-Change flips the Voltage Tangerine look to the Liquid Cyan look in one continuous motion — crisp and motivated, never a muddy blend (angle held, identity locked).
+- [00:04–00:06] The change completes and the look settles fully into the Liquid Cyan of the Veo last-frame still (Frame 3's image), resolved and held; she lands a confident on-beat pose, eyes alight.
 
 LENS: 50mm, f/2.8, creamy cyan fall-off with directional motion-blur at the blur-peak.
 
@@ -275,21 +275,21 @@ NEGATIVE: identity drift, face or hand warp, extra or fused fingers, duplicate p
 
 IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
 
-TRANSFORM KEYFRAME NOTE: this is the second change-beat, a mechanical split-flap reveal. Rows of glossy solari-style panels ripple across her body like a departure board, each panel flipping from the cyan look to the ultraviolet look section by section in a clean cascading wave (identity-through-transform). KEYFRAME-LOCK: the face, hairline, eye position and skin texture are identical to the prior frames — the panels never flip across the face, only the wardrobe, footwear, accessories, hair-styling and makeup-accent. No melting of features, no limb drift, no second subject. Cause → effect reads cleanly: panels flip top-to-bottom → new look locks.
+TRANSFORM KEYFRAME NOTE: the Split-Flap Flip-Board Cascade (Liquid Cyan → Ultraviolet Latex) — contained MID-CLIP inside this one frame at a HELD angle. This is the START frame of the transform CLIP — render her fully in the clean Liquid Cyan look (the exact still the Frame-4 video opens on, and Veo's FIRST frame), the change NOT yet begun. The change happens MID-CLIP at this same held angle — a clean Split-Flap Flip-Board Cascade flips the Liquid Cyan look to the Ultraviolet Latex look in one continuous motion — settling into Frame 5's Ultraviolet Latex image (Veo's LAST frame); the camera may travel with her but never rotates its angle through the change. Face, bone-structure, eye colour and hair stay locked to the reference. Do NOT depict the change in this still and do NOT invent a second Aira, a new face or new hands.
 
 VISUAL-LEAD NOTE: the hero beat is the split-flap cascade caught mid-flip — a diagonal wave of glossy panels rippling down her body, the top rows already locked into ultraviolet latex while the lower rows still read cyan, mid-flip panels caught on edge catching a sharp specular; mechanical, satisfying, crisp colour separation, never muddy.
 
-WARDROBE (mid-change): a cascading wave of split-flap panels flips across the body — the upper torso already locked into the Ultraviolet Latex mini with its sculptural shoulders, the mid-section a row of panels caught on edge mid-rotation, the lower section still showing the cyan sequin hem an instant before it flips; ultraviolet and magenta high-gloss latex resolving clean and saturated against the receding cyan, zero muddy blend, each panel edge crisp.
+WARDROBE (clean Liquid Cyan — intact, the change not yet begun): a fluid lime-cyan liquid-sequin slip gown cut on the bias, the surface a field of thousands of tiny sequins firing crisp speculars as it moves, lime and cyan shimmering in clean gradient with zero muddy blend; the bias drape skimming the body and swinging a few degrees on the settle, the hem catching a clean light-line, fabric pristine and saturated.
 
-FOOTWEAR (changing — F #15): the lower flip-row reveals the magenta high-gloss thigh-high boots replacing the clear lime heels, the patent latex throwing a sharp wet specular, a clean magenta reflection in the mirror floor.
+FOOTWEAR: clear acrylic heels with glowing electric-lime light-cores in the heel and platform, a glossy wet sheen on the clear surface throwing pin-sharp speculars, the lime core casting a clean glow at the mirror floor; pristine, mirror-bright.
 
-ACCESSORIES (changing — C #15 + constant hero): the cyan crystal drops and chrome chokers flip to chunky ultraviolet acrylic bangles and sculptural chrome ear-cuffs; the constant Prism chrome clutch stays in her hand throughout, its facets flipping from cyan to ultraviolet refractions.
+ACCESSORIES (hero): cyan crystal drop earrings throwing faceted glints at the jaw; layered chrome chokers stacked at the throat catching travelling sheen; and the constant hero — the faceted Prism chrome clutch held forward, its facets now flashing cyan-lime refractions.
 
-HAIR (restyling — centre-part → slicked wet bob-illusion): as the top panels lock, the blunt centre-part resolves into a slicked wet-look bob-illusion tucked behind the ears, mirror-gloss finish, razor-clean hairline; colour and face locked, real strands legible under the gloss.
+HAIR (ook B blunt centre-part): a sleek blunt centre-parted fall lacquered to a mirror-gloss, a razor-clean parting and hairline, the ends settling sharp at the collarbone, a soft sheen band travelling the crown; colour and face locked, real strands legible under the gloss.
 
-MAKEUP (restyling — Look B → Look C): the cyan-lime liner resolves into a smoky ultraviolet wash, the nude lip flips to a glossy ultraviolet-to-magenta ombré; chrome highlight intact; glass skin kept dewy and real with visible pores, no plastic over-smoothing.
+MAKEUP (ook B): a crisp cyan-lime graphic liner flick floating above the crease in one clean saturated arc; a glossy cyan-tinted nude lip with a wet light-point; chrome highlight stacked on the cheekbone and nose-tip; dewy cool blush; glass skin dewy and real with visible pores, no plastic over-smoothing.
 
-EYE COLOUR: locked to the Aira reference — warm hazel-brown with a soft amber inner ring; zero drift, both irises matched, no heterochromia. Intensified ultraviolet catchlights allowed; iris colour never changes and never picks up the ultraviolet shadow.
+EYE COLOUR: locked to the Aira reference — warm hazel-brown with a soft amber inner ring; zero drift, both irises matched, no heterochromia; direct confident gaze, cyan catchlights allowed, iris colour never changes and never picks up the liner.
 
 HANDS & NAILS: right hand holding the Prism clutch steady through the cascade, left hand lifted with fingers splayed as if conducting the flips; the cyan nails flipping to a glossy ultraviolet; short squared nails, natural nail-bed colour, cuticles neat, no fused or extra fingers.
 
@@ -297,24 +297,24 @@ FACIAL MICRO-DYNAMICS: lips parted about 2mm on a held breath of anticipation; e
 
 BODY POSTURE & WEIGHT: a confident planted stance through the cascade — weight even, torso open about 6°, the conducting hand lifted, shoulders breathing, spine long and alive; balanced and legible, never frozen-stiff or off-balance.
 
-KINETIC STILLNESS (8 layers): (1) the diagonal wave of panels caught mid-flip down the body; (2) a row of panels on edge catching a sharp specular; (3) the hair resolving into the slicked bob as the top locks; (4) the receding cyan sequins firing a last shimmer at the hem; (5) chest held at the top of an anticipatory breath; (6) ultraviolet latex speculars igniting across the locked rows; (7) a single baby-hair drifting at the temple; (8) the ultraviolet bangles settling onto the lifted wrist.
+KINETIC STILLNESS (8 layers): (1) the sequin gown still rippling with a settling light-wave; (2) the blunt hair-ends easing to rest; (3) a baby-hair drifting at the temple; (4) faint cyan haze drifting up-frame; (5) chest easing on a soft exhale; (6) liquid-sequin speculars sliding across the gown; (7) the cyan crystal drops micro-swinging at the jaw; (8) a chrome choker glint travelling at the throat.
 
-SPATIAL LOGIC: FOREGROUND — her lifted conducting hand and the nearest flipping panel at about 16% depth, tack sharp. MIDGROUND — Aira centered, the cascade rippling down the torso. BACKGROUND — the seamless re-gelling from cyan to ultraviolet through the cascade, one bright gradient hotspot behind the head for separation, high-gloss mirror floor reflection, clean and seamless.
+SPATIAL LOGIC: FOREGROUND — the forward Prism clutch and clutch hand at about 18% depth, tack sharp. MIDGROUND — Aira centered, three-quarter to full torso in the pose. BACKGROUND — cyan-gelled seamless with one bright gradient hotspot behind the head for separation, high-gloss mirror floor reflection, clean and seamless.
 
-LIGHTING: KEY — clamshell beauty softbox holding the face evenly lit and locked. FILL — white bounce lifting under-chin clean. RIM — an ultraviolet-gelled hair-light kicking in as the look resolves. PRACTICAL — the panel edges catching travelling speculars. SEPARATION — cyclorama one stop down. BOUNCE — a magenta kick lighting the ultraviolet latex so its colour reads saturated and clean.
+LIGHTING: KEY — a feathered beauty softbox holding the face evenly lit. FILL — white bounce lifting under-chin clean. RIM — a cyan-gelled hair-light separating the crown and gown edge. PRACTICAL — the lime sole-cores glowing at the floor. SEPARATION — cyclorama one stop down. BOUNCE — a cyan kick keeping the liquid sequins saturated and clean.
 
 FRAMING: ASPECT 9:16; medium-full to catch the head-to-hem cascade, 9% headroom, clean space camera-left for the wave to resolve into.
 SUBJECT FRAMING & POSITION: A medium-full framing holds Aira head-to-hem with 9% headroom to catch the split-flap cascade rippling down her body. Her stance is confident and planted, weight even and the torso open about 6 degrees, one hand lifted with the fingers splayed as if conducting the wave of flipping panels, the Prism clutch steady in the other hand. The camera holds at a mid-full distance so the diagonal cascade reads top-to-bottom. She is centred with clean negative space camera-left for the wave to resolve into. She faces front, chin level and eyes tracking the flips down her body rather than fixed to the lens. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 LENS + DOF + BOKEH: 50mm, f/2.8; focus locked on her near eye with the flipping panels crisp across the body; background a creamy ultraviolet field with soft bokeh; soft specular blooms off the panel edges and latex; gentle highlight roll-off, no clipping.
 
-COMPOSITION REFERENCE: high-fashion outfit-change hero — a satisfying mechanical split-flap reveal, crisp and phone-stopping.
+COMPOSITION REFERENCE: the held beat before the Split-Flap Flip-Board Cascade — the clean Liquid Cyan look, the change about to fire on the cut.
 
-ATMOSPHERE: mechanical, satisfying, electric — the air alive with the ripple of flipping panels and igniting ultraviolet gloss.
+ATMOSPHERE: charged, kinetic, pop — the on-beat instant before Liquid Cyan flips to Ultraviolet Latex.
 
-COLOR GRADE: vibrant maximal pop — receding cyan flipping cleanly into saturated ultraviolet and magenta, clean whites, blacks rich but never crushed, full detail, zero grain, no milky blacks, no muddiness.
+COLOR GRADE: vibrant maximal pop — saturated cyan and lime in crisp balance, clean whites, blacks rich but never crushed, full detail, zero grain, no milky blacks, no muddiness.
 
-TEXTURE & MICRO-DETAIL: each split-flap panel shows a glossy face with a crisp edge and a pin-sharp specular on the rotating ones; the ultraviolet latex reads wet-glossy with clean colour; the Prism clutch holds faceted chrome through the cascade; real skin micro-texture with peach-fuzz at the jaw catching rim light; one ultraviolet-lit dust mote crossing the key.
+TEXTURE & MICRO-DETAIL: the liquid-sequin gown shows thousands of crisp individual speculars with clean colour separation; the clear heels show glassy translucency with glowing lime cores; the Prism clutch holds faceted chrome with cyan refractions; real skin micro-texture with peach-fuzz at the jaw catching rim light; one cyan-lit dust mote crossing the key.
 
 SPOKEN LINE: NONE — silent frame, lips parted in awe, no speech.
 
@@ -327,9 +327,9 @@ IDENTITY (locked): Aira — same person every frame; face, bone structure, eye s
 SHOT TYPE: medium-full, subject filling about 70% of the vertical frame.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Medium-full: a steady 5% push holds as she lifts a conducting hand and a wave of glossy split-flap panels is already rippling down from her shoulders; gaze tracking the cascade.
-- [00:02–00:04] The panels flip top-to-bottom in a clean cascade, the wardrobe, footwear, accessories, hair and makeup-accent locking from cyan into the Ultraviolet Latex look (face pin-locked, panels never crossing the face), the seamless re-gelling cyan to ultraviolet.
-- [00:04–00:06] The final lower row flips and the magenta boots lock as she settles into a confident planted stance, the look completing; eyes sharpening.
+- [00:00–00:02] Cut to medium-full, subject filling about 70% of the vertical frame — HELD angle (Veo first frame = the clean Liquid Cyan still): she is already in motion in the Liquid Cyan look — the change NOT yet begun, the angle fixed for the whole clip; coiling into the on-beat change.
+- [00:02–00:04] The change BEGINS here, mid-clip: a clean Split-Flap Flip-Board Cascade flips the Liquid Cyan look to the Ultraviolet Latex look in one continuous motion — crisp and motivated, never a muddy blend (angle held, identity locked).
+- [00:04–00:06] The change completes and the look settles fully into the Ultraviolet Latex of the Veo last-frame still (Frame 5's image), resolved and held; she lands a confident on-beat pose, eyes alight.
 
 LENS: 50mm, f/2.8, creamy ultraviolet fall-off.
 
@@ -421,21 +421,21 @@ NEGATIVE: identity drift, face or hand warp, extra or fused fingers, duplicate p
 
 IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
 
-TRANSFORM KEYFRAME NOTE: this is the third and grandest change-beat — the magic moment. Luminous liquid-gold light-ribbons unfurl from the floor and spiral-bloom upward around her, wrapping the ultraviolet latex and resolving into the Molten Gold finale gown as they settle (identity-through-transform). KEYFRAME-LOCK: the face, hairline, eye position and skin texture are identical to the prior frames — only the wardrobe, footwear, accessories, hair-styling and makeup-accent change. PHYSICS-VIOLATION PARENTHETICAL: the light-ribbons spiral upward against gravity, weightless and self-luminous, trailing gold sparks that hang briefly in the air (this is the one permitted impossible beat). No melting of features, no limb drift, no second subject. Cause → effect reads cleanly: ribbons bloom up → gold gown wraps on → finale locks.
+TRANSFORM KEYFRAME NOTE: the Magic Beat — Unfurling Light-Ribbon Bloom (Ultraviolet Latex → Molten Gold) — the magical change-beat — contained MID-CLIP inside this one frame at a HELD angle. This is the START frame of the transform CLIP — render her fully in the clean Ultraviolet Latex look (the exact still the Frame-6 video opens on, and Veo's FIRST frame), the change NOT yet begun. The change happens MID-CLIP at this same held angle — a clean Magic Beat — Unfurling Light-Ribbon Bloom flips the Ultraviolet Latex look to the Molten Gold look in one continuous motion — settling into Frame 7's Molten Gold image (Veo's LAST frame); the camera may travel with her but never rotates its angle through the change. Face, bone-structure, eye colour and hair stay locked to the reference. Do NOT depict the change in this still and do NOT invent a second Aira, a new face or new hands.
 
 VISUAL-LEAD NOTE: the hero beat is the light-ribbon bloom at full unfurl — ribbons of liquid gold light spiralling up around her body mid-wrap, the ultraviolet receding as the molten-gold gown resolves from the ribbons, gold sparks suspended in the air, her face serene and lit from the gold glow; magical, luminous, the single physics-defying showpiece, never muddy.
 
-WARDROBE (mid-change — magical): luminous liquid-gold light-ribbons spiral up the body and wrap into a draped molten-gold column gown — the lower body already resolved into the liquid-gold metallic drape catching mirror speculars, the mid-section still half light-ribbon mid-wrap, the upper ribbons just reaching the shoulder; the receding ultraviolet flashing one last clean specular against the igniting gold, zero muddy blend, the gold reading rich and saturated.
+WARDROBE (clean Ultraviolet Latex — intact, the change not yet begun): an ultraviolet-to-magenta high-gloss latex mini with sculptural exaggerated shoulders, the patent surface a mirror of hard wet speculars sliding clean over every curve, ultraviolet and magenta reading in crisp saturated gradient with zero muddy blend; the sculptural shoulder-line catching a sharp rim, the hem crisp, the latex pristine and squeak-tight.
 
-FOOTWEAR (changing — F #16): the lowest ribbons resolve first, the magenta thigh-boots dissolving into gold strappy sky-high sandals, the metallic straps catching pin-sharp speculars, a warm gold reflection in the mirror floor.
+FOOTWEAR: magenta high-gloss patent thigh-high boots, the latex throwing a long sharp wet specular up the leg, a clean magenta reflection in the mirror floor; pristine, mirror-bright, a pointed sculptural toe.
 
-ACCESSORIES (changing — C #16 + constant hero): the ultraviolet bangles and chrome ear-cuffs dissolve into a sculptural gold collar, stacked gold cuffs and gold drop earrings forming from the settling ribbons; the constant Prism chrome clutch stays in her hand throughout, its facets blazing molten-gold refractions at the bloom's peak.
+ACCESSORIES (hero): chunky ultraviolet acrylic bangles stacked at one wrist catching internal light-refractions; sculptural chrome ear-cuffs climbing the ear with travelling sheen; and the constant hero — the faceted Prism chrome clutch held at a sharp angle, its facets flashing ultraviolet-magenta refractions.
 
-HAIR (restyling — slicked bob → soft gold-lit waves): as the upper ribbons settle, the slicked bob unfurls into soft luminous gold-lit waves catching the ribbon glow, a clean hairline, real strands legible; colour and face locked.
+HAIR (ook C slicked wet bob-illusion): a slicked wet-look bob-illusion tucked sharp behind the ears, mirror-gloss lacquer, a razor-clean hairline and a hard side-sheen band; colour and face locked, real strands legible under the gloss.
 
-MAKEUP (restyling — Look C → Look D): the smoky ultraviolet resolves into a warm gold-glow eye with stacked gold highlight; the ombré lip flips to a glossy warm gold-nude; chrome highlight warms to gold; glass skin kept dewy and real with visible pores, no plastic over-smoothing.
+MAKEUP (ook C): a smoky ultraviolet wash blended up the lid into a clean diffused halo; a glossy ultraviolet-to-magenta ombré lip with a wet light-point; sharp chrome highlight on the cheekbone, brow-bone and nose-tip; cool sculpted contour; glass skin dewy and real with visible pores, no plastic over-smoothing.
 
-EYE COLOUR: locked to the Aira reference — warm hazel-brown with a soft amber inner ring; zero drift, both irises matched, no heterochromia. Warm gold catchlights from the ribbon glow allowed; iris colour never changes and never turns gold.
+EYE COLOUR: locked to the Aira reference — warm hazel-brown with a soft amber inner ring; zero drift, both irises matched, no heterochromia; fierce direct gaze, ultraviolet catchlights allowed, iris colour never changes and never picks up the ultraviolet shadow.
 
 HANDS & NAILS: right hand holding the Prism clutch through the bloom, left hand lifted and open as a ribbon spirals through the fingers; the ultraviolet nails resolving to a glossy gold; short squared nails, natural nail-bed colour, cuticles neat, no fused or extra fingers.
 
@@ -443,24 +443,24 @@ FACIAL MICRO-DYNAMICS: lips parted about 2mm on a serene awed breath; eyes brigh
 
 BODY POSTURE & WEIGHT: an elevated graceful stance — weight rising onto the balls of the feet as the gold sandals lock, torso lengthening upward into the bloom, one arm lifted into the ribbons, spine long and alive (AZ elevation); momentum legible, weightless but never frozen-stiff.
 
-KINETIC STILLNESS (8 layers): (1) the gold light-ribbons spiralling up mid-bloom; (2) gold sparks suspended in the air around her; (3) the molten-gold gown resolving from the lower ribbons; (4) the hair unfurling into gold-lit waves; (5) chest held at the top of an awed breath; (6) liquid-gold speculars sliding across the resolving drape; (7) a baby-hair lifting in the ribbon updraft; (8) the gold drop earrings forming and settling at the jaw.
+KINETIC STILLNESS (8 layers): (1) the latex still settling a hard specular-slide over the shoulder-line; (2) the slicked hair holding a travelling side-sheen; (3) a faint baby-hair at the temple; (4) ultraviolet haze drifting up-frame; (5) chest held at the top of a powerful breath; (6) the ultraviolet bangles micro-settling on the wrist; (7) a chrome ear-cuff glint travelling the ear; (8) the boot-latex catching a sliding specular up the leg.
 
-SPATIAL LOGIC: FOREGROUND — a near light-ribbon and her lifted open hand at about 15% depth, glowing soft. MIDGROUND — Aira centered, the gold gown resolving up the body. BACKGROUND — the seamless re-gelling from ultraviolet to warm gold through the bloom, one bright gradient hotspot behind the head for separation, high-gloss mirror floor reflection catching the gold glow, clean and seamless.
+SPATIAL LOGIC: FOREGROUND — the angled Prism clutch and clutch hand at about 18% depth, tack sharp. MIDGROUND — Aira centered, three-quarter to full torso in the power stance. BACKGROUND — ultraviolet-gelled seamless with one bright gradient hotspot behind the head for separation, high-gloss mirror floor reflection, clean and seamless.
 
-LIGHTING: KEY — clamshell beauty softbox holding the face evenly lit and locked. FILL — white bounce lifting under-chin clean. RIM — a warm gold rim igniting from the ribbon glow itself. PRACTICAL — the self-luminous gold light-ribbons casting clean warm light onto her skin and gown. SEPARATION — cyclorama one stop down. BOUNCE — a gold kick lighting the molten drape so its colour reads rich and clean.
+LIGHTING: KEY — a crisp beauty softbox holding the face evenly lit. FILL — white bounce lifting under-chin clean. RIM — a magenta-gelled hair-light hard-edging the crown and shoulder-line. PRACTICAL — none. SEPARATION — cyclorama one stop down. BOUNCE — a magenta kick keeping the latex saturated and clean.
 
 FRAMING: ASPECT 9:16; medium-full to catch the head-to-floor bloom, 8% headroom, clean space above for the ribbons to spiral into.
 SUBJECT FRAMING & POSITION: A medium-full framing holds Aira head-to-floor with 8% headroom to catch the full light-ribbon bloom, clean space left open above her for the ribbons to spiral into. Her stance lifts and elevates — weight rising onto the balls of the feet as the gold sandals lock, the torso lengthening upward into the bloom and one arm raised open into the ascending ribbons, the Prism clutch held in the other hand. The camera holds a mid-full distance, the column of spiralling gold drawing the eye up. She is centred with the bloom radiating around and above her. She faces front with the chin lifted a degree and the eyes raised serenely into the gold light rather than to the lens. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 LENS + DOF + BOKEH: 50mm, f/2.8; focus locked on her near eye with the ribbons and sparks crisp around her; background a creamy gold field with warm sparkle bokeh; soft specular blooms off the gold and the suspended sparks; gentle highlight roll-off, no clipping.
 
-COMPOSITION REFERENCE: magical high-fashion transformation hero — a luminous light-ribbon bloom resolving a finale gown, awe-inducing and phone-stopping.
+COMPOSITION REFERENCE: the held beat before the Magic Beat — Unfurling Light-Ribbon Bloom — the clean Ultraviolet Latex look, the change about to fire on the cut.
 
-ATMOSPHERE: magical, luminous, transcendent — the air alive with spiralling gold light and suspended sparks.
+ATMOSPHERE: charged, kinetic, pop — the on-beat instant before Ultraviolet Latex flips to Molten Gold.
 
-COLOR GRADE: vibrant maximal pop — receding ultraviolet igniting cleanly into rich saturated molten gold, clean whites, blacks rich but never crushed, full detail, zero grain, no milky blacks, no muddiness.
+COLOR GRADE: vibrant maximal pop — saturated ultraviolet and magenta in crisp balance, clean whites, blacks rich but never crushed, full detail, zero grain, no milky blacks, no muddiness.
 
-TEXTURE & MICRO-DETAIL: the light-ribbons read as self-luminous liquid-gold with clean glowing edges and crisp suspended sparks; the molten-gold gown shows liquid-metal speculars with clean colour; the Prism clutch holds faceted chrome blazing gold; real skin micro-texture with peach-fuzz at the jaw catching the warm rim; gold motes drifting through the key.
+TEXTURE & MICRO-DETAIL: the latex reads wet-glossy with hard pin-sharp speculars and clean colour separation; the acrylic bangles show internal light-refractions; the Prism clutch holds faceted chrome with ultraviolet refractions; real skin micro-texture with peach-fuzz at the jaw catching rim light; one ultraviolet-lit dust mote crossing the key.
 
 SPOKEN LINE: NONE — silent frame, lips parted in awe, no speech.
 
@@ -473,9 +473,9 @@ IDENTITY (locked): Aira — same person every frame; face, bone structure, eye s
 SHOT TYPE: medium-full, subject filling about 65% of the vertical frame.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Medium-full: a slow 6% crane-rise is already following the bloom as she lifts an arm and the first gold light-ribbons spiral up from the floor; gaze lifting with the ribbons.
-- [00:02–00:04] The crane rides the bloom as the ribbons wrap the ultraviolet away and resolve the molten-gold gown, footwear, accessories, hair and makeup-accent (face pin-locked, ribbons never crossing the face), gold sparks suspending, the seamless re-gelling to gold; eyes widening in awe.
-- [00:04–00:06] The last ribbons settle into the draped gold gown as she rises onto the balls of her feet into the finished finale glow; a radiant awe landing.
+- [00:00–00:02] Cut to medium-full, subject filling about 65% of the vertical frame — HELD angle (Veo first frame = the clean Ultraviolet Latex still): she is already in motion in the Ultraviolet Latex look — the change NOT yet begun, the angle fixed for the whole clip; coiling into the on-beat change.
+- [00:02–00:04] The change BEGINS here, mid-clip: a clean Magic Beat — Unfurling Light-Ribbon Bloom flips the Ultraviolet Latex look to the Molten Gold look in one continuous motion — crisp and motivated, never a muddy blend (angle held, identity locked).
+- [00:04–00:06] The change completes and the look settles fully into the Molten Gold of the Veo last-frame still (Frame 7's image), resolved and held; she lands a confident on-beat pose, eyes alight.
 
 LENS: 50mm, f/2.8, creamy gold fall-off with warm sparkle bokeh.
 
