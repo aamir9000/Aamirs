@@ -1030,6 +1030,93 @@ BEATSLM[12] = [
 ]
 
 
+BEATSLM[13] = [
+    # F1 - loungewear Look A establishing (GRWM contained), alive lateral track, glass of water
+    (
+        "Cut to a medium-wide thigh-up tracking shot in the cool pre-dawn apartment: the camera "
+        "dollies laterally to settle on her as she settles her weight onto the back leg and "
+        "cradles the glass of water soft at her chest, the wide pre-dawn window and rolled yoga "
+        "mat sliding behind with real parallax; a calm sleepy quarter-smile holding.",
+        "The track eases to rest as a loose tendril shifts in the still pre-dawn air and she "
+        "lifts her calm just-woken gaze to lens on a slow inhale, a quiet quarter-smile "
+        "settling.",
+        "She holds, fresh and unhurried in the soft sleep-loungewear, the messy top knot easy, "
+        "eyes calm and soft in the blue pre-dawn light (silent here).",
+    ),
+    # F2 - loungewear, push-with reaching toward the brightening window, cut to a closer three-quarter
+    (
+        "Cut to a medium-close three-quarter: she is already reaching her right hand soft toward "
+        "the brightening window and gently opening her fingers as if to greet the sunrise, as "
+        "the camera pushes with her hand; gaze toward the warming sill.",
+        "The first warm light edges the sill as her gaze wakes with quiet intent and a soft "
+        "micro-smile holds.",
+        "She holds the still beat, eyes waking and calm, the room hushed and blue around her "
+        "(silent here).",
+    ),
+    # F3 - loungewear clean (NO sweep yet), slow arc to a fresh angle, raise hand to greet sunrise
+    (
+        "Cut to a medium chest-up on a fresh three-quarter angle: she raises her hand soft to "
+        "greet the sunrise and draws a slow breath, her left hand easing open, as the camera "
+        "arcs a few degrees and the room swings behind with parallax; gaze lifting.",
+        "The arc settles as her gaze lifts to lens with rising spark and a knowing soft smile "
+        "forms, the sunrise cresting at the window, still in the soft morning loungewear.",
+        "She holds the poised loungewear beat, hand raised to greet the light, eyes bright and "
+        "ready \u2014 the breath before the sunrise sweep (silent here).",
+    ),
+    # F4 - THE TRANSFORM, HELD ANGLE, smooth mid-clip sunrise sweep; first=loungewear, last=active
+    (
+        "Cut to an energized medium at a HELD angle (Veo first frame = the sleep-loungewear "
+        "Look A still): she eases her hand from greeting the sunrise, already in motion \u2014 "
+        "still the soft sleep-loungewear, NO sweep yet, a gentle push-with easing in, the angle "
+        "fixed for the whole clip.",
+        "The sweep BEGINS here, mid-clip: a single travelling sunrise-light sweep rolls smoothly "
+        "across the room and over her in one continuous front, the soft tee and lounge shorts "
+        "resolving into the modest active set \u2014 full-coverage leggings, a loose long-line "
+        "sports top and a light zip layer \u2014 exactly where the sweep passes, the room "
+        "brightening pre-dawn to sunrise along the same front, cloth resolving with believable "
+        "spread and inertia, gradual and smooth, never a snap; the messy top knot catching "
+        "travelling warm-light, eyes brightening in fresh awe (angle held, face cleanly lit, "
+        "identity locked).",
+        "The sweep completes its roll and the look settles smoothly and fully into the active "
+        "morning Look B of the Veo last-frame still (Frame 5's image) \u2014 the modest active "
+        "set with clean training shoes, a sleek smartwatch and a water bottle under warm "
+        "sunrise light, resolved and held through the final beat, no last-second pop; a bright "
+        "grounded resolve landing in her eyes.",
+    ),
+    # F5 - active Look B reveal, cut to a NEW angle, bring up the water bottle
+    (
+        "Cut to a medium close on a new angle in the warm sunrise-lit room: she is already in "
+        "the clean active morning look, bringing the water bottle up with an easy roll of the "
+        "shoulder; gaze easing to lens.",
+        "A bright calm smile eases to lens on a slow breath, the last warm dust-motes settling "
+        "in the sunrise glow, eyes bright and direct.",
+        "She holds the alive ready look, the active set sitting clean, eyes bright and grounded "
+        "(silent here).",
+    ),
+    # F6 - spoken line, cut to a fresh angle, push-with the turn
+    (
+        "Cut to a medium chest-up on a fresh angle: she shifts her weight with an easy "
+        "six-degree turn and opens her right hand in a relaxed grounded gesture as the camera "
+        "eases with her; gaze direct to lens.",
+        "She delivers \u201c5 AM. This is my hour.\u201d to lens with a bright calm smile and "
+        "natural lip-sync, the light zip layer and smartwatch settling, eyes warm and direct.",
+        "She holds the alive ready look as the active set settles, the smile easing into "
+        "grounded calm.",
+    ),
+    # F7 - loop close, cut back to match Frame 1 loungewear + glass of water
+    (
+        "Cut to a medium-wide thigh-up matched to Frame 1: she returns her right hand to cradle "
+        "the glass of water at her chest and settles her weight onto the back leg exactly as in "
+        "Frame 1 as the camera settles to the opening framing.",
+        "She eases her calm gaze back to lens on a slow breath with the composed sleepy "
+        "micro-smile, the warm sunrise active look resolving back toward the soft pre-dawn "
+        "loungewear opening to seed the loop.",
+        "She lands precisely on the Frame 1 pose and gaze, fresh and unhurried in the pre-dawn "
+        "hush \u2014 a seamless loop seam.",
+    ),
+]
+
+
 def build_block(beats):
     return (
         BREAKDOWN_HEADER + "\n"
