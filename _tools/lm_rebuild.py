@@ -2381,6 +2381,88 @@ BEATSLM[38] = [
 ]
 
 
+BEATSLM[39] = [
+    # F1 - bold graphic op-art hero (contained, product-at-face), push-in
+    (
+        "Cut to a medium-close chest-up in the graphic op-art studio: she is already cradling "
+        "the op-art striped Optic tube at her collarbone as a slow push eases in, the bold "
+        "black-and-white concentric backdrop and one electric pop-color accent behind her, a "
+        "slow kaleidoscope light-play drifting; her left hand easy near her jaw.",
+        "The push settles as a strand of the glossy bob catches the crisp key and her bright "
+        "gaze eases to lens, the op-art pattern crisp behind, a knowing playful quarter-smile "
+        "settling.",
+        "She holds the bold graphic op-art look, the geometric top holding clean edges, eyes "
+        "bright and direct (the line lands later).",
+    ),
+    # F2 - build, lip-and-liner snap, first facets mirroring; rack-focus product->eye
+    (
+        "Cut to a medium-close three-quarter, a rack-focus pulling from the tube to her eye: she "
+        "is already snapping the chrome Optic cap and sweeping the bold liner-flick crisp at her "
+        "eye as the first op-art facets begin to mirror in the light around her; gaze cast soft "
+        "to the tube.",
+        "The crisp graphic flick lands sharp at her eye as her gaze brightens with playful focus "
+        "and a knowing micro-smile kindles, the kaleidoscope light beginning to turn behind "
+        "her.",
+        "She holds the liner poised at her eye, eyes bright and mod-cool, the graphic op-art "
+        "look intact (silent here).",
+    ),
+    # F3 - START clean (facets beginning to mirror, NO full split yet), slow arc
+    (
+        "Cut to a medium chest-up on a fresh three-quarter angle: she eases the tube down and "
+        "opens her hand soft as the op-art facets begin to mirror and turn, drawing a slow "
+        "breath as the camera arcs a few degrees and the backdrop swings behind with parallax; "
+        "gaze lifting.",
+        "The arc settles as her gaze lifts to lens with rising playful spark and a knowing "
+        "micro-smile forms, the op-art pattern and light beginning to fracture and mirror into "
+        "slow kaleidoscope facets around her, her single face clear and unmirrored, still the "
+        "graphic op-art look.",
+        "She holds the poised mod beat, the facets just beginning to turn, eyes bright and "
+        "hypnotic \u2014 the hush before the kaleidoscope split (silent here).",
+    ),
+    # F4 - THE TRANSFORM, HELD ANGLE, smooth mid-clip world-fracture (NOT her face); first=op-art, last=full-kaleidoscope
+    (
+        "Cut to an energized medium at a HELD angle (Veo first frame = the graphic op-art Look A "
+        "still): she holds her bold op-art look, already in motion \u2014 the backdrop still a "
+        "normal op-art pattern, NO kaleidoscope yet, a gentle push-with easing in, the angle "
+        "fixed for the whole clip.",
+        "The kaleidoscope split BEGINS here, mid-clip: the op-art backdrop and light fracture "
+        "and mirror into a slow-spinning kaleidoscope of facets around her in one continuous "
+        "turning pattern, the checkerboard and the electric pop-color folding into true mirrored "
+        "symmetry exactly where it passes \u2014 believable real kaleidoscopic mirror optics "
+        "(the surrounding PATTERN mirrors, never her face), her single face clear, centred and "
+        "locked (NEVER multiplied, mirrored or duplicated), eyes bright with hypnotic delight "
+        "(angle held, identity locked).",
+        "The split completes and the look settles smoothly and fully into the full-kaleidoscope "
+        "after-look of the Veo last-frame still (Frame 5's image) \u2014 a slow-spinning op-art "
+        "kaleidoscope turning around her single locked face, resolved and held through the final "
+        "beat, no last-second pop; a bright playful calm landing in her eyes.",
+    ),
+    # F5 - END full-kaleidoscope reveal, hand to tube, spoken line
+    (
+        "Cut to a medium close on a new angle in the turning kaleidoscope: she is already "
+        "centred in the full op-art kaleidoscope, easing her right hand back toward the Optic "
+        "tube at her collarbone with an easy roll of the shoulder, her single face clear and "
+        "unmirrored; gaze bright to lens.",
+        "She delivers \u201csee the world in motion.\u201d to lens with a knowing playful smile "
+        "and natural lip-sync, the kaleidoscope facets turning slow around her, eyes bright and "
+        "hypnotic.",
+        "She holds the full-kaleidoscope graphic look, her single face locked and the tube "
+        "cradled soft, eyes bright and direct.",
+    ),
+    # F6 - loop close, cradle tube matched to F1
+    (
+        "Cut to a medium-close chest-up matched to Frame 1: she returns her right hand to cradle "
+        "the op-art striped Optic tube soft at her collarbone and her left easy near her jaw "
+        "exactly as in Frame 1 as the camera settles to the opening framing.",
+        "She eases her bright gaze back to lens on a soft breath with the composed playful "
+        "quarter-smile, the kaleidoscope resolving back toward the opening normal op-art pattern "
+        "to seed the loop.",
+        "She lands precisely on the Frame 1 pose and gaze, bright and mod in the graphic studio "
+        "\u2014 a seamless loop seam.",
+    ),
+]
+
+
 def build_block(beats):
     return (
         BREAKDOWN_HEADER + "\n"
