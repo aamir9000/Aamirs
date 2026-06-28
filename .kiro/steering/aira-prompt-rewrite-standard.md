@@ -781,12 +781,50 @@ fragrance (06,07) gentle motion.
 
 
 ====================================================================
+## N. BACKGROUND PRESENCE & FIGURE-TO-GROUND BALANCE (every reel, every concept)
+====================================================================
+(Decided with the user. STANDING RULE, additive on top of A-M; applies to ALL concepts in ALL
+folders and to PASS 1, PASS 2 and the FINAL VERIFICATION. The user is emphatic about this.)
+- The BACKGROUND / WORLD is a CO-STAR with its own significance, never wallpaper. Each concept's
+  environment carries story, place, scale and mood and MUST be rendered at its FULLEST POTENTIAL in
+  the frames where that is appropriate. If a reel never shows its background properly, an important
+  pillar is missing.
+- NEVER let the subject so fill or dominate the frame that the background is effectively gone across
+  the reel. This must NEVER happen in any reel, in any concept.
+- Compose for deliberate PROPORTION: subject AND background both read, in balance. The hero still
+  reads FIRST (focus, light, hierarchy — section I), but the world stays present and legible — clear
+  figure-to-ground separation WITH the world shown, not the world erased.
+- Guarantee a spread across the 6-8 frames that honours the world: at least one true ESTABLISHING
+  WIDE and at least one ENVIRONMENT-DOMINANT / FAR placement (background is the larger area, subject
+  smaller in frame), plus balanced mediums where world + subject share the frame. Tight ECU/CU crops
+  are welcome for VARIETY and intimacy but must be the MINORITY, not the default across the reel.
+- Build real DEPTH: foreground / midground / background layers, leading lines, anchored world +
+  parallax (M.3), the environment supporting and framing the hero. Never a floating subject on an
+  empty, ignored or blown-out backdrop. Top-notch = subject and world composed together.
+- Some frames legitimately cannot show the full background (a transform hero beat, a face ECU) — that
+  is fine; do it WISELY so that across the WHOLE reel the background is given its due in the frames
+  that suit it.
+
+### N.1 — BEAUTY AD REELS: ADD REAL MOTION INCLUDING WALKING (theme-appropriate)
+(Decided with the user.) The Beauty Ad reels (CONCEPTS/Beauty/20 Beauty Ad Reels ...) must carry
+REAL MOTION — including WALKING / striding through the set — wherever the concept's theme makes it
+appropriate, not a static beauty hold. Apply PER CONCEPT BY THEME: where walking/movement suits the
+look (entrances, runway feel, lifestyle/editorial beats) use it; genuine application/beauty-still
+moments may stay contained. This is a REVISIT of the earlier Beauty Ad treatment → add motion + the
+section-N background balance, and align with the PASS-2 full-body motion model (M.6-M.8).
+
+====================================================================
 ## *** CURRENT STATE & TWO-PASS PLAN — READ THIS FIRST ON RESUME (most recent) ***
 ====================================================================
 Branch aira-prompts-enhanced. Folders: CONCEPTS/{Transformation, Beauty, Surreal, Action,
 Time-Freeze, Travel-Scenic, Product} (see FOLDER STRUCTURE near top). Push via github power
 push_to_remote (path /projects/sandbox/Aamirs, owner aamir9000, repository_name Aamirs,
 remote_branch_name aira-prompts-enhanced). Commit per concept.
+
+GLOBAL RULES (apply to EVERY concept, both passes, and final verify): section N BACKGROUND PRESENCE
+& FIGURE-TO-GROUND BALANCE (the world is a co-star — show it at full potential, never let the
+subject erase the background; guarantee establishing-wide + env-dominant frames per reel) and
+section N.1 BEAUTY AD reels get real motion incl. WALKING where the theme suits.
 
 There are TWO sequential passes. FINISH PASS 1 across ALL transformation concepts/files BEFORE
 starting PASS 2.
@@ -889,6 +927,12 @@ STRUCTURAL INTEGRITY (every file):
     0 non-negated slow-mo/slow-motion.
   - identity-lock count == video-prompt count; image ORIENTATION LOCK count == image-prompt count.
   - Spoken lines preserved (quoted) where the concept is spoken; silent concepts have no VO.
+
+BACKGROUND / FIGURE-TO-GROUND (section N — every concept, every folder):
+  - The reel SHOWS its world: at least one establishing-wide and one environment-dominant/far frame
+    where the background is the larger area; subject never dominates so hard that the background is
+    erased across the reel; tight ECU/CU are the minority; real fg/mg/bg depth + anchored parallax.
+  - Beauty Ad reels (N.1): real motion incl. WALKING present where the concept theme suits it.
 
 Report each file as PASS or list the exact failing check + line; remediate; commit the fixes;
 then mark the whole project COMPLETE in this tracker.
