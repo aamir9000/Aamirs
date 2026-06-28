@@ -1117,6 +1117,95 @@ BEATSLM[13] = [
 ]
 
 
+BEATSLM[14] = [
+    # F1 - spa Look A establishing (beauty-still contained), alive lateral track, serum at collarbone
+    (
+        "Cut to a medium-wide thigh-up tracking shot on the soft minimalist beauty set: the "
+        "camera dollies laterally to settle on her as she settles her weight onto the back leg "
+        "and holds the glass serum bottle soft at her collarbone, the soft white-to-pastel "
+        "seamless backdrop and vanity sliding behind with real parallax; a serene soft "
+        "quarter-smile holding.",
+        "The track eases to rest as a glossy strand of the pin-straight micro-fringe shifts in "
+        "the soft studio air and she eases her calm gaze to lens, fine dew-droplets drifting, a "
+        "soft luminous quarter-smile settling.",
+        "She holds, soft and dewy in the spa wrap, the pin-straight micro-fringe glossy, eyes "
+        "soft and luminous in the clean beauty light (silent here).",
+    ),
+    # F2 - spa, push-with lifting serum to cheekbone, cut to a closer three-quarter
+    (
+        "Cut to a medium-close three-quarter: she is already lifting the serum soft toward her "
+        "cheekbone as if to apply it, fingertips gently open, as the camera pushes with her "
+        "hand; gaze cast soft to the serum.",
+        "A clean dewy sheen gathers along her cheekbone as her gaze softens with quiet focus "
+        "and a soft luminous micro-smile kindles.",
+        "She holds the serum poised at her cheekbone, eyes soft and dewy, the spa look soft and "
+        "intact (silent here).",
+    ),
+    # F3 - spa clean (NO bloom yet), slow arc to a fresh angle, ease hand from cheek as glow crests
+    (
+        "Cut to a medium chest-up on a fresh three-quarter angle: she eases her hand from her "
+        "cheek as the dewy glow crests and draws a slow breath, her left hand easing open, as "
+        "the camera arcs a few degrees and the backdrop swings behind with parallax; gaze "
+        "lifting.",
+        "The arc settles as her gaze lifts to lens with rising soft spark and a knowing "
+        "luminous smile forms, the dewy glow cresting on her skin, still in the soft spa look.",
+        "She holds the poised spa beat, the glow cresting at her cheek, eyes soft and bright "
+        "\u2014 the breath before the glass bloom (silent here).",
+    ),
+    # F4 - THE TRANSFORM, HELD ANGLE, smooth mid-clip glass-glow wave; first=spa, last=glass-skin
+    (
+        "Cut to an ethereal medium at a HELD angle (Veo first frame = the soft-spa Look A "
+        "still): she eases her hand down from her cheek, already in motion \u2014 still the soft "
+        "spa wrap and dewy bare skin, NO bloom yet, a gentle push-with easing in, the angle "
+        "fixed for the whole clip.",
+        "The glass bloom BEGINS here, mid-clip: a single travelling dewy glass-glow wave rolls "
+        "smoothly over her skin in one continuous front, the soft spa wrap resolving into the "
+        "sleek ivory editorial top and the bare skin blooming to a luminous lit-from-within "
+        "glass-skin finish exactly where the wave passes \u2014 real skin-and-light physics, "
+        "true pores and fine vellus texture kept beneath the glow (never plastic, never "
+        "over-smoothed), gradual and soft, never a snap; the pin-straight micro-fringe catching "
+        "travelling clean light, eyes softening in luminous wonder (angle held, face cleanly "
+        "lit, identity locked).",
+        "The glass-glow wave completes its roll and the look settles smoothly and fully into "
+        "the luminous glass-skin Look B of the Veo last-frame still (Frame 5's image) \u2014 "
+        "the sleek ivory editorial top with a clean lit-from-within glow under crisp beauty "
+        "light, resolved and held through the final beat, no last-second pop; a soft luminous "
+        "calm landing in her eyes.",
+    ),
+    # F5 - glass-skin Look B reveal, cut to a NEW angle, hand drifts to jaw to show the finish
+    (
+        "Cut to a medium close on a new angle in the crisp luminous beauty light: she is "
+        "already in the luminous glass-skin finish, drifting her right hand soft to her jaw to "
+        "show the glow with an easy roll of the shoulder; gaze easing to lens.",
+        "A soft luminous smile eases to lens on a slow breath, the last dew-droplets settling "
+        "with a clean glint, eyes soft and shining.",
+        "She holds the clean luminous look, the glass-skin glow even and real, eyes soft and "
+        "direct (silent here).",
+    ),
+    # F6 - spoken line, cut to a fresh angle, push-with the turn
+    (
+        "Cut to a medium chest-up on a fresh angle: she shifts her weight with an easy "
+        "six-degree turn and opens her right hand in a soft clean gesture as the camera eases "
+        "with her; gaze direct to lens.",
+        "She delivers \u201cGlass skin. No filter.\u201d to lens with a soft luminous smile and "
+        "natural lip-sync, the fine ear studs catching a clean glint, eyes soft and direct.",
+        "She holds the clean luminous look as the editorial top settles, the smile easing into "
+        "soft calm.",
+    ),
+    # F7 - loop close, cut back to match Frame 1 spa + serum bottle
+    (
+        "Cut to a medium-wide thigh-up matched to Frame 1: she returns her right hand to hold "
+        "the glass serum bottle soft at her collarbone and settles her weight onto the back leg "
+        "exactly as in Frame 1 as the camera settles to the opening framing.",
+        "She eases her calm gaze back to lens on a slow breath with the composed luminous "
+        "micro-smile, the crisp editorial light resolving back toward the soft dewy spa opening "
+        "to seed the loop.",
+        "She lands precisely on the Frame 1 pose and gaze, soft and dewy in the clean beauty "
+        "light \u2014 a seamless loop seam.",
+    ),
+]
+
+
 def build_block(beats):
     return (
         BREAKDOWN_HEADER + "\n"

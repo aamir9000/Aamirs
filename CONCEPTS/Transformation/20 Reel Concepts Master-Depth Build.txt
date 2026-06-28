@@ -7369,7 +7369,7 @@ Footwear: LOOK A — soft spa slippers; LOOK B — clean minimal heels set by th
 
 Accessories: one statement per look, never cluttered — LOOK A: a soft spa headband holding the fringe clear; LOOK B: delicate fine ear studs.
 
-Movement (one impossible move): the serum-glow glass bloom — on one beat a single travelling dewy glass-glow wave rolls over her skin and wraps the luminous glass-skin finish (the spa wrap resolving to the editorial top, the skin blooming to a lit-from-within glow) while her face, pin-straight hair and pose hold locked (locked transform keyframes: START Frame 3 = spa look as the glow crests → END Frame 5 = glass-skin finish set, signature beat Frame 4).
+Movement (one impossible move): the serum-glow glass bloom — on one beat a single travelling dewy glass-glow wave rolls over her skin and wraps the luminous glass-skin finish (the spa wrap resolving to the editorial top, the skin blooming to a lit-from-within glow) while her face, pin-straight hair and pose hold constant. The bloom occurs MID-CLIP inside Frame 4 at a HELD angle (the clip opens in the soft spa look with the dewy glow cresting, the glass-glow wave rolls over her mid-clip, settling resolved in the glass-skin finish); soft and continuous, never a last-second pop, real skin texture kept (no plastic); the camera may travel but never shifts its angle. Continuity via Veo first/last-frame: Frame 4's image (spa Look A) = the FIRST frame, Frame 5's image (glass-skin Look B) = the LAST frame. Every other frame join is a hard CUT to a new angle. Frames 1–3 = spa look, Frame 4 = the bloom clip, Frames 5–7 = glass-skin finish. (Beauty-still — contained beauty pose held per M.6.)
 
 Concept Line: “Glass skin. No filter.”
 
@@ -7443,9 +7443,9 @@ SHOT TYPE: medium-wide, thigh-up, subject fills about 55% of the vertical frame.
 LENS: 50mm, f/2.2, smooth clean background fall-off.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Medium-wide thigh-up in the soft minimal spa light: a slow push-in is already gliding toward her as she settles her weight onto the back leg and holds the glass serum bottle soft at her collarbone, a clean light-point on the glass; gaze clear and calm.
-- [00:02–00:04] The push continues as a micro-fringe strand shifts in the soft air and she lifts her clear gaze to lens on a slow inhale, a soft serene quarter-smile settling.
-- [00:04–00:06] She holds, soft and dewy, the pin-straight micro-fringe glossy, eyes clear and luminous (silent here).
+- [00:00–00:02] Cut to a medium-wide thigh-up tracking shot on the soft minimalist beauty set: the camera dollies laterally to settle on her as she settles her weight onto the back leg and holds the glass serum bottle soft at her collarbone, the soft white-to-pastel seamless backdrop and vanity sliding behind with real parallax; a serene soft quarter-smile holding.
+- [00:02–00:04] The track eases to rest as a glossy strand of the pin-straight micro-fringe shifts in the soft studio air and she eases her calm gaze to lens, fine dew-droplets drifting, a soft luminous quarter-smile settling.
+- [00:04–00:06] She holds, soft and dewy in the spa wrap, the pin-straight micro-fringe glossy, eyes soft and luminous in the clean beauty light (silent here).
 
 OBJECT ACTION WITH TIMING: 0.0–6.0s — one soft clean specular travels slowly down the wrap-top shoulder, a fine water droplet glistens on the serum bottle, and the backdrop light shifts soft. Environmental motion only, no object pop-in, still spa-calm.
 
@@ -7496,7 +7496,7 @@ SUBJECT FRAMING & POSITION: A medium close framing holds Aira at about 11% headr
 
 LENS + DOF + BOKEH: 85mm, f/2.0; focus split between her near eye and the serum bottle so both read crisp; the backdrop melting to a smooth clean field; soft clean blooms off the headband glint; gentle roll-off, no clipping.
 
-COMPOSITION REFERENCE: the macro build beat — the serum lifting to the cheek, the glow clearly gathering (cause building to effect).
+COMPOSITION REFERENCE: a macro serum-application beat — soft and poised, the bloom held for the Frame-4 clip.
 
 ATMOSPHERE: still, soft, charged — the suspended instant before the glass-skin glow blooms.
 
@@ -7517,9 +7517,9 @@ SHOT TYPE: medium close, chest-up, subject and lifting hand fill about 58% of th
 LENS: 85mm, f/2.0.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Medium close chest-up: a slow push with a faint drift toward her cheek is already easing in as she lifts the serum soft toward her cheekbone and gently opens her fingertips as if to apply it; gaze softening to the touch.
-- [00:02–00:04] The move settles as her gaze softens with quiet care and a soft micro-smile holds, the skin reading real and dewy under the soft key.
-- [00:04–00:06] She holds the tender beat, eyes soft with care, the spa look calm and soft around her.
+- [00:00–00:02] Cut to a medium-close three-quarter: she is already lifting the serum soft toward her cheekbone as if to apply it, fingertips gently open, as the camera pushes with her hand; gaze cast soft to the serum.
+- [00:02–00:04] A clean dewy sheen gathers along her cheekbone as her gaze softens with quiet focus and a soft luminous micro-smile kindles.
+- [00:04–00:06] She holds the serum poised at her cheekbone, eyes soft and dewy, the spa look soft and intact (silent here).
 
 OBJECT ACTION WITH TIMING: 0.0–6.0s — a soft specular travels along the headband and the first dewy glass-glow gathers at her cheek; fine water-droplets drift behind. Environmental and worn-object motion only, no pop-in.
 
@@ -7539,7 +7539,7 @@ NEGATIVE: identity drift, face or hand warp, extra or fused fingers, duplicate p
 
 ### Frame 3 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the locked START keyframe of the glass bloom — face fully recognizable, still the spa look, the dewy glow cresting ready to wave over her skin. Lock this START so Frame 4’s glass bloom interpolates cleanly to the fully-luminous glass-skin END (Frame 5); the locked element is HER — wave the glow and look around her, never alter her face.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. SHOT NOTE: a clean spa-look (Look A) beat at its OWN cut/angle — the soft spa wrap and dewy bare skin fully intact, the dewy glow cresting on her skin; the bloom does NOT happen here (it happens mid-clip inside Frame 4). Build soft luminous anticipation only.
 
 EYE COLOUR: warm dark-brown irises with faint amber flecks, a catchlight cresting clean and luminous, gaze lifting to lens with soft spark, locked to reference.
 
@@ -7565,12 +7565,12 @@ SPATIAL LOGIC: FOREGROUND — the easing hand and the first glass-glow tendrils 
 
 LIGHTING: KEY — soft clean beauty key feathered above-front, the first luminous glow cresting in. FILL — soft clean bounce below (gentle clamshell). RIM — a clean rim firing the first glass-glow tendrils into clean points. PRACTICAL — the backdrop glow cleaning brighter. SEPARATION — the backdrop deep so she reads about 1 stop up. BOUNCE — a clean kick lighting the glow-tendrils.
 
-FRAMING: ASPECT 9:16; medium, chest-up, 11% headroom, the hand entering the lower third, clean negative space camera-right to receive the bloom. (Camera distance locked here as the transform anchor.)
+FRAMING: ASPECT 9:16; medium, chest-up, 11% headroom, the hand entering the lower third, clean negative space camera-right to receive the bloom.
 SUBJECT FRAMING & POSITION: A medium framing holds Aira at about 11% headroom, the hand entering the lower third within the glass-skin beauty and serum world. Her torso is turned about five degrees to open the right shoulder in a near-frontal address, with her weight on the back leg over a soft hip counter-tilt and the front shoulder dropped a touch. The camera holds a mid distance with the figure centred and clean clean negative space held camera-right. She faces front to the lens, composed and alive in the beat. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 LENS + DOF + BOKEH: 50mm, f/2.0; focus split between her near eye and the easing hand so both read crisp; the backdrop melting to a smooth field; soft blooms off the first glass-glow tendrils; gentle roll-off, no clipping.
 
-COMPOSITION REFERENCE: the suspended build beat — the dewy glow crests to wave, the glass-skin finish clearly imminent (cause building to effect).
+COMPOSITION REFERENCE: a poised spa beat, the dewy glow cresting on her skin — soft and clean, the bloom held for the Frame-4 clip.
 
 ATMOSPHERE: poised-cleaning, soft, alive — the suspended instant before the glow waves her luminous.
 
@@ -7591,9 +7591,9 @@ SHOT TYPE: medium, chest-up, subject and easing hand fill about 60% of the verti
 LENS: 50mm, f/2.0, smooth background fall-off.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Medium chest-up at the transform anchor: a slow lateral arc is already easing around to a three-quarter angle as she eases her hand from her cheek and draws a slow breath, her left hand easing open; gaze lifting.
-- [00:02–00:04] The arc settles as her gaze lifts to lens with soft spark and a knowing soft smile forms, the first dewy glass-glow cresting at her cheekbone and the glow-tendrils forming along the jaw.
-- [00:04–00:06] The dewy glow gathers and brightens clean, cueing the bloom, her gaze soft and bright.
+- [00:00–00:02] Cut to a medium chest-up on a fresh three-quarter angle: she eases her hand from her cheek as the dewy glow crests and draws a slow breath, her left hand easing open, as the camera arcs a few degrees and the backdrop swings behind with parallax; gaze lifting.
+- [00:02–00:04] The arc settles as her gaze lifts to lens with rising soft spark and a knowing luminous smile forms, the dewy glow cresting on her skin, still in the soft spa look.
+- [00:04–00:06] She holds the poised spa beat, the glow cresting at her cheek, eyes soft and bright — the breath before the glass bloom (silent here).
 
 OBJECT ACTION WITH TIMING: 0.0–6.0s — the spa look refines toward the editorial top and the first glass-glow tendrils form at the cheek and jaw; water-droplets drift and the set cleans at the edges. Environmental motion only, no pop-in.
 
@@ -7613,46 +7613,46 @@ NEGATIVE: identity drift, face or hand warp, extra or fused fingers, duplicate p
 
 ### Frame 4 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the one impossible move — the serum-glow glass bloom. LOCK the START (Frame 3, face clear, spa look, glow cresting) and the END (Frame 5, luminous glass-skin finish). On the beat a single travelling dewy glass-glow wave rolls over her skin and wraps the luminous finish; mid-bloom the face stays clear and cleanly lit (never buried) by the glow; interpolate strictly between the locked keyframes — do NOT invent a new face, new hands or new bone structure beneath the glow, and keep real skin texture (no plastic over-smoothing). Soft and luminous, true skin-and-light physics, smooth not chaotic.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the START frame of the transform CLIP — render her fully in the soft spa Look A (this is the exact still the Frame-4 video opens on, and Veo's FIRST frame): the clean modest robe-style spa wrap over relaxed lounge trousers, dewy bare skin, her hand easing down from her cheek with the dewy glow cresting (the glass bloom NOT yet rolled over her). The glass-glow wave happens MID-CLIP at this same HELD angle (the wave rolls over her skin and resolves into the glass-skin finish), settling into Frame 5's glass-skin image (Veo's LAST frame); the camera may push or travel with her but never rotates its angle through the change. Her face, pin-straight micro-fringe and proportions stay constant, real skin texture kept (no plastic). Do NOT depict the bloom in this still and do NOT invent a new face, new hands or new bone structure.
 
-EYE COLOUR: warm dark-brown irises with faint amber flecks, luminous with clean spark, a clean luminous catchlight, locked to reference (eye colour holds through the bloom).
+EYE COLOUR: warm dark-brown irises with faint amber flecks near the pupil and a soft limbal ring, a clean soft beauty catchlight, gaze easing toward lens, locked to reference.
 
-WARDROBE (refined): the spa wrap refining to the editorial top along the single travelling wave — the robe wrap resolves to the sleek minimal modest ivory top on the beat, modest throughout, never revealing.
+WARDROBE: the soft minimal spa wrap — the clean modest robe-style wrap top over relaxed lounge trousers, high modest neckline, fully modest, soft and dewy, fully intact.
 
-HAIR: the pin-straight hair catching the glass bloom mid-wave, the crown lit clean, the micro-fringe glossy; colour locked beneath the glow.
+HAIR: the sleek pin-straight hair with a soft blunt micro-fringe, glossy and smooth, individual strands reading real; colour locked to reference.
 
-MAKEUP: mid-bloom — the dewy Look-A skin building toward the luminous lit-from-within glass-skin glow on the beat, real pores kept beneath (, never plastic).
+MAKEUP: the skin-first Look-A base — a soft dewy bare skin, a soft groomed brow, a touched balm lip; skin real with visible pores and fine vellus texture, never plastic.
 
-FOOTWEAR: mid-bloom the spa slippers resolve to clean minimal heels along the same wave, continuity of grounding held.
+FOOTWEAR: the soft spa slippers, clean and calm, grounded on the soft set floor, glimpsed low.
 
-ACCESSORIES: the spa headband resolving to delicate fine ear studs on the beat.
+ACCESSORIES: the soft spa headband holding the fringe clear, catching a soft clean glint, the one statement, never cluttered.
 
-HANDS & NAILS: the right hand easing down from the cheek, the left arm open through the bloom; natural nail-beds easing from nude toward a clean groomed nude, neat cuticles, no white-knuckle tension.
+HANDS & NAILS: her right hand easing soft down from her cheek after the serum, fingertips relaxed, the left arm easing open; short almond clean-nude nails, neat cuticles, no white-knuckle tension.
 
-FACIAL MICRO-DYNAMICS: eyes luminous with clean spark, a gentle parted-lip softness, a soft luminous energy — face clear and cleanly lit by the glow, identity strictly held to reference.
+FACIAL MICRO-DYNAMICS: eyes soft with luminous anticipation, lips parting on a held breath, a soft knowing micro-smile — soft and luminous, face fully recognizable and identity-locked, ready for the bloom mid-clip.
 
-BODY POSTURE & WEIGHT: mid-bloom the spine stays long and the shoulders open with clean poise, weight rolling smooth between the feet — grounded real physics, modest throughout.
+BODY POSTURE & WEIGHT: front-facing with the torso rotated about 4°, weight settled on the back leg with a soft 2° hip counter-tilt, chin level, spine long — grounded real physics, the soft dewy centre before the bloom.
 
-KINETIC STILLNESS (8 layers): (1) the glass-glow wave rolling over her skin in a smooth travelling wave; (2) the editorial top resolving across her shoulders; (3) the pin-straight hair and the air catching travelling clean-light mid-bloom; (4) fine dewy droplets sparkling through the field along the wave; (5) the glass-skin finish resolving where the dewy skin was; (6) soft speculars multiplying along the skin-highs; (7) the key cleaning dewy-to-luminous through the bloom; (8) her chest mid a slow soft breath.
+KINETIC STILLNESS (8 layers): (1) a glossy micro-fringe strand shifting a millimetre in the soft studio air; (2) the dewy glow cresting clean on her cheek; (3) the soft beauty set holding calm behind; (4) fine dew-droplets drifting in the diffused light; (5) chest rising on a soft inhale; (6) a soft clean glint on the spa headband; (7) the spa wrap breathing with a micro-shift of fabric as her ribcage expands; (8) a slow eyelash settle completing a soft blink.
 
-SPATIAL LOGIC: FOREGROUND — the easing hand and the nearest dewy droplet nearest lens, soft. MIDGROUND — Aira mid-bloom, the glass-skin finish assembling, the hero. BACKGROUND — the set cleaning dewy-to-luminous with a soft clean bloom.
+SPATIAL LOGIC: FOREGROUND — the easing hand nearest lens at roughly 18% depth, soft. MIDGROUND — Aira centred, the soft dewy hero before the bloom. BACKGROUND — the soft white-to-pastel seamless backdrop and vanity softly defocused, dewy and clean, no clutter.
 
-LIGHTING: KEY — key cleaning dewy-to-luminous through the bloom. FILL — soft clean bounce below (gentle clamshell). RIM — a clean rim raking the skin-highs and the pin-straight hair (hero light on the bloom). PRACTICAL — the backdrop glow flaring clean on the beat. SEPARATION — the wave and faint dewy droplets. BOUNCE — clean kicks multiplying across the droplets off a beauty card.
+LIGHTING: KEY — a soft diffused dewy beauty key feathered above-front. FILL — a soft clean bounce below (gentle clamshell). RIM — a soft rim skimming the pin-straight hair and the spa-wrap shoulder. PRACTICAL — the soft backdrop glow. SEPARATION — the backdrop pulled deep so she reads about 1 stop up. BOUNCE — a soft clean kick off a beauty card.
 
-FRAMING: ASPECT 9:16; energized medium, Aira centred with the glass-glow wave filling the frame, 10% headroom, slight push for intimacy. (Camera distance locked to Frames 3 and 5.)
-SUBJECT FRAMING & POSITION: An energized medium framing opens around Aira at about 10% headroom as the glass-glow wave fills the lower frame, a slight push easing in. Her spine lengthens and her shoulders open as the weight rolls smooth between the feet in grounded real-physics motion. The camera holds a mid distance easing in for intimacy against the glass-skin beauty and serum world, Aira the centred hero at the heart of the move. She is centred with clean negative space held camera-left, lifted at the peak of the transform and facing front to the lens. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+FRAMING: ASPECT 9:16; energized medium, Aira centred on the soft beauty set, 10% headroom — its own distinct cut/angle.
+SUBJECT FRAMING & POSITION: An energized medium framing opens around Aira at about 10% headroom on the soft minimalist beauty set, the soft spa look fully intact as the transform clip begins. Her torso is turned about four degrees with the weight on the back leg over a soft hip counter-tilt. The camera holds a mid distance on its own fresh angle, a hard cut from Frame 3, with Aira the centred hero and clean negative space held camera-left, facing front to the lens. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
-LENS + DOF + BOKEH: 50mm, f/2.0; her face and the nearest droplet tack sharp at the wave-core, the farthest set melting into a soft creamy bokeh with clean blooms.
+LENS + DOF + BOKEH: 50mm, f/2.0; her face and the easing hand tack sharp, the set melting into a smooth dewy field with fine droplets as soft bokeh; gentle highlight roll-off, no clipping.
 
-COMPOSITION REFERENCE: the signature impossible beat — a serum-glow glass bloom, soft and luminous, heightened but identity-locked (transform logic / identity-through-transform).
+COMPOSITION REFERENCE: the start of the signature beat — soft spa Look A, soft and luminous, the glass bloom held for the video's mid-clip.
 
-ATMOSPHERE: soft, luminous, mind-bending — the moment the dewy glow waves over her into glass skin.
+ATMOSPHERE: soft, dewy, calm — the gentle instant the transform clip begins.
 
-COLOR GRADE: a live clean from soft dewy to crisp luminous — dewy cores giving way to clean luminous light with soft edges, soft uncrushed shadows, true softness, balanced mid-tone (clean saturation, never garish, no harsh contrast).
+COLOR GRADE: a soft dewy spa grade — gentle clean neutrals, soft diffused glow, soft uncrushed shadows, balanced mid-tone, no harsh contrast, no garish oversaturation.
 
-TEXTURE & MICRO-DETAIL: the skin-high reads as real luminous dewy skin (glass-skin, never plastic) with pores kept; the droplets read as soft real beads; the editorial top reads as real on living skin; the bloom shows a real clean luminous finish where the dewy skin was; skin reads real with pores beneath the glow.
+TEXTURE & MICRO-DETAIL: the spa wrap reads as real soft fabric; the serum bottle and droplets read as real glass and beads; real skin micro-texture with peach-fuzz catching the soft rim, never plastic; fine dewy atmosphere.
 
-PHYSICS: true skin-and-light physics — the glow waving with believable light spread and the look refining with cloth inertia; the wave obeys a single travelling roll; face geometry constant; no melting, no invented anatomy, no plastic skin.
+PHYSICS: gravity-true spa-wrap drape and hair fall; the dewy glow crests by real skin-and-light behaviour; the diffused key a single source; weight grounded through both feet — no floating, no stiffness.
 
 NEGATIVE: mirrored, flipped, inverted, extra limbs, fused fingers, melted features, asymmetric eyes (unintentional), garbled text, floating shadows, duplicated subjects, low-res patches, plastic skin, over-smoothed skin, oversharpened, AI-generated artifacts, watermarks, signature, deformed hands, malformed teeth, joint cuts at ankle/knee/wrist/elbow/neck, amputated fingertips, cross-eyed, lazy eye, off-axis pupils, melted clothing, mismatched footwear, mannequin-stiff posture, dead eyes, statue-frozen energy, crushed muddy blacks, garish oversaturation, flat dull light, inventing a new face beneath the glow, eye-colour drift, sexualization, de-aging.
 
@@ -7662,12 +7662,12 @@ IDENTITY (locked): Aira — same person every frame; face, bone structure, eye s
 
 SHOT TYPE: energized medium of the serum-glow glass bloom (the hero move).
 
-LENS: 50mm, f/2.0. (Transform-anchor distance — matches Frames 3 and 5.)
+LENS: 50mm, f/2.0.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Energized medium: from the crest the slow push is already easing into a smooth gentle orbit as the travelling dewy glass-glow wave rolls over her skin and her hand eases down; gaze lifting into the bloom.
-- [00:02–00:04] The orbit rides the hero beat as the wave wraps a luminous lit-from-within glass-skin finish and the editorial top resolves across her shoulders and the pin-straight hair catches travelling clean-light, the spa wrap becoming the crisp ivory top (face clear and cleanly lit, identity locked, real skin texture and pores kept, no plastic sheen); eyes softening in luminous calm.
-- [00:04–00:06] The bloom settles and the clean glass-skin finish resolves toward the reveal as the orbit eases; a soft luminous calm landing in her eyes.
+- [00:00–00:02] Cut to an ethereal medium at a HELD angle (Veo first frame = the soft-spa Look A still): she eases her hand down from her cheek, already in motion — still the soft spa wrap and dewy bare skin, NO bloom yet, a gentle push-with easing in, the angle fixed for the whole clip.
+- [00:02–00:04] The glass bloom BEGINS here, mid-clip: a single travelling dewy glass-glow wave rolls smoothly over her skin in one continuous front, the soft spa wrap resolving into the sleek ivory editorial top and the bare skin blooming to a luminous lit-from-within glass-skin finish exactly where the wave passes — real skin-and-light physics, true pores and fine vellus texture kept beneath the glow (never plastic, never over-smoothed), gradual and soft, never a snap; the pin-straight micro-fringe catching travelling clean light, eyes softening in luminous wonder (angle held, face cleanly lit, identity locked).
+- [00:04–00:06] The glass-glow wave completes its roll and the look settles smoothly and fully into the luminous glass-skin Look B of the Veo last-frame still (Frame 5's image) — the sleek ivory editorial top with a clean lit-from-within glow under crisp beauty light, resolved and held through the final beat, no last-second pop; a soft luminous calm landing in her eyes.
 
 OBJECT ACTION WITH TIMING: 0.0–6.0s — the glass-glow wave rolls over her and refines the robe wrap to the ivory editorial top, the spa slippers resolve to clean heels and the headband resolves to fine ear studs, the set cleans dewy-to-luminous, fine dewy droplets sparkling along the wave. One coherent transform, no extra objects, no pop-in.
 
@@ -7687,7 +7687,7 @@ NEGATIVE: identity drift, face or hand warp, extra or fused fingers, duplicate p
 
 ### Frame 5 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the locked END keyframe of the glass bloom; it must resolve continuously out of the START keyframe in Frame 3 — same face, same hands, same camera distance, the dewy skin now fully bloomed to the luminous glass-skin finish. Do NOT invent a new face, new hands or new bone structure, and keep real skin texture (no plastic); this is the same Aira, soft and luminous, never replaced. Frame 3 (START) and Frame 5 (END) are the two anchors of the single transform.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. SHOT NOTE: this is the glass-skin Look B reveal at its OWN cut/angle (a hard cut from the Frame-4 bloom clip — a new angle/crop, and the Veo last-frame the glass-glow wave resolves into). It carries the resolved luminous glass-skin finish the Frame-4 clip ends on; the angle change masks any slight variation, and real skin texture is kept (no plastic). Same Aira, soft and luminous, never replaced — do NOT invent a new face, new hands or new bone structure.
 
 EYE COLOUR: warm dark-brown irises with faint amber flecks, a clean luminous catchlight, gaze soft and direct, locked to reference (unchanged through the bloom).
 
@@ -7713,12 +7713,12 @@ SPATIAL LOGIC: FOREGROUND — the hand at her jaw nearest lens at roughly 18% de
 
 LIGHTING: KEY — a clean luminous beauty key feathered above-front. FILL — soft clean bounce below (gentle clamshell). RIM — a clean rim skimming the pin-straight hair and the jaw-high to separate her from the backdrop. PRACTICAL — the backdrop glow now crisp luminous. SEPARATION — the backdrop pulled deep so she reads cleanly against the luminous light. BOUNCE — a soft clean kick off a beauty card on the skin.
 
-FRAMING: ASPECT 9:16; medium close, chest-up, 11% headroom, the hand at her jaw entering the lower third, clean negative space camera-right. (Camera distance matches Frames 3 and 4.)
+FRAMING: ASPECT 9:16; medium close, chest-up, 11% headroom, the hand at her jaw entering the lower third, clean negative space camera-right.
 SUBJECT FRAMING & POSITION: A medium close framing holds Aira at about 11% headroom, the held beat reading low in frame within the glass-skin beauty and serum world. Her torso is turned about five degrees to open the right shoulder in a near-frontal address, with her weight on the back leg over a soft hip counter-tilt and the front shoulder dropped a touch. The camera holds an intimate beauty distance with the figure centred and clean clean negative space held camera-right. She faces front to the lens, composed and alive in the beat. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 LENS + DOF + BOKEH: 50mm, f/2.0; focus split between her near eye and the hand at her jaw so both read crisp; the backdrop melting to a smooth clean field; soft clean blooms off the settling droplets; gentle roll-off, no clipping.
 
-COMPOSITION REFERENCE: the radiant reveal — the dewy skin bloomed to a luminous glass-skin finish, soft and luminous, identity-locked (transform resolved).
+COMPOSITION REFERENCE: the glass-skin reveal — soft and luminous, identity-locked (a match-cut from the Frame-4 bloom).
 
 ATMOSPHERE: soft, luminous, assured — the clean beat after the glow has bloomed her glass-skin.
 
@@ -7736,12 +7736,12 @@ IDENTITY (locked): Aira — same person every frame; face, bone structure, eye s
 
 SHOT TYPE: medium close, chest-up, subject and hand-at-jaw fill about 58% of the vertical frame.
 
-LENS: 50mm, f/2.0. (Transform-anchor distance — matches Frames 3 and 4.)
+LENS: 50mm, f/2.0.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Medium close chest-up: the orbit is already easing back to a slow push as the glass-skin finish resolves and she drifts her hand soft to her jaw to show the lit-from-within glow with an easy roll of the shoulder; gaze easing to lens.
-- [00:02–00:04] The push settles as a soft luminous smile eases to lens on a slow breath, the last dewy droplets settling clean on the skin.
-- [00:04–00:06] She holds the alive luminous look, the editorial top sitting crisp, eyes clear and shining.
+- [00:00–00:02] Cut to a medium close on a new angle in the crisp luminous beauty light: she is already in the luminous glass-skin finish, drifting her right hand soft to her jaw to show the glow with an easy roll of the shoulder; gaze easing to lens.
+- [00:02–00:04] A soft luminous smile eases to lens on a slow breath, the last dew-droplets settling with a clean glint, eyes soft and shining.
+- [00:04–00:06] She holds the clean luminous look, the glass-skin glow even and real, eyes soft and direct (silent here).
 
 OBJECT ACTION WITH TIMING: 0.0–6.0s — the glass-skin finish settles and the editorial top sways gently, a soft specular travels along her jaw-high and the ear studs catch a glint, and the last dewy droplets drift and fade; clean luminous light drifts behind. Environmental motion only, no pop-in.
 
@@ -7813,9 +7813,9 @@ SHOT TYPE: medium, chest-up, subject fills about 58% of the vertical frame.
 LENS: 50mm, f/2.0.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Medium chest-up: a slow push is already gliding in as she shifts her weight with an easy six-degree turn and opens her right hand in a relaxed clean gesture; gaze direct to lens.
-- [00:02–00:04] She delivers “Glass skin. No filter.” to lens with a soft luminous smile and natural lip-sync, the ivory top settling clean, eyes clear and direct.
-- [00:04–00:06] She holds the alive luminous look as the finish settles, the smile easing into clear calm.
+- [00:00–00:02] Cut to a medium chest-up on a fresh angle: she shifts her weight with an easy six-degree turn and opens her right hand in a soft clean gesture as the camera eases with her; gaze direct to lens.
+- [00:02–00:04] She delivers “Glass skin. No filter.” to lens with a soft luminous smile and natural lip-sync, the fine ear studs catching a clean glint, eyes soft and direct.
+- [00:04–00:06] She holds the clean luminous look as the editorial top settles, the smile easing into soft calm.
 
 OBJECT ACTION WITH TIMING: 0.0–4.8s — the editorial top sways gently with the shift, the ear studs catch a soft glint, and a soft specular travels along her jaw-high; clean luminous light drifts behind. Environmental and worn-object motion only, no pop-in.
 
@@ -7861,7 +7861,7 @@ SPATIAL LOGIC: FOREGROUND — the serum bottle at the collarbone at roughly 20% 
 
 LIGHTING: KEY — a soft key easing from luminous back toward the clean Frame-1 dewy key at the seam. FILL — soft clean bounce below (gentle clamshell). RIM — a soft rim on the pin-straight hair easing from luminous back toward dewy. PRACTICAL — the backdrop glow re-settling soft. SEPARATION — the backdrop deep so she reads about 1 stop up. BOUNCE — a clean kick off a beauty card on the wrap top.
 
-FRAMING: ASPECT 9:16; medium-wide, thigh-up with slippers glimpsed low, 12% headroom — matched to Frame 1 for the seamless loop. (Camera distance returns to Frame 1.)
+FRAMING: ASPECT 9:16; medium-wide, thigh-up with slippers glimpsed low, 12% headroom — matched to Frame 1 for the seamless loop.
 SUBJECT FRAMING & POSITION: A medium-wide framing recovers the exact opening composition at about 12% headroom, matched to Frame 1 for a seamless loop within the glass-skin beauty and serum world. Her torso is turned about five degrees to open the right shoulder in a near-frontal address, with her weight on the back leg over a soft hip counter-tilt and the front shoulder dropped a touch, returned precisely to the opening stance. The camera settles to a mid-wide distance with the figure centred and clean negative space held camera-left. She faces front to the lens, matched precisely for the loop. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 LENS + DOF + BOKEH: 50mm, f/2.2; focus split between her near eye and the serum bottle so both read crisp (matching Frame 1); the backdrop melting to a smooth clean field; gentle roll-off, no clipping.
@@ -7887,9 +7887,9 @@ SHOT TYPE: medium-wide, thigh-up, subject fills about 55% of the vertical frame 
 LENS: 50mm, f/2.2. (Returns to Frame 1 distance.)
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Medium-wide thigh-up matching Frame 1: the orbit is already easing to rest as a slow push resolves toward the opening framing and she returns her right hand to hold the glass serum bottle soft at her collarbone, settling her weight onto the back leg exactly as in Frame 1.
-- [00:02–00:04] The push settles as she eases her clear gaze back to lens on a slow breath with the composed calm soft micro-smile, the luminous finish resolving back toward the soft dewy spa opening.
-- [00:04–00:06] She lands precisely on the Frame 1 pose and gaze, soft and luminous — a seamless loop seam.
+- [00:00–00:02] Cut to a medium-wide thigh-up matched to Frame 1: she returns her right hand to hold the glass serum bottle soft at her collarbone and settles her weight onto the back leg exactly as in Frame 1 as the camera settles to the opening framing.
+- [00:02–00:04] She eases her calm gaze back to lens on a slow breath with the composed luminous micro-smile, the crisp editorial light resolving back toward the soft dewy spa opening to seed the loop.
+- [00:04–00:06] She lands precisely on the Frame 1 pose and gaze, soft and dewy in the clean beauty light — a seamless loop seam.
 
 OBJECT ACTION WITH TIMING: 0.0–6.0s — the glass-skin look eases back to the soft spa presentation around her, a soft specular travels along the wrap-top shoulder where the jaw-high specular once ran, the backdrop light re-settles soft, and the last luminous light fades to seed the loop. Environmental motion only, no pop-in.
 
