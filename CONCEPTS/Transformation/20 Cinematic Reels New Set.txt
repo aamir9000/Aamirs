@@ -4041,7 +4041,7 @@ Hair: a soft low bun with a few loose tendrils, then released into soft waves on
 
 Makeup: glass-skin beauty glow: dewy luminous skin, a soft rose-nude lip, pearl highlight, softly defined eyes, real pores.
 
-Hero Movement / Impossible Move: steam-to-couture reveal — warm basin steam billows up and resolves into a pearl-couture gown.
+Hero Movement / Impossible Move: steam-to-couture reveal — contained MID-CLIP at a held angle: warm basin steam billows up by believable warm-air physics and resolves into a pearl-couture gown (dreamy but grounded, no cheap sparkles). Veo first/last-frame continuity (Frame 4 image = silk-robe Look A = first frame, Frame 5 image = pearl-gown Look B = last frame); every frame join is a hard match-cut to a new angle.
 
 Mood: SERENE-BEAUTY, soft, luminous.
 
@@ -4287,44 +4287,44 @@ LOOP LOGIC: the grounded settle matches the closing return stance.
 
 ## Frame 4 of 6 — IMAGE PROMPT (TRANSFORM — STEAM REVEAL)
 
-ANGLE & SHOT SIZE: profile (full side pose) MEDIUM, warm steam billowing up from the basin and wrapping Aira, resolving into a pearl-couture gown, arms lifting.
+ANGLE & SHOT SIZE: profile (full side pose) MEDIUM, Aira at the marble basin in her soft silk robe, warm steam just beginning to billow up, the backlit mirror glowing behind — the clean Look A the clip opens on, the pearl gown NOT yet formed.
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the START frame of the transform CLIP — render her fully in the silk-robe Look A (the exact still the Frame-4 video opens on, and Veo's FIRST frame): the soft silk robe and low bun at the marble basin as warm steam begins to billow up (the steam-to-couture reveal NOT yet begun). The reveal happens MID-CLIP at this same HELD angle (the camera may push-with, never an angle rotation; warm basin steam billows up by believable warm-air physics and resolves into the pearl-couture gown — dreamy but grounded, no cheap sparkles), resolving into Frame 5's pearl-gown image (Veo's LAST frame). Her face and proportions stay constant. Do NOT depict the gown forming in this still and do NOT invent a new face, new hands or new bone structure.
 
-WARDROBE: the silk robe dissolving into a pearl-couture gown of soft pearlescent satin as the steam wraps her, modest high neckline and length, edges streaming vapour.
+WARDROBE: the soft silk robe at its best, modest high neckline and length, fully intact (the pearl-couture gown not yet formed).
 
-FOOTWEAR: pearl-satin mules resolving into delicate pearl-strap kitten heels.
+FOOTWEAR: pearl-satin mules on the warm marble.
 
-EYEWEAR: none (clean face for the reveal).
+EYEWEAR: none (clean face).
 
-ACCESSORIES: pearl-drop earrings gleaming, a forming pearl choker, the bracelet brightening.
+ACCESSORIES: pearl-drop earrings and a fine bracelet — the ritual look.
 
-HAIR: low bun releasing into soft waves in the steam-updraft, pearl-lit.
+HAIR: a soft low bun with a few strands loose, pearl-lit.
 
-MAKEUP: glass-skin glow at full luminous sheen, rose-nude lip, pearl highlight, softly defined eyes.
+MAKEUP: a glass-skin glow, rose-nude lip, softly defined eyes; real pores and fine vellus texture.
 
-HANDS & NAILS: both arms lifting as the steam wraps, fingers gracefully splayed in the vapour; pearl-pink nails.
+HANDS & NAILS: both hands easy at the basin, fingers relaxed; pearl-pink nails, neat cuticles.
 
-FACIAL MICRO-DYNAMICS: eyes opening in serene awe, a soft delighted parted-lip breath, a gentle lift at the cheeks, brows soft.
+FACIAL MICRO-DYNAMICS: a serene anticipatory gaze to the rising steam, a soft parted-lip breath, a gentle lift at the cheeks — serene and fully recognizable, identity-locked, ready for the reveal mid-clip.
 
-BODY POSTURE & WEIGHT: mid-rise in profile, weight lengthening up through the spine, arms blooming — full of soft lifting momentum, never frozen.
+BODY POSTURE & WEIGHT: standing in profile at the basin, weight settled, spine long — serene, the instant before the rise.
 
-KINETIC STILLNESS (8 layers): (1) steam billowing and wrapping the body; (2) pearlescent satin forming and rippling; (3) vapour-wisps curling outward; (4) hair releasing and lifting; (5) chest breathing; (6) the pearl choker settling; (7) a gold-fixture glint; (8) lashes lifting.
+KINETIC STILLNESS (8 layers): (1) warm steam beginning to billow from the basin; (2) the backlit mirror glowing behind; (3) a loose strand lifting in the warm air; (4) fine vapour curling; (5) chest breathing on the soft breath; (6) a soft gold-fixture glint; (7) the silk robe breathing as her ribcage expands; (8) lashes lifting on a blink.
 
-SPATIAL LOGIC: FOREGROUND — curling vapour nearest lens, soft. MIDGROUND — Aira and the forming gown. BACKGROUND — the basin and backlit mirror, clean for the steam to read.
+SPATIAL LOGIC: FOREGROUND — curling basin steam nearest lens, soft. MIDGROUND — Aira in the silk robe, the hero. BACKGROUND — the marble basin and backlit mirror, the tonal bathroom world present and glowing.
 
-LIGHTING: KEY — soft daylight catching the steam translucent. FILL — mirror glow. RIM — backlight lighting the vapour and satin luminous. PRACTICAL — backlit mirror, sconces. SEPARATION — luminous pearl-gown vs soft marble. BOUNCE — marble soft underglow.
+LIGHTING: KEY — soft daylight catching the steam. FILL — mirror glow. RIM — backlight on the vapour and her profile. PRACTICAL — backlit mirror, sconces. SEPARATION — figure vs soft marble. BOUNCE — marble soft underglow.
 
-LENS + DOF + BOKEH: 50mm, f/2.0; focus on Aira and the forming gown; vapour as soft pearl bokeh; background creamy.
+LENS + DOF + BOKEH: 50mm, f/2.0; focus on Aira; the basin and backlit mirror as soft pearl bokeh, clearly present behind.
 
-COMPOSITION: 9:16, upward steam-spiral as a soft S-curve, Aira profile-rising, mirror headroom.
-SUBJECT FRAMING & POSITION: A medium in clean full profile, warm steam billowing up and wrapping Aira, resolving into a pearl-couture gown, arms lifting. The body reads as a profile line from roughly the waist up, mid-rise with weight lengthening up through the spine, arms blooming. Camera at mid distance, edge-on, the steam swirling around her. She is in profile, rising. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+COMPOSITION: 9:16, Aira a serene profile at the basin, steam beginning to rise, mirror headroom.
+SUBJECT FRAMING & POSITION: A medium in clean full profile, Aira at the marble basin in the silk-robe Look A as warm steam begins to billow up — the clean still the transform clip opens on. The body reads as a profile line from roughly the waist up, weight settled, spine long, the tonal bathroom present behind. Camera at mid distance, edge-on. She is in profile. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
-ATMOSPHERE: serene awe — the steam dressing her in pearl.
+ATMOSPHERE: serene calm — the gentle breath before the steam dresses her in pearl.
 
-COLOUR GRADE: vivid soft-pearl at peak luminosity, translucent satin, glossy speculars, full mid-tone.
+COLOUR GRADE: soft pearl tones kept tonal and luxe (pearl is a tonal concept — luminous but restrained, never blown out or over-saturated), gentle satin sheen, glossy speculars, full mid-tone.
 
-TEXTURE & MICRO-DETAIL: pearlescent satin forming with visible sheen, steam becoming fabric, dewy skin, hair-strand detail, pearl lustre.
+TEXTURE & MICRO-DETAIL: soft silk-robe sheen, fine steam, dewy skin, hair-strand detail, pearl lustre.
 
 NEGATIVE: (as Frame 1) plus identity drift, melted features, immodest exposure, broken steam physics, plastic skin.
 
@@ -4337,9 +4337,9 @@ SHOT TYPE & ANGLE: profile medium, subject fills ~55%, rising in frame.
 LENS: 50mm, f/2.0.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Profile medium: warm steam is already billowing up from the basin as a crane begins to rise with a slow arc from profile toward three-quarter; gaze following the rising steam.
-- [00:02–00:04] The steam wraps her body and resolves into the pearl-couture gown as the crane climbs; chin lifting, eyes softening in serene awe, lips parting on a gentle breath.
-- [00:04–00:06] Her arms bloom and her hair releases in the warm air, a serene awed smile arriving, eyes luminous.
+- [00:00–00:02] Cut to a profile medium at a HELD angle (Veo first frame = the silk-robe Look A still): already in motion, a gentle push-with easing in as warm steam begins to billow up from the basin — the silk robe fully intact, the reveal NOT yet begun, the backlit mirror glowing behind; gaze following the rising steam.
+- [00:02–00:04] The reveal BEGINS here, mid-clip: the warm basin steam billows up and wraps her, resolving smoothly into the pearl-couture gown exactly where it passes — believable warm-air physics, vapour curling on real paths (dreamy but grounded, no cheap sparkles), the tonal bathroom soft behind; chin lifting, eyes softening in serene awe (angle held, identity locked).
+- [00:04–00:06] The wrap completes and the look settles smoothly and fully into the pearl-couture gown of Frame 5's still (Veo's LAST frame), her hair releasing soft in the warm air — a serene awed smile arriving, no last-second snap.
 
 FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
@@ -4351,7 +4351,7 @@ FABRIC/HAIR/PROP PHYSICS: steam-to-satin transition obeys vapour then cloth dyna
 
 FOOTWORK & BODY FLOW: a soft push into a tall lift, the body uncoiling gently.
 
-TRANSITION / IMPOSSIBLE MOVE: THE hero move — warm basin steam billows up and resolves into a pearl-couture gown; locked transform keyframe.
+TRANSITION / IMPOSSIBLE MOVE: THE hero move, contained mid-clip at a held angle (camera push-with, never an angle rotation) — warm basin steam billows up and resolves into the pearl-couture gown by believable warm-air physics; Veo first frame = this frame's silk-robe Look A image, last frame = Frame 5's pearl-gown image; every frame join is a hard match-cut to a new angle.
 
 LIGHTING-IN-MOTION: backlight ignites the steam translucent as the gown forms; pearl sheen blooms.
 
