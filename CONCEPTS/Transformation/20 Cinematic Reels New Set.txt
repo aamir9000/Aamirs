@@ -3547,7 +3547,7 @@ Hair: a soft low braid woven with tiny jasmine buds, color locked to reference.
 
 Makeup: warm festive glow: luminous skin, a deep rose lip, soft kohl-lined eyes, gilded highlight, real pores.
 
-Hero Movement / Impossible Move: bloom-burst veil — a bundle of buds bursts into a swirling petal-veil that weaves a flower-couture gown.
+Hero Movement / Impossible Move: bloom-burst veil — contained MID-CLIP at a held angle: a bundle of buds bursts into a swirling petal-veil that weaves a flower-couture gown by believable real petal physics (true crease-to-bloom flutter, fine petal-fall, no cheap sparkles). Veo first/last-frame continuity (Frame 4 image = kurta-set Look A = first frame, Frame 5 image = flower-couture Look B = last frame); every frame join is a hard match-cut to a new angle.
 
 Mood: WARM-FESTIVE, lush, enchanted.
 
@@ -3793,44 +3793,44 @@ LOOP LOGIC: the rise toward market centre bridges to the transform.
 
 ## Frame 4 of 6 — IMAGE PROMPT (TRANSFORM — BLOOM-BURST VEIL)
 
-ANGLE & SHOT SIZE: front-on FULL/wide hero, Aira at market centre lifting a bundle of buds that burst into a swirling petal-veil weaving a flower-couture gown, arms opening.
+ANGLE & SHOT SIZE: front-on FULL/wide hero, Aira at market centre lifting a bundle of fresh buds in her kurta-set, the lantern-lit aisle glowing around her — the clean Look A the clip opens on, the bloom-burst NOT yet begun.
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the START frame of the transform CLIP — render her fully in the kurta-set Look A (the exact still the Frame-4 video opens on, and Veo's FIRST frame): the festive kurta-set with the garland on, lifting a bundle of fresh marigold-and-jasmine buds (the bloom-burst NOT yet begun). The bloom-burst happens MID-CLIP at this same HELD angle (the camera may push-with, never an angle rotation; the buds burst into a swirling petal-veil that weaves the flower-couture gown by believable real petal physics — true crease-to-bloom flutter, fine petal-fall, no cheap sparkles), resolving into Frame 5's flower-gown image (Veo's LAST frame). Her face and proportions stay constant. Do NOT depict the burst in this still and do NOT invent a new face, new hands or new bone structure.
 
-WARDROBE: the kurta-set dissolving into a flower-couture gown woven of marigold and jasmine petals swirling around her, modest neckline and length, edges streaming petals.
+WARDROBE: the festive kurta-set at its best, modest neckline and length, fully intact (the flower-couture gown not yet formed).
 
-FOOTWEAR: jewelled juttis remaining, half-seen beneath the petal hem.
+FOOTWEAR: jewelled juttis, grounded.
 
-EYEWEAR: none (clean face for the hero beat).
+EYEWEAR: none (clean face).
 
-ACCESSORIES: garland dissolving into the petal-swirl, jhumka and bangles gleaming, a fresh flower-crown forming.
+ACCESSORIES: a fresh marigold garland, jhumka and bangles — the market look.
 
-HAIR: low braid loosening, jasmine buds lifting in the petal-updraft, gilded.
+HAIR: a low braid with a few jasmine buds tucked, glossy in the lantern light.
 
-MAKEUP: warm festive glow at full luminous sheen, deep rose lip, kohl eyes, gilded highlight.
+MAKEUP: a warm festive glow, deep rose lip, kohl eyes; real pores and fine vellus texture.
 
-HANDS & NAILS: both arms opening outward as the buds burst, fingers gracefully splayed in the petal-swirl; warm-rose nails, mehndi.
+HANDS & NAILS: both hands lifting a bundle of fresh buds, fingers relaxed; warm-rose nails, mehndi, neat cuticles.
 
-FACIAL MICRO-DYNAMICS: a radiant awed smile, lips parted on a delighted breath, eyes wide with wonder, brows lifted, cheeks high.
+FACIAL MICRO-DYNAMICS: a warm anticipatory gaze to the buds, lips parting on a held breath, a soft radiant smile beginning — fully recognizable, identity-locked, ready for the burst mid-clip.
 
-BODY POSTURE & WEIGHT: mid-rise on the balls of the feet, arms blooming, torso lengthening upward — full of lifting momentum, never frozen.
+BODY POSTURE & WEIGHT: standing tall at market centre, weight settled, lifting the buds, torso lengthening — poised, the instant before the burst.
 
-KINETIC STILLNESS (8 layers): (1) the petal-veil swirling up the body; (2) flower-couture edges forming and streaming; (3) petals flung outward in slow arcs; (4) braid-buds lifting in the updraft; (5) chest breathing; (6) the flower-crown settling; (7) a lantern-glint on a bangle; (8) lashes flaring.
+KINETIC STILLNESS (8 layers): (1) lantern-strings swaying overhead; (2) the indigo night market glowing behind; (3) a loose braid-strand lifting; (4) a few petals already drifting from the stalls; (5) chest breathing on the held breath; (6) a lantern-glint on a bangle; (7) the kurta breathing as her ribcage expands; (8) lashes settling on a blink.
 
-SPATIAL LOGIC: FOREGROUND — flung petals nearest lens, sharp. MIDGROUND — Aira and the forming gown. BACKGROUND — lantern-strings and indigo night, clean for the swirl to read.
+SPATIAL LOGIC: FOREGROUND — the bundle of buds in her hands, tack sharp. MIDGROUND — Aira in the kurta-set, the hero. BACKGROUND — lantern-strings, heaped blooms and indigo night, carrying the market world right into the frame (present, not erased).
 
-LIGHTING: KEY — warm lantern light igniting the petal-swirl. FILL — marigold bounce. RIM — amber rim lighting the petals translucent. PRACTICAL — lanterns, stall-lamps. SEPARATION — luminous petal-gown vs indigo night. BOUNCE — warm petal underglow.
+LIGHTING: KEY — warm lantern light. FILL — marigold bounce. RIM — amber rim on her shoulder and braid. PRACTICAL — lanterns, stall-lamps. SEPARATION — figure vs indigo night. BOUNCE — warm petal underglow.
 
-LENS + DOF + BOKEH: 35mm, f/2.8; focus on Aira and the forming gown; flung petals as warm bokeh; background creamy.
+LENS + DOF + BOKEH: 35mm, f/2.8; focus on Aira and the buds; the lantern-lit market as warm bokeh, clearly present behind.
 
-COMPOSITION: 9:16, upward petal-spiral as a dynamic S-curve, Aira centred-rising, lantern headroom.
-SUBJECT FRAMING & POSITION: A front-on full/wide hero, Aira at market centre lifting a bundle of buds that burst into a swirling petal-veil weaving a flower-couture gown. The complete figure is in frame, centred and rising on the balls of the feet, arms blooming, torso lengthening upward. Camera at full/wide distance, the petal-veil swirling around her. She faces front, centred and rising, dominant in the frame. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+COMPOSITION: 9:16, Aira a warm vertical at market centre, lantern headroom, the aisle sweeping back.
+SUBJECT FRAMING & POSITION: A front-on full/wide hero, Aira at market centre lifting a bundle of fresh buds in the kurta-set Look A — the clean still the transform clip opens on. The complete figure is in frame, centred, the lantern-lit market present behind her. Camera at full/wide distance, lantern headroom. She faces front, centred. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
-ATMOSPHERE: awe, festive magic — the market itself dressing her in flowers.
+ATMOSPHERE: warm festive anticipation — the breath before the market dresses her in flowers.
 
-COLOUR GRADE: vivid festive jewel at peak saturation, translucent petals, glossy speculars, full mid-tone.
+COLOUR GRADE: warm festive jewel tones balanced against the indigo night (rich but controlled, never garish), glossy speculars, full mid-tone.
 
-TEXTURE & MICRO-DETAIL: individual petals becoming couture, jasmine and marigold detail, gilded skin, braid-bud detail, lip detail on the breath.
+TEXTURE & MICRO-DETAIL: kurta weave, fresh petal and bud detail, gilded skin, braid-bud detail.
 
 NEGATIVE: (as Frame 1) plus identity drift, melted features, immodest exposure, broken petal physics, plastic skin.
 
@@ -3843,9 +3843,9 @@ SHOT TYPE & ANGLE: front-on full/wide hero, subject fills ~55%, rising in frame.
 LENS: 35mm, f/2.8.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Front-on full/wide hero: she is already lifting a bundle of buds at the market centre as a crane begins to rise and orbit toward dead-front; gaze lifting to the buds.
-- [00:02–00:04] The buds burst and petals swirl up around her, weaving the marigold-and-jasmine flower-couture gown as the crane climbs; eyes widening in radiant awe, lips parting.
-- [00:04–00:06] Her arms bloom open and a radiant awed smile lands to lens, petals settling into the gown, eyes shining.
+- [00:00–00:02] Cut to a front-on full/wide hero at a HELD angle (Veo first frame = the kurta-set Look A still): already in motion, a gentle push-with easing in as she lifts the bundle of fresh buds at market centre — the kurta-set fully intact, the burst NOT yet begun, lantern-strings and indigo night behind; gaze lifting to the buds.
+- [00:02–00:04] The bloom-burst BEGINS here, mid-clip: the buds burst into a swirling petal-veil that weaves up her body into the marigold-and-jasmine flower-couture gown exactly where it passes — believable real petal physics, true crease-to-bloom flutter and fine petal-fall (no cheap sparkles), the market still glowing behind; eyes widening in radiant awe (angle held, identity locked).
+- [00:04–00:06] The swirl completes and the look settles smoothly and fully into the flower-couture gown of Frame 5's still (Veo's LAST frame), petals settling into the gown — a radiant awed smile landing, no last-second snap.
 
 FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
@@ -3857,7 +3857,7 @@ FABRIC/HAIR/PROP PHYSICS: petal-to-couture transition obeys floral then cloth dy
 
 FOOTWORK & BODY FLOW: a push through the feet into a tall lift, the body uncoiling like a dancer rising.
 
-TRANSITION / IMPOSSIBLE MOVE: THE hero move — a bundle of buds bursts into a swirling petal-veil that weaves a flower-couture gown; locked transform keyframe.
+TRANSITION / IMPOSSIBLE MOVE: THE hero move, contained mid-clip at a held angle (camera push-with, never an angle rotation) — a bundle of buds bursts into a swirling petal-veil that weaves the flower-couture gown by believable real petal physics; Veo first frame = this frame's kurta-set Look A image, last frame = Frame 5's flower-gown image; every frame join is a hard match-cut to a new angle.
 
 LIGHTING-IN-MOTION: lantern light ignites the petals translucent as they form; the swirl glows amber.
 
