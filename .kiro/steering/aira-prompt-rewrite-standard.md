@@ -803,6 +803,18 @@ full-body check now also requires: each non-exception frame names right leg, lef
 left hand, fingers, waist/hips, torso, shoulders, head/neck tilt and gaze distinctly, and the
 combination differs frame to frame.
 
+M.9 LOGIC & FLOW LAW (decided with user): the per-limb articulation must be LOGICAL and MOTIVATED,
+never a mechanical checklist of joints. Before writing PASS-2 poses for a concept, READ THE WHOLE
+FRAME FLOW first (all 6-8 frames + the loop) and choreograph the body as ONE continuous, coherent
+performance: each frame's pose flows naturally out of the previous frame's and sets up the next
+(limbs carry momentum across the cuts), and every limb position is something she is intentionally
+DOING in that moment — reaching for / settling / turning toward / interacting with the actual object
+or world of that beat — so she reads as SELF-AWARE of her action, poised and purposeful, never
+contorted, never an awkward or arbitrary limb placement. Pose serves the beat's action, the concept's
+energy, and the figure-to-ground composition; if a named position wouldn't make sense for what she is
+doing, choose one that does. Naturalness and intent come FIRST; the per-limb completeness is how that
+intent is specified, not an excuse to force unnatural shapes.
+
 
 
 ====================================================================
