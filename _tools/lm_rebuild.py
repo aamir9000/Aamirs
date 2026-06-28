@@ -440,6 +440,88 @@ BEATSLM[5] = [
 ]
 
 
+BEATSLM[6] = [
+    # F1 - closed-bud garden Look A establishing, alive lateral track, flacon at waist
+    (
+        "Cut to a medium-wide thigh-up tracking shot in the moonlit night garden: the camera "
+        "dollies laterally to settle on her as she steps her weight onto the back leg and "
+        "cradles the fragrance flacon at waist height, the dark closed night-blooms and trellis "
+        "sliding behind with real parallax; a serene half-smile holding.",
+        "The track eases to rest as a face-framing tendril drifts in the night breeze and her "
+        "serene gaze begins to ease to lens, low ground-mist curling.",
+        "She holds, romantic and still in the midnight-blue satin, eyes soft in the moon glow, "
+        "the buds dark and closed around her (silent here).",
+    ),
+    # F2 - closed buds, push-with raising flacon to collarbone, cut to a closer three-quarter
+    (
+        "Cut to a medium-close three-quarter: she is already raising the flacon near her "
+        "collarbone and resting her index finger at the atomizer as the camera pushes with her "
+        "hand; gaze toward the flacon.",
+        "Her gaze softens toward the flacon as a dreamy micro-smile kindles, she drawing a slow "
+        "breath.",
+        "She holds the flacon poised at her collarbone, eyes soft and dreamy, the night blooms "
+        "still dark and closed behind (silent here).",
+    ),
+    # F3 - closed buds, arc, presses atomizer (mist releasing, NO bloom yet), cut
+    (
+        "Cut to a medium chest-up on a fresh three-quarter angle: she presses the atomizer and "
+        "a fine fragrance-mist releases as the camera arcs a few degrees and the trellis swings "
+        "behind with parallax; gaze beginning to lift.",
+        "The arc settles as her gaze lifts to lens with rising warmth and a tender micro-smile "
+        "forms, the buds still closed dark in the moonlight.",
+        "She holds the poised mist beat, the fine mist drifting, eyes warm with wonder \u2014 "
+        "the breath before the bloom (silent here).",
+    ),
+    # F4 - THE TRANSFORM, HELD ANGLE, smooth mid-clip bloom; first=closed-bud, last=full-bloom
+    (
+        "Cut to an ethereal medium at a HELD angle (Veo first frame = the closed-bud Look A "
+        "still): she eases the flacon down from the mist, already in motion \u2014 the "
+        "night-flowers still closed dark buds, NO bloom yet, a gentle push-with easing in, the "
+        "angle fixed for the whole clip.",
+        "The bloom BEGINS here, mid-clip: from the fragrance mist a soft bloom-wave rolls out "
+        "and travels smoothly around her in one continuous expanding front, the closed dark "
+        "buds unfurling open pale and luminous exactly where the wave passes \u2014 petals "
+        "opening on believable soft spring, fine luminous pollen-motes drifting like real "
+        "flecks, gradual and tender, never a snap; eyes widening in radiant wonder (angle "
+        "held, identity locked).",
+        "The bloom-wave completes its sweep and the garden settles smoothly and fully into the "
+        "full-bloom Look B of the Veo last-frame still (Frame 5's image) \u2014 pale luminous "
+        "flowers open across the trellis and vines, resolved and held through the final beat, "
+        "no last-second pop; a soft radiant calm landing in her eyes.",
+    ),
+    # F5 - full-bloom Look B reveal, cut to a NEW angle, flacon to waist
+    (
+        "Cut to a medium close on a new angle amid the bloomed garden: she is already lowering "
+        "the flacon to rest at her waist with an easy roll of the shoulder, pale blooms open "
+        "around her; gaze easing to lens.",
+        "A soft radiant smile eases to lens on a slow breath, the last pollen-motes settling "
+        "among the open blooms, eyes soft and luminous.",
+        "She holds the serene radiant look, the blooms breathing pale around her, eyes soft "
+        "and direct (silent here).",
+    ),
+    # F6 - spoken line, cut to a fresh angle, push-with the turn
+    (
+        "Cut to a medium chest-up on a fresh angle: she shifts her weight with an easy "
+        "six-degree turn and opens her right hand in a soft gesture as the camera eases with "
+        "her; gaze warm to lens.",
+        "She delivers \u201cSome nights, you just bloom.\u201d to lens with a soft radiant "
+        "smile and natural lip-sync, eyes warm and serene.",
+        "She holds the serene look as the bloomed petals breathe soft, the smile easing into "
+        "calm radiance.",
+    ),
+    # F7 - loop close, cut back to match Frame 1 closed-bud garden
+    (
+        "Cut to a medium-wide thigh-up matched to Frame 1: she returns the flacon to cradle at "
+        "waist height and settles her weight onto the back leg exactly as in Frame 1 as the "
+        "camera settles to the opening framing.",
+        "She eases her serene gaze back to lens on a slow breath with the composed half-smile, "
+        "the open blooms resolving toward the closed-bud opening to seed the loop.",
+        "She lands precisely on the Frame 1 pose and gaze, weight settled in the moonlight "
+        "\u2014 a seamless loop seam.",
+    ),
+]
+
+
 def build_block(beats):
     return (
         BREAKDOWN_HEADER + "\n"
