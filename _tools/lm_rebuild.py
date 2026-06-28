@@ -2057,6 +2057,85 @@ BEATSLM[34] = [
 ]
 
 
+BEATSLM[35] = [
+    # F1 - warm golden-glow beauty hero (contained, product-at-face), push-in
+    (
+        "Cut to a medium-close chest-up in the warm honey-lit space: she is already cradling the "
+        "faceted amber bottle of Golden Honey soft at her collarbone as a slow push eases in, the "
+        "rich amber-gold backdrop and honeycomb-warm light behind her, slow golden motes "
+        "drifting; her left hand easy near her jaw.",
+        "The push settles as a face-framing strand drifts in the warm air and her warm gaze eases "
+        "to lens, golden motes hanging in the honeyed light, a content sensorial quarter-smile "
+        "settling.",
+        "She holds the warm golden-glow look in the honey-gold-to-caramel satin wrap dress, the "
+        "satin drinking the golden key, eyes warm and luminous (the line lands later).",
+    ),
+    # F2 - build, honey drop, first amber-glaze glints; rack-focus product->eye
+    (
+        "Cut to a medium-close three-quarter, a rack-focus pulling from the bottle to her eye: "
+        "she is already lifting the Golden Honey dropper near her cheekbone and releasing a "
+        "single slow golden honey drop that stretches and catches the warm light; gaze cast soft "
+        "to the drop.",
+        "The honey drop beads warm on her cheekbone as her gaze warms with quiet pleasure and a "
+        "content micro-smile kindles, the first warm amber-glaze glints gathering in.",
+        "She holds the drop poised near her cheek, eyes warm and sensorial, the golden-glow look "
+        "intact (silent here).",
+    ),
+    # F3 - START clean (ribbons gathering, glaze beginning, NO full sweep yet), slow arc
+    (
+        "Cut to a medium chest-up on a fresh three-quarter angle: she eases the dropper down and "
+        "opens her hand soft into the gathering golden ribbons, drawing a slow warm breath as the "
+        "camera arcs a few degrees and the amber backdrop swings behind with parallax; gaze "
+        "lifting.",
+        "The arc settles as her gaze lifts to lens with rising sensorial warmth and a knowing "
+        "micro-smile forms, slow golden honey ribbons gathering and drifting and the first "
+        "amber-glaze gilding her shoulder, still the warm golden-glow look.",
+        "She holds the poised warm beat, the honey ribbons suspended and drifting, eyes warm and "
+        "bright \u2014 the hush before the amber-glaze sweep (silent here).",
+    ),
+    # F4 - THE TRANSFORM, HELD ANGLE, smooth mid-clip honey-glaze; first=golden-glow, last=honey-gilded
+    (
+        "Cut to an energized medium at a HELD angle (Veo first frame = the warm golden-glow Look "
+        "A still): she drifts both arms open from her body, already in motion \u2014 still the "
+        "warm golden-glow look, NO full glaze yet, a gentle push-with easing in, the angle fixed "
+        "for the whole clip.",
+        "The honey-glaze BEGINS here, mid-clip: slow golden honey ribbons drift and a warm "
+        "amber-glaze of light sweeps smoothly across her and gilds the air in one continuous warm "
+        "wavefront, real viscous-honey drift and warm gilding light settling along her cheekbone, "
+        "shoulder and the satin exactly where it passes \u2014 believable true viscous-honey and "
+        "warm-light physics, no garish glare, gradual and indulgent, never a snap; her face stays "
+        "clear and warmly lit, eyes warming in sensorial wonder (angle held, identity locked).",
+        "The glaze completes and the look settles smoothly and fully into the full honey-gilded "
+        "radiant after-look of the Veo last-frame still (Frame 5's image) \u2014 a warm honey-gild "
+        "set across her skin and the satin in the amber light, resolved and held through the final "
+        "beat, no last-second pop; a warm sensorial calm landing in her eyes.",
+    ),
+    # F5 - END honey-gilded reveal, hand to bottle, spoken line
+    (
+        "Cut to a medium close on a new angle in the honeyed warmth: she is already in the full "
+        "honey-gilded radiant after-look, easing both hands open and drifting her right back "
+        "toward the amber bottle at her collarbone with an easy roll of the shoulder; gaze warm "
+        "to lens.",
+        "She delivers \u201cgolden, inside and out.\u201d to lens with a warm content smile and "
+        "natural lip-sync, a last honey ribbon settling and catching the warm key, eyes warm and "
+        "radiant.",
+        "She holds the full honey-gilded warm look, the bottle cradled soft, eyes warm and "
+        "direct.",
+    ),
+    # F6 - loop close, cradle bottle matched to F1
+    (
+        "Cut to a medium-close chest-up matched to Frame 1: she returns her right hand to cradle "
+        "the faceted amber bottle soft at her collarbone and her left easy near her jaw exactly "
+        "as in Frame 1 as the camera settles to the opening framing.",
+        "She eases her warm gaze back to lens on a slow breath with the composed content "
+        "quarter-smile, the full honey-gild resolving back toward the opening warm golden-glow "
+        "look to seed the loop.",
+        "She lands precisely on the Frame 1 pose and gaze, warm and sensorial in the honey-lit "
+        "room \u2014 a seamless loop seam.",
+    ),
+]
+
+
 def build_block(beats):
     return (
         BREAKDOWN_HEADER + "\n"
