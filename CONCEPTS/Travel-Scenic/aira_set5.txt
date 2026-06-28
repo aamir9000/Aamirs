@@ -508,7 +508,7 @@ gaze-wander, no robotic mouth.
 ---- FRAME 4 · IMPOSSIBLE-MOVE (BIG) · medium-wide, slow rise ----
 IMAGE PROMPT (Nano Banana Pro · 9:16 · 4K):
 The scaled-up signature frame: as Aira raises one gloved arm, the ENTIRE lobby unbuilds
-itself into light — the crystal chandelier detonates in slow motion into thousands of
+itself into light — the crystal chandelier detonates in smooth real-time into thousands of
 golden Art-Deco shards (fans, chevrons, sunrays, ziggurat steps) that lift off the walls,
 floor inlays and balustrades and reassemble in the air into a towering, rotating cathedral
 of luminous geometry that completely encircles and vaults over her; rendered from her identity reference. She stands at the centre of this kinetic deco galaxy, champagne
@@ -523,7 +523,7 @@ Atmosphere: radiant, awe-scale, fine gold dust. Color grade saturated champagne-
 lacquer black. Textures: faceted crystal, brushed brass, satin, beadwork. Continuity-
 locks identical. Negative: STD-NEG; plus no chaotic mess (geometry must read ordered and
 deco), no barefoot, no flat light.
-SUBJECT FRAMING & POSITION: A medium-wide framing on a 24mm look holds Aira — she raises one gloved arm, the ENTIRE lobby unbuilds itself into light — the crystal chandelier detonates in slow motion. She reads front to the lens within the Art-Deco Theatre Lobby scene. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A medium-wide framing on a 24mm look holds Aira — she raises one gloved arm, the ENTIRE lobby unbuilds itself into light — the crystal chandelier detonates in smooth real-time. She reads front to the lens within the Art-Deco Theatre Lobby scene. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 
 VIDEO PROMPT (VEO 3.1 · 9:16 · 6.0s · 24fps):
@@ -533,7 +533,7 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 The BIG hero clip. Camera starts at her eye-line and performs a sweeping crane-up-and-back
 while slowly orbiting, revealing the full scale of the transformation. Beat map: at
 0.0–0.8s she raises her gloved arm and the chandelier begins to burst; 0.8–3.0s the whole lobby
-peels apart in slow motion — shards of crystal and brass lifting, rotating, and locking
+peels apart in smooth real-time — shards of crystal and brass lifting, rotating, and locking
 into an expanding deco cathedral that vaults over her, ring after ring igniting with gold
 light; 3.0–4.5s the structure rotates majestically around her as she lowers her arm and turns
 her head to follow a passing shard with serene ownership; 4.5–6.0s the geometry holds in a
@@ -1361,7 +1361,7 @@ CONCEPT 26 — VENETIAN CANAL GONDOLA GLIDE (6 frames · SPOKEN)
 ================================================================
 Logline: At blue-gold dawn on a Venetian canal, Aira reclines in a gliding gondola past
 pastel palazzos — then the entire canal rises into a cathedral of liquid glass around her.
-Impossible move (Frame 4 — BIG): the whole canal lifts off its bed in slow motion and
+Impossible move (Frame 4 — BIG): the whole canal lifts off its bed in smooth real-time and
 rears up into towering walls and arches of liquid glass-water that mirror the palazzos
 and sky, the gondola gliding down a corridor of vertical water with reflections of Aira
 multiplying along the glassy walls, fish and light suspended inside the water — she
@@ -1488,7 +1488,7 @@ gaze-wander, no barefoot.
 
 ---- FRAME 4 · IMPOSSIBLE-MOVE (BIG) · wide, craning rise ----
 IMAGE PROMPT (Nano Banana Pro · 9:16 · 4K):
-The scaled-up signature frame: the entire canal has lifted off its bed in slow motion and
+The scaled-up signature frame: the entire canal has lifted off its bed in smooth real-time and
 reared up into towering vertical walls and arches of LIQUID GLASS-WATER on either side of
 the gondola — a cathedral corridor of suspended water that mirrors the pastel palazzos
 and blue-gold sky, with fish, gold light and rippling reflections of Aira suspended inside
@@ -1506,7 +1506,7 @@ Color grade saturated aqua-teal and antique gold. Textures: liquid-glass water w
 suspended fish and light, silk, lacquer hull. Continuity-locks identical. Negative:
 STD-NEG; plus no barefoot, no chaotic flood (water must read as ordered architecture), no
 gondola swamping, no clipping through her.
-SUBJECT FRAMING & POSITION: A wide framing on a 24mm look holds Aira — she The scaled-up signature frame: the entire canal has lifted off its bed in slow motion and reared up into towering vertical walls and arches of LIQUID GLASS-WATER on. She reads front to the lens within the Venetian Canal Gondola Glide scene. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A wide framing on a 24mm look holds Aira — she The scaled-up signature frame: the entire canal has lifted off its bed in smooth real-time and reared up into towering vertical walls and arches of LIQUID GLASS-WATER on. She reads front to the lens within the Venetian Canal Gondola Glide scene. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 
 VIDEO PROMPT (VEO 3.1 · 9:16 · 6.0s · 24fps):
@@ -1515,7 +1515,7 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 The BIG hero clip. Camera starts low beside the gondola and performs a soaring crane-up-
 and-back that reveals the full liquid-glass cathedral. Beat map: at 0.0–0.8s the canal
-trembles and the water begins to peel upward; 0.8–3.0s in slow motion the whole canal rears
+trembles and the water begins to peel upward; 0.8–3.0s in smooth real-time the whole canal rears
 up into towering glassy walls and arches on both sides, mirroring the palazzos and sky,
 caustic light flooding the corridor as fish and reflections suspend inside the liquid;
 3.0–4.5s the gondola glides serenely down the dry centre while Aira raises an arm toward a
