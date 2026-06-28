@@ -776,6 +776,92 @@ BEATSLM[9] = [
 ]
 
 
+BEATSLM[10] = [
+    # F1 - folded-paper Look A establishing, alive lateral track, hand near folded flower
+    (
+        "Cut to a medium-wide thigh-up tracking shot in the handmade paper-craft world: the "
+        "camera dollies laterally to settle on her as she steps her weight onto the back leg "
+        "and rests her right hand soft near a folded-paper flower at her shoulder, the "
+        "folded-paper backdrop and paper props sliding behind with real parallax; a soft "
+        "romantic quarter-smile holding.",
+        "The track eases to rest as a curtain-fringe strand shifts in the soft air and her warm "
+        "gaze begins to lift, fine paper-dust drifting in the key, a soft micro-smile settling.",
+        "She holds, soft and crafted in the origami-pleated dress, eyes warm and direct, the "
+        "folded flower trembling on its slim stem (silent here).",
+    ),
+    # F2 - paper, push-with, cradling the folded flower, cut to a closer three-quarter
+    (
+        "Cut to a medium-close three-quarter: she is already cradling the folded-paper flower "
+        "soft and curling her fingers gently around the stem, as the camera pushes with her "
+        "hand; gaze cast soft to it.",
+        "The flower's first crease eases open in her hand by real paper-fold mechanics as her "
+        "gaze softens with tender focus and a soft micro-smile kindles.",
+        "She holds the still tender beat, eyes warm on the folded flower, the paper world still "
+        "crisply folded (silent here).",
+    ),
+    # F3 - paper, arc, opens hand as flower unfolds (NO burst yet), cut
+    (
+        "Cut to a medium chest-up on a fresh three-quarter angle: she opens her hand soft as "
+        "the folded flower unfolds and draws a slow breath, her left hand easing open, as the "
+        "camera arcs a few degrees and the paper backdrop swings behind with parallax; gaze "
+        "lifting.",
+        "The arc settles as her gaze lifts to lens with rising warmth and a knowing soft smile "
+        "forms, the world still folded paper, just the one flower unfolding in her hand.",
+        "She holds the poised paper beat, the flower opening, eyes bright and tender \u2014 the "
+        "breath before the burst (silent here).",
+    ),
+    # F4 - THE TRANSFORM, HELD ANGLE, smooth mid-clip petal burst; first=paper, last=petal
+    (
+        "Cut to an energized medium at a HELD angle (Veo first frame = the folded-paper Look A "
+        "still): she eases her hand open as the flower unfolds, already in motion \u2014 the "
+        "world still folded paper, NO burst yet, a gentle push-with easing in, the angle fixed "
+        "for the whole clip.",
+        "The burst BEGINS here, mid-clip: the folded paper unfolds and bursts into soft real "
+        "petals that wrap smoothly around her in one continuous travelling arc, warm rose and "
+        "blush petals fluttering across the pleats by believable real crease-to-petal flutter "
+        "exactly where the arc passes \u2014 fine petal-dust drifting like real flecks, gradual "
+        "and tender, never a snap, no cheap sparkles; the tousled shag catching travelling "
+        "petals, eyes warming in soft awe (angle held, face cleanly lit, identity locked).",
+        "The petal-burst completes its arc and the look settles smoothly and fully into the "
+        "petal Look B of the Veo last-frame still (Frame 5's image) \u2014 soft real-petal "
+        "texture and warm petal-colour washed through the pleats, resolved and held through the "
+        "final beat, no last-second pop; a soft radiant warmth landing in her eyes.",
+    ),
+    # F5 - petal Look B reveal, cut to a NEW angle, settle a petal at the shoulder
+    (
+        "Cut to a medium close on a new angle amid the bloomed petals: she is already in the "
+        "petal-bloomed look, reaching to settle a soft petal at her shoulder with an easy roll "
+        "of the shoulder; gaze easing to lens.",
+        "A soft radiant smile eases to lens on a slow breath, the last petals settling with a "
+        "slow soft drift, eyes soft and luminous.",
+        "She holds the soft alive tender look, the petal dress sitting soft, eyes shining "
+        "direct (silent here).",
+    ),
+    # F6 - spoken line, cut to a fresh angle, push-with the turn
+    (
+        "Cut to a medium chest-up on a fresh angle: she shifts her weight with an easy "
+        "six-degree turn and opens her right hand in a relaxed tender gesture as the camera "
+        "eases with her; gaze warm to lens.",
+        "She delivers \u201cUnfold. Then bloom.\u201d to lens with a soft radiant smile and "
+        "natural lip-sync, the real-petal hairpiece trembling a hair at her temple, eyes warm "
+        "and direct.",
+        "She holds the alive tender look as the petal dress settles, the smile easing into soft "
+        "warmth.",
+    ),
+    # F7 - loop close, cut back to match Frame 1 folded-paper world
+    (
+        "Cut to a medium-wide thigh-up matched to Frame 1: she returns her right hand to rest "
+        "soft near the folded-paper flower and settles her weight onto the back leg exactly as "
+        "in Frame 1 as the camera settles to the opening framing.",
+        "She eases her warm gaze back to lens on a slow breath with the composed calm "
+        "micro-smile, the petal wrap resolving back toward the folded-paper opening and the "
+        "flower re-settling on its stem, to seed the loop.",
+        "She lands precisely on the Frame 1 pose and gaze, soft and crafted in the gentle hush "
+        "\u2014 a seamless loop seam.",
+    ),
+]
+
+
 def build_block(beats):
     return (
         BREAKDOWN_HEADER + "\n"
