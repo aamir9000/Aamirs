@@ -194,6 +194,90 @@ BEATSLM[3] = [
 ]
 
 
+BEATSLM[4] = [
+    # F1 - spring Look A establishing, alive lateral track, cut in
+    (
+        "Cut to a medium-wide thigh-up tracking shot by the lone meadow tree in spring: the "
+        "camera dollies laterally to settle on her as she steps her weight onto the back leg "
+        "and rests her right hand soft at the fishtail braid over her shoulder, pink blossom "
+        "and the tree sliding behind with real parallax; a serene quarter-smile holding.",
+        "The track eases to rest as a face-framing wisp shifts in the spring breeze and her "
+        "calm gaze begins to lift, the serene quarter-smile settling, petals drifting in the "
+        "soft sky-light.",
+        "She holds the serene spring look in her cream knit and dusty-rose cardigan, eyes calm "
+        "and direct (silent here).",
+    ),
+    # F2 - spring, push-with toward the blossom branch, cut to a closer three-quarter
+    (
+        "Cut to a medium-close three-quarter: she is already raising a soft hand toward a low "
+        "blossom branch and grazing the petals as the camera pushes with her hand; gaze toward "
+        "the blossom.",
+        "The petals stir at her fingertips as her gaze warms with quiet wonder and a knowing "
+        "micro-smile kindles.",
+        "A petal lifts free, her eyes soft on the blossom, lips parting a millimetre in gentle "
+        "wonder \u2014 still full spring.",
+    ),
+    # F3 - spring clean (NO turn yet), slow arc to a fresh angle, cut
+    (
+        "Cut to a medium chest-up on a fresh three-quarter angle: she eases both hands open and "
+        "out as if to feel the air, drawing a slow breath as the camera arcs a few degrees and "
+        "the spring meadow swings behind with parallax; gaze beginning to lift.",
+        "The arc settles as her gaze lifts to lens with rising wonder and a knowing micro-smile "
+        "forms, the canopy still in full spring blossom.",
+        "She holds the poised spring beat, hands open and ready, eyes bright with wonder \u2014 "
+        "the breath before the seasons turn (silent here).",
+    ),
+    # F4 - THE TRANSFORM, HELD ANGLE, smooth mid-clip 4-season morph; Veo first=spring, last=winter
+    (
+        "Cut to an energized medium at a HELD angle (Veo first frame = the spring Look A "
+        "still): she opens her arms and holds centre, already in motion \u2014 full spring "
+        "blossom and her dusty-rose cardigan intact, NO change yet, a gentle push-with easing "
+        "in, the angle fixed for the whole clip.",
+        "The four-season turn BEGINS here, mid-clip: a travelling ring sweeps smoothly around "
+        "her in one continuous wavefront \u2014 spring blossom giving to summer green, then to "
+        "autumn leaf-fall as it passes, the tree, ground, light and her layers turning along "
+        "the same front (cardigan easing to the bare summer dress, then a camel trench and rust "
+        "scarf forming), gradual and continuous, never a snap; eyes wide with wonder as it "
+        "crosses (angle held, identity locked).",
+        "The ring completes its turn and settles smoothly and fully into the winter Look B of "
+        "the Veo last-frame still (Frame 5's image) \u2014 cream wool coat, oatmeal scarf and "
+        "knit beanie under soft snow, resolved and held through the final beat, no last-second "
+        "pop; a serene grounded calm landing in her eyes.",
+    ),
+    # F5 - winter Look B reveal, cut to a NEW angle, adjust scarf
+    (
+        "Cut to a medium close on a new angle in soft falling snow: she is already in the cream "
+        "wool coat and oatmeal scarf, reaching up to adjust the scarf at her neck with an easy "
+        "roll of the shoulder; gaze easing to lens.",
+        "A serene smile eases to lens on a slow cool breath, the last flakes settling around "
+        "her, eyes calm and direct.",
+        "She holds the calm cosy winter look, the coat and scarf settling, eyes serene and "
+        "bright (silent here).",
+    ),
+    # F6 - winter spoken line, cut to a fresh angle, push-with the turn
+    (
+        "Cut to a medium chest-up on a fresh angle: she shifts her weight with an easy "
+        "six-degree turn and opens her right mittened hand in a relaxed gesture as the camera "
+        "eases with her; gaze calm to lens.",
+        "She delivers \u201cSeasons change. I don\u2019t.\u201d to lens with a soft serene "
+        "smile and natural lip-sync, soft snow drifting, eyes calm and warm.",
+        "She holds the calm cosy look as the coat settles, the smile easing into grounded "
+        "warmth.",
+    ),
+    # F7 - loop close, cut back to match Frame 1 spring
+    (
+        "Cut to a medium-wide thigh-up matched to Frame 1: she returns her right hand to rest "
+        "soft at the fishtail braid over her shoulder and settles her weight onto the back leg "
+        "exactly as in Frame 1 as the camera settles to the opening framing.",
+        "She eases her calm gaze back to lens on a slow breath with the composed serene "
+        "quarter-smile, the winter palette resolving toward the spring blossom opening to seed "
+        "the loop.",
+        "She lands precisely on the Frame 1 pose and gaze, weight settled and serene \u2014 a "
+        "seamless loop seam.",
+    ),
+]
+
+
 def build_block(beats):
     return (
         BREAKDOWN_HEADER + "\n"

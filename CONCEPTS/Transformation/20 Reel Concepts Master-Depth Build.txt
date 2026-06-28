@@ -1749,7 +1749,7 @@ Footwear: cycling with the seasons within the sweep — SPRING: clean white leat
 
 Accessories: one per season, never cluttered — SPRING: a delicate floral hair pin at the braid; SUMMER: a straw sunhat held soft in hand; AUTUMN: the rust knit scarf; WINTER: soft cream mittens and the knit beanie.
 
-Movement (one impossible move): the four-season sweep — a single travelling ring cycles spring blossom → summer green → autumn leaf-fall → winter snow around her (tree, ground, light, particles and her seasonal layers all turning along the same wavefront) while her face, braid and pose hold locked at centre (locked transform keyframes: START Frame 3 = spring → END Frame 5 = winter, signature beat Frame 4).
+Movement (one impossible move): the four-season sweep — a single travelling ring cycles spring blossom → summer green → autumn leaf-fall → winter snow around her (tree, ground, light, particles and her seasonal layers all turning along the same wavefront) while her face, braid and pose hold locked at centre. The turn occurs MID-CLIP inside Frame 4 at a HELD angle (the clip opens in full spring, the ring sweeps through summer and autumn in its middle, and it settles resolved in winter); the camera may travel with her but never shifts its angle during the turn. Continuity is via Veo first/last-frame: Frame 4's image (spring Look A) = the clip's FIRST frame, Frame 5's image (winter Look B) = the LAST frame; for the cleanest 4-season pass, optionally also supply summer + autumn stills as intermediate Veo keyframes. Every other frame join is a hard CUT to a new angle. Frames 1–3 = spring Look A, Frame 4 = the transform clip, Frames 5–7 = winter Look B.
 
 Concept Line: “Seasons change. I don’t.”
 
@@ -1823,9 +1823,9 @@ SHOT TYPE: medium-wide, thigh-up, subject fills about 55% of the vertical frame.
 LENS: 35mm, f/2.2, smooth blossom background fall-off.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Medium-wide thigh-up by the lone meadow tree in spring: a slow push-in is already gliding toward her as she settles her weight onto the back leg and rests her right hand softly at the fishtail braid over her shoulder, the serene quarter-smile holding; petals drifting in the soft sky-light.
-- [00:02–00:04] The push continues as a face-framing wisp shifts in the spring breeze, her calm gaze beginning to lift; a serene wonder in her eyes.
-- [00:04–00:06] She lifts her calm gaze to lens on a soft inhale, the serene quarter-smile settling, eyes calm and direct.
+- [00:00–00:02] Cut to a medium-wide thigh-up tracking shot by the lone meadow tree in spring: the camera dollies laterally to settle on her as she steps her weight onto the back leg and rests her right hand soft at the fishtail braid over her shoulder, pink blossom and the tree sliding behind with real parallax; a serene quarter-smile holding.
+- [00:02–00:04] The track eases to rest as a face-framing wisp shifts in the spring breeze and her calm gaze begins to lift, the serene quarter-smile settling, petals drifting in the soft sky-light.
+- [00:04–00:06] She holds the serene spring look in her cream knit and dusty-rose cardigan, eyes calm and direct (silent here).
 
 OBJECT ACTION WITH TIMING: 0.0–6.0s — a single blossom petal drifts slowly past her shoulder, the blossom branches sway a hair behind her, and the soft sky light breathes through a passing cloud. Environmental motion only, no object pop-in.
 
@@ -1897,9 +1897,9 @@ SHOT TYPE: medium close, chest-up, subject and blossom branch fill about 58% of 
 LENS: 85mm, f/2.0.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Medium close, chest-up: the slow push continues with a faint tilt-up already following her hand as she raises a soft hand toward a low blossom branch and grazes the petals; gaze toward the blossom.
-- [00:02–00:04] The tilt rides her hand as the petals stir, her gaze warming with quiet wonder and a knowing micro-smile kindling.
-- [00:04–00:06] A petal lifts free, her eyes soft on the blossom, lips parting a millimetre in gentle wonder.
+- [00:00–00:02] Cut to a medium-close three-quarter: she is already raising a soft hand toward a low blossom branch and grazing the petals as the camera pushes with her hand; gaze toward the blossom.
+- [00:02–00:04] The petals stir at her fingertips as her gaze warms with quiet wonder and a knowing micro-smile kindles.
+- [00:04–00:06] A petal lifts free, her eyes soft on the blossom, lips parting a millimetre in gentle wonder — still full spring.
 
 OBJECT ACTION WITH TIMING: 0.0–6.0s — a blossom petal releases from the branch above her fingers and drifts, and the first faint season shimmer breathes at the leaf edges; pollen drifts behind. Environmental and natural-object motion only, no pop-in.
 
@@ -1919,7 +1919,7 @@ NEGATIVE: identity drift, face or hand warp, extra or fused fingers, duplicate p
 
 ### Frame 3 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the locked START keyframe of the four-season sweep — face fully recognizable, still the full spring look (blossom tree, cardigan, white sneakers), the light and leaf edges just beginning to turn. Lock this START so Frame 4’s sweep interpolates cleanly to the full winter END (Frame 5); the locked element is HER — interpolate the seasons and layers around her, never her face.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. SHOT NOTE: a clean full-spring (Look A) beat at its OWN cut/angle — blossom tree, cream knit and dusty-rose cardigan, white sneakers, all fully intact; the season-turn does NOT happen here (it happens mid-clip inside Frame 4). Build quiet serene wonder only; this is one of the three spring frames before the change.
 
 EYE COLOUR: warm dark-brown irises with faint amber flecks, a crisp twin catchlight, gaze lifting to lens with rising wonder, locked to reference.
 
@@ -1945,7 +1945,7 @@ SPATIAL LOGIC: FOREGROUND — the lifting petals and opening hands nearest lens 
 
 LIGHTING: KEY — soft spring key feathered above-front, the first warm summer spill creeping in. FILL — soft sky bounce below (gentle clamshell). RIM — a soft rim firing the lifting petals into points. PRACTICAL — the meadow daylight beginning to warm. SEPARATION — the tree deep so she reads about 2 stops up. BOUNCE — a soft kick lighting the lifting petals.
 
-FRAMING: ASPECT 9:16; medium, chest-up, 11% headroom, the lifting petals entering the lower third, clean negative space camera-left to receive the sweep. (Camera distance locked here as the transform anchor.)
+FRAMING: ASPECT 9:16; medium, chest-up, 11% headroom, the lifting petals entering the lower third, clean negative space camera-left to receive the sweep.
 SUBJECT FRAMING & POSITION: A medium framing holds Aira at about 11% headroom, the lifting petals entering the lower third within the season-turn world shifting through the year's seasons. Her torso is turned about five degrees to open the right shoulder in a near-frontal address, with her weight on the back leg over a soft hip counter-tilt and the front shoulder dropped a touch. The camera holds a mid distance with the figure centred and clean clean negative space held camera-left. She faces front to the lens, composed and alive in the beat. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 LENS + DOF + BOKEH: 50mm, f/2.0; focus split between her near eye and the lifting petals so both read crisp; the tree melting to a smooth field; soft blooms off the gathering petals; gentle roll-off, no clipping.
@@ -1971,9 +1971,9 @@ SHOT TYPE: medium, chest-up, subject and lifting petals fill about 60% of the ve
 LENS: 50mm, f/2.0, smooth background fall-off.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Medium chest-up: a slow push is already tracking the lifting petals as she eases both hands open and out as if to feel the turning air; gaze beginning to lift.
-- [00:02–00:04] The push holds as her gaze lifts to lens with rising wonder and a knowing micro-smile forms, the canopy beginning to shimmer.
-- [00:04–00:06] The petals lift and the canopy shimmers, cueing the four-season sweep, her gaze bright with wonder.
+- [00:00–00:02] Cut to a medium chest-up on a fresh three-quarter angle: she eases both hands open and out as if to feel the air, drawing a slow breath as the camera arcs a few degrees and the spring meadow swings behind with parallax; gaze beginning to lift.
+- [00:02–00:04] The arc settles as her gaze lifts to lens with rising wonder and a knowing micro-smile forms, the canopy still in full spring blossom.
+- [00:04–00:06] She holds the poised spring beat, hands open and ready, eyes bright with wonder — the breath before the seasons turn (silent here).
 
 OBJECT ACTION WITH TIMING: 0.0–6.0s — the blossom branches shimmer toward green at the tips and the first petals lift and gather in the air around her; pollen drifts behind. Environmental motion only, no pop-in.
 
@@ -1993,46 +1993,46 @@ NEGATIVE: identity drift, face or hand warp, extra or fused fingers, duplicate p
 
 ### Frame 4 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the one impossible move — the four-season sweep. LOCK the START (Frame 3, face clear, full spring) and the END (Frame 5, full winter). Mid-sweep the face stays clear and recognizable, softly framed (never buried) by the turning seasons; interpolate strictly between the locked keyframes — do NOT invent a new face, new hands or new bone structure beneath the sweep. Serene and wondrous, true natural physics, painterly not chaotic.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the START frame of the transform CLIP — render her fully in the full SPRING Look A (cream ribbed-knit midi + dusty-rose cardigan, white sneakers, beneath the blossoming tree) — the exact still the Frame-4 video opens on, and Veo's FIRST frame. The four-season turn happens MID-CLIP at this same HELD angle, sweeping through summer-green and autumn leaf-fall before settling to winter (Frame 5's image = Veo's LAST frame); for the cleanest pass, optionally supply summer + autumn stills as intermediate Veo keyframes. Do NOT depict the turn in this still and do NOT invent a new face, new hands or new bone structure.
 
-EYE COLOUR: warm dark-brown irises with faint amber flecks, luminous with serene wonder, a crisp twin catchlight, locked to reference (eye colour holds through the sweep).
+EYE COLOUR: warm dark-brown irises with faint amber flecks, a crisp twin catchlight, gaze lifting into the move, locked to reference.
 
-WARDROBE (refined): the spring cardigan-over-dress turning through the whole year along the same wavefront — the cardigan easing to the bare summer dress, then a camel autumn trench and rust scarf forming, then the cream winter coat, scarf and beanie settling, modest throughout, never revealing.
+WARDROBE: the modest cream ribbed-knit midi dress (long sleeve, high neck) under a dusty-rose light spring cardigan, fully intact and fresh as she opens her arms, fully modest.
 
-HAIR: the fishtail braid catching a sweeping ribbon of turning light mid-motion, the crown lit bright, wisps lively; colour locked beneath the changing light.
+HAIR: the soft fishtail braid draped over the left shoulder, woven full and textured with fine face-framing wisps at the temples; colour locked to reference.
 
-MAKEUP: mid-sweep — the warm spring flush cycling toward a cool winter rose at the cheeks and nose, the skin staying warm and dewy; real pores beneath.
+MAKEUP: a fresh spring look — a warm soft flush, a clean rosy lip, dewy real skin; real pores.
 
-FOOTWEAR: mid-sweep the white sneakers cycle through tan sandals and brown ankle boots toward cream shearling winter boots along the same travelling wave, continuity of grounding held.
+FOOTWEAR: clean white sneakers, grounded, glimpsed low.
 
-ACCESSORIES: the floral pin cycling through the held straw hat and rust scarf toward the winter mittens and beanie, one piece resolving at a time.
+ACCESSORIES: a small floral pin at the cardigan, soft and singular, never cluttered.
 
-HANDS & NAILS: both arms drifting open through the turning ring, palms turning as the seasons cross her; natural nail-bed colour holding soft-rose, neat cuticles, no white-knuckle tension.
+HANDS & NAILS: both arms opening from the body, palms beginning to turn as she lifts into the move, fingers naturally curved; short soft-rose nails, neat cuticles, no white-knuckle tension.
 
-FACIAL MICRO-DYNAMICS: eyes luminous with serene wonder, a gentle parted-lip awe, a calm centred energy — face clear and framed by the turning seasons, identity strictly held to reference.
+FACIAL MICRO-DYNAMICS: eyes lifting with rising serene wonder, lips parting on a held breath, a calm centred micro-smile — composed and warm, face fully recognizable and identity-locked, ready for the seasons to turn mid-clip.
 
-BODY POSTURE & WEIGHT: mid-sweep the spine stays long and the shoulders open with calm ease, weight rolling smooth between the feet — grounded real physics, the still centre of the turning year, modest throughout.
+BODY POSTURE & WEIGHT: front-facing with the torso rotated about 4°, the spine long and the shoulders opening with calm ease as the weight rolls smooth between the feet, chin level — grounded real physics, the still centre about to turn.
 
-KINETIC STILLNESS (8 layers): (1) the season-ring sweeping around her blossom→green→amber→snow at peak; (2) a turning light racing across her cheek and the braid; (3) the tendrils and canopy catching travelling light mid-sweep; (4) petals, then leaves, then snowflakes sparkling through the field in sequence; (5) the grass blooming green then rust then white where the ring passes; (6) speculars multiplying along the turning canopy; (7) the key cycling warm-to-cool through the sweep; (8) her chest mid a slow serene breath.
+KINETIC STILLNESS (8 layers): (1) a face-framing wisp shifting in the spring breeze; (2) soft blossom petals drifting through the sky-light behind her; (3) the blossom canopy stirring gently on the tree; (4) the meadow daylight flickering imperceptibly through the leaves; (5) chest rising on a soft inhale as she opens her arms; (6) a hairline glint travelling the woven braid; (7) the knit breathing with a micro-shift as her ribcage expands; (8) a slow eyelash settle completing a calm blink.
 
-SPATIAL LOGIC: FOREGROUND — a sweeping ribbon of leaves-then-snow nearest lens, soft. MIDGROUND — Aira mid-sweep, the seasons turning, the still hero. BACKGROUND — the lone tree cycling blossom→green→bare→snow-laden with a soft seasonal bloom.
+SPATIAL LOGIC: FOREGROUND — an opening hand and a drifting petal nearest lens at roughly 18% depth, soft. MIDGROUND — Aira centred, the spring hero at the start of the move. BACKGROUND — the lone blossom tree softly defocused with a soft green-pink gradient behind her head for clean separation, no clutter.
 
-LIGHTING: KEY — key cycling warm-to-cool through the sweep. FILL — soft bounce below (gentle clamshell). RIM — a bright soft rim raking the turning ring and the braid (hero light on the motion). PRACTICAL — the meadow daylight cycling through the seasons. SEPARATION — the sweep and faint haze. BOUNCE — soft kicks multiplying across the airborne particles.
+LIGHTING: KEY — a soft warm spring daylight key feathered above-front. FILL — a soft bounce below (gentle clamshell). RIM — a soft rim skimming the braid and shoulder. PRACTICAL — open meadow sky-light. SEPARATION — the tree pulled deep so she reads about 2 stops up. BOUNCE — a soft green-gold kick from the meadow.
 
-FRAMING: ASPECT 9:16; energized medium, Aira centred with the season-ring filling the lower frame, 10% headroom, slight push for intimacy. (Camera distance locked to Frames 3 and 5.)
-SUBJECT FRAMING & POSITION: An energized medium framing opens around Aira at about 10% headroom as the season-ring fills the lower frame, a slight push easing in. Her spine lengthens and her shoulders open as the weight rolls smooth between the feet in grounded real-physics motion. The camera holds a mid distance easing in for intimacy against the season-turn world shifting through the year's seasons, Aira the centred hero at the heart of the move. She is centred with clean negative space held camera-left, lifted at the peak of the transform and facing front to the lens. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+FRAMING: ASPECT 9:16; energized medium, Aira centred with the spring meadow filling the lower frame, 10% headroom, the opening pose of the move — its own distinct cut/angle.
+SUBJECT FRAMING & POSITION: An energized medium framing opens around Aira at about 10% headroom by the blossoming tree, full spring intact as the transform clip begins. Her spine stays long and her shoulders open with calm ease as the weight rolls smooth between the feet in grounded real-physics motion. The camera holds a mid distance on its own fresh angle, a hard cut from Frame 3, with Aira the centred hero and clean negative space held camera-left, lifted at the start of the move and facing front to the lens. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
-LENS + DOF + BOKEH: 50mm, f/2.0; her face and the nearest turning particles tack sharp at the sweep-core, the closest leaves and flakes melting into a soft creamy bokeh with specular blooms.
+LENS + DOF + BOKEH: 50mm, f/2.0; her face and the nearest blossom tack sharp, the tree melting into a smooth green-pink field with soft blooms; gentle highlight roll-off, no clipping.
 
-COMPOSITION REFERENCE: the signature impossible beat — a four-season sweep around a still her, serene and painterly, heightened but identity-locked (transform logic / identity-through-transform).
+COMPOSITION REFERENCE: the start of the signature beat — full spring Look A, serene and fresh, the season-turn held for the video's mid-clip.
 
-ATMOSPHERE: serene, awe-struck, mind-bending — the moment a whole year turns around her and the light cycles through every season.
+ATMOSPHERE: serene, fresh, wondrous — the composed spring instant the transform clip begins.
 
-COLOR GRADE: a live cross-fade through the four seasonal grades — spring green-pink giving way to summer gold-green, then autumn amber-rust, then winter cool blue-white, clean uncrushed blacks, true specularity, balanced mid-tone (no harsh contrast, no garish oversaturation).
+COLOR GRADE: a fresh spring grade — soft green-pink, gentle gold sky-light, clean uncrushed blacks, balanced mid-tone, no harsh contrast, no garish oversaturation.
 
-TEXTURE & MICRO-DETAIL: the turning canopy reads as real blossom giving way to real green leaf, real amber leaf-fall and real snow-laden branch; the cycling light reads as real on living skin; the wardrobe layers show real knit, real wool nap and real shearling in turn; skin reads real with pores beneath the glow.
+TEXTURE & MICRO-DETAIL: the knit reads as real ribbed wool, the cardigan a soft brushed nap; real skin micro-texture with peach-fuzz catching the soft rim; blossom petals drifting real through the light.
 
-PHYSICS: true natural transition physics — petals, leaves and snow each falling on their own believable aerodynamics; the wardrobe layers settling with real wool and shearling weight; the ring obeys a single cycling key; face geometry constant; no melting, no invented anatomy.
+PHYSICS: gravity-true knit drape and braid weight; petals drift on believable aerodynamics; the light tracks a single soft key; weight grounded through both feet — no floating, no stiffness.
 
 NEGATIVE: mirrored, flipped, inverted, extra limbs, fused fingers, melted features, asymmetric eyes (unintentional), garbled text, floating shadows, duplicated subjects, low-res patches, plastic skin, over-smoothed skin, oversharpened, AI-generated artifacts, watermarks, signature, deformed hands, malformed teeth, joint cuts at ankle/knee/wrist/elbow/neck, amputated fingertips, cross-eyed, lazy eye, off-axis pupils, melted clothing, mismatched footwear, mannequin-stiff posture, dead eyes, statue-frozen energy, crushed muddy blacks, garish oversaturation, flat dull light, inventing a new face beneath the sweep, eye-colour drift, sexualization, de-aging.
 
@@ -2042,12 +2042,12 @@ IDENTITY (locked): Aira — same person every frame; face, bone structure, eye s
 
 SHOT TYPE: energized medium of the four-season sweep (the hero move).
 
-LENS: 50mm, f/2.0. (Transform-anchor distance — matches Frames 3 and 5.)
+LENS: 50mm, f/2.0.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Energized medium: the push is already easing into a smooth gentle orbit through the turning ring as the seasons begin to turn around her and she opens her arms and holds centre; gaze lifting into the turn.
-- [00:02–00:04] The orbit rides the hero beat as a cycling light races across her and the canopy, ground and braid catch turning light — spring to summer to autumn (face clear, framed by the sweep, identity locked); eyes wide with wonder.
-- [00:04–00:06] The ring settles toward winter and the cream coat resolves toward the reveal as the orbit eases; a serene grounded calm landing.
+- [00:00–00:02] Cut to an energized medium at a HELD angle (Veo first frame = the spring Look A still): she opens her arms and holds centre, already in motion — full spring blossom and her dusty-rose cardigan intact, NO change yet, a gentle push-with easing in, the angle fixed for the whole clip.
+- [00:02–00:04] The four-season turn BEGINS here, mid-clip: a travelling ring sweeps smoothly around her in one continuous wavefront — spring blossom giving to summer green, then to autumn leaf-fall as it passes, the tree, ground, light and her layers turning along the same front (cardigan easing to the bare summer dress, then a camel trench and rust scarf forming), gradual and continuous, never a snap; eyes wide with wonder as it crosses (angle held, identity locked).
+- [00:04–00:06] The ring completes its turn and settles smoothly and fully into the winter Look B of the Veo last-frame still (Frame 5's image) — cream wool coat, oatmeal scarf and knit beanie under soft snow, resolved and held through the final beat, no last-second pop; a serene grounded calm landing in her eyes.
 
 OBJECT ACTION WITH TIMING: 0.0–6.0s — the season-ring cycles spring blossom → summer green → autumn leaf-fall → winter snow around her, the tree cycling blossom→green→bare→snow-laden, the ground cycling green→rust→white, and her layers cycling cardigan→bare→trench→coat, petals then leaves then flakes sparkling through the field. One coherent transform, no extra objects, no pop-in.
 
@@ -2067,7 +2067,7 @@ NEGATIVE: identity drift, face or hand warp, extra or fused fingers, duplicate p
 
 ### Frame 5 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the locked END keyframe of the four-season sweep; it must resolve continuously out of the START keyframe in Frame 3 — same face, same hands, same camera distance, the spring now settled into full winter. Do NOT invent a new face, new hands or new bone structure; this is the same Aira, serene and warm, never replaced. Frame 3 (START) and Frame 5 (END) are the two anchors of the single transform.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. SHOT NOTE: this is the full-winter Look B reveal at its OWN cut/angle (a hard cut from the Frame-4 transform clip — a new angle/crop, and the Veo last-frame the season-turn resolves into). It carries the resolved winter look the Frame-4 clip ends on; the angle change masks any slight variation. Same Aira, serene and warm, never replaced — do NOT invent a new face, new hands or new bone structure.
 
 EYE COLOUR: warm dark-brown irises with faint amber flecks, a crisp twin catchlight, gaze soft and direct, locked to reference (unchanged through the sweep).
 
@@ -2093,7 +2093,7 @@ SPATIAL LOGIC: FOREGROUND — the adjusting mittened hand and the scarf nearest 
 
 LIGHTING: KEY — a soft cool winter daylight key feathered above-front. FILL — soft cool snow-bounce below (gentle clamshell). RIM — a soft cool rim skimming the braid and the coat shoulder to separate her from the tree. PRACTICAL — soft overcast winter light. SEPARATION — the tree pulled deep so she reads about 2 stops up. BOUNCE — a soft cool snow-kick on the coat.
 
-FRAMING: ASPECT 9:16; medium close, chest-up, 11% headroom, the adjusting hand entering the lower third, clean cool negative space camera-left. (Camera distance matches Frames 3 and 4.)
+FRAMING: ASPECT 9:16; medium close, chest-up, 11% headroom, the adjusting hand entering the lower third, clean cool negative space camera-left.
 SUBJECT FRAMING & POSITION: A medium close framing holds Aira at about 11% headroom, the adjusting hand entering the lower third within the season-turn world shifting through the year's seasons. Her torso is turned about five degrees to open the right shoulder in a near-frontal address, with her weight on the back leg over a soft hip counter-tilt and the front shoulder dropped a touch. The camera holds an intimate beauty distance with the figure centred and clean clean cool negative space held camera-left. She faces front to the lens, composed and alive in the beat. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 LENS + DOF + BOKEH: 50mm, f/2.0; focus split between her near eye and the scarf so both read crisp; the tree melting to a smooth cool field; soft cool blooms off the settling flakes; gentle roll-off, no clipping.
@@ -2116,12 +2116,12 @@ IDENTITY (locked): Aira — same person every frame; face, bone structure, eye s
 
 SHOT TYPE: medium close, chest-up, subject and scarf fill about 58% of the vertical frame.
 
-LENS: 50mm, f/2.0. (Transform-anchor distance — matches Frames 3 and 4.)
+LENS: 50mm, f/2.0.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Medium close, chest-up: the orbit is already easing back to a slow push as the winter look resolves and she reaches up to adjust the scarf at her neck with an easy roll of the shoulder; gaze easing to lens, soft snow settling.
-- [00:02–00:04] The push settles as a serene smile eases to lens on a slow cool breath, the last flakes settling around her.
-- [00:04–00:06] She holds the calm cosy look, the coat and scarf settling, eyes serene and direct.
+- [00:00–00:02] Cut to a medium close on a new angle in soft falling snow: she is already in the cream wool coat and oatmeal scarf, reaching up to adjust the scarf at her neck with an easy roll of the shoulder; gaze easing to lens.
+- [00:02–00:04] A serene smile eases to lens on a slow cool breath, the last flakes settling around her, eyes calm and direct.
+- [00:04–00:06] She holds the calm cosy winter look, the coat and scarf settling, eyes serene and bright (silent here).
 
 OBJECT ACTION WITH TIMING: 0.0–6.0s — the coat settles and the scarf end sways gently, a cool specular travels along the scarf weave, and the last snowflakes drift down and settle; cool winter air mists faint at her breath. Environmental motion only, no pop-in.
 
@@ -2193,8 +2193,8 @@ SHOT TYPE: medium, chest-up, subject fills about 58% of the vertical frame.
 LENS: 35mm, f/2.2.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Medium chest-up: a slow push is already gliding in as she shifts her weight with an easy six-degree turn and opens her right mittened hand in a relaxed gesture; gaze calm to lens.
-- [00:02–00:04] She delivers “Seasons change. I don't.” to lens with a soft serene smile and natural lip-sync, eyes calm and warm.
+- [00:00–00:02] Cut to a medium chest-up on a fresh angle: she shifts her weight with an easy six-degree turn and opens her right mittened hand in a relaxed gesture as the camera eases with her; gaze calm to lens.
+- [00:02–00:04] She delivers “Seasons change. I don’t.” to lens with a soft serene smile and natural lip-sync, soft snow drifting, eyes calm and warm.
 - [00:04–00:06] She holds the calm cosy look as the coat settles, the smile easing into grounded warmth.
 
 OBJECT ACTION WITH TIMING: 0.0–4.8s — the coat sways gently with the shift, the scarf end sways a hair on real inertia, and a cool specular travels along the wool; her breath mists faint and cool winter air drifts behind. Environmental and worn-object motion only, no pop-in.
@@ -2241,7 +2241,7 @@ SPATIAL LOGIC: FOREGROUND — her hand at the braid at roughly 20% depth, tack s
 
 LIGHTING: KEY — a soft key easing from cool winter back toward the warm Frame-1 spring daylight at the seam. FILL — soft bounce below (gentle clamshell). RIM — a soft rim on the braid easing from cool back toward bright. PRACTICAL — the meadow daylight re-warming. SEPARATION — the tree deep so she reads about 2 stops up. BOUNCE — a soft green kick on the knit.
 
-FRAMING: ASPECT 9:16; medium-wide, thigh-up with footwear glimpsed low, 12% headroom — matched to Frame 1 for the seamless loop. (Camera distance returns to Frame 1.)
+FRAMING: ASPECT 9:16; medium-wide, thigh-up with footwear glimpsed low, 12% headroom — matched to Frame 1 for the seamless loop.
 SUBJECT FRAMING & POSITION: A medium-wide framing recovers the exact opening composition at about 12% headroom, matched to Frame 1 for a seamless loop within the season-turn world shifting through the year's seasons. Her torso is turned about five degrees to open the right shoulder in a near-frontal address, with her weight on the back leg over a soft hip counter-tilt and the front shoulder dropped a touch, returned precisely to the opening stance. The camera settles to a mid-wide distance with the figure centred and clean negative space held camera-left. She faces front to the lens, matched precisely for the loop. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 LENS + DOF + BOKEH: 35mm, f/2.2; focus split between her near eye and the hand at the braid so both read crisp (matching Frame 1); the tree melting to a smooth blossom field; gentle roll-off, no clipping.
@@ -2267,9 +2267,9 @@ SHOT TYPE: medium-wide, thigh-up, subject fills about 55% of the vertical frame 
 LENS: 35mm, f/2.2. (Returns to Frame 1 distance.)
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Medium-wide thigh-up matching Frame 1: the orbit is already easing to rest as a slow push resolves toward the opening framing and she returns her right hand to rest light at the fishtail braid over her shoulder, settling her weight onto the back leg exactly as in Frame 1.
-- [00:02–00:04] The push settles as she eases her gaze back to lens on a slow breath with the composed serene quarter-smile, the winter palette resolving toward the spring opening.
-- [00:04–00:06] She lands precisely on the Frame 1 pose and gaze, weight settled — a seamless loop seam.
+- [00:00–00:02] Cut to a medium-wide thigh-up matched to Frame 1: she returns her right hand to rest soft at the fishtail braid over her shoulder and settles her weight onto the back leg exactly as in Frame 1 as the camera settles to the opening framing.
+- [00:02–00:04] She eases her calm gaze back to lens on a slow breath with the composed serene quarter-smile, the winter palette resolving toward the spring blossom opening to seed the loop.
+- [00:04–00:06] She lands precisely on the Frame 1 pose and gaze, weight settled and serene — a seamless loop seam.
 
 OBJECT ACTION WITH TIMING: 0.0–6.0s — the winter look eases back to the spring presentation around her, a soft blossom petal drifts where a snowflake once fell, the soft spring key re-kindles at the tree gradient, and the last cool air warms and fades to seed the loop. Environmental motion only, no pop-in.
 
