@@ -946,6 +946,90 @@ BEATSLM[11] = [
 ]
 
 
+BEATSLM[12] = [
+    # F1 - getting-ready-set Look A establishing (GRWM contained), marigold garland
+    (
+        "Cut to a medium-wide thigh-up tracking shot in the warm pre-sangeet room: the camera "
+        "dollies laterally to settle on her as she settles her weight onto the back leg and "
+        "rests her right hand soft near the marigold garland at her shoulder, the warm room "
+        "sliding behind with real parallax; a serene quarter-smile holding.",
+        "The track eases to rest as a softly-laid baby-hair strand shifts in the evening air "
+        "and she lifts her warm gaze to lens, a serene quarter-smile settling.",
+        "She holds, warm and pre-glam in the simple cotton kurta, the braided low bun sleek, "
+        "eyes soft and luminous (silent here).",
+    ),
+    # F2 - set, push-with + tilt-up, lift hand toward cresting lights, cut to a closer three-quarter
+    (
+        "Cut to a medium-close three-quarter, the camera pushing with her hand and tilting up "
+        "as she lifts it soft toward the cresting fairy lights and opens her fingers as if to "
+        "receive them; gaze rising toward the warm glow.",
+        "The first warm bulbs crest and twinkle above her as her eyes brighten with warm "
+        "anticipation, a soft micro-smile holding.",
+        "She holds the poised beat, gaze up on the gathering lights, the simple set still calm "
+        "and intact (silent here).",
+    ),
+    # F3 - set, arc, raise to receive (lights cresting, NO wrap yet), cut
+    (
+        "Cut to a medium chest-up on a fresh three-quarter angle, the camera arcing a few "
+        "degrees as she raises her hand soft to receive the lights and draws a slow breath, "
+        "her left hand easing open; gaze lifting.",
+        "The arc settles as her gaze lifts to lens with rising spark and a knowing soft smile "
+        "forms, the fairy lights cresting above, the simple set still intact.",
+        "She holds the poised getting-ready beat, hand raised to the crest, eyes warm and "
+        "bright \u2014 the breath before the bloom (silent here).",
+    ),
+    # F4 - THE TRANSFORM, HELD ANGLE, mid-clip fairy-light wrap; first=set, last=festive
+    (
+        "Cut to an energized medium at a HELD angle (Veo first frame = the getting-ready Look A "
+        "still): she holds her hand from receiving the lights, already in motion \u2014 still "
+        "the simple cotton kurta, NO wrap yet, a gentle push-with easing in, the angle fixed "
+        "for the whole clip.",
+        "The wrap BEGINS here, mid-clip: warm fairy lights bloom down and wrap smoothly around "
+        "her in one continuous travelling spiral, warm bulbs racing around her and the venue "
+        "blooming with real string-light glow exactly where the spiral passes \u2014 the simple "
+        "set resolving into the embellished festive look, gradual and warm, never a snap, no "
+        "garish glare; the braided bun catching travelling warm-light, eyes warming in radiant "
+        "awe (angle held, face cleanly lit, identity locked).",
+        "The spiral completes and the look settles smoothly and fully into the festive Look B "
+        "of the Veo last-frame still (Frame 5's image) \u2014 the richly embroidered Indo-"
+        "modern lehenga-and-blouse with a draped dupatta under warm string lights, resolved "
+        "and held through the final beat, no last-second pop; a warm radiant joy landing in "
+        "her eyes.",
+    ),
+    # F5 - festive Look B reveal, cut to a NEW angle, settle dupatta
+    (
+        "Cut to a medium close on a new angle amid the warm string lights: she is already in "
+        "the embellished festive look, reaching to settle the draped dupatta with an easy roll "
+        "of the shoulder; gaze easing to lens.",
+        "A warm radiant smile eases to lens on a slow breath, the last warm bokeh orbs settling "
+        "around her, eyes warm and shining.",
+        "She holds the alive festive look, the embroidery glinting soft, eyes warm and direct "
+        "(silent here).",
+    ),
+    # F6 - spoken line, cut to a fresh angle, push-with the turn
+    (
+        "Cut to a medium chest-up on a fresh angle: she shifts her weight with an easy "
+        "six-degree turn and opens her right hand in a relaxed festive gesture as the camera "
+        "eases with her; gaze warm to lens.",
+        "She delivers \u201cTonight, we light it up.\u201d to lens with a warm radiant smile "
+        "and natural lip-sync, the dupatta and jhumkas settling, eyes warm and direct.",
+        "She holds the alive festive look as the festive set settles, the smile easing into "
+        "warm radiance.",
+    ),
+    # F7 - loop close, cut back to match Frame 1 set + garland
+    (
+        "Cut to a medium-wide thigh-up matched to Frame 1: she returns her right hand to rest "
+        "soft near the marigold garland and settles her weight onto the back leg exactly as in "
+        "Frame 1 as the camera settles to the opening framing.",
+        "She eases her warm gaze back to lens on a slow breath with the composed calm warm "
+        "micro-smile, the festive look resolving back toward the simple pre-glam opening to "
+        "seed the loop.",
+        "She lands precisely on the Frame 1 pose and gaze, warm and serene \u2014 a seamless "
+        "loop seam.",
+    ),
+]
+
+
 def build_block(beats):
     return (
         BREAKDOWN_HEADER + "\n"

@@ -6245,7 +6245,7 @@ Footwear: LOOK A — simple flat slippers; LOOK B — embellished festive heels 
 
 Accessories: one statement per look, never cluttered — LOOK A: simple small studs; LOOK B: statement jhumka earrings plus a delicate maang tikka and a stack of fine bangles.
 
-Movement (one impossible move): the fairy-light bloom wrap — on one beat warm fairy lights bloom and wrap around her in a single travelling spiral (the getting-ready set resolving to the festive look, the venue blooming with string lights) while her face, braided low bun and pose hold locked (locked transform keyframes: START Frame 3 = getting-ready set as the lights crest → END Frame 5 = festive look fully set, signature beat Frame 4).
+Movement (one impossible move): the fairy-light bloom wrap — on one beat warm fairy lights bloom and wrap around her in a single travelling spiral (the getting-ready set resolving to the festive look, the venue blooming with string lights) while her face, braided low bun and pose hold constant. The wrap occurs MID-CLIP inside Frame 4 at a HELD angle (the clip opens in the simple getting-ready set with the lights cresting above, the lights bloom and wrap mid-clip, settling resolved in the festive look); warm and continuous, never a last-second pop, no garish glare; the camera may travel but never shifts its angle. Continuity via Veo first/last-frame: Frame 4's image (getting-ready Look A) = the FIRST frame, Frame 5's image (festive Look B) = the LAST frame. Every other frame join is a hard CUT to a new angle. Frames 1–3 = getting-ready set, Frame 4 = the wrap clip, Frames 5–7 = festive look. (GRWM — contained getting-ready pose held per M.6.)
 
 Concept Line: “Tonight, we light it up.”
 
@@ -6319,9 +6319,9 @@ SHOT TYPE: medium-wide, thigh-up, subject fills about 55% of the vertical frame.
 LENS: 35mm, f/2.2, smooth warm background fall-off.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Medium-wide thigh-up in the warm pre-sangeet room: a slow push-in is already gliding toward her as she settles her weight onto the back leg and rests her right hand soft near the marigold garland at her shoulder; gaze warm and calm.
-- [00:02–00:04] The push continues as a softly-laid baby-hair strand shifts in the evening air and she lifts her warm gaze to lens on a slow inhale, a serene quarter-smile settling.
-- [00:04–00:06] She holds, warm and pre-glam, the braided low bun sleek, eyes soft and luminous (silent here).
+- [00:00–00:02] Cut to a medium-wide thigh-up tracking shot in the warm pre-sangeet room: the camera dollies laterally to settle on her as she settles her weight onto the back leg and rests her right hand soft near the marigold garland at her shoulder, the warm room sliding behind with real parallax; a serene quarter-smile holding.
+- [00:02–00:04] The track eases to rest as a softly-laid baby-hair strand shifts in the evening air and she lifts her warm gaze to lens, a serene quarter-smile settling.
+- [00:04–00:06] She holds, warm and pre-glam in the simple cotton kurta, the braided low bun sleek, eyes soft and luminous (silent here).
 
 OBJECT ACTION WITH TIMING: 0.0–6.0s — one soft warm specular travels slowly down the cotton kurta, the studs glint as her head holds, and a marigold garland sways faintly behind her. Environmental motion only, no object pop-in, the fairy lights not yet bloomed.
 
@@ -6372,7 +6372,7 @@ SUBJECT FRAMING & POSITION: A medium close framing holds Aira at about 11% headr
 
 LENS + DOF + BOKEH: 85mm, f/2.0; focus split between her near eye and the lifting hand so both read crisp; the canopy melting to a smooth warm field; soft warm bokeh orbs off the cresting lights; gentle roll-off, no clipping.
 
-COMPOSITION REFERENCE: the macro build beat — the hand reaching, the fairy lights clearly cresting above (cause building to effect).
+COMPOSITION REFERENCE: a macro hand-reaching beat — warm and poised, the wrap held for the Frame-4 clip.
 
 ATMOSPHERE: still, warm, charged — the suspended instant before the fairy lights bloom.
 
@@ -6393,9 +6393,9 @@ SHOT TYPE: medium close, chest-up, subject and lifting hand fill about 58% of th
 LENS: 85mm, f/2.0.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Medium close chest-up: a slow push with a faint tilt-up is already following her hand as she lifts it soft toward the cresting fairy lights and opens her fingers as if to receive them; gaze rising toward the warm glow.
-- [00:02–00:04] The move rides the lift as the first warm bulbs crest and twinkle above her and her eyes brighten with warm anticipation, a soft micro-smile holding.
-- [00:04–00:06] She holds the poised beat, gaze up on the gathering lights, the simple set still calm, the warm glow building.
+- [00:00–00:02] Cut to a medium-close three-quarter, the camera pushing with her hand and tilting up as she lifts it soft toward the cresting fairy lights and opens her fingers as if to receive them; gaze rising toward the warm glow.
+- [00:02–00:04] The first warm bulbs crest and twinkle above her as her eyes brighten with warm anticipation, a soft micro-smile holding.
+- [00:04–00:06] She holds the poised beat, gaze up on the gathering lights, the simple set still calm and intact (silent here).
 
 OBJECT ACTION WITH TIMING: 0.0–6.0s — a soft specular travels along the studs and the first warm fairy lights crest above her, gathering on their strings; warm haze drifts low. Environmental and worn-object motion only, no pop-in.
 
@@ -6415,7 +6415,7 @@ NEGATIVE: identity drift, face or hand warp, extra or fused fingers, duplicate p
 
 ### Frame 3 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the locked START keyframe of the fairy-light bloom — face fully recognizable, still the getting-ready set, the fairy lights cresting above ready to wrap. Lock this START so Frame 4’s fairy-light wrap interpolates cleanly to the fully-set festive END (Frame 5); the locked element is HER — wrap the lights around her, never alter her face.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. SHOT NOTE: a clean getting-ready-set (Look A) beat at its OWN cut/angle — the simple cotton kurta fully intact, the fairy lights cresting above; the wrap does NOT happen here (it happens mid-clip inside Frame 4). Build warm pre-glam anticipation only.
 
 EYE COLOUR: warm dark-brown irises with faint amber flecks, a warm festive catchlight, gaze lifting to lens with rising spark, locked to reference.
 
@@ -6441,12 +6441,12 @@ SPATIAL LOGIC: FOREGROUND — the raised hand and the first light-tendrils neare
 
 LIGHTING: KEY — soft warm festive key feathered above-front, the first festive-glow cresting in. FILL — soft warm bounce below (gentle clamshell). RIM — a warm rim firing the first light-tendrils into warm points. PRACTICAL — the string lights glowing brighter. SEPARATION — the canopy deep so she reads about 1 stop up. BOUNCE — a warm kick off the drapes lighting the light-tendrils.
 
-FRAMING: ASPECT 9:16; medium, chest-up, 11% headroom, the hand entering the lower third, clean warm negative space camera-left to receive the wrap, the fairy lights cresting top of frame. (Camera distance locked here as the transform anchor.)
+FRAMING: ASPECT 9:16; medium, chest-up, 11% headroom, the hand entering the lower third, clean warm negative space camera-left to receive the wrap, the fairy lights cresting top of frame.
 SUBJECT FRAMING & POSITION: A medium framing holds Aira at about 11% headroom, the hand entering the lower third within the festive sangeet-night GRWM world. Her torso is turned about five degrees to open the right shoulder in a near-frontal address, with her weight on the back leg over a soft hip counter-tilt and the front shoulder dropped a touch. The camera holds a mid distance with the figure centred and clean clean warm negative space held camera-left. She faces front to the lens, composed and alive in the beat. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 LENS + DOF + BOKEH: 50mm, f/2.0; focus split between her near eye and the raised hand so both read crisp; the canopy melting to a smooth field; soft warm bokeh orbs off the first light-tendrils; gentle roll-off, no clipping.
 
-COMPOSITION REFERENCE: the suspended build beat — the fairy lights crest and tip to wrap, the festive look clearly imminent (cause building to effect).
+COMPOSITION REFERENCE: a poised getting-ready beat, fairy lights cresting above — warm and calm, the wrap held for the Frame-4 clip.
 
 ATMOSPHERE: poised-warming, festive, alive — the suspended instant before the lights wrap her.
 
@@ -6467,9 +6467,9 @@ SHOT TYPE: medium, chest-up, subject and raised hand fill about 60% of the verti
 LENS: 50mm, f/2.0, smooth background fall-off.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Medium chest-up at the transform anchor: a slow lateral arc is already easing around to a three-quarter angle as she raises her hand soft to receive the lights and draws a slow breath, her left hand easing open; gaze lifting.
-- [00:02–00:04] The arc settles as her gaze lifts to lens with rising spark and a knowing soft smile forms, the fairy lights cresting and tipping to wrap and the venue beginning to bloom with warm string lights.
-- [00:04–00:06] The lights tip to spiral and the warm bokeh builds, cueing the bloom, her gaze warm and bright.
+- [00:00–00:02] Cut to a medium chest-up on a fresh three-quarter angle, the camera arcing a few degrees as she raises her hand soft to receive the lights and draws a slow breath, her left hand easing open; gaze lifting.
+- [00:02–00:04] The arc settles as her gaze lifts to lens with rising spark and a knowing soft smile forms, the fairy lights cresting above, the simple set still intact.
+- [00:04–00:06] She holds the poised getting-ready beat, hand raised to the crest, eyes warm and bright — the breath before the bloom (silent here).
 
 OBJECT ACTION WITH TIMING: 0.0–6.0s — the fairy lights crest above and the first light-tendrils gather at the shoulder; warm haze drifts and the terrace glows warmer at the edges. Environmental motion only, no pop-in.
 
@@ -6489,46 +6489,46 @@ NEGATIVE: identity drift, face or hand warp, extra or fused fingers, duplicate p
 
 ### Frame 4 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the one impossible move — the fairy-light bloom wrap. LOCK the START (Frame 3, face clear, getting-ready set, lights cresting) and the END (Frame 5, festive look set). On the beat warm fairy lights bloom and wrap around her in a single travelling spiral; mid-wrap the face stays clear and cleanly lit (never buried) by the lights; interpolate strictly between the locked keyframes — do NOT invent a new face, new hands or new bone structure beneath the lights. Warm and radiant, true string-light physics, festive not chaotic.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the START frame of the transform CLIP — render her in the simple getting-ready set (Look A): the soft modest cotton kurta over relaxed pants, her hand raised to receive the fairy lights cresting above (the lights NOT yet wrapped on her) — the exact still the Frame-4 video opens on, and Veo's FIRST frame. The fairy-light bloom wrap happens MID-CLIP at this same HELD angle (the lights bloom and spiral into the festive look), resolving into Frame 5's festive image (Veo's LAST frame). Her face, braided low bun and proportions stay constant. Do NOT depict the wrap in this still and do NOT invent a new face, new hands or new bone structure.
 
-EYE COLOUR: warm dark-brown irises with faint amber flecks, luminous with warm festive spark, a warm festive catchlight, locked to reference (eye colour holds through the wrap).
+EYE COLOUR: warm dark-brown irises with faint amber flecks, a warm catchlight, gaze rising toward the cresting lights, locked to reference.
 
-WARDROBE (refined): the getting-ready set wrapping to the festive look along the single travelling spiral — the kurta resolves to the embellished modest lehenga-and-blouse with a draped dupatta on the beat, modest throughout, never revealing.
+WARDROBE: the simple getting-ready set — a soft modest cotton kurta over relaxed pants, high modest neckline, fully modest, pre-glam and calm, fully intact.
 
-HAIR: the braided low bun catching the fairy-light bloom mid-wrap, the crown lit warm, the bun sleek; colour locked beneath the lights.
+HAIR: the sleek braided low bun with softly laid baby hairs framing the face and a few delicate flyaways; colour locked to reference.
 
-MAKEUP: mid-wrap — the fresh Look-A skin building toward the warm shimmer-bronze lid, soft kohl and warm-rose lip on the beat; real pores beneath.
+MAKEUP: the fresh pre-glam Look-A skin — clean and unmade, dewy real skin; real pores.
 
-FOOTWEAR: mid-wrap the flat slippers resolve to embellished festive heels along the same spiral, continuity of grounding held.
+FOOTWEAR: simple flat slippers, grounded, glimpsed low.
 
-ACCESSORIES: the simple studs resolving to statement jhumkas, a delicate maang tikka and fine bangles on the beat.
+ACCESSORIES: simple studs and the marigold garland at her shoulder, calm and singular, never cluttered.
 
-HANDS & NAILS: the right hand easing down from receiving the lights, the left arm open through the wrap; natural nail-beds easing from warm-nude toward a clean festive sheen, neat cuticles, no white-knuckle tension.
+HANDS & NAILS: her right hand raised soft to receive the cresting fairy lights, fingers opening, the left arm easing open; short warm-nude nails, neat cuticles, no white-knuckle tension.
 
-FACIAL MICRO-DYNAMICS: eyes luminous with warm festive spark, a gentle parted-lip joy, a warm radiant energy — face clear and cleanly lit by the lights, identity strictly held to reference.
+FACIAL MICRO-DYNAMICS: eyes rising with warm festive anticipation, lips parting on a held breath, a serene knowing micro-smile — warm and pre-glam, face fully recognizable and identity-locked, ready for the bloom mid-clip.
 
-BODY POSTURE & WEIGHT: mid-wrap the spine stays long and the shoulders open with festive poise, weight rolling smooth between the feet — grounded real physics, modest throughout.
+BODY POSTURE & WEIGHT: front-facing with the torso rotated about 4°, weight settled on the back leg with a soft hip counter-tilt, chin level, spine long — grounded real physics, the warm pre-glam centre before the wrap.
 
-KINETIC STILLNESS (8 layers): (1) the fairy lights blooming out and wrapping her in a warm travelling spiral; (2) light-strings of warm bulbs racing around the festive look; (3) the braided bun and the air catching travelling warm-light mid-wrap; (4) fine warm bokeh orbs sparkling through the field along the spiral; (5) the festive look setting where the kurta was; (6) warm speculars multiplying along the embellishment-edges; (7) the key warming pre-glam-to-festive through the wrap; (8) her chest mid a slow festive breath.
+KINETIC STILLNESS (8 layers): (1) a softly-laid baby-hair strand shifting in the evening air; (2) the marigold garland trembling soft at her shoulder; (3) the warm pre-sangeet room holding calm behind; (4) the first warm bulbs cresting and twinkling above her; (5) chest rising on a soft inhale; (6) a soft warm glint on a simple stud; (7) the cotton kurta breathing with a micro-shift as her ribcage expands; (8) a slow eyelash settle completing a warm blink.
 
-SPATIAL LOGIC: FOREGROUND — the easing hand and the nearest light-string nearest lens, soft. MIDGROUND — Aira mid-wrap, the festive look assembling, the hero. BACKGROUND — the venue blooming pre-glam-to-festive with warm bokeh.
+SPATIAL LOGIC: FOREGROUND — the raised receiving hand nearest lens at roughly 18% depth, soft. MIDGROUND — Aira centred, the warm pre-glam hero before the wrap. BACKGROUND — the pre-sangeet room softly defocused with the fairy lights cresting above, warm and clean, no clutter.
 
-LIGHTING: KEY — key warming pre-glam-to-festive through the wrap. FILL — soft warm bounce below (gentle clamshell). RIM — a warm rim raking the embellishment-edges and the braided bun (hero light on the wrap). PRACTICAL — the string lights flaring warm on the beat. SEPARATION — the wrap and faint warm haze. BOUNCE — warm kicks multiplying across the bokeh orbs off the drapes.
+LIGHTING: KEY — a soft warm pre-glam key feathered above-front. FILL — a soft warm bounce below (gentle clamshell). RIM — a warm rim skimming the braided bun and the kurta shoulder. PRACTICAL — the first warm string lights above. SEPARATION — the room pulled deep so she reads about 2 stops up. BOUNCE — a soft warm kick off the drapes.
 
-FRAMING: ASPECT 9:16; energized medium, Aira centred with the fairy-light spiral filling the frame, 10% headroom, slight push for intimacy. (Camera distance locked to Frames 3 and 5.)
-SUBJECT FRAMING & POSITION: An energized medium framing opens around Aira at about 10% headroom as the fairy-light spiral fills the lower frame, a slight push easing in. Her spine lengthens and her shoulders open as the weight rolls smooth between the feet in grounded real-physics motion. The camera holds a mid distance easing in for intimacy against the festive sangeet-night GRWM world, Aira the centred hero at the heart of the move. She is centred with clean negative space held camera-left, lifted at the peak of the transform and facing front to the lens. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+FRAMING: ASPECT 9:16; energized medium, Aira centred in the warm pre-sangeet room, 10% headroom — its own distinct cut/angle.
+SUBJECT FRAMING & POSITION: An energized medium framing opens around Aira at about 10% headroom in the warm pre-sangeet room, the simple getting-ready set fully intact as the transform clip begins. Her torso is turned about four degrees with the weight on the back leg over a soft hip counter-tilt. The camera holds a mid distance on its own fresh angle, a hard cut from Frame 3, with Aira the centred hero and clean negative space held camera-left, facing front to the lens. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
-LENS + DOF + BOKEH: 50mm, f/2.0; her face and the nearest light-string tack sharp at the wrap-core, the farthest lights melting into a soft creamy bokeh with warm orbs.
+LENS + DOF + BOKEH: 50mm, f/2.0; her face and the raised hand tack sharp, the room melting into a smooth warm field with the cresting string-lights as soft bokeh; gentle highlight roll-off, no clipping.
 
-COMPOSITION REFERENCE: the signature impossible beat — a fairy-light bloom wrap, warm and radiant, heightened but identity-locked (transform logic / identity-through-transform).
+COMPOSITION REFERENCE: the start of the signature beat — getting-ready Look A, warm and pre-glam, the fairy-light wrap held for the video's mid-clip.
 
-ATMOSPHERE: warm, festive, mind-bending — the moment warm fairy lights wrap her like a glowing spiral.
+ATMOSPHERE: warm, pre-glam, calm — the soft instant the transform clip begins.
 
-COLOR GRADE: a live warm from soft pre-glam to rich festive — soft cores giving way to warm golden festive light with soft edges, soft uncrushed shadows, true warmth, balanced mid-tone (rich warm saturation, never garish, no harsh contrast).
+COLOR GRADE: a soft warm pre-glam grade — gentle warm neutrals, soft tungsten glow, soft uncrushed shadows, balanced mid-tone, no harsh contrast, no garish oversaturation.
 
-TEXTURE & MICRO-DETAIL: the embellishment-edge reads as real embroidery catching warm bulbs; the bokeh orbs read as soft real warm lights; the festive look reads as real on living skin; the wrap shows a real richly-embroidered set where the kurta was; skin reads real with pores beneath the lights.
+TEXTURE & MICRO-DETAIL: the kurta reads as real soft cotton; the marigold garland real fresh petals; real skin micro-texture with peach-fuzz catching the warm rim; faint warm haze in the room.
 
-PHYSICS: true string-light physics — fairy lights blooming and wrapping with believable string spread and inertia; the wrap obeys a single travelling spiral; face geometry constant; no melting, no invented anatomy.
+PHYSICS: gravity-true cotton drape and baby-hair movement; the cresting lights glow by real string-light behaviour; the warm key a single source; weight grounded through both feet — no floating, no stiffness.
 
 NEGATIVE: mirrored, flipped, inverted, extra limbs, fused fingers, melted features, asymmetric eyes (unintentional), garbled text, floating shadows, duplicated subjects, low-res patches, plastic skin, over-smoothed skin, oversharpened, AI-generated artifacts, watermarks, signature, deformed hands, malformed teeth, joint cuts at ankle/knee/wrist/elbow/neck, amputated fingertips, cross-eyed, lazy eye, off-axis pupils, melted clothing, mismatched footwear, mannequin-stiff posture, dead eyes, statue-frozen energy, crushed muddy blacks, garish oversaturation, flat dull light, inventing a new face beneath the lights, eye-colour drift, sexualization, de-aging.
 
@@ -6538,12 +6538,12 @@ IDENTITY (locked): Aira — same person every frame; face, bone structure, eye s
 
 SHOT TYPE: energized medium of the fairy-light bloom wrap (the hero move).
 
-LENS: 50mm, f/2.0. (Transform-anchor distance — matches Frames 3 and 5.)
+LENS: 50mm, f/2.0.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Energized medium: from the crest the slow push is already easing into a smooth gentle orbit as the warm fairy lights bloom down and wrap her in one travelling spiral and her hand eases from receiving them; gaze following the warm wrap.
-- [00:02–00:04] The orbit rides the hero beat as warm bulbs race around the festive look and the braided bun catches travelling warm-light, the simple set resolving to the richly embroidered Indo-modern festive look (face clear and cleanly lit, identity locked, no garish glare); eyes warming in radiant awe.
-- [00:04–00:06] The wrap sets and the festive look resolves toward the reveal as the orbit eases; a warm radiant joy landing in her eyes.
+- [00:00–00:02] Cut to an energized medium at a HELD angle (Veo first frame = the getting-ready Look A still): she holds her hand from receiving the lights, already in motion — still the simple cotton kurta, NO wrap yet, a gentle push-with easing in, the angle fixed for the whole clip.
+- [00:02–00:04] The wrap BEGINS here, mid-clip: warm fairy lights bloom down and wrap smoothly around her in one continuous travelling spiral, warm bulbs racing around her and the venue blooming with real string-light glow exactly where the spiral passes — the simple set resolving into the embellished festive look, gradual and warm, never a snap, no garish glare; the braided bun catching travelling warm-light, eyes warming in radiant awe (angle held, face cleanly lit, identity locked).
+- [00:04–00:06] The spiral completes and the look settles smoothly and fully into the festive Look B of the Veo last-frame still (Frame 5's image) — the richly embroidered Indo-modern lehenga-and-blouse with a draped dupatta under warm string lights, resolved and held through the final beat, no last-second pop; a warm radiant joy landing in her eyes.
 
 OBJECT ACTION WITH TIMING: 0.0–6.0s — the fairy lights bloom over the kurta and set it to the embellished lehenga-and-blouse with a draped dupatta, the slippers resolve to festive heels and the studs resolve to jhumkas, maang tikka and bangles, the venue blooms festive, fine warm bokeh sparkling along the spiral. One coherent transform, no extra objects, no pop-in.
 
@@ -6563,7 +6563,7 @@ NEGATIVE: identity drift, face or hand warp, extra or fused fingers, duplicate p
 
 ### Frame 5 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the locked END keyframe of the fairy-light bloom; it must resolve continuously out of the START keyframe in Frame 3 — same face, same hands, same camera distance, the getting-ready set now fully wrapped to the festive look. Do NOT invent a new face, new hands or new bone structure; this is the same Aira, warm and radiant, never replaced. Frame 3 (START) and Frame 5 (END) are the two anchors of the single transform.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. SHOT NOTE: this is the festive Look B reveal at its OWN cut/angle (a hard cut from the Frame-4 wrap clip — a new angle/crop, and the Veo last-frame the fairy-light wrap resolves into). It carries the resolved festive look the Frame-4 clip ends on; the angle change masks any slight variation. Same Aira, warm and radiant, never replaced — do NOT invent a new face, new hands or new bone structure.
 
 EYE COLOUR: warm dark-brown irises with faint amber flecks, a warm festive catchlight, gaze soft and direct, locked to reference (unchanged through the wrap).
 
@@ -6589,12 +6589,12 @@ SPATIAL LOGIC: FOREGROUND — the settling hand and the dupatta nearest lens at 
 
 LIGHTING: KEY — a clean warm-balanced festive key feathered above-front. FILL — soft warm bounce below (gentle clamshell). RIM — a warm rim skimming the braided bun and the embellished shoulder to separate her from the canopy. PRACTICAL — the string lights now richly warm. SEPARATION — the canopy pulled deep so she reads cleanly against the festive light. BOUNCE — a warm clean kick off the drapes on the festive look.
 
-FRAMING: ASPECT 9:16; medium close, chest-up, 11% headroom, the settling hand entering the lower third, clean warm negative space camera-left. (Camera distance matches Frames 3 and 4.)
+FRAMING: ASPECT 9:16; medium close, chest-up, 11% headroom, the settling hand entering the lower third, clean warm negative space camera-left.
 SUBJECT FRAMING & POSITION: A medium close framing holds Aira at about 11% headroom, the settling hand entering the lower third within the festive sangeet-night GRWM world. Her torso is turned about five degrees to open the right shoulder in a near-frontal address, with her weight on the back leg over a soft hip counter-tilt and the front shoulder dropped a touch. The camera holds an intimate beauty distance with the figure centred and clean clean warm negative space held camera-left. She faces front to the lens, composed and alive in the beat. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 LENS + DOF + BOKEH: 50mm, f/2.0; focus split between her near eye and the dupatta so both read crisp; the canopy melting to a smooth warm field; soft warm bokeh orbs off the settling lights; gentle roll-off, no clipping.
 
-COMPOSITION REFERENCE: the radiant reveal — the getting-ready set wrapped to a festive look, warm and radiant, identity-locked (transform resolved).
+COMPOSITION REFERENCE: the festive reveal — warm and radiant, identity-locked (a match-cut from the Frame-4 wrap).
 
 ATMOSPHERE: warm, radiant, assured — the rich beat after the fairy lights have wrapped her festive.
 
@@ -6612,12 +6612,12 @@ IDENTITY (locked): Aira — same person every frame; face, bone structure, eye s
 
 SHOT TYPE: medium close, chest-up, subject and dupatta fill about 58% of the vertical frame.
 
-LENS: 50mm, f/2.0. (Transform-anchor distance — matches Frames 3 and 4.)
+LENS: 50mm, f/2.0.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Medium close chest-up: the orbit is already easing back to a slow push as the festive look sets and she reaches to settle the draped dupatta with an easy roll of the shoulder; gaze easing to lens.
-- [00:02–00:04] The push settles as a warm radiant smile eases to lens on a slow breath, the last warm bokeh orbs settling around her.
-- [00:04–00:06] She holds the alive festive look, the embroidery glinting soft, eyes warm and shining.
+- [00:00–00:02] Cut to a medium close on a new angle amid the warm string lights: she is already in the embellished festive look, reaching to settle the draped dupatta with an easy roll of the shoulder; gaze easing to lens.
+- [00:02–00:04] A warm radiant smile eases to lens on a slow breath, the last warm bokeh orbs settling around her, eyes warm and shining.
+- [00:04–00:06] She holds the alive festive look, the embroidery glinting soft, eyes warm and direct (silent here).
 
 OBJECT ACTION WITH TIMING: 0.0–6.0s — the festive look settles and the dupatta sways gently, a warm specular travels along the embellished blouse and the jhumkas sway, and the last bokeh orbs drift and fade; clean warm haze drifts behind. Environmental motion only, no pop-in.
 
@@ -6689,7 +6689,7 @@ SHOT TYPE: medium, chest-up, subject fills about 58% of the vertical frame.
 LENS: 35mm, f/2.2.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Medium chest-up: a slow push is already gliding in as she shifts her weight with an easy six-degree turn and opens her right hand in a relaxed festive gesture; gaze warm to lens.
+- [00:00–00:02] Cut to a medium chest-up on a fresh angle: she shifts her weight with an easy six-degree turn and opens her right hand in a relaxed festive gesture as the camera eases with her; gaze warm to lens.
 - [00:02–00:04] She delivers “Tonight, we light it up.” to lens with a warm radiant smile and natural lip-sync, the dupatta and jhumkas settling, eyes warm and direct.
 - [00:04–00:06] She holds the alive festive look as the festive set settles, the smile easing into warm radiance.
 
@@ -6737,7 +6737,7 @@ SPATIAL LOGIC: FOREGROUND — the resting hand near the garland at roughly 20% d
 
 LIGHTING: KEY — a soft key easing from festive back toward the clean Frame-1 pre-glam key at the seam. FILL — soft warm bounce below (gentle clamshell). RIM — a warm rim on the braided bun easing from festive back toward pre-glam. PRACTICAL — the string lights re-settling soft. SEPARATION — the canopy deep so she reads about 1 stop up. BOUNCE — a warm kick off the drapes on the kurta.
 
-FRAMING: ASPECT 9:16; medium-wide, thigh-up with slippers glimpsed low, 12% headroom — matched to Frame 1 for the seamless loop. (Camera distance returns to Frame 1.)
+FRAMING: ASPECT 9:16; medium-wide, thigh-up with slippers glimpsed low, 12% headroom — matched to Frame 1 for the seamless loop.
 SUBJECT FRAMING & POSITION: A medium-wide framing recovers the exact opening composition at about 12% headroom, matched to Frame 1 for a seamless loop within the festive sangeet-night GRWM world. Her torso is turned about five degrees to open the right shoulder in a near-frontal address, with her weight on the back leg over a soft hip counter-tilt and the front shoulder dropped a touch, returned precisely to the opening stance. The camera settles to a mid-wide distance with the figure centred and clean negative space held camera-left. She faces front to the lens, matched precisely for the loop. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 LENS + DOF + BOKEH: 35mm, f/2.2; focus split between her near eye and the resting hand so both read crisp (matching Frame 1); the canopy melting to a smooth warm field; gentle roll-off, no clipping.
@@ -6763,8 +6763,8 @@ SHOT TYPE: medium-wide, thigh-up, subject fills about 55% of the vertical frame 
 LENS: 35mm, f/2.2. (Returns to Frame 1 distance.)
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Medium-wide thigh-up matching Frame 1: the orbit is already easing to rest as a slow push resolves toward the opening framing and she returns her right hand to rest soft near the marigold garland, settling her weight onto the back leg exactly as in Frame 1.
-- [00:02–00:04] The push settles as she eases her warm gaze back to lens on a slow breath with the composed calm warm micro-smile, the festive look resolving back toward the simple pre-glam opening.
+- [00:00–00:02] Cut to a medium-wide thigh-up matched to Frame 1: she returns her right hand to rest soft near the marigold garland and settles her weight onto the back leg exactly as in Frame 1 as the camera settles to the opening framing.
+- [00:02–00:04] She eases her warm gaze back to lens on a slow breath with the composed calm warm micro-smile, the festive look resolving back toward the simple pre-glam opening to seed the loop.
 - [00:04–00:06] She lands precisely on the Frame 1 pose and gaze, warm and serene — a seamless loop seam.
 
 OBJECT ACTION WITH TIMING: 0.0–6.0s — the festive look eases back to the getting-ready presentation around her, a soft specular travels along the cotton kurta where the embellishment specular once ran, the string lights re-settle soft, and the last festive bokeh fades to seed the loop. Environmental motion only, no pop-in.
