@@ -1733,6 +1733,93 @@ BEATSLM[20] = [
 ]
 
 
+BEATSLM[31] = [
+    # F1 - opulent gilded-glow beauty hero (contained, product-at-face), push-in
+    (
+        "Cut to a medium-close chest-up in the candlelit Renaissance studio: she is already "
+        "cradling the faceted amber-gold Gold \u00c9lixir bottle at her collarbone as a slow "
+        "push eases in, the deep oxblood velvet drapery and gilded baroque frame soft behind in "
+        "warm chiaroscuro; her left hand resting easy near her jaw.",
+        "The push settles as a face-framing strand shifts in the warm candle-draft and her warm "
+        "gaze eases to lens, dust-motes hanging in the light shaft, an opulent quarter-smile "
+        "settling.",
+        "She holds the opulent gilded-glow look, the burgundy velvet drinking the candle key, "
+        "eyes warm and direct, the bottle glinting (the line lands later).",
+    ),
+    # F2 - build, lifting dropper to cheekbone, a gold drop; rack-focus product->eye
+    (
+        "Cut to a medium-close three-quarter, a rack-focus pulling from the bottle to her eye: "
+        "she is already lifting the Gold \u00c9lixir dropper near her cheekbone and releasing a "
+        "single warm liquid-gold drop that catches the candlelight; gaze cast soft to the drop.",
+        "The gold drop beads warm on her cheekbone as her gaze warms with quiet focus and a "
+        "knowing micro-smile kindles, the first gold-leaf flakes drifting in.",
+        "She holds the dropper poised near her cheek, eyes warm and opulent, the gilded-glow "
+        "look intact (silent here).",
+    ),
+    # F3 - START clean (flakes gathering, NO sweep yet), slow arc to a fresh angle
+    (
+        "Cut to a medium chest-up on a fresh three-quarter angle: she eases the dropper down "
+        "from her cheek and opens her left hand soft into the gathering gold flakes, drawing a "
+        "slow breath as the camera arcs a few degrees and the velvet drapery swings behind with "
+        "parallax; gaze lifting.",
+        "The arc settles as her gaze lifts to lens with rising warmth and a knowing micro-smile "
+        "forms, gold-leaf flakes gathering and suspending in the warm air, still the opulent "
+        "gilded-glow look.",
+        "She holds the poised opulent beat, the flakes suspended, eyes warm and bright \u2014 the "
+        "hush before the gilding sweep (silent here).",
+    ),
+    # F4 - THE TRANSFORM, HELD ANGLE, smooth mid-clip gilding sweep; first=gilded-glow, last=fully-gilded
+    (
+        "Cut to an energized medium at a HELD angle (Veo first frame = the gilded-glow Look A "
+        "still): she drifts both arms open from her body, already in motion \u2014 still the "
+        "opulent gilded-glow look, NO full gilding yet, a gentle push-with easing in, the angle "
+        "fixed for the whole clip.",
+        "The gilding sweep BEGINS here, mid-clip: a shimmering gold-leaf sweep travels smoothly "
+        "across her skin and gilds the air in one continuous warm wavefront, real beaten-gold "
+        "foil settling along her cheekbone, shoulder and the velvet exactly where it passes "
+        "\u2014 painterly true gold-leaf physics, no garish glare, gradual and opulent, never a "
+        "snap; her face stays clear and warmly lit, eyes warming in opulent wonder (angle held, "
+        "identity locked).",
+        "The sweep completes and the look settles smoothly and fully into the fully-gilded "
+        "radiant after-look of the Veo last-frame still (Frame 5's image) \u2014 a warm gilded "
+        "glow set across her skin in the candlelight, resolved and held through the final beat, "
+        "no last-second pop; a warm opulent calm landing in her eyes.",
+    ),
+    # F5 - END fully-gilded reveal, hand back to bottle, spoken line; slow orbit/push
+    (
+        "Cut to a medium close on a new angle in the candlelit warmth: she is already in the "
+        "fully-gilded radiant after-look, easing both hands open and drifting her right back "
+        "toward the faceted bottle at her collarbone as a slow orbit eases around her; gaze "
+        "warm to lens.",
+        "She delivers \u201cworth its weight in gold.\u201d to lens with a warm knowing smile "
+        "and natural lip-sync, a settling gold-leaf shimmer catching the candle key, eyes warm "
+        "and radiant.",
+        "She holds the fully-gilded opulent look, the bottle cradled soft, eyes warm and direct.",
+    ),
+    # F6 - held opulent, cradling bottle; gentle push
+    (
+        "Cut to a medium-close chest-up on a fresh angle: she settles both hands gently, the "
+        "right cradling the faceted bottle soft near her collarbone, the left easy near her "
+        "jaw, as a gentle push eases in; gaze warm to lens.",
+        "A serene opulent smile holds to lens on a slow warm breath, the gilded glow even on "
+        "her skin, dust-motes drifting in the candle shaft.",
+        "She holds the regal opulent beat, the velvet rich and the gold settled, eyes warm and "
+        "direct \u2014 a held moment before the loop (silent here).",
+    ),
+    # F7 - loop close, cradle bottle matched to F1; pull-out
+    (
+        "Cut to a medium-close chest-up matched to Frame 1: she returns her right hand to "
+        "cradle the faceted amber-gold bottle at collarbone height and her left easy near her "
+        "jaw exactly as in Frame 1 as a soft pull-out settles to the opening framing.",
+        "She eases her warm gaze back to lens on a slow breath with the composed opulent "
+        "quarter-smile, the fully-gilded glow resolving back toward the opening gilded-glow look "
+        "to seed the loop.",
+        "She lands precisely on the Frame 1 pose and gaze, opulent and candlelit \u2014 a "
+        "seamless loop seam.",
+    ),
+]
+
+
 def build_block(beats):
     return (
         BREAKDOWN_HEADER + "\n"

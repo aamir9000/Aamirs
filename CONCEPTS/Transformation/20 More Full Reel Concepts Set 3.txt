@@ -50,7 +50,7 @@ Hair: AP — a sleek low Renaissance chignon with a soft center part, a deep lac
 
 Makeup: AQ — opulent gilded glow: a gold-leaf-flecked lid, warm bronze contour, a glossy bronze-rose lip, gold highlight on the high points, soft-set brows, real pores
 
-Movement: macro oil-drop → gold-leaf gilding sweep transform (the one impossible move) — shimmering gold leaf sweeps across her skin and the air gilds around her
+Movement: gold-leaf gilding sweep transform (the one impossible move) — a shimmering gold-leaf sweep travels across her skin and gilds the air, CONTAINED mid-clip inside Frame 4 at a HELD angle (begins mid-clip, flows smoothly, never an instant snap; painterly true gold-leaf physics, no garish glare). Veo first/last-frame continuity (Frame 4 image = gilded-glow Look A = first frame, Frame 5 image = fully-gilded Look B = last frame); every frame join is a hard match-cut to a new angle. (Beauty-still — contained product-at-face pose held per M.6.)
 
 Concept Line: "worth its weight in gold"
 
@@ -116,9 +116,9 @@ SHOT TYPE: medium close, chest-up, subject fills about 55% of the vertical frame
 LENS: 50mm, f/2.0, smooth creamy background fall-off.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Medium close chest-up: a slow push-in is already gliding toward her as she tilts the faceted amber-gold bottle a few degrees into the candle key, warm gold speculars sliding along the glass and the liquid-gold oil settling; gaze lowered to the bottle, candlelit chiaroscuro deep behind.
-- [00:02–00:04] The push continues as she lifts her warm gaze to lens on a soft inhale and an opulent quarter-smile blooms, a single gold-leaf flake drifting in the warm shaft.
-- [00:04–00:06] She holds, regal and warm, one brow a hair higher, eyes catching the candle catchlight (silent here).
+- [00:00–00:02] Cut to a medium-close chest-up in the candlelit Renaissance studio: she is already cradling the faceted amber-gold Gold Élixir bottle at her collarbone as a slow push eases in, the deep oxblood velvet drapery and gilded baroque frame soft behind in warm chiaroscuro; her left hand resting easy near her jaw.
+- [00:02–00:04] The push settles as a face-framing strand shifts in the warm candle-draft and her warm gaze eases to lens, dust-motes hanging in the light shaft, an opulent quarter-smile settling.
+- [00:04–00:06] She holds the opulent gilded-glow look, the burgundy velvet drinking the candle key, eyes warm and direct, the bottle glinting (the line lands later).
 
 AUDIO: diegetic only, no in-clip music. Ambient bed — a low warm room tone and a faint candle-flame flicker throughout. SFX — a soft glass-tap as her fingers settle on the bottle at 0.6s (gentle attack, short tail), a faint velvet rustle at 3.2s, a delicate warm gold-shimmer accent at 4.8s timed to the gaze-lift. Reaction — a soft audible breath at 3.0s. The master track sits low — a warm cello drone just kindling under the room tone (present, never full). VO — none this frame.
 
@@ -157,7 +157,7 @@ SUBJECT FRAMING & POSITION: A medium close framing holds Aira from the chest up 
 
 LENS + DOF + BOKEH: 50mm, f/2.0; focus split between her near eye and the swelling gold drop so both read crisp; the drapery melting to a lush creamy field; soft golden blooms off the drop and stray flakes; gentle roll-off, no clipping.
 
-COMPOSITION REFERENCE: the hushed build beat — a warm gold drop and first gold-leaf flakes, the gilding clearly imminent (BA.3 cause building to effect).
+COMPOSITION REFERENCE: a macro serum-drop build beat — opulent and poised, the gilding sweep held for the Frame-4 clip.
 
 ATMOSPHERE: opulent, charged, regal — the suspended instant before the gold leaf sweeps across her.
 
@@ -176,9 +176,9 @@ SHOT TYPE: medium close, chest-up, subject and raised dropper fill about 58% of 
 LENS: 50mm, f/2.0.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Medium close: the slow push continues with a faint 3° tilt-up already following her hand as she lifts the dropper near her cheekbone and releases a single warm liquid-gold drop; gaze tracing the falling drop.
-- [00:02–00:04] The tilt rides the drop down as the first gold-leaf flakes catch light in the air, her eyes warming with anticipation.
-- [00:04–00:06] The drop meets her skin with a soft gilded sheen, lashes lowering, a quiet opulent focus holding.
+- [00:00–00:02] Cut to a medium-close three-quarter, a rack-focus pulling from the bottle to her eye: she is already lifting the Gold Élixir dropper near her cheekbone and releasing a single warm liquid-gold drop that catches the candlelight; gaze cast soft to the drop.
+- [00:02–00:04] The gold drop beads warm on her cheekbone as her gaze warms with quiet focus and a knowing micro-smile kindles, the first gold-leaf flakes drifting in.
+- [00:04–00:06] She holds the dropper poised near her cheek, eyes warm and opulent, the gilded-glow look intact (silent here).
 
 AUDIO: diegetic only. Ambient — low warm room tone and a faint candle flicker throughout. SFX — a soft dropper-release tick at 0.8s, a delicate metallic gold-leaf shimmer at 2.4s, a faint velvet rustle at 4.2s (gentle attack, long soft tail). Reaction — a soft slow breath at 2.5s. The master track lifts a touch — a warm cello and a soft harpsichord shimmer rising under the SFX (present, never full). VO — none this frame.
 
@@ -192,7 +192,7 @@ NEGATIVE: identity drift, face or hand warp, extra or fused fingers, duplicate p
 
 ## Frame 3 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the locked START keyframe of the gold-leaf gilding sweep transform — face fully recognizable, still the opulent gilded-glow look, the gold-leaf flakes now gathering and suspending in the warm air around her, the first flakes just kissing her cheekbone and shoulder. Lock this START so Frame 4's sweep interpolates cleanly to the full gilded END (Frame 5).
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. SHOT NOTE: a clean gilded-glow (Look A) beat at its OWN cut/angle — the opulent gilded-glow look fully intact, gold-leaf flakes gathering and suspending in the warm air; the gilding sweep does NOT happen here (it happens mid-clip inside Frame 4). Build opulent anticipation only.
 
 WARDROBE: the deep-burgundy velvet gown, continuity-locked, the brocade beginning to catch gathering gold-flake glints, fully modest and pristine, zero snags.
 
@@ -217,7 +217,7 @@ SUBJECT FRAMING & POSITION: A medium framing holds Aira from the chest up with a
 
 LENS + DOF + BOKEH: 50mm, f/2.0; focus split between her near eye and the nearest suspended flake so both read crisp; the drapery melting to a lush creamy field; warm golden blooms off the flakes; gentle roll-off, no clipping.
 
-COMPOSITION REFERENCE: the hushed suspended build beat — gold leaf gathers and suspends, the gilding sweep clearly imminent (BA.3 cause building to effect).
+COMPOSITION REFERENCE: a poised opulent beat, gold-leaf flakes suspended — warm and rich, the sweep held for the Frame-4 clip.
 
 ATMOSPHERE: opulent, charged, regal — the suspended instant before the gold leaf sweeps across her.
 
@@ -236,9 +236,9 @@ SHOT TYPE: medium, chest-up, subject and gathering flakes fill about 60% of the 
 LENS: 50mm, f/2.0, smooth creamy background fall-off.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Medium chest-up: a slow push is already tracking the gathering gold-leaf flakes as she lowers the dropper a touch and they begin to swirl around her; gaze following the drifting gold.
-- [00:02–00:04] The push holds as the suspended flakes catch rotating warm glints, her eyes warming with anticipation.
-- [00:04–00:06] The gathering tightens and brightens, cueing the sweep, her gaze lifting a degree in expectation.
+- [00:00–00:02] Cut to a medium chest-up on a fresh three-quarter angle: she eases the dropper down from her cheek and opens her left hand soft into the gathering gold flakes, drawing a slow breath as the camera arcs a few degrees and the velvet drapery swings behind with parallax; gaze lifting.
+- [00:02–00:04] The arc settles as her gaze lifts to lens with rising warmth and a knowing micro-smile forms, gold-leaf flakes gathering and suspending in the warm air, still the opulent gilded-glow look.
+- [00:04–00:06] She holds the poised opulent beat, the flakes suspended, eyes warm and bright — the hush before the gilding sweep (silent here).
 
 AUDIO: diegetic only, no in-clip music. Ambient — low warm room tone and a faint candle flicker throughout. SFX — the soft settle of the lowering dropper at 0.8s, a delicate suspended gold-leaf shimmer at 2.4s, a faint warm air-swell at 4.8s as the flakes mass (gentle attack, long soft tail). Reaction — a soft slow breath at 2.8s. The master track sits low — a warm cello and a soft harpsichord under the SFX (present, never full). VO — none this frame.
 
@@ -252,38 +252,40 @@ NEGATIVE: identity drift, face or hand warp, extra or fused fingers, duplicate p
 
 ## Frame 4 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the one impossible move — the gold-leaf gilding sweep. LOCK the START (Frame 3, face clear, opulent gilded-glow, flakes gathering) and the END (Frame 5 open, fully gilded radiant after-look). Mid-sweep the face stays clear and recognizable, softly framed (never buried) by the sweeping gold leaf; interpolate strictly between the locked keyframes — do NOT invent a new face, new hands or new bone structure beneath the gold leaf. Opulent and warm, true beaten-gold foil physics, painterly not chaotic.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the START frame of the transform CLIP — render her fully in the opulent gilded-glow Look A (the exact still the Frame-4 video opens on, and Veo's FIRST frame): the deep-burgundy velvet gown with gold brocade, cradling the Gold Élixir, both arms beginning to drift open as gold-leaf flakes gather and suspend in the warm air (the full gilding sweep NOT yet across her). The gilding sweep happens MID-CLIP at this same HELD angle (the camera may push or travel with her but never rotates its angle through the change; the gold-leaf sweeps across her skin and gilds the air by painterly true beaten-gold foil physics — no garish glare), resolving into Frame 5's fully-gilded after-look image (Veo's LAST frame). Her face, chignon and proportions stay constant. Do NOT depict the sweep in this still and do NOT invent a new face, new hands or new bone structure.
 
-WARDROBE (refined): the burgundy velvet gown catching the gilding at its richest as the sweep crosses — brocade flaring with travelling gold glints, fully modest, never revealing.
+WARDROBE: the structured deep-burgundy velvet gown with gold-embroidered brocade at the bodice, modest high neckline and long fitted sleeves, the velvet drinking the candle key into soft sculptural shadow, fully modest, fully intact (the full gilding not yet swept).
 
-HAIR: the sleek chignon catching a sweeping gold ribbon of light mid-motion, gilded baby-hairs lit bright; color locked beneath the sheen.
+HAIR: the sleek chignon, glossy with softly-laid baby-hairs, one warm candle-glint along the crown; colour locked to reference.
 
-MAKEUP: mid-sweep — the gilded glow flushing to its luminous peak, the gold-leaf-flecked lid kindling brighter, the bronze-rose lip enriching, the gold highlight glowing on the high points; real pores beneath.
+MAKEUP: the opulent gilded-glow Look-A base — a soft gold-leaf-flecked lid, a bronze-rose lip, a gold highlight on the high points; skin real with visible pores and fine vellus texture.
 
-HANDS & NAILS: both arms drifting open through the sweep, palms turning up as the gold leaf sweeps across her skin and gilds the air; natural nail-bed color, neat cuticles, no white-knuckle tension.
+HANDS & NAILS: both arms beginning to drift open from her body, palms easing up as the first gold flakes gather, the right near the cradled bottle; short almond gold-nude nails, neat cuticles, no white-knuckle tension.
 
-FACIAL MICRO-DYNAMICS: eyes luminous with serene opulent awe, a gentle parted-lip wonder, a clean regal warmth — face clear and framed by the sweeping gold leaf, identity strictly held to reference.
+FACIAL MICRO-DYNAMICS: a serene opulent gaze with a gentle parted-lip wonder, a clean regal warmth — composed and fully recognizable, identity-locked, ready for the gilding sweep mid-clip.
 
-BODY POSTURE & WEIGHT: mid-gilding the spine lengthens and the shoulders open regal, weight rolling smooth between the feet — grounded real physics, modest throughout.
+BODY POSTURE & WEIGHT: front-facing with the torso rotated about 4°, the spine long and the shoulders open regal, weight settled with a soft hip counter-tilt — grounded real physics, the opulent centre before the sweep, modest throughout.
 
-KINETIC STILLNESS (8 layers): (1) gold-leaf flakes sweeping across her skin and shoulder in warm arcs at peak; (2) a sweeping gold shimmer racing bright across her cheek and collarbone; (3) the chignon and velvet catching travelling gold light mid-sweep; (4) warm dust-motes and micro-flakes sparkling through the field; (5) the velvet nap flaring with gold highlight; (6) gold speculars multiplying across the airborne leaf; (7) the candle glow blooming a touch brighter through the sweep; (8) her chest mid a slow awed breath.
+KINETIC STILLNESS (8 layers): (1) the first gold-leaf flakes gathering and suspending in the warm air; (2) the candle key flickering soft on the velvet; (3) the chignon baby-hairs lifting a millimetre in the candle-draft; (4) warm dust-motes hanging in the light shaft; (5) the velvet nap breathing as her ribcage expands; (6) a soft gold glint on the faceted bottle; (7) the brocade catching one warm specular; (8) a slow eyelash settle completing a calm blink.
 
-SPATIAL LOGIC: FOREGROUND — a sweeping gold flake nearest lens, soft. MIDGROUND — Aira mid-sweep, the gilding assembling, the hero. BACKGROUND — the burgundy drapery with soft creamy falloff and warm candle bloom.
+SPATIAL LOGIC: FOREGROUND — a gathering gold flake and the cradled bottle nearest lens, soft. MIDGROUND — Aira in the gilded-glow look, the hero. BACKGROUND — the deep oxblood and burgundy velvet drapery and gilded baroque frame in warm candlelit chiaroscuro, present and rich behind.
 
-LIGHTING: KEY — warm candle key now brighter through the sweep. FILL — soft warm bounce below (gentle clamshell). RIM — a bright soft gold rim raking the sweeping leaf and the chignon (hero light on the motion). PRACTICAL — the candle glow and warm dust. SEPARATION — the sweep and faint gold haze. BOUNCE — soft gold kicks multiplying across the airborne flakes.
+LIGHTING: KEY — a warm candle key feathered above-front shaping soft sculptural light. FILL — a soft warm bounce below (gentle clamshell). RIM — a soft gold rim on the chignon and shoulder. PRACTICAL — the candle glow and warm dust shaft. SEPARATION — the velvet pulled deep so she reads about 2 stops up. BOUNCE — a soft gold kick off the brocade.
 
-FRAMING: ASPECT 9:16; energized medium-wide, Aira centered with the gilding sweep filling the lower frame, 10% headroom, slight push for intimacy.
-SUBJECT FRAMING & POSITION: A energized medium-wide framing opens around Aira with about 10% headroom as the gold-leaf gilding fills the lower frame, a slight push easing in for intimacy. Her spine lengthens and her shoulders open as the weight rolls smooth between the feet in grounded real-physics motion. The camera eases wider against deep burgundy velvet drapery in warm candle-light, Aira the centred hero at the heart of the bloom. She is centred with the gold-leaf gilding radiating around her. She faces front to the lens, lifted at the peak of the transform. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+FRAMING: ASPECT 9:16; energized medium-wide, Aira centered in the candlelit Renaissance studio, 10% headroom — its own distinct cut/angle.
+SUBJECT FRAMING & POSITION: An energized medium-wide framing opens around Aira at about 10% headroom in the candlelit Renaissance studio, the opulent gilded-glow Look A fully intact as the transform clip begins. Her torso is turned about four degrees with the weight settled over a soft hip counter-tilt, arms beginning to drift open. The camera holds a mid distance on its own fresh angle, a hard cut from Frame 3, with Aira the centred hero and the burgundy velvet present behind, facing front to the lens. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
-LENS + DOF + BOKEH: 50mm, f/2.0; her face and the nearest sweeping flakes tack sharp at the sweep-core, the closest flake melting into a soft creamy bokeh with warm gold specular blooms.
+LENS + DOF + BOKEH: 50mm, f/2.0; her face and the cradled bottle tack sharp, the velvet drapery melting into a soft creamy bokeh with warm candle blooms; gentle highlight roll-off, no clipping.
 
-COMPOSITION REFERENCE: the signature impossible beat — a gold-leaf gilding sweep, opulent and painterly, heightened but identity-locked (AT.5 transform logic / identity-through-transform).
+COMPOSITION REFERENCE: the start of the signature beat — opulent gilded-glow Look A, candlelit and regal, the gilding sweep held for the video's mid-clip.
 
-ATMOSPHERE: opulent, exhilarating, mind-bending — the moment the gold leaf sweeps across her and the air gilds warm around her.
+ATMOSPHERE: opulent, warm, charged — the regal instant the transform clip begins.
 
-COLOR GRADE: rich warm chiaroscuro gold — deep burgundy, gilded gold highlights, rich uncrushed blacks, true foil specularity, warm full mid-tone (no harsh contrast, no garish oversaturation).
+COLOR GRADE: rich warm chiaroscuro gold kept controlled — deep burgundy, gilded gold highlights, rich uncrushed blacks, true foil specularity, warm full mid-tone (no harsh contrast, no garish oversaturation).
 
-TEXTURE & MICRO-DETAIL: the sweeping flakes read as real beaten-gold foil with crinkled translucent edges and true metallic specular, the gold shimmer reads as a real sheen on living skin, the velvet shows a real crushed nap flaring with gold, skin reads real with pores beneath the glow.
+TEXTURE & MICRO-DETAIL: the burgundy velvet shows a real crushed nap; the brocade reads as real gold thread; the faceted bottle reads as real glass; real skin micro-texture with peach-fuzz catching the gold rim; warm dust-motes in the candle shaft.
+
+NEGATIVE: mirrored, flipped, inverted, extra limbs, fused fingers, melted features, asymmetric eyes (unintentional), garbled text, floating shadows, duplicated subjects, low-res patches, plastic skin, over-smoothed skin, oversharpened, AI-generated artifacts, watermarks, signature, deformed hands, malformed teeth, joint cuts at ankle/knee/wrist/elbow/neck, amputated fingertips, cross-eyed, lazy eye, off-axis pupils, melted clothing, mismatched footwear, mannequin-stiff posture, dead eyes, statue-frozen energy, garbled label text, crushed muddy blacks, garish oversaturation, flat dull light, inventing a new face beneath the gold leaf.
 
 NEGATIVE: mirrored, flipped, inverted, extra limbs, fused fingers, melted features, asymmetric eyes (unintentional), garbled text, floating shadows, duplicated subjects, low-res patches, plastic skin, over-smoothed skin, oversharpened, AI-generated artifacts, watermarks, signature, deformed hands, malformed teeth, joint cuts at ankle/knee/wrist/elbow/neck, amputated fingertips, cross-eyed, lazy eye, off-axis pupils, melted clothing, mismatched footwear, mannequin-stiff posture, dead eyes, statue-frozen energy, garbled label text, crushed muddy blacks, garish oversaturation, flat dull light, inventing a new face beneath the gold leaf.
 
@@ -296,9 +298,9 @@ SHOT TYPE: energized medium-wide of the gold-leaf gilding sweep (the hero move).
 LENS: 50mm, f/2.0.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Energized medium-wide: the push is already easing into a smooth gentle orbit as the suspended gold-leaf flakes sweep across her skin in warm arcs and she opens her arms; gaze lifting into the sweep.
-- [00:02–00:04] The orbit rides the hero beat as a sweeping gold shimmer races across her and the velvet and chignon catch travelling gold light (face clear, framed by the sweep); eyes widening in opulent awe.
-- [00:04–00:06] The sweep settles and the gilding resolves as the orbit eases; a radiant regal look landing, eyes alight with warm gold.
+- [00:00–00:02] Cut to an energized medium at a HELD angle (Veo first frame = the gilded-glow Look A still): she drifts both arms open from her body, already in motion — still the opulent gilded-glow look, NO full gilding yet, a gentle push-with easing in, the angle fixed for the whole clip.
+- [00:02–00:04] The gilding sweep BEGINS here, mid-clip: a shimmering gold-leaf sweep travels smoothly across her skin and gilds the air in one continuous warm wavefront, real beaten-gold foil settling along her cheekbone, shoulder and the velvet exactly where it passes — painterly true gold-leaf physics, no garish glare, gradual and opulent, never a snap; her face stays clear and warmly lit, eyes warming in opulent wonder (angle held, identity locked).
+- [00:04–00:06] The sweep completes and the look settles smoothly and fully into the fully-gilded radiant after-look of the Veo last-frame still (Frame 5's image) — a warm gilded glow set across her skin in the candlelight, resolved and held through the final beat, no last-second pop; a warm opulent calm landing in her eyes.
 
 AUDIO: diegetic-led. Ambient — low warm room tone. SFX — a warm metallic gold-sweep shimmer swell 0.4–2.4s, fine drifting-leaf sparkle 2.1–4.2s (gentle attack, long soft tails), a soft velvet flare at 3.0s. Reaction — a soft awed breath at 2.4s. The master track lifts to its opulent peak here — a warm cello-and-harpsichord swell landed on the sweep (present, still under the SFX, never full). VO — none (the line lands next frame).
 
@@ -314,7 +316,7 @@ NEGATIVE: identity drift, face or hand warp, extra or fused fingers, duplicate p
 
 IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
 
-TRANSFORM KEYFRAME NOTE: this is the locked END keyframe of the gold-leaf gilding sweep transform; it must resolve continuously out of the START keyframe in Frame 3 — same face, same hands, same camera distance, the gold leaf now settled into a radiant gilded glow across her skin. Do NOT invent a new face, new hands or new bone structure beneath the gold leaf; this is the same Aira, opulent and radiant, never replaced. Frame 3 (START) and Frame 5 (END) are the two anchors of the single transform.
+TRANSFORM KEYFRAME NOTE: this is the fully-gilded Look B reveal at its OWN cut/angle (a hard cut from the Frame-4 gilding-sweep clip — a new angle/crop, and the Veo last-frame the sweep resolves into). It carries the resolved fully-gilded radiant after-look the Frame-4 clip ends on; the angle change masks any slight variation. Same Aira, opulent and radiant, never replaced — do NOT invent a new face, new hands or new bone structure.
 
 WARDROBE: the deep-burgundy velvet gown at its richest, the gold-embroidered brocade catching one travelling gold highlight, the modest neckline pristine, fully modest, zero snags.
 
@@ -358,9 +360,9 @@ SHOT TYPE: medium close, chest-up, subject fills about 56% of the vertical frame
 LENS: 50mm, f/2.0, smooth creamy background fall-off.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Medium close chest-up: a slow push is already gliding in as she eases her hands open and the gilding settles, the last flakes drifting; gaze warm to lens.
-- [00:02–00:04] She delivers “worth its weight in gold.” to lens with a soft knowing opulent smile, eyes warm and direct.
-- [00:04–00:06] She holds the radiant regal look as one final flake settles, the smile easing into calm warmth.
+- [00:00–00:02] Cut to a medium close on a new angle in the candlelit warmth: she is already in the fully-gilded radiant after-look, easing both hands open and drifting her right back toward the faceted bottle at her collarbone as a slow orbit eases around her; gaze warm to lens.
+- [00:02–00:04] She delivers “worth its weight in gold.” to lens with a warm knowing smile and natural lip-sync, a settling gold-leaf shimmer catching the candle key, eyes warm and radiant.
+- [00:04–00:06] She holds the fully-gilded opulent look, the bottle cradled soft, eyes warm and direct.
 
 AUDIO: diegetic plus the spoken line. SPOKEN LINE (lip-sync) — Aira says "worth its weight in gold." from 1.5–4.1s in English with a natural Indian accent, warm knowing tone, mouth shapes matched exactly. Ambient — low warm room tone and faint candle flicker throughout. SFX — a delicate settling gold-leaf shimmer at 0.9s, a faint velvet rustle at 1.4s (kept clear of the VO). The master track ducks gently under the line and holds its warmth low.
 
@@ -418,9 +420,9 @@ SHOT TYPE: medium close, chest-up, subject fills about 56% of the vertical frame
 LENS: 50mm, f/2.0, smooth creamy background fall-off.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Medium close chest-up: a slow push is already gliding in as she settles her hands and cradles the bottle softly near her collarbone; gaze easing to lens.
-- [00:02–00:04] The push holds as she settles a serene opulent smile to lens on a slow breath, a regal beat with no words; eyes calm and warm.
-- [00:04–00:06] She holds the composed regal look, candle-glow soft on the velvet, eyes luminous.
+- [00:00–00:02] Cut to a medium-close chest-up on a fresh angle: she settles both hands gently, the right cradling the faceted bottle soft near her collarbone, the left easy near her jaw, as a gentle push eases in; gaze warm to lens.
+- [00:02–00:04] A serene opulent smile holds to lens on a slow warm breath, the gilded glow even on her skin, dust-motes drifting in the candle shaft.
+- [00:04–00:06] She holds the regal opulent beat, the velvet rich and the gold settled, eyes warm and direct — a held moment before the loop (silent here).
 
 AUDIO: diegetic only, no VO this frame. Ambient — low warm room tone and faint candle flicker throughout. SFX — a soft glass-settle as her fingers cradle the bottle at 0.8s, a faint velvet rustle at 2.8s, a delicate warm gold-shimmer at 4.0s (gentle attack, long soft tail). Reaction — a soft slow breath at 3.0s. The master track returns to a warm low bed, holding under the room tone.
 
@@ -480,9 +482,9 @@ SHOT TYPE: medium close, chest-up, subject fills about 55% of the vertical frame
 LENS: 50mm, f/2.0, smooth creamy background fall-off.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Medium close chest-up matching Frame 1: a slow push is already resolving toward the exact opening framing as she re-cradles the faceted bottle and tilts it into the candle key, gold speculars sliding along the glass; gaze lowering to the bottle.
-- [00:02–00:04] The push settles as she eases her warm gaze back to lens on a slow breath with the composed quarter-smile, the composition resolving to the opening; eyes calming.
-- [00:04–00:06] She lands precisely on the Frame 1 pose and gaze, weight settled — a seamless loop seam.
+- [00:00–00:02] Cut to a medium-close chest-up matched to Frame 1: she returns her right hand to cradle the faceted amber-gold bottle at collarbone height and her left easy near her jaw exactly as in Frame 1 as a soft pull-out settles to the opening framing.
+- [00:02–00:04] She eases her warm gaze back to lens on a slow breath with the composed opulent quarter-smile, the fully-gilded glow resolving back toward the opening gilded-glow look to seed the loop.
+- [00:04–00:06] She lands precisely on the Frame 1 pose and gaze, opulent and candlelit — a seamless loop seam.
 
 AUDIO: diegetic only, no VO. Ambient — low warm room tone and a faint candle flicker throughout. SFX — a faint glass-tap at 0.8s as her fingers settle on the bottle (gentle attack, short tail), a soft velvet rustle at 3.2s, a delicate warm gold-shimmer at 5.2s timed to the gaze-lift. The master track resolves softly here so it can loop clean.
 
