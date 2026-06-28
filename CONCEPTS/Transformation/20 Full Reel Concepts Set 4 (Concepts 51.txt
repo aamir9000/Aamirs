@@ -845,8 +845,7 @@ Hair: Sculpted Victorian Updo, centre part
 
 Makeup: Warm Gilded Glow (bronze-lit highlight, soft copper lip)
 
-Movement: a slow turn → clockwork gear-assembly transform → product golden-light hero
-
+Movement: a slow turn → clockwork gear-assembly transform → product golden-light hero. The Look A→Look B change (fitted bronze-silk underdress → ornate gilded couture gown with brass filigree gearwork and clock-hand detailing) is contained MID-CLIP inside Frame 2 at a HELD angle — Veo first/last-frame continuity (Frame 2 image = Look A = first frame, Frame 3 image = Look B = last frame); every frame join is a hard match-cut to a new angle.
 Concept Line: "beauty, like clockwork"
 
 Duration: 30 seconds | 6 frames
@@ -861,7 +860,7 @@ Spoken line: lands Frame 4 — "beauty, like clockwork." (English, natural India
 
 Audio note: per-frame in-video AUDIO is diegetic-plus-design; a separate 🎵 Master Track Brief follows the final frame (low and subtle, never full).
 
-Identity safety: the transform locks BOTH keyframes — start = pre-transform recognizable face + bronze underdress; end = gilded clockwork couture gown, new AND clearly her; the gear-assembly covers only the crossing; only the named transform is impossible, all light and fabric obey real physics.
+Identity safety: the change is contained inside the single Frame-2 transform clip — it OPENS on the recognizable pre-transform face + fitted bronze-silk underdress (Look A) and RESOLVES smoothly to the ornate gilded couture gown with brass filigree gearwork and clock-hand detailing (Look B, new AND clearly her) by clip-end; the clockwork gear-assembly covers only the mid-clip crossing at a held angle; only the named transform is impossible, all light and fabric obey real physics.
 
 ---
 
@@ -929,41 +928,40 @@ NEGATIVE: identity drift, face or hand warp, extra or fused fingers, duplicate p
 
 IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
 
-TRANSFORM KEYFRAME NOTE: the clockwork gear-assembly transform. START KEYFRAME (locked) — Aira mid-turn in the bronze-silk underdress, face fully recognizable, caught as the first brass cogs and clock-hands begin to spin in from the air toward her. CROSSING (the only impossible beat) — dozens of brass gears, filigree cogs and clock-hands fly in along clean arcs and interlock around her body, meshing and clicking into an ornate gilded couture gown that assembles piece by piece like a watch movement closing. END KEYFRAME (locked) — Aira in the finished gilded clockwork couture gown, the new look fully resolved, new AND unmistakably her. Identity, bone structure and hair colour ride through untouched; the gear-assembly covers only the crossing; gown weight, drape, light and shadow obey real physics on both sides; no double-Aira, no face morph, no melt, no clipping through her body.
+TRANSFORM KEYFRAME NOTE: the clockwork gear-assembly transform — contained MID-CLIP inside this one frame at a HELD angle. This is the START frame of the transform CLIP — render her fully in the fitted bronze-silk underdress Look A (the exact still the Frame-2 video opens on, and Veo's FIRST frame): the fitted bronze-silk underdress fully intact, face fully recognizable, caught at the instant before the clockwork gear-assembly begins (the change NOT yet begun). The change happens MID-CLIP at this same HELD angle — clockwork gear-assembly sweeps smoothly across her in one continuous wavefront and the fitted bronze-silk underdress re-forms into the ornate gilded couture gown with brass filigree gearwork and clock-hand detailing — settling into Frame 3's finished Look B image (Veo's LAST frame); the camera may travel or crane with her but never rotates its angle through the change. Identity, bone structure and hair colour ride through untouched. Do NOT depict the morph in this still and do NOT invent a new face, new hands or new bone structure.
 
-WARDROBE: mid-transform — the lower body still fitted bronze silk, the bodice already assembled into ornate brass-filigree gearwork with interlocking cogs and clock-hand detailing, a clean meshing seam where the gears are still clicking into place; fully modest high neckline and long fitted line, the freshly-set brass catching bright amber speculars; silk and metalwork both reading with real weight.
+WARDROBE: a fitted bronze-silk underdress, floor-length and fully modest with a high draped neckline and long fitted sleeves, the silk catching the amber gaslight in warm bronze highlights along each fold; a single fine brass cuff at the wrist; fabric immaculate, weighted and flawless with no creasing.  The look is fully intact — no transform yet.
 
-HAIR (Sculpted Victorian Updo): unchanged through the crossing — the centre-part sculpted updo holds, polished and smooth, a few loose tendrils lifting in the moving air, now catching a warm brass glint; real strand separation, hair colour locked to the reference.
+HAIR (Sculpted Victorian Updo): a centre part sweeping into a sculpted high updo with soft rolled volume, polished and smooth with a clean hairline and minimal flyaways, a few soft face-framing tendrils left loose; healthy sheen with real strand separation, hair colour locked to the reference.
 
-MAKEUP (Warm Gilded Glow): the warm base now picking up a brighter gold bounce from the assembling brass, bronze lid and copper lip unchanged; skin still real with visible pores and peach-fuzz.
+MAKEUP (Warm Gilded Glow): a luminous warm base, a soft bronze-gold lid with fine lashes, brushed-up brows, a gilded highlight on the cheekbone and brow-bone, a soft copper-rose satin lip, a warm peach blush; dewy real skin with visible pores and fine vellus texture (glow from light, never plastic).
 
-HANDS & NAILS: one hand lifting away as a cog spins in past it, fingers relaxed and clear of the meshing teeth; almond nails in glazed bronze-nude gloss, neat cuticles, natural nail-bed colour.
+HANDS & NAILS: both hands cradling the amber "Rouage d'Or" dropper bottle at the heart, fingertips light on the glass and brass collar with natural nail-bed colour; almond nails in a warm glazed bronze-nude gloss, neat cuticles.
 
-FACIAL MICRO-DYNAMICS: lips parting on a small delighted breath as the gears lock, eyes following the assembling cogs with bright wonder, a gentle brow lift; warm amber catchlights; alive and reacting, never frozen.
+FACIAL MICRO-DYNAMICS: a poised composed calm — a soft knowing closed-lip smile, eyes warm and direct with an amber catchlight, brows level and relaxed; the faintest living softness, alive not frozen.
 
-BODY POSTURE & WEIGHT: caught mid-turn, weight transferring onto the front foot, torso opening toward camera, one arm easing out as the gown assembles — graceful and balanced, living stillness.
+BODY POSTURE & WEIGHT: caught mid-turn, weight transferring onto the front foot, torso opening toward camera, one arm easing out — graceful and balanced, living stillness.
 
-KINETIC STILLNESS (8 layers): (1) brass cogs flying in along clean arcs and meshing; (2) clock-hands sweeping into place across the bodice; (3) the bronze silk hem still settling from her turn below the assembly line; (4) a freshly-meshed gear giving a final quarter-turn click; (5) a loose tendril lifting in the moving air; (6) warm amber speculars travelling the new brasswork; (7) chest rising on the delighted breath; (8) fine gold dust kicked up swirling in the gaslight.
+KINETIC STILLNESS (8 layers): (1) a giant brass gear turning almost imperceptibly behind her; (2) a loose tendril swaying a few millimetres in the warm air; (3) the bronze silk breathing with a slow highlight shift as she inhales; (4) fine gold dust turning in the amber gaslight; (5) chest rising on a soft breath; (6) a warm specular sliding on the brass collar of the bottle; (7) a small floating cog drifting slowly past in the background; (8) a slow soft blink completing.
 
-SPATIAL LOGIC: FOREGROUND — a brass cog spinning in and the lifted hand, sharp. MIDGROUND — Aira mid-transform, the meshing seam dividing silk and gearwork. BACKGROUND — the clockwork atelier softly blurred, giant gears turning, amber gaslight, more cogs streaming in.
+SPATIAL LOGIC: FOREGROUND — the amber dropper bottle and her cradling hands at the heart, tack sharp, brass collar forward. MIDGROUND — Aira centred among the gears. BACKGROUND — a warm brass clockwork atelier, giant slow-turning gears, amber gaslight pools, floating cogs and clock-hands, rich mahogany depth.
 
-LIGHTING: KEY — warm amber gaslight, now with a bright kick raking the assembling brass. FILL — a warm mahogany bounce keeping shadows rich but readable. RIM — a gold rim on hair and shoulder. PRACTICAL — amber gas-lamps and gear-gap glow. SEPARATION — a brighter gap behind her head. BOUNCE — a warm card keeping the lower silk from going flat.
+LIGHTING: KEY — a warm amber gaslight pool as the motivated key wrapping her face. FILL — a soft warm bounce off the mahogany keeping shadows rich but readable. RIM — a gold rim skimming hair and shoulder from a gear-gap behind. PRACTICAL — amber gas-lamps and the glow between the gears as in-frame sources. SEPARATION — a brighter gear-gap glow behind her head. BOUNCE — a warm card lifting the bottle glass and brass.
 
-FRAMING: ASPECT 9:16; full-figure, slightly low angle for grandeur, the assembling cogs leading the eye inward, 12% headroom.
-SUBJECT FRAMING & POSITION: A full-figure transform hero from a slightly low angle with about 12% headroom, the diagonal transform-line of the clockwork gilded leading the eye. Her body caught mid-turn, weight transferring onto the front foot, torso opening toward the lens, one arm beginning the transform gesture. Camera low for elegance, the complete figure in frame in the clockwork gilded, clean negative space. She is centred, caught mid-motion rather than posed. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+FRAMING: ASPECT 9:16; full-figure, slightly low angle for grandeur, the warm brass clockwork atelier leading the eye, 12% headroom.
+SUBJECT FRAMING & POSITION: A full-figure transform hero from a slightly low angle with about 12% headroom, the warm brass clockwork atelier leading the eye. Her body caught mid-turn, weight transferring onto the front foot, torso opening toward the lens, one arm easing out from the body. Camera low for elegance, the complete figure in frame in the clockwork gilded, clean negative space. She is centred, caught mid-motion rather than posed. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 LENS + DOF + BOKEH: 50mm, f/2.0; her face and the meshing bodice tack sharp, the atelier warm and creamy, amber specular orbs off the flying cogs; clean highlight roll-off on the brass, no clipping.
 
-COMPOSITION REFERENCE: the signature transform beat — a single ornate impossible gear-assembly crossing, warm and intricate, share-worthy.
+COMPOSITION REFERENCE: the held breath before the signature transform — a single elegant impossible clockwork gear-assembly crossing about to begin, cinematic and share-worthy.
 
-ATMOSPHERE: precise, magical-but-believable — clockwork dressing her in gilded couture.
+ATMOSPHERE: anticipation, magical-but-believable — the instant before the clockwork gear-assembly re-dresses her.
 
-COLOR GRADE: warm cinematic gold — deep amber and brass, rich mahogany shadow, gilded highlights, rich airy blacks (cinematic lane).
+COLOR GRADE: warm cinematic gold — deep amber and brass, rich mahogany shadow, gilded highlights, rich airy blacks, soft bloom (cinematic lane, not the bright-commercial override).
 
-TEXTURE & MICRO-DETAIL: the brass reads as real machined metal with fine engraved gear-teeth, tiny lathe-marks and warm speculars; the clock-hands show crisp blued-steel edges; the bronze silk keeps real drape below the line; glass-skin micro-texture with peach-fuzz; gold dust swirls believably.
+TEXTURE & MICRO-DETAIL: the amber bottle shows real glass depth with sub-surface warmth and a pin-sharp specular off the brass collar; the bronze silk shows fine weave and a warm sheen shift; glass-skin micro-texture with peach-fuzz catching the rim; engraved gear-teeth on the giant wheels read crisp; fine gold dust drifts believably.
 
 NEGATIVE: mirrored, flipped, inverted, extra limbs, fused fingers, melted features, asymmetric eyes (unintentional), garbled text, floating shadows, duplicated subjects, low-res patches, plastic skin, over-smoothed skin, oversharpened, AI artifacts, watermarks, signature, deformed hands, malformed teeth, joint cuts, amputated fingertips, cross-eyed, lazy eye, off-axis pupils, melted clothing, mannequin-stiff posture, dead eyes, statue-frozen energy, double-Aira, face morph during transform, gears clipping through body, melted brass.
-
 ## Frame 2 of 6 — VIDEO PROMPT
 
 IDENTITY (locked): Aira — same person every frame; face, bone structure, eye shape + colour, nose, lips, skin texture and hair strictly locked to reference; ONLY expression, gaze and head move; no identity drift, no face/anatomy warp, no second or duplicate person.
@@ -973,9 +971,9 @@ SHOT TYPE: full-figure transform hero, slightly low angle.
 LENS: 50mm, f/2.0.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Full-figure from a slightly low angle: a slow controlled arc is already rising as the first brass cogs and clock-hands spin in from the air toward her; gaze tracking the incoming gears, eyes brightening.
-- [00:02–00:04] The arc rides the assembly up her body as gears fly in along clean arcs and interlock, the gilded gown meshing into being piece by piece like a watch movement closing; a delighted breath, brows lifting in wonder.
-- [00:04–00:06] The last cog meshes and clicks home and the finished gown settles as the arc eases; a warm luminous smile landing, eyes alight on the brass filigree.
+- [00:00–00:02] Cut to full-figure transform hero, slightly low angle — HELD angle (Veo first frame = the fitted bronze-silk underdress Look A still): a gentle push-with is already travelling with her in the fitted bronze-silk underdress — the look fully intact, NO change yet, the angle fixed for the whole clip; gaze easing into the beat.
+- [00:02–00:04] The change BEGINS here, mid-clip: clockwork gear-assembly sweeps smoothly across her in one continuous wavefront, the fitted bronze-silk underdress re-forming into the ornate gilded couture gown with brass filigree gearwork and clock-hand detailing exactly where it passes — gradual and motivated, never a snap; a soft awe rising in her eyes (angle held, identity locked).
+- [00:04–00:06] The wavefront completes and the look settles smoothly and fully into the ornate gilded couture gown with brass filigree gearwork and clock-hand detailing Look B of the Veo last-frame still (Frame 3's image), resolved and held; a luminous expression landing.
 
 AUDIO: diegetic-plus-design, no spoken word. Ambient bed — the warm room-tone and steady clockwork tick rising with a soft warm swell under the crossing. SFX — a flurry of precise brass cog-whirs and meshing clicks as the gears fly in and interlock 0.0–4.0s, a satisfying final gear-lock thunk as the gown resolves at 5.6s, a soft chime as it settles. Reaction — a soft delighted breath at 1.4s. VO — none. Master track lifts gently under the transform then eases (subtle, never full).
 
