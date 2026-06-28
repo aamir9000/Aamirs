@@ -1071,7 +1071,7 @@ Hair: a sleek high ponytail with a glossy wet finish, a few face-framing strands
 
 Makeup: dewy neon-glow skin, a glossy clear-pink lip, a soft cyan-flecked lid catching the signage, real pores.
 
-Hero Movement / Impossible Move: rain-freeze ripple — at the spin apex, falling raindrops freeze into a suspended shimmering sphere, then release.
+Hero Movement / Impossible Move: rain-freeze ripple — contained MID-CLIP: at the spin apex the falling raindrops freeze into a suspended shimmering sphere — every droplet truly still mid-air with real surface tension (crisp and believable, never blobby or fake) — then releases into real fall. Frame joins are hard match-cuts to new angles.
 
 Mood: ELECTRIC, cool, confident.
 
@@ -1352,7 +1352,7 @@ SUBJECT FRAMING & POSITION: A front-on full shot at the spin apex, Aira mid-turn
 
 ATMOSPHERE: the magical frozen instant — time held still in the rain.
 
-COLOUR GRADE: vivid neon-noir at peak saturation, glittering speculars, rich blacks, full mid-tone.
+COLOUR GRADE: rich neon-noir held balanced against deep blacks (neon is the ceiling — vivid but never pushed garish), glittering speculars, full mid-tone.
 
 TEXTURE & MICRO-DETAIL: each suspended droplet a tiny neon lens, vinyl reflections, frozen splash beads, real skin texture, crisp strand detail.
 
@@ -1368,7 +1368,7 @@ LENS: 35mm, f/2.5.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
 - [00:00–00:02] Front-on full, centred: she launches into the spin mid-turn, trench and ponytail flaring, as the camera begins a smooth 180° orbit around her; gaze sweeping with the turn.
-- [00:02–00:04] At the spin apex the falling rain freezes into a glittering suspended ripple-sphere around her while the orbit keeps gliding through the held droplets; eyes widening in cool wonder, lips parting on a caught breath.
+- [00:02–00:04] At the spin apex the falling rain freezes into a glittering suspended ripple-sphere around her — every droplet truly suspended mid-air with real surface tension, crisp and believable, not blobby or fake — while the bullet-time orbit keeps gliding through the held droplets, neon refracting in each; eyes widening in cool wonder, lips parting on a caught breath.
 - [00:04–00:06] Time releases, the droplets drop and the orbit carries on as she completes the turn, a confident half-smile landing, gaze settling forward.
 
 FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
@@ -1381,7 +1381,7 @@ FABRIC/HAIR/PROP PHYSICS: coat and ponytail flare with centrifugal force; at the
 
 FOOTWORK & BODY FLOW: a pivoting spotting turn on the ball of the boot, the spin clean and balanced.
 
-TRANSITION / IMPOSSIBLE MOVE: THE hero move — falling rain freezes into a suspended ripple-sphere around her at the spin apex, then releases; locked freeze keyframe.
+TRANSITION / IMPOSSIBLE MOVE: THE hero move, contained mid-clip — falling rain freezes into a suspended ripple-sphere at the spin apex (every droplet truly still with real surface tension, refracting the neon), then releases into real fall; the bullet-time orbit glides through the frozen droplets. Frame joins are hard match-cuts to new angles.
 
 LIGHTING-IN-MOTION: as the orbit moves, neon refracts through the suspended droplets in travelling rainbows; on release the sphere collapses into rain.
 
