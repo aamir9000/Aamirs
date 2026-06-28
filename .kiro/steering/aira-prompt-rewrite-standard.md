@@ -777,3 +777,67 @@ SEQUENCING (per user): FIRST finish the L+M retrofit (sections L + lean-strip) a
 transformation concepts/files; THEN do this full-body pose/motion pass (M.6-M.8) over everything.
 Exceptions stay contained: GRWM (11-13), identical-pose premise (02 Six Cities), beauty-still (14);
 fragrance (06,07) gentle motion.
+
+
+
+====================================================================
+## *** CURRENT STATE & TWO-PASS PLAN — READ THIS FIRST ON RESUME (most recent) ***
+====================================================================
+Branch aira-prompts-enhanced. Folders: CONCEPTS/{Transformation, Beauty, Surreal, Action,
+Time-Freeze, Travel-Scenic, Product} (see FOLDER STRUCTURE near top). Push via github power
+push_to_remote (path /projects/sandbox/Aamirs, owner aamir9000, repository_name Aamirs,
+remote_branch_name aira-prompts-enhanced). Commit per concept.
+
+There are TWO sequential passes. FINISH PASS 1 across ALL transformation concepts/files BEFORE
+starting PASS 2.
+
+--- PASS 1 (IN PROGRESS) — L+M RETROFIT + LEAN-STRIP (sections L, M.1-M.5, B) ---
+Per transformation concept:
+  1. LEAN-STRIP the video prompts (engine `_tools/lean_strip.py "<path>"`, video-section scoped):
+     short IDENTITY line, remove static LIGHTING + ENVIRONMENT lines, trim video NEGATIVE.
+     ALREADY DONE on the 13 standard files (Transformation x10, Beauty, Surreal, Product).
+  2. Rebuild the 7 video SHOT BREAKDOWN beats into the L+M model via engine
+     `_tools/lm_rebuild.py "<path>" <N>` (add a BEATSLM[N] 7-tuple first): each frame opens
+     "Cut to ..." (match-cut, new angle); transform happens MID-CLIP at a HELD angle inside the
+     transform frame; smooth (begins middle, never abrupt/last-second); Veo first/last-frame
+     wiring (transform-frame image = Look A = FIRST frame, next image = Look B = LAST frame);
+     loop F-last -> F1. Engine also strips the old "(Transform-anchor distance ...)" / "(Camera
+     distance ...)" parentheticals.
+  3. IMAGE edits per concept (manual str_replace): rewrite the Movement line to the L+M model;
+     flip the transform-frame (F4) IMAGE to the clean LOOK A it opens on; change F3/F5 keyframe
+     notes + F2/F3/F5 COMPOSITION-REFERENCE lines from "START/END keyframe / suspended build /
+     radiant reveal / imminent" to clean held-look / match-cut SHOT NOTES.
+  4. VERIFY region: 0 of {mid-*, locked START/END, interpolate strictly, Camera distance,
+     suspended build, macro build beat, radiant reveal, transform resolved, cause building to
+     effect}; 7 "Cut to" beats; F4 image shows Look A. Whole file breakdown count unchanged.
+  5. Commit + push.
+PASS 1 DONE: Master-Depth Build concepts 01-12 (commits through 9a72427).
+PASS 1 REMAINING:
+  - Master-Depth Build: concepts 13-20 (13 5AM-GRWM, 14 Glass-Skin, 15 Inked, 16 Rain Check,
+    17 Long Drive, 18 Bookshop, 19 Kitchen Light, 20 Countdown). lm_rebuild.py BEATSLM has 1-12.
+  - Then the other Transformation/ files: 20 Cinematic Reels New Set; 20 More Full Reel Set 3;
+    Set 4 (51); Set 5 (71); Set 5 (cont); Set 5 (cont 2); Set 5 (cont 3); Set 5 (cont 4);
+    Concepts 91-110. (NOTE: these were section-B rebuilt + lean-stripped earlier but NOT yet on
+    the L+M mid-clip/cuts/first-last-frame model — they still use the old orbit-through-transform
+    beats; bring them onto L+M.)
+  - Then non-transformation folders as applicable (Surreal 131-150, Action, Time-Freeze,
+    Travel-Scenic aira_set4/5, Product) — these get lean-strip + section-K believability + L+M
+    only where a real A->B/mid-clip change exists (match-cut/cut model otherwise).
+
+--- PASS 2 (AFTER PASS 1 IS COMPLETE) — FULL-BODY POSE/MOTION (sections M.6, M.7, M.8) ---
+Apply to EVERY concept EXCEPT the held-pose exceptions. Subject must be in a DIFFERENT POSE or
+genuinely IN MOTION in EVERY frame — a head-to-toe kinetic chain (gaze/head/shoulders/arms/hands/
+waist/hips/legs/feet/locomotion/hair/fabric), a DIFFERENT combination each frame, theme-tailored.
+Written into BOTH (a) the video SHOT BREAKDOWN beats AND (b) the image BODY POSTURE & WEIGHT /
+SUBJECT FRAMING / HANDS / KINETIC STILLNESS so the start still already shows a distinct dynamic
+pose. Keep loop + first/last-frame.
+  EXCLUDE / keep contained: GRWM reels (Master-Depth 11 First Day, 12 Sangeet, 13 5 AM Club, and
+  any other GRWM); identical-pose-by-premise (Master-Depth 02 Six Cities); beauty-still
+  (Master-Depth 14 Glass Skin). Fragrance (Master-Depth 06 Midnight Bloom, 07 Gold Hour) = GENTLE
+  motion, not fully static.
+  A full-body reference draft for Master-Depth Concept 01 (Steel to Silk) video beats was authored
+  in chat (stride-in / profile-glance / pivot-arms-open / mid-turn transform / complete-turn-hem-
+  flare / half-step-to-lens / pivot-back-loop) and can be reused when Pass 2 reaches it.
+
+RULE OF THUMB: GRWM = held/contained pose (Pass 2 skips them); everything else = full per-frame
+pose/motion variety in Pass 2. Pass 1 must be complete on a file before Pass 2 touches it.
