@@ -69,9 +69,9 @@ def phases_of(va, vb):
     if not am: return []
     out = []
     for p in re.split(r";\s*", am.group(1).strip()):
-        # strip leading timing prefix: "0:00.0–0:00.8 — " or "0.0–3.0s — "
-        p = re.sub(r"^\s*\d+:\d+(?:\.\d+)?\s*\u2013\s*\d+:\d+(?:\.\d+)?\s*\u2014\s*", "", p)
-        p = re.sub(r"^\s*[\d.]+\s*\u2013\s*[\d.]+s\s*\u2014\s*", "", p).strip()
+        # strip leading timing prefix: "0:00.0–0:00.8 — ", "0.0–3.0s — ", or "0.0–1.8s " (no dash)
+        p = re.sub(r"^\s*\d+:\d+(?:\.\d+)?\s*\u2013\s*\d+:\d+(?:\.\d+)?\s*(?:\u2014\s*)?", "", p)
+        p = re.sub(r"^\s*[\d.]+\s*\u2013\s*[\d.]+s\s*(?:\u2014\s*)?", "", p).strip()
         p = re.sub(r"\s*(?:One clean subject action[^.]*|Clean cause[^.]*|real physics throughout|real physics except[^.]*)\.?\s*$", "", p).strip()
         if p: out.append(p.rstrip("."))
     return out

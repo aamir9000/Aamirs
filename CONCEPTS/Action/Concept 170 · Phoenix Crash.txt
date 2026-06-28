@@ -88,7 +88,7 @@ NEGATIVE: no trait enumeration, no logos, no second vehicle, no crash yet, no de
 
 ## Frame 1 of 8 — VIDEO PROMPT
 
-IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked identity reference and hold her the SAME PERSON for the entire 6-second clip and every generated frame. Treat identity as a FIXED skeleton that never changes — bone structure (skull, cheekbones, jawline, chin), overall face shape and proportions, eye shape, spacing and iris colour, nose and lip shape, skin tone and real skin texture (visible pores, fine peach-fuzz; no plastic smoothing, no beautification creep, no face re-shaping), hairline, hair colour and texture, height, build and hand/finger anatomy. ONLY the soft expression muscles may move — eyelids, brows, cheeks and mouth corners — together with the eyes, gaze and head; expression and lip-sync animate ON TOP of that fixed identity and must NEVER alter the face shape, the eye colour, or who she is. Keep expression changes smooth and moderate and lead them with the EYES and GAZE (soft smiles, brow lifts, a parted breath, eyes tracing the object) — no extreme grimace, no wide-mouth distortion, no hard squint, no rapid expression flicker that would warp the geometry; favour one clean expression transition per clip. ABSOLUTE ZERO identity drift: no morphing, melting, smearing, rubbery warping, face-swapping, twinning or a second/duplicate subject, no age, weight, ethnicity or gender shift, no extra, missing or fused fingers or limbs. Identity stays identical at the first frame, every in-between frame, the loop seam and the last frame. Through any transform, impossible move or fast action ONLY the intended element (wardrobe, environment, props or effect) changes — her face, identity and proportions stay fully recognizable; interpolate strictly between the locked keyframes and never invent a new face, new hands, extra limbs or a second subject. Do not mirror, flip or invert the frame.
+IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked identity reference and hold her the SAME PERSON for the entire 6-second clip and every generated frame. Treat identity as a FIXED skeleton that never changes — bone structure (skull, cheekbones, jawline, chin), overall face shape and proportions, eye shape, spacing and iris colour, nose and lip shape, skin tone and real skin texture (visible pores, fine peach-fuzz; no plastic smoothing, no beautification creep, no face re-shaping), hairline, hair colour and texture, height, build and hand/finger anatomy. ONLY the soft expression muscles may move — eyelids, brows, cheeks and mouth corners — together with the eyes, gaze and head; expression and lip-sync animate ON TOP of that fixed identity and must NEVER alter the face shape, the eye colour, or who she is. Keep expression changes smooth and moderate and lead them with the EYES and GAZE (soft smiles, brow lifts, a parted breath, eyes tracing the object) — no extreme grimace, no wide-mouth distortion, no hard squint, no rapid expression flicker that would warp the geometry; favour one clean expression transition per clip. ABSOLUTE ZERO identity drift: no morphing, melting, smearing, rubbery warping, face-swapping, twinning or a second/duplicate subject, no age, weight, ethnicity or gender shift, no extra, missing or fused fingers or limbs. Identity stays identical at the first frame, every in-between frame, the loop seam and the last frame. Through any transform, impossible move or fast action ONLY the intended element (wardrobe, environment, props or effect) changes — her face, identity and proportions stay fully recognizable; carry continuity smoothly between the locked keyframes and never invent a new face, new hands, extra limbs or a second subject. Do not mirror, flip or invert the frame.
 
 CLIP SUMMARY: A slow cinematic push toward Aira and the whole phoenix-gold car at rest on the night sky-bridge — a held, breathing calm that establishes wholeness and stillness before the arc. Nothing breaks; the ember-underglow pulses once, a single rain-bead runs, and the city glimmers far below.
 
@@ -102,7 +102,10 @@ LENS & OPTICS: ≈35mm, f/2.8, faint warm bloom on the ember-underglow, no flare
 
 FOCUS BEHAVIOUR: Aira and the car held in crisp focus throughout; the city bokeh stays soft. A whisper of focus-breath as the push settles.
 
-SUBJECT ACTION WITH TIMING: 0.0–1.8s Aira stands composed, hand resting on the gull-wing sill; 1.8–3.6s the smallest weight-settle and a slow calm breath; 3.6–5.4s her gaze levels toward camera with a faint knowing settle; 5.4–6.0s perfect stillness as the push stops.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] establishing full two-shot, slow push-in: the move is already underway — Aira stands composed, hand resting on the gull-wing sill.
+- [00:02–00:04] the smallest weight-settle and a slow calm breath.
+- [00:04–00:06] her gaze levels toward camera with a faint knowing settle; perfect stillness as the push stops.
 
 MICRO-EXPRESSION TRACK: a near-neutral sovereign calm — eyes alive and level, the faintest mouth-settle, one slow blink at ≈3.0s; no broad expression.
 
@@ -118,9 +121,9 @@ ENVIRONMENT MOTION: slow ground-mist drift, one rain-bead run, a far-below city-
 
 AUDIO: BED — low night-city hum and distant high-altitude wind. SPOT FX — a soft electrical thrum from the ember-underglow, a faint metallic tick of cooling metal, a single rain-bead tap. BREATH — one slow audible inhale-exhale from Aira at ≈3.0s. MASTER — hushed, wide, cinematic; warm low-end, airy top. Diegetic-led, no music sting yet.
 
-DURATION: ≈6.0s.
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps with natural cinematic motion blur.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — non-talkable frame, lips composed and closed.
 
@@ -183,7 +186,7 @@ NEGATIVE: no trait enumeration, no logos, no second vehicle, no full scatter yet
 
 ## Frame 2 of 8 — VIDEO PROMPT
 
-IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked identity reference and hold her the SAME PERSON for the entire 6-second clip and every generated frame. Treat identity as a FIXED skeleton that never changes — bone structure (skull, cheekbones, jawline, chin), overall face shape and proportions, eye shape, spacing and iris colour, nose and lip shape, skin tone and real skin texture (visible pores, fine peach-fuzz; no plastic smoothing, no beautification creep, no face re-shaping), hairline, hair colour and texture, height, build and hand/finger anatomy. ONLY the soft expression muscles may move — eyelids, brows, cheeks and mouth corners — together with the eyes, gaze and head; expression and lip-sync animate ON TOP of that fixed identity and must NEVER alter the face shape, the eye colour, or who she is. Keep expression changes smooth and moderate and lead them with the EYES and GAZE (soft smiles, brow lifts, a parted breath, eyes tracing the object) — no extreme grimace, no wide-mouth distortion, no hard squint, no rapid expression flicker that would warp the geometry; favour one clean expression transition per clip. ABSOLUTE ZERO identity drift: no morphing, melting, smearing, rubbery warping, face-swapping, twinning or a second/duplicate subject, no age, weight, ethnicity or gender shift, no extra, missing or fused fingers or limbs. Identity stays identical at the first frame, every in-between frame, the loop seam and the last frame. Through any transform, impossible move or fast action ONLY the intended element (wardrobe, environment, props or effect) changes — her face, identity and proportions stay fully recognizable; interpolate strictly between the locked keyframes and never invent a new face, new hands, extra limbs or a second subject. Do not mirror, flip or invert the frame.
+IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked identity reference and hold her the SAME PERSON for the entire 6-second clip and every generated frame. Treat identity as a FIXED skeleton that never changes — bone structure (skull, cheekbones, jawline, chin), overall face shape and proportions, eye shape, spacing and iris colour, nose and lip shape, skin tone and real skin texture (visible pores, fine peach-fuzz; no plastic smoothing, no beautification creep, no face re-shaping), hairline, hair colour and texture, height, build and hand/finger anatomy. ONLY the soft expression muscles may move — eyelids, brows, cheeks and mouth corners — together with the eyes, gaze and head; expression and lip-sync animate ON TOP of that fixed identity and must NEVER alter the face shape, the eye colour, or who she is. Keep expression changes smooth and moderate and lead them with the EYES and GAZE (soft smiles, brow lifts, a parted breath, eyes tracing the object) — no extreme grimace, no wide-mouth distortion, no hard squint, no rapid expression flicker that would warp the geometry; favour one clean expression transition per clip. ABSOLUTE ZERO identity drift: no morphing, melting, smearing, rubbery warping, face-swapping, twinning or a second/duplicate subject, no age, weight, ethnicity or gender shift, no extra, missing or fused fingers or limbs. Identity stays identical at the first frame, every in-between frame, the loop seam and the last frame. Through any transform, impossible move or fast action ONLY the intended element (wardrobe, environment, props or effect) changes — her face, identity and proportions stay fully recognizable; carry continuity smoothly between the locked keyframes and never invent a new face, new hands, extra limbs or a second subject. Do not mirror, flip or invert the frame.
 
 CLIP SUMMARY: The airborne phoenix-gold car reaches its arc apex over the bridge drop and begins to fracture — crazes race the canopy, a gull-wing door lifts free, ember-light bleeds from the seams — while Aira, composed at the bridge edge, raises her left hand as if drawing the break open. The clip holds on the threshold, energy gathering, nothing yet scattered.
 
@@ -197,7 +200,10 @@ LENS & OPTICS: ≈35mm, f/2.8, warm bloom blooming from the bleeding ember-seams
 
 FOCUS BEHAVIOUR: focus rides from Aira's rising hand (0.0–2.4s) to the fracturing car (2.4–4.8s), settling split-sharp on the first crack; city bokeh soft throughout.
 
-SUBJECT ACTION WITH TIMING: 0.0–1.8s Aira's left hand begins to rise, gaze fixing on the car; 1.8–3.6s fingers open as the first canopy craze races across; 3.6–5.4s the gull-wing door lifts free and ember-seams bleed; 5.4–6.0s everything holds at the threshold, her hand poised.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] dynamic full-figure with airborne hero-vehicle, low-angle: the move is already underway — Aira's left hand begins to rise, gaze fixing on the car.
+- [00:02–00:04] fingers open as the first canopy craze races across.
+- [00:04–00:06] the gull-wing door lifts free and ember-seams bleed; everything holds at the threshold, her hand poised.
 
 MICRO-EXPRESSION TRACK: focused command — eyes intent and unblinking, a single slow inhale, the faintest brow-tighten; no broad expression, pure quiet authority.
 
@@ -213,9 +219,9 @@ ENVIRONMENT MOTION: heat shimmer rising off the seams, a thin rain-veil shedding
 
 AUDIO: BED — low night-city hum, high wind. SPOT FX — a crystalline crack-and-craze of propagating glass, a metallic hinge-groan as the door lifts, a soft gas-hiss of bleeding embers. BREATH — one held inhale from Aira at ≈1.8s. MASTER — taut, widening, a first low sub-rumble of gathering energy; diegetic-led, no melodic sting.
 
-DURATION: ≈6.0s.
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps with natural cinematic motion blur; the crack-propagation crisp, not smeared.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — non-talkable frame, lips parted on a held breath, no speech.
 
@@ -278,7 +284,7 @@ NEGATIVE: no trait enumeration, no logos, no second vehicle, no blood or injury,
 
 ## Frame 3 of 8 — VIDEO PROMPT
 
-IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked identity reference and hold her the SAME PERSON for the entire 6-second clip and every generated frame. Treat identity as a FIXED skeleton that never changes — bone structure (skull, cheekbones, jawline, chin), overall face shape and proportions, eye shape, spacing and iris colour, nose and lip shape, skin tone and real skin texture (visible pores, fine peach-fuzz; no plastic smoothing, no beautification creep, no face re-shaping), hairline, hair colour and texture, height, build and hand/finger anatomy. ONLY the soft expression muscles may move — eyelids, brows, cheeks and mouth corners — together with the eyes, gaze and head; expression and lip-sync animate ON TOP of that fixed identity and must NEVER alter the face shape, the eye colour, or who she is. Keep expression changes smooth and moderate and lead them with the EYES and GAZE (soft smiles, brow lifts, a parted breath, eyes tracing the object) — no extreme grimace, no wide-mouth distortion, no hard squint, no rapid expression flicker that would warp the geometry; favour one clean expression transition per clip. ABSOLUTE ZERO identity drift: no morphing, melting, smearing, rubbery warping, face-swapping, twinning or a second/duplicate subject, no age, weight, ethnicity or gender shift, no extra, missing or fused fingers or limbs. Identity stays identical at the first frame, every in-between frame, the loop seam and the last frame. Through any transform, impossible move or fast action ONLY the intended element (wardrobe, environment, props or effect) changes — her face, identity and proportions stay fully recognizable; interpolate strictly between the locked keyframes and never invent a new face, new hands, extra limbs or a second subject. Do not mirror, flip or invert the frame.
+IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked identity reference and hold her the SAME PERSON for the entire 6-second clip and every generated frame. Treat identity as a FIXED skeleton that never changes — bone structure (skull, cheekbones, jawline, chin), overall face shape and proportions, eye shape, spacing and iris colour, nose and lip shape, skin tone and real skin texture (visible pores, fine peach-fuzz; no plastic smoothing, no beautification creep, no face re-shaping), hairline, hair colour and texture, height, build and hand/finger anatomy. ONLY the soft expression muscles may move — eyelids, brows, cheeks and mouth corners — together with the eyes, gaze and head; expression and lip-sync animate ON TOP of that fixed identity and must NEVER alter the face shape, the eye colour, or who she is. Keep expression changes smooth and moderate and lead them with the EYES and GAZE (soft smiles, brow lifts, a parted breath, eyes tracing the object) — no extreme grimace, no wide-mouth distortion, no hard squint, no rapid expression flicker that would warp the geometry; favour one clean expression transition per clip. ABSOLUTE ZERO identity drift: no morphing, melting, smearing, rubbery warping, face-swapping, twinning or a second/duplicate subject, no age, weight, ethnicity or gender shift, no extra, missing or fused fingers or limbs. Identity stays identical at the first frame, every in-between frame, the loop seam and the last frame. Through any transform, impossible move or fast action ONLY the intended element (wardrobe, environment, props or effect) changes — her face, identity and proportions stay fully recognizable; carry continuity smoothly between the locked keyframes and never invent a new face, new hands, extra limbs or a second subject. Do not mirror, flip or invert the frame.
 
 CLIP SUMMARY: The phoenix-gold car reaches the forward apex of its crash and blooms into a fully suspended ember-and-gold sphere of shards, glass and flame over the bridge — expansion easing to a held freeze at peak spread — while Aira stands serene and untouched directly beneath, the still eye of the blast, palms low and open. The clip crests on suspended catastrophe-as-sculpture, the breath before time turns back.
 
@@ -292,7 +298,10 @@ LENS & OPTICS: ≈35mm, f/2.8, rich warm bloom-glow with controlled highlight ro
 
 FOCUS BEHAVIOUR: focus holds Aira sharp at the base while the nearest shards resolve crisp and the outer bloom stays soft; a slow rack to the apex shards as expansion freezes.
 
-SUBJECT ACTION WITH TIMING: 0.0–1.8s the bloom expands outward around the still Aira; 1.8–3.6s she lifts her gaze into the corona, palms easing open; 3.6–5.4s expansion decelerates to suspension; 5.4–6.0s full freeze — Aira serene, the blast held.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] wide radial hero-composition, low-centre subject beneath the bloom: the move is already underway — the bloom expands outward around the still Aira.
+- [00:02–00:04] she lifts her gaze into the corona, palms easing open.
+- [00:04–00:06] expansion decelerates to suspension; full freeze — Aira serene, the blast held.
 
 MICRO-EXPRESSION TRACK: serene sovereign calm — eyes lifted and bright with the catchlight, the faintest awe-settle at the mouth, one slow blink at ≈4.2s; unshaken throughout.
 
@@ -308,9 +317,9 @@ ENVIRONMENT MOTION: heat-wave shimmer radiating from the bloom, fine spark-drift
 
 AUDIO: BED — low night-city hum, high wind. SPOT FX — a deep cushioned whump of the bloom, a glittering shard-shimmer, an ember gas-roar swelling then hushing. BREATH — one slow held breath from Aira at ≈4.2s. MASTER — a swelling sub-bass crest resolving into suspended near-silence at the freeze; diegetic-led, a single low awe-tone, no melodic sting.
 
-DURATION: ≈6.0s.
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps with natural cinematic motion blur; shards crisp at the freeze, not smeared.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — non-talkable frame, lips composed, no speech.
 
@@ -373,7 +382,7 @@ NEGATIVE: no trait enumeration, no logos, no second vehicle, no blood or injury,
 
 ## Frame 4 of 8 — VIDEO PROMPT (PEAK)
 
-IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked identity reference and hold her the SAME PERSON for the entire 6-second clip and every generated frame. Treat identity as a FIXED skeleton that never changes — bone structure (skull, cheekbones, jawline, chin), overall face shape and proportions, eye shape, spacing and iris colour, nose and lip shape, skin tone and real skin texture (visible pores, fine peach-fuzz; no plastic smoothing, no beautification creep, no face re-shaping), hairline, hair colour and texture, height, build and hand/finger anatomy. ONLY the soft expression muscles may move — eyelids, brows, cheeks and mouth corners — together with the eyes, gaze and head; expression and lip-sync animate ON TOP of that fixed identity and must NEVER alter the face shape, the eye colour, or who she is. Keep expression changes smooth and moderate and lead them with the EYES and GAZE (soft smiles, brow lifts, a parted breath, eyes tracing the object) — no extreme grimace, no wide-mouth distortion, no hard squint, no rapid expression flicker that would warp the geometry; favour one clean expression transition per clip. ABSOLUTE ZERO identity drift: no morphing, melting, smearing, rubbery warping, face-swapping, twinning or a second/duplicate subject, no age, weight, ethnicity or gender shift, no extra, missing or fused fingers or limbs. Identity stays identical at the first frame, every in-between frame, the loop seam and the last frame. Through any transform, impossible move or fast action ONLY the intended element (wardrobe, environment, props or effect) changes — her face, identity and proportions stay fully recognizable; interpolate strictly between the locked keyframes and never invent a new face, new hands, extra limbs or a second subject. Do not mirror, flip or invert the frame.
+IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked identity reference and hold her the SAME PERSON for the entire 6-second clip and every generated frame. Treat identity as a FIXED skeleton that never changes — bone structure (skull, cheekbones, jawline, chin), overall face shape and proportions, eye shape, spacing and iris colour, nose and lip shape, skin tone and real skin texture (visible pores, fine peach-fuzz; no plastic smoothing, no beautification creep, no face re-shaping), hairline, hair colour and texture, height, build and hand/finger anatomy. ONLY the soft expression muscles may move — eyelids, brows, cheeks and mouth corners — together with the eyes, gaze and head; expression and lip-sync animate ON TOP of that fixed identity and must NEVER alter the face shape, the eye colour, or who she is. Keep expression changes smooth and moderate and lead them with the EYES and GAZE (soft smiles, brow lifts, a parted breath, eyes tracing the object) — no extreme grimace, no wide-mouth distortion, no hard squint, no rapid expression flicker that would warp the geometry; favour one clean expression transition per clip. ABSOLUTE ZERO identity drift: no morphing, melting, smearing, rubbery warping, face-swapping, twinning or a second/duplicate subject, no age, weight, ethnicity or gender shift, no extra, missing or fused fingers or limbs. Identity stays identical at the first frame, every in-between frame, the loop seam and the last frame. Through any transform, impossible move or fast action ONLY the intended element (wardrobe, environment, props or effect) changes — her face, identity and proportions stay fully recognizable; carry continuity smoothly between the locked keyframes and never invent a new face, new hands, extra limbs or a second subject. Do not mirror, flip or invert the frame.
 
 CLIP SUMMARY: The hero beat — Aira raises her left hand high beneath the suspended crash-bloom and commands time to reverse. A corona of ember-gold light converges on her open palm; the vast sphere of shards and flame quivers at the cusp, outermost pieces just beginning to tremble inward toward her hand. The clip crests on absolute command and holds at the instant the world prepares to run backwards.
 
@@ -387,7 +396,10 @@ LENS & OPTICS: ≈35mm, f/2.8, a tightening warm corona-glow with controlled rol
 
 FOCUS BEHAVIOUR: focus rides up Aira's arm to the raised palm and the converging corona, settling razor-sharp there; face stays crisp, bloom and city soft.
 
-SUBJECT ACTION WITH TIMING: 0.0–1.8s Aira's left hand sweeps up overhead, gaze rising with it; 1.8–3.6s palm opens and the corona converges on it; 3.6–5.4s the bloom quivers, outer shards beginning to turn inward; 5.4–6.0s full hero-hold, hand high, command at its peak.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] heroic full-figure low-angle, raised-hand apex: the move is already underway — Aira's left hand sweeps up overhead, gaze rising with it.
+- [00:02–00:04] palm opens and the corona converges on it.
+- [00:04–00:06] the bloom quivers, outer shards beginning to turn inward; full hero-hold, hand high, command at its peak.
 
 MICRO-EXPRESSION TRACK: commanding serenity — eyes blazing-calm and fixed upward, jaw set with quiet power, a held command-breath, one slow blink at ≈4.8s; controlled, never strained.
 
@@ -403,9 +415,9 @@ ENVIRONMENT MOTION: heat-shimmer tightening inward, spark-drift reversing toward
 
 AUDIO: BED — low night-city hum, high wind. SPOT FX — a deep resonant tone as the corona converges, a reversed-shimmer rising-glassy texture, an ember gas-draw inhaling inward. BREATH — one powerful held command-breath from Aira at ≈3.6s. MASTER — a swelling reverent sub-bass crest holding at the peak; diegetic-led, a single sustained awe-tone, no melodic sting.
 
-DURATION: ≈6.0s.
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps with natural cinematic motion blur; the raised hand and corona crisp.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — non-talkable frame, lips parted on a held command-breath, no speech.
 
@@ -468,7 +480,7 @@ NEGATIVE: no trait enumeration, no logos, no second vehicle, no blood or injury,
 
 ## Frame 5 of 8 — VIDEO PROMPT
 
-IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked identity reference and hold her the SAME PERSON for the entire 6-second clip and every generated frame. Treat identity as a FIXED skeleton that never changes — bone structure (skull, cheekbones, jawline, chin), overall face shape and proportions, eye shape, spacing and iris colour, nose and lip shape, skin tone and real skin texture (visible pores, fine peach-fuzz; no plastic smoothing, no beautification creep, no face re-shaping), hairline, hair colour and texture, height, build and hand/finger anatomy. ONLY the soft expression muscles may move — eyelids, brows, cheeks and mouth corners — together with the eyes, gaze and head; expression and lip-sync animate ON TOP of that fixed identity and must NEVER alter the face shape, the eye colour, or who she is. Keep expression changes smooth and moderate and lead them with the EYES and GAZE (soft smiles, brow lifts, a parted breath, eyes tracing the object) — no extreme grimace, no wide-mouth distortion, no hard squint, no rapid expression flicker that would warp the geometry; favour one clean expression transition per clip. ABSOLUTE ZERO identity drift: no morphing, melting, smearing, rubbery warping, face-swapping, twinning or a second/duplicate subject, no age, weight, ethnicity or gender shift, no extra, missing or fused fingers or limbs. Identity stays identical at the first frame, every in-between frame, the loop seam and the last frame. Through any transform, impossible move or fast action ONLY the intended element (wardrobe, environment, props or effect) changes — her face, identity and proportions stay fully recognizable; interpolate strictly between the locked keyframes and never invent a new face, new hands, extra limbs or a second subject. Do not mirror, flip or invert the frame.
+IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked identity reference and hold her the SAME PERSON for the entire 6-second clip and every generated frame. Treat identity as a FIXED skeleton that never changes — bone structure (skull, cheekbones, jawline, chin), overall face shape and proportions, eye shape, spacing and iris colour, nose and lip shape, skin tone and real skin texture (visible pores, fine peach-fuzz; no plastic smoothing, no beautification creep, no face re-shaping), hairline, hair colour and texture, height, build and hand/finger anatomy. ONLY the soft expression muscles may move — eyelids, brows, cheeks and mouth corners — together with the eyes, gaze and head; expression and lip-sync animate ON TOP of that fixed identity and must NEVER alter the face shape, the eye colour, or who she is. Keep expression changes smooth and moderate and lead them with the EYES and GAZE (soft smiles, brow lifts, a parted breath, eyes tracing the object) — no extreme grimace, no wide-mouth distortion, no hard squint, no rapid expression flicker that would warp the geometry; favour one clean expression transition per clip. ABSOLUTE ZERO identity drift: no morphing, melting, smearing, rubbery warping, face-swapping, twinning or a second/duplicate subject, no age, weight, ethnicity or gender shift, no extra, missing or fused fingers or limbs. Identity stays identical at the first frame, every in-between frame, the loop seam and the last frame. Through any transform, impossible move or fast action ONLY the intended element (wardrobe, environment, props or effect) changes — her face, identity and proportions stay fully recognizable; carry continuity smoothly between the locked keyframes and never invent a new face, new hands, extra limbs or a second subject. Do not mirror, flip or invert the frame.
 
 CLIP SUMMARY: Time runs backwards — the suspended crash-bloom rushes inward, shards and glass and panels streaming back along their exact outbound paths toward a single bright convergence point in the air, ember-gas imploding to spark, while Aira lowers her guiding hand in a slow controlled arc. The clip captures the directional inward rush of catastrophe un-happening, collapsing toward rebirth.
 
@@ -482,7 +494,10 @@ LENS & OPTICS: ≈35mm, f/2.8, warm streaking glow toward the convergence, contr
 
 FOCUS BEHAVIOUR: focus holds Aira and the lowering hand sharp, then racks up to the brightening convergence point as the bloom contracts; city bokeh soft.
 
-SUBJECT ACTION WITH TIMING: 0.0–1.8s Aira's raised hand begins its controlled descent, gaze tracking the inward rush; 1.8–3.6s the bloom streams inward, contracting fast; 3.6–5.4s debris funnels to the bright convergence point; 5.4–6.0s the rush settles toward the forming seed, her hand low.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] dynamic full-figure with contracting hero-bloom, funnel composition: the move is already underway — Aira's raised hand begins its controlled descent, gaze tracking the inward rush.
+- [00:02–00:04] the bloom streams inward, contracting fast.
+- [00:04–00:06] debris funnels to the bright convergence point; the rush settles toward the forming seed, her hand low.
 
 MICRO-EXPRESSION TRACK: focused knowing calm — eyes tracking the convergence, the faintest sovereign settle, one slow blink at ≈3.6s; certainty without effort.
 
@@ -498,9 +513,9 @@ ENVIRONMENT MOTION: heat-shimmer drawing inward, spark-threads streaming to cent
 
 AUDIO: BED — low night-city hum, high wind. SPOT FX — a reversed-whoosh of inrushing debris, a rising reversed-shimmer of streaming glass, an ember gas-implosion drawing inward. BREATH — one steady breath from Aira at ≈3.6s. MASTER — a tightening reversed swell funnelling toward the convergence; diegetic-led, a sustained low tone, no melodic sting.
 
-DURATION: ≈6.0s.
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps with natural cinematic motion blur; inward streaks directional and clean, not chaotic.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — non-talkable frame, lips composed, no speech.
 
@@ -563,7 +578,7 @@ NEGATIVE: no trait enumeration, no logos, no second vehicle, no blood or injury,
 
 ## Frame 6 of 8 — VIDEO PROMPT
 
-IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked identity reference and hold her the SAME PERSON for the entire 6-second clip and every generated frame. Treat identity as a FIXED skeleton that never changes — bone structure (skull, cheekbones, jawline, chin), overall face shape and proportions, eye shape, spacing and iris colour, nose and lip shape, skin tone and real skin texture (visible pores, fine peach-fuzz; no plastic smoothing, no beautification creep, no face re-shaping), hairline, hair colour and texture, height, build and hand/finger anatomy. ONLY the soft expression muscles may move — eyelids, brows, cheeks and mouth corners — together with the eyes, gaze and head; expression and lip-sync animate ON TOP of that fixed identity and must NEVER alter the face shape, the eye colour, or who she is. Keep expression changes smooth and moderate and lead them with the EYES and GAZE (soft smiles, brow lifts, a parted breath, eyes tracing the object) — no extreme grimace, no wide-mouth distortion, no hard squint, no rapid expression flicker that would warp the geometry; favour one clean expression transition per clip. ABSOLUTE ZERO identity drift: no morphing, melting, smearing, rubbery warping, face-swapping, twinning or a second/duplicate subject, no age, weight, ethnicity or gender shift, no extra, missing or fused fingers or limbs. Identity stays identical at the first frame, every in-between frame, the loop seam and the last frame. Through any transform, impossible move or fast action ONLY the intended element (wardrobe, environment, props or effect) changes — her face, identity and proportions stay fully recognizable; interpolate strictly between the locked keyframes and never invent a new face, new hands, extra limbs or a second subject. Do not mirror, flip or invert the frame.
+IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked identity reference and hold her the SAME PERSON for the entire 6-second clip and every generated frame. Treat identity as a FIXED skeleton that never changes — bone structure (skull, cheekbones, jawline, chin), overall face shape and proportions, eye shape, spacing and iris colour, nose and lip shape, skin tone and real skin texture (visible pores, fine peach-fuzz; no plastic smoothing, no beautification creep, no face re-shaping), hairline, hair colour and texture, height, build and hand/finger anatomy. ONLY the soft expression muscles may move — eyelids, brows, cheeks and mouth corners — together with the eyes, gaze and head; expression and lip-sync animate ON TOP of that fixed identity and must NEVER alter the face shape, the eye colour, or who she is. Keep expression changes smooth and moderate and lead them with the EYES and GAZE (soft smiles, brow lifts, a parted breath, eyes tracing the object) — no extreme grimace, no wide-mouth distortion, no hard squint, no rapid expression flicker that would warp the geometry; favour one clean expression transition per clip. ABSOLUTE ZERO identity drift: no morphing, melting, smearing, rubbery warping, face-swapping, twinning or a second/duplicate subject, no age, weight, ethnicity or gender shift, no extra, missing or fused fingers or limbs. Identity stays identical at the first frame, every in-between frame, the loop seam and the last frame. Through any transform, impossible move or fast action ONLY the intended element (wardrobe, environment, props or effect) changes — her face, identity and proportions stay fully recognizable; carry continuity smoothly between the locked keyframes and never invent a new face, new hands, extra limbs or a second subject. Do not mirror, flip or invert the frame.
 
 CLIP SUMMARY: Rebirth takes form — at the convergence point the phoenix-gold coupe reassembles, panels snapping home, canopy crystals knitting into seamless glass, wheels reforming, ember-threads sealing the seams — the car hanging nearly whole above the bridge, glowing from its closing seams, while Aira settles her guiding hand low. The clip captures catastrophe resolving cleanly into wholeness.
 
@@ -577,7 +592,10 @@ LENS & OPTICS: ≈35mm, f/2.8, warm seam-glow with controlled roll-off, no flare
 
 FOCUS BEHAVIOUR: focus holds the reforming coupe sharp as seams close, with Aira crisp below; city bokeh soft. A whisper of focus-breath as the form completes.
 
-SUBJECT ACTION WITH TIMING: 0.0–1.8s panels and shards stream the last distance and seat home; 1.8–3.6s canopy crystals knit and seams seal with running ember-light; 3.6–5.4s the coupe sits nearly whole, Aira's hand settling low; 5.4–6.0s the final seam closes, the car whole and glowing.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] full-figure with reforming hero-vehicle, restoration composition: the move is already underway — panels and shards stream the last distance and seat home.
+- [00:02–00:04] canopy crystals knit and seams seal with running ember-light.
+- [00:04–00:06] the coupe sits nearly whole, Aira's hand settling low; the final seam closes, the car whole and glowing.
 
 MICRO-EXPRESSION TRACK: quiet satisfaction — eyes lifted to the car, a faint knowing softening, one slow blink at ≈4.2s; serene authority.
 
@@ -593,9 +611,9 @@ ENVIRONMENT MOTION: heat settling, last spark-threads absorbing into the seams, 
 
 AUDIO: BED — low night-city hum, high wind. SPOT FX — a reversed-shatter resolving into clean metallic seatings, a glassy knit-chime, a soft ember-seal hiss fading. BREATH — one calm breath from Aira at ≈4.2s. MASTER — the reversed swell resolving into a warm settled chord-tone of wholeness; diegetic-led, no melodic sting.
 
-DURATION: ≈6.0s.
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps with natural cinematic motion blur; seatings crisp, not smeared.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — non-talkable frame, lips composed, no speech.
 
@@ -658,7 +676,7 @@ NEGATIVE: no trait enumeration, no logos, no second vehicle, no blood or injury,
 
 ## Frame 7 of 8 — VIDEO PROMPT
 
-IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked identity reference and hold her the SAME PERSON for the entire 6-second clip and every generated frame. Treat identity as a FIXED skeleton that never changes — bone structure (skull, cheekbones, jawline, chin), overall face shape and proportions, eye shape, spacing and iris colour, nose and lip shape, skin tone and real skin texture (visible pores, fine peach-fuzz; no plastic smoothing, no beautification creep, no face re-shaping), hairline, hair colour and texture, height, build and hand/finger anatomy. ONLY the soft expression muscles may move — eyelids, brows, cheeks and mouth corners — together with the eyes, gaze and head; expression and lip-sync animate ON TOP of that fixed identity and must NEVER alter the face shape, the eye colour, or who she is. Keep expression changes smooth and moderate and lead them with the EYES and GAZE (soft smiles, brow lifts, a parted breath, eyes tracing the object) — no extreme grimace, no wide-mouth distortion, no hard squint, no rapid expression flicker that would warp the geometry; favour one clean expression transition per clip. ABSOLUTE ZERO identity drift: no morphing, melting, smearing, rubbery warping, face-swapping, twinning or a second/duplicate subject, no age, weight, ethnicity or gender shift, no extra, missing or fused fingers or limbs. Identity stays identical at the first frame, every in-between frame, the loop seam and the last frame. Through any transform, impossible move or fast action ONLY the intended element (wardrobe, environment, props or effect) changes — her face, identity and proportions stay fully recognizable; interpolate strictly between the locked keyframes and never invent a new face, new hands, extra limbs or a second subject. Do not mirror, flip or invert the frame.
+IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked identity reference and hold her the SAME PERSON for the entire 6-second clip and every generated frame. Treat identity as a FIXED skeleton that never changes — bone structure (skull, cheekbones, jawline, chin), overall face shape and proportions, eye shape, spacing and iris colour, nose and lip shape, skin tone and real skin texture (visible pores, fine peach-fuzz; no plastic smoothing, no beautification creep, no face re-shaping), hairline, hair colour and texture, height, build and hand/finger anatomy. ONLY the soft expression muscles may move — eyelids, brows, cheeks and mouth corners — together with the eyes, gaze and head; expression and lip-sync animate ON TOP of that fixed identity and must NEVER alter the face shape, the eye colour, or who she is. Keep expression changes smooth and moderate and lead them with the EYES and GAZE (soft smiles, brow lifts, a parted breath, eyes tracing the object) — no extreme grimace, no wide-mouth distortion, no hard squint, no rapid expression flicker that would warp the geometry; favour one clean expression transition per clip. ABSOLUTE ZERO identity drift: no morphing, melting, smearing, rubbery warping, face-swapping, twinning or a second/duplicate subject, no age, weight, ethnicity or gender shift, no extra, missing or fused fingers or limbs. Identity stays identical at the first frame, every in-between frame, the loop seam and the last frame. Through any transform, impossible move or fast action ONLY the intended element (wardrobe, environment, props or effect) changes — her face, identity and proportions stay fully recognizable; carry continuity smoothly between the locked keyframes and never invent a new face, new hands, extra limbs or a second subject. Do not mirror, flip or invert the frame.
 
 CLIP SUMMARY: The rebirth crests — the whole phoenix-gold coupe lifts reborn into the night, gull-wings spread wide like burning wings, ember-underglow blazing, rising on a column of phoenix-gold light, while Aira stands tall on the deck below, hands lowering open in quiet release. The clip soars to the phoenix moment, the triumphant summit of the loop.
 
@@ -672,7 +690,10 @@ LENS & OPTICS: ≈35mm, f/2.8, a clean warm light-column glow with controlled ro
 
 FOCUS BEHAVIOUR: focus rides up from Aira to the rising coupe, settling sharp on the spread gull-wings at the crest; city bokeh soft.
 
-SUBJECT ACTION WITH TIMING: 0.0–1.8s the whole coupe lifts off, gull-wings spreading wide; 1.8–3.6s it rises on the light-column, Aira's hands lowering open; 3.6–5.4s the rise crests, ember-glow blazing; 5.4–6.0s the winged coupe holds at the summit, Aira tall and serene below.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] soaring full-figure with rising winged hero-vehicle, low angle: the move is already underway — the whole coupe lifts off, gull-wings spreading wide.
+- [00:02–00:04] it rises on the light-column, Aira's hands lowering open.
+- [00:04–00:06] the rise crests, ember-glow blazing; the winged coupe holds at the summit, Aira tall and serene below.
 
 MICRO-EXPRESSION TRACK: serene triumph — eyes following the rise with calm pride, the faintest sovereign smile-settle, one slow blink at ≈4.2s; radiant composure.
 
@@ -688,9 +709,9 @@ ENVIRONMENT MOTION: warm updraft lifting embers and mist, the light-column risin
 
 AUDIO: BED — low night-city hum, high wind. SPOT FX — a deep resonant lift-thrum, a soft turbine-spool, a rising ember-crackle and air-rush. BREATH — one proud held breath from Aira at ≈4.2s. MASTER — a soaring warm sub-bass swell cresting at the summit; diegetic-led, a single triumphant sustained tone, no melodic sting.
 
-DURATION: ≈6.0s.
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps with natural cinematic motion blur; the rise smooth, the wings crisp at the crest.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — non-talkable frame, lips in a faint sovereign settle, no speech.
 
@@ -753,7 +774,7 @@ NEGATIVE: no trait enumeration, no logos, no second vehicle, no lingering debris
 
 ## Frame 8 of 8 — VIDEO PROMPT (CLOSE + LOOP BOOKEND)
 
-IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked identity reference and hold her the SAME PERSON for the entire 6-second clip and every generated frame. Treat identity as a FIXED skeleton that never changes — bone structure (skull, cheekbones, jawline, chin), overall face shape and proportions, eye shape, spacing and iris colour, nose and lip shape, skin tone and real skin texture (visible pores, fine peach-fuzz; no plastic smoothing, no beautification creep, no face re-shaping), hairline, hair colour and texture, height, build and hand/finger anatomy. ONLY the soft expression muscles may move — eyelids, brows, cheeks and mouth corners — together with the eyes, gaze and head; expression and lip-sync animate ON TOP of that fixed identity and must NEVER alter the face shape, the eye colour, or who she is. Keep expression changes smooth and moderate and lead them with the EYES and GAZE (soft smiles, brow lifts, a parted breath, eyes tracing the object) — no extreme grimace, no wide-mouth distortion, no hard squint, no rapid expression flicker that would warp the geometry; favour one clean expression transition per clip. ABSOLUTE ZERO identity drift: no morphing, melting, smearing, rubbery warping, face-swapping, twinning or a second/duplicate subject, no age, weight, ethnicity or gender shift, no extra, missing or fused fingers or limbs. Identity stays identical at the first frame, every in-between frame, the loop seam and the last frame. Through any transform, impossible move or fast action ONLY the intended element (wardrobe, environment, props or effect) changes — her face, identity and proportions stay fully recognizable; interpolate strictly between the locked keyframes and never invent a new face, new hands, extra limbs or a second subject. Do not mirror, flip or invert the frame.
+IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked identity reference and hold her the SAME PERSON for the entire 6-second clip and every generated frame. Treat identity as a FIXED skeleton that never changes — bone structure (skull, cheekbones, jawline, chin), overall face shape and proportions, eye shape, spacing and iris colour, nose and lip shape, skin tone and real skin texture (visible pores, fine peach-fuzz; no plastic smoothing, no beautification creep, no face re-shaping), hairline, hair colour and texture, height, build and hand/finger anatomy. ONLY the soft expression muscles may move — eyelids, brows, cheeks and mouth corners — together with the eyes, gaze and head; expression and lip-sync animate ON TOP of that fixed identity and must NEVER alter the face shape, the eye colour, or who she is. Keep expression changes smooth and moderate and lead them with the EYES and GAZE (soft smiles, brow lifts, a parted breath, eyes tracing the object) — no extreme grimace, no wide-mouth distortion, no hard squint, no rapid expression flicker that would warp the geometry; favour one clean expression transition per clip. ABSOLUTE ZERO identity drift: no morphing, melting, smearing, rubbery warping, face-swapping, twinning or a second/duplicate subject, no age, weight, ethnicity or gender shift, no extra, missing or fused fingers or limbs. Identity stays identical at the first frame, every in-between frame, the loop seam and the last frame. Through any transform, impossible move or fast action ONLY the intended element (wardrobe, environment, props or effect) changes — her face, identity and proportions stay fully recognizable; carry continuity smoothly between the locked keyframes and never invent a new face, new hands, extra limbs or a second subject. Do not mirror, flip or invert the frame.
 
 CLIP SUMMARY: The loop closes — the reborn phoenix-gold coupe settles gently back onto the bridge deck, whole and at rest, gull-wings folding home, ember-underglow easing to its calm pool, while Aira returns to her opening place beside it, hand on the gull-wing sill, as a single last ember settles to dark. The clip recovers the exact establishing composition of Frame 1 so the rebirth can play seamlessly forever.
 
@@ -767,7 +788,10 @@ LENS & OPTICS: ≈35mm, f/2.8, faint warm bloom on the ember-underglow — match
 
 FOCUS BEHAVIOUR: focus settles to Aira and the whole car held crisp, city bokeh soft — the opening focus state recovered.
 
-SUBJECT ACTION WITH TIMING: 0.0–1.8s the coupe descends and touches down, gull-wings folding home; 1.8–3.6s Aira steps back to the sill, hand resting on it; 3.6–5.4s the underglow eases to calm, the last ember settling; 5.4–6.0s perfect stillness in the exact Frame-1 composition.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
+- [00:00–00:02] establishing full two-shot recovered, slow settle: the move is already underway — the coupe descends and touches down, gull-wings folding home.
+- [00:02–00:04] Aira steps back to the sill, hand resting on it.
+- [00:04–00:06] the underglow eases to calm, the last ember settling; perfect stillness in the exact Frame-1 composition.
 
 MICRO-EXPRESSION TRACK: composed calm returned — eyes level, the faintest knowing mouth-settle, one slow blink at ≈4.8s; the serenity of the open.
 
@@ -783,9 +807,9 @@ ENVIRONMENT MOTION: slow ground-mist drift, one rain-bead run, a far-below city-
 
 AUDIO: BED — low night-city hum and distant high-altitude wind. SPOT FX — a soft landing-settle and suspension creak, a folding-wing mechanism, a faint metallic cooling tick, a single ember-fizzle to silence. BREATH — one slow calm breath from Aira at ≈4.8s. MASTER — the triumphant swell resolving fully back into the hushed opening tone for a seamless loop; diegetic-led, no melodic sting.
 
-DURATION: ≈6.0s.
+DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
-FRAME RATE + MOTION BLUR: 24fps with natural cinematic motion blur.
+FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
 LIP-SYNC: none — non-talkable frame, lips composed and closed.
 
