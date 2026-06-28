@@ -866,7 +866,10 @@ PASS 1 REMAINING:
     the L+M mid-clip/cuts/first-last-frame model — they still use the old orbit-through-transform
     beats; bring them onto L+M.)
     >>> CINEMATIC NEW SET — IN PROGRESS: concepts 1 (Sea-Blue Pool, f5db9bf) + 2 (Velvet Hotel,
-    f7c507f) DONE+pushed. METHOD for these section-B files is SURGICAL (lighter than Master-Depth):
+    f7c507f) + 3 (Neon Monsoon — a rain-FREEZE, treated per K.5 not as an A->B morph; 635cd56)
+    DONE+pushed. NOTE: some concepts in these files are FREEZE/VFX or non-look-change heroes, not
+    A->B wardrobe/world morphs — for those, don't force a Look-A flip; apply K.5 believability +
+    controlled vibrancy + match-cut framing instead. METHOD for the true-morph concepts is SURGICAL (lighter than Master-Depth):
     they already have rich ANGLE & SHOT SIZE variety incl. establishing wides + env-dominant frames
     (background already honoured) and alive-camera beats, and they have NO "TRANSFORM KEYFRAME NOTE /
     locked START/END / suspended build" image residue. So per concept only the TRANSFORM FRAME(s)
