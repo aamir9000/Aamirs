@@ -575,7 +575,7 @@ Hair: a sleek deep side-part with a soft Hollywood wave, high-gloss finish, colo
 
 Makeup: editorial evening glam: soft smoked sapphire-to-emerald lid, satin skin, a deep berry-rose lip, sculpted glow, real pores.
 
-Hero Movement / Impossible Move: revolving-door colour swap — one rotation transitions the entire palette and her gown from sapphire night to emerald-gold.
+Hero Movement / Impossible Move: revolving-door colour swap — contained MID-CLIP inside Frame 4 with the camera riding WITH her at a held angle: one rotation wipes the entire palette and her gown from sapphire night to emerald-gold. Veo first/last-frame continuity (Frame 4 image = sapphire-night Look A = first frame, Frame 5 image = emerald-gold Look B = last frame); every frame join is a hard match-cut to a new angle.
 
 Mood: GLAMOROUS, confident, cinematic.
 
@@ -821,44 +821,44 @@ LOOP LOGIC: the forward intent toward the door bridges to the transform frame.
 
 ## Frame 4 of 6 — IMAGE PROMPT (TRANSFORM — SPOKEN LINE)
 
-ANGLE & SHOT SIZE: profile-to-front MEDIUM as she pushes into the brass revolving door, mid-rotation, the colour world splitting sapphire (outside) to emerald-gold (inside).
+ANGLE & SHOT SIZE: profile-to-front MEDIUM as she steps up to the brass revolving door and presses the push-bar, the lit sapphire-night portico towering behind — the clean Look A the clip opens on, the colour swap NOT yet begun.
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the START frame of the transform CLIP — render her fully in the sapphire-night Look A (the exact still the Frame-4 video opens on, and Veo's FIRST frame): the midnight-blue satin gown, gloved hand on the brass push-bar, the palette still FULLY sapphire (the emerald-gold swap NOT yet begun). The revolving-door colour swap happens MID-CLIP at a HELD angle on her (the camera rides WITH her through the door — a translation, never an angle cut — as the seam wipes the palette and gown to emerald-gold), settling into Frame 5's emerald-gold lobby image (Veo's LAST frame). Her face, hair and proportions stay constant. Do NOT depict the swap in this still and do NOT invent a new face, new hands or new bone structure.
 
-WARDROBE: the midnight-blue satin gown transitioning to deep emerald as the door sweeps past, the seam of colour crossing her body; fully modest.
+WARDROBE: the midnight-blue satin gown at its richest, fully modest, one cool sapphire rim along the satin, fully intact — the emerald swap not yet begun.
 
-FOOTWEAR: satin heel transitioning to emerald heel mid-step.
+FOOTWEAR: the midnight satin heel, poised mid-step at the door.
 
-EYEWEAR: tinted glasses on, gold rim catching both the cool and warm light across the seam.
+EYEWEAR: tinted glasses on, gold rim catching the cool portico light.
 
-ACCESSORIES: gloves, cuff and earrings shifting from cool to warm sparkle across the colour line.
+ACCESSORIES: gloves, cuff and earrings in cool sapphire sparkle.
 
-HAIR: sleek wave catching sapphire rim on one side, gold rim on the other.
+HAIR: sleek wave catching a cool sapphire rim.
 
-MAKEUP: lid shifting sapphire-to-emerald across the transition, satin skin, berry-rose lip.
+MAKEUP: sapphire lid, satin skin, berry-rose lip; real pores and fine vellus texture.
 
-HANDS & NAILS: one gloved hand flat on the brass push-bar (fingers clean and articulate), the other trailing; oxblood nails.
+HANDS & NAILS: one gloved hand flat on the brass push-bar (fingers clean and articulate), the other easy at her side; oxblood nails.
 
-FACIAL MICRO-DYNAMICS: lips parting to deliver the line, a radiant knowing smile, eyes bright behind the tint, brows lifted a hair in delight.
+FACIAL MICRO-DYNAMICS: a poised anticipatory gaze forward through the door, lips just parting before the line, a knowing quarter-smile — composed and fully recognizable, identity-locked, ready to speak as she emerges mid-clip.
 
-BODY POSTURE & WEIGHT: mid-stride through the door, weight rolling forward, torso leading with momentum — full of motion, never frozen.
+BODY POSTURE & WEIGHT: stepping up to the door, weight rolling onto the front foot, torso leading with momentum — full of motion, never frozen, the instant before she pushes through.
 
-KINETIC STILLNESS (8 layers): (1) the brass door pane sweeping; (2) the colour seam crossing her gown; (3) reflections multiplying in the glass; (4) hair lifting in the door-draft; (5) chest breathing as she speaks; (6) earrings swinging; (7) cuff sparkle shifting hue; (8) lashes flaring on the smile.
+KINETIC STILLNESS (8 layers): (1) the brass door pane catching cool light; (2) the sapphire-night portico glowing behind; (3) reflections layering in the door glass; (4) hair lifting a hair in the night air; (5) chest breathing before the line; (6) earrings settling; (7) a cool cuff sparkle; (8) lashes settling on a blink.
 
-SPATIAL LOGIC: FOREGROUND — the brass push-bar and her hand, sharp. MIDGROUND — Aira mid-rotation. BACKGROUND — sapphire night on one side, emerald-gold lobby on the other.
+SPATIAL LOGIC: FOREGROUND — the brass push-bar and her gloved hand, sharp. MIDGROUND — Aira at the door in sapphire satin, the hero. BACKGROUND — the lit portico towering into the sapphire night, its glow and the door-glass reflections carrying the world right into the frame (present, never erased).
 
-LIGHTING: KEY — split key: cool sapphire camera-left, warm gold camera-right. FILL — ambient bounce each side. RIM — dual brass rims. PRACTICAL — door glass reflections, chandelier glow. SEPARATION — figure crossing the colour seam. BOUNCE — warm floor kick inside.
+LIGHTING: KEY — cool sapphire key from the night portico. FILL — soft ambient bounce. RIM — a cool brass rim. PRACTICAL — door glass reflections, portico glow. SEPARATION — sapphire satin vs the deep night. BOUNCE — cool marble kick.
 
-LENS + DOF + BOKEH: 35mm, f/2.5; focus on her face and the push-bar; reflections as layered bokeh; the colour seam crisp on her body.
+LENS + DOF + BOKEH: 35mm, f/2.5; focus on her face and the push-bar; portico lights and glass reflections as layered bokeh; background clearly the lit sapphire portico.
 
-COMPOSITION: 9:16, diagonal of the revolving pane, Aira centred on the seam, dynamic split-colour framing.
-SUBJECT FRAMING & POSITION: A profile-to-front medium as she pushes through the brass revolving door mid-rotation, the colour world splitting sapphire outside to emerald-gold inside. The body is mid-stride through the door from roughly the waist up, weight rolling forward, torso leading with momentum — turning from profile toward front as she rotates. Camera at mid distance, Aira centred on the door-seam, the revolving pane a diagonal. Dynamic split-colour framing. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+COMPOSITION: 9:16, the revolving pane a diagonal, Aira at the threshold, the portico reading behind.
+SUBJECT FRAMING & POSITION: A profile-to-front medium as she steps to the brass revolving door and presses the push-bar in the sapphire-night Look A, the lit portico towering behind her — the clean still the transform clip opens on. Camera at mid distance on its own fresh angle, a hard cut from Frame 3, the world present around her. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
-ATMOSPHERE: the magical threshold — one world becoming another.
+ATMOSPHERE: the magical threshold — poised at the door before one world becomes another.
 
-COLOUR GRADE: split jewel-tone — sapphire to emerald-gold, glossy, rich, full mid-tone.
+COLOUR GRADE: rich sapphire jewel-tone balanced against the dark night and marble (jewel-tones rich but controlled, never garish), glossy, full mid-tone.
 
-TEXTURE & MICRO-DETAIL: brass brushed-metal grain, multi-layer glass reflections, satin hue-shift, real skin texture, lip detail mid-word.
+TEXTURE & MICRO-DETAIL: brass brushed-metal grain, multi-layer glass reflections, satin sheen, real skin texture, lip detail.
 
 NEGATIVE: (as Frame 1) plus identity drift across the swap, melted features, broken reflections, garbled mouth shape.
 
@@ -871,9 +871,9 @@ SHOT TYPE & ANGLE: profile-to-front medium, subject fills ~55%.
 LENS: 35mm, f/2.5.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Profile-to-front medium: she is already pressing the brass push-bar and stepping into the revolving door as the camera begins to swing with the pane, sapphire night filling the glass; gaze forward through the door.
-- [00:02–00:04] The camera rides the door through its arc and the colour seam wipes across her body, midnight-blue satin shifting to deep emerald with warm gold blooming behind; eyes brightening behind the tint.
-- [00:04–00:06] She emerges into the emerald-gold lobby and turns her face to lens, a radiant knowing smile landing with the spoken line, brows lifting a hair in delight.
+- [00:00–00:02] Cut to a profile-to-front medium at a HELD angle on her (Veo first frame = the sapphire-night Look A still): already in motion, the camera riding WITH her (a push-with translation, never an angle cut) as she presses the brass push-bar and steps into the revolving door, the lit sapphire-night portico filling the glass behind; gaze forward, palette still fully sapphire.
+- [00:02–00:04] The colour swap BEGINS here, mid-clip: as the door carries her forward the seam of colour wipes smoothly across her body in one continuous front, midnight-blue satin resolving to deep emerald and warm gold blooming through the lobby behind exactly where the seam passes — a flowing wipe along the fabric, never a cut, the camera still riding with her at the held angle; eyes brightening behind the tint.
+- [00:04–00:06] She emerges fully into the emerald-gold lobby of Frame 5's still (Veo's LAST frame) and turns her face to lens, a radiant knowing smile landing with the spoken line — resolved and held, no last-second snap.
 
 FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
@@ -887,7 +887,7 @@ FABRIC/HAIR/PROP PHYSICS: gown sweeps with the door-draft; hair lifts and resett
 
 FOOTWORK & BODY FLOW: a rolling heel-to-toe stride carrying her through the door, hips driving the motion.
 
-TRANSITION / IMPOSSIBLE MOVE: THE hero move — the revolving rotation swaps the entire palette and her gown from sapphire night to emerald-gold; locked to the door's sweep.
+TRANSITION / IMPOSSIBLE MOVE: THE hero move, contained MID-CLIP — the revolving rotation swaps the entire palette and her gown from sapphire night to emerald-gold as a flowing wipe along the door's sweep; the camera rides WITH her (translation, angle held on her, never an angle cut); Veo first frame = this frame's sapphire-night Look A image, last frame = Frame 5's emerald-gold Look B image; every frame join is a hard match-cut to a new angle.
 
 LIGHTING-IN-MOTION: cool and warm keys cross-fade across her body as the door turns; chandelier glow blooms in.
 
