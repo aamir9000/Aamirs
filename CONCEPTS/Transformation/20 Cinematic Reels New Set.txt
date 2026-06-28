@@ -9565,7 +9565,7 @@ Hair: a sleek high ponytail/low chignon hybrid with face-framing strands, color 
 
 Makeup: luminous future-glow: glassy skin, a soft rose-gold lip, cyan-gold lids, real pores.
 
-Hero Movement / Impossible Move: water-road grand transform — the ocean rises into a road of light and weaves sea-water, city-light and silk into a flowing couture finale gown.
+Hero Movement / Impossible Move: water-road grand transform — contained MID-CLIP at a held camera angle (she strides, camera rides WITH her): the ocean rises into a road of light and weaves sea-water, city-light and silk into a flowing couture finale gown, a grand surreal beat grounded in real water physics (real sea-rise and light, dreamy but grounded, no cheap sparkles). Veo first/last-frame continuity (Frame 4 image = future-set Look A = first frame, Frame 5 image = couture Look B = last frame); every frame join is a hard match-cut to a new angle.
 
 Mood: EPIC-LUMINOUS, free, triumphant.
 
@@ -9811,44 +9811,44 @@ LOOP LOGIC: the step onto the road bridges to the grand transform.
 
 ## Frame 4 of 8 — IMAGE PROMPT (TRANSFORM — WATER-ROAD GRAND TRANSFORM)
 
-ANGLE & SHOT SIZE: front-on FULL/wide hero at the transform apex, Aira on the road of light as the ocean rises and weaves sea-water, city-light and silk into the flowing couture finale gown, light flung outward.
+ANGLE & SHOT SIZE: front-on FULL/wide hero, Aira stepping onto the forming road of light in her sleek future set, the sea-city and light-towers blazing behind — the clean Look A the clip opens on, the gown NOT yet woven.
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the START frame of the transform CLIP — render her fully in the sleek future set Look A (the exact still the Frame-4 video opens on, and Veo's FIRST frame): the future set and chignon, stepping onto the forming road of light, one hand reaching toward the sea (the couture finale gown NOT yet woven). The water-road grand transform happens MID-CLIP at this same HELD camera angle (she strides, the camera rides WITH her / push-with, never an angle rotation; the ocean rises into a road of light and weaves sea-water, city-light and silk into the flowing couture finale gown — a grand surreal beat grounded in real water physics, real sea-rise and light, no cheap sparkles), resolving into Frame 5's couture image (Veo's LAST frame). Her face and proportions stay constant. Do NOT depict the gown woven in this still and do NOT invent a new face, new hands or new bone structure.
 
-WARDROBE: the future set weaving into a flowing aqua-to-cyan couture finale gown of sea-water-and-light with gold light-thread and a grand train, modest neckline and length, edges streaming sea-light.
+WARDROBE: the sleek future set at its best, modest neckline and length, fully intact (the couture finale gown not yet woven).
 
-FOOTWEAR: luminous water-sole couture heels resolved.
+FOOTWEAR: luminous hydro-heels on the glowing pier-glass.
 
-EYEWEAR: visor up; a delicate gold-light brow-piece forming (clean radiant face).
+EYEWEAR: visor up (clean radiant face).
 
-ACCESSORIES: a forming gold-light collar, the hydro-orb gleaming, gold-light earrings.
+ACCESSORIES: the hydro-orb gleaming — the future look.
 
-HAIR: the chignon loosening, strands fanning in the sea-updraft, light-lit.
+HAIR: a sleek chignon.
 
-MAKEUP: luminous future-glow at full sheen, rose-gold lip, cyan-gold highlight blazing.
+MAKEUP: a luminous future-glow, rose-gold lip; real pores and fine vellus texture.
 
-HANDS & NAILS: both arms opening as the gown weaves, fingers gracefully splayed; pearl-cyan nails.
+HANDS & NAILS: one hand reaching toward the rising sea, the other easy at her side, fingers relaxed; pearl-cyan nails, neat cuticles.
 
-FACIAL MICRO-DYNAMICS: a radiant awed smile, lips parted on a delighted breath, eyes wide with wonder, brows lifted.
+FACIAL MICRO-DYNAMICS: an awed anticipatory gaze to the rising sea and the forming road, lips parting on a held breath — fully recognizable, identity-locked, ready for the transform mid-clip.
 
-BODY POSTURE & WEIGHT: transform apex mid-stride on the light-road, body lengthening upward, arms blooming — full of forward lifting momentum, never frozen-stiff.
+BODY POSTURE & WEIGHT: stepping onto the light-road, weight rolling onto the front foot, torso leading — poised, the instant before the grand transform.
 
-KINETIC STILLNESS (8 layers): (1) the ocean rising into the road; (2) the gown weaving from water-and-light; (3) sea-droplets and light-motes flung in slow arcs; (4) the chignon loosening; (5) a slow breath; (6) the brow-piece settling; (7) sea-light sweeping; (8) lashes flaring.
+KINETIC STILLNESS (8 layers): (1) the ocean beginning to stir and rise; (2) the road of light forming across the water; (3) a chignon-strand lifting in the sea-air; (4) the sea-city light-towers blazing behind; (5) a held breath; (6) the hydro-orb glinting; (7) the future set rippling; (8) lashes settling on a blink.
 
-SPATIAL LOGIC: FOREGROUND — flung sea-light nearest lens, sharp. MIDGROUND — Aira and the weaving gown. BACKGROUND — the sea-city and light-road, clean for the transform to read.
+SPATIAL LOGIC: FOREGROUND — her reaching hand and the forming light-road nearest lens, tack sharp. MIDGROUND — Aira in the future set, the hero. BACKGROUND — the sea-city with light-towers rising from the sea-blue ocean, the world present and epic.
 
-LIGHTING: KEY — warm golden-blue light igniting the gown. FILL — cyan sea-bounce. RIM — gold-light rim lighting the silk translucent. PRACTICAL — light-road, city-light, hydro-orb. SEPARATION — luminous gown vs luminous sea. BOUNCE — light-road kick.
+LIGHTING: KEY — cool golden-blue city-light. FILL — cyan sea-bounce. RIM — gold-light rim on her shoulder and chignon. PRACTICAL — light-road, city-light, hydro-orb. SEPARATION — figure vs luminous sea. BOUNCE — light-road kick.
 
-LENS + DOF + BOKEH: 35mm, f/2.8; focus on Aira and the weaving gown; flung sea-light as bokeh; background creamy.
+LENS + DOF + BOKEH: 35mm, f/2.8; focus on Aira; the sea-city as soft luminous bokeh, clearly present and epic behind.
 
-COMPOSITION: 9:16, the transform as a grand forward-and-up burst, Aira centred-striding, headroom for the light.
-SUBJECT FRAMING & POSITION: A front-on full/wide hero at the transform apex, the ocean rising to weave sea-water, city-light and silk into the gown. The complete figure is in frame, centred at the transform apex mid-stride on the light-road, body lengthening upward, arms blooming. Camera at full/wide distance, the woven light radiating around her. She faces front, centred and striding, dominant in frame. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+COMPOSITION: 9:16, Aira a poised vertical stepping onto the light-road, the sea-city blazing behind, headroom for the transform.
+SUBJECT FRAMING & POSITION: A front-on full/wide hero stepping onto the forming light-road in the future Look A — the clean still the transform clip opens on. The complete figure is in frame, centred, the sea-city present and epic behind. Camera at full/wide distance. She faces front, centred. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
-ATMOSPHERE: epic awe — the ocean dressing her in couture.
+ATMOSPHERE: epic anticipation — the breath before the ocean dresses her in couture.
 
-COLOUR GRADE: vivid future-aquatic at peak luminosity, translucent sea-light silk, glossy speculars, full mid-tone.
+COLOUR GRADE: future-aquatic sea-blue kept tonal and luminous but balanced (sea-blue is a tonal concept — rich but restrained, never blown out or peak), glossy speculars, full mid-tone.
 
-TEXTURE & MICRO-DETAIL: silk weaving from water-and-light, gold light-thread, sea-droplet refractions, light-lit skin, loosening chignon.
+TEXTURE & MICRO-DETAIL: future-set weave, glowing pier-glass, fresh skin, chignon detail.
 
 NEGATIVE: (as Frame 1) plus identity drift, melted features, immodest exposure, broken water physics, plastic skin.
 
@@ -9861,9 +9861,9 @@ SHOT TYPE & ANGLE: front-on full/wide hero, subject fills ~55%, striding centred
 LENS: 35mm, f/2.8.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Front-on full/wide hero, striding centred: she is already stepping onto the road of light as a smooth crane-up-and-orbit glides around her, the ocean stirring; gaze lifting with the rising sea.
-- [00:02–00:04] The ocean rises and weaves sea-water, city-light and silk into the flowing couture finale gown as the crane orbits; chin lifting, eyes widening in radiant awe, lips parting.
-- [00:04–00:06] Her arms open and a radiant awed smile lands, sea-light flung outward on real arcs, the grand train settling, eyes alight.
+- [00:00–00:02] Cut to a front-on full/wide hero at a HELD angle (Veo first frame = the future-set Look A still): already in motion, the camera riding WITH her / push-with as she steps onto the forming road of light and the ocean begins to stir — the future set fully intact, the gown NOT yet woven, the sea-city blazing behind; gaze lifting with the rising sea.
+- [00:02–00:04] The grand transform BEGINS here, mid-clip: the ocean rises into the road of light and weaves sea-water, city-light and silk smoothly into the flowing couture finale gown exactly where it passes — a grand surreal beat grounded in real water physics (real sea-rise, sea-droplets and light on true arcs, no cheap sparkles), the sea-city epic behind, the camera riding with her at the held angle; chin lifting, eyes widening in radiant awe.
+- [00:04–00:06] The weave completes and the look settles smoothly and fully into the couture finale gown of Frame 5's still (Veo's LAST frame), the grand train settling and sea-light on real arcs — a radiant awed smile landing, no last-second snap.
 
 FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
@@ -9875,7 +9875,7 @@ FABRIC/HAIR/PROP PHYSICS: water-and-light-to-silk transition obeys fluid then cl
 
 FOOTWORK & BODY FLOW: a clean striding step across the light-road, the body uncoiling tall.
 
-TRANSITION / IMPOSSIBLE MOVE: THE hero move — the ocean rises into a road of light and weaves sea-water, city-light and silk into the couture finale gown; locked transform keyframe.
+TRANSITION / IMPOSSIBLE MOVE: THE hero move, contained mid-clip at a held camera angle (she strides, the camera rides WITH her / push-with, never an angle rotation) — the ocean rises into a road of light and weaves sea-water, city-light and silk into the couture finale gown, a grand surreal beat grounded in real water physics; Veo first frame = this frame's future-set Look A image, last frame = Frame 5's couture image; every frame join is a hard match-cut to a new angle.
 
 LIGHTING-IN-MOTION: golden-blue light ignites the silk translucent as it weaves; sea-light sweeps the frame.
 
@@ -10074,7 +10074,7 @@ SUBJECT FRAMING & POSITION: A front-on full/wide hero, Aira rising from the pool
 
 ATMOSPHERE: epic triumph — the finale punchline.
 
-COLOUR GRADE: vivid future-aquatic at peak luminosity, glossy speculars, full mid-tone.
+COLOUR GRADE: future-aquatic sea-blue kept tonal and luminous but balanced (rich but restrained, never blown out or peak), glossy speculars, full mid-tone.
 
 TEXTURE & MICRO-DETAIL: sea-light gown, gold light-thread, wet chignon, real skin texture, dripping light.
 
