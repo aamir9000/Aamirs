@@ -8499,7 +8499,7 @@ Hair: a sleek low ponytail with face-framing strands, color locked to reference.
 
 Makeup: fresh luminous glow: clean skin, a soft nude-rose lip, gilded lids, real pores.
 
-Hero Movement / Impossible Move: corridor-to-cloud — the terminal corridor opens into open sky and her coat sweeps into a cloud-silk couture gown.
+Hero Movement / Impossible Move: corridor-to-cloud — contained MID-CLIP at a held camera angle (she strides forward, camera rides WITH her): the terminal corridor opens into open sky and her coat sweeps into a cloud-silk couture gown by real cloth + believable sky-light (dreamy but grounded, no cheap sparkles). Veo first/last-frame continuity (Frame 4 image = travel Look A = first frame, Frame 5 image = cloud-silk gown Look B = last frame); every frame join is a hard match-cut to a new angle.
 
 Mood: ASPIRATIONAL-COOL, free, cinematic.
 
@@ -8745,44 +8745,44 @@ LOOP LOGIC: the threshold-step bridges to the gown transform.
 
 ## Frame 4 of 6 — IMAGE PROMPT (TRANSFORM — CORRIDOR-TO-CLOUD)
 
-ANGLE & SHOT SIZE: front-on FULL/wide hero, Aira at the threshold apex as the corridor opens into open sky and her coat sweeps into a flowing cloud-silk couture gown, light flung outward.
+ANGLE & SHOT SIZE: front-on FULL/wide hero, Aira at the departure threshold in her travel coat, the glass terminal corridor around her and the sky glowing beyond the windows — the clean Look A the clip opens on, the corridor still terminal and the gown NOT yet swept.
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the START frame of the transform CLIP — render her fully in the travel set Look A (the exact still the Frame-4 video opens on, and Veo's FIRST frame): the travel coat and ponytail at the departure threshold with the glass concourse around her (the corridor still the terminal, the cloud-silk gown NOT yet swept). The corridor-to-cloud transform happens MID-CLIP at this same HELD camera angle (she strides forward, the camera rides WITH her / push-with, never an angle rotation; the corridor opens into open sky and her coat sweeps into the flowing cloud-silk couture gown — dreamy but grounded in real cloth + believable sky-light, no cheap sparkles), resolving into Frame 5's cloud-silk gown image (Veo's LAST frame). Her face and proportions stay constant. Do NOT depict the gown swept in this still and do NOT invent a new face, new hands or new bone structure.
 
-WARDROBE: the travel coat sweeping into a flowing white-and-gold cloud-silk couture gown, modest neckline and length, edges streaming cloud-light.
+WARDROBE: the travel coat-set at its best, modest neckline and length, fully intact (the cloud-silk gown not yet swept).
 
-FOOTWEAR: white-and-gold cloud-sole heels resolved.
+FOOTWEAR: clean travel heels on the polished floor.
 
-EYEWEAR: aviators up; a delicate gilded brow-piece forming (clean radiant face).
+EYEWEAR: aviators up (clean radiant face).
 
-ACCESSORIES: a forming gold-thread collar, watch gleaming, gold studs.
+ACCESSORIES: a watch and gold studs — the travel look.
 
-HAIR: the ponytail loosening, strands fanning in the sky-updraft, cloud-light-lit.
+HAIR: a sleek ponytail.
 
-MAKEUP: fresh luminous glow at full sheen, nude-rose lip, gilded highlight blazing.
+MAKEUP: a fresh luminous glow, nude-rose lip; real pores and fine vellus texture.
 
-HANDS & NAILS: both arms opening as the gown sweeps, fingers gracefully splayed; soft-nude nails.
+HANDS & NAILS: one hand easing from the departure-window glass, the other on the suitcase handle, fingers relaxed; soft-nude nails, neat cuticles.
 
-FACIAL MICRO-DYNAMICS: a radiant awed smile, lips parted on a delighted breath, eyes wide with wonder, brows lifted.
+FACIAL MICRO-DYNAMICS: an aspirational anticipatory gaze to the glowing sky beyond, lips parting on a held breath — fully recognizable, identity-locked, ready for the transform mid-clip.
 
-BODY POSTURE & WEIGHT: threshold apex mid-stride, body lengthening upward, arms blooming — full of forward lifting momentum, never frozen-stiff.
+BODY POSTURE & WEIGHT: at the threshold, weight rolling onto the front foot, torso leading forward — poised, the instant before the corridor opens.
 
-KINETIC STILLNESS (8 layers): (1) the corridor opening to sky; (2) the coat sweeping into the gown; (3) cloud-wisps flung in slow arcs; (4) the ponytail loosening; (5) a slow breath; (6) the brow-piece settling; (7) sky-light sweeping; (8) lashes flaring.
+KINETIC STILLNESS (8 layers): (1) the gate-glow and arching windows of the concourse; (2) the sky glowing bright beyond the glass; (3) a ponytail-strand lifting; (4) a golden floor-reflection streaking; (5) a held breath; (6) a watch glint; (7) the travel coat rippling; (8) lashes settling on a blink.
 
-SPATIAL LOGIC: FOREGROUND — flung cloud-light nearest lens, sharp. MIDGROUND — Aira and the sweeping gown. BACKGROUND — open golden sky, clean for the transform to read.
+SPATIAL LOGIC: FOREGROUND — her hand at the glass and the suitcase handle nearest lens, sharp. MIDGROUND — Aira in the travel coat, the hero. BACKGROUND — the glass terminal concourse with gate-glow and the sky glowing beyond, the world present and vast.
 
-LIGHTING: KEY — warm golden sky-light igniting the gown. FILL — sky-blue ambient. RIM — sky-rim lighting the silk translucent. PRACTICAL — sky sun, cloud-glow. SEPARATION — luminous gown vs bright sky. BOUNCE — cloud-floor kick.
+LIGHTING: KEY — cool terminal daylight warming toward the sky beyond. FILL — soft concourse ambient. RIM — sky-rim on her shoulder and ponytail. PRACTICAL — gate lights, sky. SEPARATION — figure vs the bright windows. BOUNCE — polished-floor kick.
 
-LENS + DOF + BOKEH: 35mm, f/2.8; focus on Aira and the sweeping gown; flung cloud-light as bokeh; background creamy.
+LENS + DOF + BOKEH: 35mm, f/2.8; focus on Aira; the concourse and sky as soft bokeh, clearly present and vast behind.
 
-COMPOSITION: 9:16, the transform as a dynamic forward-and-up burst, Aira centred-striding, headroom for the cloud.
-SUBJECT FRAMING & POSITION: A front-on full/wide hero at the threshold apex, the corridor opening into open sky as her coat sweeps into a flowing cloud-silk couture gown. The complete figure is in frame, centred at the threshold apex mid-stride, body lengthening upward, arms blooming. Camera at full/wide distance, the sky opening around her. She faces front, centred and striding forward, dominant in frame. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+COMPOSITION: 9:16, Aira a poised vertical at the threshold, the concourse sweeping back, sky beyond, headroom for the cloud.
+SUBJECT FRAMING & POSITION: A front-on full/wide hero at the departure threshold in the travel Look A — the clean still the transform clip opens on. The complete figure is in frame, centred, the terminal concourse present behind. Camera at full/wide distance. She faces front, centred. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
-ATMOSPHERE: aspirational awe — the terminal opening her into the sky.
+ATMOSPHERE: aspirational anticipation — the breath before the terminal opens her into the sky.
 
-COLOUR GRADE: vivid travel at peak luminosity, translucent cloud-silk, glossy speculars, full mid-tone.
+COLOUR GRADE: clean travel tones balanced (cool terminal warming to golden sky — rich but controlled, never blown out or peak), glossy speculars, full mid-tone.
 
-TEXTURE & MICRO-DETAIL: silk sweeping from coat, cloud-light detail, gold-thread, light-lit skin, loosening ponytail.
+TEXTURE & MICRO-DETAIL: travel-coat weave, polished floor, fresh skin, ponytail detail.
 
 NEGATIVE: (as Frame 1) plus identity drift, melted features, immodest exposure, broken cloud physics, plastic skin.
 
@@ -8795,9 +8795,9 @@ SHOT TYPE & ANGLE: front-on full/wide hero, subject fills ~55%, striding centred
 LENS: 35mm, f/2.8.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Front-on full/wide hero, striding centred: she is already crossing the threshold as a smooth crane-up-and-back glides with her, the corridor edges dissolving toward sky; gaze lifting into the light.
-- [00:02–00:04] The corridor opens fully into open sky and her coat sweeps into the flowing cloud-silk couture gown as the crane carries the clouds behind; eyes widening in radiant awe, lips parting.
-- [00:04–00:06] Her arms open and a radiant awed smile lands, cloud-light flung outward, eyes alight.
+- [00:00–00:02] Cut to a front-on full/wide hero at a HELD angle (Veo first frame = the travel Look A still): already in motion, the camera riding WITH her / push-with as she strides toward the threshold — the travel coat fully intact, the corridor still terminal, the gown NOT yet swept, the sky glowing beyond the glass; gaze lifting into the light.
+- [00:02–00:04] The transform BEGINS here, mid-clip: the corridor opens smoothly into open sky and her coat sweeps into the flowing cloud-silk couture gown exactly where it passes — dreamy but grounded in real cloth + believable sky-light (no cheap sparkles), golden clouds opening behind, the camera riding with her at the held angle; eyes widening in radiant awe.
+- [00:04–00:06] The sweep completes and the look settles smoothly and fully into the cloud-silk couture gown of Frame 5's still (Veo's LAST frame), cloud-light drifting on real arcs — a radiant awed smile landing, no last-second snap.
 
 FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
@@ -8809,7 +8809,7 @@ FABRIC/HAIR/PROP PHYSICS: coat-to-silk transition obeys cloth then cloud dynamic
 
 FOOTWORK & BODY FLOW: a clean striding step onto the runway of light, the body uncoiling tall.
 
-TRANSITION / IMPOSSIBLE MOVE: THE hero move — the terminal corridor opens into open sky and her coat sweeps into a cloud-silk couture gown; locked threshold keyframe.
+TRANSITION / IMPOSSIBLE MOVE: THE hero move, contained mid-clip at a held camera angle (she strides forward, the camera rides WITH her / push-with, never an angle rotation) — the terminal corridor opens into open sky and her coat sweeps into the cloud-silk couture gown by real cloth + believable sky-light; Veo first frame = this frame's travel Look A image, last frame = Frame 5's cloud-silk gown image; every frame join is a hard match-cut to a new angle.
 
 LIGHTING-IN-MOTION: golden sky-light ignites the silk translucent as it forms; cloud-glow sweeps the frame.
 
