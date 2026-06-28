@@ -516,7 +516,7 @@ Hair: AP — long loose waves drifting weightlessly as if suspended in still wat
 
 Makeup: AQ — bioluminescent glow: an aqua-glow lid, dewy cool luminous skin, a soft teal-rose lip, a glowing highlight on the high points, soft-set brows, real pores
 
-Movement: macro serum-drop → plankton glow bloom transform (the one impossible move) — a cloud of bioluminescent plankton blooms alight around her in the dark water
+Movement: plankton glow bloom transform (the one impossible move) — a cloud of bioluminescent plankton blooms alight around her in the dark water, CONTAINED mid-clip inside Frame 4 at a HELD angle (begins mid-clip, blooms smoothly, never an instant snap; believable real bioluminescent particle physics, no cheap sparkles). Veo first/last-frame continuity (Frame 4 image = bioluminescent-glow Look A = first frame, Frame 5 image = fully-glowing Look B = last frame); every frame join is a hard match-cut to a new angle. (SILENT reel — wordless expression reveal, no VO; underwater drift = real buoyancy.)
 
 Concept Line: "light from the deepest dark" (rendered visually — SILENT, no spoken VO)
 
@@ -582,9 +582,9 @@ SHOT TYPE: medium close, chest-up, subject fills about 55% of the vertical frame
 LENS: 50mm, f/2.0, smooth creamy background fall-off.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Medium close chest-up in the inky deep-sea dark: a slow push-in is already gliding toward her as she tilts the glowing bottle a few degrees into the soft aqua key, speculars sliding along the glass and the luminous serum drifting inside; gaze lowered to the bottle, plankton motes hanging in the cool dark.
-- [00:02–00:04] The push continues as she lifts her serene gaze to lens on a slow deep-water inhale and a mysterious quarter-smile blooms, a few strands drifting weightless.
-- [00:04–00:06] She holds, suspended and calm, eyes catching the aqua glow, a loose strand drifting across the dark (silent).
+- [00:00–00:02] Cut to a medium-close chest-up in the deep-sea abyss: she is already drifting upright and buoyant in the inky teal-black water as a slow push eases in, drifting bioluminescent plankton and pale god-rays filtering from far above behind her; her right hand cradling the faceted bottle soft at her collarbone.
+- [00:02–00:04] The push settles as a strand of hair lifts weightless in the real water and her cool gaze eases to lens, glowing motes hanging in the dark, a serene mysterious quarter-smile settling.
+- [00:04–00:06] She holds the bioluminescent-glow look in the deep-teal iridescent gown drifting weightless, eyes cool and luminous (silent reel).
 
 AUDIO: diegetic only, no in-clip music, no VO (SILENT concept). Ambient bed — a deep muffled underwater pressure-tone and a faint distant sonar-like ping throughout. SFX — a soft muffled glass-tap as her fingers settle on the bottle at 0.6s (soft attack, long watery tail), a faint fabric drift at 3.2s, a delicate glowing-plankton shimmer at 4.5s timed to the gaze-lift. Reaction — a soft slow underwater breath at 3.0s. The master track sits low — a deep ambient pad just kindling under the pressure-tone (present, never full).
 
@@ -623,7 +623,7 @@ SUBJECT FRAMING & POSITION: A medium close framing holds Aira from the chest up 
 
 LENS + DOF + BOKEH: 50mm, f/2.0; focus split between her near eye and the swelling glowing drop so both read crisp; the abyss melting to a lush creamy dark field; soft glowing blooms off the drop and first plankton; gentle roll-off, no clipping.
 
-COMPOSITION REFERENCE: the hushed build beat — a glowing aqua drop and first sparking plankton, the bloom clearly imminent (BA.3 cause building to effect).
+COMPOSITION REFERENCE: a macro serum-drop build beat — mysterious and poised, the glow bloom held for the Frame-4 clip.
 
 ATMOSPHERE: mysterious, charged, serene — the suspended instant before the plankton bloom alight around her.
 
@@ -642,9 +642,9 @@ SHOT TYPE: medium close, chest-up, subject and raised dropper fill about 58% of 
 LENS: 50mm, f/2.0.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Medium close: the slow push continues with a faint tilt-up already following her hand as she lifts the dropper near her cheekbone and releases a single glowing aqua drop; gaze tracing the drop down through the water.
-- [00:02–00:04] The first bioluminescent plankton spark alight in the dark water around her, her eyes softening with mysterious wonder.
-- [00:04–00:06] The drop meets her skin with a luminous bloom, more strands drifting, lashes lowering in quiet awe.
+- [00:00–00:02] Cut to a medium-close three-quarter, a rack-focus pulling from the bottle to her eye: she is already releasing a glowing aqua drop near her cheekbone and the first plankton spark alight in the dark water; gaze cast soft to the drop.
+- [00:02–00:04] The aqua drop beads cool and luminous as her gaze softens with quiet wonder and a mysterious micro-smile kindles, plankton motes beginning to drift in.
+- [00:04–00:06] She holds the drop poised near her cheek, eyes cool and dreamy, the bioluminescent-glow look intact (silent here).
 
 AUDIO: diegetic only, no VO (SILENT). Ambient — deep muffled underwater pressure-tone and a faint sonar ping throughout. SFX — a soft muffled dropper-release tick at 0.9s, a delicate glowing-plankton spark-shimmer at 3.0s, a faint fabric drift at 5.4s (soft attack, long watery tail). Reaction — a soft slow underwater breath at 3.2s. The master track lifts a touch — a deep ambient pad and a soft glassy shimmer rising under the SFX (present, never full).
 
@@ -658,7 +658,7 @@ NEGATIVE: identity drift, face or hand warp, extra or fused fingers, duplicate p
 
 ## Frame 3 of 6 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the locked START keyframe of the plankton glow bloom transform — face fully recognizable, still the bioluminescent-glow look, the plankton now gathering and suspending in the dark water around her, the first motes just kindling at her cheekbone and shoulder. Lock this START so Frame 4's bloom interpolates cleanly to the full glowing END (Frame 5).
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. SHOT NOTE: a clean bioluminescent-glow (Look A) beat at its OWN cut/angle — the bioluminescent-glow look fully intact, plankton gathering and suspending in the dark water; the bloom does NOT happen here (it happens mid-clip inside Frame 4). Build mysterious anticipation only.
 
 WARDROBE: the deep-teal-to-midnight iridescent gown, continuity-locked, the sheer layers beginning to catch gathering plankton glow, fully modest and pristine, zero snags.
 
@@ -683,7 +683,7 @@ SUBJECT FRAMING & POSITION: A medium framing holds Aira from the chest up with a
 
 LENS + DOF + BOKEH: 50mm, f/2.0; focus split between her near eye and the nearest suspended mote so both read crisp; the abyss melting to a lush creamy dark field; soft glowing blooms off the plankton; gentle roll-off, no clipping.
 
-COMPOSITION REFERENCE: the hushed suspended build beat — plankton gather and suspend, the bloom clearly imminent (BA.3 cause building to effect).
+COMPOSITION REFERENCE: a poised mysterious beat, plankton suspended and glowing soft — cool and dreamy, the bloom held for the Frame-4 clip.
 
 ATMOSPHERE: mysterious, charged, serene — the suspended instant before the plankton bloom alight around her.
 
@@ -702,9 +702,9 @@ SHOT TYPE: medium, chest-up, subject and gathering plankton fill about 60% of th
 LENS: 50mm, f/2.0, smooth creamy background fall-off.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Medium chest-up: a slow weightless arc is already drifting around her as she lowers the dropper a touch and the bioluminescent plankton gather; gaze following the gathering glow.
-- [00:02–00:04] The arc eases round as the suspended plankton pulse slow with glowing breaths, her eyes softening with wonder.
-- [00:04–00:06] The gathering tightens and brightens, cueing the bloom, her gaze lifting a degree in expectation.
+- [00:00–00:02] Cut to a medium chest-up on a fresh three-quarter angle: she eases her hand down and opens it soft into the gathering plankton, drawing a slow underwater breath as the camera arcs a few degrees and the abyss drifts behind with parallax; gaze lifting.
+- [00:02–00:04] The arc settles as her gaze lifts to lens with rising cool wonder and a knowing micro-smile forms, bioluminescent plankton gathering and suspending in the dark water, still the bioluminescent-glow look.
+- [00:04–00:06] She holds the poised mysterious beat, the plankton suspended and glowing soft, eyes cool and bright — the hush before the glow bloom (silent here).
 
 AUDIO: diegetic only, no VO (SILENT). Ambient — deep muffled underwater pressure-tone and a faint sonar ping throughout. SFX — the soft settle of the lowering dropper at 0.8s, a delicate suspended-plankton spark-shimmer at 2.2s, a faint watery swell at 4.2s as the motes mass (soft attack, long watery tail). Reaction — a soft slow underwater breath at 2.4s. The master track sits low — a deep ambient pad and a soft glassy shimmer under the SFX (present, never full).
 
@@ -718,38 +718,38 @@ NEGATIVE: identity drift, face or hand warp, extra or fused fingers, duplicate p
 
 ## Frame 4 of 6 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the one impossible move — the plankton glow bloom. LOCK the START (Frame 3, face clear, bioluminescent-glow, plankton gathering) and the END (Frame 5 open, fully glowing radiant after-look). Mid-bloom the face stays clear and recognizable, softly framed (never buried) by the blooming plankton; interpolate strictly between the locked keyframes — do NOT invent a new face, new hands or new bone structure beneath the plankton glow. Mysterious and cool, true bioluminescent particle physics, dreamy not chaotic.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the START frame of the transform CLIP — render her fully in the bioluminescent-glow Look A (the exact still the Frame-4 video opens on, and Veo's FIRST frame): the deep-teal iridescent gown drifting weightless in the dark water, both arms beginning to drift open as bioluminescent plankton gather and suspend around her (the full glow bloom NOT yet alight). The plankton glow bloom happens MID-CLIP at this same HELD angle (the camera may push or drift-with but never rotates its angle; the plankton bloom alight by believable real bioluminescent particle physics — no cheap sparkles), resolving into Frame 5's fully-glowing after-look image (Veo's LAST frame). Her face, hair and proportions stay constant. Do NOT depict the bloom in this still and do NOT invent a new face, new hands or new bone structure.
 
-WARDROBE (refined): the deep-teal iridescent gown lifting to its most ethereal underwater float as the bloom alights — sheer layers drifting fully weightless, fully modest, never revealing.
+WARDROBE: the flowing deep-teal-to-midnight iridescent gown with long sleeves and a modest high neckline, drifting weightless in the dark water, fully modest, fully intact (the full glow bloom not yet alight).
 
-HAIR: the long waves lifting fully weightless on the bloom, drifting as if suspended in still water, catching a soft aqua ribbon of light mid-motion; color locked beneath the sheen.
+HAIR: the long waves drifting weightless in the still dark water, a soft aqua glow at the edges; colour locked to reference.
 
-MAKEUP: mid-bloom — the bioluminescent glow flushing to its luminous peak, the aqua-glow lid kindling brighter, the teal-rose lip enriching, the glowing highlight peaking on the high points; real pores beneath.
+MAKEUP: the bioluminescent-glow Look-A base — an aqua-glow lid, dewy cool skin, a soft teal-rose lip, a glowing highlight on the high points; skin dewy and real with visible pores and fine vellus texture.
 
-HANDS & NAILS: both arms drifting open and weightless through the bloom, palms turning up as the plankton bloom alight outward in weightless real-time suspension around her; natural nail-bed color, neat cuticles, no white-knuckle tension.
+HANDS & NAILS: both arms beginning to drift open and weightless, palms easing up as the first plankton gather, the right near the cradled bottle; natural nail-bed colour, neat cuticles, no white-knuckle tension.
 
-FACIAL MICRO-DYNAMICS: eyes luminous with serene mysterious awe, a gentle parted-lip wonder, a clean cool warmth — face clear and framed by the blooming plankton, identity strictly held to reference.
+FACIAL MICRO-DYNAMICS: a serene mysterious gaze with a gentle parted-lip wonder, a clean cool warmth — composed and fully recognizable, identity-locked, ready for the glow bloom mid-clip.
 
-BODY POSTURE & WEIGHT: fully suspended weightless, spine lengthening and limbs drifting open — true underwater zero-gravity physics; modest throughout.
+BODY POSTURE & WEIGHT: drifting upright and buoyant in the water, spine long, limbs easing open — true underwater buoyancy, the mysterious centre before the bloom, modest throughout.
 
-KINETIC STILLNESS (8 layers): (1) bioluminescent plankton blooming alight outward in weightless real-time arcs at peak; (2) a soft aqua glow sweeping bright across her cheek and shoulder; (3) the waves and gown drifting fully weightless mid-bloom; (4) glowing motes and micro-plankton sparkling through the field; (5) the gown layers lifting to their ethereal float; (6) soft aqua speculars multiplying across the glowing plankton; (7) the abyss blooming a touch brighter through the glow; (8) her chest mid a slow awed breath.
+KINETIC STILLNESS (8 layers): (1) the first bioluminescent plankton gathering and suspending in the dark water; (2) pale god-rays filtering from far above; (3) the long waves drifting weightless; (4) glowing motes hanging in the cool dark; (5) the gown layers drifting buoyant; (6) a soft aqua glint on the faceted bottle; (7) the iridescent gown breathing on a slow underwater breath; (8) a slow eyelash settle completing a calm blink.
 
-SPATIAL LOGIC: FOREGROUND — a blooming plankton mote nearest lens, soft. MIDGROUND — Aira mid-bloom and suspended, the glow assembling, the hero. BACKGROUND — the dark abyss with soft creamy falloff and glowing-plankton bloom.
+SPATIAL LOGIC: FOREGROUND — a gathering plankton mote and the cradled bottle nearest lens, soft. MIDGROUND — Aira in the bioluminescent-glow look, drifting, the hero. BACKGROUND — the inky teal-black abyss with drifting plankton and pale god-rays, present and deep behind.
 
-LIGHTING: KEY — soft cool aqua key now brighter through the bloom. FILL — soft cool bounce below (clamshell). RIM — a bright soft aqua rim raking the blooming plankton and the floating waves (hero light on the motion). PRACTICAL — the bioluminescence at full glow. SEPARATION — the bloom and faint aqua haze. BOUNCE — soft aqua kicks multiplying across the glowing plankton.
+LIGHTING: KEY — a soft cool aqua key. FILL — soft cool bounce below (clamshell). RIM — a soft aqua rim on the floating waves and shoulder. PRACTICAL — the drifting bioluminescence and god-rays. SEPARATION — figure vs the deep dark. BOUNCE — soft aqua kick.
 
-FRAMING: ASPECT 9:16; energized medium-wide, Aira centered and suspended with the bloom filling the lower frame, 10% headroom, slight push for intimacy.
-SUBJECT FRAMING & POSITION: A energized medium-wide framing opens around Aira with about 10% headroom as the plankton bloom fills the lower frame, a slight push easing in for intimacy. Her spine lengthens and her shoulders open as the weight rolls smooth between the feet in grounded real-physics motion. The camera eases wider against the inky teal-black abyss, Aira the centred hero at the heart of the bloom. She is centred with the plankton bloom radiating around her. She faces front to the lens, lifted at the peak of the transform. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+FRAMING: ASPECT 9:16; energized medium-wide, Aira centered and drifting in the abyss, 10% headroom — its own distinct cut/angle.
+SUBJECT FRAMING & POSITION: An energized medium-wide framing opens around Aira at about 10% headroom in the inky teal-black abyss, the bioluminescent-glow Look A fully intact as the transform clip begins, she drifting upright and buoyant with limbs easing open. The camera holds a mid distance on its own fresh angle, a hard cut from Frame 3, with Aira the centred hero and the abyss present and deep behind, facing front to the lens. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
-LENS + DOF + BOKEH: 50mm, f/2.0; her face and the nearest blooming plankton tack sharp at the bloom-core, the closest mote melting into a soft creamy bokeh with soft aqua specular blooms.
+LENS + DOF + BOKEH: 50mm, f/2.0; her face and the cradled bottle tack sharp, the abyss melting into a soft creamy bokeh with glowing-plankton blooms; gentle highlight roll-off, no clipping.
 
-COMPOSITION REFERENCE: the signature impossible beat — a plankton glow bloom, mysterious and weightless, heightened but identity-locked (AT.5 transform logic / identity-through-transform).
+COMPOSITION REFERENCE: the start of the signature beat — bioluminescent-glow Look A, mysterious and weightless, the glow bloom held for the video's mid-clip.
 
-ATMOSPHERE: mysterious, exhilarating, mind-bending — the moment the plankton bloom alight and the deep dark fills with living light around her.
+ATMOSPHERE: mysterious, cool, charged — the deep-dark instant the transform clip begins.
 
-COLOR GRADE: deep teal-black abyss — inky uncrushed blacks, glowing aqua bioluminescence, cool luminous highlights, true mote translucency, full mid-tone (no harsh contrast, no garish oversaturation).
+COLOR GRADE: deep teal-black abyss — inky uncrushed blacks, glowing aqua bioluminescence, cool luminous highlights, full mid-tone (no harsh contrast, no garish oversaturation).
 
-TEXTURE & MICRO-DETAIL: the blooming plankton read as real pinpoint glowing motes with soft pulsing halos, the aqua glow reads as a real luminescence on living skin, the gown shows a real sheer weave drifting weightless, skin reads real with pores beneath the glow.
+TEXTURE & MICRO-DETAIL: the gown shows a real sheer iridescent weave drifting weightless; the plankton read as real pinpoint glowing motes; the faceted bottle reads as real glass; real skin micro-texture with peach-fuzz catching the aqua rim.
 
 NEGATIVE: mirrored, flipped, inverted, extra limbs, fused fingers, melted features, asymmetric eyes (unintentional), garbled text, floating shadows, duplicated subjects, low-res patches, plastic skin, over-smoothed skin, oversharpened, AI-generated artifacts, watermarks, signature, deformed hands, malformed teeth, joint cuts at ankle/knee/wrist/elbow/neck, amputated fingertips, cross-eyed, lazy eye, off-axis pupils, melted clothing, mismatched footwear, mannequin-stiff posture, dead eyes, statue-frozen energy, garbled label text, crushed muddy blacks, garish oversaturation, flat dull light, inventing a new face beneath the plankton glow.
 
@@ -762,9 +762,9 @@ SHOT TYPE: energized medium-wide of the plankton glow bloom (the hero move).
 LENS: 50mm, f/2.0.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Energized medium-wide: the push is already easing into a smooth gentle orbit as the bioluminescent plankton bloom alight outward in weightless real-time underwater arcs and she opens her arms; gaze lifting into the bloom.
-- [00:02–00:04] The orbit rides the hero beat as a soft aqua glow sweeps across her and the gown and waves drift to their ethereal float (face clear, framed by the bloom); eyes widening in mysterious awe.
-- [00:04–00:06] The bloom settles and the glow resolves as the orbit eases; a serene wonder landing, eyes alight with aqua light.
+- [00:00–00:02] Cut to an ethereal medium at a HELD angle (Veo first frame = the bioluminescent-glow Look A still): she drifts both arms open from her body, already in motion — still the bioluminescent-glow look, NO full bloom yet, a gentle buoyant push-with easing in, the angle fixed for the whole clip.
+- [00:02–00:04] The glow bloom BEGINS here, mid-clip: a cloud of bioluminescent plankton blooms alight around her in one continuous expanding aura, glowing motes kindling across her cheekbone, shoulder and the drifting gown exactly where the bloom passes — believable real bioluminescent particle physics, motes drifting on true underwater currents (no cheap sparkles), her face clear and cool-lit, eyes widening in mysterious wonder (angle held, identity locked).
+- [00:04–00:06] The bloom completes and the look settles smoothly and fully into the fully-glowing radiant after-look of the Veo last-frame still (Frame 5's image) — a glowing bioluminescent aura set around her in the dark water, resolved and held through the final beat, no last-second pop; a cool radiant calm landing in her eyes.
 
 AUDIO: diegetic-led, no VO (SILENT). Ambient — deep muffled underwater pressure-tone. SFX — a soft watery bloom-swell and glowing-plankton shimmer 0.4–2.7s, fine drifting-mote sparkle and a gentle luminescent hum 2.4–4.5s (soft attack, long watery tails), a soft fabric-lift flutter at 3.3s. Reaction — a soft awed underwater breath at 2.7s. The master track lifts to its immersive peak here — a deep ambient pad swell and soft glassy shimmer landed on the bloom (present, still under the SFX, never full).
 
@@ -780,7 +780,7 @@ NEGATIVE: identity drift, face or hand warp, extra or fused fingers, duplicate p
 
 IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
 
-TRANSFORM KEYFRAME NOTE: this is the locked END keyframe of the plankton glow bloom transform; it must resolve continuously out of the START keyframe in Frame 3 — same face, same hands, same camera distance, the plankton now settled into a radiant glowing aura around her in the dark water. Do NOT invent a new face, new hands or new bone structure beneath the plankton glow; this is the same Aira, mysterious and radiant, never replaced. Frame 3 (START) and Frame 5 (END) are the two anchors of the single transform.
+TRANSFORM KEYFRAME NOTE: this is the fully-glowing Look B reveal at its OWN cut/angle (a hard cut from the Frame-4 glow-bloom clip — a new angle/crop, and the Veo last-frame the bloom resolves into). It carries the resolved fully-glowing radiant after-look the Frame-4 clip ends on; the angle change masks any slight variation. Same Aira, mysterious and radiant, never replaced — do NOT invent a new face, new hands or new bone structure.
 
 WARDROBE: the deep-teal-to-midnight iridescent gown at its most ethereal underwater float, the sheer layers drifting fully weightless, the modest neckline catching one travelling aqua highlight, pristine, fully modest, zero snags.
 
@@ -824,9 +824,9 @@ SHOT TYPE: medium close, chest-up, subject fills about 56% of the vertical frame
 LENS: 50mm, f/2.0, smooth creamy background fall-off.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Medium close, fully suspended: a slow push is already gliding in as she drifts her hands open and weightless, the glow settling and plankton pulsing slow; gaze easing to lens.
-- [00:02–00:04] She holds a serene mysterious wonder-smile to lens on a slow underwater breath, eyes luminous (silent — no words).
-- [00:04–00:06] She holds the radiant suspended look, plankton drifting around her, the smile easing into calm wonder.
+- [00:00–00:02] Cut to a medium close on a new angle in the glowing dark: she is already in the fully-glowing radiant after-look, drifting her right hand soft back toward the faceted bottle at her collarbone with a buoyant roll of the shoulder; gaze easing to lens.
+- [00:02–00:04] A serene radiant wordless awe eases to lens on a slow underwater breath, the last plankton settling into a soft glowing aura, eyes cool and luminous (silent reveal).
+- [00:04–00:06] She holds the mysterious radiant look, the glow even around her in the water, eyes cool and direct (silent here).
 
 AUDIO: diegetic only, no VO (SILENT concept). Ambient — deep muffled underwater pressure-tone and a faint sonar ping throughout. SFX — a delicate settling-plankton shimmer at 0.9s, a faint fabric drift at 1.5s, a soft luminescent hum easing 3.0–4.5s (soft attack, long watery tail). Reaction — a soft slow underwater breath at 2.1s. The master track holds its immersive depth low, beginning to ease toward the loop resolve.
 
@@ -886,9 +886,9 @@ SHOT TYPE: medium close, chest-up, subject fills about 55% of the vertical frame
 LENS: 50mm, f/2.0, smooth creamy background fall-off.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Medium close matching Frame 1: a slow push is already resolving toward the exact opening framing as she re-cradles the glowing bottle and tilts it into the aqua key, speculars sliding along the glass; gaze lowering to the bottle.
-- [00:02–00:04] The push settles as she eases her serene gaze back to lens on a slow underwater breath with the composed quarter-smile, the composition resolving to the opening; eyes calming.
-- [00:04–00:06] She lands precisely on the Frame 1 pose and gaze, suspended in the dark water — a seamless loop seam (silent).
+- [00:00–00:02] Cut to a medium-close chest-up matched to Frame 1: she returns her right hand to cradle the faceted bottle soft at her collarbone and drifts upright exactly as in Frame 1 as the camera settles to the opening framing.
+- [00:02–00:04] She eases her cool gaze back to lens on a slow underwater breath with the composed mysterious quarter-smile, the fully-glowing aura resolving back toward the opening bioluminescent-glow look to seed the loop.
+- [00:04–00:06] She lands precisely on the Frame 1 pose and gaze, drifting buoyant in the abyss — a seamless loop seam.
 
 AUDIO: diegetic only, no VO (SILENT). Ambient — deep muffled underwater pressure-tone and a faint sonar ping throughout. SFX — a soft muffled glass-tap at 0.6s as her fingers settle on the bottle (soft attack, long watery tail), a faint fabric drift at 3.2s, a delicate glowing-plankton shimmer at 4.5s timed to the gaze-lift. The master track resolves softly here so it can loop clean.
 

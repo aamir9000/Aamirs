@@ -1820,6 +1820,81 @@ BEATSLM[31] = [
 ]
 
 
+BEATSLM[32] = [
+    # F1 - bioluminescent-glow hero (silent), drifting upright in the abyss, push-in
+    (
+        "Cut to a medium-close chest-up in the deep-sea abyss: she is already drifting upright "
+        "and buoyant in the inky teal-black water as a slow push eases in, drifting "
+        "bioluminescent plankton and pale god-rays filtering from far above behind her; her "
+        "right hand cradling the faceted bottle soft at her collarbone.",
+        "The push settles as a strand of hair lifts weightless in the real water and her cool "
+        "gaze eases to lens, glowing motes hanging in the dark, a serene mysterious "
+        "quarter-smile settling.",
+        "She holds the bioluminescent-glow look in the deep-teal iridescent gown drifting "
+        "weightless, eyes cool and luminous (silent reel).",
+    ),
+    # F2 - build, serum drop, first plankton sparking; rack-focus product->eye
+    (
+        "Cut to a medium-close three-quarter, a rack-focus pulling from the bottle to her eye: "
+        "she is already releasing a glowing aqua drop near her cheekbone and the first plankton "
+        "spark alight in the dark water; gaze cast soft to the drop.",
+        "The aqua drop beads cool and luminous as her gaze softens with quiet wonder and a "
+        "mysterious micro-smile kindles, plankton motes beginning to drift in.",
+        "She holds the drop poised near her cheek, eyes cool and dreamy, the bioluminescent-glow "
+        "look intact (silent here).",
+    ),
+    # F3 - START clean (plankton gathering, NO bloom yet), slow arc
+    (
+        "Cut to a medium chest-up on a fresh three-quarter angle: she eases her hand down and "
+        "opens it soft into the gathering plankton, drawing a slow underwater breath as the "
+        "camera arcs a few degrees and the abyss drifts behind with parallax; gaze lifting.",
+        "The arc settles as her gaze lifts to lens with rising cool wonder and a knowing "
+        "micro-smile forms, bioluminescent plankton gathering and suspending in the dark water, "
+        "still the bioluminescent-glow look.",
+        "She holds the poised mysterious beat, the plankton suspended and glowing soft, eyes "
+        "cool and bright \u2014 the hush before the glow bloom (silent here).",
+    ),
+    # F4 - THE TRANSFORM, HELD ANGLE, smooth mid-clip plankton bloom; first=glow, last=fully-glowing
+    (
+        "Cut to an ethereal medium at a HELD angle (Veo first frame = the bioluminescent-glow "
+        "Look A still): she drifts both arms open from her body, already in motion \u2014 still "
+        "the bioluminescent-glow look, NO full bloom yet, a gentle buoyant push-with easing in, "
+        "the angle fixed for the whole clip.",
+        "The glow bloom BEGINS here, mid-clip: a cloud of bioluminescent plankton blooms alight "
+        "around her in one continuous expanding aura, glowing motes kindling across her "
+        "cheekbone, shoulder and the drifting gown exactly where the bloom passes \u2014 "
+        "believable real bioluminescent particle physics, motes drifting on true underwater "
+        "currents (no cheap sparkles), her face clear and cool-lit, eyes widening in mysterious "
+        "wonder (angle held, identity locked).",
+        "The bloom completes and the look settles smoothly and fully into the fully-glowing "
+        "radiant after-look of the Veo last-frame still (Frame 5's image) \u2014 a glowing "
+        "bioluminescent aura set around her in the dark water, resolved and held through the "
+        "final beat, no last-second pop; a cool radiant calm landing in her eyes.",
+    ),
+    # F5 - END fully-glowing reveal (silent, wordless awe), new angle, hand to bottle
+    (
+        "Cut to a medium close on a new angle in the glowing dark: she is already in the "
+        "fully-glowing radiant after-look, drifting her right hand soft back toward the faceted "
+        "bottle at her collarbone with a buoyant roll of the shoulder; gaze easing to lens.",
+        "A serene radiant wordless awe eases to lens on a slow underwater breath, the last "
+        "plankton settling into a soft glowing aura, eyes cool and luminous (silent reveal).",
+        "She holds the mysterious radiant look, the glow even around her in the water, eyes cool "
+        "and direct (silent here).",
+    ),
+    # F6 - loop close, cradle bottle matched to F1
+    (
+        "Cut to a medium-close chest-up matched to Frame 1: she returns her right hand to cradle "
+        "the faceted bottle soft at her collarbone and drifts upright exactly as in Frame 1 as "
+        "the camera settles to the opening framing.",
+        "She eases her cool gaze back to lens on a slow underwater breath with the composed "
+        "mysterious quarter-smile, the fully-glowing aura resolving back toward the opening "
+        "bioluminescent-glow look to seed the loop.",
+        "She lands precisely on the Frame 1 pose and gaze, drifting buoyant in the abyss "
+        "\u2014 a seamless loop seam.",
+    ),
+]
+
+
 def build_block(beats):
     return (
         BREAKDOWN_HEADER + "\n"
