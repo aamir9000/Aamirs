@@ -278,6 +278,85 @@ BEATSLM[4] = [
 ]
 
 
+BEATSLM[2] = [
+    # F1 - Paris held city, alive lateral track, cut in
+    (
+        "Cut to a medium-wide thigh-up tracking shot on the Haussmann Paris balcony at "
+        "silver-blue dawn: the camera dollies laterally to settle on her as she steps her "
+        "weight onto the back leg and tucks her right hand into the coat pocket, the "
+        "wrought-iron railings and zinc rooftops sliding behind with real parallax; a composed "
+        "quarter-smile holding.",
+        "The track eases to rest as a centre-part strand lifts in the dawn breeze and her warm "
+        "gaze begins to lift, a worldly calm settling.",
+        "She holds the assured Paris look, eyes direct and worldly, the cool dawn light on the "
+        "rooftops (silent here).",
+    ),
+    # F2 - MATCH-CUT to Tokyo (pose held = one her), alive track
+    (
+        "Match-cut to a medium-wide thigh-up on a rain-glossed neon-dusk Tokyo crossing \u2014 "
+        "her pose and face held identical (one her), now in the Tokyo look: she eases her "
+        "right hand from the pocket to the lapel as the camera tracks with her, neon signage "
+        "and wet-asphalt reflections sliding behind with parallax.",
+        "She holds the identical composed quarter-smile through the city-change, neon "
+        "catchlights warming her eyes (identity locked across the match-cut).",
+        "A strand lifts in the Tokyo draft, her gaze steady to lens, assured and unchanged "
+        "(silent here).",
+    ),
+    # F3 - MATCH-CUT to New York, alive track
+    (
+        "Match-cut to a medium chest-up on a steam-and-steel Manhattan street at golden hour "
+        "\u2014 pose held: she eases her right hand open from the lapel in a soft confident "
+        "gesture as the camera tracks the street edge, yellow cabs and rising steam sliding "
+        "behind with parallax; gaze direct.",
+        "Her gaze holds to lens with rising assurance and the composed smile lifts, warm gold "
+        "light raking the avenue.",
+        "She holds the assured New York beat, eyes steady and worldly (silent here).",
+    ),
+    # F4 - MATCH-CUT to Mumbai (the signature city), alive arc, held look (NOT a morph)
+    (
+        "Match-cut to an energized medium on a gold-teal Mumbai sea-link evening \u2014 pose "
+        "held identical (one her), now in the Mumbai look: she opens her right hand in a warm "
+        "worldly gesture as the camera arcs a few degrees with her, the sea-link cables and a "
+        "lit archway sliding behind with parallax.",
+        "She holds the composed quarter-smile, the dupatta and lob catching the warm evening "
+        "light, eyes bright with worldly wonder (identity locked across the match-cut).",
+        "She holds the assured Mumbai beat at its warm golden peak, eyes warm and direct \u2014 "
+        "the signature city (silent here).",
+    ),
+    # F5 - MATCH-CUT to London, alive
+    (
+        "Match-cut to a medium close on a cool-overcast London stone-and-mist lane \u2014 pose "
+        "held: she eases her right hand to hold the trench lapel as the camera eases with her, "
+        "Portland-stone fa\u00e7ades and soft mist sliding behind; gaze easing to lens.",
+        "An assured calm settles to lens on a slow cool breath, the last mist drifting in the "
+        "grey light.",
+        "She holds the cool assured London look, the trench settling, eyes calm and direct "
+        "(silent here).",
+    ),
+    # F6 - MATCH-CUT to Dubai, spoken line, alive
+    (
+        "Match-cut to a medium chest-up in warm champagne Dubai sky-deck light \u2014 pose "
+        "held: she turns a soft six degrees toward lens and opens her right hand in a gentle "
+        "gesture as the camera eases with her, the skyline glittering behind; gaze warm to "
+        "lens.",
+        "She delivers \u201cSix cities. One her. Wherever I land \u2014 still me.\u201d to lens "
+        "with a soft knowing smile and natural lip-sync, eyes warm and assured.",
+        "She holds the warm assured look as the coat settles, the smile easing into calm "
+        "confidence.",
+    ),
+    # F7 - MATCH-CUT back to Paris, loop close
+    (
+        "Match-cut back to the medium-wide thigh-up Paris balcony matched to Frame 1 \u2014 "
+        "pose held: she returns her right hand to the coat pocket and settles her weight onto "
+        "the back leg exactly as in Frame 1 as the camera settles to the opening framing.",
+        "She eases her gaze back to lens on a slow breath with the composed quarter-smile, the "
+        "dawn Paris palette resolving to the opening to seed the loop.",
+        "She lands precisely on the Frame 1 pose and gaze, weight settled and worldly \u2014 a "
+        "seamless loop seam.",
+    ),
+]
+
+
 def build_block(beats):
     return (
         BREAKDOWN_HEADER + "\n"

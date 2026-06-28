@@ -625,7 +625,7 @@ Footwear: PARIS — ivory leather pointed flats; TOKYO — sleek black square-to
 
 Accessories: PARIS — fine gold hoops; TOKYO — a single silver ear-cuff and a slim steel watch; NEW YORK — tortoiseshell sunglasses pushed up and a structured tan tote; MUMBAI — gold jhumka earrings and fine stacked bangles; LONDON — a heritage silk neck-scarf knotted soft; DUBAI — a pearl-and-gold drop earring; one statement at a time, never cluttered.
 
-Movement (one impossible move): the city-to-city match-cut wrap — the entire city backdrop and her wardrobe wrap and exchange around her in a single travelling sweep while her face, hair and pose hold perfectly locked (locked transform keyframes: the hero wrap START Frame 3 → END Frame 5, with the signature beat at Frame 4).
+Movement: SIX CITIES, ONE HER — each frame is a different world city (Paris, Tokyo, New York, Mumbai, London, Dubai) with her face, hair and pose held perfectly IDENTICAL across every beat. The city + outfit + angle CHANGE happens at the CUTS between frames (seamless match-cuts on her locked pose), NOT as a single mid-clip A→B morph — this is the match-cut concept. Each clip is a held city, alive: she moves and the camera rides with her while the anchored city slides behind with real parallax. Frame 4 (Mumbai) is the signature city. Loop: Frame 7 match-cuts back to the Paris of Frame 1. Identity is the constant thread — never altered across any cut.
 
 Concept Line: “Six cities. One her.”
 
@@ -699,9 +699,9 @@ SHOT TYPE: medium-wide, thigh-up, subject fills about 55% of the vertical frame.
 LENS: 35mm, f/2.2, smooth cool background fall-off.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Medium-wide thigh-up on the Haussmann Paris balcony at silver-blue dawn: a slow push-in is already gliding toward her as she settles her weight onto the back leg and tucks her right hand into the coat pocket, the composed quarter-smile holding.
-- [00:02–00:04] The push continues as one centre-part strand lifts in the dawn breeze, her warm gaze beginning to lift; a worldly calm in her eyes.
-- [00:04–00:06] She lifts her warm gaze to lens on a soft inhale, the composed quarter-smile settling, eyes assured and direct.
+- [00:00–00:02] Cut to a medium-wide thigh-up tracking shot on the Haussmann Paris balcony at silver-blue dawn: the camera dollies laterally to settle on her as she steps her weight onto the back leg and tucks her right hand into the coat pocket, the wrought-iron railings and zinc rooftops sliding behind with real parallax; a composed quarter-smile holding.
+- [00:02–00:04] The track eases to rest as a centre-part strand lifts in the dawn breeze and her warm gaze begins to lift, a worldly calm settling.
+- [00:04–00:06] She holds the assured Paris look, eyes direct and worldly, the cool dawn light on the rooftops (silent here).
 
 OBJECT ACTION WITH TIMING: 0.0–6.0s — the open coat hem sways a hair, a soft gold-hoop glint settles, and Paris mist drifts slowly behind the balustrade. Environmental motion only, no object pop-in.
 
@@ -773,9 +773,9 @@ SHOT TYPE: medium-wide, thigh-up, subject fills about 55% of the vertical frame 
 LENS: 35mm, f/2.2.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Medium-wide thigh-up matching Frame 1: the slow push continues seamlessly as the city wraps from Paris to a rain-glossed neon-dusk Tokyo around her, she holding her pose and easing her right hand from the pocket to the lapel.
-- [00:02–00:04] She holds the identical composed quarter-smile through the wrap, neon catchlights warming her eyes (identity locked through the city-change).
-- [00:04–00:06] A strand lifts in the Tokyo draft, her gaze steady to lens, assured and unchanged.
+- [00:00–00:02] Match-cut to a medium-wide thigh-up on a rain-glossed neon-dusk Tokyo crossing — her pose and face held identical (one her), now in the Tokyo look: she eases her right hand from the pocket to the lapel as the camera tracks with her, neon signage and wet-asphalt reflections sliding behind with parallax.
+- [00:02–00:04] She holds the identical composed quarter-smile through the city-change, neon catchlights warming her eyes (identity locked across the match-cut).
+- [00:04–00:06] A strand lifts in the Tokyo draft, her gaze steady to lens, assured and unchanged (silent here).
 
 OBJECT ACTION WITH TIMING: 0.0–6.0s — the Paris balcony wraps and exchanges to the Tokyo crossing around her in a single travelling sweep, the ivory coat resolving to the charcoal blazer-dress along the same wavefront; neon reflections slide across the wet pavement and drizzle drifts. One coherent wrap, no extra objects, no pop-in.
 
@@ -795,7 +795,7 @@ NEGATIVE: identity drift, face or hand warp, extra or fused fingers, duplicate p
 
 ### Frame 3 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the locked START keyframe of the hero city-to-city wrap — she stands in New York, face/hair/pose fully recognizable and identical, the warm steel-amber street just beginning to ripple at its edges as the wrap loads. Lock this START so Frame 4’s sweep interpolates cleanly to the Frame 5 END; the locked element is HER — interpolate the city and wardrobe around her, never her face.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. SHOT NOTE: a clean New York held-city beat at its OWN cut/angle — she stands assured on the steam-and-steel avenue, face/hair/pose identical to every other city (one her). No wrap happens here; the city + outfit change happens only at the match-cut to the next frame. Build worldly assurance only.
 
 EYE COLOUR: warm dark-brown irises with faint amber flecks, a crisp twin catchlight from the golden hour, gaze direct to lens with rising assurance, locked to reference.
 
@@ -821,7 +821,7 @@ SPATIAL LOGIC: FOREGROUND — her opening hand and the rippling street edge near
 
 LIGHTING: KEY — a warm golden-hour key feathered above-front. FILL — soft warm bounce below (gentle clamshell). RIM — a crisp warm rim firing the rippling edges and the lob into points. PRACTICAL — the low golden sun between buildings. SEPARATION — the street deep so she reads about 2 stops up. BOUNCE — a soft warm kick on the camel wool.
 
-FRAMING: ASPECT 9:16; medium, chest-up, 11% headroom, the rippling street entering the lower third, clean negative space camera-left to receive the sweep. (Camera distance locked here as the transform anchor.)
+FRAMING: ASPECT 9:16; medium, chest-up, 11% headroom, the rippling street entering the lower third, clean negative space camera-left to receive the sweep.
 SUBJECT FRAMING & POSITION: A medium framing holds Aira at about 11% headroom, the rippling street entering the lower third within the six-cities editorial world, a fresh city backdrop on each beat. Her torso is turned about five degrees to open the right shoulder in a near-frontal address, with her weight on the back leg over a soft hip counter-tilt and the front shoulder dropped a touch. The camera holds a mid distance with the figure centred and clean clean negative space held camera-left. She faces front to the lens, composed and alive in the beat. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 LENS + DOF + BOKEH: 50mm, f/2.0; focus split between her near eye and the opening hand so both read crisp; the street melting to a smooth warm field; soft blooms off the first warm motes; gentle roll-off, no clipping.
@@ -847,9 +847,9 @@ SHOT TYPE: medium, chest-up, subject and rippling street fill about 60% of the v
 LENS: 50mm, f/2.0, smooth background fall-off.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Medium chest-up on a steam-and-steel Manhattan street at golden hour: a slow push is already tracking the rippling street edge as she eases her right hand open from the lapel in a soft confident gesture; gaze direct.
-- [00:02–00:04] The push holds as her gaze holds to lens with rising assurance and the composed smile lifts, warm gold light raking the street.
-- [00:04–00:06] The New York street ripples and brightens, cueing the hero city-wrap, her gaze steady and assured.
+- [00:00–00:02] Match-cut to a medium chest-up on a steam-and-steel Manhattan street at golden hour — pose held: she eases her right hand open from the lapel in a soft confident gesture as the camera tracks the street edge, yellow cabs and rising steam sliding behind with parallax; gaze direct.
+- [00:02–00:04] Her gaze holds to lens with rising assurance and the composed smile lifts, warm gold light raking the avenue.
+- [00:04–00:06] She holds the assured New York beat, eyes steady and worldly (silent here).
 
 OBJECT ACTION WITH TIMING: 0.0–6.0s — the street edges ripple with a slow optical shimmer and the first warm wrap-light motes gather and brighten around her; street steam drifts behind. Environmental motion only, no pop-in.
 
@@ -869,46 +869,46 @@ NEGATIVE: identity drift, face or hand warp, extra or fused fingers, duplicate p
 
 ### Frame 4 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the one impossible move — the hero city-to-city match-cut wrap (New York → Mumbai). LOCK the START (Frame 3, New York, face clear, street rippling) and the END (Frame 5, Mumbai→London settled). Mid-sweep her face, hair and pose stay clear, identical and recognizable while the city and wardrobe wrap around her; interpolate strictly between the locked keyframes — do NOT invent a new face, new hands or new bone structure. Worldly and exhilarating, true cloth-and-light physics, painterly not chaotic.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. SHOT NOTE: this is the MUMBAI held-city beat (the signature city) — render her in the Mumbai look at the sea-link evening, face/hair/pose IDENTICAL to every other city (one her). This is a CLEAN city still, NOT a mid-wrap: the city + outfit change happens at the match-cuts between frames, never inside this clip. Do NOT invent a new face, new hands or new bone structure.
 
-EYE COLOUR: warm dark-brown irises with faint amber flecks, luminous with worldly joy, a crisp twin catchlight, locked to reference (eye colour holds through the wrap).
+EYE COLOUR: warm dark-brown irises with faint amber flecks, a crisp twin catchlight, gaze warm and direct, locked to reference.
 
-WARDROBE (refined): mid-sweep the camel New York suit wraps into the MUMBAI look — a deep-teal silk kurta-gown with fine gold zardozi and a soft draped dupatta — converting along a single travelling wavefront, modest throughout, never revealing.
+WARDROBE: the Mumbai look — a deep-teal silk kurta-gown with fine raised gold zardozi and a soft draped dupatta, fully modest, pristine, catching the warm evening light.
 
-HAIR: the glossy centre-part lob catching a sweeping ribbon of warm light mid-motion, the inner curl lit bright; colour locked beneath the sheen, geometry identical.
+HAIR: the glossy centre-part lob to the collarbone with its soft inner curl tucking under the jaw, geometry identical to every city; colour locked to reference.
 
-MAKEUP: mid-sweep the gold-kissed base deepens to a warm Mumbai glow, the lid kindling toward warm bronze, the lip enriching toward warm-rose; real pores beneath.
+MAKEUP: a warm Mumbai glow — a gold-kissed base, a warm bronze lid and a warm-rose lip, dewy real skin; real pores.
 
-FOOTWEAR: mid-wrap the tan loafers resolve to gold embellished block-heel mules in the same travelling wave, continuity of shape held, grounded.
+FOOTWEAR: gold embellished block-heel mules, grounded, glimpsed low.
 
-ACCESSORIES: the tote and sunglasses dissolving toward gold jhumka earrings and fine stacked bangles, one piece resolving at a time.
+ACCESSORIES: gold jhumka earrings and fine stacked bangles catching the evening light, balanced not cluttered.
 
-HANDS & NAILS: both arms drifting open through the sweep, palms turning warm as the wrap crosses; natural nail-bed colour shifting toward warm-nude, neat cuticles, no white-knuckle tension.
+HANDS & NAILS: her right hand open in a warm worldly gesture, fingers naturally curved with relaxed nail-beds; short warm-nude nails, neat cuticles, no white-knuckle tension.
 
-FACIAL MICRO-DYNAMICS: eyes luminous with worldly joy, a gentle parted-lip wonder, a clean warm confidence — face clear and framed by the wrapping city, identity strictly held to reference.
+FACIAL MICRO-DYNAMICS: the composed worldly quarter-smile, eyes bright with warm wonder and direct to lens — the identical face she carries through every city, identity-locked.
 
-BODY POSTURE & WEIGHT: mid-sweep the spine lengthens and the shoulders open assured, weight rolling smooth between the feet — grounded real physics, modest throughout, pose continuous with Frames 3 and 5.
+BODY POSTURE & WEIGHT: front-facing with the torso rotated about 4°, weight settled on the back leg with a soft hip counter-tilt, chin level — the exact constant pose held across all six cities, alive and assured.
 
-KINETIC STILLNESS (8 layers): (1) the wrap sweeping across the frame in a warm arc at peak; (2) a warming shimmer racing across her cheek and collarbone; (3) the lob and dupatta catching travelling warm light mid-sweep; (4) wrap-light motes and street-to-sea spray sparkling through the field; (5) the silk and zardozi blooming with warm highlight where the wool was; (6) speculars multiplying along the wrapping edge; (7) the key blooming a touch warmer through the sweep; (8) her chest mid a slow joyful breath.
+KINETIC STILLNESS (8 layers): (1) a face-framing lob strand shifting in the sea breeze; (2) the soft dupatta swaying gently at her shoulder; (3) the sea-link cable lights twinkling in the warm dusk behind her; (4) the evening key glinting off the lit archway; (5) chest rising on a soft inhale; (6) a warm specular sliding the gold zardozi; (7) the silk breathing with a micro-shift of drape; (8) a slow eyelash settle completing a calm blink.
 
-SPATIAL LOGIC: FOREGROUND — a sweeping dupatta fold nearest lens, soft. MIDGROUND — Aira mid-sweep, the city assembling around her, the hero. BACKGROUND — the New York steel warming to a Mumbai sea-link-and-archway evening, soft creamy falloff and a warm bloom.
+SPATIAL LOGIC: FOREGROUND — a soft dupatta fold and her gesturing hand nearest lens at roughly 18% depth, soft. MIDGROUND — Aira centred, the Mumbai hero. BACKGROUND — the sea-link cables and a lit archway in the gold-teal evening, softly defocused with clean separation, no clutter.
 
-LIGHTING: KEY — key warming brighter through the sweep. FILL — soft warm bounce below (gentle clamshell). RIM — a bright soft warm rim raking the wrapping city and the lob (hero light on the motion). PRACTICAL — the golden sun resolving to warm Mumbai evening light. SEPARATION — the sweep and faint warm haze. BOUNCE — soft kicks multiplying across the airborne motes.
+LIGHTING: KEY — a warm gold Mumbai-evening beauty key feathered above-front. FILL — a soft warm bounce below (gentle clamshell). RIM — a warm rim skimming the lob and the dupatta edge. PRACTICAL — the sea-link and archway lights. SEPARATION — the backdrop pulled deep so she reads about 2 stops up. BOUNCE — a soft gold kick on the silk.
 
-FRAMING: ASPECT 9:16; energized medium, Aira centred with the wrap filling the lower frame, 10% headroom, slight push for intimacy. (Camera distance locked to Frames 3 and 5.)
-SUBJECT FRAMING & POSITION: An energized medium framing opens around Aira at about 10% headroom as the wrap fills the lower frame, a slight push easing in. Her spine lengthens and her shoulders open as the weight rolls smooth between the feet in grounded real-physics motion. The camera holds a mid distance easing in for intimacy against the six-cities editorial world, a fresh city backdrop on each beat, Aira the centred hero at the heart of the move. She is centred with clean negative space held camera-left, lifted at the peak of the transform and facing front to the lens. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+FRAMING: ASPECT 9:16; energized medium, Aira centred against the Mumbai sea-link evening, 10% headroom — its own distinct cut/angle (a match-cut from New York).
+SUBJECT FRAMING & POSITION: An energized medium framing holds Aira at about 10% headroom against the gold-teal Mumbai sea-link evening, her constant pose identical to every other city. Her torso is turned about five degrees to open the right shoulder, weight on the back leg over a soft hip counter-tilt. The camera holds a mid distance on its own fresh angle, a match-cut from New York, with Aira the centred hero and clean negative space held camera-left, facing front to the lens. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
-LENS + DOF + BOKEH: 50mm, f/2.0; her face and the nearest sweeping silk tack sharp at the sweep-core, the closest fold melting into a soft creamy bokeh with warm specular blooms.
+LENS + DOF + BOKEH: 50mm, f/2.0; her face and the nearest zardozi detail tack sharp, the sea-link melting into a smooth gold-teal field with soft blooms; gentle highlight roll-off, no clipping.
 
-COMPOSITION REFERENCE: the signature impossible beat — a city-to-city match-cut wrap, warm and painterly, heightened but identity-locked (transform logic / identity-through-transform).
+COMPOSITION REFERENCE: the signature city — Mumbai, warm and worldly, a clean held beat (the change lives in the match-cuts, not here).
 
-ATMOSPHERE: worldly, exhilarating, mind-bending — the moment New York becomes Mumbai around a still, constant her.
+ATMOSPHERE: warm, worldly, golden — a Mumbai sea-link evening around the constant her.
 
-COLOR GRADE: a live cross-fade from New York warm steel-amber to Mumbai gold-teal — warm gold highlights with a deep teal core, clean uncrushed blacks, true specularity, warm full mid-tone (no harsh contrast, no garish oversaturation); her warm skin held consistent.
+COLOR GRADE: Mumbai gold-teal grade — warm gold highlights over a deep teal core, clean uncrushed blacks, balanced warm mid-tone, her warm skin held consistent, no harsh contrast, no garish oversaturation.
 
-TEXTURE & MICRO-DETAIL: the wrapping edge reads as real camel wool giving way to real teal silk with fine raised gold zardozi; the warm shimmer reads as a real sheen on living skin; the silk shows a real flowing nap where the wool was; skin reads real with pores beneath the glow.
+TEXTURE & MICRO-DETAIL: the kurta-gown reads as real teal silk with fine raised gold zardozi; real skin micro-texture with peach-fuzz catching the warm rim; sea haze drifting soft through the evening light.
 
-PHYSICS: true cloth-and-light transition physics — tailored wool giving way to silk drape and dupatta sway with believable weight and inertia; the sweep obeys a single warming key; face geometry constant; no melting, no invented anatomy.
+PHYSICS: gravity-true silk drape and dupatta sway; the specular tracks a single warm key; the sea breeze moves hair and fabric believably; weight grounded through both feet — no floating, no stiffness.
 
 NEGATIVE: mirrored, flipped, inverted, extra limbs, fused fingers, melted features, asymmetric eyes (unintentional), garbled text, floating shadows, duplicated subjects, low-res patches, plastic skin, over-smoothed skin, oversharpened, AI-generated artifacts, watermarks, signature, deformed hands, malformed teeth, joint cuts at ankle/knee/wrist/elbow/neck, amputated fingertips, cross-eyed, lazy eye, off-axis pupils, melted clothing, mismatched footwear, mannequin-stiff posture, dead eyes, statue-frozen energy, crushed muddy blacks, garish oversaturation, flat dull light, inventing a new face through the wrap, eye-colour drift, sexualization, de-aging.
 
@@ -918,12 +918,12 @@ IDENTITY (locked): Aira — same person every frame; face, bone structure, eye s
 
 SHOT TYPE: energized medium of the city-to-city match-cut wrap (the hero move).
 
-LENS: 50mm, f/2.0. (Transform-anchor distance — matches Frames 3 and 5.)
+LENS: 50mm, f/2.0.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Energized medium: the push is already easing into a smooth gentle orbit as the city wrap sweeps the world around her in a warm arc toward a gold-teal Mumbai evening and she opens her arms; gaze lifting into the sweep.
-- [00:02–00:04] The orbit rides the hero beat as a warming shimmer races across her and the dupatta and lob catch travelling light, the sea-link and archway resolving (face clear, framed by the sweep, identity locked); eyes bright with worldly wonder.
-- [00:04–00:06] The sweep settles and Mumbai resolves toward the reveal as the orbit eases; an assured warmth landing in her eyes.
+- [00:00–00:02] Match-cut to an energized medium on a gold-teal Mumbai sea-link evening — pose held identical (one her), now in the Mumbai look: she opens her right hand in a warm worldly gesture as the camera arcs a few degrees with her, the sea-link cables and a lit archway sliding behind with parallax.
+- [00:02–00:04] She holds the composed quarter-smile, the dupatta and lob catching the warm evening light, eyes bright with worldly wonder (identity locked across the match-cut).
+- [00:04–00:06] She holds the assured Mumbai beat at its warm golden peak, eyes warm and direct — the signature city (silent here).
 
 OBJECT ACTION WITH TIMING: 0.0–6.0s — the New York street wraps and exchanges to a Mumbai sea-link-and-archway evening along one travelling wavefront, the camel suit converting to the teal zardozi kurta-gown, the loafers to gold mules and the tote to bangles, wrap-light motes sparkling through the field. One coherent transform, no extra objects, no pop-in.
 
@@ -943,7 +943,7 @@ NEGATIVE: identity drift, face or hand warp, extra or fused fingers, duplicate p
 
 ### Frame 5 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the locked END keyframe of the hero wrap; it must resolve continuously out of the START keyframe in Frame 3 — same face, same hands, same camera distance — the city now settled into LONDON (wrapped on from Mumbai). Do NOT invent a new face, new hands or new bone structure; this is the same Aira, assured and radiant, never replaced. Frame 3 (START) and Frame 5 (END) are the two anchors of the single hero wrap.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. SHOT NOTE: a clean London held-city beat at its OWN cut/angle (a match-cut from the Mumbai frame, pose held identical = one her), the cool stone-and-mist lane settled. Same Aira, assured and radiant, never replaced — do NOT invent a new face, new hands or new bone structure; the city changes only at the cuts.
 
 EYE COLOUR: warm dark-brown irises with faint amber flecks, a crisp twin catchlight, gaze soft and direct, locked to reference (unchanged through the wrap).
 
@@ -969,7 +969,7 @@ SPATIAL LOGIC: FOREGROUND — the trench lapel and her hand nearest lens at roug
 
 LIGHTING: KEY — a soft cool overcast key feathered above-front. FILL — soft cool bounce below (gentle clamshell). RIM — a soft cool rim skimming the lob and the scarf to separate her from the stone. PRACTICAL — the diffuse overcast sky. SEPARATION — the lane pulled deep so she reads about 2 stops up. BOUNCE — a soft cool kick on the check wool.
 
-FRAMING: ASPECT 9:16; medium close, chest-up, 11% headroom, the trench lapel entering the lower third, clean cool negative space camera-left. (Camera distance matches Frames 3 and 4.)
+FRAMING: ASPECT 9:16; medium close, chest-up, 11% headroom, the trench lapel entering the lower third, clean cool negative space camera-left.
 SUBJECT FRAMING & POSITION: A medium close framing holds Aira at about 11% headroom, the trench lapel entering the lower third within the six-cities editorial world, a fresh city backdrop on each beat. Her torso is turned about five degrees to open the right shoulder in a near-frontal address, with her weight on the back leg over a soft hip counter-tilt and the front shoulder dropped a touch. The camera holds an intimate beauty distance with the figure centred and clean clean cool negative space held camera-left. She faces front to the lens, composed and alive in the beat. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 LENS + DOF + BOKEH: 50mm, f/2.0; focus split between her near eye and the lapel so both read crisp; the lane melting to a smooth cool field; soft cool blooms off the settling motes; gentle roll-off, no clipping.
@@ -992,12 +992,12 @@ IDENTITY (locked): Aira — same person every frame; face, bone structure, eye s
 
 SHOT TYPE: medium close, chest-up, subject and trench lapel fill about 58% of the vertical frame.
 
-LENS: 50mm, f/2.0. (Transform-anchor distance — matches Frames 3 and 4.)
+LENS: 50mm, f/2.0.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Medium close, chest-up: the orbit is already easing back to a slow push as a cool-overcast London stone-and-mist lane resolves around her and she eases her right hand to hold the trench lapel; gaze easing to lens.
-- [00:02–00:04] The push settles as an assured smile eases to lens on a slow cool breath, the last motes settling in the misty light.
-- [00:04–00:06] She holds the cool assured look, the trench settling, eyes calm and direct.
+- [00:00–00:02] Match-cut to a medium close on a cool-overcast London stone-and-mist lane — pose held: she eases her right hand to hold the trench lapel as the camera eases with her, Portland-stone façades and soft mist sliding behind; gaze easing to lens.
+- [00:02–00:04] An assured calm settles to lens on a slow cool breath, the last mist drifting in the grey light.
+- [00:04–00:06] She holds the cool assured London look, the trench settling, eyes calm and direct (silent here).
 
 OBJECT ACTION WITH TIMING: 0.0–6.0s — the Mumbai evening completes its wrap to a misty London lane around her, the teal kurta-gown resolving to the navy check trench, a cool specular travels along the wool, and the last wrap-light motes drift down and fade; mist drifts behind. Environmental motion only, no pop-in.
 
@@ -1069,7 +1069,7 @@ SHOT TYPE: medium, chest-up, subject fills about 58% of the vertical frame.
 LENS: 35mm, f/2.2.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Medium chest-up in warm champagne sky-deck light: a slow push is already gliding in as she turns a soft six degrees toward lens and opens her right hand in a gentle gesture; gaze warm to lens.
+- [00:00–00:02] Match-cut to a medium chest-up in warm champagne Dubai sky-deck light — pose held: she turns a soft six degrees toward lens and opens her right hand in a gentle gesture as the camera eases with her, the skyline glittering behind; gaze warm to lens.
 - [00:02–00:04] She delivers “Six cities. One her. Wherever I land — still me.” to lens with a soft knowing smile and natural lip-sync, eyes warm and assured.
 - [00:04–00:06] She holds the warm assured look as the coat settles, the smile easing into calm confidence.
 
@@ -1117,7 +1117,7 @@ SPATIAL LOGIC: FOREGROUND — her pocketed hand at roughly 20% depth, tack sharp
 
 LIGHTING: KEY — a soft key easing from warm back toward the cool Frame-1 Paris key at the seam. FILL — soft bounce below (gentle clamshell). RIM — a soft rim on the lob easing from gold back toward cool. PRACTICAL — the sky easing cool. SEPARATION — the rooftops deep so she reads about 2 stops up. BOUNCE — a soft kick on the coat.
 
-FRAMING: ASPECT 9:16; medium-wide, thigh-up with footwear glimpsed low, 12% headroom — matched to Frame 1 for the seamless loop. (Camera distance returns to Frame 1.)
+FRAMING: ASPECT 9:16; medium-wide, thigh-up with footwear glimpsed low, 12% headroom — matched to Frame 1 for the seamless loop.
 SUBJECT FRAMING & POSITION: A medium-wide framing recovers the exact opening composition at about 12% headroom, matched to Frame 1 for a seamless loop within the six-cities editorial world, a fresh city backdrop on each beat. Her torso is turned about five degrees to open the right shoulder in a near-frontal address, with her weight on the back leg over a soft hip counter-tilt and the front shoulder dropped a touch, returned precisely to the opening stance. The camera settles to a mid-wide distance with the figure centred and clean negative space held camera-left. She faces front to the lens, matched precisely for the loop. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 LENS + DOF + BOKEH: 35mm, f/2.2; focus split between her near eye and the pocketed hand so both read crisp (matching Frame 1); the rooftops melting to a smooth cool field; gentle roll-off, no clipping.
@@ -1143,9 +1143,9 @@ SHOT TYPE: medium-wide, thigh-up, subject fills about 55% of the vertical frame 
 LENS: 35mm, f/2.2. (Returns to Frame 1 distance.)
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Medium-wide thigh-up matching Frame 1: the orbit is already easing to rest as a slow push resolves toward the opening framing and the city wraps from Dubai back to Paris, she returning her right hand to the coat pocket and settling her weight onto the back leg exactly as in Frame 1.
-- [00:02–00:04] The push settles as she eases her gaze back to lens on a slow breath with the composed quarter-smile, the dawn Paris palette resolving to the opening.
-- [00:04–00:06] She lands precisely on the Frame 1 pose and gaze, weight settled — a seamless loop seam.
+- [00:00–00:02] Match-cut back to the medium-wide thigh-up Paris balcony matched to Frame 1 — pose held: she returns her right hand to the coat pocket and settles her weight onto the back leg exactly as in Frame 1 as the camera settles to the opening framing.
+- [00:02–00:04] She eases her gaze back to lens on a slow breath with the composed quarter-smile, the dawn Paris palette resolving to the opening to seed the loop.
+- [00:04–00:06] She lands precisely on the Frame 1 pose and gaze, weight settled and worldly — a seamless loop seam.
 
 OBJECT ACTION WITH TIMING: 0.0–6.0s — the Dubai sky-deck wraps and exchanges back to the Paris balcony around her, the champagne gown resolving to the ivory coat, a soft specular travels along the wool where the satin specular once ran, the cool key re-kindles at the sky gradient, and the last warm air drifts and fades to seed the loop. One coherent wrap, no pop-in.
 
