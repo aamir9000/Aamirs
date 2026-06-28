@@ -2311,7 +2311,7 @@ Footwear: LOOK A — sleek black pointed-toe ankle boots; LOOK B — clean white
 
 Accessories: one per look, never cluttered — LOOK A: a single bold gold wrist cuff; LOOK B: sleek white-framed editorial sunglasses pushed up into the fringe and a bold sculptural earring.
 
-Movement (one impossible move): the finger-snap wardrobe change — on one crisp finger-snap a clean editorial light-pulse rings out and pops Look A into Look B along a single wavefront (wardrobe, footwear, accessories and backdrop tone all flipping on the beat) while her face, bob and pose hold locked (locked transform keyframes: START Frame 3 = Look A at the snap-point → END Frame 5 = Look B settled, signature beat Frame 4).
+Movement (one impossible move): the finger-snap wardrobe change — on one crisp finger-snap a clean editorial light-pulse rings out and flips Look A (all-black) into Look B (all-white) along a single travelling wavefront. The flip occurs MID-CLIP inside Frame 4 at a HELD angle (the clip opens in the all-black set, she snaps mid-clip and the pulse sweeps the look to all-white, settling resolved); crisp but smooth, never an instant last-second cut; the camera may travel but never shifts its angle. Continuity via Veo first/last-frame: Frame 4's image (black Look A) = the FIRST frame, Frame 5's image (white Look B) = the LAST frame. Every other frame join is a hard CUT to a new angle. Frames 1–3 = black Look A, Frame 4 = the transform clip, Frames 5–7 = white Look B.
 
 Concept Line: “One snap. New me.”
 
@@ -2385,9 +2385,9 @@ SHOT TYPE: medium-wide, thigh-up, subject fills about 55% of the vertical frame.
 LENS: 35mm, f/2.2, smooth graphite background fall-off.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Medium-wide thigh-up in the clean minimalist studio: a slow push-in is already gliding toward her against the graphite cyclorama as she settles her weight onto the back leg and raises her right hand to chest height, thumb and middle finger lightly together ready to snap; the sharp quarter-smile holding.
-- [00:02–00:04] The push continues as a fringe edge shifts in the studio air, her bold gaze beginning to lift; a playful spark at the outer eye.
-- [00:04–00:06] She lifts her bold gaze to lens on a soft inhale, the sharp quarter-smile settling, eyes direct and editorial.
+- [00:00–00:02] Cut to a medium-wide thigh-up tracking shot against the graphite cyclorama: the camera dollies laterally to settle on her as she steps her weight onto the back leg and raises her right hand to chest height, thumb and middle finger lightly together ready to snap, the studio sliding behind with real parallax; a sharp quarter-smile holding.
+- [00:02–00:04] The track eases to rest as a fringe edge shifts in the studio air and her bold gaze begins to lift, a playful spark settling at the outer eye.
+- [00:04–00:06] She holds the sharp all-black editorial look, eyes direct and bold, fingers poised to snap (silent here).
 
 OBJECT ACTION WITH TIMING: 0.0–6.0s — one clean specular travels slowly down the black blazer lapel, the gold cuff glints softly as the snap-hand poises, and a faint soft shadow shifts on the cyclorama behind her. Environmental motion only, no object pop-in.
 
@@ -2438,7 +2438,7 @@ SUBJECT FRAMING & POSITION: A medium close framing holds Aira at about 11% headr
 
 LENS + DOF + BOKEH: 85mm, f/2.0; focus split between her near eye and the snapping fingers so both read crisp; the cyclorama melting to a smooth graphite field; soft clean blooms off the cuff glint; gentle roll-off, no clipping.
 
-COMPOSITION REFERENCE: the macro build beat — the snap-point at the face, the change clearly imminent (cause building to effect).
+COMPOSITION REFERENCE: a macro snap-point beat at the face — sharp and poised, the flip held for the Frame-4 clip.
 
 ATMOSPHERE: sharp, charged, playful — the suspended instant before the fingers snap.
 
@@ -2459,9 +2459,9 @@ SHOT TYPE: medium close, chest-up, subject and raised snapping hand fill about 5
 LENS: 85mm, f/2.0.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Medium close, chest-up: the slow push continues with a faint tilt-up already following her hand as she raises the snapping hand near her cheek, thumb and middle finger pressed ready; gaze toward the fingers.
-- [00:02–00:04] The tilt rides her hand as her gaze sharpens with playful focus on the fingertips and a knowing micro-smile kindles.
-- [00:04–00:06] Her fingers hold poised at the ready, eyes bright and playful, the studio air hushed before the snap.
+- [00:00–00:02] Cut to a medium-close three-quarter: she is already raising the snapping hand near her cheek, thumb and middle finger pressed ready, as the camera pushes with her hand; gaze toward the fingers.
+- [00:02–00:04] Her gaze sharpens with playful focus on the fingertips as a knowing micro-smile kindles.
+- [00:04–00:06] Her fingers hold poised at the ready, eyes bright and playful, the all-black set crisp and intact — the hush before the snap (silent here).
 
 OBJECT ACTION WITH TIMING: 0.0–6.0s — a clean specular travels along the raised gold cuff and the first faint charge-shimmer breathes at the fingertips; studio haze drifts behind. Environmental and worn-object motion only, no pop-in.
 
@@ -2481,7 +2481,7 @@ NEGATIVE: identity drift, face or hand warp, extra or fused fingers, duplicate p
 
 ### Frame 3 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the locked START keyframe of the finger-snap change — face fully recognizable, still the full Look A (black tailored set, gold cuff, black boots), the fingers tensed at the snap-point and the air just beginning to charge. Lock this START so Frame 4’s snap-pulse interpolates cleanly to the full Look B END (Frame 5); the locked element is HER — interpolate the wardrobe and backdrop around her, never her face.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. SHOT NOTE: a clean all-black (Look A) beat at its OWN cut/angle — the sharp black tailored set fully intact, her fingers poised at the snap-point; the flip does NOT happen here (it happens mid-clip inside Frame 4 when she snaps). Build sharp playful anticipation only.
 
 EYE COLOUR: warm dark-brown irises with faint amber flecks, a crisp twin catchlight, gaze lifting to lens with rising spark, locked to reference.
 
@@ -2507,12 +2507,12 @@ SPATIAL LOGIC: FOREGROUND — the snap-point fingers and gathering sparks neares
 
 LIGHTING: KEY — crisp editorial key feathered above-front, the first bright spill creeping in. FILL — soft bounce below (gentle clamshell). RIM — a clean rim firing the gathering sparks into points. PRACTICAL — the bold accent beginning to brighten. SEPARATION — the cyclorama deep so she reads about 2 stops up. BOUNCE — a soft kick lighting the sparks.
 
-FRAMING: ASPECT 9:16; medium, chest-up, 11% headroom, the snap-point fingers entering the lower third, clean negative space camera-left to receive the pulse. (Camera distance locked here as the transform anchor.)
+FRAMING: ASPECT 9:16; medium, chest-up, 11% headroom, the snap-point fingers entering the lower third, clean negative space camera-left to receive the pulse.
 SUBJECT FRAMING & POSITION: A medium framing holds Aira at about 11% headroom, the snap-point fingers entering the lower third within the the-snap world of a finger-snap outfit change. Her torso is turned about five degrees to open the right shoulder in a near-frontal address, with her weight on the back leg over a soft hip counter-tilt and the front shoulder dropped a touch. The camera holds a mid distance with the figure centred and clean clean negative space held camera-left. She faces front to the lens, composed and alive in the beat. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 LENS + DOF + BOKEH: 50mm, f/2.0; focus split between her near eye and the snap-point fingers so both read crisp; the cyclorama melting to a smooth field; soft blooms off the gathering sparks; gentle roll-off, no clipping.
 
-COMPOSITION REFERENCE: the suspended build beat — the fingers charge and sparks gather, the snap-change clearly imminent (cause building to effect).
+COMPOSITION REFERENCE: a poised snap-ready black beat — sharp and crisp, the flip held for the Frame-4 clip.
 
 ATMOSPHERE: sharp-charging, electric, playful — the suspended instant before the snap flips the whole look.
 
@@ -2533,9 +2533,9 @@ SHOT TYPE: medium, chest-up, subject and snap-point fingers fill about 60% of th
 LENS: 50mm, f/2.0, smooth background fall-off.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Medium chest-up: a slow push is already gliding in as she presses her thumb and middle finger hard at the snap-point and eases her left hand open; gaze beginning to lift.
-- [00:02–00:04] The push holds as her gaze lifts to lens with rising spark and a knowing micro-smile forms, the fingertips charging.
-- [00:04–00:06] The fingertips charge and sparks gather, cueing the snap, her gaze bright and ready.
+- [00:00–00:02] Cut to a medium chest-up on a fresh three-quarter angle: she presses her thumb and middle finger hard at the snap-point and eases her left hand open, drawing a slow breath as the camera arcs a few degrees and the cyclorama swings behind with parallax; gaze beginning to lift.
+- [00:02–00:04] The arc settles as her gaze lifts to lens with rising spark and a knowing micro-smile forms, the all-black set still crisp and fully intact.
+- [00:04–00:06] She holds the poised black beat, fingers tensed at the snap-point, eyes bright and ready — the charged instant before the snap (silent here).
 
 OBJECT ACTION WITH TIMING: 0.0–6.0s — the lapel charges with a slow optical shimmer and the first light-sparks gather bright at the fingertips; haze drifts behind. Environmental motion only, no pop-in.
 
@@ -2555,46 +2555,46 @@ NEGATIVE: identity drift, face or hand warp, extra or fused fingers, duplicate p
 
 ### Frame 4 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the one impossible move — the finger-snap wardrobe change. LOCK the START (Frame 3, face clear, full Look A, fingers at snap-point) and the END (Frame 5, full Look B). On the crisp snap a clean editorial light-pulse rings out and flips the look along a single wavefront; mid-pulse the face stays clear and recognizable, softly lit (never buried) by the pulse; interpolate strictly between the locked keyframes — do NOT invent a new face, new hands or new bone structure beneath the change. Sharp and confident, true cloth physics, crisp not chaotic.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the START frame of the transform CLIP — render her fully in the sharp all-black Look A (structured single-button blazer over a high-neck shell, tailored wide trousers, black ankle boots, gold cuff), the snap-ready hand at chest height — the exact still the Frame-4 video opens on, and Veo's FIRST frame. The finger-snap flip happens MID-CLIP at this same HELD angle (she snaps and a light-pulse sweeps the look to all-white), resolving into Frame 5's image (Veo's LAST frame). Do NOT depict the flip in this still and do NOT invent a new face, new hands or new bone structure.
 
-EYE COLOUR: warm dark-brown irises with faint amber flecks, luminous with playful spark, a crisp twin catchlight, locked to reference (eye colour holds through the change).
+EYE COLOUR: warm dark-brown irises with faint amber flecks, a crisp twin catchlight, gaze lifting into the move, locked to reference.
 
-WARDROBE (refined): the black tailored set flipping to the white sculptural set along the single snap-wavefront — the black blazer, trousers and shell pop into the structured white blazer-dress and white trousers on the beat, modest throughout, never revealing.
+WARDROBE: the sharp minimalist tailored all-black set — a structured single-button blazer over a high-neck shell and tailored wide trousers, fully modest, editorial and crisp, fully intact as she holds the snap-ready pose.
 
-HAIR: the sharp blunt bob catching the snap-pulse light mid-flip, the crown lit bright, the fringe crisp; colour locked beneath the pulse.
+HAIR: the sharp chin-length blunt bob with a clean blunt fringe, glossy and precise with crisp ends; colour locked to reference.
 
-MAKEUP: mid-flip — the smoky neutral Look-A eye and berry-nude lip popping toward the luminous Look-B skin and bold classic-red lip on the beat; real pores beneath.
+MAKEUP: the Look-A look — a smoky neutral eye and a berry-nude lip, dewy real skin; real pores.
 
-FOOTWEAR: mid-flip the black ankle boots pop toward the white sculptural heels along the same wavefront, continuity of grounding held.
+FOOTWEAR: sharp black ankle boots, grounded, glimpsed low.
 
-ACCESSORIES: the gold cuff popping toward the white-framed sunglasses-in-fringe and the bold earring, one piece resolving on the beat.
+ACCESSORIES: a single gold cuff on the wrist, clean and singular, never cluttered.
 
-HANDS & NAILS: the right hand mid-snap (fingers releasing crisp), the left arm open through the pulse; natural nail-bed colour easing from berry-nude toward a clean soft-red, neat cuticles, no white-knuckle tension.
+HANDS & NAILS: her right hand raised to chest height, thumb and middle finger poised at the snap-point, the left arm easing open; short berry-nude nails, neat cuticles, no white-knuckle tension.
 
-FACIAL MICRO-DYNAMICS: eyes luminous with playful spark, a gentle parted-lip delight, a sharp confident energy — face clear and softly lit by the pulse, identity strictly held to reference.
+FACIAL MICRO-DYNAMICS: eyes lifting with rising playful spark, lips parting on a held breath, a sharp knowing micro-smile — composed and bold, face fully recognizable and identity-locked, ready to snap mid-clip.
 
-BODY POSTURE & WEIGHT: mid-flip the spine stays long and the shoulders open with sharp confidence, weight rolling smooth between the feet — grounded real physics, modest throughout.
+BODY POSTURE & WEIGHT: front-facing with the torso rotated about 4°, the spine long and the shoulders open with sharp confidence as the weight rolls smooth between the feet, chin level — grounded real physics, poised to snap.
 
-KINETIC STILLNESS (8 layers): (1) the clean light-pulse ringing out from the snap in a crisp expanding wavefront; (2) a bright flip-light racing across her cheek and the bob; (3) the fringe and flipping fabric catching travelling light mid-pulse; (4) crisp light-sparks sparkling through the field along the ring; (5) the white set blooming where the black was; (6) speculars multiplying along the flip-edge; (7) the key flipping graphite-to-white through the pulse; (8) her chest mid a slow sharp breath.
+KINETIC STILLNESS (8 layers): (1) a blunt-fringe edge shifting in the studio air; (2) a clean specular gliding the black blazer lapel; (3) the graphite cyclorama holding deep and still behind her; (4) the studio key flickering imperceptibly off a panel edge; (5) chest rising on a soft inhale; (6) a hairline glint on the gold cuff; (7) the tailored wool breathing with a micro-shift as her ribcage expands; (8) a slow eyelash settle completing a sharp blink.
 
-SPATIAL LOGIC: FOREGROUND — the snapping hand and the nearest flip-edge nearest lens, soft. MIDGROUND — Aira mid-flip, the white set assembling, the hero. BACKGROUND — the cyclorama flipping graphite-to-white with a soft bright bloom.
+SPATIAL LOGIC: FOREGROUND — the snap-ready hand and the gold cuff nearest lens at roughly 18% depth, soft. MIDGROUND — Aira centred, the black hero at the start of the move. BACKGROUND — the graphite cyclorama softly defocused with one cooler gradient behind her head for clean separation, no clutter.
 
-LIGHTING: KEY — key flipping graphite-to-white through the pulse. FILL — soft bounce below (gentle clamshell). RIM — a bright clean rim raking the flip-edge and the bob (hero light on the motion). PRACTICAL — the bold accent flaring on the beat. SEPARATION — the pulse and faint haze. BOUNCE — clean kicks multiplying across the airborne sparks.
+LIGHTING: KEY — a clean editorial beauty key feathered above-front. FILL — a soft bounce below (gentle clamshell). RIM — a crisp rim skimming the bob and the lapel. PRACTICAL — clean studio light. SEPARATION — the cyclorama pulled deep so she reads about 2 stops up. BOUNCE — a soft kick on the black tailoring.
 
-FRAMING: ASPECT 9:16; energized medium, Aira centred with the pulse filling the frame, 10% headroom, slight push for intimacy. (Camera distance locked to Frames 3 and 5.)
-SUBJECT FRAMING & POSITION: An energized medium framing opens around Aira at about 10% headroom as the pulse fills the lower frame, a slight push easing in. Her spine lengthens and her shoulders open as the weight rolls smooth between the feet in grounded real-physics motion. The camera holds a mid distance easing in for intimacy against the the-snap world of a finger-snap outfit change, Aira the centred hero at the heart of the move. She is centred with clean negative space held camera-left, lifted at the peak of the transform and facing front to the lens. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+FRAMING: ASPECT 9:16; energized medium, Aira centred against the graphite cyclorama, 10% headroom, the snap-ready pose of the move — its own distinct cut/angle.
+SUBJECT FRAMING & POSITION: An energized medium framing opens around Aira at about 10% headroom against the graphite cyclorama, the sharp all-black set fully intact as the transform clip begins. Her spine stays long and her shoulders open with sharp confidence as the weight rolls smooth between the feet in grounded real-physics motion. The camera holds a mid distance on its own fresh angle, a hard cut from Frame 3, with Aira the centred hero and clean negative space held camera-left, poised to snap and facing front to the lens. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
-LENS + DOF + BOKEH: 50mm, f/2.0; her face and the nearest flip-edge tack sharp at the pulse-core, the closest fabric melting into a soft creamy bokeh with specular blooms.
+LENS + DOF + BOKEH: 50mm, f/2.0; her face and the snap-ready hand tack sharp, the cyclorama melting into a smooth graphite field; gentle highlight roll-off, no clipping.
 
-COMPOSITION REFERENCE: the signature impossible beat — a finger-snap wardrobe change, sharp and crisp, heightened but identity-locked (transform logic / identity-through-transform).
+COMPOSITION REFERENCE: the start of the signature beat — sharp all-black Look A, poised, the snap-flip held for the video's mid-clip.
 
-ATMOSPHERE: sharp, electric, mind-bending — the moment a snap flips the whole look and the light pops graphite-to-white.
+ATMOSPHERE: sharp, electric, poised — the crisp instant the transform clip begins.
 
-COLOR GRADE: a live flip from crisp graphite-and-black to bright clean white — deep black cores giving way to bright clean highlights with the bold accent flaring, clean uncrushed blacks, true specularity, balanced mid-tone (no harsh contrast, no garish oversaturation).
+COLOR GRADE: a crisp graphite-and-black editorial grade — deep clean blacks, cool graphite, controlled highlights, balanced mid-tone, no harsh contrast, no garish oversaturation.
 
-TEXTURE & MICRO-DETAIL: the flip-edge reads as real black wool giving way to a real crisp white sculptural fabric; the pulse-light reads as real on living skin; the white set shows a real clean weave where the black was; skin reads real with pores beneath the glow.
+TEXTURE & MICRO-DETAIL: the blazer reads as real black wool with a crisp tailored edge; real skin micro-texture with peach-fuzz catching the rim; the cyclorama clean and matte behind.
 
-PHYSICS: true cloth flip physics — structured black tailoring giving way to structured white tailoring with believable weight and inertia; the pulse obeys a single flipping key; face geometry constant; no melting, no invented anatomy.
+PHYSICS: gravity-true tailoring drape and bob movement; the specular tracks a single clean key; weight grounded through both feet — no floating, no stiffness.
 
 NEGATIVE: mirrored, flipped, inverted, extra limbs, fused fingers, melted features, asymmetric eyes (unintentional), garbled text, floating shadows, duplicated subjects, low-res patches, plastic skin, over-smoothed skin, oversharpened, AI-generated artifacts, watermarks, signature, deformed hands, malformed teeth, joint cuts at ankle/knee/wrist/elbow/neck, amputated fingertips, cross-eyed, lazy eye, off-axis pupils, melted clothing, mismatched footwear, mannequin-stiff posture, dead eyes, statue-frozen energy, crushed muddy blacks, garish oversaturation, flat dull light, inventing a new face beneath the change, eye-colour drift, sexualization, de-aging.
 
@@ -2604,12 +2604,12 @@ IDENTITY (locked): Aira — same person every frame; face, bone structure, eye s
 
 SHOT TYPE: energized medium of the finger-snap wardrobe change (the hero move).
 
-LENS: 50mm, f/2.0. (Transform-anchor distance — matches Frames 3 and 5.)
+LENS: 50mm, f/2.0.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Energized medium: she snaps her fingers crisp and a clean light-pulse rings out as the push eases into a smooth gentle orbit; gaze sweeping with the pulse.
-- [00:02–00:04] The orbit rides the hero beat as the pulse flips the look along its wavefront, a bright light racing across her and the bob catching travelling light, the all-black set giving to bold all-white (face clear, softly lit, identity locked); eyes wide with playful spark.
-- [00:04–00:06] The pulse settles and the white set resolves toward the reveal as the orbit eases; a sharp confidence landing.
+- [00:00–00:02] Cut to an energized medium at a HELD angle (Veo first frame = the all-black Look A still): she holds the snap-ready pose, already in motion — the sharp black set fully intact, NO change yet, a gentle push-with easing in, the angle fixed for the whole clip.
+- [00:02–00:04] The change BEGINS here, mid-clip: she snaps her fingers crisp and a clean editorial light-pulse rings out and sweeps across her in one quick continuous wavefront, the all-black tailored set flipping to the bold sculptural all-white set exactly where the pulse passes — crisp and clean but smooth, starting here in the middle, never an instant last-second cut; the bob catching travelling light, eyes wide with playful spark (angle held, identity locked).
+- [00:04–00:06] The pulse completes its sweep and the look settles smoothly and fully into the all-white Look B of the Veo last-frame still (Frame 5's image), resolved and held through the final beat — no last-second pop; a sharp confidence landing in her eyes.
 
 OBJECT ACTION WITH TIMING: 0.0–6.0s — the snap emits one clean editorial light-pulse that flips the black tailored set to the white sculptural set, the black boots pop to white heels and the gold cuff to sunglasses-and-earring, the backdrop flips graphite-to-white, crisp sparks sparkling along the ring. One coherent transform, no extra objects, no pop-in.
 
@@ -2629,7 +2629,7 @@ NEGATIVE: identity drift, face or hand warp, extra or fused fingers, duplicate p
 
 ### Frame 5 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the locked END keyframe of the finger-snap change; it must resolve continuously out of the START keyframe in Frame 3 — same face, same hands, same camera distance, Look A now flipped into Look B. Do NOT invent a new face, new hands or new bone structure; this is the same Aira, sharp and assured, never replaced. Frame 3 (START) and Frame 5 (END) are the two anchors of the single transform.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. SHOT NOTE: this is the all-white Look B reveal at its OWN cut/angle (a hard cut from the Frame-4 transform clip — a new angle/crop, and the Veo last-frame the snap-pulse resolves into). It carries the resolved white look the Frame-4 clip ends on; the angle change masks any slight variation. Same Aira, sharp and assured, never replaced — do NOT invent a new face, new hands or new bone structure.
 
 EYE COLOUR: warm dark-brown irises with faint amber flecks, a crisp twin catchlight, gaze soft and direct, locked to reference (unchanged through the change).
 
@@ -2655,12 +2655,12 @@ SPATIAL LOGIC: FOREGROUND — the adjusting hand and the white lapel nearest len
 
 LIGHTING: KEY — a bright clean editorial key feathered above-front. FILL — soft bright bounce below (gentle clamshell). RIM — a clean bright rim skimming the bob and the white shoulder to separate her from the cyclorama. PRACTICAL — the bold accent kiss, now brighter. SEPARATION — the cyclorama pulled deep so she reads about 2 stops up. BOUNCE — a soft clean kick on the white set.
 
-FRAMING: ASPECT 9:16; medium close, chest-up, 11% headroom, the adjusting hand entering the lower third, clean bright negative space camera-left. (Camera distance matches Frames 3 and 4.)
+FRAMING: ASPECT 9:16; medium close, chest-up, 11% headroom, the adjusting hand entering the lower third, clean bright negative space camera-left.
 SUBJECT FRAMING & POSITION: A medium close framing holds Aira at about 11% headroom, the adjusting hand entering the lower third within the the-snap world of a finger-snap outfit change. Her torso is turned about five degrees to open the right shoulder in a near-frontal address, with her weight on the back leg over a soft hip counter-tilt and the front shoulder dropped a touch. The camera holds an intimate beauty distance with the figure centred and clean clean bright negative space held camera-left. She faces front to the lens, composed and alive in the beat. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 LENS + DOF + BOKEH: 50mm, f/2.0; focus split between her near eye and the white lapel so both read crisp; the cyclorama melting to a smooth bright field; soft clean blooms off the settling sparks; gentle roll-off, no clipping.
 
-COMPOSITION REFERENCE: the radiant reveal — Look A flipped into Look B, sharp and assured, identity-locked (transform resolved).
+COMPOSITION REFERENCE: the all-white reveal — sharp and assured, identity-locked (a match-cut from the Frame-4 transform).
 
 ATMOSPHERE: sharp, clean, assured — the crisp beat after the snap has flipped the whole look.
 
@@ -2678,12 +2678,12 @@ IDENTITY (locked): Aira — same person every frame; face, bone structure, eye s
 
 SHOT TYPE: medium close, chest-up, subject and white lapel fill about 58% of the vertical frame.
 
-LENS: 50mm, f/2.0. (Transform-anchor distance — matches Frames 3 and 4.)
+LENS: 50mm, f/2.0.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Medium close, chest-up: the orbit is already easing back to a slow push as the pulse settles and she reaches up to adjust the white lapel with an easy roll of the shoulder; gaze easing to lens.
-- [00:02–00:04] The push settles as a sharp confident smile eases to lens on a slow breath, the last sparks settling.
-- [00:04–00:06] She holds the assured editorial look, the white set crisp, eyes sharp and direct.
+- [00:00–00:02] Cut to a medium close on a new angle in brighter white-studio light: she is already in the bold all-white set, reaching up to adjust the white lapel with an easy roll of the shoulder; gaze easing to lens.
+- [00:02–00:04] A sharp confident smile eases to lens on a slow breath, the last light-sparks settling, eyes sharp and direct.
+- [00:04–00:06] She holds the assured all-white editorial look, the white set crisp, eyes sharp and bright (silent here).
 
 OBJECT ACTION WITH TIMING: 0.0–6.0s — the white set settles and the lapel edge sways gently, a bright specular travels along the lapel, and the last light-sparks drift down and fade; clean studio air drifts behind. Environmental motion only, no pop-in.
 
@@ -2755,7 +2755,7 @@ SHOT TYPE: medium, chest-up, subject fills about 58% of the vertical frame.
 LENS: 35mm, f/2.2.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Medium chest-up: a slow push is already gliding in as she shifts her weight with an easy six-degree turn and opens her right hand in a relaxed sharp gesture; gaze direct to lens.
+- [00:00–00:02] Cut to a medium chest-up on a fresh angle: she shifts her weight with an easy six-degree turn and opens her right hand in a relaxed sharp gesture as the camera eases with her; gaze direct to lens.
 - [00:02–00:04] She delivers “One snap. New me.” to lens with a sharp knowing smile and natural lip-sync, eyes bold and direct.
 - [00:04–00:06] She holds the assured editorial look as the white set settles, the smile easing into sharp calm.
 
@@ -2803,7 +2803,7 @@ SPATIAL LOGIC: FOREGROUND — the poised snap-hand at roughly 20% depth, tack sh
 
 LIGHTING: KEY — a soft key easing from bright white back toward the crisp Frame-1 graphite key at the seam. FILL — soft bounce below (gentle clamshell). RIM — a clean rim on the bob easing from bright back toward crisp. PRACTICAL — the bold accent re-settling. SEPARATION — the cyclorama deep so she reads about 2 stops up. BOUNCE — a soft kick on the black wool.
 
-FRAMING: ASPECT 9:16; medium-wide, thigh-up with footwear glimpsed low, 12% headroom — matched to Frame 1 for the seamless loop. (Camera distance returns to Frame 1.)
+FRAMING: ASPECT 9:16; medium-wide, thigh-up with footwear glimpsed low, 12% headroom — matched to Frame 1 for the seamless loop.
 SUBJECT FRAMING & POSITION: A medium-wide framing recovers the exact opening composition at about 12% headroom, matched to Frame 1 for a seamless loop within the the-snap world of a finger-snap outfit change. Her torso is turned about five degrees to open the right shoulder in a near-frontal address, with her weight on the back leg over a soft hip counter-tilt and the front shoulder dropped a touch, returned precisely to the opening stance. The camera settles to a mid-wide distance with the figure centred and clean negative space held camera-left. She faces front to the lens, matched precisely for the loop. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 LENS + DOF + BOKEH: 35mm, f/2.2; focus split between her near eye and the poised snap-hand so both read crisp (matching Frame 1); the cyclorama melting to a smooth graphite field; gentle roll-off, no clipping.
@@ -2829,9 +2829,9 @@ SHOT TYPE: medium-wide, thigh-up, subject fills about 55% of the vertical frame 
 LENS: 35mm, f/2.2. (Returns to Frame 1 distance.)
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Medium-wide thigh-up matching Frame 1: the orbit is already easing to rest as a slow push resolves toward the opening framing and she returns her right hand to the poised snap-ready pose at chest height, settling her weight onto the back leg exactly as in Frame 1.
-- [00:02–00:04] The push settles as she eases her gaze back to lens on a slow breath with the composed sharp quarter-smile, the white palette resolving toward the graphite opening.
-- [00:04–00:06] She lands precisely on the Frame 1 pose and gaze, weight settled — a seamless loop seam.
+- [00:00–00:02] Cut to a medium-wide thigh-up matched to Frame 1: she returns her right hand to the poised snap-ready pose at chest height and settles her weight onto the back leg exactly as in Frame 1 as the camera settles to the opening framing.
+- [00:02–00:04] She eases her gaze back to lens on a slow breath with the composed sharp quarter-smile, the white palette resolving toward the graphite opening to seed the loop.
+- [00:04–00:06] She lands precisely on the Frame 1 pose and gaze, weight settled and sharp — a seamless loop seam.
 
 OBJECT ACTION WITH TIMING: 0.0–6.0s — the white look eases back to the black Look-A presentation around her, a clean specular travels along the black lapel where the white specular once ran, the crisp editorial key re-kindles at the cyclorama gradient, and the last bright air fades to seed the loop. Environmental motion only, no pop-in.
 

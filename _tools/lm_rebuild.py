@@ -357,6 +357,89 @@ BEATSLM[2] = [
 ]
 
 
+BEATSLM[5] = [
+    # F1 - black Look A establishing, alive lateral track, snap-ready, cut in
+    (
+        "Cut to a medium-wide thigh-up tracking shot against the graphite cyclorama: the camera "
+        "dollies laterally to settle on her as she steps her weight onto the back leg and "
+        "raises her right hand to chest height, thumb and middle finger lightly together ready "
+        "to snap, the studio sliding behind with real parallax; a sharp quarter-smile holding.",
+        "The track eases to rest as a fringe edge shifts in the studio air and her bold gaze "
+        "begins to lift, a playful spark settling at the outer eye.",
+        "She holds the sharp all-black editorial look, eyes direct and bold, fingers poised to "
+        "snap (silent here).",
+    ),
+    # F2 - black Look A, push-with the snapping hand near cheek, cut to a closer three-quarter
+    (
+        "Cut to a medium-close three-quarter: she is already raising the snapping hand near her "
+        "cheek, thumb and middle finger pressed ready, as the camera pushes with her hand; gaze "
+        "toward the fingers.",
+        "Her gaze sharpens with playful focus on the fingertips as a knowing micro-smile "
+        "kindles.",
+        "Her fingers hold poised at the ready, eyes bright and playful, the all-black set crisp "
+        "and intact \u2014 the hush before the snap (silent here).",
+    ),
+    # F3 - black Look A, arc, presses the snap-point (NO flip yet), cut
+    (
+        "Cut to a medium chest-up on a fresh three-quarter angle: she presses her thumb and "
+        "middle finger hard at the snap-point and eases her left hand open, drawing a slow "
+        "breath as the camera arcs a few degrees and the cyclorama swings behind with parallax; "
+        "gaze beginning to lift.",
+        "The arc settles as her gaze lifts to lens with rising spark and a knowing micro-smile "
+        "forms, the all-black set still crisp and fully intact.",
+        "She holds the poised black beat, fingers tensed at the snap-point, eyes bright and "
+        "ready \u2014 the charged instant before the snap (silent here).",
+    ),
+    # F4 - THE TRANSFORM, HELD ANGLE, smooth-but-crisp mid-clip snap-pulse; first=black, last=white
+    (
+        "Cut to an energized medium at a HELD angle (Veo first frame = the all-black Look A "
+        "still): she holds the snap-ready pose, already in motion \u2014 the sharp black set "
+        "fully intact, NO change yet, a gentle push-with easing in, the angle fixed for the "
+        "whole clip.",
+        "The change BEGINS here, mid-clip: she snaps her fingers crisp and a clean editorial "
+        "light-pulse rings out and sweeps across her in one quick continuous wavefront, the "
+        "all-black tailored set flipping to the bold sculptural all-white set exactly where the "
+        "pulse passes \u2014 crisp and clean but smooth, starting here in the middle, never an "
+        "instant last-second cut; the bob catching travelling light, eyes wide with playful "
+        "spark (angle held, identity locked).",
+        "The pulse completes its sweep and the look settles smoothly and fully into the "
+        "all-white Look B of the Veo last-frame still (Frame 5's image), resolved and held "
+        "through the final beat \u2014 no last-second pop; a sharp confidence landing in her "
+        "eyes.",
+    ),
+    # F5 - white Look B reveal, cut to a NEW angle, adjust white lapel
+    (
+        "Cut to a medium close on a new angle in brighter white-studio light: she is already in "
+        "the bold all-white set, reaching up to adjust the white lapel with an easy roll of the "
+        "shoulder; gaze easing to lens.",
+        "A sharp confident smile eases to lens on a slow breath, the last light-sparks "
+        "settling, eyes sharp and direct.",
+        "She holds the assured all-white editorial look, the white set crisp, eyes sharp and "
+        "bright (silent here).",
+    ),
+    # F6 - white spoken line, cut to a fresh angle, push-with the turn
+    (
+        "Cut to a medium chest-up on a fresh angle: she shifts her weight with an easy "
+        "six-degree turn and opens her right hand in a relaxed sharp gesture as the camera "
+        "eases with her; gaze direct to lens.",
+        "She delivers \u201cOne snap. New me.\u201d to lens with a sharp knowing smile and "
+        "natural lip-sync, eyes bold and direct.",
+        "She holds the assured editorial look as the white set settles, the smile easing into "
+        "sharp calm.",
+    ),
+    # F7 - loop close, cut back to match Frame 1 black snap-ready
+    (
+        "Cut to a medium-wide thigh-up matched to Frame 1: she returns her right hand to the "
+        "poised snap-ready pose at chest height and settles her weight onto the back leg "
+        "exactly as in Frame 1 as the camera settles to the opening framing.",
+        "She eases her gaze back to lens on a slow breath with the composed sharp quarter-smile, "
+        "the white palette resolving toward the graphite opening to seed the loop.",
+        "She lands precisely on the Frame 1 pose and gaze, weight settled and sharp \u2014 a "
+        "seamless loop seam.",
+    ),
+]
+
+
 def build_block(beats):
     return (
         BREAKDOWN_HEADER + "\n"
