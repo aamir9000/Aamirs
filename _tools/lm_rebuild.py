@@ -2552,6 +2552,85 @@ BEATSLM[40] = [
 ]
 
 
+BEATSLM[41] = [
+    # F1 - dreamy aquatic-glow hero (contained, product-at-face, SILENT), push-in
+    (
+        "Cut to a medium-close chest-up in the dreamy underwater-light studio: she is already "
+        "cradling the sea-glass Nacre jar at her collarbone as a slow push eases in, the soft "
+        "aqua-teal gradient backdrop and dappled caustic water-light behind her, drifting "
+        "bubbles; her left hand easy near her jaw.",
+        "The push settles as a wet-look mermaid wave drifts in the water-light and her bright "
+        "gaze eases to lens, a bubble drifting past, a soft dreamy quarter-smile settling.",
+        "She holds the dreamy aquatic-glow look in the pearlescent aqua-teal scaled top, the "
+        "scales catching the aqua key, eyes bright and luminous (silent reel).",
+    ),
+    # F2 - build, pearl-balm glide, first coral; rack-focus product->eye
+    (
+        "Cut to a medium-close three-quarter, a rack-focus pulling from the jar to her eye: she "
+        "is already gliding the pearl-aqua balm soft along her cheekbone and the first soft "
+        "coral begins to bloom in the water around her; gaze cast soft to the jar.",
+        "The pearl balm catches a dewy aqua sheen on her cheekbone as her gaze softens with "
+        "dreamy wonder and a soft micro-smile kindles, the first sea-flora unfurling in.",
+        "She holds the balm poised near her cheek, eyes bright and dreamy, the aquatic-glow look "
+        "intact (silent here).",
+    ),
+    # F3 - START clean (corals beginning, NO full bloom yet), slow arc
+    (
+        "Cut to a medium chest-up on a fresh three-quarter angle: she eases the jar down and "
+        "opens her hand soft as the first corals begin to bloom and drift, drawing a slow "
+        "underwater breath as the camera arcs a few degrees and the aqua backdrop drifts behind "
+        "with parallax; gaze lifting.",
+        "The arc settles as her gaze lifts to lens with rising dreamy wonder and a knowing "
+        "micro-smile forms, soft corals and sea-flora beginning to grow and bloom around her, "
+        "her single face clear and unovergrown, still the aquatic-glow look.",
+        "She holds the poised dreamy beat, the first corals unfurling soft, eyes bright and "
+        "dreamy \u2014 the hush before the coral-growth bloom (silent here).",
+    ),
+    # F4 - THE TRANSFORM, HELD ANGLE, smooth mid-clip coral-growth (NOT her face); first=aquatic-glow, last=coral-bloomed
+    (
+        "Cut to an ethereal medium at a HELD angle (Veo first frame = the dreamy aquatic-glow "
+        "Look A still): she drifts both arms open from her body, already in motion \u2014 still "
+        "the aquatic-glow look, NO full bloom yet, a gentle buoyant push-with easing in, the "
+        "angle fixed for the whole clip.",
+        "The coral-growth bloom BEGINS here, mid-clip: soft corals and sea-flora grow and bloom "
+        "in dreamy unfurling arcs around her in one continuous expanding front, coral-pink fans "
+        "and aqua sea-flora opening across the water and along her shoulder exactly where the "
+        "bloom passes \u2014 believable real coral-growth and botanical physics (polyps and "
+        "fronds unfurling on true underwater currents at their own natural pace, no cheap "
+        "sparkles), her single face clear and locked (NEVER overgrown, replaced or duplicated), "
+        "eyes brightening in dreamy wonder (angle held, identity locked).",
+        "The bloom completes and the look settles smoothly and fully into the full coral-bloomed "
+        "after-look of the Veo last-frame still (Frame 5's image) \u2014 soft corals and "
+        "sea-flora bloomed around her single locked face in the dreamy water-light, resolved and "
+        "held through the final beat, no last-second pop; a dreamy radiant calm landing in her "
+        "eyes.",
+    ),
+    # F5 - END coral-bloomed reveal (silent, wordless), new angle, hand to jar
+    (
+        "Cut to a medium close on a new angle in the dreamy water-light: she is already in the "
+        "full coral-bloomed after-look, drifting her right hand soft back toward the Nacre jar "
+        "at her collarbone with a buoyant roll of the shoulder, her single face clear and "
+        "unovergrown; gaze easing to lens.",
+        "A soft dreamy wordless smile eases to lens on a slow underwater breath, the last "
+        "sea-flora settling and a bubble drifting, eyes bright and luminous (silent reveal "
+        "\u2014 no words).",
+        "She holds the dreamy radiant coral-bloomed look, her single face clear, eyes bright and "
+        "direct (silent here).",
+    ),
+    # F6 - loop close, cradle jar matched to F1
+    (
+        "Cut to a medium-close chest-up matched to Frame 1: she returns her right hand to cradle "
+        "the sea-glass Nacre jar soft at her collarbone and her left easy near her jaw exactly "
+        "as in Frame 1 as the camera settles to the opening framing.",
+        "She eases her bright gaze back to lens on a slow underwater breath with the composed "
+        "dreamy quarter-smile, the full coral-bloom resolving back toward the opening "
+        "aquatic-glow look to seed the loop.",
+        "She lands precisely on the Frame 1 pose and gaze, dreamy and buoyant in the water-light "
+        "\u2014 a seamless loop seam.",
+    ),
+]
+
+
 def build_block(beats):
     return (
         BREAKDOWN_HEADER + "\n"

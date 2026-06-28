@@ -4334,7 +4334,7 @@ Hair: AP — long flowing wet-look mermaid waves with a pearlescent aqua tint at
 
 Makeup: AQ — dreamy aquatic glow: a pearlescent aqua-iridescent lid, glassy dewy skin, soft coral-pink blush, an iridescent aqua gloss lip, a pearl highlight, a few tiny scattered pearl-scale accents on the high cheekbone, soft-set brows, real pores
 
-Movement: macro pearl-balm glide → coral-growth bloom transform (the one impossible move) — soft corals and sea-flora grow and bloom in dreamy slow arcs around her while her single face stays clear and locked (never overgrown or replaced)
+Movement: coral-growth bloom transform (the one impossible move) — soft corals and sea-flora grow and bloom in dreamy unfurling arcs around her while her single face stays clear and locked (never overgrown or replaced), CONTAINED mid-clip inside Frame 4 at a HELD angle (begins mid-clip, blooms smoothly, never an instant snap; believable real coral-growth and botanical physics — polyps and fronds unfurling on true underwater currents at natural pace, no cheap sparkles). Veo first/last-frame continuity (Frame 4 image = dreamy aquatic-glow Look A with no full bloom = first frame, Frame 5 image = full coral-bloomed Look B = last frame); every frame join is a hard match-cut to a new angle. (Beauty-still — contained product-at-face pose held per M.6.)
 
 Concept Line: "made of seafoam and dreams"
 
@@ -4400,9 +4400,9 @@ SHOT TYPE: medium close, chest-up, subject fills about 55% of the vertical frame
 LENS: 50mm, f/2.0, smooth aqua background fall-off.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Medium close chest-up in the dreamy underwater-light studio: a slow push-in is already gliding toward her as she tilts the Nacre jar a few degrees into the key, pearl speculars sliding along the lid and the balm settling; gaze lowered to the jar, a coral frond swaying slow behind her.
-- [00:02–00:04] The push continues as she lifts her bright gaze to lens on a soft inhale and a dreamy quarter-smile blooms, dappled caustic water-light playing over her.
-- [00:04–00:06] She holds, dreamy and aquatic, her single face clear and locked, eyes soft, a coral frond swaying behind.
+- [00:00–00:02] Cut to a medium-close chest-up in the dreamy underwater-light studio: she is already cradling the sea-glass Nacre jar at her collarbone as a slow push eases in, the soft aqua-teal gradient backdrop and dappled caustic water-light behind her, drifting bubbles; her left hand easy near her jaw.
+- [00:02–00:04] The push settles as a wet-look mermaid wave drifts in the water-light and her bright gaze eases to lens, a bubble drifting past, a soft dreamy quarter-smile settling.
+- [00:04–00:06] She holds the dreamy aquatic-glow look in the pearlescent aqua-teal scaled top, the scales catching the aqua key, eyes bright and luminous (silent reel).
 
 AUDIO: diegetic only, no in-clip music, NO voiceover. Ambient bed — a soft underwater room tone and a faint bubble-shimmer throughout. SFX — a soft lid-tap as her fingers settle on the jar at 0.6s (gentle attack, short tail), a faint fabric shift at 2.4s, a soft bubble-rise shimmer at 3.9s timed to the gaze-lift. Reaction — a soft dreamy breath at 3.0s. The instrumental master track sits low — a soft ambient aquatic pad just kindling under the room tone (present, never full).
 
@@ -4441,7 +4441,7 @@ SUBJECT FRAMING & POSITION: A medium close framing holds Aira from the chest up 
 
 LENS + DOF + BOKEH: 50mm, f/2.0; focus split between her near eye and the glowing cheekbone so both read crisp; the aqua background melting to a smooth creamy field; soft pearl blooms off the coral sprouts; gentle roll-off, no clipping.
 
-COMPOSITION REFERENCE: the dreamy build beat — a soft pearl-balm glide and first coral sprouts, the bloom clearly imminent (BA.3 cause building to effect).
+COMPOSITION REFERENCE: a macro pearl-balm glide build beat — dreamy and poised, the coral-growth bloom held for the Frame-4 clip.
 
 ATMOSPHERE: dreamy, charged-soft, aquatic — the ethereal instant before the corals bloom around her.
 
@@ -4460,9 +4460,9 @@ SHOT TYPE: medium close, chest-up, subject and gliding hand fill about 58% of th
 LENS: 50mm, f/2.0.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Medium close: the slow push continues with a faint tilt-up already following her hand as she glides a dab of pearl-aqua balm along her cheekbone with a soft dreamy press, a pearl glint travelling; gaze soft to the touch.
-- [00:02–00:04] The first tiny coral polyps sprout and sway near her shoulder, her eyes softening with dreamy focus (her single face stays clear and locked).
-- [00:04–00:06] The balm settles to a pearl sheen, a frond swaying, lashes lowering in dreamy calm.
+- [00:00–00:02] Cut to a medium-close three-quarter, a rack-focus pulling from the jar to her eye: she is already gliding the pearl-aqua balm soft along her cheekbone and the first soft coral begins to bloom in the water around her; gaze cast soft to the jar.
+- [00:02–00:04] The pearl balm catches a dewy aqua sheen on her cheekbone as her gaze softens with dreamy wonder and a soft micro-smile kindles, the first sea-flora unfurling in.
+- [00:04–00:06] She holds the balm poised near her cheek, eyes bright and dreamy, the aquatic-glow look intact (silent here).
 
 AUDIO: diegetic only, NO voiceover. Ambient — soft underwater room tone and a faint bubble-shimmer throughout. SFX — a soft balm-glide whisper at 0.9s, a faint lid tick at 2.1s, a soft coral-sprout shimmer at 4.5s (gentle attack, soft tail). Reaction — a soft dreamy breath at 3.0s. The instrumental master track lifts a touch — a soft ambient pad and gentle aquatic motif rising under the SFX (present, never full).
 
@@ -4476,7 +4476,7 @@ NEGATIVE: identity drift, face or hand warp, extra or fused fingers, duplicate p
 
 ## Frame 3 of 6 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the locked START keyframe of the coral-growth bloom transform — face fully recognizable and SINGLE, still the dreamy aquatic look, the first soft corals and sea-flora now sprouting and gathering into a slow blooming arc that begins to curl around her. The corals grow in the air around her; her one face, one head and one body are never overgrown, traced over, duplicated or replaced. Lock this START so Frame 4's bloom interpolates cleanly to the full coral-framed END (Frame 5).
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. SHOT NOTE: a clean dreamy aquatic-glow (Look A) beat at its OWN cut/angle — the dreamy aquatic look fully intact and her face SINGLE, the first soft corals and sea-flora just beginning to sprout and gather into a slow blooming arc that starts to curl around her; the full coral-growth bloom does NOT happen here (it happens mid-clip inside Frame 4). The corals grow in the air around her; her one face, one head and one body are never overgrown, duplicated or replaced. Build soft dreamy anticipation only.
 
 WARDROBE: the pearlescent aqua-teal scaled top, continuity-locked, the iridescent surface beginning to catch the gathering coral-light, the modest neckline pristine, fully modest, zero snags.
 
@@ -4501,7 +4501,7 @@ SUBJECT FRAMING & POSITION: A medium framing holds Aira from the chest up with a
 
 LENS + DOF + BOKEH: 50mm, f/2.0; focus split between her near eye and the nearest coral frond so both read crisp; the aqua background melting to a smooth creamy field with caustic bokeh; soft pearl blooms off the corals; gentle roll-off, no clipping.
 
-COMPOSITION REFERENCE: the dreamy suspended build beat — corals gather and curl, the bloom clearly imminent (BA.3 cause building to effect).
+COMPOSITION REFERENCE: a poised dreamy beat, corals gathering and beginning to curl — dreamy and ethereal, the coral-growth bloom held for the Frame-4 clip.
 
 ATMOSPHERE: dreamy, charged-soft, aquatic — the ethereal instant before the corals bloom full around her.
 
@@ -4520,9 +4520,9 @@ SHOT TYPE: medium, chest-up, subject and gathering corals fill about 60% of the 
 LENS: 50mm, f/2.0, smooth aqua background fall-off.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Medium chest-up: a slow arc is already drifting around her as she lowers her hand a touch and the soft corals sprout and gather into a slow blooming arc; gaze following the curling fronds.
-- [00:02–00:04] The arc eases round as the first frond curls at her shoulder, her eyes softening with dreamy wonder.
-- [00:04–00:06] The gathering tightens and brightens, cueing the bloom, her gaze lifting a degree.
+- [00:00–00:02] Cut to a medium chest-up on a fresh three-quarter angle: she eases the jar down and opens her hand soft as the first corals begin to bloom and drift, drawing a slow underwater breath as the camera arcs a few degrees and the aqua backdrop drifts behind with parallax; gaze lifting.
+- [00:02–00:04] The arc settles as her gaze lifts to lens with rising dreamy wonder and a knowing micro-smile forms, soft corals and sea-flora beginning to grow and bloom around her, her single face clear and unovergrown, still the aquatic-glow look.
+- [00:04–00:06] She holds the poised dreamy beat, the first corals unfurling soft, eyes bright and dreamy — the hush before the coral-growth bloom (silent here).
 
 AUDIO: diegetic only, NO voiceover. Ambient — soft underwater room tone and a faint bubble-shimmer throughout. SFX — the soft settle of the lowering jar at 0.8s, a soft coral-gather shimmer at 2.4s, a gentle frond-curl swell at 4.5s as the first frond locks (gentle attack, soft tail). Reaction — a soft dreamy breath at 2.1s. The instrumental master track sits low — a soft ambient pad and aquatic motif under the SFX (present, never full).
 
@@ -4536,38 +4536,38 @@ NEGATIVE: identity drift, face or hand warp, extra or fused fingers, duplicate p
 
 ## Frame 4 of 6 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the one impossible move — the coral-growth bloom. LOCK the START (Frame 3, single face clear, dreamy aquatic, corals gathering) and the END (Frame 5 open, full coral-framed radiant after-look). Mid-bloom the soft corals and sea-flora grow and bloom in dreamy slow arcs around her; her one face, one head and one body stay clear, single and recognizable, softly framed (never overgrown, never buried) by the blooming corals; interpolate strictly between the locked keyframes — do NOT invent a new face, do NOT duplicate her face, do NOT invent new hands or new bone structure beneath the coral-bloom. Dreamy and ethereal, real soft-growth physics, mesmerizing not chaotic.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the START frame of the transform CLIP — render her fully in the dreamy aquatic-glow Look A (the exact still the Frame-4 video opens on, and Veo's FIRST frame): the pearlescent aqua-teal scaled top in the dreamy underwater-light studio, her single face clear and centred, only the first soft corals and sea-flora just beginning to sprout in the water around her (the full bloom NOT yet bloomed). The coral-growth bloom happens MID-CLIP at this same HELD angle (the camera may push or travel with her but never rotates its angle; soft corals and sea-flora grow and bloom in dreamy unfurling arcs around her by believable real coral-growth and botanical physics — polyps and fronds unfurling on true underwater currents at natural pace, no cheap sparkles; the corals grow in the air, never on her face), resolving into Frame 5's full coral-bloomed after-look image (Veo's LAST frame). Her one face, one head, one body, hair and proportions stay constant. Do NOT depict the full bloom in this still, do NOT overgrow or duplicate her face, and do NOT invent a new face, new hands or new bone structure.
 
-WARDROBE (refined): the pearlescent aqua-teal scaled top catching the bloom at its softest peak as the corals curl — fabric flaring with travelling pearl glints, fully modest, never revealing.
+WARDROBE: the pearlescent aqua-teal iridescent scaled top with a mother-of-pearl sheen, long sleeves and a modest neckline, the scaled surface catching one travelling pearl highlight, fully modest, fully intact (the full bloom not yet bloomed).
 
-HAIR: the long mermaid waves drifting in the bloom-current mid-motion, catching a soft arc of coral and pearl light, the wet-look sheen holding, strands lit dreamy-clean; color locked beneath the gloss.
+HAIR: long flowing wet-look mermaid waves with a pearlescent aqua tint at the ends and a soft center part, a glossy sea-wet sheen; color locked to reference.
 
-MAKEUP: mid-bloom — the dreamy aquatic glow flushing to its luminous peak, the pearlescent aqua lid kindling brighter, the iridescent gloss lip enriching, the pearl highlight glinting on the high points; real pores beneath.
+MAKEUP: the dreamy aquatic-glow Look-A base — a pearlescent aqua-iridescent lid, glassy dewy skin, soft coral-pink blush, an iridescent aqua gloss lip, a pearl highlight, a few tiny scattered pearl-scale accents on the high cheekbone; skin glassy and real with visible pores and fine vellus texture.
 
-HANDS & NAILS: both arms drifting open through the coral-field, palms turning up as the corals bloom around her in slow dreamy arcs; natural nail-bed color, neat cuticles, no white-knuckle tension.
+HANDS & NAILS: both arms beginning to open soft from her body, palms easing up as the first corals sprout, the right near the cradled Nacre jar; natural nail-bed color, neat cuticles, no white-knuckle tension.
 
-FACIAL MICRO-DYNAMICS: eyes bright with dreamy wonder, a gentle parted-lip awe, a soft serene lift — her single face clear and coral-framed by the blooming sea-flora, identity strictly held to reference.
+FACIAL MICRO-DYNAMICS: her single face bright with soft dreamy anticipation, a gentle parted-lip awe, a soft serene calm — composed, single and fully recognizable, identity-locked, ready for the coral-growth bloom mid-clip.
 
-BODY POSTURE & WEIGHT: mid-bloom the spine lengthens and the shoulders open soft, weight rolling smooth between the feet — grounded real physics, modest throughout.
+BODY POSTURE & WEIGHT: front-facing with the torso rotated about 4°, the spine long and the shoulders open soft, weight settled with a soft hip counter-tilt — grounded real physics, the dreamy centre before the bloom, modest throughout.
 
-KINETIC STILLNESS (8 layers): (1) soft corals and sea-flora blooming in dreamy slow arcs around her at peak; (2) coral-tips unfurling as they curl; (3) the mermaid waves and top catching travelling coral-light mid-bloom; (4) tiny pearl-bubbles glinting through the field; (5) the top flaring with a pearl-edge glint; (6) soft speculars multiplying across the blooming corals; (7) the aqua backdrop glowing a touch brighter through the bloom; (8) her chest mid a soft dreamy breath.
+KINETIC STILLNESS (8 layers): (1) the first soft corals and sea-flora just beginning to sprout in the water around her; (2) coral-tips starting to unfurl soft at the frame edge; (3) a mermaid wave drifting in the water-light; (4) the soft aqua-teal backdrop and dappled caustics behind her; (5) the scaled top breathing soft in the current; (6) a pearl glint sliding on the Nacre jar; (7) the pearl highlight shifting a millimetre along the top as her ribcage expands; (8) a slow eyelash settle completing a dreamy blink.
 
-SPATIAL LOGIC: FOREGROUND — a blooming coral frond nearest lens, soft. MIDGROUND — Aira mid-bloom, her single face the clear hero, the corals blooming around her. BACKGROUND — the soft aqua backdrop with blooming corals and dreamy falloff.
+SPATIAL LOGIC: FOREGROUND — a first sprouting coral and the cradled jar nearest lens, soft. MIDGROUND — Aira's single face the clear hero in the dreamy aquatic look. BACKGROUND — the soft aqua-teal gradient backdrop with dappled caustic water-light and drifting bubbles, present behind.
 
-LIGHTING: KEY — soft dappled key now brighter through the bloom. FILL — soft white bounce below (clamshell). RIM — a bright soft aqua rim raking the blooming corals and the crown (hero light on the motion). PRACTICAL — coral-pink and aqua caustics at full soft glow. SEPARATION — the bloom and faint aqua haze. BOUNCE — soft aqua kicks multiplying across the blooming corals.
+LIGHTING: KEY — a soft dappled key feathered above-front. FILL — soft white bounce below (clamshell). RIM — a soft aqua rim skimming the crown and shoulder to separate her from the water-light. PRACTICAL — coral-pink and aqua caustics and the jar. SEPARATION — the aqua backdrop kept a touch down so she reads about 2 stops up. BOUNCE — a soft aqua kick off the Nacre jar.
 
-FRAMING: ASPECT 9:16; energized medium-wide, Aira centered with the coral bloom filling the frame around her single face, 10% headroom, slight push for intimacy.
-SUBJECT FRAMING & POSITION: A energized medium-wide framing opens around Aira with about 10% headroom as the coral bloom fills the lower frame, a slight push easing in for intimacy. Her spine lengthens and her shoulders open as the weight rolls smooth between the feet in grounded real-physics motion. The camera eases wider against the soft aqua-teal gradient with bubbles and a swaying coral frond, Aira the centred hero at the heart of the bloom. She is centred with the coral bloom radiating around her. She faces front to the lens, lifted at the peak of the transform. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+FRAMING: ASPECT 9:16; energized medium-wide, Aira centered in the dreamy underwater-light studio, 10% headroom — its own distinct cut/angle.
+SUBJECT FRAMING & POSITION: An energized medium-wide framing opens around Aira at about 10% headroom in the dreamy underwater-light studio, the dreamy aquatic-glow Look A fully intact and her face single as the transform clip begins. Her torso is turned about four degrees with the weight settled over a soft hip counter-tilt, arms beginning to open soft. The camera holds a mid distance on its own fresh angle, a hard cut from Frame 3, with Aira the centred single hero and the soft aqua-teal gradient with caustics and bubbles present behind, facing front to the lens. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
-LENS + DOF + BOKEH: 50mm, f/2.0; her single face and the nearest corals tack sharp at the bloom-core, the closest frond melting into a soft pearl bokeh with dreamy specular glints.
+LENS + DOF + BOKEH: 50mm, f/2.0; her single face and the cradled jar tack sharp, the nearest sprouting corals melting into a soft pearl bokeh with dreamy specular glints; gentle highlight roll-off, no clipping.
 
-COMPOSITION REFERENCE: the signature impossible beat — a coral-growth bloom, dreamy and ethereal, heightened but identity-locked, her face never overgrown (AT.5 transform logic / identity-through-transform).
+COMPOSITION REFERENCE: the start of the signature beat — dreamy aquatic-glow Look A with a single locked face, dreamy and ethereal, the coral-growth bloom held for the video's mid-clip.
 
-ATMOSPHERE: dreamy, enchanting, mind-soft — the moment the corals bloom full around her single locked face in slow luminous arcs.
+ATMOSPHERE: dreamy, charged, ethereal — the soft instant the transform clip begins.
 
 COLOR GRADE: dreamy aquatic — soft aqua-teals, pearlescent iridescence, soft coral-pink, crisp clean whites, rich uncrushed blacks, a dreamy soft glow (no garish oversaturation, bright dreamy mermaidcore-aqua lane).
 
-TEXTURE & MICRO-DETAIL: the blooming corals read as real soft sea-flora with delicate unfurling polyp texture and soft motion blur, the fronds read as real growing coral on living current, the top shows a real iridescent scaled weave catching pearl glints, skin reads real with pores beneath the glow.
+TEXTURE & MICRO-DETAIL: the top shows a real iridescent scaled weave catching pearl glints, the first sprouting corals read as real soft sea-flora with delicate unfurling polyp texture, the Nacre jar reads as real sea-glass, skin reads real with pores beneath the glow.
 
 NEGATIVE: mirrored, flipped, inverted, extra limbs, fused fingers, melted features, asymmetric eyes (unintentional), garbled text, floating shadows, duplicated subjects, low-res patches, plastic skin, over-smoothed skin, oversharpened, AI-generated artifacts, watermarks, signature, deformed hands, malformed teeth, joint cuts at ankle/knee/wrist/elbow/neck, amputated fingertips, cross-eyed, lazy eye, off-axis pupils, melted clothing, mismatched footwear, mannequin-stiff posture, dead eyes, statue-frozen energy, garbled label text, crushed blacks, muddy dull shadows, flat overcast light, inventing a new face beneath the coral-bloom.
 
@@ -4580,9 +4580,9 @@ SHOT TYPE: energized medium-wide of the coral-growth bloom (the hero move).
 LENS: 50mm, f/2.0.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Energized medium-wide: the push is already easing into a smooth gentle orbit as the corals bloom in dreamy arcs and she opens her arms; gaze lifting into the bloom.
-- [00:02–00:04] The orbit rides the hero beat as the fronds unfurl soft around her and the waves and top catch travelling coral-light (her single face clear and coral-framed, never overgrown); eyes widening in dreamy wonder.
-- [00:04–00:06] The bloom settles and the corals resolve as the orbit eases; a serene radiant look landing, her single face clear, eyes soft.
+- [00:00–00:02] Cut to an ethereal medium at a HELD angle (Veo first frame = the dreamy aquatic-glow Look A still): she drifts both arms open from her body, already in motion — still the aquatic-glow look, NO full bloom yet, a gentle buoyant push-with easing in, the angle fixed for the whole clip.
+- [00:02–00:04] The coral-growth bloom BEGINS here, mid-clip: soft corals and sea-flora grow and bloom in dreamy unfurling arcs around her in one continuous expanding front, coral-pink fans and aqua sea-flora opening across the water and along her shoulder exactly where the bloom passes — believable real coral-growth and botanical physics (polyps and fronds unfurling on true underwater currents at their own natural pace, no cheap sparkles), her single face clear and locked (NEVER overgrown, replaced or duplicated), eyes brightening in dreamy wonder (angle held, identity locked).
+- [00:04–00:06] The bloom completes and the look settles smoothly and fully into the full coral-bloomed after-look of the Veo last-frame still (Frame 5's image) — soft corals and sea-flora bloomed around her single locked face in the dreamy water-light, resolved and held through the final beat, no last-second pop; a dreamy radiant calm landing in her eyes.
 
 AUDIO: diegetic-led, NO voiceover. Ambient — soft underwater room tone and a faint bubble-shimmer. SFX — a soft coral-bloom swell 0.4–2.7s, fine frond-unfurl shimmers 2.4–4.5s (gentle attack, soft tails), a soft fabric-flare at 3.0s. Reaction — a soft awed breath at 2.4s. The instrumental master track lifts to its soft dreamy peak here — an ambient swell landed on the bloom (present, still under the SFX, never full).
 
@@ -4598,7 +4598,7 @@ NEGATIVE: identity drift, face or hand warp, extra or fused fingers, duplicate p
 
 IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
 
-TRANSFORM KEYFRAME NOTE: this is the locked END keyframe of the coral-growth bloom transform; it must resolve continuously out of the START keyframe in Frame 3 — same single face, same hands, same camera distance, the blooming corals now settled into a soft luminous frame curling slow around her. Only the air around her was bloomed; her one face was never overgrown, traced over, duplicated or replaced. Do NOT invent a new face, duplicate her face or invent new hands beneath the coral-bloom; this is the same single Aira, dreamy and radiant. Frame 3 (START) and Frame 5 (END) are the two anchors of the single transform.
+TRANSFORM KEYFRAME NOTE: this is the full coral-bloomed Look B reveal at its OWN cut/angle (a hard cut from the Frame-4 coral-growth bloom clip — a new angle/crop, and the Veo last-frame the bloom resolves into). It carries the resolved full coral-bloomed after-look the Frame-4 clip ends on — only the air around her was bloomed with soft corals and sea-flora; her one face was never overgrown, duplicated or replaced. Same single Aira, dreamy and radiant — do NOT invent a new face, overgrow or duplicate her face, or invent new hands or new bone structure.
 
 WARDROBE: the pearlescent aqua-teal scaled top at its glossiest, the mother-of-pearl sheen catching one travelling pearl glint, the modest neckline pristine, fully modest, zero snags.
 
@@ -4642,9 +4642,9 @@ SHOT TYPE: medium close, chest-up, subject fills about 56% of the vertical frame
 LENS: 50mm, f/2.0, smooth aqua background fall-off.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Medium close: a slow push is already gliding in as she eases her hands open and the bloom settles, the last corals curling slow; gaze serene to lens.
-- [00:02–00:04] She lifts a serene radiant smile to lens in the full coral-frame, lips softly closed (silent — no words), eyes soft and direct.
-- [00:04–00:06] She holds the dreamy coral-framed look as one final frond settles, the smile easing into calm wonder.
+- [00:00–00:02] Cut to a medium close on a new angle in the dreamy water-light: she is already in the full coral-bloomed after-look, drifting her right hand soft back toward the Nacre jar at her collarbone with a buoyant roll of the shoulder, her single face clear and unovergrown; gaze easing to lens.
+- [00:02–00:04] A soft dreamy wordless smile eases to lens on a slow underwater breath, the last sea-flora settling and a bubble drifting, eyes bright and luminous (silent reveal — no words).
+- [00:04–00:06] She holds the dreamy radiant coral-bloomed look, her single face clear, eyes bright and direct (silent here).
 
 AUDIO: diegetic only, NO voiceover (silent concept — the reveal is fully non-verbal). Ambient — soft underwater room tone and a faint bubble-shimmer throughout. SFX — a soft settling-coral shimmer at 0.9s, a faint fabric shift at 1.5s, a gentle bubble-rise at 3.6s. Reaction — a soft dreamy breath at 2.4s. The instrumental master track holds its soft ambient peak then begins a gentle resolve.
 
@@ -4704,9 +4704,9 @@ SHOT TYPE: medium close, chest-up, subject fills about 55% of the vertical frame
 LENS: 50mm, f/2.0, smooth aqua background fall-off.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Medium close matching Frame 1: a slow push is already resolving toward the exact opening framing as she re-cradles the Nacre jar and tilts it into the key, pearl speculars sliding along the lid; gaze lowering to the jar.
-- [00:02–00:04] The push settles as she eases her bright gaze back to lens on a soft breath with the composed dreamy quarter-smile, the aquatic studio resolving to the opening; eyes calming.
-- [00:04–00:06] She lands precisely on the Frame 1 pose and gaze, a coral frond swaying — a seamless loop seam (silent).
+- [00:00–00:02] Cut to a medium-close chest-up matched to Frame 1: she returns her right hand to cradle the sea-glass Nacre jar soft at her collarbone and her left easy near her jaw exactly as in Frame 1 as the camera settles to the opening framing.
+- [00:02–00:04] She eases her bright gaze back to lens on a slow underwater breath with the composed dreamy quarter-smile, the full coral-bloom resolving back toward the opening aquatic-glow look to seed the loop.
+- [00:04–00:06] She lands precisely on the Frame 1 pose and gaze, dreamy and buoyant in the water-light — a seamless loop seam.
 
 AUDIO: diegetic only, NO voiceover (silent concept). Ambient — soft underwater room tone and a faint bubble-shimmer throughout. SFX — a soft lid-tap at 0.6s as her fingers settle on the jar (gentle attack, short tail), a faint fabric shift at 2.4s, a soft bubble-rise shimmer at 3.6s timed to the gaze-lift. The instrumental master track resolves softly here so it can loop clean.
 
