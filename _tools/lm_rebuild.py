@@ -1293,6 +1293,91 @@ BEATSLM[15] = [
 ]
 
 
+BEATSLM[16] = [
+    # F1 - soft day Look A establishing (seated café, contained), alive lateral track, coffee cup
+    (
+        "Cut to a medium-wide waist-up tracking shot at the rainy café window: the camera "
+        "dollies gently laterally to settle on her seated at the worn wooden table as she "
+        "cradles the warm coffee cup, gentle steam curling, the rain-streamed glass and amber "
+        "interior sliding behind with real parallax; a warm soft quarter-smile holding.",
+        "The track eases to rest as a tiny face-framing braid shifts in the café warmth and she "
+        "eases her warm gaze to lens, rain beading on the glass behind, a soft dreamy "
+        "quarter-smile settling.",
+        "She holds, warm and easy in the soft oatmeal knit, the half-up boho braids gently "
+        "tousled, eyes soft in the amber light (silent here).",
+    ),
+    # F2 - day look, push-with lifting hand from cup toward the rain-streamed glass, cut to a closer three-quarter
+    (
+        "Cut to a medium-close three-quarter: she is already lifting her right hand soft from "
+        "the cup toward the rain-streamed glass as if to touch a bead, fingers gently open, as "
+        "the camera pushes with her hand; gaze toward the rain.",
+        "A rain-bead trembles under her fingertip as her gaze softens with quiet warmth and a "
+        "dreamy micro-smile kindles.",
+        "She holds the hand poised at the glass, eyes soft and warm, the soft day look easy and "
+        "intact (silent here).",
+    ),
+    # F3 - day look clean (NO ripple yet), slow arc to a fresh angle, raise hand toward glass
+    (
+        "Cut to a medium chest-up on a fresh three-quarter angle: she raises her hand soft "
+        "toward the glass and draws a slow breath, her left hand easing open on the table, as "
+        "the camera arcs a few degrees and the café swings behind with parallax; gaze lifting.",
+        "The arc settles as her gaze lifts to lens with rising soft warmth and a knowing dreamy "
+        "smile forms, the rain-ripple cresting on the glass, still in the soft day look.",
+        "She holds the poised café beat, hand raised toward the glass, eyes soft and dreamy "
+        "\u2014 the breath before the rain-ripple (silent here).",
+    ),
+    # F4 - THE TRANSFORM, HELD ANGLE, smooth mid-clip rain-ripple; first=day look, last=cozy cardigan
+    (
+        "Cut to an energized medium at a HELD angle (Veo first frame = the soft-day Look A "
+        "still): she eases her hand down from the glass, already in motion \u2014 still the soft "
+        "oatmeal knit, NO ripple yet, a gentle push-with easing in, the angle fixed for the "
+        "whole clip.",
+        "The ripple BEGINS here, mid-clip: a single travelling rain-ripple rolls smoothly "
+        "across the rain-streamed window and the frame in one continuous warm front, the light "
+        "knit deepening into the chunky caramel cardigan with a snug modest scarf and the room "
+        "warming to amber exactly where the ripple passes \u2014 cloth resolving with believable "
+        "weight and inertia, real rain-on-glass refraction, gradual and warm, never a snap, no "
+        "garish glare; the boho braids catching travelling amber light, eyes warming in dreamy "
+        "wonder (angle held, face cleanly lit, identity locked).",
+        "The ripple completes its roll and the look settles smoothly and fully into the cozy "
+        "cardigan Look B of the Veo last-frame still (Frame 5's image) \u2014 the warm chunky "
+        "caramel cardigan and snug scarf over the knit in a snug amber glow, resolved and held "
+        "through the final beat, no last-second pop; a warm dreamy calm landing in her eyes.",
+    ),
+    # F5 - cozy Look B reveal, cut to a NEW angle, cradle the warm cup again
+    (
+        "Cut to a medium close on a new angle in the snug amber glow: she is already in the "
+        "cozy cardigan-and-scarf look, drifting her right hand to cradle the warm cup again with "
+        "an easy roll of the shoulder; gaze easing to lens.",
+        "A warm dreamy smile eases to lens on a slow breath, the last rain-bokeh softening "
+        "behind, eyes soft and warm.",
+        "She holds the cozy dreamy look, the cardigan settling snug, eyes warm and direct "
+        "(silent here).",
+    ),
+    # F6 - spoken line, cut to a fresh angle, push-with the lean
+    (
+        "Cut to a medium chest-up on a fresh angle: she leans an easy few degrees toward lens "
+        "and drifts her right hand open soft from the cup in a warm easy gesture as the camera "
+        "eases with her; gaze warm to lens.",
+        "She delivers \u201cSome days are made for rain.\u201d to lens with a warm dreamy smile "
+        "and natural lip-sync, the steam curling soft, eyes warm and direct.",
+        "She holds the cozy dreamy look as the cardigan settles, the smile easing into warm "
+        "calm.",
+    ),
+    # F7 - loop close, cut back to match Frame 1 seated café + coffee cup
+    (
+        "Cut to a medium-wide waist-up matched to Frame 1: she returns her right hand to cradle "
+        "the warm coffee cup seated at the table exactly as in Frame 1 as the camera settles to "
+        "the opening framing.",
+        "She eases her warm gaze back to lens on a slow breath with the composed dreamy "
+        "micro-smile, the snug amber cozy look resolving back toward the soft day-look opening "
+        "to seed the loop.",
+        "She lands precisely on the Frame 1 seated pose and gaze, warm and easy by the rain "
+        "\u2014 a seamless loop seam.",
+    ),
+]
+
+
 def build_block(beats):
     return (
         BREAKDOWN_HEADER + "\n"
