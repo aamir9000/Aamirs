@@ -722,3 +722,40 @@ move + angle at every CUT (L.3); every clip opens ALREADY-IN-MOTION (B).
 - ACTION: revisit any already-done NON-GRWM concept and inject real per-frame pose/motion variety;
   apply this to all remaining concepts. Fragrance "still radiant centre" reels (Midnight Bloom,
   Gold Hour) get GENTLE motion (a step, a turn, a drift) rather than fully static.
+
+
+
+### M.7 — FULL-BODY MOTION VOCABULARY (layer several per frame — a head-to-toe kinetic chain)
+(Decided with the user. Use with M.6: non-GRWM frames must move the WHOLE body — hands, arms,
+legs, feet, waist/hips, torso, shoulders, neck/head, gaze, hair, fabric — not just one hand
+gesture. Draw a DIFFERENT combination for each frame so no two repeat.)
+
+GAZE & EYES: gaze-lift to lens, gaze cast down, eye-line sweep, glance over the shoulder, side-eye
+  flick, eyes tracing the wavefront/object, slow blink, soft squint, widen in awe, lash flutter,
+  focus snap, gaze drift then lock.
+HEAD & NECK: head tilt, chin lift, chin tuck, slow head turn (L/R), head cant, gentle head roll,
+  neck elongation, look-away-and-back, profile-to-front turn, soft nod, head float on the breath.
+SHOULDERS: shoulder roll (fwd/back), shoulder drop, one shoulder forward, shoulder-blade draw,
+  subtle shimmy, shoulder dip, shrug-and-release.
+ARMS / HANDS / FINGERS: arm sweep, long extension, reach-and-trail, hand glide, fingers fanning
+  open, fingertips trailing a surface or hair, wrist roll, wrist flick, hand to
+  collarbone/jaw/hip/nape, hand framing the face (never covering), palm turn-up, open gesture,
+  hair tuck behind the ear, cross/uncross arms, clasp-and-release, snap.
+TORSO / WAIST / HIPS: torso rotation, waist twist, ribcage lift, spine elongation, gentle
+  arch/backbend, side bend, contrapposto shift, hip sway, hip pop, hip counter-tilt, core spiral,
+  slow undulation, figure-eight hip.
+LEGS / FEET: step fwd/back, cross-step, weight shift (back<->front leg), pivot on the ball of the
+  foot, heel lift, toe point, knee bend, lunge-step, ankle roll, half-turn step.
+WHOLE-BODY / LOCOMOTION: walk-in, stride toward/away, turn-and-walk, slow spin, pivot-turn,
+  saunter, sashay, glide, sway, level change (rise from a lean / lower), lean-on-a-surface-and-
+  push-off, twirl, advance-and-glance-back.
+HAIR & FABRIC (motion read): hair sway/flip, strand lift in the breeze, ponytail swing, fringe
+  shift, skirt/hem flare, sleeve sweep, scarf/dupatta trailing, drape billow-and-settle.
+
+RULE: each non-GRWM frame layers a HEAD-TO-TOE chain (e.g. strides in -> hips rotate -> waist
+twists -> one arm sweeps up -> shoulders roll -> head turns -> gaze flicks to lens -> hair sways
+-> hem flares); a DIFFERENT combination leads each frame so no two repeat. Real-time, natural
+speed, NO slow-motion; identity-safe (face = eye-led only, D); energy matched to the concept
+(powerful/strident, soft/flowing, or explosive/athletic). Exceptions per M.6 (GRWM / identical-
+pose premise / beauty-still) stay contained. During a TRANSFORM clip the camera ANGLE holds (L.2)
+but her body may still move through the kinetic chain.
