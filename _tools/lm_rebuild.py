@@ -689,6 +689,93 @@ BEATSLM[8] = [
 ]
 
 
+BEATSLM[9] = [
+    # F1 - matte Look A establishing, alive lateral track, water-skin floor, hand at collarbone
+    (
+        "Cut to a medium-wide thigh-up tracking shot in the dark futurist studio on the black "
+        "water-skin floor: the camera dollies laterally to settle on her as she steps her "
+        "weight onto the back leg and rests her right hand soft at her collarbone, the dark "
+        "wall and her mirror reflection sliding behind with real parallax; a composed cool "
+        "quarter-smile holding.",
+        "The track eases to rest as a strand of the high sleek pony shifts in the studio air "
+        "and her cool gaze begins to lift, faint vapour drifting low, a composed architectural "
+        "micro-smile settling.",
+        "She holds, cool and sculptural in the matte graphite set, eyes direct, her mirror "
+        "reflection breathing in the water-skin (silent here).",
+    ),
+    # F2 - matte, push-with the hand lifting toward cresting chrome, cut to a closer three-quarter
+    (
+        "Cut to a medium-close three-quarter: she is already lifting her hand soft toward the "
+        "chrome cresting above and opening her fingers as if to receive it, as the camera "
+        "pushes with her hand and tilts up; gaze rising toward the crest.",
+        "The first liquid-chrome bead gathers above her by real surface tension, a mirror "
+        "highlight cresting at its meniscus, as her eyes brighten with quiet anticipation.",
+        "She holds the poised beat, gaze up on the gathering chrome, the matte set still clean "
+        "and intact (silent here).",
+    ),
+    # F3 - matte, arc, raises hand to receive (chrome cresting, NO pour yet), cut
+    (
+        "Cut to a medium chest-up on a fresh three-quarter angle: she raises her hand soft to "
+        "receive the chrome and draws a slow breath, her left hand easing open, as the camera "
+        "arcs a few degrees and the dark wall swings behind with parallax; gaze lifting.",
+        "The arc settles as her gaze lifts to lens with rising spark and a knowing micro-smile "
+        "forms, the chrome cresting and tipping above by real fluid surface tension, the set "
+        "still matte.",
+        "She holds the poised matte beat, hand raised to the crest, eyes steady and bright "
+        "\u2014 the instant before the pour (silent here).",
+    ),
+    # F4 - THE TRANSFORM, HELD ANGLE, smooth mid-clip chrome pour; first=matte, last=chrome
+    (
+        "Cut to an energized medium at a HELD angle (Veo first frame = the matte-graphite Look "
+        "A still): she holds her hand from receiving the chrome, already in motion \u2014 the "
+        "set still matte, NO chrome yet, a gentle push-with easing in, the angle fixed for the "
+        "whole clip.",
+        "The pour BEGINS here, mid-clip: the liquid chrome pours down and wraps smoothly around "
+        "her in one continuous travelling spiral, the metal flowing and setting over the matte "
+        "bodice with believable fluid spread and inertia exactly where it passes \u2014 "
+        "mirror-bright and continuous, mirrored true in the water-skin, never a snap, no garish "
+        "glare; the high sleek pony catching travelling chrome, eyes luminous with cool awe "
+        "(angle held, face cleanly lit, identity locked).",
+        "The chrome completes its spiral and the look settles smoothly and fully into the "
+        "chrome Look B of the Veo last-frame still (Frame 5's image) \u2014 a sculptural "
+        "mirror-chrome sash-and-collar set over the matte set, resolved and held through the "
+        "final beat, no last-second pop; a strong fluid resolve landing in her eyes.",
+    ),
+    # F5 - chrome Look B reveal, cut to a NEW angle, settle chrome sash
+    (
+        "Cut to a medium close on a new angle, mirror-light off the water-skin: she is already "
+        "wrapped in the mirror-chrome sash-and-collar, reaching to settle it with an easy roll "
+        "of the shoulder; gaze easing to lens.",
+        "A strong confident smile eases to lens on a slow breath, the last chrome-droplets "
+        "settling with a slow mirror glint, eyes shining direct.",
+        "She holds the strong fluid architectural look, the chrome sitting sharp over the "
+        "matte, eyes shining direct (silent here).",
+    ),
+    # F6 - spoken line, cut to a fresh angle, push-with the turn
+    (
+        "Cut to a medium chest-up on a fresh angle: she shifts her weight with an easy "
+        "six-degree turn and opens her right hand in a relaxed strong gesture as the camera "
+        "eases with her; gaze direct to lens.",
+        "She delivers \u201cI flow. I don\u2019t break.\u201d to lens with a strong knowing "
+        "smile and natural lip-sync, the chrome collar catching travelling light on its real "
+        "planes, eyes direct.",
+        "She holds the assured architectural look as the chrome set settles, the smile easing "
+        "into strong calm.",
+    ),
+    # F7 - loop close, cut back to match Frame 1 matte set
+    (
+        "Cut to a medium-wide thigh-up matched to Frame 1: she returns her right hand to rest "
+        "soft at her collarbone and settles her weight onto the back leg exactly as in Frame 1 "
+        "as the camera settles to the opening framing.",
+        "She eases her cool gaze back to lens on a slow breath with the composed calm "
+        "micro-smile, the chrome wrap resolving back toward the matte graphite opening and the "
+        "light bar re-settling cool, to seed the loop.",
+        "She lands precisely on the Frame 1 pose and gaze, cool and sculptural on the "
+        "water-skin \u2014 a seamless loop seam.",
+    ),
+]
+
+
 def build_block(beats):
     return (
         BREAKDOWN_HEADER + "\n"
