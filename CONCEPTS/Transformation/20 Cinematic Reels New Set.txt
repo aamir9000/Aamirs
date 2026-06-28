@@ -2061,7 +2061,7 @@ Hair: soft loose waves with a few wind-blown strands, color locked to reference.
 
 Makeup: sun-warmed glow: bronzed skin, a soft terracotta lip, gilded lids, real pores.
 
-Hero Movement / Impossible Move: sand-to-gown dissolve — wind-lifted desert sand swirls up and weaves into a golden gown.
+Hero Movement / Impossible Move: sand-to-gown dissolve — contained MID-CLIP at a held angle: wind-lifted desert sand swirls up and weaves into a golden gown by believable granular-then-cloth physics. Veo first/last-frame continuity (Frame 4 image = sand-toned travel Look A = first frame, Frame 5 image = golden-gown Look B = last frame); every frame join is a hard match-cut to a new angle.
 
 Mood: ROMANTIC-EPIC, warm, free.
 
@@ -2307,44 +2307,44 @@ LOOP LOGIC: the rising wind energy bridges into the transform.
 
 ## Frame 4 of 6 — IMAGE PROMPT (TRANSFORM — SPOKEN LINE)
 
-ANGLE & SHOT SIZE: front-on FULL/wide hero, a gust lifts the desert sand into a swirling column that dissolves into a golden gown around Aira, arms opening.
+ANGLE & SHOT SIZE: front-on FULL/wide hero, Aira standing on the open sand in her sand-toned travel set, arms beginning to open as the first gust lifts a low veil of sand around her — the clean Look A the clip opens on, the gown NOT yet formed.
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the START frame of the transform CLIP — render her fully in the sand-toned travel Look A (the exact still the Frame-4 video opens on, and Veo's FIRST frame): the sand-toned travel set with scarf, hat and riding boots, arms beginning to open as the first gust lifts sand low around her (the sand-to-gown dissolve NOT yet begun). The dissolve happens MID-CLIP at this same HELD angle (the camera may push-with, never an angle rotation; wind-lifted sand swirls up and weaves into the golden gown by believable granular-then-cloth physics), resolving into Frame 5's golden-gown image (Veo's LAST frame). Her face and proportions stay constant. Do NOT depict the gown forming in this still and do NOT invent a new face, new hands or new bone structure.
 
-WARDROBE: the sand-toned travel set dissolving into a flowing golden silk-chiffon gown woven of swirling sand, modest neckline and length, edges streaming.
+WARDROBE: the sand-toned travel set at its best — modest neckline and length, fully intact (the golden gown not yet formed).
 
-FOOTWEAR: riding boots dissolving to delicate gold-leather sandals.
+FOOTWEAR: riding boots planted on the open sand.
 
-EYEWEAR: amber sunglasses lifting away in the swirl (clean face for the line) or pushed up into the hair.
+EYEWEAR: amber sunglasses pushed up into the hair.
 
-ACCESSORIES: scarf and hat dissolving into the golden swirl, gold rings remaining, a fine gold waist-sash forming.
+ACCESSORIES: the travel scarf and hat, gold rings — the travel look.
 
-HAIR: loose waves lifting in the updraft, gilded by the sand-light.
+HAIR: loose waves beginning to lift in the first gust, warm in the dawn light.
 
-MAKEUP: sun-warmed glow at full gilded sheen, terracotta lip, glowing skin.
+MAKEUP: a sun-warmed glow, terracotta-touched lip, glowing skin; real pores and fine vellus texture.
 
-HANDS & NAILS: both arms opening outward as the gown forms, fingers gracefully splayed in the sand-swirl; warm-nude nails.
+HANDS & NAILS: both arms beginning to open, fingers relaxed in the rising air; warm-nude nails, neat cuticles.
 
-FACIAL MICRO-DYNAMICS: lips parting to deliver the line, a radiant awed smile, eyes wide with joy, brows lifted, cheeks high.
+FACIAL MICRO-DYNAMICS: a wondrous anticipatory gaze to the lifting sand, lips parting before the line, eyes bright — radiant and fully recognizable, identity-locked, ready for the dissolve mid-clip.
 
-BODY POSTURE & WEIGHT: mid-rise on the balls of the feet, arms blooming, torso lengthening upward — full of lifting momentum, never frozen.
+BODY POSTURE & WEIGHT: standing tall on the open sand, weight settled, arms beginning to open, torso lengthening — poised, the instant before the rise.
 
-KINETIC STILLNESS (8 layers): (1) the sand-column swirling up the body; (2) chiffon edges forming and streaming; (3) sand grains flung outward in slow arcs; (4) hair lifting in the updraft; (5) chest breathing on the line; (6) the gold sash settling; (7) a long shadow shifting; (8) lashes flaring.
+KINETIC STILLNESS (8 layers): (1) the first gust lifting a low veil of sand around her feet; (2) the vast dunes and peach-gold dawn sky behind; (3) loose waves lifting; (4) the long dawn shadow stretching; (5) chest breathing before the line; (6) the scarf edge fluttering; (7) a warm sun-glint on a gold ring; (8) lashes settling on a blink.
 
-SPATIAL LOGIC: FOREGROUND — flung sand grains, sharp. MIDGROUND — Aira and the forming gown. BACKGROUND — vast dunes and peach-gold sky, clean for the swirl to read.
+SPATIAL LOGIC: FOREGROUND — the low veil of lifting sand, tack sharp. MIDGROUND — Aira in the travel set, the hero. BACKGROUND — vast dunes and peach-gold dawn sky with the train tiny behind, carrying the world right into the frame (present, not erased).
 
-LIGHTING: KEY — low gold sun igniting the sand-swirl. FILL — warm sand bounce. RIM — sun rim lighting the chiffon translucent. PRACTICAL — dawn sun. SEPARATION — luminous gown vs dune haze. BOUNCE — sand warm kick under the arms.
+LIGHTING: KEY — low gold dawn sun. FILL — warm sand bounce. RIM — sun rim on her shoulder and waves. PRACTICAL — the dawn sun. SEPARATION — figure vs dune haze. BOUNCE — warm sand kick.
 
-LENS + DOF + BOKEH: 35mm, f/2.8; focus on Aira and forming gown; flung sand as warm bokeh; background creamy.
+LENS + DOF + BOKEH: 35mm, f/2.8; focus on Aira; the dunes and sky as soft warm bokeh, clearly reading as the desert behind.
 
-COMPOSITION: 9:16, upward sand-spiral as a dynamic S-curve, Aira centred-rising, sky headroom.
-SUBJECT FRAMING & POSITION: A front-on full/wide hero as a gust lifts the desert sand into a swirling column that dissolves into a golden gown, arms opening. The complete figure is in frame, centred and rising on the balls of the feet, arms blooming, torso lengthening upward. Camera at full/wide distance with sky headroom, the upward sand-spiral as a dynamic S-curve. She faces front, centred and rising. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+COMPOSITION: 9:16, Aira a calm vertical on the open sand, dunes sweeping back, sky headroom for the swirl to come.
+SUBJECT FRAMING & POSITION: A front-on full/wide hero, Aira standing on the open sand in the sand-toned travel Look A, the first gust lifting sand low around her — the clean still the transform clip opens on. The complete figure is in frame, centred, arms beginning to open, the dunes and dawn sky present behind. Camera at full/wide distance with sky headroom. She faces front, centred. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
-ATMOSPHERE: awe, magic, the desert itself dressing her.
+ATMOSPHERE: awe and stillness — the breath before the desert dresses her.
 
-COLOUR GRADE: vivid desert gold at peak saturation, translucent golden chiffon, glossy speculars, full mid-tone.
+COLOUR GRADE: warm desert gold balanced against soft dune haze and dawn sky (rich but controlled, never garish), glossy speculars, full mid-tone.
 
-TEXTURE & MICRO-DETAIL: translucent chiffon forming with visible weave, sand grains becoming fabric, gilded skin, hair strand detail, lip detail mid-word.
+TEXTURE & MICRO-DETAIL: sand-toned travel-set weave, fine sand grains, gilded skin, hair strand detail.
 
 NEGATIVE: (as Frame 1) plus identity drift, melted features, immodest exposure, broken sand physics, plastic skin.
 
@@ -2357,9 +2357,9 @@ SHOT TYPE & ANGLE: front-on full/wide hero, subject fills ~55%, rising in frame.
 LENS: 35mm, f/2.8.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Front-on full/wide hero: a gust is already lifting the desert sand around her into a swirling column as a crane begins to rise and orbit toward dead-front; gaze lifting with the rising sand.
-- [00:02–00:04] The sand swirls up her body and weaves into the flowing golden gown as the crane climbs; chin lifting, eyes widening in romantic awe, lips parting on a caught breath.
-- [00:04–00:06] Her arms bloom open and she turns fully to lens delivering the spoken line with a radiant smile, the gown settling in the wind, eyes alight.
+- [00:00–00:02] Cut to a front-on full/wide hero at a HELD angle (Veo first frame = the sand-toned travel Look A still): already in motion, a gentle push-with easing in as the first gust lifts a low veil of sand around her on the open dune — the travel set fully intact, the gown NOT yet formed, the dunes and dawn sky behind; gaze lifting with the rising sand.
+- [00:02–00:04] The dissolve BEGINS here, mid-clip: the wind-lifted sand swirls smoothly up her body in one continuous column and weaves into the flowing golden silk-chiffon gown exactly where it passes — believable granular-then-cloth physics, grains arcing on real paths, the desert still vast behind; chin lifting, eyes widening in romantic awe (angle held, identity locked).
+- [00:04–00:06] The swirl completes and the look settles smoothly and fully into the golden gown of Frame 5's still (Veo's LAST frame), the gown settling in the wind — she turns to lens delivering the spoken line with a radiant smile, no last-second snap.
 
 FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
@@ -2373,7 +2373,7 @@ FABRIC/HAIR/PROP PHYSICS: sand-to-chiffon transition obeys granular then cloth d
 
 FOOTWORK & BODY FLOW: a push through the feet into a tall lift, the body uncoiling like a dancer rising.
 
-TRANSITION / IMPOSSIBLE MOVE: THE hero move — wind-lifted sand swirls up and weaves into a golden gown; locked transform keyframe.
+TRANSITION / IMPOSSIBLE MOVE: THE hero move, contained mid-clip at a held angle (camera push-with, never an angle rotation) — wind-lifted desert sand swirls up and weaves into the golden gown by believable granular-then-cloth physics; Veo first frame = this frame's sand-toned travel Look A image, last frame = Frame 5's golden-gown image; every frame join is a hard match-cut to a new angle.
 
 LIGHTING-IN-MOTION: sun rim ignites the chiffon as it forms; the swirl glitters gold.
 
