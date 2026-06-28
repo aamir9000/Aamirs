@@ -2136,6 +2136,84 @@ BEATSLM[35] = [
 ]
 
 
+BEATSLM[36] = [
+    # F1 - fresh dewy rain-glow beauty hero (contained, product-at-face, SILENT), push-in
+    (
+        "Cut to a medium-close chest-up in the cool monsoon scene: she is already cradling the "
+        "misted rain-clear bottle of Monsoon Mist soft at her collarbone as a slow push eases in, "
+        "the soft rain-grey-to-teal backdrop and a sheet of soft falling rain behind her, "
+        "drifting mist; her left hand easy near her jaw.",
+        "The push settles as a rain-damp face-framing strand eases at the temple and her calm "
+        "gaze eases to lens, soft rain drifting in the cool light, a fresh serene quarter-smile "
+        "settling.",
+        "She holds the fresh dewy rain-glow look in the cool slate-teal satin wrap dress, the "
+        "satin catching the cool key, eyes calm and luminous (silent reel).",
+    ),
+    # F2 - build, cool essence drop, first ripples; rack-focus product->eye
+    (
+        "Cut to a medium-close three-quarter, a rack-focus pulling from the bottle to her eye: "
+        "she is already releasing a single cool translucent drop near her cheekbone and the "
+        "first soft ripples bloom on a wet surface around her; gaze cast soft to the drop.",
+        "The cool drop beads dewy on her cheekbone as her gaze softens with fresh anticipation "
+        "and a serene micro-smile kindles, the first ripples spreading in.",
+        "She holds the drop poised near her cheek, eyes cool and refreshed, the fresh rain-glow "
+        "look intact (silent here).",
+    ),
+    # F3 - START clean (rain gathering, ripples beginning, NO full bloom yet), slow arc
+    (
+        "Cut to a medium chest-up on a fresh three-quarter angle: she eases her hand down and "
+        "opens it soft into the gathering rain, drawing a slow cool breath as the camera arcs a "
+        "few degrees and the rain backdrop drifts behind with parallax; gaze lifting.",
+        "The arc settles as her gaze lifts to lens with rising cool freshness and a knowing "
+        "micro-smile forms, the soft sheet of rain gathering and sweeping closer and the first "
+        "dewy ripples blooming, still the fresh rain-glow look.",
+        "She holds the poised cool beat, the rain gathering and ripples spreading soft, eyes "
+        "cool and bright \u2014 the hush before the rain-bloom (silent here).",
+    ),
+    # F4 - THE TRANSFORM, HELD ANGLE, smooth mid-clip rain bloom; first=rain-glow, last=rain-kissed
+    (
+        "Cut to an ethereal medium at a HELD angle (Veo first frame = the fresh rain-glow Look A "
+        "still): she drifts both arms open from her body, already in motion \u2014 still the "
+        "fresh rain-glow look, NO full bloom yet, a gentle push-with easing in, the angle fixed "
+        "for the whole clip.",
+        "The rain-bloom BEGINS here, mid-clip: a soft sheet of rain sweeps smoothly across her "
+        "and dewy ripples bloom in concentric rings across the air and wet surfaces around her "
+        "in one continuous fresh wavefront, cool rain-beads kissing her cheekbone, shoulder and "
+        "the satin exactly where it passes \u2014 believable real rain and water-ripple physics, "
+        "droplets falling on true gravity and rings spreading by real surface tension (no cheap "
+        "sparkles), her face clear and cool-lit, eyes brightening in refreshed wonder (angle "
+        "held, identity locked).",
+        "The bloom completes and the look settles smoothly and fully into the full rain-kissed "
+        "radiant after-look of the Veo last-frame still (Frame 5's image) \u2014 a fresh dewy "
+        "rain-kissed glow set across her skin and the satin in the cool monsoon light, resolved "
+        "and held through the final beat, no last-second pop; a cool radiant calm landing in her "
+        "eyes.",
+    ),
+    # F5 - END rain-kissed reveal (silent, wordless), new angle, hand to bottle
+    (
+        "Cut to a medium close on a new angle in the fresh rain: she is already in the full "
+        "rain-kissed radiant after-look, drifting her right hand soft back toward the misted "
+        "bottle at her collarbone with an easy roll of the shoulder; gaze easing to lens.",
+        "A fresh serene wordless smile eases to lens on a cool soft breath, the last rain "
+        "drifting and a final ripple settling, eyes cool and luminous (silent reveal \u2014 no "
+        "words).",
+        "She holds the fresh radiant rain-kissed look, the dew even across her skin, eyes cool "
+        "and direct (silent here).",
+    ),
+    # F6 - loop close, cradle bottle matched to F1
+    (
+        "Cut to a medium-close chest-up matched to Frame 1: she returns her right hand to cradle "
+        "the misted rain-clear bottle soft at her collarbone and her left easy near her jaw "
+        "exactly as in Frame 1 as the camera settles to the opening framing.",
+        "She eases her cool gaze back to lens on a soft breath with the composed serene "
+        "quarter-smile, the full rain-kissed glow resolving back toward the opening fresh "
+        "rain-glow look to seed the loop.",
+        "She lands precisely on the Frame 1 pose and gaze, fresh and cool in the monsoon hush "
+        "\u2014 a seamless loop seam.",
+    ),
+]
+
+
 def build_block(beats):
     return (
         BREAKDOWN_HEADER + "\n"
