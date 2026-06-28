@@ -1206,6 +1206,93 @@ BEATSLM[14] = [
 ]
 
 
+BEATSLM[15] = [
+    # F1 - clean base Look A establishing, alive lateral track, hand near collarbone
+    (
+        "Cut to a medium-wide thigh-up tracking shot in the bold editorial studio: the camera "
+        "dollies laterally to settle on her as she settles her weight onto the back leg and "
+        "rests her right hand soft near her collarbone, the graphic dark seamless backdrop and "
+        "liquid-ink motif sliding behind with real parallax; a sharp composed quarter-smile "
+        "holding.",
+        "The track eases to rest as a laid edge of the sleek space buns catches the hard key "
+        "and she eases her bold gaze to lens, a sharp composed quarter-smile settling.",
+        "She holds, stark and poised in the clean charcoal base, the high space buns glossy, "
+        "eyes direct and graphic in the hard key (silent here).",
+    ),
+    # F2 - clean base, push-with lifting hand toward cresting ink-stroke, cut to a closer three-quarter
+    (
+        "Cut to a medium-close three-quarter: she is already lifting her right hand soft toward "
+        "the cresting ink-stroke as if to meet it, fingers gently open, as the camera pushes "
+        "with her hand; gaze toward the ink edge.",
+        "The ink-stroke crests at the frame edge as her gaze sharpens with quiet focus and a "
+        "knowing micro-smile kindles.",
+        "She holds the hand poised toward the ink, eyes bright and sharp, the clean base crisp "
+        "and intact (silent here).",
+    ),
+    # F3 - clean base clean (NO draw yet), slow arc to a fresh angle, raise hand to meet ink
+    (
+        "Cut to a medium chest-up on a fresh three-quarter angle: she raises her hand soft to "
+        "meet the ink and draws a slow breath, her left hand easing open, as the camera arcs a "
+        "few degrees and the backdrop swings behind with parallax; gaze lifting.",
+        "The arc settles as her gaze lifts to lens with rising sharp spark and a knowing "
+        "micro-smile forms, the ink-stroke cresting at the edge, still in the clean charcoal "
+        "base.",
+        "She holds the poised base beat, hand raised to meet the ink, eyes bright and graphic "
+        "\u2014 the breath before the ink draw (silent here).",
+    ),
+    # F4 - THE TRANSFORM, HELD ANGLE, smooth mid-clip ink draw; first=clean base, last=winged-liner
+    (
+        "Cut to an energized medium at a HELD angle (Veo first frame = the clean-base Look A "
+        "still): she eases her hand from meeting the ink, already in motion \u2014 still the "
+        "clean charcoal base, NO draw yet, a gentle push-with easing in, the angle fixed for "
+        "the whole clip.",
+        "The ink draw BEGINS here, mid-clip: a single travelling ink-stroke draws smoothly "
+        "across the frame in one continuous wet line, drawing her crisp winged liner and "
+        "resolving the clean charcoal base into the architectural sculptural-shoulder editorial "
+        "top in deep black exactly where the stroke passes \u2014 real liquid-ink flow and "
+        "cloth resolving with believable spread and inertia, gradual and sharp but smooth, "
+        "never a snap, no garish glare; the high space buns catching travelling graphic light, "
+        "eyes sharpening in bold focus (angle held, face cleanly lit, identity locked).",
+        "The ink-stroke completes its draw and the look settles smoothly and fully into the "
+        "bold winged-liner Look B of the Veo last-frame still (Frame 5's image) \u2014 the "
+        "architectural deep-black top with crisp graphic winged liner under the hard editorial "
+        "key, resolved and held through the final beat, no last-second pop; a sharp graphic "
+        "resolve landing in her eyes.",
+    ),
+    # F5 - winged-liner Look B reveal, cut to a NEW angle, settle the sculptural shoulder
+    (
+        "Cut to a medium close on a new angle in the sharpened graphic light: she is already in "
+        "the bold winged-liner editorial look, drifting her right hand to settle the sculptural "
+        "shoulder with an easy roll of the shoulder; gaze easing to lens.",
+        "A sharp confident smile eases to lens on a slow breath, the last ink-droplets settling "
+        "with a graphic glint, eyes sharp and direct.",
+        "She holds the bold graphic look, the architectural top sitting sharp, eyes bold and "
+        "direct (silent here).",
+    ),
+    # F6 - spoken line, cut to a fresh angle, push-with the turn
+    (
+        "Cut to a medium chest-up on a fresh angle: she shifts her weight with an easy "
+        "six-degree turn and opens her right hand in a sharp clean gesture as the camera eases "
+        "with her; gaze direct to lens.",
+        "She delivers \u201cI draw my own line.\u201d to lens with a sharp knowing smile and "
+        "natural lip-sync, the space buns crisp, eyes bold and direct.",
+        "She holds the bold graphic look as the editorial top settles, the smile easing into "
+        "sharp calm.",
+    ),
+    # F7 - loop close, cut back to match Frame 1 clean base
+    (
+        "Cut to a medium-wide thigh-up matched to Frame 1: she returns her right hand to rest "
+        "soft near her collarbone and settles her weight onto the back leg exactly as in Frame "
+        "1 as the camera settles to the opening framing.",
+        "She eases her bold gaze back to lens on a slow breath with the composed sharp "
+        "quarter-smile, the bold graphic look resolving back toward the clean charcoal-base "
+        "opening to seed the loop.",
+        "She lands precisely on the Frame 1 pose and gaze, stark and poised in the hard key "
+        "\u2014 a seamless loop seam.",
+    ),
+]
+
+
 def build_block(beats):
     return (
         BREAKDOWN_HEADER + "\n"
