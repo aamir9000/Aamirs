@@ -522,6 +522,87 @@ BEATSLM[6] = [
 ]
 
 
+BEATSLM[7] = [
+    # F1 - plain golden-light Look A establishing, alive lateral track, flacon at waist
+    (
+        "Cut to a medium-wide thigh-up tracking shot on the warm golden-hour rooftop: the "
+        "camera dollies laterally to settle on her as she steps her weight onto the back leg "
+        "and cradles the amber flacon at waist height, the hazy gold skyline and rooftop edge "
+        "sliding behind with real parallax; a warm half-smile holding.",
+        "The track eases to rest as a face-framing wisp drifts in the rooftop breeze and her "
+        "serene gaze begins to ease to lens, the low sun warm on the satin.",
+        "She holds, warm and still in the champagne-gold satin, eyes soft in the low sun, the "
+        "light plain and golden around her (silent here).",
+    ),
+    # F2 - plain light, push-with raising flacon to collarbone, cut to a closer three-quarter
+    (
+        "Cut to a medium-close three-quarter: she is already raising the flacon near her "
+        "collarbone and resting her index finger at the atomizer as the camera pushes with her "
+        "hand; gaze toward the flacon.",
+        "Her gaze softens toward the flacon as a dreamy micro-smile kindles, she drawing a slow "
+        "breath, the low sun gilding the chignon.",
+        "She holds the flacon poised at her collarbone, eyes soft and dreamy, the light still "
+        "plain golden behind (silent here).",
+    ),
+    # F3 - plain light, arc, presses atomizer (mist releasing, NO wrap yet), cut
+    (
+        "Cut to a medium chest-up on a fresh three-quarter angle: she presses the atomizer and "
+        "a fine fragrance-mist releases as the camera arcs a few degrees and the rooftop swings "
+        "behind with parallax; gaze beginning to lift.",
+        "The arc settles as her gaze lifts to lens with rising warmth and a tender micro-smile "
+        "forms, the light still plain golden-hour sun.",
+        "She holds the poised mist beat, the fine mist drifting in the low sun, eyes warm with "
+        "wonder \u2014 the breath before the wrap (silent here).",
+    ),
+    # F4 - THE TRANSFORM, HELD ANGLE, smooth mid-clip gold-dust wrap; first=plain-light, last=full-wrap
+    (
+        "Cut to an ethereal medium at a HELD angle (Veo first frame = the plain golden-light "
+        "Look A still): she eases the flacon down from the mist, already in motion \u2014 the "
+        "light still plain golden-hour sun, NO gold-dust yet, a gentle push-with easing in, the "
+        "angle fixed for the whole clip.",
+        "The wrap BEGINS here, mid-clip: from the fragrance mist the low sunbeams visibly turn "
+        "to fine gold dust and spiral smoothly around her in one continuous travelling ring, "
+        "the air and satin edges gilding exactly where the spiral passes \u2014 fine gold motes "
+        "streaming on believable airborne drift like real flecks, gradual and tender, never a "
+        "snap; eyes widening in radiant wonder (angle held, identity locked).",
+        "The gold-dust spiral completes its sweep and the scene settles smoothly and fully "
+        "into the full gold-dust-wrap Look B of the Veo last-frame still (Frame 5's image) "
+        "\u2014 fine luminous gold dust wrapped around her in the warm light, resolved and held "
+        "through the final beat, no last-second pop; a soft radiant calm landing in her eyes.",
+    ),
+    # F5 - full gold-dust-wrap Look B reveal, cut to a NEW angle, flacon to waist
+    (
+        "Cut to a medium close on a new angle in the gilded gold-dust air: she is already "
+        "lowering the flacon to rest at her waist with an easy roll of the shoulder, fine gold "
+        "motes drifting around her; gaze easing to lens.",
+        "A soft radiant smile eases to lens on a slow breath, the last gold motes settling in "
+        "the warm light, eyes soft and luminous.",
+        "She holds the serene radiant look, the gold dust drifting warm around her, eyes soft "
+        "and direct (silent here).",
+    ),
+    # F6 - spoken line, cut to a fresh angle, push-with the turn
+    (
+        "Cut to a medium chest-up on a fresh angle: she shifts her weight with an easy "
+        "six-degree turn and opens her right hand in a soft gesture as the camera eases with "
+        "her; gaze warm to lens.",
+        "She delivers \u201cSome moments just stay golden.\u201d to lens with a soft radiant "
+        "smile and natural lip-sync, eyes warm and serene.",
+        "She holds the serene look as the gold dust drifts soft, the smile easing into calm "
+        "radiance.",
+    ),
+    # F7 - loop close, cut back to match Frame 1 plain golden light
+    (
+        "Cut to a medium-wide thigh-up matched to Frame 1: she returns the amber flacon to "
+        "cradle at waist height and settles her weight onto the back leg exactly as in Frame 1 "
+        "as the camera settles to the opening framing.",
+        "She eases her serene gaze back to lens on a slow breath with the composed half-smile, "
+        "the gold-dust wrap resolving toward the plain golden-light opening to seed the loop.",
+        "She lands precisely on the Frame 1 pose and gaze, weight settled in the low sun "
+        "\u2014 a seamless loop seam.",
+    ),
+]
+
+
 def build_block(beats):
     return (
         BREAKDOWN_HEADER + "\n"

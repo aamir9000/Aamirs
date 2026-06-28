@@ -3435,7 +3435,7 @@ Footwear: elegant gold strappy heels, glimpsed beneath the maxi hem in the estab
 
 Accessories: the fragrance bottle as the hero prop (a warm amber-glass flacon catching the sun), plus a stack of fine gold bangles on one wrist; never cluttered, one statement beyond the bottle.
 
-Movement (one impossible move): the sunlight-to-gold-dust wrap — on a soft fragrance mist the low golden sunbeams turn to fine drifting gold dust that wraps around her in a single travelling spiral (the air, the light and her fabric edges gilding along the wave) while her face, chignon and pose hold locked (locked transform keyframes: START Frame 3 = plain golden light at the mist → END Frame 5 = full gold-dust wrap settled, signature beat Frame 4).
+Movement (one impossible move): the sunlight-to-gold-dust wrap — on a soft fragrance mist the low golden sunbeams turn to fine drifting gold dust that wraps around her in a single travelling spiral (the air, the light and her fabric edges gilding along the wave) while her face, chignon, gown and pose hold constant. The wrap occurs MID-CLIP inside Frame 4 at a HELD angle (the clip opens in plain golden-hour light, the sunbeams turn to gold dust mid-clip and spiral around her, settling resolved in the full gold-dust wrap); gradual and tender, never a last-second pop; the camera may travel but never shifts its angle. Continuity via Veo first/last-frame: Frame 4's image (plain-light Look A) = the FIRST frame, Frame 5's image (full-wrap Look B) = the LAST frame. Every other frame join is a hard CUT to a new angle. Frames 1–3 = plain golden light, Frame 4 = the wrap clip, Frames 5–7 = full gold-dust wrap — her gown constant throughout.
 
 Concept Line: “Some moments just stay golden.”
 
@@ -3509,9 +3509,9 @@ SHOT TYPE: medium-wide, mid-shin-up, subject fills about 52% of the vertical fra
 LENS: 35mm, f/2.0, smooth amber background fall-off.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Medium-wide thigh-up on the open city rooftop at golden hour: a slow push-in is already gliding toward her as she cradles the amber flacon at waist height and settles her weight onto the back leg, turning her face a touch into the low sun; long soft shadows and a hazy amber sky around her.
-- [00:02–00:04] The push continues as a wisp drifts in the rooftop breeze, her serene gaze beginning to ease toward lens; a warm dreamy calm in her eyes.
-- [00:04–00:06] She eases her serene gaze to lens on a slow inhale, the half-smile settling, eyes warm in the low gold light.
+- [00:00–00:02] Cut to a medium-wide thigh-up tracking shot on the warm golden-hour rooftop: the camera dollies laterally to settle on her as she steps her weight onto the back leg and cradles the amber flacon at waist height, the hazy gold skyline and rooftop edge sliding behind with real parallax; a warm half-smile holding.
+- [00:02–00:04] The track eases to rest as a face-framing wisp drifts in the rooftop breeze and her serene gaze begins to ease to lens, the low sun warm on the satin.
+- [00:04–00:06] She holds, warm and still in the champagne-gold satin, eyes soft in the low sun, the light plain and golden around her (silent here).
 
 OBJECT ACTION WITH TIMING: 0.0–6.0s — a warm specular travels slowly along a satin fold, a soft sun-flare shifts at the frame edge with the breeze, and a faint glint travels across the amber flacon. Environmental motion only, no object pop-in, the light still plain.
 
@@ -3562,7 +3562,7 @@ SUBJECT FRAMING & POSITION: A medium close framing holds Aira at about 11% headr
 
 LENS + DOF + BOKEH: 85mm, f/2.0; focus split between her near eye and the flacon atomizer so both read crisp; the sky melting to a smooth amber field; soft round blooms off the sun-flare; gentle roll-off, no clipping.
 
-COMPOSITION REFERENCE: the macro build beat — the flacon at the collarbone, the mist clearly imminent (cause building to effect).
+COMPOSITION REFERENCE: a macro flacon-at-collarbone beat — warm and poised, the wrap held for the Frame-4 clip.
 
 ATMOSPHERE: warm, dreamy, hushed — the suspended instant before the fragrance mists.
 
@@ -3583,9 +3583,9 @@ SHOT TYPE: medium close, chest-up, subject and raised flacon fill about 56% of t
 LENS: 85mm, f/2.0.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Medium close, chest-up: the slow push continues with a faint tilt-up already following her hand as she raises the flacon near her collarbone and rests her index finger at the atomizer; gaze toward the flacon.
-- [00:02–00:04] The tilt rides the flacon as her gaze softens toward it and a dreamy micro-smile kindles, she drawing a slow breath.
-- [00:04–00:06] She holds the flacon poised at her collarbone, eyes soft and dreamy, warm sun-flare behind.
+- [00:00–00:02] Cut to a medium-close three-quarter: she is already raising the flacon near her collarbone and resting her index finger at the atomizer as the camera pushes with her hand; gaze toward the flacon.
+- [00:02–00:04] Her gaze softens toward the flacon as a dreamy micro-smile kindles, she drawing a slow breath, the low sun gilding the chignon.
+- [00:04–00:06] She holds the flacon poised at her collarbone, eyes soft and dreamy, the light still plain golden behind (silent here).
 
 OBJECT ACTION WITH TIMING: 0.0–6.0s — a warm specular travels along the raised flacon glass and the first faint fragrance-shimmer breathes at the atomizer; warm haze drifts behind. Environmental and worn-object motion only, no pop-in, the light still plain.
 
@@ -3605,7 +3605,7 @@ NEGATIVE: identity drift, face or hand warp, extra or fused fingers, duplicate p
 
 ### Frame 3 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the locked START keyframe of the gold-dust wrap — face fully recognizable, the light still plain golden-hour sun, she mists the fragrance and the air just begins to charge. Lock this START so Frame 4’s gold-dust wrap interpolates cleanly to the full-wrap END (Frame 5); the locked element is HER — gild the light and air around her, never alter her face.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. SHOT NOTE: a clean plain-golden-light (Look A) beat at its OWN cut/angle — the rooftop in ordinary low golden-hour sun, the fine fragrance mist just releasing; the gold-dust wrap does NOT happen here (it happens mid-clip inside Frame 4). Build warm dreamy anticipation only.
 
 EYE COLOUR: warm dark-brown irises with faint amber flecks, a warm golden catchlight, gaze lifting to lens with rising warmth, locked to reference.
 
@@ -3631,12 +3631,12 @@ SPATIAL LOGIC: FOREGROUND — the flacon and the first mist nearest lens at roug
 
 LIGHTING: KEY — warm low golden-hour side-key from camera-right, the first gold-dust shimmer creeping in. FILL — soft warm bounce. RIM — a gold rim firing the mist into a warm glow. PRACTICAL — the sun-flare plus the first faint gold-dust luminance. SEPARATION — the sky deep so she reads about 2 stops up. BOUNCE — a soft warm kick lighting the mist.
 
-FRAMING: ASPECT 9:16; medium, chest-up, 11% headroom, the flacon entering the lower third, clean warm negative space camera-left to receive the wrap. (Camera distance locked here as the transform anchor.)
+FRAMING: ASPECT 9:16; medium, chest-up, 11% headroom, the flacon entering the lower third, clean warm negative space camera-left to receive the wrap.
 SUBJECT FRAMING & POSITION: A medium framing holds Aira at about 11% headroom, the flacon entering the lower third within the gold-hour fragrance world of warm golden light around a hero bottle. Her torso is turned about five degrees to open the right shoulder in a near-frontal address, with her weight on the back leg over a soft hip counter-tilt and the front shoulder dropped a touch. The camera holds a mid distance with the figure centred and clean clean warm negative space held camera-left. She faces front to the lens, composed and alive in the beat. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 LENS + DOF + BOKEH: 50mm, f/2.0; focus split between her near eye and the misting flacon so both read crisp; the sky melting to a smooth amber field; soft blooms off the releasing mist; gentle roll-off, no clipping.
 
-COMPOSITION REFERENCE: the suspended build beat — the mist releases and the first gold-dust motes catch the sun, the wrap clearly imminent (cause building to effect).
+COMPOSITION REFERENCE: a poised plain-light mist beat — warm and still, the wrap held for the Frame-4 clip.
 
 ATMOSPHERE: warm-charging, magical, hushed — the suspended instant before the light turns to gold dust.
 
@@ -3657,9 +3657,9 @@ SHOT TYPE: medium, chest-up, subject and misting flacon fill about 58% of the ve
 LENS: 50mm, f/2.0, smooth background fall-off.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Medium chest-up: a slow push is already gliding in as she presses the atomizer and a fine fragrance-mist releases; gaze beginning to lift.
-- [00:02–00:04] The push holds as her gaze lifts to lens with rising warmth and a tender micro-smile forms, the first gold-dust motes catching the sun.
-- [00:04–00:06] The gold-dust motes catch and a warm gold light creeps in, cueing the wrap, her gaze warm with wonder.
+- [00:00–00:02] Cut to a medium chest-up on a fresh three-quarter angle: she presses the atomizer and a fine fragrance-mist releases as the camera arcs a few degrees and the rooftop swings behind with parallax; gaze beginning to lift.
+- [00:02–00:04] The arc settles as her gaze lifts to lens with rising warmth and a tender micro-smile forms, the light still plain golden-hour sun.
+- [00:04–00:06] She holds the poised mist beat, the fine mist drifting in the low sun, eyes warm with wonder — the breath before the wrap (silent here).
 
 OBJECT ACTION WITH TIMING: 0.0–6.0s — fine mist drifts from the atomizer, the first gold-dust motes begin to catch the low sun, and a gold light edge creeps along the deck; haze curls behind. Environmental motion only, no pop-in.
 
@@ -3679,46 +3679,46 @@ NEGATIVE: identity drift, face or hand warp, extra or fused fingers, duplicate p
 
 ### Frame 4 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the one impossible move — the sunlight-to-gold-dust wrap. LOCK the START (Frame 3, face clear, plain light, mist releasing) and the END (Frame 5, full gold-dust wrap). On the fragrance wave the low sunbeams turn to fine gold dust that wraps around her in a single travelling spiral; mid-wrap the face stays clear and warmly lit (never buried) by the gold-dust glow; interpolate strictly between the locked keyframes — do NOT invent a new face, new hands or new bone structure beneath the wrap. Ethereal and luminous, true particle physics, soft not chaotic.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the START frame of the transform CLIP — render her on the warm golden-hour rooftop in PLAIN golden-hour light (Look A), she in the champagne-gold satin maxi easing the flacon down from a fine fragrance mist — the exact still the Frame-4 video opens on, and Veo's FIRST frame. The sunlight-to-gold-dust wrap happens MID-CLIP at this same HELD angle (the low sunbeams turn to gold dust and spiral around her), resolving into Frame 5's full-wrap image (Veo's LAST frame). Her gown, hair and face stay constant. Do NOT depict the gold-dust wrap in this still and do NOT invent a new face, new hands or new bone structure.
 
-EYE COLOUR: warm dark-brown irises with faint amber flecks, luminous with wonder, a warm golden catchlight, locked to reference (eye colour holds through the wrap).
+EYE COLOUR: warm dark-brown irises with faint amber flecks, a warm golden catchlight, gaze lifting into the move, locked to reference.
 
-WARDROBE (refined): the champagne-gold satin maxi catching the travelling gold-dust light along the spiral, the folds gilding warm where the wave passes, modest throughout, never revealing.
+WARDROBE: the flowing champagne-gold satin maxi dress with long sleeves and a soft high modest neckline, catching the low sun in warm speculars and lifting soft in the rooftop breeze, fully modest, intact.
 
-HAIR: the sleek low chignon catching the gold-dust light mid-wrap, the crown lit warm, the side fringe lifting soft in the wrap; colour locked beneath the glow.
+HAIR: the sleek low chignon at the nape with a soft side-swept fringe and a few face-framing wisps, polished and smooth, the low sun gilding the crown; colour locked to reference.
 
-MAKEUP: the warm base glowing in the gold-dust light, the warm bronze eye and rose-nude lip lit soft; real pores beneath.
+MAKEUP: the warm base — a warm bronze eye and a rose-nude lip, dewy real skin; real pores.
 
-FOOTWEAR: the gold strappy heels catching the gold-dust ground-light, continuity of grounding held.
+FOOTWEAR: gold strappy heels, grounded, glimpsed low.
 
-ACCESSORIES: the flacon still in hand catching the gold-dust glow, the bangles sparkling warm in the wave.
+ACCESSORIES: the amber flacon easing down in her hand, fine bangles catching the low sun.
 
-HANDS & NAILS: the right hand easing down from the mist, the left arm opening soft through the wrap; natural nail-beds in warm nude, neat cuticles, no white-knuckle tension.
+HANDS & NAILS: her right hand easing the flacon down from the mist, the left arm soft at her side; short warm-nude nails, neat cuticles, no white-knuckle tension.
 
-FACIAL MICRO-DYNAMICS: eyes luminous with wonder, a gentle parted-lip awe, a tender radiant energy — face clear and warmly lit by the gold-dust glow, identity strictly held to reference.
+FACIAL MICRO-DYNAMICS: eyes lifting with rising tender wonder, lips parting on a held breath, a soft radiant micro-smile — composed and warm, face fully recognizable and identity-locked, ready for the wrap mid-clip.
 
-BODY POSTURE & WEIGHT: mid-wrap the spine stays long and the shoulders open with soft grace, weight rolling smooth between the feet — grounded real physics, modest throughout.
+BODY POSTURE & WEIGHT: front-facing with the torso rotated about 4°, the spine long and the shoulders soft as the weight settles on the back leg, chin level — grounded real physics, the still warm centre before the wrap.
 
-KINETIC STILLNESS (8 layers): (1) the gold-dust spiral rolling out from the mist in a soft travelling ring; (2) fine gold motes streaming around her along the spiral; (3) the chignon and satin catching travelling gold-dust light mid-wrap; (4) the low sunbeams visibly turning to drifting gold as they pass her; (5) the air gilding warm where the plain light was; (6) speculars multiplying warm along the satin edges; (7) the sun key warming richer through the wrap; (8) her chest mid a slow wondering breath.
+KINETIC STILLNESS (8 layers): (1) a face-framing wisp drifting in the rooftop breeze; (2) the satin lifting soft in the warm air; (3) the hazy gold skyline holding still behind; (4) the low sun glinting warm on the satin folds; (5) chest rising on a soft inhale; (6) the fine fragrance-mist drifting from the flacon; (7) the chignon crown gilding in the low sun; (8) a slow eyelash settle completing a calm blink.
 
-SPATIAL LOGIC: FOREGROUND — the flacon and the nearest streaming gold motes nearest lens, soft. MIDGROUND — Aira mid-wrap, the gold spiral around her, the hero. BACKGROUND — the sky gilding gold-luminous with a soft glow.
+SPATIAL LOGIC: FOREGROUND — the flacon and the drifting mist nearest lens at roughly 18% depth, soft. MIDGROUND — Aira centred, the warm hero before the wrap. BACKGROUND — the hazy gold skyline and rooftop edge softly defocused, sunlit, with clean separation, no clutter.
 
-LIGHTING: KEY — the sun key warming richer as the gold-dust glow rises. FILL — soft warm bounce. RIM — a bright gold rim raking the satin edges and the chignon (hero light on the wrap). PRACTICAL — the gold-dust luminance flaring soft along the spiral. SEPARATION — the gold-dust glow and faint haze. BOUNCE — warm kicks multiplying across the gold motes.
+LIGHTING: KEY — a warm low-sun key feathered above-front. FILL — a soft warm bounce below. RIM — a warm rim skimming the chignon and satin edges. PRACTICAL — the low golden-hour sun. SEPARATION — the skyline pulled deep so she reads about 2 stops up. BOUNCE — a soft gold kick on the satin.
 
-FRAMING: ASPECT 9:16; ethereal medium, Aira centred with the gold spiral filling the frame, 10% headroom, slight push for intimacy. (Camera distance locked to Frames 3 and 5.)
-SUBJECT FRAMING & POSITION: An ethereal medium framing holds Aira at about 10% headroom, the gold spiral entering the lower third within the gold-hour fragrance world of warm golden light around a hero bottle. Her torso is turned about five degrees to open the right shoulder in a near-frontal address, with her weight on the back leg over a soft hip counter-tilt and the front shoulder dropped a touch. The camera holds a mid distance with the figure centred and clean negative space held camera-left. She faces front to the lens, composed and alive in the beat. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+FRAMING: ASPECT 9:16; ethereal medium, Aira centred against the warm gold skyline, 10% headroom — its own distinct cut/angle.
+SUBJECT FRAMING & POSITION: An ethereal medium framing holds Aira at about 10% headroom on the golden-hour rooftop, the light still plain golden-hour sun as the transform clip begins. Her torso is turned about five degrees to open the right shoulder, with her weight on the back leg over a soft hip counter-tilt. The camera holds a mid distance on its own fresh angle, a hard cut from Frame 3, with Aira the centred hero and clean negative space held camera-left, facing front to the lens. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
-LENS + DOF + BOKEH: 50mm, f/2.0; her face and the nearest gold motes tack sharp at the wrap-core, the farthest motes melting into a soft creamy bokeh with warm specular blooms.
+LENS + DOF + BOKEH: 50mm, f/2.0; her face and the flacon tack sharp, the skyline melting into a smooth warm-gold field with soft blooms; gentle highlight roll-off, no clipping.
 
-COMPOSITION REFERENCE: the signature impossible beat — a sunlight-to-gold-dust wrap, ethereal and luminous, heightened but identity-locked (transform logic / identity-through-transform).
+COMPOSITION REFERENCE: the start of the signature beat — plain golden-light Look A, warm and dreamy, the wrap held for the video's mid-clip.
 
-ATMOSPHERE: ethereal, magical, breathtaking — the moment golden-hour light becomes a spiral of gold dust around her.
+ATMOSPHERE: warm, dreamy, still — the golden-hour instant the transform clip begins.
 
-COLOR GRADE: a live gild from honeyed amber to radiant gold-dust — honeyed cores giving way to fine luminous gold and a warm sun kiss, clean uncrushed shadows, true specularity, balanced mid-tone (no harsh contrast, no garish oversaturation).
+COLOR GRADE: a warm honeyed-amber golden-hour grade — rich honey, warm sun highlights, clean uncrushed shadows, balanced mid-tone, no harsh contrast, no garish oversaturation.
 
-TEXTURE & MICRO-DETAIL: the streaming motes read as fine real gold-dust flecks; the satin reads as real warm weave catching travelling light; the gold-dust light reads as real on living skin; skin reads real with pores beneath the glow.
+TEXTURE & MICRO-DETAIL: the satin reads as real warm champagne weave catching the low sun; real skin micro-texture with peach-fuzz catching the warm rim; faint rooftop haze drifting real through the light.
 
-PHYSICS: true particle-wrap physics — gold motes streaming with believable airborne drift and inertia; the wrap obeys a single travelling spiral; face geometry constant; no melting, no invented anatomy.
+PHYSICS: gravity-true satin drape and wisp movement; the fragrance-mist drifts on slow convection; the sun key is a single source; weight grounded through both feet — no floating, no stiffness.
 
 NEGATIVE: mirrored, flipped, inverted, extra limbs, fused fingers, melted features, asymmetric eyes (unintentional), garbled text, floating shadows, duplicated subjects, low-res patches, plastic skin, over-smoothed skin, oversharpened, AI-generated artifacts, watermarks, signature, deformed hands, malformed teeth, joint cuts at ankle/knee/wrist/elbow/neck, amputated fingertips, cross-eyed, lazy eye, off-axis pupils, melted clothing, mismatched footwear, mannequin-stiff posture, dead eyes, statue-frozen energy, crushed muddy blacks, garish oversaturation, flat dull light, inventing a new face beneath the wrap, eye-colour drift, sexualization, de-aging.
 
@@ -3728,12 +3728,12 @@ IDENTITY (locked): Aira — same person every frame; face, bone structure, eye s
 
 SHOT TYPE: ethereal medium of the sunlight-to-gold-dust wrap (the hero move).
 
-LENS: 50mm, f/2.0. (Transform-anchor distance — matches Frames 3 and 5.)
+LENS: 50mm, f/2.0.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Energized medium: the push is already easing into a smooth gentle orbit as the gold-dust spiral rolls out and the nearest sunbeams turn to gold; gaze lifting into the wrap.
-- [00:02–00:04] The orbit rides the hero beat as the wrap spirals the gold dust around her along its front, fine motes streaming and the chignon catching travelling light (face clear, warmly lit, identity locked); eyes widening in radiant warmth.
-- [00:04–00:06] The wrap settles toward the full gold-dust wrap as the orbit eases; a soft radiant calm landing, eyes luminous.
+- [00:00–00:02] Cut to an ethereal medium at a HELD angle (Veo first frame = the plain golden-light Look A still): she eases the flacon down from the mist, already in motion — the light still plain golden-hour sun, NO gold-dust yet, a gentle push-with easing in, the angle fixed for the whole clip.
+- [00:02–00:04] The wrap BEGINS here, mid-clip: from the fragrance mist the low sunbeams visibly turn to fine gold dust and spiral smoothly around her in one continuous travelling ring, the air and satin edges gilding exactly where the spiral passes — fine gold motes streaming on believable airborne drift like real flecks, gradual and tender, never a snap; eyes widening in radiant wonder (angle held, identity locked).
+- [00:04–00:06] The gold-dust spiral completes its sweep and the scene settles smoothly and fully into the full gold-dust-wrap Look B of the Veo last-frame still (Frame 5's image) — fine luminous gold dust wrapped around her in the warm light, resolved and held through the final beat, no last-second pop; a soft radiant calm landing in her eyes.
 
 OBJECT ACTION WITH TIMING: 0.0–6.0s — the fragrance wave turns the low sunbeams to fine gold dust that wraps around her in a single travelling spiral, the air gilding gold where the plain light was, fine motes sparkling along the wave. One coherent transform, no extra objects, no pop-in.
 
@@ -3753,7 +3753,7 @@ NEGATIVE: identity drift, face or hand warp, extra or fused fingers, duplicate p
 
 ### Frame 5 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the locked END keyframe of the wrap; it must resolve continuously out of the START keyframe in Frame 3 — same face, same hands, same camera distance, the plain light now fully gilded to gold dust. Do NOT invent a new face, new hands or new bone structure; this is the same Aira, radiant and serene, never replaced. Frame 3 (START) and Frame 5 (END) are the two anchors of the single transform.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. SHOT NOTE: this is the full gold-dust-wrap Look B reveal at its OWN cut/angle (a hard cut from the Frame-4 wrap clip — a new angle/crop, and the Veo last-frame the wrap resolves into). It carries the resolved gold-dust wrap the Frame-4 clip ends on; the angle change masks any slight variation. Same Aira, radiant and serene, never replaced — do NOT invent a new face, new hands or new bone structure.
 
 EYE COLOUR: warm dark-brown irises with faint amber flecks, a warm golden catchlight, gaze soft and direct, locked to reference (unchanged through the wrap).
 
@@ -3779,12 +3779,12 @@ SPATIAL LOGIC: FOREGROUND — the nearest settling gold motes and the flacon nea
 
 LIGHTING: KEY — a warm rich sun key feathered from camera-right, now kissed by gold-dust glow. FILL — soft warm bounce. RIM — a bright gold rim skimming the chignon and the shoulder to separate her from the gold dust. PRACTICAL — the gold-dust luminance all around. SEPARATION — the sky glowing so she still reads about 2 stops up. BOUNCE — a soft warm kick on the satin.
 
-FRAMING: ASPECT 9:16; medium close, chest-up, 11% headroom, the flacon entering the lower third, clean gold-glow negative space camera-left. (Camera distance matches Frames 3 and 4.)
+FRAMING: ASPECT 9:16; medium close, chest-up, 11% headroom, the flacon entering the lower third, clean gold-glow negative space camera-left.
 SUBJECT FRAMING & POSITION: A medium close framing holds Aira at about 11% headroom, the flacon entering the lower third within the gold-hour fragrance world of warm golden light around a hero bottle. Her torso is turned about five degrees to open the right shoulder in a near-frontal address, with her weight on the back leg over a soft hip counter-tilt and the front shoulder dropped a touch. The camera holds an intimate beauty distance with the figure centred and clean clean gold-glow negative space held camera-left. She faces front to the lens, composed and alive in the beat. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 LENS + DOF + BOKEH: 50mm, f/2.0; focus split between her near eye and the nearest gold motes so both read crisp; the sky melting to a soft gold-luminous field; soft round blooms off the gold-dust glow; gentle roll-off, no clipping.
 
-COMPOSITION REFERENCE: the radiant reveal — the gold dust fully wrapped around her, ethereal and serene, identity-locked (transform resolved).
+COMPOSITION REFERENCE: the full gold-dust-wrap reveal — gilded and luminous, ethereal and serene, identity-locked (a match-cut from the Frame-4 wrap).
 
 ATMOSPHERE: radiant, serene, dreamlike — the soft beat after the light has wrapped her in gold.
 
@@ -3802,12 +3802,12 @@ IDENTITY (locked): Aira — same person every frame; face, bone structure, eye s
 
 SHOT TYPE: medium close, chest-up, subject and nearest gold dust fill about 56% of the vertical frame.
 
-LENS: 50mm, f/2.0. (Transform-anchor distance — matches Frames 3 and 4.)
+LENS: 50mm, f/2.0.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Medium close, chest-up: the orbit is already easing back to a slow push as the wrap settles and she lowers the flacon to rest at her waist with an easy roll of the shoulder; gaze easing to lens.
-- [00:02–00:04] The push settles as a soft radiant smile eases to lens on a slow breath, the last gold motes settling in the warm air.
-- [00:04–00:06] She holds the serene radiant look, the gilded air breathing soft around her, eyes warm and direct.
+- [00:00–00:02] Cut to a medium close on a new angle in the gilded gold-dust air: she is already lowering the flacon to rest at her waist with an easy roll of the shoulder, fine gold motes drifting around her; gaze easing to lens.
+- [00:02–00:04] A soft radiant smile eases to lens on a slow breath, the last gold motes settling in the warm light, eyes soft and luminous.
+- [00:04–00:06] She holds the serene radiant look, the gold dust drifting warm around her, eyes soft and direct (silent here).
 
 OBJECT ACTION WITH TIMING: 0.0–6.0s — the gilded air settles and breathes soft, a warm specular travels along the satin, and the last gold motes drift down and fade; clean warm air drifts behind. Environmental motion only, no pop-in.
 
@@ -3879,9 +3879,9 @@ SHOT TYPE: medium, chest-up, subject fills about 56% of the vertical frame.
 LENS: 35mm, f/2.2.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Medium chest-up: a slow push is already gliding in as she shifts her weight with an easy six-degree turn and opens her right hand in a soft gesture; gaze warm to lens.
+- [00:00–00:02] Cut to a medium chest-up on a fresh angle: she shifts her weight with an easy six-degree turn and opens her right hand in a soft gesture as the camera eases with her; gaze warm to lens.
 - [00:02–00:04] She delivers “Some moments just stay golden.” to lens with a soft radiant smile and natural lip-sync, eyes warm and serene.
-- [00:04–00:06] She holds the serene look as the gilded air breathes soft, the smile easing into calm warmth.
+- [00:04–00:06] She holds the serene look as the gold dust drifts soft, the smile easing into calm radiance.
 
 OBJECT ACTION WITH TIMING: 0.0–4.8s — the satin sways gently with the shift, the gold bangles chime a hair on real inertia, and a warm specular travels along the satin; gilded air breathes behind. Environmental and worn-object motion only, no pop-in.
 
@@ -3927,7 +3927,7 @@ SPATIAL LOGIC: FOREGROUND — the cradled flacon at roughly 20% depth, tack shar
 
 LIGHTING: KEY — a soft key easing from gold-dust glow back toward the warm Frame-1 golden-hour key at the seam. FILL — soft warm bounce. RIM — a rim on the chignon easing from bright gold back toward the Frame-1 gold. PRACTICAL — the sun-flare re-settling, the gold-dust luminance fading. SEPARATION — the sky deep so she reads about 2 stops up. BOUNCE — a soft warm kick on the satin.
 
-FRAMING: ASPECT 9:16; medium-wide, mid-shin-up with the heels glimpsed low, 12% headroom — matched to Frame 1 for the seamless loop. (Camera distance returns to Frame 1.)
+FRAMING: ASPECT 9:16; medium-wide, mid-shin-up with the heels glimpsed low, 12% headroom — matched to Frame 1 for the seamless loop.
 SUBJECT FRAMING & POSITION: A medium-wide framing recovers the exact opening composition at about 12% headroom, matched to Frame 1 for a seamless loop within the gold-hour fragrance world of warm golden light around a hero bottle. Her torso is turned about five degrees to open the right shoulder in a near-frontal address, with her weight on the back leg over a soft hip counter-tilt and the front shoulder dropped a touch, returned precisely to the opening stance. The camera settles to a mid-wide distance with the figure centred and clean negative space held camera-left. She faces front to the lens, matched precisely for the loop. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 LENS + DOF + BOKEH: 35mm, f/2.0; focus split between her near eye and the cradled flacon so both read crisp (matching Frame 1); the sky melting to a warm amber field; gentle roll-off, no clipping.
@@ -3953,8 +3953,8 @@ SHOT TYPE: medium-wide, mid-shin-up, subject fills about 52% of the vertical fra
 LENS: 35mm, f/2.0. (Returns to Frame 1 distance.)
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Medium-wide thigh-up matching Frame 1: the orbit is already easing to rest as a slow push resolves toward the opening framing and she returns the flacon to cradle at waist height, settling her weight onto the back leg exactly as in Frame 1.
-- [00:02–00:04] The push settles as she eases her serene gaze back to lens on a slow breath with the composed half-smile, the gilded air resolving toward the clear golden-hour opening.
+- [00:00–00:02] Cut to a medium-wide thigh-up matched to Frame 1: she returns the amber flacon to cradle at waist height and settles her weight onto the back leg exactly as in Frame 1 as the camera settles to the opening framing.
+- [00:02–00:04] She eases her serene gaze back to lens on a slow breath with the composed half-smile, the gold-dust wrap resolving toward the plain golden-light opening to seed the loop.
 - [00:04–00:06] She lands precisely on the Frame 1 pose and gaze, weight settled in the low sun — a seamless loop seam.
 
 OBJECT ACTION WITH TIMING: 0.0–6.0s — the gilded air eases back toward the plain golden-light presentation around her, a warm specular travels along a satin fold where the gold-dust light once ran, the sun-flare re-settles, and the last gold-dust air fades to seed the loop. Environmental motion only, no pop-in.
