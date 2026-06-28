@@ -2800,6 +2800,87 @@ BEATSLM[43] = [
 ]
 
 
+BEATSLM[44] = [
+    # F1 - '70s disco-glam hero (contained, product-at-face), push-in
+    (
+        "Cut to a medium-close chest-up in the '70s disco lounge: she is already cradling the "
+        "faceted mirrored-glass Disco bottle at her collarbone as a slow push eases in, the "
+        "warm-gold dancefloor and a spinning mirror-ball scattering soft light-shards behind "
+        "her, glowing disco haze; her left hand easy near her jaw.",
+        "The push settles as a feathered flick bounces in the warm air and her warm gaze eases "
+        "to lens, a gold shard drifting across, a playful groovy quarter-smile settling.",
+        "She holds the '70s disco-glam look in the gold-sequined mock-neck top, the sequins "
+        "catching a thousand warm glints, eyes warm and direct (the line lands later).",
+    ),
+    # F2 - build, glow-oil glide, first shards; rack-focus product->eye
+    (
+        "Cut to a medium-close three-quarter, a rack-focus pulling from the bottle to her eye: "
+        "she is already gliding the shimmer glow-oil soft along her cheekbone and the first "
+        "golden mirror-ball shards begin to scatter across the scene around her; gaze cast soft "
+        "to the bottle.",
+        "The glow-oil catches a warm golden sheen on her cheekbone as her gaze warms with "
+        "playful delight and a knowing micro-smile kindles, more light-shards sweeping in.",
+        "She holds the bottle poised near her cheek, eyes warm and groovy, the disco-glam look "
+        "intact (silent here).",
+    ),
+    # F3 - START clean (shards gathering, NO full scatter yet), slow arc
+    (
+        "Cut to a medium chest-up on a fresh three-quarter angle: she eases the bottle down and "
+        "opens her hand soft as the first golden light-shards sweep and scatter, drawing a slow "
+        "warm breath as the camera arcs a few degrees and the dancefloor swings behind with "
+        "parallax; gaze lifting.",
+        "The arc settles as her gaze lifts to lens with rising groovy joy and a knowing "
+        "micro-smile forms, the spinning mirror-ball beginning to scatter a swirl of golden "
+        "shards across her and the scene, her single face clear and unshard-covered, still the "
+        "disco-glam look.",
+        "She holds the poised groovy beat, the shards sweeping soft around her, eyes warm and "
+        "bright \u2014 the hush before the mirror-ball scatter (silent here).",
+    ),
+    # F4 - THE TRANSFORM, HELD ANGLE, smooth mid-clip mirror-ball scatter (NOT her face); first=disco-glam, last=shard-scattered
+    (
+        "Cut to an energized medium at a HELD angle (Veo first frame = the '70s disco-glam Look "
+        "A still): she holds her disco look, already in motion \u2014 only a few soft shards "
+        "drifting, NO full scatter yet, a gentle push-with easing in, the angle fixed for the "
+        "whole clip.",
+        "The mirror-ball scatter BEGINS here, mid-clip: the spinning mirror-ball scatters a "
+        "swirl of golden light-shards across her and the scene in sweeping arcs in one "
+        "continuous turning pattern, bright specular dots travelling across the dancefloor, the "
+        "sequins and her shoulder exactly where they sweep \u2014 believable real mirror-ball "
+        "optics (a faceted mirror reflecting a real light into moving specular shards at the "
+        "ball's true spin-rate, no cheap sparkles), her single face clear and locked (NEVER "
+        "shard-covered, replaced or duplicated), eyes warming in groovy delight (angle held, "
+        "identity locked).",
+        "The scatter completes and the look settles smoothly and fully into the full "
+        "shard-scattered after-look of the Veo last-frame still (Frame 5's image) \u2014 a swirl "
+        "of golden mirror-ball shards sweeping around her single locked face in the warm disco "
+        "lounge, resolved and held through the final beat, no last-second pop; a warm groovy "
+        "calm landing in her eyes.",
+    ),
+    # F5 - END shard-scattered reveal, hand to bottle, spoken line
+    (
+        "Cut to a medium close on a new angle in the glowing disco haze: she is already in the "
+        "full shard-scattered look, easing her right hand back toward the mirrored-glass bottle "
+        "at her collarbone with an easy roll of the shoulder, her single face clear and "
+        "unshard-covered; gaze warm to lens.",
+        "She delivers \u201cborn to shine.\u201d to lens with a playful groovy smile and natural "
+        "lip-sync, golden shards sweeping soft across her, eyes warm and shining.",
+        "She holds the shard-scattered groovy look, her single face clear and the bottle cradled "
+        "soft, eyes warm and direct.",
+    ),
+    # F6 - loop close, cradle bottle matched to F1
+    (
+        "Cut to a medium-close chest-up matched to Frame 1: she returns her right hand to cradle "
+        "the faceted mirrored-glass Disco bottle soft at her collarbone and her left easy near "
+        "her jaw exactly as in Frame 1 as the camera settles to the opening framing.",
+        "She eases her warm gaze back to lens on a slow breath with the composed groovy "
+        "quarter-smile, the full shard-scatter resolving back toward the opening disco-glam look "
+        "to seed the loop.",
+        "She lands precisely on the Frame 1 pose and gaze, warm and groovy in the disco lounge "
+        "\u2014 a seamless loop seam.",
+    ),
+]
+
+
 def build_block(beats):
     return (
         BREAKDOWN_HEADER + "\n"

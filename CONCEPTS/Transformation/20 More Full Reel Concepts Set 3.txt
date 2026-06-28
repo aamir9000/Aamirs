@@ -5606,7 +5606,7 @@ Hair: AP — a '70s feathered flip blowout with bouncy curtain bangs and feather
 
 Makeup: AQ — '70s disco glam: a warm bronze-gold shimmer lid, glowing golden skin, a warm peach-bronze blush, a glossy warm-bronze lip, a gold-glitter highlight on the high points, defined lashes, soft-set brows, real pores
 
-Movement: macro glow-oil glide → mirror-ball light-shard scatter transform (the one impossible move) — a spinning mirror-ball scatters a swirl of golden light-shards across her and the scene in slow arcs while her single face stays clear and locked (never shard-covered or replaced)
+Movement: mirror-ball light-shard scatter transform (the one impossible move) — a spinning mirror-ball scatters a swirl of golden light-shards across her and the scene in sweeping arcs while her single face stays clear and locked (never shard-covered or replaced), CONTAINED mid-clip inside Frame 4 at a HELD angle (begins mid-clip, scatters smoothly, never an instant snap; believable real mirror-ball optics — a faceted mirror reflecting a real light into moving specular shards at the ball's true spin-rate, no cheap sparkles). Veo first/last-frame continuity (Frame 4 image = '70s disco-glam Look A with no full scatter = first frame, Frame 5 image = full shard-scattered Look B = last frame); every frame join is a hard match-cut to a new angle. (Beauty-still — contained product-at-face pose held per M.6.)
 
 Concept Line: "born to shine"
 
@@ -5672,9 +5672,9 @@ SHOT TYPE: medium close, chest-up, subject fills about 55% of the vertical frame
 LENS: 50mm, f/2.0, smooth warm-gold background fall-off.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Medium close chest-up in the '70s disco lounge: a slow push-in is already gliding toward her as she tilts the faceted bottle a few degrees into the key, gold speculars sliding along the cap and the shimmer oil settling; gaze lowered to the bottle, the mirror-ball scattering a faint shard behind her.
-- [00:02–00:04] The push continues as she lifts her warm gaze to lens on a soft inhale and a playful groovy quarter-smile blooms, warm-gold disco haze around her.
-- [00:04–00:06] She holds, warm and groovy, her single face clear and locked, eyes warm, a gold shard drifting across the dancefloor glow.
+- [00:00–00:02] Cut to a medium-close chest-up in the '70s disco lounge: she is already cradling the faceted mirrored-glass Disco bottle at her collarbone as a slow push eases in, the warm-gold dancefloor and a spinning mirror-ball scattering soft light-shards behind her, glowing disco haze; her left hand easy near her jaw.
+- [00:02–00:04] The push settles as a feathered flick bounces in the warm air and her warm gaze eases to lens, a gold shard drifting across, a playful groovy quarter-smile settling.
+- [00:04–00:06] She holds the '70s disco-glam look in the gold-sequined mock-neck top, the sequins catching a thousand warm glints, eyes warm and direct (the line lands later).
 
 AUDIO: diegetic only, no in-clip music. Ambient bed — a low lounge room tone and a faint disco-floor hum throughout. SFX — a soft glass-tap as her fingers settle on the bottle at 0.6s (gentle attack, short tail), a faint sequin shimmer-shift at 2.4s, a soft mirror-ball whir-swell at 3.9s timed to the gaze-lift. Reaction — a soft warm breath at 3.0s. The master track sits low — a funky bassline and soft hi-hat just kindling under the room tone (present, never full). VO — none this frame.
 
@@ -5713,7 +5713,7 @@ SUBJECT FRAMING & POSITION: A medium close framing holds Aira from the chest up 
 
 LENS + DOF + BOKEH: 50mm, f/2.0; focus split between her near eye and the glowing cheekbone so both read crisp; the background melting to deep creamy warm-gold with scattered shard-bokeh; soft gold blooms off the first shard; gentle roll-off, no clipping.
 
-COMPOSITION REFERENCE: the warm groovy build beat — a glow-oil glide and first light-shard, the scatter clearly imminent (BA.3 cause building to effect).
+COMPOSITION REFERENCE: a macro glow-oil glide build beat — warm and groovy and poised, the mirror-ball scatter held for the Frame-4 clip.
 
 ATMOSPHERE: groovy, warm, charged — the glittering instant before the mirror-ball scatters its shards around her.
 
@@ -5732,9 +5732,9 @@ SHOT TYPE: medium close, chest-up, subject and raised applicator fill about 58% 
 LENS: 50mm, f/2.0.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Medium close: the slow push continues with a faint tilt-up already following her hand as she raises the glow-oil applicator near her cheekbone and glides a warm golden shimmer drop along the high point, a gold glint travelling; gaze warm to the touch.
-- [00:02–00:04] The first light-shard drifts and glints near her shoulder, her eyes warming with groovy focus (her single face stays clear and locked).
-- [00:04–00:06] The shimmer settles to a gold sheen, a shard arcing, lashes lowering in groovy warmth.
+- [00:00–00:02] Cut to a medium-close three-quarter, a rack-focus pulling from the bottle to her eye: she is already gliding the shimmer glow-oil soft along her cheekbone and the first golden mirror-ball shards begin to scatter across the scene around her; gaze cast soft to the bottle.
+- [00:02–00:04] The glow-oil catches a warm golden sheen on her cheekbone as her gaze warms with playful delight and a knowing micro-smile kindles, more light-shards sweeping in.
+- [00:04–00:06] She holds the bottle poised near her cheek, eyes warm and groovy, the disco-glam look intact (silent here).
 
 AUDIO: diegetic only. Ambient — low lounge room tone and a faint disco-floor hum throughout. SFX — a soft oil-glide whisper at 0.9s, a faint applicator tick at 2.1s, a soft shard shimmer-chime at 4.5s (gentle attack, soft tail). Reaction — a soft focused breath at 3.0s. The master track lifts a touch — a funky bassline and four-on-the-floor kick rising under the SFX (present, never full). VO — none this frame.
 
@@ -5748,7 +5748,7 @@ NEGATIVE: identity drift, face or hand warp, extra or fused fingers, duplicate p
 
 ## Frame 3 of 6 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the locked START keyframe of the mirror-ball light-shard scatter transform — face fully recognizable and SINGLE, still the '70s disco look, the mirror-ball now spinning up and the first golden light-shards gathering into a glittering swirl that begins to drift around her. The shards scatter in the air around her; her one face, one head and one body are never shard-covered, traced over, duplicated or replaced. Lock this START so Frame 4's scatter interpolates cleanly to the full shard-swept END (Frame 5).
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. SHOT NOTE: a clean '70s disco-glam (Look A) beat at its OWN cut/angle — the '70s disco look fully intact and her face SINGLE, the mirror-ball just spinning up and the first golden light-shards beginning to gather into a glittering swirl that starts to drift around her; the full shard-scatter does NOT happen here (it happens mid-clip inside Frame 4). The shards scatter in the air around her; her one face, one head and one body are never shard-covered, duplicated or replaced. Build playful groovy anticipation only.
 
 WARDROBE: the '70s gold-sequined mock-neck long-sleeve top, continuity-locked, the sequins beginning to catch the gathering shard-light, the modest neckline pristine, fully modest, zero snags.
 
@@ -5773,7 +5773,7 @@ SUBJECT FRAMING & POSITION: A medium framing holds Aira from the chest up with a
 
 LENS + DOF + BOKEH: 50mm, f/2.0; focus split between her near eye and the nearest shard so both read crisp; the background melting to deep creamy warm-gold with scattered shard-bokeh; soft gold blooms off the shards; gentle roll-off, no clipping.
 
-COMPOSITION REFERENCE: the warm suspended build beat — mirror-ball spins up and shards gather, the scatter clearly imminent (BA.3 cause building to effect).
+COMPOSITION REFERENCE: a poised warm groovy beat, the mirror-ball spinning up and shards gathering — groovy and joyful, the mirror-ball scatter held for the Frame-4 clip.
 
 ATMOSPHERE: groovy, warm, charged — the glittering instant before the shards scatter full around her.
 
@@ -5792,9 +5792,9 @@ SHOT TYPE: medium, chest-up, subject and gathering shards fill about 60% of the 
 LENS: 50mm, f/2.0, smooth warm-gold background fall-off.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Medium chest-up: a slow arc is already drifting around her as she lowers the applicator a touch and the mirror-ball spins up and golden light-shards gather into a glittering swirl; gaze following the arcing shards.
-- [00:02–00:04] The arc eases round as the first shard arcs at her shoulder, her eyes warming with groovy joy.
-- [00:04–00:06] The swirl tightens and glitters brighter, cueing the scatter, her gaze lifting a degree.
+- [00:00–00:02] Cut to a medium chest-up on a fresh three-quarter angle: she eases the bottle down and opens her hand soft as the first golden light-shards sweep and scatter, drawing a slow warm breath as the camera arcs a few degrees and the dancefloor swings behind with parallax; gaze lifting.
+- [00:02–00:04] The arc settles as her gaze lifts to lens with rising groovy joy and a knowing micro-smile forms, the spinning mirror-ball beginning to scatter a swirl of golden shards across her and the scene, her single face clear and unshard-covered, still the disco-glam look.
+- [00:04–00:06] She holds the poised groovy beat, the shards sweeping soft around her, eyes warm and bright — the hush before the mirror-ball scatter (silent here).
 
 AUDIO: diegetic only, no VO this frame. Ambient — low lounge room tone and a faint disco-floor hum throughout. SFX — the soft settle of the lowering applicator at 0.8s, a soft shard-gather shimmer-swell at 2.4s, a bright shimmer-chime at 4.5s as the first shard locks (gentle attack, soft tail). Reaction — a soft delighted breath at 2.1s. The master track sits low — a funky bassline and four-on-the-floor kick under the SFX (present, never full).
 
@@ -5808,38 +5808,38 @@ NEGATIVE: identity drift, face or hand warp, extra or fused fingers, duplicate p
 
 ## Frame 4 of 6 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the one impossible move — the mirror-ball light-shard scatter. LOCK the START (Frame 3, single face clear, '70s disco, shards gathering) and the END (Frame 5 open, full shard-swept radiant after-look). Mid-scatter a swirl of golden light-shards leaps and scatters in slow glittering arcs around her; her one face, one head and one body stay clear, single and recognizable, softly framed (never shard-covered, never buried) by the scattering shards; interpolate strictly between the locked keyframes — do NOT invent a new face, do NOT duplicate her face, do NOT invent new hands or new bone structure beneath the light-shards. Groovy and joyful, real reflected-light physics, mesmerizing not chaotic.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the START frame of the transform CLIP — render her fully in the '70s disco-glam Look A (the exact still the Frame-4 video opens on, and Veo's FIRST frame): the gold-sequined mock-neck top in the '70s disco lounge, her single face clear and centred, the mirror-ball spinning up with only a few soft golden shards just beginning to drift across the scene (NO full scatter yet). The mirror-ball light-shard scatter happens MID-CLIP at this same HELD angle (the camera may push or travel with her but never rotates its angle; the spinning mirror-ball scatters a swirl of golden light-shards across her and the scene by believable real mirror-ball optics — a faceted mirror reflecting a real light into moving specular shards at the ball's true spin-rate, no cheap sparkles; the shards sweep the air, never her face), resolving into Frame 5's full shard-scattered after-look image (Veo's LAST frame). Her one face, one head, one body, hair and proportions stay constant. Do NOT depict the full scatter in this still, do NOT shard-cover or duplicate her face, and do NOT invent a new face, new hands or new bone structure.
 
-WARDROBE (refined): the '70s gold-sequined top catching the scatter at its glittering peak as the shards arc — sequins flaring with travelling gold glints, fully modest, never revealing.
+WARDROBE: the '70s gold-sequined mock-neck long-sleeve top with full modest coverage, the sequins catching a thousand tiny travelling glints with one brighter sheen band, fully modest, fully intact (the full scatter not yet swept).
 
-HAIR: the feathered flip catching a sweeping arc of shard-light mid-motion, the curtain bangs holding, strands lit gold-clean; color locked beneath the gloss.
+HAIR: a '70s feathered flip blowout with bouncy curtain bangs and feathered flicks, voluminous and glossy; color locked to reference.
 
-MAKEUP: mid-scatter — the '70s disco glam flushing to its luminous peak, the bronze-gold lid kindling brighter, the glossy warm-bronze lip enriching, the gold-glitter highlight glinting on the high points; real pores beneath.
+MAKEUP: the '70s disco-glam Look-A base — a warm bronze-gold shimmer lid, glowing golden skin, a warm peach-bronze blush, a glossy warm-bronze lip, a gold-glitter highlight on the high points, defined lashes; skin glowing and real with visible pores and fine vellus texture.
 
-HANDS & NAILS: both arms drifting open through the shard-field, palms turning up as the light-shards scatter in slow glittering arcs; natural nail-bed color, neat cuticles, no white-knuckle tension.
+HANDS & NAILS: both arms beginning to open soft from her body, palms easing up as the first shards drift, the right near the cradled mirrored-glass bottle; natural nail-bed color, neat cuticles, no white-knuckle tension.
 
-FACIAL MICRO-DYNAMICS: eyes warm with joyful groovy delight, a gentle parted-lip confidence, a clean steady lift — her single face clear and shard-framed by the scattering light, identity strictly held to reference.
+FACIAL MICRO-DYNAMICS: her single face warm with playful groovy anticipation, a gentle parted-lip joy, a clean warm calm — composed, single and fully recognizable, identity-locked, ready for the mirror-ball scatter mid-clip.
 
-BODY POSTURE & WEIGHT: mid-scatter the spine lengthens and the shoulders open groovy and assured, weight rolling smooth between the feet — grounded real physics, modest throughout.
+BODY POSTURE & WEIGHT: front-facing with the torso rotated about 4°, the spine long and the shoulders open groovy, weight settled with a soft hip counter-tilt — grounded real physics, the warm centre before the scatter, modest throughout.
 
-KINETIC STILLNESS (8 layers): (1) golden light-shards scattering in slow glittering arcs around her at peak; (2) shard-faces flashing gold and jewel-tones as they spin; (3) the feathered flip and top catching travelling shard-light mid-scatter; (4) tiny gold motes glinting through the field; (5) the top flaring with a sequin-edge glint; (6) warm speculars multiplying across the scattering shards; (7) the mirror-ball spinning a touch faster through the scatter; (8) her chest mid a soft joyful breath.
+KINETIC STILLNESS (8 layers): (1) the mirror-ball spinning up with a few soft golden shards drifting across the scene; (2) the first specular dots just beginning to sweep at the frame edge; (3) a feathered flick bouncing in the warm air; (4) the warm-gold dancefloor and glowing disco haze behind her; (5) the sequins breathing soft glints in the lounge warmth; (6) a gold glint sliding on the mirrored-glass bottle; (7) the sequin sheen band shifting a millimetre along the top as her ribcage expands; (8) a slow eyelash settle completing a warm blink.
 
-SPATIAL LOGIC: FOREGROUND — a scattering shard nearest lens, soft. MIDGROUND — Aira mid-scatter, her single face the clear hero, the shards scattering around her. BACKGROUND — the warm disco lounge with scattering shards and warm-gold falloff.
+SPATIAL LOGIC: FOREGROUND — a first drifting shard and the cradled bottle nearest lens, soft. MIDGROUND — Aira's single face the clear hero in the '70s disco look. BACKGROUND — the warm-gold dancefloor with the spinning mirror-ball and glowing disco haze, present behind.
 
-LIGHTING: KEY — soft warm key now brighter through the scatter. FILL — low warm bounce below (clamshell). RIM — a bright warm-gold rim raking the scattering shards and the crown (hero light on the motion). PRACTICAL — spinning mirror-ball and disco glints at full glitter. SEPARATION — the scatter and faint warm haze. BOUNCE — warm kicks multiplying across the scattering shards.
+LIGHTING: KEY — a soft warm key feathered above-front. FILL — low warm bounce below (clamshell). RIM — a warm-gold rim skimming the crown and shoulder to separate her from the lounge dark. PRACTICAL — the spinning mirror-ball and disco glints and the bottle. SEPARATION — the lounge dark deep so she reads about 2 stops up. BOUNCE — a warm kick off the mirrored-glass bottle.
 
-FRAMING: ASPECT 9:16; energized medium-wide, Aira centered with the shard-scatter filling the frame around her single face, 10% headroom, slight push for intimacy.
-SUBJECT FRAMING & POSITION: A energized medium-wide framing opens around Aira with about 10% headroom as the light-shard scatter fills the lower frame, a slight push easing in for intimacy. Her spine lengthens and her shoulders open as the weight rolls smooth between the feet in grounded real-physics motion. The camera eases wider against the warm '70s disco lounge with the slow-spinning mirror-ball, Aira the centred hero at the heart of the bloom. She is centred with the light-shard scatter radiating around her. She faces front to the lens, lifted at the peak of the transform. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+FRAMING: ASPECT 9:16; energized medium-wide, Aira centered in the '70s disco lounge, 10% headroom — its own distinct cut/angle.
+SUBJECT FRAMING & POSITION: An energized medium-wide framing opens around Aira at about 10% headroom in the '70s disco lounge, the '70s disco-glam Look A fully intact and her face single as the transform clip begins. Her torso is turned about four degrees with the weight settled over a soft hip counter-tilt, arms beginning to open soft. The camera holds a mid distance on its own fresh angle, a hard cut from Frame 3, with Aira the centred single hero and the warm-gold dancefloor with the spinning mirror-ball present behind, facing front to the lens. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
-LENS + DOF + BOKEH: 50mm, f/2.0; her single face and the nearest shards tack sharp at the scatter-core, the closest shard melting into a soft warm bokeh with gold specular glints.
+LENS + DOF + BOKEH: 50mm, f/2.0; her single face and the cradled bottle tack sharp, the nearest drifting shards melting into a soft warm bokeh with gold specular glints; gentle highlight roll-off, no clipping.
 
-COMPOSITION REFERENCE: the signature impossible beat — a mirror-ball light-shard scatter, groovy and joyful, heightened but identity-locked, her face never shard-covered (AT.5 transform logic / identity-through-transform).
+COMPOSITION REFERENCE: the start of the signature beat — '70s disco-glam Look A with a single locked face, groovy and joyful, the mirror-ball scatter held for the video's mid-clip.
 
-ATMOSPHERE: groovy, exhilarating, glittering — the moment the light-shards scatter full around her single locked face in slow glittering arcs.
+ATMOSPHERE: groovy, charged, glittering — the joyful instant the transform clip begins.
 
 COLOR GRADE: warm-gold disco — deep rich uncrushed warm blacks, warm gold and amber, scattered jewel-tone mirror-shards, crisp bright speculars, full mid-tone, a glossy warm contrast (no garish oversaturation, warm-gold disco lane).
 
-TEXTURE & MICRO-DETAIL: the scattering shards read as real faceted diamonds of mirror-light with gold and jewel flashes and soft motion blur, the swirl reads as real reflected light on living air, the top shows a real sequin weave catching gold glints, skin reads real with pores beneath the glow.
+TEXTURE & MICRO-DETAIL: the top shows a real sequin weave catching gold glints, the first drifting shards read as real faceted diamonds of mirror-light with gold flashes, the mirrored-glass bottle reads as real faceted glass, skin reads real with pores beneath the glow.
 
 NEGATIVE: mirrored, flipped, inverted, extra limbs, fused fingers, melted features, asymmetric eyes (unintentional), garbled text, floating shadows, duplicated subjects, low-res patches, plastic skin, over-smoothed skin, oversharpened, AI-generated artifacts, watermarks, signature, deformed hands, malformed teeth, joint cuts at ankle/knee/wrist/elbow/neck, amputated fingertips, cross-eyed, lazy eye, off-axis pupils, melted clothing, mismatched footwear, mannequin-stiff posture, dead eyes, statue-frozen energy, garbled label text, crushed muddy blacks, garish oversaturation, flat dull light, inventing a new face beneath the light-shards.
 
@@ -5852,9 +5852,9 @@ SHOT TYPE: energized medium-wide of the mirror-ball light-shard scatter (the her
 LENS: 50mm, f/2.0.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Energized medium-wide: the push is already easing into a smooth gentle orbit as the light-shards leap and scatter in slow glittering arcs and she opens her arms; gaze lifting into the swirl.
-- [00:02–00:04] The orbit rides the hero beat as the shards swirl bright around her and the feathered flip and top catch travelling gold light (her single face clear and shard-framed, never shard-covered); eyes sparkling in groovy joy.
-- [00:04–00:06] The scatter settles and the shards resolve as the orbit eases; a radiant shard-framed look landing, her single face clear, eyes warm.
+- [00:00–00:02] Cut to an energized medium at a HELD angle (Veo first frame = the '70s disco-glam Look A still): she holds her disco look, already in motion — only a few soft shards drifting, NO full scatter yet, a gentle push-with easing in, the angle fixed for the whole clip.
+- [00:02–00:04] The mirror-ball scatter BEGINS here, mid-clip: the spinning mirror-ball scatters a swirl of golden light-shards across her and the scene in sweeping arcs in one continuous turning pattern, bright specular dots travelling across the dancefloor, the sequins and her shoulder exactly where they sweep — believable real mirror-ball optics (a faceted mirror reflecting a real light into moving specular shards at the ball's true spin-rate, no cheap sparkles), her single face clear and locked (NEVER shard-covered, replaced or duplicated), eyes warming in groovy delight (angle held, identity locked).
+- [00:04–00:06] The scatter completes and the look settles smoothly and fully into the full shard-scattered after-look of the Veo last-frame still (Frame 5's image) — a swirl of golden mirror-ball shards sweeping around her single locked face in the warm disco lounge, resolved and held through the final beat, no last-second pop; a warm groovy calm landing in her eyes.
 
 AUDIO: diegetic-led. Ambient — low lounge room tone and a faint disco-floor hum. SFX — a bright shimmer-scatter sweep 0.4–2.4s, fine glittering shard-chimes 2.4–4.5s (gentle attacks, soft tails), a soft sequin-flare at 3.0s. Reaction — a soft joyful breath at 2.4s. The master track lifts to its groovy peak here — a funky-bass-and-strings disco swell landed on the scatter (present, still under the SFX, never full). VO — none (the line lands next frame).
 
@@ -5870,7 +5870,7 @@ NEGATIVE: identity drift, face or hand warp, extra or fused fingers, duplicate p
 
 IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
 
-TRANSFORM KEYFRAME NOTE: this is the locked END keyframe of the mirror-ball light-shard scatter transform; it must resolve continuously out of the START keyframe in Frame 3 — same single face, same hands, same camera distance, the shards now settled into a radiant glittering halo drifting slow around her. Only the air around her was scattered; her one face was never shard-covered, traced over, duplicated or replaced. Do NOT invent a new face, duplicate her face or invent new hands beneath the light-shards; this is the same single Aira, groovy and radiant. Frame 3 (START) and Frame 5 (END) are the two anchors of the single transform.
+TRANSFORM KEYFRAME NOTE: this is the full shard-scattered Look B reveal at its OWN cut/angle (a hard cut from the Frame-4 mirror-ball light-shard scatter clip — a new angle/crop, and the Veo last-frame the scatter resolves into). It carries the resolved full shard-scattered after-look the Frame-4 clip ends on — only the air around her was scattered into a radiant glittering shard-swirl; her one face was never shard-covered, duplicated or replaced. Same single Aira, groovy and radiant — do NOT invent a new face, shard-cover or duplicate her face, or invent new hands or new bone structure.
 
 WARDROBE: the '70s gold-sequined mock-neck long-sleeve top at its glittering best, the sequins catching one travelling gold sheen band, the modest neckline pristine, fully modest, zero snags.
 
@@ -5914,9 +5914,9 @@ SHOT TYPE: medium close, chest-up, subject fills about 56% of the vertical frame
 LENS: 50mm, f/2.0, smooth warm-gold background fall-off.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Medium close: a slow push is already gliding in as she eases her hands open and the scatter resolves into a glittering halo around her; gaze warm to lens.
-- [00:02–00:04] She delivers “born to shine.” to lens with a joyful groovy smile, eyes warm and direct, her single face clear and locked.
-- [00:04–00:06] She holds the radiant shard-framed look as the last shards drift slow, the smile easing into groovy warmth.
+- [00:00–00:02] Cut to a medium close on a new angle in the glowing disco haze: she is already in the full shard-scattered look, easing her right hand back toward the mirrored-glass bottle at her collarbone with an easy roll of the shoulder, her single face clear and unshard-covered; gaze warm to lens.
+- [00:02–00:04] She delivers “born to shine.” to lens with a playful groovy smile and natural lip-sync, golden shards sweeping soft across her, eyes warm and shining.
+- [00:04–00:06] She holds the shard-scattered groovy look, her single face clear and the bottle cradled soft, eyes warm and direct.
 
 AUDIO: diegetic plus the spoken line. SPOKEN LINE (lip-sync) — Aira says "born to shine." from 1.5–3.9s in English with a natural Indian accent, warm joyful tone, mouth shapes matched exactly. Ambient — low lounge room tone and a faint disco-floor hum throughout. SFX — a soft shimmer-chime at 0.9s, a faint sequin shift at 1.4s (kept clear of the VO). The master track ducks gently under the line and holds its funky bass low.
 
@@ -5976,9 +5976,9 @@ SHOT TYPE: medium close, chest-up, subject fills about 55% of the vertical frame
 LENS: 50mm, f/2.0, smooth warm-gold background fall-off.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Medium close matching Frame 1: a slow push is already resolving toward the exact opening framing as she re-cradles the faceted bottle and tilts it into the key, gold speculars sliding along the cap; gaze lowering to the bottle.
-- [00:02–00:04] The push settles as she eases her warm gaze back to lens on a soft breath with the playful groovy quarter-smile, the disco lounge resolving to the opening; eyes calming.
-- [00:04–00:06] She lands precisely on the Frame 1 pose and gaze, a gold shard drifting — a seamless loop seam.
+- [00:00–00:02] Cut to a medium-close chest-up matched to Frame 1: she returns her right hand to cradle the faceted mirrored-glass Disco bottle soft at her collarbone and her left easy near her jaw exactly as in Frame 1 as the camera settles to the opening framing.
+- [00:02–00:04] She eases her warm gaze back to lens on a slow breath with the composed groovy quarter-smile, the full shard-scatter resolving back toward the opening disco-glam look to seed the loop.
+- [00:04–00:06] She lands precisely on the Frame 1 pose and gaze, warm and groovy in the disco lounge — a seamless loop seam.
 
 AUDIO: diegetic only, no VO. Ambient — low lounge room tone and a faint disco-floor hum throughout. SFX — a soft glass-tap at 0.6s as her fingers settle on the bottle (gentle attack, short tail), a faint sequin shift at 2.4s, a soft mirror-ball whir-swell at 3.6s timed to the gaze-lift. The master track resolves softly here so it can loop clean.
 
