@@ -514,7 +514,7 @@ Makeup : pop-graphic glow — glossy coral-magenta lip, diffused candy blush, cl
 
 Eye Colour: locked to the Aira reference — warm hazel-brown with a soft amber inner ring; zero drift, both irises matched, no heterochromia
 
-Movement: macro rack-focus then a graphic 3D orbit on the levitating compact (beauty mandate)
+Movement: macro rack-focus then a graphic 3D orbit on the levitating compact (beauty mandate). Both impossible beats are contained MID-CLIP at a HELD angle — the material-assembly transform inside the transform frame (Veo first/last-frame: pre-form START -> resolved gown) and the VFX burst inside the magic frame (her single resolved look held, the effect kindles -> radiates -> settles to a halo); every frame join is a hard match-cut to a new angle.
 
 Concept Line (NOT spoken): "pure colour, pure pop"
 
@@ -530,7 +530,7 @@ Spoken line: NONE (fully silent — no VO any frame)
 
 Audio note: per-frame diegetic SFX plus design only; separate Master Track Brief after the final frame; subtle, never full
 
-Identity safety: adult, non-sexualized; face, bone structure and hair locked to the reference; zero drift
+Identity safety: adult, non-sexualized; face, bone structure and hair locked to the reference; zero drift each impossible beat is contained inside one clip at a held angle and resolves smoothly by clip-end; her single self and face are never duplicated or covered.
 
 Visual-lead note: every beat reads in absolute silence through motion, colour and light
 
@@ -610,11 +610,11 @@ NEGATIVE: identity drift, face or hand warp, extra or fused fingers, duplicate p
 
 IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
 
-TRANSFORM KEYFRAME NOTE: this frame locks the START keyframe of the terrazzo-form transform — face and hair stay fixed while the wardrobe begins assembling from scattered terrazzo chips; identity never drifts.
+TRANSFORM KEYFRAME NOTE: the terrazzo-form transform — contained MID-CLIP inside this one frame at a HELD angle. This is the START frame of the transform CLIP (Veo's FIRST frame): candy-bright terrazzo chips just beginning to sweep in from the frame edges toward the seam lines, the colour-blocked structured mini-dress (cyan bodice, magenta peplum, yellow belt) with crisp graphic seams NOT yet formed. The change happens MID-CLIP at this same held angle — the candy-bright terrazzo chips assembling and locking into the colour-blocked structured mini-dress (cyan bodice, magenta peplum, yellow belt) with crisp graphic seams — settling into Frame 3's fully-formed image (Veo's LAST frame); the camera may travel or crane with her but never rotates its angle through the change. Face, hair and identity stay fixed throughout. Do NOT depict the formed gown in this still and do NOT invent a second Aira, a new face or new hands.
 
 VISUAL-LEAD NOTE: the cause-then-effect transform reads purely visually — bright terrazzo chips rush in and crystallise into the colour-block dress.
 
-WARDROBE (mid-transform): the colour-block mini-dress is 60% formed — candy-bright terrazzo chips (cyan, magenta, yellow, white) sweep in from frame edges and lock into the bodice and peplum along the graphic seam lines, a few chips still mid-air finding their place, the yellow patent belt already crystallised at the waist; surfaces clean, edges sharpening to hard graphic lines.
+WARDROBE: (start of assembly) — the colour-blocked structured mini-dress (cyan bodice, magenta peplum, yellow belt) with crisp graphic seams NOT yet formed; candy-bright terrazzo chips just beginning to sweep in from the frame edges toward the seam lines, only the first elements starting to lock, surfaces clean and edges sharpening; no formed gown yet, no floating debris.
 
 FOOTWEAR: the magenta patent boots fully formed and glossy, last few terrazzo chips settling along the chrome heel.
 
@@ -639,13 +639,13 @@ SPATIAL LOGIC: FOREGROUND — a few sharp terrazzo chips streaking past at rough
 LIGHTING: KEY — feathered softbox beauty key. FILL — clamshell bounce. RIM — hair-light separating the bob. PRACTICAL — none. SEPARATION — panels one stop down. BOUNCE — soft card kick glossing the forming patent and acrylic; a brief brighter pulse of bounce timed to the chip-lock for energy.
 
 FRAMING: ASPECT 9:16; medium, waist-up to show the forming dress, 12% headroom, dynamic negative space holding the incoming chip arcs.
-SUBJECT FRAMING & POSITION: A medium transformation showpiece, waist-up and easing wider as the look builds, about 12% headroom. Her body composed and near-frontal, the transform climbing the figure. Camera at mid distance easing back, clean negative space in the pop-art colour-block studio. The frame reads from roughly the waist up, near-frontal three-quarter, widening to take in the building couture. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A medium transformation showpiece, waist-up and easing wider as the look builds, about 12% headroom. Her body composed and near-frontal, the look held in its pre-form moment. Camera at mid distance easing back, clean negative space in the pop-art colour-block studio. The frame reads from roughly the waist up, near-frontal three-quarter, holding the pre-form START before it builds. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 LENS + DOF + BOKEH: 50mm, f/2.8; focus on her torso and face with chips reading crisp as they enter the focal plane; background creamy; gentle bloom on chrome accents.
 
-COMPOSITION REFERENCE: kinetic pop-art transform still — graphic, saturated, energetic assembly.
+COMPOSITION REFERENCE: the held breath before the terrazzo-form assembly — kinetic, graphic, the single impossible build about to begin.
 
-ATMOSPHERE: joyful, electric, magical — colour literally building the look.
+ATMOSPHERE: anticipatory, electric, magical — the instant before the look builds around her from candy-bright terrazzo chips.
 
 COLOR GRADE: hyper-vibrant pop-art primaries, crisp whites, rich uncrushed blacks, full mid-tone, zero grain, never muddy.
 
@@ -664,9 +664,9 @@ SHOT TYPE: medium, waist-up, subject fills about 60% of the vertical frame.
 LENS: 50mm, f/2.8.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Medium waist-up: a smooth 10% arc-push is already drifting a few degrees around her as terrazzo chips rush in from the frame edges on graphic arcs and she opens her arms to present; gaze tracking the incoming chips.
-- [00:02–00:04] The arc-push rides the build as chips lock into the bodice, peplum and belt, edges sharpening to hard graphic lines; a delighted breath, brows lifting in wonder.
-- [00:04–00:06] The last chips settle and the chip-shimmer fades as the move eases; she lands a confident finished pose, eyes alight on the formed dress.
+- [00:00–00:02] Cut to medium, waist-up, subject fills about 60% of the vertical frame — HELD angle (Veo first frame = the pre-form START still): candy-bright terrazzo chips already sweeping in from the frame edges as she opens to present — the colour-blocked structured mini-dress (cyan bodice, magenta peplum, yellow belt) with crisp graphic seams NOT yet formed, the angle fixed for the whole clip; gaze tracking the incoming material.
+- [00:02–00:04] The change BEGINS here, mid-clip: the candy-bright terrazzo chips assembling and locking along the seam lines into the colour-blocked structured mini-dress (cyan bodice, magenta peplum, yellow belt) with crisp graphic seams in one continuous build — gradual and motivated, never a snap; a delighted breath, brows lifting in wonder (angle held, identity locked).
+- [00:04–00:06] The build completes and the look settles smoothly and fully into the colour-blocked structured mini-dress (cyan bodice, magenta peplum, yellow belt) with crisp graphic seams of the Veo last-frame still (Frame 3's image), resolved and held; a confident finished beat, eyes alight.
 
 AUDIO: fully silent reel — no spoken word, no in-clip music. Diegetic and design only: room-tone bed; a rising airy whoosh of incoming chips near 0.3s; a satisfying cluster of soft crystalline ticks near 2.0 to 4.0s as chips lock (layered, short tails); a soft bright shimmer-settle near 5.0s; a light breath near 4.6s. External master lifts gently here.
 
@@ -818,7 +818,7 @@ NEGATIVE: identity drift, face or hand warp, extra or fused fingers, duplicate p
 
 IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
 
-TRANSFORM KEYFRAME NOTE: this frame owns the magic beat — a pop-art halftone-dot burst. START keyframe = dots tight at the compact; END keyframe = dots radiated full-frame then resolving. Face, hair and wardrobe stay locked throughout; only the dot-field animates.
+TRANSFORM KEYFRAME NOTE: the pop-art halftone-dot burst — the single impossible move, contained MID-CLIP at a HELD angle. This still is the KINDLE opening (Veo's FIRST frame): the pop-art halftone-dot burst only just beginning, tight at its source, her look otherwise calm and fully resolved. The burst happens MID-CLIP at this same held angle and radiates then SETTLES to a sustained halo (Veo's LAST frame); the camera may push or orbit but never rotates its angle through it. Her SINGLE self, face, hair and wardrobe stay locked and uncovered throughout — only the effect animates. Believable real physics; no double-Aira, no blown highlights; frame joins are hard match-cuts to new angles.
 
 VISUAL-LEAD NOTE: the magical crest reads instantly in silence — a halo of candy halftone dots bursts outward from the hero compact.
 
@@ -870,7 +870,7 @@ SHOT TYPE: medium, chest-up, subject fills about 58% of the vertical frame.
 LENS: 50mm, f/2.8.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Medium chest-up: the beauty 3D orbit is already arcing a smooth 12% around the levitating compact as it eases up and she frames it, halftone dots tight at its surface; gaze drawn to the rising compact.
+- [00:00–00:02] Cut to medium, chest-up, subject fills about 58% of the vertical frame — HELD angle (Veo first frame = the kindle still): the pop-art halftone-dot burst is only just beginning, tight at its source, her look calm and fully resolved; gaze drawn to it (her single self held, the angle fixed).
 - [00:02–00:04] The orbit rides the burst as the halftone dots fly outward in clean graphic arcs and her wonder peaks; eyes widening into the spray, a radiant awe blooming.
 - [00:04–00:06] The dots radiate full-frame then begin resolving as the bright pulse eases and the orbit settles; her radiant smile landing, eyes alight.
 
@@ -992,7 +992,7 @@ Makeup : neon-glow editorial — glossy hot-pink lip, dewy skin, a wash of elect
 
 Eye Colour: locked to the Aira reference — warm hazel-brown with a soft amber inner ring; zero drift, both irises matched, no heterochromia
 
-Movement: macro rack-focus then a graphic 3D orbit on the levitating bottle (beauty mandate)
+Movement: macro rack-focus then a graphic 3D orbit on the levitating bottle (beauty mandate). Both impossible beats are contained MID-CLIP at a HELD angle — the material-assembly transform inside the transform frame (Veo first/last-frame: pre-form START -> resolved gown) and the VFX burst inside the magic frame (her single resolved look held, the effect kindles -> radiates -> settles to a halo); every frame join is a hard match-cut to a new angle.
 
 Concept Line (NOT spoken): "bloom in neon"
 
@@ -1008,7 +1008,7 @@ Spoken line: NONE (fully silent — no VO any frame)
 
 Audio note: per-frame diegetic SFX plus design only; separate Master Track Brief after the final frame; subtle, never full
 
-Identity safety: adult, non-sexualized; face, bone structure and hair locked to the reference; zero drift
+Identity safety: adult, non-sexualized; face, bone structure and hair locked to the reference; zero drift each impossible beat is contained inside one clip at a held angle and resolves smoothly by clip-end; her single self and face are never duplicated or covered.
 
 Visual-lead note: every beat reads in absolute silence through motion, colour and glowing light
 
@@ -1088,11 +1088,11 @@ NEGATIVE: identity drift, face or hand warp, extra or fused fingers, duplicate p
 
 IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
 
-TRANSFORM KEYFRAME NOTE: this frame locks the START keyframe of the woven-rattan transform — face and hair stay fixed while the bodice weaves itself from glowing rattan strands; identity never drifts.
+TRANSFORM KEYFRAME NOTE: the woven-rattan transform — contained MID-CLIP inside this one frame at a HELD angle. This is the START frame of the transform CLIP (Veo's FIRST frame): glowing woven-rattan strands just beginning to sweep in from the frame edges toward the seam lines, the sculptural woven-rattan bodice over a fluid electric-green slip dress, hot-pink piping along the weave NOT yet formed. The change happens MID-CLIP at this same held angle — the glowing woven-rattan strands assembling and locking into the sculptural woven-rattan bodice over a fluid electric-green slip dress, hot-pink piping along the weave — settling into Frame 3's fully-formed image (Veo's LAST frame); the camera may travel or crane with her but never rotates its angle through the change. Face, hair and identity stay fixed throughout. Do NOT depict the formed gown in this still and do NOT invent a second Aira, a new face or new hands.
 
 VISUAL-LEAD NOTE: the cause-then-effect transform reads purely visually — luminous rattan strands spiral in and weave into the sculptural bodice.
 
-WARDROBE (mid-transform): the woven-rattan bodice is 60% formed — glowing rattan strands spiral in from frame edges and self-weave into the diagonal lattice over the electric-green slip, hot-pink piping threading along as the weave tightens, a few strands still mid-air finding their path; the slip already settled, surfaces clean, weave sharpening to a crisp hand-finished lattice.
+WARDROBE: (start of assembly) — the sculptural woven-rattan bodice over a fluid electric-green slip dress, hot-pink piping along the weave NOT yet formed; glowing woven-rattan strands just beginning to sweep in from the frame edges toward the seam lines, only the first elements starting to lock, surfaces clean and edges sharpening; no formed gown yet, no floating debris.
 
 FOOTWEAR: ultraviolet patent sandals fully formed and glossy, last rattan strands settling around the ankle strap.
 
@@ -1117,13 +1117,13 @@ SPATIAL LOGIC: FOREGROUND — a few sharp rattan strands streaking past at rough
 LIGHTING: KEY — feathered softbox beauty key. FILL — clamshell bounce. RIM — hair-light separating the waves. PRACTICAL — glowing foliage accent. SEPARATION — foliage one stop down. BOUNCE — soft card kick glossing the forming slip and glass; a brief brighter pulse timed to the weave-lock for energy.
 
 FRAMING: ASPECT 9:16; medium, waist-up to show the weaving bodice, 12% headroom, dynamic negative space holding the incoming strand arcs.
-SUBJECT FRAMING & POSITION: A medium transformation showpiece, waist-up and easing wider as the look builds, about 12% headroom. Her body composed and near-frontal, the transform climbing the figure. Camera at mid distance easing back, clean negative space in the tropical neon garden. The frame reads from roughly the waist up, near-frontal three-quarter, widening to take in the building couture. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A medium transformation showpiece, waist-up and easing wider as the look builds, about 12% headroom. Her body composed and near-frontal, the look held in its pre-form moment. Camera at mid distance easing back, clean negative space in the tropical neon garden. The frame reads from roughly the waist up, near-frontal three-quarter, holding the pre-form START before it builds. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 LENS + DOF + BOKEH: 50mm, f/2.8; focus on her torso and face with strands reading crisp as they enter the focal plane; background creamy glowing; gentle bloom on neon accents.
 
-COMPOSITION REFERENCE: kinetic tropical-neon transform still — graphic, saturated, energetic weave.
+COMPOSITION REFERENCE: the held breath before the woven-rattan assembly — kinetic, graphic, the single impossible build about to begin.
 
-ATMOSPHERE: joyful, electric, magical — nature literally weaving the look in neon.
+ATMOSPHERE: anticipatory, electric, magical — the instant before the look builds around her from glowing woven-rattan strands.
 
 COLOR GRADE: hyper-vibrant tropical neon — punchy chartreuse, hot-pink and ultraviolet, crisp whites, rich uncrushed blacks, full mid-tone, zero grain, never muddy.
 
@@ -1142,9 +1142,9 @@ SHOT TYPE: medium, waist-up, subject fills about 60% of the vertical frame.
 LENS: 50mm, f/2.8.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Medium waist-up: a smooth 10% arc-push is already drifting a few degrees around her as glowing rattan strands spiral in from the frame edges and she opens her arms to present; gaze tracking the incoming strands.
-- [00:02–00:04] The arc-push rides the build as the strands self-weave into the lattice and hot-pink piping threads along the tightening weave; a delighted breath, brows lifting in wonder.
-- [00:04–00:06] The last strands settle and the strand-shimmer fades as the move eases; she lands a confident finished pose, eyes alight on the woven bodice.
+- [00:00–00:02] Cut to medium, waist-up, subject fills about 60% of the vertical frame — HELD angle (Veo first frame = the pre-form START still): glowing woven-rattan strands already sweeping in from the frame edges as she opens to present — the sculptural woven-rattan bodice over a fluid electric-green slip dress, hot-pink piping along the weave NOT yet formed, the angle fixed for the whole clip; gaze tracking the incoming material.
+- [00:02–00:04] The change BEGINS here, mid-clip: the glowing woven-rattan strands assembling and locking along the seam lines into the sculptural woven-rattan bodice over a fluid electric-green slip dress, hot-pink piping along the weave in one continuous build — gradual and motivated, never a snap; a delighted breath, brows lifting in wonder (angle held, identity locked).
+- [00:04–00:06] The build completes and the look settles smoothly and fully into the sculptural woven-rattan bodice over a fluid electric-green slip dress, hot-pink piping along the weave of the Veo last-frame still (Frame 3's image), resolved and held; a confident finished beat, eyes alight.
 
 AUDIO: fully silent reel — no spoken word, no in-clip music. Diegetic and design only: room-tone bed; a rising airy whoosh of incoming strands near 0.3s; a satisfying cluster of soft woody weave-ticks near 2.0 to 4.0s as strands lock (layered, short tails); a soft bright shimmer-settle near 5.0s; a light breath near 4.6s. External master lifts gently here.
 
@@ -1296,7 +1296,7 @@ NEGATIVE: identity drift, face or hand warp, extra or fused fingers, duplicate p
 
 IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
 
-TRANSFORM KEYFRAME NOTE: this frame owns the magic beat — a neon-orchid bloom burst. START keyframe = a single glowing orchid bud at the bodice; END keyframe = a full-frame halo of open neon orchids and drifting petals, then resolving. Face, hair and wardrobe stay locked throughout; only the orchid-bloom animates.
+TRANSFORM KEYFRAME NOTE: the neon-orchid bloom burst — the single impossible move, contained MID-CLIP at a HELD angle. This still is the KINDLE opening (Veo's FIRST frame): the neon-orchid bloom burst only just beginning, tight at its source, her look otherwise calm and fully resolved. The burst happens MID-CLIP at this same held angle and radiates then SETTLES to a sustained halo (Veo's LAST frame); the camera may push or orbit but never rotates its angle through it. Her SINGLE self, face, hair and wardrobe stay locked and uncovered throughout — only the effect animates. Believable real physics; no double-Aira, no blown highlights; frame joins are hard match-cuts to new angles.
 
 VISUAL-LEAD NOTE: the magical crest reads instantly in silence — luminous neon orchids unfurl and burst open in a radiant halo around the hero bottle.
 
@@ -1348,7 +1348,7 @@ SHOT TYPE: medium, chest-up, subject fills about 58% of the vertical frame.
 LENS: 50mm, f/2.8.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Medium chest-up: the beauty 3D orbit is already arcing a smooth 12% around the levitating bottle as it eases up and a single neon orchid bud swells at the bodice; gaze drawn to the rising bottle.
+- [00:00–00:02] Cut to medium, chest-up, subject fills about 58% of the vertical frame — HELD angle (Veo first frame = the kindle still): the neon-orchid bloom burst is only just beginning, tight at its source, her look calm and fully resolved; gaze drawn to it (her single self held, the angle fixed).
 - [00:02–00:04] The orbit rides the bloom as the orchids unfurl and burst open in a radiant halo, petals lifting and swirling and her wonder peaking; eyes widening into the swirl, a radiant awe blooming.
 - [00:04–00:06] The petals radiate full-frame then begin resolving as the bright pulse eases and the orbit settles; her radiant smile landing, eyes alight.
 
@@ -1470,7 +1470,7 @@ Makeup : pastel-pop glow — glossy sorbet-peach lip, dewy skin, a wash of paste
 
 Eye Colour: locked to the Aira reference — warm hazel-brown with a soft amber inner ring; zero drift, both irises matched, no heterochromia
 
-Movement: macro rack-focus then a graphic 3D orbit on the levitating palette (beauty mandate)
+Movement: macro rack-focus then a graphic 3D orbit on the levitating palette (beauty mandate). Both impossible beats are contained MID-CLIP at a HELD angle — the material-assembly transform inside the transform frame (Veo first/last-frame: pre-form START -> resolved gown) and the VFX burst inside the magic frame (her single resolved look held, the effect kindles -> radiates -> settles to a halo); every frame join is a hard match-cut to a new angle.
 
 Concept Line (NOT spoken): "drawn in light"
 
@@ -1486,7 +1486,7 @@ Spoken line: NONE (fully silent — no VO any frame)
 
 Audio note: per-frame diegetic SFX plus design only; separate Master Track Brief after the final frame; subtle, never full
 
-Identity safety: adult, non-sexualized; face, bone structure and hair locked to the reference; zero drift
+Identity safety: adult, non-sexualized; face, bone structure and hair locked to the reference; zero drift each impossible beat is contained inside one clip at a held angle and resolves smoothly by clip-end; her single self and face are never duplicated or covered.
 
 Visual-lead note: every beat reads in absolute silence through motion, pastel colour and soft light
 
@@ -1568,11 +1568,11 @@ NEGATIVE: identity drift, face or hand warp, extra or fused fingers, duplicate p
 
 IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
 
-TRANSFORM KEYFRAME NOTE: this frame locks the START keyframe of the chalk-dust smudge transform — face and hair stay fixed while the gown smudge-forms from sweeping clouds of vivid pastel chalk-dust; identity never drifts.
+TRANSFORM KEYFRAME NOTE: the chalk-dust smudge transform — contained MID-CLIP inside this one frame at a HELD angle. This is the START frame of the transform CLIP (Veo's FIRST frame): sweeping clouds of vivid pastel chalk-dust just beginning to sweep in from the frame edges toward the seam lines, the structured pastel-ombré bodice over a full tiered tulle skirt graduating mint-to-lilac-to-peach, crisp graphic seams NOT yet formed. The change happens MID-CLIP at this same held angle — the sweeping clouds of vivid pastel chalk-dust assembling and locking into the structured pastel-ombré bodice over a full tiered tulle skirt graduating mint-to-lilac-to-peach, crisp graphic seams — settling into Frame 3's fully-formed image (Veo's LAST frame); the camera may travel or crane with her but never rotates its angle through the change. Face, hair and identity stay fixed throughout. Do NOT depict the formed gown in this still and do NOT invent a second Aira, a new face or new hands.
 
 VISUAL-LEAD NOTE: the cause-then-effect transform reads purely visually — vivid pastel chalk-dust sweeps in and smudge-blooms into the structured ombré gown.
 
-WARDROBE (mid-transform): the pastel-ombré gown is 60% formed — sweeping clouds of mint, lilac, peach and sky-blue chalk-dust rush in from frame edges and smudge-settle into the bodice and tiered tulle along the seam lines, edges crisping from soft smudge to clean graphic line, a few dust-veils still mid-air finding their place; surfaces resolving clean and saturated, no chalky-grey muddiness.
+WARDROBE: (start of assembly) — the structured pastel-ombré bodice over a full tiered tulle skirt graduating mint-to-lilac-to-peach, crisp graphic seams NOT yet formed; sweeping clouds of vivid pastel chalk-dust just beginning to sweep in from the frame edges toward the seam lines, only the first elements starting to lock, surfaces clean and edges sharpening; no formed gown yet, no floating debris.
 
 FOOTWEAR: the pastel-lilac patent slingbacks fully formed and glossy, last chalk-veils settling around the clear heel.
 
@@ -1597,13 +1597,13 @@ SPATIAL LOGIC: FOREGROUND — a few soft pastel chalk-veils streaking past at ro
 LIGHTING: KEY — feathered softbox beauty key. FILL — clamshell bounce. RIM — hair-light separating the chignon. PRACTICAL — none. SEPARATION — mural one stop down. BOUNCE — soft card kick glossing the forming patent and acrylic; a brief brighter pulse timed to the smudge-lock for energy.
 
 FRAMING: ASPECT 9:16; medium, waist-up to show the forming gown, 12% headroom, dynamic negative space holding the incoming chalk-cloud arcs.
-SUBJECT FRAMING & POSITION: A medium transformation showpiece, waist-up and easing wider as the look builds, about 12% headroom. Her body composed and near-frontal, the transform climbing the figure. Camera at mid distance easing back, clean negative space in the pastel chalk-art studio. The frame reads from roughly the waist up, near-frontal three-quarter, widening to take in the building couture. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A medium transformation showpiece, waist-up and easing wider as the look builds, about 12% headroom. Her body composed and near-frontal, the look held in its pre-form moment. Camera at mid distance easing back, clean negative space in the pastel chalk-art studio. The frame reads from roughly the waist up, near-frontal three-quarter, holding the pre-form START before it builds. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 LENS + DOF + BOKEH: 50mm, f/2.8; focus on her torso and face with chalk-veils reading crisp as they enter the focal plane; background creamy pastel; gentle bloom on accents.
 
-COMPOSITION REFERENCE: kinetic pastel-pop transform still — soft-graphic, saturated, dreamy assembly.
+COMPOSITION REFERENCE: the held breath before the chalk-dust smudge assembly — kinetic, graphic, the single impossible build about to begin.
 
-ATMOSPHERE: joyful, dreamy, magical — colour-dust literally drawing the look into being.
+ATMOSPHERE: anticipatory, electric, magical — the instant before the look builds around her from sweeping clouds of vivid pastel chalk-dust.
 
 COLOR GRADE: hyper-vibrant pastel-pop — mint, lilac, peach, sky-blue and butter-yellow, crisp whites, rich uncrushed blacks, full mid-tone, zero grain, never muddy or chalky-grey.
 
@@ -1622,9 +1622,9 @@ SHOT TYPE: medium, waist-up, subject fills about 60% of the vertical frame.
 LENS: 50mm, f/2.8.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Medium waist-up: a smooth 10% arc-push is already drifting a few degrees around her as pastel chalk-clouds sweep in from the frame edges and she opens her arms to present; gaze tracking the drifting dust.
-- [00:02–00:04] The arc-push rides the build as the dust smudge-settles into the bodice and tiered skirt, edges crisping from soft smudge to clean graphic line; a wondering breath, brows lifting.
-- [00:04–00:06] The last veils settle and the chalk-shimmer fades as the move eases; she lands a confident finished pose, eyes alight on the ombré tulle.
+- [00:00–00:02] Cut to medium, waist-up, subject fills about 60% of the vertical frame — HELD angle (Veo first frame = the pre-form START still): sweeping clouds of vivid pastel chalk-dust already sweeping in from the frame edges as she opens to present — the structured pastel-ombré bodice over a full tiered tulle skirt graduating mint-to-lilac-to-peach, crisp graphic seams NOT yet formed, the angle fixed for the whole clip; gaze tracking the incoming material.
+- [00:02–00:04] The change BEGINS here, mid-clip: the sweeping clouds of vivid pastel chalk-dust assembling and locking along the seam lines into the structured pastel-ombré bodice over a full tiered tulle skirt graduating mint-to-lilac-to-peach, crisp graphic seams in one continuous build — gradual and motivated, never a snap; a delighted breath, brows lifting in wonder (angle held, identity locked).
+- [00:04–00:06] The build completes and the look settles smoothly and fully into the structured pastel-ombré bodice over a full tiered tulle skirt graduating mint-to-lilac-to-peach, crisp graphic seams of the Veo last-frame still (Frame 3's image), resolved and held; a confident finished beat, eyes alight.
 
 AUDIO: fully silent reel — no spoken word, no in-clip music. Diegetic and design only: room-tone bed; a soft airy whoosh of incoming chalk-dust near 0.3s; a gentle cluster of powdery settle-ticks near 2.0 to 4.0s as the gown forms (layered, short tails); a soft bright shimmer-settle near 5.0s; a light breath near 4.6s. External master lifts gently here.
 
@@ -1776,7 +1776,7 @@ NEGATIVE: identity drift, face or hand warp, extra or fused fingers, duplicate p
 
 IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
 
-TRANSFORM KEYFRAME NOTE: this frame locks the PEAK keyframe of the chalk-pastel rainbow-bloom burst magic ( spin-transform, identity-through-transform, keyframe-lock) — a radiant arc of pastel chalk-dust blooms open around her like a hand-drawn rainbow; identity, face and hair stay fully locked.
+TRANSFORM KEYFRAME NOTE: the chalk-pastel rainbow-bloom — the single impossible move, contained MID-CLIP at a HELD angle. This still is the KINDLE opening (Veo's FIRST frame): the chalk-pastel rainbow-bloom only just beginning, tight at its source, her look otherwise calm and fully resolved. The burst happens MID-CLIP at this same held angle and radiates then SETTLES to a sustained halo (Veo's LAST frame); the camera may push or orbit but never rotates its angle through it. Her SINGLE self, face, hair and wardrobe stay locked and uncovered throughout — only the effect animates. Believable real physics; no double-Aira, no blown highlights; frame joins are hard match-cuts to new angles.
 
 VISUAL-LEAD NOTE: the magical crest reads instantly in silence — a chalk-pastel rainbow-bloom bursting open behind and around the hero, the single most striking frame of the reel.
 
@@ -1830,7 +1830,7 @@ SHOT TYPE: medium-wide, three-quarter body, subject fills about 50% of the verti
 LENS: 35mm, f/3.5.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Medium-wide three-quarter body: a smooth graphic 20° 3D orbit is already arcing around her as she sweeps her arms outward and the chalk-pastel rainbow arc blooms open in radiant bands; gaze lifting into the bloom.
+- [00:00–00:02] Cut to medium-wide, three-quarter body, subject fills about 50% of the vertical frame — HELD angle (Veo first frame = the kindle still): the chalk-pastel rainbow-bloom is only just beginning, tight at its source, her look calm and fully resolved; gaze drawn to it (her single self held, the angle fixed).
 - [00:02–00:04] The orbit rides the burst to its luminous peak, prismatic dust spiralling around her; eyes widening, an awe-struck joyful smile at full bloom.
 - [00:04–00:06] The arc holds and begins a gentle settle as the dust drifts and the orbit eases; her joyful smile landing, eyes alight.
 
@@ -1954,7 +1954,7 @@ Makeup : citrus-pop glow — glossy tangerine lip, dewy glass skin, an electric-
 
 Eye Colour: locked to the Aira reference — warm hazel-brown with a soft amber inner ring; zero drift, both irises matched, no heterochromia
 
-Movement: macro rack-focus then a graphic 3D orbit on the levitating bottle (beauty mandate)
+Movement: macro rack-focus then a graphic 3D orbit on the levitating bottle (beauty mandate). Both impossible beats are contained MID-CLIP at a HELD angle — the material-assembly transform inside the transform frame (Veo first/last-frame: pre-form START -> resolved gown) and the VFX burst inside the magic frame (her single resolved look held, the effect kindles -> radiates -> settles to a halo); every frame join is a hard match-cut to a new angle.
 
 Concept Line (NOT spoken): "switch on the glow"
 
@@ -1970,7 +1970,7 @@ Spoken line: NONE (fully silent — no VO any frame)
 
 Audio note: per-frame diegetic SFX plus design only; separate Master Track Brief after the final frame; subtle, never full
 
-Identity safety: adult, non-sexualized; face, bone structure and hair locked to the reference; zero drift
+Identity safety: adult, non-sexualized; face, bone structure and hair locked to the reference; zero drift each impossible beat is contained inside one clip at a held angle and resolves smoothly by clip-end; her single self and face are never duplicated or covered.
 
 Visual-lead note: every beat reads in absolute silence through motion, electric citrus colour and high-gloss light
 
@@ -2052,11 +2052,11 @@ NEGATIVE: identity drift, face or hand warp, extra or fused fingers, duplicate p
 
 IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
 
-TRANSFORM KEYFRAME NOTE: this frame locks the START keyframe of the sequin-cascade flip transform — face and hair stay fixed while thousands of colour-flipping sequins cascade in and flip into place to form the gown; identity never drifts.
+TRANSFORM KEYFRAME NOTE: the sequin-cascade flip transform — contained MID-CLIP inside this one frame at a HELD angle. This is the START frame of the transform CLIP (Veo's FIRST frame): thousands of colour-flipping sequins just beginning to sweep in from the frame edges toward the seam lines, the liquid-sequin mini-gown with structured shoulders and a sharp hem, the sequins colour-flipping electric-orange to magenta to lime as light moves NOT yet formed. The change happens MID-CLIP at this same held angle — the thousands of colour-flipping sequins assembling and locking into the liquid-sequin mini-gown with structured shoulders and a sharp hem, the sequins colour-flipping electric-orange to magenta to lime as light moves — settling into Frame 3's fully-formed image (Veo's LAST frame); the camera may travel or crane with her but never rotates its angle through the change. Face, hair and identity stay fixed throughout. Do NOT depict the formed gown in this still and do NOT invent a second Aira, a new face or new hands.
 
 VISUAL-LEAD NOTE: the cause-then-effect transform reads purely visually — a cascade of electric sequins rushes in and flip-locks into the structured mini-gown.
 
-WARDROBE (mid-transform): the sequin gown is 60% formed — cascading streams of electric-orange, magenta and lime sequins pour in from the frame edges and flip-lock onto the bodice and skirt along the seam lines, structured shoulders crisping first, a few sequin-streams still mid-air finding their place; each disc snaps to a clean mirror-flip, surfaces saturated and luminous, no dull or muddy patches.
+WARDROBE: (start of assembly) — the liquid-sequin mini-gown with structured shoulders and a sharp hem, the sequins colour-flipping electric-orange to magenta to lime as light moves NOT yet formed; thousands of colour-flipping sequins just beginning to sweep in from the frame edges toward the seam lines, only the first elements starting to lock, surfaces clean and edges sharpening; no formed gown yet, no floating debris.
 
 FOOTWEAR: the electric-orange platform heels fully formed and glossy, last sequins flip-settling around the clear PVC counter.
 
@@ -2081,13 +2081,13 @@ SPATIAL LOGIC: FOREGROUND — a few sequin-streams streaking past at roughly 15%
 LIGHTING: KEY — feathered softbox beauty key. FILL — clamshell bounce. RIM — hair-light separating the bob. PRACTICAL — none. SEPARATION — cyclorama one stop down. BOUNCE — soft card kick glossing the forming sequins and patent; a brief brighter pulse timed to the flip-lock for energy.
 
 FRAMING: ASPECT 9:16; medium, waist-up to show the forming gown, 12% headroom, dynamic negative space holding the incoming sequin arcs.
-SUBJECT FRAMING & POSITION: A medium transformation showpiece, waist-up and easing wider as the look builds, about 12% headroom. Her body composed and near-frontal, the transform climbing the figure. Camera at mid distance easing back, clean negative space in the electric pop-citrus studio. The frame reads from roughly the waist up, near-frontal three-quarter, widening to take in the building couture. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A medium transformation showpiece, waist-up and easing wider as the look builds, about 12% headroom. Her body composed and near-frontal, the look held in its pre-form moment. Camera at mid distance easing back, clean negative space in the electric pop-citrus studio. The frame reads from roughly the waist up, near-frontal three-quarter, holding the pre-form START before it builds. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 LENS + DOF + BOKEH: 50mm, f/2.8; focus on her torso and face with sequin-streams reading crisp as they enter the focal plane; background creamy citrus; gentle bloom on accents.
 
-COMPOSITION REFERENCE: kinetic hyper-glam transform still — electric, saturated, dynamic assembly.
+COMPOSITION REFERENCE: the held breath before the sequin-cascade flip assembly — kinetic, graphic, the single impossible build about to begin.
 
-ATMOSPHERE: joyful, charged, magical — sequins literally flipping the look into being.
+ATMOSPHERE: anticipatory, electric, magical — the instant before the look builds around her from thousands of colour-flipping sequins.
 
 COLOR GRADE: hyper-vibrant pop-citrus — electric-orange, lime, lemon-yellow, magenta and citrus-coral, crisp whites, rich uncrushed blacks, full mid-tone, zero grain, never muddy.
 
@@ -2106,9 +2106,9 @@ SHOT TYPE: medium, waist-up, subject fills about 60% of the vertical frame.
 LENS: 50mm, f/2.8.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Medium waist-up: a smooth 10% arc-push is already drifting a few degrees around her as sequin-streams cascade in from the frame edges and she opens her arms to present; gaze tracking the cascading sequins.
-- [00:02–00:04] The arc-push rides the build as the sequins flip-lock onto the bodice and skirt, the structured shoulders crisping into clean line; a delighted breath, brows lifting.
-- [00:04–00:06] The last streams settle and the sequin-shimmer fades as the move eases; she lands a confident finished pose, eyes alight on the colour-flipping gown.
+- [00:00–00:02] Cut to medium, waist-up, subject fills about 60% of the vertical frame — HELD angle (Veo first frame = the pre-form START still): thousands of colour-flipping sequins already sweeping in from the frame edges as she opens to present — the liquid-sequin mini-gown with structured shoulders and a sharp hem, the sequins colour-flipping electric-orange to magenta to lime as light moves NOT yet formed, the angle fixed for the whole clip; gaze tracking the incoming material.
+- [00:02–00:04] The change BEGINS here, mid-clip: the thousands of colour-flipping sequins assembling and locking along the seam lines into the liquid-sequin mini-gown with structured shoulders and a sharp hem, the sequins colour-flipping electric-orange to magenta to lime as light moves in one continuous build — gradual and motivated, never a snap; a delighted breath, brows lifting in wonder (angle held, identity locked).
+- [00:04–00:06] The build completes and the look settles smoothly and fully into the liquid-sequin mini-gown with structured shoulders and a sharp hem, the sequins colour-flipping electric-orange to magenta to lime as light moves of the Veo last-frame still (Frame 3's image), resolved and held; a confident finished beat, eyes alight.
 
 AUDIO: fully silent reel — no spoken word, no in-clip music. Diegetic and design only: room-tone bed; a soft airy whoosh of incoming sequins near 0.3s; a gentle cluster of glassy sequin flip-ticks near 2.0 to 4.0s as the gown forms (layered, short tails); a soft bright shimmer-settle near 5.0s; a light breath near 4.6s. External master lifts gently here.
 
@@ -2260,7 +2260,7 @@ NEGATIVE: identity drift, face or hand warp, extra or fused fingers, duplicate p
 
 IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
 
-TRANSFORM KEYFRAME NOTE: this frame locks the PEAK keyframe of the citrus-burst sequin-supernova magic ( spin-transform, identity-through-transform, keyframe-lock) — a radiant starburst of electric sequins and citrus-light explodes outward around her; identity, face and hair stay fully locked.
+TRANSFORM KEYFRAME NOTE: the citrus-burst sequin-supernova — the single impossible move, contained MID-CLIP at a HELD angle. This still is the KINDLE opening (Veo's FIRST frame): the citrus-burst sequin-supernova only just beginning, tight at its source, her look otherwise calm and fully resolved. The burst happens MID-CLIP at this same held angle and radiates then SETTLES to a sustained halo (Veo's LAST frame); the camera may push or orbit but never rotates its angle through it. Her SINGLE self, face, hair and wardrobe stay locked and uncovered throughout — only the effect animates. Believable real physics; no double-Aira, no blown highlights; frame joins are hard match-cuts to new angles.
 
 VISUAL-LEAD NOTE: the magical crest reads instantly in silence — a sequin-supernova bursting open behind and around the hero, the single most striking frame of the reel.
 
@@ -2314,7 +2314,7 @@ SHOT TYPE: medium-wide, three-quarter body, subject fills about 50% of the verti
 LENS: 35mm, f/3.5.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Medium-wide three-quarter body: a smooth graphic 20° 3D orbit is already arcing around her as she sweeps her arms outward and the citrus-sequin supernova explodes open in radiant rays; gaze lifting into the burst.
+- [00:00–00:02] Cut to medium-wide, three-quarter body, subject fills about 50% of the vertical frame — HELD angle (Veo first frame = the kindle still): the citrus-burst sequin-supernova is only just beginning, tight at its source, her look calm and fully resolved; gaze drawn to it (her single self held, the angle fixed).
 - [00:02–00:04] The orbit rides the burst to its luminous peak, sequin-sparks spiralling around her; eyes widening, an awe-struck joyful smile at full bloom.
 - [00:04–00:06] The rays hold and begin a gentle settle as the sparks drift and the orbit eases; her joyful smile landing, eyes alight.
 
@@ -2438,7 +2438,7 @@ Makeup : high-gloss jewel pop — mirror-gloss electric-violet lip, glassy skin,
 
 Eye Colour: locked to the Aira reference — warm hazel-brown with a soft amber inner ring; zero drift, both irises matched, no heterochromia
 
-Movement: macro rack-focus then a graphic 3D orbit on the levitating vial (beauty mandate)
+Movement: macro rack-focus then a graphic 3D orbit on the levitating vial (beauty mandate). Both impossible beats are contained MID-CLIP at a HELD angle — the material-assembly transform inside the transform frame (Veo first/last-frame: pre-form START -> resolved gown) and the VFX burst inside the magic frame (her single resolved look held, the effect kindles -> radiates -> settles to a halo); every frame join is a hard match-cut to a new angle.
 
 Concept Line (NOT spoken): "wet to the touch"
 
@@ -2454,7 +2454,7 @@ Spoken line: NONE (fully silent — no VO any frame)
 
 Audio note: per-frame diegetic SFX plus design only; separate Master Track Brief after the final frame; subtle, never full
 
-Identity safety: adult, non-sexualized; face, bone structure and hair locked to the reference; zero drift
+Identity safety: adult, non-sexualized; face, bone structure and hair locked to the reference; zero drift each impossible beat is contained inside one clip at a held angle and resolves smoothly by clip-end; her single self and face are never duplicated or covered.
 
 Visual-lead note: every beat reads in absolute silence through motion, electric jewel colour and high-gloss reflection
 
@@ -2536,11 +2536,11 @@ NEGATIVE: identity drift, face or hand warp, extra or fused fingers, duplicate p
 
 IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
 
-TRANSFORM KEYFRAME NOTE: this frame locks the START keyframe of the liquid-enamel pour-and-gloss-set transform — face and hair stay fixed while glossy jewel-tone enamel pours down over her and sets into the sculptural gown; identity never drifts.
+TRANSFORM KEYFRAME NOTE: the liquid-enamel pour-and-gloss-set transform — contained MID-CLIP inside this one frame at a HELD angle. This is the START frame of the transform CLIP (Veo's FIRST frame): glossy jewel-tone liquid enamel just beginning to sweep in from the frame edges toward the seam lines, the high-gloss liquid-vinyl gown that reads wet-painted, an electric-blue-to-ultraviolet ombré with a sculptural peplum and a sharp hem NOT yet formed. The change happens MID-CLIP at this same held angle — the glossy jewel-tone liquid enamel assembling and locking into the high-gloss liquid-vinyl gown that reads wet-painted, an electric-blue-to-ultraviolet ombré with a sculptural peplum and a sharp hem — settling into Frame 3's fully-formed image (Veo's LAST frame); the camera may travel or crane with her but never rotates its angle through the change. Face, hair and identity stay fixed throughout. Do NOT depict the formed gown in this still and do NOT invent a second Aira, a new face or new hands.
 
 VISUAL-LEAD NOTE: the cause-then-effect transform reads purely visually — ribbons of wet jewel enamel pour down and gloss-set into the vinyl gown.
 
-WARDROBE (mid-transform): the vinyl gown is 60% formed — thick glossy ribbons of electric-blue, ultraviolet and fuchsia enamel pour down from above and sheet around the bodice and peplum, the leading edges gloss-setting into sculptural form along the seam lines, a few enamel-sheets still flowing mid-pour finding their shape; surfaces snapping to a true wet-lacquer sheen, saturated and luminous, no dull or muddy patches.
+WARDROBE: (start of assembly) — the high-gloss liquid-vinyl gown that reads wet-painted, an electric-blue-to-ultraviolet ombré with a sculptural peplum and a sharp hem NOT yet formed; glossy jewel-tone liquid enamel just beginning to sweep in from the frame edges toward the seam lines, only the first elements starting to lock, surfaces clean and edges sharpening; no formed gown yet, no floating debris.
 
 FOOTWEAR: the ultraviolet patent knee boots fully formed and mirror-glossy, last enamel-ribbons gloss-setting around the sculpted heel.
 
@@ -2565,13 +2565,13 @@ SPATIAL LOGIC: FOREGROUND — a few enamel-ribbons streaking past at roughly 15%
 LIGHTING: KEY — feathered softbox beauty key. FILL — clamshell bounce. RIM — hair-light separating the finger-wave. PRACTICAL — UV wall glow. SEPARATION — wall one stop down. BOUNCE — soft card kick glossing the forming enamel and patent; a brief brighter pulse timed to the gloss-set for energy.
 
 FRAMING: ASPECT 9:16; medium, waist-up to show the forming gown, 12% headroom, dynamic negative space holding the incoming enamel pours.
-SUBJECT FRAMING & POSITION: A medium transformation showpiece, waist-up and easing wider as the look builds, about 12% headroom. Her body composed and near-frontal, the transform climbing the figure. Camera at mid distance easing back, clean negative space in the ultraviolet gloss-drip studio. The frame reads from roughly the waist up, near-frontal three-quarter, widening to take in the building couture. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A medium transformation showpiece, waist-up and easing wider as the look builds, about 12% headroom. Her body composed and near-frontal, the look held in its pre-form moment. Camera at mid distance easing back, clean negative space in the ultraviolet gloss-drip studio. The frame reads from roughly the waist up, near-frontal three-quarter, holding the pre-form START before it builds. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 LENS + DOF + BOKEH: 50mm, f/2.8; focus on her torso and face with enamel-ribbons reading crisp as they enter the focal plane; background creamy jewel; gentle bloom on accents.
 
-COMPOSITION REFERENCE: kinetic high-gloss transform still — wet, saturated, dynamic gloss-assembly.
+COMPOSITION REFERENCE: the held breath before the liquid-enamel pour-and-gloss-set assembly — kinetic, graphic, the single impossible build about to begin.
 
-ATMOSPHERE: joyful, sleek, magical — enamel literally pouring the look into being.
+ATMOSPHERE: anticipatory, electric, magical — the instant before the look builds around her from glossy jewel-tone liquid enamel.
 
 COLOR GRADE: hyper-vibrant high-gloss jewel — electric-blue, ultraviolet, fuchsia and emerald, crisp whites, rich uncrushed blacks, full mid-tone, zero grain, never muddy.
 
@@ -2590,9 +2590,9 @@ SHOT TYPE: medium, waist-up, subject fills about 60% of the vertical frame.
 LENS: 50mm, f/2.8.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Medium waist-up: a smooth 10% arc-push is already drifting a few degrees around her as glossy enamel-ribbons pour down from above and she opens her arms to present; gaze tracking the pouring enamel.
-- [00:02–00:04] The arc-push rides the build as the enamel sheets around the bodice and peplum and gloss-sets into sculptural form, edges snapping to a wet-lacquer sheen; a cool breath, brows lifting.
-- [00:04–00:06] The last ribbons set and the gloss-shimmer fades as the move eases; she lands a confident finished pose, eyes alight on the liquid-vinyl gown.
+- [00:00–00:02] Cut to medium, waist-up, subject fills about 60% of the vertical frame — HELD angle (Veo first frame = the pre-form START still): glossy jewel-tone liquid enamel already sweeping in from the frame edges as she opens to present — the high-gloss liquid-vinyl gown that reads wet-painted, an electric-blue-to-ultraviolet ombré with a sculptural peplum and a sharp hem NOT yet formed, the angle fixed for the whole clip; gaze tracking the incoming material.
+- [00:02–00:04] The change BEGINS here, mid-clip: the glossy jewel-tone liquid enamel assembling and locking along the seam lines into the high-gloss liquid-vinyl gown that reads wet-painted, an electric-blue-to-ultraviolet ombré with a sculptural peplum and a sharp hem in one continuous build — gradual and motivated, never a snap; a delighted breath, brows lifting in wonder (angle held, identity locked).
+- [00:04–00:06] The build completes and the look settles smoothly and fully into the high-gloss liquid-vinyl gown that reads wet-painted, an electric-blue-to-ultraviolet ombré with a sculptural peplum and a sharp hem of the Veo last-frame still (Frame 3's image), resolved and held; a confident finished beat, eyes alight.
 
 AUDIO: fully silent reel — no spoken word, no in-clip music. Diegetic and design only: room-tone bed; a soft airy whoosh of pouring enamel near 0.3s; a gentle cluster of glossy gloss-set ticks near 2.0 to 4.0s as the gown forms (layered, short tails); a soft bright sheen-settle near 5.0s; a light breath near 4.6s. External master lifts gently here.
 
@@ -2744,7 +2744,7 @@ NEGATIVE: identity drift, face or hand warp, extra or fused fingers, duplicate p
 
 IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
 
-TRANSFORM KEYFRAME NOTE: this frame locks the PEAK keyframe of the liquid-enamel splash-crown gloss-burst magic ( spin-transform, identity-through-transform, keyframe-lock) — a radiant crown of glossy jewel-enamel splashes up and arcs open around her, frozen mid-burst; identity, face and hair stay fully locked.
+TRANSFORM KEYFRAME NOTE: the liquid-enamel splash-crown gloss-burst — the single impossible move, contained MID-CLIP at a HELD angle. This still is the KINDLE opening (Veo's FIRST frame): the liquid-enamel splash-crown gloss-burst only just beginning, tight at its source, her look otherwise calm and fully resolved. The burst happens MID-CLIP at this same held angle and radiates then SETTLES to a sustained halo (Veo's LAST frame); the camera may push or orbit but never rotates its angle through it. Her SINGLE self, face, hair and wardrobe stay locked and uncovered throughout — only the effect animates. Believable real physics; no double-Aira, no blown highlights; frame joins are hard match-cuts to new angles.
 
 VISUAL-LEAD NOTE: the magical crest reads instantly in silence — a mirror-gloss enamel splash-crown bursting open behind and around the hero, the single most striking frame of the reel.
 
@@ -2798,7 +2798,7 @@ SHOT TYPE: medium-wide, three-quarter body, subject fills about 50% of the verti
 LENS: 35mm, f/3.5.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Medium-wide three-quarter body: a smooth graphic 20° 3D orbit is already arcing around her as she sweeps her arms outward and the liquid-enamel splash-crown bursts open in glossy ribboned rays; gaze lifting into the burst.
+- [00:00–00:02] Cut to medium-wide, three-quarter body, subject fills about 50% of the vertical frame — HELD angle (Veo first frame = the kindle still): the liquid-enamel splash-crown gloss-burst is only just beginning, tight at its source, her look calm and fully resolved; gaze drawn to it (her single self held, the angle fixed).
 - [00:02–00:04] The orbit rides the burst to its luminous peak, gloss-droplets spiralling around her; eyes widening, an awe-struck joyful smile at full bloom.
 - [00:04–00:06] The rays hold and begin a gentle settle as the droplets drift and the orbit eases; her joyful smile landing, eyes alight.
 
@@ -2922,7 +2922,7 @@ Makeup : petal-pop glow — satin coral lip, dewy skin, soft fuchsia blush drape
 
 Eye Colour: locked to the Aira reference — warm hazel-brown with a soft amber inner ring; zero drift, both irises matched, no heterochromia
 
-Movement: macro rack-focus then a graphic 3D orbit on the levitating compact (beauty mandate)
+Movement: macro rack-focus then a graphic 3D orbit on the levitating compact (beauty mandate). Both impossible beats are contained MID-CLIP at a HELD angle — the material-assembly transform inside the transform frame (Veo first/last-frame: pre-form START -> resolved gown) and the VFX burst inside the magic frame (her single resolved look held, the effect kindles -> radiates -> settles to a halo); every frame join is a hard match-cut to a new angle.
 
 Concept Line (NOT spoken): "unfold in bloom"
 
@@ -2938,7 +2938,7 @@ Spoken line: NONE (fully silent — no VO any frame)
 
 Audio note: per-frame diegetic SFX plus design only; separate Master Track Brief after the final frame; subtle, never full
 
-Identity safety: adult, non-sexualized; face, bone structure and hair locked to the reference; zero drift
+Identity safety: adult, non-sexualized; face, bone structure and hair locked to the reference; zero drift each impossible beat is contained inside one clip at a held angle and resolves smoothly by clip-end; her single self and face are never duplicated or covered.
 
 Visual-lead note: every beat reads in absolute silence through motion, vivid paper colour and soft craft-light
 
@@ -3020,11 +3020,11 @@ NEGATIVE: identity drift, face or hand warp, extra or fused fingers, duplicate p
 
 IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
 
-TRANSFORM KEYFRAME NOTE: this frame locks the START keyframe of the kirigami lace-cut fold-and-bloom transform — face and hair stay fixed while flat sheets of vivid paper cut, fold and bloom into the sculptural petal gown; identity never drifts.
+TRANSFORM KEYFRAME NOTE: the kirigami lace-cut fold-and-bloom transform — contained MID-CLIP inside this one frame at a HELD angle. This is the START frame of the transform CLIP (Veo's FIRST frame): flat sheets of vivid kirigami paper just beginning to sweep in from the frame edges toward the seam lines, the sculptural lace-cut paper gown of intricate kirigami petal layers in a coral-to-fuchsia graduation, a structured bodice and a voluminous petal skirt NOT yet formed. The change happens MID-CLIP at this same held angle — the flat sheets of vivid kirigami paper assembling and locking into the sculptural lace-cut paper gown of intricate kirigami petal layers in a coral-to-fuchsia graduation, a structured bodice and a voluminous petal skirt — settling into Frame 3's fully-formed image (Veo's LAST frame); the camera may travel or crane with her but never rotates its angle through the change. Face, hair and identity stay fixed throughout. Do NOT depict the formed gown in this still and do NOT invent a second Aira, a new face or new hands.
 
 VISUAL-LEAD NOTE: the cause-then-effect transform reads purely visually — flat paper sheets snip into lace, fold and pop-bloom into the gown.
 
-WARDROBE (mid-transform): the paper gown is 60% formed — flat sheets of coral, marigold, fuchsia and turquoise paper sweep in and self-cut into intricate kirigami lace, folding and popping up into the bodice and petal skirt along the seam lines, a few sheets still mid-fold finding their shape; petals crisping to clean scissored edges, saturated and luminous, no torn or muddy patches.
+WARDROBE: (start of assembly) — the sculptural lace-cut paper gown of intricate kirigami petal layers in a coral-to-fuchsia graduation, a structured bodice and a voluminous petal skirt NOT yet formed; flat sheets of vivid kirigami paper just beginning to sweep in from the frame edges toward the seam lines, only the first elements starting to lock, surfaces clean and edges sharpening; no formed gown yet, no floating debris.
 
 FOOTWEAR: the marigold satin pumps fully formed, last paper-petals folding into the ankle detail.
 
@@ -3049,13 +3049,13 @@ SPATIAL LOGIC: FOREGROUND — a few folding paper sheets streaking past at rough
 LIGHTING: KEY — feathered softbox beauty key. FILL — clamshell bounce. RIM — hair-light separating the updo. PRACTICAL — none. SEPARATION — paper-flower wall one stop down. BOUNCE — soft card kick glossing the forming paper and satin; a brief brighter pulse timed to the pop-bloom for energy.
 
 FRAMING: ASPECT 9:16; medium, waist-up to show the forming gown, 12% headroom, dynamic negative space holding the incoming paper arcs.
-SUBJECT FRAMING & POSITION: A medium transformation showpiece, waist-up and easing wider as the look builds, about 12% headroom. Her body composed and near-frontal, the transform climbing the figure. Camera at mid distance easing back, clean negative space in the paper-bloom garden studio. The frame reads from roughly the waist up, near-frontal three-quarter, widening to take in the building couture. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A medium transformation showpiece, waist-up and easing wider as the look builds, about 12% headroom. Her body composed and near-frontal, the look held in its pre-form moment. Camera at mid distance easing back, clean negative space in the paper-bloom garden studio. The frame reads from roughly the waist up, near-frontal three-quarter, holding the pre-form START before it builds. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 LENS + DOF + BOKEH: 50mm, f/2.8; focus on her torso and face with folding paper reading crisp as it enters the focal plane; background creamy bloom; gentle bloom on accents.
 
-COMPOSITION REFERENCE: kinetic tactile-craft transform still — paper, saturated, dynamic bloom-assembly.
+COMPOSITION REFERENCE: the held breath before the kirigami lace-cut fold-and-bloom assembly — kinetic, graphic, the single impossible build about to begin.
 
-ATMOSPHERE: joyful, handmade, magical — paper literally folding the look into being.
+ATMOSPHERE: anticipatory, electric, magical — the instant before the look builds around her from flat sheets of vivid kirigami paper.
 
 COLOR GRADE: hyper-vibrant paper-bloom — hot-coral, marigold, fuchsia and turquoise, crisp whites, rich uncrushed blacks, full mid-tone, zero grain, never muddy.
 
@@ -3074,9 +3074,9 @@ SHOT TYPE: medium, waist-up, subject fills about 60% of the vertical frame.
 LENS: 50mm, f/2.8.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Medium waist-up: a smooth 10% arc-push is already drifting a few degrees around her as flat paper sheets sweep in from the frame edges and she opens her arms to present; gaze tracking the incoming sheets.
-- [00:02–00:04] The arc-push rides the build as the paper self-cuts into kirigami lace and folds and pops up into the bodice and petal skirt, edges crisping into clean scissored line; a delighted breath, brows lifting.
-- [00:04–00:06] The last petals bloom open and the paper-flecks fade as the move eases; she lands a confident finished pose, eyes alight on the lace-cut gown.
+- [00:00–00:02] Cut to medium, waist-up, subject fills about 60% of the vertical frame — HELD angle (Veo first frame = the pre-form START still): flat sheets of vivid kirigami paper already sweeping in from the frame edges as she opens to present — the sculptural lace-cut paper gown of intricate kirigami petal layers in a coral-to-fuchsia graduation, a structured bodice and a voluminous petal skirt NOT yet formed, the angle fixed for the whole clip; gaze tracking the incoming material.
+- [00:02–00:04] The change BEGINS here, mid-clip: the flat sheets of vivid kirigami paper assembling and locking along the seam lines into the sculptural lace-cut paper gown of intricate kirigami petal layers in a coral-to-fuchsia graduation, a structured bodice and a voluminous petal skirt in one continuous build — gradual and motivated, never a snap; a delighted breath, brows lifting in wonder (angle held, identity locked).
+- [00:04–00:06] The build completes and the look settles smoothly and fully into the sculptural lace-cut paper gown of intricate kirigami petal layers in a coral-to-fuchsia graduation, a structured bodice and a voluminous petal skirt of the Veo last-frame still (Frame 3's image), resolved and held; a confident finished beat, eyes alight.
 
 AUDIO: fully silent reel — no spoken word, no in-clip music. Diegetic and design only: room-tone bed; a soft airy whoosh of incoming paper near 0.3s; a gentle cluster of crisp paper-fold and snip ticks near 2.0 to 4.0s as the gown forms (layered, short tails); a soft bright petal-settle near 5.0s; a light breath near 4.6s. External master lifts gently here.
 
@@ -3228,7 +3228,7 @@ NEGATIVE: identity drift, face or hand warp, extra or fused fingers, duplicate p
 
 IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
 
-TRANSFORM KEYFRAME NOTE: this frame locks the PEAK keyframe of the kirigami paper-flower pop-up bloom-burst magic ( spin-transform, identity-through-transform, keyframe-lock) — a radiant burst of pop-up paper flowers springs open and fans around her, frozen mid-bloom; identity, face and hair stay fully locked.
+TRANSFORM KEYFRAME NOTE: the kirigami paper-flower pop-up — the single impossible move, contained MID-CLIP at a HELD angle. This still is the KINDLE opening (Veo's FIRST frame): the kirigami paper-flower pop-up only just beginning, tight at its source, her look otherwise calm and fully resolved. The burst happens MID-CLIP at this same held angle and radiates then SETTLES to a sustained halo (Veo's LAST frame); the camera may push or orbit but never rotates its angle through it. Her SINGLE self, face, hair and wardrobe stay locked and uncovered throughout — only the effect animates. Believable real physics; no double-Aira, no blown highlights; frame joins are hard match-cuts to new angles.
 
 VISUAL-LEAD NOTE: the magical crest reads instantly in silence — a fan of vivid pop-up kirigami flowers bursting open behind and around the hero, the single most striking frame of the reel.
 
@@ -3282,7 +3282,7 @@ SHOT TYPE: medium-wide, three-quarter body, subject fills about 50% of the verti
 LENS: 35mm, f/3.5.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Medium-wide three-quarter body: a smooth graphic 20° 3D orbit is already arcing around her as she sweeps her arms outward and the pop-up kirigami flowers spring open in fanned arcs; gaze lifting into the bloom.
+- [00:00–00:02] Cut to medium-wide, three-quarter body, subject fills about 50% of the vertical frame — HELD angle (Veo first frame = the kindle still): the kirigami paper-flower pop-up is only just beginning, tight at its source, her look calm and fully resolved; gaze drawn to it (her single self held, the angle fixed).
 - [00:02–00:04] The orbit rides the bloom to its luminous peak, paper-flecks spiralling around her; eyes widening, an awe-struck joyful smile at full bloom.
 - [00:04–00:06] The flowers hold and begin a gentle settle as the flecks drift and the orbit eases; her joyful smile landing, eyes alight.
 
@@ -3406,7 +3406,7 @@ Makeup : candy-gloss pop — high-shine bubblegum-pink lip, glassy skin, a gloss
 
 Eye Colour: locked to the Aira reference — warm hazel-brown with a soft amber inner ring; zero drift, both irises matched, no heterochromia
 
-Movement: macro rack-focus then a graphic 3D orbit on the levitating bubble-vial (beauty mandate)
+Movement: macro rack-focus then a graphic 3D orbit on the levitating bubble-vial (beauty mandate). Both impossible beats are contained MID-CLIP at a HELD angle — the material-assembly transform inside the transform frame (Veo first/last-frame: pre-form START -> resolved gown) and the VFX burst inside the magic frame (her single resolved look held, the effect kindles -> radiates -> settles to a halo); every frame join is a hard match-cut to a new angle.
 
 Concept Line (NOT spoken): "blow it up"
 
@@ -3422,7 +3422,7 @@ Spoken line: NONE (fully silent — no VO any frame)
 
 Audio note: per-frame diegetic SFX plus design only; separate Master Track Brief after the final frame; subtle, never full
 
-Identity safety: adult, non-sexualized; face, bone structure and hair locked to the reference; zero drift
+Identity safety: adult, non-sexualized; face, bone structure and hair locked to the reference; zero drift each impossible beat is contained inside one clip at a held angle and resolves smoothly by clip-end; her single self and face are never duplicated or covered.
 
 Visual-lead note: every beat reads in absolute silence through motion, candy colour and glossy chrome reflection
 
@@ -3504,11 +3504,11 @@ NEGATIVE: identity drift, face or hand warp, extra or fused fingers, duplicate p
 
 IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
 
-TRANSFORM KEYFRAME NOTE: this frame locks the START keyframe of the mylar-balloon inflate-and-sculpt transform — face and hair stay fixed while flat candy-chrome foil inflates and twists into the sculptural balloon gown; identity never drifts.
+TRANSFORM KEYFRAME NOTE: the mylar-balloon inflate-and-sculpt transform — contained MID-CLIP inside this one frame at a HELD angle. This is the START frame of the transform CLIP (Veo's FIRST frame): flat candy-chrome mylar foil just beginning to sweep in from the frame edges toward the seam lines, the sculptural mylar-foil balloon gown of inflated chrome-and-candy segments, glossy and reflective, a bubble-sculpted bodice and a rounded voluminous skirt NOT yet formed. The change happens MID-CLIP at this same held angle — the flat candy-chrome mylar foil assembling and locking into the sculptural mylar-foil balloon gown of inflated chrome-and-candy segments, glossy and reflective, a bubble-sculpted bodice and a rounded voluminous skirt — settling into Frame 3's fully-formed image (Veo's LAST frame); the camera may travel or crane with her but never rotates its angle through the change. Face, hair and identity stay fixed throughout. Do NOT depict the formed gown in this still and do NOT invent a second Aira, a new face or new hands.
 
 VISUAL-LEAD NOTE: the cause-then-effect transform reads purely visually — flat foil inflates, twists and sculpts into the gown.
 
-WARDROBE (mid-transform): the balloon gown is 60% formed — flat sheets of magenta, electric-cyan, lime and tangerine mylar inflate and twist into rounded segments around the bodice and skirt, the leading forms sculpting into clean volume along the seam lines, a few segments still mid-inflate finding their shape; surfaces snapping to a true glossy foil sheen, saturated and luminous, no dented or muddy patches.
+WARDROBE: (start of assembly) — the sculptural mylar-foil balloon gown of inflated chrome-and-candy segments, glossy and reflective, a bubble-sculpted bodice and a rounded voluminous skirt NOT yet formed; flat candy-chrome mylar foil just beginning to sweep in from the frame edges toward the seam lines, only the first elements starting to lock, surfaces clean and edges sharpening; no formed gown yet, no floating debris.
 
 FOOTWEAR: the chrome bubble-platform heels fully formed and mirror-glossy, last segments inflating around the platform.
 
@@ -3533,13 +3533,13 @@ SPATIAL LOGIC: FOREGROUND — a few inflating mylar segments streaking past at r
 LIGHTING: KEY — feathered softbox beauty key. FILL — clamshell bounce. RIM — hair-light separating the bubble-bun. PRACTICAL — candy balloon glow. SEPARATION — balloon wall one stop down. BOUNCE — soft card kick glossing the forming mylar and chrome; a brief brighter pulse timed to the inflate-set for energy.
 
 FRAMING: ASPECT 9:16; medium, waist-up to show the forming gown, 12% headroom, dynamic negative space holding the inflating segments.
-SUBJECT FRAMING & POSITION: A medium transformation showpiece, waist-up and easing wider as the look builds, about 12% headroom. Her body composed and near-frontal, the transform climbing the figure. Camera at mid distance easing back, clean negative space in the candy-chrome balloon studio. The frame reads from roughly the waist up, near-frontal three-quarter, widening to take in the building couture. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A medium transformation showpiece, waist-up and easing wider as the look builds, about 12% headroom. Her body composed and near-frontal, the look held in its pre-form moment. Camera at mid distance easing back, clean negative space in the candy-chrome balloon studio. The frame reads from roughly the waist up, near-frontal three-quarter, holding the pre-form START before it builds. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 LENS + DOF + BOKEH: 50mm, f/2.8; focus on her torso and face with inflating mylar reading crisp as it enters the focal plane; background creamy candy; gentle bloom on accents.
 
-COMPOSITION REFERENCE: kinetic surreal-pop transform still — glossy, saturated, dynamic inflate-assembly.
+COMPOSITION REFERENCE: the held breath before the mylar-balloon inflate-and-sculpt assembly — kinetic, graphic, the single impossible build about to begin.
 
-ATMOSPHERE: joyful, playful, magical — mylar literally inflating the look into being.
+ATMOSPHERE: anticipatory, electric, magical — the instant before the look builds around her from flat candy-chrome mylar foil.
 
 COLOR GRADE: hyper-vibrant candy-chrome — magenta, electric-cyan, lime and tangerine with mirror-chrome, crisp whites, rich uncrushed blacks, full mid-tone, zero grain, never muddy.
 
@@ -3558,9 +3558,9 @@ SHOT TYPE: medium, waist-up, subject fills about 60% of the vertical frame.
 LENS: 50mm, f/2.8.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Medium waist-up: a smooth 10% arc-push is already drifting a few degrees around her as flat candy-chrome foil sweeps in from the frame edges and she opens her arms to present; gaze tracking the incoming foil.
-- [00:02–00:04] The arc-push rides the build as the foil inflates and twists into rounded segments around the bodice and skirt, surfaces snapping to a glossy mylar sheen; a delighted breath, brows lifting.
-- [00:04–00:06] The last segments round out and the candy-sparks fade as the move eases; she lands a confident finished pose, eyes alight on the inflated balloon gown.
+- [00:00–00:02] Cut to medium, waist-up, subject fills about 60% of the vertical frame — HELD angle (Veo first frame = the pre-form START still): flat candy-chrome mylar foil already sweeping in from the frame edges as she opens to present — the sculptural mylar-foil balloon gown of inflated chrome-and-candy segments, glossy and reflective, a bubble-sculpted bodice and a rounded voluminous skirt NOT yet formed, the angle fixed for the whole clip; gaze tracking the incoming material.
+- [00:02–00:04] The change BEGINS here, mid-clip: the flat candy-chrome mylar foil assembling and locking along the seam lines into the sculptural mylar-foil balloon gown of inflated chrome-and-candy segments, glossy and reflective, a bubble-sculpted bodice and a rounded voluminous skirt in one continuous build — gradual and motivated, never a snap; a delighted breath, brows lifting in wonder (angle held, identity locked).
+- [00:04–00:06] The build completes and the look settles smoothly and fully into the sculptural mylar-foil balloon gown of inflated chrome-and-candy segments, glossy and reflective, a bubble-sculpted bodice and a rounded voluminous skirt of the Veo last-frame still (Frame 3's image), resolved and held; a confident finished beat, eyes alight.
 
 AUDIO: fully silent reel — no spoken word, no in-clip music. Diegetic and design only: room-tone bed; a soft airy whoosh of inflating foil near 0.3s; a gentle cluster of mylar-squeak and bouncy inflate ticks near 2.0 to 4.0s as the gown forms (layered, short tails); a soft bright segment-settle near 5.0s; a light breath near 4.6s. External master lifts gently here.
 
@@ -3786,7 +3786,7 @@ IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
 
 VISUAL-LEAD NOTE: the mind-blowing climax — push the spectacle to its peak: a sky of chrome-and-candy balloons releases and bursts at once into a full-frame supernova of glossy foil-shards and candy confetti around a commanding radiant hero, all on image and lush sound, zero dialogue.
 
-MAGIC EFFECT — CHROME-BALLOON RELEASE / BALLOON-BURST CONFETTI SUPERNOVA (the single impossible move): the giant chrome and candy mylar balloons release upward all at once and burst in a synchronized supernova, releasing a billowing cloud of glossy foil-shards, candy confetti and chrome glitter that swirls outward around her along real air-currents. PHASE 1 (kindle, 0.0 to 0.4s) — a single hero balloon at her shoulder swells and catches a bright bloom of light. PHASE 2 (burst, 0.4 to 1.6s) — the burst races outward balloon to balloon in a rolling wave, each popping into a spray of mirror foil-shards and candy confetti. PHASE 3 (drift, 1.2 to 2.8s) — a cloud of confetti and chrome glitter lifts and swirls outward, each shard catching a pin-specular. PHASE 4 (settle) — a soft sustained halo of drifting confetti and chrome sparkle rings her. KEYFRAME LOCK — START: a single balloon swelling; END: full confetti supernova sustained, shards adrift, recognizable face radiant. Only the synchronized balloon-burst is impossible; gravity, light, drape, shadow and skin all obey real physics; no gravity-fail, no double-Aira, no blown highlights.
+TRANSFORM KEYFRAME NOTE: the CHROME-BALLOON RELEASE / BALLOON-BURST CONFETTI SUPERNOVA — the single impossible move, contained MID-CLIP at a HELD angle. This still is the KINDLE opening (Veo's FIRST frame): the CHROME-BALLOON RELEASE / BALLOON-BURST CONFETTI SUPERNOVA only just beginning, tight at its source, her look otherwise calm and fully resolved. The burst happens MID-CLIP at this same held angle and radiates then SETTLES to a sustained halo (Veo's LAST frame); the camera may push or orbit but never rotates its angle through it. Her SINGLE self, face, hair and wardrobe stay locked and uncovered throughout — only the effect animates. Believable real physics; no double-Aira, no blown highlights; frame joins are hard match-cuts to new angles.
 
 WARDROBE: the mylar balloon gown blazing in the burst light, bubble-bodice and rounded skirt-segments catching mirror-flashes, candy-chrome segments saturated; fully glossy, real inflated volume with a soft living bounce.
 
@@ -3838,7 +3838,7 @@ SHOT TYPE: full-figure magical grand hero, slightly low angle.
 LENS: 35mm, f/2.0.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Full-figure magical grand hero from a slightly low angle: a slow majestic push-in with a gentle boom-rise is already lifting as a single hero balloon at her shoulder swells and catches a bright bloom; gaze drawn to the swelling balloon.
+- [00:00–00:02] Cut to full-figure magical grand hero, slightly low angle — HELD angle (Veo first frame = the kindle still): the CHROME-BALLOON RELEASE / BALLOON-BURST CONFETTI SUPERNOVA is only just beginning, tight at its source, her look calm and fully resolved; gaze drawn to it (her single self held, the angle fixed).
 - [00:02–00:04] The boom keeps rising as the burst races outward balloon to balloon into a spray of mirror foil-shards and candy confetti, chrome glitter swirling along real air-currents; eyes lifting into the supernova, a radiant awe blooming.
 - [00:04–00:06] The confetti eases to a sustained drifting halo as the move settles; her radiant smile landing, eyes triumphant and haloed.
 
