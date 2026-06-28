@@ -26,7 +26,7 @@ Makeup: Dewy Garden-Fresh Glow
 
 Eye Colour: locked to the Aira reference (warm hazel-brown); zero drift frame to frame
 
-Movement: living-vine topiary growth wraps the gown → blossom-bloom burst
+Movement: living-vine topiary growth wraps the gown → blossom-bloom burst. Both impossible beats are contained MID-CLIP at a HELD angle: the moss-velvet → living-vine couture growth inside Frame 2 (Veo first/last-frame — Frame 2 image = moss-velvet Look A = first frame, Frame 3 image = living-vine couture Look B = last frame), and the blossom-bloom burst inside Frame 5 (her single resolved look held throughout, the bloom kindles → races → settles to a sustained petal halo); every frame join is a hard match-cut to a new angle.
 
 Concept Line: "she grows into bloom" (on-theme, NOT spoken)
 
@@ -42,7 +42,7 @@ Spoken line: NONE — fully silent reel
 
 Audio note: no voice on any frame; rich diegetic conservatory ambience + designed sound + a subtle Master Track Brief (present, never full-foreground)
 
-Identity safety: AIRA identity placeholder every frame; adult, non-sexualized; eye colour locked to reference
+Identity safety: AIRA identity placeholder every frame; adult, non-sexualized; eye colour locked to reference; each impossible beat (the F2 living-vine growth, the F5 blossom-bloom burst) is contained inside one clip at a held angle and resolves smoothly by clip-end — her single self and face never duplicated or covered.
 
 Visual-lead note (silent reel): every beat carries on image + sound design alone — the living-vine transform and the blossom-bloom climax do the talking
 
@@ -124,46 +124,46 @@ NEGATIVE: identity drift, face or hand warp, extra or fused fingers, duplicate p
 
 IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
 
-TRANSFORM KEYFRAME NOTE: START keyframe = the plain moss-green velvet column gown of Frame 1; END keyframe = a sculpted living-vine topiary couture gown — climbing vines, glossy emerald leaves and vivid pop-colour buds woven into a structured bodice and full leaf-tiered skirt. Lock identity, pose-continuity and the START/END silhouette so the growth reads as one continuous real-physics move; no second Aira, no teleport, no frame skip.
+TRANSFORM KEYFRAME NOTE: the living-vine topiary growth — contained MID-CLIP inside this one frame at a HELD angle. This is the START frame of the transform CLIP — render her fully in the plain moss-green silk-velvet column gown Look A (the exact still the Frame-2 video opens on, and Veo's FIRST frame): the moss-velvet column gown fully intact, face fully recognizable, the growth NOT yet begun. The change happens MID-CLIP at this same HELD angle — living vines race up in a rising wave and weave a structured emerald leaf-bodice and full tiered leaf-skirt threaded with vivid pop-colour buds — settling into Frame 3's resolved living-vine topiary couture image (Veo's LAST frame); the camera may travel or crane with her but never rotates its angle through the change. Identity, bone structure, hair colour and the start/end silhouette ride through untouched. Do NOT depict the morph in this still and do NOT invent a second Aira, a new face or new hands.
 
-VISUAL-LEAD NOTE (silent reel): this is the showpiece transform — sell it on pure motion and colour: living vines racing up the gown, leaves unfurling in waves, electric buds swelling — mind-blowing growth carried entirely on image and sound, zero dialogue.
+VISUAL-LEAD NOTE (silent reel): this opens the showpiece transform on the calm moss-velvet look — sell the held breath before the grow-on with image and sound; the living vines then race up mid-clip, zero dialogue.
 
-WARDROBE: (transforming) — the moss-velvet column is overtaken in a rising wave by living vines that weave a structured leaf-bodice and a full tiered skirt of overlapping glossy emerald leaves, threaded with swelling buds of vivid fuchsia, marigold, coral and electric-blue; fully modest high neckline preserved throughout; real botanical weight and drape, no floating leaves.
+WARDROBE: (start state) — a moss-green silk-velvet column gown, fully modest high neckline and long sleeve, the velvet pile catching the green-gold daylight as soft directional sheen bands; a clean princess seam, the hem pooling with real weight on mossy stone; fabric pristine — the look fully intact, no vines, leaves or buds yet.
 
-FOOTWEAR (transforming): the gold-leaf strappy heels stay, fine new tendrils spiralling up the ankle and lacing into living-vine anklets, tiny leaf-buds opening along the straps; real contact with the mossy stone, no mismatched footwear.
+FOOTWEAR: barely-there gold-leaf strappy heels, a slim 7cm heel, fine leaf-shaped gold straps crossing the foot, one delicate strand vine-wrapping the ankle; soft specular on the metallic leaf, real leather grain, matched to the gown, no mismatched footwear.
 
-ACCESSORIES (transforming): the gold-leaf ear-climber sprouts a single living tendril curling along the ear, and the emerald-drop pendant is haloed by a tiny ring of opening leaflets; understated, catching crisp speculars, never competing with the bloom.
+ACCESSORIES: a single slim gold-leaf ear-climber tracing the right ear, and a fine emerald-drop pendant resting at the hollow of the throat; both catching one clean pin-specular, understated and elegant, nothing competing with the hero product.
 
-HAIR (transforming): the soft botanical updo gains fine living tendrils threading through, a few jewel-bright buds nesting at the crown; loose face-framing pieces lifting in the growth-draught; real strands, hair colour locked to the reference.
+HAIR (Soft Botanical Updo): a soft low botanical updo with a gentle centre part, a few loose face-framing tendrils easing at the temple and nape, a natural soft sheen rather than a hard gloss; real strands with visible flyaway softness, hair colour locked to the reference.
 
-MAKEUP : the dewy garden-fresh glow holds, cheekbones catching the rising green-gold bounce, a fresh luminous sheen building as colour floods in around her; real skin with visible pores and peach-fuzz.
+MAKEUP : the dewy garden-fresh glow, lit cream highlight on the high cheekbone and brow-bone, soft rosewood-tint lip, warm petal-pink blush; real skin with visible pores and peach-fuzz.
 
-EYE COLOUR: locked to the Aira reference — warm hazel-brown with a soft amber inner ring; pops of fuchsia and marigold reflecting as tiny coloured catchlights without changing iris colour; both irises matched, zero drift, no heterochromia.
+EYE COLOUR: locked to the Aira reference — warm hazel-brown with a soft amber inner ring; crisp twin daylight catchlights; both irises matched, zero drift, no heterochromia.
 
-HANDS & NAILS: right hand still cradling the emerald bottle, a vine curling gently around the wrist; left hand opening as leaves unfurl across the palm's air; almond nails in clean rose-nude gloss, neat cuticles, natural nail-bed colour.
+HANDS & NAILS: right hand cradling the frosted emerald bottle at collarbone height, fingertips light on the glass; left hand open and relaxed near a fern frond, fingers softly curved; almond nails in clean rose-nude gloss, neat cuticles, natural nail-bed colour.
 
-FACIAL MICRO-DYNAMICS: lips parting a few millimetres on a soft wondering breath, eyes widening a touch with delight as the colour blooms around her, brows lifting about 2mm, a smile beginning; vivid coloured catchlights dancing in the iris; alive and present (no speech).
+FACIAL MICRO-DYNAMICS: a calm serene half-smile easing toward wonder, lips parted barely 1mm on a held breath the instant before the growth, eyes direct to lens with bright catchlights; the faintest warmth at the cheeks; a slow settling blink (no speech).
 
-BODY POSTURE & WEIGHT: a gentle rise and slow quarter-turn opening the new bodice to camera, arms easing outward as the skirt builds, weight shifting smoothly onto the front foot, spine lengthening; grounded, real momentum, mid-transformation.
+BODY POSTURE & WEIGHT: a gentle rise beginning a slow quarter-turn opening the right shoulder to camera, arms easing outward, weight rolling smoothly toward the front foot, spine lengthening; grounded, real momentum, the poised breath before the growth (living stillness).
 
-KINETIC STILLNESS (8 layers): (1) vines racing visibly up the gown in a rising wave; (2) glossy leaves unfurling in sequence across the skirt; (3) vivid buds swelling and just beginning to split; (4) fine tendrils spiralling up the arms and hair; (5) a flurry of loosed pollen-light and tiny leaf-flecks lifting; (6) the emerald oil glinting as the wrist turns; (7) the velvet pile dissolving into leaf-texture along the transform line; (8) chest rising on the wondering inhale.
+KINETIC STILLNESS (8 layers): (1) a loose tendril drifting at the temple in the conservatory air; (2) the green-gold oil rocking gently inside the tilted bottle; (3) drifting pollen-light motes floating slowly up-frame; (4) a fern frond easing a few millimetres in the warm draught; (5) chest rising on a soft inhale; (6) specular glints sliding along the curved emerald glass and gold collar; (7) the velvet pile shifting its highlight as her ribcage expands; (8) a slow eyelash settle completing a blink.
 
-SPATIAL LOGIC: FOREGROUND — unfurling leaves and the cradled bottle crossing frame, sharp. MIDGROUND — Aira mid-transform, vines weaving the couture gown, the hero. BACKGROUND — the conservatory bursting into answering colour, topiary blooming, pollen-light thickening, deep green depth.
+SPATIAL LOGIC: FOREGROUND — fern fronds and the cradled bottle, sharp. MIDGROUND — Aira in the moss-velvet gown, three-quarter, beginning her turn. BACKGROUND — the grand glass conservatory receding deep: topiary, climbing roses, tree ferns, mossy stone, a sunlit glass roof, drifting pollen-light.
 
-LIGHTING: KEY — the green-gold daylight lifting brighter as colour floods in. FILL — leaf-bounced green lifting shadows. RIM — warm sun-rim tracing the new leaf-silhouette. PRACTICAL — sun shafts intensifying through the glass. SEPARATION — a bright sunlit gap holding her edge against the busy bloom. BOUNCE — a card keeping a clean catch on the bottle and face.
+LIGHTING: KEY — soft green-gold morning daylight raking through the glass roof as a wrap beauty key. FILL — soft bounce off pale stone lifting under-chin shadow. RIM — a warm sun-rim skimming hair and shoulder for separation. PRACTICAL — sun shafts through the glass. SEPARATION — a brighter sunlit gap behind her head. BOUNCE — a hidden card adding a clean catch to the bottle glass.
 
-FRAMING: ASPECT 9:16; easing from medium-close toward medium as the skirt builds, 10% headroom, the growth filling the lower two-thirds.
-SUBJECT FRAMING & POSITION: A medium transformation showpiece, waist-up and easing wider as the look builds, about 10% headroom. Her body easing through the transform, weight rolling forward, torso opening toward the lens, the transform climbing the figure. Camera at mid distance easing back, clean negative space in the verdant conservatory. The frame reads from roughly the waist up, near-frontal three-quarter, widening to take in the building couture. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+FRAMING: ASPECT 9:16; medium, easing from medium-close as the turn begins, 10% headroom, the conservatory depth behind.
+SUBJECT FRAMING & POSITION: A medium showpiece-opening framing, waist-up, about 10% headroom. Her body easing into a slow quarter-turn, weight rolling forward, torso opening toward the lens. Camera at mid distance in the verdant conservatory, clean negative space. The frame reads from roughly the waist up, near-frontal three-quarter, holding the calm moss-velvet look before it grows. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
-LENS + DOF + BOKEH: 40mm, f/2.5; face and weaving bodice sharp, the blooming conservatory to creamy multi-colour bokeh, vivid round speculars off dew and glass; clean highlight roll-off on the saturated colour, no clipping.
+LENS + DOF + BOKEH: 40mm, f/2.5; face and velvet bodice sharp, the conservatory to creamy green bokeh, soft round speculars off dew and glass; clean highlight roll-off, no clipping.
 
-COMPOSITION REFERENCE: a mind-blowing living-couture grow-on — vivid, kinetic, phone-stopping, the single impossible move of the reel building.
+COMPOSITION REFERENCE: the held breath before the mind-blowing living-couture grow-on — calm, lush, the single impossible move about to build.
 
-ATMOSPHERE: electric, lush, magical — a garden erupting into pop colour around a calm radiant figure.
+ATMOSPHERE: fresh, serene, expectant — a calm radiant figure the instant before the garden erupts into pop colour around her.
 
-COLOR GRADE: bright VIBRANT POP-COLOUR botanical — vivid emerald and moss with electric fuchsia, marigold, coral and electric-blue blossoms, gold-green daylight, dewy porcelain skin, high saturation kept clean and rich-but-open, no teal-orange, no muddy mids.
+COLOR GRADE: bright verdant botanical — rich emerald and moss green, warm gold-green daylight, dewy porcelain skin, clean whites, blacks rich but open, full mid-tone detail, no teal-orange, no muddy mids.
 
-TEXTURE & MICRO-DETAIL: real leaf micro-texture — visible veins, glossy cuticle sheen, fine serrated edges; vine fibre and tiny thorns reading true; buds with dewed petal-skin just splitting; the velvet-to-leaf transition line crisp and physical; pollen-light reading as real fine grains, not a flat overlay.
+TEXTURE & MICRO-DETAIL: the moss-velvet shows real pile direction and a soft sheen shift; the frosted emerald glass shows matte grain with sub-surface oil glow; dewy skin micro-texture with peach-fuzz; a dew-bead trembling on a nearby leaf; one pollen mote drifting through the key beam.
 
 SPOKEN LINE: NONE — silent transform; a soft wondering breath only, no speech.
 
@@ -178,9 +178,9 @@ SHOT TYPE: medium, transformation showpiece, easing wider as the skirt builds.
 LENS: 40mm, f/2.5.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Medium transformation showpiece: a slow majestic 20° arc with a gentle boom-rise is already tracking the growth as vines race up from the hem and the velvet dissolves into a leaf-bodice; gaze following the climbing green.
-- [00:02–00:04] The arc keeps rising as leaves unfurl in waves up the skirt and arms and vivid buds swell, she beginning her slow quarter-turn; a wondering breath, brows lifting in awe.
-- [00:04–00:06] The couture gown locks in with buds poised to bloom and a flurry of pollen-light lifting as the arc eases; she settles into the finished silhouette, calm and radiant.
+- [00:00–00:02] Cut to a medium transformation showpiece — HELD angle (Veo first frame = the moss-velvet Look A still): a gentle push-with is already travelling with her in the plain moss-green velvet gown as she begins a slow quarter-turn — the look fully intact, NO growth yet, the angle fixed for the whole clip; gaze easing up.
+- [00:02–00:04] The growth BEGINS here, mid-clip: living vines race up from the hem in one continuous rising wave and the velvet weaves into a structured emerald leaf-bodice and tiered leaf-skirt with vivid buds swelling exactly where they pass — gradual and motivated, never a snap; a wondering breath, brows lifting in awe (angle held, identity locked).
+- [00:04–00:06] The wave completes and the look settles smoothly and fully into the living-vine topiary couture Look B of the Veo last-frame still (Frame 3's image), buds poised to bloom, a flurry of pollen-light lifting; she lands calm and radiant.
 
 AUDIO: diegetic-plus-design, no spoken word (silent reel). Ambient bed — the warm conservatory tone swelling with a soft rising wash. SFX — a soft organic creak-and-rustle of racing vines 0.0 to 1.2s, a cascade of delicate leaf-unfurl ticks 1.2 to 3.2s, soft bud-swell pops and a gentle pollen-shimmer 3.2 to 5.0s, a warm settle-chord at 5.2s. Reaction — a soft wondering breath at 1.6s. VO — none. Master track lifts gently under the transform then settles (subtle, never full).
 
@@ -338,9 +338,9 @@ IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
 
 VISUAL-LEAD NOTE (silent reel): the mind-blowing climax — push the spectacle to its peak: every bud on the gown erupts at once into a full-frame burst of vivid pop-colour blossoms with a cloud of drifting petal-confetti and pollen-light, a commanding radiant hero silhouette, all on image and lush sound, zero dialogue.
 
-MAGIC EFFECT — BLOSSOM-BLOOM BURST (the single impossible move): the hundreds of buds threaded through the leaf-couture gown bloom open in a synchronized wave into vivid pop-colour flowers — fuchsia, marigold, coral, electric-blue and white — releasing a billowing cloud of petal-confetti and golden pollen-light that swirls outward around her along real air-currents. PHASE 1 (kindle, 0.0 to 0.5s) — a single bud at the heart of the bodice splits and flares its first vivid petal. PHASE 2 (bloom, 0.5 to 1.8s) — the bloom races outward bud to bud, every flower bursting open in a rolling wave of colour up the gown and skirt. PHASE 3 (drift, 1.2 to 2.5s) — a cloud of petal-confetti and pollen-light lifts and swirls outward, each catching a pin-specular. PHASE 4 (settle) — a soft sustained halo of drifting petals and golden light rings her, the gown now in full vivid bloom. KEYFRAME LOCK — START: a single bud splitting; END: full blossom-bloom sustained, petals adrift, recognizable face radiant. Only the synchronized bloom-burst is impossible; gravity, light, drape, shadow and skin all obey real physics; no gravity-fail, no double-Aira, no blown highlights.
+MAGIC EFFECT — BLOSSOM-BLOOM BURST (the single impossible move, contained MID-CLIP at a HELD angle): the hundreds of buds threaded through the leaf-couture gown bloom open in a synchronized wave into vivid pop-colour flowers — fuchsia, marigold, coral, electric-blue and white — releasing a billowing cloud of petal-confetti and golden pollen-light that swirls outward along real air-currents, then SETTLES to a sustained petal halo. This still is the KINDLE opening (Veo's FIRST frame): a single bud at the heart of the bodice just splitting, the gown otherwise still in calm leaf-couture, the full bloom NOT yet open. The burst happens MID-CLIP at this same HELD angle and resolves to the sustained-halo end (Veo's LAST frame); the camera may push or boom but never rotates its angle through the burst. PHASE 1 (kindle, 0.0 to 0.5s) — the single heart-bud splits and flares its first vivid petal. PHASE 2 (bloom, 0.5 to 1.8s) — the bloom races outward bud to bud in a rolling wave of colour up the gown and skirt. PHASE 3 (drift, 1.2 to 2.5s) — a cloud of petal-confetti and pollen-light lifts and swirls outward, each catching a pin-specular. PHASE 4 (settle) — a soft sustained halo of drifting petals and golden light rings her. Her SINGLE self and face stay locked and uncovered throughout — never duplicated, never petal-masked; only the bloom animates. Gravity, light, drape, shadow and skin all obey real physics; no gravity-fail, no double-Aira, no blown highlights; frame joins are hard match-cuts to new angles.
 
-WARDROBE: (in full bloom) — the leaf-couture gown now blazing with open vivid pop-colour flowers across bodice and tiered skirt, petals trembling, fully modest neckline and long line; real botanical weight with a soft living sway.
+WARDROBE: (leaf-couture, bloom just kindling) — the structured emerald leaf-couture gown still calm across bodice and tiered skirt with its buds closed, only a single heart-bud at the bodice just splitting its first vivid petal, fully modest neckline and long line; real botanical weight with a soft living sway — the full bloom NOT yet open.
 
 FOOTWEAR: the gold-leaf heels with living-vine anklets now flowering with tiny open buds, petals settling at the foot; real contact, matched to the gown.
 
@@ -358,9 +358,9 @@ FACIAL MICRO-DYNAMICS: lips parting on a soft powerful breath becoming a radiant
 
 BODY POSTURE & WEIGHT: a slight powerful back-lean as the burst crests, chest open, spine long, weight grounded on both feet, arms easing outward — a commanding radiant hero silhouette, triumphant.
 
-KINETIC STILLNESS (8 layers): (1) flowers bursting open in a rolling wave bud to bud; (2) a billowing cloud of petal-confetti lifting and swirling outward; (3) golden pollen-light streaming up around her; (4) fine hair-tendrils and crown-blooms lifting in the burst-draught; (5) chest rising on the powerful breath; (6) vivid speculars travelling the open petals and the emerald glass; (7) the far topiary answering with its own wave of bloom; (8) a gentle drift of petals settling and pooling at her feet.
+KINETIC STILLNESS (8 layers): (1) the single heart-bud splitting and flaring its first petal; (2) the other buds trembling, poised on the edge of opening; (3) golden pollen-light just beginning to lift around her; (4) fine hair-tendrils easing in the conservatory air; (5) chest rising on a soft powerful inhale; (6) a vivid specular kindling on the first petal and the emerald glass; (7) the far topiary holding, about to answer; (8) the green-gold daylight steady before the colour floods.
 
-SPATIAL LOGIC: FOREGROUND — her open hand as the bloom-burst ripples up the gown, sharp. MIDGROUND — Aira haloed by the blossom-bloom burst and swirling petal-confetti, the hero. BACKGROUND — the conservatory alive with vivid pop colour, topiary blooming, pollen-light streaming, a deep green depth receding.
+SPATIAL LOGIC: FOREGROUND — her open hand and the single splitting heart-bud, sharp. MIDGROUND — Aira in the calm leaf-couture, the hero, the first petal kindling. BACKGROUND — the sunlit conservatory deep and green, topiary poised, pollen-light drifting, ready to answer the bloom.
 
 LIGHTING: KEY — the colour-burst lifted as a live key across the gown, over the green-gold daylight. FILL — leaf-and-petal bounce lifting shadows. RIM — a warm backlight holding her silhouette inside the swirl. PRACTICAL — sun shafts blazing through the glass roof. SEPARATION — the swirling petal halo framing her. BOUNCE — a card sustaining skin and glass.
 
@@ -390,9 +390,9 @@ SHOT TYPE: full-figure magical grand hero, slightly low angle.
 LENS: 35mm, f/2.0.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Full-figure magical grand hero from a slightly low angle: a slow majestic push-in with a gentle boom-rise is already lifting as a single bud at the heart of the bodice splits and flares its first vivid petal; gaze drawn to the opening bud.
-- [00:02–00:04] The boom keeps rising as the bloom races outward bud to bud, petal-confetti and pollen-light swirling around her and the topiary blooming behind; eyes lifting into the swirl, a radiant awe blooming.
-- [00:04–00:06] The petals trail out, easing to a sustained drifting halo as the move settles; her radiant smile landing, eyes triumphant and haloed.
+- [00:00–00:02] Cut to a full-figure magical grand hero — HELD low angle (Veo first frame = the kindle still): a gentle push-with boom-rise is already lifting as the single heart-bud splits and flares its first vivid petal, the gown otherwise calm leaf-couture; gaze drawn to the opening bud (her single self held, angle fixed).
+- [00:02–00:04] The burst BEGINS here, mid-clip: the bloom races outward bud to bud in one rolling wave of colour up the gown, petal-confetti and pollen-light swirling around her on real air-currents and the topiary answering behind — her face uncovered and locked throughout; eyes lifting into the swirl, a radiant awe blooming.
+- [00:04–00:06] The petals ease to a sustained drifting halo as the move settles into the Veo last-frame still; her radiant smile landing, eyes triumphant and haloed.
 
 AUDIO: diegetic-plus-design, no spoken word (silent reel). Ambient bed — the warm conservatory tone blooming into a lush orchestral swell with a soft timpani roll cresting at the burst then settling. SFX — a soft bud-split flare 0.2s, a gentle blossom-bloom whoosh and a sparkling pass of petal-confetti and pollen-light tracking the swirl 0.5 to 2.2s, soft petal-flutter settling 1.2 to 3.0s, a warm resonance under the settle. Reaction — a soft powerful breath at 1.9s. VO — none. Master track rises to its fullest-but-still-restrained moment under the burst then eases (subtle, never full).
 
