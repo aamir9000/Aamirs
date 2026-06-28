@@ -759,3 +759,21 @@ speed, NO slow-motion; identity-safe (face = eye-led only, D); energy matched to
 (powerful/strident, soft/flowing, or explosive/athletic). Exceptions per M.6 (GRWM / identical-
 pose premise / beauty-still) stay contained. During a TRANSFORM clip the camera ANGLE holds (L.2)
 but her body may still move through the kinetic chain.
+
+
+
+### M.8 — IMPLEMENTATION: the pose/motion fix lives in BOTH the video AND the image prompts
+Applying M.6/M.7 to a concept means editing TWO places per frame, not just one:
+- VIDEO prompt: re-author the `SHOT BREAKDOWN` beats so each frame carries a head-to-toe kinetic
+  chain (M.7), a different combination per frame. This is the primary motion driver for Veo.
+- IMAGE prompt: update each frame's `BODY POSTURE & WEIGHT`, `SUBJECT FRAMING & POSITION`,
+  `HANDS & NAILS` (and the `KINETIC STILLNESS` layers) so the START STILL already shows that
+  DISTINCT DYNAMIC POSE (mid-stride, mid-turn, contrapposto, glance-back, level change, etc.).
+  Veo animates from this still, so a static standing still will not produce the motion — the
+  still itself must be a dynamic pose, and a different pose every frame.
+- Loop + first/last-frame still hold: F-last returns to F1's (now dynamic) pose; the transform
+  clip's first/last stills are the dynamic Look-A / Look-B poses.
+SEQUENCING (per user): FIRST finish the L+M retrofit (sections L + lean-strip) across ALL
+transformation concepts/files; THEN do this full-body pose/motion pass (M.6-M.8) over everything.
+Exceptions stay contained: GRWM (11-13), identical-pose premise (02 Six Cities), beauty-still (14);
+fragrance (06,07) gentle motion.
