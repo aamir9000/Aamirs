@@ -3044,6 +3044,88 @@ BEATSLM[46] = [
 ]
 
 
+BEATSLM[47] = [
+    # F1 - fluid-art hero (contained, product-at-face), push-in
+    (
+        "Cut to a medium-close chest-up in the fluid-art studio: she is already cradling the "
+        "clear cylindrical Fluid Art pigment bottle at her collarbone as a slow push eases in, "
+        "the sleek charcoal-to-deep-teal backdrop and glossy poured surface behind her, soft "
+        "galaxy paint ribbons drifting; her left hand easy near her jaw.",
+        "The push settles as a finger-wave catches the cool key and her deep gaze eases to lens, "
+        "a galaxy ribbon swirling past, a mesmerized knowing quarter-smile settling.",
+        "She holds the fluid-art look in the iridescent deep-teal top, the sheen shifting "
+        "teal-to-purple, eyes deep and luminous (the line lands later).",
+    ),
+    # F2 - build, pigment glide, first ribbon; rack-focus product->eye
+    (
+        "Cut to a medium-close three-quarter, a rack-focus pulling from the bottle to her eye: "
+        "she is already gliding the liquid pigment soft along her cheekbone and the first glossy "
+        "galaxy paint ribbon begins to pour and swirl through the air beside her; gaze cast soft "
+        "to the bottle.",
+        "The pigment catches a jewel-tone sheen on her cheekbone as her gaze deepens with "
+        "mesmerized focus and a knowing micro-smile kindles, more paint ribbons swirling in.",
+        "She holds the bottle poised near her cheek, eyes deep and mesmerized, the fluid-art "
+        "look intact (silent here).",
+    ),
+    # F3 - START clean (ribbons gathering, NO full swirl yet), slow arc
+    (
+        "Cut to a medium chest-up on a fresh three-quarter angle: she eases the bottle down and "
+        "opens her hand soft as the first galaxy paint ribbons pour and swirl, drawing a slow "
+        "breath as the camera arcs a few degrees and the glossy studio swings behind with "
+        "parallax; gaze lifting.",
+        "The arc settles as her gaze lifts to lens with rising mesmerized calm and a knowing "
+        "micro-smile forms, glossy galaxy-toned paint ribbons beginning to pour and swirl in "
+        "marbled arcs around her, her single face clear and unpaint-covered, still the fluid-art "
+        "look.",
+        "She holds the poised mesmerized beat, the ribbons swirling soft around her, eyes deep "
+        "and bright \u2014 the hush before the paint-pour swirl (silent here).",
+    ),
+    # F4 - THE TRANSFORM, HELD ANGLE, smooth mid-clip paint-pour swirl (NOT her face); first=fluid-art, last=paint-swirled
+    (
+        "Cut to an energized medium at a HELD angle (Veo first frame = the fluid-art Look A "
+        "still): she holds her fluid-art look, already in motion \u2014 only a few soft ribbons "
+        "drifting, NO full swirl yet, a gentle push-with easing in, the angle fixed for the "
+        "whole clip.",
+        "The galaxy paint-pour swirl BEGINS here, mid-clip: glossy galaxy-toned paint ribbons "
+        "pour and swirl through the air in mesmerizing marbled arcs around her in one continuous "
+        "flowing pour, cosmic blue, purple and teal with gold veins marbling through the air and "
+        "around her shoulder exactly where they pour \u2014 believable real fluid paint-pour "
+        "physics (true viscous marbling, ribbon flow and surface tension, gold flecks suspended "
+        "in the swirl, no cheap sparkles), her single face clear and locked (NEVER paint-"
+        "covered, replaced or duplicated), eyes deep with mesmerized wonder (angle held, "
+        "identity locked).",
+        "The swirl completes and the look settles smoothly and fully into the full paint-swirled "
+        "after-look of the Veo last-frame still (Frame 5's image) \u2014 glossy marbled galaxy "
+        "paint ribbons swirling around her single locked face in the jewel-tone studio, resolved "
+        "and held through the final beat, no last-second pop; a deep mesmerized calm landing in "
+        "her eyes.",
+    ),
+    # F5 - END paint-swirled reveal, hand to bottle, spoken line
+    (
+        "Cut to a medium close on a new angle in the glossy jewel-tone haze: she is already in "
+        "the full paint-swirled look, easing her right hand back toward the pigment bottle at "
+        "her collarbone with an easy roll of the shoulder, her single face clear and unpaint-"
+        "covered; gaze deep to lens.",
+        "She delivers \u201cI'm a work of art.\u201d to lens with a mesmerized knowing smile and "
+        "natural lip-sync, the marbled ribbons swirling soft around her, eyes deep and "
+        "luminous.",
+        "She holds the paint-swirled mesmerizing look, her single face clear and the bottle "
+        "cradled soft, eyes deep and direct.",
+    ),
+    # F6 - loop close, cradle bottle matched to F1
+    (
+        "Cut to a medium-close chest-up matched to Frame 1: she returns her right hand to cradle "
+        "the clear cylindrical Fluid Art pigment bottle soft at her collarbone and her left easy "
+        "near her jaw exactly as in Frame 1 as the camera settles to the opening framing.",
+        "She eases her deep gaze back to lens on a slow breath with the composed mesmerized "
+        "quarter-smile, the full paint-swirl resolving back toward the opening fluid-art look to "
+        "seed the loop.",
+        "She lands precisely on the Frame 1 pose and gaze, deep and mesmerized in the fluid-art "
+        "studio \u2014 a seamless loop seam.",
+    ),
+]
+
+
 def build_block(beats):
     return (
         BREAKDOWN_HEADER + "\n"
