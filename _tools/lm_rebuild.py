@@ -3215,6 +3215,88 @@ BEATSLM[48] = [
 ]
 
 
+BEATSLM[49] = [
+    # F1 - magical-cozy winter hero (contained, product-at-face), push-in
+    (
+        "Cut to a medium-close chest-up in the cozy winter snow-globe scene: she is already "
+        "cradling the round snow-globe-shaped Snow Globe jar at her collarbone as a slow push "
+        "eases in, the warm cabin window with snow falling beyond the glass behind her, "
+        "twinkling silver frost; her left hand easy near her jaw.",
+        "The push settles as a cozy face-framing tendril eases in the warm-and-cool light and "
+        "her warm gaze eases to lens, a glittering snowflake drifting past, a cozy magical "
+        "quarter-smile settling.",
+        "She holds the magical-cozy winter look in the cream-and-silver fair-isle knit, the knit "
+        "catching warm amber and cool snow-blue, eyes warm and luminous (the line lands later).",
+    ),
+    # F2 - build, balm glide, first snow; rack-focus product->eye
+    (
+        "Cut to a medium-close three-quarter, a rack-focus pulling from the jar to her eye: she "
+        "is already gliding the frost-shimmer balm soft along her cheekbone and the first "
+        "glittering snowflakes begin to lift and drift in the air around her; gaze cast soft to "
+        "the jar.",
+        "The frost balm catches a cool silver-pink sheen on her cheekbone as her gaze warms with "
+        "cozy wonder and a soft micro-smile kindles, more snow lifting in.",
+        "She holds the jar poised near her cheek, eyes warm and cozy, the magical-cozy look "
+        "intact (silent here).",
+    ),
+    # F3 - START clean (snow lifting, NO full flurry yet), slow arc
+    (
+        "Cut to a medium chest-up on a fresh three-quarter angle: she eases the jar down and "
+        "opens her hand soft as the first glittering snow lifts and begins to swirl, drawing a "
+        "slow warm breath as the camera arcs a few degrees and the cabin window swings behind "
+        "with parallax; gaze lifting.",
+        "The arc settles as her gaze lifts to lens with rising cozy wonder and a knowing "
+        "micro-smile forms, a glittering snow-flurry beginning to lift and swirl around her like "
+        "a shaken snow-globe, her single face clear and unsnow-covered, still the magical-cozy "
+        "look.",
+        "She holds the poised cozy beat, the snow lifting soft around her, eyes warm and bright "
+        "\u2014 the hush before the snow-globe flurry (silent here).",
+    ),
+    # F4 - THE TRANSFORM, HELD ANGLE, smooth mid-clip snow flurry (NOT her face); first=magical-cozy, last=snow-haloed
+    (
+        "Cut to an ethereal medium at a HELD angle (Veo first frame = the magical-cozy Look A "
+        "still): she holds her cozy winter look, already in motion \u2014 only a little snow "
+        "lifting, NO full flurry yet, a gentle push-with easing in, the angle fixed for the "
+        "whole clip.",
+        "The snow-globe swirl flurry BEGINS here, mid-clip: the scene shakes like a snow-globe "
+        "and a swirling flurry of glittering snow lifts and spirals around her in magical arcs "
+        "then settles to a soft snow-halo in one continuous swirling motion, the glitter-snow "
+        "rising and looping through the warm-and-cool air and around her shoulder exactly where "
+        "it swirls \u2014 believable real snow physics (true snow-globe flurry of glitter-flakes "
+        "lifting and settling on real air currents and gravity, no cheap sparkles), her single "
+        "face clear and locked (NEVER snow-covered, replaced or duplicated), eyes warm with cozy "
+        "wonder (angle held, identity locked).",
+        "The flurry completes and the look settles smoothly and fully into the full snow-haloed "
+        "after-look of the Veo last-frame still (Frame 5's image) \u2014 a soft glittering "
+        "snow-halo settled around her single locked face in the cozy cabin glow, resolved and "
+        "held through the final beat, no last-second pop; a cozy warm calm landing in her eyes.",
+    ),
+    # F5 - END snow-haloed reveal, hand to jar, spoken line
+    (
+        "Cut to a medium close on a new angle in the cozy cabin glow: she is already in the full "
+        "snow-haloed look, easing her right hand back toward the snow-globe jar at her "
+        "collarbone with an easy roll of the shoulder, her single face clear and unsnow-covered; "
+        "gaze warm to lens.",
+        "She delivers \u201cthe magic's already inside.\u201d to lens with a cozy magical smile "
+        "and natural lip-sync, the snow-halo glittering soft around her, eyes warm and "
+        "luminous.",
+        "She holds the snow-haloed cozy look, her single face clear and the jar cradled soft, "
+        "eyes warm and direct.",
+    ),
+    # F6 - loop close, cradle jar matched to F1
+    (
+        "Cut to a medium-close chest-up matched to Frame 1: she returns her right hand to cradle "
+        "the round snow-globe-shaped jar soft at her collarbone and her left easy near her jaw "
+        "exactly as in Frame 1 as the camera settles to the opening framing.",
+        "She eases her warm gaze back to lens on a slow breath with the composed cozy "
+        "quarter-smile, the snow-halo resolving back toward the opening magical-cozy look to "
+        "seed the loop.",
+        "She lands precisely on the Frame 1 pose and gaze, cozy and magical in the winter scene "
+        "\u2014 a seamless loop seam.",
+    ),
+]
+
+
 def build_block(beats):
     return (
         BREAKDOWN_HEADER + "\n"
