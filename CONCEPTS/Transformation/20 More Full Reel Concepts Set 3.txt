@@ -8090,7 +8090,7 @@ Hair: AP — a dramatic high sculptural updo with sleek volume and a few soft fa
 
 Makeup: AQ — triumphant rebirth: a molten copper-gold gradient shimmer lid, a warm bronzed contour, a bold glossy terracotta-rose lip, a radiant gold highlight on the high points, soft-strong lashes, a faint gold-leaf glint at the inner eye, soft-set brows, sculpted glowing skin with real pores
 
-Movement: elixir glide → phoenix-ember feather rise transform (the one impossible move) — drifting embers gather and rise into great glowing phoenix-feather wing forms that lift and unfurl around her in triumphant arcs then settle to a soft ember-halo, while her single face stays clear and locked (never ember-covered or replaced)
+Movement: phoenix-ember feather rise transform (the one impossible move) — drifting embers gather and rise into great glowing phoenix-feather wing forms that lift and unfurl around her in triumphant arcs then settle to a soft ember-halo, while her single face stays clear and locked (never ember-covered or replaced), CONTAINED mid-clip inside Frame 4 at a HELD angle (begins mid-clip, rises smoothly, never an instant snap; believable real ember physics — true glowing embers rising on real heat-convection updraft forming radiant feather-wing shapes, no cheap sparkles). Veo first/last-frame continuity (Frame 4 image = triumphant rebirth Look A with embers only rising = first frame, Frame 5 image = full ember-haloed Look B = last frame); every frame join is a hard match-cut to a new angle. (Beauty-still — contained product-at-face pose held per M.6.)
 
 Concept Line: "I always rise"
 
@@ -8156,9 +8156,9 @@ SHOT TYPE: medium close, chest-up, subject fills about 55% of the vertical frame
 LENS: 50mm, f/2.0, smooth charcoal background fall-off.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Medium close chest-up in the dark studio of rising embers: a slow push-in is already gliding toward her as she tilts the flame-bottle a few degrees into the warm key, gold speculars sliding along the cap and the molten-amber elixir settling; gaze lowered to the bottle, embers rising slow behind her.
-- [00:02–00:04] The push continues as she lifts her gaze to lens on a soft inhale and a triumphant quarter-smile blooms, molten-gold rim-light on her.
-- [00:04–00:06] She holds, radiant and triumphant, her single face clear and locked, eyes bright, embers rising across the charcoal void.
+- [00:00–00:02] Cut to a medium-close chest-up in the dramatic dark studio of rising embers: she is already cradling the flame-shaped Phoenix elixir bottle at her collarbone as a slow push eases in, the deep charcoal-black void and warm molten-gold ember light behind her, drifting glowing embers; her left hand easy near her jaw.
+- [00:02–00:04] The push settles as a face-framing tendril catches the warm rim and her bright gaze eases to lens, an ember drifting up past, a triumphant composed quarter-smile settling.
+- [00:04–00:06] She holds the triumphant rebirth look in the sculptural molten-bronze gown, the gold-filament embroidery catching warm glints, eyes bright and direct (the line lands later).
 
 AUDIO: diegetic only, no in-clip music. Ambient bed — a low warm ember-crackle-and-air tone throughout. SFX — a soft glass-tap as her fingers settle on the bottle at 0.8s (gentle attack, short tail), a faint gown-fabric shift at 3.2s, a soft ember-crackle glint at 4.8s timed to the gaze-lift. Reaction — a soft assured breath at 3.0s. The master track sits low — a deep taiko and soft strings just kindling under the room tone (present, never full). VO — none this frame.
 
@@ -8197,7 +8197,7 @@ SUBJECT FRAMING & POSITION: A medium close framing holds Aira from the chest up 
 
 LENS + DOF + BOKEH: 50mm, f/2.0; focus split between her near eye and the glowing cheekbone so both read crisp; the background melting to a deep creamy charcoal with warm ember-bokeh; soft gold blooms off the first embers; gentle roll-off, no clipping.
 
-COMPOSITION REFERENCE: the triumphant build beat — an elixir glide and first rising embers, the phoenix-rise clearly imminent (BA.3 cause building to effect).
+COMPOSITION REFERENCE: an elixir glide build beat — triumphant and poised, the phoenix-ember rise held for the Frame-4 clip.
 
 ATMOSPHERE: triumphant, dramatic, charged — the warm instant before the embers gather and rise into phoenix-feather wings around her.
 
@@ -8216,9 +8216,9 @@ SHOT TYPE: medium close, chest-up, subject and raised hand fill about 58% of the
 LENS: 50mm, f/2.0.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Medium close: the slow push continues with a faint tilt-up already following her hand as she raises the radiance elixir on a fingertip near her cheekbone and glides a soft warm-glow sheen along the high point, a gold glint travelling; gaze warm.
-- [00:02–00:04] The first embers lift and rise near her shoulder, her eyes warming with triumphant focus (her single face stays clear and locked).
-- [00:04–00:06] The sheen settles warm on her cheekbone, an ember rising, lashes lowering in resolve.
+- [00:00–00:02] Cut to a medium-close three-quarter, a rack-focus pulling from the bottle to her eye: she is already gliding the radiance elixir soft along her cheekbone and the first glowing embers begin to rise in the warm air around her; gaze cast soft to the bottle.
+- [00:02–00:04] The elixir catches a warm molten-gold sheen on her cheekbone as her gaze brightens with triumphant focus and a knowing micro-smile kindles, more embers rising in.
+- [00:04–00:06] She holds the bottle poised near her cheek, eyes bright and assured, the triumphant rebirth look intact (silent here).
 
 AUDIO: diegetic only. Ambient — a low warm ember-crackle-and-air tone throughout. SFX — a soft elixir-cap twist at 1.2s, a faint fingertip-glide whisper at 2.8s, a soft ember-lift crackle at 5.2s (gentle attack, soft tail). Reaction — a soft focused breath at 3.0s. The master track lifts a touch — taiko and strings rising under the SFX (present, never full). VO — none this frame.
 
@@ -8232,7 +8232,7 @@ NEGATIVE: identity drift, face or hand warp, extra or fused fingers, duplicate p
 
 ## Frame 3 of 8 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the locked START keyframe of the phoenix-ember feather rise transform — face fully recognizable and SINGLE, still the triumphant rebirth look, glowing embers now gathering and beginning to rise into the first phoenix-feather wing forms around her as the rise readies to unfurl. The embers gather and rise in the air around her; her one face, one head and one body are never ember-covered, traced over, duplicated or replaced. Lock this START so Frame 4's rise interpolates cleanly to the soft ember-halo END (Frame 5).
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. SHOT NOTE: a clean triumphant rebirth (Look A) beat at its OWN cut/angle — the triumphant rebirth look fully intact and her face SINGLE, glowing embers just beginning to gather and rise into the first phoenix-feather wing forms around her as the rise readies to unfurl; the full phoenix rise does NOT happen here (it happens mid-clip inside Frame 4). The embers gather and rise in the air around her; her one face, one head and one body are never ember-covered, duplicated or replaced. Build triumphant power anticipation only.
 
 WARDROBE: the sculptural molten-bronze high-neck gown, continuity-locked, the draped bodice beginning to catch the gathering ember-light, the modest high neck pristine, fully modest, zero snags.
 
@@ -8257,7 +8257,7 @@ SUBJECT FRAMING & POSITION: A medium framing holds Aira from the chest up with a
 
 LENS + DOF + BOKEH: 50mm, f/2.0; focus split between her near eye and the nearest ember so both read crisp; the background melting to a deep creamy charcoal with warm ember-bokeh; soft gold blooms off the embers; gentle roll-off, no clipping.
 
-COMPOSITION REFERENCE: the triumphant suspended build beat — the embers gather and rise, the phoenix-wings clearly imminent (BA.3 cause building to effect).
+COMPOSITION REFERENCE: a poised triumphant beat, the embers gathering and rising — triumphant and cinematic, the phoenix-ember rise held for the Frame-4 clip.
 
 ATMOSPHERE: triumphant, dramatic, charged — the warm instant before the embers rise full into phoenix-feather wings around her.
 
@@ -8276,9 +8276,9 @@ SHOT TYPE: medium, chest-up, subject and gathering embers fill about 60% of the 
 LENS: 50mm, f/2.0, smooth charcoal background fall-off.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Medium chest-up: a slow arc is already drifting around her as she lowers the bottle a touch and glowing embers lift and gather into the first phoenix-feather wing forms; gaze following the gathering wings.
-- [00:02–00:04] The arc eases round as the embers thicken and glint gold, her eyes warming with triumphant resolve.
-- [00:04–00:06] The wing-forms tighten and brighten, cueing the rise, her gaze lifting a degree.
+- [00:00–00:02] Cut to a medium chest-up on a fresh three-quarter angle: she eases the bottle down and opens her hand soft as the first embers gather and rise into the first phoenix-feather forms, drawing a slow warm breath as the camera arcs a few degrees and the ember-void swings behind with parallax; gaze lifting.
+- [00:02–00:04] The arc settles as her gaze lifts to lens with rising triumphant power and a knowing micro-smile forms, glowing embers gathering and beginning to rise into the first phoenix-feather wing forms around her, her single face clear and unember-covered, still the triumphant rebirth look.
+- [00:04–00:06] She holds the poised triumphant beat, the embers rising soft around her, eyes bright and powerful — the hush before the phoenix rise (silent here).
 
 AUDIO: diegetic only, no VO this frame. Ambient — a low warm ember-crackle-and-air tone throughout. SFX — the soft settle of the lowering bottle at 0.8s, a gathering ember-lift swell at 2.4s, a soft ember-crackle chime at 5.2s as the wing-forms lock (gentle attack, soft tail). Reaction — a soft resolute breath at 2.4s. The master track lifts — taiko and strings rising under the SFX (present, never full).
 
@@ -8292,38 +8292,38 @@ NEGATIVE: identity drift, face or hand warp, extra or fused fingers, duplicate p
 
 ## Frame 4 of 8 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the one impossible move — the phoenix-ember feather rise. LOCK the START (Frame 3, single face clear, triumphant rebirth, embers gathering) and the END (Frame 5 open, ember-halo radiant after-look). Mid-rise great glowing phoenix-feather wing forms lift and unfurl in slow triumphant arcs around her as the embers stream upward; her one face, one head and one body stay clear, single and recognizable, softly framed (never ember-covered, never buried) by the rising feather-wings; interpolate strictly between the locked keyframes — do NOT invent a new face, do NOT duplicate her face, do NOT invent new hands or new bone structure beneath the ember-feathers. Triumphant and cinematic, real ember physics, dramatic not chaotic.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the START frame of the transform CLIP — render her fully in the triumphant rebirth Look A (the exact still the Frame-4 video opens on, and Veo's FIRST frame): the sculptural molten-bronze gown in the dramatic dark studio of rising embers, her single face clear and centred, only a few glowing embers just beginning to gather and rise around her (NO full wing-rise yet). The phoenix-ember feather rise happens MID-CLIP at this same HELD angle (the camera may push or travel with her but never rotates its angle; drifting embers gather and rise into great glowing phoenix-feather wing forms that lift and unfurl around her then settle to a soft ember-halo by believable real ember physics — true glowing embers rising on real heat-convection updraft forming radiant feather-wing shapes, no cheap sparkles; the embers rise in the air behind her, never on her face), resolving into Frame 5's full ember-haloed after-look image (Veo's LAST frame). Her one face, one head, one body, hair and proportions stay constant. Do NOT depict the full rise in this still, do NOT ember-cover or duplicate her face, and do NOT invent a new face, new hands or new bone structure.
 
-WARDROBE (refined): the bronze gown catching the rise at its most radiant as the feather-wings unfurl — the draped bodice flaring with travelling gold glints, fully modest, never revealing.
+WARDROBE: the sculptural molten-bronze high-neck gown with an architectural draped bodice and fine gold-filament embroidery, full modest coverage, the rich fabric catching one soft molten-gold highlight, fully modest, fully intact (the full rise not yet unfurled).
 
-HAIR: the sculptural updo catching a sweeping arc of ember-light mid-motion, the volume holding, strands lit gold-clean; color locked beneath the glow.
+HAIR: a dramatic high sculptural updo with sleek volume and a few soft face-framing tendrils, a fine gold filament wrapped at the base; color locked to reference.
 
-MAKEUP: mid-rise — the triumphant look flushing to its luminous peak, the copper-gold lid kindling brighter, the glossy terracotta-rose lip enriching, the radiant gold highlight glinting on the high points; real pores beneath.
+MAKEUP: the triumphant rebirth Look-A base — a molten copper-gold gradient shimmer lid, a warm bronzed contour, a bold glossy terracotta-rose lip, a radiant gold highlight on the high points, soft-strong lashes, a faint gold-leaf glint at the inner eye; skin sculpted, luminous and real with visible pores and fine vellus texture.
 
-HANDS & NAILS: both arms drifting open and lifting through the ember-stream, palms turning up as the glowing feather-wings unfurl in slow triumphant arcs; natural nail-bed color, neat cuticles, no white-knuckle tension.
+HANDS & NAILS: both arms beginning to open soft from her body, palms easing up as the embers rise, the right near the cradled flame-shaped bottle; natural nail-bed color, neat cuticles, no white-knuckle tension.
 
-FACIAL MICRO-DYNAMICS: eyes bright with triumphant exhilaration, a gentle parted-lip composure, a clean assured lift — her single face clear and ember-framed by the rising wings, identity strictly held to reference.
+FACIAL MICRO-DYNAMICS: her single face bright with triumphant anticipation, a gentle parted-lip composure, a clean assured calm — composed, single and fully recognizable, identity-locked, ready for the phoenix-ember feather rise mid-clip.
 
-BODY POSTURE & WEIGHT: mid-rise the spine lengthens and the shoulders open regal and assured, weight rolling smooth between the feet — grounded real physics, modest throughout.
+BODY POSTURE & WEIGHT: front-facing with the torso rotated about 4°, the spine long and the shoulders open regal, weight settled with a soft hip counter-tilt — grounded real physics, the triumphant centre before the rise, modest throughout.
 
-KINETIC STILLNESS (8 layers): (1) great glowing feather-wings unfurling in slow triumphant arcs around her at peak; (2) gold glints flashing through the rising embers; (3) the updo and gown catching travelling ember-light mid-rise; (4) tiny gold motes streaming upward through the field; (5) the gown flaring with a soft molten-gold highlight-shift; (6) warm speculars multiplying across the feather-wings; (7) an ember-ribbon arcing a touch faster through the rise; (8) her chest mid a soft triumphant breath.
+KINETIC STILLNESS (8 layers): (1) a few glowing embers just beginning to gather and rise around her; (2) the first faint phoenix-feather forms starting to glow at the frame edge; (3) a face-framing tendril catching the warm rim; (4) the deep charcoal-black void and warm molten-gold ember light behind her; (5) the rich gown breathing soft in the warm heat-haze; (6) a warm glint sliding on the flame-shaped bottle; (7) the molten-gold highlight shifting a millimetre along the draped bodice as her ribcage expands; (8) a slow eyelash settle completing a triumphant blink.
 
-SPATIAL LOGIC: FOREGROUND — a rising ember-ribbon nearest lens, soft. MIDGROUND — Aira mid-rise, her single face the clear hero, the feather-wings unfurling around her. BACKGROUND — the deep charcoal void with rising embers and warm falloff.
+SPATIAL LOGIC: FOREGROUND — a first rising ember and the cradled bottle nearest lens, soft. MIDGROUND — Aira's single face the clear hero in the triumphant rebirth look. BACKGROUND — the deep charcoal-black void with warm molten-gold ember light and drifting glowing embers, present behind.
 
-LIGHTING: KEY — soft warm molten-gold key now brighter through the rise. FILL — low warm ember bounce below (clamshell). RIM — a bright warm ember rim raking the feather-wings and the crown (hero light on the motion). PRACTICAL — rising embers at full glow and warm glints. SEPARATION — the rise and faint heat-haze. BOUNCE — warm kicks multiplying across the feather-wings.
+LIGHTING: KEY — a soft warm molten-gold key feathered above-front. FILL — low warm ember bounce below (clamshell). RIM — a warm ember rim skimming the crown and shoulder to separate her from the void. PRACTICAL — drifting embers, warm glints and the bottle. SEPARATION — the charcoal void deep so she reads about 2 stops up. BOUNCE — a warm kick off the flame-shaped bottle.
 
-FRAMING: ASPECT 9:16; energized medium-wide, Aira centered with the phoenix-feather wings unfurling around her single face, 10% headroom, slight push for grandeur.
-SUBJECT FRAMING & POSITION: A energized medium-wide framing opens around Aira with about 10% headroom as the phoenix-feather wings fills the lower frame, a slight push easing in for intimacy. Her spine lengthens and her shoulders open as the weight rolls smooth between the feet in grounded real-physics motion. The camera eases wider against the deep charcoal void with rising embers, Aira the centred hero at the heart of the bloom. She is centred with the phoenix-feather wings radiating around her. She faces front to the lens, lifted at the peak of the transform. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+FRAMING: ASPECT 9:16; energized medium-wide, Aira centered in the dramatic studio of rising embers, 10% headroom — its own distinct cut/angle.
+SUBJECT FRAMING & POSITION: An energized medium-wide framing opens around Aira at about 10% headroom in the dramatic studio of rising embers, the triumphant rebirth Look A fully intact and her face single as the transform clip begins. Her torso is turned about four degrees with the weight settled over a soft hip counter-tilt, arms beginning to open soft. The camera holds a mid distance on its own fresh angle, a hard cut from Frame 3, with Aira the centred single hero and the deep charcoal void with rising embers present behind, facing front to the lens. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
-LENS + DOF + BOKEH: 50mm, f/2.0; her single face and the nearest embers tack sharp at the rise-core, the closest embers melting into a soft warm bokeh with gold specular glints.
+LENS + DOF + BOKEH: 50mm, f/2.0; her single face and the cradled bottle tack sharp, the first rising embers melting into a soft warm bokeh with gold specular glints; gentle highlight roll-off, no clipping.
 
-COMPOSITION REFERENCE: the signature impossible beat — a phoenix-ember feather rise, triumphant and cinematic, heightened but identity-locked, her face never ember-covered (AT.5 transform logic / identity-through-transform).
+COMPOSITION REFERENCE: the start of the signature beat — triumphant rebirth Look A with a single locked face, triumphant and cinematic, the phoenix-ember rise held for the video's mid-clip.
 
-ATMOSPHERE: triumphant, dramatic, cinematic — the moment the glowing feather-wings unfurl full around her single locked face in slow triumphant arcs.
+ATMOSPHERE: triumphant, charged, cinematic — the powerful instant the transform clip begins.
 
 COLOR GRADE: triumphant rebirth — deep rich uncrushed charcoal blacks, a molten-gold and ember-orange glow, warm radiant speculars, full mid-tone, a dramatic warm contrast, soft heat-haze (no garish oversaturation, triumphant fire-rebirth lane).
 
-TEXTURE & MICRO-DETAIL: the rising embers read as real soft glowing motes with gentle heat-shimmer and soft motion blur, the feather-wings read as real streaming ember-light on the warm air, the gown shows a real rich weave catching gold glints, skin reads real with pores beneath the glow.
+TEXTURE & MICRO-DETAIL: the gown shows a real rich weave catching gold glints, the first rising embers read as real soft glowing motes with gentle heat-shimmer, the flame-shaped bottle reads as real sculptural glass with a gold-flame cap, skin reads real with pores beneath the glow.
 
 NEGATIVE: mirrored, flipped, inverted, extra limbs, fused fingers, melted features, asymmetric eyes (unintentional), garbled text, floating shadows, duplicated subjects, low-res patches, plastic skin, over-smoothed skin, oversharpened, AI-generated artifacts, watermarks, signature, deformed hands, malformed teeth, joint cuts at ankle/knee/wrist/elbow/neck, amputated fingertips, cross-eyed, lazy eye, off-axis pupils, melted clothing, mismatched footwear, mannequin-stiff posture, dead eyes, statue-frozen energy, garbled label text, crushed muddy blacks, garish oversaturation, flat dull light, inventing a new face beneath the ember-feathers.
 
@@ -8336,9 +8336,9 @@ SHOT TYPE: energized medium-wide of the phoenix-ember feather rise (the hero mov
 LENS: 50mm, f/2.0.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Energized medium-wide: the push is already easing into a smooth gentle orbit as the embers stream upward and unfurl into great glowing phoenix-feather wings and she opens and lifts her arms; gaze rising with the wings.
-- [00:02–00:04] The orbit rides the hero beat as the wings unfurl triumphant around her and the updo and gown catch travelling gold light (her single face clear and ember-framed, never ember-covered); eyes blazing in triumphant awe.
-- [00:04–00:06] The rise crests and the embers resolve as the orbit eases; a radiant triumphant look landing, her single face clear, eyes alight.
+- [00:00–00:02] Cut to an energized medium at a HELD angle (Veo first frame = the triumphant rebirth Look A still): she holds her rebirth look, already in motion — only a few embers rising, NO full wing-rise yet, a gentle push-with easing in, the angle fixed for the whole clip.
+- [00:02–00:04] The phoenix-ember feather rise BEGINS here, mid-clip: drifting embers gather and rise into great glowing phoenix-feather wing forms that lift and unfurl around her in triumphant arcs then settle to a soft ember-halo in one continuous rising motion, the ember-feathers streaming upward through the warm air and unfurling behind her shoulders exactly where they rise — believable real ember physics (true glowing embers rising on real heat-convection updraft forming radiant feather-wing shapes, no cheap sparkles), her single face clear and locked (NEVER ember-covered, replaced or duplicated), eyes bright with triumphant awe (angle held, identity locked).
+- [00:04–00:06] The rise completes and the look settles smoothly and fully into the full ember-haloed after-look of the Veo last-frame still (Frame 5's image) — great glowing phoenix-feather wings settled to a soft ember-halo around her single locked face in the dramatic ember-void, resolved and held through the final beat, no last-second pop; a triumphant warm calm landing in her eyes.
 
 AUDIO: diegetic-led. Ambient — a low warm ember-crackle-and-air tone. SFX — a soaring ember-rise whoosh 0.4–2.4s, fine warm ember-crackles 2.4–4.4s (gentle attacks, soft tails), a soft gown-flare at 3.2s. Reaction — a soft triumphant breath at 2.4s. The master track lifts to its triumphant peak here — a swelling brass-and-choir crest with deep taiko landed on the rise (present, still under the SFX, never full). VO — none (the line lands next frame).
 
@@ -8354,7 +8354,7 @@ NEGATIVE: identity drift, face or hand warp, extra or fused fingers, duplicate p
 
 IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
 
-TRANSFORM KEYFRAME NOTE: this is the locked END keyframe of the phoenix-ember feather rise transform; it must resolve continuously out of the START keyframe in Frame 3 — same single face, same hands, same camera distance, the embers now settled into a soft glowing ember-halo with the feather-wings easing to rest around her. Only the air around her was risen; her one face was never ember-covered, traced over, duplicated or replaced. Do NOT invent a new face, duplicate her face or invent new hands beneath the ember-feathers; this is the same single Aira, triumphant and radiant. Frame 3 (START) and Frame 5 (END) are the two anchors of the single transform.
+TRANSFORM KEYFRAME NOTE: this is the full ember-haloed Look B reveal at its OWN cut/angle (a hard cut from the Frame-4 phoenix-ember feather rise clip — a new angle/crop, and the Veo last-frame the rise resolves into). It carries the resolved ember-halo after-look the Frame-4 clip ends on — only the air around her was risen into great glowing phoenix-feather wings settled to a soft ember-halo; her one face was never ember-covered, duplicated or replaced. Same single Aira, triumphant and radiant — do NOT invent a new face, ember-cover or duplicate her face, or invent new hands or new bone structure.
 
 WARDROBE: the sculptural molten-bronze high-neck gown at its most radiant, the draped bodice catching one travelling gold sheen band, the modest high neck pristine, fully modest, zero snags.
 
@@ -8398,9 +8398,9 @@ SHOT TYPE: medium close, chest-up, subject fills about 56% of the vertical frame
 LENS: 50mm, f/2.0, smooth charcoal background fall-off.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Medium close: a slow push is already gliding in as she eases her hands down and the rise resolves into a soft glowing ember-halo around her; gaze radiant to lens.
-- [00:02–00:04] She delivers “I always rise.” to lens with a triumphant radiant smile, eyes bright and direct, her single face clear and locked.
-- [00:04–00:06] She holds the radiant ember-framed look as the last embers drift slow, the smile holding triumphant and warm.
+- [00:00–00:02] Cut to a medium close on a new angle in the warm ember glow: she is already in the full ember-haloed look with the phoenix-wings risen behind her, easing her right hand back toward the flame-shaped bottle at her collarbone as a slow orbit eases around her, her single face clear and unember-covered; gaze bright to lens.
+- [00:02–00:04] She delivers “I always rise.” to lens with a triumphant composed smile and natural lip-sync, the ember-halo glowing soft around her, eyes bright and powerful.
+- [00:04–00:06] She holds the ember-haloed triumphant look, her single face clear and the bottle cradled soft, eyes bright and direct.
 
 AUDIO: diegetic plus the spoken line. SPOKEN LINE (lip-sync) — Aira says "I always rise." from 1.6–4.4s in English with a natural Indian accent, warm triumphant tone, mouth shapes matched exactly. Ambient — a low warm ember-crackle-and-air tone throughout. SFX — a gentle ember-settle hush at 1.0s, a faint gown shift at 1.4s (kept clear of the VO). The master track ducks gently under the line and holds its brass-and-strings low.
 
@@ -8458,9 +8458,9 @@ SHOT TYPE: triumphant beauty close, chest-up easing toward a softer crop, subjec
 LENS: 50mm, f/2.0, smooth charcoal background fall-off.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Medium close: a slow push is already gliding in as she eases into a warm assured closed-lip afterglow smile and the embers drift soft around her; gaze proud to lens.
-- [00:02–00:04] The push holds as she holds a proud gaze to lens with a slow soft blink, the bottle resting at her collarbone; eyes warm and assured.
-- [00:04–00:06] She holds the proud afterglow look, embers drifting soft, her single face clear and locked.
+- [00:00–00:02] Cut to a medium-close chest-up on a fresh angle: she settles both hands gently, the right cradling the flame-shaped bottle soft near her collarbone, the left easy near her jaw, as a gentle push eases in; gaze bright to lens.
+- [00:02–00:04] A triumphant proud smile holds to lens on a slow warm breath, the ember-halo glowing even around her, warm rim-light on her skin.
+- [00:04–00:06] She holds the proud afterglow beat, the void deep and the embers glowing, eyes bright and direct — a held moment of triumph (silent here).
 
 AUDIO: diegetic only, no VO. Ambient — a low warm ember-crackle-and-air tone throughout. SFX — a gentle ember-crackle at 1.6s, a faint gown shift at 3.2s, a soft warm glow-shimmer easing across 4.0–6.0s (gentle attacks, soft tails). Reaction — a soft proud breath at 2.0s. The master track holds its brass-and-strings warm and low.
 
@@ -8518,9 +8518,9 @@ SHOT TYPE: medium close, chest-up, subject and raised bottle fill about 60% of t
 LENS: 50mm, f/2.0, smooth charcoal background fall-off.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Medium close: a slow push is already gliding in as she raises the flame-bottle to a proud hero-present beside her cheek, embers drifting soft around it; gaze warm to lens.
-- [00:02–00:04] The push holds as she eases a warm triumphant smile to lens, the gold cap catching a clean specular as the bottle holds; eyes bright.
-- [00:04–00:06] She holds the proud hero-present, the bottle glinting, eyes radiant and direct.
+- [00:00–00:02] Cut to a medium-close three-quarter on a fresh angle: she lifts the flame-shaped Phoenix bottle soft beside her face to present it, a gentle pull easing out a touch; gaze warm to lens.
+- [00:02–00:04] She holds the bottle beside her cheek with a quietly triumphant smile, the molten elixir glowing and the ember-halo soft behind, eyes bright and assured.
+- [00:04–00:06] She holds the hero-present beat, the product glowing beside her single clear face, eyes bright and direct — campaign-grade and proud (silent here).
 
 AUDIO: diegetic only, no VO. Ambient — a low warm ember-crackle-and-air tone throughout. SFX — a soft glass-shift as the bottle lifts at 1.0s (gentle attack, short tail), a faint gown shift at 2.8s, a soft warm cap-specular shimmer at 4.4s timed to the smile. Reaction — a soft proud breath at 2.4s. The master track holds its brass-and-strings warm and present, beginning to gather for the close (never full).
 
@@ -8580,9 +8580,9 @@ SHOT TYPE: medium close, chest-up, subject fills about 55% of the vertical frame
 LENS: 50mm, f/2.0, smooth charcoal background fall-off.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Medium close matching Frame 1: a slow push is already resolving toward the exact opening framing as she re-cradles the flame-bottle and tilts it into the warm key, gold speculars sliding along the cap and the molten-amber elixir settling; gaze lowering to the bottle.
-- [00:02–00:04] The push settles as she eases her bright gaze back to lens on a soft breath with the composed quarter-smile, the ember studio resolving to the opening; eyes calming.
-- [00:04–00:06] She lands precisely on the Frame 1 pose and gaze, embers rising slow — a seamless loop seam and a triumphant set-closing button.
+- [00:00–00:02] Cut to a medium-close chest-up matched to Frame 1: she returns her right hand to cradle the flame-shaped Phoenix bottle at collarbone height and her left easy near her jaw exactly as in Frame 1 as a soft pull-out settles to the opening framing.
+- [00:02–00:04] She eases her bright gaze back to lens on a slow breath with the composed triumphant quarter-smile, the ember-halo resolving back toward the opening triumphant rebirth look to seed the loop.
+- [00:04–00:06] She lands precisely on the Frame 1 pose and gaze, triumphant in the ember-void — a seamless loop seam.
 
 AUDIO: diegetic only, no voice. Ambient — a low warm ember-crackle-and-air tone throughout. SFX — a soft glass-tap at 0.8s as her fingers settle on the bottle (gentle attack, short tail), a faint gown shift at 3.2s, a soft warm ember-glow shimmer at 4.8s timed to the gaze-lift. The master track resolves on a soft sustained chord here so it can loop clean.
 

@@ -3297,6 +3297,107 @@ BEATSLM[49] = [
 ]
 
 
+BEATSLM[50] = [
+    # F1 - triumphant rebirth hero (contained, product-at-face), push-in
+    (
+        "Cut to a medium-close chest-up in the dramatic dark studio of rising embers: she is "
+        "already cradling the flame-shaped Phoenix elixir bottle at her collarbone as a slow "
+        "push eases in, the deep charcoal-black void and warm molten-gold ember light behind "
+        "her, drifting glowing embers; her left hand easy near her jaw.",
+        "The push settles as a face-framing tendril catches the warm rim and her bright gaze "
+        "eases to lens, an ember drifting up past, a triumphant composed quarter-smile settling.",
+        "She holds the triumphant rebirth look in the sculptural molten-bronze gown, the "
+        "gold-filament embroidery catching warm glints, eyes bright and direct (the line lands "
+        "later).",
+    ),
+    # F2 - build, elixir glide, first embers; rack-focus product->eye
+    (
+        "Cut to a medium-close three-quarter, a rack-focus pulling from the bottle to her eye: "
+        "she is already gliding the radiance elixir soft along her cheekbone and the first "
+        "glowing embers begin to rise in the warm air around her; gaze cast soft to the bottle.",
+        "The elixir catches a warm molten-gold sheen on her cheekbone as her gaze brightens with "
+        "triumphant focus and a knowing micro-smile kindles, more embers rising in.",
+        "She holds the bottle poised near her cheek, eyes bright and assured, the triumphant "
+        "rebirth look intact (silent here).",
+    ),
+    # F3 - START clean (embers rising, NO full wing-rise yet), slow arc
+    (
+        "Cut to a medium chest-up on a fresh three-quarter angle: she eases the bottle down and "
+        "opens her hand soft as the first embers gather and rise into the first phoenix-feather "
+        "forms, drawing a slow warm breath as the camera arcs a few degrees and the ember-void "
+        "swings behind with parallax; gaze lifting.",
+        "The arc settles as her gaze lifts to lens with rising triumphant power and a knowing "
+        "micro-smile forms, glowing embers gathering and beginning to rise into the first "
+        "phoenix-feather wing forms around her, her single face clear and unember-covered, still "
+        "the triumphant rebirth look.",
+        "She holds the poised triumphant beat, the embers rising soft around her, eyes bright "
+        "and powerful \u2014 the hush before the phoenix rise (silent here).",
+    ),
+    # F4 - THE TRANSFORM, HELD ANGLE, smooth mid-clip phoenix-feather rise (NOT her face); first=triumphant-rebirth, last=ember-haloed
+    (
+        "Cut to an energized medium at a HELD angle (Veo first frame = the triumphant rebirth "
+        "Look A still): she holds her rebirth look, already in motion \u2014 only a few embers "
+        "rising, NO full wing-rise yet, a gentle push-with easing in, the angle fixed for the "
+        "whole clip.",
+        "The phoenix-ember feather rise BEGINS here, mid-clip: drifting embers gather and rise "
+        "into great glowing phoenix-feather wing forms that lift and unfurl around her in "
+        "triumphant arcs then settle to a soft ember-halo in one continuous rising motion, the "
+        "ember-feathers streaming upward through the warm air and unfurling behind her shoulders "
+        "exactly where they rise \u2014 believable real ember physics (true glowing embers "
+        "rising on real heat-convection updraft forming radiant feather-wing shapes, no cheap "
+        "sparkles), her single face clear and locked (NEVER ember-covered, replaced or "
+        "duplicated), eyes bright with triumphant awe (angle held, identity locked).",
+        "The rise completes and the look settles smoothly and fully into the full ember-haloed "
+        "after-look of the Veo last-frame still (Frame 5's image) \u2014 great glowing "
+        "phoenix-feather wings settled to a soft ember-halo around her single locked face in the "
+        "dramatic ember-void, resolved and held through the final beat, no last-second pop; a "
+        "triumphant warm calm landing in her eyes.",
+    ),
+    # F5 - END ember-haloed reveal, hand to bottle, spoken line; slow orbit
+    (
+        "Cut to a medium close on a new angle in the warm ember glow: she is already in the full "
+        "ember-haloed look with the phoenix-wings risen behind her, easing her right hand back "
+        "toward the flame-shaped bottle at her collarbone as a slow orbit eases around her, her "
+        "single face clear and unember-covered; gaze bright to lens.",
+        "She delivers \u201cI always rise.\u201d to lens with a triumphant composed smile and "
+        "natural lip-sync, the ember-halo glowing soft around her, eyes bright and powerful.",
+        "She holds the ember-haloed triumphant look, her single face clear and the bottle "
+        "cradled soft, eyes bright and direct.",
+    ),
+    # F6 - held proud afterglow, cradling bottle; gentle push
+    (
+        "Cut to a medium-close chest-up on a fresh angle: she settles both hands gently, the "
+        "right cradling the flame-shaped bottle soft near her collarbone, the left easy near her "
+        "jaw, as a gentle push eases in; gaze bright to lens.",
+        "A triumphant proud smile holds to lens on a slow warm breath, the ember-halo glowing "
+        "even around her, warm rim-light on her skin.",
+        "She holds the proud afterglow beat, the void deep and the embers glowing, eyes bright "
+        "and direct \u2014 a held moment of triumph (silent here).",
+    ),
+    # F7 - held hero-present, product-beside-face; gentle pull
+    (
+        "Cut to a medium-close three-quarter on a fresh angle: she lifts the flame-shaped "
+        "Phoenix bottle soft beside her face to present it, a gentle pull easing out a touch; "
+        "gaze warm to lens.",
+        "She holds the bottle beside her cheek with a quietly triumphant smile, the molten "
+        "elixir glowing and the ember-halo soft behind, eyes bright and assured.",
+        "She holds the hero-present beat, the product glowing beside her single clear face, eyes "
+        "bright and direct \u2014 campaign-grade and proud (silent here).",
+    ),
+    # F8 - loop close, cradle bottle matched to F1; pull-out
+    (
+        "Cut to a medium-close chest-up matched to Frame 1: she returns her right hand to cradle "
+        "the flame-shaped Phoenix bottle at collarbone height and her left easy near her jaw "
+        "exactly as in Frame 1 as a soft pull-out settles to the opening framing.",
+        "She eases her bright gaze back to lens on a slow breath with the composed triumphant "
+        "quarter-smile, the ember-halo resolving back toward the opening triumphant rebirth look "
+        "to seed the loop.",
+        "She lands precisely on the Frame 1 pose and gaze, triumphant in the ember-void \u2014 a "
+        "seamless loop seam.",
+    ),
+]
+
+
 def build_block(beats):
     return (
         BREAKDOWN_HEADER + "\n"
