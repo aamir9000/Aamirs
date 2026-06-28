@@ -1565,7 +1565,7 @@ Hair: a polished blowout that subtly restyles per swap (soft down → low tuck �
 
 Makeup: clean editorial glow that shifts tone per look (rosy → neutral → soft bronze), satin skin, real pores.
 
-Hero Movement / Impossible Move: mirror outfit-swap — each touch of the glass instantly re-dresses her and re-tints the room.
+Hero Movement / Impossible Move: mirror outfit-swap — each touch of the glass sends a swap-wavefront from her fingertips that re-dresses her and re-tints the room, CONTAINED mid-clip at a held angle (it begins on the touch, flows smoothly across her and resolves by clip-end — quick but never an instant single-frame snap). Two chained swaps: Frame 3 blush→ivory, Frame 4 ivory→emerald. Veo first/last-frame continuity — each transform frame's image is the clean look it OPENS on, resolving to the NEXT frame's clean look (F3 image = blush = first frame; F4 image = ivory = last frame of swap 1 AND first frame of swap 2; F5 image = emerald = last frame). Every frame join is a hard match-cut to a new angle.
 
 Mood: PLAYFUL-CHIC, magical, light.
 
@@ -1735,44 +1735,44 @@ LOOP LOGIC: the reach toward the glass bridges to the swap sequence.
 
 ## Frame 3 of 6 — IMAGE PROMPT (TRANSFORM — SWAP 1)
 
-ANGLE & SHOT SIZE: front-on MEDIUM facing the mirror, Aira's fingertips on the glass at the instant her blush look swaps to the ivory pantsuit, the room re-tinting ivory.
+ANGLE & SHOT SIZE: front-on MEDIUM facing the mirror, Aira's fingertips just meeting the glass in her blush look, the tall mirror glowing and the boutique room reflected behind — the clean Look A the clip opens on, the swap NOT yet begun.
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the START frame of the transform CLIP (swap 1) — render her fully in the BLUSH Look A (the exact still the Frame-3 video opens on, and Veo's FIRST frame): the blush coat look intact, fingertips just meeting the glowing mirror (the blush→ivory swap NOT yet begun). The swap-wavefront happens MID-CLIP at this same HELD angle (it flows from her fingertips across her body), resolving into Frame 4's clean IVORY image (Veo's LAST frame). Her face and proportions stay constant. Do NOT depict the swap in this still and do NOT invent a new face, new hands or new bone structure.
 
-WARDROBE: mid-swap — the blush coat dissolving into the crisp ivory pantsuit in a ripple radiating from her fingertips, fully modest throughout.
+WARDROBE: the blush coat look at its best — soft blush wool, fully modest, fully intact (the ivory swap not yet begun).
 
-FOOTWEAR: nude heel transitioning to white loafer in the same ripple.
+FOOTWEAR: the nude block heel, grounded.
 
-EYEWEAR: tortoise sunglasses dissolving, clear optical frames materialising onto her face.
+EYEWEAR: tortoise sunglasses (the blush look).
 
-ACCESSORIES: top-handle bag re-colouring ivory, twilly restyling, necklaces simplifying to one fine chain.
+ACCESSORIES: the top-handle bag and twilly, layered fine necklaces — the blush look.
 
-HAIR: soft-down blowout restyling toward a low tuck in the ripple.
+HAIR: a soft-down blowout.
 
-MAKEUP: rosy tone shifting to clean neutral, satin skin.
+MAKEUP: a rosy tone, satin skin; real pores and fine vellus texture.
 
-HANDS & NAILS: fingertips flat on the glowing glass (fingers clean, articulate), the other hand lifted in soft surprise; soft-rose nails shifting to nude.
+HANDS & NAILS: fingertips just meeting the glowing glass (fingers clean, articulate), the other hand soft at her side; soft-rose nails, neat cuticles.
 
-FACIAL MICRO-DYNAMICS: eyes widening with a delighted grin, brows lifting, lips parting on a small gasp, cheeks high.
+FACIAL MICRO-DYNAMICS: a bright anticipatory gaze to her reflection, lips parting on a small breath, cheeks high — lively and fully recognizable, identity-locked, ready for the swap mid-clip.
 
-BODY POSTURE & WEIGHT: facing the mirror, weight even, torso lifting with the surprise, free hand floating — lively and reactive.
+BODY POSTURE & WEIGHT: facing the mirror, weight even, torso lifting with anticipation, free hand floating — lively and poised, the instant before the swap.
 
-KINETIC STILLNESS (8 layers): (1) the swap-ripple radiating from her fingertips; (2) the room re-tinting ivory; (3) hair restyling mid-ripple; (4) a strand lifting; (5) chest breathing on the gasp; (6) reflection updating a beat behind; (7) ring-light glow shifting cooler; (8) lashes flaring.
+KINETIC STILLNESS (8 layers): (1) the mirror surface beginning to shimmer at her fingertip; (2) the warm blush boutique room glowing in the glass; (3) a strand lifting; (4) ring-light glow warm; (5) chest breathing on the small breath; (6) the reflection steady; (7) speculars on the bag hardware; (8) lashes settling on a blink.
 
-SPATIAL LOGIC: FOREGROUND — her fingertips on the glass, tack sharp. MIDGROUND — Aira mid-swap. BACKGROUND — the mirror's reflected room re-tinting ivory.
+SPATIAL LOGIC: FOREGROUND — her fingertips at the glass, tack sharp. MIDGROUND — Aira in the blush look, the hero. BACKGROUND — the mirror's reflected boutique room, warm blush, carrying the world right into the frame (present, not erased).
 
-LIGHTING: KEY — ring-light shifting from warm to clean ivory. FILL — wall re-tint bounce. RIM — cool rim emerging on hair and shoulder. PRACTICAL — ring-light, mirror glow. SEPARATION — figure vs re-tinting room. BOUNCE — floor underglow shifting.
+LIGHTING: KEY — warm blush ring-light. FILL — warm wall bounce. RIM — a soft warm rim. PRACTICAL — ring-light, mirror glow. SEPARATION — figure vs the warm room. BOUNCE — warm floor underglow.
 
-LENS + DOF + BOKEH: 50mm, f/2.0; focus on her face and fingertips; ripple shimmer crisp; background soft.
+LENS + DOF + BOKEH: 50mm, f/2.0; focus on her face and fingertips; the reflected boutique room as soft bokeh behind.
 
-COMPOSITION: 9:16, Aira centred facing her reflection, the touch-point as the ripple origin, symmetrical mirror framing.
-SUBJECT FRAMING & POSITION: A front-on medium facing the mirror, Aira's fingertips on the glass at the instant her blush look swaps to the ivory pantsuit, the room re-tinting ivory. The body reads from roughly the waist up, centred facing her reflection, weight even, torso lifting with the surprise, free hand floating. Camera at mid distance on the central axis, the touch-point as the ripple origin, symmetrical mirror framing. She faces the mirror, near-frontal to the lens. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+COMPOSITION: 9:16, Aira centred facing her reflection, the touch-point as the coming ripple origin, symmetrical mirror framing.
+SUBJECT FRAMING & POSITION: A front-on medium facing the mirror, Aira's fingertips just meeting the glass in her blush Look A, the reflected boutique room behind — the clean still the transform clip opens on. The body reads from roughly the waist up, centred facing her reflection, weight even, torso lifting with anticipation, free hand floating. Camera at mid distance on the central axis, the touch-point a leading point, symmetrical mirror framing. She faces the mirror, near-frontal to the lens. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
-ATMOSPHERE: the joyful magic of the first transformation.
+ATMOSPHERE: the bright anticipation before the first transformation.
 
-COLOUR GRADE: clean boutique pastel mid-shift blush→ivory, glossy speculars, full mid-tone.
+COLOUR GRADE: clean boutique blush pastel, restrained and elegant (not garish), glossy speculars, full mid-tone.
 
-TEXTURE & MICRO-DETAIL: fabric weave morphing blush-wool to ivory-twill, glass fingerprints, ripple shimmer, real skin texture, lip detail on the gasp.
+TEXTURE & MICRO-DETAIL: blush-wool weave, glass fingerprints, ring-light shimmer, real skin texture.
 
 NEGATIVE: (as Frame 1) plus identity drift across the swap, melted features, broken reflection, immodest exposure.
 
@@ -1780,14 +1780,14 @@ NEGATIVE: (as Frame 1) plus identity drift across the swap, melted features, bro
 
 IDENTITY (locked): Aira — same person every frame; face, bone structure, eye shape + colour, nose, lips, skin texture and hair strictly locked to reference; ONLY expression, gaze and head move; no identity drift, no face/anatomy warp, no second or duplicate person.
 
-SHOT TYPE & ANGLE: front-on medium facing mirror, subject fills ~55%.
+SHOT TYPE & ANGLE: front-on medium facing the mirror at a HELD angle, subject ~55%, the reflected boutique room reading in the glass.
 
 LENS: 50mm, f/2.0.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Front-on medium facing the mirror: her fingertips are already meeting the glass as a slow push glides toward the touch-point, the surface beginning to shimmer.
-- [00:02–00:04] A swap-ripple radiates out from her fingertip and sweeps her body, the blush look re-dressing into the crisp ivory pantsuit while the whole room re-tints ivory.
-- [00:04–00:06] She reacts with a delighted grin, eyes dropping to take in the new look, cheeks lifting in bright surprise.
+- [00:00–00:02] Cut to a front-on medium facing the mirror at a HELD angle (Veo first frame = the blush Look A still): already in motion, a gentle push-with easing to the touch-point as her fingertips meet the glowing glass — the blush look fully intact, the swap NOT yet begun, the warm boutique room reflected behind; the surface beginning to shimmer at her fingertip.
+- [00:02–00:04] The swap BEGINS here, mid-clip: a swap-wavefront flows smoothly from her fingertip across her body in one continuous front, the blush look re-dressing into the crisp ivory pantsuit and the reflected room re-tinting ivory exactly where it passes — quick but smooth, never an instant snap; eyes widening on a delighted breath (angle held, identity locked).
+- [00:04–00:06] The wavefront completes and the look settles smoothly and fully into the ivory pantsuit of Frame 4's still (Veo's LAST frame), the reflected room resolved ivory around her — a delighted grin landing, eyes taking in the new look, no last-second snap.
 
 FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
@@ -1799,7 +1799,7 @@ FABRIC/HAIR/PROP PHYSICS: the wardrobe morph flows as a wipe across the body, fa
 
 FOOTWORK & BODY FLOW: a tiny excited weight-bounce as the loafer forms, grounded.
 
-TRANSITION / IMPOSSIBLE MOVE: hero swap #1 — touch re-dresses her blush→ivory and re-tints the room; ripple locked to the fingertip.
+TRANSITION / IMPOSSIBLE MOVE: hero swap #1, contained mid-clip at a held angle — the touch sends a swap-wavefront from her fingertip that re-dresses her blush→ivory and re-tints the room ivory; Veo first frame = this frame's blush Look A image, last frame = Frame 4's clean ivory image; every frame join is a hard match-cut to a new angle.
 
 LIGHTING-IN-MOTION: ring-light cross-fades warm→ivory; the room colour wipes with the ripple.
 
@@ -1811,44 +1811,44 @@ LOOP LOGIC: the swap rhythm establishes the cadence the loop will resolve.
 
 ## Frame 4 of 6 — IMAGE PROMPT (TRANSFORM — SWAP 2)
 
-ANGLE & SHOT SIZE: low-angle CLOSE-UP on her face and shoulder as she touches the glass again, the ivory look swapping to the emerald shirt-dress, room re-tinting emerald.
+ANGLE & SHOT SIZE: low-angle CLOSE-UP on her face and shoulder in the ivory look, fingertips just touching the glass again — the clean look the clip opens on (the resolved ivory of swap 1), the emerald swap NOT yet begun.
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the START frame of the transform CLIP (swap 2) — render her fully in the IVORY look (the exact still the Frame-4 video opens on, and Veo's FIRST frame; this is the resolved look of swap 1): the crisp ivory shirt-collar and pantsuit intact, clear optical frames on, fingertips just touching the glowing glass near her face (the ivory→emerald swap NOT yet begun). The swap-wavefront happens MID-CLIP at this same HELD low angle (the camera may push-with, never an angle rotation), resolving into Frame 5's clean EMERALD image (Veo's LAST frame). Her face and proportions stay constant. Do NOT depict the swap in this still and do NOT invent a new face, new hands or new bone structure.
 
-WARDROBE: ivory pantsuit dissolving to the emerald midi shirt-dress collar, modest high neckline forming.
+WARDROBE: the crisp ivory pantsuit and shirt-collar at its best, modest high neckline, fully intact (the emerald swap not yet begun).
 
-FOOTWEAR: out of frame (white loafer transitioning to emerald boot below).
+FOOTWEAR: out of frame (white loafer below).
 
-EYEWEAR: clear optical frames dissolving away (look c has none).
+EYEWEAR: clear optical frames on (the ivory look).
 
-ACCESSORIES: fine chain restyling to a single emerald-stone pendant, watch shifting.
+ACCESSORIES: a single fine chain and watch — the ivory look.
 
-HAIR: low tuck restyling toward a soft half-up in the ripple.
+HAIR: a soft low tuck.
 
-MAKEUP: neutral shifting to a soft bronze, satin skin, glow rising.
+MAKEUP: clean neutral, satin skin; real pores.
 
-HANDS & NAILS: fingertips on the glass near her face (articulate), nude nails shifting to soft bronze.
+HANDS & NAILS: fingertips just touching the glass near her face (articulate), nude nails, neat cuticles.
 
-FACIAL MICRO-DYNAMICS: a playful confident smirk forming, one brow arched, eyes sparkling, a slow blink of delight.
+FACIAL MICRO-DYNAMICS: a poised playful gaze to her reflection, a quarter-smile forming, eyes bright — fully recognizable, identity-locked, ready for the swap mid-clip.
 
-BODY POSTURE & WEIGHT: chin lifting toward the mirror from the low angle, shoulders rolling back with growing confidence — powerful and fluid.
+BODY POSTURE & WEIGHT: chin level toward the mirror from the low angle, shoulders settled with quiet confidence — poised, the instant before the swap.
 
-KINETIC STILLNESS (8 layers): (1) the emerald ripple sweeping up the collar; (2) room re-tinting emerald; (3) hair restyling; (4) a strand lifting; (5) chest breathing; (6) pendant settling; (7) ring-light shifting green-warm; (8) lashes lowering on the smirk.
+KINETIC STILLNESS (8 layers): (1) the mirror surface shimmering at her fingertip; (2) the reflected room glowing ivory behind; (3) a strand lifting; (4) ring-light clean and bright; (5) chest breathing; (6) the reflection steady; (7) a specular on the fine chain; (8) lashes settling on a blink.
 
-SPATIAL LOGIC: FOREGROUND — her fingertips and jaw, tack sharp. MIDGROUND — her face and shoulder. BACKGROUND — the reflected room re-tinting emerald, soft.
+SPATIAL LOGIC: FOREGROUND — her fingertips and jaw, tack sharp. MIDGROUND — her face and shoulder, the hero. BACKGROUND — the reflected boutique room, ivory, soft but clearly present.
 
-LIGHTING: KEY — ring-light warming with an emerald cast. FILL — green wall bounce. RIM — warm-green rim on the jaw and hair. PRACTICAL — ring-light, mirror glow. SEPARATION — lit face vs emerald room. BOUNCE — soft underglow.
+LIGHTING: KEY — clean ivory ring-light. FILL — soft wall bounce. RIM — a soft rim on the jaw and hair. PRACTICAL — ring-light, mirror glow. SEPARATION — lit face vs the ivory room. BOUNCE — soft underglow.
 
-LENS + DOF + BOKEH: 50mm, f/1.8; focus on the near eye; background melting to emerald bokeh.
+LENS + DOF + BOKEH: 50mm, f/1.8; focus on the near eye; the reflected room melting to soft ivory bokeh.
 
-COMPOSITION: 9:16, face on the upper third from the low angle, fingertip touch as a leading point, empowering framing.
-SUBJECT FRAMING & POSITION: A low-angle close-up on her face and shoulder as she touches the glass again, the ivory look swapping to the emerald shirt-dress. The body reads as face-and-shoulder only, the face on the upper third from the low angle, chin lifting toward the mirror, shoulders rolling back with growing confidence. Camera near and looking up, the fingertip touch a leading point. An empowering, near-frontal close framing. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+COMPOSITION: 9:16, face on the upper third from the low angle, the fingertip touch a leading point, empowering framing.
+SUBJECT FRAMING & POSITION: A low-angle close-up on her face and shoulder in the ivory look, fingertips just touching the glass again — the clean still the transform clip opens on. The body reads as face-and-shoulder, the face on the upper third from the low angle, chin level toward the mirror, shoulders settled with quiet confidence. Camera near and looking up at a held low angle, the fingertip touch a leading point, the reflected room present behind. An empowering, near-frontal close framing. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
-ATMOSPHERE: growing playful confidence, the magic getting bolder.
+ATMOSPHERE: poised playful confidence before the bolder swap.
 
-COLOUR GRADE: clean boutique pastel mid-shift ivory→emerald, glossy speculars.
+COLOUR GRADE: clean boutique ivory, restrained and elegant (not garish), glossy speculars.
 
-TEXTURE & MICRO-DETAIL: twill morphing to emerald-cotton shirting, glass fingerprints, real skin pores, pendant facets.
+TEXTURE & MICRO-DETAIL: ivory-twill weave, glass fingerprints, real skin pores.
 
 NEGATIVE: (as Frame 1) plus identity drift, melted features, asymmetric eyes.
 
@@ -1861,9 +1861,9 @@ SHOT TYPE & ANGLE: low-angle close-up, subject fills ~60%.
 LENS: 50mm, f/1.8.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Low-angle close-up on her face and shoulder: her fingertips touch the glass again as a smooth crane begins to rise from below toward eye-level; gaze flicking to the mirror.
-- [00:02–00:04] The emerald ripple sweeps up her body and the room re-tints emerald as the crane lifts; eyes following the colour climbing, lips curving.
-- [00:04–00:06] At eye-level a confident playful smirk lands with a slow, delighted blink to her own reflection.
+- [00:00–00:02] Cut to a low-angle close-up on her face and shoulder at a HELD low angle (Veo first frame = the ivory look still): already in motion, a gentle push-with easing in as her fingertips touch the glass again — the ivory look intact, the emerald swap NOT yet begun, the reflected room ivory behind; gaze flicking to her reflection.
+- [00:02–00:04] The swap BEGINS here, mid-clip: a swap-wavefront flows smoothly up from her fingertip across collar and shoulder, the ivory re-dressing into the emerald shirt-dress and the reflected room re-tinting emerald exactly where it passes — quick but smooth, never an instant snap; eyes following the colour, a smirk curving (low angle held, identity locked).
+- [00:04–00:06] The wavefront completes and the look settles smoothly and fully into the emerald shirt-dress of Frame 5's still (Veo's LAST frame), the reflected room resolved emerald — a confident playful smirk landing with a slow delighted blink, no last-second snap.
 
 FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
@@ -1875,7 +1875,7 @@ FABRIC/HAIR/PROP PHYSICS: collar morphs and settles; hair restyles fluidly; pend
 
 FOOTWORK & BODY FLOW: weight grounding taller as the look completes (below frame).
 
-TRANSITION / IMPOSSIBLE MOVE: hero swap #2 — touch re-dresses ivory→emerald and re-tints the room emerald.
+TRANSITION / IMPOSSIBLE MOVE: hero swap #2, contained mid-clip at a held low angle (camera push-with, never an angle rotation) — the touch sends a swap-wavefront from her fingertip that re-dresses ivory→emerald and re-tints the room emerald; Veo first frame = this frame's clean ivory image, last frame = Frame 5's clean emerald image; every frame join is a hard match-cut to a new angle.
 
 LIGHTING-IN-MOTION: ring-light shifts toward warm-emerald; the room colour wipes with the ripple.
 
