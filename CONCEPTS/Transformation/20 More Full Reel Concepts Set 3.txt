@@ -3870,7 +3870,7 @@ Hair: AP — a sleek high-shine wet-look slicked-back style with a low tucked ta
 
 Makeup: AQ — electric neon glow: luminous dewy skin, a neon-cyan inner-corner pop with a clean graphic flick, a bold glossy lip with a neon sheen, a sharp wet highlight on the high points, soft-set brows, real pores
 
-Movement: macro highlighter-drop glow → neon light-trail wrap transform (the one impossible move) — long-exposure neon light-trails draw and wrap in luminous ribbons around her while her single face stays clear and locked (never traced over or replaced)
+Movement: neon light-trail wrap transform (the one impossible move) — long-exposure neon light-trails draw and wrap in luminous ribbons around her while her single face stays clear and locked (never traced over or replaced), CONTAINED mid-clip inside Frame 4 at a HELD angle (begins mid-clip, wraps smoothly, never an instant snap; believable real long-exposure light-trail physics — continuous luminous streaks from a real moving light, true motion-blur trails, no cheap sparkles). Veo first/last-frame continuity (Frame 4 image = electric neon-glow Look A with no trails drawn = first frame, Frame 5 image = full neon-trail-wrapped Look B = last frame); every frame join is a hard match-cut to a new angle. (Beauty-still — contained product-at-face pose held per M.6.)
 
 Concept Line: "I light up the night"
 
@@ -3936,9 +3936,9 @@ SHOT TYPE: medium close, chest-up, subject fills about 55% of the vertical frame
 LENS: 50mm, f/2.0, smooth deep-black background fall-off.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Medium close chest-up in the dark neon-night studio: a slow push-in is already gliding toward her as she tilts the Lumen tube a few degrees into the key, neon-cyan speculars sliding along the cap and the glowing bullet settling; gaze lowered to the tube, a faint neon trail drifting behind her.
-- [00:02–00:04] The push continues as she lifts her bright gaze to lens on a soft inhale and a confident quarter-smile blooms, electric cyan-and-magenta glow behind.
-- [00:04–00:06] She holds, electric and confident, her single face clear and locked, eyes bright, a neon trail drifting across the black.
+- [00:00–00:02] Cut to a medium-close chest-up in the dark neon-night studio: she is already cradling the matte-black Lumen tube at her collarbone as a slow push eases in, the deep black backdrop and soft city-bokeh behind her, faint neon light-trails drifting; her left hand easy near her jaw.
+- [00:02–00:04] The push settles as a neon-edge glint travels the slicked crown and her bright gaze eases to lens, a cyan trail drifting past, a confident playful quarter-smile settling.
+- [00:04–00:06] She holds the electric neon-glow look, the liquid-black top catching one neon-edge glint, eyes bright and direct (the line lands later).
 
 AUDIO: diegetic only, no in-clip music. Ambient bed — a low night-studio room tone and a faint neon hum throughout. SFX — a soft cap-tap as her fingers settle on the tube at 0.7s (gentle attack, short tail), a faint fabric shift at 2.7s, a soft neon light-trail whoosh-hum at 4.5s timed to the gaze-lift. Reaction — a soft bright breath at 3.3s. The master track sits low — a glowing synth arpeggio just kindling under the room tone (present, never full). VO — none this frame.
 
@@ -3977,7 +3977,7 @@ SUBJECT FRAMING & POSITION: A medium close framing holds Aira from the chest up 
 
 LENS + DOF + BOKEH: 50mm, f/2.0; focus split between her near eye and the glowing cheekbone so both read crisp; the background melting to deep creamy black with neon bokeh; soft neon blooms off the first trail; gentle roll-off, no clipping.
 
-COMPOSITION REFERENCE: the electric build beat — a luminous glow-drop and first drawing trail, the wrap clearly imminent (BA.3 cause building to effect).
+COMPOSITION REFERENCE: a macro highlighter-drop glow build beat — electric and poised, the neon light-trail wrap held for the Frame-4 clip.
 
 ATMOSPHERE: electric, charged, nocturnal — the glossy instant before the neon light-trails wrap around her.
 
@@ -3996,9 +3996,9 @@ SHOT TYPE: medium close, chest-up, subject and raised applicator fill about 58% 
 LENS: 50mm, f/2.0.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Medium close: the slow push continues with a faint tilt-up already following her hand as she raises the glowing Lumen applicator near her cheekbone and eases a luminous glow-drop along the high point, a neon glint travelling; gaze sharpening.
-- [00:02–00:04] The first neon light-trail draws and curls near her shoulder, her eyes sharpening with electric focus (her single face stays clear and locked).
-- [00:04–00:06] The glow settles bright on her cheekbone, a ribbon curling, lashes steady in electric focus.
+- [00:00–00:02] Cut to a medium-close three-quarter, a rack-focus pulling from the tube to her eye: she is already pressing a glowing Lumen drop high on her cheekbone and the first neon light-trail begins to draw in the dark around her; gaze cast soft to the tube.
+- [00:02–00:04] The luminous drop catches a wet neon glow on her cheekbone as her gaze brightens with electric focus and a knowing micro-smile kindles, the first cyan-and-magenta trail drawing in.
+- [00:04–00:06] She holds the glow poised at her cheek, eyes bright and electric, the neon-glow look intact (silent here).
 
 AUDIO: diegetic only. Ambient — low night-studio room tone and a faint neon hum throughout. SFX — a soft glow-drop blip at 1.0s, a faint cap tick at 2.4s, a soft neon trail-draw whoosh-hum at 5.1s (gentle attack, soft tail). Reaction — a soft focused breath at 3.3s. The master track lifts a touch — a glowing arpeggio and deep night groove rising under the SFX (present, never full). VO — none this frame.
 
@@ -4012,7 +4012,7 @@ NEGATIVE: identity drift, face or hand warp, extra or fused fingers, duplicate p
 
 ## Frame 3 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the locked START keyframe of the neon light-trail wrap transform — face fully recognizable and SINGLE, still the electric neon look, the first long-exposure neon light-trails now drawing and gathering into luminous ribbons that begin to curl around her. The trails wrap the air around her; her one face, one head and one body are never traced over, duplicated or replaced. Lock this START so Frame 4's wrap interpolates cleanly to the full trail-wrapped END (Frame 5).
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. SHOT NOTE: a clean electric neon-glow (Look A) beat at its OWN cut/angle — the electric neon look fully intact and her face SINGLE, the first long-exposure neon light-trails just beginning to draw and gather into luminous ribbons that start to curl around her; the full light-trail wrap does NOT happen here (it happens mid-clip inside Frame 4). The trails wrap the air around her; her one face, one head and one body are never traced over, duplicated or replaced. Build electric confident anticipation only.
 
 WARDROBE: the sleek liquid-black top with neon-edge piping, continuity-locked, the reflective surface beginning to catch gathering trail-light, the high neckline pristine, fully modest, zero snags.
 
@@ -4037,7 +4037,7 @@ SUBJECT FRAMING & POSITION: A medium framing holds Aira from the chest up with a
 
 LENS + DOF + BOKEH: 50mm, f/2.0; focus split between her near eye and the nearest ribbon so both read crisp; the background melting to deep creamy black with neon bokeh; soft neon blooms off the ribbons; gentle roll-off, no clipping.
 
-COMPOSITION REFERENCE: the electric suspended build beat — trails gather and curl, the wrap clearly imminent (BA.3 cause building to effect).
+COMPOSITION REFERENCE: a poised electric beat, trails gathering and beginning to curl — electric and confident, the neon light-trail wrap held for the Frame-4 clip.
 
 ATMOSPHERE: electric, charged, nocturnal — the glossy instant before the neon light-trails wrap full around her.
 
@@ -4056,9 +4056,9 @@ SHOT TYPE: medium, chest-up, subject and gathering trails fill about 60% of the 
 LENS: 50mm, f/2.0, smooth deep-black background fall-off.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Medium chest-up: a slow arc is already drifting around her as she lowers the applicator a touch and the long-exposure neon trails draw and gather into luminous ribbons; gaze following the curling light.
-- [00:02–00:04] The arc eases round as the first ribbon curls at her shoulder, her eyes sharpening with electric focus.
-- [00:04–00:06] The gathering tightens and brightens, cueing the wrap, her gaze lifting a degree.
+- [00:00–00:02] Cut to a medium chest-up on a fresh three-quarter angle: she eases the tube down and opens her hand soft as the first neon light-trails draw and drift, drawing a slow breath as the camera arcs a few degrees and the dark backdrop swings behind with parallax; gaze lifting.
+- [00:02–00:04] The arc settles as her gaze lifts to lens with rising electric spark and a knowing micro-smile forms, long-exposure neon light-trails beginning to draw and loop in the dark around her, her single face clear and untouched, still the neon-glow look.
+- [00:04–00:06] She holds the poised electric beat, the trails just beginning to wrap, eyes bright and glowing — the hush before the light-trail wrap (silent here).
 
 AUDIO: diegetic only, no VO this frame. Ambient — low night-studio room tone and a faint neon hum throughout. SFX — the soft settle of the lowering applicator at 0.9s, a soft neon trail-gather whoosh-hum at 2.4s, a bright ribbon-curl hum at 4.5s as the first ribbon locks (gentle attack, soft tail). Reaction — a soft focused breath at 2.1s. The master track sits low — a glowing arpeggio and deep night groove under the SFX (present, never full).
 
@@ -4072,38 +4072,38 @@ NEGATIVE: identity drift, face or hand warp, extra or fused fingers, duplicate p
 
 ## Frame 4 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the one impossible move — the neon light-trail wrap. LOCK the START (Frame 3, single face clear, electric neon, trails gathering) and the END (Frame 5 open, full trail-wrapped radiant after-look). Mid-wrap the long-exposure neon light-trails wrap in luminous ribbons around her in slow electric arcs; her one face, one head and one body stay clear, single and recognizable, softly framed (never traced over, never buried) by the wrapping trails; interpolate strictly between the locked keyframes — do NOT invent a new face, do NOT duplicate her face, do NOT invent new hands or new bone structure beneath the neon-light-trails. Electric and confident, real long-exposure light physics, mesmerizing not chaotic.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the START frame of the transform CLIP — render her fully in the electric neon-glow Look A (the exact still the Frame-4 video opens on, and Veo's FIRST frame): the sleek liquid-black top in the dark neon-night studio with NO neon light-trails drawn yet, her single face clear and centred, only the first faint trails just beginning to draw in the dark around her (the full wrap NOT yet wrapped). The neon light-trail wrap happens MID-CLIP at this same HELD angle (the camera may push or travel with her but never rotates its angle; long-exposure neon light-trails draw and wrap in luminous ribbons around her by believable real long-exposure light-trail physics — continuous luminous streaks from a real moving light, true motion-blur trails, no cheap sparkles; the trails wrap the air, never her face), resolving into Frame 5's full neon-trail-wrapped after-look image (Veo's LAST frame). Her one face, one head, one body, hair and proportions stay constant. Do NOT depict the full wrap in this still, do NOT trace over or duplicate her face, and do NOT invent a new face, new hands or new bone structure.
 
-WARDROBE (refined): the sleek liquid-black top catching the wrap at its brightest as the ribbons curl — fabric flaring with travelling neon glints, fully modest, never revealing.
+WARDROBE: the sleek liquid-black top with subtle reflective neon-edge piping, long sleeves and a modest high neckline, holding deep sculptural shadow with one neon-edge glint, fully modest, fully intact (the full wrap not yet wrapped).
 
-HAIR: the slicked wet-look crown catching a sweeping arc of neon-trail light mid-motion, the low tucked tail holding, strands lit electric-clean; color locked beneath the gloss.
+HAIR: the sleek high-shine wet-look slicked-back style with a low tucked tail and a razor-clean hairline, lacquered to a glossy reflective finish; color locked to reference.
 
-MAKEUP: mid-wrap — the electric neon glow flushing to its luminous peak, the neon-cyan pop kindling brighter, the glossy lip enriching, the wet highlight glinting on the high points; real pores beneath.
+MAKEUP: the electric neon-glow Look-A base — luminous dewy skin, a neon-cyan inner-corner pop with a clean graphic flick, a bold glossy lip with a neon sheen, a sharp wet highlight on the high points; skin dewy and real with visible pores and fine vellus texture.
 
-HANDS & NAILS: both arms drifting open through the trail-field, palms turning up as the neon ribbons wrap around her in slow electric arcs; natural nail-bed color, neat cuticles, no white-knuckle tension.
+HANDS & NAILS: both arms beginning to open soft from her body, palms easing up as the first trails draw in, the right near the cradled Lumen tube; natural nail-bed color, neat cuticles, no white-knuckle tension.
 
-FACIAL MICRO-DYNAMICS: eyes bright with electric wonder, a gentle parted-lip confidence, a clean bold lift — her single face clear and trail-framed by the wrapping ribbons, identity strictly held to reference.
+FACIAL MICRO-DYNAMICS: her single face bright with confident electric anticipation, a gentle parted-lip confidence, a clean bold calm — composed, single and fully recognizable, identity-locked, ready for the neon light-trail wrap mid-clip.
 
-BODY POSTURE & WEIGHT: mid-wrap the spine lengthens and the shoulders open bold, weight rolling smooth between the feet — grounded real physics, modest throughout.
+BODY POSTURE & WEIGHT: front-facing with the torso rotated about 4°, the spine long and the shoulders open bold, weight settled with a soft hip counter-tilt — grounded real physics, the electric centre before the wrap, modest throughout.
 
-KINETIC STILLNESS (8 layers): (1) long-exposure neon light-trails wrapping in luminous ribbons around her in slow electric arcs at peak; (2) ribbon-cores glowing as they curl; (3) the slicked crown and top catching travelling trail-light mid-wrap; (4) tiny neon motes glinting through the field; (5) the top flaring with a neon-edge glint; (6) neon speculars multiplying across the wrapping ribbons; (7) the black backdrop glowing a touch brighter through the wrap; (8) her chest mid a soft confident breath.
+KINETIC STILLNESS (8 layers): (1) the first long-exposure neon light-trails just beginning to draw in the dark around her; (2) faint ribbon-cores starting to glow at the frame edge; (3) the slicked crown catching one neon-edge sheen band; (4) the deep black backdrop and soft city-bokeh behind her; (5) the top breathing soft in the night air; (6) a neon glint sliding on the Lumen tube; (7) the neon-edge glint shifting a millimetre along the top as her ribcage expands; (8) a slow eyelash settle completing a bright blink.
 
-SPATIAL LOGIC: FOREGROUND — a wrapping neon ribbon nearest lens, soft. MIDGROUND — Aira mid-wrap, her single face the clear hero, the trails wrapping around her. BACKGROUND — the deep black backdrop with wrapping ribbons and neon falloff.
+SPATIAL LOGIC: FOREGROUND — a first drawing neon trail and the cradled tube nearest lens, soft. MIDGROUND — Aira's single face the clear hero in the electric neon look. BACKGROUND — the deep black backdrop with soft city-bokeh and faint neon, present behind.
 
-LIGHTING: KEY — soft dark key now brighter through the wrap. FILL — low bounce below (clamshell). RIM — a bright neon-cyan rim raking the wrapping ribbons and the crown (hero light on the motion). PRACTICAL — magenta and cyan neon at full glow. SEPARATION — the wrap and faint neon haze. BOUNCE — neon kicks multiplying across the wrapping ribbons.
+LIGHTING: KEY — a soft dark key feathered above-front. FILL — low bounce below (clamshell). RIM — a neon-cyan rim skimming the crown and shoulder to separate her from the dark. PRACTICAL — magenta and cyan neon and the tube. SEPARATION — the black backdrop deep so she reads about 2 stops up. BOUNCE — a neon kick off the Lumen tube.
 
-FRAMING: ASPECT 9:16; energized medium-wide, Aira centered with the neon wrap filling the frame around her single face, 10% headroom, slight push for intimacy.
-SUBJECT FRAMING & POSITION: A energized medium-wide framing opens around Aira with about 10% headroom as the neon wrap fills the lower frame, a slight push easing in for intimacy. Her spine lengthens and her shoulders open as the weight rolls smooth between the feet in grounded real-physics motion. The camera eases wider against the deep black backdrop with soft neon and city-bokeh, Aira the centred hero at the heart of the bloom. She is centred with the neon wrap radiating around her. She faces front to the lens, lifted at the peak of the transform. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+FRAMING: ASPECT 9:16; energized medium-wide, Aira centered in the dark neon-night studio, 10% headroom — its own distinct cut/angle.
+SUBJECT FRAMING & POSITION: An energized medium-wide framing opens around Aira at about 10% headroom in the dark neon-night studio, the electric neon-glow Look A fully intact and her face single as the transform clip begins. Her torso is turned about four degrees with the weight settled over a soft hip counter-tilt, arms beginning to open soft. The camera holds a mid distance on its own fresh angle, a hard cut from Frame 3, with Aira the centred single hero and the deep black backdrop with soft neon and city-bokeh present behind, facing front to the lens. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
-LENS + DOF + BOKEH: 50mm, f/2.0; her single face and the nearest ribbons tack sharp at the wrap-core, the closest ribbon melting into a soft neon bokeh with electric specular glints.
+LENS + DOF + BOKEH: 50mm, f/2.0; her single face and the cradled tube tack sharp, the nearest first trails melting into a soft neon bokeh with electric specular glints; gentle highlight roll-off, no clipping.
 
-COMPOSITION REFERENCE: the signature impossible beat — a neon light-trail wrap, electric and confident, heightened but identity-locked, her face never traced over (AT.5 transform logic / identity-through-transform).
+COMPOSITION REFERENCE: the start of the signature beat — electric neon-glow Look A with a single locked face, electric and confident, the neon light-trail wrap held for the video's mid-clip.
 
-ATMOSPHERE: electric, exhilarating, mind-bending — the moment the neon trails wrap full around her single locked face in slow luminous arcs.
+ATMOSPHERE: electric, charged, confident — the glowing instant the transform clip begins.
 
 COLOR GRADE: electric neon-night — deep rich uncrushed blacks, electric cyan and magenta neon, crisp clean speculars, full mid-tone, a glossy high-contrast glow (no garish oversaturation, dark electric neon-night lane).
 
-TEXTURE & MICRO-DETAIL: the wrapping trails read as real long-exposure light-streaks with luminous cores and soft motion blur, the ribbons read as real drawn light on living air, the top shows a real reflective weave catching neon glints, skin reads real with pores beneath the glow.
+TEXTURE & MICRO-DETAIL: the top shows a real reflective weave catching neon glints, the first drawing trails read as real long-exposure light-streaks with luminous cores, the Lumen tube reads as real matte glass with a glowing cap, skin reads real with pores beneath the glow.
 
 NEGATIVE: mirrored, flipped, inverted, extra limbs, fused fingers, melted features, asymmetric eyes (unintentional), garbled text, floating shadows, duplicated subjects, low-res patches, plastic skin, over-smoothed skin, oversharpened, AI-generated artifacts, watermarks, signature, deformed hands, malformed teeth, joint cuts at ankle/knee/wrist/elbow/neck, amputated fingertips, cross-eyed, lazy eye, off-axis pupils, melted clothing, mismatched footwear, mannequin-stiff posture, dead eyes, statue-frozen energy, garbled label text, crushed muddy blacks, garish oversaturation, flat dull light, inventing a new face beneath the neon-light-trails.
 
@@ -4116,9 +4116,9 @@ SHOT TYPE: energized medium-wide of the neon light-trail wrap (the hero move).
 LENS: 50mm, f/2.0.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Energized medium-wide: the push is already easing into a smooth gentle orbit as the neon trails wrap in luminous ribbons and she opens her arms; gaze tracing the curling ribbons.
-- [00:02–00:04] The orbit rides the hero beat as the ribbons curl bright around her and the top and crown catch travelling neon (her single face clear and trail-framed, never traced over); eyes widening in electric awe.
-- [00:04–00:06] The wrap settles and the ribbons resolve as the orbit eases; a radiant trail-framed look landing, her single face clear, eyes alight.
+- [00:00–00:02] Cut to an energized medium at a HELD angle (Veo first frame = the electric neon-glow Look A still): she holds her neon-glow look, already in motion — no light-trails drawn yet, a gentle push-with easing in, the angle fixed for the whole clip.
+- [00:02–00:04] The light-trail wrap BEGINS here, mid-clip: long-exposure neon light-trails draw and wrap in luminous cyan-and-magenta ribbons around her in one continuous looping pattern, the glowing streaks tracing through the dark air and around her shoulder exactly where they pass — believable real long-exposure light-trail physics (continuous luminous streaks from a real moving light, true motion-blur trails, no cheap sparkles), her single face clear and locked (NEVER traced over, replaced or duplicated), eyes bright with electric delight (angle held, identity locked).
+- [00:04–00:06] The wrap completes and the look settles smoothly and fully into the full neon-trail-wrapped after-look of the Veo last-frame still (Frame 5's image) — glowing neon ribbons looped around her single locked face in the dark studio, resolved and held through the final beat, no last-second pop; a bright electric calm landing in her eyes.
 
 AUDIO: diegetic-led. Ambient — low night-studio room tone and a faint neon hum. SFX — a bright neon-wrap whoosh-hum 0.5–2.7s, fine ribbon-curl hums 2.6–4.8s (gentle attack, soft tails), a soft fabric-flare at 3.4s. Reaction — a soft confident breath at 2.7s. The master track lifts to its electric peak here — a glowing-arpeggio-and-night-groove swell landed on the wrap (present, still under the SFX, never full). VO — none (the line lands next frame).
 
@@ -4134,7 +4134,7 @@ NEGATIVE: identity drift, face or hand warp, extra or fused fingers, duplicate p
 
 IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
 
-TRANSFORM KEYFRAME NOTE: this is the locked END keyframe of the neon light-trail wrap transform; it must resolve continuously out of the START keyframe in Frame 3 — same single face, same hands, same camera distance, the wrapping trails now settled into a soft luminous frame curling slow around her. Only the air was wrapped; her one face was never traced over, duplicated or replaced. Do NOT invent a new face, duplicate her face or invent new hands beneath the neon-light-trails; this is the same single Aira, electric and radiant. Frame 3 (START) and Frame 5 (END) are the two anchors of the single transform.
+TRANSFORM KEYFRAME NOTE: this is the full neon-trail-wrapped Look B reveal at its OWN cut/angle (a hard cut from the Frame-4 neon light-trail wrap clip — a new angle/crop, and the Veo last-frame the wrap resolves into). It carries the resolved full neon-trail-wrapped after-look the Frame-4 clip ends on — only the air was wrapped in glowing neon ribbons; her one face was never traced over, duplicated or replaced. Same single Aira, electric and radiant — do NOT invent a new face, duplicate or trace over her face, or invent new hands or new bone structure.
 
 WARDROBE: the sleek liquid-black top at its glossiest, the neon-edge piping catching one travelling cyan glint, the modest high neckline pristine, fully modest, zero snags.
 
@@ -4178,9 +4178,9 @@ SHOT TYPE: medium close, chest-up, subject fills about 56% of the vertical frame
 LENS: 50mm, f/2.0, smooth deep-black background fall-off.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Medium close: a slow push is already gliding in as she eases her hands open and the wrap settles, the last ribbons curling slow; gaze bright to lens.
-- [00:02–00:04] She delivers “I light up the night.” to lens with a confident bright smile, eyes warm and direct, her single face clear and locked.
-- [00:04–00:06] She holds the radiant trail-framed look as one final ribbon settles, the smile easing into confident calm.
+- [00:00–00:02] Cut to a medium close on a new angle in the glowing dark: she is already wrapped in the full neon light-trails, easing her right hand back toward the Lumen tube at her collarbone with an easy roll of the shoulder, her single face clear and untouched; gaze bright to lens.
+- [00:02–00:04] She delivers “I light up the night.” to lens with a confident playful smile and natural lip-sync, the neon ribbons glowing soft around her, eyes bright and electric.
+- [00:04–00:06] She holds the neon-wrapped electric look, her single face locked and the tube cradled soft, eyes bright and direct.
 
 AUDIO: diegetic plus the spoken line. SPOKEN LINE (lip-sync) — Aira says "I light up the night." from 1.7–4.3s in English with a natural Indian accent, confident electric tone, mouth shapes matched exactly. Ambient — low night-studio room tone and a faint neon hum throughout. SFX — a soft settling-ribbon hum at 1.0s, a faint fabric shift at 1.5s (kept clear of the VO). The master track ducks gently under the line and holds its arpeggio low.
 
@@ -4238,9 +4238,9 @@ SHOT TYPE: medium close, chest-up, subject fills about 56% of the vertical frame
 LENS: 50mm, f/2.0.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Medium close: a slow push is already gliding in as she eases from the bright smile to a calm confident half-smile and the last neon ribbon dissolves behind her; gaze steady to lens.
-- [00:02–00:04] The push holds as she settles her hand near the Lumen tube on a soft breath, holding the radiant glow; eyes calm and bright.
-- [00:04–00:06] She holds the confident half-smile toward the loop, neon glow soft behind, her single face clear and locked.
+- [00:00–00:02] Cut to a medium-close chest-up on a fresh angle: she settles both hands gently, the right cradling the Lumen tube soft near her collarbone, the left easy near her jaw, as a gentle push eases in; gaze bright to lens.
+- [00:02–00:04] A confident playful smile holds to lens on a slow breath, the neon trails glowing even around her, electric light on her skin.
+- [00:04–00:06] She holds the electric beat, the dark deep and the neon ribbons glowing, eyes bright and direct — a held moment before the loop (silent here).
 
 AUDIO: diegetic only, no VO. Ambient — low night-studio room tone and a faint neon hum throughout. SFX — a soft ribbon-dissolve hum at 1.6s, a faint fabric shift at 3.2s, a soft cap-tap at 4.8s as her hand settles (gentle attack, short tail). Reaction — a soft calm breath at 2.4s. The master track eases from its peak toward a soft resolve (present, never full).
 
@@ -4300,9 +4300,9 @@ SHOT TYPE: medium close, chest-up, subject fills about 55% of the vertical frame
 LENS: 50mm, f/2.0, smooth deep-black background fall-off.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Medium close matching Frame 1: a slow push is already resolving toward the exact opening framing as she re-cradles the Lumen tube and tilts it into the key, neon-cyan speculars sliding along the cap; gaze lowering to the tube.
-- [00:02–00:04] The push settles as she eases her bright gaze back to lens on a soft breath with the composed quarter-smile, the neon-night studio resolving to the opening; eyes calming.
-- [00:04–00:06] She lands precisely on the Frame 1 pose and gaze, a neon trail drifting — a seamless loop seam.
+- [00:00–00:02] Cut to a medium-close chest-up matched to Frame 1: she returns her right hand to cradle the matte-black Lumen tube at collarbone height and her left easy near her jaw exactly as in Frame 1 as a soft pull-out settles to the opening framing.
+- [00:02–00:04] She eases her bright gaze back to lens on a slow breath with the composed confident quarter-smile, the neon-trail wrap resolving back toward the opening neon-glow look to seed the loop.
+- [00:04–00:06] She lands precisely on the Frame 1 pose and gaze, bright and electric in the neon-night — a seamless loop seam.
 
 AUDIO: diegetic only, no VO. Ambient — low night-studio room tone and a faint neon hum throughout. SFX — a soft cap-tap at 0.7s as her fingers settle on the tube (gentle attack, short tail), a faint fabric shift at 2.7s, a soft neon light-trail whoosh-hum at 4.1s timed to the gaze-lift. The master track resolves softly here so it can loop clean.
 

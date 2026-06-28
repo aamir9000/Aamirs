@@ -2463,6 +2463,95 @@ BEATSLM[39] = [
 ]
 
 
+BEATSLM[40] = [
+    # F1 - electric neon-glow hero (contained, product-at-face), push-in
+    (
+        "Cut to a medium-close chest-up in the dark neon-night studio: she is already cradling "
+        "the matte-black Lumen tube at her collarbone as a slow push eases in, the deep black "
+        "backdrop and soft city-bokeh behind her, faint neon light-trails drifting; her left "
+        "hand easy near her jaw.",
+        "The push settles as a neon-edge glint travels the slicked crown and her bright gaze "
+        "eases to lens, a cyan trail drifting past, a confident playful quarter-smile settling.",
+        "She holds the electric neon-glow look, the liquid-black top catching one neon-edge "
+        "glint, eyes bright and direct (the line lands later).",
+    ),
+    # F2 - build, highlighter-drop glow, first trails; rack-focus product->eye
+    (
+        "Cut to a medium-close three-quarter, a rack-focus pulling from the tube to her eye: she "
+        "is already pressing a glowing Lumen drop high on her cheekbone and the first neon "
+        "light-trail begins to draw in the dark around her; gaze cast soft to the tube.",
+        "The luminous drop catches a wet neon glow on her cheekbone as her gaze brightens with "
+        "electric focus and a knowing micro-smile kindles, the first cyan-and-magenta trail "
+        "drawing in.",
+        "She holds the glow poised at her cheek, eyes bright and electric, the neon-glow look "
+        "intact (silent here).",
+    ),
+    # F3 - START clean (trails drawing, NO full wrap yet), slow arc
+    (
+        "Cut to a medium chest-up on a fresh three-quarter angle: she eases the tube down and "
+        "opens her hand soft as the first neon light-trails draw and drift, drawing a slow "
+        "breath as the camera arcs a few degrees and the dark backdrop swings behind with "
+        "parallax; gaze lifting.",
+        "The arc settles as her gaze lifts to lens with rising electric spark and a knowing "
+        "micro-smile forms, long-exposure neon light-trails beginning to draw and loop in the "
+        "dark around her, her single face clear and untouched, still the neon-glow look.",
+        "She holds the poised electric beat, the trails just beginning to wrap, eyes bright and "
+        "glowing \u2014 the hush before the light-trail wrap (silent here).",
+    ),
+    # F4 - THE TRANSFORM, HELD ANGLE, smooth mid-clip light-wrap (NOT her face); first=neon-glow, last=neon-wrapped
+    (
+        "Cut to an energized medium at a HELD angle (Veo first frame = the electric neon-glow "
+        "Look A still): she holds her neon-glow look, already in motion \u2014 no light-trails "
+        "drawn yet, a gentle push-with easing in, the angle fixed for the whole clip.",
+        "The light-trail wrap BEGINS here, mid-clip: long-exposure neon light-trails draw and "
+        "wrap in luminous cyan-and-magenta ribbons around her in one continuous looping pattern, "
+        "the glowing streaks tracing through the dark air and around her shoulder exactly where "
+        "they pass \u2014 believable real long-exposure light-trail physics (continuous luminous "
+        "streaks from a real moving light, true motion-blur trails, no cheap sparkles), her "
+        "single face clear and locked (NEVER traced over, replaced or duplicated), eyes bright "
+        "with electric delight (angle held, identity locked).",
+        "The wrap completes and the look settles smoothly and fully into the full "
+        "neon-trail-wrapped after-look of the Veo last-frame still (Frame 5's image) \u2014 "
+        "glowing neon ribbons looped around her single locked face in the dark studio, resolved "
+        "and held through the final beat, no last-second pop; a bright electric calm landing in "
+        "her eyes.",
+    ),
+    # F5 - END neon-wrapped reveal, hand to tube, spoken line; slow orbit
+    (
+        "Cut to a medium close on a new angle in the glowing dark: she is already wrapped in the "
+        "full neon light-trails, easing her right hand back toward the Lumen tube at her "
+        "collarbone with an easy roll of the shoulder, her single face clear and untouched; gaze "
+        "bright to lens.",
+        "She delivers \u201cI light up the night.\u201d to lens with a confident playful smile "
+        "and natural lip-sync, the neon ribbons glowing soft around her, eyes bright and "
+        "electric.",
+        "She holds the neon-wrapped electric look, her single face locked and the tube cradled "
+        "soft, eyes bright and direct.",
+    ),
+    # F6 - held electric, cradling tube; gentle push
+    (
+        "Cut to a medium-close chest-up on a fresh angle: she settles both hands gently, the "
+        "right cradling the Lumen tube soft near her collarbone, the left easy near her jaw, as "
+        "a gentle push eases in; gaze bright to lens.",
+        "A confident playful smile holds to lens on a slow breath, the neon trails glowing even "
+        "around her, electric light on her skin.",
+        "She holds the electric beat, the dark deep and the neon ribbons glowing, eyes bright "
+        "and direct \u2014 a held moment before the loop (silent here).",
+    ),
+    # F7 - loop close, cradle tube matched to F1; pull-out
+    (
+        "Cut to a medium-close chest-up matched to Frame 1: she returns her right hand to cradle "
+        "the matte-black Lumen tube at collarbone height and her left easy near her jaw exactly "
+        "as in Frame 1 as a soft pull-out settles to the opening framing.",
+        "She eases her bright gaze back to lens on a slow breath with the composed confident "
+        "quarter-smile, the neon-trail wrap resolving back toward the opening neon-glow look to "
+        "seed the loop.",
+        "She lands precisely on the Frame 1 pose and gaze, bright and electric in the neon-night "
+        "\u2014 a seamless loop seam.",
+    ),
+]
+
+
 def build_block(beats):
     return (
         BREAKDOWN_HEADER + "\n"
