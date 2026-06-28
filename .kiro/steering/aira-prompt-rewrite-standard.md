@@ -857,47 +857,53 @@ section-N background balance, and align with the PASS-2 full-body motion model (
 >>> TRIGGER SENTENCE TO PASTE INTO A FRESH SESSION (verbatim):
 "Resume the Aira prompt rebuild on branch aira-prompts-enhanced (repo aamir9000/Aamirs). Read
 .kiro/steering/aira-prompt-rewrite-standard.md IN FULL — especially this CURRENT STATE & TWO-PASS
-PLAN block, the EXACT FILE MANIFEST, and sections L, M (incl. M.9 per-limb articulation + its Logic
-& Flow law) and N (background as co-star + N.1 Beauty-Ad motion). Continue PASS 1 (L+M retrofit +
-lean-strip) from exactly where the progress markers say it stopped — currently More Full Reel Set 3
-Concept 34 onward — one concept at a time, verifying, committing and pushing each (github power
-push_to_remote, path /projects/sandbox/Aamirs). Only after PASS 1 is complete across ALL concepts in
-ALL transformation/non-transformation files, do PASS 2 (full-body explicit per-limb pose/motion,
-logical + self-aware + flow-read, every concept except GRWM/exceptions). When BOTH passes are done,
-run the FINAL VERIFICATION PASS over every file. Don't re-ask me to explain the standard — it's all
-in that file."
+PLAN block (the SNAPSHOT marks PASS 1 COMPLETE across all feasible files), the EXACT FILE MANIFEST,
+and sections L, M (incl. M.9 per-limb articulation + its Logic & Flow law) and N (background as
+co-star + N.1 Beauty-Ad motion). PASS 1 is DONE: all transformation files are on the L+M model and
+all standard non-transformation files are on section-B (engines in _tools/). THREE deferred items
+need a quick user decision before PASS 2: (1) Time-Freeze Reel Set — needs a time-trick-aware
+breakdown header because the standard 'never slow-motion/never a static hold' contradicts its freeze/
+speed-ramp premise; (2) aira_set5 — prose video format, needs a careful prose->3-beat SHOT BREAKDOWN
+conversion; (3) Magical Action Master Set — confirm whether to normalise its variable per-frame
+durations (3s/4s) to 6s or keep the 26s reel structure. After those are resolved, do PASS 2 (full-body
+explicit per-limb pose/motion, logical + self-aware + flow-read, every concept except GRWM/exceptions),
+then run the FINAL VERIFICATION PASS over every file. Don't re-ask me to explain the standard."
 
->>> SNAPSHOT (update these markers as you go — they are the source of truth for resume):
-- PASS 1 DONE files: Master-Depth Build 01-20 (whole file); Cinematic New Set 01-20 (whole file);
-  More Full Reel Set 3 31-50 (whole file); Set 4 51-70 (whole file, via _tools/set4_lm.py).
-- PASS 1 IN PROGRESS: Set 5 (71-79) main file — Concept 71 (Living-Vine Topiary) DONE+pushed
-  (F2 velvet->living-vine growth + F5 blossom-bloom VFX both on L+M); NEXT concept 72.
-  Set 5 STRUCTURE differs from Set 4: each concept has TWO impossible beats — Frame 2 (true
-  material transform: base->couture, handle like Set 4 = flip F2 image to clean Look A + L+M note
-  + hold-A/morph/resolve-to-B beats) AND Frame 5 (a VFX "magic burst": dot-burst/orchid-bloom/
-  rainbow-bloom/sequin-supernova/enamel splash-crown/kirigami pop-up/mylar/prism — handle like
-  Set-3 VFX: rework note to contained-mid-clip/held-angle, flip F5 image to the KINDLE opening
-  (effect just beginning, look otherwise calm), single self/face locked & uncovered, believable
-  physics, settle-to-halo, match-cut). C71 was a clean A->B gown swap (Frame 1 = real Look A donor);
-  72-79 are "material-assembles-into-the-gown" types (Frame 1 already shows the formed gown, so the
-  F2 START = the material just gathering / gown NOT yet formed — regenerate F2 WARDROBE as pre-form,
-  reuse Frame 1 for the unchanged HAIR/MAKEUP/FOOTWEAR/world fields). set4_lm.py does NOT directly
-  apply (different Wardrobe-line format). C71 done by hand; 72-79 still to do.
-  NOTE: Set 5 main-file Concept 79 (Prism Mirror) is the known CORRUPTED F1-only stub (the complete
-  79 lives in the (cont) file) — handle minimally / skip the missing frames.
-- PASS 1 NOT STARTED: Set 5 (72-79) main file, Set 5 4 continuations (79-84), Concepts 91-110; then the
-  non-transformation folders (Surreal 131-150, Action, Time-Freeze, Travel-Scenic aira_set4/5,
-  Product 100, Action 170) — those get lean-strip + section-K believability + L+M only where a real
-  A->B / mid-clip change exists.
-  NOTE on Set 4-onward method: those files were section-B rebuilt + lean-stripped earlier but NOT yet on
-  the L+M mid-clip model. Per the ">>> NEXT FILE" notes below they already carry rich angle/background
-  variety and NO Master-Depth "locked START/END / suspended build" image residue, so a SURGICAL
-  per-concept method applies (only the transform frame(s) need the Movement-line + F4-image-flip +
-  transform-beat edits, mostly by hand). lm_rebuild BEATSLM is keyed by concept number and COLLIDES with
-  these files' 1-20 / 51-84 numbering, so do NOT blindly reuse it there. For Set 3 the engine was safe
-  (31-50, no collision) and that is how 31-50 were rebuilt.
-- The two Magical Action files are ALREADY-COMPLIANT (do NOT rebuild/template — see section I/J).
-- PASS 2 + FINAL VERIFICATION: not started (run only after ALL of PASS 1).
+
+
+>>> SNAPSHOT (PASS 1 COMPLETE across all feasible files — see exceptions):
+- PASS 1 DONE (transformation files, fully on L+M mid-clip/held-angle/match-cut model):
+  Master-Depth Build 01-20; Cinematic New Set 01-20; More Full Reel Set 3 31-50; Set 4 51-70
+  (set4_lm.py); Set 5 main 71-78 (set5_lm.py; C79 = corrupt F1-only stub, left); Set 5 continuations
+  79-84 (set5cont_lm.py for 79-82, set5chain_lm.py for chained 83/84); Concepts 91-95 FULL Heavy-Detail
+  (set5hd_lm.py — section-B + L+M chained; file only contains 91-95, 96-110 absent in source, C95 truncated stub left).
+- PASS 1 DONE (non-transformation, section-B + section-K; no A->B so no wardrobe-flip):
+  Surreal NEW Reel 131-150 (secB_lm.py, 134 SB==134 VP); Concept 170 Phoenix Crash (secB, advanced K.4
+  PHYSICS/MICRO-EXPRESSION preserved); Product Concept 100 Unboxing (malformed F4/F5 video headers repaired
+  + bullet-format section-B); Travel-Scenic aira_set4 (secB_fb.py Format-B, 117 SB==117 VP).
+- ALREADY-COMPLIANT (left, do NOT rebuild): Magical Action Heavy-Detail; Magical Action Set 2 Expression;
+  Magical Action Master Set (advanced action; PHYSICS & MOTION/micro-timecode/one-move camera; its
+  variable per-frame durations 3s/4s summing to a 26s reel are an OPEN user-decision item — NOT forced to 6s).
+- DOCUMENTED EXCEPTIONS / DEFERRED (intentional, NOT blind misses):
+  * Time-Freeze Reel Set — section-B was applied then REVERTED: the standard SHOT BREAKDOWN header
+    ("continuous energetic motion, never slow-motion, never a static hold") CONTRADICTS this file's
+    entire premise (every concept is a time/speed/freeze trick — C9 RPM = speed-ramp slow-mo; freeze
+    reels suspend elements mid-air; rewind/echo/vertigo). Per section K.5 each must read as its real
+    phenomenon. Needs a tailored time-trick-aware breakdown header (deferred decision).
+  * aira_set5 — uses a PROSE video-direction format (no labeled action beats) unlike aira_set4; the 7
+    "in slow motion" magic-beat violations were fixed to real-time, but a prose->bracketed-3-beat
+    SHOT BREAKDOWN conversion is deferred (needs careful per-frame authoring, flagged not risked).
+  * Beauty Ad — was complete from an earlier session; this session fixed its 2 residual slow-motion refs.
+- ENGINES (in _tools/): set4_lm.py, set5_lm.py, set5cont_lm.py, set5chain_lm.py, set5hd_lm.py,
+  secB_lm.py (generic non-transform section-B; handles inline + bullet SUBJECT ACTION; whole-file
+  fallback for single-concept files), secB_fb.py (Format-B aira_set4). lm_rebuild.py BEATSLM (1-20,
+  31-50) — do NOT reuse for 51-84 numbering.
+- PASS 2 + FINAL VERIFICATION: PASS 2 (full-body per-limb pose/motion, sections M.6-M.9) NOT started —
+  run after the 3 deferred items above are resolved with the user (Time-Freeze header policy, aira_set5
+  prose conversion, Master Set duration policy). Final whole-project verification this session: every
+  converted file has SHOT BREAKDOWN == VIDEO PROMPT, 0 leftover SUBJECT ACTION, 0 standalone CAMERA
+  MOVEMENT, DURATION 6s, 0 genuine slow-mo (remaining slow-mo terms live only in the intentional
+  time-trick Time-Freeze file, the advanced Master Set / Set-2 score-tempo briefs, and NEGATIVE lists).
 - Engines: _tools/lm_rebuild.py (BEATSLM keyed by concept number; currently holds 1-20 + 31-33;
   add BEATSLM[N] then run `python3 _tools/lm_rebuild.py "<exact path>" N`). Verify with
   _tools/verify_lm.py for Master-Depth-format files, or the per-concept grep checks shown in the

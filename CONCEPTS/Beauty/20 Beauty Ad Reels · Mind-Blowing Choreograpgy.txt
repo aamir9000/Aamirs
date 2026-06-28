@@ -972,7 +972,7 @@ Hair: long loose ethereal waves with a soft center part, weightless and floating
 
 Makeup: ethereal prismatic glow: an opalescent wash on the lid with a fine prismatic shimmer, glassy dewy real skin, a cool diamond highlight on the high points, soft-set brows, an opal-nude lip with a wet light-point, real pores and fine vellus texture preserved.
 
-Choreography: aerial silk — slow weightless descents, spiralling silk wraps and unwinds, a graceful slow-motion drop-and-catch, an arabesque suspended in the silk, and floating spins; every movement is buoyant, suspended and continuous, the body flowing through the air with soft joints and long lines, never a held or rigid pose (weightless flow throughout).
+Choreography: aerial silk — slow weightless descents, spiralling silk wraps and unwinds, a graceful weightless drop-and-catch, an arabesque suspended in the silk, and floating spins; every movement is buoyant, suspended and continuous, the body flowing through the air with soft joints and long lines, never a held or rigid pose (weightless flow throughout).
 
 Movement / Transform: aerial silk → silk-to-aurora ribbon bloom (the one impossible move) — the pale-silver silk she is wrapped in dissolves from its lower edge upward into flowing ribbons of aurora-borealis light (teal, violet, rose) that spiral and stream around her, then settle into a soft luminous halo.
 
@@ -5211,7 +5211,7 @@ SPATIAL LOGIC: FOREGROUND — the falling gold thread and the gilding hem neares
 LIGHTING: KEY — the single warm spotlight feathered above-side. FILL — a soft warm bounce below. ACCENT — a new warm-gold glow rising from the gilding satin. RIM — a warm gold rim on the chignon, shoulder and the gilding edge. PRACTICAL — the distant gilded glow plus the molten gild-light. SEPARATION — the background deep so she reads about 2.5 stops up. BOUNCE — a warm gold kick catching the falling thread.
 
 FRAMING: ASPECT 9:16; MEDIUM near-full, three-quarter, Aira centred spiralling open as a ribbon of molten gold begins to gild the satin gown.
-SUBJECT FRAMING & POSITION: The frame widens a touch to a medium for the gild, about 11% headroom, the gilding hem and molten ribbon entering the camera-left negative space. Aira opens into a long sculptural spiral as the gold sweeps, weight rolling smoothly toward the turning axis with a 2-degree hip counter-tilt. The slow spiral reads as an opening three-quarter. Camera at mid distance, centred — caught as the falling bead triggers the gild travelling up her, the body unwinding in regal slow motion. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: The frame widens a touch to a medium for the gild, about 11% headroom, the gilding hem and molten ribbon entering the camera-left negative space. Aira opens into a long sculptural spiral as the gold sweeps, weight rolling smoothly toward the turning axis with a 2-degree hip counter-tilt. The slow spiral reads as an opening three-quarter. Camera at mid distance, centred — caught as the falling bead triggers the gild travelling up her, the body unwinding with regal unhurried real-time grace. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 LENS + DOF + BOKEH: 85mm, f/2.2; focus held on her near eye with the falling bead and gilding edge crisp; the atelier melting to a deep warm field; soft golden blooms off the gild-light; gentle roll-off, no clipping.
 
