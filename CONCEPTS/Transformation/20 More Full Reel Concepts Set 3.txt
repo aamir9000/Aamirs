@@ -2598,7 +2598,7 @@ Hair: AP — a sleek voluminous regal updo / soft chignon with a luminous pearl 
 
 Makeup: AQ — regal couture glow: a soft champagne-pearl lid, luminous skin, a soft rose-petal lip, a pearl highlight on the high points, soft mauve-rose blush on the apples, soft-set brows, real pores
 
-Movement: macro mist-spray → feather-plume burst transform (the one impossible move) — a soft cloud of white feather-plumes bursts and drifts in slow regal arcs around her
+Movement: feather-plume burst transform (the one impossible move) — a soft cloud of white feather-plumes bursts and drifts in graceful regal arcs around her, CONTAINED mid-clip inside Frame 4 at a HELD angle (begins mid-clip, bursts smoothly, never an instant snap; believable real feather-drift physics riding true air at natural pace, no cheap sparkles). Veo first/last-frame continuity (Frame 4 image = regal pearl-glow Look A = first frame, Frame 5 image = feather-crowned Look B = last frame); every frame join is a hard match-cut to a new angle. (Beauty-still — contained product-at-face pose held per M.6.)
 
 Concept Line: "born to wear the crown"
 
@@ -2664,9 +2664,9 @@ SHOT TYPE: medium close, chest-up, subject fills about 55% of the vertical frame
 LENS: 50mm, f/2.0, smooth creamy background fall-off.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Medium close chest-up in the regal couture salon: a slow push-in is already gliding toward her as she tilts the opaline bottle a few degrees into the gilded key, speculars sliding along the glass and the pearlescent mist settling; gaze lowered to the bottle, a feather-plume drifting past.
-- [00:02–00:04] The push continues as she lifts her serene gaze to lens on a soft inhale and a regal quarter-smile blooms, gilded soft light on her skin.
-- [00:04–00:06] She holds, poised and regal, eyes catching the champagne light, a feather drifting across the warm-neutral bokeh.
+- [00:00–00:02] Cut to a medium-close chest-up in the regal couture salon: she is already cradling the pearl-white opaline bottle of Plume at her collarbone as a slow push eases in, the soft ivory-and-champagne backdrop and drifting white feather-plumes behind her in gilded light; her left hand resting easy near her jaw.
+- [00:02–00:04] The push settles as a face-framing tendril drifts in the salon air and her serene gaze eases to lens, a feather-plume drifting past, a poised regal quarter-smile settling.
+- [00:04–00:06] She holds the regal pearl-glow look, the ivory-and-champagne couture gown drinking the gilded key, eyes serene and direct, the bottle glinting (the line lands later).
 
 AUDIO: diegetic only, no in-clip music. Ambient bed — a soft regal salon room tone and a faint warm hush throughout. SFX — a soft glass-tap as her fingers settle on the bottle at 0.8s (gentle attack, soft tail), a faint gown-rustle at 3.2s, a soft airy feather-drift accent at 4.8s timed to the gaze-lift. Reaction — a soft regal breath at 3.0s. The master track sits low — a soft string pad just kindling under the room tone (present, never full). VO — none this frame.
 
@@ -2705,7 +2705,7 @@ SUBJECT FRAMING & POSITION: A medium close framing holds Aira from the chest up 
 
 LENS + DOF + BOKEH: 50mm, f/2.0; focus split between her near eye and the blooming mist so both read crisp; the backdrop melting to a smooth creamy ivory field; soft warm blooms off the mist and gathering feathers; gentle roll-off, no clipping.
 
-COMPOSITION REFERENCE: the regal build beat — a soft mist-spritz and first gathering feathers, the burst clearly imminent (BA.3 cause building to effect).
+COMPOSITION REFERENCE: a macro mist-spritz build beat — regal and poised, the feather-plume burst held for the Frame-4 clip.
 
 ATMOSPHERE: regal, charged, opulent — the gilded instant before the feather-plumes burst and drift around her.
 
@@ -2724,9 +2724,9 @@ SHOT TYPE: medium close, chest-up, subject and raised atomizer fill about 58% of
 LENS: 50mm, f/2.0.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Medium close: the slow push continues with a faint tilt-up already following her hand as she lifts the atomizer near her collarbone and releases a single soft pearlescent mist-spritz that blooms and drifts; gaze tracing the mist.
-- [00:02–00:04] The first white feather-plumes gather in the air around her, her eyes warming with anticipation.
-- [00:04–00:06] The mist settles to a pearl sheen, a feather drifting, lashes lowering in poise.
+- [00:00–00:02] Cut to a medium-close three-quarter, a rack-focus pulling from the bottle to her eye: she is already lifting the Plume atomizer near her cheekbone and pressing a fine pearlescent mist that catches the gilded light; gaze cast soft to the mist.
+- [00:02–00:04] The pearl mist drifts soft at her cheekbone as her gaze warms with poise and a knowing regal micro-smile kindles, the first white feather-plumes drifting in.
+- [00:04–00:06] She holds the atomizer poised near her cheek, eyes serene and regal, the pearl-glow look intact (silent here).
 
 AUDIO: diegetic only. Ambient — soft regal salon room tone and a faint warm hush throughout. SFX — a soft atomizer-spritz at 0.9s, a fine misty drift sound at 2.1s, a faint airy feather-gather at 5.4s (gentle attack, soft tail). Reaction — a soft regal breath at 3.2s. The master track lifts a touch — a soft string pad and harp rising under the SFX (present, never full). VO — none this frame.
 
@@ -2740,7 +2740,7 @@ NEGATIVE: identity drift, face or hand warp, extra or fused fingers, duplicate p
 
 ## Frame 3 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the locked START keyframe of the feather-plume burst transform — face fully recognizable, still the regal couture look, soft white feather-plumes now gathering and drifting in the air around her, the first soft cloud beginning to form at her shoulder. Lock this START so Frame 4's burst interpolates cleanly to the full feather-framed END (Frame 5).
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. SHOT NOTE: a clean regal pearl-glow (Look A) beat at its OWN cut/angle — the regal couture look fully intact, soft white feather-plumes gathering and drifting in the air around her and the first soft cloud beginning to form at her shoulder; the full feather-burst does NOT happen here (it happens mid-clip inside Frame 4). Build poised regal anticipation only.
 
 WARDROBE: the ivory-and-champagne couture gown, continuity-locked, the luxe fabric beginning to catch gathering feather-light, the feather-trim cuff easing, fully modest and pristine, zero snags.
 
@@ -2765,7 +2765,7 @@ SUBJECT FRAMING & POSITION: A medium framing holds Aira from the chest up with a
 
 LENS + DOF + BOKEH: 50mm, f/2.0; focus split between her near eye and the nearest feather so both read crisp; the backdrop melting to a smooth creamy ivory field; soft warm blooms off the feathers; gentle roll-off, no clipping.
 
-COMPOSITION REFERENCE: the regal suspended build beat — feathers gather and the cloud forms, the burst clearly imminent (BA.3 cause building to effect).
+COMPOSITION REFERENCE: a poised regal beat, feathers gathering and the soft cloud forming — regal and serene, the feather-plume burst held for the Frame-4 clip.
 
 ATMOSPHERE: regal, charged, opulent — the gilded instant before the feather-plumes burst and drift around her.
 
@@ -2784,9 +2784,9 @@ SHOT TYPE: medium, chest-up, subject and gathering feathers fill about 60% of th
 LENS: 50mm, f/2.0, smooth creamy background fall-off.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Medium chest-up: a slow arc is already drifting around her as she lowers the atomizer a touch and the white feather-plumes gather and drift; gaze following the drifting plumes.
-- [00:02–00:04] The arc eases round as the first soft feather-cloud forms at her shoulder, her eyes warming with poise.
-- [00:04–00:06] The gathering tightens and brightens, cueing the burst, her gaze lifting a degree.
+- [00:00–00:02] Cut to a medium chest-up on a fresh three-quarter angle: she eases the atomizer down from her cheek and opens her left hand soft into the gathering feather-plumes, drawing a slow regal breath as the camera arcs a few degrees and the salon swings behind with parallax; gaze lifting.
+- [00:02–00:04] The arc settles as her gaze lifts to lens with rising poise and a knowing micro-smile forms, white feather-plumes gathering and drifting and suspending in the gilded air, still the regal pearl-glow look.
+- [00:04–00:06] She holds the poised regal beat, the plumes suspended and drifting, eyes serene and bright — the hush before the feather-burst (silent here).
 
 AUDIO: diegetic only, no VO this frame. Ambient — soft regal salon room tone and a faint warm hush throughout. SFX — the soft settle of the lowering atomizer at 1.0s, a soft airy feather-gather sound at 2.4s, a warm string-swell-cued feather rustle at 4.4s as the cloud gathers (gentle attack, soft tail). Reaction — a soft regal breath at 2.6s. The master track sits low — a soft string pad and harp under the SFX (present, never full).
 
@@ -2800,38 +2800,38 @@ NEGATIVE: identity drift, face or hand warp, extra or fused fingers, duplicate p
 
 ## Frame 4 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the one impossible move — the feather-plume burst. LOCK the START (Frame 3, face clear, regal couture, feathers gathering) and the END (Frame 5 open, full feather-framed radiant after-look). Mid-burst the face stays clear and recognizable, softly framed (never buried or hidden) by the drifting feather-plumes; interpolate strictly between the locked keyframes — do NOT invent a new face, new hands or new bone structure beneath the feather-plume. Regal and soft, true feather-drift physics, opulent not chaotic.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the START frame of the transform CLIP — render her fully in the regal pearl-glow Look A (the exact still the Frame-4 video opens on, and Veo's FIRST frame): the ivory-and-champagne couture gown in the regal salon, both arms beginning to open soft as white feather-plumes gather and drift around her and the first soft cloud forms at her shoulder (the full burst NOT yet bloomed). The feather-plume burst happens MID-CLIP at this same HELD angle (the camera may push or travel with her but never rotates its angle; the plumes burst and drift in graceful regal arcs by believable real feather-drift physics — soft plumes riding true air currents at their own natural pace, no cheap sparkles), resolving into Frame 5's feather-crowned after-look image (Veo's LAST frame). Her face, hair and proportions stay constant. Do NOT depict the full burst in this still and do NOT invent a new face, new hands or new bone structure.
 
-WARDROBE (refined): the ivory-and-champagne couture gown catching the burst at its richest as the feather-cloud blooms — fabric flaring with travelling pearl glints, the feather-trim cuff lifting, fully modest, never revealing.
+WARDROBE: the ivory-and-champagne couture gown with elegant structured shoulders, long sleeves and a modest high neckline, the luxe fabric catching one soft pearl highlight, the soft feather-trim cuff intact, fully modest, fully intact (the full burst not yet bloomed).
 
-HAIR: the voluminous updo catching a sweeping arc of feathers mid-motion, the chignon holding, tendrils lit pearl; color locked beneath the sheen.
+HAIR: the sleek voluminous regal updo / soft chignon with a luminous pearl sheen, soft face-framing tendrils easing in the salon air; color locked to reference.
 
-MAKEUP: mid-burst — the regal couture glow flushing to its luminous peak, the soft champagne-pearl lid kindling brighter, the rose-petal lip enriching, the pearl highlight glowing on the high points; real pores beneath.
+MAKEUP: the regal couture-glow Look-A base — a soft champagne-pearl lid, luminous skin, a soft rose-petal lip, a pearl highlight on the high points, soft mauve-rose blush on the apples; skin luminous and real with visible pores and fine vellus texture.
 
-HANDS & NAILS: both arms drifting open through the feather-cloud, palms turning up as the plumes burst and drift in slow regal arcs around her; natural nail-bed color, neat cuticles, no white-knuckle tension.
+HANDS & NAILS: both arms beginning to open soft from her body, palms easing up toward the gathering feather-plumes, the right near the cradled opaline bottle; natural nail-bed color, neat cuticles, no white-knuckle tension.
 
-FACIAL MICRO-DYNAMICS: eyes luminous with regal awe, a gentle parted-lip poise, a clean opulent lift — face clear and feather-framed by the bursting plumes, identity strictly held to reference.
+FACIAL MICRO-DYNAMICS: eyes luminous with poised regal anticipation, a gentle parted-lip composure, a clean opulent calm — composed and fully recognizable, identity-locked, ready for the feather-plume burst mid-clip.
 
-BODY POSTURE & WEIGHT: mid-burst the spine lengthens and the shoulders open regal, weight rolling smooth between the feet — grounded real physics, modest throughout.
+BODY POSTURE & WEIGHT: front-facing with the torso rotated about 4°, the spine long and the shoulders open regal, weight settled with a soft hip counter-tilt — grounded real physics, the regal centre before the burst, modest throughout.
 
-KINETIC STILLNESS (8 layers): (1) soft white feather-plumes bursting and drifting in slow regal arcs around her at peak; (2) a soft feather-cloud blooming bright across her shoulder; (3) the updo and gown catching travelling pearl light mid-burst; (4) feather-down and motes sparkling through the field; (5) the gown flaring with a pearl highlight; (6) pearl speculars multiplying across the drifting plumes; (7) the ivory backdrop blooming a touch brighter through the burst; (8) her chest mid a soft awed breath.
+KINETIC STILLNESS (8 layers): (1) soft white feather-plumes gathering and drifting around her; (2) a soft feather-cloud beginning to form at her shoulder; (3) a face-framing tendril drifting at the temple; (4) the soft ivory backdrop glow drifting behind her; (5) the gown breathing soft in the salon air; (6) a pearl glint sliding on the faceted opaline bottle; (7) the pearl highlight shifting a millimetre along the gown as her ribcage expands; (8) a slow eyelash settle completing a regal blink.
 
-SPATIAL LOGIC: FOREGROUND — a drifting feather-plume nearest lens, soft. MIDGROUND — Aira mid-burst, the feather-cloud blooming, the hero. BACKGROUND — the ivory backdrop with soft creamy falloff and pearl bloom.
+SPATIAL LOGIC: FOREGROUND — a gathering feather-plume and the cradled bottle nearest lens, soft. MIDGROUND — Aira in the regal pearl-glow look, the hero. BACKGROUND — the ivory-and-champagne backdrop with slow drifting feather-plumes, gilded and present behind.
 
-LIGHTING: KEY — soft gilded key now brighter through the burst. FILL — soft warm bounce below (clamshell). RIM — a bright soft gold rim raking the drifting plumes and the updo (hero light on the motion). PRACTICAL — the gilded glow at full bloom. SEPARATION — the burst and faint pearl haze. BOUNCE — soft gold kicks multiplying across the drifting plumes.
+LIGHTING: KEY — a soft gilded key feathered above-front. FILL — soft warm bounce below (clamshell). RIM — a soft gold rim skimming the updo and shoulder to separate her from the backdrop. PRACTICAL — the soft gilded glow of the salon and the bottle. SEPARATION — the ivory backdrop kept a touch down so she reads about 2 stops up. BOUNCE — a soft gold kick off the opaline bottle.
 
-FRAMING: ASPECT 9:16; energized medium-wide, Aira centered with the feather-burst filling the lower frame, 10% headroom, slight push for intimacy.
-SUBJECT FRAMING & POSITION: A energized medium-wide framing opens around Aira with about 10% headroom as the feather-burst fills the lower frame, a slight push easing in for intimacy. Her spine lengthens and her shoulders open as the weight rolls smooth between the feet in grounded real-physics motion. The camera eases wider against the ivory-and-champagne backdrop with drifting feather-plumes, Aira the centred hero at the heart of the bloom. She is centred with the feather-burst radiating around her. She faces front to the lens, lifted at the peak of the transform. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+FRAMING: ASPECT 9:16; energized medium-wide, Aira centered in the regal salon, 10% headroom — its own distinct cut/angle.
+SUBJECT FRAMING & POSITION: An energized medium-wide framing opens around Aira at about 10% headroom in the regal couture salon, the regal pearl-glow Look A fully intact as the transform clip begins. Her torso is turned about four degrees with the weight settled over a soft hip counter-tilt, arms beginning to open soft. The camera holds a mid distance on its own fresh angle, a hard cut from Frame 3, with Aira the centred hero and the ivory-and-champagne backdrop with drifting feather-plumes gilded and present behind, facing front to the lens. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
-LENS + DOF + BOKEH: 50mm, f/2.0; her face and the nearest plumes tack sharp at the burst-core, the closest feather melting into a soft creamy bokeh with pearl specular blooms.
+LENS + DOF + BOKEH: 50mm, f/2.0; her face and the cradled bottle tack sharp, the nearest gathering plumes melting into a soft creamy bokeh with pearl specular blooms; gentle highlight roll-off, no clipping.
 
-COMPOSITION REFERENCE: the signature impossible beat — a feather-plume burst, regal and soft, heightened but identity-locked (AT.5 transform logic / identity-through-transform).
+COMPOSITION REFERENCE: the start of the signature beat — regal pearl-glow Look A, regal and soft, the feather-plume burst held for the video's mid-clip.
 
-ATMOSPHERE: regal, exhilarating, mind-bending — the moment the feather-plumes burst and drift in slow opulent arcs around her.
+ATMOSPHERE: regal, charged, serene — the opulent instant the transform clip begins.
 
 COLOR GRADE: regal ivory-champagne — soft ivories and warm champagnes, gilded highlights, rich uncrushed blacks, full mid-tone, a pearl glow (no garish oversaturation, regal ivory-champagne lane).
 
-TEXTURE & MICRO-DETAIL: the drifting feather-plumes read as real soft barbs with fine filaments and soft motion blur, the burst reads as real feather-down on living air, the gown shows a real luxe weave catching pearl glints, skin reads real with pores beneath the glow.
+TEXTURE & MICRO-DETAIL: the gown shows a real luxe weave catching pearl glints, the gathering feather-plumes read as real soft barbs with fine filaments, the faceted opaline bottle reads as real glass, real skin micro-texture with soft peach-fuzz catching the gilded rim.
 
 NEGATIVE: mirrored, flipped, inverted, extra limbs, fused fingers, melted features, asymmetric eyes (unintentional), garbled text, floating shadows, duplicated subjects, low-res patches, plastic skin, over-smoothed skin, oversharpened, AI-generated artifacts, watermarks, signature, deformed hands, malformed teeth, joint cuts at ankle/knee/wrist/elbow/neck, amputated fingertips, cross-eyed, lazy eye, off-axis pupils, melted clothing, mismatched footwear, mannequin-stiff posture, dead eyes, statue-frozen energy, garbled label text, crushed muddy blacks, garish oversaturation, flat dull light, inventing a new face beneath the feather-plume.
 
@@ -2844,9 +2844,9 @@ SHOT TYPE: energized medium-wide of the feather-plume burst (the hero move).
 LENS: 50mm, f/2.0.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Energized medium-wide: the push is already easing into a smooth gentle orbit as the white feather-plumes burst and drift in slow regal arcs and she opens her arms; gaze lifting into the cloud.
-- [00:02–00:04] The orbit rides the hero beat as the feather-cloud blooms bright across her and the gown and updo catch travelling pearl (face clear, feather-framed); eyes warming in regal awe.
-- [00:04–00:06] The burst settles and the plumes resolve as the orbit eases; a radiant feather-framed look landing, eyes serene.
+- [00:00–00:02] Cut to an energized medium at a HELD angle (Veo first frame = the regal pearl-glow Look A still): she drifts both arms open from her body, already in motion — still the regal pearl-glow look, NO full burst yet, a gentle push-with easing in, the angle fixed for the whole clip.
+- [00:02–00:04] The feather-burst BEGINS here, mid-clip: a soft cloud of white feather-plumes bursts and drifts in graceful regal arcs around her in one continuous wavefront, real plumes fanning out across the gilded air and settling along her shoulder and the gown exactly where it passes — believable real feather-drift physics, soft plumes riding true air currents at their own natural pace (no cheap sparkles), her face clear and warmly lit, eyes warming in regal wonder (angle held, identity locked).
+- [00:04–00:06] The burst completes and the look settles smoothly and fully into the feather-crowned radiant after-look of the Veo last-frame still (Frame 5's image) — a soft crown of white feather-plumes drifted around her in the gilded salon light, resolved and held through the final beat, no last-second pop; a serene regal calm landing in her eyes.
 
 AUDIO: diegetic-led. Ambient — soft regal salon room tone and a faint warm hush. SFX — a soft feather-burst whoosh 0.4–2.7s, fine drifting-down rustle 2.4–4.5s (gentle attack, soft tails), a soft gown-flare at 3.3s. Reaction — a soft awed breath at 2.7s. The master track lifts to its regal orchestral peak here — a string-and-harp swell landed on the burst (present, still under the SFX, never full). VO — none (the line lands next frame).
 
@@ -2862,7 +2862,7 @@ NEGATIVE: identity drift, face or hand warp, extra or fused fingers, duplicate p
 
 IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
 
-TRANSFORM KEYFRAME NOTE: this is the locked END keyframe of the feather-plume burst transform; it must resolve continuously out of the START keyframe in Frame 3 — same face, same hands, same camera distance, the bursting plumes now settled into a full radiant feather-frame around her. Do NOT invent a new face, new hands or new bone structure beneath the feather-plume; this is the same Aira, regal and radiant, never replaced. Frame 3 (START) and Frame 5 (END) are the two anchors of the single transform.
+TRANSFORM KEYFRAME NOTE: this is the feather-crowned Look B reveal at its OWN cut/angle (a hard cut from the Frame-4 feather-plume burst clip — a new angle/crop, and the Veo last-frame the burst resolves into). It carries the resolved feather-crowned radiant after-look the Frame-4 clip ends on; the angle change masks any slight variation. Same Aira, regal and radiant, never replaced — do NOT invent a new face, new hands or new bone structure.
 
 WARDROBE: the ivory-and-champagne couture gown at its richest, the luxe fabric catching one travelling pearl highlight, the feather-trim cuff settled, the modest high neckline pristine, fully modest, zero snags.
 
@@ -2906,9 +2906,9 @@ SHOT TYPE: medium close, chest-up, subject fills about 56% of the vertical frame
 LENS: 50mm, f/2.0, smooth creamy background fall-off.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Medium close: a slow push is already gliding in as she eases her hands open and the burst settles, the last feathers drifting; gaze poised to lens.
-- [00:02–00:04] She delivers “born to wear the crown.” to lens with a poised regal smile, eyes warm and direct.
-- [00:04–00:06] She holds the radiant feather-framed look as one final plume settles, the smile easing into regal calm.
+- [00:00–00:02] Cut to a medium close on a new angle in the gilded salon light: she is already in the feather-crowned radiant after-look, easing both hands open and drifting her right back toward the opaline bottle at her collarbone as a slow orbit eases around her; gaze warm to lens.
+- [00:02–00:04] She delivers “born to wear the crown.” to lens with a poised regal smile and natural lip-sync, a settling feather-plume catching the gilded key, eyes serene and radiant.
+- [00:04–00:06] She holds the feather-crowned regal look, the bottle cradled soft, eyes serene and direct.
 
 AUDIO: diegetic plus the spoken line. SPOKEN LINE (lip-sync) — Aira says "born to wear the crown." from 1.5–3.9s in English with a natural Indian accent, poised regal tone, mouth shapes matched exactly. Ambient — soft regal salon room tone and a faint warm hush throughout. SFX — a soft settling-feather rustle at 0.9s, a faint gown shift at 1.4s (kept clear of the VO). The master track ducks gently under the line and holds its warmth low.
 
@@ -2947,7 +2947,7 @@ SUBJECT FRAMING & POSITION: A medium close framing holds Aira from the chest up 
 
 LENS + DOF + BOKEH: 50mm, f/2.0; focus on her near eye with the bottle reading crisp; the backdrop melting to a smooth creamy ivory field; soft warm blooms off the settling feathers; gentle roll-off, no clipping.
 
-COMPOSITION REFERENCE: the held regal beat — a poised post-line breath, luminous and opulent (BD.1 reveal-first held a moment longer).
+COMPOSITION REFERENCE: the held regal beat — a poised post-line breath, luminous and opulent.
 
 ATMOSPHERE: regal, poised, serene — the gilded hush holding a beat after the line.
 
@@ -2966,9 +2966,9 @@ SHOT TYPE: medium close, chest-up, subject fills about 56% of the vertical frame
 LENS: 50mm, f/2.0, smooth creamy background fall-off.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Medium close: a slow push is already gliding in as she holds the radiant feather-framed look on a slow content breath, the poised smile easing softer; gaze serene to lens.
-- [00:02–00:04] The push holds as the last plumes settle around her, eyes serene and composed, a regal beat with no words.
-- [00:04–00:06] She holds the lens with serene regal composure, plumes drifting soft, eyes luminous.
+- [00:00–00:02] Cut to a medium-close chest-up on a fresh angle: she settles both hands gently, the right cradling the opaline bottle soft near her collarbone, the left easy near her jaw, as a gentle push eases in; gaze serene to lens.
+- [00:02–00:04] A poised regal smile holds to lens on a slow soft breath, the feather-plumes drifting even around her, gilded light on her skin.
+- [00:04–00:06] She holds the regal couture beat, the salon soft and the plumes settled, eyes serene and direct — a held moment before the loop (silent here).
 
 AUDIO: diegetic only, no VO this frame. Ambient — soft regal salon room tone and a faint warm hush throughout. SFX — a faint settling-feather rustle at 1.6s, a soft gown shift at 3.6s (gentle attack, soft tails). Reaction — a soft content breath at 1.2s. The master track holds its warm regal swell low, sustaining after the line (present, never full).
 
@@ -3028,9 +3028,9 @@ SHOT TYPE: medium close, chest-up, subject fills about 55% of the vertical frame
 LENS: 50mm, f/2.0, smooth creamy background fall-off.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Medium close matching Frame 1: a slow push is already resolving toward the exact opening framing as she re-cradles the opaline bottle and tilts it into the gilded key, speculars sliding along the glass; gaze lowering to the bottle.
-- [00:02–00:04] The push settles as she eases her serene gaze back to lens on a soft breath with the composed quarter-smile, the salon resolving to the opening; eyes calming.
-- [00:04–00:06] She lands precisely on the Frame 1 pose and gaze, a feather-plume drifting — a seamless loop seam.
+- [00:00–00:02] Cut to a medium-close chest-up matched to Frame 1: she returns her right hand to cradle the pearl-white opaline bottle at collarbone height and her left easy near her jaw exactly as in Frame 1 as a soft pull-out settles to the opening framing.
+- [00:02–00:04] She eases her serene gaze back to lens on a slow breath with the composed regal quarter-smile, the feather-crowned look resolving back toward the opening pearl-glow look to seed the loop.
+- [00:04–00:06] She lands precisely on the Frame 1 pose and gaze, regal in the gilded salon — a seamless loop seam.
 
 AUDIO: diegetic only, no VO. Ambient — soft regal salon room tone and a faint warm hush throughout. SFX — a soft glass-tap at 0.8s as her fingers settle on the bottle (gentle attack, soft tail), a faint gown-rustle at 3.2s, a soft airy feather-drift at 4.8s timed to the gaze-lift. The master track resolves softly here so it can loop clean.
 

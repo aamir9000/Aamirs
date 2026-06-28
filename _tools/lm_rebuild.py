@@ -2214,6 +2214,93 @@ BEATSLM[36] = [
 ]
 
 
+BEATSLM[37] = [
+    # F1 - regal pearl-glow couture hero (contained, product-at-face), push-in
+    (
+        "Cut to a medium-close chest-up in the regal couture salon: she is already cradling the "
+        "pearl-white opaline bottle of Plume at her collarbone as a slow push eases in, the soft "
+        "ivory-and-champagne backdrop and drifting white feather-plumes behind her in gilded "
+        "light; her left hand resting easy near her jaw.",
+        "The push settles as a face-framing tendril drifts in the salon air and her serene gaze "
+        "eases to lens, a feather-plume drifting past, a poised regal quarter-smile settling.",
+        "She holds the regal pearl-glow look, the ivory-and-champagne couture gown drinking the "
+        "gilded key, eyes serene and direct, the bottle glinting (the line lands later).",
+    ),
+    # F2 - build, atomizer mist, first feather-plumes; rack-focus product->eye
+    (
+        "Cut to a medium-close three-quarter, a rack-focus pulling from the bottle to her eye: "
+        "she is already lifting the Plume atomizer near her cheekbone and pressing a fine "
+        "pearlescent mist that catches the gilded light; gaze cast soft to the mist.",
+        "The pearl mist drifts soft at her cheekbone as her gaze warms with poise and a knowing "
+        "regal micro-smile kindles, the first white feather-plumes drifting in.",
+        "She holds the atomizer poised near her cheek, eyes serene and regal, the pearl-glow "
+        "look intact (silent here).",
+    ),
+    # F3 - START clean (plumes gathering, NO full burst yet), slow arc
+    (
+        "Cut to a medium chest-up on a fresh three-quarter angle: she eases the atomizer down "
+        "from her cheek and opens her left hand soft into the gathering feather-plumes, drawing "
+        "a slow regal breath as the camera arcs a few degrees and the salon swings behind with "
+        "parallax; gaze lifting.",
+        "The arc settles as her gaze lifts to lens with rising poise and a knowing micro-smile "
+        "forms, white feather-plumes gathering and drifting and suspending in the gilded air, "
+        "still the regal pearl-glow look.",
+        "She holds the poised regal beat, the plumes suspended and drifting, eyes serene and "
+        "bright \u2014 the hush before the feather-burst (silent here).",
+    ),
+    # F4 - THE TRANSFORM, HELD ANGLE, smooth mid-clip feather-burst; first=pearl-glow, last=feather-crowned
+    (
+        "Cut to an energized medium at a HELD angle (Veo first frame = the regal pearl-glow Look "
+        "A still): she drifts both arms open from her body, already in motion \u2014 still the "
+        "regal pearl-glow look, NO full burst yet, a gentle push-with easing in, the angle fixed "
+        "for the whole clip.",
+        "The feather-burst BEGINS here, mid-clip: a soft cloud of white feather-plumes bursts "
+        "and drifts in graceful regal arcs around her in one continuous wavefront, real plumes "
+        "fanning out across the gilded air and settling along her shoulder and the gown exactly "
+        "where it passes \u2014 believable real feather-drift physics, soft plumes riding true "
+        "air currents at their own natural pace (no cheap sparkles), her face clear and warmly "
+        "lit, eyes warming in regal wonder (angle held, identity locked).",
+        "The burst completes and the look settles smoothly and fully into the feather-crowned "
+        "radiant after-look of the Veo last-frame still (Frame 5's image) \u2014 a soft crown of "
+        "white feather-plumes drifted around her in the gilded salon light, resolved and held "
+        "through the final beat, no last-second pop; a serene regal calm landing in her eyes.",
+    ),
+    # F5 - END feather-crowned reveal, hand to bottle, spoken line; slow orbit
+    (
+        "Cut to a medium close on a new angle in the gilded salon light: she is already in the "
+        "feather-crowned radiant after-look, easing both hands open and drifting her right back "
+        "toward the opaline bottle at her collarbone as a slow orbit eases around her; gaze warm "
+        "to lens.",
+        "She delivers \u201cborn to wear the crown.\u201d to lens with a poised regal smile and "
+        "natural lip-sync, a settling feather-plume catching the gilded key, eyes serene and "
+        "radiant.",
+        "She holds the feather-crowned regal look, the bottle cradled soft, eyes serene and "
+        "direct.",
+    ),
+    # F6 - held regal, cradling bottle; gentle push
+    (
+        "Cut to a medium-close chest-up on a fresh angle: she settles both hands gently, the "
+        "right cradling the opaline bottle soft near her collarbone, the left easy near her jaw, "
+        "as a gentle push eases in; gaze serene to lens.",
+        "A poised regal smile holds to lens on a slow soft breath, the feather-plumes drifting "
+        "even around her, gilded light on her skin.",
+        "She holds the regal couture beat, the salon soft and the plumes settled, eyes serene "
+        "and direct \u2014 a held moment before the loop (silent here).",
+    ),
+    # F7 - loop close, cradle bottle matched to F1; pull-out
+    (
+        "Cut to a medium-close chest-up matched to Frame 1: she returns her right hand to cradle "
+        "the pearl-white opaline bottle at collarbone height and her left easy near her jaw "
+        "exactly as in Frame 1 as a soft pull-out settles to the opening framing.",
+        "She eases her serene gaze back to lens on a slow breath with the composed regal "
+        "quarter-smile, the feather-crowned look resolving back toward the opening pearl-glow "
+        "look to seed the loop.",
+        "She lands precisely on the Frame 1 pose and gaze, regal in the gilded salon \u2014 a "
+        "seamless loop seam.",
+    ),
+]
+
+
 def build_block(beats):
     return (
         BREAKDOWN_HEADER + "\n"
