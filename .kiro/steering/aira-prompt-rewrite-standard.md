@@ -869,7 +869,7 @@ in that file."
 
 >>> SNAPSHOT (update these markers as you go — they are the source of truth for resume):
 - PASS 1 DONE files: Master-Depth Build 01-20 (whole file); Cinematic New Set 01-20 (whole file).
-- PASS 1 IN PROGRESS: More Full Reel Set 3 — concepts 31-39 DONE+pushed; NEXT = concept 40
+- PASS 1 IN PROGRESS: More Full Reel Set 3 — concepts 31-42 DONE+pushed; NEXT = concept 43
   (continue to 50). Method + per-concept handling notes are in the ">>> CINEMATIC NEW SET" /
   ">>> NEXT FILE: ...Set 3" notes below and in section J.
 - PASS 1 NOT STARTED: Set 4 (51-70), Set 5 (71-79) + 4 continuations, Concepts 91-110; then the

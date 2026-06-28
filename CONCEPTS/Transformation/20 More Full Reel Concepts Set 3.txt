@@ -5142,7 +5142,7 @@ Hair: AP — a voluminous dramatic wind-swept blowout with a high-lift crown and
 
 Makeup: AQ — electric storm: a cool steel-silver smoked eye, luminous cool skin, a sharp contour, a bold cool steel-rose lip, an electric-white highlight on the high points, soft-set brows, real pores
 
-Movement: macro charged-primer apply → lightning arc crackle transform (the one impossible move) — electric-white lightning arcs crackle and strike in powerful slow arcs around her while her single face stays clear and locked (never struck-over or replaced)
+Movement: lightning arc crackle transform (the one impossible move) — electric-white lightning arcs crackle and strike in powerful branching arcs around her while her single face stays clear and locked (never struck-over or replaced), CONTAINED mid-clip inside Frame 4 at a HELD angle (begins mid-clip, crackles smoothly, never an instant snap; believable real lightning physics — true plasma-arc branching, crackle and afterglow at real speed, no cheap sparkles). Veo first/last-frame continuity (Frame 4 image = electric-storm Look A with no full crackle = first frame, Frame 5 image = full storm-charged Look B = last frame); every frame join is a hard match-cut to a new angle. (Beauty-still — contained product-at-face pose held per M.6.)
 
 Concept Line: "I am the storm"
 
@@ -5208,9 +5208,9 @@ SHOT TYPE: medium close, chest-up, subject fills about 55% of the vertical frame
 LENS: 50mm, f/2.0, smooth charcoal-blue background fall-off.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Medium close chest-up in the dramatic storm studio: a slow push-in is already gliding toward her as she tilts the Volt bottle a few degrees into the key, electric-white speculars sliding along the cap and the charged liquid settling; gaze lowered to the bottle, a distant lightning flickering behind her.
-- [00:02–00:04] The push continues as she lifts her intense gaze to lens on a soft inhale and a powerful quarter-smile sets, cool steel-blue storm-light on her.
-- [00:04–00:06] She holds, charged and powerful, her single face clear and locked, eyes intense, distant lightning flickering behind.
+- [00:00–00:02] Cut to a medium-close chest-up in the dramatic storm studio: she is already cradling the storm-gray Volt bottle at her collarbone as a slow push eases in, the dark charcoal-blue backdrop and a far electric-white lightning flicker behind her, charged atmosphere; her left hand easy near her jaw.
+- [00:02–00:04] The push settles as a wind-swept lock lifts in the charged air and her intense gaze eases to lens, a distant arc flickering, a powerful composed quarter-smile settling.
+- [00:04–00:06] She holds the electric-storm look in the structured storm-gray power top, the metallic threading catching one steel glint, eyes intense and direct (the line lands later).
 
 AUDIO: diegetic only, no in-clip music. Ambient bed — a low storm-room rumble and a faint charged hum throughout. SFX — a soft cap-tap as her fingers settle on the bottle at 0.7s (gentle attack, short tail), a faint fabric shift at 2.7s, a soft distant thunder-roll at 4.5s timed to the gaze-lift. Reaction — a soft steady breath at 3.3s. The master track sits low — a deep storm-drum pulse and electric synth just kindling under the room tone (present, never full). VO — none this frame.
 
@@ -5249,7 +5249,7 @@ SUBJECT FRAMING & POSITION: A medium close framing holds Aira from the chest up 
 
 LENS + DOF + BOKEH: 50mm, f/2.0; focus split between her near eye and the charged cheekbone so both read crisp; the background melting to deep creamy charcoal-blue with storm bokeh; soft electric blooms off the first spark; gentle roll-off, no clipping.
 
-COMPOSITION REFERENCE: the charged build beat — a charged-glow primer apply and first electric spark, the arcs clearly imminent (BA.3 cause building to effect).
+COMPOSITION REFERENCE: a macro charged-primer apply build beat — powerful and poised, the lightning arc crackle held for the Frame-4 clip.
 
 ATMOSPHERE: powerful, charged, dramatic — the electric instant before the lightning arcs crackle around her.
 
@@ -5268,9 +5268,9 @@ SHOT TYPE: medium close, chest-up, subject and raised applicator fill about 58% 
 LENS: 50mm, f/2.0.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Medium close: the slow push continues with a faint tilt-up already following her hand as she raises the charged Volt applicator near her cheekbone and presses a charged-glow primer along the high point, an electric glint travelling; gaze sharpening.
-- [00:02–00:04] The first electric-white spark crackles near her shoulder, her eyes sharpening with charged focus (her single face stays clear and locked).
-- [00:04–00:06] The primer settles bright on her cheekbone, a spark crackling, lashes steady in charged focus.
+- [00:00–00:02] Cut to a medium-close three-quarter, a rack-focus pulling from the bottle to her eye: she is already pressing the charged Volt primer high on her cheekbone and the first electric-white lightning arc crackles to life in the dark around her; gaze cast soft to the bottle.
+- [00:02–00:04] The charged primer catches a cool electric sheen on her cheekbone as her gaze sharpens with powerful focus and a knowing micro-smile kindles, the first arc crackling brighter.
+- [00:04–00:06] She holds the primer poised near her cheek, eyes intense and charged, the electric-storm look intact (silent here).
 
 AUDIO: diegetic only. Ambient — low storm-room rumble and a faint charged hum throughout. SFX — a soft primer-press tap at 1.0s, a faint cap tick at 2.4s, a soft electric spark-crackle at 5.1s (sharp attack, short tail). Reaction — a soft focused breath at 3.3s. The master track lifts a touch — storm-drums and electric synth rising under the SFX (present, never full). VO — none this frame.
 
@@ -5284,7 +5284,7 @@ NEGATIVE: identity drift, face or hand warp, extra or fused fingers, duplicate p
 
 ## Frame 3 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the locked START keyframe of the lightning arc crackle transform — face fully recognizable and SINGLE, still the electric storm look, the first electric-white sparks now crackling and gathering into charged arcs that begin to leap around her. The arcs crackle in the air around her; her one face, one head and one body are never struck-over, traced over, duplicated or replaced. Lock this START so Frame 4's arc-crackle interpolates cleanly to the full arc-wrapped END (Frame 5).
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. SHOT NOTE: a clean electric-storm (Look A) beat at its OWN cut/angle — the electric storm look fully intact and her face SINGLE, the first electric-white sparks just beginning to crackle and gather into charged arcs that start to leap around her; the full lightning crackle does NOT happen here (it happens mid-clip inside Frame 4). The arcs crackle in the air around her; her one face, one head and one body are never struck-over, duplicated or replaced. Build powerful charged anticipation only.
 
 WARDROBE: the structured storm-gray power top, continuity-locked, the surface beginning to catch the gathering arc-light, the high neckline pristine, fully modest, zero snags.
 
@@ -5309,7 +5309,7 @@ SUBJECT FRAMING & POSITION: A medium framing holds Aira from the chest up with a
 
 LENS + DOF + BOKEH: 50mm, f/2.0; focus split between her near eye and the nearest arc so both read crisp; the background melting to deep creamy charcoal-blue with storm bokeh; soft electric blooms off the arcs; gentle roll-off, no clipping.
 
-COMPOSITION REFERENCE: the charged suspended build beat — arcs gather and leap, the crackle clearly imminent (BA.3 cause building to effect).
+COMPOSITION REFERENCE: a poised charged beat, arcs gathering and beginning to leap — powerful and commanding, the lightning arc crackle held for the Frame-4 clip.
 
 ATMOSPHERE: powerful, charged, dramatic — the electric instant before the lightning arcs crackle full around her.
 
@@ -5328,9 +5328,9 @@ SHOT TYPE: medium, chest-up, subject and gathering arcs fill about 60% of the ve
 LENS: 50mm, f/2.0, smooth charcoal-blue background fall-off.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Medium chest-up: a slow arc is already drifting around her as she lowers the applicator a touch and the electric-white sparks crackle and gather into charged arcs; gaze following the leaping light.
-- [00:02–00:04] The arc eases round as the first arc leaps at her shoulder, her eyes sharpening with charged power.
-- [00:04–00:06] The gathering tightens and brightens, cueing the crackle, her gaze lifting a degree.
+- [00:00–00:02] Cut to a medium chest-up on a fresh three-quarter angle: she eases the bottle down and opens her hand soft as the first lightning arcs crackle and branch in the dark, drawing a slow charged breath as the camera arcs a few degrees and the storm backdrop swings behind with parallax; gaze lifting.
+- [00:02–00:04] The arc settles as her gaze lifts to lens with rising powerful intensity and a knowing micro-smile forms, electric-white lightning arcs beginning to crackle and branch around her, her single face clear and unstruck, still the electric-storm look.
+- [00:04–00:06] She holds the poised powerful beat, the arcs crackling soft around her, eyes intense and bright — the hush before the lightning crackle (silent here).
 
 AUDIO: diegetic only, no VO this frame. Ambient — low storm-room rumble and a faint charged hum throughout. SFX — the soft settle of the lowering applicator at 0.9s, a soft arc-gather crackle at 2.4s, a bright arc-leap snap at 4.5s as the first arc locks (sharp attack, short tail). Reaction — a soft focused breath at 2.1s. The master track sits low — storm-drums and electric synth under the SFX (present, never full).
 
@@ -5344,38 +5344,38 @@ NEGATIVE: identity drift, face or hand warp, extra or fused fingers, duplicate p
 
 ## Frame 4 of 7 — IMAGE PROMPT
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the one impossible move — the lightning arc crackle. LOCK the START (Frame 3, single face clear, electric storm, arcs gathering) and the END (Frame 5 open, full arc-wrapped radiant after-look). Mid-crackle electric-white lightning arcs leap and strike in powerful slow arcs around her; her one face, one head and one body stay clear, single and recognizable, softly framed (never struck-over, never buried) by the crackling arcs; interpolate strictly between the locked keyframes — do NOT invent a new face, do NOT duplicate her face, do NOT invent new hands or new bone structure beneath the lightning-arcs. Powerful and commanding, real electric-arc physics, mesmerizing not chaotic.
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the START frame of the transform CLIP — render her fully in the electric-storm Look A (the exact still the Frame-4 video opens on, and Veo's FIRST frame): the structured storm-gray power top in the dramatic storm studio, her single face clear and centred, only a far electric-white arc flickering in the dark behind her (NO full crackle yet). The lightning arc crackle happens MID-CLIP at this same HELD angle (the camera may push or travel with her but never rotates its angle; electric-white lightning arcs crackle and strike in powerful branching arcs around her by believable real lightning physics — true plasma-arc branching, crackle and afterglow at real speed, no cheap sparkles; the arcs strike the air, never her face), resolving into Frame 5's full storm-charged after-look image (Veo's LAST frame). Her one face, one head, one body, hair and proportions stay constant. Do NOT depict the full crackle in this still, do NOT strike over or duplicate her face, and do NOT invent a new face, new hands or new bone structure.
 
-WARDROBE (refined): the structured storm-gray power top catching the crackle at its brightest as the arcs leap — fabric flaring with travelling steel glints, fully modest, never revealing.
+WARDROBE: the structured storm-gray power top with subtle metallic-silver threading, sharp shoulders, long sleeves and a modest high neckline, the surface catching one travelling steel glint, fully modest, fully intact (the full crackle not yet struck).
 
-HAIR: the wind-swept blowout lifting bold in the charged field mid-motion, catching a sweeping arc of electric light, the volume holding, strands lit electric-clean; color locked.
+HAIR: a voluminous dramatic wind-swept blowout with a high-lift crown and bold storm-blown movement, a glossy finish; color locked to reference.
 
-MAKEUP: mid-crackle — the electric storm look flushing to its luminous peak, the steel-silver eye kindling brighter, the steel-rose lip enriching, the electric-white highlight glinting on the high points; real pores beneath.
+MAKEUP: the electric-storm Look-A base — a cool steel-silver smoked eye, luminous cool skin, a sharp contour, a bold cool steel-rose lip, an electric-white highlight on the high points; skin luminous and real with visible pores and fine vellus texture.
 
-HANDS & NAILS: both arms drifting open through the arc-field, palms turning up as the lightning arcs leap around her in powerful slow arcs; natural nail-bed color, neat cuticles, no white-knuckle tension.
+HANDS & NAILS: both arms beginning to open soft from her body, palms easing up as the first arcs spark, the right near the cradled Volt bottle; natural nail-bed color, neat cuticles, no white-knuckle tension.
 
-FACIAL MICRO-DYNAMICS: eyes blazing with commanding power, a bold parted-lip confidence, a clean fierce lift — her single face clear and arc-framed by the crackling lightning, identity strictly held to reference.
+FACIAL MICRO-DYNAMICS: her single face intense with powerful anticipation, a bold parted-lip composure, a clean fierce calm — composed, single and fully recognizable, identity-locked, ready for the lightning arc crackle mid-clip.
 
-BODY POSTURE & WEIGHT: mid-crackle the spine lengthens and the shoulders open commanding, weight rolling smooth between the feet — grounded real physics, modest throughout.
+BODY POSTURE & WEIGHT: front-facing with the torso rotated about 4°, the spine long and the shoulders open commanding, weight settled with a soft hip counter-tilt — grounded real physics, the charged centre before the crackle, modest throughout.
 
-KINETIC STILLNESS (8 layers): (1) electric-white lightning arcs leaping in powerful slow arcs around her at peak; (2) arc-cores blazing as they strike; (3) the windswept crown and top catching travelling arc-light mid-crackle; (4) tiny charged motes glinting through the field; (5) the top flaring with a steel-edge glint; (6) electric speculars multiplying across the leaping arcs; (7) the dark backdrop flashing a touch brighter through the crackle; (8) her chest mid a soft commanding breath.
+KINETIC STILLNESS (8 layers): (1) a far electric-white arc flickering in the dark; (2) the first sparks just beginning to crackle at the frame edge; (3) a wind-swept lock lifting in the charged air; (4) the dark charcoal-blue backdrop and storm-haze behind her; (5) the top breathing soft in the charged air; (6) a steel glint sliding on the Volt bottle; (7) the steel glint shifting a millimetre along the top as her ribcage expands; (8) a slow eyelash settle completing an intense blink.
 
-SPATIAL LOGIC: FOREGROUND — a leaping arc nearest lens, soft. MIDGROUND — Aira mid-crackle, her single face the clear hero, the arcs leaping around her. BACKGROUND — the dark charcoal-blue backdrop with leaping arcs and storm falloff.
+SPATIAL LOGIC: FOREGROUND — a first flickering arc and the cradled bottle nearest lens, soft. MIDGROUND — Aira's single face the clear hero in the electric-storm look. BACKGROUND — the dark charcoal-blue backdrop with storm-haze and a far lightning flicker, present behind.
 
-LIGHTING: KEY — soft cool key now brighter through the crackle. FILL — low cool bounce below (clamshell). RIM — a bright electric-white rim raking the leaping arcs and the crown (hero light on the motion). PRACTICAL — steel-blue and electric-white storm at full flash. SEPARATION — the crackle and faint storm haze. BOUNCE — cool kicks multiplying across the leaping arcs.
+LIGHTING: KEY — a soft cool key feathered above-front. FILL — low cool bounce below (clamshell). RIM — an electric-white rim skimming the crown and shoulder to separate her from the dark. PRACTICAL — steel-blue storm glow and the bottle. SEPARATION — the storm dark deep so she reads about 2 stops up. BOUNCE — a cool kick off the Volt bottle.
 
-FRAMING: ASPECT 9:16; energized medium-wide, Aira centered with the lightning crackle filling the frame around her single face, 10% headroom, slight push for intimacy.
-SUBJECT FRAMING & POSITION: A energized medium-wide framing opens around Aira with about 10% headroom as the lightning crackle fills the lower frame, a slight push easing in for intimacy. Her spine lengthens and her shoulders open as the weight rolls smooth between the feet in grounded real-physics motion. The camera eases wider against the dark charcoal-blue backdrop with storm-haze, Aira the centred hero at the heart of the bloom. She is centred with the lightning crackle radiating around her. She faces front to the lens, lifted at the peak of the transform. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+FRAMING: ASPECT 9:16; energized medium-wide, Aira centered in the dramatic storm studio, 10% headroom — its own distinct cut/angle.
+SUBJECT FRAMING & POSITION: An energized medium-wide framing opens around Aira at about 10% headroom in the dramatic storm studio, the electric-storm Look A fully intact and her face single as the transform clip begins. Her torso is turned about four degrees with the weight settled over a soft hip counter-tilt, arms beginning to open soft. The camera holds a mid distance on its own fresh angle, a hard cut from Frame 3, with Aira the centred single hero and the dark charcoal-blue backdrop with storm-haze present behind, facing front to the lens. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
-LENS + DOF + BOKEH: 50mm, f/2.0; her single face and the nearest arcs tack sharp at the crackle-core, the closest arc melting into a soft cool bokeh with electric specular glints.
+LENS + DOF + BOKEH: 50mm, f/2.0; her single face and the cradled bottle tack sharp, the nearest first arcs melting into a soft cool bokeh with electric specular glints; gentle highlight roll-off, no clipping.
 
-COMPOSITION REFERENCE: the signature impossible beat — a lightning arc crackle, powerful and commanding, heightened but identity-locked, her face never struck-over (AT.5 transform logic / identity-through-transform).
+COMPOSITION REFERENCE: the start of the signature beat — electric-storm Look A with a single locked face, powerful and commanding, the lightning arc crackle held for the video's mid-clip.
 
-ATMOSPHERE: powerful, exhilarating, electric — the moment the lightning arcs crackle full around her single locked face in powerful slow arcs.
+ATMOSPHERE: powerful, charged, commanding — the electric instant the transform clip begins.
 
 COLOR GRADE: electric storm — deep cool uncrushed charcoal-blacks, steel-blue, electric-white lightning, crisp clean speculars, full mid-tone, a dramatic cool contrast (no garish oversaturation, dark powerful cool-storm lane).
 
-TEXTURE & MICRO-DETAIL: the leaping arcs read as real electric-white strikes with crackling cores and soft motion blur, the bolts read as real lightning on living air, the top shows a real threaded weave catching steel glints, skin reads real with pores beneath the glow.
+TEXTURE & MICRO-DETAIL: the top shows a real threaded weave catching steel glints, the first flickering arcs read as real electric-white strikes with crackling cores, the Volt bottle reads as real storm-gray glass with a cap, skin reads real with pores beneath the glow.
 
 NEGATIVE: mirrored, flipped, inverted, extra limbs, fused fingers, melted features, asymmetric eyes (unintentional), garbled text, floating shadows, duplicated subjects, low-res patches, plastic skin, over-smoothed skin, oversharpened, AI-generated artifacts, watermarks, signature, deformed hands, malformed teeth, joint cuts at ankle/knee/wrist/elbow/neck, amputated fingertips, cross-eyed, lazy eye, off-axis pupils, melted clothing, mismatched footwear, mannequin-stiff posture, dead eyes, statue-frozen energy, garbled label text, crushed muddy blacks, garish oversaturation, flat dull light, inventing a new face beneath the lightning-arcs.
 
@@ -5388,9 +5388,9 @@ SHOT TYPE: energized medium-wide of the lightning arc crackle (the hero move).
 LENS: 50mm, f/2.0.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Energized medium-wide: the push is already easing into a smooth gentle orbit as the lightning arcs leap and crackle and she opens her arms; gaze tracing the striking arcs.
-- [00:02–00:04] The orbit rides the hero beat as the arcs strike bright around her and the windswept crown and top catch travelling electric light (her single face clear and arc-framed, never struck-over); eyes blazing in powerful awe.
-- [00:04–00:06] The crackle settles and the arcs resolve as the orbit eases; a radiant arc-framed look landing, her single face clear, eyes fierce.
+- [00:00–00:02] Cut to an energized medium at a HELD angle (Veo first frame = the electric-storm Look A still): she holds her storm look, already in motion — only a far arc flickering, NO full crackle yet, a gentle push-with easing in, the angle fixed for the whole clip.
+- [00:02–00:04] The lightning crackle BEGINS here, mid-clip: electric-white lightning arcs crackle and strike in powerful branching arcs around her in one continuous charged burst, the plasma arcs branching through the dark air and around her shoulder exactly where they strike — believable real lightning physics (true plasma-arc branching, crackle and afterglow at real speed, no cheap sparkles), her single face clear and locked (NEVER struck over, replaced or duplicated), eyes intense with powerful awe (angle held, identity locked).
+- [00:04–00:06] The crackle completes and the look settles smoothly and fully into the full storm-charged after-look of the Veo last-frame still (Frame 5's image) — electric-white lightning arcs crackling around her single locked face in the dark storm studio, resolved and held through the final beat, no last-second pop; a powerful charged calm landing in her eyes.
 
 AUDIO: diegetic-led. Ambient — low storm-room rumble and a faint charged hum. SFX — a bright lightning-crackle snap 0.5–2.7s, fine arc-strike ticks 2.6–4.8s (sharp attacks, short tails), a soft fabric-flare at 3.4s, a deep thunder-roll under at 2.7s. Reaction — a soft commanding breath at 2.7s. The master track lifts to its powerful peak here — a storm-drum-and-synth swell landed on the crackle (present, still under the SFX, never full). VO — none (the line lands next frame).
 
@@ -5406,7 +5406,7 @@ NEGATIVE: identity drift, face or hand warp, extra or fused fingers, duplicate p
 
 IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
 
-TRANSFORM KEYFRAME NOTE: this is the locked END keyframe of the lightning arc crackle transform; it must resolve continuously out of the START keyframe in Frame 3 — same single face, same hands, same camera distance, the arcs now resolved into a radiant electric-white halo crackling slow around her. Only the air around her was charged; her one face was never struck-over, traced over, duplicated or replaced. Do NOT invent a new face, duplicate her face or invent new hands beneath the lightning-arcs; this is the same single Aira, powerful and radiant. Frame 3 (START) and Frame 5 (END) are the two anchors of the single transform.
+TRANSFORM KEYFRAME NOTE: this is the full storm-charged Look B reveal at its OWN cut/angle (a hard cut from the Frame-4 lightning arc crackle clip — a new angle/crop, and the Veo last-frame the crackle resolves into). It carries the resolved full storm-charged after-look the Frame-4 clip ends on — only the air around her was charged into a radiant electric-white arc-halo; her one face was never struck-over, duplicated or replaced. Same single Aira, powerful and radiant — do NOT invent a new face, strike over or duplicate her face, or invent new hands or new bone structure.
 
 WARDROBE: the structured storm-gray power top at its sharpest, the metallic-silver threading catching one travelling steel glint, the modest high neckline pristine, fully modest, zero snags.
 
@@ -5450,9 +5450,9 @@ SHOT TYPE: medium close, chest-up, subject fills about 56% of the vertical frame
 LENS: 50mm, f/2.0, smooth charcoal-blue background fall-off.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Medium close: a slow push is already gliding in as she eases her hands open and the crackle resolves into a radiant halo around her; gaze fierce to lens.
-- [00:02–00:04] She delivers “I am the storm.” to lens with a fierce composed smile, eyes intense and direct, her single face clear and locked.
-- [00:04–00:06] She holds the radiant arc-framed look as the last arc crackles slow, the smile holding fierce and composed.
+- [00:00–00:02] Cut to a medium close on a new angle in the charged dark: she is already in the full storm-charged look, easing her right hand back toward the Volt bottle at her collarbone with an easy roll of the shoulder, her single face clear and unstruck; gaze intense to lens.
+- [00:02–00:04] She delivers “I am the storm.” to lens with a powerful composed smile and natural lip-sync, a lightning arc crackling soft around her, eyes intense and charged.
+- [00:04–00:06] She holds the storm-charged powerful look, her single face locked and the bottle cradled soft, eyes intense and direct.
 
 AUDIO: diegetic plus the spoken line. SPOKEN LINE (lip-sync) — Aira says "I am the storm." from 1.7–4.5s in English with a natural Indian accent, powerful assured tone, mouth shapes matched exactly. Ambient — low storm-room rumble and a faint charged hum throughout. SFX — a soft arc-crackle at 1.0s, a faint fabric shift at 1.5s (kept clear of the VO). The master track ducks gently under the line and holds its storm-drums low.
 
@@ -5510,9 +5510,9 @@ SHOT TYPE: medium close, chest-up, subject fills about 55% of the vertical frame
 LENS: 50mm, f/2.0, smooth charcoal-blue background fall-off.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Medium close: a slow push is already gliding in as she re-cradles the Volt bottle near her collarbone and the arc-halo eases to a slow crackle; gaze steady to lens.
-- [00:02–00:04] The push holds as she settles a quietly powerful look to lens on a slow breath, a distant lightning flickering behind her; eyes calm and intense.
-- [00:04–00:06] She holds the quietly powerful look toward the loop, storm-light soft behind, her single face clear and locked.
+- [00:00–00:02] Cut to a medium-close chest-up on a fresh angle: she settles both hands gently, the right cradling the Volt bottle soft near her collarbone, the left easy near her jaw, as a gentle push eases in; gaze intense to lens.
+- [00:02–00:04] A powerful composed smile holds to lens on a slow charged breath, the lightning crackling even around her, electric light on her skin.
+- [00:04–00:06] She holds the powerful beat, the dark deep and the arcs crackling, eyes intense and direct — a held moment before the loop (silent here).
 
 AUDIO: diegetic only, no VO. Ambient — low storm-room rumble and a faint charged hum throughout. SFX — a soft cap-tap at 0.8s as her fingers settle on the bottle (gentle attack, short tail), a faint fabric shift at 2.8s, a soft distant thunder-roll at 4.8s. Reaction — a soft steady breath at 3.2s. The master track holds a low steady storm-drum pulse under the room tone (present, never full).
 
@@ -5572,9 +5572,9 @@ SHOT TYPE: medium close, chest-up, subject fills about 55% of the vertical frame
 LENS: 50mm, f/2.0, smooth charcoal-blue background fall-off.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Medium close matching Frame 1: a slow push is already resolving toward the exact opening framing as she re-cradles the Volt bottle and tilts it into the key, electric-white speculars sliding along the cap; gaze lowering to the bottle.
-- [00:02–00:04] The push settles as she eases her intense gaze back to lens on a soft breath with the composed quarter-smile, the storm studio resolving to the opening; eyes calming.
-- [00:04–00:06] She lands precisely on the Frame 1 pose and gaze, distant lightning flickering — a seamless loop seam.
+- [00:00–00:02] Cut to a medium-close chest-up matched to Frame 1: she returns her right hand to cradle the storm-gray Volt bottle at collarbone height and her left easy near her jaw exactly as in Frame 1 as a soft pull-out settles to the opening framing.
+- [00:02–00:04] She eases her intense gaze back to lens on a slow breath with the composed powerful quarter-smile, the full storm-charge resolving back toward the opening electric-storm look to seed the loop.
+- [00:04–00:06] She lands precisely on the Frame 1 pose and gaze, powerful and charged in the storm — a seamless loop seam.
 
 AUDIO: diegetic only, no VO. Ambient — low storm-room rumble and a faint charged hum throughout. SFX — a soft cap-tap at 0.7s as her fingers settle on the bottle (gentle attack, short tail), a faint fabric shift at 2.7s, a soft distant thunder-roll at 4.1s timed to the gaze-lift. The master track resolves softly here so it can loop clean.
 

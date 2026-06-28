@@ -2711,6 +2711,95 @@ BEATSLM[42] = [
 ]
 
 
+BEATSLM[43] = [
+    # F1 - electric-storm hero (contained, product-at-face), push-in
+    (
+        "Cut to a medium-close chest-up in the dramatic storm studio: she is already cradling "
+        "the storm-gray Volt bottle at her collarbone as a slow push eases in, the dark "
+        "charcoal-blue backdrop and a far electric-white lightning flicker behind her, charged "
+        "atmosphere; her left hand easy near her jaw.",
+        "The push settles as a wind-swept lock lifts in the charged air and her intense gaze "
+        "eases to lens, a distant arc flickering, a powerful composed quarter-smile settling.",
+        "She holds the electric-storm look in the structured storm-gray power top, the metallic "
+        "threading catching one steel glint, eyes intense and direct (the line lands later).",
+    ),
+    # F2 - build, charged-primer apply, first arc; rack-focus product->eye
+    (
+        "Cut to a medium-close three-quarter, a rack-focus pulling from the bottle to her eye: "
+        "she is already pressing the charged Volt primer high on her cheekbone and the first "
+        "electric-white lightning arc crackles to life in the dark around her; gaze cast soft to "
+        "the bottle.",
+        "The charged primer catches a cool electric sheen on her cheekbone as her gaze sharpens "
+        "with powerful focus and a knowing micro-smile kindles, the first arc crackling "
+        "brighter.",
+        "She holds the primer poised near her cheek, eyes intense and charged, the electric-"
+        "storm look intact (silent here).",
+    ),
+    # F3 - START clean (arcs gathering, NO full crackle yet), slow arc
+    (
+        "Cut to a medium chest-up on a fresh three-quarter angle: she eases the bottle down and "
+        "opens her hand soft as the first lightning arcs crackle and branch in the dark, drawing "
+        "a slow charged breath as the camera arcs a few degrees and the storm backdrop swings "
+        "behind with parallax; gaze lifting.",
+        "The arc settles as her gaze lifts to lens with rising powerful intensity and a knowing "
+        "micro-smile forms, electric-white lightning arcs beginning to crackle and branch around "
+        "her, her single face clear and unstruck, still the electric-storm look.",
+        "She holds the poised powerful beat, the arcs crackling soft around her, eyes intense "
+        "and bright \u2014 the hush before the lightning crackle (silent here).",
+    ),
+    # F4 - THE TRANSFORM, HELD ANGLE, smooth mid-clip lightning-crackle (NOT her face); first=electric-storm, last=storm-charged
+    (
+        "Cut to an energized medium at a HELD angle (Veo first frame = the electric-storm Look A "
+        "still): she holds her storm look, already in motion \u2014 only a far arc flickering, "
+        "NO full crackle yet, a gentle push-with easing in, the angle fixed for the whole clip.",
+        "The lightning crackle BEGINS here, mid-clip: electric-white lightning arcs crackle and "
+        "strike in powerful branching arcs around her in one continuous charged burst, the "
+        "plasma arcs branching through the dark air and around her shoulder exactly where they "
+        "strike \u2014 believable real lightning physics (true plasma-arc branching, crackle and "
+        "afterglow at real speed, no cheap sparkles), her single face clear and locked (NEVER "
+        "struck over, replaced or duplicated), eyes intense with powerful awe (angle held, "
+        "identity locked).",
+        "The crackle completes and the look settles smoothly and fully into the full "
+        "storm-charged after-look of the Veo last-frame still (Frame 5's image) \u2014 "
+        "electric-white lightning arcs crackling around her single locked face in the dark storm "
+        "studio, resolved and held through the final beat, no last-second pop; a powerful "
+        "charged calm landing in her eyes.",
+    ),
+    # F5 - END storm-charged reveal, hand to bottle, spoken line; slow orbit
+    (
+        "Cut to a medium close on a new angle in the charged dark: she is already in the full "
+        "storm-charged look, easing her right hand back toward the Volt bottle at her collarbone "
+        "with an easy roll of the shoulder, her single face clear and unstruck; gaze intense to "
+        "lens.",
+        "She delivers \u201cI am the storm.\u201d to lens with a powerful composed smile and "
+        "natural lip-sync, a lightning arc crackling soft around her, eyes intense and charged.",
+        "She holds the storm-charged powerful look, her single face locked and the bottle "
+        "cradled soft, eyes intense and direct.",
+    ),
+    # F6 - held powerful, cradling bottle; gentle push
+    (
+        "Cut to a medium-close chest-up on a fresh angle: she settles both hands gently, the "
+        "right cradling the Volt bottle soft near her collarbone, the left easy near her jaw, as "
+        "a gentle push eases in; gaze intense to lens.",
+        "A powerful composed smile holds to lens on a slow charged breath, the lightning "
+        "crackling even around her, electric light on her skin.",
+        "She holds the powerful beat, the dark deep and the arcs crackling, eyes intense and "
+        "direct \u2014 a held moment before the loop (silent here).",
+    ),
+    # F7 - loop close, cradle bottle matched to F1; pull-out
+    (
+        "Cut to a medium-close chest-up matched to Frame 1: she returns her right hand to cradle "
+        "the storm-gray Volt bottle at collarbone height and her left easy near her jaw exactly "
+        "as in Frame 1 as a soft pull-out settles to the opening framing.",
+        "She eases her intense gaze back to lens on a slow breath with the composed powerful "
+        "quarter-smile, the full storm-charge resolving back toward the opening electric-storm "
+        "look to seed the loop.",
+        "She lands precisely on the Frame 1 pose and gaze, powerful and charged in the storm "
+        "\u2014 a seamless loop seam.",
+    ),
+]
+
+
 def build_block(beats):
     return (
         BREAKDOWN_HEADER + "\n"
