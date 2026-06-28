@@ -868,14 +868,24 @@ run the FINAL VERIFICATION PASS over every file. Don't re-ask me to explain the 
 in that file."
 
 >>> SNAPSHOT (update these markers as you go — they are the source of truth for resume):
-- PASS 1 DONE files: Master-Depth Build 01-20 (whole file); Cinematic New Set 01-20 (whole file).
-- PASS 1 IN PROGRESS: More Full Reel Set 3 — COMPLETE (31-50, whole file on L+M: 128 SHOT BREAKDOWN ==
-  128 VIDEO PROMPT, 0 old-model residue; concepts 39/40/43/44/45/46/47/48/49/50 are VFX/environmental
-  transforms handled as "world/effect-fractures-not-her-look" with the single-face guard; 31-38 are
-  true beauty-bloom/gilding morphs). NEXT FILE = Set 4 (51-70).
-  (continue to 50). Method + per-concept handling notes are in the ">>> CINEMATIC NEW SET" /
-  ">>> NEXT FILE: ...Set 3" notes below and in section J.
-- PASS 1 NOT STARTED: Set 4 (51-70), Set 5 (71-79) + 4 continuations, Concepts 91-110; then the
+- PASS 1 DONE files: Master-Depth Build 01-20 (whole file); Cinematic New Set 01-20 (whole file);
+  More Full Reel Set 3 31-50 (whole file); Set 4 51-70 (whole file, via _tools/set4_lm.py).
+- PASS 1 IN PROGRESS: Set 5 (71-79) main file — Concept 71 (Living-Vine Topiary) DONE+pushed
+  (F2 velvet->living-vine growth + F5 blossom-bloom VFX both on L+M); NEXT concept 72.
+  Set 5 STRUCTURE differs from Set 4: each concept has TWO impossible beats — Frame 2 (true
+  material transform: base->couture, handle like Set 4 = flip F2 image to clean Look A + L+M note
+  + hold-A/morph/resolve-to-B beats) AND Frame 5 (a VFX "magic burst": dot-burst/orchid-bloom/
+  rainbow-bloom/sequin-supernova/enamel splash-crown/kirigami pop-up/mylar/prism — handle like
+  Set-3 VFX: rework note to contained-mid-clip/held-angle, flip F5 image to the KINDLE opening
+  (effect just beginning, look otherwise calm), single self/face locked & uncovered, believable
+  physics, settle-to-halo, match-cut). C71 was a clean A->B gown swap (Frame 1 = real Look A donor);
+  72-79 are "material-assembles-into-the-gown" types (Frame 1 already shows the formed gown, so the
+  F2 START = the material just gathering / gown NOT yet formed — regenerate F2 WARDROBE as pre-form,
+  reuse Frame 1 for the unchanged HAIR/MAKEUP/FOOTWEAR/world fields). set4_lm.py does NOT directly
+  apply (different Wardrobe-line format). C71 done by hand; 72-79 still to do.
+  NOTE: Set 5 main-file Concept 79 (Prism Mirror) is the known CORRUPTED F1-only stub (the complete
+  79 lives in the (cont) file) — handle minimally / skip the missing frames.
+- PASS 1 NOT STARTED: Set 5 (72-79) main file, Set 5 4 continuations (79-84), Concepts 91-110; then the
   non-transformation folders (Surreal 131-150, Action, Time-Freeze, Travel-Scenic aira_set4/5,
   Product 100, Action 170) — those get lean-strip + section-K believability + L+M only where a real
   A->B / mid-clip change exists.
