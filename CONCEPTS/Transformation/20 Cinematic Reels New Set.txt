@@ -4537,7 +4537,7 @@ Hair: a sleek low bun in World A releasing into soft waves in World B, color loc
 
 Makeup: dramatic World-A glam (deep matte berry lip, smoked liner) softening to World-B glow (peachy lip, sunlit highlight), satin skin, real pores.
 
-Hero Movement / Impossible Move: doorway world-flip — the swing of the red door flips both the environment and her entire look from dark corridor to sunlit terrace.
+Hero Movement / Impossible Move: doorway world-flip — contained MID-CLIP with the camera riding WITH her at a held angle: the swing of the red door flips both the environment and her entire look from dark corridor to sunlit terrace as a flowing wipe along the door's sweep. Veo first/last-frame continuity (Frame 4 image = dark-corridor Look A = first frame, Frame 5 image = sunlit-terrace Look B = last frame); every frame join is a hard match-cut to a new angle.
 
 Mood: SUSPENSE-TO-RELEASE, dramatic then radiant.
 
@@ -4783,44 +4783,44 @@ LOOP LOGIC: the rise toward the door bridges to the world-flip.
 
 ## Frame 4 of 6 — IMAGE PROMPT (TRANSFORM — DOORWAY WORLD-FLIP — SPOKEN LINE)
 
-ANGLE & SHOT SIZE: profile-to-front MEDIUM as she pushes through the swinging red door, mid-step, the world splitting charcoal corridor (behind) to sunlit terrace (ahead).
+ANGLE & SHOT SIZE: profile-to-front MEDIUM as she pushes the swinging red door, mid-step at the threshold, the charcoal corridor and warm sconces around her — the clean Look A the clip opens on, the world-flip NOT yet begun.
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the START frame of the transform CLIP — render her fully in the dark-corridor Look A (the exact still the Frame-4 video opens on, and Veo's FIRST frame): the charcoal trench, black ankle boots, angular black glasses, dark clutch and sleek bun, pushing the red door at the threshold (the world-flip NOT yet begun, the world still charcoal corridor). The doorway world-flip happens MID-CLIP at a HELD angle on her (the camera rides WITH her through the door — a translation, never an angle cut — as the seam flips both world and look to the sunlit terrace and ivory-gold gown), resolving into Frame 5's sunlit-terrace image (Veo's LAST frame). Her face and proportions stay constant. Do NOT depict the flip in this still and do NOT invent a new face, new hands or new bone structure.
 
-WARDROBE: the charcoal trench flipping to the flowing ivory-and-gold day-gown along the door-seam crossing her body; fully modest.
+WARDROBE: the charcoal trench at its richest, fully modest, fully intact (the ivory-gold gown not yet formed).
 
-FOOTWEAR: black ankle boots flipping to strappy gold flats mid-step.
+FOOTWEAR: black ankle boots, mid-step at the threshold.
 
-EYEWEAR: angular black glasses flipping to warm amber-tinted glasses across the seam.
+EYEWEAR: angular black glasses on.
 
-ACCESSORIES: dark clutch flipping to a woven gold pochette, gloves dissolving, chain warming to gold.
+ACCESSORIES: a dark clutch, gloves and a cool chain — the corridor look.
 
-HAIR: sleek bun releasing into soft waves across the flip, lit cool-then-warm.
+HAIR: a sleek bun, cool-lit.
 
-MAKEUP: berry-and-smoke glam flipping to peachy sunlit glow across the seam.
+MAKEUP: berry-and-smoke glam; real pores and fine vellus texture.
 
-HANDS & NAILS: one hand flat on the red door pushing through (fingers clean, articulate), the other lifting into the light; berry nails warming toward soft peach.
+HANDS & NAILS: one hand flat on the red door pushing through (fingers clean, articulate), the other easy at her side; berry nails, neat cuticles.
 
-FACIAL MICRO-DYNAMICS: lips parting to deliver the line, a radiant dawning smile, eyes widening from resolve to joy, brows lifting.
+FACIAL MICRO-DYNAMICS: a composed resolve forward through the door, lips just parting before the line, a knowing set — fully recognizable, identity-locked, ready to flip mid-clip.
 
-BODY POSTURE & WEIGHT: mid-stride through the door, weight rolling forward, torso leading into the light — full of momentum, never frozen.
+BODY POSTURE & WEIGHT: mid-stride pushing the door, weight rolling forward, torso leading — full of momentum, the instant before the flip.
 
-KINETIC STILLNESS (8 layers): (1) the red door sweeping open; (2) the world-seam crossing her body; (3) corridor shadow giving to terrace sun; (4) hair releasing in the threshold-draft; (5) chest breathing as she speaks; (6) the gown forming and rippling; (7) white drapes billowing ahead; (8) lashes flaring on the smile.
+KINETIC STILLNESS (8 layers): (1) the red door beginning to sweep open; (2) the charcoal corridor and warm sconces behind; (3) a bun-strand shifting in the threshold-draft; (4) the red lacquer glowing; (5) chest breathing before the line; (6) a cool chain glint; (7) the trench breathing as her ribcage expands; (8) lashes settling on a blink.
 
-SPATIAL LOGIC: FOREGROUND — the red door edge and her hand, sharp. MIDGROUND — Aira crossing. BACKGROUND — dark corridor behind, sunlit terrace and sky ahead.
+SPATIAL LOGIC: FOREGROUND — the red door edge and her hand, tack sharp. MIDGROUND — Aira at the threshold in the trench, the hero. BACKGROUND — the charcoal corridor with amber sconces, the world present (a sliver of terrace light just edging the doorframe).
 
-LIGHTING: KEY — split: cool charcoal-amber behind, warm sun ahead. FILL — ambient each side. RIM — red-glow rim behind, gold sun rim ahead. PRACTICAL — sconces, sky. SEPARATION — figure crossing the world-seam. BOUNCE — warm stone kick ahead.
+LIGHTING: KEY — cool charcoal-amber corridor key. FILL — ambient sconce bounce. RIM — red-glow rim from the door. PRACTICAL — sconces, red lacquer. SEPARATION — figure vs dark corridor. BOUNCE — cool stone kick.
 
-LENS + DOF + BOKEH: 35mm, f/2.5; focus on her face and the door edge; the world-seam crisp on her body; both worlds in soft bokeh.
+LENS + DOF + BOKEH: 35mm, f/2.5; focus on her face and the door edge; the corridor and red door in soft bokeh, clearly present behind.
 
-COMPOSITION: 9:16, diagonal of the swinging door, Aira centred on the seam, dynamic dual-world split.
-SUBJECT FRAMING & POSITION: A profile-to-front medium as she pushes through the swinging red door mid-step, the world splitting charcoal corridor behind to sunlit terrace ahead. The body reads from roughly the waist up, mid-stride through the door, weight rolling forward, torso leading into the light — turning from profile toward front. Camera at mid distance, Aira on the door-seam. Dynamic split-world framing. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+COMPOSITION: 9:16, diagonal of the swinging door, Aira at the threshold, the corridor reading behind.
+SUBJECT FRAMING & POSITION: A profile-to-front medium as she pushes the red door in the dark-corridor Look A, mid-step at the threshold — the clean still the transform clip opens on. The body reads from roughly the waist up, weight rolling forward, torso leading, the corridor world present behind. Camera at mid distance. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
-ATMOSPHERE: the magical threshold — darkness becoming light.
+ATMOSPHERE: the magical threshold — poised in the dark before the light.
 
-COLOUR GRADE: split dual-world — charcoal-amber to sunlit ivory-gold-blue, glossy, full mid-tone.
+COLOUR GRADE: charcoal-amber corridor tones, rich and shadowed but balanced (a tonal dark world — not crushed, not garish), glossy, full mid-tone.
 
-TEXTURE & MICRO-DETAIL: red-lacquer door, trench-to-chiffon morph, real skin texture, lip detail mid-word, drape weave ahead.
+TEXTURE & MICRO-DETAIL: red-lacquer door, charcoal trench weave, real skin texture, lip detail.
 
 NEGATIVE: (as Frame 1) plus identity drift across the flip, melted features, immodest exposure, garbled mouth shape.
 
@@ -4833,9 +4833,9 @@ SHOT TYPE & ANGLE: profile-to-front medium, subject fills ~55%.
 LENS: 35mm, f/2.5.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Profile-to-front medium: she is already pushing the red door and stepping through as the camera begins to swing with it, the dark corridor still behind; gaze forward into the gap.
-- [00:02–00:04] The camera rides the door through its arc and the world-seam crosses her body, flipping the charcoal corridor to sunlit terrace and the trench to the ivory-gold gown; eyes brightening as the light hits.
-- [00:04–00:06] She emerges into the sun and turns her face to lens, delivering the spoken line with a radiant released smile, brows lifting in warmth.
+- [00:00–00:02] Cut to a profile-to-front medium at a HELD angle on her (Veo first frame = the dark-corridor Look A still): already in motion, the camera riding WITH her (a push-with translation, never an angle cut) as she pushes the red door and steps through, the charcoal corridor still behind; gaze forward into the gap, the world still charcoal.
+- [00:02–00:04] The world-flip BEGINS here, mid-clip: as the door carries her forward the seam wipes smoothly across her body in one continuous front, the charcoal corridor flipping to sunlit terrace and the trench resolving to the ivory-gold gown exactly where the seam passes — a flowing wipe, never a cut, the camera still riding with her at the held angle; eyes brightening as the light hits.
+- [00:04–00:06] She emerges fully into the sunlit terrace of Frame 5's still (Veo's LAST frame) and turns her face to lens, delivering the spoken line with a radiant released smile — resolved and held, no last-second snap.
 
 FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
@@ -4849,7 +4849,7 @@ FABRIC/HAIR/PROP PHYSICS: trench-to-gown morph flows as a wipe; hair releases an
 
 FOOTWORK & BODY FLOW: a rolling heel-to-toe stride through the door, hips driving.
 
-TRANSITION / IMPOSSIBLE MOVE: THE hero move — the door-swing flips both world and outfit from dark corridor to sunlit terrace; locked to the door's sweep.
+TRANSITION / IMPOSSIBLE MOVE: THE hero move, contained mid-clip — the door-swing flips both world and outfit from dark corridor to sunlit terrace as a flowing wipe along the door's sweep; the camera rides WITH her (translation, angle held on her, never an angle cut); Veo first frame = this frame's dark-corridor Look A image, last frame = Frame 5's sunlit-terrace image; every frame join is a hard match-cut to a new angle.
 
 LIGHTING-IN-MOTION: cool amber cross-fades to warm sun across her body as the door turns; sky blooms in.
 
