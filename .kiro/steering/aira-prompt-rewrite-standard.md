@@ -857,17 +857,15 @@ section-N background balance, and align with the PASS-2 full-body motion model (
 >>> TRIGGER SENTENCE TO PASTE INTO A FRESH SESSION (verbatim):
 "Resume the Aira prompt rebuild on branch aira-prompts-enhanced (repo aamir9000/Aamirs). Read
 .kiro/steering/aira-prompt-rewrite-standard.md IN FULL — especially this CURRENT STATE & TWO-PASS
-PLAN block (the SNAPSHOT marks PASS 1 COMPLETE across all feasible files), the EXACT FILE MANIFEST,
+PLAN block (the SNAPSHOT marks PASS 1 COMPLETE across ALL files), the EXACT FILE MANIFEST,
 and sections L, M (incl. M.9 per-limb articulation + its Logic & Flow law) and N (background as
-co-star + N.1 Beauty-Ad motion). PASS 1 is DONE: all transformation files are on the L+M model and
-all standard non-transformation files are on section-B (engines in _tools/). THREE deferred items
-need a quick user decision before PASS 2: (1) Time-Freeze Reel Set — needs a time-trick-aware
-breakdown header because the standard 'never slow-motion/never a static hold' contradicts its freeze/
-speed-ramp premise; (2) aira_set5 — prose video format, needs a careful prose->3-beat SHOT BREAKDOWN
-conversion; (3) Magical Action Master Set — confirm whether to normalise its variable per-frame
-durations (3s/4s) to 6s or keep the 26s reel structure. After those are resolved, do PASS 2 (full-body
-explicit per-limb pose/motion, logical + self-aware + flow-read, every concept except GRWM/exceptions),
-then run the FINAL VERIFICATION PASS over every file. Don't re-ask me to explain the standard."
+co-star + N.1 Beauty-Ad motion). PASS 1 is DONE: all transformation files are on the L+M model, all
+standard non-transformation files are on section-B (engines in _tools/), Time-Freeze C1-11 use a
+time-trick-aware header (C12-20 oner/cumulative left by design), aira_set5 prose has synthesised
+3-beat breakdowns, and the advanced Magical Action files (incl. Master Set) are left as-is. Now do
+PASS 2 (full-body explicit per-limb pose/motion, logical + self-aware + flow-read, every concept
+except GRWM/exceptions per M.6-M.9), then run the FINAL VERIFICATION PASS over every file. Don't
+re-ask me to explain the standard."
 
 
 
@@ -883,27 +881,27 @@ then run the FINAL VERIFICATION PASS over every file. Don't re-ask me to explain
   + bullet-format section-B); Travel-Scenic aira_set4 (secB_fb.py Format-B, 117 SB==117 VP).
 - ALREADY-COMPLIANT (left, do NOT rebuild): Magical Action Heavy-Detail; Magical Action Set 2 Expression;
   Magical Action Master Set (advanced action; PHYSICS & MOTION/micro-timecode/one-move camera; its
-  variable per-frame durations 3s/4s summing to a 26s reel are an OPEN user-decision item — NOT forced to 6s).
-- DOCUMENTED EXCEPTIONS / DEFERRED (intentional, NOT blind misses):
-  * Time-Freeze Reel Set — section-B was applied then REVERTED: the standard SHOT BREAKDOWN header
-    ("continuous energetic motion, never slow-motion, never a static hold") CONTRADICTS this file's
-    entire premise (every concept is a time/speed/freeze trick — C9 RPM = speed-ramp slow-mo; freeze
-    reels suspend elements mid-air; rewind/echo/vertigo). Per section K.5 each must read as its real
-    phenomenon. Needs a tailored time-trick-aware breakdown header (deferred decision).
-  * aira_set5 — uses a PROSE video-direction format (no labeled action beats) unlike aira_set4; the 7
-    "in slow motion" magic-beat violations were fixed to real-time, but a prose->bracketed-3-beat
-    SHOT BREAKDOWN conversion is deferred (needs careful per-frame authoring, flagged not risked).
-  * Beauty Ad — was complete from an earlier session; this session fixed its 2 residual slow-motion refs.
+  variable per-frame durations 3s/4s sum to a designed continuous 26s reel — DECISION: KEPT as-is, NOT
+  forced to 6s, because that would break the reel's intentional variable-clip structure).
+- RESOLVED special-format files (now done):
+  * Time-Freeze Reel Set — Concepts 1-11 (standard discrete freeze/burst/speed reels, 75 frames) converted
+    to SHOT BREAKDOWN with a TAILORED time-trick header (subject performs real-time while the signature
+    time-effect — freeze suspension / speed-ramp / rewind / echo — plays as its real cinematic phenomenon,
+    never a cheap pause). Concepts 12-20 (oner single-takes C13-16 + cumulative continuous C17-20 + mixed
+    C12) INTENTIONALLY LEFT per section K.5/E/G (the documented oner cumulative-timing frames).
+  * aira_set5 — prose video format: synthesised a 3-beat SHOT BREAKDOWN from each block's embedded
+    micro-expression timeline + framing/camera/action, inserted after IDENTITY LOCK, prose kept intact
+    (123 SB==123 VP); its 7 slow-motion violations were already fixed to real-time.
+  * Beauty Ad — its 2 residual slow-motion refs fixed.
 - ENGINES (in _tools/): set4_lm.py, set5_lm.py, set5cont_lm.py, set5chain_lm.py, set5hd_lm.py,
-  secB_lm.py (generic non-transform section-B; handles inline + bullet SUBJECT ACTION; whole-file
-  fallback for single-concept files), secB_fb.py (Format-B aira_set4). lm_rebuild.py BEATSLM (1-20,
-  31-50) — do NOT reuse for 51-84 numbering.
+  secB_lm.py (generic non-transform section-B; inline + bullet SUBJECT ACTION; whole-file fallback;
+  SECB_HDR env override for a custom breakdown header), secB_fb.py (Format-B aira_set4),
+  secB_set5prose.py (aira_set5 prose). lm_rebuild.py BEATSLM (1-20, 31-50) — do NOT reuse for 51-84.
 - PASS 2 + FINAL VERIFICATION: PASS 2 (full-body per-limb pose/motion, sections M.6-M.9) NOT started —
-  run after the 3 deferred items above are resolved with the user (Time-Freeze header policy, aira_set5
-  prose conversion, Master Set duration policy). Final whole-project verification this session: every
-  converted file has SHOT BREAKDOWN == VIDEO PROMPT, 0 leftover SUBJECT ACTION, 0 standalone CAMERA
-  MOVEMENT, DURATION 6s, 0 genuine slow-mo (remaining slow-mo terms live only in the intentional
-  time-trick Time-Freeze file, the advanced Master Set / Set-2 score-tempo briefs, and NEGATIVE lists).
+  this is the next major phase. Whole-project PASS-1 verification (this session): every converted file
+  has SHOT BREAKDOWN == VIDEO PROMPT, 0 leftover SUBJECT ACTION, 0 standalone CAMERA MOVEMENT,
+  DURATION 6s, 0 genuine slow-mo. Remaining slow-mo terms live ONLY in the intentional time-trick
+  Time-Freeze beats (theme-correct), the advanced Master Set / Set-2 score-tempo briefs, and NEGATIVE lists.
 - Engines: _tools/lm_rebuild.py (BEATSLM keyed by concept number; currently holds 1-20 + 31-33;
   add BEATSLM[N] then run `python3 _tools/lm_rebuild.py "<exact path>" N`). Verify with
   _tools/verify_lm.py for Master-Depth-format files, or the per-concept grep checks shown in the
