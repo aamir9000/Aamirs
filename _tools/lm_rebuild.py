@@ -1641,6 +1641,98 @@ BEATSLM[19] = [
 ]
 
 
+BEATSLM[20] = [
+    # F1 - chic evening Look A establishing, alive lateral track, hand on rooftop railing
+    (
+        "Cut to a medium-wide thigh-up tracking shot on the rooftop at New Year's Eve night: "
+        "the camera dollies laterally to settle on her as she settles her weight onto the back "
+        "leg and rests her right hand soft on the rooftop railing, the glittering skyline and "
+        "warm string lights sliding behind with real parallax against the cool night; a chic "
+        "composed quarter-smile holding.",
+        "The track eases to rest as a feathered face-framing wave shifts in the cool night air "
+        "and she eases her gaze to lens, the first distant fireworks just beginning on the "
+        "horizon, a chic composed quarter-smile settling.",
+        "She holds, cool and chic in the deep-midnight top, the voluminous 70s blowout full, "
+        "eyes direct in the cool blue anticipation (silent here).",
+    ),
+    # F2 - chic look, push-with lifting hand from railing toward cresting sparkler-light, cut to a closer three-quarter
+    (
+        "Cut to a medium-close three-quarter: she is already lifting her right hand soft from "
+        "the railing toward the cresting sparkler-light as if to feel it, fingers gently open, "
+        "as the camera pushes with her hand; gaze toward the sparkle.",
+        "The first sparkler-light crests warm at her fingertips against the cool night as her "
+        "gaze brightens with quiet anticipation and a knowing micro-smile kindles.",
+        "She holds the hand poised toward the sparkler-light, eyes bright and cool, the chic "
+        "evening look crisp and intact (silent here).",
+    ),
+    # F3 - chic look clean (NO burst yet), slow arc to a fresh angle, raise hand toward sparkler-light
+    (
+        "Cut to a medium chest-up on a fresh three-quarter angle: she raises her hand soft "
+        "toward the sparkler-light and draws a slow breath, her left hand easing open at her "
+        "side, as the camera arcs a few degrees and the skyline swings behind with parallax; "
+        "gaze lifting.",
+        "The arc settles as her gaze lifts to lens with rising spark and a knowing micro-smile "
+        "forms, the sparkler-and-confetti wave cresting in frame, still in the chic evening "
+        "look.",
+        "She holds the poised rooftop beat, hand raised to the sparkler-light, eyes bright and "
+        "cool \u2014 the breath before the sparkler-and-confetti wave (silent here).",
+    ),
+    # F4 - THE TRANSFORM, HELD ANGLE, smooth mid-clip sparkler-confetti wave; first=chic evening, last=glam NYE
+    (
+        "Cut to an energized medium at a HELD angle (Veo first frame = the chic-evening Look A "
+        "still): she eases her hand down from the sparkler-light, already in motion \u2014 still "
+        "the deep-midnight top, NO burst yet, a gentle push-with easing in, the angle fixed for "
+        "the whole clip.",
+        "The burst BEGINS here, mid-clip: a single travelling sparkler-and-confetti wave sweeps "
+        "smoothly across the frame in one continuous front, warm sparkler-light and soft "
+        "confetti blooming up by believable airborne drift against the dark night, the chic "
+        "midnight top deepening into the shimmering softly-sequined modest gown and the scene "
+        "warming from cool blue to a sparkling celebratory glow exactly where the wave passes "
+        "\u2014 cloth and sequins resolving with real weight and inertia, sparkle balanced "
+        "against the dark sky (not garish), gradual and warm, never a snap; the 70s blowout "
+        "catching travelling sparkle-light, eyes brightening in celebratory awe (angle held, "
+        "face cleanly lit, identity locked).",
+        "The wave completes its sweep and the look settles smoothly and fully into the glamorous "
+        "NYE Look B of the Veo last-frame still (Frame 5's image) \u2014 the shimmering "
+        "softly-sequined modest gown with long sleeves in a sparkling warm celebratory glow "
+        "against the night skyline, resolved and held through the final beat, no last-second "
+        "pop; a bright celebratory resolve landing in her eyes.",
+    ),
+    # F5 - glam NYE Look B reveal, cut to a NEW angle, settle the clutch
+    (
+        "Cut to a medium close on a new angle in the sparkling celebratory glow: she is already "
+        "in the glamorous shimmering gown, drifting her right hand to settle the small clutch "
+        "with an easy roll of the shoulder; gaze easing to lens.",
+        "A bright celebratory smile eases to lens on a slow breath, the last confetti settling "
+        "with a warm sparkle against the night, eyes shining and warm.",
+        "She holds the glamorous celebratory look, the sequined gown shimmering soft, eyes "
+        "bright and direct (silent here).",
+    ),
+    # F6 - spoken line, cut to a fresh angle, push-with the turn
+    (
+        "Cut to a medium chest-up on a fresh angle: she shifts her weight with an easy "
+        "six-degree turn and drifts her right hand open soft in a warm easy gesture as the "
+        "camera eases with her; gaze warm to lens.",
+        "She delivers \u201cNew year. Same fire, brighter.\u201d to lens with a bright "
+        "celebratory smile and natural lip-sync, the delicate pendant catching a warm glint, "
+        "eyes warm and direct.",
+        "She holds the glamorous celebratory look as the gown settles, the smile easing into "
+        "bright calm.",
+    ),
+    # F7 - loop close, cut back to match Frame 1 hand on railing
+    (
+        "Cut to a medium-wide thigh-up matched to Frame 1: she returns her right hand to rest "
+        "soft on the rooftop railing and settles her weight onto the back leg exactly as in "
+        "Frame 1 as the camera settles to the opening framing.",
+        "She eases her gaze back to lens on a slow breath with the composed chic quarter-smile, "
+        "the sparkling celebratory glow resolving back toward the cool blue rooftop opening to "
+        "seed the loop.",
+        "She lands precisely on the Frame 1 pose and gaze, cool and chic on the night rooftop "
+        "\u2014 a seamless loop seam.",
+    ),
+]
+
+
 def build_block(beats):
     return (
         BREAKDOWN_HEADER + "\n"

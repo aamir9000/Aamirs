@@ -811,10 +811,17 @@ Per transformation concept:
      suspended build, macro build beat, radiant reveal, transform resolved, cause building to
      effect}; 7 "Cut to" beats; F4 image shows Look A. Whole file breakdown count unchanged.
   5. Commit + push.
-PASS 1 DONE: Master-Depth Build concepts 01-12 (commits through 9a72427).
+PASS 1 DONE: Master-Depth Build concepts 01-20 — COMPLETE (whole file on the L+M mid-clip/held-angle/
+match-cut/Veo-first-last-frame model; every F4 image flipped to clean Look A; 0 residue of {locked
+START/END, interpolate strictly, Camera/Transform-anchor distance, suspended build, macro build beat,
+radiant reveal, transform resolved, cause building to effect, clearly imminent, mid-sweep/wrap/bloom/
+burst/flip/draw/roll/ripple/wave, signature impossible beat}; 140 SHOT BREAKDOWN == 140 VIDEO PROMPT).
+Concepts 13-20 commits: 13=2f6f2cd, 14=89b05e0, 15=a78be97, 16=e4b5cdb, 17=79e215a, 18=5db1c32,
+19=88671e7, 20=(this commit). Engine `_tools/lm_rebuild.py` now carries BEATSLM 1-20; verifier
+`_tools/verify_lm.py "<path>" N` added (region residue + structure PASS/FAIL). GRWM/beauty-still/seated
+concepts (11 First Day, 12 Sangeet, 13 5AM, 14 Glass Skin, 16 Rain Check seated) carry a contained-pose
+tag in the Movement line; editorial/lifestyle (15,17,18,19,20) carry none (they get full motion in PASS 2).
 PASS 1 REMAINING:
-  - Master-Depth Build: concepts 13-20 (13 5AM-GRWM, 14 Glass-Skin, 15 Inked, 16 Rain Check,
-    17 Long Drive, 18 Bookshop, 19 Kitchen Light, 20 Countdown). lm_rebuild.py BEATSLM has 1-12.
   - Then the other Transformation/ files: 20 Cinematic Reels New Set; 20 More Full Reel Set 3;
     Set 4 (51); Set 5 (71); Set 5 (cont); Set 5 (cont 2); Set 5 (cont 3); Set 5 (cont 4);
     Concepts 91-110. (NOTE: these were section-B rebuilt + lean-stripped earlier but NOT yet on
