@@ -5527,7 +5527,7 @@ Hair: hair drifting weightlessly in zero-G, color locked to reference.
 
 Makeup: luminous future-glow: dewy chrome-flecked skin, a soft rose lip, subtly defined eyes, holographic highlight, real pores.
 
-Hero Movement / Impossible Move: anti-gravity dress — drifting fabric panels float toward her and assemble into a couture gown in zero-G.
+Hero Movement / Impossible Move: anti-gravity dress — contained MID-CLIP at a held angle: drifting fabric panels float toward her and assemble into a couture gown by believable real zero-G cloth dynamics (real inertia and drift, no cheap sparkles). Veo first/last-frame continuity (Frame 4 image = space-suit base-layer Look A = first frame, Frame 5 image = couture-gown Look B = last frame); every frame join is a hard match-cut to a new angle.
 
 Mood: WONDER-FUTURE, weightless, luminous.
 
@@ -5773,44 +5773,44 @@ LOOP LOGIC: the panel-release bridges to the assemble.
 
 ## Frame 4 of 6 — IMAGE PROMPT (TRANSFORM — ANTI-GRAVITY DRESS)
 
-ANGLE & SHOT SIZE: front-on FULL/wide hero, Aira floating arms-open as iridescent fabric panels drift in and assemble into a couture gown around her weightless body.
+ANGLE & SHOT SIZE: front-on FULL/wide hero, Aira floating arms-opening in her space-suit base-layer as the iridescent fabric panels begin to drift in toward her, the vast Earth-window behind — the clean Look A the clip opens on, the gown NOT yet assembled.
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: this is the START frame of the transform CLIP — render her fully in the space-suit base-layer Look A (the exact still the Frame-4 video opens on, and Veo's FIRST frame): the sleek space-suit base-layer, visor-band pushed back, arms beginning to open as the iridescent panels drift in toward her (the gown NOT yet assembled). The anti-gravity dress happens MID-CLIP at this same HELD angle (the camera drift-with in the zero-G, never an angle rotation; the panels assemble into the couture gown by believable real zero-G cloth dynamics — real inertia and drift, no cheap sparkles), resolving into Frame 5's couture-gown image (Veo's LAST frame). Her face and proportions stay constant. Do NOT depict the gown assembled in this still and do NOT invent a new face, new hands or new bone structure.
 
-WARDROBE: the space-suit base-layer being overlaid by drifting iridescent fabric panels assembling into a couture gown, modest neckline and length, edges drifting weightlessly.
+WARDROBE: the sleek space-suit base-layer at its best, modest neckline and length, fully intact (the couture gown not yet assembled).
 
-FOOTWEAR: chrome boots resolving into luminous mag-lock heels.
+FOOTWEAR: chrome boots, mag-locked.
 
-EYEWEAR: visor-band pushed back up (clean face for the hero beat).
+EYEWEAR: visor-band pushed back up (clean face).
 
-ACCESSORIES: orbs orbiting into a forming light-collar, sash weaving into the gown, wrist-console glowing.
+ACCESSORIES: glowing orbs drifting nearby, the wrist-console glowing — the pod look.
 
-HAIR: long hair fanning weightlessly in the assemble-draft, holo-lit.
+HAIR: long hair fanning weightlessly in the real zero-G, holo-lit.
 
-MAKEUP: future-glow at full luminous sheen, rose lip, holographic highlight blazing.
+MAKEUP: a future-glow, rose lip; real pores and fine vellus texture.
 
-HANDS & NAILS: both arms opening as the panels assemble, fingers gracefully splayed; chrome-pink nails.
+HANDS & NAILS: both arms beginning to open as the panels drift in, fingers relaxed; chrome-pink nails, neat cuticles.
 
-FACIAL MICRO-DYNAMICS: a radiant awed smile, lips parted on a delighted breath, eyes wide with wonder, brows lifted.
+FACIAL MICRO-DYNAMICS: a serene anticipatory gaze tracking the converging panels, lips parted on a held breath, eyes bright — fully recognizable, identity-locked, ready for the assemble mid-clip.
 
-BODY POSTURE & WEIGHT: weightless mid-spread, body lengthening, arms blooming — full of buoyant drifting momentum, never frozen.
+BODY POSTURE & WEIGHT: floating upright in real zero-G, body long, arms beginning to open — poised, the instant before the assemble.
 
-KINETIC STILLNESS (8 layers): (1) fabric panels drifting in and assembling; (2) the couture gown forming and rippling weightlessly; (3) panels flung in slow arcs; (4) hair fanning; (5) a slow breath; (6) the light-collar settling; (7) LED-glow sweeping; (8) lashes flaring.
+KINETIC STILLNESS (8 layers): (1) iridescent panels drifting in from the pod; (2) the vast Earth-window glowing behind; (3) long hair fanning in the real zero-G; (4) a glowing orb orbiting slow; (5) a slow breath; (6) the wrist-console glowing; (7) the base-layer rippling in the still air; (8) lashes settling on a blink.
 
-SPATIAL LOGIC: FOREGROUND — a drifting panel nearest lens, sharp. MIDGROUND — Aira and the assembling gown. BACKGROUND — the Earth-window, clean for the assemble to read.
+SPATIAL LOGIC: FOREGROUND — a drifting panel nearest lens, tack sharp. MIDGROUND — Aira in the base-layer, the hero. BACKGROUND — the vast Earth-window and star-black pod, the world present and vast.
 
-LIGHTING: KEY — warm-white LED igniting the iridescent panels. FILL — cyan LED. RIM — Earth-glow rim lighting the gown iridescent. PRACTICAL — LEDs, console, Earth-light. SEPARATION — luminous gown vs star-black. BOUNCE — white-panel kick.
+LIGHTING: KEY — warm-white LED. FILL — cyan LED. RIM — Earth-glow rim. PRACTICAL — LEDs, console, Earth-light. SEPARATION — figure vs star-black. BOUNCE — white-panel kick.
 
-LENS + DOF + BOKEH: 35mm, f/2.8; focus on Aira and the assembling gown; drifting panels as iridescent bokeh; background creamy.
+LENS + DOF + BOKEH: 35mm, f/2.8; focus on Aira; the Earth-window and pod as soft bokeh, clearly present and vast behind.
 
-COMPOSITION: 9:16, the panels spiralling in as a dynamic radial, Aira centred-floating, headroom for the drift.
-SUBJECT FRAMING & POSITION: A front-on full/wide hero, Aira floating arms-open as iridescent fabric panels drift in and assemble into a couture gown. The complete figure is in frame, centred in a weightless mid-spread, body lengthening, arms blooming. Camera at full/wide distance, the panels drifting around her. She faces front, centred and aloft, dominant in frame. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+COMPOSITION: 9:16, Aira floating centred, panels beginning to converge, the Earth-window behind, headroom for the drift.
+SUBJECT FRAMING & POSITION: A front-on full/wide hero, Aira floating in the space-suit base-layer Look A as the panels drift in — the clean still the transform clip opens on. The complete figure is in frame, floating upright in real zero-G, the vast Earth-window present behind. Camera at full/wide distance. She faces front, centred and aloft. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
-ATMOSPHERE: awe, future magic — fabric assembling itself in orbit.
+ATMOSPHERE: serene awe — the hush before the fabric assembles in orbit.
 
-COLOUR GRADE: vivid future white-and-cyan with iridescent gown, glossy speculars, full mid-tone.
+COLOUR GRADE: future white-and-cyan balanced against star-black with an iridescent accent (rich but controlled, never blown out), glossy speculars, full mid-tone.
 
-TEXTURE & MICRO-DETAIL: iridescent panel sheen, assembling weave, holo-lit skin, drifting hair, lip detail on the breath.
+TEXTURE & MICRO-DETAIL: space-suit base-layer weave, iridescent panel sheen, holo-lit skin, drifting hair.
 
 NEGATIVE: (as Frame 1) plus identity drift, melted features, immodest exposure, broken zero-G physics, plastic skin.
 
@@ -5823,9 +5823,9 @@ SHOT TYPE & ANGLE: front-on full/wide hero, subject fills ~55%, floating centred
 LENS: 35mm, f/2.8.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Front-on full/wide hero, floating centred: the iridescent panels are already drifting in toward her as a weightless orbit eases to dead-front with a slow drift-in; gaze tracking the converging cloth.
-- [00:02–00:04] The panels assemble into the couture gown around her weightless body; chin lifting, eyes widening in radiant wonder, hair fanning out.
-- [00:04–00:06] Her arms open and a radiant awed smile lands to lens, the gown settling around her in the zero-G, eyes alight.
+- [00:00–00:02] Cut to a front-on full/wide hero at a HELD angle (Veo first frame = the space-suit base-layer Look A still): already in motion, a gentle drift-with in the zero-G as the iridescent panels drift in toward her — the base-layer fully intact, the gown NOT yet assembled, the Earth-window vast behind; gaze tracking the converging cloth.
+- [00:02–00:04] The assemble BEGINS here, mid-clip: the drifting panels converge and assemble smoothly into the couture gown around her exactly where they meet her — believable real zero-G cloth dynamics, panels drifting with real inertia, hair fanning in the real zero-G (no cheap sparkles), the Earth-window glowing behind; chin lifting, eyes widening in radiant wonder (angle held, identity locked).
+- [00:04–00:06] The assemble completes and the look settles smoothly and fully into the couture gown of Frame 5's still (Veo's LAST frame), the gown rippling in the zero-G — a radiant awed smile landing, no last-second snap.
 
 FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
@@ -5837,7 +5837,7 @@ FABRIC/HAIR/PROP PHYSICS: panels drift and assemble with zero-G dynamics; hair f
 
 FOOTWORK & BODY FLOW: a soft drift into a tall weightless spread, the body uncoiling.
 
-TRANSITION / IMPOSSIBLE MOVE: THE hero move — drifting fabric panels float in and assemble into a couture gown in zero-G; locked transform keyframe.
+TRANSITION / IMPOSSIBLE MOVE: THE hero move, contained mid-clip at a held angle (camera drift-with in the zero-G, never an angle rotation) — drifting fabric panels assemble into the couture gown by believable real zero-G cloth dynamics; Veo first frame = this frame's space-suit base-layer Look A image, last frame = Frame 5's couture-gown image; every frame join is a hard match-cut to a new angle.
 
 LIGHTING-IN-MOTION: LED and Earth-light ignite the panels iridescent as they assemble; glow blooms across the pod.
 
