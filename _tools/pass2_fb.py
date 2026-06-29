@@ -1267,6 +1267,163 @@ CINE[5] = {
 }
 
 
+# CONCEPT 6 — CHROME ELEVATOR COUTURE (per-floor colour world · SILENT · controlled vibrancy)
+CINE[6] = {
+ 1: {
+  "posture": "GAZE sweeping the mirrored car then fixing on the panel; HEAD level, turning to the buttons; SHOULDERS architectural and squared; RIGHT ARM drawing the opera glove up the LEFT forearm, the RIGHT HAND smoothing the glove, RIGHT FINGERS articulate along the satin; LEFT ARM extended for the glove then reaching toward the panel, the LEFT HAND near the button panel, LEFT FINGERS poised; TORSO tall and architectural; WAIST & HIPS squared with a slight forward set; RIGHT LEG (lead) stepping over the threshold into the car, knee soft; LEFT LEG pushing off behind at the door; FEET & WEIGHT transferring onto the lead boot inside the car; HAIR sleek and sharp under the LED strip — sharp, never rigid (living stillness).",
+  "hands": "RIGHT HAND drawing the single statement opera glove up the left forearm, RIGHT FINGERS articulate along the satin; LEFT HAND poised near the button panel, LEFT FINGERS ready; short squared nails in chrome-nude, neat, no white-knuckle tension.",
+  "framing": "She steps into the mirrored chrome car, weight transferring onto the lead boot, right hand drawing the opera glove up her forearm and left poised near the button panel, torso tall and architectural amid infinite reflections.",
+  "b1": "Front-on medium-wide: she is already stepping over the threshold into the mirrored chrome elevator — weight transferring onto the lead boot, right hand drawing the opera glove up her arm — as a slow push follows her in, infinite reflections sliding behind and the LED strip glowing; gaze sweeping the car.",
+  "b2": "The push glides as she finishes drawing the statement glove up her arm with articulate fingers, chrome speculars travelling; a cool composed set to her eyes.",
+  "b3": "She turns to the button panel and reaches her left hand toward it, weight settling square, gaze fixing on the glowing button with editorial focus.",
+ },
+ 2: {
+  "posture": "GAZE (implied) down to the button; the press read through the extended arm; RIGHT ARM extended with poise, the gloved RIGHT HAND reaching, the RIGHT FINGERTIP pressing the glowing floor button, RIGHT FINGERS articulate at the press; LEFT ARM implied easy at her side; TORSO implied tall above, weight settled; WAIST & HIPS implied square; FEET & WEIGHT settled even as the arm extends — a deliberate elegant press, the LED blooming ruby under the gloved fingertip.",
+  "hands": "The gloved RIGHT FINGERTIP pressing the glowing floor button, RIGHT FINGERS clean and articulate at the press, the LED blooming ruby under the touch; chrome-nude nail, neat, no white-knuckle tension.",
+  "framing": "A macro on the gloved fingertip pressing the glowing floor button with the arm extended in poise, the LED igniting ruby under the touch, the body implied tall and settled above.",
+  "b1": "Extreme macro on the gloved fingertip: it is already approaching the glowing floor button as a slow push closes in, the arm extended in poise, chrome reflections curving around it.",
+  "b2": "The fingertip presses and the LED blooms ruby, light igniting under the glove and the finger articulate at the contact.",
+  "b3": "The ruby wash spills outward across the polished chrome as the fingertip eases off, the mirror-reflections catching fire with colour.",
+ },
+ 3: {
+  "posture": "GAZE turning to the widening door-gap; HEAD level in clean profile; SHOULDERS architectural with a slight lean toward the opening world; RIGHT ARM raised to the visor, the gloved RIGHT HAND lowering the sculptural visor, RIGHT FINGERS at its edge; LEFT ARM poised at her side, the LEFT HAND easy, LEFT FINGERS relaxed; TORSO tall in profile, leaning a touch toward the ruby hall; WAIST & HIPS even with a slight forward set; RIGHT LEG and LEFT LEG in an even powerful stance; FEET & WEIGHT settled even, ready to step; HAIR sleek in the spilled ruby light — powerful, alive.",
+  "hands": "Gloved RIGHT HAND at the visor lowering it, RIGHT FINGERS at the edge; LEFT HAND poised easy at the side, LEFT FINGERS relaxed; chrome-nude nails, neat, no white-knuckle tension.",
+  "framing": "Standing tall in profile as the doors open on the ruby hall, weight even with a slight lean toward the opening world, gloved right hand lowering the visor and left poised at the side — the clean resolved ruby reveal.",
+  "b1": "Cut to a clean profile medium at a HELD angle: already in motion, the elevator chimes and the doors are parting as a gentle push-with eases in — chrome-neutral still on her couture, her right hand rising to the visor, the ruby hall beginning to show beyond; gaze turning to the widening gap.",
+  "b2": "The re-tone BEGINS here, mid-clip: ruby door-light washes smoothly across her body and her couture re-tones deep ruby as the velvet hall blooms beyond and she leans a touch toward it — a light-wash, never a snap, the angle held; eyes catching the warm glow.",
+  "b3": "The wash completes and settles into the clean resolved ruby reveal (this frame's still = Veo last frame) as her gloved hand lowers the sculptural visor, a cool powerful calm in her eyes.",
+ },
+ 4: {
+  "posture": "GAZE flicking to the cool cobalt light then steadying; HEAD and chin lifting into the light; SHOULDERS rising taller and architectural; RIGHT ARM raised near the jaw, the gloved RIGHT HAND adjusting the visor at the jawline, RIGHT FINGERS articulate; LEFT ARM easy at her side, the LEFT HAND relaxed, LEFT FINGERS soft; TORSO grounding taller into the cool light; WAIST & HIPS square and grounded; RIGHT LEG and LEFT LEG even and planted; FEET & WEIGHT grounding taller and even; HAIR sleek in the cobalt wash — commanding, fluid (read from the low hero angle).",
+  "hands": "Gloved RIGHT HAND near the jaw adjusting the visor, RIGHT FINGERS articulate; LEFT HAND easy at her side, LEFT FINGERS soft; chrome-nude nails, neat, no white-knuckle tension.",
+  "framing": "From a low hero angle her chin and shoulders rise into the cool light, weight grounding taller, gloved right hand adjusting the visor at the jaw and left easy at her side — the clean resolved cobalt reveal.",
+  "b1": "Cut to a low-angle close-up at a HELD low angle: already in motion, the doors sliding shut on ruby and reopening on a cobalt glass atrium as a gentle push-with eases in — ruby still on her for a beat, her right hand rising near the jaw; gaze flicking to the cool light.",
+  "b2": "The re-tone BEGINS here, mid-clip: cobalt light washes smoothly over her and her couture re-tones deep cobalt as the glass atrium blooms beyond and her chin lifts into it — a light-wash, never a snap, the low angle held; eyes cooling, brow settling into command.",
+  "b3": "The wash completes and settles into the clean resolved cobalt reveal (this frame's still = Veo last frame), she lifting her chin into the cool light with a confident set, the gloved hand easing from the jaw, gaze steady and bold.",
+ },
+ 5: {
+  "posture": "GAZE rising into the gold then landing to lens; HEAD high and proud; SHOULDERS architectural and open; RIGHT ARM framing at the hip, the gloved RIGHT HAND set on the hip, RIGHT FINGERS along the hipbone; LEFT ARM gesturing outward into the gold gallery, the LEFT HAND open, LEFT FINGERS gracefully spread; TORSO squaring tall as she steps out; WAIST & HIPS grounded and open; RIGHT LEG (lead) stepping out of the car onto the gallery floor, knee soft; LEFT LEG pushing off behind at the threshold; FEET & WEIGHT grounding onto the lead foot in a poster-grade hero stance; HAIR sleek in the gold light — architectural and open, alive.",
+  "hands": "Gloved RIGHT HAND framing set on the hip, RIGHT FINGERS along the hipbone; LEFT HAND gesturing outward into the gold gallery, LEFT FINGERS gracefully spread; chrome-nude nails, neat, no white-knuckle tension.",
+  "framing": "She steps out of the car and squares tall into the gold-leaf gallery, weight grounding onto the lead foot, gloved right hand framing at the hip and left gesturing outward into the gold — a poster-grade hero stance.",
+  "b1": "Cut to a front-on full/wide hero at a HELD angle: already in motion, the doors opening fully on a gold-leaf gallery as she steps out — weight grounding onto the lead foot, right hand framing at the hip — and a slow push-with settles toward dead-front; cobalt still on her for a beat, gaze rising into the gold.",
+  "b2": "The re-tone BEGINS here, mid-clip: gold gallery light washes smoothly over her and her couture re-tones warm gold as she squares tall and gestures out, reflections glinting — a light-wash, never a snap, the angle held; eyes proud and luminous.",
+  "b3": "The wash completes and settles into the clean resolved gold HERO reveal (this frame's still = Veo last frame) as she frames a powerful editorial pose, right hand on the hip and left open to the gallery, a radiant micro-smile landing to lens.",
+ },
+ 6: {
+  "posture": "GAZE following the chrome then sweeping the car; HEAD turning back toward the elevator; SHOULDERS easing back toward the entry set; RIGHT ARM reaching back toward the open car, the gloved RIGHT HAND open toward it, RIGHT FINGERS extended — echoing the entry; LEFT ARM easing in, the LEFT HAND soft, LEFT FINGERS relaxed; TORSO rotating back toward the car; WAIST & HIPS shifting toward the lead boot; RIGHT LEG (lead) taking the weight as she turns back; LEFT LEG easing free behind; FEET & WEIGHT shifting onto the threshold foot, reasserting the entry stance; HAIR sleek as the gold cools toward chrome.",
+  "hands": "Gloved RIGHT HAND reaching back toward the open car, RIGHT FINGERS extended — echoing Frame 1's entry; LEFT HAND soft, LEFT FINGERS relaxed; chrome-nude nails, neat, no white-knuckle tension.",
+  "framing": "She turns back toward the elevator, weight shifting onto the lead boot, gloved right hand reaching back toward the open car as the gold cools toward chrome-neutral, reasserting the Frame-1 entry stance for a seamless loop.",
+  "b1": "Front-on medium-wide matching Frame 1: a slow pull-back into the car is already reversing the opening push as she turns back toward the elevator, weight shifting onto the threshold foot and her right hand reaching back; gaze following the chrome.",
+  "b2": "The pull-back continues as the gold tone cools back to chrome-neutral and the visor slides up under her gloved hand, reflections calming; a composed cool expression returning.",
+  "b3": "She settles into the exact entry stance of Frame 1, weight on the threshold foot, eyes sweeping the mirrored car — a seamless loop seam.",
+ },
+}
+
+# CONCEPT 7 — CANDY ROOFTOP RUNWAY (balloon-lift float · SPOKEN F4 · believable buoyancy)
+CINE[7] = {
+ 1: {
+  "posture": "GAZE bright and happy, flicking to the balloons; HEAD level with a buoyant lift; SHOULDERS light and lifted; RIGHT ARM raised toward the face, the RIGHT HAND reaching up to clip the heart sunglasses down, RIGHT FINGERS at the frame; LEFT ARM swinging lightly with the bounce, the LEFT HAND open, LEFT FINGERS loose; TORSO buoyant and tall; WAIST & HIPS bouncing soft with the step; RIGHT LEG (lead) rolling onto the loafer as she steps onto the rug, knee springy; LEFT LEG pushing off light behind; FEET & WEIGHT rolling onto the lead loafer with a light bounce; HAIR bouncy with the step, pleated skirt swishing — bouncy, never stiff (living stillness).",
+  "hands": "RIGHT HAND reaching up to clip the heart sunglasses down onto her nose, RIGHT FINGERS at the frame; LEFT HAND swinging lightly, LEFT FINGERS loose; short round nails in pastel pink, neat, no white-knuckle tension.",
+  "framing": "She steps onto the candy-striped runway with a light bounce, weight rolling onto the lead loafer, right hand clipping the heart sunglasses down and left swinging, torso buoyant and tall against the pastel skyline.",
+  "b1": "Front-on medium-wide: she is already stepping onto the candy-striped runway rug with a light bounce — weight rolling onto the lead loafer, left arm swinging — as a slow push drifts in, pleated skirt swishing and the peach skyline glowing behind; eyes bright and happy.",
+  "b2": "The push bounces gently closer as she reaches up and clips the heart sunglasses down onto her nose with her right hand, a playful grin starting; gaze flicking to the balloons.",
+  "b3": "She beams toward the sherbet balloons at the rug edge, weight bouncing soft onto the lead foot, cheeks lifting in joyful anticipation, eyes sparkling.",
+ },
+ 2: {
+  "posture": "GAZE (implied) down to the ribbons; the gather read through the relaxed arm; RIGHT ARM relaxed and reaching, the RIGHT HAND wrapping the balloon ribbons, RIGHT FINGERS articulate and gentle around them, bead bracelets sliding; LEFT ARM implied easy; TORSO implied tall above, weight settled; WAIST & HIPS implied square; FEET & WEIGHT settled even as she gathers — soft and playful, the ribbons beginning to tug upward.",
+  "hands": "RIGHT HAND wrapping the balloon ribbons, RIGHT FINGERS articulate and gentle around them, bead bracelets sliding; pastel-pink round nails, neat, no white-knuckle tension.",
+  "framing": "A macro on her pastel-nailed right hand closing around the balloon ribbons with gentle articulate fingers, the arm relaxed and the bundle bunching as the ribbons begin to tug, the body implied settled above.",
+  "b1": "Extreme macro on her pastel-nailed hand: her fingers are already reaching into the balloon ribbons as a slow push closes in, sherbet balloons soft behind.",
+  "b2": "She gathers and wraps the ribbons in her palm, the bundle bunching together and the fingers articulate around them.",
+  "b3": "The ribbons tauten and tug upward as the balloons pull, her grip flexing against the real lift.",
+ },
+ 3: {
+  "posture": "GAZE lifting to the balloons overhead; HEAD tilting up with the twirl; SHOULDERS opening into the spiral; RIGHT ARM high on the ribbons, the RIGHT HAND gripping them aloft, RIGHT FINGERS wrapped; LEFT ARM floating out for balance, the LEFT HAND open, LEFT FINGERS graceful; TORSO spiralling gracefully into the twirl; WAIST & HIPS rotating with the twirl; RIGHT LEG the pivoting leg, the heel just lifting off the rug, knee soft; LEFT LEG sweeping free, trailing light; FEET & WEIGHT lightening as the balloons pull up, the heels just leaving the rug; HAIR and pleated skirt flaring out — buoyant and fluid.",
+  "hands": "RIGHT HAND high on the ribbons gripping them aloft, RIGHT FINGERS wrapped; LEFT HAND floating out for balance, LEFT FINGERS graceful; pastel-pink round nails, neat, no white-knuckle tension.",
+  "framing": "She begins to twirl with the balloons, right hand high on the ribbons and left floating out for balance, the heels just lifting off the rug as the body spirals and the skirt flares — buoyant and lightening.",
+  "b1": "Three-quarter front medium: she is already beginning to twirl with the balloons — right hand high on the ribbons, left floating out — as a smooth arc follows her with a gentle rise, the pleated skirt flaring out; a delighted grin spreading.",
+  "b2": "Her heels lift off the rug as the balloons pull her upward and the arc rises with her, the left arm floating for balance; eyes widening with giddy joy.",
+  "b3": "She laughs openly as she floats up into the lift, the body spiralling soft, gaze lifting to the balloons overhead, cheeks round with delight.",
+ },
+ 4: {
+  "posture": "GAZE alight in buoyant wonder then opening to lens for the line; HEAD lifting toward the balloons then turning to lens; SHOULDERS open and lifted; RIGHT ARM holding the ribbons overhead, the RIGHT HAND gripping them, RIGHT FINGERS wrapped; LEFT ARM opening outward in joy, the LEFT HAND open with LEFT FINGERS splayed gracefully; TORSO softly curved in a buoyant arc with real weight; WAIST & HIPS in a gentle buoyant twirl; RIGHT LEG bent soft beneath her, LEFT LEG trailing below; FEET & WEIGHT lifted a few feet above the rooftop on the balloons' real buoyancy, body lifting with real weight; HAIR and skirt drifting in the real air — full of buoyant lifting momentum, grounded and believable, never frozen.",
+  "hands": "RIGHT HAND holding the ribbons overhead, RIGHT FINGERS wrapped; LEFT HAND opening outward in joy, LEFT FINGERS splayed gracefully; pastel-pink round nails, neat, no white-knuckle tension.",
+  "framing": "She floats a few feet above the rooftop on the balloon cluster — right hand holding the ribbons overhead, left opening outward in joy, body softly curved with real weight and one leg trailing, the city glowing below.",
+  "b1": "Cut to a low-angle full/wide hero: already in motion, the taut-ribboned balloon cluster lifting her off the rug as a smooth crane rises WITH her — right hand on the ribbons overhead, left beginning to open — holding her in frame, the city glowing below; eyes alight in buoyant wonder.",
+  "b2": "The lift continues mid-clip into a gentle buoyant twirl, her body rising with real weight on the balloons' pull, one leg trailing, skirt and curls drifting in the real air and ribbons taut overhead, the crane carrying the glowing city behind; a joyful smile.",
+  "b3": "At the gentle apex she opens her left arm and delivers \u201csome days, you just have to float.\u201d to lens with a laughing smile, eyes crinkling in pure delight, the balloons bobbing on real buoyancy.",
+ },
+ 5: {
+  "posture": "GAZE soft toward the rug; HEAD level in clean profile, easing down; SHOULDERS easing soft; RIGHT ARM on the ribbons, the RIGHT HAND holding them, RIGHT FINGERS wrapped; LEFT ARM reaching gently down for balance, the LEFT HAND open, LEFT FINGERS soft; TORSO descending in profile through a long line; WAIST & HIPS easing down as weight returns; RIGHT LEG reaching down, the pointed toe stretching for the rug; LEFT LEG following soft below; FEET & WEIGHT returning gently as the toe reaches for the candy-striped rug; HAIR settling from the float — fluid and soft.",
+  "hands": "RIGHT HAND on the ribbons holding them, RIGHT FINGERS wrapped; LEFT HAND reaching gently down for balance, LEFT FINGERS soft; pastel-pink round nails, neat, no white-knuckle tension.",
+  "framing": "In clean profile she drifts back down, right hand on the ribbons and left reaching down for balance, the pointed toe reaching for the rug as her weight returns gently through a long line.",
+  "b1": "Profile medium-wide in side silhouette: she is already drifting back down — right hand on the ribbons, left reaching down — as a smooth descend-and-track moves alongside, the balloons easing their pull; gaze soft toward the rug.",
+  "b2": "Her pointed toe reaches for the candy-striped rug and the descent gentles, weight beginning to return through the foot; a content happy smile lingering.",
+  "b3": "She settles her weight onto the rug and begins to turn back, the ribbons easing in her hand, eyes drifting toward the runway start.",
+ },
+ 6: {
+  "posture": "GAZE sweeping the rooftop then to the skyline; HEAD turning back toward the runway start; SHOULDERS easing back to the entry set; RIGHT ARM lowering, the RIGHT HAND releasing the ribbons toward the rug edge, RIGHT FINGERS opening off them; LEFT ARM raised, the LEFT HAND reaching up to the glasses, LEFT FINGERS at the frame — echoing Frame 1; TORSO rotating back toward the runway start; WAIST & HIPS shifting toward the runway-start foot; RIGHT LEG (lead) taking the weight as she turns; LEFT LEG easing free behind; FEET & WEIGHT shifting onto the runway-start foot, reasserting the entry stance; HAIR settling as the balloons settle at the rug edge.",
+  "hands": "RIGHT HAND releasing the ribbons toward the rug edge, RIGHT FINGERS opening off them; LEFT HAND reaching up to the heart sunglasses, LEFT FINGERS at the frame — echoing Frame 1; pastel-pink round nails, neat, no white-knuckle tension.",
+  "framing": "She turns back toward the runway start, weight shifting onto the runway-start foot, right hand releasing the ribbons toward the rug edge and left reaching up to the glasses, reasserting the Frame-1 entry stance for a seamless loop.",
+  "b1": "Front-on medium-wide matching Frame 1: a slow pull-back to the runway start is already reversing the opening push as she turns back, weight shifting onto the lead foot and her right hand releasing the ribbons; gaze sweeping the rooftop.",
+  "b2": "The pull-back continues as the balloons settle at the rug edge and the heart sunglasses slide up into her hair under her left hand; a bright easy smile returning.",
+  "b3": "She settles into the exact entry stance of Frame 1, weight on the lead foot, eyes happy on the skyline — a seamless loop seam.",
+ },
+}
+
+# CONCEPT 8 — MIDNIGHT FLOWER MARKET (bloom-burst veil · SILENT · real petal physics)
+CINE[8] = {
+ 1: {
+  "posture": "GAZE lifting to the warm lanterns; HEAD tilting up to the strung lights; SHOULDERS open and tall; RIGHT ARM lifting the dupatta edge, the RIGHT HAND holding it light, RIGHT FINGERS at the hem with mehndi at the wrist; LEFT ARM reaching up toward a hanging garland, the LEFT HAND open toward the blooms, LEFT FINGERS articulate; TORSO tall and open through the step; WAIST & HIPS rotating gently with the step; RIGHT LEG (lead) rolling onto the jutti as she steps into the aisle, knee soft; LEFT LEG pushing off behind; FEET & WEIGHT rolling onto the lead jutti; HAIR soft, dupatta drifting — graceful, never stiff (living stillness).",
+  "hands": "RIGHT HAND lifting the dupatta edge, RIGHT FINGERS at the hem; LEFT HAND reaching toward a hanging garland, LEFT FINGERS articulate; short nails in warm rose, a hint of mehndi at the wrist, neat, no white-knuckle tension.",
+  "framing": "She steps into the lantern-lit aisle, weight rolling onto the lead jutti, right hand lifting the dupatta edge and left reaching up toward a hanging garland, torso tall and open under the strung lights.",
+  "b1": "Front-on medium-wide: she is already stepping into the lantern-lit market aisle — weight rolling onto the lead jutti, right hand lifting the dupatta edge — as a slow push glides down it, amber lanterns sliding past and the dupatta drifting; gaze lifting to the warm lights.",
+  "b2": "The push follows her in as she gazes up at the strung lanterns and hanging garlands, a soft enchanted smile, eyes catching the amber glow.",
+  "b3": "She reaches her left hand toward a hanging marigold garland, weight settling onto the lead foot, eyes warming with anticipation, fingertips brushing the blooms.",
+ },
+ 2: {
+  "posture": "GAZE (implied) up to the garland; the gesture read through both raised arms; RIGHT ARM and LEFT ARM raised gracefully overhead, BOTH HANDS raising the marigold garland over the head, RIGHT and LEFT FINGERS articulate and gentle, bangles sliding and mehndi tracery visible; TORSO implied lengthening up into the reach; WAIST & HIPS implied square, weight settled; FEET & WEIGHT settled even as the arms raise — a flowing ceremonial gesture, petals beginning to shed.",
+  "hands": "BOTH HANDS raising the marigold garland over the head, RIGHT and LEFT FINGERS articulate and gentle, bangles sliding and mehndi tracery visible; warm-rose nails, neat, no white-knuckle tension.",
+  "framing": "A macro on both hands raising the marigold garland over her head with articulate fingers and sliding bangles, the arms lengthening up in a flowing ceremonial gesture, the body implied tall below.",
+  "b1": "Extreme macro on her hands: she is already lifting a marigold garland upward with both hands as a slow push rises with it, petals and thread crisp in the lamp-light.",
+  "b2": "She lowers the garland over her head, the loop of blooms passing down past the frame and the bangles sliding down her wrists.",
+  "b3": "It settles around her neck, petals shedding gently and drifting down on real fall — foreshadowing the bloom-burst.",
+ },
+ 3: {
+  "posture": "GAZE down to the jewelled jutti then rising to the market centre; HEAD bowed to the slipper then lifting; SHOULDERS soft in a graceful bend; RIGHT ARM guiding the jutti, the RIGHT HAND easing it onto the foot, RIGHT FINGERS articulate at the heel; LEFT ARM holding the glasses, the LEFT HAND gripping them, LEFT FINGERS wrapped; TORSO bending in a long soft curve toward the lifted foot; WAIST & HIPS angled over the planted jutti; RIGHT LEG (working) lifted with the foot to a low stall step; LEFT LEG planted firm on the jutti, weight bearing; FEET & WEIGHT braced on the planted jutti as she fits the other; HAIR falling soft, mehndi at the wrist — elegant, never hunched.",
+  "hands": "RIGHT HAND guiding the jewelled jutti onto the foot, RIGHT FINGERS articulate at the heel; LEFT HAND holding the glasses, LEFT FINGERS wrapped; warm-rose nails, mehndi, neat, no white-knuckle tension.",
+  "framing": "In profile she bends gracefully toward a lifted foot on a low stall step, weight braced on the planted jutti, right hand guiding the jewelled jutti on and left holding the glasses, spine in a long soft curve.",
+  "b1": "Profile medium: she is already lifting one foot to a low stall step and guiding the jewelled jutti on with her right hand as a slow arc swings from profile toward three-quarter, weight braced on the planted foot; gaze down to the slipper.",
+  "b2": "She presses the jutti home and lowers the foot, the arc easing round and her weight settling even; a content festive calm in her eyes.",
+  "b3": "She straightens and tucks the glasses away in her left hand, weight settling even, gaze rising toward the glowing market centre with quiet expectation.",
+ },
+ 4: {
+  "posture": "GAZE lifting to the buds then widening in awe; HEAD level, chin lifting as the burst begins; SHOULDERS open as both arms lift; RIGHT ARM and LEFT ARM both lifting the bundle of fresh buds, RIGHT and LEFT FINGERS relaxed around them; TORSO standing tall at market centre, lengthening; WAIST & HIPS settled square, weight grounded; RIGHT LEG and LEFT LEG planted firm and even; FEET & WEIGHT settled grounded as she lifts the buds; HAIR soft, the garland at her neck — poised, the instant before the burst.",
+  "hands": "BOTH HANDS lifting a bundle of fresh buds, RIGHT and LEFT FINGERS relaxed around them; warm-rose nails, mehndi, neat cuticles, no white-knuckle tension.",
+  "framing": "She stands tall at market centre in her kurta-set, weight grounded even, both hands lifting a bundle of fresh buds and the torso lengthening — the clean Look A the bloom-burst opens on.",
+  "b1": "Cut to a front-on full/wide hero at a HELD angle (Veo first frame = the kurta-set Look A still): already in motion, a gentle push-with easing in as she lifts the bundle of fresh buds at market centre with both hands — the kurta-set fully intact, the burst NOT yet begun, lantern-strings and indigo night behind; gaze lifting to the buds.",
+  "b2": "The bloom-burst BEGINS here, mid-clip: the buds burst into a swirling petal-veil that weaves up her body into the marigold-and-jasmine flower-couture gown exactly where it passes as her arms open — believable real petal physics, true crease-to-bloom flutter and fine petal-fall (no cheap sparkles), the market still glowing behind; eyes widening in radiant awe (angle held, identity locked).",
+  "b3": "The swirl completes and the look settles smoothly and fully into the flower-couture gown of Frame 5's still (Veo's LAST frame), petals settling into the gown — a radiant awed smile landing, no last-second snap.",
+ },
+ 5: {
+  "posture": "GAZE ahead down the aisle then rotating back to lens; HEAD turning back over the shoulder for the glance; SHOULDERS rotating, the near shoulder dropping into the counter-motion; RIGHT ARM lifting the petal-gown edge, the RIGHT HAND gathering the bloom-hem, RIGHT FINGERS curled in the petals; LEFT ARM trailing, the LEFT HAND open, LEFT FINGERS soft; TORSO mid-stride away, rotating back for the glance in fluid counter-motion; WAIST & HIPS driving forward as the torso twists back; RIGHT LEG and LEFT LEG mid-stride, one striking, the other pushing off; FEET & WEIGHT flowing forward through the walk, weight heel-to-toe; HAIR swinging with the rotation, petals trailing — fluid counter-motion, alive.",
+  "hands": "RIGHT HAND lifting the petal-gown edge, RIGHT FINGERS curled in the bloom-hem; LEFT HAND trailing open, LEFT FINGERS soft; warm-rose nails, mehndi, neat, no white-knuckle tension.",
+  "framing": "She walks on through the market in the flower gown mid-stride, right hand lifting the petal-hem and left trailing, the torso rotating back over the dropped shoulder for a glance to lens as petals trail in her wake.",
+  "b1": "Three-quarter back over-shoulder medium: she is already walking on through the market in the flower gown — right hand lifting the petal-hem, left trailing — as the camera tracks behind in a gentle arc, the petal-train trailing; gaze ahead down the aisle.",
+  "b2": "The arc catches her as she rotates her torso and glances back to lens over the dropped shoulder, lantern-light warm in her eyes, a soft proud smile, her stride unbroken.",
+  "b3": "She faces forward again and her stride continues, petals drifting in her wake, gaze settling front.",
+ },
+ 6: {
+  "posture": "GAZE sweeping the lanterns then warm down the aisle; HEAD turning back toward the entrance; SHOULDERS easing back to the entry set; RIGHT ARM lifting the dupatta forming again, the RIGHT HAND at the hem, RIGHT FINGERS light; LEFT ARM reaching toward a garland, the LEFT HAND open toward it, LEFT FINGERS articulate — echoing Frame 1; TORSO rotating back toward the aisle entrance; WAIST & HIPS shifting toward the aisle-start foot; RIGHT LEG (lead) taking the weight as she turns; LEFT LEG easing free behind; FEET & WEIGHT shifting onto the aisle-start foot, reasserting the entry stance; HAIR settling as the gown softens to the kurta-set.",
+  "hands": "RIGHT HAND lifting the dupatta forming again, RIGHT FINGERS at the hem; LEFT HAND reaching toward a garland, LEFT FINGERS articulate — echoing Frame 1; warm-rose nails, mehndi, neat, no white-knuckle tension.",
+  "framing": "She turns back toward the aisle entrance, weight shifting onto the aisle-start foot, right hand lifting the re-forming dupatta and left reaching toward a garland as the flower gown softens to the kurta-set, for a seamless loop.",
+  "b1": "Front-on medium-wide matching Frame 1: a slow pull-back to the aisle entrance is already reversing the opening push as she turns back, weight shifting onto the lead foot and her right hand lifting the dupatta; gaze sweeping the lanterns.",
+  "b2": "The pull-back continues as the flower gown dissolves back into the embroidered kurta-set and the garland reforms at her neck, her left hand reaching toward a garland; a soft warm smile returning.",
+  "b3": "She settles into the exact entry stance of Frame 1, weight on the lead foot, eyes warm on the glowing aisle — a seamless loop seam.",
+ },
+}
+
+
 # ----------------------------------------------------------------------------------
 def find_concept_region(text, n):
     m = re.search(r'(?m)^#{1,3}\s*CONCEPT\s*0*%d\b' % n, text)
