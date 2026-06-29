@@ -118,6 +118,18 @@ woman."** Never write the character's name into a Veo prompt. Ingredient labels 
 - **PROMPT FORMAT:** as above (`@subject` + `@world` + `@look`, timed beats, one camera move, identity-locked).
 - **FILE:** `SC-01 · Petal Slipstream (Bicycle).md`
 
+### SC-02 · RIVIERA DRIFT (Vespa) — **STATUS: BUILT** · 5 shots × 6s · SILENT
+- **DIFFERENCE STRING:** pastel Vespa ride · journey **town square → bougainvillea lane → sea-reveal switchback → harbour quay → piazza overlook** · signature **golden sun-glints + sea-haze light-ribbon** (light-led, not petals) · energy **breezy glamour** · light **golden-hour Mediterranean (warming)** · wardrobe **tangerine-stripe halter midi + lemon silk headscarf** · hair **soft waves under headscarf** · shot-grammar **aerial-pan / low ground-track / bike-mounted ride-along / over-shoulder / crane pull-back**.
+- **THEME:** a glamorous coastal descent to the sea; light-led signature; candid. **FILE:** `SC-02 · Riviera Drift (Vespa).md`
+
+### SC-06 · MARKET DASH (Run) — **STATUS: BUILT** · 5 shots × 6s · SILENT
+- **DIFFERENCE STRING:** run/weave · journey **flower bazaar → spice arcade → fabric souk → fruit & lantern lane → fountain square** · signature **colour-burst (petals + sun-caught spice-dust + fabric/bunting)** · energy **fast joyful chaos** · light **dappled bright mid-morning → open square** · wardrobe **gingham crop + butter culottes** · hair **double space-buns** · shot-grammar **top-down boom / over-shoulder track-behind / whip-pan half-orbit / parallel profile / CU→pull-out**.
+- **THEME:** a joyful sprint-weave through a bursting bazaar; colour lifts in her wake. **FILE:** `SC-06 · Market Dash (Run).md`
+
+### SC-16 · BECOME THE BLOOM (Material → Couture) — **STATUS: BUILT** · 3 shots × 6s · SILENT
+- **DIFFERENCE STRING:** walk + **wardrobe-transform** · journey **garden path → marble colonnade → fountain court** · signature **blossom-petal+light material BUILDS into a couture gown** (wardrobe transforms — the intentional exception) · energy **luxe metamorphosis** · light **soft luxe sun → bright key** · hair **sculptural low chignon** · **3rd ingredient = `@texture`** (not `@look`).
+- **THEME:** most ingredient-native — a material becomes haute couture, grounded. **FILE:** `SC-16 · Become the Bloom (Material to Couture).md`
+
 ## CONCEPT ROADMAP — difference strings (planned, not yet built)
 *(rickshaw dropped; redundant 2nd-blossom dropped; each has a UNIQUE signature/energy/light)*
 - **SC-02 Riviera Drift** — pastel Vespa · clifftop town→switchback→harbour→piazza · sea-spray + sun-glints · golden-hour Med · halter midi · silk-headscarf waves · 5 shots
