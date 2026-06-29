@@ -150,6 +150,18 @@ woman."** Never write the character's name into a Veo prompt. Ingredient labels 
 - **DIFFERENCE STRING:** parkour free-run · journey **rooftop garden → laundry maze → water-tank deck → edge leap** · signature **pigeon-burst + snapping flags/laundry + hard light** · energy **powerful athletic** · light **hard high-noon city** · wardrobe **coral crop + electric-blue leggings + white windbreaker** · hair **sleek slicked high pony** · shot-grammar **low-hero track-with / over-shoulder track-behind / whip-pan low wide / side-profile leap-arc**.
 - **THEME:** powerful high-noon free-run; gap-leap money shot. **FILE:** `SC-07 · Rooftop Run (Parkour).md`
 
+### SC-08 · PETAL PROMENADE (Editorial Walk) — **STATUS: BUILT** · 4 shots × 6s · SILENT
+- **DIFFERENCE STRING:** editorial runway walk · journey **blossom avenue → marble colonnade → garden stairs → reflecting pool** · signature **cherry-blossom storm + mirror-light** (THE petal concept) · energy **serene editorial elegance** · light **soft diffused overcast-pink** · wardrobe **blush chiffon cape-sleeve gown + pearls** · hair **soft glam half-up waves** · shot-grammar **low dolly-in / track-with / high descend-boom / hero push-in+pull-back**.
+- **THEME:** poised blossom-world walk; pool blossom-whirl money shot. **FILE:** `SC-08 · Petal Promenade (Editorial Walk).md`
+
+### SC-09 · PUDDLE SYMPHONY (Rain-Break) — **STATUS: BUILT** · 4 shots × 6s · SILENT
+- **DIFFERENCE STRING:** rain-break walk/dance · journey **wet plaza → sheltered arcade → fountain court → sun-break square** · signature **splash-crowns + clean rainbow-prism light** · energy **rain-break catharsis** · light **storm-silver breaking into warm sun** · wardrobe **marigold vinyl raincoat + polka dress + red wellies + clear umbrella** · hair **wet-look low pony** · shot-grammar **high overhead / parallel profile / low orbit / hero push-in+pull-back**.
+- **THEME:** joyful rain-to-sun; sun-break puddle-stomp money shot. **FILE:** `SC-09 · Puddle Symphony (Rain-Break).md`
+
+### SC-11 · GONDOLA REVERIE (Gondola) — **STATUS: BUILT** · 4 shots × 6s · SILENT
+- **DIFFERENCE STRING:** Venetian gondola (seated passenger) · journey **side canals → under a bridge → grand canal → lagoon mouth** · signature **water-mirror reflections + drifting golden light + petals** · energy **dreamy vintage** · light **soft golden Venice afternoon (warm/muted)** · wardrobe **emerald vintage day-dress + gloves + lace parasol + pearls** · hair **braided ribbon updo** · shot-grammar **high descend / water-line dolly-through / parallel profile / crane pull-back**.
+- **THEME:** dreamy canal glide; bridge→grand-canal reveal money shot. **FILE:** `SC-11 · Gondola Reverie (Gondola).md`
+
 ## CONCEPT ROADMAP — difference strings (planned, not yet built)
 *(rickshaw dropped; redundant 2nd-blossom dropped; each has a UNIQUE signature/energy/light)*
 - **SC-02 Riviera Drift** — pastel Vespa · clifftop town→switchback→harbour→piazza · sea-spray + sun-glints · golden-hour Med · halter midi · silk-headscarf waves · 5 shots
