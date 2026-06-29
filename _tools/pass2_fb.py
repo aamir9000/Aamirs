@@ -1583,6 +1583,163 @@ CINE[11] = {
 }
 
 
+# CONCEPT 12 — ZERO-GRAVITY DRESSING ROOM (anti-gravity dress · SILENT · weightless zero-G)
+CINE[12] = {
+ 1: {
+  "posture": "GAZE wide with wonder, tracing the starfield; HEAD level, drifting with a faint roll; SHOULDERS open and streamlined; RIGHT ARM braced back on the wall having just pushed off, the RIGHT HAND flat on the curved white wall, RIGHT FINGERS spread on it; LEFT ARM reaching forward for the floating boot, the LEFT HAND open toward it, LEFT FINGERS articulate; TORSO in a long graceful diagonal float; WAIST & HIPS neutral and drifting; RIGHT LEG extended long, LEFT LEG softly bent in counter-balance; FEET pointed soft; WEIGHT neutral (zero-G, no ground contact); HAIR lifting in the zero-G — fluid neutral buoyancy, never stiff (living stillness).",
+  "hands": "RIGHT HAND flat on the curved white wall having just pushed off, RIGHT FINGERS spread on it; LEFT HAND reaching for the floating chrome boot, LEFT FINGERS articulate; short nails in chrome-pink, neat, no white-knuckle tension.",
+  "framing": "She floats mid-pod in a long graceful diagonal, right hand spread on the curved wall from the push-off and left reaching for the floating boot, one leg extended and the other softly bent in neutral buoyancy, the vast Earth-window behind.",
+  "b1": "Wide establishing of the luminous pod: she is already pushing gently off a curved wall with her right hand and drifting mid-frame in a long diagonal as a weightless drift-in with a faint roll matches her float, the vast Earth-window behind; eyes wide with wonder.",
+  "b2": "The drift carries her as she scans the pod and the blue Earth beyond, her left arm reaching out and hair lifting in the zero-G; gaze tracing the starfield, lips parted.",
+  "b3": "She reaches her left hand toward a floating chrome boot, one leg extending and the other finning soft, eyes locking onto it, drawn through the weightless air.",
+ },
+ 2: {
+  "posture": "GAZE (implied) to the boot; the dressing read through the guiding arms; RIGHT ARM and LEFT ARM both guiding the floating boot, RIGHT and LEFT FINGERS articulate closing the seam mid-air; RIGHT LEG (working) the foot pointed gracefully toward the boot; LEFT LEG implied trailing soft; TORSO implied long and weightless above; WAIST & HIPS neutral; WEIGHT neutral (zero-G) — a fluid mid-air dressing gesture, the boot drifting onto the pointed foot.",
+  "hands": "BOTH HANDS guiding the floating chrome boot onto the pointed foot, RIGHT and LEFT FINGERS articulate closing the seam mid-air; chrome-pink nails, neat, no white-knuckle tension.",
+  "framing": "A macro on both hands guiding the floating chrome boot onto her pointed foot mid-air, fingers articulate at the seam, the foot pointed gracefully and the body implied weightless above.",
+  "b1": "Extreme macro: the floating chrome boot is already drifting toward her pointed foot as a slow push follows, LED strips reflecting on it.",
+  "b2": "Her hands guide it onto the foot, the articulate fingers closing the seam mid-air as the foot points into it.",
+  "b3": "It seats with a settling chrome glint, the foot pointing as it locks on and her hands ease away.",
+ },
+ 3: {
+  "posture": "GAZE on the console panel; HEAD level in profile, hair drifting; SHOULDERS soft and rounded toward the console; RIGHT ARM extended tapping the glowing console, the RIGHT HAND at the panel, RIGHT FINGERS articulate on it; LEFT ARM drifting easy in counter-balance, the LEFT HAND open, LEFT FINGERS soft; TORSO upright in a long soft curve, hovering; WAIST & HIPS neutral, hovering upright; RIGHT LEG and LEFT LEG softly bent beneath in neutral buoyancy; FEET pointed soft, finning to hold; WEIGHT neutral (zero-G); HAIR drifting around her — elegant neutral buoyancy.",
+  "hands": "RIGHT HAND tapping the glowing console, RIGHT FINGERS articulate on the panel; LEFT HAND drifting easy, LEFT FINGERS soft; chrome-pink nails, neat, no white-knuckle tension.",
+  "framing": "In profile she hovers upright tapping the glowing console with articulate fingers, the other hand drifting easy, knees softly bent in neutral buoyancy, hair drifting and Earth behind.",
+  "b1": "Profile medium: she is already reaching for the glowing console with her right hand, floating upright with knees softly bent, as a weightless arc swings from profile toward three-quarter; hair drifting, gaze on the panel.",
+  "b2": "She taps the console and it flares under her fingers, the arc easing round; eyes brightening with anticipation.",
+  "b3": "Iridescent fabric panels begin to drift in from the pod edges as she turns toward them, one arm easing open, gaze following the floating cloth.",
+ },
+ 4: {
+  "posture": "GAZE tracking the converging cloth, chin lifting; HEAD level, lifting as the gown assembles; SHOULDERS open and streamlined; RIGHT ARM and LEFT ARM beginning to open as the panels drift in, RIGHT and LEFT FINGERS relaxed in the zero-G; TORSO floating upright, long and buoyant; WAIST & HIPS neutral and level; RIGHT LEG extended long, LEFT LEG softly bent in counter-balance; FEET pointed soft; WEIGHT neutral (real zero-G) — poised, the instant before the assemble.",
+  "hands": "BOTH ARMS beginning to open as the panels drift in, RIGHT and LEFT FINGERS relaxed in the zero-G; chrome-pink nails, neat cuticles, no white-knuckle tension.",
+  "framing": "She floats upright in her space-suit base-layer, body long and buoyant with one leg extended and the other softly bent, both arms beginning to open as the iridescent panels drift toward her, the vast Earth-window behind — the clean Look A the assemble opens on.",
+  "b1": "Cut to a front-on full/wide hero at a HELD angle (Veo first frame = the space-suit base-layer Look A still): already in motion, a gentle drift-with in the zero-G as the iridescent panels drift in toward her and her arms begin to open — the base-layer fully intact, the gown NOT yet assembled, the Earth-window vast behind; gaze tracking the converging cloth.",
+  "b2": "The assemble BEGINS here, mid-clip: the drifting panels converge and assemble smoothly into the couture gown around her exactly where they meet her as her arms open — believable real zero-G cloth dynamics, panels drifting with real inertia, hair fanning in the real zero-G (no cheap sparkles), the Earth-window glowing behind; chin lifting, eyes widening in radiant wonder (angle held, identity locked).",
+  "b3": "The assemble completes and the look settles smoothly and fully into the couture gown of Frame 5's still (Veo's LAST frame), the gown rippling in the zero-G — a radiant awed smile landing, no last-second snap.",
+ },
+ 5: {
+  "posture": "GAZE toward the blue planet then rotating back to lens; HEAD turning back over the shoulder for the glance; SHOULDERS rotating in the weightless counter-motion; RIGHT ARM drifting toward the window, the RIGHT HAND open toward it, RIGHT FINGERS reaching; LEFT ARM trailing, the LEFT HAND open with LEFT FINGERS soft in the panel-train; TORSO in a long weightless drift toward the window, rotating back; WAIST & HIPS neutral, driving the drift; RIGHT LEG extended trailing, LEFT LEG softly finning; FEET pointed soft; WEIGHT neutral (zero-G) — fluid counter-motion, alive.",
+  "hands": "RIGHT HAND drifting toward the Earth-window, RIGHT FINGERS reaching; LEFT HAND trailing in the panel-train, LEFT FINGERS soft; chrome-pink nails, neat, no white-knuckle tension.",
+  "framing": "She drifts toward the Earth-window in the couture gown, right hand reaching toward it and left trailing, the torso rotating back over the shoulder for a glance to lens as the panel-train streams.",
+  "b1": "Three-quarter back over-shoulder medium: she is already drifting toward the Earth-window in the couture gown — right hand reaching, left trailing — as a weightless tracking follow trails her, the panel-train streaming; gaze toward the blue planet.",
+  "b2": "The arc catches her as she rotates her torso and glances back to lens over the shoulder, Earth-light glowing in her eyes, a soft awed smile.",
+  "b3": "She faces the window again and her drift continues, panels trailing in her wake, gaze settling on Earth.",
+ },
+ 6: {
+  "posture": "GAZE sweeping the curved panels; HEAD turning back into the float; SHOULDERS opening back into the diagonal line; RIGHT ARM returning to the wall, the RIGHT HAND toward it with RIGHT FINGERS spreading; LEFT ARM reaching for the floating boot, the LEFT HAND open toward it, LEFT FINGERS articulate — echoing Frame 1; TORSO rotating back into the long diagonal float; WAIST & HIPS neutral and drifting; RIGHT LEG extended long, LEFT LEG softly bent; FEET pointed soft; WEIGHT neutral (zero-G), reasserting the opening float; HAIR lifting as the gown softens to the base-layer.",
+  "hands": "RIGHT HAND returning toward the curved wall, RIGHT FINGERS spreading; LEFT HAND reaching for the floating boot, LEFT FINGERS articulate — echoing Frame 1; chrome-pink nails, neat, no white-knuckle tension.",
+  "framing": "She turns back into the float, body returning to the long diagonal with the right hand toward the wall and left reaching for the boot as the couture gown softens to the base-layer, reasserting the Frame-1 float for a seamless loop.",
+  "b1": "Wide matching Frame 1: a slow weightless drift-back is already reversing the opening drift-in as she turns back into the pod, the right hand returning toward the wall; gaze sweeping the curved panels.",
+  "b2": "The drift continues as the couture gown dissolves back into the space-suit base-layer and the floating orbs disperse; a soft wondering calm returning.",
+  "b3": "She settles into the exact float stance of Frame 1, reaching once more for the floating boot with her left hand, eyes wide on the Earth-window — a seamless loop seam.",
+ },
+}
+
+# CONCEPT 13 — FESTIVAL OF FLYING LANTERNS (lantern-light transform · SPOKEN F4 · cultural fantasy)
+CINE[13] = {
+ 1: {
+  "posture": "GAZE soft on the water; HEAD bowed gently over the lantern; SHOULDERS soft and dropped; RIGHT ARM and LEFT ARM both cradling the unlit lantern, RIGHT and LEFT FINGERS articulate around it; TORSO long and serene in a graceful kneel; WAIST & HIPS settled low over the heels in the kneel; RIGHT LEG and LEFT LEG folded under in the kneel, knees on the bank; FEET tucked under, the weight settled on them and the shins; WEIGHT settled low and grounded in the kneel; HAIR soft, a wisp at the cheek by the dark river — serene and alive, never stiff (living stillness).",
+  "hands": "BOTH HANDS cradling the unlit paper lantern, RIGHT and LEFT FINGERS articulate around it; short nails in warm rose-gold, neat, no white-knuckle tension.",
+  "framing": "She kneels gracefully at the water's edge among glowing lanterns, weight settled low over folded legs, both hands cradling the unlit lantern with articulate fingers, small in the wide frame as the dark river mirrors the first rising lights.",
+  "b1": "Wide establishing of the riverside: she is already kneeling at the water's edge cradling a paper lantern in both hands as a slow drift-in and gentle crane-down move toward her, weight settled low over folded legs, the dark river mirroring the first rising lights; gaze soft on the water.",
+  "b2": "The crane settles as she settles her weight into the kneel and her hands turn the lantern, glowing lanterns around her; a hopeful warmth in her eyes.",
+  "b3": "She lifts the lantern in both hands, ready to light it, eyes catching the amber flame-glow, lips parting in quiet hope.",
+ },
+ 2: {
+  "posture": "GAZE (implied) to the wrist; the tying read through both working hands; RIGHT ARM and LEFT ARM both at the wrist tying the glowing ribbon, RIGHT and LEFT FINGERS articulate looping the knot; TORSO in a gentle seated lean over the hands; WAIST & HIPS settled in the kneel; LEGS folded under, weight low; WEIGHT settled low — a tender fluid gesture, the lit lantern glowing just beyond.",
+  "hands": "BOTH HANDS tying the glowing ribbon of light at the wrist, RIGHT and LEFT FINGERS articulate looping and drawing the knot; rose-gold nails, neat, no white-knuckle tension.",
+  "framing": "A macro on both hands tying a glowing ribbon of light at her wrist with articulate fingers in a gentle seated lean, the lit lantern glowing just beyond, the body implied kneeling.",
+  "b1": "Extreme macro: her fingers are already looping the glowing ribbon of light at her wrist as a slow push closes in, the lit lantern glowing just beyond.",
+  "b2": "She draws the ribbon snug at the wrist with articulate fingers, the loop tightening into a knot.",
+  "b3": "The ribbon-glow surges as the knot sets, light pulsing up her wrist — foreshadowing the gown.",
+ },
+ 3: {
+  "posture": "GAZE into the flame; HEAD level in profile, tipped toward the lantern; SHOULDERS lifting as she rises; RIGHT ARM and LEFT ARM both cradling the lit lantern up near her face, RIGHT and LEFT FINGERS articulate around it; TORSO lengthening upright as she rises from the kneel; WAIST & HIPS lifting up out of the kneel; RIGHT LEG planting to push up, LEFT LEG following as she rises; FEET pressing down to rise, weight transferring up onto them; WEIGHT transferring up through the rise; HAIR and dupatta stirring as she lifts — elegant lifting momentum, never stiff.",
+  "hands": "BOTH HANDS cradling the lit lantern up near her face, RIGHT and LEFT FINGERS articulate around it; rose-gold nails, neat, no white-knuckle tension.",
+  "framing": "In profile she rises to her feet lifting the lit lantern to her face with both hands, the spine lengthening and weight transferring up onto the feet, hair and dupatta stirring as she rises.",
+  "b1": "Profile medium: she is already rising to her feet and lifting the lit lantern toward her face with both hands as a slow arc swings from profile toward three-quarter, weight transferring up onto the feet; hair and dupatta stirring, gaze into the flame.",
+  "b2": "She whispers a wish to the flame, the arc easing round and lantern-light warming her profile; eyes closing softly then opening with hope.",
+  "b3": "She draws the lantern back in both hands, weight settling onto her feet, ready to release it upward, gaze lifting to the night sky.",
+ },
+ 4: {
+  "posture": "GAZE following the lantern up then to lens on the line; HEAD level, chin lifting as the gown weaves; SHOULDERS open as both arms lift to release; RIGHT ARM and LEFT ARM lifting to release the lantern skyward, RIGHT and LEFT FINGERS relaxed as they open; TORSO standing tall at the bank, lengthening; WAIST & HIPS settling square as she stands; RIGHT LEG and LEFT LEG planted even at the bank; FEET grounded even on the bank; WEIGHT settling even as she rises to release — poised, the instant before the weave.",
+  "hands": "BOTH HANDS lifting to release the lantern skyward, RIGHT and LEFT FINGERS relaxed as they open; rose-gold nails, neat cuticles, no white-knuckle tension.",
+  "framing": "She rises to her feet at the river's edge in her indigo set, weight settling even, both arms lifting to release a single lit lantern skyward — the clean Look A the weave opens on.",
+  "b1": "Cut to a front-on full/wide hero at a HELD angle (Veo first frame = the indigo-set Look A still): already in motion, a gentle push-with easing in as she releases a single lit lantern skyward with both hands and the first of a thousand sky-lanterns lift around her — weight settling even, the indigo set fully intact, the gown NOT yet woven, the dark river mirroring the lights; gaze following the lantern up.",
+  "b2": "The transform BEGINS here, mid-clip: as the real sky-lanterns rise on real flame-buoyancy their warm light streams down and weaves the glowing festival gown around her exactly where it passes as her chin lifts — dreamy but grounded in real lantern-light (no cheap sparkles), the lantern-filled sky vast behind; eyes widening in radiant wonder (angle held, identity locked).",
+  "b3": "The weave completes and the look settles smoothly and fully into the glowing festival gown of Frame 5's still (Veo's LAST frame), the gown blazing soft with lantern-light — a radiant joyful smile landing as she delivers \u201cmake a wish \u2014 then become it.\u201d, no last-second snap.",
+ },
+ 5: {
+  "posture": "GAZE up among the lanterns then rotating back to lens; HEAD turning back over the shoulder for the glance; SHOULDERS rotating in the counter-motion; RIGHT ARM reaching up toward the rising lanterns, the RIGHT HAND open toward them, RIGHT FINGERS reaching; LEFT ARM trailing light, the LEFT HAND open with LEFT FINGERS soft; TORSO standing tall watching the sky, rotating back for the glance; WAIST & HIPS square, weight settled even; RIGHT LEG and LEFT LEG planted even on the bank; FEET grounded even; WEIGHT settled even — fluid counter-motion, alive.",
+  "hands": "RIGHT HAND reaching up toward the rising lanterns, RIGHT FINGERS reaching; LEFT HAND trailing light, LEFT FINGERS soft; rose-gold nails, neat, no white-knuckle tension.",
+  "framing": "She stands watching the lantern-filled sky in the glowing gown, right hand reaching up toward the rising lanterns and left trailing light, the torso rotating back over the shoulder for a glance to lens.",
+  "b1": "Three-quarter back over-shoulder medium: she is already watching the lantern-filled sky and reaching upward with her right hand in the glowing gown as a tracking arc rises behind her toward the lights; gaze up among the lanterns.",
+  "b2": "The arc curves back to catch her as she rotates her torso and glances back to lens over the shoulder, lantern-glow warm in her eyes, a soft joyful smile.",
+  "b3": "She faces the sky again, light trailing from the gown, gaze drifting up after the rising lanterns.",
+ },
+ 6: {
+  "posture": "GAZE lowering to the river; HEAD bowing back toward the water; SHOULDERS softening down into the kneel; RIGHT ARM and LEFT ARM returning to cradle a fresh unlit lantern, RIGHT and LEFT FINGERS articulate around it — echoing Frame 1; TORSO folding back down into the graceful kneel; WAIST & HIPS settling low over the heels; RIGHT LEG and LEFT LEG folding back under into the kneel; FEET tucking under, weight settling low; WEIGHT settling low and grounded in the kneel; HAIR soft as the gown softens to the indigo set.",
+  "hands": "BOTH HANDS returning to cradle a fresh unlit lantern, RIGHT and LEFT FINGERS articulate around it — echoing Frame 1; rose-gold nails, neat, no white-knuckle tension.",
+  "framing": "She kneels back to the water's edge, weight settling low over folding legs, both hands returning to cradle a fresh unlit lantern as the lantern-light gown softens to the indigo set, reasserting the Frame-1 kneel for a seamless loop.",
+  "b1": "Wide matching Frame 1: a slow drift-out and crane-up is already reversing the opening move as she kneels back toward the water's edge, weight settling low; gaze lowering to the river.",
+  "b2": "The drift continues as the lantern-light gown dissolves back into the indigo festival set and a fresh lantern returns to her hands; a soft hopeful warmth returning.",
+  "b3": "She settles into the exact kneel of Frame 1 at the water, weight low and grounded, eyes soft on the mirrored lights — a seamless loop seam.",
+ },
+}
+
+# CONCEPT 14 — ARCADE TIME MACHINE (decade glitch-shift · SPOKEN F5 · controlled neon)
+CINE[14] = {
+ 1: {
+  "posture": "GAZE scanning the neon with cool delight; HEAD level, sweeping the aisle; SHOULDERS square and easy; RIGHT ARM holding the token, the RIGHT HAND closed around it, RIGHT FINGERS wrapped; LEFT ARM braced, the LEFT HAND on a cabinet, LEFT FINGERS on the edge; TORSO tall and easy stepping in; WAIST & HIPS squared with a slight counter-tilt; RIGHT LEG weight-bearing planted, LEFT LEG (working) slipping the foot into a sneaker at the cabinet step; FEET & WEIGHT on the planted right foot as the left slides into the sneaker; HAIR sleek in the CRT glow — poised and alive, never stiff (living stillness).",
+  "hands": "RIGHT HAND holding the token, RIGHT FINGERS wrapped around it; LEFT HAND on a cabinet, LEFT FINGERS on the edge; short nails in warm nude, neat, no white-knuckle tension.",
+  "framing": "She steps in between the arcade cabinets, weight on the planted right foot as the left slips into a sneaker at a cabinet step, right hand holding the token and left on a cabinet, mid-frame in the glowing aisle with CRT glow and laser-grid behind.",
+  "b1": "Wide establishing down the glowing arcade aisle: she is already stepping in between the cabinets — weight on the planted foot as the other slips into a sneaker, left hand on a cabinet — as a slow glide-in moves toward her, CRT glow and laser-grid behind; eyes scanning the neon with cool delight.",
+  "b2": "The glide carries closer as she settles the sneaker and pockets the token in her right hand, the checkerboard floor lit beneath; a playful set to her mouth.",
+  "b3": "She steps toward a big glowing cabinet button, weight rolling forward, eyes locking onto it with mischievous anticipation.",
+ },
+ 2: {
+  "posture": "GAZE (implied) to the button; the press read through the extended arm; RIGHT ARM extended, the RIGHT HAND pressing the big glowing arcade button, the RIGHT FINGER deliberate at the press with the others poised; LEFT ARM implied easy; TORSO implied tall above, weight settled; WAIST & HIPS implied square; FEET & WEIGHT settled even as the arm extends — a crisp deliberate press, light blooming under the fingertip.",
+  "hands": "The RIGHT FINGER pressing the big glowing arcade button, the other RIGHT FINGERS poised, light blooming under the fingertip; warm-nude nails, neat, no white-knuckle tension.",
+  "framing": "A macro on her finger pressing the big glowing arcade button, the arm extended in a crisp deliberate press, light blooming under the fingertip, the body implied tall and settled above.",
+  "b1": "Extreme macro: her finger is already descending toward the big glowing arcade button as a slow push closes in, light pooling beneath the fingertip.",
+  "b2": "She presses and the glow surges up around her fingertip, the button depressing under the deliberate finger.",
+  "b3": "The glow flares and a scanline ripple breaks outward as the first decade-shift triggers.",
+ },
+ 3: {
+  "posture": "GAZE flicking down at herself then up with delight; HEAD level in profile, lifting with the surprise; SHOULDERS lifted with the delight; RIGHT ARM easing back from the button, the RIGHT HAND drawing away, RIGHT FINGERS relaxing; LEFT ARM relaxed at her side, the LEFT HAND open, LEFT FINGERS soft; TORSO upright in profile, lifted and reactive; WAIST & HIPS even with a slight counter-tilt; RIGHT LEG and LEFT LEG in an even stance, weight settled; FEET & WEIGHT even and grounded; HAIR sleek in the magenta-cyan glow — lively and reactive, never stiff.",
+  "hands": "RIGHT HAND easing back from the button, RIGHT FINGERS relaxing; LEFT HAND relaxed at her side, LEFT FINGERS soft; bold-nude nails, neat cuticles, no white-knuckle tension.",
+  "framing": "Standing upright in profile fully in the 80s power-blazer look, torso lifted with delight and weight even, right hand easing back from the button and left relaxed at her side, the arcade lit magenta-cyan — the clean resolved 80s reveal.",
+  "b1": "Cut to a clean profile medium at a HELD angle: already in motion, a gentle push-with easing in as she eases her right hand back from the just-pressed button — still in the 70s jumpsuit, the arcade still amber, a scanline ripple just beginning; gaze flicking down at herself.",
+  "b2": "The glitch-shift BEGINS here, mid-clip: a scanline-wipe sweeps smoothly up her body, shifting the 70s jumpsuit to the 80s power-blazer and re-tinting the arcade magenta-cyan exactly where it passes — a clean digital wipe, never an instant snap, the angle held; eyes widening with playful surprise.",
+  "b3": "The wipe completes and settles into the clean resolved 80s look (this frame's still = Veo last frame), she reacting with a delighted grin checking the new look, the arcade glowing magenta-cyan.",
+ },
+ 4: {
+  "posture": "GAZE catching the green flicker then following the colour; HEAD level, chin lifted from the low angle; SHOULDERS settled back with confidence; RIGHT ARM raised easy near the jaw, the RIGHT HAND fingertips near her jawline, RIGHT FINGERS articulate; LEFT ARM easy, the LEFT HAND soft, LEFT FINGERS relaxed; TORSO tall and settled, read from the low hero angle; WAIST & HIPS square and grounded; RIGHT LEG and LEFT LEG even and planted; FEET & WEIGHT settled even; HAIR sleek in the grunge-green wash — powerful and fluid.",
+  "hands": "RIGHT HAND fingertips easy near her jaw, RIGHT FINGERS articulate; LEFT HAND soft, LEFT FINGERS relaxed; muted 90s-tone nails, neat cuticles, no white-knuckle tension.",
+  "framing": "From a low hero angle she stands fully in the 90s denim-and-turtleneck look, chin lifted and shoulders settled back with confidence, right fingertips easy near her jaw, the arcade lit grunge-green — the clean resolved 90s reveal.",
+  "b1": "Cut to a low-angle close-up at a HELD low angle: already in motion, a gentle push-with easing in as the second press registers — still in the 80s look, the arcade still magenta-cyan, a green scanline flicker just beginning, her right hand easing near the jaw; gaze catching it.",
+  "b2": "The glitch-shift BEGINS here, mid-clip: a grunge-green scanline-wipe sweeps smoothly up her collar and shoulder, shifting the 80s look to the 90s denim-and-turtleneck and re-tinting the arcade green exactly where it passes — a clean digital wipe, never a snap, the low angle held; eyes following the colour, lips curving.",
+  "b3": "The wipe completes and settles into the clean resolved 90s look (this frame's still = Veo last frame), a confident playful smirk landing with a slow delighted blink, the arcade glowing green.",
+ },
+ 5: {
+  "posture": "GAZE cool and pleased, flicking across the CRT ghosts then to lens; HEAD level, turning to camera for the line; SHOULDERS open and relaxed; RIGHT ARM bent to the hip, the RIGHT HAND on the hip, RIGHT FINGERS along the hipbone; LEFT ARM gesturing toward the CRT ghosts, the LEFT HAND open, LEFT FINGERS softly spread; TORSO tall and grounded in a soft contrapposto; WAIST & HIPS in a gentle counter-tilt, weight eased onto the back leg; RIGHT LEG and LEFT LEG grounded with weight on the back leg; FEET & WEIGHT settled and commanding; HAIR sleek in the now-look — commanding and relaxed.",
+  "hands": "RIGHT HAND on the hip, RIGHT FINGERS along the hipbone; LEFT HAND gesturing toward the decade-ghosts in the CRTs, LEFT FINGERS softly spread; modern-nude nails, neat, no white-knuckle tension.",
+  "framing": "She strikes a pose in the clean-now look, tall and grounded in a soft contrapposto with the right hand on the hip and the left gesturing toward the faint decade-ghosts glitching in the CRTs, shoulders open as she turns to lens for the line.",
+  "b1": "Front-on full/wide hero: she is already settling into the clean-now look, her right hand finding her hip and weight easing onto the back leg, as a slow push eases toward dead-front; gaze cool and pleased.",
+  "b2": "She gestures with her left hand to the faint decade-ghosts glitching in the CRTs behind, eyes flicking across them with playful pride, the right hand set on the hip.",
+  "b3": "She turns fully to lens and delivers \u201cevery era looks good on me.\u201d with a radiant smile, brows lifting in playful confidence.",
+ },
+ 6: {
+  "posture": "GAZE sweeping the cabinets; HEAD turning back down the aisle; SHOULDERS easing back to the entry set; RIGHT ARM returning toward the entry pose, the RIGHT HAND with the token back in hand, RIGHT FINGERS wrapped — echoing Frame 1; LEFT ARM easing toward a cabinet, the LEFT HAND open, LEFT FINGERS soft; TORSO rotating back into the Frame-1 stance; WAIST & HIPS shifting square; RIGHT LEG and LEFT LEG easing back to the entry stance; FEET & WEIGHT settling onto the entry footing; HAIR sleek as the now-look glitches back toward the 70s jumpsuit.",
+  "hands": "RIGHT HAND with the token back in hand, RIGHT FINGERS wrapped — echoing Frame 1; LEFT HAND open toward a cabinet, LEFT FINGERS soft; warm-nude nails, neat, no white-knuckle tension.",
+  "framing": "She turns back down the aisle, weight settling into the Frame-1 stance, token back in her right hand and left easing toward a cabinet as the now-look glitches back toward the 70s jumpsuit, for a seamless loop.",
+  "b1": "Wide matching Frame 1: a slow glide-out down the aisle is already reversing the opening glide-in as she turns back, the token returning to her right hand; gaze sweeping the cabinets.",
+  "b2": "The glide continues as the now-look glitches back to the 70s jumpsuit and the token returns fully to her hand; a cool playful smile returning.",
+  "b3": "She settles into the exact stance of Frame 1 in the aisle, weight settled, eyes bright on the neon — a seamless loop seam.",
+ },
+}
+
+
 # ----------------------------------------------------------------------------------
 def find_concept_region(text, n):
     m = re.search(r'(?m)^#{1,3}\s*CONCEPT\s*0*%d\b' % n, text)

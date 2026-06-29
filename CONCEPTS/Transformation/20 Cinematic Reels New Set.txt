@@ -5561,11 +5561,11 @@ HAIR: hair drifting weightlessly, color locked.
 
 MAKEUP: luminous future-glow, soft rose lip, holographic highlight catching the LEDs.
 
-HANDS & NAILS: one hand on a curved white wall having just pushed off, the other reaching for the floating boot; fingers articulate; short nails in chrome-pink.
+HANDS & NAILS: RIGHT HAND flat on the curved white wall having just pushed off, RIGHT FINGERS spread on it; LEFT HAND reaching for the floating chrome boot, LEFT FINGERS articulate; short nails in chrome-pink, neat, no white-knuckle tension.
 
 FACIAL MICRO-DYNAMICS: chin level, a serene wondering expression, eyes catching the Earth-glow, lips softly closed.
 
-BODY POSTURE & WEIGHT: weightless float, body in a long graceful diagonal, one knee softly bent — fluid neutral buoyancy, never stiff.
+BODY POSTURE & WEIGHT: GAZE wide with wonder, tracing the starfield; HEAD level, drifting with a faint roll; SHOULDERS open and streamlined; RIGHT ARM braced back on the wall having just pushed off, the RIGHT HAND flat on the curved white wall, RIGHT FINGERS spread on it; LEFT ARM reaching forward for the floating boot, the LEFT HAND open toward it, LEFT FINGERS articulate; TORSO in a long graceful diagonal float; WAIST & HIPS neutral and drifting; RIGHT LEG extended long, LEFT LEG softly bent in counter-balance; FEET pointed soft; WEIGHT neutral (zero-G, no ground contact); HAIR lifting in the zero-G — fluid neutral buoyancy, never stiff (living stillness).
 
 KINETIC STILLNESS (8 layers): (1) hair drifting in zero-G; (2) the sash drifting; (3) accessory-orbs slowly orbiting; (4) LED strips softly pulsing; (5) chest breathing; (6) the floating boot rotating slowly; (7) an Earth-glow shifting on the panels; (8) a slow blink.
 
@@ -5576,7 +5576,7 @@ LIGHTING: KEY — warm-white LED from the side. FILL — cyan LED bounce. RIM �
 LENS + DOF + BOKEH: 28mm slightly wide, f/4; focus on Aira; the Earth and stars soft behind; LEDs as cyan bokeh.
 
 COMPOSITION: 9:16, pod curves framing her, the Earth-window as a luminous backdrop, weightless diagonal.
-SUBJECT FRAMING & POSITION: A wide establishing shot of the luminous pod, Aira floating mid-frame in the space-suit base-layer, the vast Earth-window behind. The full figure reads in a weightless float, body in a long graceful diagonal, one knee softly bent at neutral buoyancy. Camera at wide distance, the pod and Earth-window framing her. She floats mid-frame on a diagonal, not grounded or square to lens. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A wide establishing shot of the luminous pod, Aira floating mid-frame in the space-suit base-layer, the vast Earth-window behind. The full figure reads in a weightless float, body in a long graceful diagonal, one knee softly bent at neutral buoyancy. Camera at wide distance, the pod and Earth-window framing her. She floats mid-frame on a diagonal, not grounded or square to lens. She floats mid-pod in a long graceful diagonal, right hand spread on the curved wall from the push-off and left reaching for the floating boot, one leg extended and the other softly bent in neutral buoyancy, the vast Earth-window behind. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 ATMOSPHERE: wondrous weightless calm, the hush of orbit.
 
@@ -5595,9 +5595,9 @@ SHOT TYPE & ANGLE: wide, subject fills ~35%.
 LENS: 28mm, f/4.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Wide establishing of the luminous pod: she is already pushing gently off a curved wall and drifting mid-frame as a weightless drift-in with a faint roll matches her float, the vast Earth-window behind; eyes wide with wonder.
-- [00:02–00:04] The drift carries her as she scans the pod and the blue Earth beyond, hair lifting in the zero-G; gaze tracing the starfield, lips parted.
-- [00:04–00:06] She reaches toward a floating chrome boot, eyes locking onto it, drawn through the weightless air.
+- [00:00–00:02] Wide establishing of the luminous pod: she is already pushing gently off a curved wall with her right hand and drifting mid-frame in a long diagonal as a weightless drift-in with a faint roll matches her float, the vast Earth-window behind; eyes wide with wonder.
+- [00:02–00:04] The drift carries her as she scans the pod and the blue Earth beyond, her left arm reaching out and hair lifting in the zero-G; gaze tracing the starfield, lips parted.
+- [00:04–00:06] She reaches her left hand toward a floating chrome boot, one leg extending and the other finning soft, eyes locking onto it, drawn through the weightless air.
 
 FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
@@ -5637,11 +5637,11 @@ HAIR: drifting strands at the upper frame.
 
 MAKEUP: n/a (macro), chrome-pink nails.
 
-HANDS & NAILS: both hands guiding the floating boot onto the foot, fingers articulate; chrome-pink nails.
+HANDS & NAILS: BOTH HANDS guiding the floating chrome boot onto the pointed foot, RIGHT and LEFT FINGERS articulate closing the seam mid-air; chrome-pink nails, neat, no white-knuckle tension.
 
 FACIAL MICRO-DYNAMICS: n/a.
 
-BODY POSTURE & WEIGHT: weightless, the foot pointed gracefully toward the boot — a fluid mid-air dressing gesture.
+BODY POSTURE & WEIGHT: GAZE (implied) to the boot; the dressing read through the guiding arms; RIGHT ARM and LEFT ARM both guiding the floating boot, RIGHT and LEFT FINGERS articulate closing the seam mid-air; RIGHT LEG (working) the foot pointed gracefully toward the boot; LEFT LEG implied trailing soft; TORSO implied long and weightless above; WAIST & HIPS neutral; WEIGHT neutral (zero-G) — a fluid mid-air dressing gesture, the boot drifting onto the pointed foot.
 
 KINETIC STILLNESS (8 layers): (1) the boot drifting onto the foot; (2) hair drifting; (3) a faint LED reflection on the chrome; (4) the sash drifting; (5) a soft breath-shift; (6) an orb orbiting; (7) console glow pulsing; (8) a micro-tremor of the guide.
 
@@ -5652,7 +5652,7 @@ LIGHTING: KEY — warm-white LED. FILL — cyan bounce. RIM — Earth-glow edge 
 LENS + DOF + BOKEH: 100mm macro, f/2.8; focus on the boot and foot; background cyan-white bokeh.
 
 COMPOSITION: 9:16, boot on a power point, the leg as a leading diagonal, glowing negative space.
-SUBJECT FRAMING & POSITION: A macro/extreme close on her hands guiding the floating chrome boot onto her pointed foot mid-air — a detail insert, most of the body out of frame. The hands, boot and pointed foot fill the frame in a fluid mid-air dressing gesture, weightless. Camera macro-near. Orientation reads as the weightless foot-and-hands detail, the figure implied beyond the frame. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A macro/extreme close on her hands guiding the floating chrome boot onto her pointed foot mid-air — a detail insert, most of the body out of frame. The hands, boot and pointed foot fill the frame in a fluid mid-air dressing gesture, weightless. Camera macro-near. Orientation reads as the weightless foot-and-hands detail, the figure implied beyond the frame. A macro on both hands guiding the floating chrome boot onto her pointed foot mid-air, fingers articulate at the seam, the foot pointed gracefully and the body implied weightless above. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 ATMOSPHERE: the weightless intimacy of dressing in orbit.
 
@@ -5672,8 +5672,8 @@ LENS: 100mm macro, f/2.8.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
 - [00:00–00:02] Extreme macro: the floating chrome boot is already drifting toward her pointed foot as a slow push follows, LED strips reflecting on it.
-- [00:02–00:04] Her hands guide it onto the foot, fingers closing the seam mid-air.
-- [00:04–00:06] It seats with a settling chrome glint, the foot pointing as it locks on.
+- [00:02–00:04] Her hands guide it onto the foot, the articulate fingers closing the seam mid-air as the foot points into it.
+- [00:04–00:06] It seats with a settling chrome glint, the foot pointing as it locks on and her hands ease away.
 
 FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
@@ -5713,11 +5713,11 @@ HAIR: long hair drifting upward in profile, color locked.
 
 MAKEUP: luminous future-glow, rose lip, holographic highlight in profile.
 
-HANDS & NAILS: one hand tapping the glowing console (fingers articulate), the other drifting; chrome-pink nails.
+HANDS & NAILS: RIGHT HAND tapping the glowing console, RIGHT FINGERS articulate on the panel; LEFT HAND drifting easy, LEFT FINGERS soft; chrome-pink nails, neat, no white-knuckle tension.
 
 FACIAL MICRO-DYNAMICS: eyes on the console with focused calm, a slight anticipatory smile, lashes lowered.
 
-BODY POSTURE & WEIGHT: upright weightless hover in profile, spine in a long soft curve, knees softly bent — elegant neutral buoyancy.
+BODY POSTURE & WEIGHT: GAZE on the console panel; HEAD level in profile, hair drifting; SHOULDERS soft and rounded toward the console; RIGHT ARM extended tapping the glowing console, the RIGHT HAND at the panel, RIGHT FINGERS articulate on it; LEFT ARM drifting easy in counter-balance, the LEFT HAND open, LEFT FINGERS soft; TORSO upright in a long soft curve, hovering; WAIST & HIPS neutral, hovering upright; RIGHT LEG and LEFT LEG softly bent beneath in neutral buoyancy; FEET pointed soft, finning to hold; WEIGHT neutral (zero-G); HAIR drifting around her — elegant neutral buoyancy.
 
 KINETIC STILLNESS (8 layers): (1) the console glow pulsing under her hand; (2) hair drifting upward; (3) the sash drifting; (4) LED strips pulsing; (5) a slow breath; (6) an orb orbiting; (7) Earth-glow shifting; (8) a slow blink.
 
@@ -5728,7 +5728,7 @@ LIGHTING: KEY — console glow up-lighting her face. FILL — cyan LED. RIM — 
 LENS + DOF + BOKEH: 50mm, f/2.2; focus on the console and her near eye; pod as cyan-white bokeh.
 
 COMPOSITION: 9:16, strong profile line, console glow as the focal pull, drifting hair framing.
-SUBJECT FRAMING & POSITION: A medium in clean full profile, Aira floating upright in profile tapping a glowing console, hair drifting, Earth behind. The body reads as a profile line from roughly the waist up in an upright weightless hover, spine in a long soft curve, knees softly bent. Camera at mid distance, edge-on. She is in profile, suspended, not facing the lens. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A medium in clean full profile, Aira floating upright in profile tapping a glowing console, hair drifting, Earth behind. The body reads as a profile line from roughly the waist up in an upright weightless hover, spine in a long soft curve, knees softly bent. Camera at mid distance, edge-on. She is in profile, suspended, not facing the lens. In profile she hovers upright tapping the glowing console with articulate fingers, the other hand drifting easy, knees softly bent in neutral buoyancy, hair drifting and Earth behind. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 ATMOSPHERE: the focused instant before the magic.
 
@@ -5747,9 +5747,9 @@ SHOT TYPE & ANGLE: profile medium, subject fills ~55%.
 LENS: 50mm, f/2.2.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Profile medium: she is already reaching for the glowing console, floating upright, as a weightless arc swings from profile toward three-quarter; hair drifting, gaze on the panel.
-- [00:02–00:04] She taps the console and it flares, the arc easing round; eyes brightening with anticipation.
-- [00:04–00:06] Iridescent fabric panels begin to drift in from the pod edges as she turns toward them, gaze following the floating cloth.
+- [00:00–00:02] Profile medium: she is already reaching for the glowing console with her right hand, floating upright with knees softly bent, as a weightless arc swings from profile toward three-quarter; hair drifting, gaze on the panel.
+- [00:02–00:04] She taps the console and it flares under her fingers, the arc easing round; eyes brightening with anticipation.
+- [00:04–00:06] Iridescent fabric panels begin to drift in from the pod edges as she turns toward them, one arm easing open, gaze following the floating cloth.
 
 FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
@@ -5789,11 +5789,11 @@ HAIR: long hair fanning weightlessly in the real zero-G, holo-lit.
 
 MAKEUP: a future-glow, rose lip; real pores and fine vellus texture.
 
-HANDS & NAILS: both arms beginning to open as the panels drift in, fingers relaxed; chrome-pink nails, neat cuticles.
+HANDS & NAILS: BOTH ARMS beginning to open as the panels drift in, RIGHT and LEFT FINGERS relaxed in the zero-G; chrome-pink nails, neat cuticles, no white-knuckle tension.
 
 FACIAL MICRO-DYNAMICS: a serene anticipatory gaze tracking the converging panels, lips parted on a held breath, eyes bright — fully recognizable, identity-locked, ready for the assemble mid-clip.
 
-BODY POSTURE & WEIGHT: floating upright in real zero-G, body long, arms beginning to open — poised, the instant before the assemble.
+BODY POSTURE & WEIGHT: GAZE tracking the converging cloth, chin lifting; HEAD level, lifting as the gown assembles; SHOULDERS open and streamlined; RIGHT ARM and LEFT ARM beginning to open as the panels drift in, RIGHT and LEFT FINGERS relaxed in the zero-G; TORSO floating upright, long and buoyant; WAIST & HIPS neutral and level; RIGHT LEG extended long, LEFT LEG softly bent in counter-balance; FEET pointed soft; WEIGHT neutral (real zero-G) — poised, the instant before the assemble.
 
 KINETIC STILLNESS (8 layers): (1) iridescent panels drifting in from the pod; (2) the vast Earth-window glowing behind; (3) long hair fanning in the real zero-G; (4) a glowing orb orbiting slow; (5) a slow breath; (6) the wrist-console glowing; (7) the base-layer rippling in the still air; (8) lashes settling on a blink.
 
@@ -5804,7 +5804,7 @@ LIGHTING: KEY — warm-white LED. FILL — cyan LED. RIM — Earth-glow rim. PRA
 LENS + DOF + BOKEH: 35mm, f/2.8; focus on Aira; the Earth-window and pod as soft bokeh, clearly present and vast behind.
 
 COMPOSITION: 9:16, Aira floating centred, panels beginning to converge, the Earth-window behind, headroom for the drift.
-SUBJECT FRAMING & POSITION: A front-on full/wide hero, Aira floating in the space-suit base-layer Look A as the panels drift in — the clean still the transform clip opens on. The complete figure is in frame, floating upright in real zero-G, the vast Earth-window present behind. Camera at full/wide distance. She faces front, centred and aloft. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A front-on full/wide hero, Aira floating in the space-suit base-layer Look A as the panels drift in — the clean still the transform clip opens on. The complete figure is in frame, floating upright in real zero-G, the vast Earth-window present behind. Camera at full/wide distance. She faces front, centred and aloft. She floats upright in her space-suit base-layer, body long and buoyant with one leg extended and the other softly bent, both arms beginning to open as the iridescent panels drift toward her, the vast Earth-window behind — the clean Look A the assemble opens on. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 ATMOSPHERE: serene awe — the hush before the fabric assembles in orbit.
 
@@ -5823,8 +5823,8 @@ SHOT TYPE & ANGLE: front-on full/wide hero, subject fills ~55%, floating centred
 LENS: 35mm, f/2.8.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Cut to a front-on full/wide hero at a HELD angle (Veo first frame = the space-suit base-layer Look A still): already in motion, a gentle drift-with in the zero-G as the iridescent panels drift in toward her — the base-layer fully intact, the gown NOT yet assembled, the Earth-window vast behind; gaze tracking the converging cloth.
-- [00:02–00:04] The assemble BEGINS here, mid-clip: the drifting panels converge and assemble smoothly into the couture gown around her exactly where they meet her — believable real zero-G cloth dynamics, panels drifting with real inertia, hair fanning in the real zero-G (no cheap sparkles), the Earth-window glowing behind; chin lifting, eyes widening in radiant wonder (angle held, identity locked).
+- [00:00–00:02] Cut to a front-on full/wide hero at a HELD angle (Veo first frame = the space-suit base-layer Look A still): already in motion, a gentle drift-with in the zero-G as the iridescent panels drift in toward her and her arms begin to open — the base-layer fully intact, the gown NOT yet assembled, the Earth-window vast behind; gaze tracking the converging cloth.
+- [00:02–00:04] The assemble BEGINS here, mid-clip: the drifting panels converge and assemble smoothly into the couture gown around her exactly where they meet her as her arms open — believable real zero-G cloth dynamics, panels drifting with real inertia, hair fanning in the real zero-G (no cheap sparkles), the Earth-window glowing behind; chin lifting, eyes widening in radiant wonder (angle held, identity locked).
 - [00:04–00:06] The assemble completes and the look settles smoothly and fully into the couture gown of Frame 5's still (Veo's LAST frame), the gown rippling in the zero-G — a radiant awed smile landing, no last-second snap.
 
 FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
@@ -5865,11 +5865,11 @@ HAIR: long hair drifting as she glances back, holo-lit.
 
 MAKEUP: future-glow on the turned cheek, rose lip.
 
-HANDS & NAILS: one hand drifting toward the window, the other trailing; chrome-pink nails.
+HANDS & NAILS: RIGHT HAND drifting toward the Earth-window, RIGHT FINGERS reaching; LEFT HAND trailing in the panel-train, LEFT FINGERS soft; chrome-pink nails, neat, no white-knuckle tension.
 
 FACIAL MICRO-DYNAMICS: a serene over-the-shoulder glance, a soft radiant smile, Earth-glow catchlight in the eye.
 
-BODY POSTURE & WEIGHT: weightless drift toward the window, body in a long line, torso rotating back for the glance — fluid counter-motion, alive.
+BODY POSTURE & WEIGHT: GAZE toward the blue planet then rotating back to lens; HEAD turning back over the shoulder for the glance; SHOULDERS rotating in the weightless counter-motion; RIGHT ARM drifting toward the window, the RIGHT HAND open toward it, RIGHT FINGERS reaching; LEFT ARM trailing, the LEFT HAND open with LEFT FINGERS soft in the panel-train; TORSO in a long weightless drift toward the window, rotating back; WAIST & HIPS neutral, driving the drift; RIGHT LEG extended trailing, LEFT LEG softly finning; FEET pointed soft; WEIGHT neutral (zero-G) — fluid counter-motion, alive.
 
 KINETIC STILLNESS (8 layers): (1) the panel-train trailing; (2) LED-glow sweeping; (3) hair drifting; (4) gown shimmer rippling; (5) a slow breath; (6) the sash drifting; (7) an orb orbiting; (8) a slow blink mid-glance.
 
@@ -5880,7 +5880,7 @@ LIGHTING: KEY — Earth-glow catching her face on the glance. FILL — cyan LED.
 LENS + DOF + BOKEH: 50mm, f/1.8; focus on her glancing eye; pod melting to cyan-white bokeh; trailing panels shimmering.
 
 COMPOSITION: 9:16, Aira drifting toward the window, the Earth crowning, over-shoulder eye-line drawing the viewer.
-SUBJECT FRAMING & POSITION: A three-quarter back over-the-shoulder medium, Aira drifting toward the Earth-window in the couture gown, glancing back to lens, panels trailing. The body reads from roughly the waist up in a weightless drift away, body in a long line, torso rotating back for the glance. Camera at mid distance behind her. Her back leads, face turned back over the shoulder. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A three-quarter back over-the-shoulder medium, Aira drifting toward the Earth-window in the couture gown, glancing back to lens, panels trailing. The body reads from roughly the waist up in a weightless drift away, body in a long line, torso rotating back for the glance. Camera at mid distance behind her. Her back leads, face turned back over the shoulder. She drifts toward the Earth-window in the couture gown, right hand reaching toward it and left trailing, the torso rotating back over the shoulder for a glance to lens as the panel-train streams. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 ATMOSPHERE: luminous wonder, the drift toward Earth.
 
@@ -5899,8 +5899,8 @@ SHOT TYPE & ANGLE: three-quarter back over-shoulder medium, subject fills ~50%.
 LENS: 50mm, f/1.8.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Three-quarter back over-shoulder medium: she is already drifting toward the Earth-window in the couture gown as a weightless tracking follow trails her, the panel-train streaming; gaze toward the blue planet.
-- [00:02–00:04] The arc catches her as she rotates her torso and glances back to lens, Earth-light glowing in her eyes, a soft awed smile.
+- [00:00–00:02] Three-quarter back over-shoulder medium: she is already drifting toward the Earth-window in the couture gown — right hand reaching, left trailing — as a weightless tracking follow trails her, the panel-train streaming; gaze toward the blue planet.
+- [00:02–00:04] The arc catches her as she rotates her torso and glances back to lens over the shoulder, Earth-light glowing in her eyes, a soft awed smile.
 - [00:04–00:06] She faces the window again and her drift continues, panels trailing in her wake, gaze settling on Earth.
 
 FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
@@ -5941,11 +5941,11 @@ HAIR: drifting hair re-settling toward the Frame 1 drift.
 
 MAKEUP: future-glow easing back to the opening finish.
 
-HANDS & NAILS: one hand returning to the wall, the other reaching for the floating boot — echoing Frame 1; chrome-pink nails.
+HANDS & NAILS: RIGHT HAND returning toward the curved wall, RIGHT FINGERS spreading; LEFT HAND reaching for the floating boot, LEFT FINGERS articulate — echoing Frame 1; chrome-pink nails, neat, no white-knuckle tension.
 
 FACIAL MICRO-DYNAMICS: the same serene wondering expression as Frame 1, eyes on the pod, lips softly closed.
 
-BODY POSTURE & WEIGHT: turning back into the float, body in the Frame 1 diagonal, weight neutral.
+BODY POSTURE & WEIGHT: GAZE sweeping the curved panels; HEAD turning back into the float; SHOULDERS opening back into the diagonal line; RIGHT ARM returning to the wall, the RIGHT HAND toward it with RIGHT FINGERS spreading; LEFT ARM reaching for the floating boot, the LEFT HAND open toward it, LEFT FINGERS articulate — echoing Frame 1; TORSO rotating back into the long diagonal float; WAIST & HIPS neutral and drifting; RIGHT LEG extended long, LEFT LEG softly bent; FEET pointed soft; WEIGHT neutral (zero-G), reasserting the opening float; HAIR lifting as the gown softens to the base-layer.
 
 KINETIC STILLNESS (8 layers): (1) gown dissolving back to suit; (2) LEDs pulsing; (3) hair drifting; (4) the sash drifting; (5) chest breathing; (6) the boot rotating; (7) Earth-glow shifting; (8) a slow blink.
 
@@ -5956,7 +5956,7 @@ LIGHTING: identical scheme to Frame 1 — warm-white LED key, cyan fill, Earth-g
 LENS + DOF + BOKEH: 28mm, f/4, matching Frame 1; LEDs as cyan bokeh.
 
 COMPOSITION: 9:16, mirroring Frame 1's pod framing for a seamless cut.
-SUBJECT FRAMING & POSITION: A wide matching Frame 1, Aira turning back into the pod as the couture gown softens toward the space-suit base-layer. The full figure reads in the Frame 1 weightless diagonal, turning back at neutral buoyancy. Camera at wide distance, mirroring Frame 1's pod framing for a seamless loop. She floats back on the diagonal. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A wide matching Frame 1, Aira turning back into the pod as the couture gown softens toward the space-suit base-layer. The full figure reads in the Frame 1 weightless diagonal, turning back at neutral buoyancy. Camera at wide distance, mirroring Frame 1's pod framing for a seamless loop. She floats back on the diagonal. She turns back into the float, body returning to the long diagonal with the right hand toward the wall and left reaching for the boot as the couture gown softens to the base-layer, reasserting the Frame-1 float for a seamless loop. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 ATMOSPHERE: the gentle return to the weightless float.
 
@@ -5975,9 +5975,9 @@ SHOT TYPE & ANGLE: wide matching Frame 1, subject ~35%.
 LENS: 28mm, f/4.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Wide matching Frame 1: a slow weightless drift-back is already reversing the opening drift-in as she turns back into the pod; gaze sweeping the curved panels.
+- [00:00–00:02] Wide matching Frame 1: a slow weightless drift-back is already reversing the opening drift-in as she turns back into the pod, the right hand returning toward the wall; gaze sweeping the curved panels.
 - [00:02–00:04] The drift continues as the couture gown dissolves back into the space-suit base-layer and the floating orbs disperse; a soft wondering calm returning.
-- [00:04–00:06] She settles into the exact float stance of Frame 1, reaching once more for the floating boot, eyes wide on the Earth-window — a seamless loop seam.
+- [00:04–00:06] She settles into the exact float stance of Frame 1, reaching once more for the floating boot with her left hand, eyes wide on the Earth-window — a seamless loop seam.
 
 FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
@@ -6055,11 +6055,11 @@ HAIR: a soft low braid with a flower tuck, a loose strand by the cheek.
 
 MAKEUP: warm festival glow, rose-gold lip, kohl eyes, gold highlight catching the string-lights.
 
-HANDS & NAILS: both hands cradling the unlit lantern, fingers articulate; short nails in warm rose-gold.
+HANDS & NAILS: BOTH HANDS cradling the unlit paper lantern, RIGHT and LEFT FINGERS articulate around it; short nails in warm rose-gold, neat, no white-knuckle tension.
 
 FACIAL MICRO-DYNAMICS: chin gently down toward the lantern, a soft hopeful smile, eyes warm with a lantern catchlight, lips softly closed.
 
-BODY POSTURE & WEIGHT: a graceful kneel, weight settled, spine long, shoulders soft — serene and alive, never stiff.
+BODY POSTURE & WEIGHT: GAZE soft on the water; HEAD bowed gently over the lantern; SHOULDERS soft and dropped; RIGHT ARM and LEFT ARM both cradling the unlit lantern, RIGHT and LEFT FINGERS articulate around it; TORSO long and serene in a graceful kneel; WAIST & HIPS settled low over the heels in the kneel; RIGHT LEG and LEFT LEG folded under in the kneel, knees on the bank; FEET tucked under, the weight settled on them and the shins; WEIGHT settled low and grounded in the kneel; HAIR soft, a wisp at the cheek by the dark river — serene and alive, never stiff (living stillness).
 
 KINETIC STILLNESS (8 layers): (1) string-lights swaying; (2) river mist drifting; (3) a loose strand by the cheek; (4) the first lanterns rising behind; (5) chest breathing; (6) the dupatta edge stirring; (7) a reflection shimmering on the water; (8) a slow blink.
 
@@ -6070,7 +6070,7 @@ LIGHTING: KEY — warm lantern/string-light glow from front. FILL — indigo nig
 LENS + DOF + BOKEH: 28mm slightly wide, f/3.2; focus on Aira; rising lanterns as warm gold bokeh; river reflections soft.
 
 COMPOSITION: 9:16, Aira on a lower power point, the river leading to the lantern-filled sky, vast glowing negative space.
-SUBJECT FRAMING & POSITION: A wide establishing shot of the riverside, Aira small kneeling at the water's edge among glowing lanterns, the dark river mirroring the flames. The full figure reads small in a graceful kneel, weight settled, spine long, shoulders soft. Camera at wide distance, lanterns and river reflections filling the frame. She kneels mid-frame, serene, low to the water. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A wide establishing shot of the riverside, Aira small kneeling at the water's edge among glowing lanterns, the dark river mirroring the flames. The full figure reads small in a graceful kneel, weight settled, spine long, shoulders soft. Camera at wide distance, lanterns and river reflections filling the frame. She kneels mid-frame, serene, low to the water. She kneels gracefully at the water's edge among glowing lanterns, weight settled low over folded legs, both hands cradling the unlit lantern with articulate fingers, small in the wide frame as the dark river mirrors the first rising lights. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 ATMOSPHERE: hopeful festival wonder, warm light over dark water.
 
@@ -6089,9 +6089,9 @@ SHOT TYPE & ANGLE: wide, subject fills ~30%.
 LENS: 28mm, f/3.2.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Wide establishing of the riverside: she is already kneeling at the water's edge cradling a paper lantern as a slow drift-in and gentle crane-down move toward her, the dark river mirroring the first rising lights; gaze soft on the water.
-- [00:02–00:04] The crane settles as she slips on a jutti and settles her weight, glowing lanterns around her; a hopeful warmth in her eyes.
-- [00:04–00:06] She lifts the lantern, ready to light it, eyes catching the amber flame-glow, lips parting in quiet hope.
+- [00:00–00:02] Wide establishing of the riverside: she is already kneeling at the water's edge cradling a paper lantern in both hands as a slow drift-in and gentle crane-down move toward her, weight settled low over folded legs, the dark river mirroring the first rising lights; gaze soft on the water.
+- [00:02–00:04] The crane settles as she settles her weight into the kneel and her hands turn the lantern, glowing lanterns around her; a hopeful warmth in her eyes.
+- [00:04–00:06] She lifts the lantern in both hands, ready to light it, eyes catching the amber flame-glow, lips parting in quiet hope.
 
 FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
@@ -6131,11 +6131,11 @@ HAIR: a drifting strand at the upper frame.
 
 MAKEUP: n/a (macro), rose-gold nails.
 
-HANDS & NAILS: both hands tying the glowing ribbon at the wrist, fingers articulate; rose-gold nails.
+HANDS & NAILS: BOTH HANDS tying the glowing ribbon of light at the wrist, RIGHT and LEFT FINGERS articulate looping and drawing the knot; rose-gold nails, neat, no white-knuckle tension.
 
 FACIAL MICRO-DYNAMICS: n/a.
 
-BODY POSTURE & WEIGHT: a gentle seated lean, hands working at the wrist — a tender, fluid gesture.
+BODY POSTURE & WEIGHT: GAZE (implied) to the wrist; the tying read through both working hands; RIGHT ARM and LEFT ARM both at the wrist tying the glowing ribbon, RIGHT and LEFT FINGERS articulate looping the knot; TORSO in a gentle seated lean over the hands; WAIST & HIPS settled in the kneel; LEGS folded under, weight low; WEIGHT settled low — a tender fluid gesture, the lit lantern glowing just beyond.
 
 KINETIC STILLNESS (8 layers): (1) the ribbon glow pulsing; (2) bangles sliding; (3) a strand drifting; (4) the lantern glow flickering beyond; (5) a soft breath-shift; (6) ribbon-ends fluttering; (7) a reflection on a bangle; (8) a micro-tremor of the tie.
 
@@ -6146,7 +6146,7 @@ LIGHTING: KEY — the ribbon's own glow. FILL — indigo ambient. RIM — lanter
 LENS + DOF + BOKEH: 100mm macro, f/2.8; focus on the ribbon and fingers; background warm gold bokeh.
 
 COMPOSITION: 9:16, wrist on a power point, the forearm as a leading diagonal, glowing negative space.
-SUBJECT FRAMING & POSITION: A macro/extreme close on her hands tying a glowing ribbon of light at her wrist, the lit lantern glowing beyond — a detail insert, body mostly out of frame. The hands and wrist fill the frame in a tender gesture, a gentle seated lean. Camera macro-near, the lantern soft behind. The figure is implied beyond the frame. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A macro/extreme close on her hands tying a glowing ribbon of light at her wrist, the lit lantern glowing beyond — a detail insert, body mostly out of frame. The hands and wrist fill the frame in a tender gesture, a gentle seated lean. Camera macro-near, the lantern soft behind. The figure is implied beyond the frame. A macro on both hands tying a glowing ribbon of light at her wrist with articulate fingers in a gentle seated lean, the lit lantern glowing just beyond, the body implied kneeling. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 ATMOSPHERE: the tender ritual of the wish.
 
@@ -6166,7 +6166,7 @@ LENS: 100mm macro, f/2.8.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
 - [00:00–00:02] Extreme macro: her fingers are already looping the glowing ribbon of light at her wrist as a slow push closes in, the lit lantern glowing just beyond.
-- [00:02–00:04] She draws the ribbon snug at the wrist, the loop tightening into a knot.
+- [00:02–00:04] She draws the ribbon snug at the wrist with articulate fingers, the loop tightening into a knot.
 - [00:04–00:06] The ribbon-glow surges as the knot sets, light pulsing up her wrist — foreshadowing the gown.
 
 FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
@@ -6207,11 +6207,11 @@ HAIR: the low braid in profile, loose strands lifting, color locked.
 
 MAKEUP: warm festival glow, rose-gold lip, kohl eyes lit by the lantern.
 
-HANDS & NAILS: both hands cradling the lantern up near her face, fingers articulate; rose-gold nails.
+HANDS & NAILS: BOTH HANDS cradling the lit lantern up near her face, RIGHT and LEFT FINGERS articulate around it; rose-gold nails, neat, no white-knuckle tension.
 
 FACIAL MICRO-DYNAMICS: eyes on the lantern flame with hopeful reverence, lips parted ~1mm on a whispered wish, lashes lowered.
 
-BODY POSTURE & WEIGHT: rising upright in profile, spine lengthening, weight transferring up — elegant lifting momentum, never stiff.
+BODY POSTURE & WEIGHT: GAZE into the flame; HEAD level in profile, tipped toward the lantern; SHOULDERS lifting as she rises; RIGHT ARM and LEFT ARM both cradling the lit lantern up near her face, RIGHT and LEFT FINGERS articulate around it; TORSO lengthening upright as she rises from the kneel; WAIST & HIPS lifting up out of the kneel; RIGHT LEG planting to push up, LEFT LEG following as she rises; FEET pressing down to rise, weight transferring up onto them; WEIGHT transferring up through the rise; HAIR and dupatta stirring as she lifts — elegant lifting momentum, never stiff.
 
 KINETIC STILLNESS (8 layers): (1) the lantern flame flickering on her face; (2) the dupatta lifting; (3) loose strands drifting; (4) string-lights swaying; (5) a slow breath; (6) the garland stirring; (7) the wrist-ribbon glowing; (8) a slow blink.
 
@@ -6222,7 +6222,7 @@ LIGHTING: KEY — the lantern flame up-lighting her face. FILL — indigo ambien
 LENS + DOF + BOKEH: 50mm, f/2.2; focus on the lantern and her near eye; festival as warm gold bokeh.
 
 COMPOSITION: 9:16, strong profile line, lantern glow as the focal pull, drifting strands framing.
-SUBJECT FRAMING & POSITION: A medium in clean full profile, Aira rising to her feet in profile lifting the lit lantern to her face, hair and dupatta stirring. The body reads as a profile line from roughly the waist up, rising upright with the spine lengthening, weight transferring up. Camera at mid distance, edge-on. She is in profile, rising, the lantern at her face. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A medium in clean full profile, Aira rising to her feet in profile lifting the lit lantern to her face, hair and dupatta stirring. The body reads as a profile line from roughly the waist up, rising upright with the spine lengthening, weight transferring up. Camera at mid distance, edge-on. She is in profile, rising, the lantern at her face. In profile she rises to her feet lifting the lit lantern to her face with both hands, the spine lengthening and weight transferring up onto the feet, hair and dupatta stirring as she rises. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 ATMOSPHERE: the hushed moment of the wish.
 
@@ -6241,9 +6241,9 @@ SHOT TYPE & ANGLE: profile medium, subject fills ~55%.
 LENS: 50mm, f/2.2.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Profile medium: she is already rising to her feet and lifting the lit lantern toward her face as a slow arc swings from profile toward three-quarter; hair and dupatta stirring, gaze into the flame.
+- [00:00–00:02] Profile medium: she is already rising to her feet and lifting the lit lantern toward her face with both hands as a slow arc swings from profile toward three-quarter, weight transferring up onto the feet; hair and dupatta stirring, gaze into the flame.
 - [00:02–00:04] She whispers a wish to the flame, the arc easing round and lantern-light warming her profile; eyes closing softly then opening with hope.
-- [00:04–00:06] She draws the lantern back, ready to release it upward, gaze lifting to the night sky.
+- [00:04–00:06] She draws the lantern back in both hands, weight settling onto her feet, ready to release it upward, gaze lifting to the night sky.
 
 FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
@@ -6283,11 +6283,11 @@ HAIR: a braid with the dupatta, strands stirring in the warm air.
 
 MAKEUP: a festival glow, rose-gold lip; real pores and fine vellus texture.
 
-HANDS & NAILS: both hands lifting to release the lantern skyward, fingers relaxed; rose-gold nails, neat cuticles.
+HANDS & NAILS: BOTH HANDS lifting to release the lantern skyward, RIGHT and LEFT FINGERS relaxed as they open; rose-gold nails, neat cuticles, no white-knuckle tension.
 
 FACIAL MICRO-DYNAMICS: a joyful anticipatory gaze up to the rising lantern, lips parting before the line, eyes shining — radiant and fully recognizable, identity-locked, ready for the transform mid-clip.
 
-BODY POSTURE & WEIGHT: rising to her feet at the bank, weight settling, arms lifting to release — poised, the instant before the weave.
+BODY POSTURE & WEIGHT: GAZE following the lantern up then to lens on the line; HEAD level, chin lifting as the gown weaves; SHOULDERS open as both arms lift to release; RIGHT ARM and LEFT ARM lifting to release the lantern skyward, RIGHT and LEFT FINGERS relaxed as they open; TORSO standing tall at the bank, lengthening; WAIST & HIPS settling square as she stands; RIGHT LEG and LEFT LEG planted even at the bank; FEET grounded even on the bank; WEIGHT settling even as she rises to release — poised, the instant before the weave.
 
 KINETIC STILLNESS (8 layers): (1) the first lanterns rising into the indigo sky; (2) the dark river mirroring the lights; (3) strands stirring in the warm air; (4) the released lantern climbing; (5) chest breathing before the line; (6) a wrist-ribbon glow; (7) the dupatta stirring; (8) lashes settling on a blink.
 
@@ -6298,7 +6298,7 @@ LIGHTING: KEY — warm lantern-gold. FILL — indigo ambient. RIM — lantern-ri
 LENS + DOF + BOKEH: 35mm, f/2.8; focus on Aira and the lantern; the rising lanterns and river as soft gold bokeh, clearly present and vast behind.
 
 COMPOSITION: 9:16, Aira a warm vertical at the bank, lanterns beginning to rise, headroom for the lantern sky.
-SUBJECT FRAMING & POSITION: A front-on full/wide hero, Aira at the river's edge in the indigo set Look A releasing a lantern — the clean still the transform clip opens on. The complete figure is in frame, centred, the riverside lantern world present behind. Camera at full/wide distance, lantern-sky headroom. She faces front, centred. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A front-on full/wide hero, Aira at the river's edge in the indigo set Look A releasing a lantern — the clean still the transform clip opens on. The complete figure is in frame, centred, the riverside lantern world present behind. Camera at full/wide distance, lantern-sky headroom. She faces front, centred. She rises to her feet at the river's edge in her indigo set, weight settling even, both arms lifting to release a single lit lantern skyward — the clean Look A the weave opens on. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 ATMOSPHERE: joyful anticipation — the breath before the festival dresses her in light.
 
@@ -6317,9 +6317,9 @@ SHOT TYPE & ANGLE: front-on full/wide hero, subject fills ~55%, rising in frame.
 LENS: 35mm, f/2.8.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Cut to a front-on full/wide hero at a HELD angle (Veo first frame = the indigo-set Look A still): already in motion, a gentle push-with easing in as she releases a single lit lantern skyward and the first of a thousand sky-lanterns lift around her — the indigo set fully intact, the gown NOT yet woven, the dark river mirroring the lights behind; gaze following the lantern up.
-- [00:02–00:04] The transform BEGINS here, mid-clip: as the real sky-lanterns rise on real flame-buoyancy their warm light streams down and weaves the glowing festival gown around her exactly where it passes — dreamy but grounded in real lantern-light (no cheap sparkles), the lantern-filled sky vast behind; chin lifting, eyes widening in radiant wonder (angle held, identity locked).
-- [00:04–00:06] The weave completes and the look settles smoothly and fully into the glowing festival gown of Frame 5's still (Veo's LAST frame), the gown blazing soft with lantern-light — a radiant joyful smile landing as she delivers the spoken line, no last-second snap.
+- [00:00–00:02] Cut to a front-on full/wide hero at a HELD angle (Veo first frame = the indigo-set Look A still): already in motion, a gentle push-with easing in as she releases a single lit lantern skyward with both hands and the first of a thousand sky-lanterns lift around her — weight settling even, the indigo set fully intact, the gown NOT yet woven, the dark river mirroring the lights; gaze following the lantern up.
+- [00:02–00:04] The transform BEGINS here, mid-clip: as the real sky-lanterns rise on real flame-buoyancy their warm light streams down and weaves the glowing festival gown around her exactly where it passes as her chin lifts — dreamy but grounded in real lantern-light (no cheap sparkles), the lantern-filled sky vast behind; eyes widening in radiant wonder (angle held, identity locked).
+- [00:04–00:06] The weave completes and the look settles smoothly and fully into the glowing festival gown of Frame 5's still (Veo's LAST frame), the gown blazing soft with lantern-light — a radiant joyful smile landing as she delivers “make a wish — then become it.”, no last-second snap.
 
 FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
@@ -6361,11 +6361,11 @@ HAIR: the loosened braid drifting as she glances back, gold-lit.
 
 MAKEUP: festival glow on the turned cheek, rose-gold lip.
 
-HANDS & NAILS: one hand reaching toward the rising lanterns, the other trailing light; rose-gold nails.
+HANDS & NAILS: RIGHT HAND reaching up toward the rising lanterns, RIGHT FINGERS reaching; LEFT HAND trailing light, LEFT FINGERS soft; rose-gold nails, neat, no white-knuckle tension.
 
 FACIAL MICRO-DYNAMICS: a serene over-the-shoulder glance, a soft radiant smile, lantern catchlight in the eye.
 
-BODY POSTURE & WEIGHT: standing watching the sky, body in a long line, torso rotating back for the glance — fluid counter-motion, alive.
+BODY POSTURE & WEIGHT: GAZE up among the lanterns then rotating back to lens; HEAD turning back over the shoulder for the glance; SHOULDERS rotating in the counter-motion; RIGHT ARM reaching up toward the rising lanterns, the RIGHT HAND open toward them, RIGHT FINGERS reaching; LEFT ARM trailing light, the LEFT HAND open with LEFT FINGERS soft; TORSO standing tall watching the sky, rotating back for the glance; WAIST & HIPS square, weight settled even; RIGHT LEG and LEFT LEG planted even on the bank; FEET grounded even; WEIGHT settled even — fluid counter-motion, alive.
 
 KINETIC STILLNESS (8 layers): (1) the light-train trailing and shedding motes; (2) lanterns rising; (3) hair drifting; (4) gown glow rippling; (5) chest breathing; (6) garland stirring; (7) river reflections shimmering; (8) a slow blink mid-glance.
 
@@ -6376,7 +6376,7 @@ LIGHTING: KEY — lantern-gold catching her face on the glance. FILL — indigo 
 LENS + DOF + BOKEH: 50mm, f/1.8; focus on her glancing eye; sky melting to gold bokeh; trailing motes sparkling.
 
 COMPOSITION: 9:16, Aira facing the lantern sky, lanterns crowning, over-shoulder eye-line drawing the viewer.
-SUBJECT FRAMING & POSITION: A three-quarter back over-the-shoulder medium, Aira watching the lantern-filled sky in the glowing gown, glancing back to lens, light trailing. The body reads from roughly the waist up, standing watching the sky, body in a long line, torso rotating back for the glance. Camera at mid distance behind her. Her back leads, face turned back over the shoulder. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A three-quarter back over-the-shoulder medium, Aira watching the lantern-filled sky in the glowing gown, glancing back to lens, light trailing. The body reads from roughly the waist up, standing watching the sky, body in a long line, torso rotating back for the glance. Camera at mid distance behind her. Her back leads, face turned back over the shoulder. She stands watching the lantern-filled sky in the glowing gown, right hand reaching up toward the rising lanterns and left trailing light, the torso rotating back over the shoulder for a glance to lens. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 ATMOSPHERE: luminous joy, the wish set free.
 
@@ -6395,8 +6395,8 @@ SHOT TYPE & ANGLE: three-quarter back over-shoulder medium, subject fills ~50%.
 LENS: 50mm, f/1.8.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Three-quarter back over-shoulder medium: she is already watching the lantern-filled sky and reaching upward in the glowing gown as a tracking arc rises behind her toward the lights; gaze up among the lanterns.
-- [00:02–00:04] The arc curves back to catch her as she rotates her torso and glances back to lens, lantern-glow warm in her eyes, a soft joyful smile.
+- [00:00–00:02] Three-quarter back over-shoulder medium: she is already watching the lantern-filled sky and reaching upward with her right hand in the glowing gown as a tracking arc rises behind her toward the lights; gaze up among the lanterns.
+- [00:02–00:04] The arc curves back to catch her as she rotates her torso and glances back to lens over the shoulder, lantern-glow warm in her eyes, a soft joyful smile.
 - [00:04–00:06] She faces the sky again, light trailing from the gown, gaze drifting up after the rising lanterns.
 
 FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
@@ -6437,11 +6437,11 @@ HAIR: the loosened braid re-settling toward the Frame 1 braid.
 
 MAKEUP: festival glow easing back to the opening finish.
 
-HANDS & NAILS: arms returning to cradle a fresh unlit lantern — echoing Frame 1; rose-gold nails.
+HANDS & NAILS: BOTH HANDS returning to cradle a fresh unlit lantern, RIGHT and LEFT FINGERS articulate around it — echoing Frame 1; rose-gold nails, neat, no white-knuckle tension.
 
 FACIAL MICRO-DYNAMICS: the same soft hopeful smile as Frame 1, eyes on the lantern, lips softly closed.
 
-BODY POSTURE & WEIGHT: kneeling back into the Frame 1 stance, weight settled.
+BODY POSTURE & WEIGHT: GAZE lowering to the river; HEAD bowing back toward the water; SHOULDERS softening down into the kneel; RIGHT ARM and LEFT ARM returning to cradle a fresh unlit lantern, RIGHT and LEFT FINGERS articulate around it — echoing Frame 1; TORSO folding back down into the graceful kneel; WAIST & HIPS settling low over the heels; RIGHT LEG and LEFT LEG folding back under into the kneel; FEET tucking under, weight settling low; WEIGHT settling low and grounded in the kneel; HAIR soft as the gown softens to the indigo set.
 
 KINETIC STILLNESS (8 layers): (1) gown dissolving back to the set; (2) string-lights swaying; (3) a strand drifting; (4) lanterns rising; (5) chest breathing; (6) the dupatta stirring; (7) a water reflection shimmering; (8) a slow blink.
 
@@ -6452,7 +6452,7 @@ LIGHTING: identical scheme to Frame 1 — warm lantern key, indigo ambient, gold
 LENS + DOF + BOKEH: 28mm, f/3.2, matching Frame 1; lanterns as gold bokeh.
 
 COMPOSITION: 9:16, mirroring Frame 1's riverside framing for a seamless cut.
-SUBJECT FRAMING & POSITION: A wide matching Frame 1, Aira kneeling back to the water's edge as the lantern-light gown softens toward the indigo set. The full figure reads small, kneeling back into the opening stance, weight settled. Camera at wide distance, mirroring Frame 1's riverside framing for a seamless loop. She kneels mid-frame, low to the water. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A wide matching Frame 1, Aira kneeling back to the water's edge as the lantern-light gown softens toward the indigo set. The full figure reads small, kneeling back into the opening stance, weight settled. Camera at wide distance, mirroring Frame 1's riverside framing for a seamless loop. She kneels mid-frame, low to the water. She kneels back to the water's edge, weight settling low over folding legs, both hands returning to cradle a fresh unlit lantern as the lantern-light gown softens to the indigo set, reasserting the Frame-1 kneel for a seamless loop. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 ATMOSPHERE: the gentle return to the hopeful kneel.
 
@@ -6471,9 +6471,9 @@ SHOT TYPE & ANGLE: wide matching Frame 1, subject ~30%.
 LENS: 28mm, f/3.2.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Wide matching Frame 1: a slow drift-out and crane-up is already reversing the opening move as she kneels back toward the water's edge; gaze lowering to the river.
+- [00:00–00:02] Wide matching Frame 1: a slow drift-out and crane-up is already reversing the opening move as she kneels back toward the water's edge, weight settling low; gaze lowering to the river.
 - [00:02–00:04] The drift continues as the lantern-light gown dissolves back into the indigo festival set and a fresh lantern returns to her hands; a soft hopeful warmth returning.
-- [00:04–00:06] She settles into the exact kneel of Frame 1 at the water, eyes soft on the mirrored lights — a seamless loop seam.
+- [00:04–00:06] She settles into the exact kneel of Frame 1 at the water, weight low and grounded, eyes soft on the mirrored lights — a seamless loop seam.
 
 FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
@@ -6551,11 +6551,11 @@ HAIR: a soft 70s wave, a strand swaying, color locked.
 
 MAKEUP: warm bronze glow, soft lip, amber catchlight.
 
-HANDS & NAILS: one hand holding the token, the other at a cabinet; fingers articulate; short nails in warm nude.
+HANDS & NAILS: RIGHT HAND holding the token, RIGHT FINGERS wrapped around it; LEFT HAND on a cabinet, LEFT FINGERS on the edge; short nails in warm nude, neat, no white-knuckle tension.
 
 FACIAL MICRO-DYNAMICS: chin level, a cool playful half-smile, eyes scanning the arcade with an amber catchlight, lips softly closed.
 
-BODY POSTURE & WEIGHT: weight on one foot as the other slips into a sneaker, torso tall — poised and alive, never stiff.
+BODY POSTURE & WEIGHT: GAZE scanning the neon with cool delight; HEAD level, sweeping the aisle; SHOULDERS square and easy; RIGHT ARM holding the token, the RIGHT HAND closed around it, RIGHT FINGERS wrapped; LEFT ARM braced, the LEFT HAND on a cabinet, LEFT FINGERS on the edge; TORSO tall and easy stepping in; WAIST & HIPS squared with a slight counter-tilt; RIGHT LEG weight-bearing planted, LEFT LEG (working) slipping the foot into a sneaker at the cabinet step; FEET & WEIGHT on the planted right foot as the left slides into the sneaker; HAIR sleek in the CRT glow — poised and alive, never stiff (living stillness).
 
 KINETIC STILLNESS (8 layers): (1) CRT scanlines flickering; (2) laser-grid pulsing; (3) a hair strand swaying; (4) cabinet attract-mode lights cycling; (5) chest breathing; (6) the token glinting; (7) a neon reflection on the floor; (8) a slow blink.
 
@@ -6566,7 +6566,7 @@ LIGHTING: KEY — warm amber cabinet glow from the side. FILL — cyan ambient. 
 LENS + DOF + BOKEH: 28mm slightly wide, f/3.2; focus on Aira; cabinets as neon bokeh; aisle soft.
 
 COMPOSITION: 9:16, aisle one-point perspective, Aira centred, cabinet lights as rhythm.
-SUBJECT FRAMING & POSITION: A wide establishing shot down the glowing arcade aisle, Aira mid-frame between cabinets, CRT glow and laser-grid behind. The full figure reads mid-aisle, weight on one foot as the other slips into a sneaker, torso tall. Camera at wide distance, the cabinet rows and laser-grid receding. She stands mid-frame, near-frontal, the aisle as depth. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A wide establishing shot down the glowing arcade aisle, Aira mid-frame between cabinets, CRT glow and laser-grid behind. The full figure reads mid-aisle, weight on one foot as the other slips into a sneaker, torso tall. Camera at wide distance, the cabinet rows and laser-grid receding. She stands mid-frame, near-frontal, the aisle as depth. She steps in between the arcade cabinets, weight on the planted right foot as the left slips into a sneaker at a cabinet step, right hand holding the token and left on a cabinet, mid-frame in the glowing aisle with CRT glow and laser-grid behind. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 ATMOSPHERE: playful retro energy, neon nostalgia.
 
@@ -6585,9 +6585,9 @@ SHOT TYPE & ANGLE: wide, subject fills ~35%.
 LENS: 28mm, f/3.2.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Wide establishing down the glowing arcade aisle: she is already stepping in between the cabinets as a slow glide-in moves toward her, CRT glow and laser-grid behind; eyes scanning the neon with cool delight.
-- [00:02–00:04] The glide carries closer as she slips on a sneaker at a cabinet step and pockets the token, the checkerboard floor lit beneath; a playful set to her mouth.
-- [00:04–00:06] She steps toward a big glowing cabinet button, eyes locking onto it with mischievous anticipation.
+- [00:00–00:02] Wide establishing down the glowing arcade aisle: she is already stepping in between the cabinets — weight on the planted foot as the other slips into a sneaker, left hand on a cabinet — as a slow glide-in moves toward her, CRT glow and laser-grid behind; eyes scanning the neon with cool delight.
+- [00:02–00:04] The glide carries closer as she settles the sneaker and pockets the token in her right hand, the checkerboard floor lit beneath; a playful set to her mouth.
+- [00:04–00:06] She steps toward a big glowing cabinet button, weight rolling forward, eyes locking onto it with mischievous anticipation.
 
 FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
@@ -6627,11 +6627,11 @@ HAIR: a drifting strand at the upper frame.
 
 MAKEUP: n/a (macro), warm-nude nails.
 
-HANDS & NAILS: her finger pressing the glowing button, the others poised; warm-nude nails.
+HANDS & NAILS: The RIGHT FINGER pressing the big glowing arcade button, the other RIGHT FINGERS poised, light blooming under the fingertip; warm-nude nails, neat, no white-knuckle tension.
 
 FACIAL MICRO-DYNAMICS: n/a.
 
-BODY POSTURE & WEIGHT: a deliberate press, hand articulate — a crisp, fluid gesture.
+BODY POSTURE & WEIGHT: GAZE (implied) to the button; the press read through the extended arm; RIGHT ARM extended, the RIGHT HAND pressing the big glowing arcade button, the RIGHT FINGER deliberate at the press with the others poised; LEFT ARM implied easy; TORSO implied tall above, weight settled; WAIST & HIPS implied square; FEET & WEIGHT settled even as the arm extends — a crisp deliberate press, light blooming under the fingertip.
 
 KINETIC STILLNESS (8 layers): (1) the button glow blooming under the press; (2) light leaking around the fingertip; (3) a strand drifting; (4) CRT flicker beyond; (5) a soft breath-shift; (6) the sweatband shifting; (7) a reflection on the button dome; (8) a micro-tremor of the press.
 
@@ -6642,7 +6642,7 @@ LIGHTING: KEY — the button's own glow. FILL — cyan ambient. RIM — magenta 
 LENS + DOF + BOKEH: 100mm macro, f/2.8; focus on the button and fingertip; background neon bokeh.
 
 COMPOSITION: 9:16, button on a power point, the finger as a leading diagonal, glowing negative space.
-SUBJECT FRAMING & POSITION: A macro/extreme close on her finger pressing the big glowing arcade button, light blooming under her fingertip — a detail insert, body out of frame. The hand and button fill the frame in a crisp deliberate press. Camera macro-near, the glow blooming in the negative space. The figure is implied beyond the frame. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A macro/extreme close on her finger pressing the big glowing arcade button, light blooming under her fingertip — a detail insert, body out of frame. The hand and button fill the frame in a crisp deliberate press. Camera macro-near, the glow blooming in the negative space. The figure is implied beyond the frame. A macro on her finger pressing the big glowing arcade button, the arm extended in a crisp deliberate press, light blooming under the fingertip, the body implied tall and settled above. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 ATMOSPHERE: the crisp instant before the shift.
 
@@ -6662,7 +6662,7 @@ LENS: 100mm macro, f/2.8.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
 - [00:00–00:02] Extreme macro: her finger is already descending toward the big glowing arcade button as a slow push closes in, light pooling beneath the fingertip.
-- [00:02–00:04] She presses and the glow surges up around her fingertip, the button depressing.
+- [00:02–00:04] She presses and the glow surges up around her fingertip, the button depressing under the deliberate finger.
 - [00:04–00:06] The glow flares and a scanline ripple breaks outward as the first decade-shift triggers.
 
 FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
@@ -6703,11 +6703,11 @@ HAIR: a high 80s pony, glossy.
 
 MAKEUP: a bold magenta lid, satin skin; real pores and fine vellus texture.
 
-HANDS & NAILS: one hand easing back from the button, the other relaxed at her side; bold-nude nails, neat cuticles.
+HANDS & NAILS: RIGHT HAND easing back from the button, RIGHT FINGERS relaxing; LEFT HAND relaxed at her side, LEFT FINGERS soft; bold-nude nails, neat cuticles, no white-knuckle tension.
 
 FACIAL MICRO-DYNAMICS: a delighted grin in profile, a small bright breath, eyes bright, cheeks lifting — fully recognizable, identity-locked.
 
-BODY POSTURE & WEIGHT: upright in profile, torso lifted with the delight, weight even — lively and reactive, never stiff.
+BODY POSTURE & WEIGHT: GAZE flicking down at herself then up with delight; HEAD level in profile, lifting with the surprise; SHOULDERS lifted with the delight; RIGHT ARM easing back from the button, the RIGHT HAND drawing away, RIGHT FINGERS relaxing; LEFT ARM relaxed at her side, the LEFT HAND open, LEFT FINGERS soft; TORSO upright in profile, lifted and reactive; WAIST & HIPS even with a slight counter-tilt; RIGHT LEG and LEFT LEG in an even stance, weight settled; FEET & WEIGHT even and grounded; HAIR sleek in the magenta-cyan glow — lively and reactive, never stiff.
 
 KINETIC STILLNESS (8 layers): (1) the resolved 80s look settled crisp; (2) the arcade glowing magenta-cyan; (3) a high-pony strand lifting; (4) CRT scanlines crawling ambient behind; (5) chest breathing; (6) the chunky watch catching a glint; (7) cabinet lights pulsing; (8) lashes flaring on the grin.
 
@@ -6718,7 +6718,7 @@ LIGHTING: KEY — magenta cabinet glow. FILL — cyan ambient. RIM — cyan edge
 LENS + DOF + BOKEH: 50mm, f/2.2; focus on her near eye; the arcade as magenta-cyan bokeh, cabinets clearly present behind.
 
 COMPOSITION: 9:16, strong profile line, the neon arcade framing her, headroom above.
-SUBJECT FRAMING & POSITION: A medium in clean full profile, Aira fully in the resolved 80s power-blazer look, the arcade magenta-cyan behind — the clean still the Frame-3 clip settles into. The body reads as a profile line from roughly the waist up, upright with the torso lifted in delight, weight even. Camera at mid distance, edge-on, the arcade present behind. She is in profile, not facing the lens. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A medium in clean full profile, Aira fully in the resolved 80s power-blazer look, the arcade magenta-cyan behind — the clean still the Frame-3 clip settles into. The body reads as a profile line from roughly the waist up, upright with the torso lifted in delight, weight even. Camera at mid distance, edge-on, the arcade present behind. She is in profile, not facing the lens. Standing upright in profile fully in the 80s power-blazer look, torso lifted with delight and weight even, right hand easing back from the button and left relaxed at her side, the arcade lit magenta-cyan — the clean resolved 80s reveal. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 ATMOSPHERE: the joyful first decade-jump, landed.
 
@@ -6737,7 +6737,7 @@ SHOT TYPE & ANGLE: profile medium, subject fills ~55%.
 LENS: 50mm, f/2.2.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Cut to a clean profile medium at a HELD angle: already in motion, a gentle push-with easing in as she eases her hand back from the just-pressed button — still in the 70s jumpsuit, the arcade still amber, a scanline ripple just beginning; gaze flicking down at herself.
+- [00:00–00:02] Cut to a clean profile medium at a HELD angle: already in motion, a gentle push-with easing in as she eases her right hand back from the just-pressed button — still in the 70s jumpsuit, the arcade still amber, a scanline ripple just beginning; gaze flicking down at herself.
 - [00:02–00:04] The glitch-shift BEGINS here, mid-clip: a scanline-wipe sweeps smoothly up her body, shifting the 70s jumpsuit to the 80s power-blazer and re-tinting the arcade magenta-cyan exactly where it passes — a clean digital wipe, never an instant snap, the angle held; eyes widening with playful surprise.
 - [00:04–00:06] The wipe completes and settles into the clean resolved 80s look (this frame's still = Veo last frame), she reacting with a delighted grin checking the new look, the arcade glowing magenta-cyan.
 
@@ -6779,11 +6779,11 @@ HAIR: a clipped 90s half-up.
 
 MAKEUP: a matte 90s neutral, satin skin; real pores and fine vellus texture.
 
-HANDS & NAILS: fingertips easy near her jaw (articulate); muted 90s-tone nails, neat cuticles.
+HANDS & NAILS: RIGHT HAND fingertips easy near her jaw, RIGHT FINGERS articulate; LEFT HAND soft, LEFT FINGERS relaxed; muted 90s-tone nails, neat cuticles, no white-knuckle tension.
 
 FACIAL MICRO-DYNAMICS: a playful confident smirk, one brow arched, eyes sparkling, a slow delighted blink — fully recognizable, identity-locked.
 
-BODY POSTURE & WEIGHT: chin lifted from the low angle, shoulders settled back with confidence — powerful and fluid.
+BODY POSTURE & WEIGHT: GAZE catching the green flicker then following the colour; HEAD level, chin lifted from the low angle; SHOULDERS settled back with confidence; RIGHT ARM raised easy near the jaw, the RIGHT HAND fingertips near her jawline, RIGHT FINGERS articulate; LEFT ARM easy, the LEFT HAND soft, LEFT FINGERS relaxed; TORSO tall and settled, read from the low hero angle; WAIST & HIPS square and grounded; RIGHT LEG and LEFT LEG even and planted; FEET & WEIGHT settled even; HAIR sleek in the grunge-green wash — powerful and fluid.
 
 KINETIC STILLNESS (8 layers): (1) the resolved 90s look settled; (2) the arcade glowing grunge-green; (3) a half-up strand lifting; (4) CRT scanlines crawling ambient; (5) chest breathing; (6) hoops settling; (7) cabinet lights pulsing; (8) lashes lowering on the smirk.
 
@@ -6794,7 +6794,7 @@ LIGHTING: KEY — green cabinet glow. FILL — amber ambient. RIM — green edge
 LENS + DOF + BOKEH: 50mm, f/1.8; focus on the near eye; the green arcade as bokeh, cabinets present behind.
 
 COMPOSITION: 9:16, face on the upper third from the low angle, empowering framing.
-SUBJECT FRAMING & POSITION: A low-angle close-up on her face and shoulder, fully in the resolved 90s denim-and-turtleneck look, the arcade grunge-green behind — the clean still the Frame-4 clip settles into. The body reads as face-and-shoulder, the face on the upper third from the low angle, chin lifted, shoulders settled. Camera near and looking up, the arcade present behind. An empowering, near-frontal close framing. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A low-angle close-up on her face and shoulder, fully in the resolved 90s denim-and-turtleneck look, the arcade grunge-green behind — the clean still the Frame-4 clip settles into. The body reads as face-and-shoulder, the face on the upper third from the low angle, chin lifted, shoulders settled. Camera near and looking up, the arcade present behind. An empowering, near-frontal close framing. From a low hero angle she stands fully in the 90s denim-and-turtleneck look, chin lifted and shoulders settled back with confidence, right fingertips easy near her jaw, the arcade lit grunge-green — the clean resolved 90s reveal. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 ATMOSPHERE: growing playful confidence, the decades stacked.
 
@@ -6813,7 +6813,7 @@ SHOT TYPE & ANGLE: low-angle close-up, subject fills ~60%.
 LENS: 50mm, f/1.8.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Cut to a low-angle close-up at a HELD low angle: already in motion, a gentle push-with easing in as the second press registers — still in the 80s look, the arcade still magenta-cyan, a green scanline flicker just beginning; gaze catching it.
+- [00:00–00:02] Cut to a low-angle close-up at a HELD low angle: already in motion, a gentle push-with easing in as the second press registers — still in the 80s look, the arcade still magenta-cyan, a green scanline flicker just beginning, her right hand easing near the jaw; gaze catching it.
 - [00:02–00:04] The glitch-shift BEGINS here, mid-clip: a grunge-green scanline-wipe sweeps smoothly up her collar and shoulder, shifting the 80s look to the 90s denim-and-turtleneck and re-tinting the arcade green exactly where it passes — a clean digital wipe, never a snap, the low angle held; eyes following the colour, lips curving.
 - [00:04–00:06] The wipe completes and settles into the clean resolved 90s look (this frame's still = Veo last frame), a confident playful smirk landing with a slow delighted blink, the arcade glowing green.
 
@@ -6855,11 +6855,11 @@ HAIR: a polished modern style, face-framing strands.
 
 MAKEUP: clean modern glow, satin skin, a soft rose lip.
 
-HANDS & NAILS: one hand on the hip, the other gesturing toward the decade-ghosts in the CRTs; modern-nude nails.
+HANDS & NAILS: RIGHT HAND on the hip, RIGHT FINGERS along the hipbone; LEFT HAND gesturing toward the decade-ghosts in the CRTs, LEFT FINGERS softly spread; modern-nude nails, neat, no white-knuckle tension.
 
 FACIAL MICRO-DYNAMICS: a radiant confident smile delivering the line, eyes bright, brows lifted in playful pride, cheeks high.
 
-BODY POSTURE & WEIGHT: tall and grounded, soft contrapposto, shoulders open, chin level — commanding and relaxed.
+BODY POSTURE & WEIGHT: GAZE cool and pleased, flicking across the CRT ghosts then to lens; HEAD level, turning to camera for the line; SHOULDERS open and relaxed; RIGHT ARM bent to the hip, the RIGHT HAND on the hip, RIGHT FINGERS along the hipbone; LEFT ARM gesturing toward the CRT ghosts, the LEFT HAND open, LEFT FINGERS softly spread; TORSO tall and grounded in a soft contrapposto; WAIST & HIPS in a gentle counter-tilt, weight eased onto the back leg; RIGHT LEG and LEFT LEG grounded with weight on the back leg; FEET & WEIGHT settled and commanding; HAIR sleek in the now-look — commanding and relaxed.
 
 KINETIC STILLNESS (8 layers): (1) decade-ghosts glitching in the CRTs; (2) laser-grid pulsing; (3) face-framing strands lifting; (4) the set hem swaying; (5) chest breathing on the line; (6) watch glinting; (7) floor reflection wavering; (8) lashes flaring on the smile.
 
@@ -6870,7 +6870,7 @@ LIGHTING: KEY — clean white-cool key. FILL — neon ambient. RIM — cyan-mage
 LENS + DOF + BOKEH: 28mm slightly wide, f/3.2; deep enough to read the look and the CRT ghosts; cabinet lights as neon bokeh.
 
 COMPOSITION: 9:16, Aira centred and dominant, the decade-ghosts framing her, symmetrical arcade.
-SUBJECT FRAMING & POSITION: A front-on full/wide hero, Aira striking a pose in the clean-now look, faint decade-ghosts glitching in the CRTs behind. The complete figure is in frame, centred and dominant, tall and grounded in a soft contrapposto, shoulders open, chin level. Camera at full/wide distance, the CRT-ghosts framing her. She faces front, centred and commanding-relaxed. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A front-on full/wide hero, Aira striking a pose in the clean-now look, faint decade-ghosts glitching in the CRTs behind. The complete figure is in frame, centred and dominant, tall and grounded in a soft contrapposto, shoulders open, chin level. Camera at full/wide distance, the CRT-ghosts framing her. She faces front, centred and commanding-relaxed. She strikes a pose in the clean-now look, tall and grounded in a soft contrapposto with the right hand on the hip and the left gesturing toward the faint decade-ghosts glitching in the CRTs, shoulders open as she turns to lens for the line. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 ATMOSPHERE: triumphant playful confidence — the punchline of the time-jump.
 
@@ -6889,9 +6889,9 @@ SHOT TYPE & ANGLE: front-on full/wide hero, subject fills ~50%.
 LENS: 28mm, f/3.2.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Front-on full/wide hero: she is already settling into the clean-now look, hand finding her hip, as a slow push eases toward dead-front; gaze cool and pleased.
-- [00:02–00:04] She gestures to the faint decade-ghosts glitching in the CRTs behind, eyes flicking across them with playful pride.
-- [00:04–00:06] She turns fully to lens and delivers the spoken line with a radiant smile, brows lifting in playful confidence.
+- [00:00–00:02] Front-on full/wide hero: she is already settling into the clean-now look, her right hand finding her hip and weight easing onto the back leg, as a slow push eases toward dead-front; gaze cool and pleased.
+- [00:02–00:04] She gestures with her left hand to the faint decade-ghosts glitching in the CRTs behind, eyes flicking across them with playful pride, the right hand set on the hip.
+- [00:04–00:06] She turns fully to lens and delivers “every era looks good on me.” with a radiant smile, brows lifting in playful confidence.
 
 FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
@@ -6933,11 +6933,11 @@ HAIR: the modern style restyling back toward the 70s wave.
 
 MAKEUP: clean glow easing back to the opening warm bronze.
 
-HANDS & NAILS: arms returning toward the Frame 1 stance, the token back in hand — echoing Frame 1; warm-nude nails.
+HANDS & NAILS: RIGHT HAND with the token back in hand, RIGHT FINGERS wrapped — echoing Frame 1; LEFT HAND open toward a cabinet, LEFT FINGERS soft; warm-nude nails, neat, no white-knuckle tension.
 
 FACIAL MICRO-DYNAMICS: the same cool playful half-smile as Frame 1, eyes on the aisle, lips softly closed.
 
-BODY POSTURE & WEIGHT: turning back into the Frame 1 stance, weight settled.
+BODY POSTURE & WEIGHT: GAZE sweeping the cabinets; HEAD turning back down the aisle; SHOULDERS easing back to the entry set; RIGHT ARM returning toward the entry pose, the RIGHT HAND with the token back in hand, RIGHT FINGERS wrapped — echoing Frame 1; LEFT ARM easing toward a cabinet, the LEFT HAND open, LEFT FINGERS soft; TORSO rotating back into the Frame-1 stance; WAIST & HIPS shifting square; RIGHT LEG and LEFT LEG easing back to the entry stance; FEET & WEIGHT settling onto the entry footing; HAIR sleek as the now-look glitches back toward the 70s jumpsuit.
 
 KINETIC STILLNESS (8 layers): (1) the look glitching back to 70s; (2) CRT scanlines flickering; (3) a strand swaying; (4) laser-grid pulsing; (5) chest breathing; (6) the token glinting; (7) a floor reflection; (8) a slow blink.
 
@@ -6948,7 +6948,7 @@ LIGHTING: identical scheme to Frame 1 — warm amber key, cyan fill, magenta rim
 LENS + DOF + BOKEH: 28mm, f/3.2, matching Frame 1; cabinets as neon bokeh.
 
 COMPOSITION: 9:16, mirroring Frame 1's aisle framing for a seamless cut.
-SUBJECT FRAMING & POSITION: A wide matching Frame 1, Aira turning back down the aisle as the now-look glitches back toward the 70s jumpsuit. The full figure reads mid-aisle, turning back into the opening stance, weight settled. Camera at wide distance, mirroring Frame 1's arcade-aisle framing for a seamless loop. She turns back, the aisle as depth. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A wide matching Frame 1, Aira turning back down the aisle as the now-look glitches back toward the 70s jumpsuit. The full figure reads mid-aisle, turning back into the opening stance, weight settled. Camera at wide distance, mirroring Frame 1's arcade-aisle framing for a seamless loop. She turns back, the aisle as depth. She turns back down the aisle, weight settling into the Frame-1 stance, token back in her right hand and left easing toward a cabinet as the now-look glitches back toward the 70s jumpsuit, for a seamless loop. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 ATMOSPHERE: the gentle return to the arcade stroll.
 
@@ -6967,9 +6967,9 @@ SHOT TYPE & ANGLE: wide matching Frame 1, subject ~35%.
 LENS: 28mm, f/3.2.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Wide matching Frame 1: a slow glide-out down the aisle is already reversing the opening glide-in as she turns back; gaze sweeping the cabinets.
-- [00:02–00:04] The glide continues as the now-look glitches back to the 70s jumpsuit and the token returns to her hand; a cool playful smile returning.
-- [00:04–00:06] She settles into the exact stance of Frame 1 in the aisle, eyes bright on the neon — a seamless loop seam.
+- [00:00–00:02] Wide matching Frame 1: a slow glide-out down the aisle is already reversing the opening glide-in as she turns back, the token returning to her right hand; gaze sweeping the cabinets.
+- [00:02–00:04] The glide continues as the now-look glitches back to the 70s jumpsuit and the token returns fully to her hand; a cool playful smile returning.
+- [00:04–00:06] She settles into the exact stance of Frame 1 in the aisle, weight settled, eyes bright on the neon — a seamless loop seam.
 
 FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
