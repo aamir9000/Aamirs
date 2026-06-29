@@ -162,6 +162,18 @@ woman."** Never write the character's name into a Veo prompt. Ingredient labels 
 - **DIFFERENCE STRING:** Venetian gondola (seated passenger) · journey **side canals → under a bridge → grand canal → lagoon mouth** · signature **water-mirror reflections + drifting golden light + petals** · energy **dreamy vintage** · light **soft golden Venice afternoon (warm/muted)** · wardrobe **emerald vintage day-dress + gloves + lace parasol + pearls** · hair **braided ribbon updo** · shot-grammar **high descend / water-line dolly-through / parallel profile / crane pull-back**.
 - **THEME:** dreamy canal glide; bridge→grand-canal reveal money shot. **FILE:** `SC-11 · Gondola Reverie (Gondola).md`
 
+### SC-12 · FREEDIVER'S BLOOM (Swim) — **STATUS: BUILT** · 5 shots × 6s · SILENT
+- **DIFFERENCE STRING:** freedive swim (vertical) · journey **surface duck-dive → reef wall → coral garden → kelp cathedral → sun-shaft ascent** · signature **sun-shaft caustics + silver bubble-stream + coral/fish flash** · energy **weightless otherworldly** · light **underwater deep-blue → glowing gold** · wardrobe **modest teal long-sleeve dive-suit + coral stripe** · hair **slicked low woven braid** · shot-grammar **descend-with-her / parallel glide / rising boom / slow orbit / rising crane up the shaft** · **NEUTRAL BUOYANCY (no foot-weight)**.
+- **THEME:** a serene weightless descent-and-rise through the ocean; light/water signature, grounded buoyancy. **FILE:** `SC-12 · Freediver's Bloom (Swim).md`
+
+### SC-14 · ALPINE ASCENT (Cable-Car / Hike) — **STATUS: BUILT** · 4 shots × 6s · SILENT
+- **DIFFERENCE STRING:** cable-car + hike · journey **cable-car rise → pine forest → cliff path → summit lake** · signature **snow-sparkle + crystalline ice/water light + alpine wildflowers** · energy **fresh exhilarated** · light **crisp cool alpine (brightening to brilliant)** · wardrobe **cream cable-knit + forest cord skirt + plaid scarf + beanie** · hair **fishtail braid under pompom beanie** · shot-grammar **inside-car rise / low track-with forest / high aerial ridge track / push-in+crane pull-back**.
+- **THEME:** a crisp mountain climb to a mirror summit lake; cold-light signature. **FILE:** `SC-14 · Alpine Ascent (Cable-Car Hike).md`
+
+### SC-15 · KITE RUN (Kite) — **STATUS: BUILT** · 4 shots × 6s · SILENT
+- **DIFFERENCE STRING:** giant-kite run · journey **headland launch → dune ridge → cliff-edge ribbon-bloom → sky-launch lean** · signature **kite colour-ribbons braiding into shapes + racing cloud-shadows + lifting grass/sand** · energy **free kinetic joy** · light **bright windy coast, clouds racing** · wardrobe **primary colour-block playsuit + tied windbreaker** · hair **high windswept ponytail** · shot-grammar **low-hero track-with / parallel ridge track / low looking-up orbit / crane pull-back** · uses 4th ref **`@kite`**.
+- **THEME:** a wind-chasing kite run; ribbon-bloom + sky-lean money shots. **FILE:** `SC-15 · Kite Run (Kite).md`
+
 ## CONCEPT ROADMAP — difference strings (planned, not yet built)
 *(rickshaw dropped; redundant 2nd-blossom dropped; each has a UNIQUE signature/energy/light)*
 - **SC-02 Riviera Drift** — pastel Vespa · clifftop town→switchback→harbour→piazza · sea-spray + sun-glints · golden-hour Med · halter midi · silk-headscarf waves · 5 shots
