@@ -36,6 +36,9 @@ SET5 = {}
 # Set-5 runway snap-change dataset (concepts 83-84; selected via dataset='set5rw') — bespoke
 SET5RW = {}
 
+# Heavy-Detail three-look liquid-material runway dataset (concepts 91-95; dataset='hd91')
+HD91 = {}
+
 # ============================ CONCEPT 01 — STEEL TO SILK ============================
 # Flow: F1 arrive onto mark / hand to hip (hero)  -> F2 lift right wrist to collarbone, study cuff
 #   -> F3 unfold both arms open, palms up (receive) -> F4 transform: lift into a held-angle pivot
@@ -2449,6 +2452,72 @@ SET5RW[84] = {
 
 
 # ----------------------------------------------------------------------------------
+# Concepts 91-95 — three-look liquid-material runway (hook -> pivot-change -> strut ->
+# rising-magic -> turn -> loop; persistent pendant; change & magic frames image-only).
+_HD91_PARAMS = {
+ # n: (accessory_short, medium, world, energy, gaze)
+ 91: ("chrome pendant", "mercury", "liquid-metal studio", "sleek", "cool"),
+ 92: ("ink pendant", "ink", "ink-and-paint studio", "artful", "cool"),
+ 93: ("prism pendant", "holographic shimmer", "iridescent prism studio", "dreamy", "bright"),
+ 94: ("horizon pendant", "sky-wash light", "gradient-sky studio", "serene", "warm"),
+ 95: ("glass pendant", "molten glass", "molten-glass furnace studio", "warm", "warm"),
+}
+
+def _hd91_build(p):
+    (acc, med, world, energy, gaze) = p
+    nail = "short squared nails in a glossy natural tone, neat cuticles, no white-knuckle tension."
+    out = {}
+    # F1 — hook / Look A opening (a single drip poised at the fingertip)
+    out[1] = {
+      "posture": "GAZE %s and direct to lens; HEAD level with the chin a hair lifted; SHOULDERS squared with the right opened about 5 degrees toward camera, the front dropped a touch; RIGHT ARM raised beside the jaw with a single bright %s-drip poised to fall from the fingertip, the RIGHT HAND poised, RIGHT FINGERS delicate; LEFT ARM down resting light at the hip near the %s, the LEFT HAND soft, LEFT FINGERS relaxed; TORSO rotated about 5 degrees opening the right shoulder; WAIST & HIPS in a live 2-degree counter-tilt; RIGHT LEG the free/forward leg with the knee soft, LEFT LEG weight-bearing and straight; FEET & WEIGHT settled on the back left leg in a sleek hook stance; HAIR sleek in the %s glow \u2014 %s and alive (living stillness)." % (gaze, med, acc, world, energy),
+      "hands": "RIGHT HAND raised beside the jaw with a single bright %s-drip poised to fall from the fingertip, RIGHT FINGERS delicate and poised; LEFT HAND resting light at the hip near the %s, LEFT FINGERS relaxed; %s" % (med, acc, nail),
+      "framing": "She holds the opening hook \u2014 right hand raised at the jaw with a single %s-drip poised at the fingertip, left light at the hip near the %s, weight settled on the back leg with the right shoulder opened in the Look A material." % (med, acc),
+      "b1": "Medium close rising to medium: a slow push-in is already gliding in as she holds a confident freeze in the Look A material \u2014 right hand raised at the jaw with a single %s-drip poised at the fingertip, left light at the hip, weight on the back leg; eyes %s and locked to lens." % (med, gaze),
+      "b3": "She holds the post-trigger beat, the %s-drip releasing from the fingertip and the %s glinting at the throat, weight grounded on the back leg, eyes %s and direct (silent \u2014 no words)." % (med, acc, gaze),
+    }
+    # F2 — change 1 (pivot transform; image-only)
+    out[2] = {
+      "posture": "GAZE tracking through the pivot, bright; HEAD turning into the new world; SHOULDERS counter-rotating against the hips; RIGHT ARM rising into the new world, the RIGHT HAND open, RIGHT FINGERS spreading; LEFT ARM sweeping low after triggering the pour, the LEFT HAND trailing the %s-sheet, LEFT FINGERS trailing; TORSO rotated about 8 degrees as she turns into the new side; WAIST & HIPS shifting from the back leg toward the front; RIGHT LEG taking the transferring weight, LEFT LEG the pivot; FEET & WEIGHT shifting onto the front foot mid-pivot; HAIR swinging with the turn \u2014 mid-pivot but balanced." % (med),
+      "hands": "LEFT HAND sweeping low after triggering the pour, LEFT FINGERS trailing the %s-sheet; RIGHT HAND rising into the new world, RIGHT FINGERS spreading; %s" % (med, nail),
+      "framing": "Mid-pivot into the change \u2014 the left hand sweeping low trailing the %s-sheet and the right rising into the new world, the torso turning about 8 degrees as weight shifts onto the front foot." % (med),
+    }
+    # F3 — Look B showcase (mid-strut)
+    out[3] = {
+      "posture": "GAZE level and confident to lens; HEAD leading the strut, chin level; SHOULDERS opening with the stride; RIGHT ARM sweeping a wave of hair back off the face, the RIGHT HAND splayed with natural tension, RIGHT FINGERS spread; LEFT ARM down to the hip, the LEFT HAND resting light on it, LEFT FINGERS relaxed; TORSO rotated about 10 degrees, caught mid-strut; WAIST & HIPS swung into a live 4-degree counter-tilt; RIGHT LEG and LEFT LEG caught mid-strut, weight transferring onto the front leg; FEET & WEIGHT rolling onto the front foot through the strut; HAIR sweeping back with the motion \u2014 confident and alive.",
+      "hands": "RIGHT HAND sweeping a wave of hair back off the face mid-motion, RIGHT FINGERS splayed with natural tension; LEFT HAND resting light on the hip, LEFT FINGERS relaxed; %s" % (nail),
+      "framing": "Caught mid-strut in the Look B material \u2014 the right hand sweeping a wave of hair back off the face and the left light on the hip, the torso rotated about 10 degrees as weight transfers onto the front leg.",
+      "b1": "Medium-full: a smooth move-with is already following her mid-strut through the Look B material \u2014 the right hand sweeping a wave of hair back off the face, the left on the hip, weight transferring onto the front leg; gaze level and confident.",
+      "b3": "She settles out of the strut into a confident showcase pose, the right hand easing from the hair-sweep and the %s glinting, weight settling on the front leg, eyes %s and direct." % (acc, gaze),
+    }
+    # F4 — change 2 (rising magic; image-only)
+    out[4] = {
+      "posture": "GAZE lifting into the unfurling material with serene wonder; HEAD lifting, the chin rising; SHOULDERS opening and lengthening upward; RIGHT ARM and LEFT ARM lifting gracefully outward about 20 degrees as the material unfurls around them, BOTH HANDS open, RIGHT and LEFT FINGERS spread in serene wonder; TORSO lengthening upward into the bloom; WAIST & HIPS rising and lengthening; RIGHT LEG and LEFT LEG rising onto the balls of the feet; FEET & WEIGHT lifting onto the balls of the feet, elevated; HAIR lifting a touch in the unfurl \u2014 elevated and graceful.",
+      "hands": "BOTH ARMS lifting gracefully outward as the material unfurls around them, RIGHT and LEFT FINGERS spread in serene wonder; nails resolving toward the finale tone, %s" % (nail),
+      "framing": "An elevated graceful stance through the rising magic \u2014 both arms lifting outward about 20 degrees as the material unfurls around them, weight rising onto the balls of the feet and the spine lengthening upward.",
+    }
+    # F5 — Look C showcase (settling out of a slow regal turn)
+    out[5] = {
+      "posture": "GAZE easing to lens, composed and radiant; HEAD settling level with a slight regal tilt; SHOULDERS easing open and breathing; RIGHT ARM lowered, the RIGHT HAND grazing the finale skirt with fingertips light on the surface, RIGHT FINGERS light; LEFT ARM lifted elegant near the collarbone, the LEFT HAND poised, LEFT FINGERS long; TORSO rotated about 12 degrees, settling out of a slow regal turn; WAIST & HIPS in a live 3-degree counter-tilt as weight eases onto the back leg; RIGHT LEG easing to free/forward soft, LEFT LEG weight-bearing; FEET & WEIGHT easing onto the back leg out of the turn; HAIR settling from the turn \u2014 regal and radiant (living stillness).",
+      "hands": "RIGHT HAND grazing the finale skirt with fingertips light on the surface, RIGHT FINGERS light; LEFT HAND lifted elegant near the collarbone, LEFT FINGERS long; %s" % (nail),
+      "framing": "Settling out of a slow regal turn in the finale material \u2014 the right hand grazing the skirt with light fingertips and the left lifted elegant near the collarbone, the torso rotated about 12 degrees as weight eases onto the back leg.",
+      "b1": "Medium-full: a slow push-in is already settling on the finale as she eases out of a slow regal turn \u2014 the right hand grazing the skirt with light fingertips, the left lifted near the collarbone, weight easing onto the back leg; gaze easing to lens.",
+      "b3": "She holds the radiant finale showcase, the right fingertips light on the skirt and the %s glinting at the throat, weight settled on the back leg, eyes %s and direct." % (acc, gaze),
+    }
+    # F6 — loop close (re-settle to F1 hook)
+    out[6] = {
+      "posture": "GAZE resolving to the exact Frame-1 %s direct-to-lens; HEAD returning level with the chin a hair lifted; SHOULDERS squaring back with the right opened about 5 degrees; RIGHT ARM returning to rest light near the collarbone and the %s, the RIGHT HAND soft, RIGHT FINGERS relaxed; LEFT ARM lifted elegant matching the opening, the LEFT HAND poised, LEFT FINGERS long; TORSO rotating back to about 8 degrees then settling to 5; WAIST & HIPS returning to the live 2-degree counter-tilt; RIGHT LEG easing to free/forward soft, LEFT LEG weight-bearing; FEET & WEIGHT re-settling onto the back left leg exactly as in Frame 1; HAIR settling as the finale material re-pours to the Look A material \u2014 %s and alive." % (gaze, acc, energy),
+      "hands": "Hands re-settling to exactly the opening Frame 1 position \u2014 the RIGHT HAND light near the collarbone and the %s, RIGHT FINGERS relaxed; the LEFT HAND lifted elegant matching the opening, LEFT FINGERS long; %s" % (acc, nail),
+      "framing": "She resolves precisely into the Frame-1 hero stance \u2014 right hand light near the collarbone and the %s, left lifted elegant, weight re-settling on the back leg as the finale material re-pours to the Look A material for a seamless loop." % (acc),
+      "b1": "Medium close matching Frame 1: a fast re-pour settle is already resolving toward the exact opening framing as the finale material re-pours back into the Look A material, her hands re-settling to the opening position near the collarbone and the %s." % (acc),
+      "b3": "She holds precisely on the Frame 1 beat \u2014 hands at the opening position, the %s at the throat, weight on the back leg \u2014 framing locked so the next loop continues invisibly, a seamless loop seam." % (acc),
+    }
+    return out
+
+for _n, _p in _HD91_PARAMS.items():
+    HD91[_n] = _hd91_build(_p)
+
+
+# ----------------------------------------------------------------------------------
 def find_concept_region(text, n):
     m = re.search(r'(?m)^#{1,3}\s*CONCEPT\s*0*%d\b' % n, text)
     if not m:
@@ -2529,7 +2598,7 @@ def apply_concept(text, n, data_dict):
     return text, report
 
 
-DATASETS = {'md': POSE, 'cine': CINE, 'set3': SET3, 'set4': SET4, 'set5': SET5, 'set5rw': SET5RW}
+DATASETS = {'md': POSE, 'cine': CINE, 'set3': SET3, 'set4': SET4, 'set5': SET5, 'set5rw': SET5RW, 'hd91': HD91}
 
 
 def main():
