@@ -27,6 +27,9 @@ CINE = {}
 # 20-More-Full-Reel-Concepts-Set-3 dataset (concepts 31-50; selected via dataset='set3')
 SET3 = {}
 
+# Set-4 couture-transform dataset (concepts 51-70; selected via dataset='set4')
+SET4 = {}
+
 # ============================ CONCEPT 01 — STEEL TO SILK ============================
 # Flow: F1 arrive onto mark / hand to hip (hero)  -> F2 lift right wrist to collarbone, study cuff
 #   -> F3 unfold both arms open, palms up (receive) -> F4 transform: lift into a held-angle pivot
@@ -2188,6 +2191,89 @@ for _n, _p in _SET3_PARAMS.items():
     SET3[_n] = _set3_build(_p)
 
 
+# ==================================================================================
+# ===== SET4 dataset — couture material-transform reels (concepts 51-70) ============
+# ==================================================================================
+# Uniform flow: F1 cradle hero-product to the heart (processional) -> F2 material transform
+# (mid-step, Look A->B) -> F3 product-at-face application -> F4 direct-address spoken -> F5
+# magic-halo finale (product raised) -> [F6/F7 held, C66 only] -> last loop. Real processional
+# movement. Generator rewrites per-limb BODY POSTURE + SUBJECT FRAMING recap on EVERY frame and
+# adds a per-limb entry beat (b1) only on the safe frames (F1, F3, held, loop). It LEAVES the
+# F2 transform, F4 spoken and F5 magic beats fully intact, and leaves HANDS (already finger-aware).
+_SET4_PARAMS = {
+ # n: (frames, prod, site, world, energy, gaze)
+ 51: (6, "vial", "cheekbone", "sunlit stained-glass cathedral nave", "reverent", "awed and warm"),
+ 52: (6, "pot", "cheekbone", "luminous porcelain atelier", "serene", "serene"),
+ 53: (6, "dropper bottle", "cheekbone", "gilded clockwork atelier", "precise", "opulent"),
+ 54: (6, "bottle", "cheekbone", "obsidian liquid-glass studio", "bold", "electric"),
+ 55: (6, "wand", "lips", "rose embroidery atelier", "romantic", "warm"),
+ 56: (6, "bottle", "cheekbone", "amethyst crystal-geode cavern", "ethereal", "radiant"),
+ 57: (6, "bottle", "lips", "rain-bright neon city night", "electric", "euphoric"),
+ 58: (6, "pot", "cheekbone", "gold byzantine-mosaic hall", "opulent", "warm"),
+ 59: (6, "compact", "cheekbone", "grecian marble hall", "sculptural-serene", "luminous"),
+ 60: (6, "bottle", "cheekbone", "botanical pressed-flower resin atelier", "fresh-romantic", "radiant"),
+ 61: (6, "bottle", "cheekbone", "moonlit gossamer-web glade", "ethereal-serene", "luminous"),
+ 62: (6, "compact", "cheekbone", "spun-sugar patisserie", "playful-sweet", "bright"),
+ 63: (6, "tube", "lashes", "chantilly lace atelier", "elegant-poised", "luminous"),
+ 64: (6, "roller", "cheekbone", "carved-crystal ice atelier", "cool-composed", "luminous"),
+ 65: (6, "stick", "cheekbone", "arcade voxel world", "playful-electric", "triumphant"),
+ 66: (8, "bullet", "lips", "chrome speed atelier", "sleek-powerful", "triumphant"),
+ 67: (6, "compact", "cheekbone", "wrought-iron forge atelier", "warm-crafted", "radiant"),
+ 68: (6, "compact", "cheekbone", "papercraft quilling atelier", "soft-whimsical", "joyful"),
+ 69: (6, "pen", "eye", "smoke-and-ink atelier", "dramatic", "elegant"),
+ 70: (6, "vial", "cheekbone", "gilded crystal-chandelier ballroom", "regal", "dazzling"),
+}
+
+def _set4_build(p):
+    (frames, prod, site, world, energy, gaze) = p
+    out = {}
+    # F1 — cradle hero product to the heart (processional hero)
+    out[1] = {
+      "posture": "GAZE %s, lifted with quiet awe toward the light then easing to the scene; HEAD level with the chin a touch lifted; SHOULDERS open with one shoulder dropped soft; RIGHT ARM and LEFT ARM both bent to the heart, BOTH HANDS cradling the %s at the heart, RIGHT and LEFT FINGERS resting light on it; TORSO at a three-quarter to camera, spine long; WAIST & HIPS settled with a soft 2-degree counter-tilt; RIGHT LEG the free/forward leg with the knee soft, LEFT LEG weight-bearing and straight; FEET & WEIGHT settled and serene, grounded for the processional step to come; HAIR soft with a face-framing strand at the cheek \u2014 %s and alive (living stillness)." % (gaze, prod, energy),
+      "framing": "She stands tall facing down the scene in a poised three-quarter, both hands cradling the %s at her heart, one shoulder dropped and weight settled serene \u2014 the %s processional hero." % (prod, energy),
+      "b1": "Cut to the full-figure-to-waist symmetrical hero in the %s: she is already cradling the %s to her heart with both hands as a slow reverent push-in glides in, one shoulder dropped and weight settled tall, the world glowing behind; her %s gaze lifting to the light." % (world, prod, gaze),
+    }
+    # F2 — material transform, mid-step (leave all beats; rewrite posture/framing only)
+    out[2] = {
+      "posture": "GAZE lifting toward the light the instant before the change; HEAD lifting a hair; SHOULDERS opening a few degrees with one easing back; RIGHT ARM easing the %s down from the heart toward waist height, the RIGHT HAND light on it, RIGHT FINGERS resting soft; LEFT ARM easing open and out from the body, the LEFT HAND opening, LEFT FINGERS soft; TORSO opening a few degrees toward the light, caught mid-step; WAIST & HIPS rotating with the step as weight transfers forward; RIGHT LEG (front) taking the weight as she steps, knee soft; LEFT LEG pushing off behind, heel lifting; FEET & WEIGHT rolling onto the front foot mid-step; HAIR lifting a touch in the cool air \u2014 poised, the breath before the change." % (prod),
+      "framing": "She is caught mid-step into the light, the %s easing down from her heart toward waist height and her left arm easing open, weight transferring onto the front foot \u2014 the clean Look A the transform opens on." % (prod),
+    }
+    # F3 — product-at-face application
+    out[3] = {
+      "posture": "GAZE lowered soft to the application with serene focus; HEAD tipped a touch toward the working hand; SHOULDERS soft, the right lifting as the hand rises; RIGHT ARM raised, the RIGHT HAND bringing the product to the high of her %s with soft wrist tension, RIGHT FINGERS articulate; LEFT ARM bringing the %s into frame, the LEFT HAND cradling it, LEFT FINGERS light; TORSO at a three-quarter to camera, spine long; WAIST & HIPS settled with a soft counter-tilt; RIGHT LEG the free/forward leg soft, LEFT LEG weight-bearing; FEET & WEIGHT settled even and grounded; HAIR soft at the cheek \u2014 intimate and alive (living stillness)." % (site, prod),
+      "framing": "In a beauty close she raises the product to the high of her %s with articulate fingers and soft wrist tension while the other hand cradles the %s into frame, her %s gaze lowered to the application." % (site, prod, gaze),
+      "b1": "Cut to a beauty close, chest-up at a three-quarter: she is already raising the product to the high of her %s with soft wrist tension as a slow push glides toward her face, the %s cradled into frame in her other hand; eyes lowered to the application in serene focus." % (site, prod),
+    }
+    # F4 — direct-address spoken (leave all beats; rewrite posture/framing only)
+    out[4] = {
+      "posture": "GAZE warm and direct to lens; HEAD squared a touch more to camera, chin level; SHOULDERS open with one dropped soft; RIGHT ARM bent at the chest presenting the %s, the RIGHT HAND holding it label-forward, RIGHT FINGERS light; LEFT ARM relaxed and open, the LEFT HAND soft, LEFT FINGERS easy; TORSO squared near-frontal, spine long; WAIST & HIPS settled with a soft counter-tilt; RIGHT LEG and LEFT LEG grounded even; FEET & WEIGHT settled even; HAIR soft \u2014 assured and alive (living stillness)." % (prod),
+      "framing": "She squares a touch more to camera for the direct address, the %s presented label-forward at her chest in the right hand and the left relaxed open, chin level and weight settled even \u2014 a frontal intimate address." % (prod),
+    }
+    # F5 — magic-halo finale, product raised (leave all beats; rewrite posture/framing only)
+    out[5] = {
+      "posture": "GAZE lifting into the bloom with wonder; HEAD lifting, the chin rising; SHOULDERS opening with the chest open in a slight regal back-lean; RIGHT ARM extending up raising the %s at brow height as the light blooms, the RIGHT HAND holding it, RIGHT FINGERS easing; LEFT ARM easing open as the ring expands, the LEFT HAND opening, LEFT FINGERS soft; TORSO in a slight regal back-lean, chest open, spine long; WAIST & HIPS grounded with weight on both feet; RIGHT LEG and LEFT LEG grounded even and strong; FEET & WEIGHT planted and grounded; HAIR lifting a touch in the light-wave \u2014 powerful and serene." % (prod),
+      "framing": "In a slight regal back-lean she raises the %s at brow height as the halo blooms, the chest open and left arm easing open with the ring, weight grounded strong on both feet \u2014 the magical finale hero." % (prod),
+    }
+    # held hero-settle frames (between F5 and loop, for the 8-frame super concept)
+    for k in range(6, frames):
+        out[k] = {
+          "posture": "GAZE %s and direct to lens; HEAD level with a soft tilt; SHOULDERS open with one dropped soft; RIGHT ARM and LEFT ARM both bent, BOTH HANDS cradling the %s soft near the heart, RIGHT and LEFT FINGERS resting light; TORSO at a three-quarter to camera, spine long; WAIST & HIPS settled with a soft counter-tilt; RIGHT LEG the free/forward leg soft, LEFT LEG weight-bearing; FEET & WEIGHT settled even; HAIR soft \u2014 %s and composed (living stillness)." % (gaze, prod, energy),
+          "framing": "She holds the %s after-look, both hands cradling the %s soft near the heart, one shoulder dropped and weight settled even as her %s gaze holds to lens." % (energy, prod, gaze),
+          "b1": "Cut to a held hero on a fresh angle: she settles both hands soft, cradling the %s near her heart, as a gentle push eases in; her %s gaze holding to lens." % (prod, gaze),
+        }
+    # last frame — loop close
+    L = frames
+    out[L] = {
+      "posture": "GAZE easing back to the %s awe of Frame 1, lifting toward the light; HEAD returning level with the chin a touch lifted; SHOULDERS open with one dropped soft; RIGHT ARM and LEFT ARM both returning to cradle the %s at the heart, RIGHT and LEFT FINGERS resting light on it; TORSO returning to the three-quarter of the opening, spine long; WAIST & HIPS settled with a soft counter-tilt; RIGHT LEG the free/forward leg soft, LEFT LEG weight-bearing and straight; FEET & WEIGHT settled and serene exactly as in Frame 1; HAIR soft with a face-framing strand resettling \u2014 %s and alive." % (gaze, prod, energy),
+      "framing": "She returns precisely to the opening tableau \u2014 standing tall in a poised three-quarter, both hands cradling the %s at her heart, weight settled serene in the Frame-1 pose for a seamless loop." % (prod),
+      "b1": "Cut to the full-figure-to-waist symmetrical hero matched to Frame 1: she is already returning the %s to her heart with both hands as a slow settle-back eases the framing toward the opening, one shoulder dropped and weight settling serene; her %s gaze lowering then lifting toward the light." % (prod, gaze),
+    }
+    return out
+
+for _n, _p in _SET4_PARAMS.items():
+    SET4[_n] = _set4_build(_p)
+
+
 # ----------------------------------------------------------------------------------
 def find_concept_region(text, n):
     m = re.search(r'(?m)^#{1,3}\s*CONCEPT\s*0*%d\b' % n, text)
@@ -2269,7 +2355,7 @@ def apply_concept(text, n, data_dict):
     return text, report
 
 
-DATASETS = {'md': POSE, 'cine': CINE, 'set3': SET3}
+DATASETS = {'md': POSE, 'cine': CINE, 'set3': SET3, 'set4': SET4}
 
 
 def main():
