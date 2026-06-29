@@ -2842,6 +2842,46 @@ SURREAL[150] = {  # Stardust Tide-Pool Shore — driftwood wand; RIGHT=wand, LEF
 
 
 # ----------------------------------------------------------------------------------
+# PHX — Concept 170 Phoenix Crash Rebirth (bespoke, action; Aira = still sovereign
+# centre commanding the reversal). Per-limb BODY POSTURE + SUBJECT FRAMING recap on
+# all 8 frames; HANDS and the Ultra-Real-Physics crash/reversal beats left untouched.
+PHX = {}
+PHX[170] = {
+    1: {
+        "posture": "gaze level and calm to the lens with the faintest knowing settle; head balanced upright, a hair's turn toward the coupe at her right; LEFT shoulder open and relaxed, RIGHT shoulder dropped a touch as that arm reaches; RIGHT arm extends easily across to rest the palm and lightly curled fingers on the gull-wing sill, taking no real weight; LEFT arm hangs loose along her side, fingers softly open; torso tall and squared to camera with only a whisper of rotation toward the car; waist long, hips level and even with no pop; RIGHT leg bears a marginal near-leg majority of weight, knee soft; LEFT leg straight and quiet; both boot soles flat and grounded on the wet deck with a faint compression underfoot; the flame-crown braid still, one loose wisp held just shy of swaying.",
+        "framing": "Her pose reads as the establishing breath — gaze level to camera, head a hair toward the coupe, the RIGHT arm reaching across to rest fingertips on the gull-wing sill while the LEFT arm hangs loose at her side, torso squared and tall with hips level, weight carried just onto the near RIGHT leg over flat grounded boots.",
+    },
+    2: {
+        "posture": "gaze lifting to follow her own rising hand and the first seam of light, brows lifting a fraction in focused command; head tilting up and slightly toward the car; LEFT shoulder rising and rolling open as the arm lifts, RIGHT shoulder settled and quiet; LEFT arm sweeping up and forward toward the coupe, elbow softly bent, wrist leading, fingers beginning to spread and open as if drawing the break wide; RIGHT arm low and steady along her side, hand relaxed, fingers easy; torso leaning subtly forward into the gesture, ribs opening on the left; waist tightening on the lifting side, hips squared to the car; front RIGHT leg taking the shifting weight with knee bending into the lean, LEFT leg trailing straight as the anchor; weight rolling onto the front boot ball, rear heel light; braid steady, a wisp stirred by the gathering energy.",
+        "framing": "Her pose reads as the threshold gesture — gaze tracking her own rising LEFT hand whose fingers spread to call the fracture open, LEFT shoulder lifting while the RIGHT arm stays low and steady, torso leaning into the command with weight rolling forward onto the front RIGHT boot and the LEFT leg trailing as anchor.",
+    },
+    3: {
+        "posture": "gaze level and serene straight ahead through the suspended bloom, expression composed and unflinching; head upright and still, perfectly balanced; both shoulders open, level and down, neither raised; RIGHT arm and LEFT arm held low and symmetrical at her sides, elbows softly away from the body, both palms turned slightly forward with fingers relaxed and spread as if steadying the held blast; torso tall, long and squared dead-centre to the frame; waist lengthened, hips level and even with weight shared equally; RIGHT leg and LEFT leg both straight and rooted, stance even and shoulder-width; both boot soles planted flat and firm at the bridge centre beneath the suspended sphere, weight split 50/50; braid still, the air around her charged but her hair settled.",
+        "framing": "Her pose reads as the still eye of the blast — gaze serene and level through the suspended bloom, both shoulders down and even, RIGHT and LEFT arms held low and symmetrical with palms turned forward to steady the held catastrophe, torso tall and squared dead-centre, weight rooted 50/50 across both flat-planted boots.",
+    },
+    4: {
+        "posture": "gaze lifting along her raised arm toward the converging corona of light, chin rising a touch, expression of absolute calm command; head tilting up to follow the hand; LEFT shoulder lifting and opening fully as the arm extends overhead, RIGHT shoulder settled low and quiet; LEFT arm reaching high and straight overhead, palm open and fingers spread wide at the seat of command, wrist firm; RIGHT arm low and steady down her side, hand relaxed, fingers easy; torso tall with the raised arm extending the line of the spine upward, ribcage lifted and open; waist long, hips level and squared; RIGHT leg and LEFT leg both straight and rooted in an even hero stance; both boots planted flat and firm, weight centred 50/50, grounded without strain; braid swept clean off the neck, the upward energy reading in a single lifted wisp.",
+        "framing": "Her pose reads as the sovereign command — gaze and head lifting along the high-raised LEFT arm whose open spread palm seats the converging corona, the RIGHT arm low and steady at her side, torso lengthened upward through the lifted ribcage, weight rooted evenly across both flat-planted boots in a strain-free hero stance.",
+    },
+    5: {
+        "posture": "gaze tracking the inward-streaming debris toward the convergence point, calm and guiding; head levelling down a touch from the peak, following the lowering hand; LEFT shoulder easing down from its lift, RIGHT shoulder steady and open; LEFT arm sweeping down in a slow controlled arc, palm rotating to face down and guide the indraw, fingers softly spread and leading the streaming light; RIGHT arm low and steady at her side, hand relaxed; torso tall and centred, the lowering arm drawing the line of energy down through her; waist long, hips levelling square; RIGHT leg and LEFT leg straight and even as weight eases back to balanced; both boots flat and grounded at the bridge centre, weight settling toward 50/50; braid easing, one wisp following the downward motion.",
+        "framing": "Her pose reads as the guided indraw — gaze tracking the streaming debris home, the LEFT arm sweeping down in a slow controlled arc with the palm rotating to guide the implosion while the RIGHT arm stays low and steady, torso tall and centred as the weight eases back to balanced across both flat-grounded boots.",
+    },
+    6: {
+        "posture": "gaze softening onto the reforging coupe as it knits whole, a quiet satisfaction settling at the mouth; head levelling upright, calm; both shoulders relaxing open and down from the work of command; LEFT arm now settled low at her side, palm easing open and fingers relaxing as the car completes; RIGHT arm steady and quiet along her side, hand at rest; torso tall and at ease, squared to the reforming coupe; waist long, hips level and even; RIGHT leg and LEFT leg straight and grounded, stance even; both boots flat and planted, weight balanced 50/50; braid settling, the charged air calming around her.",
+        "framing": "Her pose reads as order returning — gaze softening onto the reforging coupe, both shoulders relaxing open, the LEFT arm settled low with its palm easing open as the RIGHT arm rests quiet at her side, torso tall and at ease with weight balanced evenly across both flat-planted boots.",
+    },
+    7: {
+        "posture": "gaze lifting to follow the ascending coupe on its column of light, lips parting on a quiet held breath of triumph, eyes bright; head tilting up after the rising car; both shoulders open, lifted and even in quiet pride; RIGHT arm and LEFT arm both lowered and open at her sides, palms turned slightly forward, fingers relaxed and spread in release; torso tall and lifted, chest open as she watches the rise; waist long, hips level and squared; RIGHT leg and LEFT leg both straight and rooted in a grounded victorious stance; both boots planted flat and firm, weight even 50/50, no strain; braid swept clean, a single wisp lifting in the rising ember-draught.",
+        "framing": "Her pose reads as the triumphant summit — gaze and head lifting after the ascending coupe, both shoulders open and lifted, RIGHT and LEFT arms lowered and open at her sides with palms forward in quiet release, torso tall and chest-open, weight rooted evenly across both flat-planted boots in a grounded victory stance.",
+    },
+    8: {
+        "posture": "gaze level and calm to the lens with the faint knowing settle returned, the disaster undone; head balanced upright, a hair's turn back toward the now-whole coupe at her right; LEFT shoulder open and relaxed, RIGHT shoulder dropped a touch as that arm reaches; RIGHT arm extends easily across to rest the palm and lightly curled fingers on the gull-wing sill exactly as it began, taking no real weight; LEFT arm hangs loose along her side, fingers softly open; torso tall and squared to camera with only a whisper of rotation toward the car; waist long, hips level and even; RIGHT leg carrying the marginal near-leg majority, knee soft; LEFT leg straight and quiet; both boot soles flat and grounded on the wet deck — the exact opening stance recovered; the flame-crown braid still, one loose wisp re-settling shy of swaying.",
+        "framing": "Her pose reads as the opening breath recovered — gaze level to camera, head a hair toward the whole coupe, the RIGHT arm reaching across to rest fingertips on the gull-wing sill exactly as Frame 1 while the LEFT arm hangs loose at her side, torso squared and tall with hips level and weight just onto the near RIGHT leg over flat grounded boots, the loop bookended.",
+    },
+}
+
+# ----------------------------------------------------------------------------------
 def find_concept_region(text, n):
     m = re.search(r'(?m)^#{1,3}\s*CONCEPT\s*0*%d\b' % n, text)
     if not m:
@@ -2922,7 +2962,7 @@ def apply_concept(text, n, data_dict):
     return text, report
 
 
-DATASETS = {'md': POSE, 'cine': CINE, 'set3': SET3, 'set4': SET4, 'set5': SET5, 'set5rw': SET5RW, 'hd91': HD91, 'surreal': SURREAL}
+DATASETS = {'md': POSE, 'cine': CINE, 'set3': SET3, 'set4': SET4, 'set5': SET5, 'set5rw': SET5RW, 'hd91': HD91, 'surreal': SURREAL, 'phoenix': PHX}
 
 
 def main():
