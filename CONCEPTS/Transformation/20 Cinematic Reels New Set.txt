@@ -8533,11 +8533,11 @@ HAIR: a sleek low ponytail, a face-framing strand swaying, color locked.
 
 MAKEUP: fresh luminous glow, nude-rose lip, gilded lid, golden catchlight.
 
-HANDS & NAILS: one hand on the suitcase handle, the other steadying a flat; fingers articulate; short nails in soft nude.
+HANDS & NAILS: RIGHT HAND on the suitcase handle, RIGHT FINGERS wrapped; LEFT HAND steadying a travel flat, LEFT FINGERS articulate at the heel; short nails in soft nude, neat, no white-knuckle tension.
 
 FACIAL MICRO-DYNAMICS: chin level, a cool confident smile, eyes scanning the concourse with a golden catchlight, lips softly closed.
 
-BODY POSTURE & WEIGHT: weight on one foot as the other slips into a flat, torso tall — purposeful and alive, never stiff.
+BODY POSTURE & WEIGHT: GAZE scanning the bright concourse with cool ease; HEAD level, sweeping the gates; SHOULDERS open and purposeful; RIGHT ARM on the suitcase handle, the RIGHT HAND gripping it, RIGHT FINGERS wrapped; LEFT ARM steadying a flat, the LEFT HAND at the heel, LEFT FINGERS articulate; TORSO tall and purposeful striding onto the floor; WAIST & HIPS squared with a soft counter-tilt; RIGHT LEG weight-bearing planted, LEFT LEG (working) the foot slipping into a travel flat; FEET & WEIGHT on the planted right foot as the left slides into the flat; HAIR sleek in the golden light — purposeful and alive, never stiff (living stillness).
 
 KINETIC STILLNESS (8 layers): (1) golden window light shifting; (2) a moving walkway gliding; (3) a ponytail strand drifting; (4) a distant traveller crossing soft; (5) chest breathing; (6) the suitcase-handle glinting; (7) a floor reflection shimmering; (8) a slow blink.
 
@@ -8548,7 +8548,7 @@ LIGHTING: KEY — warm golden window light from the side. FILL — clean white a
 LENS + DOF + BOKEH: 28mm slightly wide, f/3.2; focus on Aira; concourse as soft bokeh; depth soft.
 
 COMPOSITION: 9:16, concourse one-point perspective, Aira centred, glass framing.
-SUBJECT FRAMING & POSITION: A wide establishing shot down the glass terminal concourse, Aira mid-frame on the polished floor, gate-glow and windows arching away. The full figure reads mid-concourse, weight on one foot as the other slips into a flat, torso tall. Camera at wide distance, the concourse receding. She stands mid-frame, near-frontal, purposeful, the corridor as depth. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A wide establishing shot down the glass terminal concourse, Aira mid-frame on the polished floor, gate-glow and windows arching away. The full figure reads mid-concourse, weight on one foot as the other slips into a flat, torso tall. Camera at wide distance, the concourse receding. She stands mid-frame, near-frontal, purposeful, the corridor as depth. She strides onto the polished concourse, weight on the planted right foot as the left slips into a flat, right hand on the suitcase handle and left steadying the heel, gate-glow and windows arching away. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 ATMOSPHERE: aspirational travel energy, the thrill of departure.
 
@@ -8567,9 +8567,9 @@ SHOT TYPE & ANGLE: wide, subject fills ~32%.
 LENS: 28mm, f/3.2.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Wide establishing down the glass terminal concourse: she is already striding onto the polished floor as a slow glide-in moves toward her, gate-glow and windows arching away; eyes scanning the bright concourse with cool ease.
-- [00:02–00:04] The glide carries closer as she slips on a travel flat and grips the suitcase handle, golden light raking the floor; a free, confident set to her gaze.
-- [00:04–00:06] She rolls the suitcase toward the vast departure window, eyes lifting to the glowing sky beyond.
+- [00:00–00:02] Wide establishing down the glass terminal concourse: she is already striding onto the polished floor — weight on the planted foot, right hand on the suitcase handle — as a slow glide-in moves toward her, gate-glow and windows arching away; eyes scanning the bright concourse with cool ease.
+- [00:02–00:04] The glide carries closer as she settles the travel flat and grips the suitcase handle, golden light raking the floor; a free confident set to her gaze.
+- [00:04–00:06] She rolls the suitcase toward the vast departure window, weight rolling forward, eyes lifting to the glowing sky beyond.
 
 FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
@@ -8609,11 +8609,11 @@ HAIR: out of frame.
 
 MAKEUP: n/a (macro), soft-nude nails.
 
-HANDS & NAILS: her hand on the handle-base entering frame; soft-nude nails.
+HANDS & NAILS: RIGHT HAND on the handle-base entering frame, RIGHT FINGERS articulate guiding the roll; soft-nude nails, neat, no white-knuckle tension.
 
 FACIAL MICRO-DYNAMICS: n/a.
 
-BODY POSTURE & WEIGHT: a steady purposeful roll, hand articulate — a crisp, fluid gesture.
+BODY POSTURE & WEIGHT: GAZE (implied) ahead to the window; the roll read through the steady arm; RIGHT ARM lowered to the handle-base, the RIGHT HAND on it, RIGHT FINGERS articulate guiding the roll; LEFT ARM implied easy; TORSO implied tall above in a steady purposeful roll; WAIST & HIPS implied square, driving forward; FEET & WEIGHT flowing forward in the walk — a crisp fluid roll, a golden reflection streaking beneath the wheels.
 
 KINETIC STILLNESS (8 layers): (1) the wheels spinning; (2) a golden reflection streaking; (3) a coat-hem sway; (4) floor speculars sliding; (5) a soft breath-shift; (6) the watch glinting; (7) a faint dust-mote in the light; (8) a micro-tremor of the roll.
 
@@ -8624,7 +8624,7 @@ LIGHTING: KEY — warm window light on the floor. FILL — white ambient. RIM �
 LENS + DOF + BOKEH: 100mm macro, f/2.8; focus on the wheels; background golden bokeh.
 
 COMPOSITION: 9:16, wheels on a power point, the floor-reflection streak as a leading diagonal, clean negative space.
-SUBJECT FRAMING & POSITION: A macro/extreme close on the suitcase wheels gliding across the polished floor, a golden reflection streaking beneath — a detail insert, body out of frame. The wheels and reflection fill the frame in a steady purposeful roll. Camera macro-near and low. The figure is implied beyond the frame. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A macro/extreme close on the suitcase wheels gliding across the polished floor, a golden reflection streaking beneath — a detail insert, body out of frame. The wheels and reflection fill the frame in a steady purposeful roll. Camera macro-near and low. The figure is implied beyond the frame. A macro on the suitcase wheels gliding across the polished floor with the hand articulate on the handle-base, a golden reflection streaking beneath, the body implied striding above. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 ATMOSPHERE: the crisp momentum before the threshold.
 
@@ -8644,7 +8644,7 @@ LENS: 100mm macro, f/2.8.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
 - [00:00–00:02] Low macro on the suitcase wheels: they are already rolling across the polished floor as a tracking glide moves alongside at matched pace, a golden reflection streaking beneath.
-- [00:02–00:04] The wheels glide on toward the window light, the reflection brightening.
+- [00:02–00:04] The wheels glide on toward the window light under her steady hand, the reflection brightening.
 - [00:04–00:06] The floor-glow surges as the threshold nears, light pooling around the wheels.
 
 FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
@@ -8685,11 +8685,11 @@ HAIR: the low ponytail in profile, strands lifting in the opening air, color loc
 
 MAKEUP: fresh luminous glow, nude-rose lip, gilded lid catching the sky-light.
 
-HANDS & NAILS: one hand flat on the glowing glass, the other lifting, fingers elegant; soft-nude nails.
+HANDS & NAILS: RIGHT HAND flat on the glowing departure-window glass, RIGHT FINGERS spread on the pane; LEFT HAND lifting open, LEFT FINGERS elegant; soft-nude nails, neat, no white-knuckle tension.
 
 FACIAL MICRO-DYNAMICS: eyes lifting to the opening sky in wonder, lips parted ~1mm on a soft breath, a delighted inner-brow lift.
 
-BODY POSTURE & WEIGHT: standing tall in profile, spine lengthening toward the window, weight lifting — graceful upward momentum, never stiff.
+BODY POSTURE & WEIGHT: GAZE out to the horizon; HEAD level in profile, lifting to the sky; SHOULDERS lifting toward the window; RIGHT ARM flat on the glowing glass, the RIGHT HAND pressed to it, RIGHT FINGERS spread on the pane; LEFT ARM lifting, the LEFT HAND open, LEFT FINGERS elegant; TORSO lengthening upright toward the window; WAIST & HIPS lifting, lengthening; RIGHT LEG planting tall, LEFT LEG easing as she rises onto the balls; FEET rolling onto the balls toward the window; WEIGHT lifting toward the glass; HAIR stirring as the corridor opens — graceful upward momentum, never stiff.
 
 KINETIC STILLNESS (8 layers): (1) the corridor beginning to open to sky; (2) clouds drifting beyond the glass; (3) ponytail strands lifting; (4) the coat-hem rising; (5) chest breathing; (6) studs glinting; (7) sky-light shifting; (8) a slow blink.
 
@@ -8700,7 +8700,7 @@ LIGHTING: KEY — warm golden sky-light. FILL — sky-blue ambient. RIM — sky-
 LENS + DOF + BOKEH: 50mm, f/2.2; focus on her near eye; sky as soft bokeh.
 
 COMPOSITION: 9:16, strong profile line, the window as a vertical light-source, clouds framing.
-SUBJECT FRAMING & POSITION: A medium in clean full profile, Aira at the vast departure window in profile, one hand on the glass, the sky glowing beyond. The body reads as a profile line from roughly the waist up, standing tall with the spine lengthening toward the window, weight lifting. Camera at mid distance, edge-on. She is in profile, hand to the glass, not facing the lens. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A medium in clean full profile, Aira at the vast departure window in profile, one hand on the glass, the sky glowing beyond. The body reads as a profile line from roughly the waist up, standing tall with the spine lengthening toward the window, weight lifting. Camera at mid distance, edge-on. She is in profile, hand to the glass, not facing the lens. In profile she stands tall at the vast departure window, right hand flat on the glowing glass and left lifting, the spine lengthening toward the sky and weight rolling onto the balls as the corridor begins to open. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 ATMOSPHERE: the aspirational lift toward the threshold.
 
@@ -8719,9 +8719,9 @@ SHOT TYPE & ANGLE: profile medium, subject fills ~55%.
 LENS: 50mm, f/2.2.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Profile medium at the vast departure window: she is already setting one hand on the glass as a slow arc swings from profile toward three-quarter, the sky glowing beyond; gaze out to the horizon.
-- [00:02–00:04] The corridor begins to open to sky and her travel coat lifts in the rising air, the arc easing round; eyes widening in cool wonder.
-- [00:04–00:06] She begins to step through into the threshold, gaze fixed on the opening light.
+- [00:00–00:02] Profile medium at the vast departure window: she is already setting her right hand on the glass as a slow arc swings from profile toward three-quarter, the sky glowing beyond; gaze out to the horizon.
+- [00:02–00:04] The corridor begins to open to sky and her travel coat lifts in the rising air, her left hand lifting and the arc easing round; eyes widening in cool wonder.
+- [00:04–00:06] She begins to step through into the threshold, weight rolling onto the front foot, gaze fixed on the opening light.
 
 FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
@@ -8761,11 +8761,11 @@ HAIR: a sleek ponytail.
 
 MAKEUP: a fresh luminous glow, nude-rose lip; real pores and fine vellus texture.
 
-HANDS & NAILS: one hand easing from the departure-window glass, the other on the suitcase handle, fingers relaxed; soft-nude nails, neat cuticles.
+HANDS & NAILS: RIGHT HAND easing from the departure-window glass, RIGHT FINGERS relaxed; LEFT HAND on the suitcase handle, LEFT FINGERS wrapped; soft-nude nails, neat cuticles, no white-knuckle tension.
 
 FACIAL MICRO-DYNAMICS: an aspirational anticipatory gaze to the glowing sky beyond, lips parting on a held breath — fully recognizable, identity-locked, ready for the transform mid-clip.
 
-BODY POSTURE & WEIGHT: at the threshold, weight rolling onto the front foot, torso leading forward — poised, the instant before the corridor opens.
+BODY POSTURE & WEIGHT: GAZE lifting into the light; HEAD level, lifting as the gown sweeps; SHOULDERS leading forward into the threshold; RIGHT ARM easing from the glass, the RIGHT HAND drawing off the pane, RIGHT FINGERS relaxed; LEFT ARM on the suitcase handle, the LEFT HAND gripping it, LEFT FINGERS wrapped; TORSO leading forward at the threshold; WAIST & HIPS rotating forward into the stride; RIGHT LEG (front) stepping through, knee soft; LEFT LEG pushing off behind; FEET & WEIGHT rolling onto the front foot as she strides through — poised, the instant before the corridor opens; HAIR lifting in the rising air.
 
 KINETIC STILLNESS (8 layers): (1) the gate-glow and arching windows of the concourse; (2) the sky glowing bright beyond the glass; (3) a ponytail-strand lifting; (4) a golden floor-reflection streaking; (5) a held breath; (6) a watch glint; (7) the travel coat rippling; (8) lashes settling on a blink.
 
@@ -8776,7 +8776,7 @@ LIGHTING: KEY — cool terminal daylight warming toward the sky beyond. FILL —
 LENS + DOF + BOKEH: 35mm, f/2.8; focus on Aira; the concourse and sky as soft bokeh, clearly present and vast behind.
 
 COMPOSITION: 9:16, Aira a poised vertical at the threshold, the concourse sweeping back, sky beyond, headroom for the cloud.
-SUBJECT FRAMING & POSITION: A front-on full/wide hero at the departure threshold in the travel Look A — the clean still the transform clip opens on. The complete figure is in frame, centred, the terminal concourse present behind. Camera at full/wide distance. She faces front, centred. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A front-on full/wide hero at the departure threshold in the travel Look A — the clean still the transform clip opens on. The complete figure is in frame, centred, the terminal concourse present behind. Camera at full/wide distance. She faces front, centred. She is at the departure threshold in her travel coat, weight rolling onto the front foot with the torso leading, right hand easing from the glass and left on the suitcase, the sky glowing beyond — the clean Look A the sweep opens on. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 ATMOSPHERE: aspirational anticipation — the breath before the terminal opens her into the sky.
 
@@ -8795,8 +8795,8 @@ SHOT TYPE & ANGLE: front-on full/wide hero, subject fills ~55%, striding centred
 LENS: 35mm, f/2.8.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Cut to a front-on full/wide hero at a HELD angle (Veo first frame = the travel Look A still): already in motion, the camera riding WITH her / push-with as she strides toward the threshold — the travel coat fully intact, the corridor still terminal, the gown NOT yet swept, the sky glowing beyond the glass; gaze lifting into the light.
-- [00:02–00:04] The transform BEGINS here, mid-clip: the corridor opens smoothly into open sky and her coat sweeps into the flowing cloud-silk couture gown exactly where it passes — dreamy but grounded in real cloth + believable sky-light (no cheap sparkles), golden clouds opening behind, the camera riding with her at the held angle; eyes widening in radiant awe.
+- [00:00–00:02] Cut to a front-on full/wide hero at a HELD angle (Veo first frame = the travel Look A still): already in motion, the camera riding WITH her / push-with as she strides toward the threshold — weight rolling onto the front foot, right hand easing from the glass — the travel coat fully intact, the corridor still terminal, the gown NOT yet swept, the sky glowing beyond the glass; gaze lifting into the light.
+- [00:02–00:04] The transform BEGINS here, mid-clip: the corridor opens smoothly into open sky and her coat sweeps into the flowing cloud-silk couture gown exactly where it passes as she strides through — dreamy but grounded in real cloth + believable sky-light (no cheap sparkles), golden clouds opening behind, the camera riding with her at the held angle; eyes widening in radiant awe.
 - [00:04–00:06] The sweep completes and the look settles smoothly and fully into the cloud-silk couture gown of Frame 5's still (Veo's LAST frame), cloud-light drifting on real arcs — a radiant awed smile landing, no last-second snap.
 
 FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
@@ -8837,11 +8837,11 @@ HAIR: the loosened ponytail drifting as she glances back, cloud-light-lit.
 
 MAKEUP: fresh luminous glow on the turned cheek, nude-rose lip.
 
-HANDS & NAILS: one hand trailing cloud-light, the other settling; soft-nude nails.
+HANDS & NAILS: RIGHT HAND trailing cloud-light, RIGHT FINGERS splayed in the train; LEFT HAND settling, LEFT FINGERS soft; soft-nude nails, neat, no white-knuckle tension.
 
 FACIAL MICRO-DYNAMICS: a serene over-the-shoulder glance, a soft radiant smile, sky catchlight in the eye.
 
-BODY POSTURE & WEIGHT: mid-stride on the light-runway, body in a long line, torso rotating back for the glance — fluid counter-motion, alive.
+BODY POSTURE & WEIGHT: GAZE ahead then rotating back to lens; HEAD turning back over the shoulder for the glance; SHOULDERS rotating in the counter-motion; RIGHT ARM trailing cloud-light, the RIGHT HAND open with RIGHT FINGERS splayed in the train; LEFT ARM settling, the LEFT HAND easing, LEFT FINGERS soft; TORSO mid-stride on the light-runway in a long line, rotating back; WAIST & HIPS driving the walk forward; RIGHT LEG and LEFT LEG mid-stride on the light-runway, one striking, the other pushing off; FEET & WEIGHT flowing forward heel-to-toe on the runway of light; HAIR lifting in the cloud-light — fluid counter-motion, alive.
 
 KINETIC STILLNESS (8 layers): (1) the cloud-train trailing and shedding wisps; (2) clouds drifting past; (3) ponytail drifting; (4) gown chiffon rippling; (5) chest breathing; (6) cloud-light settling; (7) sky-light sweeping; (8) a slow blink mid-glance.
 
@@ -8852,7 +8852,7 @@ LIGHTING: KEY — warm sky-light catching her face on the glance. FILL — sky-b
 LENS + DOF + BOKEH: 50mm, f/1.8; focus on her glancing eye; sky melting to soft bokeh; trailing wisps sparkling.
 
 COMPOSITION: 9:16, Aira walking into deep sky perspective, clouds crowning, over-shoulder eye-line drawing the viewer.
-SUBJECT FRAMING & POSITION: A three-quarter back over-the-shoulder medium, Aira walking a runway of light among golden clouds in the cloud-silk gown, glancing back to lens. The body reads from roughly the waist up, mid-stride on the light-runway, body in a long line, torso rotating back for the glance. Camera at mid distance behind her. Her back leads, face turned back over the shoulder. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A three-quarter back over-the-shoulder medium, Aira walking a runway of light among golden clouds in the cloud-silk gown, glancing back to lens. The body reads from roughly the waist up, mid-stride on the light-runway, body in a long line, torso rotating back for the glance. Camera at mid distance behind her. Her back leads, face turned back over the shoulder. She walks a runway of light among golden clouds in the cloud-silk gown, right hand trailing cloud-light and left settling, the torso rotating back over the shoulder for a glance to lens as the train streams. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 ATMOSPHERE: aspirational grace, the dream-walk among clouds.
 
@@ -8871,8 +8871,8 @@ SHOT TYPE & ANGLE: three-quarter back over-shoulder medium, subject fills ~50%.
 LENS: 50mm, f/1.8.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Three-quarter back over-shoulder medium: she is already walking the runway of light among golden clouds in the cloud-silk gown as a tracking follow trails her, the train streaming; gaze ahead.
-- [00:02–00:04] The arc catches her as she rotates her torso and glances back to lens, cloud-glow warm in her eyes, a soft free smile.
+- [00:00–00:02] Three-quarter back over-shoulder medium: she is already walking the runway of light among golden clouds in the cloud-silk gown — one foot striking, the other pushing off, right hand trailing light — as a tracking follow trails her, the train streaming; gaze ahead.
+- [00:02–00:04] The arc catches her as she rotates her torso and glances back to lens over the shoulder, cloud-glow warm in her eyes, a soft free smile.
 - [00:04–00:06] She faces forward again and her stride continues along the light-runway, gaze settling on the horizon.
 
 FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
@@ -8913,11 +8913,11 @@ HAIR: the loosened ponytail re-settling toward the Frame 1 ponytail.
 
 MAKEUP: fresh luminous glow easing back to the opening finish.
 
-HANDS & NAILS: arms returning to the Frame 1 stance, the suitcase back in hand — echoing Frame 1; soft-nude nails.
+HANDS & NAILS: RIGHT HAND returning to the suitcase handle, RIGHT FINGERS wrapped — echoing Frame 1; LEFT HAND easing, LEFT FINGERS soft; soft-nude nails, neat, no white-knuckle tension.
 
 FACIAL MICRO-DYNAMICS: the same cool confident smile as Frame 1, eyes on the concourse, lips softly closed.
 
-BODY POSTURE & WEIGHT: turning back into the Frame 1 stance, weight settled.
+BODY POSTURE & WEIGHT: GAZE sweeping the glass; HEAD turning back toward the terminal; SHOULDERS easing to the entry set; RIGHT ARM returning to the suitcase handle, the RIGHT HAND gripping it, RIGHT FINGERS wrapped — echoing Frame 1; LEFT ARM steadying, the LEFT HAND easing, LEFT FINGERS soft; TORSO rotating back into the Frame-1 stance; WAIST & HIPS squaring with a soft counter-tilt; RIGHT LEG and LEFT LEG easing back to the entry stance; FEET settling onto the entry footing; HAIR sleek as the cloud-silk gown softens to the travel set.
 
 KINETIC STILLNESS (8 layers): (1) the gown softening to the travel set; (2) the concourse reforming; (3) a strand swaying; (4) a moving walkway gliding; (5) chest breathing; (6) the suitcase glinting; (7) a floor reflection shimmering; (8) a slow blink.
 
@@ -8928,7 +8928,7 @@ LIGHTING: identical scheme to Frame 1 — warm window key, white fill, sky-blue 
 LENS + DOF + BOKEH: 28mm, f/3.2, matching Frame 1; concourse as soft bokeh.
 
 COMPOSITION: 9:16, mirroring Frame 1's concourse framing for a seamless cut.
-SUBJECT FRAMING & POSITION: A wide matching Frame 1, Aira turning back toward the terminal as the cloud-silk gown softens toward the travel set, the concourse returning. The full figure reads mid-concourse, turning back into the opening stance, weight settled. Camera at wide distance, mirroring Frame 1's concourse framing for a seamless loop. She turns back, the corridor as depth. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A wide matching Frame 1, Aira turning back toward the terminal as the cloud-silk gown softens toward the travel set, the concourse returning. The full figure reads mid-concourse, turning back into the opening stance, weight settled. Camera at wide distance, mirroring Frame 1's concourse framing for a seamless loop. She turns back, the corridor as depth. She turns back toward the terminal, weight settling into the Frame-1 stance, right hand on the suitcase handle as the cloud-silk gown softens to the travel set and the concourse reforms, for a seamless loop. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 ATMOSPHERE: the gentle return to the departure stroll.
 
@@ -8947,9 +8947,9 @@ SHOT TYPE & ANGLE: wide matching Frame 1, subject ~32%.
 LENS: 28mm, f/3.2.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Wide matching Frame 1: a slow glide-out down the concourse is already reversing the opening glide-in as she turns back toward the terminal; gaze sweeping the glass.
+- [00:00–00:02] Wide matching Frame 1: a slow glide-out down the concourse is already reversing the opening glide-in as she turns back toward the terminal, the suitcase returning to her hand; gaze sweeping the glass.
 - [00:02–00:04] The glide continues as the cloud-silk gown softens back into the travel set and the suitcase returns to her hand, the concourse reforming; a cool content calm returning.
-- [00:04–00:06] She settles into the exact stance of Frame 1 on the polished floor, eyes on the departure window — a seamless loop seam.
+- [00:04–00:06] She settles into the exact stance of Frame 1 on the polished floor, weight settled, eyes on the departure window — a seamless loop seam.
 
 FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
@@ -9027,11 +9027,11 @@ HAIR: a sleek dancer's bun, a face-framing strand swaying, color locked.
 
 MAKEUP: stage-luminous glow, classic-red lip, gilded lid, sharp catchlight.
 
-HANDS & NAILS: one hand on the closed fan, the other steadying a dance shoe; fingers articulate; short nails in soft nude.
+HANDS & NAILS: RIGHT HAND on the closed fan, RIGHT FINGERS wrapped; LEFT HAND steadying the dance shoe, LEFT FINGERS articulate at the heel; short nails in soft nude, neat, no white-knuckle tension.
 
 FACIAL MICRO-DYNAMICS: chin level, a composed expressive calm, eyes lifting into the beam with a sharp catchlight, lips softly closed.
 
-BODY POSTURE & WEIGHT: weight on one foot as the other slips into a shoe, spine tall and balletic — poised and alive, never stiff.
+BODY POSTURE & WEIGHT: GAZE sweeping the dark house; HEAD level, scanning the seats; SHOULDERS balletic and squared; RIGHT ARM holding the closed fan, the RIGHT HAND around it, RIGHT FINGERS wrapped; LEFT ARM steadying a dance shoe, the LEFT HAND at the heel, LEFT FINGERS articulate; TORSO tall and balletic in the spotlight; WAIST & HIPS squared with a soft counter-tilt; RIGHT LEG weight-bearing planted, LEFT LEG (working) the foot slipping into the gold-ribboned dance shoe; FEET & WEIGHT on the planted right foot as the left slides into the shoe; HAIR sleek in the single beam — poised and alive, never stiff (living stillness).
 
 KINETIC STILLNESS (8 layers): (1) dust-motes drifting in the beam; (2) the velvet curtain breathing; (3) a face-framing strand drifting; (4) the skirt settling; (5) chest breathing; (6) an earring swaying; (7) a spotlight flicker; (8) a slow blink.
 
@@ -9042,7 +9042,7 @@ LIGHTING: KEY — a hard white spotlight from above-front. FILL — minimal warm
 LENS + DOF + BOKEH: 28mm slightly wide, f/3.2; focus on Aira; the house as soft dark bokeh; beam volumetric.
 
 COMPOSITION: 9:16, Aira centred in the beam, curtains framing, vast dark negative space.
-SUBJECT FRAMING & POSITION: A wide establishing shot of the vast stage, Aira small in a single spotlight centre-stage, crimson curtains towering, empty seats fading into the dark. The full figure reads small and centred in the spotlight, weight on one foot as the other slips into a shoe, spine tall and balletic. Camera at wide distance, the stage and curtains dwarfing her. She stands centred in the pool of light. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A wide establishing shot of the vast stage, Aira small in a single spotlight centre-stage, crimson curtains towering, empty seats fading into the dark. The full figure reads small and centred in the spotlight, weight on one foot as the other slips into a shoe, spine tall and balletic. Camera at wide distance, the stage and curtains dwarfing her. She stands centred in the pool of light. She steps into the single spotlight centre-stage, weight on the planted right foot as the left slips into the gold-ribboned shoe, right hand on the closed fan and left steadying the heel, crimson curtains towering and seats fading into warm dark. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 ATMOSPHERE: dramatic theatrical hush, the breath before the dance.
 
@@ -9061,9 +9061,9 @@ SHOT TYPE & ANGLE: wide, subject fills ~28%.
 LENS: 28mm, f/3.2.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Wide establishing of the vast stage: she is already stepping into the single spotlight centre-stage as a slow glide-in moves toward her, crimson curtains towering and empty seats fading into warm dark; gaze sweeping the house.
-- [00:02–00:04] The glide carries closer as she slips on a gold-ribboned dance shoe and lowers the fine stage-glasses, dust-motes drifting in the beam; a poised dramatic calm in her eyes.
-- [00:04–00:06] She lifts the fan and settles into an opening stance, gaze steadying to the dark house with quiet command.
+- [00:00–00:02] Wide establishing of the vast stage: she is already stepping into the single spotlight centre-stage — weight on the planted foot, left hand at the shoe — as a slow glide-in moves toward her, crimson curtains towering and empty seats fading into warm dark; gaze sweeping the house.
+- [00:02–00:04] The glide carries closer as she settles the gold-ribboned dance shoe and lowers the fine stage-glasses, dust-motes drifting in the beam; a poised dramatic calm in her eyes.
+- [00:04–00:06] She lifts the fan in her right hand and settles into an opening stance, weight settling even, gaze steadying to the dark house with quiet command.
 
 FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
@@ -9103,11 +9103,11 @@ HAIR: out of frame.
 
 MAKEUP: n/a (macro), soft-nude nails.
 
-HANDS & NAILS: out of frame / a fingertip at the skirt; soft-nude nails.
+HANDS & NAILS: Out of frame in this foot macro, a fingertip at the skirt-edge, LEFT FINGERS light; soft-nude nails, neat, no white-knuckle tension.
 
 FACIAL MICRO-DYNAMICS: n/a.
 
-BODY POSTURE & WEIGHT: a precise weight-roll onto the ball of the foot, ankle articulate — a crisp, fluid balletic gesture.
+BODY POSTURE & WEIGHT: GAZE (implied) down the balletic line; the rise read through the pointing foot; RIGHT LEG the working leg, the foot pointing then rising onto the ball, ankle articulate, the gold ribbon flexing; LEFT LEG the supporting leg, grounded firm; RIGHT ARM implied lifting; LEFT ARM implied in line; a FINGERTIP at the skirt-edge, LEFT FINGERS light; TORSO implied tall and balletic above; WEIGHT rolling precisely onto the ball of the working foot — a crisp fluid balletic gesture, her single crisp shadow rising beside it.
 
 KINETIC STILLNESS (8 layers): (1) the foot rising onto the ball; (2) dust-motes in the rake-light; (3) a skirt-hem sway; (4) ribbon trembling; (5) a soft breath-shift; (6) the floor specular sliding; (7) a faint shadow forming; (8) a micro-tremor of balance.
 
@@ -9118,7 +9118,7 @@ LIGHTING: KEY — hard spotlight raking the floor. FILL — minimal warm ambient
 LENS + DOF + BOKEH: 100mm macro, f/2.8; focus on the shoe; background dark bokeh.
 
 COMPOSITION: 9:16, shoe on a power point, the rake-light as a leading diagonal, dark negative space.
-SUBJECT FRAMING & POSITION: A macro/extreme close on the gold-ribboned dance shoe as her foot points and rises onto the ball, the spotlight raking the floor — a detail insert, body out of frame. The shoe and pointing foot fill the frame in a precise weight-roll. Camera macro-near. The figure is implied above the frame. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A macro/extreme close on the gold-ribboned dance shoe as her foot points and rises onto the ball, the spotlight raking the floor — a detail insert, body out of frame. The shoe and pointing foot fill the frame in a precise weight-roll. Camera macro-near. The figure is implied above the frame. A macro on the gold-ribboned dance shoe as the foot points and rises onto the ball with the ankle articulate, the supporting leg grounded, the spotlight raking the floor and her single crisp shadow rising beside it. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 ATMOSPHERE: the crisp precision before the dance unfurls.
 
@@ -9138,7 +9138,7 @@ LENS: 100mm macro, f/2.8.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
 - [00:00–00:02] Extreme macro on the gold-ribboned dance shoe: the foot is already pointing as a slow push closes in, the spotlight raking the floor.
-- [00:02–00:04] It rises onto the ball of the foot, the ribbon flexing and the arch arcing high.
+- [00:02–00:04] It rises onto the ball of the foot, the ribbon flexing and the arch arcing high over the grounded supporting leg.
 - [00:04–00:06] She holds the releve as the dance begins, her single crisp shadow rising on the floor beside it.
 
 FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
@@ -9179,11 +9179,11 @@ HAIR: the dancer's bun in profile, a strand drifting, color locked.
 
 MAKEUP: stage-luminous glow, classic-red lip, gilded lid catching the beam.
 
-HANDS & NAILS: one arm extended in a graceful line, fingers elegantly shaped; soft-nude nails.
+HANDS & NAILS: RIGHT ARM extended in a graceful line, RIGHT FINGERS elegantly shaped; LEFT HAND sweeping the fan, LEFT FINGERS articulate; soft-nude nails, neat, no white-knuckle tension.
 
 FACIAL MICRO-DYNAMICS: eyes following the extended hand, lips parted ~1mm on a breath, an expressive inner-brow lift.
 
-BODY POSTURE & WEIGHT: mid-phrase in profile, spine in a long expressive curve, weight flowing through the supporting leg — graceful momentum, never stiff.
+BODY POSTURE & WEIGHT: GAZE tracing her own extended line; HEAD level in profile, following the arm; SHOULDERS opening into the phrase; RIGHT ARM extended in a graceful line, the RIGHT HAND open with RIGHT FINGERS elegantly shaped; LEFT ARM sweeping the fan, the LEFT HAND on it, LEFT FINGERS articulate; TORSO mid-phrase in profile, spine in a long expressive curve; WAIST & HIPS flowing through the phrase; RIGHT LEG the supporting leg, weight flowing through it; LEFT LEG extending into the line, toe pointed; FEET flowing through the balletic line; WEIGHT flowing through the supporting leg; HAIR and practice skirt sweeping — graceful momentum, never stiff.
 
 KINETIC STILLNESS (8 layers): (1) the skirt sweeping in an arc; (2) the shadow shifting on the curtain; (3) bun strands drifting; (4) the fan-pleats trembling; (5) chest breathing; (6) earrings swinging; (7) dust-motes in the beam; (8) a slow blink.
 
@@ -9194,7 +9194,7 @@ LIGHTING: KEY — hard spotlight from the front casting a crisp shadow. FILL —
 LENS + DOF + BOKEH: 50mm, f/2.2; focus on her near eye; the curtain and shadow soft.
 
 COMPOSITION: 9:16, strong profile line, the extended arm as a diagonal, the shadow echoing on the curtain.
-SUBJECT FRAMING & POSITION: A medium in clean full profile, Aira mid-phrase in profile, one arm extended, the practice skirt sweeping, her single shadow crisp on the velvet. The body reads as a profile line from roughly the waist up, spine in a long expressive curve, weight flowing through the supporting leg. Camera at mid distance, edge-on. She is in profile, mid-phrase, not facing the lens. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A medium in clean full profile, Aira mid-phrase in profile, one arm extended, the practice skirt sweeping, her single shadow crisp on the velvet. The body reads as a profile line from roughly the waist up, spine in a long expressive curve, weight flowing through the supporting leg. Camera at mid distance, edge-on. She is in profile, mid-phrase, not facing the lens. In profile she carries a phrase mid-dance, right arm extended in a graceful line and left sweeping the fan, the spine in a long expressive curve and weight flowing through the supporting leg, her single shadow crisp on the velvet curtain. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 ATMOSPHERE: the expressive heart of the solo.
 
@@ -9215,7 +9215,7 @@ LENS: 50mm, f/2.2.
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
 - [00:00–00:02] Profile medium: she is already sweeping the fan and extending one arm into the phrase as a slow arc swings from profile toward three-quarter, the practice skirt sweeping; gaze tracing her own line.
 - [00:02–00:04] She carries the phrase through a turn-prep, her single shadow crisp on the velvet curtain, the arc easing round; eyes intent and expressive.
-- [00:04–00:06] She launches into the turn toward the shadow-split, gaze sweeping with the spin, breath lifting.
+- [00:04–00:06] She launches into the turn toward the shadow-split, weight rolling onto the pivot foot, gaze sweeping with the spin, breath lifting.
 
 FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
@@ -9255,11 +9255,11 @@ HAIR: the bun strands flaring in the spin, glossy.
 
 MAKEUP: stage-luminous glow, classic-red lip, gilded lid lit by the beam.
 
-HANDS & NAILS: both arms opening into a graceful spin-line, fingers elegantly splayed; soft-nude nails.
+HANDS & NAILS: BOTH ARMS opening into a graceful spin-line, RIGHT and LEFT FINGERS elegantly splayed; soft-nude nails, neat, no white-knuckle tension.
 
 FACIAL MICRO-DYNAMICS: a radiant expressive open expression, lips parted on a breath, eyes bright, brows lifted.
 
-BODY POSTURE & WEIGHT: turn apex, weight on the pivoting foot, body in a dynamic spiral, arms blooming — peak expressive motion, never frozen-stiff.
+BODY POSTURE & WEIGHT: GAZE sweeping with the spin then widening in wonder; HEAD leading the turn then steadying; SHOULDERS opening wide into the spin-line; RIGHT ARM and LEFT ARM blooming open into a graceful spin-line, RIGHT and LEFT FINGERS elegantly splayed; TORSO in a dynamic spiral at the turn apex; WAIST & HIPS rotating hard through the turn; RIGHT LEG the pivoting leg, weight on the pivoting foot, knee soft; LEFT LEG sweeping free with the spin, toe pointed; FEET balanced on the pivoting foot at the apex; WEIGHT poised on the pivoting foot; HAIR and skirt flaring — peak expressive motion, never frozen-stiff.
 
 KINETIC STILLNESS (8 layers): (1) the shadow splitting into two on the curtain; (2) the second silhouette dancing; (3) bun strands flaring; (4) the skirt caught mid-flare; (5) chest mid-breath; (6) the fan-pleats spread; (7) dust-motes spiralling in the beam; (8) lashes flared.
 
@@ -9270,7 +9270,7 @@ LIGHTING: KEY — a hard spotlight splitting into a twin-beam to cast two shadow
 LENS + DOF + BOKEH: 35mm, f/2.8; focus on Aira and the nearest shadow; the curtain soft; beam volumetric.
 
 COMPOSITION: 9:16, Aira centred-spinning, the twin shadows fanning out symmetrically, dynamic spiral.
-SUBJECT FRAMING & POSITION: A front-on full hero at the turn apex, Aira mid-spin as the spotlight splits her shadow into a second dancing silhouette on the curtain. The complete figure is in frame, centred at the turn apex, weight on the pivoting foot, body in a dynamic spiral, arms blooming. Camera at full distance, the split shadow behind her. She faces front, centred and spinning, dominant in frame. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A front-on full hero at the turn apex, Aira mid-spin as the spotlight splits her shadow into a second dancing silhouette on the curtain. The complete figure is in frame, centred at the turn apex, weight on the pivoting foot, body in a dynamic spiral, arms blooming. Camera at full distance, the split shadow behind her. She faces front, centred and spinning, dominant in frame. At the turn apex she is in a dynamic spiral, both arms blooming open into a graceful spin-line and weight on the pivoting foot, the skirt flaring as the spotlight splits her shadow into a second dancing silhouette on the curtain. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 ATMOSPHERE: the magical theatrical instant — her shadow comes alive.
 
@@ -9289,8 +9289,8 @@ SHOT TYPE & ANGLE: front-on full hero, subject fills ~55%, spinning centred.
 LENS: 35mm, f/2.8.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Cut to a front-on full hero at a HELD angle (she spins, the camera holds / push-with): already in motion, launching the turn with the skirt flaring, the hard spotlight behind casting her single crisp shadow on the velvet curtain; gaze sweeping with the spin.
-- [00:02–00:04] The split BEGINS here, mid-clip: the spotlight splits into a believable twin-beam and her single shadow divides into a second dancing silhouette on the curtain, moving in mirror with her — grounded in real spotlight-and-shadow physics, no cheap VFX, her rehearsal look unchanged; eyes widening in dramatic wonder (angle held, identity locked).
+- [00:00–00:02] Cut to a front-on full hero at a HELD angle (she spins, the camera holds / push-with): already in motion, launching the turn with the skirt flaring and weight on the pivoting foot, the hard spotlight behind casting her single crisp shadow on the velvet curtain; gaze sweeping with the spin.
+- [00:02–00:04] The split BEGINS here, mid-clip: the spotlight splits into a believable twin-beam and her single shadow divides into a second dancing silhouette on the curtain, moving in mirror with her as she spins — grounded in real spotlight-and-shadow physics, no cheap VFX, her rehearsal look unchanged; eyes widening in dramatic wonder (angle held, identity locked).
 - [00:04–00:06] Her arms bloom and both shadows dance in mirror, a thrilled awed expression landing, eyes alight — her look still the rehearsal set.
 
 FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
@@ -9331,11 +9331,11 @@ HAIR: the bun loosening slightly, strands fanning in the light, gilded.
 
 MAKEUP: stage-luminous glow at full sheen, classic-red lip, gilded highlight blazing.
 
-HANDS & NAILS: both arms settling from the spin into a poised line, fingers graceful; soft-nude nails.
+HANDS & NAILS: BOTH ARMS settling from the spin into a poised line, RIGHT and LEFT FINGERS graceful; soft-nude nails, neat, no white-knuckle tension.
 
 FACIAL MICRO-DYNAMICS: a radiant awed smile, lips parted on a delighted breath, eyes wide with wonder, brows lifted.
 
-BODY POSTURE & WEIGHT: settling from the spin, body lengthening, the train sweeping — full of settling expressive momentum, never frozen-stiff.
+BODY POSTURE & WEIGHT: GAZE drawn to the converging silhouette then softening; HEAD level, settling from the spin; SHOULDERS settling from the spin into a poised line; RIGHT ARM and LEFT ARM settling from the spin into a poised line, RIGHT and LEFT FINGERS graceful; TORSO lengthening as it settles, the train sweeping; WAIST & HIPS easing from the rotation; RIGHT LEG taking the settling weight, LEFT LEG extending into the line; FEET settling from the spin; WEIGHT settling onto the supporting leg; HAIR settling from the turn — full of settling expressive momentum, never frozen-stiff.
 
 KINETIC STILLNESS (8 layers): (1) the shadow re-merging into her; (2) the gown panels resolving; (3) the bun loosening; (4) the train sweeping; (5) a slow breath; (6) the brow-piece settling; (7) the spotlight steadying; (8) lashes flaring.
 
@@ -9346,7 +9346,7 @@ LIGHTING: KEY — the spotlight re-merging to one hard beam igniting the gown. F
 LENS + DOF + BOKEH: 35mm, f/2.8; focus on Aira and the resolving gown; the curtain soft.
 
 COMPOSITION: 9:16, the re-merge as a settling burst, Aira centred, headroom for the light.
-SUBJECT FRAMING & POSITION: A three-quarter front cowboy/full, Aira fully in the resolved woven shadow-and-light couture gown, the second shadow just re-merged — the clean still the Frame-5 clip settles into. The body reads from roughly mid-thigh up, settling from the spin, body lengthening, the train sweeping. Camera at a cowboy-to-full distance. She is turned three-quarter front, settling from the turn. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A three-quarter front cowboy/full, Aira fully in the resolved woven shadow-and-light couture gown, the second shadow just re-merged — the clean still the Frame-5 clip settles into. The body reads from roughly mid-thigh up, settling from the spin, body lengthening, the train sweeping. Camera at a cowboy-to-full distance. She is turned three-quarter front, settling from the turn. She settles from the spin into the woven shadow-and-light couture gown in a poised theatrical line, both arms settling and the train sweeping, the second shadow just re-merged — the clean resolved couture reveal. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 ATMOSPHERE: theatrical awe — the shadow dressing her in couture.
 
@@ -9365,7 +9365,7 @@ SHOT TYPE & ANGLE: three-quarter front cowboy/full, subject fills ~55%, settling
 LENS: 35mm, f/2.8.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Cut to a three-quarter front cowboy/full at a HELD angle: already in motion, settling from the spin in the rehearsal set as the second shadow catches up toward her, a gentle push-with easing in; gaze drawn to the converging silhouette.
+- [00:00–00:02] Cut to a three-quarter front cowboy/full at a HELD angle: already in motion, settling from the spin in the rehearsal set as the second shadow catches up toward her, weight settling onto the supporting leg, a gentle push-with easing in; gaze drawn to the converging silhouette.
 - [00:02–00:04] The dressing BEGINS here, mid-clip: the shadow re-merges into her and the woven shadow-and-light couture gown resolves smoothly around her in black-and-gold panels exactly where it passes — believable shadow-then-cloth dynamics, the train sweeping, the crimson curtain behind; eyes softening in radiant awe (angle held, identity locked).
 - [00:04–00:06] The dressing completes and the look settles smoothly and fully into the resolved couture gown (this frame's still = Veo last frame), she settling into a poised theatrical line, a radiant awed smile arriving.
 
@@ -9407,11 +9407,11 @@ HAIR: the loosened bun with face-framing strands.
 
 MAKEUP: stage-luminous glow, classic-red lip, gilded highlight.
 
-HANDS & NAILS: one hand sweeping the fan in the bow, the other at the gown; soft-nude nails.
+HANDS & NAILS: RIGHT HAND sweeping the fan open in the bow, RIGHT FINGERS articulate on it; LEFT HAND at the gown, LEFT FINGERS light on the skirt; soft-nude nails, neat, no white-knuckle tension.
 
 FACIAL MICRO-DYNAMICS: a radiant expressive smile delivering the line, eyes bright, brows lifted, cheeks high.
 
-BODY POSTURE & WEIGHT: rising from the bow, tall and grounded, soft expressive line, chin lifting — radiant and relaxed.
+BODY POSTURE & WEIGHT: GAZE lowering with the bow then lifting to lens; HEAD bowing then rising; SHOULDERS sweeping down into the bow then opening; RIGHT ARM sweeping the fan in the bow, the RIGHT HAND opening the fan, RIGHT FINGERS articulate on it; LEFT ARM at the gown, the LEFT HAND on the skirt, LEFT FINGERS light; TORSO sweeping down into a graceful bow then rising tall; WAIST & HIPS folding into the bow then lengthening up; RIGHT LEG drawing back into the bow, LEFT LEG supporting; FEET grounding through the bow and rise; WEIGHT settling grounded as she rises; HAIR sweeping forward in the bow then settling — radiant and relaxed.
 
 KINETIC STILLNESS (8 layers): (1) dust-motes haloing in the beam; (2) the spotlight breathing; (3) face-framing strands lifting; (4) the train settling; (5) chest breathing on the line; (6) the fan-pleats easing; (7) an earring swaying; (8) lashes flaring on the smile.
 
@@ -9422,7 +9422,7 @@ LIGHTING: KEY — a hard halo spotlight. FILL — minimal warm ambient. RIM — 
 LENS + DOF + BOKEH: 35mm, f/2.8; deep enough to read the gown and beam; the house as dark bokeh.
 
 COMPOSITION: 9:16, Aira centred and radiant from the low angle, the beam haloing her.
-SUBJECT FRAMING & POSITION: A low-angle medium, Aira taking a graceful bow in the couture gown at centre-stage, the spotlight haloing her, then rising to speak to lens. The body reads from roughly the waist up, rising from the bow, tall and grounded with a soft expressive line, chin lifting. Camera at mid distance looking up, the spotlight haloing her. She rises near-frontal, radiant. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A low-angle medium, Aira taking a graceful bow in the couture gown at centre-stage, the spotlight haloing her, then rising to speak to lens. The body reads from roughly the waist up, rising from the bow, tall and grounded with a soft expressive line, chin lifting. Camera at mid distance looking up, the spotlight haloing her. She rises near-frontal, radiant. She sweeps into a graceful bow in the couture gown at centre-stage, right hand sweeping the fan and left at the gown, then rises tall and grounded into a soft expressive line as the spotlight haloes her for the line. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 ATMOSPHERE: theatrical triumph — the bow and the line.
 
@@ -9441,9 +9441,9 @@ SHOT TYPE & ANGLE: low-angle medium, subject fills ~50%.
 LENS: 35mm, f/2.8.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Low-angle medium: she is already sweeping into a graceful bow in the couture gown as a slow rise begins from the low angle, the spotlight haloing her; gaze lowering with the bow.
-- [00:02–00:04] She rises from the bow as the camera lifts to eye-level, the train settling behind her; eyes lifting to lens.
-- [00:04–00:06] She delivers the spoken line to lens with a radiant expressive smile, brows lifting in warm theatricality.
+- [00:00–00:02] Low-angle medium: she is already sweeping into a graceful bow in the couture gown — right hand sweeping the fan, left at the gown — as a slow rise begins from the low angle, the spotlight haloing her; gaze lowering with the bow.
+- [00:02–00:04] She rises from the bow as the camera lifts to eye-level, weight settling grounded and the train settling behind her; eyes lifting to lens.
+- [00:04–00:06] She delivers “even my shadow loves to dance.” to lens with a radiant expressive smile, brows lifting in warm theatricality.
 
 FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
@@ -9485,11 +9485,11 @@ HAIR: the loosened bun re-settling toward the Frame 1 bun.
 
 MAKEUP: stage-luminous glow easing back to the opening finish.
 
-HANDS & NAILS: arms returning to the Frame 1 opening stance, the fan closing — echoing Frame 1; soft-nude nails.
+HANDS & NAILS: RIGHT HAND closing the fan, RIGHT FINGERS wrapping it — echoing Frame 1; LEFT HAND easing in line, LEFT FINGERS light; soft-nude nails, neat, no white-knuckle tension.
 
 FACIAL MICRO-DYNAMICS: the same composed expressive calm as Frame 1, eyes into the beam, lips softly closed.
 
-BODY POSTURE & WEIGHT: returning to the Frame 1 opening stance, weight settled, the single shadow back on the curtain.
+BODY POSTURE & WEIGHT: GAZE sweeping back to the house; HEAD turning back to the opening line; SHOULDERS easing to the opening balletic set; RIGHT ARM returning to the opening stance, the RIGHT HAND closing the fan, RIGHT FINGERS wrapping it — echoing Frame 1; LEFT ARM returning in line, the LEFT HAND easing, LEFT FINGERS light; TORSO returning to the Frame-1 opening stance; WAIST & HIPS squaring with a soft counter-tilt; RIGHT LEG and LEFT LEG easing back to the opening stance; FEET settling onto the opening footing; the single shadow returning to the curtain; HAIR sleek as the couture gown softens to the rehearsal set.
 
 KINETIC STILLNESS (8 layers): (1) the gown softening to the rehearsal set; (2) the second shadow gone, one shadow remaining; (3) a strand swaying; (4) the skirt settling; (5) chest breathing; (6) an earring swaying; (7) dust-motes drifting; (8) a slow blink.
 
@@ -9500,7 +9500,7 @@ LIGHTING: identical scheme to Frame 1 — hard spotlight key, minimal fill, gold
 LENS + DOF + BOKEH: 28mm, f/3.2, matching Frame 1; the house as dark bokeh.
 
 COMPOSITION: 9:16, mirroring Frame 1's centre-stage framing for a seamless cut.
-SUBJECT FRAMING & POSITION: A wide matching Frame 1, Aira returning to her opening stance as the couture gown softens toward the rehearsal set, the single shadow back on the curtain. The full figure reads small and centred in the spotlight, returning to the opening stance, weight settled. Camera at wide distance, mirroring Frame 1's stage framing for a seamless loop. She stands centred in the light. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A wide matching Frame 1, Aira returning to her opening stance as the couture gown softens toward the rehearsal set, the single shadow back on the curtain. The full figure reads small and centred in the spotlight, returning to the opening stance, weight settled. Camera at wide distance, mirroring Frame 1's stage framing for a seamless loop. She stands centred in the light. She returns to her opening stance in the spotlight, weight settling and the fan closing in her right hand as the couture gown softens to the rehearsal set and the single shadow returns to the curtain, for a seamless loop. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 ATMOSPHERE: the gentle return to the opening hush.
 
@@ -9519,9 +9519,9 @@ SHOT TYPE & ANGLE: wide matching Frame 1, subject ~28%.
 LENS: 28mm, f/3.2.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Wide matching Frame 1: a slow glide-out is already reversing the opening glide-in as she returns toward her opening stance; gaze sweeping back to the house.
+- [00:00–00:02] Wide matching Frame 1: a slow glide-out is already reversing the opening glide-in as she returns toward her opening stance, the fan closing in her hand; gaze sweeping back to the house.
 - [00:02–00:04] The glide continues as the couture gown softens back into the rehearsal set and the second shadow fades to one; a poised dramatic calm returning.
-- [00:04–00:06] She settles into the exact opening stance of Frame 1 in the spotlight, eyes steady on the dark house — a seamless loop seam.
+- [00:04–00:06] She settles into the exact opening stance of Frame 1 in the spotlight, weight settled, eyes steady on the dark house — a seamless loop seam.
 
 FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
@@ -9599,11 +9599,11 @@ HAIR: the sleek ponytail-chignon, a face-framing strand swaying, color locked.
 
 MAKEUP: luminous future-glow, rose-gold lip, cyan-gold lid, sharp catchlight.
 
-HANDS & NAILS: one hand on the hydro-orb, the other steadying a heel; fingers articulate; short nails in pearl-cyan.
+HANDS & NAILS: RIGHT HAND on the hydro-orb, RIGHT FINGERS supporting it; LEFT HAND steadying a hydro-heel, LEFT FINGERS articulate; short nails in pearl-cyan, neat, no white-knuckle tension.
 
 FACIAL MICRO-DYNAMICS: chin level, a serene confident smile, eyes lifting to the sea-city with a luminous catchlight, lips softly closed.
 
-BODY POSTURE & WEIGHT: weight on one foot as the other slips into a heel, spine tall — poised and alive, never stiff.
+BODY POSTURE & WEIGHT: GAZE sweeping the sea-city; HEAD level, scanning the light-towers; SHOULDERS open and tall; RIGHT ARM on the hydro-orb, the RIGHT HAND around it, RIGHT FINGERS supporting; LEFT ARM steadying a heel, the LEFT HAND at it, LEFT FINGERS articulate; TORSO tall on the glass pier; WAIST & HIPS squared with a soft counter-tilt; RIGHT LEG weight-bearing planted, LEFT LEG (working) the foot slipping into a hydro-heel; FEET & WEIGHT on the planted right foot as the left slides into the heel; HAIR sleek in the golden-blue light — poised and alive, never stiff (living stillness).
 
 KINETIC STILLNESS (8 layers): (1) the sea breathing with light-wavelets; (2) holographic light shimmering on the towers; (3) a face-framing strand drifting; (4) the coat-hem settling; (5) chest breathing; (6) the hydro-orb glowing; (7) a pier-glass reflection shimmering; (8) a slow blink.
 
@@ -9614,7 +9614,7 @@ LIGHTING: KEY — warm golden-blue hour light. FILL — cyan sea-bounce. RIM —
 LENS + DOF + BOKEH: 28mm slightly wide, f/3.2; focus on Aira; the sea-city as soft luminous bokeh.
 
 COMPOSITION: 9:16, Aira on a lower-third power point, the pier as a leading line, vast sea-sky above.
-SUBJECT FRAMING & POSITION: A wide establishing shot of the glowing glass pier, Aira small in the lower third, light-towers rising from the sea-blue ocean behind. The full figure reads small on the lower-third power point, weight on one foot as the other slips into a heel, spine tall. Camera at wide distance, the light-towers and ocean filling the frame. She stands low-frame, near-frontal, dwarfed by the sea-city. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A wide establishing shot of the glowing glass pier, Aira small in the lower third, light-towers rising from the sea-blue ocean behind. The full figure reads small on the lower-third power point, weight on one foot as the other slips into a heel, spine tall. Camera at wide distance, the light-towers and ocean filling the frame. She stands low-frame, near-frontal, dwarfed by the sea-city. She steps onto the glowing glass pier, weight on the planted right foot as the left slips into a hydro-heel, right hand on the hydro-orb and left steadying the heel, small in the lower third with light-towers rising from the sea-blue ocean behind. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 ATMOSPHERE: epic future-aquatic energy, the hush before the grand transform.
 
@@ -9633,9 +9633,9 @@ SHOT TYPE & ANGLE: wide, subject fills ~28%.
 LENS: 28mm, f/3.2.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Wide establishing of the glowing glass pier: she is already stepping onto it in the lower third as a slow aerial drift-down glides toward her, light-towers rising from the sea-blue ocean behind; gaze sweeping the sea-city.
-- [00:02–00:04] The drift carries closer as she slips on a hydro-heel and lowers the visor, the pier-glass glowing beneath; a free, awed calm in her eyes.
-- [00:04–00:06] She lifts the hydro-orb and turns toward the open water, eyes lifting to the golden-blue horizon.
+- [00:00–00:02] Wide establishing of the glowing glass pier: she is already stepping onto it in the lower third — weight on the planted foot, left hand at the heel — as a slow aerial drift-down glides toward her, light-towers rising from the sea-blue ocean behind; gaze sweeping the sea-city.
+- [00:02–00:04] The drift carries closer as she settles the hydro-heel and lowers the visor, the pier-glass glowing beneath; a free awed calm in her eyes.
+- [00:04–00:06] She lifts the hydro-orb in her right hand and turns toward the open water, weight rolling forward, eyes lifting to the golden-blue horizon.
 
 FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
@@ -9675,11 +9675,11 @@ HAIR: out of frame.
 
 MAKEUP: n/a (macro), pearl-cyan nails.
 
-HANDS & NAILS: a fingertip at the coat-hem; pearl-cyan nails.
+HANDS & NAILS: A fingertip at the coat-hem, LEFT FINGERS light; pearl-cyan nails, neat, no white-knuckle tension — the focus is the heel pressing the glowing glass.
 
 FACIAL MICRO-DYNAMICS: n/a.
 
-BODY POSTURE & WEIGHT: a precise weight-press into the heel, ankle articulate — a crisp, fluid gesture.
+BODY POSTURE & WEIGHT: GAZE (implied) down to the heel; the press read through the pressing foot; RIGHT LEG the working leg, the hydro-heel pressing onto the glowing pier-glass, ankle articulate; LEFT LEG the supporting leg, grounded firm; a FINGERTIP at the coat-hem, LEFT FINGERS light; RIGHT ARM implied steadying above; TORSO implied tall above in a precise weight-press; WEIGHT pressing precisely into the heel — a crisp fluid gesture, a ring of light blooming beneath the sole.
 
 KINETIC STILLNESS (8 layers): (1) the light-ring blooming beneath the sole; (2) sea-light shimmering through the glass; (3) a coat-hem sway; (4) a reflection sliding; (5) a soft breath-shift; (6) the hydro-orb glow; (7) a faint mist drifting; (8) a micro-tremor of the press.
 
@@ -9690,7 +9690,7 @@ LIGHTING: KEY — the light-ring beneath the sole. FILL — cyan sea-bounce. RIM
 LENS + DOF + BOKEH: 100mm macro, f/2.8; focus on the heel and light-ring; background luminous bokeh.
 
 COMPOSITION: 9:16, heel on a power point, the light-ring as a radial leading shape, glowing negative space.
-SUBJECT FRAMING & POSITION: A macro/extreme close on the hydro-heel meeting the glowing pier-glass, a ring of light blooming beneath the sole — a detail insert, body out of frame. The heel and light-ring fill the frame in a precise weight-press. Camera macro-near. The figure is implied above the frame. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A macro/extreme close on the hydro-heel meeting the glowing pier-glass, a ring of light blooming beneath the sole — a detail insert, body out of frame. The heel and light-ring fill the frame in a precise weight-press. Camera macro-near. The figure is implied above the frame. A macro on the hydro-heel meeting the glowing pier-glass, the working foot pressing with the ankle articulate over the grounded supporting leg, a ring of light blooming beneath the sole, the body implied tall above. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 ATMOSPHERE: the crisp luminous instant before the water-road.
 
@@ -9710,7 +9710,7 @@ LENS: 100mm macro, f/2.8.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
 - [00:00–00:02] Extreme macro on the hydro-heel: it is already meeting the glowing pier-glass as a slow push closes in, a ring of light beginning beneath the sole.
-- [00:02–00:04] The light-ring blooms outward across the glass, ripples of cyan racing away.
+- [00:02–00:04] The light-ring blooms outward across the glass as her weight presses into the heel, ripples of cyan racing away.
 - [00:04–00:06] The glow surges toward the water as the road of light begins to form, brightening the pier.
 
 FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
@@ -9751,11 +9751,11 @@ HAIR: the ponytail-chignon in profile, strands lifting in the rising air, color 
 
 MAKEUP: luminous future-glow, rose-gold lip, cyan-gold lid catching the sea-light.
 
-HANDS & NAILS: one hand reaching toward the forming light-road, fingers elegant; pearl-cyan nails.
+HANDS & NAILS: RIGHT HAND reaching toward the forming light-road, RIGHT FINGERS elegant; LEFT HAND easing open, LEFT FINGERS soft; pearl-cyan nails, neat, no white-knuckle tension.
 
 FACIAL MICRO-DYNAMICS: eyes following the forming road in wonder, lips parted ~1mm on a soft breath, a delighted inner-brow lift.
 
-BODY POSTURE & WEIGHT: standing tall in profile, spine lengthening toward the sea, weight lifting — graceful upward momentum, never stiff.
+BODY POSTURE & WEIGHT: GAZE out across the channel; HEAD level in profile, lifting to the sea; SHOULDERS lifting toward the water; RIGHT ARM reaching toward the forming light-road, the RIGHT HAND open with RIGHT FINGERS elegant; LEFT ARM easing, the LEFT HAND open, LEFT FINGERS soft; TORSO lengthening upright toward the sea; WAIST & HIPS lifting, lengthening; RIGHT LEG planting tall, LEFT LEG easing onto the balls; FEET rolling onto the balls toward the sea; WEIGHT lifting toward the water; HAIR stirring as the coat lifts — graceful upward momentum, never stiff.
 
 KINETIC STILLNESS (8 layers): (1) the road of light forming across the water; (2) sea-light shimmering; (3) ponytail strands lifting; (4) the coat-hem rising; (5) chest breathing; (6) the hydro-orb glowing; (7) sea-light shifting; (8) a slow blink.
 
@@ -9766,7 +9766,7 @@ LIGHTING: KEY — warm golden-blue light. FILL — cyan sea-bounce. RIM — gold
 LENS + DOF + BOKEH: 50mm, f/2.2; focus on her near eye; the sea-road soft.
 
 COMPOSITION: 9:16, strong profile line, the forming light-road as a horizontal leading line, sea-city framing.
-SUBJECT FRAMING & POSITION: A medium in clean full profile, Aira at the pier edge in profile, one hand reaching toward the sea as a road of light forms across the water. The body reads as a profile line from roughly the waist up, standing tall with the spine lengthening toward the sea, weight lifting. Camera at mid distance, edge-on. She is in profile, reaching seaward, not facing the lens. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A medium in clean full profile, Aira at the pier edge in profile, one hand reaching toward the sea as a road of light forms across the water. The body reads as a profile line from roughly the waist up, standing tall with the spine lengthening toward the sea, weight lifting. Camera at mid distance, edge-on. She is in profile, reaching seaward, not facing the lens. In profile she stands tall at the pier edge, right hand reaching toward the sea and left easing open, the spine lengthening toward the water and weight rolling onto the balls as a road of light begins to form across the channel. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 ATMOSPHERE: the epic lift toward the grand transform.
 
@@ -9787,7 +9787,7 @@ LENS: 50mm, f/2.2.
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
 - [00:00–00:02] Profile medium at the pier edge: she is already reaching one hand toward the sea as a slow arc swings from profile toward three-quarter, the water glowing beyond; gaze out across the channel.
 - [00:02–00:04] A road of light forms across the water and her luminous coat lifts in the rising air, the arc easing round; eyes widening in awe.
-- [00:04–00:06] She begins to step onto the light-road, gaze fixed on the glowing path.
+- [00:04–00:06] She begins to step onto the light-road, weight rolling onto the front foot, gaze fixed on the glowing path.
 
 FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
@@ -9827,11 +9827,11 @@ HAIR: a sleek chignon.
 
 MAKEUP: a luminous future-glow, rose-gold lip; real pores and fine vellus texture.
 
-HANDS & NAILS: one hand reaching toward the rising sea, the other easy at her side, fingers relaxed; pearl-cyan nails, neat cuticles.
+HANDS & NAILS: RIGHT HAND reaching toward the rising sea, RIGHT FINGERS reaching; LEFT HAND easy at her side, LEFT FINGERS soft; pearl-cyan nails, neat cuticles, no white-knuckle tension.
 
 FACIAL MICRO-DYNAMICS: an awed anticipatory gaze to the rising sea and the forming road, lips parting on a held breath — fully recognizable, identity-locked, ready for the transform mid-clip.
 
-BODY POSTURE & WEIGHT: stepping onto the light-road, weight rolling onto the front foot, torso leading — poised, the instant before the grand transform.
+BODY POSTURE & WEIGHT: GAZE lifting with the rising sea; HEAD level, chin lifting as the gown weaves; SHOULDERS leading forward onto the road; RIGHT ARM reaching toward the rising sea, the RIGHT HAND open with RIGHT FINGERS reaching; LEFT ARM easy at her side, the LEFT HAND open, LEFT FINGERS soft; TORSO leading forward onto the light-road; WAIST & HIPS rotating forward into the step; RIGHT LEG (front) stepping onto the road, knee soft; LEFT LEG pushing off behind; FEET & WEIGHT rolling onto the front foot on the light-road — poised, the instant before the grand transform; HAIR lifting in the rising air.
 
 KINETIC STILLNESS (8 layers): (1) the ocean beginning to stir and rise; (2) the road of light forming across the water; (3) a chignon-strand lifting in the sea-air; (4) the sea-city light-towers blazing behind; (5) a held breath; (6) the hydro-orb glinting; (7) the future set rippling; (8) lashes settling on a blink.
 
@@ -9842,7 +9842,7 @@ LIGHTING: KEY — cool golden-blue city-light. FILL — cyan sea-bounce. RIM —
 LENS + DOF + BOKEH: 35mm, f/2.8; focus on Aira; the sea-city as soft luminous bokeh, clearly present and epic behind.
 
 COMPOSITION: 9:16, Aira a poised vertical stepping onto the light-road, the sea-city blazing behind, headroom for the transform.
-SUBJECT FRAMING & POSITION: A front-on full/wide hero stepping onto the forming light-road in the future Look A — the clean still the transform clip opens on. The complete figure is in frame, centred, the sea-city present and epic behind. Camera at full/wide distance. She faces front, centred. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A front-on full/wide hero stepping onto the forming light-road in the future Look A — the clean still the transform clip opens on. The complete figure is in frame, centred, the sea-city present and epic behind. Camera at full/wide distance. She faces front, centred. She steps onto the forming road of light in her sleek future set, weight rolling onto the front foot with the torso leading, right hand reaching toward the rising sea and left easy at her side, the sea-city and light-towers blazing behind — the clean Look A the grand transform opens on. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 ATMOSPHERE: epic anticipation — the breath before the ocean dresses her in couture.
 
@@ -9861,8 +9861,8 @@ SHOT TYPE & ANGLE: front-on full/wide hero, subject fills ~55%, striding centred
 LENS: 35mm, f/2.8.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Cut to a front-on full/wide hero at a HELD angle (Veo first frame = the future-set Look A still): already in motion, the camera riding WITH her / push-with as she steps onto the forming road of light and the ocean begins to stir — the future set fully intact, the gown NOT yet woven, the sea-city blazing behind; gaze lifting with the rising sea.
-- [00:02–00:04] The grand transform BEGINS here, mid-clip: the ocean rises into the road of light and weaves sea-water, city-light and silk smoothly into the flowing couture finale gown exactly where it passes — a grand surreal beat grounded in real water physics (real sea-rise, sea-droplets and light on true arcs, no cheap sparkles), the sea-city epic behind, the camera riding with her at the held angle; chin lifting, eyes widening in radiant awe.
+- [00:00–00:02] Cut to a front-on full/wide hero at a HELD angle (Veo first frame = the future-set Look A still): already in motion, the camera riding WITH her / push-with as she steps onto the forming road of light — weight rolling onto the front foot, right hand reaching to the sea — and the ocean begins to stir, the future set fully intact, the gown NOT yet woven, the sea-city blazing behind; gaze lifting with the rising sea.
+- [00:02–00:04] The grand transform BEGINS here, mid-clip: the ocean rises into the road of light and weaves sea-water, city-light and silk smoothly into the flowing couture finale gown exactly where it passes as she strides on — a grand surreal beat grounded in real water physics (real sea-rise, sea-droplets and light on true arcs, no cheap sparkles), the sea-city epic behind, the camera riding with her at the held angle; chin lifting, eyes widening in radiant awe.
 - [00:04–00:06] The weave completes and the look settles smoothly and fully into the couture finale gown of Frame 5's still (Veo's LAST frame), the grand train settling and sea-light on real arcs — a radiant awed smile landing, no last-second snap.
 
 FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
@@ -9903,11 +9903,11 @@ HAIR: the loosened chignon with face-framing strands, light-lit.
 
 MAKEUP: luminous future-glow, rose-gold lip, cyan-gold highlight.
 
-HANDS & NAILS: both arms sweeping in a graceful dance-line, fingers elegantly shaped; pearl-cyan nails.
+HANDS & NAILS: BOTH ARMS sweeping in a graceful dance-line, RIGHT and LEFT FINGERS elegantly shaped; pearl-cyan nails, neat, no white-knuckle tension.
 
 FACIAL MICRO-DYNAMICS: a radiant joyful expression, eyes bright, a soft open smile, cheeks high.
 
-BODY POSTURE & WEIGHT: mid-dance-phrase, body in a long expressive line, weight flowing through the supporting leg — graceful momentum, never stiff.
+BODY POSTURE & WEIGHT: GAZE flowing with the movement; HEAD leading the dance-line; SHOULDERS opening into the sweep; RIGHT ARM and LEFT ARM sweeping in a graceful dance-line, RIGHT and LEFT FINGERS elegantly shaped; TORSO in a long expressive line mid-dance-phrase; WAIST & HIPS flowing through the phrase; RIGHT LEG the supporting leg, weight flowing through it; LEFT LEG extending into the dance-line, toe pointed; FEET flowing through the dance on the light-road; WEIGHT flowing through the supporting leg; HAIR and train flying — graceful momentum, never stiff.
 
 KINETIC STILLNESS (8 layers): (1) the train sweeping across the light-road; (2) sea-light shimmering; (3) chignon strands drifting; (4) the gown rippling; (5) chest breathing; (6) earrings swinging; (7) the hydro-orb glowing; (8) a slow blink.
 
@@ -9918,7 +9918,7 @@ LIGHTING: KEY — warm golden-blue light. FILL — cyan sea-bounce. RIM — gold
 LENS + DOF + BOKEH: 35mm, f/2.8; focus on Aira; the sea-city soft.
 
 COMPOSITION: 9:16, Aira centred-dancing, the light-road as a leading line, sea-city framing.
-SUBJECT FRAMING & POSITION: A three-quarter front cowboy/full, Aira dancing a fluid expressive phrase across the road of light in the couture gown, the sea glowing around her. The body reads from roughly mid-thigh up, mid-dance-phrase, body in a long expressive line, weight flowing through the supporting leg. Camera at a cowboy-to-full distance. She is turned three-quarter front, mid-dance. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A three-quarter front cowboy/full, Aira dancing a fluid expressive phrase across the road of light in the couture gown, the sea glowing around her. The body reads from roughly mid-thigh up, mid-dance-phrase, body in a long expressive line, weight flowing through the supporting leg. Camera at a cowboy-to-full distance. She is turned three-quarter front, mid-dance. She dances a fluid expressive phrase across the road of light in the couture gown, both arms sweeping in a graceful dance-line and weight flowing through the supporting leg, the train flying and the sea glowing around her. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 ATMOSPHERE: epic joy — the dance across the sea.
 
@@ -9937,9 +9937,9 @@ SHOT TYPE & ANGLE: three-quarter front cowboy/full, subject fills ~55%.
 LENS: 35mm, f/2.8.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Three-quarter front cowboy/full: she is already sweeping into a dance phrase across the road of light as an arcing orbit follows her, the sea glowing around; gaze flowing with the movement.
+- [00:00–00:02] Three-quarter front cowboy/full: she is already sweeping into a dance phrase across the road of light, both arms sweeping and weight flowing through the supporting leg, as an arcing orbit follows her, the sea glowing around; gaze flowing with the movement.
 - [00:02–00:04] A fluid expressive sequence — a turn, an arm-sweep, the train flying — the orbit arcing with her; eyes bright and joyful.
-- [00:04–00:06] She carries the phrase toward the pool-channel, gaze leading toward the glowing water.
+- [00:04–00:06] She carries the phrase toward the pool-channel, weight rolling forward, gaze leading toward the glowing water.
 
 FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
@@ -9979,11 +9979,11 @@ HAIR: the chignon glossy-wet, sculpted by the water, a few strands drifting.
 
 MAKEUP: luminous future-glow at full glassy sheen, rose-gold lip, cyan-gold lid.
 
-HANDS & NAILS: both arms in a graceful swim-arc, fingers elegant, water threading between them; pearl-cyan nails.
+HANDS & NAILS: BOTH ARMS in a graceful swim-arc, RIGHT and LEFT FINGERS elegant as water threads between them; pearl-cyan nails, neat, no white-knuckle tension.
 
 FACIAL MICRO-DYNAMICS: a serene radiant expression, eyes bright, a soft open smile, breath steady.
 
-BODY POSTURE & WEIGHT: mid-swim-arc, body in a long graceful line, weightless and fluid — supremely graceful, never stiff.
+BODY POSTURE & WEIGHT: GAZE forward through the water; HEAD level, leading the swim-arc; SHOULDERS streamlined into the arc; RIGHT ARM and LEFT ARM in a graceful swim-arc, RIGHT and LEFT FINGERS elegant as water threads between them; TORSO in a long graceful line, weightless; WAIST & HIPS neutral and fluid in the water; RIGHT LEG extended long, LEFT LEG softly finning in counter-balance; FEET pointed soft, finning; WEIGHT neutral (weightless in the channel); HAIR streaming in the water — supremely graceful, never stiff.
 
 KINETIC STILLNESS (8 layers): (1) the gown flowing like liquid light; (2) sea-blue caustics dancing across her; (3) chignon strands drifting; (4) the train trailing luminous; (5) chest breathing; (6) ripple rings expanding; (7) sea-light shifting; (8) a slow blink.
 
@@ -9994,7 +9994,7 @@ LIGHTING: KEY — warm golden-blue light from above. FILL — strong cyan causti
 LENS + DOF + BOKEH: 35mm, f/2.8; focus on Aira; the channel as luminous bokeh.
 
 COMPOSITION: 9:16, Aira on a diagonal swim-line, ripple rings as radial leading shapes, glowing negative space.
-SUBJECT FRAMING & POSITION: A high-angle medium-wide looking down as Aira swims a graceful arc through a glowing sea-blue pool channel, the couture gown flowing like liquid. The body reads from roughly the knees up in a mid-swim arc, body in a long graceful line, weightless and fluid. Camera high and looking down, the channel framing her. She arcs through the water, horizontal, seen from above. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A high-angle medium-wide looking down as Aira swims a graceful arc through a glowing sea-blue pool channel, the couture gown flowing like liquid. The body reads from roughly the knees up in a mid-swim arc, body in a long graceful line, weightless and fluid. Camera high and looking down, the channel framing her. She arcs through the water, horizontal, seen from above. From a high angle she swims a graceful arc through the glowing sea-blue pool channel, both arms in a long swim-arc and legs finning soft in neutral buoyancy, the couture gown flowing like liquid light around her. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 ATMOSPHERE: epic grace — the swim through liquid light.
 
@@ -10013,9 +10013,9 @@ SHOT TYPE & ANGLE: high-angle medium-wide, subject fills ~50%.
 LENS: 35mm, f/2.8.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] High-angle medium-wide looking down: she is already gliding into the glowing sea-blue pool channel in a graceful arc as an overhead tracking glide follows, the gown flowing like liquid light; gaze forward through the water.
-- [00:02–00:04] A fluid weightless swim through the glowing channel, the couture gown streaming around her; eyes serene and luminous.
-- [00:04–00:06] She begins to rise toward the far edge, gaze lifting toward the blazing sea-city above.
+- [00:00–00:02] High-angle medium-wide looking down: she is already gliding into the glowing sea-blue pool channel in a graceful arc, both arms sweeping and legs finning, as an overhead tracking glide follows, the gown flowing like liquid light; gaze forward through the water.
+- [00:02–00:04] A fluid weightless swim through the glowing channel, the couture gown streaming around her and arms drawing through the water; eyes serene and luminous.
+- [00:04–00:06] She begins to rise toward the far edge, one arm reaching up, gaze lifting toward the blazing sea-city above.
 
 FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
@@ -10055,11 +10055,11 @@ HAIR: the loosened wet chignon with face-framing strands.
 
 MAKEUP: luminous future-glow, rose-gold lip, cyan-gold highlight.
 
-HANDS & NAILS: one hand at the gown, the other gesturing to the sea-city as she speaks; pearl-cyan nails.
+HANDS & NAILS: RIGHT HAND at the gown, RIGHT FINGERS light on the couture skirt; LEFT HAND gesturing to the sea-city, LEFT FINGERS spread; pearl-cyan nails, neat, no white-knuckle tension.
 
 FACIAL MICRO-DYNAMICS: a radiant triumphant smile delivering the line, eyes bright, brows lifted, cheeks high.
 
-BODY POSTURE & WEIGHT: rising tall and grounded on the platform, soft contrapposto, shoulders open, chin lifting — commanding and radiant.
+BODY POSTURE & WEIGHT: GAZE lifting then sweeping the sea-city, turning to lens; HEAD lifting, chin rising; SHOULDERS open as she rises onto the platform; RIGHT ARM at the gown, the RIGHT HAND on the couture skirt, RIGHT FINGERS light; LEFT ARM gesturing to the sea-city, the LEFT HAND open with LEFT FINGERS spread; TORSO rising tall and grounded on the platform in a soft contrapposto; WAIST & HIPS in a gentle counter-tilt, weight settling; RIGHT LEG taking the weight as she rises onto the platform, LEFT LEG following up; FEET grounding onto the glowing platform; WEIGHT settling grounded as she rises, light dripping from the gown; HAIR streaming wet then settling — commanding and radiant.
 
 KINETIC STILLNESS (8 layers): (1) luminous light dripping from the gown; (2) sea-light shimmering; (3) face-framing strands lifting; (4) the train settling luminous; (5) chest breathing on the line; (6) the hydro-orb glowing; (7) city-light blazing; (8) lashes flaring on the smile.
 
@@ -10070,7 +10070,7 @@ LIGHTING: KEY — warm golden-blue light. FILL — cyan sea-bounce. RIM — gold
 LENS + DOF + BOKEH: 28mm slightly wide, f/3.2; deep enough to read the gown and city; city-lights as luminous bokeh.
 
 COMPOSITION: 9:16, Aira centred and dominant, the sea-city framing her, a poster-grade finale hero.
-SUBJECT FRAMING & POSITION: A front-on full/wide hero, Aira rising from the pool channel onto a glowing platform in the full couture finale gown, the sea-city blazing behind. The complete figure is in frame, centred and rising tall on the platform, soft contrapposto, shoulders open, chin lifting. Camera at full/wide distance, the sea-city blazing around her. She faces front, centred and commanding, dominant in frame. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A front-on full/wide hero, Aira rising from the pool channel onto a glowing platform in the full couture finale gown, the sea-city blazing behind. The complete figure is in frame, centred and rising tall on the platform, soft contrapposto, shoulders open, chin lifting. Camera at full/wide distance, the sea-city blazing around her. She faces front, centred and commanding, dominant in frame. She rises tall and grounded from the pool channel onto a glowing platform in the full couture finale gown, soft contrapposto with the right hand at the gown and the left gesturing to the sea-city, shoulders open as she turns to lens for the line, the sea-city blazing behind. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 ATMOSPHERE: epic triumph — the finale punchline.
 
@@ -10089,9 +10089,9 @@ SHOT TYPE & ANGLE: front-on full/wide hero, subject fills ~50%.
 LENS: 28mm, f/3.2.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Front-on full/wide hero: she is already rising from the pool channel onto a glowing platform in the full couture finale gown as a slow rise-and-settle moves to dead-front, light dripping from the gown; gaze lifting.
-- [00:02–00:04] She gestures to the blazing sea-city behind her, eyes sweeping the light-towers with triumphant pride.
-- [00:04–00:06] She turns fully to lens and delivers the spoken line with a radiant triumphant smile, eyes alight as the camera settles.
+- [00:00–00:02] Front-on full/wide hero: she is already rising from the pool channel onto a glowing platform in the full couture finale gown, weight settling grounded, as a slow rise-and-settle moves to dead-front, light dripping from the gown; gaze lifting.
+- [00:02–00:04] She gestures with her left hand to the blazing sea-city behind her, eyes sweeping the light-towers with triumphant pride, the right resting at the gown.
+- [00:04–00:06] She turns fully to lens and delivers “the future looks good on me.” with a radiant triumphant smile, eyes alight as the camera settles.
 
 FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
@@ -10133,11 +10133,11 @@ HAIR: the loosened chignon re-settling toward the Frame 1 ponytail-chignon, dryi
 
 MAKEUP: luminous future-glow easing back to the opening finish.
 
-HANDS & NAILS: arms returning to the Frame 1 stance, the hydro-orb back in hand — echoing Frame 1; pearl-cyan nails.
+HANDS & NAILS: RIGHT HAND returning to the hydro-orb, RIGHT FINGERS supporting it — echoing Frame 1; LEFT HAND easing, LEFT FINGERS soft; pearl-cyan nails, neat, no white-knuckle tension.
 
 FACIAL MICRO-DYNAMICS: the same serene confident smile as Frame 1, eyes on the sea-city, lips softly closed.
 
-BODY POSTURE & WEIGHT: turning back into the Frame 1 stance, weight settled.
+BODY POSTURE & WEIGHT: GAZE sweeping the sea-city; HEAD turning back toward the pier; SHOULDERS easing to the entry set; RIGHT ARM returning to the hydro-orb, the RIGHT HAND around it, RIGHT FINGERS supporting — echoing Frame 1; LEFT ARM steadying, the LEFT HAND easing, LEFT FINGERS soft; TORSO rotating back into the Frame-1 stance; WAIST & HIPS squaring with a soft counter-tilt; RIGHT LEG and LEFT LEG easing back to the entry stance; FEET settling onto the pier footing; HAIR sleek as the couture finale gown softens to the future set.
 
 KINETIC STILLNESS (8 layers): (1) the gown softening to the future set; (2) the water-road dissolving; (3) a strand swaying; (4) the sea breathing; (5) chest breathing; (6) the hydro-orb glowing; (7) a pier-glass reflection shimmering; (8) a slow blink.
 
@@ -10148,7 +10148,7 @@ LIGHTING: identical scheme to Frame 1 — warm golden-blue key, cyan fill, gold-
 LENS + DOF + BOKEH: 28mm, f/3.2, matching Frame 1; the sea-city as soft luminous bokeh.
 
 COMPOSITION: 9:16, mirroring Frame 1's pier framing for a seamless cut.
-SUBJECT FRAMING & POSITION: A wide matching Frame 1, Aira turning back toward the pier as the couture finale gown softens toward the future set, the water-road fading. The full figure reads small on the lower-third power point, turning back into the opening stance, weight settled. Camera at wide distance, mirroring Frame 1's pier framing for a seamless loop. She stands low-frame, turned back to the pier. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A wide matching Frame 1, Aira turning back toward the pier as the couture finale gown softens toward the future set, the water-road fading. The full figure reads small on the lower-third power point, turning back into the opening stance, weight settled. Camera at wide distance, mirroring Frame 1's pier framing for a seamless loop. She stands low-frame, turned back to the pier. She turns back toward the pier, weight settling into the Frame-1 stance, right hand on the hydro-orb as the couture finale gown softens to the future set and the water-road dissolves, for a seamless loop. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 ATMOSPHERE: the gentle return to the pier.
 
@@ -10167,9 +10167,9 @@ SHOT TYPE & ANGLE: wide matching Frame 1, subject ~28%.
 LENS: 28mm, f/3.2.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Wide matching Frame 1: a slow drift-up-and-back is already reversing the opening aerial drift as she turns back toward the pier; gaze sweeping the sea-city.
+- [00:00–00:02] Wide matching Frame 1: a slow drift-up-and-back is already reversing the opening aerial drift as she turns back toward the pier, the hydro-orb returning to her hand; gaze sweeping the sea-city.
 - [00:02–00:04] The drift continues as the couture finale gown softens back into the future set, the water-road dissolves into the sea and the hydro-orb returns to her hand; a free content calm returning.
-- [00:04–00:06] She settles into the exact stance of Frame 1 on the glowing pier, eyes on the horizon — a seamless loop seam.
+- [00:04–00:06] She settles into the exact stance of Frame 1 on the glowing pier, weight settled, eyes on the horizon — a seamless loop seam.
 
 FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 

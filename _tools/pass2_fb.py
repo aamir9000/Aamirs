@@ -1897,6 +1897,187 @@ CINE[17] = {
 }
 
 
+# CONCEPT 18 — AIRPORT RUNWAY DREAM (corridor-to-cloud · SILENT · walking · real cloth + sky-light)
+CINE[18] = {
+ 1: {
+  "posture": "GAZE scanning the bright concourse with cool ease; HEAD level, sweeping the gates; SHOULDERS open and purposeful; RIGHT ARM on the suitcase handle, the RIGHT HAND gripping it, RIGHT FINGERS wrapped; LEFT ARM steadying a flat, the LEFT HAND at the heel, LEFT FINGERS articulate; TORSO tall and purposeful striding onto the floor; WAIST & HIPS squared with a soft counter-tilt; RIGHT LEG weight-bearing planted, LEFT LEG (working) the foot slipping into a travel flat; FEET & WEIGHT on the planted right foot as the left slides into the flat; HAIR sleek in the golden light — purposeful and alive, never stiff (living stillness).",
+  "hands": "RIGHT HAND on the suitcase handle, RIGHT FINGERS wrapped; LEFT HAND steadying a travel flat, LEFT FINGERS articulate at the heel; short nails in soft nude, neat, no white-knuckle tension.",
+  "framing": "She strides onto the polished concourse, weight on the planted right foot as the left slips into a flat, right hand on the suitcase handle and left steadying the heel, gate-glow and windows arching away.",
+  "b1": "Wide establishing down the glass terminal concourse: she is already striding onto the polished floor — weight on the planted foot, right hand on the suitcase handle — as a slow glide-in moves toward her, gate-glow and windows arching away; eyes scanning the bright concourse with cool ease.",
+  "b2": "The glide carries closer as she settles the travel flat and grips the suitcase handle, golden light raking the floor; a free confident set to her gaze.",
+  "b3": "She rolls the suitcase toward the vast departure window, weight rolling forward, eyes lifting to the glowing sky beyond.",
+ },
+ 2: {
+  "posture": "GAZE (implied) ahead to the window; the roll read through the steady arm; RIGHT ARM lowered to the handle-base, the RIGHT HAND on it, RIGHT FINGERS articulate guiding the roll; LEFT ARM implied easy; TORSO implied tall above in a steady purposeful roll; WAIST & HIPS implied square, driving forward; FEET & WEIGHT flowing forward in the walk — a crisp fluid roll, a golden reflection streaking beneath the wheels.",
+  "hands": "RIGHT HAND on the handle-base entering frame, RIGHT FINGERS articulate guiding the roll; soft-nude nails, neat, no white-knuckle tension.",
+  "framing": "A macro on the suitcase wheels gliding across the polished floor with the hand articulate on the handle-base, a golden reflection streaking beneath, the body implied striding above.",
+  "b1": "Low macro on the suitcase wheels: they are already rolling across the polished floor as a tracking glide moves alongside at matched pace, a golden reflection streaking beneath.",
+  "b2": "The wheels glide on toward the window light under her steady hand, the reflection brightening.",
+  "b3": "The floor-glow surges as the threshold nears, light pooling around the wheels.",
+ },
+ 3: {
+  "posture": "GAZE out to the horizon; HEAD level in profile, lifting to the sky; SHOULDERS lifting toward the window; RIGHT ARM flat on the glowing glass, the RIGHT HAND pressed to it, RIGHT FINGERS spread on the pane; LEFT ARM lifting, the LEFT HAND open, LEFT FINGERS elegant; TORSO lengthening upright toward the window; WAIST & HIPS lifting, lengthening; RIGHT LEG planting tall, LEFT LEG easing as she rises onto the balls; FEET rolling onto the balls toward the window; WEIGHT lifting toward the glass; HAIR stirring as the corridor opens — graceful upward momentum, never stiff.",
+  "hands": "RIGHT HAND flat on the glowing departure-window glass, RIGHT FINGERS spread on the pane; LEFT HAND lifting open, LEFT FINGERS elegant; soft-nude nails, neat, no white-knuckle tension.",
+  "framing": "In profile she stands tall at the vast departure window, right hand flat on the glowing glass and left lifting, the spine lengthening toward the sky and weight rolling onto the balls as the corridor begins to open.",
+  "b1": "Profile medium at the vast departure window: she is already setting her right hand on the glass as a slow arc swings from profile toward three-quarter, the sky glowing beyond; gaze out to the horizon.",
+  "b2": "The corridor begins to open to sky and her travel coat lifts in the rising air, her left hand lifting and the arc easing round; eyes widening in cool wonder.",
+  "b3": "She begins to step through into the threshold, weight rolling onto the front foot, gaze fixed on the opening light.",
+ },
+ 4: {
+  "posture": "GAZE lifting into the light; HEAD level, lifting as the gown sweeps; SHOULDERS leading forward into the threshold; RIGHT ARM easing from the glass, the RIGHT HAND drawing off the pane, RIGHT FINGERS relaxed; LEFT ARM on the suitcase handle, the LEFT HAND gripping it, LEFT FINGERS wrapped; TORSO leading forward at the threshold; WAIST & HIPS rotating forward into the stride; RIGHT LEG (front) stepping through, knee soft; LEFT LEG pushing off behind; FEET & WEIGHT rolling onto the front foot as she strides through — poised, the instant before the corridor opens; HAIR lifting in the rising air.",
+  "hands": "RIGHT HAND easing from the departure-window glass, RIGHT FINGERS relaxed; LEFT HAND on the suitcase handle, LEFT FINGERS wrapped; soft-nude nails, neat cuticles, no white-knuckle tension.",
+  "framing": "She is at the departure threshold in her travel coat, weight rolling onto the front foot with the torso leading, right hand easing from the glass and left on the suitcase, the sky glowing beyond — the clean Look A the sweep opens on.",
+  "b1": "Cut to a front-on full/wide hero at a HELD angle (Veo first frame = the travel Look A still): already in motion, the camera riding WITH her / push-with as she strides toward the threshold — weight rolling onto the front foot, right hand easing from the glass — the travel coat fully intact, the corridor still terminal, the gown NOT yet swept, the sky glowing beyond the glass; gaze lifting into the light.",
+  "b2": "The transform BEGINS here, mid-clip: the corridor opens smoothly into open sky and her coat sweeps into the flowing cloud-silk couture gown exactly where it passes as she strides through — dreamy but grounded in real cloth + believable sky-light (no cheap sparkles), golden clouds opening behind, the camera riding with her at the held angle; eyes widening in radiant awe.",
+  "b3": "The sweep completes and the look settles smoothly and fully into the cloud-silk couture gown of Frame 5's still (Veo's LAST frame), cloud-light drifting on real arcs — a radiant awed smile landing, no last-second snap.",
+ },
+ 5: {
+  "posture": "GAZE ahead then rotating back to lens; HEAD turning back over the shoulder for the glance; SHOULDERS rotating in the counter-motion; RIGHT ARM trailing cloud-light, the RIGHT HAND open with RIGHT FINGERS splayed in the train; LEFT ARM settling, the LEFT HAND easing, LEFT FINGERS soft; TORSO mid-stride on the light-runway in a long line, rotating back; WAIST & HIPS driving the walk forward; RIGHT LEG and LEFT LEG mid-stride on the light-runway, one striking, the other pushing off; FEET & WEIGHT flowing forward heel-to-toe on the runway of light; HAIR lifting in the cloud-light — fluid counter-motion, alive.",
+  "hands": "RIGHT HAND trailing cloud-light, RIGHT FINGERS splayed in the train; LEFT HAND settling, LEFT FINGERS soft; soft-nude nails, neat, no white-knuckle tension.",
+  "framing": "She walks a runway of light among golden clouds in the cloud-silk gown, right hand trailing cloud-light and left settling, the torso rotating back over the shoulder for a glance to lens as the train streams.",
+  "b1": "Three-quarter back over-shoulder medium: she is already walking the runway of light among golden clouds in the cloud-silk gown — one foot striking, the other pushing off, right hand trailing light — as a tracking follow trails her, the train streaming; gaze ahead.",
+  "b2": "The arc catches her as she rotates her torso and glances back to lens over the shoulder, cloud-glow warm in her eyes, a soft free smile.",
+  "b3": "She faces forward again and her stride continues along the light-runway, gaze settling on the horizon.",
+ },
+ 6: {
+  "posture": "GAZE sweeping the glass; HEAD turning back toward the terminal; SHOULDERS easing to the entry set; RIGHT ARM returning to the suitcase handle, the RIGHT HAND gripping it, RIGHT FINGERS wrapped — echoing Frame 1; LEFT ARM steadying, the LEFT HAND easing, LEFT FINGERS soft; TORSO rotating back into the Frame-1 stance; WAIST & HIPS squaring with a soft counter-tilt; RIGHT LEG and LEFT LEG easing back to the entry stance; FEET settling onto the entry footing; HAIR sleek as the cloud-silk gown softens to the travel set.",
+  "hands": "RIGHT HAND returning to the suitcase handle, RIGHT FINGERS wrapped — echoing Frame 1; LEFT HAND easing, LEFT FINGERS soft; soft-nude nails, neat, no white-knuckle tension.",
+  "framing": "She turns back toward the terminal, weight settling into the Frame-1 stance, right hand on the suitcase handle as the cloud-silk gown softens to the travel set and the concourse reforms, for a seamless loop.",
+  "b1": "Wide matching Frame 1: a slow glide-out down the concourse is already reversing the opening glide-in as she turns back toward the terminal, the suitcase returning to her hand; gaze sweeping the glass.",
+  "b2": "The glide continues as the cloud-silk gown softens back into the travel set and the suitcase returns to her hand, the concourse reforming; a cool content calm returning.",
+  "b3": "She settles into the exact stance of Frame 1 on the polished floor, weight settled, eyes on the departure window — a seamless loop seam.",
+ },
+}
+
+# CONCEPT 19 — OPERA HOUSE SHADOW DANCE (spotlight shadow-split · SPOKEN F6 · 7 frames · dance · real shadow physics)
+CINE[19] = {
+ 1: {
+  "posture": "GAZE sweeping the dark house; HEAD level, scanning the seats; SHOULDERS balletic and squared; RIGHT ARM holding the closed fan, the RIGHT HAND around it, RIGHT FINGERS wrapped; LEFT ARM steadying a dance shoe, the LEFT HAND at the heel, LEFT FINGERS articulate; TORSO tall and balletic in the spotlight; WAIST & HIPS squared with a soft counter-tilt; RIGHT LEG weight-bearing planted, LEFT LEG (working) the foot slipping into the gold-ribboned dance shoe; FEET & WEIGHT on the planted right foot as the left slides into the shoe; HAIR sleek in the single beam — poised and alive, never stiff (living stillness).",
+  "hands": "RIGHT HAND on the closed fan, RIGHT FINGERS wrapped; LEFT HAND steadying the dance shoe, LEFT FINGERS articulate at the heel; short nails in soft nude, neat, no white-knuckle tension.",
+  "framing": "She steps into the single spotlight centre-stage, weight on the planted right foot as the left slips into the gold-ribboned shoe, right hand on the closed fan and left steadying the heel, crimson curtains towering and seats fading into warm dark.",
+  "b1": "Wide establishing of the vast stage: she is already stepping into the single spotlight centre-stage — weight on the planted foot, left hand at the shoe — as a slow glide-in moves toward her, crimson curtains towering and empty seats fading into warm dark; gaze sweeping the house.",
+  "b2": "The glide carries closer as she settles the gold-ribboned dance shoe and lowers the fine stage-glasses, dust-motes drifting in the beam; a poised dramatic calm in her eyes.",
+  "b3": "She lifts the fan in her right hand and settles into an opening stance, weight settling even, gaze steadying to the dark house with quiet command.",
+ },
+ 2: {
+  "posture": "GAZE (implied) down the balletic line; the rise read through the pointing foot; RIGHT LEG the working leg, the foot pointing then rising onto the ball, ankle articulate, the gold ribbon flexing; LEFT LEG the supporting leg, grounded firm; RIGHT ARM implied lifting; LEFT ARM implied in line; a FINGERTIP at the skirt-edge, LEFT FINGERS light; TORSO implied tall and balletic above; WEIGHT rolling precisely onto the ball of the working foot — a crisp fluid balletic gesture, her single crisp shadow rising beside it.",
+  "hands": "Out of frame in this foot macro, a fingertip at the skirt-edge, LEFT FINGERS light; soft-nude nails, neat, no white-knuckle tension.",
+  "framing": "A macro on the gold-ribboned dance shoe as the foot points and rises onto the ball with the ankle articulate, the supporting leg grounded, the spotlight raking the floor and her single crisp shadow rising beside it.",
+  "b1": "Extreme macro on the gold-ribboned dance shoe: the foot is already pointing as a slow push closes in, the spotlight raking the floor.",
+  "b2": "It rises onto the ball of the foot, the ribbon flexing and the arch arcing high over the grounded supporting leg.",
+  "b3": "She holds the releve as the dance begins, her single crisp shadow rising on the floor beside it.",
+ },
+ 3: {
+  "posture": "GAZE tracing her own extended line; HEAD level in profile, following the arm; SHOULDERS opening into the phrase; RIGHT ARM extended in a graceful line, the RIGHT HAND open with RIGHT FINGERS elegantly shaped; LEFT ARM sweeping the fan, the LEFT HAND on it, LEFT FINGERS articulate; TORSO mid-phrase in profile, spine in a long expressive curve; WAIST & HIPS flowing through the phrase; RIGHT LEG the supporting leg, weight flowing through it; LEFT LEG extending into the line, toe pointed; FEET flowing through the balletic line; WEIGHT flowing through the supporting leg; HAIR and practice skirt sweeping — graceful momentum, never stiff.",
+  "hands": "RIGHT ARM extended in a graceful line, RIGHT FINGERS elegantly shaped; LEFT HAND sweeping the fan, LEFT FINGERS articulate; soft-nude nails, neat, no white-knuckle tension.",
+  "framing": "In profile she carries a phrase mid-dance, right arm extended in a graceful line and left sweeping the fan, the spine in a long expressive curve and weight flowing through the supporting leg, her single shadow crisp on the velvet curtain.",
+  "b1": "Profile medium: she is already sweeping the fan and extending one arm into the phrase as a slow arc swings from profile toward three-quarter, the practice skirt sweeping; gaze tracing her own line.",
+  "b2": "She carries the phrase through a turn-prep, her single shadow crisp on the velvet curtain, the arc easing round; eyes intent and expressive.",
+  "b3": "She launches into the turn toward the shadow-split, weight rolling onto the pivot foot, gaze sweeping with the spin, breath lifting.",
+ },
+ 4: {
+  "posture": "GAZE sweeping with the spin then widening in wonder; HEAD leading the turn then steadying; SHOULDERS opening wide into the spin-line; RIGHT ARM and LEFT ARM blooming open into a graceful spin-line, RIGHT and LEFT FINGERS elegantly splayed; TORSO in a dynamic spiral at the turn apex; WAIST & HIPS rotating hard through the turn; RIGHT LEG the pivoting leg, weight on the pivoting foot, knee soft; LEFT LEG sweeping free with the spin, toe pointed; FEET balanced on the pivoting foot at the apex; WEIGHT poised on the pivoting foot; HAIR and skirt flaring — peak expressive motion, never frozen-stiff.",
+  "hands": "BOTH ARMS opening into a graceful spin-line, RIGHT and LEFT FINGERS elegantly splayed; soft-nude nails, neat, no white-knuckle tension.",
+  "framing": "At the turn apex she is in a dynamic spiral, both arms blooming open into a graceful spin-line and weight on the pivoting foot, the skirt flaring as the spotlight splits her shadow into a second dancing silhouette on the curtain.",
+  "b1": "Cut to a front-on full hero at a HELD angle (she spins, the camera holds / push-with): already in motion, launching the turn with the skirt flaring and weight on the pivoting foot, the hard spotlight behind casting her single crisp shadow on the velvet curtain; gaze sweeping with the spin.",
+  "b2": "The split BEGINS here, mid-clip: the spotlight splits into a believable twin-beam and her single shadow divides into a second dancing silhouette on the curtain, moving in mirror with her as she spins — grounded in real spotlight-and-shadow physics, no cheap VFX, her rehearsal look unchanged; eyes widening in dramatic wonder (angle held, identity locked).",
+  "b3": "Her arms bloom and both shadows dance in mirror, a thrilled awed expression landing, eyes alight — her look still the rehearsal set.",
+ },
+ 5: {
+  "posture": "GAZE drawn to the converging silhouette then softening; HEAD level, settling from the spin; SHOULDERS settling from the spin into a poised line; RIGHT ARM and LEFT ARM settling from the spin into a poised line, RIGHT and LEFT FINGERS graceful; TORSO lengthening as it settles, the train sweeping; WAIST & HIPS easing from the rotation; RIGHT LEG taking the settling weight, LEFT LEG extending into the line; FEET settling from the spin; WEIGHT settling onto the supporting leg; HAIR settling from the turn — full of settling expressive momentum, never frozen-stiff.",
+  "hands": "BOTH ARMS settling from the spin into a poised line, RIGHT and LEFT FINGERS graceful; soft-nude nails, neat, no white-knuckle tension.",
+  "framing": "She settles from the spin into the woven shadow-and-light couture gown in a poised theatrical line, both arms settling and the train sweeping, the second shadow just re-merged — the clean resolved couture reveal.",
+  "b1": "Cut to a three-quarter front cowboy/full at a HELD angle: already in motion, settling from the spin in the rehearsal set as the second shadow catches up toward her, weight settling onto the supporting leg, a gentle push-with easing in; gaze drawn to the converging silhouette.",
+  "b2": "The dressing BEGINS here, mid-clip: the shadow re-merges into her and the woven shadow-and-light couture gown resolves smoothly around her in black-and-gold panels exactly where it passes — believable shadow-then-cloth dynamics, the train sweeping, the crimson curtain behind; eyes softening in radiant awe (angle held, identity locked).",
+  "b3": "The dressing completes and the look settles smoothly and fully into the resolved couture gown (this frame's still = Veo last frame), she settling into a poised theatrical line, a radiant awed smile arriving.",
+ },
+ 6: {
+  "posture": "GAZE lowering with the bow then lifting to lens; HEAD bowing then rising; SHOULDERS sweeping down into the bow then opening; RIGHT ARM sweeping the fan in the bow, the RIGHT HAND opening the fan, RIGHT FINGERS articulate on it; LEFT ARM at the gown, the LEFT HAND on the skirt, LEFT FINGERS light; TORSO sweeping down into a graceful bow then rising tall; WAIST & HIPS folding into the bow then lengthening up; RIGHT LEG drawing back into the bow, LEFT LEG supporting; FEET grounding through the bow and rise; WEIGHT settling grounded as she rises; HAIR sweeping forward in the bow then settling — radiant and relaxed.",
+  "hands": "RIGHT HAND sweeping the fan open in the bow, RIGHT FINGERS articulate on it; LEFT HAND at the gown, LEFT FINGERS light on the skirt; soft-nude nails, neat, no white-knuckle tension.",
+  "framing": "She sweeps into a graceful bow in the couture gown at centre-stage, right hand sweeping the fan and left at the gown, then rises tall and grounded into a soft expressive line as the spotlight haloes her for the line.",
+  "b1": "Low-angle medium: she is already sweeping into a graceful bow in the couture gown — right hand sweeping the fan, left at the gown — as a slow rise begins from the low angle, the spotlight haloing her; gaze lowering with the bow.",
+  "b2": "She rises from the bow as the camera lifts to eye-level, weight settling grounded and the train settling behind her; eyes lifting to lens.",
+  "b3": "She delivers \u201ceven my shadow loves to dance.\u201d to lens with a radiant expressive smile, brows lifting in warm theatricality.",
+ },
+ 7: {
+  "posture": "GAZE sweeping back to the house; HEAD turning back to the opening line; SHOULDERS easing to the opening balletic set; RIGHT ARM returning to the opening stance, the RIGHT HAND closing the fan, RIGHT FINGERS wrapping it — echoing Frame 1; LEFT ARM returning in line, the LEFT HAND easing, LEFT FINGERS light; TORSO returning to the Frame-1 opening stance; WAIST & HIPS squaring with a soft counter-tilt; RIGHT LEG and LEFT LEG easing back to the opening stance; FEET settling onto the opening footing; the single shadow returning to the curtain; HAIR sleek as the couture gown softens to the rehearsal set.",
+  "hands": "RIGHT HAND closing the fan, RIGHT FINGERS wrapping it — echoing Frame 1; LEFT HAND easing in line, LEFT FINGERS light; soft-nude nails, neat, no white-knuckle tension.",
+  "framing": "She returns to her opening stance in the spotlight, weight settling and the fan closing in her right hand as the couture gown softens to the rehearsal set and the single shadow returns to the curtain, for a seamless loop.",
+  "b1": "Wide matching Frame 1: a slow glide-out is already reversing the opening glide-in as she returns toward her opening stance, the fan closing in her hand; gaze sweeping back to the house.",
+  "b2": "The glide continues as the couture gown softens back into the rehearsal set and the second shadow fades to one; a poised dramatic calm returning.",
+  "b3": "She settles into the exact opening stance of Frame 1 in the spotlight, weight settled, eyes steady on the dark house — a seamless loop seam.",
+ },
+}
+
+# CONCEPT 20 — FUTURE OCEAN CITY FINALE (water-road grand transform · SPOKEN F7 · 8 frames · walk+dance+swim)
+CINE[20] = {
+ 1: {
+  "posture": "GAZE sweeping the sea-city; HEAD level, scanning the light-towers; SHOULDERS open and tall; RIGHT ARM on the hydro-orb, the RIGHT HAND around it, RIGHT FINGERS supporting; LEFT ARM steadying a heel, the LEFT HAND at it, LEFT FINGERS articulate; TORSO tall on the glass pier; WAIST & HIPS squared with a soft counter-tilt; RIGHT LEG weight-bearing planted, LEFT LEG (working) the foot slipping into a hydro-heel; FEET & WEIGHT on the planted right foot as the left slides into the heel; HAIR sleek in the golden-blue light — poised and alive, never stiff (living stillness).",
+  "hands": "RIGHT HAND on the hydro-orb, RIGHT FINGERS supporting it; LEFT HAND steadying a hydro-heel, LEFT FINGERS articulate; short nails in pearl-cyan, neat, no white-knuckle tension.",
+  "framing": "She steps onto the glowing glass pier, weight on the planted right foot as the left slips into a hydro-heel, right hand on the hydro-orb and left steadying the heel, small in the lower third with light-towers rising from the sea-blue ocean behind.",
+  "b1": "Wide establishing of the glowing glass pier: she is already stepping onto it in the lower third — weight on the planted foot, left hand at the heel — as a slow aerial drift-down glides toward her, light-towers rising from the sea-blue ocean behind; gaze sweeping the sea-city.",
+  "b2": "The drift carries closer as she settles the hydro-heel and lowers the visor, the pier-glass glowing beneath; a free awed calm in her eyes.",
+  "b3": "She lifts the hydro-orb in her right hand and turns toward the open water, weight rolling forward, eyes lifting to the golden-blue horizon.",
+ },
+ 2: {
+  "posture": "GAZE (implied) down to the heel; the press read through the pressing foot; RIGHT LEG the working leg, the hydro-heel pressing onto the glowing pier-glass, ankle articulate; LEFT LEG the supporting leg, grounded firm; a FINGERTIP at the coat-hem, LEFT FINGERS light; RIGHT ARM implied steadying above; TORSO implied tall above in a precise weight-press; WEIGHT pressing precisely into the heel — a crisp fluid gesture, a ring of light blooming beneath the sole.",
+  "hands": "A fingertip at the coat-hem, LEFT FINGERS light; pearl-cyan nails, neat, no white-knuckle tension — the focus is the heel pressing the glowing glass.",
+  "framing": "A macro on the hydro-heel meeting the glowing pier-glass, the working foot pressing with the ankle articulate over the grounded supporting leg, a ring of light blooming beneath the sole, the body implied tall above.",
+  "b1": "Extreme macro on the hydro-heel: it is already meeting the glowing pier-glass as a slow push closes in, a ring of light beginning beneath the sole.",
+  "b2": "The light-ring blooms outward across the glass as her weight presses into the heel, ripples of cyan racing away.",
+  "b3": "The glow surges toward the water as the road of light begins to form, brightening the pier.",
+ },
+ 3: {
+  "posture": "GAZE out across the channel; HEAD level in profile, lifting to the sea; SHOULDERS lifting toward the water; RIGHT ARM reaching toward the forming light-road, the RIGHT HAND open with RIGHT FINGERS elegant; LEFT ARM easing, the LEFT HAND open, LEFT FINGERS soft; TORSO lengthening upright toward the sea; WAIST & HIPS lifting, lengthening; RIGHT LEG planting tall, LEFT LEG easing onto the balls; FEET rolling onto the balls toward the sea; WEIGHT lifting toward the water; HAIR stirring as the coat lifts — graceful upward momentum, never stiff.",
+  "hands": "RIGHT HAND reaching toward the forming light-road, RIGHT FINGERS elegant; LEFT HAND easing open, LEFT FINGERS soft; pearl-cyan nails, neat, no white-knuckle tension.",
+  "framing": "In profile she stands tall at the pier edge, right hand reaching toward the sea and left easing open, the spine lengthening toward the water and weight rolling onto the balls as a road of light begins to form across the channel.",
+  "b1": "Profile medium at the pier edge: she is already reaching one hand toward the sea as a slow arc swings from profile toward three-quarter, the water glowing beyond; gaze out across the channel.",
+  "b2": "A road of light forms across the water and her luminous coat lifts in the rising air, the arc easing round; eyes widening in awe.",
+  "b3": "She begins to step onto the light-road, weight rolling onto the front foot, gaze fixed on the glowing path.",
+ },
+ 4: {
+  "posture": "GAZE lifting with the rising sea; HEAD level, chin lifting as the gown weaves; SHOULDERS leading forward onto the road; RIGHT ARM reaching toward the rising sea, the RIGHT HAND open with RIGHT FINGERS reaching; LEFT ARM easy at her side, the LEFT HAND open, LEFT FINGERS soft; TORSO leading forward onto the light-road; WAIST & HIPS rotating forward into the step; RIGHT LEG (front) stepping onto the road, knee soft; LEFT LEG pushing off behind; FEET & WEIGHT rolling onto the front foot on the light-road — poised, the instant before the grand transform; HAIR lifting in the rising air.",
+  "hands": "RIGHT HAND reaching toward the rising sea, RIGHT FINGERS reaching; LEFT HAND easy at her side, LEFT FINGERS soft; pearl-cyan nails, neat cuticles, no white-knuckle tension.",
+  "framing": "She steps onto the forming road of light in her sleek future set, weight rolling onto the front foot with the torso leading, right hand reaching toward the rising sea and left easy at her side, the sea-city and light-towers blazing behind — the clean Look A the grand transform opens on.",
+  "b1": "Cut to a front-on full/wide hero at a HELD angle (Veo first frame = the future-set Look A still): already in motion, the camera riding WITH her / push-with as she steps onto the forming road of light — weight rolling onto the front foot, right hand reaching to the sea — and the ocean begins to stir, the future set fully intact, the gown NOT yet woven, the sea-city blazing behind; gaze lifting with the rising sea.",
+  "b2": "The grand transform BEGINS here, mid-clip: the ocean rises into the road of light and weaves sea-water, city-light and silk smoothly into the flowing couture finale gown exactly where it passes as she strides on — a grand surreal beat grounded in real water physics (real sea-rise, sea-droplets and light on true arcs, no cheap sparkles), the sea-city epic behind, the camera riding with her at the held angle; chin lifting, eyes widening in radiant awe.",
+  "b3": "The weave completes and the look settles smoothly and fully into the couture finale gown of Frame 5's still (Veo's LAST frame), the grand train settling and sea-light on real arcs — a radiant awed smile landing, no last-second snap.",
+ },
+ 5: {
+  "posture": "GAZE flowing with the movement; HEAD leading the dance-line; SHOULDERS opening into the sweep; RIGHT ARM and LEFT ARM sweeping in a graceful dance-line, RIGHT and LEFT FINGERS elegantly shaped; TORSO in a long expressive line mid-dance-phrase; WAIST & HIPS flowing through the phrase; RIGHT LEG the supporting leg, weight flowing through it; LEFT LEG extending into the dance-line, toe pointed; FEET flowing through the dance on the light-road; WEIGHT flowing through the supporting leg; HAIR and train flying — graceful momentum, never stiff.",
+  "hands": "BOTH ARMS sweeping in a graceful dance-line, RIGHT and LEFT FINGERS elegantly shaped; pearl-cyan nails, neat, no white-knuckle tension.",
+  "framing": "She dances a fluid expressive phrase across the road of light in the couture gown, both arms sweeping in a graceful dance-line and weight flowing through the supporting leg, the train flying and the sea glowing around her.",
+  "b1": "Three-quarter front cowboy/full: she is already sweeping into a dance phrase across the road of light, both arms sweeping and weight flowing through the supporting leg, as an arcing orbit follows her, the sea glowing around; gaze flowing with the movement.",
+  "b2": "A fluid expressive sequence — a turn, an arm-sweep, the train flying — the orbit arcing with her; eyes bright and joyful.",
+  "b3": "She carries the phrase toward the pool-channel, weight rolling forward, gaze leading toward the glowing water.",
+ },
+ 6: {
+  "posture": "GAZE forward through the water; HEAD level, leading the swim-arc; SHOULDERS streamlined into the arc; RIGHT ARM and LEFT ARM in a graceful swim-arc, RIGHT and LEFT FINGERS elegant as water threads between them; TORSO in a long graceful line, weightless; WAIST & HIPS neutral and fluid in the water; RIGHT LEG extended long, LEFT LEG softly finning in counter-balance; FEET pointed soft, finning; WEIGHT neutral (weightless in the channel); HAIR streaming in the water — supremely graceful, never stiff.",
+  "hands": "BOTH ARMS in a graceful swim-arc, RIGHT and LEFT FINGERS elegant as water threads between them; pearl-cyan nails, neat, no white-knuckle tension.",
+  "framing": "From a high angle she swims a graceful arc through the glowing sea-blue pool channel, both arms in a long swim-arc and legs finning soft in neutral buoyancy, the couture gown flowing like liquid light around her.",
+  "b1": "High-angle medium-wide looking down: she is already gliding into the glowing sea-blue pool channel in a graceful arc, both arms sweeping and legs finning, as an overhead tracking glide follows, the gown flowing like liquid light; gaze forward through the water.",
+  "b2": "A fluid weightless swim through the glowing channel, the couture gown streaming around her and arms drawing through the water; eyes serene and luminous.",
+  "b3": "She begins to rise toward the far edge, one arm reaching up, gaze lifting toward the blazing sea-city above.",
+ },
+ 7: {
+  "posture": "GAZE lifting then sweeping the sea-city, turning to lens; HEAD lifting, chin rising; SHOULDERS open as she rises onto the platform; RIGHT ARM at the gown, the RIGHT HAND on the couture skirt, RIGHT FINGERS light; LEFT ARM gesturing to the sea-city, the LEFT HAND open with LEFT FINGERS spread; TORSO rising tall and grounded on the platform in a soft contrapposto; WAIST & HIPS in a gentle counter-tilt, weight settling; RIGHT LEG taking the weight as she rises onto the platform, LEFT LEG following up; FEET grounding onto the glowing platform; WEIGHT settling grounded as she rises, light dripping from the gown; HAIR streaming wet then settling — commanding and radiant.",
+  "hands": "RIGHT HAND at the gown, RIGHT FINGERS light on the couture skirt; LEFT HAND gesturing to the sea-city, LEFT FINGERS spread; pearl-cyan nails, neat, no white-knuckle tension.",
+  "framing": "She rises tall and grounded from the pool channel onto a glowing platform in the full couture finale gown, soft contrapposto with the right hand at the gown and the left gesturing to the sea-city, shoulders open as she turns to lens for the line, the sea-city blazing behind.",
+  "b1": "Front-on full/wide hero: she is already rising from the pool channel onto a glowing platform in the full couture finale gown, weight settling grounded, as a slow rise-and-settle moves to dead-front, light dripping from the gown; gaze lifting.",
+  "b2": "She gestures with her left hand to the blazing sea-city behind her, eyes sweeping the light-towers with triumphant pride, the right resting at the gown.",
+  "b3": "She turns fully to lens and delivers \u201cthe future looks good on me.\u201d with a radiant triumphant smile, eyes alight as the camera settles.",
+ },
+ 8: {
+  "posture": "GAZE sweeping the sea-city; HEAD turning back toward the pier; SHOULDERS easing to the entry set; RIGHT ARM returning to the hydro-orb, the RIGHT HAND around it, RIGHT FINGERS supporting — echoing Frame 1; LEFT ARM steadying, the LEFT HAND easing, LEFT FINGERS soft; TORSO rotating back into the Frame-1 stance; WAIST & HIPS squaring with a soft counter-tilt; RIGHT LEG and LEFT LEG easing back to the entry stance; FEET settling onto the pier footing; HAIR sleek as the couture finale gown softens to the future set.",
+  "hands": "RIGHT HAND returning to the hydro-orb, RIGHT FINGERS supporting it — echoing Frame 1; LEFT HAND easing, LEFT FINGERS soft; pearl-cyan nails, neat, no white-knuckle tension.",
+  "framing": "She turns back toward the pier, weight settling into the Frame-1 stance, right hand on the hydro-orb as the couture finale gown softens to the future set and the water-road dissolves, for a seamless loop.",
+  "b1": "Wide matching Frame 1: a slow drift-up-and-back is already reversing the opening aerial drift as she turns back toward the pier, the hydro-orb returning to her hand; gaze sweeping the sea-city.",
+  "b2": "The drift continues as the couture finale gown softens back into the future set, the water-road dissolves into the sea and the hydro-orb returns to her hand; a free content calm returning.",
+  "b3": "She settles into the exact stance of Frame 1 on the glowing pier, weight settled, eyes on the horizon — a seamless loop seam.",
+ },
+}
+
+
 # ----------------------------------------------------------------------------------
 def find_concept_region(text, n):
     m = re.search(r'(?m)^#{1,3}\s*CONCEPT\s*0*%d\b' % n, text)
