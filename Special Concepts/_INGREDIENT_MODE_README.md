@@ -259,6 +259,15 @@ woman."** Never write the character's name into a Veo prompt. Ingredient labels 
 ### SC-33 · PALACE CARRIAGE (Horse-Carriage) — **BUILT** · 4 shots × 6s · SILENT
 - mode **open horse-carriage** · journey **park lane → town square → palace gates → fountain courtyard** · signature **drifting blossom + warm golden light + lifting doves** · light **warm golden afternoon** · wardrobe **powder-blue lace tea-dress + wide-brim sunhat + lace gloves** · hair **old-Hollywood side-swept waves** · `@object` = open white horse-carriage + horse · shot-grammar **high aerial lane / low ground-level square / high 3/4 gate reveal / push-in+crane courtyard**. **FILE:** `SC-33 · Palace Carriage (Horse-Carriage).md`
 
+### SC-34 · ISLAND HOPPER (Seaplane) — **BUILT** · 4 shots × 6s · SILENT
+- mode **seaplane** · journey **lagoon taxi → lift-off over the reef → bank past cliffs → island landing** · signature **spray-fan off the floats + drifting cloud-wisps + reef sun-glints** · light **brilliant tropical** · wardrobe **tan flight jumpsuit + leather aviator cap & goggles + silk scarf** · hair **vintage pin-curl set** · `@object` = vintage cream-and-red seaplane · shot-grammar **water-line taxi / high aerial reef lift-off / cockpit over-shoulder bank / push-in+crane landing** · *(exterior "see the plane from outside").* **FILE:** `SC-34 · Island Hopper (Seaplane).md`
+
+### SC-35 · CANOPY FLYER (Zip-Line) — **BUILT** · 4 shots × 6s · SILENT
+- mode **zip-line** · journey **treetop launch → over the jungle river → past the waterfall → canopy-deck landing** · signature **leaf-spray slipstream + canopy light-shafts + drifting seeds** · light **bright lush jungle** · wardrobe **coral tank + khaki shorts + harness + safari cap** · hair **high bubble ponytail** · `@object` = zip-harness + trolley · shot-grammar **low-hero launch / high aerial fly-over / parallel profile waterfall / push-in+crane deck**. **FILE:** `SC-35 · Canopy Flyer (Zip-Line).md`
+
+### SC-36 · SNOW RUN (Toboggan) — **BUILT** · 4 shots × 6s · SILENT
+- mode **toboggan/sled** · journey **snow slope → pine weave → the jump → village stop** · signature **snow-plume spray + crystalline sun-sparkle + ice-glitter** · light **bright bluebird snow** · wardrobe **mustard-red snowsuit + furry trapper hat + scarf** · hair **two low looped buns (odango)** · `@object` = wooden toboggan · shot-grammar **high aerial slope track / low ground-level pine weave / side-profile jump-arc / push-in+crane village**. **FILE:** `SC-36 · Snow Run (Toboggan).md`
+
 ## CONCEPT ROADMAP — ALL CONCEPTS BUILT ✓
 *(rickshaw SC-05 dropped; redundant 2nd-blossom SC-20 dropped. All 19 planned concepts + the SC-A1 anime concept are fully
 built, and ALL have been rebuilt to the **CORRECTED STANDARD (v2)** above — clean front-facing/plain-bg `@subject`,
