@@ -21,6 +21,9 @@ import sys, re, io
 
 POSE = {}
 
+# Cinematic-Reels-New-Set dataset (different concepts; selected via dataset='cine')
+CINE = {}
+
 # ============================ CONCEPT 01 — STEEL TO SILK ============================
 # Flow: F1 arrive onto mark / hand to hip (hero)  -> F2 lift right wrist to collarbone, study cuff
 #   -> F3 unfold both arms open, palms up (receive) -> F4 transform: lift into a held-angle pivot
@@ -990,26 +993,86 @@ POSE[20] = {
 }
 
 
+# ==================================================================================
+# ============ CINE dataset — 20 Cinematic Reels New Set (6-frame cinematic) ========
+# ==================================================================================
+# CONCEPT 1 — SEA-BLUE POOL MIRAGE (water-to-silk · tonal sea-blue/luxe · SILENT)
+# 6-frame arc: F1 high-wide 3/4-back establishing / left hand at sunglasses -> F2 low macro feet stepping
+#   out of slides -> F3 profile crouch, right arm into water -> F4 3/4-front cowboy Look A, hand grazing water
+#   (transform mid-clip) -> F5 front-on full hero gown Look B, lowering sunglasses -> F6 high-wide loop close,
+#   turning back to deck. Serene-luxe, fluid; keep water-then-cloth believability + tonal grade.
+CINE[1] = {
+ 1: {
+  "posture": "GAZE travelling back over the shoulder to lens; HEAD turned three-quarter back and tipping toward camera, chin over the far shoulder; SHOULDERS angled away with the far shoulder dropped, the near shoulder rising a touch; RIGHT ARM relaxed and long down her side, the RIGHT HAND open with RIGHT FINGERS softly curved toward the thigh; LEFT ARM raised to the temple, the LEFT HAND grazing the pushed-up sunglasses, LEFT FINGERS light at the frame; TORSO in a three-quarter back rotation toward the pool; WAIST & HIPS in a soft 3-degree counter-tilt; RIGHT LEG (water-side) the weight-bearing front leg, knee soft; LEFT LEG eased behind, heel lifting a centimetre; FEET & WEIGHT rolling onto the front water-side foot at the tiled edge; HAIR low glossy side-part with a baby-hair drifting at the temple — serene, luxe, alive (living stillness).",
+  "hands": "RIGHT HAND relaxed at her side, RIGHT FINGERS softly curved toward the thigh with relaxed nail-beds; LEFT HAND raised grazing the pushed-up cat-eye sunglasses at her temple, LEFT FINGERS light at the frame; short almond nails in a sheer pearl-pink, cuticles neat, no white-knuckle tension.",
+  "framing": "She stands three-quarter back at the tiled edge, weight rolled onto the front water-side leg with the far shoulder dropped, left hand grazing the sunglasses at her temple and right arm long at her side, turning her face back over the shoulder to lens.",
+  "b1": "High-angle wide, full figure on the lower-third power point: the camera is already craning slowly downward as she stands at the tiled edge mid-breath — weight rolled onto the front water-side foot, far shoulder dropped, left hand grazing the sunglasses at her temple — her gaze travelling down the glowing pool, ivory linen hem already rippling in the warm breeze.",
+  "b2": "The crane eases into a gentle forward track as she turns her face back over the far shoulder to lens, the near shoulder rising a touch and a serene closed-lip half-smile blooming, eyes warming under the crisp low-sun catchlight.",
+  "b3": "The track settles as her left hand drifts from the sunglasses down toward her side and her weight rolls fully onto the water-side foot, the right fingers trailing soft, her gaze lowering to the surface to motivate the next beat.",
+ },
+ 2: {
+  "posture": "GAZE (out of frame, implied) cast down to her feet; HEAD and TORSO implied above the top of frame, leaning gently forward over the step; the body's weight reading through the lower limbs; RIGHT LEG the planted leg, weight rolling onto the ball of the foot, ankle articulated and toes spread soft; LEFT LEG lifting free, the knee easing up and the LEFT FOOT pointing as it slips from the woven slide; the empty slide rocking on the wet travertine; HANDS implied out of frame, steadying easy at her sides; WAIST & HIPS implied square above, settling toward the water; FEET & WEIGHT the whole story — planted right foot grounded, left toe pointing toward the glowing water; ankle-chain glinting as the ankle flexes (deliberate, graceful, articulate).",
+  "hands": "Hands out of frame in this feet macro, implied resting easy at her sides; toenails in sheer pearl-pink, neat — the focus is the articulate ankle and pointed toe of the lifting foot.",
+  "framing": "A detail insert on the lower limbs — the planted right foot rolling onto the ball with the ankle articulated, the left foot lifting free of the slide and pointing toward the water, the body implied leaning gently forward above the top of frame.",
+  "b1": "Low macro on the feet, the detail filling the frame: a slow lateral slider is already gliding along the wet tile lip as her left foot eases out of the woven slide mid-motion, toes pointing, her weight rolling onto the ball of the planted right foot with the ankle articulating, the empty slide rocking on the travertine.",
+  "b2": "The slider arcs toward the tile edge following the lifting left foot; the bare foot hovers and lowers toward the glowing aqua water, the ankle-chain glinting as the ankle flexes and a single droplet forms, stretches and falls.",
+  "b3": "Camera holds low and close as her pointed toes break the surface and a clean ripple ring spreads outward, her weight steady through the grounded right foot — the seed of the water that will later climb her arm.",
+ },
+ 3: {
+  "posture": "GAZE following her own right hand down into the water; HEAD in clean profile, tipping down toward the surface, lashes lowered; SHOULDERS with the right (reaching) shoulder extending forward and down, the near shoulder open; RIGHT ARM extended into the glowing water, the RIGHT HAND half-submerged with RIGHT FINGERS spread gently as water beads and threads between them; LEFT ARM braced down to the tile, the LEFT HAND flat on the wet edge, LEFT FINGERS lightly splayed for balance; TORSO in a long graceful forward curve over the knees; WAIST & HIPS settled low and centred; RIGHT LEG and LEFT LEG folded into a balanced crouch, weight centred over both heels, knees apart; FEET & WEIGHT grounded heel-down, toes relaxed on the wet tile; HAIR side-part dampening at the tips nearest the water — elegant, reaching, never tense.",
+  "hands": "RIGHT HAND half-submerged with RIGHT FINGERS spread gently, water beading on the skin and threading between the fingers; LEFT HAND braced light and flat on the wet tile with LEFT FINGERS lightly splayed for balance; short almond sheer-pearl-pink nails, neat cuticles, no white-knuckle tension.",
+  "framing": "In clean profile she folds into a balanced crouch, weight centred over both heels, right arm extended and fingers spread into the glowing water while the left hand braces flat on the tile and the spine curves long over the knees.",
+  "b1": "Profile medium in a clean side silhouette: the camera is already arcing in a slow orbit from full profile toward three-quarter as she lowers into the crouch mid-descent — hips, spine, shoulder and right hand cascading down in sequence, the left hand bracing on the tile — her right arm reaching for the water, eyes following her own hand down, lashes lowering.",
+  "b2": "The orbit rolls the gold rim across her cheek as her right fingers slip into the water and spread, ripple rings blooming and caustics climbing her forearm, her weight settling evenly into both heels; lips parting a millimetre in quiet wonder.",
+  "b3": "She tilts her head and her gaze tracks a thin sheet of water beginning to defy gravity and creep up her wrist, the right fingers stilling open as the inner brow lifts in soft awe and the orbit eases to rest.",
+ },
+ 4: {
+  "posture": "GAZE calm and anticipatory toward the water, lifting on the held breath; HEAD level then chin lifting as the wrap begins; SHOULDERS open and even in a soft contrapposto; RIGHT ARM lowered to the surface, the RIGHT HAND grazing the glowing water with RIGHT FINGERS relaxed and lightly splayed at the surface; LEFT ARM easy down at her side, the LEFT HAND open with LEFT FINGERS soft; TORSO standing tall with a soft 4-degree rotation; WAIST & HIPS in a settled contrapposto with the weight eased onto the back leg; RIGHT LEG (water-side) free and forward, knee soft, toe near the edge; LEFT LEG weight-bearing and long; FEET & WEIGHT grounded on the back foot at the warm tiled edge, ready to push into a tall rise; HAIR soft and dry in the warm light, a strand lifting — the calm centre before the rise.",
+  "hands": "RIGHT HAND lowered to graze the glowing aqua water, RIGHT FINGERS relaxed and lightly splayed at the surface; LEFT ARM easy at her side, LEFT HAND open with LEFT FINGERS soft; sheer pearl-pink nails, neat cuticles, no white-knuckle tension.",
+  "framing": "She stands tall at the edge in a soft contrapposto, weight eased onto the long left leg, right hand lowered with fingers splayed grazing the glowing water and left arm easy at her side — the clean ivory-linen Look A the transform clip opens on.",
+  "b1": "Cut to a three-quarter front cowboy at a HELD angle (Veo first frame = the ivory-linen Look A still): already in motion, a gentle crane-with easing in as she stands tall at the tiled edge — weight eased onto the long left leg, right hand grazing the glowing water with fingers splayed, left arm easy — the ivory linen fully intact, the spiral NOT yet risen, the infinity pool bright behind; angle fixed for the whole clip.",
+  "b2": "The water-to-silk wrap BEGINS here, mid-clip: the glowing pool water climbs her right arm and weaves smoothly up her torso in one continuous spiral as she pushes through the back foot into a tall lengthening rise, the ivory linen resolving into layered aqua-to-teal chiffon exactly where the water passes — real fluid-then-cloth physics, droplets arcing on true ballistic paths, caustics sweeping her body and the world still mirrored in the pool behind; chin lifting, breath caught, eyes widening in serene awe (angle held, identity locked).",
+  "b3": "The spiral completes as her arms unfurl last and the look settles smoothly and fully into the completed sea-silk gown of Frame 5's still (Veo's LAST frame), the water stilling to a mirror around her — resolved and held, no last-second snap; a serene awe landing in her eyes.",
+ },
+ 5: {
+  "posture": "GAZE serene and confident, cheeks lifting beneath the lowered mirror-lens; HEAD level and chin confident; SHOULDERS open, square and relaxed; RIGHT ARM trailing low, the RIGHT HAND drifting in the gown's floating chiffon with RIGHT FINGERS soft among the fabric; LEFT ARM lifting toward the face, the LEFT HAND easing the tortoise-and-gold sunglasses down onto her eyes, LEFT FINGERS at the temple of the frame; TORSO tall and regal in a soft contrapposto facing camera; WAIST & HIPS evenly planted with a gentle counter-tilt; RIGHT LEG and LEFT LEG grounded mid-pool, weight evenly distributed; FEET & WEIGHT planted in the jelly-strap flats beneath the water film; HAIR glossy-wet and sculpted back — commanding yet relaxed.",
+  "hands": "RIGHT HAND trailing low in the gown's floating chiffon, RIGHT FINGERS soft among the fabric; LEFT HAND lifting to ease the sunglasses down onto her eyes, LEFT FINGERS at the frame temple; sheer pearl-pink nails, neat cuticles, no white-knuckle tension.",
+  "framing": "She stands tall and centred mid-pool in a soft contrapposto, weight evenly planted, right hand trailing in the floating chiffon and left lowering the sunglasses onto her eyes, shoulders open and spine regal — the completed sea-silk gown hero.",
+  "b1": "Front-on full/wide hero, centred: the orbit completes to dead-front and decelerates as she settles tall, weight evenly planting mid-pool and shoulders opening, the finished sea-silk gown drifting into place around her, her right hand trailing low in the chiffon.",
+  "b2": "Near-locked on a whisper of a push-in, she lifts her left hand and lowers the tortoise-and-gold sunglasses onto her eyes in one fluid gesture flowing from the shoulder through a relaxed wrist, the mirror-lens catching the gold sky; cheeks lifting beneath the lens.",
+  "b3": "A serene, confident closed-lip smile lands as the water stills to a mirror around her ankles and her trailing right hand settles among the chiffon — the calm after the rise.",
+ },
+ 6: {
+  "posture": "GAZE in a soft over-the-shoulder glance to lens; HEAD turning three-quarter back toward the deck, chin over the far shoulder; SHOULDERS angling away with the far shoulder dropping, the near shoulder rising; RIGHT ARM reaching gently back toward the deck and the waiting tote, the RIGHT HAND open with RIGHT FINGERS extended toward it; LEFT ARM easing down across the body, the LEFT HAND soft with LEFT FINGERS relaxed; TORSO rotating back into the three-quarter back of the opening; WAIST & HIPS shifting toward the deck-side with a soft counter-tilt; RIGHT LEG (deck-side) taking the weight as it returns, knee soft; LEFT LEG easing free behind, heel lifting; FEET & WEIGHT rolling toward the deck-side foot, the readiness pose of Frame 1 reasserting; HAIR side-part drying back toward the crown — the gentle return.",
+  "hands": "RIGHT HAND reaching gently back toward the deck and the waiting raffia tote, RIGHT FINGERS extended toward it; LEFT HAND easing soft across the body, LEFT FINGERS relaxed; sheer pearl-pink nails, neat cuticles, no white-knuckle tension.",
+  "framing": "She turns three-quarter back toward the deck, weight rolling onto the deck-side leg with the far shoulder dropped, right hand reaching back toward the waiting tote and left easing across the body, restoring the opening pose for a seamless loop.",
+  "b1": "High-angle wide matching Frame 1: the camera is already drifting up and pulling back, reversing the open, as she turns back toward the deck — weight rolling onto the deck-side foot, right hand reaching back toward the waiting tote — the gown trailing on the water, her gaze beginning its over-the-shoulder arc.",
+  "b2": "The pull-back continues as the sea-silk softens back toward ivory linen at the trailing hem and her left hand eases across the body while the sunglasses slide up into her hair; a soft serene half-smile returning.",
+  "b3": "She settles into the exact three-quarter-back, over-the-shoulder gaze of Frame 1, weight rolled to the deck-side foot with the heel lifting a centimetre, eyes warm — a frame-accurate loop seam.",
+ },
+}
+
+
 # ----------------------------------------------------------------------------------
 def find_concept_region(text, n):
-    m = re.search(r'##\s*CONCEPT\s*0*%d\b' % n, text)
+    m = re.search(r'(?m)^#{1,3}\s*CONCEPT\s*0*%d\b' % n, text)
     if not m:
         raise SystemExit("CONCEPT %d not found" % n)
     start = m.start()
-    m2 = re.search(r'##\s*CONCEPT\s*0*%d\b' % (n + 1), text[start + 5:])
+    m2 = re.search(r'(?m)^#{1,3}\s*CONCEPT\s*0*%d\b' % (n + 1), text[start + 5:])
     end = (start + 5 + m2.start()) if m2 else len(text)
     return start, end
 
 def frame_blocks(region, k):
     """Return (img_span, vid_span) as (start,end) tuples within region for frame k."""
-    im = re.search(r'###\s*Frame\s*%d\s*of\s*\d+\s*[\u2014-]\s*IMAGE PROMPT' % k, region)
-    vm = re.search(r'###\s*Frame\s*%d\s*of\s*\d+\s*[\u2014-]\s*VIDEO PROMPT' % k, region)
+    im = re.search(r'(?m)^#{2,3}\s*Frame\s*%d\s*of\s*\d+\s*[\u2014-]\s*IMAGE PROMPT' % k, region)
+    vm = re.search(r'(?m)^#{2,3}\s*Frame\s*%d\s*of\s*\d+\s*[\u2014-]\s*VIDEO PROMPT' % k, region)
     if not im or not vm:
         return None, None
     img_start = im.start()
     img_end = vm.start()
     # video ends at next "### Frame" or end of region
-    nxt = re.search(r'###\s*Frame\s*%d\s*of' % (k + 1), region)
+    nxt = re.search(r'(?m)^#{2,3}\s*Frame\s*%d\s*of' % (k + 1), region)
     vid_end = nxt.start() if nxt else len(region)
     return (img_start, img_end), (vm.start(), vid_end)
 
@@ -1032,8 +1095,8 @@ def replace_beat(block, tc, newtext):
         return block, 0
     return pat.sub('- [' + tc + '] ' + newtext.replace('\\', '\\\\'), block, count=1), 1
 
-def apply_concept(text, n):
-    data = POSE.get(n)
+def apply_concept(text, n, data_dict):
+    data = data_dict.get(n)
     if not data:
         raise SystemExit("No POSE data for concept %d" % n)
     cs, ce = find_concept_region(text, n)
@@ -1071,16 +1134,23 @@ def apply_concept(text, n):
     return text, report
 
 
+DATASETS = {'md': POSE, 'cine': CINE}
+
+
 def main():
     if len(sys.argv) < 3:
-        raise SystemExit("usage: pass2_fb.py <path> <concept_number>")
+        raise SystemExit("usage: pass2_fb.py <path> <concept_number> [dataset]")
     path = sys.argv[1]; n = int(sys.argv[2])
+    dataset = sys.argv[3] if len(sys.argv) > 3 else 'md'
+    data_dict = DATASETS.get(dataset)
+    if data_dict is None:
+        raise SystemExit("unknown dataset '%s' (have: %s)" % (dataset, ", ".join(DATASETS)))
     with io.open(path, encoding='utf-8') as f:
         text = f.read()
-    text, report = apply_concept(text, n)
+    text, report = apply_concept(text, n, data_dict)
     with io.open(path, 'w', encoding='utf-8') as f:
         f.write(text)
-    print("CONCEPT %d:" % n)
+    print("CONCEPT %d [%s]:" % (n, dataset))
     for r in sorted(report):
         print("  " + r)
 
