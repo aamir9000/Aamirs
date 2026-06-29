@@ -277,6 +277,12 @@ woman."** Never write the character's name into a Veo prompt. Ingredient labels 
 ### SC-39 · PLAZA DANCE (Dance) — **BUILT** · 4 shots × 6s · SILENT
 - mode **dance** · journey **fountain plaza → sunlit colonnade → rooftop terrace → blossom garden** · signature **silk shawl swirling into colour-ribbons + drifting petals + fountain light-glints** · light **bright warm afternoon** · wardrobe **scarlet-coral ruffled circle-skirt dance dress + gold hoops** · hair **sleek high ballerina bun + flower** · `@object` = flowing ombré silk shawl · shot-grammar **low orbit twirl / parallel profile colonnade / high 3/4 rooftop orbit / push-in+crane garden**. **FILE:** `SC-39 · Plaza Dance (Dance).md`
 
+### SC-40 · RAPIDS RUN (Kayak) — **BUILT** · 4 shots × 6s · SILENT
+- mode **river kayak** · journey **sunlit gorge → gentle rapids → waterfall pool → calm lake** · signature **spray-arcs off paddle/bow + rainbow mist in rapids + drifting leaves** · light **bright sunny river-and-forest** · wardrobe **teal-coral splash top + life-vest + cap** · hair **high messy scrunchie bun** · `@object` = kayak + double paddle · shot-grammar **high aerial gorge / water-line rapids / parallel profile waterfall pool / push-in+crane lake**. **FILE:** `SC-40 · Rapids Run (Kayak).md`
+
+### SC-41 · SKY SAIL (Paraglide) — **BUILT** · 4 shots × 6s · SILENT
+- mode **paraglide** · journey **hilltop launch → over patchwork fields → bank over the lake → coastal landing** · signature **cloud-wisps past the wing + land/lake sun-glints + thermals lifting seeds** · light **bright sunny big-sky** · wardrobe **rainbow-panel flight suit + harness + flight helmet & visor** · hair **single long French braid down the back** · `@object` = rainbow paraglider wing + harness · shot-grammar **low-hero launch run / high aerial field soar / parallel profile lake-bank / push-in+crane landing** · *(exterior "see the wing/landscape").* **FILE:** `SC-41 · Sky Sail (Paraglide).md`
+
 ## CONCEPT ROADMAP — ALL CONCEPTS BUILT ✓
 *(rickshaw SC-05 dropped; redundant 2nd-blossom SC-20 dropped. All 19 planned concepts + the SC-A1 anime concept are fully
 built, and ALL have been rebuilt to the **CORRECTED STANDARD (v2)** above — clean front-facing/plain-bg `@subject`,
