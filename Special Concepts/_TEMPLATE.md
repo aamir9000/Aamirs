@@ -3,12 +3,12 @@
 
 ## METHOD
 - Each shot = its own **new camera setup** (angle / size / move / perspective). We **cut** between shots.
-- Continuity = the **essence**: same Aira + wardrobe + world + light across shots, plus the **momentum
+- Continuity = the **essence**: the same subject + wardrobe + world + light across shots, plus the **momentum
   of the action** carried across the cut (match-on-action). NOT literal end→start frame chaining.
 - **Mode = Ingredients-to-Video** → hand Flow **3 reference images per shot.**
 
-## INGREDIENTS (3 images per shot — generate in Nano Banana Pro from Aira's reference)
-- **SUBJECT** — Aira in *this shot's* pose & angle → identity + wardrobe.
+## INGREDIENTS (3 images per shot — generate in Nano Banana Pro from the subject's reference)
+- **SUBJECT** — the subject in *this shot's* pose & angle → identity + wardrobe.
 - **WORLD** — the environment for this beat, no subject → location + light.
 - **COMPOSITE / look anchor** — the framed look of this beat → palette + composition.
 > Identity locked upstream (stills rendered from her reference). Output 9:16, 24fps, real-time (no slow-mo).

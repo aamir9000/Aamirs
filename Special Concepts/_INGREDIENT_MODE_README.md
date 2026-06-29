@@ -14,7 +14,7 @@ while following the text prompt, so identity / product / world / look do not dri
 
 ## Method: essence-continuation with cuts (NOT literal continuation)
 Each shot is its own **new camera setup** — different angle, size, move, perspective — and we **cut**
-between them. Continuity is the *essence*, carried by: same Aira + wardrobe + world + light across
+between them. Continuity is the *essence*, carried by: the same subject + wardrobe + world + light across
 shots, and the **momentum of the action** flowing across the cut (match-on-action), like real editing.
 We do **not** chain end-frame→start-frame (that would morph, not cut).
 
@@ -26,13 +26,13 @@ images. Each clip we hand Flow 3 references:
 
 | Slot | What it is | How to BUILD the still (Nano Banana Pro) | Carries |
 |---|---|---|---|
-| **SUBJECT** `@aira` | Aira in this shot's pose/wardrobe/hair | **isolated on a plain / segmented neutral background**, full figure, clean hands, **even lighting matched to the world's light**, high-res, 9:16; rendered from her identity reference | identity + wardrobe + pose |
+| **SUBJECT** `@subject` | the subject in this shot's pose/wardrobe/hair | **isolated on a plain / segmented neutral background**, full figure, clean hands, **even lighting matched to the world's light**, high-res, 9:16; rendered from her identity reference | identity + wardrobe + pose |
 | **WORLD** `@world` | this frame's location, **no subject** | a full scene carrying that beat's light + palette | place + light |
 | **PROP / LOOK** `@prop` / `@look` | the hero prop **isolated on plain bg**, OR a clean palette/grade/light swatch | locks the object, or the colour-grade & mood | prop or grade |
 
-> Identity is locked **upstream** — every SUBJECT still is rendered from Aira's reference, so she's the same
+> Identity is locked **upstream** — every SUBJECT still is rendered from the subject's reference, so she's the same
 > person before Flow animates her. The 3 refs then hold subject + world + look steady across the cut.
-> **The PROMPT does the composition:** name how to combine them ("`@aira` rides the `@bike` through
+> **The PROMPT does the composition:** name how to combine them ("`@subject` rides the `@bike` through
 > `@world` …") + crop, angle, ONE dominant camera move, her per-limb action + expression, the signature —
 > written as **timed beat-ranges** ([00:00–00:02] / [00:02–00:04] / [00:04–00:06]).
 > **Match the SUBJECT still's lighting to the WORLD still's** or the cut-out reads fake.
@@ -82,3 +82,59 @@ See `_TEMPLATE.md` for the exact shot-card structure.
    [00:04–00:06]) — not free prose — to budget the action and stop Veo rushing/padding. **One dominant
    camera move per clip** (don't chain orbit→pull-back in one 6s shot) and **only ~2–3 actions per clip**;
    over-stuffing makes the model drop or cram beats.
+
+
+---
+
+# SESSION-RESILIENT PLAYBOOK
+*(everything needed to keep building these in a fresh chat if context is lost)*
+
+## Naming convention (Veo-facing — important)
+Veo only reads the **uploaded reference image**, not a name. So in every prompt we call her **`@subject`**
+(= our locked model reference / the "Aira" character sheet) and describe her as **"the subject" / "a young
+woman."** Never write the character's name into a Veo prompt. Ingredient labels are always generic:
+**`@subject` · `@world` · `@prop` · `@look`.** (No physical enumeration of her — likeness is carried only by `@subject`.)
+
+## Prompt-detailing format (reusable — write every video prompt like this)
+1. **INGREDIENTS line:** `@subject` (isolated rider) · `@world` (scene) · `@look` (palette swatch) [+ `@prop` if used].
+2. **Combine instruction:** "Animate `@subject` riding/…/ through `@world`, graded to `@look`."
+3. **Shot:** crop + angle + **ONE dominant camera move.**
+4. **Timed beats** — 3 ranges, ~2–3 actions total: `[00:00–00:02] … [00:02–00:04] … [00:04–00:06] …`
+   (already-in-motion start; candid real movement; the per-limb actions; the signature on its beat).
+5. **Rails (end of prompt):** hold `@subject`'s identity exactly (same face/build/hair; only gaze/head/expression
+   move; never warp the face); real-time natural speed, no slow-motion; believable physics; the lighting +
+   controlled vibrancy + natural skin tone; **9:16 vertical.**
+
+**Worked sample (SC-01 · Shot 3 — the carve):**
+> Animate `@subject` riding her cream bicycle through `@world`, graded to `@look`. Low three-quarter hero from inside the turn; one continuous orbit arcing around her. [00:00–00:02] she banks into a hard carving lean — inside LEFT knee dropping toward the road, both hands gripping the bars, hips to the outside saddle-edge, a sharp focused breath. [00:02–00:04] at the apex her slipstream blooms — blush-and-white blossom petals + bright sunlit light-motes with a soft prism shimmer spiral off the wheels, grounded in real spin/air physics (weighty petals, clean speculars, no cartoon sparkle). [00:04–00:06] she powers upright with a quick triumphant grin as the orbit settles to her front, the petal-wake streaming over the sparkling canal. Hold `@subject`'s identity exactly — same face/build/hair, only gaze/head/expression change, never warp the face. Real-time, no slow-motion. Believable lean and tyre grip. Bright high-midday daylight, controlled vibrancy, natural skin tone. 9:16.
+
+## BUILT CONCEPTS REGISTRY
+*(one entry per fully-built concept — difference string + theme + format + file, so a fresh session can pick up)*
+
+### SC-01 · PETAL SLIPSTREAM (Bicycle) — **STATUS: BUILT** · 4 shots × 6s · SILENT
+- **DIFFERENCE STRING:** bicycle ride · journey **boulevard → market → canal bridge → seafront** · signature = **blossom-petal + sunlit-light wake** (peaks on the carve) · energy **bright-joyful** · light **bright morning → midday** · wardrobe **marigold/coral puff-sleeve colour-block sundress** · hair **sky-blue ribbon ponytail** · shot-grammar **low-hero crane / profile track / inside-orbit carve / hero push-in**.
+- **THEME:** one girl, one cute outfit, one continuous daytime ride where the world opens grander each beat; candid real movement; one grounded-surreal petal-light bloom.
+- **CONCEPT:** 4×6s ingredient-mode cut reel, progressing worlds, loops Shot 4 → Shot 1.
+- **PROMPT FORMAT:** as above (`@subject` + `@world` + `@look`, timed beats, one camera move, identity-locked).
+- **FILE:** `SC-01 · Petal Slipstream (Bicycle).md`
+
+## CONCEPT ROADMAP — difference strings (planned, not yet built)
+*(rickshaw dropped; redundant 2nd-blossom dropped; each has a UNIQUE signature/energy/light)*
+- **SC-02 Riviera Drift** — pastel Vespa · clifftop town→switchback→harbour→piazza · sea-spray + sun-glints · golden-hour Med · halter midi · silk-headscarf waves · 5 shots
+- **SC-03 Boardwalk Bloom** — rollerblades · promenade→skate bowl→pier→beach steps · chalk-dust + balloons · high-key coastal noon · colour-block crop set · high space-buns · 4
+- **SC-04 Golden Coast Cruise** — convertible · coast road→light-tunnel→bridge→cliff overlook · golden road-dust + flare-streaks · sunset amber/rose · retro scarf-dress + cat-eye · retro waves · 4
+- **SC-06 Market Dash** — run/weave · flower bazaar→spice arcade→fabric souk→fountain square · colour-powder + spice-dust + fabric ripples · dappled mid-morning · tied-blouse + shorts · double buns · 5
+- **SC-07 Rooftop Run** — parkour · rooftop gardens→clothesline maze→water-tank deck→edge leap · pigeon-burst + snapping flags · hard high-noon city · sporty-chic brights · sleek high pony · 4
+- **SC-08 Petal Promenade** — editorial walk · blossom avenue→colonnade→garden stairs→reflecting pool · cherry-blossom storm (THE petal concept) · soft diffused overcast-pink · blush flowy couture · soft glam waves · 4
+- **SC-09 Puddle Symphony** — walk/dance, rain-break · wet plaza→arcade→fountain→sun-break square · splash-crowns + prism-light · storm-silver→sun · glossy bright raincoat · slicked low pony · 4
+- **SC-10 Lagoon Glide** — paddleboard · lagoon→mangrove channel→sandbar→open reef · caustics + lotus + fish-flash · bright aqua noon · swim-modest + sarong · wet top-knot · 5
+- **SC-11 Gondola Reverie** — gondola · narrow canals→under bridges→grand canal→lagoon mouth · water-mirror reflections · soft golden Venice afternoon · vintage day-dress · braided updo + ribbon · 4
+- **SC-12 Freediver's Bloom** — swim (vertical) · surface→reef→kelp cathedral→sun-shaft ascent · sun-shaft caustics + bubble-stream · underwater blue→gold · sleek dive-suit chic · slicked · 5
+- **SC-13 Sky Bloom** — hot-air balloon · meadow lift-off→over rooftops→through a cloud→sunrise vista · cloud-wisps + dawn rays · pastel dawn · soft romantic dress · loose waves · 4
+- **SC-14 Alpine Ascent** — cable-car/hike · meadow→pine forest→cliff path→summit lake · snow-sparkle + crystal-light · crisp cool alpine bright · camel/white/forest knit · fishtail braid + beanie · 4
+- **SC-15 Kite Run** — run w/ giant kite · headland→dune ridge→cliff edge→sky-launch lean · colour-ribbons forming shapes · bright windy coast · primary playsuit · windswept high pony · 4
+- **SC-16 Become the Bloom** — walk (material→couture) · garden path→colonnade→fountain court→hero plinth · a texture climbs and becomes her evolving gown · soft luxe sun · transforming gown · sculptural updo · 3
+- **SC-17 Four Seasons, One Path** — walk/ride · same path spring→summer→autumn→winter · season re-skin transitions · light shifts per season · cute layered look · long loose hair · 5
+- **SC-18 Portal Steps** — step through arches · flower arch→reef arch→desert arch→city arch · threshold world-swap bloom · light changes per portal · bold colour-block · sleek geometric bob · 3
+- **SC-19 The Product Builds the World** — hero product→set · studio→liquid set→bloom set→hero plinth · world grows from the bottle (liquid→architecture) · luxe controlled light · couture · glossy · 3
+- **SC-21 Citrus Coast** — Amalfi stroll · lemon grove→tiled stairs→harbour→terrace · citrus-leaf + zest-mist · bright lemon-sun · sundress · headscarf updo · 4

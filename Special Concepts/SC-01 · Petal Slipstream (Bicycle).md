@@ -41,7 +41,7 @@ each frame is the believable *next place* along her route, the light opening bri
 ## INGREDIENTS (3 clean reference images per shot — built to Flow's spec)
 Each ingredient is an **isolated single element on a plain/neutral background — not a composite** (Flow reads
 clean refs best). Composition / framing / action live in the **PROMPT**.
-- **SUBJECT `@aira`** — Aira on the cream bike in this shot's pose, **isolated on a plain/segmented neutral background**, full figure, clean hands, **lit to match this beat's world-light**; rendered from her identity ref (carries identity + the wardrobe/hair above).
+- **SUBJECT `@subject`** — the subject on the cream bike in this shot's pose, **isolated on a plain/segmented neutral background**, full figure, clean hands, **lit to match this beat's world-light**; rendered from her identity ref (carries identity + the wardrobe/hair above).
 - **WORLD `@world`** — this frame's location as a full scene, **no subject** → the next stretch of the journey + its light.
 - **LOOK `@look`** — a clean palette / grade / light swatch for this beat (colours + light-mood + a blush-petal accent) → locks the grade. *(Alt 3rd ref: the cream bicycle isolated on plain bg, to lock the prop instead.)*
 > Load all 3 as Ingredients; the PROMPT says how to combine them + framing / one camera move / action (timed beats).
@@ -56,7 +56,7 @@ clean refs best). Composition / framing / action live in the **PROMPT**.
 window flower-boxes; **soft warm morning side-light**, long gentle shadows, dappled leaf-light on pale dry pavement.
 
 **Stills to generate (Nano Banana Pro):**
-- **SUBJECT** — full-figure, low 3/4 front: Aira mid push-off on the cream bicycle in the wardrobe above, ribbon ponytail snapping back, clean neutral ground.
+- **SUBJECT** — full-figure, low 3/4 front: the subject mid push-off on the cream bicycle in the wardrobe above, ribbon ponytail snapping back, clean neutral ground.
 - **WORLD** — the morning boulevard as described, deep perspective, no subject.
 - **LOOK `@look`** — palette/light swatch: soft warm morning — cream + marigold + soft-coral + sky-blue, dappled gold leaf-light, a blush-petal accent.
 
@@ -69,7 +69,7 @@ saddle, tilted into the drive · **RIGHT leg** driving the lead pedal down (weig
 **EXPRESSION:** focused determination, brows lightly knit, a small private half-smile, eyes bright.
 
 **VIDEO PROMPT (paste into Flow):**
-> Low-hero wide, three-quarter front, the camera already craning up and tracking forward with her; bright soft morning side-light, dappled leaf-shadow on pale pavement, clear blue sky. [00:00–00:02] Aira is mid push-off — her RIGHT leg drives the lead pedal down as her gaze flicks to it, weight rising off then onto the tan saddle, both hands wrapping the grips, torso leaning forward over the bars, the cream bike surging off the mark and the ribbon ponytail snapping back. [00:02–00:04] she settles onto the saddle into the first strokes, RIGHT then LEFT leg finding rhythm, shoulders loosening, waist easing upright, a small private breath of effort and a half-smile as her gaze lifts to the leafy boulevard; morning sun flares between the plane-trees. [00:04–00:06] the bike gathers genuine speed, she shifts her weight forward over the bars and throws a quick glance to the flower-boxes sliding past, alive and unposed. Real-time natural speed, believable bicycle dynamics and weight transfer; identity held (only gaze/head/expression change); 9:16.
+> Low-hero wide, three-quarter front, the camera already craning up and tracking forward with her; bright soft morning side-light, dappled leaf-shadow on pale pavement, clear blue sky. [00:00–00:02] the subject is mid push-off — her RIGHT leg drives the lead pedal down as her gaze flicks to it, weight rising off then onto the tan saddle, both hands wrapping the grips, torso leaning forward over the bars, the cream bike surging off the mark and the ribbon ponytail snapping back. [00:02–00:04] she settles onto the saddle into the first strokes, RIGHT then LEFT leg finding rhythm, shoulders loosening, waist easing upright, a small private breath of effort and a half-smile as her gaze lifts to the leafy boulevard; morning sun flares between the plane-trees. [00:04–00:06] the bike gathers genuine speed, she shifts her weight forward over the bars and throws a quick glance to the flower-boxes sliding past, alive and unposed. Real-time natural speed, believable bicycle dynamics and weight transfer; identity held (only gaze/head/expression change); 9:16.
 **Cut (essence continuation, match-on-action) →** Shot 2: the same forward momentum carries her out of the leafy boulevard and *into* the colourful market street.
 
 ---
@@ -80,7 +80,7 @@ striped awnings, flower & fruit stalls, bunting and hanging baskets; **brighter 
 the striped awnings**, casting soft bands of coloured light, warm bustle behind. *(This is the world that naturally comes after the boulevard.)*
 
 **Stills to generate:**
-- **SUBJECT** — clean side profile, cowboy crop: Aira riding at speed, standing into the pedals, LEFT hand lifting off the bar, scarf and ponytail streaming horizontal.
+- **SUBJECT** — clean side profile, cowboy crop: the subject riding at speed, standing into the pedals, LEFT hand lifting off the bar, scarf and ponytail streaming horizontal.
 - **WORLD** — the market street streaking in bright sunlit motion-blur profile (awnings, stalls, bunting, coloured light-bands), no subject.
 - **LOOK `@look`** — palette/light swatch: bright mid-morning — striped-awning coloured light-bands over warm market tones, blush-and-white petal accent.
 
@@ -93,7 +93,7 @@ of hair off her cheek · **RIGHT arm** bent, hand firm on the right grip · **to
 **EXPRESSION:** exhilarated open grin, eyes crinkling and closing for a beat, pure joy.
 
 **VIDEO PROMPT (paste into Flow):**
-> Tight side-tracking profile, cowboy crop, the camera dollying parallel at her exact speed so she stays razor-sharp while the colourful market street streaks into bright sunlit motion-blur behind, soft coloured light-bands from the awnings washing over her. [00:00–00:02] Aira rises off the saddle onto the pedals for a couple of driving strokes then eases back down, scarf and ponytail streaming fully horizontal, legs working in real rhythm. [00:02–00:04] she lifts her LEFT hand off the bar into the rushing air, tips her face up to the breeze with a flickering eyes-closed grin, then sweeps a whipping strand of hair back from her cheek with that same hand; in her wake the first fresh blossom petals and bright sunlit light-motes lift and tumble in her draft. [00:04–00:06] she settles both hands back and throws a quick glance sideways at the streaking flower stalls, the camera racking focus to her exhilarated face as the petal-and-light wake thickens. Real-time, no slow-motion, candid behaviour, believable air-drag on hair/fabric and real petal weight; identity held (face = gaze/expression only); 9:16.
+> Tight side-tracking profile, cowboy crop, the camera dollying parallel at her exact speed so she stays razor-sharp while the colourful market street streaks into bright sunlit motion-blur behind, soft coloured light-bands from the awnings washing over her. [00:00–00:02] the subject rises off the saddle onto the pedals for a couple of driving strokes then eases back down, scarf and ponytail streaming fully horizontal, legs working in real rhythm. [00:02–00:04] she lifts her LEFT hand off the bar into the rushing air, tips her face up to the breeze with a flickering eyes-closed grin, then sweeps a whipping strand of hair back from her cheek with that same hand; in her wake the first fresh blossom petals and bright sunlit light-motes lift and tumble in her draft. [00:04–00:06] she settles both hands back and throws a quick glance sideways at the streaking flower stalls, the camera racking focus to her exhilarated face as the petal-and-light wake thickens. Real-time, no slow-motion, candid behaviour, believable air-drag on hair/fabric and real petal weight; identity held (face = gaze/expression only); 9:16.
 **Cut (essence continuation, match-on-action) →** Shot 3: she carries her speed out of the market and *banks into a curve* onto the canal bridge.
 
 ---
@@ -104,7 +104,7 @@ flower-plaza** — low stone balustrade, café umbrellas, a canal **sparkling un
 cooler water-light mixing with warm stone. *(The believable next stretch after the market.)*
 
 **Stills to generate:**
-- **SUBJECT** — low 3/4, inside the turn: Aira leaning hard into a banking carve, inside (LEFT) knee dropping, bike angled steep, both hands on the bars, torso committed.
+- **SUBJECT** — low 3/4, inside the turn: the subject leaning hard into a banking carve, inside (LEFT) knee dropping, bike angled steep, both hands on the bars, torso committed.
 - **WORLD** — the canal bridge / waterside plaza in high sparkling daylight, balustrade + umbrellas + glinting water, the curve sweeping, no subject.
 - **LOOK `@look`** — palette/light swatch: high sparkling midday — canal-water glints, warm stone + cool water-light, blush-and-white petal + soft prism accent.
 
@@ -129,7 +129,7 @@ overlook** — mosaic ground, palms, a fountain, the **blue sea and sky beyond**
 sky-blue, high-key and breezy**. *(The widest, brightest world — the route's payoff.)*
 
 **Stills to generate:**
-- **SUBJECT** — hero medium, low front: Aira coasting to a controlled stop, sitting tall, briefly hands-free, one boot easing toward the ground, calm warm gaze.
+- **SUBJECT** — hero medium, low front: the subject coasting to a controlled stop, sitting tall, briefly hands-free, one boot easing toward the ground, calm warm gaze.
 - **WORLD** — the seafront plaza in bright open midday, palms + fountain + sea-and-sky, petals settling, no subject.
 - **LOOK `@look`** — palette/light swatch: bright open midday seafront — sky-blue + sea + warm mosaic, high-key and airy, a settling-petal accent.
 
@@ -142,8 +142,8 @@ the pedal · **feet** left easing to the mosaic, right on the pedal.
 **EXPRESSION:** calm satisfied warmth, an easy genuine smile, eyes soft and bright.
 
 **VIDEO PROMPT (paste into Flow):**
-> Hero medium, low front angle, the camera easing into a slow push-in; bright open midday, sky-blue, the sea behind, breezy and high-key. [00:00–00:02] Aira coasts off the bridge into the plaza, sits up tall and lets both hands hover and relax just off the bars for a free no-handed beat, the bike decelerating with believable weight. [00:02–00:04] she looks around the sunlit seafront taking it in, sweeps a loose strand of hair back behind her ear, lets out a natural satisfied breath and an easy smile, then settles her hands back and eases her LEFT boot down toward the mosaic. [00:04–00:06] she lifts her gaze level to the lens with calm warmth as the blossom petals and bright light-motes drift down and settle into a soft carpet around her, the composition easing toward the charged calm of the opening for a seamless loop. Real-time natural speed, believable deceleration, candid unposed behaviour; identity held (face = gaze/expression only); 9:16.
+> Hero medium, low front angle, the camera easing into a slow push-in; bright open midday, sky-blue, the sea behind, breezy and high-key. [00:00–00:02] the subject coasts off the bridge into the plaza, sits up tall and lets both hands hover and relax just off the bars for a free no-handed beat, the bike decelerating with believable weight. [00:02–00:04] she looks around the sunlit seafront taking it in, sweeps a loose strand of hair back behind her ear, lets out a natural satisfied breath and an easy smile, then settles her hands back and eases her LEFT boot down toward the mosaic. [00:04–00:06] she lifts her gaze level to the lens with calm warmth as the blossom petals and bright light-motes drift down and settle into a soft carpet around her, the composition easing toward the charged calm of the opening for a seamless loop. Real-time natural speed, believable deceleration, candid unposed behaviour; identity held (face = gaze/expression only); 9:16.
 **Cut (essence continuation, match-on-action) →** loops back to Shot 1 (the morning boulevard push-off).
 
 ---
-**Stills total:** 12 (3 per shot × 4 shots). **Render order:** generate all stills in Nano Banana Pro (from Aira's reference; wardrobe/hair/makeup locked, WORLD = the next location each frame) → load per shot as Ingredients (`@aira` isolated + `@world` scene + `@look` swatch) → generate each 6s clip → assemble Shot 1→2→3→4 as CUTS (essence continuation, match-on-action) → loop Shot 4 → Shot 1.
+**Stills total:** 12 (3 per shot × 4 shots). **Render order:** generate all stills in Nano Banana Pro (from the subject's reference; wardrobe/hair/makeup locked, WORLD = the next location each frame) → load per shot as Ingredients (`@subject` isolated + `@world` scene + `@look` swatch) → generate each 6s clip → assemble Shot 1→2→3→4 as CUTS (essence continuation, match-on-action) → loop Shot 4 → Shot 1.
