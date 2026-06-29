@@ -108,7 +108,7 @@ textures crisp on wet stone, fern veins, silk sheen and skin dew. Continuity-loc
 sage slip + moss kimono, barefoot with jade anklet, jade leaf-pendant, gold ear-thread,
 damp loose hair — all carried forward exactly. Negative: STD-NEG; plus no shoes
 appearing, no dry fabric, no harsh studio light.
-SUBJECT FRAMING & POSITION: A wide framing holds Aira — she is barefoot on a flat black wet-stone shelf, the soles and ankles glistening, a thin braided jade anklet at one ankle catching a green highlight. The spatial logic places her on the lowest tier of three descending stone shelves, the waterfall thundering camera-left. She reads front to the lens within the Emerald Rainforest Waterfall Grotto scene. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A wide framing holds Aira — she is barefoot on a flat black wet-stone shelf, the soles and ankles glistening, a thin braided jade anklet at one ankle catching a green highlight. The spatial logic places her on the lowest tier of three descending stone shelves, the waterfall thundering camera-left. She reads front to the lens within the Emerald Rainforest Waterfall Grotto scene. Her pose reads: gaze steady to camera with quiet confidence; head level and poised; the shoulders squared and easy; both arms relaxed at her sides, fingers soft; torso tall and open, breath lifting the chest; waist long, hips set with a gentle counter-tilt; the legs planted even, one knee soft; weight grounded and balanced across both feet; hair falling naturally at rest. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 
 VIDEO PROMPT (VEO 3.1 · 9:16 · 6.0s · 24fps):
@@ -165,7 +165,7 @@ top of her bare foot. Atmosphere keeps the drifting vapour; color grade emerald-
 the warm accent low on her body. Textures: knotted fabric tie, fern fibre, the satin's
 damp sheen, wet-skin specular on the foot. Continuity-locks identical to Frame 1.
 Negative: STD-NEG; plus no shoes, no flattened hands during the tie-action, no haloing.
-SUBJECT FRAMING & POSITION: A full-length framing on a 35mm look holds Aira — she is shown full-length in clean side profile as she fastens the moss kimono's tie at her waist. She reads turned back over the shoulder toward the lens within the Emerald Rainforest Waterfall Grotto scene. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A full-length framing on a 35mm look holds Aira — she is shown full-length in clean side profile as she fastens the moss kimono's tie at her waist. She reads turned back over the shoulder toward the lens within the Emerald Rainforest Waterfall Grotto scene. Her pose reads: gaze following the wearing-action with quiet focus; head inclined toward her hands; one shoulder easing in as the arms work, the other relaxed; both hands articulate in the precise gesture, fingers unwarped; torso lengthened and softly leaning into the action; waist easy with a slight tilt; the legs grounded and even, one knee soft; weight balanced with a gentle counter-tilt; hair settling beside the working hands. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 
 VIDEO PROMPT (VEO 3.1 · 9:16 · 6.0s · 24fps):
@@ -211,7 +211,7 @@ Lighting: warm shaft catching the cupped water and her face, cool fill from the 
 Atmosphere: spray-mist and floating motes. Color grade emerald with a warm catch-light.
 Textures: moving water caustics, wet skin, clinging silk, pebble grain. Continuity-locks
 identical. Negative: STD-NEG; plus no shoes, no dry sleeves, no frozen-plastic water.
-SUBJECT FRAMING & POSITION: A cowboy framing on a 35mm look holds Aira — she is framed from mid-thigh up as she wades ankle-deep into a clear jade pool and bends to cup the water in both hands. The spatial logic puts the camera just above the waterline so ripples lead the eye to her; the waterfall roars behind her shoulder. She reads turned back over the shoulder toward the lens within the Emerald Rainforest Waterfall Grotto scene. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A cowboy framing on a 35mm look holds Aira — she is framed from mid-thigh up as she wades ankle-deep into a clear jade pool and bends to cup the water in both hands. The spatial logic puts the camera just above the waterline so ripples lead the eye to her; the waterfall roars behind her shoulder. She reads turned back over the shoulder toward the lens within the Emerald Rainforest Waterfall Grotto scene. Her pose reads: gaze level along her line through the water, serene; head leading the slow glide; the shoulders easing forward into the wade; both arms fanning out and trailing through the water for balance, fingers relaxed; torso leading gently forward through the surface; waist long, hips easing forward; the front leg wading ahead while the rear trails; weight transferring slowly forward through the submerged footing; hair and fabric drifting with the water's drag. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 
 VIDEO PROMPT (VEO 3.1 · 9:16 · 6.0s · 24fps):
@@ -252,7 +252,7 @@ Lighting: warm key kissing the cheekbone and pendant, cool rim on the hair. Atmo
 fine mist. Color grade emerald-warm. Textures: skin dew, jade polish, wet hair filaments.
 Continuity-locks identical. Negative: STD-NEG; plus no shoes in any reflection, no warped
 ear, no over-smooth skin.
-SUBJECT FRAMING & POSITION: A medium framing on a 50mm look holds Aira — she is tucking a wet strand behind her ear, the jade leaf-pendant and a small jade ear-stud catching the sun. She reads at a three-quarter to the lens within the Emerald Rainforest Waterfall Grotto scene. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A medium framing on a 50mm look holds Aira — she is tucking a wet strand behind her ear, the jade leaf-pendant and a small jade ear-stud catching the sun. She reads at a three-quarter to the lens within the Emerald Rainforest Waterfall Grotto scene. Her pose reads: gaze level and assured to the lens, composed; head balanced and tall; both shoulders open, level and relaxed; the arms easy at her sides, hands relaxed and open; torso tall and lifted, open to camera; waist long with a soft hip counter-tilt; both legs grounded and even, one taking a touch more weight; weight settled and balanced over both feet in true ground contact; hair settling around her. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 
 VIDEO PROMPT (VEO 3.1 · 9:16 · 6.0s · 24fps):
@@ -291,7 +291,7 @@ through the beads into a halo of refracted light across her. Atmosphere: surreal
 breath-held. Color grade emerald with prismatic sparkle. Textures: glass-clear beads,
 wet skin, silk. Continuity-locks identical. Negative: STD-NEG; plus no shoes, no drops on
 her skin, no CG-fake plastic beads.
-SUBJECT FRAMING & POSITION: A wide framing on a 24mm look holds Aira — she stands on the wet shelf and tips her face upward as a falling sheet of waterfall droplets HALTS in mid-air and hangs as a glittering bead-curtain that frames her on. She reads front to the lens within the Emerald Rainforest Waterfall Grotto scene. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A wide framing on a 24mm look holds Aira — she stands on the wet shelf and tips her face upward as a falling sheet of waterfall droplets HALTS in mid-air and hangs as a glittering bead-curtain that frames her on. She reads front to the lens within the Emerald Rainforest Waterfall Grotto scene. Her pose reads: gaze calm and present, taking in the scene; head balanced with a soft tilt; the shoulders open and dropped, unhurried; one hand resting easy while the other hangs relaxed, fingers soft; torso lifted and quietly poised; waist long with a light contrapposto; one leg taking the weight as the other eases, knee soft; weight settled into the standing leg with real ground contact; hair resting against her shoulders. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 
 VIDEO PROMPT (VEO 3.1 · 9:16 · 6.0s · 24fps):
@@ -333,7 +333,7 @@ water-caustics as a moving gobo over warm key. Atmosphere intimate. Color grade 
 with a warm catch-light in the eye. Textures: iris detail, lash droplet, skin dew, jade
 polish. Continuity-locks identical. Negative: STD-NEG; plus no warped eye, no plastic
 lash, no shoe reference.
-SUBJECT FRAMING & POSITION: A extreme close-up framing on a 85mm look holds Aira — she 's eyes and the jade ear-stud with water-light dancing across her skin. She reads front to the lens within the Emerald Rainforest Waterfall Grotto scene. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A extreme close-up framing on a 85mm look holds Aira — she 's eyes and the jade ear-stud with water-light dancing across her skin. She reads front to the lens within the Emerald Rainforest Waterfall Grotto scene. Her pose reads: gaze steady to camera with quiet confidence; head level and poised; the shoulders squared and easy; both arms relaxed at her sides, fingers soft; torso tall and open, breath lifting the chest; waist long, hips set with a gentle counter-tilt; the legs planted even, one knee soft; weight grounded and balanced across both feet; hair falling naturally at rest. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 
 VIDEO PROMPT (VEO 3.1 · 9:16 · 6.0s · 24fps):
@@ -368,7 +368,7 @@ frame edge. Lighting: powerful warm backlight + soft cool fill. Atmosphere: risi
 god-rays. Color grade emerald-to-gold as she enters the light. Textures: backlit silk
 translucency, wet stone, mist. Continuity-locks identical. Negative: STD-NEG; plus no
 shoes, no blown-out face, no flat lighting.
-SUBJECT FRAMING & POSITION: A wide framing on a 28mm look holds Aira — she is stepping onto the topmost stone shelf into the full sun-shaft as mist swallows the lower grotto behind her. She reads front to the lens within the Emerald Rainforest Waterfall Grotto scene. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A wide framing on a 28mm look holds Aira — she is stepping onto the topmost stone shelf into the full sun-shaft as mist swallows the lower grotto behind her. She reads front to the lens within the Emerald Rainforest Waterfall Grotto scene. Her pose reads: gaze travelling ahead toward her next mark, alert and easy; head carried level on a long neck; the shoulders relaxed and alternating with the walk; the forward arm swinging up gently as the other draws back, fingers easy; torso upright and gliding over the legs; waist loose and counter-rotating with the steps; the planting foot meeting the ground heel-first while the rear toe lifts to swing through; weight flowing foot to foot with grounded, gliding steps; hair lifting and resettling with each pace. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 
 VIDEO PROMPT (VEO 3.1 · 9:16 · 6.0s · 24fps):
@@ -437,7 +437,7 @@ Continuity-locks: champagne gown + beaded capelet, gold T-bar heels, ivory opera
 opera glasses on chain, chandelier-drop earrings, diamond bracelet, finger-wave hair,
 oxblood lip/nails. Negative: STD-NEG; plus no modern signage, no asymmetry breaking the
 deco order, no barefoot.
-SUBJECT FRAMING & POSITION: A low wide framing on a 28mm look holds Aira — she is mid-arrival: one gloved hand lifting the gown a few inches to clear the step, head turning toward camera. The spatial logic is rigidly symmetrical — staircase vanishing behind her, chandelier dead-centre above, oxblood velvet ropes flanking. She reads front to the lens within the Art-Deco Theatre Lobby scene. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A low wide framing on a 28mm look holds Aira — she is mid-arrival: one gloved hand lifting the gown a few inches to clear the step, head turning toward camera. The spatial logic is rigidly symmetrical — staircase vanishing behind her, chandelier dead-centre above, oxblood velvet ropes flanking. She reads front to the lens within the Art-Deco Theatre Lobby scene. Her pose reads: gaze set along her path, calm and purposeful; head balanced and level into the travel; one shoulder easing forward as the opposite arm counter-swings, hands loose; torso lifted and moving forward through the step; waist turning softly with the gait; the lead foot rolling onto the ground as the trailing foot pushes off behind; weight transferring smoothly forward, soles in real contact; hair and hem trailing the stride. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 
 VIDEO PROMPT (VEO 3.1 · 9:16 · 6.0s · 24fps):
@@ -487,7 +487,7 @@ grain, satin drape, beadwork, glove matte, marble veining. Continuity-locks: cha
 gown + capelet, gold T-bar heels with buckle, ivory opera gloves, opera glasses on chain,
 earrings, diamond bracelet, finger-wave, oxblood lip/nails. Negative: STD-NEG; plus no
 barefoot, no broken symmetry, no modern fixtures.
-SUBJECT FRAMING & POSITION: A medium framing on a 40mm look holds Aira — she two steps up the grand staircase, one ivory- gloved hand trailing the polished brass banister. She reads at a three-quarter to the lens within the Art-Deco Theatre Lobby scene. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A medium framing on a 40mm look holds Aira — she two steps up the grand staircase, one ivory- gloved hand trailing the polished brass banister. She reads at a three-quarter to the lens within the Art-Deco Theatre Lobby scene. Her pose reads: gaze carried ahead in her direction of travel, chin level and assured; head leading the line of the walk; the shoulders swinging in easy opposition to the stride; the leading arm easing forward while the trailing arm swings back, hands relaxed and open; torso tall and carried forward over the steps; waist rotating gently with each stride; the front leg reaching to plant heel-first while the rear leg drives off the toe; weight rolling heel-to-toe from foot to foot in true ground contact; hair and fabric lifting a beat behind the motion. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 
 VIDEO PROMPT (VEO 3.1 · 9:16 · 6.0s · 24fps):
@@ -527,7 +527,7 @@ sharp plane. Lighting: warm beauty key from the chandelier, gentle brass fill, a
 light in each eye. Atmosphere glam haze. Color grade champagne-warm. Textures: lip
 texture, glove matte, bead sparkle, skin realism. Continuity-locks identical. Negative:
 STD-NEG; plus no gaze-drift, no lip-shape that won't match the line, no barefoot.
-SUBJECT FRAMING & POSITION: The framing on a 85mm look holds Aira — she dead-centre, turned a few degrees off-axis but eyes direct to lens for her spoken line. She reads front to the lens within the Art-Deco Theatre Lobby scene. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: The framing on a 85mm look holds Aira — she dead-centre, turned a few degrees off-axis but eyes direct to lens for her spoken line. She reads front to the lens within the Art-Deco Theatre Lobby scene. Her pose reads: gaze drawn to her hands then lifting, intent and soft; head tilting into the gesture; the working shoulder rising as the hands engage, the other settling; both hands caught mid wearing-action, fingers precise and articulate; torso poised and inclined a touch toward the action; waist long with a soft lean; the legs steady beneath her, one bearing a touch more weight; weight settled evenly with a gentle hip set; hair framing the lifted face. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 
 VIDEO PROMPT (VEO 3.1 · 9:16 · 6.0s · 24fps):
@@ -573,7 +573,7 @@ Atmosphere: radiant, awe-scale, fine gold dust. Color grade saturated champagne-
 lacquer black. Textures: faceted crystal, brushed brass, satin, beadwork. Continuity-
 locks identical. Negative: STD-NEG; plus no chaotic mess (geometry must read ordered and
 deco), no barefoot, no flat light.
-SUBJECT FRAMING & POSITION: A medium-wide framing on a 24mm look holds Aira — she raises one gloved arm, the ENTIRE lobby unbuilds itself into light — the crystal chandelier detonates in smooth real-time. She reads front to the lens within the Art-Deco Theatre Lobby scene. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A medium-wide framing on a 24mm look holds Aira — she raises one gloved arm, the ENTIRE lobby unbuilds itself into light — the crystal chandelier detonates in smooth real-time. She reads front to the lens within the Art-Deco Theatre Lobby scene. Her pose reads: gaze travelling ahead toward her next mark, alert and easy; head carried level on a long neck; the shoulders relaxed and alternating with the walk; the forward arm swinging up gently as the other draws back, fingers easy; torso upright and gliding over the legs; waist loose and counter-rotating with the steps; the planting foot meeting the ground heel-first while the rear toe lifts to swing through; weight flowing foot to foot with grounded, gliding steps; hair lifting and resettling with each pace. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 
 VIDEO PROMPT (VEO 3.1 · 9:16 · 6.0s · 24fps):
@@ -620,7 +620,7 @@ Lighting warm chandelier key from above, brass bounce, oxblood fill. Atmosphere 
 Color grade champagne-and-oxblood. Textures: cascading satin, brass newel, beadwork.
 Continuity-locks identical. Negative: STD-NEG; plus no barefoot, no gown clipping steps,
 no asymmetry.
-SUBJECT FRAMING & POSITION: A cowboy framing on a 35mm look holds Aira — she at the top landing, the champagne gown cascading down the steps below her like a river of light. She reads front to the lens within the Art-Deco Theatre Lobby scene. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A cowboy framing on a 35mm look holds Aira — she at the top landing, the champagne gown cascading down the steps below her like a river of light. She reads front to the lens within the Art-Deco Theatre Lobby scene. Her pose reads: gaze set along her path, calm and purposeful; head balanced and level into the travel; one shoulder easing forward as the opposite arm counter-swings, hands loose; torso lifted and moving forward through the step; waist turning softly with the gait; the lead foot rolling onto the ground as the trailing foot pushes off behind; weight transferring smoothly forward, soles in real contact; hair and hem trailing the stride. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 
 VIDEO PROMPT (VEO 3.1 · 9:16 · 6.0s · 24fps):
@@ -655,7 +655,7 @@ Lighting warm key with crystal catch-lights. Atmosphere glam glow. Color grade c
 and-oxblood. Textures: lip sheen, faceted crystal, skin realism, hair gloss. Continuity-
 locks identical. Negative: STD-NEG; plus no plastic skin, no warped earring, no barefoot
 reference.
-SUBJECT FRAMING & POSITION: A extreme close-up framing on a 100mm look holds Aira — she 's oxblood lip and one chandelier-drop earring against a field of crystal bokeh. She reads front to the lens within the Art-Deco Theatre Lobby scene. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A extreme close-up framing on a 100mm look holds Aira — she 's oxblood lip and one chandelier-drop earring against a field of crystal bokeh. She reads front to the lens within the Art-Deco Theatre Lobby scene. Her pose reads: gaze lifting up after the release, eyes wide and delighted; head tipping back with the upward motion; both shoulders driving up and open; both arms extending upward and out in the throw, fingers releasing and spread; torso arching back through the launch; waist opening with the upward drive; both legs planted and driving up from the ground, knees springing; weight driving up through planted feet; hair and fabric lifting on the upward burst. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 
 VIDEO PROMPT (VEO 3.1 · 9:16 · 6.0s · 24fps):
@@ -717,7 +717,7 @@ honey. Textures: slubby linen weave, suede nap, straw basket, lavender florets, 
 Continuity-locks: buttercream linen dress + sage cardigan, tan suede ankle boots, round
 tortoise sunglasses in hair, straw basket with lavender, gold arm-cuff, loose honey hair,
 peach makeup. Negative: STD-NEG; plus no barefoot, no winter light, no flattened sun.
-SUBJECT FRAMING & POSITION: A wide framing on a 28mm look holds Aira — she is mid-stride, weight rolling onto the front boot, the skirt and cardigan trailing a beat behind, head turning to look down the row. She reads front to the lens within the Provence Lavender Field At Dusk scene. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A wide framing on a 28mm look holds Aira — she is mid-stride, weight rolling onto the front boot, the skirt and cardigan trailing a beat behind, head turning to look down the row. She reads front to the lens within the Provence Lavender Field At Dusk scene. Her pose reads: gaze level and assured to the lens, composed; head balanced and tall; both shoulders open, level and relaxed; the arms easy at her sides, hands relaxed and open; torso tall and lifted, open to camera; waist long with a soft hip counter-tilt; both legs grounded and even, one taking a touch more weight; weight settled and balanced over both feet in true ground contact; hair settling around her. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 
 VIDEO PROMPT (VEO 3.1 · 9:16 · 6.0s · 24fps):
@@ -760,7 +760,7 @@ so she and the cut sprig are crisp and the rows melt into a purple wash. Lightin
 key, golden rim, lavender fill. Atmosphere pollen drift. Color grade lavender-and-honey.
 Textures: brass shears, cut-stem fibre, linen, suede, straw. Continuity-locks identical.
 Negative: STD-NEG; plus no barefoot, no warped shears/hands, no flat light.
-SUBJECT FRAMING & POSITION: A wide framing on a 50mm look holds Aira — she bent slightly into a row. She reads at a three-quarter to the lens within the Provence Lavender Field At Dusk scene. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A wide framing on a 50mm look holds Aira — she bent slightly into a row. She reads at a three-quarter to the lens within the Provence Lavender Field At Dusk scene. Her pose reads: gaze easing toward the lens or her task, soft and composed; head level with a gentle tilt; the shoulders relaxed and open; one arm resting or working at the task while the other settles, hands articulate; torso poised and lengthened over the seat; waist long with a gentle lean; the legs folded or crossed at the seat, one knee leading; weight settled into the seat and the grounded foot; hair falling naturally with the seated poise. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 
 VIDEO PROMPT (VEO 3.1 · 9:16 · 6.0s · 24fps):
@@ -797,7 +797,7 @@ the sharp plane, lavender sprigs soft in the foreground. Lighting warm beauty ke
 the low sun, golden hair rim, a catch-light in each eye. Atmosphere pollen sparkle. Color
 grade lavender-honey-warm. Textures: lavender florets, linen, skin glow, hair. Continuity-
 locks identical. Negative: STD-NEG; plus no gaze-drift, no lip-shape mismatch, no barefoot.
-SUBJECT FRAMING & POSITION: A medium framing on a 85mm look holds Aira — she three-quarter toward lens, the lavender bundle now held to her chest, eyes lifting to camera for her spoken line. She reads at a three-quarter to the lens within the Provence Lavender Field At Dusk scene. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A medium framing on a 85mm look holds Aira — she three-quarter toward lens, the lavender bundle now held to her chest, eyes lifting to camera for her spoken line. She reads at a three-quarter to the lens within the Provence Lavender Field At Dusk scene. Her pose reads: gaze calm and present, taking in the scene; head balanced with a soft tilt; the shoulders open and dropped, unhurried; one hand resting easy while the other hangs relaxed, fingers soft; torso lifted and quietly poised; waist long with a light contrapposto; one leg taking the weight as the other eases, knee soft; weight settled into the standing leg with real ground contact; hair resting against her shoulders. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 
 VIDEO PROMPT (VEO 3.1 · 9:16 · 6.0s · 24fps):
@@ -843,7 +843,7 @@ Color grade saturated lavender-purple against rose-gold sky. Textures: millions 
 lavender florets in motion, glowing pollen, linen, soil. Continuity-locks identical.
 Negative: STD-NEG; plus no barefoot, no chaotic blur (helix must read ordered), no flat
 sky.
-SUBJECT FRAMING & POSITION: A wide framing on a 24mm look holds Aira — she stands tiny but serene at the calm bare-earth eye of the vortex. She reads front to the lens within the Provence Lavender Field At Dusk scene. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A wide framing on a 24mm look holds Aira — she stands tiny but serene at the calm bare-earth eye of the vortex. She reads front to the lens within the Provence Lavender Field At Dusk scene. Her pose reads: gaze carried ahead in her direction of travel, chin level and assured; head leading the line of the walk; the shoulders swinging in easy opposition to the stride; the leading arm easing forward while the trailing arm swings back, hands relaxed and open; torso tall and carried forward over the steps; waist rotating gently with each stride; the front leg reaching to plant heel-first while the rear leg drives off the toe; weight rolling heel-to-toe from foot to foot in true ground contact; hair and fabric lifting a beat behind the motion. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 
 VIDEO PROMPT (VEO 3.1 · 9:16 · 6.0s · 24fps):
@@ -889,7 +889,7 @@ her whole silhouette, lavender fill. Atmosphere dusk haze, settling pollen. Colo
 lavender-and-honey deepening toward rose. Textures: streaming linen, suede, straw,
 lavender. Continuity-locks identical. Negative: STD-NEG; plus no barefoot, no frozen
 fabric, no flat light.
-SUBJECT FRAMING & POSITION: A full-length framing on a 35mm look holds Aira — she is walking on as the field has gently settled back to earth behind her (post-impossible-move), the rows whole again in the last light. She reads in profile to the lens within the Provence Lavender Field At Dusk scene. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A full-length framing on a 35mm look holds Aira — she is walking on as the field has gently settled back to earth behind her (post-impossible-move), the rows whole again in the last light. She reads in profile to the lens within the Provence Lavender Field At Dusk scene. Her pose reads: gaze travelling ahead toward her next mark, alert and easy; head carried level on a long neck; the shoulders relaxed and alternating with the walk; the forward arm swinging up gently as the other draws back, fingers easy; torso upright and gliding over the legs; waist loose and counter-rotating with the steps; the planting foot meeting the ground heel-first while the rear toe lifts to swing through; weight flowing foot to foot with grounded, gliding steps; hair lifting and resettling with each pace. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 
 VIDEO PROMPT (VEO 3.1 · 9:16 · 6.0s · 24fps):
@@ -923,7 +923,7 @@ field melted to lavender-gold bokeh and the lavender sprig soft-near. Lighting w
 sun key with a golden catch-light in each eye. Atmosphere pollen sparkle. Color grade
 lavender-honey-warm. Textures: iris detail, lavender florets, skin glow, hair. Continuity-
 locks identical. Negative: STD-NEG; plus no warped eye, no plastic skin, no barefoot ref.
-SUBJECT FRAMING & POSITION: A extreme close-up framing on a 100mm look holds Aira — she 's eyes above a sprig of lavender lifted to just below her lips, the low sun sparking gold in her irises. She reads front to the lens within the Provence Lavender Field At Dusk scene. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A extreme close-up framing on a 100mm look holds Aira — she 's eyes above a sprig of lavender lifted to just below her lips, the low sun sparking gold in her irises. She reads front to the lens within the Provence Lavender Field At Dusk scene. Her pose reads: gaze steady to camera with quiet confidence; head level and poised; the shoulders squared and easy; both arms relaxed at her sides, fingers soft; torso tall and open, breath lifting the chest; waist long, hips set with a gentle counter-tilt; the legs planted even, one knee soft; weight grounded and balanced across both feet; hair falling naturally at rest. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 
 VIDEO PROMPT (VEO 3.1 · 9:16 · 6.0s · 24fps):
@@ -988,7 +988,7 @@ tarmac, chrome jewelry, wind-lifted hair. Continuity-locks: liquid-silver gown w
 + structured shoulder, metallic silver stilettos, black wraparound shades, diamond wrist
 cuff, chrome ear-studs, swept hair, satin-red lip, chrome nails. Negative: STD-NEG; plus
 no barefoot, no daylight, no flat skyline.
-SUBJECT FRAMING & POSITION: A wide framing on a 24mm look holds Aira — she stands in a commanding contrapposto, one hand on her hip, chin level, the train streaming to one side in the rooftop wind. She reads front to the lens within the Rooftop Helipad City-Lights Night scene. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A wide framing on a 24mm look holds Aira — she stands in a commanding contrapposto, one hand on her hip, chin level, the train streaming to one side in the rooftop wind. She reads front to the lens within the Rooftop Helipad City-Lights Night scene. Her pose reads: gaze level and assured to the lens, composed; head balanced and tall; both shoulders open, level and relaxed; the arms easy at her sides, hands relaxed and open; torso tall and lifted, open to camera; waist long with a soft hip counter-tilt; both legs grounded and even, one taking a touch more weight; weight settled and balanced over both feet in true ground contact; hair settling around her. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 
 VIDEO PROMPT (VEO 3.1 · 9:16 · 6.0s · 24fps):
@@ -1030,7 +1030,7 @@ luminous bokeh. Lighting cool moon key, amber under-glow, neon rim. Atmosphere a
 haze. Color grade midnight-and-amber with neon. Textures: liquid-metal drape, painted
 edge-line, chrome. Continuity-locks identical. Negative: STD-NEG; plus no barefoot, no
 vertigo distortion of her body, no flat light.
-SUBJECT FRAMING & POSITION: A medium framing on a 40mm look holds Aira — she is walking the glowing rim of the helipad, one hand lifting the metallic train clear of her stilettos. She reads at a three-quarter to the lens within the Rooftop Helipad City-Lights Night scene. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A medium framing on a 40mm look holds Aira — she is walking the glowing rim of the helipad, one hand lifting the metallic train clear of her stilettos. She reads at a three-quarter to the lens within the Rooftop Helipad City-Lights Night scene. Her pose reads: gaze following the wearing-action with quiet focus; head inclined toward her hands; one shoulder easing in as the arms work, the other relaxed; both hands articulate in the precise gesture, fingers unwarped; torso lengthened and softly leaning into the action; waist easy with a slight tilt; the legs grounded and even, one knee soft; weight balanced with a gentle counter-tilt; hair settling beside the working hands. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 
 VIDEO PROMPT (VEO 3.1 · 9:16 · 6.0s · 24fps):
@@ -1068,7 +1068,7 @@ under-glow on her jaw and neck, neon rim on her hair, a catch-light in each eye.
 Atmosphere altitude haze. Color grade midnight-amber-neon. Textures: liquid-metal fabric,
 skin luminosity, lip texture, chrome. Continuity-locks identical (shades now in hand).
 Negative: STD-NEG; plus no gaze-drift, no lip mismatch, no barefoot.
-SUBJECT FRAMING & POSITION: A medium framing on a 85mm look holds Aira — she three-quarter to lens, the shades now lowered in one hand so her eyes meet camera for the spoken line, the skyline glittering behind. She reads at a three-quarter to the lens within the Rooftop Helipad City-Lights Night scene. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A medium framing on a 85mm look holds Aira — she three-quarter to lens, the shades now lowered in one hand so her eyes meet camera for the spoken line, the skyline glittering behind. She reads at a three-quarter to the lens within the Rooftop Helipad City-Lights Night scene. Her pose reads: gaze drawn to her hands then lifting, intent and soft; head tilting into the gesture; the working shoulder rising as the hands engage, the other settling; both hands caught mid wearing-action, fingers precise and articulate; torso poised and inclined a touch toward the action; waist long with a soft lean; the legs steady beneath her, one bearing a touch more weight; weight settled evenly with a gentle hip set; hair framing the lifted face. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 
 VIDEO PROMPT (VEO 3.1 · 9:16 · 6.0s · 24fps):
@@ -1106,7 +1106,7 @@ a 35mm look, medium depth, she crisp and the city soft. Lighting cool moon rim a
 profile, amber under-glow, neon accent on the train. Atmosphere altitude haze. Color grade
 midnight-amber-neon. Textures: liquid-metal banner-train, chrome, wind hair. Continuity-
 locks identical. Negative: STD-NEG; plus no barefoot, no frozen fabric, no flat light.
-SUBJECT FRAMING & POSITION: A full-length framing on a 35mm look holds Aira — she braced gracefully against the rooftop wind, the metallic train blown into a long horizontal banner of liquid light behind her. She reads front to the lens within the Rooftop Helipad City-Lights Night scene. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A full-length framing on a 35mm look holds Aira — she braced gracefully against the rooftop wind, the metallic train blown into a long horizontal banner of liquid light behind her. She reads front to the lens within the Rooftop Helipad City-Lights Night scene. Her pose reads: gaze following the wearing-action with quiet focus; head inclined toward her hands; one shoulder easing in as the arms work, the other relaxed; both hands articulate in the precise gesture, fingers unwarped; torso lengthened and softly leaning into the action; waist easy with a slight tilt; the legs grounded and even, one knee soft; weight balanced with a gentle counter-tilt; hair settling beside the working hands. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 
 VIDEO PROMPT (VEO 3.1 · 9:16 · 6.0s · 24fps):
@@ -1150,7 +1150,7 @@ Atmosphere: epic, electric, fine light-motes raining. Color grade saturated ambe
 magenta against black sky and a blacked-out city. Textures: braided light-ribbons,
 liquid metal, chrome. Continuity-locks identical. Negative: STD-NEG; plus no barefoot, no
 chaotic tangle (ribbons must read as ordered couture), no flat black, no clipping.
-SUBJECT FRAMING & POSITION: A wide framing on a 24mm look holds Aira — she is the still bright centre; ribbons corkscrew up from the darkened city with vast believable depth, the light-gown towering above and trailing into the distance. She reads front to the lens within the Rooftop Helipad City-Lights Night scene. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A wide framing on a 24mm look holds Aira — she is the still bright centre; ribbons corkscrew up from the darkened city with vast believable depth, the light-gown towering above and trailing into the distance. She reads front to the lens within the Rooftop Helipad City-Lights Night scene. Her pose reads: gaze calm and present, taking in the scene; head balanced with a soft tilt; the shoulders open and dropped, unhurried; one hand resting easy while the other hangs relaxed, fingers soft; torso lifted and quietly poised; waist long with a light contrapposto; one leg taking the weight as the other eases, knee soft; weight settled into the standing leg with real ground contact; hair resting against her shoulders. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 
 VIDEO PROMPT (VEO 3.1 · 9:16 · 6.0s · 24fps):
@@ -1195,7 +1195,7 @@ under-glow returning, neon rim, faint fading light-ribbon glow on her shoulders.
 Atmosphere altitude haze. Color grade midnight-amber-neon. Textures: liquid metal,
 dissolving light, chrome. Continuity-locks identical. Negative: STD-NEG; plus no barefoot,
 no frozen ribbons, no flat light.
-SUBJECT FRAMING & POSITION: A cowboy framing on a 35mm look holds Aira — she as the light-gown gently dissolves and the city's glow sinks back into the skyline below (post-impossible-move). She reads front to the lens within the Rooftop Helipad City-Lights Night scene. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A cowboy framing on a 35mm look holds Aira — she as the light-gown gently dissolves and the city's glow sinks back into the skyline below (post-impossible-move). She reads front to the lens within the Rooftop Helipad City-Lights Night scene. Her pose reads: gaze drawn to her hands then lifting, intent and soft; head tilting into the gesture; the working shoulder rising as the hands engage, the other settling; both hands caught mid wearing-action, fingers precise and articulate; torso poised and inclined a touch toward the action; waist long with a soft lean; the legs steady beneath her, one bearing a touch more weight; weight settled evenly with a gentle hip set; hair framing the lifted face. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 
 VIDEO PROMPT (VEO 3.1 · 9:16 · 6.0s · 24fps):
@@ -1230,7 +1230,7 @@ melted to pure bokeh. Lighting cool moon key with warm amber under-glow and city
 lights in the irises. Atmosphere altitude shimmer. Color grade midnight-amber-neon.
 Textures: iris detail, lip sheen, chrome, skin. Continuity-locks identical. Negative:
 STD-NEG; plus no warped eye, no plastic skin, no barefoot reference.
-SUBJECT FRAMING & POSITION: A extreme close-up framing on a 100mm look holds Aira — she 's eyes and the satin-red lip against a field of glittering city-light bokeh. She reads front to the lens within the Rooftop Helipad City-Lights Night scene. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A extreme close-up framing on a 100mm look holds Aira — she 's eyes and the satin-red lip against a field of glittering city-light bokeh. She reads front to the lens within the Rooftop Helipad City-Lights Night scene. Her pose reads: gaze lifting up after the release, eyes wide and delighted; head tipping back with the upward motion; both shoulders driving up and open; both arms extending upward and out in the throw, fingers releasing and spread; torso arching back through the launch; waist opening with the upward drive; both legs planted and driving up from the ground, knees springing; weight driving up through planted feet; hair and fabric lifting on the upward burst. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 
 VIDEO PROMPT (VEO 3.1 · 9:16 · 6.0s · 24fps):
@@ -1291,7 +1291,7 @@ Textures: bamboo cane ridges, moss, washed linen-silk, stone, jade. Continuity-l
 ivory-jade wrap dress + obi sash, split-toe tabi sandals + tabi socks, jade hairpin chignon,
 jade bangle, clean rose makeup. Negative: STD-NEG; plus no shoes other than tabi, no harsh
 sun, no flat mist.
-SUBJECT FRAMING & POSITION: A wide framing on a 24mm look holds Aira — she stands in calm readiness, weight even, one tabi sandal a half-step forward onto the next stone, head slightly bowed in a meditative beginning. She reads front to the lens within the Bamboo Forest Zen Path scene. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A wide framing on a 24mm look holds Aira — she stands in calm readiness, weight even, one tabi sandal a half-step forward onto the next stone, head slightly bowed in a meditative beginning. She reads front to the lens within the Bamboo Forest Zen Path scene. Her pose reads: gaze steady to camera with quiet confidence; head level and poised; the shoulders squared and easy; both arms relaxed at her sides, fingers soft; torso tall and open, breath lifting the chest; waist long, hips set with a gentle counter-tilt; the legs planted even, one knee soft; weight grounded and balanced across both feet; hair falling naturally at rest. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 
 VIDEO PROMPT (VEO 3.1 · 9:16 · 6.0s · 24fps):
@@ -1333,7 +1333,7 @@ melts to green mist. Lighting cool mist key, a warm gold shaft grazing her face 
 cane. Atmosphere drifting mist and spores. Color grade jade-and-gold. Textures: bamboo
 ridges and nodes, linen-silk, jade, moss. Continuity-locks identical. Negative: STD-NEG;
 plus no non-tabi shoes, no warped hand, no flat light.
-SUBJECT FRAMING & POSITION: A medium framing on a 50mm look holds Aira — she is pausing to rest one hand flat against a thick bamboo cane, head turned to look up its soaring height. She reads at a three-quarter to the lens within the Bamboo Forest Zen Path scene. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A medium framing on a 50mm look holds Aira — she is pausing to rest one hand flat against a thick bamboo cane, head turned to look up its soaring height. She reads at a three-quarter to the lens within the Bamboo Forest Zen Path scene. Her pose reads: gaze following the wearing-action with quiet focus; head inclined toward her hands; one shoulder easing in as the arms work, the other relaxed; both hands articulate in the precise gesture, fingers unwarped; torso lengthened and softly leaning into the action; waist easy with a slight tilt; the legs grounded and even, one knee soft; weight balanced with a gentle counter-tilt; hair settling beside the working hands. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 
 VIDEO PROMPT (VEO 3.1 · 9:16 · 6.0s · 24fps):
@@ -1369,7 +1369,7 @@ along her profile, warm gold fill from the shafts. Atmosphere mist and falling l
 Color grade jade-and-gold. Textures: flowing linen-silk, moss-stone, bamboo, jade.
 Continuity-locks identical. Negative: STD-NEG; plus no non-tabi shoes, no frozen fabric,
 no flat light.
-SUBJECT FRAMING & POSITION: A full-length framing on a 35mm look holds Aira — she mid-flow along the path, one arm sweeping gracefully out in a slow tai-chi-like gesture, the wrap-dress hem and sleeve trailing. She reads in profile to the lens within the Bamboo Forest Zen Path scene. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A full-length framing on a 35mm look holds Aira — she mid-flow along the path, one arm sweeping gracefully out in a slow tai-chi-like gesture, the wrap-dress hem and sleeve trailing. She reads in profile to the lens within the Bamboo Forest Zen Path scene. Her pose reads: gaze drawn to her hands then lifting, intent and soft; head tilting into the gesture; the working shoulder rising as the hands engage, the other settling; both hands caught mid wearing-action, fingers precise and articulate; torso poised and inclined a touch toward the action; waist long with a soft lean; the legs steady beneath her, one bearing a touch more weight; weight settled evenly with a gentle hip set; hair framing the lifted face. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 
 VIDEO PROMPT (VEO 3.1 · 9:16 · 6.0s · 24fps):
@@ -1411,7 +1411,7 @@ Atmosphere: epic, mythic, swirling leaves and spores. Color grade saturated jade
 gold over misty white. Textures: thousands of individual leaves, bamboo, linen-silk, moss.
 Continuity-locks identical. Negative: STD-NEG; plus no non-tabi shoes, no chaotic swarm
 (dragon must read ordered and elegant), no horror tone, no clipping through her.
-SUBJECT FRAMING & POSITION: A wide framing on a 24mm look holds Aira — she The scaled-up signature frame: every falling bamboo leaf in the entire grove has frozen in mid-air. She reads front to the lens within the Bamboo Forest Zen Path scene. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A wide framing on a 24mm look holds Aira — she The scaled-up signature frame: every falling bamboo leaf in the entire grove has frozen in mid-air. She reads front to the lens within the Bamboo Forest Zen Path scene. Her pose reads: gaze level and assured to the lens, composed; head balanced and tall; both shoulders open, level and relaxed; the arms easy at her sides, hands relaxed and open; torso tall and lifted, open to camera; waist long with a soft hip counter-tilt; both legs grounded and even, one taking a touch more weight; weight settled and balanced over both feet in true ground contact; hair settling around her. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 
 VIDEO PROMPT (VEO 3.1 · 9:16 · 6.0s · 24fps):
@@ -1456,7 +1456,7 @@ leaf the sharp plane. Lighting warm gold shaft key on palm and face, cool mist r
 Atmosphere drifting mist and a few last leaves. Color grade jade-and-gold. Textures: leaf
 veins, skin, linen-silk, jade. Continuity-locks identical. Negative: STD-NEG; plus no
 non-tabi shoes in reflection, no warped hand, no plastic skin.
-SUBJECT FRAMING & POSITION: A medium framing on a 85mm look holds Aira — she is holding out one open palm as a single jade-gold leaf settles onto it (the dragon's last leaf). She reads at a three-quarter to the lens within the Bamboo Forest Zen Path scene. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A medium framing on a 85mm look holds Aira — she is holding out one open palm as a single jade-gold leaf settles onto it (the dragon's last leaf). She reads at a three-quarter to the lens within the Bamboo Forest Zen Path scene. Her pose reads: gaze calm and present, taking in the scene; head balanced with a soft tilt; the shoulders open and dropped, unhurried; one hand resting easy while the other hangs relaxed, fingers soft; torso lifted and quietly poised; waist long with a light contrapposto; one leg taking the weight as the other eases, knee soft; weight settled into the standing leg with real ground contact; hair resting against her shoulders. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 
 VIDEO PROMPT (VEO 3.1 · 9:16 · 6.0s · 24fps):
@@ -1491,7 +1491,7 @@ warm gold shafts, a soft rim on her receding figure. Atmosphere thick mist, a fe
 leaves. Color grade jade-and-gold deepening into green. Textures: bamboo, moss-stone,
 linen-silk, mist. Continuity-locks identical. Negative: STD-NEG; plus no non-tabi shoes,
 no flat light, no teleport.
-SUBJECT FRAMING & POSITION: A wide framing on a 28mm look holds Aira — she is walking on down the stone path deeper into the misty grove, growing smaller as the bamboo and gold shafts close around her. She reads front to the lens within the Bamboo Forest Zen Path scene. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A wide framing on a 28mm look holds Aira — she is walking on down the stone path deeper into the misty grove, growing smaller as the bamboo and gold shafts close around her. She reads front to the lens within the Bamboo Forest Zen Path scene. Her pose reads: gaze set along her path, calm and purposeful; head balanced and level into the travel; one shoulder easing forward as the opposite arm counter-swings, hands loose; torso lifted and moving forward through the step; waist turning softly with the gait; the lead foot rolling onto the ground as the trailing foot pushes off behind; weight transferring smoothly forward, soles in real contact; hair and hem trailing the stride. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 
 VIDEO PROMPT (VEO 3.1 · 9:16 · 6.0s · 24fps):
@@ -1556,7 +1556,7 @@ drape, rippling water, weathered palazzo plaster, gold mules. Continuity-locks: 
 silk dress + gold-thread shawl, antique-gold block-heel mules, vintage round sunglasses in
 hair, pearl-drop earrings, gold ring-stack, loose dawn hair, coral makeup. Negative:
 STD-NEG; plus no barefoot, no modern boats, no flat noon light.
-SUBJECT FRAMING & POSITION: A wide framing on a 24mm look holds Aira — she reclines elegantly in the cushioned seat of a black lacquer gondola gliding into a narrow Venetian canal lined with pastel ochre-and-rose palazzos. She reads front to the lens within the Venetian Canal Gondola Glide scene. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A wide framing on a 24mm look holds Aira — she reclines elegantly in the cushioned seat of a black lacquer gondola gliding into a narrow Venetian canal lined with pastel ochre-and-rose palazzos. She reads front to the lens within the Venetian Canal Gondola Glide scene. Her pose reads: gaze steady to camera with quiet confidence; head level and poised; the shoulders squared and easy; both arms relaxed at her sides, fingers soft; torso tall and open, breath lifting the chest; waist long, hips set with a gentle counter-tilt; the legs planted even, one knee soft; weight grounded and balanced across both feet; hair falling naturally at rest. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 
 VIDEO PROMPT (VEO 3.1 · 9:16 · 6.0s · 24fps):
@@ -1598,7 +1598,7 @@ palazzos melt to pastel bokeh. Lighting warm dawn key, water bounce on her face,
 shadow behind. Atmosphere canal mist, gold sparkle. Color grade aqua-and-ochre with gold.
 Textures: rippling water, silk cowl, pearl drops, lacquer hull. Continuity-locks identical.
 Negative: STD-NEG; plus no barefoot, no warped hand, no flat light.
-SUBJECT FRAMING & POSITION: A medium framing on a 50mm look holds Aira — she is leaning over the gondola's edge, watching her fingers cut a ripple through the gold-lit water. She reads at a three-quarter to the lens within the Venetian Canal Gondola Glide scene. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A medium framing on a 50mm look holds Aira — she is leaning over the gondola's edge, watching her fingers cut a ripple through the gold-lit water. She reads at a three-quarter to the lens within the Venetian Canal Gondola Glide scene. Her pose reads: gaze following the wearing-action with quiet focus; head inclined toward her hands; one shoulder easing in as the arms work, the other relaxed; both hands articulate in the precise gesture, fingers unwarped; torso lengthened and softly leaning into the action; waist easy with a slight tilt; the legs grounded and even, one knee soft; weight balanced with a gentle counter-tilt; hair settling beside the working hands. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 
 VIDEO PROMPT (VEO 3.1 · 9:16 · 6.0s · 24fps):
@@ -1635,7 +1635,7 @@ beauty key, soft water-bounce dapple, a catch-light in each eye. Atmosphere cana
 sparkle. Color grade aqua-ochre-gold. Textures: silk shawl, pearl drops, luminous skin,
 lip texture. Continuity-locks identical. Negative: STD-NEG; plus no gaze-drift, no lip
 mismatch, no barefoot.
-SUBJECT FRAMING & POSITION: A medium framing on a 85mm look holds Aira — she three-quarter to lens as she settles back against the gondola cushion, eyes lifting to camera for the spoken line. She reads at a three-quarter to the lens within the Venetian Canal Gondola Glide scene. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A medium framing on a 85mm look holds Aira — she three-quarter to lens as she settles back against the gondola cushion, eyes lifting to camera for the spoken line. She reads at a three-quarter to the lens within the Venetian Canal Gondola Glide scene. Her pose reads: gaze drawn to her hands then lifting, intent and soft; head tilting into the gesture; the working shoulder rising as the hands engage, the other settling; both hands caught mid wearing-action, fingers precise and articulate; torso poised and inclined a touch toward the action; waist long with a soft lean; the legs steady beneath her, one bearing a touch more weight; weight settled evenly with a gentle hip set; hair framing the lifted face. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 
 VIDEO PROMPT (VEO 3.1 · 9:16 · 6.0s · 24fps):
@@ -1681,7 +1681,7 @@ Color grade saturated aqua-teal and antique gold. Textures: liquid-glass water w
 suspended fish and light, silk, lacquer hull. Continuity-locks identical. Negative:
 STD-NEG; plus no barefoot, no chaotic flood (water must read as ordered architecture), no
 gondola swamping, no clipping through her.
-SUBJECT FRAMING & POSITION: A wide framing on a 24mm look holds Aira — she The scaled-up signature frame: the entire canal has lifted off its bed in smooth real-time and reared up into towering vertical walls and arches of LIQUID GLASS-WATER on. She reads front to the lens within the Venetian Canal Gondola Glide scene. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A wide framing on a 24mm look holds Aira — she The scaled-up signature frame: the entire canal has lifted off its bed in smooth real-time and reared up into towering vertical walls and arches of LIQUID GLASS-WATER on. She reads front to the lens within the Venetian Canal Gondola Glide scene. Her pose reads: gaze level and assured to the lens, composed; head balanced and tall; both shoulders open, level and relaxed; the arms easy at her sides, hands relaxed and open; torso tall and lifted, open to camera; waist long with a soft hip counter-tilt; both legs grounded and even, one taking a touch more weight; weight settled and balanced over both feet in true ground contact; hair settling around her. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 
 VIDEO PROMPT (VEO 3.1 · 9:16 · 6.0s · 24fps):
@@ -1727,7 +1727,7 @@ Lighting warm dawn shaft through the arch onto her, cool stone shadow. Atmospher
 mist, gold sparkle. Color grade aqua-ochre-gold. Textures: silk, lacquer, stone arch,
 water. Continuity-locks identical. Negative: STD-NEG; plus no barefoot, no frozen water,
 no flat light.
-SUBJECT FRAMING & POSITION: A full-length framing on a 35mm look holds Aira — she A full-length high three-quarter shot looks down as the gondola glides under an arched stone bridge, the canal settled back to normal (post-impossible-move). She reads at a three-quarter to the lens within the Venetian Canal Gondola Glide scene. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A full-length framing on a 35mm look holds Aira — she A full-length high three-quarter shot looks down as the gondola glides under an arched stone bridge, the canal settled back to normal (post-impossible-move). She reads at a three-quarter to the lens within the Venetian Canal Gondola Glide scene. Her pose reads: gaze level along her line through the water, serene; head leading the slow glide; the shoulders easing forward into the wade; both arms fanning out and trailing through the water for balance, fingers relaxed; torso leading gently forward through the surface; waist long, hips easing forward; the front leg wading ahead while the rear trails; weight transferring slowly forward through the submerged footing; hair and fabric drifting with the water's drag. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 
 VIDEO PROMPT (VEO 3.1 · 9:16 · 6.0s · 24fps):
@@ -1762,7 +1762,7 @@ aqua-gold bokeh. Lighting warm dawn key with dancing water-caustics as a moving 
 a catch-light in each eye. Atmosphere canal sparkle. Color grade aqua-ochre-gold. Textures:
 iris detail, pearl sheen, skin, hair. Continuity-locks identical. Negative: STD-NEG; plus
 no warped eye, no plastic skin, no barefoot reference.
-SUBJECT FRAMING & POSITION: A extreme close-up framing on a 100mm look holds Aira — she 's eyes and one swinging pearl-drop earring with canal water-light dancing across her skin. She reads front to the lens within the Venetian Canal Gondola Glide scene. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A extreme close-up framing on a 100mm look holds Aira — she 's eyes and one swinging pearl-drop earring with canal water-light dancing across her skin. She reads front to the lens within the Venetian Canal Gondola Glide scene. Her pose reads: gaze level along her line through the water, serene; head leading the slow glide; the shoulders easing forward into the wade; both arms fanning out and trailing through the water for balance, fingers relaxed; torso leading gently forward through the surface; waist long, hips easing forward; the front leg wading ahead while the rear trails; weight transferring slowly forward through the submerged footing; hair and fabric drifting with the water's drag. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 
 VIDEO PROMPT (VEO 3.1 · 9:16 · 6.0s · 24fps):
@@ -1822,7 +1822,7 @@ sunflower petals and seed-disc, sap-green stalks and leaves, cotton sundress, ca
 sneakers. Continuity-locks: buttercup smocked sundress, white canvas sneakers, amber
 oversized sunglasses in hair, enamel-daisy bracelet, gold studs, beachy hair, sun-kissed
 makeup. Negative: STD-NEG; plus no other footwear, no overcast sky, no wilted blooms.
-SUBJECT FRAMING & POSITION: A wide framing on a 24mm look holds Aira — she stands with open delight, one hand brushing a sunflower face, chin lifted to the sun, weight easy. She reads front to the lens within the Golden Sunflower Field scene. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A wide framing on a 24mm look holds Aira — she stands with open delight, one hand brushing a sunflower face, chin lifted to the sun, weight easy. She reads front to the lens within the Golden Sunflower Field scene. Her pose reads: gaze calm and present, taking in the scene; head balanced with a soft tilt; the shoulders open and dropped, unhurried; one hand resting easy while the other hangs relaxed, fingers soft; torso lifted and quietly poised; waist long with a light contrapposto; one leg taking the weight as the other eases, knee soft; weight settled into the standing leg with real ground contact; hair resting against her shoulders. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 
 VIDEO PROMPT (VEO 3.1 · 9:16 · 6.0s · 24fps):
@@ -1863,7 +1863,7 @@ Lighting bright sun key, warm petal-bounce on her face. Atmosphere pollen drift,
 shimmer. Color grade gold-and-cobalt. Textures: petal velvet, seed-disc, cotton, skin.
 Continuity-locks identical. Negative: STD-NEG; plus no other footwear, no warped hands, no
 overcast.
-SUBJECT FRAMING & POSITION: A medium framing on a 50mm look holds Aira — she is cupping a single huge sunflower face in both hands, leaning in to it with a soft smile. She reads at a three-quarter to the lens within the Golden Sunflower Field scene. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A medium framing on a 50mm look holds Aira — she is cupping a single huge sunflower face in both hands, leaning in to it with a soft smile. She reads at a three-quarter to the lens within the Golden Sunflower Field scene. Her pose reads: gaze out toward the view, reflective and calm; head tipped gently toward the gaze; the shoulders settling open and relaxed; one arm resting along the support while the other eases, hands soft; torso inclining gently into the lean; waist long with a soft side-tilt; the legs grounded with weight shared into the lean and the planted foot; weight eased between the support and her feet; hair settling with the quiet pose. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 
 VIDEO PROMPT (VEO 3.1 · 9:16 · 6.0s · 24fps):
@@ -1899,7 +1899,7 @@ bright backlit sun creating a glowing rim around her and the skirt, warm bounce.
 pollen, heat-shimmer. Color grade gold-and-cobalt. Textures: floating cotton, petals,
 stalks. Continuity-locks identical. Negative: STD-NEG; plus no other footwear, no frozen
 fabric, no overcast.
-SUBJECT FRAMING & POSITION: A full-length framing on a 35mm look holds Aira — she is walking away into the field with both arms spread wide, fingertips grazing the sunflower tops, face turned in profile to the sun. She reads in profile to the lens within the Golden Sunflower Field scene. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A full-length framing on a 35mm look holds Aira — she is walking away into the field with both arms spread wide, fingertips grazing the sunflower tops, face turned in profile to the sun. She reads in profile to the lens within the Golden Sunflower Field scene. Her pose reads: gaze carried ahead in her direction of travel, chin level and assured; head leading the line of the walk; the shoulders swinging in easy opposition to the stride; the leading arm easing forward while the trailing arm swings back, hands relaxed and open; torso tall and carried forward over the steps; waist rotating gently with each stride; the front leg reaching to plant heel-first while the rear leg drives off the toe; weight rolling heel-to-toe from foot to foot in true ground contact; hair and fabric lifting a beat behind the motion. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 
 VIDEO PROMPT (VEO 3.1 · 9:16 · 6.0s · 24fps):
@@ -1936,7 +1936,7 @@ sun-halo with a warm bounce fill on her face, flare blooming. Atmosphere pollen 
 Color grade warm gold with cobalt. Textures: amber lens, hair-halo, petals, skin.
 Continuity-locks identical (sunglasses now worn). Negative: STD-NEG; plus no other
 footwear, no blown-out face, no overcast.
-SUBJECT FRAMING & POSITION: A medium framing on a 85mm look holds Aira — she 's head so it haloes her hair. She reads front to the lens within the Golden Sunflower Field scene. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A medium framing on a 85mm look holds Aira — she 's head so it haloes her hair. She reads front to the lens within the Golden Sunflower Field scene. Her pose reads: gaze steady to camera with quiet confidence; head level and poised; the shoulders squared and easy; both arms relaxed at her sides, fingers soft; torso tall and open, breath lifting the chest; waist long, hips set with a gentle counter-tilt; the legs planted even, one knee soft; weight grounded and balanced across both feet; hair falling naturally at rest. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 
 VIDEO PROMPT (VEO 3.1 · 9:16 · 6.0s · 24fps):
@@ -1977,7 +1977,7 @@ swirling petals and pollen. Color grade saturated sunflower-gold against clean c
 Textures: thousands of petals and seed-discs, cotton, soil. Continuity-locks identical.
 Negative: STD-NEG; plus no other footwear, no chaotic storm (cyclone must read ordered and
 joyful), no horror tone, no clipping through her.
-SUBJECT FRAMING & POSITION: A wide framing on a 24mm look holds Aira — she stands radiant at the still centre, arms open and face lifted, buttercup skirt and hair lifting in the flower-wind, white sneakers planted in the soil. She reads front to the lens within the Golden Sunflower Field scene. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A wide framing on a 24mm look holds Aira — she stands radiant at the still centre, arms open and face lifted, buttercup skirt and hair lifting in the flower-wind, white sneakers planted in the soil. She reads front to the lens within the Golden Sunflower Field scene. Her pose reads: gaze level and assured to the lens, composed; head balanced and tall; both shoulders open, level and relaxed; the arms easy at her sides, hands relaxed and open; torso tall and lifted, open to camera; waist long with a soft hip counter-tilt; both legs grounded and even, one taking a touch more weight; weight settled and balanced over both feet in true ground contact; hair settling around her. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 
 VIDEO PROMPT (VEO 3.1 · 9:16 · 6.0s · 24fps):
@@ -2019,7 +2019,7 @@ streaking soft. Lighting warm sun key, petal-bounce, falling-petal sparkle. Atmo
 raining petals and pollen. Color grade gold-and-cobalt. Textures: petals, cotton, skin.
 Continuity-locks identical. Negative: STD-NEG; plus no other footwear, no flat light, no
 overcast.
-SUBJECT FRAMING & POSITION: A medium framing on a 50mm look holds Aira — she is laughing with her face turned up as the halo- crown gently releases and golden petals rain down around her. She reads at a three-quarter to the lens within the Golden Sunflower Field scene. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A medium framing on a 50mm look holds Aira — she is laughing with her face turned up as the halo- crown gently releases and golden petals rain down around her. She reads at a three-quarter to the lens within the Golden Sunflower Field scene. Her pose reads: gaze following the wearing-action with quiet focus; head inclined toward her hands; one shoulder easing in as the arms work, the other relaxed; both hands articulate in the precise gesture, fingers unwarped; torso lengthened and softly leaning into the action; waist easy with a slight tilt; the legs grounded and even, one knee soft; weight balanced with a gentle counter-tilt; hair settling beside the working hands. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 
 VIDEO PROMPT (VEO 3.1 · 9:16 · 6.0s · 24fps):
@@ -2053,7 +2053,7 @@ her within the vast gold field, petals settling, horizon glowing. Framing a high
 gold bounce, gentle flare. Atmosphere settling petals, pollen, heat-shimmer. Color grade
 gold-and-cobalt. Textures: field of blooms, cotton, soil. Continuity-locks identical.
 Negative: STD-NEG; plus no other footwear, no overcast, no teleport.
-SUBJECT FRAMING & POSITION: A wide framing on a 28mm look holds Aira — she is standing small and radiant amid the restored sunflower field, arms still loosely open, a scatter of petals settling around her. She reads front to the lens within the Golden Sunflower Field scene. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A wide framing on a 28mm look holds Aira — she is standing small and radiant amid the restored sunflower field, arms still loosely open, a scatter of petals settling around her. She reads front to the lens within the Golden Sunflower Field scene. Her pose reads: gaze calm and present, taking in the scene; head balanced with a soft tilt; the shoulders open and dropped, unhurried; one hand resting easy while the other hangs relaxed, fingers soft; torso lifted and quietly poised; waist long with a light contrapposto; one leg taking the weight as the other eases, knee soft; weight settled into the standing leg with real ground contact; hair resting against her shoulders. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 
 VIDEO PROMPT (VEO 3.1 · 9:16 · 6.0s · 24fps):
@@ -2114,7 +2114,7 @@ snow-blue. Textures: cable-knit, wool coat, fur trim, suede snow boots, sparklin
 Continuity-locks: cream knit-dress + ivory wool coat + fur hood, cream fur-trim snow boots,
 mirror ski goggles on hood, knit mittens, knit scarf, hooded loose hair, cold-fresh makeup.
 Negative: STD-NEG; plus no other footwear, no daylight, no flat aurora.
-SUBJECT FRAMING & POSITION: A wide framing on a 24mm look holds Aira — she stands gazing up at the aurora, one mittened hand half-raised in wonder, weight even in the snow. She reads front to the lens within the Northern Lights Arctic Tundra scene. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A wide framing on a 24mm look holds Aira — she stands gazing up at the aurora, one mittened hand half-raised in wonder, weight even in the snow. She reads front to the lens within the Northern Lights Arctic Tundra scene. Her pose reads: gaze out toward the view, reflective and calm; head tipped gently toward the gaze; the shoulders settling open and relaxed; one arm resting along the support while the other eases, hands soft; torso inclining gently into the lean; waist long with a soft side-tilt; the legs grounded with weight shared into the lean and the planted foot; weight eased between the support and her feet; hair settling with the quiet pose. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 
 VIDEO PROMPT (VEO 3.1 · 9:16 · 6.0s · 24fps):
@@ -2152,7 +2152,7 @@ moonlight rim, a glow in the goggle mirror. Atmosphere breath-fog, spindrift. Co
 aurora-and-indigo. Textures: mirror goggles, fur trim, knit, breath-fog. Continuity-locks
 identical (goggles now lowered). Negative: STD-NEG; plus no other footwear, no warped
 hands, no daylight.
-SUBJECT FRAMING & POSITION: A medium framing on a 50mm look holds Aira — she is lowering the ski goggles onto her eyes, the mirror tint catching a streak of aurora, her breath fogging in the cold. She reads at a three-quarter to the lens within the Northern Lights Arctic Tundra scene. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A medium framing on a 50mm look holds Aira — she is lowering the ski goggles onto her eyes, the mirror tint catching a streak of aurora, her breath fogging in the cold. She reads at a three-quarter to the lens within the Northern Lights Arctic Tundra scene. Her pose reads: gaze trailing the turn then finding its line, eyes shining; head carried round with the rotation; shoulders level and open through the spin; the arms floating wide and high in a balletic line, fingers soft; torso lengthened and turning on its axis; waist coiling through the turn; the supporting leg rooted on the ball of the foot while the other arcs out; weight spinning over the planted foot; hair and hem sweeping into a wide arc. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 
 VIDEO PROMPT (VEO 3.1 · 9:16 · 6.0s · 24fps):
@@ -2187,7 +2187,7 @@ aurora rim along her silhouette, cool moonlight fill. Atmosphere spindrift, brea
 stars. Color grade aurora-and-indigo. Textures: wool, fur, knit, snow, suede boots.
 Continuity-locks identical. Negative: STD-NEG; plus no other footwear, no frozen fabric,
 no daylight.
-SUBJECT FRAMING & POSITION: A full-length framing on a 35mm look holds Aira — she is walking across the open tundra, coat hem and scarf trailing, leaving a line of boot-prints in fresh snow, the aurora arcing above. She reads front to the lens within the Northern Lights Arctic Tundra scene. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A full-length framing on a 35mm look holds Aira — she is walking across the open tundra, coat hem and scarf trailing, leaving a line of boot-prints in fresh snow, the aurora arcing above. She reads front to the lens within the Northern Lights Arctic Tundra scene. Her pose reads: gaze drawn to her hands then lifting, intent and soft; head tilting into the gesture; the working shoulder rising as the hands engage, the other settling; both hands caught mid wearing-action, fingers precise and articulate; torso poised and inclined a touch toward the action; waist long with a soft lean; the legs steady beneath her, one bearing a touch more weight; weight settled evenly with a gentle hip set; hair framing the lifted face. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 
 VIDEO PROMPT (VEO 3.1 · 9:16 · 6.0s · 24fps):
@@ -2228,7 +2228,7 @@ glowing spindrift. Color grade saturated aurora-green and violet over snow-blue.
 translucent light-sheets, wool, fur, snow. Continuity-locks identical. Negative: STD-NEG;
 plus no other footwear, no chaotic light-storm (cloak must read ordered and graceful), no
 horror tone, no clipping through her.
-SUBJECT FRAMING & POSITION: A wide framing on a 24mm look holds Aira — she stands radiant at the centre, goggles pushed up, arms slightly open as the light-cloak coils over her shoulders and streams off across the snow. She reads front to the lens within the Northern Lights Arctic Tundra scene. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A wide framing on a 24mm look holds Aira — she stands radiant at the centre, goggles pushed up, arms slightly open as the light-cloak coils over her shoulders and streams off across the snow. She reads front to the lens within the Northern Lights Arctic Tundra scene. Her pose reads: gaze following the wearing-action with quiet focus; head inclined toward her hands; one shoulder easing in as the arms work, the other relaxed; both hands articulate in the precise gesture, fingers unwarped; torso lengthened and softly leaning into the action; waist easy with a slight tilt; the legs grounded and even, one knee soft; weight balanced with a gentle counter-tilt; hair settling beside the working hands. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 
 VIDEO PROMPT (VEO 3.1 · 9:16 · 6.0s · 24fps):
@@ -2270,7 +2270,7 @@ Lighting aurora green-violet key fading on her face, moon rim, catch-light in ea
 Atmosphere glowing spindrift, breath-fog. Color grade aurora-and-indigo. Textures: skin,
 fur trim, knit, light. Continuity-locks identical. Negative: STD-NEG; plus no other
 footwear, no plastic skin, no daylight.
-SUBJECT FRAMING & POSITION: A medium framing on a 85mm look holds Aira — she 's face lit by the last of the lifting aurora-cloak, green-violet light grazing her cheek as she watches it rise. She reads at a three-quarter to the lens within the Northern Lights Arctic Tundra scene. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A medium framing on a 85mm look holds Aira — she 's face lit by the last of the lifting aurora-cloak, green-violet light grazing her cheek as she watches it rise. She reads at a three-quarter to the lens within the Northern Lights Arctic Tundra scene. Her pose reads: gaze steady to camera with quiet confidence; head level and poised; the shoulders squared and easy; both arms relaxed at her sides, fingers soft; torso tall and open, breath lifting the chest; waist long, hips set with a gentle counter-tilt; the legs planted even, one knee soft; weight grounded and balanced across both feet; hair falling naturally at rest. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 
 VIDEO PROMPT (VEO 3.1 · 9:16 · 6.0s · 24fps):
@@ -2303,7 +2303,7 @@ the peaks. Lighting aurora green-violet from above, cool moonlight key on the sn
 Atmosphere spindrift, breath-fog, stars. Color grade aurora-and-indigo. Textures: snow,
 wool, fur, distant peaks. Continuity-locks identical. Negative: STD-NEG; plus no other
 footwear, no daylight, no teleport.
-SUBJECT FRAMING & POSITION: A wide framing on a 28mm look holds Aira — she is standing small on the moonlit tundra, the aurora restored high in the sky above her (post-impossible-move). She reads front to the lens within the Northern Lights Arctic Tundra scene. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A wide framing on a 28mm look holds Aira — she is standing small on the moonlit tundra, the aurora restored high in the sky above her (post-impossible-move). She reads front to the lens within the Northern Lights Arctic Tundra scene. Her pose reads: gaze level and assured to the lens, composed; head balanced and tall; both shoulders open, level and relaxed; the arms easy at her sides, hands relaxed and open; torso tall and lifted, open to camera; waist long with a soft hip counter-tilt; both legs grounded and even, one taking a touch more weight; weight settled and balanced over both feet in true ground contact; hair settling around her. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 
 VIDEO PROMPT (VEO 3.1 · 9:16 · 6.0s · 24fps):
@@ -2369,7 +2369,7 @@ pierced brass, kaftan silk, leather babouche, citrus leaves. Continuity-locks: e
 gold kaftan, teal-gold babouche slippers, brass coin-necklaces, gold bangles, kohl eyes,
 gold hair-chain, lantern-glam makeup. Negative: STD-NEG; plus no other footwear, no
 daylight, no flat lighting.
-SUBJECT FRAMING & POSITION: A wide framing on a 24mm look holds Aira — she stands at the centre of an ornate Moroccan riad courtyard at night, surrounded by horseshoe arches, intricate teal-and-cobalt zellige tilework. She reads front to the lens within the Moroccan Riad Courtyard scene. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A wide framing on a 24mm look holds Aira — she stands at the centre of an ornate Moroccan riad courtyard at night, surrounded by horseshoe arches, intricate teal-and-cobalt zellige tilework. She reads front to the lens within the Moroccan Riad Courtyard scene. Her pose reads: gaze drawn to her hands then lifting, intent and soft; head tilting into the gesture; the working shoulder rising as the hands engage, the other settling; both hands caught mid wearing-action, fingers precise and articulate; torso poised and inclined a touch toward the action; waist long with a soft lean; the legs steady beneath her, one bearing a touch more weight; weight settled evenly with a gentle hip set; hair framing the lifted face. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 
 VIDEO PROMPT (VEO 3.1 · 9:16 · 6.0s · 24fps):
@@ -2408,7 +2408,7 @@ amber. Lighting warm lantern key from the held flame, cool fill, lacework shadow
 Atmosphere incense-haze, blossom drift. Color grade brass-amber and teal. Textures:
 pierced brass, lace-shadow, silk, skin. Continuity-locks identical. Negative: STD-NEG;
 plus no other footwear, no warped hands, no flat light.
-SUBJECT FRAMING & POSITION: A medium framing on a 50mm look holds Aira — she is cradling a pierced-brass lantern in both hands, its amber light throwing lace-shadows across her face and the arch behind. She reads at a three-quarter to the lens within the Moroccan Riad Courtyard scene. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A medium framing on a 50mm look holds Aira — she is cradling a pierced-brass lantern in both hands, its amber light throwing lace-shadows across her face and the arch behind. She reads at a three-quarter to the lens within the Moroccan Riad Courtyard scene. Her pose reads: gaze lifting up after the release, eyes wide and delighted; head tipping back with the upward motion; both shoulders driving up and open; both arms extending upward and out in the throw, fingers releasing and spread; torso arching back through the launch; waist opening with the upward drive; both legs planted and driving up from the ground, knees springing; weight driving up through planted feet; hair and fabric lifting on the upward burst. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 
 VIDEO PROMPT (VEO 3.1 · 9:16 · 6.0s · 24fps):
@@ -2442,7 +2442,7 @@ plane. Lighting warm lantern beauty key on one side, cool cobalt rim on the othe
 light in each eye. Atmosphere incense-haze sparkle. Color grade brass-amber and cobalt.
 Textures: kohl, skin, silk, brass bokeh. Continuity-locks identical. Negative: STD-NEG;
 plus no gaze-drift, no lip mismatch, no other footwear.
-SUBJECT FRAMING & POSITION: A medium framing on a 85mm look holds Aira — she three-quarter to lens beneath a cluster of hanging lanterns, her kohl-lined eyes lifting to camera for the spoken line. She reads at a three-quarter to the lens within the Moroccan Riad Courtyard scene. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A medium framing on a 85mm look holds Aira — she three-quarter to lens beneath a cluster of hanging lanterns, her kohl-lined eyes lifting to camera for the spoken line. She reads at a three-quarter to the lens within the Moroccan Riad Courtyard scene. Her pose reads: gaze calm and present, taking in the scene; head balanced with a soft tilt; the shoulders open and dropped, unhurried; one hand resting easy while the other hangs relaxed, fingers soft; torso lifted and quietly poised; waist long with a light contrapposto; one leg taking the weight as the other eases, knee soft; weight settled into the standing leg with real ground contact; hair resting against her shoulders. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 
 VIDEO PROMPT (VEO 3.1 · 9:16 · 6.0s · 24fps):
@@ -2486,7 +2486,7 @@ saturated brass-amber-gold over cobalt and teal. Textures: thousands of flame-po
 brass, silk. Continuity-locks identical. Negative: STD-NEG; plus no other footwear, no
 chaotic firestorm (galaxy must read ordered and elegant), no horror tone, no burning,
 no clipping through her.
-SUBJECT FRAMING & POSITION: A wide framing on a 24mm look holds Aira — she stands at the centre by the fountain, one hand raised toward the galaxy as if conducting it, the emerald-gold kaftan and sleeves glowing. She reads front to the lens within the Moroccan Riad Courtyard scene. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A wide framing on a 24mm look holds Aira — she stands at the centre by the fountain, one hand raised toward the galaxy as if conducting it, the emerald-gold kaftan and sleeves glowing. She reads front to the lens within the Moroccan Riad Courtyard scene. Her pose reads: gaze sweeping round with the turn, bright and alive; head tipping with the rotation; both shoulders open and carrying the spin; both arms sweeping wide and lifted, fingers relaxed and spread; torso tall with a gentle lift through the spine, revolving through the turn; waist winding with the rotation; the pivot leg planted and bearing the turn while the free leg sweeps out and tucks; weight centred over the spinning foot, the other grazing the ground; hair and fabric fanning out with the spin. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 
 VIDEO PROMPT (VEO 3.1 · 9:16 · 6.0s · 24fps):
@@ -2528,7 +2528,7 @@ length on a 35mm look, medium depth, she crisp and the courtyard soft amber. Lig
 lantern key, cool cobalt fill, arch shadow framing. Atmosphere incense-haze, blossom drift.
 Color grade brass-amber and teal. Textures: zellige, brass, silk, leather. Continuity-locks
 identical. Negative: STD-NEG; plus no other footwear, no daylight, no frozen flames.
-SUBJECT FRAMING & POSITION: A full-length framing on a 35mm look holds Aira — she through a horseshoe arch as she walks across the re-lit courtyard toward the fountain. She reads front to the lens within the Moroccan Riad Courtyard scene. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A full-length framing on a 35mm look holds Aira — she through a horseshoe arch as she walks across the re-lit courtyard toward the fountain. She reads front to the lens within the Moroccan Riad Courtyard scene. Her pose reads: gaze travelling ahead toward her next mark, alert and easy; head carried level on a long neck; the shoulders relaxed and alternating with the walk; the forward arm swinging up gently as the other draws back, fingers easy; torso upright and gliding over the legs; waist loose and counter-rotating with the steps; the planting foot meeting the ground heel-first while the rear toe lifts to swing through; weight flowing foot to foot with grounded, gliding steps; hair lifting and resettling with each pace. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 
 VIDEO PROMPT (VEO 3.1 · 9:16 · 6.0s · 24fps):
@@ -2561,7 +2561,7 @@ bokeh. Lighting warm lantern key with flame-flicker as a living gobo, catch-ligh
 eye. Atmosphere incense sparkle. Color grade brass-amber and cobalt. Textures: iris
 detail, kohl, coin-brass, skin. Continuity-locks identical. Negative: STD-NEG; plus no
 warped eye, no plastic skin, no other footwear reference.
-SUBJECT FRAMING & POSITION: A extreme close-up framing on a 100mm look holds Aira — she 's kohl-lined eyes and one coin-necklace strand with lantern- amber dancing across her skin. She reads front to the lens within the Moroccan Riad Courtyard scene. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A extreme close-up framing on a 100mm look holds Aira — she 's kohl-lined eyes and one coin-necklace strand with lantern- amber dancing across her skin. She reads front to the lens within the Moroccan Riad Courtyard scene. Her pose reads: gaze following the wearing-action with quiet focus; head inclined toward her hands; one shoulder easing in as the arms work, the other relaxed; both hands articulate in the precise gesture, fingers unwarped; torso lengthened and softly leaning into the action; waist easy with a slight tilt; the legs grounded and even, one knee soft; weight balanced with a gentle counter-tilt; hair settling beside the working hands. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 
 VIDEO PROMPT (VEO 3.1 · 9:16 · 6.0s · 24fps):
@@ -2622,7 +2622,7 @@ Textures: curved glass, satin slip, iridescent organza, clear PVC heels, fish-sc
 Continuity-locks: pearl-grey slip + iridescent organza, clear PVC ankle-strap heels, blue-
 tint glasses in hair, shell earrings, silver bracelet, soft-waved hair, aqua-glam makeup.
 Negative: STD-NEG; plus no other footwear, no daylight, no dry/empty tank.
-SUBJECT FRAMING & POSITION: A wide framing on a 24mm look holds Aira — she stands gazing up through the glass at a passing ray, one hand lifted toward it, weight even. She reads front to the lens within the Glass Aquarium Tunnel scene. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A wide framing on a 24mm look holds Aira — she stands gazing up through the glass at a passing ray, one hand lifted toward it, weight even. She reads front to the lens within the Glass Aquarium Tunnel scene. Her pose reads: gaze steady to camera with quiet confidence; head level and poised; the shoulders squared and easy; both arms relaxed at her sides, fingers soft; torso tall and open, breath lifting the chest; waist long, hips set with a gentle counter-tilt; the legs planted even, one knee soft; weight grounded and balanced across both feet; hair falling naturally at rest. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 
 VIDEO PROMPT (VEO 3.1 · 9:16 · 6.0s · 24fps):
@@ -2661,7 +2661,7 @@ water melts to blue bokeh. Lighting deep-blue key, caustic dapple on her face, c
 Atmosphere motes, bubbles. Color grade blue-and-silver. Textures: glass, satin, organza,
 fish-flash. Continuity-locks identical. Negative: STD-NEG; plus no other footwear, no
 warped hand, no daylight.
-SUBJECT FRAMING & POSITION: A medium framing on a 50mm look holds Aira — she is resting one palm flat on the curved glass wall as a silver school streams past just beyond her fingers. She reads at a three-quarter to the lens within the Glass Aquarium Tunnel scene. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A medium framing on a 50mm look holds Aira — she is resting one palm flat on the curved glass wall as a silver school streams past just beyond her fingers. She reads at a three-quarter to the lens within the Glass Aquarium Tunnel scene. Her pose reads: gaze drawn to her hands then lifting, intent and soft; head tilting into the gesture; the working shoulder rising as the hands engage, the other settling; both hands caught mid wearing-action, fingers precise and articulate; torso poised and inclined a touch toward the action; waist long with a soft lean; the legs steady beneath her, one bearing a touch more weight; weight settled evenly with a gentle hip set; hair framing the lifted face. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 
 VIDEO PROMPT (VEO 3.1 · 9:16 · 6.0s · 24fps):
@@ -2695,7 +2695,7 @@ length on a 35mm look, medium depth, she crisp and the water soft. Lighting deep
 along her profile, caustic fill, cyan glow. Atmosphere motes, bubbles. Color grade blue-
 and-silver. Textures: flowing organza, satin, glass, PVC heels. Continuity-locks identical.
 Negative: STD-NEG; plus no other footwear, no frozen fabric, no daylight.
-SUBJECT FRAMING & POSITION: A full-length framing on a 35mm look holds Aira — she is walking the curved tunnel, the organza overlay trailing, caustics sliding over her and the floor, rays gliding above. She reads front to the lens within the Glass Aquarium Tunnel scene. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A full-length framing on a 35mm look holds Aira — she is walking the curved tunnel, the organza overlay trailing, caustics sliding over her and the floor, rays gliding above. She reads front to the lens within the Glass Aquarium Tunnel scene. Her pose reads: gaze level along her line through the water, serene; head leading the slow glide; the shoulders easing forward into the wade; both arms fanning out and trailing through the water for balance, fingers relaxed; torso leading gently forward through the surface; waist long, hips easing forward; the front leg wading ahead while the rear trails; weight transferring slowly forward through the submerged footing; hair and fabric drifting with the water's drag. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 
 VIDEO PROMPT (VEO 3.1 · 9:16 · 6.0s · 24fps):
@@ -2729,7 +2729,7 @@ her face the sharp plane, water soft. Lighting deep-blue key, dancing caustics, 
 the glasses. Atmosphere motes, bubbles. Color grade blue-and-silver. Textures: blue-tint
 lens, skin, organza. Continuity-locks identical (glasses now worn). Negative: STD-NEG;
 plus no other footwear, no plastic skin, no daylight.
-SUBJECT FRAMING & POSITION: A medium framing on a 85mm look holds Aira — she is looking up through the glass with caustic light dancing across her face. She reads front to the lens within the Glass Aquarium Tunnel scene. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A medium framing on a 85mm look holds Aira — she is looking up through the glass with caustic light dancing across her face. She reads front to the lens within the Glass Aquarium Tunnel scene. Her pose reads: gaze following the wearing-action with quiet focus; head inclined toward her hands; one shoulder easing in as the arms work, the other relaxed; both hands articulate in the precise gesture, fingers unwarped; torso lengthened and softly leaning into the action; waist easy with a slight tilt; the legs grounded and even, one knee soft; weight balanced with a gentle counter-tilt; hair settling beside the working hands. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 
 VIDEO PROMPT (VEO 3.1 · 9:16 · 6.0s · 24fps):
@@ -2768,7 +2768,7 @@ suspended motes and bubbles. Color grade saturated ocean-blue with brilliant sil
 Textures: thousands of silver fish, curved glass, satin, organza. Continuity-locks
 identical. Negative: STD-NEG; plus no other footwear, no chaotic swarm (spiral must read
 ordered and elegant), no horror tone, no clipping through her or the glass.
-SUBJECT FRAMING & POSITION: A wide framing on a 24mm look holds Aira — she stands at the centre of the tunnel, one arm raised following the spiral upward, the iridescent organza and slip glowing cyan, hair lifting. She reads front to the lens within the Glass Aquarium Tunnel scene. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A wide framing on a 24mm look holds Aira — she stands at the centre of the tunnel, one arm raised following the spiral upward, the iridescent organza and slip glowing cyan, hair lifting. She reads front to the lens within the Glass Aquarium Tunnel scene. Her pose reads: gaze level and assured to the lens, composed; head balanced and tall; both shoulders open, level and relaxed; the arms easy at her sides, hands relaxed and open; torso tall and lifted, open to camera; waist long with a soft hip counter-tilt; both legs grounded and even, one taking a touch more weight; weight settled and balanced over both feet in true ground contact; hair settling around her. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 
 VIDEO PROMPT (VEO 3.1 · 9:16 · 6.0s · 24fps):
@@ -2810,7 +2810,7 @@ rippling again. Framing on a 50mm look, medium-shallow focus, her crisp and wate
 Lighting deep-blue key, rippling caustics, cyan rim. Atmosphere motes, bubbles. Color grade
 blue-and-silver. Textures: glass, satin, organza, fish-flash. Continuity-locks identical.
 Negative: STD-NEG; plus no other footwear, no frozen fish, no daylight.
-SUBJECT FRAMING & POSITION: A medium framing on a 50mm look holds Aira — she is turning slowly with a soft smile as the silver school resumes free-swimming around the tunnel (post-impossible-move). She reads at a three-quarter to the lens within the Glass Aquarium Tunnel scene. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A medium framing on a 50mm look holds Aira — she is turning slowly with a soft smile as the silver school resumes free-swimming around the tunnel (post-impossible-move). She reads at a three-quarter to the lens within the Glass Aquarium Tunnel scene. Her pose reads: gaze trailing the turn then finding its line, eyes shining; head carried round with the rotation; shoulders level and open through the spin; the arms floating wide and high in a balletic line, fingers soft; torso lengthened and turning on its axis; waist coiling through the turn; the supporting leg rooted on the ball of the foot while the other arcs out; weight spinning over the planted foot; hair and hem sweeping into a wide arc. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 
 VIDEO PROMPT (VEO 3.1 · 9:16 · 6.0s · 24fps):
@@ -2844,7 +2844,7 @@ deep focus, blue depth softening the far tunnel. Lighting deep-blue key, caustic
 soft rim on her receding figure. Atmosphere motes, bubble-streams. Color grade blue-and-
 silver deepening to ocean. Textures: glass, satin, organza, water. Continuity-locks
 identical. Negative: STD-NEG; plus no other footwear, no daylight, no teleport.
-SUBJECT FRAMING & POSITION: A wide framing on a 28mm look holds Aira — she is walking on into the deep-blue tunnel, growing smaller as the curved glass and gliding schools close around her. She reads front to the lens within the Glass Aquarium Tunnel scene. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A wide framing on a 28mm look holds Aira — she is walking on into the deep-blue tunnel, growing smaller as the curved glass and gliding schools close around her. She reads front to the lens within the Glass Aquarium Tunnel scene. Her pose reads: gaze level along her line through the water, serene; head leading the slow glide; the shoulders easing forward into the wade; both arms fanning out and trailing through the water for balance, fingers relaxed; torso leading gently forward through the surface; waist long, hips easing forward; the front leg wading ahead while the rear trails; weight transferring slowly forward through the submerged footing; hair and fabric drifting with the water's drag. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 
 VIDEO PROMPT (VEO 3.1 · 9:16 · 6.0s · 24fps):
@@ -2910,7 +2910,7 @@ Continuity-locks: coral polka-dot wrap dress + headscarf, jute espadrille wedges
 coral ribbons, white cat-eye sunglasses, gold hoops, neck scarf, coral-bead bracelet,
 escaping tendrils, sun-glam makeup. Negative: STD-NEG; plus no other footwear, no overcast,
 no modern cars.
-SUBJECT FRAMING & POSITION: A wide framing on a 24mm look holds Aira — she rides in the passenger seat of a pastel-mint 1960s convertible gliding along a whitewashed cliffside road high above the sparkling Amalfi sea. She reads at a three-quarter to the lens within the Amalfi Coast Vintage Convertible scene. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A wide framing on a 24mm look holds Aira — she rides in the passenger seat of a pastel-mint 1960s convertible gliding along a whitewashed cliffside road high above the sparkling Amalfi sea. She reads at a three-quarter to the lens within the Amalfi Coast Vintage Convertible scene. Her pose reads: gaze drawn to her hands then lifting, intent and soft; head tilting into the gesture; the working shoulder rising as the hands engage, the other settling; both hands caught mid wearing-action, fingers precise and articulate; torso poised and inclined a touch toward the action; waist long with a soft lean; the legs steady beneath her, one bearing a touch more weight; weight settled evenly with a gentle hip set; hair framing the lifted face. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 
 VIDEO PROMPT (VEO 3.1 · 9:16 · 6.0s · 24fps):
@@ -2948,7 +2948,7 @@ focus so she and the scarf are crisp and the coast melts to blue. Lighting brigh
 sea-bounce, flare in the lenses. Atmosphere sea-haze, sparkle. Color grade blue-and-coral.
 Textures: silk scarf, polka-dot cotton, sunglasses, skin. Continuity-locks identical.
 Negative: STD-NEG; plus no other footwear, no warped hand, no overcast.
-SUBJECT FRAMING & POSITION: A medium framing on a 50mm look holds Aira — she is holding the fluttering headscarf at her cheek as the sea sparkles behind her, white cat-eye sunglasses catching a sun-flare. She reads at a three-quarter to the lens within the Amalfi Coast Vintage Convertible scene. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A medium framing on a 50mm look holds Aira — she is holding the fluttering headscarf at her cheek as the sea sparkles behind her, white cat-eye sunglasses catching a sun-flare. She reads at a three-quarter to the lens within the Amalfi Coast Vintage Convertible scene. Her pose reads: gaze following the wearing-action with quiet focus; head inclined toward her hands; one shoulder easing in as the arms work, the other relaxed; both hands articulate in the precise gesture, fingers unwarped; torso lengthened and softly leaning into the action; waist easy with a slight tilt; the legs grounded and even, one knee soft; weight balanced with a gentle counter-tilt; hair settling beside the working hands. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 
 VIDEO PROMPT (VEO 3.1 · 9:16 · 6.0s · 24fps):
@@ -2981,7 +2981,7 @@ shallow focus, her eyes the sharp plane. Lighting bright sun beauty key, warm se
 fill, catch-light in each eye. Atmosphere sea-haze sparkle. Color grade blue-and-coral.
 Textures: silk, skin, sunglasses, lip. Continuity-locks identical. Negative: STD-NEG; plus
 no gaze-drift, no lip mismatch, no other footwear.
-SUBJECT FRAMING & POSITION: A medium framing on a 85mm look holds Aira — she three-quarter to lens as she lowers the white cat-eye sunglasses to meet camera for the spoken line. She reads at a three-quarter to the lens within the Amalfi Coast Vintage Convertible scene. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A medium framing on a 85mm look holds Aira — she three-quarter to lens as she lowers the white cat-eye sunglasses to meet camera for the spoken line. She reads at a three-quarter to the lens within the Amalfi Coast Vintage Convertible scene. Her pose reads: gaze calm and present, taking in the scene; head balanced with a soft tilt; the shoulders open and dropped, unhurried; one hand resting easy while the other hangs relaxed, fingers soft; torso lifted and quietly poised; waist long with a light contrapposto; one leg taking the weight as the other eases, knee soft; weight settled into the standing leg with real ground contact; hair resting against her shoulders. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 
 VIDEO PROMPT (VEO 3.1 · 9:16 · 6.0s · 24fps):
@@ -3024,7 +3024,7 @@ Mediterranean-blue and sea-glass green with sun-gold rainbows. Textures: crystal
 seawater-glass, vintage paint and chrome, polka-dot cotton, jute wedges. Continuity-locks
 identical. Negative: STD-NEG; plus no other footwear, no chaotic flood (arch must read
 ordered and elegant), no car swamping, no horror tone, no clipping through her or the car.
-SUBJECT FRAMING & POSITION: A wide framing on a 24mm look holds Aira — she stands up through the open convertible, one arm raised toward the crystalline arch, headscarf and dress-skirt flying, espadrille wedges braced on the seat. She reads front to the lens within the Amalfi Coast Vintage Convertible scene. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A wide framing on a 24mm look holds Aira — she stands up through the open convertible, one arm raised toward the crystalline arch, headscarf and dress-skirt flying, espadrille wedges braced on the seat. She reads front to the lens within the Amalfi Coast Vintage Convertible scene. Her pose reads: gaze steady to camera with quiet confidence; head level and poised; the shoulders squared and easy; both arms relaxed at her sides, fingers soft; torso tall and open, breath lifting the chest; waist long, hips set with a gentle counter-tilt; the legs planted even, one knee soft; weight grounded and balanced across both feet; hair falling naturally at rest. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 
 VIDEO PROMPT (VEO 3.1 · 9:16 · 6.0s · 24fps):
@@ -3067,7 +3067,7 @@ behind. Framing full-length on a 35mm look, medium depth, she crisp and the coas
 Lighting bright sun key, sea-bounce, deep blue shadow. Atmosphere sea-haze, sparkle. Color
 grade blue-and-coral. Textures: car paint, cotton, silk, jute wedges. Continuity-locks
 identical. Negative: STD-NEG; plus no other footwear, no frozen sea, no overcast.
-SUBJECT FRAMING & POSITION: A full-length framing on a 35mm look holds Aira — she A full-length high three-quarter looks down as the convertible rounds a whitewashed bend, the sea calm and sparkling below (post-impossible-move). She reads at a three-quarter to the lens within the Amalfi Coast Vintage Convertible scene. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A full-length framing on a 35mm look holds Aira — she A full-length high three-quarter looks down as the convertible rounds a whitewashed bend, the sea calm and sparkling below (post-impossible-move). She reads at a three-quarter to the lens within the Amalfi Coast Vintage Convertible scene. Her pose reads: gaze set along her path, calm and purposeful; head balanced and level into the travel; one shoulder easing forward as the opposite arm counter-swings, hands loose; torso lifted and moving forward through the step; waist turning softly with the gait; the lead foot rolling onto the ground as the trailing foot pushes off behind; weight transferring smoothly forward, soles in real contact; hair and hem trailing the stride. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 
 VIDEO PROMPT (VEO 3.1 · 9:16 · 6.0s · 24fps):
@@ -3100,7 +3100,7 @@ Lighting bright sun key with sea-sparkle as a shimmering background gobo, catch-
 each eye. Atmosphere sea-haze. Color grade blue-and-coral. Textures: iris detail, gold
 hoop, skin, silk. Continuity-locks identical. Negative: STD-NEG; plus no warped eye, no
 plastic skin, no other footwear reference.
-SUBJECT FRAMING & POSITION: A extreme close-up framing on a 100mm look holds Aira — she 's eyes and one gold hoop with bright sea-sparkle dancing in the background bokeh. She reads front to the lens within the Amalfi Coast Vintage Convertible scene. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A extreme close-up framing on a 100mm look holds Aira — she 's eyes and one gold hoop with bright sea-sparkle dancing in the background bokeh. She reads front to the lens within the Amalfi Coast Vintage Convertible scene. Her pose reads: gaze level and assured to the lens, composed; head balanced and tall; both shoulders open, level and relaxed; the arms easy at her sides, hands relaxed and open; torso tall and lifted, open to camera; waist long with a soft hip counter-tilt; both legs grounded and even, one taking a touch more weight; weight settled and balanced over both feet in true ground contact; hair settling around her. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 
 VIDEO PROMPT (VEO 3.1 · 9:16 · 6.0s · 24fps):
@@ -3164,7 +3164,7 @@ Continuity-locks: powder-rose tea-dress + lace collar, blush kitten-heel slingba
 brim straw hat + rose ribbon, pearl-rim glasses, pearl-drop earrings, gold bracelet, soft
 waves, romantic-glam makeup. Negative: STD-NEG; plus no other footwear, no overcast, no
 flat light.
-SUBJECT FRAMING & POSITION: A wide framing on a 24mm look holds Aira — she sits with poised grace, one hand on the teapot handle, the other resting by a rose-painted cup, head tilted to the garden. She reads front to the lens within the Secret Garden High-Tea scene. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A wide framing on a 24mm look holds Aira — she sits with poised grace, one hand on the teapot handle, the other resting by a rose-painted cup, head tilted to the garden. She reads front to the lens within the Secret Garden High-Tea scene. Her pose reads: gaze drawn to her hands then lifting, intent and soft; head tilting into the gesture; the working shoulder rising as the hands engage, the other settling; both hands caught mid wearing-action, fingers precise and articulate; torso poised and inclined a touch toward the action; waist long with a soft lean; the legs steady beneath her, one bearing a touch more weight; weight settled evenly with a gentle hip set; hair framing the lifted face. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 
 VIDEO PROMPT (VEO 3.1 · 9:16 · 6.0s · 24fps):
@@ -3202,7 +3202,7 @@ the cup are crisp and the garden melts to rose-green. Lighting warm dappled key,
 bounce, steam catching light. Atmosphere petals, pollen, steam. Color grade rose-and-sage.
 Textures: porcelain, steam, lace, skin. Continuity-locks identical. Negative: STD-NEG;
 plus no other footwear, no warped hand, no flat light.
-SUBJECT FRAMING & POSITION: A medium framing on a 50mm look holds Aira — she is lifting the rose-painted teacup toward her lips, steam curling past her face, pearl-rim glasses low on her nose. She reads at a three-quarter to the lens within the Secret Garden High-Tea scene. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A medium framing on a 50mm look holds Aira — she is lifting the rose-painted teacup toward her lips, steam curling past her face, pearl-rim glasses low on her nose. She reads at a three-quarter to the lens within the Secret Garden High-Tea scene. Her pose reads: gaze following the wearing-action with quiet focus; head inclined toward her hands; one shoulder easing in as the arms work, the other relaxed; both hands articulate in the precise gesture, fingers unwarped; torso lengthened and softly leaning into the action; waist easy with a slight tilt; the legs grounded and even, one knee soft; weight balanced with a gentle counter-tilt; hair settling beside the working hands. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 
 VIDEO PROMPT (VEO 3.1 · 9:16 · 6.0s · 24fps):
@@ -3235,7 +3235,7 @@ focus, her eyes the sharp plane. Lighting warm dappled beauty key, soft green fi
 light in each eye. Atmosphere petal-and-steam sparkle. Color grade rose-and-sage. Textures:
 porcelain, lace, skin, lip. Continuity-locks identical. Negative: STD-NEG; plus no gaze-
 drift, no lip mismatch, no other footwear.
-SUBJECT FRAMING & POSITION: A medium framing on a 85mm look holds Aira — she three-quarter to lens, the teacup held near her chest, her eyes lifting over the pearl-rim glasses to camera for the spoken line. She reads at a three-quarter to the lens within the Secret Garden High-Tea scene. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A medium framing on a 85mm look holds Aira — she three-quarter to lens, the teacup held near her chest, her eyes lifting over the pearl-rim glasses to camera for the spoken line. She reads at a three-quarter to the lens within the Secret Garden High-Tea scene. Her pose reads: gaze calm and present, taking in the scene; head balanced with a soft tilt; the shoulders open and dropped, unhurried; one hand resting easy while the other hangs relaxed, fingers soft; torso lifted and quietly poised; waist long with a light contrapposto; one leg taking the weight as the other eases, knee soft; weight settled into the standing leg with real ground contact; hair resting against her shoulders. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 
 VIDEO PROMPT (VEO 3.1 · 9:16 · 6.0s · 24fps):
@@ -3277,7 +3277,7 @@ romantic, drifting petals and faint steam. Color grade saturated rose-pink and g
 sage-green. Textures: porcelain-painted translucent wings, dotted-Swiss cotton, porcelain,
 roses. Continuity-locks identical. Negative: STD-NEG; plus no other footwear, no chaotic
 swarm (flock must read ordered and elegant), no horror tone, no clipping through her.
-SUBJECT FRAMING & POSITION: A wide framing on a 24mm look holds Aira — she rises from her chair at the centre, one arm lifted as butterflies stream around her, the powder-rose skirt and hat- ribbon lifting in the wing-wind. She reads front to the lens within the Secret Garden High-Tea scene. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A wide framing on a 24mm look holds Aira — she rises from her chair at the centre, one arm lifted as butterflies stream around her, the powder-rose skirt and hat- ribbon lifting in the wing-wind. She reads front to the lens within the Secret Garden High-Tea scene. Her pose reads: gaze steady to camera with quiet confidence; head level and poised; the shoulders squared and easy; both arms relaxed at her sides, fingers soft; torso tall and open, breath lifting the chest; waist long, hips set with a gentle counter-tilt; the legs planted even, one knee soft; weight grounded and balanced across both feet; hair falling naturally at rest. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 
 VIDEO PROMPT (VEO 3.1 · 9:16 · 6.0s · 24fps):
@@ -3320,7 +3320,7 @@ dappled key on her hand and face, green bounce. Atmosphere petals, faint steam. 
 grade rose-and-sage. Textures: translucent wing, cotton, porcelain, roses. Continuity-
 locks identical. Negative: STD-NEG; plus no other footwear, no frozen butterflies, no flat
 light.
-SUBJECT FRAMING & POSITION: A full-length framing on a 35mm look holds Aira — she is standing by the tea-table, holding out one hand as a single porcelain butterfly settles on her fingertip (the flock's last). She reads at a three-quarter to the lens within the Secret Garden High-Tea scene. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A full-length framing on a 35mm look holds Aira — she is standing by the tea-table, holding out one hand as a single porcelain butterfly settles on her fingertip (the flock's last). She reads at a three-quarter to the lens within the Secret Garden High-Tea scene. Her pose reads: gaze level and assured to the lens, composed; head balanced and tall; both shoulders open, level and relaxed; the arms easy at her sides, hands relaxed and open; torso tall and lifted, open to camera; waist long with a soft hip counter-tilt; both legs grounded and even, one taking a touch more weight; weight settled and balanced over both feet in true ground contact; hair settling around her. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 
 VIDEO PROMPT (VEO 3.1 · 9:16 · 6.0s · 24fps):
@@ -3353,7 +3353,7 @@ bokeh. Lighting warm dappled key with leaf-shadow as a living gobo, catch-light 
 eye. Atmosphere petal sparkle. Color grade rose-and-sage. Textures: iris detail, pearl
 sheen, skin. Continuity-locks identical. Negative: STD-NEG; plus no warped eye, no plastic
 skin, no other footwear reference.
-SUBJECT FRAMING & POSITION: A extreme close-up framing on a 100mm look holds Aira — she 's eyes and one pearl-drop earring with dappled garden light flickering across her skin. She reads front to the lens within the Secret Garden High-Tea scene. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A extreme close-up framing on a 100mm look holds Aira — she 's eyes and one pearl-drop earring with dappled garden light flickering across her skin. She reads front to the lens within the Secret Garden High-Tea scene. Her pose reads: gaze level along her line through the water, serene; head leading the slow glide; the shoulders easing forward into the wade; both arms fanning out and trailing through the water for balance, fingers relaxed; torso leading gently forward through the surface; waist long, hips easing forward; the front leg wading ahead while the rear trails; weight transferring slowly forward through the submerged footing; hair and fabric drifting with the water's drag. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 
 VIDEO PROMPT (VEO 3.1 · 9:16 · 6.0s · 24fps):
@@ -3415,7 +3415,7 @@ cream-burgundy varsity jacket + black tee + wide-leg jeans, off-white gum-sole s
 sneakers, mirrored shield sunglasses, beaded choker, silver rings, single hoop, slick high
 pony, bronzed street-glam makeup. Negative: STD-NEG; plus no other footwear, no overcast,
 no flat light.
-SUBJECT FRAMING & POSITION: A wide framing on a 24mm look holds Aira — she stands with cool swagger, one hand in a jacket pocket, the other loose, weight cocked on one hip. She reads front to the lens within the Sunset Graffiti Skatepark scene. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A wide framing on a 24mm look holds Aira — she stands with cool swagger, one hand in a jacket pocket, the other loose, weight cocked on one hip. She reads front to the lens within the Sunset Graffiti Skatepark scene. Her pose reads: gaze calm and present, taking in the scene; head balanced with a soft tilt; the shoulders open and dropped, unhurried; one hand resting easy while the other hangs relaxed, fingers soft; torso lifted and quietly poised; waist long with a light contrapposto; one leg taking the weight as the other eases, knee soft; weight settled into the standing leg with real ground contact; hair resting against her shoulders. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 
 VIDEO PROMPT (VEO 3.1 · 9:16 · 6.0s · 24fps):
@@ -3453,7 +3453,7 @@ shallow focus so she and the rail are crisp and the park melts to sunset. Lighti
 sunset key, golden rim, sky blaze in the lenses. Atmosphere dust, haze. Color grade sunset-
 and-graffiti. Textures: varsity wool, tagged metal rail, denim, mirrored lens. Continuity-
 locks identical. Negative: STD-NEG; plus no other footwear, no warped hands, no flat light.
-SUBJECT FRAMING & POSITION: A medium framing on a 50mm look holds Aira — she is leaning back against a graffiti-tagged rail, arms crossed, chin tilted to the sunset. She reads at a three-quarter to the lens within the Sunset Graffiti Skatepark scene. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A medium framing on a 50mm look holds Aira — she is leaning back against a graffiti-tagged rail, arms crossed, chin tilted to the sunset. She reads at a three-quarter to the lens within the Sunset Graffiti Skatepark scene. Her pose reads: gaze out toward the view, reflective and calm; head tipped gently toward the gaze; the shoulders settling open and relaxed; one arm resting along the support while the other eases, hands soft; torso inclining gently into the lean; waist long with a soft side-tilt; the legs grounded with weight shared into the lean and the planted foot; weight eased between the support and her feet; hair settling with the quiet pose. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 
 VIDEO PROMPT (VEO 3.1 · 9:16 · 6.0s · 24fps):
@@ -3487,7 +3487,7 @@ and the sky blazing. Lighting strong sunset backlight rim around her and the jac
 bounce. Atmosphere dust, haze, sun-flare. Color grade sunset-and-graffiti. Textures:
 varsity wool, denim, painted concrete, gum soles. Continuity-locks identical. Negative:
 STD-NEG; plus no other footwear, no frozen fabric, no overcast.
-SUBJECT FRAMING & POSITION: A full-length framing on a 28mm look holds Aira — she is striding up a graffiti ramp toward the sunset, the oversized jacket swinging open, wide-leg jeans flaring. She reads front to the lens within the Sunset Graffiti Skatepark scene. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A full-length framing on a 28mm look holds Aira — she is striding up a graffiti ramp toward the sunset, the oversized jacket swinging open, wide-leg jeans flaring. She reads front to the lens within the Sunset Graffiti Skatepark scene. Her pose reads: gaze carried ahead in her direction of travel, chin level and assured; head leading the line of the walk; the shoulders swinging in easy opposition to the stride; the leading arm easing forward while the trailing arm swings back, hands relaxed and open; torso tall and carried forward over the steps; waist rotating gently with each stride; the front leg reaching to plant heel-first while the rear leg drives off the toe; weight rolling heel-to-toe from foot to foot in true ground contact; hair and fabric lifting a beat behind the motion. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 
 VIDEO PROMPT (VEO 3.1 · 9:16 · 6.0s · 24fps):
@@ -3522,7 +3522,7 @@ Lighting strong sunset backlight halo, warm bounce fill, flare blooming. Atmosph
 haze. Color grade sunset-and-graffiti. Textures: mirrored lens, varsity wool, skin.
 Continuity-locks identical. Negative: STD-NEG; plus no other footwear, no blown-out face,
 no overcast.
-SUBJECT FRAMING & POSITION: A medium framing on a 85mm look holds Aira — she 's head as she looks down into lens, lowering the mirrored shield sunglasses with one ringed hand. She reads front to the lens within the Sunset Graffiti Skatepark scene. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A medium framing on a 85mm look holds Aira — she 's head as she looks down into lens, lowering the mirrored shield sunglasses with one ringed hand. She reads front to the lens within the Sunset Graffiti Skatepark scene. Her pose reads: gaze steady to camera with quiet confidence; head level and poised; the shoulders squared and easy; both arms relaxed at her sides, fingers soft; torso tall and open, breath lifting the chest; waist long, hips set with a gentle counter-tilt; the legs planted even, one knee soft; weight grounded and balanced across both feet; hair falling naturally at rest. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 
 VIDEO PROMPT (VEO 3.1 · 9:16 · 6.0s · 24fps):
@@ -3562,7 +3562,7 @@ orange and magenta with electric teal-yellow graffiti. Textures: floating transl
 paint-letters, concrete, varsity wool. Continuity-locks identical. Negative: STD-NEG; plus
 no other footwear, no chaotic splatter-storm (sculpture must read ordered and stylish), no
 horror tone, no clipping through her.
-SUBJECT FRAMING & POSITION: A wide framing on a 24mm look holds Aira — she stands at the bowl's centre, one arm thrown up mid-gesture as if she painted it into the air, the oversized jacket and pony lifting in the color-wind. She reads front to the lens within the Sunset Graffiti Skatepark scene. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A wide framing on a 24mm look holds Aira — she stands at the bowl's centre, one arm thrown up mid-gesture as if she painted it into the air, the oversized jacket and pony lifting in the color-wind. She reads front to the lens within the Sunset Graffiti Skatepark scene. Her pose reads: gaze sweeping round with the turn, bright and alive; head tipping with the rotation; both shoulders open and carrying the spin; both arms sweeping wide and lifted, fingers relaxed and spread; torso tall with a gentle lift through the spine, revolving through the turn; waist winding with the rotation; the pivot leg planted and bearing the turn while the free leg sweeps out and tucks; weight centred over the spinning foot, the other grazing the ground; hair and fabric fanning out with the spin. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 
 VIDEO PROMPT (VEO 3.1 · 9:16 · 6.0s · 24fps):
@@ -3604,7 +3604,7 @@ medium-shallow focus, her crisp and mist soft. Lighting warm sunset key, color-m
 Atmosphere drifting paint-haze, dust. Color grade sunset-and-graffiti. Textures: color-
 mist, varsity wool, concrete. Continuity-locks identical. Negative: STD-NEG; plus no other
 footwear, no frozen paint, no overcast.
-SUBJECT FRAMING & POSITION: A medium framing on a 50mm look holds Aira — she with a satisfied grin as the last of the graffiti-halo scatters into drifting color-mist around her (post-impossible-move). She reads at a three-quarter to the lens within the Sunset Graffiti Skatepark scene. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A medium framing on a 50mm look holds Aira — she with a satisfied grin as the last of the graffiti-halo scatters into drifting color-mist around her (post-impossible-move). She reads at a three-quarter to the lens within the Sunset Graffiti Skatepark scene. Her pose reads: gaze level and assured to the lens, composed; head balanced and tall; both shoulders open, level and relaxed; the arms easy at her sides, hands relaxed and open; torso tall and lifted, open to camera; waist long with a soft hip counter-tilt; both legs grounded and even, one taking a touch more weight; weight settled and balanced over both feet in true ground contact; hair settling around her. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 
 VIDEO PROMPT (VEO 3.1 · 9:16 · 6.0s · 24fps):
@@ -3636,7 +3636,7 @@ look, deep focus, haze softening the far ramps. Lighting last warm sunset key, m
 dusk sky, concrete shadow. Atmosphere dust, faint color-haze. Color grade sunset-magenta
 and graffiti. Textures: painted concrete, varsity wool, dusk sky. Continuity-locks
 identical. Negative: STD-NEG; plus no other footwear, no overcast, no teleport.
-SUBJECT FRAMING & POSITION: A wide framing on a 28mm look holds Aira — she is standing small and cool in the graffiti bowl as the sky deepens to dusk-magenta (post-impossible-move), the ramps glowing. She reads front to the lens within the Sunset Graffiti Skatepark scene. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A wide framing on a 28mm look holds Aira — she is standing small and cool in the graffiti bowl as the sky deepens to dusk-magenta (post-impossible-move), the ramps glowing. She reads front to the lens within the Sunset Graffiti Skatepark scene. Her pose reads: gaze calm and present, taking in the scene; head balanced with a soft tilt; the shoulders open and dropped, unhurried; one hand resting easy while the other hangs relaxed, fingers soft; torso lifted and quietly poised; waist long with a light contrapposto; one leg taking the weight as the other eases, knee soft; weight settled into the standing leg with real ground contact; hair resting against her shoulders. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 
 VIDEO PROMPT (VEO 3.1 · 9:16 · 6.0s · 24fps):
@@ -3699,7 +3699,7 @@ and gold shaft. Textures: wet limestone, fluid jersey, hanging vines, turquoise 
 water-shoes. Continuity-locks: ivory-jade one-shoulder maxi, sand-tone water-shoes,
 turquoise pendant, gold studs, gold anklet, soft damp hair, dewy-natural makeup. Negative:
 STD-NEG; plus no other footwear, no daylight flood, no flat light.
-SUBJECT FRAMING & POSITION: A wide framing on a 24mm look holds Aira — she stands gazing up the sunbeam toward the opening, one hand trailing toward the turquoise water, weight even. She reads front to the lens within the Turquoise Cenote Cave Pool scene. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A wide framing on a 24mm look holds Aira — she stands gazing up the sunbeam toward the opening, one hand trailing toward the turquoise water, weight even. She reads front to the lens within the Turquoise Cenote Cave Pool scene. Her pose reads: gaze steady to camera with quiet confidence; head level and poised; the shoulders squared and easy; both arms relaxed at her sides, fingers soft; torso tall and open, breath lifting the chest; waist long, hips set with a gentle counter-tilt; the legs planted even, one knee soft; weight grounded and balanced across both feet; hair falling naturally at rest. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 
 VIDEO PROMPT (VEO 3.1 · 9:16 · 6.0s · 24fps):
@@ -3738,7 +3738,7 @@ melts to amber-teal. Lighting gold sun-shaft dapple on her face, turquoise bounc
 below. Atmosphere mist, motes, drips. Color grade turquoise-and-amber. Textures: glowing
 water, fluid jersey, pendant, wet stone. Continuity-locks identical. Negative: STD-NEG;
 plus no other footwear, no warped hand, no flat light.
-SUBJECT FRAMING & POSITION: A medium framing on a 50mm look holds Aira — she crouched at the pool's edge, watching turquoise ripples spread from her trailing fingers. She reads at a three-quarter to the lens within the Turquoise Cenote Cave Pool scene. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A medium framing on a 50mm look holds Aira — she crouched at the pool's edge, watching turquoise ripples spread from her trailing fingers. She reads at a three-quarter to the lens within the Turquoise Cenote Cave Pool scene. Her pose reads: gaze level and assured to the lens, composed; head balanced and tall; both shoulders open, level and relaxed; the arms easy at her sides, hands relaxed and open; torso tall and lifted, open to camera; waist long with a soft hip counter-tilt; both legs grounded and even, one taking a touch more weight; weight settled and balanced over both feet in true ground contact; hair settling around her. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 
 VIDEO PROMPT (VEO 3.1 · 9:16 · 6.0s · 24fps):
@@ -3774,7 +3774,7 @@ along her, turquoise water-bounce, amber fill. Atmosphere mist, motes, drips. Co
 turquoise-and-amber. Textures: clear shallow water, fluid jersey, wet stone, vines.
 Continuity-locks identical. Negative: STD-NEG; plus no other footwear, no frozen water, no
 flat light.
-SUBJECT FRAMING & POSITION: A full-length framing on a 35mm look holds Aira — she is wading ankle-deep along the shallow turquoise edge, the fluid maxi lifted slightly in one hand, the sun-shaft lighting her path. She reads in profile to the lens within the Turquoise Cenote Cave Pool scene. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A full-length framing on a 35mm look holds Aira — she is wading ankle-deep along the shallow turquoise edge, the fluid maxi lifted slightly in one hand, the sun-shaft lighting her path. She reads in profile to the lens within the Turquoise Cenote Cave Pool scene. Her pose reads: gaze level along her line through the water, serene; head leading the slow glide; the shoulders easing forward into the wade; both arms fanning out and trailing through the water for balance, fingers relaxed; torso leading gently forward through the surface; waist long, hips easing forward; the front leg wading ahead while the rear trails; weight transferring slowly forward through the submerged footing; hair and fabric drifting with the water's drag. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 
 VIDEO PROMPT (VEO 3.1 · 9:16 · 6.0s · 24fps):
@@ -3814,7 +3814,7 @@ saturated turquoise-teal with brilliant gold light-bars over amber. Textures: mi
 standing water, solid light, fluid jersey, wet stone. Continuity-locks identical.
 Negative: STD-NEG; plus no other footwear, no chaotic flood (dome must read ordered and
 sacred), no drowning, no horror tone, no clipping through her.
-SUBJECT FRAMING & POSITION: A wide framing on a 24mm look holds Aira — she stands at the dry centre of the parted pool, one arm raised into the radiating light-bars, the fluid maxi and hair lifting in the updraft. She reads front to the lens within the Turquoise Cenote Cave Pool scene. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A wide framing on a 24mm look holds Aira — she stands at the dry centre of the parted pool, one arm raised into the radiating light-bars, the fluid maxi and hair lifting in the updraft. She reads front to the lens within the Turquoise Cenote Cave Pool scene. Her pose reads: gaze calm and present, taking in the scene; head balanced with a soft tilt; the shoulders open and dropped, unhurried; one hand resting easy while the other hangs relaxed, fingers soft; torso lifted and quietly poised; waist long with a light contrapposto; one leg taking the weight as the other eases, knee soft; weight settled into the standing leg with real ground contact; hair resting against her shoulders. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 
 VIDEO PROMPT (VEO 3.1 · 9:16 · 6.0s · 24fps):
@@ -3857,7 +3857,7 @@ Framing on an 85mm look, shallow focus, her eyes the sharp plane. Lighting gold 
 key on her face, turquoise bounce, catch-light in each eye. Atmosphere mist, motes. Color
 grade turquoise-and-amber. Textures: skin, pendant, fluid jersey, light. Continuity-locks
 identical. Negative: STD-NEG; plus no other footwear, no plastic skin, no daylight flood.
-SUBJECT FRAMING & POSITION: A medium framing on a 85mm look holds Aira — she 's face in the restored single sun-shaft, gold light grazing her cheek as she watches the last light settle. She reads at a three-quarter to the lens within the Turquoise Cenote Cave Pool scene. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A medium framing on a 85mm look holds Aira — she 's face in the restored single sun-shaft, gold light grazing her cheek as she watches the last light settle. She reads at a three-quarter to the lens within the Turquoise Cenote Cave Pool scene. Her pose reads: gaze steady to camera with quiet confidence; head level and poised; the shoulders squared and easy; both arms relaxed at her sides, fingers soft; torso tall and open, breath lifting the chest; waist long, hips set with a gentle counter-tilt; the legs planted even, one knee soft; weight grounded and balanced across both feet; hair falling naturally at rest. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 
 VIDEO PROMPT (VEO 3.1 · 9:16 · 6.0s · 24fps):
@@ -3890,7 +3890,7 @@ sun-shaft key, turquoise water-bounce, amber shadow. Atmosphere mist, motes, dri
 grade turquoise-and-amber. Textures: glowing water, wet stone, vines, fluid jersey.
 Continuity-locks identical. Negative: STD-NEG; plus no other footwear, no daylight flood,
 no teleport.
-SUBJECT FRAMING & POSITION: A wide framing on a 28mm look holds Aira — she is standing small at the turquoise pool's edge, the single sun-shaft restored onto the still glowing water (post-impossible-move). She reads front to the lens within the Turquoise Cenote Cave Pool scene. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A wide framing on a 28mm look holds Aira — she is standing small at the turquoise pool's edge, the single sun-shaft restored onto the still glowing water (post-impossible-move). She reads front to the lens within the Turquoise Cenote Cave Pool scene. Her pose reads: gaze level and assured to the lens, composed; head balanced and tall; both shoulders open, level and relaxed; the arms easy at her sides, hands relaxed and open; torso tall and lifted, open to camera; waist long with a soft hip counter-tilt; both legs grounded and even, one taking a touch more weight; weight settled and balanced over both feet in true ground contact; hair settling around her. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 
 VIDEO PROMPT (VEO 3.1 · 9:16 · 6.0s · 24fps):
@@ -3951,7 +3951,7 @@ with gold-hour peach. Textures: tulle layers, soft cloud, iridescent platform sa
 pearls. Continuity-locks: lilac-peach tulle cloud-gown, iridescent pearl platform sandals,
 heart-shaped pink sunglasses in hair, pearl hair-clips, tiny-pearl necklace, loose waves,
 pastel-glam makeup. Negative: STD-NEG; plus no other footwear, no overcast, no flat light.
-SUBJECT FRAMING & POSITION: A wide framing on a 24mm look holds Aira — she stands in weightless wonder, arms drifting slightly out for balance, face lifted to the gold sun. She reads front to the lens within the Surreal Cotton-Candy Cloudscape scene. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A wide framing on a 24mm look holds Aira — she stands in weightless wonder, arms drifting slightly out for balance, face lifted to the gold sun. She reads front to the lens within the Surreal Cotton-Candy Cloudscape scene. Her pose reads: gaze calm and present, taking in the scene; head balanced with a soft tilt; the shoulders open and dropped, unhurried; one hand resting easy while the other hangs relaxed, fingers soft; torso lifted and quietly poised; waist long with a light contrapposto; one leg taking the weight as the other eases, knee soft; weight settled into the standing leg with real ground contact; hair resting against her shoulders. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 
 VIDEO PROMPT (VEO 3.1 · 9:16 · 6.0s · 24fps):
@@ -3989,7 +3989,7 @@ shallow focus so she and the cloud-tuft are crisp and the sea melts to pastel. L
 warm gold key, soft cloud-bounce on her face. Atmosphere wisps, sparkle-motes. Color grade
 pink-and-periwinkle. Textures: soft cloud, tulle, pearls, skin. Continuity-locks identical.
 Negative: STD-NEG; plus no other footwear, no warped hands, no flat light.
-SUBJECT FRAMING & POSITION: A medium framing on a 50mm look holds Aira — she is cupping a tuft of pink cotton-candy cloud in both hands, leaning in with a delighted smile. She reads at a three-quarter to the lens within the Surreal Cotton-Candy Cloudscape scene. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A medium framing on a 50mm look holds Aira — she is cupping a tuft of pink cotton-candy cloud in both hands, leaning in with a delighted smile. She reads at a three-quarter to the lens within the Surreal Cotton-Candy Cloudscape scene. Her pose reads: gaze out toward the view, reflective and calm; head tipped gently toward the gaze; the shoulders settling open and relaxed; one arm resting along the support while the other eases, hands soft; torso inclining gently into the lean; waist long with a soft side-tilt; the legs grounded with weight shared into the lean and the planted foot; weight eased between the support and her feet; hair settling with the quiet pose. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 
 VIDEO PROMPT (VEO 3.1 · 9:16 · 6.0s · 24fps):
@@ -4022,7 +4022,7 @@ cloud-sea opening ahead toward the glowing sun, soft sky above. Framing full-len
 rimming her and the floating skirt, pastel bounce. Atmosphere wisps, sparkle-motes. Color
 grade pink-and-periwinkle with gold. Textures: floating tulle, soft cloud. Continuity-locks
 identical. Negative: STD-NEG; plus no other footwear, no frozen fabric, no overcast.
-SUBJECT FRAMING & POSITION: A full-length framing on a 35mm look holds Aira — she is drifting across the cloud-sea toward the golden sun, the vast tulle skirt trailing and merging with the clouds. She reads front to the lens within the Surreal Cotton-Candy Cloudscape scene. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A full-length framing on a 35mm look holds Aira — she is drifting across the cloud-sea toward the golden sun, the vast tulle skirt trailing and merging with the clouds. She reads front to the lens within the Surreal Cotton-Candy Cloudscape scene. Her pose reads: gaze drawn to her hands then lifting, intent and soft; head tilting into the gesture; the working shoulder rising as the hands engage, the other settling; both hands caught mid wearing-action, fingers precise and articulate; torso poised and inclined a touch toward the action; waist long with a soft lean; the legs steady beneath her, one bearing a touch more weight; weight settled evenly with a gentle hip set; hair framing the lifted face. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 
 VIDEO PROMPT (VEO 3.1 · 9:16 · 6.0s · 24fps):
@@ -4057,7 +4057,7 @@ shallow focus, her face the sharp plane. Lighting warm sun-halo backlight, soft 
 fill, gentle flare. Atmosphere wisps, sparkle. Color grade pink-and-gold. Textures: heart
 sunglasses, hair-halo, cloud, skin. Continuity-locks identical (sunglasses now worn).
 Negative: STD-NEG; plus no other footwear, no blown-out face, no overcast.
-SUBJECT FRAMING & POSITION: A medium framing on a 85mm look holds Aira — she 's head so it haloes her waves, as she looks down into lens with a dreamy smile. She reads front to the lens within the Surreal Cotton-Candy Cloudscape scene. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A medium framing on a 85mm look holds Aira — she 's head so it haloes her waves, as she looks down into lens with a dreamy smile. She reads front to the lens within the Surreal Cotton-Candy Cloudscape scene. Her pose reads: gaze steady to camera with quiet confidence; head level and poised; the shoulders squared and easy; both arms relaxed at her sides, fingers soft; torso tall and open, breath lifting the chest; waist long, hips set with a gentle counter-tilt; the legs planted even, one knee soft; weight grounded and balanced across both feet; hair falling naturally at rest. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 
 VIDEO PROMPT (VEO 3.1 · 9:16 · 6.0s · 24fps):
@@ -4096,7 +4096,7 @@ saturated cotton-candy pink and periwinkle with gold. Textures: sculpted cloud-s
 tulle cascade, iridescent platforms. Continuity-locks identical. Negative: STD-NEG; plus
 no other footwear, no chaotic cloud-storm (staircase must read ordered and elegant), no
 falling/peril tone, no clipping through her.
-SUBJECT FRAMING & POSITION: A wide framing on a 24mm look holds Aira — she The scaled-up signature frame: the rolling cotton-candy clouds have gathered and sculpted themselves into a COLOSSAL spiral STAIRCASE of solid-looking cloud winding up. She reads front to the lens within the Surreal Cotton-Candy Cloudscape scene. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A wide framing on a 24mm look holds Aira — she The scaled-up signature frame: the rolling cotton-candy clouds have gathered and sculpted themselves into a COLOSSAL spiral STAIRCASE of solid-looking cloud winding up. She reads front to the lens within the Surreal Cotton-Candy Cloudscape scene. Her pose reads: gaze travelling ahead toward her next mark, alert and easy; head carried level on a long neck; the shoulders relaxed and alternating with the walk; the forward arm swinging up gently as the other draws back, fingers easy; torso upright and gliding over the legs; waist loose and counter-rotating with the steps; the planting foot meeting the ground heel-first while the rear toe lifts to swing through; weight flowing foot to foot with grounded, gliding steps; hair lifting and resettling with each pace. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 
 VIDEO PROMPT (VEO 3.1 · 9:16 · 6.0s · 24fps):
@@ -4138,7 +4138,7 @@ on a 50mm look, medium-shallow focus, her crisp and clouds soft. Lighting warm g
 pastel bounce, sun-flare. Atmosphere softening cloud-wisps, sparkle. Color grade pink-and-
 gold. Textures: soft cloud, tulle, pearls. Continuity-locks identical. Negative: STD-NEG;
 plus no other footwear, no frozen clouds, no overcast.
-SUBJECT FRAMING & POSITION: A medium framing on a 50mm look holds Aira — she on the sunlit cloud-landing. She reads at a three-quarter to the lens within the Surreal Cotton-Candy Cloudscape scene. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A medium framing on a 50mm look holds Aira — she on the sunlit cloud-landing. She reads at a three-quarter to the lens within the Surreal Cotton-Candy Cloudscape scene. Her pose reads: gaze set along her path, calm and purposeful; head balanced and level into the travel; one shoulder easing forward as the opposite arm counter-swings, hands loose; torso lifted and moving forward through the step; waist turning softly with the gait; the lead foot rolling onto the ground as the trailing foot pushes off behind; weight transferring smoothly forward, soles in real contact; hair and hem trailing the stride. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 
 VIDEO PROMPT (VEO 3.1 · 9:16 · 6.0s · 24fps):
@@ -4172,7 +4172,7 @@ horizon. Lighting warm gold-hour key, pastel cloud-bounce, gentle flare. Atmosph
 drifting wisps, sparkle-motes. Color grade pink-and-gold. Textures: cloud-sea, tulle,
 pearls. Continuity-locks identical. Negative: STD-NEG; plus no other footwear, no overcast,
 no teleport.
-SUBJECT FRAMING & POSITION: A wide framing on a 28mm look holds Aira — she is standing small and radiant on the restored rolling cloud- sea, arms loosely open, wisps drifting around her. She reads front to the lens within the Surreal Cotton-Candy Cloudscape scene. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A wide framing on a 28mm look holds Aira — she is standing small and radiant on the restored rolling cloud- sea, arms loosely open, wisps drifting around her. She reads front to the lens within the Surreal Cotton-Candy Cloudscape scene. Her pose reads: gaze level and assured to the lens, composed; head balanced and tall; both shoulders open, level and relaxed; the arms easy at her sides, hands relaxed and open; torso tall and lifted, open to camera; waist long with a soft hip counter-tilt; both legs grounded and even, one taking a touch more weight; weight settled and balanced over both feet in true ground contact; hair settling around her. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 
 VIDEO PROMPT (VEO 3.1 · 9:16 · 6.0s · 24fps):
@@ -4237,7 +4237,7 @@ Continuity-locks: charcoal wool coat-dress + chiffon scarf + trousers, black lea
 sandals, matte-black wraparound sunglasses, silver ear-cuff, silver ring, whipping loose
 hair, cool editorial-glam makeup. Negative: STD-NEG; plus no other footwear, no sunny sky,
 no flat light.
-SUBJECT FRAMING & POSITION: A wide framing on a 24mm look holds Aira — she stands with windswept power, coat-hem and scarf streaming sideways, one hand holding the collar, weight braced against the wind. She reads front to the lens within the Black-Sand Volcanic Coast scene. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A wide framing on a 24mm look holds Aira — she stands with windswept power, coat-hem and scarf streaming sideways, one hand holding the collar, weight braced against the wind. She reads front to the lens within the Black-Sand Volcanic Coast scene. Her pose reads: gaze following the wearing-action with quiet focus; head inclined toward her hands; one shoulder easing in as the arms work, the other relaxed; both hands articulate in the precise gesture, fingers unwarped; torso lengthened and softly leaning into the action; waist easy with a slight tilt; the legs grounded and even, one knee soft; weight balanced with a gentle counter-tilt; hair settling beside the working hands. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 
 VIDEO PROMPT (VEO 3.1 · 9:16 · 6.0s · 24fps):
@@ -4275,7 +4275,7 @@ and the coast melts to silver. Lighting cool silver key, soft sea-bounce, sky in
 lenses. Atmosphere sand-mist, spray. Color grade obsidian-and-silver. Textures: matte
 wool, sheer chiffon, wraparound lens, skin. Continuity-locks identical. Negative: STD-NEG;
 plus no other footwear, no warped hand, no sunny sky.
-SUBJECT FRAMING & POSITION: A medium framing on a 50mm look holds Aira — she is holding her high collar against the wind as the sheer black scarf streams across the frame. She reads at a three-quarter to the lens within the Black-Sand Volcanic Coast scene. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A medium framing on a 50mm look holds Aira — she is holding her high collar against the wind as the sheer black scarf streams across the frame. She reads at a three-quarter to the lens within the Black-Sand Volcanic Coast scene. Her pose reads: gaze drawn to her hands then lifting, intent and soft; head tilting into the gesture; the working shoulder rising as the hands engage, the other settling; both hands caught mid wearing-action, fingers precise and articulate; torso poised and inclined a touch toward the action; waist long with a soft lean; the legs steady beneath her, one bearing a touch more weight; weight settled evenly with a gentle hip set; hair framing the lifted face. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 
 VIDEO PROMPT (VEO 3.1 · 9:16 · 6.0s · 24fps):
@@ -4308,7 +4308,7 @@ shallow focus, her eyes the sharp plane. Lighting cool silver beauty key, soft s
 catch-light in each eye. Atmosphere sand-mist, spray. Color grade obsidian-and-silver.
 Textures: wool, chiffon, skin, lip. Continuity-locks identical. Negative: STD-NEG; plus no
 gaze-drift, no lip mismatch, no other footwear.
-SUBJECT FRAMING & POSITION: A medium framing on a 85mm look holds Aira — she three-quarter to lens as she lowers the matte wraparound sunglasses to meet camera for the spoken line. She reads at a three-quarter to the lens within the Black-Sand Volcanic Coast scene. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A medium framing on a 85mm look holds Aira — she three-quarter to lens as she lowers the matte wraparound sunglasses to meet camera for the spoken line. She reads at a three-quarter to the lens within the Black-Sand Volcanic Coast scene. Her pose reads: gaze following the wearing-action with quiet focus; head inclined toward her hands; one shoulder easing in as the arms work, the other relaxed; both hands articulate in the precise gesture, fingers unwarped; torso lengthened and softly leaning into the action; waist easy with a slight tilt; the legs grounded and even, one knee soft; weight balanced with a gentle counter-tilt; hair settling beside the working hands. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 
 VIDEO PROMPT (VEO 3.1 · 9:16 · 6.0s · 24fps):
@@ -4351,7 +4351,7 @@ silver with sea-foam. Textures: glittering black sand-grains, matte wool, sheer 
 basalt. Continuity-locks identical. Negative: STD-NEG; plus no other footwear, no chaotic
 sandstorm (vortex must read ordered and powerful), no burying her, no horror tone, no
 clipping through her.
-SUBJECT FRAMING & POSITION: A wide framing on a 24mm look holds Aira — she stands at the calm eye, one arm raised into the spiralling sand, the charcoal coat-dress and chiffon scarf streaming upward in the vortex-wind. She reads front to the lens within the Black-Sand Volcanic Coast scene. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A wide framing on a 24mm look holds Aira — she stands at the calm eye, one arm raised into the spiralling sand, the charcoal coat-dress and chiffon scarf streaming upward in the vortex-wind. She reads front to the lens within the Black-Sand Volcanic Coast scene. Her pose reads: gaze calm and present, taking in the scene; head balanced with a soft tilt; the shoulders open and dropped, unhurried; one hand resting easy while the other hangs relaxed, fingers soft; torso lifted and quietly poised; waist long with a light contrapposto; one leg taking the weight as the other eases, knee soft; weight settled into the standing leg with real ground contact; hair resting against her shoulders. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 
 VIDEO PROMPT (VEO 3.1 · 9:16 · 6.0s · 24fps):
@@ -4393,7 +4393,7 @@ Framing full-length on a 35mm look, medium depth, she crisp and the coast soft. 
 cool silver rim along her, steel sea-bounce. Atmosphere sand-mist, spray. Color grade
 obsidian-and-silver. Textures: wool, chiffon, wet black sand, leather sandals. Continuity-
 locks identical. Negative: STD-NEG; plus no other footwear, no frozen fabric, no sunny sky.
-SUBJECT FRAMING & POSITION: A full-length framing on a 35mm look holds Aira — she is walking the wave-line on the restored smooth black beach, surf swirling around her combat sandals, coat-hem and scarf streaming. She reads in profile to the lens within the Black-Sand Volcanic Coast scene. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A full-length framing on a 35mm look holds Aira — she is walking the wave-line on the restored smooth black beach, surf swirling around her combat sandals, coat-hem and scarf streaming. She reads in profile to the lens within the Black-Sand Volcanic Coast scene. Her pose reads: gaze drawn to her hands then lifting, intent and soft; head tilting into the gesture; the working shoulder rising as the hands engage, the other settling; both hands caught mid wearing-action, fingers precise and articulate; torso poised and inclined a touch toward the action; waist long with a soft lean; the legs steady beneath her, one bearing a touch more weight; weight settled evenly with a gentle hip set; hair framing the lifted face. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 
 VIDEO PROMPT (VEO 3.1 · 9:16 · 6.0s · 24fps):
@@ -4426,7 +4426,7 @@ Lighting cool silver key, soft steel fill, catch-light in each eye. Atmosphere s
 Color grade obsidian-and-silver. Textures: iris detail, silver ear-cuff, skin, hair.
 Continuity-locks identical. Negative: STD-NEG; plus no warped eye, no plastic skin, no
 other footwear reference.
-SUBJECT FRAMING & POSITION: A extreme close-up framing on a 100mm look holds Aira — she 's eyes and the silver ear-cuff as wind-whipped strands cross her face under the silver sky. She reads front to the lens within the Black-Sand Volcanic Coast scene. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A extreme close-up framing on a 100mm look holds Aira — she 's eyes and the silver ear-cuff as wind-whipped strands cross her face under the silver sky. She reads front to the lens within the Black-Sand Volcanic Coast scene. Her pose reads: gaze steady to camera with quiet confidence; head level and poised; the shoulders squared and easy; both arms relaxed at her sides, fingers soft; torso tall and open, breath lifting the chest; waist long, hips set with a gentle counter-tilt; the legs planted even, one knee soft; weight grounded and balanced across both feet; hair falling naturally at rest. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 
 VIDEO PROMPT (VEO 3.1 · 9:16 · 6.0s · 24fps):
@@ -4489,7 +4489,7 @@ boots, chrome. Continuity-locks: metallic-silver lamé column gown, holographic 
 ankle boots, mirrored visor-headband, chrome bangles, geometric silver earrings, sleek
 straight hair, futuristic-glam makeup. Negative: STD-NEG; plus no other footwear, no
 daylight, no flat light.
-SUBJECT FRAMING & POSITION: A wide framing on a 24mm look holds Aira — she stands in a confident pose, one hand on her hip, chin level, her reflections fanning out around her. She reads front to the lens within the Infinity Mirror-Light Room scene. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A wide framing on a 24mm look holds Aira — she stands in a confident pose, one hand on her hip, chin level, her reflections fanning out around her. She reads front to the lens within the Infinity Mirror-Light Room scene. Her pose reads: gaze level and assured to the lens, composed; head balanced and tall; both shoulders open, level and relaxed; the arms easy at her sides, hands relaxed and open; torso tall and lifted, open to camera; waist long with a soft hip counter-tilt; both legs grounded and even, one taking a touch more weight; weight settled and balanced over both feet in true ground contact; hair settling around her. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 
 VIDEO PROMPT (VEO 3.1 · 9:16 · 6.0s · 24fps):
@@ -4528,7 +4528,7 @@ Lighting violet-cyan LED key, mirror-bounce, white rim at the touch. Atmosphere 
 points, haze. Color grade violet-cyan and silver. Textures: lamé, mirror-glass, chrome,
 skin. Continuity-locks identical. Negative: STD-NEG; plus no other footwear, no warped
 hand, no flat light.
-SUBJECT FRAMING & POSITION: A medium framing on a 50mm look holds Aira — she is raising one chrome-tipped hand toward a mirror wall, her reflection meeting it fingertip-to-fingertip, LED points haloing them. She reads at a three-quarter to the lens within the Infinity Mirror-Light Room scene. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A medium framing on a 50mm look holds Aira — she is raising one chrome-tipped hand toward a mirror wall, her reflection meeting it fingertip-to-fingertip, LED points haloing them. She reads at a three-quarter to the lens within the Infinity Mirror-Light Room scene. Her pose reads: gaze following the wearing-action with quiet focus; head inclined toward her hands; one shoulder easing in as the arms work, the other relaxed; both hands articulate in the precise gesture, fingers unwarped; torso lengthened and softly leaning into the action; waist easy with a slight tilt; the legs grounded and even, one knee soft; weight balanced with a gentle counter-tilt; hair settling beside the working hands. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 
 VIDEO PROMPT (VEO 3.1 · 9:16 · 6.0s · 24fps):
@@ -4561,7 +4561,7 @@ Framing on an 85mm look, shallow focus, her eyes the sharp plane. Lighting viole
 beauty key, mirror-fill, catch-light in each eye. Atmosphere glowing points. Color grade
 violet-cyan and silver. Textures: lamé, chrome, skin, lip. Continuity-locks identical.
 Negative: STD-NEG; plus no gaze-drift, no lip mismatch, no other footwear.
-SUBJECT FRAMING & POSITION: A medium framing on a 85mm look holds Aira — she three-quarter to lens, LED points floating around her face, her metallic eyes lifting to camera for the spoken line. She reads at a three-quarter to the lens within the Infinity Mirror-Light Room scene. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A medium framing on a 85mm look holds Aira — she three-quarter to lens, LED points floating around her face, her metallic eyes lifting to camera for the spoken line. She reads at a three-quarter to the lens within the Infinity Mirror-Light Room scene. Her pose reads: gaze calm and present, taking in the scene; head balanced with a soft tilt; the shoulders open and dropped, unhurried; one hand resting easy while the other hangs relaxed, fingers soft; torso lifted and quietly poised; waist long with a light contrapposto; one leg taking the weight as the other eases, knee soft; weight settled into the standing leg with real ground contact; hair resting against her shoulders. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 
 VIDEO PROMPT (VEO 3.1 · 9:16 · 6.0s · 24fps):
@@ -4605,7 +4605,7 @@ lamé, mirror-glass, chrome, light-streaks. Continuity-locks identical (every re
 must match her exact likeness and wardrobe). Negative: STD-NEG; plus no other
 footwear, no chaotic glitch-mess (lattice must read ordered and elegant), no horror tone,
 no distorted/wrong faces on reflections, no clipping.
-SUBJECT FRAMING & POSITION: A wide framing on a 24mm look holds Aira — she stands at the centre, one hand lifting, the metallic lamé gown catching the violet-cyan light. She reads front to the lens within the Infinity Mirror-Light Room scene. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A wide framing on a 24mm look holds Aira — she stands at the centre, one hand lifting, the metallic lamé gown catching the violet-cyan light. She reads front to the lens within the Infinity Mirror-Light Room scene. Her pose reads: gaze steady to camera with quiet confidence; head level and poised; the shoulders squared and easy; both arms relaxed at her sides, fingers soft; torso tall and open, breath lifting the chest; waist long, hips set with a gentle counter-tilt; the legs planted even, one knee soft; weight grounded and balanced across both feet; hair falling naturally at rest. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 
 VIDEO PROMPT (VEO 3.1 · 9:16 · 6.0s · 24fps):
@@ -4649,7 +4649,7 @@ soft. Lighting violet-cyan LED key, mirror-bounce, a soft rim. Atmosphere glowin
 Color grade violet-cyan and silver. Textures: lamé, mirror, holographic boots. Continuity-
 locks identical. Negative: STD-NEG; plus no other footwear, no desynced reflections, no
 daylight.
-SUBJECT FRAMING & POSITION: A full-length framing on a 35mm look holds Aira — she is walking forward through the mirror-room, her reflections striding in perfect sync on either side (post-impossible-move). She reads at a three-quarter to the lens within the Infinity Mirror-Light Room scene. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A full-length framing on a 35mm look holds Aira — she is walking forward through the mirror-room, her reflections striding in perfect sync on either side (post-impossible-move). She reads at a three-quarter to the lens within the Infinity Mirror-Light Room scene. Her pose reads: gaze carried ahead in her direction of travel, chin level and assured; head leading the line of the walk; the shoulders swinging in easy opposition to the stride; the leading arm easing forward while the trailing arm swings back, hands relaxed and open; torso tall and carried forward over the steps; waist rotating gently with each stride; the front leg reaching to plant heel-first while the rear leg drives off the toe; weight rolling heel-to-toe from foot to foot in true ground contact; hair and fabric lifting a beat behind the motion. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 
 VIDEO PROMPT (VEO 3.1 · 9:16 · 6.0s · 24fps):
@@ -4684,7 +4684,7 @@ living gobo, catch-light in the eye. Atmosphere glowing points. Color grade viol
 and silver. Textures: iris detail, mirrored visor, chrome, skin. Continuity-locks
 identical. Negative: STD-NEG; plus no warped eye, no plastic skin, no other footwear
 reference.
-SUBJECT FRAMING & POSITION: A extreme close-up framing on a 100mm look holds Aira — she 's eye and the mirrored visor-edge with violet-cyan LED points reflected as tiny stars across her iris and skin. She reads front to the lens within the Infinity Mirror-Light Room scene. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A extreme close-up framing on a 100mm look holds Aira — she 's eye and the mirrored visor-edge with violet-cyan LED points reflected as tiny stars across her iris and skin. She reads front to the lens within the Infinity Mirror-Light Room scene. Her pose reads: gaze level and assured to the lens, composed; head balanced and tall; both shoulders open, level and relaxed; the arms easy at her sides, hands relaxed and open; torso tall and lifted, open to camera; waist long with a soft hip counter-tilt; both legs grounded and even, one taking a touch more weight; weight settled and balanced over both feet in true ground contact; hair settling around her. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 
 VIDEO PROMPT (VEO 3.1 · 9:16 · 6.0s · 24fps):
@@ -4747,7 +4747,7 @@ cream cable-knit sweater + rust corduroy skirt + amber plaid scarf, brown leathe
 boots, round tortoiseshell sunglasses in hair, gold-leaf earrings, gold watch, woven
 pumpkin-basket, loose waves, autumn-glam makeup. Negative: STD-NEG; plus no other footwear,
 no summer light, no flat light.
-SUBJECT FRAMING & POSITION: A wide framing on a 24mm look holds Aira — she stands among rows of plump orange pumpkins in a golden autumn patch strung overhead with warm festival string-lights, hay bales and a red barn behind. She reads front to the lens within the Autumn Pumpkin-Patch Festival scene. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A wide framing on a 24mm look holds Aira — she stands among rows of plump orange pumpkins in a golden autumn patch strung overhead with warm festival string-lights, hay bales and a red barn behind. She reads front to the lens within the Autumn Pumpkin-Patch Festival scene. Her pose reads: gaze calm and present, taking in the scene; head balanced with a soft tilt; the shoulders open and dropped, unhurried; one hand resting easy while the other hangs relaxed, fingers soft; torso lifted and quietly poised; waist long with a light contrapposto; one leg taking the weight as the other eases, knee soft; weight settled into the standing leg with real ground contact; hair resting against her shoulders. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 
 VIDEO PROMPT (VEO 3.1 · 9:16 · 6.0s · 24fps):
@@ -4784,7 +4784,7 @@ melts to amber. Lighting warm string-light key, dusk fill, glow on her face. Atm
 drifting leaves, haze. Color grade amber-and-dusk. Textures: pumpkin-skin, cable-knit,
 plaid wool, skin. Continuity-locks identical. Negative: STD-NEG; plus no other footwear, no
 warped hands, no flat light.
-SUBJECT FRAMING & POSITION: A medium framing on a 50mm look holds Aira — she is lifting a small round pumpkin from her basket to admire it, a warm smile on her lips, string-lights glowing bokeh behind. She reads at a three-quarter to the lens within the Autumn Pumpkin-Patch Festival scene. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A medium framing on a 50mm look holds Aira — she is lifting a small round pumpkin from her basket to admire it, a warm smile on her lips, string-lights glowing bokeh behind. She reads at a three-quarter to the lens within the Autumn Pumpkin-Patch Festival scene. Her pose reads: gaze easing toward the lens or her task, soft and composed; head level with a gentle tilt; the shoulders relaxed and open; one arm resting or working at the task while the other settles, hands articulate; torso poised and lengthened over the seat; waist long with a gentle lean; the legs folded or crossed at the seat, one knee leading; weight settled into the seat and the grounded foot; hair falling naturally with the seated poise. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 
 VIDEO PROMPT (VEO 3.1 · 9:16 · 6.0s · 24fps):
@@ -4818,7 +4818,7 @@ crisp and the patch soft. Lighting warm string-light rim along her, dusk-violet 
 Atmosphere drifting leaves, haze, woodsmoke. Color grade amber-and-dusk. Textures: cable-
 knit, corduroy, leather boots, straw. Continuity-locks identical. Negative: STD-NEG; plus
 no other footwear, no frozen leaves, no summer light.
-SUBJECT FRAMING & POSITION: A full-length framing on a 35mm look holds Aira — she is walking down a pumpkin row toward the glowing barn, the basket on her arm, corduroy skirt swaying, leaves drifting around her. She reads in profile to the lens within the Autumn Pumpkin-Patch Festival scene. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A full-length framing on a 35mm look holds Aira — she is walking down a pumpkin row toward the glowing barn, the basket on her arm, corduroy skirt swaying, leaves drifting around her. She reads in profile to the lens within the Autumn Pumpkin-Patch Festival scene. Her pose reads: gaze easing toward the lens or her task, soft and composed; head level with a gentle tilt; the shoulders relaxed and open; one arm resting or working at the task while the other settles, hands articulate; torso poised and lengthened over the seat; waist long with a gentle lean; the legs folded or crossed at the seat, one knee leading; weight settled into the seat and the grounded foot; hair falling naturally with the seated poise. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 
 VIDEO PROMPT (VEO 3.1 · 9:16 · 6.0s · 24fps):
@@ -4853,7 +4853,7 @@ shallow focus, her eyes the sharp plane. Lighting warm string-light beauty key, 
 catch-light in each eye. Atmosphere drifting-leaf sparkle. Color grade amber-and-dusk.
 Textures: tortoiseshell frames, cable-knit, skin. Continuity-locks identical. Negative:
 STD-NEG; plus no other footwear, no plastic skin, no summer light.
-SUBJECT FRAMING & POSITION: A medium framing on a 85mm look holds Aira — she 's face warmed by the golden string-lights as she lowers the round tortoiseshell sunglasses from her hair. She reads at a three-quarter to the lens within the Autumn Pumpkin-Patch Festival scene. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A medium framing on a 85mm look holds Aira — she 's face warmed by the golden string-lights as she lowers the round tortoiseshell sunglasses from her hair. She reads at a three-quarter to the lens within the Autumn Pumpkin-Patch Festival scene. Her pose reads: gaze drawn to her hands then lifting, intent and soft; head tilting into the gesture; the working shoulder rising as the hands engage, the other settling; both hands caught mid wearing-action, fingers precise and articulate; torso poised and inclined a touch toward the action; waist long with a soft lean; the legs steady beneath her, one bearing a touch more weight; weight settled evenly with a gentle hip set; hair framing the lifted face. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 
 VIDEO PROMPT (VEO 3.1 · 9:16 · 6.0s · 24fps):
@@ -4892,7 +4892,7 @@ epic, cozy-magical, suspended leaves and dust. Color grade saturated amber-crims
 golden with dusk-violet. Textures: glowing translucent leaves, cable-knit, corduroy,
 pumpkins. Continuity-locks identical. Negative: STD-NEG; plus no other footwear, no chaotic
 leaf-storm (arch must read ordered and elegant), no horror tone, no clipping through her.
-SUBJECT FRAMING & POSITION: A wide framing on a 24mm look holds Aira — she The scaled-up signature frame: all the fallen autumn leaves across the patch have lifted at once and swirled up around Aira. She reads front to the lens within the Autumn Pumpkin-Patch Festival scene. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A wide framing on a 24mm look holds Aira — she The scaled-up signature frame: all the fallen autumn leaves across the patch have lifted at once and swirled up around Aira. She reads front to the lens within the Autumn Pumpkin-Patch Festival scene. Her pose reads: gaze steady to camera with quiet confidence; head level and poised; the shoulders squared and easy; both arms relaxed at her sides, fingers soft; torso tall and open, breath lifting the chest; waist long, hips set with a gentle counter-tilt; the legs planted even, one knee soft; weight grounded and balanced across both feet; hair falling naturally at rest. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 
 VIDEO PROMPT (VEO 3.1 · 9:16 · 6.0s · 24fps):
@@ -4934,7 +4934,7 @@ focus, her crisp and leaves soft. Lighting warm string-light key, dusk fill, lea
 Atmosphere drifting leaves, haze. Color grade amber-and-dusk. Textures: amber leaf, cable-
 knit, plaid, skin. Continuity-locks identical. Negative: STD-NEG; plus no other footwear,
 no frozen leaves, no summer light.
-SUBJECT FRAMING & POSITION: A medium framing on a 50mm look holds Aira — she with a radiant smile, hand outstretched as the last amber leaves drift down around her (post-impossible-move). She reads at a three-quarter to the lens within the Autumn Pumpkin-Patch Festival scene. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A medium framing on a 50mm look holds Aira — she with a radiant smile, hand outstretched as the last amber leaves drift down around her (post-impossible-move). She reads at a three-quarter to the lens within the Autumn Pumpkin-Patch Festival scene. Her pose reads: gaze following the wearing-action with quiet focus; head inclined toward her hands; one shoulder easing in as the arms work, the other relaxed; both hands articulate in the precise gesture, fingers unwarped; torso lengthened and softly leaning into the action; waist easy with a slight tilt; the legs grounded and even, one knee soft; weight balanced with a gentle counter-tilt; hair settling beside the working hands. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 
 VIDEO PROMPT (VEO 3.1 · 9:16 · 6.0s · 24fps):
@@ -4967,7 +4967,7 @@ far barn. Lighting warm string-light key, night-violet sky, cozy amber glow. Atm
 drifting leaves, woodsmoke, haze. Color grade amber and night-violet. Textures: pumpkins,
 cable-knit, string-lights, straw. Continuity-locks identical. Negative: STD-NEG; plus no
 other footwear, no summer light, no teleport.
-SUBJECT FRAMING & POSITION: A wide framing on a 28mm look holds Aira — she is standing small and warm among the pumpkins as the sky deepens to night-violet and the festival string-lights blaze. She reads front to the lens within the Autumn Pumpkin-Patch Festival scene. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A wide framing on a 28mm look holds Aira — she is standing small and warm among the pumpkins as the sky deepens to night-violet and the festival string-lights blaze. She reads front to the lens within the Autumn Pumpkin-Patch Festival scene. Her pose reads: gaze level and assured to the lens, composed; head balanced and tall; both shoulders open, level and relaxed; the arms easy at her sides, hands relaxed and open; torso tall and lifted, open to camera; waist long with a soft hip counter-tilt; both legs grounded and even, one taking a touch more weight; weight settled and balanced over both feet in true ground contact; hair settling around her. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 
 VIDEO PROMPT (VEO 3.1 · 9:16 · 6.0s · 24fps):
@@ -5035,7 +5035,7 @@ crystal heels, opera gloves. Continuity-locks: champagne-gold crystal-beaded bal
 crystal-clear faceted heels, gold filigree jeweled eye-mask, champagne opera gloves,
 diamond choker, chandelier-drop diamond earrings, swept-up chignon, masquerade-glam makeup.
 Negative: STD-NEG; plus no other footwear, no daylight, no flat light.
-SUBJECT FRAMING & POSITION: A wide framing on a 24mm look holds Aira — she stands at the top of a sweeping marble staircase entering a grand masquerade ballroom — a vast candlelit hall with towering crystal chandeliers, gilded mirrors. She reads front to the lens within the Grand Masquerade Ballroom scene. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A wide framing on a 24mm look holds Aira — she stands at the top of a sweeping marble staircase entering a grand masquerade ballroom — a vast candlelit hall with towering crystal chandeliers, gilded mirrors. She reads front to the lens within the Grand Masquerade Ballroom scene. Her pose reads: gaze calm and present, taking in the scene; head balanced with a soft tilt; the shoulders open and dropped, unhurried; one hand resting easy while the other hangs relaxed, fingers soft; torso lifted and quietly poised; waist long with a light contrapposto; one leg taking the weight as the other eases, knee soft; weight settled into the standing leg with real ground contact; hair resting against her shoulders. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 
 VIDEO PROMPT (VEO 3.1 · 9:16 · 6.0s · 24fps):
@@ -5075,7 +5075,7 @@ chandelier key, gilt bounce, sparkle on mask-crystals and beadwork. Atmosphere g
 haze. Color grade champagne-and-midnight. Textures: filigree mask, crystal beads, satin
 glove, skin. Continuity-locks identical. Negative: STD-NEG; plus no other footwear, no
 warped gloved hand, no flat light.
-SUBJECT FRAMING & POSITION: A medium framing on a 50mm look holds Aira — she lightly touching the edge of her gold filigree eye-mask with a gloved fingertip, a mysterious smile on her red lips. She reads at a three-quarter to the lens within the Grand Masquerade Ballroom scene. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A medium framing on a 50mm look holds Aira — she lightly touching the edge of her gold filigree eye-mask with a gloved fingertip, a mysterious smile on her red lips. She reads at a three-quarter to the lens within the Grand Masquerade Ballroom scene. Her pose reads: gaze drawn to her hands then lifting, intent and soft; head tilting into the gesture; the working shoulder rising as the hands engage, the other settling; both hands caught mid wearing-action, fingers precise and articulate; torso poised and inclined a touch toward the action; waist long with a soft lean; the legs steady beneath her, one bearing a touch more weight; weight settled evenly with a gentle hip set; hair framing the lifted face. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 
 VIDEO PROMPT (VEO 3.1 · 9:16 · 6.0s · 24fps):
@@ -5110,7 +5110,7 @@ hall soft gold. Lighting warm chandelier key, gilt bounce, burgundy shadow. Atmo
 gold dust, drifting feathers. Color grade champagne-and-midnight. Textures: tulle-and-silk,
 crystal beads, marble, crystal heels. Continuity-locks identical. Negative: STD-NEG; plus
 no other footwear, no frozen fabric, no daylight.
-SUBJECT FRAMING & POSITION: A full-length framing on a 35mm look holds Aira — she is descending the marble staircase, the immense champagne gown cascading down the steps behind her. She reads at a three-quarter to the lens within the Grand Masquerade Ballroom scene. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A full-length framing on a 35mm look holds Aira — she is descending the marble staircase, the immense champagne gown cascading down the steps behind her. She reads at a three-quarter to the lens within the Grand Masquerade Ballroom scene. Her pose reads: gaze trailing the turn then finding its line, eyes shining; head carried round with the rotation; shoulders level and open through the spin; the arms floating wide and high in a balletic line, fingers soft; torso lengthened and turning on its axis; waist coiling through the turn; the supporting leg rooted on the ball of the foot while the other arcs out; weight spinning over the planted foot; hair and hem sweeping into a wide arc. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 
 VIDEO PROMPT (VEO 3.1 · 9:16 · 6.0s · 24fps):
@@ -5146,7 +5146,7 @@ mask the sharp plane. Lighting warm chandelier beauty key, gilt fill, catch-ligh
 eye through the mask. Atmosphere gold-dust sparkle. Color grade champagne-and-midnight.
 Textures: filigree mask, crystal beads, satin glove, skin, red lip. Continuity-locks
 identical. Negative: STD-NEG; plus no gaze-drift, no lip mismatch, no other footwear.
-SUBJECT FRAMING & POSITION: A medium framing on a 85mm look holds Aira — she three-quarter to lens on the ballroom floor, her eyes bright behind the gold filigree mask lifting to camera for the spoken line. She reads at a three-quarter to the lens within the Grand Masquerade Ballroom scene. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A medium framing on a 85mm look holds Aira — she three-quarter to lens on the ballroom floor, her eyes bright behind the gold filigree mask lifting to camera for the spoken line. She reads at a three-quarter to the lens within the Grand Masquerade Ballroom scene. Her pose reads: gaze steady to camera with quiet confidence; head level and poised; the shoulders squared and easy; both arms relaxed at her sides, fingers soft; torso tall and open, breath lifting the chest; waist long, hips set with a gentle counter-tilt; the legs planted even, one knee soft; weight grounded and balanced across both feet; hair falling naturally at rest. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 
 VIDEO PROMPT (VEO 3.1 · 9:16 · 6.0s · 24fps):
@@ -5192,7 +5192,7 @@ under-layer, diamond, marble. Continuity-locks: mask, choker, earrings, gloves, 
 crystal heels all persist; modest crystalline coverage maintained throughout. Negative:
 STD-NEG; plus no other footwear, no chaotic swarm (flock must read ordered and elegant), no
 exposure/immodesty, no horror tone, no clipping through her.
-SUBJECT FRAMING & POSITION: A wide framing on a 24mm look holds Aira — she stands at the radiant centre in a slip of crystal light where the gown is mid- transformation (modest, fully covered in a shimmering crystalline under-layer). She reads front to the lens within the Grand Masquerade Ballroom scene. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A wide framing on a 24mm look holds Aira — she stands at the radiant centre in a slip of crystal light where the gown is mid- transformation (modest, fully covered in a shimmering crystalline under-layer). She reads front to the lens within the Grand Masquerade Ballroom scene. Her pose reads: gaze following the wearing-action with quiet focus; head inclined toward her hands; one shoulder easing in as the arms work, the other relaxed; both hands articulate in the precise gesture, fingers unwarped; torso lengthened and softly leaning into the action; waist easy with a slight tilt; the legs grounded and even, one knee soft; weight balanced with a gentle counter-tilt; hair settling beside the working hands. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 
 VIDEO PROMPT (VEO 3.1 · 9:16 · 6.0s · 24fps):
@@ -5238,7 +5238,7 @@ soft gold. Lighting warm chandelier key, gilt bounce, crystalline gown-sparkle. 
 gold dust, feathers. Color grade champagne-and-midnight. Textures: crystalline gown, marble,
 diamond, crystal heels. Continuity-locks identical. Negative: STD-NEG; plus no other
 footwear, no frozen fabric, no daylight.
-SUBJECT FRAMING & POSITION: A full-length framing on a 35mm look holds Aira — she mid-waltz-turn on the ballroom floor in her reformed, more-dazzling crystalline gown (post-impossible-move). She reads at a three-quarter to the lens within the Grand Masquerade Ballroom scene. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A full-length framing on a 35mm look holds Aira — she mid-waltz-turn on the ballroom floor in her reformed, more-dazzling crystalline gown (post-impossible-move). She reads at a three-quarter to the lens within the Grand Masquerade Ballroom scene. Her pose reads: gaze sweeping round with the turn, bright and alive; head tipping with the rotation; both shoulders open and carrying the spin; both arms sweeping wide and lifted, fingers relaxed and spread; torso tall with a gentle lift through the spine, revolving through the turn; waist winding with the rotation; the pivot leg planted and bearing the turn while the free leg sweeps out and tucks; weight centred over the spinning foot, the other grazing the ground; hair and fabric fanning out with the spin. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 
 VIDEO PROMPT (VEO 3.1 · 9:16 · 6.0s · 24fps):
@@ -5274,7 +5274,7 @@ Lighting warm chandelier beauty key, gilt fill, catch-light in each eye. Atmosph
 dust sparkle. Color grade champagne-and-midnight. Textures: filigree mask, skin, diamond,
 glove. Continuity-locks identical. Negative: STD-NEG; plus no other footwear, no plastic
 skin, no daylight.
-SUBJECT FRAMING & POSITION: A medium framing on a 85mm look holds Aira — she slowly lowering the gold filigree mask from her eyes with one gloved hand, revealing her full radiant gaze. She reads at a three-quarter to the lens within the Grand Masquerade Ballroom scene. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A medium framing on a 85mm look holds Aira — she slowly lowering the gold filigree mask from her eyes with one gloved hand, revealing her full radiant gaze. She reads at a three-quarter to the lens within the Grand Masquerade Ballroom scene. Her pose reads: gaze level and assured to the lens, composed; head balanced and tall; both shoulders open, level and relaxed; the arms easy at her sides, hands relaxed and open; torso tall and lifted, open to camera; waist long with a soft hip counter-tilt; both legs grounded and even, one taking a touch more weight; weight settled and balanced over both feet in true ground contact; hair settling around her. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 
 VIDEO PROMPT (VEO 3.1 · 9:16 · 6.0s · 24fps):
@@ -5308,7 +5308,7 @@ chandelier key with crystal-refraction sparkle as a living gobo, catch-light in 
 Atmosphere gold-dust sparkle. Color grade champagne-and-midnight. Textures: iris detail,
 diamond earring, skin. Continuity-locks identical. Negative: STD-NEG; plus no warped eye,
 no plastic skin, no other footwear reference.
-SUBJECT FRAMING & POSITION: A extreme close-up framing on a 100mm look holds Aira — she 's now-unmasked eyes and one chandelier-drop diamond earring with warm chandelier-light dancing across her skin. She reads front to the lens within the Grand Masquerade Ballroom scene. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A extreme close-up framing on a 100mm look holds Aira — she 's now-unmasked eyes and one chandelier-drop diamond earring with warm chandelier-light dancing across her skin. She reads front to the lens within the Grand Masquerade Ballroom scene. Her pose reads: gaze drawn to her hands then lifting, intent and soft; head tilting into the gesture; the working shoulder rising as the hands engage, the other settling; both hands caught mid wearing-action, fingers precise and articulate; torso poised and inclined a touch toward the action; waist long with a soft lean; the legs steady beneath her, one bearing a touch more weight; weight settled evenly with a gentle hip set; hair framing the lifted face. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 
 VIDEO PROMPT (VEO 3.1 · 9:16 · 6.0s · 24fps):
