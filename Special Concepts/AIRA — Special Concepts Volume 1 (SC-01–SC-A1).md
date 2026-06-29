@@ -1163,3 +1163,361 @@ piano/harp, warm sub, glassy choir atmosphere, a single swell for the bloom-comp
 **→ Loops back to Frame 1 (the simple slip on the garden path).**
 
 **Stills to generate:** 3 per frame × 3 frames = 9 (Subject in that beat's wardrobe state + @texture swatch + Environment). Score = 18s MASTER AUDIO under the diegetic.
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+# SC-17 · FOUR SEASONS, ONE PATH (Walk) · 5 shots × 6s · *(prop-less — 2 stills per frame: Subject + Environment)*
+**Logline:** One tree-lined path, walked once — but the world re-skins around her through the four seasons:
+spring blossom → summer green → autumn gold → winter snow → back to a first bud of spring. The same path, the same
+walk; only the season changes. Signature: a clean season-transition sweep at each cut (the same trees/ground/light
+morph season to season). Poetic, magical, continuous.
+**Arc:** SPRING BLOSSOM → SUMMER GREEN → AUTUMN GOLD → WINTER SNOW → FIRST SPRING BUD (loop).
+
+## MASTER AUDIO (outside the frames — background music)
+A 30-second custom cinematic score (5 clips × 6s) in self-resolving ~6-second phrases, trimmable at any phrase
+boundary. Built on a felt piano, warm strings, a celesta and tone-shifting woodwinds (one per season) over a warm
+sub — poetic, magical, tender. Opens (no fade-in) on a soft piano figure. Arc: a tender spring open, a bright
+summer lift, a warm nostalgic autumn, a hushed enchanted winter, then a hopeful spring-return resolve for an
+invisible loop. Laid UNDER the diegetic — no spoken line; optional wordless aah on the spring-return only. Layered:
+piano/woodwind shifting colour per season, warm sub, celesta shimmer, soft strings, gentle swells at each season-turn.
+
+## GLOBAL STYLE LOCKS
+- **Outfit:** a cream pleated midi-dress under a colour-block cardigan (sage / blush / rust panels), worn open — the base stays constant; layering adjusts per season (loose → off-shoulder → scarf-wrapped → bundled + mittens → loosening).
+- **Headwear:** none. **Accessories:** a soft scarf (used from autumn), cream mittens (winter). **Eye colour:** warm amber-hazel. **Makeup:** soft natural glow — luminous skin, soft rose lip, fresh per season (dewy → sun-warm → warm → cool-flushed). **Hair:** **long loose natural hair with a soft half-twist** (constant). **Footwear:** tan ankle boots. **Nails:** short soft blush.
+- **Hero object:** none (the path is the set) → each frame uses 2 stills (Subject + Environment); a single leaf/blossom/seed she catches each season.
+- **Signature (grounded):** at each cut the season sweeps over the SAME path — blossom → green leaves → gold-fall → bare-snow — a believable seasonal change of the same trees/ground/light, not a cartoon wipe. Real falling blossom, leaves, snow.
+- **Journey + light:** soft pink spring morning → bright green summer noon → warm gold autumn afternoon → cool blue winter dusk → first soft spring light again. *Footing: she walks the same path throughout; only the season changes.*
+
+---
+### FRAME 1 — SPRING BLOSSOM
+**Frame angle:** low ¾ front (~30° left, track-with), soft pink spring morning light.
+**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **low ¾ front (~30° left)**. · Outfit: cream pleated midi + sage/blush/rust cardigan worn loose & open. · Headwear: none. · Accessories: none yet. · Eye colour: amber-hazel. · Makeup: dewy spring, soft rose lip. · Hair: long loose half-twist. · Footwear: tan ankle boots. · Nails: soft blush. · static & neutral, plain blank background. *(Layering: cardigan loose, no scarf.)*
+**STILL 2 · ENVIRONMENT:** the tree path in spring — arching boughs heavy with pink-white blossom, petals drifting, fresh green underfoot, soft pink morning light; low ¾-front vantage, deep perspective.
+**VIDEO PROMPT:**
+- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
+- *Animation:* FULL, **one continuous low track with her down the path.** [00:00–00:02] she walks the blossom avenue mid-stride, pink-white petals drifting, fresh green underfoot. [00:02–00:04] she lifts an open hand and catches a drifting petal, gazing up into the blossom with a soft wondering smile. [00:04–00:06] she walks on, and as she passes the season begins to turn — first blossom giving way to full green leaves ahead. Real-time, real drifting blossom + natural walking; 9:16.
+- *AUDIO (in-frame):* ambient/object — a soft spring breeze, blossom petals rustling, birdsong, light footfalls; voice — Aira's soft wondering breath and a gentle "ah" catching a petal.
+**→ Cut (season sweep, match-on-action) to Frame 2 — the same path, now full summer green.**
+
+---
+### FRAME 2 — SUMMER GREEN
+**Frame angle:** full profile (true side, parallel track), bright green-gold summer noon.
+**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, in **full profile**. · Outfit: cream midi + cardigan eased off one shoulder. · Headwear: none. · Accessories: none. · Eye colour: amber-hazel. · Makeup: sun-warm, rose lip. · Hair: long loose half-twist. · Footwear: tan ankle boots. · Nails: soft blush. · static & neutral, plain blank background. *(Layering: cardigan off one shoulder.)*
+**STILL 2 · ENVIRONMENT:** the same tree path in summer — full lush green canopy, dappled bright noon light, wildflowers and tall grass at the edges, warm and vivid; profile vantage.
+**VIDEO PROMPT:**
+- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
+- *Animation:* FULL profile, **one continuous parallel track at her pace.** [00:00–00:02] she strolls the lush green path, dappled bright noon light through the full canopy, wildflowers at the edges. [00:02–00:04] she eases her cardigan off one shoulder and brushes the tall grass with her fingers, a relaxed bright smile. [00:04–00:06] she walks on, and as she passes the green begins to warm to gold ahead. Real-time, real dappled light + natural summer walking; 9:16.
+- *AUDIO (in-frame):* ambient/object — a warm cicada hum, tall grass brushing, a summer breeze, footfalls on warm earth; voice — a relaxed contented hum and a soft laugh from Aira.
+**→ Cut (season sweep) to Frame 3 — the same path, now autumn gold.**
+
+---
+### FRAME 3 — AUTUMN GOLD
+**Frame angle:** high ¾ looking down the avenue (~45° down, slow descend), warm amber-gold afternoon.
+**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **high ¾ (looking down the avenue)**. · Outfit: cream midi + cardigan with the soft scarf now wrapped on. · Headwear: none. · Accessories: soft scarf wrapped. · Eye colour: amber-hazel. · Makeup: warm autumn, rose lip. · Hair: long loose half-twist. · Footwear: tan ankle boots. · Nails: soft blush. · static & neutral, plain blank background. *(Layering: scarf wrapped on.)*
+**STILL 2 · ENVIRONMENT:** the same tree path in autumn — amber, rust and gold leaves above and a thick leaf-carpet below, leaves falling, warm low gold afternoon light; high-¾ down-the-avenue vantage.
+**VIDEO PROMPT:**
+- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
+- *Animation:* FULL, high ¾ looking down the avenue, **one continuous slow descend.** [00:00–00:02] she walks the gold-leaf avenue, amber leaves falling, scuffing lightly through the leaf-carpet. [00:02–00:04] she reaches up and catches a falling leaf, drawing her scarf closer with a warm nostalgic smile. [00:04–00:06] she walks on, and as she passes the gold turns — boughs going bare and first snow settling ahead. Real-time, real falling leaves + natural walking; 9:16.
+- *AUDIO (in-frame):* ambient/object — leaves crunching and scuffing underfoot, a gust through dry leaves, a distant crow; voice — a warm nostalgic sigh and a soft "mm" from Aira.
+**→ Cut (season sweep) to Frame 4 — the same path, now deep winter snow.**
+
+---
+### FRAME 4 — WINTER SNOW (signature beat)
+**Frame angle:** full profile (true side, parallel track), cool blue winter dusk.
+**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, in **full profile**. · Outfit: cream midi + cardigan bundled, scarf wrapped, cream mittens on. · Headwear: none. · Accessories: scarf + mittens. · Eye colour: amber-hazel. · Makeup: cool-flushed, rose lip. · Hair: long loose half-twist. · Footwear: tan ankle boots. · Nails: soft blush (under mittens). · static & neutral, plain blank background. *(Layering: bundled + mittens.)*
+**STILL 2 · ENVIRONMENT:** the same tree path in winter — bare boughs lined with snow, a white snow-carpet, soft snow falling, cool blue dusk light, warm windows glowing distant; profile vantage.
+**VIDEO PROMPT:**
+- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
+- *Animation:* FULL profile, **one continuous parallel track at her pace.** [00:00–00:02] she walks the snow-lined avenue, soft snow falling, breath misting, the path white underfoot. [00:02–00:04] the signature completes the cycle — the season has swept fully to winter on the same trees; she lifts a mittened palm to catch snowflakes with quiet enchanted peace. [00:04–00:06] she walks on, and as she passes the very first green bud breaks on a bough ahead — spring returning. Real-time, real falling snow + breath-mist + natural walking, no cartoon wipe; 9:16.
+- *AUDIO (in-frame):* ambient/object — a muffled snowfall hush, snow crunching underfoot, her breath misting, a faint wind; voice — Aira's soft enchanted breath and a quiet "oh" catching a snowflake.
+**→ Cut (season sweep) to Frame 5 — the same path, first bud of spring (loop bridge).**
+
+---
+### FRAME 5 — FIRST SPRING BUD (loop)
+**Frame angle:** low front (head-on, slight up-tilt), soft first-spring thaw light.
+**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **low front (head-on)**. · Outfit: cream midi + cardigan, scarf loosening, mittens coming off. · Headwear: none. · Accessories: loosened scarf. · Eye colour: amber-hazel. · Makeup: fresh, rose lip. · Hair: long loose half-twist. · Footwear: tan ankle boots. · Nails: soft blush. · static & neutral, plain blank background. *(Layering: scarf loosening.)*
+**STILL 2 · ENVIRONMENT:** the same path at the turn back to spring — bare boughs breaking into first pink buds, last snow melting on warming green, soft first-spring light; low-front vantage.
+**VIDEO PROMPT:**
+- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
+- *Animation:* FULL, **one continuous slow hero push-in then crane pull-back.** [00:00–00:02] she slows on the path, bare boughs breaking into first pink buds, last snow melting on warming green. [00:02–00:04] she reaches and gently touches a first bud, loosening her scarf, a slow warm dawning smile of renewal. [00:04–00:06] the camera cranes back to reveal the whole path waking to spring around her — easing toward the full blossom of the opening for a loop. Real-time, real thaw + budding, no cartoon wipe; 9:16.
+- *AUDIO (in-frame):* ambient/object — dripping melt, a soft thaw-breeze, the first birdsong returning; voice — Aira's hopeful soft breath and a gentle dawning "ah".
+**→ Loops back to Frame 1 (full spring blossom).**
+
+**Stills to generate:** 2 per frame × 5 frames = 10 (Subject + Environment; the SAME path re-skinned per season). Score = 30s MASTER AUDIO under the diegetic.
+
+═══════════════════════════════════════════════════════════════════════════════
+
+# SC-18 · PORTAL STEPS (Arches) · 3 shots × 6s · *(prop-less — 2 stills per frame: Subject + Environment[arch + world-beyond])*
+**Logline:** A walk through doorways between worlds — the subject steps through a glowing flower arch into a coral
+reef-world, through a reef arch into a sunset desert-world, through a desert arch into a neon city-world, each
+threshold swapping the entire world in one stride. Signature: a threshold world-swap bloom (the world dissolves
+and rebuilds into the next as she crosses each arch). Bold, surreal, kinetic.
+**Arc:** FLOWER ARCH → REEF WORLD · REEF ARCH → DESERT WORLD · DESERT ARCH → NEON CITY WORLD.
+
+## MASTER AUDIO (outside the frames — background music)
+An 18-second custom cinematic score (3 clips × 6s) in self-resolving ~6-second phrases, trimmable at any phrase
+boundary. Built on a pulsing modern synth, bright cinematic stabs, a driving beat and a warm sub — bold, surreal,
+kinetic. Opens (no fade-in) on a bold synth pulse. Arc: a bold open at the flower arch, a delighted build through
+the reef-to-desert swaps, then a triumphant peak into the neon city, resolving for an invisible loop. Laid UNDER
+the diegetic — no spoken line; optional wordless vocal stab on a world-swap only. Layered: synth motif, warm sub,
+driving percussion, a key-tuned swell on each world-swap.
+
+## GLOBAL STYLE LOCKS
+- **Outfit:** a structured cobalt-blue mini-dress with a magenta panel and a citron belt — clean, graphic, premium.
+- **Headwear:** none. **Accessories:** a single sculptural gold cuff. **Eye colour:** warm amber-hazel. **Makeup:** bold clean editorial — luminous skin, a graphic glossy lip (soft berry), defined eyes, neat brows. **Hair:** a sleek sharp **geometric bob** with a blunt fringe, glassy. **Footwear:** white knee boots. **Nails:** short glossy magenta.
+- **Hero object:** none carried (the arches are part of each world) → each frame uses 2 stills (Subject + Environment = the arch + the world beyond it).
+- **Signature (grounded):** at each arch the far side is a different world; as she crosses, the world dissolves into light and rebuilds into the next — a clean believable dissolve-through-the-arch, premium and dreamy, no cheap cartoon VFX.
+- **Journey + light:** warm flower-gold → aqua reef-blue → amber desert-sunset → electric city-neon (a full light change each frame). *Footing: confident planted strides through each threshold.*
+
+---
+### FRAME 1 — FLOWER ARCH → REEF WORLD (signature)
+**Frame angle:** low-hero ¾ front (~30°, push through the arch), warm gold into aqua reef-blue.
+**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **low-hero ¾ front (~30°)**. · Outfit: cobalt mini + magenta panel + citron belt. · Headwear: none. · Accessories: gold cuff. · Eye colour: amber-hazel. · Makeup: bold editorial, berry lip. · Hair: sleek geometric bob + fringe. · Footwear: white knee boots. · Nails: glossy magenta. · static & neutral, plain blank background.
+**STILL 2 · ENVIRONMENT:** a glowing arch wound with flowers in a warm golden garden, and beyond it an underwater coral reef-world (corals, blue water-light, fish, caustics) revealed through the arch; low-hero ¾-front vantage toward the arch.
+**VIDEO PROMPT:**
+- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
+- *Animation:* FULL low-hero, **one continuous push through the arch.** [00:00–00:02] she strides toward the glowing flower arch in the warm golden garden, reaching to touch the threshold. [00:02–00:04] the signature blooms — as she crosses, the world dissolves into light and rebuilds into a coral reef-world, blue water-light and caustics washing over her, fish scattering. [00:04–00:06] she walks on into the reef-world toward a coral archway ahead. Real-time, clean believable dissolve-through-the-arch, no cheap cartoon VFX; 9:16.
+- *AUDIO (in-frame):* ambient/object — a warm garden hush, then a swelling water-rush and caustic shimmer as the reef-world washes in, fish darting; voice — Aira's bold curious breath and a soft "woah" as it blooms.
+**→ Cut (match-on-action) to Frame 2 — she reaches the coral arch into a desert-world.**
+
+---
+### FRAME 2 — REEF ARCH → DESERT WORLD (signature)
+**Frame angle:** full profile (true side, push through), aqua blue into amber sunset.
+**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, in **full profile**. · Outfit: cobalt mini + magenta panel + citron belt. · Headwear: none. · Accessories: gold cuff. · Eye colour: amber-hazel. · Makeup: bold editorial, berry lip. · Hair: sleek geometric bob + fringe. · Footwear: white knee boots. · Nails: glossy magenta. · static & neutral, plain blank background.
+**STILL 2 · ENVIRONMENT:** a coral archway in the blue reef-world, and beyond it a warm sunset desert-world (golden dunes, long shadows, amber sky) revealed through the arch; profile vantage through the arch.
+**VIDEO PROMPT:**
+- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
+- *Animation:* FULL profile, **one continuous push through the arch (parallel track).** [00:00–00:02] she strides toward the coral archway in the blue reef-world, trailing her hand along it. [00:02–00:04] the signature blooms — as she crosses, the reef dissolves into light and rebuilds into a sunset desert-world, golden dunes and amber sky washing warm over her. [00:04–00:06] she walks on across the warm sand toward a sandstone archway ahead. Real-time, clean believable dissolve-through-the-arch; 9:16.
+- *AUDIO (in-frame):* ambient/object — a muffled underwater tone giving way to a warm desert wind and sand hiss as the world swaps; voice — a delighted bright "woah!" and a quick laugh from Aira.
+**→ Cut (match-on-action) to Frame 3 — she reaches the sandstone arch into a neon city-world.**
+
+---
+### FRAME 3 — DESERT ARCH → NEON CITY WORLD (signature · loop)
+**Frame angle:** low 3/4 hero (push through then crane pull-back), amber dusk into electric neon.
+**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **low 3/4 hero**. · Outfit: cobalt mini + magenta panel + citron belt. · Headwear: none. · Accessories: gold cuff. · Eye colour: amber-hazel. · Makeup: bold editorial, berry lip. · Hair: sleek geometric bob + fringe. · Footwear: white knee boots. · Nails: glossy magenta. · static & neutral, plain blank background.
+**STILL 2 · ENVIRONMENT:** a sandstone archway in the desert at dusk, and beyond it an electric neon city-world (rain-wet streets, neon signs, glowing colour) revealed through the arch, then opening wide; low 3/4 hero vantage.
+**VIDEO PROMPT:**
+- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
+- *Animation:* FULL low 3/4 hero, **one continuous push through the arch then a crane pull-back.** [00:00–00:02] she strides toward the sandstone archway at desert dusk, the city glow flickering beyond. [00:02–00:04] the signature blooms — as she crosses, the desert dissolves into light and rebuilds into a neon city-world, glowing colour and rain-wet reflections washing over her. [00:04–00:06] she steps onto the neon street and the camera cranes back to reveal the electric city, a soft glance to lens — easing toward the warm flower-garden of the opening for a loop. Real-time, clean believable dissolve-through-the-arch; 9:16.
+- *AUDIO (in-frame):* ambient/object — desert-dusk wind giving way to a neon city hum, rain-wet street sizzle, distant traffic; voice — Aira's triumphant "yeah!" then a soft breath to lens.
+**→ Loops back to Frame 1 (the flower arch).**
+
+**Stills to generate:** 2 per frame × 3 frames = 6 (Subject + Environment[arch + world-beyond]; no carried object). Score = 18s MASTER AUDIO under the diegetic.
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+# SC-19 · THE PRODUCT BUILDS THE WORLD (Product → Set) · 3 shots × 6s · *(3rd still = @PRODUCT, the hero bottle)*
+**Logline:** The hero product authors the entire world — the subject stands in a clean studio void, the bottle on
+a plinth; from the bottle a glossy liquid pours out and rises, building first into a liquid architecture set, then
+blooming into a lush flowering set, and finally crystallising into a grand hero plinth-world, the bottle crowning
+it. Signature: the world literally grows out of the product (liquid → built architecture → bloom → crystalline hero
+set), grounded as real fluid + materials forming. Luxe, surreal, controlled.
+**Arc:** STUDIO VOID + BOTTLE → LIQUID ARCHITECTURE / BLOOM SET → HERO PLINTH-WORLD (bottle crowns it).
+
+## MASTER AUDIO (outside the frames — background music)
+An 18-second custom cinematic score (3 clips × 6s) in self-resolving ~6-second phrases, trimmable at any phrase
+boundary. Built on a deep luxe sub, a glassy piano, lush strings, a crystalline shimmer and a refined modern pulse
+— luxe, surreal, controlled. Opens (no fade-in) on a single elegant piano strike haloed by a sub-bloom. Arc: a
+poised studio open, a wondrous swell as the world builds and blooms from the bottle, then a triumphant peak on the
+finished hero-world, resolving for an invisible loop. Laid UNDER the diegetic — no spoken line; optional wordless
+luxe vocal on the reveal only. Layered: glassy piano/strings, deep sub, crystalline shimmer, a refined pulse, a
+single swell for the hero-world.
+
+## GLOBAL STYLE LOCKS
+- **Outfit:** a couture column gown in liquid-satin the exact tone of the product (deep champagne-gold), a single architectural shoulder drape.
+- **Headwear:** none. **Accessories:** fine gold jewellery (a sculptural ear-cuff, a thin bangle). **Eye colour:** warm amber-hazel. **Makeup:** luxe glossy editorial — radiant glass skin, a soft gold-nude lip, defined eyes, flawless. **Hair:** a sculptural sleek **low chignon**, glassy and constant. **Footwear:** champagne-gold heels (under the gown). **Nails:** immaculate glossy nude-gold.
+- **3rd ingredient = `@product`:** the hero product bottle (the brand fragrance/serum) — a clean isolated product render (plain bg); it authors every set.
+- **Signature (grounded):** the world grows from the bottle — real glossy liquid pours, rises and forms believable architecture, then real blossoms bloom, then it crystallises into a real built hero set. Premium fluid + material physics, no cheap cartoon sparkle, no floaty weightlessness; the product stays the source.
+- **Journey + light:** studio deepening luxe — clean bright studio void → liquid-reflective architecture light → warm rich bloom light → deep glowing hero-set light. *Footing: poised couture stance, weight planted; the set builds around her.*
+
+---
+### FRAME 1 — STUDIO VOID + BOTTLE
+**Frame angle:** ¾ front toward the plinth (~30°), clean bright studio light.
+**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **¾ front (~30°)**. · Outfit: champagne-gold liquid-satin couture column gown + architectural shoulder drape. · Headwear: none. · Accessories: gold ear-cuff, thin bangle. · Eye colour: amber-hazel. · Makeup: luxe glossy, gold-nude lip. · Hair: sculptural sleek low chignon. · Footwear: champagne-gold heels. · Nails: glossy nude-gold. · static & neutral, plain blank background.
+**STILL 2 · @PRODUCT (plain bg):** the hero product bottle — a sculptural champagne-gold flacon, faceted glass, a polished cap, brand-clean; a crisp isolated product render. Plain blank background.
+**STILL 3 · ENVIRONMENT:** a clean infinite studio void — soft seamless light, a single reflective plinth, the floor a faint mirror; ¾-front vantage toward the plinth.
+**VIDEO PROMPT:**
+- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
+- *Animation:* MEDIUM/full, **one continuous slow hero push-in.** [00:00–00:02] she stands poised beside the reflective plinth in the clean studio void, the hero bottle (`@product`) catching the soft light. [00:02–00:04] she extends a graceful hand toward `@product` and a glossy liquid begins to pour and rise from the bottle, catching the light. [00:04–00:06] the liquid climbs and begins forming structure around her as the void starts to build into a set. Real-time, real glossy fluid physics, premium, no cheap cartoon sparkle; 9:16.
+- *AUDIO (in-frame):* ambient/object — a clean studio hush, a soft glossy liquid beginning to pour and rise, a faint chime as it catches the light; voice — a soft poised breath from Aira.
+**→ Cut (match-on-action) to Frame 2 — the liquid sets into architecture and blooms.**
+
+---
+### FRAME 2 — LIQUID ARCHITECTURE → BLOOM SET (signature)
+**Frame angle:** ¾ turning (~40°, slow orbit), rich warm set light.
+**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **¾ turning (~40°)**. · Outfit: champagne-gold couture gown + shoulder drape. · Headwear: none. · Accessories: gold ear-cuff, bangle. · Eye colour: amber-hazel. · Makeup: luxe glossy, gold-nude lip. · Hair: sleek low chignon. · Footwear: champagne-gold heels. · Nails: glossy nude-gold. · static & neutral, plain blank background.
+**STILL 2 · @PRODUCT (plain bg):** the hero bottle — same sculptural champagne-gold flacon, clean isolated render. Plain blank background.
+**STILL 3 · ENVIRONMENT:** the liquid has built a glossy reflective architecture set — sweeping liquid-gold columns and arcs — which then blooms: real flowers and foliage growing from the liquid forms, warm rich light; ¾ orbit vantage.
+**VIDEO PROMPT:**
+- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
+- *Animation:* WIDE, **one continuous slow orbit around her** as the world builds and blooms from `@product`. [00:00–00:02] the glossy liquid sets into sweeping liquid-gold architecture columns rising around her, reflective and rich. [00:02–00:04] the signature peaks — real flowers and foliage bloom out of the liquid forms, the architecture flowering into a lush set, warm light deepening; she sweeps an arm up to it. [00:04–00:06] the orbit settles to her front as the bloom-set begins crystallising toward a grand hero plinth-world. Real-time, real liquid-to-architecture + real blooming, premium, no floaty nonsense; 9:16.
+- *AUDIO (in-frame):* ambient/object — liquid setting into architecture with a smooth resonant tone, real blossoms unfurling with soft rustles, a warm swell of air; voice — Aira's wondering breath and a soft delighted "oh" as it blooms.
+**→ Cut (match-on-action) to Frame 3 — the set crystallises into the grand hero plinth-world.**
+
+---
+### FRAME 3 — HERO PLINTH-WORLD (loop)
+**Frame angle:** ¾ presenting, turning to front (~30°, crane pull-back), deep glowing luxe light.
+**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **¾ presenting → front (~30°)**. · Outfit: champagne-gold couture gown + shoulder drape. · Headwear: none. · Accessories: gold ear-cuff, bangle. · Eye colour: amber-hazel. · Makeup: luxe glossy, gold-nude lip. · Hair: sleek low chignon. · Footwear: champagne-gold heels. · Nails: glossy nude-gold. · static & neutral, plain blank background.
+**STILL 2 · @PRODUCT (plain bg):** the hero bottle — same champagne-gold flacon, clean isolated render (it will crown the plinth). Plain blank background.
+**STILL 3 · ENVIRONMENT:** the world fully built — a grand crystalline hero set of liquid-gold architecture and blossom, a central plinth with the hero bottle crowning it, deep glowing luxe light; ¾ vantage with crane reveal.
+**VIDEO PROMPT:**
+- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
+- *Animation:* WIDE/full, **one continuous slow crane pull-back to reveal the whole hero-world.** [00:00–00:02] the set crystallises into a grand crystalline hero-world of liquid-gold architecture and blossom, the bottle crowning the central plinth in deep glowing light. [00:02–00:04] she presents an open hand toward the crowning `@product` then turns a serene triumphant smile to lens, the world she authored glowing around her. [00:04–00:06] the camera cranes back to reveal the full hero-world built entirely from the bottle — easing toward the clean studio void of the opening for a loop. Real-time, real crystallising materials, premium; 9:16.
+- *AUDIO (in-frame):* ambient/object — the set crystallising with a soft glassy shimmer-settle, a deep resonant bloom, a gentle hush; voice — Aira's serene satisfied breath and a soft proud exhale.
+**→ Loops back to Frame 1 (the studio void + bottle).**
+
+**Stills to generate:** 3 per frame × 3 frames = 9 (Subject + @product + Environment-set-state). Score = 18s MASTER AUDIO under the diegetic.
+
+═══════════════════════════════════════════════════════════════════════════════
+
+# SC-21 · CITRUS COAST (Amalfi Stroll) · 4 shots × 6s
+**Logline:** A sun-drenched Amalfi stroll — terraced lemon grove → bright tiled village stairs → glittering
+harbour quay → a vine-shaded terrace over the sea. Signature: citrus-leaf flutter + a fine sun-caught zest-mist +
+lemon-light glints. Warm, fresh, joyful.
+**Arc:** LEMON GROVE → TILED VILLAGE STAIRS → HARBOUR QUAY → SEA-VIEW TERRACE (signature).
+
+## MASTER AUDIO (outside the frames — background music)
+A 24-second custom cinematic score (4 clips × 6s) in self-resolving ~6-second phrases, trimmable at any phrase
+boundary. Built on a warm nylon guitar, a mandolin, light strings, a soft tambourine and a warm sub — warm, fresh,
+joyful, sun-drenched Mediterranean. Opens (no fade-in) on a sunny guitar figure. Arc: a dappled grove open, a
+breezy stair-descent, a glittering lift on the quay, then a warm resolve on the sea-view terrace for an invisible
+loop. Laid UNDER the diegetic — no spoken line; optional wordless warm vocal on the terrace only. Layered:
+guitar/mandolin, warm sub, light strings, soft tambourine riding her stroll, a single lift for the terrace.
+
+## GLOBAL STYLE LOCKS
+- **Outfit:** a lemon-yellow broderie-anglaise sundress with a sweetheart neck and tiered skirt, a thin white woven belt.
+- **Headwear:** a white-and-blue patterned headscarf (low updo wrapped). **Accessories:** small gold hoops, a single lemon often in hand. **Eye colour:** warm amber-hazel. **Makeup:** sun-fresh glow — luminous warm skin, a soft coral-rose lip, sun-flushed cheeks, neat brows. **Hair:** a soft **low updo wrapped with the white-and-blue patterned headscarf**, a few loose sun-lit wisps. **Footwear:** tan flat sandals. **Nails:** short soft warm white.
+- **Hero object:** a woven straw basket-bag filling with lemons.
+- **Signature (grounded):** citrus leaves flutter on the warm breeze, a fine sun-caught zest-mist lifts when she lifts a lemon, lemon-light glints off the sea and tiles. Real breeze + citrus + sun-glints.
+- **Journey + light:** bright lemon-sun warming to glittering — dappled grove sun → bright open tiled stairs → glittering harbour light → warm sea-view terrace glow.
+
+---
+### FRAME 1 — LEMON GROVE
+**Frame angle:** low ¾ front (~30° left, track-with), dappled lemon-sun light.
+**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **low ¾ front (~30° left)**. · Outfit: lemon-yellow broderie sundress + thin white woven belt. · Headwear: white-and-blue patterned headscarf. · Accessories: small gold hoops. · Eye colour: amber-hazel. · Makeup: sun-fresh, coral-rose lip. · Hair: low updo wrapped in the headscarf. · Footwear: tan flat sandals. · Nails: soft warm white. · static & neutral, plain blank background.
+**STILL 2 · OBJECT (plain bg):** the woven straw basket-bag with a few lemons, at **low ¾** — open straw weave, leather handles, bright lemons. Clean, isolated, plain blank background.
+**STILL 3 · ENVIRONMENT:** a terraced lemon grove on the hillside — heavy lemon boughs overhead, dappled warm sun, the blue sea glinting far below through the trees; low ¾-front vantage.
+**VIDEO PROMPT:**
+- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
+- *Animation:* FULL, **one continuous low track with her along the grove path.** [00:00–00:02] she walks the terraced lemon grove mid-stride, dappled warm sun through heavy boughs, the blue sea glinting far below. [00:02–00:04] she reaches up and picks a lemon into her straw basket, citrus leaves fluttering on the breeze, a soft pleased smile. [00:04–00:06] she strolls on toward bright tiled village stairs descending ahead. Real-time, real breeze + citrus + dappled light + natural walking; 9:16.
+- *AUDIO (in-frame):* ambient/object — a warm breeze in the lemon boughs, leaves rustling, a lemon plucked, distant cicadas; voice — Aira's soft pleased hum and a little "mm" of delight.
+**→ Cut (match-on-action) to Frame 2 — the path turns onto bright tiled village stairs.**
+
+---
+### FRAME 2 — TILED VILLAGE STAIRS
+**Frame angle:** high ¾ looking down the stairs (~45° down), bright pastel-and-blue.
+**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **high ¾ (looking down the stairs)**. · Outfit: lemon broderie sundress + woven belt. · Headwear: white-and-blue headscarf. · Accessories: gold hoops. · Eye colour: amber-hazel. · Makeup: sun-fresh, coral-rose lip. · Hair: low updo + headscarf. · Footwear: tan sandals. · Nails: soft warm white. · static & neutral, plain blank background.
+**STILL 2 · OBJECT (plain bg):** the woven straw basket-bag, fuller with lemons, at **high ¾**. Clean, isolated, plain blank background.
+**STILL 3 · ENVIRONMENT:** a bright stepped lane in a pastel village — painted majolica tile-risers, bougainvillea spilling off pastel walls, the harbour and sea opening below, bright open sun; high-¾ down-the-stairs vantage.
+**VIDEO PROMPT:**
+- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
+- *Animation:* WIDE, high ¾ looking down the stairs, **one continuous slow descend with her.** [00:00–00:02] she steps down the painted majolica stairs, bougainvillea spilling off pastel walls, the harbour opening below. [00:02–00:04] she trails a hand along a sun-warm wall and lifts her skirt a touch, glancing down at the glittering sea with a bright open smile. [00:04–00:06] she descends on toward the harbour quay below. Real-time, real sure-footed descent, planted weight; 9:16.
+- *AUDIO (in-frame):* ambient/object — sandals on the majolica tiles, a hand brushing a warm wall, bougainvillea rustling, gulls and a distant harbour; voice — a breezy bright laugh and a soft "oh" at the view from Aira.
+**→ Cut (match-on-action) to Frame 3 — she steps out onto the glittering harbour quay.**
+
+---
+### FRAME 3 — HARBOUR QUAY
+**Frame angle:** full profile (true side, parallel track), glittering harbour-blue.
+**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, in **full profile**. · Outfit: lemon broderie sundress + woven belt. · Headwear: white-and-blue headscarf. · Accessories: gold hoops, a lemon in hand. · Eye colour: amber-hazel. · Makeup: sun-fresh, coral-rose lip. · Hair: low updo + headscarf. · Footwear: tan sandals. · Nails: soft warm white. · static & neutral, plain blank background.
+**STILL 2 · OBJECT (plain bg):** the woven straw basket-bag full of lemons, in **profile**, plus a single lemon held to the light. Clean, isolated, plain blank background.
+**STILL 3 · ENVIRONMENT:** a glittering harbour quay — moored pastel boats, nets and crates, the vivid blue sea sparkling hard in the sun, gulls, bright open light; profile vantage along the quay.
+**VIDEO PROMPT:**
+- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
+- *Animation:* MEDIUM profile, **one continuous parallel track at her pace.** [00:00–00:02] she strolls the glittering harbour quay, pastel boats moored, the vivid blue sea sparkling hard, gulls overhead. [00:02–00:04] she lifts a lemon up to the sun and a fine sun-caught zest-mist lifts off it, lemon-light glinting, a bright delighted grin. [00:04–00:06] she walks on toward a vine-shaded terrace over the sea. Real-time, real sparkling water + citrus + sun-glints + natural walking; 9:16.
+- *AUDIO (in-frame):* ambient/object — water lapping at the moored boats, rigging tinks, gulls, the quay bustle; voice — Aira's delighted bright grin-laugh and a soft "yay" lifting the lemon.
+**→ Cut (match-on-action) to Frame 4 — she arrives at the sea-view terrace.**
+
+---
+### FRAME 4 — SEA-VIEW TERRACE (signature · loop)
+**Frame angle:** ¾ front opening to the vista (~30°, push-in then crane pull-back), warm golden terrace light.
+**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **¾ front (~30°)**. · Outfit: lemon broderie sundress + woven belt. · Headwear: white-and-blue headscarf. · Accessories: gold hoops. · Eye colour: amber-hazel. · Makeup: sun-fresh, coral-rose lip. · Hair: low updo + headscarf. · Footwear: tan sandals. · Nails: soft warm white. · static & neutral, plain blank background.
+**STILL 2 · OBJECT (plain bg):** the woven straw basket-bag full of lemons, at **¾ front**. Clean, isolated, plain blank background.
+**STILL 3 · ENVIRONMENT:** a vine-shaded terrace high over the sea — a lemon-tree pergola, a tiled balustrade, the vast glittering blue coast spread below, warm golden terrace glow; ¾-front vantage opening to the sea.
+**VIDEO PROMPT:**
+- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
+- *Animation:* WIDE, **one continuous slow hero push-in then crane pull-back to reveal the terrace.** [00:00–00:02] she steps to the vine-shaded terrace balustrade, the vast glittering blue coast spread below, warm golden glow. [00:02–00:04] the signature peaks — citrus leaves flutter from the lemon pergola, a fine zest-mist and lemon-light glints drift on the warm breeze; she breathes the sea air with a radiant peaceful smile. [00:04–00:06] the camera cranes back to reveal the full sea-view terrace and glittering coast around her — easing toward the dappled lemon grove of the opening for a loop. Real-time, real breeze + citrus + sea-glints; 9:16.
+- *AUDIO (in-frame):* ambient/object — a warm sea breeze through the pergola, citrus leaves fluttering, distant waves and a far church bell; voice — Aira's radiant content breath and a soft "ahh" of joy.
+**→ Loops back to Frame 1 (the lemon grove).**
+
+**Stills to generate:** 3 per frame × 4 frames = 12. Score = 24s MASTER AUDIO under the diegetic.
+
+═══════════════════════════════════════════════════════════════════════════════
+
+# SC-A1 · ANIME SUMMIT DESCENT (Bicycle) · 4 shots × 6s · *(ANIME-STYLED — lush Makoto-Shinkai / Ghibli look: cel-shaded, luminous skies, emerald hills; the subject is the anime-styled, identity-consistent version of Aira)*
+**Logline:** A breathtaking anime descent — the subject crests a high mountain summit on her bicycle and coasts
+down a steep winding road, vast emerald mountains falling away below, towering anime clouds and sun-flares above:
+summit launch → steep switchback descent → valley green rush → lookout arrival. Signature: wind-rippled emerald
+grass + Shinkai sun-flares + a trailing wake of drifting dandelion light-seeds. Bright, soaring, joyful.
+**Arc:** SUMMIT LAUNCH → STEEP SWITCHBACK DESCENT (signature) → VALLEY GREEN RUSH → LOOKOUT ARRIVAL.
+
+## MASTER AUDIO (outside the frames — background music)
+A 24-second custom anime-cinematic score (4 clips × 6s) in self-resolving ~6-second phrases, trimmable at any
+phrase boundary. Built on a soaring bright piano, warm uplifting strings, an emotional J-pop/Shinkai-style swell,
+light driving percussion and a warm sub — luminous, heart-lifting, cinematic. Opens (no fade-in) on a bright rising
+piano figure. Arc: an awe-struck summit open, an exhilarated soaring peak on the steep descent, a flowing joyful
+valley rush, then a warm wistful resolve at the lookout for an invisible loop. Laid UNDER the diegetic — no spoken
+line; optional wordless choir/aah on the descent peak only. Layered: soaring piano/strings, warm sub, glassy
+shimmer, light driving percussion riding the descent, swells reserved for the descent peak.
+
+## GLOBAL STYLE LOCKS
+- **Style:** lush anime / cel-shaded (Shinkai-Ghibli) — luminous skies, towering cumulus, lens-flares, hand-painted emerald hills, crisp clean linework, vivid daytime colour. Each SUBJECT still is the **anime-styled, identity-consistent** version of Aira.
+- **Outfit:** a crisp white short-sleeve blouse with a sky-blue sailor collar, a pleated sunshine-yellow skirt, white knee socks; a thin red ribbon at the collar.
+- **Headwear:** a cute **white cycling cap with a small red star**. **Accessories:** none. **Eye colour:** warm amber-hazel (anime-bright). **Makeup:** anime-fresh — luminous skin, bright clear eyes, a soft natural lip. **Hair:** **long flowing wind-swept hair** with a thin red ribbon headband, streaming dramatically. **Footwear:** white sneakers. **Nails:** short clean.
+- **Hero object:** a classic road bicycle in cream-and-red — drop bars, a little woven basket, anime-styled.
+- **Signature (grounded-anime):** wind-rippled emerald grass sweeping in waves, warm Shinkai sun-flares blooming off sky and chrome, a trailing wake of drifting dandelion light-seeds; believable wind/light physics in anime idiom, no cheap sparkle.
+- **Journey + light:** bright anime daytime, vast & green — crisp high-altitude summit → bright rushing descent → dappled green valley → warm wide lookout.
+
+---
+### FRAME 1 — SUMMIT LAUNCH
+**Frame angle:** high ¾ from above-behind (~50° down, world-dominant), crisp high-altitude blue-green.
+**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` (anime-styled) — full head-to-toe, neutral, at **high ¾ from above-behind**. · Outfit: white sailor-collar blouse + yellow pleated skirt + white knee socks + red collar ribbon. · Headwear: white cycling cap with red star. · Accessories: none. · Eye colour: amber-hazel (anime-bright). · Makeup: anime-fresh. · Hair: long flowing wind-swept + red ribbon headband. · Footwear: white sneakers. · Nails: clean. · static & neutral, plain blank background, cel-shaded.
+**STILL 2 · OBJECT (plain bg):** the cream-and-red road bicycle (anime-styled) at **high ¾** — drop bars, woven basket, clean cel-shaded linework. Plain blank background.
+**STILL 3 · ENVIRONMENT:** a high mountain-pass summit (anime) — a thin winding road, emerald ridges and valleys falling away to a hazy horizon, towering anime cumulus, crisp blue sky, sun-flares, wind combing the grass; high ¾ above-behind vantage (world dominant).
+**VIDEO PROMPT:**
+- *Facial consistency:* keep `Aira`'s exact (anime) face/identity; only gaze/head/soft-expression move.
+- *Animation:* WIDE establishing, **one continuous slow crane-up revealing the vast ranges below.** [00:00–00:02] she sits astride the bike at the summit's edge, the emerald valleys and towering clouds opening huge beneath and ahead, wind combing the grass, hair streaming. [00:02–00:04] she gazes out over the world with awe-struck wonder, then looks down the steep winding road, lifting onto the lead pedal. [00:04–00:06] she pushes off and the bike begins to roll down the first slope, sun-flares blooming, grass rippling in waves. Real-time, believable bicycle weight; lush anime look; 9:16.
+- *AUDIO (in-frame):* ambient/object — wind gusting at altitude, the freewheel tick, a distant eagle's cry, the hiss of grass; voice — Aira's awed breath and a soft "woah…".
+**→ Cut (match-on-action) to Frame 2 — the roll tips into the steep switchback descent.**
+
+---
+### FRAME 2 — STEEP SWITCHBACK DESCENT (signature)
+**Frame angle:** low ¾ front, bike-mounted (~30°, world plunging behind), bright rushing daylight.
+**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` (anime-styled) — full head-to-toe, neutral, at **low ¾ front (~30°)**. · Outfit: white sailor-collar blouse + yellow pleated skirt + knee socks + red ribbon. · Headwear: white cycling cap w/ red star. · Accessories: none. · Eye colour: amber-hazel. · Makeup: anime-fresh. · Hair: long flowing wind-swept + red headband. · Footwear: white sneakers. · Nails: clean. · static & neutral, plain blank background, cel-shaded.
+**STILL 2 · OBJECT (plain bg):** the cream-and-red bicycle (anime-styled) at **low ¾ front** — drop bars foremost, basket, clean linework. Plain blank background.
+**STILL 3 · ENVIRONMENT:** the steep winding road carving down the mountainside (anime) — hairpin switchbacks, emerald slopes plunging away both sides, valley and ranges filling the frame ahead and below, big anime sky; low ¾-front vantage (world plunging behind).
+**VIDEO PROMPT:**
+- *Facial consistency:* keep `Aira`'s exact (anime) face/identity; only gaze/head/soft-expression move.
+- *Animation:* bike-mounted ride-along, camera low ¾ front fixed to the bike looking back at her, **one continuous descent as the mountainside plunges behind.** [00:00–00:02] she is already carving down the steep switchback at speed, tucked low over the bars, hair tearing back, the emerald valley filling the frame. [00:02–00:04] the signature peaks — wind-rippled grass sweeps in great waves, warm Shinkai sun-flares bloom across the sky and chrome, a trail of drifting dandelion light-seeds streams off her wake; she leans hard into a hairpin with open-mouthed joy. [00:04–00:06] she powers out of the bend and accelerates down toward the green valley. Real-time, believable downhill speed/lean/tyre grip; lush anime look, no cheap sparkle; 9:16.
+- *AUDIO (in-frame):* ambient/object — the rush of wind, tyres humming on tarmac, a soft light-bloom whoosh as the sun-flare hits, grass rippling; voice — Aira's exhilarated "woohoo!" and open laugh streaming in the wind.
+**→ Cut (match-on-action) to Frame 3 — the road bottoms out and rushes her into the green valley.**
+
+---
+### FRAME 3 — VALLEY GREEN RUSH
+**Frame angle:** full profile (true side, parallel track), dappled valley green.
+**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` (anime-styled) — full head-to-toe, neutral, in **full profile**. · Outfit: white sailor-collar blouse + yellow pleated skirt + knee socks + red ribbon. · Headwear: white cycling cap w/ red star. · Accessories: none. · Eye colour: amber-hazel. · Makeup: anime-fresh. · Hair: long flowing wind-swept + red headband. · Footwear: white sneakers. · Nails: clean. · static & neutral, plain blank background, cel-shaded.
+**STILL 2 · OBJECT (plain bg):** the cream-and-red bicycle (anime-styled) in **profile** — full side, drop bars, basket. Plain blank background.
+**STILL 3 · ENVIRONMENT:** a lush green valley floor (anime) — rice-terrace greens, wildflower verges, a clear stream, scattered trees and a far village, big clouds, dappled bright daylight; profile vantage.
+**VIDEO PROMPT:**
+- *Facial consistency:* keep `Aira`'s exact (anime) face/identity; only gaze/head/soft-expression move.
+- *Animation:* FULL profile, **one continuous parallel track at her speed**, the green valley streaking past. [00:00–00:02] she rushes along the valley road in profile, sitting a touch more upright, hair flowing, dandelion seeds drifting in her wake. [00:02–00:04] she lifts her left hand off the bar to skim the wildflower verge and the rushing air, glancing at the green with a wide free smile, a few seeds lifting around her. [00:04–00:06] she settles her hand back and pedals on toward a rise where a lookout opens over the world. Real-time, believable riding cadence + air-drag; lush anime look; 9:16.
+- *AUDIO (in-frame):* ambient/object — wind, the whir of the wheels, birdsong, rustling trees, a babbling stream; voice — Aira's joyful laugh and a bright "yeah!".
+**→ Cut (match-on-action) to Frame 4 — the road climbs to a grassy lookout over the valley.**
+
+---
+### FRAME 4 — LOOKOUT ARRIVAL (loop)
+**Frame angle:** low front (head-on, slight up-tilt hero), warm wide anime daylight.
+**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` (anime-styled) — full head-to-toe, neutral, at **low front (head-on)**. · Outfit: white sailor-collar blouse + yellow pleated skirt + knee socks + red ribbon. · Headwear: white cycling cap w/ red star. · Accessories: none. · Eye colour: amber-hazel. · Makeup: anime-fresh. · Hair: long flowing wind-swept + red headband. · Footwear: white sneakers. · Nails: clean. · static & neutral, plain blank background, cel-shaded.
+**STILL 2 · OBJECT (plain bg):** the cream-and-red bicycle (anime-styled) at **low front (head-on)** — front wheel/drop bars foremost, basket. Plain blank background.
+**STILL 3 · ENVIRONMENT:** a grassy lookout over the whole valley (anime) — the emerald ranges, the far village, towering clouds and warm wide sky, the descended road threading away behind; low-front vantage.
+**VIDEO PROMPT:**
+- *Facial consistency:* keep `Aira`'s exact (anime) face/identity; only gaze/head/soft-expression move.
+- *Animation:* HERO MEDIUM/WIDE low front, **one continuous slow push-in then crane pull-back.** [00:00–00:02] she coasts up onto the grassy lookout and rolls to an easy stop, the whole emerald valley and far village opening before her. [00:02–00:04] she gazes out over the world she descended, the dandelion light-seeds settling around her, then turns a warm wistful smile to lens. [00:04–00:06] the camera cranes back to reveal the vast lookout, ranges and towering clouds around her — easing toward the awe of the summit opening for a loop. Real-time, lush anime look; 9:16.
+- *AUDIO (in-frame):* ambient/object — the freewheel tick easing down, a gentle breeze, a distant village bell, cicadas; voice — Aira's warm satisfied breath and a soft contented sigh.
+**→ Loops back to Frame 1 (the summit launch).**
+
+**Stills to generate:** 3 per frame × 4 frames = 12 (anime-styled). Score = 24s MASTER AUDIO under the diegetic.
+
+═══════════════════════════════════════════════════════════════════════════════
+*END OF VOLUME 1 — SC-01, SC-02, SC-03, SC-04, SC-06, SC-07, SC-08, SC-09, SC-10, SC-11, SC-12, SC-13, SC-14, SC-15, SC-16, SC-17, SC-18, SC-19, SC-21, SC-A1 (20 concepts). Volume 2 holds the modes set SC-22–SC-41.*
