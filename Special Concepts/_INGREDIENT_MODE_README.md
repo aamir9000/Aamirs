@@ -221,6 +221,17 @@ woman."** Never write the character's name into a Veo prompt. Ingredient labels 
 - **DIFFERENCE STRING:** anime (Shinkai/Ghibli) bicycle descent · journey **summit launch → steep switchback descent → valley green rush → lookout arrival** · signature **wind-rippled emerald grass + Shinkai sun-flares + drifting dandelion light-seeds** · energy **soaring joyful awe** · light **bright anime daytime, vast & green** · wardrobe **white sailor-collar blouse + yellow pleated skirt + white cycling cap** · hair **long flowing wind-swept hair + red ribbon headband** · shot-grammar **high crane-up reveal / bike-mounted ride-along descent / parallel profile valley / push-in+crane pull-back**.
 - **THEME:** anime-styled mountain bicycle descent through emerald ranges; identity-consistent anime render. **FILE:** `SC-A1 · Anime Summit Descent (Bicycle).md`
 
+## NEW "MODES" SET (SC-22+) — same SC-01 vibe, brand-new modes, built to CORRECTED STANDARD v2
+
+### SC-22 · MEADOW GALLOP (Horseback) — **BUILT** · 4 shots × 6s · SILENT
+- mode **horseback** · journey **meadow canter → woodland trail → river-ford → hilltop vista** · signature **drifting dandelion seed-light + golden pollen-motes in the wake** · light **bright country morning, warming** · wardrobe **hunter-green riding blazer + jodhpurs + velvet riding cap** · hair **sleek low bun in a net under the cap** · `@object` = chestnut horse · shot-grammar **high aerial track / low ground-level woodland / parallel profile ford / low-hero+crane pull-back**. **FILE:** `SC-22 · Meadow Gallop (Horseback).md`
+
+### SC-23 · COASTLINE EXPRESS (Vintage Train) — **BUILT** · 4 shots × 6s · SILENT
+- mode **vintage train** · journey **EXT rainy coastal cliff → INT rain-window → EXT mountain blast → arrival sunlit platform** · signature **steam-wisps + rain-beads racing & clearing on glass + golden window flares** · light **rainy-silver → bright (a weather arc)** · wardrobe **camel coat + rust knit + beret** · hair **1940s victory rolls** · `@object` = vintage green-and-cream train · shot-grammar **exterior drone-track / interior over-shoulder rack-focus / low trackside whip-pan / arrival push-in+crane** · *(exterior "see the train from outside" + rain, per user direction).* **FILE:** `SC-23 · Coastline Express (Vintage Train).md`
+
+### SC-24 · POWDER GLIDE (Ski) — **BUILT** · 4 shots × 6s · SILENT
+- mode **ski** · journey **piste carve → pine glade → frozen-lake flat → village arrival** · signature **snow-spray plumes + crystalline sun-sparkle + drifting ice-glitter** · light **brilliant bluebird alpine** · wardrobe **retro colour-block one-piece + mirrored goggles + earmuff band** · hair **two dutch braids** · `@object` = coral carving skis + poles · shot-grammar **high aerial track / low ground-level glade / parallel profile flat / push-in+crane pull-back**. **FILE:** `SC-24 · Powder Glide (Ski).md`
+
 ## CONCEPT ROADMAP — ALL CONCEPTS BUILT ✓
 *(rickshaw SC-05 dropped; redundant 2nd-blossom SC-20 dropped. All 19 planned concepts + the SC-A1 anime concept are fully
 built, and ALL have been rebuilt to the **CORRECTED STANDARD (v2)** above — clean front-facing/plain-bg `@subject`,
