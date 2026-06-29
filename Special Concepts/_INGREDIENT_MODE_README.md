@@ -250,6 +250,15 @@ woman."** Never write the character's name into a Veo prompt. Ingredient labels 
 ### SC-30 · JUNGLE PROCESSION (Elephant) — **BUILT** · 4 shots × 6s · SILENT
 - mode **elephant** · journey **jungle path → temple ruins → river crossing → village festival** · signature **tossed marigold petals + canopy light-shafts + drifting jasmine** · light **lush dappled jungle → bright festival** · wardrobe **fuchsia-teal embroidered set + jasmine garland + gold bangles** · hair **long rope-braid woven with jasmine** · `@object` = gently-decorated elephant · shot-grammar **high aerial canopy track / low ground-level ruins / parallel profile river / push-in+crane festival**. **FILE:** `SC-30 · Jungle Procession (Elephant).md`
 
+### SC-31 · CITY TOPDECK (Open-Top Bus) — **BUILT** · 4 shots × 6s · SILENT
+- mode **open-top bus** · journey **EXT grand boulevard → landmark square → park avenue → river bridge** · signature **pigeon-burst + drifting ticker-tape/leaves + warm light-glints off glass** · light **bright sunny city** · wardrobe **camel trench + white tee + beret + oversized sunglasses** · hair **sleek blunt lob** · `@object` = red open-top double-decker bus · shot-grammar **exterior high aerial / low street-level pass / upper-deck over-shoulder / push-in+crane bridge** · *(exterior "see the bus from outside").* **FILE:** `SC-31 · City Topdeck (Open-Top Bus).md`
+
+### SC-32 · VALLEY SWING (Garden Swing) — **BUILT** · 4 shots × 6s · SILENT
+- mode **giant rope garden-swing** · journey **swing out over the valley → above rice terraces → over a waterfall → sky apex** · signature **leaf/blossom flutter in the arc + apex sun-burst + valley mist** · light **bright tropical, lush green** · wardrobe **white-coral ruffle maxi + hibiscus** · hair **voluminous natural curls worn out** · `@object` = wooden rope-swing · shot-grammar **high aerial swing-out / low looking-up arc / parallel profile waterfall / low looking-up apex + crane**. **FILE:** `SC-32 · Valley Swing (Garden Swing).md`
+
+### SC-33 · PALACE CARRIAGE (Horse-Carriage) — **BUILT** · 4 shots × 6s · SILENT
+- mode **open horse-carriage** · journey **park lane → town square → palace gates → fountain courtyard** · signature **drifting blossom + warm golden light + lifting doves** · light **warm golden afternoon** · wardrobe **powder-blue lace tea-dress + wide-brim sunhat + lace gloves** · hair **old-Hollywood side-swept waves** · `@object` = open white horse-carriage + horse · shot-grammar **high aerial lane / low ground-level square / high 3/4 gate reveal / push-in+crane courtyard**. **FILE:** `SC-33 · Palace Carriage (Horse-Carriage).md`
+
 ## CONCEPT ROADMAP — ALL CONCEPTS BUILT ✓
 *(rickshaw SC-05 dropped; redundant 2nd-blossom SC-20 dropped. All 19 planned concepts + the SC-A1 anime concept are fully
 built, and ALL have been rebuilt to the **CORRECTED STANDARD (v2)** above — clean front-facing/plain-bg `@subject`,
