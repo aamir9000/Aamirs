@@ -1424,6 +1424,165 @@ CINE[8] = {
 }
 
 
+# CONCEPT 9 — PEARL BATHROOM RITUAL (steam-to-couture · Beauty/GRWM · SPOKEN F5 · GENTLE/contained)
+# GRWM/beauty ritual — contained intimate motion (no striding); per-limb articulated within the basin space.
+CINE[9] = {
+ 1: {
+  "posture": "GAZE softly closed then opening to the mirror; HEAD level, tipped a touch into the towel; SHOULDERS relaxed and dropped; RIGHT ARM and LEFT ARM both raised to the face, BOTH HANDS pressing the warm towel to her cheeks, RIGHT and LEFT FINGERS gentle and articulate cradling it; TORSO standing soft and tall at the basin; WAIST & HIPS settled even, a gentle weight on both feet; RIGHT LEG and LEFT LEG even and grounded at the basin; FEET & WEIGHT settled even on the warm marble; HAIR soft, a wisp at the temple in the steam — calm and alive, never stiff (living stillness).",
+  "hands": "BOTH HANDS pressing the warm face towel to her cheeks, RIGHT and LEFT FINGERS gentle and articulate cradling it; short nails in soft pearl-pink, neat, no white-knuckle tension.",
+  "framing": "She stands softly at the marble basin, weight even on both feet and shoulders dropped, both hands pressing the warm towel to her cheeks with gentle fingers, the backlit mirror glowing behind.",
+  "b1": "Three-quarter front medium at the marble basin: she is already pressing a warm face towel to her cheeks with both hands as a slow push drifts toward her face, steam drifting and the backlit mirror glowing behind; eyes softly closed in calm.",
+  "b2": "The push settles as she draws the towel slowly down her cheeks with a contented exhale, the fingers easing open, skin dewy; lids beginning to lift.",
+  "b3": "She opens her eyes to the mirror, the towel lowering in her hands, a serene smile forming, gaze warm and luminous.",
+ },
+ 2: {
+  "posture": "GAZE (implied) soft to the mist; the gesture read through the gently raised arm; RIGHT ARM raised gently with the bottle, the RIGHT HAND pressing the spritz pump, RIGHT FINGERS articulate on the nozzle as the mist fans out; LEFT ARM implied easy below; TORSO implied tall and soft above, weight settled; FEET & WEIGHT settled even — a soft self-care gesture, the fine droplets catching the light.",
+  "hands": "RIGHT HAND pressing the glowing skincare spritz pump, RIGHT FINGERS articulate on the nozzle, the mist fanning out; pearl-pink nails, neat, no white-knuckle tension.",
+  "framing": "A macro on her right hand misting the glowing skincare spritz, the arm raised gently and the fingers articulate on the pump, fine droplets fanning into the light, the body implied soft and tall above.",
+  "b1": "Extreme macro on her hand: she is already raising the glowing skincare bottle toward her face as a slow push closes in, the nozzle catching the light.",
+  "b2": "She presses the pump with an articulate finger and a fine mist fans out, droplets hanging in a rack-focused shimmer.",
+  "b3": "The droplets settle and catch the morning light as she breathes them in, the hand easing down and the haze drifting up.",
+ },
+ 3: {
+  "posture": "GAZE (implied) soft to the slipper; the step read through the lower limbs; RIGHT LEG the planted leg, weight rolling onto it; LEFT LEG (working) sliding the foot into the pearl-satin mule, toe leading; RIGHT ARM lowered, the RIGHT HAND entering to steady the slipper heel, RIGHT FINGERS articulate at the back; LEFT ARM implied easy; WAIST & HIPS implied square above, weight easing onto the planted foot; FEET & WEIGHT rolling onto the planted foot as the other slides into the mule — a soft graceful step on the warm marble.",
+  "hands": "RIGHT HAND entering to steady the slipper heel, RIGHT FINGERS articulate at the back of the mule; pearl-pink nails, neat, no white-knuckle tension.",
+  "framing": "A low macro on her foot sliding into the pearl-satin mule, the planted foot taking the weight as the working foot slides in toe-first and the right hand steadies the heel, the body implied soft above.",
+  "b1": "Low-angle macro on the warm marble floor: her foot is already hovering over the pearl-satin mule as a slow push follows it down, the planted foot grounding her weight.",
+  "b2": "The foot slides into the slipper toe-first, the satin flexing and creasing around the arch as her right hand steadies the heel.",
+  "b3": "She settles her weight onto the planted foot and the heel seats, a pearl sheen travelling across the satin.",
+ },
+ 4: {
+  "posture": "GAZE following the rising steam, chin lifting; HEAD level in clean profile, tipping up with the vapour; SHOULDERS soft and dropped; RIGHT ARM and LEFT ARM easy at the basin, BOTH HANDS resting light on the marble edge, RIGHT and LEFT FINGERS relaxed; TORSO standing tall in profile at the basin; WAIST & HIPS settled even; RIGHT LEG and LEFT LEG even and grounded; FEET & WEIGHT settled even in the pearl mules; HAIR soft, beginning to release in the warm air — serene, the instant before the rise.",
+  "hands": "BOTH HANDS easy at the basin resting light on the marble edge, RIGHT and LEFT FINGERS relaxed; pearl-pink nails, neat cuticles, no white-knuckle tension.",
+  "framing": "She stands in profile at the marble basin in her silk robe, weight settled even and hands resting light on the edge, chin lifting to follow the rising steam — the clean Look A the reveal opens on.",
+  "b1": "Cut to a profile medium at a HELD angle (Veo first frame = the silk-robe Look A still): already in motion, a gentle push-with easing in as warm steam begins to billow up from the basin — her hands resting light on the marble edge, the silk robe fully intact, the reveal NOT yet begun, the backlit mirror glowing behind; gaze following the rising steam.",
+  "b2": "The reveal BEGINS here, mid-clip: the warm basin steam billows up and wraps her, resolving smoothly into the pearl-couture gown exactly where it passes as her chin lifts — believable warm-air physics, vapour curling on real paths (dreamy but grounded, no cheap sparkles), the tonal bathroom soft behind; eyes softening in serene awe (angle held, identity locked).",
+  "b3": "The wrap completes and the look settles smoothly and fully into the pearl-couture gown of Frame 5's still (Veo's LAST frame), her hair releasing soft in the warm air — a serene awed smile arriving, no last-second snap.",
+ },
+ 5: {
+  "posture": "GAZE soft and glowing, turning to lens; HEAD level, turning softly to camera; SHOULDERS open and relaxed; RIGHT ARM raised soft, the RIGHT HAND resting at the collarbone, RIGHT FINGERS light on the skin; LEFT ARM gesturing gently to lens, the LEFT HAND open, LEFT FINGERS soft; TORSO tall and grounded in a soft contrapposto; WAIST & HIPS in a gentle counter-tilt, weight settled; RIGHT LEG and LEFT LEG grounded with weight eased onto the back leg; FEET & WEIGHT settled in the pearl mules; HAIR soft in the mirror's halo — luminous and calm.",
+  "hands": "RIGHT HAND resting softly at the collarbone, RIGHT FINGERS light on the skin; LEFT HAND gesturing gently to lens, LEFT FINGERS soft; pearl-pink nails, neat, no white-knuckle tension.",
+  "framing": "She stands tall and grounded before the backlit mirror in the finished pearl gown, soft contrapposto with the right hand at her collarbone and the left gesturing gently to lens, shoulders open and luminous.",
+  "b1": "Front-on full/wide hero before the backlit mirror: she is already settling into the finished pearl gown, her right hand rising to her collarbone and weight easing onto the back leg, as a slow push eases toward dead-front; gaze soft and glowing.",
+  "b2": "She turns softly to lens, the pearl satin catching the mirror's halo and her left hand opening gently toward camera, eyes warm and calm.",
+  "b3": "She delivers \u201cglow first \u2014 the rest follows.\u201d with a radiant serene smile, cheeks lifting gently as the push settles.",
+ },
+ 6: {
+  "posture": "GAZE drifting toward the marble; HEAD turning back toward the basin; SHOULDERS easing back to the ritual set; RIGHT ARM reaching gently back toward the warm towel at the basin, the RIGHT HAND open toward it, RIGHT FINGERS extended — echoing Frame 1; LEFT ARM easing in, the LEFT HAND soft, LEFT FINGERS relaxed; TORSO rotating softly back toward the basin; WAIST & HIPS shifting toward the basin-side foot; RIGHT LEG and LEFT LEG easing back to even at the basin; FEET & WEIGHT settling even toward the basin; HAIR soft as the pearl gown softens toward the robe.",
+  "hands": "RIGHT HAND reaching gently back toward the warm towel at the basin, RIGHT FINGERS extended — echoing Frame 1; LEFT HAND soft, LEFT FINGERS relaxed; pearl-pink nails, neat, no white-knuckle tension.",
+  "framing": "She turns softly back toward the basin, weight easing toward the basin-side foot, right hand reaching back toward the warm towel as the pearl gown softens toward the silk robe, reasserting the Frame-1 ritual stance for a seamless loop.",
+  "b1": "Three-quarter front medium matching Frame 1: a slow pull-back to the basin is already reversing the opening push as she turns back, her right hand reaching toward the towel; gaze drifting toward the marble.",
+  "b2": "The pull-back continues as the pearl gown softens back into the ivory silk robe and the warm towel reappears in her hand; a soft serene smile returning.",
+  "b3": "She settles into the exact ritual stance of Frame 1, weight grounded even at the basin, eyes calm on the mirror — a seamless loop seam.",
+ },
+}
+
+# CONCEPT 10 — THE RED DOOR EXIT (doorway world-flip · suspense · SPOKEN F4 · walking)
+CINE[10] = {
+ 1: {
+  "posture": "GAZE low and focused on the handle; HEAD level, jaw set; SHOULDERS squared and grounded facing the door; RIGHT ARM drawing the second glove on over the LEFT, the RIGHT HAND smoothing the glove, RIGHT FINGERS articulate along it; LEFT ARM extended for the glove then easing toward the door, the LEFT HAND near the door, LEFT FINGERS poised; TORSO tall and squared to the red door; WAIST & HIPS squared, weight even and grounded; RIGHT LEG and LEFT LEG planted even before the door; FEET & WEIGHT grounded even, poised to move; HAIR sleek in the amber sconce-glow — poised and alive, never stiff (living stillness).",
+  "hands": "RIGHT (gloved) HAND drawing the second glove on over the left, RIGHT FINGERS articulate along it; LEFT HAND poised near the door, LEFT FINGERS ready; deep berry nails at the glove edge, neat, no white-knuckle tension.",
+  "framing": "She stands tall before the glowing red door, weight even and grounded, right hand drawing the second glove on and left poised near the door, shoulders squared in the charcoal corridor.",
+  "b1": "Front-on medium-wide down the charcoal corridor: she is already drawing the second glove on with her right hand as a slow suspenseful push glides toward the glowing red door, weight grounded even, amber sconces pooling; gaze low and focused.",
+  "b2": "The push creeps closer as she squares to the red door and lowers her gaze to the brass handle, jaw set and weight settling even; eyes steady with resolve.",
+  "b3": "She lifts her left hand toward the handle, weight shifting a touch toward the door, resolve building, eyes narrowing a touch in dramatic focus.",
+ },
+ 2: {
+  "posture": "GAZE (implied) to the handle; the grip read through the committing arm; RIGHT ARM rising and committing toward the door, the gloved RIGHT HAND wrapping the brass handle, RIGHT FINGERS articulate and deliberate around it; LEFT ARM implied easy; TORSO implied leaning toward the door above, weight committing forward; FEET & WEIGHT committing toward the door through the arm — a decisive grip, the handle beginning to give.",
+  "hands": "The gloved RIGHT HAND wrapping the brass handle, RIGHT FINGERS articulate and deliberate around it; deep berry nails just visible at the glove edge, neat, no white-knuckle tension.",
+  "framing": "A macro on her gloved hand closing around the brass handle, the arm committing toward the door with deliberate articulate fingers, red lacquer glowing behind, the body implied leaning in above.",
+  "b1": "Extreme macro on her gloved hand: it is already rising into frame toward the brass handle as a slow push closes in, red lacquer glowing behind.",
+  "b2": "The fingers wrap the handle, leather creasing around the cool brass as her weight commits toward the door.",
+  "b3": "The handle turns under her articulate grip and the door begins to give, a sliver of light breaking at the seam.",
+ },
+ 3: {
+  "posture": "GAZE down to the boot then rising to the door; HEAD bowed to the zip then lifting; SHOULDERS soft in a graceful bend; RIGHT ARM and LEFT ARM both at the boot zip, RIGHT and LEFT FINGERS articulate pulling the zip; TORSO bending in a long curve toward the raised boot; WAIST & HIPS angled over the planted foot; RIGHT LEG (working) lifted with the foot to a low corridor ledge; LEFT LEG planted firm, weight bearing; FEET & WEIGHT braced on the planted foot as she fastens the boot; HAIR sleek falling forward — elegant, never hunched.",
+  "hands": "BOTH HANDS at the black ankle-boot zip, RIGHT and LEFT FINGERS articulate pulling it; deep berry nails at the glove edge, neat, no white-knuckle tension.",
+  "framing": "In profile she bends gracefully toward a raised boot on a low corridor ledge, weight braced on the planted foot, both hands at the boot zip with articulate fingers, spine in a long curve beside the red door.",
+  "b1": "Profile medium: she is already pulling the zip of one black ankle boot on a raised foot at a low ledge with both hands as a slow arc swings from profile toward three-quarter, weight braced on the planted foot; gaze down to the boot.",
+  "b2": "She lowers the foot and presses it home, the arc easing round and her weight settling even; a quiet determination in her eyes.",
+  "b3": "She straightens, weight settling even, her gaze rising to the red door and her gloved hand returning to the handle with renewed resolve.",
+ },
+ 4: {
+  "posture": "GAZE forward into the gap then turning to lens on the line; HEAD leading the step, chin level; SHOULDERS leading forward with momentum into the door; RIGHT ARM extended, the gloved RIGHT HAND flat on the red door pushing through, RIGHT FINGERS clean and articulate on the lacquer; LEFT ARM easy at her side, the LEFT HAND open, LEFT FINGERS soft; TORSO leading forward with the step's momentum; WAIST & HIPS rotating forward into the push; RIGHT LEG (front) stepping through the threshold, knee soft; LEFT LEG pushing off behind, heel lifting; FEET & WEIGHT rolling onto the front foot as she pushes through — full of momentum, the instant before the flip; HAIR swinging with the step.",
+  "hands": "RIGHT (gloved) HAND flat on the red door pushing through, RIGHT FINGERS clean and articulate on the lacquer; LEFT ARM easy at her side, LEFT HAND open with LEFT FINGERS soft; berry nails, neat cuticles, no white-knuckle tension.",
+  "framing": "She is mid-stride pushing the swinging red door, weight rolling onto the front foot with the torso leading in momentum, right gloved hand flat on the door and left easy at her side — the clean dark-corridor Look A the flip opens on.",
+  "b1": "Cut to a profile-to-front medium at a HELD angle on her (Veo first frame = the dark-corridor Look A still): already in motion, the camera riding WITH her (a push-with translation, never an angle cut) as her right gloved hand pushes the red door and she steps through — weight rolling onto the front foot, torso leading — the charcoal corridor still behind; gaze forward into the gap, the world still charcoal.",
+  "b2": "The world-flip BEGINS here, mid-clip: as the door carries her forward and she strides through, the seam wipes smoothly across her body in one continuous front, the charcoal corridor flipping to sunlit terrace and the trench resolving to the ivory-gold gown exactly where the seam passes — a flowing wipe, never a cut, the camera still riding with her at the held angle; eyes brightening as the light hits.",
+  "b3": "She emerges fully into the sunlit terrace of Frame 5's still (Veo's LAST frame), weight rolling onto the front foot as she clears the threshold, and turns her face to lens delivering \u201cevery door is a chance to become someone new.\u201d with a radiant released smile — resolved and held, no last-second snap.",
+ },
+ 5: {
+  "posture": "GAZE open and free; HEAD high and serene; SHOULDERS open along the walking line; RIGHT ARM raised soft, the RIGHT HAND grazing a billowing white drape, RIGHT FINGERS trailing the fabric; LEFT ARM relaxed, the LEFT HAND open, LEFT FINGERS loose; TORSO tall and flowing forward; WAIST & HIPS in motion, swaying with the free walk; RIGHT LEG and LEFT LEG mid-stride onto the terrace, one striking heel-first, the other pushing off; FEET & WEIGHT flowing forward heel-to-toe; HAIR lifting in the open air — free and fluid.",
+  "hands": "RIGHT HAND grazing a billowing white drape, RIGHT FINGERS trailing the fabric; LEFT HAND relaxed, LEFT FINGERS loose; soft-peach nails, neat, no white-knuckle tension.",
+  "framing": "She walks mid-stride onto the sunlit terrace in the ivory-gold gown, right hand grazing a billowing drape and left relaxed, shoulders open and hips in motion as her weight flows forward, white drapes billowing and blue sky behind.",
+  "b1": "Full-length wide: she is already striding onto the sunlit rooftop terrace from the door as a smooth dolly-back leads her — one foot striking heel-first, the other pushing off, right hand grazing a billowing drape — white drapes billowing and blue sky behind; gaze open and free.",
+  "b2": "The dolly holds her centred through a confident free walk into the sun, the ivory-gold gown flowing and her hand trailing the drape; a serene radiant smile.",
+  "b3": "She eases her pace into a serene settle, her weight rolling onto the door-side foot as she begins to turn, eyes softening back toward the threshold.",
+ },
+ 6: {
+  "posture": "GAZE drifting to the door; HEAD turning back toward the red door at the threshold; SHOULDERS easing back to the opening set; RIGHT ARM extended, the RIGHT HAND on the red door at the threshold, RIGHT FINGERS on the lacquer; LEFT ARM reaching back, the LEFT HAND open toward the threshold, LEFT FINGERS extended — echoing Frame 1; TORSO rotating back toward the door; WAIST & HIPS shifting toward the door-side foot; RIGHT LEG (door-side) taking the weight as she turns; LEFT LEG easing free behind; FEET & WEIGHT shifting onto the door-side foot, reasserting the opening stance; HAIR settling as the world flips back toward the corridor.",
+  "hands": "RIGHT HAND on the red door at the threshold, RIGHT FINGERS on the lacquer; LEFT HAND reaching back toward the threshold, LEFT FINGERS extended — echoing Frame 1; nails cooling toward berry, neat, no white-knuckle tension.",
+  "framing": "She turns back toward the red door at the threshold, weight shifting onto the door-side foot, right hand on the door and left reaching back as the world flips back toward the charcoal corridor, reasserting the Frame-1 stance for a seamless loop.",
+  "b1": "Front-on medium-wide matching Frame 1: a slow push back into the corridor is already reversing the opening move as she turns back toward the red door at the threshold, weight shifting onto the door-side foot and her right hand on the door; gaze drifting to the door.",
+  "b2": "The push continues as the world and look flip back toward the charcoal corridor and tailored trench, sunlight giving way to amber sconce-glow; a composed dramatic calm returning.",
+  "b3": "She settles into the exact stance of Frame 1 before the door, weight grounded even, eyes low on the handle — a seamless loop seam.",
+ },
+}
+
+# CONCEPT 11 — UNDERWATER MUSEUM (artifact light-bloom · SILENT · weightless · believable underwater physics)
+# Neutral-buoyancy: no foot-weight; legs softly bent/trailing, arms extended in graceful weightless lines.
+CINE[11] = {
+ 1: {
+  "posture": "GAZE wide with awe, scanning the artifacts; HEAD level, leading the glide; SHOULDERS open and streamlined; RIGHT ARM and LEFT ARM gracefully extended in the glide, RIGHT and LEFT FINGERS softly splayed in the current; TORSO in a long horizontal weightless line; WAIST & HIPS neutral and level in the water; RIGHT LEG extended long and trailing, LEFT LEG softly bent and trailing in counter-balance; FEET pointed soft, finning gently; WEIGHT neutral (buoyant, no ground contact); HAIR fanning slow in the current — fluid and alive, never stiff (living stillness).",
+  "hands": "BOTH ARMS gracefully extended in the glide, RIGHT and LEFT FINGERS softly splayed in the current; short nails in sheer gold-pink, neat, no white-knuckle tension.",
+  "framing": "She glides horizontally between the glowing columns in a long weightless line, both arms extended with fingers splayed, legs trailing soft in neutral buoyancy, small mid-frame as caustic shafts rain down the marble gallery.",
+  "b1": "Wide establishing down the submerged marble gallery: she is already gliding between glowing columns mid-frame in a long horizontal line, arms extended and fingers splayed, legs trailing soft, as a weightless glide-forward drifts with her, hair fanning slowly in the current; eyes wide with awe.",
+  "b2": "The glide carries her deeper as she scans the glowing artifacts on their pedestals, her arms easing through the water, caustic shafts raining down; gaze tracing the light, lips parted in wonder.",
+  "b3": "She angles her body toward a floating pedestal ahead, one arm reaching forward and a leg finning soft, eyes locking onto a glowing orb, drawn forward.",
+ },
+ 2: {
+  "posture": "GAZE (implied) to the orb; the reach read through the extended arm; RIGHT ARM extended gracefully toward the orb, the RIGHT HAND closing around it, RIGHT FINGERS articulate as gold light leaks between them; LEFT ARM implied trailing in counter-balance; TORSO implied long and weightless above; LEGS implied trailing soft, neutral buoyancy; WEIGHT neutral — a reverent weightless grasp, motes and bubbles rising past.",
+  "hands": "RIGHT HAND wrapping the glowing orb, RIGHT FINGERS articulate with gold light leaking between them; sheer gold-pink nails, neat, no white-knuckle tension.",
+  "framing": "A macro on her right hand closing around the glowing artifact orb on its pedestal, the arm extended in a weightless reverent reach, gold light leaking between articulate fingers, the body implied trailing soft above.",
+  "b1": "Extreme macro: her right hand is already drifting toward the glowing artifact orb as a slow push closes in, motes and bubbles rising past.",
+  "b2": "Her fingers close around the orb and its glow surges, light leaking between the articulate fingers.",
+  "b3": "She lifts the orb gently off the pedestal, the arm drawing it in and the light flaring, casting moving caustics.",
+ },
+ 3: {
+  "posture": "GAZE down into the glow; HEAD level in profile, tipped toward the orb; SHOULDERS soft and rounded over the orb; RIGHT ARM and LEFT ARM both cradling the orb at the chest, RIGHT and LEFT FINGERS articulate around it; TORSO upright in a long soft curve, hovering; WAIST & HIPS neutral, hovering upright; RIGHT LEG and LEFT LEG softly bent beneath in elegant neutral buoyancy; FEET pointed soft, finning to hold the hover; WEIGHT neutral (no ground contact); HAIR drifting around her in the current — elegant neutral buoyancy.",
+  "hands": "BOTH HANDS cradling the orb at the chest, RIGHT and LEFT FINGERS articulate around it; sheer gold-pink nails, neat, no white-knuckle tension.",
+  "framing": "In profile she hovers upright cradling the glowing orb to her chest with both hands, spine in a long soft curve and knees softly bent in neutral buoyancy, hair drifting as caustics rain.",
+  "b1": "Profile medium: she is already drawing the glowing orb to her chest with both hands, hovering upright with knees softly bent as a slow arc swings from profile toward three-quarter; hair drifting, gaze down into the glow.",
+  "b2": "She gazes into the brightening orb as the arc eases round, its light warming her face and her fingers cradling it; eyes softening in mystified awe.",
+  "b3": "She begins to lift it outward, one arm extending as the light starts to spill, gaze rising with the glow.",
+ },
+ 4: {
+  "posture": "GAZE following the orb up then widening in awe; HEAD level, chin lifting as the bloom begins; SHOULDERS open and streamlined; RIGHT ARM raised aloft holding the orb, the RIGHT HAND gripping it with RIGHT FINGERS articulate as light leaks between them; LEFT ARM easy and trailing, the LEFT HAND open with LEFT FINGERS soft in the current; TORSO long and buoyant, hovering upright; WAIST & HIPS neutral and level; RIGHT LEG extended long below, LEFT LEG softly bent in counter-balance; FEET pointed soft, finning gently to hold; WEIGHT neutral (buoyant) — poised, the instant before the bloom.",
+  "hands": "RIGHT HAND holding the orb aloft, RIGHT FINGERS articulate with its light leaking between them; LEFT HAND easy at her side trailing, LEFT FINGERS soft in the current; sheer gold-pink nails, neat cuticles, no white-knuckle tension.",
+  "framing": "She hovers upright in the submerged gallery holding the glowing orb aloft in her teal swim-couture, body long and buoyant with one leg extended and the other softly bent, caustics raining — the clean Look A the bloom opens on.",
+  "b1": "Cut to a front-on full/wide hero at a HELD angle (Veo first frame = the teal swim-couture Look A still): already in motion, a buoyant push-with rising with her as she raises the glowing orb aloft, body long and one leg trailing — the swim-couture fully intact, the bloom NOT yet woven, caustics raining and columns deep behind; gaze following the orb up.",
+  "b2": "The light-bloom BEGINS here, mid-clip: the orb's light blooms outward and weaves smoothly into the luminous gown around her exactly where it passes as her chin lifts — believable light + underwater physics, real caustics sweeping, hair fanning in the real water (no cheap sparkles), the gallery deep behind; eyes widening in radiant awe (angle held, identity locked).",
+  "b3": "The bloom completes and the look settles smoothly and fully into the luminous light-gown of Frame 5's still (Veo's LAST frame), the gown shimmering with artifact-light — a radiant awed smile landing, no last-second snap.",
+ },
+ 5: {
+  "posture": "GAZE ahead then rotating back to lens; HEAD turning back over the shoulder for the glance; SHOULDERS rotating in the weightless counter-motion; RIGHT ARM trailing light behind, the RIGHT HAND open with RIGHT FINGERS splayed in the light-train; LEFT ARM holding the dimming orb, the LEFT HAND around it, LEFT FINGERS articulate; TORSO in a long weightless glide away, rotating back for the glance; WAIST & HIPS neutral, driving the glide; RIGHT LEG extended trailing, LEFT LEG softly finning; FEET pointed soft; WEIGHT neutral (buoyant) — fluid counter-motion, alive.",
+  "hands": "RIGHT HAND trailing light behind, RIGHT FINGERS splayed in the light-train; LEFT HAND holding the dimming orb, LEFT FINGERS articulate around it; sheer gold-pink nails, neat, no white-knuckle tension.",
+  "framing": "She glides onward through the gallery in the luminous gown, right hand trailing light and left holding the dimming orb, the torso rotating back over the shoulder for a glance to lens as the light-train streams in her wake.",
+  "b1": "Three-quarter back over-shoulder medium: she is already drifting onward through the gallery in the luminous gown — right hand trailing light, left holding the orb — as a weightless tracking follow trails her, the light-train streaming; gaze ahead.",
+  "b2": "The arc catches her as she rotates her torso and glances back to lens over the shoulder, caustics dancing in her eyes, a soft awed smile.",
+  "b3": "She faces forward again and her glide continues, light trailing in her wake, gaze settling front.",
+ },
+ 6: {
+  "posture": "GAZE sweeping the glowing columns; HEAD turning back into the glide; SHOULDERS opening back into the horizontal line; RIGHT ARM and LEFT ARM extending forward into the Frame-1 glide, RIGHT and LEFT FINGERS softly splayed, the orb returning to its pedestal; TORSO rotating back into the long horizontal weightless line; WAIST & HIPS neutral and level; RIGHT LEG extended long trailing, LEFT LEG softly bent; FEET pointed soft, finning gently; WEIGHT neutral (buoyant), reasserting the opening glide; HAIR fanning slow as the gown softens to swim-couture.",
+  "hands": "BOTH ARMS extending into the Frame-1 glide, RIGHT and LEFT FINGERS softly splayed; the orb returning to its pedestal — echoing Frame 1; sheer gold-pink nails, neat, no white-knuckle tension.",
+  "framing": "She turns back into the horizontal glide, body returning to the long weightless line with both arms extending forward and legs trailing soft as the light-gown softens to the teal swim-couture, reasserting the Frame-1 glide for a seamless loop.",
+  "b1": "Wide matching Frame 1: a slow drift-back through the gallery is already reversing the opening glide as she turns back into it, arms extending forward into the long line; gaze sweeping the glowing columns.",
+  "b2": "The drift continues as the light-gown dissolves back into the teal swim-couture and the orb returns to its pedestal; a soft awed calm returning.",
+  "b3": "She settles into the exact glide stance of Frame 1, body weightless between the columns with arms extended and legs trailing, eyes wide on the artifacts — a seamless loop seam.",
+ },
+}
+
+
 # ----------------------------------------------------------------------------------
 def find_concept_region(text, n):
     m = re.search(r'(?m)^#{1,3}\s*CONCEPT\s*0*%d\b' % n, text)
