@@ -38,12 +38,16 @@ crop/angle/camera/pose/expression — nothing repeats.
 **THE JOURNEY (progressing worlds + evolving light):** boulevard → market street → canal bridge → seafront —
 each frame is the believable *next place* along her route, the light opening brighter and airier as she goes.
 
-## INGREDIENTS (3 images per shot — generate in Nano Banana Pro from Aira's reference)
-- **SUBJECT** — Aira in this shot's exact pose & angle (carries identity + the wardrobe/hair above).
-- **WORLD** — this frame's location (no subject) → the next stretch of the journey + its light.
-- **COMPOSITE / look anchor** — the framed hero look of this beat → palette + composition.
-> Load all 3 as Ingredients (Ingredients-to-Video). WORLD changes each frame (the journey rolls on); identity,
-> wardrobe, hair, palette stay constant. Cuts = essence-continuation / match-on-action, never a morph.
+## INGREDIENTS (3 clean reference images per shot — built to Flow's spec)
+Each ingredient is an **isolated single element on a plain/neutral background — not a composite** (Flow reads
+clean refs best). Composition / framing / action live in the **PROMPT**.
+- **SUBJECT `@aira`** — Aira on the cream bike in this shot's pose, **isolated on a plain/segmented neutral background**, full figure, clean hands, **lit to match this beat's world-light**; rendered from her identity ref (carries identity + the wardrobe/hair above).
+- **WORLD `@world`** — this frame's location as a full scene, **no subject** → the next stretch of the journey + its light.
+- **LOOK `@look`** — a clean palette / grade / light swatch for this beat (colours + light-mood + a blush-petal accent) → locks the grade. *(Alt 3rd ref: the cream bicycle isolated on plain bg, to lock the prop instead.)*
+> Load all 3 as Ingredients; the PROMPT says how to combine them + framing / one camera move / action (timed beats).
+> WORLD + LOOK shift each frame (the journey + light roll on); identity, wardrobe, hair stay constant.
+> **Match the SUBJECT still's lighting to the WORLD still's.** Cuts = essence-continuation / match-on-action, never a morph.
+> **Shot 3 (the carve)** can instead be run as **Frames-to-Video** (composite start frame) for exact lean composition.
 
 ---
 
@@ -54,7 +58,7 @@ window flower-boxes; **soft warm morning side-light**, long gentle shadows, dapp
 **Stills to generate (Nano Banana Pro):**
 - **SUBJECT** — full-figure, low 3/4 front: Aira mid push-off on the cream bicycle in the wardrobe above, ribbon ponytail snapping back, clean neutral ground.
 - **WORLD** — the morning boulevard as described, deep perspective, no subject.
-- **COMPOSITE / look anchor** — low-hero wide, 3/4 front: Aira launching off the mark on the boulevard, dappled morning light, basket of daisies, blue sky strip above, 9:16.
+- **LOOK `@look`** — palette/light swatch: soft warm morning — cream + marigold + soft-coral + sky-blue, dappled gold leaf-light, a blush-petal accent.
 
 **POSE — per limb (held):** **gaze** down at the lead pedal, just beginning to lift to the road · **neck** long,
 **head** tipped slightly down then rising · **LEFT shoulder** dropped/relaxed, **RIGHT shoulder** lifting with the
@@ -78,7 +82,7 @@ the striped awnings**, casting soft bands of coloured light, warm bustle behind.
 **Stills to generate:**
 - **SUBJECT** — clean side profile, cowboy crop: Aira riding at speed, standing into the pedals, LEFT hand lifting off the bar, scarf and ponytail streaming horizontal.
 - **WORLD** — the market street streaking in bright sunlit motion-blur profile (awnings, stalls, bunting, coloured light-bands), no subject.
-- **COMPOSITE / look anchor** — profile cowboy framing, Aira riding fast through the market, background streaking, first blossom petals lifting in her wake.
+- **LOOK `@look`** — palette/light swatch: bright mid-morning — striped-awning coloured light-bands over warm market tones, blush-and-white petal accent.
 
 **POSE — per limb (held):** **gaze** up and ahead into the breeze, flicking to the stalls · **neck** arched slightly
 back as her face tips up · **head** tipped up-and-back then leveling · **RIGHT shoulder** driving forward (gripping
@@ -102,7 +106,7 @@ cooler water-light mixing with warm stone. *(The believable next stretch after t
 **Stills to generate:**
 - **SUBJECT** — low 3/4, inside the turn: Aira leaning hard into a banking carve, inside (LEFT) knee dropping, bike angled steep, both hands on the bars, torso committed.
 - **WORLD** — the canal bridge / waterside plaza in high sparkling daylight, balustrade + umbrellas + glinting water, the curve sweeping, no subject.
-- **COMPOSITE / look anchor** — low three-quarter hero of the lean on the bridge, the blossom-and-light wake beginning to spiral off the wheels against the water-sparkle.
+- **LOOK `@look`** — palette/light swatch: high sparkling midday — canal-water glints, warm stone + cool water-light, blush-and-white petal + soft prism accent.
 
 **POSE — per limb (held):** **gaze** locked through the curve along her exit line, fierce · **neck** firm, **head**
 leading into the lean, tilted with it · **both shoulders** rolled forward and down into the lean, **LEFT (inside)
@@ -127,7 +131,7 @@ sky-blue, high-key and breezy**. *(The widest, brightest world — the route's p
 **Stills to generate:**
 - **SUBJECT** — hero medium, low front: Aira coasting to a controlled stop, sitting tall, briefly hands-free, one boot easing toward the ground, calm warm gaze.
 - **WORLD** — the seafront plaza in bright open midday, palms + fountain + sea-and-sky, petals settling, no subject.
-- **COMPOSITE / look anchor** — hero medium-wide, low front: Aira arriving in the plaza, the petal-and-light wake settling into a soft carpet around her, sea behind.
+- **LOOK `@look`** — palette/light swatch: bright open midday seafront — sky-blue + sea + warm mosaic, high-key and airy, a settling-petal accent.
 
 **POSE — per limb (held):** **gaze** sweeping the plaza/sea then settling level to the lens, warm · **neck** relaxed
 and long, **head** easy with a soft tilt · **both shoulders** dropped, open, relaxed · **LEFT & RIGHT arms** relaxed,
@@ -142,4 +146,4 @@ the pedal · **feet** left easing to the mosaic, right on the pedal.
 **Cut (essence continuation, match-on-action) →** loops back to Shot 1 (the morning boulevard push-off).
 
 ---
-**Stills total:** 12 (3 per shot × 4 shots). **Render order:** generate all stills in Nano Banana Pro (from Aira's reference; wardrobe/hair/makeup locked, WORLD = the next location each frame) → load per shot as Ingredients (SUBJECT + WORLD + COMPOSITE) → generate each 6s clip → assemble Shot 1→2→3→4 as CUTS (essence continuation, match-on-action) → loop Shot 4 → Shot 1.
+**Stills total:** 12 (3 per shot × 4 shots). **Render order:** generate all stills in Nano Banana Pro (from Aira's reference; wardrobe/hair/makeup locked, WORLD = the next location each frame) → load per shot as Ingredients (`@aira` isolated + `@world` scene + `@look` swatch) → generate each 6s clip → assemble Shot 1→2→3→4 as CUTS (essence continuation, match-on-action) → loop Shot 4 → Shot 1.

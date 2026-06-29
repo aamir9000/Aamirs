@@ -18,24 +18,29 @@ between them. Continuity is the *essence*, carried by: same Aira + wardrobe + wo
 shots, and the **momentum of the action** flowing across the cut (match-on-action), like real editing.
 We do **not** chain end-frame→start-frame (that would morph, not cut).
 
-## Mode: Ingredients-to-Video — 3 images per clip
-Flow lets us hand **3 reference images** to each clip. We spend them as:
-| Slot | Image (generated per shot in Nano Banana Pro) | Carries |
-|---|---|---|
-| **SUBJECT** | Aira in *this shot's* pose & angle (from her identity-lock reference) | identity + wardrobe |
-| **WORLD** | the environment for this beat, no subject | location + light |
-| **COMPOSITE / look anchor** | the framed look of this beat | palette + composition |
+## Mode: Ingredients-to-Video — 3 reference images per clip (built to Flow's own spec)
+Google's guidance: provide **subject / product references on a plain or segmented background**, and
+**describe in the prompt how each ingredient should be used.** So each ingredient is a **clean, isolated
+single element — NOT a busy composite.** Composition / framing / action live in the **prompt**, not in the
+images. Each clip we hand Flow 3 references:
 
-> Identity is locked **upstream** — every SUBJECT/COMPOSITE still is rendered from Aira's reference in
-> Nano Banana Pro, so each is already the same Aira before Flow animates it. Flow's 3 ingredients then
-> hold subject + world + look steady across the cut.
+| Slot | What it is | How to BUILD the still (Nano Banana Pro) | Carries |
+|---|---|---|---|
+| **SUBJECT** `@aira` | Aira in this shot's pose/wardrobe/hair | **isolated on a plain / segmented neutral background**, full figure, clean hands, **even lighting matched to the world's light**, high-res, 9:16; rendered from her identity reference | identity + wardrobe + pose |
+| **WORLD** `@world` | this frame's location, **no subject** | a full scene carrying that beat's light + palette | place + light |
+| **PROP / LOOK** `@prop` / `@look` | the hero prop **isolated on plain bg**, OR a clean palette/grade/light swatch | locks the object, or the colour-grade & mood | prop or grade |
 
-> Pipeline: **Nano Banana Pro renders the 3 stills per shot → load as Ingredients (subject + world +
-> composite/look) → the 6s prompt drives the motion of that beat → cut to the next beat (new angle),
-> consistency held by the ingredients + carried action momentum.**
+> Identity is locked **upstream** — every SUBJECT still is rendered from Aira's reference, so she's the same
+> person before Flow animates her. The 3 refs then hold subject + world + look steady across the cut.
+> **The PROMPT does the composition:** name how to combine them ("`@aira` rides the `@bike` through
+> `@world` …") + crop, angle, ONE dominant camera move, her per-limb action + expression, the signature —
+> written as **timed beat-ranges** ([00:00–00:02] / [00:02–00:04] / [00:04–00:06]).
+> **Match the SUBJECT still's lighting to the WORLD still's** or the cut-out reads fake.
+> Pipeline: Nano Banana Pro renders the 3 stills (isolated subject + scene + prop/look) → load as
+> Ingredients → the timed 6s prompt drives the beat → cut to the next → consistency held by refs + momentum.
 
-> (Frames-to-Video — start+end keyframe — is the alternative mode, used only when one shot needs a tight
-> internal A→B move. It is a separate mode from Ingredients, so per clip we pick one.)
+> **Exact-composition beats** (e.g. the carve) can instead be run as **Frames-to-Video** (a composite
+> start frame) — a *separate* mode from Ingredients, picked per clip when precise A→B framing matters.
 
 ## Performance rule: candid, alive — never a frozen pose
 Keep **identity** constant (same person; face/build/hair fixed, only gaze/head/soft expression animate),
@@ -69,3 +74,11 @@ See `_TEMPLATE.md` for the exact shot-card structure.
 7. **Same prompt-detailing depth as the master /CONCEPTS files** (rich per-still description + timed
    SHOT BREAKDOWN beats), plus: controlled vibrancy (skin protected), real-time motion (no slow-mo),
    identity fixed but body never frozen (candid real movement), one grounded-surreal signature, 9:16, loops.
+8. **Ingredient stills are CLEAN & ISOLATED (Flow's spec):** SUBJECT on a plain/segmented neutral
+   background (lit to match the world); WORLD as a full scene with no subject; 3rd = prop isolated on plain
+   bg OR a palette/grade swatch. Never a busy composite — composition lives in the prompt. Exact-composition
+   beats may run as Frames-to-Video (composite start frame) instead.
+9. **Video-prompt motion style:** write **timed beat-ranges** ([00:00–00:02] / [00:02–00:04] /
+   [00:04–00:06]) — not free prose — to budget the action and stop Veo rushing/padding. **One dominant
+   camera move per clip** (don't chain orbit→pull-back in one 6s shot) and **only ~2–3 actions per clip**;
+   over-stuffing makes the model drop or cram beats.
