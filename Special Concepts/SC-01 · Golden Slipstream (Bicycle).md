@@ -16,7 +16,12 @@ Every shot changes crop, angle and camera move; she is never just pedaling on an
   lean, real air-drag on hair/fabric, real petal weight. The one magical beat (the bloom) is grounded in
   real spin/air physics: molten-gold speculars + glow, NOT cartoon sparkle, never floaty/weightless.
 - **Motion:** real-time natural speed, NO slow-motion. Every clip starts already-in-motion.
-- **Identity:** treat Aira's face/build/hair as a fixed skeleton — only gaze/head/soft expression move.
+- **Identity (constant) vs pose (free):** keep her face/build/hair a fixed skeleton — only gaze/head/soft
+  expression animate. But do **NOT** freeze her body — her pose and behaviour vary naturally every beat.
+- **Candid, alive, never a posed hold:** real-rider life throughout — glancing around, rising onto the
+  pedals then sitting back, one-hand and brief no-hands coasting, brushing a strand of hair from her face,
+  a breath / laugh / grin, resetting her grip, shifting weight into the lean. Different natural actions in
+  every shot; she reads as a real person riding, not a model holding a pose.
 - **Audio (silent reel):** driving cinematic score + diegetic wheel-whir, wind, a soft tonal swell on the
   bloom. (Optional single finale line if you want one — left out by default for pure visual power.)
 
@@ -39,7 +44,7 @@ Each shot is a **new camera setup** (angle/size/move/perspective); we **cut** be
 
 **Flow (Ingredients-to-Video):** SUBJECT + WORLD + COMPOSITE (3 reference images, new angle this beat)
 **Prompt (paste into Flow):**
-> Low-hero wide, three-quarter front, the camera already craning up and tracking forward with her. [00:00–00:02] Aira is mid push-off — her RIGHT foot drives the lead pedal down, weight rising onto the saddle, the front wheel skimming light off the wet cobbles, scarf and hair snapping straight back as the bicycle surges off the mark. [00:02–00:04] she settles into the first powerful stroke, both legs finding real rhythm, torso leaning into the acceleration, the avenue streetlamps flicking warm down the row ahead of her. [00:04–00:06] the bike gathers genuine speed, her gaze fixing down the avenue with calm command as warm rake-light rolls across her. Real-time natural speed, believable bicycle dynamics and weight transfer, hair and scarf moving on real air-drag; hold her exact identity; 9:16 vertical.
+> Low-hero wide, three-quarter front, the camera already craning up and tracking forward with her. [00:00–00:02] Aira is mid push-off — her RIGHT foot drives the lead pedal down with a quick natural glance down at it, weight rising onto the saddle, the front wheel skimming light off the wet cobbles, scarf and hair snapping back as the bicycle surges off the mark. [00:02–00:04] she settles onto the seat into the first strokes, resets her grip on the bars, shoulders loosening, a small private breath of effort and an easy half-smile as her gaze lifts from the road to the avenue ahead; the streetlamps flick warm down the row before her. [00:04–00:06] the bike gathers genuine speed, she shifts her weight forward and throws a quick glance to her side at the passing trees, alive and unposed. Real-time natural speed, believable bicycle dynamics and weight transfer, candid lived-in movement; hold her exact identity (only gaze/head/soft expression change); 9:16 vertical.
 **Cut (essence continuation, match-on-action) →** Shot 2 opens on the bike already at full speed, cutting to a parallel side-track.
 
 ---
@@ -52,7 +57,7 @@ Each shot is a **new camera setup** (angle/size/move/perspective); we **cut** be
 
 **Flow (Ingredients-to-Video):** SUBJECT + WORLD + COMPOSITE (3 reference images, new angle this beat)
 **Prompt (paste into Flow):**
-> Tight side-tracking profile, cowboy crop, the camera dollying parallel at her exact speed so she stays razor-sharp while the avenue streaks into warm motion-blur behind. [00:00–00:02] Aira drives the pedals in real rhythm, hair and scarf streaming fully horizontal in the slipstream. [00:02–00:04] she lifts her LEFT hand off the bar into the rushing air for a beat of free, confident control, chin level, a faint exhilarated breath; in her wake the first autumn petals and fine motes of golden light lift and tumble, kicked up in her draft. [00:04–00:06] the camera racks focus from the streaking street to her calm, alive face as the luminous wake thickens behind her. Real-time, no slow-motion, believable air-drag on hair and fabric and real petal weight; identity held exactly; 9:16.
+> Tight side-tracking profile, cowboy crop, the camera dollying parallel at her exact speed so she stays razor-sharp while the avenue streaks into warm motion-blur behind. [00:00–00:02] Aira rises off the saddle onto the pedals for a couple of driving strokes then eases back down, hair and scarf streaming horizontal, legs working in real rhythm. [00:02–00:04] she lifts her LEFT hand off the bar into the rushing air, tips her face up to the breeze with a flickering eyes-closed grin, then sweeps a whipping strand of hair back from her cheek with that same hand; in her wake the first autumn petals and fine motes of golden light lift and tumble in her draft. [00:04–00:06] she settles both hands back, throws a quick glance sideways at the streaking shopfronts, and the camera racks focus to her calm, exhilarated face as the luminous wake thickens. Real-time, no slow-motion, candid natural behaviour, believable air-drag on hair and fabric and real petal weight; identity held exactly (face = gaze/expression only); 9:16.
 **Cut (essence continuation, match-on-action) →** Shot 3 opens as she enters a sweeping curve and the camera breaks into an orbit.
 
 ---
@@ -65,7 +70,7 @@ Each shot is a **new camera setup** (angle/size/move/perspective); we **cut** be
 
 **Flow (Ingredients-to-Video):** SUBJECT + WORLD + COMPOSITE (3 reference images, new angle this beat)
 **Prompt (paste into Flow):**
-> Low three-quarter hero from the inside of the turn, the camera arcing in an orbit around her as she banks into a hard carving lean. [00:00–00:02] the bicycle angles steep, her inside LEFT knee dropping toward the road, the tyres visibly gripping and compressing, her torso committed over the bars, gaze locked through the curve. [00:02–00:04] at the apex of the lean her wake blooms to full — real autumn petals and molten-gold light spiral off the spinning wheels and her slipstream in a powerful trailing ribbon, grounded in real spin and air physics with weighty petals and warm speculars and glow, never cartoon sparkle. [00:04–00:06] she carves out of the turn and powers upright, the bloom streaming long behind her as the camera completes its arc to her front. Real-time natural speed, believable lean and tyre physics, one grounded-surreal bloom; identity held; 9:16.
+> Low three-quarter hero from the inside of the turn, the camera arcing in an orbit around her as she banks into a hard carving lean. [00:00–00:02] she flicks a quick read of the line ahead, then commits — the bicycle angling steep, her inside LEFT knee dropping toward the road, fingers feathering then releasing the brake, the tyres visibly gripping and compressing, a sharp focused breath through parted lips. [00:02–00:04] at the apex of the lean her wake blooms to full — real autumn petals and molten-gold light spiral off the spinning wheels and her slipstream in a powerful trailing ribbon, grounded in real spin and air physics with weighty petals and warm speculars and glow, never cartoon sparkle. [00:04–00:06] she shifts her weight and powers upright out of the turn, the bloom streaming long behind her, a quick flash of a grin as the camera completes its arc to her front. Real-time natural speed, believable lean and tyre physics, alive working-rider movement, one grounded-surreal bloom; identity held; 9:16.
 **Cut (essence continuation, match-on-action) →** Shot 4 opens as she rolls out of the carve toward a controlled hero arrival.
 
 ---
@@ -78,7 +83,7 @@ Each shot is a **new camera setup** (angle/size/move/perspective); we **cut** be
 
 **Flow (Ingredients-to-Video):** SUBJECT + WORLD + COMPOSITE (3 reference images, new angle this beat)
 **Prompt (paste into Flow):**
-> Hero medium, low front angle, the camera easing into a slow push-in. [00:00–00:02] Aira coasts out of the run and rolls to a smooth controlled stop, the bike decelerating with believable weight, her body rising tall over the frame, one boot easing down to the cobbles. [00:02–00:04] she lifts her gaze level to the lens with calm, powerful command and a slow settling breath; behind and around her the molten-gold light and petals drift down and settle into a glowing carpet on the wet stone. [00:04–00:06] the last motes settle, her look holds, the warm light pooling around her, the composition easing toward the charged calm of the opening for a seamless loop. Real-time natural speed, believable deceleration; identity held exactly; 9:16.
+> Hero medium, low front angle, the camera easing into a slow push-in. [00:00–00:02] Aira coasts out of the run, sits up tall and lets both hands hover and relax just off the bars for a free no-handed beat, the bike decelerating with believable weight. [00:02–00:04] she looks around the avenue taking it in, sweeps a loose strand of hair back behind her ear, lets out a natural satisfied breath and an easy smile, then settles her hands and eases one boot down toward the cobbles. [00:04–00:06] she lifts her gaze level to the lens with calm warmth as the molten-gold light and petals drift down and settle into a glowing carpet around her, the composition easing toward the charged calm of the opening for a seamless loop. Real-time natural speed, believable deceleration, candid unposed behaviour; identity held exactly (face = gaze/expression only); 9:16.
 **Cut (essence continuation, match-on-action) →** loops back to Shot 1 (the charged push-off calm).
 
 ---

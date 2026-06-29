@@ -37,6 +37,13 @@ Flow lets us hand **3 reference images** to each clip. We spend them as:
 > (Frames-to-Video — start+end keyframe — is the alternative mode, used only when one shot needs a tight
 > internal A→B move. It is a separate mode from Ingredients, so per clip we pick one.)
 
+## Performance rule: candid, alive — never a frozen pose
+Keep **identity** constant (same person; face/build/hair fixed, only gaze/head/soft expression animate),
+but **do not freeze the body.** In every clip the subject behaves like a real person, not a model holding
+a pose — natural varied micro-actions appropriate to the beat (glancing around, shifting weight, adjusting
+grip/hair, a breath/laugh/grin, a free hand, etc.), and a **different** combination of natural actions in
+each shot. This is what makes the motion read natural rather than stiff.
+
 ## How each ingredient-mode file is laid out
 - One concept per file.
 - An `INGREDIENTS` block at the top (what to upload + the `@name` to give each).
