@@ -241,6 +241,15 @@ woman."** Never write the character's name into a Veo prompt. Ingredient labels 
 ### SC-27 · LAKE GLIDE (Swan Pedal-Boat) — **BUILT** · 4 shots × 6s · SILENT
 - mode **swan pedal-boat** · journey **lake launch → under the willow → past the fountain → island pavilion** · signature **water-mirror ripples + drifting white feathers + soft sun-glints** · light **bright sunny park afternoon** · wardrobe **mint gingham sundress + wide straw sunhat** · hair **milkmaid crown braid** · `@object` = white swan pedal-boat · shot-grammar **high aerial descend / water-line willow dolly / parallel profile fountain / push-in+crane**. **FILE:** `SC-27 · Lake Glide (Swan Pedal-Boat).md`
 
+### SC-28 · HILLSIDE TRAM (Vintage Tram) — **BUILT** · 4 shots × 6s · SILENT
+- mode **vintage tram** · journey **EXT steep pastel street → market square → hilltop viewpoint → seafront terminus** · signature **tram-spark glints + fluttering bunting/laundry + warm street-light glints** · light **bright sunny colourful** · wardrobe **red polka-dot mod dress + cat-eye sunglasses + neck-scarf** · hair **flicked-out 60s bob** · `@object` = vintage yellow tram · shot-grammar **exterior low street-level pass / interior over-shoulder window / high 3/4 viewpoint / push-in+crane** · *(exterior "see the tram from outside").* **FILE:** `SC-28 · Hillside Tram (Vintage Tram).md`
+
+### SC-29 · DUNE CARAVAN (Camel) — **BUILT** · 4 shots × 6s · SILENT
+- mode **camel** · journey **golden dunes → palm oasis → desert market edge → sunset city gate** · signature **golden sand-veil drift + warm low light + streaming silk scarf** · light **warm golden desert → sunset gold** · wardrobe **terracotta-gold boho-luxe maxi + silk turban + coin-jewellery** · hair **1920s finger-waves under turban** · `@object` = tasselled camel · shot-grammar **high aerial dune track / low ground-level oasis / parallel profile market / push-in+crane gate**. **FILE:** `SC-29 · Dune Caravan (Camel).md`
+
+### SC-30 · JUNGLE PROCESSION (Elephant) — **BUILT** · 4 shots × 6s · SILENT
+- mode **elephant** · journey **jungle path → temple ruins → river crossing → village festival** · signature **tossed marigold petals + canopy light-shafts + drifting jasmine** · light **lush dappled jungle → bright festival** · wardrobe **fuchsia-teal embroidered set + jasmine garland + gold bangles** · hair **long rope-braid woven with jasmine** · `@object` = gently-decorated elephant · shot-grammar **high aerial canopy track / low ground-level ruins / parallel profile river / push-in+crane festival**. **FILE:** `SC-30 · Jungle Procession (Elephant).md`
+
 ## CONCEPT ROADMAP — ALL CONCEPTS BUILT ✓
 *(rickshaw SC-05 dropped; redundant 2nd-blossom SC-20 dropped. All 19 planned concepts + the SC-A1 anime concept are fully
 built, and ALL have been rebuilt to the **CORRECTED STANDARD (v2)** above — clean front-facing/plain-bg `@subject`,
