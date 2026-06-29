@@ -33,6 +33,9 @@ SET4 = {}
 # Set-5 main couture/clothes-change dataset (concepts 71-79; selected via dataset='set5')
 SET5 = {}
 
+# Set-5 runway snap-change dataset (concepts 83-84; selected via dataset='set5rw') — bespoke
+SET5RW = {}
+
 # ============================ CONCEPT 01 — STEEL TO SILK ============================
 # Flow: F1 arrive onto mark / hand to hip (hero)  -> F2 lift right wrist to collarbone, study cuff
 #   -> F3 unfold both arms open, palms up (receive) -> F4 transform: lift into a held-angle pivot
@@ -2273,6 +2276,24 @@ def _set4_frame(role, prod, site, world, energy, gaze):
           "framing": "She holds the %s after-look, both hands cradling the %s soft near the heart, one shoulder dropped and weight settled even as her %s gaze holds to lens." % (energy, prod, gaze),
           "b1": "Cut to a held hero on a fresh angle: she settles both hands soft, cradling the %s near her heart, as a gentle push eases in; her %s gaze holding to lens." % (prod, gaze),
         }
+    elif role == "productmacro":
+        d = {
+          "posture": "GAZE lowered soft to the product with focus; HEAD tipped a touch toward the hands; SHOULDERS soft and even; RIGHT ARM and LEFT ARM both bringing the %s into a macro close, the RIGHT HAND tilting it and the LEFT HAND cradling it, RIGHT and LEFT FINGERS articulate on it; TORSO eased toward the product; WAIST & HIPS settled with a soft counter-tilt; RIGHT LEG the free/forward leg soft, LEFT LEG weight-bearing; FEET & WEIGHT settled even; HAIR soft \u2014 an intimate product macro, alive (living stillness)." % (prod),
+          "framing": "A product macro \u2014 both hands tilt and cradle the %s into the close with articulate fingers, her %s gaze lowered soft to it." % (prod, gaze),
+          "b1": "Cut to a product macro insert: she is already tilting the %s into the close with both hands as a slow push glides in, fingers articulate on it; gaze soft to the product." % (prod),
+        }
+    elif role == "footwear":
+        d = {
+          "posture": "GAZE (implied) cast down to the footwear; the beat read through the lower limbs; HEAD and TORSO implied poised above, angled to present the look; RIGHT LEG the front leg presenting the shoe with the foot pointed and angled, LEFT LEG the supporting leg grounded firm; the RIGHT HAND easing down toward the accessory or hem, RIGHT FINGERS light; LEFT HAND easy; WAIST & HIPS angled to present the footwear and accessories; FEET & WEIGHT braced on the supporting leg as the front foot presents the shoe; HAIR soft \u2014 a poised detail beat (living stillness).",
+          "framing": "A footwear-and-accessories detail \u2014 the front foot presents the shoe pointed and angled over the grounded supporting leg, a hand easing down toward the accessory.",
+          "b1": "Cut to a footwear-and-accessories detail: she is already presenting the front foot and shoe with a pointed angle as a slow push tracks in, a hand easing toward the accessory; weight braced on the supporting leg.",
+        }
+    elif role == "movement":
+        d = {
+          "posture": "GAZE leading the movement, level and %s; HEAD leading the turn; SHOULDERS opening with the stride; RIGHT ARM and LEFT ARM swinging in easy counter-motion, RIGHT and LEFT FINGERS relaxed; TORSO turning with the editorial movement; WAIST & HIPS swaying with the stride; RIGHT LEG and LEFT LEG mid-stride, one striking heel-first as the other pushes off; FEET & WEIGHT flowing forward heel-to-toe through the look; HAIR swinging with the move \u2014 %s editorial movement, alive." % (gaze, energy),
+          "framing": "An editorial movement beat \u2014 she strides and turns mid-phrase, arms in easy counter-motion and weight flowing forward heel-to-toe through the look.",
+          "b1": "Cut to an editorial movement beat: she is already mid-stride and turning through the look as the camera moves with her, arms swinging in counter-motion and weight flowing forward; her %s gaze leading the movement." % (gaze),
+        }
     else:  # loop
         d = {
           "posture": "GAZE easing back to the %s awe of Frame 1, lifting toward the light; HEAD returning level with the chin a touch lifted; SHOULDERS open with one dropped soft; RIGHT ARM and LEFT ARM both returning to cradle the %s at the heart, RIGHT and LEFT FINGERS resting light on it; TORSO returning to the three-quarter of the opening, spine long; WAIST & HIPS settled with a soft counter-tilt; RIGHT LEG the free/forward leg soft, LEFT LEG weight-bearing and straight; FEET & WEIGHT settled and serene exactly as in Frame 1; HAIR soft with a face-framing strand resettling \u2014 %s and alive." % (gaze, prod, energy),
@@ -2309,12 +2330,122 @@ _SET5_PARAMS = {
  77: (6, "compact", "cheekbone", "paper-bloom garden studio", "joyful", "bright"),
  78: (8, "vial", "lips", "candy-chrome balloon studio", "playful", "bright"),
  79: (7, "dropper", "cheekbone", "mirror-prism studio", "iridescent", "radiant"),
+ 80: (6, "puck", "cheekbone", "bold colour-block studio", "electric", "bright"),
+ 81: (7, "orb jar", "cheekbone", "lava-lamp pop studio", "playful", "bright"),
+ 82: (6, "orb", "lips", "electric plasma studio", "electric", "bright"),
 }
 _SET5_ROLES = {
  78: {1: "hero", 2: "transform", 3: "product", 4: "address", 5: "held", 6: "magic", 7: "held", 8: "loop"},
+ 79: {1: "hero", 2: "transform", 3: "product", 4: "held", 5: "held", 6: "magic", 7: "loop"},
+ 81: {1: "hero", 2: "transform", 3: "productmacro", 4: "footwear", 5: "movement", 6: "magic", 7: "loop"},
+ 82: {1: "hero", 2: "transform", 3: "productmacro", 4: "footwear", 5: "magic", 6: "loop"},
 }
 for _n, _p in _SET5_PARAMS.items():
     SET5[_n] = _set4_build(_p, _SET5_ROLES.get(_n))
+
+
+# ===== C83 / C84 — bespoke pop-runway snap-change (persistent accessory; real spins/struts) =====
+# Change frames (C83 F2/F4/F6, C84 F2/F4) keep their authored change/magic beats (image-only here).
+SET5RW[83] = {
+ 1: {
+  "posture": "GAZE bright and direct to lens, knowing; HEAD level with the chin a hair lifted; SHOULDERS squared with the right opened about 5 degrees toward camera, the front dropped a touch; RIGHT ARM raised beside the jaw in a poised finger-snap, the RIGHT HAND with thumb and middle finger pressed a beat before the click, RIGHT FINGERS taut; LEFT ARM down holding the Prism clutch light at the hip, the LEFT HAND around it, LEFT FINGERS relaxed; TORSO rotated about 5 degrees opening the right shoulder; WAIST & HIPS in a 2-degree counter-tilt; RIGHT LEG the free/forward leg with the knee soft, LEFT LEG weight-bearing and straight; FEET & WEIGHT settled on the back left leg in a confident hook stance; HAIR sleek in the tangerine glow \u2014 sharp and alive (living stillness).",
+  "hands": "RIGHT HAND raised beside the jaw in a poised finger-snap, thumb and middle finger pressed with believable tension a beat before the click, RIGHT FINGERS taut; LEFT HAND holding the Prism clutch light at the hip, LEFT FINGERS relaxed around it; short squared nails in glossy hot-pink, neat cuticles, no white-knuckle tension.",
+  "framing": "She holds a confident hook \u2014 right hand poised at the jaw to snap, left holding the Prism clutch at the hip, weight settled on the back leg with the right shoulder opened to camera in the Voltage Tangerine look.",
+  "b1": "Medium close rising to medium: a slow 6% push-in is already gliding in as she holds a confident freeze in the Voltage Tangerine look \u2014 right hand poised at the jaw to snap, left holding the Prism clutch at the hip, weight settled on the back leg; eyes locked to lens with a knowing quarter-smile.",
+  "b3": "She holds the post-snap beat, right fingers easing from the snap and left steady on the clutch, weight grounded on the back leg, eyes bright and direct, the tangerine seamless crisp behind (silent \u2014 no words).",
+ },
+ 2: {
+  "posture": "GAZE bright and tracking through the spin; HEAD turning with the whip; SHOULDERS counter-rotating against the hips; RIGHT ARM sweeping out from the spin, the RIGHT HAND trailing the motion, RIGHT FINGERS elegantly trailing; LEFT ARM holding the Prism clutch through the whip, the LEFT HAND gripping it with believable tension, LEFT FINGERS firm; TORSO rotated through about 120 degrees of the whip with a believable hip counter-rotation; WAIST & HIPS counter-rotating under the torso; RIGHT LEG sweeping free with the spin, LEFT LEG the planted pivot, weight transferring through it; FEET & WEIGHT balanced through the planted back foot mid-spin; HAIR flaring out with the whip \u2014 mid-spin but balanced.",
+  "hands": "RIGHT HAND sweeping out from the spin with RIGHT FINGERS elegantly trailing the motion; LEFT HAND holding the Prism clutch through the whip with believable grip, LEFT FINGERS firm; short squared nails resolving toward glossy cyan, neat cuticles, no white-knuckle tension.",
+  "framing": "Mid-spin but balanced \u2014 the torso whips through about 120 degrees with the hips counter-rotating, right arm trailing out and the left gripping the Prism clutch through the whip, weight through the planted pivot foot.",
+ },
+ 3: {
+  "posture": "GAZE level then lifting to lens, cool; HEAD level with a slight knowing tilt; SHOULDERS opened about 6 degrees; RIGHT ARM holding the Prism clutch forward at hip height, the RIGHT HAND around it, RIGHT FINGERS relaxed and elegant; LEFT ARM down to the cocked hip, the LEFT HAND resting light on it, LEFT FINGERS soft; TORSO rotated about 6 degrees to open the shoulder; WAIST & HIPS in a confident hip-led contrapposto, hip cocked about 7 degrees; RIGHT LEG the free leg with the front foot pointed a touch forward, LEFT LEG weight-bearing; FEET & WEIGHT settled on the back leg with the front foot pointed; HAIR sleek in the cyan glow \u2014 cool and composed (living stillness).",
+  "hands": "RIGHT HAND holding the Prism clutch forward at hip height, RIGHT FINGERS relaxed and elegant; LEFT HAND resting light at the cocked hip, LEFT FINGERS soft; short squared nails in glossy cyan, neat cuticles, no white-knuckle tension.",
+  "framing": "A confident hip-led contrapposto in Liquid Cyan \u2014 right hand holding the Prism clutch forward at hip height, left light on the cocked hip, weight on the back leg with the front foot pointed.",
+  "b1": "Medium-full: a slow 5% push-in is already settling on the hip-led pose as the liquid-sequin gown ripples a light-wave and stills, the clutch easing forward in her right hand and the left resting on the cocked hip; gaze level.",
+  "b3": "She holds the composed cyan pose, the clutch forward and the left on the cocked hip, weight settled on the back leg, eyes bright and direct, the gown glittering softly.",
+ },
+ 4: {
+  "posture": "GAZE bright and tracking the flipping panels; HEAD level, lifted a hair in playful awe; SHOULDERS breathing, open about 6 degrees; RIGHT ARM holding the Prism clutch steady through the cascade, the RIGHT HAND around it, RIGHT FINGERS firm; LEFT ARM lifted as if conducting the flips, the LEFT HAND splayed open, LEFT FINGERS spread; TORSO open about 6 degrees, planted and legible; WAIST & HIPS even and grounded; RIGHT LEG and LEFT LEG in a confident planted stance, weight even; FEET & WEIGHT grounded even through the cascade; HAIR sleek catching the flip-light \u2014 balanced through the change.",
+  "hands": "RIGHT HAND holding the Prism clutch steady through the cascade, RIGHT FINGERS firm; LEFT HAND lifted with fingers splayed as if conducting the flips, LEFT FINGERS spread; short squared nails flipping toward glossy ultraviolet, neat cuticles, no white-knuckle tension.",
+  "framing": "A confident planted stance through the flip-board cascade \u2014 right hand holding the Prism clutch steady, left lifted and splayed as if conducting the flips, weight even and grounded.",
+ },
+ 5: {
+  "posture": "GAZE locked hard to lens, fierce; HEAD level, one brow lifted in challenge; SHOULDERS squared and pushed a touch forward; RIGHT ARM angled sharp holding the Prism clutch at the hip, the RIGHT HAND around it, RIGHT FINGERS firm; LEFT ARM planted bold on the cocked hip, the LEFT HAND splayed strong, LEFT FINGERS spread; TORSO tall and breathing in a wide power stance; WAIST & HIPS cocked about 5 degrees, planted low; RIGHT LEG and LEFT LEG in a strong wide stance, weight planted even and low; FEET & WEIGHT planted even and wide; HAIR sleek catching the ultraviolet sheen \u2014 fierce and grounded.",
+  "hands": "RIGHT HAND holding the Prism clutch at a sharp angle near the hip, RIGHT FINGERS firm; LEFT HAND planted bold on the cocked hip, LEFT FINGERS splayed strong; short squared nails in glossy ultraviolet, neat cuticles, no white-knuckle tension.",
+  "framing": "A strong wide power stance in Ultraviolet Latex \u2014 right hand angling the Prism clutch sharp at the hip, left planted bold on the cocked hip, weight planted even and low with shoulders pushed forward.",
+  "b1": "Medium-full: a slow 5% push-in is already settling as she snaps into the wide power stance \u2014 weight planting even and low, left hand bold on the cocked hip, the clutch angling sharp in the right \u2014 the latex catching a hard specular-slide; gaze driving to lens.",
+  "b3": "She holds the fierce power pose, the clutch sharp at the hip and the left planted on the cocked hip, weight low and even, eyes bold and direct, the latex glinting.",
+ },
+ 6: {
+  "posture": "GAZE bright and lifted into the gold light, awed; HEAD lifting, chin rising in wonder; SHOULDERS opening and lengthening upward; RIGHT ARM holding the Prism clutch through the bloom, the RIGHT HAND around it, RIGHT FINGERS easing; LEFT ARM lifted and open as a ribbon spirals through the fingers, the LEFT HAND open, LEFT FINGERS spread to the ribbons; TORSO lengthening upward into the bloom; WAIST & HIPS rising and lengthening; RIGHT LEG and LEFT LEG rising onto the balls of the feet as the gold sandals lock; FEET & WEIGHT lifting onto the balls of the feet, elevated; HAIR lifting a touch in the light-bloom \u2014 elevated and graceful.",
+  "hands": "RIGHT HAND holding the Prism clutch through the bloom, RIGHT FINGERS easing; LEFT HAND lifted and open as a light-ribbon spirals through the fingers, LEFT FINGERS spread; short squared nails resolving toward glossy gold, neat cuticles, no white-knuckle tension.",
+  "framing": "An elevated graceful stance through the light-ribbon bloom \u2014 right hand holding the Prism clutch, left lifted open as a ribbon spirals through the fingers, weight rising onto the balls of the feet and the spine lengthening upward.",
+ },
+ 7: {
+  "posture": "GAZE lifted bright and direct, triumphant; HEAD lifted with both brows a hair raised; SHOULDERS open and breathing; RIGHT ARM holding the Prism clutch in a triumphant hero-line at the hip, the RIGHT HAND around it, RIGHT FINGERS composed; LEFT ARM resting elegant and open at the gown's drape, the LEFT HAND open, LEFT FINGERS long; TORSO tall and lifted in a hero stance; WAIST & HIPS settled high and proud; RIGHT LEG and LEFT LEG tall and grounded, weight settled high; FEET & WEIGHT settled high and proud; HAIR luminous in the molten-gold light \u2014 triumphant and elevated.",
+  "hands": "RIGHT HAND holding the Prism clutch in a triumphant hero-line at the hip, RIGHT FINGERS composed; LEFT HAND resting elegant and open at the gown's drape, LEFT FINGERS long; short squared nails in glossy gold, neat cuticles, no white-knuckle tension.",
+  "framing": "A tall elevated finale hero in Molten Gold \u2014 right hand carrying the Prism clutch in a triumphant hero-line at the hip, left open at the gown's drape, weight settled high and proud with shoulders open.",
+  "b1": "Medium-full: a slow 5% push-in is already settling on the finale as she settles the tall hero stance \u2014 weight settling high and proud, the Prism clutch rising into the triumphant hero-line in her right hand and the left open at the drape \u2014 the gold gown catching a molten specular-slide; gaze lifting.",
+  "b3": "She holds the triumphant hero pose, the clutch in its hero-line and the left open at the drape, weight high and proud, eyes radiant and direct, the gold gown luminous.",
+ },
+ 8: {
+  "posture": "GAZE resolving to the exact Frame-1 bright knowing direct-to-lens; HEAD returning level with the chin a hair lifted; SHOULDERS squaring back with the right opened about 5 degrees; RIGHT ARM returning beside the jaw in the poised finger-snap, the RIGHT HAND with thumb and middle finger pressed, RIGHT FINGERS taut; LEFT ARM lowering to hold the Prism clutch light at the hip, the LEFT HAND around it, LEFT FINGERS relaxed; TORSO rotating back to about 5 degrees; WAIST & HIPS returning to the 2-degree counter-tilt; RIGHT LEG easing to free/forward soft, LEFT LEG weight-bearing; FEET & WEIGHT settling onto the back left leg exactly as in Frame 1; HAIR settling as the gold flashes back to tangerine \u2014 sharp and alive.",
+  "hands": "RIGHT HAND returning beside the jaw in the poised finger-snap exactly as in Frame 1, thumb and middle finger pressed, RIGHT FINGERS taut; LEFT HAND holding the Prism clutch light at the hip, LEFT FINGERS relaxed; short squared nails flashing back to glossy hot-pink, neat cuticles, no white-knuckle tension.",
+  "framing": "She resolves precisely into the Frame-1 hook \u2014 right hand poised at the jaw to snap, left holding the Prism clutch at the hip, weight settled on the back leg with the right shoulder opened, the look flashed back to Voltage Tangerine for a seamless loop.",
+  "b1": "Medium waist-up matching Frame 1: a fast 5% whip-settle is already resolving toward the exact opening framing as the gold finale whip-flashes back into the Voltage Tangerine look, her right hand returning to the jaw-snap and the left to the clutch at the hip.",
+  "b3": "She holds precisely on the Frame 1 beat \u2014 right hand poised to snap, left on the clutch, weight on the back leg \u2014 framing locked so the next loop continues invisibly, a seamless loop seam.",
+ },
+}
+
+SET5RW[84] = {
+ 1: {
+  "posture": "GAZE bright and direct to lens, playful; HEAD level with the chin a hair lifted; SHOULDERS squared with the right opened about 5 degrees; RIGHT ARM raised beside the jaw, the RIGHT HAND with one finger curled in a playful come-here beckon and the Halo cuff catching light on that wrist, RIGHT FINGERS soft; LEFT ARM down resting light at the hip, the LEFT HAND soft, LEFT FINGERS relaxed; TORSO rotated about 5 degrees opening the right shoulder; WAIST & HIPS in a 2-degree counter-tilt; RIGHT LEG the free/forward leg soft, LEFT LEG weight-bearing; FEET & WEIGHT settled on the back left leg in a playful hook stance; HAIR sleek in the electric-lime glow \u2014 playful and alive (living stillness).",
+  "hands": "RIGHT HAND raised beside the jaw with one finger curled in a playful come-here beckon, the Halo cuff on that wrist catching light, RIGHT FINGERS soft; LEFT HAND resting light at the hip, LEFT FINGERS relaxed; short squared nails in glossy white, neat cuticles, no white-knuckle tension.",
+  "framing": "She holds a playful hook \u2014 right hand raised beside the jaw in a come-here beckon with the Halo cuff blazing, left light at the hip, weight settled on the back leg with the right shoulder opened in the electric-lime Look A.",
+  "b1": "Medium close rising to medium: a slow push-in is already gliding in as she holds a playful freeze in the electric-lime look \u2014 right hand beside the jaw in a come-here beckon with the Halo cuff catching light, left light at the hip, weight on the back leg; eyes locked to lens with a bright knowing smile.",
+  "b3": "She holds the post-beckon beat, the right hand easing and the Halo cuff glinting, weight grounded on the back leg, eyes bright and direct, the lime seamless crisp behind (silent \u2014 no words).",
+ },
+ 2: {
+  "posture": "GAZE bright and tracking the converging panels; HEAD level, lifted a hair; SHOULDERS breathing, open about 6 degrees; RIGHT ARM lifted with the fingers open as the panels snap past, the RIGHT HAND open with the Halo cuff catching the converge, RIGHT FINGERS spread; LEFT ARM at the hip steadying through the burst, the LEFT HAND on the hip, LEFT FINGERS firm; TORSO open about 6 degrees, planted; WAIST & HIPS even and grounded; RIGHT LEG and LEFT LEG in a confident planted stance, weight even; FEET & WEIGHT grounded even through the converge; HAIR sleek catching the snap-light \u2014 balanced through the change.",
+  "hands": "RIGHT HAND lifted with fingers open as the magnetic panels snap past, the Halo cuff catching the converge, RIGHT FINGERS spread; LEFT HAND at the hip steadying through the burst, LEFT FINGERS firm; short squared nails resolving toward fuchsia, neat cuticles, no white-knuckle tension.",
+  "framing": "A confident planted stance through the magnetic-panel snap-on \u2014 right hand lifted open into the incoming pieces with the Halo cuff catching the converge, left steadying at the hip, weight even and grounded.",
+ },
+ 3: {
+  "posture": "GAZE leading the turn, bright; HEAD turning to lead the swish; SHOULDERS opening with the turn; RIGHT ARM sweeping out from the body to lead the turn, the RIGHT HAND open with the Halo cuff catching light, RIGHT FINGERS relaxed and elegant; LEFT ARM light at the waist, the LEFT HAND soft, LEFT FINGERS relaxed; TORSO rotated about 18 degrees through the swish; WAIST & HIPS in a soft counter-tilt as weight transfers; RIGHT LEG and LEFT LEG caught mid-turn, weight transferring onto the front leg; FEET & WEIGHT rolling onto the front foot through the turn; HAIR swinging with the swish \u2014 caught mid-turn, alive.",
+  "hands": "RIGHT HAND sweeping out from the body to lead the turn, the Halo cuff catching light, RIGHT FINGERS relaxed and elegant; LEFT HAND light at the waist, LEFT FINGERS relaxed; short squared nails in glossy fuchsia, neat cuticles, no white-knuckle tension.",
+  "framing": "Caught mid-turn in Fuchsia Bloom \u2014 right arm sweeping out to lead the turn with the Halo cuff blazing, left light at the waist, the torso rotating about 18 degrees as weight transfers onto the front leg.",
+  "b1": "Medium-full: a smooth move-with is already following her mid-turn through the fuchsia look \u2014 the right arm sweeping out to lead the turn with the Halo cuff catching light, weight transferring onto the front leg; gaze leading the swish.",
+  "b3": "She settles out of the turn into a confident fuchsia pose, the right arm easing from the sweep and the cuff glinting, weight settling on the front leg, eyes bright and direct.",
+ },
+ 4: {
+  "posture": "GAZE bright and lifted into the light-seam, serene awe; HEAD level, lifted a hair in wonder; SHOULDERS breathing, open about 5 degrees; RIGHT ARM lifted clear of the light-seam, the RIGHT HAND open with the Halo cuff blazing in the glow, RIGHT FINGERS elegant and open; LEFT ARM at the hip clear of the unzip, the LEFT HAND on the hip, LEFT FINGERS soft; TORSO open about 5 degrees, poised and statuesque; WAIST & HIPS even and grounded; RIGHT LEG and LEFT LEG in a poised statuesque stance, weight even; FEET & WEIGHT grounded even through the reveal; HAIR sleek catching the zip-light \u2014 statuesque through the change.",
+  "hands": "RIGHT HAND lifted clear of the travelling light-seam, the Halo cuff blazing in the glow, RIGHT FINGERS elegant and open; LEFT HAND at the hip clear of the unzip, LEFT FINGERS soft; short squared nails resolving toward chrome, neat cuticles, no white-knuckle tension.",
+  "framing": "A poised statuesque stance through the zipper-of-light unzip-reveal \u2014 right hand lifted clear of the seam with the Halo cuff blazing, left at the hip clear of the unzip, weight even and grounded.",
+ },
+ 5: {
+  "posture": "GAZE composed and direct to lens; HEAD level, composed; SHOULDERS back and breathing, squared open about 4 degrees; RIGHT ARM raised elegant near the collarbone, the RIGHT HAND poised with the Halo cuff blazing, RIGHT FINGERS long and composed; LEFT ARM resting light at the hip, the LEFT HAND soft, LEFT FINGERS relaxed; TORSO squared and open about 4 degrees, tall; WAIST & HIPS even and grounded; RIGHT LEG and LEFT LEG in a planted statuesque power-stance, weight even and grounded; FEET & WEIGHT planted even; HAIR sleek in the chrome-mirror sheen \u2014 statuesque and composed (living stillness).",
+  "hands": "RIGHT HAND raised elegant near the collarbone with the Halo cuff blazing, RIGHT FINGERS long and composed; LEFT HAND resting light at the hip, LEFT FINGERS relaxed; short squared nails in chrome, neat cuticles, no white-knuckle tension.",
+  "framing": "A planted statuesque power-stance in Chrome Mirror \u2014 right hand raised elegant near the collarbone with the Halo cuff blazing, left light at the hip, weight even and grounded with shoulders back.",
+  "b1": "Medium-full: a slow push-in is already settling on the finale as she sets the statuesque power-stance \u2014 weight planting even, the right hand raised elegant near the collarbone with the Halo cuff blazing, left light at the hip \u2014 the chrome catching a mirror specular-slide; gaze composed to lens.",
+  "b3": "She holds the statuesque chrome finale, the right hand poised near the collarbone and the cuff blazing, weight even and grounded, eyes composed and direct, the chrome luminous.",
+ },
+ 6: {
+  "posture": "GAZE leading the pivot, bright; HEAD turning to lead the strut-turn; SHOULDERS opening with the pivot; RIGHT ARM sweeping out to lead the pivot, the RIGHT HAND open with the Halo cuff blazing, RIGHT FINGERS long and elegant; LEFT ARM trailing light near the hip, the LEFT HAND soft, LEFT FINGERS relaxed; TORSO rotated about 20 degrees through the strut-turn; WAIST & HIPS in a dynamic counter-tilt as weight transfers; RIGHT LEG and LEFT LEG caught mid-pivot, weight transferring onto the planted front leg; FEET & WEIGHT rolling onto the planted front foot through the strut-turn; HAIR swinging with the pivot \u2014 caught mid-strut, alive.",
+  "hands": "RIGHT HAND sweeping out to lead the pivot with the Halo cuff blazing, RIGHT FINGERS long and elegant; LEFT HAND trailing light near the hip, LEFT FINGERS relaxed; short squared nails in chrome, neat cuticles, no white-knuckle tension.",
+  "framing": "Caught mid-strut-turn in Chrome Mirror \u2014 right arm sweeping out to lead the pivot with the Halo cuff blazing, left trailing near the hip, the torso rotating about 20 degrees as weight transfers onto the planted front leg.",
+  "b1": "Medium-full: a smooth orbit-with is already following her mid-pivot through the chrome look \u2014 the right arm sweeping out to lead the strut-turn with the Halo cuff blazing, weight transferring onto the planted front leg; gaze leading the pivot.",
+  "b3": "She settles out of the strut-turn into a confident chrome pose, the right arm easing from the sweep and the cuff glinting, weight settling on the front leg, eyes bright and direct.",
+ },
+ 7: {
+  "posture": "GAZE resolving to the exact Frame-1 bright playful direct-to-lens; HEAD returning level with the chin a hair lifted; SHOULDERS squaring back with the right opened about 5 degrees; RIGHT ARM returning beside the jaw, the RIGHT HAND with one finger curled in the playful come-here beckon and the Halo cuff catching light, RIGHT FINGERS soft; LEFT ARM lowering to rest light at the hip, the LEFT HAND soft, LEFT FINGERS relaxed; TORSO rotating back to about 5 degrees; WAIST & HIPS returning to the 2-degree counter-tilt; RIGHT LEG easing to free/forward soft, LEFT LEG weight-bearing; FEET & WEIGHT settling onto the back left leg exactly as in Frame 1; HAIR settling as the chrome snaps back to electric-lime \u2014 playful and alive.",
+  "hands": "RIGHT HAND returning beside the jaw with one finger curled in the playful come-here beckon exactly as in Frame 1, the Halo cuff catching light, RIGHT FINGERS soft; LEFT HAND resting light at the hip, LEFT FINGERS relaxed; short squared nails flashing back to glossy white, neat cuticles, no white-knuckle tension.",
+  "framing": "She resolves precisely into the Frame-1 hook \u2014 right hand beside the jaw in the come-here beckon with the Halo cuff blazing, left light at the hip, weight on the back leg with the right shoulder opened, the look snapped back to electric-lime for a seamless loop.",
+  "b1": "Medium waist-up matching Frame 1: a fast mirror snap-settle is already resolving toward the exact opening framing as the chrome whip-flashes back into the electric-lime look, her right hand returning to the jaw-beckon with the Halo cuff and the left to the hip.",
+  "b3": "She holds precisely on the Frame 1 beat \u2014 right hand in the come-here beckon, left at the hip, weight on the back leg \u2014 framing locked so the next loop continues invisibly, a seamless loop seam.",
+ },
+}
 
 
 # ----------------------------------------------------------------------------------
@@ -2398,7 +2529,7 @@ def apply_concept(text, n, data_dict):
     return text, report
 
 
-DATASETS = {'md': POSE, 'cine': CINE, 'set3': SET3, 'set4': SET4, 'set5': SET5}
+DATASETS = {'md': POSE, 'cine': CINE, 'set3': SET3, 'set4': SET4, 'set5': SET5, 'set5rw': SET5RW}
 
 
 def main():
