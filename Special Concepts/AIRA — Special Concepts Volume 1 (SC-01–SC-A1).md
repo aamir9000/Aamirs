@@ -494,3 +494,234 @@ driving percussion riding her stride, impacts reserved for the leap.
 **→ Loops back to Frame 1 (the rooftop garden sprint).**
 
 **Stills to generate:** 2 per frame × 4 frames = 8 (Subject + Environment; no hero object this concept). Score = 24s MASTER AUDIO under the diegetic.
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+# SC-08 · PETAL PROMENADE (Editorial Walk) · 4 shots × 6s · *(prop-less — 2 stills per frame: Subject + Environment)*
+**Logline:** A serene editorial walk through a blossom world — cherry-blossom avenue → marble colonnade → garden
+stairs → still reflecting pool. The subject moves with poised runway grace as petals build into a storm. Signature:
+a thick cherry-blossom storm + soft mirror-light off the pool. Soft, elegant, dreamlike.
+**Arc:** BLOSSOM AVENUE → MARBLE COLONNADE → GARDEN STAIRS → REFLECTING POOL (signature).
+
+## MASTER AUDIO (outside the frames — background music)
+A 24-second custom cinematic score (4 clips × 6s) in self-resolving ~6-second phrases, trimmable at any phrase
+boundary. Built on a delicate felt piano, airy strings, a soft harp, gentle pads and a warm sub — soft, dreamlike,
+tender. Opens (no fade-in) on a soft piano note. Arc: a serene airy open along the avenue, a reverent hush through
+the colonnade, a tender lift on the stair descent, then a luminous emotional peak at the reflecting pool (the
+blossom storm), resolving for an invisible loop. Laid UNDER the diegetic — no spoken line; optional wordless
+choir-swell on the peak only. Layered: piano/harp melody, warm sub, airy string shimmer, a single swell for the pool.
+
+## GLOBAL STYLE LOCKS
+- **Outfit:** a blush-rose flowing chiffon gown — soft cape-sleeves, a layered sheer skirt, a satin sash at the waist.
+- **Headwear:** none. **Accessories:** delicate pearl drop earrings + a fine pearl choker. **Eye colour:** warm amber-hazel. **Makeup:** soft rosy editorial — luminous skin, rose-flush cheeks, a soft mauve-rose lip, feathered brows. **Hair:** soft glamorous **half-up waves** — romantic, loose, gently lifting. **Footwear:** nude pointed flats. **Nails:** soft rose-nude almond.
+- **Hero object:** none (pure editorial walk) → each frame uses 2 stills (Subject + Environment); a single blossom branch she grazes.
+- **Signature (grounded):** a thick swirling cherry-blossom storm builds around her, peaking at the reflecting pool where soft mirror-light doubles her; real petal weight + true reflection.
+- **Journey + light:** soft diffused overcast-pink throughout (intentionally gentle, not vivid) — blossom-avenue glow → cool colonnade light → tender garden-stair light → luminous still-pool reflection light.
+
+---
+### FRAME 1 — BLOSSOM AVENUE
+**Frame angle:** low ¾ front (~30° right, low), soft diffused blush light.
+**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **low ¾ front (~30° right)**. · Outfit: blush-rose chiffon cape-sleeve gown + satin sash. · Headwear: none. · Accessories: pearl drop earrings + pearl choker. · Eye colour: amber-hazel. · Makeup: soft rosy, mauve-rose lip. · Hair: soft half-up waves. · Footwear: nude pointed flats. · Nails: rose-nude. · static & neutral, plain blank background, soft diffused light.
+**STILL 2 · ENVIRONMENT:** a long avenue of cherry-blossom trees in full bloom — first petals drifting, soft pink diffused light, a pale path; low ¾-front vantage, deep perspective.
+**VIDEO PROMPT:**
+- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
+- *Animation:* WIDE, low, **one continuous slow dolly-in toward her.** [00:00–00:02] she walks the blossom avenue with poised runway grace, the chiffon gown trailing, first petals drifting. [00:02–00:04] she raises her right hand to graze a low blossom branch, a faint serene softness, petals lifting in her wake. [00:04–00:06] she walks on toward the colonnade, the petal-drift thickening gently. Real-time, believable elegant walk + real petal drift; 9:16.
+- *AUDIO (in-frame):* ambient/object — a soft breeze, petals rustling and drifting, the faint hush of the chiffon gown, distant birdsong; voice — a soft serene breath from Aira.
+**→ Cut (match-on-action) to Frame 2 — her walk carries her into the cool marble colonnade.**
+
+---
+### FRAME 2 — MARBLE COLONNADE
+**Frame angle:** ¾ front-side (~35° left), cool diffused marble light, sun-shafts between columns.
+**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **¾ front-side (~35° left)**. · Outfit: blush chiffon cape-sleeve gown + sash. · Headwear: none. · Accessories: pearl drops + choker. · Eye colour: amber-hazel. · Makeup: soft rosy, mauve-rose lip. · Hair: soft half-up waves. · Footwear: nude flats. · Nails: rose-nude. · static & neutral, plain blank background.
+**STILL 2 · ENVIRONMENT:** a cool marble colonnade — tall pale columns, soft shafts of diffused light, petals drifting through; ¾ front-side vantage down the columns.
+**VIDEO PROMPT:**
+- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
+- *Animation:* COWBOY, **one continuous track with her between the columns.** [00:00–00:02] she glides between the marble columns, soft light shafts passing over her, petals drifting. [00:02–00:04] she sweeps her right arm gently across her front in an elegant line, glancing along the colonnade with reverent calm. [00:04–00:06] she continues toward the garden stairs, gown and petals trailing. Real-time, believable graceful walk; 9:16.
+- *AUDIO (in-frame):* ambient/object — soft footsteps echoing on marble, a gentle breeze through the columns, drifting petals; voice — a quiet calm breath from Aira.
+**→ Cut (match-on-action) to Frame 3 — she reaches the top of the garden stairs and descends.**
+
+---
+### FRAME 3 — GARDEN STAIRS
+**Frame angle:** high ¾ looking down the stairs (~45° down), tender diffused light.
+**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **high ¾ (looking down)**. · Outfit: blush chiffon gown + sash. · Headwear: none. · Accessories: pearl drops + choker. · Eye colour: amber-hazel. · Makeup: soft rosy, mauve-rose lip. · Hair: soft half-up waves. · Footwear: nude flats. · Nails: rose-nude. · static & neutral, plain blank background.
+**STILL 2 · ENVIRONMENT:** wide pale garden stairs flanked by blossom and topiary, descending toward the pool, petals swirling around the steps, tender soft light; high-¾ down-vantage.
+**VIDEO PROMPT:**
+- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
+- *Animation:* MEDIUM, **one continuous slow descend/boom following her down the stairs.** [00:00–00:02] she gathers her chiffon skirt in her right hand and steps down the pale garden stairs with controlled grace. [00:02–00:04] she descends step by step, glancing down at her footing then lifting her gaze to the pool with a soft anticipatory smile, petals swirling. [00:04–00:06] she reaches the foot of the stairs and turns toward the reflecting pool. Real-time, believable careful descent; 9:16.
+- *AUDIO (in-frame):* ambient/object — the soft sweep of the gathered skirt, light footfalls on stone, petal-rustle; voice — a soft anticipatory breath and a faint "ah" of delight from Aira.
+**→ Cut (match-on-action) to Frame 4 — she steps to the reflecting pool as the storm peaks.**
+
+---
+### FRAME 4 — REFLECTING POOL (signature · loop)
+**Frame angle:** low front (head-on, slight up-tilt), luminous soft mirror-pool light.
+**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **low front (head-on)**. · Outfit: blush chiffon cape-sleeve gown + sash. · Headwear: none. · Accessories: pearl drops + choker. · Eye colour: amber-hazel. · Makeup: soft rosy, mauve-rose lip. · Hair: soft half-up waves. · Footwear: nude flats. · Nails: rose-nude. · static & neutral, plain blank background.
+**STILL 2 · ENVIRONMENT:** a still mirror-flat reflecting pool ringed by blossom — her reflection doubling on the glass water, thick petals in the air, luminous soft light; low-front vantage with the mirror surface.
+**VIDEO PROMPT:**
+- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
+- *Animation:* HERO MEDIUM low front, **one continuous slow push-in easing into a pull-back.** [00:00–00:02] she steps to the still pool's edge, her reflection doubling her on the mirror water, petals thickening. [00:02–00:04] the signature peaks — a full cherry-blossom storm swirls around her as she lifts both arms open into it and tips her face up, soft mirror-light glowing off the pool; wonder lifting into a serene radiant smile. [00:04–00:06] the petals settle and her gaze comes level to lens as the camera eases back to reveal the mirror pool and blossom ring — settling toward the soft calm to loop. Real-time, thick real petal storm + true reflection; 9:16.
+- *AUDIO (in-frame):* ambient/object — a hush of swirling petals, the faint lap of the still pool, a gentle breeze; voice — Aira's soft wondering breath and a faint delighted "oh" as she lifts into the storm.
+**→ Loops back to Frame 1 (the blossom avenue walk).**
+
+**Stills to generate:** 2 per frame × 4 frames = 8 (Subject + Environment; no hero object this concept). Score = 24s MASTER AUDIO under the diegetic.
+
+═══════════════════════════════════════════════════════════════════════════════
+
+# SC-09 · PUDDLE SYMPHONY (Rain-Break) · 4 shots × 6s
+**Logline:** A joyful rain-break dance through the city — rain-soaked plaza → sheltered arcade → fountain court →
+a square as the sun breaks through. The subject splashes, twirls, and stomps a puddle into the sunlight. Signature:
+splash-crowns of water + clean rainbow-prism light as the storm gives way to sun. Cathartic, glossy.
+**Arc:** WET PLAZA (rain) → SHELTERED ARCADE → FOUNTAIN COURT → SUN-BREAK SQUARE (signature).
+
+## MASTER AUDIO (outside the frames — background music)
+A 24-second custom cinematic score (4 clips × 6s) in self-resolving ~6-second phrases, trimmable at any phrase
+boundary. Built on playful pizzicato strings, a bright piano, a light glockenspiel and a warm sub, building to an
+uplifting major swell — cosy then cathartic, bright-after-rain. Opens (no fade-in) on a playful piano-and-pizzicato
+figure. Arc: a cosy rainy open across the plaza, a warm sheltered lull in the arcade, a rising playful build at the
+fountain, then a radiant uplifting peak as the sun breaks, resolving for an invisible loop. Laid UNDER the diegetic
+— no spoken line; optional wordless "la" lift on the sun-break only. Layered: piano/glockenspiel, warm sub,
+pizzicato rhythm, a single swell for the sun-break.
+
+## GLOBAL STYLE LOCKS
+- **Outfit:** a glossy marigold-yellow vinyl raincoat (belted) over a cute white-and-red polka-dot dress.
+- **Headwear:** none. **Accessories:** none (the umbrella is the object). **Eye colour:** warm amber-hazel. **Makeup:** fresh and dewy with a bold red lip pop, rain-glow skin. **Hair:** a sleek **wet-look low ponytail**, a few damp face strands. **Footwear:** cherry-red rubber wellies. **Nails:** glossy cherry-red.
+- **Hero object:** a clear bubble umbrella with a red rim (spun, tilted, set aside as the sun breaks).
+- **Signature (grounded):** crown-splashes of water leap from her stomps; as the sun breaks, clean rainbow-prism light flares through the spray; peaks on the sun-break puddle stomp/spin. Real water + refraction.
+- **Journey + light:** cool wet-silver plaza → dim sheltered arcade with drips → brightening fountain court → warm sun-break square (rain stops, sun out).
+
+---
+### FRAME 1 — WET PLAZA (rain)
+**Frame angle:** high overhead (~70° down), cool wet-silver with warm shop-light reflections.
+**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, from **high overhead (~70°)**. · Outfit: marigold vinyl raincoat over white-and-red polka dress. · Headwear: none. · Accessories: none. · Eye colour: amber-hazel. · Makeup: dewy, bold red lip. · Hair: sleek wet-look low ponytail. · Footwear: cherry-red wellies. · Nails: cherry-red. · static & neutral, plain blank background.
+**STILL 2 · OBJECT (plain bg):** the clear bubble umbrella with a red rim, from **high overhead** — transparent dome, red trim, slim handle. Clean, isolated, plain blank background.
+**STILL 3 · ENVIRONMENT:** a rain-soaked stone plaza from above — sheeting rain, mirror-wet stone reflecting grey sky and warm shop-lights, ripples spreading; high-overhead vantage.
+**VIDEO PROMPT:**
+- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
+- *Animation:* WIDE high overhead, **one continuous slow descend toward her.** [00:00–00:02] she crosses the mirror-wet plaza under the clear bubble umbrella, warm shop-lights reflected in the rippling stone, rain sheeting. [00:02–00:04] she hops over a puddle, lifting her raincoat hem with her left hand, a playful private grin, ripples spreading. [00:04–00:06] she skips toward the shelter of an arcade, umbrella bobbing. Real-time, believable rain + splashes + reflections; 9:16.
+- *AUDIO (in-frame):* ambient/object — sheeting rain, rain drumming on the umbrella canopy, wellies splashing, a distant city hush; voice — Aira's playful private giggle as she hops the puddle.
+**→ Cut (match-on-action) to Frame 2 — she ducks under the sheltered arcade.**
+
+---
+### FRAME 2 — SHELTERED ARCADE
+**Frame angle:** full profile (true side), dim-warm arcade with cool rain beyond.
+**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, in **full profile**. · Outfit: marigold raincoat over polka dress. · Headwear: none. · Accessories: none. · Eye colour: amber-hazel. · Makeup: dewy, bold red lip. · Hair: sleek wet-look low ponytail. · Footwear: cherry-red wellies. · Nails: cherry-red. · static & neutral, plain blank background.
+**STILL 2 · OBJECT (plain bg):** the clear bubble umbrella in **profile** — lowered/closed, red rim, droplets on the dome. Clean, isolated, plain blank background.
+**STILL 3 · ENVIRONMENT:** a dim sheltered arcade — columns, warm hanging lamps, rain curtaining beyond the arches, drips falling; profile vantage with rain beyond.
+**VIDEO PROMPT:**
+- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
+- *Animation:* COWBOY profile, **one continuous parallel dolly at her pace**, rain curtaining beyond the arches. [00:00–00:02] she lowers and gives the clear umbrella a spin and a shake under shelter, warm lamps glowing. [00:02–00:04] she strolls the arcade glancing out at the rain through the arches, a drip lands and she laughs softly, tipping her head. [00:04–00:06] she walks on toward a brightening fountain court, umbrella swinging. Real-time, believable umbrella handling + drips; 9:16.
+- *AUDIO (in-frame):* ambient/object — rain curtaining beyond the arches, drips plinking on stone, the umbrella's spin-and-shake flap, a warm-lamp hum; voice — a soft warm laugh from Aira as a drip lands.
+**→ Cut (match-on-action) to Frame 3 — she steps into the fountain court as the rain eases.**
+
+---
+### FRAME 3 — FOUNTAIN COURT
+**Frame angle:** low ¾ (~40° front-low), brightening drizzle.
+**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **low ¾ front (~40°)**. · Outfit: marigold raincoat over polka dress. · Headwear: none. · Accessories: none. · Eye colour: amber-hazel. · Makeup: dewy, bold red lip. · Hair: sleek wet-look low ponytail. · Footwear: cherry-red wellies. · Nails: cherry-red. · static & neutral, plain blank background.
+**STILL 2 · OBJECT (plain bg):** the clear bubble umbrella at **low ¾**, opening out wide — transparent dome catching brightening light, red rim. Clean, isolated, plain blank background.
+**STILL 3 · ENVIRONMENT:** a fountain court, rain easing to a drizzle — a fountain mixing with the rain, the sky brightening, wet glossy ground; low ¾ vantage.
+**VIDEO PROMPT:**
+- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
+- *Animation:* MEDIUM low ¾, **one continuous slow orbit beginning around her.** [00:00–00:02] she steps into the fountain court as the rain eases, opening the umbrella out wide and tipping her face up to the brightening sky. [00:02–00:04] she stamps a shallow puddle and begins to turn, the first splash-crowns leaping up around her wellies, an open laugh. [00:04–00:06] she spins once, umbrella sweeping, splashes rising as the sky brightens. Real-time, believable splashes + spin; 9:16.
+- *AUDIO (in-frame):* ambient/object — easing drizzle, the fountain mixing in, the first puddle stomps and splash-crowns, the umbrella's whoosh as it opens; voice — Aira's rising open laugh and a bright "wheee!" as she spins.
+**→ Cut (match-on-action) to Frame 4 — the sun breaks through and she stomps into the light.**
+
+---
+### FRAME 4 — SUN-BREAK SQUARE (signature · loop)
+**Frame angle:** low front (head-on, slight up-tilt), warm sun-break with rainbow-prism.
+**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **low front (head-on)**. · Outfit: marigold raincoat over polka dress. · Headwear: none. · Accessories: none. · Eye colour: amber-hazel. · Makeup: dewy, bold red lip. · Hair: sleek wet-look low ponytail. · Footwear: cherry-red wellies. · Nails: cherry-red. · static & neutral, plain blank background.
+**STILL 2 · OBJECT (plain bg):** the clear bubble umbrella at **low front**, flung open overhead — transparent dome blazing with sun, red rim, prism flecks. Clean, isolated, plain blank background.
+**STILL 3 · ENVIRONMENT:** an open square as the sun breaks through parting clouds — wet stone blazing with reflected light, a fading rainbow, the rain stopping; low-front vantage.
+**VIDEO PROMPT:**
+- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
+- *Animation:* HERO MEDIUM low front, **one continuous slow push-in easing into a pull-back.** [00:00–00:02] the sun breaks through the parting clouds and she flings the clear umbrella open overhead, tipping her face up into the light. [00:02–00:04] the signature peaks — she stomps a big puddle and spins, a full crown of water leaping up and catching clean rainbow-prism light flaring through the spray, radiant laughter. [00:04–00:06] the water and light settle, she lowers a glowing warm smile to lens as the camera eases back to reveal the sunlit square and a fading rainbow — settling toward the calm to loop. Real-time, real splash-crowns + true light refraction; 9:16.
+- *AUDIO (in-frame):* ambient/object — the rain stopping, a big puddle stomp and full crown-splash, water pattering back down; voice — Aira's radiant exhilarated laughter and a joyful "yay!" / "woohoo!".
+**→ Loops back to Frame 1 (the rainy wet plaza).**
+
+**Stills to generate:** 3 per frame × 4 frames = 12. Score = 24s MASTER AUDIO under the diegetic.
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+# SC-10 · LAGOON GLIDE (Paddleboard) · 5 shots × 6s
+**Logline:** A serene paddleboard glide through a vivid turquoise world — open lagoon → mangrove channel → lotus
+field → sunlit sandbar shallows → open reef. Calm-powerful, all blues and greens. Signature: sun-caustics dancing
+on the clear water, lotus pads blooming open in her wake, and a school of bright fish flashing beneath.
+**Arc:** OPEN LAGOON → MANGROVE CHANNEL → LOTUS FIELD (signature) → SANDBAR SHALLOWS → OPEN REEF.
+
+## MASTER AUDIO (outside the frames — background music)
+A 30-second custom cinematic score (5 clips × 6s) in self-resolving ~6-second phrases, trimmable at any phrase
+boundary. Built on an airy felt piano, warm pads, a glassy handpan/marimba, soft strings and a warm sub — serene,
+calm-powerful, luminous, all blues. Opens (no fade-in) on a soft piano-and-handpan figure. Arc: a serene open on
+the lagoon, a hushed wonder through the mangroves, a radiant lift over the lotus field, a driving push across the
+sandbar, then a peaceful resolve at the reef for an invisible loop. Laid UNDER the diegetic — no spoken line;
+optional wordless aah on the lotus peak. Layered: piano/handpan, warm sub, glassy shimmer, light percussion on the
+sandbar, a single lift for the lotus field.
+
+## GLOBAL STYLE LOCKS
+- **Outfit:** a coral-and-white scalloped one-piece swimsuit (high modest neckline) + a turquoise floral sarong knotted at the hip.
+- **Headwear:** none. **Accessories:** a shell anklet, thin gold studs. **Eye colour:** warm amber-hazel. **Makeup:** fresh water-glow — dewy bare skin, soft coral lip, waterproof, minimal. **Hair:** a **wet-look high top-knot** with a few damp face-framing strands. **Footwear:** barefoot. **Nails:** short glossy aqua-coral.
+- **Hero object:** a warm-wood paddleboard + a single-blade paddle (teak deck, pale rails).
+- **Signature (grounded):** sun-caustics ripple across the clear water; lotus pads bloom open in her wake; a school of small bright fish flashes beneath the board. Real refraction + real fish.
+- **Journey + light:** bright aqua noon — open turquoise → dappled mangrove green-gold → bright lotus-field sun → shimmering sandbar shallows → open reef blue. *Footing: she stands/kneels ON the board (real foot contact), not free-buoyant.*
+
+---
+### FRAME 1 — OPEN LAGOON
+**Frame angle:** top-down overhead (drone straight down ~85°), turquoise + sand + caustics.
+**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, from **top-down overhead**. · Outfit: coral-white scalloped one-piece + turquoise floral sarong. · Headwear: none. · Accessories: shell anklet, gold studs. · Eye colour: amber-hazel. · Makeup: water-glow, soft coral lip. · Hair: wet-look high top-knot. · Footwear: barefoot. · Nails: aqua-coral. · static & neutral, plain blank background.
+**STILL 2 · OBJECT (plain bg):** the warm-wood paddleboard + single paddle, from **top-down** — teak deck, pale rails, the blade alongside. Clean, isolated, plain blank background.
+**STILL 3 · ENVIRONMENT:** a vast clear turquoise lagoon from straight above — bright sandy bottom visible, sun-caustics rippling on the sand, a faint board-shadow; top-down vantage.
+**VIDEO PROMPT:**
+- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
+- *Animation:* WIDE top-down, **one continuous slow descend-and-hold**, her board and shadow on the bright sand. [00:00–00:02] she plants the paddle and draws a smooth stroke, the board gliding, sun-caustics rippling over the sand. [00:02–00:04] she switches the paddle to the other side with a clean stroke, water beading off the blade, glancing down into the clear lagoon. [00:04–00:06] she glides on, a soft contented breath, fine caustics dancing beneath. Real-time, believable paddle stroke + water physics; 9:16.
+- *AUDIO (in-frame):* ambient/object — the paddle dip and pull, water beading off the blade, gentle ripples, a distant gull; voice — a soft contented breath from Aira.
+**→ Cut (match-on-action) to Frame 2 — the glide carries her into the shaded mangrove channel.**
+
+---
+### FRAME 2 — MANGROVE CHANNEL
+**Frame angle:** water-line ¾ front (camera low on the surface), dappled green-gold shade.
+**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **low water-line ¾ front**. · Outfit: coral-white one-piece + turquoise sarong. · Headwear: none. · Accessories: shell anklet, studs. · Eye colour: amber-hazel. · Makeup: water-glow. · Hair: wet-look top-knot. · Footwear: barefoot. · Nails: aqua-coral. · static & neutral, plain blank background.
+**STILL 2 · OBJECT (plain bg):** the paddleboard + paddle at **low water-line ¾** — teak deck foremost, blade trailing. Clean, isolated, plain blank background.
+**STILL 3 · ENVIRONMENT:** a narrow mangrove channel — arching roots, dappled green-gold light, still water, dragonflies; low water-line vantage into the channel.
+**VIDEO PROMPT:**
+- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
+- *Animation:* camera at the water-line, **one continuous low dolly following the board in.** [00:00–00:02] she paddles gently into the shaded channel, arching roots passing, dappled green-gold light striping the water. [00:02–00:04] she lets the board glide and trails her left hand in the still water, tipping her face up to the canopy with quiet wonder. [00:04–00:06] she resumes an easy stroke toward brightening light, a soft smile. Real-time, believable glide + ripples; 9:16.
+- *AUDIO (in-frame):* ambient/object — still water dripping off the blade, a dragonfly hum, leaves rustling, a bird call; voice — a soft "oh" of quiet wonder from Aira.
+**→ Cut (match-on-action) to Frame 3 — the channel opens onto a bright lotus field.**
+
+---
+### FRAME 3 — LOTUS FIELD (signature)
+**Frame angle:** low ¾ rising from just under the surface (~20° up), bright lotus-field sun.
+**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **low ¾ (rising)**. · Outfit: coral-white one-piece + turquoise sarong. · Headwear: none. · Accessories: shell anklet, studs. · Eye colour: amber-hazel. · Makeup: water-glow. · Hair: wet-look top-knot. · Footwear: barefoot. · Nails: aqua-coral. · static & neutral, plain blank background.
+**STILL 2 · OBJECT (plain bg):** the paddleboard + paddle at **low ¾** — teak deck, blade resting across. Clean, isolated, plain blank background.
+**STILL 3 · ENVIRONMENT:** a bright open lotus field — pads and buds across clear water, sun overhead, fish below; low ¾ rising vantage from just under the surface.
+**VIDEO PROMPT:**
+- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
+- *Animation:* **one continuous vertical boom rising from just under the clear surface up to her** as she passes. [00:00–00:02] the camera rises through the surface revealing her gliding over the lotus field, caustics dancing. [00:02–00:04] the signature blooms — lotus pads open in her wake and a school of bright fish flashes beneath the board, caustics shimmering; she gazes over the field with radiant awe. [00:04–00:06] she draws one slow proud stroke onward, an open smile to lens, the blooms settling behind. Real-time, grounded refraction, real lotus + fish; 9:16.
+- *AUDIO (in-frame):* ambient/object — a gentle water swirl, lotus pads stirring, a soft fish-flash ripple, the paddle's slow stroke; voice — Aira's awed breath blooming into a soft delighted "woah".
+**→ Cut (match-on-action) to Frame 4 — she paddles into the shimmering sandbar shallows.**
+
+---
+### FRAME 4 — SANDBAR SHALLOWS
+**Frame angle:** full profile (true side), shimmering pale-aqua noon.
+**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, in **full profile**. · Outfit: coral-white one-piece + turquoise sarong. · Headwear: none. · Accessories: shell anklet, studs. · Eye colour: amber-hazel. · Makeup: water-glow. · Hair: wet-look top-knot. · Footwear: barefoot. · Nails: aqua-coral. · static & neutral, plain blank background.
+**STILL 2 · OBJECT (plain bg):** the paddleboard + paddle in **profile** — full side, teak deck, blade. Clean, isolated, plain blank background.
+**STILL 3 · ENVIRONMENT:** bright shallow water over a pale sandbar — ripple-light, a sandbank emerging, gulls; profile vantage, shimmering pale-aqua.
+**VIDEO PROMPT:**
+- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
+- *Animation:* tight profile, **one continuous parallel dolly at her speed**, ripple-light shimmering. [00:00–00:02] she drives a powerful stroke, the board surging across the bright shallows, water beading off the blade. [00:02–00:04] she switches and pulls another strong stroke, torso rotating, a determined half-smile, caustics flickering on the pale sand. [00:04–00:06] she eases the power and glides toward the open reef. Real-time, believable powerful paddle mechanics; 9:16.
+- *AUDIO (in-frame):* ambient/object — strong paddle strokes, the board hissing across the shallow water, gulls overhead; voice — a focused breath and a small determined "hah" from Aira.
+**→ Cut (match-on-action) to Frame 5 — she glides out to the open reef and settles to rest.**
+
+---
+### FRAME 5 — OPEN REEF (loop)
+**Frame angle:** ¾ front-side easing toward the lens (~30°), deep reef-blue under open sky.
+**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **¾ front-side (~30°)**. · Outfit: coral-white one-piece + turquoise sarong. · Headwear: none. · Accessories: shell anklet, studs. · Eye colour: amber-hazel. · Makeup: water-glow. · Hair: wet-look top-knot. · Footwear: barefoot. · Nails: aqua-coral. · static & neutral, plain blank background.
+**STILL 2 · OBJECT (plain bg):** the paddleboard + paddle at **¾ front-side** — teak deck, blade across. Clean, isolated, plain blank background.
+**STILL 3 · ENVIRONMENT:** the open reef edge — deeper blue water, coral visible below, big open sky, a distant horizon; ¾ front-side vantage.
+**VIDEO PROMPT:**
+- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
+- *Animation:* MEDIUM, **one continuous gentle orbit easing from ¾ toward her front.** [00:00–00:02] she stops paddling and folds down to kneel/sit on the board, resting the paddle across it. [00:02–00:04] she trails her left hand in the deep-blue water and tips her face up to the open sky, the lotus-and-caustic shimmer settling around her. [00:04–00:06] she lowers her gaze level to lens with a slow warm smile as the board drifts — easing toward the serene calm of the opening for a loop. Real-time, believable drift; 9:16.
+- *AUDIO (in-frame):* ambient/object — the board drifting, deep water lapping, a gentle breeze, distant surf on the reef; voice — a slow peaceful breath/sigh from Aira.
+**→ Loops back to Frame 1 (the open lagoon glide).**
+
+**Stills to generate:** 3 per frame × 5 frames = 15. Score = 30s MASTER AUDIO under the diegetic.
