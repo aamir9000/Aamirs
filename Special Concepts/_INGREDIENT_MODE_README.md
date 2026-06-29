@@ -130,6 +130,14 @@ woman."** Never write the character's name into a Veo prompt. Ingredient labels 
 - **DIFFERENCE STRING:** walk + **wardrobe-transform** · journey **garden path → marble colonnade → fountain court** · signature **blossom-petal+light material BUILDS into a couture gown** (wardrobe transforms — the intentional exception) · energy **luxe metamorphosis** · light **soft luxe sun → bright key** · hair **sculptural low chignon** · **3rd ingredient = `@texture`** (not `@look`).
 - **THEME:** most ingredient-native — a material becomes haute couture, grounded. **FILE:** `SC-16 · Become the Bloom (Material to Couture).md`
 
+### SC-10 · LAGOON GLIDE (Paddleboard) — **STATUS: BUILT** · 5 shots × 6s · SILENT
+- **DIFFERENCE STRING:** paddleboard · journey **open lagoon → mangrove channel → lotus field → sandbar shallows → open reef** · signature **sun-caustics + lotus-bloom + fish-flash** · energy **serene aqua** · light **bright aqua noon** · wardrobe **coral scalloped one-piece + turquoise floral sarong** · hair **wet-look top-knot** · shot-grammar **top-down overhead / water-line dolly / rising-through-surface boom / parallel profile / gentle orbit**.
+- **THEME:** a calm-powerful turquoise glide; water-light signature. **FILE:** `SC-10 · Lagoon Glide (Paddleboard).md`
+
+### SC-13 · SKY BLOOM (Hot-Air Balloon) — **STATUS: BUILT** · 4 shots × 6s · SILENT
+- **DIFFERENCE STRING:** hot-air balloon · journey **meadow lift-off → drift over village → through a cloud → above the clouds (sunrise)** · signature **cloud-wisps + dawn light-motes + breaking rays** (airy, light-led) · energy **tranquil wonder** · light **pastel dawn → sunrise gold** · wardrobe **lavender-peach ombré ruffle midi + cream cardigan** · hair **loose romantic waves** · shot-grammar **crane-up lift / aerial descend-orbit / push-in through wisps / hero push-in**.
+- **THEME:** a dreamy dawn ascent into the sunrise; gentle airy signature. **FILE:** `SC-13 · Sky Bloom (Hot-Air Balloon).md`
+
 ## CONCEPT ROADMAP — difference strings (planned, not yet built)
 *(rickshaw dropped; redundant 2nd-blossom dropped; each has a UNIQUE signature/energy/light)*
 - **SC-02 Riviera Drift** — pastel Vespa · clifftop town→switchback→harbour→piazza · sea-spray + sun-glints · golden-hour Med · halter midi · silk-headscarf waves · 5 shots
