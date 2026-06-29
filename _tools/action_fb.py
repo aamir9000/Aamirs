@@ -41,7 +41,7 @@ SCAFFOLDS = {
 
 # keyword -> archetype (priority order; matched at word-start via \b prefix)
 RULES = [
- ("swim",    ["underwater","submerged","swim","buoyan","sphere of air","kicking through the water","weightless in the water"]),
+ ("swim",    ["underwater","swim","kicking through the water","sphere of air","weightless in the water","diving through the water"]),
  ("summon",  ["raises both hands","both hands raised","summon","pendant flar","parts the wave","calls the","conjur","command the","raises her hand","arms raised","casting"]),
  ("ride",    ["riding crouch","astride","mounted","rides the","saddle","on the back of","bareback","riding the"]),
  ("drift",   ["opposite-lock","opposite lock","counter-steer","drift","slung sideways","lateral g","slide","oversteer","slung past"]),
@@ -57,13 +57,25 @@ RULES = [
  ("chase",   ["forward-lean","commitment into the speed","full-flight","weight centred","driving","at speed","cruising","holding the line"]),
 ]
 
-def classify(text):
+GROUND_CUE = re.compile(r'\b(planted|rooted|grounded|weight low|weight on the back|stands?|tall on|braced wide|landing|landed|crouch|kneel|seated|balanced|demi-pli|stance|astride|on the deck|on the altar)\b', re.I)
+AIR_CUE = re.compile(r'\b(airborne|mid-air|off the ground|in the air|fully suspended|at the apex|mid-flight|in flight)\b', re.I)
+
+def classify(text, lead=""):
     t = text.lower()
-    for arch, kws in RULES:
-        for kw in kws:
-            if re.search(r'\b' + re.escape(kw), t):
-                return arch
-    return "establish"
+    arch = "establish"
+    for a, kws in RULES:
+        if any(re.search(r'\b' + re.escape(kw), t) for kw in kws):
+            arch = a; break
+    # guard: never put an airborne scaffold on a clearly grounded posture
+    if arch in ("swim", "leap") and lead and GROUND_CUE.search(lead) and not AIR_CUE.search(lead):
+        ll = lead.lower()
+        if re.search(r'\b(balanc|precise|narrow|beam|gear-tooth|ledge|wire)', ll):
+            arch = "balance"
+        elif re.search(r'\b(duck|tuck|crouch|coil|brace|low)', ll):
+            arch = "brace"
+        else:
+            arch = "establish"
+    return arch
 
 def clean_lead(s):
     s = s.strip().rstrip(" .;")
@@ -99,7 +111,7 @@ def main():
         for sm in SCENE_RE.finditer(look):
             pass
         scene = sm.group(1) if sm else ""
-        arch = classify(pose + " " + scene)
+        arch = classify(pose + " " + scene, lead=pose)
         lead = clean_lead(pose)
         recap = ("Her pose reads as %s \u2014 %s" % (lead, SCAFFOLDS[arch])) if lead else ("Her pose reads: %s" % SCAFFOLDS[arch])
         out.append(before); out.append(" " + recap); out.append(ANCHOR)
