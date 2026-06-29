@@ -232,6 +232,15 @@ woman."** Never write the character's name into a Veo prompt. Ingredient labels 
 ### SC-24 · POWDER GLIDE (Ski) — **BUILT** · 4 shots × 6s · SILENT
 - mode **ski** · journey **piste carve → pine glade → frozen-lake flat → village arrival** · signature **snow-spray plumes + crystalline sun-sparkle + drifting ice-glitter** · light **brilliant bluebird alpine** · wardrobe **retro colour-block one-piece + mirrored goggles + earmuff band** · hair **two dutch braids** · `@object` = coral carving skis + poles · shot-grammar **high aerial track / low ground-level glade / parallel profile flat / push-in+crane pull-back**. **FILE:** `SC-24 · Powder Glide (Ski).md`
 
+### SC-25 · CURL CHASER (Surf) — **BUILT** · 4 shots × 6s · SILENT
+- mode **surf** · journey **paddle-out → drop-in → ride the curl → kick-out to shore** · signature **spray-arc off turns + sun-glitter on the wave-face + brief rainbow in the back-spray** · light **brilliant tropical morning, turquoise** · wardrobe **coral rash-guard + teal surf bottoms** · hair **wet centre-part, slicked** · `@object` = yellow-and-coral surfboard · shot-grammar **water-line dolly / high aerial drone drop / parallel profile curl-ride / push-in+crane**. **FILE:** `SC-25 · Curl Chaser (Surf).md`
+
+### SC-26 · FROST WALTZ (Ice-Skating) — **BUILT** · 4 shots × 6s · SILENT
+- mode **ice-skating** · journey **frozen lake → fairy-lit canal → forest spin → festive square rink** · signature **frost-crystal blade-spray + sun-sparkle on ice + ice-glitter & breath-mist** · light **bright crisp winter, festive** · wardrobe **cherry-red swing coat + tartan skirt + pom earmuff band + scarf** · hair **soft shoulder curls** · `@object` = white figure skates · shot-grammar **high aerial track / low blade-level canal / slow spin orbit / push-in+crane**. **FILE:** `SC-26 · Frost Waltz (Ice-Skating).md`
+
+### SC-27 · LAKE GLIDE (Swan Pedal-Boat) — **BUILT** · 4 shots × 6s · SILENT
+- mode **swan pedal-boat** · journey **lake launch → under the willow → past the fountain → island pavilion** · signature **water-mirror ripples + drifting white feathers + soft sun-glints** · light **bright sunny park afternoon** · wardrobe **mint gingham sundress + wide straw sunhat** · hair **milkmaid crown braid** · `@object` = white swan pedal-boat · shot-grammar **high aerial descend / water-line willow dolly / parallel profile fountain / push-in+crane**. **FILE:** `SC-27 · Lake Glide (Swan Pedal-Boat).md`
+
 ## CONCEPT ROADMAP — ALL CONCEPTS BUILT ✓
 *(rickshaw SC-05 dropped; redundant 2nd-blossom SC-20 dropped. All 19 planned concepts + the SC-A1 anime concept are fully
 built, and ALL have been rebuilt to the **CORRECTED STANDARD (v2)** above — clean front-facing/plain-bg `@subject`,
