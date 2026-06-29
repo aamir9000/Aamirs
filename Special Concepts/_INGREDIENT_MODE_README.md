@@ -138,6 +138,18 @@ woman."** Never write the character's name into a Veo prompt. Ingredient labels 
 - **DIFFERENCE STRING:** hot-air balloon · journey **meadow lift-off → drift over village → through a cloud → above the clouds (sunrise)** · signature **cloud-wisps + dawn light-motes + breaking rays** (airy, light-led) · energy **tranquil wonder** · light **pastel dawn → sunrise gold** · wardrobe **lavender-peach ombré ruffle midi + cream cardigan** · hair **loose romantic waves** · shot-grammar **crane-up lift / aerial descend-orbit / push-in through wisps / hero push-in**.
 - **THEME:** a dreamy dawn ascent into the sunrise; gentle airy signature. **FILE:** `SC-13 · Sky Bloom (Hot-Air Balloon).md`
 
+### SC-03 · BOARDWALK BLOOM (Rollerblades) — **STATUS: BUILT** · 4 shots × 6s · SILENT
+- **DIFFERENCE STRING:** rollerblades · journey **palm promenade → pier boardwalk → skate bowl → beach steps** · signature **pastel chalk-dust + drifting balloons + light off the wheels** · energy **playful youthful** · light **high-key candy coastal noon** · wardrobe **colour-block crop + white skort + quad skates** · hair **bubble pigtail braids** · shot-grammar **track-behind / parallel profile / high-angle bowl orbit / hero push-in**.
+- **THEME:** youthful candy-bright coastal skate; bowl-carve money shot. **FILE:** `SC-03 · Boardwalk Bloom (Rollerblades).md`
+
+### SC-04 · GOLDEN COAST CRUISE (Convertible) — **STATUS: BUILT** · 4 shots × 6s · SILENT
+- **DIFFERENCE STRING:** vintage convertible · journey **coast highway → tree light-tunnel → cliff bridge → clifftop overlook** · signature **golden road-dust + lens-flare streaks** (light/dust-led) · energy **cinematic cool glamour** · light **sunset amber/rose (deepening)** · wardrobe **coral-cream chiffon scarf-dress + cat-eye + silk hair-scarf** · hair **voluminous retro waves** · shot-grammar **high aerial track / inside-car over-shoulder push / low parallel / crane pull-back**.
+- **THEME:** cinematic sunset drive; strobing light-tunnel money shot. **FILE:** `SC-04 · Golden Coast Cruise (Convertible).md`
+
+### SC-07 · ROOFTOP RUN (Parkour) — **STATUS: BUILT** · 4 shots × 6s · SILENT
+- **DIFFERENCE STRING:** parkour free-run · journey **rooftop garden → laundry maze → water-tank deck → edge leap** · signature **pigeon-burst + snapping flags/laundry + hard light** · energy **powerful athletic** · light **hard high-noon city** · wardrobe **coral crop + electric-blue leggings + white windbreaker** · hair **sleek slicked high pony** · shot-grammar **low-hero track-with / over-shoulder track-behind / whip-pan low wide / side-profile leap-arc**.
+- **THEME:** powerful high-noon free-run; gap-leap money shot. **FILE:** `SC-07 · Rooftop Run (Parkour).md`
+
 ## CONCEPT ROADMAP — difference strings (planned, not yet built)
 *(rickshaw dropped; redundant 2nd-blossom dropped; each has a UNIQUE signature/energy/light)*
 - **SC-02 Riviera Drift** — pastel Vespa · clifftop town→switchback→harbour→piazza · sea-spray + sun-glints · golden-hour Med · halter midi · silk-headscarf waves · 5 shots
