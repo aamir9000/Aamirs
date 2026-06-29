@@ -725,3 +725,233 @@ sandbar, a single lift for the lotus field.
 **→ Loops back to Frame 1 (the open lagoon glide).**
 
 **Stills to generate:** 3 per frame × 5 frames = 15. Score = 30s MASTER AUDIO under the diegetic.
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+# SC-11 · GONDOLA REVERIE (Gondola) · 4 shots × 6s
+**Logline:** A dreamy Venetian glide — the subject reclines in a gondola through narrow canals, slips under a low
+bridge, emerges onto the glowing grand canal, and drifts out toward the open lagoon. Signature: water-mirror
+reflections + drifting golden light off the canal + soft petals from the balconies. Vintage, serene, romantic.
+**Arc:** NARROW SIDE CANALS → UNDER A BRIDGE (signature reveal) → GRAND CANAL → LAGOON MOUTH.
+
+## MASTER AUDIO (outside the frames — background music)
+A 24-second custom cinematic score (4 clips × 6s) in self-resolving ~6-second phrases, trimmable at any phrase
+boundary. Built on a soft accordion/mandolin, warm strings, a felt piano and a warm sub — vintage Venetian,
+nostalgic, romantic, warm and muted. Opens (no fade-in) on a soft accordion-and-mandolin figure. Arc: an intimate
+shaded open through the side canals, a hushed lull in the bridge-shadow, a glowing bloom as the grand canal opens,
+then a warm hazy resolve at the lagoon mouth for an invisible loop. Laid UNDER the diegetic — no spoken line;
+optional wordless warmth on the canal reveal only. Layered: accordion/mandolin, warm sub, warm strings, a single
+bloom for the grand-canal reveal.
+
+## GLOBAL STYLE LOCKS
+- **Outfit:** an emerald-green vintage day-dress with a sweetheart neckline and cap sleeves, a thin gold belt.
+- **Headwear:** none. **Accessories:** short ivory gloves, pearl drop earrings, a folded ivory lace parasol. **Eye colour:** warm amber-hazel. **Makeup:** soft vintage glam — porcelain-luminous skin, rose-flush cheek, a defined soft-rose lip. **Hair:** a soft **braided updo wrapped with a cream ribbon**, a few loose vintage waves at the temples. **Footwear:** ivory T-bar heels. **Nails:** classic rose-red (under gloves).
+- **Hero object:** the black lacquer gondola (velvet seat, gilt trim, the curved ferro prow) + the folded ivory lace parasol.
+- **Signature (grounded):** still water mirrors the buildings and doubles the gondola; soft golden light drifts off the canal; a few petals fall from window-boxes; peaks emerging under the bridge into the grand-canal glow. Real reflections.
+- **Journey + light:** soft golden Venice afternoon (warm/muted) — intimate shaded side-canal → cool bridge-shadow → glowing open grand canal → hazy golden lagoon mouth. *Footing: she is a seated passenger.*
+
+---
+### FRAME 1 — NARROW SIDE CANALS
+**Frame angle:** high ¾ looking down (~45°), soft shaded ochre-rose with green-water reflections.
+**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **high ¾ (looking down)**. · Outfit: emerald vintage day-dress + thin gold belt. · Headwear: none. · Accessories: short ivory gloves, pearl drops, folded lace parasol. · Eye colour: amber-hazel. · Makeup: vintage glam, soft-rose lip. · Hair: braided updo + cream ribbon. · Footwear: ivory T-bar heels. · Nails: rose-red. · static & neutral, plain blank background.
+**STILL 2 · OBJECT (plain bg):** the black lacquer gondola + folded lace parasol, from **high ¾** — velvet seat, gilt trim, curved ferro prow. Clean, isolated, plain blank background.
+**STILL 3 · ENVIRONMENT:** a narrow shaded side canal — peeling ochre and rose walls, window-boxes, still green water mirroring the buildings, a low arched bridge ahead; high-¾ down-vantage.
+**VIDEO PROMPT:**
+- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
+- *Animation:* WIDE high looking down, **one continuous slow descend following the boat up the canal.** [00:00–00:02] the gondola glides the still side canal, ochre walls mirrored in the green water, she reclines easy on the velvet seat. [00:02–00:04] she trails her gloved fingers near the water and gazes up at a flower-filled window-box, a soft faraway smile, petals drifting down. [00:04–00:06] the gondola drifts on toward a low arched bridge, reflections rippling. Real-time, believable gentle boat glide + water reflections; 9:16.
+- *AUDIO (in-frame):* ambient/object — the gentle lap of water on the gondola, a distant oar dip, a far church bell, petals drifting; voice — a soft dreamy breath from Aira.
+**→ Cut (match-on-action) to Frame 2 — the gondola glides into the shadow of the low bridge.**
+
+---
+### FRAME 2 — UNDER A BRIDGE (signature reveal)
+**Frame angle:** water-line ¾ front (low on the water), shadow → glowing gold.
+**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **low water-line ¾ front**. · Outfit: emerald day-dress + gold belt. · Headwear: none. · Accessories: ivory gloves, pearl drops, lace parasol. · Eye colour: amber-hazel. · Makeup: vintage glam, soft-rose lip. · Hair: braided updo + cream ribbon. · Footwear: ivory heels. · Nails: rose-red. · static & neutral, plain blank background.
+**STILL 2 · OBJECT (plain bg):** the black lacquer gondola + lace parasol at **low water-line ¾** — prow foremost, gilt trim catching shadow-to-gold light. Clean, isolated, plain blank background.
+**STILL 3 · ENVIRONMENT:** the cool shadow under a low stone bridge, then the dazzling glowing grand canal opening beyond the arch — water-mirror reflections doubling the palazzos; low water-line vantage through the arch.
+**VIDEO PROMPT:**
+- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
+- *Animation:* camera at the water-line, **one continuous slow dolly through the bridge with the boat.** [00:00–00:02] the gondola slips into the cool shadow under the low bridge, reflections darkening, she looks up at the arch. [00:02–00:04] the boat emerges and the signature reveals — the grand canal opens in glowing golden light, water-mirror reflections doubling the palazzos, soft petals drifting; she lifts up from her recline toward the light with hushed wonder. [00:04–00:06] she sits up and opens her parasol a touch, a radiant soft smile, the golden canal spreading ahead. Real-time, real shadow-to-light reveal + reflections; 9:16.
+- *AUDIO (in-frame):* ambient/object — the hush under the stone arch, water echoing, then the open-canal ambience swelling as she emerges; voice — Aira's hushed breath of wonder and a faint "oh" as the canal opens.
+**→ Cut (match-on-action) to Frame 3 — the gondola joins the open grand canal.**
+
+---
+### FRAME 3 — GRAND CANAL
+**Frame angle:** full profile (true side), glowing golden afternoon.
+**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, in **full profile**. · Outfit: emerald day-dress + gold belt. · Headwear: none. · Accessories: ivory gloves, pearl drops, open lace parasol on the shoulder. · Eye colour: amber-hazel. · Makeup: vintage glam, soft-rose lip. · Hair: braided updo + cream ribbon. · Footwear: ivory heels. · Nails: rose-red. · static & neutral, plain blank background.
+**STILL 2 · OBJECT (plain bg):** the black lacquer gondola + open lace parasol in **profile** — full side, velvet seat, gilt, the ferro prow. Clean, isolated, plain blank background.
+**STILL 3 · ENVIRONMENT:** the open grand canal — grand palazzos, other boats and gondolas, warm golden afternoon light glinting off the water; profile vantage with the palazzos sliding past.
+**VIDEO PROMPT:**
+- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
+- *Animation:* MEDIUM profile, **one continuous parallel dolly at the gondola's pace**, palazzos sliding past. [00:00–00:02] she sits poised with her open lace parasol resting on her shoulder, slowly turning it, the golden canal glinting. [00:02–00:04] she pans her gaze along the grand palazzos with a serene gentle smile, light dancing off the water and the parasol's lace. [00:04–00:06] the gondola glides on toward the canal's mouth, reflections shimmering. Real-time, believable boat glide; 9:16.
+- *AUDIO (in-frame):* ambient/object — water lapping, distant boat-motors and other gondoliers, a far accordion, the parasol's lace fluttering; voice — a soft pleased hum from Aira.
+**→ Cut (match-on-action) to Frame 4 — the gondola drifts out toward the open lagoon.**
+
+---
+### FRAME 4 — LAGOON MOUTH (loop)
+**Frame angle:** ¾-back over the shoulder (~30° behind), hazy golden lagoon.
+**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **¾-back over the shoulder**. · Outfit: emerald day-dress + gold belt. · Headwear: none. · Accessories: ivory gloves, pearl drops, open parasol. · Eye colour: amber-hazel. · Makeup: vintage glam, soft-rose lip. · Hair: braided updo + cream ribbon. · Footwear: ivory heels. · Nails: rose-red. · static & neutral, plain blank background.
+**STILL 2 · OBJECT (plain bg):** the gondola + parasol at **¾-back** — rear three-quarter, the ferro prow ahead, hazy gold light. Clean, isolated, plain blank background.
+**STILL 3 · ENVIRONMENT:** the canal opening into the wide hazy lagoon — open water, distant domes and sails, soft golden haze, vast sky; ¾-back vantage opening to the lagoon.
+**VIDEO PROMPT:**
+- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
+- *Animation:* WIDE, ¾-back, **one continuous slow crane pull-back opening the lagoon vista.** [00:00–00:02] the gondola drifts out into the wide hazy lagoon, distant domes and sails on the golden water. [00:02–00:04] she gazes out at the open lagoon, then glances softly back over her shoulder toward lens with a slow warm smile, petals and golden light settling. [00:04–00:06] the camera cranes back to reveal the vast golden lagoon and sky — easing toward the dreamy calm of the opening for a loop. Real-time, believable gentle drift; 9:16.
+- *AUDIO (in-frame):* ambient/object — open water lapping, a soft breeze, distant sails and gulls; voice — a warm contented breath/sigh from Aira.
+**→ Loops back to Frame 1 (the narrow side canals).**
+
+**Stills to generate:** 3 per frame × 4 frames = 12. Score = 24s MASTER AUDIO under the diegetic.
+
+═══════════════════════════════════════════════════════════════════════════════
+
+# SC-13 · SKY BLOOM (Hot-Air Balloon) · 4 shots × 6s
+**Logline:** A tranquil dawn ascent — the subject lifts off a misty meadow in a pastel-striped hot-air balloon,
+drifts over a sleeping village, rises through a soft cloud, and breaks above the cloud-sea into the sunrise.
+Signature: cloud-wisps parting and drifting + soft dawn light-motes + breaking sun-rays. Dreamy, wonder-filled.
+**Arc:** LIFT-OFF (meadow) → DRIFT OVER VILLAGE → THROUGH A CLOUD (signature) → ABOVE THE CLOUDS (sunrise).
+
+## MASTER AUDIO (outside the frames — background music)
+A 24-second custom cinematic score (4 clips × 6s) in self-resolving ~6-second phrases, trimmable at any phrase
+boundary. Built on an airy felt piano, soft strings, a celesta/music-box shimmer, warm pads and a warm sub —
+dreamy, wonder-filled, tender. Opens (no fade-in) on a soft piano-and-celesta figure. Arc: a gentle lift-off open,
+a wondrous drift over the village, a hushed bloom through the cloud, then a radiant sunrise resolve above the
+clouds for an invisible loop. Laid UNDER the diegetic — no spoken line; optional wordless aah on the sunrise only.
+Layered: piano/celesta, warm sub, soft string atmosphere, a single bloom for the cloud/sunrise.
+
+## GLOBAL STYLE LOCKS
+- **Outfit:** a flowing lavender-to-peach ombré midi dress with soft tiered ruffles, a draped cream knit cardigan, a thin satin ribbon at the waist.
+- **Headwear:** none. **Accessories:** delicate gold studs. **Eye colour:** warm amber-hazel. **Makeup:** soft dewy dawn — rosy glow, peach lip, dreamy and luminous. **Hair:** **loose romantic waves**, soft and airy, lifting gently. **Footwear:** soft ballet flats. **Nails:** short soft-pink.
+- **Hero object:** a woven wicker balloon basket + a pastel rainbow-striped canopy (warm-lit, ropes and burner-frame).
+- **Signature (grounded-dreamy):** cloud-wisps part and drift around the basket; soft dawn light-motes and a few stray petals lift; sun-rays break through — gentle, airy, real cloud behaviour.
+- **Journey + light:** pastel dawn (low-contrast, warming) — misty pale-pink meadow → soft golden village drift → luminous cloud-white → radiant sunrise gold. *Footing: she stands in the basket.*
+
+---
+### FRAME 1 — LIFT-OFF (meadow)
+**Frame angle:** low ¾ looking up (~30° up at the basket), soft pale-pink dawn.
+**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **low ¾ looking up**. · Outfit: lavender-peach ombré ruffle midi + cream cardigan + satin ribbon. · Headwear: none. · Accessories: gold studs. · Eye colour: amber-hazel. · Makeup: dewy dawn, peach lip. · Hair: loose romantic waves. · Footwear: ballet flats. · Nails: soft-pink. · static & neutral, plain blank background.
+**STILL 2 · OBJECT (plain bg):** the wicker basket + pastel rainbow-striped canopy at **low ¾ up** — woven basket, ropes, burner-frame, striped balloon. Clean, isolated, plain blank background.
+**STILL 3 · ENVIRONMENT:** a misty dawn meadow — dewy grass, wildflowers, pale-pink sky, soft ground-crew shapes below; low-¾ up-vantage as the balloon lifts.
+**VIDEO PROMPT:**
+- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
+- *Animation:* low-hero WIDE looking up, **one continuous crane-up following the lift.** [00:00–00:02] the balloon rises off the misty meadow, she leans on the wicker rim looking down at the receding dewy grass, hair lifting. [00:02–00:04] she lifts her gaze out to the pale-pink dawn with a gentle anticipatory smile, one hand on a rigging line. [00:04–00:06] the basket climbs steadily, she turns her head to take in the widening meadow. Real-time, believable slow balloon lift + gentle sway; 9:16.
+- *AUDIO (in-frame):* ambient/object — the burner's whoosh-roar in bursts, soft ground-crew calls, dewy-meadow birdsong, a basket creak; voice — Aira's soft anticipatory breath and a quiet delighted "oh".
+**→ Cut (match-on-action) to Frame 2 — the climb carries her over the sleeping village.**
+
+---
+### FRAME 2 — DRIFT OVER VILLAGE
+**Frame angle:** high aerial ¾ looking down past her (~55° down), soft golden first light.
+**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **high aerial ¾ (looking down past her)**. · Outfit: lavender-peach ombré midi + cream cardigan. · Headwear: none. · Accessories: gold studs. · Eye colour: amber-hazel. · Makeup: dewy dawn, peach lip. · Hair: loose romantic waves. · Footwear: ballet flats. · Nails: soft-pink. · static & neutral, plain blank background.
+**STILL 2 · OBJECT (plain bg):** the wicker basket + striped canopy at **high aerial ¾** — the basket from above-side, ropes, the canopy curving up. Clean, isolated, plain blank background.
+**STILL 3 · ENVIRONMENT:** a sleeping village far below — terracotta roofs, lanes, a church spire, soft golden first light, drifting chimney smoke; high aerial ¾ down-vantage.
+**VIDEO PROMPT:**
+- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
+- *Animation:* aerial ¾, camera high looking down past her, **one continuous slow descend-orbit.** [00:00–00:02] she leans over the wicker rim gazing down at the terracotta roofs sliding below in the golden first light. [00:02–00:04] she lifts her right hand and points softly to the church spire, a delighted open smile, chimney smoke drifting. [00:04–00:06] she follows the village with her gaze as the balloon drifts on, hair stirring. Real-time, believable gentle drift; 9:16.
+- *AUDIO (in-frame):* ambient/object — the gentle burner hiss, soft wind, a distant rooster and a faint church bell, a basket creak; voice — Aira's soft delighted gasp and a quiet "oh" as she points.
+**→ Cut (match-on-action) to Frame 3 — the balloon rises into a soft cloud.**
+
+---
+### FRAME 3 — THROUGH A CLOUD (signature)
+**Frame angle:** medium ¾ (~35° front-side), luminous diffused cloud-white.
+**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **medium ¾ (~35°)**. · Outfit: lavender-peach ombré midi + cream cardigan. · Headwear: none. · Accessories: gold studs. · Eye colour: amber-hazel. · Makeup: dewy dawn, peach lip. · Hair: loose romantic waves. · Footwear: ballet flats. · Nails: soft-pink. · static & neutral, plain blank background.
+**STILL 2 · OBJECT (plain bg):** the wicker basket + striped canopy at **medium ¾**, wreathed in soft wisps. Clean, isolated, plain blank background.
+**STILL 3 · ENVIRONMENT:** a soft luminous cloud — white wisps, diffused glow, the canopy glowing above, faint sun-rays beginning; medium ¾ vantage inside the cloud.
+**VIDEO PROMPT:**
+- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
+- *Animation:* MEDIUM, **one continuous slow push-in through the cloud wisps to her.** [00:00–00:02] the basket rises into the soft cloud, white wisps drifting and parting around her. [00:02–00:04] the signature blooms gently — cloud-wisps swirl and part, soft dawn light-motes and a few stray petals lift around the basket, faint sun-rays beginning to break; she reaches out to let a wisp pass through her fingers, hushed awe. [00:04–00:06] the wisps thin as the basket nears the cloud-top, brightening light on her face. Real-time, real soft cloud behaviour; 9:16.
+- *AUDIO (in-frame):* ambient/object — a soft muffling hush as the cloud envelops, the burner's low hiss, a gentle wind-wisp; voice — Aira's hushed breath of awe and a faint "woah".
+**→ Cut (match-on-action) to Frame 4 — she breaks above the cloud-sea into the sunrise.**
+
+---
+### FRAME 4 — ABOVE THE CLOUDS (sunrise · loop)
+**Frame angle:** low front (head-on, slight up-tilt), radiant sunrise-gold.
+**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **low front (head-on)**. · Outfit: lavender-peach ombré midi + cream cardigan. · Headwear: none. · Accessories: gold studs. · Eye colour: amber-hazel. · Makeup: dewy dawn, peach lip. · Hair: loose romantic waves. · Footwear: ballet flats. · Nails: soft-pink. · static & neutral, plain blank background.
+**STILL 2 · OBJECT (plain bg):** the wicker basket + striped canopy at **low front** — the basket head-on, ropes, the canopy blazing with sunrise. Clean, isolated, plain blank background.
+**STILL 3 · ENVIRONMENT:** above an endless cloud-sea — the sun cresting the horizon, radiant gold-and-rose sky, rays fanning; low-front vantage above the clouds.
+**VIDEO PROMPT:**
+- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
+- *Animation:* HERO MEDIUM low front, **one continuous slow push-in / gentle crane.** [00:00–00:02] the basket rises above the endless cloud-sea into the sunrise, rays fanning across her face, both hands resting along the rim. [00:02–00:04] she gazes out at the cresting sun, light-motes drifting up around the basket, a deep calm breath lifting her chest. [00:04–00:06] she settles a warm peaceful smile to lens as the dawn light blooms — easing toward the soft calm of the opening for a loop. Real-time, believable gentle float; 9:16.
+- *AUDIO (in-frame):* ambient/object — high-altitude wind, the burner's occasional whoosh, a vast airy hush; voice — a warm peaceful breath/sigh from Aira.
+**→ Loops back to Frame 1 (the misty meadow lift-off).**
+
+**Stills to generate:** 3 per frame × 4 frames = 12. Score = 24s MASTER AUDIO under the diegetic.
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+# SC-12 · FREEDIVER'S BLOOM (Swim) · 5 shots × 6s · *(prop-less — 2 stills per frame: Subject + Environment)*
+**Logline:** A weightless underwater descent and rise — the subject duck-dives from the bright surface, glides past
+a living reef, drifts through a coral garden, hangs inside a towering kelp cathedral, then rises up a great shaft
+of sunlight back toward the surface. Signature: sun-shaft caustics + a trailing silver bubble-stream + a flash of
+coral and fish. Serene, otherworldly, powerful.
+**Arc:** SURFACE DUCK-DIVE → REEF WALL → CORAL GARDEN (signature) → KELP CATHEDRAL → SUN-SHAFT ASCENT.
+
+## MASTER AUDIO (outside the frames — background music)
+A 30-second custom cinematic score (5 clips × 6s) in self-resolving ~6-second phrases, trimmable at any phrase
+boundary. Built on a deep warm sub, ambient pads, a glassy bell/handpan, a soft choir-pad and sparse piano —
+serene, otherworldly, reverent. Opens (no fade-in) on a deep sub-bloom and a glassy bell. Arc: a calm descent open,
+drifting reef wonder, an enchanted lift over the coral, a reverent hush in the kelp cathedral, then a radiant rising
+peak up the sun-shaft, resolving for an invisible loop. Laid UNDER the diegetic — no spoken line; optional wordless
+choir-pad on the ascent only. Layered: glassy bell/piano, deep sub, choir-pad atmosphere, a single rise for the ascent.
+
+## GLOBAL STYLE LOCKS
+- **Outfit:** a sleek modest long-sleeve dive-suit / rash-guard set in deep teal with a coral-orange side-stripe, high neckline, full-leg coverage, premium technical fit.
+- **Headwear:** none (a slim teal mask pushed to her forehead). **Accessories:** none. **Eye colour:** warm amber-hazel. **Makeup:** bare, water-fresh — luminous wet skin, neat brows, natural lashes. **Hair:** **slicked-back into a tight, low woven braid**, sealed flat so it streams cleanly underwater. **Footwear:** sleek teal freedive fins. **Nails:** short clean clear-coat.
+- **Hero object:** none (her own breath-hold freedive; the ocean is the set) → each frame uses 2 stills (Subject + Environment).
+- **Signature (grounded):** real god-ray sun-shafts knifing down through blue water, a continuous silver bubble-stream trailing from her, caustic light dappling sand/coral, a flash of fish scattering and coral colour. Real buoyancy + light refraction.
+- **Journey + light:** underwater deep blue → glowing gold — bright sunlit surface → cooler blue reef wall → colour-rich coral garden → dim green-gold kelp cathedral → brilliant gold sun-shaft. *In the VIDEO she is in NEUTRAL BUOYANCY — free-floating, no foot-weight; drift, fin-kicks and current govern motion.*
+
+---
+### FRAME 1 — SURFACE DUCK-DIVE
+**Frame angle:** high looking down through the surface (~50° down, descending with her), bright silvery surface-blue.
+**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **high looking down**. · Outfit: modest teal long-sleeve dive-suit + coral side-stripe. · Headwear: teal mask on forehead. · Accessories: none. · Eye colour: amber-hazel. · Makeup: bare water-fresh. · Hair: slicked low woven braid. · Footwear: teal fins. · Nails: clear. · static & neutral, plain blank background.
+**STILL 2 · ENVIRONMENT:** the bright sunlit surface from just below — a silver mirror ceiling, sun-shafts fanning down into clear blue, the sandy reef-top faint far below; high looking-down vantage.
+**VIDEO PROMPT:**
+- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
+- *Animation:* WIDE, camera high just under the surface looking down, **one continuous descend with her.** [00:00–00:02] she is already arrowing downward head-first, arms streamlined overhead, a silver bubble-stream rising in the sun-shafts. [00:02–00:04] a slow fin-kick drives her deeper, the mirror surface receding above, caustic light rippling over her. [00:04–00:06] she glides on toward the faint reef below, the blue deepening. Real-time, true neutral-buoyancy freefall, real refraction + bubbles; 9:16.
+- *AUDIO (in-frame):* ambient/object — the muffled underwater hush, a rush of bubbles streaming up, a soft water-whoosh of the dive; voice — sealed breath-hold (no exclamation), only the faint bubble-stream.
+**→ Cut (match-on-action) to Frame 2 — the dive levels off alongside a reef wall.**
+
+---
+### FRAME 2 — REEF WALL
+**Frame angle:** full profile (true side, parallel), cool reef-blue.
+**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, in **full profile**. · Outfit: teal dive-suit + coral stripe. · Headwear: teal mask on forehead. · Accessories: none. · Eye colour: amber-hazel. · Makeup: bare water-fresh. · Hair: slicked low braid. · Footwear: teal fins. · Nails: clear. · static & neutral, plain blank background.
+**STILL 2 · ENVIRONMENT:** a tall blue reef wall — soft corals, sponges, a school of silver fish, cooler blue water, fewer sun-shafts; profile vantage along the wall.
+**VIDEO PROMPT:**
+- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
+- *Animation:* MEDIUM profile, **one continuous parallel track at her drift-pace.** [00:00–00:02] she glides level along the reef wall, one arm leading, a slow easy fin-kick, bubble-trail streaming. [00:02–00:04] a school of silver fish scatters off the wall and she turns her head to follow them with quiet wonder. [00:04–00:06] she sweeps a gentle scull and drifts on toward a richer coral garden. Real-time, real horizontal neutral-buoyancy glide + fish behaviour; 9:16.
+- *AUDIO (in-frame):* ambient/object — muffled deep-water ambience, fish darting, a soft fin-kick swirl, the bubble-trail; voice — sealed breath-hold, a faint bubble release.
+**→ Cut (match-on-action) to Frame 3 — she drifts down into the coral garden.**
+
+---
+### FRAME 3 — CORAL GARDEN (signature)
+**Frame angle:** low looking up (~30° up, slow rising boom), colour-rich coral-and-caustic.
+**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **low looking up**. · Outfit: teal dive-suit + coral stripe. · Headwear: teal mask on forehead. · Accessories: none. · Eye colour: amber-hazel. · Makeup: bare water-fresh. · Hair: slicked low braid. · Footwear: teal fins. · Nails: clear. · static & neutral, plain blank background.
+**STILL 2 · ENVIRONMENT:** a vivid coral garden — orange, pink and violet corals on a pale sand floor, caustic light dancing, sun-shafts returning above, fish; low looking-up vantage.
+**VIDEO PROMPT:**
+- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
+- *Animation:* WIDE, camera low looking up, **one continuous slow rising boom.** [00:00–00:02] she hovers suspended among the vivid corals, sculling gently to hold position, caustic light dappling her, bubble-trail rising. [00:02–00:04] she reaches a slow open hand toward a coral fan with enchanted delight as the signature blooms — caustic light dances over the colour-rich garden, a flash of fish and coral colour. [00:04–00:06] she eases her gaze upward to the returning sun-shafts and drifts up off the floor. Real-time, true weightless hover (no foot-weight), real caustics + buoyancy; 9:16.
+- *AUDIO (in-frame):* ambient/object — a gentle current, a soft scull-swirl, the distant snap-crackle of the reef, rising bubbles; voice — a soft muffled bubble of wonder (mouth sealed).
+**→ Cut (match-on-action) to Frame 4 — she drifts up into the kelp cathedral.**
+
+---
+### FRAME 4 — KELP CATHEDRAL
+**Frame angle:** slow orbit, ¾ turning to front, dim green-gold.
+**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **¾ (slow-orbit, turning to front)**. · Outfit: teal dive-suit + coral stripe. · Headwear: teal mask on forehead. · Accessories: none. · Eye colour: amber-hazel. · Makeup: bare water-fresh. · Hair: slicked low braid. · Footwear: teal fins. · Nails: clear. · static & neutral, plain blank background.
+**STILL 2 · ENVIRONMENT:** a towering kelp forest — tall golden-green fronds rising like cathedral columns, dim green-gold light, slow swaying current, shafts between the stalks; ¾ orbit vantage.
+**VIDEO PROMPT:**
+- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
+- *Animation:* WIDE, **one continuous slow orbit around her through the kelp columns.** [00:00–00:02] she hangs weightless among the towering kelp, arms spread softly, fronds swaying past her in the current. [00:02–00:04] she tips her head back and gazes up the cathedral of kelp columns with reverent awe, dim green-gold shafts between the stalks, bubble-trail rising. [00:04–00:06] the orbit settles to her front as she draws her arms in, gathering for the rise toward a bright shaft above. Real-time, true neutral-buoyancy suspension + kelp current; 9:16.
+- *AUDIO (in-frame):* ambient/object — kelp fronds swaying, a low resonant water-hum, a slow bubble-trail; voice — sealed breath, a faint bubble.
+**→ Cut (match-on-action) to Frame 5 — she rises up a brilliant shaft of sunlight.**
+
+---
+### FRAME 5 — SUN-SHAFT ASCENT (loop)
+**Frame angle:** low looking straight up (rising crane following her ascent), brilliant gold sun-shaft.
+**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **low looking straight up**. · Outfit: teal dive-suit + coral stripe. · Headwear: teal mask on forehead. · Accessories: none. · Eye colour: amber-hazel. · Makeup: bare water-fresh. · Hair: slicked low braid. · Footwear: teal fins. · Nails: clear. · static & neutral, plain blank background.
+**STILL 2 · ENVIRONMENT:** a single brilliant column of sunlight knifing down through deep blue toward the silver surface high above — open water, god-rays, the surface a shimmering ceiling; low straight-up vantage.
+**VIDEO PROMPT:**
+- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
+- *Animation:* WIDE, camera low looking straight up, **one continuous rising crane following her ascent.** [00:00–00:02] she is already rising fast up the brilliant column of sunlight, arms reaching overhead, a powerful fin-kick driving her up. [00:02–00:04] the signature peaks — god-ray sun-shafts blaze gold around her, a brilliant silver bubble-stream pours off her body, caustics shimmering, the surface a bright ceiling above. [00:04–00:06] she reaches up toward the silver surface with radiant release as the light goes brilliant gold — easing toward the bright-blue freefall of the opening for a loop. Real-time, real upward freedive ascent + refraction + bubbles; 9:16.
+- *AUDIO (in-frame):* ambient/object — a rush of water and a brilliant bubble-stream pouring off her, the ambience building as she nears the surface; voice — a release of breath in a burst of bubbles as she rises (an open-mouthed underwater exhale, no words).
+**→ Loops back to Frame 1 (the surface duck-dive).**
+
+**Stills to generate:** 2 per frame × 5 frames = 10 (Subject + Environment; no hero object this concept). Score = 30s MASTER AUDIO under the diegetic.
