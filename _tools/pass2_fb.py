@@ -3257,6 +3257,122 @@ TFREEZE[20] = {
 }
 
 # ----------------------------------------------------------------------------------
+# BEAUTY — 20 Beauty Ad dance reels. All share ONE phrase arc (open/apply/expand/
+# apex/resolve/[flourish]/loop) with idiom-specific styling. NON-DESTRUCTIVE: inserts
+# an idiom-faithful per-limb SUBJECT FRAMING recap only (BODY POSTURE / CHOREOGRAPHY
+# FLOW / HANDS / beats all left intact). Real motion = the dance idiom itself
+# (turns/spins/pivots/steps); aerial silk = neutral buoyancy (no foot-weight).
+_BEAUTY_PARAMS = {
+ 1:  dict(frames=6, idiom="liquid-contemporary", carriage="fluid contemporary carriage, shoulders soft and liquid", arms="a continuous shoulder-to-fingertip arm-wave", hips="a soft hip counter-tilt rolling with the body-roll", feet="weight rolling between soft parallel feet", gaze="composed and assured to the lens", ground=True, travel=False),
+ 2:  dict(frames=7, idiom="flamenco", carriage="proud flamenco braceo carriage with one shoulder lifted", arms="curved braceo arms and spiralling floreo wrists", hips="a proud marcaje hip set", feet="planted flamenco feet poised to mark a stamp", gaze="fierce and regal", ground=True, travel=False),
+ 3:  dict(frames=6, idiom="aerial-silk", carriage="weightless aerial suspension, the body hanging long in the silk", arms="long reaching aerial lines spiralling with the silk", hips="a soft float through the waist", feet="feet pointed and drifting in the silk, no ground contact", gaze="serene and weightless", ground=False, travel=False),
+ 4:  dict(frames=6, idiom="balletic-adagio", carriage="balletic carriage with a soft épaulement of the shoulders", arms="long adagio port-de-bras lines", hips="a lifted turned-out hip carriage", feet="soft turned-out feet over a gentle plié", gaze="soft and luminous", ground=True, travel=False),
+ 5:  dict(frames=6, idiom="waacking", carriage="dynamic retro waacking carriage with a sharp-soft shoulder lift", arms="fast whipping waack arm-circles and crisp wrist rolls", hips="an attitude-popped hip", feet="planted with retro attitude, weight popped", gaze="bold and playful", ground=True, travel=False),
+ 6:  dict(frames=7, idiom="veil-and-fan", carriage="graceful warm carriage turned toward the light", arms="long veil arcs sweeping overhead and around", hips="a soft hip-led sway into the turn", feet="soft turning feet, weight flowing with the veil", gaze="serene and warm", ground=True, travel=True),
+ 7:  dict(frames=6, idiom="frost-ballet", carriage="lifted balletic carriage drawn up tall", arms="long crystalline port-de-bras lines", hips="a high lifted turned-out carriage", feet="turned-out feet rising toward relevé", gaze="cool, calm and radiant", ground=True, travel=False),
+ 8:  dict(frames=7, idiom="kathak", carriage="lifted kathak carriage poised over a soft demi-plié", arms="circular mudra arms and wrist flourishes", hips="a square poised set ready to spin", feet="crisp tatkar feet ready for the chakkar", gaze="warm and joyful", ground=True, travel=False),
+ 9:  dict(frames=6, idiom="tango", carriage="sleek controlled tango carriage, chest lifted", arms="long clean tango arm-lines held with control", hips="a controlled pivot through the hips for the ochos", feet="long clean floor-bound leg-lines, feet tracing figure-eights", gaze="smouldering and direct", ground=True, travel=True),
+ 10: dict(frames=6, idiom="vogue-femme", carriage="dramatic vogue carriage with sharp shoulder framing", arms="precise illusion hand-waves, wrist-rolls and box-arm frames", hips="a sharp angular hip dip", feet="precise planted feet with attitude", gaze="fierce and theatrical", ground=True, travel=False),
+ 11: dict(frames=7, idiom="lyrical-contemporary", carriage="soft lyrical carriage, the shoulders unfurling like wings", arms="slow unfurling port-de-bras opening like wings", hips="a gentle rising spiral through the waist", feet="soft rising feet over a lifting plié", gaze="tender and blooming", ground=True, travel=False),
+ 12: dict(frames=6, idiom="sculptural-contemporary", carriage="museum-slow sculptural carriage, weighted and deliberate", arms="deliberate weighted port-de-bras held like sculpture", hips="a slow controlled contrapposto", feet="planted weighted feet, weight sinking slow", gaze="serene and composed", ground=True, travel=False),
+ 13: dict(frames=6, idiom="krump-popping", carriage="powerful krump carriage with explosive chest-pops", arms="powerful arm-swings, jabs and sharp wrist isolations", hips="a grounded loaded hip drop", feet="wide grounded feet braced for the pop", gaze="charged and electric", ground=True, travel=False),
+ 14: dict(frames=6, idiom="ribbon-gymnastics", carriage="bright rhythmic-gymnastics carriage, lifted and open", arms="sweeping overhead ribbon spirals and figure-eights", hips="a travelling hip-led swing", feet="light travelling feet skipping with the ribbon", gaze="bright and joyful", ground=True, travel=True),
+ 15: dict(frames=7, idiom="tai-chi", carriage="grounded tai-chi root, knees soft and sunk", arms="slow cloud-hands and part-the-wild-horse's-mane arcs", hips="sunk and centred over the stance", feet="rooted in a wide grounded stance, weight sinking", gaze="calm and inward", ground=True, travel=False),
+ 16: dict(frames=7, idiom="bharatanatyam", carriage="grounded araimandi half-sit, knees turned out", arms="precise hasta mudras (alapadma, pataka, mayura)", hips="a square sunk araimandi set", feet="flat half-sit feet, heels together and knees open", gaze="expressive and regal", ground=True, travel=False),
+ 17: dict(frames=6, idiom="liquid-dance", carriage="fluid liquid-dance carriage with rippling isolations", arms="fluid body-waves, arm-waves and finger-tutting geometry", hips="a liquid rolling isolation through the hips", feet="soft rolling feet under the body-wave", gaze="hypnotic and glowing", ground=True, travel=False),
+ 18: dict(frames=6, idiom="wind-tunnel-editorial", carriage="powerful editorial model carriage, chin lifted into the wind", arms="sweeping editorial arm-lines carving the wind", hips="a slow powerful model-turn through the hips", feet="planted model feet pivoting through the turn", gaze="cool and commanding", ground=True, travel=True),
+ 19: dict(frames=7, idiom="waltz", carriage="lifted ballroom carriage with rise-and-fall", arms="sweeping waltz arm-frames lifted in the turn", hips="a sweeping rise-and-fall through the waist", feet="sweeping turning feet rising to demi-pointe", gaze="dreamy and luminous", ground=True, travel=True),
+ 20: dict(frames=8, idiom="phoenix-contemporary", carriage="powerful contemporary carriage, floor-rooted then soaring", arms="sweeping full-body spiral arms opening wide", hips="a deep contraction opening into a soaring spiral", feet="floor-rooted feet driving up into the rise", gaze="fierce and ascendant", ground=True, travel=False),
+}
+
+def _beauty_roles(frames):
+    if frames == 6:
+        return {1: "open", 2: "apply", 3: "expand", 4: "apex", 5: "resolve", 6: "loop"}
+    if frames == 7:
+        return {1: "open", 2: "apply", 3: "expand", 4: "apex", 5: "resolve", 6: "flourish", 7: "loop"}
+    if frames == 8:
+        return {1: "open", 2: "apply", 3: "expand", 4: "apex", 5: "resolve", 6: "resolve", 7: "flourish", 8: "loop"}
+    return {k: ("open" if k == 1 else "expand") for k in range(1, frames + 1)}
+
+def _beauty_feet(role, p):
+    if not p["ground"]:
+        wq = {"open": "weight held weightless in the suspension",
+              "apply": "weight drifting weightless as she eases through the descent",
+              "expand": "weight floating free as the body unwinds",
+              "apex": "weight suspended weightless at the fullest spiral",
+              "resolve": "weight settling weightless as the float resolves",
+              "flourish": "weight drifting weightless on the closing curve",
+              "loop": "weight held weightless exactly as the opening"}.get(role, "weight held weightless in the suspension")
+        return "%s; %s" % (p["feet"], wq)
+    wq = {"open": "weight settled on the back leg with %s, soles in real floor contact" % p["hips"],
+          "apply": "weight rolling soft onto the front foot with %s, feet in true contact" % p["hips"],
+          "expand": "weight rolling to centre as the body opens, %s, feet pressing the floor" % ("pivoting through the turn" if p["travel"] else "grounded and balanced"),
+          "apex": "weight whirling fluidly through the fullest extension, feet driving the floor" if p["travel"] else "weight rolled to centre at the fullest extension, feet planted and alive",
+          "resolve": "weight settled elegantly back with %s, feet grounded" % p["hips"],
+          "flourish": "weight easing onto the back leg with a soft hip curve, feet grounded",
+          "loop": "weight returned exactly to the opening — back leg bearing, feet in real contact"}.get(role, "weight grounded and balanced, feet in true contact")
+    return "%s; %s" % (p["feet"], wq)
+
+def _beauty_recap(role, p):
+    idiom = p["idiom"]
+    label = {"open": "opening stance", "apply": "application reach", "expand": "opening expansion",
+             "apex": "apex", "resolve": "resolving presentation",
+             "flourish": "closing flourish", "loop": "loop-closing return"}[role]
+    gaze = {"open": "gaze %s" % p["gaze"],
+            "apply": "gaze drawn to the hero product lifting toward her face, %s" % p["gaze"],
+            "expand": "gaze following the opening line of her arms, %s" % p["gaze"],
+            "apex": "gaze lifted and open at the fullest extension, %s" % p["gaze"],
+            "resolve": "gaze levelling back to the lens, %s" % p["gaze"],
+            "flourish": "gaze softening with the closing breath, %s" % p["gaze"],
+            "loop": "gaze returned to the lens exactly as the opening, %s" % p["gaze"]}[role]
+    head = {"open": "head balanced and lifted", "apply": "head tilting a touch toward the product",
+            "expand": "head carried with the opening line", "apex": "head lifted into the apex",
+            "resolve": "head levelling and composed", "flourish": "head easing with the flourish",
+            "loop": "head returned to the opening tilt"}[role]
+    shoulders = "the shoulders in %s" % p["carriage"]
+    if role == "apex":
+        arms = "both the LEFT and RIGHT arms flung wide in %s at the fullest reach" % p["arms"]
+    elif role == "apply":
+        arms = "the RIGHT arm lifting the hero product/applicator toward her face while the LEFT arm carries %s in a low counter-line" % p["arms"]
+    elif role == "open":
+        arms = "the LEFT arm mid-gesture in %s while the RIGHT arm cradles the hero product in a soft line" % p["arms"]
+    elif role == "loop":
+        arms = "the LEFT and RIGHT arms flowing back through the opening gesture of %s" % p["arms"]
+    else:
+        arms = "the LEFT arm leading %s while the RIGHT arm counter-balances in a soft line" % p["arms"]
+    torso = {"open": "torso turned only a few degrees off the lens, long and alive",
+             "apply": "torso lifting a touch as the spine uncurls",
+             "expand": "torso spiralling open into the %s" % ("turn" if p["travel"] else "extension"),
+             "apex": "torso spiralled to its fullest, breathing wide",
+             "resolve": "torso squared a touch toward the lens with a soft spiral",
+             "flourish": "torso easing down through a soft closing curve",
+             "loop": "torso returned to the opening rotation"}[role]
+    hips = "waist and hips carrying %s" % p["hips"]
+    legs = {"open": "the LEFT and RIGHT legs settled in the %s carriage" % idiom,
+            "apply": "the LEFT and RIGHT legs easing as the weight rolls forward",
+            "expand": "the LEFT and RIGHT legs %s" % ("opening into the travelling turn" if p["travel"] else "rolling open through the extension"),
+            "apex": "the LEFT and RIGHT legs %s" % ("whirling through the turn" if p["travel"] else "rooted at the fullest reach"),
+            "resolve": "the LEFT and RIGHT legs settling regal and even",
+            "flourish": "the LEFT and RIGHT legs easing back through the closing curve",
+            "loop": "the LEFT and RIGHT legs returned exactly to the opening stance"}[role]
+    feet = _beauty_feet(role, p)
+    hair = {"open": "hair carrying the last of the previous motion-settle",
+            "apply": "hair shifting softly with the rising arm",
+            "expand": "hair sweeping a beat late with the opening",
+            "apex": "hair fanning out at the fullest spiral",
+            "resolve": "hair settling around the presenting line",
+            "flourish": "hair easing down with the closing breath",
+            "loop": "hair re-settling exactly as the opening"}[role]
+    return ("Her pose reads as the %s of the %s phrase \u2014 %s; %s; %s; %s; %s; %s; %s; %s; hair %s."
+            % (label, idiom, gaze, head, shoulders, arms, torso, hips, legs, feet, hair))
+
+def _beauty_build(p):
+    roles = _beauty_roles(p["frames"])
+    return {k: {"framing": _beauty_recap(roles[k], p)} for k in roles}
+
+BEAUTY = {n: _beauty_build(p) for n, p in _BEAUTY_PARAMS.items()}
+
+# ----------------------------------------------------------------------------------
 def find_concept_region(text, n):
     m = re.search(r'(?m)^#{1,3}\s*CONCEPT\s*0*%d\b' % n, text)
     if not m:
@@ -3351,7 +3467,7 @@ def apply_concept(text, n, data_dict):
     return text, report
 
 
-DATASETS = {'md': POSE, 'cine': CINE, 'set3': SET3, 'set4': SET4, 'set5': SET5, 'set5rw': SET5RW, 'hd91': HD91, 'surreal': SURREAL, 'phoenix': PHX, 'tfreeze': TFREEZE}
+DATASETS = {'md': POSE, 'cine': CINE, 'set3': SET3, 'set4': SET4, 'set5': SET5, 'set5rw': SET5RW, 'hd91': HD91, 'surreal': SURREAL, 'phoenix': PHX, 'tfreeze': TFREEZE, 'beauty': BEAUTY}
 
 
 def main():
