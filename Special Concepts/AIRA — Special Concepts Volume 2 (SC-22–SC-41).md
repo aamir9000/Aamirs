@@ -673,3 +673,364 @@ diegetic — no spoken line; optional wordless warm vocal on the festival only.
 **→ Loops back to Frame 1 (the jungle path).**
 
 **Stills to generate:** 3 per frame × 4 frames = 12. Score = 24s MASTER AUDIO under the diegetic.
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+# SC-31 · CITY TOPDECK (Open-Top Bus) · 4 shots × 6s
+**Logline:** A bright sightseeing ride up top — down a grand boulevard → into a landmark square → along a leafy
+park avenue → over a river bridge. Signature: a pigeon-burst lifting + ticker-tape leaves swirling + sun-glints
+off glass. Breezy, joyful, city-chic. Several exterior "see the bus in the city" shots.
+**Arc:** EXTERIOR · GRAND BOULEVARD → LANDMARK SQUARE → PARK AVENUE → RIVER BRIDGE (signature).
+
+## MASTER AUDIO (outside the frames — background music)
+A 24-second custom cinematic score (4 clips × 6s) in self-resolving ~6-second phrases, trimmable at any phrase
+boundary. Built on a chic upright-bass and brushed drums, a bright piano, warm strings and a playful flute with a
+warm sub — breezy, joyful, city-chic. Opens (no fade-in) on a bright piano-and-bass figure. Arc: a rolling
+boulevard open, a grand square lull, a leafy avenue lift, then a soaring river-bridge resolve for an invisible
+loop. Laid UNDER the diegetic — no spoken line; optional wordless bright vocal on the river bridge only.
+
+## GLOBAL STYLE LOCKS
+- **Outfit:** a classic camel trench coat (open) over a crisp white tee and tailored cream trousers.
+- **Headwear:** a black wool beret, oversized tortoiseshell sunglasses. **Accessories:** a printed silk scarf, a structured tan tote, gold studs. **Eye colour:** warm amber-hazel. **Makeup:** chic daytime — luminous skin, soft mascara, a classic red lip. **Hair:** a sleek glossy blunt lob. **Footwear:** white leather loafers. **Nails:** glossy soft red.
+- **Hero object:** a classic red open-top double-decker bus — gleaming red, a curved staircase, an open upper deck with rows of seats, route-board.
+- **Signature (grounded):** a burst of city pigeons lifts as the bus passes, ticker-tape leaves and confetti-bits swirl in its draft, and sun-glints flash off the glass towers. Real bird + paper + light physics.
+- **Journey + light:** bright sunny city all the way — grand boulevard → monumental landmark square → leafy green park avenue → sparkling river bridge. *(Exterior shots = camera OFF the bus, she small on the top deck; deck shots = real open-air breeze.)*
+
+---
+### FRAME 1 — EXTERIOR · GRAND BOULEVARD
+**Frame angle:** WIDE high aerial (~45° down, world-dominant), bright sunny morning, glassy reflections.
+**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, seated **¾ on the open top deck** (she reads small in the exterior frame). · Outfit: open camel trench + white tee + cream trousers. · Headwear: black beret + oversized sunglasses. · Accessories: silk scarf, tan tote, gold studs. · Eye colour: amber-hazel. · Makeup: chic daytime, red lip. · Hair: sleek blunt lob. · Footwear: white loafers. · Nails: soft red. · static & neutral, plain blank background.
+**STILL 2 · OBJECT (plain bg):** the red open-top double-decker bus at **side ¾** — gleaming red, curved stair, open upper deck, route-board. Clean, isolated, plain blank background.
+**STILL 3 · ENVIRONMENT:** a grand sunny city boulevard — wide avenue, glass-and-stone facades, plane trees, flags, traffic and crowds; WIDE high aerial vantage (the bus rolls through it, world dominant).
+**VIDEO PROMPT:**
+- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move (she's a small bright figure on the top deck).
+- *Animation:* WIDE high aerial, **one continuous slow track following the bus down the boulevard.** [00:00–00:02] the red double-decker rolls down the grand sunny boulevard between glass facades, plane trees flicking past, tiny crowds below. [00:02–00:04] the signature reads — a burst of pigeons lifts in its draft and sun-glints flash off the towers; on the open top deck her small bright figure tips her face to the sun, scarf rippling. [00:04–00:06] the bus rolls on toward a monumental landmark square. Real-time, believable bus motion + real pigeon-burst; 9:16. (Environment-dominant wide.)
+- *AUDIO (in-frame):* ambient/object — the diesel rumble of the bus, city traffic and a horn, pigeons clattering up, breeze; voice — (slight distance) Aira's bright "woohoo!" carried from the top deck.
+**→ Cut (match-on-action) to Frame 2 — the bus swings into the landmark square.**
+
+---
+### FRAME 2 — LANDMARK SQUARE
+**Frame angle:** low ¾ front from the top-deck front seats (~30°, deck-level), grand bright light.
+**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **low ¾ front (~30°)** at the deck rail. · Outfit: open camel trench + white tee + trousers. · Headwear: beret + sunglasses (up on hair). · Accessories: silk scarf, tote, studs. · Eye colour: amber-hazel. · Makeup: chic daytime, red lip. · Hair: sleek blunt lob. · Footwear: white loafers. · Nails: soft red. · static & neutral, plain blank background.
+**STILL 2 · OBJECT (plain bg):** the bus's open top-deck front detail — front rail, rows of seats, route-board, at **¾**. Clean, isolated, plain blank background.
+**STILL 3 · ENVIRONMENT:** a monumental landmark square — a grand column or fountain, classical facades, flags and crowds, plane trees, bright sun; low ¾-front deck-level vantage over the rail.
+**VIDEO PROMPT:**
+- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
+- *Animation:* MEDIUM low ¾ front, **one continuous slow track-with as the bus circles the square.** [00:00–00:02] she sits at the front rail of the top deck as the bus swings around the grand landmark square, the monument sliding past. [00:02–00:04] she pushes the sunglasses up and points to the landmark with a delighted grin, leaves swirling up in the draft. [00:04–00:06] the bus rolls off down a leafy park avenue. Real-time, believable open-air deck ride; 9:16.
+- *AUDIO (in-frame):* ambient/object — the bus engine and brakes, square crowd and a busker, fluttering flags, pigeons; voice — Aira's excited "look — there it is!" and a bright laugh.
+**→ Cut (match-on-action) to Frame 3 — the bus glides down the park avenue.**
+
+---
+### FRAME 3 — PARK AVENUE
+**Frame angle:** full profile (true side, parallel track), dappled leafy-green light.
+**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, in **full profile** at the rail. · Outfit: open camel trench + white tee + trousers. · Headwear: beret + sunglasses. · Accessories: silk scarf, tote, studs. · Eye colour: amber-hazel. · Makeup: chic daytime, red lip. · Hair: sleek blunt lob. · Footwear: white loafers. · Nails: soft red. · static & neutral, plain blank background.
+**STILL 2 · OBJECT (plain bg):** the red double-decker in **full profile** — full side, open top deck, curved stair, route-board. Clean, isolated, plain blank background.
+**STILL 3 · ENVIRONMENT:** a leafy green park avenue — an arching plane-tree canopy, dappled light, joggers and dog-walkers, railings and lawns; profile vantage along the avenue.
+**VIDEO PROMPT:**
+- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
+- *Animation:* MEDIUM profile, **one continuous parallel track at the bus's pace down the avenue.** [00:00–00:02] the bus glides down the leafy avenue, the plane-tree canopy arching overhead, dappled light flickering over the deck. [00:02–00:04] she leans back and reaches up as ticker-tape leaves swirl past in the draft, catching one with a soft delighted smile, light dappling her face. [00:04–00:06] the avenue opens toward a sparkling river bridge ahead. Real-time, believable bus motion + real leaf-swirl; 9:16. (Avenue + bus share the frame.)
+- *AUDIO (in-frame):* ambient/object — the bus rumble softened, leaves rustling overhead, park birds, a distant dog; voice — Aira's soft "ooh" and a content laugh.
+**→ Cut (match-on-action) to Frame 4 — the bus climbs onto the river bridge.**
+
+---
+### FRAME 4 — RIVER BRIDGE (signature · loop)
+**Frame angle:** low-hero ¾ opening to front (~30°, crane pull-back), sparkling river light.
+**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **low-hero ¾ (~30°)** standing at the rail. · Outfit: open camel trench + white tee + trousers. · Headwear: beret + sunglasses. · Accessories: silk scarf, tote, studs. · Eye colour: amber-hazel. · Makeup: chic daytime, red lip. · Hair: sleek blunt lob. · Footwear: white loafers. · Nails: soft red. · static & neutral, plain blank background.
+**STILL 2 · OBJECT (plain bg):** the red double-decker at **low-hero ¾** — heroic angle on the bridge, open top deck, gleaming red. Clean, isolated, plain blank background.
+**STILL 3 · ENVIRONMENT:** a grand river bridge in bright sun — ornate lamp-posts and balustrades, a sparkling river below, a famous skyline beyond, boats and gulls; low-hero ¾ vantage with crane reveal.
+**VIDEO PROMPT:**
+- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
+- *Animation:* WIDE low-hero, **one continuous slow crane pull-back to reveal the bridge and skyline.** [00:00–00:02] the bus climbs onto the grand river bridge, the sparkling river and skyline opening wide, she rising at the rail. [00:02–00:04] the signature peaks — pigeons lift, ticker-tape leaves swirl and sun-glints flash off the water and towers; she throws her arms wide to the city with a radiant laugh. [00:04–00:06] the camera cranes back to reveal the whole bridge, river and skyline around the little red bus — easing toward the boulevard opening for a loop. Real-time, believable bus motion + real birds/glints; 9:16.
+- *AUDIO (in-frame):* ambient/object — the bus on the bridge, the river and a boat-horn, gulls, wind over the deck; voice — Aira's exhilarated "woohoo — look at the city!" and a delighted laugh.
+**→ Loops back to Frame 1 (the grand boulevard).**
+
+**Stills to generate:** 3 per frame × 4 frames = 12 (exterior frames: world+bus lead, she small on the deck). Score = 24s MASTER AUDIO under the diegetic.
+
+═══════════════════════════════════════════════════════════════════════════════
+
+# SC-32 · VALLEY SWING (Garden Swing) · 4 shots × 6s
+**Logline:** A soaring tropical swing — out over a green valley → above terraced rice fields → over a waterfall →
+to a sky-high apex. Signature: leaves and blossom fluttering up in the arc + an apex sun-burst + valley mist.
+Free, exhilarating, blissful.
+**Arc:** SWING OUT OVER VALLEY → ABOVE RICE TERRACES → OVER THE WATERFALL → SKY APEX (signature).
+
+## MASTER AUDIO (outside the frames — background music)
+A 24-second custom cinematic score (4 clips × 6s) in self-resolving ~6-second phrases, trimmable at any phrase
+boundary. Built on a soaring strings-and-choir swell, a bright marimba, a warm flute, light percussion and a warm
+sub — free, exhilarating, blissful. Opens (no fade-in) on a soaring string figure. Arc: a swooping launch open,
+a serene terrace lull, a rushing waterfall lift, then a weightless sky-apex resolve for an invisible loop. Laid
+UNDER the diegetic — no spoken line; optional wordless soaring vocal on the apex only.
+
+## GLOBAL STYLE LOCKS
+- **Outfit:** a flowing white-and-coral ruffle maxi dress with a tiered skirt that catches the wind.
+- **Accessories:** a fresh hibiscus tucked behind one ear, delicate gold anklets, small gold hoops. **Eye colour:** warm amber-hazel. **Makeup:** sun-kissed glow — luminous skin, a warm flush, a glossy coral lip. **Hair:** voluminous natural curls worn out, lifting in the wind. **Footwear:** barefoot (or delicate gold sandals). **Nails:** soft coral.
+- **Hero object:** a giant wooden rope-swing — a broad polished plank seat on long thick ropes, anchored to a huge overhanging tree branch.
+- **Signature (grounded):** leaves and tropical blossom flutter up in the swing's arc, an apex sun-burst flares as she peaks, and valley mist drifts below. Real leaf + light + mist physics.
+- **Journey + light:** bright tropical all the way — green valley launch → golden terraced rice fields → cool waterfall spray → blazing sky apex. *Footing: she rides the swing — hands gripping the ropes, feet braced on the plank, a real pendulum arc (never floating).*
+
+---
+### FRAME 1 — SWING OUT OVER VALLEY
+**Frame angle:** low ¾ front from below-and-ahead (~30°, ground-anchored track), bright valley side-light.
+**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **low ¾ front (~30°)**. · Outfit: white-and-coral ruffle tiered maxi. · Accessories: hibiscus behind ear, gold anklets, hoops. · Eye colour: amber-hazel. · Makeup: sun-kissed glow, coral lip. · Hair: voluminous curls out. · Footwear: barefoot. · Nails: soft coral. · static & neutral, plain blank background.
+**STILL 2 · OBJECT (plain bg):** the giant wooden rope-swing at **low ¾ front** — broad polished plank seat, long thick ropes, branch-anchor. Clean, isolated, plain blank background.
+**STILL 3 · ENVIRONMENT:** a lush green valley edge — a huge overhanging tree, the valley dropping away to jungle and far blue ridges, bright sky, mist below; low ¾-front vantage out over the drop.
+**VIDEO PROMPT:**
+- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
+- *Animation:* MEDIUM low ¾ front, **one continuous track following her swing out over the drop.** [00:00–00:02] she pushes off and swings out from the tree over the green valley edge, skirt and curls streaming back, ropes taut. [00:02–00:04] the signature stirs — leaves and blossom flutter up in her arc, the valley and far ridges opening below; she grins with exhilarated delight, hair flying. [00:04–00:06] she swings on out above terraced fields. Real-time, believable pendulum arc + braced feet + real leaf-flutter; 9:16.
+- *AUDIO (in-frame):* ambient/object — the creak and whoosh of the rope-swing, wind rushing past, leaves fluttering, jungle birds; voice — Aira's exhilarated "woohoo!" and a soaring laugh.
+**→ Cut (match-on-action) to Frame 2 — the arc carries her out above the rice terraces.**
+
+---
+### FRAME 2 — ABOVE RICE TERRACES
+**Frame angle:** high aerial ¾ (~50° down, world-dominant), golden terrace light.
+**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **high aerial ¾**. · Outfit: white-and-coral ruffle maxi. · Accessories: hibiscus, gold anklets, hoops. · Eye colour: amber-hazel. · Makeup: sun-kissed glow, coral lip. · Hair: voluminous curls out. · Footwear: barefoot. · Nails: soft coral. · static & neutral, plain blank background.
+**STILL 2 · OBJECT (plain bg):** the rope-swing at **high aerial ¾** — plank seat and ropes from above. Clean, isolated, plain blank background.
+**STILL 3 · ENVIRONMENT:** glowing terraced rice fields — sculpted green-gold curving terraces catching the sun, water glinting in the paddies, palms and a far village; high aerial ¾ vantage (world dominant).
+**VIDEO PROMPT:**
+- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
+- *Animation:* WIDE high aerial, **one continuous slow track over the terraces as she arcs.** [00:00–00:02] she swings out high over the glowing terraced fields, the curving green-gold steps and glinting paddies far below. [00:02–00:04] she leans into the arc and looks down at the terraces with blissful wonder, blossom drifting in her wake, water flashing below. [00:04–00:06] the arc carries her on toward a misting waterfall. Real-time, believable arc + braced grip + real terrace parallax; 9:16. (Environment-dominant wide.)
+- *AUDIO (in-frame):* ambient/object — the rope-swing whoosh, wind, distant paddy-birds and a far gong; voice — Aira's awed "wow…" and a soft delighted laugh.
+**→ Cut (match-on-action) to Frame 3 — the arc swings her out over a waterfall.**
+
+---
+### FRAME 3 — OVER THE WATERFALL
+**Frame angle:** full profile (true side, parallel track), cool bright waterfall light.
+**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, in **full profile**. · Outfit: white-and-coral ruffle maxi. · Accessories: hibiscus, gold anklets, hoops. · Eye colour: amber-hazel. · Makeup: sun-kissed glow, coral lip. · Hair: voluminous curls out. · Footwear: barefoot. · Nails: soft coral. · static & neutral, plain blank background.
+**STILL 2 · OBJECT (plain bg):** the rope-swing in **full profile** — plank seat, long ropes, full pendulum line. Clean, isolated, plain blank background.
+**STILL 3 · ENVIRONMENT:** a tall tropical waterfall — white water plunging into a misty jade pool, wet ferns and mossy cliffs, a rainbow in the spray, lush canopy; profile vantage across the falls.
+**VIDEO PROMPT:**
+- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
+- *Animation:* MEDIUM profile, **one continuous parallel track at her arc-pace across the falls.** [00:00–00:02] she swings out across the face of the tall waterfall, cool mist drifting over her, the white water plunging beside. [00:02–00:04] she reaches out a hand toward the cool spray, a rainbow flashing in the mist, laughing with bright joy as droplets bead on her skin. [00:04–00:06] the arc lifts her up toward a blazing sky apex. Real-time, believable arc + real waterfall mist; 9:16. (Waterfall + sky share the frame.)
+- *AUDIO (in-frame):* ambient/object — the roar of the waterfall, mist hissing, the rope-swing creak, jungle birds; voice — Aira's delighted "ahh!" and a laugh at the cool spray.
+**→ Cut (match-on-action) to Frame 4 — the arc lifts her to the sky apex.**
+
+---
+### FRAME 4 — SKY APEX (signature · loop)
+**Frame angle:** low-hero ¾ opening to front (~25°, crane pull-back), blazing apex back-light.
+**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **low-hero ¾ (~25°)**. · Outfit: white-and-coral ruffle maxi. · Accessories: hibiscus, gold anklets, hoops. · Eye colour: amber-hazel. · Makeup: sun-kissed glow, coral lip. · Hair: voluminous curls out. · Footwear: barefoot. · Nails: soft coral. · static & neutral, plain blank background.
+**STILL 2 · OBJECT (plain bg):** the rope-swing at **low-hero ¾** — plank seat tilting up at the top of the arc, ropes taut. Clean, isolated, plain blank background.
+**STILL 3 · ENVIRONMENT:** the top of the swing's arc against an open blazing sky — the whole valley, terraces and waterfall spread far below, a sun-burst flaring, clouds and mist drifting; low-hero ¾ vantage with crane reveal.
+**VIDEO PROMPT:**
+- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
+- *Animation:* WIDE low-hero, **one continuous slow crane pull-back at the apex to reveal the whole valley.** [00:00–00:02] the swing lifts her to the very top of its arc against the open sky, the valley spread far below, ropes taut. [00:02–00:04] the signature peaks — an apex sun-burst flares behind her, leaves and blossom hang weightless for a beat and valley mist drifts; she flings her head back with a radiant, blissful, arms-wide laugh. [00:04–00:06] gravity takes her and she begins to swing back down as the camera cranes out over the whole valley — easing toward the launch opening for a loop. Real-time, believable apex + descent + braced grip; 9:16.
+- *AUDIO (in-frame):* ambient/object — a held airy hush at the apex, wind, the rope creak, the far waterfall; voice — Aira's soaring "woohoo!" ringing out across the valley.
+**→ Loops back to Frame 1 (the swing out over the valley).**
+
+**Stills to generate:** 3 per frame × 4 frames = 12. Score = 24s MASTER AUDIO under the diegetic.
+
+═══════════════════════════════════════════════════════════════════════════════
+
+# SC-33 · PALACE CARRIAGE (Horse-Carriage) · 4 shots × 6s
+**Logline:** A golden fairytale ride — down a leafy park lane → through a charming town square → up to grand palace
+gates → into a fountain courtyard. Signature: drifting blossom + warm golden light + doves lifting. Elegant,
+romantic, regal.
+**Arc:** PARK LANE → TOWN SQUARE → PALACE GATES → FOUNTAIN COURTYARD (signature).
+
+## MASTER AUDIO (outside the frames — background music)
+A 24-second custom cinematic score (4 clips × 6s) in self-resolving ~6-second phrases, trimmable at any phrase
+boundary. Built on a graceful waltzing strings-and-harp, a soft horn, a felt piano and a warm sub in a gentle 3/4
+lilt — elegant, romantic, regal. Opens (no fade-in) on a graceful waltz figure. Arc: a leafy-lane open, a charming
+square lull, a grand palace-gate lift, then a serene courtyard resolve for an invisible loop. Laid UNDER the
+diegetic — no spoken line; optional wordless graceful vocal on the courtyard only.
+
+## GLOBAL STYLE LOCKS
+- **Outfit:** a powder-blue lace tea-dress with a fitted bodice and a full midi skirt, a satin sash at the waist, a cropped ivory bolero.
+- **Headwear:** a wide-brim ivory sunhat with a powder-blue ribbon. **Accessories:** short ivory lace gloves, pearl drop earrings, a small beaded purse. **Eye colour:** warm amber-hazel. **Makeup:** soft romantic — luminous skin, a rosy flush, a soft pink lip. **Hair:** old-Hollywood side-swept glossy waves. **Footwear:** ivory low heels. **Nails:** soft pearl-pink.
+- **Hero object:** an open white horse-drawn carriage — a gilded-trim white body, button-tufted seats, large spoked wheels, drawn by a single elegant white horse with a plumed bridle.
+- **Signature (grounded):** soft blossom drifts down, warm golden light gilds everything, and white doves lift and circle as the carriage passes. Real blossom + bird + light physics.
+- **Journey + light:** warm golden afternoon all the way — leafy dappled park lane → charming sunlit town square → grand glowing palace gates → serene golden fountain courtyard. *Footing: she sits as an elegant passenger — graceful seated poise, real carriage sway + horse gait.*
+
+---
+### FRAME 1 — PARK LANE
+**Frame angle:** high aerial ¾ (~50° down, world-dominant), dappled golden afternoon light.
+**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **high aerial ¾**. · Outfit: powder-blue lace tea-dress + satin sash + ivory bolero. · Headwear: wide-brim ivory sunhat, blue ribbon. · Accessories: lace gloves, pearl drops, beaded purse. · Eye colour: amber-hazel. · Makeup: soft romantic, pink lip. · Hair: side-swept Hollywood waves. · Footwear: ivory low heels. · Nails: pearl-pink. · static & neutral, plain blank background.
+**STILL 2 · OBJECT (plain bg):** the open white horse-carriage at **high aerial ¾** — gilded trim, tufted seats, spoked wheels, white horse with plumed bridle. Clean, isolated, plain blank background.
+**STILL 3 · ENVIRONMENT:** a leafy golden park lane — an avenue of blossoming trees, dappled light on the gravel, manicured lawns and topiary, a distant palace; high aerial ¾ vantage (world dominant).
+**VIDEO PROMPT:**
+- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
+- *Animation:* WIDE high aerial establishing, **one continuous slow track following the carriage down the lane.** [00:00–00:02] the white carriage rolls down the leafy golden lane, the white horse stepping high, blossom trees arching overhead, she small and elegant in the open seat. [00:02–00:04] the signature stirs — soft blossom drifts down and golden light gilds the carriage; she lifts a gloved hand to the falling petals with a serene smile. [00:04–00:06] the carriage rolls on toward a charming town square. Real-time, believable horse gait + carriage roll + real blossom; 9:16. (Environment-dominant wide.)
+- *AUDIO (in-frame):* ambient/object — the clip-clop of hooves on gravel, the carriage wheels and creak, birdsong, a soft breeze; voice — Aira's serene contented "ahh" and a soft laugh.
+**→ Cut (match-on-action) to Frame 2 — the carriage turns into the town square.**
+
+---
+### FRAME 2 — TOWN SQUARE
+**Frame angle:** low ¾ front (~30° right, ground-level track-with), charming sunlit light.
+**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **low ¾ front (~30° right)**. · Outfit: powder-blue lace tea-dress + sash + bolero. · Headwear: ivory sunhat, blue ribbon. · Accessories: lace gloves, pearl drops, purse. · Eye colour: amber-hazel. · Makeup: soft romantic, pink lip. · Hair: side-swept waves. · Footwear: ivory heels. · Nails: pearl-pink. · static & neutral, plain blank background.
+**STILL 2 · OBJECT (plain bg):** the white horse-carriage at **low ¾ front** — horse and front of the carriage foremost, gilded trim, plumed bridle. Clean, isolated, plain blank background.
+**STILL 3 · ENVIRONMENT:** a charming sunlit town square — pastel townhouses, a flower market and café tables, a central statue, cobblestones, strolling townsfolk; low ground-level ¾-front vantage.
+**VIDEO PROMPT:**
+- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
+- *Animation:* MEDIUM, **one continuous low ground-level track with the carriage through the square.** [00:00–00:02] the carriage rolls across the charming square, flower stalls and café tables sliding past, the white horse stepping smartly on the cobbles. [00:02–00:04] she gives a graceful little wave to a flower-seller who tosses up a bloom; she catches it with a delighted radiant smile. [00:04–00:06] the carriage turns toward grand palace gates. Real-time, believable horse gait on cobbles + carriage sway; 9:16.
+- *AUDIO (in-frame):* ambient/object — hooves on cobblestones, carriage wheels, market chatter and a café accordion, fountain; voice — Aira's warm "thank you!" and a delighted laugh.
+**→ Cut (match-on-action) to Frame 3 — the carriage approaches the palace gates.**
+
+---
+### FRAME 3 — PALACE GATES
+**Frame angle:** full profile (true side, parallel track), grand glowing golden light.
+**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, in **full profile**. · Outfit: powder-blue lace tea-dress + sash + bolero. · Headwear: ivory sunhat, blue ribbon. · Accessories: lace gloves, pearl drops, purse. · Eye colour: amber-hazel. · Makeup: soft romantic, pink lip. · Hair: side-swept waves. · Footwear: ivory heels. · Nails: pearl-pink. · static & neutral, plain blank background.
+**STILL 2 · OBJECT (plain bg):** the white horse-carriage in **full profile** — full side, white horse, gilded body, spoked wheels. Clean, isolated, plain blank background.
+**STILL 3 · ENVIRONMENT:** grand wrought-iron palace gates — gilded scrollwork and crests, a sweeping gravel drive beyond, manicured gardens, the palace facade glowing gold; profile vantage along the gates.
+**VIDEO PROMPT:**
+- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
+- *Animation:* MEDIUM profile, **one continuous parallel track at the carriage's pace along the gates.** [00:00–00:02] the carriage glides along the grand gilded palace gates, the glowing facade and gardens revealed through the bars. [00:02–00:04] she turns her head to take in the palace with awed delight, blossom drifting, gloved hands clasped, a soft "wow". [00:04–00:06] the gates open and the carriage rolls through toward a fountain courtyard. Real-time, believable carriage motion + real gate parallax; 9:16. (Gates + palace share the frame.)
+- *AUDIO (in-frame):* ambient/object — hooves and wheels, the heavy gates creaking open, doves cooing, a distant fanfare; voice — Aira's awed soft "wow… it's beautiful".
+**→ Cut (match-on-action) to Frame 4 — the carriage enters the fountain courtyard.**
+
+---
+### FRAME 4 — FOUNTAIN COURTYARD (signature · loop)
+**Frame angle:** low-hero ¾ opening to front (~30°, crane pull-back), serene golden courtyard light.
+**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **low-hero ¾ (~30°)**. · Outfit: powder-blue lace tea-dress + sash + bolero. · Headwear: ivory sunhat, blue ribbon. · Accessories: lace gloves, pearl drops, purse. · Eye colour: amber-hazel. · Makeup: soft romantic, pink lip. · Hair: side-swept waves. · Footwear: ivory heels. · Nails: pearl-pink. · static & neutral, plain blank background.
+**STILL 2 · OBJECT (plain bg):** the white horse-carriage at **low-hero ¾** — at rest, gilded and grand, white horse standing proud. Clean, isolated, plain blank background.
+**STILL 3 · ENVIRONMENT:** a serene palace fountain courtyard — a grand tiered fountain, golden statues, flower parterres, the glowing palace facade, doves circling, warm late-gold light; low-hero ¾ vantage with crane reveal.
+**VIDEO PROMPT:**
+- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
+- *Animation:* WIDE low-hero, **one continuous slow crane pull-back to reveal the courtyard.** [00:00–00:02] the carriage rolls to a graceful halt by the grand fountain, the glowing palace rising behind. [00:02–00:04] the signature settles — blossom drifts, golden light gilds the courtyard and white doves lift and circle; she rises gracefully in the seat with a radiant serene smile. [00:04–00:06] the camera cranes back to reveal the whole regal courtyard, fountain and palace around her — easing toward the park-lane opening for a loop. Real-time, believable carriage halt + real doves/blossom; 9:16.
+- *AUDIO (in-frame):* ambient/object — the carriage settling and horse blowing, the fountain splashing, doves' wings, a soft breeze; voice — Aira's awed happy sigh and a soft "like a dream…".
+**→ Loops back to Frame 1 (the park lane).**
+
+**Stills to generate:** 3 per frame × 4 frames = 12. Score = 24s MASTER AUDIO under the diegetic.
+
+═══════════════════════════════════════════════════════════════════════════════
+
+# SC-34 · ISLAND HOPPER (Seaplane) · 4 shots × 6s
+**Logline:** A brilliant tropical flight — a lagoon taxi → a lift over the reef → a bank past sea-cliffs → a
+splashdown island landing. Signature: a spray-fan off the floats + cloud-wisps streaming + reef sun-glints.
+Adventurous, dazzling, joyful. Several exterior "see the plane in the sky" shots.
+**Arc:** EXTERIOR · LAGOON TAXI → LIFT OVER THE REEF → BANK PAST SEA-CLIFFS → ISLAND LANDING (signature).
+
+## MASTER AUDIO (outside the frames — background music)
+A 24-second custom cinematic score (4 clips × 6s) in self-resolving ~6-second phrases, trimmable at any phrase
+boundary. Built on a soaring brass-and-strings adventure theme, a bright piano, light driving percussion and a
+warm sub — adventurous, dazzling, joyful. Opens (no fade-in) on a soaring brass figure. Arc: a building lagoon-taxi
+open, a triumphant lift-off, an exhilarated cliff-bank lift, then a warm splashdown resolve for an invisible loop.
+Laid UNDER the diegetic — no spoken line; optional wordless soaring vocal on the landing only.
+
+## GLOBAL STYLE LOCKS
+- **Outfit:** a tan utility flight jumpsuit (rolled sleeves, belted) under a cropped ivory bomber jacket.
+- **Headwear:** a brown leather aviator cap with round goggles. **Accessories:** a long ivory silk scarf, brown leather gloves, dog-tag pendant. **Eye colour:** warm amber-hazel. **Makeup:** fresh adventurous glow — luminous skin, a warm flush, a soft coral lip. **Hair:** a vintage pin-curl set tucked under the cap, soft waves at the nape. **Footwear:** tan lace-up flight boots. **Nails:** short warm nude.
+- **Hero object:** a vintage cream-and-red seaplane — a polished radial engine, twin pontoon floats, a glass cockpit, red trim and a registration number.
+- **Signature (grounded):** a bright spray-fan kicks off the floats on takeoff and landing, cloud-wisps stream past the wings, and reef sun-glints flash on the water below. Real spray + cloud + light physics.
+- **Journey + light:** brilliant tropical all the way — sparkling lagoon → bright reef from above → dazzling sea-cliffs → glowing island lagoon. *(Exterior shots = camera OFF the plane, she small in the cockpit; cockpit shots = real flight buffet.)*
+
+---
+### FRAME 1 — EXTERIOR · LAGOON TAXI
+**Frame angle:** WIDE high aerial (~45° down, world-dominant), brilliant tropical morning.
+**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, seated **¾ in the open cockpit** (she reads small in the exterior frame). · Outfit: tan flight jumpsuit + cropped ivory bomber. · Headwear: leather aviator cap + round goggles. · Accessories: ivory silk scarf, leather gloves, dog-tag. · Eye colour: amber-hazel. · Makeup: adventurous glow, coral lip. · Hair: pin-curls under cap. · Footwear: tan flight boots. · Nails: warm nude. · static & neutral, plain blank background.
+**STILL 2 · OBJECT (plain bg):** the vintage cream-and-red seaplane at **side ¾** — radial engine, twin floats, glass cockpit, red trim, registration. Clean, isolated, plain blank background.
+**STILL 3 · ENVIRONMENT:** a sparkling turquoise lagoon — clear water over a bright reef, a palm-fringed island, distant sea-cliffs, a brilliant sky; WIDE high aerial vantage (the plane taxis across it, world dominant).
+**VIDEO PROMPT:**
+- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move (she's a small bright figure in the cockpit).
+- *Animation:* WIDE high aerial, **one continuous slow track following the seaplane's taxi across the lagoon.** [00:00–00:02] the cream-and-red seaplane taxis across the sparkling lagoon, a clean wake spreading, the reef glowing below, tiny against the blue. [00:02–00:04] the signature stirs — a bright spray-fan kicks off the floats as it powers up; in the open cockpit her small figure raises a gloved thumbs-up, scarf streaming. [00:04–00:06] the plane accelerates toward open water to lift off. Real-time, believable taxi + real float-spray; 9:16. (Environment-dominant wide.)
+- *AUDIO (in-frame):* ambient/object — the throaty radial engine and prop-wash, water slapping the floats, gulls; voice — (slight distance) Aira's keen "here we go!" carried from the cockpit.
+**→ Cut (match-on-action) to Frame 2 — the plane lifts off over the reef.**
+
+---
+### FRAME 2 — LIFT OVER THE REEF
+**Frame angle:** low ¾ front from the cockpit (~30°, cockpit-level), bright reef back-light.
+**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **low ¾ front (~30°)** in the cockpit. · Outfit: tan flight jumpsuit + ivory bomber. · Headwear: aviator cap + goggles. · Accessories: silk scarf, gloves, dog-tag. · Eye colour: amber-hazel. · Makeup: adventurous glow, coral lip. · Hair: pin-curls under cap. · Footwear: flight boots. · Nails: warm nude. · static & neutral, plain blank background.
+**STILL 2 · OBJECT (plain bg):** the seaplane cockpit detail — the brass-and-glass dash, control yoke, a compass, at **¾**. Clean, isolated, plain blank background.
+**STILL 3 · ENVIRONMENT:** the bright reef seen from just above — turquoise shallows and coral patterns dropping to deep blue, the lagoon shrinking, cloud-wisps; low ¾-front cockpit vantage out the windscreen.
+**VIDEO PROMPT:**
+- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
+- *Animation:* MEDIUM cockpit ¾ front, **one continuous slow push past her shoulder to the reef below as the plane climbs.** [00:00–00:02] the floats break free of the water and the plane lifts, the reef and lagoon dropping away below the windscreen. [00:02–00:04] she grips the yoke and grins at the reef shrinking beneath, cloud-wisps streaming past, reef sun-glints flashing. [00:04–00:06] she banks the plane toward towering sea-cliffs. Real-time, believable lift-off + cockpit buffet; 9:16.
+- *AUDIO (in-frame):* ambient/object — the engine note rising on climb, wind over the cockpit, a creak of the airframe; voice — Aira's exhilarated "woohoo — we're up!" and a bright laugh.
+**→ Cut (match-on-action) to Frame 3 — cut outside as the plane banks past the sea-cliffs.**
+
+---
+### FRAME 3 — EXTERIOR · BANK PAST SEA-CLIFFS
+**Frame angle:** WIDE profile aerial (world-dominant, parallel chase), dazzling cliff light.
+**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, **¾ in the cockpit** (she reads small in the exterior frame). · Outfit: tan flight jumpsuit + ivory bomber. · Headwear: aviator cap + goggles. · Accessories: silk scarf, gloves, dog-tag. · Eye colour: amber-hazel. · Makeup: adventurous glow, coral lip. · Hair: pin-curls under cap. · Footwear: flight boots. · Nails: warm nude. · static & neutral, plain blank background.
+**STILL 2 · OBJECT (plain bg):** the cream-and-red seaplane banking, **dynamic side ¾** — wing dipped, floats, red trim, prop spinning. Clean, isolated, plain blank background.
+**STILL 3 · ENVIRONMENT:** dramatic tropical sea-cliffs — sheer green-topped cliffs plunging to a deep-blue sea, white surf at the base, sea-birds wheeling, a vast bright sky; WIDE profile aerial vantage (the plane banks past them).
+**VIDEO PROMPT:**
+- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move (she flashes by in the cockpit).
+- *Animation:* WIDE aerial, **one continuous parallel chase as the plane banks past the cliffs.** [00:00–00:02] the seaplane banks along the dramatic sea-cliffs, one wing dipped to the deep-blue sea, surf breaking far below. [00:02–00:04] the signature reads — cloud-wisps stream off the wings and sun-glints flash on the sea; her small figure in the cockpit leans into the bank with a thrilled grin, scarf whipping. [00:04–00:06] the plane levels and descends toward a glowing island lagoon. Real-time, believable banking flight + real cloud-streaming; 9:16. (Environment-dominant wide.)
+- *AUDIO (in-frame):* ambient/object — the engine droning through the bank, wind, sea-birds, distant surf; voice — (distant) Aira's joyful whoop carried on the wind.
+**→ Cut (match-on-action) to Frame 4 — the plane splashes down at the island.**
+
+---
+### FRAME 4 — ISLAND LANDING (signature · loop)
+**Frame angle:** low-hero ¾ opening to front (~30°, crane pull-back), glowing island-lagoon light.
+**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **low-hero ¾ (~30°)** stepping onto a float. · Outfit: tan flight jumpsuit + ivory bomber. · Headwear: aviator cap (goggles up). · Accessories: silk scarf, gloves, dog-tag. · Eye colour: amber-hazel. · Makeup: adventurous glow, coral lip. · Hair: pin-curls, soft nape waves. · Footwear: flight boots. · Nails: warm nude. · static & neutral, plain blank background.
+**STILL 2 · OBJECT (plain bg):** the cream-and-red seaplane at rest on the water, **¾ front** — floats settled, prop slowing, red trim glinting. Clean, isolated, plain blank background.
+**STILL 3 · ENVIRONMENT:** a glowing island lagoon landing — calm turquoise water, a white-sand beach with palms and a little jetty, the plane settling in a spreading wake, brilliant low sun; low-hero ¾ vantage with crane reveal.
+**VIDEO PROMPT:**
+- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
+- *Animation:* WIDE low-hero, **one continuous slow crane pull-back as she steps onto the float.** [00:00–00:02] the seaplane splashes down and settles on the glowing lagoon, a bright spray-fan fanning off the floats and a wake spreading. [00:02–00:04] the signature peaks — the spray-fan catches the low sun and cloud-wisps drift overhead; she steps out onto a float, pushes the goggles up and beams to lens with radiant triumph. [00:04–00:06] the camera cranes back to reveal the whole island lagoon, beach and plane around her — easing toward the lagoon-taxi opening for a loop. Real-time, believable splashdown + real float-spray; 9:16.
+- *AUDIO (in-frame):* ambient/object — the splashdown spray and settling water, the engine winding down, gentle lagoon lap, gulls; voice — Aira's triumphant "woohoo — made it!" and a delighted laugh.
+**→ Loops back to Frame 1 (the lagoon taxi).**
+
+**Stills to generate:** 3 per frame × 4 frames = 12 (exterior frames: world+plane lead, she small in the cockpit). Score = 24s MASTER AUDIO under the diegetic.
+
+═══════════════════════════════════════════════════════════════════════════════
+
+# SC-35 · CANOPY FLYER (Zip-Line) · 4 shots × 6s
+**Logline:** A thrilling jungle zip — a treetop launch → flying over a jungle river → past a waterfall → to a
+canopy-deck landing. Signature: a leaf-spray slipstream + light-shafts strobing + drifting seeds. Adventurous,
+exhilarating, playful.
+**Arc:** TREETOP LAUNCH → OVER THE JUNGLE RIVER → PAST THE WATERFALL → CANOPY-DECK LANDING (signature).
+
+## MASTER AUDIO (outside the frames — background music)
+A 24-second custom cinematic score (4 clips × 6s) in self-resolving ~6-second phrases, trimmable at any phrase
+boundary. Built on bright driving strings, a tribal log-drum and shaker groove, a soaring flute and a warm sub —
+adventurous, exhilarating, playful. Opens (no fade-in) on a bright driving figure. Arc: a tense launch open, a
+rushing river-flight lift, a thundering waterfall peak, then a triumphant deck-landing resolve for an invisible
+loop. Laid UNDER the diegetic — no spoken line; optional wordless bright vocal on the landing only.
+
+## GLOBAL STYLE LOCKS
+- **Outfit:** a coral racer-back tank over khaki adventure shorts, with a fitted climbing harness over it.
+- **Headwear:** a khaki safari cap. **Accessories:** the zip-harness webbing and carabiners, ribbed knee socks, a paracord bracelet. **Eye colour:** warm amber-hazel. **Makeup:** sporty fresh glow — luminous skin, a warm flush, a tinted balm lip, SPF sheen. **Hair:** a high bubble ponytail streaming behind. **Footwear:** tan hiking boots. **Nails:** short coral.
+- **Hero object:** a zip-line harness rig — a heavy steel trolley on the cable, a webbing harness, padded handles and carabiners.
+- **Signature (grounded):** a leaf-spray slipstream peels off the canopy in her wake, light-shafts strobe through the trees as she flies, and drifting seeds lift in the air. Real leaf + light + slipstream physics.
+- **Journey + light:** bright lush jungle all the way — high treetop launch → green river canyon → cool waterfall spray → sun-dappled canopy deck. *Footing: she's harnessed and flying — gripping the handles, body streamlined, a real zip-line glide (never floating free).*
+
+---
+### FRAME 1 — TREETOP LAUNCH
+**Frame angle:** low ¾ front (~30° right, platform-level track), bright treetop side-light.
+**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **low ¾ front (~30° right)**. · Outfit: coral racer-back tank + khaki shorts + climbing harness. · Headwear: khaki safari cap. · Accessories: harness webbing + carabiners, knee socks, paracord bracelet. · Eye colour: amber-hazel. · Makeup: sporty glow, balm lip. · Hair: high bubble ponytail. · Footwear: tan hiking boots. · Nails: short coral. · static & neutral, plain blank background.
+**STILL 2 · OBJECT (plain bg):** the zip-line harness rig at **low ¾ front** — steel trolley on the cable, webbing harness, padded handles, carabiners. Clean, isolated, plain blank background.
+**STILL 3 · ENVIRONMENT:** a high treetop launch platform — a wooden deck lashed to a giant tree, the zip-cable stretching out over a vast green canopy, far ridges, bright sky; low ¾-front platform vantage.
+**VIDEO PROMPT:**
+- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
+- *Animation:* MEDIUM low ¾ front, **one continuous track as she launches off the platform.** [00:00–00:02] she clips in at the high treetop platform, grips the handles, and steps off into the launch, the cable stretching out over the canopy. [00:02–00:04] the signature stirs — a leaf-spray slipstream peels off the trees and seeds lift as she accelerates; she whoops with a thrilled wide grin, ponytail streaming. [00:04–00:06] she zips out fast over a green river canyon. Real-time, believable zip-launch + harnessed body + real slipstream; 9:16.
+- *AUDIO (in-frame):* ambient/object — the rising zing of the trolley on the cable, wind rushing, leaves whipping, jungle birds; voice — Aira's exhilarated "woohoo!" and a thrilled laugh.
+**→ Cut (match-on-action) to Frame 2 — she flies out over the jungle river.**
+
+---
+### FRAME 2 — OVER THE JUNGLE RIVER
+**Frame angle:** high aerial ¾ (~50° down, world-dominant), bright river-canyon light.
+**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **high aerial ¾**. · Outfit: coral tank + khaki shorts + harness. · Headwear: safari cap. · Accessories: harness + carabiners, knee socks, bracelet. · Eye colour: amber-hazel. · Makeup: sporty glow, balm lip. · Hair: high bubble ponytail. · Footwear: hiking boots. · Nails: short coral. · static & neutral, plain blank background.
+**STILL 2 · OBJECT (plain bg):** the trolley rig at **high aerial ¾** — trolley on the cable, harness lines, handles. Clean, isolated, plain blank background.
+**STILL 3 · ENVIRONMENT:** a green jungle river canyon from above — an emerald river winding far below, dense canopy walls, mist rising, light-shafts piercing the trees; high aerial ¾ vantage (world dominant).
+**VIDEO PROMPT:**
+- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
+- *Animation:* WIDE high aerial, **one continuous slow track flying with her over the canyon.** [00:00–00:02] she zips out fast over the green river canyon, the emerald river winding far below, canopy walls rushing past. [00:02–00:04] she spreads one arm like a wing and looks down at the river with exhilarated awe, light-shafts strobing over her, seeds drifting. [00:04–00:06] she flies on toward a thundering waterfall. Real-time, believable zip-glide + harnessed body + real canopy parallax; 9:16. (Environment-dominant wide.)
+- *AUDIO (in-frame):* ambient/object — the steady zing of the cable, wind, the river far below, birds and insects; voice — Aira's awed "woah!" and a soaring laugh.
+**→ Cut (match-on-action) to Frame 3 — she flies past a thundering waterfall.**
+
+---
+### FRAME 3 — PAST THE WATERFALL
+**Frame angle:** full profile (true side, parallel track), cool bright waterfall light.
+**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, in **full profile**. · Outfit: coral tank + khaki shorts + harness. · Headwear: safari cap. · Accessories: harness + carabiners, knee socks, bracelet. · Eye colour: amber-hazel. · Makeup: sporty glow, balm lip. · Hair: high bubble ponytail. · Footwear: hiking boots. · Nails: short coral. · static & neutral, plain blank background.
+**STILL 2 · OBJECT (plain bg):** the trolley rig in **full profile** — trolley, cable, harness lines side-on. Clean, isolated, plain blank background.
+**STILL 3 · ENVIRONMENT:** a thundering jungle waterfall — white water crashing into a misty pool, wet black cliffs and ferns, a rainbow in the spray, lush canopy; profile vantage across the falls.
+**VIDEO PROMPT:**
+- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
+- *Animation:* MEDIUM profile, **one continuous parallel track at her speed across the falls.** [00:00–00:02] she zips across the face of the thundering waterfall, cool mist blasting over her, white water crashing beside. [00:02–00:04] she lets out a delighted shriek-laugh as the cool spray hits, a rainbow flashing in the mist, droplets beading on her skin. [00:04–00:06] she flies on toward a canopy-deck landing. Real-time, believable zip-glide + real waterfall mist; 9:16. (Waterfall + canopy share the frame.)
+- *AUDIO (in-frame):* ambient/object — the roar of the waterfall, the cable zing, mist hissing, jungle birds; voice — Aira's delighted shriek-laugh and a bright "yeahh!".
+**→ Cut (match-on-action) to Frame 4 — she brakes onto the canopy deck.**
+
+---
+### FRAME 4 — CANOPY-DECK LANDING (signature · loop)
+**Frame angle:** low-hero ¾ opening to front (~30°, crane pull-back), sun-dappled canopy light.
+**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **low-hero ¾ (~30°)** landing on the deck. · Outfit: coral tank + khaki shorts + harness. · Headwear: safari cap. · Accessories: harness + carabiners, knee socks, bracelet. · Eye colour: amber-hazel. · Makeup: sporty glow, balm lip. · Hair: high bubble ponytail. · Footwear: hiking boots. · Nails: short coral. · static & neutral, plain blank background.
+**STILL 2 · OBJECT (plain bg):** the trolley rig at **low-hero ¾** — trolley braked on the cable, harness, handles. Clean, isolated, plain blank background.
+**STILL 3 · ENVIRONMENT:** a sun-dappled canopy-deck landing — a wooden platform high in a giant tree, rope rails and prayer-flags, the vast green canopy and far ridges beyond, light-shafts pouring down; low-hero ¾ vantage with crane reveal.
+**VIDEO PROMPT:**
+- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
+- *Animation:* WIDE low-hero, **one continuous slow crane pull-back as she lands on the deck.** [00:00–00:02] she brakes and touches down on the high canopy deck, boots landing sure, the trolley clunking to a stop. [00:02–00:04] the signature settles — a last leaf-spray drifts in and seeds float in the light-shafts; she unclips, throws her arms up and beams to lens with radiant triumph. [00:04–00:06] the camera cranes back to reveal the whole canopy deck and vast green jungle around her — easing toward the treetop-launch opening for a loop. Real-time, believable braked landing + real leaf-drift; 9:16.
+- *AUDIO (in-frame):* ambient/object — the trolley braking and clunking, boots on wood, prayer-flags snapping, birds; voice — Aira's triumphant "woohoo — that was incredible!" and a breathless laugh.
+**→ Loops back to Frame 1 (the treetop launch).**
+
+**Stills to generate:** 3 per frame × 4 frames = 12. Score = 24s MASTER AUDIO under the diegetic.
