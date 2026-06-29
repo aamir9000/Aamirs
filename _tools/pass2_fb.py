@@ -1740,6 +1740,163 @@ CINE[14] = {
 }
 
 
+# CONCEPT 15 — ICE PALACE MUSIC BOX (spin-freeze crystal · SILENT · ballerina · real frost physics)
+CINE[15] = {
+ 1: {
+  "posture": "GAZE calm and dreamy, lifting to the gears; HEAD level, tipping up to the turning gears; SHOULDERS soft and lifted; RIGHT ARM raised to the wind-key, the RIGHT HAND on the giant golden key, RIGHT FINGERS wrapped; LEFT ARM lowered steadying the slipper, the LEFT HAND at the crystal-heel, LEFT FINGERS articulate; TORSO tall and graceful at the turntable centre; WAIST & HIPS squared with a soft counter-tilt; RIGHT LEG weight-bearing planted, LEFT LEG (working) the foot slipping into the crystal-heel slipper; FEET & WEIGHT on the planted right foot as the left slides into the slipper; HAIR sleek with snow-glitter falling — graceful and alive, never stiff (living stillness).",
+  "hands": "RIGHT HAND on the wind-key, RIGHT FINGERS wrapped around it; LEFT HAND steadying the crystal-heel slipper, LEFT FINGERS articulate at the heel; short nails in frosted pink, neat, no white-knuckle tension.",
+  "framing": "She stands at the centre of the mirrored turntable, weight on the planted right foot as the left slips into the crystal-heel slipper, right hand on the golden wind-key and left steadying the heel, small under the gilded gears.",
+  "b1": "Wide establishing of the ice-palace music box: she is already standing at the centre of the mirrored turntable slipping on a crystal-heel slipper — weight on the planted foot, left hand at the heel — as a slow drift-in and crane-down move toward her, gilded gears turning overhead; gaze calm and dreamy.",
+  "b2": "The crane settles as she lifts the giant golden wind-key in her right hand, snow-glitter falling around her; eyes warming with anticipation.",
+  "b3": "She sets the key to wind and the gears engage with a glint, weight settling even, gaze rising to the slow-turning gears above.",
+ },
+ 2: {
+  "posture": "GAZE (implied) to the key; the wind read through both turning hands; RIGHT ARM and LEFT ARM both turning the giant golden wind-key, RIGHT and LEFT FINGERS articulate gripping and turning; TORSO implied tall above in a deliberate winding turn; WAIST & HIPS implied square; FEET & WEIGHT settled even as she winds — a crisp fluid winding gesture, gears engaging with a glint.",
+  "hands": "BOTH HANDS turning the giant golden wind-key, RIGHT and LEFT FINGERS articulate gripping and turning it; frosted-pink nails, neat, no white-knuckle tension.",
+  "framing": "A macro on both hands turning the giant golden wind-key with articulate fingers in a deliberate winding turn, gears engaging with a glint, the body implied tall above.",
+  "b1": "Extreme macro: her hands are already gripping the giant golden wind-key as a slow push closes in, gears catching gold glints behind.",
+  "b2": "She turns the key with both hands and the gears engage, teeth meshing with a frosted shimmer.",
+  "b3": "A final wind-click lands as the mirrored turntable begins to spin beneath her.",
+ },
+ 3: {
+  "posture": "GAZE lifting with the turn; HEAD level in profile, lifting; SHOULDERS lifting into the figurine port-de-bras; RIGHT ARM and LEFT ARM lifting into a graceful figurine port-de-bras, RIGHT and LEFT FINGERS elegant and tapered; TORSO lengthening upright as she rises onto her toes; WAIST & HIPS lifting up, lengthening; RIGHT LEG rising onto the toe (relevé), LEFT LEG following onto the toe; FEET rising onto the toes as the turntable spins her; WEIGHT lifting up onto the toes; HAIR and tulle drifting with the turn — elegant ballerina momentum, never stiff.",
+  "hands": "BOTH ARMS lifting into a graceful figurine port-de-bras, RIGHT and LEFT FINGERS elegant and tapered; frosted-pink nails, neat, no white-knuckle tension.",
+  "framing": "In profile she rises onto her toes like a music-box figurine as the turntable begins to spin, both arms lifting into a graceful port-de-bras and the spine lengthening, tulle drifting.",
+  "b1": "Profile medium: she is already rising onto her toes like a music-box figurine as the turntable begins to spin her, both arms lifting, and a slow arc swings from profile toward three-quarter; tulle drifting, gaze lifting.",
+  "b2": "Her arms lift into the figurine port-de-bras as the turntable spins, the arc easing round; a serene dreamy calm in her eyes.",
+  "b3": "She begins the spin into the crystallise, rising taller on her toes, gaze sweeping with the turn, lips parting softly.",
+ },
+ 4: {
+  "posture": "GAZE bright with the turn then widening in awe; HEAD level, sweeping with the spin; SHOULDERS open and lifted in the figurine line; RIGHT ARM and LEFT ARM lifting like a figurine, RIGHT and LEFT FINGERS soft and tapered; TORSO long and lifted at the spin apex; WAIST & HIPS lengthened, turning; RIGHT LEG poised high on the toe, LEFT LEG on the toe in the turn; FEET on the toes at the spin apex; WEIGHT poised up on the toes in the turn; HAIR and tulle drifting out — poised in the turn, the instant before the crystallise.",
+  "hands": "BOTH ARMS lifting like a figurine, RIGHT and LEFT FINGERS soft and tapered; frosted-pink nails, neat cuticles, no white-knuckle tension.",
+  "framing": "At the spin apex she is poised high on her toes like a music-box figurine in her pale-blue gown, both arms lifted and the body long, tulle drifting as the ice palace turns — the clean Look A the crystallise opens on.",
+  "b1": "Cut to a front-on full/wide hero at a HELD angle (Veo first frame = the pale-blue gown Look A still): already in motion, she reaching the spin apex on her toes like a music-box figurine, arms lifted, as a gentle push-with eases in (the camera holds its angle while she spins) — the pale-blue gown fully intact, the crystallise NOT yet begun, the ice palace turning behind; gaze bright with the turn.",
+  "b2": "The crystallise BEGINS here, mid-clip: frost races smoothly across the gown and crystallises it into the frosted couture of frozen light exactly where it passes as she spins on her toes — believable real frost-and-ice physics, real crystal growth and snow-glitter on true arcs (no cheap sparkles), the palace grand behind, the camera angle held; eyes widening in dreamy awe.",
+  "b3": "The crystallise completes and the look settles smoothly and fully into the frosted crystal gown of Frame 5's still (Veo's LAST frame), curls and snow-glitter fanning — a radiant awed smile landing, no last-second snap.",
+ },
+ 5: {
+  "posture": "GAZE ahead then rotating back to lens; HEAD turning back over the shoulder for the glance; SHOULDERS rotating, easing down from the figurine lift; RIGHT ARM trailing frost-light, the RIGHT HAND open with RIGHT FINGERS splayed in the train; LEFT ARM settling, the LEFT HAND easing down, LEFT FINGERS soft; TORSO slowing from the spin in a long line, rotating back; WAIST & HIPS easing down out of the relevé; RIGHT LEG lowering from the toe, LEFT LEG settling flat; FEET easing down from the toes as she slows; WEIGHT settling back onto the feet; HAIR and frost-light trailing — fluid counter-motion, alive.",
+  "hands": "RIGHT HAND trailing frost-light, RIGHT FINGERS splayed in the train; LEFT HAND settling, LEFT FINGERS soft; frosted-pink nails, neat, no white-knuckle tension.",
+  "framing": "She slows from the spin in the frosted gown, right hand trailing frost-light and left settling, the torso rotating back over the shoulder for a glance to lens as the frost-train streams and the box winds down.",
+  "b1": "Three-quarter back over-shoulder medium: she is already slowing from the spin in the frosted gown — right hand trailing frost-light, settling from the toes — as a tracking arc trails her, the frost-train streaming and the box winding down; gaze ahead.",
+  "b2": "The arc catches her as she rotates her torso and glances back to lens over the shoulder, gear-glints warm in her eyes, a soft serene smile.",
+  "b3": "She faces forward again as the turntable winds down, weight settling onto her feet, frost-light trailing, gaze settling front.",
+ },
+ 6: {
+  "posture": "GAZE lowering to the mirror floor; HEAD turning back to centre; SHOULDERS softening to the entry set; RIGHT ARM returning to the wind-key, the RIGHT HAND toward it with RIGHT FINGERS wrapping; LEFT ARM steadying the slipper, the LEFT HAND at the heel, LEFT FINGERS articulate — echoing Frame 1; TORSO settling back tall at the turntable centre; WAIST & HIPS squaring with a soft counter-tilt; RIGHT LEG planting, LEFT LEG settling to the slipper; FEET & WEIGHT settling onto the centre footing; HAIR sleek as the frost-gown softens to the pale-blue gown.",
+  "hands": "RIGHT HAND returning to the wind-key, RIGHT FINGERS wrapping it; LEFT HAND steadying the slipper, LEFT FINGERS articulate — echoing Frame 1; frosted-pink nails, neat, no white-knuckle tension.",
+  "framing": "She settles back to the turntable centre, weight settling onto the centre footing with the right hand returning to the wind-key and left steadying the slipper as the frost-gown softens to the pale-blue gown, reasserting the Frame-1 stance for a seamless loop.",
+  "b1": "Wide matching Frame 1: a slow drift-out and crane-up is already reversing the opening move as she settles back to the turntable centre, the right hand returning to the wind-key; gaze lowering to the mirror floor.",
+  "b2": "The drift continues as the frost-gown dissolves back into the pale-blue velvet-and-tulle gown and the wind-key returns to her hand; a soft dreamy calm returning.",
+  "b3": "She settles into the exact centre stance of Frame 1, weight settled, eyes calm under the turning gears — a seamless loop seam.",
+ },
+}
+
+# CONCEPT 16 — BOTANICAL GLASSHOUSE SPELL (plant-growth bloom · SPOKEN F5 · walking · real plant physics)
+CINE[16] = {
+ 1: {
+  "posture": "GAZE scanning the dappled greenery with delight; HEAD level, sweeping the aisle; SHOULDERS open and easy; RIGHT ARM cradling the seed-pot, the RIGHT HAND around it, RIGHT FINGERS supporting; LEFT ARM reaching to a fern, the LEFT HAND at the frond, LEFT FINGERS articulate; TORSO tall and easy walking onto the path; WAIST & HIPS squared with a soft counter-tilt; RIGHT LEG weight-bearing planted, LEFT LEG (working) the foot slipping into a garden flat; FEET & WEIGHT on the planted right foot as the left slides into the flat; HAIR soft in the dappled sun — graceful and alive, never stiff (living stillness).",
+  "hands": "RIGHT HAND cradling the seed-pot, RIGHT FINGERS supporting it; LEFT HAND at a fern frond, LEFT FINGERS articulate; short nails in soft rose, neat, no white-knuckle tension.",
+  "framing": "She walks onto the mossy glasshouse path, weight on the planted right foot as the left slips into a garden flat, right hand cradling the seed-pot and left at a fern, ferns and climbing roses arching overhead.",
+  "b1": "Wide establishing down the glasshouse aisle: she is already walking onto the mossy path — weight on the planted foot, left hand at a fern, cradling the seed-pot — as a slow glide-in moves toward her, ferns and climbing roses arching overhead; eyes scanning the dappled greenery with delight.",
+  "b2": "The glide carries closer as she settles the garden flat and steadies the seed-pot in both hands, dappled sun crossing her; a fresh happy calm in her gaze.",
+  "b3": "She steps toward the soil bed, weight rolling forward, eyes settling on the rich dark earth with gentle anticipation.",
+ },
+ 2: {
+  "posture": "GAZE (implied) to the soil; the press read through the working fingers; RIGHT ARM lowered, the RIGHT HAND pressing the seed into the soil, RIGHT FINGERS articulate at the press; LEFT ARM cupping soil, the LEFT HAND beneath, LEFT FINGERS cupping the earth; TORSO implied bending gently above; WAIST & HIPS implied settled in the bend; WEIGHT settled even — a tender deliberate press, a sprout breaking the surface.",
+  "hands": "RIGHT FINGERS pressing the seed into the rich dark soil, articulate at the press; LEFT HAND cupping soil beneath, LEFT FINGERS cupping the earth; soft-rose nails, neat, no white-knuckle tension.",
+  "framing": "A macro on her fingers pressing a seed into rich dark soil with the other hand cupping the earth, a sprout breaking the surface, the body implied bending gently above.",
+  "b1": "Extreme macro: her fingers are already pressing a seed into rich dark soil as a slow push closes in, crumbs of earth shifting.",
+  "b2": "She pats the soil with articulate fingers and a green sprout breaks the surface, unfurling toward the light.",
+  "b3": "The sprout surges upward as the bloom triggers, tendrils racing out from where she touched.",
+ },
+ 3: {
+  "posture": "GAZE following the racing greenery; HEAD level in profile, lifting; SHOULDERS lifting as she rises; RIGHT ARM lifting as a vine curls around the wrist, the RIGHT HAND open with RIGHT FINGERS elegant; LEFT ARM easing out, the LEFT HAND open, LEFT FINGERS soft; TORSO lengthening upright as she rises; WAIST & HIPS lifting up, lengthening; RIGHT LEG planting to push up, LEFT LEG following as she rises; FEET pressing to rise, weight transferring up; WEIGHT lifting up through the rise; HAIR stirring as vines climb — graceful upward momentum, never stiff.",
+  "hands": "RIGHT HAND lifting as a vine curls around the wrist, RIGHT FINGERS elegant; LEFT HAND easing open, LEFT FINGERS soft; soft-rose nails, neat, no white-knuckle tension.",
+  "framing": "In profile she rises as vines climb around her, the right hand lifting as a vine curls her wrist and the left easing open, the spine lengthening and weight transferring up, blossoms opening.",
+  "b1": "Profile medium: she is already rising as the first vines climb around her, her right hand lifting, and a slow arc swings from profile toward three-quarter, weight transferring up; gaze following the racing greenery.",
+  "b2": "Blossoms open and a vine curls around her wrist where she gestures, the arc easing round; eyes brightening in enchanted wonder.",
+  "b3": "She begins the bloom-spin into the forming gown, weight settling onto her feet, gaze sweeping with the turn, a delighted breath.",
+ },
+ 4: {
+  "posture": "GAZE bright on the climbing green; HEAD level, chin lifting as the gown weaves; SHOULDERS open as both arms begin to open; RIGHT ARM just lifting from the pressed seed, the RIGHT HAND soft with RIGHT FINGERS relaxed; LEFT ARM beginning to open, the LEFT HAND soft, LEFT FINGERS relaxed; TORSO rising tall at the glasshouse centre; WAIST & HIPS settling square; RIGHT LEG and LEFT LEG planted even; FEET grounded even on the moss; WEIGHT settling even as she rises — poised, the instant before the bloom.",
+  "hands": "BOTH HANDS soft, the right just lifting from the pressed seed in the soil, RIGHT and LEFT FINGERS relaxed; soft-rose nails, neat cuticles, no white-knuckle tension.",
+  "framing": "She rises at the mossy glasshouse centre in her sage-linen set, weight settling even and arms beginning to open, the first vines just climbing at her feet and blossoms arching overhead — the clean Look A the bloom opens on.",
+  "b1": "Cut to a front-on full/wide hero at a HELD angle (Veo first frame = the sage-linen Look A still): already in motion, a gentle push-with easing in as the first vines climb at her feet and her arms begin to open — the sage-linen set fully intact, the gown NOT yet woven, the glasshouse lush behind; gaze bright on the climbing green.",
+  "b2": "The bloom BEGINS here, mid-clip: vines and blossoms rush smoothly up and weave the living floral couture gown around her exactly where they climb as her arms open — believable real plant-growth, real botanical climb and petal-open on true arcs (no cheap sparkles), the glasshouse lush behind, the camera angle held as she turns; eyes widening in radiant awe.",
+  "b3": "The bloom completes and the look settles smoothly and fully into the living floral gown of Frame 5's still (Veo's LAST frame), petals flung on real arcs — a radiant awed smile landing, no last-second snap.",
+ },
+ 5: {
+  "posture": "GAZE warm and fresh, flicking across the blossoms then to lens; HEAD level, turning to camera for the line; SHOULDERS open and relaxed; RIGHT ARM resting at the gown, the RIGHT HAND soft on the floral skirt, RIGHT FINGERS light; LEFT ARM gesturing to the blooming garden, the LEFT HAND open, LEFT FINGERS softly spread; TORSO tall and grounded in a soft contrapposto; WAIST & HIPS in a gentle counter-tilt, weight eased onto the back leg; RIGHT LEG and LEFT LEG grounded with weight on the back leg; FEET grounded even on the moss; HAIR soft with petals — radiant and relaxed.",
+  "hands": "RIGHT HAND resting at the gown, RIGHT FINGERS light on the floral skirt; LEFT HAND gesturing to the blooming garden, LEFT FINGERS softly spread; soft-rose nails, neat, no white-knuckle tension.",
+  "framing": "She settles tall and grounded in the living floral gown amid the blooming glasshouse, soft contrapposto with the right hand at the gown and the left gesturing to the garden, shoulders open as she turns to lens for the line.",
+  "b1": "Three-quarter front cowboy/full: she is already settling into the floral gown amid the blooming glasshouse, weight easing onto the back leg, as a slow push eases toward three-quarter front; gaze warm and fresh.",
+  "b2": "She gestures lightly with her left hand to the blooming garden around her, eyes flicking across the opening blossoms with bright pride, the right resting at the gown.",
+  "b3": "She turns to lens and delivers \u201cplant a little magic, and watch it bloom.\u201d with a radiant smile, cheeks lifting in gentle delight.",
+ },
+ 6: {
+  "posture": "GAZE sweeping the greenery; HEAD turning back down the aisle; SHOULDERS easing to the entry set; RIGHT ARM returning to cradle the seed-pot, the RIGHT HAND around it, RIGHT FINGERS supporting — echoing Frame 1; LEFT ARM easing to a fern, the LEFT HAND at the frond, LEFT FINGERS articulate; TORSO rotating back into the Frame-1 stance; WAIST & HIPS squaring with a soft counter-tilt; RIGHT LEG and LEFT LEG easing back to the entry stance; FEET settling onto the entry footing; HAIR soft as the floral gown softens to the sage-linen set.",
+  "hands": "RIGHT HAND returning to cradle the seed-pot, RIGHT FINGERS supporting it — echoing Frame 1; LEFT HAND at a fern, LEFT FINGERS articulate; soft-rose nails, neat, no white-knuckle tension.",
+  "framing": "She turns back down the aisle, weight settling into the Frame-1 stance, right hand cradling the seed-pot and left at a fern as the floral gown softens to the sage-linen set, for a seamless loop.",
+  "b1": "Wide matching Frame 1: a slow glide-out down the aisle is already reversing the opening glide-in as she turns back, the seed-pot returning to her hands; gaze sweeping the greenery.",
+  "b2": "The glide continues as the floral gown softens back into the sage-linen set and the seed-pot returns to her hand; a fresh content smile returning.",
+  "b3": "She settles into the exact stance of Frame 1 on the mossy path, weight settled, eyes soft on the arching ferns — a seamless loop seam.",
+ },
+}
+
+# CONCEPT 17 — CINEMATIC KITCHEN ALCHEMY (apron-to-couture flare · SPOKEN F5 · walking · real kitchen physics)
+CINE[17] = {
+ 1: {
+  "posture": "GAZE scanning the warm range with lively focus; HEAD level, sweeping the kitchen; SHOULDERS square and easy; RIGHT ARM on the pan handle, the RIGHT HAND gripping it, RIGHT FINGERS wrapped; LEFT ARM tying the apron, the LEFT HAND at the apron string, LEFT FINGERS articulate; TORSO tall and lively at the marble island; WAIST & HIPS squared with a soft counter-tilt; RIGHT LEG weight-bearing planted, LEFT LEG (working) the foot slipping into a clog at the prep step; FEET & WEIGHT on the planted right foot as the left slides into the clog; HAIR sleek under the pendant light — lively and alive, never stiff (living stillness).",
+  "hands": "RIGHT HAND on the copper pan handle, RIGHT FINGERS wrapped; LEFT HAND tying the wrap-apron string, LEFT FINGERS articulate; short nails in warm nude, neat, no white-knuckle tension.",
+  "framing": "She steps to the marble island, weight on the planted right foot as the left slips into a clog, right hand on the pan handle and left tying the apron, hanging copper pans gleaming overhead.",
+  "b1": "Wide establishing down the copper kitchen: she is already stepping to the marble island — weight on the planted foot, left hand tying the apron — as a slow glide-in moves toward her, hanging copper pans gleaming overhead; eyes scanning the warm range with lively focus.",
+  "b2": "The glide carries closer as she settles the clog and finishes tying the wrap-apron, pendant light warming her; a confident easy set to her mouth.",
+  "b3": "She lifts the copper pan toward the flaming range in her right hand, weight rolling forward, eyes catching the blue flame, anticipation rising.",
+ },
+ 2: {
+  "posture": "GAZE (implied) to the pan; the toss read through the flicking wrist; RIGHT ARM extended over the flame, the RIGHT HAND flicking the pan handle, RIGHT FINGERS articulate on the toss; LEFT ARM implied steadying; TORSO implied tall above in a deliberate wrist-flick; WAIST & HIPS implied square; WEIGHT settled even as she tosses — a crisp fluid wrist-flick, spices and a curl of flame arcing up.",
+  "hands": "RIGHT HAND flicking the copper pan handle, RIGHT FINGERS articulate on the toss; warm-nude nails, neat, no white-knuckle tension.",
+  "framing": "A macro on the copper pan as a wrist-flick toss sends spices and a curl of flame into the air, the hand articulate on the handle, flour-dust catching light, the body implied tall above.",
+  "b1": "Extreme macro on the copper pan: her wrist is already setting the pan over the flame as a slow push closes in, flour-dust catching the light.",
+  "b2": "She flicks the toss and spices arc upward with a curl of blue flame, the pan sweeping under the articulate hand.",
+  "b3": "The swirl of flour, steam and spice-light rises as the flare triggers, embers tumbling.",
+ },
+ 3: {
+  "posture": "GAZE following the rising swirl; HEAD level in profile, lifting; SHOULDERS lifting as she rises; RIGHT ARM lifting as the swirl wraps the wrist, the RIGHT HAND open with RIGHT FINGERS elegant; LEFT ARM easing out, the LEFT HAND open, LEFT FINGERS soft; TORSO lengthening upright as she rises; WAIST & HIPS lifting up, lengthening; RIGHT LEG planting to push up, LEFT LEG following as she rises; FEET pressing to rise, weight transferring up; WEIGHT lifting up through the rise; HAIR stirring as the swirl wraps — graceful upward momentum, never stiff.",
+  "hands": "RIGHT HAND lifting as the spice-light swirl wraps the wrist, RIGHT FINGERS elegant; LEFT HAND easing open, LEFT FINGERS soft; warm-nude nails, neat, no white-knuckle tension.",
+  "framing": "In profile she rises as the swirl of flour, steam and spice-light begins to wrap her, the right hand lifting as a ribbon of spice-light curls her wrist and the left easing open, the apron beginning to re-plate into silk.",
+  "b1": "Profile medium: she is already rising as the swirl of flour, steam and spice-light begins to wrap her, her right hand lifting, and a slow arc swings from profile toward three-quarter, weight transferring up; gaze following the rising swirl.",
+  "b2": "The apron begins to re-plate into silk and a ribbon of spice-light curls her wrist where she gestures, the arc easing round; eyes brightening in warm wonder.",
+  "b3": "She begins the flourish-spin into the forming gown, weight settling onto her feet, gaze sweeping with the turn, a delighted breath.",
+ },
+ 4: {
+  "posture": "GAZE bright with the rising swirl; HEAD level, chin lifting as the gown re-plates; SHOULDERS open as both arms ease back; RIGHT ARM easing back from the copper pan, the RIGHT HAND soft with RIGHT FINGERS relaxed; LEFT ARM beginning to open, the LEFT HAND soft, LEFT FINGERS relaxed; TORSO rising tall at the marble island; WAIST & HIPS settling square; RIGHT LEG and LEFT LEG planted even; FEET grounded even at the island; WEIGHT settling even as she rises — poised, the instant before the flare.",
+  "hands": "BOTH HANDS easing back from the copper pan, RIGHT and LEFT FINGERS relaxed; warm-nude nails, neat cuticles, no white-knuckle tension.",
+  "framing": "She rises at the marble island in her cream chef's set, weight settling even and arms easing back from the pan, the first swirl of flour, steam and spice-light just rising around her, copper pans gleaming overhead — the clean Look A the flare opens on.",
+  "b1": "Cut to a front-on full/wide hero at a HELD angle (Veo first frame = the cream chef's set Look A still): already in motion, a gentle push-with easing in as the first swirl of flour, steam and spice-light rises around her and her arms ease back from the pan — the chef's set fully intact, the gown NOT yet re-plated, the copper kitchen warm behind; gaze bright with the rising swirl.",
+  "b2": "The flare BEGINS here, mid-clip: the rising swirl of flour, steam and spice-light re-plates her apron smoothly into the flowing saffron-and-cream couture gown exactly where it wraps as her arms open — believable real kitchen physics, real flour-dust drift, steam and flame-curl on true arcs (no cheap sparkles), the warm kitchen behind, the camera angle held as she turns; eyes widening in radiant awe.",
+  "b3": "The flare completes and the look settles smoothly and fully into the saffron-and-cream couture gown of Frame 5's still (Veo's LAST frame), spice-light flung on real arcs — a radiant awed smile landing, no last-second snap.",
+ },
+ 5: {
+  "posture": "GAZE warm and assured, flicking across the pans then to lens; HEAD level, turning to camera for the line; SHOULDERS open and relaxed; RIGHT ARM resting at the gown, the RIGHT HAND soft on the couture skirt, RIGHT FINGERS light; LEFT ARM gesturing to the warm kitchen in a confident flourish, the LEFT HAND open, LEFT FINGERS softly spread; TORSO tall and grounded in a soft contrapposto; WAIST & HIPS in a gentle counter-tilt, weight eased onto the back leg; RIGHT LEG and LEFT LEG grounded with weight on the back leg; FEET grounded even; HAIR sleek and warm — radiant and relaxed.",
+  "hands": "RIGHT HAND resting at the gown, RIGHT FINGERS light on the couture skirt; LEFT HAND gesturing to the warm kitchen in a confident flourish, LEFT FINGERS softly spread; warm-nude nails, neat, no white-knuckle tension.",
+  "framing": "She settles tall and grounded in the saffron-and-cream couture gown at the marble island, soft contrapposto with the right hand at the gown and the left gesturing to the kitchen in a flourish, shoulders open as she turns to lens for the line.",
+  "b1": "Three-quarter front cowboy/full: she is already settling into the couture gown at the marble island, weight easing onto the back leg, as a slow push eases toward three-quarter front; gaze warm and assured.",
+  "b2": "She gestures with a confident flourish of her left hand to the warm copper kitchen, eyes flicking across the gleaming pans with bright pride, the right resting at the gown.",
+  "b3": "She turns to lens and delivers \u201ca little heat, and everything transforms.\u201d with a radiant smile, cheeks lifting in lively delight.",
+ },
+ 6: {
+  "posture": "GAZE sweeping the copper; HEAD turning back to the island; SHOULDERS easing to the entry set; RIGHT ARM returning to the pan handle, the RIGHT HAND gripping it, RIGHT FINGERS wrapped — echoing Frame 1; LEFT ARM easing to the apron, the LEFT HAND at the string, LEFT FINGERS articulate; TORSO rotating back into the Frame-1 stance; WAIST & HIPS squaring with a soft counter-tilt; RIGHT LEG and LEFT LEG easing back to the entry stance; FEET settling onto the entry footing; HAIR sleek as the couture gown softens to the cream chef's set.",
+  "hands": "RIGHT HAND returning to the copper pan handle, RIGHT FINGERS wrapped — echoing Frame 1; LEFT HAND at the apron string, LEFT FINGERS articulate; warm-nude nails, neat, no white-knuckle tension.",
+  "framing": "She turns back to the island, weight settling into the Frame-1 stance, right hand on the pan handle and left at the apron as the couture gown softens to the cream chef's set, for a seamless loop.",
+  "b1": "Wide matching Frame 1: a slow glide-out is already reversing the opening glide-in as she turns back to the island, the pan returning to her hand; gaze sweeping the copper.",
+  "b2": "The glide continues as the couture gown softens back into the cream chef's set and the copper pan returns to her hand; a warm content smile returning.",
+  "b3": "She settles into the exact stance of Frame 1 at the island, weight settled, eyes on the range — a seamless loop seam.",
+ },
+}
+
+
 # ----------------------------------------------------------------------------------
 def find_concept_region(text, n):
     m = re.search(r'(?m)^#{1,3}\s*CONCEPT\s*0*%d\b' % n, text)

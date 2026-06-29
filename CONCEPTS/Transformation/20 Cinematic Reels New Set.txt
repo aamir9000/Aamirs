@@ -7047,11 +7047,11 @@ HAIR: a soft updo with loose curls and frost-dust, color locked.
 
 MAKEUP: frosted glow, soft rose lip, icy-shimmer lid, crystalline highlight.
 
-HANDS & NAILS: one hand on the wind-key, the other steadying a slipper; fingers articulate; short nails in frosted pink.
+HANDS & NAILS: RIGHT HAND on the wind-key, RIGHT FINGERS wrapped around it; LEFT HAND steadying the crystal-heel slipper, LEFT FINGERS articulate at the heel; short nails in frosted pink, neat, no white-knuckle tension.
 
 FACIAL MICRO-DYNAMICS: chin level, a serene dreaming smile, eyes catching the crystal glints, lips softly closed.
 
-BODY POSTURE & WEIGHT: weight on one foot as the other slips into a slipper, torso tall — graceful and alive, never stiff.
+BODY POSTURE & WEIGHT: GAZE calm and dreamy, lifting to the gears; HEAD level, tipping up to the turning gears; SHOULDERS soft and lifted; RIGHT ARM raised to the wind-key, the RIGHT HAND on the giant golden key, RIGHT FINGERS wrapped; LEFT ARM lowered steadying the slipper, the LEFT HAND at the crystal-heel, LEFT FINGERS articulate; TORSO tall and graceful at the turntable centre; WAIST & HIPS squared with a soft counter-tilt; RIGHT LEG weight-bearing planted, LEFT LEG (working) the foot slipping into the crystal-heel slipper; FEET & WEIGHT on the planted right foot as the left slides into the slipper; HAIR sleek with snow-glitter falling — graceful and alive, never stiff (living stillness).
 
 KINETIC STILLNESS (8 layers): (1) snow-glitter drifting down; (2) gilded gears turning overhead; (3) a loose curl swaying; (4) crystal columns refracting; (5) chest breathing; (6) the wind-key glinting; (7) a mirror reflection shimmering; (8) a slow blink.
 
@@ -7062,7 +7062,7 @@ LIGHTING: KEY — cool blue-white from above. FILL — crystal ambient. RIM — 
 LENS + DOF + BOKEH: 28mm slightly wide, f/3.2; focus on Aira; snow-glitter as crystal bokeh; palace soft.
 
 COMPOSITION: 9:16, Aira centred on the turntable, columns and gears framing, snow-glitter filling negative space.
-SUBJECT FRAMING & POSITION: A wide establishing shot of the ice-palace music box, Aira small at the centre of the mirrored turntable, gilded gears turning overhead. The full figure reads small and centred on the turntable, weight on one foot as the other slips into a slipper, torso tall. Camera at wide distance, the gears and mirrored floor framing her. She stands centred, near-frontal, dwarfed by the ornate space. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A wide establishing shot of the ice-palace music box, Aira small at the centre of the mirrored turntable, gilded gears turning overhead. The full figure reads small and centred on the turntable, weight on one foot as the other slips into a slipper, torso tall. Camera at wide distance, the gears and mirrored floor framing her. She stands centred, near-frontal, dwarfed by the ornate space. She stands at the centre of the mirrored turntable, weight on the planted right foot as the left slips into the crystal-heel slipper, right hand on the golden wind-key and left steadying the heel, small under the gilded gears. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 ATMOSPHERE: dreamy winter wonder, the hush of a music box.
 
@@ -7081,9 +7081,9 @@ SHOT TYPE & ANGLE: wide, subject fills ~30%.
 LENS: 28mm, f/3.2.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Wide establishing of the ice-palace music box: she is already standing at the centre of the mirrored turntable slipping on a crystal-heel slipper as a slow drift-in and crane-down move toward her, gilded gears turning overhead; gaze calm and dreamy.
-- [00:02–00:04] The crane settles as she lifts the giant golden wind-key, snow-glitter falling around her; eyes warming with anticipation.
-- [00:04–00:06] She sets the key to wind and the gears engage with a glint, gaze rising to the slow-turning gears above.
+- [00:00–00:02] Wide establishing of the ice-palace music box: she is already standing at the centre of the mirrored turntable slipping on a crystal-heel slipper — weight on the planted foot, left hand at the heel — as a slow drift-in and crane-down move toward her, gilded gears turning overhead; gaze calm and dreamy.
+- [00:02–00:04] The crane settles as she lifts the giant golden wind-key in her right hand, snow-glitter falling around her; eyes warming with anticipation.
+- [00:04–00:06] She sets the key to wind and the gears engage with a glint, weight settling even, gaze rising to the slow-turning gears above.
 
 FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
@@ -7123,11 +7123,11 @@ HAIR: a drifting curl at the upper frame.
 
 MAKEUP: n/a (macro), frosted-pink nails.
 
-HANDS & NAILS: both hands turning the wind-key, fingers articulate; frosted-pink nails.
+HANDS & NAILS: BOTH HANDS turning the giant golden wind-key, RIGHT and LEFT FINGERS articulate gripping and turning it; frosted-pink nails, neat, no white-knuckle tension.
 
 FACIAL MICRO-DYNAMICS: n/a.
 
-BODY POSTURE & WEIGHT: a deliberate winding turn, hands articulate — a crisp, fluid gesture.
+BODY POSTURE & WEIGHT: GAZE (implied) to the key; the wind read through both turning hands; RIGHT ARM and LEFT ARM both turning the giant golden wind-key, RIGHT and LEFT FINGERS articulate gripping and turning; TORSO implied tall above in a deliberate winding turn; WAIST & HIPS implied square; FEET & WEIGHT settled even as she winds — a crisp fluid winding gesture, gears engaging with a glint.
 
 KINETIC STILLNESS (8 layers): (1) the key turning and gears engaging; (2) a gold glint travelling the key; (3) a curl drifting; (4) snow-glitter settling on the metal; (5) a soft breath-shift; (6) the bracelet sliding; (7) a reflection on the key; (8) a micro-tremor of the turn.
 
@@ -7138,7 +7138,7 @@ LIGHTING: KEY — warm gold gear-glow. FILL — cool crystal ambient. RIM — ic
 LENS + DOF + BOKEH: 100mm macro, f/2.8; focus on the key and fingers; background icy-gold bokeh.
 
 COMPOSITION: 9:16, key on a power point, the forearms as leading diagonals, glittering negative space.
-SUBJECT FRAMING & POSITION: A macro/extreme close on her hands turning the giant golden wind-key, gears engaging with a glint — a detail insert, body out of frame. The hands and key fill the frame in a deliberate winding turn. Camera macro-near, the gear-glint in the negative space. The figure is implied beyond the frame. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A macro/extreme close on her hands turning the giant golden wind-key, gears engaging with a glint — a detail insert, body out of frame. The hands and key fill the frame in a deliberate winding turn. Camera macro-near, the gear-glint in the negative space. The figure is implied beyond the frame. A macro on both hands turning the giant golden wind-key with articulate fingers in a deliberate winding turn, gears engaging with a glint, the body implied tall above. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 ATMOSPHERE: the crisp instant before the box spins.
 
@@ -7158,7 +7158,7 @@ LENS: 100mm macro, f/2.8.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
 - [00:00–00:02] Extreme macro: her hands are already gripping the giant golden wind-key as a slow push closes in, gears catching gold glints behind.
-- [00:02–00:04] She turns the key and the gears engage, teeth meshing with a frosted shimmer.
+- [00:02–00:04] She turns the key with both hands and the gears engage, teeth meshing with a frosted shimmer.
 - [00:04–00:06] A final wind-click lands as the mirrored turntable begins to spin beneath her.
 
 FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
@@ -7199,11 +7199,11 @@ HAIR: the soft updo in profile, loose curls drifting, color locked.
 
 MAKEUP: frosted glow, rose lip, icy lid catching crystal light.
 
-HANDS & NAILS: both arms lifting into a graceful figurine port-de-bras, fingers elegant; frosted-pink nails.
+HANDS & NAILS: BOTH ARMS lifting into a graceful figurine port-de-bras, RIGHT and LEFT FINGERS elegant and tapered; frosted-pink nails, neat, no white-knuckle tension.
 
 FACIAL MICRO-DYNAMICS: eyes lifted in serene reverie, lips parted ~1mm on a soft breath, lashes lowered.
 
-BODY POSTURE & WEIGHT: rising onto the toes in profile, spine lengthening, weight lifting up — elegant ballerina momentum, never stiff.
+BODY POSTURE & WEIGHT: GAZE lifting with the turn; HEAD level in profile, lifting; SHOULDERS lifting into the figurine port-de-bras; RIGHT ARM and LEFT ARM lifting into a graceful figurine port-de-bras, RIGHT and LEFT FINGERS elegant and tapered; TORSO lengthening upright as she rises onto her toes; WAIST & HIPS lifting up, lengthening; RIGHT LEG rising onto the toe (relevé), LEFT LEG following onto the toe; FEET rising onto the toes as the turntable spins her; WEIGHT lifting up onto the toes; HAIR and tulle drifting with the turn — elegant ballerina momentum, never stiff.
 
 KINETIC STILLNESS (8 layers): (1) the turntable beginning to spin; (2) tulle lifting; (3) loose curls drifting; (4) snow-glitter swirling; (5) a slow breath; (6) earrings swinging; (7) gear-glints sweeping; (8) a slow blink.
 
@@ -7214,7 +7214,7 @@ LIGHTING: KEY — cool blue-white from above. FILL — crystal ambient. RIM — 
 LENS + DOF + BOKEH: 50mm, f/2.2; focus on her near eye; palace as icy-gold bokeh.
 
 COMPOSITION: 9:16, strong profile line, the rising figurine pose as a vertical, snow-glitter framing.
-SUBJECT FRAMING & POSITION: A medium in clean full profile, Aira rising onto her toes in profile as the turntable spins, arms lifting like a music-box figurine. The body reads as a profile line from roughly the waist up, rising onto the toes, spine lengthening, weight lifting up. Camera at mid distance, edge-on. She is in profile, rising, arms lifting. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A medium in clean full profile, Aira rising onto her toes in profile as the turntable spins, arms lifting like a music-box figurine. The body reads as a profile line from roughly the waist up, rising onto the toes, spine lengthening, weight lifting up. Camera at mid distance, edge-on. She is in profile, rising, arms lifting. In profile she rises onto her toes like a music-box figurine as the turntable begins to spin, both arms lifting into a graceful port-de-bras and the spine lengthening, tulle drifting. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 ATMOSPHERE: the dreamy lift into the music-box dance.
 
@@ -7233,9 +7233,9 @@ SHOT TYPE & ANGLE: profile medium, subject fills ~55%.
 LENS: 50mm, f/2.2.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Profile medium: she is already rising onto her toes like a music-box figurine as the turntable begins to spin her and a slow arc swings from profile toward three-quarter; tulle drifting, gaze lifting.
-- [00:02–00:04] Her arms lift into the figurine pose as the turntable spins, the arc easing round; a serene dreamy calm in her eyes.
-- [00:04–00:06] She begins the spin into the crystallise, gaze sweeping with the turn, lips parting softly.
+- [00:00–00:02] Profile medium: she is already rising onto her toes like a music-box figurine as the turntable begins to spin her, both arms lifting, and a slow arc swings from profile toward three-quarter; tulle drifting, gaze lifting.
+- [00:02–00:04] Her arms lift into the figurine port-de-bras as the turntable spins, the arc easing round; a serene dreamy calm in her eyes.
+- [00:04–00:06] She begins the spin into the crystallise, rising taller on her toes, gaze sweeping with the turn, lips parting softly.
 
 FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
@@ -7275,11 +7275,11 @@ HAIR: a soft updo with a few curls loose, crystal-lit at the edges.
 
 MAKEUP: a frosted-fresh glow, rose lip; real pores and fine vellus texture.
 
-HANDS & NAILS: both arms lifting like a figurine, fingers soft; frosted-pink nails, neat cuticles.
+HANDS & NAILS: BOTH ARMS lifting like a figurine, RIGHT and LEFT FINGERS soft and tapered; frosted-pink nails, neat cuticles, no white-knuckle tension.
 
 FACIAL MICRO-DYNAMICS: a serene anticipatory gaze bright with the turn, lips parting on a held breath — fully recognizable, identity-locked, ready for the crystallise mid-clip.
 
-BODY POSTURE & WEIGHT: at the spin apex on the toes, body long, arms lifting — poised in the turn, the instant before the crystallise.
+BODY POSTURE & WEIGHT: GAZE bright with the turn then widening in awe; HEAD level, sweeping with the spin; SHOULDERS open and lifted in the figurine line; RIGHT ARM and LEFT ARM lifting like a figurine, RIGHT and LEFT FINGERS soft and tapered; TORSO long and lifted at the spin apex; WAIST & HIPS lengthened, turning; RIGHT LEG poised high on the toe, LEFT LEG on the toe in the turn; FEET on the toes at the spin apex; WEIGHT poised up on the toes in the turn; HAIR and tulle drifting out — poised in the turn, the instant before the crystallise.
 
 KINETIC STILLNESS (8 layers): (1) the turntable spinning her; (2) the ice palace and gilded gears turning around her; (3) tulle drifting in the spin; (4) curls fanning soft; (5) a held breath; (6) a gear-glint sweeping; (7) the pale-blue gown rippling in the turn; (8) lashes settling on a blink.
 
@@ -7290,7 +7290,7 @@ LIGHTING: KEY — cool crystal-white. FILL — gold gear ambient. RIM — crysta
 LENS + DOF + BOKEH: 35mm, f/2.8; focus on Aira; the ice palace as soft crystal bokeh, clearly present and grand behind.
 
 COMPOSITION: 9:16, Aira a spinning vertical at the turntable centre, the palace turning behind, headroom for the frost.
-SUBJECT FRAMING & POSITION: A front-on full/wide hero at the spin apex in the pale-blue gown Look A — the clean still the transform clip opens on. The complete figure is in frame, on the toes at the spin apex, the ice palace present behind. Camera at full/wide distance. She faces front, centred and spinning. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A front-on full/wide hero at the spin apex in the pale-blue gown Look A — the clean still the transform clip opens on. The complete figure is in frame, on the toes at the spin apex, the ice palace present behind. Camera at full/wide distance. She faces front, centred and spinning. At the spin apex she is poised high on her toes like a music-box figurine in her pale-blue gown, both arms lifted and the body long, tulle drifting as the ice palace turns — the clean Look A the crystallise opens on. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 ATMOSPHERE: dreamy anticipation — the breath before the music box dresses her in frozen light.
 
@@ -7309,8 +7309,8 @@ SHOT TYPE & ANGLE: front-on full/wide hero, subject fills ~55%, spinning centred
 LENS: 35mm, f/2.8.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Cut to a front-on full/wide hero at a HELD angle (Veo first frame = the pale-blue gown Look A still): already in motion, she reaching the spin apex on her toes like a music-box figurine as a gentle push-with eases in (the camera holds its angle while she spins) — the pale-blue gown fully intact, the crystallise NOT yet begun, the ice palace turning behind; gaze bright with the turn.
-- [00:02–00:04] The crystallise BEGINS here, mid-clip: frost races smoothly across the gown and crystallises it into the frosted couture of frozen light exactly where it passes — believable real frost-and-ice physics, real crystal growth and snow-glitter on true arcs (no cheap sparkles), the palace grand behind, the camera angle held as she spins; eyes widening in dreamy awe.
+- [00:00–00:02] Cut to a front-on full/wide hero at a HELD angle (Veo first frame = the pale-blue gown Look A still): already in motion, she reaching the spin apex on her toes like a music-box figurine, arms lifted, as a gentle push-with eases in (the camera holds its angle while she spins) — the pale-blue gown fully intact, the crystallise NOT yet begun, the ice palace turning behind; gaze bright with the turn.
+- [00:02–00:04] The crystallise BEGINS here, mid-clip: frost races smoothly across the gown and crystallises it into the frosted couture of frozen light exactly where it passes as she spins on her toes — believable real frost-and-ice physics, real crystal growth and snow-glitter on true arcs (no cheap sparkles), the palace grand behind, the camera angle held; eyes widening in dreamy awe.
 - [00:04–00:06] The crystallise completes and the look settles smoothly and fully into the frosted crystal gown of Frame 5's still (Veo's LAST frame), curls and snow-glitter fanning — a radiant awed smile landing, no last-second snap.
 
 FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
@@ -7351,11 +7351,11 @@ HAIR: the loosened updo drifting as she glances back, crystal-lit.
 
 MAKEUP: frosted glow on the turned cheek, rose lip.
 
-HANDS & NAILS: one hand trailing frost-light, the other settling; frosted-pink nails.
+HANDS & NAILS: RIGHT HAND trailing frost-light, RIGHT FINGERS splayed in the train; LEFT HAND settling, LEFT FINGERS soft; frosted-pink nails, neat, no white-knuckle tension.
 
 FACIAL MICRO-DYNAMICS: a serene over-the-shoulder glance, a soft radiant smile, crystal catchlight in the eye.
 
-BODY POSTURE & WEIGHT: slowing from the spin, body in a long line, torso rotating back for the glance — fluid counter-motion, alive.
+BODY POSTURE & WEIGHT: GAZE ahead then rotating back to lens; HEAD turning back over the shoulder for the glance; SHOULDERS rotating, easing down from the figurine lift; RIGHT ARM trailing frost-light, the RIGHT HAND open with RIGHT FINGERS splayed in the train; LEFT ARM settling, the LEFT HAND easing down, LEFT FINGERS soft; TORSO slowing from the spin in a long line, rotating back; WAIST & HIPS easing down out of the relevé; RIGHT LEG lowering from the toe, LEFT LEG settling flat; FEET easing down from the toes as she slows; WEIGHT settling back onto the feet; HAIR and frost-light trailing — fluid counter-motion, alive.
 
 KINETIC STILLNESS (8 layers): (1) the frost-train trailing and shedding glitter; (2) the turntable slowing; (3) curls drifting; (4) gown facets rippling; (5) chest breathing; (6) snow-glitter settling; (7) gear-glints sweeping; (8) a slow blink mid-glance.
 
@@ -7366,7 +7366,7 @@ LIGHTING: KEY — crystal-white catching her face on the glance. FILL — gold g
 LENS + DOF + BOKEH: 50mm, f/1.8; focus on her glancing eye; palace melting to icy-gold bokeh; trailing glitter sparkling.
 
 COMPOSITION: 9:16, Aira slowing on the turntable, columns crowning, over-shoulder eye-line drawing the viewer.
-SUBJECT FRAMING & POSITION: A three-quarter back over-the-shoulder medium, Aira slowing in the frosted gown as the box winds down, glancing back to lens, frost-light trailing. The body reads from roughly the waist up, slowing from the spin, body in a long line, torso rotating back for the glance. Camera at mid distance behind her. Her back leads, face turned back over the shoulder. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A three-quarter back over-the-shoulder medium, Aira slowing in the frosted gown as the box winds down, glancing back to lens, frost-light trailing. The body reads from roughly the waist up, slowing from the spin, body in a long line, torso rotating back for the glance. Camera at mid distance behind her. Her back leads, face turned back over the shoulder. She slows from the spin in the frosted gown, right hand trailing frost-light and left settling, the torso rotating back over the shoulder for a glance to lens as the frost-train streams and the box winds down. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 ATMOSPHERE: luminous winter grace, the dance winding down.
 
@@ -7385,9 +7385,9 @@ SHOT TYPE & ANGLE: three-quarter back over-shoulder medium, subject fills ~50%.
 LENS: 50mm, f/1.8.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Three-quarter back over-shoulder medium: she is already slowing from the spin in the frosted gown as a tracking arc trails her, the frost-train streaming and the box winding down; gaze ahead.
-- [00:02–00:04] The arc catches her as she rotates her torso and glances back to lens, gear-glints warm in her eyes, a soft serene smile.
-- [00:04–00:06] She faces forward again as the turntable winds down, frost-light trailing, gaze settling front.
+- [00:00–00:02] Three-quarter back over-shoulder medium: she is already slowing from the spin in the frosted gown — right hand trailing frost-light, settling from the toes — as a tracking arc trails her, the frost-train streaming and the box winding down; gaze ahead.
+- [00:02–00:04] The arc catches her as she rotates her torso and glances back to lens over the shoulder, gear-glints warm in her eyes, a soft serene smile.
+- [00:04–00:06] She faces forward again as the turntable winds down, weight settling onto her feet, frost-light trailing, gaze settling front.
 
 FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
@@ -7427,11 +7427,11 @@ HAIR: the loosened updo re-settling toward the Frame 1 updo.
 
 MAKEUP: frosted glow easing back to the opening finish.
 
-HANDS & NAILS: arms returning to the Frame 1 stance, the wind-key back in hand — echoing Frame 1; frosted-pink nails.
+HANDS & NAILS: RIGHT HAND returning to the wind-key, RIGHT FINGERS wrapping it; LEFT HAND steadying the slipper, LEFT FINGERS articulate — echoing Frame 1; frosted-pink nails, neat, no white-knuckle tension.
 
 FACIAL MICRO-DYNAMICS: the same serene dreaming smile as Frame 1, eyes on the palace, lips softly closed.
 
-BODY POSTURE & WEIGHT: settling back into the Frame 1 stance at the centre, weight settled.
+BODY POSTURE & WEIGHT: GAZE lowering to the mirror floor; HEAD turning back to centre; SHOULDERS softening to the entry set; RIGHT ARM returning to the wind-key, the RIGHT HAND toward it with RIGHT FINGERS wrapping; LEFT ARM steadying the slipper, the LEFT HAND at the heel, LEFT FINGERS articulate — echoing Frame 1; TORSO settling back tall at the turntable centre; WAIST & HIPS squaring with a soft counter-tilt; RIGHT LEG planting, LEFT LEG settling to the slipper; FEET & WEIGHT settling onto the centre footing; HAIR sleek as the frost-gown softens to the pale-blue gown.
 
 KINETIC STILLNESS (8 layers): (1) gown dissolving back to the pale-blue gown; (2) gears turning; (3) a curl swaying; (4) snow-glitter drifting; (5) chest breathing; (6) the wind-key glinting; (7) a mirror reflection shimmering; (8) a slow blink.
 
@@ -7442,7 +7442,7 @@ LIGHTING: identical scheme to Frame 1 — cool blue-white key, crystal fill, gol
 LENS + DOF + BOKEH: 28mm, f/3.2, matching Frame 1; snow-glitter as crystal bokeh.
 
 COMPOSITION: 9:16, mirroring Frame 1's turntable framing for a seamless cut.
-SUBJECT FRAMING & POSITION: A wide matching Frame 1, Aira settling back to the turntable centre as the frosted gown softens toward the pale-blue gown. The full figure reads small and centred, settling back into the opening stance, weight settled. Camera at wide distance, mirroring Frame 1's music-box framing for a seamless loop. She stands centred on the turntable. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A wide matching Frame 1, Aira settling back to the turntable centre as the frosted gown softens toward the pale-blue gown. The full figure reads small and centred, settling back into the opening stance, weight settled. Camera at wide distance, mirroring Frame 1's music-box framing for a seamless loop. She stands centred on the turntable. She settles back to the turntable centre, weight settling onto the centre footing with the right hand returning to the wind-key and left steadying the slipper as the frost-gown softens to the pale-blue gown, reasserting the Frame-1 stance for a seamless loop. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 ATMOSPHERE: the gentle return to the music-box centre.
 
@@ -7461,9 +7461,9 @@ SHOT TYPE & ANGLE: wide matching Frame 1, subject ~30%.
 LENS: 28mm, f/3.2.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Wide matching Frame 1: a slow drift-out and crane-up is already reversing the opening move as she settles back to the turntable centre; gaze lowering to the mirror floor.
+- [00:00–00:02] Wide matching Frame 1: a slow drift-out and crane-up is already reversing the opening move as she settles back to the turntable centre, the right hand returning to the wind-key; gaze lowering to the mirror floor.
 - [00:02–00:04] The drift continues as the frost-gown dissolves back into the pale-blue velvet-and-tulle gown and the wind-key returns to her hand; a soft dreamy calm returning.
-- [00:04–00:06] She settles into the exact centre stance of Frame 1, eyes calm under the turning gears — a seamless loop seam.
+- [00:04–00:06] She settles into the exact centre stance of Frame 1, weight settled, eyes calm under the turning gears — a seamless loop seam.
 
 FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
@@ -7541,11 +7541,11 @@ HAIR: soft waves in a low loose braid, a strand swaying, color locked.
 
 MAKEUP: fresh dewy glow, rose-petal lip, gilded-green lid, golden catchlight.
 
-HANDS & NAILS: one hand cradling the seed-pot, the other at a fern; fingers articulate; short nails in soft rose.
+HANDS & NAILS: RIGHT HAND cradling the seed-pot, RIGHT FINGERS supporting it; LEFT HAND at a fern frond, LEFT FINGERS articulate; short nails in soft rose, neat, no white-knuckle tension.
 
 FACIAL MICRO-DYNAMICS: chin level, a serene curious smile, eyes scanning the greenery with a warm catchlight, lips softly closed.
 
-BODY POSTURE & WEIGHT: weight on one foot as the other slips into a flat, torso tall — graceful and alive, never stiff.
+BODY POSTURE & WEIGHT: GAZE scanning the dappled greenery with delight; HEAD level, sweeping the aisle; SHOULDERS open and easy; RIGHT ARM cradling the seed-pot, the RIGHT HAND around it, RIGHT FINGERS supporting; LEFT ARM reaching to a fern, the LEFT HAND at the frond, LEFT FINGERS articulate; TORSO tall and easy walking onto the path; WAIST & HIPS squared with a soft counter-tilt; RIGHT LEG weight-bearing planted, LEFT LEG (working) the foot slipping into a garden flat; FEET & WEIGHT on the planted right foot as the left slides into the flat; HAIR soft in the dappled sun — graceful and alive, never stiff (living stillness).
 
 KINETIC STILLNESS (8 layers): (1) dappled sun shifting through fogged glass; (2) hanging ferns swaying; (3) a braid strand drifting; (4) a rose petal falling; (5) chest breathing; (6) the seed-pot soil glinting; (7) a leaf trembling; (8) a slow blink.
 
@@ -7556,7 +7556,7 @@ LIGHTING: KEY — warm golden dappled sun from above-side. FILL — green ambien
 LENS + DOF + BOKEH: 28mm slightly wide, f/3.2; focus on Aira; ferns as green bokeh; aisle soft.
 
 COMPOSITION: 9:16, aisle one-point perspective, Aira centred, leaves framing.
-SUBJECT FRAMING & POSITION: A wide establishing shot down the glasshouse aisle, Aira mid-frame on the mossy path, ferns and roses arching overhead. The full figure reads mid-aisle, weight on one foot as the other slips into a flat, torso tall. Camera at wide distance, the arching foliage framing the path. She stands mid-frame, near-frontal, the green aisle as depth. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A wide establishing shot down the glasshouse aisle, Aira mid-frame on the mossy path, ferns and roses arching overhead. The full figure reads mid-aisle, weight on one foot as the other slips into a flat, torso tall. Camera at wide distance, the arching foliage framing the path. She stands mid-frame, near-frontal, the green aisle as depth. She walks onto the mossy glasshouse path, weight on the planted right foot as the left slips into a garden flat, right hand cradling the seed-pot and left at a fern, ferns and climbing roses arching overhead. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 ATMOSPHERE: enchanted garden calm, warm and alive.
 
@@ -7575,9 +7575,9 @@ SHOT TYPE & ANGLE: wide, subject fills ~32%.
 LENS: 28mm, f/3.2.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Wide establishing down the glasshouse aisle: she is already walking onto the mossy path as a slow glide-in moves toward her, ferns and climbing roses arching overhead; eyes scanning the dappled greenery with delight.
-- [00:02–00:04] The glide carries closer as she slips on a garden flat and steadies the seed-pot, dappled sun crossing her; a fresh, happy calm in her gaze.
-- [00:04–00:06] She steps toward the soil bed, eyes settling on the rich dark earth with gentle anticipation.
+- [00:00–00:02] Wide establishing down the glasshouse aisle: she is already walking onto the mossy path — weight on the planted foot, left hand at a fern, cradling the seed-pot — as a slow glide-in moves toward her, ferns and climbing roses arching overhead; eyes scanning the dappled greenery with delight.
+- [00:02–00:04] The glide carries closer as she settles the garden flat and steadies the seed-pot in both hands, dappled sun crossing her; a fresh happy calm in her gaze.
+- [00:04–00:06] She steps toward the soil bed, weight rolling forward, eyes settling on the rich dark earth with gentle anticipation.
 
 FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
@@ -7617,11 +7617,11 @@ HAIR: a drifting braid strand at the upper frame.
 
 MAKEUP: n/a (macro), soft-rose nails with a little soil.
 
-HANDS & NAILS: her fingers pressing the seed, the others cupping soil; soft-rose nails.
+HANDS & NAILS: RIGHT FINGERS pressing the seed into the rich dark soil, articulate at the press; LEFT HAND cupping soil beneath, LEFT FINGERS cupping the earth; soft-rose nails, neat, no white-knuckle tension.
 
 FACIAL MICRO-DYNAMICS: n/a.
 
-BODY POSTURE & WEIGHT: a gentle deliberate press, hands articulate — a tender, fluid gesture.
+BODY POSTURE & WEIGHT: GAZE (implied) to the soil; the press read through the working fingers; RIGHT ARM lowered, the RIGHT HAND pressing the seed into the soil, RIGHT FINGERS articulate at the press; LEFT ARM cupping soil, the LEFT HAND beneath, LEFT FINGERS cupping the earth; TORSO implied bending gently above; WAIST & HIPS implied settled in the bend; WEIGHT settled even — a tender deliberate press, a sprout breaking the surface.
 
 KINETIC STILLNESS (8 layers): (1) the sprout breaking the soil; (2) soil crumbs shifting; (3) a strand drifting; (4) a dewdrop on a nearby leaf; (5) a soft breath-shift; (6) the vine-ring glinting; (7) a sunbeam crossing the soil; (8) a micro-tremor of the press.
 
@@ -7632,7 +7632,7 @@ LIGHTING: KEY — warm dappled sun on the soil. FILL — green ambient. RIM — 
 LENS + DOF + BOKEH: 100mm macro, f/2.8; focus on the seed and fingertips; background green bokeh.
 
 COMPOSITION: 9:16, sprout on a power point, the fingers as leading diagonals, rich negative space.
-SUBJECT FRAMING & POSITION: A macro/extreme close on her fingers pressing a seed into rich dark soil, a sprout breaking the surface — a detail insert, body out of frame. The fingers and soil fill the frame in a tender deliberate press. Camera macro-near, the sprout in sharp focus. The figure is implied beyond the frame. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A macro/extreme close on her fingers pressing a seed into rich dark soil, a sprout breaking the surface — a detail insert, body out of frame. The fingers and soil fill the frame in a tender deliberate press. Camera macro-near, the sprout in sharp focus. The figure is implied beyond the frame. A macro on her fingers pressing a seed into rich dark soil with the other hand cupping the earth, a sprout breaking the surface, the body implied bending gently above. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 ATMOSPHERE: the tender instant before the bloom.
 
@@ -7652,7 +7652,7 @@ LENS: 100mm macro, f/2.8.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
 - [00:00–00:02] Extreme macro: her fingers are already pressing a seed into rich dark soil as a slow push closes in, crumbs of earth shifting.
-- [00:02–00:04] She pats the soil and a green sprout breaks the surface, unfurling toward the light.
+- [00:02–00:04] She pats the soil with articulate fingers and a green sprout breaks the surface, unfurling toward the light.
 - [00:04–00:06] The sprout surges upward as the bloom triggers, tendrils racing out from where she touched.
 
 FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
@@ -7693,11 +7693,11 @@ HAIR: the low braid in profile, blossoms settling in, color locked.
 
 MAKEUP: fresh dewy glow, rose-petal lip, gilded-green lid catching the light.
 
-HANDS & NAILS: one hand lifting as a vine curls around the wrist, fingers elegant; soft-rose nails.
+HANDS & NAILS: RIGHT HAND lifting as a vine curls around the wrist, RIGHT FINGERS elegant; LEFT HAND easing open, LEFT FINGERS soft; soft-rose nails, neat, no white-knuckle tension.
 
 FACIAL MICRO-DYNAMICS: eyes lifting in wonder, lips parted ~1mm on a soft breath, a delighted inner-brow lift.
 
-BODY POSTURE & WEIGHT: rising in profile, spine lengthening, weight lifting — graceful upward momentum, never stiff.
+BODY POSTURE & WEIGHT: GAZE following the racing greenery; HEAD level in profile, lifting; SHOULDERS lifting as she rises; RIGHT ARM lifting as a vine curls around the wrist, the RIGHT HAND open with RIGHT FINGERS elegant; LEFT ARM easing out, the LEFT HAND open, LEFT FINGERS soft; TORSO lengthening upright as she rises; WAIST & HIPS lifting up, lengthening; RIGHT LEG planting to push up, LEFT LEG following as she rises; FEET pressing to rise, weight transferring up; WEIGHT lifting up through the rise; HAIR stirring as vines climb — graceful upward momentum, never stiff.
 
 KINETIC STILLNESS (8 layers): (1) vines climbing around her; (2) blossoms opening in real time; (3) braid strands drifting; (4) a petal spiralling; (5) chest breathing; (6) earrings swinging; (7) dappled sun shifting; (8) a slow blink.
 
@@ -7708,7 +7708,7 @@ LIGHTING: KEY — warm dappled sun. FILL — green ambient. RIM — sun rim down
 LENS + DOF + BOKEH: 50mm, f/2.2; focus on her near eye; garden as green bokeh.
 
 COMPOSITION: 9:16, strong profile line, climbing vines as verticals, blossoms framing.
-SUBJECT FRAMING & POSITION: A medium in clean full profile, Aira rising in profile as vines climb around her, blossoms opening, the gown beginning to weave from the green. The body reads as a profile line from roughly the waist up, rising with the spine lengthening, weight lifting. Camera at mid distance, edge-on, vines climbing the frame. She is in profile, rising. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A medium in clean full profile, Aira rising in profile as vines climb around her, blossoms opening, the gown beginning to weave from the green. The body reads as a profile line from roughly the waist up, rising with the spine lengthening, weight lifting. Camera at mid distance, edge-on, vines climbing the frame. She is in profile, rising. In profile she rises as vines climb around her, the right hand lifting as a vine curls her wrist and the left easing open, the spine lengthening and weight transferring up, blossoms opening. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 ATMOSPHERE: the enchanted lift into the bloom.
 
@@ -7727,9 +7727,9 @@ SHOT TYPE & ANGLE: profile medium, subject fills ~55%.
 LENS: 50mm, f/2.2.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Profile medium: she is already rising as the first vines climb around her and a slow arc swings from profile toward three-quarter; gaze following the racing greenery.
+- [00:00–00:02] Profile medium: she is already rising as the first vines climb around her, her right hand lifting, and a slow arc swings from profile toward three-quarter, weight transferring up; gaze following the racing greenery.
 - [00:02–00:04] Blossoms open and a vine curls around her wrist where she gestures, the arc easing round; eyes brightening in enchanted wonder.
-- [00:04–00:06] She begins the bloom-spin into the forming gown, gaze sweeping with the turn, a delighted breath.
+- [00:04–00:06] She begins the bloom-spin into the forming gown, weight settling onto her feet, gaze sweeping with the turn, a delighted breath.
 
 FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
@@ -7769,11 +7769,11 @@ HAIR: a soft braid.
 
 MAKEUP: a fresh dewy glow, rose-petal lip; real pores and fine vellus texture.
 
-HANDS & NAILS: both hands soft, one just lifting from the pressed seed in the soil, fingers relaxed; soft-rose nails, neat cuticles.
+HANDS & NAILS: BOTH HANDS soft, the right just lifting from the pressed seed in the soil, RIGHT and LEFT FINGERS relaxed; soft-rose nails, neat cuticles, no white-knuckle tension.
 
 FACIAL MICRO-DYNAMICS: a warm anticipatory gaze to the climbing vines, lips parting on a held breath, eyes bright — fully recognizable, identity-locked, ready for the bloom mid-clip.
 
-BODY POSTURE & WEIGHT: rising at the glasshouse centre, weight settling, arms beginning to open — poised, the instant before the bloom.
+BODY POSTURE & WEIGHT: GAZE bright on the climbing green; HEAD level, chin lifting as the gown weaves; SHOULDERS open as both arms begin to open; RIGHT ARM just lifting from the pressed seed, the RIGHT HAND soft with RIGHT FINGERS relaxed; LEFT ARM beginning to open, the LEFT HAND soft, LEFT FINGERS relaxed; TORSO rising tall at the glasshouse centre; WAIST & HIPS settling square; RIGHT LEG and LEFT LEG planted even; FEET grounded even on the moss; WEIGHT settling even as she rises — poised, the instant before the bloom.
 
 KINETIC STILLNESS (8 layers): (1) the first vines climbing at her feet; (2) ferns and roses arching overhead in the glasshouse; (3) a braid-strand lifting; (4) dappled sun through the glass; (5) a held breath; (6) a sprouting vine-ring; (7) the sage-linen rippling; (8) lashes settling on a blink.
 
@@ -7784,7 +7784,7 @@ LIGHTING: KEY — warm golden sun through glass. FILL — green ambient. RIM —
 LENS + DOF + BOKEH: 35mm, f/2.8; focus on Aira; the glasshouse as soft green bokeh, clearly present and lush behind.
 
 COMPOSITION: 9:16, Aira a fresh vertical at the glasshouse centre, greenery arching, headroom for the bloom.
-SUBJECT FRAMING & POSITION: A front-on full/wide hero in the sage-linen Look A, the first vines beginning to climb — the clean still the transform clip opens on. The complete figure is in frame, centred, the glasshouse present and lush behind. Camera at full/wide distance. She faces front, centred. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A front-on full/wide hero in the sage-linen Look A, the first vines beginning to climb — the clean still the transform clip opens on. The complete figure is in frame, centred, the glasshouse present and lush behind. Camera at full/wide distance. She faces front, centred. She rises at the mossy glasshouse centre in her sage-linen set, weight settling even and arms beginning to open, the first vines just climbing at her feet and blossoms arching overhead — the clean Look A the bloom opens on. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 ATMOSPHERE: enchanted anticipation — the breath before the garden dresses her in living flowers.
 
@@ -7803,8 +7803,8 @@ SHOT TYPE & ANGLE: front-on full/wide hero, subject fills ~55%, spinning centred
 LENS: 35mm, f/2.8.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Cut to a front-on full/wide hero at a HELD angle (Veo first frame = the sage-linen Look A still): already in motion, a gentle push-with easing in as the first vines climb at her feet — the sage-linen set fully intact, the gown NOT yet woven, the glasshouse lush behind; gaze bright on the climbing green.
-- [00:02–00:04] The bloom BEGINS here, mid-clip: vines and blossoms rush smoothly up and weave the living floral couture gown around her exactly where they climb — believable real plant-growth, real botanical climb and petal-open on true arcs (no cheap sparkles), the glasshouse lush behind, the camera angle held as she turns; eyes widening in radiant awe.
+- [00:00–00:02] Cut to a front-on full/wide hero at a HELD angle (Veo first frame = the sage-linen Look A still): already in motion, a gentle push-with easing in as the first vines climb at her feet and her arms begin to open — the sage-linen set fully intact, the gown NOT yet woven, the glasshouse lush behind; gaze bright on the climbing green.
+- [00:02–00:04] The bloom BEGINS here, mid-clip: vines and blossoms rush smoothly up and weave the living floral couture gown around her exactly where they climb as her arms open — believable real plant-growth, real botanical climb and petal-open on true arcs (no cheap sparkles), the glasshouse lush behind, the camera angle held as she turns; eyes widening in radiant awe.
 - [00:04–00:06] The bloom completes and the look settles smoothly and fully into the living floral gown of Frame 5's still (Veo's LAST frame), petals flung on real arcs — a radiant awed smile landing, no last-second snap.
 
 FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
@@ -7845,11 +7845,11 @@ HAIR: the loosened braid with blooms, face-framing strands.
 
 MAKEUP: fresh dewy glow, rose-petal lip, gilded-green highlight.
 
-HANDS & NAILS: one hand resting at the gown, the other gesturing to the blooming garden; soft-rose nails.
+HANDS & NAILS: RIGHT HAND resting at the gown, RIGHT FINGERS light on the floral skirt; LEFT HAND gesturing to the blooming garden, LEFT FINGERS softly spread; soft-rose nails, neat, no white-knuckle tension.
 
 FACIAL MICRO-DYNAMICS: a radiant warm smile delivering the line, eyes bright, brows lifted in delight, cheeks high.
 
-BODY POSTURE & WEIGHT: tall and grounded, soft contrapposto, shoulders open, chin level — radiant and relaxed.
+BODY POSTURE & WEIGHT: GAZE warm and fresh, flicking across the blossoms then to lens; HEAD level, turning to camera for the line; SHOULDERS open and relaxed; RIGHT ARM resting at the gown, the RIGHT HAND soft on the floral skirt, RIGHT FINGERS light; LEFT ARM gesturing to the blooming garden, the LEFT HAND open, LEFT FINGERS softly spread; TORSO tall and grounded in a soft contrapposto; WAIST & HIPS in a gentle counter-tilt, weight eased onto the back leg; RIGHT LEG and LEFT LEG grounded with weight on the back leg; FEET grounded even on the moss; HAIR soft with petals — radiant and relaxed.
 
 KINETIC STILLNESS (8 layers): (1) blossoms still opening on the gown; (2) dappled sun shifting; (3) face-framing strands lifting; (4) the gown hem shedding a petal; (5) chest breathing on the line; (6) leaf earrings settling; (7) a vine tendril curling; (8) lashes flaring on the smile.
 
@@ -7860,7 +7860,7 @@ LIGHTING: KEY — warm golden dappled sun. FILL — green ambient. RIM — sun r
 LENS + DOF + BOKEH: 35mm, f/2.8; deep enough to read the gown and garden; blossoms as bokeh.
 
 COMPOSITION: 9:16, Aira centred and radiant, the blooming garden framing her.
-SUBJECT FRAMING & POSITION: A three-quarter front cowboy/full, Aira settled in the floral gown amid the blooming glasshouse, gesturing to the garden. The body reads from roughly mid-thigh up, tall and grounded in a soft contrapposto, shoulders open, chin level. Camera at a cowboy-to-full distance, the blooming glasshouse around her. She is turned three-quarter front, radiant and relaxed. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A three-quarter front cowboy/full, Aira settled in the floral gown amid the blooming glasshouse, gesturing to the garden. The body reads from roughly mid-thigh up, tall and grounded in a soft contrapposto, shoulders open, chin level. Camera at a cowboy-to-full distance, the blooming glasshouse around her. She is turned three-quarter front, radiant and relaxed. She settles tall and grounded in the living floral gown amid the blooming glasshouse, soft contrapposto with the right hand at the gown and the left gesturing to the garden, shoulders open as she turns to lens for the line. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 ATMOSPHERE: enchanted joy — the punchline of the bloom.
 
@@ -7879,9 +7879,9 @@ SHOT TYPE & ANGLE: three-quarter front cowboy/full, subject fills ~50%.
 LENS: 35mm, f/2.8.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Three-quarter front cowboy/full: she is already settling into the floral gown amid the blooming glasshouse as a slow push eases toward three-quarter front; gaze warm and fresh.
-- [00:02–00:04] She gestures lightly to the blooming garden around her, eyes flicking across the opening blossoms with bright pride.
-- [00:04–00:06] She turns to lens and delivers the spoken line with a radiant smile, cheeks lifting in gentle delight.
+- [00:00–00:02] Three-quarter front cowboy/full: she is already settling into the floral gown amid the blooming glasshouse, weight easing onto the back leg, as a slow push eases toward three-quarter front; gaze warm and fresh.
+- [00:02–00:04] She gestures lightly with her left hand to the blooming garden around her, eyes flicking across the opening blossoms with bright pride, the right resting at the gown.
+- [00:04–00:06] She turns to lens and delivers “plant a little magic, and watch it bloom.” with a radiant smile, cheeks lifting in gentle delight.
 
 FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
@@ -7923,11 +7923,11 @@ HAIR: the loosened braid re-settling toward the Frame 1 braid.
 
 MAKEUP: fresh dewy glow easing back to the opening finish.
 
-HANDS & NAILS: arms returning to the Frame 1 stance, the seed-pot back in hand — echoing Frame 1; soft-rose nails.
+HANDS & NAILS: RIGHT HAND returning to cradle the seed-pot, RIGHT FINGERS supporting it — echoing Frame 1; LEFT HAND at a fern, LEFT FINGERS articulate; soft-rose nails, neat, no white-knuckle tension.
 
 FACIAL MICRO-DYNAMICS: the same serene curious smile as Frame 1, eyes on the greenery, lips softly closed.
 
-BODY POSTURE & WEIGHT: turning back into the Frame 1 stance, weight settled.
+BODY POSTURE & WEIGHT: GAZE sweeping the greenery; HEAD turning back down the aisle; SHOULDERS easing to the entry set; RIGHT ARM returning to cradle the seed-pot, the RIGHT HAND around it, RIGHT FINGERS supporting — echoing Frame 1; LEFT ARM easing to a fern, the LEFT HAND at the frond, LEFT FINGERS articulate; TORSO rotating back into the Frame-1 stance; WAIST & HIPS squaring with a soft counter-tilt; RIGHT LEG and LEFT LEG easing back to the entry stance; FEET settling onto the entry footing; HAIR soft as the floral gown softens to the sage-linen set.
 
 KINETIC STILLNESS (8 layers): (1) the gown softening to linen; (2) dappled sun shifting; (3) a strand swaying; (4) a petal falling; (5) chest breathing; (6) the seed-pot glinting; (7) a leaf trembling; (8) a slow blink.
 
@@ -7938,7 +7938,7 @@ LIGHTING: identical scheme to Frame 1 — warm dappled key, green fill, sun rim,
 LENS + DOF + BOKEH: 28mm, f/3.2, matching Frame 1; ferns as green bokeh.
 
 COMPOSITION: 9:16, mirroring Frame 1's aisle framing for a seamless cut.
-SUBJECT FRAMING & POSITION: A wide matching Frame 1, Aira turning back down the aisle as the floral gown softens toward the sage-linen set. The full figure reads mid-aisle, turning back into the opening stance, weight settled. Camera at wide distance, mirroring Frame 1's glasshouse-aisle framing for a seamless loop. She turns back, the green aisle as depth. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A wide matching Frame 1, Aira turning back down the aisle as the floral gown softens toward the sage-linen set. The full figure reads mid-aisle, turning back into the opening stance, weight settled. Camera at wide distance, mirroring Frame 1's glasshouse-aisle framing for a seamless loop. She turns back, the green aisle as depth. She turns back down the aisle, weight settling into the Frame-1 stance, right hand cradling the seed-pot and left at a fern as the floral gown softens to the sage-linen set, for a seamless loop. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 ATMOSPHERE: the gentle return to the garden stroll.
 
@@ -7957,9 +7957,9 @@ SHOT TYPE & ANGLE: wide matching Frame 1, subject ~32%.
 LENS: 28mm, f/3.2.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Wide matching Frame 1: a slow glide-out down the aisle is already reversing the opening glide-in as she turns back; gaze sweeping the greenery.
+- [00:00–00:02] Wide matching Frame 1: a slow glide-out down the aisle is already reversing the opening glide-in as she turns back, the seed-pot returning to her hands; gaze sweeping the greenery.
 - [00:02–00:04] The glide continues as the floral gown softens back into the sage-linen set and the seed-pot returns to her hand; a fresh content smile returning.
-- [00:04–00:06] She settles into the exact stance of Frame 1 on the mossy path, eyes soft on the arching ferns — a seamless loop seam.
+- [00:04–00:06] She settles into the exact stance of Frame 1 on the mossy path, weight settled, eyes soft on the arching ferns — a seamless loop seam.
 
 FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
@@ -8037,11 +8037,11 @@ HAIR: a sleek low bun, a face-framing strand swaying, color locked.
 
 MAKEUP: warm dewy glow, warm-rose lip, gilded-amber lid, golden catchlight.
 
-HANDS & NAILS: one hand on the pan handle, the other tying the apron; fingers articulate; short nails in warm nude.
+HANDS & NAILS: RIGHT HAND on the copper pan handle, RIGHT FINGERS wrapped; LEFT HAND tying the wrap-apron string, LEFT FINGERS articulate; short nails in warm nude, neat, no white-knuckle tension.
 
 FACIAL MICRO-DYNAMICS: chin level, a confident warm smile, eyes scanning the kitchen with a golden catchlight, lips softly closed.
 
-BODY POSTURE & WEIGHT: weight on one foot as the other slips into a clog, torso tall — lively and alive, never stiff.
+BODY POSTURE & WEIGHT: GAZE scanning the warm range with lively focus; HEAD level, sweeping the kitchen; SHOULDERS square and easy; RIGHT ARM on the pan handle, the RIGHT HAND gripping it, RIGHT FINGERS wrapped; LEFT ARM tying the apron, the LEFT HAND at the apron string, LEFT FINGERS articulate; TORSO tall and lively at the marble island; WAIST & HIPS squared with a soft counter-tilt; RIGHT LEG weight-bearing planted, LEFT LEG (working) the foot slipping into a clog at the prep step; FEET & WEIGHT on the planted right foot as the left slides into the clog; HAIR sleek under the pendant light — lively and alive, never stiff (living stillness).
 
 KINETIC STILLNESS (8 layers): (1) drifting flour-dust in the light; (2) steam curling from a pot; (3) a face-framing strand drifting; (4) a copper-pan glint; (5) chest breathing; (6) the apron-tie settling; (7) a gas-flame flicker; (8) a slow blink.
 
@@ -8052,7 +8052,7 @@ LIGHTING: KEY — warm golden pendant from above. FILL — cream ambient. RIM �
 LENS + DOF + BOKEH: 28mm slightly wide, f/3.2; focus on Aira; pans as warm bokeh; kitchen soft.
 
 COMPOSITION: 9:16, island one-point perspective, Aira centred, pans framing.
-SUBJECT FRAMING & POSITION: A wide establishing shot down the copper kitchen, Aira mid-frame at the marble island, hanging pans gleaming overhead. The full figure reads mid-frame, weight on one foot as the other slips into a clog, torso tall. Camera at wide distance, the copper kitchen and hanging pans framing her. She stands mid-frame, near-frontal, the island before her. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A wide establishing shot down the copper kitchen, Aira mid-frame at the marble island, hanging pans gleaming overhead. The full figure reads mid-frame, weight on one foot as the other slips into a clog, torso tall. Camera at wide distance, the copper kitchen and hanging pans framing her. She stands mid-frame, near-frontal, the island before her. She steps to the marble island, weight on the planted right foot as the left slips into a clog, right hand on the pan handle and left tying the apron, hanging copper pans gleaming overhead. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 ATMOSPHERE: warm gourmet energy, lively and inviting.
 
@@ -8071,9 +8071,9 @@ SHOT TYPE & ANGLE: wide, subject fills ~32%.
 LENS: 28mm, f/3.2.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Wide establishing down the copper kitchen: she is already stepping to the marble island as a slow glide-in moves toward her, hanging copper pans gleaming overhead; eyes scanning the warm range with lively focus.
-- [00:02–00:04] The glide carries closer as she slips on a clog and ties the wrap-apron, pendant light warming her; a confident, easy set to her mouth.
-- [00:04–00:06] She lifts the copper pan toward the flaming range, eyes catching the blue flame, anticipation rising.
+- [00:00–00:02] Wide establishing down the copper kitchen: she is already stepping to the marble island — weight on the planted foot, left hand tying the apron — as a slow glide-in moves toward her, hanging copper pans gleaming overhead; eyes scanning the warm range with lively focus.
+- [00:02–00:04] The glide carries closer as she settles the clog and finishes tying the wrap-apron, pendant light warming her; a confident easy set to her mouth.
+- [00:04–00:06] She lifts the copper pan toward the flaming range in her right hand, weight rolling forward, eyes catching the blue flame, anticipation rising.
 
 FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
@@ -8113,11 +8113,11 @@ HAIR: a drifting strand at the upper frame.
 
 MAKEUP: n/a (macro), warm-nude nails.
 
-HANDS & NAILS: her hand flicking the pan handle, fingers articulate; warm-nude nails.
+HANDS & NAILS: RIGHT HAND flicking the copper pan handle, RIGHT FINGERS articulate on the toss; warm-nude nails, neat, no white-knuckle tension.
 
 FACIAL MICRO-DYNAMICS: n/a.
 
-BODY POSTURE & WEIGHT: a deliberate wrist-flick toss, hand articulate — a crisp, fluid gesture.
+BODY POSTURE & WEIGHT: GAZE (implied) to the pan; the toss read through the flicking wrist; RIGHT ARM extended over the flame, the RIGHT HAND flicking the pan handle, RIGHT FINGERS articulate on the toss; LEFT ARM implied steadying; TORSO implied tall above in a deliberate wrist-flick; WAIST & HIPS implied square; WEIGHT settled even as she tosses — a crisp fluid wrist-flick, spices and a curl of flame arcing up.
 
 KINETIC STILLNESS (8 layers): (1) spices arcing up from the pan; (2) a curl of blue-orange flame; (3) a strand drifting; (4) flour-dust glittering; (5) a soft breath-shift; (6) the pendant swinging; (7) a copper reflection on the pan; (8) a micro-tremor of the toss.
 
@@ -8128,7 +8128,7 @@ LIGHTING: KEY — warm range glow. FILL — cream ambient. RIM — amber edge on
 LENS + DOF + BOKEH: 100mm macro, f/2.8; focus on the pan and spices; background warm bokeh.
 
 COMPOSITION: 9:16, pan on a power point, the spice-arc as a leading diagonal, warm negative space.
-SUBJECT FRAMING & POSITION: A macro/extreme close on the copper pan as a toss sends spices and a curl of flame into the air, flour-dust catching light — a detail insert, body out of frame. The pan and flame fill the frame, driven by a deliberate wrist-flick. Camera macro-near, flour-dust sparkling in the negative space. The figure is implied beyond the frame. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A macro/extreme close on the copper pan as a toss sends spices and a curl of flame into the air, flour-dust catching light — a detail insert, body out of frame. The pan and flame fill the frame, driven by a deliberate wrist-flick. Camera macro-near, flour-dust sparkling in the negative space. The figure is implied beyond the frame. A macro on the copper pan as a wrist-flick toss sends spices and a curl of flame into the air, the hand articulate on the handle, flour-dust catching light, the body implied tall above. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 ATMOSPHERE: the crisp instant before the flare.
 
@@ -8148,7 +8148,7 @@ LENS: 100mm macro, f/2.8.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
 - [00:00–00:02] Extreme macro on the copper pan: her wrist is already setting the pan over the flame as a slow push closes in, flour-dust catching the light.
-- [00:02–00:04] She flicks the toss and spices arc upward with a curl of blue flame, the pan sweeping.
+- [00:02–00:04] She flicks the toss and spices arc upward with a curl of blue flame, the pan sweeping under the articulate hand.
 - [00:04–00:06] The swirl of flour, steam and spice-light rises as the flare triggers, embers tumbling.
 
 FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
@@ -8189,11 +8189,11 @@ HAIR: the low bun in profile, a strand drifting in the updraft, color locked.
 
 MAKEUP: warm dewy glow, warm-rose lip, gilded-amber lid catching the light.
 
-HANDS & NAILS: one hand lifting as the swirl wraps the wrist, fingers elegant; warm-nude nails.
+HANDS & NAILS: RIGHT HAND lifting as the spice-light swirl wraps the wrist, RIGHT FINGERS elegant; LEFT HAND easing open, LEFT FINGERS soft; warm-nude nails, neat, no white-knuckle tension.
 
 FACIAL MICRO-DYNAMICS: eyes lifting in delight, lips parted ~1mm on a soft breath, a delighted inner-brow lift.
 
-BODY POSTURE & WEIGHT: rising in profile, spine lengthening, weight lifting — graceful upward momentum, never stiff.
+BODY POSTURE & WEIGHT: GAZE following the rising swirl; HEAD level in profile, lifting; SHOULDERS lifting as she rises; RIGHT ARM lifting as the swirl wraps the wrist, the RIGHT HAND open with RIGHT FINGERS elegant; LEFT ARM easing out, the LEFT HAND open, LEFT FINGERS soft; TORSO lengthening upright as she rises; WAIST & HIPS lifting up, lengthening; RIGHT LEG planting to push up, LEFT LEG following as she rises; FEET pressing to rise, weight transferring up; WEIGHT lifting up through the rise; HAIR stirring as the swirl wraps — graceful upward momentum, never stiff.
 
 KINETIC STILLNESS (8 layers): (1) the flour-steam-spice swirl wrapping her; (2) the apron re-plating to silk; (3) bun strands drifting; (4) a spice-mote spiralling; (5) chest breathing; (6) studs glinting; (7) range glow shifting; (8) a slow blink.
 
@@ -8204,7 +8204,7 @@ LIGHTING: KEY — warm range-and-pendant glow. FILL — cream ambient. RIM — a
 LENS + DOF + BOKEH: 50mm, f/2.2; focus on her near eye; kitchen as warm bokeh.
 
 COMPOSITION: 9:16, strong profile line, the rising swirl as a vertical, flour-dust framing.
-SUBJECT FRAMING & POSITION: A medium in clean full profile, Aira rising in profile as the swirl of flour, steam and spice-light wraps her, the apron beginning to transform. The body reads as a profile line from roughly the waist up, rising with the spine lengthening, weight lifting. Camera at mid distance, edge-on, the swirl around her. She is in profile, rising. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A medium in clean full profile, Aira rising in profile as the swirl of flour, steam and spice-light wraps her, the apron beginning to transform. The body reads as a profile line from roughly the waist up, rising with the spine lengthening, weight lifting. Camera at mid distance, edge-on, the swirl around her. She is in profile, rising. In profile she rises as the swirl of flour, steam and spice-light begins to wrap her, the right hand lifting as a ribbon of spice-light curls her wrist and the left easing open, the apron beginning to re-plate into silk. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 ATMOSPHERE: the warm lift into the flare.
 
@@ -8223,9 +8223,9 @@ SHOT TYPE & ANGLE: profile medium, subject fills ~55%.
 LENS: 50mm, f/2.2.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Profile medium: she is already rising as the swirl of flour, steam and spice-light begins to wrap her and a slow arc swings from profile toward three-quarter; gaze following the rising swirl.
+- [00:00–00:02] Profile medium: she is already rising as the swirl of flour, steam and spice-light begins to wrap her, her right hand lifting, and a slow arc swings from profile toward three-quarter, weight transferring up; gaze following the rising swirl.
 - [00:02–00:04] The apron begins to re-plate into silk and a ribbon of spice-light curls her wrist where she gestures, the arc easing round; eyes brightening in warm wonder.
-- [00:04–00:06] She begins the flourish-spin into the forming gown, gaze sweeping with the turn, a delighted breath.
+- [00:04–00:06] She begins the flourish-spin into the forming gown, weight settling onto her feet, gaze sweeping with the turn, a delighted breath.
 
 FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
@@ -8265,11 +8265,11 @@ HAIR: a soft bun.
 
 MAKEUP: a warm dewy glow, warm-rose lip; real pores and fine vellus texture.
 
-HANDS & NAILS: both hands easing back from the copper pan, fingers relaxed; warm-nude nails, neat cuticles.
+HANDS & NAILS: BOTH HANDS easing back from the copper pan, RIGHT and LEFT FINGERS relaxed; warm-nude nails, neat cuticles, no white-knuckle tension.
 
 FACIAL MICRO-DYNAMICS: a warm anticipatory gaze bright on the rising swirl, lips parting on a held breath — fully recognizable, identity-locked, ready for the flare mid-clip.
 
-BODY POSTURE & WEIGHT: rising at the marble island, weight settling, arms beginning to open — poised, the instant before the flare.
+BODY POSTURE & WEIGHT: GAZE bright with the rising swirl; HEAD level, chin lifting as the gown re-plates; SHOULDERS open as both arms ease back; RIGHT ARM easing back from the copper pan, the RIGHT HAND soft with RIGHT FINGERS relaxed; LEFT ARM beginning to open, the LEFT HAND soft, LEFT FINGERS relaxed; TORSO rising tall at the marble island; WAIST & HIPS settling square; RIGHT LEG and LEFT LEG planted even; FEET grounded even at the island; WEIGHT settling even as she rises — poised, the instant before the flare.
 
 KINETIC STILLNESS (8 layers): (1) the first swirl of flour and steam rising; (2) copper pans gleaming overhead in the warm kitchen; (3) a bun-strand lifting; (4) a curl of flame from the pan; (5) a held breath; (6) the spice-vial pendant glinting; (7) the apron rippling; (8) lashes settling on a blink.
 
@@ -8280,7 +8280,7 @@ LIGHTING: KEY — warm range glow. FILL — cream ambient. RIM — amber-rim on 
 LENS + DOF + BOKEH: 35mm, f/2.8; focus on Aira; the copper kitchen as soft warm bokeh, clearly present behind.
 
 COMPOSITION: 9:16, Aira a warm vertical at the island, the kitchen behind, headroom for the flare.
-SUBJECT FRAMING & POSITION: A front-on full/wide hero in the cream chef's set Look A, the first swirl just rising — the clean still the transform clip opens on. The complete figure is in frame, centred at the marble island, the copper kitchen present behind. Camera at full/wide distance. She faces front, centred. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A front-on full/wide hero in the cream chef's set Look A, the first swirl just rising — the clean still the transform clip opens on. The complete figure is in frame, centred at the marble island, the copper kitchen present behind. Camera at full/wide distance. She faces front, centred. She rises at the marble island in her cream chef's set, weight settling even and arms easing back from the pan, the first swirl of flour, steam and spice-light just rising around her, copper pans gleaming overhead — the clean Look A the flare opens on. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 ATMOSPHERE: warm anticipation — the breath before the kitchen plates her into couture.
 
@@ -8299,8 +8299,8 @@ SHOT TYPE & ANGLE: front-on full/wide hero, subject fills ~55%, spinning centred
 LENS: 35mm, f/2.8.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Cut to a front-on full/wide hero at a HELD angle (Veo first frame = the cream chef's set Look A still): already in motion, a gentle push-with easing in as the first swirl of flour, steam and spice-light rises around her — the chef's set fully intact, the gown NOT yet re-plated, the copper kitchen warm behind; gaze bright with the rising swirl.
-- [00:02–00:04] The flare BEGINS here, mid-clip: the rising swirl of flour, steam and spice-light re-plates her apron smoothly into the flowing saffron-and-cream couture gown exactly where it wraps — believable real kitchen physics, real flour-dust drift, steam and flame-curl on true arcs (no cheap sparkles), the warm kitchen behind, the camera angle held as she turns; eyes widening in radiant awe.
+- [00:00–00:02] Cut to a front-on full/wide hero at a HELD angle (Veo first frame = the cream chef's set Look A still): already in motion, a gentle push-with easing in as the first swirl of flour, steam and spice-light rises around her and her arms ease back from the pan — the chef's set fully intact, the gown NOT yet re-plated, the copper kitchen warm behind; gaze bright with the rising swirl.
+- [00:02–00:04] The flare BEGINS here, mid-clip: the rising swirl of flour, steam and spice-light re-plates her apron smoothly into the flowing saffron-and-cream couture gown exactly where it wraps as her arms open — believable real kitchen physics, real flour-dust drift, steam and flame-curl on true arcs (no cheap sparkles), the warm kitchen behind, the camera angle held as she turns; eyes widening in radiant awe.
 - [00:04–00:06] The flare completes and the look settles smoothly and fully into the saffron-and-cream couture gown of Frame 5's still (Veo's LAST frame), spice-light flung on real arcs — a radiant awed smile landing, no last-second snap.
 
 FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
@@ -8341,11 +8341,11 @@ HAIR: the loosened bun with face-framing strands.
 
 MAKEUP: warm dewy glow, warm-rose lip, gilded-amber highlight.
 
-HANDS & NAILS: one hand resting at the gown, the other gesturing to the warm kitchen; warm-nude nails.
+HANDS & NAILS: RIGHT HAND resting at the gown, RIGHT FINGERS light on the couture skirt; LEFT HAND gesturing to the warm kitchen in a confident flourish, LEFT FINGERS softly spread; warm-nude nails, neat, no white-knuckle tension.
 
 FACIAL MICRO-DYNAMICS: a radiant warm smile delivering the line, eyes bright, brows lifted in delight, cheeks high.
 
-BODY POSTURE & WEIGHT: tall and grounded, soft contrapposto, shoulders open, chin level — radiant and relaxed.
+BODY POSTURE & WEIGHT: GAZE warm and assured, flicking across the pans then to lens; HEAD level, turning to camera for the line; SHOULDERS open and relaxed; RIGHT ARM resting at the gown, the RIGHT HAND soft on the couture skirt, RIGHT FINGERS light; LEFT ARM gesturing to the warm kitchen in a confident flourish, the LEFT HAND open, LEFT FINGERS softly spread; TORSO tall and grounded in a soft contrapposto; WAIST & HIPS in a gentle counter-tilt, weight eased onto the back leg; RIGHT LEG and LEFT LEG grounded with weight on the back leg; FEET grounded even; HAIR sleek and warm — radiant and relaxed.
 
 KINETIC STILLNESS (8 layers): (1) spice-light still settling on the gown; (2) pendant glow breathing; (3) face-framing strands lifting; (4) the gown hem shedding a glint; (5) chest breathing on the line; (6) studs settling; (7) a steam-curl drifting; (8) lashes flaring on the smile.
 
@@ -8356,7 +8356,7 @@ LIGHTING: KEY — warm golden pendant. FILL — cream ambient. RIM — amber rim
 LENS + DOF + BOKEH: 35mm, f/2.8; deep enough to read the gown and kitchen; pans as warm bokeh.
 
 COMPOSITION: 9:16, Aira centred and radiant, the warm kitchen framing her.
-SUBJECT FRAMING & POSITION: A three-quarter front cowboy/full, Aira settled in the couture gown at the marble island, gesturing to the warm kitchen. The body reads from roughly mid-thigh up, tall and grounded in a soft contrapposto, shoulders open, chin level. Camera at a cowboy-to-full distance, the warm kitchen around her. She is turned three-quarter front, radiant and relaxed. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A three-quarter front cowboy/full, Aira settled in the couture gown at the marble island, gesturing to the warm kitchen. The body reads from roughly mid-thigh up, tall and grounded in a soft contrapposto, shoulders open, chin level. Camera at a cowboy-to-full distance, the warm kitchen around her. She is turned three-quarter front, radiant and relaxed. She settles tall and grounded in the saffron-and-cream couture gown at the marble island, soft contrapposto with the right hand at the gown and the left gesturing to the kitchen in a flourish, shoulders open as she turns to lens for the line. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 ATMOSPHERE: warm joy — the punchline of the flare.
 
@@ -8375,9 +8375,9 @@ SHOT TYPE & ANGLE: three-quarter front cowboy/full, subject fills ~50%.
 LENS: 35mm, f/2.8.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Three-quarter front cowboy/full: she is already settling into the couture gown at the marble island as a slow push eases toward three-quarter front; gaze warm and assured.
-- [00:02–00:04] She gestures with a confident flourish to the warm copper kitchen, eyes flicking across the gleaming pans with bright pride.
-- [00:04–00:06] She turns to lens and delivers the spoken line with a radiant smile, cheeks lifting in lively delight.
+- [00:00–00:02] Three-quarter front cowboy/full: she is already settling into the couture gown at the marble island, weight easing onto the back leg, as a slow push eases toward three-quarter front; gaze warm and assured.
+- [00:02–00:04] She gestures with a confident flourish of her left hand to the warm copper kitchen, eyes flicking across the gleaming pans with bright pride, the right resting at the gown.
+- [00:04–00:06] She turns to lens and delivers “a little heat, and everything transforms.” with a radiant smile, cheeks lifting in lively delight.
 
 FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
@@ -8419,11 +8419,11 @@ HAIR: the loosened bun re-settling toward the Frame 1 bun.
 
 MAKEUP: warm dewy glow easing back to the opening finish.
 
-HANDS & NAILS: arms returning to the Frame 1 stance, the pan back in hand — echoing Frame 1; warm-nude nails.
+HANDS & NAILS: RIGHT HAND returning to the copper pan handle, RIGHT FINGERS wrapped — echoing Frame 1; LEFT HAND at the apron string, LEFT FINGERS articulate; warm-nude nails, neat, no white-knuckle tension.
 
 FACIAL MICRO-DYNAMICS: the same confident warm smile as Frame 1, eyes on the kitchen, lips softly closed.
 
-BODY POSTURE & WEIGHT: turning back into the Frame 1 stance, weight settled.
+BODY POSTURE & WEIGHT: GAZE sweeping the copper; HEAD turning back to the island; SHOULDERS easing to the entry set; RIGHT ARM returning to the pan handle, the RIGHT HAND gripping it, RIGHT FINGERS wrapped — echoing Frame 1; LEFT ARM easing to the apron, the LEFT HAND at the string, LEFT FINGERS articulate; TORSO rotating back into the Frame-1 stance; WAIST & HIPS squaring with a soft counter-tilt; RIGHT LEG and LEFT LEG easing back to the entry stance; FEET settling onto the entry footing; HAIR sleek as the couture gown softens to the cream chef's set.
 
 KINETIC STILLNESS (8 layers): (1) the gown softening to the chef's set; (2) steam curling; (3) a strand swaying; (4) flour-dust drifting; (5) chest breathing; (6) the pan glinting; (7) a flame flicker; (8) a slow blink.
 
@@ -8434,7 +8434,7 @@ LIGHTING: identical scheme to Frame 1 — warm pendant key, cream fill, copper r
 LENS + DOF + BOKEH: 28mm, f/3.2, matching Frame 1; pans as warm bokeh.
 
 COMPOSITION: 9:16, mirroring Frame 1's island framing for a seamless cut.
-SUBJECT FRAMING & POSITION: A wide matching Frame 1, Aira turning back to the island as the couture gown softens toward the cream chef's set. The full figure reads mid-frame, turning back into the opening stance, weight settled. Camera at wide distance, mirroring Frame 1's kitchen framing for a seamless loop. She turns back to the island. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A wide matching Frame 1, Aira turning back to the island as the couture gown softens toward the cream chef's set. The full figure reads mid-frame, turning back into the opening stance, weight settled. Camera at wide distance, mirroring Frame 1's kitchen framing for a seamless loop. She turns back to the island. She turns back to the island, weight settling into the Frame-1 stance, right hand on the pan handle and left at the apron as the couture gown softens to the cream chef's set, for a seamless loop. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 ATMOSPHERE: the gentle return to the prep beat.
 
@@ -8453,9 +8453,9 @@ SHOT TYPE & ANGLE: wide matching Frame 1, subject ~32%.
 LENS: 28mm, f/3.2.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] Wide matching Frame 1: a slow glide-out is already reversing the opening glide-in as she turns back to the island; gaze sweeping the copper.
+- [00:00–00:02] Wide matching Frame 1: a slow glide-out is already reversing the opening glide-in as she turns back to the island, the pan returning to her hand; gaze sweeping the copper.
 - [00:02–00:04] The glide continues as the couture gown softens back into the cream chef's set and the copper pan returns to her hand; a warm content smile returning.
-- [00:04–00:06] She settles into the exact stance of Frame 1 at the island, eyes on the range — a seamless loop seam.
+- [00:04–00:06] She settles into the exact stance of Frame 1 at the island, weight settled, eyes on the range — a seamless loop seam.
 
 FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
