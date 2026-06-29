@@ -268,6 +268,15 @@ woman."** Never write the character's name into a Veo prompt. Ingredient labels 
 ### SC-36 · SNOW RUN (Toboggan) — **BUILT** · 4 shots × 6s · SILENT
 - mode **toboggan/sled** · journey **snow slope → pine weave → the jump → village stop** · signature **snow-plume spray + crystalline sun-sparkle + ice-glitter** · light **bright bluebird snow** · wardrobe **mustard-red snowsuit + furry trapper hat + scarf** · hair **two low looped buns (odango)** · `@object` = wooden toboggan · shot-grammar **high aerial slope track / low ground-level pine weave / side-profile jump-arc / push-in+crane village**. **FILE:** `SC-36 · Snow Run (Toboggan).md`
 
+### SC-37 · RIVER DRIFT (Riverboat) — **BUILT** · 4 shots × 6s · SILENT
+- mode **paddle-wheel riverboat** · journey **EXT river bend → forest banks → riverside town → wide delta** · signature **dappled water-light + drifting blossom/leaves + paddle-wheel sparkle & clearing mist** · light **bright sunny river, mist clearing** · wardrobe **navy-white Breton sailor dress + sailor cap + neckerchief** · hair **pin-up curls + knotted bandana** · `@object` = paddle-wheel riverboat · shot-grammar **exterior high aerial bend / water-line hull dolly / parallel profile town / push-in+crane delta**. **FILE:** `SC-37 · River Drift (Riverboat).md`
+
+### SC-38 · ORCHARD HARVEST (Cart) — **BUILT** · 4 shots × 6s · SILENT
+- mode **hand-pulled harvest cart** · journey **orchard rows → blossom barn → meadow lane → farmhouse table** · signature **drifting blossom/leaves + warm golden light + floating hay-dust motes** · light **warm golden orchard, cosy** · wardrobe **red gingham prairie sundress + apron + wide straw hat** · hair **low loose pigtails with gingham ribbons** · `@object` = rustic wooden harvest cart · shot-grammar **low track-with rows / low ground-level barn / high 3/4 meadow lane / push-in+crane table**. **FILE:** `SC-38 · Orchard Harvest (Cart).md`
+
+### SC-39 · PLAZA DANCE (Dance) — **BUILT** · 4 shots × 6s · SILENT
+- mode **dance** · journey **fountain plaza → sunlit colonnade → rooftop terrace → blossom garden** · signature **silk shawl swirling into colour-ribbons + drifting petals + fountain light-glints** · light **bright warm afternoon** · wardrobe **scarlet-coral ruffled circle-skirt dance dress + gold hoops** · hair **sleek high ballerina bun + flower** · `@object` = flowing ombré silk shawl · shot-grammar **low orbit twirl / parallel profile colonnade / high 3/4 rooftop orbit / push-in+crane garden**. **FILE:** `SC-39 · Plaza Dance (Dance).md`
+
 ## CONCEPT ROADMAP — ALL CONCEPTS BUILT ✓
 *(rickshaw SC-05 dropped; redundant 2nd-blossom SC-20 dropped. All 19 planned concepts + the SC-A1 anime concept are fully
 built, and ALL have been rebuilt to the **CORRECTED STANDARD (v2)** above — clean front-facing/plain-bg `@subject`,
