@@ -955,3 +955,211 @@ choir-pad on the ascent only. Layered: glassy bell/piano, deep sub, choir-pad at
 **→ Loops back to Frame 1 (the surface duck-dive).**
 
 **Stills to generate:** 2 per frame × 5 frames = 10 (Subject + Environment; no hero object this concept). Score = 30s MASTER AUDIO under the diegetic.
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+# SC-14 · ALPINE ASCENT (Cable-Car / Hike) · 4 shots × 6s · *(no constant object — 2 stills per frame: Subject + Environment; cable-car lives in Frame 1's environment)*
+**Logline:** A crisp mountain climb — the subject rides a glass cable-car up out of the valley, strolls a
+sun-dappled pine forest, picks her way along a high cliff path, and arrives at a mirror-still summit lake ringed
+by snow peaks. Signature: snow-sparkle drifting on the cold air + crystalline light off ice and water + alpine
+wildflowers lifting. Fresh, cool, exhilarating.
+**Arc:** CABLE-CAR RISE → PINE FOREST → CLIFF PATH → SUMMIT LAKE (signature).
+
+## MASTER AUDIO (outside the frames — background music)
+A 24-second custom cinematic score (4 clips × 6s) in self-resolving ~6-second phrases, trimmable at any phrase
+boundary. Built on a bright piano, soaring strings, a light woodwind, a crystalline bell and a warm sub — crisp,
+clean, exhilarating. Opens (no fade-in) on a bright piano-and-crystalline-bell figure. Arc: an anticipatory open in
+the rising cable-car, a refreshed forest stroll, an exhilarated ridge build, then a triumphant peak at the summit
+lake, resolving for an invisible loop. Laid UNDER the diegetic — no spoken line; optional wordless aah on the
+summit only. Layered: piano/woodwind, warm sub, soaring strings, a crystalline shimmer, a single lift for the summit.
+
+## GLOBAL STYLE LOCKS
+- **Outfit:** a cream chunky cable-knit sweater tucked into a forest-green corduroy A-line skirt, with warm cream tights; a plaid wool scarf (forest/cream/rust).
+- **Headwear:** a **cream pompom beanie** (this concept has headwear). **Accessories:** cream knit fingerless mitts (often pushed back), a small tan crossbody. **Eye colour:** warm amber-hazel. **Makeup:** fresh cold-air glow — luminous skin with a natural wind-flush on the cheeks and nose, a soft rose lip, neat brows. **Hair:** a neat **fishtail braid over one shoulder**, tucked under the beanie. **Footwear:** tan suede ankle boots. **Nails:** short soft warm rose.
+- **Hero object:** none constant (the glass cable-car is part of Frame 1's environment; thereafter her own hike) → each frame uses 2 stills (Subject + Environment); the plaid scarf is a recurring motion-piece.
+- **Signature (grounded):** fine snow-sparkle drifting on the cold air, crisp crystalline light glinting off ice/snow/lake, alpine wildflowers nodding. Real cold-air physics + light.
+- **Journey + light:** crisp cool alpine (brightening) — valley-soft light in the cable-car → dappled cool pine forest → bright open cliff path → brilliant clean summit lake. *Footing: F1 stands in the car; F2–4 hikes on solid ground.*
+
+---
+### FRAME 1 — CABLE-CAR RISE
+**Frame angle:** ¾ from inside the car (~30° front-side), soft cool valley light through the glass.
+**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **¾ from inside the car (~30°)**. · Outfit: cream cable-knit + forest cord skirt + plaid scarf + cream tights. · Headwear: cream pompom beanie. · Accessories: knit mitts, tan crossbody. · Eye colour: amber-hazel. · Makeup: cold-air glow, soft rose lip. · Hair: fishtail braid over the shoulder. · Footwear: tan suede ankle boots. · Nails: warm rose. · static & neutral, plain blank background.
+**STILL 2 · ENVIRONMENT:** the interior of a glass alpine cable-car rising out of the valley — wide windows, the green valley and a village dropping away below, snow peaks lifting into view ahead, soft valley light; ¾ interior vantage.
+**VIDEO PROMPT:**
+- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
+- *Animation:* MEDIUM ¾ from inside the car, **one continuous slow rise as the valley drops away through the glass.** [00:00–00:02] she stands at the glass holding the rail, the green valley and village receding below, soft valley light. [00:02–00:04] she looks up as snow peaks lift into view ahead, fine snow-sparkle drifting past the glass, a fresh open smile. [00:04–00:06] she tugs her scarf and gazes up at the peaks as the car climbs toward the forested upper station. Real-time, believable cable-car sway + rising parallax; 9:16.
+- *AUDIO (in-frame):* ambient/object — the cable-car's hum and cable-tick, a gentle sway-creak, muffled wind beyond the glass; voice — Aira's bright anticipatory breath and a soft "wow" at the peaks.
+**→ Cut (match-on-action) to Frame 2 — she steps off into a sun-dappled pine forest.**
+
+---
+### FRAME 2 — PINE FOREST
+**Frame angle:** low ¾ front (~30° left, low track-with), dappled cool forest light.
+**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **low ¾ front (~30° left)**. · Outfit: cream cable-knit + forest cord skirt + plaid scarf + tights. · Headwear: cream pompom beanie. · Accessories: knit mitts, crossbody. · Eye colour: amber-hazel. · Makeup: cold-air glow, rose lip. · Hair: fishtail braid. · Footwear: tan suede boots. · Nails: warm rose. · static & neutral, plain blank background.
+**STILL 2 · ENVIRONMENT:** a sun-dappled alpine pine forest — tall firs, a soft needle-and-moss path, shafts of cool light, alpine wildflowers along the edges; low ¾-front vantage down the path.
+**VIDEO PROMPT:**
+- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
+- *Animation:* FULL, **one continuous low track with her down the path.** [00:00–00:02] she walks the soft pine path mid-stride, dappled cool light shafting through the firs, scarf swaying. [00:02–00:04] she looks up at the sunlit canopy and brushes a fern with her fingers, alpine wildflowers nodding, a contented breath. [00:04–00:06] she strides on toward where the trees open onto a high cliff path. Real-time, natural sure-footed walking, planted weight; 9:16.
+- *AUDIO (in-frame):* ambient/object — boots on the soft needle path, birdsong, a breeze through the firs, a fern brush; voice — a refreshed contented breath and a soft hum from Aira.
+**→ Cut (match-on-action) to Frame 3 — she emerges onto the open cliff path.**
+
+---
+### FRAME 3 — CLIFF PATH
+**Frame angle:** high ¾ looking along the ridge (~45° down), bright open alpine light.
+**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **high ¾ along the ridge**. · Outfit: cream cable-knit + forest cord skirt + plaid scarf + tights. · Headwear: cream pompom beanie. · Accessories: knit mitts, crossbody. · Eye colour: amber-hazel. · Makeup: cold-air glow, rose lip. · Hair: fishtail braid. · Footwear: tan suede boots. · Nails: warm rose. · static & neutral, plain blank background.
+**STILL 2 · ENVIRONMENT:** a high open cliff path cut along a ridge — a vast valley far below, snow peaks across the air, bright open light, wildflowers in the rock; high ¾ vantage along the ridge.
+**VIDEO PROMPT:**
+- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
+- *Animation:* WIDE, high ¾ looking along the ridge, **one continuous slow aerial track beside her.** [00:00–00:02] she walks the open cliff path, the vast valley far below, snow peaks across the air, scarf and braid lifting in the wind. [00:02–00:04] she lifts a hand to steady her beanie and gazes out at the peaks with exhilarated awe, fine snow-sparkle and crystalline light glinting off distant ice. [00:04–00:06] she walks on along the ridge toward a brilliant opening where a summit lake waits. Real-time, believable wind + sure footing; 9:16.
+- *AUDIO (in-frame):* ambient/object — gusting wind on the ridge, the scarf snapping, boots on rock, a distant bird; voice — Aira's exhilarated breath and a bright "woah!" in the wind.
+**→ Cut (match-on-action) to Frame 4 — the ridge opens onto the mirror-still summit lake.**
+
+---
+### FRAME 4 — SUMMIT LAKE (signature · loop)
+**Frame angle:** ¾ front opening to the vista (~30°, slight low-hero), brilliant clean summit light.
+**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **¾ front (~30°)**. · Outfit: cream cable-knit + forest cord skirt + plaid scarf + tights. · Headwear: cream pompom beanie. · Accessories: knit mitts, crossbody. · Eye colour: amber-hazel. · Makeup: cold-air glow, rose lip. · Hair: fishtail braid. · Footwear: tan suede boots. · Nails: warm rose. · static & neutral, plain blank background.
+**STILL 2 · ENVIRONMENT:** a mirror-still summit lake ringed by snow peaks — the peaks doubled perfectly in the glass-calm water, brilliant clean light, snow-sparkle on the air, wildflowers at the shore; ¾-front vantage opening to the lake.
+**VIDEO PROMPT:**
+- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
+- *Animation:* WIDE, **one continuous slow hero push-in then crane pull-back to reveal the summit.** [00:00–00:02] she steps to the edge of the mirror-still lake, snow peaks doubled in the glass-calm water, brilliant clean light. [00:02–00:04] the signature peaks — fine snow-sparkle drifts on the cold air, crystalline light glints off ice and water, wildflowers nod at the shore; she sweeps an arm to the vista with radiant triumph. [00:04–00:06] the camera cranes back to reveal the full lake and the ring of peaks around her — easing toward the bright valley-rise of the opening for a loop. Real-time, real still-water reflections + cold-air light; 9:16.
+- *AUDIO (in-frame):* ambient/object — an utter alpine stillness, the faint lap of the glass-calm lake, a soft cold breeze, a distant ice-crack; voice — Aira's awed breath and a soft triumphant "yeah…".
+**→ Loops back to Frame 1 (the cable-car rise).**
+
+**Stills to generate:** 2 per frame × 4 frames = 8 (Subject + Environment; Frame 1's environment includes the glass cable-car). Score = 24s MASTER AUDIO under the diegetic.
+
+═══════════════════════════════════════════════════════════════════════════════
+
+# SC-15 · KITE RUN (Kite) · 4 shots × 6s
+**Logline:** A wind-chasing run with a giant kite — the subject launches a huge ribboned kite off a grassy
+headland, races it along a dune ridge, brings it to a soaring bloom at the cliff edge, then leans back into the
+sky as the wind takes everything up. Signature: the kite's long colour-ribbons streaming and braiding into shapes
+on the wind + racing cloud-shadows + grass and sand lifting in the gusts. Free, joyful, kinetic.
+**Arc:** HEADLAND LAUNCH → DUNE RIDGE → CLIFF-EDGE RIBBON-BLOOM (signature) → SKY-LAUNCH LEAN.
+
+## MASTER AUDIO (outside the frames — background music)
+A 24-second custom cinematic score (4 clips × 6s) in self-resolving ~6-second phrases, trimmable at any phrase
+boundary. Built on bright uplifting strings, light driving percussion, a soaring flute/whistle motif and a warm
+sub — free, kinetic, joyful. Opens (no fade-in) on a bright soaring figure. Arc: an exhilarated launch open, a
+driving race along the ridge, an awed build at the ribbon-bloom, then a triumphant peak on the sky-lean, resolving
+for an invisible loop. Laid UNDER the diegetic — no spoken line; optional wordless soaring vocal on the lean only.
+Layered: flute/string melody, warm sub, driving percussion riding her run, a single lift for the sky-lean.
+
+## GLOBAL STYLE LOCKS
+- **Outfit:** a primary-bright playsuit — a colour-block romper (cobalt bodice, sunshine-yellow shorts, a red waist-tie), with a thin red windbreaker tied at the waist.
+- **Headwear:** none. **Accessories:** a slim cord bracelet. **Eye colour:** warm amber-hazel. **Makeup:** fresh sporty glow — luminous wind-flushed skin, clear bright eyes, a soft coral lip, neat brows. **Hair:** a **high windswept ponytail** tied with a red band, streaming hard. **Footwear:** white canvas sneakers. **Nails:** short bright coral.
+- **Hero object:** a giant delta kite with long multicoloured ribbon-tails + a wooden spool of line.
+- **Signature (grounded):** the kite's long colour-ribbons stream and braid into looping shapes on the wind, cloud-shadows race over the land, grass and sand lift in the gusts. Real wind + line-tension. *Footing: feet planted (she leans into the wind, never floats).*
+- **Journey + light:** bright windy coast, clouds racing — open green headland → golden dune ridge → bright cliff edge over the sea → big open sky.
+
+---
+### FRAME 1 — HEADLAND LAUNCH
+**Frame angle:** low-hero ¾ front, angled back-and-up toward the kite (~30°), bright windy-coast light.
+**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **low-hero ¾ front (~30°)**. · Outfit: cobalt/yellow/red colour-block romper + tied red windbreaker. · Headwear: none. · Accessories: cord bracelet. · Eye colour: amber-hazel. · Makeup: sporty glow, coral lip. · Hair: high windswept ponytail (red band). · Footwear: white sneakers. · Nails: bright coral. · static & neutral, plain blank background.
+**STILL 2 · OBJECT (plain bg):** the giant ribboned delta kite + wooden line-spool, at **low ¾ (angled up)** — bright sail panels, long multicoloured ribbon-tails, the wooden spool of line. Clean, isolated, plain blank background.
+**STILL 3 · ENVIRONMENT:** a wide open green headland over the sea — windblown grass, a big racing-cloud sky, the kite just catching air overhead; low-hero ¾-front vantage.
+**VIDEO PROMPT:**
+- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
+- *Animation:* FULL low-hero, **one continuous track with her as the kite catches air.** [00:00–00:02] she is already sprinting across the windblown headland, line raised high, the giant ribboned kite climbing off her hand into the racing-cloud sky. [00:02–00:04] the kite snaps taut and soars, its colour-ribbons streaming; she glances up at it with a wide open laugh, grass lifting in the gust. [00:04–00:06] she runs on along the headland steering the climbing kite toward a golden dune ridge. Real-time, real wind + line-tension + running weight; 9:16.
+- *AUDIO (in-frame):* ambient/object — wind gusting, the kite-fabric snapping taut, the line thrumming, grass hissing; voice — Aira's breathless open laugh and a joyful "woohoo!".
+**→ Cut (match-on-action) to Frame 2 — the run carries up onto a golden dune ridge.**
+
+---
+### FRAME 2 — DUNE RIDGE
+**Frame angle:** full profile (true side), golden dune-and-sea light.
+**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, in **full profile**. · Outfit: colour-block romper + tied red windbreaker. · Headwear: none. · Accessories: cord bracelet. · Eye colour: amber-hazel. · Makeup: sporty glow, coral lip. · Hair: high windswept ponytail. · Footwear: white sneakers. · Nails: bright coral. · static & neutral, plain blank background.
+**STILL 2 · OBJECT (plain bg):** the kite + spool in **profile**, the kite high and streaming — ribbon-tails trailing, the line angled up. Clean, isolated, plain blank background.
+**STILL 3 · ENVIRONMENT:** a golden dune ridge above the beach — rippled sand, marram grass, the sea bright beyond, cloud-shadows racing across the dunes; profile vantage along the crest.
+**VIDEO PROMPT:**
+- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
+- *Animation:* WIDE profile, **one continuous parallel track at her run-pace.** [00:00–00:02] she races the golden dune crest, the kite high and streaming above, cloud-shadows racing across the sand. [00:02–00:04] she feeds the line out and flicks her gaze up to the kite with a bright grin, sand kicking up off her sneakers in the gusts. [00:04–00:06] she drives on toward the bright cliff edge, the kite climbing higher. Real-time, real sand + wind + running dynamics; 9:16.
+- *AUDIO (in-frame):* ambient/object — wind, the kite-line humming, sneakers kicking up sand, marram grass rustling; voice — a bright determined "yeah!" and quick breaths from Aira.
+**→ Cut (match-on-action) to Frame 3 — she reaches the cliff edge and brings the kite to a bloom.**
+
+---
+### FRAME 3 — CLIFF-EDGE RIBBON-BLOOM (signature)
+**Frame angle:** low looking up (the kite overhead, ~30° up), bright open sky light.
+**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **low looking up**. · Outfit: colour-block romper + tied red windbreaker. · Headwear: none. · Accessories: cord bracelet. · Eye colour: amber-hazel. · Makeup: sporty glow, coral lip. · Hair: high windswept ponytail. · Footwear: white sneakers. · Nails: bright coral. · static & neutral, plain blank background.
+**STILL 2 · OBJECT (plain bg):** the kite + long looping ribbons at **low looking up** — the kite overhead, ribbon-tails braiding into shapes. Clean, isolated, plain blank background.
+**STILL 3 · ENVIRONMENT:** a bright grassy cliff edge over the open sea — big sky, the sea far below, the kite directly overhead, its long ribbons looping on the wind; low looking-up vantage.
+**VIDEO PROMPT:**
+- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
+- *Animation:* WIDE, camera low looking up, **one continuous slow orbit around her.** [00:00–00:02] she plants at the cliff edge and works the line, the giant kite directly overhead against the big sky, braced against its pull. [00:02–00:04] the signature blooms — the kite's long colour-ribbons loop and braid into shapes on the wind, cloud-shadows racing; she gazes up with awed open-mouthed delight. [00:04–00:06] the orbit settles to her front as she leans back harder into the wind, line taut, the sea far below. Real-time, real wind + ribbon + line physics, planted braced footing; 9:16.
+- *AUDIO (in-frame):* ambient/object — the kite-ribbons fluttering and snapping into looping shapes, strong wind, the sea far below; voice — Aira's awed open-mouthed "woah…" gazing up.
+**→ Cut (match-on-action) to Frame 4 — she leans all the way back into the wind.**
+
+---
+### FRAME 4 — SKY-LAUNCH LEAN (loop)
+**Frame angle:** low 3/4 hero (back-lean), opening to a glance at lens, big bright sky light.
+**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **low 3/4 hero**. · Outfit: colour-block romper + tied red windbreaker. · Headwear: none. · Accessories: cord bracelet. · Eye colour: amber-hazel. · Makeup: sporty glow, coral lip. · Hair: high windswept ponytail. · Footwear: white sneakers. · Nails: bright coral. · static & neutral, plain blank background.
+**STILL 2 · OBJECT (plain bg):** the kite filling the sky + ribbons at **low 3/4** — the kite high and broad, ribbon-tails braiding overhead, the taut line. Clean, isolated, plain blank background.
+**STILL 3 · ENVIRONMENT:** the cliff edge and the whole open sky — the kite and its ribbons filling the air above, the sea and headland spreading wide, big bright sky; low 3/4 hero vantage.
+**VIDEO PROMPT:**
+- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
+- *Animation:* WIDE/full, low 3/4 hero, **one continuous slow crane pull-back opening the whole sky.** [00:00–00:02] she leans right back into the wind, line raised high, the kite and ribbons filling the air above, the wind holding her braced. [00:02–00:04] she laughs up at the sky then glances softly to lens, ribbons braiding overhead, grass and sand lifting. [00:04–00:06] the camera cranes back to reveal the full sky, sea and headland with her tiny and triumphant on the edge — easing toward the headland-launch run of the opening for a loop. Real-time, real wind-lean balance + ribbon physics, planted feet; 9:16.
+- *AUDIO (in-frame):* ambient/object — the wind roaring, the line taut and thrumming, ribbons braiding overhead; voice — Aira's exhilarated laugh and a free "wheee!", then a soft breath to lens.
+**→ Loops back to Frame 1 (the headland launch).**
+
+**Stills to generate:** 3 per frame × 4 frames = 12. Score = 24s MASTER AUDIO under the diegetic.
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+# SC-16 · BECOME THE BLOOM (Material → Couture) · 3 shots × 6s · *(TRANSFORM concept — 3rd still = @TEXTURE, not Object; wardrobe deliberately transforms per frame)*
+**Logline:** A material becomes couture — the subject walks a luxe garden in a simple slip; a drift of fresh
+blossom petals and soft light climbs her form and, beat by beat, builds itself into a full haute-couture gown.
+Grounded (real petal weight, real fabric drape forming), never cartoon. Signature: petals + light assemble into
+couture across the three beats.
+**Arc:** GATHERING (garden path) → FORMING (marble colonnade) → BLOOM-COMPLETE (fountain court / hero plinth).
+
+## MASTER AUDIO (outside the frames — background music)
+An 18-second custom cinematic score (3 clips × 6s) in self-resolving ~6-second phrases, trimmable at any phrase
+boundary. Built on an ethereal felt piano, swelling strings, a glassy choir-pad, a harp and a warm sub — luxe,
+dreamlike, transformative. Opens (no fade-in) on a soft ethereal piano figure. Arc: a serene gathering open, a
+wondrous swell as the gown forms, then a radiant peak on the bloom-complete reveal, resolving for an invisible
+loop. Laid UNDER the diegetic — no spoken line; optional wordless choir-swell on the reveal only. Layered:
+piano/harp, warm sub, glassy choir atmosphere, a single swell for the bloom-complete.
+
+## GLOBAL STYLE LOCKS
+- **Wardrobe (TRANSFORMS — the signature):** Frame 1 a simple ivory silk slip; Frame 2 a half-built petal-and-light bodice + forming skirt; Frame 3 a full blooming petal-couture gown (sculpted bodice, cascading petal-train). The SUBJECT still each frame shows that beat's wardrobe state.
+- **Headwear:** none. **Accessories:** fine pale-gold ear studs. **Eye colour:** warm amber-hazel. **Makeup:** luminous editorial — glowing skin, soft rose lip, dewy. **Hair:** a soft sculptural **low chignon** with a few loose tendrils (constant). **Footwear:** bare/nude (under the gown). **Nails:** short luminous pale-rose.
+- **3rd ingredient = `@texture`:** the building material — fresh blossom petals + soft light — a clean material swatch (plain bg), so the gown forms from a real reference, not invented.
+- **Signature (grounded-surreal):** petals + light climb and assemble into couture across the 3 beats; real petal weight + real cloth drape; luxe, dreamlike.
+- **Journey + light:** soft luxe sun brightening to the reveal — soft morning garden → diffused colonnade glow → bright luxe fountain-court key.
+
+---
+### FRAME 1 — GATHERING (garden path)
+**Frame angle:** low ¾ front (~30° right, low), warm soft morning light.
+**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **low ¾ front (~30° right)**. · Outfit (state): a simple ivory silk slip; first petals beginning to lift and cling. · Headwear: none. · Accessories: pale-gold studs. · Eye colour: amber-hazel. · Makeup: luminous, soft rose lip. · Hair: soft low chignon w/ tendrils. · Footwear: nude. · Nails: pale-rose. · static & neutral, plain blank background.
+**STILL 2 · @TEXTURE (plain bg):** the building material — fresh blush-pink + white blossom petals suspended in soft golden light, a clean material/light swatch. Isolated, plain blank background.
+**STILL 3 · ENVIRONMENT:** a luxe blossoming garden path — manicured hedges, blossom trees, soft morning light, dew; low ¾-front vantage.
+**VIDEO PROMPT:**
+- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
+- *Animation:* FULL, low ¾, **one continuous slow dolly-in**; the `@texture` blossom-and-light material gathers on her. [00:00–00:02] she walks the blossom path in the ivory slip, fingers grazing a low bloom, a serene curious gaze. [00:02–00:04] fresh petals and soft light lift from the path and cling to her form — the first of the gown gathering at her shoulder and waist, real petal weight. [00:04–00:06] she walks on, the material thickening softly, a faint knowing smile. Real-time, grounded gathering physics; 9:16.
+- *AUDIO (in-frame):* ambient/object — a soft garden breeze, petals lifting and rustling, the faint hush of the silk slip, birdsong; voice — a soft serene breath from Aira.
+**→ Cut (match-on-action) to Frame 2 — under the colonnade the material climbs into a forming gown.**
+
+---
+### FRAME 2 — FORMING (marble colonnade)
+**Frame angle:** ¾ turning (~40°, orbiting arc), diffused luxe colonnade glow.
+**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **¾ turning (~40°)**. · Outfit (state): a half-built petal-and-light bodice + forming skirt swirling up. · Headwear: none. · Accessories: pale-gold studs. · Eye colour: amber-hazel. · Makeup: luminous, soft rose lip. · Hair: soft low chignon w/ tendrils. · Footwear: nude. · Nails: pale-rose. · static & neutral, plain blank background.
+**STILL 2 · @TEXTURE (plain bg):** the climbing petal-couture material — petals + light mid-assembly into fabric, a clean swatch. Isolated, plain blank background.
+**STILL 3 · ENVIRONMENT:** a marble colonnade — tall pale columns, diffused luxe glow, soft shafts between pillars; ¾ vantage down the columns.
+**VIDEO PROMPT:**
+- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
+- *Animation:* MEDIUM ¾, **one continuous smooth orbit arcing around her**; the `@texture` climbs and forms couture. [00:00–00:02] she steps into the colonnade and begins a slow turn, the petal-and-light material spiralling up from her hem. [00:02–00:04] the gown forms in real time — a sculpted petal bodice cinching at the waist, a forming skirt fanning as she turns, light passing through it; she watches it climb her arm with dawning awe. [00:04–00:06] the half-built gown settles into shape as she completes the turn to a luminous half-smile. Real-time, real cloth-drape + petal physics as it forms; 9:16.
+- *AUDIO (in-frame):* ambient/object — a gentle swirl of petals climbing and settling into fabric, a soft cloth-rustle, a faint colonnade echo; voice — Aira's soft awed breath, a faint "oh" as it climbs her arm.
+**→ Cut (match-on-action) to Frame 3 — she steps into the bright fountain court as the gown completes.**
+
+---
+### FRAME 3 — BLOOM-COMPLETE (fountain court / hero plinth · loop)
+**Frame angle:** low front hero (head-on, slight up-tilt), bright luxe fountain-court key light.
+**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **low front hero**. · Outfit (state): a full blooming petal-couture gown — sculpted bodice, cascading petal-train, soft light through the layers. · Headwear: none. · Accessories: pale-gold studs. · Eye colour: amber-hazel. · Makeup: luminous, soft rose lip. · Hair: soft low chignon w/ tendrils. · Footwear: nude (under train). · Nails: pale-rose. · static & neutral, plain blank background.
+**STILL 2 · @TEXTURE (plain bg):** the completed petal-couture material — dense petals woven with soft light into couture fabric, a clean swatch. Isolated, plain blank background.
+**STILL 3 · ENVIRONMENT:** a bright fountain court — a grand fountain, open sky, a luxe stone plinth, sun key-light; low-front hero vantage.
+**VIDEO PROMPT:**
+- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
+- *Animation:* HERO low front, **one continuous slow crane-up easing into a push-in**; the `@texture` gown completes in a final bloom. [00:00–00:02] she steps onto the plinth as the last of the petal-and-light material sweeps into place — the full couture gown blooming complete, the train cascading and settling. [00:02–00:04] she settles into a poised stance, one hand resting on the petal-train, the gown's layers glowing softly in the key-light. [00:04–00:06] she lifts a calm commanding gaze to lens with a slow radiant smile, a few stray petals drifting and settling — easing toward the serene opening for a loop. Real-time, the finished gown reads as real couture (drape, weight); 9:16.
+- *AUDIO (in-frame):* ambient/object — a final soft sweep of petals settling, the fountain splashing, a gentle breeze; voice — Aira's serene satisfied breath and a soft "ah" of wonder.
+**→ Loops back to Frame 1 (the simple slip on the garden path).**
+
+**Stills to generate:** 3 per frame × 3 frames = 9 (Subject in that beat's wardrobe state + @texture swatch + Environment). Score = 18s MASTER AUDIO under the diegetic.
