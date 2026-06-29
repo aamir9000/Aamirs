@@ -29,7 +29,7 @@ A 24-second custom cinematic score (4 clips × 6s) in self-resolving ~6-second p
 **POSE (target for the video):** gaze ahead down the road, head easy with the cruise · neck relaxed · shoulders settled, driving · RIGHT hand on the wheel at 2-o'clock, LEFT elbow resting on the door, hand loose · torso reclined easy into the seat · waist relaxed · legs settled, RIGHT foot on the accelerator · feet easy. **EXPRESSION:** cool serene contentment, a faint smile behind the shades. **FACING:** high ¾-aerial (car small in the world).
 **VIDEO PROMPT:**
 > Animate `@subject` driving the open convertible along `@world`, graded open amber sunset. WIDE high aerial tracking the car on the coast road. [00:00–00:02] the convertible cruises the amber coast highway, her scarf and hair streaming, sea glowing beside. [00:02–00:04] she rests her LEFT elbow on the door, RIGHT hand easy on the wheel, gazing down the open road with a cool faint smile. [00:04–00:06] the car carries on toward a distant line of trees, golden road-dust trailing. Hold `@subject`'s identity exactly (same face/build/hair; only gaze/head/expression change). Real-time, no slow-motion; believable car motion and air-drag on hair/scarf. Open amber sunset, controlled vibrancy, natural skin tone. 9:16.
-**AUDIO:** realism — the V8 hum, wind rushing over the open cabin, scarf flutter, distant surf; score — a warm retro Rhodes-and-strings bed opens cool and serene.
+**AUDIO (in-frame):** ambient/object — the V8 hum, wind rushing over the open cabin, scarf flutter, distant surf; voice — a soft cool breath from the subject.
 **Cut (essence continuation, match-on-action) →** Shot 2: the road runs into the tunnel of trees and the light begins to strobe.
 
 ---
@@ -40,7 +40,7 @@ A 24-second custom cinematic score (4 clips × 6s) in self-resolving ~6-second p
 **POSE (target for the video):** gaze ahead through the flicker, then a glance up at the canopy · neck loose · shoulders relaxed, one hand off the wheel · RIGHT hand on the wheel, LEFT lifting to let the strobing light play over it · torso easy, basking in the flicker · waist relaxed · legs settled, foot steady on the accelerator · feet easy. **EXPRESSION:** blissful, eyes half-closing into the warm flicker, a soft smile. **FACING:** over-the-shoulder from inside.
 **VIDEO PROMPT:**
 > Animate `@subject` driving through `@world`, graded strobing warm gold and shadow. Over-the-shoulder from inside the car, a slow push-in toward her, sunset strobing between the trunks. [00:00–00:02] the car enters the tree tunnel, golden light strobing in bars across her face and the chrome. [00:02–00:04] the signature blooms — warm lens-flare streaks and golden road-dust swirl through the strobing light with a few oleander petals; she lifts her LEFT hand to let the flicker play over it, eyes half-closing blissfully. [00:04–00:06] she settles her hand back to the wheel, basking, as the tunnel's end brightens ahead. Hold `@subject`'s identity exactly; only gaze/head/expression change. Real-time, no slow-motion; real strobing light + dust, no cartoon sparkle. Strobing warm gold and shadow, controlled vibrancy, natural skin tone. 9:16.
-**AUDIO:** realism — the engine note echoing under the trees, a rhythmic light-flicker hush, wind; score — the strings swell blissfully; IMPACT — on the frame the flare-and-dust blooms in the strobing light, a warm key-tuned sub-bloom and a matched cinematic swell land inside the score, felt as the music expanding, not a separate effect.
+**AUDIO (in-frame):** ambient/object — the engine note echoing under the trees, a rhythmic light-flicker hush, wind, a soft warm flare-whoosh; voice — a blissful sigh from the subject.
 **Cut →** Shot 3: she bursts out of the tunnel onto the cliff bridge.
 
 ---
@@ -51,7 +51,7 @@ A 24-second custom cinematic score (4 clips × 6s) in self-resolving ~6-second p
 **POSE (target for the video):** gaze sweeping the open sea-view then back to the road · neck turning to the vista · shoulders open, one hand rising · RIGHT hand on the wheel, LEFT arm lifting into the wind off the door · torso opening tall to the view · waist easy · legs settled driving · feet steady. **EXPRESSION:** exhilarated awe, a wide open smile. **FACING:** profile / ¾ (tracking alongside).
 **VIDEO PROMPT:**
 > Animate `@subject` driving across `@world`, graded rose-gold sunset. MEDIUM, camera tracking low alongside the car, parallel at speed. [00:00–00:02] the convertible bursts onto the cliff bridge, the huge low sun and rose-gold sea opening beside her. [00:02–00:04] she lifts her LEFT arm into the wind off the door, turning to the sea-view with a wide open smile, scarf flying. [00:04–00:06] she eases her hand back and drives on toward the far overlook, golden dust trailing. Hold `@subject`'s identity exactly; only gaze/head/expression change. Real-time, no slow-motion; believable car motion. Rose-gold sunset, controlled vibrancy, natural skin tone. 9:16.
-**AUDIO:** realism — the open rush over the bridge, wind, gulls, the sea below; score — the motif lifts exhilarated and wide.
+**AUDIO (in-frame):** ambient/object — the open rush over the bridge, wind, gulls, the sea below; voice — the subject's exhilarated open laugh and a bright "woah!".
 **Cut →** Shot 4: she pulls up at the clifftop overlook as the sun touches the sea.
 
 ---
@@ -62,7 +62,7 @@ A 24-second custom cinematic score (4 clips × 6s) in self-resolving ~6-second p
 **POSE (target for the video):** gaze out at the setting sun then settling to lens · neck long, head tipping to the view then to camera · shoulders relaxed and open · RIGHT hand easing off the wheel to rest on the door, LEFT lowering her sunglasses a touch · torso turning toward lens, relaxed and tall · waist easy, a soft lean · legs settled, foot off the pedal · feet relaxed. **EXPRESSION:** serene glamorous warmth, a slow knowing smile. **FACING:** front (to lens) at the finish.
 **VIDEO PROMPT:**
 > Animate `@subject` pulling up at `@world`, graded deep amber sun's-edge. HERO MEDIUM low front, a slow push-in easing into a crane pull-back. [00:00–00:02] she rolls the convertible to a stop at the overlook as the sun melts into the sea, dust settling around the chrome. [00:02–00:04] she lowers her cat-eye sunglasses a touch with her LEFT hand and turns a slow knowing smile to lens, golden flares softening around her. [00:04–00:06] the camera cranes back to reveal the whole clifftop overlook and the sinking sun — easing toward the cool calm of the opening for a loop. Hold `@subject`'s identity exactly; only gaze/head/expression change. Real-time, no slow-motion. Deep amber sunset, controlled vibrancy, natural skin tone. 9:16.
-**AUDIO:** realism — the engine easing to idle then quiet, a soft breeze, settling dust; score — the score resolves to a deep warm golden chord easing back toward the opening for a loop.
+**AUDIO (in-frame):** ambient/object — the engine easing to idle then quiet, a soft breeze, settling dust; voice — a soft satisfied breath from the subject.
 **Cut →** loops back to Shot 1 (the open coast highway).
 
 ---

@@ -59,11 +59,11 @@ piano, sunlit plucked strings, a warm sub and an airy modern shimmer — joyful,
 stock or empty ambience. It opens immediately (no fade-in) on a bright piano figure haloed by a soft sub-bloom so
 the mood lands within the first second. Emotional arc: a light breezy open on the push-off, a rising sparkle of
 momentum through the market slipstream, the warm exhilarated peak on the canal-bridge carve (the petal-and-light
-bloom), then a graceful resolve back toward the opening for an invisible loop. SILENT reel — no spoken line; an
-optional wordless breath/aah may lift on the peak only if it elevates, never a lyric. Layered as one system — lead
-piano melody, warm sub for body, glassy shimmer as atmosphere, light brushed percussion riding her pedalling
-cadence, and event impacts reserved for the carve, each tuned to the score's key so every hit reads as the music
-itself expanding, never an added effect.
+bloom), then a graceful resolve back toward the opening for an invisible loop. This is the background music laid UNDER the per-frame diegetic
+sound — no spoken line; an optional wordless breath/aah may lift on the peak only if it elevates, never a lyric.
+Layered as one system — lead piano melody, warm sub for body, glassy shimmer as atmosphere, light brushed percussion
+riding her pedalling cadence, and event impacts reserved for the carve, each tuned to the score's key so every hit
+reads as the music itself expanding, never an added effect.
 
 ---
 
@@ -83,7 +83,7 @@ saddle, tilted into the drive · **RIGHT leg** driving the lead pedal down (weig
 
 **VIDEO PROMPT (paste into Flow):**
 > Low-hero wide, three-quarter front, the camera already craning up and tracking forward with her; bright soft morning side-light, dappled leaf-shadow on pale pavement, clear blue sky. [00:00–00:02] the subject is mid push-off — her RIGHT leg drives the lead pedal down as her gaze flicks to it, weight rising off then onto the tan saddle, both hands wrapping the grips, torso leaning forward over the bars, the cream bike surging off the mark and the ribbon ponytail snapping back. [00:02–00:04] she settles onto the saddle into the first strokes, RIGHT then LEFT leg finding rhythm, shoulders loosening, waist easing upright, a small private breath of effort and a half-smile as her gaze lifts to the leafy boulevard; morning sun flares between the plane-trees. [00:04–00:06] the bike gathers genuine speed, she shifts her weight forward over the bars and throws a quick glance to the flower-boxes sliding past, alive and unposed. Real-time natural speed, believable bicycle dynamics and weight transfer; identity held (only gaze/head/expression change); 9:16.
-**AUDIO:** realism — tyre crunch on pavement, a soft chain tick, a quiet breath of effort, birdsong, leaf-rustle in the breeze; score — the bright piano figure opens airy and light, brushed percussion finding her pedalling cadence.
+**AUDIO (in-frame):** ambient/object — tyre crunch on pavement, a soft chain tick and freewheel ratchet, birdsong, leaf-rustle in the morning breeze; voice — a quiet breath of effort from the subject, a soft under-breath hum.
 **Cut (essence continuation, match-on-action) →** Shot 2: the same forward momentum carries her out of the leafy boulevard and *into* the colourful market street.
 
 ---
@@ -105,7 +105,7 @@ of hair off her cheek · **RIGHT arm** bent, hand firm on the right grip · **to
 
 **VIDEO PROMPT (paste into Flow):**
 > Tight side-tracking profile, cowboy crop, the camera dollying parallel at her exact speed so she stays razor-sharp while the colourful market street streaks into bright sunlit motion-blur behind, soft coloured light-bands from the awnings washing over her. [00:00–00:02] the subject rises off the saddle onto the pedals for a couple of driving strokes then eases back down, scarf and ponytail streaming fully horizontal, legs working in real rhythm. [00:02–00:04] she lifts her LEFT hand off the bar into the rushing air, tips her face up to the breeze with a flickering eyes-closed grin, then sweeps a whipping strand of hair back from her cheek with that same hand; in her wake the first fresh blossom petals and bright sunlit light-motes lift and tumble in her draft. [00:04–00:06] she settles both hands back and throws a quick glance sideways at the streaking flower stalls, the camera racking focus to her exhilarated face as the petal-and-light wake thickens. Real-time, no slow-motion, candid behaviour, believable air-drag on hair/fabric and real petal weight; identity held (face = gaze/expression only); 9:16.
-**AUDIO:** realism — wind buffet, the whir of the wheels, distant market chatter and fluttering awnings; score — the melody lifts with a rising sparkle of strings as the petal-wake first stirs.
+**AUDIO (in-frame):** ambient/object — wind buffet, the whir of the spinning wheels, fluttering awnings, distant market chatter; voice — the subject's bright open laugh and a joyful "woo!" into the breeze, a passing vendor's call.
 **Cut (essence continuation, match-on-action) →** Shot 3: she carries her speed out of the market and *banks into a curve* onto the canal bridge.
 
 ---
@@ -128,7 +128,7 @@ knee dropping toward the road, pedal up · **RIGHT (outside) leg** pressing down
 
 **VIDEO PROMPT (paste into Flow):**
 > Low three-quarter hero from the inside of the turn, the camera arcing in an orbit around her as she banks onto the canal bridge into a hard carving lean; high bright sun, sparkle bouncing off the water. [00:00–00:02] she flicks a quick read of the line ahead and commits — the bike angling steep, her inside LEFT knee dropping toward the road, fingers feathering then releasing the brake, the tyres gripping and compressing, hips shifting to the outside saddle-edge to counterbalance, a sharp focused breath through parted lips. [00:02–00:04] at the apex of the lean her wake blooms to full — fresh blossom petals and bright sunlit light spiral off the spinning wheels and her slipstream in a powerful trailing ribbon over the canal, grounded in real spin/air physics with weighty petals and clean sun speculars and a soft prism shimmer, never cartoon sparkle. [00:04–00:06] she shifts her weight and powers upright out of the turn, the petal-bloom streaming long behind her, a quick flash of a triumphant grin as the camera completes its arc to her front. Real-time natural speed, believable lean and tyre physics, one grounded-surreal bloom; identity held; 9:16.
-**AUDIO:** realism — the rush of air, tyre grip on stone, water lapping below the bridge; score — the score swells to its warm exhilarated peak; IMPACT — at the apex of the carve as the petal-and-light bloom hits full, a deep key-tuned sub-bloom and a matched cinematic shimmer-hit land inside the score, felt as the music expanding, not a separate effect.
+**AUDIO (in-frame):** ambient/object — the rush of air, tyre grip on stone, a soft whoosh as the petal-wake blooms, water lapping below the bridge; voice — a sharp focused breath, then a triumphant "yeah!" from the subject at the exit.
 **Cut (essence continuation, match-on-action) →** Shot 4: she rolls off the bridge and coasts out into the open seafront plaza.
 
 ---
@@ -150,7 +150,7 @@ the pedal · **feet** left easing to the mosaic, right on the pedal.
 
 **VIDEO PROMPT (paste into Flow):**
 > Hero medium, low front angle, the camera easing into a slow push-in; bright open midday, sky-blue, the sea behind, breezy and high-key. [00:00–00:02] the subject coasts off the bridge into the plaza, sits up tall and lets both hands hover and relax just off the bars for a free no-handed beat, the bike decelerating with believable weight. [00:02–00:04] she looks around the sunlit seafront taking it in, sweeps a loose strand of hair back behind her ear, lets out a natural satisfied breath and an easy smile, then settles her hands back and eases her LEFT boot down toward the mosaic. [00:04–00:06] she lifts her gaze level to the lens with calm warmth as the blossom petals and bright light-motes drift down and settle into a soft carpet around her, the composition easing toward the charged calm of the opening for a seamless loop. Real-time natural speed, believable deceleration, candid unposed behaviour; identity held (face = gaze/expression only); 9:16.
-**AUDIO:** realism — the freewheel tick easing down, a fountain splashing, gulls, a soft satisfied breath; score — the score resolves to a warm sustained chord easing back toward the opening ambience for a clean loop.
+**AUDIO (in-frame):** ambient/object — the freewheel tick easing down, a fountain splashing, gulls, a gentle sea breeze; voice — a soft satisfied breath and a contented little sigh from the subject.
 **Cut (essence continuation, match-on-action) →** loops back to Shot 1 (the morning boulevard push-off).
 
 ---
