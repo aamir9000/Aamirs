@@ -174,6 +174,18 @@ woman."** Never write the character's name into a Veo prompt. Ingredient labels 
 - **DIFFERENCE STRING:** giant-kite run · journey **headland launch → dune ridge → cliff-edge ribbon-bloom → sky-launch lean** · signature **kite colour-ribbons braiding into shapes + racing cloud-shadows + lifting grass/sand** · energy **free kinetic joy** · light **bright windy coast, clouds racing** · wardrobe **primary colour-block playsuit + tied windbreaker** · hair **high windswept ponytail** · shot-grammar **low-hero track-with / parallel ridge track / low looking-up orbit / crane pull-back** · uses 4th ref **`@kite`**.
 - **THEME:** a wind-chasing kite run; ribbon-bloom + sky-lean money shots. **FILE:** `SC-15 · Kite Run (Kite).md`
 
+### SC-17 · FOUR SEASONS, ONE PATH (Walk) — **STATUS: BUILT** · 5 shots × 6s · SILENT
+- **DIFFERENCE STRING:** walk one path · journey **spring blossom → summer green → autumn gold → winter snow → first spring bud** (SAME path re-skinned) · signature **season-transition sweep at each cut (same trees morph season to season)** · energy **poetic magical** · light **soft pink spring → bright summer → warm autumn → cool blue winter → soft spring** · wardrobe **cream pleated midi + colour-block cardigan, layering shifts per season** · hair **long loose half-twist** · shot-grammar **low track-with / parallel profile / high descend / parallel profile / push-in+crane pull-back**.
+- **THEME:** one walk, four seasons re-skin the world around her; season-sweep signature. **FILE:** `SC-17 · Four Seasons One Path (Walk).md`
+
+### SC-18 · PORTAL STEPS (Arches) — **STATUS: BUILT** · 3 shots × 6s · SILENT
+- **DIFFERENCE STRING:** stride through arches · journey **flower arch → reef-world · reef arch → desert-world · desert arch → neon-city-world** · signature **threshold world-swap bloom (world dissolves & rebuilds as she crosses each arch)** · energy **bold surreal kinetic** · light **flower-gold → reef-blue → desert-amber → city-neon** · wardrobe **cobalt/magenta/citron colour-block mini + white knee boots** · hair **sleek geometric bob + fringe** · shot-grammar **low-hero push-through / parallel profile push-through / low 3/4 push-through+crane pull-back**.
+- **THEME:** doorways between worlds; each stride swaps the entire world. **FILE:** `SC-18 · Portal Steps (Arches).md`
+
+### SC-19 · THE PRODUCT BUILDS THE WORLD (Product → Set) — **STATUS: BUILT** · 3 shots × 6s · SILENT
+- **DIFFERENCE STRING:** product authors the set · journey **studio void+bottle → liquid architecture → bloom set → hero plinth-world** · signature **world grows from the bottle (liquid → built architecture → bloom → crystalline hero set)** · energy **luxe surreal controlled** · light **clean studio → reflective → warm bloom → deep glowing** · wardrobe **champagne-gold liquid-satin couture column gown** · hair **sculptural low chignon** · shot-grammar **hero push-in / slow orbit / crane pull-back** · **3rd ingredient = `@product`** (not `@look`).
+- **THEME:** most product-native — the hero bottle authors the entire world, grounded fluid+material physics. **FILE:** `SC-19 · The Product Builds the World (Product to Set).md`
+
 ## CONCEPT ROADMAP — difference strings (planned, not yet built)
 *(rickshaw dropped; redundant 2nd-blossom dropped; each has a UNIQUE signature/energy/light)*
 - **SC-02 Riviera Drift** — pastel Vespa · clifftop town→switchback→harbour→piazza · sea-spray + sun-glints · golden-hour Med · halter midi · silk-headscarf waves · 5 shots
