@@ -24,6 +24,9 @@ POSE = {}
 # Cinematic-Reels-New-Set dataset (different concepts; selected via dataset='cine')
 CINE = {}
 
+# 20-More-Full-Reel-Concepts-Set-3 dataset (concepts 31-50; selected via dataset='set3')
+SET3 = {}
+
 # ============================ CONCEPT 01 — STEEL TO SILK ============================
 # Flow: F1 arrive onto mark / hand to hip (hero)  -> F2 lift right wrist to collarbone, study cuff
 #   -> F3 unfold both arms open, palms up (receive) -> F4 transform: lift into a held-angle pivot
@@ -2078,6 +2081,113 @@ CINE[20] = {
 }
 
 
+# ==================================================================================
+# ===== SET3 dataset — 20 More Full Reel Concepts Set 3 (beauty-aura, concepts 31-50) =====
+# ==================================================================================
+# Contained beauty-product format: cradle bottle -> apply at cheek/lips -> open into the
+# gathering medium -> transform sweep blooms AROUND her locked look (F4) -> reveal/settle
+# (+spoken F5) -> loop. The look stays locked; the magic is environmental. Gentle/contained
+# motion (no striding); buoyant drift for underwater themes. Generator authors per-limb
+# posture/hands/framing + entry/settle beats (b1/b3); it LEAVES the transform morph (F4 b2)
+# and the spoken-line/reveal beat (F5 b2) untouched to preserve their authored text.
+_SET3_PARAMS = {
+ # n: (frames, bottle, short, applicator, site, apply2_clause, medium, energy, gaze, nail, world, buoyant)
+ 31: (7, "faceted amber-gold bottle of Gold \u00c9lixir", "faceted bottle", "dropper", "cheekbone", "lifting the Gold \u00c9lixir dropper near the cheekbone and releasing a single warm liquid-gold drop", "gold-leaf flakes", "opulent", "warm", "warm gold-nude", "candlelit Renaissance studio", False),
+ 32: (6, "deep-teal frosted bottle of Abyss Glow", "frosted bottle", "dropper", "cheekbone", "lifting the Abyss Glow dropper near the cheekbone and releasing a single glowing aqua drop", "bioluminescent plankton", "mysterious", "cool", "cool pearl-teal", "deep-sea abyss", True),
+ 33: (6, "pale-pink frosted bottle of Sakura Dew", "pale-pink bottle", "dropper", "cheekbone", "lifting the Sakura Dew dropper near the cheekbone and releasing a single soft blush drop", "cherry blossoms", "fresh joyful", "bright", "soft blush-pink", "bright spring grove", False),
+ 34: (7, "deep-indigo frosted bottle of Zodiac Light", "frosted bottle", "dropper", "cheekbone", "lifting the Zodiac Light dropper near the cheekbone and releasing a single glowing star-flecked drop", "constellation star-light", "celestial", "wondrous", "cool silver-violet", "cosmic night studio", False),
+ 35: (6, "warm amber faceted bottle of Golden Honey", "amber bottle", "dropper", "cheekbone", "lifting the Golden Honey dropper near the cheekbone and releasing a single slow golden honey drop", "warm honey-amber light", "warm golden", "warm", "warm honey-nude", "warm honey-lit space", False),
+ 36: (6, "cool rain-clear frosted bottle of Monsoon Mist", "frosted bottle", "dropper", "cheekbone", "lifting the Monsoon Mist dropper near the cheekbone and releasing a single cool translucent drop", "fine monsoon mist", "cool serene", "cool", "cool sheer rose-grey", "cool monsoon scene", False),
+ 37: (7, "pearl-white opaline bottle of Plume", "opaline bottle", "atomizer", "collarbone", "lifting the Plume atomizer near the collarbone and releasing a single soft pearlescent mist-spritz", "drifting plumes and feathers", "regal", "regal", "soft pearl-rose", "regal couture salon", False),
+ 38: (6, "clear faceted Prism tube", "Prism tube", "tube wand", "lips", "lifting the Prism tube near the lips and easing a soft iridescent gloss-swipe", "iridescent soap-bubbles", "whimsical bright", "bright", "clean iridescent-pearl", "bright whimsical studio", False),
+ 39: (6, "op-art striped Optic tube", "Optic bullet", "bullet", "lips", "raising the Optic bullet near the lips and easing a crisp bold-color application", "kaleidoscope facets", "hypnotic", "cool", "clean bold-tone", "graphic op-art studio", False),
+ 40: (7, "matte-black Lumen tube", "Lumen applicator", "applicator", "cheekbone", "raising the glowing Lumen applicator near the cheekbone and easing a luminous glow-drop along the high point", "neon light-trails", "electric", "cool", "clean neon-lit", "dark neon-night studio", False),
+ 41: (6, "sea-glass Nacre jar", "Nacre jar", "fingertip", "cheekbone", "gliding a dab of the pearl-aqua Nacre balm along the cheekbone with a soft dreamy press", "soft corals and sea-flora", "dreamy", "dreamy", "clean pearl-aqua", "dreamy underwater-light studio", True),
+ 42: (6, "hand-blown amber-glass bottle", "amber-glass bottle", "dropper", "cheekbone", "raising the frosted-glass dropper near the cheekbone and gliding a warm liquid-glass serum drop along the high point", "glowing molten glass", "warm focused", "warm", "warm bronze-nude", "warm glassblowing studio", False),
+ 43: (7, "storm-gray Volt bottle", "Volt bottle", "applicator", "cheekbone", "raising the charged Volt applicator near the cheekbone and pressing a charged-glow primer along the high point", "electric-white lightning arcs", "powerful", "intense", "clean charged-tone", "dark storm studio", False),
+ 44: (6, "faceted mirrored-glass bottle", "mirrored bottle", "applicator", "cheekbone", "raising the glow-oil applicator near the cheekbone and gliding a warm golden shimmer drop along the high point", "golden mirror-ball light-shards", "sparkling", "playful", "clean gold-glitter", "warm disco lounge", False),
+ 45: (6, "glossy pink lip-gloss bottle", "gloss bottle", "applicator", "lips", "raising the gloss applicator near the lip and swiping a bright bubblegum-pink gloss across the lower lip", "bubblegum bubble shimmer", "sweet playful", "playful", "glossy candy-pink", "candy studio", False),
+ 46: (6, "midnight-blue frosted bottle", "frosted bottle", "applicator", "cheekbone", "raising the glow-balm applicator near the cheekbone and gliding a cool silver-blue balm along the high point", "silver corona moonlight", "serene mysterious", "serene", "cool silver-blue", "eclipse night studio", False),
+ 47: (6, "clear cylindrical pigment bottle", "pigment bottle", "applicator", "cheekbone", "raising the pigment applicator near the cheekbone and gliding a glossy galaxy-toned pigment along the high point", "marbled galaxy paint ribbons", "artful", "cool", "glossy jewel-tone", "jewel-tone studio", False),
+ 48: (7, "amber-glass dropper bottle", "amber-glass bottle", "dropper", "cheekbone", "raising the glow-oil dropper near the cheekbone and gliding a warm honey-gold sheen along the high point", "warm golden fireflies", "tender warm", "warm", "warm honey-gold", "dusky meadow", False),
+ 49: (6, "round snow-globe-shaped jar", "snow-globe jar", "fingertip", "cheekbone", "raising the frost-shimmer balm on a fingertip near the cheekbone and gliding a soft frosted-pearl sheen along the high point", "glittering snow flurry", "cozy wonder", "wonder-soft", "frosted-pearl", "cozy cabin glow", False),
+ 50: (8, "flame-shaped elixir bottle", "flame-shaped bottle", "fingertip", "cheekbone", "raising the radiance elixir on a fingertip near the cheekbone and gliding a soft warm-glow sheen along the high point", "drifting embers", "fierce triumphant", "powerful", "warm ember-gold", "dramatic ember-void", False),
+}
+
+def _set3_build(p):
+    (frames, bottle, short, app, site, apply2, medium, energy, gaze, nail, world, buoyant) = p
+    hips = ("in a soft 2-degree hip drift, suspended and buoyant" if buoyant
+            else "in a soft contrapposto with the right hip a touch high over a 2-degree counter-tilt")
+    legs = ("RIGHT LEG and LEFT LEG drifting soft and weightless with easy knees; FEET & WEIGHT neutral and buoyant, suspended"
+            if buoyant else
+            "RIGHT LEG the free/forward leg with the knee soft, LEFT LEG weight-bearing and straight; FEET & WEIGHT settled onto the back left foot")
+    wt = ("drifting weightless and buoyant" if buoyant else "weight settled on the back leg")
+    nailtag = "short almond nails in a %s gloss, neat cuticles, no white-knuckle tension." % nail
+    out = {}
+    # F1 — hero / cradle the bottle
+    out[1] = {
+      "posture": "GAZE %s and direct to lens; HEAD level with a soft tilt, chin level; SHOULDERS open with the right rotated a touch forward and the front shoulder dropped; RIGHT ARM bent up cradling the %s at collarbone height, the RIGHT HAND light on the glass, RIGHT FINGERS resting soft on it; LEFT ARM raised soft, the LEFT HAND open near the jaw, LEFT FINGERS gently curved; TORSO rotated about 5 degrees to open the right shoulder; WAIST & HIPS %s; %s; HAIR soft with a strand at the cheek \u2014 %s and alive (living stillness)." % (gaze, short, hips, legs, energy),
+      "hands": "RIGHT HAND cradling the %s at collarbone height, RIGHT FINGERS resting light on the glass; LEFT HAND open and relaxed near the jaw, LEFT FINGERS gently curved; %s" % (bottle, nailtag),
+      "framing": "She holds the %s hero beat \u2014 right hand cradling the %s at collarbone height, left hand soft near the jaw, %s as her %s gaze meets the lens." % (energy, short, wt, gaze),
+      "b1": "Cut to a medium-close chest-up in the %s: she is already cradling the %s soft at her collarbone with light fingers as a slow push eases in, her left hand easy near her jaw and a face-framing strand shifting, the %s soft behind; %s." % (world, short, world, wt),
+      "b3": "She holds the opening look, right fingers light on the %s, left hand soft near the jaw, %s, eyes %s and direct (the effect arrives later)." % (short, wt, gaze),
+    }
+    # F2 — apply at the cheek/lips
+    out[2] = {
+      "posture": "GAZE casting soft to the %s; HEAD tipping a touch toward the %s; SHOULDERS with the RIGHT shoulder lifting as the hand rises; RIGHT ARM folded up to the %s, the RIGHT HAND applying with the %s, RIGHT FINGERS articulate and light on it; LEFT ARM raised soft, the LEFT HAND near the collarbone, LEFT FINGERS relaxed; TORSO easing about 4 degrees toward the working hand; WAIST & HIPS %s; %s; HAIR drifting soft at the temple \u2014 %s, alive." % (site, site, site, app, hips, legs, energy),
+      "hands": "RIGHT HAND %s, RIGHT FINGERS articulate and light on the %s; LEFT HAND softly raised near the collarbone, LEFT FINGERS relaxed; %s" % (apply2, app, nailtag),
+      "framing": "Her right hand %s with articulate fingers while the left rests soft near the collarbone, head tipping toward the %s, %s." % (apply2, site, wt),
+      "b1": "Cut to a medium-close three-quarter, a rack-focus pulling from the %s to her eye: she is already %s, her left hand soft near the collarbone, the %s catching the light; gaze cast soft to the %s." % (short, apply2, app, site),
+      "b3": "She holds the %s poised at her %s, left hand soft near the collarbone, %s, eyes %s and intent \u2014 the opening look intact (silent here)." % (app, site, wt, gaze),
+    }
+    # F3 — lower the applicator / open the left hand into the gathering medium
+    out[3] = {
+      "posture": "GAZE lifting from the %s up toward lens; HEAD rising to level; SHOULDERS easing back and down; RIGHT ARM lowering the %s a touch from the %s, the RIGHT HAND easing down, RIGHT FINGERS relaxed; LEFT ARM opening out, the LEFT HAND turning open into the gathering %s, LEFT FINGERS spreading soft; TORSO lengthening tall on a slow breath; WAIST & HIPS %s; %s; HAIR settling soft \u2014 %s, alive." % (site, app, site, medium, hips, legs, energy),
+      "hands": "RIGHT HAND easing the %s down from the %s, RIGHT FINGERS relaxed; LEFT HAND opening soft into the gathering %s, LEFT FINGERS spreading; %s" % (app, site, medium, nailtag),
+      "framing": "Her right hand eases the %s down from the %s while the left opens soft into the gathering %s with spreading fingers, the torso lengthening tall as her %s gaze lifts." % (app, site, medium, gaze),
+      "b1": "Cut to a medium chest-up on a fresh three-quarter angle: she eases the %s down from her %s and opens her left hand soft into the gathering %s, drawing a slow breath as the camera arcs a few degrees and the %s swings behind with parallax; gaze lifting." % (app, site, medium, world),
+      "b3": "She holds the poised beat, right fingers eased down, left hand open to the gathering %s, %s, eyes %s and bright \u2014 the hush before the bloom (silent here)." % (medium, wt, gaze),
+    }
+    # F4 — TRANSFORM Look A (arms drift open; the sweep blooms around her). b2 left untouched.
+    out[4] = {
+      "posture": "GAZE lifting then warming with %s wonder; HEAD level, the chin lifting a touch as the %s gather; SHOULDERS opening soft and even; RIGHT ARM drifting open from the body, the RIGHT HAND easing palm-up near the cradled %s, RIGHT FINGERS relaxed; LEFT ARM drifting open from the body, the LEFT HAND easing palm-up, LEFT FINGERS soft; TORSO lengthening tall and open (the look held, the %s blooming around her); WAIST & HIPS %s; %s; HAIR soft as the %s gather \u2014 poised, the instant before the bloom." % (energy, medium, short, medium, hips, legs, medium),
+      "hands": "BOTH ARMS drifting open from the body, palms easing up as the %s gather, the RIGHT near the cradled %s, RIGHT and LEFT FINGERS relaxed; %s" % (medium, short, nailtag),
+      "framing": "She drifts both arms open from her body, palms easing up and the torso lengthening as the %s gather around her held look \u2014 the clean Look A the bloom opens on, %s." % (medium, wt),
+      "b1": "Cut to an energized medium at a HELD angle (Veo first frame = the opening Look A still): she drifts both arms open from her body, already in motion \u2014 the look fully intact, NO bloom yet, a gentle push-with easing in, the angle fixed for the whole clip.",
+      "b3": "The sweep completes and the look settles smoothly and fully into the radiant after-look of the Veo last-frame still (Frame 5's image), the %s set around her held look \u2014 resolved and held through the final beat, no last-second pop; a %s calm landing in her eyes." % (medium, energy),
+    }
+    # F5 — reveal / spoken. b2 (the spoken-line or wordless reveal) left untouched.
+    out[5] = {
+      "posture": "GAZE easing soft to lens; HEAD settling level with a soft tilt; SHOULDERS easing with a soft roll of the right; RIGHT ARM easing back, the RIGHT HAND drifting soft toward the %s near the collarbone, RIGHT FINGERS relaxed; LEFT ARM easing open, the LEFT HAND soft, LEFT FINGERS easy; TORSO settling tall and composed; WAIST & HIPS %s; %s; HAIR settling soft \u2014 %s and radiant (living stillness)." % (short, hips, legs, energy),
+      "hands": "BOTH HANDS easing open from the bloom, the RIGHT drifting soft back toward the %s near the collarbone, RIGHT FINGERS relaxed; LEFT HAND easing open, LEFT FINGERS soft; %s" % (short, nailtag),
+      "framing": "In the radiant after-look she eases both hands open, the right drifting soft back toward the %s at her collarbone and the left easing open, %s and composed as her %s gaze meets the lens." % (short, wt, gaze),
+      "b1": "Cut to a medium close on a new angle in the %s: she is already in the radiant after-look, easing both hands open and drifting her right back toward the %s at her collarbone with a soft roll of the shoulder; gaze easing to lens." % (world, short),
+      "b3": "She holds the radiant after-look, the %s cradled soft, %s, eyes %s and direct." % (short, wt, gaze),
+    }
+    # held settle beats (frames between 5 and the last, for 7/8-frame concepts)
+    for k in range(6, frames):
+        out[k] = {
+          "posture": "GAZE %s and direct to lens; HEAD level with a soft tilt; SHOULDERS open and composed, the right rotated a touch forward; RIGHT ARM cradling the %s soft near the collarbone, the RIGHT HAND light on the glass, RIGHT FINGERS resting soft; LEFT ARM raised soft, the LEFT HAND open near the jaw, LEFT FINGERS gently curved; TORSO rotated about 5 degrees opening the right shoulder; WAIST & HIPS %s; %s; HAIR soft \u2014 %s and composed (living stillness)." % (gaze, short, hips, legs, energy),
+          "hands": "RIGHT HAND cradling the %s soft near the collarbone, RIGHT FINGERS resting light; LEFT HAND open and relaxed near the jaw, LEFT FINGERS gently curved; %s" % (short, nailtag),
+          "framing": "She holds the %s after-look \u2014 right hand cradling the %s soft near the collarbone, left hand open near the jaw, %s as her %s gaze holds to lens." % (energy, short, wt, gaze),
+          "b1": "Cut to a medium-close chest-up on a fresh angle: she settles both hands gently, the right cradling the %s soft near her collarbone and the left easy near her jaw, as a gentle push eases in; gaze %s to lens." % (short, gaze),
+          "b3": "She holds the %s beat, the %s set around her and the look composed, eyes %s and direct \u2014 a held moment before the loop (silent here)." % (energy, medium, gaze),
+        }
+    # last frame — loop close
+    L = frames
+    out[L] = {
+      "posture": "GAZE easing back to the %s direct-to-lens of Frame 1; HEAD returning level with a soft tilt; SHOULDERS returning open with the right rotated a touch forward; RIGHT ARM returning to cradle the %s at collarbone height, the RIGHT HAND light on the glass, RIGHT FINGERS resting soft; LEFT ARM raised soft, the LEFT HAND open near the jaw, LEFT FINGERS gently curved; TORSO rotating back to about 5 degrees; WAIST & HIPS %s; %s; HAIR settling to the opening set \u2014 %s and alive." % (gaze, bottle, hips, legs, energy),
+      "hands": "RIGHT HAND returned to cradle the %s at collarbone height exactly as in Frame 1, RIGHT FINGERS resting light on the glass; LEFT HAND open and relaxed near the jaw, LEFT FINGERS gently curved; %s" % (bottle, nailtag),
+      "framing": "She returns precisely to the opening hook \u2014 right hand cradling the %s at collarbone height, left hand soft near the jaw, %s in the Frame-1 pose for a seamless loop." % (short, wt),
+      "b1": "Cut to a medium-close chest-up matched to Frame 1: she returns her right hand to cradle the %s at her collarbone and her left easy near her jaw exactly as in Frame 1 as the camera settles to the opening framing." % (short),
+      "b3": "She lands precisely on the Frame 1 pose and gaze, %s and composed \u2014 a seamless loop seam." % (energy),
+    }
+    return out
+
+for _n, _p in _SET3_PARAMS.items():
+    SET3[_n] = _set3_build(_p)
+
+
 # ----------------------------------------------------------------------------------
 def find_concept_region(text, n):
     m = re.search(r'(?m)^#{1,3}\s*CONCEPT\s*0*%d\b' % n, text)
@@ -2159,7 +2269,7 @@ def apply_concept(text, n, data_dict):
     return text, report
 
 
-DATASETS = {'md': POSE, 'cine': CINE}
+DATASETS = {'md': POSE, 'cine': CINE, 'set3': SET3}
 
 
 def main():
