@@ -26,7 +26,7 @@ images. Each clip we hand Flow 3 references:
 
 | Slot | What it is | How to BUILD the still (Nano Banana Pro) | Carries |
 |---|---|---|---|
-| **SUBJECT** `@subject` | the subject in this shot's pose/wardrobe/hair | **isolated on a plain / segmented neutral background**, full figure, clean hands, **even lighting matched to the world's light**, high-res, 9:16; rendered from her identity reference | identity + wardrobe + pose |
+| **SUBJECT** `@subject` | the subject — **front-facing, whole body, relaxed NEUTRAL stance** (NOT posed per shot) | **plain BLANK background**, full figure, hands visible, even neutral light; ONE reference reused every shot | identity + wardrobe/hair ONLY |
 | **WORLD** `@world` | this frame's location, **no subject** | a full scene carrying that beat's light + palette | place + light |
 | **PROP / LOOK** `@prop` / `@look` | the hero prop **isolated on plain bg**, OR a clean palette/grade/light swatch | locks the object, or the colour-grade & mood | prop or grade |
 
@@ -83,6 +83,33 @@ See `_TEMPLATE.md` for the exact shot-card structure.
    camera move per clip** (don't chain orbit→pull-back in one 6s shot) and **only ~2–3 actions per clip**;
    over-stuffing makes the model drop or cram beats.
 
+
+---
+
+# ⭐ CORRECTED STANDARD (v2 — SUPERSEDES anything above where they differ)
+*Locked across the whole set during the clean-ref + audio rebuild. Every concept (SC-01…SC-21 + SC-A1) follows this; build all new concepts to it.*
+
+## A. Ingredient stills = CLEAN, ISOLATED, on a PLAIN BLANK BACKGROUND (never posed, never composited)
+- **`@subject`** = ONE reference, **reused every shot**: the subject **front-facing, whole body, relaxed neutral stance**, locked wardrobe + hair, hands visible, even neutral studio light, **plain blank background.** It carries identity + wardrobe/hair ONLY — it is **NOT** posed for the shot and **NOT** tinted to the world.
+  - *Exception — transform concepts (e.g. SC-16):* one front-facing/plain-bg ref **per wardrobe state** (the wardrobe change IS the signature).
+- **3rd ingredient** = the hero element, **clean & isolated on a plain blank background**, reused: **`@object`** (vehicle/prop/animal), or **`@texture`** (a material that builds), or **`@product`** (the hero bottle). If a concept has **no hero prop** (pure walk / run / swim / portal), the 3rd stays a **`@look`** palette/grade swatch.
+- **`@world`** = the location as a full scene, **no subject** (the journey's next place + its light).
+
+## B. EVERYTHING else lives ONLY in the VIDEO PROMPT (Veo-safe — no hallucination)
+All camera angle, **subject-facing** (front / ¾-left / ¾-right / profile / over-shoulder / from-behind), **gaze direction**, per-limb pose, weather, and the cinematic moves are written **only in the prompt** — never baked into the stills. Write them so Veo can reach them from a front-facing neutral still without contorting/duplicating the face. (In files: the POSE block is the *animation target*, tagged `**FACING:**`; the still stays neutral.)
+
+## C. Cinematic shot variety + exterior/weather (make it feel like a real film)
+Don't lock every shot to "subject-in-frame, camera tracks alongside." Across a reel mix: **exterior / establishing shots from OUTSIDE the vehicle** (the bus/train/car seen travelling through the world, subject small or through a window), aerial/drone wides, through-the-(rain-streaked)-window & reflection shots, POV, over-the-shoulder, overhead top-down, low ground-level, foreground occlusion, locked-off static, whip-pan, rack-focus, crane/pull-back — sprinkled across *random* frames so nothing feels templated. Use **weather/atmosphere** (rain, mist, sun-shafts, spray, snow) for cinema. Guarantee at least one **environment-dominant wide** per reel (world is a co-star, never wallpaper).
+
+## D. Orientation + gaze rotation, **dosed by theme** (no two frames repeat a facing+gaze combo)
+Rotate body-facing AND gaze every frame, motivated by what she's *doing* — but weight the mix to the theme: **action/speed** → mostly profile/over-shoulder/from-behind/POV (save front/¾ for the peak); **travel/contemplative** → mostly ¾-away/profile/over-shoulder gazing at the view (one front anchor); **glamour/editorial** → more turns-to-lens; **arrival/signature beats** → front or ¾ so identity + expression read.
+
+## E. The TWO audio blocks (every concept)
+1. **`## MASTER AUDIO (one score for the whole reel — background music)`** — placed after GLOBAL LOCKS. A custom cinematic score sized to the reel (N×6s) in **self-resolving ~6-second phrases** (trimmable at any phrase boundary, no hard cut), **no fade-in**, an instrument palette set to the concept's mood, an emotional **arc that peaks on the signature** and resolves for an invisible loop. It is the **background music laid UNDER the per-frame diegetic sound.** SILENT reel = no spoken line/lyric (an optional wordless texture may lift on the peak).
+2. **Per-frame `**AUDIO (in-frame):**`** — placed after each shot's VIDEO PROMPT. The **diegetic sound created in that frame**: `ambient/object — [object/environment SFX, whooshes, distant ambience]; voice — [the subject's & people's vocal sounds — breaths, laughs, and exclamations like "woohoo!", "yay!", "woah!", "yeah!", whistles — ONLY where the beat earns it; serene / breath-hold beats stay minimal].` Never blanket-paste exclamations.
+
+## F. Wardrobe / hair / headwear
+Every concept: its own **cute, beautiful, premium** wardrobe; its own **distinct hairstyle** (no repeats across concepts or the set); **many carry a cute cap / hat / headpiece + accessories** (beret, boater, baker-boy, sunhat, headscarf, turban, beanie, etc.). Constant within a concept (except the transform exception).
 
 ---
 
@@ -190,7 +217,13 @@ woman."** Never write the character's name into a Veo prompt. Ingredient labels 
 - **DIFFERENCE STRING:** Amalfi stroll · journey **lemon grove → tiled village stairs → harbour quay → sea-view terrace** · signature **citrus-leaf flutter + sun-caught zest-mist + lemon-light glints** · energy **warm fresh joy** · light **bright lemon-sun (warming to glittering)** · wardrobe **lemon-yellow broderie sundress + woven belt + straw basket** · hair **low updo + patterned headscarf** · shot-grammar **low track-with / high descend stairs / parallel profile quay / push-in+crane pull-back**.
 - **THEME:** a sun-drenched coastal stroll down to the sea; citrus-and-sun signature. **FILE:** `SC-21 · Citrus Coast (Amalfi Stroll).md`
 
+### SC-A1 · ANIME SUMMIT DESCENT (Bicycle) — **STATUS: BUILT** · 4 shots × 6s · SILENT · ANIME-STYLED
+- **DIFFERENCE STRING:** anime (Shinkai/Ghibli) bicycle descent · journey **summit launch → steep switchback descent → valley green rush → lookout arrival** · signature **wind-rippled emerald grass + Shinkai sun-flares + drifting dandelion light-seeds** · energy **soaring joyful awe** · light **bright anime daytime, vast & green** · wardrobe **white sailor-collar blouse + yellow pleated skirt + white cycling cap** · hair **long flowing wind-swept hair + red ribbon headband** · shot-grammar **high crane-up reveal / bike-mounted ride-along descent / parallel profile valley / push-in+crane pull-back**.
+- **THEME:** anime-styled mountain bicycle descent through emerald ranges; identity-consistent anime render. **FILE:** `SC-A1 · Anime Summit Descent (Bicycle).md`
+
 ## CONCEPT ROADMAP — ALL CONCEPTS BUILT ✓
-*(rickshaw SC-05 dropped; redundant 2nd-blossom SC-20 dropped. All 19 planned concepts are now fully built —
-see the BUILT CONCEPTS REGISTRY above. SC-01 + SC-02, SC-03, SC-04, SC-06, SC-07, SC-08, SC-09, SC-10, SC-11,
-SC-12, SC-13, SC-14, SC-15, SC-16, SC-17, SC-18, SC-19, SC-21.)*
+*(rickshaw SC-05 dropped; redundant 2nd-blossom SC-20 dropped. All 19 planned concepts + the SC-A1 anime concept are fully
+built, and ALL have been rebuilt to the **CORRECTED STANDARD (v2)** above — clean front-facing/plain-bg `@subject`,
+clean isolated `@object`/`@texture`/`@product` (or `@look` for prop-less), all pose/angle/facing/camera/weather in
+the Veo-safe video prompt, the two audio blocks (MASTER background music + per-frame diegetic+vocal), cinematic shot
+variety + exterior/weather, and theme-dosed orientation/gaze.)*
