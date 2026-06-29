@@ -1,31 +1,37 @@
 # AIRA — [CONCEPT NAME] · INGREDIENT MODE (Flow / Veo 3.1) · 9:16 · [SPOKEN/SILENT]
+**[N] shots × 6s · essence-continuation with CUTS (each shot a new angle), not morph**
 
-## INGREDIENTS  (upload once, reference with @name in the Flow prompt box)
-- `@aira`    — Aira identity-lock reference sheet (face, build, hair). Attach to EVERY shot.
-- `@product` — [hero product / signature prop for this concept].
-- `@world`   — [location + palette/style still — a Nano Banana Pro establishing frame].
+## METHOD
+- Each shot = its own **new camera setup** (angle / size / move / perspective). We **cut** between shots.
+- Continuity = the **essence**: same Aira + wardrobe + world + light across shots, plus the **momentum
+  of the action** carried across the cut (match-on-action). NOT literal end→start frame chaining.
+- **Mode = Ingredients-to-Video** → hand Flow **3 reference images per shot.**
 
-> Veo 3.1 takes ~3 reference images per clip → attach `@aira + @product + @world` each shot.
-> Output 9:16 vertical, 24fps, real-time (no slow-motion). Hold one identity the whole clip.
+## INGREDIENTS (3 images per shot — generate in Nano Banana Pro from Aira's reference)
+- **SUBJECT** — Aira in *this shot's* pose & angle → identity + wardrobe.
+- **WORLD** — the environment for this beat, no subject → location + light.
+- **COMPOSITE / look anchor** — the framed look of this beat → palette + composition.
+> Identity locked upstream (stills rendered from her reference). Output 9:16, 24fps, real-time (no slow-mo).
 
 ---
 
-## SHOT 1 — Frame 1 · [shot size · angle]
-**Ingredients:** `@aira + @product + @world`
+## SHOT 1 — [shot size · angle · camera move]
+**Stills to generate:** SUBJECT — […] · WORLD — […] · COMPOSITE — […]
+**Flow (Ingredients-to-Video):** SUBJECT + WORLD + COMPOSITE (3 images, this beat's angle)
 **Prompt (paste into Flow):**
-> [Frame 1 VIDEO prompt — already-in-motion start, real-time natural-speed motion, the timed
-> beats/SUBJECT+OBJECT ACTION, eye-led identity-safe expression, camera move. Keep her the same
-> person; only wardrobe/world/FX change.]
-**Handoff →** Shot 2 opens on [FRAME-JOIN HANDOFF from Frame 1].
+> [6s — already-in-motion start, real-time natural speed, timed beats (0–2 / 2–4 / 4–6), per-limb motion,
+> eye-led identity-safe expression, the camera move; believable physics + any one grounded magical beat.]
+**Cut (essence continuation, match-on-action) →** Shot 2 picks up the momentum from a NEW angle: [what carries].
 
 ---
 
-## SHOT 2 — Frame 2 · [shot size · angle]
-**Ingredients:** `@aira + @product + @world`
+## SHOT 2 — [new shot size · angle · camera move]
+**Stills to generate:** SUBJECT — […] · WORLD — […] · COMPOSITE — […]
+**Flow (Ingredients-to-Video):** SUBJECT + WORLD + COMPOSITE
 **Prompt (paste into Flow):**
-> [Frame 2 VIDEO prompt …]
-**Handoff →** Shot 3 opens on [handoff].
+> [6s …]
+**Cut (essence continuation, match-on-action) →** Shot 3: [carry].
 
 ---
 
-(… one SHOT block per frame, ending on the loop-closing shot that matches Shot 1 …)
+(… one SHOT per beat, each a distinct setup; final shot loops/lands back to the opening essence …)
