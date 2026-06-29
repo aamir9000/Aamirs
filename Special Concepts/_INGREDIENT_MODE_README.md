@@ -186,23 +186,11 @@ woman."** Never write the character's name into a Veo prompt. Ingredient labels 
 - **DIFFERENCE STRING:** product authors the set · journey **studio void+bottle → liquid architecture → bloom set → hero plinth-world** · signature **world grows from the bottle (liquid → built architecture → bloom → crystalline hero set)** · energy **luxe surreal controlled** · light **clean studio → reflective → warm bloom → deep glowing** · wardrobe **champagne-gold liquid-satin couture column gown** · hair **sculptural low chignon** · shot-grammar **hero push-in / slow orbit / crane pull-back** · **3rd ingredient = `@product`** (not `@look`).
 - **THEME:** most product-native — the hero bottle authors the entire world, grounded fluid+material physics. **FILE:** `SC-19 · The Product Builds the World (Product to Set).md`
 
-## CONCEPT ROADMAP — difference strings (planned, not yet built)
-*(rickshaw dropped; redundant 2nd-blossom dropped; each has a UNIQUE signature/energy/light)*
-- **SC-02 Riviera Drift** — pastel Vespa · clifftop town→switchback→harbour→piazza · sea-spray + sun-glints · golden-hour Med · halter midi · silk-headscarf waves · 5 shots
-- **SC-03 Boardwalk Bloom** — rollerblades · promenade→skate bowl→pier→beach steps · chalk-dust + balloons · high-key coastal noon · colour-block crop set · high space-buns · 4
-- **SC-04 Golden Coast Cruise** — convertible · coast road→light-tunnel→bridge→cliff overlook · golden road-dust + flare-streaks · sunset amber/rose · retro scarf-dress + cat-eye · retro waves · 4
-- **SC-06 Market Dash** — run/weave · flower bazaar→spice arcade→fabric souk→fountain square · colour-powder + spice-dust + fabric ripples · dappled mid-morning · tied-blouse + shorts · double buns · 5
-- **SC-07 Rooftop Run** — parkour · rooftop gardens→clothesline maze→water-tank deck→edge leap · pigeon-burst + snapping flags · hard high-noon city · sporty-chic brights · sleek high pony · 4
-- **SC-08 Petal Promenade** — editorial walk · blossom avenue→colonnade→garden stairs→reflecting pool · cherry-blossom storm (THE petal concept) · soft diffused overcast-pink · blush flowy couture · soft glam waves · 4
-- **SC-09 Puddle Symphony** — walk/dance, rain-break · wet plaza→arcade→fountain→sun-break square · splash-crowns + prism-light · storm-silver→sun · glossy bright raincoat · slicked low pony · 4
-- **SC-10 Lagoon Glide** — paddleboard · lagoon→mangrove channel→sandbar→open reef · caustics + lotus + fish-flash · bright aqua noon · swim-modest + sarong · wet top-knot · 5
-- **SC-11 Gondola Reverie** — gondola · narrow canals→under bridges→grand canal→lagoon mouth · water-mirror reflections · soft golden Venice afternoon · vintage day-dress · braided updo + ribbon · 4
-- **SC-12 Freediver's Bloom** — swim (vertical) · surface→reef→kelp cathedral→sun-shaft ascent · sun-shaft caustics + bubble-stream · underwater blue→gold · sleek dive-suit chic · slicked · 5
-- **SC-13 Sky Bloom** — hot-air balloon · meadow lift-off→over rooftops→through a cloud→sunrise vista · cloud-wisps + dawn rays · pastel dawn · soft romantic dress · loose waves · 4
-- **SC-14 Alpine Ascent** — cable-car/hike · meadow→pine forest→cliff path→summit lake · snow-sparkle + crystal-light · crisp cool alpine bright · camel/white/forest knit · fishtail braid + beanie · 4
-- **SC-15 Kite Run** — run w/ giant kite · headland→dune ridge→cliff edge→sky-launch lean · colour-ribbons forming shapes · bright windy coast · primary playsuit · windswept high pony · 4
-- **SC-16 Become the Bloom** — walk (material→couture) · garden path→colonnade→fountain court→hero plinth · a texture climbs and becomes her evolving gown · soft luxe sun · transforming gown · sculptural updo · 3
-- **SC-17 Four Seasons, One Path** — walk/ride · same path spring→summer→autumn→winter · season re-skin transitions · light shifts per season · cute layered look · long loose hair · 5
-- **SC-18 Portal Steps** — step through arches · flower arch→reef arch→desert arch→city arch · threshold world-swap bloom · light changes per portal · bold colour-block · sleek geometric bob · 3
-- **SC-19 The Product Builds the World** — hero product→set · studio→liquid set→bloom set→hero plinth · world grows from the bottle (liquid→architecture) · luxe controlled light · couture · glossy · 3
-- **SC-21 Citrus Coast** — Amalfi stroll · lemon grove→tiled stairs→harbour→terrace · citrus-leaf + zest-mist · bright lemon-sun · sundress · headscarf updo · 4
+### SC-21 · CITRUS COAST (Amalfi Stroll) — **STATUS: BUILT** · 4 shots × 6s · SILENT
+- **DIFFERENCE STRING:** Amalfi stroll · journey **lemon grove → tiled village stairs → harbour quay → sea-view terrace** · signature **citrus-leaf flutter + sun-caught zest-mist + lemon-light glints** · energy **warm fresh joy** · light **bright lemon-sun (warming to glittering)** · wardrobe **lemon-yellow broderie sundress + woven belt + straw basket** · hair **low updo + patterned headscarf** · shot-grammar **low track-with / high descend stairs / parallel profile quay / push-in+crane pull-back**.
+- **THEME:** a sun-drenched coastal stroll down to the sea; citrus-and-sun signature. **FILE:** `SC-21 · Citrus Coast (Amalfi Stroll).md`
+
+## CONCEPT ROADMAP — ALL CONCEPTS BUILT ✓
+*(rickshaw SC-05 dropped; redundant 2nd-blossom SC-20 dropped. All 19 planned concepts are now fully built —
+see the BUILT CONCEPTS REGISTRY above. SC-01 + SC-02, SC-03, SC-04, SC-06, SC-07, SC-08, SC-09, SC-10, SC-11,
+SC-12, SC-13, SC-14, SC-15, SC-16, SC-17, SC-18, SC-19, SC-21.)*
