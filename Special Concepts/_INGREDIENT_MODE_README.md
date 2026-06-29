@@ -51,3 +51,21 @@ each shot. This is what makes the motion read natural rather than stiff.
   (real-time, natural speed, identity-safe), and the handoff into the next shot.
 
 See `_TEMPLATE.md` for the exact shot-card structure.
+
+
+## STANDING RULES FOR EVERY SPECIAL CONCEPT (locked with SC-01)
+1. **Different per concept:** environment, lighting scheme, wardrobe, and hairstyle are unique to each
+   concept — never reused between concepts. Shot grammar (crop/angle/camera/pose) also never repeats
+   across concepts.
+2. **Wardrobe:** amazing + colourful + cute, premium fit; **constant within a concept** (one journey),
+   different for each concept. Define HANDS & NAILS too.
+3. **Hairstyle:** one distinct style per concept, constant within it.
+4. **Progressing worlds:** within a concept the world is a continuous journey — each frame's WORLD is the
+   believable *next place* after the previous frame's, with the light evolving naturally as she travels.
+   (So the WORLD ingredient changes every frame; identity/wardrobe/hair/palette stay constant.)
+5. **Full per-limb pose, every frame:** spell out gaze, neck, head, each shoulder, each arm→hand→fingers,
+   waist, hips, each leg, feet (+ weight) — a held POSE block + the motion in the video prompt.
+6. **Different expression every frame** (and across the set).
+7. **Same prompt-detailing depth as the master /CONCEPTS files** (rich per-still description + timed
+   SHOT BREAKDOWN beats), plus: controlled vibrancy (skin protected), real-time motion (no slow-mo),
+   identity fixed but body never frozen (candid real movement), one grounded-surreal signature, 9:16, loops.
