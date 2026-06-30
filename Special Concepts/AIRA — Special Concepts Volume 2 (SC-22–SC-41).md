@@ -1184,3 +1184,153 @@ UNDER the diegetic — no spoken line; optional wordless warm vocal on the delta
 **→ Loops back to Frame 1 (the misty river bend).**
 
 **Stills to generate:** 3 per frame × 4 frames = 12 (exterior frames: world+boat lead, she small on deck). Score = 24s MASTER AUDIO under the diegetic.
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+# SC-38 · ORCHARD HARVEST (Cart) · 4 shots × 6s
+**Logline:** A warm golden harvest day — down sunny orchard rows → past a blossom barn → along a meadow lane → to
+a farmhouse table. Signature: blossom and leaves drifting + golden light + hay-dust motes hanging. Wholesome,
+warm, idyllic.
+**Arc:** ORCHARD ROWS → BLOSSOM BARN → MEADOW LANE → FARMHOUSE TABLE (signature).
+
+## MASTER AUDIO (outside the frames — background music)
+A 24-second custom cinematic score (4 clips × 6s) in self-resolving ~6-second phrases, trimmable at any phrase
+boundary. Built on a warm acoustic guitar and mandolin, a soft fiddle, warm strings, light hand-percussion and a
+warm sub — wholesome, warm, idyllic. Opens (no fade-in) on a warm guitar-and-mandolin figure. Arc: a sunny
+orchard open, a gentle barn lull, a breezy meadow lift, then a cosy farmhouse resolve for an invisible loop. Laid
+UNDER the diegetic — no spoken line; optional wordless warm vocal on the farmhouse table only.
+
+## GLOBAL STYLE LOCKS
+- **Outfit:** a red gingham prairie sundress with puff sleeves under a cream pinafore apron.
+- **Headwear:** a wide woven straw hat with a red-gingham band. **Accessories:** a woven basket on the arm, simple gold studs. **Eye colour:** warm amber-hazel. **Makeup:** fresh country glow — luminous skin, a sun-flush, a soft berry-rose lip, light freckles. **Hair:** low loose pigtails tied with red-gingham ribbons. **Footwear:** tan leather lace-up boots. **Nails:** short natural.
+- **Hero object:** a rustic wooden harvest hand-cart — weathered planks, big spoked wheels, a pull-handle, piled with apples and pumpkins.
+- **Signature (grounded):** blossom and leaves drift down, warm golden light pours across the orchard, and hay-dust motes hang glowing in the air. Real petal + dust + light physics.
+- **Journey + light:** warm golden orchard day all the way — sunlit orchard rows → soft-shaded blossom barn → breezy golden meadow lane → cosy farmhouse-table glow. *Footing: she walks pulling the cart — relaxed natural stride, real weight on the handle.*
+
+
+---
+### FRAME 1 — ORCHARD ROWS
+**Frame angle:** high aerial ¾ (~50° down, world-dominant), warm golden side-light.
+**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **high aerial ¾**. · Outfit: red gingham prairie sundress + cream pinafore apron. · Headwear: wide straw hat, red-gingham band. · Accessories: woven basket, gold studs. · Eye colour: amber-hazel. · Makeup: country glow, berry-rose lip, freckles. · Hair: low loose pigtails, gingham ribbons. · Footwear: tan lace-up boots. · Nails: short natural. · static & neutral, plain blank background.
+**STILL 2 · OBJECT (plain bg):** the rustic wooden harvest hand-cart at **high aerial ¾** — weathered planks, spoked wheels, pull-handle, piled apples and pumpkins. Clean, isolated, plain blank background.
+**STILL 3 · ENVIRONMENT:** sunlit orchard rows — long lines of apple trees heavy with fruit, golden light slanting between trunks, windfall apples in the grass, a far farmhouse; high aerial ¾ vantage (world dominant).
+**VIDEO PROMPT:**
+- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
+- *Animation:* WIDE high aerial establishing, **one continuous slow track following her down the orchard row.** [00:00–00:02] she walks down a sunlit orchard row pulling the laden cart, small between the fruit-heavy trees, golden light slanting. [00:02–00:04] the signature stirs — blossom and leaves drift and hay-dust motes hang glowing; she reaches up and picks a bright apple with a warm contented smile. [00:04–00:06] she walks on toward a blossom-clad barn. Real-time, believable walk + cart roll + real drift; 9:16. (Environment-dominant wide.)
+- *AUDIO (in-frame):* ambient/object — the creak and rumble of the cart wheels, apples thudding softly, birdsong, a breeze in the leaves; voice — Aira's content "ahh" and a soft happy hum.
+**→ Cut (match-on-action) to Frame 2 — she pulls the cart up to the blossom barn.**
+
+---
+### FRAME 2 — BLOSSOM BARN
+**Frame angle:** low ¾ front (~30° right, ground-level track-with), soft-shaded warm light.
+**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **low ¾ front (~30° right)**. · Outfit: red gingham sundress + pinafore apron. · Headwear: straw hat, gingham band. · Accessories: woven basket, studs. · Eye colour: amber-hazel. · Makeup: country glow, berry-rose lip, freckles. · Hair: low pigtails, gingham ribbons. · Footwear: tan boots. · Nails: short natural. · static & neutral, plain blank background.
+**STILL 2 · OBJECT (plain bg):** the harvest hand-cart at **low ¾ front** — pull-handle and front wheels foremost, piled produce. Clean, isolated, plain blank background.
+**STILL 3 · ENVIRONMENT:** a charming red barn clad in climbing blossom — open barn doors, hay bales and hanging lanterns, baskets of produce, soft shade and warm light spilling; low ground-level ¾-front vantage.
+**VIDEO PROMPT:**
+- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
+- *Animation:* MEDIUM, **one continuous low ground-level track with her up to the barn.** [00:00–00:02] she pulls the cart up to the blossom-clad barn, the open doors spilling warm light, hay bales stacked inside. [00:02–00:04] she lifts a pumpkin from the cart onto a bale, brushing blossom from her hat with a warm laugh, hay-dust motes drifting in a light-shaft. [00:04–00:06] she takes up the handle and heads on toward a meadow lane. Real-time, believable lift + cart handling + real dust; 9:16.
+- *AUDIO (in-frame):* ambient/object — the cart settling, the soft thud of produce, hens clucking, a breeze through hay; voice — a soft "there we go" and a warm laugh from Aira.
+**→ Cut (match-on-action) to Frame 3 — she pulls the cart out along the meadow lane.**
+
+
+---
+### FRAME 3 — MEADOW LANE
+**Frame angle:** full profile (true side, parallel track), breezy golden meadow light.
+**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, in **full profile**. · Outfit: red gingham sundress + pinafore apron. · Headwear: straw hat, gingham band. · Accessories: woven basket, studs. · Eye colour: amber-hazel. · Makeup: country glow, berry-rose lip, freckles. · Hair: low pigtails, gingham ribbons. · Footwear: tan boots. · Nails: short natural. · static & neutral, plain blank background.
+**STILL 2 · OBJECT (plain bg):** the harvest hand-cart in **full profile** — full side, spoked wheels, pull-handle, piled produce. Clean, isolated, plain blank background.
+**STILL 3 · ENVIRONMENT:** a breezy golden meadow lane — a grassy track through wildflower meadows, a low stone wall, a big sky with soft clouds, the farmhouse ahead; profile vantage along the lane.
+**VIDEO PROMPT:**
+- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
+- *Animation:* MEDIUM profile, **one continuous parallel track at her walking pace down the lane.** [00:00–00:02] she walks the cart along the breezy meadow lane, wildflowers nodding, the big sky open above. [00:02–00:04] she swings the basket lightly and tips her face to the warm breeze with a serene smile, blossom and seed-fluff drifting past in the golden light. [00:04–00:06] the lane leads her toward a cosy farmhouse table. Real-time, believable walk + cart roll + real breeze; 9:16. (Meadow + sky share the frame.)
+- *AUDIO (in-frame):* ambient/object — the cart wheels on the grassy track, wind over the meadow, skylarks, the basket creak; voice — Aira's soft happy hum and a gentle laugh.
+**→ Cut (match-on-action) to Frame 4 — she arrives at the farmhouse table.**
+
+---
+### FRAME 4 — FARMHOUSE TABLE (signature · loop)
+**Frame angle:** low-hero ¾ opening to front (~30°, crane pull-back), cosy warm golden light.
+**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **low-hero ¾ (~30°)**. · Outfit: red gingham sundress + pinafore apron. · Headwear: straw hat, gingham band. · Accessories: woven basket, studs. · Eye colour: amber-hazel. · Makeup: country glow, berry-rose lip, freckles. · Hair: low pigtails, gingham ribbons. · Footwear: tan boots. · Nails: short natural. · static & neutral, plain blank background.
+**STILL 2 · OBJECT (plain bg):** the harvest hand-cart at **low-hero ¾** — at rest by the table, piled with produce, wheels and handle catching light. Clean, isolated, plain blank background.
+**STILL 3 · ENVIRONMENT:** a cosy farmhouse garden table set for harvest — a long wooden table under a blossom tree, pies and fruit and jugs, bunting and lanterns, the farmhouse and orchard behind, warm low-gold light; low-hero ¾ vantage with crane reveal.
+**VIDEO PROMPT:**
+- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
+- *Animation:* WIDE low-hero, **one continuous slow crane pull-back to reveal the harvest table.** [00:00–00:02] she pulls the cart up to the laden farmhouse table under the blossom tree and sets the handle down. [00:02–00:04] the signature peaks — blossom drifts, golden light pours and hay-dust motes glow; she sets her basket on the table, wipes her brow and beams to lens with warm pride. [00:04–00:06] the camera cranes back to reveal the whole cosy harvest table, farmhouse and orchard around her — easing toward the orchard-rows opening for a loop. Real-time, believable set-down + real drift/light; 9:16.
+- *AUDIO (in-frame):* ambient/object — the cart settling, the basket set on wood, a kettle and distant chatter, birds, a breeze in the blossom; voice — Aira's satisfied breath and a warm "all in".
+**→ Loops back to Frame 1 (the orchard rows).**
+
+**Stills to generate:** 3 per frame × 4 frames = 12. Score = 24s MASTER AUDIO under the diegetic.
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+# SC-39 · PLAZA DANCE (Dance) · 4 shots × 6s
+**Logline:** A joyful dance through the city — spinning in a fountain plaza → flowing down a sunlit colonnade →
+twirling on a rooftop terrace → finishing in a blossom garden. Signature: a flowing silk shawl swirling into
+ribbons of colour + petals lifting + fountain glints. Vivacious, graceful, radiant.
+**Arc:** FOUNTAIN PLAZA → SUNLIT COLONNADE → ROOFTOP TERRACE → BLOSSOM GARDEN (signature).
+
+## MASTER AUDIO (outside the frames — background music)
+A 24-second custom cinematic score (4 clips × 6s) in self-resolving ~6-second phrases, trimmable at any phrase
+boundary. Built on a passionate Spanish guitar, hand-claps and cajón, warm strings, a bright trumpet and a warm
+sub — vivacious, graceful, radiant. Opens (no fade-in) on a flamenco-guitar flourish. Arc: a spinning plaza open,
+a flowing colonnade lull, a soaring rooftop lift, then a blooming garden resolve for an invisible loop. Laid UNDER
+the diegetic — no spoken line; optional wordless passionate vocal on the garden only.
+
+## GLOBAL STYLE LOCKS
+- **Outfit:** a scarlet-and-coral ruffled dance dress with a fitted bodice and a full circle skirt that flares.
+- **Accessories:** large gold hoop earrings, stacked gold bangles, a flower-comb. **Eye colour:** warm amber-hazel. **Makeup:** radiant glam — luminous skin, a defined eye, a bold red lip. **Hair:** a sleek high ballerina bun with a fresh red flower pinned at the side. **Footwear:** tan character-heel dance shoes. **Nails:** glossy red.
+- **Hero object:** a long flowing ombré silk shawl, coral fading to magenta, light enough to ripple and swirl in the air.
+- **Signature (grounded):** the silk shawl swirls and trails into ribbons of colour, petals lift and spin in her turns, and fountain glints sparkle. Real silk + petal + light physics.
+- **Journey + light:** bright warm afternoon all the way — sparkling fountain plaza → golden colonnade shade → glowing rooftop terrace → soft blossom-garden light. *Footing: she dances on solid ground — grounded turns, real footwork and weight, never floating.*
+
+
+---
+### FRAME 1 — FOUNTAIN PLAZA
+**Frame angle:** high aerial ¾ (~50° down, world-dominant), bright sparkling afternoon light.
+**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **high aerial ¾**. · Outfit: scarlet-and-coral ruffled circle-skirt dance dress. · Accessories: gold hoops, bangles, flower-comb. · Eye colour: amber-hazel. · Makeup: radiant glam, bold red lip. · Hair: high ballerina bun + red flower. · Footwear: tan character-heel dance shoes. · Nails: glossy red. · static & neutral, plain blank background.
+**STILL 2 · OBJECT (plain bg):** the long ombré silk shawl (coral→magenta) at **high aerial ¾** — rippling, light and flowing. Clean, isolated, plain blank background.
+**STILL 3 · ENVIRONMENT:** a grand sunlit fountain plaza — a tiered fountain sparkling, patterned stone paving, classical facades and palms, scattered onlookers, bright sky; high aerial ¾ vantage (world dominant).
+**VIDEO PROMPT:**
+- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
+- *Animation:* WIDE high aerial establishing, **one continuous slow orbit as she spins in the plaza.** [00:00–00:02] she breaks into a grounded spin in the open fountain plaza, skirt and shawl flaring wide, small in the patterned expanse. [00:02–00:04] the signature stirs — the silk shawl swirls into ribbons of coral-magenta and petals lift in her turn, fountain glints sparkling; she beams with radiant joy mid-spin. [00:04–00:06] she dances off toward a sunlit colonnade. Real-time, believable grounded turns + real silk-swirl; 9:16. (Environment-dominant wide.)
+- *AUDIO (in-frame):* ambient/object — heels striking stone in rhythm, the shawl whipping the air, the fountain splashing, a few claps; voice — Aira's exhilarated "¡olé!" and a bright laugh.
+**→ Cut (match-on-action) to Frame 2 — she dances into the colonnade.**
+
+---
+### FRAME 2 — SUNLIT COLONNADE
+**Frame angle:** low ¾ front (~30° left, ground-level track-with), golden colonnade shade-and-light.
+**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **low ¾ front (~30° left)**. · Outfit: scarlet-coral ruffled dance dress. · Accessories: gold hoops, bangles, flower-comb. · Eye colour: amber-hazel. · Makeup: radiant glam, red lip. · Hair: ballerina bun + red flower. · Footwear: character-heel dance shoes. · Nails: glossy red. · static & neutral, plain blank background.
+**STILL 2 · OBJECT (plain bg):** the ombré silk shawl at **low ¾ front** — trailing forward, coral→magenta, rippling. Clean, isolated, plain blank background.
+**STILL 3 · ENVIRONMENT:** a long sunlit colonnade — a row of golden stone arches casting striped light-and-shade, potted flowers, a tiled floor, a bright courtyard beyond; low ground-level ¾-front vantage down the arcade.
+**VIDEO PROMPT:**
+- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
+- *Animation:* MEDIUM, **one continuous low ground-level track flowing with her down the colonnade.** [00:00–00:02] she dances down the colonnade, sweeping the shawl behind her, striped light-and-shade flickering over her. [00:02–00:04] she trails the shawl along an arch and turns with a flowing arm-sweep, the silk catching a shaft of gold light, a graceful sultry smile. [00:04–00:06] she dances on toward a rooftop terrace. Real-time, believable footwork + real silk-trail; 9:16.
+- *AUDIO (in-frame):* ambient/object — heels echoing under the arches, the shawl swishing, a distant guitar, fountain echo; voice — a soft rhythmic "sí" and a warm laugh from Aira.
+**→ Cut (match-on-action) to Frame 3 — she dances out onto a rooftop terrace.**
+
+
+---
+### FRAME 3 — ROOFTOP TERRACE
+**Frame angle:** full profile (true side, parallel track), glowing warm rooftop light.
+**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, in **full profile**. · Outfit: scarlet-coral ruffled dance dress. · Accessories: gold hoops, bangles, flower-comb. · Eye colour: amber-hazel. · Makeup: radiant glam, red lip. · Hair: ballerina bun + red flower. · Footwear: character-heel dance shoes. · Nails: glossy red. · static & neutral, plain blank background.
+**STILL 2 · OBJECT (plain bg):** the ombré silk shawl in **full profile** — held out to the side, full length rippling, coral→magenta. Clean, isolated, plain blank background.
+**STILL 3 · ENVIRONMENT:** a glowing rooftop terrace over the city — terracotta tiles and potted bougainvillea, a low balustrade, the warm-lit city skyline and sea beyond, a big golden sky; profile vantage across the terrace.
+**VIDEO PROMPT:**
+- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
+- *Animation:* MEDIUM profile, **one continuous parallel track at her dancing pace across the terrace.** [00:00–00:02] she dances out across the glowing rooftop terrace, the city skyline and sea spread behind, shawl streaming. [00:02–00:04] the signature lifts — she throws the shawl up and it swirls into bright ribbons of colour against the golden sky, petals spinning up; she arches with a radiant open-armed turn. [00:04–00:06] she dances on toward a blossom garden. Real-time, believable grounded turn + real silk/petals; 9:16. (Skyline + terrace share the frame.)
+- *AUDIO (in-frame):* ambient/object — heels on terracotta, the shawl snapping in the breeze, distant city hum, gulls; voice — Aira's joyful "¡eso!" and a soaring laugh.
+**→ Cut (match-on-action) to Frame 4 — she dances down into a blossom garden.**
+
+---
+### FRAME 4 — BLOSSOM GARDEN (signature · loop)
+**Frame angle:** low-hero ¾ opening to front (~30°, crane pull-back), soft warm blossom light.
+**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **low-hero ¾ (~30°)**. · Outfit: scarlet-coral ruffled dance dress. · Accessories: gold hoops, bangles, flower-comb. · Eye colour: amber-hazel. · Makeup: radiant glam, red lip. · Hair: ballerina bun + red flower. · Footwear: character-heel dance shoes. · Nails: glossy red. · static & neutral, plain blank background.
+**STILL 2 · OBJECT (plain bg):** the ombré silk shawl at **low-hero ¾** — settling around her in a graceful pool of coral→magenta. Clean, isolated, plain blank background.
+**STILL 3 · ENVIRONMENT:** a soft blossom garden courtyard — blossoming trees raining petals, a small fountain, flower beds and a tiled path, warm afternoon light; low-hero ¾ vantage with crane reveal.
+**VIDEO PROMPT:**
+- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
+- *Animation:* WIDE low-hero, **one continuous slow crane pull-back to reveal the blossom garden.** [00:00–00:02] she dances down into the blossom garden and slows into a final flowing pose, the shawl settling around her. [00:02–00:04] the signature peaks — petals rain and spin around her, the shawl's colour-ribbons drift and dissolve into the falling blossom, fountain glints sparkling; she lifts a radiant triumphant smile to lens. [00:04–00:06] the camera cranes back to reveal the whole petal-filled garden around her — easing toward the fountain-plaza opening for a loop. Real-time, believable settling pose + real petal-rain; 9:16.
+- *AUDIO (in-frame):* ambient/object — a final heel-stamp and the shawl settling, petals falling, the small fountain, soft applause; voice — Aira's breathless delighted laugh and a warm "¡olé!".
+**→ Loops back to Frame 1 (the fountain plaza).**
+
+**Stills to generate:** 3 per frame × 4 frames = 12. Score = 24s MASTER AUDIO under the diegetic.
