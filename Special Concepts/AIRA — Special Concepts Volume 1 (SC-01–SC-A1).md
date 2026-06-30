@@ -599,10 +599,10 @@ pizzicato rhythm, a single swell for the sun-break.
 ═══════════════════════════════════════════════════════════════════════════════
 
 # SC-10 · LAGOON GLIDE (Paddleboard) · 5 shots × 6s
-**Logline:** A serene paddleboard glide through a vivid turquoise world — open lagoon → mangrove channel → lotus
-field → sunlit sandbar shallows → open reef. Calm-powerful, all blues and greens. Signature: sun-caustics dancing
-on the clear water, lotus pads blooming open in her wake, and a school of bright fish flashing beneath.
-**Arc:** OPEN LAGOON → MANGROVE CHANNEL → LOTUS FIELD (signature) → SANDBAR SHALLOWS → OPEN REEF.
+**Logline:** A serene paddleboard glide through one vivid turquoise world — an open lagoon, a mangrove channel, a
+lotus field, sandbar shallows, the open reef. One lagoon-world, paddled through; bright aqua noon throughout.
+Calm-powerful, all blues and greens.
+**Arc (one place, travelled through):** OPEN LAGOON (trick) → MANGROVE CHANNEL (trick) → LOTUS FIELD (element) → SANDBAR SHALLOWS → OPEN REEF (hero).
 
 ## MASTER AUDIO (outside the frames — background music)
 A 30-second custom cinematic score (5 clips × 6s) in self-resolving ~6-second phrases, trimmable at any phrase
@@ -613,74 +613,66 @@ sandbar, then a peaceful resolve at the reef for an invisible loop. Laid UNDER t
 optional wordless aah on the lotus peak. Layered: piano/handpan, warm sub, glassy shimmer, light percussion on the
 sandbar, a single lift for the lotus field.
 
-## GLOBAL STYLE LOCKS
-- **Outfit:** a coral-and-white scalloped one-piece swimsuit (high modest neckline) + a turquoise floral sarong knotted at the hip.
-- **Headwear:** none. **Accessories:** a shell anklet, thin gold studs. **Eye colour:** warm amber-hazel. **Makeup:** fresh water-glow — dewy bare skin, soft coral lip, waterproof, minimal. **Hair:** a **wet-look high top-knot** with a few damp face-framing strands. **Footwear:** barefoot. **Nails:** short glossy aqua-coral.
-- **Hero object:** a warm-wood paddleboard + a single-blade paddle (teak deck, pale rails).
-- **Signature (grounded):** sun-caustics ripple across the clear water; lotus pads bloom open in her wake; a school of small bright fish flashes beneath the board. Real refraction + real fish.
-- **Journey + light:** bright aqua noon — open turquoise → dappled mangrove green-gold → bright lotus-field sun → shimmering sandbar shallows → open reef blue. *Footing: she stands/kneels ON the board (real foot contact), not free-buoyant.*
+## INGREDIENTS + LOCKS (generate `@subject` & `@object` ONCE — reuse them in every frame)
+- **`@subject` — render ONCE, reuse every frame** (neutral, full body, plain blank bg): `Aira [identity placeholder]` styled as — **Outfit:** coral-and-white scalloped one-piece swimsuit (high modest neckline) + a turquoise floral sarong knotted at the hip · **Hair:** wet-look high top-knot with a few damp face-framing strands · **Accessories:** a shell anklet, thin gold studs · **Eye colour:** warm amber-hazel · **Makeup:** fresh water-glow — dewy bare skin, soft coral lip, waterproof, minimal · **Footwear:** barefoot · **Nails:** short glossy aqua-coral.
+- **`@object` — render ONCE, reuse every frame** (plain blank bg): a warm-wood paddleboard + a single-blade paddle — teak deck, pale rails.
+- **THE PLACE (ONE lagoon-world, paddled THROUGH):** a single clear turquoise lagoon system — open water, a shaded mangrove channel, a bright lotus field, shimmering sandbar shallows, and the open reef edge; bright aqua noon throughout (turquoise → green-gold → lotus-sun → pale shallows → reef-blue). She **paddles through it** across the five frames, so each ENVIRONMENT still is the next stretch of the same lagoon at its own angle. *Footing: she stands/kneels ON the board (real foot contact), not free-buoyant.*
+- **MAGICAL ELEMENT (used ONCE — Frame 3; written into that frame's VIDEO PROMPT):** over the lotus field the lotus pads and buds open and bloom in her wake as she glides past (real lotus, no cartoon sparkle). No other frame carries an element.
+- **TRICK SHOTS (×2 — Frames 1 & 2, never the element's frame; each written into its frame's VIDEO PROMPT):** Frame 1 = **split-level over/under water** (half the frame above the surface, half the clear lagoon and fish below); Frame 2 = **god's-eye top-down** straight down over the mangrove channel.
+- **HERO FRAME (Frame 5):** she reads clearly as the hero at the open reef (closer, resting, a slow warm smile to lens). Every other frame keeps her with the lagoon present — room on the sides, top and bottom.
+- **Footing:** she stands/kneels on the board — real paddle mechanics + believable board glide.
 
 ---
-### FRAME 1 — OPEN LAGOON
-**Frame angle:** top-down overhead (drone straight down ~85°), turquoise + sand + caustics.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, from **top-down overhead**. · Outfit: coral-white scalloped one-piece + turquoise floral sarong. · Headwear: none. · Accessories: shell anklet, gold studs. · Eye colour: amber-hazel. · Makeup: water-glow, soft coral lip. · Hair: wet-look high top-knot. · Footwear: barefoot. · Nails: aqua-coral. · static & neutral, plain blank background.
-**STILL 2 · OBJECT (plain bg):** the warm-wood paddleboard + single paddle, from **top-down** — teak deck, pale rails, the blade alongside. Clean, isolated, plain blank background.
-**STILL 3 · ENVIRONMENT:** a vast clear turquoise lagoon from straight above — bright sandy bottom visible, sun-caustics rippling on the sand, a faint board-shadow; top-down vantage.
+### FRAME 1 — OPEN LAGOON (trick shot · split-level over/under water)
+**Frame angle:** **split-level half-and-half** (lens at the surface — turquoise sky-and-board above, clear sandy lagoon and fish below), bright caustics.
+**ENVIRONMENT still (the only per-frame ingredient):** a vast clear turquoise lagoon at the water-line in split-level — open sky and water above the surface line, the bright sandy bottom and sun-caustics below, a faint board-shadow; half-above/half-below vantage. *(Animate `@subject` paddling `@object`, body above the split, fish beneath.)*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* WIDE top-down, **one continuous slow descend-and-hold**, her board and shadow on the bright sand. [00:00–00:02] she plants the paddle and draws a smooth stroke, the board gliding, sun-caustics rippling over the sand. [00:02–00:04] she switches the paddle to the other side with a clean stroke, water beading off the blade, glancing down into the clear lagoon. [00:04–00:06] she glides on, a soft contented breath, fine caustics dancing beneath. Real-time, believable paddle stroke + water physics; 9:16.
-- *AUDIO (in-frame):* ambient/object — the paddle dip and pull, water beading off the blade, gentle ripples, a distant gull; voice — a soft contented breath from Aira.
-**→ Cut (match-on-action) to Frame 2 — the glide carries her into the shaded mangrove channel.**
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact face/identity — animate only gaze + soft expression: a soft, contented calm.
+- *Animation:* **split-level over/under**, **one continuous glide at the surface with the waterline cutting the frame — the split-level trick.** [00:00–00:02] she plants the paddle and draws a smooth stroke above the waterline while caustics ripple over the sand below the split. [00:02–00:04] she switches the paddle to the other side, water beading off the blade above, a small school of fish flicking under the board below the split; she glances down with a soft smile. [00:04–00:06] she glides on, a contented breath, the half-and-half frame holding. Real-time, believable paddle stroke + real over/under split; 9:16.
+- *AUDIO (in-frame):* ambient/object — the paddle dip and pull, water beading off the blade, gentle ripples, a muffled under-water hush, a distant gull; voice — a soft contented breath from Aira.
+**→ Cut (match-on-action) to Frame 2 — the glide carries her into the shaded mangrove channel (the god's-eye trick).**
 
 ---
-### FRAME 2 — MANGROVE CHANNEL
-**Frame angle:** water-line ¾ front (camera low on the surface), dappled green-gold shade.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **low water-line ¾ front**. · Outfit: coral-white one-piece + turquoise sarong. · Headwear: none. · Accessories: shell anklet, studs. · Eye colour: amber-hazel. · Makeup: water-glow. · Hair: wet-look top-knot. · Footwear: barefoot. · Nails: aqua-coral. · static & neutral, plain blank background.
-**STILL 2 · OBJECT (plain bg):** the paddleboard + paddle at **low water-line ¾** — teak deck foremost, blade trailing. Clean, isolated, plain blank background.
-**STILL 3 · ENVIRONMENT:** a narrow mangrove channel — arching roots, dappled green-gold light, still water, dragonflies; low water-line vantage into the channel.
+### FRAME 2 — MANGROVE CHANNEL (trick shot · god's-eye top-down)
+**Frame angle:** **god's-eye top-down** (straight down ~85° over the channel), dappled green-gold shade.
+**ENVIRONMENT still (the only per-frame ingredient):** a narrow mangrove channel seen straight from above — arching roots, dappled green-gold light on the still water, her board threading the green corridor; top-down god's-eye vantage. *(Animate `@subject` paddling `@object` through the channel, seen from directly overhead.)*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* camera at the water-line, **one continuous low dolly following the board in.** [00:00–00:02] she paddles gently into the shaded channel, arching roots passing, dappled green-gold light striping the water. [00:02–00:04] she lets the board glide and trails her left hand in the still water, tipping her face up to the canopy with quiet wonder. [00:04–00:06] she resumes an easy stroke toward brightening light, a soft smile. Real-time, believable glide + ripples; 9:16.
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact identity — quiet upward wonder.
+- *Animation:* **god's-eye top-down**, **one continuous overhead track following the board through the green corridor — the god's-eye trick.** [00:00–00:02] from straight above she paddles gently into the shaded channel, arching roots and dappled light sliding past either side of the board. [00:02–00:04] she lets the board glide and trails her left hand in the still water, ripples spreading in rings beneath the overhead lens, tipping her face up. [00:04–00:06] she resumes an easy stroke toward brightening light at the channel's end. Real-time, believable glide + ripples; 9:16. (Top-down — the channel framing her small in the green.)
 - *AUDIO (in-frame):* ambient/object — still water dripping off the blade, a dragonfly hum, leaves rustling, a bird call; voice — a soft "oh" of quiet wonder from Aira.
-**→ Cut (match-on-action) to Frame 3 — the channel opens onto a bright lotus field.**
+**→ Cut (match-on-action) to Frame 3 — the channel opens onto a bright lotus field (the lotus-bloom element).**
 
 ---
-### FRAME 3 — LOTUS FIELD (signature)
+### FRAME 3 — LOTUS FIELD (magical element · lotus bloom opening, used once)
 **Frame angle:** low ¾ rising from just under the surface (~20° up), bright lotus-field sun.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **low ¾ (rising)**. · Outfit: coral-white one-piece + turquoise sarong. · Headwear: none. · Accessories: shell anklet, studs. · Eye colour: amber-hazel. · Makeup: water-glow. · Hair: wet-look top-knot. · Footwear: barefoot. · Nails: aqua-coral. · static & neutral, plain blank background.
-**STILL 2 · OBJECT (plain bg):** the paddleboard + paddle at **low ¾** — teak deck, blade resting across. Clean, isolated, plain blank background.
-**STILL 3 · ENVIRONMENT:** a bright open lotus field — pads and buds across clear water, sun overhead, fish below; low ¾ rising vantage from just under the surface.
+**ENVIRONMENT still (the only per-frame ingredient):** a bright open lotus field — pads and buds across clear water, sun overhead, fish below; low ¾ rising vantage from just under the surface. *The concept's single element lands here.* *(Animate `@subject` gliding `@object` over the field as the lotus opens in her wake.)*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* **one continuous vertical boom rising from just under the clear surface up to her** as she passes. [00:00–00:02] the camera rises through the surface revealing her gliding over the lotus field, caustics dancing. [00:02–00:04] the signature blooms — lotus pads open in her wake and a school of bright fish flashes beneath the board, caustics shimmering; she gazes over the field with radiant awe. [00:04–00:06] she draws one slow proud stroke onward, an open smile to lens, the blooms settling behind. Real-time, grounded refraction, real lotus + fish; 9:16.
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact identity — radiant awe blooming into an open smile.
+- *Animation:* **one continuous vertical boom rising from just under the clear surface up to her** as she passes. [00:00–00:02] the camera rises through the surface revealing her gliding over the lotus field, caustics dancing. [00:02–00:04] the **element** blooms — lotus pads and buds open one after another in her wake across the field, a few bright fish flashing beneath; she gazes over it with radiant awe. [00:04–00:06] she draws one slow proud stroke onward, an open smile to lens, the blooms settling behind. Real-time, grounded refraction, real lotus + fish; 9:16.
 - *AUDIO (in-frame):* ambient/object — a gentle water swirl, lotus pads stirring, a soft fish-flash ripple, the paddle's slow stroke; voice — Aira's awed breath blooming into a soft delighted "woah".
 **→ Cut (match-on-action) to Frame 4 — she paddles into the shimmering sandbar shallows.**
 
 ---
 ### FRAME 4 — SANDBAR SHALLOWS
 **Frame angle:** full profile (true side), shimmering pale-aqua noon.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, in **full profile**. · Outfit: coral-white one-piece + turquoise sarong. · Headwear: none. · Accessories: shell anklet, studs. · Eye colour: amber-hazel. · Makeup: water-glow. · Hair: wet-look top-knot. · Footwear: barefoot. · Nails: aqua-coral. · static & neutral, plain blank background.
-**STILL 2 · OBJECT (plain bg):** the paddleboard + paddle in **profile** — full side, teak deck, blade. Clean, isolated, plain blank background.
-**STILL 3 · ENVIRONMENT:** bright shallow water over a pale sandbar — ripple-light, a sandbank emerging, gulls; profile vantage, shimmering pale-aqua.
+**ENVIRONMENT still (the only per-frame ingredient):** bright shallow water over a pale sandbar — ripple-light, a sandbank emerging, gulls; profile vantage, shimmering pale-aqua. *(Animate `@subject` driving powerful strokes on `@object`.)*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* tight profile, **one continuous parallel dolly at her speed**, ripple-light shimmering. [00:00–00:02] she drives a powerful stroke, the board surging across the bright shallows, water beading off the blade. [00:02–00:04] she switches and pulls another strong stroke, torso rotating, a determined half-smile, caustics flickering on the pale sand. [00:04–00:06] she eases the power and glides toward the open reef. Real-time, believable powerful paddle mechanics; 9:16.
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact identity — a determined half-smile.
+- *Animation:* profile, **one continuous parallel dolly at her speed**, ripple-light shimmering. [00:00–00:02] she drives a powerful stroke, the board surging across the bright shallows, water beading off the blade. [00:02–00:04] she switches and pulls another strong stroke, torso rotating, a determined half-smile, caustics flickering on the pale sand. [00:04–00:06] she eases the power and glides toward the open reef. Real-time, believable powerful paddle mechanics; 9:16.
 - *AUDIO (in-frame):* ambient/object — strong paddle strokes, the board hissing across the shallow water, gulls overhead; voice — a focused breath and a small determined "hah" from Aira.
-**→ Cut (match-on-action) to Frame 5 — she glides out to the open reef and settles to rest.**
+**→ Cut (match-on-action) to Frame 5 — she glides out to the open reef and settles to rest (her hero beat).**
 
 ---
-### FRAME 5 — OPEN REEF (loop)
-**Frame angle:** ¾ front-side easing toward the lens (~30°), deep reef-blue under open sky.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **¾ front-side (~30°)**. · Outfit: coral-white one-piece + turquoise sarong. · Headwear: none. · Accessories: shell anklet, studs. · Eye colour: amber-hazel. · Makeup: water-glow. · Hair: wet-look top-knot. · Footwear: barefoot. · Nails: aqua-coral. · static & neutral, plain blank background.
-**STILL 2 · OBJECT (plain bg):** the paddleboard + paddle at **¾ front-side** — teak deck, blade across. Clean, isolated, plain blank background.
-**STILL 3 · ENVIRONMENT:** the open reef edge — deeper blue water, coral visible below, big open sky, a distant horizon; ¾ front-side vantage.
+### FRAME 5 — OPEN REEF (HERO frame · loop)
+**Frame angle:** ¾ front-side easing toward the lens (~30°, closer), deep reef-blue under open sky — her hero beat then world opens.
+**ENVIRONMENT still (the only per-frame ingredient):** the open reef edge — deeper blue water, coral visible below, big open sky, a distant horizon; ¾ front-side vantage (closer) opening wide. *(Animate `@subject` folding to rest on `@object`.)*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* MEDIUM, **one continuous gentle orbit easing from ¾ toward her front.** [00:00–00:02] she stops paddling and folds down to kneel/sit on the board, resting the paddle across it. [00:02–00:04] she trails her left hand in the deep-blue water and tips her face up to the open sky, the lotus-and-caustic shimmer settling around her. [00:04–00:06] she lowers her gaze level to lens with a slow warm smile as the board drifts — easing toward the serene calm of the opening for a loop. Real-time, believable drift; 9:16.
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact identity — a slow, warm, peaceful smile to lens, her hero moment.
+- *Animation:* MEDIUM (closer) easing to WIDE, **one continuous gentle orbit easing from ¾ toward her front then pulling out.** [00:00–00:02] she stops paddling and folds down to kneel/sit on the board, resting the paddle across it. [00:02–00:04] she trails her left hand in the deep-blue water and tips her face up to the open sky, then lowers a slow warm smile to lens — her hero moment. [00:04–00:06] the camera eases back to reveal the open reef and sky around her as the board drifts — settling toward the serene lagoon opening for a loop. Real-time, believable drift; 9:16. (Hero beat then environment-dominant — the reef vast around her.)
 - *AUDIO (in-frame):* ambient/object — the board drifting, deep water lapping, a gentle breeze, distant surf on the reef; voice — a slow peaceful breath/sigh from Aira.
 **→ Loops back to Frame 1 (the open lagoon glide).**
 
-**Stills to generate:** 3 per frame × 5 frames = 15. Score = 30s MASTER AUDIO under the diegetic.
+**Stills to generate:** **`@subject` (1) + `@object` (1) + 5 ENVIRONMENT stills = 7 total** — subject & object rendered once and reused; only environment + video prompt change per frame. ONE lagoon-world paddled through (lagoon → mangrove → lotus field → sandbar → reef); lotus-bloom element in Frame 3 only; trick shots in Frames 1 (split-level over/under) & 2 (god's-eye top-down); hero beat in Frame 5. Score = 30s MASTER AUDIO under the diegetic.
 
 
 ═══════════════════════════════════════════════════════════════════════════════
