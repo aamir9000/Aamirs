@@ -1023,10 +1023,10 @@ diegetic — no spoken line; optional wordless bright vocal on the village stop 
 ═══════════════════════════════════════════════════════════════════════════════
 
 # SC-37 · RIVER DRIFT (Riverboat) · 4 shots × 6s
-**Logline:** A sunny river cruise — around a misty river bend → past forested banks → through a pretty riverside
-town → out to a wide delta. Signature: dappled water-light + blossom and leaves drifting + paddle-wheel sparkle +
-clearing morning mist. Serene, nostalgic, sunny. Several exterior "see the boat on the river" shots.
-**Arc:** EXTERIOR · RIVER BEND (mist) → FORESTED BANKS → RIVERSIDE TOWN → WIDE DELTA (signature).
+**Logline:** A sunny river cruise down one river — around a misty bend, past forested banks, through a pretty
+riverside town, out to a wide delta. One river, travelled through; mist clearing to bright. Serene, nostalgic,
+sunny — with exterior "see the boat on the river" shots.
+**Arc (one place, travelled through):** RIVER BEND (element) → FORESTED BANKS (trick) → RIVERSIDE TOWN (hero) → WIDE DELTA (trick · loop).
 
 ## MASTER AUDIO (outside the frames — background music)
 A 24-second custom cinematic score (4 clips × 6s) in self-resolving ~6-second phrases, trimmable at any phrase
@@ -1035,64 +1035,57 @@ warm sub — serene, nostalgic, sunny. Opens (no fade-in) on a warm banjo figure
 shaded forest lull, a lively riverside-town lift, then a wide serene delta resolve for an invisible loop. Laid
 UNDER the diegetic — no spoken line; optional wordless warm vocal on the delta only.
 
-## GLOBAL STYLE LOCKS
-- **Outfit:** a navy-and-white Breton-stripe sailor dress with a pleated skirt and a white collar.
-- **Headwear:** a white sailor cap with a navy band. **Accessories:** a red neckerchief, gold anchor studs, a small navy clutch. **Eye colour:** warm amber-hazel. **Makeup:** fresh sunny — luminous skin, a soft flush, a classic red lip. **Hair:** soft pin-up curls with a knotted red bandana at the crown. **Footwear:** white canvas deck shoes. **Nails:** glossy red.
-- **Hero object:** a charming paddle-wheel riverboat — a white-and-red double-deck steamer, a big rear paddle-wheel, a tall striped funnel, bunting and railings.
-- **Signature (grounded):** dappled water-light plays over the deck, blossom and leaves drift down onto the water, the paddle-wheel throws bright sparkle, and morning mist clears off the river. Real water + paddle + light physics.
-- **Journey + light:** sunny river all the way, mist clearing — misty river bend → cool forested banks → bright riverside town → wide golden delta. *(Exterior shots = camera OFF the boat, she small on deck; deck shots = gentle real sway.)*
+## INGREDIENTS + LOCKS (generate `@subject` & `@object` ONCE — reuse them in every frame)
+- **`@subject` — render ONCE, reuse every frame** (neutral, full body, plain blank bg): `Aira [identity placeholder]` styled as — **Outfit:** navy-and-white Breton-stripe sailor dress with a pleated skirt + a white collar · **Headwear:** white sailor cap with a navy band · **Accessories:** a red neckerchief, gold anchor studs, a small navy clutch · **Eye colour:** warm amber-hazel · **Makeup:** fresh sunny, soft flush, classic red lip · **Hair:** soft pin-up curls with a knotted red bandana at the crown · **Footwear:** white canvas deck shoes · **Nails:** glossy red.
+- **`@object` — render ONCE, reuse every frame** (plain blank bg): a charming paddle-wheel riverboat — a white-and-red double-deck steamer, a big rear paddle-wheel, a tall striped funnel, bunting and railings.
+- **THE PLACE (ONE river, travelled THROUGH):** a single river — a misty river bend at dawn, cool forested banks, a pretty riverside town, and a wide golden delta opening to the sea; sunny, **mist clearing** as the day brightens. The boat **travels it** across the four frames, so each ENVIRONMENT still is the next stretch of the same river at its own angle. (Dappled water-light, drifting blossom/leaves and paddle-wheel sparkle are the river's own natural detail.)
+- **MAGICAL ELEMENT (used ONCE — Frame 1 only):** **clearing morning mist** parts and lifts off the glassy river as the boat rounds the bend (real fog + light physics). No other frame carries an element.
+- **TRICK SHOTS (×2 — Frames 2 & 4, never the element's frame):** Frame 2 = **water-line hull dolly** (camera skimming the waterline alongside the hull); Frame 4 = **river reflection** (the boat, her and the delta sky mirrored on the broad calm water).
+- **HERO FRAME (Frame 3):** she reads clearly as the hero passing the riverside town (closer, waving to children on the quay, warm laughing smile). Every other frame keeps her small with the river dominant — room on the sides, top and bottom.
+- **Footing:** she's on deck — at the rail with gentle real sway.
 
 
 ---
-### FRAME 1 — EXTERIOR · RIVER BEND (mist · signature)
-**Frame angle:** WIDE aerial / drone (world-dominant), soft misty morning light.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, **¾ at the deck rail** (she reads small in the exterior frame). · Outfit: navy-white Breton sailor dress + white collar. · Headwear: white sailor cap, navy band. · Accessories: red neckerchief, anchor studs, navy clutch. · Eye colour: amber-hazel. · Makeup: sunny, red lip. · Hair: pin-up curls + red bandana. · Footwear: white deck shoes. · Nails: glossy red. · static & neutral, plain blank background.
-**STILL 2 · OBJECT (plain bg):** the white-and-red paddle-wheel riverboat at **side ¾** — double deck, rear paddle-wheel, striped funnel, bunting. Clean, isolated, plain blank background.
-**STILL 3 · ENVIRONMENT:** a misty river bend at dawn — a glassy river curving between soft-lit wooded hills, low mist on the water, reeds and a heron, pale gold sky; WIDE aerial vantage (the boat rounds the bend, world dominant).
+### FRAME 1 — RIVER BEND (magical element · clearing morning mist, used once · exterior)
+**Frame angle:** WIDE aerial / drone (world-dominant), soft misty morning light — the boat small.
+**ENVIRONMENT still (the only per-frame ingredient):** a misty river bend at dawn — a glassy river curving between soft-lit wooded hills, low mist on the water, reeds and a heron, pale gold sky; WIDE aerial vantage (world-dominant, big negative space). *(Animate `@object` rounding the bend, `@subject` a small figure on deck.) The concept's single element lands here.*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move (she's a small bright figure on deck).
-- *Animation:* WIDE aerial, **one continuous slow drone track following the boat around the bend.** [00:00–00:02] the white-and-red riverboat rounds the misty bend, the paddle-wheel turning, mist parting off the glassy water, tiny between the wooded hills. [00:02–00:04] the signature reads — the paddle-wheel throws bright sparkle and the morning mist clears in its wake; on deck her small figure leans on the rail, waving. [00:04–00:06] the boat steams on toward forested banks. Real-time, believable boat motion + real paddle/mist; 9:16. (Environment-dominant wide.)
-- *AUDIO (in-frame):* ambient/object — the churn of the paddle-wheel, a low steam-whistle, water lapping, birdsong and a heron's call; voice — (slight distance) Aira's bright "good morning!" carried over the water.
-**→ Cut (match-on-action) to Frame 2 — cut to the deck along forested banks.**
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact face/identity — a small bright figure waving; a soft warm smile reads.
+- *Animation:* WIDE aerial, **one continuous slow drone track following the boat around the bend.** [00:00–00:02] the white-and-red riverboat rounds the misty bend, the paddle-wheel turning, tiny between the wooded hills. [00:02–00:04] the **element** — the morning mist parts and lifts off the glassy water in the boat's wake; on deck her small figure leans on the rail, waving. [00:04–00:06] the boat steams on toward forested banks. Real-time, believable boat motion + real clearing mist; 9:16. (Environment-dominant — boat small, negative space all around.)
+- *AUDIO (in-frame):* ambient/object — the churn of the paddle-wheel, a low steam-whistle, water lapping, birdsong and a heron's call; voice — (slight distance) Aira's bright "good morning!" over the water.
+**→ Cut (match-on-action) to Frame 2 — cut to the forested banks (the water-line dolly trick).**
 
 ---
-### FRAME 2 — FORESTED BANKS
-**Frame angle:** low ¾ front at the deck rail (~30° left, deck-level), cool dappled forest light.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **low ¾ front (~30° left)** at the rail. · Outfit: navy-white Breton sailor dress + collar. · Headwear: white sailor cap. · Accessories: red neckerchief, anchor studs, clutch. · Eye colour: amber-hazel. · Makeup: sunny, red lip. · Hair: pin-up curls + bandana. · Footwear: white deck shoes. · Nails: glossy red. · static & neutral, plain blank background.
-**STILL 2 · OBJECT (plain bg):** the riverboat deck detail — varnished rail, a brass bell, a lifebuoy, bunting, at **¾**. Clean, isolated, plain blank background.
-**STILL 3 · ENVIRONMENT:** cool forested river banks — overhanging trees trailing to the water, dappled green light, blossom drifting down, ducks and dragonflies; low ¾-front deck-level vantage over the rail.
+### FRAME 2 — FORESTED BANKS (trick shot · water-line hull dolly)
+**Frame angle:** **water-line dolly** skimming alongside the hull, cool dappled forest light.
+**ENVIRONMENT still (the only per-frame ingredient):** cool forested river banks — overhanging trees trailing to the water, dappled green light, blossom drifting down, ducks and dragonflies; water-line vantage alongside the hull. *(Animate `@subject` at the rail of `@object`, camera skimming the water.)*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* MEDIUM low ¾ front, **one continuous slow track-with as she stands at the rail under the trees.** [00:00–00:02] she leans on the deck rail as the boat drifts past cool forested banks, overhanging trees trailing close. [00:02–00:04] she reaches out as blossom and leaves drift down onto the water, catching one with a serene smile, dappled light playing over her. [00:04–00:06] the banks open toward a pretty riverside town. Real-time, gentle deck sway + real blossom-drift; 9:16.
-- *AUDIO (in-frame):* ambient/object — the soft paddle-churn, water against the hull, birdsong, leaves rustling; voice — a soft "mmm, lovely" and a gentle laugh from Aira.
-**→ Cut (match-on-action) to Frame 3 — the boat steams up to a riverside town.**
-
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact identity — animate only gaze + soft expression: a serene smile as she catches a leaf.
+- *Animation:* MEDIUM, **one continuous water-line dolly — the hull-skim trick.** [00:00–00:02] the camera skims the waterline alongside the hull as the boat drifts past the cool forested banks, overhanging trees trailing close. [00:02–00:04] up at the rail she reaches out as blossom and leaves drift onto the water, catching one with a serene smile, dappled light playing over her. [00:04–00:06] the banks open toward a pretty riverside town. Real-time, gentle deck sway + real water-line dolly + blossom-drift; 9:16.
+- *AUDIO (in-frame):* ambient/object — the soft paddle-churn, water against the hull, birdsong, leaves rustling; voice — a soft "mmm, lovely" and a gentle laugh.
+**→ Cut (match-on-action) to Frame 3 — the boat steams up to a riverside town (her hero beat).**
 
 ---
-### FRAME 3 — RIVERSIDE TOWN
-**Frame angle:** full profile (true side, parallel track), bright lively town light.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, in **full profile** at the rail. · Outfit: navy-white Breton sailor dress + collar. · Headwear: white sailor cap. · Accessories: red neckerchief, anchor studs, clutch. · Eye colour: amber-hazel. · Makeup: sunny, red lip. · Hair: pin-up curls + bandana. · Footwear: white deck shoes. · Nails: glossy red. · static & neutral, plain blank background.
-**STILL 2 · OBJECT (plain bg):** the paddle-wheel riverboat in **full profile** — full side, double deck, rear paddle-wheel, funnel, bunting. Clean, isolated, plain blank background.
-**STILL 3 · ENVIRONMENT:** a pretty riverside town — pastel waterfront houses, café terraces and a stone quay, an arched bridge, flower boxes, people waving; profile vantage along the waterfront.
+### FRAME 3 — RIVERSIDE TOWN (HERO frame)
+**Frame angle:** full profile (closer hero), bright lively town light — the waterfront behind her.
+**ENVIRONMENT still (the only per-frame ingredient):** a pretty riverside town — pastel waterfront houses, café terraces and a stone quay, an arched bridge, flower boxes, people waving; profile vantage along the waterfront. *(Animate `@subject` at the rail of `@object`.)*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* MEDIUM profile, **one continuous parallel track at the boat's pace along the waterfront.** [00:00–00:02] the riverboat steams past the pretty waterfront town, pastel houses and café terraces sliding by, an arched bridge ahead. [00:02–00:04] she waves brightly to children on the quay who wave back, the paddle-wheel sparkling, bunting fluttering; a warm laughing smile. [00:04–00:06] the boat passes under the bridge toward a wide delta. Real-time, believable boat motion + real waterfront parallax; 9:16. (Town + boat share the frame.)
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact identity — animate only gaze + soft expression: a **warm, bright, laughing smile** — her hero beat.
+- *Animation:* MEDIUM profile (closer), **one continuous parallel track along the waterfront.** [00:00–00:02] the riverboat steams past the pretty waterfront town, pastel houses and café terraces sliding by, an arched bridge ahead. [00:02–00:04] she waves brightly to children on the quay who wave back, a warm laughing smile — her hero moment, the paddle-wheel sparkling. [00:04–00:06] the boat passes under the bridge toward a wide delta. Real-time, believable boat motion + real waterfront parallax; 9:16. (Hero framing — closer, the town behind her.)
 - *AUDIO (in-frame):* ambient/object — the paddle-churn and a cheerful steam-whistle, town chatter and a café tune, water; voice — Aira's bright "hello!" and a warm laugh to the children.
-**→ Cut (match-on-action) to Frame 4 — the boat steams out into the wide delta.**
+**→ Cut (match-on-action) to Frame 4 — the boat steams out into the wide delta (the reflection trick).**
 
 ---
-### FRAME 4 — WIDE DELTA (signature · loop)
-**Frame angle:** low-hero ¾ opening to front (~30°, crane pull-back), wide golden delta light.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **low-hero ¾ (~30°)** at the prow rail. · Outfit: navy-white Breton sailor dress + collar. · Headwear: white sailor cap. · Accessories: red neckerchief, anchor studs, clutch. · Eye colour: amber-hazel. · Makeup: sunny, red lip. · Hair: pin-up curls + bandana. · Footwear: white deck shoes. · Nails: glossy red. · static & neutral, plain blank background.
-**STILL 2 · OBJECT (plain bg):** the riverboat at **low-hero ¾** — heroic prow angle, double deck, paddle-wheel, funnel. Clean, isolated, plain blank background.
-**STILL 3 · ENVIRONMENT:** a wide sunlit river delta opening to the sea — the river broadening between golden reed-banks, sandbars and wheeling gulls, a glittering horizon, big warm sky; low-hero ¾ vantage with crane reveal.
+### FRAME 4 — WIDE DELTA (trick shot · river reflection · loop)
+**Frame angle:** low-hero ¾ opening to a crane pull-back, wide golden delta light — she smaller, world dominant.
+**ENVIRONMENT still (the only per-frame ingredient):** a wide sunlit river delta opening to the sea — the broad **calm mirroring river** between golden reed-banks, sandbars and wheeling gulls, a glittering horizon, big warm sky; low-hero ¾ vantage with crane reveal. *(Animate `@subject` at the prow rail of `@object` — both mirrored on the calm water.)*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* WIDE low-hero, **one continuous slow crane pull-back to reveal the wide delta.** [00:00–00:02] the boat steams out into the broad sunlit delta, the river opening wide between golden reed-banks, she standing at the prow rail. [00:02–00:04] the signature peaks — dappled water-light dances, blossom drifts past and the paddle-wheel sparkles in the warm light; she spreads her arms to the open river with a radiant serene smile. [00:04–00:06] the camera cranes back to reveal the whole glittering delta and sky around the little boat — easing toward the misty river-bend opening for a loop. Real-time, believable boat motion + real water/sparkle; 9:16.
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact identity — animate only gaze + soft expression: a radiant, serene, arms-wide warmth.
+- *Animation:* WIDE low-hero, **one continuous slow crane pull-back — the river-reflection trick.** [00:00–00:02] the boat steams out into the broad sunlit delta, the **calm water mirroring the boat, her and the golden sky**. [00:02–00:04] she spreads her arms to the open river with a radiant serene smile, her reflection gliding on the glassy delta. [00:04–00:06] the camera cranes back to reveal the whole glittering delta and sky around the little boat — easing toward the misty river-bend opening for a loop. Real-time, believable boat motion + real water-reflection; 9:16. (Environment-dominant — she smaller, delta around her.)
 - *AUDIO (in-frame):* ambient/object — the steady paddle-churn, a long contented steam-whistle, gulls, wide-open water; voice — Aira's awed soft "wow…" and a warm happy sigh.
 **→ Loops back to Frame 1 (the misty river bend).**
 
-**Stills to generate:** 3 per frame × 4 frames = 12 (exterior frames: world+boat lead, she small on deck). Score = 24s MASTER AUDIO under the diegetic.
+**Stills to generate:** **`@subject` (1) + `@object` (1) + 4 ENVIRONMENT stills = 6 total** — subject & object rendered once and reused; only environment + video prompt change per frame. ONE river travelled through (bend → forest banks → town → delta); clearing-mist element in Frame 1 only; trick shots in Frames 2 (water-line dolly) & 4 (river reflection); hero beat in Frame 3. Score = 24s MASTER AUDIO under the diegetic.
 
 
 ═══════════════════════════════════════════════════════════════════════════════
