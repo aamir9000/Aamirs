@@ -26,73 +26,76 @@ tram/riverboat/seaplane/paraglide seen travelling through the world, subject sma
 ═══════════════════════════════════════════════════════════════════════════════
 
 # SC-22 · MEADOW GALLOP (Horseback) · 4 shots × 6s
-**Logline:** A bright morning ride — meadow canter → sun-dappled woodland → a splashing river-ford → a hilltop
-vista. Signature: drifting dandelion seed-light + golden pollen-motes lifting in the horse's wake. Free, warm.
-**Arc:** MEADOW CANTER → WOODLAND TRAIL → RIVER-FORD → HILLTOP VISTA (signature).
+**Logline:** A bright morning ride around **one** sunlit country meadow — the same wildflower meadow (a bordering
+woodland edge, a shallow river winding through it, a low grassy rise) seen from four camera perspectives as she
+rides it. Signature: drifting dandelion seed-light + golden pollen-motes lifting in the horse's wake. Free, warm.
+**Arc (ONE world, four views):** WHOLE-MEADOW AERIAL → WOODLAND-EDGE LOW → RIVER PROFILE → THE RISE (signature).
+*The world never changes — same meadow, woodland, river, rise, season, palette and golden-morning light in every
+frame; only the camera viewpoint, her position in the meadow, the foreground additions and the framing change.*
 
 ## MASTER AUDIO (outside the frames — background music)
 A 24-second custom cinematic score (4 clips × 6s) in self-resolving ~6-second phrases, trimmable at any phrase
 boundary. Built on warm strings, a bright folk fiddle, a felt piano, light driving percussion and a warm sub —
 free, warm, exhilarating. Opens (no fade-in) on a warm rising string-and-fiddle figure. Arc: an exhilarated
-meadow-canter open, a dappled woodland lull, a bright splashing river lift, then a triumphant hilltop resolve for
-an invisible loop. Laid UNDER the diegetic — no spoken line; optional wordless soaring vocal on the hilltop only.
+wide-open canter, a tender woodland-edge lull, a bright splashing river lift, then a triumphant rise-top resolve
+for an invisible loop. Laid UNDER the diegetic — no spoken line; optional wordless soaring vocal on the rise only.
 
 ## GLOBAL STYLE LOCKS
 - **Outfit:** a tailored hunter-green riding blazer over a cream silk stock-tie blouse, cream jodhpurs.
 - **Headwear:** a black velvet riding cap. **Accessories:** brown leather riding gloves, a slim tan crop (held). **Eye colour:** warm amber-hazel. **Makeup:** fresh country glow — luminous skin, a soft wind-flush, neutral rose lip. **Hair:** a sleek **low bun in a fine hair-net** under the cap, a few soft temple wisps. **Footwear:** tall tan leather riding boots. **Nails:** short soft beige (under gloves).
 - **Hero object:** a chestnut horse, tacked in tan leather (saddle, bridle, a woven brow-band).
 - **Signature (grounded):** dandelion seed-light and golden pollen-motes lift and drift in the horse's wake, catching the sun. Real seed/pollen + air physics.
-- **Journey + light:** bright country daylight warming — golden meadow morning → dappled cool woodland → bright sparkling river → warm open hilltop. *Footing: she rides — balanced seat, real walk/canter gait.*
+- **THE WORLD (ONE location, constant — render the SAME place every frame):** a single vast wildflower meadow in warm golden morning light — long windblown grass dotted with **poppies, daisies and cornflowers**, a **woodland edge** of tall oaks bordering one side, a **shallow pebble river** winding through the middle, and a **low grassy rise** crowned by a lone oak; a big soft sky, far blue hills, butterflies and skylarks. Every frame is THIS meadow — same grass, same oaks, same river, same rise, same light and palette — only the **camera view + her position in it + the foreground detail** change. *Footing: she rides — balanced seat, real walk/canter gait.*
 
 ---
-### FRAME 1 — MEADOW CANTER
+### FRAME 1 — WHOLE-MEADOW AERIAL (establishing the one world)
 **Frame angle:** high aerial ¾ (~50° down, world-dominant), bright golden morning side-light.
 **STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **high aerial ¾**. · Outfit: hunter-green riding blazer + cream stock-tie blouse + cream jodhpurs. · Headwear: black velvet riding cap. · Accessories: brown leather gloves, slim crop. · Eye colour: amber-hazel. · Makeup: country glow, neutral rose lip. · Hair: sleek low bun in a net. · Footwear: tall tan riding boots. · Nails: soft beige. · static & neutral, plain blank background.
 **STILL 2 · OBJECT (plain bg):** the tacked chestnut horse at **high aerial ¾** — tan leather saddle/bridle, glossy chestnut coat, woven brow-band. Clean, isolated, plain blank background.
-**STILL 3 · ENVIRONMENT:** a vast wildflower meadow under bright golden morning — long windblown grass, poppies and daisies, a far tree-line, big soft sky; high aerial ¾ vantage (world dominant).
+**STILL 3 · ENVIRONMENT:** the **whole meadow world from above** — the open wildflower grass with the **oak woodland edge** down one side, the **shallow river** threading the middle and the **low rise with its lone oak** beyond, poppies and daisies, far blue hills, big soft sky; high aerial ¾ vantage (establishing — shows the entire location at once).
 **VIDEO PROMPT:**
 - *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* WIDE high aerial establishing, **one continuous slow track over the meadow as they cross it.** [00:00–00:02] she canters out across the vast wildflower meadow, the horse's stride rolling, grass and poppies parting, tiny in the open sweep. [00:02–00:04] the signature stirs — dandelion seed-light and golden pollen-motes lift in their wake and catch the sun; she rides tall with a bright wide smile. [00:04–00:06] she steers toward a dappled woodland edge ahead, the meadow rippling behind. Real-time, believable canter gait + balanced seat, real seed/pollen drift; 9:16.
+- *Animation:* WIDE high aerial establishing, **one continuous slow track over the meadow as she canters across it.** [00:00–00:02] she canters out across the open wildflower grass, the horse's stride rolling, poppies parting, the woodland edge and river and rise all visible around her — the whole world in one shot. [00:02–00:04] the signature stirs — dandelion seed-light and golden pollen-motes lift in their wake and catch the sun; she rides tall with a bright wide smile. [00:04–00:06] she arcs her line across the meadow as the camera holds the wide world. Real-time, believable canter gait + balanced seat, real seed/pollen drift; 9:16. (Environment-dominant establishing wide.)
 - *AUDIO (in-frame):* ambient/object — the rhythmic thud of cantering hooves on turf, the horse's breath and tack-jingle, wind over the grass, skylarks; voice — Aira's exhilarated open laugh and a bright "woohoo!".
-**→ Cut (match-on-action) to Frame 2 — the canter eases to a walk into the woodland.**
+**→ Cut (match-on-action) to Frame 2 — same meadow; camera drops low to the woodland edge as she eases to a walk.**
 
 ---
-### FRAME 2 — WOODLAND TRAIL
-**Frame angle:** low ¾ front (~30° left, ground-level track-with), dappled cool woodland light.
+### FRAME 2 — WOODLAND-EDGE LOW (same world, low view)
+**Frame angle:** low ¾ front (~30° left, ground-level track-with), dappled light at the meadow's tree-line.
 **STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **low ¾ front (~30° left)**. · Outfit: hunter-green blazer + stock-tie + jodhpurs. · Headwear: velvet riding cap. · Accessories: gloves, crop. · Eye colour: amber-hazel. · Makeup: country glow, rose lip. · Hair: low bun in a net. · Footwear: tan riding boots. · Nails: soft beige. · static & neutral, plain blank background.
 **STILL 2 · OBJECT (plain bg):** the tacked chestnut horse at **low ¾ front** — head and forequarters foremost, tan tack, glossy coat. Clean, isolated, plain blank background.
-**STILL 3 · ENVIRONMENT:** a sun-dappled woodland trail — tall trees, shafts of cool light, ferns and bluebells, a soft leaf-litter path; low ground-level ¾-front vantage.
+**STILL 3 · ENVIRONMENT:** the **same meadow at its woodland edge, low to the ground** — the tall oaks of the tree-line throwing dappled shafts over the wildflower grass, ferns and bluebells in the foreground, the open meadow and the glint of the same river still visible beyond; low ground-level ¾-front vantage (a corner of the one world).
 **VIDEO PROMPT:**
 - *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* MEDIUM, **one continuous low ground-level track with them through the trees.** [00:00–00:02] she walks the horse onto the soft woodland trail, dappled light shafting down, ferns brushing past. [00:02–00:04] she leans and pats the horse's neck with her free hand, glancing up at the sunlit canopy with a soft contented smile, a few seed-motes drifting in a light-shaft. [00:04–00:06] she rides on toward a brightening gap where a river glints ahead. Real-time, believable walk gait + balanced seat; 9:16.
-- *AUDIO (in-frame):* ambient/object — hooves on soft leaf-litter, the creak of the saddle, birdsong, a breeze through the leaves; voice — a soft "hey, good boy" murmur and a gentle laugh from Aira.
-**→ Cut (match-on-action) to Frame 3 — she rides out of the trees and splashes into the river-ford.**
+- *Animation:* MEDIUM, **one continuous low ground-level track with them along the tree-line.** [00:00–00:02] she walks the horse along the meadow's shady woodland edge, dappled light shafting through the oaks, ferns brushing past. [00:02–00:04] she leans and pats the horse's neck with her free hand, glancing up at the sunlit canopy with a soft contented smile, a few seed-motes drifting in a light-shaft. [00:04–00:06] she turns the horse back out toward the open grass and the river. Real-time, believable walk gait + balanced seat; 9:16.
+- *AUDIO (in-frame):* ambient/object — hooves on soft turf and leaf-litter, the creak of the saddle, birdsong, a breeze through the leaves; voice — a soft "hey, good boy" murmur and a gentle laugh from Aira.
+**→ Cut (match-on-action) to Frame 3 — same meadow; camera goes to a profile on the river as she rides into it.**
 
 ---
-### FRAME 3 — RIVER-FORD
-**Frame angle:** full profile (true side, parallel track), bright sparkling river light.
+### FRAME 3 — RIVER PROFILE (same world, side view)
+**Frame angle:** full profile (true side, parallel track), bright sparkling light on the meadow's river.
 **STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, in **full profile**. · Outfit: hunter-green blazer + stock-tie + jodhpurs. · Headwear: velvet riding cap. · Accessories: gloves, crop. · Eye colour: amber-hazel. · Makeup: country glow, rose lip. · Hair: low bun in a net. · Footwear: tan riding boots. · Nails: soft beige. · static & neutral, plain blank background.
 **STILL 2 · OBJECT (plain bg):** the tacked chestnut horse in **full profile** — full side, tan tack, glossy coat. Clean, isolated, plain blank background.
-**STILL 3 · ENVIRONMENT:** a shallow sparkling river-ford — clear water over pebbles, bright sun on the splashes, a far meadow bank rising; profile vantage along the ford.
+**STILL 3 · ENVIRONMENT:** the **same shallow river winding through the meadow, seen side-on** — clear water over pebbles, bright sun on the splashes, the wildflower grass and the same oak woodland edge behind, the low rise beyond; profile vantage along the river (the middle of the one world).
 **VIDEO PROMPT:**
 - *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* MEDIUM profile, **one continuous parallel track at their pace**, water flashing. [00:00–00:02] the horse splashes into the shallow ford, bright water kicking up around its legs, she rises with the stride. [00:02–00:04] big sun-lit splashes leap up and the seed-light drifts through them; she laughs at the spray with a bright grin, glancing down at the flashing water. [00:04–00:06] the horse surges up the far bank toward an open hilltop ahead. Real-time, real water splashes + believable gait through water; 9:16.
+- *Animation:* MEDIUM profile, **one continuous parallel track at their pace**, water flashing. [00:00–00:02] the horse splashes into the shallow river that threads the meadow, bright water kicking up around its legs, she rises with the stride. [00:02–00:04] big sun-lit splashes leap up and the seed-light drifts through them; she laughs at the spray with a bright grin, glancing down at the flashing water. [00:04–00:06] the horse surges up the near bank back onto the meadow grass toward the low rise. Real-time, real water splashes + believable gait through water; 9:16.
 - *AUDIO (in-frame):* ambient/object — big water splashes and hoof-sloshes, the river burbling, the horse's snort, drips; voice — Aira's delighted laugh and a bright "yeah!" at the spray.
-**→ Cut (match-on-action) to Frame 4 — she rides up onto the hilltop vista.**
+**→ Cut (match-on-action) to Frame 4 — same meadow; camera goes low-hero on the rise as she climbs it.**
 
 ---
-### FRAME 4 — HILLTOP VISTA (signature · loop)
-**Frame angle:** low-hero ¾ opening to front (~30°, crane pull-back), warm open hilltop light.
+### FRAME 4 — THE RISE (signature · loop)
+**Frame angle:** low-hero ¾ opening to front (~30°, crane pull-back), warm light on the meadow's grassy rise.
 **STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **low-hero ¾ (~30°)**. · Outfit: hunter-green blazer + stock-tie + jodhpurs. · Headwear: velvet riding cap. · Accessories: gloves, crop. · Eye colour: amber-hazel. · Makeup: country glow, rose lip. · Hair: low bun in a net. · Footwear: tan riding boots. · Nails: soft beige. · static & neutral, plain blank background.
 **STILL 2 · OBJECT (plain bg):** the tacked chestnut horse at **low-hero ¾** — standing tall, tan tack, glossy coat. Clean, isolated, plain blank background.
-**STILL 3 · ENVIRONMENT:** an open grassy hilltop over a vast patchwork valley — far fields, a winding river, big warm sky, wildflowers nodding, the meadow spread below; low-hero ¾ vantage with crane reveal.
+**STILL 3 · ENVIRONMENT:** the **low grassy rise of the same meadow, low-hero then craning to reveal the whole world** — the lone crowning oak, wildflowers nodding, and below the rise the same open meadow, the same woodland edge and winding river spread out, big warm sky, far blue hills; low-hero ¾ vantage with crane reveal (the one world, seen whole again from its high point).
 **VIDEO PROMPT:**
 - *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* WIDE low-hero, **one continuous slow crane pull-back to reveal the valley.** [00:00–00:02] she rides up onto the hilltop and the horse slows to a halt, the vast patchwork valley opening before them. [00:02–00:04] the signature peaks — dandelion seed-light and golden pollen-motes drift up around them in the warm air; she sweeps an arm to the view with radiant triumph. [00:04–00:06] the camera cranes back to reveal the whole hilltop, valley and big sky — easing toward the meadow-canter of the opening for a loop. Real-time, believable halt + balanced seat, real seed/pollen drift; 9:16.
-- *AUDIO (in-frame):* ambient/object — the horse blowing out and settling, a soft hilltop breeze, distant birds, tack creak; voice — Aira's satisfied breath and a soft warm "wow…".
-**→ Loops back to Frame 1 (the meadow canter).**
+- *Animation:* WIDE low-hero, **one continuous slow crane pull-back to reveal the whole meadow from the rise.** [00:00–00:02] she rides up onto the low grassy rise by the lone oak and the horse slows to a halt, the whole meadow opening below. [00:02–00:04] the signature peaks — dandelion seed-light and golden pollen-motes drift up around them in the warm air; she sweeps an arm over the meadow with radiant triumph. [00:04–00:06] the camera cranes back to reveal the entire one-world meadow — the woodland edge, the river and the open grass — easing toward the establishing aerial of the opening for a loop. Real-time, believable halt + balanced seat, real seed/pollen drift; 9:16.
+- *AUDIO (in-frame):* ambient/object — the horse blowing out and settling, a soft breeze over the rise, distant birds, tack creak; voice — Aira's satisfied breath and a soft warm "wow…".
+**→ Loops back to Frame 1 (the whole-meadow aerial).**
 
-**Stills to generate:** 3 per frame × 4 frames = 12. Score = 24s MASTER AUDIO under the diegetic.
+**Stills to generate:** 3 per frame × 4 frames = 12 (all four ENVIRONMENT stills = the SAME meadow from different angles). Score = 24s MASTER AUDIO under the diegetic.
 
 ═══════════════════════════════════════════════════════════════════════════════
 
