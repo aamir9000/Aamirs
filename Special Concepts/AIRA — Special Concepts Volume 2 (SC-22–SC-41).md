@@ -692,10 +692,10 @@ loop. Laid UNDER the diegetic — no spoken line; optional wordless bright vocal
 ═══════════════════════════════════════════════════════════════════════════════
 
 # SC-32 · VALLEY SWING (Garden Swing) · 4 shots × 6s
-**Logline:** A soaring tropical swing — out over a green valley → above terraced rice fields → over a waterfall →
-to a sky-high apex. Signature: leaves and blossom fluttering up in the arc + an apex sun-burst + valley mist.
-Free, exhilarating, blissful.
-**Arc:** SWING OUT OVER VALLEY → ABOVE RICE TERRACES → OVER THE WATERFALL → SKY APEX (signature).
+**Logline:** A soaring tropical swing over one valley — she swings out from a giant tree over the green valley,
+above its golden rice terraces, across its waterfall, up to a blazing sky apex. One valley, swung through. Free,
+exhilarating, blissful.
+**Arc (one place, travelled through):** SWING OUT OVER VALLEY (trick) → ABOVE RICE TERRACES (hero) → OVER THE WATERFALL (element) → SKY APEX (trick · loop).
 
 ## MASTER AUDIO (outside the frames — background music)
 A 24-second custom cinematic score (4 clips × 6s) in self-resolving ~6-second phrases, trimmable at any phrase
@@ -704,62 +704,56 @@ sub — free, exhilarating, blissful. Opens (no fade-in) on a soaring string fig
 a serene terrace lull, a rushing waterfall lift, then a weightless sky-apex resolve for an invisible loop. Laid
 UNDER the diegetic — no spoken line; optional wordless soaring vocal on the apex only.
 
-## GLOBAL STYLE LOCKS
-- **Outfit:** a flowing white-and-coral ruffle maxi dress with a tiered skirt that catches the wind.
-- **Accessories:** a fresh hibiscus tucked behind one ear, delicate gold anklets, small gold hoops. **Eye colour:** warm amber-hazel. **Makeup:** sun-kissed glow — luminous skin, a warm flush, a glossy coral lip. **Hair:** voluminous natural curls worn out, lifting in the wind. **Footwear:** barefoot (or delicate gold sandals). **Nails:** soft coral.
-- **Hero object:** a giant wooden rope-swing — a broad polished plank seat on long thick ropes, anchored to a huge overhanging tree branch.
-- **Signature (grounded):** leaves and tropical blossom flutter up in the swing's arc, an apex sun-burst flares as she peaks, and valley mist drifts below. Real leaf + light + mist physics.
-- **Journey + light:** bright tropical all the way — green valley launch → golden terraced rice fields → cool waterfall spray → blazing sky apex. *Footing: she rides the swing — hands gripping the ropes, feet braced on the plank, a real pendulum arc (never floating).*
+## INGREDIENTS + LOCKS (generate `@subject` & `@object` ONCE — reuse them in every frame)
+- **`@subject` — render ONCE, reuse every frame** (neutral, full body, plain blank bg): `Aira [identity placeholder]` styled as — **Outfit:** flowing white-and-coral ruffle maxi dress with a tiered wind-catching skirt · **Accessories:** a fresh hibiscus behind one ear, delicate gold anklets, small gold hoops · **Eye colour:** warm amber-hazel · **Makeup:** sun-kissed glow, warm flush, glossy coral lip · **Hair:** voluminous natural curls worn out · **Footwear:** barefoot · **Nails:** soft coral.
+- **`@object` — render ONCE, reuse every frame** (plain blank bg): a giant wooden rope-swing — a broad polished plank seat on long thick ropes, anchored to a huge overhanging tree branch.
+- **THE PLACE (ONE valley, swung THROUGH):** a single lush tropical valley with a giant rope-swing on a huge overhanging tree — the green valley drop, glowing golden rice terraces, a tall waterfall into a jade pool, and the open blazing sky at the top of the arc; bright tropical light. She **swings out through its airspace** across the four frames, so each ENVIRONMENT still is the next part of the same valley at its own height/angle. (Fluttering leaves + blossom are the valley's own natural detail.)
+- **MAGICAL ELEMENT (used ONCE — Frame 3 only):** a **rainbow flares in the waterfall-mist** as she swings across the falls (real water + light physics). No other frame carries an element.
+- **TRICK SHOTS (×2 — Frames 1 & 4, never the element's frame):** Frame 1 = **low looking-up arc** (camera low by the tree, looking up as she swings out overhead against the sky); Frame 4 = **reverse pull-out apex reveal** (the camera cranes way out at the apex to unveil the whole valley with her tiny at the top).
+- **HERO FRAME (Frame 2):** she reads clearly as the hero at the top of an arc over the glowing terraces (closer, blissful wonder) — terraces behind. Every other frame keeps her smaller with the valley dominant — room on the sides, top and bottom.
+- **Footing:** she rides the swing — hands gripping the ropes, feet braced on the plank, a real pendulum arc (never floating).
 
 ---
-### FRAME 1 — SWING OUT OVER VALLEY
-**Frame angle:** low ¾ front from below-and-ahead (~30°, ground-anchored track), bright valley side-light.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **low ¾ front (~30°)**. · Outfit: white-and-coral ruffle tiered maxi. · Accessories: hibiscus behind ear, gold anklets, hoops. · Eye colour: amber-hazel. · Makeup: sun-kissed glow, coral lip. · Hair: voluminous curls out. · Footwear: barefoot. · Nails: soft coral. · static & neutral, plain blank background.
-**STILL 2 · OBJECT (plain bg):** the giant wooden rope-swing at **low ¾ front** — broad polished plank seat, long thick ropes, branch-anchor. Clean, isolated, plain blank background.
-**STILL 3 · ENVIRONMENT:** a lush green valley edge — a huge overhanging tree, the valley dropping away to jungle and far blue ridges, bright sky, mist below; low ¾-front vantage out over the drop.
+### FRAME 1 — SWING OUT OVER VALLEY (trick shot · low looking-up arc)
+**Frame angle:** low ground-anchored by the tree, looking **up** as she swings out overhead, bright valley sky.
+**ENVIRONMENT still (the only per-frame ingredient):** a lush green valley edge — a huge overhanging tree, the valley dropping away to jungle and far blue ridges, bright sky, mist below; low looking-up vantage (sky + tree dominant, big negative space). *(Animate `@subject` on `@object` swinging out overhead.)*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* MEDIUM low ¾ front, **one continuous track following her swing out over the drop.** [00:00–00:02] she pushes off and swings out from the tree over the green valley edge, skirt and curls streaming back, ropes taut. [00:02–00:04] the signature stirs — leaves and blossom flutter up in her arc, the valley and far ridges opening below; she grins with exhilarated delight, hair flying. [00:04–00:06] she swings on out above terraced fields. Real-time, believable pendulum arc + braced feet + real leaf-flutter; 9:16.
-- *AUDIO (in-frame):* ambient/object — the creak and whoosh of the rope-swing, wind rushing past, leaves fluttering, jungle birds; voice — Aira's exhilarated "woohoo!" and a soaring laugh.
-**→ Cut (match-on-action) to Frame 2 — the arc carries her out above the rice terraces.**
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact face/identity — animate only gaze + soft expression: an exhilarated, delighted grin, hair flying.
+- *Animation:* MEDIUM low looking-up, **one continuous track — the looking-up arc trick.** [00:00–00:02] from the ground by the tree the camera looks up as she pushes off and swings out overhead against the bright sky, skirt and curls streaming, ropes taut. [00:02–00:04] leaves and blossom flutter up past the lens in her arc, the valley opening beyond; she grins with exhilarated delight. [00:04–00:06] she swings on out above terraced fields. Real-time, believable pendulum arc + braced feet + real leaf-flutter; 9:16. (Environment-dominant — sky + tree, she arcing across.)
+- *AUDIO (in-frame):* ambient/object — the creak and whoosh of the rope-swing, wind rushing, leaves fluttering, jungle birds; voice — Aira's exhilarated "woohoo!" and a soaring laugh.
+**→ Cut (match-on-action) to Frame 2 — the arc carries her out above the rice terraces (her hero beat).**
 
 ---
-### FRAME 2 — ABOVE RICE TERRACES
-**Frame angle:** high aerial ¾ (~50° down, world-dominant), golden terrace light.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **high aerial ¾**. · Outfit: white-and-coral ruffle maxi. · Accessories: hibiscus, gold anklets, hoops. · Eye colour: amber-hazel. · Makeup: sun-kissed glow, coral lip. · Hair: voluminous curls out. · Footwear: barefoot. · Nails: soft coral. · static & neutral, plain blank background.
-**STILL 2 · OBJECT (plain bg):** the rope-swing at **high aerial ¾** — plank seat and ropes from above. Clean, isolated, plain blank background.
-**STILL 3 · ENVIRONMENT:** glowing terraced rice fields — sculpted green-gold curving terraces catching the sun, water glinting in the paddies, palms and a far village; high aerial ¾ vantage (world dominant).
+### FRAME 2 — ABOVE RICE TERRACES (HERO frame)
+**Frame angle:** ¾ (closer hero) at the top of an arc, golden terrace light — terraces glowing behind her.
+**ENVIRONMENT still (the only per-frame ingredient):** glowing terraced rice fields — sculpted green-gold curving terraces catching the sun, water glinting in the paddies, palms and a far village; ¾ vantage (she comes closer, the terraces filling behind). *(Animate `@subject` on `@object` at the top of an arc.)*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* WIDE high aerial, **one continuous slow track over the terraces as she arcs.** [00:00–00:02] she swings out high over the glowing terraced fields, the curving green-gold steps and glinting paddies far below. [00:02–00:04] she leans into the arc and looks down at the terraces with blissful wonder, blossom drifting in her wake, water flashing below. [00:04–00:06] the arc carries her on toward a misting waterfall. Real-time, believable arc + braced grip + real terrace parallax; 9:16. (Environment-dominant wide.)
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact identity — animate only gaze + soft expression: a **blissful, radiant wonder** — her hero beat.
+- *Animation:* MEDIUM ¾ (closer), **one continuous track-with at the top of her arc over the terraces.** [00:00–00:02] she swings up high over the glowing terraced fields, the curving green-gold steps and glinting paddies far below. [00:02–00:04] at the top of the arc she leans and looks down with blissful radiant wonder, blossom drifting in her wake — her hero moment. [00:04–00:06] the arc carries her on toward a misting waterfall. Real-time, believable arc + braced grip + real terrace parallax; 9:16. (Hero framing — closer, terraces behind her.)
 - *AUDIO (in-frame):* ambient/object — the rope-swing whoosh, wind, distant paddy-birds and a far gong; voice — Aira's awed "wow…" and a soft delighted laugh.
-**→ Cut (match-on-action) to Frame 3 — the arc swings her out over a waterfall.**
+**→ Cut (match-on-action) to Frame 3 — the arc swings her out over a waterfall (the rainbow element).**
 
 ---
-### FRAME 3 — OVER THE WATERFALL
+### FRAME 3 — OVER THE WATERFALL (magical element · waterfall-mist rainbow, used once)
 **Frame angle:** full profile (true side, parallel track), cool bright waterfall light.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, in **full profile**. · Outfit: white-and-coral ruffle maxi. · Accessories: hibiscus, gold anklets, hoops. · Eye colour: amber-hazel. · Makeup: sun-kissed glow, coral lip. · Hair: voluminous curls out. · Footwear: barefoot. · Nails: soft coral. · static & neutral, plain blank background.
-**STILL 2 · OBJECT (plain bg):** the rope-swing in **full profile** — plank seat, long ropes, full pendulum line. Clean, isolated, plain blank background.
-**STILL 3 · ENVIRONMENT:** a tall tropical waterfall — white water plunging into a misty jade pool, wet ferns and mossy cliffs, a rainbow in the spray, lush canopy; profile vantage across the falls.
+**ENVIRONMENT still (the only per-frame ingredient):** a tall tropical waterfall — white water plunging into a misty jade pool, wet ferns and mossy cliffs, lush canopy; profile vantage across the falls. *The concept's single element lands here.*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* MEDIUM profile, **one continuous parallel track at her arc-pace across the falls.** [00:00–00:02] she swings out across the face of the tall waterfall, cool mist drifting over her, the white water plunging beside. [00:02–00:04] she reaches out a hand toward the cool spray, a rainbow flashing in the mist, laughing with bright joy as droplets bead on her skin. [00:04–00:06] the arc lifts her up toward a blazing sky apex. Real-time, believable arc + real waterfall mist; 9:16. (Waterfall + sky share the frame.)
-- *AUDIO (in-frame):* ambient/object — the roar of the waterfall, mist hissing, the rope-swing creak, jungle birds; voice — Aira's delighted "ahh!" and a laugh at the cool spray.
-**→ Cut (match-on-action) to Frame 4 — the arc lifts her to the sky apex.**
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact identity — animate only gaze + soft expression: a bright, delighted laugh at the cool spray.
+- *Animation:* MEDIUM profile, **one continuous parallel track at her arc-pace across the falls.** [00:00–00:02] she swings out across the face of the tall waterfall, cool mist drifting over her, white water plunging beside. [00:02–00:04] the **element** — a rainbow flares in the back-lit waterfall-mist; she reaches out a hand toward the cool spray, laughing with bright joy as droplets bead on her skin. [00:04–00:06] the arc lifts her up toward a blazing sky apex. Real-time, believable arc + real waterfall mist + rainbow; 9:16. (Waterfall + sky share the frame.)
+- *AUDIO (in-frame):* ambient/object — the roar of the waterfall, mist hissing, the rope-swing creak, jungle birds; voice — Aira's delighted "ahh!" and a laugh at the spray.
+**→ Cut (match-on-action) to Frame 4 — the arc lifts her to the sky apex (the reverse pull-out reveal).**
 
 ---
-### FRAME 4 — SKY APEX (signature · loop)
-**Frame angle:** low-hero ¾ opening to front (~25°, crane pull-back), blazing apex back-light.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **low-hero ¾ (~25°)**. · Outfit: white-and-coral ruffle maxi. · Accessories: hibiscus, gold anklets, hoops. · Eye colour: amber-hazel. · Makeup: sun-kissed glow, coral lip. · Hair: voluminous curls out. · Footwear: barefoot. · Nails: soft coral. · static & neutral, plain blank background.
-**STILL 2 · OBJECT (plain bg):** the rope-swing at **low-hero ¾** — plank seat tilting up at the top of the arc, ropes taut. Clean, isolated, plain blank background.
-**STILL 3 · ENVIRONMENT:** the top of the swing's arc against an open blazing sky — the whole valley, terraces and waterfall spread far below, a sun-burst flaring, clouds and mist drifting; low-hero ¾ vantage with crane reveal.
+### FRAME 4 — SKY APEX (trick shot · reverse pull-out reveal · loop)
+**Frame angle:** low-hero opening to a big crane pull-out, blazing apex back-light — she tiny at the top, world dominant.
+**ENVIRONMENT still (the only per-frame ingredient):** the top of the swing's arc against an open blazing sky — the whole valley, terraces and waterfall spread far below, a sun-burst flaring, clouds and mist drifting; low-hero ¾ vantage with a big crane reveal. *(Animate `@subject` on `@object` at the apex.)*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* WIDE low-hero, **one continuous slow crane pull-back at the apex to reveal the whole valley.** [00:00–00:02] the swing lifts her to the very top of its arc against the open sky, the valley spread far below, ropes taut. [00:02–00:04] the signature peaks — an apex sun-burst flares behind her, leaves and blossom hang weightless for a beat and valley mist drifts; she flings her head back with a radiant, blissful, arms-wide laugh. [00:04–00:06] gravity takes her and she begins to swing back down as the camera cranes out over the whole valley — easing toward the launch opening for a loop. Real-time, believable apex + descent + braced grip; 9:16.
-- *AUDIO (in-frame):* ambient/object — a held airy hush at the apex, wind, the rope creak, the far waterfall; voice — Aira's soaring "woohoo!" ringing out across the valley.
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact identity — animate only gaze + soft expression: a radiant, blissful, head-back arms-wide laugh.
+- *Animation:* WIDE low-hero, **one continuous big crane pull-out at the apex — the reverse-reveal trick.** [00:00–00:02] the swing lifts her to the very top of its arc against the open sky, ropes taut, the valley far below. [00:02–00:04] a sun-burst flares behind her and the camera **cranes way out**, revealing the whole valley, terraces and waterfall with her tiny at the apex; she flings her head back with a blissful arms-wide laugh. [00:04–00:06] gravity takes her and she begins to swing back down as the reveal holds — easing toward the launch opening for a loop. Real-time, believable apex + descent + braced grip; 9:16. (Environment-dominant — she tiny in the vast valley.)
+- *AUDIO (in-frame):* ambient/object — a held airy hush at the apex, wind, the rope creak, the far waterfall; voice — Aira's soaring "woohoo!" ringing across the valley.
 **→ Loops back to Frame 1 (the swing out over the valley).**
 
-**Stills to generate:** 3 per frame × 4 frames = 12. Score = 24s MASTER AUDIO under the diegetic.
+**Stills to generate:** **`@subject` (1) + `@object` (1) + 4 ENVIRONMENT stills = 6 total** — subject & object rendered once and reused; only environment + video prompt change per frame. ONE valley swung through (valley → terraces → waterfall → apex); waterfall-rainbow element in Frame 3 only; trick shots in Frames 1 (looking-up arc) & 4 (reverse pull-out reveal); hero beat in Frame 2. Score = 24s MASTER AUDIO under the diegetic.
 
 ═══════════════════════════════════════════════════════════════════════════════
 
