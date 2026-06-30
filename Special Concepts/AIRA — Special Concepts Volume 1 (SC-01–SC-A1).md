@@ -746,10 +746,10 @@ bloom for the grand-canal reveal.
 ═══════════════════════════════════════════════════════════════════════════════
 
 # SC-13 · SKY BLOOM (Hot-Air Balloon) · 4 shots × 6s
-**Logline:** A tranquil dawn ascent — the subject lifts off a misty meadow in a pastel-striped hot-air balloon,
-drifts over a sleeping village, rises through a soft cloud, and breaks above the cloud-sea into the sunrise.
-Signature: cloud-wisps parting and drifting + soft dawn light-motes + breaking sun-rays. Dreamy, wonder-filled.
-**Arc:** LIFT-OFF (meadow) → DRIFT OVER VILLAGE → THROUGH A CLOUD (signature) → ABOVE THE CLOUDS (sunrise).
+**Logline:** A tranquil dawn ascent through one dawn sky — lift-off from a misty meadow, a drift over a sleeping
+village, up through a soft cloud, and the break above the cloud-sea into the sunrise. One dawn sky, climbed
+through; pastel dawn warming to sunrise gold. Dreamy, wonder-filled.
+**Arc (one place, travelled through):** LIFT-OFF (trick) → DRIFT OVER VILLAGE (trick) → THROUGH A CLOUD (hero) → ABOVE THE CLOUDS (element).
 
 ## MASTER AUDIO (outside the frames — background music)
 A 24-second custom cinematic score (4 clips × 6s) in self-resolving ~6-second phrases, trimmable at any phrase
@@ -759,62 +759,56 @@ a wondrous drift over the village, a hushed bloom through the cloud, then a radi
 clouds for an invisible loop. Laid UNDER the diegetic — no spoken line; optional wordless aah on the sunrise only.
 Layered: piano/celesta, warm sub, soft string atmosphere, a single bloom for the cloud/sunrise.
 
-## GLOBAL STYLE LOCKS
-- **Outfit:** a flowing lavender-to-peach ombré midi dress with soft tiered ruffles, a draped cream knit cardigan, a thin satin ribbon at the waist.
-- **Headwear:** none. **Accessories:** delicate gold studs. **Eye colour:** warm amber-hazel. **Makeup:** soft dewy dawn — rosy glow, peach lip, dreamy and luminous. **Hair:** **loose romantic waves**, soft and airy, lifting gently. **Footwear:** soft ballet flats. **Nails:** short soft-pink.
-- **Hero object:** a woven wicker balloon basket + a pastel rainbow-striped canopy (warm-lit, ropes and burner-frame).
-- **Signature (grounded-dreamy):** cloud-wisps part and drift around the basket; soft dawn light-motes and a few stray petals lift; sun-rays break through — gentle, airy, real cloud behaviour.
-- **Journey + light:** pastel dawn (low-contrast, warming) — misty pale-pink meadow → soft golden village drift → luminous cloud-white → radiant sunrise gold. *Footing: she stands in the basket.*
+## INGREDIENTS + LOCKS (generate `@subject` & `@object` ONCE — reuse them in every frame)
+- **`@subject` — render ONCE, reuse every frame** (neutral, full body, plain blank bg): `Aira [identity placeholder]` styled as — **Outfit:** flowing lavender-to-peach ombré midi dress with soft tiered ruffles, a draped cream knit cardigan, a thin satin ribbon at the waist · **Hair:** loose romantic waves, soft and airy, lifting gently · **Accessories:** delicate gold studs · **Eye colour:** warm amber-hazel · **Makeup:** soft dewy dawn — rosy glow, peach lip, dreamy and luminous · **Footwear:** soft ballet flats · **Nails:** short soft-pink.
+- **`@object` — render ONCE, reuse every frame** (plain blank bg): a woven wicker balloon basket + a pastel rainbow-striped canopy (ropes and burner-frame, warm-lit).
+- **THE PLACE (ONE dawn sky, climbed THROUGH):** a single dawn ascent — a misty pale-pink meadow, the sleeping village below, a luminous cloud layer, and the radiant sunrise above the cloud-sea; pastel dawn warming to sunrise gold as she rises. She **climbs through it** across the four frames, so each ENVIRONMENT still is the next altitude of the same ascent at its own angle. *Footing: she stands in the basket.*
+- **MAGICAL ELEMENT (used ONCE — Frame 4; written into that frame's VIDEO PROMPT):** above the cloud-sea the rising sun cracks the horizon and great sun-rays fan and break across the basket and her face, light-motes lifting (real dawn ray-break, no cartoon sparkle). No other frame carries an element.
+- **TRICK SHOTS (×2 — Frames 1 & 2, never the element's frame; each written into its frame's VIDEO PROMPT):** Frame 1 = **crane-up lift reveal** (the camera cranes up with the lifting balloon to reveal the widening meadow); Frame 2 = **aerial god's-eye look-down** straight down past the basket over the village.
+- **HERO FRAME (Frame 3):** she reads clearly as the hero inside the luminous cloud (closer, hushed awe, glowing light). Every other frame keeps her with the sky/world present — room on the sides, top and bottom.
+- **Footing:** she stands in the basket — relaxed dreamy poise, real gentle balloon sway.
 
 ---
-### FRAME 1 — LIFT-OFF (meadow)
-**Frame angle:** low ¾ looking up (~30° up at the basket), soft pale-pink dawn.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **low ¾ looking up**. · Outfit: lavender-peach ombré ruffle midi + cream cardigan + satin ribbon. · Headwear: none. · Accessories: gold studs. · Eye colour: amber-hazel. · Makeup: dewy dawn, peach lip. · Hair: loose romantic waves. · Footwear: ballet flats. · Nails: soft-pink. · static & neutral, plain blank background.
-**STILL 2 · OBJECT (plain bg):** the wicker basket + pastel rainbow-striped canopy at **low ¾ up** — woven basket, ropes, burner-frame, striped balloon. Clean, isolated, plain blank background.
-**STILL 3 · ENVIRONMENT:** a misty dawn meadow — dewy grass, wildflowers, pale-pink sky, soft ground-crew shapes below; low-¾ up-vantage as the balloon lifts.
+### FRAME 1 — LIFT-OFF (trick shot · crane-up lift reveal)
+**Frame angle:** low ¾ looking up (~30° up at the basket) craning up with the lift, soft pale-pink dawn.
+**ENVIRONMENT still (the only per-frame ingredient):** a misty dawn meadow — dewy grass, wildflowers, pale-pink sky, soft ground-crew shapes below, the meadow widening as the balloon lifts; low-¾ up-vantage. *(Animate `@subject` in `@object` rising off the meadow.)*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* low-hero WIDE looking up, **one continuous crane-up following the lift.** [00:00–00:02] the balloon rises off the misty meadow, she leans on the wicker rim looking down at the receding dewy grass, hair lifting. [00:02–00:04] she lifts her gaze out to the pale-pink dawn with a gentle anticipatory smile, one hand on a rigging line. [00:04–00:06] the basket climbs steadily, she turns her head to take in the widening meadow. Real-time, believable slow balloon lift + gentle sway; 9:16.
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact face/identity — animate only gaze + soft expression: a gentle anticipatory smile.
+- *Animation:* low-hero WIDE, **one continuous crane-up following the lift, the meadow opening below — the crane-up reveal trick.** [00:00–00:02] the balloon rises off the misty meadow and the camera cranes up with it; she leans on the wicker rim looking down at the receding dewy grass, hair lifting. [00:02–00:04] she lifts her gaze out to the pale-pink dawn with a gentle anticipatory smile, one hand on a rigging line, the meadow widening below. [00:04–00:06] the basket climbs steadily as the crane reveals the full meadow and treeline. Real-time, believable slow balloon lift + gentle sway; 9:16.
 - *AUDIO (in-frame):* ambient/object — the burner's whoosh-roar in bursts, soft ground-crew calls, dewy-meadow birdsong, a basket creak; voice — Aira's soft anticipatory breath and a quiet delighted "oh".
-**→ Cut (match-on-action) to Frame 2 — the climb carries her over the sleeping village.**
+**→ Cut (match-on-action) to Frame 2 — the climb carries her over the sleeping village (the god's-eye trick).**
 
 ---
-### FRAME 2 — DRIFT OVER VILLAGE
-**Frame angle:** high aerial ¾ looking down past her (~55° down), soft golden first light.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **high aerial ¾ (looking down past her)**. · Outfit: lavender-peach ombré midi + cream cardigan. · Headwear: none. · Accessories: gold studs. · Eye colour: amber-hazel. · Makeup: dewy dawn, peach lip. · Hair: loose romantic waves. · Footwear: ballet flats. · Nails: soft-pink. · static & neutral, plain blank background.
-**STILL 2 · OBJECT (plain bg):** the wicker basket + striped canopy at **high aerial ¾** — the basket from above-side, ropes, the canopy curving up. Clean, isolated, plain blank background.
-**STILL 3 · ENVIRONMENT:** a sleeping village far below — terracotta roofs, lanes, a church spire, soft golden first light, drifting chimney smoke; high aerial ¾ down-vantage.
+### FRAME 2 — DRIFT OVER VILLAGE (trick shot · aerial god's-eye look-down)
+**Frame angle:** **aerial god's-eye look-down** (straight down past the basket), soft golden first light.
+**ENVIRONMENT still (the only per-frame ingredient):** a sleeping village far below seen straight down — terracotta roofs, lanes, a church spire, soft golden first light, drifting chimney smoke, the basket-edge in the top of frame; god's-eye down-vantage. *(Animate `@subject` leaning over the rim, seen from directly above looking down past her.)*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* aerial ¾, camera high looking down past her, **one continuous slow descend-orbit.** [00:00–00:02] she leans over the wicker rim gazing down at the terracotta roofs sliding below in the golden first light. [00:02–00:04] she lifts her right hand and points softly to the church spire, a delighted open smile, chimney smoke drifting. [00:04–00:06] she follows the village with her gaze as the balloon drifts on, hair stirring. Real-time, believable gentle drift; 9:16.
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact identity — a delighted open smile.
+- *Animation:* **aerial god's-eye look-down**, **one continuous slow descend-orbit straight over the village — the god's-eye trick.** [00:00–00:02] looking straight down past her, she leans over the wicker rim gazing at the terracotta roofs sliding below in the golden first light. [00:02–00:04] she lifts her right hand and points softly to the church spire far below, a delighted open smile, chimney smoke drifting up toward the lens. [00:04–00:06] she follows the village with her gaze as the balloon drifts on. Real-time, believable gentle drift; 9:16. (Top-down — the village spread wide below her.)
 - *AUDIO (in-frame):* ambient/object — the gentle burner hiss, soft wind, a distant rooster and a faint church bell, a basket creak; voice — Aira's soft delighted gasp and a quiet "oh" as she points.
-**→ Cut (match-on-action) to Frame 3 — the balloon rises into a soft cloud.**
+**→ Cut (match-on-action) to Frame 3 — the balloon rises into a soft cloud (her hero beat).**
 
 ---
-### FRAME 3 — THROUGH A CLOUD (signature)
-**Frame angle:** medium ¾ (~35° front-side), luminous diffused cloud-white.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **medium ¾ (~35°)**. · Outfit: lavender-peach ombré midi + cream cardigan. · Headwear: none. · Accessories: gold studs. · Eye colour: amber-hazel. · Makeup: dewy dawn, peach lip. · Hair: loose romantic waves. · Footwear: ballet flats. · Nails: soft-pink. · static & neutral, plain blank background.
-**STILL 2 · OBJECT (plain bg):** the wicker basket + striped canopy at **medium ¾**, wreathed in soft wisps. Clean, isolated, plain blank background.
-**STILL 3 · ENVIRONMENT:** a soft luminous cloud — white wisps, diffused glow, the canopy glowing above, faint sun-rays beginning; medium ¾ vantage inside the cloud.
+### FRAME 3 — THROUGH A CLOUD (HERO frame)
+**Frame angle:** medium ¾ (~35° front-side) drawing closer, luminous diffused cloud-white — her hero beat.
+**ENVIRONMENT still (the only per-frame ingredient):** a soft luminous cloud — white wisps, diffused glow, the canopy glowing above; medium ¾ vantage (closer) inside the cloud. *(Animate `@subject` in `@object` wreathed in parting wisps.)*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* MEDIUM, **one continuous slow push-in through the cloud wisps to her.** [00:00–00:02] the basket rises into the soft cloud, white wisps drifting and parting around her. [00:02–00:04] the signature blooms gently — cloud-wisps swirl and part, soft dawn light-motes and a few stray petals lift around the basket, faint sun-rays beginning to break; she reaches out to let a wisp pass through her fingers, hushed awe. [00:04–00:06] the wisps thin as the basket nears the cloud-top, brightening light on her face. Real-time, real soft cloud behaviour; 9:16.
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact identity — hushed, luminous awe, her hero moment.
+- *Animation:* MEDIUM (closer), **one continuous slow push-in through the cloud wisps to her.** [00:00–00:02] the basket rises into the soft cloud, white wisps drifting and parting around her — her hero moment, glowing diffused light on her face. [00:02–00:04] she reaches out to let a wisp pass through her fingers, hushed awe, the canopy glowing above. [00:04–00:06] the wisps thin as the basket nears the cloud-top, brightening light on her face. Real-time, real soft cloud behaviour; 9:16. (Hero framing — closer, the cloud glowing around her.)
 - *AUDIO (in-frame):* ambient/object — a soft muffling hush as the cloud envelops, the burner's low hiss, a gentle wind-wisp; voice — Aira's hushed breath of awe and a faint "woah".
-**→ Cut (match-on-action) to Frame 4 — she breaks above the cloud-sea into the sunrise.**
+**→ Cut (match-on-action) to Frame 4 — she breaks above the cloud-sea into the sunrise (the sunrise-ray-break element).**
 
 ---
-### FRAME 4 — ABOVE THE CLOUDS (sunrise · loop)
-**Frame angle:** low front (head-on, slight up-tilt), radiant sunrise-gold.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **low front (head-on)**. · Outfit: lavender-peach ombré midi + cream cardigan. · Headwear: none. · Accessories: gold studs. · Eye colour: amber-hazel. · Makeup: dewy dawn, peach lip. · Hair: loose romantic waves. · Footwear: ballet flats. · Nails: soft-pink. · static & neutral, plain blank background.
-**STILL 2 · OBJECT (plain bg):** the wicker basket + striped canopy at **low front** — the basket head-on, ropes, the canopy blazing with sunrise. Clean, isolated, plain blank background.
-**STILL 3 · ENVIRONMENT:** above an endless cloud-sea — the sun cresting the horizon, radiant gold-and-rose sky, rays fanning; low-front vantage above the clouds.
+### FRAME 4 — ABOVE THE CLOUDS (magical element · sunrise ray-break, used once · loop)
+**Frame angle:** low front (head-on, slight up-tilt) easing to a gentle crane, radiant sunrise-gold.
+**ENVIRONMENT still (the only per-frame ingredient):** above an endless cloud-sea — the sun cresting the horizon, radiant gold-and-rose sky, rays fanning; low-front vantage above the clouds opening wide. *The concept's single element lands here.* *(Animate `@subject` in `@object` rising into the breaking rays.)*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* HERO MEDIUM low front, **one continuous slow push-in / gentle crane.** [00:00–00:02] the basket rises above the endless cloud-sea into the sunrise, rays fanning across her face, both hands resting along the rim. [00:02–00:04] she gazes out at the cresting sun, light-motes drifting up around the basket, a deep calm breath lifting her chest. [00:04–00:06] she settles a warm peaceful smile to lens as the dawn light blooms — easing toward the soft calm of the opening for a loop. Real-time, believable gentle float; 9:16.
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact identity — deep calm wonder settling into a warm peaceful smile.
+- *Animation:* MEDIUM low front, **one continuous slow push-in / gentle crane.** [00:00–00:02] the basket rises above the endless cloud-sea, both hands resting along the rim. [00:02–00:04] the **element** breaks — the sun cracks the horizon and great sun-rays fan across her face and the basket, light-motes lifting, a deep calm breath raising her chest. [00:04–00:06] she settles a warm peaceful smile to lens as the dawn light blooms around her — easing toward the soft meadow calm of the opening for a loop. Real-time, real dawn ray-break; 9:16. (World opens — the cloud-sea vast around her.)
 - *AUDIO (in-frame):* ambient/object — high-altitude wind, the burner's occasional whoosh, a vast airy hush; voice — a warm peaceful breath/sigh from Aira.
 **→ Loops back to Frame 1 (the misty meadow lift-off).**
 
-**Stills to generate:** 3 per frame × 4 frames = 12. Score = 24s MASTER AUDIO under the diegetic.
+**Stills to generate:** **`@subject` (1) + `@object` (1) + 4 ENVIRONMENT stills = 6 total** — subject & object rendered once and reused; only environment + video prompt change per frame. ONE dawn sky climbed through (meadow lift-off → village → cloud → above the clouds); sunrise-ray-break element in Frame 4 only; trick shots in Frames 1 (crane-up lift reveal) & 2 (aerial god's-eye look-down); hero beat in Frame 3. Score = 24s MASTER AUDIO under the diegetic.
 
 
 ═══════════════════════════════════════════════════════════════════════════════
