@@ -1158,10 +1158,9 @@ UNDER the diegetic — no spoken line; optional wordless warm vocal on the farmh
 ═══════════════════════════════════════════════════════════════════════════════
 
 # SC-39 · PLAZA DANCE (Dance) · 4 shots × 6s
-**Logline:** A joyful dance through the city — spinning in a fountain plaza → flowing down a sunlit colonnade →
-twirling on a rooftop terrace → finishing in a blossom garden. Signature: a flowing silk shawl swirling into
-ribbons of colour + petals lifting + fountain glints. Vivacious, graceful, radiant.
-**Arc:** FOUNTAIN PLAZA → SUNLIT COLONNADE → ROOFTOP TERRACE → BLOSSOM GARDEN (signature).
+**Logline:** A joyful dance through one warm town — spinning in a fountain plaza, flowing down a sunlit colonnade,
+turning on a rooftop terrace, finishing in a blossom garden. One town, danced through. Vivacious, graceful, radiant.
+**Arc (one place, travelled through):** FOUNTAIN PLAZA (trick) → SUNLIT COLONNADE (hero) → ROOFTOP TERRACE (trick) → BLOSSOM GARDEN (element · loop).
 
 ## MASTER AUDIO (outside the frames — background music)
 A 24-second custom cinematic score (4 clips × 6s) in self-resolving ~6-second phrases, trimmable at any phrase
@@ -1170,64 +1169,57 @@ sub — vivacious, graceful, radiant. Opens (no fade-in) on a flamenco-guitar fl
 a flowing colonnade lull, a soaring rooftop lift, then a blooming garden resolve for an invisible loop. Laid UNDER
 the diegetic — no spoken line; optional wordless passionate vocal on the garden only.
 
-## GLOBAL STYLE LOCKS
-- **Outfit:** a scarlet-and-coral ruffled dance dress with a fitted bodice and a full circle skirt that flares.
-- **Accessories:** large gold hoop earrings, stacked gold bangles, a flower-comb. **Eye colour:** warm amber-hazel. **Makeup:** radiant glam — luminous skin, a defined eye, a bold red lip. **Hair:** a sleek high ballerina bun with a fresh red flower pinned at the side. **Footwear:** tan character-heel dance shoes. **Nails:** glossy red.
-- **Hero object:** a long flowing ombré silk shawl, coral fading to magenta, light enough to ripple and swirl in the air.
-- **Signature (grounded):** the silk shawl swirls and trails into ribbons of colour, petals lift and spin in her turns, and fountain glints sparkle. Real silk + petal + light physics.
-- **Journey + light:** bright warm afternoon all the way — sparkling fountain plaza → golden colonnade shade → glowing rooftop terrace → soft blossom-garden light. *Footing: she dances on solid ground — grounded turns, real footwork and weight, never floating.*
+## INGREDIENTS + LOCKS (generate `@subject` & `@object` ONCE — reuse them in every frame)
+- **`@subject` — render ONCE, reuse every frame** (neutral, full body, plain blank bg): `Aira [identity placeholder]` styled as — **Outfit:** scarlet-and-coral ruffled dance dress (fitted bodice, full flaring circle skirt) · **Accessories:** large gold hoop earrings, stacked gold bangles, a flower-comb · **Eye colour:** warm amber-hazel · **Makeup:** radiant glam, defined eye, bold red lip · **Hair:** sleek high ballerina bun with a fresh red flower pinned at the side · **Footwear:** tan character-heel dance shoes · **Nails:** glossy red.
+- **`@object` — render ONCE, reuse every frame** (plain blank bg): a long flowing ombré silk shawl, coral fading to magenta, light enough to ripple and swirl in the air.
+- **THE PLACE (ONE town, danced THROUGH):** a single warm town — a grand sunlit fountain plaza, a golden sunlit colonnade, a glowing rooftop terrace over the city and sea, and a soft blossom-garden courtyard; bright warm afternoon throughout. She **dances through it** across the four frames, so each ENVIRONMENT still is the next part of the same town at its own angle. (The silk shawl rippling and trailing + fountain glints are her own natural detail.)
+- **MAGICAL ELEMENT (used ONCE — Frame 4 only):** a **rose-petal swirl** rains and spins around her in the blossom garden (real petal + air physics). No other frame carries an element.
+- **TRICK SHOTS (×2 — Frames 1 & 3, never the element's frame):** Frame 1 = **low orbit** (camera circles low around her grounded spin in the plaza); Frame 3 = **high ¾ orbit** (camera arcs around her open-armed turn on the rooftop, skyline wheeling).
+- **HERO FRAME (Frame 2):** she reads clearly as the hero in the colonnade (closer, trailing the shawl into a shaft of gold light, sultry graceful smile). Every other frame keeps her with the town present — room on the sides, top and bottom.
+- **Footing:** she dances on solid ground — grounded turns, real footwork and weight, never floating.
 
 
 ---
-### FRAME 1 — FOUNTAIN PLAZA
-**Frame angle:** high aerial ¾ (~50° down, world-dominant), bright sparkling afternoon light.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **high aerial ¾**. · Outfit: scarlet-and-coral ruffled circle-skirt dance dress. · Accessories: gold hoops, bangles, flower-comb. · Eye colour: amber-hazel. · Makeup: radiant glam, bold red lip. · Hair: high ballerina bun + red flower. · Footwear: tan character-heel dance shoes. · Nails: glossy red. · static & neutral, plain blank background.
-**STILL 2 · OBJECT (plain bg):** the long ombré silk shawl (coral→magenta) at **high aerial ¾** — rippling, light and flowing. Clean, isolated, plain blank background.
-**STILL 3 · ENVIRONMENT:** a grand sunlit fountain plaza — a tiered fountain sparkling, patterned stone paving, classical facades and palms, scattered onlookers, bright sky; high aerial ¾ vantage (world dominant).
+### FRAME 1 — FOUNTAIN PLAZA (trick shot · low orbit)
+**Frame angle:** **low orbit** circling around her spin, bright sparkling afternoon light.
+**ENVIRONMENT still (the only per-frame ingredient):** a grand sunlit fountain plaza — a tiered fountain sparkling, patterned stone paving, classical facades and palms, scattered onlookers, bright sky; orbit vantage in the open plaza. *(Animate `@subject` spinning with `@object` flaring.)*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* WIDE high aerial establishing, **one continuous slow orbit as she spins in the plaza.** [00:00–00:02] she breaks into a grounded spin in the open fountain plaza, skirt and shawl flaring wide, small in the patterned expanse. [00:02–00:04] the signature stirs — the silk shawl swirls into ribbons of coral-magenta and petals lift in her turn, fountain glints sparkling; she beams with radiant joy mid-spin. [00:04–00:06] she dances off toward a sunlit colonnade. Real-time, believable grounded turns + real silk-swirl; 9:16. (Environment-dominant wide.)
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact face/identity — a radiant joy mid-spin.
+- *Animation:* MEDIUM, **one continuous low orbit around her — the orbit trick.** [00:00–00:02] she breaks into a grounded spin in the open fountain plaza, skirt and shawl flaring wide, the camera circling low around her. [00:02–00:04] the silk shawl swirls and petals lift in her turn, fountain glints sparkling as the orbit sweeps the plaza behind her; she beams with radiant joy. [00:04–00:06] she dances off toward a sunlit colonnade. Real-time, believable grounded turns + real silk-swirl; 9:16. (The plaza wheels around her in the orbit.)
 - *AUDIO (in-frame):* ambient/object — heels striking stone in rhythm, the shawl whipping the air, the fountain splashing, a few claps; voice — Aira's exhilarated "¡olé!" and a bright laugh.
-**→ Cut (match-on-action) to Frame 2 — she dances into the colonnade.**
+**→ Cut (match-on-action) to Frame 2 — she dances into the colonnade (her hero beat).**
 
 ---
-### FRAME 2 — SUNLIT COLONNADE
-**Frame angle:** low ¾ front (~30° left, ground-level track-with), golden colonnade shade-and-light.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **low ¾ front (~30° left)**. · Outfit: scarlet-coral ruffled dance dress. · Accessories: gold hoops, bangles, flower-comb. · Eye colour: amber-hazel. · Makeup: radiant glam, red lip. · Hair: ballerina bun + red flower. · Footwear: character-heel dance shoes. · Nails: glossy red. · static & neutral, plain blank background.
-**STILL 2 · OBJECT (plain bg):** the ombré silk shawl at **low ¾ front** — trailing forward, coral→magenta, rippling. Clean, isolated, plain blank background.
-**STILL 3 · ENVIRONMENT:** a long sunlit colonnade — a row of golden stone arches casting striped light-and-shade, potted flowers, a tiled floor, a bright courtyard beyond; low ground-level ¾-front vantage down the arcade.
+### FRAME 2 — SUNLIT COLONNADE (HERO frame)
+**Frame angle:** low ¾ front (~30° left, closer hero), golden colonnade shade-and-light.
+**ENVIRONMENT still (the only per-frame ingredient):** a long sunlit colonnade — a row of golden stone arches casting striped light-and-shade, potted flowers, a tiled floor, a bright courtyard beyond; low ¾-front vantage down the arcade. *(Animate `@subject` dancing with `@object` trailing.)*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* MEDIUM, **one continuous low ground-level track flowing with her down the colonnade.** [00:00–00:02] she dances down the colonnade, sweeping the shawl behind her, striped light-and-shade flickering over her. [00:02–00:04] she trails the shawl along an arch and turns with a flowing arm-sweep, the silk catching a shaft of gold light, a graceful sultry smile. [00:04–00:06] she dances on toward a rooftop terrace. Real-time, believable footwork + real silk-trail; 9:16.
-- *AUDIO (in-frame):* ambient/object — heels echoing under the arches, the shawl swishing, a distant guitar, fountain echo; voice — a soft rhythmic "sí" and a warm laugh from Aira.
-**→ Cut (match-on-action) to Frame 3 — she dances out onto a rooftop terrace.**
-
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact identity — animate only gaze + soft expression: a **graceful, sultry, radiant smile** — her hero beat.
+- *Animation:* MEDIUM low ¾ front (closer), **one continuous track flowing with her down the colonnade.** [00:00–00:02] she dances down the colonnade, sweeping the shawl behind her, striped light-and-shade flickering over her. [00:02–00:04] she trails the shawl along an arch and turns with a flowing arm-sweep into a shaft of gold light, a graceful sultry smile — her hero moment. [00:04–00:06] she dances on toward a rooftop terrace. Real-time, believable footwork + real silk-trail; 9:16. (Hero framing — closer, the arcade behind her.)
+- *AUDIO (in-frame):* ambient/object — heels echoing under the arches, the shawl swishing, a distant guitar, fountain echo; voice — a soft rhythmic "sí" and a warm laugh.
+**→ Cut (match-on-action) to Frame 3 — she dances out onto a rooftop terrace (the rooftop-orbit trick).**
 
 ---
-### FRAME 3 — ROOFTOP TERRACE
-**Frame angle:** full profile (true side, parallel track), glowing warm rooftop light.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, in **full profile**. · Outfit: scarlet-coral ruffled dance dress. · Accessories: gold hoops, bangles, flower-comb. · Eye colour: amber-hazel. · Makeup: radiant glam, red lip. · Hair: ballerina bun + red flower. · Footwear: character-heel dance shoes. · Nails: glossy red. · static & neutral, plain blank background.
-**STILL 2 · OBJECT (plain bg):** the ombré silk shawl in **full profile** — held out to the side, full length rippling, coral→magenta. Clean, isolated, plain blank background.
-**STILL 3 · ENVIRONMENT:** a glowing rooftop terrace over the city — terracotta tiles and potted bougainvillea, a low balustrade, the warm-lit city skyline and sea beyond, a big golden sky; profile vantage across the terrace.
+### FRAME 3 — ROOFTOP TERRACE (trick shot · high ¾ orbit)
+**Frame angle:** **high ¾ orbit** arcing around her turn, glowing warm rooftop light — skyline wheeling behind.
+**ENVIRONMENT still (the only per-frame ingredient):** a glowing rooftop terrace over the city — terracotta tiles and potted bougainvillea, a low balustrade, the warm-lit city skyline and sea beyond, a big golden sky; high ¾ orbit vantage across the terrace. *(Animate `@subject` turning with `@object` thrown up.)*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* MEDIUM profile, **one continuous parallel track at her dancing pace across the terrace.** [00:00–00:02] she dances out across the glowing rooftop terrace, the city skyline and sea spread behind, shawl streaming. [00:02–00:04] the signature lifts — she throws the shawl up and it swirls into bright ribbons of colour against the golden sky, petals spinning up; she arches with a radiant open-armed turn. [00:04–00:06] she dances on toward a blossom garden. Real-time, believable grounded turn + real silk/petals; 9:16. (Skyline + terrace share the frame.)
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact identity — a soaring, joyful, open radiance.
+- *Animation:* MEDIUM, **one continuous high ¾ orbit around her — the orbit trick.** [00:00–00:02] she dances out across the glowing rooftop terrace, the city skyline and sea spread behind, shawl streaming, the camera beginning to arc. [00:02–00:04] she throws the shawl up and arches into an open-armed turn against the golden sky, petals spinning up, the skyline wheeling behind her in the orbit. [00:04–00:06] she dances on toward a blossom garden. Real-time, believable grounded turn + real silk/petals; 9:16. (Skyline + terrace wheel around her.)
 - *AUDIO (in-frame):* ambient/object — heels on terracotta, the shawl snapping in the breeze, distant city hum, gulls; voice — Aira's joyful "¡eso!" and a soaring laugh.
-**→ Cut (match-on-action) to Frame 4 — she dances down into a blossom garden.**
+**→ Cut (match-on-action) to Frame 4 — she dances down into a blossom garden (the rose-petal element).**
 
 ---
-### FRAME 4 — BLOSSOM GARDEN (signature · loop)
-**Frame angle:** low-hero ¾ opening to front (~30°, crane pull-back), soft warm blossom light.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **low-hero ¾ (~30°)**. · Outfit: scarlet-coral ruffled dance dress. · Accessories: gold hoops, bangles, flower-comb. · Eye colour: amber-hazel. · Makeup: radiant glam, red lip. · Hair: ballerina bun + red flower. · Footwear: character-heel dance shoes. · Nails: glossy red. · static & neutral, plain blank background.
-**STILL 2 · OBJECT (plain bg):** the ombré silk shawl at **low-hero ¾** — settling around her in a graceful pool of coral→magenta. Clean, isolated, plain blank background.
-**STILL 3 · ENVIRONMENT:** a soft blossom garden courtyard — blossoming trees raining petals, a small fountain, flower beds and a tiled path, warm afternoon light; low-hero ¾ vantage with crane reveal.
+### FRAME 4 — BLOSSOM GARDEN (magical element · rose-petal swirl · loop)
+**Frame angle:** low-hero ¾ opening to a crane pull-back, soft warm blossom light — she smaller, world dominant.
+**ENVIRONMENT still (the only per-frame ingredient):** a soft blossom garden courtyard — blossoming trees, a small fountain, flower beds and a tiled path, warm afternoon light; low-hero ¾ vantage with crane reveal. *The concept's single element lands here.*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* WIDE low-hero, **one continuous slow crane pull-back to reveal the blossom garden.** [00:00–00:02] she dances down into the blossom garden and slows into a final flowing pose, the shawl settling around her. [00:02–00:04] the signature peaks — petals rain and spin around her, the shawl's colour-ribbons drift and dissolve into the falling blossom, fountain glints sparkling; she lifts a radiant triumphant smile to lens. [00:04–00:06] the camera cranes back to reveal the whole petal-filled garden around her — easing toward the fountain-plaza opening for a loop. Real-time, believable settling pose + real petal-rain; 9:16.
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact identity — animate only gaze + soft expression: a radiant, triumphant smile to lens.
+- *Animation:* WIDE low-hero, **one continuous slow crane pull-back to reveal the garden.** [00:00–00:02] she dances down into the blossom garden and slows into a final flowing pose, the shawl settling around her. [00:02–00:04] the **element** — a rose-petal swirl rains and spins around her, fountain glints sparkling; she lifts a radiant triumphant smile to lens. [00:04–00:06] the camera cranes back to reveal the whole petal-filled garden around her — easing toward the fountain-plaza opening for a loop. Real-time, believable settling pose + real petal-rain; 9:16. (Environment-dominant — she smaller, garden around her.)
 - *AUDIO (in-frame):* ambient/object — a final heel-stamp and the shawl settling, petals falling, the small fountain, soft applause; voice — Aira's breathless delighted laugh and a warm "¡olé!".
 **→ Loops back to Frame 1 (the fountain plaza).**
 
-**Stills to generate:** 3 per frame × 4 frames = 12. Score = 24s MASTER AUDIO under the diegetic.
+**Stills to generate:** **`@subject` (1) + `@object` (1) + 4 ENVIRONMENT stills = 6 total** — subject & object rendered once and reused; only environment + video prompt change per frame. ONE town danced through (plaza → colonnade → rooftop → garden); rose-petal-swirl element in Frame 4 only; trick shots in Frames 1 (low orbit) & 3 (high ¾ orbit); hero beat in Frame 2. Score = 24s MASTER AUDIO under the diegetic.
 
 
 ═══════════════════════════════════════════════════════════════════════════════
