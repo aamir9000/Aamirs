@@ -813,12 +813,11 @@ Layered: piano/celesta, warm sub, soft string atmosphere, a single bloom for the
 
 ═══════════════════════════════════════════════════════════════════════════════
 
-# SC-12 · FREEDIVER'S BLOOM (Swim) · 5 shots × 6s · *(prop-less — 2 stills per frame: Subject + Environment)*
-**Logline:** A weightless underwater descent and rise — the subject duck-dives from the bright surface, glides past
-a living reef, drifts through a coral garden, hangs inside a towering kelp cathedral, then rises up a great shaft
-of sunlight back toward the surface. Signature: sun-shaft caustics + a trailing silver bubble-stream + a flash of
-coral and fish. Serene, otherworldly, powerful.
-**Arc:** SURFACE DUCK-DIVE → REEF WALL → CORAL GARDEN (signature) → KELP CATHEDRAL → SUN-SHAFT ASCENT.
+# SC-12 · FREEDIVER'S BLOOM (Swim) · 5 shots × 6s · *(prop-less — `@subject` once + ENVIRONMENT stills, no `@object`)*
+**Logline:** A weightless freedive through one reef descent — a surface duck-dive, a reef wall, a coral garden, a
+towering kelp cathedral, then the rise up a great sun-shaft. One reef-world, descended and risen through; deep blue
+glowing to gold. Serene, otherworldly, powerful.
+**Arc (one place, travelled through):** SURFACE DUCK-DIVE (trick) → REEF WALL → CORAL GARDEN (hero) → KELP CATHEDRAL (element) → SUN-SHAFT ASCENT (trick).
 
 ## MASTER AUDIO (outside the frames — background music)
 A 30-second custom cinematic score (5 clips × 6s) in self-resolving ~6-second phrases, trimmable at any phrase
@@ -828,69 +827,66 @@ drifting reef wonder, an enchanted lift over the coral, a reverent hush in the k
 peak up the sun-shaft, resolving for an invisible loop. Laid UNDER the diegetic — no spoken line; optional wordless
 choir-pad on the ascent only. Layered: glassy bell/piano, deep sub, choir-pad atmosphere, a single rise for the ascent.
 
-## GLOBAL STYLE LOCKS
-- **Outfit:** a sleek modest long-sleeve dive-suit / rash-guard set in deep teal with a coral-orange side-stripe, high neckline, full-leg coverage, premium technical fit.
-- **Headwear:** none (a slim teal mask pushed to her forehead). **Accessories:** none. **Eye colour:** warm amber-hazel. **Makeup:** bare, water-fresh — luminous wet skin, neat brows, natural lashes. **Hair:** **slicked-back into a tight, low woven braid**, sealed flat so it streams cleanly underwater. **Footwear:** sleek teal freedive fins. **Nails:** short clean clear-coat.
-- **Hero object:** none (her own breath-hold freedive; the ocean is the set) → each frame uses 2 stills (Subject + Environment).
-- **Signature (grounded):** real god-ray sun-shafts knifing down through blue water, a continuous silver bubble-stream trailing from her, caustic light dappling sand/coral, a flash of fish scattering and coral colour. Real buoyancy + light refraction.
-- **Journey + light:** underwater deep blue → glowing gold — bright sunlit surface → cooler blue reef wall → colour-rich coral garden → dim green-gold kelp cathedral → brilliant gold sun-shaft. *In the VIDEO she is in NEUTRAL BUOYANCY — free-floating, no foot-weight; drift, fin-kicks and current govern motion.*
+## INGREDIENTS + LOCKS (generate `@subject` ONCE — reuse it in every frame; prop-less, no `@object`)
+- **`@subject` — render ONCE, reuse every frame** (neutral, full body, plain blank bg): `Aira [identity placeholder]` styled as — **Outfit:** sleek modest long-sleeve dive-suit / rash-guard set in deep teal with a coral-orange side-stripe, high neckline, full-leg coverage, premium technical fit · **Hair:** slicked-back into a tight low woven braid, sealed flat to stream cleanly underwater · **Headwear:** a slim teal mask pushed to her forehead · **Accessories:** none · **Eye colour:** warm amber-hazel · **Makeup:** bare, water-fresh — luminous wet skin, neat brows, natural lashes · **Footwear:** sleek teal freedive fins · **Nails:** short clean clear-coat.
+- **No `@object`** — her own breath-hold freedive; the ocean is the set. Each frame uses only the ENVIRONMENT still.
+- **THE PLACE (ONE reef-world, descended & risen THROUGH):** a single ocean column — the bright sunlit surface, a blue reef wall, a colour-rich coral garden, a towering kelp cathedral, and a brilliant sun-shaft back to the surface; light deep-blue → glowing gold. She **descends and rises through it** across the five frames, so each ENVIRONMENT still is the next depth of the same dive at its own angle. *In the VIDEO she is in NEUTRAL BUOYANCY — free-floating, no foot-weight; drift, fin-kicks and current govern motion.*
+- **MAGICAL ELEMENT (used ONCE — Frame 4; written into that frame's VIDEO PROMPT):** inside the kelp cathedral a slow drifting bloom of translucent jellyfish pulses past her through the green-gold light (real jellyfish + buoyancy, no cartoon sparkle). No other frame carries an element.
+- **TRICK SHOTS (×2 — Frames 1 & 5, never the element's frame; each written into its frame's VIDEO PROMPT):** Frame 1 = **split-level duck-dive** (half above the bright surface, half below as she arrows down); Frame 5 = **rising-through-surface boom** (a rising crane following her ascent that booms up through the silver ceiling as she breaks the surface).
+- **HERO FRAME (Frame 3):** she reads clearly as the hero in the coral garden (closer, suspended, enchanted delight among the colour). Every other frame keeps her with the ocean present — room on the sides, top and bottom.
+- **Footing:** neutral-buoyancy freediving — real weightless drift, fin-kicks and current, sealed breath-hold.
 
 ---
-### FRAME 1 — SURFACE DUCK-DIVE
-**Frame angle:** high looking down through the surface (~50° down, descending with her), bright silvery surface-blue.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **high looking down**. · Outfit: modest teal long-sleeve dive-suit + coral side-stripe. · Headwear: teal mask on forehead. · Accessories: none. · Eye colour: amber-hazel. · Makeup: bare water-fresh. · Hair: slicked low woven braid. · Footwear: teal fins. · Nails: clear. · static & neutral, plain blank background.
-**STILL 2 · ENVIRONMENT:** the bright sunlit surface from just below — a silver mirror ceiling, sun-shafts fanning down into clear blue, the sandy reef-top faint far below; high looking-down vantage.
+### FRAME 1 — SURFACE DUCK-DIVE (trick shot · split-level duck-dive)
+**Frame angle:** **split-level at the surface** (half bright sky-and-mirror above the line, half blue descent below), descending with her.
+**ENVIRONMENT still (the only per-frame ingredient):** the bright sunlit surface in split-level — sky and the silver mirror-ceiling above the waterline, sun-shafts fanning into clear blue and the faint sandy reef-top below; half-above/half-below vantage. *(Animate `@subject` arrowing down through the split as she duck-dives.)*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* WIDE, camera high just under the surface looking down, **one continuous descend with her.** [00:00–00:02] she is already arrowing downward head-first, arms streamlined overhead, a silver bubble-stream rising in the sun-shafts. [00:02–00:04] a slow fin-kick drives her deeper, the mirror surface receding above, caustic light rippling over her. [00:04–00:06] she glides on toward the faint reef below, the blue deepening. Real-time, true neutral-buoyancy freefall, real refraction + bubbles; 9:16.
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact face/identity — animate only gaze + soft expression: calm, focused serenity (mouth sealed).
+- *Animation:* WIDE **split-level**, **one continuous descend with her through the waterline — the split-level duck-dive trick.** [00:00–00:02] above the split the bright surface ripples; she duck-dives and her body arrows head-first through the waterline into the blue below, a silver bubble-stream rising past the split. [00:02–00:04] a slow fin-kick drives her deeper below the line as the mirror surface recedes above, caustic light rippling over her. [00:04–00:06] she glides on toward the faint reef below, the blue deepening. Real-time, true neutral-buoyancy freefall, real over/under split + bubbles; 9:16.
 - *AUDIO (in-frame):* ambient/object — the muffled underwater hush, a rush of bubbles streaming up, a soft water-whoosh of the dive; voice — sealed breath-hold (no exclamation), only the faint bubble-stream.
 **→ Cut (match-on-action) to Frame 2 — the dive levels off alongside a reef wall.**
 
 ---
 ### FRAME 2 — REEF WALL
 **Frame angle:** full profile (true side, parallel), cool reef-blue.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, in **full profile**. · Outfit: teal dive-suit + coral stripe. · Headwear: teal mask on forehead. · Accessories: none. · Eye colour: amber-hazel. · Makeup: bare water-fresh. · Hair: slicked low braid. · Footwear: teal fins. · Nails: clear. · static & neutral, plain blank background.
-**STILL 2 · ENVIRONMENT:** a tall blue reef wall — soft corals, sponges, a school of silver fish, cooler blue water, fewer sun-shafts; profile vantage along the wall.
+**ENVIRONMENT still (the only per-frame ingredient):** a tall blue reef wall — soft corals, sponges, a school of silver fish, cooler blue water, fewer sun-shafts; profile vantage along the wall. *(Animate `@subject` gliding level along the wall.)*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact identity — quiet drifting wonder (mouth sealed).
 - *Animation:* MEDIUM profile, **one continuous parallel track at her drift-pace.** [00:00–00:02] she glides level along the reef wall, one arm leading, a slow easy fin-kick, bubble-trail streaming. [00:02–00:04] a school of silver fish scatters off the wall and she turns her head to follow them with quiet wonder. [00:04–00:06] she sweeps a gentle scull and drifts on toward a richer coral garden. Real-time, real horizontal neutral-buoyancy glide + fish behaviour; 9:16.
 - *AUDIO (in-frame):* ambient/object — muffled deep-water ambience, fish darting, a soft fin-kick swirl, the bubble-trail; voice — sealed breath-hold, a faint bubble release.
-**→ Cut (match-on-action) to Frame 3 — she drifts down into the coral garden.**
+**→ Cut (match-on-action) to Frame 3 — she drifts down into the coral garden (her hero beat).**
 
 ---
-### FRAME 3 — CORAL GARDEN (signature)
-**Frame angle:** low looking up (~30° up, slow rising boom), colour-rich coral-and-caustic.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **low looking up**. · Outfit: teal dive-suit + coral stripe. · Headwear: teal mask on forehead. · Accessories: none. · Eye colour: amber-hazel. · Makeup: bare water-fresh. · Hair: slicked low braid. · Footwear: teal fins. · Nails: clear. · static & neutral, plain blank background.
-**STILL 2 · ENVIRONMENT:** a vivid coral garden — orange, pink and violet corals on a pale sand floor, caustic light dancing, sun-shafts returning above, fish; low looking-up vantage.
+### FRAME 3 — CORAL GARDEN (HERO frame)
+**Frame angle:** low looking up (~30° up, slow rising boom) drawing closer, colour-rich coral-and-caustic — her hero beat.
+**ENVIRONMENT still (the only per-frame ingredient):** a vivid coral garden — orange, pink and violet corals on a pale sand floor, caustic light dancing, sun-shafts returning above, fish; low looking-up vantage (closer). *(Animate `@subject` suspended among the corals, sculling to hover.)*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* WIDE, camera low looking up, **one continuous slow rising boom.** [00:00–00:02] she hovers suspended among the vivid corals, sculling gently to hold position, caustic light dappling her, bubble-trail rising. [00:02–00:04] she reaches a slow open hand toward a coral fan with enchanted delight as the signature blooms — caustic light dances over the colour-rich garden, a flash of fish and coral colour. [00:04–00:06] she eases her gaze upward to the returning sun-shafts and drifts up off the floor. Real-time, true weightless hover (no foot-weight), real caustics + buoyancy; 9:16.
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact identity — enchanted, luminous delight, her hero moment (mouth sealed).
+- *Animation:* MEDIUM (closer), camera low looking up, **one continuous slow rising boom.** [00:00–00:02] she hovers suspended among the vivid corals — her hero moment — sculling gently to hold position, caustic light dappling her, bubble-trail rising. [00:02–00:04] she reaches a slow open hand toward a coral fan with enchanted delight, a flash of fish and coral colour around her. [00:04–00:06] she eases her gaze upward to the returning sun-shafts and drifts up off the floor. Real-time, true weightless hover (no foot-weight), real caustics + buoyancy; 9:16. (Hero framing — closer, the garden glowing around her.)
 - *AUDIO (in-frame):* ambient/object — a gentle current, a soft scull-swirl, the distant snap-crackle of the reef, rising bubbles; voice — a soft muffled bubble of wonder (mouth sealed).
-**→ Cut (match-on-action) to Frame 4 — she drifts up into the kelp cathedral.**
+**→ Cut (match-on-action) to Frame 4 — she drifts up into the kelp cathedral (the jellyfish-bloom element).**
 
 ---
-### FRAME 4 — KELP CATHEDRAL
+### FRAME 4 — KELP CATHEDRAL (magical element · drifting jellyfish bloom, used once)
 **Frame angle:** slow orbit, ¾ turning to front, dim green-gold.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **¾ (slow-orbit, turning to front)**. · Outfit: teal dive-suit + coral stripe. · Headwear: teal mask on forehead. · Accessories: none. · Eye colour: amber-hazel. · Makeup: bare water-fresh. · Hair: slicked low braid. · Footwear: teal fins. · Nails: clear. · static & neutral, plain blank background.
-**STILL 2 · ENVIRONMENT:** a towering kelp forest — tall golden-green fronds rising like cathedral columns, dim green-gold light, slow swaying current, shafts between the stalks; ¾ orbit vantage.
+**ENVIRONMENT still (the only per-frame ingredient):** a towering kelp forest — tall golden-green fronds rising like cathedral columns, dim green-gold light, slow swaying current, shafts between the stalks, a few translucent jellyfish drifting through; ¾ orbit vantage. *The concept's single element lands here.* *(Animate `@subject` hanging weightless as the jellyfish bloom drifts past.)*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* WIDE, **one continuous slow orbit around her through the kelp columns.** [00:00–00:02] she hangs weightless among the towering kelp, arms spread softly, fronds swaying past her in the current. [00:02–00:04] she tips her head back and gazes up the cathedral of kelp columns with reverent awe, dim green-gold shafts between the stalks, bubble-trail rising. [00:04–00:06] the orbit settles to her front as she draws her arms in, gathering for the rise toward a bright shaft above. Real-time, true neutral-buoyancy suspension + kelp current; 9:16.
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact identity — reverent awe softening to wonder (mouth sealed).
+- *Animation:* WIDE, **one continuous slow orbit around her through the kelp columns.** [00:00–00:02] she hangs weightless among the towering kelp, arms spread softly, fronds swaying past her in the current. [00:02–00:04] the **element** drifts in — a slow bloom of translucent jellyfish pulses past her through the green-gold shafts; she tips her head and follows them with reverent awe, bubble-trail rising. [00:04–00:06] the orbit settles to her front as she draws her arms in, gathering for the rise toward a bright shaft above, the jellyfish drifting on. Real-time, true neutral-buoyancy suspension + real jellyfish + kelp current; 9:16.
 - *AUDIO (in-frame):* ambient/object — kelp fronds swaying, a low resonant water-hum, a slow bubble-trail; voice — sealed breath, a faint bubble.
-**→ Cut (match-on-action) to Frame 5 — she rises up a brilliant shaft of sunlight.**
+**→ Cut (match-on-action) to Frame 5 — she rises up a brilliant shaft of sunlight (the surface-boom trick).**
 
 ---
-### FRAME 5 — SUN-SHAFT ASCENT (loop)
-**Frame angle:** low looking straight up (rising crane following her ascent), brilliant gold sun-shaft.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **low looking straight up**. · Outfit: teal dive-suit + coral stripe. · Headwear: teal mask on forehead. · Accessories: none. · Eye colour: amber-hazel. · Makeup: bare water-fresh. · Hair: slicked low braid. · Footwear: teal fins. · Nails: clear. · static & neutral, plain blank background.
-**STILL 2 · ENVIRONMENT:** a single brilliant column of sunlight knifing down through deep blue toward the silver surface high above — open water, god-rays, the surface a shimmering ceiling; low straight-up vantage.
+### FRAME 5 — SUN-SHAFT ASCENT (trick shot · rising-through-surface boom · loop)
+**Frame angle:** low looking straight up, a rising crane that booms up through the silver ceiling, brilliant gold sun-shaft.
+**ENVIRONMENT still (the only per-frame ingredient):** a single brilliant column of sunlight knifing down through deep blue toward the silver surface high above — open water, god-rays, the surface a shimmering ceiling about to break; low straight-up vantage. *(Animate `@subject` rising fast up the shaft toward the surface.)*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* WIDE, camera low looking straight up, **one continuous rising crane following her ascent.** [00:00–00:02] she is already rising fast up the brilliant column of sunlight, arms reaching overhead, a powerful fin-kick driving her up. [00:02–00:04] the signature peaks — god-ray sun-shafts blaze gold around her, a brilliant silver bubble-stream pours off her body, caustics shimmering, the surface a bright ceiling above. [00:04–00:06] she reaches up toward the silver surface with radiant release as the light goes brilliant gold — easing toward the bright-blue freefall of the opening for a loop. Real-time, real upward freedive ascent + refraction + bubbles; 9:16.
-- *AUDIO (in-frame):* ambient/object — a rush of water and a brilliant bubble-stream pouring off her, the ambience building as she nears the surface; voice — a release of breath in a burst of bubbles as she rises (an open-mouthed underwater exhale, no words).
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact identity — radiant release as she breaks toward the light.
+- *Animation:* WIDE, camera low looking straight up, **one continuous rising crane following her ascent that booms up and through the silver surface — the surface-boom trick.** [00:00–00:02] she is already rising fast up the brilliant column of sunlight, arms reaching overhead, a powerful fin-kick driving her up. [00:02–00:04] god-ray sun-shafts blaze gold around her and a brilliant silver bubble-stream pours off her body as the camera booms up with her toward the bright ceiling. [00:04–00:06] she reaches up and breaks the silver surface as the boom punches through into the light — easing toward the bright-blue freefall of the opening for a loop. Real-time, real upward ascent + refraction + surface-break + bubbles; 9:16.
+- *AUDIO (in-frame):* ambient/object — a rush of water and a brilliant bubble-stream pouring off her, the ambience building to a bright surface-break splash; voice — a release of breath in a burst of bubbles, then a gasped open inhale at the surface (no words).
 **→ Loops back to Frame 1 (the surface duck-dive).**
 
-**Stills to generate:** 2 per frame × 5 frames = 10 (Subject + Environment; no hero object this concept). Score = 30s MASTER AUDIO under the diegetic.
+**Stills to generate:** **`@subject` (1) + 5 ENVIRONMENT stills = 6 total** — prop-less, no `@object`; subject rendered once and reused; only environment + video prompt change per frame. ONE reef-world descended & risen through (surface → reef wall → coral garden → kelp cathedral → sun-shaft); jellyfish-bloom element in Frame 4 only; trick shots in Frames 1 (split-level duck-dive) & 5 (rising-through-surface boom); hero beat in Frame 3. Score = 30s MASTER AUDIO under the diegetic.
 
 
 ═══════════════════════════════════════════════════════════════════════════════
