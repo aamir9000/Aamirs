@@ -182,9 +182,9 @@ the sea-reveal, each tuned to the key so every hit reads as the music expanding.
 ═══════════════════════════════════════════════════════════════════════════════
 
 # SC-03 · BOARDWALK BLOOM (Rollerblades) · 4 shots × 6s
-**Logline:** A youthful candy-bright skate down the coast — palm promenade → pier boardwalk → skate bowl → beach
-steps. Signature: a wake of bright pastel chalk-dust + drifting balloons + clean light off the wheels. Playful, high-key.
-**Arc:** PALM PROMENADE → PIER BOARDWALK → SKATE BOWL (signature) → BEACH STEPS.
+**Logline:** A youthful candy-bright skate along one beachfront — a palm promenade, an open pier, a sun-baked
+skate bowl, the beach steps. One coast, skated through; high-key candy noon throughout. Playful, sun-soaked.
+**Arc (one place, travelled through):** PALM PROMENADE (element) → PIER BOARDWALK (hero) → SKATE BOWL (trick) → BEACH STEPS (loop).
 
 ## MASTER AUDIO (outside the frames — background music)
 A 24-second custom cinematic score (4 clips × 6s) in self-resolving ~6-second phrases, trimmable at any phrase
@@ -194,62 +194,56 @@ pier, the thrilled peak on the bowl carve (the chalk-dust burst), then a sunny r
 invisible loop. Laid UNDER the diegetic — no spoken line; an optional wordless "woo" on the peak only. Layered:
 lead pluck melody, warm sub, sunny bell shimmer, handclap percussion riding her stride, impacts reserved for the bowl.
 
-## GLOBAL STYLE LOCKS
-- **Outfit:** a retro colour-block crop top (turquoise / coral / white) + a high-waisted white skort.
-- **Headwear:** none. **Accessories:** round red sunglasses (on or pushed up), slim wrist guards, rainbow-stripe crew socks; a bright balloon she holds then lets drift. **Eye colour:** warm amber-hazel. **Makeup:** fresh sporty glow — sun-freckles, dewy skin, glossy lip. **Hair:** bouncy **bubble pigtail braids** with face-framing strands. **Footwear:** white quad roller-skates with pastel wheels. **Nails:** short bright-coral.
-- **Hero object:** the white quad roller-skates (pastel wheels, red laces) — and a bright balloon.
-- **Signature (grounded):** a wake of pastel sidewalk-chalk dust + a few drifting balloons + clean sun-light off the spinning wheels; peaks on the bowl drop/carve. Real dust + balloon drift.
-- **Journey + light:** palm-shadowed promenade → bright open pier → sun-baked skate bowl → breezy beach-step overlook (all high-key candy coastal noon).
+## INGREDIENTS + LOCKS (generate `@subject` & `@object` ONCE — reuse them in every frame)
+- **`@subject` — render ONCE, reuse every frame** (neutral, full body, plain blank bg): `Aira [identity placeholder]` styled as — **Outfit:** retro colour-block crop top (turquoise / coral / white) + high-waisted white skort · **Hair:** bouncy bubble pigtail braids with face-framing strands · **Accessories:** round red sunglasses (on or pushed up into hair), slim wrist guards, rainbow-stripe crew socks · **Eye colour:** warm amber-hazel · **Makeup:** fresh sporty glow — sun-freckles, dewy skin, glossy lip · **Footwear:** white quad roller-skates with pastel wheels and red laces · **Nails:** short bright-coral.
+- **`@object` — render ONCE, reuse every frame** (plain blank bg): the white quad roller-skates — pastel wheels, red laces, clean.
+- **THE PLACE (ONE candy beachfront, skated THROUGH):** a single high-key coastal strip — a palm-lined promenade, an open wooden pier, a sun-baked pastel-mural skate bowl, and wide beach steps to the sand; bright candy noon throughout. She **skates along through it** across the four frames, so each ENVIRONMENT still is the next stretch of the same beachfront at its own angle.
+- **MAGICAL ELEMENT (used ONCE — Frame 1 only):** on the promenade a beachfront vendor's stream of soap bubbles drifts across her path, catching the noon sun in rainbow films (real bubbles + light, no cartoon sparkle). No other frame carries an element.
+- **TRICK SHOT (×1 — Frame 3, never the element's frame):** Frame 3 = **god's-eye top-down** straight down over the skate bowl as she carves the curved painted wall.
+- **HERO FRAME (Frame 2):** she reads clearly as the hero on the open pier (closer, a carefree open laugh). Every other frame keeps her with the beachfront present — room on the sides, top and bottom.
+- **Footing:** she rollerblades — athletic glide, real wheel-roll + carving weight-transfer.
 
 ---
-### FRAME 1 — PALM PROMENADE
-**Frame angle:** ¾ from behind (~30° rear-left, low), high-key noon, palm shadows striping.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **low ¾ from behind-left**. · Outfit: colour-block crop top + white skort. · Headwear: none. · Accessories: red sunglasses on, wrist guards, rainbow socks. · Eye colour: amber-hazel. · Makeup: sun-freckled dewy glow. · Hair: bubble pigtail braids. · Footwear: white quad skates, pastel wheels. · static & neutral, plain blank background.
-**STILL 2 · OBJECT (plain bg):** the white quad roller-skates at **low ¾ rear** — pastel wheels, red laces, clean. Isolated, plain blank background.
-**STILL 3 · ENVIRONMENT:** a palm-lined seaside promenade — candy kiosks, pastel railings, palm shadows striping the path, the sea glinting beside; low ¾ rear vantage, high-key noon.
+### FRAME 1 — PALM PROMENADE (magical element · soap-bubble drift, used once)
+**Frame angle:** low ¾ from behind (~30° rear-left), high-key noon, palm shadows striping the path.
+**ENVIRONMENT still (the only per-frame ingredient):** a palm-lined seaside promenade — candy kiosks, a bubble-vendor's cart, pastel railings, palm shadows striping the path, the sea glinting beside; low ¾ rear vantage, high-key noon. *The concept's single element lands here.* *(Animate `@subject` on `@object` skating through the drifting bubbles.)*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* COWBOY crop, **one continuous low track behind her following the glide.** [00:00–00:02] she strokes into a smooth skate down the promenade, hips swaying, palm shadows striping over her. [00:02–00:04] she carves a lazy S, arms swinging for balance, glancing at the glinting sea with a relaxed grin. [00:04–00:06] she pushes into more speed, bubble braids bouncing. Real-time, believable skating weight-transfer + wheel-roll; 9:16.
-- *AUDIO (in-frame):* ambient/object — the smooth whir and rumble of skate wheels on pavement, palm-rustle, distant boardwalk chatter, a seagull; voice — a breezy little laugh from Aira.
-**→ Cut (match-on-action) to Frame 2 — the glide carries her up onto the open pier.**
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact face/identity — animate only gaze + soft expression: a relaxed breezy grin lifting into delight as the bubbles drift past.
+- *Animation:* COWBOY crop, **one continuous low track behind her following the glide.** [00:00–00:02] she strokes into a smooth skate down the promenade, hips swaying, palm shadows striping over her. [00:02–00:04] the **element** drifts in — a stream of sunlit soap bubbles sweeps across her path in rainbow films; she carves a lazy S through them and lifts a hand to pop one with a delighted grin. [00:04–00:06] she pushes into more speed past the vendor's cart, bubbles trailing in her wake, bubble braids bouncing. Real-time, believable skating weight-transfer + real bubble drift; 9:16.
+- *AUDIO (in-frame):* ambient/object — the smooth whir and rumble of skate wheels on pavement, a soft bubble-wand puff, palm-rustle, distant boardwalk chatter, a seagull; voice — a breezy little laugh and a delighted "ooh" from Aira.
+**→ Cut (match-on-action) to Frame 2 — the glide carries her up onto the open pier (her hero beat).**
 
 ---
-### FRAME 2 — PIER BOARDWALK
-**Frame angle:** full profile (true side), bright open pier, big sky.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, in **full profile**. · Outfit: colour-block crop top + white skort. · Headwear: none. · Accessories: red sunglasses on, wrist guards, rainbow socks; a bright balloon string in hand. · Eye colour: amber-hazel. · Makeup: sun-freckled dewy. · Hair: bubble pigtail braids. · Footwear: white quad skates. · static & neutral, plain blank background.
-**STILL 2 · OBJECT (plain bg):** the white quad skates + a bright balloon, in **profile** — pastel wheels, balloon on a string. Isolated, plain blank background.
-**STILL 3 · ENVIRONMENT:** a bright open pier — wood planks, candy-striped kiosks, gulls, big open sky over the sea; profile vantage, bright high-key.
+### FRAME 2 — PIER BOARDWALK (HERO frame)
+**Frame angle:** full profile (true side) drawing closer, bright open pier, big sky — her hero beat.
+**ENVIRONMENT still (the only per-frame ingredient):** a bright open wooden pier — planks, candy-striped kiosks, gulls, big open sky over the sea; profile vantage (closer), bright high-key.
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* tight profile, **one continuous parallel dolly at her speed**, pier planks and sky streaking. [00:00–00:02] she glides the pier in profile, a bright balloon held aloft in her right hand, sea-light flickering. [00:02–00:04] she does a smooth crossover turn, glancing up at the balloon with an open laugh, then lets the string slip free — the balloon drifting up into her wake. [00:04–00:06] she pushes on toward the skate bowl, arms settling for balance. Real-time, believable crossover + real balloon drift; 9:16.
-- *AUDIO (in-frame):* ambient/object — the wheels drumming over the wood planks, gulls, a balloon-rubber squeak, sea breeze; voice — Aira's carefree open laugh and a playful "wheee!" as the balloon drifts up.
-**→ Cut (match-on-action) to Frame 3 — she drops off the pier ramp into the skate bowl.**
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact identity — a carefree, radiant open laugh, her hero moment.
+- *Animation:* MEDIUM profile (closer), **one continuous parallel dolly at her speed**, pier planks and sky streaking. [00:00–00:02] she glides the pier in profile, arms swinging easy, sea-light flickering across her — her hero moment. [00:02–00:04] she carves a smooth crossover turn toward lens with a carefree open laugh, bubble braids and skort lifting. [00:04–00:06] she pushes on toward the skate bowl, arms settling for balance. Real-time, believable crossover + wheel-roll; 9:16. (Hero framing — closer, the pier behind her.)
+- *AUDIO (in-frame):* ambient/object — the wheels drumming over the wood planks, gulls, a sea breeze; voice — Aira's carefree open laugh and a playful "wheee!".
+**→ Cut (match-on-action) to Frame 3 — she drops off the pier ramp into the skate bowl (the god's-eye trick).**
 
 ---
-### FRAME 3 — SKATE BOWL (signature)
-**Frame angle:** high ¾ from above the bowl rim (~45° down), sun-baked pastel mural.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **high ¾ from above (~45° down)**. · Outfit: colour-block crop top + white skort. · Headwear: none. · Accessories: red sunglasses on, wrist guards, rainbow socks. · Eye colour: amber-hazel. · Makeup: sun-freckled dewy. · Hair: bubble pigtail braids. · Footwear: white quad skates. · static & neutral, plain blank background.
-**STILL 2 · OBJECT (plain bg):** the white quad skates at **high ¾ from above** — pastel wheels, dynamic-ready stance angle. Isolated, plain blank background.
-**STILL 3 · ENVIRONMENT:** a sun-baked concrete skate bowl painted in pastel murals — chalk-marked rim, palms beyond; high-¾ down-vantage into the bowl.
+### FRAME 3 — SKATE BOWL (trick shot · god's-eye top-down)
+**Frame angle:** **god's-eye top-down** (straight down over the bowl), sun-baked pastel mural below.
+**ENVIRONMENT still (the only per-frame ingredient):** a sun-baked concrete skate bowl painted in pastel murals seen straight from above — chalk-marked rim, the curved painted wall, palms beyond; top-down god's-eye vantage. *(Animate `@subject` on `@object` carving the bowl wall, seen from directly overhead.)*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* FULL, **one continuous high-angle orbit arcing around the bowl with her.** [00:00–00:02] she drops in off the rim and carves down the painted bowl wall, knees deeply bent, arms out, edging the wheels hard. [00:02–00:04] at the bottom the signature bursts — bright pastel chalk-dust kicks up off her wheels and a couple of drifting balloons sweep through, clean sun-light flaring; she rides the far wall with a fierce grin. [00:04–00:06] she pumps up out of the bowl toward the rim, chalk-dust streaming. Real-time, believable bowl-carving + edge-grip; 9:16.
-- *AUDIO (in-frame):* ambient/object — the wheels roaring up the concrete wall, the grind of edges, a whoosh at the lip, a soft chalk-dust burst; voice — a thrilled "woohoo!" from Aira and a couple of onlooker whoops.
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact identity — a fierce focused grin breaking into a thrill.
+- *Animation:* FULL **god's-eye top-down**, **one continuous overhead rotation tracking her carve around the bowl — the trick.** [00:00–00:02] seen from straight above she drops in off the rim and carves down the painted bowl wall, her shadow sweeping across the mural. [00:02–00:04] she arcs across the bottom and up the far wall, a thin curl of real dust off the wheels, the camera slowly rotating overhead with her line, a thrilled grin. [00:04–00:06] she pumps up out of the bowl toward the rim. Real-time, believable bowl-carving + edge-grip; 9:16.
+- *AUDIO (in-frame):* ambient/object — the wheels roaring up the concrete wall, the grind of edges, a whoosh at the lip; voice — a thrilled "woohoo!" from Aira and a couple of onlooker whoops.
 **→ Cut (match-on-action) to Frame 4 — she rolls out of the bowl toward the beach steps.**
 
 ---
 ### FRAME 4 — BEACH STEPS (loop)
-**Frame angle:** low front (head-on, slight up-tilt), breezy high-key beach, sea behind.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **low front (head-on)**. · Outfit: colour-block crop top + white skort. · Headwear: none. · Accessories: red sunglasses pushed up into hair, wrist guards, rainbow socks. · Eye colour: amber-hazel. · Makeup: sun-freckled dewy. · Hair: bubble pigtail braids. · Footwear: white quad skates. · static & neutral, plain blank background.
-**STILL 2 · OBJECT (plain bg):** the white quad skates at **low front** — pastel wheels, red laces, clean. Isolated, plain blank background.
-**STILL 3 · ENVIRONMENT:** wide wooden beach steps opening to the sea — sand, surf, breezy open sky, the boardwalk behind; low-front vantage.
+**Frame angle:** wide low front (head-on, slight pull-back), breezy high-key beach, sea behind — she smaller, world open.
+**ENVIRONMENT still (the only per-frame ingredient):** wide wooden beach steps opening to the sea — sand, surf, breezy open sky, the boardwalk behind; wide low-front vantage with the sea opening.
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* HERO MEDIUM low front, **one continuous slow push-in easing into a small pull-back.** [00:00–00:02] she rolls out of the bowl and brakes to a smooth controlled stop at the top of the beach steps, the sea opening ahead. [00:02–00:04] she pushes her sunglasses up into her hair, hand to hip, a breathless satisfied grin, chalk-dust and a last balloon settling behind. [00:04–00:06] she lifts a warm look to lens as the camera eases back to reveal the sea and boardwalk — settling toward the bright calm to loop. Real-time, believable skate stop; 9:16.
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact identity — a breathless, satisfied grin.
+- *Animation:* WIDE low front, **one continuous slow pull-back opening the beach.** [00:00–00:02] she rolls toward the top of the beach steps and brakes to a smooth controlled stop, the sea opening ahead. [00:02–00:04] she pushes her sunglasses up into her hair, hand to hip, a breathless satisfied grin. [00:04–00:06] she lifts a warm look to lens as the camera eases back to reveal the sea and boardwalk around her — settling toward the bright promenade calm to loop. Real-time, believable skate stop; 9:16. (Environment-dominant — she smaller, the coast open around her.)
 - *AUDIO (in-frame):* ambient/object — the wheels braking to a stop, surf, a sea breeze; voice — a breathless satisfied "yeah" and a soft laugh from Aira.
 **→ Loops back to Frame 1 (the palm promenade glide).**
 
-**Stills to generate:** 3 per frame × 4 frames = 12. Render → load 3 per shot → animate → assemble as CUTS → loop. Score = 24s MASTER AUDIO under the diegetic.
+**Stills to generate:** **`@subject` (1) + `@object` (1) + 4 ENVIRONMENT stills = 6 total** — subject & object rendered once and reused; only environment + video prompt change per frame. ONE candy beachfront skated through (promenade → pier → bowl → beach steps); soap-bubble-drift element in Frame 1 only; god's-eye trick in Frame 3; hero beat in Frame 2. Score = 24s MASTER AUDIO under the diegetic.
 
 
 ═══════════════════════════════════════════════════════════════════════════════
