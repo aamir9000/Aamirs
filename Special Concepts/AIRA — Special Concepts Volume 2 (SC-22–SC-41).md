@@ -758,10 +758,10 @@ UNDER the diegetic — no spoken line; optional wordless soaring vocal on the ap
 ═══════════════════════════════════════════════════════════════════════════════
 
 # SC-33 · PALACE CARRIAGE (Horse-Carriage) · 4 shots × 6s
-**Logline:** A golden fairytale ride — down a leafy park lane → through a charming town square → up to grand palace
-gates → into a fountain courtyard. Signature: drifting blossom + warm golden light + doves lifting. Elegant,
-romantic, regal.
-**Arc:** PARK LANE → TOWN SQUARE → PALACE GATES → FOUNTAIN COURTYARD (signature).
+**Logline:** A golden fairytale carriage ride through one palace estate — down a leafy park lane, through a charming
+town square, up to grand palace gates, into a fountain courtyard. One estate, travelled through. Elegant, romantic,
+regal.
+**Arc (one place, travelled through):** PARK LANE (trick) → TOWN SQUARE (hero) → PALACE GATES (element) → FOUNTAIN COURTYARD (trick · loop).
 
 ## MASTER AUDIO (outside the frames — background music)
 A 24-second custom cinematic score (4 clips × 6s) in self-resolving ~6-second phrases, trimmable at any phrase
@@ -770,62 +770,56 @@ lilt — elegant, romantic, regal. Opens (no fade-in) on a graceful waltz figure
 square lull, a grand palace-gate lift, then a serene courtyard resolve for an invisible loop. Laid UNDER the
 diegetic — no spoken line; optional wordless graceful vocal on the courtyard only.
 
-## GLOBAL STYLE LOCKS
-- **Outfit:** a powder-blue lace tea-dress with a fitted bodice and a full midi skirt, a satin sash at the waist, a cropped ivory bolero.
-- **Headwear:** a wide-brim ivory sunhat with a powder-blue ribbon. **Accessories:** short ivory lace gloves, pearl drop earrings, a small beaded purse. **Eye colour:** warm amber-hazel. **Makeup:** soft romantic — luminous skin, a rosy flush, a soft pink lip. **Hair:** old-Hollywood side-swept glossy waves. **Footwear:** ivory low heels. **Nails:** soft pearl-pink.
-- **Hero object:** an open white horse-drawn carriage — a gilded-trim white body, button-tufted seats, large spoked wheels, drawn by a single elegant white horse with a plumed bridle.
-- **Signature (grounded):** soft blossom drifts down, warm golden light gilds everything, and white doves lift and circle as the carriage passes. Real blossom + bird + light physics.
-- **Journey + light:** warm golden afternoon all the way — leafy dappled park lane → charming sunlit town square → grand glowing palace gates → serene golden fountain courtyard. *Footing: she sits as an elegant passenger — graceful seated poise, real carriage sway + horse gait.*
+## INGREDIENTS + LOCKS (generate `@subject` & `@object` ONCE — reuse them in every frame)
+- **`@subject` — render ONCE, reuse every frame** (neutral, full body, plain blank bg): `Aira [identity placeholder]` styled as — **Outfit:** powder-blue lace tea-dress (fitted bodice, full midi skirt) + a satin sash + a cropped ivory bolero · **Headwear:** wide-brim ivory sunhat with a powder-blue ribbon · **Accessories:** short ivory lace gloves, pearl drop earrings, a small beaded purse · **Eye colour:** warm amber-hazel · **Makeup:** soft romantic, rosy flush, soft pink lip · **Hair:** old-Hollywood side-swept glossy waves · **Footwear:** ivory low heels · **Nails:** soft pearl-pink.
+- **`@object` — render ONCE, reuse every frame** (plain blank bg): an open white horse-drawn carriage — a gilded-trim white body, button-tufted seats, large spoked wheels, drawn by a single elegant white horse with a plumed bridle.
+- **THE PLACE (ONE palace estate, travelled THROUGH):** a single golden estate — a leafy blossom-lined park lane, a charming sunlit town square, grand wrought-iron palace gates, and a serene fountain courtyard before the glowing palace; warm golden afternoon throughout. The carriage **rolls through it** across the four frames, so each ENVIRONMENT still is the next part of the same estate at its own angle. (Drifting blossom + gilding golden light are the estate's own natural detail.)
+- **MAGICAL ELEMENT (used ONCE — Frame 3 only):** **white doves lift and circle** as the palace gates open (real bird physics). No other frame carries an element.
+- **TRICK SHOTS (×2 — Frames 1 & 4, never the element's frame):** Frame 1 = **high-aerial establishing** of the white carriage down the blossom lane; Frame 4 = **fountain-water reflection** (her + the white carriage + palace mirrored in the still fountain basin).
+- **HERO FRAME (Frame 2):** she reads clearly as the hero in the town square (closer, catching a tossed bloom, radiant). Every other frame keeps her small with the estate dominant — room on the sides, top and bottom.
+- **Footing:** she sits as an elegant passenger — graceful seated poise, real carriage sway + horse gait.
 
 ---
-### FRAME 1 — PARK LANE
-**Frame angle:** high aerial ¾ (~50° down, world-dominant), dappled golden afternoon light.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **high aerial ¾**. · Outfit: powder-blue lace tea-dress + satin sash + ivory bolero. · Headwear: wide-brim ivory sunhat, blue ribbon. · Accessories: lace gloves, pearl drops, beaded purse. · Eye colour: amber-hazel. · Makeup: soft romantic, pink lip. · Hair: side-swept Hollywood waves. · Footwear: ivory low heels. · Nails: pearl-pink. · static & neutral, plain blank background.
-**STILL 2 · OBJECT (plain bg):** the open white horse-carriage at **high aerial ¾** — gilded trim, tufted seats, spoked wheels, white horse with plumed bridle. Clean, isolated, plain blank background.
-**STILL 3 · ENVIRONMENT:** a leafy golden park lane — an avenue of blossoming trees, dappled light on the gravel, manicured lawns and topiary, a distant palace; high aerial ¾ vantage (world dominant).
+### FRAME 1 — PARK LANE (trick shot · high-aerial establishing)
+**Frame angle:** WIDE high aerial ¾ (~50° down, world-dominant), dappled golden afternoon light — the carriage small.
+**ENVIRONMENT still (the only per-frame ingredient):** a leafy golden park lane — an avenue of blossoming trees, dappled light on the gravel, manicured lawns and topiary, a distant palace; WIDE high aerial ¾ vantage (world-dominant, big negative space). *(Animate `@object` rolling down the lane, `@subject` small and elegant in the open seat.)*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* WIDE high aerial establishing, **one continuous slow track following the carriage down the lane.** [00:00–00:02] the white carriage rolls down the leafy golden lane, the white horse stepping high, blossom trees arching overhead, she small and elegant in the open seat. [00:02–00:04] the signature stirs — soft blossom drifts down and golden light gilds the carriage; she lifts a gloved hand to the falling petals with a serene smile. [00:04–00:06] the carriage rolls on toward a charming town square. Real-time, believable horse gait + carriage roll + real blossom; 9:16. (Environment-dominant wide.)
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact face/identity — a serene smile up at the petals (read small).
+- *Animation:* WIDE high aerial, **one continuous slow track — the high-aerial establishing trick.** [00:00–00:02] the white carriage rolls down the leafy golden lane, the white horse stepping high, blossom trees arching overhead, she small and elegant in the open seat. [00:02–00:04] soft blossom drifts down and golden light gilds the carriage; she lifts a gloved hand to the falling petals with a serene smile. [00:04–00:06] the carriage rolls on toward a charming town square. Real-time, believable horse gait + carriage roll + real blossom; 9:16. (Environment-dominant — carriage small, negative space all around.)
 - *AUDIO (in-frame):* ambient/object — the clip-clop of hooves on gravel, the carriage wheels and creak, birdsong, a soft breeze; voice — Aira's serene contented "ahh" and a soft laugh.
-**→ Cut (match-on-action) to Frame 2 — the carriage turns into the town square.**
+**→ Cut (match-on-action) to Frame 2 — the carriage turns into the town square (her hero beat).**
 
 ---
-### FRAME 2 — TOWN SQUARE
-**Frame angle:** low ¾ front (~30° right, ground-level track-with), charming sunlit light.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **low ¾ front (~30° right)**. · Outfit: powder-blue lace tea-dress + sash + bolero. · Headwear: ivory sunhat, blue ribbon. · Accessories: lace gloves, pearl drops, purse. · Eye colour: amber-hazel. · Makeup: soft romantic, pink lip. · Hair: side-swept waves. · Footwear: ivory heels. · Nails: pearl-pink. · static & neutral, plain blank background.
-**STILL 2 · OBJECT (plain bg):** the white horse-carriage at **low ¾ front** — horse and front of the carriage foremost, gilded trim, plumed bridle. Clean, isolated, plain blank background.
-**STILL 3 · ENVIRONMENT:** a charming sunlit town square — pastel townhouses, a flower market and café tables, a central statue, cobblestones, strolling townsfolk; low ground-level ¾-front vantage.
+### FRAME 2 — TOWN SQUARE (HERO frame)
+**Frame angle:** low ¾ front (~30° right, closer hero), charming sunlit light — the square behind her.
+**ENVIRONMENT still (the only per-frame ingredient):** a charming sunlit town square — pastel townhouses, a flower market and café tables, a central statue, cobblestones, strolling townsfolk; low ¾-front vantage. *(Animate `@subject` in `@object` rolling through.)*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* MEDIUM, **one continuous low ground-level track with the carriage through the square.** [00:00–00:02] the carriage rolls across the charming square, flower stalls and café tables sliding past, the white horse stepping smartly on the cobbles. [00:02–00:04] she gives a graceful little wave to a flower-seller who tosses up a bloom; she catches it with a delighted radiant smile. [00:04–00:06] the carriage turns toward grand palace gates. Real-time, believable horse gait on cobbles + carriage sway; 9:16.
-- *AUDIO (in-frame):* ambient/object — hooves on cobblestones, carriage wheels, market chatter and a café accordion, fountain; voice — Aira's warm "thank you!" and a delighted laugh.
-**→ Cut (match-on-action) to Frame 3 — the carriage approaches the palace gates.**
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact identity — animate only gaze + soft expression: a **delighted, radiant smile** — her hero beat.
+- *Animation:* MEDIUM low ¾ front (closer), **one continuous track-with through the square.** [00:00–00:02] the carriage rolls across the charming square, flower stalls and café tables sliding past, the white horse stepping smartly on the cobbles. [00:02–00:04] a flower-seller tosses up a bloom and she catches it with a delighted radiant smile — her hero moment. [00:04–00:06] the carriage turns toward grand palace gates. Real-time, believable horse gait on cobbles + carriage sway; 9:16. (Hero framing — closer, the square behind her.)
+- *AUDIO (in-frame):* ambient/object — hooves on cobblestones, carriage wheels, market chatter and a café accordion, a fountain; voice — Aira's warm "thank you!" and a delighted laugh.
+**→ Cut (match-on-action) to Frame 3 — the carriage approaches the palace gates (the doves element).**
 
 ---
-### FRAME 3 — PALACE GATES
+### FRAME 3 — PALACE GATES (magical element · white doves, used once)
 **Frame angle:** full profile (true side, parallel track), grand glowing golden light.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, in **full profile**. · Outfit: powder-blue lace tea-dress + sash + bolero. · Headwear: ivory sunhat, blue ribbon. · Accessories: lace gloves, pearl drops, purse. · Eye colour: amber-hazel. · Makeup: soft romantic, pink lip. · Hair: side-swept waves. · Footwear: ivory heels. · Nails: pearl-pink. · static & neutral, plain blank background.
-**STILL 2 · OBJECT (plain bg):** the white horse-carriage in **full profile** — full side, white horse, gilded body, spoked wheels. Clean, isolated, plain blank background.
-**STILL 3 · ENVIRONMENT:** grand wrought-iron palace gates — gilded scrollwork and crests, a sweeping gravel drive beyond, manicured gardens, the palace facade glowing gold; profile vantage along the gates.
+**ENVIRONMENT still (the only per-frame ingredient):** grand wrought-iron palace gates — gilded scrollwork and crests, a sweeping gravel drive beyond, manicured gardens, the palace facade glowing gold; profile vantage along the gates. *The concept's single element lands here.*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* MEDIUM profile, **one continuous parallel track at the carriage's pace along the gates.** [00:00–00:02] the carriage glides along the grand gilded palace gates, the glowing facade and gardens revealed through the bars. [00:02–00:04] she turns her head to take in the palace with awed delight, blossom drifting, gloved hands clasped, a soft "wow". [00:04–00:06] the gates open and the carriage rolls through toward a fountain courtyard. Real-time, believable carriage motion + real gate parallax; 9:16. (Gates + palace share the frame.)
-- *AUDIO (in-frame):* ambient/object — hooves and wheels, the heavy gates creaking open, doves cooing, a distant fanfare; voice — Aira's awed soft "wow… it's beautiful".
-**→ Cut (match-on-action) to Frame 4 — the carriage enters the fountain courtyard.**
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact identity — animate only gaze + soft expression: an awed, soft "wow", gloved hands clasped.
+- *Animation:* MEDIUM profile, **one continuous parallel track at the carriage's pace along the gates.** [00:00–00:02] the carriage glides along the grand gilded gates, the glowing facade and gardens revealed through the bars. [00:02–00:04] the **element** — as the gates open, white doves lift and circle into the gold light; she turns to take in the palace with awed delight, blossom drifting. [00:04–00:06] the carriage rolls through toward a fountain courtyard. Real-time, believable carriage motion + real lifting doves; 9:16. (Gates + palace share the frame.)
+- *AUDIO (in-frame):* ambient/object — hooves and wheels, the heavy gates creaking open, doves' wings and cooing, a distant fanfare; voice — Aira's awed soft "wow… it's beautiful".
+**→ Cut (match-on-action) to Frame 4 — the carriage enters the fountain courtyard (the reflection trick).**
 
 ---
-### FRAME 4 — FOUNTAIN COURTYARD (signature · loop)
-**Frame angle:** low-hero ¾ opening to front (~30°, crane pull-back), serene golden courtyard light.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **low-hero ¾ (~30°)**. · Outfit: powder-blue lace tea-dress + sash + bolero. · Headwear: ivory sunhat, blue ribbon. · Accessories: lace gloves, pearl drops, purse. · Eye colour: amber-hazel. · Makeup: soft romantic, pink lip. · Hair: side-swept waves. · Footwear: ivory heels. · Nails: pearl-pink. · static & neutral, plain blank background.
-**STILL 2 · OBJECT (plain bg):** the white horse-carriage at **low-hero ¾** — at rest, gilded and grand, white horse standing proud. Clean, isolated, plain blank background.
-**STILL 3 · ENVIRONMENT:** a serene palace fountain courtyard — a grand tiered fountain, golden statues, flower parterres, the glowing palace facade, doves circling, warm late-gold light; low-hero ¾ vantage with crane reveal.
+### FRAME 4 — FOUNTAIN COURTYARD (trick shot · fountain reflection · loop)
+**Frame angle:** low-hero ¾ opening to a crane pull-back, serene golden courtyard light — she smaller, world dominant.
+**ENVIRONMENT still (the only per-frame ingredient):** a serene palace fountain courtyard — a grand tiered fountain with a **still mirroring basin**, golden statues, flower parterres, the glowing palace facade, warm late-gold light; low-hero ¾ vantage with crane reveal. *(Animate `@object` at rest by the fountain, `@subject` rising in the seat — both mirrored in the basin.)*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* WIDE low-hero, **one continuous slow crane pull-back to reveal the courtyard.** [00:00–00:02] the carriage rolls to a graceful halt by the grand fountain, the glowing palace rising behind. [00:02–00:04] the signature settles — blossom drifts, golden light gilds the courtyard and white doves lift and circle; she rises gracefully in the seat with a radiant serene smile. [00:04–00:06] the camera cranes back to reveal the whole regal courtyard, fountain and palace around her — easing toward the park-lane opening for a loop. Real-time, believable carriage halt + real doves/blossom; 9:16.
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact identity — animate only gaze + soft expression: a radiant, serene, dreamy smile.
+- *Animation:* WIDE low-hero, **one continuous slow crane pull-back — the fountain-reflection trick.** [00:00–00:02] the carriage rolls to a graceful halt by the grand fountain, the **still basin mirroring her, the white carriage and the glowing palace**. [00:02–00:04] golden light gilds the courtyard; she rises gracefully in the seat with a radiant serene smile, her reflection trembling on the water. [00:04–00:06] the camera cranes back to reveal the whole regal courtyard, fountain and palace around her — easing toward the park-lane opening for a loop. Real-time, believable carriage halt + real water-reflection; 9:16. (Environment-dominant — she smaller, courtyard around her.)
 - *AUDIO (in-frame):* ambient/object — the carriage settling and horse blowing, the fountain splashing, doves' wings, a soft breeze; voice — Aira's awed happy sigh and a soft "like a dream…".
 **→ Loops back to Frame 1 (the park lane).**
 
-**Stills to generate:** 3 per frame × 4 frames = 12. Score = 24s MASTER AUDIO under the diegetic.
+**Stills to generate:** **`@subject` (1) + `@object` (1) + 4 ENVIRONMENT stills = 6 total** — subject & object rendered once and reused; only environment + video prompt change per frame. ONE palace estate travelled through (lane → square → gates → courtyard); doves element in Frame 3 only; trick shots in Frames 1 (high aerial) & 4 (fountain reflection); hero beat in Frame 2. Score = 24s MASTER AUDIO under the diegetic.
 
 ═══════════════════════════════════════════════════════════════════════════════
 
