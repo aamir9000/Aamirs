@@ -959,11 +959,10 @@ summit only. Layered: piano/woodwind, warm sub, soaring strings, a crystalline s
 ═══════════════════════════════════════════════════════════════════════════════
 
 # SC-15 · KITE RUN (Kite) · 4 shots × 6s
-**Logline:** A wind-chasing run with a giant kite — the subject launches a huge ribboned kite off a grassy
-headland, races it along a dune ridge, brings it to a soaring bloom at the cliff edge, then leans back into the
-sky as the wind takes everything up. Signature: the kite's long colour-ribbons streaming and braiding into shapes
-on the wind + racing cloud-shadows + grass and sand lifting in the gusts. Free, joyful, kinetic.
-**Arc:** HEADLAND LAUNCH → DUNE RIDGE → CLIFF-EDGE RIBBON-BLOOM (signature) → SKY-LAUNCH LEAN.
+**Logline:** A wind-chasing kite run across one windy coast — a grassy headland launch, a golden dune ridge, the
+cliff-edge ribbon-bloom, the sky-launch lean. One coast, run across; bright windy daylight, clouds racing. Free,
+joyful, kinetic.
+**Arc (one place, travelled through):** HEADLAND LAUNCH (hero) → DUNE RIDGE (element) → CLIFF-EDGE RIBBON-BLOOM (trick) → SKY-LAUNCH LEAN (trick).
 
 ## MASTER AUDIO (outside the frames — background music)
 A 24-second custom cinematic score (4 clips × 6s) in self-resolving ~6-second phrases, trimmable at any phrase
@@ -973,62 +972,56 @@ driving race along the ridge, an awed build at the ribbon-bloom, then a triumpha
 for an invisible loop. Laid UNDER the diegetic — no spoken line; optional wordless soaring vocal on the lean only.
 Layered: flute/string melody, warm sub, driving percussion riding her run, a single lift for the sky-lean.
 
-## GLOBAL STYLE LOCKS
-- **Outfit:** a primary-bright playsuit — a colour-block romper (cobalt bodice, sunshine-yellow shorts, a red waist-tie), with a thin red windbreaker tied at the waist.
-- **Headwear:** none. **Accessories:** a slim cord bracelet. **Eye colour:** warm amber-hazel. **Makeup:** fresh sporty glow — luminous wind-flushed skin, clear bright eyes, a soft coral lip, neat brows. **Hair:** a **high windswept ponytail** tied with a red band, streaming hard. **Footwear:** white canvas sneakers. **Nails:** short bright coral.
-- **Hero object:** a giant delta kite with long multicoloured ribbon-tails + a wooden spool of line.
-- **Signature (grounded):** the kite's long colour-ribbons stream and braid into looping shapes on the wind, cloud-shadows race over the land, grass and sand lift in the gusts. Real wind + line-tension. *Footing: feet planted (she leans into the wind, never floats).*
-- **Journey + light:** bright windy coast, clouds racing — open green headland → golden dune ridge → bright cliff edge over the sea → big open sky.
+## INGREDIENTS + LOCKS (generate `@subject` & `@object` ONCE — reuse them in every frame)
+- **`@subject` — render ONCE, reuse every frame** (neutral, full body, plain blank bg): `Aira [identity placeholder]` styled as — **Outfit:** a primary-bright colour-block romper (cobalt bodice, sunshine-yellow shorts, a red waist-tie) with a thin red windbreaker tied at the waist · **Hair:** a high windswept ponytail tied with a red band, streaming hard · **Accessories:** a slim cord bracelet · **Eye colour:** warm amber-hazel · **Makeup:** fresh sporty glow — luminous wind-flushed skin, clear bright eyes, a soft coral lip, neat brows · **Footwear:** white canvas sneakers · **Nails:** short bright coral.
+- **`@object` — render ONCE, reuse every frame** (plain blank bg): a giant delta kite with long multicoloured ribbon-tails + a wooden spool of line.
+- **THE PLACE (ONE windy coast, run ACROSS):** a single windswept coastline — an open green headland, a golden dune ridge, a bright grassy cliff edge over the sea, and the big open sky; bright windy daylight with clouds racing throughout. She **runs across it** through the four frames, so each ENVIRONMENT still is the next stretch of the same coast at its own angle. *Footing: feet planted — she leans into the wind, never floats.*
+- **MAGICAL ELEMENT (used ONCE — Frame 2; written into that frame's VIDEO PROMPT):** on the dune ridge a flock of swallows darts and weaves across the wind around her and the kite-line (real darting birds, no cartoon sparkle). No other frame carries an element.
+- **TRICK SHOTS (×2 — Frames 3 & 4, never the element's frame; each written into its frame's VIDEO PROMPT):** Frame 3 = **trailing kite-tail cam** (camera riding the kite's ribbon-tails high up, looking back down the line to her); Frame 4 = **low looking-up hero lean** (camera at her feet looking up as she leans back into the wind).
+- **HERO FRAME (Frame 1):** she reads clearly as the hero on the headland launch (closer low-hero, wide open laugh as the kite climbs). Every other frame keeps her with the coast present — room on the sides, top and bottom.
+- **Footing:** she runs then braces planted — real running weight then real wind-lean balance.
 
 ---
-### FRAME 1 — HEADLAND LAUNCH
-**Frame angle:** low-hero ¾ front, angled back-and-up toward the kite (~30°), bright windy-coast light.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **low-hero ¾ front (~30°)**. · Outfit: cobalt/yellow/red colour-block romper + tied red windbreaker. · Headwear: none. · Accessories: cord bracelet. · Eye colour: amber-hazel. · Makeup: sporty glow, coral lip. · Hair: high windswept ponytail (red band). · Footwear: white sneakers. · Nails: bright coral. · static & neutral, plain blank background.
-**STILL 2 · OBJECT (plain bg):** the giant ribboned delta kite + wooden line-spool, at **low ¾ (angled up)** — bright sail panels, long multicoloured ribbon-tails, the wooden spool of line. Clean, isolated, plain blank background.
-**STILL 3 · ENVIRONMENT:** a wide open green headland over the sea — windblown grass, a big racing-cloud sky, the kite just catching air overhead; low-hero ¾-front vantage.
+### FRAME 1 — HEADLAND LAUNCH (HERO frame)
+**Frame angle:** low-hero ¾ front angled back-and-up toward the kite (~30°, closer), bright windy-coast light — her hero beat.
+**ENVIRONMENT still (the only per-frame ingredient):** a wide open green headland over the sea — windblown grass, a big racing-cloud sky, the kite just catching air overhead; low-hero ¾-front vantage (closer). *(Animate `@subject` sprinting as `@object` climbs off her hand.)*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* FULL low-hero, **one continuous track with her as the kite catches air.** [00:00–00:02] she is already sprinting across the windblown headland, line raised high, the giant ribboned kite climbing off her hand into the racing-cloud sky. [00:02–00:04] the kite snaps taut and soars, its colour-ribbons streaming; she glances up at it with a wide open laugh, grass lifting in the gust. [00:04–00:06] she runs on along the headland steering the climbing kite toward a golden dune ridge. Real-time, real wind + line-tension + running weight; 9:16.
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact face/identity — animate only gaze + soft expression: a wide, radiant, open laugh, her hero moment.
+- *Animation:* FULL low-hero (closer), **one continuous track with her as the kite catches air.** [00:00–00:02] she is already sprinting across the windblown headland, line raised high, the giant ribboned kite climbing off her hand into the racing-cloud sky — her hero moment. [00:02–00:04] the kite snaps taut and soars, its colour-ribbons streaming; she glances up at it with a wide open laugh, grass lifting in the gust. [00:04–00:06] she runs on along the headland steering the climbing kite toward a golden dune ridge. Real-time, real wind + line-tension + running weight; 9:16. (Hero framing — closer, the headland behind her.)
 - *AUDIO (in-frame):* ambient/object — wind gusting, the kite-fabric snapping taut, the line thrumming, grass hissing; voice — Aira's breathless open laugh and a joyful "woohoo!".
-**→ Cut (match-on-action) to Frame 2 — the run carries up onto a golden dune ridge.**
+**→ Cut (match-on-action) to Frame 2 — the run carries up onto a golden dune ridge (the darting-swallows element).**
 
 ---
-### FRAME 2 — DUNE RIDGE
+### FRAME 2 — DUNE RIDGE (magical element · darting swallows, used once)
 **Frame angle:** full profile (true side), golden dune-and-sea light.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, in **full profile**. · Outfit: colour-block romper + tied red windbreaker. · Headwear: none. · Accessories: cord bracelet. · Eye colour: amber-hazel. · Makeup: sporty glow, coral lip. · Hair: high windswept ponytail. · Footwear: white sneakers. · Nails: bright coral. · static & neutral, plain blank background.
-**STILL 2 · OBJECT (plain bg):** the kite + spool in **profile**, the kite high and streaming — ribbon-tails trailing, the line angled up. Clean, isolated, plain blank background.
-**STILL 3 · ENVIRONMENT:** a golden dune ridge above the beach — rippled sand, marram grass, the sea bright beyond, cloud-shadows racing across the dunes; profile vantage along the crest.
+**ENVIRONMENT still (the only per-frame ingredient):** a golden dune ridge above the beach — rippled sand, marram grass, the sea bright beyond, cloud-shadows racing across the dunes; profile vantage along the crest. *The concept's single element lands here.* *(Animate `@subject` racing the crest steering `@object` as swallows dart around her.)*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* WIDE profile, **one continuous parallel track at her run-pace.** [00:00–00:02] she races the golden dune crest, the kite high and streaming above, cloud-shadows racing across the sand. [00:02–00:04] she feeds the line out and flicks her gaze up to the kite with a bright grin, sand kicking up off her sneakers in the gusts. [00:04–00:06] she drives on toward the bright cliff edge, the kite climbing higher. Real-time, real sand + wind + running dynamics; 9:16.
-- *AUDIO (in-frame):* ambient/object — wind, the kite-line humming, sneakers kicking up sand, marram grass rustling; voice — a bright determined "yeah!" and quick breaths from Aira.
-**→ Cut (match-on-action) to Frame 3 — she reaches the cliff edge and brings the kite to a bloom.**
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact identity — a bright delighted grin.
+- *Animation:* WIDE profile, **one continuous parallel track at her run-pace.** [00:00–00:02] she races the golden dune crest, the kite high and streaming above, cloud-shadows racing across the sand. [00:02–00:04] the **element** sweeps in — a flock of swallows darts and weaves across the wind around her and the kite-line; she feeds the line out and flicks a delighted grin up at the birds, sand kicking off her sneakers. [00:04–00:06] she drives on toward the bright cliff edge, the swallows peeling away and the kite climbing higher. Real-time, real sand + wind + running dynamics + real darting birds; 9:16.
+- *AUDIO (in-frame):* ambient/object — wind, the kite-line humming, sneakers kicking up sand, marram grass rustling, swallow chitters; voice — a bright delighted "yeah!" and quick breaths from Aira.
+**→ Cut (match-on-action) to Frame 3 — she reaches the cliff edge and works the kite high (the kite-tail-cam trick).**
 
 ---
-### FRAME 3 — CLIFF-EDGE RIBBON-BLOOM (signature)
-**Frame angle:** low looking up (the kite overhead, ~30° up), bright open sky light.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **low looking up**. · Outfit: colour-block romper + tied red windbreaker. · Headwear: none. · Accessories: cord bracelet. · Eye colour: amber-hazel. · Makeup: sporty glow, coral lip. · Hair: high windswept ponytail. · Footwear: white sneakers. · Nails: bright coral. · static & neutral, plain blank background.
-**STILL 2 · OBJECT (plain bg):** the kite + long looping ribbons at **low looking up** — the kite overhead, ribbon-tails braiding into shapes. Clean, isolated, plain blank background.
-**STILL 3 · ENVIRONMENT:** a bright grassy cliff edge over the open sea — big sky, the sea far below, the kite directly overhead, its long ribbons looping on the wind; low looking-up vantage.
+### FRAME 3 — CLIFF-EDGE RIBBON-BLOOM (trick shot · trailing kite-tail cam)
+**Frame angle:** **kite-tail cam high up** (riding the kite's ribbon-tails, looking back down the line to her on the cliff), bright open sky.
+**ENVIRONMENT still (the only per-frame ingredient):** the view from high on the kite's ribbon-tails — the long looping ribbons in the foreground, the line running down to her small and braced on the bright grassy cliff edge, the sea far below, big sky; high kite-tail vantage looking back. *(Animate `@subject` far below working the line, seen from the kite-tail looking down.)*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* WIDE, camera low looking up, **one continuous slow orbit around her.** [00:00–00:02] she plants at the cliff edge and works the line, the giant kite directly overhead against the big sky, braced against its pull. [00:02–00:04] the signature blooms — the kite's long colour-ribbons loop and braid into shapes on the wind, cloud-shadows racing; she gazes up with awed open-mouthed delight. [00:04–00:06] the orbit settles to her front as she leans back harder into the wind, line taut, the sea far below. Real-time, real wind + ribbon + line physics, planted braced footing; 9:16.
-- *AUDIO (in-frame):* ambient/object — the kite-ribbons fluttering and snapping into looping shapes, strong wind, the sea far below; voice — Aira's awed open-mouthed "woah…" gazing up.
-**→ Cut (match-on-action) to Frame 4 — she leans all the way back into the wind.**
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact identity — (from afar) awed open-mouthed delight gazing up the line.
+- *Animation:* **trailing kite-tail cam**, **one continuous ride on the looping ribbons looking back down the line to her — the kite-tail-cam trick.** [00:00–00:02] from high on the kite's tails the long colour-ribbons loop and braid across the foreground, the line running down to her braced at the cliff edge far below. [00:02–00:04] the ribbons swirl on the wind as she works the line and gazes up toward the lens with awed delight, the sea far beneath her. [00:04–00:06] the kite-tail cam sways with the wind as she leans into the pull. Real-time, real wind + ribbon + line physics; 9:16. (Far placement — she small at the line's end, the sky vast.)
+- *AUDIO (in-frame):* ambient/object — the kite-ribbons fluttering and snapping into looping shapes close to the lens, strong high wind, the line thrumming; voice — Aira's faint awed "woah…" carried up on the wind.
+**→ Cut (match-on-action) to Frame 4 — she leans all the way back into the wind (the low looking-up trick).**
 
 ---
-### FRAME 4 — SKY-LAUNCH LEAN (loop)
-**Frame angle:** low 3/4 hero (back-lean), opening to a glance at lens, big bright sky light.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **low 3/4 hero**. · Outfit: colour-block romper + tied red windbreaker. · Headwear: none. · Accessories: cord bracelet. · Eye colour: amber-hazel. · Makeup: sporty glow, coral lip. · Hair: high windswept ponytail. · Footwear: white sneakers. · Nails: bright coral. · static & neutral, plain blank background.
-**STILL 2 · OBJECT (plain bg):** the kite filling the sky + ribbons at **low 3/4** — the kite high and broad, ribbon-tails braiding overhead, the taut line. Clean, isolated, plain blank background.
-**STILL 3 · ENVIRONMENT:** the cliff edge and the whole open sky — the kite and its ribbons filling the air above, the sea and headland spreading wide, big bright sky; low 3/4 hero vantage.
+### FRAME 4 — SKY-LAUNCH LEAN (trick shot · low looking-up · loop)
+**Frame angle:** **low at her feet looking up** (the kite filling the sky above her back-lean) easing to a crane pull-back, big bright sky.
+**ENVIRONMENT still (the only per-frame ingredient):** the cliff edge and the whole open sky — the kite and its ribbons filling the air above, the sea and headland spreading wide, big bright sky; low looking-up vantage opening wide. *(Animate `@subject` leaning back into the wind, `@object` overhead.)*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* WIDE/full, low 3/4 hero, **one continuous slow crane pull-back opening the whole sky.** [00:00–00:02] she leans right back into the wind, line raised high, the kite and ribbons filling the air above, the wind holding her braced. [00:02–00:04] she laughs up at the sky then glances softly to lens, ribbons braiding overhead, grass and sand lifting. [00:04–00:06] the camera cranes back to reveal the full sky, sea and headland with her tiny and triumphant on the edge — easing toward the headland-launch run of the opening for a loop. Real-time, real wind-lean balance + ribbon physics, planted feet; 9:16.
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact identity — exhilarated laughter softening to a glance at lens.
+- *Animation:* WIDE, **low looking up easing into a crane pull-back opening the whole sky — the low looking-up trick.** [00:00–00:02] from low at her feet looking up she leans right back into the wind, line raised high, the kite and ribbons filling the air above her, the wind holding her braced. [00:02–00:04] she laughs up at the sky then glances softly down to lens, ribbons braiding overhead, grass and sand lifting. [00:04–00:06] the camera cranes back to reveal the full sky, sea and headland with her tiny and triumphant on the edge — easing toward the headland-launch run of the opening for a loop. Real-time, real wind-lean balance + ribbon physics, planted feet; 9:16. (Crane-out — the sky and coast vast around her.)
 - *AUDIO (in-frame):* ambient/object — the wind roaring, the line taut and thrumming, ribbons braiding overhead; voice — Aira's exhilarated laugh and a free "wheee!", then a soft breath to lens.
 **→ Loops back to Frame 1 (the headland launch).**
 
-**Stills to generate:** 3 per frame × 4 frames = 12. Score = 24s MASTER AUDIO under the diegetic.
+**Stills to generate:** **`@subject` (1) + `@object` (1) + 4 ENVIRONMENT stills = 6 total** — subject & object rendered once and reused; only environment + video prompt change per frame. ONE windy coast run across (headland → dune ridge → cliff edge → sky-lean); darting-swallows element in Frame 2 only; trick shots in Frames 3 (trailing kite-tail cam) & 4 (low looking-up); hero beat in Frame 1. Score = 24s MASTER AUDIO under the diegetic.
 
 
 ═══════════════════════════════════════════════════════════════════════════════
