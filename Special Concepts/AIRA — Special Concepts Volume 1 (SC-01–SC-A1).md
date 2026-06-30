@@ -1544,7 +1544,7 @@ the diegetic — no spoken line; optional wordless soaring female vocal on the m
 - **Hero object:** a wooden cruiser longboard — a warm maple deck with a painted pastel-sunset graphic, cream wheels, chrome trucks.
 - **THE PLACE (ONE location, travelled THROUGH — same place, progressing views):** a single long ribbon of smooth road winding **downhill** through rolling emerald-green anime hills — wind-rippled grass and wildflowers either side, lone cypress and blossoming trees, low stone edge-markers, distant blue ranges, under a magical **Makoto-Shinkai twilight** (deep indigo-to-gold sky, towering soft clouds, a low warm sun). She **descends** it across the four frames — crest → tree-lined mid-slope → a sweeping bend → the valley-floor lookout — so each frame is a new stretch she has travelled to, the twilight **deepening naturally** as she drops (warm gold at the crest → deep indigo at the lookout). Same road, same hills, same palette throughout.
 - **MAGICAL ELEMENT (used ONCE — Frame 3 only):** a **meteor shower of shooting stars** streaks the deepening twilight as she carves the bend and glances up. Grounded anime light/physics — no cheap sparkle. No other frame carries a magical element.
-- **SIGNATURE TRICK SHOT (once — Frame 1):** **shadow-first reveal** — her long cast shadow stretches down the empty road in the low sun before she rolls into frame.
+- **SIGNATURE TRICK SHOTS (×2 — theme-suitable for a dynamic descent; Frames 1 & 4, never the element's frame):** Frame 1 = **shadow-first reveal** (her long cast shadow rakes down the empty road before she rolls in); Frame 4 = **reverse crane pull-out reveal** (the camera lifts off her to unveil the whole road + valley). *(Element is in Frame 3 — tricks and element never share a frame.)*
 - **HERO FRAME (Frame 2):** she reads clearly as the hero on the tree-lined stretch (closer, warm-lit, expression reads). In every other frame she sits **small with the world dominant** — deliberate room on the sides, top and bottom.
 - **Footing:** she rides the longboard — knees softly bent, arms out balancing, real downhill roll/carve, never floating.
 
@@ -1585,7 +1585,7 @@ the diegetic — no spoken line; optional wordless soaring female vocal on the m
 **→ Cut (match-on-action) to Frame 4 — she rolls down onto the valley-floor lookout.**
 
 ---
-### FRAME 4 — VALLEY LOOKOUT (resolve · loop)
+### FRAME 4 — VALLEY LOOKOUT (reverse crane reveal · trick shot · loop)
 **Frame angle:** wide crane — starts low then cranes back and up to reveal the whole valley; she very small, world dominant; deepest indigo twilight with the first stars.
 **STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — anime-styled, full head-to-toe, neutral, at **wide low-front (crane)**. · Outfit: pastel-mint hoodie + white tee + skort + striped socks. · Headwear: cap backwards + headphones. · Accessories: sling, wristbands. · Eye colour: amber-hazel. · Makeup: anime glow, balm lip. · Hair: long wind-swept, blue clip. · Footwear: skate sneakers. · Nails: short pastel. · static & neutral, plain blank background, anime render.
 **STILL 2 · OBJECT (plain bg):** the longboard at **wide low-front** — deck graphic, wheels, trucks. Clean, isolated, plain blank background, anime render.
@@ -1596,7 +1596,7 @@ the diegetic — no spoken line; optional wordless soaring female vocal on the m
 - *AUDIO (in-frame):* ambient/object — the board easing to a stop, a foot stepping down, a soft night breeze, crickets, a distant valley bell; voice — Aira's contented exhale and a soft "…made it."
 **→ Loops back to Frame 1 (the crest).**
 
-**Stills to generate:** 3 per frame × 4 frames = 12 (anime-styled; ONE place — the downhill road — **travelled through** across four stretches: crest → tree-lined → bend → valley; meteor-shower element in **Frame 3 only**; **shadow-first trick** in Frame 1; **hero beat** in Frame 2; she sits small/world-dominant in the rest). Score = 24s MASTER AUDIO under the diegetic.
+**Stills to generate:** 3 per frame × 4 frames = 12 (anime-styled; ONE place — the downhill road — **travelled through** across four stretches: crest → tree-lined → bend → valley; meteor-shower element in **Frame 3 only**; **trick shots in Frames 1 (shadow-first) & 4 (reverse crane reveal)** — never the element's frame; **hero beat** in Frame 2; she sits small/world-dominant in the rest). Score = 24s MASTER AUDIO under the diegetic.
 
 ═══════════════════════════════════════════════════════════════════════════════
 *END OF VOLUME 1 — SC-01, SC-02, SC-03, SC-04, SC-06, SC-07, SC-08, SC-09, SC-10, SC-11, SC-12, SC-13, SC-14, SC-15, SC-16, SC-17, SC-18, SC-19, SC-21, SC-A1, SC-A2 (21 concepts). Volume 2 holds the modes set SC-22–SC-41.*

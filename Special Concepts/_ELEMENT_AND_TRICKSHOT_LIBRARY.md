@@ -6,23 +6,27 @@
    family) — but she **moves through it**, so every frame is a **fresh view / stretch / vantage of that same
    place**, with the light evolving naturally as she travels. *Never* biome-hopping; *never* a frozen single spot
    re-shot from four angles. Think "travelling through a place — the place is the same, the views and visuals change."
-2. **ONE magical element per concept, used ONCE, in a single (any) frame.** Not an element in every frame. It can
-   land in **any** frame (not always the climax) so placement feels unpredictable. The **element differs for every
-   concept** (see ELEMENT LIBRARY) — no element repeats across the set, so a viewer never sees the same magic twice.
+2. **ONE magical element per concept, used ONCE, in a single RANDOM frame.** Never an element in every frame. It
+   lands in **any one frame** (not always the climax) so placement feels unpredictable, and the **element differs for
+   every concept** (see ELEMENT LIBRARY) — no element repeats across the set, so a viewer never sees the same magic twice.
 3. **Subject does NOT dominate the frame.** Leave deliberate **negative space on the sides, top and bottom** — the
    world is a co-star. Mostly **wide / environment-forward** framing; she often sits smaller and off-centre. Tight
    crops are the **rare** exception, not the default.
 4. **She still reads as the HERO — smartly.** In every concept she must be **shown clearly as the hero in ONE frame**
    (well-lit, styling + expression read, a hero beat) — but **vary which frame** that is across concepts (sometimes
    F1, sometimes F2/F3/F4) so reels don't all "reveal her at the end." Even the hero frame keeps some breathing room.
-5. **ONE signature TRICK SHOT per concept** (see TRICK-SHOT LIBRARY) — a single inventive camera/reveal moment, and
-   **vary which trick** across concepts so the technique itself never repeats.
-6. Keep everything else locked: 3 matched-angle stills per frame (Subject `Aira [placeholder]` + styling, plain bg /
+5. **TRICK SHOT(S) — a theme-suitable amount per concept (you judge).** Use the number of inventive camera/reveal
+   shots that genuinely fits the concept's theme/energy — often 1, sometimes 2, rarely more; never forced. Place
+   each in **any random frame**, and **vary which tricks** are used across concepts so no technique repeats.
+6. **ELEMENT and TRICK SHOT NEVER COLLIDE.** The element's frame must be **different** from every trick-shot frame —
+   they live in separate frames across the concept.
+7. Keep everything else locked: 3 matched-angle stills per frame (Subject `Aira [placeholder]` + styling, plain bg /
    Object, plain bg / Environment = the view), identity-safe **facial expression written in the video prompt**, ONE
    continuous evolving camera move per clip (no internal cuts), real-time motion, two audio blocks (MASTER + in-frame),
    warm amber-hazel eyes, 9:16, loops.
 
-> **Per concept you assign:** one PLACE · one ELEMENT (used once, one frame) · one TRICK SHOT · one HERO frame —
+> **Per concept you assign:** one PLACE (travelled through) · one ELEMENT (once, one random frame) · a
+> theme-suitable number of TRICK SHOTS (random frame(s), **never the element's frame**) · one HERO frame (rotated) —
 > each unique across the 41 so nothing feels repeated.
 
 
