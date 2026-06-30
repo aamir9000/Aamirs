@@ -1334,3 +1334,156 @@ the diegetic — no spoken line; optional wordless passionate vocal on the garde
 **→ Loops back to Frame 1 (the fountain plaza).**
 
 **Stills to generate:** 3 per frame × 4 frames = 12. Score = 24s MASTER AUDIO under the diegetic.
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+# SC-40 · RAPIDS RUN (Kayak) · 4 shots × 6s
+**Logline:** A bright river adventure — gliding into a sunlit gorge → bouncing through gentle rapids → resting at
+a waterfall pool → drifting onto a calm lake. Signature: spray-arcs flashing off the paddle + rainbow mist +
+drifting leaves. Lively, refreshing, joyful.
+**Arc:** SUNLIT GORGE → GENTLE RAPIDS → WATERFALL POOL → CALM LAKE (signature).
+
+## MASTER AUDIO (outside the frames — background music)
+A 24-second custom cinematic score (4 clips × 6s) in self-resolving ~6-second phrases, trimmable at any phrase
+boundary. Built on bright plucked strings, a lively marimba, warm strings, light driving percussion and a warm
+sub — lively, refreshing, joyful. Opens (no fade-in) on a bright plucked figure. Arc: a gliding gorge open, a
+bouncy rapids lift, a refreshing waterfall lull, then a serene lake resolve for an invisible loop. Laid UNDER the
+diegetic — no spoken line; optional wordless bright vocal on the calm lake only.
+
+## GLOBAL STYLE LOCKS
+- **Outfit:** a teal-and-coral splash top over quick-dry shorts, with a coral life-vest.
+- **Headwear:** a coral cap worn backwards. **Accessories:** neoprene splash gloves, a waterproof watch, a whistle clip. **Eye colour:** warm amber-hazel. **Makeup:** sporty fresh glow — luminous skin, a warm flush, a tinted balm lip, SPF sheen, water-beaded skin. **Hair:** a high messy scrunchie bun with wet face-framing wisps. **Footwear:** teal neoprene water shoes. **Nails:** short coral.
+- **Hero object:** a yellow-and-teal sit-in kayak with a double-bladed paddle and a spray-skirt.
+- **Signature (grounded):** bright spray-arcs flash off the paddle blades, rainbow mist hangs in the back-lit spray, and leaves drift on the water. Real water + light physics.
+- **Journey + light:** bright river-and-forest all the way — sunlit rocky gorge → sparkling white-water rapids → cool waterfall pool → calm golden lake. *Footing: she sits in the kayak — torso driving the paddle, real seated paddling balance.*
+
+
+---
+### FRAME 1 — SUNLIT GORGE
+**Frame angle:** high aerial ¾ (~50° down, world-dominant), bright gorge side-light.
+**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **high aerial ¾**. · Outfit: teal-and-coral splash top + quick-dry shorts + coral life-vest. · Headwear: coral cap (backwards). · Accessories: splash gloves, waterproof watch, whistle clip. · Eye colour: amber-hazel. · Makeup: sporty glow, balm lip. · Hair: high messy scrunchie bun. · Footwear: teal water shoes. · Nails: short coral. · static & neutral, plain blank background.
+**STILL 2 · OBJECT (plain bg):** the yellow-and-teal sit-in kayak with double paddle at **high aerial ¾** — spray-skirt, blades, cockpit. Clean, isolated, plain blank background.
+**STILL 3 · ENVIRONMENT:** a sunlit rocky river gorge — clear green-blue water between tall warm-stone walls, pines on the rims, light pouring down, a far white-water stretch; high aerial ¾ vantage (world dominant).
+**VIDEO PROMPT:**
+- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
+- *Animation:* WIDE high aerial establishing, **one continuous slow track following her glide into the gorge.** [00:00–00:02] she paddles the kayak into the sunlit gorge, tiny on the clear green-blue water between the towering stone walls. [00:02–00:04] the signature stirs — bright spray-arcs flash off her paddle blades and leaves drift past; she settles into a steady rhythm with a bright focused smile. [00:04–00:06] she paddles toward a sparkling rapids stretch ahead. Real-time, believable seated paddling + real spray; 9:16. (Environment-dominant wide.)
+- *AUDIO (in-frame):* ambient/object — the rhythmic dip and drip of the paddle, water gurgling, the kayak hull, echoing gorge birds; voice — Aira's bright breath and a keen "here we go!".
+**→ Cut (match-on-action) to Frame 2 — she drops into the gentle rapids.**
+
+---
+### FRAME 2 — GENTLE RAPIDS
+**Frame angle:** low ¾ front (~30° right, water-level track-with), bright bouncy white-water light.
+**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **low ¾ front (~30° right)**. · Outfit: teal-coral splash top + shorts + coral life-vest. · Headwear: coral cap (backwards). · Accessories: splash gloves, watch, whistle. · Eye colour: amber-hazel. · Makeup: sporty glow, balm lip. · Hair: high messy bun. · Footwear: water shoes. · Nails: short coral. · static & neutral, plain blank background.
+**STILL 2 · OBJECT (plain bg):** the kayak with paddle at **low ¾ front** — bow foremost, spray-skirt, blades. Clean, isolated, plain blank background.
+**STILL 3 · ENVIRONMENT:** a sparkling white-water rapids stretch — foaming waves over rounded boulders, bright spray, sun flashing on the chop, forested banks; low water-level ¾-front vantage in the rapids.
+**VIDEO PROMPT:**
+- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
+- *Animation:* MEDIUM low water-level, **one continuous track-with as she bounces through the rapids.** [00:00–00:02] she drops into the gentle rapids, the kayak bouncing over foaming waves, paddle bracing and digging. [00:02–00:04] a bright wave breaks over the bow and big spray-arcs flash up in the sun; she laughs and whoops through the splash with a thrilled grin, leaning into a brace. [00:04–00:06] she punches through into calmer water toward a waterfall pool. Real-time, believable white-water paddling + real wave-spray; 9:16.
+- *AUDIO (in-frame):* ambient/object — the roar and slap of white water, the paddle bracing, spray bursting, the hull knocking; voice — Aira's thrilled "woohoo — yeah!" and a laughing whoop.
+**→ Cut (match-on-action) to Frame 3 — she glides into a calm waterfall pool.**
+
+
+---
+### FRAME 3 — WATERFALL POOL
+**Frame angle:** full profile (true side, parallel track), cool bright waterfall light.
+**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, in **full profile**. · Outfit: teal-coral splash top + shorts + coral life-vest. · Headwear: coral cap (backwards). · Accessories: splash gloves, watch, whistle. · Eye colour: amber-hazel. · Makeup: sporty glow, balm lip. · Hair: high messy bun. · Footwear: water shoes. · Nails: short coral. · static & neutral, plain blank background.
+**STILL 2 · OBJECT (plain bg):** the kayak with paddle in **full profile** — full side, spray-skirt, blades resting. Clean, isolated, plain blank background.
+**STILL 3 · ENVIRONMENT:** a cool waterfall pool — a slender fall spilling down a mossy cliff into a clear jade pool, ferns and wet rock, a rainbow in the mist, dappled forest light; profile vantage across the pool.
+**VIDEO PROMPT:**
+- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
+- *Animation:* MEDIUM profile, **one continuous parallel track as she drifts across the pool.** [00:00–00:02] she glides the kayak into the cool waterfall pool, the slender fall spilling beside her, the water calm and clear. [00:02–00:04] she rests the paddle and lifts a cupped hand of cool water, a rainbow flashing in the mist; she tips her face up with a refreshed serene smile. [00:04–00:06] she paddles on toward a calm open lake. Real-time, believable seated rest + real waterfall mist; 9:16. (Waterfall + pool share the frame.)
+- *AUDIO (in-frame):* ambient/object — the gentle waterfall, dripping ferns, the paddle resting, forest birds; voice — Aira's soft "ahh, so cool" and a content sigh.
+**→ Cut (match-on-action) to Frame 4 — she drifts out onto the calm lake.**
+
+---
+### FRAME 4 — CALM LAKE (signature · loop)
+**Frame angle:** low-hero ¾ opening to front (~30°, crane pull-back), calm golden lake light.
+**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **low-hero ¾ (~30°)**. · Outfit: teal-coral splash top + shorts + coral life-vest. · Headwear: coral cap (backwards). · Accessories: splash gloves, watch, whistle. · Eye colour: amber-hazel. · Makeup: sporty glow, balm lip. · Hair: high messy bun. · Footwear: water shoes. · Nails: short coral. · static & neutral, plain blank background.
+**STILL 2 · OBJECT (plain bg):** the yellow-and-teal kayak with paddle at **low-hero ¾** — heroic angle, spray-skirt, blades catching light. Clean, isolated, plain blank background.
+**STILL 3 · ENVIRONMENT:** a calm golden lake at the gorge's mouth — glassy water mirroring forested hills and a warm low sun, reeds and a far shore, leaves drifting on the surface; low-hero ¾ vantage with crane reveal.
+**VIDEO PROMPT:**
+- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
+- *Animation:* WIDE low-hero, **one continuous slow crane pull-back to reveal the calm lake.** [00:00–00:02] she paddles the kayak out onto the calm golden lake, the glassy water mirroring the hills, her wake spreading. [00:02–00:04] the signature settles — a last spray-arc glitters off her lifted paddle, rainbow mist hanging, leaves drifting around her; she rests the paddle across the cockpit and beams to lens with radiant calm. [00:04–00:06] the camera cranes back to reveal the whole mirror-still lake and hills around her — easing toward the gorge opening for a loop. Real-time, believable paddling + real water-mirror; 9:16.
+- *AUDIO (in-frame):* ambient/object — the soft dip of the paddle, water dripping and lapping, lake birds, a far waterfall; voice — Aira's satisfied breath and a soft warm "perfect…".
+**→ Loops back to Frame 1 (the sunlit gorge).**
+
+**Stills to generate:** 3 per frame × 4 frames = 12. Score = 24s MASTER AUDIO under the diegetic.
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+# SC-41 · SKY SAIL (Paraglide) · 4 shots × 6s
+**Logline:** A soaring big-sky flight — a hilltop launch → gliding over patchwork fields → banking over a lake →
+a gentle coastal landing. Signature: cloud-wisps streaming past the wing + land-and-lake sun-glints + thermals
+lifting seeds. Free, exhilarating, blissful. Several exterior "see the wing in the sky" shots.
+**Arc:** EXTERIOR · HILLTOP LAUNCH → OVER PATCHWORK FIELDS → BANK OVER THE LAKE → COASTAL LANDING (signature).
+
+## MASTER AUDIO (outside the frames — background music)
+A 24-second custom cinematic score (4 clips × 6s) in self-resolving ~6-second phrases, trimmable at any phrase
+boundary. Built on a soaring strings-and-choir swell, a bright piano, an airy synth pad, light percussion and a
+warm sub — free, exhilarating, blissful. Opens (no fade-in) on a soaring string figure. Arc: a building launch
+open, a serene fields lull, an exhilarated lake-bank lift, then a gentle coastal resolve for an invisible loop.
+Laid UNDER the diegetic — no spoken line; optional wordless soaring vocal on the landing only.
+
+## GLOBAL STYLE LOCKS
+- **Outfit:** a sleek rainbow-panel flight suit (white base with coral/teal/yellow panels), with a paraglide harness over it.
+- **Headwear:** a white flight helmet with a clear visor. **Accessories:** the harness webbing and carabiners, padded flight gloves, a slim altimeter on the wrist. **Eye colour:** warm amber-hazel. **Makeup:** fresh sky glow — luminous skin, a wind-flush, a tinted balm lip, SPF sheen. **Hair:** a single long French braid down the back. **Footwear:** white-and-coral trail trainers. **Nails:** short bright coral.
+- **Hero object:** a rainbow-arc paraglider wing (a broad crescent canopy in bright spectrum panels) with its lines and a seat-harness.
+- **Signature (grounded):** cloud-wisps stream past the wing, sun-glints flash off the land and lake below, and thermals lift drifting seeds up around her. Real canopy + cloud + light physics.
+- **Journey + light:** bright big-sky day all the way — green hilltop launch → golden patchwork fields → sparkling blue lake → warm coastal meadow. *(Exterior shots = camera OFF her, she + wing small in the sky; harness shots = real flight buffet. She's harnessed and flying, never floating free.)*
+
+
+---
+### FRAME 1 — EXTERIOR · HILLTOP LAUNCH
+**Frame angle:** low ¾ front (~30° right, ground-level), bright green hilltop side-light.
+**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **low ¾ front (~30° right)**. · Outfit: rainbow-panel flight suit + paraglide harness. · Headwear: white flight helmet, clear visor. · Accessories: harness webbing + carabiners, flight gloves, altimeter. · Eye colour: amber-hazel. · Makeup: sky glow, balm lip. · Hair: single long French braid. · Footwear: white-and-coral trail trainers. · Nails: bright coral. · static & neutral, plain blank background.
+**STILL 2 · OBJECT (plain bg):** the rainbow-arc paraglider wing at **low ¾ front** — broad spectrum-panel crescent canopy, lines, seat-harness. Clean, isolated, plain blank background.
+**STILL 3 · ENVIRONMENT:** a green hilltop launch ramp — a grassy slope dropping to a vast patchwork valley, a wind-sock fluttering, far ridges and big sky, the wing laid out ready; low ¾-front ground-level vantage.
+**VIDEO PROMPT:**
+- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
+- *Animation:* MEDIUM low ¾ front, **one continuous track as she runs and launches off the hill.** [00:00–00:02] the rainbow wing inflates and rises overhead; she runs down the grassy slope into the launch, lines tautening. [00:02–00:04] the signature stirs — thermals lift seeds and cloud-wisps drift as her feet leave the ground and the wing carries her up; she whoops with an exhilarated wide grin. [00:04–00:06] she soars out over the patchwork valley. Real-time, believable launch run + canopy inflation + harnessed lift; 9:16.
+- *AUDIO (in-frame):* ambient/object — the canopy snapping taut and rippling, running feet, wind, the wind-sock; voice — Aira's exhilarated "woohoo — flying!" and a soaring laugh.
+**→ Cut (match-on-action) to Frame 2 — she glides out over the patchwork fields.**
+
+---
+### FRAME 2 — OVER PATCHWORK FIELDS
+**Frame angle:** high aerial ¾ (~50° down, world-dominant), golden field light.
+**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **high aerial ¾** seated in the harness. · Outfit: rainbow-panel flight suit + harness. · Headwear: white helmet, visor. · Accessories: webbing + carabiners, gloves, altimeter. · Eye colour: amber-hazel. · Makeup: sky glow, balm lip. · Hair: long French braid. · Footwear: trail trainers. · Nails: bright coral. · static & neutral, plain blank background.
+**STILL 2 · OBJECT (plain bg):** the rainbow wing at **high aerial ¾** — full crescent canopy seen from above, lines, harness. Clean, isolated, plain blank background.
+**STILL 3 · ENVIRONMENT:** golden patchwork fields from high above — a quilt of green-and-gold farm fields, hedgerows and lanes, a toy village, drifting cloud-shadows; high aerial ¾ vantage (world dominant).
+**VIDEO PROMPT:**
+- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
+- *Animation:* WIDE high aerial, **one continuous slow track gliding with her over the fields.** [00:00–00:02] she glides high over the golden patchwork fields, settled in the harness, the quilt of farmland far below. [00:02–00:04] she spreads her arms wide and looks down at the fields with blissful awe, cloud-wisps streaming past the wing, seeds lifting in a thermal. [00:04–00:06] she banks gently toward a sparkling lake. Real-time, believable harnessed glide + real cloud-streaming; 9:16. (Environment-dominant wide.)
+- *AUDIO (in-frame):* ambient/object — the steady rush of wind over the wing, the harness creak, faint birds far below; voice — Aira's awed "wow…" and a soft soaring laugh.
+**→ Cut (match-on-action) to Frame 3 — cut outside as she banks over the lake.**
+
+
+---
+### FRAME 3 — EXTERIOR · BANK OVER THE LAKE
+**Frame angle:** WIDE profile aerial (world-dominant, parallel chase), sparkling blue lake light.
+**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, **seated in the harness ¾** (she + wing read small in the exterior frame). · Outfit: rainbow-panel flight suit + harness. · Headwear: white helmet, visor. · Accessories: webbing + carabiners, gloves, altimeter. · Eye colour: amber-hazel. · Makeup: sky glow, balm lip. · Hair: long French braid. · Footwear: trail trainers. · Nails: bright coral. · static & neutral, plain blank background.
+**STILL 2 · OBJECT (plain bg):** the rainbow wing banking, **dynamic side ¾** — canopy tipped, lines angled, harness. Clean, isolated, plain blank background.
+**STILL 3 · ENVIRONMENT:** a sparkling blue mountain lake from the air — deep-blue water ringed by green slopes, sun-glints scattering across it, a far snow-peak, a vast bright sky; WIDE profile aerial vantage (she + wing bank past).
+**VIDEO PROMPT:**
+- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move (she + wing are small in the sky).
+- *Animation:* WIDE aerial, **one continuous parallel chase as she banks over the lake.** [00:00–00:02] the rainbow wing banks out over the sparkling blue lake, canopy tipped, the water flashing far below. [00:02–00:04] the signature reads — cloud-wisps stream off the wing-tip and sun-glints scatter across the lake; her small figure leans into the bank with a thrilled grin, braid flying. [00:04–00:06] she straightens and descends toward a coastal meadow. Real-time, believable banking flight + real glints/cloud; 9:16. (Environment-dominant wide.)
+- *AUDIO (in-frame):* ambient/object — wind whistling over the canopy, the lines humming, distant water and birds; voice — (distant) Aira's joyful whoop carried on the wind.
+**→ Cut (match-on-action) to Frame 4 — she comes in to a gentle coastal landing.**
+
+---
+### FRAME 4 — COASTAL LANDING (signature · loop)
+**Frame angle:** low-hero ¾ opening to front (~30°, crane pull-back), warm coastal meadow light.
+**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **low-hero ¾ (~30°)** touching down. · Outfit: rainbow-panel flight suit + harness. · Headwear: white helmet (visor up). · Accessories: webbing + carabiners, gloves, altimeter. · Eye colour: amber-hazel. · Makeup: sky glow, balm lip. · Hair: long French braid. · Footwear: trail trainers. · Nails: bright coral. · static & neutral, plain blank background.
+**STILL 2 · OBJECT (plain bg):** the rainbow wing at **low-hero ¾** — settling down behind her, crescent canopy billowing, lines slackening. Clean, isolated, plain blank background.
+**STILL 3 · ENVIRONMENT:** a warm coastal meadow landing — a grassy clifftop above a turquoise sea, wildflowers, a lighthouse and a curving bay beyond, brilliant low sun; low-hero ¾ vantage with crane reveal.
+**VIDEO PROMPT:**
+- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
+- *Animation:* WIDE low-hero, **one continuous slow crane pull-back as she lands on the clifftop meadow.** [00:00–00:02] she flares the wing and runs out a soft touchdown on the coastal meadow, the canopy settling down behind her. [00:02–00:04] the signature peaks — cloud-wisps drift, sun-glints flash off the sea and thermals lift seeds around her; she pushes the visor up, throws her arms wide and beams to lens with radiant joy. [00:04–00:06] the camera cranes back to reveal the whole clifftop, bay and lighthouse around her — easing toward the hilltop-launch opening for a loop. Real-time, believable flared landing + real canopy-settle; 9:16.
+- *AUDIO (in-frame):* ambient/object — the canopy billowing down and lines settling, footsteps in grass, waves below, gulls, wind; voice — Aira's triumphant "woohoo — what a flight!" and a delighted laugh.
+**→ Loops back to Frame 1 (the hilltop launch).**
+
+**Stills to generate:** 3 per frame × 4 frames = 12 (exterior frames: world+wing lead, she small in the sky). Score = 24s MASTER AUDIO under the diegetic.
+
+═══════════════════════════════════════════════════════════════════════════════
+*END OF VOLUME 2 — SC-22, SC-23, SC-24, SC-25, SC-26, SC-27, SC-28, SC-29, SC-30, SC-31, SC-32, SC-33, SC-34, SC-35, SC-36, SC-37, SC-38, SC-39, SC-40, SC-41 (20 concepts · the "modes" set). Volume 1 holds SC-01–SC-A1.*
