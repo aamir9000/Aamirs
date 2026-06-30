@@ -1091,10 +1091,9 @@ UNDER the diegetic — no spoken line; optional wordless warm vocal on the delta
 ═══════════════════════════════════════════════════════════════════════════════
 
 # SC-38 · ORCHARD HARVEST (Cart) · 4 shots × 6s
-**Logline:** A warm golden harvest day — down sunny orchard rows → past a blossom barn → along a meadow lane → to
-a farmhouse table. Signature: blossom and leaves drifting + golden light + hay-dust motes hanging. Wholesome,
-warm, idyllic.
-**Arc:** ORCHARD ROWS → BLOSSOM BARN → MEADOW LANE → FARMHOUSE TABLE (signature).
+**Logline:** A warm golden harvest day across one orchard farm — down sunny orchard rows, past a blossom barn, along
+a meadow lane, to a farmhouse table. One farm, travelled through. Wholesome, warm, idyllic.
+**Arc (one place, travelled through):** ORCHARD ROWS (trick) → BLOSSOM BARN (element) → MEADOW LANE (hero) → FARMHOUSE TABLE (trick · loop).
 
 ## MASTER AUDIO (outside the frames — background music)
 A 24-second custom cinematic score (4 clips × 6s) in self-resolving ~6-second phrases, trimmable at any phrase
@@ -1103,64 +1102,57 @@ warm sub — wholesome, warm, idyllic. Opens (no fade-in) on a warm guitar-and-m
 orchard open, a gentle barn lull, a breezy meadow lift, then a cosy farmhouse resolve for an invisible loop. Laid
 UNDER the diegetic — no spoken line; optional wordless warm vocal on the farmhouse table only.
 
-## GLOBAL STYLE LOCKS
-- **Outfit:** a red gingham prairie sundress with puff sleeves under a cream pinafore apron.
-- **Headwear:** a wide woven straw hat with a red-gingham band. **Accessories:** a woven basket on the arm, simple gold studs. **Eye colour:** warm amber-hazel. **Makeup:** fresh country glow — luminous skin, a sun-flush, a soft berry-rose lip, light freckles. **Hair:** low loose pigtails tied with red-gingham ribbons. **Footwear:** tan leather lace-up boots. **Nails:** short natural.
-- **Hero object:** a rustic wooden harvest hand-cart — weathered planks, big spoked wheels, a pull-handle, piled with apples and pumpkins.
-- **Signature (grounded):** blossom and leaves drift down, warm golden light pours across the orchard, and hay-dust motes hang glowing in the air. Real petal + dust + light physics.
-- **Journey + light:** warm golden orchard day all the way — sunlit orchard rows → soft-shaded blossom barn → breezy golden meadow lane → cosy farmhouse-table glow. *Footing: she walks pulling the cart — relaxed natural stride, real weight on the handle.*
+## INGREDIENTS + LOCKS (generate `@subject` & `@object` ONCE — reuse them in every frame)
+- **`@subject` — render ONCE, reuse every frame** (neutral, full body, plain blank bg): `Aira [identity placeholder]` styled as — **Outfit:** red gingham prairie sundress with puff sleeves under a cream pinafore apron · **Headwear:** wide woven straw hat with a red-gingham band · **Accessories:** a woven basket on the arm, simple gold studs · **Eye colour:** warm amber-hazel · **Makeup:** fresh country glow, sun-flush, soft berry-rose lip, light freckles · **Hair:** low loose pigtails tied with red-gingham ribbons · **Footwear:** tan leather lace-up boots · **Nails:** short natural.
+- **`@object` — render ONCE, reuse every frame** (plain blank bg): a rustic wooden harvest hand-cart — weathered planks, big spoked wheels, a pull-handle, piled with apples and pumpkins.
+- **THE PLACE (ONE orchard farm, travelled THROUGH):** a single golden farm — sunlit orchard rows, a blossom-clad red barn, a breezy wildflower meadow lane, and a cosy farmhouse harvest table; warm golden day throughout. She **walks the cart through it** across the four frames, so each ENVIRONMENT still is the next part of the same farm at its own angle. (Drifting blossom/leaves + golden light are the farm's own natural detail.)
+- **MAGICAL ELEMENT (used ONCE — Frame 2 only):** **floating hay-dust motes** glow in a light-shaft from the open barn doors (real dust + light physics). No other frame carries an element.
+- **TRICK SHOTS (×2 — Frames 1 & 4, never the element's frame):** Frame 1 = **god's-eye top-down** on the orchard rows (she small walking the row pattern); Frame 4 = **crane reveal** of the laden farmhouse table.
+- **HERO FRAME (Frame 3):** she reads clearly as the hero on the meadow lane (closer, tipping her face to the breeze, serene radiant smile). Every other frame keeps her small with the farm dominant — room on the sides, top and bottom.
+- **Footing:** she walks pulling the cart — relaxed natural stride, real weight on the handle.
 
 
 ---
-### FRAME 1 — ORCHARD ROWS
-**Frame angle:** high aerial ¾ (~50° down, world-dominant), warm golden side-light.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **high aerial ¾**. · Outfit: red gingham prairie sundress + cream pinafore apron. · Headwear: wide straw hat, red-gingham band. · Accessories: woven basket, gold studs. · Eye colour: amber-hazel. · Makeup: country glow, berry-rose lip, freckles. · Hair: low loose pigtails, gingham ribbons. · Footwear: tan lace-up boots. · Nails: short natural. · static & neutral, plain blank background.
-**STILL 2 · OBJECT (plain bg):** the rustic wooden harvest hand-cart at **high aerial ¾** — weathered planks, spoked wheels, pull-handle, piled apples and pumpkins. Clean, isolated, plain blank background.
-**STILL 3 · ENVIRONMENT:** sunlit orchard rows — long lines of apple trees heavy with fruit, golden light slanting between trunks, windfall apples in the grass, a far farmhouse; high aerial ¾ vantage (world dominant).
+### FRAME 1 — ORCHARD ROWS (trick shot · god's-eye top-down)
+**Frame angle:** **god's-eye top-down** (~80° down) over the orchard rows, warm golden light — she small in the row pattern.
+**ENVIRONMENT still (the only per-frame ingredient):** sunlit orchard rows — long lines of apple trees heavy with fruit, golden light slanting between trunks, windfall apples in the grass, a far farmhouse; top-down vantage (world-dominant, the rows making a pattern). *(Animate `@subject` walking the row pulling `@object`.)*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* WIDE high aerial establishing, **one continuous slow track following her down the orchard row.** [00:00–00:02] she walks down a sunlit orchard row pulling the laden cart, small between the fruit-heavy trees, golden light slanting. [00:02–00:04] the signature stirs — blossom and leaves drift and hay-dust motes hang glowing; she reaches up and picks a bright apple with a warm contented smile. [00:04–00:06] she walks on toward a blossom-clad barn. Real-time, believable walk + cart roll + real drift; 9:16. (Environment-dominant wide.)
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact face/identity — a warm contented smile (read from above as she looks up).
+- *Animation:* WIDE god's-eye top-down, **one continuous slow track down the row — the top-down trick.** [00:00–00:02] from straight above she walks down a sunlit orchard row pulling the laden cart, small between the fruit-heavy trees, the rows patterned around her. [00:02–00:04] she reaches up and picks a bright apple, blossom and leaves drifting, with a warm contented smile. [00:04–00:06] she walks on toward a blossom-clad barn. Real-time, believable walk + cart roll + real drift; 9:16. (Environment-dominant — the orchard pattern fills the frame.)
 - *AUDIO (in-frame):* ambient/object — the creak and rumble of the cart wheels, apples thudding softly, birdsong, a breeze in the leaves; voice — Aira's content "ahh" and a soft happy hum.
-**→ Cut (match-on-action) to Frame 2 — she pulls the cart up to the blossom barn.**
+**→ Cut (match-on-action) to Frame 2 — she pulls the cart up to the blossom barn (the hay-dust element).**
 
 ---
-### FRAME 2 — BLOSSOM BARN
-**Frame angle:** low ¾ front (~30° right, ground-level track-with), soft-shaded warm light.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **low ¾ front (~30° right)**. · Outfit: red gingham sundress + pinafore apron. · Headwear: straw hat, gingham band. · Accessories: woven basket, studs. · Eye colour: amber-hazel. · Makeup: country glow, berry-rose lip, freckles. · Hair: low pigtails, gingham ribbons. · Footwear: tan boots. · Nails: short natural. · static & neutral, plain blank background.
-**STILL 2 · OBJECT (plain bg):** the harvest hand-cart at **low ¾ front** — pull-handle and front wheels foremost, piled produce. Clean, isolated, plain blank background.
-**STILL 3 · ENVIRONMENT:** a charming red barn clad in climbing blossom — open barn doors, hay bales and hanging lanterns, baskets of produce, soft shade and warm light spilling; low ground-level ¾-front vantage.
+### FRAME 2 — BLOSSOM BARN (magical element · hay-dust motes, used once)
+**Frame angle:** low ¾ front (~30° right, ground-level), soft-shaded warm light.
+**ENVIRONMENT still (the only per-frame ingredient):** a charming red barn clad in climbing blossom — open barn doors, hay bales and hanging lanterns, baskets of produce, soft shade and warm light spilling; low ¾-front vantage. *The concept's single element lands here.*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* MEDIUM, **one continuous low ground-level track with her up to the barn.** [00:00–00:02] she pulls the cart up to the blossom-clad barn, the open doors spilling warm light, hay bales stacked inside. [00:02–00:04] she lifts a pumpkin from the cart onto a bale, brushing blossom from her hat with a warm laugh, hay-dust motes drifting in a light-shaft. [00:04–00:06] she takes up the handle and heads on toward a meadow lane. Real-time, believable lift + cart handling + real dust; 9:16.
-- *AUDIO (in-frame):* ambient/object — the cart settling, the soft thud of produce, hens clucking, a breeze through hay; voice — a soft "there we go" and a warm laugh from Aira.
-**→ Cut (match-on-action) to Frame 3 — she pulls the cart out along the meadow lane.**
-
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact identity — animate only gaze + soft expression: a warm, easy laugh.
+- *Animation:* MEDIUM, **one continuous low ground-level track up to the barn.** [00:00–00:02] she pulls the cart up to the blossom-clad barn, the open doors spilling warm light, hay bales stacked inside. [00:02–00:04] she lifts a pumpkin from the cart onto a bale; the **element** — floating hay-dust motes glow in the light-shaft from the doors as she brushes blossom from her hat with a warm laugh. [00:04–00:06] she takes up the handle and heads toward a meadow lane. Real-time, believable lift + cart handling + real hay-dust; 9:16.
+- *AUDIO (in-frame):* ambient/object — the cart settling, the soft thud of produce, hens clucking, a breeze through hay; voice — a soft "there we go" and a warm laugh.
+**→ Cut (match-on-action) to Frame 3 — she pulls the cart out along the meadow lane (her hero beat).**
 
 ---
-### FRAME 3 — MEADOW LANE
-**Frame angle:** full profile (true side, parallel track), breezy golden meadow light.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, in **full profile**. · Outfit: red gingham sundress + pinafore apron. · Headwear: straw hat, gingham band. · Accessories: woven basket, studs. · Eye colour: amber-hazel. · Makeup: country glow, berry-rose lip, freckles. · Hair: low pigtails, gingham ribbons. · Footwear: tan boots. · Nails: short natural. · static & neutral, plain blank background.
-**STILL 2 · OBJECT (plain bg):** the harvest hand-cart in **full profile** — full side, spoked wheels, pull-handle, piled produce. Clean, isolated, plain blank background.
-**STILL 3 · ENVIRONMENT:** a breezy golden meadow lane — a grassy track through wildflower meadows, a low stone wall, a big sky with soft clouds, the farmhouse ahead; profile vantage along the lane.
+### FRAME 3 — MEADOW LANE (HERO frame)
+**Frame angle:** full profile (closer hero), breezy golden meadow light — the meadow behind her.
+**ENVIRONMENT still (the only per-frame ingredient):** a breezy golden meadow lane — a grassy track through wildflower meadows, a low stone wall, a big sky with soft clouds, the farmhouse ahead; profile vantage along the lane. *(Animate `@subject` walking pulling `@object`.)*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* MEDIUM profile, **one continuous parallel track at her walking pace down the lane.** [00:00–00:02] she walks the cart along the breezy meadow lane, wildflowers nodding, the big sky open above. [00:02–00:04] she swings the basket lightly and tips her face to the warm breeze with a serene smile, blossom and seed-fluff drifting past in the golden light. [00:04–00:06] the lane leads her toward a cosy farmhouse table. Real-time, believable walk + cart roll + real breeze; 9:16. (Meadow + sky share the frame.)
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact identity — animate only gaze + soft expression: a **serene, radiant smile** to the breeze — her hero beat.
+- *Animation:* MEDIUM profile (closer), **one continuous parallel track at her walking pace down the lane.** [00:00–00:02] she walks the cart along the breezy meadow lane, wildflowers nodding, the big sky open above. [00:02–00:04] she swings the basket lightly and tips her face to the warm breeze with a serene radiant smile — her hero moment, blossom and seed-fluff drifting past. [00:04–00:06] the lane leads her toward a cosy farmhouse table. Real-time, believable walk + cart roll + real breeze; 9:16. (Hero framing — closer, the meadow behind her.)
 - *AUDIO (in-frame):* ambient/object — the cart wheels on the grassy track, wind over the meadow, skylarks, the basket creak; voice — Aira's soft happy hum and a gentle laugh.
-**→ Cut (match-on-action) to Frame 4 — she arrives at the farmhouse table.**
+**→ Cut (match-on-action) to Frame 4 — she arrives at the farmhouse table (the crane reveal).**
 
 ---
-### FRAME 4 — FARMHOUSE TABLE (signature · loop)
-**Frame angle:** low-hero ¾ opening to front (~30°, crane pull-back), cosy warm golden light.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **low-hero ¾ (~30°)**. · Outfit: red gingham sundress + pinafore apron. · Headwear: straw hat, gingham band. · Accessories: woven basket, studs. · Eye colour: amber-hazel. · Makeup: country glow, berry-rose lip, freckles. · Hair: low pigtails, gingham ribbons. · Footwear: tan boots. · Nails: short natural. · static & neutral, plain blank background.
-**STILL 2 · OBJECT (plain bg):** the harvest hand-cart at **low-hero ¾** — at rest by the table, piled with produce, wheels and handle catching light. Clean, isolated, plain blank background.
-**STILL 3 · ENVIRONMENT:** a cosy farmhouse garden table set for harvest — a long wooden table under a blossom tree, pies and fruit and jugs, bunting and lanterns, the farmhouse and orchard behind, warm low-gold light; low-hero ¾ vantage with crane reveal.
+### FRAME 4 — FARMHOUSE TABLE (trick shot · crane reveal · loop)
+**Frame angle:** low-hero opening to a crane pull-back, cosy warm golden light — she smaller, world dominant.
+**ENVIRONMENT still (the only per-frame ingredient):** a cosy farmhouse garden table set for harvest — a long wooden table under a blossom tree, pies and fruit and jugs, bunting and lanterns, the farmhouse and orchard behind, warm low-gold light; low-hero ¾ vantage with crane reveal. *(Animate `@subject` setting `@object` handle down at the table.)*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* WIDE low-hero, **one continuous slow crane pull-back to reveal the harvest table.** [00:00–00:02] she pulls the cart up to the laden farmhouse table under the blossom tree and sets the handle down. [00:02–00:04] the signature peaks — blossom drifts, golden light pours and hay-dust motes glow; she sets her basket on the table, wipes her brow and beams to lens with warm pride. [00:04–00:06] the camera cranes back to reveal the whole cosy harvest table, farmhouse and orchard around her — easing toward the orchard-rows opening for a loop. Real-time, believable set-down + real drift/light; 9:16.
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact identity — animate only gaze + soft expression: a warm, proud, contented beam.
+- *Animation:* WIDE low-hero, **one continuous slow crane pull-back to reveal the harvest table.** [00:00–00:02] she pulls the cart up to the laden farmhouse table under the blossom tree and sets the handle down. [00:02–00:04] she sets her basket on the table, wipes her brow and beams to lens with warm pride, blossom drifting and hay-dust glowing. [00:04–00:06] the camera cranes back to reveal the whole cosy harvest table, farmhouse and orchard around her — easing toward the orchard-rows opening for a loop. Real-time, believable set-down + real drift/light; 9:16. (Environment-dominant — she smaller, farm around her.)
 - *AUDIO (in-frame):* ambient/object — the cart settling, the basket set on wood, a kettle and distant chatter, birds, a breeze in the blossom; voice — Aira's satisfied breath and a warm "all in".
 **→ Loops back to Frame 1 (the orchard rows).**
 
-**Stills to generate:** 3 per frame × 4 frames = 12. Score = 24s MASTER AUDIO under the diegetic.
+**Stills to generate:** **`@subject` (1) + `@object` (1) + 4 ENVIRONMENT stills = 6 total** — subject & object rendered once and reused; only environment + video prompt change per frame. ONE orchard farm travelled through (rows → barn → meadow → table); hay-dust-motes element in Frame 2 only; trick shots in Frames 1 (god's-eye) & 4 (crane reveal); hero beat in Frame 3. Score = 24s MASTER AUDIO under the diegetic.
 
 
 ═══════════════════════════════════════════════════════════════════════════════
