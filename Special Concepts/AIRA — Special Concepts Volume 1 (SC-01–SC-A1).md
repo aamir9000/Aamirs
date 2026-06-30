@@ -32,10 +32,10 @@ grounded-surreal signature, real-time motion, loops. Subject + object always on 
 ═══════════════════════════════════════════════════════════════════════════════
 
 # SC-01 · PETAL SLIPSTREAM (Bicycle) · 4 shots × 6s
-**Logline:** One girl, one cute outfit, one bicycle — the world opens grander as she rides: leafy boulevard →
-colourful market → sparkling canal bridge → sunlit seafront. Signature: a wake of blossom petals + sunlit light
-that peaks on the carve. Candid, alive, loops.
-**Arc:** PUSH-OFF → SLIPSTREAM → CARVE (bloom apex) → ARRIVAL.
+**Logline:** One girl, one cute outfit, one bicycle ridden through one bright coastal town — a leafy boulevard, a
+colourful market street, a canal bridge, a sunlit seafront. One town, travelled through; warm morning brightening to
+bright midday. Candid, alive, loops.
+**Arc (one place, travelled through):** BOULEVARD PUSH-OFF (hero) → MARKET STREET (trick) → CANAL-BRIDGE CARVE (element) → SEAFRONT ARRIVAL (trick · loop).
 
 ## MASTER AUDIO (outside the frames — background music)
 A 24-second custom cinematic score (4 clips × 6s) in self-resolving ~6-second phrases, trimmable at any phrase
@@ -48,62 +48,56 @@ spoken line; an optional wordless aah may lift on the peak only if it elevates, 
 system: lead piano melody, warm sub for body, glassy shimmer, light brushed percussion riding her pedalling, swells
 reserved for the carve, each tuned to the score's key so every hit reads as the music expanding, never an added effect.
 
-## GLOBAL STYLE LOCKS
-- **Outfit:** a colour-blocked A-line mini sundress — marigold-yellow poplin bodice with a scalloped Peter-Pan collar + puff cap-sleeves; soft-coral box-pleated skirt with white piping; a slim sky-blue silk neck-scarf knotted to the side.
-- **Accessories:** a small woven tan rattan crossbody bag. **Eye colour:** warm amber-hazel. **Hair:** high bouncy **sky-blue grosgrain-ribbon ponytail**, glossy, soft face-framing wisps. **Footwear:** crisp white retro low-top sneakers + frilly white ankle socks. **Nails:** short glossy soft-coral.
-- **Hero object:** a matte-cream step-through city bicycle — tan saddle + grips, chrome trim, a woven front basket of fresh white daisies.
-- **Signature (grounded):** her slipstream blooms a trailing wake of blush-pink + white blossom petals and bright sunlit light-motes with a soft prism shimmer — real petal weight + clean speculars, building across the reel, peaking on the carve.
-- **Journey + light:** boulevard (soft warm morning) → market street (brighter mid-morning) → canal bridge (high sparkling midday) → seafront (bright open midday).
+## INGREDIENTS + LOCKS (generate `@subject` & `@object` ONCE — reuse them in every frame)
+- **`@subject` — render ONCE, reuse every frame** (neutral, full body, plain blank bg): `Aira [identity placeholder]` styled as — **Outfit:** colour-blocked A-line mini sundress (marigold poplin puff-sleeve bodice + scalloped Peter-Pan collar, soft-coral box-pleated skirt with white piping) + a slim sky-blue silk side-knotted neck-scarf · **Accessories:** small woven tan rattan crossbody bag · **Eye colour:** warm amber-hazel · **Makeup:** fresh dewy daytime, peach blush, glossed coral lip · **Hair:** high bouncy sky-blue grosgrain-ribbon ponytail · **Footwear:** crisp white retro low-top sneakers + frilly white ankle socks · **Nails:** short glossy soft-coral.
+- **`@object` — render ONCE, reuse every frame** (plain blank bg): a matte-cream step-through city bicycle — tan saddle + grips, chrome trim, a woven front basket of fresh white daisies.
+- **THE PLACE (ONE coastal town, ridden THROUGH):** a single bright coastal town — a leafy residential boulevard, a colourful open-air market street, a canal bridge / waterside flower-plaza, and a grand sunlit seafront plaza; warm morning brightening to high sparkling midday. She **rides through it** across the four frames, so each ENVIRONMENT still is the next part of the same town at its own angle.
+- **MAGICAL ELEMENT (used ONCE — Frame 3 only):** her slipstream blooms a wake of **blush-pink + white blossom petals and sunlit light-motes** (soft prism shimmer) on the canal-bridge carve — real petal weight + clean speculars, no cartoon sparkle. No other frame carries an element.
+- **TRICK SHOTS (×2 — Frames 2 & 4, never the element's frame):** Frame 2 = **puddle mirror cross-through** (open on a clean puddle reflecting the market and sky, she rides through and shatters it); Frame 4 = **reverse crane reveal** of the seafront plaza.
+- **HERO FRAME (Frame 1):** she reads clearly as the hero at the boulevard push-off (closer, bright private smile). Every other frame keeps her with the town present — room on the sides, top and bottom.
+- **Footing:** she rides — real weight transfer, believable pedalling, never floating.
 
 ---
-### FRAME 1 — PUSH-OFF (leafy boulevard)
-**Frame angle:** low-hero, ¾-front (~30° to her left), eye-level low, warm morning side-light from frame-left.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, standing neutral at low ¾-front (~30° left). · **Outfit:** the marigold/coral colour-block puff-sleeve sundress + sky-blue side-knotted neck-scarf. · **Headwear:** none. · **Accessories:** tan rattan crossbody bag across the body. · **Eye colour:** warm amber-hazel. · **Makeup:** fresh dewy daytime, soft peach blush, glossed coral lip. · **Hair:** high sky-blue ribbon ponytail. · **Footwear:** white retro sneakers + frilly socks. · static & neutral, plain blank background, soft morning side-light from left.
-**STILL 2 · OBJECT (plain bg):** the matte-cream step-through bicycle at low ¾-front (~30° left) — tan saddle/grips, chrome trim catching the warm left light, woven front basket of white daisies. Clean, isolated, plain blank background.
-**STILL 3 · ENVIRONMENT:** a leafy residential boulevard at soft warm morning — pastel townhouses, fresh green plane-trees, window flower-boxes, dappled gold leaf-light on pale dry pavement, long gentle shadows, clear blue sky; deep perspective from a low ¾-front vantage, light from frame-left.
+### FRAME 1 — BOULEVARD PUSH-OFF (HERO frame)
+**Frame angle:** low-hero ¾-front (~30° left, eye-level low), warm morning side-light — closer hero, the boulevard behind.
+**ENVIRONMENT still (the only per-frame ingredient):** a leafy residential boulevard at soft warm morning — pastel townhouses, fresh green plane-trees, window flower-boxes, dappled gold leaf-light, long gentle shadows, clear blue sky; low ¾-front vantage. *(Animate `@subject` on `@object` at the push-off.)*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze, head and soft expression change, never warp the face.
-- *Animation:* low-hero wide opening on the ¾-front angle, **one continuous crane-up that tracks forward with her.** [00:00–00:02] she is mid push-off — right leg drives the lead pedal down, weight rising then settling onto the saddle, both hands wrapping the grips, gaze flicking to the pedal, the cream bike surging off the mark, ribbon ponytail snapping back. [00:02–00:04] she finds the first strokes, shoulders loosening, a small private breath of effort and a half-smile as her gaze lifts to the boulevard, morning sun flaring between the plane-trees, the first faint petals stirring. [00:04–00:06] the bike gathers real speed; she shifts forward over the bars and throws a quick glance to a flower-box sliding past, alive and unposed. Real-time natural speed, believable bicycle weight transfer; 9:16.
-- *AUDIO (in-frame):* ambient/object — tyre crunch on pavement, a soft chain tick and freewheel ratchet, birdsong, leaf-rustle in the breeze; voice — a quiet breath of effort and a soft under-breath hum from Aira.
-**→ Cut (match-on-action) to Frame 2 — the forward momentum carries her into the market street.**
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact face/identity — animate only gaze + soft expression: a bright, private, anticipatory half-smile — her hero beat.
+- *Animation:* low-hero ¾-front, **one continuous crane-up tracking forward with her.** [00:00–00:02] she pushes off — right leg driving the lead pedal, weight settling onto the saddle, hands wrapping the grips, ribbon ponytail snapping back — her clear hero moment. [00:02–00:04] she finds the first strokes, a small breath of effort and a bright half-smile as her gaze lifts to the boulevard, morning sun flaring between the plane-trees. [00:04–00:06] the bike gathers speed; she glances at a flower-box sliding past, alive and unposed. Real-time, believable weight transfer; 9:16. (Hero framing — closer, the boulevard behind her.)
+- *AUDIO (in-frame):* ambient/object — tyre crunch, a soft chain tick and freewheel ratchet, birdsong, leaf-rustle; voice — a quiet breath of effort and a soft under-breath hum.
+**→ Cut (match-on-action) to Frame 2 — momentum carries her into the market street (the puddle trick).**
 
 ---
-### FRAME 2 — SLIPSTREAM (colourful market street)
-**Frame angle:** full profile (true side), eye-level mid (cowboy crop in the move), bright mid-morning side-light through awnings.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, standing neutral in **full profile (true side)**. · **Outfit:** the marigold/coral sundress + sky-blue neck-scarf. · **Headwear:** none. · **Accessories:** tan rattan crossbody. · **Eye colour:** warm amber-hazel. · **Makeup:** fresh dewy, glossed coral lip. · **Hair:** high sky-blue ribbon ponytail. · **Footwear:** white retro sneakers + frilly socks. · static & neutral, plain blank background, soft coloured side-light.
-**STILL 2 · OBJECT (plain bg):** the matte-cream bicycle in **full profile (true side)** — full side silhouette, chrome and daisy-basket catching warm coloured light. Clean, isolated, plain blank background.
-**STILL 3 · ENVIRONMENT:** a lively open-air market street in profile — striped awnings, flower & fruit stalls, bunting and hanging baskets, soft bands of coloured awning-light over warm market tones, bright mid-morning sun, a warm bustle behind; profile vantage with deep side-perspective.
+### FRAME 2 — MARKET STREET (trick shot · puddle mirror cross-through)
+**Frame angle:** low water-level at a puddle, opening to a profile track, bright mid-morning coloured awning-light.
+**ENVIRONMENT still (the only per-frame ingredient):** a lively open-air market street — striped awnings, flower & fruit stalls, bunting and hanging baskets, a clean rain-puddle on the cobbles mirroring the awnings and sky, bright mid-morning sun; low water-level vantage at the puddle. *(Animate `@subject` riding `@object` through the puddle.)*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* tight side-tracking profile (cowboy), **one continuous parallel dolly at her exact speed** so she stays razor-sharp while the market streaks into bright sunlit motion-blur, coloured awning light-bands washing over her. [00:00–00:02] she rises off the saddle onto the pedals for a couple of driving strokes then eases back down, scarf and ponytail streaming fully horizontal, legs working in real rhythm. [00:02–00:04] she lifts her left hand off the bar into the rushing air, tips her face up with a flickering eyes-closed grin, then sweeps a whipping strand back; the first blossom petals and sunlit light-motes lift and tumble in her draft. [00:04–00:06] she settles both hands back and throws a quick glance sideways at the streaking flower stalls as the camera racks focus to her exhilarated face, the petal-light wake thickening. Real-time, no slow-motion, believable air-drag on hair/fabric; 9:16.
-- *AUDIO (in-frame):* ambient/object — wind buffet, the whir of the spinning wheels, fluttering awnings, distant market chatter; voice — Aira's bright open laugh and a joyful "woo!" into the breeze, a passing vendor's call.
-**→ Cut (match-on-action) to Frame 3 — she banks into a curve onto the canal bridge.**
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact identity — animate only gaze + soft expression: a bright open laugh.
+- *Animation:* MEDIUM low, **one continuous move — the puddle mirror cross-through trick.** [00:00–00:02] open on a clean puddle holding the mirrored market awnings and blue sky. [00:02–00:04] she rides the bicycle **straight through the puddle**, the reflection shattering into bright ripples and a fan of spray; the camera tilts up with her as scarf and ponytail stream, a bright open laugh. [00:04–00:06] she rides on down the market, awnings streaking past. Real-time, believable ride + real puddle-break; 9:16.
+- *AUDIO (in-frame):* ambient/object — the whir of wheels, a splash through the puddle, fluttering awnings, market chatter; voice — Aira's bright "woo!" and an open laugh.
+**→ Cut (match-on-action) to Frame 3 — she banks onto the canal bridge (the petal-light element).**
 
 ---
-### FRAME 3 — THE CARVE (canal bridge · bloom apex · SIGNATURE)
-**Frame angle:** low ¾ from inside the turn (~45° to her right, low), high sparkling midday sun bouncing off the water.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, standing neutral at **low ¾ from her right (~45°)**. · **Outfit:** the marigold/coral sundress + sky-blue neck-scarf. · **Headwear:** none. · **Accessories:** tan rattan crossbody. · **Eye colour:** warm amber-hazel. · **Makeup:** fresh dewy, glossed coral lip. · **Hair:** high sky-blue ribbon ponytail. · **Footwear:** white retro sneakers + frilly socks. · static & neutral, plain blank background, bright sparkle-light.
-**STILL 2 · OBJECT (plain bg):** the matte-cream bicycle at **low ¾ from the right (~45°)** — chrome flashing in bright midday, daisy basket, clean lines. Clean, isolated, plain blank background.
-**STILL 3 · ENVIRONMENT:** a canal bridge / waterside flower-plaza in high sparkling midday — a low stone balustrade, café umbrellas, a canal sparkling under bright sun, warm stone mixing with cool water-light, open and airy, the curve sweeping; low ¾ vantage from inside the turn.
+### FRAME 3 — CANAL-BRIDGE CARVE (magical element · blossom-petal + light wake, used once)
+**Frame angle:** low ¾ from inside the turn (~45° right, low), high sparkling midday off the water — she on the bridge, canal opening beyond.
+**ENVIRONMENT still (the only per-frame ingredient):** a canal bridge / waterside flower-plaza in high sparkling midday — a low stone balustrade, café umbrellas, a canal sparkling under bright sun, warm stone + cool water-light, the curve sweeping; low ¾ vantage from inside the turn. *The concept's single element lands here.*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* low ¾ hero from inside the turn, **one continuous orbit arcing around her** as she banks onto the bridge into a hard carving lean. [00:00–00:02] she reads the line and commits — bike angling steep, inside (left) knee dropping toward the road, fingers feathering then releasing the brake, hips shifting to the outside saddle-edge to counterbalance, a sharp focused breath through parted lips. [00:02–00:04] at the apex the wake blooms to full — blossom petals + bright sunlit light spiral off the spinning wheels and her slipstream in a powerful trailing ribbon over the canal, real spin/air physics, weighty petals, clean speculars, a soft prism shimmer, never cartoon sparkle. [00:04–00:06] she powers upright out of the turn with a flash of a triumphant grin as the orbit completes to her front, the petal-bloom streaming long behind. Real-time natural speed, believable lean and tyre grip; 9:16.
-- *AUDIO (in-frame):* ambient/object — the rush of air, tyre grip on stone, a soft whoosh as the petal-wake blooms, water lapping below the bridge; voice — Aira's sharp focused breath, then a triumphant "yeah!" at the exit.
-**→ Cut (match-on-action) to Frame 4 — she rolls off the bridge into the open seafront plaza.**
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact identity — a sharp focused breath into a flashing triumphant grin.
+- *Animation:* low ¾ from inside the turn, **one continuous orbit arcing around her as she carves onto the bridge.** [00:00–00:02] she commits to the line — bike angling into a hard carving lean, inside knee dropping, hips to the outside saddle-edge, a sharp focused breath. [00:02–00:04] the **element** blooms — blush-pink + white blossom petals and sunlit light-motes spiral off the spinning wheels and her slipstream in a trailing ribbon over the canal (soft prism shimmer, weighty petals, clean speculars, no cartoon sparkle). [00:04–00:06] she powers upright out of the turn with a triumphant grin, the petal-light wake streaming long behind over the sparkling canal. Real-time, believable lean + tyre grip; 9:16. (Bridge + canal share the frame.)
+- *AUDIO (in-frame):* ambient/object — the rush of air, tyre grip on stone, a soft whoosh as the wake blooms, water lapping below; voice — Aira's sharp breath then a triumphant "yeah!".
+**→ Cut (match-on-action) to Frame 4 — she rolls off the bridge into the seafront plaza (the crane reveal).**
 
 ---
-### FRAME 4 — ARRIVAL (sunlit seafront · loop)
-**Frame angle:** low front (head-on, slight up-tilt hero), bright open midday, expansive sky-blue, high-key.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, standing neutral at **low front (head-on)**. · **Outfit:** the marigold/coral sundress + sky-blue neck-scarf. · **Headwear:** none. · **Accessories:** tan rattan crossbody. · **Eye colour:** warm amber-hazel. · **Makeup:** fresh dewy, glossed coral lip. · **Hair:** high sky-blue ribbon ponytail. · **Footwear:** white retro sneakers + frilly socks. · static & neutral, plain blank background, bright high-key light.
-**STILL 2 · OBJECT (plain bg):** the matte-cream bicycle at **low front (head-on)** — chrome and daisy basket bright in high-key midday. Clean, isolated, plain blank background.
-**STILL 3 · ENVIRONMENT:** a grand sunlit seafront plaza / overlook — mosaic ground, palms, a fountain, the blue sea and sky beyond, bright open midday, breezy and high-key, blossom petals settling; low-front vantage.
+### FRAME 4 — SEAFRONT ARRIVAL (trick shot · reverse crane reveal · loop)
+**Frame angle:** low front opening to a crane pull-back, bright open high-key midday — she smaller, world dominant.
+**ENVIRONMENT still (the only per-frame ingredient):** a grand sunlit seafront plaza / overlook — mosaic ground, palms, a fountain, the blue sea and sky beyond, bright open midday, breezy and high-key; low-front vantage with crane reveal. *(Animate `@subject` coasting in on `@object`.)*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* hero medium, low front, **one continuous slow push-in.** [00:00–00:02] she coasts off the bridge into the plaza, sits up tall and lets both hands hover and relax just off the bars for a free no-handed beat, the bike decelerating with believable weight. [00:02–00:04] she looks around the sunlit seafront, sweeps a loose strand behind her ear, lets out a natural satisfied breath and an easy smile, then settles her hands back and eases her left boot toward the mosaic. [00:04–00:06] she lifts her gaze level to lens with calm warmth as the petals and light-motes drift down and settle into a soft carpet around her, the composition easing toward the charged calm of the opening for a seamless loop. Real-time natural speed, believable deceleration, candid; 9:16.
-- *AUDIO (in-frame):* ambient/object — the freewheel tick easing down, a fountain splashing, gulls, a gentle sea breeze; voice — Aira's soft satisfied breath and a contented little sigh.
-**→ Loops back to Frame 1 (the morning boulevard push-off).**
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact identity — a calm, warm, satisfied smile to lens.
+- *Animation:* WIDE low-front, **one continuous slow crane pull-back — the reveal trick.** [00:00–00:02] she coasts off the bridge into the plaza, sits up tall and lets both hands hover for a free no-handed beat, the bike decelerating with believable weight. [00:02–00:04] she looks around the sunlit seafront, sweeps a loose strand behind her ear, a natural satisfied breath and easy smile, easing a boot toward the mosaic. [00:04–00:06] the camera cranes back to reveal the whole grand seafront, palms and sea around her — easing toward the boulevard opening for a loop. Real-time, believable deceleration, candid; 9:16. (Environment-dominant — she smaller, plaza around her.)
+- *AUDIO (in-frame):* ambient/object — the freewheel tick easing down, a fountain splashing, gulls, a sea breeze; voice — Aira's soft satisfied breath and a contented little sigh.
+**→ Loops back to Frame 1 (the boulevard push-off).**
 
-**Stills to generate:** per frame = 3 (Subject + Object + Environment, all at the frame's matched angle). 4 frames → 12 stills. Render in Nano Banana Pro → load 3 per shot in Flow → animate each 6s clip → assemble as CUTS (match-on-action) → loop Frame 4 → Frame 1. Score = the 24s MASTER AUDIO trimmed at a phrase boundary, under the diegetic.
+**Stills to generate:** **`@subject` (1) + `@object` (1) + 4 ENVIRONMENT stills = 6 total** — subject & object rendered once and reused; only environment + video prompt change per frame. ONE coastal town ridden through (boulevard → market → canal bridge → seafront); petal-and-light wake element in Frame 3 only; trick shots in Frames 2 (puddle cross-through) & 4 (reverse crane reveal); hero beat in Frame 1. Score = 24s MASTER AUDIO under the diegetic.
 
 
 ═══════════════════════════════════════════════════════════════════════════════
