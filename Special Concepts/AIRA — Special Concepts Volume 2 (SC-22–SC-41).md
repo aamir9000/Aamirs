@@ -96,76 +96,68 @@ for an invisible loop. Laid UNDER the diegetic — no spoken line; optional word
 ═══════════════════════════════════════════════════════════════════════════════
 
 # SC-23 · COASTLINE EXPRESS (Vintage Train) · 4 shots × 6s
-**Logline:** A cinematic vintage-train journey — the express winds a rainy coastal cliff, the subject watches the
-world smear past a rain-streaked window, the train blasts through bright mountains, and she steps onto a sunlit
-platform as the rain clears. Signature: steam-wisps curling + rain-beads racing and clearing on the glass + golden
-window light-flares. Wistful, filmic, romantic. A real weather arc, rainy → bright.
-**Arc:** EXTERIOR · COASTAL CLIFF (rain) → INTERIOR · RAIN-WINDOW → EXTERIOR · MOUNTAIN BLAST → ARRIVAL · SUNLIT PLATFORM (signature).
+**Logline:** A wistful vintage-train journey along one rainy coastline — the express winds the cliff, she watches the
+coast smear past a rain-streaked window, the sea-fog clears to bright, and she steps onto a sunlit coastal platform.
+One coast, travelled through; a real weather arc, rainy → bright. Filmic, romantic.
+**Arc (one place, travelled through):** RAINY COASTAL CLIFF → RAIN-WINDOW (trick) → HEADLAND CLEARING (element) → SUNLIT TERMINUS (hero · loop).
 
 ## MASTER AUDIO (outside the frames — background music)
 A 24-second custom cinematic score (4 clips × 6s) in self-resolving ~6-second phrases, trimmable at any phrase
 boundary. Built on a wistful felt piano, warm strings, a soft clarinet and a warm sub, with a gentle rhythmic pulse
 echoing the rails — filmic, wistful, romantic. Opens (no fade-in) on a wistful piano figure. Arc: a moody rain-coast
-open, a warm intimate window lull, an exhilarated mountain-blast lift, then a warm hopeful resolve on the sunlit
-platform for an invisible loop. Laid UNDER the diegetic — no spoken line; optional wordless warm vocal on the
-arrival only.
+open, a warm intimate window lull, a bright clearing-headland lift, then a warm hopeful resolve on the sunlit
+platform for an invisible loop. Laid UNDER the diegetic — no spoken line; optional wordless warm vocal on arrival only.
 
-## GLOBAL STYLE LOCKS
-- **Outfit:** a chic camel wool coat over a rust fine-knit, with tailored trousers.
-- **Headwear:** a tilted wool beret. **Accessories:** a silk printed scarf, leather gloves, a small vintage leather case. **Eye colour:** warm amber-hazel. **Makeup:** vintage-glam — luminous skin, a soft red-berry lip, defined soft eyes. **Hair:** 1940s **victory rolls** with soft waves to the shoulders, glossy and set. **Footwear:** tan leather Mary-Janes. **Nails:** short soft berry.
-- **Hero object:** a vintage express train — deep-green-and-cream livery, brass trim, lit windows, a curved locomotive.
-- **Signature (grounded):** steam-wisps curl from the locomotive and stream past the windows; rain-beads race and clear across the glass; warm golden window light-flares pass over her. Real steam, rain and glass-reflection physics.
-- **Journey + light:** rainy-silver → bright (a weather arc) — moody rain coastal cliff → warm-lit interior against grey rain → bright mountain daylight → clear warm sunlit platform. *(Exterior shots = camera OFF the train, she reads small/through glass; interior = real swaying balance.)*
+## INGREDIENTS + LOCKS (generate `@subject` & `@object` ONCE — reuse them in every frame)
+- **`@subject` — render ONCE, reuse every frame** (neutral, full body, plain blank bg): `Aira [identity placeholder]` styled as — **Outfit:** chic camel wool coat over a rust fine-knit + tailored trousers · **Headwear:** tilted wool beret · **Accessories:** silk printed scarf, leather gloves, a small vintage leather case · **Eye colour:** warm amber-hazel · **Makeup:** vintage-glam, soft red-berry lip, defined soft eyes · **Hair:** 1940s victory rolls, glossy waves to the shoulders · **Footwear:** tan leather Mary-Janes · **Nails:** short soft berry.
+- **`@object` — render ONCE, reuse every frame** (plain blank bg): a vintage express train — deep-green-and-cream livery, brass trim, lit windows, a curved locomotive (steam at the stack is its own natural detail).
+- **THE PLACE (ONE coastline, travelled THROUGH):** a single rugged coastal-cliff railway — the line hugging the cliffs above a grey-green sea, headlands, wet rock, a pretty terminus station — under a **weather arc rainy → bright**. The train travels it across the four frames (rainy cliff → interior window → clearing headland → sunlit terminus), so each ENVIRONMENT still is the next stretch of the same coast at its own angle; the rain steadily clears. *(Exterior frames = camera OFF the train, she small/through glass; interior = real carriage sway.)*
+- **MAGICAL ELEMENT (used ONCE — Frame 3 only):** **clearing sea-fog** rolls off the headland and lifts as the rain breaks and the sun comes through (real fog + light physics). No other frame carries an element.
+- **TRICK SHOT (×1 — Frame 2, never the element's frame):** **rain-streaked-window reflection** — she first reads in the rain-beaded glass, her reflection over the smearing coast, before we settle to her face.
+- **HERO FRAME (Frame 4):** she reads clearly as the hero stepping onto the sunlit platform (closer, warm light, expression reads). Exterior frames keep her small with the coast + train dominant — room on the sides, top and bottom.
+- **Footing:** seated/standing in the carriage with real sway; a believable step-down on arrival.
 
 ---
-### FRAME 1 — EXTERIOR · COASTAL CLIFF (rain · signature)
-**Frame angle:** WIDE aerial / drone (world-dominant), moody rain-silver coast, low cloud.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, seated-forward at **¾ near a window** (she reads small in the exterior frame). · Outfit: camel coat + rust knit + tailored trousers. · Headwear: tilted wool beret. · Accessories: silk scarf, gloves, leather case. · Eye colour: amber-hazel. · Makeup: vintage-glam, red-berry lip. · Hair: 1940s victory rolls. · Footwear: tan Mary-Janes. · Nails: soft berry. · static & neutral, plain blank background.
-**STILL 2 · OBJECT (plain bg):** the vintage green-and-cream express at **side ¾** — brass trim, curved locomotive, lit carriage windows, steam at the stack. Clean, isolated, plain blank background.
-**STILL 3 · ENVIRONMENT:** a rugged coastal cliff line in light rain — the railway hugging the cliff above a grey-green sea, low cloud, wet rock, the line curving; WIDE aerial vantage (the train winds through it, world dominant).
+### FRAME 1 — RAINY COASTAL CLIFF (exterior establishing)
+**Frame angle:** WIDE aerial / drone (world-dominant), moody rain-silver coast, low cloud — the train small in the vast frame.
+**ENVIRONMENT still (the only per-frame ingredient):** a rugged coastal cliff line in light rain — the railway hugging the cliff above a grey-green sea, low cloud, wet rock, the line curving away; WIDE aerial vantage (world-dominant, huge negative space of sea + sky). *(Animate `@object` winding through, `@subject` a tiny warm-lit figure in a window.)*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move (she's a small warm-lit figure in a window).
-- *Animation:* WIDE aerial, **one continuous slow drone track following the train along the cliff.** [00:00–00:02] the green-and-cream express winds the rainy coastal cliff above the grey-green sea, steam-wisps streaming back along the carriages, rain misting. [00:02–00:04] the signature reads — steam curls and trails, rain sweeps over the windows, warm lit windows glow against the grey; in one window her small silhouette gazes out at the sea. [00:04–00:06] the train carries on toward a tunnel, the world vast around it. Real-time, believable train motion, real rain + steam; 9:16. (Environment-dominant wide — the train + coast lead.)
-- *AUDIO (in-frame):* ambient/object — the rhythmic clack of the train on the rails, a distant steam-whistle, rain and wind, the sea below; voice — (exterior distance) the faint clatter carries the beat.
-**→ Cut (match-on-action) to Frame 2 — cut inside to her at the rain-streaked window.**
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact face/identity — she's a tiny warm silhouette in a lit window; only a soft gaze out to sea reads.
+- *Animation:* WIDE aerial, **one continuous slow drone track following the train along the cliff.** [00:00–00:02] the green-and-cream express winds the rainy coastal cliff above the grey-green sea, steam-wisps streaming back, rain misting, tiny in the vast world. [00:02–00:04] it curves along the headland, warm lit windows glowing against the grey — her small figure at one window gazing out. [00:04–00:06] the train carries on along the coast. Real-time, believable train motion, real rain + steam; 9:16. (Environment-dominant — train + coast lead, big negative space.)
+- *AUDIO (in-frame):* ambient/object — the rhythmic clack of the train on the rails, a distant steam-whistle, rain and wind, the sea below; voice — (exterior distance) only the faint clatter.
+**→ Cut (match-on-action) to Frame 2 — cut inside to her reflection in the rain-streaked window.**
 
 ---
-### FRAME 2 — INTERIOR · RAIN-WINDOW
+### FRAME 2 — RAIN-WINDOW (trick shot · rain-streaked-window reflection)
 **Frame angle:** over-the-shoulder at the glass (~35° behind, CU/half), warm interior against grey rain.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **¾ over-the-shoulder (toward a window)**. · Outfit: camel coat + rust knit + trousers. · Headwear: tilted beret. · Accessories: silk scarf, gloves, case. · Eye colour: amber-hazel. · Makeup: vintage-glam, red-berry lip. · Hair: victory rolls. · Footwear: tan Mary-Janes. · Nails: soft berry. · static & neutral, plain blank background.
-**STILL 2 · OBJECT (plain bg):** the train interior detail — polished wood panelling, a brass lamp and luggage rack, a velvet seat, at **¾**. Clean, isolated, plain blank background.
-**STILL 3 · ENVIRONMENT:** a warm vintage carriage interior — polished wood, brass lamps, a window streaked with racing rain, the grey coast smearing past in the reflection; over-the-shoulder vantage at the glass.
+**ENVIRONMENT still (the only per-frame ingredient):** a warm vintage carriage interior — polished wood, brass lamps, a velvet seat, a window streaked with racing rain, the grey coast smearing past in the reflection; over-the-shoulder vantage at the glass. *(Animate `@subject` at the window; `@object` is the carriage around her.)*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* CU/half over-the-shoulder at the glass, **one continuous slow push-in with a rack-focus from the racing rain-beads to her eyes.** [00:00–00:02] she rests near the rain-streaked window, the grey coast smearing past in the reflection, rain-beads racing. [00:02–00:04] she follows a rain-bead with a fingertip near the glass, the focus racking from the rain to her tender pensive eyes, her breath softly fogging the pane. [00:04–00:06] the rain begins to thin and brighten as the train runs toward mountains, light warming on her face. Real-time, real rain-on-glass, reflection + carriage sway; 9:16.
-- *AUDIO (in-frame):* ambient/object — the muffled rail-clack from inside, rain pattering and running on the glass, a brass-lamp hum, the carriage creak; voice — a soft pensive breath and a barely-there hum from Aira.
-**→ Cut (match-on-action) to Frame 3 — cut back outside as the train blasts through bright mountains.**
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact face/identity — animate only gaze + soft expression: a tender, pensive softness, eyes following a rain-bead.
+- *Animation:* CU/half over-the-shoulder, **one continuous slow push-in — the rain-window reflection trick.** [00:00–00:02] we first read her in the **rain-streaked glass reflection**, her face over the grey coast smearing past, rain-beads racing. [00:02–00:04] a rack-focus pulls from the racing rain to her tender pensive eyes; she follows a bead with a fingertip, breath fogging the pane. [00:04–00:06] the rain begins to thin and brighten as the train runs on. Real-time, real rain-on-glass + reflection + carriage sway; 9:16.
+- *AUDIO (in-frame):* ambient/object — the muffled rail-clack, rain pattering and running on the glass, a brass-lamp hum, the carriage creak; voice — a soft pensive breath and a barely-there hum.
+**→ Cut (match-on-action) to Frame 3 — cut back outside as the sea-fog clears over the headland.**
 
 ---
-### FRAME 3 — EXTERIOR · MOUNTAIN BLAST
-**Frame angle:** WIDE low trackside (world-dominant, whip-pan as it passes), bright mountain daylight.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **¾ near a window** (flashes by in the exterior frame). · Outfit: camel coat + rust knit + trousers. · Headwear: tilted beret. · Accessories: silk scarf, gloves, case. · Eye colour: amber-hazel. · Makeup: vintage-glam, red-berry lip. · Hair: victory rolls. · Footwear: tan Mary-Janes. · Nails: soft berry. · static & neutral, plain blank background.
-**STILL 2 · OBJECT (plain bg):** the vintage green-and-cream express at **dynamic side ¾** — brass trim, steam streaming, lit windows. Clean, isolated, plain blank background.
-**STILL 3 · ENVIRONMENT:** a bright mountain valley — green slopes, a viaduct over a river, snow-tipped peaks, the rain gone and sun breaking; WIDE low trackside vantage on the viaduct (the train blasts across).
+### FRAME 3 — HEADLAND CLEARING (magical element · clearing sea-fog, used once)
+**Frame angle:** WIDE low trackside on a headland curve (world-dominant), the rain breaking to bright.
+**ENVIRONMENT still (the only per-frame ingredient):** the same coast at a broad headland where the weather breaks — sea-fog rolling and lifting off the cliffs, sun breaking through, the grey-green sea brightening to blue, the line curving around; WIDE low trackside vantage (world-dominant). *The concept's single element lands here.*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move (she flashes by in a lit window).
-- *Animation:* WIDE, camera locked low trackside, **one continuous whip-pan as the train passes.** [00:00–00:02] camera low by the rails on the viaduct, the green-and-cream express comes blasting in from the left, steam streaming, sun breaking on the peaks. [00:02–00:04] the train blasts past the camera in a whip-pan, spray and steam kicking up, her brightening face flashing by in one lit window with a fresh open smile. [00:04–00:06] the train races on across the viaduct toward a sunlit station beyond, peaks rising around it. Real-time, believable high-speed pass + steam + motion-blur; 9:16. (Environment-dominant wide — train + mountains lead.)
-- *AUDIO (in-frame):* ambient/object — the roar and Doppler-rush of the train blasting past, the rhythmic rail-clack, a steam-whistle, the river below; voice — (distant) a faint bright whoop carried on the pass.
-**→ Cut (match-on-action) to Frame 4 — cut to her stepping onto the sunlit arrival platform.**
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact identity — her brightening face flashes by at a lit window with a fresh open smile.
+- *Animation:* WIDE, camera low on the headland, **one continuous track as the train rounds the curve.** [00:00–00:02] the express rounds the bright headland, steam streaming, the sea opening blue. [00:02–00:04] the **element** — sea-fog rolls off the cliffs and lifts as the sun breaks through, the world clearing; her brightening face passes in a lit window. [00:04–00:06] the train runs on toward a sunlit terminus. Real-time, believable train motion + real rolling/clearing fog; 9:16. (Environment-dominant — coast + train + clearing sky lead.)
+- *AUDIO (in-frame):* ambient/object — the rail-clack and a bright steam-whistle, wind easing, gulls returning, the sea; voice — (distant) a faint bright breath on the pass.
+**→ Cut (match-on-action) to Frame 4 — cut to her stepping onto the sunlit terminus platform.**
 
 ---
-### FRAME 4 — ARRIVAL · SUNLIT PLATFORM (signature · loop)
-**Frame angle:** ¾ front (~30°, push-in then crane pull-back), clear warm platform sun.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **¾ front (~30°)**. · Outfit: camel coat + rust knit + trousers. · Headwear: tilted beret. · Accessories: silk scarf, gloves, leather case in hand. · Eye colour: amber-hazel. · Makeup: vintage-glam, red-berry lip. · Hair: victory rolls. · Footwear: tan Mary-Janes. · Nails: soft berry. · static & neutral, plain blank background.
-**STILL 2 · OBJECT (plain bg):** the vintage train at rest, **¾ front** — locomotive and a carriage, brass trim, steam drifting. Clean, isolated, plain blank background.
-**STILL 3 · ENVIRONMENT:** a pretty vintage station platform in clear warm sun — a wrought-iron canopy, hanging baskets, the train resting with steam drifting, puddles drying, the rain just cleared; ¾-front vantage along the platform.
+### FRAME 4 — SUNLIT TERMINUS (HERO · loop)
+**Frame angle:** ¾ front (~30°), clear warm platform sun — closer hero framing with room around her.
+**ENVIRONMENT still (the only per-frame ingredient):** a pretty coastal terminus platform in clear warm sun — a wrought-iron canopy, hanging baskets, the resting train with steam drifting, puddles drying, the bright sea beyond; ¾-front vantage along the platform. *(Animate `@subject` stepping down; `@object` at rest behind.)*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* HERO MEDIUM ¾ front, **one continuous slow push-in easing into a crane pull-back.** [00:00–00:02] she steps down from the carriage onto the sunlit platform, the train resting with steam drifting, the rain just cleared and puddles bright. [00:02–00:04] the signature settles — steam-wisps curl and golden light-flares pass over her; she lifts a warm hopeful smile to lens, case in hand. [00:04–00:06] the camera cranes back to reveal the pretty station, canopy and resting train around her — easing toward the rainy coastal opening for a loop. Real-time, real steam + believable step-down; 9:16.
-- *AUDIO (in-frame):* ambient/object — the hiss and settle of the resting train, a guard's distant whistle, steam venting, footsteps on the platform, sparrows; voice — Aira's warm satisfied breath and a soft "ah, made it" sigh.
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact identity — animate only gaze + soft expression: a warm, hopeful, arrived smile to lens — her hero beat.
+- *Animation:* HERO MEDIUM ¾ front, **one continuous slow push-in easing into a crane pull-back.** [00:00–00:02] she steps down from the carriage onto the sunlit platform, the train resting with steam drifting, puddles bright, the rain gone. [00:02–00:04] golden light-flares pass over her; she lifts a warm hopeful smile to lens, case in hand — her hero moment. [00:04–00:06] the camera cranes back to reveal the pretty seaside station and resting train — easing toward the rainy-cliff opening for a loop. Real-time, real steam + believable step-down; 9:16. (Hero framing — closer, but keep room around her.)
+- *AUDIO (in-frame):* ambient/object — the hiss and settle of the resting train, a guard's distant whistle, steam venting, footsteps, sparrows, the sea; voice — Aira's warm satisfied breath and a soft "ah, made it" sigh.
 **→ Loops back to Frame 1 (the rainy coastal cliff).**
 
-**Stills to generate:** 3 per frame × 4 frames = 12 (exterior frames: world+train lead, she small/through glass). Score = 24s MASTER AUDIO under the diegetic.
+**Stills to generate:** **`@subject` (1) + `@object` (1) + 4 ENVIRONMENT stills = 6 total** — subject & object rendered once and reused; only the environment + video prompt change per frame. ONE coastline travelled through (rainy cliff → window → clearing headland → sunlit terminus); clearing-sea-fog element in Frame 3 only; rain-window-reflection trick in Frame 2; hero beat in Frame 4. Score = 24s MASTER AUDIO under the diegetic.
 
 
 ═══════════════════════════════════════════════════════════════════════════════
