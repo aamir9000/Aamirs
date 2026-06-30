@@ -362,10 +362,9 @@ loop. Laid UNDER the diegetic — no spoken line; optional wordless warm vocal o
 ═══════════════════════════════════════════════════════════════════════════════
 
 # SC-27 · LAKE GLIDE (Swan Pedal-Boat) · 4 shots × 6s
-**Logline:** A sunny park afternoon afloat — a calm lake launch → gliding under a willow → past a fountain →
-to an island pavilion. Signature: water-mirror ripples spreading + soft white feathers drifting + sun-glints.
-Sweet, sunny, idyllic.
-**Arc:** LAKE LAUNCH → UNDER THE WILLOW → PAST THE FOUNTAIN → ISLAND PAVILION (signature).
+**Logline:** A sunny park afternoon afloat across one lake — she pedals out from the boathouse, glides under a
+willow, past a grand fountain, to a little rose-pavilion island. One lake, travelled through. Sweet, sunny, idyllic.
+**Arc (one place, travelled through):** LAKE LAUNCH (trick) → UNDER THE WILLOW (element) → PAST THE FOUNTAIN (hero) → ISLAND PAVILION (trick · loop).
 
 ## MASTER AUDIO (outside the frames — background music)
 A 24-second custom cinematic score (4 clips × 6s) in self-resolving ~6-second phrases, trimmable at any phrase
@@ -374,62 +373,56 @@ idyllic. Opens (no fade-in) on a light pizzicato figure. Arc: an easy launch ope
 sparkling fountain lift, then a serene pavilion resolve for an invisible loop. Laid UNDER the diegetic — no spoken
 line; optional wordless soft vocal on the pavilion only.
 
-## GLOBAL STYLE LOCKS
-- **Outfit:** a mint-green gingham sundress with a sweetheart neckline, over a soft cream cardigan around the shoulders.
-- **Headwear:** a wide straw sunhat with a mint ribbon. **Accessories:** small pearl studs, a woven clutch. **Eye colour:** warm amber-hazel. **Makeup:** fresh dewy daytime — luminous skin, peach blush, a glossy nude-rose lip. **Hair:** a milkmaid crown braid with soft loose tendrils. **Footwear:** cream espadrille flats. **Nails:** soft pink.
-- **Hero object:** a white swan pedal-boat — a sculpted swan prow with a graceful neck, twin pedal-wells, a striped sun-canopy.
-- **Signature (grounded):** water-mirror ripples spread out behind the boat, soft white feathers drift down and float on the surface, and sun-glints sparkle on the water. Real water + feather physics.
-- **Journey + light:** sunny park afternoon all the way — bright open lake → cool dappled willow shade → sparkling fountain spray → warm island-pavilion light. *Footing: she sits pedalling — relaxed, real seated balance.*
+## INGREDIENTS + LOCKS (generate `@subject` & `@object` ONCE — reuse them in every frame)
+- **`@subject` — render ONCE, reuse every frame** (neutral, full body, plain blank bg): `Aira [identity placeholder]` styled as — **Outfit:** mint-green gingham sundress (sweetheart neckline) + a soft cream cardigan around the shoulders · **Headwear:** wide straw sunhat with a mint ribbon · **Accessories:** small pearl studs, a woven clutch · **Eye colour:** warm amber-hazel · **Makeup:** fresh dewy daytime, peach blush, glossy nude-rose lip · **Hair:** milkmaid crown braid with soft tendrils · **Footwear:** cream espadrille flats · **Nails:** soft pink.
+- **`@object` — render ONCE, reuse every frame** (plain blank bg): a white swan pedal-boat — a sculpted swan prow with a graceful neck, twin pedal-wells, a striped sun-canopy.
+- **THE PLACE (ONE park lake, travelled THROUGH):** a single sunny park lake — a tree-lined boathouse launch, a willow trailing over the water, a grand tiered fountain, and a little island with a white lattice rose-pavilion; bright afternoon warming to gilded late light. She **pedals through it** across the four frames, so each ENVIRONMENT still is the next part of the same lake at its own angle. (Spreading ripple-wake + drifting feathers are her boat's own natural detail.)
+- **MAGICAL ELEMENT (used ONCE — Frame 2 only):** **iridescent dragonflies** dart and hover over the water in the willow's cool shade (real insect + water physics). No other frame carries an element.
+- **TRICK SHOTS (×2 — Frames 1 & 4, never the element's frame):** Frame 1 = **water-mirror reflection** (the glassy lake holds the mirrored sky and her boat, then her wake breaks it); Frame 4 = **crane pull-out reveal** of the island pavilion.
+- **HERO FRAME (Frame 3):** she reads clearly as the hero passing the sunlit fountain (closer, sparkling mist + sun, laughing) — with the fountain behind. Every other frame keeps her small with the lake dominant — room on the sides, top and bottom.
+- **Footing:** she sits pedalling — relaxed, real seated balance.
 
 ---
-### FRAME 1 — LAKE LAUNCH
-**Frame angle:** high aerial ¾ (~50° down, world-dominant), bright sunny afternoon side-light.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **high aerial ¾**. · Outfit: mint gingham sundress + cream cardigan on shoulders. · Headwear: wide straw sunhat, mint ribbon. · Accessories: pearl studs, woven clutch. · Eye colour: amber-hazel. · Makeup: dewy daytime, nude-rose lip. · Hair: milkmaid crown braid. · Footwear: cream espadrilles. · Nails: soft pink. · static & neutral, plain blank background.
-**STILL 2 · OBJECT (plain bg):** the white swan pedal-boat at **high aerial ¾** — sculpted swan prow, pedal-wells, striped canopy. Clean, isolated, plain blank background.
-**STILL 3 · ENVIRONMENT:** a calm sunlit park lake — glassy blue water, a tree-lined shore with a boathouse, lily pads, ducks, a bright sky; high aerial ¾ vantage (world dominant).
+### FRAME 1 — LAKE LAUNCH (trick shot · water-mirror reflection · establishing)
+**Frame angle:** high aerial ¾ (~50° down, world-dominant) opening on the glassy mirror, bright sunny side-light — she tiny in the open water.
+**ENVIRONMENT still (the only per-frame ingredient):** a calm sunlit park lake — glassy blue water mirroring the sky and clouds, a tree-lined shore with a boathouse, lily pads, ducks, bright sky; high aerial ¾ vantage (world-dominant, big negative space). *(Animate `@subject` pedalling `@object`; the still water holds the reflection.)*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* WIDE high aerial establishing, **one continuous slow track over the lake as she pedals out.** [00:00–00:02] she pedals the swan boat out from the boathouse onto the glassy lake, a clean ripple-wake spreading, tiny in the bright open water. [00:02–00:04] the signature stirs — water-mirror ripples fan out and a few soft feathers drift down to the surface; she tips her sunhat back with a sunny smile. [00:04–00:06] she steers toward a willow trailing over the water. Real-time, believable pedalling + real ripple-wake; 9:16. (Environment-dominant wide.)
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact face/identity — animate only gaze + soft expression: a sunny, content smile, tipping her sunhat back.
+- *Animation:* WIDE high aerial, **one continuous slow track — the water-mirror trick.** [00:00–00:02] open on the perfectly glassy lake holding the mirrored sky and the swan boat reflected. [00:02–00:04] she pedals out from the boathouse and the spreading **ripple-wake breaks the mirror** into sun-glints; she tips her sunhat back with a sunny smile, tiny in the open water. [00:04–00:06] she steers toward a willow trailing over the water. Real-time, believable pedalling + real water-mirror break; 9:16. (Environment-dominant — she small, negative space all around.)
 - *AUDIO (in-frame):* ambient/object — the soft churn of the paddle-wheel, water lapping the hull, ducks, distant park laughter; voice — Aira's content "ahh" and a light laugh.
-**→ Cut (match-on-action) to Frame 2 — she glides into the willow's shade.**
+**→ Cut (match-on-action) to Frame 2 — she glides into the willow's shade (the dragonfly element).**
 
 ---
-### FRAME 2 — UNDER THE WILLOW
+### FRAME 2 — UNDER THE WILLOW (magical element · dragonflies, used once)
 **Frame angle:** low ¾ front (~30° right, water-level track-with), cool dappled willow light.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **low ¾ front (~30° right)**. · Outfit: mint gingham sundress + cream cardigan. · Headwear: straw sunhat, mint ribbon. · Accessories: pearl studs, clutch. · Eye colour: amber-hazel. · Makeup: dewy daytime, nude-rose lip. · Hair: milkmaid crown braid. · Footwear: cream espadrilles. · Nails: soft pink. · static & neutral, plain blank background.
-**STILL 2 · OBJECT (plain bg):** the swan pedal-boat at **low ¾ front** — swan prow foremost, canopy, pedal-wells. Clean, isolated, plain blank background.
-**STILL 3 · ENVIRONMENT:** a willow trailing over the lake — long green fronds dipping to the water, dappled cool light, soft reflections, dragonflies; low water-level ¾-front vantage in the shade.
+**ENVIRONMENT still (the only per-frame ingredient):** a willow trailing over the lake — long green fronds dipping to the water, dappled cool light, soft reflections; low water-level ¾-front vantage in the shade. *The concept's single element lands here.*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* MEDIUM low water-level, **one continuous slow track gliding with her under the willow.** [00:00–00:02] she glides the boat into the cool dappled shade, long willow fronds trailing across the canopy. [00:02–00:04] she reaches up and lets the soft fronds slip through her fingers, looking up with a serene smile, dappled light playing over her, a feather drifting past. [00:04–00:06] she pedals on toward a sparkling fountain ahead. Real-time, believable seated reach + real fronds; 9:16.
-- *AUDIO (in-frame):* ambient/object — gentle water-churn, willow fronds rustling and dripping, birdsong, the hull creak; voice — a soft "mmm, lovely" and a quiet laugh from Aira.
-**→ Cut (match-on-action) to Frame 3 — she pedals out toward the fountain.**
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact identity — animate only gaze + soft expression: a serene, softly delighted smile.
+- *Animation:* MEDIUM low water-level, **one continuous slow track gliding with her under the willow.** [00:00–00:02] she glides the boat into the cool dappled shade, fronds trailing across the canopy. [00:02–00:04] the **element** — iridescent dragonflies dart and hover over the water around her; she reaches up to let a frond slip through her fingers with a serene smile. [00:04–00:06] she pedals on toward a sparkling fountain. Real-time, believable seated reach + real dragonflies; 9:16.
+- *AUDIO (in-frame):* ambient/object — gentle water-churn, willow fronds rustling and dripping, a dragonfly's wing-flit, birdsong; voice — a soft "mmm, lovely" and a quiet laugh.
+**→ Cut (match-on-action) to Frame 3 — she pedals out past the sunlit fountain (her hero beat).**
 
 ---
-### FRAME 3 — PAST THE FOUNTAIN
-**Frame angle:** full profile (water-level, parallel track), sparkling sunlit spray.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, in **full profile**. · Outfit: mint gingham sundress + cream cardigan. · Headwear: straw sunhat, mint ribbon. · Accessories: pearl studs, clutch. · Eye colour: amber-hazel. · Makeup: dewy daytime, nude-rose lip. · Hair: milkmaid crown braid. · Footwear: cream espadrilles. · Nails: soft pink. · static & neutral, plain blank background.
-**STILL 2 · OBJECT (plain bg):** the swan pedal-boat in **full profile** — full side, swan neck curving, canopy. Clean, isolated, plain blank background.
-**STILL 3 · ENVIRONMENT:** a grand lake fountain in full sun — a tall sparkling water-jet and tiered basin, rainbow mist in the spray, sun-glints dancing on the ripples; profile vantage passing the fountain.
+### FRAME 3 — PAST THE FOUNTAIN (HERO frame)
+**Frame angle:** ¾ front, closer hero framing, sparkling sunlit spray — the fountain behind her.
+**ENVIRONMENT still (the only per-frame ingredient):** a grand lake fountain in full sun — a tall sparkling water-jet and tiered basin, rainbow mist in the spray, sun-glints dancing on the ripples; ¾-front vantage passing the fountain. *(Animate `@subject` pedalling `@object` into the mist.)*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* MEDIUM profile, **one continuous parallel track at her pace past the fountain.** [00:00–00:02] she pedals past the grand sunlit fountain, the tall jet sparkling, fine mist drifting over the water. [00:02–00:04] the signature sparkles — sun-glints dance across the ripple-wake and rainbow mist hangs in the spray; she laughs and lifts a hand to the cool mist with a bright grin. [00:04–00:06] she steers on toward a little island pavilion. Real-time, believable pedalling + real fountain mist; 9:16. (Fountain + water share the frame.)
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact identity — animate only gaze + soft expression: a **bright, radiant, laughing grin** to lens — her hero beat.
+- *Animation:* MEDIUM ¾ front, **one continuous track-with as she passes the fountain.** [00:00–00:02] she pedals into the sparkling sunlit mist beside the grand fountain, the tall jet glittering. [00:02–00:04] she laughs and lifts a hand to the cool mist with a radiant grin — her hero moment, sun and rainbow-mist around her. [00:04–00:06] she steers on toward a little island pavilion. Real-time, believable pedalling + real fountain mist; 9:16. (Hero framing — closer, but the fountain stays behind her.)
 - *AUDIO (in-frame):* ambient/object — the rush and patter of the fountain, water-churn, mist hissing, ducks scattering; voice — Aira's delighted "ooh!" and a bright laugh at the mist.
-**→ Cut (match-on-action) to Frame 4 — she pedals up to the island pavilion.**
+**→ Cut (match-on-action) to Frame 4 — she pedals up to the island pavilion (the crane reveal).**
 
 ---
-### FRAME 4 — ISLAND PAVILION (signature · loop)
-**Frame angle:** low-hero ¾ opening to front (~30°, crane pull-back), warm late-afternoon light.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **low-hero ¾ (~30°)**. · Outfit: mint gingham sundress + cream cardigan. · Headwear: straw sunhat, mint ribbon. · Accessories: pearl studs, clutch. · Eye colour: amber-hazel. · Makeup: dewy daytime, nude-rose lip. · Hair: milkmaid crown braid. · Footwear: cream espadrilles. · Nails: soft pink. · static & neutral, plain blank background.
-**STILL 2 · OBJECT (plain bg):** the swan pedal-boat at **low-hero ¾** — moored prettily, swan prow tall, canopy. Clean, isolated, plain blank background.
-**STILL 3 · ENVIRONMENT:** a little lake island with a white lattice pavilion — climbing roses, a willow, a small jetty, warm late-afternoon light gilding the water, the park shore beyond; low-hero ¾ vantage with crane reveal.
+### FRAME 4 — ISLAND PAVILION (trick shot · crane reveal · loop)
+**Frame angle:** wide low-hero opening to a crane pull-back, warm late-afternoon light — she smaller, world dominant.
+**ENVIRONMENT still (the only per-frame ingredient):** a little lake island with a white lattice pavilion — climbing roses, a willow, a small jetty, warm late light gilding the water, the park shore beyond; wide crane vantage. *(Animate `@subject` mooring `@object` at the jetty.)*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* WIDE low-hero, **one continuous slow crane pull-back to reveal the island pavilion.** [00:00–00:02] she pedals up to the little island jetty and the swan boat eases to rest by the rose-covered pavilion. [00:02–00:04] the signature settles — ripples spread and still, soft feathers float on the gilded water, sun-glints sparkling; she gazes up at the pavilion with a serene happy smile. [00:04–00:06] the camera cranes back to reveal the whole rosy island and glittering lake around her — easing toward the lake-launch opening for a loop. Real-time, believable mooring + real ripples; 9:16.
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact identity — animate only gaze + soft expression: a serene, happy, contented smile.
+- *Animation:* WIDE low-hero, **one continuous slow crane pull-back to reveal the island pavilion.** [00:00–00:02] she pedals up to the little island jetty and the swan boat eases to rest by the rose-covered pavilion. [00:02–00:04] ripples spread and still, feathers floating on the gilded water; she gazes up at the pavilion with a serene happy smile. [00:04–00:06] the camera cranes back to reveal the whole rosy island and glittering lake around her — easing toward the lake-launch opening for a loop. Real-time, believable mooring + real ripples; 9:16. (Environment-dominant — she smaller, world around her.)
 - *AUDIO (in-frame):* ambient/object — water lapping the jetty, the boat bumping softly, birdsong, a breeze through roses; voice — Aira's content sigh and a soft "so peaceful…".
 **→ Loops back to Frame 1 (the lake launch).**
 
-**Stills to generate:** 3 per frame × 4 frames = 12. Score = 24s MASTER AUDIO under the diegetic.
+**Stills to generate:** **`@subject` (1) + `@object` (1) + 4 ENVIRONMENT stills = 6 total** — subject & object rendered once and reused; only environment + video prompt change per frame. ONE park lake travelled through (launch → willow → fountain → island); dragonfly element in Frame 2 only; trick shots in Frames 1 (water-mirror) & 4 (crane reveal); hero beat in Frame 3. Score = 24s MASTER AUDIO under the diegetic.
 
 ═══════════════════════════════════════════════════════════════════════════════
 
