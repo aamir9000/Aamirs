@@ -1225,10 +1225,9 @@ the diegetic — no spoken line; optional wordless passionate vocal on the garde
 ═══════════════════════════════════════════════════════════════════════════════
 
 # SC-40 · RAPIDS RUN (Kayak) · 4 shots × 6s
-**Logline:** A bright river adventure — gliding into a sunlit gorge → bouncing through gentle rapids → resting at
-a waterfall pool → drifting onto a calm lake. Signature: spray-arcs flashing off the paddle + rainbow mist +
-drifting leaves. Lively, refreshing, joyful.
-**Arc:** SUNLIT GORGE → GENTLE RAPIDS → WATERFALL POOL → CALM LAKE (signature).
+**Logline:** A bright kayak run down one river gorge — gliding into the gorge, bouncing the rapids, resting at a
+waterfall pool, drifting onto a calm lake. One gorge, run through. Lively, refreshing, joyful.
+**Arc (one place, travelled through):** SUNLIT GORGE (trick) → GENTLE RAPIDS (trick) → WATERFALL POOL (hero) → CALM LAKE (element · loop).
 
 ## MASTER AUDIO (outside the frames — background music)
 A 24-second custom cinematic score (4 clips × 6s) in self-resolving ~6-second phrases, trimmable at any phrase
@@ -1237,64 +1236,57 @@ sub — lively, refreshing, joyful. Opens (no fade-in) on a bright plucked figur
 bouncy rapids lift, a refreshing waterfall lull, then a serene lake resolve for an invisible loop. Laid UNDER the
 diegetic — no spoken line; optional wordless bright vocal on the calm lake only.
 
-## GLOBAL STYLE LOCKS
-- **Outfit:** a teal-and-coral splash top over quick-dry shorts, with a coral life-vest.
-- **Headwear:** a coral cap worn backwards. **Accessories:** neoprene splash gloves, a waterproof watch, a whistle clip. **Eye colour:** warm amber-hazel. **Makeup:** sporty fresh glow — luminous skin, a warm flush, a tinted balm lip, SPF sheen, water-beaded skin. **Hair:** a high messy scrunchie bun with wet face-framing wisps. **Footwear:** teal neoprene water shoes. **Nails:** short coral.
-- **Hero object:** a yellow-and-teal sit-in kayak with a double-bladed paddle and a spray-skirt.
-- **Signature (grounded):** bright spray-arcs flash off the paddle blades, rainbow mist hangs in the back-lit spray, and leaves drift on the water. Real water + light physics.
-- **Journey + light:** bright river-and-forest all the way — sunlit rocky gorge → sparkling white-water rapids → cool waterfall pool → calm golden lake. *Footing: she sits in the kayak — torso driving the paddle, real seated paddling balance.*
+## INGREDIENTS + LOCKS (generate `@subject` & `@object` ONCE — reuse them in every frame)
+- **`@subject` — render ONCE, reuse every frame** (neutral, full body, plain blank bg): `Aira [identity placeholder]` styled as — **Outfit:** teal-and-coral splash top over quick-dry shorts, with a coral life-vest · **Headwear:** coral cap worn backwards · **Accessories:** neoprene splash gloves, a waterproof watch, a whistle clip · **Eye colour:** warm amber-hazel · **Makeup:** sporty fresh glow, warm flush, tinted balm lip, SPF sheen, water-beaded skin · **Hair:** high messy scrunchie bun with wet wisps · **Footwear:** teal neoprene water shoes · **Nails:** short coral.
+- **`@object` — render ONCE, reuse every frame** (plain blank bg): a yellow-and-teal sit-in kayak with a double-bladed paddle and a spray-skirt.
+- **THE PLACE (ONE river gorge, run THROUGH):** a single bright river gorge — a sunlit rocky gorge, a sparkling white-water rapids stretch, a cool waterfall pool, and a calm golden lake at the gorge's mouth; bright river-and-forest light. She **paddles through it** across the four frames, so each ENVIRONMENT still is the next stretch of the same gorge at its own angle. (Spray-arcs off the paddle, rainbow mist and drifting leaves are the river's own natural detail.)
+- **MAGICAL ELEMENT (used ONCE — Frame 4 only):** a **darting kingfisher** flashes low across the glassy calm lake (real bird physics). No other frame carries an element.
+- **TRICK SHOTS (×2 — Frames 1 & 2, never the element's frame):** Frame 1 = **water-line dolly** (camera skimming the water alongside as she glides into the gorge); Frame 2 = **kayak POV** (from the bow as waves break over the deck toward the lens).
+- **HERO FRAME (Frame 3):** she reads clearly as the hero at the waterfall pool (closer, lifting a cupped hand of cool water, refreshed serene smile). Every other frame keeps her small with the gorge dominant — room on the sides, top and bottom.
+- **Footing:** she sits in the kayak — torso driving the paddle, real seated paddling balance.
 
 
 ---
-### FRAME 1 — SUNLIT GORGE
-**Frame angle:** high aerial ¾ (~50° down, world-dominant), bright gorge side-light.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **high aerial ¾**. · Outfit: teal-and-coral splash top + quick-dry shorts + coral life-vest. · Headwear: coral cap (backwards). · Accessories: splash gloves, waterproof watch, whistle clip. · Eye colour: amber-hazel. · Makeup: sporty glow, balm lip. · Hair: high messy scrunchie bun. · Footwear: teal water shoes. · Nails: short coral. · static & neutral, plain blank background.
-**STILL 2 · OBJECT (plain bg):** the yellow-and-teal sit-in kayak with double paddle at **high aerial ¾** — spray-skirt, blades, cockpit. Clean, isolated, plain blank background.
-**STILL 3 · ENVIRONMENT:** a sunlit rocky river gorge — clear green-blue water between tall warm-stone walls, pines on the rims, light pouring down, a far white-water stretch; high aerial ¾ vantage (world dominant).
+### FRAME 1 — SUNLIT GORGE (trick shot · water-line dolly)
+**Frame angle:** **water-line dolly** skimming alongside, bright gorge side-light — the gorge walls towering.
+**ENVIRONMENT still (the only per-frame ingredient):** a sunlit rocky river gorge — clear green-blue water between tall warm-stone walls, pines on the rims, light pouring down, a far white-water stretch; water-line vantage (world-dominant, the walls towering). *(Animate `@subject` paddling `@object` into the gorge.)*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* WIDE high aerial establishing, **one continuous slow track following her glide into the gorge.** [00:00–00:02] she paddles the kayak into the sunlit gorge, tiny on the clear green-blue water between the towering stone walls. [00:02–00:04] the signature stirs — bright spray-arcs flash off her paddle blades and leaves drift past; she settles into a steady rhythm with a bright focused smile. [00:04–00:06] she paddles toward a sparkling rapids stretch ahead. Real-time, believable seated paddling + real spray; 9:16. (Environment-dominant wide.)
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact face/identity — a bright, focused, content smile.
+- *Animation:* MEDIUM, **one continuous water-line dolly — the hull-skim trick.** [00:00–00:02] the camera skims the water alongside as she paddles the kayak into the sunlit gorge, the towering stone walls rising around her. [00:02–00:04] bright spray-arcs flash off her paddle blades and leaves drift past; she settles into a steady rhythm with a bright focused smile. [00:04–00:06] she paddles toward a sparkling rapids stretch. Real-time, believable seated paddling + real spray; 9:16. (Environment-dominant — the gorge towers around her.)
 - *AUDIO (in-frame):* ambient/object — the rhythmic dip and drip of the paddle, water gurgling, the kayak hull, echoing gorge birds; voice — Aira's bright breath and a keen "here we go!".
-**→ Cut (match-on-action) to Frame 2 — she drops into the gentle rapids.**
+**→ Cut (match-on-action) to Frame 2 — she drops into the gentle rapids (the kayak-POV trick).**
 
 ---
-### FRAME 2 — GENTLE RAPIDS
-**Frame angle:** low ¾ front (~30° right, water-level track-with), bright bouncy white-water light.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **low ¾ front (~30° right)**. · Outfit: teal-coral splash top + shorts + coral life-vest. · Headwear: coral cap (backwards). · Accessories: splash gloves, watch, whistle. · Eye colour: amber-hazel. · Makeup: sporty glow, balm lip. · Hair: high messy bun. · Footwear: water shoes. · Nails: short coral. · static & neutral, plain blank background.
-**STILL 2 · OBJECT (plain bg):** the kayak with paddle at **low ¾ front** — bow foremost, spray-skirt, blades. Clean, isolated, plain blank background.
-**STILL 3 · ENVIRONMENT:** a sparkling white-water rapids stretch — foaming waves over rounded boulders, bright spray, sun flashing on the chop, forested banks; low water-level ¾-front vantage in the rapids.
+### FRAME 2 — GENTLE RAPIDS (trick shot · kayak POV)
+**Frame angle:** **kayak bow POV** — from the deck as waves break over toward the lens, bright bouncy white-water light.
+**ENVIRONMENT still (the only per-frame ingredient):** a sparkling white-water rapids stretch — foaming waves over rounded boulders, bright spray, sun flashing on the chop, forested banks; bow-POV vantage looking down the rapids. *(Animate `@subject` paddling `@object`, her hands + paddle in the POV frame.)*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* MEDIUM low water-level, **one continuous track-with as she bounces through the rapids.** [00:00–00:02] she drops into the gentle rapids, the kayak bouncing over foaming waves, paddle bracing and digging. [00:02–00:04] a bright wave breaks over the bow and big spray-arcs flash up in the sun; she laughs and whoops through the splash with a thrilled grin, leaning into a brace. [00:04–00:06] she punches through into calmer water toward a waterfall pool. Real-time, believable white-water paddling + real wave-spray; 9:16.
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact identity — a thrilled, laughing, whooping grin (read as she leans into the brace).
+- *Animation:* MEDIUM **bow POV**, **one continuous shot from the kayak — the POV trick.** [00:00–00:02] from the bow the kayak bounces over foaming waves, her hands and paddle bracing and digging in the lower frame, boulders rushing up. [00:02–00:04] a bright wave breaks over the bow toward the lens, big spray-arcs flashing in the sun; she whoops through the splash with a thrilled grin. [00:04–00:06] she punches through into calmer water toward a waterfall pool. Real-time, believable white-water paddling + real wave-spray; 9:16. (The rapids rush at the POV.)
 - *AUDIO (in-frame):* ambient/object — the roar and slap of white water, the paddle bracing, spray bursting, the hull knocking; voice — Aira's thrilled "woohoo — yeah!" and a laughing whoop.
-**→ Cut (match-on-action) to Frame 3 — she glides into a calm waterfall pool.**
-
+**→ Cut (match-on-action) to Frame 3 — she glides into a calm waterfall pool (her hero beat).**
 
 ---
-### FRAME 3 — WATERFALL POOL
-**Frame angle:** full profile (true side, parallel track), cool bright waterfall light.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, in **full profile**. · Outfit: teal-coral splash top + shorts + coral life-vest. · Headwear: coral cap (backwards). · Accessories: splash gloves, watch, whistle. · Eye colour: amber-hazel. · Makeup: sporty glow, balm lip. · Hair: high messy bun. · Footwear: water shoes. · Nails: short coral. · static & neutral, plain blank background.
-**STILL 2 · OBJECT (plain bg):** the kayak with paddle in **full profile** — full side, spray-skirt, blades resting. Clean, isolated, plain blank background.
-**STILL 3 · ENVIRONMENT:** a cool waterfall pool — a slender fall spilling down a mossy cliff into a clear jade pool, ferns and wet rock, a rainbow in the mist, dappled forest light; profile vantage across the pool.
+### FRAME 3 — WATERFALL POOL (HERO frame)
+**Frame angle:** full profile (closer hero), cool bright waterfall light — the falls behind her.
+**ENVIRONMENT still (the only per-frame ingredient):** a cool waterfall pool — a slender fall spilling down a mossy cliff into a clear jade pool, ferns and wet rock, a rainbow in the mist, dappled forest light; profile vantage across the pool. *(Animate `@subject` resting in `@object`.)*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* MEDIUM profile, **one continuous parallel track as she drifts across the pool.** [00:00–00:02] she glides the kayak into the cool waterfall pool, the slender fall spilling beside her, the water calm and clear. [00:02–00:04] she rests the paddle and lifts a cupped hand of cool water, a rainbow flashing in the mist; she tips her face up with a refreshed serene smile. [00:04–00:06] she paddles on toward a calm open lake. Real-time, believable seated rest + real waterfall mist; 9:16. (Waterfall + pool share the frame.)
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact identity — animate only gaze + soft expression: a **refreshed, serene, radiant smile** — her hero beat.
+- *Animation:* MEDIUM profile (closer), **one continuous track as she drifts across the pool.** [00:00–00:02] she glides the kayak into the cool waterfall pool, the slender fall spilling beside her, the water calm and clear. [00:02–00:04] she rests the paddle and lifts a cupped hand of cool water, a rainbow flashing in the mist; she tips her face up with a refreshed serene smile — her hero moment. [00:04–00:06] she paddles on toward a calm open lake. Real-time, believable seated rest + real waterfall mist; 9:16. (Hero framing — closer, the falls behind her.)
 - *AUDIO (in-frame):* ambient/object — the gentle waterfall, dripping ferns, the paddle resting, forest birds; voice — Aira's soft "ahh, so cool" and a content sigh.
-**→ Cut (match-on-action) to Frame 4 — she drifts out onto the calm lake.**
+**→ Cut (match-on-action) to Frame 4 — she drifts out onto the calm lake (the kingfisher element).**
 
 ---
-### FRAME 4 — CALM LAKE (signature · loop)
-**Frame angle:** low-hero ¾ opening to front (~30°, crane pull-back), calm golden lake light.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **low-hero ¾ (~30°)**. · Outfit: teal-coral splash top + shorts + coral life-vest. · Headwear: coral cap (backwards). · Accessories: splash gloves, watch, whistle. · Eye colour: amber-hazel. · Makeup: sporty glow, balm lip. · Hair: high messy bun. · Footwear: water shoes. · Nails: short coral. · static & neutral, plain blank background.
-**STILL 2 · OBJECT (plain bg):** the yellow-and-teal kayak with paddle at **low-hero ¾** — heroic angle, spray-skirt, blades catching light. Clean, isolated, plain blank background.
-**STILL 3 · ENVIRONMENT:** a calm golden lake at the gorge's mouth — glassy water mirroring forested hills and a warm low sun, reeds and a far shore, leaves drifting on the surface; low-hero ¾ vantage with crane reveal.
+### FRAME 4 — CALM LAKE (magical element · darting kingfisher · loop)
+**Frame angle:** low-hero ¾ opening to a crane pull-back, calm golden lake light — she smaller, world dominant.
+**ENVIRONMENT still (the only per-frame ingredient):** a calm golden lake at the gorge's mouth — glassy water mirroring forested hills and a warm low sun, reeds and a far shore, leaves drifting on the surface; low-hero ¾ vantage with crane reveal. *The concept's single element lands here.*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* WIDE low-hero, **one continuous slow crane pull-back to reveal the calm lake.** [00:00–00:02] she paddles the kayak out onto the calm golden lake, the glassy water mirroring the hills, her wake spreading. [00:02–00:04] the signature settles — a last spray-arc glitters off her lifted paddle, rainbow mist hanging, leaves drifting around her; she rests the paddle across the cockpit and beams to lens with radiant calm. [00:04–00:06] the camera cranes back to reveal the whole mirror-still lake and hills around her — easing toward the gorge opening for a loop. Real-time, believable paddling + real water-mirror; 9:16.
-- *AUDIO (in-frame):* ambient/object — the soft dip of the paddle, water dripping and lapping, lake birds, a far waterfall; voice — Aira's satisfied breath and a soft warm "perfect…".
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact identity — animate only gaze + soft expression: a radiant, calm, contented smile.
+- *Animation:* WIDE low-hero, **one continuous slow crane pull-back to reveal the calm lake.** [00:00–00:02] she paddles the kayak out onto the calm golden lake, the glassy water mirroring the hills, her wake spreading. [00:02–00:04] the **element** — a darting kingfisher flashes low across the glassy lake; she rests the paddle across the cockpit and beams to lens with radiant calm. [00:04–00:06] the camera cranes back to reveal the whole mirror-still lake and hills around her — easing toward the gorge opening for a loop. Real-time, believable paddling + real water-mirror + kingfisher; 9:16. (Environment-dominant — she smaller, lake around her.)
+- *AUDIO (in-frame):* ambient/object — the soft dip of the paddle, water dripping and lapping, lake birds, a kingfisher's chirp, a far waterfall; voice — Aira's satisfied breath and a soft warm "perfect…".
 **→ Loops back to Frame 1 (the sunlit gorge).**
 
-**Stills to generate:** 3 per frame × 4 frames = 12. Score = 24s MASTER AUDIO under the diegetic.
+**Stills to generate:** **`@subject` (1) + `@object` (1) + 4 ENVIRONMENT stills = 6 total** — subject & object rendered once and reused; only environment + video prompt change per frame. ONE river gorge run through (gorge → rapids → waterfall pool → lake); kingfisher element in Frame 4 only; trick shots in Frames 1 (water-line dolly) & 2 (kayak POV); hero beat in Frame 3. Score = 24s MASTER AUDIO under the diegetic.
 
 
 ═══════════════════════════════════════════════════════════════════════════════
