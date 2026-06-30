@@ -249,10 +249,10 @@ lead pluck melody, warm sub, sunny bell shimmer, handclap percussion riding her 
 ═══════════════════════════════════════════════════════════════════════════════
 
 # SC-04 · GOLDEN COAST CRUISE (Convertible) · 4 shots × 6s
-**Logline:** A cinematic sunset drive — open coast highway → strobing light-tunnel of trees → cliff bridge →
-clifftop overlook at the sun's edge. Signature: warm golden road-dust + lens-flare streaks + a few oleander petals
-trailing the car. Cool, glamorous, retro.
-**Arc:** COAST HIGHWAY → LIGHT-TUNNEL OF TREES (signature) → CLIFF BRIDGE → CLIFFTOP OVERLOOK.
+**Logline:** A cinematic sunset drive along one coast road — an open highway, a strobing light-tunnel of trees, a
+cliff bridge, the clifftop overlook at the sun's edge. One coast, driven through; deepening amber sunset. Cool,
+glamorous, retro.
+**Arc (one place, travelled through):** COAST HIGHWAY (trick) → LIGHT-TUNNEL OF TREES (trick) → CLIFF BRIDGE (element) → CLIFFTOP OVERLOOK (hero).
 
 ## MASTER AUDIO (outside the frames — background music)
 A 24-second custom cinematic score (4 clips × 6s) in self-resolving ~6-second phrases, trimmable at any phrase
@@ -262,62 +262,56 @@ strobing light-tunnel (the flare-and-dust bloom), an exhilarated lift across the
 resolve at the overlook for an invisible loop. Laid UNDER the diegetic — no spoken line; optional wordless texture
 on the peak only. Layered: lead Rhodes/strings, warm sub, glassy shimmer, brushed percussion, swell for the tunnel.
 
-## GLOBAL STYLE LOCKS
-- **Outfit:** a flowing coral-and-cream chiffon halter scarf-dress (long sashes).
-- **Headwear:** none (silk hair-scarf = hair). **Accessories:** cat-eye sunglasses, gold hoop earrings, a thin gold bangle. **Eye colour:** warm amber-hazel. **Makeup:** glam retro — soft winged liner, glossy red-coral lip, bronzed warmth. **Hair:** voluminous retro waves wrapped/streaming with a **silk hair-scarf**. **Footwear:** strappy tan heeled sandals. **Nails:** glossy classic-red.
-- **Hero object:** a classic cream-mint convertible (top down) — chrome trim, tan leather seats, whitewall tyres, a slim steering wheel.
-- **Signature (grounded):** warm golden road-dust + soft lens-flare streaks off chrome and sun + a few roadside oleander petals trail the car; peaks in the strobing light-tunnel. Real dust/flare.
-- **Journey + light:** open amber coast → strobing warm light-tunnel → rose-gold cliff bridge → deep amber overlook at the sun's edge.
+## INGREDIENTS + LOCKS (generate `@subject` & `@object` ONCE — reuse them in every frame)
+- **`@subject` — render ONCE, reuse every frame** (neutral, full body, plain blank bg): `Aira [identity placeholder]` styled as — **Outfit:** flowing coral-and-cream chiffon halter scarf-dress (long sashes) · **Hair:** voluminous retro waves wrapped/streaming with a silk hair-scarf · **Accessories:** cat-eye sunglasses, gold hoop earrings, a thin gold bangle · **Eye colour:** warm amber-hazel · **Makeup:** glam retro — soft winged liner, glossy red-coral lip, bronzed warmth · **Footwear:** strappy tan heeled sandals · **Nails:** glossy classic-red.
+- **`@object` — render ONCE, reuse every frame** (plain blank bg): a classic cream-mint convertible (top down) — chrome trim, tan leather seats, whitewall tyres, a slim steering wheel.
+- **THE PLACE (ONE sunset coast road, driven THROUGH):** a single coastal drive — an open sea-hugging highway, an avenue of arching trees, a slender cliff bridge over a sea inlet, and a clifftop overlook pull-out; light deepening amber → rose-gold → the sun's edge as she drives. She **drives through it** across the four frames, so each ENVIRONMENT still is the next stretch of the same road at its own angle.
+- **MAGICAL ELEMENT (used ONCE — Frame 3 only):** on the cliff bridge, huge racing cloud-shadows sweep across the road, the car and the rose-gold sea in great moving bands of light and shade (real cloud-shadow play, no cartoon sparkle). No other frame carries an element.
+- **TRICK SHOTS (×2 — Frames 1 & 2, never the element's frame):** Frame 1 = **windscreen-reflection over-shoulder** (from behind her in the cabin, the open road and sky mirrored across the curved windscreen); Frame 2 = **tree-tunnel rush** (the strobing avenue of trunks rushing past the car).
+- **HERO FRAME (Frame 4):** she reads clearly as the hero at the clifftop overlook (closer, a slow knowing smile). Every other frame keeps her with the coast present — room on the sides, top and bottom.
+- **Footing:** she drives the convertible — relaxed glamorous poise, real car motion + air-drag.
 
 ---
-### FRAME 1 — COAST HIGHWAY
-**Frame angle:** high aerial ¾ (car small on the ribbon of road), amber sunset side-light.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **high aerial ¾**. · Outfit: coral-cream chiffon halter scarf-dress. · Headwear: none. · Accessories: cat-eye sunglasses, gold hoops. · Eye colour: amber-hazel. · Makeup: winged liner, glossy red-coral lip. · Hair: retro waves + silk hair-scarf. · Footwear: tan heeled sandals. · Nails: classic red. · static & neutral, plain blank background.
-**STILL 2 · OBJECT (plain bg):** the cream-mint convertible (top down) at **high aerial ¾** — chrome, tan seats, whitewall tyres, amber-lit. Clean, isolated, plain blank background.
-**STILL 3 · ENVIRONMENT:** an open coast highway hugging the sea at amber sunset — a ribbon of road, glowing sea, scrub headlands, long shadows; high aerial ¾ vantage.
+### FRAME 1 — COAST HIGHWAY (trick shot · windscreen-reflection over-shoulder)
+**Frame angle:** **over-the-shoulder from the back seat** (~20° behind her), amber sunset — the road and sky mirrored across the curved windscreen.
+**ENVIRONMENT still (the only per-frame ingredient):** an open coast highway hugging the sea at amber sunset seen from inside the cabin — a ribbon of road and glowing sea ahead, mirrored across the windscreen glass, scrub headlands, long shadows; over-the-shoulder vantage. *(Animate `@subject` driving `@object`, the road reflected on the windscreen.)*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* WIDE high aerial, **one continuous track following the car along the coast road.** [00:00–00:02] the convertible cruises the amber coast highway, her scarf and hair streaming, sea glowing beside. [00:02–00:04] she rests her left elbow on the door, right hand easy on the wheel, gazing down the open road with a cool faint smile. [00:04–00:06] the car carries on toward a distant line of trees, golden road-dust trailing. Real-time, believable car motion + air-drag; 9:16.
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact face/identity — animate only gaze + soft expression: a cool, faint, contented smile.
+- *Animation:* MEDIUM **over-the-shoulder**, **one continuous slow push past her toward the windscreen — the reflection trick.** [00:00–00:02] from behind her the open coast road and glowing sea slide across the curved windscreen, her scarf and hair streaming forward. [00:02–00:04] her reflection and the road double on the glass as she rests her left elbow on the door, right hand easy on the wheel, a cool faint smile caught in the reflection. [00:04–00:06] the car carries on toward a distant line of trees. Real-time, believable car motion + real glass reflection; 9:16.
 - *AUDIO (in-frame):* ambient/object — the V8 hum, wind rushing over the open cabin, scarf flutter, distant surf; voice — a soft cool breath from Aira.
-**→ Cut (match-on-action) to Frame 2 — the road runs into the tunnel of trees.**
+**→ Cut (match-on-action) to Frame 2 — the road runs into the tunnel of trees (the tree-tunnel-rush trick).**
 
 ---
-### FRAME 2 — LIGHT-TUNNEL OF TREES (signature)
+### FRAME 2 — LIGHT-TUNNEL OF TREES (trick shot · tree-tunnel rush)
 **Frame angle:** ¾ rear from inside the car (over-the-shoulder, ~30° behind-right), strobing warm gold + shadow.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **¾ rear (over the right shoulder)**. · Outfit: coral-cream scarf-dress. · Headwear: none. · Accessories: cat-eye sunglasses, gold hoops. · Eye colour: amber-hazel. · Makeup: winged liner, red-coral lip. · Hair: retro waves + silk scarf. · Footwear: tan heeled sandals. · Nails: classic red. · static & neutral, plain blank background.
-**STILL 2 · OBJECT (plain bg):** the convertible at **¾ rear (behind-right)** — seat-backs, chrome, wheel foremost, strobe-lit. Clean, isolated, plain blank background.
-**STILL 3 · ENVIRONMENT:** an avenue of tall trees arching over the road — sunset strobing in golden flashes between the trunks, warm shadow-bars sweeping, a vanishing-point of light ahead; ¾-rear interior vantage.
+**ENVIRONMENT still (the only per-frame ingredient):** an avenue of tall trees arching over the road — sunset strobing in golden flashes between the trunks, warm shadow-bars sweeping, a vanishing-point of light ahead; ¾-rear interior vantage. *(Animate `@subject` driving `@object` as the trunks rush past.)*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* over-the-shoulder from inside, **one continuous slow push-in toward her** as the sunset strobes between the trunks. [00:00–00:02] the car enters the tree tunnel, golden light strobing in bars across her face and the chrome. [00:02–00:04] the signature blooms — warm lens-flare streaks and golden road-dust swirl through the strobing light with a few oleander petals; she lifts her left hand to let the flicker play over it, eyes half-closing blissfully. [00:04–00:06] she settles her hand back to the wheel, basking, as the tunnel's end brightens ahead. Real-time, real strobing light + dust; 9:16.
-- *AUDIO (in-frame):* ambient/object — the engine note echoing under the trees, a rhythmic light-flicker hush, wind, a soft warm flare-whoosh; voice — a blissful sigh from Aira.
-**→ Cut (match-on-action) to Frame 3 — she bursts out onto the cliff bridge.**
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact identity — eyes half-closing blissfully in the flickering light.
+- *Animation:* over-the-shoulder from inside, **one continuous rush as the trunks streak past and sunset strobes between them — the tunnel-rush trick.** [00:00–00:02] the car enters the tree tunnel, golden light strobing in bars across her face and the chrome, trunks rushing past the lens. [00:02–00:04] she lifts her left hand to let the flicker play over it, eyes half-closing blissfully, the avenue streaking. [00:04–00:06] she settles her hand back to the wheel as the tunnel's end brightens ahead. Real-time, real strobing light + motion; 9:16.
+- *AUDIO (in-frame):* ambient/object — the engine note echoing under the trees, a rhythmic light-flicker hush, the rush of passing trunks, wind; voice — a blissful sigh from Aira.
+**→ Cut (match-on-action) to Frame 3 — she bursts out onto the cliff bridge (the racing cloud-shadows element).**
 
 ---
-### FRAME 3 — CLIFF BRIDGE
+### FRAME 3 — CLIFF BRIDGE (magical element · racing cloud-shadows, used once)
 **Frame angle:** low parallel profile (alongside the car), rose-gold sunset, the low sun huge beyond.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, in **low profile (alongside)**. · Outfit: coral-cream scarf-dress. · Headwear: none. · Accessories: cat-eye sunglasses, gold hoops. · Eye colour: amber-hazel. · Makeup: winged liner, red-coral lip. · Hair: retro waves + silk scarf. · Footwear: tan heeled sandals. · Nails: classic red. · static & neutral, plain blank background.
-**STILL 2 · OBJECT (plain bg):** the convertible in **low profile** — full side, chrome and whitewalls, rose-gold lit. Clean, isolated, plain blank background.
-**STILL 3 · ENVIRONMENT:** a slender cliff bridge over a rose-gold sea inlet — open sky, the huge low sun beyond, cliff walls; low profile vantage alongside.
+**ENVIRONMENT still (the only per-frame ingredient):** a slender cliff bridge over a rose-gold sea inlet — open sky, the huge low sun beyond, cliff walls, great cloud-shadows lying across the road and water; low profile vantage alongside. *The concept's single element lands here.*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* MEDIUM, **one continuous low parallel track alongside the car at speed.** [00:00–00:02] the convertible bursts onto the cliff bridge, the huge low sun and rose-gold sea opening beside her. [00:02–00:04] she lifts her left arm into the wind off the door, turning to the sea-view with a wide open smile, scarf flying. [00:04–00:06] she eases her hand back and drives on toward the far overlook, golden dust trailing. Real-time, believable car motion; 9:16.
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact identity — a wide, exhilarated open smile.
+- *Animation:* MEDIUM, **one continuous low parallel track alongside the car at speed.** [00:00–00:02] the convertible bursts onto the cliff bridge, the huge low sun and rose-gold sea opening beside her. [00:02–00:04] the **element** sweeps in — huge racing cloud-shadows roll across the road, the car and the sea in great moving bands of light and shade; she lifts her left arm into the wind, turning to the view with a wide open smile, scarf flying. [00:04–00:06] she eases her hand back and drives on toward the far overlook through the moving light. Real-time, believable car motion + real cloud-shadow play; 9:16.
 - *AUDIO (in-frame):* ambient/object — the open rush over the bridge, wind, gulls, the sea below; voice — Aira's exhilarated open laugh and a bright "woah!".
-**→ Cut (match-on-action) to Frame 4 — she pulls up at the clifftop overlook.**
+**→ Cut (match-on-action) to Frame 4 — she pulls up at the clifftop overlook (her hero beat).**
 
 ---
-### FRAME 4 — CLIFFTOP OVERLOOK (loop)
-**Frame angle:** low front (head-on, slight up-tilt), deep amber sun's-edge.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **low front (head-on)**. · Outfit: coral-cream scarf-dress. · Headwear: none. · Accessories: cat-eye sunglasses (lowered a touch), gold hoops. · Eye colour: amber-hazel. · Makeup: winged liner, red-coral lip. · Hair: retro waves + silk scarf. · Footwear: tan heeled sandals. · Nails: classic red. · static & neutral, plain blank background.
-**STILL 2 · OBJECT (plain bg):** the convertible at **low front (head-on)** — grille, chrome, headlamps, deep amber glow. Clean, isolated, plain blank background.
-**STILL 3 · ENVIRONMENT:** a clifftop overlook pull-out, the sun melting into the sea — deep amber sky, the coast road behind, settling dust; low-front vantage.
+### FRAME 4 — CLIFFTOP OVERLOOK (HERO frame · loop)
+**Frame angle:** low front (head-on, closer) easing to a crane pull-back, deep amber sun's-edge — her hero beat then world opens.
+**ENVIRONMENT still (the only per-frame ingredient):** a clifftop overlook pull-out, the sun melting into the sea — deep amber sky, the coast road behind, settling dust; low-front vantage opening wide. *(Animate `@subject` rolling `@object` to a stop.)*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* HERO MEDIUM low front, **one continuous slow push-in easing into a crane pull-back.** [00:00–00:02] she rolls the convertible to a stop as the sun melts into the sea, dust settling around the chrome. [00:02–00:04] she lowers her cat-eye sunglasses a touch and turns a slow knowing smile to lens, golden flares softening around her. [00:04–00:06] the camera cranes back to reveal the whole clifftop overlook and sinking sun — easing toward the cool calm of the opening for a loop. Real-time; 9:16.
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact identity — a slow, knowing, glamorous smile, her hero moment.
+- *Animation:* MEDIUM low front (closer), **one continuous beat on her easing into a crane pull-back.** [00:00–00:02] she rolls the convertible to a stop as the sun melts into the sea, dust settling around the chrome. [00:02–00:04] she lowers her cat-eye sunglasses a touch and turns a slow knowing smile to lens, golden flares softening around her — her hero moment. [00:04–00:06] the camera cranes back to reveal the whole clifftop overlook and sinking sun around her — easing toward the cool calm of the opening for a loop. Real-time; 9:16. (Hero beat then environment-dominant — the coast vast around her.)
 - *AUDIO (in-frame):* ambient/object — the engine easing to idle then quiet, a soft breeze, settling dust; voice — a soft satisfied breath from Aira.
 **→ Loops back to Frame 1 (the open coast highway).**
 
-**Stills to generate:** 3 per frame × 4 frames = 12. Score = 24s MASTER AUDIO under the diegetic.
+**Stills to generate:** **`@subject` (1) + `@object` (1) + 4 ENVIRONMENT stills = 6 total** — subject & object rendered once and reused; only environment + video prompt change per frame. ONE sunset coast road driven through (highway → tree-tunnel → cliff bridge → overlook); racing-cloud-shadows element in Frame 3 only; trick shots in Frames 1 (windscreen reflection) & 2 (tree-tunnel rush); hero beat in Frame 4. Score = 24s MASTER AUDIO under the diegetic.
 
 ═══════════════════════════════════════════════════════════════════════════════
 
