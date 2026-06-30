@@ -4,6 +4,43 @@ This folder holds **ingredient-mode** versions of our concepts, reformatted for 
 **Ingredients-to-Video** workflow. They are derived from the master prompt files in `/CONCEPTS`
 (do not edit the masters here — this folder is the Flow-ready delivery copy).
 
+---
+
+# 📦 CANONICAL DELIVERY — TWO VOLUME FILES (v3 · current)
+**All 40 Special Concepts now live in two consolidated, rebuilt files. These are the files to use.**
+The 40 old per-concept `SC-*.md` files have been **removed** (superseded) — everything is in the volumes.
+
+- **`AIRA — Special Concepts Volume 1 (SC-01–SC-A1).md`** — 20 concepts:
+  SC-01, SC-02, SC-03, SC-04, SC-06, SC-07, SC-08, SC-09, SC-10, SC-11, SC-12, SC-13, SC-14, SC-15, SC-16, SC-17, SC-18, SC-19, SC-21, SC-A1.
+- **`AIRA — Special Concepts Volume 2 (SC-22–SC-41).md`** — 20 concepts (the **"modes"** set):
+  SC-22 … SC-41 (horseback, train, ski, surf, ice-skating, swan-boat, tram, camel, elephant, bus, garden-swing, carriage, seaplane, zip-line, toboggan, riverboat, orchard-cart, dance, kayak, paraglide).
+
+Each volume opens with the **v3 "HOW EACH FRAME IS BUILT"** header block. The BUILT-CONCEPTS REGISTRY further
+below is kept as a historical index (difference-strings / themes) — its per-concept `FILE:` pointers are
+**superseded**; the concept now lives in its volume.
+
+## ⭐ v3 STANDARD (current — supersedes v2 where they differ)
+Every frame = **3 matched-angle STILLS + a VIDEO PROMPT.** One camera angle is chosen per frame and applied to
+**all three stills** (same rotation, eye-level, light direction, lens) so they composite cleanly.
+
+1. **STILL 1 · SUBJECT** — *plain blank background.* Write **`Aira [identity placeholder]`** (never enumerate her
+   face — the reference carries likeness), then heavy **styling only**: Outfit · Headwear (when needed) ·
+   Accessories · **Eye colour (constant: warm amber-hazel)** · Makeup (if needed) · Hair · Footwear · Nails.
+   **Static & neutral, full body head-to-toe.** Only variable = the chosen frame angle.
+2. **STILL 2 · OBJECT** — *plain blank background.* The hero object in heavy detail, **same frame angle.**
+   *(Prop-less concepts = 2 stills, Subject + Environment; SC-16 uses `@texture`, SC-19 uses `@product` as the 3rd.)*
+3. **STILL 3 · ENVIRONMENT** — the full vivid scene (lighting + depth), **same angle/vantage.**
+4. **VIDEO PROMPT** — *Facial consistency* lock → *Animation* (**one continuous evolving camera move** from the
+   frame's opening angle — **no internal hard cuts**, Veo generates one continuous shot; the grounded signature;
+   real-time, no slow-mo; 9:16) → *AUDIO (in-frame)* (`ambient/object — …; voice — …`, only where the beat earns it).
+   **Big angle variety comes frame-to-frame**, not from cuts inside a clip.
+- **MASTER AUDIO** (background music/score) sits **once per concept, outside the frames.**
+- Exterior modes (train/tram/bus/seaplane/riverboat/paraglide) include **"see-it-from-outside"** establishing
+  shots (the vehicle travelling through the world, subject small / through a window) + at least one
+  environment-dominant wide per reel (the world is a co-star).
+
+---
+
 ## What "ingredient mode" means
 Instead of pure text-to-video, Flow animates a small set of **reference images ("ingredients")**
 while following the text prompt, so identity / product / world / look do not drift.
