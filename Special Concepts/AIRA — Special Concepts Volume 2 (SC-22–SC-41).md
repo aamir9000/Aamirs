@@ -824,10 +824,10 @@ diegetic — no spoken line; optional wordless graceful vocal on the courtyard o
 ═══════════════════════════════════════════════════════════════════════════════
 
 # SC-34 · ISLAND HOPPER (Seaplane) · 4 shots × 6s
-**Logline:** A brilliant tropical flight — a lagoon taxi → a lift over the reef → a bank past sea-cliffs → a
-splashdown island landing. Signature: a spray-fan off the floats + cloud-wisps streaming + reef sun-glints.
-Adventurous, dazzling, joyful. Several exterior "see the plane in the sky" shots.
-**Arc:** EXTERIOR · LAGOON TAXI → LIFT OVER THE REEF → BANK PAST SEA-CLIFFS → ISLAND LANDING (signature).
+**Logline:** A brilliant tropical flight around one lagoon-island — a lagoon taxi, a lift over the reef, a bank past
+the sea-cliffs, a splashdown landing. One island world, flown through. Adventurous, dazzling, joyful — with exterior
+"see the plane in the sky" shots.
+**Arc (one place, travelled through):** LAGOON TAXI (trick) → LIFT OVER THE REEF (trick) → BANK PAST SEA-CLIFFS (element) → ISLAND LANDING (hero · loop).
 
 ## MASTER AUDIO (outside the frames — background music)
 A 24-second custom cinematic score (4 clips × 6s) in self-resolving ~6-second phrases, trimmable at any phrase
@@ -836,62 +836,56 @@ warm sub — adventurous, dazzling, joyful. Opens (no fade-in) on a soaring bras
 open, a triumphant lift-off, an exhilarated cliff-bank lift, then a warm splashdown resolve for an invisible loop.
 Laid UNDER the diegetic — no spoken line; optional wordless soaring vocal on the landing only.
 
-## GLOBAL STYLE LOCKS
-- **Outfit:** a tan utility flight jumpsuit (rolled sleeves, belted) under a cropped ivory bomber jacket.
-- **Headwear:** a brown leather aviator cap with round goggles. **Accessories:** a long ivory silk scarf, brown leather gloves, dog-tag pendant. **Eye colour:** warm amber-hazel. **Makeup:** fresh adventurous glow — luminous skin, a warm flush, a soft coral lip. **Hair:** a vintage pin-curl set tucked under the cap, soft waves at the nape. **Footwear:** tan lace-up flight boots. **Nails:** short warm nude.
-- **Hero object:** a vintage cream-and-red seaplane — a polished radial engine, twin pontoon floats, a glass cockpit, red trim and a registration number.
-- **Signature (grounded):** a bright spray-fan kicks off the floats on takeoff and landing, cloud-wisps stream past the wings, and reef sun-glints flash on the water below. Real spray + cloud + light physics.
-- **Journey + light:** brilliant tropical all the way — sparkling lagoon → bright reef from above → dazzling sea-cliffs → glowing island lagoon. *(Exterior shots = camera OFF the plane, she small in the cockpit; cockpit shots = real flight buffet.)*
+## INGREDIENTS + LOCKS (generate `@subject` & `@object` ONCE — reuse them in every frame)
+- **`@subject` — render ONCE, reuse every frame** (neutral, full body, plain blank bg): `Aira [identity placeholder]` styled as — **Outfit:** tan utility flight jumpsuit (rolled sleeves, belted) under a cropped ivory bomber jacket · **Headwear:** brown leather aviator cap with round goggles · **Accessories:** long ivory silk scarf, brown leather gloves, dog-tag pendant · **Eye colour:** warm amber-hazel · **Makeup:** fresh adventurous glow, warm flush, soft coral lip · **Hair:** vintage pin-curl set under the cap, soft nape waves · **Footwear:** tan lace-up flight boots · **Nails:** short warm nude.
+- **`@object` — render ONCE, reuse every frame** (plain blank bg): a vintage cream-and-red seaplane — a polished radial engine, twin pontoon floats, a glass cockpit, red trim and a registration number.
+- **THE PLACE (ONE lagoon-island world, flown THROUGH):** a single brilliant tropical island world — a sparkling turquoise lagoon, a bright reef seen from above, dramatic sea-cliffs, and a glowing island landing-lagoon; brilliant tropical light. The seaplane **flies through it** across the four frames (taxi → lift → cliff-bank → landing), so each ENVIRONMENT still is the next part of the same island world at its own angle. *(Exterior frames = camera OFF the plane, she small in the cockpit; cockpit = real flight buffet. The float spray-fan is the plane's own natural detail.)*
+- **MAGICAL ELEMENT (used ONCE — Frame 3 only):** **streaming cloud-wisps** peel off the wings as she banks past the sea-cliffs (real cloud + air physics). No other frame carries an element.
+- **TRICK SHOTS (×2 — Frames 1 & 2, never the element's frame):** Frame 1 = **exterior aerial chase** of the little seaplane taxiing the lagoon; Frame 2 = **cockpit POV** (over her shoulder out the windscreen as the reef drops away).
+- **HERO FRAME (Frame 4):** she reads clearly as the hero stepping onto the float at the island landing (closer, goggles up, radiant triumph). Every other frame keeps her small with the island world dominant — room on the sides, top and bottom.
+- **Footing:** she's seated in the cockpit with real flight buffet; a believable step onto the float on landing.
 
 ---
-### FRAME 1 — EXTERIOR · LAGOON TAXI
-**Frame angle:** WIDE high aerial (~45° down, world-dominant), brilliant tropical morning.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, seated **¾ in the open cockpit** (she reads small in the exterior frame). · Outfit: tan flight jumpsuit + cropped ivory bomber. · Headwear: leather aviator cap + round goggles. · Accessories: ivory silk scarf, leather gloves, dog-tag. · Eye colour: amber-hazel. · Makeup: adventurous glow, coral lip. · Hair: pin-curls under cap. · Footwear: tan flight boots. · Nails: warm nude. · static & neutral, plain blank background.
-**STILL 2 · OBJECT (plain bg):** the vintage cream-and-red seaplane at **side ¾** — radial engine, twin floats, glass cockpit, red trim, registration. Clean, isolated, plain blank background.
-**STILL 3 · ENVIRONMENT:** a sparkling turquoise lagoon — clear water over a bright reef, a palm-fringed island, distant sea-cliffs, a brilliant sky; WIDE high aerial vantage (the plane taxis across it, world dominant).
+### FRAME 1 — LAGOON TAXI (trick shot · exterior aerial chase)
+**Frame angle:** WIDE high aerial (~45° down, world-dominant), brilliant tropical morning — the plane small.
+**ENVIRONMENT still (the only per-frame ingredient):** a sparkling turquoise lagoon — clear water over a bright reef, a palm-fringed island, distant sea-cliffs, a brilliant sky; WIDE high aerial vantage (world-dominant, big negative space). *(Animate `@object` taxiing across, `@subject` a small figure in the open cockpit.)*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move (she's a small bright figure in the cockpit).
-- *Animation:* WIDE high aerial, **one continuous slow track following the seaplane's taxi across the lagoon.** [00:00–00:02] the cream-and-red seaplane taxis across the sparkling lagoon, a clean wake spreading, the reef glowing below, tiny against the blue. [00:02–00:04] the signature stirs — a bright spray-fan kicks off the floats as it powers up; in the open cockpit her small figure raises a gloved thumbs-up, scarf streaming. [00:04–00:06] the plane accelerates toward open water to lift off. Real-time, believable taxi + real float-spray; 9:16. (Environment-dominant wide.)
-- *AUDIO (in-frame):* ambient/object — the throaty radial engine and prop-wash, water slapping the floats, gulls; voice — (slight distance) Aira's keen "here we go!" carried from the cockpit.
-**→ Cut (match-on-action) to Frame 2 — the plane lifts off over the reef.**
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact face/identity — a small bright figure, a keen grin + thumbs-up reads.
+- *Animation:* WIDE high aerial, **one continuous slow chase — the exterior aerial trick.** [00:00–00:02] the cream-and-red seaplane taxis across the sparkling lagoon, a clean wake spreading, the reef glowing below, tiny against the blue. [00:02–00:04] a bright spray-fan kicks off the floats as it powers up; in the open cockpit her small figure raises a gloved thumbs-up, scarf streaming. [00:04–00:06] the plane accelerates toward open water to lift off. Real-time, believable taxi + real float-spray; 9:16. (Environment-dominant — plane small, negative space all around.)
+- *AUDIO (in-frame):* ambient/object — the throaty radial engine and prop-wash, water slapping the floats, gulls; voice — (slight distance) Aira's keen "here we go!" from the cockpit.
+**→ Cut (match-on-action) to Frame 2 — the plane lifts off over the reef (the cockpit POV trick).**
 
 ---
-### FRAME 2 — LIFT OVER THE REEF
-**Frame angle:** low ¾ front from the cockpit (~30°, cockpit-level), bright reef back-light.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **low ¾ front (~30°)** in the cockpit. · Outfit: tan flight jumpsuit + ivory bomber. · Headwear: aviator cap + goggles. · Accessories: silk scarf, gloves, dog-tag. · Eye colour: amber-hazel. · Makeup: adventurous glow, coral lip. · Hair: pin-curls under cap. · Footwear: flight boots. · Nails: warm nude. · static & neutral, plain blank background.
-**STILL 2 · OBJECT (plain bg):** the seaplane cockpit detail — the brass-and-glass dash, control yoke, a compass, at **¾**. Clean, isolated, plain blank background.
-**STILL 3 · ENVIRONMENT:** the bright reef seen from just above — turquoise shallows and coral patterns dropping to deep blue, the lagoon shrinking, cloud-wisps; low ¾-front cockpit vantage out the windscreen.
+### FRAME 2 — LIFT OVER THE REEF (trick shot · cockpit POV)
+**Frame angle:** **cockpit POV** — over her shoulder out the windscreen as the plane climbs, bright reef back-light.
+**ENVIRONMENT still (the only per-frame ingredient):** the bright reef seen from just above through the windscreen — turquoise shallows and coral patterns dropping to deep blue, the lagoon shrinking, cloud-wisps; cockpit POV vantage. *(Animate `@subject` at the yoke of `@object`, the reef out the glass.)*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* MEDIUM cockpit ¾ front, **one continuous slow push past her shoulder to the reef below as the plane climbs.** [00:00–00:02] the floats break free of the water and the plane lifts, the reef and lagoon dropping away below the windscreen. [00:02–00:04] she grips the yoke and grins at the reef shrinking beneath, cloud-wisps streaming past, reef sun-glints flashing. [00:04–00:06] she banks the plane toward towering sea-cliffs. Real-time, believable lift-off + cockpit buffet; 9:16.
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact identity — animate only gaze + soft expression: an exhilarated grin at the reef dropping away.
+- *Animation:* MEDIUM cockpit POV, **one continuous push past her shoulder to the reef below — the POV trick.** [00:00–00:02] the floats break free and the plane lifts, the reef and lagoon dropping away beyond the windscreen past her shoulder. [00:02–00:04] she grips the yoke and grins at the reef shrinking beneath, reef sun-glints flashing through the glass. [00:04–00:06] she banks the plane toward towering sea-cliffs. Real-time, believable lift-off + cockpit buffet; 9:16.
 - *AUDIO (in-frame):* ambient/object — the engine note rising on climb, wind over the cockpit, a creak of the airframe; voice — Aira's exhilarated "woohoo — we're up!" and a bright laugh.
-**→ Cut (match-on-action) to Frame 3 — cut outside as the plane banks past the sea-cliffs.**
+**→ Cut (match-on-action) to Frame 3 — cut outside as the plane banks past the sea-cliffs (the cloud-wisps element).**
 
 ---
-### FRAME 3 — EXTERIOR · BANK PAST SEA-CLIFFS
-**Frame angle:** WIDE profile aerial (world-dominant, parallel chase), dazzling cliff light.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, **¾ in the cockpit** (she reads small in the exterior frame). · Outfit: tan flight jumpsuit + ivory bomber. · Headwear: aviator cap + goggles. · Accessories: silk scarf, gloves, dog-tag. · Eye colour: amber-hazel. · Makeup: adventurous glow, coral lip. · Hair: pin-curls under cap. · Footwear: flight boots. · Nails: warm nude. · static & neutral, plain blank background.
-**STILL 2 · OBJECT (plain bg):** the cream-and-red seaplane banking, **dynamic side ¾** — wing dipped, floats, red trim, prop spinning. Clean, isolated, plain blank background.
-**STILL 3 · ENVIRONMENT:** dramatic tropical sea-cliffs — sheer green-topped cliffs plunging to a deep-blue sea, white surf at the base, sea-birds wheeling, a vast bright sky; WIDE profile aerial vantage (the plane banks past them).
+### FRAME 3 — BANK PAST SEA-CLIFFS (magical element · streaming cloud-wisps, used once)
+**Frame angle:** WIDE profile aerial (world-dominant, parallel chase), dazzling cliff light — the plane small.
+**ENVIRONMENT still (the only per-frame ingredient):** dramatic tropical sea-cliffs — sheer green-topped cliffs plunging to a deep-blue sea, white surf at the base, sea-birds wheeling, a vast bright sky; WIDE profile aerial vantage. *The concept's single element lands here.*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move (she flashes by in the cockpit).
-- *Animation:* WIDE aerial, **one continuous parallel chase as the plane banks past the cliffs.** [00:00–00:02] the seaplane banks along the dramatic sea-cliffs, one wing dipped to the deep-blue sea, surf breaking far below. [00:02–00:04] the signature reads — cloud-wisps stream off the wings and sun-glints flash on the sea; her small figure in the cockpit leans into the bank with a thrilled grin, scarf whipping. [00:04–00:06] the plane levels and descends toward a glowing island lagoon. Real-time, believable banking flight + real cloud-streaming; 9:16. (Environment-dominant wide.)
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact identity — she flashes by in the cockpit with a thrilled grin, scarf whipping.
+- *Animation:* WIDE aerial, **one continuous parallel chase as the plane banks past the cliffs.** [00:00–00:02] the seaplane banks along the dramatic sea-cliffs, one wing dipped to the deep-blue sea, surf breaking far below. [00:02–00:04] the **element** — streaming cloud-wisps peel off the wings as she banks; her small figure leans into the bank with a thrilled grin. [00:04–00:06] the plane levels and descends toward a glowing island lagoon. Real-time, believable banking flight + real cloud-streaming; 9:16. (Environment-dominant — cliffs + sky lead, plane small.)
 - *AUDIO (in-frame):* ambient/object — the engine droning through the bank, wind, sea-birds, distant surf; voice — (distant) Aira's joyful whoop carried on the wind.
-**→ Cut (match-on-action) to Frame 4 — the plane splashes down at the island.**
+**→ Cut (match-on-action) to Frame 4 — the plane splashes down at the island (her hero beat).**
 
 ---
-### FRAME 4 — ISLAND LANDING (signature · loop)
-**Frame angle:** low-hero ¾ opening to front (~30°, crane pull-back), glowing island-lagoon light.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **low-hero ¾ (~30°)** stepping onto a float. · Outfit: tan flight jumpsuit + ivory bomber. · Headwear: aviator cap (goggles up). · Accessories: silk scarf, gloves, dog-tag. · Eye colour: amber-hazel. · Makeup: adventurous glow, coral lip. · Hair: pin-curls, soft nape waves. · Footwear: flight boots. · Nails: warm nude. · static & neutral, plain blank background.
-**STILL 2 · OBJECT (plain bg):** the cream-and-red seaplane at rest on the water, **¾ front** — floats settled, prop slowing, red trim glinting. Clean, isolated, plain blank background.
-**STILL 3 · ENVIRONMENT:** a glowing island lagoon landing — calm turquoise water, a white-sand beach with palms and a little jetty, the plane settling in a spreading wake, brilliant low sun; low-hero ¾ vantage with crane reveal.
+### FRAME 4 — ISLAND LANDING (HERO · loop)
+**Frame angle:** low-hero ¾ opening to a crane pull-back, glowing island-lagoon light — closer hero, then world reveal.
+**ENVIRONMENT still (the only per-frame ingredient):** a glowing island lagoon landing — calm turquoise water, a white-sand beach with palms and a little jetty, a spreading wake, brilliant low sun; low-hero ¾ vantage with crane reveal. *(Animate `@subject` stepping onto a float of `@object` at rest.)*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* WIDE low-hero, **one continuous slow crane pull-back as she steps onto the float.** [00:00–00:02] the seaplane splashes down and settles on the glowing lagoon, a bright spray-fan fanning off the floats and a wake spreading. [00:02–00:04] the signature peaks — the spray-fan catches the low sun and cloud-wisps drift overhead; she steps out onto a float, pushes the goggles up and beams to lens with radiant triumph. [00:04–00:06] the camera cranes back to reveal the whole island lagoon, beach and plane around her — easing toward the lagoon-taxi opening for a loop. Real-time, believable splashdown + real float-spray; 9:16.
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact identity — animate only gaze + soft expression: a **radiant, triumphant smile** as she pushes the goggles up — her hero beat.
+- *Animation:* WIDE low-hero, **one continuous slow crane pull-back as she steps onto the float.** [00:00–00:02] the seaplane splashes down and settles on the glowing lagoon, a bright spray-fan fanning off the floats and a wake spreading. [00:02–00:04] she steps out onto a float, pushes the goggles up and beams to lens with radiant triumph — her hero moment, low sun gilding her. [00:04–00:06] the camera cranes back to reveal the whole island lagoon, beach and plane around her — easing toward the lagoon-taxi opening for a loop. Real-time, believable splashdown + real float-spray; 9:16. (Hero framing — closer, then the island reveals around her.)
 - *AUDIO (in-frame):* ambient/object — the splashdown spray and settling water, the engine winding down, gentle lagoon lap, gulls; voice — Aira's triumphant "woohoo — made it!" and a delighted laugh.
 **→ Loops back to Frame 1 (the lagoon taxi).**
 
-**Stills to generate:** 3 per frame × 4 frames = 12 (exterior frames: world+plane lead, she small in the cockpit). Score = 24s MASTER AUDIO under the diegetic.
+**Stills to generate:** **`@subject` (1) + `@object` (1) + 4 ENVIRONMENT stills = 6 total** — subject & object rendered once and reused; only environment + video prompt change per frame. ONE island world flown through (taxi → reef → cliffs → landing); cloud-wisps element in Frame 3 only; trick shots in Frames 1 (exterior chase) & 2 (cockpit POV); hero beat in Frame 4. Score = 24s MASTER AUDIO under the diegetic.
 
 ═══════════════════════════════════════════════════════════════════════════════
 
