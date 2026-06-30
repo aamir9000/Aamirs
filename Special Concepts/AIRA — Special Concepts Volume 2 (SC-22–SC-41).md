@@ -296,10 +296,10 @@ Laid UNDER the diegetic — no spoken line; optional wordless bright vocal on th
 ═══════════════════════════════════════════════════════════════════════════════
 
 # SC-26 · FROST WALTZ (Ice-Skating) · 4 shots × 6s
-**Logline:** A crisp festive skate — a sparkling frozen lake → a fairy-lit canal → a spin in a snowy forest →
-a glowing festive square. Signature: frost-crystal blade-spray catching the sun + soft breath-mist. Joyful,
+**Logline:** A crisp festive skate through one winter lakeside world — a sparkling frozen lake, its fairy-lit canal
+into the old town, a snowy-forest clearing, and a glowing festive square. One world, travelled through. Joyful,
 twinkling, warm-hearted.
-**Arc:** FROZEN LAKE → FAIRY-LIT CANAL → FOREST SPIN → FESTIVE SQUARE (signature).
+**Arc (one place, travelled through):** FROZEN LAKE → FAIRY-LIT CANAL (hero · trick) → FOREST SPIN (trick) → FESTIVE SQUARE (element · loop).
 
 ## MASTER AUDIO (outside the frames — background music)
 A 24-second custom cinematic score (4 clips × 6s) in self-resolving ~6-second phrases, trimmable at any phrase
@@ -308,62 +308,56 @@ warm sub — joyful, festive, warm-hearted. Opens (no fade-in) on a twinkling ce
 lake open, a fairy-lit canal lull, a soaring forest-spin lift, then a glowing festive resolve for an invisible
 loop. Laid UNDER the diegetic — no spoken line; optional wordless warm vocal on the festive square only.
 
-## GLOBAL STYLE LOCKS
-- **Outfit:** a cherry-red wool swing coat over a forest-green tartan skater skirt, cream tights.
-- **Headwear:** a cream pom earmuff band, a chunky tartan scarf. **Accessories:** red knit mittens, a small crossbody. **Eye colour:** warm amber-hazel. **Makeup:** crisp winter glow — luminous skin, a cold-flush on the cheeks, a glossy cherry lip. **Hair:** soft shoulder-length curls falling loose under the earmuff band. **Footwear:** white figure skates with red laces. **Nails:** glossy cherry (under mittens).
-- **Hero object:** a pair of white figure skates with red laces, silver blades and guards.
-- **Signature (grounded):** fine frost-crystal blade-spray fans off her edges and glitters in the sun; soft breath-mist curls in the cold air. Real ice + frost physics.
-- **Journey + light:** crisp festive winter brightening — open sparkling lake → twinkling fairy-lit canal → soft snowy-forest light → glowing festive square. *Footing: she skates — graceful balanced edges, real glide + spin.*
+## INGREDIENTS + LOCKS (generate `@subject` & `@object` ONCE — reuse them in every frame)
+- **`@subject` — render ONCE, reuse every frame** (neutral, full body, plain blank bg): `Aira [identity placeholder]` styled as — **Outfit:** cherry-red wool swing coat over a forest-green tartan skater skirt + cream tights · **Headwear:** cream pom earmuff band + a chunky tartan scarf · **Accessories:** red knit mittens, a small crossbody · **Eye colour:** warm amber-hazel · **Makeup:** crisp winter glow, cold-flush cheeks, glossy cherry lip · **Hair:** soft shoulder-length curls under the earmuff band · **Footwear:** white figure skates with red laces · **Nails:** glossy cherry.
+- **`@object` — render ONCE, reuse every frame** (plain blank bg): a pair of white figure skates with red laces, silver blades and guards.
+- **THE PLACE (ONE winter world, travelled THROUGH):** a single festive winter lakeside world — a vast sparkling frozen lake, a fairy-lit frozen canal into an old pastel town, a hushed snowy-forest clearing on ice, and a glowing festive town square with a big lit tree; crisp winter light brightening to warm lantern-glow. She **skates through it** across the four frames, so each ENVIRONMENT still is the next part of the same world at its own angle. (Frost-crystal blade-spray + breath-mist are her own natural detail throughout.)
+- **MAGICAL ELEMENT (used ONCE — Frame 4 only):** **gentle falling snow** drifts through the warm lantern light of the festive square (real snow physics). No other frame carries an element.
+- **TRICK SHOTS (×2 — Frames 2 & 3, never the element's frame):** Frame 2 = **ice-reflection** (the glassy swept ice mirrors the warm fairy-lights and her glide); Frame 3 = **spin orbit** (the camera orbits her through a graceful upright spin).
+- **HERO FRAME (Frame 2):** she reads clearly as the hero on the fairy-lit canal (closer, warm twinkling light, expression reads). Every other frame keeps her small with the world dominant — room on the sides, top and bottom.
+- **Footing:** she skates — graceful balanced edges, real glide + spin.
 
 ---
-### FRAME 1 — FROZEN LAKE
-**Frame angle:** high aerial ¾ (~45° down, world-dominant), crisp bright winter side-light.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **high aerial ¾**. · Outfit: cherry-red swing coat + tartan skater skirt + cream tights. · Headwear: cream pom earmuff band + tartan scarf. · Accessories: red mittens, crossbody. · Eye colour: amber-hazel. · Makeup: winter glow, cherry lip. · Hair: soft shoulder curls. · Footwear: white figure skates, red laces. · Nails: glossy cherry. · static & neutral, plain blank background.
-**STILL 2 · OBJECT (plain bg):** the white figure skates with red laces at **high aerial ¾** — silver blades, neat bows. Clean, isolated, plain blank background.
-**STILL 3 · ENVIRONMENT:** a vast sparkling frozen lake — clear swept ice, snow-frosted firs ringing the shore, a pale blue winter sky, distant skaters; high aerial ¾ vantage (world dominant).
+### FRAME 1 — FROZEN LAKE (establishing wide)
+**Frame angle:** high aerial ¾ (~45° down, world-dominant), crisp bright winter side-light — she tiny in the white expanse.
+**ENVIRONMENT still (the only per-frame ingredient):** a vast sparkling frozen lake — clear swept ice, snow-frosted firs ringing the shore, a pale blue winter sky, distant skaters; high aerial ¾ vantage (world-dominant, huge negative space). *(Animate `@subject` skating, wearing `@object`; she small.)*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* WIDE high aerial establishing, **one continuous slow track following her glide across the lake.** [00:00–00:02] she glides out across the sparkling frozen lake in long crossover strokes, tiny in the open white expanse. [00:02–00:04] the signature stirs — fine frost-crystal blade-spray fans off her edges into the sun and breath-mist curls; she carves a graceful arc with a bright smile. [00:04–00:06] she glides toward a fairy-lit canal mouth ahead. Real-time, believable crossover stride + real ice-spray; 9:16. (Environment-dominant wide.)
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact face/identity — animate only gaze + soft expression: a bright open joy into the cold air.
+- *Animation:* WIDE high aerial, **one continuous slow track following her glide across the lake.** [00:00–00:02] she glides out across the sparkling lake in long crossover strokes, tiny in the open white expanse, frost-crystal blade-spray fanning and breath-mist curling. [00:02–00:04] she carves a graceful arc with a bright smile. [00:04–00:06] she glides toward a fairy-lit canal mouth ahead. Real-time, believable crossover stride + real ice-spray; 9:16. (Environment-dominant — she small, negative space all around.)
 - *AUDIO (in-frame):* ambient/object — the crisp shear and ring of blades on ice, wind, distant skater chatter; voice — Aira's bright "woohoo!" and a clear laugh.
-**→ Cut (match-on-action) to Frame 2 — she glides off the lake into the fairy-lit canal.**
+**→ Cut (match-on-action) to Frame 2 — she glides into the fairy-lit canal (her hero beat · the ice-reflection trick).**
 
 ---
-### FRAME 2 — FAIRY-LIT CANAL
-**Frame angle:** low ¾ front (~30° left, ground-level track-with), twinkling fairy-light glow.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **low ¾ front (~30° left)**. · Outfit: cherry-red swing coat + tartan skirt + tights. · Headwear: pom earmuff band + tartan scarf. · Accessories: red mittens, crossbody. · Eye colour: amber-hazel. · Makeup: winter glow, cherry lip. · Hair: soft shoulder curls. · Footwear: white skates, red laces. · Nails: glossy cherry. · static & neutral, plain blank background.
-**STILL 2 · OBJECT (plain bg):** the white figure skates at **low ¾ front** — toes foremost, blades catching warm light. Clean, isolated, plain blank background.
-**STILL 3 · ENVIRONMENT:** a frozen canal threaded with fairy lights — old pastel townhouses leaning over the ice, garlands and lanterns glowing, frost on the railings, dusky-gold sky; low ground-level ¾-front vantage.
+### FRAME 2 — FAIRY-LIT CANAL (HERO frame · trick shot · ice-reflection)
+**Frame angle:** low ¾ front (~30° left), twinkling fairy-light glow — closer hero framing, room around her.
+**ENVIRONMENT still (the only per-frame ingredient):** a frozen canal threaded with fairy lights — old pastel townhouses leaning over the ice, garlands and lanterns glowing, frost on the railings, the glassy swept ice **mirroring the warm lights**, dusky-gold sky; low ¾-front vantage. *(Animate `@subject` gliding, wearing `@object`; the ice holds her reflection.)*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* MEDIUM, **one continuous low ground-level track gliding with her down the canal.** [00:00–00:02] she glides down the fairy-lit canal, warm lights reflecting on the swept ice, townhouses leaning close. [00:02–00:04] she does a light backward glide and turns, looking up at the garlands with a delighted glowing smile, breath-mist softly curling, lights twinkling in her eyes. [00:04–00:06] she swings round toward a snowy forest opening ahead. Real-time, believable forward-to-backward glide; 9:16.
-- *AUDIO (in-frame):* ambient/object — the soft glide of blades, fairy-light buzz, distant carols, the canal creak; voice — a soft delighted "ooh, pretty…" and a warm laugh from Aira.
-**→ Cut (match-on-action) to Frame 3 — she skates into the snowy forest and spins.**
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact identity — animate only gaze + soft expression: a **delighted, glowing, warm smile**, lights twinkling in her eyes — her hero beat.
+- *Animation:* MEDIUM low ¾ front, **one continuous track — the ice-reflection trick.** [00:00–00:02] she glides down the fairy-lit canal, the **glassy ice mirroring the warm lights and her glide** beneath her. [00:02–00:04] she eases a soft turn and looks up at the garlands with a glowing hero smile, breath-mist curling, her reflection sweeping across the ice. [00:04–00:06] she swings round toward a snowy forest opening. Real-time, believable glide + real ice-reflection; 9:16. (Hero framing — closer, but the lit canal stays around her.)
+- *AUDIO (in-frame):* ambient/object — the soft glide of blades, fairy-light buzz, distant carols, the canal creak; voice — a soft delighted "ooh, pretty…" and a warm laugh.
+**→ Cut (match-on-action) to Frame 3 — she skates into the snowy forest and spins (the orbit trick).**
 
 ---
-### FRAME 3 — FOREST SPIN
-**Frame angle:** full profile orbiting toward front (true side opening, parallel then arc), soft snowy-forest light.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, in **full profile**. · Outfit: cherry-red swing coat + tartan skirt + tights. · Headwear: pom earmuff band + tartan scarf. · Accessories: red mittens, crossbody. · Eye colour: amber-hazel. · Makeup: winter glow, cherry lip. · Hair: soft shoulder curls. · Footwear: white skates, red laces. · Nails: glossy cherry. · static & neutral, plain blank background.
-**STILL 2 · OBJECT (plain bg):** the white figure skates in **full profile** — full side, blade-line, red laces. Clean, isolated, plain blank background.
-**STILL 3 · ENVIRONMENT:** a hushed snowy-forest clearing on ice — tall snow-laden firs, soft shafts of cool light, frost sparkling, a frozen stream winding through; profile vantage in the clearing.
+### FRAME 3 — FOREST SPIN (trick shot · spin orbit)
+**Frame angle:** orbit — camera circling her through the spin, soft snowy-forest light.
+**ENVIRONMENT still (the only per-frame ingredient):** a hushed snowy-forest clearing on ice — tall snow-laden firs, soft shafts of cool light, frost sparkling, a frozen stream winding through; profile-into-orbit vantage in the clearing. *(Animate `@subject` spinning, wearing `@object`.)*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* MEDIUM profile, **one continuous slow orbit around her as she spins.** [00:00–00:02] she enters the hushed snowy clearing and sets up, arms drawing in, skirt beginning to flare. [00:02–00:04] she breaks into a graceful upright spin, coat and skirt flaring, the signature peaking as frost-crystal spray rings out and glitters through a light-shaft; a radiant laughing smile. [00:04–00:06] she opens the spin into a glide toward a glowing festive square. Real-time, believable upright spin + real ice-spray; 9:16.
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact identity — animate only gaze + soft expression: a radiant, laughing joy through the spin.
+- *Animation:* MEDIUM, **one continuous slow orbit around her — the spin-orbit trick.** [00:00–00:02] she enters the hushed clearing and sets up, arms drawing in, skirt beginning to flare, the camera beginning to circle. [00:02–00:04] she breaks into a graceful upright spin, coat and skirt flaring, frost-crystal spray ringing out and glittering through a light-shaft as the camera orbits; a radiant laughing smile. [00:04–00:06] she opens the spin into a glide toward a glowing festive square. Real-time, believable upright spin + real ice-spray; 9:16.
 - *AUDIO (in-frame):* ambient/object — the rising whirr of a spin on ice, frost spray pattering, forest hush, fabric flaring; voice — Aira's joyful spinning laugh and a bright "wheee!".
-**→ Cut (match-on-action) to Frame 4 — she glides out into the festive square.**
+**→ Cut (match-on-action) to Frame 4 — she glides out into the festive square (the falling-snow element).**
 
 ---
-### FRAME 4 — FESTIVE SQUARE (signature · loop)
-**Frame angle:** low-hero ¾ opening to front (~30°, crane pull-back), warm glowing festive light.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **low-hero ¾ (~30°)**. · Outfit: cherry-red swing coat + tartan skirt + tights. · Headwear: pom earmuff band + tartan scarf. · Accessories: red mittens, crossbody. · Eye colour: amber-hazel. · Makeup: winter glow, cherry lip. · Hair: soft shoulder curls. · Footwear: white skates, red laces. · Nails: glossy cherry. · static & neutral, plain blank background.
-**STILL 2 · OBJECT (plain bg):** the white figure skates at **low-hero ¾** — heroic angle, blades bright, red laces. Clean, isolated, plain blank background.
-**STILL 3 · ENVIRONMENT:** a glowing festive town square on ice — a big lit tree, market stalls and garlands, warm lantern light, snow softly falling, townsfolk milling; low-hero ¾ vantage with crane reveal.
+### FRAME 4 — FESTIVE SQUARE (magical element · gentle falling snow · loop)
+**Frame angle:** wide low-hero opening to a crane pull-back, warm glowing festive light — she smaller, world dominant.
+**ENVIRONMENT still (the only per-frame ingredient):** a glowing festive town square on ice — a big lit tree, market stalls and garlands, warm lantern light, townsfolk milling, snow softly falling; wide crane vantage. *The concept's single element lands here.*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* WIDE low-hero, **one continuous slow crane pull-back to reveal the festive square.** [00:00–00:02] she glides into the glowing festive square and slows to a graceful stop by the big lit tree. [00:02–00:04] the signature settles — frost-crystal spray and breath-mist glitter in the warm lantern light, snow softly falling; she spreads her arms with a radiant warm smile. [00:04–00:06] the camera cranes back to reveal the whole twinkling square and tree around her — easing toward the frozen-lake opening for a loop. Real-time, believable stop + real falling snow; 9:16.
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact identity — animate only gaze + soft expression: a warm, happy, contented smile.
+- *Animation:* WIDE low-hero, **one continuous slow crane pull-back to reveal the festive square.** [00:00–00:02] she glides into the glowing square and slows to a graceful stop by the big lit tree. [00:02–00:04] the **element** — gentle falling snow drifts down through the warm lantern light; she spreads her arms with a radiant warm smile, breath-mist curling. [00:04–00:06] the camera cranes back to reveal the whole twinkling square and tree around her — easing toward the frozen-lake opening for a loop. Real-time, believable stop + real falling snow; 9:16. (Environment-dominant — she smaller, world around her.)
 - *AUDIO (in-frame):* ambient/object — the soft scrape of a stop, market bustle, carols and bells, falling snow hush; voice — Aira's warm happy sigh and a soft "perfect…".
 **→ Loops back to Frame 1 (the frozen lake).**
 
-**Stills to generate:** 3 per frame × 4 frames = 12. Score = 24s MASTER AUDIO under the diegetic.
+**Stills to generate:** **`@subject` (1) + `@object` (1) + 4 ENVIRONMENT stills = 6 total** — subject & object rendered once and reused; only environment + video prompt change per frame. ONE winter world skated through (lake → canal → forest → square); falling-snow element in Frame 4 only; trick shots in Frames 2 (ice-reflection) & 3 (spin orbit); hero beat in Frame 2. Score = 24s MASTER AUDIO under the diegetic.
 
 ═══════════════════════════════════════════════════════════════════════════════
 
