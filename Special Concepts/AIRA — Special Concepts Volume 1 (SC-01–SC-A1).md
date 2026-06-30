@@ -1084,12 +1084,11 @@ piano/harp, warm sub, glassy choir atmosphere, a single swell for the bloom-comp
 
 ═══════════════════════════════════════════════════════════════════════════════
 
-# SC-17 · FOUR SEASONS, ONE PATH (Walk) · 5 shots × 6s · *(prop-less — 2 stills per frame: Subject + Environment)*
-**Logline:** One tree-lined path, walked once — but the world re-skins around her through the four seasons:
-spring blossom → summer green → autumn gold → winter snow → back to a first bud of spring. The same path, the same
-walk; only the season changes. Signature: a clean season-transition sweep at each cut (the same trees/ground/light
-morph season to season). Poetic, magical, continuous.
-**Arc:** SPRING BLOSSOM → SUMMER GREEN → AUTUMN GOLD → WINTER SNOW → FIRST SPRING BUD (loop).
+# SC-17 · FOUR SEASONS, ONE PATH (Walk) · 5 shots × 6s · *(prop-less SEASONAL-RESKIN exception — `@subject` once (layering noted per frame) + ENVIRONMENT stills, no `@object`)*
+**Logline:** One tree-lined path, walked once — the world re-skins around her through the four seasons: spring
+blossom, summer green, autumn gold, winter snow, back to a first bud of spring. The same path and walk; only the
+season changes. Poetic, magical, continuous.
+**Arc (one place travelled through — SEASONAL RESKIN):** SPRING BLOSSOM (hero) → SUMMER GREEN → AUTUMN GOLD (element) → WINTER SNOW → FIRST SPRING BUD (loop).
 
 ## MASTER AUDIO (outside the frames — background music)
 A 30-second custom cinematic score (5 clips × 6s) in self-resolving ~6-second phrases, trimmable at any phrase
@@ -1100,68 +1099,66 @@ invisible loop. Laid UNDER the diegetic — no spoken line; optional wordless aa
 piano/woodwind shifting colour per season, warm sub, celesta shimmer, soft strings, gentle swells at each season-turn.
 
 ## GLOBAL STYLE LOCKS
-- **Outfit:** a cream pleated midi-dress under a colour-block cardigan (sage / blush / rust panels), worn open — the base stays constant; layering adjusts per season (loose → off-shoulder → scarf-wrapped → bundled + mittens → loosening).
-- **Headwear:** none. **Accessories:** a soft scarf (used from autumn), cream mittens (winter). **Eye colour:** warm amber-hazel. **Makeup:** soft natural glow — luminous skin, soft rose lip, fresh per season (dewy → sun-warm → warm → cool-flushed). **Hair:** **long loose natural hair with a soft half-twist** (constant). **Footwear:** tan ankle boots. **Nails:** short soft blush.
-- **Hero object:** none (the path is the set) → each frame uses 2 stills (Subject + Environment); a single leaf/blossom/seed she catches each season.
-- **Signature (grounded):** at each cut the season sweeps over the SAME path — blossom → green leaves → gold-fall → bare-snow — a believable seasonal change of the same trees/ground/light, not a cartoon wipe. Real falling blossom, leaves, snow.
-- **Journey + light:** soft pink spring morning → bright green summer noon → warm gold autumn afternoon → cool blue winter dusk → first soft spring light again. *Footing: she walks the same path throughout; only the season changes.*
+## INGREDIENTS + LOCKS (generate `@subject` ONCE — reuse it every frame, layering noted per frame; prop-less, no `@object`)
+- **`@subject` — render ONCE (base look), reuse every frame** (neutral, full body, plain blank bg): `Aira [identity placeholder]` styled as — **Outfit (base, constant):** a cream pleated midi-dress under a colour-block cardigan (sage / blush / rust panels), worn open · **Layering (adjusts per season, noted in each frame):** F1 loose → F2 off one shoulder → F3 scarf wrapped → F4 bundled + mittens → F5 loosening · **Hair:** long loose natural hair with a soft half-twist (constant) · **Accessories:** a soft scarf (from autumn), cream mittens (winter) · **Eye colour:** warm amber-hazel · **Makeup:** soft natural glow — luminous skin, soft rose lip (freshening per season: dewy → sun-warm → warm → cool-flushed) · **Footwear:** tan ankle boots · **Nails:** short soft blush.
+- **No `@object`** — the path is the set; a single leaf/blossom/seed she catches each season belongs to the environment. Each frame uses only the ENVIRONMENT still.
+- **THE PLACE (ONE path, re-skinned THROUGH the seasons):** a single tree-lined avenue, the SAME trees/ground/path throughout — only the season re-skins it: spring blossom → summer green → autumn gold → winter snow → first spring bud; light soft-pink → bright-green → warm-gold → cool-blue → first-spring. She **walks the same path** across the five frames; each ENVIRONMENT still is the same path re-skinned to the next season at its own angle.
+- **MAGICAL ELEMENT (used ONCE — Frame 3; written into that frame's VIDEO PROMPT):** in autumn a swirl of amber-gold leaves lifts and spirals around her on a gust (a real autumn leaf-swirl, no cartoon sparkle). No other frame carries an element.
+- **TRICK SHOT (×1 — the season match-cut, realized AT THE CUTS, never inside the element frame's beat):** **locked-framing season match-cut on the same focal tree** — each cut holds an identical framing on the same boughs so the season visibly sweeps over the SAME tree from frame to frame (a believable seasonal morph, not a cartoon wipe).
+- **HERO FRAME (Frame 1):** she reads clearly as the hero in spring blossom (closer, soft wondering smile, catching a petal). Every other frame keeps the path present — room on the sides, top and bottom.
+- **Footing:** she walks the same path throughout — natural even walking; only the season changes.
 
 ---
-### FRAME 1 — SPRING BLOSSOM
-**Frame angle:** low ¾ front (~30° left, track-with), soft pink spring morning light.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **low ¾ front (~30° left)**. · Outfit: cream pleated midi + sage/blush/rust cardigan worn loose & open. · Headwear: none. · Accessories: none yet. · Eye colour: amber-hazel. · Makeup: dewy spring, soft rose lip. · Hair: long loose half-twist. · Footwear: tan ankle boots. · Nails: soft blush. · static & neutral, plain blank background. *(Layering: cardigan loose, no scarf.)*
-**STILL 2 · ENVIRONMENT:** the tree path in spring — arching boughs heavy with pink-white blossom, petals drifting, fresh green underfoot, soft pink morning light; low ¾-front vantage, deep perspective.
+### FRAME 1 — SPRING BLOSSOM (HERO frame)
+**Frame angle:** low ¾ front (~30° left, track-with) drawing closer, soft pink spring morning light — her hero beat.
+**ENVIRONMENT still (the only per-frame ingredient):** the tree path in spring — arching boughs heavy with pink-white blossom (one prominent focal tree), petals drifting, fresh green underfoot, soft pink morning light; low ¾-front vantage (closer), deep perspective. *(Animate `@subject` [layering: cardigan loose, no scarf] walking the path.)*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* FULL, **one continuous low track with her down the path.** [00:00–00:02] she walks the blossom avenue mid-stride, pink-white petals drifting, fresh green underfoot. [00:02–00:04] she lifts an open hand and catches a drifting petal, gazing up into the blossom with a soft wondering smile. [00:04–00:06] she walks on, and as she passes the season begins to turn — first blossom giving way to full green leaves ahead. Real-time, real drifting blossom + natural walking; 9:16.
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact face/identity — animate only gaze + soft expression: a soft, wondering, radiant smile, her hero moment.
+- *Animation:* MEDIUM (closer), **one continuous low track with her down the path.** [00:00–00:02] she walks the blossom avenue mid-stride — her hero moment — pink-white petals drifting, fresh green underfoot. [00:02–00:04] she lifts an open hand and catches a drifting petal, gazing up into the blossom with a soft wondering smile. [00:04–00:06] she walks on past the focal tree, the season beginning to turn toward green ahead. Real-time, real drifting blossom + natural walking; 9:16. (Hero framing — closer, the blossom path behind her.)
 - *AUDIO (in-frame):* ambient/object — a soft spring breeze, blossom petals rustling, birdsong, light footfalls; voice — Aira's soft wondering breath and a gentle "ah" catching a petal.
-**→ Cut (season sweep, match-on-action) to Frame 2 — the same path, now full summer green.**
+**→ Cut (locked-framing season match-cut on the same focal tree) to Frame 2 — the same path and tree, now full summer green.**
 
 ---
 ### FRAME 2 — SUMMER GREEN
 **Frame angle:** full profile (true side, parallel track), bright green-gold summer noon.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, in **full profile**. · Outfit: cream midi + cardigan eased off one shoulder. · Headwear: none. · Accessories: none. · Eye colour: amber-hazel. · Makeup: sun-warm, rose lip. · Hair: long loose half-twist. · Footwear: tan ankle boots. · Nails: soft blush. · static & neutral, plain blank background. *(Layering: cardigan off one shoulder.)*
-**STILL 2 · ENVIRONMENT:** the same tree path in summer — full lush green canopy, dappled bright noon light, wildflowers and tall grass at the edges, warm and vivid; profile vantage.
+**ENVIRONMENT still (the only per-frame ingredient):** the same tree path in summer — the same focal tree now in full lush green canopy, dappled bright noon light, wildflowers and tall grass at the edges, warm and vivid; profile vantage. *(Animate `@subject` [layering: cardigan off one shoulder] strolling the path.)*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* FULL profile, **one continuous parallel track at her pace.** [00:00–00:02] she strolls the lush green path, dappled bright noon light through the full canopy, wildflowers at the edges. [00:02–00:04] she eases her cardigan off one shoulder and brushes the tall grass with her fingers, a relaxed bright smile. [00:04–00:06] she walks on, and as she passes the green begins to warm to gold ahead. Real-time, real dappled light + natural summer walking; 9:16.
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact identity — a relaxed, bright, sunlit smile.
+- *Animation:* FULL profile, **one continuous parallel track at her pace.** [00:00–00:02] she strolls the lush green path, dappled bright noon light through the full canopy, wildflowers at the edges. [00:02–00:04] she eases her cardigan off one shoulder and brushes the tall grass with her fingers, a relaxed bright smile. [00:04–00:06] she walks on past the focal tree, the green beginning to warm to gold ahead. Real-time, real dappled light + natural summer walking; 9:16.
 - *AUDIO (in-frame):* ambient/object — a warm cicada hum, tall grass brushing, a summer breeze, footfalls on warm earth; voice — a relaxed contented hum and a soft laugh from Aira.
-**→ Cut (season sweep) to Frame 3 — the same path, now autumn gold.**
+**→ Cut (locked-framing season match-cut on the same focal tree) to Frame 3 — the same path and tree, now autumn gold.**
 
 ---
-### FRAME 3 — AUTUMN GOLD
+### FRAME 3 — AUTUMN GOLD (magical element · autumn leaf-swirl, used once)
 **Frame angle:** high ¾ looking down the avenue (~45° down, slow descend), warm amber-gold afternoon.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **high ¾ (looking down the avenue)**. · Outfit: cream midi + cardigan with the soft scarf now wrapped on. · Headwear: none. · Accessories: soft scarf wrapped. · Eye colour: amber-hazel. · Makeup: warm autumn, rose lip. · Hair: long loose half-twist. · Footwear: tan ankle boots. · Nails: soft blush. · static & neutral, plain blank background. *(Layering: scarf wrapped on.)*
-**STILL 2 · ENVIRONMENT:** the same tree path in autumn — amber, rust and gold leaves above and a thick leaf-carpet below, leaves falling, warm low gold afternoon light; high-¾ down-the-avenue vantage.
+**ENVIRONMENT still (the only per-frame ingredient):** the same tree path in autumn — the same focal tree in amber, rust and gold, a thick leaf-carpet below, leaves falling, warm low gold afternoon light; high-¾ down-the-avenue vantage. *The concept's single element lands here.* *(Animate `@subject` [layering: scarf wrapped] walking as the leaf-swirl lifts.)*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* FULL, high ¾ looking down the avenue, **one continuous slow descend.** [00:00–00:02] she walks the gold-leaf avenue, amber leaves falling, scuffing lightly through the leaf-carpet. [00:02–00:04] she reaches up and catches a falling leaf, drawing her scarf closer with a warm nostalgic smile. [00:04–00:06] she walks on, and as she passes the gold turns — boughs going bare and first snow settling ahead. Real-time, real falling leaves + natural walking; 9:16.
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact identity — a warm, nostalgic smile.
+- *Animation:* FULL, high ¾ looking down the avenue, **one continuous slow descend.** [00:00–00:02] she walks the gold-leaf avenue, scuffing lightly through the leaf-carpet. [00:02–00:04] the **element** lifts — a swirl of amber-gold leaves spirals up around her on a gust; she reaches up and catches one, drawing her scarf closer with a warm nostalgic smile. [00:04–00:06] she walks on past the focal tree, the gold turning toward bare boughs ahead. Real-time, real autumn leaf-swirl + natural walking; 9:16.
 - *AUDIO (in-frame):* ambient/object — leaves crunching and scuffing underfoot, a gust through dry leaves, a distant crow; voice — a warm nostalgic sigh and a soft "mm" from Aira.
-**→ Cut (season sweep) to Frame 4 — the same path, now deep winter snow.**
+**→ Cut (locked-framing season match-cut on the same focal tree) to Frame 4 — the same path and tree, now deep winter snow.**
 
 ---
-### FRAME 4 — WINTER SNOW (signature beat)
+### FRAME 4 — WINTER SNOW
 **Frame angle:** full profile (true side, parallel track), cool blue winter dusk.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, in **full profile**. · Outfit: cream midi + cardigan bundled, scarf wrapped, cream mittens on. · Headwear: none. · Accessories: scarf + mittens. · Eye colour: amber-hazel. · Makeup: cool-flushed, rose lip. · Hair: long loose half-twist. · Footwear: tan ankle boots. · Nails: soft blush (under mittens). · static & neutral, plain blank background. *(Layering: bundled + mittens.)*
-**STILL 2 · ENVIRONMENT:** the same tree path in winter — bare boughs lined with snow, a white snow-carpet, soft snow falling, cool blue dusk light, warm windows glowing distant; profile vantage.
+**ENVIRONMENT still (the only per-frame ingredient):** the same tree path in winter — the same focal tree's bare boughs lined with snow, a white snow-carpet, soft snow falling, cool blue dusk light, warm windows glowing distant; profile vantage. *(Animate `@subject` [layering: bundled + mittens] walking the snow path.)*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* FULL profile, **one continuous parallel track at her pace.** [00:00–00:02] she walks the snow-lined avenue, soft snow falling, breath misting, the path white underfoot. [00:02–00:04] the signature completes the cycle — the season has swept fully to winter on the same trees; she lifts a mittened palm to catch snowflakes with quiet enchanted peace. [00:04–00:06] she walks on, and as she passes the very first green bud breaks on a bough ahead — spring returning. Real-time, real falling snow + breath-mist + natural walking, no cartoon wipe; 9:16.
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact identity — quiet, enchanted peace.
+- *Animation:* FULL profile, **one continuous parallel track at her pace.** [00:00–00:02] she walks the snow-lined avenue, soft snow falling, breath misting, the path white underfoot. [00:02–00:04] she lifts a mittened palm to catch snowflakes with quiet enchanted peace, the same trees now fully wintered. [00:04–00:06] she walks on past the focal tree, the very first green bud breaking on a bough ahead. Real-time, real falling snow + breath-mist + natural walking, no cartoon wipe; 9:16.
 - *AUDIO (in-frame):* ambient/object — a muffled snowfall hush, snow crunching underfoot, her breath misting, a faint wind; voice — Aira's soft enchanted breath and a quiet "oh" catching a snowflake.
-**→ Cut (season sweep) to Frame 5 — the same path, first bud of spring (loop bridge).**
+**→ Cut (locked-framing season match-cut on the same focal tree) to Frame 5 — the same path and tree, first bud of spring.**
 
 ---
 ### FRAME 5 — FIRST SPRING BUD (loop)
-**Frame angle:** low front (head-on, slight up-tilt), soft first-spring thaw light.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **low front (head-on)**. · Outfit: cream midi + cardigan, scarf loosening, mittens coming off. · Headwear: none. · Accessories: loosened scarf. · Eye colour: amber-hazel. · Makeup: fresh, rose lip. · Hair: long loose half-twist. · Footwear: tan ankle boots. · Nails: soft blush. · static & neutral, plain blank background. *(Layering: scarf loosening.)*
-**STILL 2 · ENVIRONMENT:** the same path at the turn back to spring — bare boughs breaking into first pink buds, last snow melting on warming green, soft first-spring light; low-front vantage.
+**Frame angle:** low front (head-on, slight up-tilt) easing to a crane pull-back, soft first-spring thaw light.
+**ENVIRONMENT still (the only per-frame ingredient):** the same path at the turn back to spring — the same focal tree's bare boughs breaking into first pink buds, last snow melting on warming green, soft first-spring light; low-front vantage opening wide. *(Animate `@subject` [layering: scarf loosening, mittens coming off] slowing on the path.)*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* FULL, **one continuous slow hero push-in then crane pull-back.** [00:00–00:02] she slows on the path, bare boughs breaking into first pink buds, last snow melting on warming green. [00:02–00:04] she reaches and gently touches a first bud, loosening her scarf, a slow warm dawning smile of renewal. [00:04–00:06] the camera cranes back to reveal the whole path waking to spring around her — easing toward the full blossom of the opening for a loop. Real-time, real thaw + budding, no cartoon wipe; 9:16.
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact identity — a slow, warm, dawning smile of renewal.
+- *Animation:* FULL, **one continuous slow push-in easing into a crane pull-back.** [00:00–00:02] she slows on the path, the focal tree's bare boughs breaking into first pink buds, last snow melting on warming green. [00:02–00:04] she reaches and gently touches a first bud, loosening her scarf, a slow warm dawning smile of renewal. [00:04–00:06] the camera cranes back to reveal the whole path waking to spring around her — easing toward the full blossom of the opening for a loop. Real-time, real thaw + budding, no cartoon wipe; 9:16. (Crane-out — the path opening around her.)
 - *AUDIO (in-frame):* ambient/object — dripping melt, a soft thaw-breeze, the first birdsong returning; voice — Aira's hopeful soft breath and a gentle dawning "ah".
 **→ Loops back to Frame 1 (full spring blossom).**
 
-**Stills to generate:** 2 per frame × 5 frames = 10 (Subject + Environment; the SAME path re-skinned per season). Score = 30s MASTER AUDIO under the diegetic.
+**Stills to generate:** **`@subject` (1, base look — layering noted per frame) + 5 ENVIRONMENT stills = 6 total** — prop-less seasonal-reskin, no `@object`; subject rendered once and reused (only its layering adjusts per season); only the environment (the SAME path re-skinned) + video prompt change per frame. ONE path re-skinned through the seasons (spring → summer → autumn → winter → first bud); autumn-leaf-swirl element in Frame 3 only; locked-framing season match-cut on the same focal tree at the cuts; hero beat in Frame 1. Score = 30s MASTER AUDIO under the diegetic.
 
 ═══════════════════════════════════════════════════════════════════════════════
 
