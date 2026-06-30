@@ -1162,12 +1162,11 @@ piano/woodwind shifting colour per season, warm sub, celesta shimmer, soft strin
 
 ═══════════════════════════════════════════════════════════════════════════════
 
-# SC-18 · PORTAL STEPS (Arches) · 3 shots × 6s · *(prop-less — 2 stills per frame: Subject + Environment[arch + world-beyond])*
-**Logline:** A walk through doorways between worlds — the subject steps through a glowing flower arch into a coral
-reef-world, through a reef arch into a sunset desert-world, through a desert arch into a neon city-world, each
-threshold swapping the entire world in one stride. Signature: a threshold world-swap bloom (the world dissolves
-and rebuilds into the next as she crosses each arch). Bold, surreal, kinetic.
-**Arc:** FLOWER ARCH → REEF WORLD · REEF ARCH → DESERT WORLD · DESERT ARCH → NEON CITY WORLD.
+# SC-18 · PORTAL STEPS (Arches) · 3 shots × 6s · *(prop-less PORTAL exception — `@subject` once + ENVIRONMENT stills (arch + world-beyond), no `@object`; worlds beyond each arch)*
+**Logline:** A walk through doorways between worlds — she steps through a glowing flower arch into a coral
+reef-world, a reef arch into a sunset desert-world, a desert arch into a neon city-world, each threshold swapping
+the whole world in one stride. A portal-walk; a full light change each frame. Bold, surreal, kinetic.
+**Arc (portal exception — worlds beyond each arch):** FLOWER ARCH → REEF (hero) · REEF ARCH → DESERT (element) · DESERT ARCH → NEON CITY (loop).
 
 ## MASTER AUDIO (outside the frames — background music)
 An 18-second custom cinematic score (3 clips × 6s) in self-resolving ~6-second phrases, trimmable at any phrase
@@ -1177,47 +1176,46 @@ the reef-to-desert swaps, then a triumphant peak into the neon city, resolving f
 the diegetic — no spoken line; optional wordless vocal stab on a world-swap only. Layered: synth motif, warm sub,
 driving percussion, a key-tuned swell on each world-swap.
 
-## GLOBAL STYLE LOCKS
-- **Outfit:** a structured cobalt-blue mini-dress with a magenta panel and a citron belt — clean, graphic, premium.
-- **Headwear:** none. **Accessories:** a single sculptural gold cuff. **Eye colour:** warm amber-hazel. **Makeup:** bold clean editorial — luminous skin, a graphic glossy lip (soft berry), defined eyes, neat brows. **Hair:** a sleek sharp **geometric bob** with a blunt fringe, glassy. **Footwear:** white knee boots. **Nails:** short glossy magenta.
-- **Hero object:** none carried (the arches are part of each world) → each frame uses 2 stills (Subject + Environment = the arch + the world beyond it).
-- **Signature (grounded):** at each arch the far side is a different world; as she crosses, the world dissolves into light and rebuilds into the next — a clean believable dissolve-through-the-arch, premium and dreamy, no cheap cartoon VFX.
-- **Journey + light:** warm flower-gold → aqua reef-blue → amber desert-sunset → electric city-neon (a full light change each frame). *Footing: confident planted strides through each threshold.*
+## INGREDIENTS + LOCKS (generate `@subject` ONCE — reuse it every frame; prop-less, no `@object`)
+- **`@subject` — render ONCE, reuse every frame** (neutral, full body, plain blank bg): `Aira [identity placeholder]` styled as — **Outfit:** a structured cobalt-blue mini-dress with a magenta panel and a citron belt — clean, graphic, premium · **Hair:** a sleek sharp geometric bob with a blunt fringe, glassy · **Accessories:** a single sculptural gold cuff · **Eye colour:** warm amber-hazel · **Makeup:** bold clean editorial — luminous skin, a graphic glossy lip (soft berry), defined eyes, neat brows · **Footwear:** white knee boots · **Nails:** short glossy magenta.
+- **No `@object`** — the arches belong to each world. Each frame uses only the ENVIRONMENT still (the arch + the world beyond it).
+- **THE PLACE (PORTAL exception — worlds beyond each arch):** unlike the other concepts, this one deliberately swaps worlds — a warm flower garden, a coral reef-world, a sunset desert-world, and a neon city-world — each revealed through and rebuilt across an arch as she strides through; a full light change each frame (flower-gold → reef-blue → desert-amber → city-neon). She **walks through the portals** across the three frames. *Footing: confident planted strides through each threshold.*
+- **MAGICAL ELEMENT (used ONCE — Frame 2; written into that frame's VIDEO PROMPT):** at the reef→desert threshold a refracted spectrum bursts across the arch as she crosses — light splitting into a clean prism spray (real refraction, premium and dreamy, no cheap cartoon VFX). The world-swap dissolve is the concept premise; the distinct element flourish is this spectrum threshold-burst in Frame 2.
+- **TRICK SHOT (×1, plus the world match-cut — emphasised at Frames 1 & 3, never the element frame's beat):** **arch frame-within-frame push-through** (the arch frames her, the camera pushes through it) **+ world match-cut** (the far world rebuilds in the same framing as she crosses) — highlighted at the flower arch (F1) and the desert arch (F3).
+- **HERO FRAME (Frame 1):** she reads clearly as the hero at the flower arch (closer low-hero, bold curious push through the threshold). The other frames keep each world present — room on the sides, top and bottom.
+- **Footing:** she strides — confident planted walking through each threshold.
 
 ---
-### FRAME 1 — FLOWER ARCH → REEF WORLD (signature)
-**Frame angle:** low-hero ¾ front (~30°, push through the arch), warm gold into aqua reef-blue.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **low-hero ¾ front (~30°)**. · Outfit: cobalt mini + magenta panel + citron belt. · Headwear: none. · Accessories: gold cuff. · Eye colour: amber-hazel. · Makeup: bold editorial, berry lip. · Hair: sleek geometric bob + fringe. · Footwear: white knee boots. · Nails: glossy magenta. · static & neutral, plain blank background.
-**STILL 2 · ENVIRONMENT:** a glowing arch wound with flowers in a warm golden garden, and beyond it an underwater coral reef-world (corals, blue water-light, fish, caustics) revealed through the arch; low-hero ¾-front vantage toward the arch.
+### FRAME 1 — FLOWER ARCH → REEF WORLD (HERO frame · trick: arch frame-within-frame push-through)
+**Frame angle:** low-hero ¾ front (~30°, push through the arch, closer), warm gold into aqua reef-blue — her hero beat.
+**ENVIRONMENT still (the only per-frame ingredient):** a glowing arch wound with flowers in a warm golden garden, and beyond it an underwater coral reef-world (corals, blue water-light, fish, caustics) revealed through the arch; low-hero ¾-front vantage framed by the arch (closer). *(Animate `@subject` striding through, the arch framing her.)*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* FULL low-hero, **one continuous push through the arch.** [00:00–00:02] she strides toward the glowing flower arch in the warm golden garden, reaching to touch the threshold. [00:02–00:04] the signature blooms — as she crosses, the world dissolves into light and rebuilds into a coral reef-world, blue water-light and caustics washing over her, fish scattering. [00:04–00:06] she walks on into the reef-world toward a coral archway ahead. Real-time, clean believable dissolve-through-the-arch, no cheap cartoon VFX; 9:16.
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact face/identity — animate only gaze + soft expression: a bold, curious, radiant push of wonder, her hero moment.
+- *Animation:* FULL low-hero, **one continuous push through the arch — the arch frame-within-frame trick + world match-cut.** [00:00–00:02] the flower arch frames her as she strides toward it in the warm golden garden, reaching to touch the threshold — her hero moment. [00:02–00:04] she crosses and the world match-cuts — the garden dissolves into light and rebuilds in the same framing into a coral reef-world, blue water-light and caustics washing over her, fish scattering. [00:04–00:06] she walks on into the reef-world toward a coral archway ahead. Real-time, clean believable dissolve-through-the-arch, no cheap cartoon VFX; 9:16. (Hero framing — closer, the arch around her.)
 - *AUDIO (in-frame):* ambient/object — a warm garden hush, then a swelling water-rush and caustic shimmer as the reef-world washes in, fish darting; voice — Aira's bold curious breath and a soft "woah" as it blooms.
-**→ Cut (match-on-action) to Frame 2 — she reaches the coral arch into a desert-world.**
+**→ Cut (world match-cut) to Frame 2 — she reaches the coral arch into a desert-world (the spectrum threshold-burst element).**
 
 ---
-### FRAME 2 — REEF ARCH → DESERT WORLD (signature)
+### FRAME 2 — REEF ARCH → DESERT WORLD (magical element · refracted spectrum threshold-burst, used once)
 **Frame angle:** full profile (true side, push through), aqua blue into amber sunset.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, in **full profile**. · Outfit: cobalt mini + magenta panel + citron belt. · Headwear: none. · Accessories: gold cuff. · Eye colour: amber-hazel. · Makeup: bold editorial, berry lip. · Hair: sleek geometric bob + fringe. · Footwear: white knee boots. · Nails: glossy magenta. · static & neutral, plain blank background.
-**STILL 2 · ENVIRONMENT:** a coral archway in the blue reef-world, and beyond it a warm sunset desert-world (golden dunes, long shadows, amber sky) revealed through the arch; profile vantage through the arch.
+**ENVIRONMENT still (the only per-frame ingredient):** a coral archway in the blue reef-world, and beyond it a warm sunset desert-world (golden dunes, long shadows, amber sky) revealed through the arch; profile vantage through the arch. *The concept's single element flourish lands here.* *(Animate `@subject` crossing as the spectrum bursts across the arch.)*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* FULL profile, **one continuous push through the arch (parallel track).** [00:00–00:02] she strides toward the coral archway in the blue reef-world, trailing her hand along it. [00:02–00:04] the signature blooms — as she crosses, the reef dissolves into light and rebuilds into a sunset desert-world, golden dunes and amber sky washing warm over her. [00:04–00:06] she walks on across the warm sand toward a sandstone archway ahead. Real-time, clean believable dissolve-through-the-arch; 9:16.
-- *AUDIO (in-frame):* ambient/object — a muffled underwater tone giving way to a warm desert wind and sand hiss as the world swaps; voice — a delighted bright "woah!" and a quick laugh from Aira.
-**→ Cut (match-on-action) to Frame 3 — she reaches the sandstone arch into a neon city-world.**
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact identity — a delighted bright wonder.
+- *Animation:* FULL profile, **one continuous push through the arch (parallel track).** [00:00–00:02] she strides toward the coral archway in the blue reef-world, trailing her hand along it. [00:02–00:04] the **element** bursts — as she crosses, light refracts across the threshold into a clean prism spectrum spray, and beyond it the world rebuilds into a sunset desert-world, golden dunes and amber sky washing warm over her. [00:04–00:06] she walks on across the warm sand toward a sandstone archway ahead, the spectrum fading. Real-time, real refraction + clean dissolve-through-the-arch, no cheap cartoon VFX; 9:16.
+- *AUDIO (in-frame):* ambient/object — a muffled underwater tone giving way to a warm desert wind and sand hiss as the world swaps, a soft chime as the spectrum splits; voice — a delighted bright "woah!" and a quick laugh from Aira.
+**→ Cut (world match-cut) to Frame 3 — she reaches the sandstone arch into a neon city-world.**
 
 ---
-### FRAME 3 — DESERT ARCH → NEON CITY WORLD (signature · loop)
+### FRAME 3 — DESERT ARCH → NEON CITY WORLD (trick: arch frame-within-frame push-through · loop)
 **Frame angle:** low 3/4 hero (push through then crane pull-back), amber dusk into electric neon.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **low 3/4 hero**. · Outfit: cobalt mini + magenta panel + citron belt. · Headwear: none. · Accessories: gold cuff. · Eye colour: amber-hazel. · Makeup: bold editorial, berry lip. · Hair: sleek geometric bob + fringe. · Footwear: white knee boots. · Nails: glossy magenta. · static & neutral, plain blank background.
-**STILL 2 · ENVIRONMENT:** a sandstone archway in the desert at dusk, and beyond it an electric neon city-world (rain-wet streets, neon signs, glowing colour) revealed through the arch, then opening wide; low 3/4 hero vantage.
+**ENVIRONMENT still (the only per-frame ingredient):** a sandstone archway in the desert at dusk, and beyond it an electric neon city-world (rain-wet streets, neon signs, glowing colour) revealed through the arch, then opening wide; low 3/4 hero vantage framed by the arch. *(Animate `@subject` striding through, the arch framing her, then the city opening.)*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* FULL low 3/4 hero, **one continuous push through the arch then a crane pull-back.** [00:00–00:02] she strides toward the sandstone archway at desert dusk, the city glow flickering beyond. [00:02–00:04] the signature blooms — as she crosses, the desert dissolves into light and rebuilds into a neon city-world, glowing colour and rain-wet reflections washing over her. [00:04–00:06] she steps onto the neon street and the camera cranes back to reveal the electric city, a soft glance to lens — easing toward the warm flower-garden of the opening for a loop. Real-time, clean believable dissolve-through-the-arch; 9:16.
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact identity — triumphant delight softening to a glance at lens.
+- *Animation:* FULL low 3/4 hero, **one continuous push through the arch then a crane pull-back — the arch frame-within-frame trick + world match-cut.** [00:00–00:02] the sandstone arch frames her as she strides toward it at desert dusk, the city glow flickering beyond. [00:02–00:04] she crosses and the world match-cuts — the desert dissolves into light and rebuilds in the same framing into a neon city-world, glowing colour and rain-wet reflections washing over her. [00:04–00:06] she steps onto the neon street and the camera cranes back to reveal the electric city around her, a soft glance to lens — easing toward the warm flower-garden of the opening for a loop. Real-time, clean believable dissolve-through-the-arch; 9:16. (Crane-out — the neon city around her.)
 - *AUDIO (in-frame):* ambient/object — desert-dusk wind giving way to a neon city hum, rain-wet street sizzle, distant traffic; voice — Aira's triumphant "yeah!" then a soft breath to lens.
 **→ Loops back to Frame 1 (the flower arch).**
 
-**Stills to generate:** 2 per frame × 3 frames = 6 (Subject + Environment[arch + world-beyond]; no carried object). Score = 18s MASTER AUDIO under the diegetic.
+**Stills to generate:** **`@subject` (1) + 3 ENVIRONMENT stills (each = an arch + the world beyond) = 4 total** — prop-less portal exception, no `@object`; subject rendered once and reused; only the environment (arch + world-beyond) + video prompt change per frame. A portal-walk through worlds (flower → reef → desert → neon city); refracted-spectrum threshold-burst element in Frame 2 only; arch frame-within-frame push-through + world match-cut trick at Frames 1 & 3; hero beat in Frame 1. Score = 18s MASTER AUDIO under the diegetic.
 
 
 ═══════════════════════════════════════════════════════════════════════════════
