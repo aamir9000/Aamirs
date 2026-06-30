@@ -393,11 +393,11 @@ invisible loop. Laid UNDER the diegetic — no spoken line; optional wordless la
 
 ═══════════════════════════════════════════════════════════════════════════════
 
-# SC-07 · ROOFTOP RUN (Parkour) · 4 shots × 6s · *(prop-less — 2 stills per frame: Subject + Environment)*
-**Logline:** A powerful high-noon free-run across the city tops — rooftop garden → laundry maze → water-tank deck
-→ a soaring gap-leap to the skyline. Signature: a burst of pigeons + snapping flags & laundry + hard clean light.
+# SC-07 · ROOFTOP RUN (Parkour) · 4 shots × 6s · *(prop-less — `@subject` once + ENVIRONMENT stills, no `@object`)*
+**Logline:** A powerful high-noon free-run across one city's rooftops — a rooftop garden, a laundry maze, a
+water-tank deck, the soaring edge-leap to the skyline. One rooftop world, run across; hard high-noon throughout.
 Athletic, bold, kinetic.
-**Arc:** ROOFTOP GARDEN → LAUNDRY MAZE → WATER-TANK DECK → EDGE LEAP (signature).
+**Arc (one place, travelled through):** ROOFTOP GARDEN (element) → LAUNDRY MAZE (trick) → WATER-TANK DECK (hero) → EDGE LEAP (trick).
 
 ## MASTER AUDIO (outside the frames — background music)
 A 24-second custom cinematic score (4 clips × 6s) in self-resolving ~6-second phrases, trimmable at any phrase
@@ -408,58 +408,56 @@ water-tank deck, then a triumphant heroic peak on the edge-leap, resolving for a
 diegetic — no spoken line; optional wordless vocal stab on the leap only. Layered: brass/synth motif, warm sub,
 driving percussion riding her stride, impacts reserved for the leap.
 
-## GLOBAL STYLE LOCKS
-- **Outfit:** a coral cropped sports top + matching high-waist electric-blue leggings, a cropped white windbreaker worn open.
-- **Headwear:** none. **Accessories:** a slim sports watch. **Eye colour:** warm amber-hazel. **Makeup:** fresh athletic glow — dewy skin, clean brows, tinted lip, sun-kissed. **Hair:** a sleek slicked **high ponytail** (tight, athletic), no flyaways. **Footwear:** white chunky trainers. **Nails:** short bright.
-- **Hero object:** none (free-running; the city is the apparatus) → each frame uses 2 stills (Subject + Environment).
-- **Signature (grounded):** with each push/leap a burst of pigeons takes flight, flags and hanging laundry snap in her draft, hard clean light flares; peaks on the gap-leap. Real birds + cloth physics.
-- **Journey + light:** hard high-noon city throughout — crisp overhead sun, sharp shadows, hot bright concrete; the worlds climb across the skyline.
+## INGREDIENTS + LOCKS (generate `@subject` ONCE — reuse it in every frame; prop-less, no `@object`)
+- **`@subject` — render ONCE, reuse every frame** (neutral, full body, plain blank bg): `Aira [identity placeholder]` styled as — **Outfit:** coral cropped sports top + matching high-waist electric-blue leggings + a cropped white windbreaker worn open · **Hair:** sleek slicked high ponytail (tight, athletic), no flyaways · **Accessories:** a slim sports watch · **Eye colour:** warm amber-hazel · **Makeup:** fresh athletic glow — dewy skin, clean brows, tinted lip, sun-kissed · **Footwear:** white chunky trainers · **Nails:** short bright.
+- **No `@object`** — free-running; the city is the apparatus. Each frame uses only the ENVIRONMENT still.
+- **THE PLACE (ONE rooftop world, run ACROSS):** a single block of connected city rooftops — a lush rooftop garden, a maze of drying laundry, a steel water-tank deck, and the edge-gap to the skyline; hard crisp high-noon throughout, the rooftops climbing across the skyline. She **runs across it** through the four frames, so each ENVIRONMENT still is the next rooftop at its own angle.
+- **MAGICAL ELEMENT (used ONCE — Frame 1; written into that frame's VIDEO PROMPT):** in the rooftop garden her vaulting push sends a full burst of pigeons exploding into flight, wings clattering up into the hard light (real birds, no cartoon sparkle). No other frame carries an element.
+- **TRICK SHOTS (×2 — Frames 2 & 4, never the element's frame; each written into its frame's VIDEO PROMPT):** Frame 2 = **subject-POV** first-person through the snapping laundry; Frame 4 = **side-profile leap-arc** shot low across the gap (the leap silhouetted against the skyline).
+- **HERO FRAME (Frame 3):** she reads clearly as the hero on the water-tank deck (closer, fierce-focused, skyline opening behind). Every other frame keeps her with the rooftops present — room on the sides, top and bottom.
+- **Footing:** she free-runs — explosive real sprint, vault, climb and leap weight + impact.
 
 ---
-### FRAME 1 — ROOFTOP GARDEN
+### FRAME 1 — ROOFTOP GARDEN (magical element · pigeon-burst flock, used once)
 **Frame angle:** low-hero ¾ front (~30° left, low), hard high-noon, sharp shadows.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **low ¾ front (~30° left)**. · Outfit: coral crop top + electric-blue leggings + open white windbreaker. · Headwear: none. · Accessories: slim sports watch. · Eye colour: amber-hazel. · Makeup: dewy athletic, tinted lip. · Hair: sleek slicked high ponytail. · Footwear: white chunky trainers. · Nails: bright. · static & neutral, plain blank background, hard top-light.
-**STILL 2 · ENVIRONMENT:** a lush rooftop garden — planters, climbing vines, water tanks beyond, sharp midday shadows, the city skyline behind; low ¾-front vantage, hard noon light.
+**ENVIRONMENT still (the only per-frame ingredient):** a lush rooftop garden — planters, climbing vines, water tanks beyond, sharp midday shadows, the city skyline behind; low ¾-front vantage, hard noon light. *The concept's single element lands here.* *(Animate `@subject` sprinting and vaulting through it.)*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* MEDIUM low-hero, **one continuous hard push tracking with her.** [00:00–00:02] she sprints through the rooftop garden, arms pumping, vaulting a low planter with a clean push of her hand. [00:02–00:04] her push sends a burst of pigeons up off the planters, wings clattering, as she lands and drives on. [00:04–00:06] she accelerates toward a row of hanging laundry, eyes pinned on her line. Real-time, believable sprint + vault, real pigeon flight; 9:16.
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact face/identity — animate only gaze + soft expression: a fierce, focused intensity.
+- *Animation:* MEDIUM low-hero, **one continuous hard push tracking with her.** [00:00–00:02] she sprints through the rooftop garden, arms pumping, vaulting a low planter with a clean push of her hand. [00:02–00:04] the **element** erupts — her push sends a full burst of pigeons exploding up off the planters, wings clattering, as she lands and drives on. [00:04–00:06] she accelerates toward a row of hanging laundry, eyes pinned on her line. Real-time, believable sprint + vault, real pigeon flight; 9:16.
 - *AUDIO (in-frame):* ambient/object — pounding trainers on concrete, a vault hand-slap, pigeons clattering up, wind over the rooftops; voice — Aira's hard focused breaths and a sharp "hah!" on the vault.
-**→ Cut (match-on-action) to Frame 2 — she dives into the maze of drying laundry.**
+**→ Cut (match-on-action) to Frame 2 — she dives into the maze of drying laundry (the subject-POV trick).**
 
 ---
-### FRAME 2 — LAUNDRY MAZE
-**Frame angle:** ¾ rear / over-the-shoulder (~30° behind), blazing sun-through-cloth.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **¾ rear over the shoulder**. · Outfit: coral crop + blue leggings + open windbreaker. · Headwear: none. · Accessories: sports watch. · Eye colour: amber-hazel. · Makeup: dewy athletic. · Hair: sleek high ponytail. · Footwear: white trainers. · Nails: bright. · static & neutral, plain blank background.
-**STILL 2 · ENVIRONMENT:** a dense maze of clotheslines — bright sheets and saris snapping in the wind between rooftops, sun blazing through the cloth, hot light; ¾-rear vantage into the maze.
+### FRAME 2 — LAUNDRY MAZE (trick shot · subject-POV)
+**Frame angle:** **first-person subject-POV** (her eyeline plunging through the cloth), blazing sun-through-cloth.
+**ENVIRONMENT still (the only per-frame ingredient):** a dense maze of clotheslines seen from her POV — bright sheets and saris snapping toward the lens between rooftops, sun blazing through the cloth, hot light; first-person down-the-gap vantage. *(Animate her reaching hands/forearms entering frame to sweep the cloth aside — `@subject` seen as POV hands.)*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* over-the-shoulder from behind, **one continuous track close behind her through the cloth.** [00:00–00:02] she sweeps a snapping sheet aside with her right arm and ducks through a gap, sun blazing through the bright cloth. [00:02–00:04] she cuts left and right between the lines, sheets and saris snapping in her draft, a flash of a grin. [00:04–00:06] she bursts out the far side onto open rooftop toward the water tanks. Real-time, real snapping-cloth physics + agile footwork; 9:16.
-- *AUDIO (in-frame):* ambient/object — sheets snapping and whipping, quick footfalls, her breaths, lines twanging; voice — a sharp playful "hah!" and a quick laugh as the cloth whips past.
-**→ Cut (match-on-action) to Frame 3 — she bounds up onto the water-tank deck.**
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact identity — (POV: her breathy laugh heard, a flash of her face caught in a reflective window).
+- *Animation:* **subject-POV first-person**, **one continuous plunge through the snapping cloth — the POV trick.** [00:00–00:02] from her eyeline a snapping sheet rushes the lens; her right hand sweeps into frame and bats it aside, sun blazing through the bright cloth. [00:02–00:04] the POV cuts left and right between the lines, sheets and saris whipping past the lens in her draft. [00:04–00:06] the cloth parts and the open rooftop and water tanks burst into view ahead. Real-time, real snapping-cloth physics + agile POV; 9:16.
+- *AUDIO (in-frame):* ambient/object — sheets snapping and whipping close, quick footfalls, her breaths, lines twanging; voice — a sharp playful "hah!" and a quick laugh as the cloth whips past.
+**→ Cut (match-on-action) to Frame 3 — she bounds up onto the water-tank deck (her hero beat).**
 
 ---
-### FRAME 3 — WATER-TANK DECK
-**Frame angle:** low wide ¾ (~45° front-low), hot steel + skyline, hard noon.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **low wide ¾ (~45° front)**. · Outfit: coral crop + blue leggings + open windbreaker. · Headwear: none. · Accessories: sports watch. · Eye colour: amber-hazel. · Makeup: dewy athletic. · Hair: sleek high ponytail. · Footwear: white trainers. · Nails: bright. · static & neutral, plain blank background.
-**STILL 2 · ENVIRONMENT:** a raised steel water-tank deck — rivets, ladders, taut flags on a line, the skyline opening wide behind, hot steel glare; low wide ¾ vantage.
+### FRAME 3 — WATER-TANK DECK (HERO frame)
+**Frame angle:** low-hero wide ¾ (~45° front-low) drawing closer, hot steel + skyline, hard noon — her hero beat.
+**ENVIRONMENT still (the only per-frame ingredient):** a raised steel water-tank deck — rivets, ladders, taut flags on a line, the skyline opening wide behind, hot steel glare; low wide ¾ vantage (closer). *(Animate `@subject` hauling up onto the deck and surging across.)*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* FULL low wide, **one continuous whip-pan following her across the deck.** [00:00–00:02] she hauls up a ladder rail onto the steel deck with her right hand and surges into a run across it. [00:02–00:04] taut flags snap hard in her draft and a few pigeons scatter off the tanks as she powers toward the edge, eyes locked on it. [00:04–00:06] she gathers her stride and loads for the leap at the deck's far edge, the skyline gap opening ahead. Real-time, believable climb + run, real snapping flags; 9:16.
-- *AUDIO (in-frame):* ambient/object — feet pounding hollow steel, a ladder clang, flags snapping taut, pigeons scattering; voice — Aira's driving breaths and a determined grunt.
-**→ Cut (match-on-action) to Frame 4 — she launches off the edge into the gap-leap.**
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact identity — a fierce, determined hero focus.
+- *Animation:* FULL low-hero (closer), **one continuous whip-pan settling on her across the deck.** [00:00–00:02] she hauls up a ladder rail onto the steel deck with her right hand and surges into a run across it — her hero moment, skyline blazing behind. [00:02–00:04] taut flags snap hard in her draft as she powers toward the edge, eyes locked on it, jaw set. [00:04–00:06] she gathers her stride and loads for the leap at the deck's far edge, the skyline gap opening ahead. Real-time, believable climb + run, real snapping flags; 9:16. (Hero framing — closer, the skyline behind her.)
+- *AUDIO (in-frame):* ambient/object — feet pounding hollow steel, a ladder clang, flags snapping taut; voice — Aira's driving breaths and a determined grunt.
+**→ Cut (match-on-action) to Frame 4 — she launches off the edge into the gap-leap (the leap-arc trick).**
 
 ---
-### FRAME 4 — EDGE LEAP (signature · loop)
-**Frame angle:** side profile, low (the leap silhouetted against the sky), blazing high-noon skyline.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, in **low side profile**. · Outfit: coral crop + blue leggings + open windbreaker. · Headwear: none. · Accessories: sports watch. · Eye colour: amber-hazel. · Makeup: dewy athletic. · Hair: sleek high ponytail. · Footwear: white trainers. · Nails: bright. · static & neutral, plain blank background.
-**STILL 2 · ENVIRONMENT:** the gap between two rooftops over the street far below — the full city skyline blazing behind, blue sky, taut flags; low side-profile vantage across the gap.
+### FRAME 4 — EDGE LEAP (trick shot · side-profile leap-arc · loop)
+**Frame angle:** **low side profile** across the gap (the leap silhouetted against the sky), blazing high-noon skyline.
+**ENVIRONMENT still (the only per-frame ingredient):** the gap between two rooftops over the street far below — the full city skyline blazing behind, blue sky, taut flags; low side-profile vantage across the gap. *(Animate `@subject` launching into a flying arc across the gap.)*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* MEDIUM side profile, low, **one continuous arc with her leap.** [00:00–00:02] she launches off the edge into a committed flying arc over the gap, lead arm reaching, the skyline blazing behind. [00:02–00:04] the signature peaks — a full burst of pigeons explodes into flight around her and flags snap hard in her wake, hard clean light flaring, body fully extended at the leap's apex. [00:04–00:06] she lands on the far roof in a controlled crouch and rises with a triumphant grin to lens — easing toward a ready stance to loop. Real-time, believable leap arc, landing impact + real pigeon flight; 9:16.
-- *AUDIO (in-frame):* ambient/object — a launch whoosh, wind rush, a full pigeon-burst of clattering wings, the landing thud on gravel; voice — Aira's fierce "yah!" at launch, then a triumphant "yes!" / whoop on landing.
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact identity — fierce commitment breaking into a triumphant grin on landing.
+- *Animation:* MEDIUM **low side profile**, **one continuous arc tracking her leap across the gap — the leap-arc trick.** [00:00–00:02] she launches off the edge into a committed flying arc over the gap, lead arm reaching, the skyline blazing behind, flags snapping in her wake. [00:02–00:04] body fully extended at the leap's apex, silhouetted against the blue sky, hard clean light flaring along her line. [00:04–00:06] she lands on the far roof in a controlled crouch and rises with a triumphant grin to lens — easing toward a ready stance to loop. Real-time, believable leap arc + landing impact; 9:16.
+- *AUDIO (in-frame):* ambient/object — a launch whoosh, wind rush, the landing thud on gravel, flags snapping; voice — Aira's fierce "yah!" at launch, then a triumphant "yes!" / whoop on landing.
 **→ Loops back to Frame 1 (the rooftop garden sprint).**
 
-**Stills to generate:** 2 per frame × 4 frames = 8 (Subject + Environment; no hero object this concept). Score = 24s MASTER AUDIO under the diegetic.
+**Stills to generate:** **`@subject` (1) + 4 ENVIRONMENT stills = 5 total** — prop-less, no `@object`; subject rendered once and reused; only environment + video prompt change per frame. ONE rooftop world run across (garden → laundry maze → tank deck → edge leap); pigeon-burst element in Frame 1 only; trick shots in Frames 2 (subject-POV) & 4 (side-profile leap-arc); hero beat in Frame 3. Score = 24s MASTER AUDIO under the diegetic.
 
 
 ═══════════════════════════════════════════════════════════════════════════════
