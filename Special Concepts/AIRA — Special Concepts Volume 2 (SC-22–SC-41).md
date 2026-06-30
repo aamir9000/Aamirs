@@ -493,10 +493,10 @@ the diegetic — no spoken line; optional wordless bright vocal on the seafront 
 ═══════════════════════════════════════════════════════════════════════════════
 
 # SC-29 · DUNE CARAVAN (Camel) · 4 shots × 6s
-**Logline:** A golden-hour desert ride — over rolling golden dunes → into a palm oasis → through a desert market →
-to a glowing sunset city gate. Signature: a golden sand-veil lifting + her silk scarf streaming + warm light-motes.
+**Logline:** A golden-hour desert ride through one desert realm — over rolling dunes, into a palm oasis, through a
+bustling market, up to a glowing sunset city gate. One desert, travelled through; golden deepening to fiery sunset.
 Romantic, opulent, cinematic.
-**Arc:** GOLDEN DUNES → PALM OASIS → DESERT MARKET → SUNSET CITY GATE (signature).
+**Arc (one place, travelled through):** GOLDEN DUNES (element) → PALM OASIS (trick) → DESERT MARKET (hero) → SUNSET CITY GATE (trick · loop).
 
 ## MASTER AUDIO (outside the frames — background music)
 A 24-second custom cinematic score (4 clips × 6s) in self-resolving ~6-second phrases, trimmable at any phrase
@@ -505,62 +505,56 @@ opulent, cinematic. Opens (no fade-in) on a warm oud figure. Arc: a sweeping dun
 lively market lift, then a golden sunset-gate resolve for an invisible loop. Laid UNDER the diegetic — no spoken
 line; optional wordless warm vocal on the sunset gate only.
 
-## GLOBAL STYLE LOCKS
-- **Outfit:** a flowing terracotta-and-gold boho-luxe maxi dress with fine embroidery, a streaming silk scarf.
-- **Headwear:** a softly draped silk turban in gold-terracotta. **Accessories:** layered coin necklaces, gold bangles and drop earrings. **Eye colour:** warm amber-hazel. **Makeup:** warm golden glam — luminous bronzed skin, a soft smoky-bronze eye, a terracotta lip. **Hair:** 1920s finger-waves visible at the temples under the turban. **Footwear:** gold leather flat sandals. **Nails:** warm bronze.
-- **Hero object:** a tall pale camel with a tasselled saddle-blanket, brass bells and a woven bridle.
-- **Signature (grounded):** a fine golden sand-veil lifts and drifts off the dune crests, her silk scarf streams behind, and warm light-motes hang in the low sun. Real sand + cloth + light physics.
-- **Journey + light:** golden desert deepening to sunset — blazing golden dunes → cool green oasis shade → warm bustling market → fiery sunset city gate. *Footing: she rides high on the camel — graceful seated sway, real camel gait.*
+## INGREDIENTS + LOCKS (generate `@subject` & `@object` ONCE — reuse them in every frame)
+- **`@subject` — render ONCE, reuse every frame** (neutral, full body, plain blank bg): `Aira [identity placeholder]` styled as — **Outfit:** flowing terracotta-and-gold boho-luxe maxi dress with fine embroidery + a streaming silk scarf · **Headwear:** softly draped gold-terracotta silk turban · **Accessories:** layered coin necklaces, gold bangles, drop earrings · **Eye colour:** warm amber-hazel · **Makeup:** warm golden glam, bronzed skin, smoky-bronze eye, terracotta lip · **Hair:** 1920s finger-waves at the temples under the turban · **Footwear:** gold leather flat sandals · **Nails:** warm bronze.
+- **`@object` — render ONCE, reuse every frame** (plain blank bg): a tall pale camel with a tasselled saddle-blanket, brass bells and a woven bridle.
+- **THE PLACE (ONE desert realm, travelled THROUGH):** a single golden desert world — vast rolling dunes, a lush palm oasis, a bustling market lane, and a grand sandstone city gate; golden light **deepening to fiery sunset** as she nears the city. She **rides through it** across the four frames, so each ENVIRONMENT still is the next part of the same desert at its own angle. (Her silk scarf streaming + warm light-motes are her own natural detail.)
+- **MAGICAL ELEMENT (used ONCE — Frame 1 only):** a fine **golden sand-veil** lifts and drifts off the dune crests in the low sun (real sand + air physics). No other frame carries an element.
+- **TRICK SHOTS (×2 — Frames 2 & 4, never the element's frame):** Frame 2 = **palm frame-within-frame** (she framed through arching palm fronds in the oasis); Frame 4 = **silhouette-into-light** (she + camel a silhouette against the fiery gate, then warm lantern-light resolves her).
+- **HERO FRAME (Frame 3):** she reads clearly as the hero riding through the warm market (closer, gracious, glowing). Every other frame keeps her small with the desert dominant — room on the sides, top and bottom.
+- **Footing:** she rides high on the camel — graceful seated sway, real camel gait.
 
 ---
-### FRAME 1 — GOLDEN DUNES
-**Frame angle:** high aerial ¾ (~50° down, world-dominant), blazing golden side-light.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **high aerial ¾**. · Outfit: terracotta-gold boho-luxe maxi + streaming silk scarf. · Headwear: draped gold-terracotta silk turban. · Accessories: coin necklaces, gold bangles, drop earrings. · Eye colour: amber-hazel. · Makeup: golden glam, terracotta lip. · Hair: finger-waves at temples. · Footwear: gold flat sandals. · Nails: warm bronze. · static & neutral, plain blank background.
-**STILL 2 · OBJECT (plain bg):** the tall pale camel at **high aerial ¾** — tasselled saddle-blanket, brass bells, woven bridle. Clean, isolated, plain blank background.
-**STILL 3 · ENVIRONMENT:** vast rolling golden dunes at low sun — sculpted sand crests, long blue shadows, a sand-veil lifting off the ridges, a wide warm sky; high aerial ¾ vantage (world dominant).
+### FRAME 1 — GOLDEN DUNES (magical element · golden sand-veil, used once)
+**Frame angle:** high aerial ¾ (~50° down, world-dominant), blazing golden side-light — she tiny against the dunes.
+**ENVIRONMENT still (the only per-frame ingredient):** vast rolling golden dunes at low sun — sculpted sand crests, long blue shadows, a wide warm sky; high aerial ¾ vantage (world-dominant, huge negative space). *(Animate `@subject` riding high on `@object`; she small.) The concept's single element lands here.*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* WIDE high aerial establishing, **one continuous slow track following them over the dunes.** [00:00–00:02] she rides high on the camel over a vast golden dune crest, tiny against the sculpted sand, scarf already streaming. [00:02–00:04] the signature stirs — a fine golden sand-veil lifts off the ridge and warm light-motes drift; she sits tall and serene, scarf rippling, with a soft radiant smile. [00:04–00:06] she rides down toward a green palm oasis below. Real-time, believable camel gait + real sand-veil; 9:16. (Environment-dominant wide.)
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact face/identity — animate only gaze + soft expression: a soft, serene, radiant calm.
+- *Animation:* WIDE high aerial, **one continuous slow track following them over the dunes.** [00:00–00:02] she rides high on the camel over a vast golden dune crest, tiny against the sculpted sand, scarf streaming. [00:02–00:04] the **element** — a fine golden sand-veil lifts and drifts off the ridge in the low sun; she sits tall and serene with a radiant smile. [00:04–00:06] she rides down toward a green palm oasis. Real-time, believable camel gait + real sand-veil; 9:16. (Environment-dominant — she small, negative space all around.)
 - *AUDIO (in-frame):* ambient/object — the soft pad of camel feet on sand, brass bells jingling, wind hissing over the dunes, the saddle creak; voice — Aira's serene "ahh" and a soft awed breath.
-**→ Cut (match-on-action) to Frame 2 — she descends into the shaded oasis.**
+**→ Cut (match-on-action) to Frame 2 — she descends into the shaded oasis (the palm frame trick).**
 
 ---
-### FRAME 2 — PALM OASIS
-**Frame angle:** low ¾ front (~30° left, ground-level track-with), cool green oasis shade.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **low ¾ front (~30° left)**. · Outfit: terracotta-gold maxi + silk scarf. · Headwear: draped silk turban. · Accessories: coin necklaces, bangles, earrings. · Eye colour: amber-hazel. · Makeup: golden glam, terracotta lip. · Hair: finger-waves at temples. · Footwear: gold sandals. · Nails: warm bronze. · static & neutral, plain blank background.
-**STILL 2 · OBJECT (plain bg):** the pale camel at **low ¾ front** — head and neck foremost, tasselled blanket, bells. Clean, isolated, plain blank background.
-**STILL 3 · ENVIRONMENT:** a lush palm oasis — date palms around a still spring-pool, cool green shade, reeds and ferns, dappled gold light on the water; low ground-level ¾-front vantage.
+### FRAME 2 — PALM OASIS (trick shot · palm frame-within-frame)
+**Frame angle:** low ¾ front (~30° left), **framed through arching palm fronds**, cool green oasis shade.
+**ENVIRONMENT still (the only per-frame ingredient):** a lush palm oasis — date palms around a still spring-pool, cool green shade, reeds and ferns, dappled gold light on the water, arching fronds in the foreground; low ¾-front vantage. *(Animate `@subject` on `@object`, framed by the foreground fronds.)*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* MEDIUM, **one continuous low ground-level track with them into the oasis.** [00:00–00:02] she rides the camel into the cool palm-shade beside the still spring-pool, dappled gold light playing over them. [00:02–00:04] she trails her bangled hand to brush a low palm frond and looks to the cool water with a soft relieved smile, the camel dipping its head to drink. [00:04–00:06] she rides on toward a bustling desert market. Real-time, believable seated reach + camel walk; 9:16.
-- *AUDIO (in-frame):* ambient/object — camel feet on soft ground, the spring-pool trickling, palm fronds rustling, the camel's low blow; voice — a soft "oh, lovely" and a gentle laugh from Aira.
-**→ Cut (match-on-action) to Frame 3 — she rides into the desert market.**
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact identity — animate only gaze + soft expression: a soft relieved smile in the cool shade.
+- *Animation:* MEDIUM, **one continuous low track — the palm frame-within-frame trick.** [00:00–00:02] the camera looks through arching palm fronds as she rides the camel into the cool shade beside the spring-pool, **framed by the foreground palms**, dappled gold light playing over them. [00:02–00:04] she trails her bangled hand to brush a low frond and looks to the cool water with a relieved smile, the camel dipping to drink. [00:04–00:06] she rides on toward a bustling market. Real-time, believable seated reach + camel walk + real frame-within-frame; 9:16.
+- *AUDIO (in-frame):* ambient/object — camel feet on soft ground, the spring-pool trickling, palm fronds rustling, the camel's low blow; voice — a soft "oh, lovely" and a gentle laugh.
+**→ Cut (match-on-action) to Frame 3 — she rides into the desert market (her hero beat).**
 
 ---
-### FRAME 3 — DESERT MARKET
-**Frame angle:** full profile (true side, parallel track), warm bustling market light.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, in **full profile**. · Outfit: terracotta-gold maxi + silk scarf. · Headwear: draped silk turban. · Accessories: coin necklaces, bangles, earrings. · Eye colour: amber-hazel. · Makeup: golden glam, terracotta lip. · Hair: finger-waves at temples. · Footwear: gold sandals. · Nails: warm bronze. · static & neutral, plain blank background.
-**STILL 2 · OBJECT (plain bg):** the pale camel in **full profile** — full side, tasselled blanket, bells, bridle. Clean, isolated, plain blank background.
-**STILL 3 · ENVIRONMENT:** a warm bustling desert market lane — spice pyramids, hanging lanterns and rugs, striped awnings, traders, warm low sun slanting through dust; profile vantage down the lane.
+### FRAME 3 — DESERT MARKET (HERO frame)
+**Frame angle:** ¾ (closer hero), warm bustling market light — the lane behind her.
+**ENVIRONMENT still (the only per-frame ingredient):** a warm bustling desert market lane — spice pyramids, hanging lanterns and rugs, striped awnings, traders, warm low sun slanting through dust; ¾ vantage down the lane. *(Animate `@subject` riding `@object` through.)*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* MEDIUM profile, **one continuous parallel track at the camel's pace down the market lane.** [00:00–00:02] she rides the camel down the bustling market lane, spice-stalls and hanging lanterns sliding past, warm dust-light slanting. [00:02–00:04] she nods graciously to a spice-trader and accepts a sprig of mint with a warm smile, bangles chiming, the scarf streaming. [00:04–00:06] she rides on toward a glowing sunset city gate. Real-time, believable camel walk + real market parallax; 9:16. (Market + camel share the frame.)
-- *AUDIO (in-frame):* ambient/object — camel bells and feet, market calls and chatter, lanterns creaking, distant drum; voice — Aira's warm "shukran" and a soft laugh.
-**→ Cut (match-on-action) to Frame 4 — she rides up to the sunset city gate.**
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact identity — animate only gaze + soft expression: a **warm, gracious, glowing smile** — her hero beat.
+- *Animation:* MEDIUM ¾ (closer), **one continuous track-with at the camel's pace down the lane.** [00:00–00:02] she rides the camel down the bustling market lane, spice-stalls and lanterns sliding past, warm dust-light slanting. [00:02–00:04] she nods graciously to a spice-trader and accepts a sprig of mint with a warm glowing smile, bangles chiming — her hero moment. [00:04–00:06] she rides on toward a glowing sunset gate. Real-time, believable camel walk + real market parallax; 9:16. (Hero framing — closer, the lane stays behind her.)
+- *AUDIO (in-frame):* ambient/object — camel bells and feet, market calls and chatter, lanterns creaking, a distant drum; voice — Aira's warm "shukran" and a soft laugh.
+**→ Cut (match-on-action) to Frame 4 — she rides up to the sunset gate (the silhouette-into-light trick).**
 
 ---
-### FRAME 4 — SUNSET CITY GATE (signature · loop)
-**Frame angle:** low-hero ¾ opening to front (~30°, crane pull-back), fiery golden sunset light.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **low-hero ¾ (~30°)**. · Outfit: terracotta-gold maxi + silk scarf. · Headwear: draped silk turban. · Accessories: coin necklaces, bangles, earrings. · Eye colour: amber-hazel. · Makeup: golden glam, terracotta lip. · Hair: finger-waves at temples. · Footwear: gold sandals. · Nails: warm bronze. · static & neutral, plain blank background.
-**STILL 2 · OBJECT (plain bg):** the pale camel at **low-hero ¾** — standing tall, tasselled blanket, bells, bridle. Clean, isolated, plain blank background.
-**STILL 3 · ENVIRONMENT:** a grand sandstone city gate at sunset — carved arches glowing fiery-gold, lanterns lighting, palms silhouetted, the desert blazing behind; low-hero ¾ vantage with crane reveal.
+### FRAME 4 — SUNSET CITY GATE (trick shot · silhouette-into-light · loop)
+**Frame angle:** low-hero ¾ opening to a crane pull-back, fiery golden sunset light — she a silhouette, then resolved, world dominant.
+**ENVIRONMENT still (the only per-frame ingredient):** a grand sandstone city gate at sunset — carved arches glowing fiery-gold, lanterns lighting, palms silhouetted, the desert blazing behind; low-hero ¾ vantage with crane reveal. *(Animate `@subject` + `@object` riding up, first silhouetted, then lit.)*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* WIDE low-hero, **one continuous slow crane pull-back to reveal the sunset gate.** [00:00–00:02] she rides up to the grand sandstone gate as the sun blazes low, the carved arches glowing fiery-gold. [00:02–00:04] the signature peaks — a golden sand-veil drifts up and her silk scarf streams wide in the warm light, light-motes hanging; she lifts her face to the sunset with a radiant serene smile. [00:04–00:06] the camera cranes back to reveal the whole glowing gate and blazing desert around her — easing toward the dune opening for a loop. Real-time, believable camel halt + real sand/scarf; 9:16.
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact identity — animate only gaze + soft expression: a radiant, serene, awed lift of the face into the light.
+- *Animation:* WIDE low-hero, **one continuous move — the silhouette-into-light trick then a crane pull-back.** [00:00–00:02] she + the camel ride up to the gate as a **dark silhouette against the fiery-gold arches**, the desert blazing behind. [00:02–00:04] warm lantern-light washes over and **resolves her face** as a golden sand-veil drifts and her scarf streams; she lifts her face to the sunset, radiant and serene. [00:04–00:06] the camera cranes back to reveal the whole glowing gate and blazing desert around her — easing toward the dune opening for a loop. Real-time, believable camel halt + real sand/scarf; 9:16. (Environment-dominant — she within the vast glowing gate.)
 - *AUDIO (in-frame):* ambient/object — the camel settling and bells, a distant call-to-evening, wind, lanterns flickering; voice — Aira's awed soft "wow…" and a warm breath.
 **→ Loops back to Frame 1 (the golden dunes).**
 
-**Stills to generate:** 3 per frame × 4 frames = 12. Score = 24s MASTER AUDIO under the diegetic.
+**Stills to generate:** **`@subject` (1) + `@object` (1) + 4 ENVIRONMENT stills = 6 total** — subject & object rendered once and reused; only environment + video prompt change per frame. ONE desert realm travelled through (dunes → oasis → market → gate); sand-veil element in Frame 1 only; trick shots in Frames 2 (palm frame) & 4 (silhouette-into-light); hero beat in Frame 3. Score = 24s MASTER AUDIO under the diegetic.
 
 ═══════════════════════════════════════════════════════════════════════════════
 
