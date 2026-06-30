@@ -103,10 +103,10 @@ reserved for the carve, each tuned to the score's key so every hit reads as the 
 ═══════════════════════════════════════════════════════════════════════════════
 
 # SC-02 · RIVIERA DRIFT (Vespa) · 5 shots × 6s
-**Logline:** A glamorous pastel Vespa ride down the Riviera — whitewashed square → bougainvillea lane →
-sea-revealing switchback → glinting harbour → golden-hour piazza overlook. Signature: golden sun-glints + a warm
-ribbon of sea-haze light flaring off chrome and water. A continuous descent to the sea.
-**Arc:** TOWN SQUARE → BOUGAINVILLEA LANE → SEA-REVEAL SWITCHBACK (signature) → HARBOUR QUAY → PIAZZA OVERLOOK.
+**Logline:** A glamorous pastel Vespa ride **down** one Riviera town to the sea — a whitewashed square, a bougainvillea
+lane, a sea-reveal switchback, a glinting harbour, a golden-hour piazza overlook. One town, descended through;
+morning-gold to full golden-hour. Glamorous, sun-soaked.
+**Arc (one place, travelled through):** TOWN SQUARE (hero) → BOUGAINVILLEA LANE (trick) → SEA-REVEAL SWITCHBACK (element) → HARBOUR QUAY (trick) → PIAZZA OVERLOOK (loop).
 
 ## MASTER AUDIO (outside the frames — background music)
 A 30-second custom cinematic score (5 clips × 6s) in self-resolving ~6-second phrases, trimmable at any phrase
@@ -118,74 +118,66 @@ invisible loop. Laid UNDER the per-frame diegetic sound — no spoken line; an o
 Layered: lead guitar/piano melody, warm sub, sunlit string shimmer, light brushed percussion, swell reserved for
 the sea-reveal, each tuned to the key so every hit reads as the music expanding.
 
-## GLOBAL STYLE LOCKS
-- **Outfit:** a tangerine-and-white striped halter midi sundress (flirty handkerchief hem) + a cropped white broderie-anglaise bolero.
-- **Headwear:** none (the headscarf is hair). **Accessories:** oversized round white sunglasses (up in the hair or on), a small white top-handle bag. **Eye colour:** warm amber-hazel. **Makeup:** sun-kissed peachy glow, bronzed cheekbones, glossy nude-coral lip. **Hair:** soft glossy shoulder waves wrapped with a **lemon-yellow silk headscarf** (60s Riviera), face-framing strands. **Footwear:** woven espadrille wedges. **Nails:** short glossy coral.
-- **Hero object:** a mint-green vintage Vespa — chrome trim, a cream saddle, a woven side-basket of lemons.
-- **Signature (grounded):** golden sun-glints flare off chrome, glass and sea, and a warm ribbon of sea-haze light (with a few stray bougainvillea petals) trails her; peaks on the sea-reveal. No cartoon sparkle.
-- **Journey + light:** morning-gold square → dappled warm lane → bright golden-hour sea-sparkle → glinting late-afternoon harbour → full amber golden-hour piazza.
+## INGREDIENTS + LOCKS (generate `@subject` & `@object` ONCE — reuse them in every frame)
+- **`@subject` — render ONCE, reuse every frame** (neutral, full body, plain blank bg): `Aira [identity placeholder]` styled as — **Outfit:** tangerine-and-white striped halter midi sundress (handkerchief hem) + a cropped white broderie-anglaise bolero · **Hair-wrap:** soft glossy shoulder waves wrapped with a lemon-yellow silk headscarf (60s Riviera) · **Accessories:** oversized round white sunglasses, a small white top-handle bag · **Eye colour:** warm amber-hazel · **Makeup:** sun-kissed peachy glow, bronzed cheekbones, glossy nude-coral lip · **Footwear:** woven espadrille wedges · **Nails:** short glossy coral.
+- **`@object` — render ONCE, reuse every frame** (plain blank bg): a mint-green vintage Vespa — chrome trim, a cream saddle, a woven side-basket of lemons.
+- **THE PLACE (ONE Riviera town, descended THROUGH to the sea):** a single whitewashed clifftop Riviera town — a fountain square, a bougainvillea-draped stepped lane, an open coastal switchback revealing the Mediterranean, a little fishing harbour, and a golden-hour piazza overlook; light warming morning-gold → full golden-hour as she descends. She **rides down through it** across the five frames, so each ENVIRONMENT still is the next part of the same town at its own angle.
+- **MAGICAL ELEMENT (used ONCE — Frame 3 only):** at the sea-reveal, golden sun-glints flare off chrome and water and a **warm ribbon of sea-haze light** (with a few stray bougainvillea petals) streams behind her (real light + haze, no cartoon sparkle). No other frame carries an element.
+- **TRICK SHOTS (×2 — Frames 2 & 4, never the element's frame):** Frame 2 = **Vespa-mount POV** ride-along (camera on the scooter, the dappled lane rushing); Frame 4 = **harbour water-reflection** (her + the Vespa mirrored on the glassy harbour).
+- **HERO FRAME (Frame 1):** she reads clearly as the hero in the town square (closer, anticipatory glamorous smile). Every other frame keeps her with the town present — room on the sides, top and bottom.
+- **Footing:** she rides the Vespa — relaxed glamorous balance, real scooter lean + roll.
 
 ---
-### FRAME 1 — TOWN SQUARE
-**Frame angle:** high ¾ aerial (looking down ~40°), warm morning-gold side-light from frame-left.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **high ¾ aerial**. · Outfit: tangerine-stripe halter midi + white broderie bolero. · Headwear: none. · Accessories: round white sunglasses up in the hair, white top-handle bag. · Eye colour: amber-hazel. · Makeup: peachy glow, nude-coral lip. · Hair: glossy shoulder waves + lemon silk headscarf. · Footwear: espadrille wedges. · static & neutral, plain blank background.
-**STILL 2 · OBJECT (plain bg):** the mint-green Vespa at **high ¾ aerial** — chrome trim, cream saddle, lemon side-basket, catching warm morning light. Clean, isolated, plain blank background.
-**STILL 3 · ENVIRONMENT:** a whitewashed clifftop town square — pastel shutters, a stone fountain, potted citrus, warm morning-gold side-light, long soft shadows; deep high-¾ vantage.
+### FRAME 1 — TOWN SQUARE (HERO frame)
+**Frame angle:** ¾-front (closer hero), warm morning-gold side-light from frame-left.
+**ENVIRONMENT still (the only per-frame ingredient):** a whitewashed clifftop town square — pastel shutters, a stone fountain, potted citrus, warm morning-gold side-light, long soft shadows; ¾-front vantage. *(Animate `@subject` astride `@object`.)*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* WIDE high establishing, **one continuous slow aerial pan drifting down toward her.** [00:00–00:02] she sits relaxed astride the Vespa, one hand on the throttle, gaze drifting over the sunlit square, a soft anticipatory smile. [00:02–00:04] she eases the throttle and rolls forward off the mark, the scooter gliding across warm cobbles, headscarf lifting. [00:04–00:06] she leans gently into the first turn out of the square, glancing ahead, golden sun-glints flaring off the chrome. Real-time, believable scooter balance; 9:16.
-- *AUDIO (in-frame):* ambient/object — the Vespa idle puttering then pulling away, a fountain trickle, a distant church bell, an espresso-cup clink; voice — a soft contented breath from Aira.
-**→ Cut (match-on-action) to Frame 2 — the roll carries her into the bougainvillea lane.**
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact face/identity — animate only gaze + soft expression: a soft, anticipatory, glamorous smile — her hero beat.
+- *Animation:* MEDIUM ¾-front (closer), **one continuous slow push easing forward with her.** [00:00–00:02] she sits relaxed astride the Vespa, one hand on the throttle, gaze drifting over the sunlit square — her hero moment, a soft anticipatory smile. [00:02–00:04] she eases the throttle and rolls forward off the mark, the scooter gliding across warm cobbles, headscarf lifting. [00:04–00:06] she leans gently into the first turn out of the square, golden sun-glints flaring off the chrome. Real-time, believable scooter balance; 9:16. (Hero framing — closer, the square behind her.)
+- *AUDIO (in-frame):* ambient/object — the Vespa idle puttering then pulling away, a fountain trickle, a distant church bell, an espresso-cup clink; voice — a soft contented breath.
+**→ Cut (match-on-action) to Frame 2 — the roll carries her into the bougainvillea lane (the Vespa-POV trick).**
 
 ---
-### FRAME 2 — BOUGAINVILLEA LANE
-**Frame angle:** low ¾ from behind (~30° rear-left, low ground-level), warm dappled shade + sun-shafts.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **low ¾ from behind-left**. · Outfit: tangerine-stripe halter midi + bolero. · Headwear: none. · Accessories: sunglasses up, white bag. · Eye colour: amber-hazel. · Makeup: peachy, nude-coral lip. · Hair: shoulder waves + lemon headscarf. · Footwear: espadrille wedges. · static & neutral, plain blank background.
-**STILL 2 · OBJECT (plain bg):** the mint Vespa at **low ¾ rear-left** — back/side three-quarter, chrome and lemon-basket, warm shade with sun-shafts. Clean, isolated, plain blank background.
-**STILL 3 · ENVIRONMENT:** a narrow stepped lane draped in magenta bougainvillea — washing lines, sun-shafts cutting the warm shade, worn pastel walls; low ¾ rear vantage with sun-shafts.
+### FRAME 2 — BOUGAINVILLEA LANE (trick shot · Vespa-mount POV)
+**Frame angle:** **Vespa-mounted POV** (camera on the scooter, the lane rushing), warm dappled shade + sun-shafts.
+**ENVIRONMENT still (the only per-frame ingredient):** a narrow stepped lane draped in magenta bougainvillea — washing lines, sun-shafts cutting the warm shade, worn pastel walls; POV-down-the-lane vantage. *(Animate `@subject` riding `@object` down the lane, hand reaching into frame.)*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* low ground-level, **one continuous track behind/under the bougainvillea canopy.** [00:00–00:02] she rolls down the dappled stepped lane, sun-shafts striping over her, headscarf fluttering. [00:02–00:04] she lifts her left hand off the bar to brush a low magenta bloom, tipping her face up with a delighted smile, a couple of petals lifting into a warm light-haze behind her. [00:04–00:06] she settles her hand back and leans the scooter around the bend toward brightening light. Real-time, believable lean; 9:16.
-- *AUDIO (in-frame):* ambient/object — the scooter engine echoing in the narrow lane, a wind-chime, fluttering washing lines, leaves stirring; voice — a delighted little "oh" and soft laugh from Aira brushing the blooms.
-**→ Cut (match-on-action) to Frame 3 — she rounds the bend and the sea bursts into view.**
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact identity — a delighted, sun-warmed smile.
+- *Animation:* MEDIUM **Vespa-mount POV**, **one continuous ride-along down the dappled lane — the POV trick.** [00:00–00:02] from the scooter the dappled stepped lane rushes toward the lens, sun-shafts striping over the bars, bougainvillea overhead. [00:02–00:04] her hand reaches into frame to brush a low magenta bloom, a couple of petals lifting in the warm light; she tips her face up with a delighted smile (caught at the edge of frame). [00:04–00:06] she leans the scooter around the bend toward brightening light. Real-time, believable lean + real POV; 9:16.
+- *AUDIO (in-frame):* ambient/object — the scooter engine echoing in the narrow lane, a wind-chime, fluttering washing lines, leaves stirring; voice — a delighted little "oh" and soft laugh.
+**→ Cut (match-on-action) to Frame 3 — she rounds the bend and the sea bursts into view (the sea-haze-light element).**
 
 ---
-### FRAME 3 — SEA-REVEAL SWITCHBACK (signature)
-**Frame angle:** front ¾ (bike-mounted, ~30° from her front-right, camera fixed to the scooter looking back at her), bright golden sea-sparkle.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **front ¾ (from front-right)**. · Outfit: tangerine-stripe halter midi + bolero. · Headwear: none. · Accessories: sunglasses (now on), white bag. · Eye colour: amber-hazel. · Makeup: peachy, nude-coral lip. · Hair: shoulder waves + lemon headscarf. · Footwear: espadrille wedges. · static & neutral, plain blank background.
-**STILL 2 · OBJECT (plain bg):** the mint Vespa at **front ¾ (front-right)** — handlebars/chrome foremost, lemon-basket, bright golden light. Clean, isolated, plain blank background.
-**STILL 3 · ENVIRONMENT:** an open coastal switchback road with the blue Mediterranean revealing wide below — bright golden-hour sea-sparkle, a low stone wall, scrub and cliff; front-¾ vantage opening to the sea.
+### FRAME 3 — SEA-REVEAL SWITCHBACK (magical element · sea-haze light-ribbon, used once)
+**Frame angle:** front ¾ (~30° front-right), bright golden sea-sparkle — the sea opening wide behind.
+**ENVIRONMENT still (the only per-frame ingredient):** an open coastal switchback road with the blue Mediterranean revealing wide below — bright golden-hour sea-sparkle, a low stone wall, scrub and cliff; front-¾ vantage opening to the sea. *The concept's single element lands here.*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* bike-mounted ride-along, camera fixed to the front looking back at her, **the sea opening behind in one continuous reveal as the road curves.** [00:00–00:02] she crests onto the switchback and the sea reveals — she turns her head to it, a breath-catch of awe. [00:02–00:04] the signature blooms — golden sun-glints flare off chrome and water and a warm ribbon of sea-haze light streams behind her with a few bougainvillea petals; she lifts her left hand off the bar into the wind with a radiant open smile. [00:04–00:06] she eases the hand back and glances to lens, riding the open coast road. Real-time, believable balance + air-drag; 9:16.
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact identity — a breath-catch of awe blooming into a radiant open smile.
+- *Animation:* front ¾, **one continuous reveal as the road curves and the sea opens behind her.** [00:00–00:02] she crests onto the switchback and the sea reveals — she turns her head to it, a breath-catch of awe. [00:02–00:04] the **element** blooms — golden sun-glints flare off chrome and water and a warm ribbon of sea-haze light streams behind her with a few bougainvillea petals; she lifts a hand into the wind with a radiant open smile. [00:04–00:06] she eases the hand back and rides the open coast road. Real-time, believable balance + air-drag; 9:16. (Sea + sky open wide behind her.)
 - *AUDIO (in-frame):* ambient/object — the open-road rush, wind, a soft light-bloom whoosh as the sea-haze flares, distant gulls and surf; voice — Aira's breath-catch of awe blooming into a joyful "woah!" and an open laugh.
-**→ Cut (match-on-action) to Frame 4 — the road drops her toward the harbour quay.**
+**→ Cut (match-on-action) to Frame 4 — the road drops her toward the harbour quay (the water-reflection trick).**
 
 ---
-### FRAME 4 — HARBOUR QUAY
-**Frame angle:** ¾-back / over-the-shoulder (~30° behind-right), warm glinting late-afternoon.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **¾-back over the right shoulder**. · Outfit: tangerine-stripe halter midi + bolero. · Headwear: none. · Accessories: sunglasses on, white bag. · Eye colour: amber-hazel. · Makeup: peachy, nude-coral lip. · Hair: shoulder waves + lemon headscarf. · Footwear: espadrille wedges. · static & neutral, plain blank background.
-**STILL 2 · OBJECT (plain bg):** the mint Vespa at **¾-back (behind-right)** — rear three-quarter, chrome and lemon-basket, warm glinting light. Clean, isolated, plain blank background.
-**STILL 3 · ENVIRONMENT:** a small fishing harbour — bobbing pastel boats, nets, glinting water, a quayside café, warm late-afternoon glinting reflections; ¾-back vantage over the quay.
+### FRAME 4 — HARBOUR QUAY (trick shot · harbour water-reflection)
+**Frame angle:** ¾ along the quay, warm glinting late-afternoon — the glassy harbour mirroring her.
+**ENVIRONMENT still (the only per-frame ingredient):** a small fishing harbour — bobbing pastel boats, nets, a quayside café, **glassy glinting water mirroring the quay**, warm late-afternoon reflections; ¾ vantage along the quay. *(Animate `@subject` on `@object` coasting the quay, both mirrored on the water.)*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* over-the-shoulder from behind, **one continuous slow track-in following her into the harbour.** [00:00–00:02] she eases off the throttle and coasts along the quay, the pastel boats glinting ahead. [00:02–00:04] she turns her head over her shoulder to take in the boats and nets, a soft contented half-smile, the water sparkling. [00:04–00:06] she slows toward the café end, lowering her left foot to dab the ground, headscarf settling. Real-time, believable deceleration; 9:16.
-- *AUDIO (in-frame):* ambient/object — the engine easing to a putter, water lapping at the hulls, rigging tinks, a soft café murmur; voice — a soft pleased hum from Aira.
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact identity — a soft, contented half-smile.
+- *Animation:* MEDIUM ¾, **one continuous track — the harbour-reflection trick.** [00:00–00:02] she eases off the throttle and coasts along the quay, the **glassy harbour mirroring her and the mint Vespa**, pastel boats glinting ahead. [00:02–00:04] she turns her head to take in the boats and nets with a contented half-smile, her reflection gliding on the still water. [00:04–00:06] she slows toward the café end, lowering a foot to dab the ground. Real-time, believable deceleration + real water-reflection; 9:16.
+- *AUDIO (in-frame):* ambient/object — the engine easing to a putter, water lapping at the hulls, rigging tinks, a soft café murmur; voice — a soft pleased hum.
 **→ Cut (match-on-action) to Frame 5 — she rides up the last ramp onto the piazza overlook.**
 
 ---
-### FRAME 5 — PIAZZA OVERLOOK (loop)
-**Frame angle:** high ¾ from her front-left, full amber golden-hour, the sea vast beyond.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **high ¾ from front-left**. · Outfit: tangerine-stripe halter midi + bolero. · Headwear: none. · Accessories: sunglasses up in hair, white bag. · Eye colour: amber-hazel. · Makeup: peachy, nude-coral lip. · Hair: shoulder waves + lemon headscarf. · Footwear: espadrille wedges. · static & neutral, plain blank background.
-**STILL 2 · OBJECT (plain bg):** the mint Vespa at **high ¾ front-left** — chrome and lemon-basket glowing amber. Clean, isolated, plain blank background.
-**STILL 3 · ENVIRONMENT:** a golden-hour seaside piazza terrace — a balustrade, café tables, the amber sea-and-sky vast beyond, warm full golden-hour; high-¾ vantage with the sea opening.
+### FRAME 5 — PIAZZA OVERLOOK (loop · crane reveal)
+**Frame angle:** wide crane (opening from high ¾ front-left), full amber golden-hour, the sea vast beyond — she smaller, world dominant.
+**ENVIRONMENT still (the only per-frame ingredient):** a golden-hour seaside piazza terrace — a balustrade, café tables, the amber sea-and-sky vast beyond, warm full golden-hour; wide crane vantage with the sea opening. *(Animate `@subject` rolling to a stop on `@object`.)*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* WIDE, **one continuous slow crane pull-back opening the sea vista.** [00:00–00:02] she rolls onto the terrace and to an easy stop, sitting up tall. [00:02–00:04] she gazes out over the amber sea, the sea-haze light settling, then glances back over her shoulder toward lens with a warm closing smile. [00:04–00:06] the camera cranes back to reveal the whole golden-hour overlook, sea and sky vast — easing toward the serene calm of the opening for a loop. Real-time; 9:16.
-- *AUDIO (in-frame):* ambient/object — the engine cutting to quiet, a soft sea breeze, distant terrace chatter; voice — a warm satisfied breath/sigh from Aira.
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact identity — a warm, satisfied closing smile.
+- *Animation:* WIDE, **one continuous slow crane pull-back opening the sea vista.** [00:00–00:02] she rolls onto the terrace and to an easy stop, sitting up tall. [00:02–00:04] she gazes out over the amber sea, the sea-haze light settling, then turns a warm closing smile back toward lens. [00:04–00:06] the camera cranes back to reveal the whole golden-hour overlook, sea and sky vast around her — easing toward the town-square opening for a loop. Real-time; 9:16. (Environment-dominant — she smaller, the sea vast around her.)
+- *AUDIO (in-frame):* ambient/object — the engine cutting to quiet, a soft sea breeze, distant terrace chatter; voice — a warm satisfied breath/sigh.
 **→ Loops back to Frame 1 (the morning town square).**
 
-**Stills to generate:** 3 per frame × 5 frames = 15. Render → load 3 per shot → animate → assemble as CUTS → loop. Score = 30s MASTER AUDIO under the diegetic.
+**Stills to generate:** **`@subject` (1) + `@object` (1) + 5 ENVIRONMENT stills = 7 total** — subject & object rendered once and reused; only environment + video prompt change per frame. ONE Riviera town descended through (square → lane → switchback → harbour → overlook); sea-haze-light element in Frame 3 only; trick shots in Frames 2 (Vespa-mount POV) & 4 (harbour reflection); hero beat in Frame 1. Score = 30s MASTER AUDIO under the diegetic.
 
 ═══════════════════════════════════════════════════════════════════════════════
 
