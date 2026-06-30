@@ -316,10 +316,10 @@ on the peak only. Layered: lead Rhodes/strings, warm sub, glassy shimmer, brushe
 ═══════════════════════════════════════════════════════════════════════════════
 
 # SC-06 · MARKET DASH (Run) · 5 shots × 6s
-**Logline:** A joyful sprint-and-weave through a bursting bazaar — flower market → spice arcade → fabric souk →
-fruit-and-lantern lane → fountain square. Signature: bursts of colour in her wake — petals, sun-caught spice-dust
-and rippling fabric/bunting. Fast, alive.
-**Arc:** FLOWER BAZAAR → SPICE ARCADE → FABRIC SOUK (signature spin) → FRUIT & LANTERN LANE → FOUNTAIN SQUARE.
+**Logline:** A joyful sprint-and-weave through one bursting bazaar — a flower lane, a spice arcade, a fabric souk,
+a fruit-and-lantern lane, the fountain square. One market, run through; dappled mid-morning to open square daylight.
+Fast, alive, colourful.
+**Arc (one place, travelled through):** FLOWER BAZAAR → SPICE ARCADE (element) → FABRIC SOUK (trick) → FRUIT & LANTERN LANE (trick) → FOUNTAIN SQUARE (hero).
 
 ## MASTER AUDIO (outside the frames — background music)
 A 30-second custom cinematic score (5 clips × 6s) in self-resolving ~6-second phrases, trimmable at any phrase
@@ -329,74 +329,66 @@ Arc: an excited flower-market open, a quick driving weave through the spice arca
 the fabric-souk spin, a bright bouncing dash down the lane, then a radiant resolve in the fountain square for an
 invisible loop. Laid UNDER the diegetic — no spoken line; optional wordless laugh/"hey" on the peak only.
 
-## GLOBAL STYLE LOCKS
-- **Outfit:** a knotted gingham crop blouse (cherry-red/white) over high-waisted butter-yellow wide-leg culottes.
-- **Headwear:** none. **Accessories:** a small woven crossbody, a stack of colourful bangles. **Eye colour:** warm amber-hazel. **Makeup:** fresh and flushed — dewy skin, sun-pinked cheeks, glossy lip. **Hair:** bouncy **double space-buns** with loose face-framing strands. **Footwear:** white canvas sneakers. **Nails:** short glossy cherry-red.
-- **Hero object:** a small woven market basket she carries (and grabs blooms into).
-- **Signature (grounded):** as she weaves, colour lifts in her wake — flower petals + sun-caught spice-dust (saffron-gold, paprika-red) + rippling fabric and bunting; peaks on the spin-weave colour-burst. Real weight, sun-lit dust.
-- **Journey + light:** dappled mid-morning sun through awnings, brightening to open fountain-square daylight.
+## INGREDIENTS + LOCKS (generate `@subject` & `@object` ONCE — reuse them in every frame)
+- **`@subject` — render ONCE, reuse every frame** (neutral, full body, plain blank bg): `Aira [identity placeholder]` styled as — **Outfit:** knotted gingham crop blouse (cherry-red/white) over high-waisted butter-yellow wide-leg culottes · **Hair:** bouncy double space-buns with loose face-framing strands · **Accessories:** a small woven crossbody, a stack of colourful bangles · **Eye colour:** warm amber-hazel · **Makeup:** fresh and flushed — dewy skin, sun-pinked cheeks, glossy lip · **Footwear:** white canvas sneakers · **Nails:** short glossy cherry-red.
+- **`@object` — render ONCE, reuse every frame** (plain blank bg): a small woven market basket (open weave) with a few blooms inside.
+- **THE PLACE (ONE bazaar, run THROUGH):** a single bursting market — a packed flower lane, a covered spice arcade, a hanging-silk fabric souk, a fruit-and-lantern lane, and an open fountain square; light brightening dappled mid-morning → open square daylight as she runs. She **runs through it** across the five frames, so each ENVIRONMENT still is the next stretch of the same bazaar at its own angle.
+- **MAGICAL ELEMENT (used ONCE — Frame 2 only):** in the spice arcade her dash kicks up sun-caught spice-dust motes — saffron-gold and paprika-red drifting and glowing in the light-shafts (real disturbed spice + light, no cartoon sparkle). No other frame carries an element.
+- **TRICK SHOTS (×2 — Frames 3 & 4, never the element's frame):** Frame 3 = **crowd-parting frame-within-frame** (she's revealed framed in a parting gap of hanging silks); Frame 4 = **whip-pan** down the lane snapping from the lanterns onto her at speed.
+- **HERO FRAME (Frame 5):** she reads clearly as the hero bursting into the fountain square (closer CU catch, then world opens). Every other frame keeps her with the market present — room on the sides, top and bottom.
+- **Footing:** she runs — quick light footfalls, real running weight + agile weaving.
 
 ---
 ### FRAME 1 — FLOWER BAZAAR
 **Frame angle:** top-down overhead (~80°), dappled floral-bright.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, from **top-down overhead**. · Outfit: gingham crop blouse + butter culottes. · Headwear: none. · Accessories: woven crossbody, colourful bangles. · Eye colour: amber-hazel. · Makeup: dewy, sun-pinked. · Hair: double space-buns. · Footwear: white sneakers. · Nails: cherry-red. · static & neutral, plain blank background.
-**STILL 2 · OBJECT (plain bg):** the woven market basket from **top-down** — open weave, a few blooms inside. Clean, isolated, plain blank background.
-**STILL 3 · ENVIRONMENT:** a packed flower bazaar lane from above — buckets of blooms, hanging baskets, striped awnings, dappled mid-morning sun on cobbles; top-down vantage.
+**ENVIRONMENT still (the only per-frame ingredient):** a packed flower bazaar lane from above — buckets of blooms, hanging baskets, striped awnings, dappled mid-morning sun on cobbles; top-down vantage. *(Animate `@subject` carrying `@object`, weaving the lane below.)*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* WIDE top-down, **one continuous slow boom-descend toward her** as she threads the lane. [00:00–00:02] she dashes in among the flower buckets, basket in her left hand, weaving the crowd, looking up once with an excited grin. [00:02–00:04] she ducks a hanging basket and brushes a bucket of blooms, a soft lift of petals tumbling behind her. [00:04–00:06] she presses on down the lane, quick light strides, glancing for her gap ahead. Real-time, believable running footfalls; 9:16.
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact face/identity — animate only gaze + soft expression: an excited, bright-eyed grin.
+- *Animation:* WIDE top-down, **one continuous slow boom-descend toward her** as she threads the lane. [00:00–00:02] she dashes in among the flower buckets, basket in her left hand, weaving the crowd, looking up once with an excited grin. [00:02–00:04] she ducks a hanging basket and brushes a bucket of blooms, a soft lift of petals tumbling behind her. [00:04–00:06] she presses on down the lane, quick light strides, glancing for her gap ahead. Real-time, believable running footfalls; 9:16. (Top-down — the market spread wide below her.)
 - *AUDIO (in-frame):* ambient/object — quick footfalls on cobbles, market chatter, fluttering awnings, a vendor call; voice — Aira's excited breaths and a quick bright laugh, vendors calling.
-**→ Cut (match-on-action) to Frame 2 — she breaks into the spice arcade.**
+**→ Cut (match-on-action) to Frame 2 — she breaks into the spice arcade (the spice-dust element).**
 
 ---
-### FRAME 2 — SPICE ARCADE
+### FRAME 2 — SPICE ARCADE (magical element · sun-caught spice-dust motes, used once)
 **Frame angle:** ¾ rear / over-the-shoulder (~30° behind), warm saffron-gold glow.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **¾ rear over the shoulder**. · Outfit: gingham crop + butter culottes. · Headwear: none. · Accessories: woven crossbody, bangles. · Eye colour: amber-hazel. · Makeup: dewy, sun-pinked. · Hair: double space-buns. · Footwear: white sneakers. · Nails: cherry-red. · static & neutral, plain blank background.
-**STILL 2 · OBJECT (plain bg):** the woven basket from **¾ rear** — held close, a couple of blooms. Clean, isolated, plain blank background.
-**STILL 3 · ENVIRONMENT:** a covered spice arcade — cones of saffron, paprika, turmeric glowing in shafts of light, hanging lamps, sacks; ¾-rear vantage down the arcade.
+**ENVIRONMENT still (the only per-frame ingredient):** a covered spice arcade — cones of saffron, paprika, turmeric glowing in shafts of light, hanging lamps, sacks; ¾-rear vantage down the arcade. *The concept's single element lands here.* *(Animate `@subject` carrying `@object`, dashing through the light-shafts.)*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* over-the-shoulder from behind, **one continuous track close behind her.** [00:00–00:02] she slips between two spice cones, dropping a shoulder, basket hugged close. [00:02–00:04] her dash kicks up sun-caught spice-dust — saffron-gold and paprika-red drifting glowing in the light-shafts behind her — she laughs, dodging a hanging lamp. [00:04–00:06] she carves around a stall and accelerates toward the fabric souk. Real-time, agile footwork; 9:16.
-- *AUDIO (in-frame):* ambient/object — her quick breaths, sandals scuffing, the soft poof of disturbed spice, a hanging-lamp creak; voice — a playful laugh and a soft "oops!" from Aira dodging.
-**→ Cut (match-on-action) to Frame 3 — she bursts into the fabric souk and spins.**
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact identity — a laughing, exhilarated grin.
+- *Animation:* over-the-shoulder from behind, **one continuous track close behind her.** [00:00–00:02] she slips between two spice cones, dropping a shoulder, basket hugged close. [00:02–00:04] the **element** lifts — her dash kicks up sun-caught spice-dust, saffron-gold and paprika-red drifting and glowing in the light-shafts behind her; she laughs, dodging a hanging lamp. [00:04–00:06] she carves around a stall and accelerates toward the fabric souk. Real-time, agile footwork + real spice-dust; 9:16.
+- *AUDIO (in-frame):* ambient/object — her quick breaths, sneakers scuffing, the soft poof of disturbed spice, a hanging-lamp creak; voice — a playful laugh and a soft "oops!" from Aira dodging.
+**→ Cut (match-on-action) to Frame 3 — she bursts into the fabric souk (the frame-within-frame trick).**
 
 ---
-### FRAME 3 — FABRIC SOUK (signature spin)
-**Frame angle:** low ¾ (~45° low front), vivid curated rainbow light.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **low ¾ front (~45°)**. · Outfit: gingham crop + butter culottes. · Headwear: none. · Accessories: woven crossbody, bangles. · Eye colour: amber-hazel. · Makeup: dewy, sun-pinked. · Hair: double space-buns. · Footwear: white sneakers. · Nails: cherry-red. · static & neutral, plain blank background.
-**STILL 2 · OBJECT (plain bg):** the woven basket at **low ¾** — blooms inside, clean. Isolated, plain blank background.
-**STILL 3 · ENVIRONMENT:** a textile souk — walls of hanging silks and bunting in every colour, billowing in the breeze, narrow vivid alley; low ¾ vantage.
+### FRAME 3 — FABRIC SOUK (trick shot · crowd-parting frame-within-frame)
+**Frame angle:** low ¾ (~45° low front) through a parting gap of hanging silks, vivid curated rainbow light.
+**ENVIRONMENT still (the only per-frame ingredient):** a textile souk — walls of hanging silks and bunting in every colour billowing in the breeze, a narrow vivid alley, a gap parting between two silk curtains; low ¾ vantage framed through the gap. *(Animate `@subject` carrying `@object`, revealed framed in the parting silks.)*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* low ¾, **one continuous whip-pan resolving into a half-orbit around her** as she spin-weaves. [00:00–00:02] she rushes between two fabric stalls and breaks into a spin, both arms flung out to trail her hands through the hanging silks. [00:02–00:04] the signature bursts — petals, glowing spice-dust and rippling colourful fabric/bunting bloom outward around her in a full colour-burst, the silks billowing in her wake. [00:04–00:06] she spins out of it and pushes forward, a delighted open grin, the colour streaming behind. Real-time, believable spin + fabric physics; 9:16.
-- *AUDIO (in-frame):* ambient/object — silks whooshing as she brushes them, bunting flapping, a spin-whoosh; voice — Aira's exhilarated "woohoo!" and open-mouthed delight, a nearby vendor's cheer.
-**→ Cut (match-on-action) to Frame 4 — she runs out into the fruit-and-lantern lane.**
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact identity — a delighted open grin.
+- *Animation:* low ¾, **one continuous push as two hanging silks part to frame her — the frame-within-frame trick.** [00:00–00:02] the camera pushes toward a curtain of hanging silks; they part to reveal her rushing between the fabric stalls, framed in the gap. [00:02–00:04] she trails both hands through the billowing silks as she passes, the colourful fabric rippling and parting around her like a moving frame. [00:04–00:06] she breaks through the last curtain and pushes forward, a delighted open grin, the silks settling behind. Real-time, believable run + fabric physics; 9:16.
+- *AUDIO (in-frame):* ambient/object — silks whooshing as she brushes them, bunting flapping; voice — Aira's exhilarated "woohoo!" and open-mouthed delight, a nearby vendor's cheer.
+**→ Cut (match-on-action) to Frame 4 — she runs out into the fruit-and-lantern lane (the whip-pan trick).**
 
 ---
-### FRAME 4 — FRUIT & LANTERN LANE
+### FRAME 4 — FRUIT & LANTERN LANE (trick shot · whip-pan)
 **Frame angle:** full profile (true side), bright dappled produce-colour.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, in **full profile**. · Outfit: gingham crop + butter culottes. · Headwear: none. · Accessories: woven crossbody, bangles. · Eye colour: amber-hazel. · Makeup: dewy, sun-pinked. · Hair: double space-buns. · Footwear: white sneakers. · Nails: cherry-red. · static & neutral, plain blank background.
-**STILL 2 · OBJECT (plain bg):** the woven basket in **profile** — fuller now with blooms. Isolated, plain blank background.
-**STILL 3 · ENVIRONMENT:** a lane of fruit pyramids and strung paper lanterns — bright produce colour, dappled light, hanging lanterns; profile vantage with deep side-perspective.
+**ENVIRONMENT still (the only per-frame ingredient):** a lane of fruit pyramids and strung paper lanterns — bright produce colour, dappled light, hanging lanterns; profile vantage with deep side-perspective. *(Animate `@subject` carrying `@object`, running the lane.)*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* tight profile, **one continuous parallel dolly at her speed**, lanterns and fruit streaking. [00:00–00:02] she runs the lane in profile, lanterns bobbing, fruit pyramids sliding past. [00:02–00:04] she reaches out with her right hand and snatches a single bright flower into her basket without breaking stride, tossing a grin sideways. [00:04–00:06] she presses on toward the brightening end of the lane, buns bouncing. Real-time, believable run + grab; 9:16.
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact identity — a bright grin tossed sideways.
+- *Animation:* profile, **one continuous whip-pan snapping from the lanterns onto her, then a parallel dolly at her speed — the whip-pan trick.** [00:00–00:02] the camera whip-pans off the strung lanterns and snaps onto her running the lane in profile, fruit pyramids sliding past. [00:02–00:04] she reaches out with her right hand and snatches a single bright flower into her basket without breaking stride, tossing a grin sideways. [00:04–00:06] she presses on toward the brightening end of the lane, buns bouncing. Real-time, believable run + grab; 9:16.
 - *AUDIO (in-frame):* ambient/object — running footfalls, lanterns knocking, a flower snatched, fruit-stall murmur; voice — a bright "yay!" and a laugh tossed sideways by Aira.
-**→ Cut (match-on-action) to Frame 5 — she bursts into the open fountain square.**
+**→ Cut (match-on-action) to Frame 5 — she bursts into the open fountain square (her hero beat).**
 
 ---
-### FRAME 5 — FOUNTAIN SQUARE (loop)
-**Frame angle:** front (head-on, CU→pull-out), bright open daylight.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **front (head-on)**. · Outfit: gingham crop + butter culottes. · Headwear: none. · Accessories: woven crossbody, bangles. · Eye colour: amber-hazel. · Makeup: dewy, sun-pinked. · Hair: double space-buns. · Footwear: white sneakers. · Nails: cherry-red. · static & neutral, plain blank background.
-**STILL 2 · OBJECT (plain bg):** the woven basket at **front** — full of blooms, a single flower atop. Isolated, plain blank background.
-**STILL 3 · ENVIRONMENT:** an open sunlit fountain square — a splashing fountain, pigeons, market spilling around the edges, bright open daylight; front vantage opening wide.
+### FRAME 5 — FOUNTAIN SQUARE (HERO frame · loop)
+**Frame angle:** front (head-on, CU catch → pull-out), bright open daylight — her hero beat then world opens.
+**ENVIRONMENT still (the only per-frame ingredient):** an open sunlit fountain square — a splashing fountain, pigeons, market spilling around the edges, bright open daylight; front vantage opening wide. *(Animate `@subject` catching a flower into `@object`, slowing to a stop.)*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* tight CU on her face, **one continuous rack-focus then pull-back.** [00:00–00:02] she bursts into the bright square, and a tossed flower arcs into frame — she catches it overhead with a breathless grin (CU). [00:02–00:04] she lowers it, slowing to a planted stop, the colour-wake settling around her as the camera pulls back to reveal the whole fountain square. [00:04–00:06] she lifts a warm look to lens, chest easing on a breath, petals and dust settling on the sunlit stone — easing toward the bright calm to loop. Real-time, believable deceleration; 9:16.
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact identity — a breathless, radiant happy grin, her hero moment.
+- *Animation:* CU on her face easing to MEDIUM, **one continuous rack-focus then pull-back.** [00:00–00:02] she bursts into the bright square and a tossed flower arcs into frame — she catches it overhead with a breathless radiant grin (CU), her hero moment. [00:02–00:04] she lowers it, slowing to a planted stop, the colour-wake settling as the camera pulls back to reveal the whole fountain square. [00:04–00:06] she lifts a warm look to lens, chest easing on a breath, petals settling on the sunlit stone — easing toward the bright calm to loop. Real-time, believable deceleration; 9:16. (Hero beat then environment-dominant — the square open around her.)
 - *AUDIO (in-frame):* ambient/object — the fountain splashing, pigeons clattering up; voice — Aira's breathless happy laugh and a soft "yeah", a little crowd murmur.
 **→ Loops back to Frame 1 (the flower bazaar dash).**
 
-**Stills to generate:** 3 per frame × 5 frames = 15. Score = 30s MASTER AUDIO under the diegetic.
+**Stills to generate:** **`@subject` (1) + `@object` (1) + 5 ENVIRONMENT stills = 7 total** — subject & object rendered once and reused; only environment + video prompt change per frame. ONE bazaar run through (flower → spice → fabric → fruit/lantern → fountain square); spice-dust-motes element in Frame 2 only; trick shots in Frames 3 (crowd-parting frame-within-frame) & 4 (whip-pan); hero beat in Frame 5. Score = 30s MASTER AUDIO under the diegetic.
 
 
 ═══════════════════════════════════════════════════════════════════════════════
