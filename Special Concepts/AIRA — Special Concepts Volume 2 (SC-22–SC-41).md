@@ -229,10 +229,10 @@ Laid UNDER the diegetic — no spoken line; optional wordless bright vocal on th
 ═══════════════════════════════════════════════════════════════════════════════
 
 # SC-25 · CURL CHASER (Surf) · 4 shots × 6s
-**Logline:** A tropical surf session — a paddle-out through turquoise → a clean drop-in → riding inside the curl →
-a bright kick-out spray. Signature: a fanning spray-arc lit by the sun + a brief rainbow in the mist. Free, sun-
-soaked, joyful.
-**Arc:** PADDLE-OUT → DROP-IN → RIDE THE CURL → KICK-OUT (signature).
+**Logline:** A tropical surf session across one reef break — she paddles out through the glassy line-up, drops in,
+races inside the curl, and kicks out onto the open shoulder. One break, travelled through; brilliant turquoise.
+Free, sun-soaked, joyful.
+**Arc (one place, travelled through):** OUTSIDE LINE-UP (element) → DROP-IN (trick) → INSIDE THE CURL (trick) → KICK-OUT (hero · loop).
 
 ## MASTER AUDIO (outside the frames — background music)
 A 24-second custom cinematic score (4 clips × 6s) in self-resolving ~6-second phrases, trimmable at any phrase
@@ -241,62 +241,56 @@ sub — free, sun-soaked, joyful. Opens (no fade-in) on a bright guitar shimmer.
 held drop-in breath, an exhilarated in-the-curl lift, then a triumphant kick-out resolve for an invisible loop.
 Laid UNDER the diegetic — no spoken line; optional wordless bright vocal on the kick-out only.
 
-## GLOBAL STYLE LOCKS
-- **Outfit:** a coral long-sleeve rash-guard over teal high-waist surf bottoms.
-- **Accessories:** a braided shell anklet, a thin waterproof cord. **Eye colour:** warm amber-hazel. **Makeup:** bare wet-skin glow — luminous skin, SPF sheen, a tinted balm lip, water-beaded lashes. **Hair:** a wet centre-part, slicked back, gathered in a low knotted tail that stays put. **Footwear:** barefoot. **Nails:** short clear-glossy.
-- **Hero object:** a yellow-and-coral shortboard with a white deck-pad and a leg-leash.
-- **Signature (grounded):** a fanning spray-arc lifts off her rail and catches the sun; a brief rainbow flares in the back-lit mist. Real water + light physics.
-- **Journey + light:** brilliant tropical turquoise all the way — open glassy line-up → steepening face → glowing inside-curl light → bright open shoulder. *Footing: she paddles, pops up and rides — real surf balance, no floating.*
+## INGREDIENTS + LOCKS (generate `@subject` & `@object` ONCE — reuse them in every frame)
+- **`@subject` — render ONCE, reuse every frame** (neutral, full body, plain blank bg): `Aira [identity placeholder]` styled as — **Outfit:** coral long-sleeve rash-guard over teal high-waist surf bottoms · **Accessories:** braided shell anklet, a thin waterproof cord · **Eye colour:** warm amber-hazel · **Makeup:** bare wet-skin glow, SPF sheen, tinted balm lip, water-beaded lashes · **Hair:** wet centre-part slicked back into a low knotted tail · **Footwear:** barefoot · **Nails:** short clear-glossy.
+- **`@object` — render ONCE, reuse every frame** (plain blank bg): a yellow-and-coral shortboard with a white deck-pad and a leg-leash.
+- **THE PLACE (ONE reef break, travelled THROUGH):** a single tropical reef break in brilliant turquoise — a glassy outside line-up over a glowing reef, the steepening wave-face, the glowing inside of the curl, then the open shoulder fanning to flat water and a palm-fringed shore. She **rides it through** across the four frames, so each ENVIRONMENT still is the next part of the same wave/break at its own angle.
+- **MAGICAL ELEMENT (used ONCE — Frame 1 only):** a **dolphin breaches** nearby in the glassy line-up, catching the sun (real animal + water physics). No other frame carries an element.
+- **TRICK SHOTS (×2 — Frames 2 & 3, never the element's frame):** Frame 2 = **split-level** shot (half above / half below the surface on the drop-in); Frame 3 = **inside-the-curl tube POV** (camera inside the barrel looking out to the bright exit).
+- **HERO FRAME (Frame 4):** she reads clearly as the hero on the kick-out (closer, arms up, radiant) — with the bright bay behind. Every other frame keeps her small with the wave/water dominant — room on the sides, top and bottom.
+- **Footing:** she paddles, pops up and rides — real surf balance, no floating.
 
 ---
-### FRAME 1 — PADDLE-OUT
-**Frame angle:** high aerial ¾ (~50° down, world-dominant), brilliant tropical noon.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **high aerial ¾**. · Outfit: coral rash-guard + teal surf bottoms. · Accessories: shell anklet. · Eye colour: amber-hazel. · Makeup: wet-skin glow, balm lip. · Hair: wet centre-part, low knotted tail. · Footwear: barefoot. · Nails: clear-glossy. · static & neutral, plain blank background.
-**STILL 2 · OBJECT (plain bg):** the yellow-and-coral shortboard at **high aerial ¾** — white deck-pad, fins, coiled leash. Clean, isolated, plain blank background.
-**STILL 3 · ENVIRONMENT:** a glassy turquoise line-up — clear water over a reef, gentle swell lines, a palm-fringed shore behind, bright sky; high aerial ¾ vantage (world dominant).
+### FRAME 1 — OUTSIDE LINE-UP (magical element · dolphin breach, used once)
+**Frame angle:** high aerial ¾ (~50° down, world-dominant), brilliant tropical noon — she tiny in the open blue.
+**ENVIRONMENT still (the only per-frame ingredient):** a glassy turquoise line-up — clear water over a glowing reef, gentle swell lines, a palm-fringed shore behind, bright sky; high aerial ¾ vantage (world-dominant, huge negative space of water + sky). *(Animate `@subject` paddling on `@object`; she small.) The concept's single element lands here.*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* WIDE high aerial establishing, **one continuous slow track over the water as she paddles out.** [00:00–00:02] she lies prone and paddles out across the glassy turquoise, tiny in the open blue, the reef glowing below. [00:02–00:04] she duck-dives a small swell, the board slicing under, then rises shaking off water with a bright grin, scanning the horizon. [00:04–00:06] she paddles toward a building set further out. Real-time, believable paddle stroke + duck-dive; 9:16. (Environment-dominant wide.)
-- *AUDIO (in-frame):* ambient/object — hands cupping and pulling water, the board slapping swell, gulls, a distant break; voice — Aira's bright breath and a keen "here it comes!".
-**→ Cut (match-on-action) to Frame 2 — she spins, paddles and drops into a wave.**
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact face/identity — animate only gaze + soft expression: a bright delighted grin at the dolphin.
+- *Animation:* WIDE high aerial, **one continuous slow track over the water as she paddles out.** [00:00–00:02] she lies prone and paddles out across the glassy turquoise, tiny in the open blue, the reef glowing below. [00:02–00:04] the **element** — a **dolphin breaches** nearby, arcing through the sun and slipping back under; she lifts her head with a bright delighted grin. [00:04–00:06] she paddles on toward a building set. Real-time, believable paddle stroke + real dolphin breach; 9:16. (Environment-dominant — she small, negative space all around.)
+- *AUDIO (in-frame):* ambient/object — hands cupping and pulling water, the board slapping swell, the dolphin's splash and chitter, gulls, a distant break; voice — Aira's bright "oh — hi!" and a delighted laugh.
+**→ Cut (match-on-action) to Frame 2 — she spins, paddles and drops in (the split-level trick).**
 
 ---
-### FRAME 2 — DROP-IN
-**Frame angle:** low ¾ front (~30° right, water-level track-with), steep back-lit face.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **low ¾ front (~30° right)**. · Outfit: coral rash-guard + teal bottoms. · Accessories: shell anklet. · Eye colour: amber-hazel. · Makeup: wet-skin glow, balm lip. · Hair: wet centre-part, low knotted tail. · Footwear: barefoot. · Nails: clear-glossy. · static & neutral, plain blank background.
-**STILL 2 · OBJECT (plain bg):** the shortboard at **low ¾ front** — nose foremost, deck-pad, fins. Clean, isolated, plain blank background.
-**STILL 3 · ENVIRONMENT:** a steepening turquoise wave-face back-lit by the sun — a glassy wall, light glowing through the lip, spray feathering off the crest; low water-level ¾-front vantage.
+### FRAME 2 — DROP-IN (trick shot · split-level over/under water)
+**Frame angle:** water-level **split-level** — half above the surface, half below — on the steep back-lit face.
+**ENVIRONMENT still (the only per-frame ingredient):** a steepening turquoise wave-face back-lit by the sun, paired with the **underwater half** — the glowing reef and shafts below the surface line; water-level split-level vantage. *(Animate `@subject` popping up on `@object`; the under-half shows board + reef.)*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* MEDIUM low water-level, **one continuous track-with as she drops in.** [00:00–00:02] she paddles hard, feels the wave lift the tail, and pops to her feet in one clean motion at the top of the glassy face. [00:02–00:04] she drops down the steepening wall, knees compressing, a hand trailing the face, light glowing through the lip behind her; a focused thrilled grin. [00:04–00:06] she sets her line and angles into the forming curl. Real-time, believable pop-up + drop + surf stance; 9:16.
-- *AUDIO (in-frame):* ambient/object — the board planing and chattering on the face, the wave hissing and building, spray; voice — Aira's sharp committed "woah—yes!".
-**→ Cut (match-on-action) to Frame 3 — she races inside the curl.**
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact identity — animate only gaze + soft expression: a focused, thrilled, committed look.
+- *Animation:* MEDIUM water-level, **one continuous track — the split-level trick.** [00:00–00:02] the frame splits at the waterline: above, she pops to her feet at the top of the glassy face; below, the reef and shafts glow and the fins bite. [00:02–00:04] she drops down the steepening wall, knees compressing, a hand trailing the face, the split-line dropping with her. [00:04–00:06] she sets her line and angles into the forming curl. Real-time, believable pop-up + drop + surf stance + real split-level water; 9:16.
+- *AUDIO (in-frame):* ambient/object — the board planing and chattering on the face, the muffled underwater rumble, the wave hissing and building, spray; voice — Aira's sharp committed "woah—yes!".
+**→ Cut (match-on-action) to Frame 3 — she races inside the curl (the tube POV trick).**
 
 ---
-### FRAME 3 — RIDE THE CURL
-**Frame angle:** full profile (water-level, parallel track), glowing inside-curl light.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, in **full profile**. · Outfit: coral rash-guard + teal bottoms. · Accessories: shell anklet. · Eye colour: amber-hazel. · Makeup: wet-skin glow, balm lip. · Hair: wet centre-part, low knotted tail. · Footwear: barefoot. · Nails: clear-glossy. · static & neutral, plain blank background.
-**STILL 2 · OBJECT (plain bg):** the shortboard in **full profile** — full rail, deck-pad, fins. Clean, isolated, plain blank background.
-**STILL 3 · ENVIRONMENT:** the glowing inside of a turquoise curl — a translucent wave wrapping overhead, sun glowing through the water, spray raining off the lip, a bright exit ahead; water-level profile vantage inside the wave.
+### FRAME 3 — INSIDE THE CURL (trick shot · tube POV)
+**Frame angle:** **inside-the-barrel POV** — camera within the wrapping curl looking out to the bright exit.
+**ENVIRONMENT still (the only per-frame ingredient):** the glowing inside of a turquoise curl — a translucent wave wrapping fully overhead, sun glowing through the water, spray raining off the lip, a bright circular exit ahead; POV vantage from inside the barrel. *(Animate `@subject` on `@object` driving the line, framed by the tube.)*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* MEDIUM profile, **one continuous parallel track at her speed inside the curl.** [00:00–00:02] she races along inside the wrapping curl, a hand grazing the glowing wall, the wave arcing translucent overhead. [00:02–00:04] the signature flares — a fanning spray-arc lifts off her rail and a brief rainbow glints in the back-lit mist; she beams in pure flow. [00:04–00:06] the bright exit opens and she drives toward it. Real-time, believable trim line + real curl + spray; 9:16. (Wrapping wave + water lead.)
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact identity — a beaming, in-the-flow ecstasy (read as she's framed in the tube).
+- *Animation:* MEDIUM POV, **one continuous shot from inside the barrel.** [00:00–00:02] the curl wraps overhead and the camera sits inside the glowing tube, she driving the line toward the bright circular exit, a hand grazing the wall. [00:02–00:04] spray rains off the lip and light glows through the translucent water, she beaming in pure flow inside the barrel. [00:04–00:06] the exit rushes closer and she drives toward the open shoulder. Real-time, believable trim line + real curl + spray; 9:16. (The wrapping wave dominates — she framed within it.)
 - *AUDIO (in-frame):* ambient/object — the roaring hollow of the curl, water raining off the lip, the rail hiss; voice — Aira's ecstatic whoop echoing inside the wave.
-**→ Cut (match-on-action) to Frame 4 — she bursts out and kicks off the top.**
+**→ Cut (match-on-action) to Frame 4 — she bursts out and kicks off the top (her hero beat).**
 
 ---
-### FRAME 4 — KICK-OUT (signature · loop)
-**Frame angle:** low-hero ¾ opening to front (~30°, crane pull-back), bright open shoulder light.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **low-hero ¾ (~30°)**. · Outfit: coral rash-guard + teal bottoms. · Accessories: shell anklet. · Eye colour: amber-hazel. · Makeup: wet-skin glow, balm lip. · Hair: wet centre-part, low knotted tail. · Footwear: barefoot. · Nails: clear-glossy. · static & neutral, plain blank background.
-**STILL 2 · OBJECT (plain bg):** the shortboard at **low-hero ¾** — angled up off the lip, deck-pad, fins flashing. Clean, isolated, plain blank background.
-**STILL 3 · ENVIRONMENT:** a bright open wave-shoulder fanning out to flat turquoise — the wave softening, spray hanging in the sun, the palm shore beyond; low-hero ¾ vantage with crane reveal.
+### FRAME 4 — KICK-OUT (HERO · loop)
+**Frame angle:** low-hero ¾ opening to front (~30°, crane pull-back), bright open shoulder light — closer hero, bay behind.
+**ENVIRONMENT still (the only per-frame ingredient):** a bright open wave-shoulder fanning out to flat turquoise — the wave softening, spray hanging in the sun, the palm shore beyond; low-hero ¾ vantage with crane reveal. *(Animate `@subject` snapping the kick-out on `@object`.)*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* WIDE low-hero, **one continuous slow crane pull-back as she kicks out.** [00:00–00:02] she drives up the open shoulder and snaps a bright kick-out off the top, the board flaring spray into the sun. [00:02–00:04] the signature peaks — a big spray-arc fans up with a rainbow shimmer and hangs in the light; she throws her arms up with a radiant triumphant laugh as she settles back to the water. [00:04–00:06] the camera cranes back to reveal the whole bright bay and reef around her — easing toward the paddle-out opening for a loop. Real-time, believable kick-out + real spray; 9:16.
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact identity — animate only gaze + soft expression: a **radiant, triumphant, arms-up laugh** — her hero beat.
+- *Animation:* WIDE low-hero, **one continuous slow crane pull-back as she kicks out.** [00:00–00:02] she drives up the open shoulder and snaps a bright kick-out off the top, the board flaring spray into the sun. [00:02–00:04] she throws her arms up with a radiant triumphant laugh, spray fanning around her — her hero moment — as she settles back to the water. [00:04–00:06] the camera cranes back to reveal the whole bright bay and reef around her — easing toward the line-up opening for a loop. Real-time, believable kick-out + real spray; 9:16. (Hero framing — closer, but the bay stays behind her.)
 - *AUDIO (in-frame):* ambient/object — the slap and crash of the kick-out spray, water settling, gulls, the shore break; voice — Aira's triumphant "woohoo!" and a delighted laugh.
-**→ Loops back to Frame 1 (the paddle-out).**
+**→ Loops back to Frame 1 (the outside line-up).**
 
-**Stills to generate:** 3 per frame × 4 frames = 12. Score = 24s MASTER AUDIO under the diegetic.
+**Stills to generate:** **`@subject` (1) + `@object` (1) + 4 ENVIRONMENT stills = 6 total** — subject & object rendered once and reused; only environment + video prompt change per frame. ONE reef break travelled through (line-up → drop-in → curl → kick-out); dolphin-breach element in Frame 1 only; trick shots in Frames 2 (split-level) & 3 (tube POV); hero beat in Frame 4. Score = 24s MASTER AUDIO under the diegetic.
 
 
 ═══════════════════════════════════════════════════════════════════════════════
