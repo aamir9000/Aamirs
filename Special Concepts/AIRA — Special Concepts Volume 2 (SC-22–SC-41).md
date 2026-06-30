@@ -890,10 +890,9 @@ Laid UNDER the diegetic — no spoken line; optional wordless soaring vocal on t
 ═══════════════════════════════════════════════════════════════════════════════
 
 # SC-35 · CANOPY FLYER (Zip-Line) · 4 shots × 6s
-**Logline:** A thrilling jungle zip — a treetop launch → flying over a jungle river → past a waterfall → to a
-canopy-deck landing. Signature: a leaf-spray slipstream + light-shafts strobing + drifting seeds. Adventurous,
-exhilarating, playful.
-**Arc:** TREETOP LAUNCH → OVER THE JUNGLE RIVER → PAST THE WATERFALL → CANOPY-DECK LANDING (signature).
+**Logline:** A thrilling zip through one jungle canopy realm — a treetop launch, flying over a river canyon, past a
+thundering waterfall, to a canopy-deck landing. One realm, flown through. Adventurous, exhilarating, playful.
+**Arc (one place, travelled through):** TREETOP LAUNCH (trick) → OVER THE JUNGLE RIVER (element) → PAST THE WATERFALL (trick) → CANOPY-DECK LANDING (hero · loop).
 
 ## MASTER AUDIO (outside the frames — background music)
 A 24-second custom cinematic score (4 clips × 6s) in self-resolving ~6-second phrases, trimmable at any phrase
@@ -902,62 +901,56 @@ adventurous, exhilarating, playful. Opens (no fade-in) on a bright driving figur
 rushing river-flight lift, a thundering waterfall peak, then a triumphant deck-landing resolve for an invisible
 loop. Laid UNDER the diegetic — no spoken line; optional wordless bright vocal on the landing only.
 
-## GLOBAL STYLE LOCKS
-- **Outfit:** a coral racer-back tank over khaki adventure shorts, with a fitted climbing harness over it.
-- **Headwear:** a khaki safari cap. **Accessories:** the zip-harness webbing and carabiners, ribbed knee socks, a paracord bracelet. **Eye colour:** warm amber-hazel. **Makeup:** sporty fresh glow — luminous skin, a warm flush, a tinted balm lip, SPF sheen. **Hair:** a high bubble ponytail streaming behind. **Footwear:** tan hiking boots. **Nails:** short coral.
-- **Hero object:** a zip-line harness rig — a heavy steel trolley on the cable, a webbing harness, padded handles and carabiners.
-- **Signature (grounded):** a leaf-spray slipstream peels off the canopy in her wake, light-shafts strobe through the trees as she flies, and drifting seeds lift in the air. Real leaf + light + slipstream physics.
-- **Journey + light:** bright lush jungle all the way — high treetop launch → green river canyon → cool waterfall spray → sun-dappled canopy deck. *Footing: she's harnessed and flying — gripping the handles, body streamlined, a real zip-line glide (never floating free).*
+## INGREDIENTS + LOCKS (generate `@subject` & `@object` ONCE — reuse them in every frame)
+- **`@subject` — render ONCE, reuse every frame** (neutral, full body, plain blank bg): `Aira [identity placeholder]` styled as — **Outfit:** coral racer-back tank over khaki adventure shorts, with a fitted climbing harness over it · **Headwear:** khaki safari cap · **Accessories:** zip-harness webbing and carabiners, ribbed knee socks, a paracord bracelet · **Eye colour:** warm amber-hazel · **Makeup:** sporty fresh glow, warm flush, tinted balm lip, SPF sheen · **Hair:** high bubble ponytail streaming behind · **Footwear:** tan hiking boots · **Nails:** short coral.
+- **`@object` — render ONCE, reuse every frame** (plain blank bg): a zip-line harness rig — a heavy steel trolley on the cable, a webbing harness, padded handles and carabiners.
+- **THE PLACE (ONE jungle canopy realm, flown THROUGH):** a single lush jungle realm — a high treetop launch platform, a green river canyon, a thundering waterfall, and a sun-dappled canopy-deck landing; bright lush jungle throughout. She **zips through it** across the four frames, so each ENVIRONMENT still is the next part of the same realm at its own angle. (Leaf-spray slipstream, light-shafts and drifting seeds are the realm's own natural detail.)
+- **MAGICAL ELEMENT (used ONCE — Frame 2 only):** a **kaleidoscope of blue morpho butterflies** rises shimmering from the canopy as she flies over the river (real insect physics). No other frame carries an element.
+- **TRICK SHOTS (×2 — Frames 1 & 3, never the element's frame):** Frame 1 = **trailing-trolley POV** (camera mounted on the trolley behind her as she launches and flies away down the cable); Frame 3 = **fly-by-the-lens through the mist** (she zips head-on toward and whips past the camera through the rising waterfall-mist).
+- **HERO FRAME (Frame 4):** she reads clearly as the hero landing on the canopy deck (closer, unclipping, arms up, radiant triumph). Every other frame keeps her small with the jungle dominant — room on the sides, top and bottom.
+- **Footing:** she's harnessed and flying — gripping the handles, body streamlined, a real zip-line glide (never floating free).
 
 ---
-### FRAME 1 — TREETOP LAUNCH
-**Frame angle:** low ¾ front (~30° right, platform-level track), bright treetop side-light.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **low ¾ front (~30° right)**. · Outfit: coral racer-back tank + khaki shorts + climbing harness. · Headwear: khaki safari cap. · Accessories: harness webbing + carabiners, knee socks, paracord bracelet. · Eye colour: amber-hazel. · Makeup: sporty glow, balm lip. · Hair: high bubble ponytail. · Footwear: tan hiking boots. · Nails: short coral. · static & neutral, plain blank background.
-**STILL 2 · OBJECT (plain bg):** the zip-line harness rig at **low ¾ front** — steel trolley on the cable, webbing harness, padded handles, carabiners. Clean, isolated, plain blank background.
-**STILL 3 · ENVIRONMENT:** a high treetop launch platform — a wooden deck lashed to a giant tree, the zip-cable stretching out over a vast green canopy, far ridges, bright sky; low ¾-front platform vantage.
+### FRAME 1 — TREETOP LAUNCH (trick shot · trailing-trolley POV)
+**Frame angle:** **trolley-mounted POV** behind her, bright treetop side-light — looking down the cable as she flies away.
+**ENVIRONMENT still (the only per-frame ingredient):** a high treetop launch platform — a wooden deck lashed to a giant tree, the zip-cable stretching out over a vast green canopy, far ridges, bright sky; POV-down-the-cable vantage. *(Animate `@subject` clipped to `@object`, flying away down the cable.)*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* MEDIUM low ¾ front, **one continuous track as she launches off the platform.** [00:00–00:02] she clips in at the high treetop platform, grips the handles, and steps off into the launch, the cable stretching out over the canopy. [00:02–00:04] the signature stirs — a leaf-spray slipstream peels off the trees and seeds lift as she accelerates; she whoops with a thrilled wide grin, ponytail streaming. [00:04–00:06] she zips out fast over a green river canyon. Real-time, believable zip-launch + harnessed body + real slipstream; 9:16.
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact face/identity — a thrilled wide grin (read as she glances back / in profile).
+- *Animation:* MEDIUM **trolley-POV**, **one continuous shot from behind on the trolley — the trailing-POV trick.** [00:00–00:02] from the trolley the camera looks down the cable as she clips in, grips the handles, and steps off into the launch. [00:02–00:04] she accelerates away down the cable over the vast canopy, ponytail streaming, a leaf-spray slipstream peeling off the trees, whooping. [00:04–00:06] she zips out fast over a green river canyon. Real-time, believable zip-launch + harnessed body + real slipstream; 9:16.
 - *AUDIO (in-frame):* ambient/object — the rising zing of the trolley on the cable, wind rushing, leaves whipping, jungle birds; voice — Aira's exhilarated "woohoo!" and a thrilled laugh.
-**→ Cut (match-on-action) to Frame 2 — she flies out over the jungle river.**
+**→ Cut (match-on-action) to Frame 2 — she flies out over the jungle river (the butterfly element).**
 
 ---
-### FRAME 2 — OVER THE JUNGLE RIVER
-**Frame angle:** high aerial ¾ (~50° down, world-dominant), bright river-canyon light.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **high aerial ¾**. · Outfit: coral tank + khaki shorts + harness. · Headwear: safari cap. · Accessories: harness + carabiners, knee socks, bracelet. · Eye colour: amber-hazel. · Makeup: sporty glow, balm lip. · Hair: high bubble ponytail. · Footwear: hiking boots. · Nails: short coral. · static & neutral, plain blank background.
-**STILL 2 · OBJECT (plain bg):** the trolley rig at **high aerial ¾** — trolley on the cable, harness lines, handles. Clean, isolated, plain blank background.
-**STILL 3 · ENVIRONMENT:** a green jungle river canyon from above — an emerald river winding far below, dense canopy walls, mist rising, light-shafts piercing the trees; high aerial ¾ vantage (world dominant).
+### FRAME 2 — OVER THE JUNGLE RIVER (magical element · blue morpho butterflies, used once)
+**Frame angle:** high aerial ¾ (~50° down, world-dominant), bright river-canyon light — she small over the canyon.
+**ENVIRONMENT still (the only per-frame ingredient):** a green jungle river canyon from above — an emerald river winding far below, dense canopy walls, mist rising, light-shafts piercing the trees; high aerial ¾ vantage (world-dominant, big negative space). *The concept's single element lands here.*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* WIDE high aerial, **one continuous slow track flying with her over the canyon.** [00:00–00:02] she zips out fast over the green river canyon, the emerald river winding far below, canopy walls rushing past. [00:02–00:04] she spreads one arm like a wing and looks down at the river with exhilarated awe, light-shafts strobing over her, seeds drifting. [00:04–00:06] she flies on toward a thundering waterfall. Real-time, believable zip-glide + harnessed body + real canopy parallax; 9:16. (Environment-dominant wide.)
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact identity — animate only gaze + soft expression: an exhilarated, wide-eyed awe.
+- *Animation:* WIDE high aerial, **one continuous slow track flying with her over the canyon.** [00:00–00:02] she zips out fast over the green river canyon, the emerald river winding far below, canopy walls rushing past. [00:02–00:04] the **element** — a kaleidoscope of shimmering blue morpho butterflies rises from the canopy around her; she spreads one arm like a wing and looks down with exhilarated awe. [00:04–00:06] she flies on toward a thundering waterfall. Real-time, believable zip-glide + harnessed body + real butterflies; 9:16. (Environment-dominant — she small over the canyon.)
 - *AUDIO (in-frame):* ambient/object — the steady zing of the cable, wind, the river far below, birds and insects; voice — Aira's awed "woah!" and a soaring laugh.
-**→ Cut (match-on-action) to Frame 3 — she flies past a thundering waterfall.**
+**→ Cut (match-on-action) to Frame 3 — she flies head-on through the waterfall mist (the fly-by trick).**
 
 ---
-### FRAME 3 — PAST THE WATERFALL
-**Frame angle:** full profile (true side, parallel track), cool bright waterfall light.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, in **full profile**. · Outfit: coral tank + khaki shorts + harness. · Headwear: safari cap. · Accessories: harness + carabiners, knee socks, bracelet. · Eye colour: amber-hazel. · Makeup: sporty glow, balm lip. · Hair: high bubble ponytail. · Footwear: hiking boots. · Nails: short coral. · static & neutral, plain blank background.
-**STILL 2 · OBJECT (plain bg):** the trolley rig in **full profile** — trolley, cable, harness lines side-on. Clean, isolated, plain blank background.
-**STILL 3 · ENVIRONMENT:** a thundering jungle waterfall — white water crashing into a misty pool, wet black cliffs and ferns, a rainbow in the spray, lush canopy; profile vantage across the falls.
+### FRAME 3 — PAST THE WATERFALL (trick shot · fly-by-the-lens through the mist)
+**Frame angle:** head-on — she zips toward and whips past the camera through the rising mist, cool bright waterfall light.
+**ENVIRONMENT still (the only per-frame ingredient):** a thundering jungle waterfall — white water crashing into a misty pool, wet black cliffs and ferns, lush canopy, mist rising into the cable's path; head-on vantage facing the falls. *(Animate `@subject` on `@object` flying head-on through the mist toward the lens.)*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* MEDIUM profile, **one continuous parallel track at her speed across the falls.** [00:00–00:02] she zips across the face of the thundering waterfall, cool mist blasting over her, white water crashing beside. [00:02–00:04] she lets out a delighted shriek-laugh as the cool spray hits, a rainbow flashing in the mist, droplets beading on her skin. [00:04–00:06] she flies on toward a canopy-deck landing. Real-time, believable zip-glide + real waterfall mist; 9:16. (Waterfall + canopy share the frame.)
-- *AUDIO (in-frame):* ambient/object — the roar of the waterfall, the cable zing, mist hissing, jungle birds; voice — Aira's delighted shriek-laugh and a bright "yeahh!".
-**→ Cut (match-on-action) to Frame 4 — she brakes onto the canopy deck.**
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact identity — a delighted, open shriek-laugh as the spray hits.
+- *Animation:* MEDIUM, **one continuous shot — the fly-by-the-lens trick.** [00:00–00:02] far down the cable she comes zipping head-on toward the camera through the rising waterfall-mist, white water crashing beside. [00:02–00:04] she blasts through the cool spray and **whips past the lens** with a delighted shriek-laugh, droplets beading, the camera catching her flash by. [00:04–00:06] she flies on toward a canopy-deck landing. Real-time, believable zip-glide + real waterfall mist; 9:16. (Waterfall + mist dominate as she flies through.)
+- *AUDIO (in-frame):* ambient/object — the roar of the waterfall, the cable zing, mist hissing, a Doppler whip as she passes; voice — Aira's delighted shriek-laugh and a bright "yeahh!".
+**→ Cut (match-on-action) to Frame 4 — she brakes onto the canopy deck (her hero beat).**
 
 ---
-### FRAME 4 — CANOPY-DECK LANDING (signature · loop)
-**Frame angle:** low-hero ¾ opening to front (~30°, crane pull-back), sun-dappled canopy light.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **low-hero ¾ (~30°)** landing on the deck. · Outfit: coral tank + khaki shorts + harness. · Headwear: safari cap. · Accessories: harness + carabiners, knee socks, bracelet. · Eye colour: amber-hazel. · Makeup: sporty glow, balm lip. · Hair: high bubble ponytail. · Footwear: hiking boots. · Nails: short coral. · static & neutral, plain blank background.
-**STILL 2 · OBJECT (plain bg):** the trolley rig at **low-hero ¾** — trolley braked on the cable, harness, handles. Clean, isolated, plain blank background.
-**STILL 3 · ENVIRONMENT:** a sun-dappled canopy-deck landing — a wooden platform high in a giant tree, rope rails and prayer-flags, the vast green canopy and far ridges beyond, light-shafts pouring down; low-hero ¾ vantage with crane reveal.
+### FRAME 4 — CANOPY-DECK LANDING (HERO · loop)
+**Frame angle:** low-hero ¾ opening to a crane pull-back, sun-dappled canopy light — closer hero, then world reveal.
+**ENVIRONMENT still (the only per-frame ingredient):** a sun-dappled canopy-deck landing — a wooden platform high in a giant tree, rope rails and prayer-flags, the vast green canopy and far ridges beyond, light-shafts pouring down; low-hero ¾ vantage with crane reveal. *(Animate `@subject` braking and landing on the deck, `@object` clunking to a stop.)*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* WIDE low-hero, **one continuous slow crane pull-back as she lands on the deck.** [00:00–00:02] she brakes and touches down on the high canopy deck, boots landing sure, the trolley clunking to a stop. [00:02–00:04] the signature settles — a last leaf-spray drifts in and seeds float in the light-shafts; she unclips, throws her arms up and beams to lens with radiant triumph. [00:04–00:06] the camera cranes back to reveal the whole canopy deck and vast green jungle around her — easing toward the treetop-launch opening for a loop. Real-time, believable braked landing + real leaf-drift; 9:16.
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact identity — animate only gaze + soft expression: a **radiant, triumphant, arms-up beam** — her hero beat.
+- *Animation:* WIDE low-hero, **one continuous slow crane pull-back as she lands on the deck.** [00:00–00:02] she brakes and touches down on the high canopy deck, boots landing sure, the trolley clunking to a stop. [00:02–00:04] she unclips, throws her arms up and beams to lens with radiant triumph, a last leaf-spray drifting and seeds floating in the light-shafts — her hero moment. [00:04–00:06] the camera cranes back to reveal the whole canopy deck and vast green jungle around her — easing toward the treetop-launch opening for a loop. Real-time, believable braked landing + real leaf-drift; 9:16. (Hero framing — closer, then the jungle reveals around her.)
 - *AUDIO (in-frame):* ambient/object — the trolley braking and clunking, boots on wood, prayer-flags snapping, birds; voice — Aira's triumphant "woohoo — that was incredible!" and a breathless laugh.
 **→ Loops back to Frame 1 (the treetop launch).**
 
-**Stills to generate:** 3 per frame × 4 frames = 12. Score = 24s MASTER AUDIO under the diegetic.
+**Stills to generate:** **`@subject` (1) + `@object` (1) + 4 ENVIRONMENT stills = 6 total** — subject & object rendered once and reused; only environment + video prompt change per frame. ONE jungle realm flown through (launch → river → waterfall → deck); blue-morpho element in Frame 2 only; trick shots in Frames 1 (trailing-trolley POV) & 3 (fly-by through mist); hero beat in Frame 4. Score = 24s MASTER AUDIO under the diegetic.
 
 
 ═══════════════════════════════════════════════════════════════════════════════
