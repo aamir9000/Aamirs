@@ -1026,12 +1026,11 @@ Layered: flute/string melody, warm sub, driving percussion riding her run, a sin
 
 ═══════════════════════════════════════════════════════════════════════════════
 
-# SC-16 · BECOME THE BLOOM (Material → Couture) · 3 shots × 6s · *(TRANSFORM concept — 3rd still = @TEXTURE, not Object; wardrobe deliberately transforms per frame)*
-**Logline:** A material becomes couture — the subject walks a luxe garden in a simple slip; a drift of fresh
-blossom petals and soft light climbs her form and, beat by beat, builds itself into a full haute-couture gown.
-Grounded (real petal weight, real fabric drape forming), never cartoon. Signature: petals + light assemble into
-couture across the three beats.
-**Arc:** GATHERING (garden path) → FORMING (marble colonnade) → BLOOM-COMPLETE (fountain court / hero plinth).
+# SC-16 · BECOME THE BLOOM (Material → Couture) · 3 shots × 6s · *(TRANSFORM exception — `@subject` per wardrobe state + `@texture` swatch (once) + ENVIRONMENT stills; no `@object`)*
+**Logline:** A material becomes couture along one luxe garden — she walks a blossom path in a simple slip and, beat
+by beat, fresh petals and soft light climb her form and build into a full haute-couture gown. One garden, walked
+through; soft luxe morning brightening to the reveal. Grounded (real petal weight, real fabric drape), never cartoon.
+**Arc (one place, travelled through — TRANSFORM):** GATHERING garden path (element) → FORMING marble colonnade (trick) → BLOOM-COMPLETE fountain court (hero).
 
 ## MASTER AUDIO (outside the frames — background music)
 An 18-second custom cinematic score (3 clips × 6s) in self-resolving ~6-second phrases, trimmable at any phrase
@@ -1041,50 +1040,46 @@ wondrous swell as the gown forms, then a radiant peak on the bloom-complete reve
 loop. Laid UNDER the diegetic — no spoken line; optional wordless choir-swell on the reveal only. Layered:
 piano/harp, warm sub, glassy choir atmosphere, a single swell for the bloom-complete.
 
-## GLOBAL STYLE LOCKS
-- **Wardrobe (TRANSFORMS — the signature):** Frame 1 a simple ivory silk slip; Frame 2 a half-built petal-and-light bodice + forming skirt; Frame 3 a full blooming petal-couture gown (sculpted bodice, cascading petal-train). The SUBJECT still each frame shows that beat's wardrobe state.
-- **Headwear:** none. **Accessories:** fine pale-gold ear studs. **Eye colour:** warm amber-hazel. **Makeup:** luminous editorial — glowing skin, soft rose lip, dewy. **Hair:** a soft sculptural **low chignon** with a few loose tendrils (constant). **Footwear:** bare/nude (under the gown). **Nails:** short luminous pale-rose.
-- **3rd ingredient = `@texture`:** the building material — fresh blossom petals + soft light — a clean material swatch (plain bg), so the gown forms from a real reference, not invented.
-- **Signature (grounded-surreal):** petals + light climb and assemble into couture across the 3 beats; real petal weight + real cloth drape; luxe, dreamlike.
-- **Journey + light:** soft luxe sun brightening to the reveal — soft morning garden → diffused colonnade glow → bright luxe fountain-court key.
+## INGREDIENTS + LOCKS (TRANSFORM — `@subject` per wardrobe state + `@texture` once; no `@object`)
+- **`@subject` — render PER WARDROBE STATE** (neutral, full body, plain blank bg): `Aira [identity placeholder]` styled as — **Wardrobe (TRANSFORMS — the premise):** F1 a simple ivory silk slip (first petals clinging); F2 a half-built petal-and-light bodice + forming skirt; F3 a full blooming petal-couture gown (sculpted bodice, cascading petal-train) — each frame's subject still shows that beat's state · **Hair:** a soft sculptural low chignon with a few loose tendrils (constant) · **Accessories:** fine pale-gold ear studs · **Eye colour:** warm amber-hazel · **Makeup:** luminous editorial — glowing skin, soft rose lip, dewy · **Footwear:** bare/nude (under the gown) · **Nails:** short luminous pale-rose.
+- **`@texture` — render ONCE, reuse every frame** (plain blank bg): the building material — fresh blossom petals woven with soft light, a clean material swatch, so the gown forms from a real reference (not an `@object`).
+- **THE PLACE (ONE luxe garden, walked THROUGH):** a single blossoming estate — a garden path, a marble colonnade, and a bright fountain court with a hero plinth; soft luxe sun brightening morning-garden → diffused colonnade glow → bright fountain-court key as she walks. She **walks through it** across the three frames, so each ENVIRONMENT still is the next part of the same garden at its own angle. *Footing: she walks, then poses on the plinth.*
+- **MAGICAL ELEMENT (used ONCE — Frame 1; written into that frame's VIDEO PROMPT):** on the garden path a soft cascade of wisteria petals falls and lifts around her, the first of the gown gathering from it (real wisteria petal-fall, no cartoon sparkle). The gown-build continues as the concept premise; the distinct element flourish is this wisteria-fall in Frame 1.
+- **TRICK SHOT (×1 — Frame 2, never the element's frame; written into its frame's VIDEO PROMPT):** Frame 2 = **rack-focus petals→her** (focus pulls from the climbing foreground petals onto her as the gown forms).
+- **HERO FRAME (Frame 3):** she reads clearly as the hero on the fountain-court plinth (closer, the full-gown reveal, calm commanding gaze). The other frames keep the garden present — room on the sides, top and bottom.
+- **Footing:** she walks then poses — real elegant weight-shift + the gown's real cloth-drape as it forms.
 
 ---
-### FRAME 1 — GATHERING (garden path)
+### FRAME 1 — GATHERING (garden path) (magical element · wisteria petal-fall, used once)
 **Frame angle:** low ¾ front (~30° right, low), warm soft morning light.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **low ¾ front (~30° right)**. · Outfit (state): a simple ivory silk slip; first petals beginning to lift and cling. · Headwear: none. · Accessories: pale-gold studs. · Eye colour: amber-hazel. · Makeup: luminous, soft rose lip. · Hair: soft low chignon w/ tendrils. · Footwear: nude. · Nails: pale-rose. · static & neutral, plain blank background.
-**STILL 2 · @TEXTURE (plain bg):** the building material — fresh blush-pink + white blossom petals suspended in soft golden light, a clean material/light swatch. Isolated, plain blank background.
-**STILL 3 · ENVIRONMENT:** a luxe blossoming garden path — manicured hedges, blossom trees, soft morning light, dew; low ¾-front vantage.
+**ENVIRONMENT still (the only per-frame environment ingredient):** a luxe blossoming garden path — manicured hedges, blossom trees, a wisteria arch overhead dropping petals, soft morning light, dew; low ¾-front vantage. *The concept's single element flourish lands here.* *(Animate `@subject` [F1 slip state] on the path as `@texture` petals gather.)*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* FULL, low ¾, **one continuous slow dolly-in**; the `@texture` blossom-and-light material gathers on her. [00:00–00:02] she walks the blossom path in the ivory slip, fingers grazing a low bloom, a serene curious gaze. [00:02–00:04] fresh petals and soft light lift from the path and cling to her form — the first of the gown gathering at her shoulder and waist, real petal weight. [00:04–00:06] she walks on, the material thickening softly, a faint knowing smile. Real-time, grounded gathering physics; 9:16.
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact face/identity — animate only gaze + soft expression: a serene, curious, faint knowing smile.
+- *Animation:* FULL low ¾, **one continuous slow dolly-in**; the `@texture` blossom-and-light material gathers on her. [00:00–00:02] she walks the blossom path in the ivory slip, fingers grazing a low bloom, a serene curious gaze. [00:02–00:04] the **element** falls — a soft cascade of wisteria petals drops from the arch and lifts around her, the first of the gown gathering at her shoulder and waist from the `@texture` material, real petal weight. [00:04–00:06] she walks on, the material thickening softly, a faint knowing smile. Real-time, grounded gathering physics + real wisteria fall; 9:16.
 - *AUDIO (in-frame):* ambient/object — a soft garden breeze, petals lifting and rustling, the faint hush of the silk slip, birdsong; voice — a soft serene breath from Aira.
-**→ Cut (match-on-action) to Frame 2 — under the colonnade the material climbs into a forming gown.**
+**→ Cut (match-on-action) to Frame 2 — under the colonnade the material climbs into a forming gown (the rack-focus trick).**
 
 ---
-### FRAME 2 — FORMING (marble colonnade)
-**Frame angle:** ¾ turning (~40°, orbiting arc), diffused luxe colonnade glow.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **¾ turning (~40°)**. · Outfit (state): a half-built petal-and-light bodice + forming skirt swirling up. · Headwear: none. · Accessories: pale-gold studs. · Eye colour: amber-hazel. · Makeup: luminous, soft rose lip. · Hair: soft low chignon w/ tendrils. · Footwear: nude. · Nails: pale-rose. · static & neutral, plain blank background.
-**STILL 2 · @TEXTURE (plain bg):** the climbing petal-couture material — petals + light mid-assembly into fabric, a clean swatch. Isolated, plain blank background.
-**STILL 3 · ENVIRONMENT:** a marble colonnade — tall pale columns, diffused luxe glow, soft shafts between pillars; ¾ vantage down the columns.
+### FRAME 2 — FORMING (marble colonnade) (trick shot · rack-focus petals→her)
+**Frame angle:** ¾ turning (~40°, orbiting arc) with climbing foreground petals, diffused luxe colonnade glow.
+**ENVIRONMENT still (the only per-frame environment ingredient):** a marble colonnade — tall pale columns, diffused luxe glow, soft shafts between pillars, climbing petals in the foreground; ¾ vantage down the columns. *(Animate `@subject` [F2 forming state] turning as `@texture` climbs and forms couture.)*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* MEDIUM ¾, **one continuous smooth orbit arcing around her**; the `@texture` climbs and forms couture. [00:00–00:02] she steps into the colonnade and begins a slow turn, the petal-and-light material spiralling up from her hem. [00:02–00:04] the gown forms in real time — a sculpted petal bodice cinching at the waist, a forming skirt fanning as she turns, light passing through it; she watches it climb her arm with dawning awe. [00:04–00:06] the half-built gown settles into shape as she completes the turn to a luminous half-smile. Real-time, real cloth-drape + petal physics as it forms; 9:16.
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact identity — dawning awe, a luminous half-smile.
+- *Animation:* MEDIUM ¾, **one continuous rack-focus pulling from the climbing foreground petals onto her, then a smooth orbit arcing around her — the rack-focus trick.** [00:00–00:02] focus rests on the petal-and-light material spiralling up in the foreground, then racks back onto her as she begins a slow turn under the colonnade. [00:02–00:04] the gown forms in real time — a sculpted petal bodice cinching at the waist, a forming skirt fanning as she turns, light passing through it; she watches it climb her arm with dawning awe. [00:04–00:06] the half-built gown settles into shape as she completes the turn to a luminous half-smile. Real-time, real cloth-drape + petal physics as it forms; 9:16.
 - *AUDIO (in-frame):* ambient/object — a gentle swirl of petals climbing and settling into fabric, a soft cloth-rustle, a faint colonnade echo; voice — Aira's soft awed breath, a faint "oh" as it climbs her arm.
-**→ Cut (match-on-action) to Frame 3 — she steps into the bright fountain court as the gown completes.**
+**→ Cut (match-on-action) to Frame 3 — she steps into the bright fountain court as the gown completes (her hero beat).**
 
 ---
-### FRAME 3 — BLOOM-COMPLETE (fountain court / hero plinth · loop)
-**Frame angle:** low front hero (head-on, slight up-tilt), bright luxe fountain-court key light.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **low front hero**. · Outfit (state): a full blooming petal-couture gown — sculpted bodice, cascading petal-train, soft light through the layers. · Headwear: none. · Accessories: pale-gold studs. · Eye colour: amber-hazel. · Makeup: luminous, soft rose lip. · Hair: soft low chignon w/ tendrils. · Footwear: nude (under train). · Nails: pale-rose. · static & neutral, plain blank background.
-**STILL 2 · @TEXTURE (plain bg):** the completed petal-couture material — dense petals woven with soft light into couture fabric, a clean swatch. Isolated, plain blank background.
-**STILL 3 · ENVIRONMENT:** a bright fountain court — a grand fountain, open sky, a luxe stone plinth, sun key-light; low-front hero vantage.
+### FRAME 3 — BLOOM-COMPLETE (fountain court / hero plinth) (HERO frame · loop)
+**Frame angle:** low front hero (head-on, slight up-tilt, closer), bright luxe fountain-court key light — her hero beat.
+**ENVIRONMENT still (the only per-frame environment ingredient):** a bright fountain court — a grand fountain, open sky, a luxe stone plinth, sun key-light; low-front hero vantage (closer). *(Animate `@subject` [F3 full-gown state] stepping onto the plinth as `@texture` completes in a final bloom.)*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* HERO low front, **one continuous slow crane-up easing into a push-in**; the `@texture` gown completes in a final bloom. [00:00–00:02] she steps onto the plinth as the last of the petal-and-light material sweeps into place — the full couture gown blooming complete, the train cascading and settling. [00:02–00:04] she settles into a poised stance, one hand resting on the petal-train, the gown's layers glowing softly in the key-light. [00:04–00:06] she lifts a calm commanding gaze to lens with a slow radiant smile, a few stray petals drifting and settling — easing toward the serene opening for a loop. Real-time, the finished gown reads as real couture (drape, weight); 9:16.
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact identity — a calm commanding gaze with a slow radiant smile, her hero moment.
+- *Animation:* HERO low front (closer), **one continuous slow crane-up easing into a push-in**; the `@texture` gown completes in a final bloom. [00:00–00:02] she steps onto the plinth as the last of the petal-and-light material sweeps into place — the full couture gown blooming complete, the train cascading and settling — her hero moment. [00:02–00:04] she settles into a poised stance, one hand resting on the petal-train, the gown's layers glowing softly in the key-light. [00:04–00:06] she lifts a calm commanding gaze to lens with a slow radiant smile, a few stray petals drifting and settling — easing toward the serene opening for a loop. Real-time, the finished gown reads as real couture (drape, weight); 9:16. (Hero framing — closer, the court behind her.)
 - *AUDIO (in-frame):* ambient/object — a final soft sweep of petals settling, the fountain splashing, a gentle breeze; voice — Aira's serene satisfied breath and a soft "ah" of wonder.
 **→ Loops back to Frame 1 (the simple slip on the garden path).**
 
-**Stills to generate:** 3 per frame × 3 frames = 9 (Subject in that beat's wardrobe state + @texture swatch + Environment). Score = 18s MASTER AUDIO under the diegetic.
+**Stills to generate:** **`@subject` ×3 wardrobe states + `@texture` (1) + 3 ENVIRONMENT stills = 7 total** — TRANSFORM exception: the subject changes per beat (slip → forming → full gown), the `@texture` swatch and each environment are rendered once; only the subject-state, environment + video prompt change per frame. ONE luxe garden walked through (path → colonnade → fountain court); wisteria-petal-fall element flourish in Frame 1; rack-focus trick in Frame 2; hero full-gown reveal in Frame 3. Score = 18s MASTER AUDIO under the diegetic.
 
 
 ═══════════════════════════════════════════════════════════════════════════════
