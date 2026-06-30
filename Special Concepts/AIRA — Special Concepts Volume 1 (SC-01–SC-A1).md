@@ -1280,10 +1280,10 @@ single swell for the hero-world.
 ═══════════════════════════════════════════════════════════════════════════════
 
 # SC-21 · CITRUS COAST (Amalfi Stroll) · 4 shots × 6s
-**Logline:** A sun-drenched Amalfi stroll — terraced lemon grove → bright tiled village stairs → glittering
-harbour quay → a vine-shaded terrace over the sea. Signature: citrus-leaf flutter + a fine sun-caught zest-mist +
-lemon-light glints. Warm, fresh, joyful.
-**Arc:** LEMON GROVE → TILED VILLAGE STAIRS → HARBOUR QUAY → SEA-VIEW TERRACE (signature).
+**Logline:** A sun-drenched Amalfi stroll down one coastal village — a terraced lemon grove, bright tiled village
+stairs, a glittering harbour quay, the vine-shaded sea-view terrace. One village, strolled down to the sea; bright
+lemon-sun throughout. Warm, fresh, joyful.
+**Arc (one place, travelled through):** LEMON GROVE (element) → TILED VILLAGE STAIRS (trick) → HARBOUR QUAY (trick) → SEA-VIEW TERRACE (hero).
 
 ## MASTER AUDIO (outside the frames — background music)
 A 24-second custom cinematic score (4 clips × 6s) in self-resolving ~6-second phrases, trimmable at any phrase
@@ -1293,62 +1293,56 @@ breezy stair-descent, a glittering lift on the quay, then a warm resolve on the 
 loop. Laid UNDER the diegetic — no spoken line; optional wordless warm vocal on the terrace only. Layered:
 guitar/mandolin, warm sub, light strings, soft tambourine riding her stroll, a single lift for the terrace.
 
-## GLOBAL STYLE LOCKS
-- **Outfit:** a lemon-yellow broderie-anglaise sundress with a sweetheart neck and tiered skirt, a thin white woven belt.
-- **Headwear:** a white-and-blue patterned headscarf (low updo wrapped). **Accessories:** small gold hoops, a single lemon often in hand. **Eye colour:** warm amber-hazel. **Makeup:** sun-fresh glow — luminous warm skin, a soft coral-rose lip, sun-flushed cheeks, neat brows. **Hair:** a soft **low updo wrapped with the white-and-blue patterned headscarf**, a few loose sun-lit wisps. **Footwear:** tan flat sandals. **Nails:** short soft warm white.
-- **Hero object:** a woven straw basket-bag filling with lemons.
-- **Signature (grounded):** citrus leaves flutter on the warm breeze, a fine sun-caught zest-mist lifts when she lifts a lemon, lemon-light glints off the sea and tiles. Real breeze + citrus + sun-glints.
-- **Journey + light:** bright lemon-sun warming to glittering — dappled grove sun → bright open tiled stairs → glittering harbour light → warm sea-view terrace glow.
+## INGREDIENTS + LOCKS (generate `@subject` & `@object` ONCE — reuse them in every frame)
+- **`@subject` — render ONCE, reuse every frame** (neutral, full body, plain blank bg): `Aira [identity placeholder]` styled as — **Outfit:** a lemon-yellow broderie-anglaise sundress with a sweetheart neck and tiered skirt, a thin white woven belt · **Hair:** a soft low updo wrapped with a white-and-blue patterned headscarf, a few loose sun-lit wisps · **Accessories:** small gold hoops · **Eye colour:** warm amber-hazel · **Makeup:** sun-fresh glow — luminous warm skin, a soft coral-rose lip, sun-flushed cheeks, neat brows · **Footwear:** tan flat sandals · **Nails:** short soft warm white.
+- **`@object` — render ONCE, reuse every frame** (plain blank bg): a woven straw basket-bag filling with lemons — open straw weave, leather handles.
+- **THE PLACE (ONE coastal village, strolled DOWN to the sea):** a single Amalfi-style village — a terraced lemon grove, bright tiled village stairs, a glittering harbour quay, and a vine-shaded sea-view terrace; bright lemon-sun warming to a glittering coast as she descends. She **strolls down through it** across the four frames, so each ENVIRONMENT still is the next part of the same village at its own angle.
+- **MAGICAL ELEMENT (used ONCE — Frame 1; written into that frame's VIDEO PROMPT):** in the lemon grove a flutter of white lemon-blossom petals lifts and drifts around her on the warm breeze (real blossom, no cartoon sparkle). No other frame carries an element.
+- **TRICK SHOTS (×2 — Frames 2 & 3, never the element's frame; each written into its frame's VIDEO PROMPT):** Frame 2 = **high descend-stairs god's-eye** straight down the tiled stairwell as she descends; Frame 3 = **harbour-water reflection** (her and the quay mirrored on the glassy water).
+- **HERO FRAME (Frame 4):** she reads clearly as the hero on the sea-view terrace (closer, radiant peaceful smile), then the coast opens. Every other frame keeps the village present — room on the sides, top and bottom.
+- **Footing:** she walks / descends — relaxed sunlit stroll, real sure-footed weight on tiles and stairs.
 
 ---
-### FRAME 1 — LEMON GROVE
+### FRAME 1 — LEMON GROVE (magical element · lemon-blossom petal flutter, used once)
 **Frame angle:** low ¾ front (~30° left, track-with), dappled lemon-sun light.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **low ¾ front (~30° left)**. · Outfit: lemon-yellow broderie sundress + thin white woven belt. · Headwear: white-and-blue patterned headscarf. · Accessories: small gold hoops. · Eye colour: amber-hazel. · Makeup: sun-fresh, coral-rose lip. · Hair: low updo wrapped in the headscarf. · Footwear: tan flat sandals. · Nails: soft warm white. · static & neutral, plain blank background.
-**STILL 2 · OBJECT (plain bg):** the woven straw basket-bag with a few lemons, at **low ¾** — open straw weave, leather handles, bright lemons. Clean, isolated, plain blank background.
-**STILL 3 · ENVIRONMENT:** a terraced lemon grove on the hillside — heavy lemon boughs overhead, dappled warm sun, the blue sea glinting far below through the trees; low ¾-front vantage.
+**ENVIRONMENT still (the only per-frame ingredient):** a terraced lemon grove on the hillside — heavy lemon boughs in blossom overhead, dappled warm sun, the blue sea glinting far below through the trees; low ¾-front vantage. *The concept's single element lands here.* *(Animate `@subject` carrying `@object` along the grove path as blossom flutters.)*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* FULL, **one continuous low track with her along the grove path.** [00:00–00:02] she walks the terraced lemon grove mid-stride, dappled warm sun through heavy boughs, the blue sea glinting far below. [00:02–00:04] she reaches up and picks a lemon into her straw basket, citrus leaves fluttering on the breeze, a soft pleased smile. [00:04–00:06] she strolls on toward bright tiled village stairs descending ahead. Real-time, real breeze + citrus + dappled light + natural walking; 9:16.
-- *AUDIO (in-frame):* ambient/object — a warm breeze in the lemon boughs, leaves rustling, a lemon plucked, distant cicadas; voice — Aira's soft pleased hum and a little "mm" of delight.
-**→ Cut (match-on-action) to Frame 2 — the path turns onto bright tiled village stairs.**
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact face/identity — animate only gaze + soft expression: a soft, pleased, sunlit smile.
+- *Animation:* FULL, **one continuous low track with her along the grove path.** [00:00–00:02] she walks the terraced lemon grove mid-stride, dappled warm sun through heavy boughs, the blue sea glinting far below. [00:02–00:04] the **element** lifts — a flutter of white lemon-blossom petals drifts around her on the warm breeze as she reaches up and picks a lemon into her straw basket, a soft pleased smile. [00:04–00:06] she strolls on toward bright tiled village stairs descending ahead, petals settling. Real-time, real breeze + blossom + dappled light + natural walking; 9:16.
+- *AUDIO (in-frame):* ambient/object — a warm breeze in the lemon boughs, leaves and blossom rustling, a lemon plucked, distant cicadas; voice — Aira's soft pleased hum and a little "mm" of delight.
+**→ Cut (match-on-action) to Frame 2 — the path turns onto bright tiled village stairs (the god's-eye trick).**
 
 ---
-### FRAME 2 — TILED VILLAGE STAIRS
-**Frame angle:** high ¾ looking down the stairs (~45° down), bright pastel-and-blue.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **high ¾ (looking down the stairs)**. · Outfit: lemon broderie sundress + woven belt. · Headwear: white-and-blue headscarf. · Accessories: gold hoops. · Eye colour: amber-hazel. · Makeup: sun-fresh, coral-rose lip. · Hair: low updo + headscarf. · Footwear: tan sandals. · Nails: soft warm white. · static & neutral, plain blank background.
-**STILL 2 · OBJECT (plain bg):** the woven straw basket-bag, fuller with lemons, at **high ¾**. Clean, isolated, plain blank background.
-**STILL 3 · ENVIRONMENT:** a bright stepped lane in a pastel village — painted majolica tile-risers, bougainvillea spilling off pastel walls, the harbour and sea opening below, bright open sun; high-¾ down-the-stairs vantage.
+### FRAME 2 — TILED VILLAGE STAIRS (trick shot · high descend-stairs god's-eye)
+**Frame angle:** **god's-eye straight down the stairwell** (~80° down), bright pastel-and-blue.
+**ENVIRONMENT still (the only per-frame ingredient):** a bright stepped lane in a pastel village seen straight down — painted majolica tile-risers spiralling below, bougainvillea spilling off pastel walls, the harbour and sea opening at the foot, bright open sun; top-down god's-eye stairwell vantage. *(Animate `@subject` carrying `@object` descending, seen from directly above.)*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* WIDE, high ¾ looking down the stairs, **one continuous slow descend with her.** [00:00–00:02] she steps down the painted majolica stairs, bougainvillea spilling off pastel walls, the harbour opening below. [00:02–00:04] she trails a hand along a sun-warm wall and lifts her skirt a touch, glancing down at the glittering sea with a bright open smile. [00:04–00:06] she descends on toward the harbour quay below. Real-time, real sure-footed descent, planted weight; 9:16.
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact identity — a bright open smile glancing down.
+- *Animation:* **god's-eye top-down**, **one continuous overhead descend following her down the stairwell — the god's-eye trick.** [00:00–00:02] seen straight from above she steps down the painted majolica stairs, bougainvillea and pastel walls framing the spiral, the harbour opening far below. [00:02–00:04] she trails a hand along a sun-warm wall and lifts her skirt a touch, glancing down at the glittering sea, the overhead lens following her line. [00:04–00:06] she descends on toward the harbour quay below. Real-time, real sure-footed descent, planted weight; 9:16. (Top-down — the stairwell and village spread below her.)
 - *AUDIO (in-frame):* ambient/object — sandals on the majolica tiles, a hand brushing a warm wall, bougainvillea rustling, gulls and a distant harbour; voice — a breezy bright laugh and a soft "oh" at the view from Aira.
-**→ Cut (match-on-action) to Frame 3 — she steps out onto the glittering harbour quay.**
+**→ Cut (match-on-action) to Frame 3 — she steps out onto the glittering harbour quay (the harbour-reflection trick).**
 
 ---
-### FRAME 3 — HARBOUR QUAY
-**Frame angle:** full profile (true side, parallel track), glittering harbour-blue.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, in **full profile**. · Outfit: lemon broderie sundress + woven belt. · Headwear: white-and-blue headscarf. · Accessories: gold hoops, a lemon in hand. · Eye colour: amber-hazel. · Makeup: sun-fresh, coral-rose lip. · Hair: low updo + headscarf. · Footwear: tan sandals. · Nails: soft warm white. · static & neutral, plain blank background.
-**STILL 2 · OBJECT (plain bg):** the woven straw basket-bag full of lemons, in **profile**, plus a single lemon held to the light. Clean, isolated, plain blank background.
-**STILL 3 · ENVIRONMENT:** a glittering harbour quay — moored pastel boats, nets and crates, the vivid blue sea sparkling hard in the sun, gulls, bright open light; profile vantage along the quay.
+### FRAME 3 — HARBOUR QUAY (trick shot · harbour-water reflection)
+**Frame angle:** low along the quay at the glassy water (her and the quay mirrored), glittering harbour-blue.
+**ENVIRONMENT still (the only per-frame ingredient):** a glittering harbour quay — moored pastel boats, nets and crates, the vivid blue sea sparkling, a glassy patch mirroring the quay and boats, gulls, bright open light; low quay-side vantage with the water-mirror. *(Animate `@subject` carrying `@object` strolling the quay, mirrored on the water.)*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* MEDIUM profile, **one continuous parallel track at her pace.** [00:00–00:02] she strolls the glittering harbour quay, pastel boats moored, the vivid blue sea sparkling hard, gulls overhead. [00:02–00:04] she lifts a lemon up to the sun and a fine sun-caught zest-mist lifts off it, lemon-light glinting, a bright delighted grin. [00:04–00:06] she walks on toward a vine-shaded terrace over the sea. Real-time, real sparkling water + citrus + sun-glints + natural walking; 9:16.
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact identity — a bright delighted grin.
+- *Animation:* MEDIUM, **one continuous parallel track at her pace with her reflection gliding on the glassy water — the harbour-reflection trick.** [00:00–00:02] she strolls the glittering harbour quay, pastel boats moored, her and the quay mirrored on a glassy patch of the sparkling water. [00:02–00:04] she lifts a lemon up to the sun and a fine sun-caught zest-mist lifts off it, lemon-light glinting, a bright delighted grin doubled in the reflection. [00:04–00:06] she walks on toward a vine-shaded terrace over the sea. Real-time, real sparkling water + true reflection + sun-glints + natural walking; 9:16.
 - *AUDIO (in-frame):* ambient/object — water lapping at the moored boats, rigging tinks, gulls, the quay bustle; voice — Aira's delighted bright grin-laugh and a soft "yay" lifting the lemon.
-**→ Cut (match-on-action) to Frame 4 — she arrives at the sea-view terrace.**
+**→ Cut (match-on-action) to Frame 4 — she arrives at the sea-view terrace (her hero beat).**
 
 ---
-### FRAME 4 — SEA-VIEW TERRACE (signature · loop)
-**Frame angle:** ¾ front opening to the vista (~30°, push-in then crane pull-back), warm golden terrace light.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **¾ front (~30°)**. · Outfit: lemon broderie sundress + woven belt. · Headwear: white-and-blue headscarf. · Accessories: gold hoops. · Eye colour: amber-hazel. · Makeup: sun-fresh, coral-rose lip. · Hair: low updo + headscarf. · Footwear: tan sandals. · Nails: soft warm white. · static & neutral, plain blank background.
-**STILL 2 · OBJECT (plain bg):** the woven straw basket-bag full of lemons, at **¾ front**. Clean, isolated, plain blank background.
-**STILL 3 · ENVIRONMENT:** a vine-shaded terrace high over the sea — a lemon-tree pergola, a tiled balustrade, the vast glittering blue coast spread below, warm golden terrace glow; ¾-front vantage opening to the sea.
+### FRAME 4 — SEA-VIEW TERRACE (HERO frame · loop)
+**Frame angle:** ¾ front opening to the vista (~30°, closer) then a crane pull-back, warm golden terrace light — her hero beat then the coast opens.
+**ENVIRONMENT still (the only per-frame ingredient):** a vine-shaded terrace high over the sea — a lemon-tree pergola, a tiled balustrade, the vast glittering blue coast spread below, warm golden terrace glow; ¾-front vantage (closer) opening to the sea. *(Animate `@subject` with `@object` stepping to the balustrade.)*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* WIDE, **one continuous slow hero push-in then crane pull-back to reveal the terrace.** [00:00–00:02] she steps to the vine-shaded terrace balustrade, the vast glittering blue coast spread below, warm golden glow. [00:02–00:04] the signature peaks — citrus leaves flutter from the lemon pergola, a fine zest-mist and lemon-light glints drift on the warm breeze; she breathes the sea air with a radiant peaceful smile. [00:04–00:06] the camera cranes back to reveal the full sea-view terrace and glittering coast around her — easing toward the dappled lemon grove of the opening for a loop. Real-time, real breeze + citrus + sea-glints; 9:16.
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact identity — a radiant, peaceful, joyful smile, her hero moment.
+- *Animation:* MEDIUM (closer) easing to WIDE, **one continuous slow push-in then crane pull-back to reveal the terrace.** [00:00–00:02] she steps to the vine-shaded terrace balustrade — her hero moment — the vast glittering blue coast spread below, warm golden glow. [00:02–00:04] she breathes the sea air and turns a radiant peaceful smile to lens, lemon-light glints drifting on the warm breeze. [00:04–00:06] the camera cranes back to reveal the full sea-view terrace and glittering coast around her — easing toward the dappled lemon grove of the opening for a loop. Real-time, real breeze + sea-glints; 9:16. (Hero beat then environment-dominant — the coast vast around her.)
 - *AUDIO (in-frame):* ambient/object — a warm sea breeze through the pergola, citrus leaves fluttering, distant waves and a far church bell; voice — Aira's radiant content breath and a soft "ahh" of joy.
 **→ Loops back to Frame 1 (the lemon grove).**
 
-**Stills to generate:** 3 per frame × 4 frames = 12. Score = 24s MASTER AUDIO under the diegetic.
+**Stills to generate:** **`@subject` (1) + `@object` (1) + 4 ENVIRONMENT stills = 6 total** — subject & object rendered once and reused; only environment + video prompt change per frame. ONE coastal village strolled down (lemon grove → tiled stairs → harbour quay → sea-view terrace); lemon-blossom-petal-flutter element in Frame 1 only; trick shots in Frames 2 (high descend-stairs god's-eye) & 3 (harbour-water reflection); hero beat in Frame 4. Score = 24s MASTER AUDIO under the diegetic.
 
 ═══════════════════════════════════════════════════════════════════════════════
 
