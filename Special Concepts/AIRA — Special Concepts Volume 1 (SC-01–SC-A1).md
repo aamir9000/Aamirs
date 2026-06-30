@@ -891,12 +891,11 @@ choir-pad on the ascent only. Layered: glassy bell/piano, deep sub, choir-pad at
 
 ═══════════════════════════════════════════════════════════════════════════════
 
-# SC-14 · ALPINE ASCENT (Cable-Car / Hike) · 4 shots × 6s · *(no constant object — 2 stills per frame: Subject + Environment; cable-car lives in Frame 1's environment)*
-**Logline:** A crisp mountain climb — the subject rides a glass cable-car up out of the valley, strolls a
-sun-dappled pine forest, picks her way along a high cliff path, and arrives at a mirror-still summit lake ringed
-by snow peaks. Signature: snow-sparkle drifting on the cold air + crystalline light off ice and water + alpine
-wildflowers lifting. Fresh, cool, exhilarating.
-**Arc:** CABLE-CAR RISE → PINE FOREST → CLIFF PATH → SUMMIT LAKE (signature).
+# SC-14 · ALPINE ASCENT (Cable-Car / Hike) · 4 shots × 6s · *(prop-less — `@subject` once + ENVIRONMENT stills, no constant `@object`; the cable-car lives in Frame 1's environment)*
+**Logline:** A crisp mountain climb through one alpine ascent — a glass cable-car up out of the valley, a
+sun-dappled pine forest, a high cliff path, the mirror-still summit lake ringed by snow peaks. One mountain,
+climbed through; crisp cool alpine throughout. Fresh, cool, exhilarating.
+**Arc (one place, travelled through):** CABLE-CAR RISE (trick) → PINE FOREST (hero) → CLIFF PATH (element) → SUMMIT LAKE (trick).
 
 ## MASTER AUDIO (outside the frames — background music)
 A 24-second custom cinematic score (4 clips × 6s) in self-resolving ~6-second phrases, trimmable at any phrase
@@ -906,58 +905,56 @@ the rising cable-car, a refreshed forest stroll, an exhilarated ridge build, the
 lake, resolving for an invisible loop. Laid UNDER the diegetic — no spoken line; optional wordless aah on the
 summit only. Layered: piano/woodwind, warm sub, soaring strings, a crystalline shimmer, a single lift for the summit.
 
-## GLOBAL STYLE LOCKS
-- **Outfit:** a cream chunky cable-knit sweater tucked into a forest-green corduroy A-line skirt, with warm cream tights; a plaid wool scarf (forest/cream/rust).
-- **Headwear:** a **cream pompom beanie** (this concept has headwear). **Accessories:** cream knit fingerless mitts (often pushed back), a small tan crossbody. **Eye colour:** warm amber-hazel. **Makeup:** fresh cold-air glow — luminous skin with a natural wind-flush on the cheeks and nose, a soft rose lip, neat brows. **Hair:** a neat **fishtail braid over one shoulder**, tucked under the beanie. **Footwear:** tan suede ankle boots. **Nails:** short soft warm rose.
-- **Hero object:** none constant (the glass cable-car is part of Frame 1's environment; thereafter her own hike) → each frame uses 2 stills (Subject + Environment); the plaid scarf is a recurring motion-piece.
-- **Signature (grounded):** fine snow-sparkle drifting on the cold air, crisp crystalline light glinting off ice/snow/lake, alpine wildflowers nodding. Real cold-air physics + light.
-- **Journey + light:** crisp cool alpine (brightening) — valley-soft light in the cable-car → dappled cool pine forest → bright open cliff path → brilliant clean summit lake. *Footing: F1 stands in the car; F2–4 hikes on solid ground.*
+## INGREDIENTS + LOCKS (generate `@subject` ONCE — reuse it in every frame; prop-less, no constant `@object`)
+- **`@subject` — render ONCE, reuse every frame** (neutral, full body, plain blank bg): `Aira [identity placeholder]` styled as — **Outfit:** cream chunky cable-knit sweater tucked into a forest-green corduroy A-line skirt, with warm cream tights; a plaid wool scarf (forest/cream/rust) · **Headwear:** a cream pompom beanie · **Hair:** a neat fishtail braid over one shoulder, tucked under the beanie · **Accessories:** cream knit fingerless mitts (often pushed back), a small tan crossbody · **Eye colour:** warm amber-hazel · **Makeup:** fresh cold-air glow — luminous skin with a natural wind-flush on the cheeks and nose, a soft rose lip, neat brows · **Footwear:** tan suede ankle boots · **Nails:** short soft warm rose.
+- **No constant `@object`** — the glass cable-car lives in Frame 1's environment; thereafter it's her own hike. The plaid scarf is a recurring motion-piece. Each frame uses only the ENVIRONMENT still.
+- **THE PLACE (ONE mountain, climbed THROUGH):** a single alpine climb — a glass cable-car rising from the valley, a sun-dappled pine forest, a high open cliff path, and a mirror-still summit lake ringed by snow peaks; crisp cool alpine light brightening valley-soft → brilliant summit-clean. She **climbs through it** across the four frames, so each ENVIRONMENT still is the next stage of the same mountain at its own angle. *Footing: F1 stands in the car; F2–4 hikes on solid ground.*
+- **MAGICAL ELEMENT (used ONCE — Frame 3; written into that frame's VIDEO PROMPT):** on the cliff path a great eagle soars out across the valley air below her, banking on the wind (a real soaring eagle, no cartoon sparkle). No other frame carries an element.
+- **TRICK SHOTS (×2 — Frames 1 & 4, never the element's frame; each written into its frame's VIDEO PROMPT):** Frame 1 = **cable-car window frame** (she's framed within the glass car window, the valley dropping away through it); Frame 4 = **reverse pull-out summit reveal** (the camera pulls back/cranes off her to reveal the whole ringed lake).
+- **HERO FRAME (Frame 2):** she reads clearly as the hero in the pine forest (closer, mid-stride, contented sunlit). Every other frame keeps her with the mountain present — room on the sides, top and bottom.
+- **Footing:** she rides then hikes — real cable-car sway, then sure-footed planted alpine walking.
 
 ---
-### FRAME 1 — CABLE-CAR RISE
-**Frame angle:** ¾ from inside the car (~30° front-side), soft cool valley light through the glass.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **¾ from inside the car (~30°)**. · Outfit: cream cable-knit + forest cord skirt + plaid scarf + cream tights. · Headwear: cream pompom beanie. · Accessories: knit mitts, tan crossbody. · Eye colour: amber-hazel. · Makeup: cold-air glow, soft rose lip. · Hair: fishtail braid over the shoulder. · Footwear: tan suede ankle boots. · Nails: warm rose. · static & neutral, plain blank background.
-**STILL 2 · ENVIRONMENT:** the interior of a glass alpine cable-car rising out of the valley — wide windows, the green valley and a village dropping away below, snow peaks lifting into view ahead, soft valley light; ¾ interior vantage.
+### FRAME 1 — CABLE-CAR RISE (trick shot · cable-car window frame)
+**Frame angle:** ¾ from inside the car framed within the glass window (~30° front-side), soft cool valley light through the glass.
+**ENVIRONMENT still (the only per-frame ingredient):** the interior of a glass alpine cable-car rising out of the valley — wide windows framing the green valley and a village dropping away below, snow peaks lifting into view ahead, soft valley light; ¾ interior vantage framed by the window. *(Animate `@subject` at the glass, framed within the cable-car window.)*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* MEDIUM ¾ from inside the car, **one continuous slow rise as the valley drops away through the glass.** [00:00–00:02] she stands at the glass holding the rail, the green valley and village receding below, soft valley light. [00:02–00:04] she looks up as snow peaks lift into view ahead, fine snow-sparkle drifting past the glass, a fresh open smile. [00:04–00:06] she tugs her scarf and gazes up at the peaks as the car climbs toward the forested upper station. Real-time, believable cable-car sway + rising parallax; 9:16.
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact face/identity — animate only gaze + soft expression: a fresh, anticipatory open smile.
+- *Animation:* MEDIUM **framed in the car window**, **one continuous slow rise as the valley drops away through the glass — the window-frame trick.** [00:00–00:02] framed within the glass window she stands holding the rail, the green valley and village receding below through the frame, soft valley light. [00:02–00:04] she looks up as snow peaks lift into the window ahead, fine snow-sparkle drifting past the glass, a fresh open smile. [00:04–00:06] she tugs her scarf and gazes up at the peaks as the car climbs toward the forested upper station. Real-time, believable cable-car sway + rising parallax; 9:16.
 - *AUDIO (in-frame):* ambient/object — the cable-car's hum and cable-tick, a gentle sway-creak, muffled wind beyond the glass; voice — Aira's bright anticipatory breath and a soft "wow" at the peaks.
-**→ Cut (match-on-action) to Frame 2 — she steps off into a sun-dappled pine forest.**
+**→ Cut (match-on-action) to Frame 2 — she steps off into a sun-dappled pine forest (her hero beat).**
 
 ---
-### FRAME 2 — PINE FOREST
-**Frame angle:** low ¾ front (~30° left, low track-with), dappled cool forest light.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **low ¾ front (~30° left)**. · Outfit: cream cable-knit + forest cord skirt + plaid scarf + tights. · Headwear: cream pompom beanie. · Accessories: knit mitts, crossbody. · Eye colour: amber-hazel. · Makeup: cold-air glow, rose lip. · Hair: fishtail braid. · Footwear: tan suede boots. · Nails: warm rose. · static & neutral, plain blank background.
-**STILL 2 · ENVIRONMENT:** a sun-dappled alpine pine forest — tall firs, a soft needle-and-moss path, shafts of cool light, alpine wildflowers along the edges; low ¾-front vantage down the path.
+### FRAME 2 — PINE FOREST (HERO frame)
+**Frame angle:** low ¾ front (~30° left) drawing closer, dappled cool forest light — her hero beat.
+**ENVIRONMENT still (the only per-frame ingredient):** a sun-dappled alpine pine forest — tall firs, a soft needle-and-moss path, shafts of cool light, alpine wildflowers along the edges; low ¾-front vantage (closer) down the path. *(Animate `@subject` walking the path mid-stride.)*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* FULL, **one continuous low track with her down the path.** [00:00–00:02] she walks the soft pine path mid-stride, dappled cool light shafting through the firs, scarf swaying. [00:02–00:04] she looks up at the sunlit canopy and brushes a fern with her fingers, alpine wildflowers nodding, a contented breath. [00:04–00:06] she strides on toward where the trees open onto a high cliff path. Real-time, natural sure-footed walking, planted weight; 9:16.
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact identity — a contented, sunlit, glowing smile, her hero moment.
+- *Animation:* MEDIUM (closer), **one continuous low track with her down the path.** [00:00–00:02] she walks the soft pine path mid-stride — her hero moment — dappled cool light shafting through the firs, scarf swaying. [00:02–00:04] she looks up at the sunlit canopy and brushes a fern with her fingers, alpine wildflowers nodding, a contented breath. [00:04–00:06] she strides on toward where the trees open onto a high cliff path. Real-time, natural sure-footed walking, planted weight; 9:16. (Hero framing — closer, the forest behind her.)
 - *AUDIO (in-frame):* ambient/object — boots on the soft needle path, birdsong, a breeze through the firs, a fern brush; voice — a refreshed contented breath and a soft hum from Aira.
-**→ Cut (match-on-action) to Frame 3 — she emerges onto the open cliff path.**
+**→ Cut (match-on-action) to Frame 3 — she emerges onto the open cliff path (the soaring-eagle element).**
 
 ---
-### FRAME 3 — CLIFF PATH
+### FRAME 3 — CLIFF PATH (magical element · a soaring eagle, used once)
 **Frame angle:** high ¾ looking along the ridge (~45° down), bright open alpine light.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **high ¾ along the ridge**. · Outfit: cream cable-knit + forest cord skirt + plaid scarf + tights. · Headwear: cream pompom beanie. · Accessories: knit mitts, crossbody. · Eye colour: amber-hazel. · Makeup: cold-air glow, rose lip. · Hair: fishtail braid. · Footwear: tan suede boots. · Nails: warm rose. · static & neutral, plain blank background.
-**STILL 2 · ENVIRONMENT:** a high open cliff path cut along a ridge — a vast valley far below, snow peaks across the air, bright open light, wildflowers in the rock; high ¾ vantage along the ridge.
+**ENVIRONMENT still (the only per-frame ingredient):** a high open cliff path cut along a ridge — a vast valley far below, snow peaks across the air, bright open light, wildflowers in the rock; high ¾ vantage along the ridge. *The concept's single element lands here.* *(Animate `@subject` walking the ridge as a great eagle soars across below.)*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* WIDE, high ¾ looking along the ridge, **one continuous slow aerial track beside her.** [00:00–00:02] she walks the open cliff path, the vast valley far below, snow peaks across the air, scarf and braid lifting in the wind. [00:02–00:04] she lifts a hand to steady her beanie and gazes out at the peaks with exhilarated awe, fine snow-sparkle and crystalline light glinting off distant ice. [00:04–00:06] she walks on along the ridge toward a brilliant opening where a summit lake waits. Real-time, believable wind + sure footing; 9:16.
-- *AUDIO (in-frame):* ambient/object — gusting wind on the ridge, the scarf snapping, boots on rock, a distant bird; voice — Aira's exhilarated breath and a bright "woah!" in the wind.
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact identity — exhilarated awe.
+- *Animation:* WIDE, high ¾ looking along the ridge, **one continuous slow aerial track beside her.** [00:00–00:02] she walks the open cliff path, the vast valley far below, snow peaks across the air, scarf and braid lifting in the wind. [00:02–00:04] the **element** appears — a great eagle soars out across the valley air below her, banking wide on the wind; she lifts a hand to steady her beanie and follows it with exhilarated awe, crystalline light glinting off distant ice. [00:04–00:06] the eagle wheels away and she walks on along the ridge toward a brilliant opening where a summit lake waits. Real-time, believable wind + sure footing + real eagle flight; 9:16.
+- *AUDIO (in-frame):* ambient/object — gusting wind on the ridge, the scarf snapping, boots on rock, a distant eagle cry; voice — Aira's exhilarated breath and a bright "woah!" in the wind.
 **→ Cut (match-on-action) to Frame 4 — the ridge opens onto the mirror-still summit lake.**
 
 ---
-### FRAME 4 — SUMMIT LAKE (signature · loop)
-**Frame angle:** ¾ front opening to the vista (~30°, slight low-hero), brilliant clean summit light.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **¾ front (~30°)**. · Outfit: cream cable-knit + forest cord skirt + plaid scarf + tights. · Headwear: cream pompom beanie. · Accessories: knit mitts, crossbody. · Eye colour: amber-hazel. · Makeup: cold-air glow, rose lip. · Hair: fishtail braid. · Footwear: tan suede boots. · Nails: warm rose. · static & neutral, plain blank background.
-**STILL 2 · ENVIRONMENT:** a mirror-still summit lake ringed by snow peaks — the peaks doubled perfectly in the glass-calm water, brilliant clean light, snow-sparkle on the air, wildflowers at the shore; ¾-front vantage opening to the lake.
+### FRAME 4 — SUMMIT LAKE (trick shot · reverse pull-out summit reveal · loop)
+**Frame angle:** ¾ front opening to the vista (~30°, slight low-hero) then a reverse pull-out, brilliant clean summit light.
+**ENVIRONMENT still (the only per-frame ingredient):** a mirror-still summit lake ringed by snow peaks — the peaks doubled perfectly in the glass-calm water, brilliant clean light, snow-sparkle on the air, wildflowers at the shore; ¾-front vantage opening to the lake, room to pull wide. *(Animate `@subject` stepping to the lake edge as the camera reverses out.)*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* WIDE, **one continuous slow hero push-in then crane pull-back to reveal the summit.** [00:00–00:02] she steps to the edge of the mirror-still lake, snow peaks doubled in the glass-calm water, brilliant clean light. [00:02–00:04] the signature peaks — fine snow-sparkle drifts on the cold air, crystalline light glints off ice and water, wildflowers nod at the shore; she sweeps an arm to the vista with radiant triumph. [00:04–00:06] the camera cranes back to reveal the full lake and the ring of peaks around her — easing toward the bright valley-rise of the opening for a loop. Real-time, real still-water reflections + cold-air light; 9:16.
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact identity — radiant triumph settling to peaceful awe.
+- *Animation:* MEDIUM **easing into a reverse pull-out / crane — the summit-reveal trick.** [00:00–00:02] she steps to the edge of the mirror-still lake, snow peaks doubled in the glass-calm water, brilliant clean light. [00:02–00:04] she sweeps an arm to the vista with radiant triumph, fine snow-sparkle drifting, wildflowers nodding at the shore. [00:04–00:06] the camera reverses and cranes back off her to reveal the full lake and the entire ring of peaks around her — easing toward the bright valley-rise of the opening for a loop. Real-time, real still-water reflections + cold-air light; 9:16. (Reverse pull-out — the summit vast around her.)
 - *AUDIO (in-frame):* ambient/object — an utter alpine stillness, the faint lap of the glass-calm lake, a soft cold breeze, a distant ice-crack; voice — Aira's awed breath and a soft triumphant "yeah…".
 **→ Loops back to Frame 1 (the cable-car rise).**
 
-**Stills to generate:** 2 per frame × 4 frames = 8 (Subject + Environment; Frame 1's environment includes the glass cable-car). Score = 24s MASTER AUDIO under the diegetic.
+**Stills to generate:** **`@subject` (1) + 4 ENVIRONMENT stills = 5 total** — prop-less, no constant `@object` (the glass cable-car lives in Frame 1's environment); subject rendered once and reused; only environment + video prompt change per frame. ONE mountain climbed through (cable-car → pine forest → cliff path → summit lake); soaring-eagle element in Frame 3 only; trick shots in Frames 1 (cable-car window frame) & 4 (reverse pull-out summit reveal); hero beat in Frame 2. Score = 24s MASTER AUDIO under the diegetic.
 
 ═══════════════════════════════════════════════════════════════════════════════
 
