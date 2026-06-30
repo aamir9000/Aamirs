@@ -4,24 +4,26 @@
 > **Identity placeholder:** `Aira [identity reference]` carries her likeness in every SUBJECT still — never enumerate
 > her face; the reference holds it. We only style her. Her constant eye colour: **warm amber-hazel.**
 
-## ⭐ HOW EACH FRAME IS BUILT (v3 standard — read once)
-**Every frame = 3 matched-angle STILLS + a VIDEO PROMPT. One camera angle is chosen per frame and applied to all
-three stills (same rotation, eye-level, light direction, lens) so they composite cleanly.**
+## ⭐ HOW EACH CONCEPT IS BUILT (v5.1 lean standard — read once)
+**Generate `@subject` and `@object` ONCE per concept and reuse them in every frame. Only the ENVIRONMENT still and
+the VIDEO PROMPT change per frame.** See the master spec in `_ELEMENT_AND_TRICKSHOT_LIBRARY.md`.
 
-1. **STILL 1 · SUBJECT** — *plain blank background.* Write **`Aira [identity placeholder]`**, then style her in heavy
-   detail: **Outfit · Headwear** (when needed) **· Accessories · Eye colour · Makeup** (if needed) **· Hair · Footwear · Nails.**
-   **Static & neutral — no pose/twist/action.** Always **full body, head to toe.** Only variable = the **chosen frame
-   angle** (full-frontal / ~45° L-R / profile / other), picked deliberately for the frame.
-2. **STILL 2 · OBJECT** — *plain blank background.* The hero object in heavy detail, at the **same frame angle.**
-3. **STILL 3 · ENVIRONMENT** — *the full scene* (not plain): heavy detail, vivid, lighting + depth, **same angle/vantage.**
-4. **VIDEO PROMPT** — *Facial consistency* (brief lock) → *Animation* (rich, Veo-compliant, **one continuous evolving
-   camera move** from the frame's opening angle — no internal hard cuts; the grounded signature; real-time, 9:16) →
-   *AUDIO (in-frame)* (`ambient/object — [...]; voice — [...]` — only where the beat earns it).
+- **INGREDIENTS (rendered once, reused every frame):**
+  1. **`@subject`** — *plain blank background*, neutral & full-body: **`Aira [identity placeholder]`** + styling only
+     (**Outfit · Headwear · Accessories · Eye colour (warm amber-hazel) · Makeup · Hair · Footwear · Nails**). Ideally a
+     ¾ anchor; never enumerate her face — the reference holds it.
+  2. **`@object`** — *plain blank background*, the hero object in heavy detail. *(Prop-less concepts have no `@object`.)*
+- **PER FRAME (the only things that change):**
+  3. **ENVIRONMENT still** — the **next stretch of the ONE place she's travelling through**, at its own camera angle
+     (the progression + angle is what tells Veo to carry the travel forward).
+  4. **VIDEO PROMPT** — *Facial consistency + expression* (identity-safe: only gaze + soft expression) → *Animation*
+     (one continuous evolving camera move from the frame's angle; real-time; the trick/element if any) →
+     *AUDIO (in-frame)* (`ambient/object — …; voice — …`).
 
-**MASTER AUDIO** (background music/score) sits **once per concept, outside the frames.** This volume is the
-"modes" set — same SC-01 vibe (cute girl + a charming mode + an evolving daytime journey + one grounded-surreal
-signature + loop), brand-new modes. Several modes feature **exterior "see-it-from-outside" shots** (the bus/train/
-tram/riverboat/seaplane/paraglide seen travelling through the world, subject small or through a window) for cinema.
+**Per concept:** ONE place travelled through · ONE magical element (once, in one frame) · a theme-suitable number of
+TRICK SHOTS (in other frame(s) — never the element's frame) · ONE hero frame (rotated). Subject doesn't dominate —
+negative space, world as co-star. **MASTER AUDIO** sits once per concept, outside the frames. Several modes feature
+exterior "see-it-from-outside" shots (vehicle in the world, she small/through a window). 9:16, SILENT diegetic, loops.
 
 ═══════════════════════════════════════════════════════════════════════════════
 
