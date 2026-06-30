@@ -163,10 +163,10 @@ platform for an invisible loop. Laid UNDER the diegetic — no spoken line; opti
 ═══════════════════════════════════════════════════════════════════════════════
 
 # SC-24 · POWDER GLIDE (Ski) · 4 shots × 6s
-**Logline:** A bluebird ski morning — a carving piste run → a hushed pine glade → a sparkling frozen-lake flat →
-a snug village arrival. Signature: fanning snow-spray catching the sun + airborne ice-glitter in her wake. Crisp,
-joyful, exhilarating.
-**Arc:** PISTE CARVE → PINE GLADE → FROZEN-LAKE FLAT → VILLAGE ARRIVAL (signature).
+**Logline:** A bluebird ski morning skied **down** one alpine mountain — a carving piste up high, a hushed pine glade
+on its flank, a blazing frozen-lake flat below, then a snug chalet village at the foot. One mountain, travelled top
+to bottom. Crisp, joyful, exhilarating.
+**Arc (one place, travelled through):** PISTE CARVE (element) → PINE GLADE (trick) → FROZEN-LAKE FLAT (hero) → VILLAGE ARRIVAL (trick · loop).
 
 ## MASTER AUDIO (outside the frames — background music)
 A 24-second custom cinematic score (4 clips × 6s) in self-resolving ~6-second phrases, trimmable at any phrase
@@ -175,62 +175,56 @@ and a warm sub — crisp, joyful, exhilarating. Opens (no fade-in) on a bright r
 carving open, a hushed glade lull, a sparkling lake-flat lift, then a cosy arrival resolve for an invisible loop.
 Laid UNDER the diegetic — no spoken line; optional wordless bright vocal on the arrival only.
 
-## GLOBAL STYLE LOCKS
-- **Outfit:** a retro colour-block one-piece ski suit (cream / coral / teal panels), fitted and sleek.
-- **Headwear:** mirrored rose-gold ski goggles (worn up on the forehead in stills) over a fluffy white earmuff band. **Accessories:** white ski gloves, a slim coral neck-gaiter. **Eye colour:** warm amber-hazel. **Makeup:** fresh snow-glow — luminous skin, a wind-flush, glossy peach lip, SPF sheen. **Hair:** two neat **Dutch braids** falling forward over the shoulders. **Footwear:** cream-and-coral ski boots. **Nails:** short glossy coral (under gloves).
-- **Hero object:** a pair of coral-and-cream carving skis with matched poles, edges glinting.
-- **Signature (grounded):** fanning snow-spray arcs off her edges and catches the sun; fine airborne ice-glitter hangs in her wake. Real snow + light physics.
-- **Journey + light:** brilliant bluebird alpine all the way — open sunlit piste → cool shaded pine glade → blazing white frozen-lake flat → warm low village light. *Footing: she skis — athletic balanced stance, real carving + glide.*
+## INGREDIENTS + LOCKS (generate `@subject` & `@object` ONCE — reuse them in every frame)
+- **`@subject` — render ONCE, reuse every frame** (neutral, full body, plain blank bg): `Aira [identity placeholder]` styled as — **Outfit:** retro colour-block one-piece ski suit (cream/coral/teal panels) · **Headwear:** mirrored rose-gold ski goggles (up on the forehead) over a fluffy white earmuff band · **Accessories:** white ski gloves, a slim coral neck-gaiter · **Eye colour:** warm amber-hazel · **Makeup:** fresh snow-glow, wind-flush, glossy peach lip, SPF sheen · **Hair:** two neat Dutch braids forward over the shoulders · **Footwear:** cream-and-coral ski boots · **Nails:** short glossy coral.
+- **`@object` — render ONCE, reuse every frame** (plain blank bg): a pair of coral-and-cream carving skis with matched poles, edges glinting.
+- **THE PLACE (ONE mountain, travelled top-to-bottom):** a single bluebird alpine mountain — an open sunlit groomed piste up high, a snow-laden pine glade on its flank, a vast frozen-lake flat below, and a snug timber-and-stone chalet village at the foot; brilliant bluebird light throughout, warming to low-gold at the village. She **descends it** across the four frames, so each ENVIRONMENT still is the next part of the same mountain at its own angle.
+- **MAGICAL ELEMENT (used ONCE — Frame 1 only):** fine **snow-sparkle spindrift** lifts and twinkles off the wind-blown crests in the sun as she carves (real snow + light; distinct from the natural spray off her edges). No other frame carries an element.
+- **TRICK SHOTS (×2 — Frames 2 & 4, never the element's frame):** Frame 2 = **god's-eye top-down** on her weaving carve-tracks scribing S-lines through the glade; Frame 4 = **reverse crane pull-out** village reveal.
+- **HERO FRAME (Frame 3):** she reads clearly as the hero on the blazing lake-flat (closer, sunlit, confident grin) — with the peaks still behind her. Every other frame keeps her small, world dominant — room on the sides, top and bottom.
+- **Footing:** she skis — athletic balanced stance, real carving + glide.
 
 ---
-### FRAME 1 — PISTE CARVE
-**Frame angle:** high aerial ¾ (~45° down, world-dominant), brilliant bluebird side-light.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **high aerial ¾**. · Outfit: retro colour-block ski one-piece (cream/coral/teal). · Headwear: rose-gold goggles up on forehead + white earmuff band. · Accessories: white gloves, coral gaiter. · Eye colour: amber-hazel. · Makeup: snow-glow, peach lip. · Hair: two Dutch braids forward. · Footwear: cream-coral ski boots. · Nails: glossy coral. · static & neutral, plain blank background.
-**STILL 2 · OBJECT (plain bg):** the coral-and-cream carving skis with poles at **high aerial ¾** — glinting edges, matched bindings. Clean, isolated, plain blank background.
-**STILL 3 · ENVIRONMENT:** a wide sunlit alpine piste — groomed corduroy snow, snow-laden peaks, deep blue sky, a far cable-car line; high aerial ¾ vantage (world dominant).
+### FRAME 1 — PISTE CARVE (magical element · snow-sparkle spindrift, used once)
+**Frame angle:** high aerial ¾ (~45° down, world-dominant), brilliant bluebird side-light — she small in the white sweep.
+**ENVIRONMENT still (the only per-frame ingredient):** a wide sunlit alpine piste high on the mountain — groomed corduroy snow, snow-laden peaks, deep blue sky, a far cable-car line, fine spindrift lifting off the wind-crests; high aerial ¾ vantage (world-dominant, huge negative space). *(Animate `@subject` carving with `@object`; she small.) The concept's single element lands here.*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* WIDE high aerial establishing, **one continuous slow track following her carve down the piste.** [00:00–00:02] she carves out across the wide sunlit piste, tiny in the open white sweep, edges biting, body leaning into the turn. [00:02–00:04] the signature stirs — fanning snow-spray arcs off her edges into the sun and ice-glitter hangs in her wake; she rides the rhythm with a bright wide grin. [00:04–00:06] she carves toward a band of pines edging the run. Real-time, believable carving stance + real snow-spray; 9:16. (Environment-dominant wide.)
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact face/identity — animate only gaze + soft expression: an exhilarated bright wide grin into the cold air.
+- *Animation:* WIDE high aerial, **one continuous slow track following her carve down the piste.** [00:00–00:02] she carves out across the wide sunlit piste, tiny in the open white sweep, edges biting. [00:02–00:04] the **element** stirs — fine snow-sparkle spindrift lifts and twinkles off the wind-crests in the sun; she rides the rhythm with a bright grin. [00:04–00:06] she carves toward a band of pines edging the run. Real-time, believable carving stance + real snow; 9:16. (Environment-dominant — she small, negative space all around.)
 - *AUDIO (in-frame):* ambient/object — the crisp shear of skis carving snow, edges hissing, wind, a distant lift hum; voice — Aira's exhilarated "woohoo!" and an open laugh.
-**→ Cut (match-on-action) to Frame 2 — she slips off the piste into the pine glade.**
+**→ Cut (match-on-action) to Frame 2 — she drops into the pine glade (the god's-eye trick).**
 
 ---
-### FRAME 2 — PINE GLADE
-**Frame angle:** low ¾ front (~30° left, ground-level track-with), cool shaded glade light.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **low ¾ front (~30° left)**. · Outfit: colour-block ski one-piece. · Headwear: rose-gold goggles + earmuff band. · Accessories: white gloves, coral gaiter. · Eye colour: amber-hazel. · Makeup: snow-glow, peach lip. · Hair: two Dutch braids forward. · Footwear: ski boots. · Nails: glossy coral. · static & neutral, plain blank background.
-**STILL 2 · OBJECT (plain bg):** the carving skis with poles at **low ¾ front** — tips foremost, snow-dusted edges. Clean, isolated, plain blank background.
-**STILL 3 · ENVIRONMENT:** a hushed snow-laden pine glade — tall snow-frosted pines, soft blue shade, powder mounds, a glittering light-shaft between the trees; low ground-level ¾-front vantage.
+### FRAME 2 — PINE GLADE (trick shot · god's-eye top-down)
+**Frame angle:** god's-eye top-down (~80° down), looking straight down onto the glade.
+**ENVIRONMENT still (the only per-frame ingredient):** a snow-laden pine glade seen from directly above — dark pine-tops, powder, a glittering light-shaft, and the smooth white lanes between the trees ready to be scribed; top-down vantage (she small in the pattern). *(Animate `@subject` weaving through with `@object`.)*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* MEDIUM, **one continuous low ground-level track weaving with her between the pines.** [00:00–00:02] she glides into the hushed glade, weaving between snow-frosted pines, powder feathering off her skis. [00:02–00:04] she ducks a low snowy bough and brushes it with a glove, a soft shower of glittering snow falling through a light-shaft; she glances up with a delighted soft smile. [00:04–00:06] she slips out of the trees toward a blazing-bright frozen lake. Real-time, believable weaving glide + real powder; 9:16.
-- *AUDIO (in-frame):* ambient/object — the soft swish of skis through powder, snow pattering off a branch, muffled forest hush, her breath; voice — a soft delighted "ooh" and a quiet laugh from Aira.
-**→ Cut (match-on-action) to Frame 3 — she glides out onto the open frozen-lake flat.**
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact identity — a delighted focused softness (read in the brief glimpses of her face).
+- *Animation:* WIDE god's-eye top-down, **one continuous overhead track — the carve-tracks trick.** [00:00–00:02] from straight above, she weaves between the snow-frosted pines, her skis **scribing graceful S-curve tracks** in the powder behind her. [00:02–00:04] she ducks a low bough and a soft shower of glittering snow falls through a light-shaft, her tracks curving on. [00:04–00:06] she slips out of the trees toward a blazing frozen lake. Real-time, believable weaving glide + real powder + clean ski-tracks; 9:16.
+- *AUDIO (in-frame):* ambient/object — the soft swish of skis through powder, snow pattering off a branch, muffled forest hush, her breath; voice — a soft delighted "ooh" and a quiet laugh.
+**→ Cut (match-on-action) to Frame 3 — she glides out onto the blazing lake-flat (her hero beat).**
 
 ---
-### FRAME 3 — FROZEN-LAKE FLAT
-**Frame angle:** full profile (true side, parallel track), blazing white lake light.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, in **full profile**. · Outfit: colour-block ski one-piece. · Headwear: rose-gold goggles + earmuff band. · Accessories: white gloves, coral gaiter. · Eye colour: amber-hazel. · Makeup: snow-glow, peach lip. · Hair: two Dutch braids forward. · Footwear: ski boots. · Nails: glossy coral. · static & neutral, plain blank background.
-**STILL 2 · OBJECT (plain bg):** the carving skis with poles in **full profile** — full side, glinting edges. Clean, isolated, plain blank background.
-**STILL 3 · ENVIRONMENT:** a vast sparkling frozen-lake flat — wind-polished snow blazing in the sun, peaks ringing the horizon, a distant village glinting; profile vantage across the flat.
+### FRAME 3 — FROZEN-LAKE FLAT (HERO frame)
+**Frame angle:** ¾ front, slightly low — closer hero framing, blazing sunlit, the peaks still behind her.
+**ENVIRONMENT still (the only per-frame ingredient):** a vast sparkling frozen-lake flat — wind-polished snow blazing in the sun, peaks ringing the horizon, a distant village glinting; ¾-front vantage (she comes closer here, but the flat + peaks fill behind her). *(Animate `@subject` gliding with `@object`.)*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* MEDIUM profile, **one continuous parallel track at her glide-pace** across the blazing flat. [00:00–00:02] she skates-glides out across the vast sparkling lake-flat, snow blazing white, peaks ringing the sky. [00:02–00:04] she pushes into a long fast glide and a big snow-spray fan arcs off her edge into the sun, ice-glitter trailing; she grins into the rushing air. [00:04–00:06] she glides on toward a snug village rising ahead. Real-time, believable skating-glide + real spray; 9:16. (Environment-dominant — sky + flat lead.)
-- *AUDIO (in-frame):* ambient/object — the long hiss of skis on hard snow, a sharp edge-spray, open wind, faint village bells; voice — Aira's bright "yeah!" and a rushing laugh.
-**→ Cut (match-on-action) to Frame 4 — she glides up into the village arrival.**
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact identity — animate only gaze + soft expression: a **radiant, confident grin** to lens — her clear hero beat.
+- *Animation:* MEDIUM ¾ front, **one continuous track-with as she glides the blazing flat.** [00:00–00:02] she skates-glides out onto the vast blazing lake-flat, sun full on her, peaks ringing the sky. [00:02–00:04] she eases into a confident glide, pushes the goggles up and beams a radiant grin to lens — her hero moment, snow blazing around her. [00:04–00:06] she glides on toward a snug village rising ahead. Real-time, believable skating-glide; 9:16. (Hero framing — closer, but the world stays behind her.)
+- *AUDIO (in-frame):* ambient/object — the long hiss of skis on hard snow, open wind, faint village bells; voice — Aira's bright "yeah!" and a rushing laugh.
+**→ Cut (match-on-action) to Frame 4 — she glides up into the village (the reverse-crane reveal).**
 
 ---
-### FRAME 4 — VILLAGE ARRIVAL (signature · loop)
-**Frame angle:** low-hero ¾ opening to front (~30°, crane pull-back), warm low village light.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **low-hero ¾ (~30°)**. · Outfit: colour-block ski one-piece. · Headwear: rose-gold goggles + earmuff band. · Accessories: white gloves, coral gaiter. · Eye colour: amber-hazel. · Makeup: snow-glow, peach lip. · Hair: two Dutch braids forward. · Footwear: ski boots. · Nails: glossy coral. · static & neutral, plain blank background.
-**STILL 2 · OBJECT (plain bg):** the carving skis with poles at **low-hero ¾** — stood up in the snow, edges glinting. Clean, isolated, plain blank background.
-**STILL 3 · ENVIRONMENT:** a snug alpine village square in warm low light — timber-and-stone chalets, glowing windows, snow-laden roofs, a fountain iced over, peaks behind; low-hero ¾ vantage with crane reveal.
+### FRAME 4 — VILLAGE ARRIVAL (trick shot · reverse crane reveal · loop)
+**Frame angle:** wide reverse crane — low opening, then crane back and up; she small, world dominant; warm low village light.
+**ENVIRONMENT still (the only per-frame ingredient):** a snug alpine village square in warm low light — timber-and-stone chalets, glowing windows, snow-laden roofs, an iced-over fountain, peaks behind; wide crane vantage (she small, room all around). *(Animate `@subject` carving to a stop with `@object`.)*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* WIDE low-hero, **one continuous slow crane pull-back to reveal the village square.** [00:00–00:02] she glides up into the snug village square and carves to a crisp stop, a fan of snow-spray settling. [00:02–00:04] the signature peaks — the spray and ice-glitter hang glittering in the warm light; she pushes the goggles up and beams to lens, breath fogging. [00:04–00:06] the camera cranes back to reveal the whole chalet square and peaks around her — easing toward the piste-carve opening for a loop. Real-time, believable hockey-stop + real snow; 9:16.
-- *AUDIO (in-frame):* ambient/object — the scrape and spray of a stop, snow settling, village chatter and a chalet bell, her breath; voice — Aira's satisfied breath and a warm "that was perfect…".
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact identity — animate only gaze + soft expression: a satisfied, warm, breath-fogging smile.
+- *Animation:* WIDE, **one continuous reverse crane pull-back and up to reveal the village.** [00:00–00:02] she glides up into the snug square and carves a crisp hockey-stop, a fan of snow-spray settling. [00:02–00:04] she pushes the goggles up with a warm satisfied smile, breath fogging in the low light. [00:04–00:06] the camera cranes back and up to reveal the whole chalet square and peaks around her — easing toward the piste-carve opening for a loop. Real-time, believable hockey-stop + real snow; 9:16. (Environment-dominant — she small, negative space all around.)
+- *AUDIO (in-frame):* ambient/object — the scrape and spray of the stop, snow settling, village chatter and a chalet bell, her breath; voice — Aira's satisfied breath and a warm "that was perfect…".
 **→ Loops back to Frame 1 (the piste carve).**
 
-**Stills to generate:** 3 per frame × 4 frames = 12. Score = 24s MASTER AUDIO under the diegetic.
+**Stills to generate:** **`@subject` (1) + `@object` (1) + 4 ENVIRONMENT stills = 6 total** — subject & object rendered once and reused; only environment + video prompt change per frame. ONE mountain skied top-to-bottom (piste → glade → lake-flat → village); spindrift element in Frame 1 only; trick shots in Frames 2 (god's-eye carve-tracks) & 4 (reverse crane reveal); hero beat in Frame 3. Score = 24s MASTER AUDIO under the diegetic.
 
 ═══════════════════════════════════════════════════════════════════════════════
 
