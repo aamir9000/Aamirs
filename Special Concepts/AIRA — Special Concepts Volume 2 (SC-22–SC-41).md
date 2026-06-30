@@ -1292,10 +1292,10 @@ diegetic — no spoken line; optional wordless bright vocal on the calm lake onl
 ═══════════════════════════════════════════════════════════════════════════════
 
 # SC-41 · SKY SAIL (Paraglide) · 4 shots × 6s
-**Logline:** A soaring big-sky flight — a hilltop launch → gliding over patchwork fields → banking over a lake →
-a gentle coastal landing. Signature: cloud-wisps streaming past the wing + land-and-lake sun-glints + thermals
-lifting seeds. Free, exhilarating, blissful. Several exterior "see the wing in the sky" shots.
-**Arc:** EXTERIOR · HILLTOP LAUNCH → OVER PATCHWORK FIELDS → BANK OVER THE LAKE → COASTAL LANDING (signature).
+**Logline:** A soaring flight across one big-sky landscape — a hilltop launch, gliding over patchwork fields,
+banking over a lake, a gentle coastal landing. One landscape, flown through. Free, exhilarating, blissful — with
+exterior "see the wing in the sky" shots.
+**Arc (one place, travelled through):** HILLTOP LAUNCH (trick) → OVER PATCHWORK FIELDS (element) → BANK OVER THE LAKE (hero) → COASTAL LANDING (trick · loop).
 
 ## MASTER AUDIO (outside the frames — background music)
 A 24-second custom cinematic score (4 clips × 6s) in self-resolving ~6-second phrases, trimmable at any phrase
@@ -1304,64 +1304,57 @@ warm sub — free, exhilarating, blissful. Opens (no fade-in) on a soaring strin
 open, a serene fields lull, an exhilarated lake-bank lift, then a gentle coastal resolve for an invisible loop.
 Laid UNDER the diegetic — no spoken line; optional wordless soaring vocal on the landing only.
 
-## GLOBAL STYLE LOCKS
-- **Outfit:** a sleek rainbow-panel flight suit (white base with coral/teal/yellow panels), with a paraglide harness over it.
-- **Headwear:** a white flight helmet with a clear visor. **Accessories:** the harness webbing and carabiners, padded flight gloves, a slim altimeter on the wrist. **Eye colour:** warm amber-hazel. **Makeup:** fresh sky glow — luminous skin, a wind-flush, a tinted balm lip, SPF sheen. **Hair:** a single long French braid down the back. **Footwear:** white-and-coral trail trainers. **Nails:** short bright coral.
-- **Hero object:** a rainbow-arc paraglider wing (a broad crescent canopy in bright spectrum panels) with its lines and a seat-harness.
-- **Signature (grounded):** cloud-wisps stream past the wing, sun-glints flash off the land and lake below, and thermals lift drifting seeds up around her. Real canopy + cloud + light physics.
-- **Journey + light:** bright big-sky day all the way — green hilltop launch → golden patchwork fields → sparkling blue lake → warm coastal meadow. *(Exterior shots = camera OFF her, she + wing small in the sky; harness shots = real flight buffet. She's harnessed and flying, never floating free.)*
+## INGREDIENTS + LOCKS (generate `@subject` & `@object` ONCE — reuse them in every frame)
+- **`@subject` — render ONCE, reuse every frame** (neutral, full body, plain blank bg): `Aira [identity placeholder]` styled as — **Outfit:** sleek rainbow-panel flight suit (white base with coral/teal/yellow panels) with a paraglide harness over it · **Headwear:** white flight helmet with a clear visor · **Accessories:** harness webbing and carabiners, padded flight gloves, a slim wrist altimeter · **Eye colour:** warm amber-hazel · **Makeup:** fresh sky glow, wind-flush, tinted balm lip, SPF sheen · **Hair:** a single long French braid down the back · **Footwear:** white-and-coral trail trainers · **Nails:** short bright coral.
+- **`@object` — render ONCE, reuse every frame** (plain blank bg): a rainbow-arc paraglider wing (a broad crescent canopy in bright spectrum panels) with its lines and a seat-harness.
+- **THE PLACE (ONE big-sky landscape, flown THROUGH):** a single bright landscape — a green hilltop launch, golden patchwork fields, a sparkling blue mountain lake, and a warm coastal meadow above a turquoise sea; bright big-sky day throughout. She **paraglides through it** across the four frames, so each ENVIRONMENT still is the next part of the same landscape at its own angle. (Cloud-wisps, sun-glints and thermal-lifted air are the sky's own natural detail.)
+- **MAGICAL ELEMENT (used ONCE — Frame 2 only):** **drifting cottonwood seed-fluff** lifts on a thermal and floats up around her over the fields (real seed + air physics). No other frame carries an element.
+- **TRICK SHOTS (×2 — Frames 1 & 4, never the element's frame):** Frame 1 = **exterior aerial chase** of the rainbow wing as she launches and soars out; Frame 4 = **reverse pull-out** coastal reveal (the camera cranes way back to unveil the whole coast).
+- **HERO FRAME (Frame 3):** she reads clearly as the hero banking over the lake (closer harness shot, leaning into the bank, thrilled radiant grin). Every other frame keeps her + wing small in the big sky — room on the sides, top and bottom.
+- **Footing:** she's harnessed and flying — gripping the brakes, body settled in the harness, never floating free.
 
 
 ---
-### FRAME 1 — EXTERIOR · HILLTOP LAUNCH
-**Frame angle:** low ¾ front (~30° right, ground-level), bright green hilltop side-light.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **low ¾ front (~30° right)**. · Outfit: rainbow-panel flight suit + paraglide harness. · Headwear: white flight helmet, clear visor. · Accessories: harness webbing + carabiners, flight gloves, altimeter. · Eye colour: amber-hazel. · Makeup: sky glow, balm lip. · Hair: single long French braid. · Footwear: white-and-coral trail trainers. · Nails: bright coral. · static & neutral, plain blank background.
-**STILL 2 · OBJECT (plain bg):** the rainbow-arc paraglider wing at **low ¾ front** — broad spectrum-panel crescent canopy, lines, seat-harness. Clean, isolated, plain blank background.
-**STILL 3 · ENVIRONMENT:** a green hilltop launch ramp — a grassy slope dropping to a vast patchwork valley, a wind-sock fluttering, far ridges and big sky, the wing laid out ready; low ¾-front ground-level vantage.
+### FRAME 1 — HILLTOP LAUNCH (trick shot · exterior aerial chase)
+**Frame angle:** exterior aerial chase (world-dominant), bright green hilltop side-light — the wing big in the sky, she small.
+**ENVIRONMENT still (the only per-frame ingredient):** a green hilltop launch ramp — a grassy slope dropping to a vast patchwork valley, a wind-sock fluttering, far ridges and big sky; exterior aerial vantage following the wing off the hill. *(Animate `@subject` running off the hill under `@object` as it lifts.)*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* MEDIUM low ¾ front, **one continuous track as she runs and launches off the hill.** [00:00–00:02] the rainbow wing inflates and rises overhead; she runs down the grassy slope into the launch, lines tautening. [00:02–00:04] the signature stirs — thermals lift seeds and cloud-wisps drift as her feet leave the ground and the wing carries her up; she whoops with an exhilarated wide grin. [00:04–00:06] she soars out over the patchwork valley. Real-time, believable launch run + canopy inflation + harnessed lift; 9:16.
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact face/identity — an exhilarated wide grin (read as she launches).
+- *Animation:* WIDE, **one continuous exterior aerial chase — the see-from-outside trick.** [00:00–00:02] the rainbow wing inflates and rises overhead; she runs down the grassy slope into the launch, lines tautening, the camera chasing from the air. [00:02–00:04] her feet leave the ground and the wing carries her up and out over the valley, cloud-wisps drifting; she whoops with an exhilarated grin. [00:04–00:06] she soars out over the patchwork fields. Real-time, believable launch run + canopy inflation + harnessed lift; 9:16. (Environment-dominant — wing in the big sky.)
 - *AUDIO (in-frame):* ambient/object — the canopy snapping taut and rippling, running feet, wind, the wind-sock; voice — Aira's exhilarated "woohoo — flying!" and a soaring laugh.
-**→ Cut (match-on-action) to Frame 2 — she glides out over the patchwork fields.**
+**→ Cut (match-on-action) to Frame 2 — she glides out over the patchwork fields (the cottonwood-fluff element).**
 
 ---
-### FRAME 2 — OVER PATCHWORK FIELDS
-**Frame angle:** high aerial ¾ (~50° down, world-dominant), golden field light.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **high aerial ¾** seated in the harness. · Outfit: rainbow-panel flight suit + harness. · Headwear: white helmet, visor. · Accessories: webbing + carabiners, gloves, altimeter. · Eye colour: amber-hazel. · Makeup: sky glow, balm lip. · Hair: long French braid. · Footwear: trail trainers. · Nails: bright coral. · static & neutral, plain blank background.
-**STILL 2 · OBJECT (plain bg):** the rainbow wing at **high aerial ¾** — full crescent canopy seen from above, lines, harness. Clean, isolated, plain blank background.
-**STILL 3 · ENVIRONMENT:** golden patchwork fields from high above — a quilt of green-and-gold farm fields, hedgerows and lanes, a toy village, drifting cloud-shadows; high aerial ¾ vantage (world dominant).
+### FRAME 2 — OVER PATCHWORK FIELDS (magical element · cottonwood seed-fluff, used once)
+**Frame angle:** high aerial ¾ (~50° down, world-dominant), golden field light — she + wing small over the quilt.
+**ENVIRONMENT still (the only per-frame ingredient):** golden patchwork fields from high above — a quilt of green-and-gold farm fields, hedgerows and lanes, a toy village, drifting cloud-shadows; high aerial ¾ vantage (world-dominant, big negative space). *The concept's single element lands here.*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* WIDE high aerial, **one continuous slow track gliding with her over the fields.** [00:00–00:02] she glides high over the golden patchwork fields, settled in the harness, the quilt of farmland far below. [00:02–00:04] she spreads her arms wide and looks down at the fields with blissful awe, cloud-wisps streaming past the wing, seeds lifting in a thermal. [00:04–00:06] she banks gently toward a sparkling lake. Real-time, believable harnessed glide + real cloud-streaming; 9:16. (Environment-dominant wide.)
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact identity — animate only gaze + soft expression: a blissful, wide-armed awe.
+- *Animation:* WIDE high aerial, **one continuous slow track gliding with her over the fields.** [00:00–00:02] she glides high over the golden patchwork fields, settled in the harness, the quilt of farmland far below. [00:02–00:04] the **element** — drifting cottonwood seed-fluff lifts on a thermal and floats up around her; she spreads her arms wide and looks down with blissful awe. [00:04–00:06] she banks gently toward a sparkling lake. Real-time, believable harnessed glide + real seed-fluff; 9:16. (Environment-dominant — she small over the fields.)
 - *AUDIO (in-frame):* ambient/object — the steady rush of wind over the wing, the harness creak, faint birds far below; voice — Aira's awed "wow…" and a soft soaring laugh.
-**→ Cut (match-on-action) to Frame 3 — cut outside as she banks over the lake.**
-
-
----
-### FRAME 3 — EXTERIOR · BANK OVER THE LAKE
-**Frame angle:** WIDE profile aerial (world-dominant, parallel chase), sparkling blue lake light.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, **seated in the harness ¾** (she + wing read small in the exterior frame). · Outfit: rainbow-panel flight suit + harness. · Headwear: white helmet, visor. · Accessories: webbing + carabiners, gloves, altimeter. · Eye colour: amber-hazel. · Makeup: sky glow, balm lip. · Hair: long French braid. · Footwear: trail trainers. · Nails: bright coral. · static & neutral, plain blank background.
-**STILL 2 · OBJECT (plain bg):** the rainbow wing banking, **dynamic side ¾** — canopy tipped, lines angled, harness. Clean, isolated, plain blank background.
-**STILL 3 · ENVIRONMENT:** a sparkling blue mountain lake from the air — deep-blue water ringed by green slopes, sun-glints scattering across it, a far snow-peak, a vast bright sky; WIDE profile aerial vantage (she + wing bank past).
-**VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move (she + wing are small in the sky).
-- *Animation:* WIDE aerial, **one continuous parallel chase as she banks over the lake.** [00:00–00:02] the rainbow wing banks out over the sparkling blue lake, canopy tipped, the water flashing far below. [00:02–00:04] the signature reads — cloud-wisps stream off the wing-tip and sun-glints scatter across the lake; her small figure leans into the bank with a thrilled grin, braid flying. [00:04–00:06] she straightens and descends toward a coastal meadow. Real-time, believable banking flight + real glints/cloud; 9:16. (Environment-dominant wide.)
-- *AUDIO (in-frame):* ambient/object — wind whistling over the canopy, the lines humming, distant water and birds; voice — (distant) Aira's joyful whoop carried on the wind.
-**→ Cut (match-on-action) to Frame 4 — she comes in to a gentle coastal landing.**
+**→ Cut (match-on-action) to Frame 3 — she banks over the lake (her hero beat).**
 
 ---
-### FRAME 4 — COASTAL LANDING (signature · loop)
-**Frame angle:** low-hero ¾ opening to front (~30°, crane pull-back), warm coastal meadow light.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **low-hero ¾ (~30°)** touching down. · Outfit: rainbow-panel flight suit + harness. · Headwear: white helmet (visor up). · Accessories: webbing + carabiners, gloves, altimeter. · Eye colour: amber-hazel. · Makeup: sky glow, balm lip. · Hair: long French braid. · Footwear: trail trainers. · Nails: bright coral. · static & neutral, plain blank background.
-**STILL 2 · OBJECT (plain bg):** the rainbow wing at **low-hero ¾** — settling down behind her, crescent canopy billowing, lines slackening. Clean, isolated, plain blank background.
-**STILL 3 · ENVIRONMENT:** a warm coastal meadow landing — a grassy clifftop above a turquoise sea, wildflowers, a lighthouse and a curving bay beyond, brilliant low sun; low-hero ¾ vantage with crane reveal.
+### FRAME 3 — BANK OVER THE LAKE (HERO frame)
+**Frame angle:** closer harness ¾, sparkling blue lake light — leaning into the bank, the lake glinting behind.
+**ENVIRONMENT still (the only per-frame ingredient):** a sparkling blue mountain lake from the air — deep-blue water ringed by green slopes, sun-glints scattering across it, a far snow-peak, a vast bright sky; ¾ vantage over the lake. *(Animate `@subject` in the harness of `@object` banking.)*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* WIDE low-hero, **one continuous slow crane pull-back as she lands on the clifftop meadow.** [00:00–00:02] she flares the wing and runs out a soft touchdown on the coastal meadow, the canopy settling down behind her. [00:02–00:04] the signature peaks — cloud-wisps drift, sun-glints flash off the sea and thermals lift seeds around her; she pushes the visor up, throws her arms wide and beams to lens with radiant joy. [00:04–00:06] the camera cranes back to reveal the whole clifftop, bay and lighthouse around her — easing toward the hilltop-launch opening for a loop. Real-time, believable flared landing + real canopy-settle; 9:16.
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact identity — animate only gaze + soft expression: a **thrilled, radiant grin**, braid flying — her hero beat.
+- *Animation:* MEDIUM ¾ (closer harness), **one continuous track-with as she banks over the lake.** [00:00–00:02] she banks the wing out over the sparkling blue lake, leaning into the turn, the water flashing far below. [00:02–00:04] she grins with thrilled radiance, braid flying, sun-glints scattering off the lake behind her — her hero moment. [00:04–00:06] she straightens and descends toward a coastal meadow. Real-time, believable banking flight + real glints; 9:16. (Hero framing — closer, the lake glinting behind her.)
+- *AUDIO (in-frame):* ambient/object — wind whistling over the canopy, the lines humming, distant water and birds; voice — Aira's joyful "woohoo!" and a bright laugh.
+**→ Cut (match-on-action) to Frame 4 — she comes in to a gentle coastal landing (the reverse pull-out reveal).**
+
+---
+### FRAME 4 — COASTAL LANDING (trick shot · reverse pull-out reveal · loop)
+**Frame angle:** low-hero opening to a big reverse crane pull-back, warm coastal meadow light — she smaller, world dominant.
+**ENVIRONMENT still (the only per-frame ingredient):** a warm coastal meadow landing — a grassy clifftop above a turquoise sea, wildflowers, a lighthouse and a curving bay beyond, brilliant low sun; low-hero ¾ vantage with a big crane reveal. *(Animate `@subject` flaring and touching down, `@object` settling behind.)*
+**VIDEO PROMPT:**
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact identity — animate only gaze + soft expression: a **radiant, triumphant, arms-wide beam** as she pushes the visor up.
+- *Animation:* WIDE low-hero, **one continuous big reverse crane pull-back — the reveal trick.** [00:00–00:02] she flares the wing and runs out a soft touchdown on the coastal meadow, the canopy settling down behind her. [00:02–00:04] she pushes the visor up, throws her arms wide and beams to lens with radiant joy, thermals lifting seeds around her. [00:04–00:06] the camera **cranes way back** to reveal the whole clifftop, bay and lighthouse around her — easing toward the hilltop-launch opening for a loop. Real-time, believable flared landing + real canopy-settle; 9:16. (Environment-dominant — she smaller, the coast revealed around her.)
 - *AUDIO (in-frame):* ambient/object — the canopy billowing down and lines settling, footsteps in grass, waves below, gulls, wind; voice — Aira's triumphant "woohoo — what a flight!" and a delighted laugh.
 **→ Loops back to Frame 1 (the hilltop launch).**
 
-**Stills to generate:** 3 per frame × 4 frames = 12 (exterior frames: world+wing lead, she small in the sky). Score = 24s MASTER AUDIO under the diegetic.
+**Stills to generate:** **`@subject` (1) + `@object` (1) + 4 ENVIRONMENT stills = 6 total** — subject & object rendered once and reused; only environment + video prompt change per frame. ONE big-sky landscape flown through (launch → fields → lake → coast); cottonwood-fluff element in Frame 2 only; trick shots in Frames 1 (exterior aerial chase) & 4 (reverse pull-out reveal); hero beat in Frame 3. Score = 24s MASTER AUDIO under the diegetic.
 
 ═══════════════════════════════════════════════════════════════════════════════
 *END OF VOLUME 2 — SC-22, SC-23, SC-24, SC-25, SC-26, SC-27, SC-28, SC-29, SC-30, SC-31, SC-32, SC-33, SC-34, SC-35, SC-36, SC-37, SC-38, SC-39, SC-40, SC-41 (20 concepts · the "modes" set). Volume 1 holds SC-01–SC-A1.*
