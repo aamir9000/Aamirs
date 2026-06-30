@@ -530,10 +530,10 @@ choir-swell on the peak only. Layered: piano/harp melody, warm sub, airy string 
 ═══════════════════════════════════════════════════════════════════════════════
 
 # SC-09 · PUDDLE SYMPHONY (Rain-Break) · 4 shots × 6s
-**Logline:** A joyful rain-break dance through the city — rain-soaked plaza → sheltered arcade → fountain court →
-a square as the sun breaks through. The subject splashes, twirls, and stomps a puddle into the sunlight. Signature:
-splash-crowns of water + clean rainbow-prism light as the storm gives way to sun. Cathartic, glossy.
-**Arc:** WET PLAZA (rain) → SHELTERED ARCADE → FOUNTAIN COURT → SUN-BREAK SQUARE (signature).
+**Logline:** A joyful rain-break dance through one city quarter — a rain-soaked plaza, a sheltered arcade, a
+fountain court, the square as the sun breaks. One quarter, danced through; cool wet-silver brightening to warm
+sun-break. Cathartic, glossy.
+**Arc (one place, travelled through):** WET PLAZA (trick) → SHELTERED ARCADE (trick) → FOUNTAIN COURT (hero) → SUN-BREAK SQUARE (element).
 
 ## MASTER AUDIO (outside the frames — background music)
 A 24-second custom cinematic score (4 clips × 6s) in self-resolving ~6-second phrases, trimmable at any phrase
@@ -544,62 +544,56 @@ fountain, then a radiant uplifting peak as the sun breaks, resolving for an invi
 — no spoken line; optional wordless "la" lift on the sun-break only. Layered: piano/glockenspiel, warm sub,
 pizzicato rhythm, a single swell for the sun-break.
 
-## GLOBAL STYLE LOCKS
-- **Outfit:** a glossy marigold-yellow vinyl raincoat (belted) over a cute white-and-red polka-dot dress.
-- **Headwear:** none. **Accessories:** none (the umbrella is the object). **Eye colour:** warm amber-hazel. **Makeup:** fresh and dewy with a bold red lip pop, rain-glow skin. **Hair:** a sleek **wet-look low ponytail**, a few damp face strands. **Footwear:** cherry-red rubber wellies. **Nails:** glossy cherry-red.
-- **Hero object:** a clear bubble umbrella with a red rim (spun, tilted, set aside as the sun breaks).
-- **Signature (grounded):** crown-splashes of water leap from her stomps; as the sun breaks, clean rainbow-prism light flares through the spray; peaks on the sun-break puddle stomp/spin. Real water + refraction.
-- **Journey + light:** cool wet-silver plaza → dim sheltered arcade with drips → brightening fountain court → warm sun-break square (rain stops, sun out).
+## INGREDIENTS + LOCKS (generate `@subject` & `@object` ONCE — reuse them in every frame)
+- **`@subject` — render ONCE, reuse every frame** (neutral, full body, plain blank bg): `Aira [identity placeholder]` styled as — **Outfit:** glossy marigold-yellow vinyl raincoat (belted) over a cute white-and-red polka-dot dress · **Hair:** sleek wet-look low ponytail with a few damp face strands · **Accessories:** none · **Eye colour:** warm amber-hazel · **Makeup:** fresh and dewy with a bold red lip pop, rain-glow skin · **Footwear:** cherry-red rubber wellies · **Nails:** glossy cherry-red.
+- **`@object` — render ONCE, reuse every frame** (plain blank bg): a clear bubble umbrella with a red rim — transparent dome, slim handle.
+- **THE PLACE (ONE city quarter, danced THROUGH):** a single rain-washed quarter — a mirror-wet stone plaza, a dim sheltered arcade, a fountain court, and an open square; light brightening cool wet-silver → warm sun-break (rain stops, sun out) as she moves through. She **dances through it** across the four frames, so each ENVIRONMENT still is the next part of the same quarter at its own angle.
+- **MAGICAL ELEMENT (used ONCE — Frame 4; written into that frame's VIDEO PROMPT):** in the sun-break square clean rainbow-prism light flares through her puddle-stomp spray as the sun breaks (real water + true light refraction, no cartoon sparkle). No other frame carries an element.
+- **TRICK SHOTS (×2 — Frames 1 & 2, never the element's frame; each written into its frame's VIDEO PROMPT):** Frame 1 = **rain-on-glass reflection** (her seen through a rain-streaked shopfront, the plaza doubled in the running drops); Frame 2 = **wet-pavement mirror** (the polished wet floor mirroring her and the arcade).
+- **HERO FRAME (Frame 3):** she reads clearly as the hero in the fountain court (closer, opening the umbrella, face up to the brightening sky). Every other frame keeps her with the quarter present — room on the sides, top and bottom.
+- **Footing:** she walks / splashes / spins on foot — playful real footwork + believable splash weight.
 
 ---
-### FRAME 1 — WET PLAZA (rain)
-**Frame angle:** high overhead (~70° down), cool wet-silver with warm shop-light reflections.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, from **high overhead (~70°)**. · Outfit: marigold vinyl raincoat over white-and-red polka dress. · Headwear: none. · Accessories: none. · Eye colour: amber-hazel. · Makeup: dewy, bold red lip. · Hair: sleek wet-look low ponytail. · Footwear: cherry-red wellies. · Nails: cherry-red. · static & neutral, plain blank background.
-**STILL 2 · OBJECT (plain bg):** the clear bubble umbrella with a red rim, from **high overhead** — transparent dome, red trim, slim handle. Clean, isolated, plain blank background.
-**STILL 3 · ENVIRONMENT:** a rain-soaked stone plaza from above — sheeting rain, mirror-wet stone reflecting grey sky and warm shop-lights, ripples spreading; high-overhead vantage.
+### FRAME 1 — WET PLAZA (trick shot · rain-on-glass reflection)
+**Frame angle:** through a rain-streaked shopfront glass (~front, the plaza doubled in running drops), cool wet-silver with warm shop-light reflections.
+**ENVIRONMENT still (the only per-frame ingredient):** a rain-soaked stone plaza seen through a rain-streaked shopfront window — sheeting rain running down the glass, mirror-wet stone reflecting grey sky and warm shop-lights, ripples spreading, the plaza doubled in the running drops; through-glass vantage. *(Animate `@subject` under `@object` crossing the plaza, seen through the wet glass.)*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* WIDE high overhead, **one continuous slow descend toward her.** [00:00–00:02] she crosses the mirror-wet plaza under the clear bubble umbrella, warm shop-lights reflected in the rippling stone, rain sheeting. [00:02–00:04] she hops over a puddle, lifting her raincoat hem with her left hand, a playful private grin, ripples spreading. [00:04–00:06] she skips toward the shelter of an arcade, umbrella bobbing. Real-time, believable rain + splashes + reflections; 9:16.
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact face/identity — animate only gaze + soft expression: a playful private grin.
+- *Animation:* MEDIUM **through rain-streaked glass**, **one continuous push toward the glass as the drops distort and double her — the rain-on-glass trick.** [00:00–00:02] seen through a rain-streaked shopfront, she crosses the mirror-wet plaza under the clear bubble umbrella, warm shop-lights smearing in the running drops. [00:02–00:04] she hops over a puddle, lifting her raincoat hem with her left hand, a playful private grin, her shape doubling in the streaked glass and the wet stone. [00:04–00:06] she skips toward the shelter of an arcade, umbrella bobbing. Real-time, believable rain + running-drop reflection; 9:16.
 - *AUDIO (in-frame):* ambient/object — sheeting rain, rain drumming on the umbrella canopy, wellies splashing, a distant city hush; voice — Aira's playful private giggle as she hops the puddle.
-**→ Cut (match-on-action) to Frame 2 — she ducks under the sheltered arcade.**
+**→ Cut (match-on-action) to Frame 2 — she ducks under the sheltered arcade (the wet-pavement-mirror trick).**
 
 ---
-### FRAME 2 — SHELTERED ARCADE
-**Frame angle:** full profile (true side), dim-warm arcade with cool rain beyond.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, in **full profile**. · Outfit: marigold raincoat over polka dress. · Headwear: none. · Accessories: none. · Eye colour: amber-hazel. · Makeup: dewy, bold red lip. · Hair: sleek wet-look low ponytail. · Footwear: cherry-red wellies. · Nails: cherry-red. · static & neutral, plain blank background.
-**STILL 2 · OBJECT (plain bg):** the clear bubble umbrella in **profile** — lowered/closed, red rim, droplets on the dome. Clean, isolated, plain blank background.
-**STILL 3 · ENVIRONMENT:** a dim sheltered arcade — columns, warm hanging lamps, rain curtaining beyond the arches, drips falling; profile vantage with rain beyond.
+### FRAME 2 — SHELTERED ARCADE (trick shot · wet-pavement mirror)
+**Frame angle:** low at the wet floor (the polished stone mirroring her full reflection), dim-warm arcade with cool rain beyond.
+**ENVIRONMENT still (the only per-frame ingredient):** a dim sheltered arcade — columns, warm hanging lamps, rain curtaining beyond the arches, drips falling, the polished wet floor mirroring the lamps and arches; low floor-level vantage with the mirror surface. *(Animate `@subject` strolling with `@object`, perfectly reflected in the wet floor.)*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* COWBOY profile, **one continuous parallel dolly at her pace**, rain curtaining beyond the arches. [00:00–00:02] she lowers and gives the clear umbrella a spin and a shake under shelter, warm lamps glowing. [00:02–00:04] she strolls the arcade glancing out at the rain through the arches, a drip lands and she laughs softly, tipping her head. [00:04–00:06] she walks on toward a brightening fountain court, umbrella swinging. Real-time, believable umbrella handling + drips; 9:16.
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact identity — a soft warm laugh.
+- *Animation:* low **wet-pavement mirror**, **one continuous parallel dolly at her pace, her reflection gliding in the wet floor — the mirror trick.** [00:00–00:02] she lowers and gives the clear umbrella a spin and a shake under shelter, her full reflection mirrored in the polished wet floor below, warm lamps glowing. [00:02–00:04] she strolls the arcade glancing out at the rain through the arches; a drip lands and she laughs softly, tipping her head, the reflection mirroring every move. [00:04–00:06] she walks on toward a brightening fountain court, umbrella swinging. Real-time, believable umbrella handling + true floor reflection; 9:16.
 - *AUDIO (in-frame):* ambient/object — rain curtaining beyond the arches, drips plinking on stone, the umbrella's spin-and-shake flap, a warm-lamp hum; voice — a soft warm laugh from Aira as a drip lands.
-**→ Cut (match-on-action) to Frame 3 — she steps into the fountain court as the rain eases.**
+**→ Cut (match-on-action) to Frame 3 — she steps into the fountain court as the rain eases (her hero beat).**
 
 ---
-### FRAME 3 — FOUNTAIN COURT
-**Frame angle:** low ¾ (~40° front-low), brightening drizzle.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **low ¾ front (~40°)**. · Outfit: marigold raincoat over polka dress. · Headwear: none. · Accessories: none. · Eye colour: amber-hazel. · Makeup: dewy, bold red lip. · Hair: sleek wet-look low ponytail. · Footwear: cherry-red wellies. · Nails: cherry-red. · static & neutral, plain blank background.
-**STILL 2 · OBJECT (plain bg):** the clear bubble umbrella at **low ¾**, opening out wide — transparent dome catching brightening light, red rim. Clean, isolated, plain blank background.
-**STILL 3 · ENVIRONMENT:** a fountain court, rain easing to a drizzle — a fountain mixing with the rain, the sky brightening, wet glossy ground; low ¾ vantage.
+### FRAME 3 — FOUNTAIN COURT (HERO frame)
+**Frame angle:** low ¾ (~40° front-low) drawing closer, brightening drizzle — her hero beat.
+**ENVIRONMENT still (the only per-frame ingredient):** a fountain court, rain easing to a drizzle — a fountain mixing with the rain, the sky brightening, wet glossy ground; low ¾ vantage (closer). *(Animate `@subject` opening `@object` wide and beginning to spin.)*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* MEDIUM low ¾, **one continuous slow orbit beginning around her.** [00:00–00:02] she steps into the fountain court as the rain eases, opening the umbrella out wide and tipping her face up to the brightening sky. [00:02–00:04] she stamps a shallow puddle and begins to turn, the first splash-crowns leaping up around her wellies, an open laugh. [00:04–00:06] she spins once, umbrella sweeping, splashes rising as the sky brightens. Real-time, believable splashes + spin; 9:16.
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact identity — an open, radiant, face-up laugh, her hero moment.
+- *Animation:* MEDIUM low ¾ (closer), **one continuous slow orbit beginning around her.** [00:00–00:02] she steps into the fountain court as the rain eases, opening the umbrella out wide and tipping her face up to the brightening sky — her hero moment. [00:02–00:04] she stamps a shallow puddle and begins to turn, the first splash-crowns leaping up around her wellies, an open laugh. [00:04–00:06] she spins once, umbrella sweeping, splashes rising as the sky brightens. Real-time, believable splashes + spin; 9:16. (Hero framing — closer, the court behind her.)
 - *AUDIO (in-frame):* ambient/object — easing drizzle, the fountain mixing in, the first puddle stomps and splash-crowns, the umbrella's whoosh as it opens; voice — Aira's rising open laugh and a bright "wheee!" as she spins.
-**→ Cut (match-on-action) to Frame 4 — the sun breaks through and she stomps into the light.**
+**→ Cut (match-on-action) to Frame 4 — the sun breaks through and she stomps into the light (the rainbow-prism element).**
 
 ---
-### FRAME 4 — SUN-BREAK SQUARE (signature · loop)
-**Frame angle:** low front (head-on, slight up-tilt), warm sun-break with rainbow-prism.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **low front (head-on)**. · Outfit: marigold raincoat over polka dress. · Headwear: none. · Accessories: none. · Eye colour: amber-hazel. · Makeup: dewy, bold red lip. · Hair: sleek wet-look low ponytail. · Footwear: cherry-red wellies. · Nails: cherry-red. · static & neutral, plain blank background.
-**STILL 2 · OBJECT (plain bg):** the clear bubble umbrella at **low front**, flung open overhead — transparent dome blazing with sun, red rim, prism flecks. Clean, isolated, plain blank background.
-**STILL 3 · ENVIRONMENT:** an open square as the sun breaks through parting clouds — wet stone blazing with reflected light, a fading rainbow, the rain stopping; low-front vantage.
+### FRAME 4 — SUN-BREAK SQUARE (magical element · rainbow-prism, used once · loop)
+**Frame angle:** low front (head-on, slight up-tilt) easing to a pull-back, warm sun-break.
+**ENVIRONMENT still (the only per-frame ingredient):** an open square as the sun breaks through parting clouds — wet stone blazing with reflected light, a fading rainbow, the rain stopping; low-front vantage opening wide. *The concept's single element lands here.* *(Animate `@subject` flinging `@object` open overhead and stomping into the light.)*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* HERO MEDIUM low front, **one continuous slow push-in easing into a pull-back.** [00:00–00:02] the sun breaks through the parting clouds and she flings the clear umbrella open overhead, tipping her face up into the light. [00:02–00:04] the signature peaks — she stomps a big puddle and spins, a full crown of water leaping up and catching clean rainbow-prism light flaring through the spray, radiant laughter. [00:04–00:06] the water and light settle, she lowers a glowing warm smile to lens as the camera eases back to reveal the sunlit square and a fading rainbow — settling toward the calm to loop. Real-time, real splash-crowns + true light refraction; 9:16.
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact identity — radiant exhilarated laughter melting to a glowing warm smile.
+- *Animation:* MEDIUM low front, **one continuous slow push-in easing into a pull-back.** [00:00–00:02] the sun breaks through the parting clouds and she flings the clear umbrella open overhead, tipping her face up into the light. [00:02–00:04] the **element** peaks — she stomps a big puddle and spins, a full crown of water leaping up and catching clean rainbow-prism light flaring through the spray, radiant laughter. [00:04–00:06] the water and light settle, she lowers a glowing warm smile to lens as the camera eases back to reveal the sunlit square and a fading rainbow around her — settling toward the calm to loop. Real-time, real splash-crowns + true light refraction; 9:16. (World opens — the square around her.)
 - *AUDIO (in-frame):* ambient/object — the rain stopping, a big puddle stomp and full crown-splash, water pattering back down; voice — Aira's radiant exhilarated laughter and a joyful "yay!" / "woohoo!".
 **→ Loops back to Frame 1 (the rainy wet plaza).**
 
-**Stills to generate:** 3 per frame × 4 frames = 12. Score = 24s MASTER AUDIO under the diegetic.
+**Stills to generate:** **`@subject` (1) + `@object` (1) + 4 ENVIRONMENT stills = 6 total** — subject & object rendered once and reused; only environment + video prompt change per frame. ONE city quarter danced through (wet plaza → arcade → fountain court → sun-break square); rainbow-prism element in Frame 4 only; trick shots in Frames 1 (rain-on-glass reflection) & 2 (wet-pavement mirror); hero beat in Frame 3. Score = 24s MASTER AUDIO under the diegetic.
 
 
 ═══════════════════════════════════════════════════════════════════════════════
