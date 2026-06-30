@@ -559,10 +559,10 @@ line; optional wordless warm vocal on the sunset gate only.
 ═══════════════════════════════════════════════════════════════════════════════
 
 # SC-30 · JUNGLE PROCESSION (Elephant) · 4 shots × 6s
-**Logline:** A lush festival ride — along a jungle path → through temple ruins → across a river crossing → into a
-village festival. Signature: marigold petals drifting + canopy light-shafts + jasmine scent-motes. Joyful, lush,
-celebratory.
-**Arc:** JUNGLE PATH → TEMPLE RUINS → RIVER CROSSING → VILLAGE FESTIVAL (signature).
+**Logline:** A lush festival ride through one jungle realm — along a green jungle path, through golden temple ruins,
+across a sparkling river, into a glowing village festival. One realm, travelled through; lush green to warm festival
+evening. Joyful, lush, celebratory.
+**Arc (one place, travelled through):** JUNGLE PATH (trick) → TEMPLE RUINS (trick) → RIVER CROSSING (hero) → VILLAGE FESTIVAL (element · loop).
 
 ## MASTER AUDIO (outside the frames — background music)
 A 24-second custom cinematic score (4 clips × 6s) in self-resolving ~6-second phrases, trimmable at any phrase
@@ -571,62 +571,56 @@ joyful, lush, celebratory. Opens (no fade-in) on a warm sitar-and-flute figure. 
 ancient temple lull, a splashing river lift, then a jubilant festival resolve for an invisible loop. Laid UNDER the
 diegetic — no spoken line; optional wordless warm vocal on the festival only.
 
-## GLOBAL STYLE LOCKS
-- **Outfit:** a fuchsia-and-teal embroidered set — a fitted embroidered top and a flowing skirt with mirror-work.
-- **Headwear/accessory:** a fresh jasmine flower garland looped at the neck and wrist. **Accessories:** stacked gold bangles, jhumka earrings, a fine nose-pin. **Eye colour:** warm amber-hazel. **Makeup:** festive glow — luminous skin, defined kohl eyes, a bright berry lip, a tiny bindi. **Hair:** a long rope-braid woven through with jasmine. **Footwear:** embellished gold flats. **Nails:** deep berry.
-- **Hero object:** a gentle, tastefully-decorated elephant — a painted forehead pattern, a woven seat-blanket and tassels (kind, calm, not overloaded).
-- **Signature (grounded):** marigold petals drift and scatter, canopy light-shafts pour through the trees, and jasmine scent-motes hang in the warm air. Real petal + light physics.
-- **Journey + light:** lush jungle to festival — green dappled jungle path → golden ancient temple ruins → bright sparkling river → glowing colourful festival. *Footing: she rides high on the elephant's seat — graceful seated sway, real elephant gait.*
+## INGREDIENTS + LOCKS (generate `@subject` & `@object` ONCE — reuse them in every frame)
+- **`@subject` — render ONCE, reuse every frame** (neutral, full body, plain blank bg): `Aira [identity placeholder]` styled as — **Outfit:** fuchsia-and-teal embroidered set (fitted embroidered top + flowing mirror-work skirt) · **Headwear/accessory:** fresh jasmine flower garland at neck and wrist · **Accessories:** stacked gold bangles, jhumka earrings, a fine nose-pin · **Eye colour:** warm amber-hazel · **Makeup:** festive glow, kohl eyes, bright berry lip, a tiny bindi · **Hair:** long rope-braid woven with jasmine · **Footwear:** embellished gold flats · **Nails:** deep berry.
+- **`@object` — render ONCE, reuse every frame** (plain blank bg): a gentle, tastefully-decorated elephant — a painted forehead pattern, a woven seat-blanket and tassels (kind, calm, not overloaded).
+- **THE PLACE (ONE jungle realm, travelled THROUGH):** a single lush realm — a green jungle path, golden root-wrapped temple ruins, a wide sparkling river crossing, and a glowing colourful village festival; lush green deepening to warm festival evening. The elephant **carries her through it** across the four frames, so each ENVIRONMENT still is the next part of the same realm at its own angle. (Marigold petals + jasmine scent-motes + canopy light-shafts are the realm's own natural detail.)
+- **MAGICAL ELEMENT (used ONCE — Frame 4 only):** **rising sky-lanterns** drift up over the festival in the warm evening (real flame-lantern + air physics). No other frame carries an element.
+- **TRICK SHOTS (×2 — Frames 1 & 2, never the element's frame):** Frame 1 = **under-canopy low-ground** (camera low, looking up through the towering trees and light-shafts as the elephant treads past above); Frame 2 = **temple-arch frame-within-frame** (she framed through a root-wrapped carved arch).
+- **HERO FRAME (Frame 3):** she reads clearly as the hero at the river crossing (closer, laughing at the elephant's trunk-spray, radiant). Every other frame keeps her small with the realm dominant — room on the sides, top and bottom.
+- **Footing:** she rides high on the elephant's seat — graceful seated sway, real elephant gait.
 
 ---
-### FRAME 1 — JUNGLE PATH
-**Frame angle:** high aerial ¾ (~50° down, world-dominant), green dappled canopy light.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **high aerial ¾**. · Outfit: fuchsia-teal embroidered top + mirror-work skirt. · Headwear/accessory: jasmine garland. · Accessories: gold bangles, jhumkas, nose-pin. · Eye colour: amber-hazel. · Makeup: festive glow, berry lip, bindi. · Hair: jasmine rope-braid. · Footwear: gold flats. · Nails: deep berry. · static & neutral, plain blank background.
-**STILL 2 · OBJECT (plain bg):** the gently-decorated elephant at **high aerial ¾** — painted forehead, woven seat-blanket, tassels. Clean, isolated, plain blank background.
-**STILL 3 · ENVIRONMENT:** a lush green jungle path — towering trees, hanging vines and ferns, canopy light-shafts pouring down, a mossy track; high aerial ¾ vantage (world dominant).
+### FRAME 1 — JUNGLE PATH (trick shot · under-canopy low-ground)
+**Frame angle:** low ground-level looking **up** through the canopy, green dappled light — world-rich, she/elephant high above.
+**ENVIRONMENT still (the only per-frame ingredient):** a lush green jungle path — towering trees, hanging vines and ferns, canopy light-shafts pouring down, a mossy track; low looking-up vantage (world-dominant, the canopy filling the frame). *(Animate `@subject` riding high on `@object` passing above.)*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* WIDE high aerial establishing, **one continuous slow track following them along the jungle path.** [00:00–00:02] she rides high on the elephant along the lush green path, canopy light-shafts pouring down, tiny under the towering trees. [00:02–00:04] the signature stirs — marigold petals drift and jasmine scent-motes hang in a light-shaft; she sways gently with the gait, a soft radiant smile. [00:04–00:06] they walk on toward golden temple ruins ahead. Real-time, believable elephant gait + real petals/light; 9:16. (Environment-dominant wide.)
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact face/identity — a soft, serene, awed calm (read as she sways high above).
+- *Animation:* WIDE low-ground, **one continuous track looking up — the under-canopy trick.** [00:00–00:02] from the mossy floor the camera looks up through the towering canopy and pouring light-shafts as the elephant treads past above, she riding high. [00:02–00:04] light-shafts and a few drifting petals rake the lens; she sways gently with the gait, a soft radiant smile far above. [00:04–00:06] they walk on toward golden temple ruins. Real-time, believable elephant gait + real canopy light; 9:16. (Environment-dominant — the jungle fills the frame.)
 - *AUDIO (in-frame):* ambient/object — the soft heavy tread of the elephant, jungle birds and insects, leaves brushing, a soft bell; voice — Aira's serene "ahh" and a soft happy breath.
-**→ Cut (match-on-action) to Frame 2 — they enter the temple ruins.**
+**→ Cut (match-on-action) to Frame 2 — they enter the temple ruins (the arch-frame trick).**
 
 ---
-### FRAME 2 — TEMPLE RUINS
-**Frame angle:** low ¾ front (~30° left, ground-level track-with), golden ancient light.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **low ¾ front (~30° left)**. · Outfit: fuchsia-teal top + mirror-work skirt. · Headwear/accessory: jasmine garland. · Accessories: bangles, jhumkas, nose-pin. · Eye colour: amber-hazel. · Makeup: festive glow, berry lip, bindi. · Hair: jasmine rope-braid. · Footwear: gold flats. · Nails: deep berry. · static & neutral, plain blank background.
-**STILL 2 · OBJECT (plain bg):** the elephant at **low ¾ front** — head and decorated forehead foremost, seat-blanket, tassels. Clean, isolated, plain blank background.
-**STILL 3 · ENVIRONMENT:** golden ancient temple ruins in the jungle — carved stone arches wrapped in roots, moss and creepers, warm light slanting through, lotus-carved pillars; low ground-level ¾-front vantage.
+### FRAME 2 — TEMPLE RUINS (trick shot · arch frame-within-frame)
+**Frame angle:** ¾, **framed through a root-wrapped carved arch**, golden ancient light.
+**ENVIRONMENT still (the only per-frame ingredient):** golden ancient temple ruins in the jungle — carved stone arches wrapped in roots, moss and creepers, lotus-carved pillars, warm light slanting through; ¾ vantage looking through an arch. *(Animate `@subject` + `@object` framed by the carved arch as they pass.)*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* MEDIUM, **one continuous low ground-level track with them through the ruins.** [00:00–00:02] the elephant carries her between root-wrapped stone arches, warm light slanting across the carvings. [00:02–00:04] she gazes up at the ancient carvings with quiet wonder, trailing her bangled hand near a mossy pillar, petals drifting past in the gold light. [00:04–00:06] they head on toward a sparkling river crossing. Real-time, believable elephant walk + real light; 9:16.
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact identity — animate only gaze + soft expression: a quiet, wondering awe up at the carvings.
+- *Animation:* MEDIUM, **one continuous track — the arch frame-within-frame trick.** [00:00–00:02] the camera holds on a root-wrapped carved arch; the elephant carries her **into and through the arch's frame**, warm light slanting across the stone. [00:02–00:04] she gazes up at the ancient carvings with quiet wonder, trailing a bangled hand near a mossy pillar, petals drifting in the gold light. [00:04–00:06] they head on toward a sparkling river. Real-time, believable elephant walk + real frame-within-frame; 9:16.
 - *AUDIO (in-frame):* ambient/object — the elephant's tread on stone, dripping water, birdsong echoing in the ruins, a soft bell; voice — Aira's awed soft "wow…" and a hushed breath.
-**→ Cut (match-on-action) to Frame 3 — they wade into the river crossing.**
+**→ Cut (match-on-action) to Frame 3 — they wade into the sparkling river (her hero beat).**
 
 ---
-### FRAME 3 — RIVER CROSSING
-**Frame angle:** full profile (true side, parallel track), bright sparkling river light.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, in **full profile**. · Outfit: fuchsia-teal top + mirror-work skirt. · Headwear/accessory: jasmine garland. · Accessories: bangles, jhumkas, nose-pin. · Eye colour: amber-hazel. · Makeup: festive glow, berry lip, bindi. · Hair: jasmine rope-braid. · Footwear: gold flats. · Nails: deep berry. · static & neutral, plain blank background.
-**STILL 2 · OBJECT (plain bg):** the elephant in **full profile** — full side, seat-blanket, tassels, painted forehead. Clean, isolated, plain blank background.
-**STILL 3 · ENVIRONMENT:** a wide sparkling jungle river crossing — clear sunlit water, the elephant wading, splashes flashing, green banks and a far village, bright sky; profile vantage along the crossing.
+### FRAME 3 — RIVER CROSSING (HERO frame)
+**Frame angle:** ¾ (closer hero), bright sparkling river light — the river behind her.
+**ENVIRONMENT still (the only per-frame ingredient):** a wide sparkling jungle river crossing — clear sunlit water, splashes flashing, green banks and a far village, bright sky; ¾ vantage along the crossing. *(Animate `@subject` riding high on `@object` wading.)*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* MEDIUM profile, **one continuous parallel track at their pace through the river.** [00:00–00:02] the elephant wades into the sparkling river, bright water swirling around its legs, she riding high above. [00:02–00:04] the elephant playfully lifts its trunk and sprays a fine arc of water that catches the sun; she laughs and lifts a hand to the cool mist with a delighted grin. [00:04–00:06] they climb the far bank toward a colourful village festival. Real-time, believable wading + real water-spray; 9:16. (River + elephant share the frame.)
-- *AUDIO (in-frame):* ambient/object — big water-sloshes and the trunk-spray, the river rushing, the elephant's trumpet, birds; voice — Aira's delighted "ahh!" and a bright laugh at the spray.
-**→ Cut (match-on-action) to Frame 4 — they arrive at the village festival.**
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact identity — animate only gaze + soft expression: a **delighted, radiant, laughing grin** — her hero beat.
+- *Animation:* MEDIUM ¾ (closer), **one continuous track-with through the river.** [00:00–00:02] the elephant wades into the sparkling river, bright water swirling around its legs, she riding high. [00:02–00:04] the elephant playfully lifts its trunk and sprays a fine sunlit arc; she laughs and lifts a hand to the cool mist with a radiant delighted grin — her hero moment. [00:04–00:06] they climb the far bank toward a colourful festival. Real-time, believable wading + real water-spray; 9:16. (Hero framing — closer, the river stays behind her.)
+- *AUDIO (in-frame):* ambient/object — big water-sloshes and the trunk-spray, the river rushing, the elephant's trumpet, birds; voice — Aira's delighted "ahh!" and a bright laugh.
+**→ Cut (match-on-action) to Frame 4 — they arrive at the village festival (the sky-lanterns element).**
 
 ---
-### FRAME 4 — VILLAGE FESTIVAL (signature · loop)
-**Frame angle:** low-hero ¾ opening to front (~30°, crane pull-back), glowing colourful festival light.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **low-hero ¾ (~30°)**. · Outfit: fuchsia-teal top + mirror-work skirt. · Headwear/accessory: jasmine garland. · Accessories: bangles, jhumkas, nose-pin. · Eye colour: amber-hazel. · Makeup: festive glow, berry lip, bindi. · Hair: jasmine rope-braid. · Footwear: gold flats. · Nails: deep berry. · static & neutral, plain blank background.
-**STILL 2 · OBJECT (plain bg):** the elephant at **low-hero ¾** — standing tall and festive, seat-blanket, tassels, painted forehead. Clean, isolated, plain blank background.
-**STILL 3 · ENVIRONMENT:** a glowing colourful village festival — strings of marigolds and lanterns, rangoli on the ground, dancers and drummers, bright fabrics, warm evening light; low-hero ¾ vantage with crane reveal.
+### FRAME 4 — VILLAGE FESTIVAL (magical element · rising sky-lanterns · loop)
+**Frame angle:** wide low-hero opening to a crane pull-back, glowing colourful festival light — she smaller, world dominant.
+**ENVIRONMENT still (the only per-frame ingredient):** a glowing colourful village festival — strings of marigolds and lanterns, rangoli on the ground, dancers and drummers, bright fabrics, warm evening light; wide crane vantage. *The concept's single element lands here.*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* WIDE low-hero, **one continuous slow crane pull-back to reveal the festival.** [00:00–00:02] the elephant carries her into the glowing festival, marigold strings and lanterns everywhere, drummers welcoming them. [00:02–00:04] the signature peaks — marigold petals shower down and jasmine motes hang in the warm light; she presses her palms together and beams with radiant joy, petals catching in her braid. [00:04–00:06] the camera cranes back to reveal the whole jubilant festival and elephant around her — easing toward the jungle-path opening for a loop. Real-time, believable elephant halt + real petal-shower; 9:16.
-- *AUDIO (in-frame):* ambient/object — drums and bells, festival crowd cheering, the elephant's soft trumpet, petals falling; voice — Aira's joyful laugh and a warm "namaste!".
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact identity — animate only gaze + soft expression: a radiant, joyful, palms-together warmth.
+- *Animation:* WIDE low-hero, **one continuous slow crane pull-back to reveal the festival.** [00:00–00:02] the elephant carries her into the glowing festival, drummers welcoming them. [00:02–00:04] the **element** — **rising sky-lanterns** drift up over the festival in the warm evening; she presses her palms together and beams with radiant joy. [00:04–00:06] the camera cranes back to reveal the whole jubilant festival and elephant around her — easing toward the jungle-path opening for a loop. Real-time, believable elephant halt + real rising lanterns; 9:16. (Environment-dominant — she smaller, festival around her.)
+- *AUDIO (in-frame):* ambient/object — drums and bells, festival crowd cheering, the elephant's soft trumpet, lanterns crackling aloft; voice — Aira's joyful laugh and a warm "namaste!".
 **→ Loops back to Frame 1 (the jungle path).**
 
-**Stills to generate:** 3 per frame × 4 frames = 12. Score = 24s MASTER AUDIO under the diegetic.
+**Stills to generate:** **`@subject` (1) + `@object` (1) + 4 ENVIRONMENT stills = 6 total** — subject & object rendered once and reused; only environment + video prompt change per frame. ONE jungle realm travelled through (path → ruins → river → festival); sky-lantern element in Frame 4 only; trick shots in Frames 1 (under-canopy) & 2 (temple-arch frame); hero beat in Frame 3. Score = 24s MASTER AUDIO under the diegetic.
 
 
 ═══════════════════════════════════════════════════════════════════════════════
