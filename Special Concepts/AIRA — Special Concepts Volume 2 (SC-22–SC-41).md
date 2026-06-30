@@ -427,10 +427,10 @@ line; optional wordless soft vocal on the pavilion only.
 ═══════════════════════════════════════════════════════════════════════════════
 
 # SC-28 · HILLSIDE TRAM (Vintage Tram) · 4 shots × 6s
-**Logline:** A sunny ride on a vintage tram — up a steep pastel street → into a bustling market square → to a
-hilltop viewpoint → down to a seafront terminus. Signature: tram-spark glints + fluttering bunting and laundry +
-sun-glints. Cheerful, retro, breezy. Several exterior "see the tram in the world" shots.
-**Arc:** EXTERIOR · STEEP PASTEL STREET → MARKET SQUARE → HILLTOP VIEWPOINT → SEAFRONT TERMINUS (signature).
+**Logline:** A sunny ride on a vintage tram through one pastel hill-town — up a steep street, into a bustling market
+square, over a hilltop viewpoint, down to a seafront terminus. One town, travelled through. Cheerful, retro, breezy
+— with exterior "see the tram in the world" shots.
+**Arc (one place, travelled through):** STEEP PASTEL STREET (element) → MARKET SQUARE (trick) → HILLTOP VIEWPOINT (trick) → SEAFRONT TERMINUS (hero · loop).
 
 ## MASTER AUDIO (outside the frames — background music)
 A 24-second custom cinematic score (4 clips × 6s) in self-resolving ~6-second phrases, trimmable at any phrase
@@ -439,62 +439,56 @@ cheerful, retro, breezy. Opens (no fade-in) on a bright guitar-and-trumpet figur
 a bustling market lull, a soaring viewpoint lift, then a breezy seafront resolve for an invisible loop. Laid UNDER
 the diegetic — no spoken line; optional wordless bright vocal on the seafront only.
 
-## GLOBAL STYLE LOCKS
-- **Outfit:** a red polka-dot 60s mod shift dress with a crisp white Peter-Pan collar, a cropped cream cardigan.
-- **Accessories:** white cat-eye sunglasses, a printed silk neck-scarf, a small structured handbag. **Eye colour:** warm amber-hazel. **Makeup:** bright retro — luminous skin, a soft winged liner, a coral-red lip. **Hair:** a flicked-out glossy 60s bob. **Footwear:** white low block-heel Mary-Janes. **Nails:** glossy coral-red.
-- **Hero object:** a vintage yellow-and-cream tram — rounded body, brass fittings, a trolley-pole, wooden seats, an open rear platform.
-- **Signature (grounded):** little blue-white spark-glints flicker at the trolley-pole, bunting and laundry-lines flutter overhead as it passes, and sun-glints flash off the brass. Real spark + cloth + light physics.
-- **Journey + light:** bright sunny day all the way — steep pastel street → bustling market square → open hilltop viewpoint → breezy seafront. *(Exterior shots = camera OFF the tram, she small/through a window; interior = real sway.)*
+## INGREDIENTS + LOCKS (generate `@subject` & `@object` ONCE — reuse them in every frame)
+- **`@subject` — render ONCE, reuse every frame** (neutral, full body, plain blank bg): `Aira [identity placeholder]` styled as — **Outfit:** red polka-dot 60s mod shift dress with a crisp white Peter-Pan collar + a cropped cream cardigan · **Accessories:** white cat-eye sunglasses, a printed silk neck-scarf, a small structured handbag · **Eye colour:** warm amber-hazel · **Makeup:** bright retro, soft winged liner, coral-red lip · **Hair:** flicked-out glossy 60s bob · **Footwear:** white low block-heel Mary-Janes · **Nails:** glossy coral-red.
+- **`@object` — render ONCE, reuse every frame** (plain blank bg): a vintage yellow-and-cream tram — rounded body, brass fittings, a trolley-pole, wooden seats, an open rear platform (little spark-glints at the trolley-pole are its own natural detail).
+- **THE PLACE (ONE hill-town, travelled THROUGH):** a single pastel seaside hill-town — a steep candy-coloured street, a bustling market square, a hilltop viewpoint over a glittering bay, and a breezy palm-lined seafront terminus; bright sunny day throughout. The tram **travels through it** across the four frames, so each ENVIRONMENT still is the next part of the same town at its own angle. *(Exterior frames = camera OFF the tram, she small/through a window; platform = real sway.)*
+- **MAGICAL ELEMENT (used ONCE — Frame 1 only):** **billowing laundry and fluttering bunting** strung across the steep street snap and ripple in the breeze as the tram climbs (real cloth + air physics). No other frame carries an element.
+- **TRICK SHOTS (×2 — Frames 2 & 3, never the element's frame):** Frame 2 = **through-the-tram-window frame-within-frame** (she framed by the window/doorway as the market slides past); Frame 3 = **high crane viewpoint reveal** of the town tumbling to the bay.
+- **HERO FRAME (Frame 4):** she reads clearly as the hero stepping onto the seafront (closer, lowering her sunglasses, radiant). Every other frame keeps her small with the town dominant — room on the sides, top and bottom.
+- **Footing:** she rides the tram (platform/window) with real sway; a believable step-down on arrival.
 
 ---
-### FRAME 1 — EXTERIOR · STEEP PASTEL STREET
-**Frame angle:** WIDE low street-level (world-dominant), bright sunny morning, long shadows.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **¾ near an open tram window** (she reads small in the exterior frame). · Outfit: red polka-dot mod dress + white collar + cropped cardigan. · Accessories: white cat-eye sunglasses, silk neck-scarf, handbag. · Eye colour: amber-hazel. · Makeup: retro, coral-red lip. · Hair: flicked-out 60s bob. · Footwear: white Mary-Janes. · Nails: coral-red. · static & neutral, plain blank background.
-**STILL 2 · OBJECT (plain bg):** the vintage yellow-and-cream tram at **side ¾** — rounded body, brass, trolley-pole, open rear platform. Clean, isolated, plain blank background.
-**STILL 3 · ENVIRONMENT:** a steep pastel hillside street — candy-coloured townhouses, fluttering bunting and laundry-lines strung across, tram tracks climbing, sun and long shadows; WIDE low street-level vantage (the tram climbs through it, world dominant).
+### FRAME 1 — STEEP PASTEL STREET (magical element · billowing laundry & bunting, used once · exterior)
+**Frame angle:** WIDE low street-level (world-dominant), bright sunny morning, long shadows — the tram small in the frame.
+**ENVIRONMENT still (the only per-frame ingredient):** a steep pastel hillside street — candy-coloured townhouses, fluttering bunting and laundry-lines strung across, tram tracks climbing, sun and long shadows; WIDE low street-level vantage (world-dominant, big negative space). *(Animate `@object` climbing through, `@subject` a small bright figure at a window.) The concept's single element lands here.*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move (she's a small bright figure at a window).
-- *Animation:* WIDE, camera low on the street, **one continuous slow track following the tram as it climbs.** [00:00–00:02] the yellow tram climbs the steep pastel street between candy-coloured houses, bunting fluttering overhead, sun flashing off the brass. [00:02–00:04] the signature reads — little spark-glints flicker at the trolley-pole and the bunting and laundry flutter as it passes; at an open window her small bright figure leans out, scarf rippling, waving. [00:04–00:06] the tram climbs on toward a busy market square. Real-time, believable tram climb + real spark/cloth; 9:16. (Environment-dominant wide.)
-- *AUDIO (in-frame):* ambient/object — the rumble and clang of the tram, the trolley-pole spark-buzz, a bell-ding, bunting snapping in the breeze; voice — (slight distance) Aira's bright "woohoo!" carried from the window.
-**→ Cut (match-on-action) to Frame 2 — the tram pulls into the market square.**
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact face/identity — she's a small bright figure at a window; a delighted wave + grin reads.
+- *Animation:* WIDE, camera low on the street, **one continuous slow track following the tram as it climbs.** [00:00–00:02] the yellow tram climbs the steep pastel street between candy houses, sun flashing off the brass. [00:02–00:04] the **element** — the billowing laundry and bunting strung overhead snap and ripple in the breeze as the tram passes beneath; her small figure leans from a window, scarf rippling, waving. [00:04–00:06] the tram climbs on toward a market square. Real-time, believable tram climb + real cloth-flutter; 9:16. (Environment-dominant — tram small, negative space all around.)
+- *AUDIO (in-frame):* ambient/object — the rumble and clang of the tram, a bell-ding, bunting and laundry snapping in the breeze; voice — (slight distance) Aira's bright "woohoo!" carried from the window.
+**→ Cut (match-on-action) to Frame 2 — the tram pulls into the market square (the through-window trick).**
 
 ---
-### FRAME 2 — MARKET SQUARE
-**Frame angle:** ¾ front from the open rear platform (~35°, ground-level), bustling sunny light.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **¾ front (~35°)** on the platform. · Outfit: red polka-dot mod dress + collar + cardigan. · Accessories: cat-eye sunglasses (up on hair), neck-scarf, handbag. · Eye colour: amber-hazel. · Makeup: retro, coral-red lip. · Hair: flicked-out bob. · Footwear: white Mary-Janes. · Nails: coral-red. · static & neutral, plain blank background.
-**STILL 2 · OBJECT (plain bg):** the tram's open rear platform detail — brass grab-pole, wooden step, route-board, at **¾**. Clean, isolated, plain blank background.
-**STILL 3 · ENVIRONMENT:** a bustling sunlit market square — striped stall awnings, flowers and fruit, a fountain, pastel facades, shoppers milling; ¾-front ground-level vantage from the platform.
+### FRAME 2 — MARKET SQUARE (trick shot · through-the-tram-window frame)
+**Frame angle:** ¾ from the square, **framed through the tram's window/doorway** (frame-within-frame), bustling sunny light.
+**ENVIRONMENT still (the only per-frame ingredient):** a bustling sunlit market square — striped stall awnings, flowers and fruit, a fountain, pastel facades, shoppers milling; ¾ vantage looking at the tram, the market sliding past behind. *(Animate `@subject` framed in the window/doorway of `@object`.)*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* MEDIUM ¾ front, **one continuous slow track-with as she rides the rear platform through the square.** [00:00–00:02] she stands on the open rear platform holding the brass pole as the tram trundles into the bustling market square, awnings and flowers sliding past. [00:02–00:04] she pushes the sunglasses up and waves to a flower-seller with a bright grin, the square alive around her. [00:04–00:06] the tram pulls away and climbs toward a hilltop viewpoint. Real-time, believable platform-ride balance; 9:16.
-- *AUDIO (in-frame):* ambient/object — the tram rumble and bell, market chatter and calls, the fountain, the platform creak; voice — Aira's cheery "morning!" and a warm laugh.
-**→ Cut (match-on-action) to Frame 3 — the tram crests at a hilltop viewpoint.**
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact face/identity — animate only gaze + soft expression: a bright cheery grin as she waves.
+- *Animation:* MEDIUM, **one continuous track — the through-window frame trick.** [00:00–00:02] from the square, she sits **framed within the tram's open window/doorway** as it trundles in, awnings and flowers sliding past behind her in the frame. [00:02–00:04] she pushes the sunglasses up and waves to a flower-seller through the window-frame with a bright grin, the square alive around the tram. [00:04–00:06] the tram pulls away and climbs toward a hilltop viewpoint. Real-time, believable tram motion + real frame-within-frame; 9:16.
+- *AUDIO (in-frame):* ambient/object — the tram rumble and bell, market chatter and calls, the fountain; voice — Aira's cheery "morning!" and a warm laugh.
+**→ Cut (match-on-action) to Frame 3 — the tram crests the hilltop viewpoint (the crane reveal).**
 
 ---
-### FRAME 3 — HILLTOP VIEWPOINT
-**Frame angle:** full profile (true side, parallel), bright open hilltop light.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, in **full profile** at a window. · Outfit: red polka-dot mod dress + collar + cardigan. · Accessories: cat-eye sunglasses, neck-scarf, handbag. · Eye colour: amber-hazel. · Makeup: retro, coral-red lip. · Hair: flicked-out bob. · Footwear: white Mary-Janes. · Nails: coral-red. · static & neutral, plain blank background.
-**STILL 2 · OBJECT (plain bg):** the vintage tram in **full profile** — full side, windows, trolley-pole, brass. Clean, isolated, plain blank background.
-**STILL 3 · ENVIRONMENT:** a hilltop tram-stop viewpoint — the pastel town tumbling down to a glittering bay below, the track curving along the crest, big bright sky; profile vantage along the crest.
+### FRAME 3 — HILLTOP VIEWPOINT (trick shot · high crane reveal)
+**Frame angle:** high ¾ crane (world-dominant), bright open hilltop light — the tram small on the crest.
+**ENVIRONMENT still (the only per-frame ingredient):** a hilltop tram-stop viewpoint — the pastel town tumbling down to a glittering bay below, the track curving along the crest, big bright sky; high ¾ crane vantage. *(Animate `@object` cresting, `@subject` a small figure at a window.)*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* MEDIUM profile, **one continuous parallel track at the tram's pace along the crest.** [00:00–00:02] the tram runs along the hilltop crest, the whole pastel town and glittering bay opening below the windows. [00:02–00:04] she leans to the window and gazes out at the view, scarf rippling, eyes widening with a soft delighted "wow", sun-glints flashing off the bay. [00:04–00:06] the tram begins its run down toward the seafront. Real-time, believable tram motion + real view parallax; 9:16. (Town + bay share the frame.)
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact face/identity — a soft awed delight at the view (read at the window).
+- *Animation:* WIDE high ¾, **one continuous crane reveal as the tram crests.** [00:00–00:02] the camera cranes up and over as the tram runs the hilltop crest, the whole pastel town and glittering bay opening below. [00:02–00:04] the reveal widens over the rooftops to the bay, her small figure leaning to a window gazing out, scarf rippling. [00:04–00:06] the tram begins its run down toward the seafront. Real-time, believable tram motion + real view parallax; 9:16. (Environment-dominant — town + bay lead, tram small.)
 - *AUDIO (in-frame):* ambient/object — the tram's steady rumble, wind over the crest, the bell, gulls; voice — Aira's awed soft "wow… look at that".
-**→ Cut (match-on-action) to Frame 4 — the tram descends to the seafront terminus.**
+**→ Cut (match-on-action) to Frame 4 — the tram descends to the seafront terminus (her hero beat).**
 
 ---
-### FRAME 4 — SEAFRONT TERMINUS (signature · loop)
-**Frame angle:** low-hero ¾ opening to front (~30°, crane pull-back), breezy warm seafront light.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **low-hero ¾ (~30°)** stepping off. · Outfit: red polka-dot mod dress + collar + cardigan. · Accessories: cat-eye sunglasses, neck-scarf, handbag. · Eye colour: amber-hazel. · Makeup: retro, coral-red lip. · Hair: flicked-out bob. · Footwear: white Mary-Janes. · Nails: coral-red. · static & neutral, plain blank background.
-**STILL 2 · OBJECT (plain bg):** the vintage tram at rest, **¾ front** — at the terminus loop, trolley-pole, brass glinting. Clean, isolated, plain blank background.
-**STILL 3 · ENVIRONMENT:** a breezy seafront terminus — palm-lined promenade, a turquoise bay, the tram-loop and a little kiosk, bunting, bright sun on the water; low-hero ¾ vantage with crane reveal.
+### FRAME 4 — SEAFRONT TERMINUS (HERO · loop)
+**Frame angle:** low-hero ¾ opening to a crane pull-back, breezy warm seafront light — closer hero, then world reveal.
+**ENVIRONMENT still (the only per-frame ingredient):** a breezy seafront terminus — palm-lined promenade, a turquoise bay, the tram-loop and a little kiosk, bunting, bright sun on the water; low-hero ¾ vantage with crane reveal. *(Animate `@subject` stepping off `@object` at rest.)*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* WIDE low-hero, **one continuous slow crane pull-back to reveal the seafront.** [00:00–00:02] she steps down from the tram onto the breezy seafront promenade, the turquoise bay sparkling beyond, palms swaying. [00:02–00:04] the signature settles — spark-glints flicker at the resting trolley-pole, bunting flutters and sun-glints flash off the brass and bay; she lowers her sunglasses with a radiant smile. [00:04–00:06] the camera cranes back to reveal the whole sunny seafront and tram-loop around her — easing toward the steep-street opening for a loop. Real-time, believable step-down + real bunting/sea; 9:16.
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact identity — animate only gaze + soft expression: a **radiant, breezy smile** as she lowers her sunglasses — her hero beat.
+- *Animation:* WIDE low-hero, **one continuous slow crane pull-back to reveal the seafront.** [00:00–00:02] she steps down from the tram onto the breezy seafront promenade, the turquoise bay sparkling, palms swaying. [00:02–00:04] she lowers her sunglasses with a radiant smile, sun-glints flashing off the brass and bay — her hero moment. [00:04–00:06] the camera cranes back to reveal the whole sunny seafront and tram-loop around her — easing toward the steep-street opening for a loop. Real-time, believable step-down + real bunting/sea; 9:16. (Hero framing — closer, then the world reveals around her.)
 - *AUDIO (in-frame):* ambient/object — the tram settling and a final bell-ding, waves on the promenade, gulls, palms rustling; voice — Aira's breezy happy sigh and a soft "what a ride".
 **→ Loops back to Frame 1 (the steep pastel street).**
 
-**Stills to generate:** 3 per frame × 4 frames = 12 (exterior frames: world+tram lead, she small/through a window). Score = 24s MASTER AUDIO under the diegetic.
+**Stills to generate:** **`@subject` (1) + `@object` (1) + 4 ENVIRONMENT stills = 6 total** — subject & object rendered once and reused; only environment + video prompt change per frame. ONE hill-town travelled through (street → market → viewpoint → seafront); laundry/bunting element in Frame 1 only; trick shots in Frames 2 (through-window frame) & 3 (high crane reveal); hero beat in Frame 4. Score = 24s MASTER AUDIO under the diegetic.
 
 ═══════════════════════════════════════════════════════════════════════════════
 
