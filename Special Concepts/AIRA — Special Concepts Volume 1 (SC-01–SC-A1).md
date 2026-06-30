@@ -462,11 +462,11 @@ driving percussion riding her stride, impacts reserved for the leap.
 
 ═══════════════════════════════════════════════════════════════════════════════
 
-# SC-08 · PETAL PROMENADE (Editorial Walk) · 4 shots × 6s · *(prop-less — 2 stills per frame: Subject + Environment)*
-**Logline:** A serene editorial walk through a blossom world — cherry-blossom avenue → marble colonnade → garden
-stairs → still reflecting pool. The subject moves with poised runway grace as petals build into a storm. Signature:
-a thick cherry-blossom storm + soft mirror-light off the pool. Soft, elegant, dreamlike.
-**Arc:** BLOSSOM AVENUE → MARBLE COLONNADE → GARDEN STAIRS → REFLECTING POOL (signature).
+# SC-08 · PETAL PROMENADE (Editorial Walk) · 4 shots × 6s · *(prop-less — `@subject` once + ENVIRONMENT stills, no `@object`)*
+**Logline:** A serene editorial walk through one blossom world — a cherry-blossom avenue, a marble colonnade,
+garden stairs, the still reflecting pool. One garden, walked through; soft diffused blossom-pink throughout. Soft,
+elegant, dreamlike.
+**Arc (one place, travelled through):** BLOSSOM AVENUE (trick) → MARBLE COLONNADE (trick) → GARDEN STAIRS (hero) → REFLECTING POOL (element).
 
 ## MASTER AUDIO (outside the frames — background music)
 A 24-second custom cinematic score (4 clips × 6s) in self-resolving ~6-second phrases, trimmable at any phrase
@@ -476,58 +476,56 @@ the colonnade, a tender lift on the stair descent, then a luminous emotional pea
 blossom storm), resolving for an invisible loop. Laid UNDER the diegetic — no spoken line; optional wordless
 choir-swell on the peak only. Layered: piano/harp melody, warm sub, airy string shimmer, a single swell for the pool.
 
-## GLOBAL STYLE LOCKS
-- **Outfit:** a blush-rose flowing chiffon gown — soft cape-sleeves, a layered sheer skirt, a satin sash at the waist.
-- **Headwear:** none. **Accessories:** delicate pearl drop earrings + a fine pearl choker. **Eye colour:** warm amber-hazel. **Makeup:** soft rosy editorial — luminous skin, rose-flush cheeks, a soft mauve-rose lip, feathered brows. **Hair:** soft glamorous **half-up waves** — romantic, loose, gently lifting. **Footwear:** nude pointed flats. **Nails:** soft rose-nude almond.
-- **Hero object:** none (pure editorial walk) → each frame uses 2 stills (Subject + Environment); a single blossom branch she grazes.
-- **Signature (grounded):** a thick swirling cherry-blossom storm builds around her, peaking at the reflecting pool where soft mirror-light doubles her; real petal weight + true reflection.
-- **Journey + light:** soft diffused overcast-pink throughout (intentionally gentle, not vivid) — blossom-avenue glow → cool colonnade light → tender garden-stair light → luminous still-pool reflection light.
+## INGREDIENTS + LOCKS (generate `@subject` ONCE — reuse it in every frame; prop-less, no `@object`)
+- **`@subject` — render ONCE, reuse every frame** (neutral, full body, plain blank bg): `Aira [identity placeholder]` styled as — **Outfit:** blush-rose flowing chiffon gown — soft cape-sleeves, a layered sheer skirt, a satin sash at the waist · **Hair:** soft glamorous half-up waves — romantic, loose, gently lifting · **Accessories:** delicate pearl drop earrings + a fine pearl choker · **Eye colour:** warm amber-hazel · **Makeup:** soft rosy editorial — luminous skin, rose-flush cheeks, soft mauve-rose lip, feathered brows · **Footwear:** nude pointed flats · **Nails:** soft rose-nude almond.
+- **No `@object`** — pure editorial walk; the blossom branch she grazes belongs to the environment. Each frame uses only the ENVIRONMENT still.
+- **THE PLACE (ONE blossom garden, walked THROUGH):** a single dreamlike blossom estate — a cherry-blossom avenue, a cool marble colonnade, wide garden stairs, and a still mirror-flat reflecting pool; soft diffused blossom-pink light throughout (intentionally gentle, not vivid). She **walks through it** across the four frames, so each ENVIRONMENT still is the next part of the same garden at its own angle.
+- **MAGICAL ELEMENT (used ONCE — Frame 4; written into that frame's VIDEO PROMPT):** at the reflecting pool a full swirling cherry-blossom storm rises around her as her reflection doubles on the mirror water (real petal weight + true reflection, no cartoon sparkle). No other frame carries an element.
+- **TRICK SHOTS (×2 — Frames 1 & 2, never the element's frame; each written into its frame's VIDEO PROMPT):** Frame 1 = **foliage-parting reveal** (low blossom branches part to reveal her); Frame 2 = **rack-focus blossom pull** (focus pulls from foreground blossom to her between the columns).
+- **HERO FRAME (Frame 3):** she reads clearly as the hero descending the garden stairs (closer, poised, anticipatory). Every other frame keeps her with the garden present — room on the sides, top and bottom.
+- **Footing:** she walks — poised editorial runway grace, real elegant weight-shift + gown drift.
 
 ---
-### FRAME 1 — BLOSSOM AVENUE
-**Frame angle:** low ¾ front (~30° right, low), soft diffused blush light.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **low ¾ front (~30° right)**. · Outfit: blush-rose chiffon cape-sleeve gown + satin sash. · Headwear: none. · Accessories: pearl drop earrings + pearl choker. · Eye colour: amber-hazel. · Makeup: soft rosy, mauve-rose lip. · Hair: soft half-up waves. · Footwear: nude pointed flats. · Nails: rose-nude. · static & neutral, plain blank background, soft diffused light.
-**STILL 2 · ENVIRONMENT:** a long avenue of cherry-blossom trees in full bloom — first petals drifting, soft pink diffused light, a pale path; low ¾-front vantage, deep perspective.
+### FRAME 1 — BLOSSOM AVENUE (trick shot · foliage-parting reveal)
+**Frame angle:** low ¾ front (~30° right, low) through parting blossom branches, soft diffused blush light.
+**ENVIRONMENT still (the only per-frame ingredient):** a long avenue of cherry-blossom trees in full bloom — low blossom branches hanging into the foreground, first petals drifting, soft pink diffused light, a pale path; low ¾-front vantage framed through the branches. *(Animate `@subject` revealed as the branches part before her walk.)*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* WIDE, low, **one continuous slow dolly-in toward her.** [00:00–00:02] she walks the blossom avenue with poised runway grace, the chiffon gown trailing, first petals drifting. [00:02–00:04] she raises her right hand to graze a low blossom branch, a faint serene softness, petals lifting in her wake. [00:04–00:06] she walks on toward the colonnade, the petal-drift thickening gently. Real-time, believable elegant walk + real petal drift; 9:16.
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact face/identity — animate only gaze + soft expression: a serene, composed softness.
+- *Animation:* WIDE low, **one continuous push as low blossom branches part to reveal her — the foliage-parting trick.** [00:00–00:02] the camera drifts toward hanging blossom branches in the foreground; they part to reveal her walking the avenue with poised runway grace, gown trailing. [00:02–00:04] she raises her right hand to graze a low blossom branch as she passes through the parting foliage, petals lifting in her wake. [00:04–00:06] she walks on toward the colonnade, the petal-drift thickening gently. Real-time, believable elegant walk + real petal drift; 9:16.
 - *AUDIO (in-frame):* ambient/object — a soft breeze, petals rustling and drifting, the faint hush of the chiffon gown, distant birdsong; voice — a soft serene breath from Aira.
-**→ Cut (match-on-action) to Frame 2 — her walk carries her into the cool marble colonnade.**
+**→ Cut (match-on-action) to Frame 2 — her walk carries her into the cool marble colonnade (the rack-focus trick).**
 
 ---
-### FRAME 2 — MARBLE COLONNADE
-**Frame angle:** ¾ front-side (~35° left), cool diffused marble light, sun-shafts between columns.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **¾ front-side (~35° left)**. · Outfit: blush chiffon cape-sleeve gown + sash. · Headwear: none. · Accessories: pearl drops + choker. · Eye colour: amber-hazel. · Makeup: soft rosy, mauve-rose lip. · Hair: soft half-up waves. · Footwear: nude flats. · Nails: rose-nude. · static & neutral, plain blank background.
-**STILL 2 · ENVIRONMENT:** a cool marble colonnade — tall pale columns, soft shafts of diffused light, petals drifting through; ¾ front-side vantage down the columns.
+### FRAME 2 — MARBLE COLONNADE (trick shot · rack-focus blossom pull)
+**Frame angle:** ¾ front-side (~35° left) with foreground blossom, cool diffused marble light, sun-shafts between columns.
+**ENVIRONMENT still (the only per-frame ingredient):** a cool marble colonnade — tall pale columns, a spray of blossom hanging into the foreground, soft shafts of diffused light, petals drifting through; ¾ front-side vantage down the columns. *(Animate `@subject` walking between the columns as focus pulls onto her.)*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* COWBOY, **one continuous track with her between the columns.** [00:00–00:02] she glides between the marble columns, soft light shafts passing over her, petals drifting. [00:02–00:04] she sweeps her right arm gently across her front in an elegant line, glancing along the colonnade with reverent calm. [00:04–00:06] she continues toward the garden stairs, gown and petals trailing. Real-time, believable graceful walk; 9:16.
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact identity — reverent, calm grace.
+- *Animation:* COWBOY, **one continuous rack-focus pulling from the foreground blossom to her, then a track between the columns — the rack-focus trick.** [00:00–00:02] focus rests on a soft spray of foreground blossom, then racks back to find her gliding between the marble columns, light shafts passing over her. [00:02–00:04] she sweeps her right arm gently across her front in an elegant line, glancing along the colonnade with reverent calm. [00:04–00:06] she continues toward the garden stairs, gown and petals trailing. Real-time, believable graceful walk; 9:16.
 - *AUDIO (in-frame):* ambient/object — soft footsteps echoing on marble, a gentle breeze through the columns, drifting petals; voice — a quiet calm breath from Aira.
-**→ Cut (match-on-action) to Frame 3 — she reaches the top of the garden stairs and descends.**
+**→ Cut (match-on-action) to Frame 3 — she reaches the top of the garden stairs and descends (her hero beat).**
 
 ---
-### FRAME 3 — GARDEN STAIRS
-**Frame angle:** high ¾ looking down the stairs (~45° down), tender diffused light.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **high ¾ (looking down)**. · Outfit: blush chiffon gown + sash. · Headwear: none. · Accessories: pearl drops + choker. · Eye colour: amber-hazel. · Makeup: soft rosy, mauve-rose lip. · Hair: soft half-up waves. · Footwear: nude flats. · Nails: rose-nude. · static & neutral, plain blank background.
-**STILL 2 · ENVIRONMENT:** wide pale garden stairs flanked by blossom and topiary, descending toward the pool, petals swirling around the steps, tender soft light; high-¾ down-vantage.
+### FRAME 3 — GARDEN STAIRS (HERO frame)
+**Frame angle:** ¾ front drawing closer as she descends, tender diffused light — her hero beat.
+**ENVIRONMENT still (the only per-frame ingredient):** wide pale garden stairs flanked by blossom and topiary, descending toward the pool, petals swirling around the steps, tender soft light; ¾-front vantage (closer) down the stairs. *(Animate `@subject` gathering her skirt and descending.)*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* MEDIUM, **one continuous slow descend/boom following her down the stairs.** [00:00–00:02] she gathers her chiffon skirt in her right hand and steps down the pale garden stairs with controlled grace. [00:02–00:04] she descends step by step, glancing down at her footing then lifting her gaze to the pool with a soft anticipatory smile, petals swirling. [00:04–00:06] she reaches the foot of the stairs and turns toward the reflecting pool. Real-time, believable careful descent; 9:16.
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact identity — poised serenity blooming into a soft anticipatory smile, her hero moment.
+- *Animation:* MEDIUM (closer), **one continuous slow descend/boom following her down the stairs.** [00:00–00:02] she gathers her chiffon skirt in her right hand and steps down the pale garden stairs with controlled grace — her hero moment. [00:02–00:04] she descends step by step, glancing down at her footing then lifting her gaze with a soft anticipatory smile, petals swirling around her. [00:04–00:06] she reaches the foot of the stairs and turns toward the reflecting pool. Real-time, believable careful descent; 9:16. (Hero framing — closer, the garden behind her.)
 - *AUDIO (in-frame):* ambient/object — the soft sweep of the gathered skirt, light footfalls on stone, petal-rustle; voice — a soft anticipatory breath and a faint "ah" of delight from Aira.
-**→ Cut (match-on-action) to Frame 4 — she steps to the reflecting pool as the storm peaks.**
+**→ Cut (match-on-action) to Frame 4 — she steps to the reflecting pool (the cherry-blossom-storm element).**
 
 ---
-### FRAME 4 — REFLECTING POOL (signature · loop)
-**Frame angle:** low front (head-on, slight up-tilt), luminous soft mirror-pool light.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **low front (head-on)**. · Outfit: blush chiffon cape-sleeve gown + sash. · Headwear: none. · Accessories: pearl drops + choker. · Eye colour: amber-hazel. · Makeup: soft rosy, mauve-rose lip. · Hair: soft half-up waves. · Footwear: nude flats. · Nails: rose-nude. · static & neutral, plain blank background.
-**STILL 2 · ENVIRONMENT:** a still mirror-flat reflecting pool ringed by blossom — her reflection doubling on the glass water, thick petals in the air, luminous soft light; low-front vantage with the mirror surface.
+### FRAME 4 — REFLECTING POOL (magical element · cherry-blossom storm, used once · loop)
+**Frame angle:** low front (head-on, slight up-tilt) easing to a pull-back, luminous soft mirror-pool light.
+**ENVIRONMENT still (the only per-frame ingredient):** a still mirror-flat reflecting pool ringed by blossom — her reflection doubling on the glass water, thick petals in the air, luminous soft light; low-front vantage with the mirror surface opening wide. *The concept's single element lands here.* *(Animate `@subject` opening into the petal storm, doubled on the pool.)*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* HERO MEDIUM low front, **one continuous slow push-in easing into a pull-back.** [00:00–00:02] she steps to the still pool's edge, her reflection doubling her on the mirror water, petals thickening. [00:02–00:04] the signature peaks — a full cherry-blossom storm swirls around her as she lifts both arms open into it and tips her face up, soft mirror-light glowing off the pool; wonder lifting into a serene radiant smile. [00:04–00:06] the petals settle and her gaze comes level to lens as the camera eases back to reveal the mirror pool and blossom ring — settling toward the soft calm to loop. Real-time, thick real petal storm + true reflection; 9:16.
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact identity — wonder lifting into a serene radiant smile.
+- *Animation:* MEDIUM low front, **one continuous slow push-in easing into a pull-back.** [00:00–00:02] she steps to the still pool's edge, her reflection doubling her on the mirror water, petals thickening. [00:02–00:04] the **element** peaks — a full cherry-blossom storm swirls around her as she lifts both arms open into it and tips her face up, soft mirror-light glowing off the pool, wonder lifting into a serene radiant smile. [00:04–00:06] the petals settle and her gaze comes level to lens as the camera eases back to reveal the mirror pool and blossom ring around her — settling toward the soft calm to loop. Real-time, thick real petal storm + true reflection; 9:16. (World opens — the pool and garden around her.)
 - *AUDIO (in-frame):* ambient/object — a hush of swirling petals, the faint lap of the still pool, a gentle breeze; voice — Aira's soft wondering breath and a faint delighted "oh" as she lifts into the storm.
 **→ Loops back to Frame 1 (the blossom avenue walk).**
 
-**Stills to generate:** 2 per frame × 4 frames = 8 (Subject + Environment; no hero object this concept). Score = 24s MASTER AUDIO under the diegetic.
+**Stills to generate:** **`@subject` (1) + 4 ENVIRONMENT stills = 5 total** — prop-less, no `@object`; subject rendered once and reused; only environment + video prompt change per frame. ONE blossom garden walked through (avenue → colonnade → stairs → pool); cherry-blossom-storm element in Frame 4 only; trick shots in Frames 1 (foliage-parting reveal) & 2 (rack-focus blossom pull); hero beat in Frame 3. Score = 24s MASTER AUDIO under the diegetic.
 
 ═══════════════════════════════════════════════════════════════════════════════
 
