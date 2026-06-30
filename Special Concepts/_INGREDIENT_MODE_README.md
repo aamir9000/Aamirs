@@ -6,38 +6,45 @@ This folder holds **ingredient-mode** versions of our concepts, reformatted for 
 
 ---
 
-# 📦 CANONICAL DELIVERY — TWO VOLUME FILES (v3 · current)
-**All 40 Special Concepts now live in two consolidated, rebuilt files. These are the files to use.**
-The 40 old per-concept `SC-*.md` files have been **removed** (superseded) — everything is in the volumes.
+# 📦 CANONICAL DELIVERY — TWO VOLUME FILES (v5.1 lean · current)
+**All 41 Special Concepts now live in two consolidated, rebuilt files in the lean v5.1 standard. These are the files to use.**
+The old per-concept `SC-*.md` files have been **removed** (superseded) — everything is in the volumes.
 
-- **`AIRA — Special Concepts Volume 1 (SC-01–SC-A1).md`** — 20 concepts:
-  SC-01, SC-02, SC-03, SC-04, SC-06, SC-07, SC-08, SC-09, SC-10, SC-11, SC-12, SC-13, SC-14, SC-15, SC-16, SC-17, SC-18, SC-19, SC-21, SC-A1.
+- **`AIRA — Special Concepts Volume 1 (SC-01–SC-A1).md`** — 21 concepts:
+  SC-01, SC-02, SC-03, SC-04, SC-06, SC-07, SC-08, SC-09, SC-10, SC-11, SC-12, SC-13, SC-14, SC-15, SC-16, SC-17, SC-18, SC-19, SC-21, SC-A1, SC-A2.
 - **`AIRA — Special Concepts Volume 2 (SC-22–SC-41).md`** — 20 concepts (the **"modes"** set):
   SC-22 … SC-41 (horseback, train, ski, surf, ice-skating, swan-boat, tram, camel, elephant, bus, garden-swing, carriage, seaplane, zip-line, toboggan, riverboat, orchard-cart, dance, kayak, paraglide).
 
-Each volume opens with the **v3 "HOW EACH FRAME IS BUILT"** header block. The BUILT-CONCEPTS REGISTRY further
-below is kept as a historical index (difference-strings / themes) — its per-concept `FILE:` pointers are
-**superseded**; the concept now lives in its volume.
+Each volume opens with the **v5.1 lean "HOW EACH CONCEPT IS BUILT"** header block. The full master spec (lean model +
+ELEMENT LIBRARY + TRICK-SHOT LIBRARY + the per-concept assignment table) lives in **`_ELEMENT_AND_TRICKSHOT_LIBRARY.md`**.
+The BUILT-CONCEPTS REGISTRY further below is kept as a historical index (difference-strings / themes) — its
+per-concept `FILE:` pointers are **superseded**; the concept now lives in its volume.
 
-## ⭐ v3 STANDARD (current — supersedes v2 where they differ)
-Every frame = **3 matched-angle STILLS + a VIDEO PROMPT.** One camera angle is chosen per frame and applied to
-**all three stills** (same rotation, eye-level, light direction, lens) so they composite cleanly.
+## ⭐ v5.1 LEAN STANDARD (current — supersedes v2/v3 where they differ)
+**Generate `@subject` and `@object` ONCE per concept and reuse them in every frame. Only the ENVIRONMENT still and
+the VIDEO PROMPT change per frame.** Full master spec: `_ELEMENT_AND_TRICKSHOT_LIBRARY.md`.
 
-1. **STILL 1 · SUBJECT** — *plain blank background.* Write **`Aira [identity placeholder]`** (never enumerate her
-   face — the reference carries likeness), then heavy **styling only**: Outfit · Headwear (when needed) ·
-   Accessories · **Eye colour (constant: warm amber-hazel)** · Makeup (if needed) · Hair · Footwear · Nails.
-   **Static & neutral, full body head-to-toe.** Only variable = the chosen frame angle.
-2. **STILL 2 · OBJECT** — *plain blank background.* The hero object in heavy detail, **same frame angle.**
-   *(Prop-less concepts = 2 stills, Subject + Environment; SC-16 uses `@texture`, SC-19 uses `@product` as the 3rd.)*
-3. **STILL 3 · ENVIRONMENT** — the full vivid scene (lighting + depth), **same angle/vantage.**
-4. **VIDEO PROMPT** — *Facial consistency* lock → *Animation* (**one continuous evolving camera move** from the
-   frame's opening angle — **no internal hard cuts**, Veo generates one continuous shot; the grounded signature;
-   real-time, no slow-mo; 9:16) → *AUDIO (in-frame)* (`ambient/object — …; voice — …`, only where the beat earns it).
-   **Big angle variety comes frame-to-frame**, not from cuts inside a clip.
-- **MASTER AUDIO** (background music/score) sits **once per concept, outside the frames.**
-- Exterior modes (train/tram/bus/seaplane/riverboat/paraglide) include **"see-it-from-outside"** establishing
-  shots (the vehicle travelling through the world, subject small / through a window) + at least one
-  environment-dominant wide per reel (the world is a co-star).
+- **INGREDIENTS (rendered once, reused every frame):**
+  - **`@subject`** — *plain blank background*, neutral & full-body: `Aira [identity placeholder]` + styling only
+    (Outfit · Headwear · Accessories · **Eye colour: warm amber-hazel** · Makeup · Hair · Footwear · Nails). Never
+    enumerate her face — the reference holds it. *(Transform concepts render `@subject` per wardrobe state; the
+    seasonal-reskin concept renders it once with layering noted per frame.)*
+  - **`@object`** — *plain blank background*, the hero object in heavy detail. *(Prop-less concepts have no `@object`;
+    SC-16 uses `@texture`, SC-19 uses `@product` as the extra ingredient.)*
+- **PER FRAME (the only things that change):**
+  - **ENVIRONMENT still** — the **next stretch of the ONE place she travels through**, at its own camera angle (the
+    progression + angle is what carries the travel forward for Veo).
+  - **VIDEO PROMPT** — *Facial consistency + expression* (identity-safe: only gaze + soft expression) → *Animation*
+    (one continuous evolving camera move from the frame's angle; real-time, no slow-mo; **the element / trick shot is
+    written directly in here** when the frame carries one) → *AUDIO (in-frame)* (`ambient/object — …; voice — …`).
+- **Per concept:** ONE place travelled through · ONE magical element (used once, in one frame) · a theme-suitable
+  number of TRICK SHOTS (in other frame(s) — **never the element's frame**) · ONE hero frame (rotated across concepts).
+  The element and every trick shot are **written into that frame's VIDEO PROMPT** — the library doc is only a planning
+  menu, never a substitute. Subject never dominates every frame — negative space, world as co-star, at least one
+  establishing wide / environment-dominant frame per reel.
+- **MASTER AUDIO** (background score) sits once per concept, outside the frames. SILENT = no dialogue/lyric.
+- **Stills per concept** = `@subject` (1) + `@object` (1) + N ENVIRONMENT stills (N = frame count): a 4-frame concept
+  = 6 stills, 5-frame = 7, 3-frame = 5; prop-less drops the `@object` (one fewer); SC-16/SC-19 swap in `@texture`/`@product`.
 
 ---
 
@@ -123,8 +130,10 @@ See `_TEMPLATE.md` for the exact shot-card structure.
 
 ---
 
-# ⭐ CORRECTED STANDARD (v2 — SUPERSEDES anything above where they differ)
-*Locked across the whole set during the clean-ref + audio rebuild. Every concept (SC-01…SC-21 + SC-A1) follows this; build all new concepts to it.*
+# ⭐ CORRECTED STANDARD (v2 — HISTORICAL; superseded by the v5.1 LEAN STANDARD above)
+*Kept for reference. The clean/isolated-`@subject` + two-audio-block rules below still hold; but note the current
+lean model generates `@subject` & `@object` ONCE per concept (only ENVIRONMENT + VIDEO PROMPT vary per frame), and
+the element/trick-shot assignments now live in `_ELEMENT_AND_TRICKSHOT_LIBRARY.md` and are written into the prompts.*
 
 ## A. Ingredient stills = CLEAN, ISOLATED, on a PLAIN BLANK BACKGROUND (never posed, never composited)
 - **`@subject`** = ONE reference, **reused every shot**: the subject **front-facing, whole body, relaxed neutral stance**, locked wardrobe + hair, hands visible, even neutral studio light, **plain blank background.** It carries identity + wardrobe/hair ONLY — it is **NOT** posed for the shot and **NOT** tinted to the world.
