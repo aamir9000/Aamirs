@@ -1520,4 +1520,79 @@ shimmer, light driving percussion riding the descent, swells reserved for the de
 **Stills to generate:** 3 per frame × 4 frames = 12 (anime-styled). Score = 24s MASTER AUDIO under the diegetic.
 
 ═══════════════════════════════════════════════════════════════════════════════
-*END OF VOLUME 1 — SC-01, SC-02, SC-03, SC-04, SC-06, SC-07, SC-08, SC-09, SC-10, SC-11, SC-12, SC-13, SC-14, SC-15, SC-16, SC-17, SC-18, SC-19, SC-21, SC-A1 (20 concepts). Volume 2 holds the modes set SC-22–SC-41.*
+# SC-A2 · ANIME DOWNHILL GLIDE (Skateboard) · 4 shots × 6s · SILENT · ANIME-STYLED
+**Logline:** One magical Shinkai-style twilight, one long ribbon of road running straight downhill through rolling
+emerald hills — the **same** green downhill road seen from four camera perspectives as she skateboards down it.
+Signature: a butterfly flyby + Shinkai golden light-streaks + rising fireflies + a meteor shower of shooting stars
+overhead. Free, dreamy, soaring.
+**Arc (ONE world, four views):** TOP-OF-ROAD (looking down) → BOTTOM-OF-ROAD (looking up) → PROFILE TRACK → LOOKOUT BEND (signature).
+*The world never changes — same green downhill road, same hills, trees and wildflowers, same magical blue-gold
+twilight and palette in every frame; only the camera viewpoint (down the slope / up the slope / profile / crane),
+her position on the road, the atmospheric elements and the framing change. Anime (Makoto Shinkai / Ghibli) render throughout.*
+
+## MASTER AUDIO (outside the frames — background music)
+A 24-second custom cinematic score (4 clips × 6s) in self-resolving ~6-second phrases, trimmable at any phrase
+boundary. Built on a soaring piano, lush strings, an airy synth pad, a gentle driving pulse and a warm sub — dreamy,
+soaring, nostalgic (anime-film feel). Opens (no fade-in) on a bright rising piano figure. Arc: a hushed crest open,
+a rushing descent lift, a streaming-flight peak, then a wondrous lookout resolve for an invisible loop. Laid UNDER
+the diegetic — no spoken line; optional wordless soaring female vocal on the meteor-shower peak only.
+
+## GLOBAL STYLE LOCKS
+- **Outfit:** anime streetwear — an oversized pastel-mint zip hoodie (sleeves pushed up) over a white tee, a white pleated skort, striped mint-and-white over-knee socks.
+- **Headwear:** a white-and-mint cap worn backwards, chunky over-ear headphones slung around the neck. **Accessories:** a small crossbody sling, a few pastel wristbands. **Eye colour:** warm amber-hazel. **Makeup:** clean anime glow — luminous skin, a soft wind-flush, glossy balm lip. **Hair:** long flowing wind-swept hair with a pastel-blue clip, loose strands lifting. **Footwear:** chunky white-and-mint skate sneakers. **Nails:** short pastel.
+- **Hero object:** a wooden cruiser longboard — a warm maple deck with a painted pastel-sunset graphic, cream wheels, chrome trucks.
+- **Signature (grounded-magical · anime):** a butterfly flyby, Shinkai golden light-streaks and lens-flares off the low sun, fireflies rising from the grass, and a meteor shower of shooting stars streaking the deep-blue twilight. Stylized anime light, but with believable motion/physics — no cheap cartoon sparkle.
+- **THE WORLD (ONE location, constant — render the SAME place every frame):** a single long ribbon of smooth road running straight **downhill** through rolling emerald-green anime hills — tall wind-rippled grass and wildflowers either side, a few lone cypress and oak trees, low stone edge-markers, distant blue mountain ranges, under a magical **Makoto-Shinkai twilight** (deep indigo-to-gold sky, towering soft clouds, first stars and meteors, a low warm sun throwing long light-streaks). Every frame is THIS road and THIS twilight — only the **camera view + her position + the elements + framing** change. *Footing: she rides the longboard — knees softly bent, arms out balancing, real downhill roll/carve, never floating.*
+
+---
+### FRAME 1 — TOP-OF-ROAD (looking down the slope)
+**Frame angle:** high angle from the road crest looking **down** the descending ribbon of road into the green valley (slope falls away from camera), warm twilight side-light.
+**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — anime-styled, full head-to-toe, neutral, at **high angle from above-front**. · Outfit: oversized pastel-mint zip hoodie + white tee + white pleated skort + striped over-knee socks. · Headwear: white-and-mint cap worn backwards + headphones around neck. · Accessories: crossbody sling, pastel wristbands. · Eye colour: amber-hazel. · Makeup: anime glow, balm lip. · Hair: long wind-swept, pastel-blue clip. · Footwear: chunky white-and-mint skate sneakers. · Nails: short pastel. · static & neutral, plain blank background, anime render.
+**STILL 2 · OBJECT (plain bg):** the wooden cruiser longboard at **high angle from above-front** — maple deck, pastel-sunset graphic, cream wheels, chrome trucks. Clean, isolated, plain blank background, anime render.
+**STILL 3 · ENVIRONMENT:** the **same green downhill road seen from the TOP** — the road falling away down the emerald hill into the valley, wildflower verges, lone cypress, distant ranges, the Shinkai twilight sky above, a low sun raking long light-streaks down the road; high looking-down vantage (establishing the one world), anime render.
+**VIDEO PROMPT:**
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact anime face/identity (bone structure, eye shape/colour, nose/lip) — animate only gaze + soft expression: **eyes bright and wide with a thrilled, open-mouthed anticipatory grin** as she looks down the slope.
+- *Animation:* WIDE high looking-down establishing, **one continuous slow push following her over the crest into the descent.** [00:00–00:02] she steps onto the longboard at the road crest and pushes off, the slope falling away into the green valley below. [00:02–00:04] the signature stirs — a butterfly flits across the foreground and golden Shinkai light-streaks rake down the road; she tips into the roll, hair lifting, with a thrilled grin. [00:04–00:06] she accelerates down the ribbon of road as the whole twilight world holds around her. Real-time anime motion, believable downhill roll + balance; 9:16. (Environment-dominant establishing wide.)
+- *AUDIO (in-frame):* ambient/object — the rumble of urethane wheels on smooth road, wind rising, evening crickets, distant birds; voice — Aira's excited intake of breath and a bright "okay — here we go!".
+**→ Cut (match-on-action) to Frame 2 — same road; camera drops to the bottom looking back up as she carves down toward it.**
+
+---
+### FRAME 2 — BOTTOM-OF-ROAD (looking up the slope)
+**Frame angle:** low angle from far down the road looking back **up** the slope as she carves down toward camera (the road rises behind her to the crest), warm twilight back-light.
+**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — anime-styled, full head-to-toe, neutral, at **low angle from below-front**. · Outfit: pastel-mint hoodie + white tee + skort + striped socks. · Headwear: cap backwards + headphones. · Accessories: sling, wristbands. · Eye colour: amber-hazel. · Makeup: anime glow, balm lip. · Hair: long wind-swept, blue clip. · Footwear: skate sneakers. · Nails: short pastel. · static & neutral, plain blank background, anime render.
+**STILL 2 · OBJECT (plain bg):** the longboard at **low angle from below-front** — deck underside graphic and wheels foremost. Clean, isolated, plain blank background, anime render.
+**STILL 3 · ENVIRONMENT:** the **same road seen from the BOTTOM looking up** — the ribbon rising up the green hill to the distant crest, wildflower verges and lone oak, the twilight sky beyond, fireflies beginning to rise from the grass; low looking-up vantage (the same world, opposite view), anime render.
+**VIDEO PROMPT:**
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact anime identity — animate only gaze + soft expression: **eyes narrowed into the rushing air then softening, a focused joyful grin** as she carves toward camera.
+- *Animation:* MEDIUM low looking-up, **one continuous track as she carves down the slope toward and past camera.** [00:00–00:02] she carves down the rising road toward the low camera, board leaning, the slope climbing away behind her to the crest. [00:02–00:04] fireflies lift around her and light-seeds drift up the slope; she leans into a smooth S-carve with a focused joyful grin. [00:04–00:06] she sweeps close past the lens and rolls on down. Real-time anime motion, believable carve + balance; 9:16.
+- *AUDIO (in-frame):* ambient/object — wheels chattering and carving on the road, wind, crickets, a soft firefly-night hum; voice — Aira's focused breath and a bright "woohoo!".
+**→ Cut (match-on-action) to Frame 3 — same road; camera goes to a profile tracking alongside her.**
+
+---
+### FRAME 3 — PROFILE TRACK (side view)
+**Frame angle:** full profile tracking alongside her mid-descent, twilight streaming past.
+**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — anime-styled, full head-to-toe, neutral, in **full profile**. · Outfit: pastel-mint hoodie + white tee + skort + striped socks. · Headwear: cap backwards + headphones. · Accessories: sling, wristbands. · Eye colour: amber-hazel. · Makeup: anime glow, balm lip. · Hair: long wind-swept, blue clip. · Footwear: skate sneakers. · Nails: short pastel. · static & neutral, plain blank background, anime render.
+**STILL 2 · OBJECT (plain bg):** the longboard in **full profile** — full side, deck, wheels, trucks. Clean, isolated, plain blank background, anime render.
+**STILL 3 · ENVIRONMENT:** the **same road and green hills streaming past in profile** — wind-blurred grass and wildflowers, lone trees flicking by, the twilight sky and distant ranges, fireflies streaking and Shinkai speed-light-streaks; profile vantage (the same world at speed), anime render.
+**VIDEO PROMPT:**
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact anime identity — animate only gaze + soft expression: **hair whipping, a soaring exhilarated laugh, eyes alight** then a calm flow.
+- *Animation:* MEDIUM profile, **one continuous parallel track at her speed down the slope.** [00:00–00:02] she crouches into a low speed-tuck, the green hills and road streaming past in profile. [00:02–00:04] she rises and spreads her arms wide as fireflies stream past and speed-light-streaks rake the frame; a soaring exhilarated laugh. [00:04–00:06] she settles back into a smooth glide toward a lookout bend ahead. Real-time anime motion, believable tuck + glide; 9:16. (Road + hills share the frame.)
+- *AUDIO (in-frame):* ambient/object — the steady roar of wheels, rushing wind, fireflies' night ambience; voice — Aira's soaring "yeahhh!" and a delighted laugh.
+**→ Cut (match-on-action) to Frame 4 — same road; camera goes low-hero + crane as she reaches the lookout bend.**
+
+---
+### FRAME 4 — LOOKOUT BEND (signature · loop)
+**Frame angle:** low-hero ¾ opening to front (~30°, crane pull-back), deepening twilight light.
+**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — anime-styled, full head-to-toe, neutral, at **low-hero ¾ (~30°)**. · Outfit: pastel-mint hoodie + white tee + skort + striped socks. · Headwear: cap backwards + headphones. · Accessories: sling, wristbands. · Eye colour: amber-hazel. · Makeup: anime glow, balm lip. · Hair: long wind-swept, blue clip. · Footwear: skate sneakers. · Nails: short pastel. · static & neutral, plain blank background, anime render.
+**STILL 2 · OBJECT (plain bg):** the longboard at **low-hero ¾** — heroic angle, deck graphic, wheels, trucks. Clean, isolated, plain blank background, anime render.
+**STILL 3 · ENVIRONMENT:** a **lookout bend on the same road overlooking the whole green valley** — the road snaking down behind, the emerald hills and distant ranges below, the full Shinkai twilight sky with a **meteor shower of shooting stars** overhead and fireflies everywhere; low-hero ¾ vantage with crane reveal (the one world, seen whole), anime render.
+**VIDEO PROMPT:**
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact anime identity — animate only gaze + soft expression: **face tilting up, eyes widening in radiant wonder, lips parting into a soft awed smile** at the meteor shower.
+- *Animation:* WIDE low-hero, **one continuous slow crane pull-back to reveal the whole road, valley and meteor sky.** [00:00–00:02] she rolls into the lookout bend and slows, one foot stepping down off the board, the valley opening below. [00:02–00:04] the signature peaks — a meteor shower streaks the twilight, fireflies swarm up around her and a last butterfly drifts through golden light-streaks; she gazes up in radiant awe. [00:04–00:06] the camera cranes back to reveal the whole downhill road, valley and shooting-star sky — easing toward the top-of-road opening for a loop. Real-time anime motion, believable stop + balance, grounded meteor/firefly physics; 9:16.
+- *AUDIO (in-frame):* ambient/object — the board rolling to a stop, the foot stepping down, a soft night breeze, crickets and fireflies, a faint cosmic hush; voice — Aira's awed breath and a soft wondrous "woah… look at that…".
+**→ Loops back to Frame 1 (the top-of-road crest).**
+
+**Stills to generate:** 3 per frame × 4 frames = 12 (anime-styled; all four ENVIRONMENT stills = the SAME downhill road from different angles). Score = 24s MASTER AUDIO under the diegetic.
+
+═══════════════════════════════════════════════════════════════════════════════
+*END OF VOLUME 1 — SC-01, SC-02, SC-03, SC-04, SC-06, SC-07, SC-08, SC-09, SC-10, SC-11, SC-12, SC-13, SC-14, SC-15, SC-16, SC-17, SC-18, SC-19, SC-21, SC-A1, SC-A2 (21 concepts). Volume 2 holds the modes set SC-22–SC-41.*
