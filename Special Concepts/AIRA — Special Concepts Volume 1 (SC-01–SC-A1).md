@@ -678,10 +678,10 @@ sandbar, a single lift for the lotus field.
 ═══════════════════════════════════════════════════════════════════════════════
 
 # SC-11 · GONDOLA REVERIE (Gondola) · 4 shots × 6s
-**Logline:** A dreamy Venetian glide — the subject reclines in a gondola through narrow canals, slips under a low
-bridge, emerges onto the glowing grand canal, and drifts out toward the open lagoon. Signature: water-mirror
-reflections + drifting golden light off the canal + soft petals from the balconies. Vintage, serene, romantic.
-**Arc:** NARROW SIDE CANALS → UNDER A BRIDGE (signature reveal) → GRAND CANAL → LAGOON MOUTH.
+**Logline:** A dreamy Venetian glide through one canal route — narrow side canals, under a low bridge, the glowing
+grand canal, the open lagoon mouth. One Venice route, drifted through; soft golden afternoon throughout. Vintage,
+serene, romantic.
+**Arc (one place, travelled through):** NARROW SIDE CANALS (trick) → UNDER A BRIDGE (trick) → GRAND CANAL (element) → LAGOON MOUTH (hero).
 
 ## MASTER AUDIO (outside the frames — background music)
 A 24-second custom cinematic score (4 clips × 6s) in self-resolving ~6-second phrases, trimmable at any phrase
@@ -692,62 +692,56 @@ then a warm hazy resolve at the lagoon mouth for an invisible loop. Laid UNDER t
 optional wordless warmth on the canal reveal only. Layered: accordion/mandolin, warm sub, warm strings, a single
 bloom for the grand-canal reveal.
 
-## GLOBAL STYLE LOCKS
-- **Outfit:** an emerald-green vintage day-dress with a sweetheart neckline and cap sleeves, a thin gold belt.
-- **Headwear:** none. **Accessories:** short ivory gloves, pearl drop earrings, a folded ivory lace parasol. **Eye colour:** warm amber-hazel. **Makeup:** soft vintage glam — porcelain-luminous skin, rose-flush cheek, a defined soft-rose lip. **Hair:** a soft **braided updo wrapped with a cream ribbon**, a few loose vintage waves at the temples. **Footwear:** ivory T-bar heels. **Nails:** classic rose-red (under gloves).
-- **Hero object:** the black lacquer gondola (velvet seat, gilt trim, the curved ferro prow) + the folded ivory lace parasol.
-- **Signature (grounded):** still water mirrors the buildings and doubles the gondola; soft golden light drifts off the canal; a few petals fall from window-boxes; peaks emerging under the bridge into the grand-canal glow. Real reflections.
-- **Journey + light:** soft golden Venice afternoon (warm/muted) — intimate shaded side-canal → cool bridge-shadow → glowing open grand canal → hazy golden lagoon mouth. *Footing: she is a seated passenger.*
+## INGREDIENTS + LOCKS (generate `@subject` & `@object` ONCE — reuse them in every frame)
+- **`@subject` — render ONCE, reuse every frame** (neutral, full body, plain blank bg): `Aira [identity placeholder]` styled as — **Outfit:** emerald-green vintage day-dress with a sweetheart neckline and cap sleeves, a thin gold belt · **Hair:** soft braided updo wrapped with a cream ribbon, a few loose vintage waves at the temples · **Accessories:** short ivory gloves, pearl drop earrings, a folded ivory lace parasol · **Eye colour:** warm amber-hazel · **Makeup:** soft vintage glam — porcelain-luminous skin, rose-flush cheek, a defined soft-rose lip · **Footwear:** ivory T-bar heels · **Nails:** classic rose-red (under gloves).
+- **`@object` — render ONCE, reuse every frame** (plain blank bg): the black lacquer gondola (velvet seat, gilt trim, the curved ferro prow) + the folded ivory lace parasol.
+- **THE PLACE (ONE Venice route, drifted THROUGH):** a single canal journey — narrow shaded side canals, a low stone bridge, the open grand canal, and the hazy lagoon mouth; soft golden Venice afternoon throughout (intimate shade → cool bridge-shadow → glowing open canal → hazy gold). She **drifts through it** across the four frames, so each ENVIRONMENT still is the next stretch of the same route at its own angle. *Footing: she is a seated passenger.*
+- **MAGICAL ELEMENT (used ONCE — Frame 3; written into that frame's VIDEO PROMPT):** on the grand canal soft rose petals drift down from the balconies and settle across the golden water around the gondola, carried on the current (real petals + reflections, no cartoon sparkle). No other frame carries an element.
+- **TRICK SHOTS (×2 — Frames 1 & 2, never the element's frame; each written into its frame's VIDEO PROMPT):** Frame 1 = **water-mirror reflection reveal** (the still green water mirrors the ochre walls; the reveal tilts up from the reflection to her); Frame 2 = **under-the-bridge arch frame** (she's framed within the low stone arch as the boat passes through).
+- **HERO FRAME (Frame 4):** she reads clearly as the hero at the lagoon mouth (closer ¾-back glance to lens), then the lagoon opens. Every other frame keeps her with the canal present — room on the sides, top and bottom.
+- **Footing:** she reclines as a seated passenger — relaxed vintage poise, real gentle boat sway.
 
 ---
-### FRAME 1 — NARROW SIDE CANALS
-**Frame angle:** high ¾ looking down (~45°), soft shaded ochre-rose with green-water reflections.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **high ¾ (looking down)**. · Outfit: emerald vintage day-dress + thin gold belt. · Headwear: none. · Accessories: short ivory gloves, pearl drops, folded lace parasol. · Eye colour: amber-hazel. · Makeup: vintage glam, soft-rose lip. · Hair: braided updo + cream ribbon. · Footwear: ivory T-bar heels. · Nails: rose-red. · static & neutral, plain blank background.
-**STILL 2 · OBJECT (plain bg):** the black lacquer gondola + folded lace parasol, from **high ¾** — velvet seat, gilt trim, curved ferro prow. Clean, isolated, plain blank background.
-**STILL 3 · ENVIRONMENT:** a narrow shaded side canal — peeling ochre and rose walls, window-boxes, still green water mirroring the buildings, a low arched bridge ahead; high-¾ down-vantage.
+### FRAME 1 — NARROW SIDE CANALS (trick shot · water-mirror reflection reveal)
+**Frame angle:** starting on the still green water's mirror then tilting up (~from reflection to high ¾), soft shaded ochre-rose.
+**ENVIRONMENT still (the only per-frame ingredient):** a narrow shaded side canal — peeling ochre and rose walls, window-boxes, still green water mirroring the buildings and the gondola, a low arched bridge ahead; vantage starting on the water-mirror then rising. *(Animate `@subject` reclining on `@object`, first seen in the water's reflection.)*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* WIDE high looking down, **one continuous slow descend following the boat up the canal.** [00:00–00:02] the gondola glides the still side canal, ochre walls mirrored in the green water, she reclines easy on the velvet seat. [00:02–00:04] she trails her gloved fingers near the water and gazes up at a flower-filled window-box, a soft faraway smile, petals drifting down. [00:04–00:06] the gondola drifts on toward a low arched bridge, reflections rippling. Real-time, believable gentle boat glide + water reflections; 9:16.
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact face/identity — animate only gaze + soft expression: a soft, faraway dreamy smile.
+- *Animation:* WIDE, **one continuous reveal tilting up from the still-water reflection to the real gondola — the water-mirror reveal trick.** [00:00–00:02] the shot opens on the still green water mirroring the ochre walls and the gondola perfectly, then tilts up to find her reclining easy on the velvet seat. [00:02–00:04] she trails her gloved fingers near the water and gazes up at a flower-filled window-box, a soft faraway smile, the reflection rippling. [00:04–00:06] the gondola drifts on toward a low arched bridge. Real-time, believable gentle boat glide + true water reflection; 9:16.
 - *AUDIO (in-frame):* ambient/object — the gentle lap of water on the gondola, a distant oar dip, a far church bell, petals drifting; voice — a soft dreamy breath from Aira.
-**→ Cut (match-on-action) to Frame 2 — the gondola glides into the shadow of the low bridge.**
+**→ Cut (match-on-action) to Frame 2 — the gondola glides into the shadow of the low bridge (the arch-frame trick).**
 
 ---
-### FRAME 2 — UNDER A BRIDGE (signature reveal)
-**Frame angle:** water-line ¾ front (low on the water), shadow → glowing gold.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **low water-line ¾ front**. · Outfit: emerald day-dress + gold belt. · Headwear: none. · Accessories: ivory gloves, pearl drops, lace parasol. · Eye colour: amber-hazel. · Makeup: vintage glam, soft-rose lip. · Hair: braided updo + cream ribbon. · Footwear: ivory heels. · Nails: rose-red. · static & neutral, plain blank background.
-**STILL 2 · OBJECT (plain bg):** the black lacquer gondola + lace parasol at **low water-line ¾** — prow foremost, gilt trim catching shadow-to-gold light. Clean, isolated, plain blank background.
-**STILL 3 · ENVIRONMENT:** the cool shadow under a low stone bridge, then the dazzling glowing grand canal opening beyond the arch — water-mirror reflections doubling the palazzos; low water-line vantage through the arch.
+### FRAME 2 — UNDER A BRIDGE (trick shot · under-the-bridge arch frame)
+**Frame angle:** water-line ¾ front framed within the stone arch, shadow → glowing gold.
+**ENVIRONMENT still (the only per-frame ingredient):** the cool shadow under a low stone bridge, the grand canal glowing beyond the arch — the low arch framing the bright canal, water-mirror reflections doubling the palazzos; low water-line vantage framed inside the arch. *(Animate `@subject` on `@object` passing through, framed within the arch.)*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* camera at the water-line, **one continuous slow dolly through the bridge with the boat.** [00:00–00:02] the gondola slips into the cool shadow under the low bridge, reflections darkening, she looks up at the arch. [00:02–00:04] the boat emerges and the signature reveals — the grand canal opens in glowing golden light, water-mirror reflections doubling the palazzos, soft petals drifting; she lifts up from her recline toward the light with hushed wonder. [00:04–00:06] she sits up and opens her parasol a touch, a radiant soft smile, the golden canal spreading ahead. Real-time, real shadow-to-light reveal + reflections; 9:16.
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact identity — hushed wonder lifting toward the light.
+- *Animation:* water-line, **one continuous dolly through the bridge with the arch framing her — the arch-frame trick.** [00:00–00:02] the gondola slips into the cool shadow under the low bridge, the stone arch framing her and the bright canal beyond, reflections darkening; she looks up at the arch. [00:02–00:04] the boat moves through and the grand canal glows golden inside the arch-frame, water doubling the palazzos; she lifts up from her recline toward the light with hushed wonder. [00:04–00:06] she sits up and opens her parasol a touch as the arch releases the boat into the open canal. Real-time, real shadow-to-light + reflections; 9:16.
 - *AUDIO (in-frame):* ambient/object — the hush under the stone arch, water echoing, then the open-canal ambience swelling as she emerges; voice — Aira's hushed breath of wonder and a faint "oh" as the canal opens.
-**→ Cut (match-on-action) to Frame 3 — the gondola joins the open grand canal.**
+**→ Cut (match-on-action) to Frame 3 — the gondola joins the open grand canal (the rose-petal element).**
 
 ---
-### FRAME 3 — GRAND CANAL
+### FRAME 3 — GRAND CANAL (magical element · rose petals on the water, used once)
 **Frame angle:** full profile (true side), glowing golden afternoon.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, in **full profile**. · Outfit: emerald day-dress + gold belt. · Headwear: none. · Accessories: ivory gloves, pearl drops, open lace parasol on the shoulder. · Eye colour: amber-hazel. · Makeup: vintage glam, soft-rose lip. · Hair: braided updo + cream ribbon. · Footwear: ivory heels. · Nails: rose-red. · static & neutral, plain blank background.
-**STILL 2 · OBJECT (plain bg):** the black lacquer gondola + open lace parasol in **profile** — full side, velvet seat, gilt, the ferro prow. Clean, isolated, plain blank background.
-**STILL 3 · ENVIRONMENT:** the open grand canal — grand palazzos, other boats and gondolas, warm golden afternoon light glinting off the water; profile vantage with the palazzos sliding past.
+**ENVIRONMENT still (the only per-frame ingredient):** the open grand canal — grand palazzos, other boats and gondolas, warm golden afternoon light glinting off the water, soft rose petals on the current; profile vantage with the palazzos sliding past. *The concept's single element lands here.* *(Animate `@subject` on `@object` poised with the open parasol, petals drifting onto the water.)*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* MEDIUM profile, **one continuous parallel dolly at the gondola's pace**, palazzos sliding past. [00:00–00:02] she sits poised with her open lace parasol resting on her shoulder, slowly turning it, the golden canal glinting. [00:02–00:04] she pans her gaze along the grand palazzos with a serene gentle smile, light dancing off the water and the parasol's lace. [00:04–00:06] the gondola glides on toward the canal's mouth, reflections shimmering. Real-time, believable boat glide; 9:16.
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact identity — a serene, gentle, radiant smile.
+- *Animation:* MEDIUM profile, **one continuous parallel dolly at the gondola's pace**, palazzos sliding past. [00:00–00:02] she sits poised with her open lace parasol on her shoulder, slowly turning it, the golden canal glinting. [00:02–00:04] the **element** drifts in — soft rose petals fall from the balconies and settle across the golden water around the gondola, carried on the current; she pans her gaze along the palazzos with a serene smile, trailing a gloved hand toward the petals. [00:04–00:06] the gondola glides on toward the canal's mouth, petals and reflections shimmering. Real-time, believable boat glide + real drifting petals; 9:16.
 - *AUDIO (in-frame):* ambient/object — water lapping, distant boat-motors and other gondoliers, a far accordion, the parasol's lace fluttering; voice — a soft pleased hum from Aira.
-**→ Cut (match-on-action) to Frame 4 — the gondola drifts out toward the open lagoon.**
+**→ Cut (match-on-action) to Frame 4 — the gondola drifts out toward the open lagoon (her hero beat).**
 
 ---
-### FRAME 4 — LAGOON MOUTH (loop)
-**Frame angle:** ¾-back over the shoulder (~30° behind), hazy golden lagoon.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **¾-back over the shoulder**. · Outfit: emerald day-dress + gold belt. · Headwear: none. · Accessories: ivory gloves, pearl drops, open parasol. · Eye colour: amber-hazel. · Makeup: vintage glam, soft-rose lip. · Hair: braided updo + cream ribbon. · Footwear: ivory heels. · Nails: rose-red. · static & neutral, plain blank background.
-**STILL 2 · OBJECT (plain bg):** the gondola + parasol at **¾-back** — rear three-quarter, the ferro prow ahead, hazy gold light. Clean, isolated, plain blank background.
-**STILL 3 · ENVIRONMENT:** the canal opening into the wide hazy lagoon — open water, distant domes and sails, soft golden haze, vast sky; ¾-back vantage opening to the lagoon.
+### FRAME 4 — LAGOON MOUTH (HERO frame · loop)
+**Frame angle:** ¾-back over the shoulder (~30° behind, closer) easing to a crane pull-back, hazy golden lagoon — her hero glance then world opens.
+**ENVIRONMENT still (the only per-frame ingredient):** the canal opening into the wide hazy lagoon — open water, distant domes and sails, soft golden haze, vast sky; ¾-back vantage (closer) opening to the lagoon. *(Animate `@subject` on `@object` glancing back to lens.)*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* WIDE, ¾-back, **one continuous slow crane pull-back opening the lagoon vista.** [00:00–00:02] the gondola drifts out into the wide hazy lagoon, distant domes and sails on the golden water. [00:02–00:04] she gazes out at the open lagoon, then glances softly back over her shoulder toward lens with a slow warm smile, petals and golden light settling. [00:04–00:06] the camera cranes back to reveal the vast golden lagoon and sky — easing toward the dreamy calm of the opening for a loop. Real-time, believable gentle drift; 9:16.
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact identity — a slow, warm, glamorous glance back to lens, her hero moment.
+- *Animation:* MEDIUM ¾-back (closer) easing to WIDE, **one continuous slow crane pull-back opening the lagoon vista.** [00:00–00:02] the gondola drifts out into the wide hazy lagoon, distant domes and sails on the golden water. [00:02–00:04] she gazes out at the open lagoon, then glances softly back over her shoulder toward lens with a slow warm smile — her hero moment, golden light settling. [00:04–00:06] the camera cranes back to reveal the vast golden lagoon and sky around her — easing toward the dreamy side-canal opening for a loop. Real-time, believable gentle drift; 9:16. (Hero glance then environment-dominant — the lagoon vast around her.)
 - *AUDIO (in-frame):* ambient/object — open water lapping, a soft breeze, distant sails and gulls; voice — a warm contented breath/sigh from Aira.
 **→ Loops back to Frame 1 (the narrow side canals).**
 
-**Stills to generate:** 3 per frame × 4 frames = 12. Score = 24s MASTER AUDIO under the diegetic.
+**Stills to generate:** **`@subject` (1) + `@object` (1) + 4 ENVIRONMENT stills = 6 total** — subject & object rendered once and reused; only environment + video prompt change per frame. ONE Venice route drifted through (side canals → under bridge → grand canal → lagoon mouth); rose-petals-on-water element in Frame 3 only; trick shots in Frames 1 (water-mirror reflection reveal) & 2 (under-the-bridge arch frame); hero beat in Frame 4. Score = 24s MASTER AUDIO under the diegetic.
 
 ═══════════════════════════════════════════════════════════════════════════════
 
