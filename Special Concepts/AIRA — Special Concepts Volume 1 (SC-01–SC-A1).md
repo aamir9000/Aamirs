@@ -1220,13 +1220,12 @@ driving percussion, a key-tuned swell on each world-swap.
 
 ═══════════════════════════════════════════════════════════════════════════════
 
-# SC-19 · THE PRODUCT BUILDS THE WORLD (Product → Set) · 3 shots × 6s · *(3rd still = @PRODUCT, the hero bottle)*
-**Logline:** The hero product authors the entire world — the subject stands in a clean studio void, the bottle on
-a plinth; from the bottle a glossy liquid pours out and rises, building first into a liquid architecture set, then
-blooming into a lush flowering set, and finally crystallising into a grand hero plinth-world, the bottle crowning
-it. Signature: the world literally grows out of the product (liquid → built architecture → bloom → crystalline hero
-set), grounded as real fluid + materials forming. Luxe, surreal, controlled.
-**Arc:** STUDIO VOID + BOTTLE → LIQUID ARCHITECTURE / BLOOM SET → HERO PLINTH-WORLD (bottle crowns it).
+# SC-19 · THE PRODUCT BUILDS THE WORLD (Product → Set) · 3 shots × 6s · *(SURREAL-BUILD exception — `@subject` once + `@product` once + ENVIRONMENT set-state stills; the product authors the set)*
+**Logline:** The hero product authors the entire world — she stands in a clean studio void with the bottle on a
+plinth; a glossy liquid pours from it and rises, building into a liquid-architecture set, blooming into a lush
+flowering set, then crystallising into a grand hero plinth-world the bottle crowns. Grounded as real fluid +
+materials forming, never cartoon. Luxe, surreal, controlled.
+**Arc (surreal-build — the product authors the set):** STUDIO VOID + BOTTLE (trick) → LIQUID ARCHITECTURE / BLOOM (element) → HERO PLINTH-WORLD (hero · trick).
 
 ## MASTER AUDIO (outside the frames — background music)
 An 18-second custom cinematic score (3 clips × 6s) in self-resolving ~6-second phrases, trimmable at any phrase
@@ -1237,50 +1236,46 @@ finished hero-world, resolving for an invisible loop. Laid UNDER the diegetic �
 luxe vocal on the reveal only. Layered: glassy piano/strings, deep sub, crystalline shimmer, a refined pulse, a
 single swell for the hero-world.
 
-## GLOBAL STYLE LOCKS
-- **Outfit:** a couture column gown in liquid-satin the exact tone of the product (deep champagne-gold), a single architectural shoulder drape.
-- **Headwear:** none. **Accessories:** fine gold jewellery (a sculptural ear-cuff, a thin bangle). **Eye colour:** warm amber-hazel. **Makeup:** luxe glossy editorial — radiant glass skin, a soft gold-nude lip, defined eyes, flawless. **Hair:** a sculptural sleek **low chignon**, glassy and constant. **Footwear:** champagne-gold heels (under the gown). **Nails:** immaculate glossy nude-gold.
-- **3rd ingredient = `@product`:** the hero product bottle (the brand fragrance/serum) — a clean isolated product render (plain bg); it authors every set.
-- **Signature (grounded):** the world grows from the bottle — real glossy liquid pours, rises and forms believable architecture, then real blossoms bloom, then it crystallises into a real built hero set. Premium fluid + material physics, no cheap cartoon sparkle, no floaty weightlessness; the product stays the source.
-- **Journey + light:** studio deepening luxe — clean bright studio void → liquid-reflective architecture light → warm rich bloom light → deep glowing hero-set light. *Footing: poised couture stance, weight planted; the set builds around her.*
+## INGREDIENTS + LOCKS (SURREAL-BUILD — `@subject` once + `@product` once; the set builds per frame)
+- **`@subject` — render ONCE, reuse every frame** (neutral, full body, plain blank bg): `Aira [identity placeholder]` styled as — **Outfit:** a couture column gown in liquid-satin the exact tone of the product (deep champagne-gold), a single architectural shoulder drape · **Hair:** a sculptural sleek low chignon, glassy and constant · **Accessories:** fine gold jewellery (a sculptural ear-cuff, a thin bangle) · **Eye colour:** warm amber-hazel · **Makeup:** luxe glossy editorial — radiant glass skin, a soft gold-nude lip, defined eyes, flawless · **Footwear:** champagne-gold heels (under the gown) · **Nails:** immaculate glossy nude-gold.
+- **`@product` — render ONCE, reuse every frame** (plain blank bg): the hero product bottle — a sculptural champagne-gold flacon, faceted glass, a polished cap, brand-clean; it authors every set.
+- **THE PLACE (SURREAL-BUILD — the product authors the set):** unlike the travel concepts, the world here GROWS from the bottle — a clean studio void → liquid-reflective architecture → a lush flowering set → a grand crystalline hero plinth-world the bottle crowns; light deepening clean-studio → liquid-reflective → warm-bloom → deep-glowing-hero. Each ENVIRONMENT still is the next set-state built from `@product`. *Footing: poised couture stance, weight planted; the set builds around her.*
+- **MAGICAL ELEMENT (used ONCE — Frame 2; written into that frame's VIDEO PROMPT):** as the liquid-gold sets, real liquid-light caustics ripple and dance across her gown and the architecture (true refraction off the glossy liquid, no cheap cartoon sparkle). The world-build is the concept premise; the distinct element flourish is these liquid-light caustics in Frame 2.
+- **TRICK SHOTS (×2 — Frames 1 & 3, never the element frame's beat; each written into its frame's VIDEO PROMPT):** Frame 1 = **slow orbit** around her and the plinth as the liquid begins to rise; Frame 3 = **reverse pull-out hero reveal** that cranes back off her to reveal the whole built hero-world.
+- **HERO FRAME (Frame 3):** she reads clearly as the hero in the finished plinth-world (closer presenting beat before the pull-out, serene triumphant smile). The other frames keep the building set present — room on the sides, top and bottom.
+- **Footing:** poised planted couture stance — real weight; the set builds around her.
 
 ---
-### FRAME 1 — STUDIO VOID + BOTTLE
-**Frame angle:** ¾ front toward the plinth (~30°), clean bright studio light.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **¾ front (~30°)**. · Outfit: champagne-gold liquid-satin couture column gown + architectural shoulder drape. · Headwear: none. · Accessories: gold ear-cuff, thin bangle. · Eye colour: amber-hazel. · Makeup: luxe glossy, gold-nude lip. · Hair: sculptural sleek low chignon. · Footwear: champagne-gold heels. · Nails: glossy nude-gold. · static & neutral, plain blank background.
-**STILL 2 · @PRODUCT (plain bg):** the hero product bottle — a sculptural champagne-gold flacon, faceted glass, a polished cap, brand-clean; a crisp isolated product render. Plain blank background.
-**STILL 3 · ENVIRONMENT:** a clean infinite studio void — soft seamless light, a single reflective plinth, the floor a faint mirror; ¾-front vantage toward the plinth.
+### FRAME 1 — STUDIO VOID + BOTTLE (trick shot · slow orbit)
+**Frame angle:** ¾ front toward the plinth (~30°, slow orbit), clean bright studio light.
+**ENVIRONMENT still (the only per-frame environment ingredient):** a clean infinite studio void — soft seamless light, a single reflective plinth, the floor a faint mirror; ¾-front vantage toward the plinth. *(Animate `@subject` beside the plinth as `@product` begins to pour and rise.)*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* MEDIUM/full, **one continuous slow hero push-in.** [00:00–00:02] she stands poised beside the reflective plinth in the clean studio void, the hero bottle (`@product`) catching the soft light. [00:02–00:04] she extends a graceful hand toward `@product` and a glossy liquid begins to pour and rise from the bottle, catching the light. [00:04–00:06] the liquid climbs and begins forming structure around her as the void starts to build into a set. Real-time, real glossy fluid physics, premium, no cheap cartoon sparkle; 9:16.
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact face/identity — animate only gaze + soft expression: a poised, composed anticipation.
+- *Animation:* MEDIUM/full, **one continuous slow orbit around her and the plinth — the slow-orbit trick.** [00:00–00:02] she stands poised beside the reflective plinth in the clean studio void, the camera orbiting slowly, the hero bottle (`@product`) catching the soft light. [00:02–00:04] she extends a graceful hand toward `@product` and a glossy liquid begins to pour and rise from the bottle, catching the light as the orbit continues. [00:04–00:06] the liquid climbs and begins forming structure around her as the void starts to build into a set. Real-time, real glossy fluid physics, premium, no cheap cartoon sparkle; 9:16.
 - *AUDIO (in-frame):* ambient/object — a clean studio hush, a soft glossy liquid beginning to pour and rise, a faint chime as it catches the light; voice — a soft poised breath from Aira.
-**→ Cut (match-on-action) to Frame 2 — the liquid sets into architecture and blooms.**
+**→ Cut (match-on-action) to Frame 2 — the liquid sets into architecture and blooms (the liquid-light-caustics element).**
 
 ---
-### FRAME 2 — LIQUID ARCHITECTURE → BLOOM SET (signature)
+### FRAME 2 — LIQUID ARCHITECTURE → BLOOM SET (magical element · liquid-light caustics, used once)
 **Frame angle:** ¾ turning (~40°, slow orbit), rich warm set light.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **¾ turning (~40°)**. · Outfit: champagne-gold couture gown + shoulder drape. · Headwear: none. · Accessories: gold ear-cuff, bangle. · Eye colour: amber-hazel. · Makeup: luxe glossy, gold-nude lip. · Hair: sleek low chignon. · Footwear: champagne-gold heels. · Nails: glossy nude-gold. · static & neutral, plain blank background.
-**STILL 2 · @PRODUCT (plain bg):** the hero bottle — same sculptural champagne-gold flacon, clean isolated render. Plain blank background.
-**STILL 3 · ENVIRONMENT:** the liquid has built a glossy reflective architecture set — sweeping liquid-gold columns and arcs — which then blooms: real flowers and foliage growing from the liquid forms, warm rich light; ¾ orbit vantage.
+**ENVIRONMENT still (the only per-frame environment ingredient):** the liquid has built a glossy reflective architecture set — sweeping liquid-gold columns and arcs — which then blooms: real flowers and foliage growing from the liquid forms, warm rich light; ¾ orbit vantage. *The concept's single element flourish lands here.* *(Animate the set building/blooming from `@product` around `@subject`.)*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* WIDE, **one continuous slow orbit around her** as the world builds and blooms from `@product`. [00:00–00:02] the glossy liquid sets into sweeping liquid-gold architecture columns rising around her, reflective and rich. [00:02–00:04] the signature peaks — real flowers and foliage bloom out of the liquid forms, the architecture flowering into a lush set, warm light deepening; she sweeps an arm up to it. [00:04–00:06] the orbit settles to her front as the bloom-set begins crystallising toward a grand hero plinth-world. Real-time, real liquid-to-architecture + real blooming, premium, no floaty nonsense; 9:16.
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact identity — wondering delight, a soft "oh".
+- *Animation:* WIDE, **one continuous slow orbit around her** as the world builds and blooms from `@product`. [00:00–00:02] the glossy liquid sets into sweeping liquid-gold architecture columns rising around her, reflective and rich. [00:02–00:04] the **element** plays — real liquid-light caustics ripple and dance across her gown and the columns as real flowers and foliage bloom out of the liquid forms, the architecture flowering into a lush set; she sweeps an arm up to it. [00:04–00:06] the orbit settles to her front as the bloom-set begins crystallising toward a grand hero plinth-world. Real-time, real liquid-to-architecture + real blooming + true caustics, premium, no floaty nonsense; 9:16.
 - *AUDIO (in-frame):* ambient/object — liquid setting into architecture with a smooth resonant tone, real blossoms unfurling with soft rustles, a warm swell of air; voice — Aira's wondering breath and a soft delighted "oh" as it blooms.
-**→ Cut (match-on-action) to Frame 3 — the set crystallises into the grand hero plinth-world.**
+**→ Cut (match-on-action) to Frame 3 — the set crystallises into the grand hero plinth-world (her hero beat).**
 
 ---
-### FRAME 3 — HERO PLINTH-WORLD (loop)
-**Frame angle:** ¾ presenting, turning to front (~30°, crane pull-back), deep glowing luxe light.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **¾ presenting → front (~30°)**. · Outfit: champagne-gold couture gown + shoulder drape. · Headwear: none. · Accessories: gold ear-cuff, bangle. · Eye colour: amber-hazel. · Makeup: luxe glossy, gold-nude lip. · Hair: sleek low chignon. · Footwear: champagne-gold heels. · Nails: glossy nude-gold. · static & neutral, plain blank background.
-**STILL 2 · @PRODUCT (plain bg):** the hero bottle — same champagne-gold flacon, clean isolated render (it will crown the plinth). Plain blank background.
-**STILL 3 · ENVIRONMENT:** the world fully built — a grand crystalline hero set of liquid-gold architecture and blossom, a central plinth with the hero bottle crowning it, deep glowing luxe light; ¾ vantage with crane reveal.
+### FRAME 3 — HERO PLINTH-WORLD (HERO frame · trick: reverse pull-out hero reveal · loop)
+**Frame angle:** ¾ presenting, turning to front (~30°, closer) then a reverse pull-out crane, deep glowing luxe light — her hero beat then the world reveals.
+**ENVIRONMENT still (the only per-frame environment ingredient):** the world fully built — a grand crystalline hero set of liquid-gold architecture and blossom, a central plinth with the hero bottle crowning it, deep glowing luxe light; ¾ vantage with room for the reverse crane reveal. *(Animate `@subject` presenting as `@product` crowns the plinth, then the camera reverses out.)*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* WIDE/full, **one continuous slow crane pull-back to reveal the whole hero-world.** [00:00–00:02] the set crystallises into a grand crystalline hero-world of liquid-gold architecture and blossom, the bottle crowning the central plinth in deep glowing light. [00:02–00:04] she presents an open hand toward the crowning `@product` then turns a serene triumphant smile to lens, the world she authored glowing around her. [00:04–00:06] the camera cranes back to reveal the full hero-world built entirely from the bottle — easing toward the clean studio void of the opening for a loop. Real-time, real crystallising materials, premium; 9:16.
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact identity — a serene triumphant smile, her hero moment.
+- *Animation:* MEDIUM (closer) **easing into a reverse pull-out crane to reveal the whole hero-world — the reverse-pull-out trick.** [00:00–00:02] the set crystallises into a grand crystalline hero-world of liquid-gold architecture and blossom, the bottle crowning the central plinth in deep glowing light — her hero moment. [00:02–00:04] she presents an open hand toward the crowning `@product` then turns a serene triumphant smile to lens, the world she authored glowing around her. [00:04–00:06] the camera reverses and cranes back to reveal the full hero-world built entirely from the bottle — easing toward the clean studio void of the opening for a loop. Real-time, real crystallising materials, premium; 9:16. (Hero beat then reverse pull-out — the authored world vast around her.)
 - *AUDIO (in-frame):* ambient/object — the set crystallising with a soft glassy shimmer-settle, a deep resonant bloom, a gentle hush; voice — Aira's serene satisfied breath and a soft proud exhale.
 **→ Loops back to Frame 1 (the studio void + bottle).**
 
-**Stills to generate:** 3 per frame × 3 frames = 9 (Subject + @product + Environment-set-state). Score = 18s MASTER AUDIO under the diegetic.
+**Stills to generate:** **`@subject` (1) + `@product` (1) + 3 ENVIRONMENT set-state stills = 5 total** — surreal-build exception: subject & product rendered once and reused; only the environment (the next set-state built from the bottle) + video prompt change per frame. The product authors the world (studio void → liquid architecture/bloom → hero plinth-world); liquid-light-caustics element in Frame 2; slow-orbit trick in Frame 1 + reverse pull-out hero reveal in Frame 3; hero beat in Frame 3. Score = 18s MASTER AUDIO under the diegetic.
 
 ═══════════════════════════════════════════════════════════════════════════════
 
