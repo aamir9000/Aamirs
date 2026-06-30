@@ -626,10 +626,10 @@ diegetic — no spoken line; optional wordless warm vocal on the festival only.
 ═══════════════════════════════════════════════════════════════════════════════
 
 # SC-31 · CITY TOPDECK (Open-Top Bus) · 4 shots × 6s
-**Logline:** A bright sightseeing ride up top — down a grand boulevard → into a landmark square → along a leafy
-park avenue → over a river bridge. Signature: a pigeon-burst lifting + ticker-tape leaves swirling + sun-glints
-off glass. Breezy, joyful, city-chic. Several exterior "see the bus in the city" shots.
-**Arc:** EXTERIOR · GRAND BOULEVARD → LANDMARK SQUARE → PARK AVENUE → RIVER BRIDGE (signature).
+**Logline:** A bright sightseeing ride up top through one city — down a grand boulevard, around a landmark square,
+along a leafy park avenue, over a river bridge. One city, toured through. Breezy, joyful, city-chic — with exterior
+"see the bus in the city" shots.
+**Arc (one place, travelled through):** GRAND BOULEVARD (trick) → LANDMARK SQUARE (trick) → PARK AVENUE (element) → RIVER BRIDGE (hero · loop).
 
 ## MASTER AUDIO (outside the frames — background music)
 A 24-second custom cinematic score (4 clips × 6s) in self-resolving ~6-second phrases, trimmable at any phrase
@@ -638,62 +638,56 @@ warm sub — breezy, joyful, city-chic. Opens (no fade-in) on a bright piano-and
 boulevard open, a grand square lull, a leafy avenue lift, then a soaring river-bridge resolve for an invisible
 loop. Laid UNDER the diegetic — no spoken line; optional wordless bright vocal on the river bridge only.
 
-## GLOBAL STYLE LOCKS
-- **Outfit:** a classic camel trench coat (open) over a crisp white tee and tailored cream trousers.
-- **Headwear:** a black wool beret, oversized tortoiseshell sunglasses. **Accessories:** a printed silk scarf, a structured tan tote, gold studs. **Eye colour:** warm amber-hazel. **Makeup:** chic daytime — luminous skin, soft mascara, a classic red lip. **Hair:** a sleek glossy blunt lob. **Footwear:** white leather loafers. **Nails:** glossy soft red.
-- **Hero object:** a classic red open-top double-decker bus — gleaming red, a curved staircase, an open upper deck with rows of seats, route-board.
-- **Signature (grounded):** a burst of city pigeons lifts as the bus passes, ticker-tape leaves and confetti-bits swirl in its draft, and sun-glints flash off the glass towers. Real bird + paper + light physics.
-- **Journey + light:** bright sunny city all the way — grand boulevard → monumental landmark square → leafy green park avenue → sparkling river bridge. *(Exterior shots = camera OFF the bus, she small on the top deck; deck shots = real open-air breeze.)*
+## INGREDIENTS + LOCKS (generate `@subject` & `@object` ONCE — reuse them in every frame)
+- **`@subject` — render ONCE, reuse every frame** (neutral, full body, plain blank bg): `Aira [identity placeholder]` styled as — **Outfit:** classic open camel trench coat over a crisp white tee + tailored cream trousers · **Headwear:** black wool beret + oversized tortoiseshell sunglasses · **Accessories:** printed silk scarf, a structured tan tote, gold studs · **Eye colour:** warm amber-hazel · **Makeup:** chic daytime, soft mascara, classic red lip · **Hair:** sleek glossy blunt lob · **Footwear:** white leather loafers · **Nails:** glossy soft red.
+- **`@object` — render ONCE, reuse every frame** (plain blank bg): a classic red open-top double-decker bus — gleaming red, a curved staircase, an open upper deck with rows of seats, route-board.
+- **THE PLACE (ONE city, toured THROUGH):** a single sunny city — a grand glass-and-stone boulevard, a monumental landmark square, a leafy green park avenue, and a grand river bridge with a famous skyline; bright sunny day throughout. The bus **tours through it** across the four frames, so each ENVIRONMENT still is the next part of the same city at its own angle. *(Exterior frames = camera OFF the bus, she small on the deck; deck = real open-air breeze. Pigeon-bursts are the city's own natural detail.)*
+- **MAGICAL ELEMENT (used ONCE — Frame 3 only):** **drifting ticker-tape leaves and confetti-bits** swirl up in the bus's draft down the leafy avenue (real paper/leaf + air physics). No other frame carries an element.
+- **TRICK SHOTS (×2 — Frames 1 & 2, never the element's frame):** Frame 1 = **exterior high-aerial** establishing of the little red bus threading the city; Frame 2 = **glass-tower reflection** (the red bus and her at the rail mirrored in a glass facade).
+- **HERO FRAME (Frame 4):** she reads clearly as the hero on the river bridge (closer, rising at the rail, arms wide, radiant) before the skyline reveal. Every other frame keeps her small with the city dominant — room on the sides, top and bottom.
+- **Footing:** she rides the open top deck — seated/standing at the rail, real open-air breeze.
 
 ---
-### FRAME 1 — EXTERIOR · GRAND BOULEVARD
-**Frame angle:** WIDE high aerial (~45° down, world-dominant), bright sunny morning, glassy reflections.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, seated **¾ on the open top deck** (she reads small in the exterior frame). · Outfit: open camel trench + white tee + cream trousers. · Headwear: black beret + oversized sunglasses. · Accessories: silk scarf, tan tote, gold studs. · Eye colour: amber-hazel. · Makeup: chic daytime, red lip. · Hair: sleek blunt lob. · Footwear: white loafers. · Nails: soft red. · static & neutral, plain blank background.
-**STILL 2 · OBJECT (plain bg):** the red open-top double-decker bus at **side ¾** — gleaming red, curved stair, open upper deck, route-board. Clean, isolated, plain blank background.
-**STILL 3 · ENVIRONMENT:** a grand sunny city boulevard — wide avenue, glass-and-stone facades, plane trees, flags, traffic and crowds; WIDE high aerial vantage (the bus rolls through it, world dominant).
+### FRAME 1 — GRAND BOULEVARD (trick shot · exterior high-aerial establishing)
+**Frame angle:** WIDE high aerial (~45° down, world-dominant), bright sunny morning, glassy reflections — the bus small.
+**ENVIRONMENT still (the only per-frame ingredient):** a grand sunny city boulevard — wide avenue, glass-and-stone facades, plane trees, flags, traffic and crowds; WIDE high aerial vantage (world-dominant, big negative space). *(Animate `@object` rolling through, `@subject` a small figure on the open top deck.)*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move (she's a small bright figure on the top deck).
-- *Animation:* WIDE high aerial, **one continuous slow track following the bus down the boulevard.** [00:00–00:02] the red double-decker rolls down the grand sunny boulevard between glass facades, plane trees flicking past, tiny crowds below. [00:02–00:04] the signature reads — a burst of pigeons lifts in its draft and sun-glints flash off the towers; on the open top deck her small bright figure tips her face to the sun, scarf rippling. [00:04–00:06] the bus rolls on toward a monumental landmark square. Real-time, believable bus motion + real pigeon-burst; 9:16. (Environment-dominant wide.)
-- *AUDIO (in-frame):* ambient/object — the diesel rumble of the bus, city traffic and a horn, pigeons clattering up, breeze; voice — (slight distance) Aira's bright "woohoo!" carried from the top deck.
-**→ Cut (match-on-action) to Frame 2 — the bus swings into the landmark square.**
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact face/identity — a small bright figure tipping her face to the sun; a soft delight reads.
+- *Animation:* WIDE high aerial, **one continuous slow track — the exterior establishing trick.** [00:00–00:02] the red double-decker rolls down the grand sunny boulevard between glass facades, plane trees flicking past, tiny crowds below. [00:02–00:04] a burst of city pigeons lifts in its draft and sun-glints flash off the towers; on the open deck her small figure tips her face to the sun, scarf rippling. [00:04–00:06] the bus rolls on toward a landmark square. Real-time, believable bus motion + real pigeon-burst; 9:16. (Environment-dominant — bus small, negative space all around.)
+- *AUDIO (in-frame):* ambient/object — the diesel rumble, city traffic and a horn, pigeons clattering up, breeze; voice — (slight distance) Aira's bright "woohoo!" from the deck.
+**→ Cut (match-on-action) to Frame 2 — the bus swings into the landmark square (the glass-reflection trick).**
 
 ---
-### FRAME 2 — LANDMARK SQUARE
-**Frame angle:** low ¾ front from the top-deck front seats (~30°, deck-level), grand bright light.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **low ¾ front (~30°)** at the deck rail. · Outfit: open camel trench + white tee + trousers. · Headwear: beret + sunglasses (up on hair). · Accessories: silk scarf, tote, studs. · Eye colour: amber-hazel. · Makeup: chic daytime, red lip. · Hair: sleek blunt lob. · Footwear: white loafers. · Nails: soft red. · static & neutral, plain blank background.
-**STILL 2 · OBJECT (plain bg):** the bus's open top-deck front detail — front rail, rows of seats, route-board, at **¾**. Clean, isolated, plain blank background.
-**STILL 3 · ENVIRONMENT:** a monumental landmark square — a grand column or fountain, classical facades, flags and crowds, plane trees, bright sun; low ¾-front deck-level vantage over the rail.
+### FRAME 2 — LANDMARK SQUARE (trick shot · glass-tower reflection)
+**Frame angle:** ¾ catching a glass facade, grand bright light — the bus + her mirrored in the glass.
+**ENVIRONMENT still (the only per-frame ingredient):** a monumental landmark square — a grand column or fountain, classical and **glass facades**, flags and crowds, plane trees, bright sun; ¾ vantage where a glass facade mirrors the street. *(Animate `@object` circling, `@subject` at the deck rail — both caught in the glass reflection.)*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* MEDIUM low ¾ front, **one continuous slow track-with as the bus circles the square.** [00:00–00:02] she sits at the front rail of the top deck as the bus swings around the grand landmark square, the monument sliding past. [00:02–00:04] she pushes the sunglasses up and points to the landmark with a delighted grin, leaves swirling up in the draft. [00:04–00:06] the bus rolls off down a leafy park avenue. Real-time, believable open-air deck ride; 9:16.
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact identity — animate only gaze + soft expression: a delighted grin as she points.
+- *Animation:* MEDIUM ¾, **one continuous track — the glass-reflection trick.** [00:00–00:02] the bus swings around the grand square, the monument sliding past, a tall **glass facade mirroring the red bus and her** at the rail. [00:02–00:04] she pushes the sunglasses up and points to the landmark with a delighted grin, her reflection gliding across the glass. [00:04–00:06] the bus rolls off down a leafy park avenue. Real-time, believable open-air deck ride + real glass reflection; 9:16.
 - *AUDIO (in-frame):* ambient/object — the bus engine and brakes, square crowd and a busker, fluttering flags, pigeons; voice — Aira's excited "look — there it is!" and a bright laugh.
-**→ Cut (match-on-action) to Frame 3 — the bus glides down the park avenue.**
+**→ Cut (match-on-action) to Frame 3 — the bus glides down the park avenue (the leaf-swirl element).**
 
 ---
-### FRAME 3 — PARK AVENUE
+### FRAME 3 — PARK AVENUE (magical element · ticker-tape leaves, used once)
 **Frame angle:** full profile (true side, parallel track), dappled leafy-green light.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, in **full profile** at the rail. · Outfit: open camel trench + white tee + trousers. · Headwear: beret + sunglasses. · Accessories: silk scarf, tote, studs. · Eye colour: amber-hazel. · Makeup: chic daytime, red lip. · Hair: sleek blunt lob. · Footwear: white loafers. · Nails: soft red. · static & neutral, plain blank background.
-**STILL 2 · OBJECT (plain bg):** the red double-decker in **full profile** — full side, open top deck, curved stair, route-board. Clean, isolated, plain blank background.
-**STILL 3 · ENVIRONMENT:** a leafy green park avenue — an arching plane-tree canopy, dappled light, joggers and dog-walkers, railings and lawns; profile vantage along the avenue.
+**ENVIRONMENT still (the only per-frame ingredient):** a leafy green park avenue — an arching plane-tree canopy, dappled light, joggers and dog-walkers, railings and lawns; profile vantage along the avenue. *The concept's single element lands here.*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* MEDIUM profile, **one continuous parallel track at the bus's pace down the avenue.** [00:00–00:02] the bus glides down the leafy avenue, the plane-tree canopy arching overhead, dappled light flickering over the deck. [00:02–00:04] she leans back and reaches up as ticker-tape leaves swirl past in the draft, catching one with a soft delighted smile, light dappling her face. [00:04–00:06] the avenue opens toward a sparkling river bridge ahead. Real-time, believable bus motion + real leaf-swirl; 9:16. (Avenue + bus share the frame.)
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact identity — animate only gaze + soft expression: a soft delighted smile as she catches a leaf.
+- *Animation:* MEDIUM profile, **one continuous parallel track at the bus's pace down the avenue.** [00:00–00:02] the bus glides down the leafy avenue, the plane-tree canopy arching overhead, dappled light flickering over the deck. [00:02–00:04] the **element** — ticker-tape leaves and confetti-bits swirl up in the bus's draft; she leans back and reaches up to catch one with a soft delighted smile. [00:04–00:06] the avenue opens toward a sparkling river bridge. Real-time, believable bus motion + real leaf-swirl; 9:16. (Avenue + bus share the frame.)
 - *AUDIO (in-frame):* ambient/object — the bus rumble softened, leaves rustling overhead, park birds, a distant dog; voice — Aira's soft "ooh" and a content laugh.
-**→ Cut (match-on-action) to Frame 4 — the bus climbs onto the river bridge.**
+**→ Cut (match-on-action) to Frame 4 — the bus climbs onto the river bridge (her hero beat).**
 
 ---
-### FRAME 4 — RIVER BRIDGE (signature · loop)
-**Frame angle:** low-hero ¾ opening to front (~30°, crane pull-back), sparkling river light.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **low-hero ¾ (~30°)** standing at the rail. · Outfit: open camel trench + white tee + trousers. · Headwear: beret + sunglasses. · Accessories: silk scarf, tote, studs. · Eye colour: amber-hazel. · Makeup: chic daytime, red lip. · Hair: sleek blunt lob. · Footwear: white loafers. · Nails: soft red. · static & neutral, plain blank background.
-**STILL 2 · OBJECT (plain bg):** the red double-decker at **low-hero ¾** — heroic angle on the bridge, open top deck, gleaming red. Clean, isolated, plain blank background.
-**STILL 3 · ENVIRONMENT:** a grand river bridge in bright sun — ornate lamp-posts and balustrades, a sparkling river below, a famous skyline beyond, boats and gulls; low-hero ¾ vantage with crane reveal.
+### FRAME 4 — RIVER BRIDGE (HERO · loop)
+**Frame angle:** low-hero ¾ opening to a crane pull-back, sparkling river light — closer hero, then skyline reveal.
+**ENVIRONMENT still (the only per-frame ingredient):** a grand river bridge in bright sun — ornate lamp-posts and balustrades, a sparkling river below, a famous skyline beyond, boats and gulls; low-hero ¾ vantage with crane reveal. *(Animate `@subject` rising at the deck rail of `@object`.)*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* WIDE low-hero, **one continuous slow crane pull-back to reveal the bridge and skyline.** [00:00–00:02] the bus climbs onto the grand river bridge, the sparkling river and skyline opening wide, she rising at the rail. [00:02–00:04] the signature peaks — pigeons lift, ticker-tape leaves swirl and sun-glints flash off the water and towers; she throws her arms wide to the city with a radiant laugh. [00:04–00:06] the camera cranes back to reveal the whole bridge, river and skyline around the little red bus — easing toward the boulevard opening for a loop. Real-time, believable bus motion + real birds/glints; 9:16.
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact identity — animate only gaze + soft expression: a **radiant, exhilarated, arms-wide laugh** — her hero beat.
+- *Animation:* WIDE low-hero, **one continuous slow crane pull-back to reveal the bridge and skyline.** [00:00–00:02] the bus climbs onto the grand river bridge, the sparkling river and skyline opening wide, she rising at the rail. [00:02–00:04] she throws her arms wide to the city with a radiant laugh, sun-glints flashing off the water and towers — her hero moment. [00:04–00:06] the camera cranes back to reveal the whole bridge, river and skyline around the little red bus — easing toward the boulevard opening for a loop. Real-time, believable bus motion + real glints; 9:16. (Hero framing — closer, then the city reveals around her.)
 - *AUDIO (in-frame):* ambient/object — the bus on the bridge, the river and a boat-horn, gulls, wind over the deck; voice — Aira's exhilarated "woohoo — look at the city!" and a delighted laugh.
 **→ Loops back to Frame 1 (the grand boulevard).**
 
-**Stills to generate:** 3 per frame × 4 frames = 12 (exterior frames: world+bus lead, she small on the deck). Score = 24s MASTER AUDIO under the diegetic.
+**Stills to generate:** **`@subject` (1) + `@object` (1) + 4 ENVIRONMENT stills = 6 total** — subject & object rendered once and reused; only environment + video prompt change per frame. ONE city toured through (boulevard → square → avenue → bridge); ticker-tape-leaves element in Frame 3 only; trick shots in Frames 1 (exterior aerial) & 2 (glass reflection); hero beat in Frame 4. Score = 24s MASTER AUDIO under the diegetic.
 
 ═══════════════════════════════════════════════════════════════════════════════
 
