@@ -1034,3 +1034,153 @@ loop. Laid UNDER the diegetic — no spoken line; optional wordless bright vocal
 **→ Loops back to Frame 1 (the treetop launch).**
 
 **Stills to generate:** 3 per frame × 4 frames = 12. Score = 24s MASTER AUDIO under the diegetic.
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+# SC-36 · SNOW RUN (Toboggan) · 4 shots × 6s
+**Logline:** A bluebird sledging dash — down a sparkling snow slope → weaving through pines → over a little jump →
+to a snug village stop. Signature: a snow-plume flaring off the runners + sun-sparkle + airborne ice-glitter.
+Playful, giddy, joyful.
+**Arc:** SNOW SLOPE → PINE WEAVE → THE JUMP → VILLAGE STOP (signature).
+
+## MASTER AUDIO (outside the frames — background music)
+A 24-second custom cinematic score (4 clips × 6s) in self-resolving ~6-second phrases, trimmable at any phrase
+boundary. Built on a giddy pizzicato, bright bells and glockenspiel, warm strings, bouncy percussion and a warm
+sub — playful, giddy, joyful. Opens (no fade-in) on a giddy pizzicato figure. Arc: a launching slope open, a
+weaving pine lull, an airborne jump lift, then a cosy village resolve for an invisible loop. Laid UNDER the
+diegetic — no spoken line; optional wordless bright vocal on the village stop only.
+
+## GLOBAL STYLE LOCKS
+- **Outfit:** a mustard-and-red retro snowsuit (mustard body, red panels), padded and sleek.
+- **Headwear:** a furry cream trapper hat with a red pom and ear-flaps, a cream chunky scarf. **Accessories:** red knit mittens, a slim red belt. **Eye colour:** warm amber-hazel. **Makeup:** crisp winter glow — luminous skin, a cold-flush, a glossy red lip. **Hair:** two low looped buns (odango) under the hat with soft face-framing wisps. **Footwear:** cream-and-red snow boots. **Nails:** glossy red (under mittens).
+- **Hero object:** a classic wooden toboggan — varnished slats, curved front, a pull-rope and steel runners.
+- **Signature (grounded):** a bright snow-plume flares off the runners, sun-sparkle dances on the snow, and fine ice-glitter hangs in her wake. Real snow + light physics.
+- **Journey + light:** brilliant bluebird snow all the way — open sparkling slope → cool pine-shaded weave → bright airborne jump → warm snug village. *Footing: she rides the toboggan — leaning to steer, gripping the front, real sled physics.*
+
+
+---
+### FRAME 1 — SNOW SLOPE
+**Frame angle:** high aerial ¾ (~45° down, world-dominant), brilliant bluebird side-light.
+**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **high aerial ¾**. · Outfit: mustard-and-red retro snowsuit. · Headwear: furry cream trapper hat w/ red pom + cream scarf. · Accessories: red mittens, red belt. · Eye colour: amber-hazel. · Makeup: winter glow, red lip. · Hair: two low looped buns. · Footwear: cream-and-red snow boots. · Nails: glossy red. · static & neutral, plain blank background.
+**STILL 2 · OBJECT (plain bg):** the wooden toboggan at **high aerial ¾** — varnished slats, curved front, pull-rope, steel runners. Clean, isolated, plain blank background.
+**STILL 3 · ENVIRONMENT:** a wide sparkling snow slope — pristine bluebird-lit powder, a far snow-laden pine band, deep blue sky, distant peaks; high aerial ¾ vantage (world dominant).
+**VIDEO PROMPT:**
+- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
+- *Animation:* WIDE high aerial establishing, **one continuous slow track following her sled down the slope.** [00:00–00:02] she pushes off and the toboggan accelerates down the sparkling slope, tiny in the open white sweep, snow hissing past the runners. [00:02–00:04] the signature stirs — a bright snow-plume flares off the runners and ice-glitter hangs in her wake; she leans into the speed with a giddy wide grin. [00:04–00:06] she steers toward a band of pines below. Real-time, believable sled acceleration + real snow-plume; 9:16. (Environment-dominant wide.)
+- *AUDIO (in-frame):* ambient/object — the hiss and rumble of runners on snow, wind rushing, a creak of the wood; voice — Aira's giddy "woohoo!" and a bright laugh.
+**→ Cut (match-on-action) to Frame 2 — she weaves the sled into the pines.**
+
+---
+### FRAME 2 — PINE WEAVE
+**Frame angle:** low ¾ front (~30° left, ground-level track-with), cool pine-shaded light.
+**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **low ¾ front (~30° left)**. · Outfit: mustard-and-red snowsuit. · Headwear: trapper hat + scarf. · Accessories: red mittens, belt. · Eye colour: amber-hazel. · Makeup: winter glow, red lip. · Hair: two low looped buns. · Footwear: snow boots. · Nails: glossy red. · static & neutral, plain blank background.
+**STILL 2 · OBJECT (plain bg):** the wooden toboggan at **low ¾ front** — curved front foremost, slats, runners. Clean, isolated, plain blank background.
+**STILL 3 · ENVIRONMENT:** a snow-laden pine glade run — tall frosted pines flanking a powdery track, cool blue shade, a glittering light-shaft, soft mounds; low ground-level ¾-front vantage.
+**VIDEO PROMPT:**
+- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
+- *Animation:* MEDIUM, **one continuous low ground-level track weaving with the sled between the pines.** [00:00–00:02] she steers the toboggan into the pine glade, leaning to weave between the frosted trunks, powder feathering up. [00:02–00:04] she ducks a low snowy bough that showers glittering snow through a light-shaft; she laughs with a delighted grin, leaning into a turn. [00:04–00:06] she lines the sled up toward a little jump ahead. Real-time, believable lean-steering + real powder; 9:16.
+- *AUDIO (in-frame):* ambient/object — runners swishing through powder, snow pattering off a branch, muffled forest hush; voice — Aira's delighted "whoa!" and a bright laugh.
+**→ Cut (match-on-action) to Frame 3 — the sled hits the jump and goes airborne.**
+
+
+---
+### FRAME 3 — THE JUMP
+**Frame angle:** full profile (true side, parallel track), bright airborne light.
+**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, in **full profile**. · Outfit: mustard-and-red snowsuit. · Headwear: trapper hat + scarf. · Accessories: red mittens, belt. · Eye colour: amber-hazel. · Makeup: winter glow, red lip. · Hair: two low looped buns. · Footwear: snow boots. · Nails: glossy red. · static & neutral, plain blank background.
+**STILL 2 · OBJECT (plain bg):** the wooden toboggan in **full profile** — full side, curved front, runners, pull-rope. Clean, isolated, plain blank background.
+**STILL 3 · ENVIRONMENT:** a little snow jump on the open slope — a natural lip of packed snow, the valley dropping below, blazing sun, peaks beyond; profile vantage at the jump.
+**VIDEO PROMPT:**
+- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
+- *Animation:* MEDIUM profile, **one continuous parallel track at her speed over the jump.** [00:00–00:02] the toboggan races up the snow lip and launches off the jump, runners leaving the snow, the valley dropping below. [00:02–00:04] she catches a beat of airtime — the signature peaking as a big snow-plume and ice-glitter burst off the lip and hang in the sun; she squeals with a thrilled open grin, gripping the front. [00:04–00:06] the sled lands clean and races on toward the village. Real-time, believable jump + landing + real snow-burst; 9:16. (Slope + sky share the frame.)
+- *AUDIO (in-frame):* ambient/object — the whoosh off the lip, a beat of wind-rush, the thump of landing, snow spraying; voice — Aira's thrilled "wheee!" and a delighted shriek-laugh.
+**→ Cut (match-on-action) to Frame 4 — the sled glides into the village stop.**
+
+---
+### FRAME 4 — VILLAGE STOP (signature · loop)
+**Frame angle:** low-hero ¾ opening to front (~30°, crane pull-back), warm snug village light.
+**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **low-hero ¾ (~30°)**. · Outfit: mustard-and-red snowsuit. · Headwear: trapper hat + scarf. · Accessories: red mittens, belt. · Eye colour: amber-hazel. · Makeup: winter glow, red lip. · Hair: two low looped buns. · Footwear: snow boots. · Nails: glossy red. · static & neutral, plain blank background.
+**STILL 2 · OBJECT (plain bg):** the wooden toboggan at **low-hero ¾** — at rest in the snow, pull-rope draped, runners glinting. Clean, isolated, plain blank background.
+**STILL 3 · ENVIRONMENT:** a snug alpine village edge in warm low light — timber chalets with glowing windows, snow-laden roofs, a little frozen fountain, fairy-lights, peaks behind; low-hero ¾ vantage with crane reveal.
+**VIDEO PROMPT:**
+- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
+- *Animation:* WIDE low-hero, **one continuous slow crane pull-back to reveal the village.** [00:00–00:02] the toboggan glides into the snug village edge and slows to a soft stop, a last snow-plume settling. [00:02–00:04] the signature settles — snow-sparkle and ice-glitter hang in the warm light; she hops off, throws her arms up and beams to lens, breath fogging. [00:04–00:06] the camera cranes back to reveal the whole glowing chalet village around her — easing toward the snow-slope opening for a loop. Real-time, believable sled stop + real snow; 9:16.
+- *AUDIO (in-frame):* ambient/object — the sled scraping to a stop, snow settling, village chatter and a chalet bell, her breath; voice — Aira's giddy breathless laugh and a warm "again!".
+**→ Loops back to Frame 1 (the snow slope).**
+
+**Stills to generate:** 3 per frame × 4 frames = 12. Score = 24s MASTER AUDIO under the diegetic.
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+# SC-37 · RIVER DRIFT (Riverboat) · 4 shots × 6s
+**Logline:** A sunny river cruise — around a misty river bend → past forested banks → through a pretty riverside
+town → out to a wide delta. Signature: dappled water-light + blossom and leaves drifting + paddle-wheel sparkle +
+clearing morning mist. Serene, nostalgic, sunny. Several exterior "see the boat on the river" shots.
+**Arc:** EXTERIOR · RIVER BEND (mist) → FORESTED BANKS → RIVERSIDE TOWN → WIDE DELTA (signature).
+
+## MASTER AUDIO (outside the frames — background music)
+A 24-second custom cinematic score (4 clips × 6s) in self-resolving ~6-second phrases, trimmable at any phrase
+boundary. Built on a warm banjo-and-guitar lilt, a soft clarinet, warm strings, a gentle paddle-wheel rhythm and a
+warm sub — serene, nostalgic, sunny. Opens (no fade-in) on a warm banjo figure. Arc: a misty river-bend open, a
+shaded forest lull, a lively riverside-town lift, then a wide serene delta resolve for an invisible loop. Laid
+UNDER the diegetic — no spoken line; optional wordless warm vocal on the delta only.
+
+## GLOBAL STYLE LOCKS
+- **Outfit:** a navy-and-white Breton-stripe sailor dress with a pleated skirt and a white collar.
+- **Headwear:** a white sailor cap with a navy band. **Accessories:** a red neckerchief, gold anchor studs, a small navy clutch. **Eye colour:** warm amber-hazel. **Makeup:** fresh sunny — luminous skin, a soft flush, a classic red lip. **Hair:** soft pin-up curls with a knotted red bandana at the crown. **Footwear:** white canvas deck shoes. **Nails:** glossy red.
+- **Hero object:** a charming paddle-wheel riverboat — a white-and-red double-deck steamer, a big rear paddle-wheel, a tall striped funnel, bunting and railings.
+- **Signature (grounded):** dappled water-light plays over the deck, blossom and leaves drift down onto the water, the paddle-wheel throws bright sparkle, and morning mist clears off the river. Real water + paddle + light physics.
+- **Journey + light:** sunny river all the way, mist clearing — misty river bend → cool forested banks → bright riverside town → wide golden delta. *(Exterior shots = camera OFF the boat, she small on deck; deck shots = gentle real sway.)*
+
+
+---
+### FRAME 1 — EXTERIOR · RIVER BEND (mist · signature)
+**Frame angle:** WIDE aerial / drone (world-dominant), soft misty morning light.
+**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, **¾ at the deck rail** (she reads small in the exterior frame). · Outfit: navy-white Breton sailor dress + white collar. · Headwear: white sailor cap, navy band. · Accessories: red neckerchief, anchor studs, navy clutch. · Eye colour: amber-hazel. · Makeup: sunny, red lip. · Hair: pin-up curls + red bandana. · Footwear: white deck shoes. · Nails: glossy red. · static & neutral, plain blank background.
+**STILL 2 · OBJECT (plain bg):** the white-and-red paddle-wheel riverboat at **side ¾** — double deck, rear paddle-wheel, striped funnel, bunting. Clean, isolated, plain blank background.
+**STILL 3 · ENVIRONMENT:** a misty river bend at dawn — a glassy river curving between soft-lit wooded hills, low mist on the water, reeds and a heron, pale gold sky; WIDE aerial vantage (the boat rounds the bend, world dominant).
+**VIDEO PROMPT:**
+- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move (she's a small bright figure on deck).
+- *Animation:* WIDE aerial, **one continuous slow drone track following the boat around the bend.** [00:00–00:02] the white-and-red riverboat rounds the misty bend, the paddle-wheel turning, mist parting off the glassy water, tiny between the wooded hills. [00:02–00:04] the signature reads — the paddle-wheel throws bright sparkle and the morning mist clears in its wake; on deck her small figure leans on the rail, waving. [00:04–00:06] the boat steams on toward forested banks. Real-time, believable boat motion + real paddle/mist; 9:16. (Environment-dominant wide.)
+- *AUDIO (in-frame):* ambient/object — the churn of the paddle-wheel, a low steam-whistle, water lapping, birdsong and a heron's call; voice — (slight distance) Aira's bright "good morning!" carried over the water.
+**→ Cut (match-on-action) to Frame 2 — cut to the deck along forested banks.**
+
+---
+### FRAME 2 — FORESTED BANKS
+**Frame angle:** low ¾ front at the deck rail (~30° left, deck-level), cool dappled forest light.
+**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **low ¾ front (~30° left)** at the rail. · Outfit: navy-white Breton sailor dress + collar. · Headwear: white sailor cap. · Accessories: red neckerchief, anchor studs, clutch. · Eye colour: amber-hazel. · Makeup: sunny, red lip. · Hair: pin-up curls + bandana. · Footwear: white deck shoes. · Nails: glossy red. · static & neutral, plain blank background.
+**STILL 2 · OBJECT (plain bg):** the riverboat deck detail — varnished rail, a brass bell, a lifebuoy, bunting, at **¾**. Clean, isolated, plain blank background.
+**STILL 3 · ENVIRONMENT:** cool forested river banks — overhanging trees trailing to the water, dappled green light, blossom drifting down, ducks and dragonflies; low ¾-front deck-level vantage over the rail.
+**VIDEO PROMPT:**
+- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
+- *Animation:* MEDIUM low ¾ front, **one continuous slow track-with as she stands at the rail under the trees.** [00:00–00:02] she leans on the deck rail as the boat drifts past cool forested banks, overhanging trees trailing close. [00:02–00:04] she reaches out as blossom and leaves drift down onto the water, catching one with a serene smile, dappled light playing over her. [00:04–00:06] the banks open toward a pretty riverside town. Real-time, gentle deck sway + real blossom-drift; 9:16.
+- *AUDIO (in-frame):* ambient/object — the soft paddle-churn, water against the hull, birdsong, leaves rustling; voice — a soft "mmm, lovely" and a gentle laugh from Aira.
+**→ Cut (match-on-action) to Frame 3 — the boat steams up to a riverside town.**
+
+
+---
+### FRAME 3 — RIVERSIDE TOWN
+**Frame angle:** full profile (true side, parallel track), bright lively town light.
+**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, in **full profile** at the rail. · Outfit: navy-white Breton sailor dress + collar. · Headwear: white sailor cap. · Accessories: red neckerchief, anchor studs, clutch. · Eye colour: amber-hazel. · Makeup: sunny, red lip. · Hair: pin-up curls + bandana. · Footwear: white deck shoes. · Nails: glossy red. · static & neutral, plain blank background.
+**STILL 2 · OBJECT (plain bg):** the paddle-wheel riverboat in **full profile** — full side, double deck, rear paddle-wheel, funnel, bunting. Clean, isolated, plain blank background.
+**STILL 3 · ENVIRONMENT:** a pretty riverside town — pastel waterfront houses, café terraces and a stone quay, an arched bridge, flower boxes, people waving; profile vantage along the waterfront.
+**VIDEO PROMPT:**
+- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
+- *Animation:* MEDIUM profile, **one continuous parallel track at the boat's pace along the waterfront.** [00:00–00:02] the riverboat steams past the pretty waterfront town, pastel houses and café terraces sliding by, an arched bridge ahead. [00:02–00:04] she waves brightly to children on the quay who wave back, the paddle-wheel sparkling, bunting fluttering; a warm laughing smile. [00:04–00:06] the boat passes under the bridge toward a wide delta. Real-time, believable boat motion + real waterfront parallax; 9:16. (Town + boat share the frame.)
+- *AUDIO (in-frame):* ambient/object — the paddle-churn and a cheerful steam-whistle, town chatter and a café tune, water; voice — Aira's bright "hello!" and a warm laugh to the children.
+**→ Cut (match-on-action) to Frame 4 — the boat steams out into the wide delta.**
+
+---
+### FRAME 4 — WIDE DELTA (signature · loop)
+**Frame angle:** low-hero ¾ opening to front (~30°, crane pull-back), wide golden delta light.
+**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **low-hero ¾ (~30°)** at the prow rail. · Outfit: navy-white Breton sailor dress + collar. · Headwear: white sailor cap. · Accessories: red neckerchief, anchor studs, clutch. · Eye colour: amber-hazel. · Makeup: sunny, red lip. · Hair: pin-up curls + bandana. · Footwear: white deck shoes. · Nails: glossy red. · static & neutral, plain blank background.
+**STILL 2 · OBJECT (plain bg):** the riverboat at **low-hero ¾** — heroic prow angle, double deck, paddle-wheel, funnel. Clean, isolated, plain blank background.
+**STILL 3 · ENVIRONMENT:** a wide sunlit river delta opening to the sea — the river broadening between golden reed-banks, sandbars and wheeling gulls, a glittering horizon, big warm sky; low-hero ¾ vantage with crane reveal.
+**VIDEO PROMPT:**
+- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
+- *Animation:* WIDE low-hero, **one continuous slow crane pull-back to reveal the wide delta.** [00:00–00:02] the boat steams out into the broad sunlit delta, the river opening wide between golden reed-banks, she standing at the prow rail. [00:02–00:04] the signature peaks — dappled water-light dances, blossom drifts past and the paddle-wheel sparkles in the warm light; she spreads her arms to the open river with a radiant serene smile. [00:04–00:06] the camera cranes back to reveal the whole glittering delta and sky around the little boat — easing toward the misty river-bend opening for a loop. Real-time, believable boat motion + real water/sparkle; 9:16.
+- *AUDIO (in-frame):* ambient/object — the steady paddle-churn, a long contented steam-whistle, gulls, wide-open water; voice — Aira's awed soft "wow…" and a warm happy sigh.
+**→ Loops back to Frame 1 (the misty river bend).**
+
+**Stills to generate:** 3 per frame × 4 frames = 12 (exterior frames: world+boat lead, she small on deck). Score = 24s MASTER AUDIO under the diegetic.
