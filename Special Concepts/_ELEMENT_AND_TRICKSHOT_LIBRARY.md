@@ -113,3 +113,61 @@ reflection, or as a hero reveal) while keeping the world present.*
 ## 🚫 NO-REPEAT ASSIGNMENT PRINCIPLE
 Across all 41: no PLACE-type, no ELEMENT, no TRICK-SHOT, and no HERO-frame-position+reveal combination repeats as a
 full set. Reuse of a broad category is fine only when its partners differ enough that the *beat* never reads twice.
+
+
+## 🗂 PER-CONCEPT v5 ASSIGNMENTS (unique element + theme-suitable trick(s) + hero frame · no collisions)
+*Each row = the PLACE (travelled through — every frame is the next stretch, shown in the ENVIRONMENT still + a new
+angle so Veo carries the travel) · ELEMENT@frame (once) · TRICK(S)@frame(s) · HERO@frame. Element frame ≠ trick frame.*
+*Goal: even where a library item recurs, place + palette + light + energy + framing + reveal make each reel feel wholly different.*
+
+### Volume 1
+- **SC-01 Petal Slipstream (bicycle)** · coastal town: boulevard→market lane→canal bridge→seafront · ELEMENT bokeh light-orbs off the canal @F3 · TRICK puddle mirror cross-through @F2 · HERO F1.
+- **SC-02 Riviera Drift (Vespa, 5)** · coast road to the sea: square→bougainvillea lane→sea-reveal switchback→quay→overlook · ELEMENT anamorphic sun-flare @F4 · TRICKS shop-window reflection @F2 + Vespa-mount POV @F3 · HERO F1.
+- **SC-03 Boardwalk Bloom (rollerblades)** · beachfront: promenade→pier→skate bowl→beach steps · ELEMENT vendor soap-bubble drift @F1 · TRICK god's-eye top-down on the bowl carve @F3 · HERO F2.
+- **SC-04 Golden Coast Cruise (convertible)** · sunset coast highway: highway→tree light-tunnel→cliff bridge→overlook · ELEMENT racing cloud-shadows @F3 · TRICKS windscreen-reflection over-shoulder @F1 + tree-tunnel rush @F2 · HERO F4.
+- **SC-06 Market Dash (run, 5)** · bazaar: flower→spice→fabric→fruit/lantern→fountain square · ELEMENT sun-caught spice-dust motes @F2 · TRICKS crowd-parting frame-within-frame @F3 + whip-pan @F4 · HERO F5.
+- **SC-07 Rooftop Run (parkour)** · rooftops: garden→laundry maze→water-tank deck→edge leap · ELEMENT pigeon-burst flock @F1 · TRICKS subject-POV @F2 + side-profile leap-arc + low gap @F4 · HERO F3.
+- **SC-08 Petal Promenade (editorial walk)** · blossom estate: avenue→colonnade→garden stairs→reflecting pool · ELEMENT cherry-blossom storm @F4 · TRICKS foliage-parting reveal @F1 + rack-focus blossom pull @F2 · HERO F3.
+- **SC-09 Puddle Symphony (rain-break)** · city plaza: wet plaza→arcade→fountain court→sun-break square · ELEMENT prism rainbow @F4 · TRICKS rain-on-glass reflection @F1 + wet-pavement mirror @F2 · HERO F3.
+- **SC-10 Lagoon Glide (paddleboard, 5)** · lagoon: open→mangrove→lotus field→sandbar→reef · ELEMENT lotus bloom opening @F3 · TRICKS split-level over/under water @F1 + god's-eye top-down @F2 · HERO F5.
+
+- **SC-11 Gondola Reverie (gondola)** · Venice route: side canals→under bridge→grand canal→lagoon mouth · ELEMENT rose petals drifting on the water @F3 · TRICKS water-mirror reflection reveal @F1 + under-the-bridge arch frame @F2 · HERO F4.
+- **SC-12 Freediver's Bloom (swim, 5)** · reef descent: surface→reef wall→coral garden→kelp cathedral→ascent · ELEMENT drifting jellyfish bloom @F4 · TRICKS split-level duck-dive @F1 + rising-through-surface boom @F5 · HERO F3.
+- **SC-13 Sky Bloom (hot-air balloon)** · dawn sky: meadow lift-off→over village→through a cloud→above clouds · ELEMENT sunrise ray-break @F4 · TRICKS crane-up lift reveal @F1 + aerial god's-eye look-down @F2 · HERO F3.
+- **SC-14 Alpine Ascent (cable-car/hike)** · mountain: cable-car rise→pine forest→cliff path→summit lake · ELEMENT a soaring eagle @F3 · TRICKS cable-car window frame @F1 + reverse pull-out summit reveal @F4 · HERO F2.
+- **SC-15 Kite Run (kite)** · windy coast: headland→dune ridge→cliff-edge→sky-launch lean · ELEMENT darting swallows @F2 · TRICKS trailing kite-tail cam @F3 + low looking-up @F4 · HERO F1.
+- **SC-16 Become the Bloom (material→couture, 3) [transform exception]** · garden: path→colonnade→fountain court · ELEMENT wisteria petal-fall @F1 · TRICK rack-focus petals→her @F2 · HERO F3 (full-gown reveal).
+- **SC-17 Four Seasons One Path (walk, 5) [seasonal-reskin exception]** · ONE path re-skinned spring→summer→autumn→winter→first-bud · ELEMENT autumn leaf-swirl @F3 · TRICK locked-framing season match-cut on the same tree @cuts · HERO F1.
+- **SC-18 Portal Steps (arches, 3) [portal exception — worlds beyond the arch]** · same arch-walk, worlds beyond each arch · ELEMENT refracted spectrum threshold-burst @F2 · TRICK arch frame-within-frame push-through + world match-cut · HERO F1.
+- **SC-19 Product Builds the World (3) [surreal-build exception]** · studio void→liquid architecture→hero plinth · ELEMENT liquid-light caustics @F2 · TRICKS slow orbit @F1 + reverse pull-out hero reveal @F3 · HERO F3.
+- **SC-21 Citrus Coast (Amalfi stroll)** · coastal village down to the sea: lemon grove→tiled stairs→harbour quay→sea terrace · ELEMENT lemon-blossom petal flutter @F1 · TRICKS high descend-stairs god's-eye @F2 + harbour-water reflection @F3 · HERO F4.
+- **SC-A1 Anime Summit Descent (bicycle, anime)** · daytime emerald mountain road: summit→switchback→valley rush→lookout · ELEMENT dandelion light-seeds @F3 · TRICKS high crane-up reveal @F1 + bike-mount POV descent @F2 · HERO F4.
+- **SC-A2 Anime Downhill Glide (skateboard, anime) [DONE]** · twilight downhill road: crest→tree-lined→bend→valley · ELEMENT meteor shower @F3 · TRICKS shadow-first reveal @F1 + reverse crane reveal @F4 · HERO F2.
+
+
+### Volume 2 (the "modes" set)
+- **SC-22 Meadow Gallop (horseback)** · one meadow: open canter→woodland edge→river→rise · ELEMENT golden pollen-motes @F1 · TRICKS river water-mirror reflection @F3 + reverse crane reveal @F4 · HERO F2.
+- **SC-23 Coastline Express (train)** · one rainy coast railway: cliff→rain-window→mountain→platform · ELEMENT clearing sea-fog @F3 · TRICKS exterior drone-track of the train @F1 + rain-streaked-window reflection @F2 · HERO F4.
+- **SC-24 Powder Glide (ski)** · one bluebird piste: carve→glade→frozen-lake flat→village · ELEMENT snow-sparkle spindrift @F1 · TRICKS god's-eye on carve-tracks @F2 + reverse crane village reveal @F4 · HERO F3.
+- **SC-25 Curl Chaser (surf)** · one reef break: paddle-out→drop-in→curl→kick-out · ELEMENT dolphin breach @F1 · TRICKS water-line dolly @F2 + inside-the-curl tube POV @F3 · HERO F4.
+- **SC-26 Frost Waltz (ice-skating)** · one winter set: frozen lake→fairy-lit canal→forest spin→festive square · ELEMENT gentle falling snow @F4 · TRICKS blade-level low ground @F1 + spin orbit @F3 · HERO F2.
+- **SC-27 Lake Glide (swan pedal-boat)** · one park lake: launch→willow→fountain→island pavilion · ELEMENT darting dragonflies @F2 · TRICKS water-mirror reflection @F1 + crane pavilion reveal @F4 · HERO F3.
+- **SC-28 Hillside Tram (tram)** · one pastel hill town: street→market→viewpoint→seafront · ELEMENT billowing laundry/bunting @F1 · TRICKS through-tram-window frame @F2 + high ¾ viewpoint reveal @F3 · HERO F4.
+- **SC-29 Dune Caravan (camel)** · one desert to gate: dunes→oasis→market→sunset gate · ELEMENT blowing sand-veil @F1 · TRICKS oasis-palm frame-within-frame @F2 + silhouette-into-light at the gate @F4 · HERO F3.
+- **SC-30 Jungle Procession (elephant)** · one jungle to festival: path→temple ruins→river→festival · ELEMENT rising sky-lanterns @F4 · TRICKS under-canopy low ground @F1 + temple-arch frame @F2 · HERO F3.
+- **SC-31 City Topdeck (open-top bus)** · one city tour: boulevard→landmark square→park avenue→river bridge · ELEMENT drifting ticker-tape leaves @F3 · TRICKS exterior high aerial of the bus @F1 + glass-tower reflection @F2 · HERO F4.
+
+- **SC-32 Valley Swing (garden swing)** · one tropical valley edge: swing-out→over terraces→over waterfall→sky apex · ELEMENT waterfall-mist rainbow @F3 · TRICKS low looking-up arc @F1 + reverse pull-out apex reveal @F4 · HERO F2.
+- **SC-33 Palace Carriage (carriage)** · one palace approach: park lane→town square→palace gates→fountain courtyard · ELEMENT white doves lifting @F3 · TRICKS high aerial lane @F1 + fountain-water reflection @F4 · HERO F2.
+- **SC-34 Island Hopper (seaplane)** · one tropical lagoon-island: taxi→lift over reef→bank past cliffs→landing · ELEMENT streaming cloud-wisps @F3 · TRICKS exterior aerial chase of the plane @F1 + cockpit POV @F2 · HERO F4.
+- **SC-35 Canopy Flyer (zip-line)** · one jungle canopy: launch→over river→past waterfall→deck · ELEMENT kaleidoscope of blue morpho butterflies @F2 · TRICKS trailing-trolley POV @F1 + parallel waterfall track @F3 · HERO F4.
+- **SC-36 Snow Run (toboggan)** · one snow slope: slope→pine weave→the jump→village · ELEMENT powder-snow plume @F3 · TRICKS sled-level POV @F1 + reverse crane village reveal @F4 · HERO F2.
+- **SC-37 River Drift (riverboat)** · one river: bend→forest banks→riverside town→delta · ELEMENT clearing morning mist @F1 · TRICKS water-line hull dolly @F2 + river reflection @F4 · HERO F3.
+- **SC-38 Orchard Harvest (cart)** · one orchard farm: rows→blossom barn→meadow lane→farmhouse table · ELEMENT floating hay-dust motes @F2 · TRICKS god's-eye orchard rows @F1 + crane farmhouse reveal @F4 · HERO F3.
+- **SC-39 Plaza Dance (dance)** · one town: fountain plaza→colonnade→rooftop→blossom garden · ELEMENT rose-petal swirl @F4 · TRICKS low orbit twirl @F1 + high ¾ rooftop orbit @F3 · HERO F2.
+- **SC-40 Rapids Run (kayak)** · one river gorge: gorge→rapids→waterfall pool→calm lake · ELEMENT darting kingfisher @F4 · TRICKS water-line dolly @F1 + kayak-POV through rapids @F2 · HERO F3.
+- **SC-41 Sky Sail (paraglide)** · one big-sky landscape: hilltop launch→over fields→bank over lake→coastal landing · ELEMENT drifting cottonwood seed-fluff @F2 · TRICKS exterior aerial chase of the wing @F1 + reverse pull-out coastal reveal @F4 · HERO F3.
+
+> **Exceptions noted:** SC-16 (wardrobe transform), SC-17 (seasonal re-skin of one path), SC-18 (worlds beyond the
+> arch), SC-19 (product builds the set) keep their transform/world-swap premise — for these "one place travelled
+> through" means the same set/path evolving, and the element/trick/hero/negative-space rules still apply.
