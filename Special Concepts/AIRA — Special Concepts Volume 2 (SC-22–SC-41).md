@@ -956,10 +956,9 @@ loop. Laid UNDER the diegetic — no spoken line; optional wordless bright vocal
 ═══════════════════════════════════════════════════════════════════════════════
 
 # SC-36 · SNOW RUN (Toboggan) · 4 shots × 6s
-**Logline:** A bluebird sledging dash — down a sparkling snow slope → weaving through pines → over a little jump →
-to a snug village stop. Signature: a snow-plume flaring off the runners + sun-sparkle + airborne ice-glitter.
-Playful, giddy, joyful.
-**Arc:** SNOW SLOPE → PINE WEAVE → THE JUMP → VILLAGE STOP (signature).
+**Logline:** A bluebird sledging dash down one snow mountain — a sparkling slope, a pine-glade weave, a little jump,
+a snug village stop. One mountain, sledded down. Playful, giddy, joyful.
+**Arc (one place, travelled through):** SNOW SLOPE (trick) → PINE WEAVE (hero) → THE JUMP (element) → VILLAGE STOP (trick · loop).
 
 ## MASTER AUDIO (outside the frames — background music)
 A 24-second custom cinematic score (4 clips × 6s) in self-resolving ~6-second phrases, trimmable at any phrase
@@ -968,64 +967,57 @@ sub — playful, giddy, joyful. Opens (no fade-in) on a giddy pizzicato figure. 
 weaving pine lull, an airborne jump lift, then a cosy village resolve for an invisible loop. Laid UNDER the
 diegetic — no spoken line; optional wordless bright vocal on the village stop only.
 
-## GLOBAL STYLE LOCKS
-- **Outfit:** a mustard-and-red retro snowsuit (mustard body, red panels), padded and sleek.
-- **Headwear:** a furry cream trapper hat with a red pom and ear-flaps, a cream chunky scarf. **Accessories:** red knit mittens, a slim red belt. **Eye colour:** warm amber-hazel. **Makeup:** crisp winter glow — luminous skin, a cold-flush, a glossy red lip. **Hair:** two low looped buns (odango) under the hat with soft face-framing wisps. **Footwear:** cream-and-red snow boots. **Nails:** glossy red (under mittens).
-- **Hero object:** a classic wooden toboggan — varnished slats, curved front, a pull-rope and steel runners.
-- **Signature (grounded):** a bright snow-plume flares off the runners, sun-sparkle dances on the snow, and fine ice-glitter hangs in her wake. Real snow + light physics.
-- **Journey + light:** brilliant bluebird snow all the way — open sparkling slope → cool pine-shaded weave → bright airborne jump → warm snug village. *Footing: she rides the toboggan — leaning to steer, gripping the front, real sled physics.*
+## INGREDIENTS + LOCKS (generate `@subject` & `@object` ONCE — reuse them in every frame)
+- **`@subject` — render ONCE, reuse every frame** (neutral, full body, plain blank bg): `Aira [identity placeholder]` styled as — **Outfit:** mustard-and-red retro snowsuit (mustard body, red panels), padded and sleek · **Headwear:** furry cream trapper hat with a red pom and ear-flaps + a cream chunky scarf · **Accessories:** red knit mittens, a slim red belt · **Eye colour:** warm amber-hazel · **Makeup:** crisp winter glow, cold-flush, glossy red lip · **Hair:** two low looped buns (odango) under the hat with soft wisps · **Footwear:** cream-and-red snow boots · **Nails:** glossy red.
+- **`@object` — render ONCE, reuse every frame** (plain blank bg): a classic wooden toboggan — varnished slats, curved front, a pull-rope and steel runners.
+- **THE PLACE (ONE snow mountain, sledded DOWN):** a single bluebird snow mountain — an open sparkling slope up high, a snow-laden pine glade, a little snow-jump, and a snug chalet village at the foot; brilliant bluebird snow warming to low-gold at the village. She **sleds down it** across the four frames, so each ENVIRONMENT still is the next part of the same mountain at its own angle. (The snow-hiss + ice-glitter off the runners are the sled's own natural detail.)
+- **MAGICAL ELEMENT (used ONCE — Frame 3 only):** a big airborne **powder-snow plume** (with ice-glitter) bursts off the jump-lip and hangs in the sun (real snow + light physics). No other frame carries an element.
+- **TRICK SHOTS (×2 — Frames 1 & 4, never the element's frame):** Frame 1 = **sled-level POV** (camera mounted low on the sled, the slope rushing up); Frame 4 = **reverse crane** village reveal.
+- **HERO FRAME (Frame 2):** she reads clearly as the hero weaving the pines (closer, delighted, ducking a bough). Every other frame keeps her small with the mountain dominant — room on the sides, top and bottom.
+- **Footing:** she rides the toboggan — leaning to steer, gripping the front, real sled physics.
 
 
 ---
-### FRAME 1 — SNOW SLOPE
-**Frame angle:** high aerial ¾ (~45° down, world-dominant), brilliant bluebird side-light.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **high aerial ¾**. · Outfit: mustard-and-red retro snowsuit. · Headwear: furry cream trapper hat w/ red pom + cream scarf. · Accessories: red mittens, red belt. · Eye colour: amber-hazel. · Makeup: winter glow, red lip. · Hair: two low looped buns. · Footwear: cream-and-red snow boots. · Nails: glossy red. · static & neutral, plain blank background.
-**STILL 2 · OBJECT (plain bg):** the wooden toboggan at **high aerial ¾** — varnished slats, curved front, pull-rope, steel runners. Clean, isolated, plain blank background.
-**STILL 3 · ENVIRONMENT:** a wide sparkling snow slope — pristine bluebird-lit powder, a far snow-laden pine band, deep blue sky, distant peaks; high aerial ¾ vantage (world dominant).
+### FRAME 1 — SNOW SLOPE (trick shot · sled-level POV)
+**Frame angle:** **sled-mounted low POV** — camera low on the sled, the slope rushing up, brilliant bluebird side-light.
+**ENVIRONMENT still (the only per-frame ingredient):** a wide sparkling snow slope — pristine bluebird-lit powder, a far snow-laden pine band, deep blue sky, distant peaks; low sled-POV vantage down the slope (world-dominant, big negative space). *(Animate `@subject` on `@object` accelerating down the slope.)*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* WIDE high aerial establishing, **one continuous slow track following her sled down the slope.** [00:00–00:02] she pushes off and the toboggan accelerates down the sparkling slope, tiny in the open white sweep, snow hissing past the runners. [00:02–00:04] the signature stirs — a bright snow-plume flares off the runners and ice-glitter hangs in her wake; she leans into the speed with a giddy wide grin. [00:04–00:06] she steers toward a band of pines below. Real-time, believable sled acceleration + real snow-plume; 9:16. (Environment-dominant wide.)
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact face/identity — a giddy wide grin (read as she leans into the rush).
+- *Animation:* MEDIUM sled-POV, **one continuous shot low on the sled — the POV trick.** [00:00–00:02] she pushes off and the toboggan accelerates down the sparkling slope, the powder and pine band rushing up toward the low camera, snow hissing past the runners. [00:02–00:04] a bright snow-plume feathers up around the POV and ice-glitter streaks past; she leans into the speed with a giddy grin. [00:04–00:06] she steers toward a band of pines below. Real-time, believable sled acceleration + real snow; 9:16. (Environment-dominant — the slope fills the frame.)
 - *AUDIO (in-frame):* ambient/object — the hiss and rumble of runners on snow, wind rushing, a creak of the wood; voice — Aira's giddy "woohoo!" and a bright laugh.
-**→ Cut (match-on-action) to Frame 2 — she weaves the sled into the pines.**
+**→ Cut (match-on-action) to Frame 2 — she weaves the sled into the pines (her hero beat).**
 
 ---
-### FRAME 2 — PINE WEAVE
-**Frame angle:** low ¾ front (~30° left, ground-level track-with), cool pine-shaded light.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **low ¾ front (~30° left)**. · Outfit: mustard-and-red snowsuit. · Headwear: trapper hat + scarf. · Accessories: red mittens, belt. · Eye colour: amber-hazel. · Makeup: winter glow, red lip. · Hair: two low looped buns. · Footwear: snow boots. · Nails: glossy red. · static & neutral, plain blank background.
-**STILL 2 · OBJECT (plain bg):** the wooden toboggan at **low ¾ front** — curved front foremost, slats, runners. Clean, isolated, plain blank background.
-**STILL 3 · ENVIRONMENT:** a snow-laden pine glade run — tall frosted pines flanking a powdery track, cool blue shade, a glittering light-shaft, soft mounds; low ground-level ¾-front vantage.
+### FRAME 2 — PINE WEAVE (HERO frame)
+**Frame angle:** low ¾ front (~30° left, closer hero), cool pine-shaded light — the glade behind her.
+**ENVIRONMENT still (the only per-frame ingredient):** a snow-laden pine glade run — tall frosted pines flanking a powdery track, cool blue shade, a glittering light-shaft, soft mounds; low ¾-front vantage. *(Animate `@subject` on `@object` weaving through.)*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* MEDIUM, **one continuous low ground-level track weaving with the sled between the pines.** [00:00–00:02] she steers the toboggan into the pine glade, leaning to weave between the frosted trunks, powder feathering up. [00:02–00:04] she ducks a low snowy bough that showers glittering snow through a light-shaft; she laughs with a delighted grin, leaning into a turn. [00:04–00:06] she lines the sled up toward a little jump ahead. Real-time, believable lean-steering + real powder; 9:16.
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact identity — animate only gaze + soft expression: a **delighted, radiant grin** — her hero beat.
+- *Animation:* MEDIUM low ¾ front (closer), **one continuous track-with weaving between the pines.** [00:00–00:02] she steers the toboggan into the pine glade, leaning to weave between the frosted trunks, powder feathering up. [00:02–00:04] she ducks a low snowy bough that showers glittering snow through a light-shaft, laughing with a delighted radiant grin — her hero moment. [00:04–00:06] she lines the sled up toward a little jump. Real-time, believable lean-steering + real powder; 9:16. (Hero framing — closer, the pines behind her.)
 - *AUDIO (in-frame):* ambient/object — runners swishing through powder, snow pattering off a branch, muffled forest hush; voice — Aira's delighted "whoa!" and a bright laugh.
-**→ Cut (match-on-action) to Frame 3 — the sled hits the jump and goes airborne.**
-
+**→ Cut (match-on-action) to Frame 3 — the sled hits the jump and goes airborne (the powder-plume element).**
 
 ---
-### FRAME 3 — THE JUMP
+### FRAME 3 — THE JUMP (magical element · powder-snow plume, used once)
 **Frame angle:** full profile (true side, parallel track), bright airborne light.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, in **full profile**. · Outfit: mustard-and-red snowsuit. · Headwear: trapper hat + scarf. · Accessories: red mittens, belt. · Eye colour: amber-hazel. · Makeup: winter glow, red lip. · Hair: two low looped buns. · Footwear: snow boots. · Nails: glossy red. · static & neutral, plain blank background.
-**STILL 2 · OBJECT (plain bg):** the wooden toboggan in **full profile** — full side, curved front, runners, pull-rope. Clean, isolated, plain blank background.
-**STILL 3 · ENVIRONMENT:** a little snow jump on the open slope — a natural lip of packed snow, the valley dropping below, blazing sun, peaks beyond; profile vantage at the jump.
+**ENVIRONMENT still (the only per-frame ingredient):** a little snow jump on the open slope — a natural lip of packed snow, the valley dropping below, blazing sun, peaks beyond; profile vantage at the jump. *The concept's single element lands here.*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* MEDIUM profile, **one continuous parallel track at her speed over the jump.** [00:00–00:02] the toboggan races up the snow lip and launches off the jump, runners leaving the snow, the valley dropping below. [00:02–00:04] she catches a beat of airtime — the signature peaking as a big snow-plume and ice-glitter burst off the lip and hang in the sun; she squeals with a thrilled open grin, gripping the front. [00:04–00:06] the sled lands clean and races on toward the village. Real-time, believable jump + landing + real snow-burst; 9:16. (Slope + sky share the frame.)
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact identity — animate only gaze + soft expression: a thrilled, open, airborne grin.
+- *Animation:* MEDIUM profile, **one continuous parallel track at her speed over the jump.** [00:00–00:02] the toboggan races up the snow lip and launches off the jump, runners leaving the snow, the valley dropping below. [00:02–00:04] the **element** — a big airborne powder-snow plume with ice-glitter bursts off the lip and hangs in the sun; she catches a beat of airtime, squealing with a thrilled open grin, gripping the front. [00:04–00:06] the sled lands clean and races on toward the village. Real-time, believable jump + landing + real powder-burst; 9:16. (Slope + sky share the frame.)
 - *AUDIO (in-frame):* ambient/object — the whoosh off the lip, a beat of wind-rush, the thump of landing, snow spraying; voice — Aira's thrilled "wheee!" and a delighted shriek-laugh.
-**→ Cut (match-on-action) to Frame 4 — the sled glides into the village stop.**
+**→ Cut (match-on-action) to Frame 4 — the sled glides into the village stop (the reverse-crane reveal).**
 
 ---
-### FRAME 4 — VILLAGE STOP (signature · loop)
-**Frame angle:** low-hero ¾ opening to front (~30°, crane pull-back), warm snug village light.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` — full head-to-toe, neutral, at **low-hero ¾ (~30°)**. · Outfit: mustard-and-red snowsuit. · Headwear: trapper hat + scarf. · Accessories: red mittens, belt. · Eye colour: amber-hazel. · Makeup: winter glow, red lip. · Hair: two low looped buns. · Footwear: snow boots. · Nails: glossy red. · static & neutral, plain blank background.
-**STILL 2 · OBJECT (plain bg):** the wooden toboggan at **low-hero ¾** — at rest in the snow, pull-rope draped, runners glinting. Clean, isolated, plain blank background.
-**STILL 3 · ENVIRONMENT:** a snug alpine village edge in warm low light — timber chalets with glowing windows, snow-laden roofs, a little frozen fountain, fairy-lights, peaks behind; low-hero ¾ vantage with crane reveal.
+### FRAME 4 — VILLAGE STOP (trick shot · reverse crane reveal · loop)
+**Frame angle:** wide low-hero opening to a reverse crane pull-back, warm snug village light — she smaller, world dominant.
+**ENVIRONMENT still (the only per-frame ingredient):** a snug alpine village edge in warm low light — timber chalets with glowing windows, snow-laden roofs, a little frozen fountain, fairy-lights, peaks behind; wide crane vantage. *(Animate `@subject` on `@object` gliding to a soft stop.)*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact face/identity; only gaze/head/soft-expression move.
-- *Animation:* WIDE low-hero, **one continuous slow crane pull-back to reveal the village.** [00:00–00:02] the toboggan glides into the snug village edge and slows to a soft stop, a last snow-plume settling. [00:02–00:04] the signature settles — snow-sparkle and ice-glitter hang in the warm light; she hops off, throws her arms up and beams to lens, breath fogging. [00:04–00:06] the camera cranes back to reveal the whole glowing chalet village around her — easing toward the snow-slope opening for a loop. Real-time, believable sled stop + real snow; 9:16.
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact identity — animate only gaze + soft expression: a giddy, breathless, beaming joy.
+- *Animation:* WIDE low-hero, **one continuous reverse crane pull-back to reveal the village.** [00:00–00:02] the toboggan glides into the snug village edge and slows to a soft stop, a last snow-plume settling. [00:02–00:04] she hops off and throws her arms up, beaming to lens, breath fogging in the warm light. [00:04–00:06] the camera cranes back and up to reveal the whole glowing chalet village and peaks around her — easing toward the snow-slope opening for a loop. Real-time, believable sled stop + real snow; 9:16. (Environment-dominant — she smaller, village around her.)
 - *AUDIO (in-frame):* ambient/object — the sled scraping to a stop, snow settling, village chatter and a chalet bell, her breath; voice — Aira's giddy breathless laugh and a warm "again!".
 **→ Loops back to Frame 1 (the snow slope).**
 
-**Stills to generate:** 3 per frame × 4 frames = 12. Score = 24s MASTER AUDIO under the diegetic.
+**Stills to generate:** **`@subject` (1) + `@object` (1) + 4 ENVIRONMENT stills = 6 total** — subject & object rendered once and reused; only environment + video prompt change per frame. ONE snow mountain sledded down (slope → pines → jump → village); powder-plume element in Frame 3 only; trick shots in Frames 1 (sled POV) & 4 (reverse crane); hero beat in Frame 2. Score = 24s MASTER AUDIO under the diegetic.
 
 
 ═══════════════════════════════════════════════════════════════════════════════
