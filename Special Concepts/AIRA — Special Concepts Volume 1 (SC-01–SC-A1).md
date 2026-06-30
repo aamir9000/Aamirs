@@ -5,29 +5,27 @@
 > her face/bone-structure; the reference holds it. We only style her (outfit, hair, eye colour, etc.). Her constant
 > eye colour across all concepts: **warm amber-hazel.**
 
-## ⭐ HOW EACH FRAME IS BUILT (v3 standard — read once)
-**Every frame = 3 matched-angle STILLS + a VIDEO PROMPT. One camera angle is chosen per frame and applied to all
-three stills (same rotation, eye-level, light direction, lens) so they composite cleanly.**
+## ⭐ HOW EACH CONCEPT IS BUILT (v5.1 lean standard — read once)
+**Generate `@subject` and `@object` ONCE per concept and reuse them in every frame. Only the ENVIRONMENT still and
+the VIDEO PROMPT change per frame.** See the master spec in `_ELEMENT_AND_TRICKSHOT_LIBRARY.md`.
 
-1. **STILL 1 · SUBJECT** — *plain blank background.* Write **`Aira [identity placeholder]`**, then style her in heavy
-   detail: **Outfit · Headwear** (only when rarely needed) **· Accessories · Eye colour · Makeup** (only if needed)
-   **· Hair · Footwear.** **Static & neutral — no pose, no twist, no action.** Always **full body, head to toe.**
-   The only variable is the **chosen frame angle** (full-frontal / ~45° left / ~45° right / profile / other), picked
-   deliberately for the frame — never blind-pasted.
-2. **STILL 2 · OBJECT** — *plain blank background.* The hero object in heavy detail, at the **same frame angle.**
-3. **STILL 3 · ENVIRONMENT** — *the full scene* (not plain): heavy detail, vivid, beautiful, depth + lighting, from
-   the **same frame angle/vantage.**
-4. **VIDEO PROMPT** —
-   - **Facial consistency:** a brief lock (keep her exact face/identity; only gaze/head/soft-expression move).
-   - **Animation:** rich, Veo-compliant direction — **one continuous evolving camera move** from the frame's opening
-     angle (orbit / dolly / crane / track / push / rack-focus / whip-pan — never internal hard cuts), subject
-     performance + per-beat action, the grounded-surreal signature, real-time (no slow-motion), 9:16.
-   - **AUDIO (in-frame):** the diegetic sound *created in this frame* — `ambient/object — [...]; voice — [...]`
-     (her & people's real sounds + exclamations only where the beat earns it).
+- **INGREDIENTS (rendered once, reused every frame):**
+  1. **`@subject`** — *plain blank background*, neutral & full-body: **`Aira [identity placeholder]`** + styling only
+     (**Outfit · Headwear · Accessories · Eye colour (warm amber-hazel) · Makeup · Hair · Footwear · Nails**). Ideally a
+     ¾ anchor; never enumerate her face — the reference holds it.
+  2. **`@object`** — *plain blank background*, the hero object in heavy detail. *(Prop-less concepts have no `@object`; transform/product concepts may use `@texture` or `@product`.)*
+- **PER FRAME (the only things that change):**
+  3. **ENVIRONMENT still** — the **next stretch of the ONE place she's travelling through**, at its own camera angle
+     (the progression + angle is what tells Veo to carry the travel forward).
+  4. **VIDEO PROMPT** — *Facial consistency + expression* (identity-safe: only gaze + soft expression) → *Animation*
+     (one continuous evolving camera move from the frame's angle; real-time; the trick/element written in here if any) →
+     *AUDIO (in-frame)* (`ambient/object — …; voice — …`).
 
-**MASTER AUDIO** (the background music/score) sits **once per concept, outside the frames.** SILENT = no dialogue/lyrics.
-Locked everywhere: controlled vibrancy (skin protected), identity-safe face, evolving-world journey, one
-grounded-surreal signature, real-time motion, loops. Subject + object always on plain bg; environment is the scene.
+**Per concept:** ONE place travelled through · ONE magical element (once, in one frame) · a theme-suitable number of
+TRICK SHOTS (in other frame(s) — never the element's frame) · ONE hero frame (rotated). The element and every trick
+shot are **written directly into that frame's VIDEO PROMPT** (the library is only a planning menu). Subject doesn't
+dominate — negative space, world as co-star. **MASTER AUDIO** sits once per concept, outside the frames. 9:16, SILENT
+diegetic, loops.
 
 ═══════════════════════════════════════════════════════════════════════════════
 
@@ -1098,7 +1096,6 @@ summer lift, a warm nostalgic autumn, a hushed enchanted winter, then a hopeful 
 invisible loop. Laid UNDER the diegetic — no spoken line; optional wordless aah on the spring-return only. Layered:
 piano/woodwind shifting colour per season, warm sub, celesta shimmer, soft strings, gentle swells at each season-turn.
 
-## GLOBAL STYLE LOCKS
 ## INGREDIENTS + LOCKS (generate `@subject` ONCE — reuse it every frame, layering noted per frame; prop-less, no `@object`)
 - **`@subject` — render ONCE (base look), reuse every frame** (neutral, full body, plain blank bg): `Aira [identity placeholder]` styled as — **Outfit (base, constant):** a cream pleated midi-dress under a colour-block cardigan (sage / blush / rust panels), worn open · **Layering (adjusts per season, noted in each frame):** F1 loose → F2 off one shoulder → F3 scarf wrapped → F4 bundled + mittens → F5 loosening · **Hair:** long loose natural hair with a soft half-twist (constant) · **Accessories:** a soft scarf (from autumn), cream mittens (winter) · **Eye colour:** warm amber-hazel · **Makeup:** soft natural glow — luminous skin, soft rose lip (freshening per season: dewy → sun-warm → warm → cool-flushed) · **Footwear:** tan ankle boots · **Nails:** short soft blush.
 - **No `@object`** — the path is the set; a single leaf/blossom/seed she catches each season belongs to the environment. Each frame uses only the ENVIRONMENT still.
