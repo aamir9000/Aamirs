@@ -1347,11 +1347,10 @@ guitar/mandolin, warm sub, light strings, soft tambourine riding her stroll, a s
 ═══════════════════════════════════════════════════════════════════════════════
 
 # SC-A1 · ANIME SUMMIT DESCENT (Bicycle) · 4 shots × 6s · *(ANIME-STYLED — lush Makoto-Shinkai / Ghibli look: cel-shaded, luminous skies, emerald hills; the subject is the anime-styled, identity-consistent version of Aira)*
-**Logline:** A breathtaking anime descent — the subject crests a high mountain summit on her bicycle and coasts
-down a steep winding road, vast emerald mountains falling away below, towering anime clouds and sun-flares above:
-summit launch → steep switchback descent → valley green rush → lookout arrival. Signature: wind-rippled emerald
-grass + Shinkai sun-flares + a trailing wake of drifting dandelion light-seeds. Bright, soaring, joyful.
-**Arc:** SUMMIT LAUNCH → STEEP SWITCHBACK DESCENT (signature) → VALLEY GREEN RUSH → LOOKOUT ARRIVAL.
+**Logline:** A breathtaking anime descent down one mountain road — a summit launch, a steep switchback descent, a
+valley green rush, the lookout arrival. One mountain, descended through; bright anime daytime, vast and green.
+Bright, soaring, joyful.
+**Arc (one place, travelled through):** SUMMIT LAUNCH (trick) → STEEP SWITCHBACK DESCENT (trick) → VALLEY GREEN RUSH (element) → LOOKOUT ARRIVAL (hero).
 
 ## MASTER AUDIO (outside the frames — background music)
 A 24-second custom anime-cinematic score (4 clips × 6s) in self-resolving ~6-second phrases, trimmable at any
@@ -1362,63 +1361,57 @@ valley rush, then a warm wistful resolve at the lookout for an invisible loop. L
 line; optional wordless choir/aah on the descent peak only. Layered: soaring piano/strings, warm sub, glassy
 shimmer, light driving percussion riding the descent, swells reserved for the descent peak.
 
-## GLOBAL STYLE LOCKS
-- **Style:** lush anime / cel-shaded (Shinkai-Ghibli) — luminous skies, towering cumulus, lens-flares, hand-painted emerald hills, crisp clean linework, vivid daytime colour. Each SUBJECT still is the **anime-styled, identity-consistent** version of Aira.
-- **Outfit:** a crisp white short-sleeve blouse with a sky-blue sailor collar, a pleated sunshine-yellow skirt, white knee socks; a thin red ribbon at the collar.
-- **Headwear:** a cute **white cycling cap with a small red star**. **Accessories:** none. **Eye colour:** warm amber-hazel (anime-bright). **Makeup:** anime-fresh — luminous skin, bright clear eyes, a soft natural lip. **Hair:** **long flowing wind-swept hair** with a thin red ribbon headband, streaming dramatically. **Footwear:** white sneakers. **Nails:** short clean.
-- **Hero object:** a classic road bicycle in cream-and-red — drop bars, a little woven basket, anime-styled.
-- **Signature (grounded-anime):** wind-rippled emerald grass sweeping in waves, warm Shinkai sun-flares blooming off sky and chrome, a trailing wake of drifting dandelion light-seeds; believable wind/light physics in anime idiom, no cheap sparkle.
-- **Journey + light:** bright anime daytime, vast & green — crisp high-altitude summit → bright rushing descent → dappled green valley → warm wide lookout.
+## INGREDIENTS + LOCKS (generate `@subject` & `@object` ONCE — reuse them in every frame)
+- **Style:** lush anime / cel-shaded (Shinkai-Ghibli) — luminous skies, towering cumulus, lens-flares, hand-painted emerald hills, crisp clean linework, vivid daytime colour. `@subject` is the **anime-styled, identity-consistent** version of Aira.
+- **`@subject` — render ONCE, reuse every frame** (anime-styled, neutral, full body, plain blank bg): `Aira [identity placeholder]` (anime) styled as — **Outfit:** a crisp white short-sleeve blouse with a sky-blue sailor collar, a pleated sunshine-yellow skirt, white knee socks, a thin red ribbon at the collar · **Headwear:** a cute white cycling cap with a small red star · **Hair:** long flowing wind-swept hair with a thin red ribbon headband, streaming dramatically · **Accessories:** none · **Eye colour:** warm amber-hazel (anime-bright) · **Makeup:** anime-fresh — luminous skin, bright clear eyes, a soft natural lip · **Footwear:** white sneakers · **Nails:** short clean.
+- **`@object` — render ONCE, reuse every frame** (anime-styled, plain blank bg): a classic road bicycle in cream-and-red — drop bars, a little woven basket, clean cel-shaded linework.
+- **THE PLACE (ONE anime mountain, descended THROUGH):** a single Shinkai mountain road — a high summit pass, steep hairpin switchbacks, a lush green valley floor, and a grassy lookout; bright anime daytime, vast and green, the light warming as she drops. She **descends through it** across the four frames, so each ENVIRONMENT still is the next stretch of the same road at its own angle.
+- **MAGICAL ELEMENT (used ONCE — Frame 3; written into that frame's VIDEO PROMPT):** on the valley floor a trailing wake of drifting, glowing dandelion light-seeds lifts and streams around her (grounded-anime light, no cheap sparkle). No other frame carries an element.
+- **TRICK SHOTS (×2 — Frames 1 & 2, never the element's frame; each written into its frame's VIDEO PROMPT):** Frame 1 = **high crane-up reveal** opening the vast ranges below; Frame 2 = **bike-mount POV descent** (camera fixed to the bike as the mountainside plunges).
+- **HERO FRAME (Frame 4):** she reads clearly as the hero at the lookout (closer, warm wistful smile), then the world opens. Every other frame keeps the mountain present — room on the sides, top and bottom; Frame 1 world-dominant.
+- **Footing:** she rides the bicycle — believable downhill speed, lean and tyre-grip; real bike weight.
 
 ---
-### FRAME 1 — SUMMIT LAUNCH
+### FRAME 1 — SUMMIT LAUNCH (trick shot · high crane-up reveal)
 **Frame angle:** high ¾ from above-behind (~50° down, world-dominant), crisp high-altitude blue-green.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` (anime-styled) — full head-to-toe, neutral, at **high ¾ from above-behind**. · Outfit: white sailor-collar blouse + yellow pleated skirt + white knee socks + red collar ribbon. · Headwear: white cycling cap with red star. · Accessories: none. · Eye colour: amber-hazel (anime-bright). · Makeup: anime-fresh. · Hair: long flowing wind-swept + red ribbon headband. · Footwear: white sneakers. · Nails: clean. · static & neutral, plain blank background, cel-shaded.
-**STILL 2 · OBJECT (plain bg):** the cream-and-red road bicycle (anime-styled) at **high ¾** — drop bars, woven basket, clean cel-shaded linework. Plain blank background.
-**STILL 3 · ENVIRONMENT:** a high mountain-pass summit (anime) — a thin winding road, emerald ridges and valleys falling away to a hazy horizon, towering anime cumulus, crisp blue sky, sun-flares, wind combing the grass; high ¾ above-behind vantage (world dominant).
+**ENVIRONMENT still (the only per-frame ingredient):** a high mountain-pass summit (anime) — a thin winding road, emerald ridges and valleys falling away to a hazy horizon, towering anime cumulus, crisp blue sky, sun-flares, wind combing the grass; high ¾ above-behind vantage (world dominant). *(Animate `@subject` astride `@object` at the summit's edge.)*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact (anime) face/identity; only gaze/head/soft-expression move.
-- *Animation:* WIDE establishing, **one continuous slow crane-up revealing the vast ranges below.** [00:00–00:02] she sits astride the bike at the summit's edge, the emerald valleys and towering clouds opening huge beneath and ahead, wind combing the grass, hair streaming. [00:02–00:04] she gazes out over the world with awe-struck wonder, then looks down the steep winding road, lifting onto the lead pedal. [00:04–00:06] she pushes off and the bike begins to roll down the first slope, sun-flares blooming, grass rippling in waves. Real-time, believable bicycle weight; lush anime look; 9:16.
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact (anime) face/identity — animate only gaze + soft expression: awe-struck wonder.
+- *Animation:* WIDE establishing, **one continuous slow crane-up revealing the vast ranges below — the crane-up reveal trick.** [00:00–00:02] she sits astride the bike at the summit's edge, the emerald valleys and towering clouds opening huge beneath and ahead, wind combing the grass, hair streaming. [00:02–00:04] she gazes out over the world with awe-struck wonder, then looks down the steep winding road, lifting onto the lead pedal, the crane rising to reveal more ranges. [00:04–00:06] she pushes off and the bike begins to roll down the first slope, sun-flares blooming, grass rippling in waves. Real-time, believable bicycle weight; lush anime look; 9:16. (World-dominant — the ranges vast below her.)
 - *AUDIO (in-frame):* ambient/object — wind gusting at altitude, the freewheel tick, a distant eagle's cry, the hiss of grass; voice — Aira's awed breath and a soft "woah…".
-**→ Cut (match-on-action) to Frame 2 — the roll tips into the steep switchback descent.**
+**→ Cut (match-on-action) to Frame 2 — the roll tips into the steep switchback descent (the bike-POV trick).**
 
 ---
-### FRAME 2 — STEEP SWITCHBACK DESCENT (signature)
-**Frame angle:** low ¾ front, bike-mounted (~30°, world plunging behind), bright rushing daylight.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` (anime-styled) — full head-to-toe, neutral, at **low ¾ front (~30°)**. · Outfit: white sailor-collar blouse + yellow pleated skirt + knee socks + red ribbon. · Headwear: white cycling cap w/ red star. · Accessories: none. · Eye colour: amber-hazel. · Makeup: anime-fresh. · Hair: long flowing wind-swept + red headband. · Footwear: white sneakers. · Nails: clean. · static & neutral, plain blank background, cel-shaded.
-**STILL 2 · OBJECT (plain bg):** the cream-and-red bicycle (anime-styled) at **low ¾ front** — drop bars foremost, basket, clean linework. Plain blank background.
-**STILL 3 · ENVIRONMENT:** the steep winding road carving down the mountainside (anime) — hairpin switchbacks, emerald slopes plunging away both sides, valley and ranges filling the frame ahead and below, big anime sky; low ¾-front vantage (world plunging behind).
+### FRAME 2 — STEEP SWITCHBACK DESCENT (trick shot · bike-mount POV descent)
+**Frame angle:** low ¾ front, **bike-mounted POV** (~30°, world plunging behind), bright rushing daylight.
+**ENVIRONMENT still (the only per-frame ingredient):** the steep winding road carving down the mountainside (anime) — hairpin switchbacks, emerald slopes plunging away both sides, valley and ranges filling the frame ahead and below, big anime sky; low ¾-front vantage (world plunging behind). *(Animate `@subject` carving `@object` down the switchback, camera fixed to the bike.)*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact (anime) face/identity; only gaze/head/soft-expression move.
-- *Animation:* bike-mounted ride-along, camera low ¾ front fixed to the bike looking back at her, **one continuous descent as the mountainside plunges behind.** [00:00–00:02] she is already carving down the steep switchback at speed, tucked low over the bars, hair tearing back, the emerald valley filling the frame. [00:02–00:04] the signature peaks — wind-rippled grass sweeps in great waves, warm Shinkai sun-flares bloom across the sky and chrome, a trail of drifting dandelion light-seeds streams off her wake; she leans hard into a hairpin with open-mouthed joy. [00:04–00:06] she powers out of the bend and accelerates down toward the green valley. Real-time, believable downhill speed/lean/tyre grip; lush anime look, no cheap sparkle; 9:16.
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact (anime) identity — open-mouthed exhilarated joy.
+- *Animation:* **bike-mounted POV ride-along**, camera low ¾ front fixed to the bike looking back at her, **one continuous descent as the mountainside plunges behind — the bike-POV trick.** [00:00–00:02] she is already carving down the steep switchback at speed, tucked low over the bars, hair tearing back, the emerald valley filling the frame. [00:02–00:04] wind-rippled grass sweeps in great waves and warm Shinkai sun-flares bloom across the sky and chrome as she leans hard into a hairpin with open-mouthed joy. [00:04–00:06] she powers out of the bend and accelerates down toward the green valley. Real-time, believable downhill speed/lean/tyre grip; lush anime look, no cheap sparkle; 9:16.
 - *AUDIO (in-frame):* ambient/object — the rush of wind, tyres humming on tarmac, a soft light-bloom whoosh as the sun-flare hits, grass rippling; voice — Aira's exhilarated "woohoo!" and open laugh streaming in the wind.
-**→ Cut (match-on-action) to Frame 3 — the road bottoms out and rushes her into the green valley.**
+**→ Cut (match-on-action) to Frame 3 — the road bottoms out and rushes her into the green valley (the dandelion-light-seeds element).**
 
 ---
-### FRAME 3 — VALLEY GREEN RUSH
+### FRAME 3 — VALLEY GREEN RUSH (magical element · dandelion light-seeds, used once)
 **Frame angle:** full profile (true side, parallel track), dappled valley green.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` (anime-styled) — full head-to-toe, neutral, in **full profile**. · Outfit: white sailor-collar blouse + yellow pleated skirt + knee socks + red ribbon. · Headwear: white cycling cap w/ red star. · Accessories: none. · Eye colour: amber-hazel. · Makeup: anime-fresh. · Hair: long flowing wind-swept + red headband. · Footwear: white sneakers. · Nails: clean. · static & neutral, plain blank background, cel-shaded.
-**STILL 2 · OBJECT (plain bg):** the cream-and-red bicycle (anime-styled) in **profile** — full side, drop bars, basket. Plain blank background.
-**STILL 3 · ENVIRONMENT:** a lush green valley floor (anime) — rice-terrace greens, wildflower verges, a clear stream, scattered trees and a far village, big clouds, dappled bright daylight; profile vantage.
+**ENVIRONMENT still (the only per-frame ingredient):** a lush green valley floor (anime) — rice-terrace greens, wildflower verges, a clear stream, scattered trees and a far village, big clouds, dappled bright daylight; profile vantage. *The concept's single element lands here.* *(Animate `@subject` riding `@object` as the dandelion light-seeds stream around her.)*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact (anime) face/identity; only gaze/head/soft-expression move.
-- *Animation:* FULL profile, **one continuous parallel track at her speed**, the green valley streaking past. [00:00–00:02] she rushes along the valley road in profile, sitting a touch more upright, hair flowing, dandelion seeds drifting in her wake. [00:02–00:04] she lifts her left hand off the bar to skim the wildflower verge and the rushing air, glancing at the green with a wide free smile, a few seeds lifting around her. [00:04–00:06] she settles her hand back and pedals on toward a rise where a lookout opens over the world. Real-time, believable riding cadence + air-drag; lush anime look; 9:16.
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact (anime) identity — a wide, free, joyful smile.
+- *Animation:* FULL profile, **one continuous parallel track at her speed**, the green valley streaking past. [00:00–00:02] she rushes along the valley road in profile, sitting a touch more upright, hair flowing. [00:02–00:04] the **element** lifts — a trailing wake of drifting, glowing dandelion light-seeds streams around her as she lifts her left hand off the bar to skim the wildflower verge and the rushing air, a wide free smile. [00:04–00:06] she settles her hand back and pedals on toward a rise where a lookout opens over the world, seeds drifting. Real-time, believable riding cadence + air-drag + grounded-anime light-seeds; 9:16.
 - *AUDIO (in-frame):* ambient/object — wind, the whir of the wheels, birdsong, rustling trees, a babbling stream; voice — Aira's joyful laugh and a bright "yeah!".
-**→ Cut (match-on-action) to Frame 4 — the road climbs to a grassy lookout over the valley.**
+**→ Cut (match-on-action) to Frame 4 — the road climbs to a grassy lookout over the valley (her hero beat).**
 
 ---
-### FRAME 4 — LOOKOUT ARRIVAL (loop)
-**Frame angle:** low front (head-on, slight up-tilt hero), warm wide anime daylight.
-**STILL 1 · SUBJECT (plain bg):** `Aira [identity placeholder]` (anime-styled) — full head-to-toe, neutral, at **low front (head-on)**. · Outfit: white sailor-collar blouse + yellow pleated skirt + knee socks + red ribbon. · Headwear: white cycling cap w/ red star. · Accessories: none. · Eye colour: amber-hazel. · Makeup: anime-fresh. · Hair: long flowing wind-swept + red headband. · Footwear: white sneakers. · Nails: clean. · static & neutral, plain blank background, cel-shaded.
-**STILL 2 · OBJECT (plain bg):** the cream-and-red bicycle (anime-styled) at **low front (head-on)** — front wheel/drop bars foremost, basket. Plain blank background.
-**STILL 3 · ENVIRONMENT:** a grassy lookout over the whole valley (anime) — the emerald ranges, the far village, towering clouds and warm wide sky, the descended road threading away behind; low-front vantage.
+### FRAME 4 — LOOKOUT ARRIVAL (HERO frame · loop)
+**Frame angle:** low front (head-on, slight up-tilt hero, closer) then a crane pull-back, warm wide anime daylight — her hero beat then the world opens.
+**ENVIRONMENT still (the only per-frame ingredient):** a grassy lookout over the whole valley (anime) — the emerald ranges, the far village, towering clouds and warm wide sky, the descended road threading away behind; low-front vantage opening wide. *(Animate `@subject` coasting `@object` to an easy stop.)*
 **VIDEO PROMPT:**
-- *Facial consistency:* keep `Aira`'s exact (anime) face/identity; only gaze/head/soft-expression move.
-- *Animation:* HERO MEDIUM/WIDE low front, **one continuous slow push-in then crane pull-back.** [00:00–00:02] she coasts up onto the grassy lookout and rolls to an easy stop, the whole emerald valley and far village opening before her. [00:02–00:04] she gazes out over the world she descended, the dandelion light-seeds settling around her, then turns a warm wistful smile to lens. [00:04–00:06] the camera cranes back to reveal the vast lookout, ranges and towering clouds around her — easing toward the awe of the summit opening for a loop. Real-time, lush anime look; 9:16.
+- *Facial consistency + expression (identity-safe):* keep `Aira`'s exact (anime) identity — a warm, wistful, radiant smile, her hero moment.
+- *Animation:* MEDIUM low front (closer) easing to WIDE, **one continuous slow push-in then crane pull-back.** [00:00–00:02] she coasts up onto the grassy lookout and rolls to an easy stop, the whole emerald valley and far village opening before her. [00:02–00:04] she gazes out over the world she descended, the last dandelion light-seeds settling around her, then turns a warm wistful smile to lens — her hero moment. [00:04–00:06] the camera cranes back to reveal the vast lookout, ranges and towering clouds around her — easing toward the awe of the summit opening for a loop. Real-time, lush anime look; 9:16. (Hero beat then environment-dominant — the valley vast around her.)
 - *AUDIO (in-frame):* ambient/object — the freewheel tick easing down, a gentle breeze, a distant village bell, cicadas; voice — Aira's warm satisfied breath and a soft contented sigh.
 **→ Loops back to Frame 1 (the summit launch).**
 
-**Stills to generate:** 3 per frame × 4 frames = 12 (anime-styled). Score = 24s MASTER AUDIO under the diegetic.
+**Stills to generate:** **`@subject` (1, anime) + `@object` (1, anime) + 4 ENVIRONMENT stills = 6 total** — subject & object rendered once and reused; only environment + video prompt change per frame. ONE anime mountain descended through (summit → switchback → valley → lookout); dandelion-light-seeds element in Frame 3 only; trick shots in Frames 1 (high crane-up reveal) & 2 (bike-mount POV descent); hero beat in Frame 4. Score = 24s MASTER AUDIO under the diegetic.
 
 ═══════════════════════════════════════════════════════════════════════════════
 # SC-A2 · ANIME DOWNHILL GLIDE (Skateboard) · 4 shots × 6s · SILENT · ANIME-STYLED
