@@ -20,10 +20,19 @@
    each in **any random frame**, and **vary which tricks** are used across concepts so no technique repeats.
 6. **ELEMENT and TRICK SHOT NEVER COLLIDE.** The element's frame must be **different** from every trick-shot frame —
    they live in separate frames across the concept.
-7. Keep everything else locked: 3 matched-angle stills per frame (Subject `Aira [placeholder]` + styling, plain bg /
-   Object, plain bg / Environment = the view), identity-safe **facial expression written in the video prompt**, ONE
-   continuous evolving camera move per clip (no internal cuts), real-time motion, two audio blocks (MASTER + in-frame),
-   warm amber-hazel eyes, 9:16, loops.
+7. **INGREDIENT MODEL — generate the subject and object ONCE; only ENVIRONMENT + VIDEO PROMPT vary per frame.**
+   Each concept opens with an **INGREDIENTS block**: **`@subject`** (one neutral, plain-bg, full-body render — styling
+   locked, reused in EVERY frame) and **`@object`** (one plain-bg render, reused in every frame). Then **each frame
+   specifies only (a) the ENVIRONMENT still** (the next stretch of the travelled place, at its own angle) **and (b) the
+   VIDEO PROMPT** (the frame's angle, pose/facing, identity-safe expression, the element/trick if any, the in-frame
+   audio). Veo re-generates each clip from the reused refs + prompt, so identity/object stay rock-solid and the angle
+   is achieved by the prompt — not by re-rendering the subject/object per frame. So a 4-frame concept = **1 subject +
+   1 object + 4 environments = 6 stills** (not 12).
+   - *Exceptions:* **SC-16** (a subject ref per wardrobe state), **SC-19** (`@product` state), **SC-17** (seasonal
+     layering states); **prop-less** concepts have no `@object` at all.
+8. Everything else locked: identity-safe **facial expression written in the video prompt**, ONE continuous evolving
+   camera move per clip (no internal cuts), real-time motion, two audio blocks (MASTER + per-frame in-frame), warm
+   amber-hazel eyes, 9:16, loops.
 
 > **Per concept you assign:** one PLACE (travelled through) · one ELEMENT (once, one random frame) · a
 > theme-suitable number of TRICK SHOTS (random frame(s), **never the element's frame**) · one HERO frame (rotated) —
