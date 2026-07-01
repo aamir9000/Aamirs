@@ -72,7 +72,7 @@ Logline: Aira moves through a cathedral of moss, mist and falling water, dressin
 and stepping deeper into the grotto until the spray itself crystallises around her.
 Impossible move (Frame 5): a sheet of waterfall droplets halts in mid-air and hangs
 as a glittering bead-curtain that frames her without a single drop touching her skin.
-Palette: emerald, jade, wet-slate grey, soft daylight silver, with one warm shaft of
+Palette: emerald, jade, wet-slate grey, soft daylight silver, with one warm shaft of — Rendered as a rich, clean, harmonious premium palette — luminous and alive, never dull or faded, natural skin preserved.
 sun cutting the green.
 
 MASTER AUDIO: a 42-second custom cinematic score (7 clips × 6s) composed in self-resolving ~6-second phrases, so it can be trimmed to the reel’s assembled length at any phrase boundary without a hard cut — it always resolves, never stops dead or loops audibly. Built on a delicate felt piano, atmospheric pads and elegant glass textures — premium, cinematic and emotionally catching, never generic stock or empty ambience. It opens immediately on a soft piano strike with a low sub-bloom (no fade-in) so the mood lands within the first second. Emotional arc: an airy intimate open across the first beats, a rising shimmer of anticipation toward frame 5, the warm emotional peak on the signature move — a sheet of waterfall droplets halts in mid-air and hangs, then a graceful resolve back toward the opening for an invisible loop. SILENT reel — no spoken line; an optional wordless breath/choir texture may rise on the peak only if it elevates, never a lyric. Layered as one system — lead melody, warm sub for body, elegant glassy shimmer as atmosphere, restrained percussion, and event impacts reserved for the major beats, each tuned to the score’s own key so every hit reads as the music itself expanding, never an added sound effect.
@@ -207,9 +207,9 @@ hands hold a trembling lens of water that catches the sun-shaft, fingers and knu
 natural. Spatial logic puts the camera just above the waterline so ripples lead the eye
 to her; the waterfall roars behind her shoulder. Framing is a cowboy shot on a 35mm look,
 medium-shallow focus so water droplets sparkle in front while the back wall softens.
-Lighting: warm shaft catching the cupped water and her face, cool fill from the pool.
-Atmosphere: spray-mist and floating motes. Color grade emerald with a warm catch-light.
-Textures: moving water caustics, wet skin, clinging silk, pebble grain. Continuity-locks
+Lighting: warm shaft catching the cupped water and her face, cool fill from the pool. Premium cinematic lighting quality — soft volumetric light, natural rim separation, elegant shadow gradients, high dynamic range, never flat or dull.
+Atmosphere: spray-mist and floating motes. Color grade emerald with a warm catch-light. Premium editorial finish — rich clean colour and luminous mid-tones, deep-but-clean blacks, cinematic lighting with soft rim separation and high dynamic range, layered foreground-to-background depth, elevated material realism, immaculately clean and never dull or faded, natural true skin preserved. Water rendered crystal-clear in rich sea-blue and turquoise gradients, with beautiful caustics and clean sparkling reflections.
+Textures: moving water caustics, wet skin, clinging silk, pebble grain. Continuity-locks — Premium editorial finish — rich clean colour and luminous mid-tones, deep-but-clean blacks, cinematic lighting with soft rim separation and high dynamic range, layered foreground-to-background depth, elevated material realism, immaculately clean and never dull or faded, natural true skin preserved. Water rendered crystal-clear in rich sea-blue and turquoise gradients, with beautiful caustics and clean sparkling reflections.
 identical. Negative: STD-NEG; plus no shoes, no dry sleeves, no frozen-plastic water.
 SUBJECT FRAMING & POSITION: A cowboy framing on a 35mm look holds Aira — she is framed from mid-thigh up as she wades ankle-deep into a clear jade pool and bends to cup the water in both hands. The spatial logic puts the camera just above the waterline so ripples lead the eye to her; the waterfall roars behind her shoulder. She reads turned back over the shoulder toward the lens within the Emerald Rainforest Waterfall Grotto scene. Her pose reads: gaze level along her line through the water, serene; head leading the slow glide; the shoulders easing forward into the wade; both arms fanning out and trailing through the water for balance, fingers relaxed; torso leading gently forward through the surface; waist long, hips easing forward; the front leg wading ahead while the rear trails; weight transferring slowly forward through the submerged footing; hair and fabric drifting with the water's drag. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
@@ -248,7 +248,7 @@ with natural fingers and buffed almond nails, a water-droplet poised on her wris
 Makeup dewy with eucalyptus-shimmer lids. Spatial logic: she is turned three-quarter into
 the warm shaft, the waterfall a soft silver bokeh wash behind. Framing on an 50mm look,
 shallow focus, her eyes the sharp plane and the grotto dissolved to creamy green light.
-Lighting: warm key kissing the cheekbone and pendant, cool rim on the hair. Atmosphere
+Lighting: warm key kissing the cheekbone and pendant, cool rim on the hair. Atmosphere — Premium editorial finish — rich clean colour and luminous mid-tones, deep-but-clean blacks, cinematic lighting with soft rim separation and high dynamic range, layered foreground-to-background depth, elevated material realism, immaculately clean and never dull or faded, natural true skin preserved.
 fine mist. Color grade emerald-warm. Textures: skin dew, jade polish, wet hair filaments.
 Continuity-locks identical. Negative: STD-NEG; plus no shoes in any reflection, no warped
 ear, no over-smooth skin.
@@ -405,7 +405,7 @@ Impossible move (Frame 4): the chandelier's light fractures into floating golden
 geometry — fans, chevrons, sunrays — that slowly orbits her like a kinetic halo.
 Spoken line (Frame 3): a warm, natural Indian-accented English delivery — “Some entrances
 you don’t make… you become.”
-Palette: champagne gold, oxblood velvet, black-lacquer, brass, ivory.
+Palette: champagne gold, oxblood velvet, black-lacquer, brass, ivory. Rendered as a rich, clean, harmonious premium palette — luminous and alive, never dull or faded, natural skin preserved.
 
 MASTER AUDIO: a 36-second custom cinematic score (6 clips × 6s) composed in self-resolving ~6-second phrases, so it can be trimmed to the reel’s assembled length at any phrase boundary without a hard cut — it always resolves, never stops dead or loops audibly. Built on a deep warm sub, an elegant felt piano and sleek modern textures — premium, cinematic and emotionally catching, never generic stock or empty ambience. It opens immediately on a single elegant piano strike haloed by a low sub-bloom (no fade-in) so the mood lands within the first second. Emotional arc: an airy intimate open across the first beats, a rising shimmer of anticipation toward frame 4, the warm emotional peak on the signature move — the chandelier's light fractures into floating golden Art-Deco, then a graceful resolve back toward the opening for an invisible loop. SPOKEN reel — the score opens space for the spoken line at its beat and ducks gently beneath the voice, then re-blooms after. Layered as one system — lead melody, warm sub for body, glassy modern shimmer as atmosphere, restrained percussion, and event impacts reserved for the major beats, each tuned to the score’s own key so every hit reads as the music itself expanding, never an added sound effect.
 
@@ -432,7 +432,7 @@ vertical grandeur, deep focus so the brass inlays and distant balcony stay legib
 the far ceiling melting to glow. Lighting is warm key from the chandelier with golden
 bounce off brass and a soft oxblood fill from the velvet. Atmosphere: faint glamorous haze
 catching the chandelier beams. Color grade champagne-and-oxblood with deep lacquer blacks.
-Textures: satin sheen, beadwork sparkle, brass grain, marble veining, glove matte.
+Textures: satin sheen, beadwork sparkle, brass grain, marble veining, glove matte. Elevated micro-texture and true premium material finish — realistic surfaces, natural imperfections, fine reflections, no plastic or noise.
 Continuity-locks: champagne gown + beaded capelet, gold T-bar heels, ivory opera gloves,
 opera glasses on chain, chandelier-drop earrings, diamond bracelet, finger-wave hair,
 oxblood lip/nails. Negative: STD-NEG; plus no modern signage, no asymmetry breaking the
@@ -569,7 +569,7 @@ perfect radial symmetry with her as the axis, depth implied by concentric rings 
 geometry receding into golden infinity. Framing a medium-wide on a 24mm look, deep focus
 so near shards read crisp and the vault glows soft far. Lighting: she is lit by the
 geometry itself — hundreds of warm gold sources — plus a clean key on her face.
-Atmosphere: radiant, awe-scale, fine gold dust. Color grade saturated champagne-gold over
+Atmosphere: radiant, awe-scale, fine gold dust. Color grade saturated champagne-gold over — Premium editorial finish — rich clean colour and luminous mid-tones, deep-but-clean blacks, cinematic lighting with soft rim separation and high dynamic range, layered foreground-to-background depth, elevated material realism, immaculately clean and never dull or faded, natural true skin preserved.
 lacquer black. Textures: faceted crystal, brushed brass, satin, beadwork. Continuity-
 locks identical. Negative: STD-NEG; plus no chaotic mess (geometry must read ordered and
 deco), no barefoot, no flat light.
@@ -689,7 +689,7 @@ tower that spirals hundreds of feet above her, the setting sun glowing through i
 butterflies of light thread the spiral — she stands untouched at the calm eye of it.
 Spoken line (Frame 3): natural Indian-accented English — “The quiet hours… they bloom
 the loudest.”
-Palette: lavender-purple, dusty sage, honey-gold sun, soft rose sky, warm amber.
+Palette: lavender-purple, dusty sage, honey-gold sun, soft rose sky, warm amber. Rendered as a rich, clean, harmonious premium palette — luminous and alive, never dull or faded, natural skin preserved.
 
 MASTER AUDIO: a 36-second custom cinematic score (6 clips × 6s) composed in self-resolving ~6-second phrases, so it can be trimmed to the reel’s assembled length at any phrase boundary without a hard cut — it always resolves, never stops dead or loops audibly. Built on a deep warm sub, an elegant felt piano and sleek modern textures — premium, cinematic and emotionally catching, never generic stock or empty ambience. It opens immediately on a single elegant piano strike haloed by a low sub-bloom (no fade-in) so the mood lands within the first second. Emotional arc: an airy intimate open across the first beats, a rising shimmer of anticipation toward frame 4, the warm emotional peak on the signature reveal, then a graceful resolve back toward the opening for an invisible loop. SPOKEN reel — the score opens space for the spoken line at its beat and ducks gently beneath the voice, then re-blooms after. Layered as one system — lead melody, warm sub for body, glassy modern shimmer as atmosphere, restrained percussion, and event impacts reserved for the major beats, each tuned to the score’s own key so every hit reads as the music itself expanding, never an added sound effect.
 
@@ -711,7 +711,7 @@ skirt and cardigan trailing a beat behind, head turning to look down the row. Sp
 logic: strong one-point perspective down the converging rows, sun low at frame-right
 throwing a long flare and a long shadow. Framing on a 28mm look, deep focus so foreground
 lavender, her figure, and the far farmhouse all hold, only the sun-flare blooming soft.
-Lighting: warm low-sun key, golden rim on her hair and linen, soft lavender-cool fill in
+Lighting: warm low-sun key, golden rim on her hair and linen, soft lavender-cool fill in — Premium cinematic lighting quality — soft volumetric light, natural rim separation, elegant shadow gradients, high dynamic range, never flat or dull.
 the shadows. Atmosphere: drifting pollen motes, faint dusk haze. Color grade lavender-and-
 honey. Textures: slubby linen weave, suede nap, straw basket, lavender florets, dust.
 Continuity-locks: buttercream linen dress + sage cardigan, tan suede ankle boots, round
@@ -758,7 +758,7 @@ kissed. Spatial logic: she occupies the lower-left third, the lavender rows and 
 receding upper-right, sun-flare at the edge. Framing on a 50mm look, medium-shallow focus
 so she and the cut sprig are crisp and the rows melt into a purple wash. Lighting warm
 key, golden rim, lavender fill. Atmosphere pollen drift. Color grade lavender-and-honey.
-Textures: brass shears, cut-stem fibre, linen, suede, straw. Continuity-locks identical.
+Textures: brass shears, cut-stem fibre, linen, suede, straw. Continuity-locks identical. Premium editorial finish — rich clean colour and luminous mid-tones, deep-but-clean blacks, cinematic lighting with soft rim separation and high dynamic range, layered foreground-to-background depth, elevated material realism, immaculately clean and never dull or faded, natural true skin preserved.
 Negative: STD-NEG; plus no barefoot, no warped shears/hands, no flat light.
 SUBJECT FRAMING & POSITION: A wide framing on a 50mm look holds Aira — she bent slightly into a row. She reads at a three-quarter to the lens within the Provence Lavender Field At Dusk scene. Her pose reads: gaze easing toward the lens or her task, soft and composed; head level with a gentle tilt; the shoulders relaxed and open; one arm resting or working at the task while the other settles, hands articulate; torso poised and lengthened over the seat; waist long with a gentle lean; the legs folded or crossed at the seat, one knee leading; weight settled into the seat and the grounded foot; hair falling naturally with the seated poise. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
@@ -958,7 +958,7 @@ light that trails for blocks into the night sky, the skyline below going dark as
 gathers to her; she stands at the helipad's centre as its glowing axis.
 Spoken line (Frame 3): natural Indian-accented English — “The whole city… and still, it
 looks up at me.”
-Palette: midnight blue-black, electric amber city-glow, chrome silver, neon cyan & magenta
+Palette: midnight blue-black, electric amber city-glow, chrome silver, neon cyan & magenta — Rendered as a rich, clean, harmonious premium palette — luminous and alive, never dull or faded, natural skin preserved.
 accents, cold moonlight.
 
 MASTER AUDIO: a 42-second custom cinematic score (7 clips × 6s) composed in self-resolving ~6-second phrases, so it can be trimmed to the reel’s assembled length at any phrase boundary without a hard cut — it always resolves, never stops dead or loops audibly. Built on a deep warm sub, an elegant felt piano and sleek modern textures — premium, cinematic and emotionally catching, never generic stock or empty ambience. It opens immediately on a single elegant piano strike haloed by a low sub-bloom (no fade-in) so the mood lands within the first second. Emotional arc: an airy intimate open across the first beats, a rising shimmer of anticipation toward frame 5, the warm emotional peak on the signature reveal, then a graceful resolve back toward the opening for an invisible loop. SPOKEN reel — the score opens space for the spoken line at its beat and ducks gently beneath the voice, then re-blooms after. Layered as one system — lead melody, warm sub for body, glassy modern shimmer as atmosphere, restrained percussion, and event impacts reserved for the major beats, each tuned to the score’s own key so every hit reads as the music itself expanding, never an added sound effect.
@@ -1146,7 +1146,7 @@ vast believable depth, the light-gown towering above and trailing into the dista
 Framing a true wide / low hero on a 24mm look, deep focus so near ribbons and the towering
 light-gown both read, the dark skyline a void beneath. Lighting: she is lit entirely by
 the converging city-light — thousands of warm and neon sources — plus a cold moon rim.
-Atmosphere: epic, electric, fine light-motes raining. Color grade saturated amber-cyan-
+Atmosphere: epic, electric, fine light-motes raining. Color grade saturated amber-cyan- — Premium editorial finish — rich clean colour and luminous mid-tones, deep-but-clean blacks, cinematic lighting with soft rim separation and high dynamic range, layered foreground-to-background depth, elevated material realism, immaculately clean and never dull or faded, natural true skin preserved.
 magenta against black sky and a blacked-out city. Textures: braided light-ribbons,
 liquid metal, chrome. Continuity-locks identical. Negative: STD-NEG; plus no barefoot, no
 chaotic tangle (ribbons must read as ordered couture), no flat black, no clipping.
@@ -1264,7 +1264,7 @@ then all at once rotates and streams into an enormous luminous calligraphic brus
 that sweeps through the canopy and resolves into a colossal coiling leaf-dragon of green
 and gold light arcing overhead, circling her once before scattering — she stands serene
 at the centre as its calm master.
-Palette: jade green, soft gold dawn shafts, misty grey-white, warm bamboo-tan, ink-black.
+Palette: jade green, soft gold dawn shafts, misty grey-white, warm bamboo-tan, ink-black. Rendered as a rich, clean, harmonious premium palette — luminous and alive, never dull or faded, natural skin preserved.
 
 MASTER AUDIO: a 36-second custom cinematic score (6 clips × 6s) composed in self-resolving ~6-second phrases, so it can be trimmed to the reel’s assembled length at any phrase boundary without a hard cut — it always resolves, never stops dead or loops audibly. Built on a deep warm sub, an elegant felt piano and sleek modern textures — premium, cinematic and emotionally catching, never generic stock or empty ambience. It opens immediately on a single elegant piano strike haloed by a low sub-bloom (no fade-in) so the mood lands within the first second. Emotional arc: an airy intimate open across the first beats, a rising shimmer of anticipation toward frame 4, the warm emotional peak on the signature reveal, then a graceful resolve back toward the opening for an invisible loop. SILENT reel — no spoken line; an optional wordless breath/choir texture may rise on the peak only if it elevates, never a lyric. Layered as one system — lead melody, warm sub for body, glassy modern shimmer as atmosphere, restrained percussion, and event impacts reserved for the major beats, each tuned to the score’s own key so every hit reads as the music itself expanding, never an added sound effect.
 
@@ -1281,7 +1281,7 @@ bangle rests at one wrist; no eyewear in this silent dawn world. Makeup is clean
 minimal — fresh skin, soft brown eye, a natural rose lip; nails a clean buff almond, one
 hand resting at the sash. She stands in calm readiness, weight even, one tabi sandal a
 half-step forward onto the next stone, head slightly bowed in a meditative beginning.
-Spatial logic: strong one-point perspective down the stone path into misty green depth,
+Spatial logic: strong one-point perspective down the stone path into misty green depth, — Rich layered foreground-to-background depth, elegant spatial hierarchy and clean visual flow (original framing and angle preserved).
 gold shafts cutting diagonally from upper-canopy. Framing a true wide / low on a 24mm
 look, deep focus so the near moss, her figure, and the misty far grove all read, the
 deepest bamboo dissolving to soft green. Lighting: cool misty ambient pierced by warm
@@ -1407,7 +1407,7 @@ dragon coils with vast believable depth through the misty grove, gold shafts bla
 through its translucent leaf-body. Framing a true wide / slightly low on a 24mm look, deep
 focus so near leaves and the towering dragon both read, mist glowing. Lighting: warm gold
 shafts firing through the leaf-dragon, casting a green-gold glow over her, cool mist fill.
-Atmosphere: epic, mythic, swirling leaves and spores. Color grade saturated jade-green and
+Atmosphere: epic, mythic, swirling leaves and spores. Color grade saturated jade-green and — Premium editorial finish — rich clean colour and luminous mid-tones, deep-but-clean blacks, cinematic lighting with soft rim separation and high dynamic range, layered foreground-to-background depth, elevated material realism, immaculately clean and never dull or faded, natural true skin preserved. Greenery lush and healthy with premium landscaping.
 gold over misty white. Textures: thousands of individual leaves, bamboo, linen-silk, moss.
 Continuity-locks identical. Negative: STD-NEG; plus no non-tabi shoes, no chaotic swarm
 (dragon must read ordered and elegant), no horror tone, no clipping through her.
@@ -1528,7 +1528,7 @@ multiplying along the glassy walls, fish and light suspended inside the water �
 reclines serene as the liquid architecture curls overhead into a dome.
 Spoken line (Frame 3): natural Indian-accented English — “Let the world drift… I am
 exactly where the light wants me.”
-Palette: aqua-teal, pastel ochre & rose palazzo, blue-gold dawn, antique gold, ivory.
+Palette: aqua-teal, pastel ochre & rose palazzo, blue-gold dawn, antique gold, ivory. Rendered as a rich, clean, harmonious premium palette — luminous and alive, never dull or faded, natural skin preserved.
 
 MASTER AUDIO: a 36-second custom cinematic score (6 clips × 6s) composed in self-resolving ~6-second phrases, so it can be trimmed to the reel’s assembled length at any phrase boundary without a hard cut — it always resolves, never stops dead or loops audibly. Built on a deep warm sub, an elegant felt piano and sleek modern textures — premium, cinematic and emotionally catching, never generic stock or empty ambience. It opens immediately on a single elegant piano strike haloed by a low sub-bloom (no fade-in) so the mood lands within the first second. Emotional arc: an airy intimate open across the first beats, a rising shimmer of anticipation toward frame 4, the warm emotional peak on the signature reveal, then a graceful resolve back toward the opening for an invisible loop. SPOKEN reel — the score opens space for the spoken line at its beat and ducks gently beneath the voice, then re-blooms after. Layered as one system — lead melody, warm sub for body, glassy modern shimmer as atmosphere, restrained percussion, and event impacts reserved for the major beats, each tuned to the score’s own key so every hit reads as the music itself expanding, never an added sound effect.
 
@@ -1596,7 +1596,7 @@ pastel palazzo reflected in the water behind her hand, gondola prow leading the 
 Framing on a 50mm look, medium-shallow focus so she and the ripple are crisp and the
 palazzos melt to pastel bokeh. Lighting warm dawn key, water bounce on her face, cool
 shadow behind. Atmosphere canal mist, gold sparkle. Color grade aqua-and-ochre with gold.
-Textures: rippling water, silk cowl, pearl drops, lacquer hull. Continuity-locks identical.
+Textures: rippling water, silk cowl, pearl drops, lacquer hull. Continuity-locks identical. Premium editorial finish — rich clean colour and luminous mid-tones, deep-but-clean blacks, cinematic lighting with soft rim separation and high dynamic range, layered foreground-to-background depth, elevated material realism, immaculately clean and never dull or faded, natural true skin preserved. Water rendered crystal-clear in rich sea-blue and turquoise gradients, with beautiful caustics and clean sparkling reflections.
 Negative: STD-NEG; plus no barefoot, no warped hand, no flat light.
 SUBJECT FRAMING & POSITION: A medium framing on a 50mm look holds Aira — she is leaning over the gondola's edge, watching her fingers cut a ripple through the gold-lit water. She reads at a three-quarter to the lens within the Venetian Canal Gondola Glide scene. Her pose reads: gaze following the wearing-action with quiet focus; head inclined toward her hands; one shoulder easing in as the arms work, the other relaxed; both hands articulate in the precise gesture, fingers unwarped; torso lengthened and softly leaning into the action; waist easy with a slight tilt; the legs grounded and even, one knee soft; weight balanced with a gentle counter-tilt; hair settling beside the working hands. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
@@ -1796,7 +1796,7 @@ perfect unison away from the sun to face Aira, then thousands of blooms tear fre
 stalks and spiral upward into a colossal slow-rotating golden cyclone of petals and faces
 that coils around her and resolves into a vast halo-crown of suspended sunflowers above
 her — she stands radiant at its still centre, arms open.
-Palette: sunflower gold, sap-green, clear cobalt sky, warm sun-white, honey.
+Palette: sunflower gold, sap-green, clear cobalt sky, warm sun-white, honey. Rendered as a rich, clean, harmonious premium palette — luminous and alive, never dull or faded, natural skin preserved.
 
 MASTER AUDIO: a 42-second custom cinematic score (7 clips × 6s) composed in self-resolving ~6-second phrases, so it can be trimmed to the reel’s assembled length at any phrase boundary without a hard cut — it always resolves, never stops dead or loops audibly. Built on a deep warm sub, an elegant felt piano and sleek modern textures — premium, cinematic and emotionally catching, never generic stock or empty ambience. It opens immediately on a single elegant piano strike haloed by a low sub-bloom (no fade-in) so the mood lands within the first second. Emotional arc: an airy intimate open across the first beats, a rising shimmer of anticipation toward frame 5, the warm emotional peak on the signature reveal, then a graceful resolve back toward the opening for an invisible loop. SILENT reel — no spoken line; an optional wordless breath/choir texture may rise on the peak only if it elevates, never a lyric. Layered as one system — lead melody, warm sub for body, glassy modern shimmer as atmosphere, restrained percussion, and event impacts reserved for the major beats, each tuned to the score’s own key so every hit reads as the music itself expanding, never an added sound effect.
 
@@ -1974,7 +1974,7 @@ Framing a true wide / slightly low on a 24mm look, deep focus so the near turned
 the towering cyclone-crown both read. Lighting: brilliant midday sun firing through the
 spiralling petals casting golden light over her, warm bounce. Atmosphere: epic, joyful,
 swirling petals and pollen. Color grade saturated sunflower-gold against clean cobalt.
-Textures: thousands of petals and seed-discs, cotton, soil. Continuity-locks identical.
+Textures: thousands of petals and seed-discs, cotton, soil. Continuity-locks identical. Premium editorial finish — rich clean colour and luminous mid-tones, deep-but-clean blacks, cinematic lighting with soft rim separation and high dynamic range, layered foreground-to-background depth, elevated material realism, immaculately clean and never dull or faded, natural true skin preserved. Greenery lush and healthy with premium landscaping.
 Negative: STD-NEG; plus no other footwear, no chaotic storm (cyclone must read ordered and
 joyful), no horror tone, no clipping through her.
 SUBJECT FRAMING & POSITION: A wide framing on a 24mm look holds Aira — she stands radiant at the still centre, arms open and face lifted, buttercup skirt and hair lifting in the flower-wind, white sneakers planted in the soil. She reads front to the lens within the Golden Sunflower Field scene. Her pose reads: gaze level and assured to the lens, composed; head balanced and tall; both shoulders open, level and relaxed; the arms easy at her sides, hands relaxed and open; torso tall and lifted, open to camera; waist long with a soft hip counter-tilt; both legs grounded and even, one taking a touch more weight; weight settled and balanced over both feet in true ground contact; hair settling around her. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
@@ -2013,7 +2013,7 @@ crown gently releases and golden petals rain down around her, rendered from her
 identity reference. Buttercup sundress, daisy bracelet, amber sunglasses back up in her
 hair, gold studs; white sneakers among the stalks (visible). One hand reaches up to catch
 a falling petal, almond nails clean. Hair catching petals. Makeup sun-kissed, glowing.
-Spatial logic: she is centred, petals streaking down through sun-shafts, the field and
+Spatial logic: she is centred, petals streaking down through sun-shafts, the field and — Premium foreground, midground and background layering with strong three-dimensional depth and clean visual balance (original framing preserved).
 cobalt sky behind. Framing on a 50mm look, medium-shallow focus, her crisp and petals
 streaking soft. Lighting warm sun key, petal-bounce, falling-petal sparkle. Atmosphere
 raining petals and pollen. Color grade gold-and-cobalt. Textures: petals, cotton, skin.
@@ -2088,7 +2088,7 @@ slow undulating sheets, descends to the tundra, and spirals around Aira's body, 
 her in a colossal living shawl-cloak of green-and-violet light that trails across the snow
 for a hundred metres and pulses with her breath — the stars wheeling behind — before
 lifting gently back into the sky.
-Palette: aurora green & violet, deep indigo night, snow blue-white, star-silver, warm skin.
+Palette: aurora green & violet, deep indigo night, snow blue-white, star-silver, warm skin. Rendered as a rich, clean, harmonious premium palette — luminous and alive, never dull or faded, natural skin preserved.
 
 MASTER AUDIO: a 36-second custom cinematic score (6 clips × 6s) composed in self-resolving ~6-second phrases, so it can be trimmed to the reel’s assembled length at any phrase boundary without a hard cut — it always resolves, never stops dead or loops audibly. Built on a glassy harp, an airy choir pad and soft weightless textures — premium, cinematic and emotionally catching, never generic stock or empty ambience. It opens immediately on a shimmering harp sweep over a choir-pad bloom (no fade-in) so the mood lands within the first second. Emotional arc: an airy intimate open across the first beats, a rising shimmer of anticipation toward frame 4, the warm emotional peak on the signature reveal, then a graceful resolve back toward the opening for an invisible loop. SILENT reel — no spoken line; an optional wordless breath/choir texture may rise on the peak only if it elevates, never a lyric. Layered as one system — lead melody, warm sub for body, weightless choir shimmer as atmosphere, restrained percussion, and event impacts reserved for the major beats, each tuned to the score’s own key so every hit reads as the music itself expanding, never an added sound effect.
 
@@ -2145,7 +2145,7 @@ A medium three-quarter frame catches Aira lowering the ski goggles onto her eyes
 mirror tint catching a streak of aurora, her breath fogging in the cold, rendered from her identity reference. The ivory wool coat, fur hood, knit scarf and mittens continue;
 one mitten lifts to the goggles. Snow boots implied below in the snow. Hands in chunky
 mittens, natural. Hair from the hood, frost-tipped. Makeup cold-fresh with wind-flush.
-Spatial logic: she fills the left two-thirds, aurora reflected in the goggle lens, the
+Spatial logic: she fills the left two-thirds, aurora reflected in the goggle lens, the — Premium foreground, midground and background layering with strong three-dimensional depth and clean visual balance (original framing preserved).
 tundra and peaks a dark blue bokeh. Framing on a 50mm look, medium-shallow focus so she
 and the goggles are crisp and the night melts soft. Lighting aurora green-violet key,
 moonlight rim, a glow in the goggle mirror. Atmosphere breath-fog, spindrift. Color grade
@@ -2297,7 +2297,7 @@ A high wide pull-back shows Aira standing small on the moonlit tundra, the auror
 high in the sky above her (post-impossible-move), her boot-prints trailing back across the
 snow, snow-peaks on the horizon, rendered from her identity reference. Ivory coat,
 fur hood, snow boots, goggles on hood, scarf. Hair settling. Makeup cold-fresh, serene.
-Spatial logic: high angle frames her within the vast snowscape, aurora arcing above, her
+Spatial logic: high angle frames her within the vast snowscape, aurora arcing above, her — Rich layered foreground-to-background depth, elegant spatial hierarchy and clean visual flow (original framing and angle preserved).
 prints leading the eye. Framing a high wide on a 28mm look, deep focus, spindrift softening
 the peaks. Lighting aurora green-violet from above, cool moonlight key on the snow.
 Atmosphere spindrift, breath-fog, stars. Color grade aurora-and-indigo. Textures: snow,
@@ -2341,7 +2341,7 @@ over the open courtyard — then gently drifts back, each flame returning to its
 she lowers her hand.
 Spoken line (Frame 3): natural Indian-accented English — “Every little light here… it
 remembers my name.”
-Palette: brass-gold, lantern-amber, deep teal & cobalt zellige, terracotta, warm night.
+Palette: brass-gold, lantern-amber, deep teal & cobalt zellige, terracotta, warm night. Rendered as a rich, clean, harmonious premium palette — luminous and alive, never dull or faded, natural skin preserved.
 
 MASTER AUDIO: a 36-second custom cinematic score (6 clips × 6s) composed in self-resolving ~6-second phrases, so it can be trimmed to the reel’s assembled length at any phrase boundary without a hard cut — it always resolves, never stops dead or loops audibly. Built on a glassy harp, an airy choir pad and soft weightless textures — premium, cinematic and emotionally catching, never generic stock or empty ambience. It opens immediately on a shimmering harp sweep over a choir-pad bloom (no fade-in) so the mood lands within the first second. Emotional arc: an airy intimate open across the first beats, a rising shimmer of anticipation toward frame 4, the warm emotional peak on the signature reveal, then a graceful resolve back toward the opening for an invisible loop. SPOKEN reel — the score opens space for the spoken line at its beat and ducks gently beneath the voice, then re-blooms after. Layered as one system — lead melody, warm sub for body, weightless choir shimmer as atmosphere, restrained percussion, and event impacts reserved for the major beats, each tuned to the score’s own key so every hit reads as the music itself expanding, never an added sound effect.
 
@@ -2362,7 +2362,7 @@ on the fountain's tiled rim, head turned to a glowing lantern. Spatial logic: lo
 so the horseshoe arches and lantern-strings rise overhead, the zellige floor leading to
 the fountain, depth through successive arches into amber-lit rooms. Framing a true wide /
 low on a 24mm look, deep focus so near tile, her figure, and the far arches all read.
-Lighting: warm brass-lantern amber key from many points, cool cobalt night fill from the
+Lighting: warm brass-lantern amber key from many points, cool cobalt night fill from the — Elevated cinematic lighting — beautiful bounce and rim separation, soft highlight roll-off, elegant shadow gradients and high dynamic range, never flat.
 open sky above, lacework shadows. Atmosphere: faint incense-haze, drifting orange-blossom.
 Color grade brass-amber with teal-cobalt zellige and terracotta. Textures: zellige mosaic,
 pierced brass, kaftan silk, leather babouche, citrus leaves. Continuity-locks: emerald-
@@ -2595,7 +2595,7 @@ halt at once, then wheel in unison and assemble into a COLOSSAL slow-rotating sp
 tower of suspended silver bodies winding up through the water around the glass tunnel like
 a living staircase of light—that turns around Aira once before dissolving back into a free-
 swimming school.
-Palette: deep ocean-blue, silver fish-flash, teal caustics, glass-cyan, warm skin.
+Palette: deep ocean-blue, silver fish-flash, teal caustics, glass-cyan, warm skin. Rendered as a rich, clean, harmonious premium palette — luminous and alive, never dull or faded, natural skin preserved.
 
 MASTER AUDIO: a 42-second custom cinematic score (7 clips × 6s) composed in self-resolving ~6-second phrases, so it can be trimmed to the reel’s assembled length at any phrase boundary without a hard cut — it always resolves, never stops dead or loops audibly. Built on a delicate felt piano, atmospheric pads and elegant glass textures — premium, cinematic and emotionally catching, never generic stock or empty ambience. It opens immediately on a soft piano strike with a low sub-bloom (no fade-in) so the mood lands within the first second. Emotional arc: an airy intimate open across the first beats, a rising shimmer of anticipation toward frame 5, the warm emotional peak on the signature reveal, then a graceful resolve back toward the opening for an invisible loop. SILENT reel — no spoken line; an optional wordless breath/choir texture may rise on the peak only if it elevates, never a lyric. Layered as one system — lead melody, warm sub for body, elegant glassy shimmer as atmosphere, restrained percussion, and event impacts reserved for the major beats, each tuned to the score’s own key so every hit reads as the music itself expanding, never an added sound effect.
 
@@ -2612,13 +2612,13 @@ mother-of-pearl shell earrings at her ears, a thin silver bracelet on one wrist.
 loose and softly waved, lifting faintly. Makeup is luminous aqua-glam — dewy skin, soft
 silver-taupe eye, a glossy rose lip, pearl highlight; nails a clean almond. She stands
 gazing up through the glass at a passing ray, one hand lifted toward it, weight even.
-Spatial logic: low camera so the glass tunnel arcs overhead in strong one-point
+Spatial logic: low camera so the glass tunnel arcs overhead in strong one-point — Rich layered foreground-to-background depth, elegant spatial hierarchy and clean visual flow (original framing and angle preserved).
 perspective vanishing into blue depth, fish and rays gliding around and above, caustics on
 the floor. Framing a true wide / low on a 24mm look, deep focus so near floor-caustics,
 her figure, and the far tunnel depth all read. Lighting: deep-blue aquarium key with
 rippling caustics, a cool cyan rim, warm skin preserved. Atmosphere: drifting motes in the
 water-light, faint bubble-streams. Color grade deep ocean-blue with silver and cyan.
-Textures: curved glass, satin slip, iridescent organza, clear PVC heels, fish-scale flash.
+Textures: curved glass, satin slip, iridescent organza, clear PVC heels, fish-scale flash. Elevated micro-texture and true premium material finish — realistic surfaces, natural imperfections, fine reflections, no plastic or noise.
 Continuity-locks: pearl-grey slip + iridescent organza, clear PVC ankle-strap heels, blue-
 tint glasses in hair, shell earrings, silver bracelet, soft-waved hair, aqua-glam makeup.
 Negative: STD-NEG; plus no other footwear, no daylight, no dry/empty tank.
@@ -2765,7 +2765,7 @@ Framing a true wide / slightly low on a 24mm look, deep focus so near floor and 
 towering fish-spiral both read. Lighting: deep-blue key with the silver spiral catching
 frozen caustic shafts, casting shimmering light over her. Atmosphere: epic, serene,
 suspended motes and bubbles. Color grade saturated ocean-blue with brilliant silver.
-Textures: thousands of silver fish, curved glass, satin, organza. Continuity-locks
+Textures: thousands of silver fish, curved glass, satin, organza. Continuity-locks — Premium editorial finish — rich clean colour and luminous mid-tones, deep-but-clean blacks, cinematic lighting with soft rim separation and high dynamic range, layered foreground-to-background depth, elevated material realism, immaculately clean and never dull or faded, natural true skin preserved.
 identical. Negative: STD-NEG; plus no other footwear, no chaotic swarm (spiral must read
 ordered and elegant), no horror tone, no clipping through her or the glass.
 SUBJECT FRAMING & POSITION: A wide framing on a 24mm look holds Aira — she stands at the centre of the tunnel, one arm raised following the spiral upward, the iridescent organza and slip glowing cyan, hair lifting. She reads front to the lens within the Glass Aquarium Tunnel scene. Her pose reads: gaze level and assured to the lens, composed; head balanced and tall; both shoulders open, level and relaxed; the arms easy at her sides, hands relaxed and open; torso tall and lifted, open to camera; waist long with a soft hip counter-tilt; both legs grounded and even, one taking a touch more weight; weight settled and balanced over both feet in true ground contact; hair settling around her. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
@@ -2882,7 +2882,7 @@ holding a frozen wave mid-curl above her — before melting back into falling sp
 car glides through.
 Spoken line (Frame 3): natural Indian-accented English — “The sea keeps every secret…
 but today it shows off for me.”
-Palette: Mediterranean blue, pastel lemon & coral, sun-gold, whitewash, sea-glass green.
+Palette: Mediterranean blue, pastel lemon & coral, sun-gold, whitewash, sea-glass green. Rendered as a rich, clean, harmonious premium palette — luminous and alive, never dull or faded, natural skin preserved.
 
 MASTER AUDIO: a 36-second custom cinematic score (6 clips × 6s) composed in self-resolving ~6-second phrases, so it can be trimmed to the reel’s assembled length at any phrase boundary without a hard cut — it always resolves, never stops dead or loops audibly. Built on a delicate felt piano, atmospheric pads and elegant glass textures — premium, cinematic and emotionally catching, never generic stock or empty ambience. It opens immediately on a soft piano strike with a low sub-bloom (no fade-in) so the mood lands within the first second. Emotional arc: an airy intimate open across the first beats, a rising shimmer of anticipation toward frame 4, the warm emotional peak on the signature reveal, then a graceful resolve back toward the opening for an invisible loop. SPOKEN reel — the score opens space for the spoken line at its beat and ducks gently beneath the voice, then re-blooms after. Layered as one system — lead melody, warm sub for body, elegant glassy shimmer as atmosphere, restrained percussion, and event impacts reserved for the major beats, each tuned to the score’s own key so every hit reads as the music itself expanding, never an added sound effect.
 
@@ -2942,11 +2942,11 @@ the sea sparkles behind her, white cat-eye sunglasses catching a sun-flare, rend
 her identity reference. The coral polka-dot dress, neck scarf, gold hoops, coral-bead
 bracelet continue; one hand at the headscarf knot. Espadrille wedges implied in the
 footwell. Hand natural, almond nails clean. Escaping tendrils streaming. Makeup sun-glam.
-Spatial logic: she fills the left two-thirds, the blue sea and a pastel village a sun-
+Spatial logic: she fills the left two-thirds, the blue sea and a pastel village a sun- — Premium foreground, midground and background layering with strong three-dimensional depth and clean visual balance (original framing preserved).
 hazed bokeh behind, car door-edge in foreground. Framing on a 50mm look, medium-shallow
 focus so she and the scarf are crisp and the coast melts to blue. Lighting bright sun key,
 sea-bounce, flare in the lenses. Atmosphere sea-haze, sparkle. Color grade blue-and-coral.
-Textures: silk scarf, polka-dot cotton, sunglasses, skin. Continuity-locks identical.
+Textures: silk scarf, polka-dot cotton, sunglasses, skin. Continuity-locks identical. Premium editorial finish — rich clean colour and luminous mid-tones, deep-but-clean blacks, cinematic lighting with soft rim separation and high dynamic range, layered foreground-to-background depth, elevated material realism, immaculately clean and never dull or faded, natural true skin preserved.
 Negative: STD-NEG; plus no other footwear, no warped hand, no overcast.
 SUBJECT FRAMING & POSITION: A medium framing on a 50mm look holds Aira — she is holding the fluttering headscarf at her cheek as the sea sparkles behind her, white cat-eye sunglasses catching a sun-flare. She reads at a three-quarter to the lens within the Amalfi Coast Vintage Convertible scene. Her pose reads: gaze following the wearing-action with quiet focus; head inclined toward her hands; one shoulder easing in as the arms work, the other relaxed; both hands articulate in the precise gesture, fingers unwarped; torso lengthened and softly leaning into the action; waist easy with a slight tilt; the legs grounded and even, one knee soft; weight balanced with a gentle counter-tilt; hair settling beside the working hands. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
@@ -3014,7 +3014,7 @@ entirely over the coastal road and the pastel convertible, refracting the bright
 broad rainbows, a frozen wave held mid-curl above the car; rendered from her identity
 reference. Aira stands up through the open convertible, one arm raised toward the
 crystalline arch, headscarf and dress-skirt flying, espadrille wedges braced on the seat.
-Spatial logic: she is the radiant centre; the seawater-glass arch rises with vast
+Spatial logic: she is the radiant centre; the seawater-glass arch rises with vast — Premium foreground, midground and background layering with strong three-dimensional depth and clean visual balance (original framing preserved).
 believable depth and refraction over the road, the blue sea and coast beyond, sunlight
 shattering into rainbows through the frozen water. Framing a true wide / slightly low on a
 24mm look, deep focus so the car, her figure, and the towering arch all read. Lighting:
@@ -3136,7 +3136,7 @@ rose-and-gold cloud, circle Aira once, then settle as a shimmering canopy of win
 the tea-table before dissolving into steam again.
 Spoken line (Frame 3): natural Indian-accented English — “Pour slowly… the prettiest
 things always take their time.”
-Palette: rose-pink, sage-green ivy, cream porcelain, gold, soft dappled sun.
+Palette: rose-pink, sage-green ivy, cream porcelain, gold, soft dappled sun. Rendered as a rich, clean, harmonious premium palette — luminous and alive, never dull or faded, natural skin preserved.
 
 MASTER AUDIO: a 36-second custom cinematic score (6 clips × 6s) composed in self-resolving ~6-second phrases, so it can be trimmed to the reel’s assembled length at any phrase boundary without a hard cut — it always resolves, never stops dead or loops audibly. Built on a delicate felt piano, atmospheric pads and elegant glass textures — premium, cinematic and emotionally catching, never generic stock or empty ambience. It opens immediately on a soft piano strike with a low sub-bloom (no fade-in) so the mood lands within the first second. Emotional arc: an airy intimate open across the first beats, a rising shimmer of anticipation toward frame 4, the warm emotional peak on the signature reveal, then a graceful resolve back toward the opening for an invisible loop. SPOKEN reel — the score opens space for the spoken line at its beat and ducks gently beneath the voice, then re-blooms after. Layered as one system — lead melody, warm sub for body, elegant glassy shimmer as atmosphere, restrained percussion, and event impacts reserved for the major beats, each tuned to the score’s own key so every hit reads as the music itself expanding, never an added sound effect.
 
@@ -3159,7 +3159,7 @@ everywhere. Framing a true wide / low on a 24mm look, deep focus so near porcela
 figure, and the far trellis all read. Lighting: warm dappled-sun key through the trellis,
 soft green bounce off the ivy, gentle shadow-lace. Atmosphere: drifting rose-petals,
 floating pollen, faint steam from the pot. Color grade rose-pink with sage-green and gold.
-Textures: dotted-Swiss cotton, lace, porcelain, blush satin slingbacks, rose petals.
+Textures: dotted-Swiss cotton, lace, porcelain, blush satin slingbacks, rose petals. Premium material realism — refined micro-texture, believable surface detail and natural reflections, nothing plastic or synthetic.
 Continuity-locks: powder-rose tea-dress + lace collar, blush kitten-heel slingbacks, wide-
 brim straw hat + rose ribbon, pearl-rim glasses, pearl-drop earrings, gold bracelet, soft
 waves, romantic-glam makeup. Negative: STD-NEG; plus no other footwear, no overcast, no
@@ -3387,7 +3387,7 @@ mid-air, then assembles into a COLOSSAL three-dimensional graffiti sculpture —
 floating wildstyle letters, arrows and color-splashes — that orbits Aira in a slow-turning
 halo above the bowl, the sunset blazing through it, before scattering back into drifting
 mist.
-Palette: sunset orange & magenta, concrete grey, electric teal & yellow graffiti, gold.
+Palette: sunset orange & magenta, concrete grey, electric teal & yellow graffiti, gold. Rendered as a rich, clean, harmonious premium palette — luminous and alive, never dull or faded, natural skin preserved.
 
 MASTER AUDIO: a 42-second custom cinematic score (7 clips × 6s) composed in self-resolving ~6-second phrases, so it can be trimmed to the reel’s assembled length at any phrase boundary without a hard cut — it always resolves, never stops dead or loops audibly. Built on a glassy harp, an airy choir pad and soft weightless textures — premium, cinematic and emotionally catching, never generic stock or empty ambience. It opens immediately on a shimmering harp sweep over a choir-pad bloom (no fade-in) so the mood lands within the first second. Emotional arc: an airy intimate open across the first beats, a rising shimmer of anticipation toward frame 5, the warm emotional peak on the signature reveal, then a graceful resolve back toward the opening for an invisible loop. SILENT reel — no spoken line; an optional wordless breath/choir texture may rise on the peak only if it elevates, never a lyric. Layered as one system — lead melody, warm sub for body, weightless choir shimmer as atmosphere, restrained percussion, and event impacts reserved for the major beats, each tuned to the score’s own key so every hit reads as the music itself expanding, never an added sound effect.
 
@@ -3404,11 +3404,11 @@ choker at her throat, silver rings stacked on her fingers, a slim hoop in one ea
 in a high slick pony with baby-hairs laid, lifting in the breeze. Makeup is bronzed street-
 glam — luminous skin, bronzed eye, a glossy nude lip; nails a clean almond. She stands with
 cool swagger, one hand in a jacket pocket, the other loose, weight cocked on one hip.
-Spatial logic: low camera so the graffiti ramps sweep up around her and the burning sky
+Spatial logic: low camera so the graffiti ramps sweep up around her and the burning sky — Premium foreground, midground and background layering with strong three-dimensional depth and clean visual balance (original framing preserved).
 fills the top, the bowl curving away into sunset depth. Framing a true wide / low on a
 24mm look, deep focus so near concrete-texture, her figure, and the far ramps all read.
-Lighting: warm sunset key with long golden rim, magenta sky-bounce, deep concrete shadow.
-Atmosphere: drifting dust, a haze of sunset light, distant spray-mist. Color grade sunset-
+Lighting: warm sunset key with long golden rim, magenta sky-bounce, deep concrete shadow. Premium cinematic lighting quality — soft volumetric light, natural rim separation, elegant shadow gradients, high dynamic range, never flat or dull.
+Atmosphere: drifting dust, a haze of sunset light, distant spray-mist. Color grade sunset- — Premium editorial finish — rich clean colour and luminous mid-tones, deep-but-clean blacks, cinematic lighting with soft rim separation and high dynamic range, layered foreground-to-background depth, elevated material realism, immaculately clean and never dull or faded, natural true skin preserved. Water rendered crystal-clear in rich sea-blue and turquoise gradients, with beautiful caustics and clean sparkling reflections. Sky richly graded and cinematic with elegant clouds and premium light, never flat or empty.
 orange and magenta with electric graffiti pops over concrete grey. Textures: spray-painted
 concrete, varsity wool-and-leather, denim, gum-sole skate sneakers. Continuity-locks:
 cream-burgundy varsity jacket + black tee + wide-leg jeans, off-white gum-sole skate
@@ -3481,7 +3481,7 @@ A full-length low hero shot shows Aira striding up a graffiti ramp toward the su
 oversized jacket swinging open, wide-leg jeans flaring, rendered from her identity
 reference. Varsity jacket, black tee, choker, rings continue; skate sneakers mid-stride on
 the painted ramp (visible), gum soles gripping. Slick pony swinging. Makeup bronzed.
-Spatial logic: low angle makes her tower against the burning sky, the graffiti ramp lines
+Spatial logic: low angle makes her tower against the burning sky, the graffiti ramp lines — Premium foreground, midground and background layering with strong three-dimensional depth and clean visual balance (original framing preserved).
 converging behind, dust kicking. Framing full-length on a 28mm look, deep focus, she crisp
 and the sky blazing. Lighting strong sunset backlight rim around her and the jacket, warm
 bounce. Atmosphere dust, haze, sun-flare. Color grade sunset-and-graffiti. Textures:
@@ -3557,7 +3557,7 @@ halo turns with vast believable depth above the bowl, sunset firing through the 
 translucent color, long shadows on the concrete. Framing a true wide / slightly low on a
 24mm look, deep focus so near concrete and the towering graffiti-halo both read. Lighting:
 warm sunset firing through the floating color casting electric light over her and the bowl.
-Atmosphere: epic, electric, drifting paint-mist and dust. Color grade saturated sunset-
+Atmosphere: epic, electric, drifting paint-mist and dust. Color grade saturated sunset- — Premium editorial finish — rich clean colour and luminous mid-tones, deep-but-clean blacks, cinematic lighting with soft rim separation and high dynamic range, layered foreground-to-background depth, elevated material realism, immaculately clean and never dull or faded, natural true skin preserved. Sky richly graded and cinematic with elegant clouds and premium light, never flat or empty.
 orange and magenta with electric teal-yellow graffiti. Textures: floating translucent
 paint-letters, concrete, varsity wool. Continuity-locks identical. Negative: STD-NEG; plus
 no other footwear, no chaotic splatter-storm (sculpture must read ordered and stylish), no
@@ -3672,7 +3672,7 @@ her into a COLOSSAL mirrored dome of standing water that reflects the whole cave
 single shaft of sunlight shatters into dozens of SOLID glowing light-bars that radiate
 outward and slowly rotate around her like a cathedral of light — before the dome settles
 back to a still pool and the beams melt to a single shaft.
-Palette: turquoise & teal water, cave-stone amber, sun-shaft gold, jade-green, deep shadow.
+Palette: turquoise & teal water, cave-stone amber, sun-shaft gold, jade-green, deep shadow. Rendered as a rich, clean, harmonious premium palette — luminous and alive, never dull or faded, natural skin preserved.
 
 MASTER AUDIO: a 36-second custom cinematic score (6 clips × 6s) composed in self-resolving ~6-second phrases, so it can be trimmed to the reel’s assembled length at any phrase boundary without a hard cut — it always resolves, never stops dead or loops audibly. Built on a low cello, dark sub frequencies and shadowed ambience — premium, cinematic and emotionally catching, never generic stock or empty ambience. It opens immediately on a low cello swell under a dark sub-pulse (no fade-in) so the mood lands within the first second. Emotional arc: an airy intimate open across the first beats, a rising shimmer of anticipation toward frame 4, the warm emotional peak on the signature reveal, then a graceful resolve back toward the opening for an invisible loop. SILENT reel — no spoken line; an optional wordless breath/choir texture may rise on the peak only if it elevates, never a lyric. Layered as one system — lead melody, warm sub for body, shadowed low-end tension as atmosphere, restrained percussion, and event impacts reserved for the major beats, each tuned to the score’s own key so every hit reads as the music itself expanding, never an added sound effect.
 
@@ -3689,7 +3689,7 @@ studs at her ears, a thin gold anklet; no eyewear in this cave world. Hair is lo
 softly damp, lifting faintly. Makeup is dewy-natural — luminous bare skin, soft bronze eye,
 a natural rose lip, water-glow highlight; nails a clean almond. She stands gazing up the
 sunbeam toward the opening, one hand trailing toward the turquoise water, weight even.
-Spatial logic: low camera so the cave vaults overhead, the sunbeam lancing diagonally onto
+Spatial logic: low camera so the cave vaults overhead, the sunbeam lancing diagonally onto — Rich layered foreground-to-background depth, elegant spatial hierarchy and clean visual flow (original framing and angle preserved).
 the glowing pool, amber walls and vines framing, water depth dropping into teal shadow.
 Framing a true wide / low on a 24mm look, deep focus so near wet-stone, her figure, and the
 far cave walls all read. Lighting: a single dramatic gold sun-shaft key, cool turquoise
@@ -3925,7 +3925,7 @@ compress and sculpt themselves into a COLOSSAL spiral staircase of solid-looking
 winding up into the golden sky, each step forming just before her foot — she ascends it
 weightlessly as the whole staircase slowly rotates beneath a halo of sun — before it
 softens back into a drifting cloud-sea.
-Palette: cotton-candy pink & periwinkle blue, gold-hour peach, cream, soft lilac.
+Palette: cotton-candy pink & periwinkle blue, gold-hour peach, cream, soft lilac. Rendered as a rich, clean, harmonious premium palette — luminous and alive, never dull or faded, natural skin preserved.
 
 MASTER AUDIO: a 42-second custom cinematic score (7 clips × 6s) composed in self-resolving ~6-second phrases, so it can be trimmed to the reel’s assembled length at any phrase boundary without a hard cut — it always resolves, never stops dead or loops audibly. Built on a glassy harp, an airy choir pad and soft weightless textures — premium, cinematic and emotionally catching, never generic stock or empty ambience. It opens immediately on a shimmering harp sweep over a choir-pad bloom (no fade-in) so the mood lands within the first second. Emotional arc: an airy intimate open across the first beats, a rising shimmer of anticipation toward frame 5, the warm emotional peak on the signature reveal, then a graceful resolve back toward the opening for an invisible loop. SILENT reel — no spoken line; an optional wordless breath/choir texture may rise on the peak only if it elevates, never a lyric. Layered as one system — lead melody, warm sub for body, weightless choir shimmer as atmosphere, restrained percussion, and event impacts reserved for the major beats, each tuned to the score’s own key so every hit reads as the music itself expanding, never an added sound effect.
 
@@ -3942,7 +3942,7 @@ through loose waves, a string of tiny pearls at her throat. Hair is loose, soft 
 in the high breeze. Makeup is dreamy pastel-glam — luminous skin, soft pink eye with a
 pearl shimmer, a glossy rose lip, highlighter glow; nails a clean almond. She stands in
 weightless wonder, arms drifting slightly out for balance, face lifted to the gold sun.
-Spatial logic: low camera so the cloud-sea rolls to the glowing horizon and the soft sky
+Spatial logic: low camera so the cloud-sea rolls to the glowing horizon and the soft sky — Rich layered foreground-to-background depth, elegant spatial hierarchy and clean visual flow (original framing and angle preserved).
 fills the top, wisps curling around her. Framing a true wide / low on a 24mm look, deep
 focus so near cloud-wisps, her figure, and the far horizon all read. Lighting: warm golden-
 hour key, soft pink-and-periwinkle cloud-bounce, gentle rim. Atmosphere: drifting cloud-
@@ -4166,7 +4166,7 @@ A high wide pull-back shows Aira standing small and radiant on the restored roll
 sea, arms loosely open, wisps drifting around her, the gold sun low on the horizon (post-
 impossible-move), rendered from her identity reference. Lilac-peach gown, iridescent
 platforms, heart sunglasses in hair, pearls. Hair settling. Makeup glowing, serene smile.
-Spatial logic: high angle frames her within the vast pastel cloud-sea, the sun glowing,
+Spatial logic: high angle frames her within the vast pastel cloud-sea, the sun glowing, — Premium foreground, midground and background layering with strong three-dimensional depth and clean visual balance (original framing preserved).
 soft sky filling. Framing a high wide on a 28mm look, deep focus, haze softening the
 horizon. Lighting warm gold-hour key, pastel cloud-bounce, gentle flare. Atmosphere
 drifting wisps, sparkle-motes. Color grade pink-and-gold. Textures: cloud-sea, tulle,
@@ -4209,7 +4209,7 @@ waves frozen mid-crash — that turns around her once before settling back into 
 black beach.
 Spoken line (Frame 3): natural Indian-accented English — “Let the wind take everything…
 what’s real always stays.”
-Palette: obsidian black, silver-grey sky, sea-foam white, cold steel-blue, muted gold.
+Palette: obsidian black, silver-grey sky, sea-foam white, cold steel-blue, muted gold. Rendered as a rich, clean, harmonious premium palette — luminous and alive, never dull or faded, natural skin preserved.
 
 MASTER AUDIO: a 36-second custom cinematic score (6 clips × 6s) composed in self-resolving ~6-second phrases, so it can be trimmed to the reel’s assembled length at any phrase boundary without a hard cut — it always resolves, never stops dead or loops audibly. Built on deep trailer percussion, a driving synth bass and brass swells — premium, cinematic and emotionally catching, never generic stock or empty ambience. It opens immediately on a low brass-and-sub impact (no fade-in) so the mood lands within the first second. Emotional arc: an airy intimate open across the first beats, a rising shimmer of anticipation toward frame 4, the warm emotional peak on the signature reveal, then a graceful resolve back toward the opening for an invisible loop. SPOKEN reel — the score opens space for the spoken line at its beat and ducks gently beneath the voice, then re-blooms after. Layered as one system — lead melody, warm sub for body, taut percussive tension as atmosphere, restrained percussion, and event impacts reserved for the major beats, each tuned to the score’s own key so every hit reads as the music itself expanding, never an added sound effect.
 
@@ -4232,7 +4232,7 @@ in the foreground. Framing a true wide / low on a 24mm look, deep focus so near 
 sheen, her figure, and the far stacks all read. Lighting: cool overcast silver key, soft
 steel-blue sea-bounce, muted contrast. Atmosphere: blowing sand-mist, sea-spray, drifting
 cloud. Color grade obsidian-black and silver-grey with sea-foam and a muted-gold accent.
-Textures: black volcanic sand, matte wool, sheer chiffon, leather combat sandals, basalt.
+Textures: black volcanic sand, matte wool, sheer chiffon, leather combat sandals, basalt. Elevated micro-texture and true premium material finish — realistic surfaces, natural imperfections, fine reflections, no plastic or noise.
 Continuity-locks: charcoal wool coat-dress + chiffon scarf + trousers, black leather combat
 sandals, matte-black wraparound sunglasses, silver ear-cuff, silver ring, whipping loose
 hair, cool editorial-glam makeup. Negative: STD-NEG; plus no other footwear, no sunny sky,
@@ -4462,7 +4462,7 @@ Aira lifts a hand, every frozen reflection snaps in unison back into one perfect
 synchronised mirror-self, the light-points flaring white.
 Spoken line (Frame 3): natural Indian-accented English — “A thousand of me… and every one
 knows exactly who she is.”
-Palette: electric violet & cyan LED, mirror-silver, deep black, white flare, magenta.
+Palette: electric violet & cyan LED, mirror-silver, deep black, white flare, magenta. Rendered as a rich, clean, harmonious premium palette — luminous and alive, never dull or faded, natural skin preserved.
 
 MASTER AUDIO: a 36-second custom cinematic score (6 clips × 6s) composed in self-resolving ~6-second phrases, so it can be trimmed to the reel’s assembled length at any phrase boundary without a hard cut — it always resolves, never stops dead or loops audibly. Built on a glassy harp, an airy choir pad and soft weightless textures — premium, cinematic and emotionally catching, never generic stock or empty ambience. It opens immediately on a shimmering harp sweep over a choir-pad bloom (no fade-in) so the mood lands within the first second. Emotional arc: an airy intimate open across the first beats, a rising shimmer of anticipation toward frame 4, the warm emotional peak on the signature reveal, then a graceful resolve back toward the opening for an invisible loop. SPOKEN reel — the score opens space for the spoken line at its beat and ducks gently beneath the voice, then re-blooms after. Layered as one system — lead melody, warm sub for body, weightless choir shimmer as atmosphere, restrained percussion, and event impacts reserved for the major beats, each tuned to the score’s own key so every hit reads as the music itself expanding, never an added sound effect.
 
@@ -4718,7 +4718,7 @@ once and swirl up around Aira, then FREEZE in mid-air assembling into a COLOSSAL
 archway of suspended amber-and-crimson leaves — lit from within like stained glass —
 arching high over the pumpkin field; she steps through it as it slowly turns, before the
 leaves release and drift gently back to the ground.
-Palette: amber, burnt-orange, crimson, golden festival-light, dusk-violet, cream.
+Palette: amber, burnt-orange, crimson, golden festival-light, dusk-violet, cream. Rendered as a rich, clean, harmonious premium palette — luminous and alive, never dull or faded, natural skin preserved.
 
 MASTER AUDIO: a 42-second custom cinematic score (7 clips × 6s) composed in self-resolving ~6-second phrases, so it can be trimmed to the reel’s assembled length at any phrase boundary without a hard cut — it always resolves, never stops dead or loops audibly. Built on a deep warm sub, an elegant felt piano and sleek modern textures — premium, cinematic and emotionally catching, never generic stock or empty ambience. It opens immediately on a single elegant piano strike haloed by a low sub-bloom (no fade-in) so the mood lands within the first second. Emotional arc: an airy intimate open across the first beats, a rising shimmer of anticipation toward frame 5, the warm emotional peak on the signature reveal, then a graceful resolve back toward the opening for an invisible loop. SILENT reel — no spoken line; an optional wordless breath/choir texture may rise on the peak only if it elevates, never a lyric. Layered as one system — lead melody, warm sub for body, glassy modern shimmer as atmosphere, restrained percussion, and event impacts reserved for the major beats, each tuned to the score’s own key so every hit reads as the music itself expanding, never an added sound effect.
 
@@ -4739,8 +4739,8 @@ basket, the other resting on a tall pumpkin, head tilted to the string-lights. S
 logic: low camera so the pumpkin rows sweep back to the barn and the string-lights arc
 overhead, dusk sky glowing, pumpkins crowding the foreground. Framing a true wide / low on
 a 24mm look, deep focus so near pumpkin-texture, her figure, and the far barn all read.
-Lighting: warm golden string-light key, soft dusk-violet sky-fill, cozy amber bounce.
-Atmosphere: drifting autumn leaves, faint dusk haze, a wisp of woodsmoke. Color grade
+Lighting: warm golden string-light key, soft dusk-violet sky-fill, cozy amber bounce. Premium cinematic lighting quality — soft volumetric light, natural rim separation, elegant shadow gradients, high dynamic range, never flat or dull.
+Atmosphere: drifting autumn leaves, faint dusk haze, a wisp of woodsmoke. Color grade — Premium editorial finish — rich clean colour and luminous mid-tones, deep-but-clean blacks, cinematic lighting with soft rim separation and high dynamic range, layered foreground-to-background depth, elevated material realism, immaculately clean and never dull or faded, natural true skin preserved. Sky richly graded and cinematic with elegant clouds and premium light, never flat or empty. Greenery lush and healthy with premium landscaping.
 amber and burnt-orange with dusk-violet and golden light. Textures: cable-knit, corduroy,
 plaid wool, pumpkin-skin, brown leather Chelsea boots, woven basket. Continuity-locks:
 cream cable-knit sweater + rust corduroy skirt + amber plaid scarf, brown leather Chelsea
@@ -5006,7 +5006,7 @@ circling her once as she stands transformed in light, then sweep back down and R
 her gown, now even more dazzling, crystalline and glowing.
 Spoken line (Frame 4): natural Indian-accented English — “Take off the mask if you like…
 I was always going to shine.”
-Palette: champagne-gold, midnight-blue, crystal-white, candle-amber, deep burgundy.
+Palette: champagne-gold, midnight-blue, crystal-white, candle-amber, deep burgundy. Rendered as a rich, clean, harmonious premium palette — luminous and alive, never dull or faded, natural skin preserved.
 
 MASTER AUDIO: a 48-second custom cinematic score (8 clips × 6s) composed in self-resolving ~6-second phrases, so it can be trimmed to the reel’s assembled length at any phrase boundary without a hard cut — it always resolves, never stops dead or loops audibly. Built on a deep warm sub, an elegant felt piano and sleek modern textures — premium, cinematic and emotionally catching, never generic stock or empty ambience. It opens immediately on a single elegant piano strike haloed by a low sub-bloom (no fade-in) so the mood lands within the first second. Emotional arc: an airy intimate open across the first beats, a rising shimmer of anticipation toward frame 5, the warm emotional peak on the signature reveal, then a graceful resolve back toward the opening for an invisible loop. SPOKEN reel — the score opens space for the spoken line at its beat and ducks gently beneath the voice, then re-blooms after. Layered as one system — lead melody, warm sub for body, glassy modern shimmer as atmosphere, restrained percussion, and event impacts reserved for the major beats, each tuned to the score’s own key so every hit reads as the music itself expanding, never an added sound effect.
 
@@ -5144,7 +5144,7 @@ tendrils framing. Spatial logic: the gilded ballroom and a blazing chandelier bl
 warm gold bokeh behind her. Framing on an 85mm look, shallow focus, her eyes behind the
 mask the sharp plane. Lighting warm chandelier beauty key, gilt fill, catch-light in each
 eye through the mask. Atmosphere gold-dust sparkle. Color grade champagne-and-midnight.
-Textures: filigree mask, crystal beads, satin glove, skin, red lip. Continuity-locks
+Textures: filigree mask, crystal beads, satin glove, skin, red lip. Continuity-locks — Premium editorial finish — rich clean colour and luminous mid-tones, deep-but-clean blacks, cinematic lighting with soft rim separation and high dynamic range, layered foreground-to-background depth, elevated material realism, immaculately clean and never dull or faded, natural true skin preserved.
 identical. Negative: STD-NEG; plus no gaze-drift, no lip mismatch, no other footwear.
 SUBJECT FRAMING & POSITION: A medium framing on a 85mm look holds Aira — she three-quarter to lens on the ballroom floor, her eyes bright behind the gold filigree mask lifting to camera for the spoken line. She reads at a three-quarter to the lens within the Grand Masquerade Ballroom scene. Her pose reads: gaze steady to camera with quiet confidence; head level and poised; the shoulders squared and easy; both arms relaxed at her sides, fingers soft; torso tall and open, breath lifting the chest; waist long, hips set with a gentle counter-tilt; the legs planted even, one knee soft; weight grounded and balanced across both feet; hair falling naturally at rest. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
@@ -5186,7 +5186,7 @@ chandelier-lit hall, refracted rainbows scattering across columns and mirrors, m
 dancers frozen in awe. Framing a true wide / slightly low on a 24mm look, deep focus so
 near faceted moth-wings and the far ballroom both read. Lighting: chandelier-gold firing
 through thousands of crystal wings casting refracted rainbow light over the whole hall.
-Atmosphere: epic, magical, glittering wings and gold dust. Color grade saturated champagne-
+Atmosphere: epic, magical, glittering wings and gold dust. Color grade saturated champagne- — Premium editorial finish — rich clean colour and luminous mid-tones, deep-but-clean blacks, cinematic lighting with soft rim separation and high dynamic range, layered foreground-to-background depth, elevated material realism, immaculately clean and never dull or faded, natural true skin preserved.
 gold and crystal-white with midnight-blue. Textures: faceted glass moth-wings, crystalline
 under-layer, diamond, marble. Continuity-locks: mask, choker, earrings, gloves, chignon,
 crystal heels all persist; modest crystalline coverage maintained throughout. Negative:
@@ -5232,7 +5232,7 @@ reformed, more-dazzling crystalline gown (post-impossible-move), the skirt flari
 radiant arc, masked dancers around her, rendered from her identity reference. The
 mask, choker, opera gloves, earrings continue; crystal heels mid-turn on the marble
 (visible), faceted heels flashing. Chignon with tendrils. Makeup masquerade-glam, glowing.
-Spatial logic: she is centred, the gown flaring, chandeliers above and gilded mirrors and
+Spatial logic: she is centred, the gown flaring, chandeliers above and gilded mirrors and — Premium foreground, midground and background layering with strong three-dimensional depth and clean visual balance (original framing preserved).
 dancers around. Framing full-length on a 35mm look, medium depth, she crisp and the hall
 soft gold. Lighting warm chandelier key, gilt bounce, crystalline gown-sparkle. Atmosphere
 gold dust, feathers. Color grade champagne-and-midnight. Textures: crystalline gown, marble,

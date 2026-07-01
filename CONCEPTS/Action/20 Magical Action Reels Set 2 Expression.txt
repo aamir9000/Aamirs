@@ -114,7 +114,7 @@ Hero Element: No weapon, no fight — Aira survives and evades through seamanshi
 
 Antagonist Element: A massive, hyper-realistically rendered sea monster — a leviathan whose head and coils rise sky-high out of the ocean. Treated like a nature-documentary apex animal, not a cartoon: real water-sheeting and displacement, barnacled and scarred hide, slick membranous fins, a vast intelligent eye, immense believable weight and scale, faint deep-sea bioluminescence along its flanks. It is awe-inspiring and dangerous but not gory — the threat is scale, water, and force, never blood.
 
-Setting: The middle of a vast open ocean at storm-dusk — mountainous slate-and-teal swells, a bruised violet-and-gold sky with broken storm-light, sheeting spray and rain, Aira's small weatherbeaten longboat the only human thing for miles.
+Setting: The middle of a vast open ocean at storm-dusk — mountainous slate-and-teal swells, a bruised violet-and-gold sky with broken storm-light, sheeting spray and rain, Aira's small weatherbeaten longboat the only human thing for miles. Every zone of the frame intentionally designed, immaculately clean and premium, with layered foreground, midground and background depth and rich environmental storytelling. Water kept deep, clean and glassy — premium and clear, never muddy or grey. Sky richly graded and cinematic with elegant clouds and premium light, never flat or empty.
 
 Wardrobe: A fitted teal-and-charcoal weatherproof sailing jacket with sealed seams, a storm-hood, an integrated climbing-style harness, waterproof trousers over grip sea-boots — full-coverage, modest, mariner-coded, drenched and storm-lashed.
 
@@ -136,9 +136,9 @@ Duration: ~24 seconds · 8 frames · 24fps · 180° shutter (slow-motion ramp on
 
 Mood: Awe, terror, nerve, transcendence — the sublime.
 
-Composition: Towering vertical swells and a sky-filling monster against one small human; macro close-up at the emotional peak; slow-motion at the wave-parting; scale contrast pushed in every frame — tiny boat, vast beast.
+Composition: Towering vertical swells and a sky-filling monster against one small human; macro close-up at the emotional peak; slow-motion at the wave-parting; scale contrast pushed in every frame — tiny boat, vast beast. Rich layered foreground-to-background depth, elegant spatial hierarchy and clean visual flow (original framing and angle preserved).
 
-Grade: Slate-and-teal ocean, bruised violet-and-gold storm sky, deep-sea bioluminescent cyan on the leviathan, glassy aquamarine for the parted-water magic, rich blacks, controlled bloom on storm-light and spray.
+Grade: Slate-and-teal ocean, bruised violet-and-gold storm sky, deep-sea bioluminescent cyan on the leviathan, glassy aquamarine for the parted-water magic, rich blacks, controlled bloom on storm-light and spray. Premium editorial grade — rich clean colour, luminous mid-tones, deep-but-clean blacks, controlled elegant saturation, no faded or muddy tones, natural true skin preserved.
 
 Identity Safety: Aira rendered entirely from the locked reference sheet; adult, 25; no physical or ethnic enumeration; full-coverage wardrobe; the monster is awe-and-scale dramatic, never gory; no harm shown to the animal or to her.
 
@@ -240,7 +240,7 @@ Hero Element: A flowing, athletic wuxia exchange — blocks, flowing parries, a 
 
 Antagonist Element: A masked rival duelist in dark robes — an equal, honorable opponent, fully covered, faceless behind a porcelain half-mask, matching her move for move.
 
-Setting: A moonlit temple courtyard in full cherry-blossom bloom — pale stone tiles, a still black reflecting pond, paper lanterns, an arched gate, blossom trees raining pink-white petals through the cool night air.
+Setting: A moonlit temple courtyard in full cherry-blossom bloom — pale stone tiles, a still black reflecting pond, paper lanterns, an arched gate, blossom trees raining pink-white petals through the cool night air. Every zone of the frame intentionally designed, immaculately clean and premium, with layered foreground, midground and background depth and rich environmental storytelling. Greenery lush and healthy with premium landscaping. Architecture in fine premium materials with an immaculate finish.
 
 Wardrobe: A fitted charcoal-and-plum martial-arts jacket with a wrapped sash, tapered combat trousers, forearm wraps — full-coverage, modest, movement-ready.
 
@@ -262,9 +262,9 @@ Duration: ~21 seconds · 7 frames · 24fps · 180° shutter (slow-motion ramp on
 
 Mood: Grace, tension, mutual respect, transcendence.
 
-Composition: Symmetry across the courtyard, falling-petal depth layers, a macro close-up at the target-lock, slow-motion at the spin-kick and petal-freeze.
+Composition: Symmetry across the courtyard, falling-petal depth layers, a macro close-up at the target-lock, slow-motion at the spin-kick and petal-freeze. Premium foreground, midground and background layering with strong three-dimensional depth and clean visual balance (original framing preserved).
 
-Grade: Moonlit blue-silver, warm lantern-amber accents, pink-white blossom, jade-green magic-glow, deep ink-blacks.
+Grade: Moonlit blue-silver, warm lantern-amber accents, pink-white blossom, jade-green magic-glow, deep ink-blacks. World-class editorial colour — rich and vivid yet clean, luminous mid-tones, deep-but-clean blacks, controlled saturation, nothing washed-out, natural skin protected.
 
 Identity Safety: Aira from the locked reference sheet; adult, 25; full-coverage; the duel is skill-based and non-gory; the opponent is fully covered and unharmed.
 
@@ -356,7 +356,7 @@ Hero Element: A relentless, inventive chase — sprint, long-jump, wall-run, vau
 
 Antagonist Element: A masked pursuer (fully covered, faceless), chasing her across the islands — an obstacle and a threat, never harmed; the one clash ends with a throw, not a beating.
 
-Setting: A chain of floating sky-temples at golden dawn — tiered pagodas, stone bridges, prayer-flag lines, and railed terraces drifting in a vast sea of clouds, sunlit peaks breaking through far below, deep blue sky above.
+Setting: A chain of floating sky-temples at golden dawn — tiered pagodas, stone bridges, prayer-flag lines, and railed terraces drifting in a vast sea of clouds, sunlit peaks breaking through far below, deep blue sky above. Each area of the frame intentionally composed, pristine and luxurious, with true foreground-to-background layering and immersive environmental depth. Water rendered crystal-clear in rich sea-blue and turquoise gradients, with beautiful caustics and clean sparkling reflections. Sky richly graded and cinematic with elegant clouds and premium light, never flat or empty.
 
 Wardrobe: A fitted slate-and-saffron running tunic with a cross-strap harness, tapered trousers, light forearm wraps — full-coverage, modest, built for speed.
 
@@ -378,9 +378,9 @@ Duration: ~24 seconds · 8 frames · 24fps · 180° shutter (slow-motion ramp on
 
 Mood: Exhilaration, momentum, wonder, nerve.
 
-Composition: Vast vertical drops and sky-depth, leading-line bridges and railings, a macro close-up mid-flight, slow-motion at the great void-leap.
+Composition: Vast vertical drops and sky-depth, leading-line bridges and railings, a macro close-up mid-flight, slow-motion at the great void-leap. Rich layered foreground-to-background depth, elegant spatial hierarchy and clean visual flow (original framing and angle preserved).
 
-Grade: Dawn gold-and-rose, deep sky-blue, cloud-white, luminous cyan cloud-stone glow, clean shadows.
+Grade: Dawn gold-and-rose, deep sky-blue, cloud-white, luminous cyan cloud-stone glow, clean shadows. World-class editorial colour — rich and vivid yet clean, luminous mid-tones, deep-but-clean blacks, controlled saturation, nothing washed-out, natural skin protected.
 
 Identity Safety: Aira from the locked reference sheet; adult, 25; full-coverage; the chase is athletic and non-gory; the pursuer is fully covered and unharmed.
 
@@ -482,7 +482,7 @@ Hero Element: Pure descent athleticism — slide, swing, leap, down-climb, dive 
 
 Antagonist Element: No human foe — the threat is the collapsing cavern and the depth; tension comes from falling rock, narrowing time, and the long drop, never from violence.
 
-Setting: A vast underground cavern walled in towering bioluminescent crystals — cyan, violet, and rose formations glowing in the dark, a luminous pool far below, mineral mist, distant water-drip echo, the entrance high above caving in.
+Setting: A vast underground cavern walled in towering bioluminescent crystals — cyan, violet, and rose formations glowing in the dark, a luminous pool far below, mineral mist, distant water-drip echo, the entrance high above caving in. Each area of the frame intentionally composed, pristine and luxurious, with true foreground-to-background layering and immersive environmental depth. Water rendered crystal-clear in rich sea-blue and turquoise gradients, with beautiful caustics and clean sparkling reflections.
 
 Wardrobe: A fitted charcoal-and-teal climbing suit with a low-profile harness, knee and elbow guards, light gloves — full-coverage, modest, built for descent.
 
@@ -504,9 +504,9 @@ Duration: ~21 seconds · 7 frames · 24fps · 180° shutter (slow-motion ramp on
 
 Mood: Urgency, wonder, control, awe.
 
-Composition: Deep vertical descent-lines, crystal-glow depth layers, a macro close-up at mid-descent, slow-motion at the plunge.
+Composition: Deep vertical descent-lines, crystal-glow depth layers, a macro close-up at mid-descent, slow-motion at the plunge. Premium foreground, midground and background layering with strong three-dimensional depth and clean visual balance (original framing preserved).
 
-Grade: Cyan-violet-rose bioluminescence against deep cavern-black, warm skin-tones, luminous pool-glow, gentle bloom.
+Grade: Cyan-violet-rose bioluminescence against deep cavern-black, warm skin-tones, luminous pool-glow, gentle bloom. Premium editorial grade — rich clean colour, luminous mid-tones, deep-but-clean blacks, controlled elegant saturation, no faded or muddy tones, natural true skin preserved.
 
 Identity Safety: Aira from the locked reference sheet; adult, 25; full-coverage; the sequence is athletic and non-gory; no other people; no harm shown.
 
@@ -598,7 +598,7 @@ Hero Element: A dancer's spell-craft — wade, sweep, spin, leap, cast, lift, wa
 
 Antagonist Element: None — the only "force" is the water itself and the weight of the silent, sacred space; tension is in the difficulty and beauty of the rite.
 
-Setting: A vast half-flooded gothic cathedral at dusk — knee-to-waist-deep still water mirroring the vaulted ceiling, broken stained-glass windows throwing shafts of ruby, sapphire, and gold light across the nave, drowned pews and a submerged altar, dust-motes and silence.
+Setting: A vast half-flooded gothic cathedral at dusk — knee-to-waist-deep still water mirroring the vaulted ceiling, broken stained-glass windows throwing shafts of ruby, sapphire, and gold light across the nave, drowned pews and a submerged altar, dust-motes and silence. Each area of the frame intentionally composed, pristine and luxurious, with true foreground-to-background layering and immersive environmental depth. Water kept deep, clean and glassy — premium and clear, never muddy or grey. Sky richly graded and cinematic with elegant clouds and premium light, never flat or empty. Architecture in fine premium materials with an immaculate finish.
 
 Wardrobe: A fitted deep-indigo ceremonial gown over slim waterproof leggings, with a structured bodice and a long water-resistant overskirt that moves like ink in the water — full-coverage, modest, ceremonial.
 
@@ -620,9 +620,9 @@ Duration: ~24 seconds · 8 frames · 24fps · 180° shutter (slow-motion ramp on
 
 Mood: Reverence, wonder, control, transcendence.
 
-Composition: Cathedral symmetry and colored light-shafts, water-mirror reflections, a macro close-up at mid-rite, slow-motion at the orb-lift.
+Composition: Cathedral symmetry and colored light-shafts, water-mirror reflections, a macro close-up at mid-rite, slow-motion at the orb-lift. Rich layered foreground-to-background depth, elegant spatial hierarchy and clean visual flow (original framing and angle preserved).
 
-Grade: Deep dusk-blue with ruby, sapphire, and gold stained-glass shafts, silver water-caustics, water-sapphire glow, rich shadow.
+Grade: Deep dusk-blue with ruby, sapphire, and gold stained-glass shafts, silver water-caustics, water-sapphire glow, rich shadow. Premium editorial grade — rich clean colour, luminous mid-tones, deep-but-clean blacks, controlled elegant saturation, no faded or muddy tones, natural true skin preserved.
 
 Identity Safety: Aira from the locked reference sheet; adult, 25; full-coverage ceremonial gown; the rite is serene and non-violent; no other people.
 
@@ -724,7 +724,7 @@ Hero Element: Pure balance and agility — balance, run, leap, vault, slide — 
 
 Antagonist Element: None — the only stakes are the black water below and the gaps to clear; tension comes from balance and timing, never from violence.
 
-Setting: A vast black festival lake at night, surfaced with thousands of floating paper lanterns — warm gold and red glows mirrored on still dark water, moored boats and lantern-rafts, a great lantern-laden barge in the distance, temple lights on the far shore, a thin mist.
+Setting: A vast black festival lake at night, surfaced with thousands of floating paper lanterns — warm gold and red glows mirrored on still dark water, moored boats and lantern-rafts, a great lantern-laden barge in the distance, temple lights on the far shore, a thin mist. Every zone of the frame intentionally designed, immaculately clean and premium, with layered foreground, midground and background depth and rich environmental storytelling. Water rendered crystal-clear in rich sea-blue and turquoise gradients, with beautiful caustics and clean sparkling reflections. Architecture in fine premium materials with an immaculate finish.
 
 Wardrobe: A fitted dark-crimson festival tunic with gold embroidery over slim black leggings and a short structured sash, light wrap-guards on the forearms — full-coverage, modest, agile.
 
@@ -746,9 +746,9 @@ Duration: ~21 seconds · 7 frames · 24fps · 180° shutter (slow-motion ramp on
 
 Mood: Festivity, daring, wonder, triumph.
 
-Composition: Lantern-mirrored water and depth, balance-lines and leaps, a macro close-up at mid-crossing, slow-motion at the light-dragon.
+Composition: Lantern-mirrored water and depth, balance-lines and leaps, a macro close-up at mid-crossing, slow-motion at the light-dragon. Rich layered foreground-to-background depth, elegant spatial hierarchy and clean visual flow (original framing and angle preserved).
 
-Grade: Warm gold-and-red lantern-glow against deep black water, mirrored reflections, amber pendant-glow, soft mist-bloom.
+Grade: Warm gold-and-red lantern-glow against deep black water, mirrored reflections, amber pendant-glow, soft mist-bloom. World-class editorial colour — rich and vivid yet clean, luminous mid-tones, deep-but-clean blacks, controlled saturation, nothing washed-out, natural skin protected.
 
 Identity Safety: Aira from the locked reference sheet; adult, 25; full-coverage festival wear; the crossing is athletic and non-violent; no other people on her path.
 
@@ -840,7 +840,7 @@ Hero Element: Storm-fighting choreography — jab, cross, elbow, knee, spin-elbo
 
 Antagonist Element: A skilled masked rival in dark rain-gear who tests her with feints and counters; clean martial contest, never brutal — impacts read on guard, forearms, and the wet rooftop.
 
-Setting: A lush rooftop garden atop a tower at night in a heavy monsoon — potted maples and ferns thrashing in the wind, a shallow flooded stone deck, glass railings streaming water, neon city-glow below, lightning forking across the sky.
+Setting: A lush rooftop garden atop a tower at night in a heavy monsoon — potted maples and ferns thrashing in the wind, a shallow flooded stone deck, glass railings streaming water, neon city-glow below, lightning forking across the sky. Each area of the frame intentionally composed, pristine and luxurious, with true foreground-to-background layering and immersive environmental depth. Water rendered crystal-clear in rich sea-blue and turquoise gradients, with beautiful caustics and clean sparkling reflections. Sky richly graded and cinematic with elegant clouds and premium light, never flat or empty. Greenery lush and healthy with premium landscaping.
 
 Wardrobe: A fitted slate-grey martial top with a water-shedding short jacket, reinforced gloves, slim tactical trousers, a sash-belt — full-coverage, modest, soaked and clinging realistically.
 
@@ -862,9 +862,9 @@ Duration: ~24 seconds · 8 frames · 24fps · 180° shutter (slow-motion ramp on
 
 Mood: Tension, power, control, awe, respect.
 
-Composition: Storm-wide and tight strike-angles, rain-freeze accents, a macro close-up early, slow-motion at the spinning kick.
+Composition: Storm-wide and tight strike-angles, rain-freeze accents, a macro close-up early, slow-motion at the spinning kick. Premium foreground, midground and background layering with strong three-dimensional depth and clean visual balance (original framing preserved).
 
-Grade: Cool storm-blue and steel with neon accents, rain-sheen, storm-glass flares of frozen rain, lightning-white pops.
+Grade: Cool storm-blue and steel with neon accents, rain-sheen, storm-glass flares of frozen rain, lightning-white pops. World-class editorial colour — rich and vivid yet clean, luminous mid-tones, deep-but-clean blacks, controlled saturation, nothing washed-out, natural skin protected.
 
 Identity Safety: Aira from the locked reference sheet; adult, 25; full-coverage soaked martial wear; clean non-gory contest; one rival, no blood, no harm shown.
 
@@ -966,7 +966,7 @@ Hero Element: Pure dance athleticism and grace — glide, leap, turn, rise, run,
 
 Antagonist Element: None — only the vast silent desert night and the stillness of the moonlit water; tension is in the beauty and difficulty of the dance.
 
-Setting: A desert oasis at night under an enormous low moon — silver dunes rolling to the horizon, a still moonlit pool ringed by date-palms, fine sand glittering, a warm breeze, utter silence but for the wind.
+Setting: A desert oasis at night under an enormous low moon — silver dunes rolling to the horizon, a still moonlit pool ringed by date-palms, fine sand glittering, a warm breeze, utter silence but for the wind. Every zone of the frame intentionally designed, immaculately clean and premium, with layered foreground, midground and background depth and rich environmental storytelling. Water rendered crystal-clear in rich sea-blue and turquoise gradients, with beautiful caustics and clean sparkling reflections. Sky richly graded and cinematic with elegant clouds and premium light, never flat or empty. Greenery lush and healthy with premium landscaping.
 
 Wardrobe: A fitted silver-grey dance bodice with a long flowing chiffon skirt and slim under-leggings, light wrap-sandals laced at the ankle, a fine sash — full-coverage, modest, built to move like moonlight.
 
@@ -988,9 +988,9 @@ Duration: ~21 seconds · 7 frames · 24fps · 180° shutter (slow-motion ramp on
 
 Mood: Serenity, grace, wonder, transcendence.
 
-Composition: Vast moon and dune symmetry, moonlit-water reflections, moonlight-ribbon accents, a macro close-up at mid-dance, slow-motion at the moon-path.
+Composition: Vast moon and dune symmetry, moonlit-water reflections, moonlight-ribbon accents, a macro close-up at mid-dance, slow-motion at the moon-path. Rich layered foreground-to-background depth, elegant spatial hierarchy and clean visual flow (original framing and angle preserved).
 
-Grade: Silver-blue moonlight over warm sand-tones, mirrored pool, moonstone glow, soft bloom.
+Grade: Silver-blue moonlight over warm sand-tones, mirrored pool, moonstone glow, soft bloom. Premium editorial grade — rich clean colour, luminous mid-tones, deep-but-clean blacks, controlled elegant saturation, no faded or muddy tones, natural true skin preserved.
 
 Identity Safety: Aira from the locked reference sheet; adult, 25; full-coverage flowing dancewear; the dance is serene and non-violent; no other people.
 
@@ -1082,7 +1082,7 @@ Hero Element: Pure acrobatic escape — vault, swing, balance, leap, traverse, s
 
 Antagonist Element: Distant pursuers far below on the orchestra floor — never reached, never fought; the stakes are height, gaps, and getting away clean.
 
-Setting: An opulent gilded opera house at night — tiers of red-velvet box-balconies, gold-leaf scrollwork, a vast painted ceiling, a colossal crystal chandelier glowing dim, work-lights and a single stage-spotlight, deep shadow in the empty house.
+Setting: An opulent gilded opera house at night — tiers of red-velvet box-balconies, gold-leaf scrollwork, a vast painted ceiling, a colossal crystal chandelier glowing dim, work-lights and a single stage-spotlight, deep shadow in the empty house. Each area of the frame intentionally composed, pristine and luxurious, with true foreground-to-background layering and immersive environmental depth. Greenery lush and healthy with premium landscaping.
 
 Wardrobe: A fitted midnight-blue performance suit with subtle gold piping, a short structured jacket, light gloves, slim trousers, a sash — full-coverage, modest, built for acrobatics.
 
@@ -1104,9 +1104,9 @@ Duration: ~24 seconds · 8 frames · 24fps · 180° shutter (slow-motion ramp on
 
 Mood: Daring, elegance, wonder, triumph.
 
-Composition: Vertical opera-house tiers and gold depth, chandelier-crystal accents, a macro close-up early, slow-motion at the crystal-galaxy.
+Composition: Vertical opera-house tiers and gold depth, chandelier-crystal accents, a macro close-up early, slow-motion at the crystal-galaxy. Rich layered foreground-to-background depth, elegant spatial hierarchy and clean visual flow (original framing and angle preserved).
 
-Grade: Warm gold and deep crimson against shadowed black, crystal-sparkle, pendant-glow, single spotlight-white, soft bloom.
+Grade: Warm gold and deep crimson against shadowed black, crystal-sparkle, pendant-glow, single spotlight-white, soft bloom. World-class editorial colour — rich and vivid yet clean, luminous mid-tones, deep-but-clean blacks, controlled saturation, nothing washed-out, natural skin protected.
 
 Identity Safety: Aira from the locked reference sheet; adult, 25; full-coverage performance suit; the escape is athletic and non-violent; pursuers distant and never engaged.
 
@@ -1208,7 +1208,7 @@ Hero Element: Expression-driven mirror-choreography — jab, cross, palm, back-f
 
 Antagonist Element: Her own reflection risen from the mirror-water as a living double — same face, same skill; not an enemy to destroy but a self to reconcile, dissolving into a splash of water when "defeated."
 
-Setting: A vast salt flat at dusk under a thin sheet of water, making a flawless mirror to the horizon — a burning orange-pink-violet sky doubled perfectly below, distant mountains, hexagonal salt-crust visible at the edges, utter stillness.
+Setting: A vast salt flat at dusk under a thin sheet of water, making a flawless mirror to the horizon — a burning orange-pink-violet sky doubled perfectly below, distant mountains, hexagonal salt-crust visible at the edges, utter stillness. Each area of the frame intentionally composed, pristine and luxurious, with true foreground-to-background layering and immersive environmental depth. Water rendered crystal-clear in rich sea-blue and turquoise gradients, with beautiful caustics and clean sparkling reflections. Sky richly graded and cinematic with elegant clouds and premium light, never flat or empty.
 
 Wardrobe: A fitted dust-rose martial top with a wrapped sash, light gloves, slim trousers, forearm guards — full-coverage, modest; the reflection-double wears the identical outfit, mirror-reversed.
 
@@ -1230,9 +1230,9 @@ Duration: ~21 seconds · 7 frames · 24fps · 180° shutter (slow-motion ramp on
 
 Mood: Tension, introspection, power, awe, peace.
 
-Composition: Perfect mirror-symmetry and dusk-color, water-spray accents, a macro close-up at mid-duel, slow-motion at the mirrored kick.
+Composition: Perfect mirror-symmetry and dusk-color, water-spray accents, a macro close-up at mid-duel, slow-motion at the mirrored kick. Premium foreground, midground and background layering with strong three-dimensional depth and clean visual balance (original framing preserved).
 
-Grade: Burning orange-pink-violet dusk doubled on silver water, warm skin, mirror-quartz glow, soft bloom.
+Grade: Burning orange-pink-violet dusk doubled on silver water, warm skin, mirror-quartz glow, soft bloom. Premium editorial grade — rich clean colour, luminous mid-tones, deep-but-clean blacks, controlled elegant saturation, no faded or muddy tones, natural true skin preserved.
 
 Identity Safety: Aira from the locked reference sheet; adult, 25; full-coverage martial wear; clean non-gory contest with a reflection that dissolves to water; no blood, no harm shown.
 
@@ -1324,7 +1324,7 @@ Hero Element: Pure rescue athleticism — climb, run, leap, slide, shield, carry
 
 Antagonist Element: No human foe — the threat is the spreading fire and collapsing shelves; tension comes from heat, smoke, falling timber, and a frightened child to reach, never from violence.
 
-Setting: A vast multi-tier archive library at night, ablaze — towering burning bookshelves, cascading embers and floating burning pages, smoke layering the air, collapsing catwalks and ladders, a frightened child stranded on a high reading-gallery.
+Setting: A vast multi-tier archive library at night, ablaze — towering burning bookshelves, cascading embers and floating burning pages, smoke layering the air, collapsing catwalks and ladders, a frightened child stranded on a high reading-gallery. Every zone of the frame intentionally designed, immaculately clean and premium, with layered foreground, midground and background depth and rich environmental storytelling.
 
 Wardrobe: A fitted soot-grey rescue jacket with a damp wrapped scarf at the neck, reinforced gloves, slim trousers, a utility sash — full-coverage, modest, smoke-smudged.
 
@@ -1346,9 +1346,9 @@ Duration: ~24 seconds · 8 frames · 24fps · 180° shutter (slow-motion ramp on
 
 Mood: Urgency, courage, tenderness, awe, relief.
 
-Composition: Towering fire-lit verticals and smoke-depth, page-shield accents, a macro close-up at mid-rescue, slow-motion at the shield-bloom.
+Composition: Towering fire-lit verticals and smoke-depth, page-shield accents, a macro close-up at mid-rescue, slow-motion at the shield-bloom. Premium foreground, midground and background layering with strong three-dimensional depth and clean visual balance (original framing preserved).
 
-Grade: Hot orange-and-amber firelight against smoke-black, ember-sparks, ember-glass glow, soft heat-bloom.
+Grade: Hot orange-and-amber firelight against smoke-black, ember-sparks, ember-glass glow, soft heat-bloom. World-class editorial colour — rich and vivid yet clean, luminous mid-tones, deep-but-clean blacks, controlled saturation, nothing washed-out, natural skin protected.
 
 Identity Safety: Aira from the locked reference sheet; adult, 25; full-coverage rescue wear; the sequence is a courageous non-violent rescue; the child is reached and protected, never harmed; no gore.
 
@@ -1450,7 +1450,7 @@ Hero Element: Wonder and horsemanship-style grace — run, vault, mount, ride, d
 
 Antagonist Element: No human foe — the journey is toward a fading heart-tree she must reach; tension comes from speed, gaps, and the forest's wild grandeur, never from violence.
 
-Setting: An ancient spirit-forest at night — colossal trees with bioluminescent bark, drifting glowing pollen and spirit-moths, luminous moss and streams, shafts of moonlight, and a vast dimming heart-tree at the forest's center; a towering, translucent, antlered stag-spirit made of soft light moves among the trunks.
+Setting: An ancient spirit-forest at night — colossal trees with bioluminescent bark, drifting glowing pollen and spirit-moths, luminous moss and streams, shafts of moonlight, and a vast dimming heart-tree at the forest's center; a towering, translucent, antlered stag-spirit made of soft light moves among the trunks. Each area of the frame intentionally composed, pristine and luxurious, with true foreground-to-background layering and immersive environmental depth. Greenery lush and healthy with premium landscaping.
 
 Wardrobe: A fitted forest-green riding tunic with a layered half-cloak, light gloves, slim trousers, soft boots, a woven sash — full-coverage, modest, made for riding.
 
@@ -1472,9 +1472,9 @@ Duration: ~24 seconds · 8 frames · 24fps · 180° shutter (slow-motion ramp on
 
 Mood: Wonder, tenderness, exhilaration, reverence.
 
-Composition: Towering luminous verticals and forest-depth, stag-light and pollen accents, a macro close-up at the bond, slow-motion at the chasm-leap.
+Composition: Towering luminous verticals and forest-depth, stag-light and pollen accents, a macro close-up at the bond, slow-motion at the chasm-leap. Premium foreground, midground and background layering with strong three-dimensional depth and clean visual balance (original framing preserved).
 
-Grade: Blue-green bioluminescence with warm pendant-and-stag light against forest-black, pollen-sparks, soft bloom.
+Grade: Blue-green bioluminescence with warm pendant-and-stag light against forest-black, pollen-sparks, soft bloom. Premium editorial grade — rich clean colour, luminous mid-tones, deep-but-clean blacks, controlled elegant saturation, no faded or muddy tones, natural true skin preserved.
 
 Identity Safety: Aira from the locked reference sheet; adult, 25; full-coverage riding wear; the journey is gentle and non-violent; the stag is a willing companion, never harmed or coerced.
 
@@ -1576,7 +1576,7 @@ Hero Element: Pinpoint parkour timing — hop, run, swing, leap, traverse, wall-
 
 Antagonist Element: No human foe — the threat is the relentless clockwork itself: turning gears, a swinging pendulum, falling counterweights; tension comes from timing and crushing machinery, never from violence.
 
-Setting: The vast interior of a giant brass clock-tower at night — enormous interlocking gears turning, a colossal swinging pendulum, falling counterweights on chains, brass catwalks, and a huge translucent clock-face glowing with moonlight as the only exit, the city tiny far below through the glass.
+Setting: The vast interior of a giant brass clock-tower at night — enormous interlocking gears turning, a colossal swinging pendulum, falling counterweights on chains, brass catwalks, and a huge translucent clock-face glowing with moonlight as the only exit, the city tiny far below through the glass. Every zone of the frame intentionally designed, immaculately clean and premium, with layered foreground, midground and background depth and rich environmental storytelling.
 
 Wardrobe: A fitted charcoal parkour suit with brass-buckled straps, fingerless grip gloves, slim trousers, a low utility sash — full-coverage, modest, built for movement.
 
@@ -1598,9 +1598,9 @@ Duration: ~21 seconds · 7 frames · 24fps · 180° shutter (slow-motion ramp on
 
 Mood: Tension, precision, nerve, awe, triumph.
 
-Composition: Vast brass verticals and clockwork-depth, gear and moonlight accents, a macro close-up mid-crossing, slow-motion at the frozen-time traverse.
+Composition: Vast brass verticals and clockwork-depth, gear and moonlight accents, a macro close-up mid-crossing, slow-motion at the frozen-time traverse. Premium foreground, midground and background layering with strong three-dimensional depth and clean visual balance (original framing preserved).
 
-Grade: Warm brass and amber against shadow, cool moonlight-blue through the clock-face, quartz-glow, soft bloom.
+Grade: Warm brass and amber against shadow, cool moonlight-blue through the clock-face, quartz-glow, soft bloom. Premium editorial grade — rich clean colour, luminous mid-tones, deep-but-clean blacks, controlled elegant saturation, no faded or muddy tones, natural true skin preserved.
 
 Identity Safety: Aira from the locked reference sheet; adult, 25; full-coverage parkour wear; the crossing is athletic and non-violent; no human foe, no harm shown; no gore.
 
@@ -1692,7 +1692,7 @@ Hero Element: Figure-grade grace — glide, spin, spiral, leap, layback, ina-bau
 
 Antagonist Element: No human foe — the showcase is a pure performance for the empty palace and the aurora; tension comes only from the daring of the movements, never from violence.
 
-Setting: A vast palace carved entirely of ice at night — a flawless mirror-ice floor, frozen colonnades and arches, a high vaulted ceiling of clear ice, an ice throne at the far end, and a brilliant aurora wheeling green-violet-rose overhead and reflected below.
+Setting: A vast palace carved entirely of ice at night — a flawless mirror-ice floor, frozen colonnades and arches, a high vaulted ceiling of clear ice, an ice throne at the far end, and a brilliant aurora wheeling green-violet-rose overhead and reflected below. Every zone of the frame intentionally designed, immaculately clean and premium, with layered foreground, midground and background depth and rich environmental storytelling. Sky richly graded and cinematic with elegant clouds and premium light, never flat or empty. Architecture in fine premium materials with an immaculate finish.
 
 Wardrobe: A fitted ice-silver performance dress over warm leggings, a structured long-sleeve bodice, light gloves, a sheer aurora-toned cape-panel — full-coverage, modest, built for spins.
 
@@ -1714,9 +1714,9 @@ Duration: ~24 seconds · 8 frames · 24fps · 180° shutter (slow-motion ramp on
 
 Mood: Elegance, wonder, exhilaration, triumph.
 
-Composition: Mirror-ice symmetry and aurora-color, sculpture and frost accents, a macro close-up early, two back-angle hero shots, slow-motion at the layback spin.
+Composition: Mirror-ice symmetry and aurora-color, sculpture and frost accents, a macro close-up early, two back-angle hero shots, slow-motion at the layback spin. Premium foreground, midground and background layering with strong three-dimensional depth and clean visual balance (original framing preserved).
 
-Grade: Aurora green-violet-rose over silver-blue ice, warm skin, frost-crystal glow, soft bloom.
+Grade: Aurora green-violet-rose over silver-blue ice, warm skin, frost-crystal glow, soft bloom. World-class editorial colour — rich and vivid yet clean, luminous mid-tones, deep-but-clean blacks, controlled saturation, nothing washed-out, natural skin protected.
 
 Identity Safety: Aira from the locked reference sheet; adult, 25; full-coverage performance wear over warm layers; the showcase is athletic and non-violent; no human foe, no harm.
 
@@ -1818,7 +1818,7 @@ Hero Element: Bold canyon traversal — climb, leap, run, chimney, jump, pull-up
 
 Antagonist Element: No human foe — the threat is the deep canyon's gaps, height, and sheer walls; tension comes from the void and the crossing, never from violence.
 
-Setting: A deep desert slot canyon at high noon — narrow, wind-sculpted sandstone walls glowing orange and rose, blade-thin shafts of brilliant sunlight piercing down through gaps far above, a cool shadowed pool at the bottom, and dust-motes turning in the light-shafts.
+Setting: A deep desert slot canyon at high noon — narrow, wind-sculpted sandstone walls glowing orange and rose, blade-thin shafts of brilliant sunlight piercing down through gaps far above, a cool shadowed pool at the bottom, and dust-motes turning in the light-shafts. Each area of the frame intentionally composed, pristine and luxurious, with true foreground-to-background layering and immersive environmental depth. Water rendered crystal-clear in rich sea-blue and turquoise gradients, with beautiful caustics and clean sparkling reflections.
 
 Wardrobe: A fitted sand-tan traversal top with a wrapped scarf, climbing gloves, slim trousers, a chalk-bag at the low sash — full-coverage, modest, built for climbing.
 
@@ -1840,9 +1840,9 @@ Duration: ~21 seconds · 7 frames · 24fps · 180° shutter (slow-motion ramp on
 
 Mood: Daring, precision, wonder, triumph.
 
-Composition: Deep canyon verticals and sun-shaft beams, light-bridge accents, a macro close-up early, two back-angle hero shots, slow-motion at the light-bridge run.
+Composition: Deep canyon verticals and sun-shaft beams, light-bridge accents, a macro close-up early, two back-angle hero shots, slow-motion at the light-bridge run. Rich layered foreground-to-background depth, elegant spatial hierarchy and clean visual flow (original framing and angle preserved).
 
-Grade: Warm orange-rose sandstone with brilliant white-gold sun-shafts against cool shadow, sun-amber glow, soft bloom.
+Grade: Warm orange-rose sandstone with brilliant white-gold sun-shafts against cool shadow, sun-amber glow, soft bloom. Premium editorial grade — rich clean colour, luminous mid-tones, deep-but-clean blacks, controlled elegant saturation, no faded or muddy tones, natural true skin preserved.
 
 Identity Safety: Aira from the locked reference sheet; adult, 25; full-coverage traversal wear; the crossing is athletic and non-violent; no human foe, no harm; non-gory.
 
@@ -1934,7 +1934,7 @@ Hero Element: Grace and wonder — sprint, leap, catch, roll, climb, lift, relea
 
 Antagonist Element: No human foe — the only stakes are the height of the leap and the fleeting fall of the meteor; tension comes from the catch and the void below, never from violence.
 
-Setting: A high stone peak at night under a brilliant meteor shower — the Milky Way blazing overhead, streaking meteors raining across the sky, a vast sea of moonlit clouds far below, jagged spires and a knife-edge ridge, cold thin air.
+Setting: A high stone peak at night under a brilliant meteor shower — the Milky Way blazing overhead, streaking meteors raining across the sky, a vast sea of moonlit clouds far below, jagged spires and a knife-edge ridge, cold thin air. Each area of the frame intentionally composed, pristine and luxurious, with true foreground-to-background layering and immersive environmental depth. Water rendered crystal-clear in rich sea-blue and turquoise gradients, with beautiful caustics and clean sparkling reflections. Sky richly graded and cinematic with elegant clouds and premium light, never flat or empty.
 
 Wardrobe: A fitted deep-indigo climbing suit with a star-flecked half-cloak, light gloves, slim trousers, a low sash — full-coverage, modest, built for leaping.
 
@@ -1956,9 +1956,9 @@ Duration: ~24 seconds · 8 frames · 24fps · 180° shutter (slow-motion ramp on
 
 Mood: Wonder, serenity, exhilaration, tenderness, triumph.
 
-Composition: Vast night-sky and cloud-sea depth, meteor-streak and starlight accents, a macro close-up early, two back-angle hero shots, slow-motion at the midair catch.
+Composition: Vast night-sky and cloud-sea depth, meteor-streak and starlight accents, a macro close-up early, two back-angle hero shots, slow-motion at the midair catch. Rich layered foreground-to-background depth, elegant spatial hierarchy and clean visual flow (original framing and angle preserved).
 
-Grade: Deep indigo-and-silver night with warm starlight-gold, meteorite-glow, soft bloom.
+Grade: Deep indigo-and-silver night with warm starlight-gold, meteorite-glow, soft bloom. Premium editorial grade — rich clean colour, luminous mid-tones, deep-but-clean blacks, controlled elegant saturation, no faded or muddy tones, natural true skin preserved.
 
 Identity Safety: Aira from the locked reference sheet; adult, 25; full-coverage climbing wear; the leap is athletic and non-violent; no human foe, no harm; non-gory.
 
@@ -2060,7 +2060,7 @@ Hero Element: Fearless storm-chase — sprint, vault, slide, gesture, stride —
 
 Antagonist Element: No human foe — the antagonist is the supercell itself, its rotating wall and lightning; tension comes from the storm and the race, never from violence.
 
-Setting: A vast lavender field at golden dusk beneath a colossal rotating supercell — a green-bruised sky, mammatus clouds, a sculpted mesocyclone wall, forking lightning, an approaching curtain of rain, and endless rows of lavender rippling in the gust-front.
+Setting: A vast lavender field at golden dusk beneath a colossal rotating supercell — a green-bruised sky, mammatus clouds, a sculpted mesocyclone wall, forking lightning, an approaching curtain of rain, and endless rows of lavender rippling in the gust-front. Each area of the frame intentionally composed, pristine and luxurious, with true foreground-to-background layering and immersive environmental depth. Water rendered crystal-clear in rich sea-blue and turquoise gradients, with beautiful caustics and clean sparkling reflections. Sky richly graded and cinematic with elegant clouds and premium light, never flat or empty.
 
 Wardrobe: A fitted storm-grey field jacket with a long weather-cape, gloves, slim trousers, a low utility-sash — full-coverage, modest, built for running.
 
@@ -2082,9 +2082,9 @@ Duration: ~21 seconds · 7 frames · 24fps · 180° shutter (slow-motion ramp on
 
 Mood: Nerve, awe, exhilaration, serenity, triumph.
 
-Composition: Vast storm-sky and lavender depth, lightning and gust-front accents, a macro close-up early, two back-angle hero shots, slow-motion at the storm-parting.
+Composition: Vast storm-sky and lavender depth, lightning and gust-front accents, a macro close-up early, two back-angle hero shots, slow-motion at the storm-parting. Premium foreground, midground and background layering with strong three-dimensional depth and clean visual balance (original framing preserved).
 
-Grade: Green-bruised storm-grey with warm gold dusk and lavender-violet, storm-glass glow, soft bloom.
+Grade: Green-bruised storm-grey with warm gold dusk and lavender-violet, storm-glass glow, soft bloom. Premium editorial grade — rich clean colour, luminous mid-tones, deep-but-clean blacks, controlled elegant saturation, no faded or muddy tones, natural true skin preserved.
 
 Identity Safety: Aira from the locked reference sheet; adult, 25; full-coverage field wear; the chase is athletic and non-violent; no human foe, no harm; non-gory.
 
@@ -2176,7 +2176,7 @@ Hero Element: A gem of solo choreography — stance, sweep, crane, strike-combo,
 
 Antagonist Element: No foe at all — this is a meditative-then-powerful kata performed alone; tension comes only from the precision and control of the form, never from violence.
 
-Setting: An ancient stone monastery platform at the very peak of a mountain at dawn — a vast sea of clouds stretching to the horizon, the sun cresting gold, weathered prayer-flag lines, carved railings, a single blossoming tree shedding petals, and cold thin mountain air.
+Setting: An ancient stone monastery platform at the very peak of a mountain at dawn — a vast sea of clouds stretching to the horizon, the sun cresting gold, weathered prayer-flag lines, carved railings, a single blossoming tree shedding petals, and cold thin mountain air. Every zone of the frame intentionally designed, immaculately clean and premium, with layered foreground, midground and background depth and rich environmental storytelling. Water rendered crystal-clear in rich sea-blue and turquoise gradients, with beautiful caustics and clean sparkling reflections. Sky richly graded and cinematic with elegant clouds and premium light, never flat or empty. Greenery lush and healthy with premium landscaping.
 
 Wardrobe: A fitted slate-and-saffron martial robe with bound sleeves and a sash, wrap trousers, soft hand-wraps — full-coverage, modest, built for a form.
 
@@ -2198,9 +2198,9 @@ Duration: ~24 seconds · 8 frames · 24fps · 180° shutter (slow-motion ramp on
 
 Mood: Serenity, mastery, power, awe, peace.
 
-Composition: Vast cloud-sea and dawn depth, qi-light and petal accents, a macro close-up early, two back-angle hero shots, slow-motion at the form-kick.
+Composition: Vast cloud-sea and dawn depth, qi-light and petal accents, a macro close-up early, two back-angle hero shots, slow-motion at the form-kick. Premium foreground, midground and background layering with strong three-dimensional depth and clean visual balance (original framing preserved).
 
-Grade: Cool dawn-blue breaking to warm gold over the cloud-sea, jade-and-petal accents, soft bloom.
+Grade: Cool dawn-blue breaking to warm gold over the cloud-sea, jade-and-petal accents, soft bloom. World-class editorial colour — rich and vivid yet clean, luminous mid-tones, deep-but-clean blacks, controlled saturation, nothing washed-out, natural skin protected.
 
 Identity Safety: Aira from the locked reference sheet; adult, 25; full-coverage martial robe; the form is athletic, solo, and non-violent; no foe, no harm; non-gory.
 
@@ -2302,7 +2302,7 @@ Hero Element: Weightless grace — dive, glide, touch, ride, spiral, rise — ea
 
 Antagonist Element: No human foe — the stakes are the depth, the held breath, and the dark drowned halls; tension comes from the water and the rising need for air, never from violence.
 
-Setting: A vast temple sunk deep beneath a green-gold sea — colossal toppled and standing pillars, a carved inner sanctum with a glyph-ringed seal, blade-thin sun-shafts piercing down from the distant bright surface, drifting kelp, schools of silver fish, and slow swirling silt.
+Setting: A vast temple sunk deep beneath a green-gold sea — colossal toppled and standing pillars, a carved inner sanctum with a glyph-ringed seal, blade-thin sun-shafts piercing down from the distant bright surface, drifting kelp, schools of silver fish, and slow swirling silt. Each area of the frame intentionally composed, pristine and luxurious, with true foreground-to-background layering and immersive environmental depth. Water rendered crystal-clear in rich sea-blue and turquoise gradients, with beautiful caustics and clean sparkling reflections. Architecture in fine premium materials with an immaculate finish.
 
 Wardrobe: A fitted teal dive-suit with a light water-cloak, dive gloves, slim leggings, a low weighted sash — full-coverage, modest, built for swimming.
 
@@ -2324,9 +2324,9 @@ Duration: ~21 seconds · 7 frames · 24fps · 180° shutter (slow-motion ramp on
 
 Mood: Wonder, weightlessness, breath-held nerve, awe, triumph.
 
-Composition: Vast submerged depth and sun-shaft light, glyph-glow and current accents, a macro close-up early, two back-angle hero shots, slow-motion at the current-of-light glide.
+Composition: Vast submerged depth and sun-shaft light, glyph-glow and current accents, a macro close-up early, two back-angle hero shots, slow-motion at the current-of-light glide. Premium foreground, midground and background layering with strong three-dimensional depth and clean visual balance (original framing preserved).
 
-Grade: Deep green-gold water with cool teal shadow and warm glyph-and-sun light, pearl-glow, soft caustic bloom.
+Grade: Deep green-gold water with cool teal shadow and warm glyph-and-sun light, pearl-glow, soft caustic bloom. Premium editorial grade — rich clean colour, luminous mid-tones, deep-but-clean blacks, controlled elegant saturation, no faded or muddy tones, natural true skin preserved.
 
 Identity Safety: Aira from the locked reference sheet; adult, 25; full-coverage dive-suit; the swim is athletic and non-violent; no foe, no harm; non-gory.
 
@@ -2418,7 +2418,7 @@ Hero Element: A jaw-dropping finale — ritual, summon, leap, mount, ride, stand
 
 Antagonist Element: No human foe — the only force is the vastness of the heavens she calls and rides; tension comes from the scale and the daring of the ascent, never from violence.
 
-Setting: A towering celestial altar of carved white stone at the very peak of the world at night — a blazing galactic core and aurora overhead, a sea of cloud and distant peaks far below, ancient star-glyphs ringing the altar, and the whole sky raining soft starlight.
+Setting: A towering celestial altar of carved white stone at the very peak of the world at night — a blazing galactic core and aurora overhead, a sea of cloud and distant peaks far below, ancient star-glyphs ringing the altar, and the whole sky raining soft starlight. Each area of the frame intentionally composed, pristine and luxurious, with true foreground-to-background layering and immersive environmental depth. Water rendered crystal-clear in rich sea-blue and turquoise gradients, with beautiful caustics and clean sparkling reflections. Sky richly graded and cinematic with elegant clouds and premium light, never flat or empty.
 
 Wardrobe: A flowing midnight-and-gold ceremonial robe with a long star-mapped cape, bound sleeves, gloves, a celestial sash — full-coverage, modest, built for sweeping ritual movement.
 
@@ -2440,9 +2440,9 @@ Duration: ~24 seconds · 8 frames · 24fps · 180° shutter (slow-motion ramp on
 
 Mood: Awe, grandeur, power, exhilaration, soaring triumph — the finale.
 
-Composition: Vast galactic-sky and cloud-sea depth, dragon-of-constellations and starlight accents, a macro close-up early, two back-angle hero shots, slow-motion at the leap-mount.
+Composition: Vast galactic-sky and cloud-sea depth, dragon-of-constellations and starlight accents, a macro close-up early, two back-angle hero shots, slow-motion at the leap-mount. Rich layered foreground-to-background depth, elegant spatial hierarchy and clean visual flow (original framing and angle preserved).
 
-Grade: Deep midnight-blue and violet with blazing gold-and-white starlight and aurora, constellation-glow, soft cosmic bloom.
+Grade: Deep midnight-blue and violet with blazing gold-and-white starlight and aurora, constellation-glow, soft cosmic bloom. World-class editorial colour — rich and vivid yet clean, luminous mid-tones, deep-but-clean blacks, controlled saturation, nothing washed-out, natural skin protected.
 
 Identity Safety: Aira from the locked reference sheet; adult, 25; full-coverage ceremonial robe; the summoning and ride are awe-driven and non-violent; no foe, no harm; non-gory.
 
