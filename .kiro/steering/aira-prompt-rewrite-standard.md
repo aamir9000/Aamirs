@@ -1092,3 +1092,122 @@ USAGE: python3 _tools/lm_rebuild.py "<exact path>" <concept_number>   and
        python3 _tools/lean_strip.py "<exact path>"
 (If any older section below shows a CONCEPTS/Heavy-Detail/... or flat path, IGNORE it and use the
 path from THIS manifest — the Heavy-Detail folder no longer exists.)
+
+
+
+====================================================================
+## O. PREMIUM CINEMATIC EDITORIAL FINISH (MASTER EDITING DIRECTIVE)
+====================================================================
+(Decided with the user. A QUALITY/RICHNESS enhancement layer applied ADDITIVELY on top of
+everything above — sections A-N still hold. This is NOT a re-concepting pass: preserve the
+original creative idea, composition, framing, camera angle, lens, shot size, perspective,
+action, choreography, wardrobe, subject identity, object identity, environment TYPE, chronology,
+storytelling, emotional tone and artistic intent EXACTLY. Only upgrade quality, realism, luxury,
+colour, richness, visual beauty, cinematic presentation, environmental appeal, production value
+and prompt engineering. If any instruction here conflicts with the original concept, PRESERVE
+the original concept and enhance its quality.)
+
+### O.0 — WHERE THE ENHANCEMENT LIVES (additive, per frame, per field)
+Land every upgrade INSIDE the existing descriptive fields; never touch framing/camera/lens/
+wardrobe/subject/object/action/emotion/order. Target fields (image + video where present):
+  SCENE INTENT · SPATIAL LOGIC / ENVIRONMENT · LIGHTING (Key/Fill/Rim/Practical/Separation/
+  Bounce) · COLOUR GRADE / COLOR GRADE · TEXTURE & MICRO-DETAIL / MATERIALS · ATMOSPHERE ·
+  COMPOSITION · LENS+DOF+BOKEH (depth cues only, never change the lens mm) · plus water/sky/
+  greenery/architecture description wherever they appear.
+Additive only — never delete real descriptive content; enrich it.
+
+### O.1 — ENVIRONMENT
+Make every environment visually rich, premium, immersive, luxurious and intentionally designed
+in every area of the frame. Remove any dull/faded/empty/unfinished/lifeless appearance. Improve
+foreground/midground/background layering, environmental depth, spatial realism, natural visual
+harmony and environmental storytelling — richness WITHOUT clutter. Every location should read as
+the finest version of itself (ties to §N: the world is a co-star). No boring/weak backgrounds.
+
+### O.2 — COLOUR SCIENCE (governed by §I Controlled Vibrancy — read together)
+Premium cinematic grade: rich mid-tones, deep BUT CLEAN blacks, beautiful highlight roll-off,
+high colour separation, strong contrast without harshness, elegant saturation, realistic skin
+tones preserved. ELIMINATE (universal, no exceptions): faded / muddy / washed-out / grey-looking
+/ flat colour. RICHEN vibrancy where the concept world supports it (pools, festivals, gardens,
+candy, tropics, sky, water). BUT — RECONCILIATION WITH §I: intentionally TONAL / NOIR / ICE /
+MARBLE / OBSIDIAN / CHROME / PORCELAIN / MOODY concepts KEEP their restrained palette; make them
+premium and ALIVE via clean deep blacks, contrast, rim-light, glow and material — that restraint
+is luxury, NOT "dull." Never push saturation onto the face/skin. "Already-vibrant/neon/candy"
+tags are the CEILING (balance with dark/neutral grounds), not a floor. No neon-on-neon mud, no
+clashing full-saturation fields, no rainbow-everything, no blown highlights.
+
+### O.3 — VISUAL BEAUTY & CLEANLINESS
+Every frame should read beautiful, luxurious, cinematic, emotionally engaging, premium, elegant,
+inviting — like an award-winning luxury editorial photograph. Keep imagery extremely CLEAN: no
+random clutter, distracting elements, messy layouts, dirty surfaces, visual noise or unfinished
+space (unless the concept intentionally requires grit). Everything organised, elegant, premium.
+
+### O.4 — ENVIRONMENTAL APPEAL & POSITIVE ENERGY (where the concept allows)
+Where it suits the concept, increase lush greenery, healthy vegetation, beautiful flowers,
+premium landscaping, luxury architecture, elegant pathways, beautiful skies, inviting spaces —
+without changing the concept. Unless the concept intentionally requires otherwise (noir/drama/
+melancholy beats), lean to joyful, warm, serene, uplifting premium ambience. Never depressing,
+dead or emotionally empty environments unless the story demands it.
+
+### O.5 — WATER (auto-upgrade wherever water exists)
+Crystal clear, premium tropical/resort quality; deep sea-blue gradients, rich turquoise,
+brilliant cyan transitions; beautiful underwater caustics, sparkling highlights, clean
+reflections, natural refractions, soft realistic ripples, excellent transparency. NEVER muddy,
+grey, dull or lifeless. (Exception: a concept whose water is intentionally dark/ink/obsidian/
+deep-sea stays that premium dark — clean, not muddy.)
+
+### O.6 — LIGHTING
+Upgrade to premium cinematic lighting: rich golden sunlight, beautiful bounce, soft volumetric
+atmosphere, natural rim-light, high dynamic range, strong subject separation, beautiful ambient
+illumination, natural global illumination, elegant shadow gradients, soft highlight transitions,
+natural light-wrapping. Eliminate flat/dull lighting. (Honour each concept's own light key —
+enhance its quality, don't relight it into a different time-of-day/mood.)
+
+### O.7 — MATERIALS
+Increase realism of fabrics, architecture, vegetation, metals, wood, glass, water, marble,
+stone, concrete, leather: better micro-texture, surface quality, natural reflections, realistic
+imperfections, premium finish.
+
+### O.8 — COMPOSITION & DEPTH (enhance, never re-frame)
+Strengthen visual balance, leading lines, framing, depth, perspective, visual flow, subject
+separation, spatial hierarchy; improve atmospheric perspective, foreground richness, midground
+detail, background beauty, spatial layering, 3-dimensionality — WHILE PRESERVING the original
+composition, framing, angle and lens. Remove dead/empty frame areas only where not intentionally
+required (respect deliberate negative space / §N establishing wides).
+
+### O.9 — ENVIRONMENT MOTION (video prompts only, subtle, realistic)
+Add subtle natural environmental motion where appropriate — gentle breeze, moving leaves,
+drifting clouds, water movement, soft reflections, flower motion, sunlight shimmer — realistic,
+never cluttered. (Complements §M alive-camera + real parallax; do not add unmotivated motion.)
+
+### O.10 — SKY (wherever sky is visible)
+Beautiful gradients, rich colour, elegant clouds, cinematic atmosphere, premium light. Avoid
+empty white skies, overexposure, dull/lifeless skies. (A concept's intentional overcast/night/
+storm sky stays that mood — made premium and rich, not flat.)
+
+### O.11 — IMAGE QUALITY & PREMIUM FINISH
+Raise realism, cinematic quality, texture/material/lighting/environmental quality, anatomy, hand
+quality, facial consistency, editorial quality, production value. Remove AI artifacts, plastic
+skin, poor anatomy, inconsistent reflections, unrealistic textures, low-quality surfaces, noisy
+materials, dead eyes, lifeless expressions, unfinished backgrounds, dull compositions. Every
+frame should resemble a luxury travel ad / Apple-grade commercial / premium Netflix production /
+five-star resort campaign / architectural magazine / high-end fashion editorial — while staying
+completely faithful to the original concept.
+
+### O.12 — FINAL OVERRIDING DIRECTIVE
+Whenever multiple valid interpretations satisfy the original concept, choose the one that is more
+visually breathtaking, luxurious, colourful (per O.2/§I), vibrant, emotionally engaging, clean,
+premium, immersive and editorial — while preserving the original concept EXACTLY. Never settle
+for dull, flat, faded, lifeless, empty or ordinary. Where water/greenery/architecture/sky/
+flowers/beaches/mountains/luxury spaces appear, auto-elevate them to the highest premium editorial
+quality without changing the concept.
+
+### O.13 — METHOD & STATUS
+- Work concept-by-concept: read the concept fully, tailor the field enrichment to ITS world and
+  palette (NO blind templating / no generic appended block), preserve everything per the DO-NOT
+  list, commit + push per concept/batch, keep this tracker updated.
+- DO NOT change: concept, shot, framing, perspective, camera angle, lens, subject, object,
+  wardrobe, environment TYPE, action, emotion, storytelling, artistic intent.
+- Verify per file after: framing/camera/lens/wardrobe/action/identity lines unchanged (diff the
+  structural markers), enriched fields present, 0 residual dull/faded/washed-out/grey/muddy
+  language (except inside NEGATIVE lists where those words belong).
+- STATUS: STARTED. Showcase concept = Travel-Scenic aira_set4 Concept 01 (Sea-Blue Infinity Pool).
