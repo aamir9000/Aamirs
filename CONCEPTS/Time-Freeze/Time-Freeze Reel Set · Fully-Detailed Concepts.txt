@@ -60,11 +60,11 @@ Tempo, key & meter: ~60 BPM, C major, 4/4 played rubato (free, breathing time to
 
 Background ambience bed (non-musical): a vast marble-concourse room tone; a distant HVAC sub-hum; a faint high ‘frozen-time’ ringing sine; occasional far-off hall echoes — all hushed beneath the score.
 
-Dynamic arc across all 6 frames (0:00–0:21): F1 (0:00) a single sustained string note kindles from silence; F2 (0:03.5) harp + celesta wonder-sparkle enters; F3 (0:07) a soft woodwind line joins; F4 (0:10.5) a full warm orchestral swell peaks under the joyous twirl; F5 (0:14) the score thins to strings + felt piano and ducks under the spoken line; F6 (0:17.5) resolves into a warm major-chord bloom as the hall roars back to life.
+Dynamic arc across all 6 frames (0:00–0:36): F1 (0:00) a single sustained string note kindles from silence; F2 (0:06) harp + celesta wonder-sparkle enters; F3 (0:12) a soft woodwind line joins; F4 (0:18) a full warm orchestral swell peaks under the joyous twirl; F5 (0:24) the score thins to strings + felt piano and ducks under the spoken line; F6 (0:30) resolves into a warm major-chord bloom as the hall roars back to life.
 
 Signature motif / hook: a gentle 4-note ascending harp-and-celesta ‘wonder’ phrase, restated and harmonised bigger at the F4 peak.
 
-Hero-beat treatment: at F5 (0:14–0:17.5) duck the bed ~6 dB and thin the arrangement so “the world held its breath.” sits clear, warm and intimate.
+Hero-beat treatment: at F5 (0:24–0:30) duck the bed ~6 dB and thin the arrangement so “the world held its breath.” sits clear, warm and intimate.
 
 Transitions & risers: soft string swells and a gentle reverse-cymbal riser into the F4 twirl; no percussive hits — keep it weightless.
 
@@ -701,7 +701,7 @@ Tempo, key & meter: ~70 BPM, A minor, 4/4 in a half-time feel.
 
 Background ambience bed (non-musical): the frozen rain-hush and held ring after the thunderclap; a distant muffled city rumble; faint neon-transformer buzz; a high ringing stillness.
 
-Dynamic arc across all 7 frames (0:00–0:24.5): F1 (0:00) a single low synth pad kindles under the hush; F2 (0:03.5) a soft high bell-tone joins; F3 (0:07) a gentle arpeggio swells; F4 (0:10.5) a light pizzicato-synth pulse adds motion; F5 (0:14) an awed pad swell under the mirrored skateboarder reveal; F6 (0:17.5) a joyful shimmering arpeggio peak at the spin; F7 (0:21) the pad resolves as the real rain roars back.
+Dynamic arc across all 7 frames (0:00–0:42): F1 (0:00) a single low synth pad kindles under the hush; F2 (0:06) a soft high bell-tone joins; F3 (0:12) a gentle arpeggio swells; F4 (0:18) a light pizzicato-synth pulse adds motion; F5 (0:24) an awed pad swell under the mirrored skateboarder reveal; F6 (0:30) a joyful shimmering arpeggio peak at the spin; F7 (0:36) the pad resolves as the real rain roars back.
 
 Signature motif / hook: a 3-note descending glassy FM-bell figure echoing through delay — the dreamlike through-line.
 
@@ -1437,11 +1437,11 @@ Tempo, key & meter: ~92 BPM, G major, 4/4 with a gentle lilt.
 
 Background ambience bed (non-musical): a grand ballroom room tone; the frozen near-silence after the single clap; a distant held crowd murmur; a chandelier-crystal shimmer ring.
 
-Dynamic arc across all 6 frames (0:00–0:21): F1 (0:00) a sparkle kindles from the clap; F2 (0:03.5) strings enter warm; F3 (0:07) brass swells join; F4 (0:10.5) a full celebratory orchestral peak under the confetti play; F5 (0:14) the score thins and ducks under the spoken line; F6 (0:17.5) a triumphant resolve as confetti and champagne crash back into motion.
+Dynamic arc across all 6 frames (0:00–0:36): F1 (0:00) a sparkle kindles from the clap; F2 (0:06) strings enter warm; F3 (0:12) brass swells join; F4 (0:18) a full celebratory orchestral peak under the confetti play; F5 (0:24) the score thins and ducks under the spoken line; F6 (0:30) a triumphant resolve as confetti and champagne crash back into motion.
 
 Signature motif / hook: a rising harp-glissando into a glockenspiel ‘celebration’ sparkle, restated big at F4.
 
-Hero-beat treatment: at F5 (0:14–0:17.5) duck ~6 dB to strings + piano so “some moments deserve to last forever.” lands warm and clear.
+Hero-beat treatment: at F5 (0:24–0:30) duck ~6 dB to strings + piano so “some moments deserve to last forever.” lands warm and clear.
 
 Transitions & risers: champagne-fizz reverse-riser and a soft cymbal swell into F4; bright string runs between beats.
 
@@ -2078,7 +2078,7 @@ Tempo, key & meter: ~64 BPM, D major, 6/8 lilting.
 
 Background ambience bed (non-musical): a frozen wave-hush; a distant gull echo held in air; a low ocean sub-rumble; a warm sundown wind ring.
 
-Dynamic arc across all 7 frames (0:00–0:24.5): F1 (0:00) a single warm pad and guitar harmonic kindle; F2 (0:03.5) nylon guitar melody enters; F3 (0:07) slide guitar joins; F4 (0:10.5) soft strings swell; F5 (0:14) glass-harmonica shimmer at the suspended-wave reveal; F6 (0:17.5) a full golden swell at the spin; F7 (0:21) resolves as the wave crashes back into motion.
+Dynamic arc across all 7 frames (0:00–0:42): F1 (0:00) a single warm pad and guitar harmonic kindle; F2 (0:06) nylon guitar melody enters; F3 (0:12) slide guitar joins; F4 (0:18) soft strings swell; F5 (0:24) glass-harmonica shimmer at the suspended-wave reveal; F6 (0:30) a full golden swell at the spin; F7 (0:36) resolves as the wave crashes back into motion.
 
 Signature motif / hook: a lilting 5-note nylon-guitar phrase answered by slide guitar — the warm through-line.
 
@@ -2814,11 +2814,11 @@ Tempo, key & meter: ~110 BPM in a half-time feel, A-flat major, 4/4.
 
 Background ambience bed (non-musical): a frozen rooftop-party hush; a distant held crowd murmur; a champagne-glass ring; the lingering resonance of a struck midnight bell.
 
-Dynamic arc across all 7 frames (0:00–0:24.5): F1 (0:00) a piano figure and pad kindle from the bell toll; F2 (0:03.5) strings enter; F3 (0:07) glockenspiel sparkle joins; F4 (0:10.5) the low pulse and choir build; F5 (0:14) the score thins under the spoken line; F6 (0:17.5) a glittering full swell at the spin among frozen fireworks; F7 (0:21) resolves as the fireworks burst back into motion.
+Dynamic arc across all 7 frames (0:00–0:42): F1 (0:00) a piano figure and pad kindle from the bell toll; F2 (0:06) strings enter; F3 (0:12) glockenspiel sparkle joins; F4 (0:18) the low pulse and choir build; F5 (0:24) the score thins under the spoken line; F6 (0:30) a glittering full swell at the spin among frozen fireworks; F7 (0:36) resolves as the fireworks burst back into motion.
 
 Signature motif / hook: a descending piano-and-bell ‘midnight’ phrase, restated with choir at F6.
 
-Hero-beat treatment: at F5 (0:14–0:17.5) duck ~6 dB to piano + strings so “some nights you wish would never end.” lands wistful and clear.
+Hero-beat treatment: at F5 (0:24–0:30) duck ~6 dB to piano + strings so “some nights you wish would never end.” lands wistful and clear.
 
 Transitions & risers: sparkling reverse-bell risers and pad swells; the low pulse drops out under the VO then returns.
 
@@ -3550,11 +3550,11 @@ Tempo, key & meter: ~140 BPM, D minor, 4/4 with a driving ostinato.
 
 Background ambience bed (non-musical): a post-blast ear-ring tinnitus tone easing off; a low fire-roar bed; settling-debris texture; distant chaos.
 
-Dynamic arc across all 7 frames (0:00–0:24.5): F1 (0:00) a low brass braam and tinnitus tone over the blast; F2 (0:03.5) ostinato strings enter; F3 (0:07) percussion drives in; F4 (0:10.5) a full hybrid hit under the big move; F5 (0:14) the bed ducks under the spoken line, war-horn underneath; F6 (0:17.5) a colossal percussion-and-brass peak at the hero leap; F7 (0:21) a triumphant resolve as the world crashes back.
+Dynamic arc across all 7 frames (0:00–0:42): F1 (0:00) a low brass braam and tinnitus tone over the blast; F2 (0:06) ostinato strings enter; F3 (0:12) percussion drives in; F4 (0:18) a full hybrid hit under the big move; F5 (0:24) the bed ducks under the spoken line, war-horn underneath; F6 (0:30) a colossal percussion-and-brass peak at the hero leap; F7 (0:36) a triumphant resolve as the world crashes back.
 
 Signature motif / hook: a 3-note descending low-brass ‘shockwave’ braam-motif, restated huge at F6.
 
-Hero-beat treatment: at F5 (0:14–0:17.5) duck ~6 dB to a sustained string-and-horn bed so “fear freezes. I don’t.” hits hard and clear.
+Hero-beat treatment: at F5 (0:24–0:30) duck ~6 dB to a sustained string-and-horn bed so “fear freezes. I don’t.” hits hard and clear.
 
 Transitions & risers: big reverse-cymbal and sub-boom risers into each impact; braam stabs on the beat changes.
 
@@ -4276,7 +4276,7 @@ Tempo, key & meter: ~150 BPM, E minor, 4/4 relentless.
 
 Background ambience bed (non-musical): a frozen overpass hush after the collision; a low engine-rumble drone; tyre-smoke hiss held in air; a high tension ring.
 
-Dynamic arc across all 7 frames (0:00–0:24.5): F1 (0:00) the arp bass kindles under the hush; F2 (0:03.5) the kick and stabs enter; F3 (0:07) lead synth joins; F4 (0:10.5) a full driving peak under the big move; F5 (0:14) a breakdown-swell at the reveal; F6 (0:17.5) the hardest drop at the spin/hero beat; F7 (0:21) resolves as the collision crashes back into motion.
+Dynamic arc across all 7 frames (0:00–0:42): F1 (0:00) the arp bass kindles under the hush; F2 (0:06) the kick and stabs enter; F3 (0:12) lead synth joins; F4 (0:18) a full driving peak under the big move; F5 (0:24) a breakdown-swell at the reveal; F6 (0:30) the hardest drop at the spin/hero beat; F7 (0:36) resolves as the collision crashes back into motion.
 
 Signature motif / hook: a syncopated 4-note saw-lead riff over the arp bass — the neon-chase through-line.
 
@@ -5002,11 +5002,11 @@ Tempo, key & meter: ~145 BPM, C minor, 4/4 driving.
 
 Background ambience bed (non-musical): a frozen mid-derailment hush; a low electrical rail-hum; sparking-metal texture held in air; wind-rush over the train roof.
 
-Dynamic arc across all 7 frames (0:00–0:24.5): F1 (0:00) a metal-tonal hit and low drone over the rail-spark; F2 (0:03.5) ostinato strings enter; F3 (0:07) industrial percussion drives in; F4 (0:10.5) a full grinding peak under the big move; F5 (0:14) the bed ducks under the spoken line; F6 (0:17.5) a colossal industrial peak at the hero beat; F7 (0:21) resolves as the derailment crashes back into motion.
+Dynamic arc across all 7 frames (0:00–0:42): F1 (0:00) a metal-tonal hit and low drone over the rail-spark; F2 (0:06) ostinato strings enter; F3 (0:12) industrial percussion drives in; F4 (0:18) a full grinding peak under the big move; F5 (0:24) the bed ducks under the spoken line; F6 (0:30) a colossal industrial peak at the hero beat; F7 (0:36) resolves as the derailment crashes back into motion.
 
 Signature motif / hook: a clanging metallic 3-note ostinato fused with low brass — the runaway-train through-line.
 
-Hero-beat treatment: at F5 (0:14–0:17.5) duck ~6 dB to a sustained string-and-brass bed so “let it all come down.” lands gritty and clear.
+Hero-beat treatment: at F5 (0:24–0:30) duck ~6 dB to a sustained string-and-brass bed so “let it all come down.” lands gritty and clear.
 
 Transitions & risers: rail-screech tonal risers and sub-booms into each impact; metal-hit stingers on beat changes.
 
@@ -5745,11 +5745,11 @@ Tempo, key & meter: ~128 BPM (dropping to a half-time, time-stretched feel insid
 
 Background ambience bed (non-musical): a desert-highway wind bed; convoy engine-roar rumble; tyre-on-sand grit; distant heat-shimmer drone.
 
-Dynamic arc across all 7 frames (0:00–0:24.5): F1 (0:00) guitar and percussion launch the chase; F2 (0:03.5) brass stabs on the car-fight; F3 (0:07) a slow-mo ramp — score time-stretches into a pitched pad for the hulk-leap; F4 (0:10.5) full drive returns under the barrel-roll explosion; F5 (0:14) the bed ducks under the spoken line; F6 (0:17.5) the hardest drive at the hero leap; F7 (0:21) a triumphant resolve at the handbrake-stop finale.
+Dynamic arc across all 7 frames (0:00–0:42): F1 (0:00) guitar and percussion launch the chase; F2 (0:06) brass stabs on the car-fight; F3 (0:12) a slow-mo ramp — score time-stretches into a pitched pad for the hulk-leap; F4 (0:18) full drive returns under the barrel-roll explosion; F5 (0:24) the bed ducks under the spoken line; F6 (0:30) the hardest drive at the hero leap; F7 (0:36) a triumphant resolve at the handbrake-stop finale.
 
 Signature motif / hook: a revving guitar-and-brass riff that stretches and bends pitch during each speed-ramp — the velocity through-line.
 
-Hero-beat treatment: at F5 (0:14–0:17.5) duck ~6 dB to a driving string-and-guitar bed so “blink and you’ll miss me.” lands cocky and clear.
+Hero-beat treatment: at F5 (0:24–0:30) duck ~6 dB to a driving string-and-guitar bed so “blink and you’ll miss me.” lands cocky and clear.
 
 Transitions & risers: the score time-stretches and pitch-drops INTO each slow-mo ramp then snaps back up to tempo — the signature speed-ramp audio move; sub-booms on snaps.
 
@@ -6457,7 +6457,7 @@ Tempo, key & meter: ~132 BPM, F minor, 4/4 with a relentless clock-tick pulse.
 
 Background ambience bed (non-musical): a burning-tower fire-roar bed; groaning collapsing structure; distant alarms; a low rumble of falling debris.
 
-Dynamic arc across all 7 frames (0:00–0:24.5): F1 (0:00) clock-tick and low drone launch the chaos-sprint; F2 (0:03.5) ostinato strings drive the melee; F3 (0:07) reversed swells engage as the rewind triggers; F4 (0:10.5) the rewind completes and the score SNAPS forward into the counter-punch hit; F5 (0:14) a defiant sustained bed at the searchlight stand; F6 (0:17.5) a colossal peak at the window leap; F7 (0:21) a triumphant resolve as the tower visibly un-collapses then snaps forward.
+Dynamic arc across all 7 frames (0:00–0:42): F1 (0:00) clock-tick and low drone launch the chaos-sprint; F2 (0:06) ostinato strings drive the melee; F3 (0:12) reversed swells engage as the rewind triggers; F4 (0:18) the rewind completes and the score SNAPS forward into the counter-punch hit; F5 (0:24) a defiant sustained bed at the searchlight stand; F6 (0:30) a colossal peak at the window leap; F7 (0:36) a triumphant resolve as the tower visibly un-collapses then snaps forward.
 
 Signature motif / hook: a reversed-then-forward string-swell motif mirroring the rewind device — audio literally plays backward into each rewind beat, then snaps forward.
 
@@ -7167,11 +7167,11 @@ Tempo, key & meter: ~140 BPM, G minor, 4/4 driving with dotted-eighth delays.
 
 Background ambience bed (non-musical): a molten-pour roar bed; crane-rumble and clanking chains; hissing spark-showers; boiling-steam texture.
 
-Dynamic arc across all 7 frames (0:00–0:24.5): F1 (0:00) echoing stabs and metal hits launch the establish-sprint; F2 (0:03.5) ostinato drives the flying-knee; F3 (0:07) a tense breakdown under the molten-ladle near-miss; F4 (0:10.5) full drive on the crane-beam fight; F5 (0:14) the bed ducks under the spoken line as the echoes resolve; F6 (0:17.5) a colossal peak at the molten-pour leap; F7 (0:21) a triumphant resolve as the echoes converge.
+Dynamic arc across all 7 frames (0:00–0:42): F1 (0:00) echoing stabs and metal hits launch the establish-sprint; F2 (0:06) ostinato drives the flying-knee; F3 (0:12) a tense breakdown under the molten-ladle near-miss; F4 (0:18) full drive on the crane-beam fight; F5 (0:24) the bed ducks under the spoken line as the echoes resolve; F6 (0:30) a colossal peak at the molten-pour leap; F7 (0:36) a triumphant resolve as the echoes converge.
 
 Signature motif / hook: a 3-note synth stab fed through dotted-eighth delay so it physically echoes — the audio mirror of the motion-echo strobe trails.
 
-Hero-beat treatment: at F5 (0:14–0:17.5) duck ~6 dB to a sustained bed and let the delay-echoes settle to a single hit so “you’re chasing a shadow.” lands cool and clear.
+Hero-beat treatment: at F5 (0:24–0:30) duck ~6 dB to a sustained bed and let the delay-echoes settle to a single hit so “you’re chasing a shadow.” lands cool and clear.
 
 Transitions & risers: echo-feedback risers and sub-booms into each beat; delay-throws stretch across the frame changes.
 
@@ -7877,7 +7877,7 @@ Tempo, key & meter: ~138 BPM, D minor, 4/4 with a spiralling ostinato.
 
 Background ambience bed (non-musical): a howling high-altitude gale; hammering rain; rolling thunder; thrumming suspension cables; the churning strait far below.
 
-Dynamic arc across all 7 frames (0:00–0:24.5): F1 (0:00) the Shepard-tone riser and ostinato launch the bridge sprint; F2 (0:03.5) percussion hits the clothesline; F3 (0:07) a blast-stab under the tanker explosion-vault; F4 (0:10.5) a plunging riser on the cable fight over the void; F5 (0:14) a towering sustained bed at the silent hero summit; F6 (0:17.5) a colossal peak at the leap; F7 (0:21) a vertiginous resolve as the bridge warps to a held stop.
+Dynamic arc across all 7 frames (0:00–0:42): F1 (0:00) the Shepard-tone riser and ostinato launch the bridge sprint; F2 (0:06) percussion hits the clothesline; F3 (0:12) a blast-stab under the tanker explosion-vault; F4 (0:18) a plunging riser on the cable fight over the void; F5 (0:24) a towering sustained bed at the silent hero summit; F6 (0:30) a colossal peak at the leap; F7 (0:36) a vertiginous resolve as the bridge warps to a held stop.
 
 Signature motif / hook: a continuous Shepard-tone vertigo riser that seems to climb forever — the audio mirror of the dolly-zoom warp.
 

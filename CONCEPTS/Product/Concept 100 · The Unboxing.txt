@@ -534,11 +534,11 @@ Key / Tempo: F# minor → A major, ~108 BPM. The cold branded mid-section sits i
 
 Arc by frame:
 
-- F1 (0:00–0:05) — the haul arrives: bright bouncy plucked-synth + light percussion in F# minor, cheerful but a touch too sugary; the over-bright PR-haul gloss, hooky and scroll-stopping.
-- F2 (0:05–0:10) — the gratitude peaks: the bright bed swells louder and busier, an extra layer of sparkle stacked on; a tiny hollow flatness creeping under the peak, the joy a touch too big.
-- F3 (0:10–0:15) — the overcorrection: hard datamosh glitch-crack drops the music into cold detuned synths, barcode-static crackle and a low sub-drop; the F# minor turns harsh and electric as she becomes the billboard.
-- F4 (0:15–0:20) — the turn: the cold bed strips almost bare — a single held detuned drone and a thin cold pad as the performance stops; the quiet of recognition, the loudness draining out.
-- F5 (0:20–0:25) — the change: a warm reverse-shimmer swell lifts the key out of F# minor; soft warm pads and a gentle pulse warm in as the billboard dissolves into the curator look and she starts to sort.
-- F6 (0:25–0:30) — the payoff: the score resolves fully into calm, open A major — warm piano / soft pad, unhurried and content; the honest daylight close, the one kept thing, the noise gone.
+- F1 (0:00–0:06) — the haul arrives: bright bouncy plucked-synth + light percussion in F# minor, cheerful but a touch too sugary; the over-bright PR-haul gloss, hooky and scroll-stopping.
+- F2 (0:06–0:12) — the gratitude peaks: the bright bed swells louder and busier, an extra layer of sparkle stacked on; a tiny hollow flatness creeping under the peak, the joy a touch too big.
+- F3 (0:12–0:18) — the overcorrection: hard datamosh glitch-crack drops the music into cold detuned synths, barcode-static crackle and a low sub-drop; the F# minor turns harsh and electric as she becomes the billboard.
+- F4 (0:18–0:24) — the turn: the cold bed strips almost bare — a single held detuned drone and a thin cold pad as the performance stops; the quiet of recognition, the loudness draining out.
+- F5 (0:24–0:30) — the change: a warm reverse-shimmer swell lifts the key out of F# minor; soft warm pads and a gentle pulse warm in as the billboard dissolves into the curator look and she starts to sort.
+- F6 (0:30–0:36) — the payoff: the score resolves fully into calm, open A major — warm piano / soft pad, unhurried and content; the honest daylight close, the one kept thing, the noise gone.
 
 ✅ CONCEPT 100 COMPLETE — NON-TALKABLE · Ep.09 "The Unboxing" · 30s / 6 frames · F# minor → A major ~108 BPM · Concept Line: "keep what you'd actually use."
