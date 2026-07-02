@@ -45,8 +45,8 @@ Diversity check: 20 brand-new categories · mixed 6/7/8 frames · 13 spoken / 7 
 
 =====================================================================================================
 CONCEPT 01 — SEA-BLUE INFINITY POOL · 7 frames · VOICE: SPOKEN · Palette: aqua + white + gold
-Logline: Aira drifts from a sun-bleached deck into a turquoise infinity pool — robe to swimwear-modest resortwear, slides kicked off, oversized shades on — a liquid story of stepping in, gliding, and rising out luminous.
-Impossible move: at the waterline the surface becomes a perfect mirror that blooms outward in concentric gold rings as she enters.
+Logline: Aira descends the grand steps of a turquoise infinity pool in a flowing coral resort dress — pausing on the sun-warmed UPPER STEPS that sit a few steps ABOVE the waterline (she never enters the water), oversized shades on — a luminous story of poise on the steps while the sea and sky fill the frame and the pool waits a few steps below.
+Impossible move: a few steps below her, the pool surface becomes a perfect mirror that blooms outward in concentric gold rings as she pauses on the dry step above — she stays out of the water throughout.
 =====================================================================================================
 
 MASTER AUDIO: a 42-second custom cinematic score (7 clips × 6s) composed in self-resolving ~6-second phrases, so it can be trimmed to the reel’s assembled length at any phrase boundary without a hard cut — it always resolves, never stops dead or loops audibly. Built on a deep warm sub, an elegant felt piano and sleek modern textures — premium, cinematic and emotionally catching, never generic stock or empty ambience. It opens immediately on a single elegant piano strike haloed by a low sub-bloom (no fade-in) so the mood lands within the first second. Emotional arc: an airy intimate open across the first beats, a rising shimmer of anticipation toward frame 5, the warm emotional peak on the signature move — at the waterline the surface becomes a perfect mirror that blooms outward in concentric gold rings…, then a graceful resolve back toward the opening for an invisible loop. SPOKEN reel — the score opens space for the spoken line at its beat and ducks gently beneath the voice, then re-blooms after. Layered as one system — lead melody, warm sub for body, glassy modern shimmer as atmosphere, restrained percussion, and event impacts reserved for the major beats, each tuned to the score’s own key so every hit reads as the music itself expanding, never an added sound effect.
@@ -55,25 +55,25 @@ MASTER AUDIO: a 42-second custom cinematic score (7 clips × 6s) composed in sel
 IMAGE PROMPT (Nano Banana Pro · 9:16 · 4K)
 STRICT COLOUR & RENDER MANDATE (must be followed exactly; this governs render QUALITY only and must NOT change the composition, camera, lens, framing, wardrobe, action or identity specified above): render the colours already specified at their richest, freshest, cleanest and most premium — crisp, vivid and luminous with elegant, controlled saturation; never dull, faded, washed-out, muddy, grey or flat. Hold deep-but-clean blacks, luminous full mid-tones and beautiful highlight roll-off with high dynamic range and no blown highlights. Wherever sky is visible, render it richly graded and cinematic — never empty, white or overexposed. Wherever water is visible, render it crystal-clear with deep sea-blue and turquoise gradients, clean caustics and sparkling reflections — never grey or murky (unless the concept explicitly specifies dark / ink / obsidian water, which stays deep, glassy and clean). Protect natural, true skin tone; never push saturation onto the face. Keep the image immaculately clean and premium with clear figure-to-ground separation so the hero reads first; honour the concept's intended dominant surface and full-frame coverage, and do NOT reveal unwanted structural edges, seams, side-walls or empty dead space that break the intended composition. Photoreal, award-winning editorial finish — no AI artifacts, plastic or waxy skin, dead eyes, malformed hands or unfinished backgrounds.
 SUBJECT: Aira [paste identity-lock reference sheet here].
-SCENE INTENT: A wide, breath-of-morning establishing still where a cliff-edge infinity pool FILLS THE ENTIRE FRAME and melts seamlessly into the open sea horizon — an edgeless sheet of crystal-clear turquoise water spreading wall-to-wall so that ONLY Aira's small near standing-spot, the sea beyond the vanishing infinity edge, and the sky are visible; NO flanking travertine deck, pool side-walls, coping or garden borders anywhere in frame, and the pool never reads as a narrow rectangle shot lengthwise. A five-star resort vista rendered at its finest; Aira small in frame, top-left third, the luminous turquoise expanse doing the talking, every zone of the frame intentionally designed, immaculately clean and premium.
-WARDROBE: a long ivory linen kaftan-robe over modest resort swimwear; robe gauze-light, hem stirring; belt loosely knotted at the waist; fabric reads crisp cotton-linen with visible weave.
+SCENE INTENT: A wide, breath-of-morning establishing still where a cliff-edge infinity pool FILLS THE ENTIRE FRAME and melts seamlessly into the open sea horizon — an edgeless sheet of crystal-clear turquoise water spreading wall-to-wall so that ONLY Aira — poised at the top of the pool's dry upper steps, the waterline a few steps below her — the sea beyond the vanishing infinity edge, and the sky are visible; NO flanking travertine deck, pool side-walls, coping or garden borders anywhere in frame, and the pool never reads as a narrow rectangle shot lengthwise. A five-star resort vista rendered at its finest; Aira small in frame, top-left third, the luminous turquoise expanse doing the talking, every zone of the frame intentionally designed, immaculately clean and premium.
+WARDROBE: a flowing coral resort maxi dress, gauze-light with the hem stirring in the breeze, softly belted at the waist; fabric reads crisp cotton-linen with visible weave.
 FOOTWEAR: flat gold slide sandals, one strap catching deck-light, soles faintly wet at the edge.
 EYEWEAR: oversized tortoiseshell sunglasses pushed up into the hairline, lenses throwing a soft caramel reflection.
 ACCESSORIES: thin gold anklet, a single stacked-band ring, slim gold hoops; nothing oversized — resort-minimal.
 HAIR: loose beach waves, lightly tousled, a few strands lifted by the sea breeze.
 MAKEUP: dewy sun-warmed skin, glossed lip, no heaviness — a wet-luminous finish.
 HANDS & NAILS: relaxed open hands, one trailing along a glass railing; short glossy neutral nails.
-CHOREOGRAPHY / WEARING-ACTION: caught mid-stroll toward the water, weight on the back foot, robe trailing — a held breath before the first step.
-SPATIAL LOGIC: the infinity pool's turquoise water FILLS THE FRAME edge-to-edge. FOREGROUND — the glassy pool surface directly below her and a minimal near water-edge at her feet (no wide deck, no visible pool side-walls or coping); MIDGROUND — the vast edgeless pool sheet stretching out, its infinity edge dissolving into the sea so water meets water; BACKGROUND — a softly graded sea horizon and open sky; gentle leading lines of light and ripple on the water draw the eye cleanly to her and out to the vanishing edge, building real foreground-to-background depth.
+CHOREOGRAPHY / WEARING-ACTION: poised at the top of the pool's grand steps a few steps above the waterline, weight settling, coral dress hem stirring — a held breath above the water below.
+SPATIAL LOGIC: the infinity pool's turquoise water FILLS THE FRAME edge-to-edge. FOREGROUND — the sun-warmed dry upper steps under her feet with the glassy pool water a few steps below (no wide deck, no visible pool side-walls or coping); MIDGROUND — the vast edgeless pool sheet stretching out, its infinity edge dissolving into the sea so water meets water; BACKGROUND — a softly graded sea horizon and open sky; gentle leading lines of light and ripple on the water draw the eye cleanly to her and out to the vanishing edge, building real foreground-to-background depth.
 LIGHTING: early-morning golden sun camera-left casting a long warm rake across the wet travertine, soft volumetric fill bounced off pale stone, a delicate rim-light wrapping her shoulder and hair-crown, crisp specular sparkle dancing across the ripples, high-dynamic-range roll-off holding both the bright water and the shaded deck — rich, clean, never flat.
 FRAMING: full wide, 9:16, generous negative space of sky and water above her.
-SUBJECT FRAMING & POSITION: A high-angle wide establishing frame reads Aira as a small full figure on the upper-left third, the cliff-edge infinity pool water filling almost the whole frame edge-to-edge and dissolving into the sea, with generous sky held as negative space above and no flanking deck or visible pool sides. She is caught mid-stroll toward the water, hip-led with her weight on the back foot and the linen robe trailing, her body angled away into the scene in a loose three-quarter. The camera is high and far, establishing the vista and dwarfing her against the turquoise. She sits on the upper-left node on a minimal near water-edge, with leading lines of ripple and light across the water drawing the eye diagonally down to her (no flanking deck or visible pool sides), turned into the scene rather than addressing the lens. Her pose reads as caught mid-stroll toward the water, weight on the back foot, robe trailing — a held breath before the first step — gaze set along her path, calm and purposeful; head balanced and level into the travel; one shoulder easing forward as the opposite arm counter-swings, hands loose; torso lifted and moving forward through the step; waist turning softly with the gait; the lead foot rolling onto the ground as the trailing foot pushes off behind; weight transferring smoothly forward, soles in real contact; hair and hem trailing the stride. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A high-angle wide establishing frame reads Aira as a small full figure on the upper-left third, the cliff-edge infinity pool water filling almost the whole frame edge-to-edge and dissolving into the sea, with generous sky held as negative space above and no flanking deck or visible pool sides. She is poised at the top of the pool's dry upper steps a few steps above the waterline, hip-led with her weight settling and the coral dress hem stirring, her body angled away into the scene in a loose three-quarter. The camera is high and far, establishing the vista and dwarfing her against the turquoise. She sits on the upper-left node at the top of the pool's dry upper steps, with leading lines of ripple and light across the water drawing the eye diagonally down to her (no flanking deck or visible pool sides), turned into the scene rather than addressing the lens. Her pose reads as poised at the top of the steps above the water, weight settling onto one hip, coral dress hem stirring — a held breath above the pool below — gaze set along her path, calm and purposeful; head balanced and level into the travel; one shoulder easing forward as the opposite arm counter-swings, hands loose; torso lifted and moving forward through the step; waist turning softly with the gait; the lead foot rolling onto the ground as the trailing foot pushes off behind; weight transferring smoothly forward, soles in real contact; hair and hem trailing the stride. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 LENS + DOF + BOKEH: 24mm equivalent, deep focus, everything crisp; faint heat-shimmer on the far horizon.
 COMPOSITION REF: rule-of-thirds with subject on upper-left node, sea horizon on upper third, leading diagonal formed by the pool's light and ripples toward the infinity edge; edgeless water fills the frame with no visible deck or pool side-walls.
 ATMOSPHERE: faint golden salt haze catching the low light, a lone gull arcing mid-sky, a scatter of micro-glints twinkling across the water, the morning air fresh, luminous and alive.
 COLOR GRADE: a rich aqua-and-white base with deep clean turquoise in the water, warm gold highlight roll-off, immaculately clean bright whites, luminous full mid-tones and deep-but-clean shadows with zero murk — premium editorial grade, natural true skin tone protected.
 TEXTURE: crisp linen weave with visible fibres, fine travertine stone grain, glassy water sparkle and caustic shimmer, brushed-gold metal micro-reflections, natural skin micro-sheen with real pores — every surface premium and true.
-CONTINUITY-LOCKS: ivory robe / gold slides / tortoiseshell shades up / gold anklet + hoops / beach waves — carry to all frames.
+CONTINUITY-LOCKS: coral resort dress / gold slides / tortoiseshell shades up / gold anklet + hoops / beach waves — carry to all frames.
 NEGATIVE: STD-NEG-IMG.
 
 
@@ -84,19 +84,19 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE / ANGLE: high wide establishing, slow push-in.
 LENS: 24mm, deep focus softening slightly as we near.
-WARDROBE (lock): ivory linen kaftan-robe over modest resortwear, hem and sleeves alive in the breeze.
+WARDROBE (lock): flowing coral resort maxi dress, hem and sleeves alive in the breeze.
 FOOTWEAR (lock): gold flat slides, one heel lifting as she shifts weight.
 EYEWEAR (lock): tortoiseshell sunglasses resting in the hairline.
 ACCESSORIES (lock): gold anklet, hoops, single ring — catching morning glints.
 HAIR (lock): beach waves drifting, 2–3 strands lifting in real airflow.
 MAKEUP (lock): dewy luminous, gloss catching light.
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] high wide establishing, slow push-in: gentle crane-down + 8% dolly-in is already underway — she stands at the pool's near water-edge, inhales, robe settling.
-- [00:02–00:04] she takes two unhurried steps toward the water, weight rolling heel-to-toe, hand grazing the railing.
-- [00:04–00:06] she pauses at the lip, head tilting toward the horizon, a soft half-smile blooming.
+- [00:00–00:02] high wide establishing, slow push-in: gentle crane-down + 8% dolly-in is already underway — she stands at the top of the pool's dry upper steps, the waterline a few steps below, inhales, dress hem settling.
+- [00:02–00:04] she takes two unhurried steps down onto the next dry step, weight rolling heel-to-toe, hand grazing the railing (still above the waterline).
+- [00:04–00:06] she pauses on the dry step above the water, head tilting toward the horizon, a soft half-smile blooming.
 BODY MECHANICS & WEIGHT TRANSFER: clear hip-led walk, grounded foot contact (no glide), spine long, shoulders loose.
 MICRO-EXPRESSION TIMING: eyes soften at 1.5s, lashes blink at 3.2s, lips part to half-smile by 5.4s.
-KINETIC LAYERS: (1) robe hem, (2) sleeve gauze, (3) hair strands, (4) water ripples, (5) reflected light shimmering on the pool water, (6) distant gull, (7) breath in shoulders, (8) faint breeze texture skating across the water surface.
+KINETIC LAYERS: (1) dress hem, (2) sleeve gauze, (3) hair strands, (4) water ripples below, (5) reflected light shimmering on the pool water, (6) distant gull, (7) breath in shoulders, (8) faint breeze texture skating across the water surface.
 LIGHTING: warm low golden sun raking left-to-right, a soft rim wrapping her silhouette, sparkle animating on the ripples in real time, gentle volumetric haze catching the light.
 ENVIRONMENT: a cliff-edge infinity pool of crystal-clear turquoise water FILLING THE FRAME edge-to-edge and meeting the open sea at the vanishing infinity edge; only Aira's minimal near standing-spot, the sea beyond, and the sky are visible — no flanking travertine deck, pool side-walls or garden borders in frame; a pristine five-star resort vista.
 ATMOSPHERE / FX: drifting golden salt haze, micro-sparkle skating across the water, soft cloud drifting far off in a rich graded sky, faint elegant lens bloom on the brightest ripples.
@@ -106,29 +106,29 @@ DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed). FRA
 CONTINUITY-LOCKS: as image frame 1.
 NEGATIVE: STD-NEG-VID.
 
---- FRAME 2 · FULL · THREE-QUARTER FRONT (the robe comes off the shoulder) ---
+--- FRAME 2 · FULL · THREE-QUARTER FRONT (settling the dress on the steps) ---
 IMAGE PROMPT (Nano Banana Pro · 9:16 · 4K)
 STRICT COLOUR & RENDER MANDATE (must be followed exactly; this governs render QUALITY only and must NOT change the composition, camera, lens, framing, wardrobe, action or identity specified above): render the colours already specified at their richest, freshest, cleanest and most premium — crisp, vivid and luminous with elegant, controlled saturation; never dull, faded, washed-out, muddy, grey or flat. Hold deep-but-clean blacks, luminous full mid-tones and beautiful highlight roll-off with high dynamic range and no blown highlights. Wherever sky is visible, render it richly graded and cinematic — never empty, white or overexposed. Wherever water is visible, render it crystal-clear with deep sea-blue and turquoise gradients, clean caustics and sparkling reflections — never grey or murky (unless the concept explicitly specifies dark / ink / obsidian water, which stays deep, glassy and clean). Protect natural, true skin tone; never push saturation onto the face. Keep the image immaculately clean and premium with clear figure-to-ground separation so the hero reads first; honour the concept's intended dominant surface and full-frame coverage, and do NOT reveal unwanted structural edges, seams, side-walls or empty dead space that break the intended composition. Photoreal, award-winning editorial finish — no AI artifacts, plastic or waxy skin, dead eyes, malformed hands or unfinished backgrounds.
 SUBJECT: Aira [paste identity-lock reference sheet here].
-SCENE INTENT: She has reached the water's edge and begins to slip the linen robe from one shoulder — a graceful, modest reveal of resortwear beneath, framed full-length against rich rippling turquoise, the pristine travertine lip and glowing resort pool composed cleanly behind her.
-WARDROBE: ivory robe sliding off the left shoulder, caught in the crook of the elbow; modest one-piece-style resort swimwear beneath in vivid coral-and-aqua.
-FOOTWEAR: gold slides now kicked off, lying at frame-foreground edge, one upturned — a story-beat prop.
+SCENE INTENT: She has descended onto the pool's dry upper steps and pauses to settle the coral dress at one shoulder — a graceful, poised beat, framed full-length against the rich rippling turquoise a few steps below, the pristine steps and glowing resort pool composed cleanly behind her; she stays out of the water.
+WARDROBE: a flowing coral resort maxi dress, one strap easing softly at the left shoulder; crisp cotton-linen, hem stirring in the breeze.
+FOOTWEAR: gold slides on her feet on the dry step, catching the light.
 EYEWEAR: tortoiseshell shades lowered onto the nose now, a glossy reflection of the pool across the lenses.
 ACCESSORIES: gold anklet on the bare ankle, hoops, ring — all catching light.
 HAIR: waves swept over one shoulder, the breeze lifting the ends.
 MAKEUP: dewy, sun-glow, glossed lip.
-HANDS & NAILS: one hand easing the robe down, the other relaxed at her side, fingers softly curved.
-CHOREOGRAPHY / WEARING-ACTION: weight on the left leg, right toe testing the water's edge; torso in a gentle three-quarter twist toward camera.
-SPATIAL LOGIC: FOREGROUND — the kicked-off gold slides on wet stone, tack sharp; MIDGROUND — Aira at the exact waterline; BACKGROUND — the infinity edge floating into the graded sea-and-sky beyond, clean layered depth throughout.
+HANDS & NAILS: one hand settling the dress strap, the other relaxed at her side, fingers softly curved.
+CHOREOGRAPHY / WEARING-ACTION: weight on the left leg, right foot resting on the step below; torso in a gentle three-quarter twist toward camera.
+SPATIAL LOGIC: FOREGROUND — the sun-warmed dry step under her feet, tack sharp; MIDGROUND — Aira on the upper steps a few steps above the waterline; BACKGROUND — the infinity edge floating into the graded sea-and-sky beyond, clean layered depth throughout.
 LIGHTING: soft frontal key with a warm golden rim from the sun behind-left sculpting the shoulder line, cool turquoise bounce lifting from the water, elegant shadow gradients and soft highlight roll-off — luminous and dimensional.
 FRAMING: full-length, 9:16, subject centered on the lower-third vertical.
-SUBJECT FRAMING & POSITION: A full-length frame holds Aira head-to-foot, centred on the lower-third vertical at the exact waterline, the kicked-off gold slides anchoring the foreground and the infinity edge floating behind. Her weight is on the left leg with the right toe testing the water, the torso in a gentle three-quarter twist toward camera as she slips the linen robe from one shoulder. The camera sits at a full, mid distance reading the whole modest reveal against the rippling turquoise. She is centred and turned three-quarter to the lens, alive and poised at the edge. Her pose reads as weight on the left leg, right toe testing the water's edge; torso in a gentle three-quarter twist toward camera — gaze steady to camera with quiet confidence; head level and poised; the shoulders squared and easy; both arms relaxed at her sides, fingers soft; torso tall and open, breath lifting the chest; waist long, hips set with a gentle counter-tilt; the legs planted even, one knee soft; weight grounded and balanced across both feet; hair falling naturally at rest. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A full-length frame holds Aira head-to-foot, centred on the lower-third vertical on the pool's dry upper steps a few steps above the waterline, the sun-warmed step anchoring the foreground and the infinity edge floating behind. Her weight is on the left leg with the right foot resting on the step below, the torso in a gentle three-quarter twist toward camera as she settles the coral dress at one shoulder. The camera sits at a full, mid distance reading the whole poised beat against the rippling turquoise below. She is centred and turned three-quarter to the lens, alive and poised on the steps. Her pose reads as weight on the left leg, right foot resting on the step below; torso in a gentle three-quarter twist toward camera — gaze steady to camera with quiet confidence; head level and poised; the shoulders squared and easy; both arms relaxed at her sides, fingers soft; torso tall and open, breath lifting the chest; waist long, hips set with a gentle counter-tilt; the legs planted even, one knee soft; weight grounded and balanced across both feet; hair falling naturally at rest. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 LENS + DOF + BOKEH: 35mm, medium DOF, water bokeh sparkles behind her.
 COMPOSITION REF: classic full-length fashion three-quarter, foreground prop anchoring depth.
 ATMOSPHERE: faint golden steam curling off the sun-warmed water, delicate sparkle bokeh, a hushed luminous calm.
 COLOR GRADE: rich aqua + clean white + warm gold, luminous full mid-tones, glossy speculars and clean uncrushed shadows — premium and vivid without oversaturating skin.
 TEXTURE: crisp linen weave, natural skin sheen with real pores, glassy water sparkle, brushed-gold metal micro-reflection — every material rendered true and premium.
-CONTINUITY-LOCKS: robe (now off-shoulder), slides (kicked off), shades (lowered), anklet/hoops/ring, waves.
+CONTINUITY-LOCKS: coral dress, gold slides on, shades (lowered), anklet/hoops/ring, waves.
 NEGATIVE: STD-NEG-IMG.
 
 
@@ -139,19 +139,19 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE / ANGLE: full-length, three-quarter front, static-to-slow-arc.
 LENS: 35mm, medium focus.
-WARDROBE (lock): robe slipping off the shoulder into the elbow crook, resortwear beneath.
-FOOTWEAR (lock): gold slides already kicked off in foreground (continuity from action).
+WARDROBE (lock): coral resort maxi dress, one strap easing softly at the shoulder.
+FOOTWEAR (lock): gold slides on her feet on the step.
 EYEWEAR (lock): shades lowered onto nose, pool reflected across lenses.
 ACCESSORIES (lock): anklet/hoops/ring glinting.
 HAIR (lock): waves over one shoulder, ends lifting.
 MAKEUP (lock): dewy gloss.
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] full-length, three-quarter front, static-to-slow-arc: subtle 15° arc left-to-right around her is already underway — she steps out of the slides (real foot-lift, toes flex), nudging them aside.
-- [00:02–00:04] she eases the robe off one shoulder in one fluid arc, fabric sliding like water.
-- [00:04–00:06] she dips a toe to the surface, sending the first ripple, and glances down with a soft smile.
+- [00:00–00:02] full-length, three-quarter front, static-to-slow-arc: subtle 15° arc left-to-right around her is already underway — she settles onto the step, weight easing, dress hem swaying.
+- [00:02–00:04] she settles the coral dress at one shoulder in one fluid arc, fabric flowing softly.
+- [00:04–00:06] she rests a hand on the step-rail and glances down toward the water a few steps below with a soft smile.
 BODY MECHANICS & WEIGHT TRANSFER: weight shifts left as right foot lifts free of the sandal; controlled, liquid, no wobble.
 MICRO-EXPRESSION TIMING: focused glance down at 2.0s, lashes lower at 3.5s, smile at 5.0s.
-KINETIC LAYERS: (1) robe sliding, (2) hair ends, (3) toe-ripple expanding, (4) water sparkle, (5) breath, (6) breeze on hem, (7) reflected light dancing on lenses, (8) distant palm sway.
+KINETIC LAYERS: (1) dress hem flowing, (2) hair ends, (3) ripple on the water below, (4) water sparkle, (5) breath, (6) breeze on hem, (7) reflected light dancing on lenses, (8) distant palm sway.
 LIGHTING: warm golden rim behind-left, soft frontal fill, cool aqua bounce, ripple-light flickering up onto her in real time — rich and dimensional, never flat.
 ENVIRONMENT: the pristine infinity-pool lip of crystal-clear turquoise, the sea horizon and softly graded sky beyond, a breeze-stirred palm and clean travertine framing the resort setting.
 ATMOSPHERE / FX: a delicate golden heat-steam wisp, fine sparkle, the first clean concentric toe-ripple expanding across glassy water.
@@ -165,25 +165,25 @@ NEGATIVE: STD-NEG-VID.
 IMAGE PROMPT (Nano Banana Pro · 9:16 · 4K)
 STRICT COLOUR & RENDER MANDATE (must be followed exactly; this governs render QUALITY only and must NOT change the composition, camera, lens, framing, wardrobe, action or identity specified above): render the colours already specified at their richest, freshest, cleanest and most premium — crisp, vivid and luminous with elegant, controlled saturation; never dull, faded, washed-out, muddy, grey or flat. Hold deep-but-clean blacks, luminous full mid-tones and beautiful highlight roll-off with high dynamic range and no blown highlights. Wherever sky is visible, render it richly graded and cinematic — never empty, white or overexposed. Wherever water is visible, render it crystal-clear with deep sea-blue and turquoise gradients, clean caustics and sparkling reflections — never grey or murky (unless the concept explicitly specifies dark / ink / obsidian water, which stays deep, glassy and clean). Protect natural, true skin tone; never push saturation onto the face. Keep the image immaculately clean and premium with clear figure-to-ground separation so the hero reads first; honour the concept's intended dominant surface and full-frame coverage, and do NOT reveal unwanted structural edges, seams, side-walls or empty dead space that break the intended composition. Photoreal, award-winning editorial finish — no AI artifacts, plastic or waxy skin, dead eyes, malformed hands or unfinished backgrounds.
 SUBJECT: Aira [paste identity-lock reference sheet here].
-SCENE INTENT: A heroic low-angle cowboy framing as she steps down into the shallow ledge of the pool, water rising to mid-calf, the crystal-clear turquoise surface beginning its impossible mirror-bloom — the luminous resort pool and graded sky held rich and clean behind her.
-WARDROBE: robe now wrapped low around the hips like a sarong, knotted at one side; modest resortwear above.
-FOOTWEAR: barefoot, ankles submerged, the gold anklet glinting underwater.
+SCENE INTENT: A heroic low-angle cowboy framing as she steps down the pool's grand steps and pauses on a dry step a few steps above the waterline, the crystal-clear turquoise surface a few steps below her beginning its impossible mirror-bloom — the luminous resort pool and graded sky held rich and clean behind her; she stays out of the water.
+WARDROBE: the flowing coral resort maxi dress, hem gathered lightly at one side as she steps down.
+FOOTWEAR: gold slides on the dry step, the gold anklet catching light — well above the waterline.
 EYEWEAR: tortoiseshell shades on, mirroring the gold ring-bloom of the water.
-ACCESSORIES: hoops, ring, anklet underwater — distorted by ripples.
+ACCESSORIES: hoops, ring, anklet on the dry step, catching light.
 HAIR: waves swept back off the face by a hand-tuck.
 MAKEUP: dewy, glossed, a sun-fleck highlight on the cheekbone.
 HANDS & NAILS: one hand tucking hair, the other skimming the water's surface.
-CHOREOGRAPHY / WEARING-ACTION: mid-step descent, front knee bent, weight transferring forward into the water; chin lifted, confident.
-SPATIAL LOGIC: low camera just above the waterline; FOREGROUND — glassy turquoise water and fine spray; MIDGROUND — concentric gold mirror-rings radiating from her shins; BACKGROUND — the infinity edge and graded sky, real radial depth drawing the eye out to the horizon.
+CHOREOGRAPHY / WEARING-ACTION: mid-step descent down the dry steps, front knee bent, weight settling onto the lower dry step; chin lifted, confident.
+SPATIAL LOGIC: low camera just above the waterline; FOREGROUND — glassy turquoise water and fine spray; MIDGROUND — concentric gold mirror-rings radiating across the water a few steps below her; BACKGROUND — the infinity edge and graded sky, real radial depth drawing the eye out to the horizon.
 LIGHTING: golden sun behind her carving a bright halo rim through her hair, warm bounced gold light rising from the water onto the underside of her jaw, cool aqua fill and soft ambient glow — high dynamic range, richly dimensional.
 FRAMING: cowboy crop (mid-thigh up), 9:16, low hero angle making her tower.
-SUBJECT FRAMING & POSITION: A cowboy crop from mid-thigh up taken from a low hero angle makes Aira tower over the waterline, the gold mirror-rings radiating from her shins out to the infinity edge. She is caught mid-step descending into the shallow ledge, the front knee bent and her weight transferring forward into the water, chin lifted and confident. The camera sits low just above the surface looking up, close and heroic. She is centred and angled three-quarter into her descent, commanding the frame from below. Her pose reads as mid-step descent, front knee bent, weight transferring forward into the water; chin lifted, confident — gaze level along her line through the water, serene; head leading the slow glide; the shoulders easing forward into the wade; both arms fanning out and trailing through the water for balance, fingers relaxed; torso leading gently forward through the surface; waist long, hips easing forward; the front leg wading ahead while the rear trails; weight transferring slowly forward through the submerged footing; hair and fabric drifting with the water's drag. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A cowboy crop from mid-thigh up taken from a low hero angle makes Aira tower on the pool steps, the gold mirror-rings radiating across the water a few steps below out to the infinity edge. She is caught mid-step descending the dry pool steps, the front knee bent and her weight settling onto the lower dry step, chin lifted and confident. The camera sits low just above the surface looking up, close and heroic. She is centred and angled three-quarter into her descent, commanding the frame from below. Her pose reads as mid-step descent down the dry steps, front knee bent, weight settling onto the lower step; chin lifted, confident — gaze set calmly along her sightline, serene; head poised and level; the shoulders open and easy; both hands resting lightly, one grazing the step-rail, fingers relaxed; torso tall and lifted; waist long with a gentle counter-tilt; one leg bearing weight on the dry step while the other rests a step below; weight grounded and balanced on the sun-warmed stone, well above the waterline; hair and dress hem stirring in the breeze. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 LENS + DOF + BOKEH: 50mm, shallow DOF, the far edge melting into bokeh.
 COMPOSITION REF: low-hero fashion entrance, radial symmetry of the water rings.
 ATMOSPHERE: the impossible mirror-bloom — clean concentric gold rings blooming on a glass-still turquoise surface, fine luminous spray catching the sun, an air of hushed magic.
 COLOR GRADE: deep rich aqua, warm gold ring-light glow, a bright clean rim, luminous mid-tones and deep-but-clean blacks — vivid and premium.
 TEXTURE: glass-clear water surface and fine ripple detail, natural skin sheen with real pores, wet brushed-gold metal catching light — crisp premium materials.
-CONTINUITY-LOCKS: robe (now hip-sarong), barefoot, shades on, anklet/hoops/ring, waves.
+CONTINUITY-LOCKS: coral dress, gold slides, shades on, anklet/hoops/ring, waves.
 NEGATIVE: STD-NEG-IMG.
 
 
@@ -192,53 +192,53 @@ STRICT COLOUR & RENDER MANDATE (must be followed exactly; this governs render QU
 
 IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked identity reference and hold her the SAME PERSON for the entire 6-second clip and every generated frame. Treat identity as a FIXED skeleton that never changes — bone structure (skull, cheekbones, jawline, chin), overall face shape and proportions, eye shape, spacing and iris colour, nose and lip shape, skin tone and real skin texture (visible pores, fine peach-fuzz; no plastic smoothing, no beautification creep, no face re-shaping), hairline, hair colour and texture, height, build and hand/finger anatomy. ONLY the soft expression muscles may move — eyelids, brows, cheeks and mouth corners — together with the eyes, gaze and head; expression and lip-sync animate ON TOP of that fixed identity and must NEVER alter the face shape, the eye colour, or who she is. Keep expression changes smooth and moderate and lead them with the EYES and GAZE (soft smiles, brow lifts, a parted breath, eyes tracing the object) — no extreme grimace, no wide-mouth distortion, no hard squint, no rapid expression flicker that would warp the geometry; favour one clean expression transition per clip. ABSOLUTE ZERO identity drift: no morphing, melting, smearing, rubbery warping, face-swapping, twinning or a second/duplicate subject, no age, weight, ethnicity or gender shift, no extra, missing or fused fingers or limbs. Identity stays identical at the first frame, every in-between frame, the loop seam and the last frame. Through any transform, impossible move or fast action ONLY the intended element (wardrobe, environment, props or effect) changes — her face, identity and proportions stay fully recognizable; interpolate strictly between the locked keyframes and never invent a new face, new hands, extra limbs or a second subject. Do not mirror, flip or invert the frame.
 
-SHOT TYPE / ANGLE: low-hero cowboy, water-level.
+SHOT TYPE / ANGLE: low-hero cowboy, step-level.
 LENS: 50mm, shallow focus pulling from water to face.
-WARDROBE (lock): robe knotted as a hip-sarong, resortwear above.
-FOOTWEAR (lock): barefoot, ankles entering water, anklet glinting under-surface.
+WARDROBE (lock): coral resort maxi dress, hem gathered lightly at one side.
+FOOTWEAR (lock): gold slides on the dry step, anklet glinting.
 EYEWEAR (lock): shades mirroring the gold bloom.
 ACCESSORIES (lock): hoops/ring/anklet.
 HAIR (lock): swept back mid-tuck.
 MAKEUP (lock): dewy with cheekbone highlight.
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] low-hero cowboy, water-level: slow rise from water-level up to eye-line as she descends is already underway — she steps down onto the submerged ledge, water climbing calf, ripples spreading.
-- [00:02–00:04] the IMPOSSIBLE MOVE — the surface stills to a mirror then blooms concentric gold rings outward from her shins.
-- [00:04–00:06] she skims her fingertips across the glassy water and lifts her chin with a slow confident smile.
+- [00:00–00:02] low-hero cowboy, step-level: slow rise from step-level up to eye-line as she descends is already underway — she steps down onto the next dry step, the waterline a few steps below, dress hem swaying.
+- [00:02–00:04] the IMPOSSIBLE MOVE — the surface a few steps below stills to a mirror then blooms concentric gold rings outward across the water below her.
+- [00:04–00:06] she rests a hand on the step-rail and lifts her chin with a slow confident smile.
 BODY MECHANICS & WEIGHT TRANSFER: deliberate forward descent, front knee absorbing weight, grounded, liquid — no jerk.
 MICRO-EXPRESSION TIMING: focused-down at 1.4s, awe-soften as rings bloom at 2.7s, confident smile at 4.9s.
-KINETIC LAYERS: (1) water climbing the leg, (2) concentric ring-bloom, (3) fingertip wake, (4) hair settling, (5) sarong hem floating, (6) rim-halo flicker, (7) breath, (8) spray motes, (9) reflected ring-light on her jaw.
+KINETIC LAYERS: (1) dress hem swaying on the step, (2) concentric ring-bloom on the water below, (3) hand on the rail, (4) hair settling, (5) coral hem settling, (6) rim-halo flicker, (7) breath, (8) spray motes below, (9) reflected ring-light on her jaw.
 LIGHTING: backlit golden halo + warm gold under-bounce from the water, the mirror ring-bloom emitting its own soft luminous glow, cool aqua fill balancing — rich and dimensional.
 ENVIRONMENT: the shallow entry ledge of the crystal-clear infinity pool, glowing turquoise water, the open sea and richly graded sky beyond, clean travertine and tropical greenery framing the resort.
 ATMOSPHERE / FX: a mirror-still turquoise surface, clean radial gold rings, fine luminous spray, a faint elegant bloom on the brightest highlights.
 COLOR GRADE: rich aqua + warm gold, luminous mid-tones, immaculately clean deep blacks — vivid, premium, zero murk.
-AUDIO: ambient sea + soft underwater muffle; SFX — calf-deep water-step at 0.9s, glassy chime as rings bloom at 2.5s, fingertip skim-trill at 4.5s; master — hushed, magical.
+AUDIO: ambient sea + soft breeze; SFX — a soft step on stone at 0.9s, a glassy chime as the rings bloom below at 2.5s, a hand-on-rail settle at 4.5s; master — hushed, magical.
 DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed). FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 CONTINUITY-LOCKS: as image frame 3.
 NEGATIVE: STD-NEG-VID.
 
---- FRAME 4 · MS (waist up) · PROFILE (gliding through the water) ---
+--- FRAME 4 · MS (waist up) · PROFILE (descending the steps) ---
 IMAGE PROMPT (Nano Banana Pro · 9:16 · 4K)
 STRICT COLOUR & RENDER MANDATE (must be followed exactly; this governs render QUALITY only and must NOT change the composition, camera, lens, framing, wardrobe, action or identity specified above): render the colours already specified at their richest, freshest, cleanest and most premium — crisp, vivid and luminous with elegant, controlled saturation; never dull, faded, washed-out, muddy, grey or flat. Hold deep-but-clean blacks, luminous full mid-tones and beautiful highlight roll-off with high dynamic range and no blown highlights. Wherever sky is visible, render it richly graded and cinematic — never empty, white or overexposed. Wherever water is visible, render it crystal-clear with deep sea-blue and turquoise gradients, clean caustics and sparkling reflections — never grey or murky (unless the concept explicitly specifies dark / ink / obsidian water, which stays deep, glassy and clean). Protect natural, true skin tone; never push saturation onto the face. Keep the image immaculately clean and premium with clear figure-to-ground separation so the hero reads first; honour the concept's intended dominant surface and full-frame coverage, and do NOT reveal unwanted structural edges, seams, side-walls or empty dead space that break the intended composition. Photoreal, award-winning editorial finish — no AI artifacts, plastic or waxy skin, dead eyes, malformed hands or unfinished backgrounds.
 SUBJECT: Aira [paste identity-lock reference sheet here].
-SCENE INTENT: A true-side profile, waist-up, as she wades chest-modest through crystal-clear turquoise, arms fanning the surface in a serene glide — the luminous resort pool, infinity edge and softly graded sea-sky filling the background at their richest.
-WARDROBE: resortwear; the robe-sarong now floats loose, half-dissolved into the water behind her like a train.
-FOOTWEAR: barefoot, submerged, irrelevant to crop but continuity-noted.
-EYEWEAR: shades pushed back up into wet-slicked hair.
+SCENE INTENT: A true-side profile, waist-up, as she walks slowly down the wide pool steps above the waterline, one hand trailing the rail in a serene glide — the luminous resort pool a few steps below, the infinity edge and softly graded sea-sky filling the background at their richest; she stays out of the water.
+WARDROBE: the flowing coral resort maxi dress, its long hem trailing down the steps behind her like a train.
+FOOTWEAR: gold slides on the steps, continuity-noted.
+EYEWEAR: shades pushed back up into loose beach waves.
 ACCESSORIES: hoops catching side-light, ring on the trailing hand.
-HAIR: front sections wet and slicked back, lengths darkening with water.
-MAKEUP: water-beaded dewy skin, gloss intact, a fresh just-wet look.
-HANDS & NAILS: arms spread low, palms skimming the surface, fingers trailing wakes.
-CHOREOGRAPHY / WEARING-ACTION: mid-glide, torso leading, a slow wade with arms fanning — pure fluid motion frozen.
-SPATIAL LOGIC: her profile crossing the frame in the midground, trailing finger-wakes in the near water as foreground, the infinity edge and open sea filling a clean graded background plane — layered, immersive depth.
+HAIR: loose beach waves, a few strands lifted by the breeze.
+MAKEUP: dewy sun-glow skin, gloss intact, a fresh radiant look.
+HANDS & NAILS: one hand trailing the step-rail, the other easy at her side, fingers relaxed.
+CHOREOGRAPHY / WEARING-ACTION: mid-step down the stairs, torso leading, one hand trailing the rail — pure fluid motion frozen, above the water.
+SPATIAL LOGIC: her profile crossing the frame in the midground, one hand trailing the step-rail as foreground, the infinity edge and open sea filling a clean graded background plane — layered, immersive depth.
 LIGHTING: hard golden side-sun carving a bright clean contour down the profile, cool turquoise fill rising from the water, a delicate rim separating her from the bright background — rich, sculptural, high dynamic range.
 FRAMING: medium shot, waist-up, 9:16, profile reading left-to-right.
-SUBJECT FRAMING & POSITION: A medium shot crops Aira at the waist in a true-side profile reading left-to-right, the infinity edge and open sea filling the background plane. Her torso leads a slow serene wade, arms fanning the turquoise surface, hips swaying with each arm-arc in pure fluid glide. The camera tracks alongside at a mid distance, holding her profile across the frame. She is full profile to the lens, neither facing nor turned away, gliding through the water. Her pose reads as mid-glide, torso leading, a slow wade with arms fanning — pure fluid motion frozen — gaze level along her line through the water, serene; head leading the slow glide; the shoulders easing forward into the wade; both arms fanning out and trailing through the water for balance, fingers relaxed; torso leading gently forward through the surface; waist long, hips easing forward; the front leg wading ahead while the rear trails; weight transferring slowly forward through the submerged footing; hair and fabric drifting with the water's drag. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A medium shot crops Aira at the waist in a true-side profile reading left-to-right, the infinity edge and open sea filling the background plane. Her torso leads a slow serene descent of the steps, one hand trailing the rail, hips swaying with each step in pure fluid motion. The camera tracks alongside at a mid distance, holding her profile across the frame. She is full profile to the lens, neither facing nor turned away, moving down the steps above the water. Her pose reads as mid-step down the stairs, torso leading, one hand trailing the rail — pure fluid motion frozen — gaze set calmly along her sightline, serene; head poised and level; the shoulders open and easy; both hands resting lightly, one grazing the step-rail, fingers relaxed; torso tall and lifted; waist long with a gentle counter-tilt; one leg bearing weight on the dry step while the other rests a step below; weight grounded and balanced on the sun-warmed stone, well above the waterline; hair and dress hem stirring in the breeze. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 LENS + DOF + BOKEH: 85mm, shallow DOF, sparkle bokeh on the far water.
 COMPOSITION REF: serene side-profile beauty, strong contour rim.
-ATMOSPHERE: trailing finger-wakes rippling clean across the turquoise, bright sparkle, a faint golden steam haze — serene and luminous.
+ATMOSPHERE: the pool's clean ripples a few steps below, bright sparkle, a faint golden haze — serene and luminous.
 COLOR GRADE: rich aqua-dominant palette, warm golden rim, glossy clean highlights, luminous mid-tones and clean shadows — premium and vivid.
-TEXTURE: fine wet skin beads over real pores, glossy slicked hair strands, crisp rippled-water detail with caustic shimmer — true premium surfaces.
-CONTINUITY-LOCKS: resortwear, robe-train floating, shades up in hair, hoops/ring, wet-slicked waves.
+TEXTURE: natural skin with real pores, glossy loose hair strands, crisp rippled-water detail below with caustic shimmer — true premium surfaces.
+CONTINUITY-LOCKS: coral dress, hem trailing the steps, shades up in hair, hoops/ring, loose waves.
 NEGATIVE: STD-NEG-IMG.
 
 
@@ -249,22 +249,22 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE / ANGLE: medium profile, tracking alongside.
 LENS: 85mm, shallow focus on her profile, background melting.
-WARDROBE (lock): resortwear, robe-train trailing in water.
-FOOTWEAR (lock): barefoot submerged.
+WARDROBE (lock): coral resort maxi dress, hem trailing down the steps.
+FOOTWEAR (lock): gold slides on the dry step.
 EYEWEAR (lock): shades up in wet hair.
 ACCESSORIES (lock): hoops/ring.
-HAIR (lock): front slicked wet.
-MAKEUP (lock): water-beaded dewy.
+HAIR (lock): loose beach waves.
+MAKEUP (lock): dewy sun-glow.
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] medium profile, tracking alongside: lateral tracking that matches her glide exactly is already underway — she wades forward, arms fanning slow arcs that fold the water.
-- [00:02–00:04] she sweeps both palms up out of the surface, droplets sheeting off in strands.
-- [00:04–00:06] she turns her face a few degrees toward camera, lashes flicking water, a serene exhale.
-BODY MECHANICS & WEIGHT TRANSFER: buoyant, fluid wade, hips swaying with each arm-arc, fully grounded under-water steps.
+- [00:00–00:02] medium profile, tracking alongside: lateral tracking that matches her descent exactly is already underway — she steps down the stairs, one hand trailing the rail, dress hem swaying.
+- [00:02–00:04] she pauses on a step, one hand smoothing the dress, the other resting on the rail.
+- [00:04–00:06] she turns her face a few degrees toward camera, lashes softening, a serene exhale.
+BODY MECHANICS & WEIGHT TRANSFER: smooth, fluid descent, hips swaying with each step, fully grounded on the dry stone steps.
 MICRO-EXPRESSION TIMING: calm-closed eyes 0.0–2.0s, eyes open 2.4s, micro-turn + soft gaze 5.2s.
-KINETIC LAYERS: (1) arm-arc wakes, (2) droplet sheets, (3) robe-train undulating, (4) hair-drip, (5) surface sparkle, (6) breath, (7) rim-light flicker, (8) far ripple lines.
+KINETIC LAYERS: (1) hand on the rail, (2) dress hem swaying, (3) coral hem undulating on the steps, (4) hair drift, (5) surface sparkle below, (6) breath, (7) rim-light flicker, (8) far ripple lines.
 LIGHTING: hard golden side-sun contour + cool aqua water fill, back-lit droplets catching as tiny luminous prisms, a clean rim for separation — richly dimensional.
 ENVIRONMENT: open crystal-clear turquoise stretching toward the infinity edge, the graded sea-and-sky horizon beyond, clean resort architecture and greenery framing the far deck.
-ATMOSPHERE / FX: sheeting droplet strands catching the light, clean finger-wakes fanning across the surface, bright premium sparkle.
+ATMOSPHERE / FX: clean ripples fanning across the pool a few steps below, bright premium sparkle.
 COLOR GRADE: rich aqua base with a warm golden rim, glossy clean highlights, luminous mid-tones — vivid and premium.
 AUDIO: ambient soft water lap; SFX — arm-fan water-swish at 1.1s & 2.3s, droplet patter at 3.8s; reaction — serene exhale 5.4s; master — tranquil.
 DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed). FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
@@ -275,25 +275,25 @@ NEGATIVE: STD-NEG-VID.
 IMAGE PROMPT (Nano Banana Pro · 9:16 · 4K)
 STRICT COLOUR & RENDER MANDATE (must be followed exactly; this governs render QUALITY only and must NOT change the composition, camera, lens, framing, wardrobe, action or identity specified above): render the colours already specified at their richest, freshest, cleanest and most premium — crisp, vivid and luminous with elegant, controlled saturation; never dull, faded, washed-out, muddy, grey or flat. Hold deep-but-clean blacks, luminous full mid-tones and beautiful highlight roll-off with high dynamic range and no blown highlights. Wherever sky is visible, render it richly graded and cinematic — never empty, white or overexposed. Wherever water is visible, render it crystal-clear with deep sea-blue and turquoise gradients, clean caustics and sparkling reflections — never grey or murky (unless the concept explicitly specifies dark / ink / obsidian water, which stays deep, glassy and clean). Protect natural, true skin tone; never push saturation onto the face. Keep the image immaculately clean and premium with clear figure-to-ground separation so the hero reads first; honour the concept's intended dominant surface and full-frame coverage, and do NOT reveal unwanted structural edges, seams, side-walls or empty dead space that break the intended composition. Photoreal, award-winning editorial finish — no AI artifacts, plastic or waxy skin, dead eyes, malformed hands or unfinished backgrounds.
 SUBJECT: Aira [paste identity-lock reference sheet here].
-SCENE INTENT: An intimate over-the-shoulder MCU — she pauses at the infinity edge, forearms resting on the lip, and glances back over her shoulder to camera, a breathtaking golden sea horizon glowing rich past her, the crystal-clear pool and graded sky composed cleanly behind.
-WARDROBE: resortwear straps on the shoulders, wet and gleaming; robe gone (left floating behind, out of frame).
-FOOTWEAR: n/a (submerged) — continuity-noted barefoot.
+SCENE INTENT: An intimate over-the-shoulder MCU — she pauses on the pool's upper steps, forearms resting on the step-rail, and glances back over her shoulder to camera, a breathtaking golden sea horizon glowing rich past her, the crystal-clear pool and graded sky composed cleanly behind.
+WARDROBE: the coral resort maxi dress, straps gleaming on the shoulders, hem settling over the steps.
+FOOTWEAR: gold slides on the step — continuity-noted.
 EYEWEAR: shades back down on the nose, the horizon mirrored in the lenses.
 ACCESSORIES: hoop on the turned-toward-camera ear catching light, ring on the resting hand.
-HAIR: wet-slicked back, a few droplets tracing the neckline.
-MAKEUP: fresh-wet luminous, glossed lip, water beads on skin.
-HANDS & NAILS: forearms folded on the pool edge, fingers relaxed over the lip.
+HAIR: loose beach waves over one shoulder.
+MAKEUP: fresh luminous, glossed lip, dewy skin.
+HANDS & NAILS: forearms folded on the step-rail, fingers relaxed over the rail.
 CHOREOGRAPHY / WEARING-ACTION: torso facing the horizon, head and shoulders rotated back toward camera in a soft spiral — inviting, serene.
 SPATIAL LOGIC: over-the-shoulder depth — her back-shoulder soft in the near foreground, her face the sharp focal midground, the glowing sea horizon and richly graded sky as a luminous background, clean layered dimensionality.
 LIGHTING: warm golden horizon backlight kissing the shoulder into a clean rim, soft luminous frontal fill modelling the face, cool aqua bounce below — rich, cinematic, high dynamic range.
 FRAMING: medium close-up, chest-up, 9:16, face on the upper-third.
-SUBJECT FRAMING & POSITION: A medium close-up crops Aira at the chest in an over-the-shoulder composition, her back-shoulder soft in the near foreground and her face sharp on the upper third, the sea-glow horizon behind. Her torso faces the horizon with her forearms resting on the infinity lip while her head and shoulders rotate back toward camera in a soft inviting spiral. The camera is close and intimate, pushing just past the shoulder to settle on her face. She is turned back over the shoulder to the lens, the classic spiral, face to us and body to the sea. Her pose reads as torso facing the horizon, head and shoulders rotated back toward camera in a soft spiral — inviting, serene — gaze thrown back over the shoulder to the lens, warm and inviting; the head and neck rotated back over the leading shoulder; the shoulders spiralling so the front opens to camera; the near arm easing across while the far arm trails; torso carrying forward into the scene with the upper body spiralling back; waist rotating between the forward hips and the turned shoulders; the legs carrying the forward line, one stepping ahead; weight rolling onto the forward foot as she moves away; hair sweeping with the turn of the head. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A medium close-up crops Aira at the chest in an over-the-shoulder composition, her back-shoulder soft in the near foreground and her face sharp on the upper third, the sea-glow horizon behind. Her torso faces the horizon with her forearms resting on the step-rail while her head and shoulders rotate back toward camera in a soft inviting spiral. The camera is close and intimate, pushing just past the shoulder to settle on her face. She is turned back over the shoulder to the lens, the classic spiral, face to us and body to the sea. Her pose reads as torso facing the horizon, head and shoulders rotated back toward camera in a soft spiral — inviting, serene — gaze thrown back over the shoulder to the lens, warm and inviting; the head and neck rotated back over the leading shoulder; the shoulders spiralling so the front opens to camera; the near arm easing across while the far arm trails; torso carrying forward into the scene with the upper body spiralling back; waist rotating between the forward hips and the turned shoulders; the legs carrying the forward line, one stepping ahead; weight rolling onto the forward foot as she moves away; hair sweeping with the turn of the head. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 LENS + DOF + BOKEH: 85mm, shallow DOF, horizon a creamy wash.
 COMPOSITION REF: over-shoulder glance-back portrait, spiral of the body.
 ATMOSPHERE: a rich golden horizon glow, faint drifting sea mist catching light, delicate sparkle across the water — serene and luminous.
 COLOR GRADE: rich aqua foreground, warm glowing gold horizon, luminous natural skin, clean bright whites and deep-but-clean shadows — premium editorial.
 TEXTURE: fine wet skin beads over real pores, glossy slicked hair, dewy lip gloss catching a clean light-point — true premium detail.
-CONTINUITY-LOCKS: resortwear, barefoot, shades down, hoop/ring, wet-slicked hair.
+CONTINUITY-LOCKS: coral dress, gold slides, shades down, hoop/ring, loose waves.
 NEGATIVE: STD-NEG-IMG.
 
 
@@ -304,11 +304,11 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE / ANGLE: over-the-shoulder MCU.
 LENS: 85mm, shallow focus, rack from shoulder to eyes.
-WARDROBE (lock): wet resortwear straps gleaming.
-FOOTWEAR (lock): barefoot submerged.
+WARDROBE (lock): coral resort dress straps gleaming.
+FOOTWEAR (lock): gold slides on the dry step.
 EYEWEAR (lock): shades down, horizon mirrored.
 ACCESSORIES (lock): hoop + ring.
-HAIR (lock): wet-slicked, droplets tracing neck.
+HAIR (lock): loose beach waves.
 MAKEUP (lock): fresh-wet luminous.
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
 - [00:00–00:02] over-the-shoulder MCU: slow push past her shoulder to settle on her face as she turns is already underway — she rests forearms on the edge, gazing at the horizon, breathing slow.
@@ -330,25 +330,25 @@ NEGATIVE: STD-NEG-VID.
 IMAGE PROMPT (Nano Banana Pro · 9:16 · 4K)
 STRICT COLOUR & RENDER MANDATE (must be followed exactly; this governs render QUALITY only and must NOT change the composition, camera, lens, framing, wardrobe, action or identity specified above): render the colours already specified at their richest, freshest, cleanest and most premium — crisp, vivid and luminous with elegant, controlled saturation; never dull, faded, washed-out, muddy, grey or flat. Hold deep-but-clean blacks, luminous full mid-tones and beautiful highlight roll-off with high dynamic range and no blown highlights. Wherever sky is visible, render it richly graded and cinematic — never empty, white or overexposed. Wherever water is visible, render it crystal-clear with deep sea-blue and turquoise gradients, clean caustics and sparkling reflections — never grey or murky (unless the concept explicitly specifies dark / ink / obsidian water, which stays deep, glassy and clean). Protect natural, true skin tone; never push saturation onto the face. Keep the image immaculately clean and premium with clear figure-to-ground separation so the hero reads first; honour the concept's intended dominant surface and full-frame coverage, and do NOT reveal unwanted structural edges, seams, side-walls or empty dead space that break the intended composition. Photoreal, award-winning editorial finish — no AI artifacts, plastic or waxy skin, dead eyes, malformed hands or unfinished backgrounds.
 SUBJECT: Aira [paste identity-lock reference sheet here].
-SCENE INTENT: A luminous frontal close-up as she rises from a dip — head tilting back to a rich graded sky, crystal-clear water sheeting off the hairline in a clean arc, her face catching full warm gold light.
-WARDROBE: wet resortwear shoulder-straps; collarbone-level crop.
-FOOTWEAR: n/a (submerged) — continuity barefoot.
-EYEWEAR: shades pushed up onto the crown, water streaming around them.
-ACCESSORIES: hoops half-hidden by wet hair, ring on the hand wiping her brow.
-HAIR: fully wet, slicked straight back off the face, a sheet of droplets flinging at the apex.
-MAKEUP: water-glazed, gloss, skin gleaming — the freshest wet-beauty look.
-HANDS & NAILS: one hand sweeping water back from the forehead, fingers threading the hairline.
-CHOREOGRAPHY / WEARING-ACTION: caught at the top of the rise, chin lifting, eyes just opening — a reborn, radiant beat.
+SCENE INTENT: A luminous frontal close-up as she stands tall on the steps and tips her head back to a rich graded sky, one hand sweeping through her hair, her face catching full warm gold light — dry and radiant, above the water.
+WARDROBE: coral resort dress shoulder-straps; collarbone-level crop.
+FOOTWEAR: gold slides on the step, continuity-noted.
+EYEWEAR: shades pushed up onto the crown.
+ACCESSORIES: hoops half-hidden by loose hair, ring on the hand at her hairline.
+HAIR: loose beach waves lifting lightly in the breeze.
+MAKEUP: dewy sun-glow, gloss, skin gleaming — a fresh radiant look.
+HANDS & NAILS: one hand sweeping through her hair, fingers threading the hairline.
+CHOREOGRAPHY / WEARING-ACTION: caught standing tall at the top of the steps, chin lifting, eyes just opening — a reborn, radiant beat.
 SPATIAL LOGIC: tight frontal framing with the lifted face sharp in the foreground and a clean, richly graded open sky as the luminous backdrop — simple, premium separation and depth.
-LIGHTING: full warm golden sun modelling the face, water droplets back-lit into tiny luminous prisms, soft clean fill under the chin, a bright rim on the wet hairline — radiant, high dynamic range.
+LIGHTING: full warm golden sun modelling the face, water droplets back-lit into tiny luminous prisms, soft clean fill under the chin, a bright rim on the hairline — radiant, high dynamic range.
 FRAMING: close-up, face + shoulders, 9:16, eyes on the upper-third.
-SUBJECT FRAMING & POSITION: A frontal close-up holds Aira's face and shoulders against a clean open sky, eyes on the upper third. She is caught at the top of a rise from a dip, chin lifting and head tilting back as water sheets off her hairline, the neck and spine extending in a reborn, radiant beat. The camera is close and frontal, intimate on the lifted face. She is squarely front to the lens with the gaze rising into the gold light. Her pose reads as caught at the top of the rise, chin lifting, eyes just opening — a reborn, radiant beat — gaze level and assured to the lens, composed; head balanced and tall; both shoulders open, level and relaxed; the arms easy at her sides, hands relaxed and open; torso tall and lifted, open to camera; waist long with a soft hip counter-tilt; both legs grounded and even, one taking a touch more weight; weight settled and balanced over both feet in true ground contact; hair settling around her. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+SUBJECT FRAMING & POSITION: A frontal close-up holds Aira's face and shoulders against a clean open sky, eyes on the upper third. She is caught standing tall at the top of the steps, chin lifting and head tilting back to the sky, the neck and spine extending in a reborn, radiant beat. The camera is close and frontal, intimate on the lifted face. She is squarely front to the lens with the gaze rising into the gold light. Her pose reads as caught standing tall at the top of the steps, chin lifting, eyes just opening — a reborn, radiant beat — gaze level and assured to the lens, composed; head balanced and tall; both shoulders open, level and relaxed; the arms easy at her sides, hands relaxed and open; torso tall and lifted, open to camera; waist long with a soft hip counter-tilt; both legs grounded and even, one taking a touch more weight; weight settled and balanced over both feet in true ground contact; hair settling around her. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 LENS + DOF + BOKEH: 100mm, very shallow DOF, droplet bokeh.
 COMPOSITION REF: the iconic water-rise beauty close-up, centered.
-ATMOSPHERE: a clean arc of flung crystal droplets, back-lit prism sparkle scattering rainbow micro-glints, a fresh luminous energy.
+ATMOSPHERE: clean back-lit prism sparkle in the air scattering rainbow micro-glints, a fresh luminous energy.
 COLOR GRADE: warm gold-lit natural skin, rich aqua reflections, luminous clean whites, deep-but-clean shadows — premium and radiant, skin tone kept true.
-TEXTURE: crystal water beads catching light, glossy slicked-back hair strands, dewy skin with real pores and vellus fuzz — true premium detail.
-CONTINUITY-LOCKS: resortwear straps, barefoot, shades on crown, hoops/ring, fully-wet hair.
+TEXTURE: glossy loose hair strands catching light, dewy skin with real pores and vellus fuzz — true premium detail.
+CONTINUITY-LOCKS: coral dress straps, gold slides, shades on crown, hoops/ring, loose waves.
 NEGATIVE: STD-NEG-IMG.
 
 
@@ -359,24 +359,24 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE / ANGLE: frontal close-up.
 LENS: 100mm, very shallow focus on the eyes.
-WARDROBE (lock): wet resortwear straps.
-FOOTWEAR (lock): barefoot submerged.
+WARDROBE (lock): coral resort dress straps.
+FOOTWEAR (lock): gold slides on the dry step.
 EYEWEAR (lock): shades on crown, water streaming.
 ACCESSORIES (lock): hoops/ring.
-HAIR (lock): fully wet, slicked-back arc.
-MAKEUP (lock): water-glazed luminous.
+HAIR (lock): loose beach waves.
+MAKEUP (lock): dewy luminous.
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] frontal close-up: micro push-in with a tiny upward tilt following her rising face is already underway — she rises from the water, head tipping back, a sheet of droplets flinging in a slow arc.
-- [00:02–00:04] her hand sweeps water back over the hairline, fingers threading through.
+- [00:00–00:02] frontal close-up: micro push-in with a tiny upward tilt following her lifting face is already underway — she stands tall on the step, head tipping back to the sky, hair lifting in the breeze.
+- [00:02–00:04] her hand sweeps through her hair, fingers threading through.
 - [00:04–00:06] her chin levels, eyes open into the light, a radiant breath and the faintest smile.
-BODY MECHANICS & WEIGHT TRANSFER: buoyant upward surge from the legs, neck and spine extending, shoulders rolling back.
+BODY MECHANICS & WEIGHT TRANSFER: a tall lift through the spine, neck extending, shoulders rolling back.
 MICRO-EXPRESSION TIMING: eyes shut on rise 0.0–2.0s, brow softens 3.0s, eyes open to light 4.4s, breath-smile 5.6s.
-KINETIC LAYERS: (1) droplet arc, (2) hand-sweep, (3) hair sheeting back, (4) chest breath, (5) prism sparkle, (6) surface settling below, (7) eyelash water-flick, (8) cheek gleam shift.
-LIGHTING: full warm gold sun, back-lit droplets rendering as luminous prisms, soft clean chin fill, a bright wet-hairline rim — radiant and dimensional.
+KINETIC LAYERS: (1) hair lift, (2) hand-sweep, (3) hair drifting back, (4) chest breath, (5) prism sparkle, (6) water settling below, (7) eyelash flutter, (8) cheek gleam shift.
+LIGHTING: full warm gold sun, back-lit droplets rendering as luminous prisms, soft clean chin fill, a bright hairline rim — radiant and dimensional.
 ENVIRONMENT: open crystal-clear turquoise water below and a clean, richly graded open sky behind — pristine, luminous, uncluttered.
-ATMOSPHERE / FX: a clean flung droplet arc, prism sparkle scattering micro-rainbows, a faint elegant bloom on the brightest highlights.
+ATMOSPHERE / FX: clean prism sparkle scattering micro-rainbows, a faint elegant bloom on the brightest highlights.
 COLOR GRADE: warm gold + rich aqua, luminous mid-tones, clean bright whites — radiant and premium, natural skin preserved.
-AUDIO: ambient soft water; SFX — water-rise whoosh + droplet patter at 1.0–2.2s, hand-sweep slick at 2.6s; reaction — a refreshed gasp-exhale at 4.6s; master — uplifting, airy.
+AUDIO: ambient soft breeze; SFX — a soft breeze swell at 1.0–2.2s, a hand-through-hair brush at 2.6s; reaction — a refreshed exhale at 4.6s; master — uplifting, airy.
 DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed). FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 CONTINUITY-LOCKS: as image frame 6.
 NEGATIVE: STD-NEG-VID.
@@ -385,25 +385,25 @@ NEGATIVE: STD-NEG-VID.
 IMAGE PROMPT (Nano Banana Pro · 9:16 · 4K)
 STRICT COLOUR & RENDER MANDATE (must be followed exactly; this governs render QUALITY only and must NOT change the composition, camera, lens, framing, wardrobe, action or identity specified above): render the colours already specified at their richest, freshest, cleanest and most premium — crisp, vivid and luminous with elegant, controlled saturation; never dull, faded, washed-out, muddy, grey or flat. Hold deep-but-clean blacks, luminous full mid-tones and beautiful highlight roll-off with high dynamic range and no blown highlights. Wherever sky is visible, render it richly graded and cinematic — never empty, white or overexposed. Wherever water is visible, render it crystal-clear with deep sea-blue and turquoise gradients, clean caustics and sparkling reflections — never grey or murky (unless the concept explicitly specifies dark / ink / obsidian water, which stays deep, glassy and clean). Protect natural, true skin tone; never push saturation onto the face. Keep the image immaculately clean and premium with clear figure-to-ground separation so the hero reads first; honour the concept's intended dominant surface and full-frame coverage, and do NOT reveal unwanted structural edges, seams, side-walls or empty dead space that break the intended composition. Photoreal, award-winning editorial finish — no AI artifacts, plastic or waxy skin, dead eyes, malformed hands or unfinished backgrounds.
 SUBJECT: Aira [paste identity-lock reference sheet here].
-SCENE INTENT: A closing beat — she emerges to the steps, slipping back into the gold slides and pulling the shades down, crystal water streaming off her in a glamorous exit; framed high-three-quarter for a poster-grade finish, the luminous resort pool, travertine deck and richly graded sky composed beautifully behind.
-WARDROBE: resortwear with the ivory robe retrieved and draped over one shoulder, dripping.
-FOOTWEAR: stepping the right foot back into a gold slide at the pool steps — footwear hero beat.
+SCENE INTENT: A closing beat — she stands tall at the top of the pool steps, settling the gold slides and pulling the shades down in a glamorous finish; framed high-three-quarter for a poster-grade finish, the luminous resort pool a few steps below and the richly graded sky composed beautifully behind.
+WARDROBE: the flowing coral resort maxi dress, a light matching wrap draped over one shoulder.
+FOOTWEAR: settling the right foot into a gold slide on the dry step — footwear hero beat.
 EYEWEAR: tortoiseshell shades pulled down onto the nose, sealing the look.
 ACCESSORIES: anklet, hoops, ring all streaming water and catching gold light.
-HAIR: slicked-wet, raked back, glossy.
-MAKEUP: wet-luminous, glossed, radiant.
-HANDS & NAILS: one hand on the step-rail, the other settling the robe on the shoulder.
-CHOREOGRAPHY / WEARING-ACTION: mid-stride exit up the submerged steps, front foot sliding into the sandal, chin high — a confident dismount.
-SPATIAL LOGIC: high-three-quarter looking down the submerged steps; FOREGROUND — the wet gold slide and rippling step-water; MIDGROUND — Aira mid-climb; BACKGROUND — the glowing infinity pool and graded sky, the sheeting water-trail tracing a clean leading line back into the depth.
+HAIR: loose beach waves, glossy.
+MAKEUP: luminous, glossed, radiant.
+HANDS & NAILS: one hand on the step-rail, the other settling the wrap on the shoulder.
+CHOREOGRAPHY / WEARING-ACTION: standing tall at the top of the dry steps, settling the front foot in the sandal, chin high — a confident finish.
+SPATIAL LOGIC: high-three-quarter looking down the dry pool steps; FOREGROUND — the gold slide on the sun-warmed step; MIDGROUND — Aira standing tall; BACKGROUND — the glowing infinity pool a few steps below and graded sky, the steps tracing a clean leading line back into the depth.
 LIGHTING: warm directional golden sun, long glossy specular highlights tracking down wet skin and brushed gold, a clean rim separating her from the bright pool, soft ambient fill — rich, cinematic, high dynamic range.
-FRAMING: starts ECU on the foot entering the slide, pulls back to a full-length exit pose, 9:16.
-SUBJECT FRAMING & POSITION: The frame opens on an extreme close-up of the foot sliding into the gold slide, then pulls back to a full-length high-three-quarter exit pose looking down the submerged steps, the water-trail tracing the line back to the pool. She is mid-stride climbing out, the front foot rolling into the sandal and her hips leading a powerful grounded climb, chin high in a confident dismount. The camera starts tight on the foot detail and cranes back and down to take the whole figure. She is on a high-three-quarter, angled up and away as she exits, poster-grade. Her pose reads as mid-stride exit up the submerged steps, front foot sliding into the sandal, chin high — a confident dismount — gaze level along her line through the water, serene; head leading the slow glide; the shoulders easing forward into the wade; both arms fanning out and trailing through the water for balance, fingers relaxed; torso leading gently forward through the surface; waist long, hips easing forward; the front leg wading ahead while the rear trails; weight transferring slowly forward through the submerged footing; hair and fabric drifting with the water's drag. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
-LENS + DOF + BOKEH: 35mm at the wide end, medium DOF, sparkle bokeh on the disturbed water.
+FRAMING: starts ECU on the foot entering the slide, pulls back to a full-length closing pose, 9:16.
+SUBJECT FRAMING & POSITION: The frame opens on an extreme close-up of the foot sliding into the gold slide, then pulls back to a full-length high-three-quarter pose looking down the dry pool steps, the steps tracing the line back to the pool. She stands tall at the top of the steps, the front foot settled in the sandal and her hips leading a poised grounded stance, chin high in a confident finish. The camera starts tight on the foot detail and cranes back and down to take the whole figure. She is on a high-three-quarter, angled up and away in her closing pose, poster-grade. Her pose reads as standing tall at the top of the dry steps, front foot settled in the sandal, chin high — a confident finish — gaze set calmly along her sightline, serene; head poised and level; the shoulders open and easy; both hands resting lightly, one grazing the step-rail, fingers relaxed; torso tall and lifted; waist long with a gentle counter-tilt; one leg bearing weight on the dry step while the other rests a step below; weight grounded and balanced on the sun-warmed stone, well above the waterline; hair and dress hem stirring in the breeze. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+LENS + DOF + BOKEH: 35mm at the wide end, medium DOF, sparkle bokeh on the pool water below.
 COMPOSITION REF: glamorous pool-exit full-length, diagonal of the steps.
-ATMOSPHERE: crystal water sheeting off in clean ribbons, luminous drip-trails, bright premium sparkle — glamorous and fresh.
+ATMOSPHERE: clean sunlit sparkle on the pool a few steps below, luminous highlights, bright premium finish — glamorous and fresh.
 COLOR GRADE: rich aqua + warm gold + immaculately clean white, poster-luminous mid-tones, glossy highlights and deep-but-clean shadows — premium editorial finish.
-TEXTURE: wet skin with real pores, dripping crisp linen weave, wet brushed-gold metal, crisp rippling step-water with caustic shimmer — true premium materials.
-CONTINUITY-LOCKS: robe (retrieved on shoulder), slides (going back on), shades (down), anklet/hoops/ring, slicked hair.
+TEXTURE: natural skin with real pores, crisp coral linen weave, brushed-gold metal, crisp rippling pool-water below with caustic shimmer — true premium materials.
+CONTINUITY-LOCKS: coral dress + light wrap on shoulder, slides on, shades (down), anklet/hoops/ring, loose waves.
 NEGATIVE: STD-NEG-IMG.
 
 
@@ -414,24 +414,24 @@ IDENTITY & CHARACTER-CONSISTENCY LOCK: render Aira strictly from the locked iden
 
 SHOT TYPE / ANGLE: ECU foot-detail → pull back to full-length, high-three-quarter.
 LENS: 35mm, focus pulling from foot to full figure.
-WARDROBE (lock): resortwear + dripping ivory robe draped on one shoulder.
+WARDROBE (lock): coral resort maxi dress + light wrap draped on one shoulder.
 FOOTWEAR (lock): right foot sliding into the gold slide (the hero wearing-action), then both on.
 EYEWEAR (lock): shades pulled down to seal the look.
 ACCESSORIES (lock): anklet/hoops/ring streaming.
-HAIR (lock): slicked-wet raked back.
-MAKEUP (lock): wet-luminous radiant.
+HAIR (lock): loose beach waves.
+MAKEUP (lock): luminous radiant.
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
 - [00:00–00:02] ECU foot-detail → pull back to full-length, high-three-quarter: begins tight on the foot sliding into the gold sandal is already underway — tight on the foot — toes point, the slide goes on with a wet click.
-- [00:02–00:04] camera cranes back as she rises up the steps, water sheeting off in ribbons, robe settling on the shoulder.
+- [00:02–00:04] camera cranes back as she stands tall at the top of the steps, the wrap settling on the shoulder.
 - [00:04–00:06] she reaches full frame, pulls the shades down with two fingers, pops a hip, and delivers the closing SPOKEN line with a radiant smile.
 BODY MECHANICS & WEIGHT TRANSFER: foot-into-sandal weight roll, then a powerful grounded climb up the steps, hips leading, fully liquid.
 MICRO-EXPRESSION TIMING: focused-down at foot 0.0–1.5s, lift-and-bloom 2.6s, eyes to camera 3.8s, smile + spoken 4.5–6.0s.
-KINETIC LAYERS: (1) foot-into-slide, (2) water ribbons sheeting, (3) robe settling, (4) shades pull-down, (5) hip-pop, (6) hair drip, (7) step-water ripples, (8) anklet glint, (9) breath.
+KINETIC LAYERS: (1) foot-into-slide, (2) sunlit sparkle on the pool below, (3) wrap settling, (4) shades pull-down, (5) hip-pop, (6) hair drift, (7) step-water ripples below, (8) anklet glint, (9) breath.
 LIGHTING: warm directional golden sun, glossy speculars tracking down wet skin and gold, a clean separating rim, soft ambient bounce — rich and dimensional.
-ENVIRONMENT: submerged crystal-clear pool steps rising to an immaculate travertine deck, the glowing turquoise pool and open sea behind under a richly graded sky, tropical greenery framing the resort.
-ATMOSPHERE / FX: crystal water sheeting off in clean ribbons, luminous drip-trails, bright sparkle, a faint elegant bloom on the highlights.
+ENVIRONMENT: the dry crystal-clear pool steps rising above the waterline, the glowing turquoise pool a few steps below and open sea behind under a richly graded sky, tropical greenery framing the resort.
+ATMOSPHERE / FX: clean sunlit sparkle on the pool below, luminous highlights, bright sparkle, a faint elegant bloom on the highlights.
 COLOR GRADE: rich aqua + warm gold + clean white, poster-luminous mid-tones, glossy highlights and immaculately clean blacks — premium editorial, vivid without oversaturating skin.
-AUDIO: ambient sea + step-water; SFX — wet sandal click at 1.2s, water-sheet cascade 1.7–2.5s, acetate shades-down 3.8s; VOICE (SPOKEN, natural Indian-accented English, bright, confident): “Step in, rise out, and carry the shine with you.” (4.2–5.8s); master — voice forward over a soft uplifting ambient swell.
+AUDIO: ambient sea + step-water; SFX — wet sandal click at 1.2s, water-sheet cascade 1.7–2.5s, acetate shades-down 3.8s; VOICE (SPOKEN, natural Indian-accented English, bright, confident): “Rise above, shine on, and carry it with you.” (4.2–5.8s); master — voice forward over a soft uplifting ambient swell.
 DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed). FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 CONTINUITY-LOCKS: as image frame 7.
 NEGATIVE: STD-NEG-VID.
