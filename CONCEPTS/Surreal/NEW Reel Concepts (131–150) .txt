@@ -5431,14 +5431,14 @@ KINETIC STILLNESS (8 layers): (1) a soft strand drifting slow at the temple; (2)
 
 MICRO-MAGIC (cue only): above the bowl a few grains of sand have begun to hover and glow faintly, as if ready to take shape — deniable, the first whisper that she will shape the storm into a mirage.
 
-SPATIAL LOGIC: FOREGROUND — the sandstone bowl and hovering grains in her hands at ≈20% depth, tack sharp. MIDGROUND — Aira on the ridge. BACKGROUND — the curving dunes, the low moon, the starry sky, no clutter. Premium editorial finish — rich clean colour and luminous mid-tones, deep-but-clean blacks, cinematic lighting with soft rim separation and high dynamic range, layered foreground-to-background depth, elevated material realism, immaculately clean and never dull or faded, natural true skin preserved. Sky richly graded and cinematic with elegant clouds and premium light, never flat or empty.
+SPATIAL LOGIC: FOREGROUND — a near rippled dune-crest and swirling grains at ≈12% depth, tack sharp, establishing the near plane. MIDGROUND — the dune ridge with Aira small on it, the carved bowl a small warm shape in her hands. BACKGROUND — the vast curving dune sea rolling to the low moon and starry sky, receding with true atmospheric perspective (nearer dunes sharp, far ones hazier and cooler to sell the immense distance); the dune ridgelines as leading lines across the sand. Premium editorial finish — rich clean colour and luminous mid-tones, deep-but-clean blacks, cinematic lighting with soft rim separation and high dynamic range, layered foreground-to-background depth, elevated material realism, immaculately clean and never dull or faded, natural true skin preserved. Sky richly graded and cinematic with elegant clouds and premium light, never flat or empty.
 
 LIGHTING: KEY — cool moonlight as a soft wrapping key from frame-left. FILL — a warm sand bounce lifting the shadow side. RIM — cool moonlight skimming her hood and one shoulder. PRACTICAL — the moon and the faintly glowing grains. SEPARATION — the dunes pulled deep so she reads ≈1.5 stops up. BOUNCE — a faint gold kick off the bowl. Premium editorial finish — rich clean colour and luminous mid-tones, deep-but-clean blacks, cinematic lighting with soft rim separation and high dynamic range, layered foreground-to-background depth, elevated material realism, immaculately clean and never dull or faded, natural true skin preserved.
 
-FRAMING: ASPECT 9:16; medium, chest-up to the bowl, 12% headroom, the bowl entering the lower third, clean negative space above to receive the mirage that arrives later.
-SUBJECT FRAMING & POSITION: A medium framing holds Aira at about 12% headroom, chest-up to the bowl, the bowl entering the lower third, clean negative space above to receive the mirage that arrives later. She is standing three-quarter to camera on the dune, spine long and easy, weight settled even with a soft 2° lean toward the bowl, front shoulder dropped a touch, chin level, alive and breathing. The camera holds a mid distance, Aira the sharp central figure of the Sandstorm Hologram Oasis scene, with the glow arcing the upper frame above her. She faces front to the lens. Three-quarter to camera, both hands cradle the carved sandstone bowl at waist height, weight settled with a soft counter-tilt. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+FRAMING: ASPECT 9:16; TRUE ESTABLISHING WIDE — full-figure and beyond, Aira small at ≈18% of frame on the dune ridge while the vast moonlit sand sea rolls far around and the starry sky spreads above; the desert dwarfs the human, deep negative space holding the dunes and sky.
+SUBJECT FRAMING & POSITION: A true wide establishing framing holds Aira SMALL — about 18% of frame height — standing on a dune ridge in the moonlit sand sea, the vast curving dunes rolling far around and below her and the starry sky spreading above so she reads as a lone figure dwarfed by the desert; she is the scale-anchor that makes the sand sea read as truly vast. She stands three-quarter to camera on the ridge, spine long and easy, weight settled even with a soft 2° lean, front shoulder dropped a touch, chin level, the carved bowl a small warm shape cradled at waist height. The camera holds a wide, lifted distance, Aira the small sharp human anchor of the Sandstorm Hologram Oasis scene while the desert is the dominant subject. She faces three-quarter to the lens. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
-LENS + DOF + BOKEH: 35mm, f/2.2; focus split between her lowered near eye and the bowl so both read crisp; the dunes melting to soft gold-and-indigo bokeh; grains as fine floating points; gentle highlight roll-off, no clipping.
+LENS + DOF + BOKEH: 24mm wide, f/4; deep focus holding Aira, the dune ridge and the vast sand sea all crisp for the establishing scale; only the nearest swirling grains softening; gentle highlight roll-off, no clipping.
 
 COMPOSITION REFERENCE: warm cinematic establishing hero — sand-shaper on the dune, one impossible cue building (BA.3 cause building to effect).
 
@@ -5457,14 +5457,14 @@ STRICT COLOUR & RENDER MANDATE (must be followed exactly; this governs render QU
 
 IDENTITY (locked): Aira — same person every frame; face, bone structure, eye shape + colour, nose, lips, skin texture and hair strictly locked to reference; ONLY expression, gaze and head move; no identity drift, no face/anatomy warp, no second or duplicate person.
 
-SHOT TYPE: medium, chest-up to the bowl, subject fills ≈50% of the vertical frame.
+SHOT TYPE: TRUE ESTABLISHING WIDE — high and pulled back, Aira small at ≈18% of the vertical frame while the vast moonlit dune sea and starry sky dominate.
 
-LENS: 35mm, f/2.2, smooth gold-and-indigo background fall-off.
+LENS: 24mm wide, f/4, deep focus holding the whole scale of the dunes and sky.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] medium, chest-up to the bowl, subject fills ≈50% of the vertical frame: a single slow 8% push-in across the clip is already underway — hold the still tableau, sand swirling soft, the bowl cradled in her hands.
-- [00:02–00:04] a few grains hover and glow above the bowl, then settle; Aira's chest rises on a slow steady breath, her hold on the bowl settling.
-- [00:04–00:06] she lifts one hand over the bowl, the sun-disc earring hanging still; she begins to gather the swirling sand toward her palm, the clip holding just before the shaping.
+- [00:00–00:02] TRUE ESTABLISHING WIDE, Aira small at ≈18% on the dune ridge: a slow weighty crane-up-and-back is already underway, lifting to reveal the vast moonlit sand sea rolling to the horizon around her — the desert reads vast, she reads human; parallax slides the near dune-crest faster than the far dunes for real 3D depth.
+- [00:02–00:04] the crane drifts on; fine sand swirls soft across the dunes, the low moon and starry sky wide above, the far dunes hazier with atmospheric perspective.
+- [00:04–00:06] the move settles wide and high; at the tiny figure a few grains hover and glow above the cradled bowl as her chest rises on a slow steady breath — the lone sand-shaper poised in the immense desert.
 
 PHYSICS: the desert air moves — sand swirls soft, the robe hem and a strand drift; her body, the bowl obey normal gravity. The hovering grains glow, exerting no force.
 
@@ -5823,42 +5823,35 @@ NEGATIVE: identity drift, face or hand warp, extra or fused fingers, duplicate p
 ## Frame 6 of 8 — IMAGE PROMPT
 STRICT COLOUR & RENDER MANDATE (must be followed exactly; this governs render QUALITY only and must NOT change the composition, camera, lens, framing, wardrobe, action or identity specified above): render the colours already specified at their richest, freshest, cleanest and most premium — crisp, vivid and luminous with elegant, controlled saturation; never dull, faded, washed-out, muddy, grey or flat. Hold deep-but-clean blacks, luminous full mid-tones and beautiful highlight roll-off with high dynamic range and no blown highlights. Wherever sky is visible, render it richly graded and cinematic — never empty, white or overexposed. Wherever water is visible, render it crystal-clear with deep sea-blue and turquoise gradients, clean caustics and sparkling reflections — never grey or murky (unless the concept explicitly specifies dark / ink / obsidian water, which stays deep, glassy and clean). Protect natural, true skin tone; never push saturation onto the face. Keep the image immaculately clean and premium with clear figure-to-ground separation so the hero reads first; honour the concept's intended dominant surface and full-frame coverage, and do NOT reveal unwanted structural edges, seams, side-walls or empty dead space that break the intended composition. Photoreal, award-winning editorial finish — no AI artifacts, plastic or waxy skin, dead eyes, malformed hands or unfinished backgrounds.
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: N/A — no person in this frame (pure environment); no reference sheet applies.
 
-SCENE NOTE: the whole valley blooms. Aira lifts both arms and the entire dune valley fills with the holographic oasis — great shimmering palms and pools spreading across the sand sea, the mirage doming the valley in glittering green-gold light; she stands amid it, radiant and grounded, the sand-shaper raising a whole oasis from the desert.
+PURE ENVIRONMENT — NO SUBJECT IN FRAME: this is a world-only shot; Aira does NOT appear (no person, no figure, no silhouette, no body, no hands). Render only the environment, its objects and the magic cue. Disregard any subject/wardrobe/pose wording elsewhere.
 
-VISUAL-LEAD NOTE: catch the world-expands beat — the whole dune valley filled with a shimmering holographic oasis, Aira amid it with arms lifted, the moon and dunes beyond.
+SCENE NOTE: the whole valley blooms, empty of any person. The entire dune valley fills with the holographic oasis — great shimmering palms and glinting pools spreading across the sand sea, the mirage doming the valley in glittering green-gold light, the carved sandstone bowl resting on the ridge as the quiet source; no figure present, the desert raising an oasis of its own.
 
-WARDROBE: the sand-gold robe, continuity-locked, lit warm by the valley-wide oasis, fully modest.
+VISUAL-LEAD NOTE: catch the world-expands beat as a world shot — NO figure; the whole dune valley filled with a shimmering holographic oasis of palms and pools, the carved bowl small on the ridge, the moon and dune sea beyond.
 
-FOOTWEAR: the concept-locked tan suede desert boots fully visible, planted firm, the bone toggle and sand-rubber sole catching warm light.
 
-ACCESSORIES: the sandstone-bead bracelet and the sun-disc earring, unchanged, the bracelet catching the full oasis glow.
 
-HAIR: the wrapped low braid, continuity-locked, a strand lifting in the desert wind, color locked.
 
-MAKEUP: the warm sand-bronze glow, continuity-locked, the oasis's light washing her face, real pores.
 
-EYE COLOUR: iris exactly as referenced; the locked dual catchlight intact, amplified by the valley-wide oasis; the eyes never glitch.
 
-HANDS & NAILS: both arms lifted and open, conducting the blooming valley, fingers softly spread; short almond neutral-gloss nails, neat cuticles.
 
-FACIAL MICRO-DYNAMICS: radiant awe, eyes moving across the valley-wide oasis, lips parted in a soft open breath, a quiet exhilaration, the faintest awed ease.
 
-BODY POSTURE & WEIGHT: GAZE up over the blooming valley; HEAD chin lifted; SHOULDERS opening wide; RIGHT ARM and LEFT ARM both lifted and open conducting the blooming valley, BOTH HANDS open, RIGHT and LEFT FINGERS softly spread; TORSO lengthening upward; WAIST & HIPS even and grounded; RIGHT LEG and LEFT LEG grounded even; FEET & WEIGHT even and grounded; HAIR lifting soft — radiant and alive (living stillness).
 
-KINETIC STILLNESS (8 layers): (1) the valley-wide oasis shimmering and swaying; (2) holographic pools glinting across the sand; (3) drifting hair lifting in the wind; (4) glittering grains blooming brighter; (5) chest on a lifted breath; (6) warm specular sweeping across her arms; (7) robe fold-shadow micro-shift; (8) a slow blink.
+
+KINETIC STILLNESS (environmental, 6 layers): (1) the valley-wide oasis shimmering and swaying; (2) holographic pools glinting across the sand; (3) glittering grains blooming brighter through the mirage; (4) fine sand drifting on the gentle storm; (5) the carved bowl on the ridge shedding a faint stream of shaping-grains; (6) the moon wheeling almost imperceptibly over the dune sea.
 
 MICRO-MAGIC (unified): the whole dune valley filled with a shimmering holographic oasis — the single phenomenon at its grandest scale, an oasis raised across the desert.
 
-SPATIAL LOGIC: FOREGROUND — a near shimmering palm at ≈20% depth, soft. MIDGROUND — Aira amid the oasis. BACKGROUND — the valley-wide oasis spreading to the dunes and moon. Premium editorial finish — rich clean colour and luminous mid-tones, deep-but-clean blacks, cinematic lighting with soft rim separation and high dynamic range, layered foreground-to-background depth, elevated material realism, immaculately clean and never dull or faded, natural true skin preserved. Greenery lush and healthy with premium landscaping.
+SPATIAL LOGIC: FOREGROUND — a near shimmering holographic palm and rippled dune-crest at ≈15% depth, tack sharp. MIDGROUND — the carved sandstone bowl on the ridge amid the blooming oasis. BACKGROUND — the valley-wide oasis of palms and pools spreading to the far dunes and moon, receding with true atmospheric perspective (nearer mirage sharp, far oasis hazier and softer). Premium editorial finish — rich clean colour and luminous mid-tones, deep-but-clean blacks, cinematic lighting with soft rim separation and high dynamic range, layered foreground-to-background depth, elevated material realism, immaculately clean and never dull or faded, natural true skin preserved. Greenery lush and healthy with premium landscaping.
 
 LIGHTING: KEY — the valley oasis as live shimmering wrap-light. FILL — warm sand bounce. RIM — cool moon-light. SEPARATION — deep dunes. BOUNCE — gold kicks sweeping across her and the sand. Premium editorial finish — rich clean colour and luminous mid-tones, deep-but-clean blacks, cinematic lighting with soft rim separation and high dynamic range, layered foreground-to-background depth, elevated material realism, immaculately clean and never dull or faded, natural true skin preserved.
 
-FRAMING: ASPECT 9:16; wider medium, hips-up, 12% headroom, the valley oasis filling the field, Aira anchored centre.
-SUBJECT FRAMING & POSITION: A wider medium framing holds Aira at about 12% headroom, hips-up, the valley oasis filling the field, Aira anchored centre. She is standing tall on the dune, arms opening wide, weight even and grounded, chin lifting, spine long. The camera holds a wide distance, Aira the sharp central figure of the Sandstorm Hologram Oasis scene, centred in frame. She is turned a few degrees into the moment. Both arms lift and open conducting the blooming valley, fingers softly spread and the spine lengthening upward, weight grounded even. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+FRAMING: ASPECT 9:16; PURE ENVIRONMENT WIDE — no subject; a wide of the whole dune valley filled with the shimmering holographic oasis, the carved bowl small on the ridge and the moonlit sand sea spreading beyond.
+WORLD FRAMING & POSITION: A pure environment wide with NO person in frame — the dune valley reads full and deep, a shimmering holographic oasis of palms and glinting pools doming the whole valley in green-gold light, the carved sandstone bowl anchoring the ridge, the moonlit sand sea and dunes receding far behind. The world is the sole subject. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
-LENS + DOF + BOKEH: 35mm, f/2.5; moderate DOF keeping her sharp while the farthest oasis softens into luminous gold bokeh; controlled bloom; gentle roll-off.
+LENS + DOF + BOKEH: 24mm wide, f/4; deep focus holding the near dune, the valley oasis and the far dunes crisp across the depth; only the farthest mirage softening into luminous gold; controlled bloom; gentle roll-off.
 
 COMPOSITION REFERENCE: the world-expands beat — the mechanic at full scale, the whole valley bloomed in mirage (BA.3).
 
@@ -5866,43 +5859,43 @@ ATMOSPHERE: exhilarated, mystical, warm — a desert valley bloomed into a shimm
 
 COLOR GRADE: deep night-indigo with warm sand-gold and cool moonlit-blue accent, rich blacks, clean whites, controlled bloom. Premium editorial grade — rich clean colour, luminous mid-tones, deep-but-clean blacks, controlled elegant saturation, no faded or muddy tones, natural true skin preserved.
 
-TEXTURE & MICRO-DETAIL: each oasis element a real shimmering hologram of fine grains; the dune sand rippled; skin micro-texture calm and real, gold-radiant.
+TEXTURE & MICRO-DETAIL: each oasis element a real shimmering hologram of fine suspended grains; the dune sand rippled and moonlit; the carved bowl's stone rough and real; glittering grains fine in the air.
 
-STORY BEAT: the bloomed valley — she raises a whole oasis across the dune sea, radiant and grounded amid a valley shimmering green-gold.
+STORY BEAT: the bloomed valley — a whole oasis rises shimmering across the dune sea from the bowl on the ridge, the desert radiant and unpeopled under the moon.
 
 NEGATIVE: mirrored, flipped, inverted, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, over-smoothed skin, oversharpened, AI artifacts, watermarks, deformed hands, joint cuts, off-axis pupils, melted clothing, mismatched footwear, mannequin posture, dead eyes, statue energy, glitching or colour-shifting eyes, crushed blacks, garish oversaturation, flat light, body levitation, smooth featureless mirage.
 
 ## Frame 6 of 8 — VIDEO PROMPT
 STRICT COLOUR & RENDER MANDATE (must be followed exactly; this governs render QUALITY only and must NOT change the composition, camera, lens, framing, wardrobe, action or identity specified above): render the colours already specified at their richest, freshest, cleanest and most premium — crisp, vivid and luminous with elegant, controlled saturation; never dull, faded, washed-out, muddy, grey or flat. Hold deep-but-clean blacks, luminous full mid-tones and beautiful highlight roll-off with high dynamic range and no blown highlights. Wherever sky is visible, render it richly graded and cinematic — never empty, white or overexposed. Wherever water is visible, render it crystal-clear with deep sea-blue and turquoise gradients, clean caustics and sparkling reflections — never grey or murky (unless the concept explicitly specifies dark / ink / obsidian water, which stays deep, glassy and clean). Protect natural, true skin tone; never push saturation onto the face. Keep the image immaculately clean and premium with clear figure-to-ground separation so the hero reads first; honour the concept's intended dominant surface and full-frame coverage, and do NOT reveal unwanted structural edges, seams, side-walls or empty dead space that break the intended composition. Photoreal, award-winning editorial finish — no AI artifacts, plastic or waxy skin, dead eyes, malformed hands or unfinished backgrounds.
 
-IDENTITY (locked): Aira — same person every frame; face, bone structure, eye shape + colour, nose, lips, skin texture and hair strictly locked to reference; ONLY expression, gaze and head move; no identity drift, no face/anatomy warp, no second or duplicate person.
+NO SUBJECT (locked): this is a pure-environment frame — no person, no figure, no silhouette, no body, hands or face appear; render the world and its objects only. Identity lock is N/A because Aira is absent from this shot.
 
-SHOT TYPE: wider medium, hips-up, subject ≈45% of frame amid the valley oasis.
+SHOT TYPE: PURE ENVIRONMENT WIDE — no subject in frame; the whole dune valley filled with the shimmering holographic oasis and the moonlit sand sea.
 
-LENS: 35mm, f/2.5.
+LENS: 24mm wide, f/4, deep focus holding the valley's full depth.
 
-SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] wider medium, hips-up, subject ≈45% of frame amid the valley oasis: a slow rise (crane-like) lifting with the blooming valley is already underway — the oasis across the valley begins to bloom so the scale lands instantly.
-- [00:02–00:04] the whole dune valley fills with shimmering palms and pools.
-- [00:04–00:06] she lifts her arms wide, hair stirring, the oasis spreading full; she holds radiant amid the valley as the oasis settles into a full shimmer.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous natural motion — never slow-motion, never a static hold; NO person in frame):
+- [00:00–00:02] PURE ENVIRONMENT WIDE, no subject: a slow rise (crane-like) is already underway over the dune ridge, the oasis already blooming across the valley so the scale lands instantly, near dune-crest sliding faster than the far dunes in real parallax.
+- [00:02–00:04] the whole dune valley fills with shimmering palms and glinting pools, the mirage doming the valley in green-gold light, the desert unpeopled.
+- [00:04–00:06] the oasis settles into a full shimmer across the sand sea; a gentle settle, the carved bowl on the ridge shedding a last faint stream of grains.
 
-PHYSICS: the oasis blooms with believable grain-shimmer across the valley, palms swaying, pools glinting, no force; her grounded body obeys gravity; sand drifts and brightens.
+PHYSICS: the oasis blooms with believable grain-shimmer across the valley, palms swaying and pools glinting with no force on the sand; the dune and the carved bowl stay weighted; sand drifts and brightens on the gentle storm.
 
 MICRO-MAGIC: one sustained beat — the whole valley bloomed in shimmering oasis.
 
-CONTINUITY: boots, bracelet, earring, wardrobe, braid, makeup, dual catchlight unchanged.
+CONTINUITY: the dune valley, sand sea, carved bowl and holographic oasis identical to the surrounding frames; the world holds continuity while the subject is simply absent from this shot.
 
-AUDIO: diegetic only. Ambient — desert wind under. SFX — a soft rising flurry of shimmer-blooms at 0:00.8 building to a gentle swell at 0:02.6, a chorus of distant bird-calls. Reaction — a soft exhilarated breath at 0:03.0. Master — the oud-and-strings bed at its gentle peak (present, never full). VO — none.
+AUDIO: diegetic only. Ambient — desert wind under. SFX — a soft rising flurry of shimmer-blooms at 0:00.8 building to a gentle swell at 0:02.6, a chorus of distant bird-calls. Master — the oud-and-strings bed at its gentle peak (present, never full). VO — none (no person present).
 
 DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
 FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
-LIP-SYNC: none.
+LIP-SYNC: N/A — no person, mouth or voice in this pure-environment frame.
 
-FACIAL CONSISTENCY / IDENTITY LOCK: hold the Aira reference exactly; locked catchlight only, iris unchanged, zero drift, eyes never glitch; keyframe-lock identity through the oasis light.
+FACIAL CONSISTENCY / IDENTITY LOCK: N/A — no person, face or eyes in this pure-environment frame.
 
-NEGATIVE: identity drift, face or hand warp, extra or fused fingers, duplicate person, mirrored/flipped frame, slow-motion, watermark.
+NEGATIVE: any person, figure, human silhouette, body, hands or face; identity drift; mirrored/flipped frame; slow-motion; watermark; empty white or flat background; blown highlights; plasticky CGI.
 
 ## Frame 7 of 8 — IMAGE PROMPT
 STRICT COLOUR & RENDER MANDATE (must be followed exactly; this governs render QUALITY only and must NOT change the composition, camera, lens, framing, wardrobe, action or identity specified above): render the colours already specified at their richest, freshest, cleanest and most premium — crisp, vivid and luminous with elegant, controlled saturation; never dull, faded, washed-out, muddy, grey or flat. Hold deep-but-clean blacks, luminous full mid-tones and beautiful highlight roll-off with high dynamic range and no blown highlights. Wherever sky is visible, render it richly graded and cinematic — never empty, white or overexposed. Wherever water is visible, render it crystal-clear with deep sea-blue and turquoise gradients, clean caustics and sparkling reflections — never grey or murky (unless the concept explicitly specifies dark / ink / obsidian water, which stays deep, glassy and clean). Protect natural, true skin tone; never push saturation onto the face. Keep the image immaculately clean and premium with clear figure-to-ground separation so the hero reads first; honour the concept's intended dominant surface and full-frame coverage, and do NOT reveal unwanted structural edges, seams, side-walls or empty dead space that break the intended composition. Photoreal, award-winning editorial finish — no AI artifacts, plastic or waxy skin, dead eyes, malformed hands or unfinished backgrounds.
