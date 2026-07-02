@@ -749,14 +749,14 @@ KINETIC STILLNESS (8 layers): (1) a single soft strand drifting slow at the temp
 
 MICRO-MAGIC (cue only): at the very tip of the spout, a single bright bead of tea has welled and now hangs a heartbeat too long, refusing to drop — deniable, the first whisper that the tea will orbit rather than fall.
 
-SPATIAL LOGIC: FOREGROUND — the cup and the poised spout at ≈20% depth, tack sharp. MIDGROUND — Aira kneeling at the table. BACKGROUND — the curved window of pale planetary rings in cool pearl-blue, a warm lantern off frame-left, no clutter. Premium editorial finish — rich clean colour and luminous mid-tones, deep-but-clean blacks, cinematic lighting with soft rim separation and high dynamic range, layered foreground-to-background depth, elevated material realism, immaculately clean and never dull or faded, natural true skin preserved.
+SPATIAL LOGIC: FOREGROUND — the warm lantern and a low table-edge detail at ≈12% depth, tack sharp, establishing the near plane. MIDGROUND — the low tea table with Aira small kneeling at it, the celadon set catching warm light. BACKGROUND — the colossal curved window of pale planetary rings filling the upper two-thirds in cool pearl-blue, receding with true atmospheric perspective (nearer ring-banding sharp, far arcs hazier and softer to sell the immense distance); leading lines of the ring-arcs sweep across to drive the eye into orbit. Premium editorial finish — rich clean colour and luminous mid-tones, deep-but-clean blacks, cinematic lighting with soft rim separation and high dynamic range, layered foreground-to-background depth, elevated material realism, immaculately clean and never dull or faded, natural true skin preserved.
 
 LIGHTING: KEY — the warm paper lantern as a soft wrapping key from frame-left. FILL — a gentle cool pearl bounce off the ring-window lifting the shadow side. RIM — the cool ring-light skimming her crown and one shoulder. PRACTICAL — the lantern and the ring-window. SEPARATION — the window pulled deep so she reads ≈1.5 stops up. BOUNCE — a faint warm kick off the celadon glaze. Premium editorial finish — rich clean colour and luminous mid-tones, deep-but-clean blacks, cinematic lighting with soft rim separation and high dynamic range, layered foreground-to-background depth, elevated material realism, immaculately clean and never dull or faded, natural true skin preserved.
 
-FRAMING: ASPECT 9:16; medium, chest-up to the table edge, 12% headroom, the cup and spout entering the lower third, clean negative space around the cup to receive the orbit-ring that arrives later.
-SUBJECT FRAMING & POSITION: A medium framing holds Aira at about 12% headroom, chest-up to the table edge, the cup and spout entering the lower third, clean negative space around the cup to receive the orbit-ring that arrives later. She is kneeling three-quarter to camera at the low table, spine long and easy, weight settled even through the kneel with a soft 2° lean toward the cup, front shoulder dropped a touch, chin level. The camera holds a mid distance, Aira the sharp central figure of the Gravity-Well Tea House scene, centred in frame. She faces front to the lens. Kneeling three-quarter at the low lacquered table, the right hand poised on the teapot handle and the left light at the saucer, spine long and weight settled even through the kneel. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+FRAMING: ASPECT 9:16; TRUE ESTABLISHING WIDE — full-figure and beyond, Aira small at ≈20% of frame kneeling at the low tea table on the tiny deck, the vast planetary ring-system filling the curved window above and around her so the orbiting world dwarfs the human; generous air on every side, the tea set a small warm accent, deep negative space holding the ring-glow.
+SUBJECT FRAMING & POSITION: A true wide establishing framing holds Aira SMALL — about 20% of frame height — kneeling at the low lacquered table on the tiny deck adrift in orbit, the immense pale ring-system beyond the curved window rising far above and around her so she reads as a lone figure dwarfed by the planet's rings; she is the scale-anchor that makes the orbit read as truly vast. She kneels three-quarter to camera, spine long and easy, weight settled even through the kneel with a soft 2° lean toward the cup, front shoulder dropped a touch, chin level, the right hand poised on the teapot handle and the left light at the saucer. The camera holds a wide distance, lifted and pulled back, Aira the small sharp human anchor of the Gravity-Well Tea House scene while the ringed world is the dominant subject. She faces three-quarter to the lens. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
-LENS + DOF + BOKEH: 35mm, f/2.2; focus split between her lowered near eye and the cup so both read crisp; the window melting to soft pearl bokeh; the hanging bead kept just soft; gentle highlight roll-off, no clipping.
+LENS + DOF + BOKEH: 24mm wide, f/4; deep focus holding Aira, the tea table and the vast ring-window all crisp for the establishing scale; only the nearest lantern-glow softening; gentle highlight roll-off, no clipping.
 
 COMPOSITION REFERENCE: meditative establishing hero — kneeling ceremony, planetary ring behind, one impossible cue building (BA.3 cause building to effect).
 
@@ -775,14 +775,14 @@ STRICT COLOUR & RENDER MANDATE (must be followed exactly; this governs render QU
 
 IDENTITY (locked): Aira — same person every frame; face, bone structure, eye shape + colour, nose, lips, skin texture and hair strictly locked to reference; ONLY expression, gaze and head move; no identity drift, no face/anatomy warp, no second or duplicate person.
 
-SHOT TYPE: medium, chest-up to the table edge, subject fills ≈52% of the vertical frame.
+SHOT TYPE: TRUE ESTABLISHING WIDE — high and pulled back, Aira small at ≈20% of the vertical frame while the tiny tea deck and the colossal planetary ring-window dominate.
 
-LENS: 35mm, f/2.2, smooth pearl-blue background fall-off.
+LENS: 24mm wide, f/4, deep focus holding the whole scale of the deck and the ring-system.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] medium, chest-up to the table edge, subject fills ≈52% of the vertical frame: a single slow 8% push-in across the clip is already underway — hold the still tableau, the lantern flickering once, the poised spout reading instantly above the cup.
-- [00:02–00:04] the single bright bead wells at the spout-tip and hangs, refusing to fall, catching warm light; Aira's chest rises on a slow steady breath, her grip on the pot settling.
-- [00:04–00:06] her eyes lower further to the cup, the orrery earring hanging perfectly still; she tips the spout the first few degrees, the clip holding just before the pour begins.
+- [00:00–00:02] TRUE ESTABLISHING WIDE, Aira small at ≈20% kneeling low-centre: a slow weighty crane-up-and-back is already underway, lifting to reveal the whole tiny deck against the immense ring-system filling the curved window — the orbiting world reads vast, she reads human; parallax slides the near lantern faster than the far rings for real 3D depth.
+- [00:02–00:04] the crane continues its unhurried pull-out; the planet's pale ring turns almost imperceptibly across the window, its far arcs hazier with atmospheric perspective, the lantern flickering once as a warm scale-accent.
+- [00:04–00:06] the move settles high and wide; at the tiny tea set a single bright bead wells at the spout-tip and hangs, refusing to fall, her chest rising on a slow steady breath — the lone figure poised in the vast orbit, ready to pour.
 
 PHYSICS: the deck air is still and weightless — tea-steam and dust-grains drift on near-zero-G with slow buoyant arcs; her body, hair, the pot and cup obey normal gravity, anchored by the magnetic boots; only loose particulate floats. The welled bead holds by an impossible surface tension, trembling but not dropping.
 
@@ -1141,40 +1141,33 @@ NEGATIVE: identity drift, face or hand warp, extra or fused fingers, duplicate p
 ## Frame 6 of 6 — IMAGE PROMPT
 STRICT COLOUR & RENDER MANDATE (must be followed exactly; this governs render QUALITY only and must NOT change the composition, camera, lens, framing, wardrobe, action or identity specified above): render the colours already specified at their richest, freshest, cleanest and most premium — crisp, vivid and luminous with elegant, controlled saturation; never dull, faded, washed-out, muddy, grey or flat. Hold deep-but-clean blacks, luminous full mid-tones and beautiful highlight roll-off with high dynamic range and no blown highlights. Wherever sky is visible, render it richly graded and cinematic — never empty, white or overexposed. Wherever water is visible, render it crystal-clear with deep sea-blue and turquoise gradients, clean caustics and sparkling reflections — never grey or murky (unless the concept explicitly specifies dark / ink / obsidian water, which stays deep, glassy and clean). Protect natural, true skin tone; never push saturation onto the face. Keep the image immaculately clean and premium with clear figure-to-ground separation so the hero reads first; honour the concept's intended dominant surface and full-frame coverage, and do NOT reveal unwanted structural edges, seams, side-walls or empty dead space that break the intended composition. Photoreal, award-winning editorial finish — no AI artifacts, plastic or waxy skin, dead eyes, malformed hands or unfinished backgrounds.
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: N/A — no person in this frame (pure environment); no reference sheet applies.
 
-SCENE NOTE: the ring settles in. Aira lowers the cup to the table and the orbiting tea-ring spirals gently down into the porcelain, filling the cup at last as gravity quietly returns to it; she sits full and composed above her finished cup, the closing hero shot, a single last bright bead trembling at the spout to bookend the opening.
+PURE ENVIRONMENT — NO SUBJECT IN FRAME: this is a world-only shot; Aira does NOT appear (no person, no figure, no silhouette, no body, no hands). Render only the environment, its objects and the magic cue. Disregard any subject/wardrobe/pose wording elsewhere.
 
-VISUAL-LEAD NOTE: catch the poised closing hero — Aira composed above the now-filled cup, footwear and accessories cleanly legible, the planetary ring-window steady behind, calm restored.
+SCENE NOTE: the tea house at rest, empty of any person. On the tiny lacquered deck adrift in orbit the porcelain cup sits filled and steaming, the celadon teapot set beside it with one last bright bead of tea trembling at the spout-tip, the planet's vast pale ring filling the curved window — the ceremony finished, the quiet grandeur of the place held for its own beat, ready to loop to the opening.
 
-WARDROBE: the deep-jade quilted haori-wrap, continuity-locked, settled clean in the warm lantern light, fully modest — the wardrobe hero shot.
+VISUAL-LEAD NOTE: catch the serene world-only close — NO figure; the finished tea set on the low table, steam curling from the full cup, the last bead at the spout, the great planetary ring-window glowing steady behind, the meditative calm of the orbiting deck doing all the talking.
 
-FOOTWEAR: the concept-locked cream padded gravity-boots with the jade-resin toe-cap fully and crisply shown as she shifts from the kneel, the quilted texture and cream topstitching clean and the jade toe-cap catching a clear highlight — the footwear hero shot.
 
-ACCESSORIES: the jade ring-bead bracelet on the right wrist and the brass orrery-drop earring at the left ear, both sharply visible and unchanged.
 
-HAIR: the smooth low bun with the lacquer hairpin, continuity-locked, neat and settled, color locked.
 
-MAKEUP: the warm clean glow, continuity-locked, calm and even, real pores.
 
-EYE COLOUR: iris exactly as referenced; the locked dual catchlight — lantern-amber low, pearl-blue high — calm and clear as she meets lens; the eyes never glitch.
 
-HANDS & NAILS: the cup set down, hands easy on the table, fingers relaxed; short almond neutral-gloss nails, neat cuticles.
 
-FACIAL MICRO-DYNAMICS: quiet contentment, composed, lips in a soft closed curve, a steady gentle gaze, the faintest meditative calm.
 
-BODY POSTURE & WEIGHT: GAZE direct and serene to lens; HEAD level, chin level; SHOULDERS open and square; RIGHT ARM and LEFT ARM easy on the table, BOTH HANDS resting relaxed, RIGHT and LEFT FINGERS soft; TORSO seated tall above the table, facing camera squarely; WAIST & HIPS grounded and even; RIGHT LEG and LEFT LEG folded easy beneath; FEET tucked, weight grounded and even; HAIR settling soft — serene and alive (living stillness).
 
-KINETIC STILLNESS (8 layers): (1) the last of the tea-ring spiralling down into the cup; (2) the filled tea settling with one fading ripple; (3) steam curling up from the full cup; (4) a temple strand settling; (5) chest on a soft settling breath; (6) a thin warm highlight on the celadon spout; (7) quilted silk fold-shadow micro-settle; (8) a final slow blink.
+
+KINETIC STILLNESS (environmental, 6 layers): (1) the last of the tea-ring spiralling down into the cup; (2) the filled tea settling with one fading ripple; (3) steam curling up from the full cup; (4) a thin warm highlight sliding along the celadon spout; (5) the warm lantern flame breathing on the low table; (6) the planet's pale ring turning almost imperceptibly in the window.
 
 MICRO-MAGIC (bookend): a single last bright bead of tea welling at the spout-tip, trembling but not dropping — the only remaining trace, deliberately small to bookend Frame 1.
 
-SPATIAL LOGIC: FOREGROUND — the filled cup and the poised spout at ≈20% depth. MIDGROUND — Aira above the table, the hero. BACKGROUND — the settled ring-window, warm lantern off left. Premium editorial finish — rich clean colour and luminous mid-tones, deep-but-clean blacks, cinematic lighting with soft rim separation and high dynamic range, layered foreground-to-background depth, elevated material realism, immaculately clean and never dull or faded, natural true skin preserved.
+SPATIAL LOGIC: FOREGROUND — the filled cup and the poised spout at ≈20% depth. MIDGROUND — the low lacquered table with the finished tea set and the set-down pot. BACKGROUND — the vast planetary ring-window filling the frame with true atmospheric depth, warm lantern off left. Premium editorial finish — rich clean colour and luminous mid-tones, deep-but-clean blacks, cinematic lighting with soft rim separation and high dynamic range, layered foreground-to-background depth, elevated material realism, immaculately clean and never dull or faded, natural true skin preserved.
 
 LIGHTING: KEY — warm lantern. FILL — cool pearl bounce. RIM — cool ring-light. SEPARATION — deep window. BOUNCE — faint warm kick on the glaze. Premium editorial finish — rich clean colour and luminous mid-tones, deep-but-clean blacks, cinematic lighting with soft rim separation and high dynamic range, layered foreground-to-background depth, elevated material realism, immaculately clean and never dull or faded, natural true skin preserved.
 
-FRAMING: ASPECT 9:16; clean medium-full, 10% headroom, the boots as she shifts and the filled cup both legible.
-SUBJECT FRAMING & POSITION: A clean medium-full framing holds Aira at about 10% headroom, the boots as she shifts and the filled cup both legible. She is seated tall above the table, facing camera squarely, weight grounded and even, chin level, spine long and easy. The camera holds a mid-wide distance, Aira the sharp central figure of the Gravity-Well Tea House scene, centred in frame. She faces front to the lens. Seated tall above the table and facing camera squarely, the cup set down and hands easy on the table, weight grounded and even, spine long for the loop. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+FRAMING: ASPECT 9:16; PURE ENVIRONMENT WIDE — no subject; a clean wide of the whole tea deck adrift in orbit, the low table and finished tea set anchoring the lower third and the colossal planetary ring-window filling the background top-to-bottom.
+WORLD FRAMING & POSITION: A pure environment wide with NO person in frame — the tiny lacquered tea deck reads full and deep against the immense pale ring-system beyond the curved window, the low table with the steaming filled cup and the poised teapot anchoring the lower-left, the orbiting void holding deep negative space. The world is the sole subject. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
 LENS + DOF + BOKEH: 35mm, f/3.2; deeper DOF to hold the footwear and the cup in legible focus; gentle roll-off, contrast clean and final.
 
@@ -1184,7 +1177,7 @@ ATMOSPHERE: calm, complete, meditative — the warm hush after the orbit. Premiu
 
 COLOR GRADE: warm lantern-amber with cool pearl-blue, rich uncrushed blacks, clean whites, full mid-tone, final contrast. Premium editorial grade — rich clean colour, luminous mid-tones, deep-but-clean blacks, controlled elegant saturation, no faded or muddy tones, natural true skin preserved.
 
-TEXTURE & MICRO-DETAIL: the gravity-boot quilting and jade toe-cap hero-lit and crisp; the filled tea with a real settling meniscus; the celadon crackle real; skin micro-texture calm and real.
+TEXTURE & MICRO-DETAIL: the celadon crackle-glaze real and fine on the pot and cup; the filled tea with a real settling meniscus; the lacquered table grain and warm lantern sheen; the porcelain catching a crisp cool ring-light glint.
 
 STORY BEAT: the cycle holds — the orbiting tea poured home into the cup, calm restored, a single new bead already trembling at the spout, ready to loop.
 
@@ -1193,34 +1186,34 @@ NEGATIVE: mirrored, flipped, inverted, extra limbs, fused fingers, melted featur
 ## Frame 6 of 6 — VIDEO PROMPT
 STRICT COLOUR & RENDER MANDATE (must be followed exactly; this governs render QUALITY only and must NOT change the composition, camera, lens, framing, wardrobe, action or identity specified above): render the colours already specified at their richest, freshest, cleanest and most premium — crisp, vivid and luminous with elegant, controlled saturation; never dull, faded, washed-out, muddy, grey or flat. Hold deep-but-clean blacks, luminous full mid-tones and beautiful highlight roll-off with high dynamic range and no blown highlights. Wherever sky is visible, render it richly graded and cinematic — never empty, white or overexposed. Wherever water is visible, render it crystal-clear with deep sea-blue and turquoise gradients, clean caustics and sparkling reflections — never grey or murky (unless the concept explicitly specifies dark / ink / obsidian water, which stays deep, glassy and clean). Protect natural, true skin tone; never push saturation onto the face. Keep the image immaculately clean and premium with clear figure-to-ground separation so the hero reads first; honour the concept's intended dominant surface and full-frame coverage, and do NOT reveal unwanted structural edges, seams, side-walls or empty dead space that break the intended composition. Photoreal, award-winning editorial finish — no AI artifacts, plastic or waxy skin, dead eyes, malformed hands or unfinished backgrounds.
 
-IDENTITY (locked): Aira — same person every frame; face, bone structure, eye shape + colour, nose, lips, skin texture and hair strictly locked to reference; ONLY expression, gaze and head move; no identity drift, no face/anatomy warp, no second or duplicate person.
+NO SUBJECT (locked): this is a pure-environment frame — no person, no figure, no silhouette, no body, hands or face appear; render the world and its objects only. Identity lock is N/A because Aira is absent from this shot.
 
-SHOT TYPE: clean medium-full, subject ≈48% of frame.
+SHOT TYPE: PURE ENVIRONMENT WIDE — no subject in frame; the whole orbiting tea deck, the finished tea set and the colossal planetary ring-window.
 
-LENS: 35mm, f/3.2.
+LENS: 28mm wide, f/4, deep focus holding the deck and the ring-system.
 
-SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] clean medium-full, subject ≈48% of frame: an extremely slow push-out is already underway — she lowers the cup to the table and faces camera, composition immediately calm and complete.
-- [00:02–00:04] the orbiting tea-ring spirals gently down into the cup, filling it as gravity returns to the liquid.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous natural motion — never slow-motion, never a static hold; NO person in frame):
+- [00:00–00:02] PURE ENVIRONMENT WIDE, no subject: an extremely slow push-out is already underway across the empty tea deck, steam rising from the filled cup, the planet's pale ring turning slow beyond the curved window in real parallax.
+- [00:02–00:04] the last thread of the tea-ring spirals down into the cup, filling it as gravity returns to the liquid, the deck quiet and unpeopled.
 - [00:04–00:06] a single last bright bead wells at the spout-tip, a soft echo of the opening; a final almost-imperceptible settle as the deck hum lowers, ready to loop cleanly to Frame 1.
 
 PHYSICS: the tea-ring loses its orbit gradually and spirals down into the cup with believable decelerating flow and surface tension, settling to a still meniscus; the welled bead holds by the same impossible tension as Frame 1; everything else weighted throughout.
 
 MICRO-MAGIC: one minimal beat — the last bead welling at the spout as the ring pours home.
 
-CONTINUITY: boots, bracelet, earring, wardrobe, bun, hairpin, makeup, dual catchlight identical to every prior frame, presented as the clean hero shot.
+CONTINUITY: the tea deck, low table, celadon tea set and planetary ring-window identical to the surrounding frames; the world holds continuity while the subject is simply absent from this shot.
 
-AUDIO: diegetic only. Ambient — deck hum settling, kettle-tick easing. SFX — a soft spiralling liquid-whisper as the ring pours home at 0:01.4, a tiny porcelain-fill settle at 0:02.6. Reaction — a soft settling breath at 0:03.0. Master — the koto-and-pad bed resolving toward near-silence. VO — none (non-talkable).
+AUDIO: diegetic only. Ambient — deck hum settling, kettle-tick easing. SFX — a soft spiralling liquid-whisper as the ring pours home at 0:01.4, a tiny porcelain-fill settle at 0:02.6. Master — the koto-and-pad bed resolving toward near-silence. VO — none (non-talkable, no person present).
 
 DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
 FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
-LIP-SYNC: none — lips at rest in a composed, content expression.
+LIP-SYNC: N/A — no person, mouth or voice in this pure-environment frame.
 
-FACIAL CONSISTENCY / IDENTITY LOCK: hold the Aira reference exactly; locked catchlight only, iris unchanged, zero drift, eyes never glitch; keyframe-lock identity so the closing shot never warps the face.
+FACIAL CONSISTENCY / IDENTITY LOCK: N/A — no person, face or eyes in this pure-environment frame.
 
-NEGATIVE: identity drift, face or hand warp, extra or fused fingers, duplicate person, mirrored/flipped frame, slow-motion, watermark.
+NEGATIVE: any person, figure, human silhouette, body, hands or face; identity drift; mirrored/flipped frame; slow-motion; watermark; empty white or flat background; blown highlights; plasticky CGI.
 
 ---
 
