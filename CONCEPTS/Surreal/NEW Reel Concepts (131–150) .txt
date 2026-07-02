@@ -4261,14 +4261,14 @@ KINETIC STILLNESS (8 layers): (1) a soft strand drifting slow at the temple; (2)
 
 MICRO-MAGIC (cue only): along the spindle a single thread of light has brightened and dimmed, as if the captured sunlight were stirring — deniable, the first whisper that she will weave it into cloth.
 
-SPATIAL LOGIC: FOREGROUND — the spindle of woven light in her hands at ≈20% depth, tack sharp. MIDGROUND — Aira at the table. BACKGROUND — the billowing solar sails against the starfield, bolts of fabric along the walls, the distant sun, no clutter. Premium editorial finish — rich clean colour and luminous mid-tones, deep-but-clean blacks, cinematic lighting with soft rim separation and high dynamic range, layered foreground-to-background depth, elevated material realism, immaculately clean and never dull or faded, natural true skin preserved.
+SPATIAL LOGIC: FOREGROUND — a near stack of luminous cloth-bolts and the table-edge at ≈12% depth, tack sharp, establishing the near plane. MIDGROUND — the long weaving table with Aira small at it, the spindle a faint point of light in her hands. BACKGROUND — the great gossamer solar sails billowing against the deep starfield through the tall open bays, receding with true atmospheric perspective (nearer sails sharp, far ones hazier and softer), the distant sun a small warm disc. Premium editorial finish — rich clean colour and luminous mid-tones, deep-but-clean blacks, cinematic lighting with soft rim separation and high dynamic range, layered foreground-to-background depth, elevated material realism, immaculately clean and never dull or faded, natural true skin preserved.
 
 LIGHTING: KEY — the warm solar disc as a soft wrapping key from frame-left. FILL — a gentle cool starfield bounce lifting the shadow side. RIM — cool starlight skimming her crown and one shoulder. PRACTICAL — the sun and the glowing fabric bolts. SEPARATION — the bays pulled deep so she reads ≈1.5 stops up. BOUNCE — a faint gold kick off the spindle. Premium editorial finish — rich clean colour and luminous mid-tones, deep-but-clean blacks, cinematic lighting with soft rim separation and high dynamic range, layered foreground-to-background depth, elevated material realism, immaculately clean and never dull or faded, natural true skin preserved.
 
-FRAMING: ASPECT 9:16; medium, chest-up to the table, 12% headroom, the spindle entering the lower third, clean negative space above to receive the woven cloth that arrives later.
-SUBJECT FRAMING & POSITION: A medium framing holds Aira at about 12% headroom, chest-up to the table, the spindle entering the lower third, clean negative space above to receive the woven cloth that arrives later. She is standing three-quarter to camera at the table, spine long and easy, weight settled even with a soft 2° lean toward the spindle, front shoulder dropped a touch, chin level, alive and breathing. The camera holds a mid distance, Aira the sharp central figure of the Solar-Sail Atelier scene, with the glow arcing the upper frame above her. She faces front to the lens. Three-quarter at the atelier table, both hands hold the bronze spindle of woven light, weight settled with a soft counter-tilt. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+FRAMING: ASPECT 9:16; TRUE ESTABLISHING WIDE — full-figure and beyond, Aira small at ≈18% of frame at the atelier table while the great solar sails billow against the starfield through the tall bays that tower above and around her; the skyship dwarfs the human, deep negative space holding the starfield.
+SUBJECT FRAMING & POSITION: A true wide establishing framing holds Aira SMALL — about 18% of frame height — standing at the long weaving table in the atelier, the vast gossamer solar sails billowing against the deep starfield through the tall open bays far above and around her so she reads as a lone figure dwarfed by the ship of light; she is the scale-anchor that makes the skyship read as truly vast. She stands three-quarter to camera at the table, spine long and easy, weight settled even with a soft 2° lean, front shoulder dropped a touch, chin level, the bronze spindle a faint point of light in her hands. The camera holds a wide, lifted distance, Aira the small sharp human anchor of the Solar-Sail Atelier scene while the ship of light is the dominant subject. She faces three-quarter to the lens. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
-LENS + DOF + BOKEH: 35mm, f/2.2; focus split between her lowered near eye and the spindle so both read crisp; the sails melting to soft gold-and-indigo bokeh; motes as fine floating points; gentle highlight roll-off, no clipping.
+LENS + DOF + BOKEH: 24mm wide, f/4; deep focus holding Aira, the table and the vast billowing sails all crisp for the establishing scale; only the nearest gold motes softening; gentle highlight roll-off, no clipping.
 
 COMPOSITION REFERENCE: warm cinematic establishing hero — sailmaker at the loom, one impossible cue building (BA.3 cause building to effect).
 
@@ -4287,14 +4287,14 @@ STRICT COLOUR & RENDER MANDATE (must be followed exactly; this governs render QU
 
 IDENTITY (locked): Aira — same person every frame; face, bone structure, eye shape + colour, nose, lips, skin texture and hair strictly locked to reference; ONLY expression, gaze and head move; no identity drift, no face/anatomy warp, no second or duplicate person.
 
-SHOT TYPE: medium, chest-up to the table, subject fills ≈50% of the vertical frame.
+SHOT TYPE: TRUE ESTABLISHING WIDE — high and pulled back, Aira small at ≈18% of the vertical frame while the vast solar-sail skyship and starfield dominate.
 
-LENS: 35mm, f/2.2, smooth gold-and-indigo background fall-off.
+LENS: 24mm wide, f/4, deep focus holding the whole scale of the atelier and the sails.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] medium, chest-up to the table, subject fills ≈50% of the vertical frame: a single slow 8% push-in across the clip is already underway — hold the still tableau, sails billowing slow, the spindle of light in her hands.
-- [00:02–00:04] a single thread of light brightens along the spindle and dims; Aira's chest rises on a slow steady breath, her hold on the spindle settling.
-- [00:04–00:06] she lifts a fingertip to the thread, the needle-drop earring hanging still; she begins to draw the first thread of light free, the clip holding just before the weave.
+- [00:00–00:02] TRUE ESTABLISHING WIDE, Aira small at ≈18% at the table: a slow weighty crane-up-and-back is already underway, lifting to reveal the great sails billowing against the starfield through the towering bays — the skyship reads vast, she reads human; parallax slides the near motes faster than the far sails for real 3D depth.
+- [00:02–00:04] the crane drifts on; the gossamer sails billow slow across the deep starfield, the distant sun small and warm, the far sails hazier with atmospheric perspective.
+- [00:04–00:06] the move settles wide and high; at the tiny figure a single thread of light brightens along the spindle as her chest rises on a slow steady breath — the lone sailmaker poised aboard the ship of light.
 
 PHYSICS: the atelier air is still — motes and a loose strand drift slow; the great sails billow soft on the solar wind; her body, the table, the spindle obey normal gravity. The brightening thread emits light, not force.
 
@@ -4737,42 +4737,35 @@ NEGATIVE: identity drift, face or hand warp, extra or fused fingers, duplicate p
 ## Frame 7 of 7 — IMAGE PROMPT
 STRICT COLOUR & RENDER MANDATE (must be followed exactly; this governs render QUALITY only and must NOT change the composition, camera, lens, framing, wardrobe, action or identity specified above): render the colours already specified at their richest, freshest, cleanest and most premium — crisp, vivid and luminous with elegant, controlled saturation; never dull, faded, washed-out, muddy, grey or flat. Hold deep-but-clean blacks, luminous full mid-tones and beautiful highlight roll-off with high dynamic range and no blown highlights. Wherever sky is visible, render it richly graded and cinematic — never empty, white or overexposed. Wherever water is visible, render it crystal-clear with deep sea-blue and turquoise gradients, clean caustics and sparkling reflections — never grey or murky (unless the concept explicitly specifies dark / ink / obsidian water, which stays deep, glassy and clean). Protect natural, true skin tone; never push saturation onto the face. Keep the image immaculately clean and premium with clear figure-to-ground separation so the hero reads first; honour the concept's intended dominant surface and full-frame coverage, and do NOT reveal unwanted structural edges, seams, side-walls or empty dead space that break the intended composition. Photoreal, award-winning editorial finish — no AI artifacts, plastic or waxy skin, dead eyes, malformed hands or unfinished backgrounds.
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
+IDENTITY LOCK: N/A — no person in this frame (pure environment); no reference sheet applies.
 
-SCENE NOTE: the sailmaker at rest. Aira sets the folded square on the table and stands composed at her loom, the great woven sails billowing soft and steady around the ship behind her, facing camera with a warm settled calm — the closing hero shot, the spindle of light resting on the table with one last faint thread-glow to bookend the opening.
+PURE ENVIRONMENT — NO SUBJECT IN FRAME: this is a world-only shot; Aira does NOT appear (no person, no figure, no silhouette, no body, no hands). Render only the environment, its objects and the magic cue. Disregard any subject/wardrobe/pose wording elsewhere.
 
-VISUAL-LEAD NOTE: catch the poised closing hero — Aira composed at the loom among billowing sails, footwear and accessories cleanly legible, the starfield steady behind.
+SCENE NOTE: the atelier at rest, empty of any person. The bronze spindle of woven light rests on the long weaving table with one last faint thread-glow, a small folded square of sail-cloth beside it, and beyond the open bays the great gossamer solar sails billow soft and steady against the starfield around the skyship — the work finished, the atelier holding its warm hush, no figure present, ready to loop to the opening.
 
-WARDROBE: the bronze-gold tailored coat-dress with the apron-sash, continuity-locked, settled clean in the warm solar light, fully modest — the wardrobe hero shot.
+VISUAL-LEAD NOTE: catch the serene world-only close — NO figure; the empty weaving table with the spindle and folded square, the great woven sails billowing against the starfield through the bays, the distant sun a small warm disc, gold motes settling in the still air.
 
-FOOTWEAR: the concept-locked bronze-brown leather buckled work-boots with the copper sole and brass buckles fully and crisply shown, planted firm at the loom, the burnished leather and brass buckles clean and the copper sole catching a clear highlight — the footwear hero shot.
 
-ACCESSORIES: the copper spool-bangle on the right wrist and the needle-drop earring at the left ear, both sharply visible and unchanged.
 
-HAIR: the sleek high twist, continuity-locked, neat and settled, color locked.
 
-MAKEUP: the warm metallic glow, continuity-locked, calm and even, real pores.
 
-EYE COLOUR: iris exactly as referenced; the locked dual catchlight — solar-gold low, starfield-blue high — calm and clear as she meets lens; the eyes never glitch.
 
-HANDS & NAILS: the folded square set down, hands easy on the table, fingers relaxed; short almond neutral-gloss nails, neat cuticles.
 
-FACIAL MICRO-DYNAMICS: warm contentment, composed, lips in a soft closed curve, a steady gentle gaze, the faintest proud calm.
 
-BODY POSTURE & WEIGHT: GAZE direct and serene to lens; HEAD level, chin level; SHOULDERS open and square; RIGHT ARM and LEFT ARM easy on the table, BOTH HANDS resting relaxed, RIGHT and LEFT FINGERS relaxed; TORSO facing camera squarely; WAIST & HIPS grounded and even; RIGHT LEG and LEFT LEG grounded even and straight; FEET & WEIGHT grounded and even; HAIR settling soft — serene and alive (living stillness).
 
-KINETIC STILLNESS (8 layers): (1) the spindle of light on the table giving one last faint thread-glow; (2) the great sails billowing soft and steady behind; (3) the distant sun shimmering warm; (4) gold motes settling; (5) chest on a soft settling breath; (6) a thin warm highlight on the spindle; (7) coat fold-shadow micro-settle; (8) a final slow blink.
+
+KINETIC STILLNESS (environmental, 6 layers): (1) the spindle of light on the table giving one last faint thread-glow; (2) the great sails billowing soft and steady beyond the bays; (3) the distant sun shimmering warm; (4) gold motes settling slow in the air; (5) a thin warm highlight sliding along the spindle; (6) a bolt of luminous cloth breathing faintly on the wall.
 
 MICRO-MAGIC (bookend): the spindle of light on the table giving one last faint thread-glow — the only remaining trace, deliberately small to bookend Frame 1.
 
-SPATIAL LOGIC: FOREGROUND — the spindle on the table at ≈20% depth. MIDGROUND — Aira at the loom, the hero. BACKGROUND — the steady billowing sails and starfield. Premium editorial finish — rich clean colour and luminous mid-tones, deep-but-clean blacks, cinematic lighting with soft rim separation and high dynamic range, layered foreground-to-background depth, elevated material realism, immaculately clean and never dull or faded, natural true skin preserved.
+SPATIAL LOGIC: FOREGROUND — the spindle on the table at ≈20% depth. MIDGROUND — the long weaving table with the spindle and folded square, the tall loom. BACKGROUND — the great billowing solar sails and the deep starfield through the open bays, receding with true atmospheric depth. Premium editorial finish — rich clean colour and luminous mid-tones, deep-but-clean blacks, cinematic lighting with soft rim separation and high dynamic range, layered foreground-to-background depth, elevated material realism, immaculately clean and never dull or faded, natural true skin preserved.
 
 LIGHTING: KEY — warm solar. FILL — cool starfield bounce. RIM — cool star-light. SEPARATION — deep bays. BOUNCE — faint gold kick on the spindle. Premium editorial finish — rich clean colour and luminous mid-tones, deep-but-clean blacks, cinematic lighting with soft rim separation and high dynamic range, layered foreground-to-background depth, elevated material realism, immaculately clean and never dull or faded, natural true skin preserved.
 
-FRAMING: ASPECT 9:16; clean medium-full, 10% headroom, the boots and the billowing sails both legible.
-SUBJECT FRAMING & POSITION: A clean medium-full framing holds Aira at about 10% headroom, the boots and the billowing sails both legible. She is standing tall at the loom, facing camera squarely, weight grounded and even, chin level, spine long and easy. The camera holds a mid-wide distance, Aira the sharp central figure of the Solar-Sail Atelier scene, centred in frame. She faces front to the lens. Facing camera squarely with the folded square set down and hands easy on the table, weight grounded and even for the loop. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+FRAMING: ASPECT 9:16; PURE ENVIRONMENT WIDE — no subject; a wide of the solar-sail atelier, the weaving table and spindle anchoring the lower third while the great sails billow against the starfield through the tall open bays that fill the frame.
+WORLD FRAMING & POSITION: A pure environment wide with NO person in frame — the atelier reads full and deep, the long weaving table with the glowing spindle and folded square anchoring the lower-left, the tall loom and stacked bolts of luminous cloth along the walls, and beyond the open bays the vast gossamer sails billowing against the deep starfield. The world is the sole subject. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
-LENS + DOF + BOKEH: 35mm, f/3.2; deeper DOF to hold the footwear and the loom in legible focus; gentle roll-off, contrast clean and final.
+LENS + DOF + BOKEH: 24mm wide, f/4; deep focus holding the table, the loom and the billowing sails crisp across the depth; only the nearest gold motes softening; gentle roll-off, contrast clean and final.
 
 COMPOSITION REFERENCE: the poised closing hero — the sailmaker, the ship spread in woven light, calm restored (perfect-loop close).
 
@@ -4780,43 +4773,43 @@ ATMOSPHERE: calm, complete, majestic — the warm hush after the sails are made.
 
 COLOR GRADE: deep starfield-indigo with warm solar-gold and bronze accent, rich uncrushed blacks, clean whites, full mid-tone, final contrast. World-class editorial colour — rich and vivid yet clean, luminous mid-tones, deep-but-clean blacks, controlled saturation, nothing washed-out, natural skin protected.
 
-TEXTURE & MICRO-DETAIL: the boot leather and copper sole hero-lit and crisp; the spindle giving a soft last thread-glow; the sails a real luminous weave; skin micro-texture calm and real.
+TEXTURE & MICRO-DETAIL: the weaving-table wood grained and worn; the spindle giving a soft last thread-glow; the sails a real luminous woven fabric catching sun and starlight; gold motes fine in the still air.
 
-STORY BEAT: the cycle holds — the ship spread in sails of woven light, calm restored, the spindle still glowing faint on the table, ready to weave again.
+STORY BEAT: the cycle holds — the ship spread in sails of woven light, the atelier quiet and unpeopled, the spindle still glowing faint on the table, ready to weave again.
 
 NEGATIVE: mirrored, flipped, inverted, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, over-smoothed skin, oversharpened, AI artifacts, watermarks, deformed hands, joint cuts, off-axis pupils, melted clothing, mismatched footwear, mannequin posture, dead eyes, statue energy, glitching or colour-shifting eyes, residual floating cloth beyond the spindle-glow, crushed blacks, garish oversaturation, flat light, body levitation.
 
 ## Frame 7 of 7 — VIDEO PROMPT
 STRICT COLOUR & RENDER MANDATE (must be followed exactly; this governs render QUALITY only and must NOT change the composition, camera, lens, framing, wardrobe, action or identity specified above): render the colours already specified at their richest, freshest, cleanest and most premium — crisp, vivid and luminous with elegant, controlled saturation; never dull, faded, washed-out, muddy, grey or flat. Hold deep-but-clean blacks, luminous full mid-tones and beautiful highlight roll-off with high dynamic range and no blown highlights. Wherever sky is visible, render it richly graded and cinematic — never empty, white or overexposed. Wherever water is visible, render it crystal-clear with deep sea-blue and turquoise gradients, clean caustics and sparkling reflections — never grey or murky (unless the concept explicitly specifies dark / ink / obsidian water, which stays deep, glassy and clean). Protect natural, true skin tone; never push saturation onto the face. Keep the image immaculately clean and premium with clear figure-to-ground separation so the hero reads first; honour the concept's intended dominant surface and full-frame coverage, and do NOT reveal unwanted structural edges, seams, side-walls or empty dead space that break the intended composition. Photoreal, award-winning editorial finish — no AI artifacts, plastic or waxy skin, dead eyes, malformed hands or unfinished backgrounds.
 
-IDENTITY (locked): Aira — same person every frame; face, bone structure, eye shape + colour, nose, lips, skin texture and hair strictly locked to reference; ONLY expression, gaze and head move; no identity drift, no face/anatomy warp, no second or duplicate person.
+NO SUBJECT (locked): this is a pure-environment frame — no person, no figure, no silhouette, no body, hands or face appear; render the world and its objects only. Identity lock is N/A because Aira is absent from this shot.
 
-SHOT TYPE: clean medium-full, subject ≈48% of frame.
+SHOT TYPE: PURE ENVIRONMENT WIDE — no subject in frame; the solar-sail atelier, the weaving table with the glowing spindle and the great sails against the starfield.
 
-LENS: 35mm, f/3.2.
+LENS: 24mm wide, f/4, deep focus holding the atelier's full depth.
 
-SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] clean medium-full, subject ≈48% of frame: an extremely slow push-out is already underway — she sets the folded square down and faces camera, composition immediately calm and complete.
-- [00:02–00:04] the great sails billow soft and steady behind, the distant sun warm.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous natural motion — never slow-motion, never a static hold; NO person in frame):
+- [00:00–00:02] PURE ENVIRONMENT WIDE, no subject: an extremely slow push-out is already underway across the empty atelier, gold motes drifting past faster than the far sails in real parallax, the great canopy billowing beyond the bays.
+- [00:02–00:04] the great sails billow soft and steady against the starfield, the distant sun warm, the atelier quiet and unpeopled.
 - [00:04–00:06] the spindle of light on the table gives one last faint thread-glow, a soft echo of the opening; a final almost-imperceptible settle as the hum lowers, ready to loop cleanly to Frame 1.
 
 PHYSICS: the spindle glows faintly without force; the sails billow soft and steady; everything weighted; motes drift and settle.
 
 MICRO-MAGIC: one minimal beat — the spindle's last faint thread-glow.
 
-CONTINUITY: boots, spool-bangle, earring, wardrobe, high twist, makeup, dual catchlight identical to every prior frame, presented as the clean hero shot.
+CONTINUITY: the atelier, weaving table, spindle, loom and billowing sails identical to the surrounding frames; the world holds continuity while the subject is simply absent from this shot.
 
-AUDIO: diegetic only. Ambient — skyship hum settling, sail-flutter easing. SFX — a soft loom-click at 0:01.0, a faint thread-shimmer at 0:03.0. Reaction — a soft settling breath at 0:03.0. Master — the cello-and-harp bed resolving toward near-silence. VO — none.
+AUDIO: diegetic only. Ambient — skyship hum settling, sail-flutter easing. SFX — a soft loom-click at 0:01.0, a faint thread-shimmer at 0:03.0. Master — the cello-and-harp bed resolving toward near-silence. VO — none (no person present).
 
 DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
 FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
-LIP-SYNC: none — lips at rest in a composed, content expression.
+LIP-SYNC: N/A — no person, mouth or voice in this pure-environment frame.
 
-FACIAL CONSISTENCY / IDENTITY LOCK: hold the Aira reference exactly; locked catchlight only, iris unchanged, zero drift, eyes never glitch; keyframe-lock identity so the closing shot never warps the face.
+FACIAL CONSISTENCY / IDENTITY LOCK: N/A — no person, face or eyes in this pure-environment frame.
 
-NEGATIVE: identity drift, face or hand warp, extra or fused fingers, duplicate person, mirrored/flipped frame, slow-motion, watermark.
+NEGATIVE: any person, figure, human silhouette, body, hands or face; identity drift; mirrored/flipped frame; slow-motion; watermark; empty white or flat background; blown highlights; plasticky CGI.
 
 ---
 
