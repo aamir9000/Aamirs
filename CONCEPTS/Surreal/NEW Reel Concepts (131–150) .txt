@@ -7312,14 +7312,14 @@ KINETIC STILLNESS (8 layers): (1) a soft strand drifting slow at the temple; (2)
 
 MICRO-MAGIC (cue only): at the stone a single faint ribbon of light has begun to lift and curl, then paused — deniable, the first whisper that her voice will become light.
 
-SPATIAL LOGIC: FOREGROUND — the resonance stone in her cupped hands at ≈20% depth, tack sharp. MIDGROUND — Aira in the canyon. BACKGROUND — the curving glowing walls, the bright sky-slit, no clutter. Premium editorial finish — rich clean colour and luminous mid-tones, deep-but-clean blacks, cinematic lighting with soft rim separation and high dynamic range, layered foreground-to-background depth, elevated material realism, immaculately clean and never dull or faded, natural true skin preserved. Sky richly graded and cinematic with elegant clouds and premium light, never flat or empty.
+SPATIAL LOGIC: FOREGROUND — a near river-worn canyon wall and sand floor at ≈12% depth, tack sharp, establishing the near plane. MIDGROUND — the canyon floor with Aira small on it, the resonance stone a small point cupped in her hands. BACKGROUND — the towering curving sandstone walls of the slot canyon rising far above and narrowing away, receding with true atmospheric perspective (nearer walls warm and sharp, far ones hazier and cooler), the bright sky-slit far overhead. Premium editorial finish — rich clean colour and luminous mid-tones, deep-but-clean blacks, cinematic lighting with soft rim separation and high dynamic range, layered foreground-to-background depth, elevated material realism, immaculately clean and never dull or faded, natural true skin preserved. Sky richly graded and cinematic with elegant clouds and premium light, never flat or empty.
 
 LIGHTING: KEY — warm bounced dusk-glow off the sandstone as a soft wrapping key from frame-left. FILL — a cool sky-slit bounce lifting the shadow side. RIM — warm rock-glow skimming her crown and one shoulder. PRACTICAL — the rock-glow and the sky-slit. SEPARATION — the canyon pulled deep so she reads ≈1.5 stops up. BOUNCE — a faint gold kick off the resonance stone. Premium editorial finish — rich clean colour and luminous mid-tones, deep-but-clean blacks, cinematic lighting with soft rim separation and high dynamic range, layered foreground-to-background depth, elevated material realism, immaculately clean and never dull or faded, natural true skin preserved. Sky richly graded and cinematic with elegant clouds and premium light, never flat or empty.
 
-FRAMING: ASPECT 9:16; medium, chest-up to the stone, 12% headroom, the stone entering the lower third, clean negative space above to receive the ribbons of light that arrive later.
-SUBJECT FRAMING & POSITION: A medium framing holds Aira at about 12% headroom, chest-up to the stone, the stone entering the lower third, clean negative space above to receive the ribbons of light that arrive later. She is standing three-quarter to camera in the canyon, spine long and easy, weight settled even with a soft 2° lean toward the stone, front shoulder dropped a touch, chin level, alive and breathing. The camera holds a mid distance, Aira the sharp central figure of the Echo-Canyon Light Choir scene, with the glow arcing the upper frame above her. She faces front to the lens. Three-quarter to camera, both hands cup the river-worn resonance stone at chest height, weight settled with a soft counter-tilt. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+FRAMING: ASPECT 9:16; TRUE ESTABLISHING WIDE — full-figure and beyond, Aira small at ≈18% of frame on the canyon floor while the towering curving sandstone walls rise far above and around her to the bright sky-slit; the canyon dwarfs the human, deep negative space holding the glowing walls.
+SUBJECT FRAMING & POSITION: A true wide establishing framing holds Aira SMALL — about 18% of frame height — standing on the sand floor of the curving slot canyon, the towering golden sandstone walls rising far above and narrowing to the bright sky-slit so she reads as a lone figure dwarfed by the canyon; she is the scale-anchor that makes the slot canyon read as truly vast. She stands three-quarter to camera on the floor, spine long and easy, weight settled even with a soft 2° lean, front shoulder dropped a touch, chin level, the resonance stone a small point cupped in her hands. The camera holds a wide, lifted distance, Aira the small sharp human anchor of the Echo-Canyon Light Choir scene while the canyon is the dominant subject. She faces three-quarter to the lens. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
-LENS + DOF + BOKEH: 35mm, f/2.2; focus split between her lowered near eye and the stone so both read crisp; the canyon melting to soft gold-and-blue bokeh; dust-motes as fine floating points; gentle highlight roll-off, no clipping.
+LENS + DOF + BOKEH: 24mm wide, f/4; deep focus holding Aira, the canyon floor and the towering walls all crisp for the establishing scale; only the nearest dust softening; gentle highlight roll-off, no clipping.
 
 COMPOSITION REFERENCE: warm cinematic establishing hero — singer of canyons, one impossible cue building (BA.3 cause building to effect).
 
@@ -7338,14 +7338,14 @@ STRICT COLOUR & RENDER MANDATE (must be followed exactly; this governs render QU
 
 IDENTITY (locked): Aira — same person every frame; face, bone structure, eye shape + colour, nose, lips, skin texture and hair strictly locked to reference; ONLY expression, gaze and head move; no identity drift, no face/anatomy warp, no second or duplicate person.
 
-SHOT TYPE: medium, chest-up to the stone, subject fills ≈50% of the vertical frame.
+SHOT TYPE: TRUE ESTABLISHING WIDE — high and pulled back, Aira small at ≈18% of the vertical frame while the towering slot canyon dominates.
 
-LENS: 35mm, f/2.2, smooth gold-and-blue background fall-off.
+LENS: 24mm wide, f/4, deep focus holding the whole scale of the canyon.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] medium, chest-up to the stone, subject fills ≈50% of the vertical frame: a single slow 8% push-in across the clip is already underway — hold the still tableau, canyon glowing, the stone cupped in her hands.
-- [00:02–00:04] a single ribbon of light lifts and curls at the stone, then settles; Aira's chest rises on a slow steady breath, her hold on the stone settling.
-- [00:04–00:06] she lifts the stone slightly, the echo-coil earring hanging still; she draws a breath to hum, the clip holding just before her voice becomes light.
+- [00:00–00:02] TRUE ESTABLISHING WIDE, Aira small at ≈18% on the canyon floor: a slow weighty crane-up-and-back is already underway, lifting to reveal the towering curving walls rising over her to the bright sky-slit — the canyon reads vast, she reads human; parallax slides the near walls faster than the far slot for real 3D depth.
+- [00:02–00:04] the crane drifts on down the curve; the golden walls glow and narrow away, the sky-slit bright far above, the far canyon hazier with atmospheric perspective.
+- [00:04–00:06] the move settles wide and high; at the tiny figure a single ribbon of light lifts and curls at the stone as her chest rises on a slow steady breath — the lone singer poised in the vast canyon.
 
 PHYSICS: the canyon air is still — dust-motes and a strand drift slow; the light-ribbon lifts with believable luminous flow; her body, the stone obey normal gravity.
 
@@ -7368,42 +7368,35 @@ NEGATIVE: identity drift, face or hand warp, extra or fused fingers, duplicate p
 ## Frame 2 of 6 — IMAGE PROMPT
 STRICT COLOUR & RENDER MANDATE (must be followed exactly; this governs render QUALITY only and must NOT change the composition, camera, lens, framing, wardrobe, action or identity specified above): render the colours already specified at their richest, freshest, cleanest and most premium — crisp, vivid and luminous with elegant, controlled saturation; never dull, faded, washed-out, muddy, grey or flat. Hold deep-but-clean blacks, luminous full mid-tones and beautiful highlight roll-off with high dynamic range and no blown highlights. Wherever sky is visible, render it richly graded and cinematic — never empty, white or overexposed. Wherever water is visible, render it crystal-clear with deep sea-blue and turquoise gradients, clean caustics and sparkling reflections — never grey or murky (unless the concept explicitly specifies dark / ink / obsidian water, which stays deep, glassy and clean). Protect natural, true skin tone; never push saturation onto the face. Keep the image immaculately clean and premium with clear figure-to-ground separation so the hero reads first; honour the concept's intended dominant surface and full-frame coverage, and do NOT reveal unwanted structural edges, seams, side-walls or empty dead space that break the intended composition. Photoreal, award-winning editorial finish — no AI artifacts, plastic or waxy skin, dead eyes, malformed hands or unfinished backgrounds.
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: continuity-locked START of the choir — face fully recognizable, she has hummed and her voice is just beginning to lift from the stone as a single ribbon of light flowing down the canyon. Lock this START so Frame 3 interpolates cleanly to the full light-choir.
+IDENTITY LOCK: N/A — no person in this frame (pure environment); no reference sheet applies.
 
-SCENE NOTE: the voice becomes light. Aira hums into the stone and her voice lifts away as a single glowing ribbon of light that flows down the curving canyon — luminous and warm, threading along the sandstone; quiet wonder warms her reverent focus.
+PURE ENVIRONMENT — NO SUBJECT IN FRAME: this is a world-only shot; Aira does NOT appear (no person, no figure, no silhouette, no body, no hands). Render only the environment, its objects and the magic cue. Disregard any subject/wardrobe/pose wording elsewhere.
 
-VISUAL-LEAD NOTE: catch the first-light beat — a single ribbon of voice-light lifting from the stone and flowing down the canyon, her face warm-lit and reverent.
+SCENE NOTE: the voice becomes light, the canyon empty of any person. From the river-worn resonance stone resting on the sand floor a single glowing ribbon of light lifts and flows down the curving slot canyon — luminous and warm, threading along the golden sandstone walls; no figure present, the canyon still ringing with a voice made into light.
 
-WARDROBE: the terracotta wrap-dress, continuity-locked, the front now catching the warm glow of the rising ribbon, fully modest, pristine.
+VISUAL-LEAD NOTE: catch the first-light beat as a world shot — NO figure; a single ribbon of voice-light lifting from the resonance stone on the sand and flowing down the curving canyon, the warm sandstone walls and bright sky-slit framing the deep.
 
-FOOTWEAR: the concept-locked tan suede ankle boots with the brass side-zip, planted and unchanged, the suede warm-lit.
 
-ACCESSORIES: the sandstone-bead bracelet (catching brighter glint as the ribbon rises) and the echo-coil earring, unchanged, the earring beginning to swing.
 
-HAIR: the soft side braid, continuity-locked, a temple strand drifting, deep sheen, color locked.
 
-MAKEUP: the warm golden glow, continuity-locked, the gold-bronze lid catching a brighter glow, soft terracotta-rose lip, real pores.
 
-EYE COLOUR: iris exactly as referenced; the locked dual catchlight — canyon-gold low, sky-slit blue high — brightened as the ribbon rises; the eyes never glitch.
 
-HANDS & NAILS: the stone cupped in both hands as the ribbon lifts away from it; short almond neutral-gloss nails, neat cuticles, no tension.
 
-FACIAL MICRO-DYNAMICS: reverent wonder, brows lifting barely 1mm, lips just parted in the hum, eyes following the rising ribbon, a held warm awe.
 
-BODY POSTURE & WEIGHT: GAZE to the lifting ribbon; HEAD chin a touch lifted; SHOULDERS soft; RIGHT ARM and LEFT ARM both cupping the stone as the ribbon lifts away from it, BOTH HANDS cupped, RIGHT and LEFT FINGERS gently curved; TORSO rotated about 4 degrees; WAIST & HIPS even; RIGHT LEG and LEFT LEG grounded even; FEET & WEIGHT even; HAIR drifting — awed and alive (living stillness).
 
-KINETIC STILLNESS (8 layers): (1) the ribbon of light lifting and flowing down the canyon; (2) the ribbon shimmering as it threads the walls; (3) a temple strand drifting; (4) dust-motes; (5) chest easing on a slow breath; (6) gold specular sliding on the bracelet; (7) the dress breathing with a fold-shadow micro-shift; (8) a slow eyelash settle as the ribbon flows.
 
-MICRO-MAGIC (START keyframe): a single ribbon of voice-light lifting from the stone and flowing down the canyon — her voice made light, clearly born of her hum.
+KINETIC STILLNESS (environmental, 6 layers): (1) the ribbon of light lifting and flowing down the canyon; (2) the ribbon shimmering as it threads the walls; (3) the resonance stone glowing softly where it rests on the sand; (4) dust-motes drifting in the warm shaft; (5) gold speculars sliding along the sandstone; (6) the bright sky-slit wavering far above.
 
-SPATIAL LOGIC: FOREGROUND — the rising ribbon and the stone at ≈18% depth, tack sharp. MIDGROUND — her face. BACKGROUND — the canyon walls in soft defocus, sky-slit, no clutter. Premium editorial finish — rich clean colour and luminous mid-tones, deep-but-clean blacks, cinematic lighting with soft rim separation and high dynamic range, layered foreground-to-background depth, elevated material realism, immaculately clean and never dull or faded, natural true skin preserved. Sky richly graded and cinematic with elegant clouds and premium light, never flat or empty.
+MICRO-MAGIC (START keyframe): a single ribbon of voice-light lifting from the resonance stone and flowing down the canyon — a voice made light, ringing from the stone of its own accord, clearly defying nature.
+
+SPATIAL LOGIC: FOREGROUND — the resonance stone on the sand and the lifting ribbon at ≈15% depth, tack sharp. MIDGROUND — the curving canyon floor with the ribbon threading away. BACKGROUND — the towering sandstone walls narrowing down the slot canyon, receding with true atmospheric perspective (nearer stone sharp, far walls hazier and cooler), the bright sky-slit far above. Premium editorial finish — rich clean colour and luminous mid-tones, deep-but-clean blacks, cinematic lighting with soft rim separation and high dynamic range, layered foreground-to-background depth, elevated material realism, immaculately clean and never dull or faded, natural true skin preserved. Sky richly graded and cinematic with elegant clouds and premium light, never flat or empty.
 
 LIGHTING: KEY — warm rock-glow key plus the ribbon's own light. FILL — cool sky-slit bounce. RIM — warm glow on crown. PRACTICAL — the sky-slit and a faint glow off the rising ribbon. SEPARATION — canyon deep, ≈1.5 stops up. BOUNCE — gold kick on the bracelet. Premium editorial finish — rich clean colour and luminous mid-tones, deep-but-clean blacks, cinematic lighting with soft rim separation and high dynamic range, layered foreground-to-background depth, elevated material realism, immaculately clean and never dull or faded, natural true skin preserved. Sky richly graded and cinematic with elegant clouds and premium light, never flat or empty.
 
-FRAMING: ASPECT 9:16; medium close, chest-up, 11% headroom, the rising ribbon entering frame, warm negative space camera-right.
-SUBJECT FRAMING & POSITION: A medium close framing holds Aira at about 11% headroom, chest-up, the rising ribbon entering frame, warm negative space camera-right. She is upper body lifting toward the rising ribbon, torso opening ≈4°, chin lifting, weight even, spine long. The camera holds an intimate distance, Aira the sharp central figure of the Echo-Canyon Light Choir scene, with the clean negative space opening camera-right. She is turned a few degrees into the moment. Both hands cup the stone as the light-ribbon lifts away from it, chin a touch lifted and weight even. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+FRAMING: ASPECT 9:16; PURE ENVIRONMENT WIDE — no subject; a wide down the curving slot canyon, the resonance stone small on the sand as a ribbon of light threads away between the towering sandstone walls, the bright sky-slit far above.
+WORLD FRAMING & POSITION: A pure environment wide with NO person in frame — the slot canyon reads full and deep, the towering golden sandstone walls curving away and a ribbon of voice-light threading down the floor from the resonance stone, the bright sky-slit narrow and far above. The world is the sole subject. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
-LENS + DOF + BOKEH: 50mm, f/2.0; focus split between her near eye and the rising ribbon so both read crisp; the canyon melting to creamy gold bokeh; soft glow; gentle roll-off.
+LENS + DOF + BOKEH: 24mm wide, f/4; deep focus holding the stone, the flowing ribbon and the far canyon walls crisp down the slot; only the nearest dust softening; soft glow; gentle roll-off.
 
 COMPOSITION REFERENCE: the first-light beat — voice becomes light (AT.5 transform logic).
 
@@ -7411,43 +7404,43 @@ ATMOSPHERE: hushed, reverent, wondrous — the instant a voice turns to light. R
 
 COLOR GRADE: deep canyon-shadow with warm sandstone-gold and cool sky-slit blue accent, rich blacks, clean whites, full mid-tone, no murk. Premium editorial grade — rich clean colour, luminous mid-tones, deep-but-clean blacks, controlled elegant saturation, no faded or muddy tones, natural true skin preserved.
 
-TEXTURE & MICRO-DETAIL: the ribbon reads as a real flowing band of warm light with luminous fine edges, not a smooth blob; the bracelet beads sandstone and real; skin micro-texture with peach-fuzz at the jaw catching gold; dust-motes fine.
+TEXTURE & MICRO-DETAIL: the ribbon reads as a real flowing band of warm light with luminous fine edges, not a smooth blob; the resonance stone river-worn and real; the sandstone walls grained and warm; dust-motes fine in the shaft.
 
-STORY BEAT: the singing light — her voice lifts from the stone as a ribbon of light flowing down the canyon, reverent wonder warming her focus.
+STORY BEAT: the singing light — a ribbon of voice-light flows down the canyon from the stone on the sand, the slot canyon glowing and unpeopled.
 
 NEGATIVE: mirrored, flipped, inverted, extra limbs, fused fingers, melted features, asymmetric eyes (unintentional), garbled text, floating shadows, duplicated subjects, plastic skin, over-smoothed skin, oversharpened, AI artifacts, watermarks, deformed hands, malformed teeth, joint cuts, off-axis pupils, melted clothing, mismatched footwear, mannequin posture, dead eyes, statue-frozen energy, glitching or colour-shifting eyes, crushed muddy blacks, garish oversaturation, flat dull light, smooth featureless light-blob.
 
 ## Frame 2 of 6 — VIDEO PROMPT
 STRICT COLOUR & RENDER MANDATE (must be followed exactly; this governs render QUALITY only and must NOT change the composition, camera, lens, framing, wardrobe, action or identity specified above): render the colours already specified at their richest, freshest, cleanest and most premium — crisp, vivid and luminous with elegant, controlled saturation; never dull, faded, washed-out, muddy, grey or flat. Hold deep-but-clean blacks, luminous full mid-tones and beautiful highlight roll-off with high dynamic range and no blown highlights. Wherever sky is visible, render it richly graded and cinematic — never empty, white or overexposed. Wherever water is visible, render it crystal-clear with deep sea-blue and turquoise gradients, clean caustics and sparkling reflections — never grey or murky (unless the concept explicitly specifies dark / ink / obsidian water, which stays deep, glassy and clean). Protect natural, true skin tone; never push saturation onto the face. Keep the image immaculately clean and premium with clear figure-to-ground separation so the hero reads first; honour the concept's intended dominant surface and full-frame coverage, and do NOT reveal unwanted structural edges, seams, side-walls or empty dead space that break the intended composition. Photoreal, award-winning editorial finish — no AI artifacts, plastic or waxy skin, dead eyes, malformed hands or unfinished backgrounds.
 
-IDENTITY (locked): Aira — same person every frame; face, bone structure, eye shape + colour, nose, lips, skin texture and hair strictly locked to reference; ONLY expression, gaze and head move; no identity drift, no face/anatomy warp, no second or duplicate person.
+NO SUBJECT (locked): this is a pure-environment frame — no person, no figure, no silhouette, no body, hands or face appear; render the world and its objects only. Identity lock is N/A because Aira is absent from this shot.
 
-SHOT TYPE: medium close, chest-up, subject and rising ribbon fill ≈58% of the frame.
+SHOT TYPE: PURE ENVIRONMENT WIDE — no subject in frame; the curving slot canyon, the resonance stone and the ribbon of light threading down between the walls.
 
-LENS: 50mm, f/2.0.
+LENS: 24mm wide, f/4, deep focus holding the canyon's full depth.
 
-SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] medium close, chest-up, subject and rising ribbon fill ≈58% of the frame: a slow smooth ≈15° orbit around her right shoulder is already underway — opens as she hums and the ribbon begins to lift so the hook lands instantly.
-- [00:02–00:04] the ribbon of light flows away from the stone down the canyon; she lifts the stone a touch and the ribbon strengthens, the earring swinging late.
-- [00:04–00:06] her eyes follow the flowing light, soft glow rising on her face; the ribbon threads off down the canyon, ready for the echoes to return.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous natural motion — never slow-motion, never a static hold; NO person in frame):
+- [00:00–00:02] PURE ENVIRONMENT WIDE, no subject: a slow smooth crane-back down the canyon is already underway, the ribbon of light already lifting from the resonance stone so the hook lands instantly, near walls sliding faster than the far slot in real parallax.
+- [00:02–00:04] the ribbon of light flows away from the stone down the curving canyon, threading the golden walls, the slot quiet and unpeopled.
+- [00:04–00:06] the ribbon threads off deep down the canyon; a gentle settle, the sky-slit glowing far above, ready for the echoes to return.
 
-PHYSICS: the ribbon flows with believable luminous fluid motion along the canyon, threading, not melting; her body, hair stay weighted; dust-motes drift.
+PHYSICS: the ribbon flows with believable luminous fluid motion along the canyon, threading the walls, not melting; the stone and sand floor stay weighted; dust-motes drift.
 
 MICRO-MAGIC: one beat — the ribbon of voice-light flowing down the canyon.
 
-CONTINUITY: boots, bracelet, earring, wardrobe, side braid, makeup, dual catchlight identical to Frame 1.
+CONTINUITY: the slot canyon, sandstone walls, resonance stone and sky-slit identical to the surrounding frames; the world holds continuity while the subject is simply absent from this shot.
 
-AUDIO: diegetic only. Ambient — canyon hush and faint resonant hum. SFX — a soft luminous chime as the ribbon lifts at 0:01.0, a faint flowing shimmer at 0:02.0. Reaction — a soft absorbed breath at 0:02.8. Master — the choral-and-strings bed rising a touch (present, never full). VO — none this frame.
+AUDIO: diegetic only. Ambient — canyon hush and faint resonant hum. SFX — a soft luminous chime as the ribbon lifts at 0:01.0, a faint flowing shimmer at 0:02.0. Master — the choral-and-strings bed rising a touch (present, never full). VO — none this frame (no person present).
 
 DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
 FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
-LIP-SYNC: none — lips parted in a soft hum.
+LIP-SYNC: N/A — no person, mouth or voice in this pure-environment frame.
 
-FACIAL CONSISTENCY / IDENTITY LOCK: hold the Aira reference exactly; locked canyon-gold / sky-slit blue catchlight only, iris unchanged, zero drift, eyes never glitch; keyframe-lock identity so the rising glow never melts the features.
+FACIAL CONSISTENCY / IDENTITY LOCK: N/A — no person, face or eyes in this pure-environment frame.
 
-NEGATIVE: identity drift, face or hand warp, extra or fused fingers, duplicate person, mirrored/flipped frame, slow-motion, watermark.
+NEGATIVE: any person, figure, human silhouette, body, hands or face; identity drift; mirrored/flipped frame; slow-motion; watermark; empty white or flat background; blown highlights; plasticky CGI.
 
 ## Frame 3 of 6 — IMAGE PROMPT
 STRICT COLOUR & RENDER MANDATE (must be followed exactly; this governs render QUALITY only and must NOT change the composition, camera, lens, framing, wardrobe, action or identity specified above): render the colours already specified at their richest, freshest, cleanest and most premium — crisp, vivid and luminous with elegant, controlled saturation; never dull, faded, washed-out, muddy, grey or flat. Hold deep-but-clean blacks, luminous full mid-tones and beautiful highlight roll-off with high dynamic range and no blown highlights. Wherever sky is visible, render it richly graded and cinematic — never empty, white or overexposed. Wherever water is visible, render it crystal-clear with deep sea-blue and turquoise gradients, clean caustics and sparkling reflections — never grey or murky (unless the concept explicitly specifies dark / ink / obsidian water, which stays deep, glassy and clean). Protect natural, true skin tone; never push saturation onto the face. Keep the image immaculately clean and premium with clear figure-to-ground separation so the hero reads first; honour the concept's intended dominant surface and full-frame coverage, and do NOT reveal unwanted structural edges, seams, side-walls or empty dead space that break the intended composition. Photoreal, award-winning editorial finish — no AI artifacts, plastic or waxy skin, dead eyes, malformed hands or unfinished backgrounds.
