@@ -1258,3 +1258,22 @@ EXEMPLAR FILE fully treated end-to-end: aira_set4 (Travel-Scenic) — enrichment
 → coral-and-aqua, C04 cream→marigold, C07 ivory→coral, C08 pale-rose→warm-rose, C15 sage→jade;
 premise/tonal/already-vibrant concepts deliberately left. Remaining files: pending user's go-ahead
 after reviewing exemplar + credit cost.
+
+
+
+### P.5 — WARDROBE-PASS APPLICABILITY (reviewed across the corpus)
+The hero wardrobe-colour upgrade genuinely applies only to REAL-WORLD / STATIC-HERO settings —
+i.e. the Travel-Scenic folder (DONE: aira_set4 + aira_set5). All the THEMED folders are
+wardrobe-locked and were deliberately SKIPPED (recolouring would fight the concept):
+  * Transformation (all files): outfits morph plain→vibrant reveal; the "after" hero looks are
+    already vivid and the plain "before" is intentional contrast — do not recolour.
+  * Beauty: every look is theme-tied — vibrant (flamenco crimson, neon magenta, peacock, molten
+    gold, phoenix, sakura, holographic, bioluminescent) or intentionally tonal per §I (liquid-
+    chrome, porcelain, frost, velvet-noir, smoke, crystal). Leave.
+  * Surreal 131-150: fantasy-world outfits are theme-appropriate (e.g. forge charcoal apron-coat). Leave.
+  * Action: theme-locked technical/racing/combat gear (matte-black etc.). Leave.
+  * Time-Freeze: already vivid (e.g. cobalt-blue trench-dress). Leave.
+  * Product/Unboxing: deliberate narrative looks incl. intentionally-clashing brand-billboard satire. Leave.
+Universal work (§O enrichment + P.1 strict render mandate) is applied to ALL 20 files regardless.
+Remaining work is per-concept, on-request: deep staging/composition fixes (like the Concept-01
+pool restage) and any specific spot wardrobe tweak the user flags.
