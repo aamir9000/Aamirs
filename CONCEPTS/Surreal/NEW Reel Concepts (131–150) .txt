@@ -3175,14 +3175,14 @@ KINETIC STILLNESS (8 layers): (1) a soft strand drifting slow at the temple; (2)
 
 MICRO-MAGIC (cue only): deep in the seed-crystal a single facet has brightened and dimmed, as if answering a tone not yet sounded — deniable, the first whisper that her hum will grow the crystal.
 
-SPATIAL LOGIC: FOREGROUND — the seed-crystal and her palm at ≈20% depth, tack sharp. MIDGROUND — Aira on the dais. BACKGROUND — the glowing geode walls of quartz and amethyst, faint warm core-glow within, no clutter. Premium editorial finish — rich clean colour and luminous mid-tones, deep-but-clean blacks, cinematic lighting with soft rim separation and high dynamic range, layered foreground-to-background depth, elevated material realism, immaculately clean and never dull or faded, natural true skin preserved. Greenery lush and healthy with premium landscaping.
+SPATIAL LOGIC: FOREGROUND — a near quartz cluster and the dais edge at ≈12% depth, tack sharp, establishing the near plane. MIDGROUND — the low stone dais with Aira small on it, the seed-crystal a faint point of light in her palm. BACKGROUND — the colossal geode chamber walls of quartz and amethyst rising far above and around her, receding with true atmospheric perspective (nearer facets sharp, far walls hazier and softer with a warm core-glow within to sell the cavern's true depth).
 
 LIGHTING: KEY — the soft refracted crystal-glow as a cool wrapping key. FILL — a faint warm core-bounce lifting the shadow side. RIM — a prismatic edge skimming her crown and one shoulder. PRACTICAL — the glowing crystals. SEPARATION — the chamber pulled deep so she reads ≈1.5 stops up. BOUNCE — a faint prism kick off the seed-crystal. Premium editorial finish — rich clean colour and luminous mid-tones, deep-but-clean blacks, cinematic lighting with soft rim separation and high dynamic range, layered foreground-to-background depth, elevated material realism, immaculately clean and never dull or faded, natural true skin preserved.
 
-FRAMING: ASPECT 9:16; medium-full, head-to-knee, 12% headroom, the seed-crystal entering the lower third, clean negative space around her to receive the blooming crystal that arrives later.
-SUBJECT FRAMING & POSITION: A medium-full framing holds Aira at about 12% headroom, head-to-knee, the seed-crystal entering the lower third, clean negative space around her to receive the blooming crystal that arrives later. She is standing three-quarter to camera on the dais, spine long and easy, weight settled even with a soft 2° lean toward the crystal, front shoulder dropped a touch, chin level, alive and breathing. The camera holds a mid-wide distance, Aira the sharp central figure of the Crystal Resonance Chamber scene, with the scene massing around her. She faces front to the lens. Three-quarter to camera, the right hand cradles the seed-crystal open in her palm and the left rests soft at her side, weight settled with a soft counter-tilt. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+FRAMING: ASPECT 9:16; TRUE ESTABLISHING WIDE — full-figure and beyond, Aira small at ≈18% of frame on the low dais while the vast glowing geode chamber of quartz and amethyst rises far above and around her; the crystal cavern dwarfs the human, deep negative space holding the mineral glow.
+SUBJECT FRAMING & POSITION: A true wide establishing framing holds Aira SMALL — about 18% of frame height — standing on the low stone dais at the heart of the immense geode chamber, the towering crystal walls rising far above and around her so she reads as a lone figure dwarfed by the singing cavern; she is the scale-anchor that makes the geode read as truly vast. She stands three-quarter to camera, spine long and easy, weight settled even with a soft 2° lean, front shoulder dropped a touch, chin level, the seed-crystal a faint point of light cradled in her palm. The camera holds a wide, lifted distance, Aira the small sharp human anchor of the Crystal Resonance Chamber scene while the crystal cavern is the dominant subject. She faces three-quarter to the lens. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
-LENS + DOF + BOKEH: 35mm, f/2.2; focus split between her lowered near eye and the seed-crystal so both read crisp; the chamber melting to soft violet bokeh; dust-motes as fine floating points; gentle highlight roll-off, no clipping.
+LENS + DOF + BOKEH: 24mm wide, f/4; deep focus holding Aira, the dais and the vast geode walls all crisp for the establishing scale; only the nearest dust-motes softening; gentle highlight roll-off, no clipping.
 
 COMPOSITION REFERENCE: serene establishing hero — resonance-keeper on the dais, one impossible cue building (BA.3 cause building to effect).
 
@@ -3201,14 +3201,14 @@ STRICT COLOUR & RENDER MANDATE (must be followed exactly; this governs render QU
 
 IDENTITY (locked): Aira — same person every frame; face, bone structure, eye shape + colour, nose, lips, skin texture and hair strictly locked to reference; ONLY expression, gaze and head move; no identity drift, no face/anatomy warp, no second or duplicate person.
 
-SHOT TYPE: medium-full, head-to-knee, subject fills ≈50% of the vertical frame.
+SHOT TYPE: TRUE ESTABLISHING WIDE — high and pulled back, Aira small at ≈18% of the vertical frame while the vast glowing geode chamber dominates.
 
-LENS: 35mm, f/2.2, smooth violet background fall-off.
+LENS: 24mm wide, f/4, deep focus holding the whole scale of the crystal cavern.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] medium-full, head-to-knee, subject fills ≈50% of the vertical frame: a single slow 8% push-in across the clip is already underway — hold the still tableau, the crystals glowing faint, the seed-crystal in her open palm.
-- [00:02–00:04] a single facet in the seed-crystal brightens and dims; Aira's chest rises on a slow steady breath, lips parting just slightly to begin the hum.
-- [00:04–00:06] her eyes lower to the seed, the quartz earring hanging still; the first low hum begins to sound, the seed-crystal's glow steadying, the clip holding just before it grows.
+- [00:00–00:02] TRUE ESTABLISHING WIDE, Aira small at ≈18% on the dais: a slow weighty crane-up-and-back is already underway, lifting to reveal the towering crystal walls rising over her — the geode reads vast, she reads human; parallax slides the near quartz faster than the far walls for real 3D depth.
+- [00:02–00:04] the crane drifts on through the glow; the crystal walls climb far above, hazier with atmospheric perspective toward the vaults, a warm core-glow breathing deep within.
+- [00:04–00:06] the move settles wide and high; at the tiny figure a single facet in the seed-crystal brightens as her chest rises on a slow steady breath — the lone figure poised in the immense cavern, about to hum.
 
 PHYSICS: the cavern air is still — dust-motes and a loose strand drift slow; the crystals glow with a faint internal pulse; her body, the dais, and the seed-crystal obey normal gravity. The brightening facet emits light, not force.
 
@@ -3315,42 +3315,35 @@ NEGATIVE: identity drift, face or hand warp, extra or fused fingers, duplicate p
 ## Frame 3 of 6 — IMAGE PROMPT
 STRICT COLOUR & RENDER MANDATE (must be followed exactly; this governs render QUALITY only and must NOT change the composition, camera, lens, framing, wardrobe, action or identity specified above): render the colours already specified at their richest, freshest, cleanest and most premium — crisp, vivid and luminous with elegant, controlled saturation; never dull, faded, washed-out, muddy, grey or flat. Hold deep-but-clean blacks, luminous full mid-tones and beautiful highlight roll-off with high dynamic range and no blown highlights. Wherever sky is visible, render it richly graded and cinematic — never empty, white or overexposed. Wherever water is visible, render it crystal-clear with deep sea-blue and turquoise gradients, clean caustics and sparkling reflections — never grey or murky (unless the concept explicitly specifies dark / ink / obsidian water, which stays deep, glassy and clean). Protect natural, true skin tone; never push saturation onto the face. Keep the image immaculately clean and premium with clear figure-to-ground separation so the hero reads first; honour the concept's intended dominant surface and full-frame coverage, and do NOT reveal unwanted structural edges, seams, side-walls or empty dead space that break the intended composition. Photoreal, award-winning editorial finish — no AI artifacts, plastic or waxy skin, dead eyes, malformed hands or unfinished backgrounds.
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: continuity-locked resolution of the crystal-growth — crystals now blooming across the whole chamber walls in resonance with her hum; face clear and serene at the centre. This is the hero beat.
+IDENTITY LOCK: N/A — no person in this frame (pure environment); no reference sheet applies.
 
-SCENE NOTE: the chamber blooms. Aira's sustained hum now grows crystal across the whole geode — luminous formations rising and branching from every wall in resonance with her tone, the chamber blooming into a cathedral of light around her; she stands serene at the centre, the maker of singing stone.
+PURE ENVIRONMENT — NO SUBJECT IN FRAME: this is a world-only shot; Aira does NOT appear (no person, no figure, no silhouette, no body, no hands). Render only the environment, its objects and the magic cue. Disregard any subject/wardrobe/pose wording elsewhere.
 
-VISUAL-LEAD NOTE: catch the signature hero beat — crystals blooming across the whole chamber in resonance, refracted light everywhere, Aira serene at the centre of the singing geode.
+SCENE NOTE: the chamber blooms, empty of any person. A sustained resonant tone still rings from the glowing seed-crystal on the low stone dais, and crystal grows across the whole geode — luminous formations rising and branching from every wall in resonance, the chamber blooming into a cathedral of light, no figure present, the singing stone growing on its own.
 
-WARDROBE: the pale-quartz-grey faceted gown, continuity-locked, washed in the prismatic light of the blooming chamber, fully modest.
+VISUAL-LEAD NOTE: catch the signature hero beat as a world shot — NO figure; crystals blooming across the whole chamber in resonance, refracted light everywhere, the glowing seed-crystal ringing on the dais at the centre of the singing geode.
 
-FOOTWEAR: the concept-locked pale-grey suede boots with the faceted crystal heel, planted on the dais, established and unchanged.
 
-ACCESSORIES: the raw-crystal cuff on the wrist and the quartz-drop earring, unchanged, both prismatically lit.
 
-HAIR: the sleek low knot, continuity-locked, crown catching prismatic rim, color locked.
 
-MAKEUP: the cool luminous glow, continuity-locked, prism washing across the cheekbones, real pores.
 
-EYE COLOUR: iris exactly as referenced; the locked dual catchlight — crystal-white low, amethyst high — vivid as her eyes rest on the blooming walls; the eyes never glitch.
 
-HANDS & NAILS: both hands open and lifted a little from her sides, palms up, conducting the resonance; short almond neutral-gloss nails, neat cuticles.
 
-FACIAL MICRO-DYNAMICS: serene power, eyes softly tracking the blooming walls, lips closed in a steady hum, a calm centred stillness, the faintest awed ease.
 
-BODY POSTURE & WEIGHT: GAZE forward, lifted with the resonance; HEAD chin a touch lifted; SHOULDERS opening; RIGHT ARM and LEFT ARM both open and lifted a little from her sides palms-up conducting the resonance, BOTH HANDS open, RIGHT and LEFT FINGERS softly spread; TORSO lengthening, square-ish; WAIST & HIPS even and grounded; RIGHT LEG and LEFT LEG grounded even; FEET & WEIGHT centred even; HAIR lifting a touch — radiant and alive (living stillness).
 
-KINETIC STILLNESS (8 layers): (1) crystals blooming and branching across the chamber walls; (2) refracted light multiplying through the new facets; (3) a temple strand drifting; (4) dust-motes brightening in the light; (5) chest holding steady on the hum; (6) prismatic specular sliding across the cuff; (7) gown fold-shadow micro-shift; (8) a slow blink.
 
-MICRO-MAGIC (END keyframe): luminous crystal formations blooming across the whole chamber in resonance with her hum — the single phenomenon at its grandest scale, the geode singing into a cathedral of light.
+KINETIC STILLNESS (environmental, 6 layers): (1) crystals blooming and branching across the chamber walls; (2) refracted light multiplying through the new facets; (3) dust-motes brightening in the light; (4) the seed-crystal pulsing faintly on the dais with its resonant tone; (5) prismatic speculars sliding across the growing clusters; (6) a faint warm core-glow breathing deep in the geode.
 
-SPATIAL LOGIC: FOREGROUND — a near blooming crystal at ≈20% depth, soft. MIDGROUND — Aira centred on the dais. BACKGROUND — the blooming walls receding into glowing violet, faint core-glow. Premium editorial finish — rich clean colour and luminous mid-tones, deep-but-clean blacks, cinematic lighting with soft rim separation and high dynamic range, layered foreground-to-background depth, elevated material realism, immaculately clean and never dull or faded, natural true skin preserved.
+MICRO-MAGIC (END keyframe): luminous crystal formations blooming across the whole chamber in resonance with the ringing seed-crystal — the single phenomenon at its grandest scale, the geode singing into a cathedral of light.
+
+SPATIAL LOGIC: FOREGROUND — a near blooming crystal cluster at ≈15% depth, tack sharp. MIDGROUND — the low stone dais with the glowing seed-crystal at the chamber's heart. BACKGROUND — the blooming geode walls receding into glowing violet with true atmospheric depth, a faint warm core-glow deep beyond. Premium editorial finish — rich clean colour and luminous mid-tones, deep-but-clean blacks, cinematic lighting with soft rim separation and high dynamic range, layered foreground-to-background depth, elevated material realism, immaculately clean and never dull or faded, natural true skin preserved.
 
 LIGHTING: KEY — the blooming chamber as live prismatic wrap-light. FILL — faint warm core-bounce. RIM — prismatic edge. SEPARATION — deep chamber. BOUNCE — prism kicks across her and the dais. Premium editorial finish — rich clean colour and luminous mid-tones, deep-but-clean blacks, cinematic lighting with soft rim separation and high dynamic range, layered foreground-to-background depth, elevated material realism, immaculately clean and never dull or faded, natural true skin preserved.
 
-FRAMING: ASPECT 9:16; wider medium, knees-up, 12% headroom, the blooming chamber filling the field, Aira anchored centre.
-SUBJECT FRAMING & POSITION: A wider medium framing holds Aira at about 12% headroom, knees-up, the blooming chamber filling the field, Aira anchored centre. She is standing tall and square-ish at the centre, torso with a 3° open to camera, chin level, weight even and grounded, spine long and serene. The camera holds a wide distance, Aira the sharp central figure of the Crystal Resonance Chamber scene, centred in frame. She faces front to the lens. Both hands open and lifted a little from her sides palms-up, conducting the resonance, the chest opening and weight centred even. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+FRAMING: ASPECT 9:16; PURE ENVIRONMENT WIDE — no subject; a wide of the whole geode chamber blooming crystal, luminous formations rising from every wall and the glowing seed-crystal small on the dais at the centre.
+WORLD FRAMING & POSITION: A pure environment wide with NO person in frame — the vast geode chamber reads full and deep as crystal blooms across every wall into a cathedral of light, the low dais with its ringing seed-crystal anchoring the centre, refracted light filling the space. The world is the sole subject. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
-LENS + DOF + BOKEH: 35mm, f/2.5; moderate DOF keeping her sharp while the farthest crystals soften into luminous violet bokeh; controlled prismatic bloom; gentle roll-off.
+LENS + DOF + BOKEH: 24mm wide, f/4; deep focus holding the seed-crystal, the dais and the blooming chamber walls crisp across the depth; only the nearest crystal softening; controlled prismatic bloom; gentle roll-off.
 
 COMPOSITION REFERENCE: the signature hero beat — maker and her singing geode (identity-through-resonance).
 
@@ -3358,43 +3351,43 @@ ATMOSPHERE: awed, mineral, serene — a cavern bloomed into a cathedral by her v
 
 COLOR GRADE: cool cavern-violet with prismatic crystal-white and faint warm core, rich blacks, clean whites, controlled bloom. Premium editorial grade — rich clean colour, luminous mid-tones, deep-but-clean blacks, controlled elegant saturation, no faded or muddy tones, natural true skin preserved.
 
-TEXTURE & MICRO-DETAIL: every crystal faceted and real with internal refraction; the dais stone rough; the gown faceted; skin micro-texture calm and real, prism-washed.
+TEXTURE & MICRO-DETAIL: every crystal faceted and real with internal refraction; the dais stone rough and mineral; the seed-crystal glass-clear and glowing; dust-motes fine in the prismatic light.
 
-STORY BEAT: the singing cathedral — her hum blooms crystal across the whole geode, serene and grounded at the centre of a chamber that sings back.
+STORY BEAT: the singing cathedral — a resonant tone blooms crystal across the whole geode from the seed on the dais, the chamber singing into light, unpeopled and alive.
 
 NEGATIVE: mirrored, flipped, inverted, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, over-smoothed skin, oversharpened, AI artifacts, watermarks, deformed hands, joint cuts, off-axis pupils, melted clothing, mismatched footwear, mannequin posture, dead eyes, statue energy, glitching or colour-shifting eyes, crushed blacks, garish oversaturation, flat light, smooth blob crystals, body levitation.
 
 ## Frame 3 of 6 — VIDEO PROMPT
 STRICT COLOUR & RENDER MANDATE (must be followed exactly; this governs render QUALITY only and must NOT change the composition, camera, lens, framing, wardrobe, action or identity specified above): render the colours already specified at their richest, freshest, cleanest and most premium — crisp, vivid and luminous with elegant, controlled saturation; never dull, faded, washed-out, muddy, grey or flat. Hold deep-but-clean blacks, luminous full mid-tones and beautiful highlight roll-off with high dynamic range and no blown highlights. Wherever sky is visible, render it richly graded and cinematic — never empty, white or overexposed. Wherever water is visible, render it crystal-clear with deep sea-blue and turquoise gradients, clean caustics and sparkling reflections — never grey or murky (unless the concept explicitly specifies dark / ink / obsidian water, which stays deep, glassy and clean). Protect natural, true skin tone; never push saturation onto the face. Keep the image immaculately clean and premium with clear figure-to-ground separation so the hero reads first; honour the concept's intended dominant surface and full-frame coverage, and do NOT reveal unwanted structural edges, seams, side-walls or empty dead space that break the intended composition. Photoreal, award-winning editorial finish — no AI artifacts, plastic or waxy skin, dead eyes, malformed hands or unfinished backgrounds.
 
-IDENTITY (locked): Aira — same person every frame; face, bone structure, eye shape + colour, nose, lips, skin texture and hair strictly locked to reference; ONLY expression, gaze and head move; no identity drift, no face/anatomy warp, no second or duplicate person.
+NO SUBJECT (locked): this is a pure-environment frame — no person, no figure, no silhouette, no body, hands or face appear; render the world and its objects only. Identity lock is N/A because Aira is absent from this shot.
 
-SHOT TYPE: wider medium, knees-up, subject ≈45% of frame amid the blooming chamber.
+SHOT TYPE: PURE ENVIRONMENT WIDE — no subject in frame; the whole geode chamber blooming crystal and the glowing seed-crystal on the dais.
 
-LENS: 35mm, f/2.5.
+LENS: 24mm wide, f/4, deep focus holding the chamber's full depth.
 
-SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] wider medium, knees-up, subject ≈45% of frame amid the blooming chamber: a slow rise (crane-like) lifting as the walls bloom is already underway — the bloom is already spreading to the near walls so the scale lands instantly.
-- [00:02–00:04] crystals grow and branch across the whole chamber in resonance, light multiplying.
-- [00:04–00:06] she lifts both palms, conducting, the geode blooming fuller; she holds serene at the centre as the chamber settles into full bloom.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous natural motion — never slow-motion, never a static hold; NO person in frame):
+- [00:00–00:02] PURE ENVIRONMENT WIDE, no subject: a slow rise (crane-like) is already underway as the walls bloom, the crystal already spreading to the near walls so the scale lands instantly, near facets sliding past faster than the far walls in real parallax.
+- [00:02–00:04] crystals grow and branch across the whole chamber in resonance with the ringing seed-crystal, refracted light multiplying through the deserted geode.
+- [00:04–00:06] the geode settles into full bloom, a cathedral of crystal light; a final gentle settle, the seed-crystal ringing on at the centre.
 
-PHYSICS: the crystals grow with believable accreting geometry across the walls at a steady tone-driven rate, clean and crystalline; her grounded body, the dais obey gravity; dust drifts and brightens.
+PHYSICS: the crystals grow with believable accreting geometry across the walls at a steady tone-driven rate, clean and crystalline; the dais and seed-crystal stay weighted; dust drifts and brightens in the light.
 
 MICRO-MAGIC: one sustained beat — the whole chamber blooming crystal in resonance.
 
-CONTINUITY: boots, cuff, earring, wardrobe, knot, makeup, dual catchlight unchanged.
+CONTINUITY: the geode chamber, dais, seed-crystal and bloomed clusters identical to the surrounding frames; the world holds continuity while the subject is simply absent from this shot.
 
-AUDIO: diegetic only. Ambient — cavern resonance under. SFX — a swelling crystalline chime-bloom across the chamber at 0:01.0 and 0:02.6, harmonic rings layering. Reaction — her sustained wordless hum swelling fuller. Master — the resonance-bowl-and-pad bed at its gentle peak (present, never full). VO — none (wordless hum only).
+AUDIO: diegetic only. Ambient — cavern resonance under. SFX — a swelling crystalline chime-bloom across the chamber at 0:01.0 and 0:02.6, harmonic rings layering; a sustained resonant tone ringing from the seed-crystal. Master — the resonance-bowl-and-pad bed at its gentle peak (present, never full). VO — none (no person present).
 
 DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
 FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
-LIP-SYNC: none — lips closed on a fuller hum, no words.
+LIP-SYNC: N/A — no person, mouth or voice in this pure-environment frame.
 
-FACIAL CONSISTENCY / IDENTITY LOCK: hold the Aira reference exactly; locked catchlight only, iris unchanged, zero drift, eyes never glitch; keyframe-lock identity through the blooming light.
+FACIAL CONSISTENCY / IDENTITY LOCK: N/A — no person, face or eyes in this pure-environment frame.
 
-NEGATIVE: identity drift, face or hand warp, extra or fused fingers, duplicate person, mirrored/flipped frame, slow-motion, watermark.
+NEGATIVE: any person, figure, human silhouette, body, hands or face; identity drift; mirrored/flipped frame; slow-motion; watermark; empty white or flat background; blown highlights; plasticky CGI.
 
 ## Frame 4 of 6 — IMAGE PROMPT
 STRICT COLOUR & RENDER MANDATE (must be followed exactly; this governs render QUALITY only and must NOT change the composition, camera, lens, framing, wardrobe, action or identity specified above): render the colours already specified at their richest, freshest, cleanest and most premium — crisp, vivid and luminous with elegant, controlled saturation; never dull, faded, washed-out, muddy, grey or flat. Hold deep-but-clean blacks, luminous full mid-tones and beautiful highlight roll-off with high dynamic range and no blown highlights. Wherever sky is visible, render it richly graded and cinematic — never empty, white or overexposed. Wherever water is visible, render it crystal-clear with deep sea-blue and turquoise gradients, clean caustics and sparkling reflections — never grey or murky (unless the concept explicitly specifies dark / ink / obsidian water, which stays deep, glassy and clean). Protect natural, true skin tone; never push saturation onto the face. Keep the image immaculately clean and premium with clear figure-to-ground separation so the hero reads first; honour the concept's intended dominant surface and full-frame coverage, and do NOT reveal unwanted structural edges, seams, side-walls or empty dead space that break the intended composition. Photoreal, award-winning editorial finish — no AI artifacts, plastic or waxy skin, dead eyes, malformed hands or unfinished backgrounds.
