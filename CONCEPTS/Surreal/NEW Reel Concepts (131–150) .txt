@@ -6685,14 +6685,14 @@ KINETIC STILLNESS (8 layers): (1) a soft strand drifting slow at the temple; (2)
 
 MICRO-MAGIC (cue only): on the nearest pane a single frost-flower has begun to etch itself faintly, then paused — deniable, the first whisper that frost will bloom at her breath.
 
-SPATIAL LOGIC: FOREGROUND — the bell-jar in her hands at ≈20% depth, tack sharp. MIDGROUND — Aira among the benches. BACKGROUND — the frosted panes, potted plants, the warm far lamp, no clutter. Premium editorial finish — rich clean colour and luminous mid-tones, deep-but-clean blacks, cinematic lighting with soft rim separation and high dynamic range, layered foreground-to-background depth, elevated material realism, immaculately clean and never dull or faded, natural true skin preserved.
+SPATIAL LOGIC: FOREGROUND — a near frost-etched pane and bench-edge at ≈12% depth, tack sharp, establishing the near plane. MIDGROUND — the glasshouse benches with Aira small among them, the bell-jar a small glint in her hands. BACKGROUND — the long rows of pale frosted panes and potted plants receding into cold haze with true atmospheric perspective (nearer panes sharp, far ones softer), the warm amber lamp glowing far beyond. Premium editorial finish — rich clean colour and luminous mid-tones, deep-but-clean blacks, cinematic lighting with soft rim separation and high dynamic range, layered foreground-to-background depth, elevated material realism, immaculately clean and never dull or faded, natural true skin preserved.
 
 LIGHTING: KEY — cool dusk light through the panes as a soft wrapping key from frame-left. FILL — a warm lamp bounce lifting the shadow side. RIM — cool light skimming her crown and one shoulder. PRACTICAL — the far lamp and the pale panes. SEPARATION — the glasshouse pulled deep so she reads ≈1.5 stops up. BOUNCE — a faint silver kick off the bell-jar. Premium editorial finish — rich clean colour and luminous mid-tones, deep-but-clean blacks, cinematic lighting with soft rim separation and high dynamic range, layered foreground-to-background depth, elevated material realism, immaculately clean and never dull or faded, natural true skin preserved. Sky richly graded and cinematic with elegant clouds and premium light, never flat or empty.
 
-FRAMING: ASPECT 9:16; medium, chest-up to the jar, 12% headroom, the jar entering the lower third, clean negative space above to receive the frost-bloom that arrives later.
-SUBJECT FRAMING & POSITION: A medium framing holds Aira at about 12% headroom, chest-up to the jar, the jar entering the lower third, clean negative space above to receive the frost-bloom that arrives later. She is standing three-quarter to camera among the benches, spine long and easy, weight settled even with a soft 2° lean toward the jar, front shoulder dropped a touch, chin level, alive and breathing. The camera holds a mid distance, Aira the sharp central figure of the Time-Frost Greenhouse scene, with the glow arcing the upper frame above her. She faces front to the lens. Three-quarter to camera, both hands cradle the frost-etched glass bell-jar at chest height, weight settled with a soft counter-tilt. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+FRAMING: ASPECT 9:16; TRUE ESTABLISHING WIDE — full-figure and beyond, Aira small at ≈18% of frame among the glasshouse benches while the long rows of frosted panes and the great glasshouse arch far above and around her; the glasshouse dwarfs the human, deep negative space holding the pale panes.
+SUBJECT FRAMING & POSITION: A true wide establishing framing holds Aira SMALL — about 18% of frame height — standing among the benches of the winter glasshouse, the long rows of pale frosted panes stretching away and the great glass roof arching far above so she reads as a lone figure dwarfed by the glasshouse; she is the scale-anchor that makes the space read as truly vast. She stands three-quarter to camera among the benches, spine long and easy, weight settled even with a soft 2° lean, front shoulder dropped a touch, chin level, the frost-etched bell-jar a small glint cradled in her hands. The camera holds a wide, lifted distance, Aira the small sharp human anchor of the Time-Frost Greenhouse scene while the glasshouse is the dominant subject. She faces three-quarter to the lens. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
-LENS + DOF + BOKEH: 35mm, f/2.2; focus split between her lowered near eye and the bell-jar so both read crisp; the glasshouse melting to soft blue-and-amber bokeh; frost-motes as fine floating points; gentle highlight roll-off, no clipping.
+LENS + DOF + BOKEH: 24mm wide, f/4; deep focus holding Aira, the benches and the far frosted panes all crisp for the establishing scale; only the nearest frost-motes softening; gentle highlight roll-off, no clipping.
 
 COMPOSITION REFERENCE: cool cinematic establishing hero — keeper of winter, one impossible cue building (BA.3 cause building to effect).
 
@@ -6711,14 +6711,14 @@ STRICT COLOUR & RENDER MANDATE (must be followed exactly; this governs render QU
 
 IDENTITY (locked): Aira — same person every frame; face, bone structure, eye shape + colour, nose, lips, skin texture and hair strictly locked to reference; ONLY expression, gaze and head move; no identity drift, no face/anatomy warp, no second or duplicate person.
 
-SHOT TYPE: medium, chest-up to the jar, subject fills ≈50% of the vertical frame.
+SHOT TYPE: TRUE ESTABLISHING WIDE — high and pulled back, Aira small at ≈18% of the vertical frame while the long winter glasshouse dominates.
 
-LENS: 35mm, f/2.2, smooth blue-and-amber background fall-off.
+LENS: 24mm wide, f/4, deep focus holding the whole scale of the glasshouse.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] medium, chest-up to the jar, subject fills ≈50% of the vertical frame: a single slow 8% push-in across the clip is already underway — hold the still tableau, panes pale, the bell-jar cradled in her hands.
-- [00:02–00:04] a single frost-flower etches faint on the nearest pane, then pauses; Aira's chest rises on a slow steady breath, her hold on the jar settling.
-- [00:04–00:06] she lifts the jar toward the pane, the icicle earring hanging still; she draws a soft breath toward the glass, the clip holding just before the frost blooms.
+- [00:00–00:02] TRUE ESTABLISHING WIDE, Aira small at ≈18% among the benches: a slow weighty crane-up-and-back is already underway, lifting to reveal the long glasshouse of pale frosted panes arching over her — the glasshouse reads vast, she reads human; parallax slides the near benches faster than the far panes for real 3D depth.
+- [00:02–00:04] the crane drifts on down the rows; the pale panes stretch away into cold haze, the warm amber lamp glowing far off, the far glasshouse hazier with atmospheric perspective.
+- [00:04–00:06] the move settles wide and high; at the tiny figure a single frost-flower etches faint on the nearest pane as her chest rises on a slow steady breath — the lone keeper poised in the vast winter glasshouse.
 
 PHYSICS: the glasshouse air is still — frost-motes and a strand drift slow; the frost-flower etches with believable crystalline growth; her body, the jar obey normal gravity.
 
@@ -6825,42 +6825,35 @@ NEGATIVE: identity drift, face or hand warp, extra or fused fingers, duplicate p
 ## Frame 3 of 7 — IMAGE PROMPT
 STRICT COLOUR & RENDER MANDATE (must be followed exactly; this governs render QUALITY only and must NOT change the composition, camera, lens, framing, wardrobe, action or identity specified above): render the colours already specified at their richest, freshest, cleanest and most premium — crisp, vivid and luminous with elegant, controlled saturation; never dull, faded, washed-out, muddy, grey or flat. Hold deep-but-clean blacks, luminous full mid-tones and beautiful highlight roll-off with high dynamic range and no blown highlights. Wherever sky is visible, render it richly graded and cinematic — never empty, white or overexposed. Wherever water is visible, render it crystal-clear with deep sea-blue and turquoise gradients, clean caustics and sparkling reflections — never grey or murky (unless the concept explicitly specifies dark / ink / obsidian water, which stays deep, glassy and clean). Protect natural, true skin tone; never push saturation onto the face. Keep the image immaculately clean and premium with clear figure-to-ground separation so the hero reads first; honour the concept's intended dominant surface and full-frame coverage, and do NOT reveal unwanted structural edges, seams, side-walls or empty dead space that break the intended composition. Photoreal, award-winning editorial finish — no AI artifacts, plastic or waxy skin, dead eyes, malformed hands or unfinished backgrounds.
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: continuity-locked resolution of the frost — the nearest panes and plants now fully frost-bloomed in fine crystal; face clear and wondering at its centre. This is the hero beat.
+IDENTITY LOCK: N/A — no person in this frame (pure environment); no reference sheet applies.
 
-SCENE NOTE: winter in full bloom. The panes and the potted plants around Aira have frost-bloomed completely — crystalline flowers covering the glass and silvering the leaves in fine frost; she stands among it, cool and awed, the keeper who breathed a winter into bloom.
+PURE ENVIRONMENT — NO SUBJECT IN FRAME: this is a world-only shot; Aira does NOT appear (no person, no figure, no silhouette, no body, no hands). Render only the environment, its objects and the magic cue. Disregard any subject/wardrobe/pose wording elsewhere.
 
-VISUAL-LEAD NOTE: catch the signature hero beat — fully frost-bloomed panes and frost-silvered plants around her, Aira among them with the bell-jar, the warm lamp glowing far beyond.
+SCENE NOTE: winter in full bloom, the glasshouse empty of any person. The panes and potted plants have frost-bloomed completely — crystalline frost-flowers covering the glass and silvering the leaves in fine frost, a faint cold breath-mist still drifting between the benches as the last trace; no figure present, a winter blooming through the glasshouse on its own.
 
-WARDROBE: the frost-white coat, continuity-locked, washed in cool frost with a warm amber edge, fully modest.
+VISUAL-LEAD NOTE: catch the signature hero beat as a world shot — NO figure; fully frost-bloomed panes and frost-silvered plants filling the glasshouse, a drifting cold-mist between the benches, the warm lamp glowing far beyond.
 
-FOOTWEAR: the concept-locked white snow boots with the silver lace-hooks, planted on the floor, established and unchanged.
 
-ACCESSORIES: the frosted-glass-bead bracelet on the lifted hand and the icicle earring, unchanged, both glinting.
 
-HAIR: the soft low chignon with the frost-pin, continuity-locked, crown catching cool rim, color locked.
 
-MAKEUP: the cool frost glow, continuity-locked, frost-white washing across the cheekbones with a warm amber edge, real pores.
 
-EYE COLOUR: iris exactly as referenced; the locked dual catchlight — frost-blue low, hearth-amber high — vivid as her eyes move across the frost; the eyes never glitch.
 
-HANDS & NAILS: the bell-jar held aloft in one hand, the other open among the frost-silvered leaves; short almond neutral-gloss nails, neat cuticles.
 
-FACIAL MICRO-DYNAMICS: cool awe, eyes moving across the frost-bloom, lips parted in a soft breath, a quiet magic, the faintest ease at the outer eye.
 
-BODY POSTURE & WEIGHT: GAZE among the frost-silvered leaves; HEAD chin lifted; SHOULDERS opening; RIGHT ARM holding the bell-jar aloft, the RIGHT HAND raised, RIGHT FINGERS easy; LEFT ARM open among the frost-silvered leaves, the LEFT HAND open, LEFT FINGERS softly spread; TORSO lengthening, square-ish; WAIST & HIPS even and grounded; RIGHT LEG and LEFT LEG grounded even; FEET & WEIGHT centred even; HAIR lifting a touch — wondering and alive (living stillness).
 
-KINETIC STILLNESS (8 layers): (1) the frost-flowers glinting across the panes; (2) the frost-silvered leaves shimmering faint; (3) a temple strand drifting; (4) frost-motes; (5) chest on a slow breath; (6) silver specular fading on the bell-jar; (7) coat fold-shadow micro-shift; (8) a slow blink.
 
-MICRO-MAGIC (END keyframe): the panes and plants fully frost-bloomed in fine crystal around her — the single phenomenon at its fullest, a winter breathed into bloom.
+KINETIC STILLNESS (environmental, 6 layers): (1) the frost-flowers glinting across the panes; (2) the frost-silvered leaves shimmering faint; (3) a cold breath-mist drifting slow between the benches; (4) fine frost-motes settling in the air; (5) silver speculars sliding across the crystal; (6) the far amber lamp breathing warm through the frost.
 
-SPATIAL LOGIC: FOREGROUND — a near frost-silvered leaf at ≈18% depth, soft. MIDGROUND — the frost-bloom and her face. BACKGROUND — the benches and the warm far lamp. Premium editorial finish — rich clean colour and luminous mid-tones, deep-but-clean blacks, cinematic lighting with soft rim separation and high dynamic range, layered foreground-to-background depth, elevated material realism, immaculately clean and never dull or faded, natural true skin preserved. Greenery lush and healthy with premium landscaping.
+MICRO-MAGIC (END keyframe): the panes and plants fully frost-bloomed in fine crystal through the glasshouse — the single phenomenon at its fullest, a winter breathed into bloom.
+
+SPATIAL LOGIC: FOREGROUND — a near frost-silvered leaf and a frost-etched pane at ≈15% depth, tack sharp. MIDGROUND — the frost-bloomed benches of silvered plants. BACKGROUND — the long glasshouse of frosted panes receding into cold haze with true atmospheric depth, the warm amber lamp glowing far beyond. Premium editorial finish — rich clean colour and luminous mid-tones, deep-but-clean blacks, cinematic lighting with soft rim separation and high dynamic range, layered foreground-to-background depth, elevated material realism, immaculately clean and never dull or faded, natural true skin preserved. Greenery lush and healthy with premium landscaping.
 
 LIGHTING: KEY — cool dusk plus the frost as a faint live silver source. FILL — warm lamp bounce. RIM — cool light. SEPARATION — deep glasshouse. BOUNCE — silver kick tracking the bell-jar. Premium editorial finish — rich clean colour and luminous mid-tones, deep-but-clean blacks, cinematic lighting with soft rim separation and high dynamic range, layered foreground-to-background depth, elevated material realism, immaculately clean and never dull or faded, natural true skin preserved. Sky richly graded and cinematic with elegant clouds and premium light, never flat or empty.
 
-FRAMING: ASPECT 9:16; medium, chest-up, 12% headroom, the frost-bloom filling around her into the negative space, Aira's face centre.
-SUBJECT FRAMING & POSITION: A medium framing holds Aira at about 12% headroom, chest-up, the frost-bloom filling around her into the negative space, Aira's face centre. She is standing tall among the benches, torso opening toward the frost, chin level, weight even, spine long. The camera holds a mid distance, Aira the sharp central figure of the Time-Frost Greenhouse scene, with the scene massing around her. She is turned a few degrees into the moment. The bell-jar held aloft in one hand while the other opens among the frost-silvered leaves, the chest opening and weight centred even. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+FRAMING: ASPECT 9:16; PURE ENVIRONMENT WIDE — no subject; a wide down the long glasshouse, frost-bloomed panes and frost-silvered benches filling the frame with a drifting cold-mist and the warm lamp glowing far beyond.
+WORLD FRAMING & POSITION: A pure environment wide with NO person in frame — the glasshouse reads full and deep, crystalline frost-flowers covering every pane and silvering the potted plants down the long benches, a cold breath-mist drifting between them, the warm amber lamp glowing at the far end. The world is the sole subject. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
-LENS + DOF + BOKEH: 50mm, f/2.2; moderate DOF keeping her sharp while the frost softens; controlled silver glint; gentle roll-off.
+LENS + DOF + BOKEH: 24mm wide, f/4; deep focus holding the near frost, the benches and the far lamp crisp down the glasshouse; only the farthest mist softening; controlled silver glint; gentle roll-off.
 
 COMPOSITION REFERENCE: the signature hero beat — keeper who breathed a winter (identity-through-motion).
 
@@ -6868,43 +6861,43 @@ ATMOSPHERE: cool, awed, magical — a glasshouse breathed full of frost. Premium
 
 COLOR GRADE: deep winter-blue with cool frost-white and warm hearth-amber accent, rich blacks, clean whites, controlled glow. Premium editorial grade — rich clean colour, luminous mid-tones, deep-but-clean blacks, controlled elegant saturation, no faded or muddy tones, natural true skin preserved.
 
-TEXTURE & MICRO-DETAIL: the frost reads as real crystalline frost-flowers across the glass and silvering the leaves; the floor grained; skin micro-texture calm and real.
+TEXTURE & MICRO-DETAIL: the frost reads as real crystalline frost-flowers across the glass and silvering the leaves; the bench timber grained; the panes cold and clear; frost-motes fine in the air.
 
-STORY BEAT: the bloomed winter — the panes and plants frost over completely, cool and awed, a winter breathed into bloom.
+STORY BEAT: the bloomed winter — the panes and plants frost over completely down the glasshouse, cold and still and unpeopled, a winter breathed into bloom.
 
 NEGATIVE: mirrored, flipped, inverted, extra limbs, fused fingers, melted features, asymmetric eyes, garbled text, floating shadows, duplicated subjects, plastic skin, over-smoothed skin, oversharpened, AI artifacts, watermarks, deformed hands, joint cuts, off-axis pupils, melted clothing, mismatched footwear, mannequin posture, dead eyes, statue energy, glitching or colour-shifting eyes, crushed blacks, garish oversaturation, flat light, body levitation, smooth featureless frost.
 
 ## Frame 3 of 7 — VIDEO PROMPT
 STRICT COLOUR & RENDER MANDATE (must be followed exactly; this governs render QUALITY only and must NOT change the composition, camera, lens, framing, wardrobe, action or identity specified above): render the colours already specified at their richest, freshest, cleanest and most premium — crisp, vivid and luminous with elegant, controlled saturation; never dull, faded, washed-out, muddy, grey or flat. Hold deep-but-clean blacks, luminous full mid-tones and beautiful highlight roll-off with high dynamic range and no blown highlights. Wherever sky is visible, render it richly graded and cinematic — never empty, white or overexposed. Wherever water is visible, render it crystal-clear with deep sea-blue and turquoise gradients, clean caustics and sparkling reflections — never grey or murky (unless the concept explicitly specifies dark / ink / obsidian water, which stays deep, glassy and clean). Protect natural, true skin tone; never push saturation onto the face. Keep the image immaculately clean and premium with clear figure-to-ground separation so the hero reads first; honour the concept's intended dominant surface and full-frame coverage, and do NOT reveal unwanted structural edges, seams, side-walls or empty dead space that break the intended composition. Photoreal, award-winning editorial finish — no AI artifacts, plastic or waxy skin, dead eyes, malformed hands or unfinished backgrounds.
 
-IDENTITY (locked): Aira — same person every frame; face, bone structure, eye shape + colour, nose, lips, skin texture and hair strictly locked to reference; ONLY expression, gaze and head move; no identity drift, no face/anatomy warp, no second or duplicate person.
+NO SUBJECT (locked): this is a pure-environment frame — no person, no figure, no silhouette, no body, hands or face appear; render the world and its objects only. Identity lock is N/A because Aira is absent from this shot.
 
-SHOT TYPE: medium, chest-up, subject and frost-bloom fill ≈56% of the frame.
+SHOT TYPE: PURE ENVIRONMENT WIDE — no subject in frame; the long frost-bloomed glasshouse, frosted panes and silvered benches with the warm far lamp.
 
-LENS: 50mm, f/2.2.
+LENS: 24mm wide, f/4, deep focus holding the glasshouse's full depth.
 
-SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] medium, chest-up, subject and frost-bloom fill ≈56% of the frame: a slow drift around her is already underway — opens as the frost-bloom fills the panes around her so the signature image lands instantly.
-- [00:02–00:04] the frost finishes blooming across glass and leaves.
-- [00:04–00:06] Aira's eyes move across it, a soft awed breath; the frost settles glinting, she gazes cool and wondering.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous natural motion — never slow-motion, never a static hold; NO person in frame):
+- [00:00–00:02] PURE ENVIRONMENT WIDE, no subject: a slow drift down the glasshouse is already underway, the frost already blooming across the near panes so the signature image lands instantly, near frost sliding past faster than the far lamp in real parallax.
+- [00:02–00:04] the frost finishes blooming across glass and leaves down the benches, a cold breath-mist drifting through the empty glasshouse.
+- [00:04–00:06] the frost settles glinting across every pane; a gentle settle, the warm lamp glowing steady far beyond.
 
-PHYSICS: the frost completes with believable crystalline growth, glinting, exerting no force; her grounded body obeys gravity; frost-motes drift.
+PHYSICS: the frost completes with believable crystalline growth across glass and leaves, glinting and exerting no force; the benches and panes stay weighted; a cold breath-mist and frost-motes drift.
 
 MICRO-MAGIC: one beat — the frost-bloom completing across the glasshouse.
 
-CONTINUITY: boots, bracelet, earring, wardrobe, chignon, makeup, dual catchlight unchanged.
+CONTINUITY: the glasshouse, benches, frosted panes and far lamp identical to the surrounding frames; the world holds continuity while the subject is simply absent from this shot.
 
-AUDIO: diegetic only. Ambient — glasshouse hush and lamp hum under. SFX — a soft chorus of frost-crackle as the bloom completes at 0:00.8, a faint crystalline shimmer at 0:02.4. Reaction — a soft awed breath at 0:03.0. Master — the celesta-and-strings bed at gentle swell (present, never full). VO — none.
+AUDIO: diegetic only. Ambient — glasshouse hush and lamp hum under. SFX — a soft chorus of frost-crackle as the bloom completes at 0:00.8, a faint crystalline shimmer at 0:02.4. Master — the celesta-and-strings bed at gentle swell (present, never full). VO — none this frame (no person present).
 
 DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
 FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
-LIP-SYNC: none — a soft awed breath.
+LIP-SYNC: N/A — no person, mouth or voice in this pure-environment frame.
 
-FACIAL CONSISTENCY / IDENTITY LOCK: hold the Aira reference exactly; locked catchlight only, iris unchanged, zero drift, eyes never glitch; keyframe-lock identity through the silver glint.
+FACIAL CONSISTENCY / IDENTITY LOCK: N/A — no person, face or eyes in this pure-environment frame.
 
-NEGATIVE: identity drift, face or hand warp, extra or fused fingers, duplicate person, mirrored/flipped frame, slow-motion, watermark.
+NEGATIVE: any person, figure, human silhouette, body, hands or face; identity drift; mirrored/flipped frame; slow-motion; watermark; empty white or flat background; blown highlights; plasticky CGI.
 
 ## Frame 4 of 7 — IMAGE PROMPT
 STRICT COLOUR & RENDER MANDATE (must be followed exactly; this governs render QUALITY only and must NOT change the composition, camera, lens, framing, wardrobe, action or identity specified above): render the colours already specified at their richest, freshest, cleanest and most premium — crisp, vivid and luminous with elegant, controlled saturation; never dull, faded, washed-out, muddy, grey or flat. Hold deep-but-clean blacks, luminous full mid-tones and beautiful highlight roll-off with high dynamic range and no blown highlights. Wherever sky is visible, render it richly graded and cinematic — never empty, white or overexposed. Wherever water is visible, render it crystal-clear with deep sea-blue and turquoise gradients, clean caustics and sparkling reflections — never grey or murky (unless the concept explicitly specifies dark / ink / obsidian water, which stays deep, glassy and clean). Protect natural, true skin tone; never push saturation onto the face. Keep the image immaculately clean and premium with clear figure-to-ground separation so the hero reads first; honour the concept's intended dominant surface and full-frame coverage, and do NOT reveal unwanted structural edges, seams, side-walls or empty dead space that break the intended composition. Photoreal, award-winning editorial finish — no AI artifacts, plastic or waxy skin, dead eyes, malformed hands or unfinished backgrounds.
