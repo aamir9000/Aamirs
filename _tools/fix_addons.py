@@ -24,6 +24,8 @@ SKY_WATERLIGHT = "The water-light rendered richly graded and luminous with premi
 WATER = "Water rendered crystal-clear in rich sea-blue and turquoise gradients, with beautiful caustics and clean sparkling reflections."
 LIQUID_NEUTRAL = "Any liquid rendered clean, clear and premium — true to its own material and real colour."
 
+GREEN = "Greenery lush and healthy with premium landscaping."
+
 SPACE = re.compile(r"\b(nebula|deep space|outer space|cosmos|cosmic|galaxy|galactic|starfield|star-field|zero-?gravity|orbit|orbital|space station|among the stars|celestial|interstellar|astral)\b", re.I)
 UNDER = re.compile(r"\b(underwater|aquarium|submerged|beneath the surface|under the sea|ocean floor|seabed|coral reef|deep-sea|sub-aqua|kelp|abyss)\b", re.I)
 INDOOR = re.compile(r"\b(elevator|lift lobby|lobby|dressing room|bathroom|kitchen|corridor|hallway|tunnel|interior|indoors?|windowless|vault|chamber|cabin interior|inside the)\b", re.I)
@@ -44,6 +46,9 @@ def fix_line(line):
     if WATER in line:
         if NONSEA.search(line) and not REALSEA.search(line):
             line = line.replace(WATER, LIQUID_NEUTRAL); changed = True
+    if GREEN in line:
+        if SPACE.search(line) or UNDER.search(line):     # no landscaping in space / underwater
+            line = line.replace(" " + GREEN, "").replace(GREEN, ""); changed = True
     return line, changed
 
 def main():
