@@ -585,7 +585,7 @@ Texture: glossy, bouncy and warm — round low end, bubbly mids and a sparkling 
 
 Mix rule: the external music sits low and subtle under the in-video ambient and SFX — it supports the visuals and never overpowers the gloopy blob-wobbles, resin clacks or shimmer accents; it never becomes a full foreground track; absolutely no vocal or spoken element at any point.
 
-Loop: the final bar of F7 resolves cleanly onto the downbeat of F1 for a perfect 30-second loop with no audible seam.
+Loop: the final bar of F7 resolves cleanly onto the downbeat of F1 for a perfect seamless loop with no audible seam.
 
 ---
 
@@ -1095,4 +1095,4 @@ Texture: electric, glossy and propulsive — deep saw low end, gritty charged mi
 
 Mix rule: the external music sits low and subtle under the in-video ambient and SFX — it supports the visuals and never overpowers the plasma-fizzes, chrome clacks or shimmer accents; it never becomes a full foreground track; absolutely no vocal or spoken element at any point.
 
-Loop: the final bar of F6 resolves cleanly onto the downbeat of F1 for a perfect 30-second loop with no audible seam.
+Loop: the final bar of F6 resolves cleanly onto the downbeat of F1 for a perfect seamless loop with no audible seam.

@@ -8000,7 +8000,7 @@ ATMOSPHERE & PARTICULATE: sideways rain-sheets, deck-spray, mist and lightning-f
 
 AUDIO: diegetic only. Ambient — howling storm-wind, hammering rain, distant thunder, skidding tyres and horns. SFX — driving boot-splashes, a car-hood thud and boot-plant on the vault at 2.2s, hydroplaning skids. Reaction — hard driving sprint-breaths, a grunt on the vault. Master track — a relentless propulsive bed enters under the action (present, never full). VO — none.
 
-DURATION: 3.5 seconds (0:00–0:03.5 of 24.5s total).
+DURATION: 6 seconds (real-time; one 6-second frame of the reel).
 
 FRAME RATE + MOTION BLUR: real-time 24fps with a continuous dolly-zoom warp; 180°-equivalent shutter; rich natural blur on Aira, rain and cars; clean forward playback.
 
@@ -8091,7 +8091,7 @@ ATMOSPHERE & PARTICULATE: sideways rain-sheets, impact-spray, mist and lightning
 
 AUDIO: diegetic only. Ambient — howling storm-wind, hammering rain, distant thunder, skidding tyres. SFX — a heavy clothesline-impact thud at 2.1s, the attacker's hard splash-down, hissing rain-spray. Reaction — a sharp combat-yell on the clothesline at 2.1s, hard breaths. Master track — the propulsive bed hits hard on impact then drives on (present, never full). VO — none.
 
-DURATION: 3.5 seconds (0:03.5–0:07 of 24.5s total).
+DURATION: 6 seconds (real-time; one 6-second frame of the reel).
 
 FRAME RATE + MOTION BLUR: real-time 24fps with a continuous dolly-zoom warp peaking on impact; 180°-equivalent shutter; rich natural blur on the charge, rain and spray; clean forward playback.
 
@@ -8182,7 +8182,7 @@ ATMOSPHERE & PARTICULATE: a blooming fireball, flung debris, billowing black smo
 
 AUDIO: diegetic only. Ambient — howling storm-wind, hammering rain, the deep tanker-detonation roar. SFX — the jackknife-screech and explosion-blast at 0.7s, a hand-plant thud on the hood at 1.7s, debris-patter and a hard boot-landing at 3.8s. Reaction — a hard committed grunt on the vault at 2.1s, driving breaths. Master track — the bed detonates with the blast then drives on (present, never full). VO — none.
 
-DURATION: 3.5 seconds (0:07–0:10.5 of 24.5s total).
+DURATION: 6 seconds (real-time; one 6-second frame of the reel).
 
 FRAME RATE + MOTION BLUR: real-time 24fps with a continuous dolly-zoom warp peaking on the blast; 180°-equivalent shutter; violent natural blur on Aira, fireball, debris and steam; clean forward playback.
 
@@ -8273,7 +8273,7 @@ ATMOSPHERE & PARTICULATE: sideways rain-sheets, wind-spray, mist and lightning-f
 
 AUDIO: diegetic only. Ambient — a screaming high-altitude gale, hammering rain, thrumming cables, distant thunder. SFX — a boot-clamp onto the cable at 0.7s, a heavy front-kick thud at 2.4s, the attacker's swing-out grunt, whipping ropes. Reaction — a sharp combat-yell on the kick at 2.4s, hard altitude-breaths. Master track — the propulsive bed hits on the kick then tightens into a high-tension climb (present, never full). VO — none.
 
-DURATION: 3.5 seconds (0:10.5–0:14 of 24.5s total).
+DURATION: 6 seconds (real-time; one 6-second frame of the reel).
 
 FRAME RATE + MOTION BLUR: real-time 24fps with a continuous plunging dolly-zoom warp; 180°-equivalent shutter; rich natural blur on the kick, rain and ropes; clean forward playback.
 
@@ -8364,7 +8364,7 @@ ATMOSPHERE & PARTICULATE: driving rain-sheets, wind-spray, mist and forking ligh
 
 AUDIO: diegetic only. Ambient — a screaming summit gale, hammering rain, a deep thunder-roll, thrumming cables. SFX — a sure boot-plant-and-settle on the wet saddle at 1.0s, the banner-snap of her windbreaker in the gale. Reaction — a steady controlled storm-breath at 2.4s. Master track — the score swells to a cool towering sustain that holds on the silent hero beat (present, never overpowering). VO — none (silent concept).
 
-DURATION: 3.5 seconds (0:14–0:17.5 of 24.5s total).
+DURATION: 6 seconds (real-time; one 6-second frame of the reel).
 
 FRAME RATE + MOTION BLUR: real-time 24fps with the extreme dolly-zoom warp settling to a held vertigo; 180°-equivalent shutter; rich natural blur on rain and lightning, subtle on her face; clean forward playback.
 

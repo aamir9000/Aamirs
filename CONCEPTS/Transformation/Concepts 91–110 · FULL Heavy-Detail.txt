@@ -2386,7 +2386,7 @@ AUDIO (no spoken word): silent of any voice — NO spoken word, NO vocal of any 
 
 FACIAL CONSISTENCY / IDENTITY LOCK (VEO): keep Aira's face, bone structure, skin texture, hairline, and eye colour identical across the clip and matched to Frame 1; the re-wash must not touch or warp her face — only the garment changes; no identity drift, flicker or melt at the loop point.
 
-DURATION: 5 seconds (0:25–0:30 of 30s total).
+DURATION: 6 seconds (real-time; one 6-second frame of the reel).
 
 FRAME RATE + MOTION BLUR: 24fps acquisition, 180° shutter, natural motion blur on the re-wash; playback 24fps real-time.
 

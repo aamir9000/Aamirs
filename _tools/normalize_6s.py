@@ -51,6 +51,20 @@ def process_line(line):
     out = re.sub(r'(?P<pre>(?P<n>\d+)\s*[x\u00d7]\s*6\s*s\s*[|·]\s*)\d+(?:\.\d+)?(?P<u>\s*s\s*total)',
                  lambda m: f"{m.group('pre')}{int(m.group('n'))*6}{m.group('u')}", out)
 
+    # G) legacy windowed per-frame duration "DURATION: Xs (0:MM–0:NN of Ys ...)" -> uniform 6s line
+    out = re.sub(r'DURATION:\s*\d+(?:\.\d+)?\s*seconds?\s*\(\s*0:[^)]*\)\.?',
+                 'DURATION: 6 seconds (real-time; one 6-second frame of the reel).', out)
+
+    # H) stray prose reel/loop totals -> frame-neutral (precise total lives in the master-audio line)
+    for a, b in (
+        ("a 21-second vertical", "a vertical"),
+        ("an 18-second vertical", "a vertical"),
+        ("24-second triumphant", "triumphant"),
+        ("30-second reel", "seamless reel"),
+        ("30-second loop", "seamless loop"),
+    ):
+        out = out.replace(a, b)
+
     return out
 
 def main():

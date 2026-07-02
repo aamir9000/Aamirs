@@ -583,7 +583,7 @@ Texture: crystalline, holographic and weightless — lots of air and prismatic s
 
 Mix rule: keep it subtle and underneath — a low-level bed supporting the diegetic sound design, never full or foreground; duck under the in-video SFX (glass-taps, pour-whoosh, spectrum-burst chime) so the silent-reel sound design always leads. No vocals, no spoken word.
 
-Loop: the final bar of F7 resolves cleanly onto the downbeat of F1 for a perfect 30-second loop with no audible seam.
+Loop: the final bar of F7 resolves cleanly onto the downbeat of F1 for a perfect seamless loop with no audible seam.
 
 ---
 
@@ -1012,7 +1012,7 @@ IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
 
 LOOP NOTE: this closing frame resolves the look back to the exact composition, pose, lighting and expression of Frame 1 so the reel loops seamlessly — medium close, chest-up, bottle entering the lower third, the knowing asymmetric quarter-smile, clean negative space camera-left; the only carry-over is a last fading colour-pulse mote settling, returning the studio to its opening calm for an invisible cut back to F1.
 
-VISUAL-LEAD NOTE: the hero beat is the resolved campaign-hero pose — product at collarbone, glass skin, bold colour, matching Frame 1's geometry so the 30-second loop closes with no seam.
+VISUAL-LEAD NOTE: the hero beat is the resolved campaign-hero pose — product at collarbone, glass skin, bold colour, matching Frame 1's geometry so the seamless loop closes with no seam.
 
 WARDROBE: the marigold-and-cobalt colour-block gown settled and pristine, the architectural shoulder and peplum at rest, matte-satin holding one clean specular line; razor-clean edges, zero wrinkles, the post-transform colour now the stable opening state for the loop.
 
@@ -1091,7 +1091,7 @@ Texture: glossy, bright and airy — plenty of high-end sparkle and clean low-en
 
 Mix rule: music sits subtle and underneath at all times — a supporting bed only, never a full-volume drop; the diegetic in-video SFX (oil-drip, heel-settle, pulse-whoomp, shimmer-sweeps) and the soft reaction breaths always read clearly above the track. No vocals, no lyrics, no voice-over — fully instrumental and silent of any spoken word.
 
-Loop: the final bar of F6 resolves cleanly onto the downbeat of F1 for a perfect 30-second loop with no audible seam.stops. BOUNCE — a soft kick off a hidden card adding a glossy catch to the cobalt glass.
+Loop: the final bar of F6 resolves cleanly onto the downbeat of F1 for a perfect seamless loop with no audible seam.stops. BOUNCE — a soft kick off a hidden card adding a glossy catch to the cobalt glass.
 
 FRAMING: ASPECT 9:16; medium close, chest-up, 12% headroom, the bottle entering the lower third; deliberate clean negative space camera-left to receive the orbit move that arrives later.
 

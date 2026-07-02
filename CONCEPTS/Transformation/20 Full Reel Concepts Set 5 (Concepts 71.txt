@@ -1895,7 +1895,7 @@ STRICT COLOUR & RENDER MANDATE (must be followed exactly; this governs render QU
 
 IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
 
-LOOP NOTE: this END frame resolves back to the exact composition, pose and energy of Frame 1 so the 30-second reel loops seamlessly (AX.5 perfect-loop) — the rainbow-bloom has settled and she returns to the calm hero presentation.
+LOOP NOTE: this END frame resolves back to the exact composition, pose and energy of Frame 1 so the seamless reel loops seamlessly (AX.5 perfect-loop) — the rainbow-bloom has settled and she returns to the calm hero presentation.
 
 VISUAL-LEAD NOTE: a calm resolved hero close, the palette presented once more, engineered to cut cleanly back into Frame 1.
 
@@ -1976,7 +1976,7 @@ Texture: airy, sweet, luminous — soft and clean like sugar-paper and pastel li
 
 Mix rule: present but always background — ducks under every SFX and breath; no melodic vocal, no lyrics, no spoken word anywhere (fully silent reel).
 
-Loop: the closing music-box phrase resolves gently on F6 and leaves an open, unresolved-sweet tail so the pastel-pop bed slips seamlessly back into the F1 felt-piano opening (perfect 30-second loop).
+Loop: the closing music-box phrase resolves gently on F6 and leaves an open, unresolved-sweet tail so the pastel-pop bed slips seamlessly back into the F1 felt-piano opening (perfect seamless loop).
 
 ---
 
@@ -2391,7 +2391,7 @@ STRICT COLOUR & RENDER MANDATE (must be followed exactly; this governs render QU
 
 IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
 
-LOOP NOTE: this END frame resolves back to the exact composition, pose and energy of Frame 1 so the 30-second reel loops seamlessly (AX.5 perfect-loop) — the supernova has settled and she returns to the calm hero presentation.
+LOOP NOTE: this END frame resolves back to the exact composition, pose and energy of Frame 1 so the seamless reel loops seamlessly (AX.5 perfect-loop) — the supernova has settled and she returns to the calm hero presentation.
 
 VISUAL-LEAD NOTE: a calm resolved hero close, the bottle presented once more, engineered to cut cleanly back into Frame 1.
 
@@ -2472,7 +2472,7 @@ Texture: glossy, effervescent, electric — punchy and clean, never dense or mud
 
 Mix rule: present but always background — ducks under every SFX and breath; no melodic vocal, no lyrics, no spoken word anywhere (fully silent reel).
 
-Loop: the closing arpeggio lands clean on the downbeat of F6 and leaves a bright open synth-tail so the disco-pop groove snaps seamlessly back into the F1 kick (perfect 30-second loop).
+Loop: the closing arpeggio lands clean on the downbeat of F6 and leaves a bright open synth-tail so the disco-pop groove snaps seamlessly back into the F1 kick (perfect seamless loop).
 
 ---
 
@@ -2887,7 +2887,7 @@ STRICT COLOUR & RENDER MANDATE (must be followed exactly; this governs render QU
 
 IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
 
-LOOP NOTE: this END frame resolves back to the exact composition, pose and energy of Frame 1 so the 30-second reel loops seamlessly (AX.5 perfect-loop) — the splash-crown has settled and she returns to the calm hero presentation.
+LOOP NOTE: this END frame resolves back to the exact composition, pose and energy of Frame 1 so the seamless reel loops seamlessly (AX.5 perfect-loop) — the splash-crown has settled and she returns to the calm hero presentation.
 
 VISUAL-LEAD NOTE: a calm resolved hero close, the vial presented once more, engineered to cut cleanly back into Frame 1.
 
@@ -2968,7 +2968,7 @@ Texture: sleek, glossy, futuristic — cool and clean, never dense or muddy; an 
 
 Mix rule: present but always background — ducks under every SFX and breath; no melodic vocal, no lyrics, no spoken word anywhere (fully silent reel).
 
-Loop: the closing sub-bass note decays smooth on F6 and leaves a cool open reverb-tail so the future-bass groove glides seamlessly back into the F1 sub pulse (perfect 30-second loop).
+Loop: the closing sub-bass note decays smooth on F6 and leaves a cool open reverb-tail so the future-bass groove glides seamlessly back into the F1 sub pulse (perfect seamless loop).
 
 ---
 
@@ -3383,7 +3383,7 @@ STRICT COLOUR & RENDER MANDATE (must be followed exactly; this governs render QU
 
 IDENTITY LOCK: Aira [paste identity-lock reference sheet here].
 
-LOOP NOTE: this END frame resolves back to the exact composition, pose and energy of Frame 1 so the 30-second reel loops seamlessly (AX.5 perfect-loop) — the bloom-burst has settled and she returns to the calm hero presentation.
+LOOP NOTE: this END frame resolves back to the exact composition, pose and energy of Frame 1 so the seamless reel loops seamlessly (AX.5 perfect-loop) — the bloom-burst has settled and she returns to the calm hero presentation.
 
 VISUAL-LEAD NOTE: a calm resolved hero close, the compact presented once more, engineered to cut cleanly back into Frame 1.
 
@@ -3464,7 +3464,7 @@ Texture: sunny, handmade, organic — warm and clean, never dense or muddy; an e
 
 Mix rule: present but always background — ducks under every SFX and breath; no melodic vocal, no lyrics, no spoken word anywhere (fully silent reel).
 
-Loop: the closing ukulele strum rings open on F6 and leaves a warm soft tail so the folk-pop groove drifts seamlessly back into the F1 opening strum (perfect 30-second loop).
+Loop: the closing ukulele strum rings open on F6 and leaves a warm soft tail so the folk-pop groove drifts seamlessly back into the F1 opening strum (perfect seamless loop).
 
 ---
 
@@ -4106,7 +4106,7 @@ Texture: glossy, candy-bright, buoyant — clean and poppy, never dense or muddy
 
 Mix rule: present but always background — ducks under every SFX and breath; no melodic vocal, no lyrics, no spoken word anywhere (fully silent reel).
 
-Loop: the closing synth-bass note pops soft and round on F8 and leaves a light candy-bright tail so the bouncy electro-pop groove springs seamlessly back into the F1 opening pluck (perfect 30-second loop).
+Loop: the closing synth-bass note pops soft and round on F8 and leaves a light candy-bright tail so the bouncy electro-pop groove springs seamlessly back into the F1 opening pluck (perfect seamless loop).
 
 ---
 
@@ -4228,7 +4228,7 @@ LIP-SYNC: none — lips closed or softly parted, composed.
 
 NEGATIVE: identity drift, face or hand warp, extra or fused fingers, duplicate person, mirrored/flipped frame, slow-motion, watermark.
 
-DURATION: 3 seconds (0:27 to 0:30 of 30s total).
+DURATION: 6 seconds (real-time; one 6-second frame of the reel).
 
 FRAME RATE + MOTION BLUR: 24fps, 180° shutter, gentle natural motion blur on the settle; playback 24fps real-time.
 
@@ -4248,7 +4248,7 @@ Texture: glossy, bouncy, candy-bright — clean and effervescent, never dense or
 
 Mix rule: present but always background — ducks under every SFX and breath; no melodic vocal, no lyrics, no spoken word anywhere (fully silent reel).
 
-Loop: the bouncy synth-bass figure lands light and open as the closing chime-shimmer fades on F8, so the candy electro-pop groove springs cleanly back into the F1 opening pluck (perfect 30-second loop)..4 to 1.6s — the burst races outward balloon to balloon as foil-shards, candy confetti and chrome glitter lift and swirl around her, she lifting her eyes into the swirl; 1.6 to 3.0s — the confetti trails out, easing to a sustained drifting halo, her radiant smile landing; 3.0 to 4.0s — she holds, haloed and triumphant. Only the synchronized balloon-burst is impossible; all else real physics.
+Loop: the bouncy synth-bass figure lands light and open as the closing chime-shimmer fades on F8, so the candy electro-pop groove springs cleanly back into the F1 opening pluck (perfect seamless loop)..4 to 1.6s — the burst races outward balloon to balloon as foil-shards, candy confetti and chrome glitter lift and swirl around her, she lifting her eyes into the swirl; 1.6 to 3.0s — the confetti trails out, easing to a sustained drifting halo, her radiant smile landing; 3.0 to 4.0s — she holds, haloed and triumphant. Only the synchronized balloon-burst is impossible; all else real physics.
 
 LIGHTING: the burst lifted as a live key over the studio beauty light, bright rim, confetti-and-foil fill rising; controlled, no clipping. Elevated cinematic lighting — beautiful bounce and rim separation, soft highlight roll-off, elegant shadow gradients and high dynamic range, never flat.
 
@@ -4256,7 +4256,7 @@ ENVIRONMENT: studio alive with bursting chrome-and-candy balloons, chrome glitte
 
 AUDIO: fully silent reel — no spoken word, no in-clip music. Diegetic and design only: room-tone bed blooming into a lush designed swell cresting at the burst then settling. SFX — a soft balloon-swell creak 0.2s, a synchronized cluster of soft mylar-pops and an airy confetti-spray tracking the swirl 0.4 to 1.6s, soft foil-flutter and confetti settling 1.2 to 2.8s, a warm resonance under the settle. Reaction — a soft powerful breath at 1.4s. External master rises to its fullest-but-still-restrained moment under the burst then eases (subtle, never full).
 
-DURATION: 4 seconds (0:20 to 0:24 of 30s total).
+DURATION: 6 seconds (real-time; one 6-second frame of the reel).
 
 FRAME RATE + MOTION BLUR: 24fps, 180° shutter, natural motion blur on the burst and swirling confetti; playback 24fps real-time.
 

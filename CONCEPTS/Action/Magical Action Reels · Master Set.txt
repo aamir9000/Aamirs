@@ -170,7 +170,7 @@ SPEED RAMP: 100% real-time throughout.
 
 AUDIO: diegetic only — ambient: a low cold room-tone and a faint electrical neon hum throughout; SFX: a soft distant city rumble, a gentle metallic door-handle tick at 4.6s (short tail), a faint water-drip at 2.8s; reaction: a soft audible breath at 2.2s. No subject voice. The master track is just kindling — a low sub-drone under the room-tone (present, never full). VO — none this frame.
 
-DURATION: 3 seconds (0:00–0:03 of 26s).
+DURATION: 6 seconds (real-time; one 6-second frame of the reel).
 
 FRAME RATE + MOTION BLUR: 24fps, 180° shutter, natural motion blur on the drone move; real-time.
 
@@ -253,7 +253,7 @@ SPEED RAMP: 100% real-time.
 
 AUDIO: diegetic only — ambient: muffled cabin tone, a low building engine spool throughout; SFX: a solid door-seal thunk at 0.9s, a leather-glove creak at 1.5s, a metallic shifter-set click at 2.1s, a rising turbo whine 2.4–5.1s; reaction: a slow controlled exhale at 2.7s. No subject voice. Master track adds a low pulsing sub under the spool (present, never full). VO — none.
 
-DURATION: 4 seconds (0:03–0:07 of 26s).
+DURATION: 6 seconds (real-time; one 6-second frame of the reel).
 
 FRAME RATE + MOTION BLUR: 24fps, 180° shutter, gentle natural blur; real-time.
 
@@ -336,7 +336,7 @@ SPEED RAMP: 100% to a slight 90% ease entering the stretch, prepping the warp.
 
 AUDIO: diegetic-led — ambient: hard tunnel rush; SFX: a launch-bang turbo-spool crescendo 0.0–2.0s, a tyre-chirp at 0.4s, a rising doppler whoosh as walls streak 2.4–6.0s, a wind-roar bed; reaction: a sharp adrenaline inhale at 1.0s. No subject voice. Master track surges a low driving pulse under the rush (present, never full). VO — none.
 
-DURATION: 3 seconds (0:07–0:10 of 26s).
+DURATION: 6 seconds (real-time; one 6-second frame of the reel).
 
 FRAME RATE + MOTION BLUR: 24fps with heavy natural motion blur on the streaks, 180° shutter; a touch of slow-mo easing in.
 
@@ -419,7 +419,7 @@ SPEED RAMP: 96fps deep slow-mo through the warp peak easing to gentle slow-mo on
 
 AUDIO: diegetic-led — ambient: a high wind-roar warp bed; SFX: a deep doppler warp-whoosh swell 0.0–2.4s, a fine chromatic shimmer 1.5–3.9s (long soft tails), a low sub-boom at the peak 1.2s; reaction: a calm held breath through the warp. No subject voice. Master track lifts to its peak — a driving synth-and-sub swell landed on the warp (present, under the SFX, never full). VO — none (the line lands later).
 
-DURATION: 4 seconds (0:10–0:14 of 26s).
+DURATION: 6 seconds (real-time; one 6-second frame of the reel).
 
 FRAME RATE + MOTION BLUR: 96fps to 48fps ease, 180° shutter, heavy soft motion blur with crisp ribbon edges.
 
@@ -502,7 +502,7 @@ SPEED RAMP: 48fps easing to 100% real-time.
 
 AUDIO: diegetic only — ambient: smooth high-speed tunnel rush; SFX: a settling exhaust burble at 0.6s, a soft wind-bed, a gentle glove-creak at 2.1s; reaction: a release exhale at 1.5s. No subject voice. Master track holds its warmth, easing from the peak (present, never full). VO — none (lands next frame).
 
-DURATION: 4 seconds (0:14–0:18 of 26s).
+DURATION: 6 seconds (real-time; one 6-second frame of the reel).
 
 FRAME RATE + MOTION BLUR: 24fps, 180° shutter, natural blur on the sprint; real-time.
 
@@ -585,7 +585,7 @@ SPEED RAMP: 100% real-time.
 
 AUDIO: diegetic plus narrator VO — ambient: smooth cruise tone, steady engine hum; SFX: a soft glove-creak at 0.9s, a gentle telltale tick at 3.6s (kept clear of VO). NARRATOR VO (not lip-synced; Aira does not speak): "Some doors only open at full throttle." delivered 1.5–4.5s, warm natural Indian accent, low and assured. Master track ducks gently under the VO and holds warm. 
 
-DURATION: 4 seconds (0:18–0:22 of 26s).
+DURATION: 6 seconds (real-time; one 6-second frame of the reel).
 
 FRAME RATE + MOTION BLUR: 24fps, 180° shutter, gentle natural blur; real-time.
 
@@ -668,7 +668,7 @@ SPEED RAMP: 100% real-time.
 
 AUDIO: diegetic only — ambient: low cold room-tone and faint neon hum; SFX: a soft door-handle tick at 2.1s, a distant city rumble, a faint water-drip at 3.9s; reaction: a soft breath at 1.8s. No subject voice. Master track resolves on a sustained warm chord so the reel loops with no audible seam (present, never full). VO — none.
 
-DURATION: 4 seconds (0:22–0:26 of 26s).
+DURATION: 6 seconds (real-time; one 6-second frame of the reel).
 
 FRAME RATE + MOTION BLUR: 24fps, 180° shutter, natural blur on the drone rise; real-time.
 
@@ -793,7 +793,7 @@ SPEED RAMP: 100% real-time throughout.
 
 AUDIO: diegetic only — ambient: a warm low dock room-tone, distant gulls and a faint sea-breeze throughout; SFX: a soft metallic roof-tap as her hand settles at 3.4s (short tail), a gentle rigging-clink at 2.1s; reaction: a soft audible breath at 1.7s. No subject voice, no VO. The master track is just kindling — a low warm synth-drone under the ambience (present, never full).
 
-DURATION: 4 seconds (0:00–0:04 of 24s).
+DURATION: 6 seconds (real-time; one 6-second frame of the reel).
 
 FRAME RATE + MOTION BLUR: 24fps, 180° shutter, natural motion blur on the orbit; real-time.
 
@@ -876,7 +876,7 @@ SPEED RAMP: 100% real-time.
 
 AUDIO: diegetic only — ambient: muffled cabin tone, a building V8 burble throughout; SFX: a sharp handbrake-ratchet click at 1.2s, a tyre-chirp breaking traction at 1.8s, a rising tyre-scrub roar 2.1–5.1s, a carbon-glove creak at 0.9s; reaction: a held focused breath at 1.5s. No subject voice, no VO. Master track adds a low driving pulse under the scrub (present, never full).
 
-DURATION: 4 seconds (0:04–0:08 of 24s).
+DURATION: 6 seconds (real-time; one 6-second frame of the reel).
 
 FRAME RATE + MOTION BLUR: 24fps, 180° shutter, gentle natural blur on the step-out; real-time.
 
@@ -959,7 +959,7 @@ SPEED RAMP: 100% to a slight 90% ease entering the bloom.
 
 AUDIO: diegetic-led — ambient: hard tyre-scrub roar; SFX: a V8 throttle-bark crescendo 0.0–1.5s, a continuous tyre-scream 0.6–4.5s, a low ember-crackle kindling 1.8–4.5s, a wind-roar bed; reaction: a sharp adrenaline inhale at 0.8s. No subject voice, no VO. Master track surges a driving pulse under the roar (present, never full).
 
-DURATION: 4 seconds (0:08–0:12 of 24s).
+DURATION: 6 seconds (real-time; one 6-second frame of the reel).
 
 FRAME RATE + MOTION BLUR: 24fps with heavy natural motion blur on the smoke, 180° shutter; a touch of slow-mo easing in.
 
@@ -1042,7 +1042,7 @@ SPEED RAMP: 96fps deep slow-mo through the galaxy peak easing to gentle slow-mo 
 
 AUDIO: diegetic-led — ambient: a high cosmic wind-roar bed; SFX: a deep whooshing nebula-swell 0.0–2.4s, a fine sparkling ember-shimmer 1.5–3.9s (long soft tails), a low sub-boom at the peak 1.2s, the tyre-scream continuing low under; reaction: a calm held breath through the bloom. No subject voice, no VO. Master track lifts to its peak — a cinematic synth-and-sub swell landed on the galaxy (present, under the SFX, never full).
 
-DURATION: 4 seconds (0:12–0:16 of 24s).
+DURATION: 6 seconds (real-time; one 6-second frame of the reel).
 
 FRAME RATE + MOTION BLUR: 96fps to 48fps ease, 180° shutter, heavy soft motion blur with crisp ember sparks.
 
@@ -1125,7 +1125,7 @@ SPEED RAMP: 48fps easing to 100% real-time.
 
 AUDIO: diegetic only — ambient: settling dock tone, sea-breeze returning; SFX: a settling exhaust burble at 0.6s, a soft tyre-grip chirp as it hooks up at 1.2s, a gentle glove-creak at 2.1s; reaction: a release exhale at 1.5s. No subject voice, no VO. Master track holds its warmth, easing from the peak (present, never full).
 
-DURATION: 4 seconds (0:16–0:20 of 24s).
+DURATION: 6 seconds (real-time; one 6-second frame of the reel).
 
 FRAME RATE + MOTION BLUR: 24fps, 180° shutter, natural blur on the straighten; real-time.
 
@@ -1208,7 +1208,7 @@ SPEED RAMP: 100% real-time.
 
 AUDIO: diegetic only — ambient: warm dock room-tone, distant gulls, faint sea-breeze; SFX: a soft roof-tap at 2.1s, distant rigging-clink, a faint idle burble at 3.9s; reaction: a soft breath at 1.8s. No subject voice, no VO. Master track resolves on a sustained warm chord so the reel loops with no audible seam (present, never full).
 
-DURATION: 4 seconds (0:20–0:24 of 24s).
+DURATION: 6 seconds (real-time; one 6-second frame of the reel).
 
 FRAME RATE + MOTION BLUR: 24fps, 180° shutter, natural blur on the drone rise; real-time.
 
@@ -1333,7 +1333,7 @@ SPEED RAMP: 100% real-time throughout.
 
 AUDIO: diegetic only — ambient: a cool dawn room-tone, distant birdsong and a faint mountain breeze throughout; SFX: a soft metallic roof-tap as her hand settles at 3.8s (short tail), a gentle dew-drip at 2.1s; reaction: a soft audible breath at 2.0s. No subject voice. The master track is just kindling — a low glassy drone under the ambience (present, never full). VO — none this frame.
 
-DURATION: 4 seconds (0:00–0:04 of 24s).
+DURATION: 6 seconds (real-time; one 6-second frame of the reel).
 
 FRAME RATE + MOTION BLUR: 24fps, 180° shutter, natural motion blur on the drone move; real-time.
 
@@ -1416,7 +1416,7 @@ SPEED RAMP: 100% real-time.
 
 AUDIO: diegetic only — ambient: muffled cabin tone, a building flat-four rasp throughout; SFX: a sharp handbrake-ratchet clack at 1.2s, a tyre-chirp breaking traction at 1.8s, a rising tyre-scrub 2.1–5.1s, a glove-creak at 0.9s; reaction: a held focused breath at 1.5s. No subject voice. Master track adds a low pulse under the scrub (present, never full). VO — none.
 
-DURATION: 4 seconds (0:04–0:08 of 24s).
+DURATION: 6 seconds (real-time; one 6-second frame of the reel).
 
 FRAME RATE + MOTION BLUR: 24fps, 180° shutter, gentle natural blur on the pivot; real-time.
 
@@ -1499,7 +1499,7 @@ SPEED RAMP: 100% to a slight 90% ease entering the rewind.
 
 AUDIO: diegetic-led — ambient: hard tyre-scrub roar; SFX: a flat-four throttle-bark crescendo 0.0–1.5s, a continuous tyre-scream 0.6–4.5s, a faint crystalline shimmer kindling 1.8–4.5s, a wind-roar bed; reaction: a sharp focused inhale at 0.8s. No subject voice. Master track surges a pulse under the roar (present, never full). VO — none.
 
-DURATION: 4 seconds (0:08–0:12 of 24s).
+DURATION: 6 seconds (real-time; one 6-second frame of the reel).
 
 FRAME RATE + MOTION BLUR: 24fps with heavy natural motion blur on the spin, 180° shutter; a touch of slow-mo easing in.
 
@@ -1582,7 +1582,7 @@ SPEED RAMP: a deliberate reverse-ramp — 96fps slow-mo with the diegetic partic
 
 AUDIO: diegetic-led — ambient: a high glassy wind-shimmer bed; SFX: a deep reversed whoosh (reverse-reverb swell) 0.0–2.4s, a fine crystalline reverse-shimmer 1.5–3.9s (pre-verb swells into hits), a low sub-boom at the ring 1.2s, the tyre-scream playing in reverse low under; reaction: a calm held breath through the rewind. No subject voice. Master track lifts to its peak — a glassy reversed-cinematic swell landed on the ripple (present, under the SFX, never full). VO — none (the line lands next frame).
 
-DURATION: 4 seconds (0:12–0:16 of 24s).
+DURATION: 6 seconds (real-time; one 6-second frame of the reel).
 
 FRAME RATE + MOTION BLUR: 96fps to 48fps ease, 180° shutter, heavy soft motion blur with crisp prism edges; particle motion reversed through the peak.
 
@@ -1665,7 +1665,7 @@ SPEED RAMP: 48fps easing to 100% real-time.
 
 AUDIO: diegetic plus narrator VO — ambient: settling dawn tone, birdsong returning; SFX: a soft idle burble at 0.6s, a gentle dew-drip at 3.6s (kept clear of VO). NARRATOR VO (not lip-synced; Aira does not speak): "Sometimes you go back to go forward." delivered 1.5–4.5s, warm natural Indian accent, low and assured. Master track ducks gently under the VO and holds warm.
 
-DURATION: 4 seconds (0:16–0:20 of 24s).
+DURATION: 6 seconds (real-time; one 6-second frame of the reel).
 
 FRAME RATE + MOTION BLUR: 24fps, 180° shutter, natural blur on the settle; real-time.
 
@@ -1748,7 +1748,7 @@ SPEED RAMP: 100% real-time.
 
 AUDIO: diegetic only — ambient: cool dawn room-tone, distant birdsong, faint mountain breeze; SFX: a soft roof-tap at 2.1s, a distant valley echo, a faint dew-drip at 3.9s; reaction: a soft breath at 1.8s. No subject voice. Master track resolves on a sustained warm chord so the reel loops with no audible seam (present, never full). VO — none.
 
-DURATION: 4 seconds (0:20–0:24 of 24s).
+DURATION: 6 seconds (real-time; one 6-second frame of the reel).
 
 FRAME RATE + MOTION BLUR: 24fps, 180° shutter, natural blur on the drone lift; real-time.
 
