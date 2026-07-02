@@ -6142,14 +6142,14 @@ KINETIC STILLNESS (8 layers): (1) a soft strand drifting slow at the temple; (2)
 
 MICRO-MAGIC (cue only): in the nearest bed a few iron filings have lifted and hovered a hair above the sand, leaning toward her lodestone — deniable, the first whisper that the iron will bloom at her call.
 
-SPATIAL LOGIC: FOREGROUND — the lodestone in her cupped hands at ≈20% depth, tack sharp. MIDGROUND — Aira on the path. BACKGROUND — the dark iron beds, the pergola, the lantern-lit wall, the dusk-blue sky, no clutter. Premium editorial finish — rich clean colour and luminous mid-tones, deep-but-clean blacks, cinematic lighting with soft rim separation and high dynamic range, layered foreground-to-background depth, elevated material realism, immaculately clean and never dull or faded, natural true skin preserved. Sky richly graded and cinematic with elegant clouds and premium light, never flat or empty.
+SPATIAL LOGIC: FOREGROUND — a near iron bed-edge and the stone path at ≈12% depth, tack sharp, establishing the near plane. MIDGROUND — the stone path with Aira small on it, the lodestone a small polished orb in her hands. BACKGROUND — the moonlit iron-garden of dark beds and the great wrought-iron pergola arching far above and around her, receding with true atmospheric perspective (nearer beds sharp, far garden hazier and cooler), the lantern-lit wall and dusk-blue sky beyond. Premium editorial finish — rich clean colour and luminous mid-tones, deep-but-clean blacks, cinematic lighting with soft rim separation and high dynamic range, layered foreground-to-background depth, elevated material realism, immaculately clean and never dull or faded, natural true skin preserved. Sky richly graded and cinematic with elegant clouds and premium light, never flat or empty.
 
 LIGHTING: KEY — cool moonlight as a soft wrapping key from frame-left. FILL — a warm lantern bounce lifting the shadow side. RIM — cool moonlight skimming her crown and one shoulder. PRACTICAL — the lanterns and the moon. SEPARATION — the garden pulled deep so she reads ≈1.5 stops up. BOUNCE — a faint steel kick off the lodestone. Premium editorial finish — rich clean colour and luminous mid-tones, deep-but-clean blacks, cinematic lighting with soft rim separation and high dynamic range, layered foreground-to-background depth, elevated material realism, immaculately clean and never dull or faded, natural true skin preserved. Greenery lush and healthy with premium landscaping.
 
-FRAMING: ASPECT 9:16; medium, chest-up to the lodestone, 12% headroom, the stone entering the lower third, clean negative space above to receive the iron blooms that arrive later.
-SUBJECT FRAMING & POSITION: A medium framing holds Aira at about 12% headroom, chest-up to the lodestone, the stone entering the lower third, clean negative space above to receive the iron blooms that arrive later. She is standing three-quarter to camera on the path, spine long and easy, weight settled even with a soft 2° lean toward the stone, front shoulder dropped a touch, chin level, alive and breathing. The camera holds a mid distance, Aira the sharp central figure of the Magnetic Iron-Garden scene, with the glow arcing the upper frame above her. She faces front to the lens. Three-quarter to camera, both hands cup the polished lodestone orb at waist height, weight settled with a soft counter-tilt. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+FRAMING: ASPECT 9:16; TRUE ESTABLISHING WIDE — full-figure and beyond, Aira small at ≈18% of frame on the stone path while the moonlit iron-garden and the great wrought-iron pergola arch far above and around her; the garden dwarfs the human, deep negative space holding the beds and dusk sky.
+SUBJECT FRAMING & POSITION: A true wide establishing framing holds Aira SMALL — about 18% of frame height — standing on the stone path of the moonlit iron-garden, the dark iron beds spreading around her and the great wrought-iron pergola arching far above so she reads as a lone figure dwarfed by the garden; she is the scale-anchor that makes the iron-garden read as truly vast. She stands three-quarter to camera on the path, spine long and easy, weight settled even with a soft 2° lean, front shoulder dropped a touch, chin level, the polished lodestone a small orb cupped in her hands. The camera holds a wide, lifted distance, Aira the small sharp human anchor of the Magnetic Iron-Garden scene while the garden is the dominant subject. She faces three-quarter to the lens. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
-LENS + DOF + BOKEH: 35mm, f/2.2; focus split between her lowered near eye and the lodestone so both read crisp; the garden melting to soft steel-and-bronze bokeh; motes as fine floating points; gentle highlight roll-off, no clipping.
+LENS + DOF + BOKEH: 24mm wide, f/4; deep focus holding Aira, the beds and the great pergola all crisp for the establishing scale; only the nearest motes softening; gentle highlight roll-off, no clipping.
 
 COMPOSITION REFERENCE: cool cinematic establishing hero — gardener of iron, one impossible cue building (BA.3 cause building to effect).
 
@@ -6168,14 +6168,14 @@ STRICT COLOUR & RENDER MANDATE (must be followed exactly; this governs render QU
 
 IDENTITY (locked): Aira — same person every frame; face, bone structure, eye shape + colour, nose, lips, skin texture and hair strictly locked to reference; ONLY expression, gaze and head move; no identity drift, no face/anatomy warp, no second or duplicate person.
 
-SHOT TYPE: medium, chest-up to the lodestone, subject fills ≈50% of the vertical frame.
+SHOT TYPE: TRUE ESTABLISHING WIDE — high and pulled back, Aira small at ≈18% of the vertical frame while the moonlit iron-garden and wrought-iron pergola dominate.
 
-LENS: 35mm, f/2.2, smooth steel-and-bronze background fall-off.
+LENS: 24mm wide, f/4, deep focus holding the whole scale of the garden.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] medium, chest-up to the lodestone, subject fills ≈50% of the vertical frame: a single slow 8% push-in across the clip is already underway — hold the still tableau, iron beds quiet, the lodestone cupped in her hands.
-- [00:02–00:04] a few filings lift and hover toward the lodestone, then settle; Aira's chest rises on a slow steady breath, her hold on the stone settling.
-- [00:04–00:06] she raises the lodestone slightly, the earring hanging still; she lifts the stone toward the bed, the clip holding just before the bloom.
+- [00:00–00:02] TRUE ESTABLISHING WIDE, Aira small at ≈18% on the path: a slow weighty crane-up-and-back is already underway, lifting to reveal the iron-garden and the great pergola arching over her — the garden reads vast, she reads human; parallax slides the near beds faster than the far pergola for real 3D depth.
+- [00:02–00:04] the crane drifts on; the dark iron beds spread quiet around her, the lantern-wall glowing warm, the far garden hazier with atmospheric perspective under the dusk-blue sky.
+- [00:04–00:06] the move settles wide and high; at the tiny figure a few filings lift and hover toward the cupped lodestone as her chest rises on a slow steady breath — the lone gardener poised in the vast iron-garden.
 
 PHYSICS: the garden air is still — motes and a strand drift slow; the filings stir with believable magnetic lean toward the stone; her body, the lodestone obey normal gravity.
 
@@ -6198,42 +6198,35 @@ NEGATIVE: identity drift, face or hand warp, extra or fused fingers, duplicate p
 ## Frame 2 of 6 — IMAGE PROMPT
 STRICT COLOUR & RENDER MANDATE (must be followed exactly; this governs render QUALITY only and must NOT change the composition, camera, lens, framing, wardrobe, action or identity specified above): render the colours already specified at their richest, freshest, cleanest and most premium — crisp, vivid and luminous with elegant, controlled saturation; never dull, faded, washed-out, muddy, grey or flat. Hold deep-but-clean blacks, luminous full mid-tones and beautiful highlight roll-off with high dynamic range and no blown highlights. Wherever sky is visible, render it richly graded and cinematic — never empty, white or overexposed. Wherever water is visible, render it crystal-clear with deep sea-blue and turquoise gradients, clean caustics and sparkling reflections — never grey or murky (unless the concept explicitly specifies dark / ink / obsidian water, which stays deep, glassy and clean). Protect natural, true skin tone; never push saturation onto the face. Keep the image immaculately clean and premium with clear figure-to-ground separation so the hero reads first; honour the concept's intended dominant surface and full-frame coverage, and do NOT reveal unwanted structural edges, seams, side-walls or empty dead space that break the intended composition. Photoreal, award-winning editorial finish — no AI artifacts, plastic or waxy skin, dead eyes, malformed hands or unfinished backgrounds.
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: continuity-locked START of the bloom — face fully recognizable, she has lifted the lodestone and the first iron flower is just beginning to rise and open out of the bed. Lock this START so Frame 3 interpolates cleanly to the full iron blooms.
+IDENTITY LOCK: N/A — no person in this frame (pure environment); no reference sheet applies.
 
-SCENE NOTE: the iron opens. Aira lifts the lodestone toward the nearest bed and the first iron flower rises — filings streaming up into a slim metal stem that opens into a dark blooming petal-head, leaning toward her; tender wonder warming her focus.
+PURE ENVIRONMENT — NO SUBJECT IN FRAME: this is a world-only shot; Aira does NOT appear (no person, no figure, no silhouette, no body, no hands). Render only the environment, its objects and the magic cue. Disregard any subject/wardrobe/pose wording elsewhere.
 
-VISUAL-LEAD NOTE: catch the first-bloom beat — an iron flower rising and opening out of the bed toward her lifted lodestone, filings streaming up its stem, her face cool-lit and tender.
+SCENE NOTE: the iron opens, the garden empty of any person. The polished lodestone rests on the stone path and, drawn to it, iron flowers rise from the nearest beds — filings streaming up into slim metal stems that open into dark blooming petal-heads, all leaning toward the stone; no figure present, the moonlit iron-garden waking at the pull of the lodestone alone.
 
-WARDROBE: the slate-grey coat-dress, continuity-locked, the front now catching a soft warm ember as the bloom rises, fully modest, pristine.
+VISUAL-LEAD NOTE: catch the first-bloom beat as a world shot — NO figure; iron flowers rising and opening out of the dark beds toward the lodestone resting on the path, filings streaming up their stems, the pergola and lantern-wall framing the moonlit garden.
 
-FOOTWEAR: the concept-locked charcoal Chelsea boots with the steel heel-cap, planted on the path and unchanged, the leather cool-lit.
 
-ACCESSORIES: the brushed-steel bangle (catching brighter glint as the bloom rises) and the lodestone earring, unchanged, the earring beginning to swing.
 
-HAIR: the sleek low knot, continuity-locked, a temple strand drifting, deep sheen, color locked.
 
-MAKEUP: the cool pewter glow, continuity-locked, the pewter lid catching a warm ember edge, soft rose-brown lip, real pores.
 
-EYE COLOUR: iris exactly as referenced; the locked dual catchlight — steel-silver low, ember-bronze high — brightened as the bloom rises; the eyes never glitch.
 
-HANDS & NAILS: the lodestone lifted in the right hand drawing the bloom up, the left hand open and steady; short almond neutral-gloss nails, neat cuticles, no tension.
 
-FACIAL MICRO-DYNAMICS: tender wonder, brows lifting barely 1mm, lips just parted, eyes following the rising bloom, a held quiet awe.
 
-BODY POSTURE & WEIGHT: GAZE up to the rising bloom; HEAD chin tipping up; SHOULDERS lifting; RIGHT ARM lifting the lodestone drawing the bloom up, the RIGHT HAND raised, RIGHT FINGERS easy; LEFT ARM open and steady, the LEFT HAND open, LEFT FINGERS softly spread; TORSO rotated about 4 degrees, lifting; WAIST & HIPS even; RIGHT LEG and LEFT LEG grounded even; FEET & WEIGHT even; HAIR drifting — awed and alive (living stillness).
 
-KINETIC STILLNESS (8 layers): (1) the iron flower rising and opening out of the bed; (2) filings streaming up its stem; (3) a temple strand drifting; (4) motes; (5) chest easing on a slow breath; (6) steel specular sliding on the bangle; (7) the coat breathing with a fold-shadow micro-shift; (8) a slow eyelash settle as it blooms.
 
-MICRO-MAGIC (START keyframe): an iron flower rising and opening out of the bed toward her lifted lodestone, filings streaming up its stem — the garden blooming at her call, clearly drawn up by the stone.
+KINETIC STILLNESS (environmental, 6 layers): (1) iron flowers rising and opening out of the beds; (2) filings streaming up their stems; (3) the lodestone glinting where it rests on the path; (4) drifting dust-motes catching the lanterns; (5) steel speculars sliding across the new petal-heads; (6) the pergola's iron vines stirring faintly.
 
-SPATIAL LOGIC: FOREGROUND — the rising iron bloom and her lifted hand at ≈18% depth, tack sharp. MIDGROUND — her face. BACKGROUND — the beds and pergola in soft defocus, lantern wall, no clutter. Premium editorial finish — rich clean colour and luminous mid-tones, deep-but-clean blacks, cinematic lighting with soft rim separation and high dynamic range, layered foreground-to-background depth, elevated material realism, immaculately clean and never dull or faded, natural true skin preserved.
+MICRO-MAGIC (START keyframe): iron flowers rising and opening out of the beds toward the lodestone resting on the path, filings streaming up their stems — the garden blooming at the stone's pull, clearly defying nature.
+
+SPATIAL LOGIC: FOREGROUND — a rising iron bloom and the near bed-edge at ≈15% depth, tack sharp. MIDGROUND — the lodestone resting on the stone path amid the waking beds. BACKGROUND — the dark iron beds and the wrought-iron pergola receding into moonlit haze with true atmospheric depth, the lantern-wall glowing warm beyond. Premium editorial finish — rich clean colour and luminous mid-tones, deep-but-clean blacks, cinematic lighting with soft rim separation and high dynamic range, layered foreground-to-background depth, elevated material realism, immaculately clean and never dull or faded, natural true skin preserved.
 
 LIGHTING: KEY — cool moonlight key. FILL — warm lantern bounce. RIM — cool moon-light on crown. PRACTICAL — the lanterns and a faint glint off the new iron bloom. SEPARATION — garden deep, ≈1.5 stops up. BOUNCE — steel kick on the bangle. Premium editorial finish — rich clean colour and luminous mid-tones, deep-but-clean blacks, cinematic lighting with soft rim separation and high dynamic range, layered foreground-to-background depth, elevated material realism, immaculately clean and never dull or faded, natural true skin preserved. Greenery lush and healthy with premium landscaping.
 
-FRAMING: ASPECT 9:16; medium close, chest-up, 11% headroom, the rising bloom entering frame, cool negative space camera-right.
-SUBJECT FRAMING & POSITION: A medium close framing holds Aira at about 11% headroom, chest-up, the rising bloom entering frame, cool negative space camera-right. She is upper body angled toward the rising bloom, torso rotated ≈4°, chin lifting, weight even, spine long. The camera holds an intimate distance, Aira the sharp central figure of the Magnetic Iron-Garden scene, with the clean negative space opening camera-right. She is turned a few degrees into the moment. The lodestone lifts in the right hand drawing the iron-bloom up while the left holds open and steady, chin tipping up and weight even. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+FRAMING: ASPECT 9:16; PURE ENVIRONMENT WIDE — no subject; a wide of the moonlit iron-garden, iron flowers rising from the beds toward the lodestone on the path, the wrought-iron pergola arching above and the lantern-wall glowing beyond.
+WORLD FRAMING & POSITION: A pure environment wide with NO person in frame — the iron-garden reads full and deep, dark iron flowers rising and opening across the beds toward the lodestone resting on the stone path, the wrought-iron pergola arching overhead and the moonlit garden receding into warm lantern-light. The world is the sole subject. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
-LENS + DOF + BOKEH: 50mm, f/2.0; focus split between her near eye and the rising bloom so both read crisp; the garden melting to creamy steel bokeh; soft glint; gentle roll-off.
+LENS + DOF + BOKEH: 24mm wide, f/4; deep focus holding the near bloom, the lodestone and the pergola crisp across the depth; only the farthest beds softening; soft glint; gentle roll-off.
 
 COMPOSITION REFERENCE: the first-bloom beat — iron becomes flower (AT.5 transform logic).
 
@@ -6241,43 +6234,43 @@ ATMOSPHERE: hushed, tender, wondrous — the instant iron sand blooms. Premium a
 
 COLOR GRADE: deep charcoal-blue with cool steel-silver and warm ember-bronze accent, rich blacks, clean whites, full mid-tone, no murk. World-class editorial colour — rich and vivid yet clean, luminous mid-tones, deep-but-clean blacks, controlled saturation, nothing washed-out, natural skin protected.
 
-TEXTURE & MICRO-DETAIL: the iron flower reads as a real metallic bloom of fine filings holding petal-form, not a smooth shape; the bangle brushed-steel and real; skin micro-texture with peach-fuzz at the jaw catching ember; motes fine.
+TEXTURE & MICRO-DETAIL: the iron flowers read as real metallic blooms of fine filings holding petal-form, not smooth shapes; the lodestone polished and dark; the bed-soil real; motes fine in the lantern-light.
 
-STORY BEAT: the called bloom — she lifts the lodestone and an iron flower opens from the bed, tender wonder warming her focus.
+STORY BEAT: the called bloom — iron flowers open from the beds toward the lodestone on the path, the moonlit garden waking and unpeopled.
 
 NEGATIVE: mirrored, flipped, inverted, extra limbs, fused fingers, melted features, asymmetric eyes (unintentional), garbled text, floating shadows, duplicated subjects, plastic skin, over-smoothed skin, oversharpened, AI artifacts, watermarks, deformed hands, malformed teeth, joint cuts, off-axis pupils, melted clothing, mismatched footwear, mannequin posture, dead eyes, statue-frozen energy, glitching or colour-shifting eyes, crushed muddy blacks, garish oversaturation, flat dull light, smooth featureless bloom.
 
 ## Frame 2 of 6 — VIDEO PROMPT
 STRICT COLOUR & RENDER MANDATE (must be followed exactly; this governs render QUALITY only and must NOT change the composition, camera, lens, framing, wardrobe, action or identity specified above): render the colours already specified at their richest, freshest, cleanest and most premium — crisp, vivid and luminous with elegant, controlled saturation; never dull, faded, washed-out, muddy, grey or flat. Hold deep-but-clean blacks, luminous full mid-tones and beautiful highlight roll-off with high dynamic range and no blown highlights. Wherever sky is visible, render it richly graded and cinematic — never empty, white or overexposed. Wherever water is visible, render it crystal-clear with deep sea-blue and turquoise gradients, clean caustics and sparkling reflections — never grey or murky (unless the concept explicitly specifies dark / ink / obsidian water, which stays deep, glassy and clean). Protect natural, true skin tone; never push saturation onto the face. Keep the image immaculately clean and premium with clear figure-to-ground separation so the hero reads first; honour the concept's intended dominant surface and full-frame coverage, and do NOT reveal unwanted structural edges, seams, side-walls or empty dead space that break the intended composition. Photoreal, award-winning editorial finish — no AI artifacts, plastic or waxy skin, dead eyes, malformed hands or unfinished backgrounds.
 
-IDENTITY (locked): Aira — same person every frame; face, bone structure, eye shape + colour, nose, lips, skin texture and hair strictly locked to reference; ONLY expression, gaze and head move; no identity drift, no face/anatomy warp, no second or duplicate person.
+NO SUBJECT (locked): this is a pure-environment frame — no person, no figure, no silhouette, no body, hands or face appear; render the world and its objects only. Identity lock is N/A because Aira is absent from this shot.
 
-SHOT TYPE: medium close, chest-up, subject and rising bloom fill ≈58% of the frame.
+SHOT TYPE: PURE ENVIRONMENT WIDE — no subject in frame; the moonlit iron-garden, iron flowers rising toward the lodestone and the wrought-iron pergola.
 
-LENS: 50mm, f/2.0.
+LENS: 24mm wide, f/4, deep focus holding the garden's full depth.
 
-SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] medium close, chest-up, subject and rising bloom fill ≈58% of the frame: a slow smooth ≈15° orbit around her right shoulder is already underway — opens as she lifts the lodestone and the bloom begins to rise so the hook lands instantly.
-- [00:02–00:04] filings stream up into an iron flower that opens toward her; she lifts the stone a little higher and the bloom follows, the earring swinging late.
-- [00:04–00:06] her eyes follow the opening flower, soft ember rising on her face; the bloom steadies, ready for the garden to follow.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous natural motion — never slow-motion, never a static hold; NO person in frame):
+- [00:00–00:02] PURE ENVIRONMENT WIDE, no subject: a slow smooth crane-back is already underway across the dark beds, iron blooms already rising toward the lodestone on the path so the hook lands instantly, near stems sliding faster than the far pergola in real parallax.
+- [00:02–00:04] filings stream up into iron flowers that open and lean toward the resting lodestone, the garden waking across the beds, unpeopled.
+- [00:04–00:06] the blooms steady, all turned toward the stone; a gentle settle, the lantern-wall glowing warm beyond, ready for the garden to follow.
 
-PHYSICS: the bloom forms with believable magnetic accretion — filings streaming up and holding a flower-form, metallic and leaning toward the stone, not melting; her body, hair stay weighted; motes drift.
+PHYSICS: the blooms form with believable magnetic accretion — filings streaming up and holding a flower-form, metallic and leaning toward the stone, not melting; the lodestone and path stay weighted; motes drift.
 
 MICRO-MAGIC: one beat — the iron flower rising and opening.
 
-CONTINUITY: boots, bangle, earring, wardrobe, low knot, makeup, dual catchlight identical to Frame 1.
+CONTINUITY: the iron-garden, beds, lodestone, pergola and lantern-wall identical to the surrounding frames; the world holds continuity while the subject is simply absent from this shot.
 
-AUDIO: diegetic only. Ambient — garden hush and lantern crackle. SFX — a soft iron-chime as the bloom opens at 0:01.0, a fine metallic shiver of streaming filings at 0:02.0. Reaction — a soft absorbed breath at 0:02.8. Master — the cello-and-glass bed rising a touch (present, never full). VO — none this frame.
+AUDIO: diegetic only. Ambient — garden hush and lantern crackle. SFX — a soft iron-chime as the blooms open at 0:01.0, a fine metallic shiver of streaming filings at 0:02.0. Master — the cello-and-glass bed rising a touch (present, never full). VO — none this frame (no person present).
 
 DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
 FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
-LIP-SYNC: none — lips parted in wonder.
+LIP-SYNC: N/A — no person, mouth or voice in this pure-environment frame.
 
-FACIAL CONSISTENCY / IDENTITY LOCK: hold the Aira reference exactly; locked steel-silver / ember-bronze catchlight only, iris unchanged, zero drift, eyes never glitch; keyframe-lock identity so the rising ember never melts the features.
+FACIAL CONSISTENCY / IDENTITY LOCK: N/A — no person, face or eyes in this pure-environment frame.
 
-NEGATIVE: identity drift, face or hand warp, extra or fused fingers, duplicate person, mirrored/flipped frame, slow-motion, watermark.
+NEGATIVE: any person, figure, human silhouette, body, hands or face; identity drift; mirrored/flipped frame; slow-motion; watermark; empty white or flat background; blown highlights; plasticky CGI.
 
 ## Frame 3 of 6 — IMAGE PROMPT
 STRICT COLOUR & RENDER MANDATE (must be followed exactly; this governs render QUALITY only and must NOT change the composition, camera, lens, framing, wardrobe, action or identity specified above): render the colours already specified at their richest, freshest, cleanest and most premium — crisp, vivid and luminous with elegant, controlled saturation; never dull, faded, washed-out, muddy, grey or flat. Hold deep-but-clean blacks, luminous full mid-tones and beautiful highlight roll-off with high dynamic range and no blown highlights. Wherever sky is visible, render it richly graded and cinematic — never empty, white or overexposed. Wherever water is visible, render it crystal-clear with deep sea-blue and turquoise gradients, clean caustics and sparkling reflections — never grey or murky (unless the concept explicitly specifies dark / ink / obsidian water, which stays deep, glassy and clean). Protect natural, true skin tone; never push saturation onto the face. Keep the image immaculately clean and premium with clear figure-to-ground separation so the hero reads first; honour the concept's intended dominant surface and full-frame coverage, and do NOT reveal unwanted structural edges, seams, side-walls or empty dead space that break the intended composition. Photoreal, award-winning editorial finish — no AI artifacts, plastic or waxy skin, dead eyes, malformed hands or unfinished backgrounds.
