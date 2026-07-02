@@ -4888,14 +4888,14 @@ KINETIC STILLNESS (8 layers): (1) a soft strand drifting slow at the temple; (2)
 
 MICRO-MAGIC (cue only): on the water one reflected star has brightened and shivered, as if ready to lift free of the surface — deniable, the first whisper that the sky will rise from the pool.
 
-SPATIAL LOGIC: FOREGROUND — the mirror-still water and her poised hand at ≈20% depth, tack sharp. MIDGROUND — Aira at the rim. BACKGROUND — the marble columns and the open oculus dome with the real night sky beyond, no clutter. Premium editorial finish — rich clean colour and luminous mid-tones, deep-but-clean blacks, cinematic lighting with soft rim separation and high dynamic range, layered foreground-to-background depth, elevated material realism, immaculately clean and never dull or faded, natural true skin preserved. Water kept deep, clean and glassy — premium and clear, never muddy or grey. Sky richly graded and cinematic with elegant clouds and premium light, never flat or empty. Architecture in fine premium materials with an immaculate finish.
+SPATIAL LOGIC: FOREGROUND — a near stretch of the pool-rim and mirror-still water at ≈12% depth, tack sharp, establishing the near plane. MIDGROUND — the moon-pool with Aira small kneeling at its rim. BACKGROUND — the ringed marble columns and the open oculus dome rising far above into the real night sky, receding with true atmospheric perspective (nearer marble sharp, far dome hazier and softer to sell the chamber's height). Water kept deep, clean and glassy — premium and clear, never muddy or grey. Sky richly graded and cinematic with premium light, never flat or empty. Architecture in fine premium materials with an immaculate finish.
 
 LIGHTING: KEY — cool moonlight through the oculus as a soft wrapping key from above. FILL — a faint silver bounce off the pool lifting the shadow side. RIM — cool starlight skimming her crown and one shoulder. PRACTICAL — the moon-pool and the oculus sky. SEPARATION — the chamber pulled deep so she reads ≈1.5 stops up. BOUNCE — a faint silver kick off the water. Premium editorial finish — rich clean colour and luminous mid-tones, deep-but-clean blacks, cinematic lighting with soft rim separation and high dynamic range, layered foreground-to-background depth, elevated material realism, immaculately clean and never dull or faded, natural true skin preserved. Water rendered crystal-clear in rich sea-blue and turquoise gradients, with beautiful caustics and clean sparkling reflections. Sky richly graded and cinematic with elegant clouds and premium light, never flat or empty.
 
-FRAMING: ASPECT 9:16; medium, kneeling figure to the pool, 12% headroom, the water entering the lower third, clean negative space above the pool to receive the risen stars that arrive later.
-SUBJECT FRAMING & POSITION: A medium framing holds Aira at about 12% headroom, kneeling figure to the pool, the water entering the lower third, clean negative space above the pool to receive the risen stars that arrive later. She is kneeling three-quarter to camera at the pool rim, spine long and easy, weight settled even with a soft 2° lean toward the water, front shoulder dropped a touch, chin level, alive and breathing. The camera holds a mid distance, Aira the sharp central figure of the Moon-Pool Mirror Observatory scene, with the glow arcing the upper frame above her. She faces front to the lens. Three-quarter at the marble pool rim, the right hand poised just above the water's surface and the left resting on the rim, weight settled with a soft counter-tilt. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+FRAMING: ASPECT 9:16; TRUE ESTABLISHING WIDE — full-figure and beyond, Aira small at ≈18% of frame kneeling at the moon-pool while the vast marble observatory and open oculus dome rise far above and around her; the chamber dwarfs the human, deep negative space holding the night sky.
+SUBJECT FRAMING & POSITION: A true wide establishing framing holds Aira SMALL — about 18% of frame height — kneeling at the rim of the still moon-pool, the ringed marble columns and the open oculus dome rising far above and around her so she reads as a lone figure dwarfed by the observatory; she is the scale-anchor that makes the chamber read as truly vast. She kneels three-quarter to camera at the pool rim, spine long and easy, weight settled even with a soft 2° lean, front shoulder dropped a touch, chin level, one hand poised just above the mirror-still water. The camera holds a wide, lifted distance, Aira the small sharp human anchor of the Moon-Pool Mirror Observatory scene while the observatory is the dominant subject. She faces three-quarter to the lens. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
-LENS + DOF + BOKEH: 35mm, f/2.2; focus split between her lowered near eye and the mirrored stars so both read crisp; the columns melting to soft blue bokeh; mist as fine low glow; gentle highlight roll-off, no clipping.
+LENS + DOF + BOKEH: 24mm wide, f/4; deep focus holding Aira, the pool and the vast marble columns all crisp for the establishing scale; only the nearest mist softening; gentle highlight roll-off, no clipping.
 
 COMPOSITION REFERENCE: serene establishing hero — sky-reader at the moon-pool, one impossible cue building (BA.3 cause building to effect).
 
@@ -4914,14 +4914,14 @@ STRICT COLOUR & RENDER MANDATE (must be followed exactly; this governs render QU
 
 IDENTITY (locked): Aira — same person every frame; face, bone structure, eye shape + colour, nose, lips, skin texture and hair strictly locked to reference; ONLY expression, gaze and head move; no identity drift, no face/anatomy warp, no second or duplicate person.
 
-SHOT TYPE: medium, kneeling figure to the pool, subject fills ≈50% of the vertical frame.
+SHOT TYPE: TRUE ESTABLISHING WIDE — high and pulled back, Aira small at ≈18% of the vertical frame while the vast marble observatory and open oculus sky dominate.
 
-LENS: 35mm, f/2.2, smooth blue background fall-off.
+LENS: 24mm wide, f/4, deep focus holding the whole scale of the observatory.
 
 SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] medium, kneeling figure to the pool, subject fills ≈50% of the vertical frame: a single slow 8% push-in across the clip is already underway — hold the still tableau, the mirrored stars bright, her hand poised above the water.
-- [00:02–00:04] one reflected star brightens and shivers on the surface; Aira's chest rises on a slow steady breath, her poised hand settling.
-- [00:04–00:06] her eyes lower to the shivering star, the moonstone earring hanging still; her fingertips begin to lower toward the surface, the clip holding just before she touches.
+- [00:00–00:02] TRUE ESTABLISHING WIDE, Aira small at ≈18% kneeling at the pool: a slow weighty crane-up-and-back is already underway, lifting to reveal the vast marble chamber and the open oculus sky rising over her — the observatory reads vast, she reads human; parallax slides the near pool-edge faster than the far dome for real 3D depth.
+- [00:02–00:04] the crane drifts on; the mirror-still pool holds the reflected stars bright, the ringed marble columns climbing toward the oculus, the dome hazier with atmospheric perspective toward the top.
+- [00:04–00:06] the move settles wide and high; at the tiny figure one reflected star brightens and shivers on the surface as her chest rises on a slow steady breath — the lone figure poised in the immense observatory, about to touch the water.
 
 PHYSICS: the observatory air is still — mist and a loose strand drift slow; the pool holds a perfect mirror with faint surface tension; her body, the floor, her hand obey normal gravity. The shivering star emits light, not force.
 
@@ -4944,42 +4944,35 @@ NEGATIVE: identity drift, face or hand warp, extra or fused fingers, duplicate p
 ## Frame 2 of 6 — IMAGE PROMPT
 STRICT COLOUR & RENDER MANDATE (must be followed exactly; this governs render QUALITY only and must NOT change the composition, camera, lens, framing, wardrobe, action or identity specified above): render the colours already specified at their richest, freshest, cleanest and most premium — crisp, vivid and luminous with elegant, controlled saturation; never dull, faded, washed-out, muddy, grey or flat. Hold deep-but-clean blacks, luminous full mid-tones and beautiful highlight roll-off with high dynamic range and no blown highlights. Wherever sky is visible, render it richly graded and cinematic — never empty, white or overexposed. Wherever water is visible, render it crystal-clear with deep sea-blue and turquoise gradients, clean caustics and sparkling reflections — never grey or murky (unless the concept explicitly specifies dark / ink / obsidian water, which stays deep, glassy and clean). Protect natural, true skin tone; never push saturation onto the face. Keep the image immaculately clean and premium with clear figure-to-ground separation so the hero reads first; honour the concept's intended dominant surface and full-frame coverage, and do NOT reveal unwanted structural edges, seams, side-walls or empty dead space that break the intended composition. Photoreal, award-winning editorial finish — no AI artifacts, plastic or waxy skin, dead eyes, malformed hands or unfinished backgrounds.
 
-IDENTITY LOCK: Aira [paste identity-lock reference sheet here]. TRANSFORM KEYFRAME NOTE: continuity-locked START of the star-rise — face fully recognizable, she has touched the pool and the first reflected stars are just beginning to lift free of the water as real points of light. Lock this START so Frame 3 interpolates cleanly to the floating constellation.
+IDENTITY LOCK: N/A — no person in this frame (pure environment); no reference sheet applies.
 
-SCENE NOTE: the stars rise from the water. Aira touches her fingertips to the moon-pool and the reflected stars begin to lift free — the first points of light rising up off the surface as real floating stars, trailing faint ripples of light; wonder warming her reverent focus.
+PURE ENVIRONMENT — NO SUBJECT IN FRAME: this is a world-only shot; Aira does NOT appear (no person, no figure, no silhouette, no body, no hands). Render only the environment, its objects and the magic cue. Disregard any subject/wardrobe/pose wording elsewhere.
 
-VISUAL-LEAD NOTE: catch the first-rise beat — reflected stars lifting up off the touched water as real floating points of light, faint ripple-rings spreading, her face cool-lit and wondering, fingertips at the surface.
+SCENE NOTE: the stars rise from the water, the observatory empty of any person. On the still moon-pool the reflected stars lift free of their own accord — points of light rising up off the mirror-bright surface as real floating stars, trailing faint ripple-rings across the water beneath the open oculus dome; no figure present, the pool giving the sky back to the air on its own.
 
-WARDROBE: the midnight-blue gown, continuity-locked, the front now catching soft starlight-gold from the rising stars, fully modest, pristine.
+VISUAL-LEAD NOTE: catch the first-rise beat as a world shot — NO figure; reflected stars lifting up off the still water as real floating points of light, faint ripple-rings spreading across the pool, the marble columns and open oculus framing the chamber.
 
-FOOTWEAR: the concept-locked midnight-blue velvet boots with the silver crescent heel, tucked beneath her and unchanged, the velvet cool-lit.
 
-ACCESSORIES: the silver star-map cuff (catching brighter light as the stars rise) and the moonstone earring, unchanged, the earring beginning to swing.
 
-HAIR: the low silver-pinned chignon, continuity-locked, a temple strand drifting, deep sheen, color locked.
 
-MAKEUP: the cool moonlit glow, continuity-locked, the silver-blue lid catching warm starlight-gold, soft rose lip, real pores.
 
-EYE COLOUR: iris exactly as referenced; the locked dual catchlight — moon-silver low, starlight-gold high — brightened by the rising stars; the eyes never glitch.
 
-HANDS & NAILS: the right fingertips just lifting from the surface, drawing the first stars up, the left hand steady on the rim; short almond neutral-gloss nails, neat cuticles, no tension.
 
-FACIAL MICRO-DYNAMICS: wonder warming the reverence, brows lifting barely 1mm, lips just parted in awe, eyes following the rising stars, a held serene delight.
 
-BODY POSTURE & WEIGHT: GAZE to the rising stars; HEAD chin lifting a touch; SHOULDERS soft; RIGHT ARM lifting, the RIGHT FINGERTIPS just lifting from the surface drawing the first stars up, RIGHT FINGERS delicate; LEFT ARM steady, the LEFT HAND on the rim, LEFT FINGERS relaxed; TORSO rotated about 4 degrees; WAIST & HIPS even with a counter-tilt; RIGHT LEG and LEFT LEG grounded even; FEET & WEIGHT even; HAIR drifting — absorbed and alive (living stillness).
 
-KINETIC STILLNESS (8 layers): (1) the first stars lifting up off the water; (2) faint ripple-rings spreading from her touch; (3) a temple strand drifting; (4) mist low; (5) chest easing on a slow breath; (6) silver specular sliding on the cuff; (7) the gown breathing with a fold-shadow micro-shift; (8) a slow eyelash settle as she watches.
 
-MICRO-MAGIC (START keyframe): reflected stars lifting up off the touched moon-pool as real floating points of light, trailing faint ripple-rings — the sky rising from the water, clearly drawn up by her touch.
+KINETIC STILLNESS (environmental, 6 layers): (1) the first stars lifting up off the water; (2) faint ripple-rings spreading slow across the pool; (3) low mist drifting over the marble; (4) silver starlight speculars sliding on the still water; (5) the real night sky wheeling almost imperceptibly through the oculus; (6) a loose reflection shivering on the pool's edge.
 
-SPATIAL LOGIC: FOREGROUND — the rising stars and her fingertips at ≈18% depth, tack sharp. MIDGROUND — her face. BACKGROUND — the columns and oculus in soft defocus, no clutter. Premium editorial finish — rich clean colour and luminous mid-tones, deep-but-clean blacks, cinematic lighting with soft rim separation and high dynamic range, layered foreground-to-background depth, elevated material realism, immaculately clean and never dull or faded, natural true skin preserved. Sky richly graded and cinematic with elegant clouds and premium light, never flat or empty. Architecture in fine premium materials with an immaculate finish.
+MICRO-MAGIC (START keyframe): reflected stars lifting up off the still moon-pool as real floating points of light, trailing faint ripple-rings — the sky rising from the water of its own accord, clearly defying nature.
+
+SPATIAL LOGIC: FOREGROUND — the rippling pool-edge and the first rising stars at ≈15% depth, tack sharp. MIDGROUND — the mirror-still moon-pool giving up its reflected stars. BACKGROUND — the marble columns and the open oculus dome rising into the real night sky, receding with true atmospheric depth. Premium editorial finish — rich clean colour and luminous mid-tones, deep-but-clean blacks, cinematic lighting with soft rim separation and high dynamic range, layered foreground-to-background depth, elevated material realism, immaculately clean and never dull or faded, natural true skin preserved. Sky richly graded and cinematic with elegant clouds and premium light, never flat or empty. Architecture in fine premium materials with an immaculate finish.
 
 LIGHTING: KEY — cool moonlight key. FILL — faint silver pool-bounce. RIM — cool star-light on crown. PRACTICAL — the rising stars now a soft warm secondary source on her hand and face. SEPARATION — chamber deep, ≈1.5 stops up. BOUNCE — silver kick on the cuff. Premium editorial finish — rich clean colour and luminous mid-tones, deep-but-clean blacks, cinematic lighting with soft rim separation and high dynamic range, layered foreground-to-background depth, elevated material realism, immaculately clean and never dull or faded, natural true skin preserved. Water rendered crystal-clear in rich sea-blue and turquoise gradients, with beautiful caustics and clean sparkling reflections. Sky richly graded and cinematic with elegant clouds and premium light, never flat or empty.
 
-FRAMING: ASPECT 9:16; medium close, chest-up, 11% headroom, the rising stars entering frame, cool negative space camera-right.
-SUBJECT FRAMING & POSITION: A medium close framing holds Aira at about 11% headroom, chest-up, the rising stars entering frame, cool negative space camera-right. She is upper body lifting a touch as her hand rises, torso rotated ≈4°, chin lifting toward the rising stars, weight even, spine long. The camera holds an intimate distance, Aira the sharp central figure of the Moon-Pool Mirror Observatory scene, with the clean negative space opening camera-right. She is turned a few degrees into the moment. Her right fingertips just lift from the surface drawing the first stars up while the left stays steady on the marble rim, chin lifting a touch. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
+FRAMING: ASPECT 9:16; PURE ENVIRONMENT WIDE — no subject; a wide of the marble observatory, the still moon-pool filling the lower frame as reflected stars lift free of it, the ringed columns and open oculus dome rising above.
+WORLD FRAMING & POSITION: A pure environment wide with NO person in frame — the marble observatory reads full and deep, the mirror-still moon-pool filling the lower frame as reflected stars rise off its surface into floating light, the ringed columns rising to the open oculus and the real night sky beyond. The world is the sole subject. ORIENTATION LOCK — preserve this exact left-to-right composition; do not mirror, flip or invert the frame.
 
-LENS + DOF + BOKEH: 50mm, f/2.0; focus split between her near eye and the rising stars so both read crisp; the chamber melting to creamy blue bokeh; soft starlight bloom; gentle roll-off.
+LENS + DOF + BOKEH: 24mm wide, f/4; deep focus holding the pool, the rising stars and the marble columns crisp across the depth; only the nearest ripple softening; soft starlight bloom; gentle roll-off.
 
 COMPOSITION REFERENCE: the first-rise beat — reflection becomes real (AT.5 transform logic).
 
@@ -4987,43 +4980,43 @@ ATMOSPHERE: hushed, wondrous, reverent — the instant the sky rises from the wa
 
 COLOR GRADE: deep midnight-blue with cool moon-silver and soft starlight-gold accent, rich blacks, clean whites, full mid-tone, no murk. World-class editorial colour — rich and vivid yet clean, luminous mid-tones, deep-but-clean blacks, controlled saturation, nothing washed-out, natural skin protected.
 
-TEXTURE & MICRO-DETAIL: the rising stars read as fine bright points with soft halos, not blobs; the water rippling real from her touch; the cuff silver and engraved; skin micro-texture with peach-fuzz at the jaw catching starlight; mist fine.
+TEXTURE & MICRO-DETAIL: the rising stars read as fine bright points with soft halos, not blobs; the water rippling real; the marble cool and veined; low mist fine over the pool.
 
-STORY BEAT: the sky rises — her touch draws the reflected stars up off the water as real floating light, wonder lighting her reverent focus.
+STORY BEAT: the sky rises — the still pool draws its reflected stars up into real floating light, the observatory hushed and unpeopled beneath the open oculus.
 
 NEGATIVE: mirrored, flipped, inverted, extra limbs, fused fingers, melted features, asymmetric eyes (unintentional), garbled text, floating shadows, duplicated subjects, plastic skin, over-smoothed skin, oversharpened, AI artifacts, watermarks, deformed hands, malformed teeth, joint cuts, off-axis pupils, melted clothing, mismatched footwear, mannequin posture, dead eyes, statue-frozen energy, glitching or colour-shifting eyes, crushed muddy blacks, garish oversaturation, flat dull light, blobby stars.
 
 ## Frame 2 of 6 — VIDEO PROMPT
 STRICT COLOUR & RENDER MANDATE (must be followed exactly; this governs render QUALITY only and must NOT change the composition, camera, lens, framing, wardrobe, action or identity specified above): render the colours already specified at their richest, freshest, cleanest and most premium — crisp, vivid and luminous with elegant, controlled saturation; never dull, faded, washed-out, muddy, grey or flat. Hold deep-but-clean blacks, luminous full mid-tones and beautiful highlight roll-off with high dynamic range and no blown highlights. Wherever sky is visible, render it richly graded and cinematic — never empty, white or overexposed. Wherever water is visible, render it crystal-clear with deep sea-blue and turquoise gradients, clean caustics and sparkling reflections — never grey or murky (unless the concept explicitly specifies dark / ink / obsidian water, which stays deep, glassy and clean). Protect natural, true skin tone; never push saturation onto the face. Keep the image immaculately clean and premium with clear figure-to-ground separation so the hero reads first; honour the concept's intended dominant surface and full-frame coverage, and do NOT reveal unwanted structural edges, seams, side-walls or empty dead space that break the intended composition. Photoreal, award-winning editorial finish — no AI artifacts, plastic or waxy skin, dead eyes, malformed hands or unfinished backgrounds.
 
-IDENTITY (locked): Aira — same person every frame; face, bone structure, eye shape + colour, nose, lips, skin texture and hair strictly locked to reference; ONLY expression, gaze and head move; no identity drift, no face/anatomy warp, no second or duplicate person.
+NO SUBJECT (locked): this is a pure-environment frame — no person, no figure, no silhouette, no body, hands or face appear; render the world and its objects only. Identity lock is N/A because Aira is absent from this shot.
 
-SHOT TYPE: medium close, chest-up, subject and rising stars fill ≈58% of the frame.
+SHOT TYPE: PURE ENVIRONMENT WIDE — no subject in frame; the marble observatory, the star-shedding moon-pool and the open oculus dome.
 
-LENS: 50mm, f/2.0.
+LENS: 24mm wide, f/4, deep focus holding the chamber's full depth.
 
-SHOT BREAKDOWN (timed, 6s · real-time, continuous energetic motion — never slow-motion, never a static hold; expression eye-led and identity-safe):
-- [00:00–00:02] medium close, chest-up, subject and rising stars fill ≈58% of the frame: a slow smooth ≈15° orbit around her right shoulder is already underway — opens as her fingertips touch and the first stars begin to lift so the hook lands instantly.
-- [00:02–00:04] reflected stars rise up off the water as floating points of light, ripple-rings spreading; she lifts her hand and more stars follow it up, the earring swinging late.
-- [00:04–00:06] her eyes follow the rising stars, soft starlight rising on her face; the first cluster hovers above the pool, ready to gather.
+SHOT BREAKDOWN (timed, 6s · real-time, continuous natural motion — never slow-motion, never a static hold; NO person in frame):
+- [00:00–00:02] PURE ENVIRONMENT WIDE, no subject: a slow smooth crane-back is already underway across the still chamber, the first reflected stars already lifting off the pool so the hook lands instantly, near ripples sliding faster than the far columns in real parallax.
+- [00:02–00:04] reflected stars rise up off the water as floating points of light, ripple-rings spreading across the mirror-still pool, the observatory quiet and unpeopled.
+- [00:04–00:06] the first cluster of risen stars hovers above the pool, ready to gather; a gentle settle, the real night sky wheeling slow through the oculus.
 
-PHYSICS: the stars lift with believable buoyant rise off the water, trailing faint light-ripples, exerting no force; the pool ripples real from her touch; her body, hair stay weighted; mist drifts.
+PHYSICS: the stars lift with believable buoyant rise off the water, trailing faint light-ripples, exerting no force; the pool ripples real beneath them; the marble stays weighted; low mist drifts.
 
 MICRO-MAGIC: one beat — the reflected stars rising from the pool as real floating light.
 
-CONTINUITY: boots, cuff, earring, wardrobe, chignon, makeup, dual catchlight identical to Frame 1.
+CONTINUITY: the moon-pool, marble columns, oculus dome and night sky identical to the surrounding frames; the world holds continuity while the subject is simply absent from this shot.
 
-AUDIO: diegetic only. Ambient — observatory hush and marble echo. SFX — a soft water-touch ripple at 0:00.4, a faint celestial chime as stars rise at 0:01.2, a gentle shimmer at 0:02.2. Reaction — a soft awed breath at 0:02.8. Master — the glass-harmonica bed rising a touch (present, never full). VO — none this frame.
+AUDIO: diegetic only. Ambient — observatory hush and marble echo. SFX — a soft water-ripple at 0:00.4, a faint celestial chime as stars rise at 0:01.2, a gentle shimmer at 0:02.2. Master — the glass-harmonica bed rising a touch (present, never full). VO — none this frame (no person present).
 
 DURATION: 6 seconds (the clip plays the full 6s at real-time natural speed).
 
 FRAME RATE + MOTION BLUR: 24fps, real-time playback at natural speed (no slow-motion), 180° shutter, natural motion blur.
 
-LIP-SYNC: none — lips parted in awe, no words.
+LIP-SYNC: N/A — no person, mouth or voice in this pure-environment frame.
 
-FACIAL CONSISTENCY / IDENTITY LOCK: hold the Aira reference exactly; locked moon-silver / starlight-gold catchlight only, iris unchanged, zero drift, eyes never glitch; keyframe-lock identity so the rising light never melts the features.
+FACIAL CONSISTENCY / IDENTITY LOCK: N/A — no person, face or eyes in this pure-environment frame.
 
-NEGATIVE: identity drift, face or hand warp, extra or fused fingers, duplicate person, mirrored/flipped frame, slow-motion, watermark.
+NEGATIVE: any person, figure, human silhouette, body, hands or face; identity drift; mirrored/flipped frame; slow-motion; watermark; empty white or flat background; blown highlights; plasticky CGI.
 
 ## Frame 3 of 6 — IMAGE PROMPT
 STRICT COLOUR & RENDER MANDATE (must be followed exactly; this governs render QUALITY only and must NOT change the composition, camera, lens, framing, wardrobe, action or identity specified above): render the colours already specified at their richest, freshest, cleanest and most premium — crisp, vivid and luminous with elegant, controlled saturation; never dull, faded, washed-out, muddy, grey or flat. Hold deep-but-clean blacks, luminous full mid-tones and beautiful highlight roll-off with high dynamic range and no blown highlights. Wherever sky is visible, render it richly graded and cinematic — never empty, white or overexposed. Wherever water is visible, render it crystal-clear with deep sea-blue and turquoise gradients, clean caustics and sparkling reflections — never grey or murky (unless the concept explicitly specifies dark / ink / obsidian water, which stays deep, glassy and clean). Protect natural, true skin tone; never push saturation onto the face. Keep the image immaculately clean and premium with clear figure-to-ground separation so the hero reads first; honour the concept's intended dominant surface and full-frame coverage, and do NOT reveal unwanted structural edges, seams, side-walls or empty dead space that break the intended composition. Photoreal, award-winning editorial finish — no AI artifacts, plastic or waxy skin, dead eyes, malformed hands or unfinished backgrounds.
